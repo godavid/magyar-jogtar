@@ -129,7 +129,7 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 
 (1b) Az (1) bekezdés a) pontjának alkalmazásában elismert költségnek minősül a személyi jövedelemadóról szóló törvényben elismert költség, valamint a fizetett tartásdíj. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel, vagy a bevétel 85%-ának, illetőleg állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-(1c) Az (1) bekezdés a) pontjának alkalmazásában befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségbiztosítási hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
+(1c) Az (1) bekezdés a) pontjának alkalmazásában befizetési kötelezettségnek minősül a személyi jövedelemadó, az egyszerűsített vállalkozási adó, a magánszemélyt terhelő egyszerűsített közteherviselési hozzájárulás, egészségügyi hozzájárulás és járulék, egészségügyi szolgáltatási járulék, nyugdíjjárulék, nyugdíjbiztosítási járulék, magán-nyugdíjpénztári tagdíj és munkavállalói járulék.
 
 (2) E törvény 6. §-a és a II - III. Fejezet alkalmazásában hajléktalan a bejelentett lakóhellyel nem rendelkező személy, kivéve azt, akinek bejelentett lakóhelye a hajléktalan szállás.
 
@@ -465,7 +465,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (2) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a szociális, gyermekjóléti és gyermekvédelmi ellátásokkal kapcsolatos adatok gyűjtése, rendszerezése és közzététele, valamint a széles körű tájékoztatás érdekében – Szociális Ágazati Portál elnevezéssel – honlapot működtet.
 
-24/B. § A szociális hatóság az általa vezetett, a 18/B. §, a 20/C. §, a Gyvt. 139. § (2) bekezdése, továbbá – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – a nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (1) bekezdése szerinti, valamint a Tny. 96. § (1) bekezdése szerinti nyilvántartásából átadja a kormányrendeletben meghatározott, a 64. § (7) bekezdése szerinti program jogosultjainak természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálatnak.
+24/B. § A szociális hatóság az általa vezetett, a 18/B. §, a 20/C. §, a Gyvt. 139. § (2) bekezdése, továbbá – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – a nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (1) bekezdése szerinti, valamint a Tny. 96. § (1) bekezdése szerinti nyilvántartásából átadja a kormányrendeletben meghatározott, a 64. § (7) bekezdése szerinti program jogosultjainak természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálatnak és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szervnek.
 
 ### II. Fejezet — PÉNZBELI ELLÁTÁSOK
 
@@ -1187,15 +1187,16 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságnak nem feltétele a befogadás
 
-- a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott szociális szolgáltatók és szociális intézmények esetén,
+- a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a 91. § (3) bekezdése alapján más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
 - b) családsegítés és gyermekjóléti szolgáltatás esetén,
 - c) utcai szociális munka esetén,
 - d) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás esetén, valamint
-- e) támogatott lakhatás esetén.
+- e) támogatott lakhatás esetén,
+- f) az államháztartásról szóló 2011. évi CXCV. törvény 14. § (3) bekezdése szerinti fejezetből finanszírozott szociális szolgáltató, intézmény (székhely, telephely) és az általa nyújtott szociális szolgáltatás, valamint az ehhez tartozó ellátotti létszám, férőhelyszám vagy feladatmutató esetén.
 
 (2c) A rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
-- a) az önkormányzati kötelező feladatot ellátó, állami fenntartású szociális szolgáltatót, intézményt (székhelyet, telephelyet) és az általa önkormányzati kötelező feladatként nyújtott szociális szolgáltatást, valamint az ehhez tartozó ellátotti létszámot és férőhelyszámot,
+- a)
 - b) azt a szociális szolgáltatót, intézményt (székhelyt, telephelyet), szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, vagy a szociális szolgáltató, intézmény az Európai Uniótól, a Svájci Alapból, az EGT Alapból, a Norvég Alapból vagy a központi költségvetésből – a szociál- és nyugdíjpolitikáért felelős miniszter által közzétett közleményben meghatározott – pályázaton elnyert támogatásban részesül,
 - c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is jogerősen bejegyzett szociális szolgáltatót, intézményt, szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amely esetében szolgáltatói nyilvántartásba bejegyzett adatok módosítása költségvetési többletkiadást nem eredményez, és a módosítást kizárólag
   - ca) a fenntartó szociális szolgáltatói, intézményei közötti szétválás vagy egyesítés teszi szükségessé,
@@ -1207,11 +1208,11 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen és átcsoportosításon az egyik intézményben, telephelyen történő ellátotti létszám-, férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű ellátotti létszám-, férőhelyszám-növelést kell érteni.
 
-(2f) A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két közzétett időpontban – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése nélkül dönt, ha a befogadást fenntartóváltásra tekintettel kérik, és a fenntartóváltás költségvetési többletkiadással nem jár. Ebben az esetben a döntést a közzétett évi két döntési időpontra tekintet nélkül kell meghozni.
+(2f) A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két közzétett időpontban – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése nélkül dönt, ha a befogadást fenntartóváltásra vagy fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra tekintettel kérik, és a fenntartóváltás vagy átadás költségvetési többletkiadással nem jár. Ebben az esetben a döntést a közzétett évi két döntési időpontra tekintet nélkül kell meghozni.
 
-(2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés nem alkalmazható, a befogadásra a szociál- és nyugdíjpolitikáért felelős miniszter által meghatározott és közleményben közzétett kapacitások, vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
+(2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés – ide nem értve az ellátási területet nem érintő szétválás, egyesítés vagy átcsoportosítás esetében a (2c) bekezdés c) pont ca) és cb) alpontját – nem alkalmazható, a befogadásra a (2d) vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
 
-(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás és fejlesztő foglalkoztatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
+(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
 - a) házi segítségnyújtás esetén az ellátott személyek száma, támogató szolgáltatás és közösségi alapellátások esetén a teljesített feladatmutató, vagy nappali ellátás esetén a betöltött férőhelyek száma hat naptári hónap átlagában és a feltételek vizsgálatakor sem éri el a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám 90 százalékát,
 - b) a fenntartó a 20/C. § szerinti nyilvántartásban valótlanul tüntetett fel valakit igénybevevőként, vagy
@@ -1225,6 +1226,8 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 ellátott személyek száma, teljesített feladatmutató, illetve betöltött férőhelyek száma közül a magasabbnak a 110%-a alá.
 
 (2j) A (2h) bekezdés b) és c) pontja szerinti esetben a szociál- és nyugdíjpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről az eset összes körülményeire, így különösen a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására tekintettel dönt.
+
+(2k) A (2f) bekezdésben foglaltak alapján kérhető az átlagot jóval meghaladó minőségű elhelyezési körülményeket és szolgáltatásokat biztosító tartós bentlakásos intézményre vonatkozó, 2008. január 1-jét megelőzően hatályos szabályok alapján a szolgáltatói nyilvántartásban emelt szintű férőhelyként befogadott férőhelyeknek az adott intézménytípusra a központi költségvetésről szóló törvényben meghatározott, általános szabályok szerinti támogatásra jogosító befogadása.
 
 (3) Szociális szövetkezet nem nyújthat az 57. § (2) bekezdése szerinti személyes gondoskodást.
 
@@ -1465,6 +1468,8 @@ együttműködik.
 65/E. § (1) Az utcai szociális munka keretében biztosítani kell az utcán tartózkodó hajléktalan személy helyzetének, életkörülményeinek figyelemmel kísérését, szükség esetén ellátásának kezdeményezését, illetve az ellátás biztosításához kapcsolódó intézkedés megtételét.
 
 (2) A szociál- és nyugdíjpolitikáért felelős miniszter regionális illetékességgel diszpécserközpontokat jelöl ki az utcai szociális munkát végző, jogszabályban meghatározott feltételeknek megfelelő szervezetek közül. A kijelölés visszavonásig szól.
+
+(3) A szociál- és nyugdíjpolitikáért felelős miniszter a –10 °C vagy annál alacsonyabb hőmérséklet, tartósan 27 °C feletti napi középhőmérséklet vagy egyéb időjárási körülmények esetén a meteorológiai szolgálat második szintű veszélyjelzése esetén a regionális diszpécserközpontokon keresztül vörös kód figyelmeztetést ad ki, amelynek ideje alatt a bentlakásos intézmények – a diszpécserközpont előzetes jelzése alapján – a szolgáltatói nyilvántartásba bejegyzett ellátási formájuktól, ellátási területüktől és férőhelyszámuktól függetlenül kötelesek az intézménybe érkező hajléktalan személynek élete és testi épsége megóvásához szükséges mértékben a pihenés, télen a melegedés lehetőségét biztosítani. Az ellátás ideje alatt intézményi jogviszony nem jön létre. A szociál- és nyugdíjpolitikáért felelős miniszter a Szociális Ágazati Portálon a vörös kód ideje alatt alkalmazandó eljárásrendet tesz közzé.
 
 ### Nappali ellátás
 
@@ -1818,7 +1823,7 @@ tehet eleget.
 92. § (1) A személyes gondoskodást nyújtó ellátásokról, azok igénybevételéről, valamint a fizetendő térítési díjakról
 
 - a) a fenntartó önkormányzat,
-- b) ha a fenntartó önkormányzati társulás, akkor a társulási megállapodásban megjelölt székhely szerinti települési önkormányzat a társulási megállapodásban meghatározottak szerint
+- b) ha a fenntartó önkormányzati társulás, akkor a társulási megállapodásban megjelölt székhely szerinti vagy az erre kijelölt települési önkormányzat a társulási megállapodásban meghatározottak szerint
 
 rendeletet alkot.
 
@@ -2432,7 +2437,7 @@ történik.
 
 állhat fenn.
 
-(2) Az (1) bekezdés b) pontja szerinti esetben a fejlesztő foglalkoztatást nyújtó szervezetre a szociális szolgáltatókra vonatkozó szabályokat kell alkalmazni, azzal, hogy a 20. § szerinti nyilvántartásban nem kell feltüntetni a 20. § (2) bekezdés g) és h) pontja, valamint (4) bekezdés c) és d) pontja szerinti adatokat, és nem kell alkalmazni az 59. § (4) bekezdését, a 89–92. §-t, a 92/B. § (1) bekezdés a), e), i) és j) pontját, a 92/D–92/I. §-t, a 94. §-t, a 94/C. §-t, a 94/D. §-t, a 100–104. §-t, a 114–119/C. §-t és a 120–122/C. §-t. A szolgáltatói nyilvántartás, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások, a bejelentési kötelezettségek, az ellenőrzés, a bírság és más jogkövetkezmények, a 92/K. § (8)–(10) bekezdése szerinti közzététel, a befogadás, az állami támogatás, a 20/C. § szerinti nyilvántartás és az országos jelentési rendszer tekintetében a fejlesztő foglalkoztatás szociális szolgáltatásnak, a fejlesztő foglalkoztatásban részesülő személy igénybevevőnek, illetve ellátottnak, a fejlesztő foglalkoztatást nyújtó szervezet pedig szociális szolgáltatónak minősül.
+(2) Az (1) bekezdés b) pontja szerinti esetben a fejlesztő foglalkoztatást nyújtó szervezetre a szociális szolgáltatókra vonatkozó szabályokat kell alkalmazni, azzal, hogy a 20. § szerinti nyilvántartásban nem kell feltüntetni a 20. § (2) bekezdés g) és h) pontja, valamint (4) bekezdés c) és d) pontja szerinti adatokat, és nem kell alkalmazni az 59. § (4) bekezdését, a 89–92. §-t, a 92/B. § (1) bekezdés a), e), i) és j) pontját, a 92/D–92/I. §-t, a 94. §-t, a 94/C. §-t, a 94/D. §-t, a 100–104. §-t, a 114–119/C. §-t és a 120–122/C. §-t. A szolgáltatói nyilvántartás, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások, a bejelentési kötelezettségek, az ellenőrzés, a bírság és más jogkövetkezmények, a 92/K. § (8)–(10) bekezdése szerinti közzététel, az állami támogatás, a 20/C. § szerinti nyilvántartás és az országos jelentési rendszer tekintetében a fejlesztő foglalkoztatás szociális szolgáltatásnak, a fejlesztő foglalkoztatásban részesülő személy igénybevevőnek, illetve ellátottnak, a fejlesztő foglalkoztatást nyújtó szervezet pedig szociális szolgáltatónak minősül.
 
 (3) Az (1) bekezdés b) pontja szerinti esetben, ha az ellátott számára fejlesztő foglalkoztatást nyújtó szervezet és a 99/B. § (2) bekezdése szerinti intézményi jogviszony alapján szociális szolgáltatást, ellátást nyújtó intézmény, szolgáltató fenntartója különböző, a fenntartók az ellátottak foglalkoztatására megállapodást kötnek. A megállapodást érintő körülmények változásáról – a fejlesztési jogviszony vagy a munkaviszony megszűnését eredményező esetben legalább 10 nappal korábban írásban – a felek egymást kölcsönösen tájékoztatják.
 
@@ -2567,7 +2572,7 @@ történik.
 - a) a rehabilitációs programban meghatározott eredményeket nem sikerült elérni, de az ellátással az eredményes rehabilitáció megvalósítható, vagy
 - b) az ellátott önálló életvitelének kialakítása további segítséget igényel, amely azonban utógondozói szolgáltatás keretében nem valósítható meg.
 
-(3) A rehabilitációs célú lakóotthonban az ellátott határozatlan időre is elhelyezhető, ha a rehabilitációs alkalmassági vizsgálat, illetve a felülvizsgálat eredménye szerint az ellátott az önálló életvitel kialakítására várhatóan csak részben lesz képes.
+(3) A rehabilitációs célú lakóotthonban az ellátott határozatlan időre is elhelyezhető, ha az ellátott az önálló életvitel kialakítására várhatóan csak részben lesz képes.
 
 (4) A rehabilitációs intézményben és a rehabilitációs célú lakóotthonban minden esetben biztosítani kell
 
@@ -2584,21 +2589,17 @@ történik.
 - c) a szükséges egészségügyi ellátást vagy az egészségügyi ellátáshoz történő hozzájutás módját,
 - d) a szükséges utógondozást
 
-az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban a rehabilitációs alkalmassági vizsgálat, illetve a felülvizsgálat eredményének figyelembevételével kell meghatározni.
+az ellátottal kötött, a 94/C. § (3) bekezdése szerinti megállapodásban kell meghatározni.
 
 (7) Az utógondozás a rehabilitációs intézmény és a rehabilitációs célú lakóotthon által a társadalmi életben való részvétel, a munkavállalás és az önálló életvitel elősegítése érdekében nyújtott szolgáltatás. Az utógondozás időtartama nem haladhatja meg a két évet.
 
-113. § (1) A rehabilitációs intézménybe, illetve rehabilitációs célú lakóotthonba történő bekerülés feltétele a rehabilitációs alkalmassági vizsgálat elvégzése. A rehabilitációs alkalmassági vizsgálatot végző szociális szakértői szerv megállapítása alapján azok az ellátást igénylők, akik a vizsgálat időpontjában nem felelnek meg a rehabilitációs intézménybe, illetve rehabilitációs célú lakóotthonba történő elhelyezés feltételeinek, de a rehabilitációra alkalmassá tehetők, ideiglenes jelleggel legfeljebb egyéves időtartamra elhelyezhetők az intézményben, illetve lakóotthonban.
-
-(2) Az egyéves időtartam eltelte után a rehabilitációs alkalmassági vizsgálatot végző szociális szakértői szerv megállapítja, hogy az elhelyezést igénylő alkalmas-e a rehabilitációs intézményben, illetve rehabilitációs célú lakóotthonban történő elhelyezésre. Amennyiben a rehabilitációs tevékenység nem lehet eredményes, abban az esetben az ellátott más típusú intézménybe történő áthelyezését kell kezdeményezni a fenntartónál, aki köteles az ellátást igénybevevőt más intézménytípusban elhelyezni.
-
-(3) Az (1)–(2) bekezdés rehabilitációs alkalmassági vizsgálatra vonatkozó rendelkezéseit nem kell alkalmazni a szenvedélybeteg, továbbá a hajléktalan személy esetén.
+113. § A fogyatékos személyek rehabilitációs intézményébe, illetve a fogyatékos személyek rehabilitációs célú lakóotthonába történő bekerülés feltétele a 70. § (5) bekezdése szerinti alapvizsgálat elvégzése.
 
 ### Az ellátottak felülvizsgálata
 
 113/A. § A külön jogszabályban meghatározott felülvizsgálaton vesznek részt
 
-- a) az ápolást, gondozást nyújtó intézményben vagy ápoló-gondozó célú lakóotthonban elhelyezett, BNO 10 kódkönyv F diagnóziskóddal rendelkező ellátottak,
+- a) a fogyatékos személyek, a pszichiátriai és szenvedélybetegek ápolást, gondozást nyújtó intézményében vagy a fogyatékos személyek ápoló-gondozó célú lakóotthonában elhelyezett, BNO 10 kódkönyv F diagnóziskóddal rendelkező ellátottak,
 - b) az ápolást, gondozást nyújtó intézményben vagy ápoló-gondozó célú lakóotthonban ellátott fogyatékos személyek,
 - c) a rehabilitációs intézményben, rehabilitációs célú lakóotthonban ellátottak,
 - d)
@@ -3117,7 +3118,9 @@ járul hozzá.
 
 (2) Az (1) bekezdés rendelkezései az irányadók akkor is, ha a személyes gondoskodás megszervezését nem önkormányzati szerv az önkormányzattól átvállalja.
 
-139/A. §
+139/A. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvénynek a gyermekvédelem rendszerének megerősítése érdekében történő, valamint egyéb törvények módosításáról szóló 2017. évi XCV. törvénnyel megállapított 34. § (2) bekezdés h) pontját a 2018. január 1-jén és azt követően benyújtott aktív korúak ellátására való jogosultság megállapítására irányuló kérelmek alapján megállapított jogosultságok esetében kell alkalmazni.
+
+(2) Ha a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvénynek a gyermekvédelem rendszerének megerősítése érdekében történő, valamint egyéb törvények módosításáról szóló 2017. évi XCV. törvénnyel megállapított 58/A. § (2k) bekezdése alapján az emelt szintű férőhelyet az adott intézménytípusra a központi költségvetésről szóló törvényben meghatározott, általános szabályok szerinti támogatásra jogosító férőhelyként fogadják be, az ilyen férőhelyen ellátott személy gondozási szükségletét nem kell megvizsgálni és azt fennállónak kell tekinteni az ellátás teljes időtartama alatt, valamint számára továbbra is az átlagot jóval meghaladó minőségű elhelyezési körülmények és szolgáltatások nyújtására kötött megállapodás szerinti elhelyezést és ellátást kell biztosítani.
 
 140. §
 
