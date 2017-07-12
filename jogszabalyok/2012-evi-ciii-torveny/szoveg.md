@@ -38,7 +38,7 @@ kapcsolódó szervezési és lebonyolítási teendőket lát el.
 - b) a jogszabály alapján az MNÜA által kibocsátott más, szociális ellátási célokat szolgáló papír alapú és elektronikus utalványok kibocsátásával, forgalmazásával kapcsolatos – ráfordításokkal csökkentett – bevétel,
 - c) az Erzsébet-program végrehajtása céljára az MNÜA által megszerzett egyéb bevételek, támogatások.
 
-(2) Az állam támogatja az Alapítvány működését és az Alapítvány Erzsébet-program végrehajtásához szükséges közfeladatainak ellátását.
+(2) Az állam támogatja az Alapítvány működését és az Alapítvány Erzsébet-program végrehajtásához szükséges közfeladatainak ellátását. A támogatás mértékét és feltételeit az állam és az Alapítvány között 2017-től kezdődően ötéves időszakonként megújítandó megállapodás határozza meg.
 
 5. § Az MNÜA a 4. § (1) bekezdésben meghatározott forrásokat kizárólag a 3. § (1) bekezdésben meghatározott feladatok ellátására használhatja fel.
 
