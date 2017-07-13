@@ -1297,6 +1297,8 @@ tekintetében.
 
 72. § (1) A befektetési alap kezelésének szabályait – nyilvános befektetési alap esetén a Felügyelet által jóváhagyott, zártkörű befektetési alap esetén a Felügyelet részére benyújtott – kezelési szabályzatba kell foglalni. A kezelési szabályzatnak tartalmaznia kell minden olyan információt, amely lehetővé teszi a befektetési alap működésének, befektetési elveinek és kezelésének megítélését. ABA esetében a kezelési szabályzatnak hivatkoznia kell a letétkezelő által kötött azon megállapodásokra, amelyek célja, hogy a letétkezelő a 64. § (16) bekezdésével összhangban, szerződéses alapon felmentse magát a felelősség alól. A kezelési szabályzatot nyilvános befektetési alap esetében a 3. melléklet I. Fejezetében, zártkörű befektetési alap esetében a 3. melléklet II. Fejezetében, kockázati tőkealap, illetve magántőkealap esetében a 3. melléklet III. Fejezetében foglaltaknak megfelelő tartalommal kell elkészíteni.
 
+(1a) Zártkörű befektetési alap esetében a kezelési szabályzat tartalmára vonatkozóan az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/2365 rendelet) is megfelelően alkalmazandó.
+
 (2) A befektető a befektetési jegyek vásárlásakor nyilatkozik arról, hogy ismeri a kezelési szabályzatban foglalt feltételeket, különös tekintettel a befektetési jegyhez fűződő kockázatokra, valamint arról, hogy a befektetés a kockázatviselő képességének megfelel.
 
 (3) A nyilvános befektetési alap kezelési szabályzatában foglaltakat a befektetési alapkezelő a befektetők hozzájárulása nélkül, a Felügyelet engedélyével módosíthatja.
@@ -1905,21 +1907,7 @@ engedélyezte a tervezett egyesülést.
 
 #### 48. A tájékoztató
 
-129. § (1) Befektetési jegy nyilvános forgalomba hozatala esetén a tájékoztatónak az 5. melléklet szerinti tartalmon túl tartalmaznia kell minden olyan információt, amely alapján a befektetők kellő tájékozottsággal tudnak határozni a felkínált befektetési lehetőségről és a befektetés kockázatairól. A tájékoztatónak világos és közérthető magyarázatot kell tartalmaznia a befektetési alap kockázati tényezőiről.
-
-(2) A tájékoztatónak meg kell jelölnie azokat az eszközkategóriákat, amelyekbe a befektetési alap befektethet. Külön ki kell térni arra, hogy a befektetési alap számára engedélyezett-e a származtatott ügyletek alkalmazása.
-
-(3) Származtatott ügyletek alkalmazása esetén a tájékoztatónak arra vonatkozó információt is tartalmaznia kell, hogy a származtatott ügyletek engedélyezésére fedezeti célból vagy a befektetési célok megvalósítása érdekében van lehetőség és jelezni kell a származtatott ügyletek alkalmazásának lehetséges hatását a kockázati tényezők alakulására.
-
-(4) Amennyiben a befektetési alap alapvetően nem az átruházható értékpapírok vagy pénzügyi eszközök közé tartozó eszközkategóriákba fektet be, vagy leképez egy meghatározott indexet, e tényre a tájékoztatóban – és a kereskedelmi kommunikációban – kifejezetten fel kell hívni a figyelmet.
-
-(5) Amennyiben a befektetési alap nettó eszközértéke a vagyon lehetséges összetételénél vagy az alkalmazható kezelési technikáinál fogva erőteljesen ingadozhat, a tájékoztatónak – és a kereskedelmi kommunikációnak – kifejezetten fel kell hívnia a figyelmet a befektetési alap ezen sajátosságára.
-
-(6) A tájékoztatóban közölni kell a forgalomba hozatali maximum elérését követő allokáció módját, lezárásának időpontját, az allokációról való értesítés módját.
-
-(7) A tájékoztatót a befektetők számára tartós adathordozón vagy a befektetési alap közzétételi helyén folyamatosan elérhetővé kell tenni, és a tájékoztató egy nyomtatott példányát kérésre díjmentesen át kell adni.
-
-(8) A tájékoztató a befektetési alap megszűnéséig hatályos.
+129. § Befektetési jegy nyilvános forgalomba hozatala esetén a tájékoztatónak az 5. melléklet szerinti tartalmon túl tartalmaznia kell minden olyan információt, amely alapján a befektetők kellő tájékozottsággal tudnak határozni a felkínált befektetési lehetőségről és a befektetés kockázatairól, ideértve a 2015/2365 rendelet által meghatározott információkat is. A tájékoztatónak világos és közérthető magyarázatot kell tartalmaznia a befektetési alap kockázati tényezőiről.
 
 #### 49. A kiemelt befektetői információ
 

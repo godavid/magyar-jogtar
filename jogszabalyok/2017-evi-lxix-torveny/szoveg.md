@@ -161,7 +161,13 @@ lép.
 
 180–183. §
 
-184–185. §
+184. § A Kbftv. 72. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Zártkörű befektetési alap esetében a kezelési szabályzat tartalmára vonatkozóan az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/2365 rendelet) is megfelelően alkalmazandó.”
+
+185. § A Kbftv. 129. §-a helyébe a következő rendelkezés lép:
+
+„129. § Befektetési jegy nyilvános forgalomba hozatala esetén a tájékoztatónak az 5. melléklet szerinti tartalmon túl tartalmaznia kell minden olyan információt, amely alapján a befektetők kellő tájékozottsággal tudnak határozni a felkínált befektetési lehetőségről és a befektetés kockázatairól, ideértve a 2015/2365 rendelet által meghatározott információkat is. A tájékoztatónak világos és közérthető magyarázatot kell tartalmaznia a befektetési alap kockázati tényezőiről.”
 
 186–190. §
 
