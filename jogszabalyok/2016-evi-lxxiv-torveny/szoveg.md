@@ -113,17 +113,17 @@ helyezhető el.
 
 szabályokat.
 
-11/B. § (1) A település közigazgatási területéhez tartozó – az 1. mellékletben meghatározott – fokozott védelem alatt álló területen lévő közterületen és magánterületen reklámhordozó és reklám – jogszabályban meghatározott kivétellel – nem helyezhető el.
+11/B. § (1) A település közigazgatási területéhez tartozó – az 1. mellékletben meghatározott – fokozott védelem alatt álló területen lévő közterületen és magánterületen reklámhordozó és reklám – jogszabályban meghatározott kivétellel – nem helyezhető el. Az 1. melléklet 1. és 6. pontjában meghatározott közterületen és magánterületen a jogszabályban meghatározott, az adott terület fokozott védelmi besorolása szerinti jelleget nem befolyásoló funkcionális célokat szolgáló utcabútor elhelyezhető.
 
-(2) Az 1. mellékletben meghatározott területen kívül reklámhordozó közterületi és magánterületi elhelyezésére vonatkozó szerződés legfeljebb öt évre köthető.
+(2) Az 1. mellékletben meghatározott területen kívül reklámhordozó közterületi és magánterületi elhelyezésére vonatkozó szerződés legfeljebb tizenöt évre köthető.
 
-(3) Magánterületi ingatlanon legfeljebb egy reklámhordozó helyezhető el, ha a településképi rendelet a település egyes területei tekintetében eltérően nem rendelkezik.
+(3)
 
 (4) A településképi rendelet legfeljebb évente összesen tizenkét naptári hét időszakra eltérést engedhet az (1) és (2) bekezdésben, továbbá az e törvény végrehajtására kiadott kormányrendeletben meghatározott tilalmak és követelmények alól, ha a település szempontjából jelentős valamely eseményről való tájékoztatás érdekében az szükséges.
 
-11/C. § (1) A 11/B. § (1) és (2) bekezdésében, valamint az e törvény végrehajtására kiadott kormányrendeletben és településképi rendeletben meghatározott tilalmak megszegése és kötelezettségek elmulasztása esetén az e törvény végrehajtására kiadott kormányrendeletben kijelölt hatóság (a továbbiakban: hatóság) közigazgatási bírságot szab ki a reklám közzétevőjével szemben és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 150 000 forinttól 3 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt ismételten is kiszabható.
+11/C. § (1) A 11/B. § (1) és (2) bekezdésében, valamint az e törvény végrehajtására kiadott kormányrendeletben és településképi rendeletben meghatározott tilalmak megszegése és kötelezettségek elmulasztása esetén az e törvény végrehajtására kiadott kormányrendeletben kijelölt hatóság (a továbbiakban: hatóság) közigazgatási bírságot szab ki a reklám közzétevőjével szemben és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 500 000 forinttól 3 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt ismételten is kiszabható.
 
-(2) Az (1) bekezdés szerinti közigazgatási bírság kiszabása során a hatóság mérlegeli a jogsértő magatartás súlyát, különösen a jogsértések számát és a településkép védelméhez fűződő érdek sérelmének mértékét, a jogsértés ismételtségét, időtartamát, a jogsértéssel elért előny mértékét és a reklámot közzétevő vállalkozás előző évi adózott eredményét.
+(2) Az (1) bekezdés szerinti közigazgatási bírság kiszabása során a hatóság mérlegeli a jogsértő magatartás súlyát, különösen a jogsértések számát és a településkép védelméhez fűződő érdek sérelmének mértékét, a jogsértés ismételtségét, időtartamát, a jogsértéssel elért előny mértékét.
 
 (3) Az (1) bekezdés szerinti közigazgatási bírság megfizetése nem mentesíti a kötelezettet a jogsértő állapot megszüntetésének kötelezettsége alól. A jogerősen kiszabott és be nem fizetett közigazgatási bírság adók módjára behajtandó köztartozásnak minősül.
 
@@ -137,7 +137,7 @@ szabályokat.
 
 (3) Ha a helyszíni intézkedés alkalmával az (1) bekezdés szerinti természetes személy a jogsértést teljes mértékben elismeri, a (2) bekezdés szerinti eljáró hatóság helyszíni bírságot szabhat ki.
 
-(4) A közigazgatási bírság összege 10 000 forinttól 100 000 forintig terjedhet. A helyszíni bírság összege 5000 forinttól 50 000 forintig terjedhet.
+(4) A közigazgatási bírság összege 10 000 forinttól 200 000 forintig terjedhet. A helyszíni bírság összege 5000 forinttól 100 000 forintig terjedhet.
 
 (5) A közigazgatási bírság, a helyszíni bírság kiszabása során a (2) bekezdés szerinti eljáró hatóság a közigazgatási bírság, a helyszíni bírság mértékét korlátlanul enyhítheti vagy a jogsértő magatartás csekély súlya miatt a kiszabását mellőzheti, feltéve, hogy a jogsértő magatartást tanúsító személy a plakátot nyomban eltávolítja.
 
@@ -156,7 +156,7 @@ szabályokat.
   - b) az üzlethelyiség portáljában (kirakatában) elhelyezett gazdasági reklámot,
   - c) a járművön elhelyezett gazdasági reklámot, továbbá
   - d) a tulajdonos által az ingatlanán elhelyezett, annak elidegenítésére vonatkozó ajánlati felhívást (hirdetést), valamint a helyi önkormányzat által lakossági apróhirdetések közzétételének megkönnyítése céljából biztosított táblán vagy egyéb felületen elhelyezett, kisméretű hirdetéseket;
-- 4. reklámhordozó: olyan eszköz, berendezés, létesítmény, amelynek rendeltetésszerű céljai közé tartozik az e törvény szerinti reklám közzététele.
+- 4. reklámhordozó: a funkcióját vagy létesítésének célját tekintve túlnyomórészt az e törvény szerinti reklám közzétételét, illetve elhelyezését biztosító, elősegítő vagy támogató eszköz, berendezés, létesítmény.
 
 #### 4/D. A közpénzekkel való felelős gazdálkodásra kötelezett szervezetekre vonatkozó különös szabályok
 
@@ -227,11 +227,21 @@ szabályokat.
 
 (2) Ha a 11/G. § (2) bekezdése alapján listaár közzétételére még nem került sor, a médiahirdetésifelület-értékesítő a szerződés megkötését megelőzően a hatóság részére bejelentett és a hatóság által a honlapján közzétett listaár alkalmazásával köthet szerződést.
 
+15/A. § (1) E törvénynek a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezéseit a Módtv.2. hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2) 2020. december 31. napján megszűnik valamennyi, a Módtv.2. hatálybalépését megelőzően létrejött olyan, határozatlan vagy 2020. december 31. napjánál hosszabb ideig tartó, határozott időtartamra kötött, közterület reklámcélú hasznosítására és annak ellenőrzésére irányuló, valamely helyi önkormányzattal kötött reklám rendszergazdai szerződés, amely nem felel meg e törvény – Módtv. és Módtv.2. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet és településképi rendelet rendelkezéseinek. A szerződés megszűnésével megszűnik valamennyi, az ilyen szerződésen alapuló reklámhordozó igénybevételére vonatkozó jogosultság.
+
+(3) A (2) bekezdés szerinti, határozott időre szóló reklám rendszergazdai szerződés időbeli hatálya nem hosszabbítható meg, és az érintett rendszergazdai tevékenységre új szerződés nem köthető.
+
 16. § (1) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követő 90 napon belül felülvizsgálja a Módtv. hatálybalépésekor fennálló, a település közterületének reklámcélú hasznosítására vonatkozó szerződéseit és kezdeményezi azoknak a Módtv. által megállapított és a végrehajtására kiadott kormányrendelet rendelkezéseknek megfelelő módosítását vagy új szerződések megkötését, legkésőbb a 15. § (3) bekezdése szerinti hatállyal.
 
 (2) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követően – legkésőbb 2017. október 1. napjáig – e törvénynek a Módtv. által megállapított szabályaival és a végrehajtására kiadott kormányrendelettel összhangban megalkotja vagy módosítja a településképi rendeletét.
 
 (3) Ha az (1) bekezdés szerinti szerződésmódosítás, vagy az eredeti szerződés helyébe lépő új szerződés megkötése meghiúsul, a helyi önkormányzat a szerződést – a szerződés szerinti felmondási jog gyakorlásán túlmenően – hathavi felmondási idővel felmondhatja.
+
+16/A. § (1) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követő 90 napon belül felülvizsgálja a Módtv.2 hatálybalépésekor fennálló, a település közterületének reklámcélú hasznosítására vonatkozó rendszergazdai szerződéseit, és kezdeményezi azoknak a Módtv. és a Módtv.2. által megállapított és a végrehajtására kiadott kormányrendelet rendelkezéseknek megfelelő módosítását legkésőbb a 15. § (3) bekezdése szerinti hatállyal.
+
+(2) A Módtv.2.-vel megállapított 11/B. § (2) bekezdése a Módtv.2. hatálybalépését megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket nem érinti. A Módtv.2. hatálybalépése előtt létrejött szerződések időtartamának a Módtv.2. hatálybalépését követően történő meghosszabbítása új jogviszony létesítésének minősül, melyre e törvény Módtv 2.-vel megállapított 11/B. § (2) bekezdése megfelelően irányadó.
 
 17. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
