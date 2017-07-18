@@ -126,45 +126,7 @@ Magyarország 2018. évi központi költségvetésének megalapozásáról
 
 #### 28. A településkép védelméről szóló 2016. évi LXXIV. törvény módosítása
 
-94. § A településkép védelméről szóló 2016. évi LXXIV. törvény 11/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A település közigazgatási területéhez tartozó – az 1. mellékletben meghatározott – fokozott védelem alatt álló területen lévő közterületen és magánterületen reklámhordozó és reklám – jogszabályban meghatározott kivétellel – nem helyezhető el. Az 1. melléklet 1. és 6. pontjában meghatározott közterületen és magánterületen a jogszabályban meghatározott, az adott terület fokozott védelmi besorolása szerinti jelleget nem befolyásoló funkcionális célokat szolgáló utcabútor elhelyezhető.”
-
-95. § A településkép védelméről szóló 2016. évi LXXIV. törvény 11/E. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A közigazgatási bírság összege 10 000 forinttól 200 000 forintig terjedhet. A helyszíni bírság összege 5000 forinttól 100 000 forintig terjedhet.”
-
-96. § A településkép védelméről szóló 2016. évi LXXIV. törvény 11/F. § 4. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:)
-
-„4. reklámhordozó: a funkcióját vagy létesítésének célját tekintve túlnyomórészt az e törvény szerinti reklám közzétételét, illetve elhelyezését biztosító, elősegítő vagy támogató eszköz, berendezés, létesítmény.”
-
-97. § A településkép védelméről szóló 2016. évi LXXIV. törvény 5. alcíme a következő 15/A. §-sal egészül ki:
-
-„15/A. § (1) E törvénynek a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezéseit a Módtv.2. hatálybalépését követően indult eljárásokban kell alkalmazni.
-
-(2) 2020. december 31. napján megszűnik valamennyi, a Módtv.2. hatálybalépését megelőzően létrejött olyan, határozatlan vagy 2020. december 31. napjánál hosszabb ideig tartó, határozott időtartamra kötött, közterület reklámcélú hasznosítására és annak ellenőrzésére irányuló, valamely helyi önkormányzattal kötött reklám rendszergazdai szerződés, amely nem felel meg e törvény – Módtv. és Módtv.2. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet és településképi rendelet rendelkezéseinek. A szerződés megszűnésével megszűnik valamennyi, az ilyen szerződésen alapuló reklámhordozó igénybevételére vonatkozó jogosultság.
-
-(3) A (2) bekezdés szerinti, határozott időre szóló reklám rendszergazdai szerződés időbeli hatálya nem hosszabbítható meg, és az érintett rendszergazdai tevékenységre új szerződés nem köthető.”
-
-98. § A településkép védelméről szóló 2016. évi LXXIV. törvény 5. alcíme a következő 16/A. §-sal egészül ki:
-
-„16/A. § (1) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követő 90 napon belül felülvizsgálja a Módtv.2 hatálybalépésekor fennálló, a település közterületének reklámcélú hasznosítására vonatkozó rendszergazdai szerződéseit, és kezdeményezi azoknak a Módtv. és a Módtv.2. által megállapított és a végrehajtására kiadott kormányrendelet rendelkezéseknek megfelelő módosítását legkésőbb a 15. § (3) bekezdése szerinti hatállyal.
-
-(2) A Módtv.2.-vel megállapított 11/B. § (2) bekezdése a Módtv.2. hatálybalépését megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket nem érinti. A Módtv.2. hatálybalépése előtt létrejött szerződések időtartamának a Módtv.2. hatálybalépését követően történő meghosszabbítása új jogviszony létesítésének minősül, melyre e törvény Módtv 2.-vel megállapított 11/B. § (2) bekezdése megfelelően irányadó.”
-
-99. § A településkép védelméről szóló 2016. évi LXXIV. törvény
-
-- 1. 11/B. § (2) bekezdésében a „legfeljebb öt évre” szövegrész helyébe a „legfeljebb tizenöt évre” szöveg, és
-- 2. 11/C. (1) bekezdésében a „150 000” szövegrész helyébe az „500 000” szöveg
-
-lép.
-
-100. § Hatályát veszti a településkép védelméről szóló 2016. évi LXXIV. törvény
-
-- 1. 11/B. § (3) bekezdése, és
-- 2. 11/C. § (2) bekezdésében az „és a reklámot közzétevő vállalkozás előző évi adózott eredményét” szövegrész.
+94–100. §
 
 #### 29. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló2017. évi LIII. törvény módosítása
 
