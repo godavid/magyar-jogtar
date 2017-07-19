@@ -141,6 +141,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény;
 - 75. Prémium típusú támogatás: a prémium típusú támogatási rendszer keretében nyújtott ártámogatás;
 - 76. Prémium típusú támogatási rendszer: olyan támogatási rendszer, amelyben a megújuló energiaforrásból származó villamos energiát a termelő piaci körülmények között értékesíti és emellett az általa termelt villamos energiával arányosan ártámogatásban (prémiumban) részesül;
+- 77. Demonstrációs projekt: egy technológiát az Európai Unióban elsőként bemutató, és jelentős, a technika aktuális állását meghaladó újítást képviselő projekt.
 
 ### II. Fejezet — A VILLAMOS ENERGIA TERMELÉSE
 
@@ -248,27 +249,32 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 11. § (1) A 10. § szerinti szempontok alapján meghatározott kötelező átvétel a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti kötelező átvételi áron történik.
 
-(2) A prémium típusú támogatási rendszer keretében megújuló energiaforrások felhasználásával történő villamosenergia-termelést lehetővé tevő új beruházások ösztönzésére nyújtható támogatás.
+(2) Prémium típusú támogatás nyújtható
+
+- a) megújuló energiaforrások felhasználásával történő villamosenergia-termelést lehetővé tevő új beruházások ösztönzésére, vagy
+- b) biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére.
 
 (3) A prémium típusú támogatás támogatott árát a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendeletben meghatározott eseteket kivéve pályázati eljárás során a Hivatal állapítja meg.
 
-(4) Az (1) bekezdés szerinti, átvételi kötelezettség alá eső villamos energia átvételi árát és a prémium típusú támogatás támogatott árát Ft/kWh egységben kell megállapítani.
+(4) Az (1) bekezdés szerinti, átvételi kötelezettség alá eső villamos energia átvételi árát és a (2) bekezdés a) és b) pontjai szerinti prémium típusú támogatás támogatott árát Ft/kWh egységben kell megállapítani.
 
-(5) Az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát, valamint a pályázati eljárás alá nem tartozó, prémium típusú támogatás alá eső villamos energia mennyiségét és a támogatás időtartamát a Hivatal állapítja meg. Az átvételi kötelezettség és a prémium típusú támogatás keretében nyújtott támogatás mértékét – a (4) bekezdés rendelkezéseivel összhangban – energiaforrásonként, termelési eljárásonként, valamint az erőművi teljesítőképességre való tekintettel eltérő mértékben is meg lehet állapítani.
+(5) Az átvételi kötelezettség alá eső villamos energia mennyiségét és a kötelező átvétel időtartamát, valamint a pályázati eljárás alá nem tartozó, prémium típusú támogatás alá eső villamos energia mennyiségét, és a támogatás időtartamát, valamint a (2) bekezdés b) pontja szerinti prémium típusú támogatás mértékét a Hivatal állapítja meg. Az átvételi kötelezettség és a prémium típusú támogatás keretében nyújtott támogatás mértékét – a (4) bekezdés rendelkezéseivel összhangban – energiaforrásonként, termelési eljárásonként, valamint az erőművi teljesítőképességre való tekintettel eltérő mértékben is meg lehet állapítani.
 
-(6) Az (1) bekezdés szerinti kötelező átvétel és a prémium típusú támogatás Hivatal általi megállapítása során tekintettel kell lenni arra, hogy ezek a támogatások legfeljebb az adott beruházás méltányos megtérüléséhez szükséges mértékig biztosíthatóak, és a támogatás időtartama nem haladhatja meg a számviteli szabályok szerinti értékcsökkenési leírás időtartamát.
+(6) Az (1) bekezdés szerinti kötelező átvétel és a (2) bekezdés a) pontja szerinti prémium típusú támogatás Hivatal általi megállapítása során tekintettel kell lenni arra, hogy ezek a támogatások legfeljebb az adott beruházás méltányos megtérüléséhez szükséges mértékig biztosíthatóak, és a támogatás időtartama nem haladhatja meg a számviteli szabályoknak megfelelő értékcsökkenési leírás időtartamát.
 
-(7) Az átvételi kötelezettség keretében adható támogatás, valamint a prémium típusú támogatás mértékének meghatározásakor csökkentő tényezőként kell figyelembe venni az állami támogatásokat és a környezetvédelmi termékdíjról szóló törvény szerinti hulladékhasznosítói szolgáltatásra vonatkozó megrendelést.
+(7) Az átvételi kötelezettség keretében adható támogatás, valamint a prémium típusú támogatás mértékének meghatározásakor csökkentő tényezőként kell figyelembe venni az állami támogatásokat, és a környezetvédelmi termékdíjról szóló törvény szerinti hulladékhasznosítói szolgáltatásra vonatkozó megrendelést.
 
 (8) A (7) bekezdés szempontjából figyelembe veendő támogatások különösen a beruházási támogatások, az adókedvezmények, valamint a megújuló energiaforrások mennyiségének, illetve arányának növelésén keresztül megtakarított azon kibocsátási egységekből eredő haszon, amely kibocsátási egységekhez az érintett az üvegházhatású gázok kibocsátási egységeinek kereskedelméről szóló törvény rendelkezései alapján térítés nélkül jutott. Nem kell figyelembe venni a 147. § (1) bekezdése szerinti szénipari szerkezetátalakítási, valamint a kapcsolt termelésszerkezet-átalakítási támogatást.
 
-(9) A kötelező átvételi, illetve prémium típusú támogatási jogosultságok csak a (7) és (8) bekezdés szerint figyelembe vett támogatás változása esetén, e változással arányosan módosíthatóak.
+(9) A (2) bekezdés b) pontja szerinti prémium típusú támogatás mértékének meghatározásakor – a (7) és (8) bekezdéstől eltérően – csak a működési jellegű állami támogatásokat kell figyelembe venni, beleértve a működés fenntartásához szükséges beruházásokhoz kapott támogatásokat is.
 
-(10) A prémium típusú támogatás elnyerésére kiírt pályázatokat a Hivatal bonyolítja le.
+(10) A kötelező átvételi, illetve (2) bekezdés a) pontja szerinti prémium típusú támogatási jogosultságok csak a (7) és (8) bekezdés szerint figyelembe vett támogatás változása esetén, e változással arányosan módosíthatóak.
 
-(11) A Hivatal a kötelező átvétel vagy prémium típusú támogatás időtartamát és a támogatásra jogosult villamos energia mennyiségét megállapító határozatait a kedvezményezett kérelmére visszavonhatja.
+(11) A prémium típusú támogatás elnyerésére kiírt pályázatokat a Hivatal bonyolítja le.
 
-(12) Az átvételi kötelezettség alá eső villamosenergia-mennyiség és a kötelező átvételi időtartam meghatározásával, valamint a prémium típusú támogatással kapcsolatos eljárásokban a kérelmező köteles a Hivatal által a honlapján meghatározott módon kapcsolatot tartani.
+(12) A Hivatal a kötelező átvétel vagy prémium típusú támogatás időtartamát és a támogatásra jogosult villamos energia mennyiségét megállapító határozatait a kedvezményezett kérelmére visszavonhatja.
+
+(13) Az (5) bekezdés szerinti eljárásban a kérelmező köteles a Hivatal által meghatározott módon kapcsolatot tartani a Hivatallal.
 
 #### 11/A. §
 
@@ -3300,7 +3306,8 @@ rendeletben állapítsa meg.
 - 4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket;
 - 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;
 - 6. a kötelező átvételi jogosultságok esetében, a támogatás időtartamának és a kötelező átvétel alá eső villamos energia mennyiségének kiszámítási módszereit és a számítás eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
-- 7. a pályázati eljárás alá nem tartozó, prémium típusú támogatási jogosultságok esetében a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének kiszámítási módszereit és eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
+- 7. a pályázati eljárás alá nem tartozó, prémium típusú támogatási jogosultságok esetében a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének, valamint biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló, prémium típusú támogatás mértékének kiszámítási módszereit és eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
+- 8. a demonstrációs projektté minősítés követelményeit és eljárásrendjét.
 - 9. az elosztó által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.
 
 ### XXI. Fejezet — ÁTMENETI RENDELKEZÉSEK
@@ -3592,4 +3599,4 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-184/A. § E törvény 9–13/A. §-a a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1–78. o.) 4. cikk (1) bekezdés v) pontjának, valamint 42. és 43. cikkének hatálya alá tartozó támogatást tartalmaz.
+#### 184/A. §
