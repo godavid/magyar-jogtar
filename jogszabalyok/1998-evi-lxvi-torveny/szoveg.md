@@ -145,6 +145,8 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (2) Ha a kamatjövedelem juttatását megalapozó időszak 2013. augusztus 1-je előtt kezdődik, de a jövedelem megszerzésének időpontja a 2013. augusztus 1-jével kezdődő időszakra esik, a 3/A. § szerinti egészségügyi hozzájárulás a 2013. augusztus 1-jétől megszolgált kamatjövedelmet terheli. A 2013. augusztus 1-jétől megszolgált kamatjövedelmet – ha a kamat juttatójának nyilvántartásából más nem állapítható meg – a kamatjövedelem juttatását megalapozó időszak 2013. július 31-ét követő részének és az időszak teljes időtartamának napokban számolt aránya alapján kell megállapítani.
 
+11/D. § Az egészségügyi hozzájárulás mértékének változása esetén a hozzájárulás fizetésére kötelezett a megváltozott hozzájárulás mértéket arra a hónapra, adóévre vonatkozóan bevallott jövedelmekre alkalmazza először, amely hónapban, adóévben a megváltozott egészségügyi hozzájárulás mértéke hatályba lép.
+
 ### Záró rendelkezések
 
 12. § (1) Ez a törvény 1999. január 1-jén lép hatályba.

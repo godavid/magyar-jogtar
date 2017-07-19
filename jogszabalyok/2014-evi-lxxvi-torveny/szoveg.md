@@ -255,7 +255,7 @@ rendelkezik.
 
 #### 9. Az innovációs járulék
 
-15. § (1) Belföldi székhelyű, a számvitelről szóló törvény hatálya alá tartozó gazdasági társaság innovációs járulékot (ezen alcím alkalmazásában a továbbiakban: járulék) köteles fizetni.
+15. § (1) Belföldi székhelyű, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) hatálya alá tartozó gazdasági társaság innovációs járulékot (ezen alcím alkalmazásában a továbbiakban: járulék) köteles fizetni.
 
 (2) Mentes a járulék fizetésének kötelezettsége alól:
 
@@ -297,6 +297,8 @@ rendelkezik.
 (12) A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
 (13) A járulékfizetésre kötelezett gazdasági társaság a járulékot az üzleti évre állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
+
+(14) Amennyiben az adóalany az éves beszámolóját a számviteli törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze, járulékkötelezettsége megállapításakor köteles a Htv. 40/J–40/L. §-ában foglaltakat megfelelően alkalmazni.
 
 17. § A járulékot az állami adóhatósághoz kell befizetni, amely a befizetett járulékot jogszabályban szabályozott módon utalja át az NKFI Alapnak a kincstárnál vezetett számlájára.
 
@@ -620,7 +622,11 @@ használható fel.
 
 48. § Ha az SZTNH az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-#### 49–50. §
+49. § (1) A 16. § (14) bekezdését első alkalommal a 2018. adóév vonatkozásában kell alkalmazni.
+
+(2) A 16. § (14) bekezdését a 2017. adóév vonatkozásában az adózó választása szerint alkalmazza.
+
+#### 50. §
 
 #### 18. Hatályon kívül helyező rendelkezések
 

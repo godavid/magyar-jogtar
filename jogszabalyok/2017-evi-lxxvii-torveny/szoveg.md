@@ -12,17 +12,27 @@ egyes adótörvények és más kapcsolódó törvények módosításáról
 
 3–4. §
 
-5. §
+5. § Az Szja tv. 63. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Ha a jövedelem bevallására nyitva álló határidőt megelőzően az ingatlan, vagyoni értékű jog átruházásából származó jövedelmet (vagy annak egy részét) bármely EGT-államban a magánszemély saját maga, közeli hozzátartozója, élettársa részére idősek otthonában, fogyatékos személyek lakóotthonában vagy más hasonló (pl. ápolási) intézményben férőhely – visszavásárlási és továbbértékesítési jog nélküli – megszerzésére használja fel (ideértve azt az esetet is, ha a férőhely biztosítása egyösszegű térítési díj előre történő megfizetésével történik), és ezt a tényt adóbevallásában feltünteti, az (1) bekezdés rendelkezése szerint megállapított és bevallott adóból azt a részt nem kell megfizetnie, amely megegyezik a felhasznált jövedelem adójával.
+
+(3) Ha az ingatlan, vagyoni értékű jog átruházásából származó jövedelem (2) bekezdés szerinti felhasználása a bevallás benyújtását követően történt, a magánszemély a megfizetett adóból a felhasznált jövedelem adójával megegyező összeget – a felhasználás igazolásával egyidejűleg – az ingatlan, vagyoni értékű jog átruházását követő második adóév végéig visszaigényelheti.”
 
 6. §
 
-7. §
+7. § Az Szja tv. 70. § (4) bekezdése a következő c) és d) pontokkal egészül ki:
+
+(Egyes meghatározott juttatásnak minősül:)
+
+„c) a 71. § (2) bekezdés a) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
+
+d) a 71. § (2) bekezdés b) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része.”
 
 8–9. §
 
 10. § Az Szja tv.
 
-- 1.
+- 1. 9. § (6) bekezdésében a „munkabér” szövegrész helyébe a „munkabér és a magánszemély által igényelt támogatás” szöveg,
 - 2.
 - 3–4.
 - 5–10.
@@ -55,13 +65,17 @@ lép.
 
 18. §
 
-19. §
+19. § A Tao. törvény 26/A. §-a a következő (14) bekezdéssel egészül ki:
+
+„(14) Az (1) bekezdés szerinti feltételeknek megfelelő adózó a növekedési adóhitel összegére jutó adóelőlegre, adóra vonatkozó általános fizetési határidő szerinti esedékesség napját követő naptól kezdődően a (3), (4), (6), (6a) bekezdés szerinti fizetési határidő szerinti esedékesség napjáig, vagy ha a növekedési adóhitel összegére jutó adóelőleget, adót a (3), (4), (6), (6a) bekezdés szerinti fizetési határidő lejáratát megelőzően fizeti meg, akkor a megfizetés napjáig, kamatot fizet. A kamat mértéke minden naptári nap után az adott napon érvényes jegybanki alapkamat 365-öd része, amelyet az önellenőrzési pótlékra vonatkozó szabályok megfelelő alkalmazásával kell meghatározni. A kamatot a növekedési adóhitel összegére jutó, a (8) bekezdés szerinti kedvezménnyel csökkentett adóelőlegre, adóra kell felszámítani, esedékes részletenként külön-külön. Az adózó az adott részlethez tartozó kamatot a növekedési adóhitel összegére jutó adóelőleg, adó adott részletének megfizetésével egyidejűleg, az állami adó- és vámhatóság által meghatározott számla javára fizeti meg. Az adózó a kamat összegéről bevallás benyújtására nem köteles.”
 
 20. § (1)
 
 (2)
 
-(3)
+(3) A Tao. törvény 29/A. §-a a következő (57) bekezdéssel egészül ki:
+
+„(57) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 26/A. § (14) bekezdését a hatálybalépését követően megtett, a 26/A. § (1) bekezdés d) pontja szerinti nyilatkozatra vonatkozóan kell alkalmazni, azzal hogy az adózó ezt megelőzően tett nyilatkozata vonatkozásában a 26/A. § (14) bekezdését választása szerint alkalmazza és a kamatot a növekedési adóhitelre jutó adó utolsó részletével egyidejűleg fizeti meg.”
 
 21. §
 
@@ -93,15 +107,31 @@ lép.
 
 34. §
 
-35. §
+35. § A Katv. 5. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
 
-36. §
+(A kisadózó vállalkozások tételes adója szerinti adóalanyiság megszűnik)
+
+„j) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha a kisadózó vállalkozás az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti és a tartozás megfizetését igazolja;”
+
+36. § A Katv. 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kisadózó vállalkozás az adóévet követő év február 25-ig az állami adóhatóság által rendszeresített, papíralapon vagy elektronikus úton benyújtott nyomtatványon nyilatkozatot tesz az adóévben adóalanyként megszerzett bevételéről. A nyilatkozat a jogkövetkezmények szempontjából bevallásnak minősül.”
 
 37–41. §
 
 #### 7. A tudományos kutatásról, fejlesztésről és az innovációról szóló 2014. évi LXXVI. törvény módosítása
 
-42–44. §
+42. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFI törvény) 16. §-a a következő (14) bekezdéssel egészül ki:
+
+„(14) Amennyiben az adóalany az éves beszámolóját a számviteli törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze, járulékkötelezettsége megállapításakor köteles a Htv. 40/J–40/L. §-ában foglaltakat megfelelően alkalmazni.”
+
+43. § A KFI törvény a következő 49. §-sal egészül ki:
+
+„49. § (1) A 16. § (14) bekezdését első alkalommal a 2018. adóév vonatkozásában kell alkalmazni.
+
+(2) A 16. § (14) bekezdését a 2017. adóév vonatkozásában az adózó választása szerint alkalmazza.”
+
+44. § A KFI törvény 15. § (1) bekezdésében a „számvitelről szóló törvény hatálya” szövegrész helyébe a „számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) hatálya” szöveg lép.
 
 ### II. Fejezet — A KÖZVETETT ADÓZÁST ÉRINTŐ TÖRVÉNYEK MÓDOSÍTÁSA
 
@@ -539,7 +569,9 @@ lép.
 
 127. §
 
-128. §
+128. § Az Eho tv. Eljárási szabályok alcíme a következő 11/D. §-sal egészül ki:
+
+„11/D. § Az egészségügyi hozzájárulás mértékének változása esetén a hozzájárulás fizetésére kötelezett a megváltozott hozzájárulás mértéket arra a hónapra, adóévre vonatkozóan bevallott jövedelmekre alkalmazza először, amely hónapban, adóévben a megváltozott egészségügyi hozzájárulás mértéke hatályba lép.”
 
 129. §
 
