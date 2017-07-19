@@ -1563,6 +1563,8 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 (13) Nem alkalmazhatja a (8) bekezdés szerinti rendelkezéseket az adózó, ha a nyilatkozat megtételének adóévében e törvény szerinti adókedvezményt vesz igénybe beruházására tekintettel, továbbá ugyanazon adóév tekintetében a (8) bekezdés szerinti kedvezmény együttesen nem alkalmazható a 24/A. § szerinti felajánlással és a 24/B. § szerinti jóváírással.
 
+(14) Az (1) bekezdés szerinti feltételeknek megfelelő adózó a növekedési adóhitel összegére jutó adóelőlegre, adóra vonatkozó általános fizetési határidő szerinti esedékesség napját követő naptól kezdődően a (3), (4), (6), (6a) bekezdés szerinti fizetési határidő szerinti esedékesség napjáig, vagy ha a növekedési adóhitel összegére jutó adóelőleget, adót a (3), (4), (6), (6a) bekezdés szerinti fizetési határidő lejáratát megelőzően fizeti meg, akkor a megfizetés napjáig, kamatot fizet. A kamat mértéke minden naptári nap után az adott napon érvényes jegybanki alapkamat 365-öd része, amelyet az önellenőrzési pótlékra vonatkozó szabályok megfelelő alkalmazásával kell meghatározni. A kamatot a növekedési adóhitel összegére jutó, a (8) bekezdés szerinti kedvezménnyel csökkentett adóelőlegre, adóra kell felszámítani, esedékes részletenként külön-külön. Az adózó az adott részlethez tartozó kamatot a növekedési adóhitel összegére jutó adóelőleg, adó adott részletének megfizetésével egyidejűleg, az állami adó- és vámhatóság által meghatározott számla javára fizeti meg. Az adózó a kamat összegéről bevallás benyújtására nem köteles.
+
 ## HARMADIK RÉSZ — OSZTALÉKADÓ
 
 ### V. Fejezet
@@ -1749,6 +1751,8 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (55) Az ellenőrzött külföldi társaság 2017. január 18-át megelőzően keletkezett jövedelmére vonatkozóan e törvény 2017. január 17-én hatályos rendelkezéseit az adózó választása szerint utoljára a 2018. december 31-én végződő adóévben alkalmazhatja, feltéve, hogy az (53) bekezdés szerinti választással nem élt.
 
 (56) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 7. § (1) bekezdés l) pontját, (31)–(32) bekezdését első alkalommal a 2017. június 30-át követően megkezdett beruházások tekintetében lehet alkalmazni.
+
+(57) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 26/A. § (14) bekezdését a hatálybalépését követően megtett, a 26/A. § (1) bekezdés d) pontja szerinti nyilatkozatra vonatkozóan kell alkalmazni, azzal hogy az adózó ezt megelőzően tett nyilatkozata vonatkozásában a 26/A. § (14) bekezdését választása szerint alkalmazza és a kamatot a növekedési adóhitelre jutó adó utolsó részletével egyidejűleg fizeti meg.
 
 (58) E törvénynek a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosításáról szóló 2017. évi LXXIII. törvénnyel megállapított 4. § 40a. pontját és 40b. pontját, 22/C. § (1) bekezdés b) pont bb) alpontját és d) pont df) alpontját, (4a) bekezdését, (4b) bekezdését és (5) bekezdés j) pontját, 24/A. § (9), (19) és (20) bekezdését, valamint 30/I. §-át első alkalommal a 2017–2018-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyására, valamint az igazolás, támogatási igazolás kiállítására irányuló kérelmek benyújtásával összefüggésben kell alkalmazni.
 

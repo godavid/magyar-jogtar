@@ -114,7 +114,7 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 - g) a tagsági jogviszony keletkezésének napjával, ha a betéti társaság vagy közkereseti társaság kisadózó vállalkozásnak nem magánszemély tagja lesz;
 - h) a mulasztási bírságot megállapító határozat jogerőre emelkedésének hónapja utolsó napjával, ha az adóalanyiság időszakában elkövetett jogsértés miatt a kisadózó vállalkozás terhére az adó- vagy vámhatóság számla- vagy nyugtaadás elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért mulasztási bírságot, jövedéki bírságot állapít meg;
 - i) az adószám alkalmazását felfüggesztő vagy törlő határozat jogerőre emelkedésének hónapja utolsó napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt jogerősen felfüggeszti vagy törli;
-- j) az adóalanyiság megszűnéséről rendelkező határozat jogerőre emelkedésének napját magában foglaló hónap utolsó napjával, ha a kisadózó vállalkozás állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot;
+- j) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha a kisadózó vállalkozás az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti és a tartozás megfizetését igazolja;
 - k) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 - l) a 4. § (4) bekezdése szerinti tevékenységből származó bevétel megszerzése esetén a bevétel megszerzését megelőző nappal;
 - m) az átalakulást, egyesülést, szétválást megelőző nappal, ha az átalakulás, egyesülés, szétválás következtében a vállalkozás már nem felel meg a 3. §-ban foglalt feltételeknek.
@@ -198,7 +198,7 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 
 #### 7. Nyilatkozat a bevételről
 
-11. § (1) A kisadózó vállalkozás az adóévet követő év február 25-ig az állami adóhatóság által rendszeresített, papír alapon vagy elektronikus úton benyújtott nyomtatványon nyilatkozatot tesz az adóévben adóalanyként megszerzett bevételéről.
+11. § (1) A kisadózó vállalkozás az adóévet követő év február 25-ig az állami adóhatóság által rendszeresített, papíralapon vagy elektronikus úton benyújtott nyomtatványon nyilatkozatot tesz az adóévben adóalanyként megszerzett bevételéről. A nyilatkozat a jogkövetkezmények szempontjából bevallásnak minősül.
 
 (2) Ha az adóalanyiság év közben szűnik meg, a nyilatkozatot a megszűnést követő 30 napon belül kell megtenni.
 

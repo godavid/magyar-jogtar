@@ -443,7 +443,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 (5) Ha az adóhatóság be nem vallott adóköteles jövedelmet tár fel, ennek összegét a jövedelem megszerzése évének jövedelméhez kell hozzászámítani.
 
-(6) A magánszemély halálát követően juttatott olyan bevétellel összefüggésben, amely a magánszemélyt az életében még megillette (ilyennek minősül különösen a munkabér), az adókötelezettséget – ideértve a kifizető, a munkáltató adókötelezettségét is – úgy kell teljesíteni, mintha a juttatást a magánszemély a halálának időpontjában szerezte volna meg.
+(6) A magánszemély halálát követően juttatott olyan bevétellel összefüggésben, amely a magánszemélyt az életében még megillette (ilyennek minősül különösen a munkabér és a magánszemély által igényelt támogatás), az adókötelezettséget – ideértve a kifizető, a munkáltató adókötelezettségét is – úgy kell teljesíteni, mintha a juttatást a magánszemély a halálának időpontjában szerezte volna meg.
 
 9/A. §
 
@@ -1698,9 +1698,9 @@ azzal, hogy az átruházásból származó jövedelem megállapításához a 62.
 
 63. § (1) Az ingatlan és vagyoni értékű jog átruházásából származó jövedelem után az adót a magánszemélynek adóbevallásában kell megállapítania és az adóbevallás benyújtására előírt határidőig kell megfizetnie.
 
-(2) Ha a jövedelem bevallására nyitva álló határidőt megelőzően az ingatlan, vagyoni értékű jog átruházásából származó jövedelmet (vagy annak egy részét) a magánszemély saját maga, közeli hozzátartozója, élettársa részére idősek otthonában, fogyatékos személyek lakóotthonában vagy más hasonló (pl. ápolási) intézményben (bármely EGT-államban) biztosított férőhely – visszavásárlási és továbbértékesítési jog nélküli – megszerzésére használja fel (ideértve azt az esetet is, ha a férőhely biztosítása egyösszegű térítési díj előre történő megfizetésével történik), és ezt a tényt adóbevallásában feltünteti, az (1) bekezdés rendelkezése szerint megállapított és bevallott adót (vagy annak a felhasznált jövedelemmel arányos részét) nem kell megfizetnie.
+(2) Ha a jövedelem bevallására nyitva álló határidőt megelőzően az ingatlan, vagyoni értékű jog átruházásából származó jövedelmet (vagy annak egy részét) bármely EGT-államban a magánszemély saját maga, közeli hozzátartozója, élettársa részére idősek otthonában, fogyatékos személyek lakóotthonában vagy más hasonló (pl. ápolási) intézményben férőhely – visszavásárlási és továbbértékesítési jog nélküli – megszerzésére használja fel (ideértve azt az esetet is, ha a férőhely biztosítása egyösszegű térítési díj előre történő megfizetésével történik), és ezt a tényt adóbevallásában feltünteti, az (1) bekezdés rendelkezése szerint megállapított és bevallott adóból azt a részt nem kell megfizetnie, amely megegyezik a felhasznált jövedelem adójával.
 
-(3) Az (1) bekezdés rendelkezései szerint megállapított, bevallott és megfizetett adó mértékéig az ingatlan átruházását követő első és második adóévről szóló adóbevallásában a magánszemély adókiegyenlítésre jogosult, amelyet a felhasználás évéről szóló adóbevallásában megfizetett adóként érvényesíthet a (4)–(5) bekezdés rendelkezései szerint.
+(3) Ha az ingatlan, vagyoni értékű jog átruházásából származó jövedelem (2) bekezdés szerinti felhasználása a bevallás benyújtását követően történt, a magánszemély a megfizetett adóból a felhasznált jövedelem adójával megegyező összeget – a felhasználás igazolásával egyidejűleg – az ingatlan, vagyoni értékű jog átruházását követő második adóév végéig visszaigényelheti.
 
 (4)
 
@@ -2141,7 +2141,9 @@ részére, azonos feltételekkel és módon ingyenesen vagy kedvezményesen áta
 (4) Egyes meghatározott juttatásnak minősül
 
 - a) a 71. § (1) bekezdés b) szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
-- b) a 71. § (1) bekezdés a) pontja szerinti pénzösszeg adóévi értékének az éves keretösszeget [71. § (6) bekezdés e) pont] meg nem haladó része és a 71. § (1) bekezdés b) pontja szerint – az ott meghatározott értékhatárokat meg nem haladóan – az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része.
+- b) a 71. § (1) bekezdés a) pontja szerinti pénzösszeg adóévi értékének az éves keretösszeget [71. § (6) bekezdés e) pont] meg nem haladó része és a 71. § (1) bekezdés b) pontja szerint – az ott meghatározott értékhatárokat meg nem haladóan – az adóévben biztosított juttatások együttes értékének az éves rekreációs keretösszeget meghaladó része;
+- c) a 71. § (2) bekezdés a) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része;
+- d) a 71. § (2) bekezdés b) pont szerinti juttatásnak az ott meghatározott értékhatárt meghaladó része.
 
 (4a) A (4) bekezdés b) pont alkalmazásában az éves rekreációs keretösszeg
 
