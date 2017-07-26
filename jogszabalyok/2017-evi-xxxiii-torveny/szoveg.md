@@ -86,15 +86,26 @@ egyes belügyi tárgyú törvények módosításáról
 
 #### 16. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-70. §
+70. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 6. § (4) bekezdésében a „bíróság” szövegrész helyébe a „SIRENE Iroda” szöveg lép.
 
-71. §
+71. § Hatályát veszti a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény
+
+- a) 6. § (5) bekezdése, valamint
+- b) 6. § (6) bekezdésében az „elhelyezi a figyelmeztető jelzést és a kiegészítő adatot, valamint” szövegrész.
 
 #### 17. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
 72. §
 
-73. §
+73. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 2. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A körözés e törvényben meghatározott adatait
+
+a) a körözést elrendelő,
+
+b) a bíróság – ideértve a büntetés-végrehajtási bírót is – által kibocsátott európai elfogatóparancsot vagy nemzetközi elfogatóparancsot a SIRENE iroda
+
+[az a) és a b) pontban meghatározottak a továbbiakban együtt: körözést elrendelő] rögzíti a nyilvántartásba.”
 
 74. §
 

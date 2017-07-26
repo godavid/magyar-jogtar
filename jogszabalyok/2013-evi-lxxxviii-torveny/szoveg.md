@@ -35,7 +35,12 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 
 (4) A nyilvántartásban a minősített adatok védelméről szóló törvény szerinti minősített adat nem kezelhető.
 
-(5) A körözés e törvényben meghatározott adatait a nyilvántartásba a körözést elrendelő rögzíti.
+(5) A körözés e törvényben meghatározott adatait
+
+- a) a körözést elrendelő,
+- b) a bíróság – ideértve a büntetés-végrehajtási bírót is – által kibocsátott európai elfogatóparancsot vagy nemzetközi elfogatóparancsot a SIRENE iroda
+
+[az a) és a b) pontban meghatározottak a továbbiakban együtt: körözést elrendelő] rögzíti a nyilvántartásba.
 
 (6) A körözés visszavonásának a tényét a körözést elrendelő a nyilvántartásban rögzíti.
 

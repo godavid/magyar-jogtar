@@ -124,11 +124,11 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 (3) Az európai elfogatóparancsnak az Európai Unió egy vagy több hivatalos nyelvén készült fordításának egy elektronikus példánya vagy digitalizált képe is elhelyezhető a CS.SIS-ben.
 
-(4) A bíróság az (1) bekezdés szerinti elfogatóparancsot a figyelmeztető jelzés elhelyezésének kezdeményezése céljából rögzíti a körözési nyilvántartási rendszerről, valamint a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözési nyilvántartási rendszerben.
+(4) A SIRENE Iroda az (1) bekezdés szerinti elfogatóparancsot a figyelmeztető jelzés elhelyezésének kezdeményezése céljából rögzíti a körözési nyilvántartási rendszerről, valamint a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözési nyilvántartási rendszerben.
 
-(5) A (4) bekezdés szerinti körözési nyilvántartási rendszert működtető szerv a körözési nyilvántartási rendszer útján kezdeményezi a figyelmeztető jelzés elhelyezését. Ennek keretében a 12. § szerinti adatokat, a (2)–(3) bekezdés szerinti kiegészítő adatokat az NS.CP-n keresztül, a 14–15. § szerinti kiegészítő információkat közvetlenül megküldi a SIRENE Irodának a figyelmeztető jelzés és a kiegészítő adat CS.SIS-be történő elhelyezése, valamint a kiegészítő információknak a többi SIRENE Iroda felé történő megküldése céljából.
+(5)
 
-(6) A SIRENE Iroda az adatok ellenőrzését követően elhelyezi a figyelmeztető jelzést és a kiegészítő adatot, valamint továbbítja a kiegészítő információkat a többi SIRENE Iroda felé.
+(6) A SIRENE Iroda az adatok ellenőrzését követően továbbítja a kiegészítő információkat a többi SIRENE Iroda felé.
 
 7. § (1) A rendőrség, valamint a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége a körözési nyilvántartási rendszer útján figyelmeztető jelzést és kiegészítő adatokat helyez el a CS.SIS-ben arról a személyről, illetve figyelmeztető jelzést arról a közúti közlekedésről szóló 1988. évi I. törvény 2. § (1) bekezdés b) pontja szerinti járműről – ideértve a 10. § (1) bekezdés c) pontja szerinti pótkocsit és lakókocsit is –, úszólétesítményről, légijárműről vagy konténerről, akivel vagy amellyel kapcsolatban rejtett ellenőrzést rendelt el.
 
