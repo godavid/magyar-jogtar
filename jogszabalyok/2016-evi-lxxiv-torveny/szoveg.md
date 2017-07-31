@@ -178,6 +178,8 @@ szabályokat.
 
 (9) E § alkalmazásában reklámnak minősül a járművön elhelyezett gazdasági reklám is.
 
+(10) Az e § szerinti rendelkezések ismételt vagy többrendbeli megsértése esetén a hatóság jogellenesen elhelyezett plakátonként 150 000 forint közigazgatási bírságot szab ki a médiahirdetésifelület-értékesítővel és a reklámozóval szemben, kivéve, ha az eset összes körülményének mérlegelése alapján megállapítható, hogy a plakát elhelyezése nem a reklámozó vagy a médiahirdetésifelület-értékesítő közrehatására vezethető vissza.
+
 #### 5. Záró és átmeneti rendelkezések
 
 12. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
