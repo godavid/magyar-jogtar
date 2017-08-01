@@ -157,18 +157,19 @@ tölthet be.
 21/A. § (1) A költségviselés formája szerint az Egyetem képzésében részt vevő lehet
 
 - a) közszolgálati ösztöndíjas hallgató,
-- b) önköltség fizetésére nem kötelezett hallgató, aki hivatásos, szerződéses vagy tisztjelölti jogviszonyban áll,
-- c) önköltséges hallgató.
+- b) önköltség fizetésére nem kötelezett hallgató, aki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos, illetve a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
+- c) önköltséges hallgató, vagy
+- d) a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 2. § f) pontjában meghatározott ösztöndíjas hallgató (a továbbiakban: rendészeti ösztöndíjas hallgató).
 
-(2) A közszolgálati ösztöndíjas hallgatóra az Nftv. magyar állami ösztöndíjjal támogatott hallgatóra vonatkozó szabályait kell alkalmazni az e törvényben foglalt eltérésekkel. A levelező munkarendben tanuló közszolgálati ösztöndíjas hallgatói juttatásra nem jogosult.
+(2) A közszolgálati ösztöndíjas hallgatóra az Nftv. magyar állami ösztöndíjjal támogatott hallgatóra vonatkozó szabályait kell alkalmazni az e törvényben foglalt eltérésekkel.
 
-(3) A közszolgálati ösztöndíjas hallgatókkal – a rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatók kivételével, ide nem értve azonban a rendészeti igazgatási alapképzési szak biztonsági szakirányának hallgatóit – az Egyetem köt ösztöndíjszerződést. A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgatókkal az idegenrendészeti és menekültügyi hatóság köti meg az ösztöndíjszerződést.
+(3) A levelező munkarendben tanuló közszolgálati ösztöndíjas hallgató hallgatói juttatásra nem jogosult.
 
-(4) Az Egyetem által kötött közszolgálati ösztöndíjszerződés az Nftv. által a magyar állami ösztöndíjjal támogatott hallgatók részére meghatározott feltételeket tartalmazza azzal, hogy az Nftv. 48/A., 48/C. és 48/R. §-ában a Magyar Államon az Egyetemet kell érteni.
+(4) A közszolgálati ösztöndíjas hallgatókkal az Egyetem szerződést köt.
 
-(5) Az Nftv. 47. § (3) bekezdését és azzal összefüggésben a (4) és (5) bekezdését, (6) bekezdés a) pontját, valamint (8) bekezdését alkalmazni kell azon közszolgálati ösztöndíjas jogviszonyban álló hallgató tekintetében, akivel az Egyetem kötött közszolgálati ösztöndíjszerződést azzal, hogy a támogatási idő számításakor kizárólag az Egyetem képzésén igénybe vett támogatási időt kell figyelembe venni.
+(5) A közszolgálati ösztöndíjas hallgatók tekintetében az Nftv.-nek a támogatási idő számítására vonatkozó 47. §-ának rendelkezései közül kizárólag az Nftv. 47. § (2)–(3) bekezdését és azzal összefüggésben(4)–(6) bekezdését, valamint (8) bekezdését kell alkalmazni azzal, hogy a támogatási idő számításakor kizárólag az Egyetem közszolgálati ösztöndíjjal támogatott képzésén igénybe vett támogatási időt kell figyelembe venni. Az (1) bekezdés b)–d) pontjában meghatározott hallgatók tekintetében az Nftv. 47. §-a – az Nftv. 47. § (6) bekezdés d) pontja kivételével – nem alkalmazandó.
 
-(6) Az Nftv. 48. § (2) és (3) bekezdését azon közszolgálati ösztöndíjas hallgató tekintetében kell alkalmazni, akivel az Egyetem kötött közszolgálati ösztöndíjszerződést.
+(6) Az Nftv. 48. § (2)–(3) bekezdését kizárólag az önköltséges képzésben részt vevő, valamint a közszolgálati ösztöndíjas hallgató tekintetében kell alkalmazni.
 
 (7) Az Egyetem a hallgatóval ösztöndíjszerződést kötő szerv, illetve a szerződéses vagy hivatásos jogviszonyban álló hallgatót beiskolázó szerv részére továbbíthatja azon általa kezelt hallgatói személyes adatokat, amelyek a hallgatóval kötött ösztöndíjszerződésben, illetve a hallgató Egyetemen folytatott tanulmányainak támogatása tárgyában a hallgató és a beiskolázó szerv között létrejött szerződésben foglalt, a hallgatót megillető jogosultságok és az őt terhelő kötelezettségek teljesítésének ellenőrzéséhez szükségesek. Az ösztöndíjszerződést kötő, illetve beiskolázó szerv az Egyetem által a fent meghatározott célból továbbított személyes adatokat csak az adatkezelés céljának eléréséhez szükséges mértékben, módon és ideig, azonban legfeljebb a szerződés megszűnését követő öt évig kezelheti.
 
@@ -320,7 +321,7 @@ kezeli.
 
 (2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. A fenntartó miniszterek megállapodása alapján kiegészítő jelleggel költségvetési támogatást az igazságügyért felelős miniszter, a rendészetért felelős miniszter és a honvédelemért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít.
 
-36. § (1) A rendészeti képzésben részt vevő közszolgálati ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét – a (4) bekezdés a) pontjában meghatározott eltéréssel – az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
+36. § (1) A rendészeti ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét – a (4) bekezdés a) pontjában meghatározott eltéréssel – az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
 
 (2) A katonai képzést folytató kar működésének dologi feltételeit a honvédelemért felelős miniszter biztosítja.
 
@@ -426,9 +427,13 @@ kezeli.
 
 52. § E törvénynek az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2013. évi CXXIX. törvénnyel megállapított 36. §-át első alkalommal a 2014. évi költségvetés tervezése során kell alkalmazni.
 
-53. § E törvénynek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2015. évi CXXXII. törvénnyel (a továbbiakban: Módtv.) megállapított 21/A. § (5) és (6) bekezdését alkalmazni kell a Módtv. hatálybalépését megelőzően, de a 2012/2013. tanévben vagy azt követően tanulmányaikat megkezdő közszolgálati ösztöndíjas hallgatók tekintetében is, ide nem értve a rendészeti képzésben részt vevő, valamint a honvéd tisztjelölti, hivatásos vagy szerződéses jogviszonyban álló hallgatókat. A tanulmányaikat a 2012/2013. tanévet megelőzően megkezdett nem rendészeti képzésben részt vevő, valamint honvéd tisztjelölti, hivatásos vagy szerződéses jogviszonyban nem álló közszolgálati ösztöndíjas hallgatók tekintetében az átsorolásra a felsőoktatásról szóló 2005. évi CXXXIX. törvényben foglaltak szerint kerül sor.
+53. § Az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel (a továbbiakban: Módtv. 2.) megállapított 21/A. § (5) és (6) bekezdést alkalmazni kell a 2012/2013. tanévben vagy azt követően tanulmányaikat nem önköltséges formában megkezdő hallgatók tekintetében is, ide nem értve a rendészeti ösztöndíjas, valamint a tisztjelölti, hivatásos vagy szerződéses jogviszonyban álló hallgatókat. A tanulmányaikat a 2012/2013. tanévet megelőzően nem költségtérítéses formában megkezdett, nem rendészeti ösztöndíjas, valamint honvéd tisztjelölti, hivatásos vagy szerződéses jogviszonyban nem álló hallgatók tekintetében az átsorolásra a felsőoktatásról szóló 2005. évi CXXXIX. törvényben foglaltak szerint kerül sor.
 
-54. § E törvénynek a Módtv.-vel módosított 21/A. § (1) bekezdés b) pontját és (3) bekezdését, 24. §-át, valamint 26. § (1) bekezdését a 2016. július 1-jén vagy azt követően rendészeti alapképzésre, nappali tagozatra felvételt nyert személyekre kell alkalmazni. A 2016. július 1-jét megelőzően rendészeti alapképzésre, nappali tagozatra felvételt nyert személyekre a 2016. július 1-jét megelőzően hatályban levő rendelkezések vonatkoznak.
+53/A. § (1) E törvénynek Módtv. 2.-vel megállapított 21/A. § (2) bekezdését azok közül, akik a 2013/2014. tanévet megelőzően létesítettek az Egyetemmel vagy jogelődjével hallgatói jogviszonyt, azok tekintetében kell alkalmazni, akik a 2012/2013. tanévben létesítettek hallgatói jogviszonyt, és nem minősülnek, minősültek rendészeti ösztöndíjas hallgatónak, továbbá a hallgatói jogviszonyuk fennállása alatt honvéd tisztjelölti, illetve hivatásos vagy szerződéses jogviszonyban nem állnak, illetve álltak.
+
+(2) E törvénynek Módtv. 2.-vel megállapított 21/A. § (1) bekezdés d) pontjában meghatározott költségviselési formára vonatkozó meghatározását alkalmazni kell a 2012/2013. tanévben és az azt követően, de a Módtv. 2. hatálybalépését megelőzően a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 2. § f) pontjának hatálya alá tartozó ösztöndíjszerződést kötött személyek tekintetében is.
+
+54. § E törvénynek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2015. évi CXXXII. törvénnyel (a továbbiakban: Módtv.) módosított 21/A. § (1) bekezdés b) pontját és (3) bekezdését, 24. §-át, valamint 26. § (1) bekezdését a 2016. július 1-jén vagy azt követően rendészeti alapképzésre, nappali tagozatra felvételt nyert személyekre kell alkalmazni.
 
 55. § E törvénynek a Módtv.-vel módosított, illetve megállapított 1. és 1/A. §-a nem alkalmazható a Módtv. hatálybalépésekor
 

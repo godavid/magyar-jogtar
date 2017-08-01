@@ -1004,17 +1004,7 @@ kell érteni.
 
 ### Tartós külszolgálat
 
-54/A. § (1) A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – a munkáltatói jogok gyakorlójának döntése alapján – a munkakörébe tartozó feladatai alapján kizárólag vagy elsődlegesen európai uniós kérdésekért felelős diplomata esetében az európai uniós ügyek koordinációjáért felelős miniszter egyetértésével –, kihelyezhető külképviseleten teljesített közszolgálatra (a továbbiakban: tartós külszolgálat). A tartós külszolgálat tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
-
-(2) A kormánytisztviselő tartós külszolgálatra hozzájárulásával helyezhető ki.
-
-(3) Nem kell a kormánytisztviselő beleegyezése a kinevezés módosításához, ha a munkakör megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja.
-
-(4) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt napon belül a kormánytisztviselő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, a nyilatkozatát lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából a munkakör megváltozatása előtti illetményt kell figyelembe venni.
-
-54/B. § (1) Ha a tartós külszolgálat megszűnése esetén a kormánytisztviselő kormányzati szolgálati jogviszonya nem szűnt meg, a kormánytisztviselő a kihelyező szerv vagy a kihelyező szerv irányítása vagy felügyelete alá tartozó központi költségvetési szerv állományába – annak vezetője egyetértésével – is visszahelyezhető.
-
-(2) Az (1) bekezdés szerinti esetben a 48. § (4)–(6) bekezdését alkalmazni kell.
+#### 54/A–54/B. §
 
 54/C. § (1)–(6)
 
@@ -2077,7 +2067,7 @@ besorolást kap.
 
 (5a) A hivatali szervezet vezetője visszavonhatja a közigazgatási tanácsadói, főtanácsadói címet, ha a kormánytisztviselő két egymást követő minősítés alkalmával a korábbinál alacsonyabb teljesítményszintet ér el.
 
-(6) A közigazgatási főtanácsadói, közigazgatási tanácsadói cím tartós külszolgálatra való kihelyezés esetén a munkáltató döntése alapján a kormánytisztviselő a besorolása szerinti illetményre jogosult. A tartós külszolgálatra való kihelyezés megszűnését követően a kormánytisztviselő – amennyiben ez számára kedvezőbb – a címe alapján fizetett illetményre jogosult.
+(6)
 
 127. § (1) A hivatali szervezet vezetője szakmai tanácsadói, illetve szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező kormánytisztviselőnek. Az adományozható szakmai tanácsadói, illetve szakmai főtanácsadói címek számát az államigazgatási szerv szervezeti és működési szabályzatában kell meghatározni. Az adományozható kétféle cím együttesen nem haladhatja meg az államigazgatási szerv felsőfokú iskolai végzettségű kormánytisztviselői létszámának 20%-át.
 
@@ -3954,7 +3944,7 @@ vonatkozó részletes szabályokat;
   - a) az Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként résztvevő kormánytisztviselő kormányzati szolgálati jogviszonyára és köztisztviselő közszolgálati jogviszonyára, sajátos jogállására,
   - b) a nemzeti szakértőként az Európai Unió intézményeiben alkalmazott közszolgálati tisztviselők jogviszonyára, sajátos jogállására,
   - c) a közszolgálati tisztviselők ideiglenes (három hónapot meg nem haladó) külföldi kiküldetésére,
-  - d) a tartós külszolgálatot teljesítő kormánytisztviselők, köztisztviselők, ügykezelők tartós külszolgálatra történő kihelyezésének és a tartós külszolgálat megszűnésének feltételeire, rendjére, valamint a tartós külszolgálatot teljesítő személyeket megillető juttatásokra és a munkavégzés sajátos feltételeire
+  - d)
 
 vonatkozó részletes szabályokat;
 
@@ -4012,9 +4002,9 @@ rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványára vonatkozó szabályokat rendeletben állapítsa meg.
 
-(4) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az Állandó Képviseleten teljesített tartós külszolgálat kivételével – rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+(4)
 
-(4a) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az Állandó Képviseleten teljesített tartós külszolgálat tekintetében rendeletben részletesen szabályozza a tartós külszolgálatot teljesítő közszolgálati tisztviselők külföldi munkavégzésének sajátos szabályait, valamint alapellátmányuk kifizetésének szabályait.
+(4a)
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
