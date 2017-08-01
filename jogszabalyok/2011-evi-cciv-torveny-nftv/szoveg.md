@@ -984,7 +984,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 - a) a megkezdett félévet, ha betegség, szülés vagy más, a hallgatónak fel nem róható ok miatt nem sikerült befejezni a félévet,
 - b) a támogatási idő terhére teljesített félévet, ha megszűnt a felsőoktatási intézmény anélkül, hogy a hallgató a tanulmányait be tudta volna fejezni, feltéve, hogy tanulmányait nem tudta másik felsőoktatási intézményben folytatni,
 - c) azt a félévet sem, amelyet tanulmányai folytatásánál a felsőoktatási intézmény a megszűnt intézményben befejezett félévekből nem ismert el,
-- d) azt a félévet, amelyet a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: a Nemzeti Közszolgálati Egyetemről szóló törvény) 21/A. § (1) bekezdés a) és b) pontjában meghatározott jogviszonyban álló hallgató a Nemzeti Közszolgálati Egyetem képzésén vett igénybe.
+- d) azt a félévet, amelyet a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: a Nemzeti Közszolgálati Egyetemről szóló törvény) 21/A. § (1) bekezdés a), b) és d) pontjában meghatározott jogviszonyban álló hallgató a Nemzeti Közszolgálati Egyetem képzésén vett igénybe.
 
 (7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
 
@@ -2372,7 +2372,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 (3) Magyarország címere elhelyezhető a felsőoktatási intézmény alapfeladatának ellátását szolgáló helyiségekben, címtábláján, épületeinek homlokzatán, továbbá feltüntethető a körbélyegzőjén és a felsőoktatási intézmény által kiadott okleveleken, oklevélmellékleteken.
 
-(4) A Pető András Főiskola főiskolaként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – térhet el a 6. § (2) bekezdésében a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
+(4)
 
 (5) Az Andrássy Gyula Budapesti Német Nyelvű Egyetem egyetemként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – térhet el a 6. § (2) bekezdésében, 9. § (3) bekezdésben a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
 
@@ -2387,7 +2387,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
   - ba) az intézményben folytatott oktatási, tudományos kutatói vagy művészeti alkotó tevékenységhez nem szükséges munkavállalási engedély a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározott harmadik országbeli állampolgárok számára,
   - bb) – a 105. § (5) bekezdésében foglaltakon túl – az e törvényben előírt alkalmazási, foglalkoztatási, képesítési feltétel teljesítése szempontjából az Európai Gazdasági Térségről, illetve a Gazdasági Együttműködési és Fejlesztési Szervezetről (OECD) szóló szerződésben részes államban szerzett doktori fokozatot, a tudomány(ok) kandidátusa, a tudomány(ok) doktora fokozatot a felsőoktatási intézmény szervezeti és működési szabályzatában a tudományos fokozattal egyenértékűként határozhatja meg.
 
-104/A. § (1) A Nemzeti Közszolgálati Egyetem tekintetében a 48/K. §-t azzal az eltéréssel kell alkalmazni, hogy az oklevélszerzés és a hazai munkaviszony nyilvántartásával, az állami ösztöndíj utólagos visszatérítési kötelezettségével és a teljesítési kötelezettségek alóli felmentések megállapításával kapcsolatos feladatokat a Ket. alkalmazásával másodfokon a Nemzeti Közszolgálati Egyetem Fenntartói Testülete látja el.
+104/A. § (1)
 
 (2) A Nemzeti Közszolgálati Egyetem hallgatói tekintetében a 85/C. § b) pont bc) alpontja alapján juttatott szociális alapú ösztöndíj intézményi ösztöndíjrészének fedezetét a Nemzeti Közszolgálati Egyetem költségvetését biztosító miniszter vagy szerv biztosítja.
 
@@ -2931,14 +2931,14 @@ kell érteni.
 | 36. |  |  | Dunaújvárosi Egyetem, Dunaújváros |
 | 37. |  |  | Eszterházy Károly Egyetem, Eger |
 | 38. |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 39. |  |  | Pallasz Athéné Egyetem, Kecskemét |
+| 39. |  |  | Neumann János Egyetem, Kecskemét |
 | 40. |  | II/B. Nem állami alkalmazott tudományok egyetemei |  |
 | 41. |  |  | Budapesti Metropolitan Egyetem, Budapest |
 | 42. |  |  | Zsigmond Király Egyetem, Budapest |
 | 43. | III. FŐISKOLÁK |  |  |
 | 44. |  | III/A. Állami főiskolák |  |
 | 45. |  |  | Eötvös József Főiskola, Baja |
-| 46. |  |  | Pető András Főiskola, Budapest |
+| 46. |  |  |  |
 | 47. |  | III/B. Nem állami főiskolák |  |
 | 48. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
 | 49. |  |  | Adventista Teológiai Főiskola, Pécel |

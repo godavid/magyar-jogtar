@@ -3788,6 +3788,8 @@ b) az a) pontban nem említett esetben a külföldi kiküldetésre tekintettel m
 
 8. a járművezető gyakorlati szakoktatók saját jármű üzemeltetésének költségtérítéséről szóló kormányrendelet szerint figyelembe vehető költségátalány.
 
+9. a külképviseletekről és a tartós külszolgálatról szóló törvény szerint tartós külszolgálatra kihelyezett magánszemély, és a honvédek jogállásáról szóló törvény hatálya alatt álló tartós külföldi szolgálatra kihelyezett szolgálati jogviszonyban álló személy, valamint a közalkalmazottak jogállásáról szóló törvény hatálya alatt álló 90 napot meghaladó külföldi kiküldetést teljesítő, a Magyar Honvédség személyi állományába tartozó, közalkalmazotti jogviszonyban álló személy részére a saját és hozzátartozói külföldi életvitelével kapcsolatban felmerülő többletköltségek fedezetére az említett törvény vagy a végrehajtására kiadott más jogszabály alapján megállapított átalány-költségtérítés összege.
+
 10. a magyar nyelv és a kultúra külföldi felsőoktatási intézményekben történő oktatásának és megismertetésének, valamint a külföldi hungarológiai oktatás és kutatás hatékonyabb támogatásának biztosítása érdekében működtetett vendégoktatói ösztöndíjprogram keretében a vendégoktató által végzett tevékenységre tekintettel juttatott, a Kormány rendeletében meghatározott mértékű költségtérítés összege.
 
 III. Az értékcsökkenési leírás elszámolása

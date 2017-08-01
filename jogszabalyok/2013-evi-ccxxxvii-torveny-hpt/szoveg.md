@@ -2814,7 +2814,7 @@ részére,
 
 - h) a pénzügyi intézmény által a külföldi pénzügyi intézmény számára történő adattovábbítás, abban az esetben, ha a pénzügyi intézmény ügyfele (adatalany) ahhoz írásban hozzájárult és a külföldi pénzügyi intézménynél (adatkezelőnél) a magyar jogszabályok által támasztott követelményeket kielégítő adatkezelés feltételei minden egyes adatra nézve teljesülnek, valamint a külföldi pénzügyi intézmény székhelye szerinti állam rendelkezik a magyar jogszabályok által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
 - i) a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság számára a felügyeleti tevékenységéhez szükséges, és a külföldi felügyeleti hatóság és a Felügyelet között együttműködési megállapodásban rögzített módon történő adattovábbítás, ha a megállapodás tartalmazza az adatok bizalmas kezelésére, felhasználására vonatkozó rendelkezést, továbbá a Felügyelet hozzájárulását a külföldi felügyeleti hatóságnak átadott adatok külföldi illetékes bűnüldöző szervnek történő továbbításához,
-- j) a pénzügyi intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző részére,
+- j) a pénzügyi intézmény által kiszervezett tevékenység végzéséhez szükséges adatátadás a kiszervezett tevékenységet végző és az általa igénybe vett közreműködő részére,
 - k) az összevont alapú felügyeleti megfelelés vonatkozásában történő, valamint a pénzügyi konglomerátumok kiegészítő felügyeletéről szóló törvényben foglalt rendelkezések teljesítése érdekében történő adatátadás,
 - l) a Felügyelet által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása a feladatkörében eljáró Gazdasági Versenyhivatal részére,
 - m) az OBA által a 161. § (2) bekezdés a), b), d), e) és h) pontjai alapján, az e szervezeteknek az OBA-hoz intézett írásbeli megkeresésére adott válasz, továbbá a külföldi betétbiztosítási rendszerek, valamint külföldi felügyeleti hatóságok részére együttműködési megállapodásban rögzített módon történő adattovábbítás, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
@@ -3404,7 +3404,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 - a) a hitelintézet szavatoló tőkéje nem éri el a 79. § (2) bekezdésében rögzített tőkekövetelmény nyolcvan százalékát, és a tag vagy a harmadik országbeli hitelintézet nem képes, vagy nem hajlandó a hitelintézet saját tőkéjét, illetve szavatoló tőkéjét a jogszabályban és a Felügyelet határozatában előírt szintre felemelni, vagy
 - b) a hitelintézet anyavállalatának felügyeletét ellátó felügyeleti hatóság arról tájékoztatja a Felügyeletet, hogy olyan válsághelyzet állt elő, amely veszélyezteti az anyavállalat pénzügyi stabilitását, vagy
-- c) a szövetkezeti hitelintézet vezető tisztségviselőjének megbízatása a Szhitv. 15. § (4) bekezdés a) pontja alapján a Takarékbank Zrt. által felfüggesztésre kerül; illetve amennyiben a szövetkezeti hitelintézet tevékenységi engedélyét a Felügyelet a Szhitv. 19. § (3), (7) vagy (13) bekezdése alapján visszavonja.
+- c) a szövetkezeti hitelintézet vezető tisztségviselője feladatkörének gyakorlása a Szhitv. 11/B. § (2) bekezdés c) pontja alapján az Integrációs Szervezet igazgatósága által felfüggesztésre kerül; illetve amennyiben a szövetkezeti hitelintézet tevékenységi engedélyét a Felügyelet a Szhitv. 19. § (3), (7) vagy (13) bekezdése alapján visszavonja.
 
 195. § (1) Ha a felügyeleti biztos részben veszi át a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének jogkörét, a kirendeléséről rendelkező határozatban a Felügyelet meghatározza a pénzügyi intézménynél betöltött szerepét, feladatait és hatáskörét.
 
@@ -3999,7 +3999,7 @@ vonatkozásában információt ad.
 - a) alapdíjból és
 - b) kockázat alapú változó díjból áll.
 
-(1a) Az OBA tagjai által fizetendő alapdíjat úgy kell megállapítani, hogy az figyelembe vegye a hitelintézetnél a tárgyévet megelőző december 31-én fennálló – az OBA által a 212. § és a 213. § szerint biztosított – betétek kártalanítási kötelezettség alá tartozó részének összegét, valamint a hitelintézet önkéntes betétbiztosítási alapban fennálló tagságát. Kiegészítő biztosítás esetén az éves díj megállapításakor figyelembe kell venni a kiegészítő biztosítással érintett betétrész összegét, és a fióktelep székhely országának betétbiztosítási rendszere által nyújtott biztosítást.
+(1a) Az OBA tagjai által fizetendő alapdíjat úgy kell megállapítani, hogy az figyelembe vegye a hitelintézetnél a tárgyévet megelőző december 31-én fennálló – az OBA által a 212. § és a 213. § szerint biztosított – betétek kártalanítási kötelezettség alá tartozó részének összegét, valamint a hitelintézet önkéntes betétbiztosítási alapban vagy kötelező intézményvédelmi szervezetben fennálló tagságára tekintettel fizetett tagdíj összegét. Kiegészítő biztosítás esetén az éves díj megállapításakor figyelembe kell venni a kiegészítő biztosítással érintett betétrész összegét és a fióktelep székhely országának betétbiztosítási rendszere által nyújtott biztosítást.
 
 (1b) Az OBA tagjai által fizetendő kockázat alapú változó díj megállapításakor az alábbi szempontokra kell figyelemmel lenni:
 
