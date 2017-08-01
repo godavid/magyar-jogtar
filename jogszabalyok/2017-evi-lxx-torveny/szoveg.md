@@ -8,7 +8,39 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 #### 2. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-3–5. §
+3. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: NKE tv.) 21/A. § (1)–(6) bekezdései helyébe a következő rendelkezések lépnek:
+
+„(1) A költségviselés formája szerint az Egyetem képzésében részt vevő lehet
+
+a) közszolgálati ösztöndíjas hallgató,
+
+b) önköltség fizetésére nem kötelezett hallgató, aki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos, illetve a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
+
+c) önköltséges hallgató, vagy
+
+d) a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 2. § f) pontjában meghatározott ösztöndíjas hallgató (a továbbiakban: rendészeti ösztöndíjas hallgató).
+
+(2) A közszolgálati ösztöndíjas hallgatóra az Nftv. magyar állami ösztöndíjjal támogatott hallgatóra vonatkozó szabályait kell alkalmazni az e törvényben foglalt eltérésekkel.
+
+(3) A levelező munkarendben tanuló közszolgálati ösztöndíjas hallgató hallgatói juttatásra nem jogosult.
+
+(4) A közszolgálati ösztöndíjas hallgatókkal az Egyetem szerződést köt.
+
+(5) A közszolgálati ösztöndíjas hallgatók tekintetében az Nftv.-nek a támogatási idő számítására vonatkozó 47. §-ának rendelkezései közül kizárólag az Nftv. 47. § (2)–(3) bekezdését és azzal összefüggésben(4)–(6) bekezdését, valamint (8) bekezdését kell alkalmazni azzal, hogy a támogatási idő számításakor kizárólag az Egyetem közszolgálati ösztöndíjjal támogatott képzésén igénybe vett támogatási időt kell figyelembe venni. Az (1) bekezdés b)–d) pontjában meghatározott hallgatók tekintetében az Nftv. 47. §-a – az Nftv. 47. § (6) bekezdés d) pontja kivételével – nem alkalmazandó.
+
+(6) Az Nftv. 48. § (2)–(3) bekezdését kizárólag az önköltséges képzésben részt vevő, valamint a közszolgálati ösztöndíjas hallgató tekintetében kell alkalmazni.”
+
+4. § Az NKE tv. 53. és 54. §-a helyébe a következő rendelkezés lép, és az NKE tv. kiegészül a következő 53/A. §-sal:
+
+„53. § Az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel (a továbbiakban: Módtv. 2.) megállapított 21/A. § (5) és (6) bekezdést alkalmazni kell a 2012/2013. tanévben vagy azt követően tanulmányaikat nem önköltséges formában megkezdő hallgatók tekintetében is, ide nem értve a rendészeti ösztöndíjas, valamint a tisztjelölti, hivatásos vagy szerződéses jogviszonyban álló hallgatókat. A tanulmányaikat a 2012/2013. tanévet megelőzően nem költségtérítéses formában megkezdett, nem rendészeti ösztöndíjas, valamint honvéd tisztjelölti, hivatásos vagy szerződéses jogviszonyban nem álló hallgatók tekintetében az átsorolásra a felsőoktatásról szóló 2005. évi CXXXIX. törvényben foglaltak szerint kerül sor.
+
+53/A. § (1) E törvénynek Módtv. 2.-vel megállapított 21/A. § (2) bekezdését azok közül, akik a 2013/2014. tanévet megelőzően létesítettek az Egyetemmel vagy jogelődjével hallgatói jogviszonyt, azok tekintetében kell alkalmazni, akik a 2012/2013. tanévben létesítettek hallgatói jogviszonyt, és nem minősülnek, minősültek rendészeti ösztöndíjas hallgatónak, továbbá a hallgatói jogviszonyuk fennállása alatt honvéd tisztjelölti, illetve hivatásos vagy szerződéses jogviszonyban nem állnak, illetve álltak.
+
+(2) E törvénynek Módtv. 2.-vel megállapított 21/A. § (1) bekezdés d) pontjában meghatározott költségviselési formára vonatkozó meghatározását alkalmazni kell a 2012/2013. tanévben és az azt követően, de a Módtv. 2. hatálybalépését megelőzően a katonai és rendvédelmi felsőoktatási intézmények vezetőinek, oktatóinak és hallgatóinak jogállásáról szóló 1996. évi XLV. törvény 2. § f) pontjának hatálya alá tartozó ösztöndíjszerződést kötött személyek tekintetében is.
+
+54. § E törvénynek a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításáról szóló 2015. évi CXXXII. törvénnyel (a továbbiakban: Módtv.) módosított 21/A. § (1) bekezdés b) pontját és (3) bekezdését, 24. §-át, valamint 26. § (1) bekezdését a 2016. július 1-jén vagy azt követően rendészeti alapképzésre, nappali tagozatra felvételt nyert személyekre kell alkalmazni.”
+
+5. § Hatályát veszti az NKE tv. 36. § (1) bekezdésében a „képzésben részt vevő közszolgálati” szövegrész.
 
 #### 3. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
@@ -87,11 +119,11 @@ szöveg lép.
 
 - 1–2.
 - 3–10.
-- 11.
+- 11. 47. § (6) bekezdés d) pontjában az „és b) pontjában” szövegrész helyébe a „ , b) és d) pontjában”,
 - 12.
 - 13.
 - 14–16.
-- 17.
+- 17. az 1. melléklet C:39-es mezőjében a „Pallasz Athéné” szövegrész helyébe a „Neumann János”
 
 szöveg lép.
 
@@ -99,9 +131,10 @@ szöveg lép.
 
 - a)
 - b)–f)
-- g)–h)
+- g) 104. § (4) bekezdése,
+- h) 104/A. § (1) bekezdése,
 - i)
-- j)
+- j) 1. melléklet 46. sora.
 
 #### 6. Az egyes szociális, gyermekvédelmi, családtámogatási tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2015. évi CCXXIII. törvény módosítása
 

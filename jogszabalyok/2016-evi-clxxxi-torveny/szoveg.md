@@ -34,7 +34,7 @@ a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamin
 
 23. §
 
-24. §
+24. § Hatályát veszti a Külszoltv. 35/A §.
 
 #### 3. Záró rendelkezések
 

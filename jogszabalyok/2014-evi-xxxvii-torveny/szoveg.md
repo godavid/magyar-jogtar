@@ -401,7 +401,7 @@ számára.
 17. § (1) A szanálási feladatkörében eljáró MNB – a (10) bekezdésben foglaltak alapján – elrendeli és megindítja az intézményre vonatkozóan a szanálási eljárást, ha teljesülnek a következő együttes feltételek:
 
 - a) a Felügyelet megállapítja, hogy az intézmény fizetésképtelen vagy várhatóan fizetésképtelenné válik,
-- b) a szanálási feladatkörében eljáró MNB megítélése szerint a körülményekre tekintettel nem valószínűsíthető, hogy a szanálási intézkedéseken kívül bármilyen más intézkedés – ideértve a Felügyelet, az intézmény, az önkéntes intézményvédelmi alap vagy más piaci szereplő intézkedéseit, a szanálási feladatkörében eljáró MNB által végrehajtható tőkeelemek leírására vagy átalakítására vonatkozó intézkedési lehetőséget is – megakadályozná az intézmény fizetésképtelenné válását,
+- b) a szanálási feladatkörében eljáró MNB megítélése szerint a körülményekre tekintettel nem valószínűsíthető, hogy a szanálási intézkedéseken kívül bármilyen más intézkedés – ideértve a Felügyelet, az intézmény, az önkéntes intézményvédelmi alap, a kötelező intézményvédelmi szervezet, vagy más piaci szereplő intézkedéseit, a szanálási feladatkörében eljáró MNB által végrehajtható tőkeelemek leírására vagy átalakítására vonatkozó intézkedési lehetőséget is – megakadályozná az intézmény fizetésképtelenné válását,
 - c) a szanálási feladatkörében eljáró MNB megítélése szerint a szanálást közérdek indokolja.
 
 (2) Egy intézmény fizetésképtelen vagy várhatóan fizetésképtelenné válik, ha
@@ -1458,7 +1458,7 @@ azzal, hogy a második alkalommal történő elutasítás esetén új személyt 
 (4) Az intézmény vagy csoport a (3) bekezdés alkalmazásában többé nem életképes, ha
 
 - a) az intézmény vagy a csoport fizetésképtelen vagy a rendelkezésre álló információk alapján várhatóan fizetésképtelenné válik; és
-- b) az időzítést és más meghatározó körülményeket is figyelembe véve nincs ésszerű kilátás arra, hogy a tőkeelemek – akár önállóan, akár szanálási intézkedéssel kombinálva alkalmazott – leírásán vagy átalakításán kívül bármilyen egyéb intézkedéssel, így különösen az önkéntes intézményvédelmi alap vagy más piaci szereplő intézkedésével vagy felügyeleti által alkalmazott intézkedéssel vagy kivételes intézkedéssel ésszerű időn belül megelőzhető lenne az intézmény vagy a csoport fizetésképtelensége.
+- b) az időzítést és más meghatározó körülményeket is figyelembe véve nincs észszerű kilátás arra, hogy a tőkeelemek – akár önállóan, akár szanálási intézkedéssel kombinálva alkalmazott – leírásán vagy átalakításán kívül bármilyen egyéb intézkedéssel, így különösen az önkéntes intézményvédelmi alap, a kötelező intézményvédelmi szervezet, vagy más piaci szereplő intézkedésével vagy felügyelet által alkalmazott intézkedéssel vagy kivételes intézkedéssel észszerű időn belül megelőzhető lenne az intézmény vagy a csoport fizetésképtelensége.
 
 (5) A (4) bekezdés a) pontjának alkalmazásában akkor tekintendő egy csoport fizetésképtelennek vagy a rendelkezésre álló információk alapján várhatóan fizetésképtelenné válónak, ha a csoport megsérti vagy objektív tényezők alapján megállapítható, hogy a közeljövőben – de legkésőbb 12 hónapon belül – meg fogja sérteni az összevont alapú prudenciális követelményeket, amely indokolná a Felügyelet intézkedését, mivel a csoport olyan mértékű veszteséget szenvedett el vagy fog valószínűleg elszenvedni, hogy az teljesen vagy jelentősen felemészti a szavatoló tőkéjét.
 

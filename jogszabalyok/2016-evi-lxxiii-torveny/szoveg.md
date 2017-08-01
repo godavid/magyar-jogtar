@@ -10,14 +10,14 @@ A magyar külpolitika elsődleges feladata kedvező külső feltételek megterem
 
 1. § (1) E törvény hatálya
 
-- a)
+- a) Magyarország diplomáciai és konzuli képviseleteire, a nemzetközi szervezetek mellett működő állandó képviseleteire, Magyarország kereskedelmi képviseleteire, továbbá az oda kihelyezett kormánytisztviselőkre és kormányzati ügykezelőkre,
 - b) a III. fejezetben meghatározott eltérésekkel Magyarország Európai Unió melletti Állandó Képviseletére, továbbá az oda kihelyezett kormánytisztviselőkre és kormányzati ügykezelőkre,
 - c) a 4. § és 9. § tekintetében a külképviselet által foglalkoztatott munkavállalókra, valamint
 - d) a 4. § és 9/A. § tekintetében a külképviselet által foglalkoztatott házastársra
 
 terjed ki.
 
-(2)
+(2) E törvényt a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselőkre és kormányzati ügykezelőkre akkor kell alkalmazni, ha jogszabály másként nem rendelkezik.
 
 (3) Az e törvényben nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
@@ -310,16 +310,151 @@ szüntethető meg.
 
 (6) A kihelyezett kihelyezési okirata – a (7) bekezdésben foglaltak kivételével – a kihelyezett egyetértésével módosítható. A kihelyező okirat tartalmának módosítására a kihelyezésre és a kihelyezéshez való hozzájárulásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(7) Nem szükséges a kihelyezett beleegyezése a kinevezés módosításához, ha a kihelyezett
+(7) Nem szükséges a kihelyezett beleegyezése a kinevezési, illetve a kihelyező okirat módosításához, ha a kihelyezett
 
 - a) munkakörének megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja,
-- b) a 25. § (5)–(8) bekezdésében meghatározott személy után költségtérítés-kiegészítésre válik jogosulttá,
+- b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá,
 - c) rangemelésben részesül,
 - d) személyi adatai módosulnak.
 
 #### 9. Járandóságok
 
-#### 23–26. §
+23. § (1) A kihelyezett a tartós külszolgálatának időtartama alatt havonta devizailletményre és átalány-költségtérítésre (a továbbiakban együtt: díjazás) jogosult. A díjazás forintban kerül megállapításra és számfejtésre, ezt követően a kifizetendő összeg – a kihelyezett választása alapján – egész euróra, egész USA-dollárra, illetve egész forintra kerekítve kerül folyósításra legkésőbb a tárgyhót követő hónap 15. napjáig a kihelyezett részére. A kerekítés nem minősül munkáltatói intézkedésen alapuló, az általánostól eltérő devizailletmény-megállapításnak. A kihelyezett részére a tartós külszolgálata idejére a közszolgálati tisztviselőkről szóló törvény szerinti besorolása alapján megállapított belföldi illetménye nem jár, azonban tartós külszolgálatának időtartama alatti, a közszolgálati tisztviselőkről szóló törvény szerinti besorolási fokozatban bekövetkezett változásokról a kihelyező vezető folyamatosan értesíti.
+
+(2) A kihelyezett munkaköri osztályokba, az egyes munkaköri osztályokon belül a munkaköre és – amennyiben az adott munkakörhöz rang kapcsolódik – rangja szerint kerül besorolásra (a továbbiakban: elsődleges munkakör). A munkaköri osztályokon belüli munkaköröket, valamint az azokhoz tartozó rangokat az 1. melléklet tartalmazza. A kihelyezett az elsődleges munkaköre mellett a kihelyező okiratában foglaltak szerint az 1. melléklet szerinti további munkakört, illetve kiegészítő feladatkört láthat el.
+
+(3) Az adminisztratív vagy technikai munkaköri osztályokba tartozó elsődleges munkakör mellett további, az 1. melléklet szerinti adminisztratív vagy technikai munkaköri osztályokba tartozó munkakör tartós, egyidejű ellátása esetén az 1. melléklet szerinti fizetési fokozatokhoz tartozó magasabb szorzót kell alapul venni a kihelyezett devizailletményének megállapítása során. Az adminisztratív vagy technikai munkaköri osztályokba tartozó elsődleges munkakör mellett további, az 1. melléklet szerinti munkakör vagy kiegészítő feladatkör tartós, egyidejű ellátása esetén – a létrejött munkakör összetettségét figyelembe véve – a kihelyező vezető a munkaköri osztályhoz, illetve több munkakör egyidejű ellátása esetén a magasabb munkaköri osztályhoz tartozó szorzónál 0,1 vagy 0,2 értékkel magasabb szorzót állapíthat meg.
+
+(4) A devizailletmény
+
+- a) illetményből, valamint
+- b) deviza-illetménypótlékból
+
+áll.
+
+(5) Az illetményt
+
+- a) az adott állomáshelyre megállapított deviza-alapilletmény, valamint
+- b) a munkaköri osztályhoz tartozó szorzó
+
+szorzata határozza meg.
+
+(6) Az adott állomáshelyre vonatkozó deviza-alapilletményt
+
+- a) a deviza-illetményalap, valamint
+- b) az adott állomáshelyre megállapított ENSZ-szorzó
+
+szorzata határozza meg.
+
+(7) A deviza-illetményalap összegét évente a központi költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi deviza-illetményalap.
+
+(8) Az egyes állomáshelyek tekintetében a következő költségvetési évre vonatkozó deviza-alapilletményt a külpolitikáért felelős miniszter a költségvetési törvény elfogadásától számított 45 napon belül rendeletben határozza meg, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével.
+
+(9) A kihelyező szerv – a kihelyezett kérelmére – a külpolitikáért felelős miniszter által megállapított rendelet szerinti mértékben és feltételekkel, kamatmentes illetmény- és költségtérítés-előleget nyújt.
+
+(10) Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos és az intézetekben tartós külszolgálatot teljesítő diplomata rangjának megfelelő illetmény megállapításához a kultúráért felelős miniszter egyetértése szükséges.
+
+24. § (1) A kihelyezett devizailletményében megjelenő deviza-illetménypótlékok mértéke
+
+- a) a külképviselet külpolitikai viszonyrendszerben elfoglalt helyétől,
+- b) az állomáshely élhetőségétől, valamint
+- c) a kihelyezett családi állapotától
+
+függ.
+
+(2) A külképviseleteket a külpolitikáért felelős miniszter rendeletben a külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából kategóriákba sorolja.
+
+(3) A kihelyezett az adott külképviselet külpolitikai viszonyrendszerben elfoglalt helye szerinti besorolásától függően
+
+- a) „A plusz” kategória esetén az illetménye 30%-ának
+- b) „A” kategória esetén az illetménye 15%-ának
+- c) „B” kategória esetén az illetménye 5%-ának
+- d) „C” kategória esetén az illetménye 0%-ának
+
+megfelelő deviza-illetménypótlékra jogosult.
+
+(4) „A plusz” kategóriába legfeljebb húsz, kiemelt fontosságú külképviselet sorolható.
+
+(5) A kihelyezett a (3) bekezdésben meghatározott deviza-illetménypótlékon túl az adott külképviselet élhetőségi besorolásától függően
+
+- a) „A” kategória esetén az illetménye 0%-ának,
+- b) „B” kategória esetén az illetménye 5%-ának,
+- c) „C” kategória esetén az illetménye 15%-ának,
+- d) „C mínusz” kategória esetén az illetménye 40%-ának
+
+megfelelő deviza-illetménypótlékra jogosult.
+
+(6) „C mínusz” kategóriába azon külképviseletek kerülnek besorolásra, amelyek háborús vagy polgárháborús helyzetben lévő államban vagy mindennapi és közvetlen terrorfenyegetés alatt működnek.
+
+(7) Ha írásbeli nyilatkozata alapján a kihelyezett házastársa is a kihelyezettel tartózkodik, és nem folytat jövedelemszerző tevékenységet, a kihelyezett illetménye 12,5%-ának megfelelő deviza-illetménypótlékra jogosult. A nyilatkozatra vonatkozó részletes szabályokat a külpolitikáért felelős miniszter rendeletben szabályozza.
+
+25. § (1) A kihelyezettet a devizailletményén túl a saját és hozzátartozói külföldi életvitelével kapcsolatos kiadásainak fedezésére, minden külképviselet vonatkozásában megállapított, a 23. § (1) bekezdés szerint választott devizanemben havonta folyósított átalány-költségtérítés (a továbbiakban: átalány-költségtérítés) illeti meg, kivéve, ha a 16. § (1) bekezdés a) pontja szerinti feltételnek nem felel meg és a kihelyező vezető e feltétel alól a 16. § (2) bekezdése alapján mentesítette. Házastársak egyazon külképviseletre történő kihelyezése esetén az átalány-költségtérítés elemei csak – a nyilatkozatukban megjelölt – egyik fél részére számfejthetők.
+
+(1a) Ha a kihelyezett állandó lakóhelye a fogadó államban van és a 16. § (2) bekezdése szerinti mentesítést megkapta, a (2) bekezdés a) pontja szerinti lakhatási és a (2) bekezdés c) pontja szerinti óvodáztatási és iskoláztatási költségtérítésre, valamint költségtérítés-kiegészítésekre nem jogosult.
+
+(2) Az átalány-költségtérítés
+
+- a) lakhatási költségtérítésből,
+- b) vegyes költségtérítésből, valamint
+- c) a kihelyezett családi élethelyzetére tekintettel megállapított
+  - ca) óvodáztatási és iskoláztatási költségtérítésből (a továbbiakban: iskoláztatási költségtérítés), valamint
+  - cb) az a) és b) pontokhoz kapcsolódó költségtérítés-kiegészítésekből
+
+áll.
+
+(3) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítés mértékét az egyes költségtérítések vonatkozásában megállapított költségtérítés-alapok, valamint az adott állomáshely tekintetében megállapított költségtérítés-szorzók szorzata adja.
+
+(4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
+
+(5) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat állomáshelyén tartózkodó, a 2. § 8. pont szerint hozzátartozónak minősülő minden
+
+- a) gyermek után a (2) bekezdés a) pont szerinti költségtérítés 10%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 15%-ának megfelelő költségtérítés-kiegészítés,
+- b) gyermek után a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 150%-ának megfelelő költségtérítés-kiegészítés, valamint
+- c) az óvodai nevelésben részesülő, az alap- és középfokú tanulmányait folytató, harmadik életévét meghaladó, de huszonegyedik életévét be nem töltött gyermek után iskoláztatási költségtérítés
+
+illeti meg.
+
+(6) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat helyén tartózkodó nagykorú, tartósan beteg vagy súlyosan fogyatékos gyermeke után, aki a családok támogatásáról szóló törvény alapján saját jogán emelt összegű családi pótlékra jogosult, vagy a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásban vagy a vakok személyi járadékában, vagy a rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet alapján rokkantsági járadékban részesül
+
+- a) a (2) bekezdés a) pontja szerinti költségtérítés 15%-ának megfelelő költségtérítés-kiegészítés, valamint
+- b) a (2) bekezdés b) pontja szerinti költségtérítés 150%-ának megfelelő költségtérítés-kiegészítés
+
+illeti meg.
+
+(7) Ha a kihelyezett részére az (5) bekezdés c) pontja és (6) bekezdés c) pontja szerint megállapított iskoláztatási költségtérítés egy évre vonatkoztatott összegének másfélszerese nem éri el az adott állomáshelyen elérhető – a magyar átlagszínvonalnak megfelelő – angol, francia, német, orosz vagy spanyol nyelvű és oktatási rendszerű óvoda, illetve alap- és középfokú képzési intézmények tandíjának éves mértékét, a kihelyezett részére a kihelyező szerv vezetője mérlegelési jogkörben az iskoláztatási költségtérítés összegét kiegészítheti. A kihelyezett a tanév közben történő kihelyezést követő harminc napon belül, illetve minden tanév kezdetekor iskolalátogatási igazolással igazolja, hogy gyermeke iskolalátogatási kötelezettségének az állomáshelyen tesz eleget.
+
+(8) Ha a kihelyezett írásbeli nyilatkozata alapján a kihelyezett házastársa is a kihelyezettel tartózkodik, a kihelyezett a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának megfelelő költségtérítés-kiegészítésre jogosult.
+
+(9) Az egyes külképviseletekhez tartozó lakhatási, vegyes, valamint iskoláztatási költségtérítés-szorzókat a külpolitikáért felelős miniszter rendeletben állapítja meg, amelynek mértékét szükség szerint, de legalább évente felülvizsgálja.
+
+(10) Az átalány-költségtérítés összege a kihelyezett által tetszőlegesen meghatározott arányban és mértékben használható fel bárminemű költségének fedezésére, ilyen különösen az állomáshelyén való lakhatás, Magyarország és a külképviselet közötti utazások, ingóságainak szállítása, mobiltelefon-költsége, gépjármű-használattal kapcsolatban felmerülő költségek, valamint más jogszabályokban a kormányzati szolgálati jogviszonyban álló személyekre nézve biztosított pénzbeli és természetbeni juttatások, illetve egyéb munkáltatói kedvezmények.
+
+(11) A kihelyezett lakásbérleti szerződése a külképviselet-vezető hozzájárulásával köthető meg, amennyiben az a külképviselet-vezető megítélése szerint a reprezentációs, valamint biztonsági szempontoknak megfelel.
+
+(12) A külképviselet-vezető lakhatási költségtérítésre nem jogosult, a külképviselet-vezető részére a külpolitikáért felelős miniszter által vezetett minisztérium biztosítja a lakhatásra szánt rezidenciát.
+
+(13) Ha a külképviselet rendelkezik olyan lakóingatlannal, amely a kihelyezett és hozzátartozói számára méretben megfelelő, és a kihelyezett munkaköre indokolja, a külképviselet-vezető döntése értelmében a kihelyezett köteles a rendelkezésre álló, a számára lakhatás céljából felajánlott lakóingatlant elfogadni. Ebben az esetben a kihelyezett lakhatási költségtérítésre nem jogosult.
+
+(14) A kihelyező szerv a kihelyezett kérelmére – kizárólag gépkocsivásárlás céljára – a külpolitikáért felelős miniszter által kiadott rendeletben megállapított feltételekkel kölcsönt nyújthat, a kihelyezéstől számított egy éven belül.
+
+(15) Ha a kihelyezett hozzátartozója egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett a házastárs távolléte esetén a 24. § (7) bekezdés szerinti juttatásra nem jogosult.
+
+(16) Ha a kihelyezett jogosultsága a (15) bekezdés alapján a 24. § (7) bekezdés szerinti juttatásra három egymást követő hónapban megszűnik, a kihelyezett (15) bekezdés hozzátartozóját a kihelyező okiratból törölni kell.
+
+(17) Ha a kihelyezett házastársa a fogadó államban az e törvény hatálya alá nem tartozó munkáltatónál jövedelemszerző tevékenységet folytat és a vele közös háztartásban élő gyermeke, gyermekei után pótlékot, költségtérítést, iskoláztatási támogatást kap vagy fogyatékossági támogatásban, illetve vakok személyi járadékában részesül, az (5)–(6) bekezdés szerinti költségtérítésre nem jogosult.
+
+26. § (1) A kihelyezettet megillető díjazás kifizetése a kihelyezett által választott, legfeljebb két fizetési számlára, a 23. § (1) bekezdése szerint választott, legfeljebb két devizanemben történő utalással, a kihelyezett által meghatározott arányban megosztva történik. A kihelyezett forintszámlát is megjelölhet.
+
+(1a) Ha az állomáshely szerinti országban nincs, vagy olyan alacsony fejlettségű bankrendszer működik, ami az utalás biztonságát veszélyezteti, a kifizetés pénzforgalmi számláról történő készpénzkifizetés útján a külképviseleten történik euróban vagy USA-dollárban attól függően, hogy a külképviselet részére melyik valuta használata engedélyezett.
+
+(1b) A díjazás fizetési számlára történő átutalásának a Magyar Államkincstárnál felmerülő költségeit a kihelyező szerv viseli, az átutalással kapcsolatban felmerülő egyéb költségeket az átalány-költségtérítés tartalmazza.
+
+(1c) A kifizetésre kerülő díjazás euróra vagy USA-dollárra történő átváltása a bérszámfejtés hónapját megelőző hónap 15. napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon történik.
+
+(2) A külpolitikáért felelős miniszter
+
+- a) rendeletben határozza meg a devizailletmény, valamint a költségtérítés számításának e törvényben nem rendezett részletes szabályait, valamint
+- b) szükség szerint, de legalább évente felülvizsgálja az egyes külképviseletek külpolitikai viszonyrendszerben elfoglalt helye, továbbá életminőség szerinti besorolását, és ennek alapján a devizailletmény és a költségtérítés mértékét.
 
 #### 10. A kihelyezettre vonatkozó különleges munkajogi, biztonsági és a külképviselet működését érintő egyéb szabályok
 
@@ -335,9 +470,47 @@ szüntethető meg.
 
 (3) A válsághelyzetben a kihelyező vezető dönt a (2) bekezdésben meghatározott személyek hazaszállításáról. Az ebből eredő, előre nem tervezett többletköltségeket a kihelyező szerv viseli.
 
-29. § (1) A kihelyezett munkarendjét a külképviselet-vezető határozza meg, valamint szükség esetén rendkívüli munkavégzést, ügyeletet és készenlétet rendelhet el. A munkarendre, a rendkívüli munkavégzésre, az ügyeletre, a készenlétre, valamint ezek nyilvántartására és elszámolására, továbbá a szabadság kiadására vonatkozó szabályokat a külpolitikáért felelős miniszter rendeletben állapítja meg.
+29. § (1) E törvény 1. mellékletében meghatározott
+
+- a) vezetői munkakörben,
+- b) diplomata munkakörben,
+- c) regionális rendszergazda munkakörben,
+- d) gazdasági vezető munkakörben,
+- e) gazdasági felelősi munkakörben
+
+foglalkoztatott kihelyezett munkarendje kötetlen, a munkarend kötetlen jellegét azonban nem érinti, ha a kihelyezett a munkaköri feladatok egy részét sajátos jellegüknél fogva és a külképviselet-vezető utasításainak figyelembevételével meghatározott időpontban vagy időszakban teljesítheti.
 
 (2) A külképviseleten a munkaidő beosztása a külképviselet-vezető által a közszolgálati tisztviselőkről szóló törvény szerint megállapított általános munkarendtől és munkaidő-beosztástól eltérően is megállapítható. A külképviseleten a munkaszüneti napok megegyeznek a belföldön jogszabályban meghatározott munkaszüneti napokkal. A munkaszüneti napot más napon kiadni vagy összevonni csak különösen indokolt esetben lehet. A kihelyezettet hetenként két egymást követő pihenőnap illeti meg, amelyeket a külképviselet-vezető a helyi viszonyokra tekintettel állapít meg.
+
+29/A. § (1) Ha a kihelyezett munkaidőkeretben kerül foglalkoztatásra, a munkaidőkeret tartama négy hónap.
+
+(2) A munkaidő-beosztást a munkavégzés megkezdésének időpontjától számított legalább öt munkanappal előre írásban kell közölni. Ennek hiányában az utolsó munkaidő-beosztás az irányadó.
+
+(3) A munkáltató az adott napra vonatkozó munkaidő-beosztást, ha működésében előre nem látható körülmény merül fel, a munkavégzést megelőző napon írásban módosíthatja.
+
+29/B. § (1) Egyenlőtlen munkaidő-beosztás esetén a heti pihenőnapok egyenlőtlenül is beoszthatók.
+
+(2) A kihelyezett számára a heti pihenőidőt havonta legalább egy alkalommal vasárnapra kell beosztani.
+
+(3) A (2) bekezdésben foglaltak megfelelő alkalmazásával a kihelyezettnek hetenként legalább negyven órát kitevő és egy naptári napot magába foglaló megszakítás nélküli heti pihenőidő is biztosítható. A kihelyezettnek a munkaidőkeret átlagában legalább heti negyvennyolc óra heti pihenőidőt kell biztosítani.
+
+(4) A külképviselet-vezető a heti pihenőnapokat csak rendkívül indokolt esetben adhatja ki úgy, hogy a pihenőnapok nem követik egymást.
+
+29/C. § (1) Teljes munkaidőben történő foglalkoztatás esetén naptári évenként kettőszázötven óra rendkívüli munkaidő rendelhető el.
+
+(2) A tartós külszolgálat időtartama alatt heti pihenőnapon, illetve munkaszüneti napon végzett rendkívüli munka, készenlét, ügyelet ellenértékeként a kormánytisztviselőt a teljesített munkaidő időtartamával azonos mértékű szabadidő illeti meg, tekintet nélkül a heti pihenőnapra vagy munkaszüneti napra.
+
+(3) A külképviseleten – amennyiben ügyelet adása szükséges – az ügyeleti rendet a külképviselet-vezető határozza meg, és legalább egy héttel korábban és egy hónapra előre közli a kijelölt kihelyezettekkel.
+
+(4) A külképviselet-vezető ügyeletet rendelhet el, ha olyan előre látható esemény következik be, amely miatt a kihelyezettnek a külképviselet-vezető által meghatározott helyen kell tartózkodnia, ellenkező esetben készenlétet kell elrendelni.
+
+(5) Rendkívüli, előre nem látható esetben a külképviselet-vezető az ügyelet vagy készenlét adását azonnali hatállyal is elrendelheti.
+
+29/D. § (1) A kötetlen munkarendben foglalkoztatott kihelyezettek rendes évi szabadságának kiadását és annak időtartamát nyilvántartásba kell venni.
+
+(2) A rendkívüli munkavégzés ellenértékeként járó szabadidőt az általános munkarendben dolgozó kihelyezettek részére a külképviselet-vezető a rendkívüli munkavégzést követő kilencven napon belül köteles kiadni.
+
+(3) A fogadó államban munkaszüneti napnak minősülő ünnepnapok a külképviseletre kihelyezett számára szabadnapoknak minősülnek, amelyet a rendkívüli munkavégzés, készenlét és ügyelet időtartamának elszámolásakor figyelembe kell venni.
 
 30. § (1) A kihelyezett és hozzátartozói a tartós külszolgálat alatt a kötelező egészségbiztosítás ellátásairól szóló törvény és kapcsolódó jogszabályok külföldön történő gyógykezelésre vonatkozó szabályai szerint jogosultak az állomáshelyen egészségügyi ellátás igénybevételére, amelynek részletszabályait – az egészségügyért felelős miniszterrel egyetértésben – a külpolitikáért felelős miniszter rendeletben szabályozza.
 
@@ -392,7 +565,7 @@ illeti meg.
 
 35. § A külképviselet-vezető indokolt esetben, az állami vagyonnal és a költségvetési előirányzatokkal való felelős gazdálkodás elvének tiszteletben tartásával, a külképviselet kiadási előirányzatai terhére, a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője előzetes engedélyével, az engedélyben foglalt feltételek szerint támogatást, adományt, segélyt, felajánlást és más ellenérték nélküli kötelezettséget vállalhat és kifizetést teljesíthet.
 
-35/A. § Magyarország diplomáciai és konzuli képviseletének, nemzetközi szervezet mellett működő állandó képviseletének, vagy kereskedelmi képviseletének külképviselet-vezetője indokolt esetben, az állami vagyonnal és a költségvetési előirányzatokkal való felelős gazdálkodás elvének tiszteletben tartásával, a külképviselet kiadási előirányzatai terhére, a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője előzetes engedélyével, az engedélyben foglalt feltételek szerint támogatást, adományt, segélyt, felajánlást és más ellenérték nélküli kötelezettséget vállalhat és kifizetést teljesíthet.
+#### 35/A. §
 
 35/B. § A 35. § alapján nyújtott támogatás, adomány és más ellenérték nélküli kötelezettségvállalás esetében az államháztartásról szóló 2011. évi CXCV. törvény 55. §-át nem kell alkalmazni.
 
@@ -450,7 +623,7 @@ illeti meg.
 - h) a külképviselet tevékenységéről és működéséről folyamatosan beszámol az európai uniós ügyek koordinációjáért felelős miniszternek, a közös kül- és biztonságpolitika tekintetében a külpolitikáért felelős miniszternek,
 - i) ellátja a jogszabályban és a kihelyezési okiratban, valamint a munkaköri leírásban meghatározott további feladatokat.
 
-40. § (1) A 7. § (1) bekezdésétől eltérően a képviselet-vezető COREPER II. nagykövet távollétében, vagy akadályoztatása esetén a COREPER I. nagykövet jár el. A COREPER I. nagykövet hiányában, távollétében, illetve akadályoztatása esetén helyettesként az EU ÁK Kül- és Biztonságpolitikai Hivatalát rendkívüli és meghatalmazott nagyköveti rangban vezető diplomatája jár el. Ha a COREPER II. nagykövet-munkakör átmenetileg nincs betöltve, a COREPER II. nagykövet jogkörében és feladatkörében – a kihelyező vezető eltérő utasítása hiányában – helyettesként a COREPER I. nagykövet jár el.
+40. § (1) A 7. § (1) bekezdésétől eltérően a képviselet-vezető COREPER II. nagykövet távollétében, vagy akadályoztatása esetén a COREPER I. nagykövet jár el. A COREPER I. nagykövet hiányában, távollétében, illetve akadályoztatása esetén helyettesként a PSC nagykövet jár el. Ha a COREPER II. nagykövet-munkakör átmenetileg nincs betöltve, a COREPER II. nagykövet jogkörében és feladatkörében – a kihelyező vezető eltérő utasítása hiányában – helyettesként a COREPER I. nagykövet jár el.
 
 (2) Az EU ÁK helyettesítési rendjének részletes szabályairól az EU ÁK szervezetére és működésére vonatkozó szabályok rendelkeznek.
 
@@ -493,13 +666,47 @@ diplomáciai rangot adományozhat.
 
 47. § A 22. § (2) bekezdésétől eltérően a kihelyezésre vonatkozó okiratnak nem kell tartalmaznia a biztonsági szolgálat ellátására vonatkozó kötelezettséget.
 
-#### 18.
+#### 18. Járandóságok
 
-#### 48–53. §
+48. § (1) A 23. § (7) bekezdésétől eltérően az EU ÁK tekintetében a központi költségvetésről szóló törvény magasabb deviza-illetményalapot is megállapíthat.
+
+(2) A 23. § (8) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK tekintetében a következő költségvetési évre vonatkozó deviza-alapilletményt – a 23. § (8) bekezdés szabályainak alkalmazásával – az európai uniós ügyek koordinációjáért felelős miniszter teszi rendeletben közzé.
+
+49. § A 24. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-t a külpolitikai viszonyrendszerben elfoglalt helye, valamint az élhetőség szempontjából az európai uniós ügyek koordinációjáért felelős miniszter sorolja be rendeletben kategóriába, amely az EU ÁK-ra kihelyezettek deviza-illetménypótlékának meghatározása tekintetében irányadó.
+
+50. § (1) A kihelyező vezető az EU ÁK kimagasló teljesítményt nyújtó, illetve jelentős diplomáciai, vagy európai uniós szakmai tapasztalattal rendelkező diplomatája és szakdiplomatája részére a 23–24. § szerinti deviza-illetmény helyett, a 23–24. § szerinti számított deviza-illetménynél magasabb összegű deviza személyi illetményt állapíthat meg.
+
+(2) A deviza személyi illetmény határozott időre, legfeljebb egy naptári évre kerül megállapításra, amely a határozott idő letelte előtt is visszavonható, illetve a határozott idő letelte után ismét megállapítható.
+
+(3) A 22. § (7) bekezdését azzal az eltéréssel kell alkalmazni, hogy a deviza személyi illetmény megállapításához, illetve visszavonásához nem szükséges a kihelyezett beleegyezése.
+
+(4) A 27. § (3) bekezdése és a 33. § (2) bekezdése alkalmazásában a kifizetés alapja akkor is a kihelyezett havi devizailletménye, ha a kihelyező vezető a kihelyezett részére deviza személyi illetményt állapított meg.
+
+51. § (1) Az EU ÁK diplomatája és szakdiplomatája részére – tevékenysége kiemelt jelentőségére, összetettségére tekintettel – a 23–24. § szerinti devizailletményen felül állandó képviseleti devizapótlék fizethető.
+
+(2) Az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter rendeletben állapítja meg.
+
+52. § (1) A 25. § (1)–(6) bekezdésétől eltérően az EU ÁK-ra kihelyezett lakhatási költségtérítésre és ahhoz kapcsolódó költségtérítés-kiegészítésre nem jogosult.
+
+(2) A 25. § (9) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-ra vonatkozó vegyes, valamint iskoláztatási költségtérítés szorzókat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben, amelynek mértékét szükség szerint, de legalább évente felülvizsgálja.
+
+(3) A 25. § (10)–(13) bekezdésétől eltérően a kihelyező szerv köteles a kihelyezett számára a feladatkörének, a vele együtt élő hozzátartozói összetételének, létszámának, valamint a reprezentációs és biztonsági követelményeknek megfelelő lakást, a külképviselet-vezető esetében rezidenciát biztosítani.
+
+(4) A (3) bekezdés szerinti lakás, rezidencia bérleti díját, illetve – ideiglenes szállodai elhelyezés esetén – a szállodai elhelyezés költségeit a kihelyező szerv viseli.
+
+(5) A (3) bekezdés szerinti lakás, rezidencia fenntartásával kapcsolatos valamennyi számlázott vagy a bérleti szerződésben szereplő költség (többek között a közös költség, a közüzemi és telekommunikációs szolgáltatások díja) megfizetése, továbbá az igénybe vett, de számla ellenében nem fizethető szolgáltatások, költségek ellentételezése – a kapott átalány-költségtérítés terhére – a kihelyezettet terheli.
+
+(6) A 25. § (14) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-ra kihelyezettek esetében a gépkocsivásárlás céljára nyújtható kölcsön feltételeit az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben.
+
+(7) Ha a kihelyező szerv az EU ÁK-ra kihelyezett számára berendezés nélküli lakást biztosít, a kihelyezett számára egyszeri költözési költségtérítés fizethető. A költözési költségtérítés megállapításának további feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter rendeletben állapítja meg.
+
+53. § A 26. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a (2) bekezdés a) pontja szerinti szabályokat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben, illetve a (2) bekezdés b) pontja szerinti felülvizsgálatot az európai uniós ügyek koordinációjáért felelős miniszter végzi el.
 
 #### 19. Sajátos munkajogi szabályok
 
-54. § A 29. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK esetében a munkarendre, a rendkívüli munkavégzésre, az ügyeletre, a készenlétre, valamint ezek nyilvántartására és elszámolására, továbbá a szabadság kiadására vonatkozó szabályokat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben.
+54. § (1) A 29. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK esetében a COREPER II., a COREPER I. és a PSC nagykövetek munkarendje kötetlen.
+
+(2) Az EU ÁK-ra kihelyezettek munkarendjét – ideértve a kötetlen munkarend meghatározását az (1) bekezdés szerinti személyi körön kívüli kihelyezettek esetében is – a külképviselet-vezető határozza meg.
 
 55. § A 35. §-t azzal az eltéréssel kell alkalmazni, hogy az EU ÁK külképviselet-vezetője az európai uniós ügyek koordinációjáért felelős miniszter engedélyével és az abban foglalt feltételek szerint vállalhat támogatást, adományt, segélyt, felajánlást és más ellenérték nélküli kötelezettséget és teljesíthet kifizetést, a 35. §-ban foglalt egyéb szempontok betartása mellett.
 
@@ -529,7 +736,7 @@ diplomáciai rangot adományozhat.
 
 (3) E törvény rendelkezéseit a törvény hatálybalépésekor tartós külszolgálatot ellátó kormánytisztviselők és kormányzati ügykezelők esetében is alkalmazni kell.
 
-(4)
+(4) Ha az e törvény szerint megállapított pénzbeli és nem pénzbeli juttatás és a jogviszonyból eredő egyéb jogosultságok a törvény hatálybalépésekor tartós külszolgálatát töltő kihelyezettre nézve kedvezőtlenebbek a kihelyezés időpontja szerint megállapított pénzbeli és nem pénzbeli juttatásainál és a jogviszonyból eredő egyéb jogosultságainál, akkor a folyamatban lévő tartós külszolgálatának befejezéséig a kihelyezett a kihelyezése időpontjában megállapított juttatásokra és a jogviszonyból eredő egyéb jogosultságokra jogosult.
 
 (5) A 14. § (2) bekezdés c) pontja szerinti feltételnek meg nem felelő diplomáciai vagy konzuli rangú kormánytisztviselőnek e törvény hatálybalépését követő két éven belül meg kell szereznie az előírt szintnek megfelelő nyelvvizsgát.
 
@@ -567,12 +774,13 @@ részletes szabályait rendeletben állapítsa meg.
 - b) – az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszterrel egyetértésben – a rangadományozás és ranghasználat,
 - c) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 - d) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
-- e)–f)
+- e) a külképviseletek külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
+- f) az egyes külképviseletekhez tartozó költségtérítés-szorzók,
 - g) a külképviselet által foglalkoztatott munkavállaló foglalkoztatásának,
 - h) az egészségügyért felelős miniszterrel egyetértésben a kihelyezett és hozzátartozói tartós külszolgálata alatt az állomáshelyen való egészségügyi ellátás igénybevételének,
 - i) a biztonsági szolgálat,
 - j) a pályáztatás,
-- k)
+- k) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az egyes állomáshelyekre vonatkozó, az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével, állomáshelyenként megállapított deviza-alapilletmények,
 - l) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 - m) kihelyezett részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának,
 - n) kizárólag gépkocsivásárlás céljára nyújtható kölcsön, valamint
@@ -590,11 +798,13 @@ a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
 b) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
 
-c)–d)
+c) az EU ÁK külpolitikai viszonyrendszerben elfoglalt helye, az élhetőség szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
+
+d) a költségtérítés-szorzók,
 
 e) a pályáztatás,
 
-f)
+f) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmények,
 
 g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
@@ -603,6 +813,8 @@ h) a kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
 i) az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó, valamint
 
 j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
+
+k) a költözési költségtérítés
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -626,17 +838,78 @@ részletes szabályait rendeletben állapítsa meg.
 
 #### 61–62. §
 
-#### 63. §
+63. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. számú melléklete e törvény 2. melléklete szerint egészül ki.
 
 64. § Hatályát veszti
 
 - a) a Kttv.
-  - aa)
+  - aa) 54/A.–54/B. §-a,
   - ab)
-  - ac)–ae)
-- b)
+  - ac) 126. § (6) bekezdése,
+  - ad) 259. § (1) bekezdés 3. pont d) alpontja és
+  - ae) 259. § (4)–(4a) bekezdése, valamint
+- b) a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről szóló 172/2012. (VII. 26.) Korm. rendelet 1. §-a és II. fejezete.
 
-### 1–2. melléklet a 2016. évi LXXIII. törvényhez
+### 1. melléklet a 2016. évi LXXIII. törvényhez
+
+#### I. Munkaköri és rangok szerinti besorolás – külképviseletek az EU ÁK nélkül
+
+| Munkaköri osztály | Munkakör | Rang | Szorzó |
+| --- | --- | --- | --- |
+| Vezetői munkakörök | Külképviselet-vezető a 3. § (1) bekezdés a) és c) pont szerinti külképviseleten |  | 5,0 |
+| Külképviselet-vezető a 3. § (1) bekezdés b) és d) pont szerinti külképviseleten |  | 4,6 |
+| Első beosztott diplomata, első beosztott konzul |  | 4,2 |
+| Külföldi magyar kulturális intézetet vezető kulturális tanácsos, vezető konzul |  | 4,0 |
+| Diplomata munkakörök | Beosztott diplomata | rendkívüli követ és meghatalmazott miniszter | 4,0 |
+| I. osztályú tanácsos | 3,9 |
+| II. osztályú tanácsos | 3,8 |
+| I. osztályú titkár | 3,7 |
+| II. osztályú titkár | 3,6 |
+| III. osztályú titkár | 3,5 |
+| attasé | 3,4 |
+| segédattasé | 3,3 |
+| Adminisztratív munkakörök | Gazdasági vezető | I. osztályú titkár | 3,7 |
+| II. osztályú titkár | 3,6 |
+| III. osztályú titkár | 3,5 |
+| attasé | 3,4 |
+| segédattasé | 3,3 |
+| Regionális rendszergazda | attasé | 3,4 |
+| segédattasé | 3,3 |
+| Gazdasági felelős |  | 3,0 |
+| Rendszergazda, külképviselet-vezetői titkárnő, gazdasági ügyintéző |  | 2,8 |
+| Titkárnő (titkársági referens), konzuli ügyintéző, kommunikációs munkatárs |  | 2,6 |
+| Technikai munkakörök | Nagyköveti gépkocsivezető |  | 2,4 |
+| Gépkocsivezető, szakács, gondnok |  | 2,2 |
+| Hivatalsegéd, takarító |  | 2,0 |
+
+#### II. Munkaköri és rangok szerinti besorolás – EU ÁK
+
+| Munkaköri osztály | Munkakör | Rang | Szorzó |
+| --- | --- | --- | --- |
+| Vezetői munkakörök | Állandó Képviselet vezetője (COREPER II. nagykövet) |  | 5,0 |
+| Állandó Képviselet helyettes vezetője (COREPER I. nagykövet) |  | 4,8 |
+| Kül- és Biztonságpolitikai Hivatal vezetője (PSC nagykövet) |  | 4,6 |
+| Antici diplomata |  | 4,2 |
+| Mertens, Nicolaidis diplomata, kabinetfőnök |  | 4,0 |
+| Gazdasági főigazgató |  | 3,9 |
+| Csoportvezető |  | 3,8 |
+| Diplomata munkakörök |  | rendkívüli követ és meghatalmazott miniszter | 4,0 |
+| I. osztályú tanácsos | 3,9 |
+| II. osztályú tanácsos | 3,8 |
+| I. osztályú titkár | 3,7 |
+| II. osztályú titkár | 3,6 |
+| III. osztályú titkár | 3,5 |
+| attasé | 3,4 |
+| segédattasé | 3,3 |
+| Adminisztratív munkakörök | Biztonsági felelős |  | 3,3 |
+| Gazdasági felelős, biztonságtechnikai felelős, logisztikai koordinátor, rendszergazda |  | 3,0 |
+| Informatikus, EU ÁK Nyilvántartó, külképviselet-vezetői titkárnő, gazdasági ügyintéző |  | 2,8 |
+| Titkárnő (titkársági referens), TÜK kezelő |  | 2,6 |
+| Technikai munkakörök | Nagyköveti gépkocsivezető |  | 2,4 |
+| Gépkocsivezető, szakács, gondnok |  | 2,2 |
+| Hivatalsegéd, takarító |  | 2,0 |
+
+### 2. melléklet a 2016. évi LXXIII. törvényhez
 
 ### 3. melléklet a 2016. évi LXXIII. törvényhez
 
