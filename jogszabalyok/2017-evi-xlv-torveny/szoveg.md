@@ -42,17 +42,7 @@ az egyes külügyi igazgatási tárgyú törvények, valamint a tartós külszol
 
 25–32. §
 
-33. § A Külszoltv. 22. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Nem szükséges a kihelyezett beleegyezése a kinevezési, illetve a kihelyező okirat módosításához, ha a kihelyezett
-
-a) munkakörének megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja,
-
-b) hozzátartozója után a 24. § (7) bekezdésében, a 25. § (5)–(8) bekezdésében meghatározott deviza-illetménypótlékra, illetve költségtérítés-kiegészítésre válik jogosulttá,
-
-c) rangemelésben részesül,
-
-d) személyi adatai módosulnak.”
+33. §
 
 34. § A Külszoltv. 23. § (1) bekezdése a következő szöveggel lép hatályba:
 
@@ -72,9 +62,7 @@ d) személyi adatai módosulnak.”
 
 „(1) A kihelyezettet a devizailletményén túl a saját és hozzátartozói külföldi életvitelével kapcsolatos kiadásainak fedezésére, minden külképviselet vonatkozásában megállapított, a 23. § (1) bekezdés szerint választott devizanemben havonta folyósított átalány-költségtérítés (a továbbiakban: átalány-költségtérítés) illeti meg, kivéve, ha a 16. § (1) bekezdés a) pontja szerinti feltételnek nem felel meg és a kihelyező vezető e feltétel alól a 16. § (2) bekezdése alapján mentesítette. Házastársak egyazon külképviseletre történő kihelyezése esetén az átalány-költségtérítés elemei csak – a nyilatkozatukban megjelölt – egyik fél részére számfejthetők.”
 
-(2) A Külszoltv. 25. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha a kihelyezett állandó lakóhelye a fogadó államban van és a 16. § (2) bekezdése szerinti mentesítést megkapta, a (2) bekezdés a) pontja szerinti lakhatási és a (2) bekezdés c) pontja szerinti óvodáztatási és iskoláztatási költségtérítésre, valamint költségtérítés-kiegészítésekre nem jogosult.”
+(2)
 
 (3) A Külszoltv. 25. § (6) bekezdése a következő szöveggel lép hatályba:
 
@@ -86,79 +74,15 @@ b) a (2) bekezdés b) pontja szerinti költségtérítés 150%-ának megfelelő 
 
 illeti meg.”
 
-(4) A Külszoltv. 25. §-a a következő (15)–(17) bekezdéssel egészül ki:
-
-„(15) Ha a kihelyezett hozzátartozója egy naptári hónapban 10 napnál többet tartózkodik a kihelyezett nélkül az állomáshelytől távol, a kihelyezett a házastárs távolléte esetén a 24. § (7) bekezdés szerinti juttatásra nem jogosult.
-
-(16) Ha a kihelyezett jogosultsága a (15) bekezdés alapján a 24. § (7) bekezdés szerinti juttatásra három egymást követő hónapban megszűnik, a kihelyezett (15) bekezdés hozzátartozóját a kihelyező okiratból törölni kell.
-
-(17) Ha a kihelyezett házastársa a fogadó államban az e törvény hatálya alá nem tartozó munkáltatónál jövedelemszerző tevékenységet folytat és a vele közös háztartásban élő gyermeke, gyermekei után pótlékot, költségtérítést, iskoláztatási támogatást kap vagy fogyatékossági támogatásban, illetve vakok személyi járadékában részesül, az (5)–(6) bekezdés szerinti költségtérítésre nem jogosult.”
+(4)
 
 37. § (1) A Külszoltv. 26. § (1) bekezdése a következő szöveggel lép hatályba:
 
 „(1) A kihelyezettet megillető díjazás kifizetése a kihelyezett által választott, legfeljebb két fizetési számlára, a 23. § (1) bekezdése szerint választott, legfeljebb két devizanemben történő utalással, a kihelyezett által meghatározott arányban megosztva történik. A kihelyezett forintszámlát is megjelölhet.”
 
-(2) A Külszoltv. 26. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
+(2)
 
-„(1a) Ha az állomáshely szerinti országban nincs, vagy olyan alacsony fejlettségű bankrendszer működik, ami az utalás biztonságát veszélyezteti, a kifizetés pénzforgalmi számláról történő készpénzkifizetés útján a külképviseleten történik euróban vagy USA-dollárban attól függően, hogy a külképviselet részére melyik valuta használata engedélyezett.
-
-(1b) A díjazás fizetési számlára történő átutalásának a Magyar Államkincstárnál felmerülő költségeit a kihelyező szerv viseli, az átutalással kapcsolatban felmerülő egyéb költségeket az átalány-költségtérítés tartalmazza.
-
-(1c) A kifizetésre kerülő díjazás euróra vagy USA-dollárra történő átváltása a bérszámfejtés hónapját megelőző hónap 15. napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon történik.”
-
-38. § A Külszoltv. 29. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvény 1. mellékletében meghatározott
-
-a) vezetői munkakörben,
-
-b) diplomata munkakörben,
-
-c) regionális rendszergazda munkakörben,
-
-d) gazdasági vezető munkakörben,
-
-e) gazdasági felelősi munkakörben
-
-foglalkoztatott kihelyezett munkarendje kötetlen, a munkarend kötetlen jellegét azonban nem érinti, ha a kihelyezett a munkaköri feladatok egy részét sajátos jellegüknél fogva és a külképviselet-vezető utasításainak figyelembevételével meghatározott időpontban vagy időszakban teljesítheti.”
-
-39. § (1) A Külszoltv. a következő 29/A. §-sal egészül ki:
-
-„29/A. § (1) Ha a kihelyezett munkaidőkeretben kerül foglalkoztatásra, a munkaidőkeret tartama négy hónap.
-
-(2) A munkaidő-beosztást a munkavégzés megkezdésének időpontjától számított legalább öt munkanappal előre írásban kell közölni. Ennek hiányában az utolsó munkaidő-beosztás az irányadó.
-
-(3) A munkáltató az adott napra vonatkozó munkaidő-beosztást, ha működésében előre nem látható körülmény merül fel, a munkavégzést megelőző napon írásban módosíthatja.”
-
-(2) A Külszoltv. a következő 29/B. §-sal egészül ki:
-
-„29/B. § (1) Egyenlőtlen munkaidő-beosztás esetén a heti pihenőnapok egyenlőtlenül is beoszthatók.
-
-(2) A kihelyezett számára a heti pihenőidőt havonta legalább egy alkalommal vasárnapra kell beosztani.
-
-(3) A (2) bekezdésben foglaltak megfelelő alkalmazásával a kihelyezettnek hetenként legalább negyven órát kitevő és egy naptári napot magába foglaló megszakítás nélküli heti pihenőidő is biztosítható. A kihelyezettnek a munkaidőkeret átlagában legalább heti negyvennyolc óra heti pihenőidőt kell biztosítani.
-
-(4) A külképviselet-vezető a heti pihenőnapokat csak rendkívül indokolt esetben adhatja ki úgy, hogy a pihenőnapok nem követik egymást.”
-
-(3) A Külszoltv. a következő 29/C. §-sal egészül ki:
-
-„29/C. § (1) Teljes munkaidőben történő foglalkoztatás esetén naptári évenként kettőszázötven óra rendkívüli munkaidő rendelhető el.
-
-(2) A tartós külszolgálat időtartama alatt heti pihenőnapon, illetve munkaszüneti napon végzett rendkívüli munka, készenlét, ügyelet ellenértékeként a kormánytisztviselőt a teljesített munkaidő időtartamával azonos mértékű szabadidő illeti meg, tekintet nélkül a heti pihenőnapra vagy munkaszüneti napra.
-
-(3) A külképviseleten – amennyiben ügyelet adása szükséges – az ügyeleti rendet a külképviselet-vezető határozza meg, és legalább egy héttel korábban és egy hónapra előre közli a kijelölt kihelyezettekkel.
-
-(4) A külképviselet-vezető ügyeletet rendelhet el, ha olyan előre látható esemény következik be, amely miatt a kihelyezettnek a külképviselet-vezető által meghatározott helyen kell tartózkodnia, ellenkező esetben készenlétet kell elrendelni.
-
-(5) Rendkívüli, előre nem látható esetben a külképviselet-vezető az ügyelet vagy készenlét adását azonnali hatállyal is elrendelheti.”
-
-(4) A Külszoltv. a következő 29/D. §-sal egészül ki:
-
-„29/D. § (1) A kötetlen munkarendben foglalkoztatott kihelyezettek rendes évi szabadságának kiadását és annak időtartamát nyilvántartásba kell venni.
-
-(2) A rendkívüli munkavégzés ellenértékeként járó szabadidőt az általános munkarendben dolgozó kihelyezettek részére a külképviselet-vezető a rendkívüli munkavégzést követő kilencven napon belül köteles kiadni.
-
-(3) A fogadó államban munkaszüneti napnak minősülő ünnepnapok a külképviseletre kihelyezett számára szabadnapoknak minősülnek, amelyet a rendkívüli munkavégzés, készenlét és ügyelet időtartamának elszámolásakor figyelembe kell venni.”
+38–39. §
 
 40–43. §
 
@@ -166,27 +90,13 @@ foglalkoztatott kihelyezett munkarendje kötetlen, a munkarend kötetlen jelleg�
 
 „(3) A 25. § (10)–(13) bekezdésétől eltérően a kihelyező szerv köteles a kihelyezett számára a feladatkörének, a vele együtt élő hozzátartozói összetételének, létszámának, valamint a reprezentációs és biztonsági követelményeknek megfelelő lakást, a külképviselet-vezető esetében rezidenciát biztosítani.”
 
-45. § A Külszoltv. 52. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Ha a kihelyező szerv az EU ÁK-ra kihelyezett számára berendezés nélküli lakást biztosít, a kihelyezett számára egyszeri költözési költségtérítés fizethető. A költözési költségtérítés megállapításának további feltételeire, mértékére vonatkozó részletes szabályokat az európai uniós ügyek koordinációjáért felelős miniszter rendeletben állapítja meg.”
-
-46. § A Külszoltv. 54. §-a helyébe a következő rendelkezés lép:
-
-„54. § (1) A 29. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK esetében a COREPER II., a COREPER I. és a PSC nagykövetek munkarendje kötetlen.
-
-(2) Az EU ÁK-ra kihelyezettek munkarendjét – ideértve a kötetlen munkarend meghatározását az (1) bekezdés szerinti személyi körön kívüli kihelyezettek esetében is – a külképviselet-vezető határozza meg.”
+45–46. §
 
 47–48. §
 
 49. § (1)–(5)
 
-(6) A Külszoltv. 59. § (3) bekezdése a következő k) ponttal egészül ki:
-
-(Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az EU ÁK tekintetében)
-
-„k) a költözési költségtérítés”
-
-(részletes szabályait rendeletben állapítsa meg.)
+(6)
 
 (7)
 
@@ -197,9 +107,7 @@ foglalkoztatott kihelyezett munkarendje kötetlen, a munkarend kötetlen jelleg�
 51. § (1) A Külszoltv.
 
 - a)–h)
-- i) 40. § (1) bekezdésében az „az EU ÁK Kül- és Biztonságpolitikai Hivatalát rendkívüli és meghatalmazott nagyköveti rangban vezető diplomatája” szövegrész helyébe az „a PSC nagykövet”
-
-szöveg lép.
+- i)
 
 (2) A Külszoltv.
 
