@@ -68,7 +68,7 @@ a következő törvényt alkotja:
 - 8. Kiemelt nemzeti emlékhely: a nemzet és a magyar állam történelmében kiemelkedő jelentőségű nemzeti emlékhely, amelyet az Országgyűlés törvénnyel kiemelt nemzeti emlékhellyé nyilvánít.
 - 9. Közgyűjtemény: az állam, a helyi önkormányzat, valamint a nemzetiségi önkormányzat, a köztestület és a közalapítvány fenntartásában működő vagy általuk alapított könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum. A bevett egyház vagy a vallási tevékenységet végző szervezet kérelmére ezekkel azonos elbírálás alá kerülhetnek az egyházi jogi személy vagy a vallási tevékenységet végző szervezet fenntartásában működő, állami nyilvántartásba vett gyűjtemények (könyvtár, levéltár, muzeális intézmény, kép- és hangarchívum).
 - 10. Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei és egyéb bizonyítékai – az ingatlanok kivételével –, valamint a művészeti alkotások.
-- 11. Kulturális örökség elemei: a régészeti örökség, a hadtörténeti örökség régészeti módszerekkel kutatható elemei, a műemléki értékek, valamint a kulturális javak.
+- 11. Kulturális örökség elemei: a régészeti örökség, a hadtörténeti örökség régészeti módszerekkel kutatható elemei, a műemléki értékek, a nemzeti emlékhely, a kiemelt nemzeti emlékhely és annak 61/I. § (3a) bekezdése szerinti településkép-védelmi környezete, valamint a kulturális javak.
 - 12. Kulturális örökség elemeinek kutatása: a kulturális örökség elemeire vonatkozó, annak pótolhatatlan forrásértékét feltáró, tudományos módszereket alkalmazó, roncsolásmentes vagy roncsolásos beavatkozással járó eljárás.
 - 13. Megelőző feltárás: írásbeli szerződés alapján, tudományos módszerrel végzett régészeti feladatellátás (régészeti megfigyelés, próbafeltárás, teljes felületű feltárás), amely a földmunkával járó beavatkozások, fejlesztések, beruházások által érintett, nyilvántartott régészeti lelőhelyek feltárására irányul.
 - 14. Mentő feltárás: régészeti emlék vagy lelet régészeti feltáráson kívüli, váratlan előkerülése során alkalmazandó, a közvetlenül érintett elemek szakszerű megmentésére irányuló azonnali beavatkozás.
@@ -854,7 +854,7 @@ kulturális javakat.
 
 (2) A történelmi emlékhelyek, a nemzeti emlékhelyek és a kiemelt nemzeti emlékhelyek (a továbbiakban együtt: emlékhely) e törvény szerinti szabályozása az azokon e törvény vagy más jogszabályok alapján fennálló védettséget nem érinti.
 
-(3) A nemzeti emlékhelyek védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és az önkormányzati szervek, valamint az egyházi jogi személyek, a társadalmi és egyéb szervezetek, illetve a természetes személyek.
+(3) A nemzeti emlékhelyek védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és az önkormányzati szervek, valamint az egyházi jogi személyek, a civil és egyéb szervezetek, illetve a természetes személyek. A védelem kiterjed a nemzeti emlékhely és a kiemelt nemzeti emlékhely méltóságának megőrzésére és a méltó megemlékezés feltételeinek biztosítására, az emlékhely történelmileg hiteles, egységes arculatának és műemléki megjelenésének fenntartására és biztosítására, továbbá az ezek érdekében végzett fejlesztés, beruházás megvalósításának elősegítésére.
 
 (4) A nemzeti emlékhelyekre vonatkozó rendelkezéseket a kiemelt nemzeti emlékhelyekre előírt külön szabályokban meghatározott eltérésekkel kell alkalmazni.
 
@@ -888,7 +888,7 @@ kulturális javakat.
 - d) gondoskodik az emlékhelyekhez fűződő nemzeti értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról;
 - e) gondoskodik a nemzeti emlékhely és történelmi emlékhely megjelölés ingatlan-nyilvántartásba történő feljegyzéséről.
 
-61/E. § Kiemelt nemzeti emlékhely esetében a 61/D. § (1) bekezdés a) pontjában és a 61/D. § (3) bekezdés b)–d) pontjaiban meghatározott állami feladatokat az Országgyűlés elnökével egyetértésben kell ellátni. E feladatok ellátásáról az Országgyűlés elnöke évente beszámol az Országgyűlés Házbizottságának.
+61/E. § Kiemelt nemzeti emlékhely esetében a 61/D. § (1) bekezdés a) pontjában és a 61/D. § (3) bekezdés b)–d) pontjában meghatározott állami feladatokat az Országgyűlés elnökével egyetértésben kell ellátni.
 
 ### Az emlékhellyé nyilvánítás és az emlékhelyek kezelése
 
@@ -916,7 +916,7 @@ kulturális javakat.
 
 (5) A nemzeti emlékhely jellegre történő utalást az ingatlan-nyilvántartásban tényként fel kell jegyezni.
 
-61/H. § (1) Az állam a nemzeti emlékhelyek vonatkozásában a 61/D. §-ban és a 61/E. §-ban meghatározott feladatok ellátásához a központi költségvetésből forrást biztosít.
+61/H. § (1) Az állam a nemzeti emlékhelyek vonatkozásában a 61/D. §-ban, a 61/E. §-ban és a 61/K. § (2) bekezdés b) pont bb) alpontjában meghatározott feladatok ellátásához a központi költségvetésből forrást biztosít.
 
 (2) A nemzeti emlékhelyekkel kapcsolatos költségvetési pénzeszközöket az e törvényben megjelölt, a nemzeti emlékhelyekkel kapcsolatos állami feladatok költségeire figyelemmel kell meghatározni.
 
@@ -933,13 +933,17 @@ kulturális javakat.
 
 (3) A Kiemelt Nemzeti Emlékhely Bizottság a működési rendjét maga határozza meg.
 
-(4) A Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozata szükséges a kiemelt nemzeti emlékhely területén, valamint az annak részét képező közterülettel határos ingatlanon végezni tervezett építési, kereskedelmi, vendéglátási vagy szolgáltatási tevékenységhez, továbbá minden más tevékenységhez, amely a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozza.
+(3a) A kiemelt nemzeti emlékhely, valamint a környezetében lévő – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével kormányrendeletben meghatározott – ingatlanok területe (a továbbiakban: településkép-védelmi környezet) településképi szempontból kiemelt jelentőségű, egyedi településkép-védelem alatt álló területnek minősül.
 
-(5) A Kiemelt Nemzeti Emlékhely Bizottság a (4) bekezdés szerinti előzetes hozzájáruló nyilatkozatot nem adja meg, ha a (4) bekezdés szerinti tevékenység sérti a kiemelt nemzeti emlékhely méltóságát, akadályozza az országos megemlékezések méltó lebonyolítását vagy a tevékenység megvalósítása során létrejövő épület, építmény megjelenését tekintve nem illeszkedik a kiemelt nemzeti emlékhely és annak környezete történelmi és műemléki megjelenéséhez, egységes arculatához.
+(3b) A (3a) bekezdés szerinti településkép-védelem szabályait és eszközeit e törvény állapítja meg azzal, hogy a kiemelt nemzeti emlékhely és a településkép-védelmi környezete tekintetében a településkép védelméről szóló törvényt és a felhatalmazása alapján kiadott jogszabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni.
+
+(4) A Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozata szükséges a kiemelt nemzeti emlékhely területén és a településkép-védelmi környezetében végezni tervezett építési, kereskedelmi, vendéglátási vagy szolgáltatási tevékenységhez, továbbá minden más tevékenységhez, amely a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozza.
+
+(5) A Kiemelt Nemzeti Emlékhely Bizottság a (4) bekezdés szerinti előzetes hozzájáruló nyilatkozatot nem adja meg, ha a (4) bekezdés szerinti tevékenység sérti a kiemelt nemzeti emlékhely méltóságát, akadályozza az országos megemlékezések méltó lebonyolítását vagy a tevékenység megvalósítása során létrejövő épület, építmény megjelenését tekintve nem illeszkedik a kiemelt nemzeti emlékhely és annak környezete történelmi és műemléki megjelenéséhez, egységes arculatához, vagy nem felel meg a 61/K. § (2) bekezdés a) pont aa) alpontja szerint megállapított követelményeknek vagy a 61/K. § (2) bekezdés b) pont ba) alpontja szerinti beépítési szabályoknak és követelményeknek.
 
 (6) A Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozatában a (4) bekezdés szerinti tevékenység végzését az (5) bekezdés szerinti szempontok teljesülése érdekében feltételhez kötheti.
 
-(7) A kiemelt nemzeti emlékhely területét, valamint az annak részét képező közterülettel határos ingatlant érintő, (4) bekezdés szerinti tevékenységgel kapcsolatos közigazgatási hatósági eljárás során az eljáró hatóság engedélyt csak a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozatának megadása után adhat ki. Ha a Kiemelt Nemzeti Emlékhely Bizottság az előzetes hozzájáruló nyilatkozat megtételét elmulasztja vagy jogellenesen megtagadja, a hozzájáruló nyilatkozatot a kérelmező keresetére a bíróság ítéletével pótolhatja. A bíróság által pótolt előzetes hozzájáruló nyilatkozat a (6) bekezdés szerinti feltételt állapíthat meg. Ha az előzetes hozzájáruló nyilatkozat pótlását bíróságtól kérték, a (4) bekezdés szerinti tevékenység engedélyezésével összefüggő, folyamatban lévő közigazgatási hatósági eljárást a bíróság döntésének jogerőre emelkedéséig fel kell függeszteni.
+(7) A kiemelt nemzeti emlékhelyet és annak településkép-védelmi környezetét érintő, (4) bekezdés szerinti tevékenységgel kapcsolatos közigazgatási hatósági eljárás során az eljáró hatóság engedélyt csak a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozatának megadása után adhat ki. Ha a Kiemelt Nemzeti Emlékhely Bizottság az előzetes hozzájáruló nyilatkozat megtételét elmulasztja vagy jogellenesen megtagadja, a hozzájáruló nyilatkozatot a kérelmező keresetére a bíróság ítéletével pótolhatja. A bíróság által pótolt előzetes hozzájáruló nyilatkozat a (6) bekezdés szerinti feltételt állapíthat meg. Ha az előzetes hozzájáruló nyilatkozat pótlását bíróságtól kérték, a (4) bekezdés szerinti tevékenység engedélyezésével összefüggő, folyamatban lévő közigazgatási hatósági eljárást a bíróság döntésének jogerőre emelkedéséig fel kell függeszteni.
 
 (8) A (4) bekezdésben meghatározott ingatlanon, valamint a kiemelt nemzeti emlékhelyhez tartozó közterületen bejelentéshez kötött tevékenység csak a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozata kiadását követően jelenthető be. Az előzetes hozzájáruló nyilatkozat kiadására a (4)–(6) bekezdést megfelelően alkalmazni kell. A bejelentést tevő az előzetes hozzájáruló nyilatkozatot csatolja a bejelentéshez. Ha a Kiemelt Nemzeti Emlékhely Bizottság az előzetes hozzájáruló nyilatkozat megtételét elmulasztja vagy jogellenesen megtagadja, az előzetes hozzájáruló nyilatkozatot a kérelmező keresetére a bíróság ítéletével pótolhatja. A bíróság által pótolt előzetes hozzájáruló nyilatkozat a (6) bekezdés szerinti feltételt állapíthat meg.
 
@@ -947,9 +951,16 @@ kulturális javakat.
 
 (10) Ha a Kiemelt Nemzeti Emlékhely Bizottság az előzetes hozzájáruló nyilatkozatot nem adja meg vagy az előzetes hozzájáruló nyilatkozat feltételt állapít meg, és a (4) bekezdés szerinti tevékenység engedélyezésével összefüggésben közigazgatási hatósági eljárás folyamatban van, a nyilatkozat a közigazgatási hatósági eljárás keretében vizsgálható felül.
 
-(11) A kiemelt nemzeti emlékhely területén, vagy annak részét képező közterülettel határos ingatlanon a (4) bekezdés szerinti tevékenységet végző köteles a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulását magánál tartani és az illetékes közterület-felügyelet, az e törvény szerinti hatóság, valamint az Országgyűlés Hivatala által meghatalmazott személy kérésére bemutatni.
+(11) A kiemelt nemzeti emlékhely és annak településkép-védelmi környezete területén a (4) bekezdés szerinti tevékenységet végző köteles a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulását magánál tartani és az illetékes közterület-felügyelet, az e törvény szerinti hatóság, valamint az Országgyűlés Hivatala által meghatalmazott személy kérésére bemutatni.
 
-(12) Aki a kiemelt nemzeti emlékhelyen, vagy az annak részét képező közterülettel határos ingatlanon a (4) bekezdés szerinti tevékenységet a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozata nélkül, vagy az előzetes hozzájáruló nyilatkozatban foglaltaktól eltérően kezdte meg, az köteles kártalanítási igény nélkül az eredeti állapotot helyreállítani. E kötelezettség elmulasztása esetén a Kiemelt Nemzeti Emlékhely Bizottság az eredeti állapot helyreállítására hívja fel a tevékenységet végzőt. Ha a tevékenységet végző a felszólítástól számított nyolc napon belül nem kezdi meg az eredeti állapot helyreállítását, a Kiemelt Nemzeti Emlékhely Bizottság az eredeti állapot helyreállítását a tevékenységet végző költségére elvégeztetheti.
+(12) Aki a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében a (4) bekezdés szerinti tevékenységet a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozata nélkül, vagy az előzetes hozzájáruló nyilatkozatban foglaltaktól eltérően kezdte meg, az köteles kártalanítási igény nélkül az eredeti állapotot soron kívül helyreállítani, illetve a hozzájáruló nyilatkozat nélkül vagy attól eltérően folytatott tevékenységet azonnal abbahagyni.
+
+(13) A (12) bekezdés szerinti kötelezettség elmulasztása esetén a Kiemelt Nemzeti Emlékhely Bizottság
+
+- a) megkeresi a (7) bekezdés szerinti hatósági eljárás vagy a (8) bekezdés szerinti bejelentés tekintetében hatáskörrel rendelkező hatóságot, amely a 61/J. § (6) és (6a) bekezdése alapján jár el, vagy
+- b) a (7) bekezdés szerinti hatósági eljárás vagy a (8) bekezdés szerinti bejelentés nélkül végezhető tevékenység esetén az eredeti állapot helyreállítására hívja fel a tevékenységet végzőt.
+
+(14) Ha a tevékenységet végző a (13) bekezdés b) pontja szerinti felhívástól számított nyolc napon belül nem kezdi meg az eredeti állapot helyreállítását, az Országgyűlés Hivatala mint a kiemelt nemzeti emlékhely vagyonkezelője az eredeti állapot helyreállítását a tevékenységet végző költségére elvégeztetheti. A Kiemelt Nemzeti Emlékhely Bizottság e bekezdés szerinti eredeti állapot helyreállításával kapcsolatos intézkedései nem érintik a kiemelt nemzeti emlékhely vagyonkezelőjének azon jogát, hogy a 61/J. § (7) bekezdése alapján az eredeti állapot helyreállítása érdekében pert indítson.
 
 61/J. § (1) A Kiemelt Nemzeti Emlékhely Bizottság hozzájárulásának megadására vonatkozó kérelmet annak elnökéhez kell benyújtani.
 
@@ -967,9 +978,19 @@ kulturális javakat.
 
 (5) A Kiemelt Nemzeti Emlékhely Bizottság a kérelmet annak beérkezésétől számított kilencven napon belül bírálja el.
 
-(6) Ha a kérelmező közigazgatási hatósági engedélyhez kötött, 61/I. § (4) bekezdése szerinti tevékenységet a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül kezdte meg, az ügy eldöntésére hatáskörrel rendelkező hatóság a tevékenység gyakorlását azonnali hatállyal megtiltja. Az eljáró hatóság e határozatát csak akkor helyezheti hatályon kívül, ha a kérelmező a Kiemelt Nemzeti Emlékhely Bizottságtól a hozzájárulást utólag beszerezte.
+(6) Ha a kérelmező közigazgatási hatósági engedélyhez vagy bejelentéshez kötött, a 61/I. § (4) bekezdése szerinti tevékenységet a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül, vagy az előzetes hozzájáruló nyilatkozatban foglaltaktól eltérően kezdte meg, az ügy eldöntésére vagy a bejelentés tekintetében hatáskörrel rendelkező hatóság a tevékenység gyakorlását azonnali hatállyal megtiltja, továbbá határidő tűzésével
 
-(7) A (6) bekezdés hatálya alá nem tartozó tevékenység esetében bíróságtól kérhető a jogsértés megállapítása és a jogsértés megszüntetésére, valamint az eredeti állapot helyreállítására kötelezés.
+- a) a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül végzett tevékenység esetén az eredeti állapot helyreállítására,
+- b) a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájáruló nyilatkozatban foglaltaktól eltérően végzett tevékenység esetén az előzetes hozzájáruló nyilatkozatban foglaltak végrehajtására, illetve az annak megfelelő állapot megvalósítására
+
+kötelezi a tevékenységet végzőt.
+
+(6a) Az eljáró hatóság
+
+- a) a (6) bekezdés a) pontja szerinti határozatát csak akkor helyezheti hatályon kívül, ha a kérelmező a hozzájárulást utólag beszerezte,
+- b) az eredeti állapot helyreállítására kötelezi a tevékenységet végzőt, ha az a (6) bekezdés b) pontja szerinti határozatában foglaltakat a határozatban rögzített határidőn belül nem hajtja végre.
+
+(7) A (6) bekezdés hatálya alá nem tartozó minden más, a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység esetében, amennyiben azt a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül, vagy az előzetes hozzájáruló nyilatkozatban foglaltaktól eltérően kezdték meg, bíróságtól kérhető a jogsértés megállapítása és a jogsértés megszüntetésére, valamint az eredeti állapot helyreállítására kötelezés.
 
 (8) Ha a végezni kívánt tevékenység jellegét, tartalmát vagy ütemezését tekintve a kérelem benyújtását követően megváltozik, a kérelmező új kérelmet nyújt be a Kiemelt Nemzeti Emlékhely Bizottsághoz.
 
@@ -977,9 +998,31 @@ kulturális javakat.
 
 (10) A 61/I. § (7) és (8) bekezdésével, valamint a (7) bekezdéssel összefüggésben keletkezett polgári jogi igények érvényesítése során az Országgyűlés Hivatala mint a kiemelt nemzeti emlékhely vagyonkezelője perelhet és perelhető, a perre a Fővárosi Törvényszék kizárólagosan illetékes. E rendelkezést kell alkalmazni a Kiemelt Nemzeti Emlékhely Bizottság nyilatkozatának 61/I. § (9) bekezdése szerinti bírósági felülvizsgálatára is.
 
-61/K. § A Kormány a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzése érdekében a kiemelt nemzeti emlékhely használati rendjét, valamint a kiemelt nemzeti emlékhelyre vonatkozó közterület-használati szabályokat, továbbá a kiemelt nemzeti emlékhelyre vonatkozó közterület-használati díjakat és az ellenőrzés rendjét – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – rendeletben határozza meg.
+61/K. § (1) A Kormány a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzése érdekében a kiemelt nemzeti emlékhely használati rendjét, valamint a kiemelt nemzeti emlékhelyre vonatkozó közterület-használati szabályokat, továbbá a kiemelt nemzeti emlékhelyre vonatkozó közterület-használati díjakat és az ellenőrzés rendjét – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – rendeletben határozza meg.
 
-61/L. § (1) A 61/K. § szerinti rendeletben meghatározott egyes szabályokat megsértő természetes személlyel szemben – ha a 61/I. § (12) bekezdése nem alkalmazható – közigazgatási bírság szabható ki.
+(2) A Kormány a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzése, valamint a 61/B. § (3) bekezdésében és a 61/I. § (3a) bekezdésében foglaltak biztosítása érdekében a kiemelt nemzeti emlékhelyre és a településkép-védelmi környezetére vonatkozóan – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével –
+
+- a) rendeletben állapítja meg:
+  - aa) az egyedi településképi követelményeket,
+  - ab) az aa) alpont szerinti követelmények érvényesítése érdekében szükséges hatósági kötelezés részletes szabályait, valamint a követelmények érvényesítését szolgáló további sajátos eszközöket,
+  - ac) a kiemelt nemzeti emlékhelyen, valamint a településkép-védelmi környezetében található ingatlan fenntartását, helyreállítását, felújítását és átalakítását szolgáló támogatási és ösztönző rendszer részletes szabályait.
+- b) rendeletben állapíthatja meg a beépítési szabályokat, valamint az ezekkel összefüggő sajátos építésügyi és örökségvédelmi követelményeket.
+
+(3) A Kormány a (2) bekezdés a) pont ab) alpontja alapján az egyedi településképi követelmények érvényesítése érdekében egyedi településképi arculati kézikönyv készítését írhatja elő, az egyedi kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával.
+
+(4) A kiemelt nemzeti emlékhelyre és annak településkép-védelmi környezetére – a (2) bekezdés a) pont ab) alpontja szerinti kormányrendeletben meghatározott esetekben és részletszabályok szerint – a hatóság
+
+- a) tájékoztatást ad és szakmai konzultációt biztosít a (2) bekezdés a) pont aa) alpontja szerinti egyedi településképi követelményekről, ennek keretében javaslatot tesz a követelmények érvényesítési módjára,
+- b) településképi véleményezési eljárást folytat le és településképi véleményt ad az építésügyi engedélyezési eljárást megelőzően a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez,
+- c) településképi bejelentési eljárást folytat le.
+
+(5) Ha a hatóság megállapítja a (2) bekezdés a) pont aa) alpontja szerinti követelmények megsértését, felhívja az ingatlan tulajdonosának, a tulajdonosi joggyakorlónak, a vagyonkezelőnek, illetve a társasháznak a figyelmét a jogszabálysértésre, és végzésben megfelelő határidőt biztosít a jogszabálysértés megszüntetésére.
+
+(6) A hatóság – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – az (5) bekezdés szerinti határidő eredménytelen eltelte esetén a kiemelt nemzeti emlékhely és a településkép-védelmi környezete tekintetében építmény, építményrész felújítására, átalakítására vonatkozó – meghatározott időtartamon belül teljesítendő – kötelezettséget írhat elő az (5) bekezdésben foglalt személyek számára, továbbá ellenőrzi e kötelezettség végrehajtását.
+
+(7) Ha a (6) bekezdés szerinti kötelezett az egyedi településképi követelményeket a hatósági döntésben megállapított határidőben nem teljesíti, a hatóság – jogszabályban meghatározott esetekben és módon – 10 000 000 forintig terjedő közigazgatási bírságnak megfelelő településkép-védelmi bírságot szabhat ki. A bírság kiszabása során mérlegelni kell a településképi követelmény sérelmének súlyát és a jogsértő állapot időtartamát.
+
+61/L. § (1) A 61/K. § (1) bekezdése szerinti rendeletben meghatározott egyes szabályokat megsértő természetes személlyel szemben – ha a 61/I. § (12) bekezdése nem alkalmazható – közigazgatási bírság szabható ki.
 
 (2) A közigazgatási bírság kiszabására a kiemelt nemzeti emlékhely területe szerint illetékes közterület-felügyelet jogosult.
 
@@ -1020,16 +1063,22 @@ kulturális javakat.
 
 (3) A hatóság engedélyezi vagy tudomásul veszi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
 
-(4) Műemlékvédelmi érdek érvényesítése céljából a műemlék fenntartása, különösen helyreállítása során az országos építési követelményektől, a településrendezési eszközöktől, annak részeként a helyi építési szabályzattól a tervezés folyamán és a hatósági eljárásban el lehet térni. A nemzeti szabványoktól való eltérést a műemléki értékek megőrzése érdekében előnyben kell részesíteni, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy az élet- és vagyonbiztonság más módon biztosítható.
+(4) Műemlékvédelmi érdekből műemlék, illetve a kiemelt nemzeti emlékhellyel kapcsolatos érdekből a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan fenntartása, különösen helyreállítása során az országos építési követelményektől, a településrendezési eszközöktől, annak részeként a helyi építési szabályzattól a tervezés folyamán és a hatósági eljárásban el lehet térni. A nemzeti szabványoktól való eltérést a műemléki értékek megőrzése, továbbá a kiemelt nemzeti emlékhely egyedi településképi követelményeknek való megfelelése érdekében előnyben kell részesíteni, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy az élet- és vagyonbiztonság más módon biztosítható.
 
-(4a) A (4) bekezdés értelmezésében a műemlékvédelmi érdek alatt a védett műemléki érték megőrzését, fenntartását biztosító védelem és azt elősegítő közérdekű szempontok együttesét kell érteni.
+(4a) A (4) bekezdés tekintetében
+
+- a) műemlékvédelmi érdeknek kell tekinteni a védett műemléki érték megőrzését, fenntartását,
+- b) kiemelt nemzeti emlékhellyel kapcsolatos érdeknek kell tekinteni különösen a kiemelt nemzeti emlékhely méltóságának, valamint a kiemelt nemzeti emlékhely és annak településkép-védelmi környezete történelmileg hiteles, egységes arculatának – a településképi követelmények tekintetében jogszabályban meghatározott módon és mértékben történő – megőrzését, fenntartását és helyreállítását
+
+biztosító védelmet, továbbá az ezeket elősegítő közérdekű szempontok együttesét.
 
 (5) A hatóság az örökségvédelmi felügyelet keretében
 
 - a) figyelemmel kíséri a kulturális örökség elemei állapotát, valamint megfelelő használatát;
 - b) a fenntartható, integrált szemléletű védelmet elősegítő tevékenységet végez;
 - c) elősegíti az örökségvédelem érdekeit érintő szakmai és társadalmi együttműködést;
-- d) a természetvédelmi őrszolgálat közreműködésével gondoskodik a régészeti örökség védelmével kapcsolatos feladatokról.
+- d) a természetvédelmi őrszolgálat közreműködésével gondoskodik a régészeti örökség védelmével kapcsolatos feladatokról;
+- e) a kiemelt nemzeti emlékhely és a településkép-védelmi környezete tekintetében figyelemmel kíséri a 61/K. § (2) bekezdés a) pont aa) alpontja szerinti követelmények teljesülését és a 61/K. § (6) bekezdése szerinti kötelezettség teljesítését.
 
 (6)
 
@@ -1062,18 +1111,29 @@ kulturális javakat.
 
 - a) az örökségvédelem szabályainak megsértése esetén a nyilvántartott műemléki értékek, műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, a méltatlan használat megszüntetését,
 - b) nyilvántartott műemléki értékek, műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység folytatásától eltiltani,
-- c) elrendelheti a védett műemléki értékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését.
+- c) elrendelheti a védett műemléki értékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
+- d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását.
 
-(2) A hatóság az (1) bekezdésben meghatározott kötelezettségek teljesítésére a tulajdonost (tulajdonosi joggyakorlót), vagyonkezelőt, társasházat, használót, vagy az építtetőt, kivitelezőt kötelezheti.
+(2) A hatóság
 
-(3) Amennyiben a kötelezett a hatósági kötelezésben foglaltaknak nem tesz eleget és ezzel a védett kulturális örökség veszélybe kerül, a hatóság örökségvédelmi bírság kiszabásáról intézkedik és
+- a) az (1) bekezdés a)–c) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, a társasházat, továbbá a használót vagy az építtetőt, és a kivitelezőt,
+- b) az (1) bekezdés d) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, illetve a társasházat
+
+kötelezheti.
+
+(3) Amennyiben a kötelezett az (1) bekezdés a)–c) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget és ezzel a védett kulturális örökség veszélybe kerül, a hatóság örökségvédelmi bírság kiszabásáról intézkedik és
 
 - a) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet;
 - b) kezdeményezheti ingatlan esetében az állami tulajdonba vételt (vásárlással vagy szükség szerint kisajátítással);
 - c) elrendelheti a védetté nyilvánított kulturális javak közgyűjteményben történő ideiglenes elhelyezését; vagy
 - d) kezdeményezheti a vagyonkezelői szerződés felülvizsgálatát, illetve a használati jog megszüntetését.
 
-(4) A jogerős és végrehajtható határozatban megállapított (3) bekezdés a) pontja szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
+(3a) Ha a kötelezett az (1) bekezdés d) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, a hatóság
+
+- a) településkép-védelmi bírság kiszabásáról intézkedik, valamint
+- b) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet.
+
+(4) A jogerős és végrehajtható határozatban megállapított (3) bekezdés a) pontja és a (3a) bekezdés b) pontja szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
 
 (5) A hatóság által elvégeztetett munka költsége adók módjára behajtandó köztartozásnak minősül és adók módjára kell behajtani.
 
@@ -1200,7 +1260,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 80/A. § (1) Az örökségvédelem pénzügyi eszközei lehetnek különösen:
 
-- a) a központi költségvetés örökségvédelmi célokat szolgáló előirányzatai;
+- a) a központi költségvetés örökségvédelmi és településkép-védelmi célokat szolgáló előirányzatai;
 - b) a helyi önkormányzatok örökségvédelmi célokra fordított pénzeszközei;
 - c)
 - d) egyéb pénzügyi eszközök, így
@@ -1235,7 +1295,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 82. § (1) Örökségvédelmi bírsággal (a továbbiakban: bírság) kell sújtani azt a természetes vagy jogi személyt és jogi személyiséggel nem rendelkező szervezetet, aki (amely)
 
 - a) az e törvényben vagy más jogszabályban engedélyhez kötött tevékenységet a védetté nyilvánított vagy e törvény erejénél fogva védelem alatt álló kulturális örökségi elemen engedély vagy tudomásulvétel nélkül vagy attól eltérő módon végzi,
-- b) a 61/I. § (4) bekezdése szerinti tevékenységet a kiemelt nemzeti emlékhely területén, vagy annak részét képező közterülettel határos ingatlanon a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül vagy az előzetes hozzájárulásban meghatározottaktól eltérő módon végzi,
+- b) a 61/I. § (4) bekezdése szerinti tevékenységet a kiemelt nemzeti emlékhely és annak településkép-védelmi környezete területén a Kiemelt Nemzeti Emlékhely Bizottság előzetes hozzájárulása nélkül vagy az előzetes hozzájárulásban meghatározottaktól eltérő módon végzi,
 - c) a védetté nyilvánított vagy e törvény erejénél fogva védelem alatt álló kulturális örökség elemeit jogellenesen megsemmisíti vagy megrongálja, valamint
 - d) a védett kulturális örökségi elemet kötelezettségének elmulasztásával veszélyezteti,
 - e) régészeti feltárást feltárási jogosultság vagy műemléki területen szakértői tevékenységet szakértői jogosultság nélkül végez,
@@ -1375,6 +1435,14 @@ gyakorolja.
 - w) szabályozza a fémkereső műszer használatát;
 - x) állapítsa meg a védett műemléki érték fenntartására és méltó használatára, a műemléki értéket érintő tevékenységek támogatására vonatkozó szabályokat;
 - y) állapítsa meg a műemléki értéket érintő örökségvédelmi engedély iránti kérelemhez vagy bejelentéshez kötött tevékenységek végzésének szabályait.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével –
+
+- a) a kiemelt nemzeti emlékhely településkép-védelmi környezetét,
+- b) a kiemelt nemzeti emlékhelyre és annak településkép-védelmi környezetére vonatkozó egyedi településképi követelményeket, a követelmények érvényesítése érdekében szükséges hatósági kötelezés részletes szabályait, valamint a követelmények érvényesítését szolgáló további sajátos eszközöket, az egyes eszközök alkalmazásának eseteit, módját, részletes szabályait, a vonatkozó eljárások szabályait, beleértve az eljárásokban vizsgálandó településképi szempontokat és az eljárások alóli mentesség feltételeit, alkalmazásukra hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket,
+- c) a kiemelt nemzeti emlékhelyre és annak településkép-védelmi környezetére vonatkozó beépítési szabályokat, valamint az ezzel összefüggő sajátos építésügyi és örökségvédelmi követelményeket,
+- d) a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteit, a reklámközzététel megengedett technológiáit, módszereit, eszközeit, a reklámhordozók általános formai követelményeit, valamint
+- e) a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan e törvényben, illetve az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott követelmények szerinti helyreállítását, felújítását és átalakítását szolgáló támogatási és ösztönző rendszer részletes szabályait, a támogatás feltételrendszerét és módját.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 

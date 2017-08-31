@@ -14,13 +14,15 @@ Az Országgyűlés a magyarországi települések jellegzetes és értékes arcu
 
 2. § (1) A településkép védelme a település vagy településrész jellegzetes, értékes, illetve hagyományt őrző építészeti arculatának és szerkezetének – az építészeti, táji érték és az örökségvédelem figyelembevételével történő – megőrzését vagy kialakítását jelenti.
 
-(2) A települési önkormányzat, a főváros esetében a kerületi önkormányzat, a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat (a továbbiakban együtt: önkormányzat) a településkép védelmét önkormányzati rendeletben (a továbbiakban: településképi rendelet)
+(2) A települési önkormányzat, a főváros esetében a kerületi önkormányzat, a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat (a továbbiakban együtt: önkormányzat) a településkép védelmét – a (2a) bekezdés szerinti jogszabályok hatálya alá tartozó terület kivételével – önkormányzati rendeletben (a továbbiakban: településképi rendelet)
 
 - a) településképi követelmények meghatározásával,
 - b) településképi önkormányzati támogatási és ösztönző rendszer alkalmazásával,
-- c) önkormányzati településkép-érvényesítési eszközök szabályozásával
+- c) önkormányzati településkép-érvényesítési eszközök szabályozásával,
 
-biztosítja.
+jogszabályban meghatározott módon biztosítja.
+
+(2a) Törvény és felhatalmazása alapján kiadott jogszabály egyedi településkép-védelmet biztosíthat a kiemelt nemzeti emlékhely és településkép-védelmi környezetének területére, mint településképi szempontból kiemelt jelentőségű területre.
 
 (3) A településképi követelmények az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek (a továbbiakban: Étv.) a településrendezési feladatok megvalósítását biztosító egyik sajátos jogintézménye.
 
@@ -119,7 +121,7 @@ szabályokat.
 
 (3)
 
-(4) A településképi rendelet legfeljebb évente összesen tizenkét naptári hét időszakra eltérést engedhet az (1) és (2) bekezdésben, továbbá az e törvény végrehajtására kiadott kormányrendeletben meghatározott tilalmak és követelmények alól, ha a település szempontjából jelentős valamely eseményről való tájékoztatás érdekében az szükséges.
+(4) A településképi rendelet vagy a 2. § (2a) bekezdés szerinti jogszabály legfeljebb évente összesen tizenkét naptári hét időszakra eltérést engedhet az (1) és (2) bekezdésben, továbbá az e törvény végrehajtására kiadott kormányrendeletben meghatározott tilalmak és követelmények alól, ha a település szempontjából jelentős valamely eseményről való tájékoztatás érdekében az szükséges.
 
 11/C. § (1) A 11/B. § (1) és (2) bekezdésében, valamint az e törvény végrehajtására kiadott kormányrendeletben és településképi rendeletben meghatározott tilalmak megszegése és kötelezettségek elmulasztása esetén az e törvény végrehajtására kiadott kormányrendeletben kijelölt hatóság (a továbbiakban: hatóság) közigazgatási bírságot szab ki a reklám közzétevőjével szemben és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 500 000 forinttól 3 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt ismételten is kiszabható.
 
@@ -192,7 +194,7 @@ szabályokat.
 - f) az e törvény szerinti reklámközzététel és reklámhordozó-elhelyezés szabályainak megszegéséért megállapítható jogkövetkezmények alkalmazására hatáskörrel rendelkező közigazgatási hatóság kijelölését,
 - g) a 11/E. § szerinti közigazgatási bírság, helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait.
 
-(2) Felhatalmazást kap az önkormányzat képviselő-testülete (közgyűlése), hogy a településképi rendeletben állapítsa meg
+(2) Felhatalmazást kap az önkormányzat képviselő-testülete (közgyűlése), hogy – a (2a) bekezdés szerinti jogszabályok hatálya alá tartozó településképi szempontból kiemelt jelentőségű, egyedi településkép-védelem alatt álló terület kivételével – a településképi rendeletben állapítsa meg
 
 - a) a településképi követelményeket,
 - b) az önkormányzati támogatási és ösztönző rendszer részletes tartalmát,
@@ -205,6 +207,8 @@ szabályokat.
 
 (3) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait.
 
+(4) Felhatalmazást kap az önkormányzat, hogy a széleskörű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapítsa meg a településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítéséhez, módosításához a lakosság, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (partnerek) történő (partnerségi) egyeztetés részletes szabályait.
+
 13. § Ez a törvény a kihirdetését követő harmincadik napon lép hatályba.
 
 14. § (1) A településképi rendelet hatálybalépésével egyidejűleg az egyéb önkormányzati rendeletben szereplő e törvény szerinti településképi követelményeket, településképi önkormányzati támogatási és ösztönző rendszert, valamint az önkormányzati településkép-érvényesítési eszközöket e törvény erejénél fogva nem lehet alkalmazni.
@@ -215,13 +219,13 @@ szabályokat.
 
 (3) E törvény hatálybalépésétől új településképi követelményt csak a településképi rendeletben lehet meghatározni.
 
-15. § (1) A településkép védelméről szóló 2016. évi LXXIV. törvény módosításáról szóló 2016. évi CLXXIV. törvény (a továbbiakban: Módtv.) hatálybalépését követően új reklámhordozó elhelyezésére a Módtv. és a végrehajtására kiadott jogszabályok rendelkezéseivel összhangban kerülhet sor.
+15. § (1) A településkép védelméről szóló 2016. évi LXXIV. törvény módosításáról szóló 2016. évi CLXXIV. törvény (a továbbiakban: Módtv.) hatálybalépését követően új reklámhordozó elhelyezésére a Módtv. és a végrehajtására kiadott jogszabályok, továbbá a 2. § (2a) bekezdés szerinti jogszabályok rendelkezéseivel összhangban kerülhet sor.
 
 (2) E törvénynek a Módtv. által megállapított rendelkezéseit a Módtv. és a végrehajtására kiadott kormányrendelet hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(3) A Módtv. hatálybalépését megelőzően elhelyezett olyan reklámhordozó, amely nem felel meg e törvény – Módtv. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet és településképi rendelet rendelkezéseinek, legfeljebb 2020. december 31. napjáig használható reklám közzététele céljából.
+(3) A Módtv. hatálybalépését megelőzően elhelyezett olyan reklámhordozó, amely nem felel meg e törvény – Módtv. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet, továbbá a 2. § (2a) bekezdés szerinti jogszabályok és településképi rendelet rendelkezéseinek, legfeljebb 2020. december 31. napjáig használható reklám közzététele céljából.
 
-(4) A (3) bekezdés szerinti reklámhordozó használatára vonatkozó, határozott időre szóló szerződés időbeli hatálya nem hosszabbítható meg, és az érintett reklámhordozó használatára új szerződés nem köthető, kivéve, ha a reklámhordozót e törvény és a végrehajtására kiadott rendeletek követelményei szerint, településképi bejelentési eljárás alapján átalakították.
+(4) A (3) bekezdés szerinti reklámhordozó használatára vonatkozó, határozott időre szóló szerződés időbeli hatálya nem hosszabbítható meg, és az érintett reklámhordozó használatára új szerződés nem köthető, kivéve, ha a reklámhordozót a 2. § (2a) bekezdés szerinti jogszabályok továbbá e törvény és a végrehajtására kiadott rendeletek követelményei szerint, településképi bejelentési eljárás alapján átalakították.
 
 (5) A (4) bekezdés szerinti, határozott időre szóló szerződés lejártával, de legkésőbb a (3) bekezdés szerinti határidő elteltével a reklámhordozót a tulajdonosa köteles a saját költségén eltávolítani, ide nem értve a (4) bekezdés szerinti átalakítás esetét.
 
@@ -253,7 +257,7 @@ szabályokat.
 
 - 1. a világörökségi helyszín területe és védőövezetének területe;
 - 2. a műemlék területe és a műemléki jelentőségű terület, a műemléki környezet területe;
-- 3. a történelmi emlékhely és a nemzeti emlékhely;
+- 3. a történelmi emlékhely és a nemzeti emlékhely, kiemelt nemzeti emlékhely;
 - 4. a történeti kert és a történeti táj területe;
 - 5. a védett temető területe;
 - 6. a régészeti érdekű terület és a régészeti lelőhely területe;
