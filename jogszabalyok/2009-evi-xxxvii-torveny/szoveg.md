@@ -2,17 +2,17 @@
 
 az erdőről, az erdő védelméről és az erdőgazdálkodásról
 
-Az erdei életközösségek nélkülözhetetlen fennmaradása, védőhatása és termékei (hozamai) biztosítása érdekében szükséges az erdő szakszerű kezelése és a károsító hatásoktól, a túlzott használattól és igénybevételtől való megóvása, az élettelen környezet, a mikroorganizmusok, a gomba-, növény- és állatvilág sokféleségének, az erdei életközösség dinamikus és természetes egységének megőrzése. Az erdő fenntartása, gyarapítása és védelme az egész társadalom érdeke, az erdő fenntartója által biztosított közérdekű szolgáltatásai minden embert megilletnek, ezért az erdővel csak a közérdekkel összhangban szabályozott módon lehet gazdálkodni. Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
+Az erdei életközösségek nélkülözhetetlen fennmaradása, védőhatása és termékei (hozamai) biztosítása érdekében szükséges az erdő szakszerű kezelése és a károsító hatásoktól, a túlzott használattól és igénybevételtől való megóvása, az élettelen környezet, a mikroorganizmusok, a gomba-, növény- és állatvilág sokféleségének, az erdei életközösség dinamikus és természetes egységének megőrzése. Az erdő fenntartása, gyarapítása és védelme az egész társadalom érdeke, az erdő közérdekű szolgáltatásai minden embert megilletnek, ezért az erdővel csak a közérdekkel összhangban szabályozott módon lehet gazdálkodni. Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
 ### A törvény célja
 
-1. § E törvény célja, hogy az erdő és a társadalom viszonyának szabályozásával, kiemelten a fenntartható erdőgazdálkodás feltételeinek meghatározásával biztosítsa az erdő, mint a természeti tényezőktől függő és az emberi beavatkozásokkal érintett életközösség és élőhely fennmaradását, védelmét, gyarapodását, továbbá az erdő hármas funkciójának, azaz a környezetre, társadalomra, valamint a gazdaságra gyakorolt hatásának kiteljesedését, és ezzel kiemelten hozzájáruljon:
+1. § E törvény célja, hogy az erdő, az erdőgazdálkodás, és a társadalom viszonyának szabályozásával, kiemelten a fenntartható erdőgazdálkodás feltételeinek meghatározásával biztosítsa az erdő, mint a természeti tényezőktől függő és az emberi beavatkozásokkal érintett életközösség és élőhely fennmaradását, védelmét, gyarapodását, továbbá az erdő hármas funkciójának, azaz a környezetre, társadalomra, valamint a gazdaságra gyakorolt hatásának kiteljesedését, és ezzel kiemelten hozzájáruljon:
 
 - a) a klímaváltozás hatásainak csökkentéséhez,
 - b) a biológiai sokféleség megőrzéséhez,
-- c) a vidékfejlesztéshez, az erdőgazdálkodással összefüggő foglalkoztatási lehetőségek bővítéséhez,
+- c) a vidékfejlesztéshez, az erdőgazdálkodás vidéki gazdaságban betöltött szerepének, valamint az erdőgazdálkodással összefüggő foglalkoztatási lehetőségeknek a bővítéséhez,
 - d) az ország környezeti állapotának javulásához,
 - e) a felszíni és felszín alatti vizek védelméhez,
 - f) a termőtalaj, a mezőgazdasági területek védelméhez,
@@ -20,17 +20,17 @@ Az erdei életközösségek nélkülözhetetlen fennmaradása, védőhatása és
 - h) a tiszta ivóvíz biztosításához,
 - i) az egészséges élelmiszerek előállításához,
 
-azaz az emberi élet fenntartásához és minőségének, biztonságának javításához, figyelemmel az egészséges környezethez fűződő alapjog érvényesítésére.
+azaz az emberi élet fenntartásához és minőségének, biztonságának javításához, megfelelő összhangot teremtve az egészséges környezethez és a tulajdonhoz fűződő alapjogok között.
 
 ### A törvény alapelvei
 
-2. § (1) A fenntartható erdőgazdálkodás során a fenntartható használat követelményeinek megfelelve az erdei haszonvételek gyakorlása során törekedni kell az olyan módszerek alkalmazására, amelyek biztosítják, hogy az erdő megőrizze biológiai sokféleségét, természetességét vagy természetszerűségét, termőképességét, felújuló képességét, életképességét, továbbá megfeleljen a társadalmi igényekkel összhangban levő védelmi, közjóléti és gazdasági követelményeknek, betöltse természet- és környezetvédelmi, közjóléti (egészségügyi-szociális, turisztikai, valamint oktatási és kutatási) célokat szolgáló szerepét és az erdővagyonnal való gazdálkodás lehetőségei a jövő nemzedékei számára is fennmaradjanak.
+2. § (1) A fenntartható erdőgazdálkodás során – kiemelten az állam 100%-os tulajdonában álló erdők esetében – a fenntartható használat követelményeinek megfelelve az erdei haszonvételek gyakorlása során törekedni kell az olyan módszerek alkalmazására, amelyek biztosítják, hogy az erdő megőrizze biológiai sokféleségét, természetességét vagy természetszerűségét, termőképességét, felújuló képességét, életképességét, továbbá megfeleljen a társadalmi igényekkel összhangban levő védelmi, közjóléti és gazdasági követelményeknek, betöltse természet- és környezetvédelmi, közjóléti (egészségügyi-szociális, turisztikai, valamint oktatási és kutatási) célokat szolgáló szerepét és az erdővagyonnal való gazdálkodás lehetőségei a jövő nemzedékei számára is fennmaradjanak.
 
 (2) A fenntartható erdőgazdálkodás során a legfontosabb közérdekű feladat az erdők változatosságának megőrzése, az erdők fenntartása, felújítása és a védelmi, valamint közjóléti szolgáltatások biztosítása, melyek elvégzését az állam megfelelő eszközökkel biztosítja.
 
 3. § (1) Az erdők bármely immateriális szolgáltatásából származó állami bevételt a külön jogszabályban meghatározott részletes feltételek szerint az erdők fenntartására, gyarapítására és védelmére kell fordítani.
 
-(2) Az 1. §-ban foglalt komplex célok, továbbá az Európai Unió Erdészeti Stratégiájában, valamint az Európai Erdők Védelme Miniszteri Konferenciáin elfogadott határozatokban foglaltak megvalósításáról az erdőgazdálkodásért felelős miniszter (a továbbiakban: miniszter), valamint az érintett miniszterek a Nemzeti Erdőprogram megalkotása, fejlesztése, közzététele és az abban foglalt feladatok végrehajtása útján gondoskodnak.
+(2) Az 1. §-ban foglalt komplex célok, továbbá az Európai Unió Erdészeti Stratégiájában, valamint az Európai Erdők Védelme Miniszteri Konferenciáin elfogadott határozatokban foglaltak megvalósításáról az erdőgazdálkodásért felelős miniszter (a továbbiakban: miniszter), valamint az érintett miniszterek a Nemzeti Erdőstratégia (a továbbiakban: Stratégia) megalkotása, fejlesztése, közzététele és az abban foglalt feladatok végrehajtása útján gondoskodnak.
 
 ### A törvény hatálya
 
@@ -40,23 +40,27 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 - b) a külterületen található fásításra;
 - c) az erdészeti létesítményre;
 - d) az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre;
-- e) a faanyag kereskedelmi lánc szereplőire.
+- e) a faanyag kereskedelmi lánc szereplőire, a faanyag készletezésére, tárolására, szállítására, forgalomba hozatalára.
 
-(2) E törvény hatálya nem terjed ki a faállománnyal borított földrészletek közül:
+(2) E törvény hatálya nem terjed ki a fával, faállománnyal borított területek közül:
 
 - a) az arborétumra;
 - b) a közparkra;
-- c) az üzemmel, majorral, elkerített honvédségi objektummal, valamint közüzemi létesítményekkel azonos földrészleten lévő, 1 hektárnál kisebb, vagy a fák tőnél mért távolsága szerint átlagosan húsz méternél keskenyebb, fával borított területre;
-- d) a tanya területére;
-- e) a szennyvíz, szennyvíziszap és hígtrágya elhelyezésére, hasznosítására szolgáló fával borított területre;
-- f) az út, a vasút, töltés, árok, csatorna, valamint az egyéb vonalas műszaki létesítménnyel azonos földrészleten lévő, 1 hektárnál kisebb, vagy a fák tőnél mért távolsága szerint átlagosan húsz méternél keskenyebb, fával borított területre;
-- g) folyó, patak, csatorna medrére vagy a mederben keletkezett zátonyra;
-- h) az energetikai, valamint ipari célból termesztett, fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényre;
-- i) földalatti gomba termesztését szolgáló, külön jogszabály szerint létesített ültetvényre.
+- c) az üzemmel, állandó jellegű mezőgazdasági telephellyel, temetővel, valamint közüzemi létesítményekkel azonos földrészleten lévő, művelés alól kivett területre;
+- d) az ingatlan-nyilvántartás szerint a település zártkertjében fekvő ingatlanra, a nemzeti vagy közösségi támogatással létesített erdő, valamint az állam 100%-os tulajdonában álló földrészlet kivételével;
+- e) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) szerinti tanya területére;
+- f) a közút, vasút, árvízvédelmi töltés, csatorna, valamint egyéb vonalas műszaki létesítménnyel azonos földrészleten lévő, művelés alól kivett területre;
+- g) a honvédelmi és katonai célú építményeknek az országos településrendezési és építési követelményekről szóló kormányrendeletben foglaltak szerint kijelölt és körülkerített működési és védőterületére;
+- h) a fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényre;
+- i) a belterületre, az Országos Erdőállomány Adattárban (a továbbiakban: Adattár) erdőrészletként nyilvántartott erdők, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek kivételével;
+- j) a karácsonyfa, díszítőgally, vadgyümölcs és vessző termelését szolgáló területre;
+- k) az erdészeti hatóság engedélyével termelésből kivont területre.
 
 (2a) E törvény hatálya nem terjed ki az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló, 2005. december 20-i 2173/2005/EK tanácsi rendelet (a továbbiakban: 2173/2005/EK tanácsi rendelet) II. és III. mellékletében felsorolt, olyan fatermékbe ágyazott fára, amelyek a 2173/2005/EK tanácsi rendelet I. mellékletében felsorolt partnerországból származnak, valamint a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló, 1996. december 9-i 338/97/EK tanácsi rendelet A., B. vagy C. mellékletében felsorolt olyan faanyagokra és termékekre, amelyek megfelelnek ezen rendeleteknek és végrehajtási rendelkezéseiknek, és ezen rendeletek alapján legálisan kitermeltnek minősülnek.
 
-(3) Védett természeti területen lévő erdő esetén e törvény rendelkezéseit a természet védelméről szóló törvényben foglalt eltérésekkel kell alkalmazni.
+(3) Védett természeti területen lévő erdő esetén e törvény rendelkezéseit a természet védelméről szóló 1996. évi LIII. törvényben (a továbbiakban: Tvt.) foglalt eltérésekkel kell alkalmazni.
+
+(4) Folyók nagyvízi medrében lévő erdő esetén e törvény rendelkezéseit a vízgazdálkodásról szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
 ### Fogalommeghatározások
 
@@ -64,36 +68,39 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 
 - 1. arborétum: az e törvény végrehajtására kiadott jogszabályban meghatározott, tudományos ismeretszerzés céljából fenntartott élőfagyűjtemény;
 - 2. célállomány: a faállományban megvalósítandó fafajösszetétel;
-- 3. cserjés: az e törvény végrehajtására kiadott jogszabályban meghatározott cserjefajok által legalább 50 százalékos mértékben fedett erdővel körülzárt vagy kerületének legalább 50 százalékát meghaladó mértékben erdővel határolt terület;
+- 3.
 - 4. egyéb erdei termék: a fakitermelésen, a szaporítóanyag-gyűjtésen és a vadászati jog gyakorlásán, hasznosításán kívüli erdei haszonvételek során az erdőből nyert nyersanyag, termék;
-- 5. elsőkivitel: az erdősítés, fásítás első évi munkái a talaj-előkészítéstől a csemeteültetés, magvetés vagy dugványozás befejezéséig;
+- 5. elsőkivitel: az erdősítés, fásítás első évi munkái a talaj-előkészítéstől a csemeteültetés, magvetés, sarjaztatás vagy dugványozás befejezéséig;
 - 6. erdei életközösség (ökoszisztéma): fákból és egyéb fás növényekből, valamint a társult élőlényekből kialakult életközösség;
-- 7. erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti végzettséggel rendelkező, az erdészeti hatóság szakszemélyzeti névjegyzékében szereplő személy;
+- 7. erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti végzettséggel rendelkező, az erdészeti hatóság által vezetett erdészeti szakirányítói névjegyzékben erdészeti szakszemélyzetként nyilvántartott személy;
 - 8. erdészeti táj: termőhelyi és növényföldrajzi szempontok alapján az e törvény végrehajtására kiadott jogszabályban meghatározott földrajzi terület;
-- 9. erdőgazdálkodás: az erdő 2. § (1) bekezdésében foglaltak szerinti fenntartására, közcélú funkcióinak biztosítására, őrzésére, védelmére, az erdővagyon bővítésére, valamint – a vadászati jog gyakorlása, hasznosítása kivételével – az erdei haszonvételek gyakorlására irányuló tevékenységek összessége;
-- 10. erdősítés: az erdőfelújítás, erdőtelepítés munkái a talaj-előkészítéstől a csemeteültetés, magvetés, dugványozás, pótlás erdészeti hatóság által történő befejezetté nyilvánításáig;
-- 11. erdőtelepítés: nem erdőművelési ágban lévő, erdővel nem borított területen a talaj-előkészítést követően csemeteültetés, magvetés vagy dugványozás útján erdő létrehozása;
-- 12. felnyíló erdő: olyan természetes, természetszerű erdőtársulás, illetve ezek származék erdői, amelyek természetes módon alacsony záródásban borítják a területet, ligetesek vagy erdő és sztyeppfoltok váltakozásával alakulnak ki, így különösen az erdőssztyepp erdők és a karsztbokor erdők;
-- 13. folyamatos erdőborítás: olyan állapot, amikor a többkorú erdőállomány folyamatosan, egyenletesen borítja az erdő talaját és az erdő megújulása, felújítása az erdőállomány védelmében, véghasználati terület nélkül történik, az erdő tájképi megjelenése nem változik;
+- 9. erdőgazdálkodás: az erdő 2. § (1) bekezdésében foglaltak szerinti fenntartására, közérdekű funkcióinak biztosítására, őrzésére, védelmére, az erdővagyon bővítésére, valamint – a vadászati jog gyakorlása, hasznosítása kivételével – az erdei haszonvételek gyakorlására irányuló tevékenységek összessége;
+- 10. erdősítés: az erdőfelújítás, erdőtelepítés befejezetté nyilvánításáig végzett erdőgazdálkodási tevékenységek összessége;
+- 11.
+- 12. faállomány záródása: a faállományt alkotó fák koronavetületének és a faállomány által elfoglalt területnek százalékban kifejezett viszonyszáma;
+- 13. folyamatos erdőborítás: olyan állapot, amikor az erdő többkorú faállománya folyamatosan borítja az erdő talaját, annak megújulása, felújítása az erdő faállományának védelmében, véghasználati terület nélkül történik, és az erdő tájképi megjelenése jelentős mértékben nem változik;
 - 13a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
-- 14. jogosult erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti szakmai gyakorlattal rendelkező, az erdészeti hatóság jogosult szakszemélyzeti névjegyzékében szereplő erdészeti szakszemélyzet;
-- 15. kopár: az Országos Erdőállomány Adattárban nyilvántartott, termőhelyi adottságainál fogva záródott fás szárú- vagy lágy szárú növényzet fenntartására alkalmatlan terület;
+- 14. jogosult erdészeti szakszemélyzet: az e törvény végrehajtására kiadott jogszabály szerinti szakmai gyakorlattal rendelkező, az erdészeti hatóság által vezetett erdészeti szakirányítói névjegyzékben jogosult erdészeti szakszemélyzet besorolással nyilvántartott erdészeti szakszemélyzet;
+- 15.
 - 16. mezőgazdasági előhasználat: tarvágás esetén a véghasználat évében vagy az azt követő két évben végzett mezőgazdasági használat;
-- 17. nyiladék: az erdőgazdálkodási egységek térbeli rendjének kialakítását, vagy a vonalas jellegű létesítmények fenntartását szolgáló, az erdőben mesterségesen kialakított, fátlan terület;
-- 18. önerdősülés: közvetlen emberi beavatkozás nélkül, kifejezetten a földrészlet korábbi hasznosítása felhagyásának következtében végbemenő természetes folyamat, amely során erdő jön létre;
-- 19. sikeres első erdősítés: az e törvény végrehajtására kiadott jogszabályban meghatározott csemeteszámot elérő élő facsemetéket tartalmazó erdősítés;
-- 20. erdészeti tájidegen fafaj: őshonos fafaj, amely az adott klimatikus és termőhelyi viszonyok között természetes módon nem fordul elő;
-- 21. tisztás: az Országos Erdőállomány Adattárban nyilvántartott, emberi tevékenység következtében kialakult vagy kialakított, faállománnyal nem borított terület, amelynek fenntartása közjóléti, természetvédelmi érdekeket, illetve a 68. § f)–h) pontja szerinti erdei haszonvételek gyakorlását szolgálja;
-- 22. tűzpászta: az erdők tűz elleni védelmét szolgáló, mesterségesen kialakított, fátlan terület;
+- 17.
+- 18. önerdősülés: közvetlen emberi beavatkozás nélkül, kifejezetten a földrészlet korábbi hasznosítása felhagyásának következtében végbemenő természetes folyamat, amely során faállomány jön létre;
+- 19.
+- 20. erdészeti tájidegen fafaj: őshonos fafaj, amely az adott erdészeti táj klimatikus és termőhelyi viszonyai között természetes módon nem fordul elő;
+- 21.
+- 22.
 - 23. újulat: az erdő felújulását biztosító fiatal faegyedek összessége;
-- 24. vadföld: a vadászatra jogosult által gondozott olyan terület, amelyen a termesztési cél a vadállománynak szánt növényhozam előállítása;
-- 25. véghasználat: vágásos vagy átalakító üzemmódban kezelt erdőben végrehajtott fakitermelés (tarvágás, fokozatos felújító vágás és szálalóvágás), amelynél e törvény előírásai szerint felújítási kötelezettség keletkezik;
+- 24.
+- 25. véghasználat: vágásos vagy átmeneti üzemmódban kezelt erdőben végrehajtott fakitermelés, amelynek következtében erdőfelújítási kötelezettség keletkezik;
 - 26. fák koronavetülete: a fák lombkoronái függőleges vetületének határvonalai által közrefogott terület;
 - 27. ellenőrző szervezet: a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló, 2010. október 20-i 995/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 995/2010/EU európai parlamenti és tanácsi rendelet) 8. cikkében meghatározott szervezet;
 - 28. harmadik ország: az Európai Unión kívüli ország;
 - 29. import: az e törvény hatály alá tartozó faanyagok, termékek Magyarország területére forgalomba hozatal céljából történő beszállítása;
 - 30. illegális kitermelés: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk h) pontjában meghatározott jogszabályok megsértésével történő kitermelés vagy forgalomba hozatal;
-- 31. erdei faválaszték: közvetlenül az élő vagy holt fa kitermelése, vagy a földön fekvő fa feldolgozása során előállított hengeres – darabonként vagy sarangban készletezett – faanyag, faapríték, termék, darabolt vagy hasított tűzifa, amely jellemző műszaki paraméterek alapján jól elkülöníthető más faipari, fűrészipari alapanyagoktól és termékektől;
+- 31. erdei faválaszték: az álló, élő vagy elhalt fa kitermelése, valamint a földön fekvő fa feldolgozása során előállított, jellemző műszaki paraméterek alapján – faapríték esetében annak származása alapján – a fafeldolgozás termékeitől jól elkülöníthető
+  - a) hengeres vagy hasított faanyag,
+  - b) tűzifa minden felkészítési formában, illetve
+  - c) faapríték;
 - 32. faanyag kereskedelmi lánc: azon folyamatok és az abban szereplők összessége, amelyek közvetlen vagy közvetett hatással vannak az e törvény hatálya alá tartozó faanyagok, termékek előállítására, felhasználására, feldolgozására, tárolásárára, kereskedelmére, vagy forgalomba hozatalára;
 - 33. faanyag kereskedelmi lánc szereplője: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk c) és d) pontjában foglalt személy vagy szervezet;
 - 34. forgalomba hozatal: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk b) pontjában foglalt tevékenység;
@@ -103,20 +110,66 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 - 38. nyomon követhetőség, származás igazolás: a 995/2010/EU európai parlamenti és tanácsi rendelet 5. cikkében meghatározott kötelezettségek;
 - 39. szállítmány: az egy szállítóeszközbe rakott, egy címzettnek feladott, egy fuvarokmánnyal szállított áru;
 - 40. szállítmányt kísérő dokumentáció: számla vagy szállítólevél, amely tartalmazza az adott fatermék csomagolási egységein feltüntetett, az adott árutétel vagy a szállítmány nyomon követését szolgáló jelzést is;
-- 41. zárlat: az e törvény hatálya alá tartozó fatermék mozgatásának, szállításának, forgalomba helyezésének, további feldolgozásának, kereskedelmének korlátozása hatósági eljárás vagy vizsgálat lefolytatása érdekében.
+- 41. zárlat: az e törvény hatálya alá tartozó fatermék mozgatásának, szállításának, forgalomba helyezésének, további feldolgozásának, kereskedelmének korlátozása hatósági eljárás vagy vizsgálat lefolytatása érdekében;
+- 42. erdészeti feltáróhálózat: az erdőgazdálkodási tevékenység folytatása érdekében az erdőgazdálkodó által kialakított és fenntartott, erdészeti magánutakból, épített közelítő nyomokból és közelítő nyomokból álló erdei úthálózat;
+- 43. erdészeti magánút: az erdészeti szállítást és más erdőgazdálkodási tevékenységet szolgáló, hosszú távú, rendszeres gépjárműforgalom céljára – a talajfelszín megbontásával, idegen anyag elhelyezésével és tömörítésével – létrehozott erdei burkolt út;
+- 44. épített közelítő nyom: az erdőgazdálkodási tevékenységek végrehajtását szolgáló, időszakos, több éven át ismétlődő, eseti gépjárműforgalom céljára – a talajfelszín megbontásával – létrehozott erdei földút;
+- 45. közelítő nyom: az erdőgazdálkodási tevékenységek végrehajtását szolgáló alkalomszerű terepi anyagmozgatás céljára, az erdő talaján – a talajfelszín építési jellegű megbontása, illetve idegen anyag elhelyezése nélkül – létesített nyompálya, amelynek területe a használat megszűnése után újraerdősítésre alkalmas állapotban marad, vagy azzá tehető;
+- 46. erdei fafaj: az erdőt, valamint a jogszerűen fenntartott fásításokat alkotó – e törvény végrehajtására kiadott jogszabályban meghatározott – fafaj, fafajból levezethető fajta, vagy azok államilag elismert természetes vagy mesterséges hibridjei;
+- 47. őshonos fafaj: a Kárpát-medence területén nem behurcolás vagy betelepítés eredményeként flóraelemmé vált – e törvény végrehajtására kiadott jogszabályban meghatározott – erdei fafaj;
+- 48. idegenhonos fafaj: a Kárpát-medence területén behurcolás vagy betelepítés következményéként megtelepedett – e törvény végrehajtására kiadott jogszabályban meghatározott – erdei fafaj;
+- 49. intenzíven terjedő fafaj: az adott termőhelyen, a környezetében lévő fás szárú növényeknél gyorsabban terjedő, és a többi faállomány alkotó fafajt növekedésével és térfoglalásával jellemzően kiszorító – e törvény végrehajtására kiadott jogszabályban meghatározott – idegenhonos fafaj;
+- 50. termesztésbe vonható idegenhonos fafaj: faállomány alkotó fafajként alkalmazható – e törvény végrehajtására kiadott jogszabályban meghatározott – idegenhonos fafaj.
 
 ### Az erdő
 
-6. § (1) E törvény alkalmazásában erdő:
+6. § (1) Erdőnek minősül az Adattárban:
 
-- a) az Országos Erdőállomány Adattárban (a továbbiakban: Adattár) erdőként nyilvántartott terület;
-- b) az e törvény végrehajtására kiadott jogszabályban meghatározott fa- és cserjefajokból, illetve azok államilag elismert mesterséges vagy természetes hibridjeiből (a továbbiakban együtt: erdei fafajok) álló faállomány, melynek
-  - ba) területe a szélső fák tőben mért távolságát tekintve átlagosan legalább húsz méter széles, természetbeni kiterjedése az ötezer négyzetmétert eléri, átlagmagassága a 2 métert meghaladja és a talajt legalább ötven százalékos mértékben fedi;
-  - bb) területe a szélső fák tőben mért távolságát tekintve átlagosan legalább húsz méter széles, természetbeni kiterjedése az ötezer négyzetmétert eléri, átlagmagassága a 2 métert meghaladja és a talajt legalább harminc százalékos mértékben fedi, valamint legfontosabb szerepe a talaj védelme;
-- c) az időlegesen igénybe vett erdő területe;
-- d) a nyiladék és a tűzpászta, amennyiben az átlagos szélessége 6 méternél kisebb.
+- a) erdőrészletként, vagy
+- b) szabad rendelkezésű erdőként
 
-(2) Az e törvény végrehajtására kiadott jogszabály tartalmazza az erdőt alkotó fa- és cserjefajok jegyzékét, elkülönítve – legfeljebb erdészeti tájcsoport szintű lehatárolással – az őshonos és az idegenhonos fajokat.
+nyilvántartott terület.
+
+(2) Az erdészeti hatóság a telepített erdőt, vagy a külterületen található, erdei fafajokból álló, összefüggő, legalább ötven – felnyíló erdő esetén legalább harminc – százalékos záródású, és két métert meghaladó átlagmagasságú, e törvény alapján jogszerűen fenntartható faállomány által elfoglalt területet, amelynek természetbeni kiterjedése az ötezer négyzetmétert, illetve a szélső fák tőben mért távolságát tekintve átlagosan a húsz méter szélességet eléri,
+
+- a) telepített erdő esetében a telepítési-kivitelezési tervben, illetve a bejelentésben foglaltakkal összhangban az (1) bekezdés a) pontja szerinti erdőként, vagy az (1) bekezdés b) pontja szerinti szabad rendelkezésű erdőként,
+- b) az a) pont alá nem tartozó esetben
+  - ba) a földhasználati nyilvántartásban szereplő földhasználónak – a tulajdonos és az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultjának hozzájárulásával benyújtott – kérelmére, a kérelemben foglaltakkal összhangban az (1) bekezdés a) pontja szerinti erdőként, vagy az (1) bekezdés b) pontja szerinti szabad rendelkezésű erdőként, vagy
+  - bb) ha a faállományról nem a ba) alpont szerinti kérelem útján szerez tudomást, akkor hivatalból lefolytatott eljárásban az (1) bekezdés b) pontja szerinti szabad rendelkezésű erdőként
+
+az Adattárban nyilvántartásba veszi.
+
+(3) A (2) bekezdés alkalmazásában összefüggőnek kell tekinteni a faállományt, ha azt
+
+- a) közút,
+- b) vasút,
+- c) folyó,
+- d) 20 méternél szélesebb, erdőnek vagy fátlan állapotban tartott erdőnek nem minősülő terület, vagy
+- e) az állam 100%-os tulajdonában nem álló földrészlet határa
+
+nem szakítja meg.
+
+(4) Ahol e törvény erdőt említ, ott – eltérő rendelkezés hiányában – az (1) bekezdés a) pontja szerinti erdőt kell érteni.
+
+6/A. § (1) Az erdészeti hatóság felnyíló erdővé minősíti az erdőt, ha annak faállománya termőhelyi okok miatt természetes módon alacsony záródásban – ligetesen, vagy fás, illetve fátlan területrészek váltakozásával – borítja a területet.
+
+(2) Az erdészeti hatóság a felnyíló erdővé minősítés során a terület fás- és lágyszárú növényzetét, erdőfelújítási kötelezettség alatt álló terület esetén a véghasználat megkezdése előtti állapotot, illetve a termőhelyi jellemzőket veszi alapul.
+
+6/B. § (1) Az erdészeti hatóság a tulajdonos hozzájárulásával az erdőgazdálkodó kérelmére, az erdő rendeltetéseivel, üzemmódjával, valamint az erdő közérdekű korlátozásaival összhangban – a véghasználat megkezdése és az erdőfelújítás befejezetté nyilvánítása közötti időszak kivételével – erdőgazdálkodási, közjóléti, védelmi vagy vadgazdálkodási okból engedélyezheti a vágásos üzemmódú erdő termőhelyi viszonyoknak megfelelő záródásnál alacsonyabb, de legalább ötven százalékos záródással való kialakítását és fenntartását (a továbbiakban: felnyitott erdő), amennyiben az az erdő fenntartását, felújítását jelentősen nem akadályozza. Az erdészeti hatóság az engedélyt visszavonja, ha az engedély alapjául szolgáló ok már nem áll fenn.
+
+(2) Az erdészeti hatóság
+
+- a) a természetvédelmi hatóság kezdeményezésére természetvédelmi okból, vagy
+- b) árvízvédelmi rendeltetésű erdő esetében a vízügyi hatóság kezdeményezésére árvízvédelmi célból
+
+előírhatja a termőhelyi viszonyoknak megfelelő záródásnál alacsonyabb záródású erdő felnyitott erdőként való további fenntartását. Az erdészeti hatóság a kötelezést visszavonja, ha annak indokoltsága megszűnik.
+
+(3) Ha
+
+- a) az (1) bekezdés szerinti engedély visszavonásra kerül, vagy az engedély határozott időszakra szól, és az időszak lejár, vagy
+- b) a (2) bekezdés szerinti kötelezés visszavonásra kerül,
+
+akkor az erdő faállományát az erdő felújítására vonatkozó rendelkezések szerint helyre kell állítani.
 
 7. § (1) Az erdőket a bennük található erdei életközösség természetességi állapota szerint, – aszerint, hogy a természetes folyamatok és a korábbi erdőgazdálkodás együttes hatására kialakult, vagy kialakított állapotuk mennyire áll közel a termőhelynek megfelelő természetes erdőtársuláshoz – az Adattárban a következők szerint kell elkülöníteni:
 
@@ -124,12 +177,12 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 - b) természetszerű erdők: az adott termőhelyen a bolygatatlan erdők természetes összetételéhez, szerkezetéhez hasonló, természetes úton létrejött vagy mesterséges úton létrehozott és fenntartott erdők, ahol az idegenhonos és az erdészeti tájidegen fafaj(ok) elegyaránya nem több 20%-nál, intenzíven terjedő fafaj pedig legfeljebb csak szálanként fordul elő;
 - c) származék erdők: az emberi beavatkozás hatására fafajösszetételében, szerkezetében átalakított vagy átalakult, azonban meghatározóan az adott termőhelynek megfelelő természetes erdő társulásalkotó őshonos fafajaiból álló, de a természetes társulás egyes fafajait, illetve a természetes szerkezet elemeinek nagy részét nélkülöző, mag vagy sarj eredetű erdők; idetartoznak az olyan erdők, melyekben az idegenhonos és az erdészeti tájidegen fafajok elegyaránya 20–50% közötti, az intenzíven terjedő fafajok elegyaránya 20% alatt van;
 - d) átmeneti erdők: az emberi beavatkozás hatására fafajösszetételében, szerkezetében erősen átalakított vagy átalakult, csak kisebb részben az adott termőhelynek megfelelő természetes erdőtársulást alkotó őshonos fafajaiból álló, a természetes szerkezet elemeinek nagy részét nélkülöző, mag vagy sarj eredetű erdők, amelyekben az idegenhonos és az erdészeti tájidegen fafajok elegyaránya 50–70% közötti, továbbá minden olyan erdő, ahol az intenzíven terjedő fafajok elegyaránya 20–50% között van;
-- e) kultúrerdők: elegyarányát tekintve több, mint 70%-ban idegenhonos, erdészeti tájidegen, vagy több, mint 50%-ban intenzíven terjedő fafajokból álló erdők, ahol az adott termőhelynek megfelelő természetes erdőtársulást alkotó őshonos fafajai kevesebb, mint 30%-os elegyarányban, vagy egyáltalán nincsenek jelen;
-- f) faültetvény: jellemzően idegenhonos fafajokból vagy azok mesterséges hibridjeiből álló, szabályos hálózatban ültetett, legalább 15 éves vágásfordulóval intenzíven kezelt erdő.
+- e) kultúrerdők: az emberi beavatkozás célja miatt a termőhelynek megfelelő természetes erdőtársulást alkotó fafajaitól jelentősen eltérő fafajokból álló erdők, amelyek elegyarányát tekintve több, mint 70%-ban idegenhonos, erdészeti tájidegen, vagy több, mint 50%-ban intenzíven terjedő fafajokból állnak, vagy ahol az adott termőhelynek megfelelő természetes erdőtársulást alkotó őshonos fafajai kevesebb, mint 30%-os elegyarányban, vagy egyáltalán nincsenek jelen;
+- f) faültetvény: jellemzően idegenhonos fafajokból vagy azok mesterséges hibridjeiből álló, szabályos hálózatban ültetett, intenzíven kezelt erdő.
 
-(2) A természetességi állapotot erdőrészletenként kell megállapítani.
+(2) A természetességi állapotot az erdészeti hatóság erdőrészletenként állapítja meg.
 
-(3) Az erdőgazdálkodási tevékenységet úgy kell végezni, hogy az erdők természetességi állapota az erdőgazdálkodás következtében ne romoljon.
+(3) Az erdőgazdálkodási tevékenységet úgy kell végezni, hogy – a természetességi állapotra vonatkozó alapelvárás figyelembevételével – az erdők természetességi állapota az erdőgazdálkodás következtében ne romoljon.
 
 (4) A természetességi állapot romlásának minősül, ha az erdőgazdálkodási tevékenység következtében
 
@@ -137,6 +190,12 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 - b) az (1) bekezdés b) pontja szerinti természetességi állapotú erdő az (1) bekezdés c)–f) pontja szerinti természetességi állapotú erdővé alakul;
 - c) az (1) bekezdés c) pontja szerinti természetességi állapotú erdő az (1) bekezdés d)–f) pontja szerinti természetességi állapotú erdővé alakul;
 - d) az (1) bekezdés d) pontja szerinti természetességi állapotú erdő az (1) bekezdés e)–f) pontja szerinti természetességi állapotú erdővé alakul.
+
+(5) Az erdészeti hatóság az erdő első nyilvántartásba vételekor az erdő aktuális – erdőtelepítés esetén tervezett – természetességi állapotával, rendeltetésével, valamint az erdőgazdálkodás közérdekű korlátozásaival összhangban, erdőrészletenként meghatározza, hogy az erdőgazdálkodás során az erdőben az (1) bekezdésben foglaltak közül melyik természetességi állapotot kell legalább fenntartani (a továbbiakban: természetességi állapotra vonatkozó alapelvárás).
+
+(6) A természetességi állapotra vonatkozó alapelvárást az erdészeti hatóság az erdő természeti viszonyaiban bekövetkező változás, vagy az erdő valamely rendeltetéséhez kapcsolódó cél elérése érdekében – a (3) bekezdésben valamint a 22. § (1) bekezdésében foglaltakkal összhangban – az erdőgazdálkodónak az erdő tulajdonosának hozzájárulásával benyújtott kérelmére vagy hivatalból módosíthatja.
+
+(7) Ha az (1) bekezdés a)–d) pontjában foglalt erdő természetességi állapota a természetességi állapotra vonatkozó alapelváráshoz képest az erdőgazdálkodó vagy a tulajdonos tevékenysége vagy mulasztása következtében romlik, az erdészeti hatóság az erdőnevelésre és erdőfelújításra vonatkozó szabályozás szerint intézkedik a természetességi állapot helyreállításáról.
 
 ### Az állami erdőkre vonatkozó szabályok
 
@@ -169,113 +228,170 @@ a kincstári vagyon részét képezi.
 
 (7) Az állam 100%-os tulajdonában álló erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonból csak abban az esetben kerülhet ki, ha nem szomszédos az állam 100%-os tulajdonában álló erdővel.
 
-(8) Az állami birtokszerkezet javításának elősegítése érdekében végrehajtott birtokösszevonási célú földcsere továbbá csere esetén a védelmi és közjóléti elsődleges rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
+(8) Az állami birtokszerkezet javításának elősegítése érdekében végrehajtott birtokösszevonási célú földcsere továbbá csere esetén a védelmi és közjóléti rendeltetésű erdők állami tulajdonba kerülését előnyben kell részesíteni.
 
 (9) Az osztatlan közös tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonban lévő hányadának a használatára, hasznosítására, a Nemzeti Földalapba tartozó vagyonra vonatkozó általános szabályokat kell alkalmazni.
 
-9. § (1) Az állam 100%-os tulajdonában álló erdőt és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet csak vagyonkezelés formájában lehet hasznosításra átengedni.
+(10) Az állam 100%-os tulajdonában álló erdőben – ide nem értve az állam kizárólagos tulajdonában álló és a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyont képező erdőt – az e törvény hatálybalépésekor már fennálló és ráépítéssel létesített épület önálló ingatlanként az erdőt vagyonkezelő 100%-os állami tulajdonú gazdasági társaság ráépítő tulajdonaként az ingatlan-nyilvántartásban feltüntethető.
 
-(2) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy száz százalékos állami tulajdonú gazdálkodó szervezet végezheti.
-
-(3) A vagyonkezelő a (4) és (5) bekezdés kivételével az erdő használatát, hasznosítását harmadik személynek nem engedheti át.
-
-(4) Honvédelmi rendeltetésű erdőt a vagyonkezelő a (2) bekezdés szerinti szerv vagy gazdálkodó szervezet használatába adhatja.
-
-(5) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelője – a Nemzeti Földalap kezelésére kijelölt szerv előzetes hozzájárulását követően – a földterületet vagy annak meghatározott részét erdőgazdálkodási céloktól eltérő, de az erdő termelésből való kivonásával nem járó hasznosítása érdekében harmadik személy részére, hatósági engedély alapján végzett tevékenység gyakorlására, a hatósági engedélyekben előírt feltételekkel és időtartamra, de legfeljebb 5 évre átengedheti. Az erdőgazdálkodási céloktól eltérő hasznosítás nem terjedhet ki az erdei haszonvételek gyakorlására, és nem érintheti a vagyonkezelő földhasználati jogát.
+9. § Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelője – a Nemzeti Földalap kezelésére kijelölt szerv előzetes hozzájárulását követően – a földterületet vagy annak meghatározott részét erdőgazdálkodási céloktól eltérő, de az erdő termelésből való kivonásával nem járó közjóléti, kulturális, illetve szabadidős hasznosítása érdekében harmadik személy részére, hatósági engedély alapján végzett tevékenység gyakorlására, a hatósági engedélyekben előírt feltételekkel és időtartamra, de legfeljebb 5 évre átengedheti. Az erdőgazdálkodási céloktól eltérő hasznosítás nem terjedhet ki az erdei haszonvételek gyakorlására, és nem érintheti a vagyonkezelőnek a földhasználati jogosultságát.
 
 9/A. § Az 1. mellékletben meghatározott gazdasági társaságok állami tulajdonban álló társasági részesedése tekintetében az állam tulajdonosi jogait a miniszter gyakorolja.
 
-10. § (1) Az egyes erdőtervezési körzetekben a védelmi és közjóléti rendeltetésű, a 7. § (1) bekezdés a), b) és c) pontja szerinti természetességű állami tulajdonú erdő területének az e törvény hatálybalépését követő
+10. § (1) Az egyes erdőtervezési körzetekben a 7. § (1) bekezdés a), b) vagy c) pontja szerinti természetességi állapotú, az állam 100%-os tulajdonában álló, Natura 2000, természetvédelmi, talajvédelmi, tájképvédelmi vagy közjóléti elsődleges rendeltetésű erdők területének az e törvény hatálybalépését követő
 
-- a) első körzeti erdőtervezést követően legalább egyötöd részén,
-- b) második körzeti erdőtervezést követően legalább egynegyed részén,
-- c) harmadik körzeti erdőtervezést követően legalább egyharmad részén,
+- a) első körzeti erdőtervezést követően a hegy- vagy dombvidéki erdők legalább egyötöd, síkvidéki erdők legalább egytized részén,
+- b) második körzeti erdőtervezést követően a hegy- vagy dombvidéki erdők legalább egynegyed, síkvidéki erdők legalább egynyolcad részén,
+- c) harmadik körzeti erdőtervezést követően a hegy- vagy dombvidéki erdők legalább egyharmad, síkvidéki erdők legalább egyhatod részén,
 
-az erdőterv határozatban foglaltak szerint, folyamatos erdőborítást biztosító átalakító, szálaló vagy faanyagtermelést nem szolgáló üzemmódokat kell alkalmazni.
+örökerdő, faanyagtermelést nem szolgáló vagy átmeneti üzemmódú erdőgazdálkodást kell folytatni.
 
-(2) A védelmi és közjóléti elsődleges rendeltetésű, 7. § (1) bekezdés a), b) és c) pontja szerinti természetességű, állami tulajdonú erdőben a tarvágás tilos.
+(2) Az állam 100%-os tulajdonában álló,
 
-(3) Az erdészeti hatóság kivételesen engedélyezheti a tarvágást a 7. § (1) bekezdés a), b) és c) pontja szerinti természetességű, állami tulajdonú erdőben, ha
+- a) természetvédelmi, Natura 2000, tájképvédelmi vagy közjóléti elsődleges rendeltetésű,
+- b) a 7. § (1) bekezdés a), b) vagy c) pontja szerinti természetességi állapotú, és
+- c) az erdőfelújítási kötelezettségre vonatkozó előírást alapul véve természetes mageredetű erdőfelújításra alkalmas
 
-- a) termőhelyi vagy erdővédelmi okból vagy
-- b) a természetes újulat megőrzése érdekében
+erdőben – a (3) bekezdésben és a 73. § (6) bekezdésben foglalt eset kivételével – tilos a tarvágás.
+
+(3) Az erdészeti hatóság az erdőtervben vagy annak módosítása során lehetővé teheti a tarvágást a (2) bekezdés szerinti erdőben, ha az
+
+- a) termőhelyi vagy erdővédelmi okból, vagy
+- b) a természetes újulat megőrzése – sarj eredetű felújítás esetén megtelepedése – érdekében
 
 indokolt.
 
-(4) Az állami tulajdonban lévő erdőre erdőgazdálkodás céljait közvetlenül szolgáló földterületre vonatkozóan, jogszabályban, vagy eredeti hatósági határozatban – természetvédelmi, vagy vízgazdálkodási indokból – jogszerűen elrendelt korlátozás kártalanítási igényt nem keletkeztet.
+(4) Az állam 100%-os tulajdonában álló erdőre, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre vonatkozó természetvédelmi vagy árvízvédelmi indokból jogszabályban vagy határozatban jogszerűen elrendelt korlátozás – e törvény eltérő rendelkezése hiányában – kártalanítási igényt nem keletkeztet.
 
 ### Szabad rendelkezésű erdő
 
-11. § (1) Szabad rendelkezésű erdő:
+11. § (1) Az erdészeti hatóság a szabad rendelkezésű erdőt az Adattárban a 38. § (2) bekezdés a), b) és d) pontjában foglalt egyszerűsített adattartalommal tartja nyilván.
 
-- a) az erdészeti hatóság engedélye alapján telepített erdő, amennyiben e törvény hatálybalépése után nemzeti vagy közösségi támogatás nélkül létesült;
-- b) az e törvény hatálybalépése előtt faültetvénynek minősülő terület;
-- c) a termőföldről szóló törvény hatálybalépéséig zártkertnek minősülő nem védett természeti területen fekvő földrészleteken nemzeti vagy közösségi támogatás nélkül létesült faállomány;
-- d) a bányatelken lévő nem erdő művelési ágú, más célú igénybevételre engedélyezett területen létrejött önerdősülés;
-- e) a tulajdonos kérelme alapján – ideértve az ingatlan-nyilvántartásban való feltüntetésre irányuló kérelmet is – nyilvántartásba vett, a 6. § (1) bekezdés b) pontja szerinti önerdősülés.
+(2) Szabad rendelkezésű erdő
 
-(2) Nem tekinthető szabad rendelkezésű erdőnek az erdő igénybevételének ellentételezéseként létesült csereerdősítés.
+- a) telepítését,
+- b) felújítását, valamint
+- c) faállományának teljes vagy részleges kitermelését
 
-(3) A szabad rendelkezésű erdőre e törvény rendelkezései közül a károsítók károkozása elleni védelemre (58–59. §), a káros tevékenységek elleni védelemre [61. § (1) bekezdés b) pont, (2) bekezdés], az erdő talajának védelmére (62–63. §), az erdő tűz elleni védelmére (64–67. §), az e törvény végrehajtására kiadott jogszabályban meghatározott eltérésekkel az erdő telepítésére (45–48. §), nyilvántartására [17. § (1)–(5) bekezdés, (8) bekezdés a) pont, (9) bekezdés, 18. § (1), (2) és (5) bekezdés, (6) bekezdés a)–c) pont] a fakitermelésre (70. §) és az erdő látogatására (91–96. §) vonatkozó rendelkezéseket kell alkalmazni.
+– annak megkezdése előtt legkésőbb 21 nappal – előzetesen be kell jelenteni az erdészeti hatóság részére.
 
-(4) Amennyiben az erdő tulajdonosa az erdészeti hatóságnál kérelmezi az Adattárban az (1) bekezdés alapján szabad rendelkezésű erdőként nyilvántartott erdő nem szabad rendelkezésű erdőként való nyilvántartását, az erdő átsorolását követően az erdőre e törvénynek a nem szabad rendelkezésű erdőkre vonatkozó szabályait kell alkalmazni.
+(3) Szabad rendelkezésű erdő mezőgazdasági művelésbe vonását előzetesen be kell jelenteni az erdészeti hatóság részére.
+
+(4) A (2) bekezdésben foglalt tevékenység végrehajtását annak befejezését követő 30 napon belül be kell jelenteni az erdészeti hatóság részére.
+
+(5) Az erdészeti hatóság a telepítési feltételeknek nem megfelelően telepített, felújított vagy fenntartott szabad rendelkezésű erdő faállományának teljes vagy részleges felszámolását rendeli el, ha
+
+- a) az a termőhelyre vagy a környező erdők életközösségére, természetességi állapotára nézve jelentős káros hatással van, vagy előreláthatólag jelentős káros hatással lesz, illetve
+- b) annak fennmaradása jogszabályba ütközik.
+
+(6) Az erdészeti hatóság a szabad rendelkezésű erdőt törli az Adattárból, ha az a 6. § (2) bekezdésében foglalt feltételeknek már nem felel meg.
+
+(7) Az erdészeti hatóság a szabad rendelkezésű erdőt a földhasználati nyilvántartásban szereplő földhasználónak – a tulajdonos és az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultjának hozzájárulásával benyújtott – kérelmére átminősíti a 6. § (1) bekezdés a) pontja szerinti erdővé.
+
+(8) A szabad rendelkezésű erdő esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire (45. §), a károsítók károkozása elleni védelemre (58. és 59. §), a káros tevékenységek elleni védelemre [61. § (1) bekezdés b) pont, 61. § (2) bekezdés], az erdő talajának védelmére (62. § és 63. §), az erdő tűz elleni védelmére (64–67. §), erdőgazdálkodási célú erdei járműforgalomra (87. § és 88. §), az erdő látogatására (91–96. §), valamint a bejelentési kötelezettségre (102. §) vonatkozó rendelkezéseket is alkalmazni kell.
 
 ### A fásítás
 
-12. § (1) E törvény alkalmazásában fásítás az erdei fafajból vagy fafajokból álló
+12. § (1) Fásításnak minősül a külterületen található, erdőnek, szabad rendelkezésű erdőnek, vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek nem minősülő, e törvény hatálya alá tartozó, fával, faállománnyal borított terület.
 
-- a)
-- b) jellemzően vonalas kiterjedésű fával borított terület, ahol az állományon belüli egyes fák, és a terület kisebb kiterjedése szerinti szélső fák egymástól mért tőtávolsága átlagosan nem nagyobb húsz méternél (fasor);
-- c) ötezer négyzetméternél kisebb, jellemzően nem vonalas kiterjedéssel rendelkező, legalább ötven százalékban fával borított területen lévő fák összessége (facsoport);
-- d) olyan legelő művelési ágban lévő földrészlet, amelyet a fák koronavetülete egyenletes elosztásban legfeljebb harminc százalékban fed (fás legelő).
+(2) Az erdészeti hatóság a telepítési feltételeknek nem megfelelően telepített vagy fenntartott fásítás faállományának teljes vagy részleges felszámolását rendeli el, ha
 
-(2) Fásítás esetében e törvény rendelkezései közül a károsítók károkozása elleni védelemre (58–59. §), a káros tevékenységek elleni védelemre [61. § (1) bekezdés b) pont, (2) bekezdés], az erdő talajának védelmére (62–63. §), az erdő tűz elleni védelmére (64–67. §), az e törvény végrehajtására kiadott jogszabályban meghatározott eltérésekkel az erdő telepítésére (45–48. §), az erdő felújítására (51–52. §), a fakitermelésre (70. §) és az erdő látogatására (91–96. §) vonatkozó rendelkezéseket kell alkalmazni.
+- a) az a termőhelyre vagy a környező erdők életközösségére, természetességi állapotára nézve jelentős káros hatással van, vagy előreláthatóan jelentős káros hatással lesz, illetve
+- b) annak fennmaradása jogszabályba ütközik.
+
+(3) Fásításban tervezett – a fa tövében mérve – 10 centimétert meghaladó átmérőjű fa kitermelését, annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
+
+(4) Fásítás esetében – az e §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül az erdőtelepítés feltételeire [45. § (1) és (3)–(6) bekezdés], a károsítók károkozása elleni védelemre (58. § és 59. §), az erdő tűz elleni védelmére (64–67. §), valamint a bejelentési kötelezettségre (102. §) vonatkozó rendelkezéseket is alkalmazni kell.
 
 ### Erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület
 
-13. § (1) E törvény alkalmazásában az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület:
+13. § (1) Erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület az Adattárban egyéb részletként nyilvántartott
 
-- a) az Adattárban egyéb részletként nyilvántartott
-  - aa) tisztás,
-  - ab) kopár,
-  - ac) erdei farakodó és készletező hely,
-  - ad) erdészeti létesítményhez tartozó terület,
-  - ae) vadföld,
-  - af) erdei vízfolyás, erdei tó,
-  - ag) erdészeti szaporítóanyag, karácsonyfa, díszítőgally, vadgyümölcs és vessző termelését szolgáló terület,
-  - ah) 6 méternél szélesebb nyiladék és tűzpászta;
-- b) erdővel körülzárt vagy kerületének legalább 75 százalékát meghaladó mértékben erdővel határolt természetes erdei vízfolyás és erdei tó;
-- c) a cserjés;
-- d) az erdészeti kutatás céljából – nemzeti vagy közösségi támogatás igénybevételével – létesült és arra használt, erdőnek nem minősülő faállomány és annak területe.
+- a) tisztás, amely erdőben természetes folyamat útján létrejött, vagy mesterségesen kialakított, erdei fafajok által legfeljebb szórványosan, erdei cserjefajok által legfeljebb 50 százalékos mértékben fedett terület;
+- b) terméketlen terület, amely az erdészeti hatóság által termőhelyi adottságainál fogva erdő fenntartására alkalmatlanná minősített terület;
+- c) erdei farakodó és készletező hely, amely erdei faanyag és egyéb erdei termék rendszeres átmeneti tárolására kialakított terület;
+- d) erdészeti létesítményhez tartozó terület, amely az erdő igénybevétele nélkül létrehozott erdészeti létesítmény által elfoglalt, illetve az erdészeti létesítményhez a funkciója betöltése céljából csatlakozó terület, amennyiben az nem minősül erdőnek;
+- e) vadföld, amely a vadászatra jogosult által művelt mezőgazdasági terület, amelyen a termesztési cél a vadállománynak szánt növényhozam előállítása;
+- f) erdei vízfolyás, erdei tó, amely erdőben található vagy ahhoz csatlakozó természetes vízfolyás, tó;
+- g) nyiladék, amely az erdőgazdálkodási egységek térbeli rendjének kialakítását, a vonalas jellegű létesítmények fenntartását, illetve az erdők tűz elleni védelmét szolgáló, az erdőben mesterségesen kialakított, fátlan állapotban fenntartott, 6 méternél szélesebb terület;
+- h) cserjés, amely erdőnek nem minősülő területen természetes folyamat útján létrejött, vagy erdőből kialakított, erdei cserjefajok által legalább 50 százalékos mértékben fedett terület;
+- i) erdészeti kutatóhely, amely erdészeti kutatás célját szolgáló terület.
 
-(2) Az erdőnek az erdőgazdálkodó kérelmére
+(2) Az erdészeti hatóság az erdő természeti és gazdálkodási viszonyaival, rendeltetéseivel, valamint közérdekű korlátozásaival összhangban – az a) és d) pont tekintetében a véghasználat megkezdése és az erdőfelújítás befejezetté nyilvánítása közötti időszak kivételével – az erdőgazdálkodó által a tulajdonos hozzájárulásával beadott kérelemre engedélyezheti az erdő területén az (1) bekezdésben foglalt
 
-- a) közjóléti és természetvédelmi célból tisztásként,
+- a) tisztásként,
 - b) erdei farakodóként és készletező helyként,
-- c) erdészeti létesítményhez tartozó területként,
-- d) 6 méternél szélesebb nyiladékként és tűzpásztaként
+- c) nyiladékként,
+- d) cserjésként vagy
+- e) erdészeti létesítményhez tartozó területként
 
-fátlan állapotban tartását az e törvény végrehajtására kiadott jogszabályban foglaltak szerint az erdészeti hatóság engedélyezi.
+– az a) és d) pont esetében legfeljebb egy hektár kiterjedésű területet érintően, a b), c) és e) pont esetében az indokolt kiterjedésű területet érintően – fátlan állapot kialakítását és fenntartását (a továbbiakban: fátlan állapotban tartott erdő). Az erdészeti hatóság az engedélyt visszavonja, ha az engedély alapjául szolgáló ok már nem áll fenn.
 
-(3) Az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre a károsítók károkozása elleni védelemre (58–59. §), a káros tevékenységek elleni védelemre (61. §), az erdő talajának védelmére (62–63. §), az erdészeti termékek szállítására (89. §) és az erdő látogatására (91–96. §) vonatkozó szabályokat kell alkalmazni.
+(3) Az erdészeti hatóság a természetvédelmi hatóság kezdeményezésére természetvédelmi okból előírhatja az erdő faállománnyal nem borított területének – az erdőfelújítási kötelezettség alatt álló terület kivételével – fátlan állapotban tartott erdőként való további fenntartását. Az erdészeti hatóság a kötelezést visszavonja, ha annak indokoltsága megszűnik.
 
-14. § Az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet a körzeti erdőtervben, illetőleg az Adattárban fel kell tüntetni.
+(4) Az erdészeti hatóság
+
+- a) a honvédelemért felelős miniszter kezdeményezésére honvédelmi, vagy
+- b) a határrendészetért felelős miniszter kezdeményezésére határrendészeti
+
+célú vonalas létesítmény elhelyezése, kialakítása céljából elrendelheti az erdő területén fátlan állapotban tartott erdő kialakítását. Az erdészeti hatóság a kötelezést, ha annak indokoltsága megszűnik – az érintett miniszter kezdeményezésére – visszavonja.
+
+(5) Ha
+
+- a) a (2) bekezdés szerinti engedély visszavonásra kerül, vagy ha az engedély határozott időszakra szól, és az időszak lejár, vagy
+- b) a (3) vagy (4) bekezdés szerinti kötelezés visszavonásra kerül,
+
+akkor a fátlan állapotban tartott erdő területén a faállományt az erdőfelújításra vonatkozó rendelkezések szerint helyre kell állítani.
+
+(6) Hivatalból vagy az erdőgazdálkodó bejelentésére az erdészeti hatóság az erdő területét terméketlen területté minősítheti, amelynek során elsősorban a terület fás- és lágyszárú növényzetét, erdőfelújítási kötelezettség alatt álló terület esetén a véghasználat megkezdése előtti állapotot, valamint a termőhelyi jellemzőket veszi alapul.
+
+(7) Az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre – az e §-ban, valamint a 14. §-ban szereplő rendelkezések mellett – e törvény rendelkezései közül
+
+- a) a fátlan állapotban tartott erdőre az erdőnek minősülő föld használatára, használatba adására, továbbá az erdőgazdálkodóra, és annak nyilvántartására (17–20. §), a fakitermelés éves erdőgazdálkodási tevékenységként történő bejelentésére (41. § és 42. §), a károsítók károkozása elleni védelemre (58. § és 59. §), a káros tevékenységek elleni védelemre (61. §), az erdő talajának védelmére (62. § és 63. §), az erdő igénybevételére (77–85. §), erdőgazdálkodási célú erdei járműforgalomra (87. § és 88. §), az erdő látogatására (91–96. §), valamint a bejelentési kötelezettségre (102. §),
+- b) az a) pont alá nem tartozó, egyéb erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületre, a fakitermelés éves erdőgazdálkodási tevékenységként történő bejelentésére (41. § és 42. §), a káros tevékenységek elleni védelemre (61. §), erdőgazdálkodási célú erdei járműforgalomra (87. § és 88. §), az erdő látogatására (91–96. §), valamint a bejelentési kötelezettségre (102. §)
+
+vonatkozó rendelkezéseket is alkalmazni kell.
+
+14. § (1) Az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet az erdészeti hatóság az Adattárban a 38. § (2) bekezdés a) és b) pontjában, a fátlan állapotban tartott erdő esetében továbbá a 38. § (2) bekezdés c) pontjában foglalt adatokkal tartja nyilván.
+
+(2) Az erdészeti hatóság az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet – a fátlan állapotban tartott erdő kivételével – az erdőgazdálkodónak a tulajdonos hozzájárulásával tett bejelentésére kivezeti az Adattárból, ha az erdőgazdálkodó nyilatkozata alapján a terület erdőgazdálkodási célt már nem szolgál.
 
 ### Az erdészeti létesítmény
 
-15. § (1) E törvény alkalmazásában erdészeti létesítménynek minősül a legalább részben erdőben található vagy ahhoz csatlakozó
+15. § (1) Erdészeti létesítménynek minősül a legalább részben erdőben található vagy ahhoz csatlakozó
 
-- a) erdészeti magánút, valamint annak műtárgyai és tartozékai (a továbbiakban együtt: erdészeti magánút);
-- b) erdőgazdálkodási vagy közjóléti tevékenységgel összefüggésben épített és használt keskeny nyomközű vasúti pálya és annak tartozékai (a továbbiakban együtt: erdei vasút);
-- c) az erdőgazdálkodási, közjóléti vagy oktatási tevékenységet, így különösen az erdő védelmét, illetve az erdei haszonvételek gyakorlását, az erdő látogatását, az erdő bemutatását az erdő rendeltetését szolgáló műtárgy, csatorna, tározó, kerítés, erdei épület és egyéb létesítmény.
+- a) erdészeti magánút, épített közelítő nyom, valamint azok műtárgyai és tartozékai;
+- b) erdőgazdálkodási vagy közjóléti tevékenységgel összefüggésben épített és használt keskeny nyomközű vasúti pálya és annak tartozékai;
+- c) az erdőgazdálkodási, közjóléti vagy oktatási tevékenységet, így különösen az erdő védelmét, illetve az erdei haszonvételek gyakorlását, az erdő látogatását, az erdő bemutatását az erdő rendeltetését szolgáló műtárgy, csatorna, tározó, kerítés, erdei épület és egyéb létesítmény;
+- d) közjóléti tevékenységgel összefüggésben épített és használt sípálya és annak műszaki tartozékai (a továbbiakban együtt: erdei sípálya).
 
-(2) Erdei épület, valamint az olyan kilátó, amelynek a terepcsatlakozásától mért legfelső pontja az öt métert meghaladja, továbbá erdei vasút kivételével minden erdészeti létesítmény létesítéséhez, bővítéséhez, felújításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, illetve használatbavételéhez, fennmaradásához vagy a rendeltetésének megváltoztatásához az erdészeti hatóság engedélye szükséges.
+(2) Erdészeti létesítményt létesíteni, elhelyezni és működtetni az erdő rendeltetéseivel valamint az erdő közérdekű korlátozásaival összhangban úgy lehet, hogy az az erdei élőhelyet, az erdei életközösséget, az erdő biológiai sokféleségét, felszíni és felszín alatti vizeit, valamint talaját a lehető legkisebb mértékben károsítsa, illetve veszélyeztesse.
 
-(3) A (2) bekezdés szerinti engedélyezés során az erdő igénybevételére vonatkozó szabályokat be kell tartani.
+(3) Honvédelmi rendeltetésű erdőben közjóléti létesítményt létesíteni csak abban az esetben lehet, ha az a területen folytatott katonai tevékenységgel összeegyeztethető.
 
-(4) Erdei épület, erdei vasút kivételével az erdőgazdálkodási tevékenységet már nem szolgáló, vagy rendeltetésszerű használatra alkalmatlanná vált erdészeti létesítmény megszüntetését az erdészeti hatóság elrendeli.
+(4) Az engedélyköteles erdészeti létesítmények kivételével az erdészeti létesítmény létesítését, bővítését, korszerűsítését, megszüntetését vagy rendeltetésének megváltoztatását annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
 
-(5) Erdészeti magánút a közforgalom számára az erdőgazdálkodó egyetértésével és az erdészeti hatóság engedélyével nyitható meg.
+(5) Az erdészeti létesítmények közül
+
+- a) az erdészeti magánút és annak tartozékai,
+- b) a négy méter átlagos koronaszélességet elérő épített közelítő nyom és annak tartozékai, valamint
+- c) az erdei kerítés – az öt évet meg nem haladó időre létesített vadkárelhárító villanypásztor, az erdei legeltetés céljából létesített villanypásztor, továbbá a magtermés védelme érdekében létesített 120 cm-nél nem magasabb vadkárelhárító kerítés kivételével –
+
+létesítéséhez, bővítéséhez, korszerűsítéséhez, megszüntetéséhez, vagy rendeltetésének megváltoztatásához az erdészeti hatóság engedélye szükséges. A kiadott engedély öt évre szól.
+
+(6) Vadkárelhárítási célból erdei kerítés csak abban az esetben létesíthető, ha a vadászati hatóság véleménye alapján az erdőtelepítés, erdőfelújítás védelme a vadállomány apasztásával vagy más vadkárelhárítási módszerrel nem biztosítható. A vadkárelhárító kerítés létesítése meghaladja a rendes erdőgazdálkodás körét.
+
+(7) Az erdőgazdálkodó az erdészeti létesítmény (4) vagy (5) bekezdés szerinti létesítését, bővítését, korszerűsítését, valamint rendeltetése megváltoztatását annak megvalósulásától számított 30 napon belül az erdészeti hatóság részére bejelenti.
+
+(8) Az erdőgazdálkodási tevékenységet már nem szolgáló, a rendeltetésszerű használatra alkalmatlanná vált, vagy nem az engedélyezési feltételeknek megfelelően fenntartott erdészeti létesítményt fel kell számolni. Ha erre az erdészeti hatóság felszólítására sem kerül sor, a felszámolást az erdészeti hatóság elrendeli, vagy azt a hatáskörrel rendelkező hatóságnál kezdeményezi.
+
+15/A. § (1) Épített közelítő nyomon vízelvezetést szolgáló műtárgy, valamint – összességében legfeljebb az út hosszának 10%-át elérő mértékben – hulladéknak nem minősülő javító anyag elhelyezhető.
+
+(2) Az erdészeti feltáróhálózat részét képező, erdészeti létesítménynek nem minősülő közelítő nyom kialakítása során be kell tartani a 15. § (2) bekezdésben foglalt előírásokat.
+
+15/B. § (1) Az erdészeti magánút közforgalom elől elzárt magánútnak minősül. Az erdészeti magánutat a közforgalom számára megnyitni a közúti közlekedésről szóló törvényben foglaltak szerint, a közvetlenül határos erdők erdőgazdálkodóinak egyetértése mellett lehet, amennyiben az erdei életközösséget, a fenntartható erdőgazdálkodást, illetve az erdő közjóléti és védelmi rendeltetéseinek érvényesülését az nem veszélyezteti.
+
+(2) Honvédelmi rendeltetésű erdőben található erdészeti magánút közforgalom számára történő megnyitása akkor engedélyezhető, ha az a területen folytatott katonai tevékenységgel összeegyeztethető.
 
 ### Az erdészeti igazgatási és az erdőgazdálkodási egységek kialakítása
 
@@ -289,52 +405,39 @@ fátlan állapotban tartását az e törvény végrehajtására kiadott jogszab�
 
 (5) Az erdőtag a település közigazgatási határán belül az erdő területi rendjét, kellő áttekintését, az erdőgazdálkodási tevékenység alapegységeinek tartós szerkezetbe foglalását biztosító területi egység.
 
-(6) Az erdőtagon belül az erdőrészlet az erdőgazdálkodási tevékenység és az erdészeti igazgatás, nyilvántartás olyan alapegysége, amely természetben összefüggő és a rajta található erdei életközösség, valamint a fenntartható erdőgazdálkodási tevékenység jellemzői alapján egységesnek tekinthető.
+(6) Az erdőtagon belül az erdőrészlet az erdőgazdálkodási tevékenység és az erdészeti igazgatás, nyilvántartás olyan alapegysége, amely a rajta található erdei életközösség, a fenntartható erdőgazdálkodási tevékenység jellemzői, valamint az erdő használati viszonyai alapján egységesnek tekinthető.
 
-(7) Az erdőtagot és az erdőrészletet a körzeti erdőterv készítése során, illetve az erdő telepítésének engedélyezésekor kell kijelölni.
+(7) Az erdőtagot és az erdőrészletet a körzeti erdőtervezés során, illetve az erdő telepítésének engedélyezésekor az erdészeti hatóság jelöli ki. Az erdészeti hatóság az erdőtagon belül az erdőrészlet-beosztást két körzeti erdőtervezés között indokolt esetben módosítja.
 
-(8) Természetben összefüggőnek kell tekinteni azt az erdőt, amelyet közút, vasút, folyó vagy más, erdőnek nem minősülő terület nem szakít meg.
+(8)
 
 (9) Az erdőgazdálkodó az erdőtelepítési, erdőfelújítási, erdőnevelési, fahasználati és erdővédelmi munkák megkezdése előtt köteles az erdőrészlet határvonalainak töréspontjaira jól látható és időtálló határjeleket elhelyezni.
 
-(10) A körzeti erdőtervezés terepi felvételezési munkálatai során kialakított, a földrészlet határától eltérő, természetben nem azonosítható erdőrészlethatárok töréspontjait az erdészeti hatóság köteles az e törvény végrehajtására kiadott jogszabály szerinti módon az erdőgazdálkodóval ismertetni.
+(10) A körzeti erdőtervezés terepi felvételezési munkálatai során kialakított, a földrészlet, alrészlet határától, vagy a használati megosztásról szóló megállapodásban foglalt használati rend szerinti határvonaltól eltérő, természetben nem azonosítható, újonnan kialakított erdőrészlethatárok töréspontjait az erdészeti hatóság az erdőgazdálkodóval ismerteti.
 
 ### Az erdőgazdálkodó és nyilvántartása
 
-17. § (1) Erdőgazdálkodó az erdészeti hatóság által vezetett erdőgazdálkodói nyilvántartásban szereplő tulajdonos vagy jogszerű használó.
+17. § (1) Erdőgazdálkodó az erdészeti hatóság által vezetett erdőgazdálkodói nyilvántartásban szereplő jogszerű használó.
 
-(2) Az erdőgazdálkodói nyilvántartás a 18. § (6) bekezdés a) pont ag) alpontjában, b) pont bh) alpontjában, c) pont cg)–ci) alpontjában, d) pont db) alpontjában, valamint e) pont eb) alpontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2) Az e törvényben foglalt erdőgazdálkodói jogok és kötelezettségek – a haszonvételi joggyakorlás kivételével – az erdőgazdálkodót illetik, illetve terhelik.
 
 (3)–(4)
 
-(5) Az erdőgazdálkodói jogok és kötelezettségek a nyilvántartásba történő bejegyzéssel keletkeznek és a nyilvántartásból való törléssel szűnnek meg.
+(5)–(9)
 
-(6) A tulajdonosok társult erdőgazdálkodási tevékenységet kötelesek folytatni, ha
+18. § (1) Az erdőgazdálkodó, valamint a használatában álló erdő, illetve erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület (a 18-21/B. § tekintetében a továbbiakban együtt: erdőnek minősülő föld) adatairól az erdészeti hatóság nyilvántartást vezet (a továbbiakban: erdőgazdálkodói nyilvántartás).
 
-- a) a földrészletnek több tulajdonosa van, vagy
-- b) az erdőrészlet több földrészletből áll és a földrészletek különböző személyek tulajdonában vannak.
+(2) Az erdőgazdálkodó az erdőgazdálkodói nyilvántartásban szereplő adatok változását – a (7) bekezdés c) pont ce) és ch) alpontjában foglalt kivétellel – 30 napon belül az erdészeti hatósághoz bejelenti. Az erdészeti hatóság a bejelentésben foglalt változásokat a nyilvántartáson átvezeti.
 
-(7) Társult erdőgazdálkodás esetén a tulajdonosoknak az erdőt egy személy használatába kell adniuk.
+(3) Az erdőgazdálkodói jogok és kötelezettségek a nyilvántartásba történő bejegyzéssel keletkeznek és – a határozott idejű szerződéseket kivéve – a nyilvántartásból való törléssel szűnnek meg.
 
-(8) Erdőgazdálkodó hiányában az erdő tulajdonosa köteles
+(4) Az erdőgazdálkodói nyilvántartásba a (7) bekezdés szerinti adat bejegyzésének, megváltoztatásának vagy törlésének közhiteles hatósági nyilvántartásból történő adatátvétel, közokirat vagy teljes bizonyító erejű magánokirat alapján van helye.
 
-- a) az erdészeti hatóság felszólítását követően az erdőt károsító hatások és a káros tevékenységek elleni védekezésről, a bekövetkezett károsítások hatásainak felszámolásáról, az erdő talajának védelméről gondoskodni,
-- b) az erdő szakszerű felújításáról gondoskodni,
-- c) az erdő őrzésére vonatkozó kötelezettségnek eleget tenni.
+(5) Aki erdőnek minősülő föld használatára jogosult – a haszonvételi joggyakorló kivételével –, köteles azt a használati jog fennállását igazoló okiratok benyújtásával, a használati jogosultság keletkezésétől számított 30 napon belül az erdészeti hatósághoz nyilvántartásba vétel céljából bejelenteni.
 
-(9) A tulajdonos helyett, a (8) bekezdés szerinti kötelezettségek teljesítéséért az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultja felelős.
+(6) Az erdőgazdálkodói nyilvántartás adatai országosan vezetettek, – a (7) bekezdés a) pont ab), ac), ae) és af) alpontjában foglaltak kivételével – nyilvánosak, azokból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – elektronikus úton is – hiteles vagy nem hiteles, illetve teljes vagy szemle másolat adható.
 
-18. § (1) Az erdőgazdálkodó, valamint a használatában lévő erdő és erdőgazdálkodás célját közvetlenül szolgáló, erdő művelési ágú földterület adatait az erdészeti hatóság – kérelemre – nyilvántartásba veszi.
-
-(2) Az erdőgazdálkodói nyilvántartásba a (6) bekezdés szerinti adat bejegyzésének (megváltoztatásának vagy törlésének) közhiteles hatósági nyilvántartásból történő adatátvétel, közokirat vagy teljes bizonyító erejű magánokirat alapján van helye.
-
-(3) Aki szerződés alapján erdő, vagy erdőgazdálkodás célját közvetlenül szolgáló erdő művelési ágú földterület használatára jogosult, köteles a használati jogot a szerződés hatálybalépésétől számított 30 napon belül a szerződés benyújtásával az erdészeti hatósághoz nyilvántartásba vétel céljából bejelenteni.
-
-(4) Aki tulajdonosként vagy nem szerződésen alapuló jogcímen erdő vagy erdőgazdálkodás célját közvetlenül szolgáló erdő művelési ágú földterület használatára jogosult, köteles a használati jogot – a használati jog fennállását igazoló okiratok benyújtásával az adott jogcím keletkezésétől számított 30 napon belül – az erdészeti hatósághoz nyilvántartásba vétel céljából bejelenteni.
-
-(5) Az erdőgazdálkodói nyilvántartás adatai országosan vezetettek, nyilvánosak, azokból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – elektronikus úton is – hiteles vagy nem hiteles, illetve teljes vagy szemle másolat adható.
-
-(6) Az erdőgazdálkodói nyilvántartás
+(7) Az erdőgazdálkodói nyilvántartás
 
 - a) a természetes személy erdőgazdálkodó esetén a következő adatokat tartalmazza:
   - aa) családi és utónév, ideértve a születési családi és utónevet,
@@ -353,26 +456,30 @@ fátlan állapotban tartását az e törvény végrehajtására kiadott jogszab�
   - be) adószám,
   - bf) a mezőgazdasági vidékfejlesztési támogatási szerv által kiadott regisztrációs szám,
   - bg) erdőgazdálkodói kód;
-- c) a használt erdőre vagy erdőgazdálkodás célját közvetlenül szolgáló, erdő művelési ágú földterületre vonatkozó következő adatokat tartalmazza:
+- c) az erdőgazdálkodó használatában álló, erdőnek minősülő földre vonatkozó következő adatokat tartalmazza:
   - ca) a település neve,
   - cb) a földrészlet fekvésének (belterület, külterület) megjelölése,
   - cc) a földrészlet helyrajzi száma,
-  - cd) az alrészlet,
-  - ce) a földterület erdészeti azonosítója,
-  - cf) a használt terület nagysága,
-  - cg) a használat jogcíme,
-  - ch) a nyilvántartásba vétel időpontja,
-  - ci) a használat időtartama;
-- d) a jogosult erdészeti szakszemélyzetre vonatkozóan a következő adatokat tartalmazza:
-  - da) családi és utónév,
-  - db) nyilvántartási kód;
-- e) az erdészeti szakszemélyzetre vonatkozóan a következő adatokat tartalmazza:
-  - ea) családi és utónév,
-  - eb) nyilvántartási kód.
+  - cd) az alrészlet jele,
+  - ce) használati megosztás esetén a földrészlet részterületének azonosítására a használati rendben alkalmazott alszám,
+  - cf) a földterület erdészeti azonosítója,
+  - cg) a használt terület nagysága,
+  - ch) a használat jogcíme,
+  - ci) a nyilvántartásba vétel időpontja,
+  - cj) a használat időtartama,
+  - ck) erdőfelújítási biztosíték nyújtási kötelezettség fennállása;
+- d) az erdőgazdálkodó által alkalmazott erdészeti szakszemélyzetre, jogosult erdészeti szakszemélyzetre, illetve erdészeti szakirányító vállalkozásra vonatkozóan annak a szakirányítói névjegyzékben rögzített nyilvántartási kódja.
+
+(8) Az erdőgazdálkodói nyilvántartás
+
+- a) a (7) bekezdés a) pont ag) alpontjában, és b) pont bg) alpontjában, valamint
+- b) a (7) bekezdés c) pont ch)–cj) alpontjában foglalt, az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott földrészletekre, illetve alrészletekre vonatkozó adatok tekintetében
+
+közhiteles hatósági nyilvántartásnak minősül.
 
 ### Egyszerűsített erdőgazdálkodói nyilvántartásba vétel
 
-18/A. § Az erdészeti hatóság egyszerűsített erdőgazdálkodói nyilvántartásba-vételi eljárást folytat le, ha az erdő használatára vonatkozó megállapodást a felek a jelen törvény végrehajtására kiadott rendeletben meghatározott szerződésminta alkalmazásával kötötték meg.
+18/A. § Az erdészeti hatóság egyszerűsített erdőgazdálkodói nyilvántartásba-vételi eljárást folytat le, ha a legfeljebb 10 személy tulajdonában álló erdőnek minősülő föld használatára vonatkozó megállapodást a felek a jelen törvény végrehajtására kiadott rendeletben meghatározott szerződésminta alkalmazásával kötötték meg.
 
 ### Erdőgazdálkodói nyilvántartásba bejegyzés alapjául szolgáló okiratok kellékei
 
@@ -403,105 +510,135 @@ fátlan állapotban tartását az e törvény végrehajtására kiadott jogszab�
 
 (2) Ha az okirathoz melléklet is tartozik, akkor a melléklet valamennyi lapjára vonatkozóan is alkalmazni kell a 18/B. § (1) bekezdés b) pontjában foglaltakat.
 
-### Erdő vagy erdőgazdálkodás célját közvetlenül szolgáló földterület használatának általános szabályai
+### Erdőnek minősülő föld használatának általános szabályai
 
-19. § (1) Erdő vagy erdőgazdálkodás célját közvetlenül szolgáló földterület használatára kötött megállapodást írásba kell foglalni.
+19. § (1) Erdőnek minősülő föld használatára kötött megállapodást írásba kell foglalni.
 
 (2) A szerződésben – jogcímtől függetlenül – fel kell tüntetni
 
-- a) az erdőgazdálkodó 18. § (6) bekezdés aa)–ad) vagy (6) bekezdés ba)–be) pontja szerinti adatait,
-- b) a 18. § (6) bekezdés c) pontja szerinti adatokat,
-- c) a felújítási biztosíték (ha van) nyújtásának módját.
+- a) az erdőgazdálkodó 18. § (7) bekezdés a) pont aa)–ad) alpontja vagy 18. § (7) bekezdés b) pont ba)–be) alpontja szerinti adatait,
+- b) a 18. § (7) bekezdés c) pontja szerinti adatokat,
+- c) a felújítási biztosíték nyújtására vonatkozó rendelkezéseket.
 
-(3) A 40. § (3) bekezdés szerinti kérelem benyújtásához a tulajdonos, közös tulajdon esetében a tulajdonostársak tulajdoni hányad alapján számított 2/3 részének írásbeli hozzájáruló nyilatkozata szükséges.
+(3)
 
-### Erdőgazdálkodási haszonbérlet
+19/A. § (1) E törvény alkalmazása során valamely személy hozzájárulása vagy nyilatkozata alatt – eltérő rendelkezés hiányában – az érintett személy közokiratba vagy teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát kell érteni.
 
-20. § (1) Erdőgazdálkodási haszonbérleti szerződést a felek erdő vagy erdőgazdálkodás célját közvetlenül szolgáló földterület haszonbérbe adására köthetnek.
+(2) A 6/B. § (1) bekezdésében, a 7. § (6) bekezdésében, a 13. § (2) bekezdésében, a 14. § (2) bekezdésében, a 23. § (7) bekezdésében, a 29. § (6) bekezdésében, valamint a 33. § (9) bekezdésében foglaltak alkalmazása során tulajdonosi hozzájárulás alatt
 
-(2) Erdőgazdálkodási haszonbérletre, ha e törvény eltérően nem rendelkezik, a Polgári Törvénykönyv, a mező- és erdőgazdasági földek forgalmáról szóló törvény és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló törvény haszonbérletre vonatkozó szabályait kell alkalmazni.
+- a) a tulajdonosok tulajdoni hányad alapján számított egyszerű többségének – ha egy tulajdonos a tulajdoni hányadok több mint felével rendelkezik, vagy a kisebbségben maradt tulajdonosok közül a három legnagyobb tulajdoni hányaddal rendelkező személy együttesen az összes tulajdoni hányad egyharmadát meghaladó részével rendelkezik, akkor kétharmad részének – közokiratba vagy teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát, vagy
+- b) ha a kérelemben foglaltakkal kapcsolatban a tulajdonosok jogszabály szerint tulajdonosi közgyűlés keretében kötelesek dönteni, akkor a tulajdonosi közgyűlés érvényes döntését
 
-(3) A szerződésnek tartalmaznia kell a haszonbér-fizetésének módját, a haszonbér fizetési időszak meghatározását.
+kell érteni.
 
-(4) Közös tulajdon esetében erdő vagy erdőgazdálkodás célját közvetlenül szolgáló földterület haszonbérbe adásához a tulajdonostársak tulajdoni hányad alapján számított szótöbbséggel hozott határozata szükséges.
+(3) A 6/B. § (1) bekezdésében, a 7. § (6) bekezdésében, a 13. § (2) bekezdésében, a 14. § (2) bekezdésében, a 20–21/B. §-ban, a 23. § (7) bekezdésében, a 29. § (6) bekezdésében, a 33. § (9) bekezdésében foglaltak alkalmazása során tulajdonos alatt a föld tulajdonosát, haszonélvezeti jog fennállása esetén a haszonélvezőt kell érteni.
 
-(5) A felek a haszonbér megfizetését a fahasználat időpontjához is köthetik.
+### Az állam 100%-os tulajdonában nem álló erdőnek minősülő föld használatba adásának különös szabályai
 
-A haszonbérbe adó azonnali hatállyal felmondhatja a haszonbérleti szerződést, ha a haszonbérlő
+20. § (1) Erdőnek minősülő, közös tulajdonban álló föld esetében a használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 71. § (2a) bekezdésében foglaltak mellett – akkor is kijelölhető egyben, ha azt az érintett tulajdonostársak a 20/A. § (3) bekezdésében foglalt társult erdőgazdálkodás keretében egységesen kívánják használni, vagy azt egységesen többlethasználati megállapodással az egyik érintett tulajdonostárs használatába kívánják adni.
 
-- a) olyan gazdálkodást folytat, amely súlyosan veszélyezteti az erdő fennmaradását, a fenntartható erdőgazdálkodást;
-- b) az erdőfelújítási kötelezettségének nem tesz eleget;
+(2) Erdőnek minősülő földet magában foglaló földrészlet használati megosztásáról szóló megállapodással a földrészleten található erdőnek minősülő föld tekintetében átlagosan 30 méternél keskenyebb, vagy egy hektárnál kisebb kiterjedésű földterület kialakulását eredményező használati rend nem alakítható ki.
+
+(3) Erdőnek minősülő föld használati megosztását eredményező használati rend az erdőnek minősülő földet érintően a Fétv. 71. § (3) bekezdésében foglaltak figyelembe vételével csak a tulajdonostársak egyöntetű hozzájárulása mellett módosítható.
+
+20/A. § (1) A földrészlet, vagy – használati megosztásról szóló megállapodás esetén – annak a 20. § (1) és (2) bekezdésében foglaltak szerint meghatározott részterületén található erdőnek minősülő föld (a továbbiakban: önálló erdőgazdálkodási egység) használatára, illetve használatba adására annak további területi megbontása nélkül, egységesen kerülhet sor.
+
+(2) Ha az önálló erdőgazdálkodási egység területe nem egyezik meg az érintett erdőrészletek, illetve egyéb részletek Adattárban nyilvántartott területével, akkor a földhasználati jogosultság megszerzőjének a használati jogosultság erdőgazdálkodói nyilvántartásba vétele céljából az erdészeti hatóság részére történő bejelentésekor az e törvényben foglaltak szerint kérelmeznie kell az érintett erdőrészletek, illetve egyéb részletek önálló erdőgazdálkodási egység határai mentén történő megosztását az Adattárban. A földhasználati jogosultságnak az erdőgazdálkodói nyilvántartásba való bejegyzésére csak a szükséges megosztásokat követően kerülhet sor.
+
+(3) Ha a közös tulajdonban álló önálló erdőgazdálkodási egységet a tulajdonostársak többlethasználati megállapodás vagy földhasználati szerződés útján nem adják egy személy használatába, akkor azon
+
+- a) erdőbirtokossági társulat alapításával vagy
+- b) erdőkezelésbe adás útján
+
+társult erdőgazdálkodást kötelesek folytatni.
+
+(4) A földrészleten található erdőnek minősülő föld egészére vonatkozó, a Fétv. 72. § (1) bekezdésében foglalt ajánlatban az ajánlattevő rendelkezhet arról, hogy az ajánlat részleges, de legalább a tulajdonosok tulajdoni hányad alapján számított többségének elfogadása esetén az ajánlat a földrészletnek a Fétv. 72. § (7) bekezdésében foglaltak szerint kialakított használati rendben meghatározott, az ajánlatot elfogadó tulajdonostársak által használható részterületére is vonatkozik, amennyiben addig más földhasználati szerződés nem lép hatályba.
+
+20/B. § (1) Az önálló erdőgazdálkodási egység használatának egy személy részére történő átadására az erdei haszonvételek csak egy részének gyakorlására kiterjedően is sor kerülhet. Ilyen esetben az erdészeti hatóság az erdőgazdálkodói nyilvántartásban erdőgazdálkodóként a 68. § a) pontjában foglalt erdei haszonvétel gyakorlására jogosult személyt veszi nyilvántartásba. Az önálló erdőgazdálkodási egység további használója haszonvételi joggyakorlónak minősül.
+
+(2) Erdőnek minősülő föld haszonvételi joggyakorlására vonatkozó szerződés hatályosságához az erdőgazdálkodó írásbeli hozzájárulása szükséges.
+
+(3) Az önálló erdőgazdálkodási egység használatának egy személy részére történő átadásáról szóló szerződésben a felek kiköthetik, hogy meghatározott erdei haszonvétel – a 68. § b) pontjában foglalt erdei haszonvétel kivételével – gyakorlására irányuló jogot a használatba adó a saját részére visszatart. Ha az érintett haszonvétel gyakorlására irányuló tevékenységet csak az erdőgazdálkodó végezheti, akkor azt a tulajdonos nevében és javára, illetve költségviselése mellett az erdőgazdálkodó hajtja végre.
+
+20/C. § (1) A Földforgalmi törvény 44. § (2) bekezdése szerinti termelési időszak az erdő soron következő véghasználatához kapcsolódóan keletkező erdőfelújítási kötelezettség teljesítésére vonatkozó határidő erdészeti hatóság által történő meghatározásának időpontjáig tart. Ha a felek szerződésben foglalt nyilatkozata szerint a szerződéssel érintett erdő esetében a vágásérettségi kor nem értelmezhető, vagy a szerződéssel érintett erdő egészére nézve egyöntetűen nem határozható meg, az erdőnek minősülő föld haszonbérbe adásáról szóló szerződés legfeljebb ötven évre szóló időszakra köthető.
+
+(2) Haszonbérlet esetében a szerződő felek
+
+- a) a haszonbérleti díjfizetési időszakonként egy évnél hosszabb időszakot is meghatározhatnak,
+- b) a haszonbérleti díjfizetési időszakra járó haszonbér megfizetésére a haszonbérleti díjfizetési időszak lejártát megelőző időpontot, illetve előlegfizetést is kiköthetnek,
+- c) a használat fejében az erdőgazdálkodás eredményétől függő, változó összegű ellentételezésről is megállapodhatnak.
+
+20/D. § (1) A használatba adó azonnali hatállyal felmondhatja a többlethasználati megállapodást vagy a földhasználati szerződést, ha a használó
+
+- a) olyan gazdálkodást folytat, amely súlyosan veszélyezteti az erdőnek minősülő föld fennmaradását, illetve a fenntartható erdőgazdálkodást,
+- b) az erdőfelújítási kötelezettségének nem tesz eleget, vagy
 - c) haszonvételi jogosultságát az erdészeti hatóság jogerősen korlátozta.
 
-#### 21. §
+(2) Ha az erdőgazdálkodói nyilvántartásba vétel alapjául szolgáló többlethasználati megállapodás vagy földhasználati szerződés felmondása igazoltan folyamatban van, akkor a tulajdonos vagy az érintett tulajdonostársak tulajdoni hányad alapján számított 25%-a kérelmére az erdészeti hatóság az erdőgazdálkodó haszonvételi jogosultságát átmeneti időszakra korlátozza. Az erdészeti hatóság az erdőgazdálkodó haszonvételi jogosultságának korlátozását visszavonja, ha a szerződés nem került felmondásra.
+
+(3) A 21/B. § (7) bekezdésében vagy a Fétv. 74. § (7) bekezdésében foglaltak szerint a tulajdonos javára letétbe helyezett összeget, ha annak jogosultja azért a letétbe helyezést követő ötödik naptári év végéig nem jelentkezik, az érintett erdő fenntartására, fejlesztésére kell fordítani.
+
+21. § (1) Ha az erdészeti hatóság az erdőgazdálkodói nyilvántartás adatai alapján megállapítja, hogy az erdőgazdálkodói nyilvántartásban a közös tulajdonban álló erdőnek minősülő földre 60 napot meghaladóan nincs bejegyzett erdőgazdálkodó, a jogkövetkezményekre való tájékoztatás mellett, határidő tűzésével felszólítja a tulajdonostársakat a használati megosztásról szóló megállapodás megkötésére és az annak megfelelő földhasználatnak az erdőgazdálkodói nyilvántartásba való bejelentésére.
+
+(2) Ha a (1) bekezdésben meghatározott felszólítás nem vezet eredményre, akkor az erdőnek minősülő föld az erdészeti hatóság határozata alapján erdőkezelő kezelésébe kerül (a továbbiakban: elrendelt erdőkezelés). Az elrendelt erdőkezelésre a 21/A. § (3) bekezdésében, valamint a 21/B. § (1)–(7) bekezdésében foglaltakat kell alkalmazni. Elrendelt erdőkezelés során a tulajdonos köteles együttműködni az erdőkezelővel.
+
+(3) Az erdészeti hatóság határozatával létrejött erdőkezelési jogviszony időtartama 5 év, kivéve, ha a tulajdonostársak a határozat jogerőre emelkedését követően a használati megosztásról megállapodnak, és az annak megfelelő földhasználat az erdőgazdálkodói nyilvántartásba bejegyzésre kerül. Ez esetben az erdészeti hatóság határozatával létrejött erdőkezelési jogviszony megszűnik.
+
+### Erdőkezelés
+
+21/A. § (1) Az önálló erdőgazdálkodási egység területét az érintett tulajdonos az e törvény végrehajtására kiadott jogszabályban foglalt feltételeknek megfelelő, az erdészeti hatóság által erdőkezelőként nyilvántartott erdészeti szakirányító vállalkozás (a továbbiakban: erdőkezelő) kezelésébe adása útján is hasznosíthatja (a továbbiakban: erdőkezelés).
+
+(2) Az erdőkezelésre irányuló szerződést írásba kell foglalni. Közös tulajdonban álló önálló erdőgazdálkodási egység esetén a szerződés létrejöttéhez az érintett tulajdonostársak tulajdoni hányad alapján számított többségének írásbeli döntése szükséges.
+
+(3) Erdőkezelés esetén az erdészeti hatóság az erdőgazdálkodói nyilvántartásba erdőgazdálkodóként az erdőkezelőt jegyzi be.
+
+21/B. § (1) Az erdőkezelő a tulajdonos javára, de saját nevében eljárva, a használat Földforgalmi törvényben foglaltak szerinti megszerzésével nem járó erdőgazdálkodási tevékenységet folytat, amelynek során az erdei haszonvételeket az erdőkezelő gyakorolja és jogosult az erdő hasznai szedésére. Az erdőkezelőt tevékenységéért díj illeti meg, amely magában foglalja az erdőgazdálkodási tevékenység költségei mellett az erdőkezelő közreműködésének ellenértékét is.
+
+(2) Az erdőkezelő az erdőgazdálkodási tevékenységeket a tulajdonos közreműködésével és egyetértésével határozza meg, amelynek végrehajtásában a tulajdonos közreműködhet.
+
+(3) Az erdőgazdálkodásból eredő bevételeket az erdőkezelő szedi be, amelyből a díj levonását követően keletkező jövedelmet a tulajdonos részére megfizeti.
+
+(4) Az erdőkezelő a (3) bekezdésben foglalt kifizetés során a tárgyévet követő három évben – erdőfelújítási kötelezettség keletkezése, illetve fennállása esetén az erdőfelújítás befejezetté nyilvánításáig terjedő időszakban – felmerülő költségek fedezetéül szolgáló összeget visszatarthatja.
+
+(5) A tulajdonos jogosult a részére járó jövedelmet vagy annak egy részét természetben kérni.
+
+(6) Az erdőkezelő az erdőgazdálkodási tevékenységek bevételeiről és költségeiről, valamint a tulajdonost illető és részére kiadott jövedelemről legkésőbb az elszámolási időszakot követő év június 30-ig részletes beszámolót készít.
+
+(7) Ha a tulajdonos nem érhető el, az erdőkezelő a tulajdonos részére a (3) bekezdésben foglaltak szerint járó jövedelmet készpénzben bírósági vagy közjegyzői letétbe helyezi.
+
+(8) A tulajdonos azonnali hatállyal felmondhatja az erdőkezelési szerződést, ha az erdőkezelő
+
+- a) a feladatait nem, vagy olyan módon látja el, amely súlyosan veszélyezteti az erdőnek minősülő föld fennmaradását, a fenntartható erdőgazdálkodást, vagy
+- b) a (6) bekezdés szerinti számadási kötelezettségének nem tesz eleget.
 
 ### II. Fejezet — AZ ERDŐ RENDELTETÉSE ÉS AZ ÜZEMMÓD
 
 ### Az erdő rendeltetése
 
-22. § (1) Az erdőgazdálkodás hosszú távú célját az elsődleges rendeltetés adja meg, melyet erdőrészletként kell meghatározni.
+22. § (1) A fenntartható erdőgazdálkodás hosszú távú célját, lehetőségeit, illetve korlátozásait – egymással megfelelően összehangolva – az erdő rendeltetései határozzák meg.
 
-(2) Az erdő elsődleges rendeltetése mellett további rendeltetések határozhatók meg, melyeket az erdőgazdálkodási tevékenység során az elsődleges rendeltetés mellett figyelembe kell venni.
+(2) Az erdő rendeltetéseként a
 
-(3) Az erdő rendeltetése
-
-- a) a 24. § (2) bekezdés szerinti védelmi,
-- b) 25. § szerinti közjóléti,
+- a) 24. § (2) bekezdés szerinti védelmi,
+- b) 25. § szerinti közjóléti, és
 - c) 26. § szerinti gazdasági
 
-lehet.
+rendeltetések határozhatók meg.
 
-(4) Az erdő védelmi és közjóléti rendeltetéseit az erdei életközösség adottságai, valamint a közérdekű célok együttes figyelembevételével kell meghatározni.
+23. § (1) Az erdészeti hatóság az erdő rendeltetését – a (2) és (3) bekezdésben foglaltak kivételével – az erdőgazdálkodó, annak hiányában az erdő használatára jogosult kérelmére állapítja meg.
 
-23. § Új erdő telepítésekor, az erdőtelepítő javaslatának figyelembevételével – védett természeti területen lévő erdő elsődleges rendeltetése meghatározásának kivételével – az erdőtelepítési-kivitelezési terv jóváhagyásakor az erdészeti hatóság állapítja meg az erdő rendeltetését, illetve rendeltetéseit.
+(2) Az erdészeti hatóság az erdő rendeltetését
 
-24. § (1) A természet- és környezetvédelmi, valamint egyéb védelmi szempontok megvalósítása érdekében védelmi rendeltetésű az erdő, amely különleges kezelést igényel, és ahol az erdőgazdálkodás gazdasági funkciója nem, vagy csak korlátozott mértékben érvényesül.
+- a) országos jelentőségű védett természeti terület esetén a védetté nyilvánító jogszabály alapján,
+- b) erdei génrezervátum, árvízvédelmi, vadaspark és vadaskert rendeltetés esetén a hatáskörrel rendelkező hatóság határozata alapján,
+- c) honvédelmi rendeltetés esetén a honvédelemért felelős miniszter által vezetett minisztériummal kötött vagyonkezelői szerződés alapján,
+- d) határrendészeti rendeltetés esetén a rendészetért felelős miniszter kijelölése alapján,
+- e) Natura 2000 rendeltetés esetén az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet, valamint az erdő elhelyezkedése és természetességi állapota alapján a közösségi jelentőségű és a kiemelt közösségi jelentőségű jelölő erdei élőhelyeken,
+- f) talajvédelmi rendeltetés esetén az erdő elhelyezkedése alapján
 
-(2) Védelmi rendeltetések az alábbiak:
+a b)–d) pont esetében a hatáskörrel rendelkező hatóság, illetve miniszter rendeltetést megalapozó változásról szóló tájékoztatását követően állapítja meg.
 
-- a) természetvédelmi: a védett természeti területen lévő erdő;
-- b) talajvédelmi: a meredek hegyoldalon, a sekély termőtalajon, az erodált területeken levő, valamint a víz és a szél káros hatásának kitett talajok védelmét szolgáló erdő;
-- c) mezővédő: a szomszédos mezőgazdasági terület védelmét szolgáló erdő;
-- d) honvédelmi: a Magyar Honvédségnek a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott feladatainak ellátását szolgáló erdő;
-- e) határrendészeti-nemzetbiztonsági: a határrendészeti és nemzetbiztonsági érdekeket szolgáló erdő;
-- f) vízvédelmi: a talaj vízháztartását szabályozó, a források vízbőségét és tisztaságát, a víztározóknál és egyéb víznyerőhelyeknél a víz tisztaságát, valamint a vízbázisok védelmét biztosító erdő;
-- g) partvédelmi: az árvízvédelmi töltés hullámverés és jég elleni védelmét szolgáló erdő, a csatorna, a folyó, a tó és holtág partszakaszait védő erdő;
-- h) vízgazdálkodási: az árvízi lefolyási sávban az árhullámok biztonságos levezetését biztosító erdő;
-- i) településvédelmi: a települési területet védő, valamint belterületi erdő;
-- j) tájképvédelmi: a természeti táj szépségének megőrzését vagy a tájban történt káros beavatkozás takarását szolgáló erdő;
-- k) műtárgyvédelmi: az utak és műtárgyaik, a vonalas vízi létesítmények, a vasutak és tartozékaik védelmét, takarását, a közlekedés biztonságát szolgáló, a környezeti terhelést csökkentő erdő;
-- l) erdészeti génrezervátum: az erdészeti szaporítóanyag-gazdálkodás biológiai alapjainak megőrzését szolgáló erdő;
-- m) örökségvédelmi: a történelmi emlékhely területén levő, illetve a kulturális örökség védelmét szolgáló erdő;
-- n) bányászati: a bányák biztonsági övezetében lévő, bányaszakadásos, földomlásos, földcsuszamlásos, veszélyeztetett területen lévő erdő;
-- o) Natura 2000: a Natura 2000 területeken lévő erdő;
-- p) erdészeti arborétum: olyan élőfa gyűjtemény, amely nem tartozik az arborétumokat meghatározó, az e törvény végrehajtására kiadott jogszabály hatálya alá.
-
-(3) A védett természeti területen lévő erdő természetvédelmi elsődleges rendeltetésű, amely rendeltetés a védettség fennállása alatt nem változtatható meg.
-
-(4) Védett természeti területen lévő erdő esetében a 26. § szerinti rendeltetések további rendeltetésként nem adhatóak.
-
-(5) A nem védett Natura 2000 erdők esetében a körzeti erdőterv készítése és az erdőtervek elfogadása esetén kerül megállapításra az adott erdőrészlet természetbeni állapota és a konkrét közösségi célok ismeretében, hogy a Natura 2000 erdő a meglévő elsődleges rendeltetés mellett további, vagy elsődleges rendeltetésként kerül meghatározásra.
-
-25. § Közjóléti rendeltetések az alábbiak:
-
-- a) gyógyerdő: a gyógyintézet területén, valamint annak környezetében levő erdő;
-- b) parkerdő: a sport, turisztika és üdülés céljára kijelölt erdő;
-- c) tanerdő: oktatási tevékenység célját szolgáló erdő;
-- d) kísérleti: az erdészeti kutatás, kísérlet céljára kijelölt erdő;
-- e) vadaspark: az erdőben a külön jogszabály rendelkezései szerint kialakított és elkerített terület.
-
-26. § Gazdasági rendeltetések az alábbiak:
-
-- a) faanyagtermelő: a faanyagtermelést szolgáló erdő;
-- b) szaporítóanyag-termelő: a szaporítóanyag-termelést szolgáló erdő;
-- c) vadaskert: az intenzív vadgazdálkodásra kijelölt bekerített erdő;
-- d) földalatti gomba termelő: földalatti gomba termelését szolgáló erdő.
-
-### Az erdő rendeltetésének megváltoztatása
-
-27. § (1) Az erdő rendeltetésének, illetve rendeltetéseinek megváltoztatását az erdőgazdálkodó kérelmére az erdészeti hatóság engedélyezheti, melyhez a tulajdonos, illetve közös tulajdon esetén a tulajdonostársak tulajdoni hányad alapján számított 2/3 részének hozzájárulása szükséges.
-
-(2) Az erdő rendeltetésének közérdekből történő megváltoztatását feladat- és hatáskörén belül kezdeményezheti
+(3) Az erdő rendeltetésének közérdekből történő megállapítását feladat- és hatáskörén belül
 
 - a) a miniszter,
 - b) a környezetvédelemért felelős miniszter,
@@ -511,35 +648,186 @@ lehet.
 - f) a honvédelemért felelős miniszter,
 - g) a határrendészetért felelős miniszter,
 - h) a vízügyi igazgatási szervek irányításáért felelős miniszter,
-- i) a közlekedésért felelős miniszter,
-- j) az érintett települési önkormányzat jegyzője,
-- k) a kulturális örökség védelméért felelős miniszter,
-- l) a bányászati ügyekért felelős miniszter.
+- i) a vízgazdálkodásért felelős miniszter,
+- j) a vízvédelemért felelős miniszter,
+- k) a közlekedésért felelős miniszter,
+- l) a kulturális örökség védelméért felelős miniszter, vagy
+- m) az érintett települési önkormányzat jegyzője
 
-28. § (1) Ha az erdő rendeltetésének a meghatározására, illetőleg megváltoztatására közérdekből kerül sor, az erdőgazdálkodó az ebből eredő kárának és többletköltségének megtérítésére jogosult. A kár és a többletköltség megtérítéséről a kezdeményező szerv a rendeltetés fennállása alatt köteles folyamatosan gondoskodni.
+is kezdeményezheti.
 
-(2) A kezdeményező köteles a kár és a többletköltség elemeiről, mértékéről, megfizetésének módjáról az erdőgazdálkodóval megállapodni és a megállapodást a kezdeményezéskor az erdészeti hatóság számára bemutatni.
+(4) Ha az erdő rendeltetésének a megállapítására a (3) bekezdésben foglaltak szerint közérdekből kerül sor, a rendeltetés fennállása alatt az erdőgazdálkodó az ebből eredő kárának és többletköltségének megtérítésére jogosult. A kezdeményező köteles a kár és a többletköltség elemeiről, mértékéről, megfizetésének módjáról az erdőgazdálkodóval megállapodni, és a megállapodást a rendeltetés megállapításának kezdeményezéskor az erdészeti hatóság számára bemutatni.
 
-### Az üzemmód
+(5) Fokozottan védett természeti területen található erdőnek gazdasági, valamint vadaspark további rendeltetése, honvédelmi elsődleges rendeltetésű erdőnek közjóléti, valamint tanerdő további rendeltetése nem lehet.
 
-29. § (1) Az üzemmód meghatározza az alkalmazható erdőfelújítási eljárásokat és a fakitermelés módját.
+(6) Az erdészeti hatóság törli az erdő érintett rendeltetését
 
-(2) Az üzemmód lehet:
+- a) az erdőgazdálkodó javaslatára meghatározott rendeltetés esetén az erdőgazdálkodó törlésre irányuló kérelmére,
+- b) természetvédelmi rendeltetés esetén a védettség feloldásakor,
+- c) a (2) bekezdés b)–d) pontjában foglaltak szerint meghatározott rendeltetések esetében a rendeltetést megalapozó döntés, szerződés érvényességének, illetve tény, állapot fennállásának megszűnésekor, vagy
+- d) ha a megváltozott földhasználati és természetbeni viszonyok, illetve az erdőgazdálkodás közérdekű korlátozása miatt a rendeltetés érvényesítése a továbbiakban nem lehetséges.
 
-- a) vágásos: az erdőben a véghasználatok rendszeres ciklikussággal követik egymást;
-- b) szálaló: felújítási kötelezettséget keletkeztető véghasználati fakitermelés nem történik, a faállomány fakészlete a szálalási tervben foglaltaknak megfelelően alakul, és a faállomány összetétele, kor- és térbeli szerkezete változatos, és ezzel a folyamatos erdőborítást szolgálja;
-- c) átalakító: a fő szakmai cél a vágásos üzemmódról a szálaló üzemmódra való áttérés, ezért minden erdőművelési tevékenységnek és fakitermelési módnak az átalakítást, a folyamatos erdőborításra való átállást kell szolgálnia;
-- d) faanyagtermelést nem szolgáló: az erdőben fakitermelés legfeljebb kísérleti, erdővédelmi vagy erdőfelújítási céllal folytatható, mivel ott a természeti folyamatok szabad érvényesülése a cél, ami a folyamatos erdőborítást szolgálja.
+(7) Az erdő rendeltetésének a kérelemre történő megállapításához vagy törléséhez a tulajdonos hozzájárulása szükséges.
 
-(3) Új erdő telepítésénél az üzemmódot – az erdőtelepítőnek a tulajdonos, illetve közös tulajdon esetén a tulajdonostársak tulajdoni hányad alapján számított 2/3 részének hozzájárulásával tett javaslatának ismeretében – a faállomány várható szerkezete, fafaj-összetétele és a termőhelyi viszonyok alapján erdőrészletenként az erdészeti hatóság állapítja meg az erdőtelepítési-kivitelezési terv jóváhagyásakor.
+(8) Az erdő rendeltetésének megállapításakor vagy törlésekor az erdészeti hatóság szükség esetén gondoskodik az erdő Adattárban nyilvántartott adatainak, illetve az erdőtervnek a módosításáról is.
 
-(4) Az önerdősülés az engedély nélkül vagy az engedélytől eltérően telepített, de fennmaradásra engedélyezett erdő üzemmódját a tulajdonos javaslatának ismeretében az erdészeti hatóság állapítja meg.
+23/A. § (1) A fenntartható erdőgazdálkodás tervezése szempontjából az erdő 23. §-ban foglaltak szerint megállapított rendeltetései közül a leginkább meghatározó rendeltetés az erdő elsődleges rendeltetése, amelyet az erdészeti hatóság az erdő egyéb megállapított rendeltetései, természetbeni állapota, az erdőgazdálkodás célja és közérdekű korlátozásai, valamint az erdőgazdálkodó javaslatának figyelembevételével állapít meg.
 
-(5) Az erdő üzemmódjának megváltoztatását az erdőgazdálkodónak a tulajdonos, illetve közös tulajdon esetén a tulajdonostársak tulajdoni hányad alapján számított 2/3 részének hozzájárulásával benyújtott kérelmére az erdészeti hatóság engedélyezi.
+(2) A természetvédelmi rendeltetést – a (4)–(6) bekezdésben foglalt kivétellel – az erdő elsődleges rendeltetéseként kell megállapítani.
 
-(6) Az üzemmód módosításakor az erdészeti hatóságnak mérlegelnie kell az erdei életközösségben, illetve közvetlen környezetében az üzemmódváltás hatását. Az üzemmód megváltoztatását az erdőgazdálkodó az e törvény végrehajtására kiadott jogszabályban foglaltak szerint kérelmezheti.
+(3) Kiemelt közösségi jelentőségű, jelölő erdei élőhelynek minősülő, természetes vagy természetszerű erdő természetességi állapotra vonatkozó alapelvárású erdő esetében – védett természeti terület, illetve a (4)–(6) bekezdésben foglalt kivétellel – elsődleges rendeltetésként a Natura 2000 rendeltetést kell megállapítani.
 
-(7) Az átalakító és szálaló üzemmódban kezelt erdőkre az e törvény végrehajtására kiadott jogszabály szerint átalakítási vagy szálalási tervet kell készíteni, melyet az erdészeti hatóság határozatban hagy jóvá.
+(4) Az Országos Területrendezési Tervről szóló törvényben foglaltak alapján különleges honvédelmi területként kijelölt területen lévő erdő esetében az erdő elsődleges rendeltetéseként – az (5) és (6) bekezdésben foglalt kivétellel – a honvédelemért felelős miniszter kezdeményezésére a honvédelmi rendeltetést kell megállapítani.
+
+(5) Folyók nagyvízi medrének elsődleges és másodlagos levezető sávjába eső erdő esetében az erdő elsődleges rendeltetéseként a vízügyi igazgatási szerv kezdeményezésére az árvízvédelmi rendeltetést kell megállapítani.
+
+(6) Folyók nagyvízi medrének átmeneti levezető sávjába eső erdő esetében az árvízvédelmi rendeltetés a vízügyi igazgatási szerv kezdeményezésére az árvizek levezetésében betöltött szerepétől, illetve az erdő egyéb közérdekű funkcióitól függően az erdő elsődleges rendeltetéseként is megállapítható.
+
+24. § (1)
+
+(2) Védelmi rendeltetések az alábbiak:
+
+- a) természetvédelmi: a védett természeti területen lévő erdő;
+- b) talajvédelmi: a meredek hegyoldalon, a sekély termőtalajon, az erodált területeken levő, valamint a víz és a szél káros hatásának kitett talajok védelmét szolgáló erdő;
+- c)
+- d)
+- e)
+- f) vízvédelmi: a talaj vízháztartását szabályozó, a források vízbőségét és tisztaságát, a víztározóknál és egyéb víznyerőhelyeknél a víz tisztaságát, valamint a vízbázisok védelmét biztosító erdő;
+- g) part- vagy töltésvédelmi: csatorna, folyó, tó és holtág partszakaszait védő, illetve az árvízvédelmi töltés hullámverés és jég elleni védelmét szolgáló erdő;
+- h)
+- i) településvédelmi: a települési területet védő erdő;
+- j) tájképvédelmi: a természeti táj szépségének megőrzését vagy a tájban történt káros beavatkozás takarását szolgáló erdő;
+- k) műtárgyvédelmi: az utak és műtárgyai, a vízi létesítmények, a vasutak és tartozékai védelmét, takarását, a közlekedés biztonságát szolgáló, környezeti terhelésének csökkentését szolgáló erdő;
+- l)
+- m) örökségvédelmi: a történelmi emlékhely területén levő, illetve a kulturális örökség védelmét szolgáló erdő;
+- n) bányászati: a bányák biztonsági övezetében lévő, bányaszakadásos, földomlásos, földcsuszamlásos, veszélyeztetett területen lévő erdő;
+- o) Natura 2000: a Natura 2000 hálózat részeként kijelölt területeken lévő, közösségi jelentőségű vagy kiemelt közösségi jelentőségű, jelölő erdei élőhelynek minősülő, és a 7. § (1) bekezdés a)–b) pontjában foglalt természetességi állapotú erdő;
+- p) különleges védelmi rendeltetések:
+  - pa) árvízvédelmi: a folyók nagyvízi medrében elhelyezkedő, az árhullámok biztonságos levezetését biztosító erdő;
+  - pb) honvédelmi: a Magyar Honvédség szervezeteinek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben (a továbbiakban: Hvt.) meghatározott feladatai ellátására a Hvt. 42. § (1) bekezdésében foglaltak szerint rendelkezésre bocsátott erdő;
+  - pc) határrendészeti: a határrendészeti és nemzetbiztonsági feladatok ellátására kijelölt erdő.
+
+(3)–(5)
+
+25. § Közjóléti rendeltetések az alábbiak:
+
+- a)
+- b) parkerdő: a sport, turisztika és üdülés céljára kijelölt erdő;
+- c)
+- d)
+- e) vadaspark: az erdőben a külön jogszabály rendelkezései szerint kialakított és elkerített terület.
+
+26. § Gazdasági rendeltetések az alábbiak:
+
+- a) faanyagtermelő: a faanyagtermelést szolgáló erdő;
+- b) szaporítóanyag-termelő: a szaporítóanyag-termelést szolgáló erdő;
+- c) vadaskert: az intenzív vadgazdálkodásra kijelölt bekerített erdő;
+- d) földalatti gomba termelő: földalatti gomba termelését szolgáló erdő;
+- e) mezővédő: a szomszédos mezőgazdasági terület védelmét szolgáló erdő;
+- f) tanerdő: a szakmai vagy erdei iskolai oktatást szolgáló erdő;
+- g) kísérleti: az erdészeti kutatás vagy kísérlet céljára kijelölt erdő;
+- h) erdészeti génrezervátum: az erdészeti szaporítóanyag-gazdálkodás biológiai alapjainak megőrzését szolgáló erdő.
+
+### Az erdő egyes rendeltetéséhez, közérdekű funkciójához kapcsolódó különös erdőgazdálkodási szabályok
+
+27. § (1) Természetvédelmi rendeltetésű, a 7. § (1) bekezdés a) és b) pontja szerinti természetességi állapotú erdőben
+
+- a) az erdészeti hatóság a véghasználatok során a természetvédelmi hatóság kezdeményezésére természetvédelmi célból a véghasználattal érintett terület legfeljebb 5 százalékos mértékéig hagyásfák vagy hagyásfa csoportok végleges vagy meghatározott időszakra szóló – több erdőrészlet véghasználata esetében lehetőség szerint összevont – visszahagyását írhatja elő;
+- b) nevelővágások, bontás jellegű véghasználatok és egészségügyi termelések során, továbbá a hagyásfa csoportok területén – amennyiben az erdővédelmi kockázatot nem eredményez – a természetes úton megjelenő holt faanyagból a fennálló védelmi céltól függő méretű, összetételű és elhelyezkedésű, hektáronként együttesen 5 köbméter mennyiségű álló és fekvő holt faanyagot kell visszahagyni a területen;
+- c) az erdőnevelések tervezése és végrehajtása során fokozott figyelmet kell fordítani az intenzíven terjedő fa- és cserjefajok visszaszorítására, az elegyesség fenntartására, a faállomány szerkezeti változatosságának növelésére, valamint a meglévő idős, böhöncös faegyedek, az őshonos cserjeszint és az erdőszegély megőrzésére.
+
+(2) Természetvédelmi rendeltetésű, a 7. § (1) bekezdés c) pontja szerinti természetességi állapotú erdőben az erdő felújítását és nevelését az erdő természetességi állapotának javítására törekedve kell végrehajtani.
+
+(3) Ha meghatározott erdőgazdálkodási tevékenység védett természeti területen történő végzésére e törvény vagy e törvény végrehajtására kiadott jogszabály természetvédelmi célból korlátozási időszakot határoz meg úgy, hogy a tevékenység korlátozási időszakban történő folytatását nem köti a Tvt. 33. § (4) bekezdése szerinti természetvédelmi hatósági engedélyhez, akkor a tevékenységet a korlátozási időszakban csak természetvédelmi kezelési, növényegészségügyi, vagy erdővédelmi okból, annak megkezdése előtt 15 nappal az erdészeti hatóság részére tett előzetes bejelentést követően lehet végezni.
+
+(4) Ha e törvény végrehajtására kiadott rendelet eltérően nem rendelkezik, az erdőgazdálkodás természetvédelmi célú időbeli korlátozására természetvédelmi rendeltetésű, a 7. § (1) bekezdés a)–d) pontjában foglalt természetességi állapotú erdő esetében és április 1-től július 15-ig terjedő időszakban kerülhet sor.
+
+28. § (1) Natura 2000 rendeltetésű, a 7. § (1) bekezdés a) és b) pontja szerinti természetességi állapotú erdőben
+
+- a) az erdészeti hatóság a véghasználatok során a természetvédelmi hatóság kezdeményezésére természetvédelmi célból a véghasználattal érintett terület legfeljebb 5 százalékos mértékéig hagyásfák vagy hagyásfa csoportok végleges vagy meghatározott időszakra szóló – több erdőrészlet véghasználata esetében lehetőség szerint összevont – visszahagyását írhatja elő;
+- b) nevelővágások, bontás jellegű véghasználatok és egészségügyi termelések során, továbbá a hagyásfa csoportok területén – amennyiben az erdővédelmi kockázatot nem eredményez – a természetes úton megjelenő holt faanyagból a fennálló védelmi céltól függő méretű, összetételű és elhelyezkedésű, hektáronként együttesen 5 köbméter mennyiségű álló és fekvő holt faanyagot kell visszahagyni a területen;
+- c) az erdőnevelések tervezése és végrehajtása során fokozott figyelmet kell fordítani az intenzíven terjedő fa- és cserjefajok visszaszorítására, az elegyesség fenntartására, a faállomány szerkezeti változatosságának növelésére, valamint a meglévő idős, böhöncös faegyedek, az őshonos cserjeszint és az erdőszegély megőrzésére.
+
+(2) Ha e törvény végrehajtására kiadott rendelet eltérően nem rendelkezik, az erdőgazdálkodás természetvédelmi célú időbeli korlátozására Natura 2000 területen lévő, a 7. § (1) bekezdés a)–d) pontjában foglalt természetességi állapotú erdő esetében és április 1-től július 15-ig terjedő időszakban kerülhet sor.
+
+28/A. § (1) Az erdészeti hatóság a természetvédelmi hatóság kezdeményezésére
+
+- a) természetvédelmi rendeltetésű erdőben a természetvédelmi kezelési tervben foglaltakkal, valamint a védetté nyilvánítás céljával összhangban természetvédelmi célból,
+- b) Natura 2000 rendeltetésű erdőben a kiemelt közösségi jelentőségű jelölő erdei élőhely kedvező természetvédelmi helyzetének fenntartása érdekében,
+- c) Natura 2000 területen kiemelt közösségi jelentőségű jelölő faj kedvező természetvédelmi helyzetének megőrzése érdekében a faj monitorozott adatok alapján megállapított jelentős állományának Adattárban rögzített elhelyezkedésű élőhelyeként szolgáló erdőben, a fakitermelés teljes korlátozására vonatkozóan a faj előfordulásának legfeljebb 50 méter, az erdőgazdálkodási tevékenység időbeli korlátozására vonatkozóan a faj előfordulásának legfeljebb 100 méter sugarú környezetében, valamint
+- d) fokozottan védett faj megőrzése, védelme érdekében a faj bizonyítottan előforduló és populáció kialakítására képes állományának Adattárban rögzített elhelyezkedésű élőhelyeként szolgáló erdőben, a fakitermelés teljes korlátozására vonatkozóan a faj előfordulásának legfeljebb 50 méter, az erdőgazdálkodási tevékenység időbeli korlátozására vonatkozóan a faj előfordulásának legfeljebb 100 méter sugarú környezetében,
+
+az e törvény végrehajtására kiadott jogszabályban foglaltak szerint a 27. §-ban, illetve a 28. §-ban foglaltakat meghaladóan is korlátozhatja, illetve feltételekhez kötheti az erdőgazdálkodást.
+
+(2) A korlátozást megalapozó állapot megszűnése esetén az erdészeti hatóság az (1) bekezdésben foglalt korlátozást visszavonja.
+
+(3) Az erdőgazdálkodás 27. §-ban, 28. §-ban, vagy (1) bekezdésben foglaltakat meghaladó korlátozására az erdőgazdálkodóval való megállapodás alapján kerülhet sor.
+
+(4) Helyi jelentőségű védett természeti terület esetében az erdészeti hatóság az érintett település jegyzőjének kezdeményezésére természetvédelmi célból az erdőgazdálkodási tevékenységet csak a természetvédelmi rendeltetés 23. § (3) bekezdésében foglaltak szerinti megállapítását követően korlátozza.
+
+(5) A Natura 2000 rendeltetésű erdőben található jelölő erdei élőhelyek és fajok természetvédelmi helyzetének javítását az állam tájékoztatással, szemléletformálással és támogatással segíti elő.
+
+28/B. § Árvízvédelmi rendeltetésű erdőben az erdő további rendeltetéseivel, valamint a nagyvízi mederkezelési tervben foglalt előírásokkal összhangban, az árvíz és jég megfelelő lefolyásának biztosítása érdekében
+
+- a) vágásos üzemmódú erdőgazdálkodás folytatható,
+- b) az adott termőhelynek megfelelő természetes erdőtársulástól eltérő fafajösszetételű, szerkezetű és záródású faállományt alakítható ki, és tartható fenn, továbbá
+- c) a fák várható árvízszint alatti ágait, a természetesen megjelenő erdőszegély, valamint cserjeszint a rendes gazdálkodás részeként eltávolítható.
+
+28/C. § Part- vagy töltésvédelmi rendeltetésű erdőben az erdő további rendeltetéseivel, valamint a nagyvízi mederkezelési tervben foglalt előírásokkal összhangban, a partszakasz vagy az árvízvédelmi töltés védelmének biztosítása érdekében
+
+- a) őshonos, természetes felújulásra nagy egyedszámmal képes fafajokból álló, több szintű, zárt faállomány kialakítására és fenntartására kell törekedni,
+- b) a partszakasszal vagy a töltéssel párhuzamos, legfeljebb 50 méter széles sávban a faállományt alkotó faegyedek vízjárásnak megfelelő magasságban történő elágaztatása, illetve a fakorona sűrű ágszerkezetének kialakítása céljából a faegyedek törzse meghatározott időközönként visszavágható, valamint
+- c) a véghasználattal érintett terület és a töltés mellett szabadon tartandó sáv között az erdőfelújítás befejezéséig a partszakasszal vagy a töltéssel párhuzamos 10 méter széles sávban előírható a faállomány fenntartása.
+
+28/D. § Honvédelmi rendeltetésű erdőben az erdő további rendeltetéseivel, az erdő természetességi állapotával, valamint az erdőgazdálkodás üzemmódjával összhangban lévő erdőgazdálkodási, illetve erdőfenntartási tevékenység mellett a katonai tevékenységhez kapcsolódóan, továbbá a katonai tevékenység ellátását biztosító létesítmények környezetében
+
+- a) az erdészeti hatóság
+  - aa) engedélyezheti az erdő fátlan állapotban tartását,
+  - ab) engedélyezheti az erdőfelújítás katonai tevékenységre, illetve katonai tevékenység ellátását biztosító létesítményekre kisebb kockázattal járó fafajok alkalmazásával történő végrehajtását, illetve
+  - ac) módosíthatja az erdőfelújítás megkezdésére vagy befejezésére előírt határidőt, továbbá
+- b) az erdőgazdálkodó
+  - ba) a természetestől eltérő záródású és szerkezetű faállományt alakíthat ki, és tarthat fenn,
+  - bb) az erdőszegélyt, az erdő cserjeszintjét valamint lágyszárú növényzetét átmeneti időszakra vagy tartósan eltávolíthatja, illetve
+- c) az erdőgazdálkodó vagy a honvédelmi feladat végrehajtója legkésőbb a tevékenység megkezdését követő 3 napon belül tett utólagos bejelentés mellett az erdőtervben nem szereplő, rendkívüli fakitermelést végezhet.
+
+### Az erdőgazdálkodás jelentős közérdekű korlátozása
+
+28/E. § (1) Az állam, valamint az önkormányzat 100%-os tulajdonában nem álló erdőben az erdőgazdálkodás (2) bekezdés a)–c) pontban foglalt jelentős közérdekű korlátozása esetén a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, annak hiányában az erdő használatára jogosult – a (2) bekezdés c) pontjában foglalt esetben a véghasználat megkezdése előtt – kezdeményezheti az erdő adásvétel vagy értékarányos földcsere útján történő állami tulajdonba vételét. A helyben kialakult piaci árat meg nem haladó ajánlati áron való állami tulajdonba vételt az állam 100%-os tulajdonában lévő földek tulajdonosi joggyakorlására jogosult szerv nem utasíthatja vissza.
+
+(2) Az erdőgazdálkodás jelentős közérdekű korlátozásának minősül, ha
+
+- a) faanyagtermelést nem szolgáló üzemmód megállapítására,
+- b) fafajcserés erdőszerkezet-átalakítást eredményező erdőfelújítási előírás kizárólagos meghatározására,
+- c) erdő fátlan vagy a termőhelyi viszonyoknak megfelelőnél alacsonyabb záródással való fenntartásának előírására,
+- d) csak átmeneti, illetve örökerdő üzemmódra való áttéréssel teljesíthető korlátozásra,
+- e) a 7. § (1) bekezdés a)–d) pontjában foglalt természetességi állapotú erdőben az e törvény végrehajtására kiadott jogszabályban meghatározottnál magasabb vágásérettségi kor meghatározására,
+- f) fokozatos felújítóvágás, szálalóvágás esetén – amennyiben a területen fél méter átlagmagasságot elérő újulat található, és a véghasználat befejezését e törvény egyébként lehetővé teszi – a véghasználat befejezésének korlátozására,
+- g) az erdőgazdálkodási tevékenység gyakorlásának bármely okból öt évnél hosszabb időtartamra vonatkozó korlátozására
+
+közérdekből, nem az erdőgazdálkodó kezdeményezésére vagy egyetértésével kerül sor.
+
+### Az erdőgazdálkodás üzemmódja
+
+29. § (1) Az erdőgazdálkodás üzemmódja az erdő faállományával való gazdálkodás során – az erdő természetességi állapotra vonatkozó alapelvárásával, rendeltetéseivel, valamint az erdőgazdálkodás korlátozásaival összhangban – alkalmazandó erdőművelési és faállomány-gazdálkodási módszerek és eljárások átfogó rendszere.
+
+(2) Az erdőgazdálkodás üzemmódja lehet:
+
+- a) vágásos üzemmód: az erdőgazdálkodás során az erdőben közel egykorú faállomány fenntartása és nevelése valósul meg, amely faállomány térben és időben rendszeres ciklikussággal véghasználatra és erdőfelújításra kerül;
+- b) örökerdő üzemmód: az erdőgazdálkodás során az erdőben erdőfelújítási kötelezettséget keletkeztető véghasználati fakitermelés nem történik, az erdő faállománya az örökerdő fenntartási tervben foglaltaknak megfelelően alakul, annak összetétele, kor- és térbeli szerkezete változatos, és ezzel megvalósul a folyamatos erdőborítás;
+- c) átmeneti üzemmód: az erdőgazdálkodás fő célja a vágásos üzemmódról az örökerdő üzemmódra való áttérés, vagy a homogén, közel egykorú faállományok kisterületű szerkezeti változatosságának a növelésével az erdőborítás vágásos üzemmódú erdőgazdálkodáshoz képest folyamatosabb fenntartása a (3) bekezdésben, valamint az átalakítási, illetve erdőfelújítási tervben foglaltakkal összhangban;
+- d) faanyagtermelést nem szolgáló üzemmód: az erdőgazdálkodás során faállomány-gazdálkodásra nem kerül sor, az erdőben fakitermelés kísérleti, erdővédelmi, természetvédelmi, közjóléti, erdőfelújítási vagy egyéb közérdekű céllal folytatható.
+
+(3) Átmeneti üzemmód esetében az erdőfelújítási időszak lehetséges elhúzása érdekében a véghasználati és erdőfelújítási tevékenységek térben, illetve időben több ütemben kerülnek végrehajtásra, az erdőben az átalakítási vagy erdőfelújítási tervben foglaltak szerint legfeljebb 1,5 hektáros egybefüggő, erdőfelújítási kötelezettség alatt álló, végvágott területeket keletkeztető véghasználatokra kerül sor, és e tevékenységek végrehajtása során kiemelt szempont az erdő felújulásának vagy felújításának folyamatos biztosítása.
+
+(4) Az erdőgazdálkodás üzemmódját az erdészeti hatóság az (1) bekezdésben foglaltakkal összhangban az erdő Adattárba történő nyilvántartásba vételekor az erdőgazdálkodó erdőtelepítési tervben foglalt, vagy a nyilvántartásba-vételi eljárásban tett javaslata alapján állapítja meg, illetve az erdőgazdálkodó kérelmére módosítja. A 6. § (2) bekezdés a) pontjában foglaltak szerint nyilvántartásba vett erdőre vonatkozóan az erdészeti hatóság az erdőgazdálkodás üzemmódjaként az erdőgazdálkodó javaslatának hiányában vágásos üzemmódot állapít meg.
+
+(5) Az erdészeti hatóság a (4) bekezdésben foglalt eljárásban örökerdő, illetve átmeneti üzemmód lehetőségének fennállása esetén annak alkalmazására – különösen a védelmi és közjóléti rendeltetésű erdők esetében – felhívja az erdőgazdálkodó figyelmét.
+
+(6) Az erdőgazdálkodás üzemmódjának az erdőgazdálkodó kérelmére történő módosításához a tulajdonos hozzájárulása szükséges.
+
+(7) Az átmeneti és az örökerdő üzemmódban kezelt erdőkre az erdőgazdálkodónak az üzemmódra való áttéréskor, valamint azt követően a körzeti erdőtervezések alkalmával átalakítási, erdőfelújítási vagy örökerdő kezelési tervet kell készíteni, és tájékoztatásul az erdészeti hatóság részére benyújtani.
+
+(8) Az erdőgazdálkodás üzemmódjának módosításakor az erdészeti hatóság – a (7) bekezdésben foglalt tervben foglaltak figyelembevételével – szükség esetén gondoskodik az erdőterv módosításáról is.
 
 ### III. Fejezet — AZ ERDŐGAZDÁLKODÁS TERVSZERŰSÉGE
 
@@ -547,213 +835,188 @@ lehet.
 
 ### Az erdőgazdálkodás tervszerűsége
 
-30. § (1) Az erdővagyon védelmét, a fenntartható erdőgazdálkodási tevékenység tervszerűségét az állam
+30. § (1) Az erdővagyon védelmét, az erdők állapotának figyelemmel kísérését, fenntartását, rendeltetései betöltését, szolgáltatásai, haszonvételi lehetőségei folyamatos biztosítását, az erdőhöz fűződő közérdek érvényesülését, valamint a fenntartható erdőgazdálkodási tevékenység tervszerűségét az állam
 
-- a) a körzeti erdőgazdálkodási és tervezési szabályokról szóló miniszteri rendelet kiadásával (a továbbiakban: erdőtervrendelet),
-- b) a hosszú távra – legalább tíz évre – szóló körzeti erdőterv készítésével (a továbbiakban: körzeti erdőterv),
-- c) az Adattár működtetésével és az abban foglalt egyes adatok kötelező felhasználásával, valamint
-- d) az erdőtervvel és az erdőgazdálkodási tevékenység bejelentési-engedélyezési rendszerével biztosítja.
+- a) az erdők, valamint a fával, faállománnyal borított területek mennyiségi és minőségi paramétereinek, ökológiai és egészségi állapotának folyamatos figyelemmel kísérésével (a továbbiakban: erdészeti mérő- és megfigyelő rendszer);
+- b) az erdészeti tájakra vonatkozó különös erdőgazdálkodási és körzeti erdőtervezési szabályokról szóló miniszteri rendelet kiadásával,
+- c) az erdők állapotának és a fenntartható erdőgazdálkodás tartalmi kereteinek erdőtervezési körzet szintű rendszeres felülvizsgálatával, illetve erdőrészlet szintű meghatározásával (a továbbiakban: körzeti erdőtervezés),
+- d) az Adattár működtetésével és az abban foglalt egyes adatok kötelező felhasználásával, valamint
+- e) az erdőgazdálkodási tevékenység engedélyezési, bejelentési és ellenőrzési rendszerével
 
-(2) E törvényben, valamint a külön jogszabályokban foglaltak alapján a miniszter a természetvédelemért felelős miniszterrel egyetértésben köteles gondoskodni a körzeti erdőterv és a körzeti vadgazdálkodási terv összhangjának megteremtéséről.
+biztosítja.
 
-### A körzeti erdőgazdálkodás
+(2) E törvényben, valamint a külön jogszabályokban foglaltak alapján a miniszter a természetvédelemért felelős miniszterrel egyetértésben köteles gondoskodni a körzeti erdőtervezés és a körzeti vadgazdálkodási tervezés összhangjának megteremtéséről.
 
-31. § (1) Az egyes körzetekre vonatkozó tervezési alapelveket, az erdei haszonvételek lehetséges felső határát jelentő keretszámokat, a körzetben tervezett erdőszerkezet-átalakítások ütemét és mértékét, a körzetre jellemző általános előírásokat, valamint az állami tulajdonban lévő és a nem gazdasági rendeltetésű erdőkre vonatkozó szabályokat a miniszter az erdőtervrendeletben állapítja meg.
+#### 31–32. §
 
-(2) Az erdőtervrendelet előírásai az előző erdőtervi időszak erdőgazdálkodásának hatósági értékelésén, az Adattár adatai alapján a körzetre vonatkozó átfogó hozamvizsgálaton, és a körzet területére vonatkozó természetvédelmi kezelési és egyéb tervek előírásain alapulnak.
+### A körzeti erdőtervezés, erdőterv
 
-32. § (1) Az erdőtervrendeletben foglalt tervezési alapelvekre és előírásokra vonatkozó javaslatot az erdészeti hatóság állítja össze. A javaslat kötelező tartalmi elemei különösen az erdei haszonvételek felső határának keretszámai a véghasználati módok szerint még tervezhető legnagyobb terület, az előhasználatok mértéke; védett természeti terület esetében az erdőszerkezet-átalakítás üteme és mértéke, az egyes faállománytípus-csoportok vágásérettségi szakaszai, valamint a vegetációs időszakra vonatkozó előírások.
+33. § (1) Az erdészeti hatóság az erdőtervezési körzetre vonatkozóan – az e törvény végrehajtására kiadott jogszabályban foglalt ütemezés szerint tízévenként – körzeti erdőtervezést végez, amelynek során
 
-(2) A körzet szerint illetékes erdészeti hatóság a javaslat kidolgozása során az érintett erdőgazdálkodók, a hatáskörrel és illetékességgel rendelkező, az e törvény végrehajtására kiadott jogszabályban meghatározott hatóságok (e § alkalmazásában a továbbiakban: hatóságok), a védett természeti területek természetvédelmi kezeléséért felelős szerv, a körzet területén található helyi önkormányzatok, az erdészeti vagy természetvédelmi célra alakult civil szervezetek bevonásával egyeztető tárgyalást tart.
+- a) igazgatási tevékenység keretében
+  - aa) felülvizsgálja az erdők állapotát, és
+  - ab) összegyűjti – örökerdő és átmeneti üzemmód esetén örökerdő-, átalakítási- vagy erdőfelújítási terv részeként – az erdőgazdálkodók következő időszak erdőgazdálkodására vonatkozó javaslatait, valamint
+- b) az a) pontban foglaltak szerint összegyűjtött adatok és javaslatok alapján összevont hatósági eljárásban (a továbbiakban: körzeti erdőtervezési eljárás)
+  - ba) szükség esetén javítja az Adattár 38. § (2) bekezdésének a), b) és d) pontjában foglalt adatait,
+  - bb) szükség esetén módosítja az erdő faállományának vágásérettségi korát, és
+  - bc) az erdő természetbeni állapotával, valamint a 38. § (2) bekezdés e) pontjában foglalt adatokkal összhangban meghatározza a következő körzeti erdőtervezésig terjedő időszakban végrehajtható, illetve végrehajtandó fakitermelések, erdőnevelési beavatkozások módját, és a végrehajtásukra vonatkozó rendelkezéseket, valamint az erdőfelújítási kötelezettségre vonatkozó lehetőségeket, illetve előírásokat (a továbbiakban: erdőterv).
 
-(3) Az egyeztető tárgyalásról az érintett erdőgazdálkodókat, hatóságokat, a védett természeti területek természetvédelmi kezeléséért felelős szervet, önkormányzatokat értesíteni kell, továbbá annak tárgyáról, időpontjáról és helyszínéről hirdetményi úton is tájékoztatást kell adni az érintett önkormányzatok hirdetőtábláján.
+(2) A körzeti erdőtervezési eljárás ügyintézési határideje kilencven nap. Az erdészeti hatóság a körzeti erdőtervezési eljárást a tárgyévben szeptember 1. és november 30. közötti időszakban indítja meg. Az erdészeti hatóság az eljárás megindításáról a honlapján közleményt helyez el, valamint értesíti az erdőterület elhelyezkedése szerinti települési önkormányzat jegyzőjét, aki gondoskodik az eljárás megindításáról szóló tájékoztatás helyben szokásos módon történő közzétételéről.
 
-(4) Az egyeztető tárgyaláson résztvevők erdei életközösséggel, annak fenntartható használatával, védelmével kapcsolatos javaslatait, amennyiben nem ütköznek jogszabályba, továbbá nem akadályozzák a fenntartható erdőgazdálkodást, az erdészeti hatóság beépíti a javaslatba.
+(3) A körzeti erdőtervezési eljárásban az érintett erdő erdőgazdálkodója – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 15. § (1) bekezdésében foglaltak külön vizsgálata nélkül – ügyfélnek minősül.
 
-(5) Az erdészeti hatóság a javaslatot felterjeszti a miniszternek.
+(4) Az erdészeti hatóság a körzeti erdőtervezési eljárásban hozott határozat rendelkező részét és indokolásának kivonatát a honlapján közzéteszi, valamint értesíti az erdőterület elhelyezkedése szerinti települési önkormányzat jegyzőjét, aki gondoskodik a határozatról szóló tájékoztatás, valamint a határozat honlapon való elérhetőségének helyben szokásos módon történő közzétételéről.
 
-(6) A felterjesztésnek tartalmaznia kell az egyeztetések tényét, időpontját, az egyeztetés ellenére fennmaradt véleményeltérést, a képviselt álláspontokat és azok indokait.
+(5) Az erdészeti hatóság a körzeti erdőtervezési eljárásban hozott döntését
 
-### A körzeti erdőterv
+- a) az erdőgazdálkodó ügyfél, illetve az eljárás során nyilatkozatot tett tulajdonos ügyfél részére a határozatnak az ügyfél erdőgazdálkodási tevékenységével vagy tulajdonával érintett erdőkre vonatkozó részének megküldésével,
+- b) az a) pontba nem tartozó, az eljárás során nyilatkozatot tett ügyfelek részére a döntés rendelkező része és indoklása kivonatának megküldésével
 
-33. § (1) A körzeti erdőterv az erdőtervrendeletben meghatározott keretek között és szabályok szerint az erdő rendeltetésének betöltését, folyamatos fenntartását, szolgáltatásainak, haszonvételeinek, hozadékának biztosítását, az erdőhöz fűződő közérdek érvényesülését szolgáló adatállomány, és gazdálkodási javaslatokat tartalmazó iránymutatás, amely a fenntartható erdőgazdálkodás feltételeit a közérdeknek leginkább megfelelő módon biztosítja.
+közli.
 
-(2) A körzeti erdőterv tartalmazza az adott körzetre vonatkozóan
+(6) Az erdészeti hatóság az erdőgazdálkodó ügyfelek részére – a döntés közlése mellett – megküldi az érintett erdő- és egyéb részletek Adattárban nyilvántartott térképi és leíró adatait tartalmazó szemlemásolatokat is.
 
-- a) a tervezés alá vont területek ingatlan-nyilvántartási helyrajzi számát és területét,
-- b) az erdőtagok, az erdő- és egyéb részletek erdőgazdasági azonosítóját, területét, rendeltetéseit és üzemmódját,
-- c) az erdőrészletek termőhelyi viszonyainak és az erdőállományok jellemző adatainak leírását,
-- d) erdőrészletenként a 7. § (1) bekezdés szerinti természetességi állapotot,
-- e) erdőrészletenként az erdő rendeltetésének vagy rendeltetéseinek és üzemmódjának megfelelően javasolt erdőfelújítási feladatokat,
-- f) erdőrészletenként az erdei haszonvételek javasolt mértékét, gyakorlásának módját,
-- g) az erdőgazdálkodási tevékenységgel összefüggő átfogó adatokat,
-- h) az erdészeti nyilvántartási térképeket,
-- i) a védett természeti területen a védelemhez, illetve a Natura 2000 területeken a közösségi és kiemelt jelentőségű élőhelyek és fajok kedvező természetvédelmi helyzetének megőrzéséhez szükséges javaslatokat.
+(7) Az erdőtervben foglalt jogok és kötelezettségek az erdő mindenkori erdőgazdálkodóját jogosítják és kötelezik.
 
-34. § (1) A körzeti erdőtervet az erdészeti hatóság készíti el.
+(8) Az erdészeti hatóság a körzeti erdőtervezésre vonatkozó rendelkezésekkel összhangban
 
-(2) A körzeti erdőterv készítése során
+- a) ha az erdő rendeltetésében, üzemmódjában, állapotában bekövetkezett, a körzeti erdőtervezéskor előre nem látott változás ezt indokolja, hivatalból indított eljárás során, vagy
+- b) az erdőgazdálkodó kérelmére
 
-- a) az erdőfelújítási feladatok meghatározásánál előnyben kell részesíteni a természetes és természetszerű erdők megőrzését és fenntartását;
-- b) az erdőnevelési feladatok meghatározásánál gondoskodni kell a természetes elegyfajok megőrzéséről;
-- c) az alkalmas termőhelyeken – különösen a védelmi és közjóléti rendeltetésű erdőkben – fel kell hívni az erdőgazdálkodó figyelmét a folyamatos erdőborítást biztosító, szálaló, illetve átalakító üzemmód alkalmazásának lehetőségére.
+módosíthatja az erdőtervet.
 
-35. § (1) A körzeti erdőtervezés megkezdésének időpontjáról, lefolyásáról az érintett erdőgazdálkodókat, az e törvény végrehajtására kiadott jogszabályban meghatározott hatóságokat (e § alkalmazásában a továbbiakban: hatóságok), a védett természeti területek természetvédelmi kezeléséért felelős szervet, a körzet területén található helyi önkormányzatokat értesíteni kell, és arról hirdetményi úton is tájékoztatást kell adni.
+(9) Az erdőterv véghasználati fakitermelést eredményező, illetve az erdőfelújítás előírást érintő módosítására az erdőgazdálkodó kezdeményezése esetén a tulajdonos hozzájárulása mellett kerülhet sor.
 
-(2) Az érintett erdőgazdálkodók, hatóságok, a védett természeti területek természetvédelmi kezeléséért felelős szerv, a körzet területén található helyi önkormányzatok, az erdészeti vagy természetvédelmi célra alakult civil szervezetek a körzeti erdőtervezés megkezdésétől számított 45 napig az erdőgazdálkodással kapcsolatos írásos javaslatokat tehetnek.
+#### 34–36. §
 
-(3) A terepi felvételezést követően az erdészeti hatóság erdőrészlet szintű tárgyalást tart, amelyen az erdőgazdálkodó, az érintett hatóságok, a védett természeti területek természetvédelmi kezeléséért felelős szerv vehet részt.
-
-(4) Az erdőrészlet szintű tárgyalások lezárását követően a körzet egészére vagy annak egy részére vonatkozóan az erdészeti hatóság a (2) bekezdés szerinti javaslatot benyújtók, valamint a lakosság bevonásával egyeztető tárgyalást tart. Az erdészeti hatóság az egyeztető tárgyaláson tájékoztatást ad a körzet vagy körzetrész természetbeni állapotáról, a következő időszak erdőgazdálkodási lehetőségeiről és korlátairól, valamint meghallgatja és mérlegeli az ezzel kapcsolatban elhangzott észrevételeket, véleményeket.
-
-(5) A körzeti erdőtervezés befejezésekor az erdészeti hatóság záró tárgyalást tart. A záró tárgyalásról az érintett erdőgazdálkodókat, hatóságokat, a körzet területén található helyi önkormányzatokat, a védett természeti területek természetvédelmi kezeléséért felelős szervet értesíteni kell.
-
-36. § (1) Az erdőgazdálkodás fenntarthatóságának folyamatos biztosítása érdekében az erdészeti hatóság a körzeti erdőterv készítésekor az adott körzetre vonatkozó hozamvizsgálatot végez.
-
-(2) A körzeti erdőterv készítésekor végzett hozamvizsgálat eredményétől függően az e törvény végrehajtására kiadott jogszabályban meghatározott esetben az erdészeti hatóság a fahasználati lehetőségek korlátozását – elsősorban az állami területeken – rendelheti el.
-
-### Közjóléti erdőtervezés és nyilvántartás
-
-37. § (1) Erdőben és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen elhelyezett közjóléti létesítményekről az erdészeti hatóság nyilvántartást vezet.
-
-(2) Az erdők és az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek közjóléti funkciójának fejlesztése és összehangolása érdekében erdőtervezési körzetenként közjóléti fejlesztési tervet kell készíteni.
-
-(3) A közjóléti fejlesztési tervekben a fejlesztési irányokat kiemelten a meglévő turistautak, a lovaglás és kerékpározás célját szolgáló utak által előidézett közjóléti igényekre figyelemmel kell megtervezni.
-
-(4) Az erdőben a jelzett turistautak és kerékpározás célját szolgáló utak, valamint a bejelentett lovaglás célját szolgáló utak nyomvonalát, jellemző adatait a közjóléti létesítményekről vezetett nyilvántartásban kell nyilvántartani és az erdészeti hatóság honlapján közzé kell tenni.
+#### 37. §
 
 ### Az Országos Erdőállomány Adattár
 
-38. § (1) Az erdők nyilvántartása, az erdőgazdálkodás kiszámítható működése és országos szintű szabályozása érdekében a miniszter Adattárat működtet.
+38. § (1) Az erdők, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek, és a szabad rendelkezésű erdők adatainak, valamint a fenntartható erdőgazdálkodással kapcsolatos hatósági döntések, és a végrehajtott erdőgazdálkodási tevékenységek adatainak erdőrészlet szintű nyilvántartása, továbbá az erdőgazdálkodás ellenőrzése és elemzése céljából a miniszter – az erdészeti hatóság által hatósági nyilvántartásként vezetett – Adattárat működtet.
 
 (2) Az Adattár az alábbi adatokat tartalmazza:
 
-- a) az erdőgazdálkodó erdőgazdálkodói kódját;
-- b) az erdőgazdálkodás során betartandó, az erdészeti hatóság határozatában megállapított
-  - ba) általános,
-  - bb) az átalakító és szálaló üzemmódban lévő erdők átalakítási vagy szálalási terveiben foglalt, valamint
-  - bc) a védett természeti és a Natura 2000 területeken lévő erdőkben alkalmazandó különös előírásokat;
-- c) a 33. § (2) bekezdése szerinti, a körzeti erdőtervben megállapított adatokat;
-- d) a jóváhagyott erdőtelepítési-kivitelezési tervek adatait;
-- e) a 41. § szerint bejelentett egyes erdőgazdálkodási tevékenységek adatait;
-- f) az erdőben elvégzett egyes erdőgazdálkodási tevékenységek adatait;
-- g) az erdő faállományának mennyiségében és minőségében bekövetkezett változásokat;
-- h) az erdészeti és közjóléti létesítmények adatait.
+- a) a nyilvántartott terület erdőgazdasági azonosító adatai, területe és térképi ábrázolása,
+- b) az érintett földrészlet, illetve alrészlet ingatlan-nyilvántartási azonosító adatai,
+- c) az erdőgazdálkodó erdőgazdálkodói kódja,
+- d) a nyilvántartott terület termőhelyi viszonyaira, faállományára jellemző adatok,
+- e) az erdőben folytatható erdőgazdálkodás hosszú távú célját és módját meghatározó alábbi adatok:
+  - ea) az erdő rendeltetései, valamint elsődleges rendeltetése, illetve azokhoz kapcsolódóan a 27-28/D. §-ban foglaltak alapján meghatározott korlátozásokra vonatkozó adatok,
+  - eb) az erdőgazdálkodás üzemmódja,
+  - ec) az erdő természetességi állapotára vonatkozó alapelvárás,
+  - ed) vágásos és átmeneti üzemmódú erdő esetén a faállomány vágásérettségi kora,
+  - ee) örökerdő üzemmód és átmeneti üzemmód esetén az örökerdő fenntartási, átalakítási, illetve erdőfelújítási tervben foglalt adatok,
+  - ef) erdőkkel, erdőgazdálkodással kapcsolatban fennálló természetvédelmi korlátozást megalapozó természeti értékek, védett, fokozottan védett fajok, közösségi jelentőségű, jelölő élőhelyek, jelölő fajok előfordulására, illetve azokhoz kapcsolódóan a 30. § (1) bekezdés b) pontjában foglalt jogszabály rendelkezései alapján meghatározott korlátozásokra vonatkozó adatok,
+- f) a következő körzeti erdőtervezésig terjedő időszakban az erdőben végrehajtható, illetve végrehajtandó fakitermelések, erdőnevelési beavatkozások módja, és a végrehajtásukra vonatkozó rendelkezések,
+- g) az erdőfelújítási kötelezettségre vonatkozó lehetőségek, illetve előírások,
+- h) a jóváhagyott erdőtelepítési-kivitelezési tervek adatai,
+- i) a 41. § (1) bekezdése, valamint a 42. § szerinti bejelentések adatai,
+- j) az erdészeti létesítmények alábbi adatai:
+  - ja) megnevezés, egyedi azonosító,
+  - jb) földrajzi elhelyezkedés,
+  - jc) létesítmény típusa és jogszabályban meghatározott műszaki paraméterei,
+- k) az erdőfelújítások és erdőtelepítésekre vonatkozó adatok, valamint
+- l) az erdőfelújítási biztosíték előírására, teljesítésére, felszabadítására, illetve a kötelezettség törlésére vonatkozó adatok.
 
-(3) Az Adattárban erdőként kell nyilvántartani:
+(3) Az erdészeti hatóság az Adattárban az erdő faállományának fatérfogatára, továbbá ezzel összefüggésben az erdőterv érvényességi időszakában elvégezhető vagy elvégzendő fakitermelés fatérfogatára vonatkozó adatot csak tájékoztató adatként tart nyilván.
 
-- a) az e törvény hatálybalépésekor az Adattárban erdőként nyilvántartott területet,
-- b) az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott területet,
-- c) a 6. § (1) bekezdés b) pontja szerinti faállományt,
-- d) az időlegesen igénybe vett erdő területét,
-- e) a 6 méternél kisebb átlagos szélességű nyiladékot és tűzpásztát.
+(4) Az Adattár a (2) bekezdés szerinti adatok tekintetében – a (2) bekezdés b) és c) pontjában, a (2) bekezdés j) pont jc) alpontjában, valamint a (3) bekezdésben foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) Az Adattár a (2) bekezdés szerinti adatok tekintetében – a 33. § (2) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(5) Az erdészeti hatóság hivatalból intézkedik az Adattár (2) bekezdés a), b) és d) pontja szerinti adat módosításáról, ha a módosítást szükségessé tevő információ jut tudomására.
 
-(5) Az Adattárba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság bizonyítékként kizárólag közokiratot, teljes bizonyító erejű magánokiratot, valamint a körzeti erdőtervezés során keletkező iratot használhat fel.
+(6) Az Adattárba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság bizonyítékként kizárólag közokiratot, teljes bizonyító erejű magánokiratot, valamint az erdészeti hatósági eljárások során keletkező iratot használhat fel.
+
+(7) Az erdészeti hatóság az ingatlan-nyilvántartásban – az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló rendelet előírásai alapján – nem a megfelelő művelési ágban nyilvántartott erdő, szabad rendelkezésű erdő, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vonatkozásában kezdeményezi az ingatlanügyi hatóságnál a művelési ág módosítását.
 
 39. § (1) Az erdőgazdálkodási tevékenységgel összefüggő tervezés, irányítás, ellenőrzés és tájékoztatás az Adattár adatainak felhasználásával történik.
 
-(2) Az Adattár adatai országosan vezetettek és nyilvánosak, és azokból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – elektronikus úton is – teljes vagy szemle másolat adható.
+(2) Az Adattár adatai országosan vezetettek és nyilvánosak, és azokból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – elektronikus úton is – betekintés biztosítható, és szemle másolat adható.
 
-(3) A védett természeti területek természetvédelmi kezeléséért felelős szerv részére, a működési területükön fekvő védett és Natura 2000 területek Adattárban szereplő adataihoz történő elektronikus hozzáférést az e törvény végrehajtására kiadott jogszabályban foglaltak szerint biztosítani kell.
+(3) Az erdészeti hatóság térítésmentesen elektronikus hozzáférést biztosít
+
+- a) az erdőgazdálkodó és az általa meghatalmazott jogosult erdészeti szakszemélyzet részére az erdőgazdálkodó használatában álló erdők,
+- b) a védett természeti területek természetvédelmi kezeléséért felelős szerv részére a működési területükön fekvő védett és Natura 2000 területeken található erdők,
+- c) a katonai hatóság részére a honvédelmi rendeltetésű erdők,
+- d) a működési terület szerint érintett vízügyi igazgatási szerv részére az árvízvédelmi rendeltetésű erdők,
+- e) a működési terület szerint érintett közútkezelő részére a műtárgyvédelmi, valamint a közúttal határos erdők,
+- f) az ingatlanügyi hatóság részére a földügyi igazgatási feladatok ellátása céljából az erdők és szabad rendelkezésű erdők, valamint
+- g) az erdészeti tudományos kutatással foglalkozó költségvetési szerv részére az erdők és szabad rendelkezésű erdők
+
+Adattárban nyilvántartott adataihoz.
 
 (4) Az ingatlanügyi hatóság, a földmérési és térinformatikai államigazgatási szerv, valamint a honvédelem térképészeti támogatásáért felelős szerv részére az Adattárból díj-, költség- és térítésmentesen kell szolgáltatni az alapfeladataik ellátásához, valamint az Európai Unió Közös Agrárpolitikájának végrehajtásával kapcsolatos feladatok ellátásához igényelt adatokat.
 
-(5) Az erdőgazdálkodó részére az Adattárban nyilvántartott
+(5) Az Adattárból a fokozottan védett fajokra és azok élőhelyeire vonatkozó adat csak az erdőgazdálkodó és a jogosult erdészeti szakszemélyzet részére adható ki.
 
-- a) személyes adataihoz, valamint
-- b) a használatában lévő erdőre vonatkozó adatokhoz történő elektronikus hozzáférést az e törvény végrehajtására kiadott jogszabályban foglaltak szerint biztosítani kell.
-
-39/A. § (1) Az Adattárban a közjóléti létesítmény alábbi adatait kell nyilvántartani:
-
-- a) nevét, egyedi azonosítóját, típusát;
-- b) földrajzi elhelyezkedését (megye, hely, tag, részlet);
-- c) a kezelő megnevezését;
-- d) a területén található közjóléti berendezések típusait és mennyiségét; valamint
-- e) a létesítmény jogszabályban meghatározott műszaki paramétereit.
-
-(2) Az Adattárban a nem közjóléti létesítményhez kapcsolódó közjóléti berendezés alábbi adatait kell nyilvántartani:
-
-- a) a közjóléti berendezés megnevezését;
-- b) a közjóléti berendezés jogszabályban meghatározott műszaki paramétereit; valamint
-- c) a kezelő megnevezését.
-
-(3) Az Adattárban a 92. § (2) bekezdése szerint lovaglásra és járműközlekedésre kijelölt utak alábbi adatait kell nyilvántartani:
-
-- a) az engedélyezett használat típusát; valamint
-- b) az út nyomvonalát legalább 5 m pontossággal.
-
-(4) Az Adattárban a 93. § (1) bekezdés b) pontja szerint kijelölt turistaútvonal alábbi adatait kell nyilvántartani:
-
-- a) a turistaútvonal nyomvonalát legalább 5 m pontossággal; valamint
-- b) a turistaútvonal jelzését.
+#### 39/A. §
 
 39/B. § Az Adattárban kezelt adatokat a miniszter a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen átadja és azokat a Központi Statisztikai Hivatal által statisztikai célra felhasználhatja. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-### Az erdőterv
-
-40. § (1) A körzeti erdőterv alapján az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság erdőterv határozatban (a továbbiakban: erdőterv), hivatalból állapítja meg.
-
-(2) Amennyiben az erdő rendeltetésében, állapotában bekövetkezett, a körzeti erdőterv elkészítésekor előre nem látott változás ezt indokolja, az erdészeti hatóság a tudomásszerzést követően hivatalból indított eljárás során határozatban dönt az erdőterv módosításáról.
-
-(3) Amennyiben a gazdálkodási viszonyokban bekövetkezett, a körzeti erdőterv elkészítésekor előre nem látott változás ezt indokolja, az erdészeti hatóság az erdőgazdálkodó kérelmére indított eljárásban dönt az erdőterv módosításáról.
-
-(4) Az erdőtervben az egyes erdőrészletekre határozattal meghatározott fahasználati lehetőségek, felújítási kötelezettségek az adott erdőrészlet mindenkori erdőgazdálkodóját jogosítják és kötelezik.
+#### 40. §
 
 ### Az éves erdőgazdálkodási tevékenység gyakorlása
 
-41. § (1) Az erdőgazdálkodó az erdő fenntartására, védelmére, valamint az erdei haszonvételek gyakorlására irányuló, az e törvény végrehajtására kiadott jogszabályban meghatározott erdőgazdálkodási tevékenységet az erdészeti hatósághoz történt előzetes bejelentést követően végezhet.
+41. § (1) Az erdőgazdálkodó
 
-(2) A bejelentésnek tartalmaznia kell az e törvény végrehajtására kiadott jogszabályban meghatározott fahasználati, erdőművelési tevékenységeket, valamint ha a bejelentett fahasználat következtében erdőfelújítási kötelezettség keletkezik, az erdőgazdálkodó által az erdőtervi lehetőségek közül választott erdősítési előírást, valamint a jogosult erdészeti szakszemélyzet ellenjegyzését.
+- a) az erdőtervben foglalt erdősítési, erdőnevelési és fakitermelési tevékenységet – a (2) bekezdés kivételével –,
+- b) a (3) bekezdésben foglalt esetben az erdőtervben nem szereplő fakitermelést a tevékenység megkezdését legkésőbb 21 nappal megelőzően az erdészeti hatóság részére tett bejelentést követően végezhet.
 
-(3) Az erdőterv előírásainak megfelelően tervezett és bejelentett erdőgazdálkodási tevékenységek a bejelentést követő 31. naptól, a 100 erdőrészletnél vagy 500 hektárnál nagyobb területet érintő bejelentés esetén a 46. naptól az erdőtervvel összhangban, az abban foglaltaknak megfelelően, a bejelentésben megjelölt évben végezhetők. A bejelentésben csak a bejelentés éve vagy a bejelentés időpontját követő naptári év jelölhető meg.
+(2) Az erdőgazdálkodási tevékenység az (1) bekezdés szerinti bejelentés mellőzésével is végrehajtható, ha
 
-(4) Az erdészeti hatóság az erdőgazdálkodási tevékenységeket feltételhez köti, korlátozza, súlyos vagy ismételt jogsértés esetén megtiltja, amennyiben
+- a) az erdőgazdálkodó a 33. § (8) bekezdésében foglalt kérelmében az erdőgazdálkodási tevékenység tárgyévben történő végrehajtására vonatkozó szándékát jelezte, és az erdőgazdálkodási tevékenységet az erdészeti hatóság az erdőterv módosításával lehetővé tette,
+- b) az erdőgazdálkodási tevékenységet a 73. § (6) bekezdése vagy a 106. § (1) bekezdése alapján az erdészeti hatóság rendelte el, vagy
+- c) az erdő engedélyezett igénybevétele iránti kérelemben az engedélyes a fakitermelés tárgyévi vagy a tárgyévet követő évi végrehajtására vonatkozó szándékát előre jelezte.
 
-- a) az erdőgazdálkodó gazdálkodása során e törvényben és az e törvény végrehajtására kiadott jogszabályban előírt szabályokat megszegte,
-- b) az erdő állapotában korábban előre nem látható esemény következett be, vagy
-- c) a védett természeti területen a védelmi célok megváltozását eredményező, illetve azokat veszélyeztető, korábban előre nem látható esemény következett be.
+(3) Az erdőtervben nem szereplő fakitermelésre az alábbi esetekben van lehetőség:
 
-(5) Védett természeti területen, Natura 2000 területen a természetvédelmi hatóság a (4) bekezdés szerinti eljárás lefolytatását az erdészeti hatóságnál az ott megfogalmazott eseteken túl akkor is kezdeményezheti, ha az erdőgazdálkodó erdőgazdálkodási tevékenysége során a természetvédelmi célok megvalósítására vonatkozó előírásokat megszegte.
+- a) az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület kezelését, fenntartását szolgáló fakitermelés,
+- b) az erdészeti hatóság részére bejelentett erdőkár következtében károsodott, az erdőrészlet faállományának 10 százalékát meg nem haladó mennyiségű faanyag egészségügyi fakitermelés keretében történő kitermelése,
+- c) a 7. § (1) bekezdés a), b) és c) pontja szerinti természetességi állapotra vonatkozó alapelvárású erdőben intenzíven terjedő fafajok egyéb termelésként történő kitermelése, illetve
+- d) az erdő engedélyezett igénybevételéhez kapcsolódó fakitermelés.
 
-(6) A (4) és (5) bekezdés alapján előírt feltételnek, elrendelt korlátozásnak, tiltásnak a bekövetkezett eseménnyel arányosnak kell lennie.
+(4) A (3) bekezdésben foglalt fakitermelést a jogosult erdészeti szakszemélyzet felmérése alapján a (3) bekezdés
 
-(7) Az erdészeti hatóság a (4) bekezdés szerinti eljárás megindításáról az erdőgazdálkodót és a jogosult erdészeti szakszemélyzetet is köteles értesíteni.
+- a) b) pontja esetén az erdőkár bejelentésben foglaltakkal összhangban,
+- b) b) és c) pontja esetén a kitermelésre tervezett fák szakszerű megjelölését követően,
+- c) d) pontja esetén az erdő igénybevételét engedélyező határozatban foglaltakkal összhangban
 
-(8) A tárgyévben megkezdett, de be nem fejezett fakitermeléseket az erdészeti hatóság részére be kell jelenteni, melyek a tárgyévet követő év végéig végrehajthatók.
+kell bejelenteni.
 
-(9) A működési területe szerint érintett, a védett természeti területek természetvédelmi kezeléséért felelős szerv minden olyan, a körzeti erdőtervezés időpontjában nem ismert adatot, tényt, változást haladéktalanul köteles az erdészeti hatóságnak a tudomásszerzést követően bejelenteni, amely a (4) bekezdés szerinti korlátozás elrendelését vonhatja maga után.
+(5) A 77. § (1) bekezdés d) pontja szerint igénybe vett területen a vezeték biztonsági övezetét sértő növényzet eltávolítását szolgáló fakitermelést a vezetékjog jogosultja is bejelentheti, illetve végrehajthatja
 
-(10) Az (1) bekezdés szerinti, védett természeti területeket érintő bejelentések adatait az erdészeti hatóság – az e törvény végrehajtására kiadott jogszabályban foglaltak szerint – a természetvédelmi hatóságnak haladéktalanul megküldi.
+- a) ha ahhoz az erdőgazdálkodó – annak hiányában a tulajdonos – hozzájárul, vagy
+- b) az a) pont szerinti hozzájárulás nélkül, ha a fakitermelést a vezetékjog jogosultjának jogszerű felhívására az erdőgazdálkodó vagy a tulajdonos nem végezte el.
 
-(11) A természetvédelmi hatóság a bejelentés kézhezvételétől számított 15 napon belül, a 100 erdőrészletnél vagy 500 hektárnál nagyobb területet érintő bejelentés esetén 30 napon belül a bejelentett erdőgazdálkodási tevékenység feltételhez kötését, korlátozását, tiltását kezdeményezheti az erdészeti hatóságnál, ha
+(6) Az erdészeti hatóság az erdőgazdálkodási tevékenységeket a 104/A. §-ban foglalt eljárás során a bekövetkezett eseménnyel arányosan feltételhez kötheti, korlátozhatja, vagy – az a) pontban foglalt esetben súlyos vagy ismételt jogsértés esetén – megtilthatja, ha
 
-- a) az erdő állapotában korábban előre nem látható esemény következett be, vagy
-- b) a védett természeti területen a védelmi célok megváltozását eredményező, illetve azokat veszélyeztető, korábban előre nem látható esemény következett be.
+- a) az erdőgazdálkodó gazdálkodása során az e törvényben előírt szabályokat megszegte,
+- b) az erdő állapotában korábban előre nem látható esemény következett be, amelyre tekintettel az erdőterv érintett tartalmának módosítása van folyamatban, vagy
+- c) a védett természeti területen a védelmi célok megváltozását eredményező, illetve azokat veszélyeztető, korábban előre nem látható esemény következett be, amelyre tekintettel az erdőterv érintett tartalmának módosítása van folyamatban.
 
-42. § (1) Az erdőgazdálkodó köteles bejelenteni az erdészeti hatóságnak
+(7) A (6) bekezdés a) pontjának alkalmazása tekintetében erdőkezelést is végző erdőgazdálkodó gazdálkodása alatt
 
-- a) az erdőtelepítés elsőkivitelét,
-- b) az erdőfelújítás sikeres első erdősítését, valamint
-- c) a 41. § (1) bekezdés szerinti egyéb tevékenységek elvégzését
+- a) az erdőgazdálkodó erdőkezelésébe adott területre bejelentett tevékenység vonatkozásában a bejelentett erdőgazdálkodási tevékenységgel érintett önálló erdőgazdálkodási egységben,
+- b) az erdőgazdálkodó jogszerű használatában álló területre bejelentett tevékenység vonatkozásában az erdőgazdálkodó jogszerű használatában álló önálló erdőgazdálkodási egységekben
 
-az e törvény végrehajtására kiadott jogszabályban meghatározott formában és határidőre.
+folytatott gazdálkodást kell érteni.
 
-(2) Az erdőgazdálkodónak az (1) bekezdés szerinti bejelentése csak a jogosult erdészeti szakszemélyzet ellenjegyzésével érvényes.
+(8) Az (1) bekezdés szerinti bejelentésben foglalt tevékenység legkorábban a tárgyév első napján kezdhető meg. A tárgyévben megkezdett, de be nem fejezett fakitermelés a részleges végrehajtás 42. §-ban foglaltak szerinti bejelentését követően a tárgyévet követő év végéig végrehajtható.
+
+42. § Az erdőgazdálkodó a 41. § (1) bekezdésében foglaltak szerint bejelentésköteles erdőgazdálkodási tevékenységek végrehajtását az erdészeti hatóság részére bejelenti.
 
 ### Az erdőgazdálkodási tevékenység nyilvánosságának biztosítása
 
 43. § (1) Az erdőgazdálkodási tevékenységek közül a nyilvánosság biztosítása szempontjából jelentős tevékenységnek minősül:
 
-- a) az erdészeti magánút létesítése, bővítése,
-- b) védelmi és közjóléti elsődleges rendeltetésű erdőben az erdőterv módosítása,
-- c) védelmi és közjóléti, valamint az állam 100%-os tulajdonában álló gazdasági elsődleges rendeltetésű erdőben a növedékfokozó gyérítés, a tarvágás, a fokozatos felújítóvágás, az egészségügyi fakitermelés és a szálaló vágás.
+- a) az erdészeti magánút, az engedélyköteles épített közelítő nyom, valamint az erdei sípálya létesítése, bővítése,
+- b) védelmi vagy közjóléti elsődleges rendeltetésű erdőben az erdőterv módosítása,
+- c) védelmi vagy közjóléti, valamint az állam 100%-os tulajdonában álló gazdasági elsődleges rendeltetésű erdőben a növedékfokozó gyérítés, a tarvágás, a fokozatos felújítóvágás, az egészségügyi fakitermelés és a szálaló vágás.
 
 (2) Az erdészeti hatóság köteles
 
 - a) az (1) bekezdés a) és b) pont esetén a tevékenység engedélyezése, illetve a módosítás iránti kérelem beérkezését követő tíz napon belül,
-- b) az (1) bekezdés c) pont esetén a körzeti erdőterv elkészítését követően 30 napon belül
+- b) az (1) bekezdés c) pont esetén a körzeti erdőtervezés befejezését követő harminc napon belül
 
 az e törvény végrehajtására kiadott jogszabályban meghatározott tájékoztatást a honlapján közzétenni. A tájékoztatás közzétételét követő 8 napon belül bárki írásos észrevételt tehet a honlapon keresztül.
 
@@ -762,48 +1025,47 @@ az e törvény végrehajtására kiadott jogszabályban meghatározott tájékoz
 - a) a (2) bekezdés szerinti tájékoztatás kapcsán tett észrevételek alapján azt indokoltnak tartja, vagy
 - b) elvégzett erdőgazdálkodási tevékenységgel összefüggésben szükségesnek látja az adott térségben a fenntartható erdőgazdálkodási tevékenységgel kapcsolatban a nyilvánosság véleményének megismerését.
 
-(4) A miniszter minden évben közleményben határozza meg az Erdők Hetét, amelynek rendezvényei azt a célt szolgálják, hogy az ország lakossága tájékoztatást kapjon az erdők állapotáról, az erdőgazdálkodási tevékenység helyzetéről, a Nemzeti Erdőprogram végrehajtásáról.
+(4) A miniszter minden évben közleményben határozza meg az Erdők Hetét, amelynek rendezvényei azt a célt szolgálják, hogy az ország lakossága tájékoztatást kapjon az erdők állapotáról, az erdőgazdálkodási tevékenység helyzetéről, a Stratégia végrehajtásáról.
 
-(5) A miniszter évenként tájékoztatót tesz közzé az ország erdőállományának helyzetéről, állapotáról.
+(5) A miniszter ötévenként tájékoztatót tesz közzé az ország erdőállományának helyzetéről, állapotáról, az állami erdővagyon mennyiségének és minőségének alakulásáról, valamint az állami erdőgazdálkodás eredményeiről.
 
-### IV. Fejezet — AZ ERDŐ ÉS FÁSÍTÁS TELEPÍTÉSE
+### IV. Fejezet — ERDŐTELEPÍTÉS
 
-44. § Erdőtelepítés az erdészeti hatóság által jóváhagyott erdőtelepítési-kivitelezési terv alapján végezhető.
+44. § (1) Az erdő telepítése erdőnek, szabad rendelkezésű erdőnek vagy fátlan állapotban tartott erdőnek nem minősülő területen a 6. § (2) bekezdésben foglalt feltételeknek megfelelő faállomány létrehozására irányuló tevékenység.
 
-45. § (1) Az erdészeti hatóság megtagadja vagy feltételekhez köti a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében az idegenhonos fafajokkal tervezett erdő telepítésére vonatkozó erdőtelepítési-kivitelezési terv jóváhagyását, ha az a meglévő erdő természetességi állapotának megőrzését, vagy védett természeti terület fennmaradását veszélyezteti.
-
-(2) Az erdőtelepítés, valamint a fásítás során figyelemmel kell lenni arra, hogy a faállomány a függőleges koronavetület növekedésével arányosan a földrészlet határán belül maradjon, továbbá arra, hogy a faállomány szomszédos ingatlan hasznosítását az indokolt mértéket meghaladó módon ne korlátozza, illetve azt ne veszélyeztesse.
+(2) Erdőtelepítés a tulajdonos, valamint az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultjának hozzájárulásával, az erdészeti hatóság által jóváhagyott erdőtelepítési-kivitelezési terv alapján végezhető.
 
 (3) Az erdészeti hatóság által jóváhagyott erdőtelepítési-kivitelezési terv 5 évre szól.
 
-(4) Az erdőtelepítéshez, valamint a fásításhoz csak az e törvény végrehajtására kiadott jogszabályban meghatározott és igazolt minőségű szaporítóanyagot szabad felhasználni.
+45. § (1) Erdőtelepítés a termőhelynek megfelelő, az erdei fafajok listájában szereplő, őshonos vagy termesztésbe vonható idegenhonos fafajjal végezhető.
 
-46. § (1) Az erdőtelepítési-kivitelezési terv tartalmát és elkészítésének részletes szabályait az e törvény végrehajtására kiadott jogszabály állapítja meg.
+(2) Erdőtelepítéshez csak igazolt minőségű és származású szaporítóanyagot szabad felhasználni.
 
-(2) A jóváhagyott erdőtelepítési-kivitelezési terv tartalmát – szükség szerint a megvalósulásnak megfelelő módosításokkal – a telepítés elsőkivitelének végrehajtása után az erdészeti hatóság az Adattáron átvezeti, és az engedélyest erdőgazdálkodóként nyilvántartásba veszi.
+(3) Természetes erdő vagy természetszerű erdő természetességi állapotú erdő, valamint nem erdő művelési ágú, védett természeti terület vagy Natura 2000 területként kijelölt közösségi jelentőségű, jelölő élőhely százméteres körzetében intenzíven terjedő fafajjal erdőt, fásítást, illetve fás szárú növényekből álló, külön jogszabály szerint létesített ültetvényt telepíteni tilos.
 
-47. § (1) A fásítások és a szabad rendelkezésű erdők telepítését legalább az elsőkivitel megkezdése előtt 45 nappal előzetesen be kell jelenteni az erdészeti hatóságnak.
+(4) Repülőterek és leszállóhelyek védőövezetében erdőként vagy egyéb fával borított területként fát, illetve faállományt telepíteni csak a repülések biztonságának veszélyeztetése nélkül lehet.
 
-(2) Az erdészeti hatóság a fásítás és a szabad rendelkezésű erdő telepítését megtagadja, vagy feltételekhez köti, a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében, ha a telepítés a meglévő erdő természetességi állapotának megőrzését, vagy védett természeti terület fennmaradását veszélyezteti.
+(5) Folyók nagyvízi medrében erdőként vagy egyéb fával borított területként fát, illetve faállományt telepíteni csak a víz és a jég megfelelő lefolyásának biztosítása mellett, a nagyvízi mederkezelési tervvel összhangban lehet.
 
-(3) Az erdészeti hatóság a fásítás és a szabad rendelkezésű erdő telepítését megtiltja, ha az sérti az erdő telepítésére vagy az engedély nélkül telepített erdő fennmaradására vonatkozó rendelkezéseket.
+(6) Műtárgyvédelmi rendeltetésű erdő kivételével az erdőtelepítéssel érintett terület határvonalán belül elhelyezkedő három- – amennyiben az erdőtelepítés gépi ápolása miatt szükséges, akkor öt- – méteres sávban nem ültethető fa.
 
-(4) Fásítás és szabad rendelkezésű erdő telepítésének bejelentése helyett a telepítő, az e törvény végrehajtására kiadott jogszabályban foglaltak szerint kérelmezheti az erdészeti hatóságtól a telepítés engedélyezését. Az engedély 5 évre szól.
+46. § Az erdészeti hatóság az erdőtelepítés végrehajtását, illetve az erdőtelepítések állapotát rendszeresen ellenőrzi (a továbbiakban: erdőtelepítések műszaki átvétele). Az erdőtelepítések műszaki átvételére évente, a tárgyév október 15-ig bezárólag kerül sor. Az ellenőrzés eredményeit az erdészeti hatóság műszaki átvételi jegyzőkönyvben rögzíti.
 
-48. § (1) Az engedély nélkül vagy az engedélytől eltérően telepített erdő fennmaradásáról az erdészeti hatóság határozatban dönt.
+47. § (1) Az erdészeti hatóság az erdőtelepítés első kivitelének végrehajtása után a területet a jóváhagyott erdőtelepítési-kivitelezési terv tartalmának figyelembevételével az Adattárban erdőként nyilvántartásba veszi.
 
-(2) Az engedély nélkül vagy az engedélytől eltérően telepített erdő, valamint az önerdősülés teljes vagy részleges felszámolását az erdészeti hatóság abban az esetben rendeli el, ha
+(2) A jóváhagyott erdőtelepítési kivitelezési terv az (1) bekezdés szerinti átvezetést követően a következő körzeti erdőtervezés alapján készült erdőterv kiadásáig erdőtervnek minősül.
 
-- a) annak faállománya a termőhelyre vagy a környező erdőkre káros hatással van, vagy növekedése nyomán előre láthatóan káros hatással lesz;
-- b) annak fennmaradása jogszabályba ütközik.
+48. § (1) A jóváhagyott erdőtelepítési kivitelezési terv nélkül vagy az abban foglaltaktól eltérően telepített erdő fennmaradásáról az erdészeti hatóság határozatban dönt.
 
-(3) A bejelentés nélkül vagy az erdészeti hatóság bejelentésre tett korlátozó és tiltó rendelkezéseivel ellentétesen telepített fásítás és szabad rendelkezésű erdő esetében az (1) és (2) bekezdések szerint kell eljárni.
+(2) Az erdészeti hatóság a jóváhagyott erdőtelepítési-kivitelezési terv nélkül vagy az abban foglaltaktól eltérően telepített erdő faállományának teljes vagy részleges felszámolását rendeli el, ha
+
+- a) az a termőhelyre vagy a környező erdők életközösségére káros hatással van, vagy előre láthatóan káros hatással lesz,
+- b) annak fennmaradása jogszabályba ütközik, vagy
+- c) az erdőtelepítési engedélyezés feltételei nem állnak fenn.
 
 49. § Az erdőtelepítést az erdészeti hatóság az erdőtelepítés műszaki átvétele során befejezetté nyilvánítja, ha az erdőtelepítési-kivitelezési tervben meghatározott fafajok egyedei az e törvény végrehajtására kiadott jogszabályban meghatározott számban, arányban és minőségben jelen vannak.
 
-50. § Amennyiben az erdőtelepítés a befejezetté nyilvánítás előtt bármilyen okból meghiúsul és a telepítő a telepítést nem folytatja, az erdészeti hatóság kérelemre az erdőt törli az Adattárból.
-
-50/A. § A külön jogszabály alapján nemzeti hatáskörben 2004. május 31-ig támogatással létesített erdő telepítéséhez kapcsolódó pénzügyi tételt keletkeztető műveletekről az erdészeti hatóság közhiteles hatósági nyilvántartást vezet.
+50. § Ha az erdőtelepítés a befejezetté nyilvánítás előtt bármilyen okból meghiúsul, és a telepítő a telepítést nem folytatja, az erdészeti hatóság kérelemre az erdőt törli az Adattárból.
 
 ### V. Fejezet — AZ ERDŐFELÚJÍTÁS, AZ ERDŐNEVELÉS, VALAMINT AZ ERDŐSZERKEZET ÁTALAKÍTÁSA
 
@@ -811,54 +1073,88 @@ az e törvény végrehajtására kiadott jogszabályban meghatározott tájékoz
 
 51. § (1) Az erdő felújítása az erdő kitermelt vagy kipusztult faállományának újbóli létrehozására irányuló tevékenység.
 
-(2) Az erdő felújítása történhet:
+(2) Az erdő faállományát
+
+- a) annak véghasználatát követően,
+- b) ha az összefüggően ötezer négyzetmétert meghaladó területen bármilyen okból kipusztult, illetve hiányzik, és az erdészeti hatóság az érintett területen az erdő fátlan állapotban tartását nem engedélyezte, vagy
+- c) ha annak záródása összefüggően két hektárt meghaladó területen hatvan – felnyíló erdő esetén harminc, felnyitott erdő esetén ötven – százalék alá csökkent,
+
+az erdőgazdálkodónak az e fejezetben foglaltak szerint az e törvény végrehajtására kiadott jogszabályban meghatározott határidőig fel kell újítania.
+
+(3) A (2) bekezdés c) pontjában foglalt esetben az erdő felújítását az erdészeti hatóság
+
+- a) az idős faállomány véghasználata nélkül, a faállomány természetes vagy mesterséges kiegészítése útján, vagy
+- b) ha szükséges, az idős faállomány véghasználatának legfeljebb két éven belüli megkezdésével
+
+írja elő.
+
+(4) Az erdő felújítása történhet:
 
 - a) természetes módon:
   - aa) a kitermelésre kerülő faállomány talajra hulló magjáról (mageredetű természetes felújítás);
   - ab) a kitermelt faállomány gyökeréről vagy tuskójáról kihajtott sarjakról (sarjeredetű természetes felújítás);
-- b) mesterséges módon, melynek során a letermelt vagy kipusztult és eltávolított faállomány helyén magvetéssel, csemeteültetéssel vagy dugványozással gondoskodnak a faállomány újbóli létrehozásáról.
+- b) mesterséges módon, amelynek során a kitermelendő faállomány védelmében, vagy a kitermelt, illetve kipusztult és eltávolított faállomány helyén magvetéssel, csemeteültetéssel vagy dugványozással gondoskodnak a faállomány újbóli létrehozásáról.
 
-(3) Az ország egyes erdészeti tájaiban az erdőfelújítás során alkalmazható, illetve tiltott célállományokat az e törvény végrehajtására kiadott jogszabály állapítja meg.
+(5) Sarjeredetű természetes felújítással – az erdészeti hatóságnak a talajvédelmi, a mezővédő, vagy part- vagy töltésvédelmi rendeltetésű, valamint a felnyíló erdőre hozott eltérő döntése kivételével – az éger, az akác, az őshonos nyár, valamint a fűz főfafajú erdők újíthatók fel.
 
-(4) Ha a termőhelynek megfelelő őshonos állományalkotó főfafajok mageredetű természetes felújításának feltételei adottak, ezt a felújítási módot kell alkalmazni.
+(6) Ha a termőhelynek megfelelő őshonos állományalkotó főfafajok mageredetű természetes felújításának feltételei adottak, ezt a felújítási módot kell alkalmazni.
 
-(5) Mesterséges erdőfelújítás esetén csak az erdőtervben előírt célállománynak megfelelő fafajú, igazolt származású és az e törvény végrehajtására kiadott jogszabályban meghatározott szaporítóanyagot szabad felhasználni.
+(7) Mesterséges erdőfelújítás, illetve az erdőfelújítások mesterséges pótlása esetén csak igazolt származású és az e törvény végrehajtására kiadott jogszabályban meghatározott szaporítóanyagot szabad felhasználni.
 
-(6) Származék-, természetes és természetszerű erdővel közvetlenül határos erdőben idegenhonos fafajokkal az erdő mesterséges felújítása csak akkor végezhető, ha az a környező erdők természetességi állapotát nem rontja, nem veszélyezteti.
+(8) Az erdőt a termőhelyi viszonyoknak megfelelő, a természetességi állapotra vonatkozó alapelvárással és az erdő közérdekű korlátozásaival összhangban álló – lehetőség szerint több fafajból álló, elegyes – faállomány létrehozásával kell felújítani.
 
-(7) A véghasználat befejezését követően, továbbá, ha az erdő faállománya összefüggően ötezer négyzetmétert meghaladó területen bármilyen okból kipusztult, illetve a faanyagtermelést szolgáló erdőrészletben a fák koronavetületének területe az erdőrészlet területének hetven százaléka alá csökkent, az erdőgazdálkodónak az erdőfelújítást két éven belül meg kell kezdenie és az e törvény végrehajtására kiadott jogszabályban meghatározott határidőre be kell fejeznie.
+(9) Természetes erdő, természetszerű erdő vagy származékerdő természetességi állapotra vonatkozó alapelvárású erdővel közvetlenül határos erdőben idegenhonos fafajokkal az erdő mesterséges felújítása csak akkor végezhető, ha az a környező erdők természetességi állapotát nem rontja, nem veszélyezteti.
 
-(8) A (7) bekezdés szerinti kötelezettség a felnyíló erdő esetében a fák koronavetületének harminc százalék alá csökkenése esetén keletkezik.
+(10) Az erdészeti hatóság az erdőfelújítási kötelezettség teljesítését, illetve az erdőfelújítások állapotát rendszeresen ellenőrzi (a továbbiakban: erdőfelújítások műszaki átvétele). Az erdőfelújítások műszaki átvételére évente, a tárgyév október 15-ig bezárólag kerül sor. Az ellenőrzés eredményeit az erdészeti hatóság műszaki átvételi jegyzőkönyvben rögzíti.
 
-(9) A (7) bekezdés szerinti kötelezettség a 26. § d) pont szerinti elsődleges rendeltetésű erdőben a fák koronavetületének ötven százalék alá csökkenése esetén keletkezik.
+(11) Ha az erdőfelújítás műszaki átvételére a (10) bekezdésben foglaltak szerint nem kerül sor, az erdőgazdálkodó az erdőfelújítás állapotát évente, a tárgyév október 31-ig bejelenti az erdészeti hatóság részére.
 
-52. § Az erdőfelújítást az erdészeti hatóság az erdőfelújítás műszaki átvétele során befejezetté nyilvánítja, ha az erdőtervben szereplő célállománynak megfelelő fafajok egyedei az e törvény végrehajtására kiadott jogszabályban meghatározott számban, arányban és minőségben jelen vannak.
+52. § (1) Tarvágással érintett erdőben az erdőfelújítást az erdőgazdálkodónak legkésőbb az erdőfelújítási kötelezettség keletkezésének évétől számított második évben, az erdőfelújítás műszaki átvételéig meg kell kezdenie.
 
-52/A. § Az erdők felújításának csekély összegű (de minimis) támogatásáról szóló külön jogszabály alapján igénybe vett támogatás 2008. január 1-jét megelőzően – az erdészeti hatóság által kiadott engedély alapján – végzett véghasználatok után keletkezett erdőfelújítási kötelezettség teljesítésére az erdő természetes, illetőleg mesterséges felújítása érdekében végzett erdőgazdálkodási tevékenységekhez kapcsolódó pénzügyi tételt keletkeztető műveletekről az erdészeti hatóság közhiteles hatósági nyilvántartást vezet.
+(2) Az erdőfelújítás megkezdésének minősül, ha az erdőgazdálkodó az erdősítést az erdőtervben foglaltakkal, valamint az erdőgazdálkodás közérdekű korlátozásaival összhangban, szakszerűen végrehajtja, és az újulat ápolásáról megfelelően gondoskodik.
+
+(3) Fokozatos felújító vágással vagy szálalóvágással érintett erdőben a véghasználatot és az erdőfelújítást úgy kell végrehajtani, hogy az idős faállomány és a sikeresen megtelepedett újulat együttes záródása ne csökkenjen hatvan százalék alá. Az újulat károsodása eredményeképpen bekövetkező eredménycsökkenést – ha a megfelelő fafajú és minőségű újulat természetes úton való megtelepedése nem biztosítható – legkésőbb a soron következő év április 15-ig mesterséges úton pótolni kell.
+
+(4) Az erdőfelújítás megkezdését – a (3) bekezdésben foglalt esetben a véghasználatok befejezését – követően az erdőfelújítás befejezéséig az erdőgazdálkodó köteles a területen az erdőfelújítás eredményes befejezését lehetővé tevő minőségű és mennyiségű újulatot létrehozni és fenntartani.
+
+52/A. § (1) Az erdőfelújítást az erdészeti hatóság az erdőfelújítás műszaki átvétele során befejezetté nyilvánítja, ha az alábbi feltételeknek megfelel:
+
+- a) az újulat fafajösszetétele, eredete, mennyisége az erdőtervben meghatározott erdőfelújítási előírásnak megfelel,
+- b) az erdőfelújítási előírás szerinti állományalkotó főfafajú egyedek átlagos magassága kocsánytalan tölgy és molyhos tölgy esetében az 1,0 métert, egyéb fafaj esetében az 1,5 métert meghaladja, és
+- c) az erdőfelújítás további fejlődése az erdőfelújítási előírással összhangban biztosított.
+
+(2) Az erdőgazdálkodó kérelmére az erdő felújításának befejezésére meghatározott határidő leteltekor az erdészeti hatóság akkor is befejezetté nyilváníthatja az erdőfelújítást, ha az (1) bekezdés a) pontjában foglalt feltételnek az nem felel meg, de a természetességi állapotra vonatkozó alapelvárásnak megfelelő erdő a befejezett erdősítés ápolásával és tisztítás fakitermelési módú erdőnevelési beavatkozással várhatóan kialakítható, és ezt az erdőgazdálkodó erdőfelújítási biztosíték nyújtása mellett vállalja.
+
+(3) Ha a (2) bekezdésben foglaltak szerint a befejezett erdőfelújítás faállományát a megadott határidőre nem sikerül megfelelő állapotba hozni, akkor az erdészeti hatóság az erdőt ismét erdőfelújítási kötelezettség alá vonja.
+
+(4) A (2) bekezdésben foglaltak szerint nyújtott erdőfelújítási biztosítékot az erdészeti hatóság a (2) bekezdésben foglalt elvárás, vagy a (3) bekezdés szerint előírt erdőfelújítási kötelezettség teljesítésekor szabadítja fel.
+
+(5) Ha az erdőfelújítás megkezdésére, illetve befejezésére biztosított határidő elmulasztása az erdőgazdálkodónak nem felróhatóan, így különösen jelentősebb biotikus vagy abiotikus károsítás, továbbá honvédelmi, határrendészeti, nemzetbiztonsági, természetvédelmi, illetve kulturális örökség védelmi célú korlátozás miatt következik be, az erdészeti hatóság a tudomásszerzést követően a határidőt a rendes munkavégzéshez szükséges mértékig hivatalból módosítja.
+
+(6) Az erdőgazdálkodó változása esetén az erdészeti hatóság az új erdőgazdálkodó kérelmére az erdőfelújítás befejezésére biztosított határidőt – az 52. § (1) illetve (4) bekezdésében foglalt feltételek teljesítését követően – a rendes munkavégzéshez szükséges mértékig módosítja.
 
 ### Az erdőnevelés
 
-53. § (1) A befejezett erdőtelepítések és erdőfelújítások (a továbbiakban együtt: befejezett erdősítés) további fejlődését ápolással, ápoló- és tisztítóvágással, valamint törzskiválasztó és növedékfokozó gyérítéssel (a továbbiakban együtt: erdőnevelés) kell biztosítani, az erdő rendeltetésével vagy rendeltetéseivel és üzemmódjával összhangban.
+53. § (1) A befejezett erdőtelepítések és erdőfelújítások további fejlődését az újulat, illetve a faállomány megfelelő fafajösszetételének és szerkezetének kialakítását célzó ápolással, ápolóvágással, majd erdőnevelési célú fakitermelésekkel (a továbbiakban együtt: erdőnevelés) kell biztosítani, az erdő rendeltetésével vagy rendeltetéseivel, üzemmódjával, valamint az erdő természetességi állapotára vonatkozó alapelvárással összhangban.
 
-(2) Az erdőnevelés – beleértve a szálaló és átalakító üzemmódú erdőkben végzett fakitermeléseket is – során biztosítani kell, hogy a faállomány minősége és fejlődési lehetősége javuljon, az erdő élőfakészlete csak átmenetileg csökkenjen, továbbá hogy az erdő talaja és az erdei életközösség maradandó kárt ne szenvedjen.
+(2) Az erdőnevelés – beleértve az örökerdő és átmeneti üzemmódú erdőkben végzett fakitermeléseket is – során biztosítani kell, hogy a faállomány minősége és fejlődési lehetősége javuljon, az erdő élőfakészlete csak átmenetileg csökkenjen, továbbá hogy az erdő talaja és az erdei életközösség maradandó kárt ne szenvedjen.
 
-### A befejezett erdősítés felülvizsgálata
+### A befejezett erdőfelújítás felülvizsgálata
 
 54. § (1) Az erdészeti hatóság az erdősítés befejezetté nyilvánítását követő öt év elteltével kockázatelemzés alapján felülvizsgálja az erdő állapotát.
 
 (2) Amennyiben az erdő minőségének védelme ezt indokolja, az erdészeti hatóság az (1) bekezdés szerinti felülvizsgálatot az ott írt időpontnál korábban is megtarthatja, vagy később is megismételheti.
 
-(3) A felülvizsgálat eredményeképpen – az e törvény végrehajtására kiadott jogszabály szerint – az erdészeti hatóság az erdőrészletet vagy annak meghatározott részét erdőfelújítási kötelezettség alá vonhatja és elrendelheti az erdősítés megismétlését.
+(3) Ha a befejezett erdőfelújítás állapota a felülvizsgálat időpontjában nem felel meg a befejezésekor vizsgált feltételeknek, az erdészeti hatóság az erdőt vagy annak meghatározott, legalább fél hektárt meghaladó részét ismét erdőfelújítási kötelezettség alá vonhatja, és elrendelheti
+
+- a) az erdősítés megismétlését, amennyiben az erdőfelújítás állapota erdőneveléssel nem hozható helyre, vagy
+- b) a szükséges erdőnevelési feladatok végrehajtását.
 
 ### Az erdőszerkezet átalakítása
 
-55. § A meglévő erdő természetességi állapotán erdőgazdálkodási beavatkozással történő javítás, valamint sarjeredetű állomány után egy legalább azonos természetességű, nem sarj eredetű állomány létrehozása (erdőszerkezet-átalakítás)
+55. § (1) Erdőszerkezet-átalakításnak minősül a meglévő erdő természetességi állapotán erdőgazdálkodási beavatkozással történő javítás, valamint a sarjeredetű állomány után egy legalább azonos természetességű, nem sarj eredetű állomány létrehozása, az erdő természetességi állapotának, a természetességi állapotra vonatkozó alapelvárással összhangban történő helyreállítása kivételével.
 
-- a) faültetvényből, kultúrerdőből átmeneti, származék- vagy természetszerű erdő,
-- b) átmeneti erdőből származék- vagy természetszerű erdő,
-- c) származékerdőből természetszerű erdő
-
-létrehozásával történhet.
+(2) Az erdőszerkezet-átalakítás nem tartozik a rendes erdőgazdálkodás körébe.
 
 ### VI. Fejezet — AZ ERDŐT KÁROSÍTÓ HATÁSOK ELLENI VÉDEKEZÉS
 
@@ -870,9 +1166,9 @@ létrehozásával történhet.
 - b) a vadállomány által okozott károsítás;
 - c) az erdőt veszélyeztető tevékenység;
 - d) az erdő talaját veszélyeztető tevékenység;
-- e) hó, jég, szél, tűz, légszennyezés, árvíz, talajvízszint változása, fagy (abiotikus erdőkár).
+- e) hó, jég, szél, tűz, légszennyezés, árvíz, talajvízszint változása, belvíz, aszály, fagy (abiotikus erdőkár).
 
-(2) Az erdő fejlődésének, egészségi állapotának folyamatos figyelemmel kísérése, ellenőrzése és erdészeti növényvédelmi előrejelzés készítése céljából az állam erdővédelmi mérő- és megfigyelő rendszert működtet.
+(2)
 
 (3) Az erdészeti hatóság az e törvény végrehajtására kiadott jogszabály szerint bejelentett erdőkárokról az alábbi adatokkal hatósági nyilvántartást vezet (a továbbiakban: Országos Erdőkár Nyilvántartás):
 
@@ -890,9 +1186,16 @@ létrehozásával történhet.
 - a) az erdő egészségi állapotát figyelemmel kísérni;
 - b) az erdőt veszélyeztető káros hatások kártételének megelőzéséhez és az ellenük való védekezéshez szükséges intézkedéseket megtenni.
 
+57/A. § Ha az állam 100%-os tulajdonában nem álló erdő legalább két hektárt elérő területén – beleértve a folyamatban lévő erdőfelújítás területét is – a faállomány az erdőgazdálkodónak fel nem róható okból öt éven belül egymást követően legalább két alkalommal 70%-ot elérő mértékben károsodik, és az újabb károsodás kockázata – amely ellen a védekezés az erdőgazdálkodótól nem várható el – tartósan fennáll, akkor a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, annak hiányában az erdő használatára jogosult
+
+- a) kezdeményezheti az erdő adásvétel vagy értékarányos földcsere útján történő állami tulajdonba vételét, vagy
+- b) kérelmezheti az erdő mezőgazdasági művelésbe vonását, ha az a) pontban foglalt ajánlat nem haladta meg a helyben kialakult piaci árat és ezért az állam 100%-os tulajdonában lévő földek tulajdonosi joggyakorlására jogosult szerv azt visszautasította. A kérelmet az erdészeti hatóság a közérdekűség és a kivételesség vizsgálata nélkül bírálja el.
+
 ### Védelem a károsítók károkozása ellen
 
-58. § (1) A külön jogszabály szerinti zárlati károsítók kivételével a károsítók erdőben történő tömeges elszaporodása esetén az erdészeti hatóság határozatban kötelezi az erdőgazdálkodót a szükséges védekezés elvégzésére.
+58. § (1) A zárlati károsítók kivételével a károsítók erdőben az erdőgazdálkodónak felróható okból történő tömeges elszaporodása esetén – ha annak jelenléte az erdő fennmaradására nézve jelentős kockázattal jár, illetve a károsító környező erdőkben történő továbbterjedése valószínűsíthető – az erdészeti hatóság kötelezheti az erdőgazdálkodót a szükséges védekezés elvégzésére.
+
+(1a) Ha az (1) bekezdés szerinti károsító tömeges elszaporodására nem az erdőgazdálkodónak felróható okból kerül sor, vagy ha a károsító elleni védekezés eredményes végrehajtása az erdőgazdálkodótól el nem várható, az erdészeti hatóság közérdekű védekezést rendel el. A közérdekű védekezés költségeinek fedezetéről a központi költségvetésben az e célra meghatározott fejezeti kezelésű előirányzat terhére kell gondoskodni.
 
 (2) A külön jogszabály szerinti zárlati károsítók terjedésének és felszaporodásának megakadályozásáról az élelmiszerlánc-felügyeleti szerv gondoskodik.
 
@@ -914,7 +1217,7 @@ létrehozásával történhet.
 
 akadályozó létszámú és fajösszetételű vadászható vadállomány nem tartható fenn.
 
-(2) Vadaskertben és vadasparkban, az elkerített honvédségi objektumokban az (1) bekezdésben meghatározottól eltérő létszámú és fajösszetételű vadállomány is fenntartható, amely azonban az erdősítések befejezését nem veszélyeztetheti.
+(2) Vadaskertben és vadasparkban, az elkerített honvédségi objektumokban az (1) bekezdésben meghatározottól eltérő létszámú és fajösszetételű vadállomány is fenntartható, amely azonban az erdő fennmaradását vagy felújítását nem veszélyeztetheti.
 
 (3) Az erdészeti hatóság az (1) bekezdésben foglalt veszélyeztető tényezők észlelése esetén köteles kezdeményezni a vadászati hatóságnál a vadállomány apasztására, illetve a külön jogszabályokban előírt, a veszélyeztetés egyéb módon való megszüntetésére teendő intézkedés elrendelését. Az erdészeti hatóság megkeresésére a vadászati hatóságnak tizenöt napon belül kell határozatot hoznia.
 
@@ -922,11 +1225,11 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 
 61. § (1) Tilos erdőben
 
-- a) legeltetni;
-- b) bármilyen hulladékot elhelyezni;
-- c) élő fáról, cserjéről gallyat, díszítő lombot levágni (kivéve a minőségi törzsnevelést elősegítő nyesést), mohát gyűjteni.
+- a) a 76/C. §-ban foglaltakkal ellentétesen legeltetni;
+- b) hulladékot elhelyezni;
+- c) élő fáról, cserjéről gallyat, díszítő lombot, mohát gyűjteni.
 
-(2) Tilos az erdő látogatójának – a munkavégzésre jogosultakon kívül – motorfűrészt, 500 g-nál nagyobb fejtömegű fejszét, 30 cm-nél nagyobb vágólap hosszúságú kézifűrészt magánál tartani a közforgalom előtt meg nem nyitott erdei utakon és az erdőben.
+(2) Tilos az erdő látogatójának – a munkavégzésre jogosultakon kívül – motorfűrészt, 500 g-nál nagyobb fejtömegű fejszét, 30 cm-nél nagyobb vágólap hosszúságú kézifűrészt magánál tartani a közforgalom előtt meg nem nyitott erdészeti magánúton, erdőgazdálkodás célját közvetlenül szolgáló földterületen és az erdőben.
 
 ### Az erdő talajának védelme
 
@@ -938,7 +1241,14 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 
 63. § (1) Az erdő talajának védelme érdekében az erdőgazdálkodó köteles az erdőfelújítás, az erdőnevelés, a fakitermelés, a faanyag mozgatása, valamint a feltáró úthálózat kiépítése során az erdő talajának erózió és tömörödés elleni védelméről gondoskodni.
 
-(2) Az erdőben szennyvíz, szennyvíziszap, hígtrágya vagy talajszennyező anyag elhelyezése tilos.
+(2) Az erdőben szennyvíz, hígtrágya vagy talajszennyező anyag, valamint – a (2a) bekezdésben foglalt kivétellel – szennyvíziszap elhelyezése tilos.
+
+(2a) Az erdészeti hatóság a hulladéknak nem minősülő, és mezőgazdasági hasznosítású termőföldön alkalmazható szennyvíziszap alkalmazását
+
+- a) erdőtelepítés talajelőkészítése, valamint
+- b) a 7. § (1) bekezdés e) vagy f) pontjában foglalt természetességi állapotra vonatkozó alapelvárású erdő esetében a mesterséges erdőfelújítás talajelőkészítése
+
+során a talaj tápanyag- és vízgazdálkodásának javítása céljából – kérelemre, védett természeti terület és Natura 2000 terület kivételével – engedélyezi, ha az erdőgazdálkodó megfelelő akkreditációval rendelkező kutatóhely közreműködésével biztosítja a kihelyezett szennyvíziszap termőhelyre, és erdei életközösségre való hatásainak folyamatos, legalább húsz éven keresztül történő figyelemmel kísérését.
 
 (3) Az erdőből az akácmag engedélyezett gyűjtésének kivételével erdei avar vagy a talaj humuszos termőrétegének összegyűjtése és elszállítása tilos.
 
@@ -952,11 +1262,11 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 
 64. § Az erdő tűz elleni védelmével kapcsolatos feltételek megteremtéséről az erdőgazdálkodó köteles gondoskodni.
 
-65. § (1) Erdőben tűz gyújtására és fenntartására – az erre a célra kijelölt helyek kivételével – csak az erdőgazdálkodó, annak hiányában az erdő tulajdonosa írásbeli engedélye birtokában levő személy jogosult.
+65. § (1) Erdőben tűz gyújtására és fenntartására – az erre a célra kijelölt helyek kivételével – csak az erdőgazdálkodó, annak hiányában az erdő jogszerű használója írásbeli engedélye birtokában levő személy jogosult.
 
-(2) A vágástéren visszahagyott faanyag égetése az erdőgazdálkodó által arra kijelölt területeken és csak abban az esetben megengedett, ha a tűz az újulatot és a környezetében lévő erdőt, az erdőn kívüli területek élővilágát, valamint a természeti képződményeket és egyéb műtárgyakat nem veszélyezteti.
+(2) A vágástéren visszahagyott faanyag égetése az erdőgazdálkodó – haszonvételi joggyakorlás esetén a haszonvételi joggyakorló – által arra kijelölt területeken és csak abban az esetben megengedett, ha a tűz az újulatot és a környezetében lévő erdőt, az erdőn kívüli területek élővilágát, valamint a természeti képződményeket és egyéb műtárgyakat nem veszélyezteti.
 
-(3) Az erdőgazdálkodó a parkerdő területén turisztikai célból és tűzvédelmi szempontból állandó és biztonságos tűzrakó helyet köteles kialakítani. A kialakított tűzrakóhelyen a tűzvédelmi rendelkezések betartásával bárki jogosult tüzet rakni.
+(3) Az erdőgazdálkodó turisztikai célból – tűzvédelmi szempontból állandó és biztonságos – tűzrakó helyet alakíthat ki. A kialakított tűzrakóhelyen a tűzvédelmi rendelkezések betartásával bárki jogosult tüzet rakni.
 
 (4) Az erdőgazdálkodó az erdőben létesített mészégetőt, illetve faszénégetőt az erdészeti és a tűzvédelmi hatóságnak köteles bejelenteni.
 
@@ -968,32 +1278,31 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 
 66. § (1) A tűz őrzéséről, valamint annak – a helyszínről való távozás előtti – biztonságos eloltásáról a tűzgyújtásra jogosult köteles gondoskodni.
 
-(2) Aki erdőtüzet vagy tűzveszélyt észlel és azt eloltani, illetve elhárítani nem tudja, köteles a tűzoltóságot, az erdészeti hatóságot vagy az erdőgazdálkodót haladéktalanul tájékoztatni.
+(2) Aki erdőtüzet vagy tűzveszélyt észlel és azt eloltani, illetve elhárítani nem tudja, köteles a tűzoltóságot haladéktalanul tájékoztatni.
 
-67. § (1) Fokozott tűzveszély esetén a miniszter határozatban – a katasztrófák elleni védekezésért felelős miniszterrel való egyeztetés mellett – az ország egészére vagy meghatározott területén lévő erdőre, valamint az erdő határától számított kétszáz méteren belüli területre – átmeneti időre – általános tűzgyújtási tilalmat rendelhet el. A tűzgyújtási tilalom elrendeléséről és annak feloldásáról szóló határozatot az erdészeti hatóság és a miniszter által vezetett minisztérium honlapján, valamint két országos napilapban, a közszolgálati televízióban és rádióban kell közölni. A határozat közlése időpontjának az első közzététel időpontja minősül.
+67. § (1) Az ország teljes területére, illetve megye vagy település területére vonatkozóan a fokozott tűzveszély időszakának – a hivatásos katasztrófavédelmi szerv központi szervével való egyeztetés mellett történő – meghatározásáról, valamint az érintett erdőgazdálkodók, erdészeti szakszemélyzet és a lakosság erről történő tájékoztatásáról a miniszter gondoskodik.
 
-(2) Megye vagy település területére kiterjedő fokozott tűzveszély esetén – indokolt esetben, átmeneti időre – a megyei katasztrófavédelmi igazgatóság, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatóság egyetértésével vagy javaslatára az erdészeti hatóság is rendelhet el tűzgyújtási tilalmat. A tilalom elrendeléséről és annak feloldásáról szóló határozatot az erdészeti hatóság és a miniszter által vezetett minisztérium honlapján, valamint két országos napilapban, a közszolgálati televízióban és rádióban kell közölni. A határozat közlése időpontjának az első közzététel időpontja minősül.
-
-(3) A tűzgyújtási tilalom elrendelése esetén, annak feloldásáig az erdészeti hatóság az erdőbe való belépést és az ott tartózkodást korlátozhatja, illetve megtilthatja.
-
-(4) A tűzgyújtási és látogatási tilalom elrendelése a tűz időjárási index értékéhez köthető.
+(2) Fokozott tűzveszély időszakában az erdőgazdálkodó az erdőbe való belépést és az ott tartózkodást a 95. §-ban foglaltak alkalmazásával korlátozhatja, illetve megtilthatja.
 
 ### VII. Fejezet — ERDEI HASZONVÉTELEK
 
 ### Az erdei haszonvételek általános szabályai
 
-68. § Erdei haszonvételnek minősül:
+68. § Erdei haszonvételnek minősül az erdő anyagi javainak és nem anyagi jellegű szolgáltatásainak a hasznosítása, így különösen:
 
 - a) a fakitermelés;
 - b) az erdészeti szaporítóanyag gyűjtése;
 - c) a vadászati jog gyakorlása vagy hasznosítása az e törvény hatálya alá tartozó területen;
-- d) az elhalt fekvő fa és gally gyűjtése, illetőleg elhalt, száraz ág nyesése;
-- e) a kidöntött fáról történő fenyőgally, toboz és díszítőlomb gyűjtése;
-- f) a gomba, vadgyümölcs, virág, illetőleg gyógynövény gyűjtése;
+- d) az elhalt fekvő fa és gally gyűjtése, illetve elhalt, száraz ág nyesése;
+- e) a kidöntött fáról történő gally, toboz és díszítőlomb gyűjtése;
+- f) a gomba, vadgyümölcs, virág, illetve gyógynövény gyűjtése;
 - g) a bot, nád, sás, gyékény termelése és fű kaszálása;
 - h) a méhészeti tevékenység;
 - i) a fenyőgyanta gyűjtése;
-- j) cserje kitermelése, élő és elhalt cserjék hajtásainak gyűjtése.
+- j) cserje kitermelése, élő és elhalt cserjék hajtásainak gyűjtése;
+- k) az erdei legeltetés;
+- l) az erdő közjóléti szolgáltatásainak üzleti célú hasznosítása;
+- m) az erdei forrásvíz hasznosítása.
 
 69. § (1) Az erdei haszonvételek gyakorlása nem károsíthatja, illetve veszélyeztetheti az erdő biológiai sokféleségét, felszíni és felszín alatti vizeit, talaját, természetes felújulását, felújítását, a védett természeti értéket, valamint az erdei életközösséget.
 
@@ -1001,63 +1310,78 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 
 (3) Az erdei haszonvételnek minősülő vadászati jog gyakorlására, hasznosítására a külön jogszabály rendelkezéseit az e törvényben foglalt kiegészítésekkel kell alkalmazni.
 
-(4) A 68. § b), valamint d)–j) pontjai szerinti erdei haszonvételek gyakorlásának feltételeit – amennyiben jogszabály másként nem rendelkezik – az erdőgazdálkodó jogosult meghatározni.
+(4) Az erdei haszonvételek gyakorlásának feltételeit – amennyiben jogszabály másként nem rendelkezik – az erdőgazdálkodó jogosult meghatározni.
 
-(5) A földalatti gomba fajok az erdőgazdálkodó engedélyével, az e törvény végrehajtására kiadott jogszabályban előírtak szerint gyűjthetőek.
+(5) Természetvédelmi elsődleges rendeltetésű erdőben a 68. § l) pontjában meghatározott erdei haszonvételt a védett természeti terület természetvédelmi kezeléséért felelős szerv az ott folyó erdőgazdálkodási tevékenységekkel összhangban, az erdőgazdálkodó előzetes értesítése mellett gyakorolhatja.
 
 (6) Az erdei életközösség védett fajai fennmaradásának és fejlődésének biztosítása érdekében az erdészeti hatóság – hivatalból vagy a természetvédelmi hatóság megkeresése alapján – korlátozza vagy megtiltja erdőben a cserjék kitermelését, az elhalt, fekvő fa és gally, valamint élő és elhalt cserjék hajtásainak gyűjtését.
 
-(7) Az erdőgazdálkodó köteles tűrni – ha jogszabály másként nem rendelkezik – az egyéni szükségletet meg nem haladó gomba, vadgyümölcs, gyógynövény állami erdőben való gyűjtését.
+(7) Ha jogszabály másként nem rendelkezik, az állam 100%-os tulajdonában álló erdőben az erdőgazdálkodó köteles tűrni az egyéni szükségletet meg nem haladó mennyiségű gomba, vadgyümölcs, gyógynövény gyűjtését, valamint forrásvíz elhordását.
 
-69/A. § (1) Az erdészeti hatóság a földalatti gomba gyűjtésére vonatkozó jogszabályban meghatározott feltételeknek megfelelő személyekről, valamint a részükre kiadott tanúsítványról és gyűjtési naplóról az alábbi adatokkal hatósági nyilvántartást vezet:
-
-- a) feltételeket teljesítő személy természetes személyazonosító adatai,
-- b) a jogszabály szerinti tanfolyam elvégzésének ideje,
-- c) a tanfolyam elvégzéséről szóló tanúsítvány sorszáma,
-- d) a földalatti gomba gyűjtéséhez kiadott gyűjtési napló sorszáma, valamint
-- e) a gyűjtési napló kiadásának ideje.
-
-(2) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés a) pontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.
+#### 69/A. §
 
 ### Fakitermelés
 
-70. § (1) Az erdőben fakitermelést – a fásítás és a szabad rendelkezésű erdő kivételével – az erdőtervben foglalt előírásokkal összhangban lehet végezni.
+70. § (1) Fakitermelésnek minősül a fa tőtől, illetve talajtól való elválasztása, valamint a kitermelt faanyag erdőben történő mozgatása, és felkészítése, ide nem értve az erdőfelújítás érdekében végzett vágástakarítást és a rakodókról végzett szállítást. Az erdőben fakitermelést – e törvény eltérő rendelkezése hiányában – az erdőtervben foglalt előírásokkal összhangban lehet végezni.
 
-(2) A fásításból, a szabad rendelkezésű erdőből történő fakitermelést az e törvény végrehajtására kiadott jogszabályban előírtak szerint kell előzetesen az erdészeti hatóságnak bejelenteni.
+(2)
 
 (3) A fakitermelési munka végrehajtója köteles a munka elvégzésére jogosító, az erdőgazdálkodó jogosult erdészeti szakszemélyzete által kiadott erdőgazdálkodási műveleti lapot vagy annak másolati példányát a munkavégzés során magánál tartani, és azt az arra jogosult személynek felszólítására bemutatni.
 
 71. § (1) A fakitermelés módja lehet:
 
-- a) a fiatal erdő nevelése, megfelelő fejlődése céljából végzett fakitermelés, az erdősítés befejezését követő öt éven belül befejezett ápolás, ezt követően tisztítás (ápoló- és tisztítóvágás);
-- b) az erdő faállománya minőségének javítását és a fahozam növelését szolgáló fakitermelés (gyérítés);
-- c) a véghasználati kor elérése előtt az erdő szerkezetét károsan nem befolyásoló, faanyagnyerésre lehetőséget adó fakitermelés (készletgondozó használat);
-- d) a faállomány egy beavatkozással végrehajtott kitermelése, véghasználata (tarvágás);
-- e) a faállomány fokozatos, időben elhúzódó, több alkalommal végrehajtott véghasználat jellegű kitermelése (fokozatos felújítóvágás);
-- f) a faállomány fokozatos, időben elhúzódó (30 évet meghaladó), több alkalommal végrehajtott véghasználat jellegű kitermelése (szálaló vágás);
-- g) a folyamatos erdőborítás fenntartása mellett végrehajtott – vegyes korú és szerkezetű erdő kialakítását és fenntartását célzó – fakitermelés, amelynek mértéke a készletgazdálkodáson alapul (szálalás);
-- h) az elhalt, a súlyosan sérült vagy a veszélyes károsítók elszaporodását előidéző, beteg fák kitermelése (egészségügyi fakitermelés);
-- i) olyan véghasználati jellegű fakitermelés, amely után erdőfelújítási kötelezettség nem keletkezik (egyéb termelés).
+- a) tisztítás: a fiatal erdő nevelése, megfelelő fejlődése céljából végzett fakitermelés;
+- b) gyérítés: az erdő faállománya minőségének javítását és a fahozam növelését szolgáló fakitermelés;
+- c) tarvágás: a faállomány egy beavatkozással végrehajtott kitermelése, véghasználata;
+- d) fokozatos felújítóvágás: a faállomány fokozatos, időben elhúzódó, de 30 évet nem meghaladó időtartamú, több alkalommal végrehajtott véghasználat jellegű kitermelése, ideértve a természetes záródáshiány következtében megjelent újulat megőrzése érdekében az idős állomány végvágását is;
+- e) szálalóvágás: a faállomány fokozatos, 30 évet meghaladó időtartamú, több alkalommal végrehajtott véghasználat jellegű kitermelése;
+- f) készletgondozó használat: a folyamatos erdőborítás fenntartása mellett végrehajtott – vegyes korú és szerkezetű erdő kialakítását és fenntartását célzó – fakitermelés, amelynek mértéke a készletgazdálkodáson alapul;
+- g) egészségügyi fakitermelés: az elhalt, a súlyosan sérült vagy a veszélyes károsítók elszaporodását előidéző, beteg fák kitermelése;
+- h) egyéb termelés: egyéb fakitermelés, amely után erdőfelújítási kötelezettség nem keletkezik.
 
 (2) A fa kitermelésekor figyelemmel kell lenni a vízforrások és vízbázisok védelmére, a védett élő szervezetek élőhelyére, az élettelen természeti értékek védelmére, a tájképre, valamint az értékes emberi alkotások környezetére.
 
 (3) Az erdészeti hatóság a vízforrások, vízbázisok, a védett élő szervezetek élőhelyének, az élettelen természeti vagy tájképi értékek környezetének, a közjóléti objektumok védelme érdekében egyes fák vagy facsoportok kitermelését megtilthatja.
 
-72. § (1) A 71. § (1) bekezdés d) pontja szerinti fakitermelés végrehajtását az erdészeti hatóság erdőfelújítási biztosíték nyújtásához köti, ha az ingatlan tulajdonosa, vagy közös tulajdon esetében a tulajdonostársak tulajdoni hányada alapján számított legalább 25%-a kéri.
+71/A. § (1) Vágásos és átmeneti üzemmódú erdőgazdálkodás esetén a faállomány véghasználatának tervezését megalapozó vágásérettségi kort az erdészeti hatóság az erdő rendeltetéseinek, az erdőgazdálkodás üzemmódjának, valamint az erdőgazdálkodás céljainak és korlátozásainak figyelembevételével, a termőhelyi viszonyok, a faállományt alkotó fafajok jellemzői, egészségi állapota függvényében, az e törvény végrehajtására kiadott jogszabályban foglalt értékek között határozza meg.
 
-(2) Az erdészeti hatóság a 71. § (1) bekezdés d) pontja szerinti fakitermelés végrehajtását erdőfelújítási biztosíték nyújtásához köti, ha
+(2) Faültetvény és kultúrerdő természetességi állapotra vonatkozó alapelvárású, az állam 100%-os tulajdonában nem álló erdő esetén a vágásérettségi kor csak ajánlásként kerül meghatározásra.
 
-- a) az erdőgazdálkodó a bejelentés benyújtását megelőző három évben az erdő felújítására vonatkozó erdőgazdálkodási szabályokat megsértette;
-- b) az a jogi személy vagy jogi személyiséggel nem rendelkező szervezet, mely az erdőgazdálkodó tulajdonában áll, vagy amelynek az erdőgazdálkodó vezető tisztségviselője, a bejelentés benyújtását megelőző három évben az erdőgazdálkodási szabályokat megsértette.
+(3) Faanyagtermelési elsődleges rendeltetésű, az állam 100%-os tulajdonában nem álló, átmeneti erdő természetességi állapotra vonatkozó alapelvárású erdő véghasználatára – amennyiben az erdőfelújítás feltételei biztosítottak –
 
-(3) Erdőfelújítási biztosítékként az erdészeti hatóság
+- a) gyorsan növő fafajok esetén tíz évvel,
+- b) lassan növő fafajok esetében húsz évvel
 
-- a) bankgaranciát;
-- b) hatóság letéti számlájára elhelyezett készpénzt, államkötvényt;
-- c) ügyvédi vagy bírói letétbe helyezett készpénzt, államkötvényt;
-- d) az erdőgazdálkodó többségi tulajdonában álló erdő tulajdoni hányadára vagy tehermentes egyéb ingatlanára a Magyar Állam javára bejegyzett jelzálogjogot fogadhat el.
+a vágásérettségi kor elérése előtt sor kerülhet.
 
-(4) A sikeres első erdősítés ellenőrzését követően az erdészeti hatóság a biztosíték 70%-át, az erdőfelújítás befejezésének ellenőrzését követően pedig a teljes biztosítékot felszabadítja.
+72. § (1) Az erdészeti hatóság a tarvágás végrehajtását erdőfelújítási biztosíték nyújtásához köti, ha
+
+- a) az erdőgazdálkodó, illetve a tulajdonában álló jogi személy vagy jogi személyiséggel nem rendelkező szervezet a tarvágás bejelentésének évében vagy az azt megelőző két évben az erdészeti hatóság jogerős határozatban tett megállapítása szerint az adott tárgyév első napján erdőfelújítási kötelezettség alatt álló erdeinek 5 százalékán – összesen legalább egy hektár területen – túllépi az erdő felújítására vonatkozó határidőt,
+- b) a tarvágásra a 7. § (1) bekezdés a)–d) pontjában foglalt természetességi állapotra vonatkozó alapelvárású erdőben kerül sor, vagy az erdőgazdálkodónak az erdőterve alapján a 7. § (1) bekezdés e) vagy f) pontjában foglalt természetességi állapotra vonatkozó alapelvárású erdőkben öt hektárnál nagyobb tarvágás végrehajtására van lehetősége, és
+  - ba) az erdőgazdálkodó személyét az erdészeti hatóság az erdőgazdálkodói nyilvántartásban öt évnél rövidebb ideje vette nyilvántartásba, vagy
+  - bb) az erdőgazdálkodó korábban eredményes erdőfelújítási tevékenységet – az 52. § (4) bekezdésében foglalt feltétel teljesítésével – még nem végzett, vagy
+- c) azt az ingatlan ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultja, ezek hiányában az ingatlan tulajdonosa, közös tulajdon esetén azok tulajdoni hányad alapján számított legalább 25%-a kéri.
+
+(2) Az (1) bekezdés a) pontjának alkalmazása tekintetében a határidő-túllépést
+
+- a) az erdőgazdálkodó erdőkezelésébe adott területen bejelentett tarvágás esetén a tarvágással érintett önálló erdőgazdálkodási egység,
+- b) az erdőgazdálkodó jogszerű használatában álló területen bejelentett tarvágás esetén az erdőgazdálkodó jogszerű használatában álló önálló erdőgazdálkodási egységek
+
+vonatkozásában kell vizsgálni.
+
+(3) Nem kell erdőfelújítási biztosítékot nyújtania az erdőgazdálkodónak az (1) bekezdés b) vagy c) pontjában foglalt esetben, ha az erdőterv által az erdőrészletben lehetővé tett tarvágást legfeljebb az érintett terület felén végzi el, és azt csak az erdőfelújítás 52. § (3) bekezdésében foglalt eredményességgel történő végrehajtását követően folytatja.
+
+(4) Erdőfelújítási biztosítékként az erdészeti hatóság
+
+- a) bankgaranciát,
+- b) az erdészeti hatóság letéti számlájára elhelyezett készpénzt, államkötvényt, vagy
+- c) okirattal igazolt ügyvédi vagy bírói letétbe helyezett készpénzt, illetve államkötvényt
+
+fogadhat el.
+
+(4a) Az erdészeti hatóság az erdőfelújítás 52. § (2) bekezdésében foglaltak szerinti megkezdését követően a biztosíték 70%-át, az erdőfelújítás befejezését követően pedig a fennmaradó biztosítékot – a (4b) bekezdésben foglaltak figyelembevételével – felszabadítja.
+
+(4b) Ha a 106. § (6) bekezdésében foglalt kötelezett a biztosíték nyújtójával nem egyezik meg, akkor az erdészeti hatóság a biztosítékot – amennyiben a biztosíték nyújtója és az erdő tulajdonosai ellentétes megállapodást nem kötöttek – a kötelezett javára szabadítja fel.
 
 (5) Az erdészeti hatóság az e célból elkülönített számlájára jogszabályi rendelkezés alapján elhelyezett letétekről az alábbi adatokkal nyilvántartást vezet:
 
@@ -1066,52 +1390,41 @@ akadályozó létszámú és fajösszetételű vadászható vadállomány nem ta
 - c) a letét jogosultjának neve, valamint
 - d) a letét elhelyezésének ideje.
 
-(6) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés a) pontjában foglalt adat kivételével közhiteles hatósági nyilvántartásnak minősül.
+(6) Az (5) bekezdés szerinti nyilvántartás az (5) bekezdés a) pontjában foglalt adat kivételével közhiteles hatósági nyilvántartásnak minősül.
 
-73. § (1) Az ápoló- és tisztítóvágás, felújítóvágás végvágása és szálalóvágás végvágása, valamint a tarvágás kivételével minden fahasználat csak akkor hajtható végre, ha a kivágásra tervezett fák szakszerű megjelölése előzetesen már megtörtént. A faültetvényre, kultúrerdőkre az előírás nem vonatkozik.
+73. § (1) A tisztítóvágás, felújítóvágás végvágása és szálalóvágás végvágása, valamint a tarvágás kivételével minden fahasználat csak akkor hajtható végre, ha a kivágásra tervezett fák szakszerű megjelölése előzetesen már megtörtént. A faültetvényre, kultúrerdőkre az előírás nem vonatkozik.
 
-(2) Az e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában természetes mageredetű erdőfelújításra az erdőtervben előírt újulattal rendelkező erdőrészletekben véghasználat, szálaló üzemmódban kezelt területeken szálalás március 31. és szeptember 1. közötti időszakban nem végezhető. Ettől eltérni csak időjárási körülmények miatt, az erdészeti hatóság engedélye alapján lehet.
+(2)
 
-(3) Az újulattal rendelkező erdőrészletekben véghasználatot, szálalást csak olyan időpontban és olyan technológiával lehet végrehajtani, amelyik az erdő felújulásának sikerességét, a visszamaradó állományt és a talajt nem veszélyezteti.
+(3)
 
 (4) Az erdészeti hatóság természetes és természetszerű, valamint származékerdőkben, véghasználat esetében, termőhelyi, tájképvédelmi, talajvédelmi és erdőművelési okokból előírhatja a faállomány élőfakészletének 5 százalékos mértékéig hagyásfák, facsoportok visszahagyását.
 
-(5) Amennyiben az erdőgazdálkodó az erdőfelújítási kötelezettségének e törvényben, illetve az e törvény végrehajtására kiadott jogszabályban megszabott módon, illetve határidőre nem tett eleget, vagy az erdészeti hatóság által jogerős határozattal kiszabott erdővédelmi vagy erdőgazdálkodási bírságtartozása van, az erdészeti hatóság a fakitermelést korlátozza, ismételt vagy súlyos jogsértés esetén megtiltja.
+(5)
 
 (6) Az erdészeti hatóság határidő kitűzésével elrendeli a fakitermelést, ha az az erdő egészségi állapotának megőrzése, javítása, veszély elhárítása vagy az erdő felújítása érdekében szükséges.
 
-(7) Az erdészeti hatóság Natura 2000 erdőterületen a közösségi és kiemelt jelentőségű élőhelyek és fajok kedvező természetvédelmi helyzetének megőrzése érdekében előírhatja:
+(7)
 
-- a) tisztítóvágás, gyérítés, készletgondozó használat, fokozatos felújítóvágás, szálaló vágás, szálalás esetén
-  - aa) egyes fafajok,
-  - ab) egyedi jellegzetességgel bíró (különösen odvas, böhönc) faegyedek,
-  - ac) álló és fekvő holtfa,
-- b) egészségügyi fakitermelés esetén legfeljebb 5 m3/ha mértékig álló és fekvő holtfa,
-- c) véghasználat esetén
-  - ca) hagyásfák,
-  - cb) a faállomány élőfakészletének 5 százalékos mértékéig facsoportok visszahagyását.
+(8)
 
-(8) Az erdészeti hatóság a Natura 2000 erdőterületen a közösségi és kiemelt jelentőségű fajok kedvező természetvédelmi helyzetének megőrzése érdekében a fakitermelés elvégzésére időbeli és térbeli korlátozást állapíthat meg.
+74. § (1) Tarvágás következtében az erdőben
 
-74. § (1) Az erdőterv alapján tarvágás akkor végezhető, ha:
+- a) sík és dombvidéki
+  - aa) gazdasági elsődleges rendeltetésű faültetvényekben és kultúrerdőkben húsz hektárnál,
+  - ab) gazdasági elsődleges rendeltetésű származék és átmeneti erdőkben tíz hektárnál,
+  - ac) az aa)–ab) alpont alá nem tartozó, egyéb erdőkben öt hektárnál nagyobb,
+- b) hegyvidéki erdőben öt hektárnál nagyobb
 
-- a) sík és dombvidéken gazdasági elsődleges rendeltetésű faültetvényekben és kultúrerdőkben húsz hektárnál, gazdasági elsődleges rendeltetésű származék és átmeneti erdőkben tíz hektárnál, egyéb erdőkben öt hektárnál nagyobb,
-- b) hegyvidéken öt hektárnál nagyobb,
+egybefüggő erdőfelújítási kötelezettség alatt álló terület nem keletkezhet.
 
-egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
+(2) Az (1) bekezdésben foglalt területi korláttól
 
-(2) A tarvágás során hullámtéren a töltés és a folyó között egybefüggő, felújítás alatt álló vágásterület nem keletkezhet, kivéve ha a folyó és a töltés között 50 méternél kisebb szélességű erdő található.
+- a) erdőkárok bekövetkezése esetén,
+- b) természetvédelmi célból, vagy
+- c) gyorsan növő főfafajjal telepített erdő esetén, ha az erdőtelepítés – az erdészeti hatóság engedélyével – az (1) bekezdés alapján meghatározott területi korlátnál nagyobb egybefüggő területen, egyszerre valósult meg,
 
-(3) Az erdészeti hatóság a területi kiterjedéstől függetlenül a tarvágás végrehajtását megtiltja, ha az az erdő talajszerkezetének jelentős romlásával jár.
-
-(4) Sarjeredetű természetes felújítás alkalmazásánál – az e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – akác esetében május 1., egyéb fafaj esetében április 1. és szeptember 1. között fakitermelés nem végezhető.
-
-(5) Az erdészeti hatóság a tarvágás végrehajtását az erdő talajának védelmét szolgáló, az e törvény végrehajtására kiadott jogszabályban meghatározott feltétel teljesítéséhez kötheti.
-
-(6) Az (1) bekezdés alkalmazásában:
-
-- a) felújítás alatt álló vágásterületnek minősül az üres vágásterületen felül a folyamatban levő erdőfelújítás területe is, amíg az erdészeti hatóság az erdőfelújítást befejezetté nem nyilvánítja;
-- b) a tervezett tarvágás területével egybefüggőnek minősül az a felújítás alatt álló terület, amelyet kevesebb, mint nyolcvan méter széles, felújítás alatt nem álló, faállománnyal borított erdő választ el tőle.
+el lehet térni.
 
 ### Erdészeti szaporítóanyag gyűjtése
 
@@ -1123,26 +1436,88 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 76. § (1) Fenyőgyantát erdőben csak akkor lehet gyűjteni, ha az erdőterv szerinti véghasználati fakitermelésre öt éven belül sor kerül.
 
-(2) Vízgazdálkodási elsődleges rendeltetésű erdőben a cserjék kivágását az erdészeti hatóság – az e törvény végrehajtására kiadott jogszabályban foglalt feltételek teljesítése esetén – engedélyezi.
+(2) Árvízvédelmi elsődleges rendeltetésű erdőben a cserjék kivágását az erdészeti hatóság – az e törvény végrehajtására kiadott jogszabályban foglalt feltételek teljesítése esetén – engedélyezi.
+
+### Földalatti gomba gyűjtése
+
+76/A. § (1) Földalatti gomba az erdőgazdálkodó hozzájárulásával, az e törvény végrehajtására kiadott jogszabályban foglaltak szerint gyűjthető.
+
+(2) Az erdészeti hatóság – a földalatti gomba gyűjtésével foglalkozó szervezetek véleményének figyelembevételével –
+
+- a) ha az időjárási viszonyok miatt kialakuló sajátos gombaérés azt indokolja, a földalatti gomba gyűjtési időszakát adott naptári évre, az ország egészére vagy egy részére, illetve adott gombafajra vonatkozóan az e törvény végrehajtására kiadott jogszabályban meghatározott időszaktól eltérően is meghatározhatja, illetve
+- b) a földalatti gomba fajállományának csökkenése miatt vagy egyéb fajvédelmi okból az ország egészére vagy egy részére a földalatti gomba gyűjtését adott naptári évre vonatkozóan korlátozhatja, illetve megtilthatja.
+
+(3) Az erdészeti hatóság az e § alapján hozott határozatát fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja, és azt a honlapján közzéteszi.
+
+76/B. § (1) Az erdészeti hatóság az e törvény végrehajtására kiadott jogszabályban meghatározott feltételeknek megfelelő személyekről, valamint a részükre kiadott tanúsítványról és a gyűjtési naplóról az alábbi adatokkal hatósági nyilvántartást vezet:
+
+- a) a feltételeket teljesítő személy természetes személyazonosító adatai,
+- b) a tanfolyam elvégzésének ideje,
+- c) a tanfolyam elvégzéséről szóló tanúsítvány sorszáma,
+- d) a földalatti gomba gyűjtéséhez kiadott gyűjtési napló sorszáma, valamint
+- e) a gyűjtési napló kiadásának ideje.
+
+(2) Az (1) bekezdés szerinti nyilvántartás – az (1) bekezdés a) pontjában foglalt adat kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+### Erdei legeltetés
+
+76/C. § (1) Erdőben, valamint erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen legeltetni vagy pihentetni (a továbbiakban: erdei legeltetés) kizárólag lovat, szarvasmarhát és juhot szabad.
+
+(2) Erdei legeltetésre
+
+- a) a legeltetésre szolgáló mezőgazdasági területtel közvetlenül szomszédos
+  - aa) 7. § (1) bekezdés e) és f) pontja szerinti természetességi állapotra vonatkozó alapelvárású erdőben, valamint
+  - ab) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen – az erdei vízfolyás, erdei tó kivételével –, továbbá
+- b) nagyvízi mederben, a kezelési tervekben foglaltakkal összhangban
+
+kerülhet sor.
+
+(3) Tilos az erdei legeltetés a véghasználat megkezdésétől az erdőfelújítás befejezését követő ötödik év végéig.
+
+(4) Az erdei legeltetés során megfelelő módon gondoskodni kell a legeltetett állat szomszédos erdőkbe való bejutásának megakadályozásáról.
+
+(5) Erdei legeltetési tevékenység a tulajdonos és az erdőgazdálkodó hozzájárulásával, valamint az erdészeti hatóság részére – Natura 2000 hálózat részeként kijelölt területen annak megkezdése előtt legkésőbb 21 nappal – történő előzetes bejelentést követően, felügyelő személy állandó biztosítása mellett végezhető.
+
+(6) A legeltetést felügyelő személy köteles magánál tartani a tulajdonos és az erdőgazdálkodó legeltetéshez való hozzájárulását tartalmazó dokumentumot.
 
 ### VIII. Fejezet — AZ ERDŐ IGÉNYBEVÉTELE ÉS MEGOSZTÁSA
 
 ### Az erdő igénybevétele
 
-77. § Az erdő igénybevétele
+77. § (1) Az erdő igénybevétele
 
 - a) az erdő mezőgazdasági művelésbe vonása;
 - b) az erdő termelésből való kivonásával járó létesítmény elhelyezése vagy tevékenység gyakorlása (a továbbiakban: termelésből kivonás);
 - c) az erdő termelésből való időleges kivonásával járó létesítmény elhelyezése vagy tevékenység gyakorlása (a továbbiakban: időleges igénybevétel);
-- d) az erdő termelésből való kivonásával nem járó, de annak rendeltetésszerű használatát időlegesen vagy tartósan akadályozó létesítmény elhelyezése vagy tevékenység gyakorlása – ide nem értve a vadaskert, vadaspark fenntartását, honvédelmi elsődleges rendeltetésű erdőkben a honvédelemről és a Magyar Honvédségről szóló törvény szerinti, a Magyar Honvédség feladatai végrehajtásához szükséges állapotának fenntartását szolgáló tevékenységet, valamint a befogadó nemzeti támogatás katonai feladatainak ellátását – így különösen: villamos vezeték, gázvezeték, távközlő- vagy más közművezeték, sí- és egyéb sportpálya létesítése és fenntartása (a továbbiakban együtt: rendeltetésszerű használatot akadályozó igénybevétel).
+- d) az erdő termelésből való kivonásával nem járó, de annak rendeltetésszerű használatát időlegesen vagy tartósan akadályozó létesítmény elhelyezése vagy tevékenység gyakorlása, különösen villamos vezeték, gázvezeték, távközlő- vagy más közművezeték, sí- és egyéb sportpálya létesítése és fenntartása (a továbbiakban együtt: rendeltetésszerű használatot akadályozó igénybevétel).
 
-78. § (1) Erdőt igénybe venni csak kivételes esetben, a (3) bekezdés kivételével kizárólag a közérdekkel összhangban lehet.
+(2) Nem minősül erdő igénybevételének:
+
+- a) a vadaskert, vadaspark létesítése és fenntartása,
+- b) a honvédelmi rendeltetésű erdőben a Magyar Honvédség feladatai végrehajtásához szükséges állapotának fenntartását, valamint a befogadó nemzeti támogatás katonai feladatainak ellátását biztosító létesítmény elhelyezése vagy tevékenység gyakorlása,
+- c) a határrendészeti rendeltetésű erdőben a határrendészeti vagy nemzetbiztonsági célokat szolgáló létesítmények elhelyezése vagy tevékenység gyakorlása,
+- d) az alábbi erdészeti létesítmény elhelyezése:
+  - da) nem engedélyköteles erdészeti létesítmény,
+  - db) erdőtelepítéseket, erdőfelújításokat védő vadkárelhárító kerítés,
+  - dc) épített közelítő nyom, valamint
+- e) az erdő 13. § (2) bekezdésében foglaltak szerint engedélyezett fátlan állapotban tartása.
+
+78. § (1) Erdőt igénybe venni – a (3) és (4) bekezdésben foglaltak kivételével – csak kivételes esetben, a közérdekkel összhangban lehet.
 
 (2) Az erdő igénybevételéhez az erdészeti hatóság előzetes engedélye szükséges. Az erdőt kizárólag az engedélyben megjelölt határidőn belül, és az abban meghatározott célra lehet igénybe venni.
 
-(3) Gazdasági elsődleges rendeltetésű kultúrerdő és faültetvény igénybevételét az erdészeti hatóság az adott erdő fekvése szerinti vagy az azzal szomszédos településen végrehajtott, az igénybe vett erdővel legalább azonos területű, azzal megegyező vagy attól magasabb természetességi állapotú csereerdősítés elvégzésének feltétele mellett a közérdekkel való összhang hiányában is engedélyezheti.
+(3) Az erdészeti hatóság az (1) bekezdésben foglalt szempontok vizsgálata nélkül is engedélyezheti
 
-(4) A nemzetgazdasági szempontból kiemelt jelentőségű beruházás esetén a közérdekkel való összhangot vélelmezni kell.
+- a) gazdasági elsődleges rendeltetésű kultúrerdő vagy faültetvény természetességi állapotra vonatkozó alapelvárású erdő 77. § (1) bekezdés b)–d) pontjában foglalt igénybevételét, az adott erdő fekvése szerinti, vagy az azzal szomszédos településen végrehajtott, az igénybe vett erdővel legalább azonos területű, azzal megegyező vagy annál magasabb természetességi állapotra vonatkozó alapelvárású csereerdősítés elvégzésének feltétele mellett, vagy
+- b) az állam 100%-os tulajdonában nem álló faültetvény vagy kultúrerdő természetességi állapotra vonatkozó alapelvárású felnyíló erdő mezőgazdasági művelésbe vonását.
+
+(4) A nemzetgazdasági szempontból kiemelt jelentőségű beruházás, közműfejlesztési célú beruházás, valamint az erdő árvízvédelmi, honvédelmi vagy határrendészeti célú igénybevétele esetén a közérdekkel való összhangot vélelmezni kell.
+
+(5) A (3) bekezdés b) pontjában foglaltak szerint igénybe vett erdő területén a mezőgazdasági művelésbe vonást követő 10 éven belül állami támogatás igénybevételével faállomány nem létesíthető.
+
+(6) Az erdő igénybevétel engedélyezési eljárásában az erdészeti hatóság – ha szükséges – az erdőtervet is módosítja.
+
+78/A. § Az erdészeti hatóság az erdő igénybevételét a 78. § (1) bekezdésében foglalt szempontok mérlegelése nélkül engedélyezi, ha az erdő igénybevételét – megegyező tartalommal – korábban elvi engedélyezési eljárásban vagy más hatóság eljárásában szakhatóságként vagy szakkérdés vizsgálatával már engedélyezhetőnek ítélte és a döntést tartalmazó határozat hatályban van.
 
 79. § (1) Az erdő igénybevételére vonatkozó engedély négy évre szól. Amennyiben a megadott határidőn belül az engedélyezett nagyságú erdő igénybevétele nem kezdődik meg, vagy az engedély jogosultja írásban nyilatkozik arról, hogy az engedélyben foglalt jogosultságáról lemond, az engedély az igénybe nem vett részre érvényét veszti és a területen továbbra is az e törvény előírásai szerinti erdőgazdálkodást kell folytatni.
 
@@ -1161,11 +1536,11 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 (2) Bányászati célú igénybevétel esetén az engedély időbeli hatályát az erdészeti hatóság négy évnél hosszabb időtartamban, de legfeljebb a bányászati hatóság által jóváhagyott műszaki üzemi terv érvényességének lejártáig is megállapíthatja.
 
-(3) Az erdő igénybevétele iránti kérelemhez csatolni kell a tulajdonos hozzájárulását, vagy az igénybevétel céljára vonatkozó, más jogcímen fennálló rendelkezési jogot igazoló okiratot.
+(3) Az erdő igénybevétele iránti kérelemhez csatolni kell a tulajdonos és az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultja hozzájárulását, vagy az igénybevétel céljára vonatkozó, más jogcímen fennálló rendelkezési jogot igazoló okiratot.
 
-(3a) Az erdő igénybevétele iránti kérelemhez érintettség esetén csatolni kell a csereerdősítésre tervezett terület megjelölését és az érintett ingatlan tulajdonosának vagy tulajdonosainak erdőtelepítéshez adott, közokiratba vagy teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát.
+(3a) Az erdő igénybevétele iránti kérelemhez érintettség esetén csatolni kell a csereerdősítésre tervezett terület megjelölését és az érintett ingatlan tulajdonosának és az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultjának erdőtelepítéshez adott, közokiratba vagy teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát.
 
-(4) Az erdőgazdálkodási tevékenységet közvetlenül szolgáló, erdő művelési ágban nyilvántartott földterület igénybevétele esetén az erdő igénybevételére vonatkozó szabályokat kell alkalmazni.
+(4) A termelésből kivont erdők területén tíz éven belül tervezett tevékenységgel, illetve létesítménnyel kapcsolatos eljárásban – amennyiben az a szomszédos erdőkre hatással van – erdővédelmi szakkérdésként azt is vizsgálni kell, hogy a termelésből történő kivonás a tervezett tevékenységre, illetve létesítményre tekintettel is engedélyezhető lett volna-e. A tervezett tevékenység, illetve létesítmény nem engedélyezhető, ha a tevékenységre, illetve létesítményre tekintettel az erdészeti hatóság korábban nem engedélyezte volna a termelésből történő kivonást.
 
 80. § (1) Az erdő igénybevételének engedélyezését az erdészeti hatóság az erdő csökkenésével, illetve az erdő rendeltetésszerű használatának akadályozásával járó kedvezőtlen környezeti változások megszüntetése vagy mérséklése érdekében feltételekhez kötheti.
 
@@ -1175,24 +1550,26 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 (4) Az elvi engedély érvényességi idején belül kezdeményezett igénybevételi eljárás során az erdészeti hatóságot, szakhatóság közreműködése esetén a szakhatóságot az elvi engedély azokban a kérdésekben, amelyekről kifejezetten rendelkezett, akkor is köti, ha időközben a jogszabályok, valamint a kötelező hatósági előírások megváltoztak. Az elvi engedély alapján az erdő igénybevétele nem kezdhető meg.
 
-(5) A 79. § (1a) bekezdés a) pontja szerinti fakitermelés bejelentésére a 41. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bejelentést az igénybevételt engedélyező határozat alapján kell megtenni. A bejelentést az erdőgazdálkodón kívül az igénybevevő is benyújthatja. Mellőzhető a bejelentés, ha az erdő igénybevétele iránti kérelemben az engedélyes a fakitermelés tárgyévi vagy a tárgyévet követő évi végrehajtására vonatkozó szándékát előre jelezte. A fakitermelés a bejelentést és a 70. § (3) bekezdése szerinti műveleti lap kiállítását követően azonnal megkezdhető.
+(5)
 
 81. § (1) Erdő igénybevétele esetén az igénybevevő erdővédelmi járulékot köteles fizetni.
 
 (2) Az erdővédelmi járulék mértéke
 
 - a) erdő termelésből való kivonásáért hektáronként
-  - aa) védelmi és közjóléti elsődleges rendeltetésű erdő esetén az erdővédelmi járulékalap harmincszorosa;
+  - aa) védelmi vagy közjóléti elsődleges rendeltetésű erdő esetén az erdővédelmi járulékalap harmincszorosa;
   - ab) gazdasági elsődleges rendeltetésű erdő esetén az erdővédelmi járulékalap húszszorosa;
   - ac) megyei jogú város közigazgatási területén: az aa) és ab) pontban foglaltak másfélszerese;
   - ad) Budapest, illetve Budapest agglomerációjának területén: az aa) és ab) pontban foglaltak kétszerese;
 - b) erdő mezőgazdasági művelésbe vonásáért hektáronként
-  - ba) természetes és természetszerű természetességi állapotú, valamint védelmi elsődleges rendeltetésű erdő esetén az erdővédelmi járulékalap húszszorosa;
-  - bb) egyéb esetben az erdővédelmi járulékalap ötszöröse;
+  - ba) természetes erdő vagy természetszerű erdő természetességi állapotra vonatkozó alapelvárású, valamint védelmi elsődleges rendeltetésű erdő esetén az erdővédelmi járulékalap húszszorosa;
+  - bb) egyéb esetben – valamint az 57/A. § b) pont szerinti esetben természetes és természetszerű természetességi állapotú, valamint védelmi elsődleges rendeltetésű erdő esetén is – az erdővédelmi járulékalap ötszöröse;
 - c) erdő időleges igénybevételéért hektáronként és évenként
-  - ca) természetes és természetszerű természetességi állapotú, valamint védelmi elsődleges rendeltetésű erdő esetén az erdővédelmi járulékalap háromszorosa;
+  - ca) természetes erdő vagy természetszerű erdő természetességi állapotra vonatkozó alapelvárású, valamint védelmi elsődleges rendeltetésű erdő esetén az erdővédelmi járulékalap háromszorosa;
   - cb) egyéb esetben az erdővédelmi járulékalap kétszerese;
-- d) az erdőgazdálkodás célját közvetlenül szolgáló földterület igénybevétele esetén a gazdasági elsődleges rendeltetésű erdő igénybevételére megállapítható erdővédelmi járulék fele.
+- d) a fátlan állapotban tartott erdőnek minősülő erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek igénybevétele esetén – a (2a) bekezdésben foglaltak figyelembevételével – az erdő igénybevételére megállapítható erdővédelmi járulék összege.
+
+(2a) A (2) bekezdés alkalmazásában a fátlan állapotban tartott erdő elsődleges rendeltetéseként, illetve természetességi állapotra vonatkozó alapelvárásaként a területen korábban fenntartott erdő – ha annak adatai az Adattárban nem találhatóak meg, akkor az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület kerületével legnagyobb mértékben érintett erdő – elsődleges rendeltetését és természetességi állapotra vonatkozó alapelvárását kell alapul venni.
 
 (3) Amennyiben az erdőnek a rendeltetésszerű használatot akadályozó igénybevételére kerül sor, és ezáltal az erdőben – legfeljebb öt évig – hat méternél szélesebb és ezerötszáz négyzetméternél nagyobb összefüggő területen faállomány nem tartható fenn, akkor az erdő időleges igénybevétele esetére meghatározott mértékű erdővédelmi járulékot kell megfizetni.
 
@@ -1205,18 +1582,20 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 (3) Nem kell erdővédelmi járulékot fizetni,
 
 - a) amennyiben az erdő igénybevételének ellentételezéseként az igénybevevő:
-  - aa) kultúr és faültetvény természetességi állapotú erdő esetén az igénybe vett erdővel legalább azonos területű, azzal megegyező vagy attól magasabb természetességi állapotú erdő telepítéséről gondoskodik (a továbbiakban: csereerdősítés),
-  - ab) természetes, természetszerű, származék-, átmeneti természetességi állapotú erdő esetén az igénybe vett erdő területénél másfélszer nagyobb területű, az igénybevett erdővel megegyező vagy attól magasabb természetességi állapotú erdő telepítéséről gondoskodik;
+  - aa) kultúrerdő vagy faültetvény természetességi állapotra vonatkozó alapelvárású erdő esetén az igénybe vett erdővel legalább azonos területű, azzal megegyező vagy attól magasabb természetességi állapotra vonatkozó alapelvárású erdő telepítéséről gondoskodik (a továbbiakban: csereerdősítés),
+  - ab) természetes erdő, természetszerű erdő, származékerdő vagy átmeneti erdő természetességi állapotra vonatkozó alapelvárású erdő esetén az igénybe vett erdő területénél másfélszer nagyobb területű, az igénybevett erdővel megegyező vagy attól magasabb természetességi állapotú erdő telepítéséről gondoskodik;
 - b) amennyiben az erdőt erdészeti létesítmény elhelyezésére vagy árvízvédelmi célokra veszik igénybe;
-- c) a védett természeti területen lévő faültetvény és kultúrerdő faállomány kipusztulását vagy erdőterv szerinti véghasználatát követő mezőgazdasági művelésbe vonásáért, ha a termőhelyi viszonyok az őshonos fafajokkal történő erdőfelújítást nem teszik lehetővé, melyet az erdőgazdálkodónak részletes termőhelyfeltárással kell bizonyítania;
-- d) a szabad rendelkezésű erdő és cserjés mezőgazdasági művelésbe vonása esetén.
+- c) a védett természeti területen lévő faültetvény vagy kultúrerdő természetességi állapotra vonatkozó alapelvárású erdő faállományának kipusztulását vagy erdőterv szerinti véghasználatát követően a terület mezőgazdasági művelésbe vonásáért, ha a termőhelyi viszonyok az őshonos fafajokkal történő erdőfelújítást nem teszik lehetővé, melyet az erdőgazdálkodónak részletes termőhelyfeltárással kell bizonyítania;
+- d) faültetvény vagy kultúrerdő természetességi állapotú felnyíló erdő mezőgazdasági művelésbe vonásáért;
+- e) védett természeti terület mezőgazdasági művelésbe vonásáért, ha a természetvédelmi hatóság a természetvédelmi kezelési tervben foglaltakkal összhangban nem erdei élőhely fenntartását vagy helyreállítását írta elő;
+- f) kulturális örökségvédelmi rendeltetésű erdő igénybevételéért, ha a kulturális örökségvédelmi hatóság a terület erdő fenntartását kizáró rendezését írta elő.
 
-(4) Az erdészeti hatóságnak csereerdősítést kell előírnia
+(4) Az erdészeti hatóságnak az erdővédelmi járulék helyett a (3) bekezdésben foglalt csereerdősítést kell előírnia
 
 - a) természetes és természetszerű erdő ötezer négyzetméter vagy azt meghaladó mértékű igénybevétele esetén, vagy
 - b) ha az adott térségben az erdő csökkenésének tilalmáról külön jogszabály rendelkezik.
 
-(5) A csereerdősítést – az e törvény végrehajtására kiadott jogszabály eltérő rendelkezése hiányában – az adott erdő fekvése szerinti vagy az azzal szomszédos településen kell végrehajtani.
+(5) A szabad rendelkezésű erdő erdővé történő átminősítése csereerdősítésnek minősül.
 
 (6) A csererdősítés tervezésére, engedélyezésére az erdőtelepítés, egyéb feltételeire az erdőfelújítás szabályai vonatkoznak azzal, hogy a csereerdősítési terv engedélyezése – a (6a) bekezdésben foglalt eset kivételével – az igénybevétel megkezdésének feltétele, a csereerdősítési kötelezettség keletkezése időpontjának pedig az igénybevétel megkezdése minősül.
 
@@ -1224,9 +1603,11 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 (7) Az erdővédelmi járulék a költségvetési törvény szerinti központosított bevétel.
 
-83. § (1) Szabad rendelkezésű erdő területének mezőgazdasági művelésbe vonását az erdészeti hatóságnak előzetesen be kell jelenteni.
+83. § (1)
 
-(2) Nem minősül az erdő mezőgazdasági művelésbe vonásának a mezőgazdasági előhasználat. Ez a rendelkezés nem vonatkozik a védett természeti területen lévő, valamint a természetes és természetszerű erdőre.
+(2) Nem minősül az erdő mezőgazdasági művelésbe vonásának a mezőgazdasági előhasználat, valamint az erdőfelújítás időszakában a mezőgazdasági köztesművelés. Ez a rendelkezés nem vonatkozik a védett természeti területen lévő, valamint a természetes és természetszerű erdőre.
+
+83/A. § Erdőben vagy erdőgazdálkodás célját közvetlenül szolgáló földterületen e törvény hatálybalépése előtt engedéllyel elhelyezett és funkciójának megfelelően működtetett, illetve fenntartott létesítmény által elfoglalt területre vonatkozóan az erdészeti hatóság a tulajdonos, a tulajdonos hozzájárulásával az erdőgazdálkodó, vagy a tulajdonos hozzájárulásával az igénybevevő kérelmére az igénybevétel feltételeinek vizsgálata nélkül, továbbá erdővédelmi bírság, erdővédelmi járulék, illetve csereerdősítés előírása nélkül engedélyezi az igénybevételt.
 
 ### Erdő időleges igénybevétele
 
@@ -1236,54 +1617,44 @@ egybefüggő, felújítás alatt álló vágásterület nem keletkezik.
 
 ### Az erdő engedély nélküli igénybevétele
 
-85. § (1) Erdő engedély nélküli vagy engedélytől eltérő igénybevétele esetén az erdészeti hatóság határidő kitűzésével határozatban kötelezi az igénybevevőt a helyreállításra.
+85. § Erdő engedély nélküli vagy engedélytől eltérő igénybevétele esetén az erdészeti hatóság fennmaradási eljárást folytat le, amelynek során
 
-(2) A helyreállítási kötelezettség alól kérelemre az erdészeti hatóság felmentést adhat, és erdővédelmi bírság egyidejű kiszabása mellett engedélyezheti a kialakult állapot fennmaradását, amennyiben az igénybevétel engedélyezésének feltételei fennállnak.
+- a) ha az igénybevevő által benyújtott dokumentumok alapján az igénybevétel engedélyezésének feltételei fennállnak, erdővédelmi bírság egyidejű kiszabása mellett engedélyezheti a kialakult állapot fennmaradását, vagy
+- b) határidő kitűzésével határozatban kötelezi az igénybevevőt – amennyiben az igénybevevő nem ismert vagy az igénybevevővel szemben a végrehajtási eljárás sem vezet eredményre, akkor a használatra jogosultat – a helyreállításra.
 
 ### Az erdő megosztása
 
-86. § (1) Az erdőt két vagy több földrészletre csak abban az esetben lehet megosztani, ha az a fenntartható erdőgazdálkodást nem veszélyezteti.
+86. § (1) Erdő megosztásával – erdő igénybevétele kivételével – csak olyan erdő művelési ágú földrészlet vagy alrészlet alakítható ki, amelynek szélessége átlagosan legalább harminc méter, és területe egy hektárnál nagyobb.
 
-(2) Megosztással csak olyan erdő művelési ágú földrészlet vagy alrészlet alakítható ki, amelynek szélessége átlagosan legalább harminc méter, és területe a 7. § (1) bekezdés a)–b) pontja szerinti természetességi állapotú erdő esetében kettő hektárnál, a 7. § (1) bekezdés c)–f) pontja szerinti természetességi állapotú erdő esetében egy hektárnál nagyobb, kivéve, ha a megosztás célja erdő igénybevétele.
+(2) A használati megosztással érintett erdő művelési ágú földrészlet vagy alrészlet csak a használati megosztással elhatárolt önálló erdőgazdálkodási egységek határai mentén osztható meg, kivéve, ha a megosztás célja erdő igénybevétele.
 
-### IX. Fejezet — AZ ERDŐ SZÁLLÍTÁS CÉLJÁRA TÖRTÉNŐ IGÉNYBEVÉTELE, A FAANYAG KERESKEDELMI LÁNC, AZ ERDŐ LÁTOGATÁSA
+### IX. Fejezet — ERDŐGAZDÁLKODÁSI CÉLÚ ERDEI JÁRMŰFORGALOM, A FAANYAG KERESKEDELMI LÁNC, AZ ERDŐ LÁTOGATÁSA
 
-### Az erdészeti termékek szállítása
+### Erdőgazdálkodási célú erdei járműforgalom
 
-87. § (1) Erdészeti szállítási tevékenységnek minősül:
+87. § (1) Erdőgazdálkodási célú erdei járműforgalomnak minősül az erdészeti erő- és munkagép, valamint erdőgazdálkodási tevékenységet szolgáló egyéb jármű erdőben, valamint az erdészeti feltáróhálózat részét képező erdei úton való közlekedése.
 
-- a) az erdészeti erő- és munkagép, valamint erdőgazdálkodási tevékenységet szolgáló egyéb jármű erdőben való közlekedése;
-- b) az erdei haszonvételből származó termékek készletezése, rakodása, valamint azok járművel történő elszállítása.
+(2) Az erdészeti hatóság az erdő és erdészeti létesítmény védelme érdekében, halasztást nem tűrő esetben a helyszínen intézkedhet a nem közérdekű erdőgazdálkodási célú erdei járműforgalom korlátozásáról, illetve súlyos veszélyeztetés esetén megtiltásáról.
 
-(2) Az erdészeti hatóság az erdő és erdészeti létesítmény védelme érdekében, halasztást nem tűrő esetben a helyszínen intézkedhet az erdészeti szállítás vagy az erdőn való nem közérdekű közlekedés korlátozásáról, illetve súlyos veszélyeztetés esetén megtiltásáról.
+(3) Az erdőgazdálkodó az erdőgazdálkodási célú erdei járműforgalomra – annak megfelelő helyszíni jelzésével – a közúti közlekedés szabályaitól eltérő forgalmi rendet és korlátozást határozhat meg.
 
-88. § (1) Az erdőben, valamint az erdészeti magánúton való közlekedésre a közúti közlekedésre vonatkozó szabályokat e törvényben foglalt kiegészítésekkel kell alkalmazni.
+88. § (1) Ha az erdőgazdálkodó használatában álló erdő vagy erdészeti magánút nem csatlakozik közúthoz vagy közforgalom elől el nem zárt magánúthoz, akkor az erdőgazdálkodó kizárólag erdőgazdálkodási célú járműforgalom céljára – kiemelten az erdészeti haszonvételből származó termékek elszállításához – közforgalom elől elzárt magánutat, erdészeti feltáróhálózat részét képező erdei utat, utak hiányában más használatában levő erdőt igénybe vehet. Az igénybevételre a Polgári Törvénykönyvnek az átjárási szolgalomra vonatkozó szabályait kell alkalmazni.
 
-(2) Az erdőgazdálkodó az erdő és az erdészeti létesítmény védelme érdekében járműnek az erdőben, valamint a közforgalom elől elzárt erdészeti magánúton való közlekedésére a közúti közlekedés szabályaitól eltérő forgalmi korlátozást határozhat meg. A forgalom korlátozásának módját és időtartamát – figyelmeztető tábla elhelyezésével – az erdőgazdálkodónak a helyszínen jeleznie kell.
+(2) Ha a közforgalom elől elzárt magánutat, az erdészeti feltáróhálózat részét képező erdei utat, vagy az erdőt erdőgazdálkodási célú járműforgalomra veszik igénybe, a szolgalommal terhelt erdő erdőgazdálkodója, illetve az erdészeti magánút kezelője követelheti kárának és költségének megtérítését.
 
-(3) Az erdészeti hatóság jogosult ellenőrizni, hogy az erdőgazdálkodó intézkedése megfelel-e a (2) bekezdésben foglalt előírásoknak, indokolatlan korlátozás esetén pedig elrendeli a korlátozás feloldását.
+(3) Honvédelmi, nemzetbiztonsági és határrendészeti célú erdőben lévő magánút a hatáskörrel rendelkező hatóság engedélyével vehető igénybe.
 
-### Erdészeti termékek szállítása más használatában
-
-lévő erdőben
-
-89. § (1) Amennyiben az erdőgazdálkodó az erdészeti haszonvételből származó termékek elszállítását alkalmas út hiánya miatt nem tudná elvégezni, a más használatában levő erdőt szállítási tevékenységhez igénybe veheti. Az igénybevételre a Polgári Törvénykönyvnek az átjárási szolgalomra vonatkozó szabályait kell alkalmazni.
-
-(2) Az erdőgazdálkodó kizárólag az erdőgazdálkodási tevékenysége folytatásához a más tulajdonában levő erdészeti magánutat is igénybe veheti.
-
-(3) Amennyiben az erdőt, valamint az erdészeti magánutat erdőgazdálkodási tevékenységgel összefüggésben veszik igénybe, a szolgalommal terhelt erdő erdőgazdálkodója, illetőleg az erdészeti magánút kezelője követelheti kárának és költségének megtérítését.
-
-(4) Honvédelmi, nemzetbiztonsági és határrendészeti célú erdőben lévő magánút a hatáskörrel rendelkező hatóság engedélyével vehető igénybe.
+#### 89. §
 
 ### A faanyag származásának igazolása
 
-90. § (1) Az erdőgazdálkodó vagy a meghatalmazottja jogosult az erdőből kitermelt erdei faválaszték származásáról a szállításhoz szükséges igazolást (a továbbiakban: szállítójegyet) kiállítani, amelynek alapja az erdőgazdálkodási műveleti lap.
+90. § (1) A fakitermelés jogosultja, illetve a kitermelt erdei faválasztékkal rendelkezni jogosult vagy annak meghatalmazottja az erdőből, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületről, szabad rendelkezésű erdőből, fásításból, valamint e törvény hatálya alá nem tartozó területről kitermelt erdei faválaszték származásáról köteles a szállításhoz szükséges igazolást (a továbbiakban: szállítójegy) kiállítani.
 
-(2) A fásításból, valamint a törvény hatálya alá tartozó erdőnek nem minősülő területről származó faanyagról a földrészlet tulajdonosa, vagy a faanyaggal rendelkezni jogosult személy köteles az erdészeti hatósághoz megtett fakitermelési bejelentésében szereplő adatok felhasználásával szállítójegyet kiállítani.
+(2) Nem szükséges szállítójegyet kiállítani az erdőrészleten belül végzett közelítéshez, valamint az erdőben kialakított farakodó és az erdőrészlet közötti szállításhoz, ha a készletre vétel a farakodón erdőrészletre elkülönítetten történik.
 
 (3) A szállítójegyet a faanyag szállítója köteles a szállítás során magánál tartani és azt a hatóság képviselőjének felszólítására bemutatni.
 
-(4) A törvény hatálya alá nem tartozó területről származó erdei faválasztékokról a földrészlet tulajdonosa vagy az erdei faválasztékkal rendelkezni jogosult egyéb személy köteles szállítójegyet kiállítani.
+(4)
 
 90/A. § (1) Tilos forgalomba hozni azt a faterméket, amely illegális kitermelésből származik, vagy az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban és a jogszabályokban foglalt követelményeknek nem felel meg.
 
@@ -1336,20 +1707,27 @@ lévő erdőben
 - b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát,
 - c) a természetes személy természetes személyazonosító adatait, lakcímét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosító számát, bankszámlaszámát,
 - d) gazdálkodó szervezet esetén a cégnevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosító számát, bankszámlaszámát,
-- e) a természetes személy vagy gazdálkodó szervezet faanyag kereskedelmi lánchoz tartozó ténylegesen végzett tevékenységeit,
+- e) a természetes személy vagy gazdálkodó szervezet faanyag kereskedelmi lánchoz tartozó ténylegesen végzett tevékenységeit, azok telephelyenkénti elkülönítésével,
 - f) a faanyag kereskedelmi lánc felügyelete keretében elvégzett valamennyi ellenőrzés és vizsgálat eredményét elektronikusan olyan módon, hogy az ügyfélhez köthető legyen.
 
 (3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), e) és f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 90/F. § (1) Az a természetes személy vagy gazdálkodó szervezet, aki, vagy amely a faanyag kereskedelmi lánchoz tartozó tevékenységek valamelyikét Magyarország területén végzi, köteles a tevékenység megkezdése előtt a 90/E. § (2) bekezdés b)–e) pontja szerinti adatait nyilvántartásba vétel céljából bejelenteni. A bejelentési kötelezettség nem vonatkozik azon erdőgazdálkodóra, aki kizárólag Magyarország területén végzett erdőgazdálkodási tevékenysége keretében erdei faválasztékok előállítását és értékesítését végzi.
 
-(2) Az erdészeti hatóság az ügyfél bejelentése alapján veszi nyilvántartásba az (1) bekezdés szerinti adatokat, és egyidejűleg technikai azonosító számot állapít meg a nyilvántartásba vétel igazolására. Amennyiben a technikai azonosító számmal rendelkező ügyfél a továbbiakban nem végez a faanyag kereskedelmi lánchoz tartozó tevékenységet, akkor a technikai azonosító szám egyidejű visszavonásával a nyilvántartásból törölni kell. A nyilvántartásból törölt faanyag kereskedelmi lánc szereplő adatait az erdészeti hatóság 5 évig köteles megőrizni.
+(2) Az erdészeti hatóság hivatalból, a bejelentésre kötelezett ügyfél esetében annak, bejelentése alapján veszi nyilvántartásba az (1) bekezdés szerinti adatokat, és egyidejűleg technikai azonosító számot állapít meg a nyilvántartásba vétel igazolására. Amennyiben a technikai azonosító számmal rendelkező ügyfél a továbbiakban nem végez a faanyag kereskedelmi lánchoz tartozó tevékenységet, akkor a technikai azonosító szám egyidejű visszavonásával a nyilvántartásból törölni kell. A nyilvántartásból törölt faanyag kereskedelmi lánc szereplő adatait az erdészeti hatóság 5 évig köteles megőrizni.
 
 (3) A technikai azonosító számmal rendelkező ügyfél köteles bejelenteni az erdészeti hatóságnak, ha csődeljárás, felszámolás vagy végelszámolás alatt áll, valamint a jogutódlással történő vagy jogutód nélküli megszűnését eredményező eljárás megindulását.
 
 (4) A faanyag kereskedelmi lánc regisztrált szereplője a nyilvántartásban szereplő adataiban bekövetkezett változást, annak bekövetkezésétől számított tizenöt napon belül köteles az erdészeti hatóság részére bejelenteni.
 
 (5) A (4) bekezdés szerinti kötelezettség elmulasztása esetén az erdészeti hatóság a faanyag kereskedelmi lánc regisztrált szereplőjét kötelezettsége teljesítésére felhívja. A változásbejelentési kötelezettség teljesítésének ismételt elmaradása esetén az erdészeti hatóság az ügyfelet a nyilvántartásából törli.
+
+(6) A faanyag kereskedelmi lánc szereplője a 90/E. § (1) bekezdésében meghatározott nyilvántartás vezetéséhez szükséges adatokat elektronikus úton küldi meg az erdészeti hatóság részére.
+
+(7) Az erdészeti hatóság a nyilvántartásba vételt követően a honlapján elérhető elektronikus felületen, kereshető formában közzéteszi a faanyag kereskedelmi lánc szereplőjének a 90/E. § (2) bekezdés a) és b) pontja szerinti azonosító adatait, és a 90/E. § (2) bekezdés e) pontja szerinti tevékenységeit, valamint ha a faanyag kereskedelmi lánc szereplője
+
+- a) természetes személy, annak nevét, lakcímét, születési helyét és dátumát,
+- b) gazdálkodó szervezet, annak cégnevét, adószámát és székhelyét.
 
 90/G. § (1) Az erdészeti hatóság részére a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatban, a 90/C. §-ban meghatározott feladatainak ellátása érdekében, megkeresésre át kell adni:
 
@@ -1366,6 +1744,8 @@ lévő erdőben
 (4) Az erdészeti hatóság – a személyes adatokat is beléértve – jogosult adatokat, illetve információkat cserélni a 995/2010/EU rendelet végrehajtásával kapcsolatban kijelölt, hatáskörrel rendelkező hatóságokkal.
 
 (5) Az erdészeti hatóság a nyilvántartásokból átvett és az adatlekérdezés, illetve adatfeldolgozás során keletkezett adatokat kizárólag a faanyag kereskedelmi lánc felügyelettel kapcsolatos hatósági feladatának ellátásához használhatja fel.
+
+(6) Az (1) bekezdés b) és e) pontjában meghatározott adatszolgáltatást az erdészeti hatóság részére közvetlen elektronikus hozzáférés biztosításával kell teljesíteni.
 
 90/H. § Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárásában előzetes bejelentés nélküli helyszíni ellenőrzéseket végezhet, amelynek végrehajtása során jogosult
 
@@ -1411,7 +1791,7 @@ lévő erdőben
 
 (6) A faanyag kereskedelmi lánc hatósági felügyelete során lefoglalt fatermék az értékesítés vagy megsemmisítés helyett közérdekű célra is felhasználható.
 
-90/L. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos jogkövetkezményeket megállapító jogerős vagy fellebbezésre tekintet nélkül végrehajtható határozatának vagy végzésének kivonatát honlapján közzéteszi, ha eljárása során mulasztást vagy jogszabálysértést állapít meg.
+90/L. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos jogkövetkezményeket megállapító jogerős vagy fellebbezésre tekintet nélkül végrehajtható határozatának vagy végzésének kivonatát honlapján haladéktalanul közzéteszi, ha eljárása során mulasztást vagy jogszabálysértést állapít meg.
 
 (2) A közétett kivonatnak tartalmaznia kell:
 
@@ -1428,7 +1808,7 @@ lévő erdőben
 
 (3) Az erdészeti hatóság a (2) bekezdés alapján közzétett kivonatot a közzétételtől számított 5 év elteltével vagy annak okafogyottá válásakor honlapjáról eltávolítja.
 
-90/M. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyelettel kapcsolatos hatósági eljárása során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit a (2)–(4) bekezdésben meghatározott eltérésekkel köteles alkalmazni.
+90/M. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyelettel kapcsolatos hatósági eljárása során a Ket. rendelkezéseit a (2)–(4) bekezdésben meghatározott eltérésekkel köteles alkalmazni.
 
 (2) Az erdészeti hatóságnak a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárásában az ügyintézési határidő 90 nap.
 
@@ -1438,18 +1818,18 @@ lévő erdőben
 
 ### Az erdő látogatása
 
-91. § (1) Az erdőben – annak rendeltetésétől függetlenül – üdülés, sportolás és kirándulás céljából gyalogosan, emberi erővel hajtott kerékpárral, lóval, valamint az erdészeti feltáró hálózat részein sport vagy turisztikai célú, lóval vontatott járművel bárki saját felelősségére ott tartózkodhat, amit az erdőgazdálkodó tűrni köteles, kivéve, ha
+91. § (1) Az erdőben – annak rendeltetésétől függetlenül – pihenés, üdülés, sportolás és kirándulás céljából gyalogosan, emberi erővel hajtott kerékpárral, lóval, valamint az erdészeti feltáróhálózat részét képező erdei úton sport vagy turisztikai célú, lóval vontatott járművel bárki saját felelősségére közlekedhet, illetve ott tartózkodhat, amit az erdőgazdálkodó tűrni köteles, kivéve, ha
 
 - a) más jogszabály azt korlátozza, vagy
 - b) az arra jogosult a látogatás korlátozását az e törvényben foglaltak alapján elrendelte.
 
-(1a) Nem állami, illetve nem helyi önkormányzati tulajdonú erdőben az erdészeti feltáró hálózat részein kívül lovagolni, emberi erővel hajtott kerékpárral közlekedni tilos, kivéve, ha az erdő tulajdonosa az erdő nem állami, illetve nem helyi önkormányzati tulajdoni jellegét megfelelően nem jelezte.
+(1a) Az állam illetve a helyi önkormányzat 100%-os tulajdonában nem álló erdőben az erdészeti feltáróhálózat részét képező erdei úton kívül való lovaglást, és emberi erővel hajtott kerékpárral való közlekedést az erdőgazdálkodó korlátozhatja, illetve megtilthatja, ha a terület tulajdoni jellegét és a korlátozást, illetve tiltást a területen megfelelően jelzi.
 
 (1b) Az erdőben abban az esetben lehet a megjelölt turistaúton kerékpározni és lovagolni, a megjelölt kerékpáros úton lovagolni, ha az együttes használat lehetősége jelzéssel az adott turistaúton vagy kerékpáros úton megjelölésre került.
 
-(1c) Az (1b) bekezdés szerinti együttes használatot az erdészeti hatóság engedélyezi, ha az a látogatók életét és testi épségét nem veszélyezteti.
+(1c)
 
-(1d) Az (1b) bekezdésben foglalt kivétellel a megjelölt turista- vagy kerékpáros út keresztezése esetén a lovas az úton kizárólag lépésben haladhat át.
+(1d) A megjelölt turista- vagy kerékpáros utak kereszteződésén a lovas kizárólag lépésben haladhat át.
 
 (1e) Az erdőben sport vagy turisztikai célú, lóval vontatott járművel turistaúton közlekedni tilos.
 
@@ -1467,13 +1847,19 @@ lévő erdőben
 - a) az erdősítés területe, amíg a rajta lévő faállomány a két méter átlagos magasságot el nem éri;
 - b) az erdőrezervátum magterülete.
 
-(6) Kiépített parkerdei utat lovaglás céljára kizárólag az erre a célra kijelölt és bejelentett szakaszon lehet igénybe venni.
+(6) Kiépített parkerdei utat lovaglás céljára kizárólag az erre a célra kijelölt szakaszon lehet igénybe venni.
 
 (7) Kiépített parkerdei utat lóval vontatott járművel nem szabad igénybe venni.
 
-92. § (1) Az erdőben látogatás céljából járművel – ideértve a nem sport vagy turisztikai célú, lóval vontatott járművet, valamint a nem csak emberi erővel hajtott kerékpárt is – közlekedni csak az arra kijelölt úton szabad.
+92. § (1) Az erdőben látogatás céljából járművel – ideértve a nem sport vagy turisztikai célú, lóval vontatott járművet, valamint a nem csak emberi erővel hajtott kerékpárt is – közlekedni csak
 
-(2) Erdőben járműközlekedésre utat az erdőgazdálkodó javaslata alapján vagy harmadik fél kezdeményezése esetén az erdőgazdálkodó egyetértésével az erdészeti hatóság jelöl ki.
+- a) a közforgalom számára megnyitott erdészeti magánúton,
+- b) a (2) bekezdés szerint járműközlekedésre kijelölt erdei úton, valamint
+- c) az erdőgazdálkodó beleegyezésével az erdészeti feltáróhálózat részét képező egyéb erdei úton
+
+szabad.
+
+(2) Erdőben erdészeti feltáróhálózat részét képező utat járműközlekedésre az erdőgazdálkodó javaslata alapján vagy harmadik fél kezdeményezése esetén az erdőgazdálkodó egyetértésével az erdészeti hatóság jelöl ki.
 
 (3) Az erdészeti hatóság a kijelölést az út műszaki tulajdonságaihoz igazodva egyes járműfajtákra korlátozhatja.
 
@@ -1481,7 +1867,7 @@ lévő erdőben
 
 (5)
 
-92/A. § Erdőben quaddal, terep-motorkerékpárral, segédmotoros kerékpárral, valamint motorkerékpárral közlekedni tilos. Az erdészeti vagy jogosult erdészeti szakszemélyzet segédmotoros kerékpárral vagy közúti forgalomba helyezett, legfeljebb 500 cm3 hengerűrtartalmú motorkerékpárral közlekedhet az erdőben munkavégzés céljából.
+92/A. § Erdőben, illetve az erdészeti feltáróhálózat részét képező erdei úton quaddal, terep-motorkerékpárral, segédmotoros kerékpárral, valamint motorkerékpárral – erdőgazdálkodási célú járműforgalom kivételével – közlekedni tilos.
 
 93. § (1) Az erdőgazdálkodó hozzájárulásával szabad az erdőben:
 
@@ -1508,11 +1894,15 @@ lévő erdőben
 
 (2) A vadászat időtartamára a vadászatra jogosult az erdőgazdálkodó hozzájárulásával átmenetileg korlátozhatja az erdő egyes részeinek a látogatását.
 
-95. § (1) Az erdőgazdálkodó a megjelölt turistautat, a bejelentett lovaglóutat vagy a járműközlekedésre kijelölt utat érintő korlátozást köteles minden alkalommal az erdészeti hatóságnak előzetesen bejelenteni.
+(3) A Magyar Honvédség szervezetei az erdőgazdálkodó és az erdészeti hatóság tájékoztatása mellett korlátozhatják a honvédelmi rendeltetésű erdő látogatását, valamint annak területére való bármilyen célú belépést, ha a területen folyó katonai tevékenység az élet-, baleset-, illetve vagyonbiztonságot veszélyezteti, vagy az ott tartózkodás a katonai tevékenységet akadályozza.
 
-(2) Az erdőgazdálkodó mentesül az (1) bekezdés szerinti kötelezettség alól, ha a korlátozás azonnali elrendelésére az életet vagy testi épséget közvetlenül veszélyeztető állapot megszüntetésének érdekében kerül sor. Ha a korlátozás időtartama a 24 órát meghaladja, azt az erdészeti hatóságnak haladéktalanul be kell jelenteni.
+(4) Katonai lőterek és gyakorlóterek biztonságos üzemeltetése érdekében a lőtér és a gyakorlótér működtetéséért felelős parancsnok az erdő látogatását, valamint az erdőben végzett tevékenységet a szükséges mértékben nem honvédelmi rendeltetésű erdő esetén is korlátozhatja.
 
-(3) Az (1) bekezdéstől eltérő egyéb esetben az erdő egyes részei látogatásának korlátozását akkor köteles az erdőgazdálkodó előzetesen bejelenteni az erdészeti hatóságnak, ha annak tervezett időtartama az egy hónapot meghaladja.
+95. § (1)
+
+(2)
+
+(3) Az erdő egyes részei látogatásának korlátozását akkor köteles az erdőgazdálkodó előzetesen bejelenteni az erdészeti hatóságnak, ha annak tervezett időtartama az egy hónapot meghaladja.
 
 (4) A bejelentéshez mellékelni kell a korlátozással érintett területet ábrázoló erdészeti nyilvántartási térképet és a látogatás korlátozásának indokát, illetve feltételhez kötésének módját és idejét.
 
@@ -1530,38 +1920,84 @@ AZ ERDŐ ŐRZÉSE
 
 ### Az erdészeti munkák szakmai irányítása
 
-97. § Az erdőgazdálkodó erdőgazdálkodási tevékenysége szakszerűségének biztosítása érdekében jogosult erdészeti szakszemélyzetet köteles alkalmazni, kivéve, ha az erdőgazdálkodó szerepel a jogosult erdészeti szakszemélyzeti névjegyzékben.
+97. § (1) Az erdőgazdálkodónak az erdőgazdálkodási tevékenység szakszerűségének biztosítása érdekében jogosult erdészeti szakszemélyzetet kell alkalmaznia, kivéve, ha az erdőgazdálkodó – gazdálkodó szervezet esetén annak személyesen közreműködő tagja – jogosult erdészeti szakszemélyzeti besorolással szerepel az erdészeti szakirányítói névjegyzékben.
 
-### Az erdészeti szakszemélyzet kötelezettségei
+(2) Jogosult erdészeti szakszemélyzet alkalmazásának minősül
 
-és jogosultságai
+- a) az erdészeti szakirányítói névjegyzékben szereplő jogosult erdészeti szakszemélyzet munkaviszony keretében vagy megbízással történő alkalmazása, valamint
+- b) az erdészeti szakirányítói névjegyzékben szereplő jogosult erdészeti szakszemélyzetet munkaviszony keretében alkalmazó erdészeti szakirányító vállalkozás megbízása.
 
-98. § (1) Az erdészeti szakszemélyzet szakirányítási tevékenysége során köteles
+### Az erdészeti szakszemélyzet, a jogosult erdészeti szakszemélyzet és az erdészeti szakirányító vállalkozás kötelezettségei, jogosultságai, valamint nyilvántartása
 
-- a) az erdő fennmaradását, fejlődését veszélyeztető állapotról, eseményről, vad általi károsításról való tudomásszerzést követően az erdőgazdálkodót és az erdészeti hatóságot haladéktalanul értesíteni, illetve a veszély elhárításában a tőle elvárható módon közreműködni;
-- b) az erdőben jogszerűen végzett munkák szakmai irányítását elvégezni.
+97/A. § (1) Az erdészeti szakszemélyzet szakirányítási tevékenysége során
 
-(1a) Az erdészeti hatóság az erdészeti munkák szakmai irányítására és az erdő őrzésére jogosult személyekről erdészeti szakszemélyzeti és jogosult erdészeti szakszemélyzeti névjegyzéket vezet. A névjegyzékben a rendészeti feladatokat ellátó erdészeti szakszemélyzetet, illetve jogosult erdészeti szakszemélyzetet elkülönítetten kell nyilvántartani.
+- a) ellátja az erdőben jogszerűen végezhető erdőgazdálkodási tevékenységek szakmai irányítását, valamint
+- b) az erdő fennmaradását, fejlődését veszélyeztető állapotról, eseményről, vad általi károsításról való tudomásszerzést követően az erdőgazdálkodót vagy az erdőgazdálkodó által alkalmazott jogosult erdészeti szakszemélyzetet haladéktalanul értesíti, illetve a veszély elhárításában a tőle elvárható módon közreműködik.
 
-(1b) A névjegyzék az erdészeti szakszemélyzet alábbi adatait tartalmazza:
+(2) A jogosult erdészeti szakszemélyzet az (1) bekezdésében megfogalmazottakon túl
 
-- a) természetes személyazonosító adatok,
-- b) a szakszemélyzet besorolása:
-  - ba) erdészeti szakszemélyzetként, vagy
-  - bb) jogosult erdészeti szakszemélyzetként,
-  - bc) felsőfokú végzettségű jogosult erdészeti szakszemélyzetként,
+- a) az erdőgazdálkodó részére szakmai tájékoztatást és tanácsot ad a jogai gyakorlása és kötelezettségei teljesítése érdekében,
+- b) az erdőgazdálkodót szakmai kérdésekben képviseli a helyszíni szemléken, hatósági ellenőrzéseken, valamint a körzeti erdőtervezéshez kapcsolódó egyeztetéseken,
+- c) a tudomására jutott, az erdőgazdálkodót érintő tényekről, adatokról az erdőgazdálkodót haladéktalanul tájékoztatja,
+- d) az erdőgazdálkodó erdészeti hatóság felé tett bejelentéseit, adatszolgáltatásait ellenjegyzi, illetve lehetőség szerint azt elektronikus úton benyújtja, valamint
+- e) kiállítja a műveleti lapot.
+
+(3) Felsőfokú erdészeti szakirányú végzettséggel rendelkező jogosult erdészeti szakszemélyzet jogosult
+
+- a) erdőtelepítési kivitelezési terv készítésére,
+- b) termőhelyfeltárási szakvélemény készítésére,
+- c) erdészeti magánút, épített közelítő nyom, illetve azok tartozékai tervezésére, felelős műszaki vezetésére, műszaki ellenőrzésére,
+- d) körzeti erdőtervezés kivételével erdészeti térképezésre,
+- e) erdő rendeltetését szolgáló műtárgy, csatorna, tározó tervezésére, felelős műszaki vezetésére, műszaki ellenőrzésére,
+- f) közjóléti létesítmény engedélyezési tervének készítésére, felelős műszaki vezetésére, műszaki ellenőrzésére, valamint
+- g) örökerdő fenntartási terv, átalakítási terv és erdőfelújítási terv készítésére.
+
+98. § (1) Az erdészeti hatóság az erdészeti munkák szakmai irányítására és az erdő őrzésére, valamint az erdőkezelésre jogosult személyekről, illetve vállalkozásokról erdészeti szakirányítói névjegyzéket vezet.
+
+(1a) Az erdészeti szakirányítói névjegyzék az erdészeti szakszemélyzet, illetve a jogosult erdészeti szakszemélyzet alábbi adatait tartalmazza:
+
+- a) családi és utónév, ideértve a születési családi és utónevet,
+- b) születési hely, idő,
+- c) anyja neve,
+- d) lakcím vagy tartózkodási hely,
+- e) adóazonosító jel,
+- f) levelezési cím,
+- g) telefonszám, e-mail-cím,
+- h) az erdészeti szakszemélyzet kiemelt besorolásai:
+  - ha) jogosult erdészeti szakszemélyzet,
+  - hb) felsőfokú végzettségű erdészeti szakszemélyzet,
+  - hc) rendészeti feladatokat ellátó erdészeti szakszemélyzet,
+- i) nyilvántartási kód,
+- j) a továbbképzéseken való részvételt igazoló bejegyzések,
+- k) az erdészeti hatóság által az erdészeti szakszemélyzettel szemben alkalmazott szankciók
+
+(1b) Az erdészeti szakirányítói névjegyzék az erdészeti szakirányító vállalkozás alábbi adatait tartalmazza:
+
+- a) egyéni vállalkozó esetében:
+  - aa) családi és utónév,
+  - ab) székhely,
+  - ac) telephely,
+  - ad) levelezési cím,
+  - ae) egyéni vállalkozói nyilvántartási szám,
+  - af) adószám,
+- b) jogi személy esetében:
+  - ba) szervezet megnevezése,
+  - bb) székhely,
+  - bc) telephely,
+  - bd) képviselő neve,
+  - be) adószám,
 - c) nyilvántartási kód,
-- d) rendészeti feladatok ellátása,
-- e) a továbbképzéseken való részvételt igazoló bejegyzések,
-- f) lakcím vagy tartózkodási hely,
-- g) telefonszám, e-mail cím, valamint
-- h) az erdészeti hatóság által az erdészeti szakszemélyzettel szemben alkalmazott szankciók.
+- d) erdőkezelésre való jogosultság fennállása esetén a jogosultság ténye,
+- e) szakirányító vállalkozás által alkalmazott erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet azonosító adatai, valamint
+- f) az erdészeti hatóság által az erdészeti szakirányító vállalkozással szemben alkalmazott szankciók.
 
-(1c) Az (1a) bekezdés szerinti nyilvántartás az (1b) bekezdés a), f), valamint g) pontjában foglalt adatok kivételével közhiteles hatósági nyilvántartásnak minősül.
+(1c) Az erdészeti szakirányítói névjegyzék az (1a) bekezdés h)–k) pontjában, valamint az (1b) bekezdés c)–f) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(1d) A szakszemélyzet a névjegyzékben szereplő adataiban bekövetkező változást köteles az erdészeti hatóság állandó lakóhely, vagy tartózkodási hely szerint illetékes területi szervéhez 15 napon belül bejelenteni.
+(1d) Az erdészeti szakirányítói névjegyzék adatai országosan vezetettek, – az (1a) bekezdés b), c) és e) pontban foglaltak kivételével – nyilvánosak, azokból az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – elektronikus úton is – betekintés biztosítható, és szemlemásolat adható.
 
-(1e) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
+(1e) A névjegyzékben szerepelő személy a névjegyzékben szereplő adataiban bekövetkező változást köteles az erdészeti hatóság állandó lakóhelye, tartózkodási helye, székhelye vagy telephelye szerint illetékes területi szervéhez 15 napon belül bejelenteni.
+
+(1f) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványának tartalmára, kiadására, nyilvántartásba vételére és nyilvánosságára, valamint szolgálati jelvényére az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény rendelkezései az irányadók.
 
 (2) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet őrzési tevékenysége során az erdőben, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton jogosult
 
@@ -1575,7 +2011,7 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 #### 99. §
 
-100. § (1) Az erdészeti szakszemélyzet az erdőben, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton végzett erdőőrzési tevékenységével, valamint a jogellenes cselekmény hatóságnak történő bejelentésével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személy.
+100. § (1) Az erdészeti szakszemélyzet valamint a jogosult erdészeti szakszemélyzet az erdőben, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületen és az erdészeti magánúton végzett erdőőrzési tevékenységével, valamint a jogellenes cselekmény hatóságnak történő bejelentésével kapcsolatban a büntetőjogi védelem szempontjából közfeladatot ellátó személy.
 
 (2) Az erdészeti szakszemélyzet az intézkedésével összefüggésben megismert személyes adatokat kizárólag eljárás kezdeményezése céljából, az ahhoz szükséges ideig kezelheti.
 
@@ -1583,25 +2019,14 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 #### 100/B. §
 
-### Jogosult erdészeti szakszemélyzet
+### Az erdészeti gépek kezelésére vonatkozó követelmények
 
-101. § (1) A jogosult erdészeti szakszemélyzet, a 98–100/B. §-ban megfogalmazott kötelezettségeken és jogosultságokon túl
+101. § (1) Az e törvény végrehajtására kiadott jogszabályban meghatározott erdészeti gépet az adott erdészeti gép vonatkozásában erdészeti gépkezelői jogosítványt (a továbbiakban: gépkezelői jogosítvány) szerzett személy kezelhet.
 
-- a) köteles
-  - aa) az erdőgazdálkodó részére annak jogai gyakorlása és kötelezettségei teljesítése érdekében szakmai tájékoztatást és tanácsot adni,
-  - ab) az erdőgazdálkodót szakmai szempontból képviselni a helyszíni szemléken, hatósági ellenőrzéseken, valamint a körzeti erdőtervezéshez kapcsolódó egyeztetéseken,
-  - ac) az erdészeti hatósággal való kapcsolattartása során tudomására jutott, az erdőgazdálkodót érintő tényekről, adatokról az erdőgazdálkodót haladéktalanul tájékoztatni;
-- b) jogosult
-  - ba) az erdőgazdálkodónak az erdészeti hatóság felé teljesítendő bejelentései, adatszolgáltatásai ellenjegyzésére,
-  - bb) műveleti lap kiállítására,
-  - bc) pályázatok szakmai tartalmának, teljesítésének ellenjegyzésére.
+(2) A gépkezelői jogosítvány megszerzésének feltétele az e törvény végrehajtására kiadott jogszabályban meghatározott
 
-(2) Felsőfokú erdészeti szakirányú végzettséggel rendelkező jogosult erdészeti szakszemélyzet jogosult
-
-- a) erdőtelepítési kivitelezési terv készítésére;
-- b) erdészeti magánút tervezésére;
-- c) körzeti erdőtervezés kivételével erdészeti térképezésre;
-- d) erdő rendeltetését szolgáló műtárgy, csatorna, tározó tervezésére.
+- a) szakmai végzettség megléte vagy
+- b) felkészítő tanfolyamot követően a miniszter által kijelölt intézmény által szervezett gépkezelői vizsga letétele.
 
 ### Bejelentési kötelezettség
 
@@ -1609,15 +2034,14 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 ### XI. Fejezet — AZ ERDÉSZETI IGAZGATÁS
 
-103. § (1)
+103. § (1) Az erdészeti hatósági és igazgatási feladatokat ellátó személyek részére igazolványt, az igazolvánnyal azonos sorszámú szolgálati jelvényt és egyenruhát kell biztosítani.
 
-(2) Az erdészeti hatóság eljárása során jogosult
+(2) Az erdészeti hatósági és igazgatási feladatokat ellátó személy az eljárása során jogosult az erdőgazdálkodó, annak hiányában a terület jogszerű használójának engedélye nélkül külön térítés fizetése nélkül az erdészeti feltáróhálózat részét képező erdei úton, valamint az erdő megközelítéséhez szükséges egyéb úton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni.
 
-- a) az erdőgazdálkodó és a tulajdonos engedélye nélkül külön térítés fizetése nélkül valamennyi erdészeti magánúton közlekedni, az erdőt és a fásítást bejárni, ott vizsgálatot, mérést, megfigyelést, valamint az azok elvégzéséhez szükséges mértékig vizsgálati mintát venni,
-- b) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni,
-- c) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
+(3) Az erdészeti hatósági feladatokat ellátó személy az eljárása során jogosult
 
-(3)
+- a) az erdőben folyó tevékenység jogszerűségét ellenőrizni, a jogszerűtlen tevékenység leállítását elrendelni, valamint
+- b) az erdőt és a fásítást veszélyeztető tevékenység beszüntetését, illetve az attól való tartózkodást elrendelni.
 
 (4) Az erdészeti hatóság rendészeti feladatokat ellátó tagja az erdészeti hatóság illetékességi területén jogosult és köteles
 
@@ -1640,13 +2064,29 @@ rendelkezéseit is alkalmazza.
 
 ### Eljárási szabályok
 
+104/A. § (1) E törvényben meghatározott bejelentés-köteles tevékenységek közül
+
+- a) az erdészeti hatóság
+  - aa) a 11. § (2) bekezdésének a) és b) pontjában,
+  - ab) a 15. § (4) bekezdésében, valamint
+  - ac) a 41. § (1) bekezdésében,
+- b) a természetvédelmi hatóság
+  - ba) védett természeti területen, illetve Natura 2000 hálózat részét képező területen a 11. § (2) bekezdésének c) pontjában,
+  - bb) védett természeti területen, illetve Natura 2000 hálózat részét képező területen a 12. § (3) bekezdésében,
+  - bc) a 27. § (3) bekezdésében, valamint
+  - bd) Natura 2000 hálózat részét képező területen a 76/C. § (5) bekezdésében
+
+foglalt bejelentések esetében a bejelentett tevékenységet ellenőrzi, és ha az nem felel meg a jogszabályban foglalt követelményeknek, akkor azt a tevékenység megkezdésére való jogosultság megnyílásáig terjedő időszakban megtilthatja, korlátozhatja, illetve feltételekhez kötheti.
+
+(2) Az (1) bekezdés szerinti bejelentésre a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény bejelentésekre vonatkozó szabályozása nem vonatkozik.
+
 105. § (1) Az erdészeti hatósági eljárásokban hozott határozatok fellebbezéssel nem támadott rendelkezései tekintetében a jogorvoslati határidő elteltével beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
 
-(2) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
+(2)
 
 (3) Az erdőterv-módosítási eljárás, az igénybevételi eljárás, valamint az erdőgazdálkodói nyilvántartásba vételi eljárás ügyintézési határideje – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – harmincöt nap.
 
-(4) Ha az erdészeti hatósági eljárás a Ket.-ben meghatározott jelentős számú ügyfelet érint, akkor a hatóság az ügyféllel hirdetményi úton tart kapcsolatot.
+(4) Ha az erdészeti hatósági eljárás a Ket.-ben meghatározott jelentős számú ügyfelet érint, akkor a hatóság – a körzeti erdőtervezési eljárás kivételével – az ügyféllel hirdetményi úton tart kapcsolatot.
 
 (5) Az erdészeti hatóság az erdőben folyó tevékenység jogszerűségét az ügyfél előzetes értesítésének mellőzésével is ellenőrizheti.
 
@@ -1664,6 +2104,10 @@ rendelkezéseit is alkalmazza.
 (10) Az erdészeti hatóságnak az erdő igénybevételi eljárásban és az erdő területén fátlan állapot kialakításának vagy fenntartásának engedélyezési eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 (11) Az erdészeti hatóság az eljárását az ügy érdemével összefüggően indított büntetőeljárás vagy szabálysértési eljárás jogerős lezárásáig felfüggesztheti.
+
+(12) Az erdészeti hatóság a rendészeti feladatokat ellátó erdészeti szakszemélyzet erdészeti szakirányítói névjegyzékbe történő felvételére irányuló eljárását a rendészeti tevékenység gyakorlásához szükséges szolgálati igazolvány és jelvény kiállítása iránti eljárás jogerős lezárásáig felfüggeszti.
+
+(13) Erdőgazdálkodási bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
 
 ### Nyilvántartásokkal kapcsolatos szabályok
 
@@ -1691,54 +2135,94 @@ rendelkezéseit is alkalmazza.
 - b) az állami adóhatóságtól az adózó adóazonosító jelére, illetve adószámára;
 - c) a közlekedési igazgatási hatóságtól – az engedély nélküli fakitermeléssel összefüggő feladatai ellátásához szükséges mértékben – a közúti közlekedési nyilvántartásban szereplő jármű
   - ca) tulajdonosának (üzemben tartójának) természetes személyazonosító adataira, lakcímére, állampolgárságára (hontalanságára), egyéni vállalkozó esetében – kérelmére – székhelyére, telephelyére, jogi személy vagy jogi személyiséggel nem rendelkező szervezet megnevezésére, székhelye (telephelye) címére, cégjegyzék-, vagy nyilvántartási számára,
-  - cb) tulajdonjog-átruházásának időpontjára, a tulajdonosváltozás bejelentésének tényére és időpontjára
+  - cb) tulajdonjog-átruházásának időpontjára, a tulajdonosváltozás bejelentésének tényére és időpontjára;
+- d) a rendőrségtől – az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet nyilvántartásával kapcsolatos feladatainak ellátásához szükséges mértékben – az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény hatálya alá tartozó, a rendőrség által rendészeti feladatot ellátó személyként nyilvántartásba vett erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet természetes személyazonosító adataira, valamint a szolgálati igazolványa és szolgálati jelvénye sorszámára
 
 vonatkozó adat igénylésére.
+
+(7) Az erdészeti hatóság által vezetett közhiteles hatósági nyilvántartás adataiban bekövetkező változások bejelentése azon adatok tekintetében, amelyeket más nyilvántartás tartalmaz közhitelesen, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bejelentésre kötelezett személy kéri – a bejelentési kötelezettségre meghatározott határidőben értesíti az erdészeti hatóságot.
+
+### Erdőgazdálkodási tevékenység gyakorlásával kapcsolatos eljárásokban fizetendő igazgatási szolgáltatási díj
+
+105/B. § (1) Az e törvényben foglalt, kérelemre induló eljárásokért – beleértve a szakhatósági eljárásokat – valamint igazgatási jellegű szolgáltatásokért, a (2) bekezdésben foglalt kivétellel, igazgatási szolgáltatási díjat kell fizetni.
+
+(2) Nem kell igazgatási szolgáltatási díjat fizetni az alábbi eljárásokban:
+
+- a) erdőgazdálkodó nyilvántartásba vétele, nyilvántartásból történő törlése,
+- b) erdőgazdálkodói nyilvántartás adatainak módosítása,
+- c) erdő rendeltetésének megállapítása vagy törlése,
+- d) erdő üzemmódjának módosítása,
+- e) átmeneti erdőterv kérelme,
+- f) erdőterv módosítása,
+- g) erdő, szabad rendelkezésű erdő átminősítése.
+
+(3) Az 1. mellékletben meghatározott gazdasági társaságoknak az e törvényben foglalt eljárásokért nem kell igazgatási szolgáltatási díjat fizetnie.
 
 ### XII. Fejezet — AZ ELRENDELT ERDŐGAZDÁLKODÁSI TEVÉKENYSÉG, AZ ERDŐGAZDÁLKODÁSI BÍRSÁG ÉS AZ ERDŐVÉDELMI BÍRSÁG
 
 ### Az elrendelt erdőgazdálkodási tevékenység
 
-106. § (1) Ha az erdőgazdálkodó, illetőleg – erdőgazdálkodó hiányában – az erdő tulajdonosa az erdészeti hatóság felszólítása ellenére nem tesz eleget e törvény szerinti erdőgazdálkodási kötelezettségének, és ezáltal az erdő fennmaradását vagy fejlődését veszélyezteti, a szükséges erdőgazdálkodási tevékenységeket az erdészeti hatóság az erdőgazdálkodó, ennek hiányában a tulajdonos költségére elrendeli és elvégezteti. Amennyiben az elrendelt erdőgazdálkodási tevékenység költségei az erdőgazdálkodóval szemben vezetett végrehajtási eljárásban sem térülnek meg, a tulajdonos köteles a költségeket megtéríteni.
+106. § (1) Ha az erdőgazdálkodó – az állam 100%-os tulajdonában álló erdő kivételével – az erdészeti hatóság felszólítása ellenére nem tesz eleget e törvény szerinti erdőgazdálkodási kötelezettségének, és ezáltal az erdő fennmaradását vagy fejlődését veszélyezteti, a szükséges erdőgazdálkodási tevékenységeket az erdészeti hatóság – az (1c) bekezdésben foglaltak figyelembevételével – az erdőgazdálkodó költségére elrendeli és elvégezteti. Ha az elrendelt erdőgazdálkodási tevékenység költségei a kötelezettel szemben vezetett végrehajtási eljárásban nem térülnek meg, az erdő használatára, használatba adására jogosult köteles a költségeket megtéríteni.
 
-(2) Az elrendelő határozatot a tulajdonosnak, állami tulajdonban levő erdő esetében a tulajdonosi jogok gyakorlójának is kézbesíteni kell.
+(1a) Ha az erdőgazdálkodói nyilvántartás adatai alapján az erdő jogszerű használójának személye nem ismert, és az erdő fennmaradása, fejlődése vagy állapotának megőrzése veszélybe kerül, az erdészeti hatóság 30 napos határidő kitűzésével felszólítja az erdő használatára, használatba adására jogosultat
 
-(3) Az elrendelt erdőgazdálkodási tevékenység költségét a költségvetési törvényben e célra meghatározott előirányzatból kell biztosítani.
+- a) az erdő használatba adására, illetve
+- b) az erdő használatára való jogosultság 18. § (5) bekezdésében foglaltak szerinti bejelentésére.
 
-(4) Az elrendelt erdőgazdálkodási tevékenység végrehajtásával megbízott vállalkozó felel a rábízott tevékenység végrehajtásának szakszerűségéért.
+(1b) Ha az (1a) bekezdésben meghatározott felszólítás nem vezet eredményre, az erdészeti hatóság az erdő fenntartása érdekében halaszthatatlan erdőgazdálkodási tevékenységet – az (1c) bekezdésben foglaltak figyelembevételével – az erdő használatára, használatba adására jogosult költségére rendeli, illetve végezteti el.
+
+(1c) Erdő felújításához kapcsolódó erdőgazdálkodási tevékenységet az erdészeti hatóság – ha annak feltételei fennállnak – az (1), illetve (1b) bekezdésben foglalt kötelezett kötelezését megelőzően, az alábbi sorrend biztosításával rendeli és végezteti el:
+
+- a) a nyújtott erdőfelújítási biztosíték terhére,
+- b) az erdőfelújítási kötelezettséget eredményező véghasználat végrehajtója terhére.
+
+(2) Az erdőgazdálkodási tevékenységet elrendelő határozatot az erdő használatára, használatba adására jogosultnak is kézbesíteni kell.
+
+(3) Az elrendelt erdőgazdálkodási tevékenység költségeinek megelőlegezését a költségvetési törvényben e célra meghatározott előirányzatból kell biztosítani.
+
+(4) Az elrendelt erdőgazdálkodási tevékenység végrehajtásával az erdészeti hatóság erdőkezelésre jogosult erdészeti szakirányító vállalkozást bíz meg. A megbízott erdőkezelő felel a rábízott tevékenység végrehajtásának szakszerűségéért.
 
 (5) Az elrendelt erdőgazdálkodási tevékenység során keletkezett bevételt az elrendelt erdőgazdálkodási tevékenység költségeire kell fordítani. Amennyiben a keletkezett bevétel meghaladja az elrendelt tevékenység költségét, a különbözetet a jogosultak részére meg kell téríteni.
 
+(6) Az erdészeti hatóság az erdő felújításához kapcsolódó erdőgazdálkodási tevékenység elrendelését mellőzheti, ha a felszólítására a kötelezett a tevékenység elvégzésével legkésőbb a mulasztás megállapítása évének végéig egy erdőkezelésre jogosult erdészeti szakirányító vállalkozást bíz meg, és a hatályos megbízási szerződést az erdészeti hatóság részére bemutatja.
+
+(7) Ha a kötelezett mulasztása miatt a (6) bekezdésben foglalt tevékenység a következő évben az erdőfelújítás műszaki átvételéig nem kerül végrehajtásra, az erdészeti hatóság a kötelezett részére a tárgyévet követő öt évben erdőgazdálkodási tevékenység elrendeléséhez kapcsolódóan a (6) bekezdésben foglalt lehetőséget nem biztosít.
+
 ### Az erdőgazdálkodási bírság
 
-107. § (1) Az erdőgazdálkodóra erdőgazdálkodási bírságot kell kiszabni, ha az erdőgazdálkodó
+107. § (1) Az erdészeti hatóság az erdőgazdálkodóra erdőgazdálkodási bírságot szab ki, ha az erdőgazdálkodó
 
-- a) erdejében bejelentés nélkül végzett fakitermelésre megbízást adott vagy a fakitermelésről tudomással bírt és azt haladéktalanul nem jelentette az erdészeti hatóságnak vagy a 41. § (3) bekezdésében foglalt előírásokat megsérti;
-- b) a 41. § (1) bekezdésében foglalt bejelentési kötelezettséget vagy a 41. § (3) bekezdésében foglalt előírásokat – fahasználatot nem érintő tevékenység esetében megsérti;
+- a) erdejében jogszerűtlen fakitermelést végzett vagy arra megbízást adott, illetve ilyen fakitermelésről tudomással bírt és azt haladéktalanul nem jelentette az erdészeti hatóságnak;
+- b) a 41. § (1) bekezdésében foglalt bejelentési kötelezettséget fahasználatot nem érintő tevékenység esetében megsérti;
 - c) a 16. § (9) bekezdésében foglaltakat megsérti;
 - d) az 63. § (5) bekezdésében foglalt előírásokat megsérti;
-- e) a 73. § (1), (2) bekezdésében, valamint a 74. § (4) bekezdésében foglalt előírásokat megsérti;
-- f) a 73. § (3) bekezdésében foglalt előírásokat megsérti;
-- g) a 95. § (1), (2), (3) és (6) bekezdésében, a 102. §-ban foglalt bejelentési kötelezettséget elmulasztja;
-- h) a 42. § (1) bekezdésében foglalt bejelentési kötelezettségének az erdészeti hatóság felszólítása ellenére nem tesz eleget;
+- e) a 73. § (1) bekezdésében foglalt előírásokat megsérti;
+- f) a 69. § (1) bekezdésében foglalt előírásokat megsérti;
+- g) a 95. § (3) és (6) bekezdésében, a 102. §-ban foglalt bejelentési kötelezettséget elmulasztja;
+- h) valamely tevékenység végrehajtására vagy az erdő állapotára vonatkozóan e törvényben előírt bejelentési kötelezettségének nem tesz eleget;
 - i) megsérti a 90. § (1) bekezdésében foglalt előírásokat;
-- j) az erdő faállományának szerkezetét, egészségi állapotát károsan befolyásoló módon hajtja végre az állomány nevelését, szálalást vagy a fenyőgyanta gyűjtését;
-- k) az erdőnevelési feladatok elmulasztásával akadályozza az erdőtervben előírt célállománytípus kialakulását és fejlődését;
-- l) túllépi az erdő felújítására és a felújítás befejezésére az e törvény végrehajtására kiadott jogszabályban vagy az erdészeti hatóság határozatában megállapított határidőt;
-- m) az erdő felújítását nem az engedélyezett módon hajtja végre;
-- n) tevékenysége vagy mulasztása miatt a befejezett erdősítés felülvizsgálatának időpontjában az erdő fejlődése nem felel meg a termőhelyi adottságoknak vagy az erdő fafajösszetétele a befejezéskori állapothoz képest a termőhelyi adottságokat és az erdő rendeltetését tekintve kedvezőtlenül megváltozott;
+- j) az erdő faállományának szerkezetét, egészségi állapotát károsan befolyásoló módon hajtja végre az állomány nevelését vagy a fenyőgyanta gyűjtését;
+- k) az erdőnevelési feladatok elmulasztásával akadályozza az erdő e törvény szerint elvárt állapotának kialakulását és fenntartását;
+- l) az állam 100%-os tulajdonában álló erdőben
+  - la) túllépi az erdő felújítására és a felújítás befejezésére megállapított határidőt, vagy
+  - lb) pótlási kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz határidőben eleget;
+- m) az állam 100%-os tulajdonában nem álló erdőben túllépi az erdőfelújítás befejezésére megállapított határidőt;
+- n)
 - o) az erdészeti hatóság erdészeti termékek készletezését, szállítását kizáró vagy korlátozó határozatában foglaltakat megsérti;
 - p) a jogosult erdészeti szakszemélyzet alkalmazására vonatkozó kötelezettségének az erdészeti hatóság felhívására sem tesz eleget, vagy a jogosult erdészeti szakszemélyzet személyében bekövetkezett változást az erdészeti hatóságnak 8 napon belül nem jelenti be;
 - q) a külön jogszabály szerinti erdőtűzvédelmi terv vagy egyszerűsített erdőtűz-védelmi terv készítési kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz eleget;
-- r) a külön jogszabály szerinti erdőtűz-megelőzési kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz eleget.
+- r) a külön jogszabály szerinti erdőtűz-megelőzési kötelezettségének az erdészeti hatóság felhívása ellenére sem tesz eleget;
+- s) megsérti a 15. § (2) bekezdésben foglaltakat;
+- t) a 106. § (7) bekezdésében foglalt mulasztást követi el;
+- u) erdei legeltetési tevékenységhez jogszerűtlenül járul hozzá.
 
-(2) Erdőgazdálkodási bírságot köteles fizetni az erdő tulajdonosa, az ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultja, ha a 17. § (8) bekezdése szerinti kötelezettségének nem tesz eleget.
+(2)
 
-(3) Erdőgazdálkodási bírságot köteles fizetni, aki
+(3) Az erdészeti hatóság erdőgazdálkodási bírságot szab ki arra, aki
 
-- a) a 18. § (3) és (4) bekezdésében foglalt bejelentési kötelezettséget elmulasztja és a terület használatára jogosult;
-- b) engedély nélkül hajtja végre az erdőtelepítést;
-- c) engedélytől eltérően hajtja végre az erdőtelepítést;
+- a) a 18. § (2) vagy (5) bekezdésében foglalt bejelentési kötelezettségét elmulasztja;
+- b) e törvény alapján engedélyhez vagy bejelentéshez kötött tevékenységet – a fakitermelés kivételével – engedély nélkül, vagy az engedélyben, illetve a bejelentésben foglaltaktól, valamint az erdészeti hatóság rendelkezésétől eltérően hajtja végre;
+- c)
 - d) a 70. § (3) bekezdésében foglalt előírásokat megsérti;
 - e) a 90. § (2) bekezdésében foglalt előírásokat megsérti.
 
@@ -1746,7 +2230,7 @@ vonatkozó adat igénylésére.
 
 ### Az erdővédelmi bírság
 
-108. § (1) Erdővédelmi bírságot köteles fizetni, aki
+108. § (1) Az erdészeti hatóság erdővédelmi bírságot szab ki arra, aki
 
 - a) a 61. § (1) bekezdésének a) pontjában foglalt előírásokat megsérti;
 - b) a 61. § (1) bekezdésének b) pontjában foglalt előírásokat megsérti;
@@ -1758,24 +2242,29 @@ vonatkozó adat igénylésére.
 - h) a 65. § (2) bekezdésében foglalt előírásokat megsérti;
 - i) a 91. § (4) bekezdés b) pontjában foglalt előírásokat megsérti:
 - j) a 91. § (4) bekezdés a) pontjában foglalt előírásokat megsérti;
-- k) a 93. § (1) bekezdésben foglalt előírásokat megsérti;
+- k) a 93. § (1), (4) vagy (5) bekezdésben foglalt előírásokat megsérti;
 - l) a 93. § (2) bekezdésben foglalt előírásokat megsérti;
 - m) erdőt vagy erdőgazdálkodási tevékenységet szolgáló, erdőművelési ágban nyilvántartott földterületet engedély nélkül vagy engedélytől eltérően vesz igénybe.
 
-(2) Erdővédelmi bírságot köteles fizetni, az erdő tulajdonosa, ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultja, ha erdejében bejelentés nélkül végzett fakitermelésre megbízást adott vagy a fakitermelésről tudomással bírt és azt haladéktalanul nem jelentette az erdészeti hatóságnak.
+(2) Az erdészeti hatóság erdővédelmi bírságot szab ki
+
+- a) az e törvény hatálya alá tartozó terület tulajdonosára, ingatlan-nyilvántartásba bejegyzett vagyonkezelői, földhasználati, haszonélvezeti, használati jog jogosultjára, vagy
+- b) az erdészeti szakszemélyzetre vagy jogosult erdészeti szakszemélyzetre,
+
+ha jogszerűtlen fakitermelésre megbízást adott vagy ilyen fakitermelésről tudomással bírt, és azt haladéktalanul nem jelentette az erdészeti hatóságnak.
 
 (3) Az erdészeti hatóság hivatalból, vagy a természetvédelmi hatóság, illetőleg az erdőgazdálkodó kezdeményezésére hozott határozata alapján a vadászatra jogosult erdővédelmi bírságot köteles fizetni, ha
 
-- a) az erdősítés sikeresen felújult területén a vadászható vadfajok egyedei az előírt fő és mellékfafajok vezérhajtásait 30%-ot meghaladó mértékben károsították;
+- a) az erdősítésben vagy annak összefüggően fél hektárt meghaladó részterületén a vadászható vadfajok egyedei az adott erdősítés előírt célállományának megfelelő fő- és mellékfafajok vezérhajtásait 30%-ot meghaladó mértékben károsították;
 - b) az erdő természetes felújítását biztosító, az előírt állománytípust alkotó fafajok termésének a vadászható vadfajok egyedei által történő felélésével az erdő felújulása veszélybe került;
-- c) a faállomány egyedei a vadászható vadfajok egyedei által történő dörzsölés, hántás következtében 0,1 ha-t meghaladó nagyságú területen a faegyedek 10%-át meghaladó mértékben károsodtak.
+- c) a faállomány egyedei a vadászható vadfajok egyedei által történő dörzsölés, hántás következtében 0,5 ha-t meghaladó nagyságú egybefüggő területen a faegyedek 10%-át meghaladó mértékben károsodtak.
 
-(4) Erdővédelmi bírság megfizetésére kötelezhető a faanyag kereskedelmi lánc szereplője, ha Magyarországon forgalomba hoz illegális kitermelésből származó vagy olyan, e törvény hatálya alá tartozó faterméket, amely nem felel meg e törvény és az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban és jogszabályokban foglalt követelményeknek, előírásoknak.
+(4) Az erdészeti hatóság erdővédelmi bírságot szab ki a faanyag kereskedelmi lánc szereplőjére, ha Magyarországon forgalomba hoz illegális kitermelésből származó vagy olyan, e törvény hatálya alá tartozó faterméket, amely nem felel meg e törvény és az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban és jogszabályokban foglalt követelményeknek, előírásoknak.
 
 (5) A faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos eljárás során az erdészeti hatóság erdővédelmi bírság fizetését rendeli el azzal szemben, aki
 
 - a) a zárlati intézkedését megszegi,
-- b) az elrendelt szállítási, felhasználási, forgalomba hozatali rendelkezéseket megszegi,
+- b) az e törvényben, valamint e törvény végrehajtására kiadott rendeletben előírt szállítási, felhasználási, forgalomba hozatali rendelkezéseket megszegi,
 - c) az e törvényben, valamint a végrehajtására kiadott jogszabályban előírt adatszolgáltatási, bejelentési kötelezettségének felszólítás ellenére vagy ismételten nem tesz eleget.
 
 (6) Az erdővédelmi bírságot az (5) bekezdésben foglalt kivétellel azzal szemben kell kiszabni, aki a faterméket Magyarországon forgalomba hozta. Ha a forgalomba hozó személy kilétét nem lehet megállapítani, az erdővédelmi bírság a faanyag kereskedelmi lánc azon szereplőjével szemben is kiszabható, akinél a jogsértést megalapozó faterméket az erdészeti hatóság megtalálta.
@@ -1822,59 +2311,71 @@ vonatkozó adat igénylésére.
 112. § (1) Felhatalmazást kap a kormány, hogy rendeletben
 
 - a) jelölje ki az erdészeti hatóságot vagy hatóságokat;
-- b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét és kiszámításának módját;
-- c) határozza meg az erdészeti hatóság faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos feladat- és hatáskörét.
+- b) határozza meg az erdőgazdálkodási és erdővédelmi bírság mértékét és kiszámításának módját, valamint kiszabásának és megfizetésének részletes szabályait;
+- c) határozza meg az erdészeti hatóság faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos feladat- és hatáskörét;
+- d) határozza meg a faanyag kereskedelmi lánc felügyeletével kapcsolatos bejelentés, adatszolgáltatás, nyilvántartás és ellenőrzés részletes szabályait;
+- e) határozza meg az erdészeti hatósági eljárások, bejelentések részletes szabályait;
+- f) határozza meg az erdőgazdálkodói nyilvántartásba vétel, az egyszerűsített erdőgazdálkodói nyilvántartásba vétel, valamint az erdőgazdálkodói nyilvántartás vezetésének részletes szabályai;
+- g) határozza meg az erdőkezelés részletes szabályait és feltételeit;
+- h) határozza meg az erdészeti szakszemélyzet, a jogosult erdészeti szakszemélyzet, és az erdészeti szakirányító vállalkozás nyilvántartásba vételének, nyilvántartásból történő törlésének, valamint az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet tevékenységének, továbbképzésének részletes szabályait és feltételeit;
+- i) határozza meg az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
+- j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentés, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus ügyintézés, nyilvántartás és adatszolgáltatás részletes szabályait, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
-- 1. az erdőgazdálkodói nyilvántartásba vétel és az erdőgazdálkodói nyilvántartás vezetésének részletes szabályait;
-- 2. a szabad rendelkezésű erdő és fásítás telepítésére, a telepítés bejelentésére, engedélyezésére, a bennük tervezett fakitermelés bejelentésére vonatkozó részletes szabályokat;
+- 1. az erdészeti gépkezelői jogosítvánnyal üzemeltethető erdészeti gépek körét, valamint az erdészeti gépkezelői jogosítvány megszerzésének és kiadásának részletes szabályait;
+- 2. az erdészeti hatósági eljárásokhoz kapcsolódó bejelentés, kérelem, valamint adatszolgáltatás tartalmának részletes szabályait;
 - 3. az erdészeti létesítményekre vonatkozó szabályokat;
-- 4.
-- 5. az erdőtervezési körzetek jegyzékét; a körzeti erdőterv készítésének részletes szabályait;
+- 4. az erdő rendeltetése, elsődleges rendeltetése, üzemmódja meghatározásának részletes szabályait;
+- 5. az erdőtervezési körzetek jegyzékét; a körzeti erdőtervezés részletes szabályait;
 - 6. az Országos Erdőállomány Adattár működtetésének és az adatszolgáltatás rendjének részletes szabályait;
 - 7. az erdőtelepítés, erdőfelújítás és az erdőnevelés részletes szabályait;
 - 8. az erdőtelepítési-kivitelezési terv tartalmát és elkészítésének részletes szabályait;
-- 9. az erdőt károsító hatások megelőzésének és mérséklésének, valamint az erdővédelmi mérő- és megfigyelő rendszer működésének részletes szabályait;
+- 9. az erdészeti mérő- és megfigyelő rendszer működésének, valamint az erdőt károsító hatások megelőzésének és mérséklésének részletes szabályait;
 - 10. az erdei haszonvételek gyakorlásának részletes szabályait;
 - 11. az elrendelt erdőgazdálkodási tevékenység részletes szabályait;
-- 12. az erdőgazdálkodási bírság és az erdővédelmi bírság megfizetésének részletes szabályait;
+- 12.
 - 13. az erdészeti magánút tervezésének részletes szabályait;
 - 14. az erdőfelújítási biztosíték nyújtásának részletes szabályait;
 - 15.
 - 16. az erdőtelepítés és erdőfelújítás befejezetté nyilvánításának részletes szabályait;
-- 17. az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet nyilvántartásba vételének, nyilvántartásból történő törlésének, tevékenységének, továbbképzésének részletes szabályait;
+- 17.
 - 18. az erdészeti termőhelyfeltárás részletes szabályait;
-- 19. az átalakítási és szálalási terv készítésének részletes szabályait;
+- 19. az örökerdő, az átalakítási és az erdőfelújítási terv készítésének részletes szabályait;
 - 20. az erdészeti szaporítóanyagokra vonatkozó részletes szabályokat;
-- 21. az erdészeti szolgálati szabályzatot;
-- 22. az erdő művelési ág megállapításának és az erdő megosztásának részletes szabályait;
-- 23. a közjóléti létesítmények nyilvántartásának és a közjóléti fejlesztési tervek készítésének részletes szabályait;
+- 21. az erdészeti hatósági és igazgatási feladatokat ellátó személyek tevékenységének, továbbképzésének részletes szabályait;
+- 22. az erdő művelési ág megállapításának, megszűntetésének és az erdő megosztásának részletes szabályait;
+- 23.
 - 24. a földalatti gombák gyűjtésére vonatkozó részletes szabályokat;
 - 25. az erdőgazdálkodói tevékenység nyilvánossága biztosításának részletes szabályait;
-- 26. az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
-- 27. az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentési, valamint adatszolgáltatási kötelezettség eseteit, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat.
+- 26. a fatermék szállításának, készletnyilvántartásának részletes szabályait, a szállítójegy adattartalmára, a szállítójegy és műveleti lap, előállítására, forgalmazására, nyilvántartására, valamint alkalmasságának megfelelőségére vonatkozó előírásokat;
+- 27. a szállítójegy és a műveleti lap nyomtatványok előállítására használt programokkal szembeni követelményeket, valamint ezek használatára vonatkozó adatszolgáltatási kötelezettséggel kapcsolatos szabályokat.
 
 (3) Felhatalmazást kap a miniszter, hogy – védett természeti területen lévő erdő vonatkozásában a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
 
-- 1. az éves erdőgazdálkodási tevékenység bejelentési-engedélyezési rendszerének részletes szabályait;
-- 2. az erdőtervrendelet előkészítésének részletes szabályait és az erdőtervrendelet előírásait;
-- 3. az ország egyes erdészeti tájaiban az erdőfelújítás során alkalmazható, illetve tiltott célállományokat.
+- 1. erdő terméketlen területté, illetve felnyíló erdővé minősítésének részletes szabályait;
+- 2. a fátlan állapotban tartott, illetve a felnyitott erdő kialakításának és fenntartásának részletes szabályait;
+- 3. az ország egyes erdészeti tájaiban az erdőfelújítás során alkalmazható, illetve tiltott célállományokat;
+- 4. a bejelentésköteles erdőgazdálkodási tevékenységek tiltásának, korlátozásának, illetve feltételekhez kötésének részletes szabályait.
 
 (4) Felhatalmazást kap a miniszter, hogy – a természetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg:
 
-- 1. az erdőt és fásítást alkotó fafajok és cserjefajok, továbbá az őshonos, idegenhonos és az intenzíven terjedő fafajok jegyzékét;
-- 2. az erdő igénybevételének részletes szabályait.
+- 1. az erdei fafajok, azon belül az őshonos fafajok, az idegenhonos fafajok, az intenzíven terjedő fafajok, valamint a termesztésbe vonható idegenhonos fafajok jegyzékét;
+- 2. az erdő igénybevételének részletes szabályait;
+- 3. az erdőgazdálkodás és a körzeti erdőtervezés egyes erdészeti tájakra vonatkozó különös szabályait;
+- 4. az erdőgazdálkodás természetvédelmi célú korlátozásainak különös szabályait;
+- 5. a jelölő erdei élőhelyek kijelölésének szabályait;
+- 6. az erdő természetességi állapota, természetességi állapotra vonatkozó alapelvárása meghatározásának részletes szabályait.
 
 (5) Felhatalmazást kap a miniszter, hogy a természetvédelemért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg az arborétumok jegyzékét.
 
-(6) Felhatalmazást kap a miniszter, hogy a katasztrófák elleni védekezésért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a tűzgyújtási tilalom elrendelésének részletes szabályait.
+(6) Felhatalmazást kap a miniszter, hogy a katasztrófák elleni védekezésért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a fokozott tűzveszély időszaka meghatározásának részletes szabályait, továbbá az erdők tűz elleni védelmét szolgáló egyéb megelőzési szabályokat és intézkedéseket.
 
-(7) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza a honvédelmi rendeltetésű erdőkre vonatkozó különös szabályokat.
+(7)
 
-(8) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az erdészeti hatósági eljárásban fizetendő igazgatási-szolgáltatási díj mértékét, megfizetésének részletes szabályait, a díjfizetés alóli mentesség eseteit.
+(8) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben szabályozza az erdészeti hatósági eljárásban fizetendő igazgatási-szolgáltatási díj mértékét, megfizetésének részletes szabályait.
 
-(9) Felhatalmazást kap a miniszter, hogy a kereskedelemért felelős miniszterrel egyetértésben rendeletben határozza meg a faanyag kereskedelmi lánc felügyeletével kapcsolatos bejelentés, nyilvántartás és ellenőrzés részletes szabályait.
+(9) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a jelentős közérdekű korlátozással, valamint az erdőgazdálkodó által kivédhetetlen károsítással érintett erdő állami tulajdonba vételének részletes szabályait.
 
 (10) Felhatalmazást kap a miniszter, hogy a turizmusért felelős miniszter, a természetvédelemért felelős miniszter, valamint a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a turista útjelzések és tájékoztató táblák elkészítésének és elhelyezésének, valamint a jelzett turista útvonalak nyilvántartásának részletes szabályait.
 
@@ -1888,36 +2389,76 @@ vonatkozó adat igénylésére.
 
 (4) Az e törvény hatálybalépése előtt kiadott üzemtervek e törvény szerinti erdőtervnek minősülnek.
 
-(5) Az e törvény hatálybalépése előtt kiadott üzemtervekben megállapított elsődleges és további rendeltetések e törvény szerinti elsődleges és további rendeltetésnek minősülnek azzal az eltéréssel, hogy az üzemtervben az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 17. § (3) bekezdés a)–b) és d) pontja szerinti rendeltetések e törvény 24. § (2) bekezdés a) pont szerinti rendeltetésnek minősülnek.
-
-(6) Az e törvény hatálybalépése előtt kiadott üzemtervvel nem érintett erdők elsődleges és további rendeltetését az első erdőterv kiadásával egyidejűleg kell megállapítani.
-
-(7) Az e törvény hatálybalépésekor az Adattárban nyilvántartott erdő üzemmódját az e törvény szerint először elkészített körzeti erdőterv alapján kiadott erdőterv kiadásával egyidejűleg hivatalból indított eljárásban, vagy azt megelőzően az erdőgazdálkodó kérelmére induló eljárásban az erdészeti hatóság állapítja meg. Az erdőgazdálkodónak kérelméhez csatolnia kell a tulajdonos, illetve közös tulajdon esetén a tulajdonostársak tulajdoni hányad alapján számított 2/3 részének hozzájárulását.
+(5)–(7)
 
 (8) E törvény hatálybalépése előtt az erdő igénybevételére határidő megjelölése nélkül kiadott engedély, ha az igénybevételre a törvény hatálybalépésétől számított négy éven belül nem kerül sor, érvényét veszti.
 
 (9) E törvény hatálybalépése előtt erdő telepítésére határidő megjelölése nélkül kiadott engedély a törvény hatálybalépésétől számított öt évig érvényes.
 
-(10) Az e törvény hatálybalépése előtt megindult eljárásban jóváhagyott éves erdőgazdálkodási terv alapján az abban engedélyezett erdőgazdálkodási tevékenység bejelentés és műveleti lap kiállítása nélkül végezhető, de a fakitermelési munka végrehajtója köteles a munka elvégzésére jogosító, az erdőgazdálkodó által kiállított okiratot és az éves erdőgazdálkodási tervet vagy annak másolati példányát a munkavégzés során magánál tartani.
+(10)–(12)
 
-(11) Az e törvény hatálybalépése előtt megindult eljárásban jóváhagyott éves erdőgazdálkodási terv alapján kitermelt faanyag származásának igazolásánál a 90. § alkalmazásában a szállítójegy alapja a jóváhagyott éves erdőgazdálkodási terv.
+(13) Az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv alapján az erdőgazdálkodó kérelmére induló eljárásban az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság erdőtervben állapítja meg.
 
-(12) Az e törvény hatálybalépésekor folyamatban lévő körzeti erdőtervezési eljárásban elkészült körzeti erdőterv megállapítására az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény rendelkezéseit kell alkalmazni.
-
-(13) Az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv alapján az erdőgazdálkodó kérelmére induló eljárásban az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság erdőterv határozatban állapítja meg.
-
-(14) E törvény hatálybalépésekor állami tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület hasznosítására vonatkozó, 9. § szerinti feltételeknek nem megfelelő határozatlan idejű szerződéseket 2010. december 31-ig a rendes felmondás szabályai szerint meg kell szüntetni. Határozott idejű szerződés keretében hasznosított területek vonatkozásában 9. §-t a határozott idő lejártától kell alkalmazni.
-
-(15) A védett természeti területnek nem minősülő, külön jogszabály szerinti Natura 2000 területeken található erdőre, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületekre vonatkozó üzemtervi előírásokat az erdészeti hatóság a védett természeti területek természetvédelmi kezeléséért felelős szerv közreműködése mellett, e törvény hatálybalépésétől számított 1 éven belül felülvizsgálja és az európai közösségi jelentőségű természetvédelmi rendeltetésű területekre vonatkozó külön jogszabálynak megfelelően szükség szerint módosítja.
-
-(16) Az erdészeti hatóság (15) bekezdés szerinti eljárásához szükséges adatokat valamennyi hatóság, valamint állami és önkormányzati szervezet köteles az erdészeti hatóság rendelkezésére bocsátani.
+(14)–(16)
 
 (17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig
 
 - a) a korábbi erdőterv érvényessége fennmarad, vagy
 - b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság az erdőgazdálkodó kérelmére erdőtervben állapítja meg.
 
-114. § Az a természetes személy vagy gazdálkodó szervezet, aki vagy amely a faanyag kereskedelmi lánchoz tartozó tevékenységek valamelyikét Magyarország területén 2015. július 1-ig megkezdte, a 90/F. § (1) bekezdésében meghatározott bejelentési kötelezettséget 2016. február 15-ig köteles teljesíteni.
+(18) Ha az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2017. évi LVI. törvény (a továbbiakban: módosító törvény) hatálybalépése előtt e törvény alapján kiadott erdőterv lejártáig az új erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig a korábbi erdőterv érvényessége fennmarad.
+
+(19) A módosító törvény hatálybalépésekor az erdőgazdálkodás üzemmódja az erdőterv módosítása nélkül
+
+- a) átalakító üzemmódú erdő esetében átmeneti üzemmódra,
+- b) szálaló üzemmódú erdő esetén örökerdő üzemmódra
+
+változik, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
+
+(20) A módosító törvény hatálybalépéséig üzemmód-megállapítással nem érintett erdőrészletek üzemmódja vágásos, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
+
+(21) A módosító törvény hatálybalépését követően
+
+- a) a partvédelmi rendeltetés part- vagy töltésvédelmi rendeltetésnek,
+- b) a vízgazdálkodási rendeltetés árvízvédelmi rendeltetésnek,
+- c) a gyógyerdő rendeltetés parkerdő rendeltetésnek
+
+minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
+
+(22) Az erdészeti hatóság a módosító törvény hatálybalépését követően, 2017. december 31-ig az Adattárban törli az erdő rendeltetései közül
+
+- a) az erdészeti arborétum rendeltetést,
+- b) a településvédelmi rendeltetést, ha az nem erdőgazdálkodó kérelmére vagy közérdekből való kezdeményezésre került megállapításra.
+
+(23) Az erdészeti hatóság a módosító törvény hatálybalépését követően, 2018. június 30-ig az erdő rendeltetéseit a 23. § (2) bekezdésében foglalt rendelkezésekkel, elsődleges rendeltetéseit a 23/A. §-ban foglalt rendelkezésekkel összhangban felülvizsgálja és a szükséges módosításokat az Adattáron átvezeti.
+
+(24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő két éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő öt éven belül van lehetőség.
+
+(25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján megkötött megbízási szerződések 2018. december 31-én hatályukat vesztik, az ilyen jogcímen fennálló bejegyzéseket az erdészeti hatóság törli az erdőgazdálkodói nyilvántartásból.
+
+(26) A módosító törvény hatálybalépésekor az Adattárban nyilvántartott erdő természetességi állapotára vonatkozó alapelvárásnak az erdő Adattárban nyilvántartott természetességi állapota minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
+
+(27) Az erdészeti hatóság a módosító törvény hatálybalépésekor az Adattárban nyilvántartott, az állam 100%-os tulajdonában nem álló erdőt, ha az a szélső fák tőben mért távolságát tekintve átlagosan nem éri el a harminc méter szélességet és tízezer négyzetméter kiterjedést, a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kérelmére
+
+- a) kivezeti az Adattárból, vagy
+- b) ha a terület a 6. § (2) bekezdésében foglalt feltételeknek megfelel, átminősíti szabad rendelkezésű erdővé. A kérelem benyújtására a módosító törvény hatálybalépését követő két éven belül van lehetőség.
+
+(28) Az erdészeti hatóság a módosító törvény hatálybalépésekor az Adattárban nyilvántartott erdőt, ha az a 4. § (2) bekezdésben foglalt feltételeknek megfelel, az erdőgazdálkodó kérelmére, de legkésőbb a soron következő körzeti erdőtervezéskor kivezeti az Adattárból.
+
+(29) Az Adattárban nyilvántartott,
+
+- a) a 13. § (1) bekezdés c), f) és g) pontjában foglalt erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület a módosító törvény hatálybalépését követően,
+- b) a 13. § (1) bekezdés a), b), d), h) és i) pontjában foglalt erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület 2018. július 1-jétől
+
+fátlan állapotban tartott erdőnek minősül, amely változást az erdészeti hatóság az Adattáron átvezet.
+
+(30) A 33. § (1)–(6) bekezdésben foglalt rendelkezéseket a módosító törvény hatálybalépésekor folyamatban lévő körzeti erdőtervezésekre is alkalmazni kell. A módosító törvény hatálybalépése előtt lezárt körzeti erdőterv esetén az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság e törvénynek a módosító törvény hatálybalépését megelőző rendelkezései szerint állapítja meg.
+
+#### 114. §
+
+### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+114/A. § E törvény 8. § (1)–(7) és (9) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

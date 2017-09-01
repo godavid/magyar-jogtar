@@ -858,15 +858,13 @@ kulturális javakat.
 
 (4) A nemzeti emlékhelyekre vonatkozó rendelkezéseket a kiemelt nemzeti emlékhelyekre előírt külön szabályokban meghatározott eltérésekkel kell alkalmazni.
 
-61/C. § (1) A kiemelt nemzeti emlékhely az állami vagyon részét képezi.
+61/C. § (1) A 2. mellékletben meghatározottak szerinti kiemelt nemzeti emlékhely az állami vagyon részét képezi.
 
-(2) A 2. mellékletben kiemelt nemzeti emlékhelyként meghatározott ingatlan 2012. január 1-jén, a budapesti Kossuth Lajos téren felállított II. Rákóczi Ferenc emlékmű, Kossuth-emlékmű, A forradalom lángja emlékmű és A Dunánál – József Attila portrészobor a nemzeti vagyonról szóló 2011. évi CXCVI. törvény és a hozzá kapcsolódó egyes törvények módosításáról szóló 2012. évi LXXXIV. törvény hatálybalépése napján, nyilvántartási értéken, ingyenesen az állami vagyon részévé válik.
+(2) A 1055 Budapest V. kerület, belterület, 24834/1 helyrajzi számú ingatlan (a Vértanúk tere) 2017. szeptember 1-jén a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 14. § (1) bekezdése alapján – a méltó megemlékezések feltételeinek biztosítása, mint örökségvédelmi állami feladatok ellátása érdekében – e törvény erejénél fogva, nyilvántartási értéken, ingyenesen az állam tulajdonába kerül.
 
-(2a) A 2. mellékletben kiemelt nemzeti emlékhelyként meghatározott 1055 Budapest V. kerület, belterület, 24897/4 helyrajzi számú ingatlan az Országgyűlésről szóló 2012. évi XXXVI. törvény és azzal összefüggő egyéb törvények módosításáról szóló 2014. évi XIV. törvény hatálybalépése napján, nyilvántartási értéken, ingyenesen az állami vagyon részévé válik.
+(3) A kiemelt nemzeti emlékhely részét képező közterület, az ezen felállított szobrok és a Kossuth Lajos tér 1–3. szám alatti, 24894 helyrajzi számon nyilvántartott Országház vagyonkezelője az Országgyűlés Hivatala.
 
-(3) A (2) és (2a) bekezdésben meghatározott állami vagyon vagyonkezelője az Országgyűlés Hivatala.
-
-(4) A (2) és (2a) bekezdésben meghatározott állami vagyon tulajdonjogának és vagyonkezelési jogának ingatlan-nyilvántartásba történő bejegyzése iránt a Magyar Nemzeti Vagyonkezelő Zrt. intézkedik.
+(4) A (2) bekezdésben meghatározott állami vagyon tulajdonjogának és vagyonkezelési jogának ingatlan-nyilvántartásba történő bejegyzése iránt a Magyar Nemzeti Vagyonkezelő Zrt. intézkedik.
 
 61/D. § (1) A miniszter az emlékhelyekkel összefüggésben különösen az alábbi feladatokat látja el:
 
@@ -1402,7 +1400,18 @@ gyakorolja.
 
 (5) A régészeti feladatellátás tekintetében a 2014. december 31-én hatályos előírásokat kell alkalmazni, ha 2015. január 1-jét követően nem lehet akkreditált intézményt vagy akkreditált szervezetet bevonni a régészeti feladatellátásba.
 
-#### 92/E. §
+92/E. § Az egyes törvények kiemelt nemzeti emlékhellyel összefüggő módosításáról szóló 2017. évi XCIX. törvénnyel megállapított 61/B. § (3) bekezdésre és 61/C. §-ra figyelemmel
+
+- a) az Nvtv. 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján a budapesti Kossuth Lajos tér rekonstrukciójáról szóló 61/2011. (VII. 13.) OGY határozat szerint megvalósított beruházás keretében létrejött és a Magyar Állam tulajdonába került
+  - aa) a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 23. § (4) bekezdés 1., 9. és 10. pontjában meghatározott önkormányzati feladatok ellátásához szükséges ingó vagyonelemek, valamint
+  - ab) az Mötv. 23. § (5) bekezdés 1. pontjában meghatározott önkormányzati feladatok ellátásához szükséges ingó vagyonelemek
+
+ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghatározottak szerint Budapest Főváros Önkormányzata, illetve Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzata (a továbbiakban: belvárosi önkormányzat) tulajdonába kerülnek;
+
+- b) az a) pont szerinti tulajdonátruházással érintett ingó vagyonelemek e törvény alapján az azokat hordozó ingatlanoktól elkülönült, önálló tulajdonjoggal rendelkező, forgalomképes ingó vagyonelemnek minősülnek;
+- c) az a) pont szerinti tulajdonátruházásokról, ezen belül különösen a Budapest Főváros Önkormányzata és a belvárosi önkormányzat tulajdonába kerülő vagyonelemekről egyrészről Budapest Főváros Önkormányzata és a belvárosi önkormányzat, másrészről az állam nevében a tulajdonosi joggyakorló – az Országgyűlés Hivatala közreműködésével – szerződést kötnek;
+- d) az Nvtv. 14. § (1) bekezdése alapján a Budapest Főváros Önkormányzata tulajdonában álló, a Budapest V. kerület, Kossuth Lajos téren felállított Nagyatádi Szabó István portrészobor, Kaszás legény díszítőszobor, Agronómuslány díszítőszobor, valamint a Budapest V. kerület, Vértanúk terén felállított Nagy Imre szobor fenntartása, valamint a méltó megemlékezések feltételeinek biztosítása mint örökségvédelmi állami feladatok ellátása érdekében – 2017. szeptember 1-jén e törvény erejénél fogva ingyenesen, nyilvántartási értéken a Magyar Állam tulajdonába kerül;
+- e) az Nvtv. 13. § (3) bekezdése alapján az a) pont szerinti rekonstrukció megkezdése előtt a Budapest V. kerület, Kossuth Lajos téren felállított, állami tulajdonú, „A Forradalom Lángja” emlékmű az Mötv. 23. § (5) bekezdés 1. pontjában meghatározott önkormányzati feladatok ellátása érdekében 2017. szeptember 1-jén e törvény erejénél fogva ingyenesen, nyilvántartási értéken Budapest Főváros Önkormányzata tulajdonába kerül.
 
 92/F. § E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény és az azzal összefüggő egyes törvények módosításáról szóló törvénnyel (a továbbiakban: Módtv.4.) megállapított 24., 27/A., 28/A., 29., 64., 71., 72., 74., 74/C., 76. §-át a Módtv.4. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -1548,14 +1557,7 @@ I. Kiemelt nemzeti emlékhely
 |  |  | A | B |
 | --- | --- | --- | --- |
 |  |  | A kiemelt nemzeti emlékhely megnevezése | A kiemelt nemzeti emlékhely lehatárolása |
-|  | 11. | Budapest V. kerület, Kossuth Lajos tér | A Kossuth Lajos tér |
-|  | és az Országház épülete |
-|  | cím: 1055 Budapest, Kossuth Lajos tér 1–3. |
-|  | a Néprajzi Múzeum épülete |
-|  | cím: 1055 Budapest, Kossuth Lajos tér 12. |
-|  | a Vidékfejlesztési Minisztérium épülete |
-|  | cím: 1055 Budapest, Kossuth Lajos tér 11. |
-|  | 1055 Budapest V. kerület, belterület, 24897/4 hrsz. |
+|  | 1. | Az Országház és környéke | Budapest V. kerület 1. Kossuth Lajos tér 1–3. szám alatti, 24894 helyrajzi számon nyilvántartott Országház, 2. Kossuth Lajos tér (24893 helyrajzi szám), 3. Kossuth Lajos tér 11. szám alatti, 24891 helyrajzi számon nyilvántartott ingatlan, 4. Kossuth Lajos tér 12. szám alatti, 24898 helyrajzi számon nyilvántartott ingatlan, 5. id. Antall József rakpart (24897/4 helyrajzi szám), 6. Vértanúk tere (24834/1 helyrajzi szám). |
 
 II. Nemzeti emlékhely
 

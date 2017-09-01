@@ -15,6 +15,8 @@ Az Országgyűlés figyelembe véve, hogy a hallássérült, valamint a siketvak
 - c) magyar jelnyelv: a hallássérült személyek által használt, vizuális nyelvi jelekből álló, saját nyelvtani rendszerrel és szabályokkal rendelkező, Magyarországon kialakult önálló, természetes nyelv,
 - d) speciális kommunikációs rendszer: a hallássérült, illetve siketvak személyek által használt, e törvény mellékletében felsorolt kommunikációs eszköz,
 - e) közszolgáltatási tevékenység: a hatósági, kormányzati és minden egyéb közigazgatási, valamint igazságszolgáltatási tevékenység, továbbá az Országgyűlés, az Országgyűlésnek beszámolással tartozó szervek, az Alkotmánybíróság, az alapvető jogok biztosa, az ügyészség, a honvédelmi és rendvédelmi szervek által hatáskörük gyakorlása során kifejtett tevékenység, valamint a társadalombiztosítás által finanszírozott egészségügyi szolgáltatás,
+- f) bilingvális oktatási módszer: olyan oktatási módszer, amely a beszélt magyar nyelv mellett a magyar jelnyelvet is alkalmazza az oktatás során,
+- g) auditív-verbális oktatási módszer: a hallássérült személyek meglévő hallásképességének kihasználását előtérbe helyező olyan oktatási módszer, amely a magyar nyelvet alkalmazza az oktatás során.
 
 3. § (1) Magyarország a magyar jelnyelvet önálló, természetes nyelvnek ismeri el.
 
@@ -146,7 +148,37 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 11. § A hallássérült, illetve siketvak személy számára biztosítani kell, hogy a magyar jelnyelvet, illetőleg az egyéni szükségleteinek leginkább megfelelő speciális kommunikációs rendszereket elsajátítsa, és azokat használja.
 
-#### 12–14. §
+12. § (1) A hallássérült, illetve siketvak gyermekek, tanulók számára létrehozott gyógypedagógiai nevelési-oktatási intézményben (a továbbiakban: gyógypedagógiai intézmény) az óvodai nevelés során, valamint az iskolai nevelés-oktatás előkészítő évfolyamától kezdődően a siket vagy siketvak gyermek számára a magyar jelnyelv vagy speciális kommunikációs rendszer oktatása kötelező.
+
+(2) Az óvodai nevelés, illetve iskolai nevelés és oktatás során a magyar jelnyelv vagy speciális kommunikációs rendszer oktatását meg kell szervezni
+
+- a) a gyógypedagógiai intézményben az (1) bekezdésbe nem tartozó hallássérült,
+- b) a gyógypedagógiai intézmény körén kívül eső nevelési-oktatási intézményben a hallássérült vagy siketvak
+
+gyermek, tanuló számára, amennyiben a szülő (gyám) ezt írásban kezdeményezi az intézmény vezetőjénél. A magyar jelnyelv elsajátításának megszervezésére és finanszírozására a Kormány rendeletében meghatározottak szerint kerül sor.
+
+(3) A magyar jelnyelv oktatását kizárólag jelnyelv szakos pedagógus végezheti.
+
+(4) A speciális kommunikációs rendszerek oktatását látássérültek pedagógiája vagy hallássérültek pedagógiája szakos gyógypedagógus végezheti.
+
+13. § A 6. § (1) bekezdése szerinti szervezet – a gyógypedagógiai intézmény által továbbított írásbeli kezdeményezés alapján – a gyógypedagógiai intézmény bevonásával magyar jelnyelvi vagy speciális kommunikációs tanfolyamot szervez legalább 5 szülő (gyám) részére, ha
+
+- a) a korai fejlesztésben és gondozásban részesülő, illetve
+- b) az óvodai nevelésben részt vevő, illetve a tanulói jogviszonyban álló
+
+hallássérült vagy siketvak gyermekek szülei (gyámjai) írásban kezdeményezik a gyógypedagógiai intézmény vezetőjénél.
+
+### A hallássérült gyermekek oktatására vonatkozó egyes szabályok
+
+14. § (1) A hallássérült gyermek a szülője (gyámja) döntésétől függően bilingvális vagy auditív-verbális módszerrel folyó korai fejlesztésben és gondozásban vehet részt.
+
+(2) A szülő (gyám) az (1) bekezdés szerinti döntéséről legkésőbb a tanévkezdést megelőző 90. napon írásban nyilatkozik.
+
+(3) A gyógypedagógiai intézmény az óvodai nevelést, iskolai nevelést-oktatást bilingvális módszerrel is köteles biztosítani azon hallássérült vagy siketvak gyermek számára, akinek szülője (gyámja) ezt írásban kezdeményezi.
+
+(4) A bilingvális módszerrel történő korai fejlesztést és gondozást, óvodai nevelést, iskolai nevelést és oktatást olyan, a közoktatásról szóló törvény 17. §-ában foglalt képesítésű személy végezhet, aki egyúttal felsőoktatás keretében jelnyelv szakos képzettséget vagy felsőoktatási intézményben szervezett, a bilingvális oktatásra felkészítő szakirányú továbbképzés során szakirányú szakképzettséget szerzett.
+
+(5) A közoktatásról szóló törvény szerinti szakértői és rehabilitációs bizottság tájékoztatást nyújt a szülő (gyám) számára a bilingvális, valamint az auditív-verbális oktatási módszerekről.
 
 ### A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 

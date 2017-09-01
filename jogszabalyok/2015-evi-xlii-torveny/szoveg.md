@@ -2368,10 +2368,10 @@ költséget.
 - b) az önkormányzati vagy magántulajdonú lakás bérletéhez lakbértámogatás vagy albérleti díj-hozzájárulás,
 - c) lakhatás biztosításához szükséges lakás, ház vagy ingatlan megszerzésének anyagi támogatása kamatmentes kölcsönnel vagy vissza nem térítendő juttatással,
 - d) a lakásigény megoldásához egyszeri pénzbeli támogatás nyújtása,
-- e) az egyedülállók és gyermektelen házaspárok részére szükség esetén szálló- vagy garzonelhelyezés,
-- f) a lakással rendelkezők részére a lakhatással kapcsolatos költségekhez való hozzájárulás,
+- e) szálló- vagy garzonelhelyezés,
+- f) a lakhatással kapcsolatos költségekhez való hozzájárulás,
 - g) a lakástulajdon megszerzéséhez nyújtott hitelintézeti kölcsön igénybevételének állami támogatása,
-- h) önkormányzati tulajdonban lévő, a rendvédelmi szerv bérlőkijelölési jogával érintett lakás biztosítása, a tulajdonos önkormányzat rendeletében meghatározott bérleti díj megfizetése mellett.
+- h) a rendvédelmi szerv bérlőkijelölési vagy bérlőkiválasztási jogával érintett lakás biztosítása, bérleti díj megfizetése mellett.
 
 (2) Az (1) bekezdés g) pontja szerinti támogatás formáit és feltételeit törvény vagy kormányrendelet a 172. §-on kívül is megállapíthatja.
 
@@ -2446,6 +2446,8 @@ költséget.
 #### 94. Vezetői juttatások
 
 177. § Az országos parancsnok és az országos főigazgató, valamint helyettesei részére biztosítható juttatásokat a Kormány rendeletben határozza meg.
+
+177/A. § Az 58. § (5) bekezdése szerinti, területi és helyi szerv vezetője részére biztosítható vezetői lakhatási juttatásokat a miniszter rendeletben határozza meg.
 
 #### 95. A kifizetés módjai, adatkezelés
 
@@ -4040,6 +4042,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
   - f) a juttatások, költségtérítések, kedvezmények, támogatások fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és visszatérítési kötelezettség esetén az elengedés részletes rendjét, a kedvezményes üdültetésben, az üdülési hozzájárulásban részesítés rendjét, feltételeit,
   - g) a természetbeni ellátás mértékét és feltételeit, az abban való részesítés, a megállapítás, a kifizetés, valamint a kiadás, az elszámolás, a visszatérítés rendjét,
   - h) a három hónapnál rövidebb időtartamú külföldi szolgálatot teljesítők részére nyújtható napidíj mértékét, megállapításának, kifizetésének, elszámolásának rendjét,
+  - i) a területi és helyi szerv vezetője részére biztosítható vezetői lakhatási juttatások fajtáit, mértékét, a jogosultság feltételeit, különösen a bérleti díj megfizetését, lakbértámogatás vagy albérleti díj támogatás mértékét, és a lakhatással kapcsolatos költségekhez való hozzájárulást,
 - 22. meghatározza a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény hatálya alá nem tartozó egyes elismerések adományozására jogosultak körét, az elismerésben részesítés feltételeit és rendjét,
 - 23. megállapítsa
   - a) a fegyelmi eljárás rendjét és a fegyelmi jogkört gyakorló elöljárók körét, valamint a fegyelmi eljárásban ellátott jogi képviselettel kapcsolatos költségek megtérítésének szabályait,

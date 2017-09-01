@@ -445,6 +445,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) pontja szerinti adatait.
 
+19/C. § A nyilvántartást kezelő szerv az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény (a továbbiakban: ÁBTL Tv.) szerinti érintett elhalálozásának időpontjáról adatot szolgáltat az Állambiztonsági Szolgálatok Történeti Levéltára számára az ÁBTL Tv. 4. § (2) bekezdésében és 5. § (2)–(3) bekezdésében meghatározott védelmi idők leteltének megállapíthatósága céljából.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;

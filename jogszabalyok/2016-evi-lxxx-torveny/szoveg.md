@@ -31,19 +31,63 @@ szöveg lép.
 
 23. §
 
-24. §
+24. § Az Nkt. 15. § (2) bekezdése helyébe a következő rendelkezés lép és egyidejűleg a § a következő (2a) bekezdéssel egészül ki:
+
+„(2) Ha a sajátos nevelési igényű gyermek súlyos és halmozottan fogyatékos, attól az évtől kezdődően, hogy tankötelessé válik, fejlesztő nevelés-oktatásban vesz részt.
+
+(2a) A fejlesztő nevelés-oktatást a gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény látja el egyéni vagy csoportos formában
+
+a) saját intézményében külön erre a célra létrehozott csoportban,
+
+b) otthoni ellátás keretében,
+
+c) abban az intézményben, amely a gyermek ápolását, gondozását ellátja.”
 
 25. §
 
 26. §
 
-27. §
+27. § Az Nkt. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Pedagógiai szakszolgálat
+
+a) a gyógypedagógiai tanácsadás, korai fejlesztés és gondozás,
+
+b) a szakértői bizottsági tevékenység,
+
+c) a nevelési tanácsadás,
+
+d) a logopédiai ellátás,
+
+e) a továbbtanulási, pályaválasztási tanácsadás,
+
+f) a konduktív pedagógiai ellátás,
+
+g) a gyógytestnevelés,
+
+h) az iskolapszichológiai, óvodapszichológiai ellátás,
+
+i) a kiemelten tehetséges gyermekek, tanulók gondozása.”
 
 28–31. §
 
 32. §
 
-33. § (1)–(2)
+33. § (1) Az Nkt. 65. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó garantált illetményt az illetményalap százalékában az (1a) bekezdés és e törvény 7. melléklete állapítja meg.”
+
+(2) Az Nkt. 65. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A köznevelési intézmény vezetője a pedagógus munkavégzése színvonalát, nyújtott munkateljesítményét kompetencia és teljesítményalapú értékelési rendszer alapján értékeli, és ennek figyelembevételével a munkáltató – tankerületi központ által fenntartott köznevelési intézmény esetében a köznevelési intézmény vezetője, szakképzési centrum esetében a tagintézmény-vezető javaslatára és egyetértésével – a tanévre vonatkozóan a pedagógus besorolása szerinti illetménytől eltérően is meghatározhatja az illetményét azzal, hogy a pedagógus illetménye nem lehet kevesebb, mint a központi költségvetésről szóló törvényben meghatározott vetítési alap
+
+a) középfokú végzettség esetén 119,6 százaléka,
+
+b) alapfokozat esetén 174,5 százaléka,
+
+c) mesterfokozat esetén 193,2 százaléka
+
+alapulvételével megállapított illetményalappal számolt illetmény.”
 
 (3)
 
@@ -65,7 +109,7 @@ szöveg lép.
 
 - 1.
 - 2.
-- 3.
+- 3. 8. § (4) bekezdésében a „fejlesztő nevelésben” szövegrész helyébe a „korai fejlesztésben és gondozásban”,
 - 4.
 - 5.
 - 6–8.

@@ -4,9 +4,9 @@ egyrészről az Európai Unió és tagállamai, másrészről Ukrajna közötti 
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad egyrészről az Európai Unió és tagállamai, másrészről Ukrajna közötti Társulási Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
 
-2. §
+2. § Az Országgyűlés a Megállapodást e törvénnyel kihirdeti.
 
-3. §
+3. § A Megállapodás hiteles magyar nyelvű szövegét e törvény 1. számú melléklete tartalmazza.
 
 4. § (1) E törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 

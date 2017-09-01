@@ -545,7 +545,7 @@ kell érteni.
 
 69. § (1) A közös tulajdonban álló föld használatára, használatba adására – a (2) bekezdésben meghatározott eset kivételével – e törvény eltérő rendelkezése hiányában a Ptk.-nak a közös tulajdon használatára vonatkozó szabályait kell alkalmazni.
 
-(2) A közös tulajdonban álló, a Földforgalmi törvény 2. § (3) bekezdésében meghatározott erdőnek minősülő földnek az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerinti erdőgazdálkodási haszonbérletbe adása esetén az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényt kell alkalmazni.
+(2) A közös tulajdonban álló, a Földforgalmi törvény 2. § (3) bekezdésében meghatározott erdőnek minősülő föld haszonbérletbe adása esetén az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényt kell alkalmazni.
 
 (3) Ezen fejezet alkalmazásában a közös tulajdonban álló földön fennálló haszonélvezeti jog esetében a tulajdonostárs alatt a haszonélvezőt is érteni kell.
 
@@ -706,7 +706,11 @@ terjedő időtartam.
 
 (4) Ha a (2) bekezdésben meghatározott esetben az előhaszonbérletre jogosult nem tett eleget a hiánypótlásra való felhívásnak és az erre megállapított határidő meghosszabbítását sem kérte, a mulasztó jogosultat úgy kell tekinteni, mint aki az előhaszonbérleti jogát nem gyakorolja. Erre a mulasztó jogosultat a hiánypótlási felhívásban figyelmeztetni kell.
 
-#### 82. §
+82. § Az erdőnek minősülő földre vonatkozó haszonbérleti szerződés esetén a mezőgazdasági igazgatási szerv az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben meghatározott feltételek közül vizsgálja, hogy
+
+- a) használati megosztás benyújtása esetén a szerződés valamely önálló erdőgazdálkodási egység területére vonatkozik-e, és a használatba adásról a használati megállapodásban megjelölt tulajdonostárs, illetve tulajdonostársak rendelkeztek-e,
+- b) a haszonbérlet időtartamának meghatározása az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben foglaltaknak megfelel-e, és
+- c) a haszonbér meghatározása az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben foglaltaknak megfelel-e.
 
 83. § A mezőgazdasági igazgatási szerv a földhasználati szerződés jóváhagyása esetén a szerződés két eredeti példányát látja el jóváhagyó záradékkal, amelyből az egyik példányt – a jóváhagyását tartalmazó határozatával egyidejűleg – a szerző félnek, a másik példányt a határozat jogerőre emelkedését követően – az e törvény végrehajtására kiadott rendelet szerinti eljárás lefolytatása érdekében – az ingatlanügyi hatóságnak küldi meg.
 
