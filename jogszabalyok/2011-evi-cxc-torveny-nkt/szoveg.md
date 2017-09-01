@@ -177,7 +177,7 @@ tagozat,
 - l) pedagógiai szakszolgálati intézmény,
 - m) pedagógiai-szakmai szolgáltatást nyújtó intézmény [a továbbiakban az a)–m) pont alattiak együtt: köznevelési intézmény].
 
-(2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható az e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény). Nevelési-oktatási intézmény elláthatja a konduktív pedagógiai ellátás, gyógytestnevelés, kiemelten tehetséges gyermekek, tanulók gondozása pedagógiai szakszolgálati feladatot, jogszabályban meghatározott egyes pedagógiai-szakmai szolgáltatási feladatot, továbbá a gyermekétkeztetés feladatát anélkül is, hogy többcélú intézmény formájában működne.
+(2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható az e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény). Nevelési-oktatási intézmény elláthatja a jogszabályban meghatározott egyes pedagógiai-szakmai szolgáltatási feladatot, továbbá a gyermekétkeztetés feladatát anélkül is, hogy többcélú intézmény formájában működne.
 
 (3) A nevelési-oktatási intézmény, a pedagógiai szakszolgálati intézmény gyakorló óvodaként, gyakorló iskolaként, gyakorló kollégiumként, valamint gyakorló szakszolgálati intézményként közreműködhet a pedagógusképzés, -továbbképzés feladataiban. A gyakorló nevelési-oktatási intézményekben, a gyakorló szakszolgálati intézményben a pedagógusjelöltek szakmai munkáját vezetőpedagógus irányítja.
 
@@ -195,7 +195,7 @@ tagozat,
 
 (3) Az óvodai nevelés 6. melléklet szerinti finanszírozott időkerete magában foglalja a gyermek napközbeni ellátásával összefüggő feladatokhoz, a teljes óvodai életet magában foglaló foglalkozásokra fordítható heti ötven óra időkeretet. A fenntartó az óvodában heti tizenegy órás időkeretben köteles megszervezni a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek fejlesztő, valamint a sajátos nevelési igényű gyermekek egészségügyi, pedagógiai célú habilitációs, rehabilitációs foglalkoztatását.
 
-(4) A kötelező óvodai nevelés fejlesztő nevelésben is teljesíthető.
+(4) A kötelező óvodai nevelés korai fejlesztésben és gondozásban is teljesíthető.
 
 (5)
 
@@ -313,7 +313,9 @@ tagozat,
 
 15. § (1) A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény a kizárólag sajátos nevelési igényű gyermekeket, tanulókat ellátó nevelési-oktatási intézmény, amely a szakértői bizottság véleménye alapján vehető igénybe. A gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény fejlesztő nevelést-oktatást végző iskolaként működik, ha kizárólag súlyos és halmozottan fogyatékos gyermekeket lát el.
 
-(2) Ha a sajátos nevelési igényű gyermek súlyos és halmozottan fogyatékos, attól az évtől kezdve, amelyben az ötödik életévét betölti, fejlesztő nevelésben, attól az évtől kezdődően, hogy tankötelessé válik, fejlesztő nevelés-oktatásban vesz részt. A fejlesztő nevelés-oktatást a gyógypedagógiai, konduktív pedagógiai nevelési, nevelési-oktatási intézmény látja el egyéni vagy csoportos formában
+(2) Ha a sajátos nevelési igényű gyermek súlyos és halmozottan fogyatékos, attól az évtől kezdődően, hogy tankötelessé válik, fejlesztő nevelés-oktatásban vesz részt.
+
+(2a) A fejlesztő nevelés-oktatást a gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény látja el egyéni vagy csoportos formában
 
 - a) saját intézményében külön erre a célra létrehozott csoportban,
 - b) otthoni ellátás keretében,
@@ -373,16 +375,15 @@ szükséges.
 
 (2) Pedagógiai szakszolgálat
 
-- a) a gyógypedagógiai tanácsadás, korai fejlesztés, oktatás és gondozás,
-- b) a fejlesztő nevelés,
-- c) szakértői bizottsági tevékenység,
-- d) a nevelési tanácsadás,
-- e) a logopédiai ellátás,
-- f) a továbbtanulási, pályaválasztási tanácsadás,
-- g) a konduktív pedagógiai ellátás,
-- h) a gyógytestnevelés,
-- i) az iskolapszichológiai, óvodapszichológiai ellátás,
-- j) a kiemelten tehetséges gyermekek, tanulók gondozása.
+- a) a gyógypedagógiai tanácsadás, korai fejlesztés és gondozás,
+- b) a szakértői bizottsági tevékenység,
+- c) a nevelési tanácsadás,
+- d) a logopédiai ellátás,
+- e) a továbbtanulási, pályaválasztási tanácsadás,
+- f) a konduktív pedagógiai ellátás,
+- g) a gyógytestnevelés,
+- h) az iskolapszichológiai, óvodapszichológiai ellátás,
+- i) a kiemelten tehetséges gyermekek, tanulók gondozása.
 
 (3) A pedagógiai szakszolgálatok feladatainak, működési feltételeinek, feladatai ellátásának részletes szabályait az oktatásért felelős miniszter rendeletben állapítja meg.
 
@@ -621,7 +622,7 @@ rendelkezik.
 
 (6) Ha az elsőtől a negyedik évfolyamokra járó tanuló eredményes felkészülése azt szükségessé teszi, lehetővé kell tenni, hogy legalább heti két alkalommal egyéni foglalkozásokon vegyen részt. E rendelkezést kell alkalmazni akkor is, ha a tanköteles tanuló tanulmányi követelmények nem teljesítése miatt második vagy további alkalommal ismétli ugyanazt az évfolyamot.
 
-(7) A beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény miatt a szakértői bizottság véleménye alapján, vagy súlyos betegség miatt magántanulóként tanulmányokat folytatók egyéni foglalkozás keretében történő felkészítésére az iskolának tanulónként az osztályok heti időkeretén felül átlag heti tíz óra áll a rendelkezésre. Az időkeret az egyes hetek és tanulók között átcsoportosítható.
+(7) A beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény miatt a szakértői bizottság véleménye alapján, vagy súlyos betegség miatt magántanulóként tanulmányokat folytatók egyéni foglalkozás keretében történő felkészítésére az iskolának tanulónként az osztályok heti időkeretén felül átlag heti tíz óra áll a rendelkezésre. A sajátos nevelési igény miatt magántanulóként tanulmányokat folytató tanulók esetében az e bekezdésben meghatározott időkereten belül kell biztosítani az egészségügyi és pedagógiai célú habilitációs, rehabilitációs foglalkozásokat. Az időkeret az egyes hetek és tanulók között átcsoportosítható.
 
 (8) A gyógypedagógiai nevelésben-oktatásban részt vevő nevelési-oktatási intézményben a sajátos nevelési igényű tanulók részére kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozásokat kell szervezni. A tanuló annyi egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozáson vesz részt, amennyi a sajátos nevelési igényéből eredő hátránya csökkentéséhez szükséges. A kötelező egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozások megszervezésének heti időkeretét a 6. melléklet határozza meg. A heti időkeret a tanítási hetek között a tanuló érdeksérelme nélkül különösen indokolt esetben átcsoportosítható.
 
@@ -1859,9 +1860,21 @@ fokozatokat érheti el.
 
 (9) A pedagógus a minősítő vizsga és a minősítési eljárás hibás vagy valótlan ténymegállapításának, személyiségi jogát sértő megállapításának megsemmisítését a minősítés közlésétől számított harminc napon belül a bíróságtól kérheti.
 
-65. § (1) A fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó garantált illetményt az illetményalap százalékában e törvény 7. melléklete állapítja meg.
+65. § (1) A fokozatokhoz és ezen belül az egyes fizetési kategóriákhoz tartozó garantált illetményt az illetményalap százalékában az (1a) bekezdés és e törvény 7. melléklete állapítja meg.
 
-(2)
+(1a) A köznevelési intézmény vezetője a pedagógus munkavégzése színvonalát, nyújtott munkateljesítményét kompetencia és teljesítményalapú értékelési rendszer alapján értékeli, és ennek figyelembevételével a munkáltató – tankerületi központ által fenntartott köznevelési intézmény esetében a köznevelési intézmény vezetője, szakképzési centrum esetében a tagintézmény-vezető javaslatára és egyetértésével – a tanévre vonatkozóan a pedagógus besorolása szerinti illetménytől eltérően is meghatározhatja az illetményét azzal, hogy a pedagógus illetménye nem lehet kevesebb, mint a központi költségvetésről szóló törvényben meghatározott vetítési alap
+
+- a) középfokú végzettség esetén 119,6 százaléka,
+- b) alapfokozat esetén 174,5 százaléka,
+- c) mesterfokozat esetén 193,2 százaléka
+
+alapulvételével megállapított illetményalappal számolt illetmény.
+
+(2) Az illetményalap a központi költségvetésről szóló törvényben meghatározott vetítési alap
+
+- a) középfokú végzettség esetén százhúsz százaléka,
+- b) alapfokozat esetén száznyolcvan százaléka,
+- c) mesterfokozat esetén kétszáz százaléka.
 
 (3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit.
 

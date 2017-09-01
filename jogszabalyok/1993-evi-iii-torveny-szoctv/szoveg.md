@@ -1518,6 +1518,14 @@ formájában kell nyújtani.
 
 (3) Ha az (1) és (2) bekezdésben említett személy pszichiátriai vagy szenvedélybetegségben szenved, ellátásáról más intézmény keretében kell elkülönítetten gondoskodni.
 
+(3a) Szakápolást is nyújtó idősek otthonában (a továbbiakban: szakápolási központ) szakápolás annak a 18. életévét betöltött személynek nyújtható,
+
+- a) aki idősotthoni ellátásra gondozási szükséglettel rendelkezik,
+- b) aki betegségéből adódóan szakápolást igényel, de akut fekvőbeteg-gyógyintézeti ellátásra és állandó orvosi felügyeletre nem szorul, és
+- c) akit a kezelőorvosa vagy – intézményi jogviszony fennállása esetén – a szociális intézmény orvosa szakápolási központba beutalt.
+
+(3b) Szakápolási központban a szakápolás a gondozási szükséglet vizsgálatának eredménye és az orvosi vélemény alapján megállapított, legfeljebb hat hónapos, a 94/C. § szerinti megállapodásban meghatározott ideig történik. A szakápolási központ orvosa a szakápolás további indokoltságát a határozott idő letelte előtt felülvizsgálja. A felülvizsgálat eredménye alapján a szakápolás határideje – több alkalommal, egyszerre legfeljebb hat hónappal, a 94/C. § szerinti megállapodás módosításával – meghosszabbítható.
+
 (4) Az idősek otthonán belül külön gondozási egységben vagy csoportban kell ellátni azt a személyt, akinél a külön jogszabályban meghatározott szerv a demencia körébe tartozó középsúlyos vagy súlyos kórképet állapít meg.
 
 (5) Idősek otthonába az (1) bekezdés szerinti személlyel az ellátás igénylésekor legalább egy éve együtt élő házastársa, élettársa, testvére és fogyatékos közeli hozzátartozója a 68/A. § (3) bekezdésében meghatározott gondozási szükséglet hiányában is felvehető.
@@ -2158,7 +2166,7 @@ esetén.
 (3) Az (1) bekezdés szerinti megállapodás tartalmazza
 
 - a) az ellátás kezdetének időpontját,
-- b) az intézményi ellátás időtartamát (a határozott vagy határozatlan időtartam megjelölését),
+- b) az intézményi ellátás időtartamát (a határozott vagy határozatlan időtartam megjelölését), szakápolási központ esetén a szakápolás határidejét,
 - c) az igénybevevő számára nyújtott szolgáltatások tartalmát,
 - d) a személyi térítési díj megállapítására, fizetésére vonatkozó szabályokat, amennyiben az ellátás térítésidíj-fizetési kötelezettséggel jár,
 - e) egyszeri hozzájárulás megfizetésének kötelezettsége esetén a hozzájárulás összegét, továbbá az annak beszámítására, teljes vagy részleges visszafizetésére vonatkozó szabályokat,
@@ -2625,7 +2633,7 @@ köteles megfizetni [az a)–e) pont alattiak a továbbiakban együtt: köteleze
 
 (3) A fenntartó ingyenes ellátásban részesíti azt az ellátottat, aki jövedelemmel nem rendelkezik. Tartós bentlakásos intézményi ellátás esetében az ingyenes ellátás további feltétele, hogy az ellátottnak a 119. § (2) bekezdése szerinti jelzálog alapjául szolgáló vagyona és a 117/D. § (3) bekezdése szerinti eljárásban jogerősen térítési díj fizetésére kötelezett nagykorú, vér szerinti vagy örökbe fogadott gyermeke nincs.
 
-115. § (1) Az intézményi térítési díj a személyes gondoskodás körébe tartozó szociális ellátások ellenértékeként megállapított összeg (a továbbiakban: intézményi térítési díj). Az intézményi térítési díjat a fenntartó tárgyév április 1-jéig állapítja meg. Az intézményi térítési díj összege nem haladhatja meg a szolgáltatási önköltséget. Az intézményi térítési díj év közben egy alkalommal, támogatott lakhatás esetében két alkalommal korrigálható. Az intézményi térítési díjat integrált intézmény esetében is szolgáltatásonként kell meghatározni, ilyen esetben az önköltség számítása során a közös költségelemeket a szolgáltatásonkénti közvetlen költségek arányában kell megosztani.
+115. § (1) Az intézményi térítési díj a személyes gondoskodás körébe tartozó szociális ellátások ellenértékeként megállapított összeg (a továbbiakban: intézményi térítési díj). Az intézményi térítési díjat a fenntartó tárgyév április 1-jéig állapítja meg. Az intézményi térítési díj összege nem haladhatja meg a szolgáltatási önköltséget. Az intézményi térítési díj év közben egy alkalommal, támogatott lakhatás esetében két alkalommal korrigálható. Az intézményi térítési díjat integrált intézmény esetében szolgáltatásonként, szakápolási központ esetében a szakápolási ellátásra külön kell meghatározni, ilyen esetben az önköltség számítása során a közös költségelemeket a szolgáltatásonkénti közvetlen költségek arányában kell megosztani.
 
 (1a) Támogatott lakhatás esetén külön kell meghatározni az intézményi térítési díjat
 
@@ -2966,7 +2974,7 @@ járul hozzá.
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 - m)
 - n) a szociális hatóság és a szociális szakértői szerv kijelölését;
-- o) az idősek otthonában nyújtott tartós szakápolás igénybevételének módját és annak egyéb feltételeit,
+- o)
 - p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, utcai szociális munka és a fejlesztő foglalkoztatás finanszírozásának rendjére vonatkozó részletes szabályokat;
 - q) a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokat;
 - r) a szociális intézményekben ellátott személyek állapotának felülvizsgálatára, a rehabilitációs alkalmassági vizsgálatra, a fogyatékos személyek alapvizsgálatára, valamint a komplex szükségletfelmérésre vonatkozó szabályokat;

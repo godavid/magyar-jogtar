@@ -63,7 +63,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 - 18. közérdekű kötelezettségvállalás: a Ptk. 6:589–6:592. §-ában meghatározott kötelezettségvállalás;
 - 19.
 - 20. közhasznú tevékenység: minden olyan tevékenység, amely a létesítő okiratban megjelölt közfeladat teljesítését közvetlenül vagy közvetve szolgálja, ezzel hozzájárulva a társadalom és az egyén közös szükségleteinek kielégítéséhez;
-- 21. közszolgáltatási szerződés: valamely közfeladat – vagy annak egy része – ellátására a szerv nevében történő ellátására kötött írásbeli szerződés. Nem minősül közszolgáltatási szerződésnek azon közszolgáltatással kapcsolatban kötött szerződés, amelynek nyújtása jogszabályban meghatározott feltételeken alapuló engedélyhez van kötve;
+- 21. közszolgáltatási szerződés: valamely közfeladat vagy a közfeladat egy részének a szerv nevében történő ellátására – a Ptk. 6:256. §-ában meghatározottak alapján – kötött írásbeli szerződés. Nem minősül közszolgáltatási szerződésnek azon közszolgáltatással kapcsolatban kötött szerződés, amelynek nyújtása jogszabályban meghatározott feltételeken alapuló engedélyhez van kötve;
 - 22. közvetlen politikai tevékenység: párt érdekében végzett politikai tevékenység, az országgyűlési képviselői választáson történő jelöltállítás, a megyei, fővárosi önkormányzat képviselő-testületébe történő jelöltállítás, az Európai Parlament tagjának történő jelölés, a megyei jogú város képviselő–testületébe történő jelöltállítás, valamint a polgármester jelölése; nem minősül közvetlen politikai tevékenységnek a külön törvényben meghatározott nemzetiségi szervezet által a helyi, illetve nemzetiségi önkormányzati képviselői választáson történő jelöltállítás valamint a polgármester jelölése.
 - 23–24.
 - 25. nem pénzbeli támogatás: vagyoni értékkel rendelkező forgalomképes dolog, szellemi alkotás, illetve vagyoni értékű jog részben vagy egészében, véglegesen vagy ideiglenesen, teljesen vagy részben ingyenesen történő átruházása vagy átengedése, illetve szolgáltatás biztosítása;
@@ -331,7 +331,7 @@ kell érteni.
 
 10/A. § (1) A jogutód nélkül megszűnt civil szervezet fennmaradt pénzbeli vagyona, a létesítő okirat eltérő rendelkezése, valamint – alapítvány esetében – az alapító eltérő rendelkezése hiányában a civil szervezetek támogatására való felhasználás céljából a Nemzeti Együttműködési Alapot illeti meg, amelyet a 73. § (2) bekezdés a) pontja alapján kijelölt szerv kezel. A vagyon felhasználására vonatkozó adatokat a Civil Információs Portálon nyilvánosságra kell hozni.
 
-(2) A civil szervezet végelszámolása, illetve felszámolási eljárása befejeztével – a (3) és (4) bekezdésekben meghatározott vagyonelemek kivételével – a jogutód nélkül megszűnt civil szervezet létesítő okirat vagy jogszabály eltérő rendelkezése, illetve – alapítvány esetében – az alapító eltérő rendelkezése hiányában megmaradt nem pénzbeli vagyonáról a végelszámoló, illetve a felszámoló kimutatást készít, amelyet megküld a Nemzeti Együttműködési Alap Tanácsa részére. A Tanács az (5) bekezdés szerinti eljárásban gondoskodik a nem pénzben rendelkezésre álló vagyonra vonatkozó pályázati eljárás lefolytatásáról.
+(2) A civil szervezet végelszámolása, illetve felszámolási eljárása befejeztével – a (3) és (4) bekezdésben meghatározott vagyonelemek kivételével – a jogutód nélkül megszűnt civil szervezet létesítő okirat vagy jogszabály eltérő rendelkezése, illetve – alapítvány esetében – az alapító eltérő rendelkezése hiányában a megmaradt nem pénzbeli vagyonáról a végelszámoló, illetve a felszámoló kimutatást készít, amelyet megküld a Nemzeti Együttműködési Alap Tanácsa részére. A Nemzeti Együttműködési Alap Tanácsa nyilatkozik a nem pénzbeli vagyon pályáztatásra alkalmasságáról, különösen a vagyonelemek civil szervezetek általi felhasználhatóságáról. A pályáztatásra nem alkalmas nem pénzbeli vagyont a bíróság az állam tulajdonába adja. A Tanács az (5) bekezdés szerinti eljárásban gondoskodik a nem pénzben rendelkezésre álló vagyonra vonatkozó pályázati eljárás lefolytatásáról.
 
 (3) A jogutód nélkül megszűnt civil szervezet, létesítő okirat eltérő rendelkezése, továbbá – alapítvány esetében – az alapító eltérő rendelkezése hiányában megmaradt vagyonából a Nemzeti Földalapról szóló törvény szerinti földrészletet a bíróság az állam tulajdonába adja és elrendeli a Nemzeti Földalapot kezelő szerv részére történő átadását.
 
@@ -457,7 +457,7 @@ kell érteni.
 
 - a) az Országos Bírósági Hivatal a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvényben meghatározott, az országos névjegyzékben szereplő,
 - b) az adóhatóság az adózás rendjéről szóló törvény alapján az adózót terhelő adókötelezettség jogszerű teljesítéséhez, a költségvetési támogatás jogszerű igénybevételéhez a honlapján közzétett,
-- c) a Központi Statisztikai Hivatal az általa a statisztikáról szóló 1993. évi XLVI. törvényben (a továbbiakban: Sttv.) meghatározott statisztikai számjel, valamint az Sttv. 6. § (2) bekezdésében statisztikai regiszterben tárolt nyilvános,
+- c) a Központi Statisztikai Hivatal az általa a hivatalos statisztikáról szóló 2016. évi CLV. törvényben meghatározott statisztikai számjel, valamint a statisztikai regiszterben tárolt nyilvános,
 - d) az adóhatóság a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény alapján a kedvezményezett számára kiutalt összegekről és azok felhasználásáról az adóhatóság rendelkezésére álló,
 - e) a közérdekű önkéntes tevékenységről szóló törvény szerint, a hatósági nyilvántartásban szereplő
 
@@ -624,7 +624,7 @@ tevékenységet folytathat.
 
 - a) az átlagos éves bevétele meghaladja az egymillió forintot, vagy
 - b) a két év egybeszámított adózott eredménye (tárgyévi eredménye) nem negatív, vagy
-- c) a személyi jellegű ráfordításai (kiadásai) – a vezető tisztségviselők juttatásainak figyelembevétele nélkül – eléri az összes ráfordítás (kiadás) egynegyedét.
+- c) a személyi jellegű ráfordításai (kiadásai) – a vezető tisztségviselők juttatásainak figyelembevétele nélkül – elérik az összes ráfordítás (kiadás) egynegyedét, ideértve a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény alapján közérdekű önkéntes tevékenységet végző személyek által összesen teljesített munkaóráknak a civil szervezetek gazdálkodása, az adománygyűjtés és a közhasznúság egyes kérdéseiről szóló 350/2011. (XII. 30.) Korm. rendelet szerinti értékét is.
 
 (5) Megfelelő társadalmi támogatottság mutatható ki az (1) bekezdés szerinti szervezetnél, ha az előző két lezárt üzleti éve vonatkozásában a következő feltételek közül legalább egy teljesül:
 
@@ -785,27 +785,57 @@ vonatkozó szabályokat.
 - c) részt vesznek a civil szervezetek és az üzleti szféra kapcsolatainak és együttműködési lehetőségeinek fejlesztésében,
 - d) folyamatos működésű szakmai tanácsadási rendszert működtetnek jogi, közhasznúsági területen; pénzügyi, könyvelési, adózási kérdésekben; pályázati módszerekre, technikákra vonatkozóan; számítógép-kezelés területén,
 - e) folyamatos információszolgáltatást biztosítanak az e törvény szerinti intézkedések végrehajtásának megvalósulásáról,
-- f) az e célra létrehozott számítógépes rendszeren keresztül adatot szolgáltatnak a Civil Információs Portál számára az a)–e) pontok szerinti feladatokkal kapcsolatos adatok és információk terjesztése érdekében.
+- f) az e célra létrehozott számítógépes rendszeren keresztül adatot szolgáltatnak a Civil Információs Portál számára az a)–e) pontok szerinti feladatokkal kapcsolatos adatok és információk terjesztése érdekében,
+- g) a kollégiumok kérésére tájékoztatást adnak az adott ellátási területen működő civil szervezetek tevékenységéről.
 
-(2) A civil információs centrumok kötelesek együttműködni egymással és a szakmai hálózatokkal az (1) bekezdés szerinti célok teljes körű megvalósítása érdekében.
+(2)
+
+52/A. § (1) Az 51. § (2) bekezdése szerinti nyilvános pályázat nyertesei jogosultak a miniszter által adományozott civil információs centrum cím viselésére a (4) bekezdésben meghatározott szerződés időszaka alatt.
+
+(2) Minden megyében, valamint a fővárosban a pályázaton nyertes civil szervezet működteti a civil információs centrumot, nyújt szolgáltatást, és a támogatási időszak alatt használhatja a civil információs centrum megnevezést.
+
+(3) A civil információs centrum az 51. § és 52. § szerinti szolgáltatásokat ellenszolgáltatás nélkül nyújtja. Az 56. § (1) bekezdés l) pontja szerinti költségvetési támogatásra a miniszter által jóváhagyott egyedi támogatási kérelmek alapján történhet kötelezettségvállalás.
+
+(4) A nyilvános pályázat nyerteseivel a miniszter határozott idejű szakmai együttműködési megállapodást köt. A határozott idő elteltével a cím viselésére vonatkozó jogosultság megszűnik.
+
+(5) A civil információs centrum cím jogosultja évente szakmai beszámolási kötelezettséggel tartozik a miniszter felé. A szakmai beszámoló tartalmazza a szakmai együttműködési megállapodás szerinti tevékenységek időarányos teljesítésének bemutatását.
+
+(6) Ha a miniszter a szakmai együttműködési megállapodásban foglalt tevékenységek időarányos ellátásában mulasztást, hiányosságot, vagy szabálytalanságot állapít meg, a címet azonnali hatállyal visszavonja.
+
+(7) A miniszter a cím visszavonásával egyidejűleg a szakmailag megfelelő pályázatokból álló, döntési lista szerinti, az adott ellátási területre vonatkozó, rangsorban következő civil szervezettel szakmai együttműködési megállapodást köt.
+
+### VIII/A. Fejezet — A CSALÁD, ESÉLYTEREMTŐ ÉS ÖNKÉNTES HÁZAK
+
+52/B. § (1) A kormányzat esélyteremtési, önkéntes és családügyi területéhez kapcsolódó stratégiai célkitűzéseinek helyi szintű megvalósításában civil szervezetek is közreműködnek. A családpolitikáért felelős miniszter a (2) bekezdés szerint gondoskodik a Család, Esélyteremtő és Önkéntes Házak működtetéséről.
+
+(2) A Család, Esélyteremtő és Önkéntes Házakat nyilvános pályázat útján kiválasztott civil szervezetek működtetik.
+
+(3) A Család, Esélyteremtő és Önkéntes Házak az (1) bekezdésben meghatározott tevékenységük keretében az alábbi feladatokat látják el:
+
+- a) a hátrányos helyzetű társadalmi csoportokkal szemben fennálló előítéletek lebontása érdekében szemléletformáló programok megvalósítása;
+- b) az (1) bekezdésben nevesített területhez kapcsolódóan tevékenységet végző civil szervezetek közötti helyi párbeszéd erősítésében koordináló szerep ellátása.
+
+(4) A Család, Esélyteremtő és Önkéntes Házak a (3) bekezdés a) és b) pontján kívüli, egyéb kiegészítő feladatait pályázat alapján megkötött támogatási szerződés tartalmazza. Ezek a feladatok családügyi és önkéntes területhez kapcsolódóan határozhatók meg.
+
+(5) A Család, Esélyteremtő és Önkéntes Házak kötelesek együttműködni egymással és a szakmai partnerekkel az (1) bekezdés szerinti célok teljes körű megvalósítása érdekében.
 
 ### IX. Fejezet — A CIVIL SZERVEZETEK ÁLLAMI TÁMOGATÁSÁNAK KÜLÖNÖS SZABÁLYAI
 
-53. § (1) Az államháztartásról szóló törvény (a továbbiakban: Áht.) rendelkezései szerint az államháztartás alrendszerei terhére kötött támogatási szerződés vagy kibocsátott támogatói okirat alapján létesített jogviszony költségvetési támogatási jogviszony, amelyet az államháztartás működés ére vonatkozó jogszabályok szabályoznak azzal, hogy a Ptk. alapján a támogató késedelmes teljesítése a mindenkor érvényes jegybanki alapkamatnak megfelelő késedelmi kamattal terhelt.
+53. § (1) Az államháztartás alrendszerei terhére kötött támogatási szerződés vagy kibocsátott támogatói okirat alapján létesített támogatási jogviszonyt az államháztartás működésére vonatkozó jogszabályok szabályozzák.
 
-(2) A központi költségvetés terhére törvény eltérő rendelkezése hiányában civil szervezetnek működési támogatás csak akkor nyújtható, ha a Nemzeti Együttműködési Alap biztosítja a költségvetési támogatás forrását.
+(2)
 
-(3) Az államháztartás központi alrendszeréből a civil szervezetek részére nyújtott költségvetési támogatások szakmai összehangolása, az azonos feladatok párhuzamos finanszírozásának kiszűrése érdekében a miniszter szakmai monitoring rendszert működtet.
+(3) Az államháztartás központi alrendszeréből a civil szervezetek részére nyújtott költségvetési támogatások szakmai összehangolása, az azonos projekt célok párhuzamos finanszírozásának kiszűrése érdekében a miniszter szakmai monitoring rendszert működtet.
 
 (4) A (3) bekezdés szerinti szakmai monitoringrendszer tartalmazza a pályázati kiírások, támogatási döntések és támogatások alapvető adatait.
 
-(5) A fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter a (3) bekezdés szerinti szakmai monitoring rendszerben történő rögzítés és a támogatási programok szakmai összehangolása, azonos feladatok párhuzamos finanszírozásának kiszűrése érdekében a költségvetési előirányzat kezelője előzetes jóváhagyás céljából köteles megküldeni a (4) bekezdés szerinti adatokat a miniszter számára. A miniszter a megküldött iratokat megvizsgálja és 15 napon belül elektronikus úton jelez vissza azok tudomásulvételéről, vagy indokolási kötelezettség mellett a jóváhagyás megtagadásáról.
+(5) A fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter a (3) bekezdés szerinti szakmai monitoring rendszerben történő rögzítés és a támogatási programok szakmai összehangolása, azonos projekt célok párhuzamos finanszírozásának kiszűrése érdekében a költségvetési előirányzat kezelője előzetes jóváhagyás céljából köteles megküldeni a (4) bekezdés szerinti adatokat a miniszter számára. A miniszter a megküldött iratokat megvizsgálja és 15 napon belül elektronikus úton jelez vissza azok tudomásulvételéről, vagy indokolási kötelezettség mellett a jóváhagyás megtagadásáról.
 
 (6) Az (5) bekezdés szerinti kötelezettségét a fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter, illetve a költségvetési előirányzat kezelője a kincstár útján teljesíti. A kincstár az általa működtetett monitoring rendszerben történő rögzítéssel egy időben az erre a célra rendszeresített számítógépes rendszeren keresztül küldi meg az adatokat a miniszter számára a Civil Információs Portálon történő közzététel céljából.
 
 (7)–(8)
 
-53/A. § (1) Jelentős költségvetési támogatásnak minősül, ha valamely szervezet a szakmai monitoring rendszer adatai alapján, az államháztartás központi alrendszeréből kapott 19. § (1) bekezdés c) pontja szerinti költségvetési támogatásai (egybeszámított támogatás) összesen meghaladják valamely költségvetési év vonatkozásában az ötvenmillió forintot.
+53/A. § (1) Jelentős költségvetési támogatásnak minősül, ha valamely szervezet a szakmai monitoring rendszer adatai alapján, az államháztartás központi alrendszeréből kapott 20. § (3) bekezdés a) pontja szerinti költségvetési támogatásai (egybeszámított támogatás) összesen meghaladják valamely költségvetési év vonatkozásában az ötvenmillió forintot.
 
 (2) Ha törvény eltérően nem rendelkezik, a jelentős költségvetési támogatásban részesülő civil szervezet nyilvántartás szerint képviseletre jogosult vezető tisztségviselőjét (a továbbiakban: kötelezett) – az (1) bekezdés szerinti feltétel teljesülését követően a vagyonnyilatkozat-tételi kötelezettség fennállásáról és esedékességének időpontjáról szóló tájékoztató megküldésével a miniszter harmincnapos határidővel felhívja vagyonnyilatkozat tételére.
 
@@ -861,8 +891,8 @@ vonatkozó szabályokat.
 
 54. § Az 53. § rendelkezéseit nem kell alkalmazni az államháztartás alrendszereiből folyósított pénzeszköz esetén, ha
 
-- a) annak rendeltetése az állam vagy valamely közigazgatási szerv felelősségébe tartozó, jogszabályban meghatározott és részletesen szabályozott feladat, vagy a feladat egy részének ellátását célozza, vagy
-- b) annak nyújtása normatív alapon, vagy a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény (a továbbiakban: Szftv.) szerint történt, vagy
+- a) annak rendeltetése az állam vagy valamely közigazgatási szerv felelősségébe tartozó, jogszabályban, vagy kormányhatározatban meghatározott feladat, vagy a feladat egy részének ellátását célozza, vagy
+- b) annak nyújtása normatív alapon, vagy a költségvetési törvényben nevesített szervezetek támogatása keretében, vagy a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény (a továbbiakban: Szftv.) szerint történt, vagy
 - c) az az Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból részben vagy egészben támogatott tevékenység fedezetét jelenti.
 
 ### X. Fejezet — NEMZETI EGYÜTTMŰKÖDÉSI ALAP
@@ -877,7 +907,7 @@ vonatkozó szabályokat.
 
 - a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltüntetett adományok értéke után járó öt százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít;
 - b) civil szervezetek működésének támogatása;
-- c) civil szervezeteket érintő évfordulók, fesztiválok, hazai és határon túli rendezvények támogatása;
+- c) civil szervezeteket, határon túli civil szervezeteket érintő szakmai programok, különösen évfordulók, fesztiválok, hazai és határon túli rendezvények, valamint a programok megvalósításához közvetlenül kapcsolódó költségek támogatása;
 - d) nemzetközi civil kapcsolatokban a magyarországi civil szervezetek jelenlétének biztosítása, hazai és határon túli rendezvényeken, fesztiválokon történő részvétel támogatása, nemzetközi tagdíjakhoz támogatás biztosítása, európai integrációt elősegítő programok támogatása;
 - e) civil szférával kapcsolatos tudományos kutatások, monitoringtevékenység és nyilvántartási feladatok támogatása;
 - f) civil szférával kapcsolatos szolgáltató, tanácsadó, oktatási, fejlesztő, segítő, illetve esélyegyenlőséget és akadálymentességet elősegítő tevékenység és intézmények támogatása;
@@ -890,18 +920,18 @@ vonatkozó szabályokat.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 
-- a) hatvan százalékára az (1) bekezdés a) és b) pontja szerinti, a civil szervezetek működését célzó,
-- b) harminc százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés c)–j) pontja szerinti,
+- a) kilencven százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–j) pontja szerinti,
+- b)
 - c) tíz százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–j) pontja szerinti költségvetési támogatásokra történhet kötelezettségvállalás.
 
 (3) Az Alap rendelkezésére álló tárgyévi támogatási források legalább
 
-- a) tíz százalékára visszatérítendő támogatásra
+- a)
 - b) hetven százalékára vissza nem térítendő támogatásra
 
 az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell kiírni.
 
-(4) Az (1) bekezdés c) pontja szerinti támogatás magyarországi és határon túli civil szervezet számára együttesen is nyújtható.
+(4)
 
 57. § (1) Az Alap terhére csak az 56. § (1) bekezdés b), h) vagy l) pontja szerinti támogatás nyújtható azon civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves összes bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket. E bekezdés szerinti esetben az 56. § (1) bekezdés b) vagy h) pontja szerinti támogatás csak visszatérítendő formában nyújtható.
 
@@ -927,22 +957,29 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (4)
 
-(5) Az (1) bekezdés d) pontja szerinti összeg megegyezik az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek felajánlható és az Szftv. alapján adózói rendelkezéseknek megfelelően az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek ténylegesen kiutalt összeg különbségével.
+(5) Az (1) bekezdés d) pontja szerinti összeg az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdése szerinti kedvezményezetteknek felajánlható és ténylegesen kiutalt összeg különbsége csökkentve az Alap működtetésére az Alap kezelő szervének költségvetésében tervezett összeggel.
 
 (6) Az adóhatóság minden év február 1-jéig adatot szolgáltat a miniszter, valamint az államháztartásért felelős miniszter számára az (5) bekezdésben foglaltak teljesítése céljából
 
 - a) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek potenciálisan felajánlható összegről,
 - b) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek ténylegesen kiutalt összegről.
 
+(7) Az Alap kezelő szerve elkülönítetten tartja nyilván az Alap működésének támogatására a kezelőszerv költségvetésében előirányzott összeget.
+
 #### 19. A kedvezményezettek
 
 59. § (1) Az Alap terhére nyújtott támogatás kedvezményezettje az e törvény szerinti egyesület (ide nem értve a szakszervezetet és pártot), illetve alapítvány lehet.
 
-(2) Azon pályázatoknál, amelyek kedvezményezettje szövetség is lehet, a szövetségek számára igénybe vehető támogatási keretet el kell különíteni az egyéb civil szervezetek támogatására szolgáló támogatási kerettől.
+(2)
 
 (3) Nem jogosult az Alapból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban.
 
-(4) A határon túli civil szervezet csak Magyarországon nyilvántartásba vett civil szervezettel együttesen lehet támogatás kedvezményezettje.
+(4) A határon túli civil szervezet
+
+- a) Magyarországon nyilvántartásba vett civil szervezettel együttesen lehet támogatás kedvezményezettje az 56. § (1) bekezdés c), f), g), j) pontja,
+- b) önállóan lehet támogatás kedvezményezettje – feltéve, hogy társpályázóként egy alkalommal már támogatás kedvezményezettje volt – az 56. § (1) bekezdés c) pontja
+
+szerinti támogatás esetén.
 
 #### 20. Az Alap szervezete
 
@@ -990,11 +1027,11 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (11) Az 58. § (1) bekezdés e) pontja szerinti forrás felhasználása, a pályázati kiírások elkészítése, a beérkező pályázatok elbírálása, valamint a támogatott célok megvalósulásának szakmai ellenőrzése érdekében a miniszter az (1) bekezdéstől eltérő elnevezéssel, kilenctagú kollégiumot hozhat létre.
 
-(12) A kollégium döntést hoz az e törvény szerint hatáskörébe utalt támogatásokról és az e törvény felhatalmazása alapján kiadott külön jogszabályban meghatározott infrastruktúra felhasználásáról.
+(12) A kollégium döntést hoz az e törvény szerint hatáskörébe utalt támogatásokról.
 
 62. § (1) A kollégium döntéseiben nem vehet részt a Tanács elnöke és tagja.
 
-(2) A Tanács elnökének és tagjainak, a kollégium elnökének és tagjainak, valamint ezek közeli hozzátartozóinak érdekeltségi körébe tartozóként összeférhetetlennek jelzett szervezet támogatási igénye érvénytelen.
+(2) A Tanács elnöke és tagjai által jelzett, a saját és közeli hozzátartozó tekintetében összeférhetetlennek minősülő szervezet támogatási igénye érvénytelen. A kollégium elnöke és tagjai által jelzett, a saját és közeli hozzátartozó tekintetében összeférhetetlennek minősülő szervezet támogatási igénye annak a kollégiumnak a tekintetében érvénytelen, ahova a kollégium elnökének és tagjainak megbízása szól.
 
 (3) A Tanács elnöke és tagja, a kollégium vezetője és tagja nem vehet részt olyan pályázat elbírálásában, amelynek megítélésénél tőle elfogulatlan állásfoglalás nem várható.
 
@@ -1025,14 +1062,14 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (3) A Tanács tagjával és a kollégium tagjával kapcsolatos kizárási okot a (2) bekezdés szerinti nyilatkozattételt, illetve határidő lejártát követően a miniszterhez bárki bejelentheti. A miniszter a bejelentés megalapozottsága esetén a bejelentéstől számított harminc napon belül dönt az érintett személy megbízásának visszavonásáról.
 
-67. § (1) E törvény alkalmazásában a civil szervezet a Tanács tagjának, a kollégium tagjának és a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény (a továbbiakban: Knyt.) szerinti döntés-előkészítésben közreműködő személynek az érdekeltségi körébe tartozik, ha
+67. § (1) A támogatási igény érvénytelen, ha a döntéshozó, illetve a döntési folyamatban közreműködő személy vagy közeli hozzátartozója
 
-- a) a tag, illetve a döntésben közreműködő személy vagy ezek hozzátartozója
-  - aa) az alapítvány alapítója, a civil szervezet döntéshozó vagy ügyvezető szervének tagja,
-  - ab) a civil szervezettel munkavégzésre irányuló jogviszonyban áll,
-- b) a tag tekintetében az a) pontban foglalt feltételek a vizsgált időpontot megelőző egy éven belül bármikor fennálltak.
+- a) az alapítvány alapítója, a civil szervezet döntéshozó vagy ügyvezető szervének tagja,
+- b) a civil szervezettel munkavégzésre irányuló jogviszonyban álló személy,
 
-(2) A Tanács és a kollégium tagja megbízásakor nyilatkozik az érdekeltségi körébe tartozó civil szervezetekről, valamint az érdekeltségi kör megváltozását az ezt megalapozó körülmény bekövetkezésétől számított tizenöt napon belül bejelenti a Tanács elnökének. A Tanács elnöke a bejelentést követő tizenöt napon belül gondoskodik a tag érdekeltségi körébe tartozó civil szervezetek nevének honlapon (Civil Információs Portálon) történő közzétételéről. A Knyt. szerinti döntés-előkészítésben közreműködő személy érdekeltségi körébe tartozó civil szervezetek nevét közzé kell tenni, a közzététel szabályait a miniszter rendeletben állapítja meg.
+és ezek a feltételek a vizsgált időpontot megelőző egy éven belül bármikor fennálltak.
+
+(2) A Tanács és a kollégium tagja megbízásakor nyilatkozik az (1) bekezdésben foglalt, a támogatási igény érvénytelenségét megalapozó körülményről. Az érvénytelenséget megalapozó körülményekkel kapcsolatban bekövetkezett változásokat a bekövetkezéstől számított 15 napon belül kell bejelenteni a Tanács elnökének.
 
 68. § (1) A Tanács tagjának megbízatása megszűnik
 
@@ -1058,7 +1095,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 - a) feladatát folyamatosan, kilencven napot meghaladóan nem képes ellátni,
 - b) összeférhetetlenségét határidőben nem szünteti meg,
-- c) egy naptári év során az ülések több mint egyharmadán nem vesz részt, vagy
+- c) egy naptári év során – vagy évközbeni megbízás esetén a megbízási idő adott naptári évre eső időszaka alatt időarányosan, legalább három ülést tekintve – az ülések több mint egyharmadán nem vesz részt, vagy
 - d) tisztségére méltatlanná válik.
 
 (6) A miniszter jogosult a saját hatáskörében kijelölt és megbízott tag megbízását indokolás nélkül bármikor visszavonni.
@@ -1075,7 +1112,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (2) A Tanács, illetve a kollégium zárt ülésről vagy a napirendi pont zárt tárgyalásáról dönthet, ha a személyiségi jogok védelme, a személyes adatok védelme vagy a testület működőképességének fenntartása ezt indokolja. A zárt ülésen hozott döntést közzé kell tenni. A zárt ülés, valamint a napirendi pont zárt tárgyalásának elrendeléséhez a jelen lévő tagok kétharmadának egyetértése szükséges.
 
-(3) Az Alapkezelő – a Knyt. 3. §-ában foglaltak szerint – biztosítja a nyertes pályázattal és az elnyert támogatással kapcsolatos, kezelésében lévő adatok nyilvánosságát.
+(3) Az Alapkezelő – a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 3. §-ában foglaltak szerint – biztosítja a nyertes pályázattal és az elnyert támogatással kapcsolatos, kezelésében lévő adatok nyilvánosságát.
 
 (4) A pályázati felhívást és a hozzá kapcsolódó döntéseket az Alap honlapján (Civil Információs Portálon) és az alapkezelő honlapján közzé kell tenni.
 
@@ -1099,27 +1136,21 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 #### 22. A civil jelöltállítási rendszer
 
-71. § (1) A civil jelöltállítási rendszeren keresztül a Tanács 60. § (2) bekezdés a) pontjában meghatározott számú tagját, és a kollégium 61. § (2) bekezdés a) pontjában meghatározott számú tagját elektorok jogosultak megválasztani. A Tanács tagjának és a kollégium tagjának választására azon civil szervezetek jogosultak, amelyek országos vagy legalább területi hatókörrel működnek.
+71. § (1) A civil jelöltállítási rendszeren keresztül a Tanács 60. § (2) bekezdés a) pontjában meghatározott számú tagját, és a kollégium 61. § (2) bekezdés a) pontjában meghatározott számú tagját elektorok jogosultak megválasztani. A Tanács tagjának és a kollégium tagjának választására a helyi, területi és országos hatókörű szervezetek jogosultak.
 
 (2) Az egyes kollégiumok létszámát és az elektori gyűlések részletes szabályait a miniszter a 61. § (1)–(2) bekezdése szerint határozza meg.
 
-(3) A civil jelöltállítási rendszerbe azon legalább területi, illetve országos hatókörű civil szervezetek küldhetnek elektorokat, amelyek a miniszter ez irányú felhívására a jelöltállítási rendszerben való részvételi szándékukat a felhívásban meghatározott módon jelzik. A jelentkezési határidő nem lehet rövidebb harminc napnál. Az e §-nak megfelelő civil szervezet egy elektort delegálhat, egy választási eljárásban minden személy csak egy civil szervezet képviseletében járhat el elektorként. Azt, hogy a civil szervezet melyik elektori gyűlésen kíván elektort állítani, a jelentkezésben fel kell tüntetni.
+(3) A civil jelöltállítási rendszerbe azon civil szervezetek küldhetnek elektorokat, amelyek a miniszter ez irányú felhívására a jelöltállítási rendszerben való részvételi szándékukat a felhívásban meghatározott módon jelzik. A jelentkezési határidő nem lehet rövidebb harminc napnál. Az e §-nak megfelelő civil szervezet egy elektort delegálhat, egy választási eljárásban minden személy csak egy civil szervezet képviseletében járhat el elektorként. Azt, hogy a civil szervezet melyik elektori gyűlésen kíván elektort állítani, a jelentkezésben fel kell tüntetni.
 
 (4) A civil szervezetek elektori gyűlését a miniszter hívja össze. Az elektori gyűlés helyét, időpontját és a mandátumvizsgálat módját, az ügyrendet is tartalmazó hirdetmény útján kell közzétenni a Civil Információs Portálon.
 
-72. § (1) A Tanácsnak és a kollégiumnak a civil jelöltállítási rendszer keretében megválasztandó tagját az elektorok egyéni listás szavazással választják meg, az e törvényben meghatározott szabályok szerint.
-
-(2) A szavazólapon minden olyan jelölt neve feltüntetésre kerül, aki a jelen lévő elektorok tíz százalékának támogatását az erre irányuló nyílt szavazás során elnyeri. Az egy testületbe jelölt, de meg nem választott személyek a kapott szavazatok sorrendje szerint póttagi listára kerülnek. Testületi taggá választott személy egy másik testület póttagi listáján nem szerepelhet. Ha a jelöltet több testületbe is jelölik, de egyikbe sem választják tagnak, a jelölt a választást követően nyilatkozik, hogy mely póttagi listán kíván szerepelni.
-
-(3) A szavazólapon minden elektor legfeljebb annyi jelöltre szavazhat, ahány tagot az adott eljárás során meg kell választani.
-
-(4) A Tanács tagjai és a kollégiumok tagjai azok a jelöltek lesznek, akik a megválasztandó tagok száma szerint a legtöbb szavazatot kapták. Szavazategyenlőség esetén sorsolással kell megállapítani, hogy az egyenlő számú szavazatot elért jelöltek közül melyik jelölt szerez megbízatást.
+72. § A Tanácsnak és a kollégiumnak a civil jelöltállítási rendszer keretében megválasztandó tagját az elektorok egyéni listás szavazással választják meg, a Nemzeti Együttműködési Alappal kapcsolatos egyes kérdésekről szóló miniszteri rendeletben meghatározott szabályok szerint.
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 23. Felhatalmazó rendelkezések
 
-73. § (1) Felhatalmazást kap a Kormány, hogy a civil szervezetek gazdálkodó és adománygyűjtő tevékenységével kapcsolatos részletes szabályokat, a közhasznúsági melléklet formai és tartalmi követelményeit, a kollégiumok által az e törvény alapján juttatott, nem költségvetési támogatásnak minősülő támogatásokkal kapcsolatos döntési eljárás szabályait, valamint a civil szervezetek rendelkezésére bocsátható infrastruktúra felhasználás szabályait és a juttatás feltételeit rendeletben állapítsa meg.
+73. § (1) Felhatalmazást kap a Kormány, hogy a civil szervezetek gazdálkodó és adománygyűjtő tevékenységével kapcsolatos részletes szabályokat, a közhasznúsági melléklet formai és tartalmi követelményeit, a kollégiumok által az e törvény alapján juttatott, nem költségvetési támogatásnak minősülő támogatásokkal kapcsolatos döntési eljárás szabályait, rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -1147,48 +1178,36 @@ rendeletben szabályozza.
 
 75. § (1) 2012. január 1. napját követően csak olyan civil szervezet kaphat költségvetési támogatást – ide nem értve az 54. § szerinti támogatásokat –, amely a 30. § szerint letétbe helyezte beszámolóját.
 
-(2) Az (1) bekezdés rendelkezéseit nem kell alkalmazni a 2012. évi költségvetési forrás terhére nyújtott támogatás tekintetében
+(2) Az (1) bekezdés rendelkezéseit nem kell alkalmazni
 
-- a) a sportról szóló 2004. évi I. törvény szerinti szervezetekre, illetve
+- a)
 - b) az államháztartásról szóló törvény alapján a fejezetet irányító szerv vezetője által az államháztartásért felelős miniszterrel egyetértésben megállapított fejezeti kezelésű előirányzatok kezeléséről, felhasználásáról szóló rendelet által az (1) bekezdés alkalmazása alól mentesített előirányzatokra.
 
 (3) A 8. § (1) bekezdésben meghatározott jogok, amelyekkel e törvény hatálybalépésének időpontjában a 8. § rendelkezéseivel ellentétesen más személy rendelkezik, e törvény hatálybalépésével kártalanítás ellenében a törvény erejénél fogva az egyesületre szállnak vissza. A kártalanítás összegét a felek megállapodása hiányában az egyesület székhelye szerint illetékes bíróság állapítja meg a jogoknak azok visszaszállása időpontjában képviselt valós piaci értéke alapján.
 
-(4) E törvény 27–29. §-ait először a 2012. évben kezdődő üzleti évről készített beszámolóra kell alkalmazni.
+(4)–(5)
 
-(5) Az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállás esetében a számviteli beszámolót letétbe helyezett szervezet 2014. május 31. napjáig továbbra is igénybe veheti az e törvény hatálybalépése előtt megszerzett, valamint a jogszabályok által számára biztosított kedvezményeket, jogállása közhasznú. Az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállású szervezet az e törvény szerinti feltételeknek való megfelelése esetén 2014. május 31. napjáig kezdeményezheti az e törvénynek megfelelő közhasznúsági nyilvántartásba vételét. 2014. június 1. napjától csak az e törvény szerint közhasznúsági nyilvántartásba vett szervezet jogosult a közhasznú megjelölés használatára és a közhasznú jogálláshoz kapcsolódó kedvezmények igénybevételére. 2014. június 1. napjától a szervezet nyilvántartására illetékes szerv törli az e törvény hatálybalépése előtt nyilvántartásba vett közhasznú, illetve kiemelkedően közhasznú jogállású szervezetek közhasznú jogállását, kivéve ha a szervezet igazolja, hogy az e törvény szerinti közhasznúsági nyilvántartásba vétel iránt kérelmét benyújtotta, és a bíróság megállapítja, hogy a szervezet a törvényi feltételeknek megfelel.
+(5a)–(5b)
 
-(5a) Az (5) bekezdés szerint benyújtott, az egyes közjogi jogi személyekkel összefüggő törvények módosításáról szóló 2015. évi CCXVIII. törvény hatálybalépését követően elutasított közhasznúsági nyilvántartásba vételi kérelem esetén a szervezet közhasznú jogállása a határozat jogerőre emelkedése napjával szűnik meg, és a szervezet, valamint a szervezet által támogatásban részesített személyek ennek az adóévnek az utolsó napjáig jogosultak a megszerzett, valamint a jogszabályok által a közhasznú jogállású szervezetekkel összefüggő kedvezmények igénybevételére.
-
-(5b) Azon szervezet esetében, amelynek az (5) bekezdés szerinti közhasznúsági nyilvántartásba vételi kérelmét a bíróság az egyes közjogi jogi személyekkel összefüggő törvények módosításáról szóló 2015. évi CCXVIII. törvény hatálybalépésének napját megelőzően jogerősen elutasította, a közhasznú jogállású szervezetek, valamint az általuk nyújtott támogatások kedvezményezettjei számára biztosított kedvezmények igénybevételével összefüggő rendelkezéseket úgy kell értelmezni, mintha a szervezet közhasznú jogállása a bírósági határozat jogerőre emelkedésének napjával, illetve adójogszabályok esetében a szervezet közhasznú jogállása a bírósági határozat jogerőre emelkedése évének utolsó napján szűnt volna meg.
-
-(6) A 2012. január 1. napja előtt indított és folyamatban lévő közhasznúsági nyilvántartásba vétel iránti eljárásokra a 2011. december 31. napján hatályos szabályok irányadóak azzal, hogy kiemelkedően közhasznú jogállás nem állapítható meg, az eljárást úgy kell lefolytatni, hogy annak eredményeként közhasznú jogállás vehető nyilvántartásba. E rendelkezés miatt módosuló eljárások változásáról a nyilvántartásba vételre illetékes szerv értesíti a kérelmezőt.
-
-(7) Ha a (6) bekezdés szerinti eljárások elbírálásához az e törvényben meghatározott adatok nem állnak rendelkezésre, a nyilvántartásra illetékes szerv a közhasznú jogállás megszerzéséhez szükséges adatok pótlására hívja fel a kérelmezőt. A hiányzó adatok pótlása teljes bizonyító erejű magánokiratban történik.
+(6)–(7)
 
 (8) Az e törvény hatálybalépése előtt megkötött közszolgáltatási szerződésre e törvény rendelkezéseit nem lehet alkalmazni.
 
-(9) Az e törvény hatálybalépését megelőző két üzleti év számviteli beszámolója és közhasznúsági jelentése letétbe helyezhető.
+(9)
 
 (10) A Nemzeti Civil Alapprogramról szóló törvény alapján nyújtott támogatások tekintetében a kezelői feladatokat az Alapprogram megszűnését követően az e törvény 73. § (2) bekezdés a) pontja alapján kijelölt szerv látja el. E törvény hatálybalépését megelőzően kötött támogatási szerződésekkel kapcsolatos kollégiumi hatásköröket az e törvény 73. § (2) bekezdés a) pontja alapján kijelölt szerv gyakorolja.
 
-(11) A Nemzeti Civil Alapprogramról szóló törvény alapján a civil jelöltállítási rendszerben választási eljárás lefolytatása nem lehetséges, a Nemzeti Civil Alapprogram Tanácsa és kollégiumai tagjainak megbízatása e törvény hatálybalépésének napjával megszűnik.
+(11)–(13)
 
-(12) A Nemzeti Együttműködési Alap testületei a 70. § szerinti beszámolók benyújtására első alkalommal a 2012. évre vonatkozóan kötelezettek.
-
-(13) A 61. § (6) bekezdésben foglaltakat a 2012. évben azzal az eltéréssel kell alkalmazni, hogy a pályázatok kiírásáról március 15-éig kell dönteni.
-
-(14) E törvénynek a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvénnyel (a továbbiakban: Mód. tv.) megállapított 9. § (2), (3), (7) és (8) bekezdésének és 10. § (1) és (2) bekezdésének rendelkezéseit a Mód tv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+(14)
 
 (15) A Nemzeti Civil Alapprogram terhére kötött támogatási szerződés alapján visszafizetett vagy más jogcímen bevételként elszámolt összeget a (10) bekezdés szerinti feladatok ellátására kell fordítani és az a 73. § (2) bekezdés a) pontja szerinti Alapkezelőt illeti.
 
-(16) E törvénynek az egyes civil szervezetekkel kapcsolatos törvényeknek a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő valamint egyéb célú módosításáról szóló 2013. évi CCXIII. törvénnyel (a továbbiakban: Civilmód.) megállapított 4. § és a II. fejezetének rendelkezéseit a Civilmód. hatálybalépését követően indult eljárásokban kell alkalmazni.
+(16)–(17)
 
-(17) E törvény 2013. december 31-én hatályos 29. § (3) bekezdésének rendelkezését a 2013. üzleti évről készített beszámolóra alkalmazni kell.
+(18)
 
-(18) E törvénynek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény, valamint a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosításáról szóló 2015. évi CXXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 41/A. §-át azon közhasznú jogállású alapítványra is alkalmazni kell, amelyben – a 41/A. § szerinti okból – a Módtv2. hatálybalépésekor már a kuratórium (kurátor) vagy a bíróság gyakorolja az alapítói jogokat. A 41/A. §-ban foglalt határidőt a Módtv2. hatálybalépésének napjától kell számítani. E rendelkezéseket alkalmazni kell abban az esetben is, ha a Módtv2. hatálybalépését követően az alapítvány közhasznú jogállása vagy közhasznú tevékenységei körében változásbejegyzési eljárást kezdeményeznek.
-
-(19) A civil szervezet a 2. § 11. pontjának, valamint 19–21. §-ának az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi törvénnyel módosított rendelkezését 2015. január 1-jétől kezdődően veheti figyelembe.
+(19)
 
 #### 26. Az Európai Unió jogának való megfelelés
 
