@@ -367,7 +367,7 @@ történhet.
 - e) új építmény elhelyezése tájba illesztve, a helyi építészeti hagyományok figyelembevételével történhet;
 - f) új építmény a természetvédelmi kezelés és bemutatás céljából, valamint szakrális építményként (kápolna, kereszt, kőkép) helyezhető el;
 - g) 10 m beépítési magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
-- h) erdőtelepítés, erdőfelújítás, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
+- h) erdőtelepítés, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 - i) energetikai célú növénytelepítés nem engedélyezhető.
 
 ### Ökológiai folyosó övezete
@@ -386,7 +386,7 @@ történhet.
 - j) új építmény elhelyezése, műszaki infrastruktúra telepítése csak tájba illesztve és a természetvédelmi kezelő hozzájárulása alapján történhet;
 - k) 10 m beépítési magasságot meghaladó építmény – kápolna, kizárólag kilátó rendeltetésű építmény, víztorony kivételével – nem létesíthető, csarnok jellegű épület, reklámcélú hirdető építmény elhelyezése nem engedélyezhető;
 - l) a területen környezetszennyező tevékenység nem folytatható, csak természetes és környezetkímélő módszerek, gazdálkodás alkalmazható;
-- m) erdőtelepítést, erdőfelújítást, külterületi fásítást őshonos fafajokkal kell végezni;
+- m) erdőtelepítést, külterületi fásítást őshonos fafajokkal kell végezni;
 - n) energetikai célú növénytelepítés nem engedélyezhető.
 
 ### Pufferterület övezete

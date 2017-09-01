@@ -1437,7 +1437,7 @@ távolléti díjnak megfelelő összeg.
 
 (5) Kötelező várakozási idő letelte előtt az állomány tagja kettős rendfokozattal rendszeresített beosztásba vagy speciális előmeneteli rendbe tartozó beosztásba a (2) bekezdés a), c), d) és f) pontja szerinti feltételek teljesülése esetén nevezhető ki.
 
-(6) Az 57. § (1) bekezdése esetén az előléptetéskor és kinevezéskor a (2) bekezdés szerinti előmeneteli feltételeknek való megfelelést nem kell vizsgálni.
+(6) Az 57. § (1) bekezdése esetén az előléptetéskor és kinevezéskor a (2) bekezdés a) és c) pontja szerinti előmeneteli feltételeknek való megfelelést kell vizsgálni.
 
 (7) A legénységi állomány tagja
 

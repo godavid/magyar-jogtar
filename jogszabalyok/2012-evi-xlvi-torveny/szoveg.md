@@ -189,7 +189,7 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (17) Az ingatlanügyi hatóságok a hatósági feladataik ellátásához nem fizetnek vizsgálati és záradékolási díjat.
 
-(18) Az erdészeti hatóság évente egy alkalommal díj-, költség- és térítésmentesen jogosult a 3. § (1) bekezdés d) pontjában foglalt adatbázisból az Országos Erdőállomány Adattár nyilvántartásához szükséges adatok igénylésére.
+(18) Az erdészeti hatóság jogosult a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisból a körzeti erdőtervezéshez, az Országos Erdőállomány Adattár vezetéséhez, valamint az erdészeti mérő- és megfigyelő rendszer működtetéséhez szükséges, miniszteri rendeletben meghatározott adatok igénylésére.
 
 (19) A földmérési és térinformatikai államigazgatási szerv a kezelésében lévő és a 3. § (1) bekezdés i) pontjába tartozó adatbázis távérzékelési adatait, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltatja.
 

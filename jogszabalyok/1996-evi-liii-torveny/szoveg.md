@@ -410,7 +410,7 @@ kell végezni.
 
 Védett természeti területen erdőtelepítés kizárólag őshonos fafajokkal, természetkímélő módon és a termőhely típusra jellemző elegyarányoknak megfelelően végezhető.
 
-(4) Védett természeti területen lévő erdőben a fakitermelést vegetációs időszak alatt csak, természetvédelmi kezelési, növény-egészségügyi, erdővédelmi okból vagy havária helyzetben, a természetvédelmi hatóság engedélyével lehet végezni.
+(4) Ha meghatározott erdőgazdálkodási tevékenység védett természeti területen történő végzésére az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) vagy az annak végrehajtására kiadott jogszabály természetvédelmi célból korlátozási időszakot határoz meg, akkor azt a korlátozási időszakban csak természetvédelmi kezelési, növényegészségügyi vagy erdővédelmi okból, az Evt. 27. § (3) bekezdésében foglalt kivétellel a természetvédelmi hatóság engedélyével lehet végezni.
 
 (5) Védett természeti területen lévő erdőben
 
