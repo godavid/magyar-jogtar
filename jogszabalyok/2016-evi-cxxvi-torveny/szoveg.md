@@ -63,9 +63,7 @@ az oktatás szabályozására vonatkozó egyes törvények módosításáról
 
 45. §
 
-46. § Az Nftv. 116. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2016. évi CXXVI. törvénnyel megállapított – 48. § (2) bekezdésében meghatározott feltételeket a 2016/2017. tanév első félévében tanulmányaikat megkezdő hallgatókra, majd azt követően felmenő rendszerben kell alkalmazni. A 2016/2017-es tanévet megelőzően tanulmányait megkezdő, magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatót, aki az utolsó két olyan félévben, amelyben hallgatói jogviszonya nem szünetelt, nem szerezte meg legalább az ajánlott tantervben előírt kreditmennyiség ötven százalékát, illetve az intézmény szervezeti és működési szabályzatában ajánlott tanulmányi átlagot, továbbá azt, aki a 48/D. § (2) bekezdés szerinti nyilatkozatát visszavonja, a felsőoktatási intézmény tanévenként köteles önköltséges képzésre átsorolni.
+46. §
 
 47. § (1)
 
@@ -74,7 +72,7 @@ az oktatás szabályozására vonatkozó egyes törvények módosításáról
 48. § Az Nftv.
 
 - 1–3.
-- 4. 48. § (2) bekezdésében a „tizennyolc kreditet, és nem érte el” szövegrész helyébe a „tizennyolc kreditet, vagy nem érte el”,
+- 4.
 - 5–17.
 
 49. §

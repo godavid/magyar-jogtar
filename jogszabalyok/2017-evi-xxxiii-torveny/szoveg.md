@@ -115,32 +115,11 @@ egyes belügyi tárgyú törvények módosításáról
 
 #### 18. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-81. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 171. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(A hivatásos állomány tagja részére lakhatási támogatás nyújtható, amelyek különösen az alábbiak:)
-
-„h) a rendvédelmi szerv bérlőkijelölési vagy bérlőkiválasztási jogával érintett lakás biztosítása, bérleti díj megfizetése mellett.”
-
-82. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 94. alcíme a következő 177/A. §-sal egészül ki:
-
-„177/A. § Az 58. § (5) bekezdése szerinti, területi és helyi szerv vezetője részére biztosítható vezetői lakhatási juttatásokat a miniszter rendeletben határozza meg.”
-
-83. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 21. pontja a következő i) alponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy az általa irányított rendvédelmi szerv tekintetében rendeletben:
-
-meghatározza)
-
-„i) a területi és helyi szerv vezetője részére biztosítható vezetői lakhatási juttatások fajtáit, mértékét, a jogosultság feltételeit, különösen a bérleti díj megfizetését, lakbértámogatás vagy albérleti díj támogatás mértékét, és a lakhatással kapcsolatos költségekhez való hozzájárulást,”
+81–83. §
 
 84. §
 
-85. § Hatályát veszti a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
-
-- a) 171. § (1) bekezdés e) pontjában az „az egyedülállók és gyermektelen házaspárok részére szükség esetén”, valamint
-- b) 171. § (1) bekezdés f) pontjában az „a lakással rendelkezők részére”
-
-szövegrész.
+85. §
 
 #### 19. Az arcképelemzési nyilvántartásból és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény módosítása
 

@@ -8,9 +8,7 @@ az elektronikus hírközléssel és a fogyasztóvédelemmel összefüggő egyes 
 
 #### 2. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosításáról
 
-2. § (1) A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 17/B. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Telefonos eléréssel működtetett ügyfélszolgálat, illetve az ügyintézés időpontjának előzetes lefoglalására biztosított telefonos elérés esetében biztosítani kell a fogyasztó által kezdeményezett hívás sikeres felépülésének időpontjától számított öt perc várakozási időn belüli hívásfogadást és az érdemi ügyintézés megkezdését, kivéve, ha az a tevékenységi körén kívül eső elháríthatatlan ok miatt nem lehetséges, feltéve, hogy a vállalkozás úgy járt el, ahogy az az adott helyzetben általában elvárható. A vállalkozás köteles a panasszal kapcsolatos élőhangos ügyintézés választását a fogyasztó beazonosítása nélküli módon – reklám továbbítása nélkül – a telefonos eléréssel működtetett ügyfélszolgálat menüsorrendjének első helyére tenni. Az ügyfélszolgálathoz beérkező valamennyi telefonon tett szóbeli panaszt, valamint az ügyfélszolgálat és a fogyasztó közötti telefonos kommunikációt hangfelvétellel rögzíteni kell. Ha a hangfelvétel tartalmazza a 17/A. § (5) bekezdése szerinti tartalmi elemeket – ide nem értve a panasz előterjesztésének helyét, a fogyasztó által bemutatott bizonyítékok jegyzékét, a jegyzőkönyvet felvevő személy aláírását, valamint a jegyzőkönyv felvételének helyét és idejét –, a jegyzőkönyv felvétele a fogyasztó beleegyezésével mellőzhető. A hangfelvételt egyedi azonosítószámmal kell ellátni és öt évig meg kell őrizni.”
+2. §
 
 3–7. §
 
@@ -22,9 +20,7 @@ az elektronikus hírközléssel és a fogyasztóvédelemmel összefüggő egyes 
 
 14–27. §
 
-28. § Az Eht. 138. § (8) bekezdés helyébe a következő lép:
-
-„(8) Az előfizetői panasz intézésére és az ügyfélszolgálatra irányadó eljárást egyebekben a szolgáltató általános szerződési feltételei határozzák meg a fogyasztóvédelemről szóló 1997. évi CLV. törvény 17/A. §-ában, 17/B. § (1) és (3)–(3b) bekezdésében, valamint 17/C. §-ában foglaltakkal összhangban.”
+28. §
 
 29–30. §
 

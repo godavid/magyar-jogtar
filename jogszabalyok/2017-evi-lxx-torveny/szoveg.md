@@ -14,9 +14,7 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 6. §
 
-7. § Az Nkt. 27. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény miatt a szakértői bizottság véleménye alapján, vagy súlyos betegség miatt magántanulóként tanulmányokat folytatók egyéni foglalkozás keretében történő felkészítésére az iskolának tanulónként az osztályok heti időkeretén felül átlag heti tíz óra áll a rendelkezésre. A sajátos nevelési igény miatt magántanulóként tanulmányokat folytató tanulók esetében az e bekezdésben meghatározott időkereten belül kell biztosítani az egészségügyi és pedagógiai célú habilitációs, rehabilitációs foglalkozásokat. Az időkeret az egyes hetek és tanulók között átcsoportosítható.”
+7. §
 
 8–9. §
 
@@ -46,7 +44,7 @@ szöveg lép.
 
 22. § Hatályát veszti az Nkt.
 
-- 1. 7. § (2) bekezdésében a „konduktív pedagógiai ellátás, gyógytestnevelés, kiemelten tehetséges gyermekek, tanulók gondozása pedagógiai szakszolgálati feladatot,” szövegrész,
+- 1.
 - 2.
 - 3–5.
 - 6.
