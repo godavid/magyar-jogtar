@@ -679,7 +679,7 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 (15) Amennyiben az eljáró hatóság a közúti ellenőrzés során megállapítja, hogy a jármű vezetőjének, vagy üzemben tartójának közigazgatási bírság tartozása áll fenn, a (7)–(10) bekezdésekben foglaltak szerint kell eljárni.
 
-(16) Amennyiben az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés h) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárni.
+(16) Ha az ellenőrzésre jogosult hatóság a közúti ellenőrzés során megállapítja, hogy a 21. § (1) bekezdés d), h) vagy i) pontjában meghatározott rendelkezés megszegése miatt közigazgatási eljárás még nem indult, vagy a megindított közigazgatási eljárásban az üzembentartó személye még nem került megállapításra, úgy – tekintet nélkül a szabályszegés elkövetési helyére – a (7)–(10) bekezdésben foglaltak szerint kell eljárnia.
 
 (17)
 
@@ -711,7 +711,7 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 - a) a megengedett legnagyobb sebességre,
 - b) a vasúti átjárón való áthaladásra,
 - c) a járműforgalom irányítására szolgáló fényjelző készülék jelzéseire,
-- d)
+- d) a megengedett legnagyobb össztömeget vagy tengelyterhelést meghaladó járművek közúti közlekedésére,
 - e) a gyorsforgalmi út leálló sávjának, leállóöblének igénybevételére,
 - f) a behajtási tilalomra, a korlátozott övezetre (zóna), a kötelező haladási irányra,
 - g) a természet védelmére,
@@ -720,17 +720,24 @@ jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közleked
 
 vonatkozó – külön jogszabályban meghatározott – egyes előírások betartásra kerüljenek.
 
-(2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben 10 000 forinttól 300 000 forintig terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
+(2) Ha az (1) bekezdés szerinti egyes előírásokat megszegik, az üzemben tartóval (járműszerelvény esetében a vontatást végző jármű üzemben tartójával), illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személlyel szemben
 
-(2a) Amennyiben a 20. § (1) bekezdés d), k) vagy m) pontjában foglalt szabályszegést elkövető kiléte a helyszíni intézkedés, vagy a közigazgatási hatósági eljárásban ismertté válik, a (2) bekezdésben meghatározott bírság helyett a jármű vezetőjével szemben a 20. § (4) bekezdés szerinti bírságot kell kiszabni.
+- a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 10 000 forinttól 300 000 forintig,
+- b) az (1) bekezdés d) és i) pontja szerinti esetben 10 000 forinttól 800 000 forintig
 
-(3) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának – az (1) bekezdés h) pontja kivételével – kizárólag a külön jogszabály szerinti technikai eszközzel készített és továbbított felvétellel dokumentált szabályszegés esetén van helye.
+terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
+
+(2a) Ha a 20. § (1) bekezdés h), k), m) vagy o) pontjában foglalt szabályszegést elkövető kiléte a helyszíni intézkedés során, vagy a közigazgatási hatósági eljárásban ismertté válik, a (2) bekezdésben meghatározott bírság helyett az elkövetővel szemben a 20. § (4) bekezdése szerinti bírságot kell kiszabni.
+
+(3) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának – az (1) bekezdés d), h) és i) pontja kivételével – kizárólag a külön jogszabályban meghatározott szerinti technikai eszközzel készített és továbbított felvétellel dokumentált szabályszegés esetén van helye.
 
 (3a) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának az (1) bekezdés h) pontja esetén kizárólag az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló törvényben (a továbbiakban: ED törvény) meghatározott UD rendszer üzemeltetője által a bírság kiszabására jogosult hatóságnak átadott adatok alapján van helye.
 
-(4) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság jogosult. A hatóság az (1) bekezdés a)–g) pontjában meghatározott szabályszegés miatt hozott határozatát az ügyfél részére az előírás megszegését követő 70 napon belül, az (1) bekezdés h) pontjában meghatározott szabályszegés miatt hozott határozatát az előírás megszegését követő 150 napon belül kézbesíti. A (2) bekezdés szerinti közigazgatási bírságot kiszabó, elsőfokú határozat meghozatala a Kormány rendeletében meghatározott feltételek esetén automatikus döntéshozatal útján történik.
+(3b) A (2) bekezdésben meghatározott közigazgatási bírság kiszabásának az (1) bekezdés d) és i) pontja esetén kizárólag az ED törvényben meghatározott UD rendszer üzemeltetője által felvételezett, 21/K. § (3) bekezdés a)–f) pontjában meghatározott, a mérési adatok tekintetében hitelesített vagy kalibrált mérőeszközből származó, közvetlen adatkapcsolat útján átadott adatok, valamint a 21/K. § (3) bekezdés g)–h) pontja szerint a Nemzeti Tengelysúlymérő Rendszer által közvetlen adathozzáféréssel átvett adatok alapján van helye.
 
-(4a) Az (1) bekezdés a)–g) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő négy hónapon belül, az (1) bekezdés h) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő öt hónapon belül be kell fejezni.
+(4) A bírságolással kapcsolatos eljárás lefolytatására a Kormány által rendeletben kijelölt hatóság jogosult. A hatóság az (1) bekezdés a)–c) és e)–g) pontjában meghatározott szabályszegés miatt hozott határozatát az ügyfél részére az előírás megszegését követő 70 napon belül, az (1) bekezdés d), h) és i) pontjában meghatározott szabályszegés miatt hozott határozatát az előírás megszegését követő 150 napon belül kézbesíti. A (2) bekezdés szerinti közigazgatási bírságot kiszabó, elsőfokú határozat meghozatala a Kormány rendeletében meghatározott feltételek esetén automatikus döntéshozatal útján történik.
+
+(4a) Az (1) bekezdés a)–c) és e)–g) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő négy hónapon belül, az (1) bekezdés d), h) és i) pontjában meghatározott szabályszegés miatt indult elsőfokú eljárást az előírás megszegését követő öt hónapon belül be kell fejezni.
 
 (5) A Kormány – az (1) bekezdésben foglaltakra figyelemmel – rendeletben állapítja meg azon szabályszegések körét, amelyek esetén az érintett gépjármű üzemben tartója, illetve a 21/A. § (2) bekezdésében meghatározott esetben a gépjárművet használatra átvevő személy közigazgatási bírsággal sújtandó.
 
@@ -857,7 +864,12 @@ követő hat hónapig kezeli.
 
 ### A Nemzeti Tengelysúlymérő Rendszer
 
-21/K. § (1) A közlekedési hatóság a közúti forgalom biztonsága érdekében a közúti járművek megengedett legnagyobb össztömegére és tengelyterhelésére vonatkozó rendelkezések megtartásával kapcsolatos ellenőrzési feladatok támogatására, az ellenőrzésre való kiválasztás előszűrése érdekében Nemzeti Tengelysúlymérő Rendszert (a továbbiakban: tengelysúlymérő-rendszer) működtet.
+21/K. § (1) A közlekedési hatóság
+
+- a) az alábbi célok érdekében működteti a Nemzeti Tengelysúlymérő Rendszert:
+  - aa) a közúti közlekedés ellenőrzésének támogatására, az ellenőrzésre való kiválasztásra, ideértve az ezekhez kapcsolódó kockázatértékelési tevékenységet is, valamint
+  - ab) a 20. § (1) bekezdésében, továbbá a 21. § (1) bekezdés d) és i) pontjában meghatározott felelősség megállapítására;
+- b) az a) pontban meghatározottakkal összefüggésben az állami adó- és vámhatóság jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatást teljesít.
 
 (1a) Az (1) bekezdésben meghatározott Nemzeti Tengelysúlymérő Rendszer keretében végzett mérés eredményét befolyásolni, így különösen a mérőberendezést e célból kikerülni tilos.
 
@@ -930,6 +942,8 @@ követő hat hónapig kezeli.
 - b) bírság kiszabása esetén az eljárás végleges befejezésétől számított,
 
 a 20. § (4) bekezdésben foglalt határidő lejártát követően törölni kell.
+
+(10) A (3) bekezdés szerinti adatokat abban az esetben, ha jogsértés megállapítására nem kerül sor, a (2) bekezdésben meghatározott adatátadástól számított 30 napon belül törölni kell.
 
 (11) A közlekedési hatóság jogosult a külföldi hatósági jelzéssel ellátott jármű rendszámát a vélelmezett szabályszegés elkövetésének helyét és idejét, valamint a helymeghatározás egyéb jellemző adatait, az ellenőrzés képi felvételeit az ellenőrzés időpontjától számított 2 évig megőrizni, ha helyszíni ellenőrzésre nem került sor, illetve a jármű üzembentartó személyének automatizált lekérdezés útján történő megállapítására nincsen mód.
 
@@ -1876,7 +1890,9 @@ rendeletben állapítsa meg.
 
 (7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.
 
-48/A. § Ha az eljáró hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+48/A. § (1) Ha az eljáró hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-éig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(2) Az (1) bekezdésben meghatározott esetben a 21. § (4) bekezdésének 2016. december 31-én hatályos rendelkezését azzal az eltéréssel kell alkalmazni, hogy a 21. § (1) bekezdésének d) és i) pontjában meghatározott szabályszegés miatt hozott határozat kézbesítésének határideje az előírás megszegését követő 150 nap.
 
 ### Az Európai Unió jogának való megfelelés
 
