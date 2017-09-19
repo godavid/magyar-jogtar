@@ -19,7 +19,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 1. Engedély-nyilvántartás: a járművezető és a járművezetésre jogosító okmány adatait, továbbá a járművezető forgalomban való részvételével összefüggő egyes jogosultságok és kötelezettségek fennállását igazoló adatokat tartalmazó elektronikus nyilvántartás.
 - 2. Járműnyilvántartás: a járműtulajdonos (üzembentartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány) tartalmazó elektronikus nyilvántartás.
 - 3. Okmánytár: a nyilvántartás alapiratainak, a nyilvántartásban szereplő adatok változását igazoló okmányok, a cserélt, leadott és a visszavont okmányok nyilvántartása.
-- 4.
+- 4. Kerékpárszállító eszköz: minden olyan, a járműre ideiglenes jelleggel felszerelhető kerékpár vagy más dolog szállítására alkalmas tartószerkezet, amely részben vagy egészben kitakarja a jármű hatósági jelzését vagy világító, fényjelző berendezését.
 - 5. Járműazonosító adat: a jármű hatósági jelzése (rendszám) és alvázszáma.
 - 6. Járműokmány: a jármű tulajdonjogát, forgalomban tarthatóságát igazoló okmányok.
 - 7. Egyedi adatszolgáltatás: egy személyre (jogi személyre és jogi személyiséggel nem rendelkező szervezetre), egy vezetői engedélyre, egy, a mozgásában korlátozott személy parkolási igazolványára (a továbbiakban: parkolási igazolvány), egy járműre, egy járműokmányra vonatkozó adat közlése.
@@ -31,7 +31,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
 - 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
 - 15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági elektronikus nyilvántartás.
-- 16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.
+- 16. Útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet, valamint a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
@@ -92,7 +92,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 - d) az okmánytárból;
 - e) a parkolási igazolvány nyilvántartásból;
 - f) az előzetes eredetiségvizsgálati nyilvántartásból;
-- g) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásából.
+- g) az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásából.
 
 8. § (1) Az engedély-nyilvántartás tartalmazza
 
@@ -207,14 +207,14 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (5) Az előzetes eredetiségvizsgálati nyilvántartás az (1) bekezdés b)–g) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-9/C. § (1) Az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása tartalmazza
+9/C. § (1) Az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása tartalmazza
 
 - a) a jármű forgalmi rendszámát,
-- b) a jármű azonosító és műszaki adatait,
-- c) a díjmentes használat jogcímének megjelölését, továbbá
-- d) a díjmentes használati jogosultság kezdőidőpontját és annak időtartamát.
+- b) a jármű azonosító- és műszaki adatait,
+- c) a díjmentes használat vagy közútkezelői hozzájárulás beszerzése alóli mentesség jogcímének megjelölését, továbbá
+- d) a díjmentes használati, illetve közútkezelői hozzájárulás nélküli közlekedési jogosultság kezdőidőpontját és annak időtartamát.
 
-(2) A nyilvántartó az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára való jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett gépjármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdés szerinti adataival.
+(2) A nyilvántartó az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára való, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel történő közlekedési jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett jármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdése szerinti adatokkal.
 
 10. § A nyilvántartó a nyilvántartási eljárásban, az érintett személy és a hatóság kapcsolattartása céljából kezeli a nyilvántartásban szereplő személyek személyi azonosítóját, amelyet az érintett személy az eljárás során köteles közölni a hatósággal. A nyilvántartó a személyi azonosítót csak belső azonosítóként használhatja.
 
@@ -257,7 +257,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
   - ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
   - ed) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről;
 - f) a biztosító a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
-- g) a díjmentes úthasználatra jogosult az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatairól, valamint – a változástól számított 30 napon belül – azok változásáról.
+- g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
@@ -274,7 +274,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - c) a 9/A. § (1) bekezdésében megjelölt adatokat a nyilvántartásba vételt követő tíz évig;
 - d) a 8/A. §-ban megjelölt adatokat a parkolási igazolványra való jogosultság megszűnésétől számított öt évig;
 - e) a 9/B. § (1) bekezdésében megjelölt adatokat a jármű forgalomból történő végleges kivonásától számított öt évig;
-- f) a 9/C. §-ban megjelölt adatokat az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára való jogosultság megszűnését követő 2 évig.
+- f) a 9/C. §-ban megjelölt adatokat az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre való jogosultság megszűnését követő 2 évig.
 
 (2) Az okmánytár iratait a nyilvántartó az (1) bekezdésben megjelölt határidőt követő öt évig kezeli.
 
