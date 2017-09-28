@@ -216,7 +216,7 @@ történő jogtalan behatolás, vagy
 
 26. § (1) A büntethetőség – a (2)–(3) bekezdésben meghatározottak kivételével, illetve az egyes bűncselekmények elévülésének kizárásáról szóló törvény eltérő rendelkezése hiányában – elévül a büntetési tétel felső határának megfelelő idő, de legalább öt év elteltével.
 
-(2)
+(2) A XXVII. Fejezetben meghatározott bűncselekmények büntethetősége tizenkét év elteltével évül el.
 
 (3) Nem évül el a büntethetősége
 
