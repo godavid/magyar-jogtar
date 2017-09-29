@@ -65,7 +65,7 @@ jogszabályban meghatározott módon biztosítja.
 
 - a) az önkormányzat tájékoztatást ad és szakmai konzultációt biztosít a településképi követelményekről, ennek keretében javaslatot tehet a településképi követelmények érvényesítésének módjára,
 - b) az önkormányzat polgármestere (főpolgármester) az építésügyi engedélyezési eljárást megelőzően véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez (a továbbiakban: településképi véleményezési eljárás),
-- c) az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, reklámelhelyezések és rendeltetésmódosítások tekintetében (a továbbiakban: településképi bejelentési eljárás),
+- c) az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, valamint a rendeltetésmódosítások tekintetében, továbbá településképi bejelentési eljárást folytat le a reklámok és reklámhordozók elhelyezése tekintetében,
 - d) az önkormányzat polgármestere (főpolgármester) településképi kötelezést adhat ki és bírságot szabhat ki, ide nem értve a reklámhordozók és reklámok jogellenes elhelyezésével kapcsolatos, valamint a településképi bírságot.
 
 (3) A (2) bekezdés b)–d) pontjában szereplő településkép-érvényesítési eszközök alkalmazásának általános szabályait kormányrendelet, részletes szabályait az egyes önkormányzatok településképi rendelete tartalmazza.
@@ -83,7 +83,12 @@ jogszabályban meghatározott módon biztosítja.
 - a) a településképi követelmények érvényesítése,
 - a) az Étv. illeszkedési szabályai érvényesülésének elősegítése.
 
-10. § (1) Az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le – a 8. § (3) bekezdése szerinti kormányrendelet keretei között, településképi rendeletben meghatározott esetekben és módon – hatósági engedélyhez vagy az Étv. 33/A. § szerinti egyszerű bejelentéshez nem kötött építési tevékenységek, reklámelhelyezések és rendeltetésmódosítások tekintetében.
+10. § (1) Az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást
+
+- a) folytathat le – a 8. § (3) bekezdése szerinti kormányrendelet keretei között, településképi rendeletben meghatározott esetekben és módon – hatósági engedélyhez és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött építési tevékenységek és a rendeltetésmódosítások,
+- b) folytat le a reklámok és reklámhordozók elhelyezése
+
+tekintetében.
 
 (2) A településképi bejelentési eljárást az ügyfél bejelentés formájában a polgármesternél (főpolgármesternél) kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester (főpolgármester) a tevékenység végzését a bejelentést követő 15 napon belül nem tiltja meg.
 
@@ -209,17 +214,26 @@ szabályokat.
 
 (4) Felhatalmazást kap az önkormányzat, hogy a széleskörű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapítsa meg a településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítéséhez, módosításához a lakosság, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (partnerek) történő (partnerségi) egyeztetés részletes szabályait.
 
+(5) Felhatalmazást kap az önkormányzat településképi rendelet hiányában, a reklámok, reklámhordozók és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról és a településképi bejelentési eljárásról szóló önkormányzati rendeletnek – a településkép védelméről szóló 2016. évi LXXIV. törvény módosításáról szóló 2016. évi CLXXIV. törvénnyel (a továbbiakban: Módtv.) és a végrehajtására kiadott jogszabályokkal való összhang biztosítása érdekében történő – megalkotására és módosítására.
+
 13. § Ez a törvény a kihirdetését követő harmincadik napon lép hatályba.
 
 14. § (1) A településképi rendelet hatálybalépésével egyidejűleg az egyéb önkormányzati rendeletben szereplő e törvény szerinti településképi követelményeket, településképi önkormányzati támogatási és ösztönző rendszert, valamint az önkormányzati településkép-érvényesítési eszközöket e törvény erejénél fogva nem lehet alkalmazni.
 
-(2) A helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat, illetve a fővárosi önkormányzat által megállapított építési szabályzat – településképi követelményeit, valamint az építészeti örökség helyi védelméről szóló, a reklámok, reklámhordozók és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról szóló, és a településképi véleményezési, illetve a településképi bejelentési eljárás sajátos jogintézményekről szóló önkormányzati rendeletet – az (1) és a (2a) bekezdésben foglaltak kivételével – 2017. szeptember 30-ig lehet alkalmazni.
+(2) A helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat, illetve a fővárosi önkormányzat által megállapított építési szabályzat – településképi követelményeit, valamint az építészeti örökség helyi védelméről szóló, a reklámok, reklámhordozók és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról szóló, és a településképi véleményezési, illetve a településképi bejelentési eljárás sajátos jogintézményekről szóló önkormányzati rendeletet – az (1), a (2a) és a (2b) bekezdésben foglaltak kivételével – 2017. december 31-ig lehet alkalmazni.
 
 (2a) A településképi rendelet hatálybalépéséig e törvény erejénél fogva nem lehet alkalmazni a helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat, illetve a Fővárosi Önkormányzat által megállapított építési szabályzat – vagy egyéb önkormányzati rendelet azon rendelkezését, amely kifejezetten tiltja, vagy lehetetlenné teszi a nagy sebességű elektronikus hírközlő hálózatok kiépítése érdekében már meglévő légvezetékes vagy meglévő szabadvezetékes fizikai infrastruktúra elektronikus hírközlésről szóló törvény szerinti felhasználását.
 
+(2b) 2017. december 31-ét követően településképi rendelet hiányában
+
+- a) a helyi építési szabályzat vagy az építészeti örökség helyi védelméről szóló önkormányzati rendelet helyi építészeti örökség védetté nyilvánítását és védettség megszüntetését megállapító előírásait
+- b) a reklámok, reklámhordozók és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról szóló, valamint a településképi bejelentési eljárásról szóló önkormányzati rendelet reklámok és reklámhordozók elhelyezésére vonatkozó előírásait – a Módtv. rendelkezéseivel és a végrehajtására kiadott jogszabályokkal való összhang biztosítása érdekében –
+
+2018. december 31-ig lehet alkalmazni.
+
 (3) E törvény hatálybalépésétől új településképi követelményt csak a településképi rendeletben lehet meghatározni.
 
-15. § (1) A településkép védelméről szóló 2016. évi LXXIV. törvény módosításáról szóló 2016. évi CLXXIV. törvény (a továbbiakban: Módtv.) hatálybalépését követően új reklámhordozó elhelyezésére a Módtv. és a végrehajtására kiadott jogszabályok, továbbá a 2. § (2a) bekezdés szerinti jogszabályok rendelkezéseivel összhangban kerülhet sor.
+15. § (1) A Módtv. hatálybalépését követően új reklámhordozó elhelyezésére a Módtv. és a végrehajtására kiadott jogszabályok, továbbá a 2. § (2a) bekezdés szerinti jogszabályok rendelkezéseivel összhangban kerülhet sor.
 
 (2) E törvénynek a Módtv. által megállapított rendelkezéseit a Módtv. és a végrehajtására kiadott kormányrendelet hatálybalépését követően indult eljárásokban kell alkalmazni.
 
@@ -233,7 +247,9 @@ szabályokat.
 
 (2) Ha a 11/G. § (2) bekezdése alapján listaár közzétételére még nem került sor, a médiahirdetésifelület-értékesítő a szerződés megkötését megelőzően a hatóság részére bejelentett és a hatóság által a honlapján közzétett listaár alkalmazásával köthet szerződést.
 
-15/A. § (1) E törvénynek a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezéseit a Módtv.2. hatálybalépését követően indult eljárásokban kell alkalmazni.
+15/A. §
+
+15/B. § (1) E törvénynek a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel (a továbbiakban: Módtv.2.) megállapított rendelkezéseit a Módtv.2. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (2) 2020. december 31. napján megszűnik valamennyi, a Módtv.2. hatálybalépését megelőzően létrejött olyan, határozatlan vagy 2020. december 31. napjánál hosszabb ideig tartó, határozott időtartamra kötött, közterület reklámcélú hasznosítására és annak ellenőrzésére irányuló, valamely helyi önkormányzattal kötött reklám rendszergazdai szerződés, amely nem felel meg e törvény – Módtv. és Módtv.2. által megállapított – rendelkezéseinek, valamint a felhatalmazása alapján megalkotott kormányrendelet és településképi rendelet rendelkezéseinek. A szerződés megszűnésével megszűnik valamennyi, az ilyen szerződésen alapuló reklámhordozó igénybevételére vonatkozó jogosultság.
 
@@ -241,7 +257,10 @@ szabályokat.
 
 16. § (1) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követő 90 napon belül felülvizsgálja a Módtv. hatálybalépésekor fennálló, a település közterületének reklámcélú hasznosítására vonatkozó szerződéseit és kezdeményezi azoknak a Módtv. által megállapított és a végrehajtására kiadott kormányrendelet rendelkezéseknek megfelelő módosítását vagy új szerződések megkötését, legkésőbb a 15. § (3) bekezdése szerinti hatállyal.
 
-(2) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követően – legkésőbb 2017. október 1. napjáig – e törvénynek a Módtv. által megállapított szabályaival és a végrehajtására kiadott kormányrendelettel összhangban megalkotja vagy módosítja a településképi rendeletét.
+(2) A helyi önkormányzat képviselő-testülete az e törvény felhatalmazása alapján kiadott – a Módtv. rendelkezéseit végrehajtó – kormányrendelet hatálybalépését követően
+
+- a) településképi rendelet hiányában legkésőbb 2017. október 1. napjáig e törvénynek a Módtv. által megállapított szabályaival és a végrehajtására kiadott kormányrendelettel összhangban megalkotja vagy módosítja a 12. § (5) bekezdés szerinti, a reklámok, reklámhordozók és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról és a településképi bejelentési eljárásról szóló önkormányzati rendeletét,
+- b) legkésőbb 2017. december 31. napjáig e törvénynek a Módtv. által megállapított szabályaival és a végrehajtására kiadott kormányrendelettel összhangban megalkotja vagy módosítja a településképi rendeletét.
 
 (3) Ha az (1) bekezdés szerinti szerződésmódosítás, vagy az eredeti szerződés helyébe lépő új szerződés megkötése meghiúsul, a helyi önkormányzat a szerződést – a szerződés szerinti felmondási jog gyakorlásán túlmenően – hathavi felmondási idővel felmondhatja.
 
