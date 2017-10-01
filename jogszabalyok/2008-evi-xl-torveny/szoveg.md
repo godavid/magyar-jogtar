@@ -1324,7 +1324,9 @@ földgázrendszerhez való hozzáférés
 
 (5) Az egyensúlytartásra alkalmazott szabályoknak meg kell felelniük az objektivitás, átláthatóság és megkülönböztetés-mentesség elvének.
 
-91/A. § (1) A szállítási rendszerüzemeltető vagy a szervezett földgázpiaci engedélyes kereskedési platformot működtethet a Hivatal által jóváhagyott kereskedési platform szabályzat szerint.
+91/A. § (1) Kereskedési platform a Hivatal által jóváhagyott kereskedési platform szabályzat alapján működtethető.
+
+(1a) Kereskedési platform szállítási rendszerüzemeltető általi működtetése során biztosítani kell e tevékenység jogi és számviteli szétválasztását a szállítási rendszerüzemeltető más tevékenységeitől.
 
 (2) A kereskedési platformon az ügyletek pénzügyi elszámolását törvényben meghatározott, a kereskedési platformot működtető által kiírt pályázaton nyertes központi szerződő fél vagy elszámolóházi tevékenységet végző szervezet végzi.
 
