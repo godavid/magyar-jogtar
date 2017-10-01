@@ -1059,7 +1059,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Nemzeti bejelentéssé való átalakítás
 
-76/E. § (1) Európai uniós védjegybejelentés vagy európai uniós védjegy átalakítására irányuló – az európai uniós védjegyrendelet 113. cikkének (3) bekezdése alapján megküldött – kérelem alapján a Szellemi Tulajdon Nemzeti Hivatala a VII–IX. fejezetek rendelkezéseinek megfelelő alkalmazásával – a (2)–(5) bekezdésekben meghatározott feltételekkel – megindítja a védjegy lajstromozására irányuló eljárást.
+76/E. § (1) Európai uniós védjegybejelentés vagy európai uniós védjegy átalakítására irányuló – az európai uniós védjegyrendelet 113. cikkének (5) bekezdése alapján megküldött – kérelem alapján a Szellemi Tulajdon Nemzeti Hivatala a VII–IX. fejezetek rendelkezéseinek megfelelő alkalmazásával – a (2)–(5) bekezdésekben meghatározott feltételekkel – megindítja a védjegy lajstromozására irányuló eljárást.
 
 (2) A bejelentési díjat [50. § (4) bek.] az (1) bekezdés szerinti kérelemnek a Szellemi Tulajdon Nemzeti Hivatalához történő beérkezésétől számított két hónapon belül kell megfizetni.
 
