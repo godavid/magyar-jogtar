@@ -1369,7 +1369,7 @@ rendeletben állapítsa meg.
 
 (2) A vízügyi hatóság a jogerős határozattal megkeresi az ingatlanügyi hatóságot a vízvezetési szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt. Ha a vízvezetési szolgalmi jog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
 
-(3) A vízvezetési szolgalmi jog megállapítása, vagy annak utólagos bejegyzése az ingatlannal kapcsolatban többletjogokat és -kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
+(3) A vízvezetési szolgalmi jog utólagos bejegyzése az ingatlannal kapcsolatban többletjogokat és -kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
 
 (4) A (2) bekezdés szerinti eljárás eredményeként az ingatlan-nyilvántartásból vízvezetési szolgalmi jog jogosultjaként törlésre kerülő személyt kártalanítás nem illeti meg.
 
