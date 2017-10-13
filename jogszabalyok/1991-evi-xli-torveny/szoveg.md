@@ -153,15 +153,16 @@ a közjegyzőkről
 
 17. § (1) Közjegyzővé – a (3) bekezdésben foglalt kivétellel – az nevezhető ki, aki
 
-- a) magyar állampolgár,
-- b)
-- c) az országgyűlési képviselők választásán választható,
-- d) egyetemi jogi végzettséggel rendelkezik,
-- e) a jogi szakvizsgát letette,
-- f) legalább 3 évi közjegyzőhelyettesi gyakorlatot igazol,
-- g) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
+- a) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, vagy az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy,
+- b) nem áll a közügyektől eltiltás hatálya alatt,
+- c) olyan okleveles jogász szakképzettséggel rendelkezik, amely a jogi szakvizsga előfeltételének megfelel,
+- d) a jogi szakvizsgát letette,
+- e) legalább 3 éves közjegyzőhelyettesi gyakorlatot igazol,
+- f) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
+- g) eredményes közjegyzői vizsgát tett, és
+- h) az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét igazolta.
 
-(2) Az (1) bekezdés f) pontjában említett gyakorlatnak megfelel a legalább 3 éves bírói, ügyészi, ügyvédi, jogtanácsosi vagy közjegyzői gyakorlat.
+(2) Az (1) bekezdés e) pontjában említett gyakorlatnak megfelel a legalább 3 éves bírói, ügyészi, ügyvédi, jogtanácsosi vagy közjegyzői gyakorlat.
 
 (3) Nem nevezhető ki közjegyzővé az,
 
@@ -179,11 +180,11 @@ a közjegyzőkről
 - g) aki életmódja vagy magatartása miatt a közjegyzői hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 - h) akivel szemben a 7. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti.
 
-(4)
+(4) Az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét a pályázatot meghirdető területi kamara elnöksége a pályázat elbírálása keretében vizsgálja.
 
 17/A. § (1) A közjegyzői kinevezésre pályázó a pályázat benyújtásával egyidejűleg
 
-- a) igazolja a kinevezéshez szükséges adatokat és tényeket, valamint nyilatkozik arról, hogy megfelel a 17. § (1) bekezdés g) pontjában írt feltételnek, valamint
+- a) igazolja a kinevezéshez szükséges adatokat és tényeket, valamint nyilatkozik arról, hogy megfelel a 17. § (1) bekezdés f) pontjában írt feltételnek, valamint
 - b) hatósági bizonyítvánnyal igazolja, hogy a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény vele szemben nem áll fenn, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a területi kamara elnöksége részére – annak a közjegyzői kinevezés feltételeinek vizsgálata céljából benyújtott adatigénylése alapján – továbbítsa.
 
 (2) Az (1) bekezdés b) pontjában meghatározott adatigénylés kizárólag azon adatra irányulhat, hogy a közjegyzői kinevezésre pályázó személy tekintetében a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény fennáll-e.
@@ -248,7 +249,7 @@ a közjegyzőkről
 
 (3) A miniszter a közjegyzői szolgálat megszűnését állapítja meg, ha
 
-- a) a közjegyző magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
+- a) a közjegyző a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 - b) a közjegyzővel szemben a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény következett be,
 - c) a közjegyző a 21. §-ban meghatározott esküt nem tette le, vagy
 - d) a közjegyző a kinevezését követően keletkezett összeférhetetlenséget nem szüntette meg.
@@ -278,7 +279,7 @@ a közjegyzőkről
 24. § (1) A közjegyző nem gyakorolhatja a hivatását
 
 - a) a 22. § (1) bekezdés a) és c) pontjában meghatározott esetekben, valamint ha a közjegyzői szolgálat megszűnésére azért kerül sor, mert a közjegyző betölti a megszűnési okként megjelölt kort, a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
-- b) a magyar állampolgárság elvesztésének időpontjától, vagy attól az időponttól kezdődően, amelytől az országgyűlési képviselők választásán nem választható,
+- b) attól az időponttól kezdődően, amelytől a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 - c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
 - d) az azt követő naptól kezdődően, amelyen az összeférhetetlenség megszüntetésére irányuló kötelezettségét még – a mulasztás jogkövetkezményeinek alkalmazása nélkül – teljesíthette volna és
 - e) a 21. §-ban meghatározott eskütételt megelőzően.
@@ -313,9 +314,9 @@ a közjegyzőkről
 
 26. § (1) Közjegyzőjelöltként kérelemre a területi kamara névjegyzékébe a területi kamara elnöksége azt veheti fel, aki:
 
-- a) magyar állampolgár,
+- a) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, vagy az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy,
 - b) büntetlen előéletű,
-- c) egyetemi jogi végzettséggel rendelkezik,
+- c) olyan okleveles jogász szakképzettséggel rendelkezik, amely a jogi szakvizsga előfeltételének megfelel, és
 - d) igazolja, hogy a kamara területén működő közjegyzővel közjegyzőjelölti munkakör betöltésére munkaszerződést kötött.
 
 (2) A 17. § (3) bekezdésének rendelkezéseit a közjegyzőjelölt névjegyzékbe történő felvételénél is alkalmazni kell.
@@ -368,10 +369,9 @@ a közjegyzőkről
 
 (5) A nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy akkor válhat közjegyzői iroda tagjává, ha
 
-- a) magyar állampolgár,
-- b) vele szemben nem áll fenn a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény,
-- c) választójoggal rendelkezik
-- d)
+- a) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségről szóló megállapodásban részes más államnak az állampolgára, vagy az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállású személy,
+- b) vele szemben nem áll fenn a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény, és
+- c) nem áll a közügyektől eltiltás hatálya alatt.
 
 (6) A nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személy a közjegyzői irodai tagság létesítésének engedélyezése iránti kérelem benyújtásával egyidejűleg a területi kamara elnöksége részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény vele szemben nem áll fenn, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a területi kamara elnöksége részére – annak a közjegyzői irodai tagság létesítésének engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés kizárólag azon adatra irányulhat, hogy a közjegyzői irodai tagság létesítése engedélyezését kérelmező, nem közjegyző, közjegyzőhelyettes vagy közjegyzőjelölt természetes személlyel szemben fennáll-e a 17. § (3) bekezdés a)–d) pontjában meghatározott körülmény.
 
@@ -625,7 +625,7 @@ foglalt kötelezettségek teljesítését.
 (6) A területi elnökség a közjegyzőjelöltet, illetve a közjegyzőhelyettest törli a kamarai névjegyzékből, ha
 
 - a) a közjegyzőnél fennálló munkaviszonya megszűnt,
-- b) magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
+- b) a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
 - c) a jogi képesítéshez kötött foglalkozás gyakorlásától a bíróság jogerős ítélettel eltiltotta,
 - d) vele szemben a 17. § (3) bekezdés b)–d) pontjában meghatározott körülmény fennáll,
 - e) a hivatás gyakorlására érdemtelenné vagy alkalmatlanná nyilvánították,
@@ -1163,7 +1163,7 @@ foglalt kötelezettségek teljesítését.
 
 113. § A közjegyző felel azért, hogy a közjegyzői okirat a valóságnak megfelelően tartalmazza a közjegyző jelenlétében történt tényeket.
 
-114. § (1) A közjegyzőt és a közjegyzőhelyettest az országos elnök feljogosíthatja, hogy idegen nyelven készítsen közjegyzői okiratot, ennek igazolására nyelvi jogosítványt ad ki. Az országos elnök és az alkalmazásában álló közjegyzőhelyettes nyelvi jogosítványát – az országos kamara kérelmére – az igazságügyért felelős miniszter adja ki. A nyelvi jogosítvány számának a közjegyzői okiratból ki kell tűnnie.
+114. § (1) A közjegyzőt és a közjegyzőhelyettest az országos elnök feljogosíthatja, hogy az eljárás nyelvétől eltérő nyelven (a továbbiakban: idegen nyelv) készítsen közjegyzői okiratot, ennek igazolására nyelvi jogosítványt ad ki. Az országos elnök és az alkalmazásában álló közjegyzőhelyettes nyelvi jogosítványát – az országos kamara kérelmére – az igazságügyért felelős miniszter adja ki. A nyelvi jogosítvány számának a közjegyzői okiratból ki kell tűnnie.
 
 (2) A nyelvi jogosítvánnyal rendelkező közjegyző az okiratot a felek választása szerint egy – a nyelvi jogosítványban szereplő vagy magyar – nyelven készíti el és adja ki.
 
