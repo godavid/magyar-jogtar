@@ -893,7 +893,7 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 - f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 000 forint,
 - g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
 
-(1a) A szociális szövetkezet, a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzésére irányuló eljárás illetékmentes.
+(1a) A szociális szövetkezet, a közérdekű nyugdíjas szövetkezet, a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzésére irányuló eljárás illetékmentes.
 
 (2) Ha a cégbejegyzésre irányuló kérelemben fióktelep bejegyzését is kérik, az (1) bekezdésben meghatározott illetéken kívül további illetéket nem kell fizetni.
 
@@ -1664,6 +1664,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 (5) A 26. § (1) bekezdés f) pontjának alkalmazásában vállalkozónak kell tekinteni a gazdálkodó szervezetet, illetve a vállalkozói tevékenység végzésére jogosult egyéb szervezetet.
 
 102/A. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 91. § (2) bekezdését és 80. § (1) bekezdés c) pontját 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+102/B. § E törvénynek az illetékekről szóló 1990. évi XCIII. törvény és a szövetkezetekről szóló 2006. évi X. törvény módosításáról szóló 2017. évi CXXII. törvénnyel (a továbbiakban: 2017. évi CXXII. törvény) megállapított 45. § (1a) bekezdését a 2017. évi CXXII. törvény hatálybalépésekor bejegyzett, vagy bejegyzés alatt álló közérdekű nyugdíjas szövetkezet esetében is alkalmazni kell. A közérdekű nyugdíjas szövetkezetnek a megfizetett illetéket az állami adóhatóság a cégbíróság visszatérítésről szóló végzése alapján, a végzés közlésétől számított 30 napon belül, hivatalból téríti vissza a 79. § (4) bekezdésének alkalmazásával. A végzést a cégbíróság az állami adóhatósággal elektronikus úton közli.
 
 103. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
