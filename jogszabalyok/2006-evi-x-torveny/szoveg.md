@@ -286,7 +286,9 @@ a következő törvényt alkotja:
 
 (2) A közösségi alapból nyújtott juttatás, támogatás igénylésére, az odaítélés eljárási rendjére vonatkozó rendelkezéseket az alapszabály tartalmazza.
 
-33. § Az állam a nyugdíjas szövetkezet tevékenységéhez szükséges és arányos mértékben támogatást nyújthat.
+33. § (1) Az állam a nyugdíjas szövetkezet tevékenységéhez szükséges és arányos mértékben támogatást nyújthat.
+
+(2) A nyugdíjas szövetkezet által nyújtott szolgáltatásokért szolgáltatási díjat kell fizetni.
 
 34. § A nyugdíjas szövetkezetnek a nevében viselnie kell a „közérdekű nyugdíjas szövetkezet” megnevezést.
 
@@ -338,7 +340,7 @@ a következő törvényt alkotja:
 
 (2) A törvény 104. §-a a kihirdetését követő 3. napon, 109. §-a és 113. § (2) bekezdése a kihirdetést követő hónap első napján lép hatályba.
 
-(3) Felhatalmazást kap a Kormány arra, hogy iskolaszövetkezet által nyújtott szolgáltatásokért fizetendő minimális szolgáltatási díjat rendelettel állapítsa meg.
+(3) Felhatalmazást kap a Kormány, hogy az iskolaszövetkezet és a nyugdíjas szövetkezet által nyújtott szolgáltatásokért fizetendő minimális szolgáltatási díjat rendeletben állapítsa meg.
 
 (4)
 
@@ -362,9 +364,9 @@ a következő törvényt alkotja:
 
 (4) E törvénynek az egyes törvényeknek a közérdekű nyugdíjas szövetkezetek létrehozásával összefüggő módosításáról szóló 2017. évi LXXXIX. törvény 11. §-ával megállapított 8. § (4) bekezdésében foglaltaknak az iskolaszövetkezetek 2017. november 1-ig kötelesek eleget tenni.
 
-109. § (1) E törvény 13/A. §-a a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+109. § (1) E törvény 13/A. §-a és a 33. § (2) bekezdése a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(2) A 13/A. § tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+(2) A 13/A. § és a 33. § (2) bekezdése tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
 110. §
 
