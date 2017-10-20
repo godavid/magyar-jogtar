@@ -1643,7 +1643,7 @@ pótszabadság illeti meg.
 
 (7) A pénzügyőr a (4) és (6a) bekezdésben meghatározottakon túl nem tölthet be a Hszt. 82. § (1) bekezdés b) pontjában meghatározott egyéb tisztséget sem.
 
-(8) Nem keletkeztet összeférhetetlenséget a Magyar Kormánytisztviselői Karban, a Magyar Rendvédelmi Kar NAV Tagozatában, illetve a munkavállalói érdek-képviseleti szervben betöltött tisztség.
+(8) Nem keletkeztet összeférhetetlenséget a Magyar Kormánytisztviselői és Állami Tisztviselői Karban, a Magyar Rendvédelmi Kar NAV Tagozatában, illetve a munkavállalói érdek-képviseleti szervben betöltött tisztség.
 
 33/C. § (1) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével a kormánytisztviselő, a pénzügyőr, az ügykezelő munkavégzésre irányuló további jogviszonyt [20/A. § (1) bekezdés], illetve munkavégzésre irányuló egyéb jogviszonyt [20/A. § (3) bekezdése, ideértve a (2a) bekezdés a) és c)–h) pontját is], valamint gazdasági társaságnál cégvezetői, képviseleti tevékenységet – ide nem értve a vezető tisztségviselői, illetve felügyelő bizottsági tagsági tevékenységet –, továbbá mezőgazdasági őstermelői tevékenységet csak a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, illetve folytathat.
 

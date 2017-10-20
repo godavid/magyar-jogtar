@@ -3517,7 +3517,7 @@ hivatásos állománya tagjainak és közalkalmazottainak a)–f) pont szerint e
 
 (2) Az MRK tagjai az e törvényben és az MRK Alapszabályában (a továbbiakban: Alapszabály) meghatározott módon és feltételek szerint tagozatokat hoznak létre, amelyek ellátják az Alapszabályban, valamint a 293. §-ban meghatározott szervek által átruházott feladatokat.
 
-(3) Az Alapszabály rendelkezhet területi szervek, valamint a Magyar Kormánytisztviselői Karral közös szervezetek létrehozásáról és az együttműködés rendjéről.
+(3) Az Alapszabály rendelkezhet területi szervek, valamint a Magyar Kormánytisztviselői és Állami Tisztviselői Karral közös szervezetek létrehozásáról és az együttműködés rendjéről.
 
 (4) Az MRK
 
@@ -3721,7 +3721,7 @@ hivatásos állománya tagjainak és közalkalmazottainak a)–f) pont szerint e
 
 (2) Az ágazati érdekvédelmi tanács a miniszter, az országos parancsnok, valamint az MRK képviseletében eljáró konzultatív tanács részvételével működik.
 
-(3) A konzultatív tanáccsal való együttműködésről a miniszter és az MRK együttműködési megállapodást köt. A konzultatív tanácsba a miniszter meghívhatja a Magyar Kormánytisztviselői Kar képviselőjét a rendvédelmi szervekkel és az idegenrendészeti és menekültügyi feladatokat ellátó szervvel kormányzati szolgálati jogviszonyban állók érdekeinek egyeztetése céljából.
+(3) A konzultatív tanáccsal való együttműködésről a miniszter és az MRK együttműködési megállapodást köt. A konzultatív tanácsba a miniszter meghívhatja a Magyar Kormánytisztviselői és Állami Tisztviselői Kar képviselőjét a rendvédelmi szervekkel és az idegenrendészeti és menekültügyi feladatokat ellátó szervvel kormányzati szolgálati jogviszonyban állók érdekeinek egyeztetése céljából.
 
 (4) Az ágazati érdekvédelmi tanácsot a (3) bekezdés szerinti megállapodásban meghatározott rendben és időközönként kell összehívni.
 

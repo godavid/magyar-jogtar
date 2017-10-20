@@ -14,7 +14,7 @@ Az állampolgárokhoz közeli, hatékony és költségtakarékos közigazgatás 
 
 2. § (1) Az állami szolgálati jogviszony az állam, valamint az állam nevében foglalkoztatott állami tisztviselő között a köz szolgálatára létesített foglalkoztatásra irányuló jogviszony, amely alapján a munkavégzéssel szükségszerűen együtt járó kötelezettségeken és jogosultságokon túlmenően mindkét felet többletkötelezettségek terhelik és többletjogosultságok illetik meg.
 
-(2) Az állami szolgálati jogviszony alapján az állami tisztviselő a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti Magyar Kormánytisztviselői Kar tagjává válik.
+(2) Az állami szolgálati jogviszony alapján az állami tisztviselő a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) szerinti Magyar Kormánytisztviselői és Állami Tisztviselői Kar tagjává válik.
 
 #### 3. Az állami szolgálati jogviszony és a kormányzati szolgálati jogviszony elhatárolása
 
@@ -44,7 +44,7 @@ szabható ki.
 
 (5) Az állami tisztviselő a (4) bekezdésben meghatározott büntetésnél két évig áll a fegyelmi büntetés hatálya alatt.
 
-(6) Nem kell alkalmazni az állami szolgálati jogviszonyra a Kttv. 37. § (1) bekezdését, 43. § (1) és (2) bekezdését, 48. §-át, 63. § (2) bekezdés a) és e) pontját, 64. §-át, 69. § (1) és (2) bekezdését, 93. § (2) bekezdését,101. § (1)–(5) bekezdését, 116–117. §-át, 118. § (1), (2) és (7)–(12) bekezdését, 119–123. §-át, 126–128. §-át, 129. § (2) és (3) bekezdését, 130–139. §-át, 140. § (4)–(6) bekezdését, 141–143. §-át, 150. § (1) és (2) bekezdését, 151. §-át, 152. § (1)–(3) bekezdését, 185–188. §-át, VII–VII/A. Fejezetét és Negyedik Részét.
+(6) Nem kell alkalmazni az állami szolgálati jogviszonyra a Kttv. 37. § (1) bekezdését, 43. § (1) és (2) bekezdését, 48. §-át, 63. § (2) bekezdés a) és e) pontját, 64. §-át, 69. § (1) és (2) bekezdését, 93. § (2) bekezdését,101. § (1)–(5) bekezdését, 116–117. §-át, 118. § (1), (2) és (7)–(12) bekezdését, 119–123. §-át, 126–128. §-át, 129. § (2) és (3) bekezdését, 130–139. §-át, 140. § (4)–(6) bekezdését, 141–143. §-át, 150. § (1) és (2) bekezdését, 151. §-át, 152. § (1)–(3) bekezdését, 185–188. §-át, 211. §-át, VII–VII/A. Fejezetét és Negyedik Részét.
 
 (7) Az érettségi végzettségű állami tisztviselőre – az állami ügykezelő kivételével – a Kttv. közigazgatási alapvizsgára vonatkozó 118. § (3)–(6) bekezdését alkalmazni kell.
 
@@ -205,7 +205,7 @@ lehet gyakorolni.
 
 11. § (1) Az állami tisztviselő a Kttv. 80. §-a szerint köteles a központilag vagy a munkáltató által előírt képzésben, továbbképzésben vagy átképzésben – ideértve a közigazgatási vezetőképzést is – részt venni.
 
-(2) A vezetői munkakörbe kinevezett állami tisztviselőnek a vezetői munkakörbe történő kinevezésétől számított öt éven belül kormányzati tanulmányok szakirányú továbbképzés során kormányzati tanulmányok szakirányú szakképzettséget kell szereznie.
+(2) Vezetői kinevezést csak felsőfokú iskolai végzettségű állami tisztviselő kaphat. A vezetői munkakörbe kinevezett állami tisztviselőnek a vezetői munkakörbe történő kinevezésétől számított öt éven belül kormányzati tanulmányok szakirányú továbbképzés során kormányzati tanulmányok szakirányú szakképzettséget kell szereznie.
 
 (3) Ha a vezetői munkakört betöltő állami tisztviselő a (2) bekezdés szerinti szakképzettség megszerzését a megjelölt határidőn belül számára felróható okból elmulasztja, a határidő leteltét követő nappal nem vezetői munkakörbe kell helyezni.
 
@@ -280,7 +280,7 @@ feltételeket teljesítette.
 
 15. § (1) A munkáltatói jogkör gyakorlója az állami tisztviselőt teljesítménye, továbbá a (3) bekezdésben foglaltak alapján a tárgyévre vonatkozóan, december 31. napjáig terjedő időszakra az általános ügyintézői osztály helyett a kiemelt ügyintézői osztály állami szakértő, állami szakértő tanácsos, vagy állami szakértő főtanácsos előmeneteli fokozatába sorolhatja be, ha a megállapított személyi juttatások előirányzatán belül ennek fedezete rendelkezésre áll.
 
-(2) A kiemelt ügyintézői osztályba sorolásról a munkáltatói jogkör gyakorlója a kinevezéskor, illetve ezt követően minden év január 31. napjáig dönthet. A kiemelt ügyintézői osztályba sorolt állami tisztviselő a tárgyévben egy alkalommal a kiemelt ügyintézői osztályba sorolástól számított hat hónapot követően – teljesítményértékelés alapján – általános ügyintézői osztályba visszasorolható. Kiemelt ügyintézői osztályba az érettségi végzettségű és a felsőfokú végzettséggel rendelkező állami tisztviselő is besorolható.
+(2) A kiemelt ügyintézői osztályba sorolásról a munkáltatói jogkör gyakorlója a kinevezéskor, a vezetői munkakörből nem vezetői munkakörbe történő helyezéskor, illetve minden év január 31. napjáig dönthet. A kiemelt ügyintézői osztályba sorolt állami tisztviselő a tárgyévben egy alkalommal a kiemelt ügyintézői osztályba sorolástól számított hat hónapot követően – teljesítményértékelés alapján – általános ügyintézői osztályba visszasorolható. Kiemelt ügyintézői osztályba az érettségi végzettségű és a felsőfokú végzettséggel rendelkező állami tisztviselő is besorolható.
 
 (3) A munkáltatói jogkör gyakorlója az állami tisztviselő (1) bekezdés szerinti előmeneteli fokozatba történő sorolásánál a teljesítményértékelésen és minősítésen túl az alábbi szempontokat veszi figyelembe:
 
@@ -571,7 +571,7 @@ munkanapra emelkedik.
 
 (13) Mentesül a 14. § szerinti továbbképzési kötelezettség alól a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hivatalánál foglalkoztatott állami tisztviselő, ha e törvény hatálybalépésének napjáig közigazgatási szakvizsgára jelentkezett és azt e törvény hatálybalépését követő hat hónapon belül teljesíti.
 
-34. § Akinek a kormányzati szolgálati jogviszonya e törvény hatálybalépésének napján állami szolgálati jogviszonnyá alakul, és a jogviszonyának átalakulását megelőző napon a Magyar Kormánytisztviselői Kar tagja volt, annak a Magyar Kormánytisztviselői Karral fennálló tagsági viszonyát folyamatosnak kell tekinteni.
+34. § Akinek a kormányzati szolgálati jogviszonya e törvény hatálybalépésének napján állami szolgálati jogviszonnyá alakul, és a jogviszonyának átalakulását megelőző napon a Magyar Kormánytisztviselői Kar tagja volt, annak a Magyar Kormánytisztviselői és Állami Tisztviselői Karral fennálló tagsági viszonyát folyamatosnak kell tekinteni.
 
 35. § (1) Az 5. § (2) és (3) bekezdésében meghatározott feltételek csak az e törvény hatálybalépését követően létesített állami szolgálati jogviszony tekintetében írhatóak elő.
 
