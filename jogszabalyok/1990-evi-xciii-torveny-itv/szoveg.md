@@ -865,7 +865,7 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 
 44. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 3. § (1) bekezdés a) pontjában meghatározott és jogi személyiséggel rendelkező gazdálkodó szervezetek felszámolási eljárásának illetéke 80 000 forint, csődeljárásának illetéke 50 000 forint, jogi személyiséggel nem rendelkező gazdálkodó szervezet esetében pedig a felszámolási eljárás illetéke 30 000 forint, a csődeljárás illetéke 30 000 forint.
 
-(2)
+(2) A fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/848 EU rendelet) III. fejezete alapján Magyarországon indított másodlagos fizetésképtelenségi eljárások kezdeményezésének illetéke, valamint a 2015/848 EU rendelet alapján belföldi bíróság előtt kezdeményezett egyéb polgári nemperes eljárások illetéke 50 000 forint.
 
 ### Természetes személyek bírósági adósságrendezési eljárásainak illetéke
 
@@ -929,7 +929,7 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 
 (2) A közjegyzőnek a hagyatéki és egyéb közjegyzői eljárásban hozott határozata elleni fellebbezés illetéke 10 000 forint.
 
-(3) A cégbírósági, valamint a csőd- és felszámolási eljárásban, az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 7000 forint.
+(3) A cégbírósági, valamint a csőd- és felszámolási eljárásban – ideértve a 2015/848 EU rendeletben meghatározott, magyar bíróság előtt kezdeményezett nemperes eljárásokat is – az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 7000 forint.
 
 (4) A természetes személyek bírósági adósságrendezési eljárásában az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 10 000 forint.
 
@@ -947,7 +947,7 @@ az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyons
 
 (3) A csatlakozó felülvizsgálati kérelem illetéke az (1) bekezdésben meghatározott illeték fele, de legalább 20 000 forint, legfeljebb 1 250 000 forint.
 
-(4) A cégbírósági, valamint a csőd- és felszámolási eljárásban hozott végzés elleni felülvizsgálat illetéke 30 000 forint.
+(4) A cégbírósági, valamint a csőd- és felszámolási eljárásban – ideértve a 2015/848 EU rendeletben meghatározott, magyar bíróság előtt kezdeményezett nemperes eljárásokat is – hozott végzés elleni felülvizsgálat illetéke 30 000 forint.
 
 (5) A természetes személyek adósságrendezési eljárásaiban hozott végzés elleni felülvizsgálat, illetve perújítás illetéke 30 000 forint.
 
