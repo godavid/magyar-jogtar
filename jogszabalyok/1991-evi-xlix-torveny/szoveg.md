@@ -28,7 +28,9 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 
 3. § (1) E törvény alkalmazásában:
 
-- a) gazdálkodó szervezet: a gazdasági társaság, a közhasznú társaság, az ügyvédi iroda, a közjegyzői iroda, a szabadalmi ügyvivői iroda, a végrehajtói iroda, az európai részvénytársaság, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat (a víziközmű-társulat kivételével), az erdőbirtokossági társulat, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyesülés, ideértve az európai gazdasági egyesülést is, az európai területi társulás, a egyesület, alapítvány, valamint mindazon jogi személyek vagy jogi személyiséggel nem rendelkező gazdasági társaságok, amelyek fő érdekeltségeinek központja a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján az Európai Unió területén található;
+- a) gazdálkodó szervezet:
+  - aa) a magyarországi székhellyel rendelkező gazdasági társaság, közhasznú társaság, ügyvédi iroda, közjegyzői iroda, szabadalmi ügyvivői iroda, végrehajtói iroda, európai részvénytársaság, szövetkezet, lakásszövetkezet, európai szövetkezet, vízgazdálkodási társulat (a víziközmű-társulat kivételével), erdőbirtokossági társulat, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, egyéni cég, egyesülés – ideértve az európai gazdasági egyesülést is –, európai területi társulás, egyesület, alapítvány, valamint
+  - ab) mindazon egyéb jogi személy vagy jogi személyiséggel nem rendelkező, a személyes joga alapján gazdasági társaság vagy más, gazdasági tevékenységet folytató szervezet, amelynek a fő érdekeltségeinek központja – a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/848 EU rendelet) alapján – az Európai Unió területén található, és az ellene indítható fizetésképtelenségi eljárás a 2015/848 EU rendelet hatálya alá esik;
 - b) adós: az a gazdálkodó szervezet, amely tartozását (tartozásait) az esedékességkor nem tudta vagy előreláthatóan nem tudja kiegyenlíteni;
 - c) hitelező:
   - ca) a csődeljárásban és a felszámolási eljárásban – a felszámolás kezdő időpontjáig – az, akinek az adóssal szemben jogerős és végrehajtható bírósági, hatósági határozaton vagy más végrehajtható okiraton alapuló, nem vitatott vagy elismert, lejárt pénz- vagy pénzben kifejezett vagyoni követelése van,
@@ -36,14 +38,28 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
   - cc) csődeljárásban a ca) és a cb) pontban foglaltakon kívül az is, akinek az adóssal szemben olyan jövőben lejáró, pénz- vagy pénzben kifejezett, létező vagyoni követelése van, amely szállítási, vállalkozási, szolgáltatási és egyéb szerződésből jogszerűen ered, és amely a hitelező által már teljesített termékértékesítéshez, szolgáltatás teljesítéséhez, hitelviszonyt megtestesítő értékpapír-, tulajdonosi részesedést jelentő befektetés értékesítéséhez, kölcsönnyújtáshoz vagy előlegfizetéshez kapcsolódik, és ezt a hitelezői követelést a vagyonfelügyelő nyilvántartásba vette;
   - cd) a felszámolás kezdő időpontja után hitelező mindenki, akinek az adóssal szemben pénzkövetelése vagy pénzben kifejezett vagyoni követelése van, és azt a felszámoló nyilvántartásba vette.
 - d) gazdálkodó szervezet vezetője: cég esetében a bejegyzett vezető tisztségviselő (képviselő), ügyvédi irodánál, szabadalmi irodánál az iroda vezetője, önkéntes kölcsönös biztosító pénztárnál az ügyvezető vagy az igazgatótanács tagja, magánnyugdíjpénztárnál a képviselő, alapítványnál és egyesületnél a bejegyzett vezető tisztségviselő, az Európai Unió más tagállamában bejegyzett gazdálkodó szervezet esetében a magyarországi nyilvántartásba bejegyzett, jognyilatkozat tételére jogosult személy, ilyen hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevében a hatóságok előtt vagy a polgári jogi kapcsolatokban eljáró személy;
-- e) vagyon: mindaz, amit a számvitelről szóló törvény befektetett eszköznek vagy forgóeszköznek minősít;
+- e) gazdálkodó szervezet vagyona: amit a gazdálkodó szervezetre vonatkozó számviteli jogszabály befektetett eszköznek vagy forgóeszköznek minősít;
 - f) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 - g) függő követelés: bankgaranciából, biztosítói garanciából vagy biztosító által kiállított, készfizető kezességvállalást tartalmazó kötelezvényből származó olyan követelés, amelynek beállta és esedékessége még bizonytalan;
 - h) közeli hozzátartozó: a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerinti közeli hozzátartozó és az élettárs;
 - i) többségi befolyás: a Ptk. 8:2. §-a szerinti befolyás.
 - j) föld: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott mező- és erdőgazdasági hasznosítású föld;
 - k) tanya: a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott tanya;
-- l) termőföld: a termőföld védelméről szóló törvényben meghatározott termőföld.
+- l) termőföld: a termőföld védelméről szóló törvényben meghatározott termőföld;
+- m) fizetésképtelenségi szakértő:
+  - ma) a vagyonfelügyelő,
+  - mb) a felszámoló (ideértve az ideiglenes vagyonfelügyelői, illetve a rendkívüli vagyonfelügyelői jogkörrel kirendelt felszámolót is), valamint
+  - mc) a 2015/848 EU rendelet 2. cikk 5. pontjában és B mellékletében felsorolt olyan külföldi fizetésképtelenségi szakértő, aki ezt a megbízatását a külföldi bíróság vagy más – a másik tagállam joga szerint feljogosított személy – által történő kijelölés hiteles másolatával és annak szakfordító által elkészített magyar nyelvű fordításával igazolja;
+- n) fizetésképtelenségi főeljárás: a 2015/848 EU rendelet 3. cikk (1) bekezdése szerinti fizetésképtelenségi eljárás;
+- o) fő érdekeltségek központja: az adós gazdálkodó szervezetre a 2015/848 EU rendelet 3. cikk (1) bekezdésében meghatározott fogalom;
+- p) külföldi bíróság: a 2015/848 EU rendelet 2. cikk 6. pontjában felsorolt igazságügyi feladatokkal felruházott szerv;
+- q) külföldi hitelező: a 2015/848 EU rendelet 2. cikk 12. pontjában meghatározott személy vagy szervezet;
+- r) magyarországi helyi hitelező: a 2015/848 EU rendelet 2. cikk 11. pontjában meghatározott olyan hitelező, akinek a követelése a másik EU tagállamban fő érdekeltségek központjával rendelkező gazdálkodó szervezet magyarországi telephelyének működéséből vagy azzal összefüggésben keletkezett, és a hitelező fő érdekeltségeinek központja Magyarországon van;
+- s) magyarországi telephely: a 2015/848 EU rendelet 2. cikk 10. pontjában meghatározott magyarországi működési hely, azzal, hogy a működési hely megállapításához szükséges körülményeket az adózás rendjéről szóló törvény, a társasági adóról és az osztalékadóról szóló törvény, az általános forgalmi adóról szóló törvény, illetve az adózási tárgyú nemzetközi egyezmények szerinti telephelyként történő minősítés is megalapozhatja;
+- t) területi fizetésképtelenségi eljárás:
+  - ta) a 2015/848 EU rendelet 3. cikk (4) bekezdése szerinti területi fizetésképtelenségi eljárás, és
+  - tb) a 2015/848 EU rendelet 3. cikk (3) bekezdése szerinti területi másodlagos fizetésképtelenségi eljárás;
+- u) leányvállalat: ha e törvény másképpen nem rendelkezik, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74. §-a alapján létrehozott jogi személy.
 
 (2)
 
@@ -115,7 +131,7 @@ nem gyakorolhatja, követeléseinek a zálogtárgyból (az óvadék tárgyából
 
 (10) Ha a csődeljárásban, illetve a felszámolási eljárásban egyetlen hitelező vesz részt, a hitelezőt a hitelezői képviselő jogai is megilletik.
 
-6. § (1) A csődeljárás és a felszámolási eljárás az adós – eljárás lefolytatására irányuló kérelem benyújtásának napján bejegyzett, illetve az (1a) bekezdésben meghatározott – székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) hatáskörébe és illetékességébe tartozó nemperes eljárás. A más bíróságoknál benyújtott csődeljárások iránti kérelmeket hivatalból el kell utasítani vagy a már megindult eljárásokat meg kell szüntetni, a felszámolási eljárás iránti kérelmeket pedig az illetékes bírósághoz kell áttenni.
+6. § (1) A csődeljárás és a felszámolási eljárás az adós – eljárás lefolytatására irányuló kérelem benyújtásának napján bejegyzett, illetve az (1a) bekezdésben meghatározott – magyarországi székhelye szerint illetékes törvényszék (a továbbiakban: bíróság) hatáskörébe és kizárólagos illetékességébe tartozó nemperes eljárás. A más bíróságoknál benyújtott csődeljárások iránti kérelmeket – kivéve, ha arra a bíróságnak területi fizetésképtelenségi eljárásként a 6/H. § szerint hatásköre és illetékessége van – a bíróság hivatalból elutasítja, a már megindult eljárásokat megszünteti, a felszámolási eljárás iránti kérelmeket pedig – ideértve az ilyen eljárást a 2015/848 EU rendelet 3. cikk (3) vagy (4) bekezdése alapján kezdeményező területi fizetésképtelenségi eljárás iránti kérelmeket is – haladéktalanul az e törvény szerint hatáskörrel és illetékességgel rendelkező bírósághoz teszi át.
 
 (1a) Az adós székhelyének a korábbitól eltérő cégbíróság illetékességi területére történő áthelyezése esetén a székhelyváltozás bejegyzését követő 180 napig kizárólag a korábban bejegyzett székhely szerinti illetékes bíróság előtt kezdeményezhető csődeljárás, felszámolási eljárás. Amennyiben az adós ellen felszámolási eljárást kezdeményeztek, de a fizetésképtelenség megállapításáról és a felszámolás elrendeléséről a bíróság még nem hozott elsőfokú végzést, az adós csődeljárás iránti kérelmet csak ennél a bíróságnál nyújthat be.
 
@@ -135,18 +151,18 @@ nem gyakorolhatja, követeléseinek a zálogtárgyból (az óvadék tárgyából
 
 lakcímadataira és értesítési címére vonatkozóan térítésmentesen szolgáltatandó adatot igényelhet.
 
-(2) A Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendeletének hatálya alá tartozó és nem Magyarországon bejegyzett gazdálkodó szervezet [3. § (1) bekezdés a) pont] ellen megindított főeljárás vagy területi eljárás lefolytatására a Fővárosi Törvényszék rendelkezik kizárólagos illetékességgel.
+(2) A 2015/848 EU rendelet hatálya alá tartozó, nem Magyarországon bejegyzett gazdálkodó szervezet ellen kezdeményezett fizetésképtelenségi főeljárás megindítására és lefolytatására a Fővárosi Törvényszék rendelkezik hatáskörrel és illetékességgel.
 
 (3) Azokra az eljárási kérdésekre, amelyeket e törvény külön nem szabályoz, a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezései – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadóak azzal, hogy
 
 - a) a csődeljárásban
-  - aa) felfüggesztésnek nincs helye,
+  - aa) felfüggesztésnek – ide nem értve a 6/Q. § szerinti esetet – nincs helye,
   - ab) félbeszakadásnak és szünetelésnek nincs helye,
 - b) a felszámolási eljárásban
   - ba) nincs helye félbeszakadásnak,
   - bb) a vitatott igény elbírálására irányuló és a kifogás alapján indult eljárást kivéve nincs helye beavatkozásnak,
   - bc) az eljárás szünetelésének csak a 26. § (4) bekezdésben foglaltak esetén van helye,
-  - bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (2) bekezdése, valamint a 38/A. § szerinti esetben van helye.
+  - bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (2) bekezdése, a 6/Q. §, valamint a 38/A. § szerinti esetben van helye.
 
 (4) A csődeljárásban az adóst, a hitelezőt és a vagyonfelügyelőt, a felszámolási eljárásban az adóst, a hitelezőt és a felszámolót kell félnek tekinteni. Ha a vagyonfelügyelő vagy a felszámoló tevékenysége vagy mulasztása harmadik személy jogát, jogos érdekét is érinti, az e személy által benyújtott kifogás (51. §) elbírálása során a kifogás előterjesztője is félnek minősül.
 
@@ -175,6 +191,15 @@ lakcímadataira és értesítési címére vonatkozóan térítésmentesen szolg
 - j) a stratégiailag kiemelt jelentőségű gazdálkodó szervezetek ellen indult csődeljárásban és indított felszámolási eljárásban az a)–i) pontban foglaltakon kívül is minden olyan határozat, amely ellen külön fellebbezésnek van helye;
 - k)
 
+(8) A vagyonfelügyelő, az ideiglenes vagyonfelügyelő, a rendkívüli vagyonfelügyelő, a felszámoló, valamint
+
+- a) az adós (az adós vezető tisztségviselője), illetve
+- b) a hitelező
+
+közötti kapcsolattartás során a jognyilatkozatok megtétele írásban történik, az alakiság megsértésével tett jognyilatkozat hatálytalan.
+
+(9) Ha az iratot a vagyonfelügyelő, az ideiglenes vagyonfelügyelő, a rendkívüli vagyonfelügyelő, illetve a felszámoló postai úton küldi meg a hitelezőknek vagy az adós vezető tisztségviselőjének, azt a hivatalos iratok kézbesítésére vonatkozó általános szabályok szerint kell kézbesíteni.
+
 6/A. § (1) Ha büntetőügyben a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és erről a büntetőügyben eljáró bíróság vagy ügyész a bíróságot [6. §] értesítette vagy arról a bíróságnak hivatalos tudomása van, a felszámolás elrendelhető. Ebben az esetben – azt követően, hogy az adós gazdálkodó szervezet vezetője a 31. § szerinti kötelezettségeit teljesítette, és a hitelezői követeléseket bejelentették, továbbá akkor, ha az adós gazdálkodó szervezet vezetője a 31. § szerinti kötelezettségeit felhívás, illetve a 33. § szerinti jogkövetkezmények ellenére nem teljesítette – a felszámolási eljárást fel kell függeszteni.
 
 (2) A felfüggesztés a büntetőügyben eljáró bíróság határozatának jogerőre emelkedéséig, illetve a büntetőeljárás során alkalmazott intézkedés végrehajtásának befejezéséig tart. A felfüggesztés nem érinti a felszámoló kötelezettségeit és a 38. § (1) és (2) bekezdésben, valamint a 40. §-ban foglaltak alkalmazását, továbbá az 50. § (2) bekezdése szerinti esetekben a közbenső mérleg évenkénti elkészítésének kötelezettségét. A felfüggesztés időtartama alatt készített közbenső mérleg vagyonfelosztási javaslatot nem tartalmazhat. A felfüggesztés időtartama alatt a kirendelt felszámoló jogait és kötelezettségeit az e §-ban meghatározott keretek között gyakorolhatja. A felfüggesztés időtartama alatt is elbírálhatja a bíróság a felszámoló jogszabálysértő intézkedései vagy mulasztásai ellen benyújtott kifogásokat, és dönthet a közbenső mérleg jóváhagyása tárgyában. A jóváhagyott közbenső mérleg alapján a felszámoló részére kifizethető díj nettó összege nem haladhatja meg a 300 000 forintot.
@@ -193,38 +218,142 @@ lakcímadataira és értesítési címére vonatkozóan térítésmentesen szolg
 
 (9) Amennyiben a büntetőügyben eljáró bíróság jogerős határozatával az adós gazdálkodó szervezet teljes vagyonára vagyonelkobzást rendelt el, az adós gazdálkodó szervezetet az 57. § (1) bekezdés a) és c) pontja alapján terhelő követelések kifizetése iránt a bíróság értesítését követően az államháztartásért felelős miniszter soron kívül intézkedik. Ez a kötelezettség az elkobzott vagyon mértékéig áll fenn. A felszámoló a kifizetés és az adós iratanyagának elhelyezésének megtörténtéről a bíróságot értesíti. A bíróság a felszámoló munkadíját az eljárás időtartama, a felszámoló által elvégzett tevékenység és az eljárás munkaterhe figyelembevételével állapítja meg. A felszámoló benyújtja a felszámolási zárómérleget. A bíróság ennek alapján dönt a felszámolási eljárás befejezéséről és az adós gazdálkodó szervezet megszüntetéséről. A végzést meg kell küldeni az államot a magánjogi jogviszonyokban képviselő szervezetnek is.
 
-6/B. § (1) A Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján az Európai Unió más tagállamában megindított fizetésképtelenségi eljárás során kijelölt felszámoló kérheti, hogy a bíróság rendelje el a fizetésképtelenségi eljárást megindító határozat, illetve a felszámolót kijelölő határozat lényeges tartalmának a Cégközlönyben való közzétételét.
+### A 2015/848 EU rendelet hatálya alá tartozó határon átnyúló fizetésképtelenségi eljárásokra vonatkozó sajátos rendelkezések
+
+6/B. § (1) A 2015/848 EU rendelet alapján az Európai Unió más tagállamában megindított fizetésképtelenségi főeljárás során kijelölt külföldi fizetésképtelenségi szakértő, illetve a fizetésképtelenségi eljárásban a vagyona feletti rendelkezési jogát megőrző adós kérheti, hogy a magyar bíróság rendelje el a külföldi fizetésképtelenségi főeljárást megindító határozat, illetve a külföldi fizetésképtelenségi szakértőt kijelölő határozat lényeges tartalmának közzétételét.
 
 (2) A határozat lényeges tartalmához tartozik különösen:
 
-- a) az eljárást megindító bíróság megjelölése és címe,
-- b) az adós neve és székhelye, illetve a központi ügyvezetés helye,
-- c) annak megjelölése, hogy az eljárás főeljárás vagy területi eljárás,
-- d) a felszámoló neve és elérhetősége,
+- a) az eljárást megindító külföldi bíróság megjelölése és címe,
+- b) az adós neve és székhelye, valamint az adós fő érdekeltségeinek központja, ha a külföldi bíróság megállapította, hogy ez nem esik egybe a székhellyel,
+- c) annak megjelölése, hogy az eljárás fizetésképtelenségi főeljárás vagy területi fizetésképtelenségi eljárás, ezeken belül reorganizációs vagy felszámolási típusú eljárás,
+- d) a külföldi fizetésképtelenségi szakértő neve és elérhetősége,
 - e) a hitelezői igények bejelentésére rendelkezésre álló határidők,
-- f) a határidők tekintetében megállapított jogkövetkezmények,
-- g) a hitelezői igények elfogadására jogosult testület vagy hatóság megjelölése.
+- f) a határidők tekintetében megállapított jogkövetkezmények, és
+- g) a hitelezői igények elfogadására jogosult testület vagy hatóság megjelölése, elérhetősége.
 
-(3) A kérelemhez az eredeti okiraton vagy hiteles másolatán túl csatolni kell annak hiteles magyar fordítását is, valamint mellékelni kell a közzétételi költségtérítés megfizetésének igazolását.
+(3) A kérelemhez az eredeti okiraton vagy hiteles másolatán túl csatolni kell annak hiteles magyar fordítását is, valamint mellékelni kell a közzététel költségtérítése megfizetésének igazolását.
 
-(4) Ha az adósnak, aki ellen a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján az Európai Unió más tagállamában főeljárás indult, Magyarországon telephelye van, a főeljárásban kijelölt felszámoló köteles kérni a főeljárást megindító határozat, illetve a felszámolót kijelölő határozat lényeges tartalmának közzétételét. A felszámoló felel az ennek elmulasztásával okozott kárért.
+(4) Ha az adós ellen a 2015/848 EU rendelet alapján az Európai Unió más tagállamában fizetésképtelenségi főeljárás indult, és Magyarországon telephelye van, a főeljárásban kijelölt külföldi fizetésképtelenségi szakértő, illetve a fizetésképtelenségi eljárásban a vagyona feletti rendelkezési jogát megőrző adós köteles kérni a főeljárást megindító határozat, illetve a külföldi fizetésképtelenségi szakértőt kijelölő határozat lényeges tartalmának magyarországi közzétételét az (1)–(3) bekezdésben foglaltak szerint. A külföldi fizetésképtelenségi szakértő, illetve a fizetésképtelenségi eljárásban a vagyona feletti rendelkezési jogát megőrző adós felel a közzétételi kötelezettség késedelmével vagy elmulasztásával okozott kárért.
 
-(5) A közzétételnek tartalmaznia kell mindazt, ami a határozat lényeges tartalmának minősül.
+(5) Az (1) és (4) bekezdés szerinti közzététel a Cégközlönyben történik.
 
-6/C. § (1) Ha az adósnak, aki ellen a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján az Európai Unió más tagállamában főeljárás indult, Magyarországon ingatlan vagyona vagy egyéb, közhitelű nyilvántartásba bejegyzett vagyona vagy telephelye van, a főeljárás során kijelölt felszámoló köteles kérni, hogy a bíróság rendelje el a főeljárást megindító határozat tényének bejegyzését az ingatlan-nyilvántartásba, illetve egyéb közhitelű nyilvántartásba. A felszámoló felel az ennek elmulasztásával okozott kárért.
+(6) Ha a fizetésképtelenségi főeljárás belföldön indult, a 2015/848 EU rendelet 28. cikke szerinti közzétételről csődeljárás esetén az adós, felszámolási eljárás esetén a felszámoló intézkedik. A közzétételi kötelezettség teljesítéséről a vagyonfelügyelőt egyidejűleg tájékoztatni kell.
 
-(2) A kérelemhez az eredeti okiraton vagy hiteles másolatán túl csatolni kell annak hiteles magyar fordítását is.
+6/C. § (1) Ha az adós ellen az Európai Unió másik tagállamában a magyar bíróság határozatának meghozatalát megelőzően a 2015/848 EU rendelet alapján fizetésképtelenségi főeljárást indítottak, és azt joghatósági kifogással nem támadták meg, vagy a joghatósági kifogást a másik tagállam bírósága jogerősen elutasította, a magyar bíróság az ugyanazon adós ellen Magyarországon megindított fizetésképtelenségi főeljárást – csődeljárást vagy felszámolási eljárást – a 6/H. § szerint kizárólagos hatáskörrel és illetékességgel rendelkező Fővárosi Törvényszékhez teszi át. A Fővárosi Törvényszék az áttevő bíróság által megindított fizetésképtelenségi főeljárást a 2015/848 EU rendelet 51. cikke szerint területi másodlagos fizetésképtelenségi eljárássá alakítja át, feltéve, hogy az adós Magyarországon telephellyel rendelkezik. A Fővárosi Törvényszék a területi másodlagos fizetésképtelenségi eljárássá történő átalakításról szóló végzést haladéktalanul megküldi a fizetésképtelenségi főeljárást megindító tagállami bíróságnak és az eljárásban kirendelt külföldi fizetésképtelenségi szakértőnek. A végzésben rendelkezni kell arról, hogy a területi másodlagos fizetésképtelenségi eljárásra az e törvény II. vagy III. Fejezetének rendelkezéseit kell alkalmazni. A végzésnek a területi másodlagos fizetésképtelenségi eljárássá történő átalakítást kimondó rendelkezése ellen fellebbezésnek nincs helye.
 
-6/D. § A 6/B. és a 6/C. §-ok szerinti kérelmet a Fővárosi Törvényszékhez kell benyújtani, amely nemperes eljárásban dönt a kérelemről a beérkezéstől számított legfeljebb 30 napon belül, a 6/B. § szerinti kérelem esetében az igények bejelentésére a közzéteendő határozatban előírt határidők figyelembevételével. A határozat ellen jogorvoslatnak nincs helye.
+(2) Ha az adósnak Magyarországon nincs telephelye, az (1) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Fővárosi Törvényszék az eljárást hivatalból megszünteti, és a jogerős végzést haladéktalanul megküldi a fizetésképtelenségi főeljárást megindító külföldi bíróságnak és az eljárásban kirendelt külföldi fizetésképtelenségi szakértőnek. Az eljárás megszüntetése nem érinti az azt megelőzően az adós által a magyar jog alkalmazásával kötött jogügyletek érvényességét, illetve a harmadik személyek által jóhiszeműen szerzett jogokat és azokat a folyamatban lévő egyéb eljárásokat, amelyeket az adós indított vagy ellene indítottak.
 
-6/E. § (1) A vagyonfelügyelő, az ideiglenes vagyonfelügyelő, a rendkívüli vagyonfelügyelő, a felszámoló, valamint
+(3) Ha a 2015/848 EU rendelet 51. cikke alapján a fizetésképtelenségi főeljárás fizetésképtelenségi szakértője a Fővárosi Törvényszéktől a már megindított területi fizetésképtelenségi eljárás olyan átalakítását kérelmezi, amelyre e törvény másik fejezetének szabályait kell alkalmazni, és ennek a kérelemnek a magyar bíróság helyt ad, a végzésben egyidejűleg hivatalból rendelkezik azoknak a végzéseknek a hatályon kívül helyezéséről vagy módosításáról, amelyeket még nem hajtottak végre, de végrehajtásuk ellentétes lenne a területi másodlagos fizetésképtelenségi eljárássá alakított eljárás szabályaival.
 
-- a) az adós (az adós vezető tisztségviselője), illetve
-- b) a hitelező
+6/D. § (1) Ha az adós ellen a 2015/848 EU rendelet alapján az Európai Unió más tagállamában indult fizetésképtelenségi főeljárás, és az adósnak Magyarországon ingatlan vagyona, egyéb, közhiteles nyilvántartásba bejegyzett vagyona vagy olyan telephelye van, amelyre vonatkozóan közhiteles nyilvántartásba jog vagy tény van bejegyezve, a főeljárás során kijelölt külföldi fizetésképtelenségi szakértőnek, illetve a fizetésképtelenségi főeljárásban a vagyona feletti rendelkezési jogát megőrző adósnak – a szükséges adatok megadásával – kérnie kell, hogy a magyar bíróság rendelje el a fizetésképtelenségi főeljárást megindító határozat tényének bejegyzését az ingatlan-nyilvántartásba, illetve az egyéb közhiteles nyilvántartásba. A külföldi fizetésképtelenségi szakértő, illetve a fizetésképtelenségi eljárásban a vagyona feletti rendelkezési jogát megőrző adós felel az e bekezdésben foglaltak elmulasztásával okozott kárért.
 
-közötti kapcsolattartás során a jognyilatkozatok megtétele írásban történik.
+(2) Az (1) bekezdés szerinti kérelemhez az eredeti okiraton vagy hiteles másolatán túl csatolni kell annak hiteles magyar fordítását is.
 
-(2) Ha az iratot a vagyonfelügyelő, az ideiglenes vagyonfelügyelő, a rendkívüli vagyonfelügyelő, illetve a felszámoló postai úton küldi meg a hitelezőknek vagy az adós vezető tisztségviselőjének, azt a hivatalos iratok kézbesítésére vonatkozó általános szabályok szerint kell kézbesíteni.
+(3) Az (1) bekezdésben meghatározott nyilvántartásokba történő bejegyzéssel összefüggő illetéket, igazgatási szolgáltatási díjat a külföldi kérelmező köteles a bíróságnál előzetesen letétbe helyezni.
+
+(4) Ha a fizetésképtelenségi főeljárás belföldön indult, a 2015/848 EU rendelet 29. cikke szerinti bejegyeztetés iránt csődeljárás esetén az adós, felszámolási eljárás esetén pedig a felszámoló intézkedik. A bejegyeztetési kötelezettség teljesítéséről a vagyonfelügyelőt egyidejűleg tájékoztatni kell.
+
+6/E. §
+
+6/F. § A 6/B–6/D. §-ok szerinti kérelmet a Fővárosi Törvényszékhez kell benyújtani, amely nemperes eljárásban dönt a kérelemről a beérkezéstől számított legfeljebb 30 napon belül, a 6/B. § szerinti kérelem esetében 8 napon belül. A kérelemnek helyt adó végzés ellen jogorvoslatnak nincs helye.
+
+6/G. § (1) A csődeljárás vagy a felszámolási eljárás megindítása iránti kérelemben vagy a korábban eljáró bíróság által küldött értesítésben meg kell jelölni a magyar bíróság joghatóságát megalapozó körülményeket, és hivatkozni kell arra, hogy az eljárást fizetésképtelenségi főeljárásként vagy területi fizetésképtelenségi eljárásként kezdeményezik. Az e törvény alapján – illetve a 2015/848 EU rendelet 6. cikkére alapozva – a csődeljáráshoz vagy felszámolási eljáráshoz kapcsolódóan kezdeményezett polgári eljárásokban a keresetlevélben kell megjelölni a magyar bíróság joghatóságát megalapozó körülményeket.
+
+(2) Az (1) bekezdés szerinti kérelemhez, illetve keresetlevélhez csatolni kell azokat a dokumentumokat is, amelyekből a magyar bíróság joghatósága és annak jogalapja megállapítható.
+
+(3) A bíróság a csődeljárás, illetve a felszámolási eljárás iránti kérelmet elutasítja, illetve a már megindított eljárást hivatalból megszünteti, ha az fizetésképtelenségi főeljárás megindítására irányul, de az adós ellen az Európai Unió más tagállamában fizetésképtelenségi főeljárás már megindult és folyamatban van, és a kérelmet benyújtó fél a bíróság tájékoztatását követően sem kéri a területi másodlagos fizetésképtelenségi eljárás megindítását.
+
+6/H. § A Fővárosi Törvényszék hatáskörrel és kizárólagos illetékességgel rendelkezik a 2015/848 EU rendelet hatálya alá tartozó olyan gazdálkodó szervezetek ellen területi fizetésképtelenségi eljárásként megindításra kerülő eljárások – területi reorganizációs típusú eljárás vagy területi felszámolási típusú eljárás – megindítására, lefolytatására, illetve másik típusú területi eljárássá történő átalakítására, amelyek fő érdekeltségeinek központja az Európai Unió másik tagállamában van.
+
+6/I. § (1) A Magyarországon indult felszámolási főeljárásban a 2015/848 EU rendelet 36. cikke szerinti, a másik tagállambeli hitelezők számára kibocsátásra kerülő kötelezettségvállaló nyilatkozat érvényességéhez a magyar bíróság előzetes jóváhagyása szükséges.
+
+(2) A felszámoló a bírósághoz benyújtott kérelmében részletesen, pénzügyi adatokkal és dokumentumokkal alátámasztottan bemutatja a kötelezettségvállalással érintett másik tagállamban fellelhető vagyontárgyak körét, azok értékét, a vagyontárgyak értékesítésére vonatkozó terveket, valamint a kötelezettségvállalással a hitelezők összessége érdekében képviselt célokat és a kötelezettségvállalás elmaradásával járó, valószínűsíthető hátrányokat. A tájékoztatásban ismertetni kell a kötelezettségvállalással érintett másik tagállamban ismert külföldi hitelezői követelések listáját, megjelölve azt is, hogy azokat e törvény alapján milyen szabályok szerint kell kifizetni, a felszámolási eljárásban hová kell besorolni az e törvényben meghatározott kielégítési sorrendben.
+
+(3) A bíróság a kérelem elbírálása előtt a felszámolót, a hitelezői választmányt, illetve a hitelezők képviselőjét, valamint indokolt esetben a hitelezőket is meghallgathatja, vagy határidő tűzésével írásbeli nyilatkozat tételére hívja fel őket. A meghallgatás, illetve az írásbeli nyilatkozat megtételére vonatkozó határidő elmulasztása esetén igazolásnak nincs helye. A bíróság a kérelem beérkezésétől számított 15 napon belül dönt. A végzés ellen fellebbezésnek van helye, amelyet 15 napon belül kell elbírálni.
+
+(4) Ha a bíróság által előzetesen jóváhagyott kötelezettségvállaló nyilatkozatot az érintett másik tagállamban nem hagyták jóvá a hitelezők, a felszámolónak haladéktalanul írásban tájékoztatnia kell őket a belföldi fizetésképtelenségi főeljárásba a 2015/848 EU rendelet 45. cikk (1) bekezdése alapján történő bejelentkezési lehetőségről és az ezzel összefüggő nyilvántartásbavételidíj-fizetési kötelezettségükről, azzal, hogy az igénybejelentési határidő kezdete a kötelezettségvállaló nyilatkozatról történő szavazás napja.
+
+(5) Ha a bíróság által előzetesen jóváhagyott kötelezettségvállaló nyilatkozatot az érintett másik tagállamban jóváhagyták a hitelezők, a belföldi fizetésképtelenségi főeljárásban kifogást nyújthatnak be, ha a belföldi fizetésképtelenségi szakértő nem teljesíti a kötelezettségvállalásban foglaltakat.
+
+6/J. § (1) A 2015/848 EU rendelet szerinti, a külföldi fizetésképtelenségi szakértő által a magyarországi helyi hitelezők számára tett kötelezettségvállaló nyilatkozatnak tartalmaznia kell az arra vonatkozó jognyilatkozatot is, hogy a kötelezettségvállalás a főeljárás szerinti tagállami jog szerinti érvényességi feltételeknek megfelel.
+
+(2) A külföldi fizetésképtelenségi szakértő a kötelezettségvállalással érintett belföldön fellelhető vagyontárgyakról, azok értékéről, valamint a vagyontárgyak értékesítésére vonatkozó tervekről írásban, magyar nyelven tájékoztatja a magyarországi helyi hitelezőket, továbbá nyilatkozik arról, hogy a tájékoztatás teljes körű. A kötelezettségvállaló nyilatkozatban az ismert magyarországi helyi hitelezőket és azok követelését is fel kell sorolni. A magyarországi helyi hitelezők a kötelezettségvállaló nyilatkozat kiegészítését kérhetik a külföldi fizetésképtelenségi szakértőtől, ha az nem tartalmazza a 2015/848/ EU rendeletben vagy az e §-ban előírtakat, vagy ha az a rendelkezésükre álló információk szerint – a követelésükre vagy a kötelezettségvállalás alá eső vagyontárgyakra, illetve azok értékére vonatkozóan – hiányos vagy hibás adatokat tartalmaz.
+
+(3) A külföldi fizetésképtelenségi szakértő tájékoztatást ad a magyarországi helyi hitelezők számára a kötelezettségvállalásának jóváhagyására vonatkozó szavazás lebonyolításával kapcsolatos tudnivalókról. A szavazást közjegyző jelenlétében kell lefolytatni. A közjegyző az eljárásáról jegyzőkönyvi tanúsítványt állít ki, amelyhez mellékeli a szavazás lebonyolításával kapcsolatos azon írásbeli tájékoztatást, amelyet a külföldi fizetésképtelenségi szakértő a közjegyző rendelkezésére bocsátott.
+
+(4) A kötelezettségvállaló nyilatkozat jóváhagyását tartalmazó – a kötelezettségvállalás időpontjában ismert és nem vitatott – hitelezői követeléssel rendelkező magyarországi helyi hitelezők által tett nyilatkozatot magyar nyelven jegyzőkönyvi tanúsítványba kell foglalni. A jegyzőkönyvi tanúsítványba magyar nyelven bele kell foglalni a külföldi fizetésképtelenségi szakértőnek azokat a tájékoztatást magában foglaló, valamint a biztosítékokra vonatkozó nyilatkozatait is, amelyeket a kötelezettségvállalás jogi megalapozottságára és teljesítésére vonatkozóan tett.
+
+(5) A jegyzőkönyvi tanúsítványt – kérelmére – a külföldi fizetésképtelenségi szakértő, valamint az a magyarországi helyi hitelező is aláírhatja, akinek a nyilatkozatát a jegyzőkönyvi tanúsítvány tartalmazza.
+
+(6) A kötelezettségvállalás jóváhagyásakor a hitelezőket osztályokba kell sorolni. A hitelezői követelések hitelezői osztályba sorolására és a szavazati joguk kiszámítására és gyakorlására e törvénynek a csődegyezség megszavazására irányadó rendelkezéseit kell alkalmazni azzal, hogy a követelések besorolására az adós nyilvántartásai alapján kerül sor, és a külföldi fizetésképtelenségi szakértő kötelezettségvállalásának jóváhagyásához mindegyik hitelezői osztályban a szavazatok többségének igenlő szavazata szükséges. A jóváhagyott kötelezettségvállalás hatálya a szavazásra jogosult, de azt meg nem szavazó vagy a szavazásra szabályosan értesített, de abban részt nem vevő magyarországi helyi hitelezőre is kiterjed, amennyiben nem határoz meg ránézve – az érintett hitelezői osztályra alkalmazandó szabályokhoz képest – hátrányosabb feltételeket. Az adós által vitatottnak minősülő követeléseket a kötelezettségvállalásnak feltételhez kötötten, és csak abban az esetben kell figyelembe vennie, ha a vitatott követelés jogosultja igazolja, hogy az adóssal szemben bírósági vagy közigazgatási úton érvényesíti az igényét, és ezt az eljárást megindította, illetve kezdeményezte.
+
+(7) A jegyzőkönyvi tanúsítvány hiteles kiadmányának másolatát a külföldi fizetésképtelenségi szakértő megküldi a fizetésképtelenségi főeljárást lefolytató tagállami bíróságnak, a Fővárosi Törvényszéknek, valamint az ismert magyarországi helyi hitelezőknek.
+
+(8) A magyarországi helyi hitelezők a külföldi fizetésképtelenségi szakértő kötelezettségvállalásával összefüggésben kérhetik, hogy a bíróság a külföldi fizetésképtelenségi szakértőt pénzügyi biztosíték adására kötelezze. A kérelmet a Fővárosi Törvényszékhez kell benyújtani. A kérelemben meg kell jelölni, hogy a biztosíték nyújtására melyik hitelezői követeléssel összefüggésben kerüljön sor. A pénzügyi biztosíték formája a bíróság gazdasági hivatalában letéti számlára befizetendő pénzösszeg.
+
+(9) A (8) bekezdés szerinti pénzügyi biztosíték nyújtásával összefüggő eljárás polgári nemperes eljárás. Bizonyítás felvételére akkor kerülhet sor, ha a kérelem a benyújtott dokumentumok alapján nem bírálható el. A pénzügyi biztosíték nyújtása tárgyában hozott végzés ellen fellebbezésnek van helye.
+
+6/K. § (1) Ha a magyarországi helyi hitelezők a 2015/848 EU rendelet 38. cikke alapján területi másodlagos fizetésképtelenségi eljárást kezdeményeztek, a 6/H. § szerint hatáskörrel és illetékességgel rendelkező bíróság szakértőt rendelhet ki azoknak a közgazdasági szakkérdéseknek a megvizsgálására, amelyek
+
+- a) a másodlagos fizetésképtelenségi eljárás megindításának vagy felfüggesztésének megalapozottságával,
+- b) a fizetésképtelenségi főeljárás fizetésképtelenségi szakértője által benyújtott kérelmekkel,
+- c) a magyarországi helyi hitelezők érdekeinek védelme szempontjából lényeges körülmények vizsgálatával, vagy
+- d) a másik típusú – reorganizációs típusú területi másodlagos fizetésképtelenségi eljárás helyett felszámolási típusú, illetve felszámolási típusú helyett reorganizációs típusú – területi másodlagos fizetésképtelenségi eljárás megindításának feltételeivel
+
+kapcsolatosak.
+
+(2) A szakértő kirendelésével összefüggő költségeket és a szakértő díját a kérelmező előlegezi és viseli.
+
+(3) Ha a másodlagos fizetésképtelenségi eljárás reorganizációs típusú eljárás, az eljárást kezdeményező kérelemnek tartalmaznia kell a 8. § szerinti adatokat és mellékleteket, és a kérelemhez csatolni kell a külföldi fizetésképtelenségi eljárást megindító, illetve a külföldi fizetésképtelenségi szakértőt kijelölő határozatot.
+
+(4) Ha a területi másodlagos fizetésképtelenségi eljárás felszámolási típusú eljárás, az eljárást kezdeményező kérelemhez csatolni kell a külföldi fizetésképtelenségi főeljárást megindító, valamint a külföldi fizetésképtelenségi szakértőt kijelölő határozatot. A kérelemnek tartalmaznia kell az adósnak a kérelmezővel szemben fennálló tartozása jogcímét és a tartozás fennállását igazoló dokumentumokat is, kivéve, ha a területi másodlagos fizetésképtelenségi eljárást a másik tagállamban indított fizetésképtelenségi főeljárás fizetésképtelenségi szakértője – ilyen szakértő kijelölése hiányában a vagyona feletti rendelkezési jogát megőrző adós – kéri.
+
+(5) Ha a számviteli jogszabályok szerint az adósnak nem kell beszámolót készítenie, a 31. §-ban foglaltakat azzal az eltéréssel kell alkalmazni, hogy a 2015/848 EU rendelet szerint Magyarországon indított területi fizetésképtelenségi eljárásban a felszámoló az adós nyilvántartásai, vagyonnyilvántartása, a telephelynek betudható bevételekről és kiadásokról készített könyvviteli zárlata és adatszolgáltatása alapján, illetve a 30. §-ban meghatározott módon állapítja meg a területi fizetésképtelenségi eljárásba vonható vagyont, és erről nyitó felszámolási mérleget készít. A 31. §-ban foglalt egyéb kötelezettségeket ebben az esetben is teljesíteni kell.
+
+6/L. § A bíróság előzetes jóváhagyása szükséges a 2015/848 EU rendelet 41. cikke szerinti együttműködési megállapodások megkötéséhez és módosításához, ha a megállapodás Magyarországon indult főeljárásban vagy területi fizetésképtelenségi eljárásban kirendelt belföldi fizetésképtelenségi szakértő és a külföldi fizetésképtelenségi szakértők között jön létre. A jóváhagyás tárgyában hozott végzés ellen fellebbezésnek van helye.
+
+6/M. § A belföldön megindított fizetésképtelenségi főeljárásban és területi másodlagos fizetésképtelenségi eljárásban a külföldi hitelezői igények bejelentésére 2015/848 EU rendelet 55. cikke alapján kialakított egységes formanyomtatvány a Cégközlöny és az Országos Bírósági Hivatal honlapjáról is letölthető.
+
+6/N. § (1) A 2015/848 EU rendelet 24. cikke szerint Magyarországon felállításra kerülő tagállami fizetésképtelenségi nyilvántartás a nemzeti adatvagyon körébe tartozó központi nyilvántartás.
+
+(2) Az (1) bekezdés szerinti fizetésképtelenségi nyilvántartás a 2015/848 EU rendelet hatálya alá tartozó, 2018. június 26-án és az azt követően Magyarországon megindított fizetésképtelenségi eljárások adatait tartalmazza.
+
+(3) A fizetésképtelenségi nyilvántartás – a 2015/848 EU rendelet 24. cikkében felsorolt adatokon kívül – az alábbi adatokat tartalmazza, az eljáró bíróságok, illetve belföldi és külföldi fizetésképtelenségi szakértők elektronikus adatszolgáltatása alapján:
+
+- a) az adós vagyonával összefüggő megtámadási keresetek megindítása és befejezése, az eljáró bíróság neve és az ügy száma,
+- b) az adós vezetői, volt vezetői, az adós jogi személy tagjai, tulajdonosai ellen a hitelezők érdekeit sértő tevékenységük miatti felelősség megállapítása iránti keresetek megindítása és befejezése, az eljáró bíróság neve és az ügy száma,
+- c) ha az eljárás egyszerűsített felszámolásként került lefolytatásra, ennek ténye,
+- d) az adós és a vagyonfelügyelő, illetve a felszámoló elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elektronikus levélcíme.
+
+(4) A fizetésképtelenségi nyilvántartás az adatokat kereshető formában, a bejegyzéstől számított 15 évig őrzi meg, ezt követően még öt évig archivált adatként kell megőrizni, majd azt követően haladéktalanul törölni kell.
+
+6/O. § A bíróság a felszámolás fizetésképtelenségi főeljárásként történő befejezéséről és az adós jogutód nélküli megszüntetéséről akkor hozhatja meg a végzést, ha az adós ellen nincs folyamatban a 1346/2000/EK tanácsi rendelet vagy a 2015/848 EU rendelet alapján más tagállamban külföldi fizetésképtelenségi eljárás.
+
+6/P. § (1) A 2015/848 EU rendelet V. fejezete szerinti, a cégcsoport tagjaival összefüggő fizetésképtelenségi eljárásokban a 2015/848 EU rendelet 56. és 58. cikke alapján megkötésre kerülő együttműködési megállapodások megkötéséhez és módosításához a belföldi fizetésképtelenségi szakértőknek előzetesen a bíróság jóváhagyását kell kérniük. A jóváhagyás tárgyában hozott végzés ellen fellebbezésnek van helye.
+
+(2) A bíróság szakértőt rendelhet ki azoknak a közgazdasági szakkérdéseknek a megvizsgálására, amelyek
+
+- a) a külföldi fizetésképtelenségi szakértőnek a 2015/848 EU rendelet 60. cikkében, valamint
+- b) a belföldi fizetésképtelenségi szakértőnek a 2015/848 EU rendelet 61. cikkében meghatározott kérelme elbírálásához szükségesek.
+
+(3) A bíróság a 2015/848 EU rendelet 61. cikke szerinti, a csoportos koordinációs eljárás iránti kérelmet elutasítja, ha más tagállamban már kezdeményeztek ilyen eljárást. Ha pedig ez a tény később jut a tudomására, az eljárást hivatalból megszünteti, és a kérelem elbírálásával összefüggő költségek megfizetésére az eljárást kezdeményező fizetésképtelenségi szakértőt kötelezi.
+
+(4) Ha a 2015/848 EU rendelet 61. cikke szerinti csoportos koordinációs eljárás belföldön indul, az eljárás megindítására és lefolytatására polgári nemperes eljárásként kerül sor. Az eljárás lefolytatására az a bíróság rendelkezik hatáskörrel és illetékességgel, amely a csoport belföldi tagjával szemben megindított csődeljárást vagy felszámolási eljárást lefolytatja.
+
+(5) A csoportos koordinációs eljárás megindítását elrendelő bírósági határozat meghozatalát követően a vállalatcsoport belföldi tagjához kirendelt fizetésképtelenségi szakértő a 2015/848 EU rendelet 64. cikke szerinti kifogást a magyar bíróság tájékoztatását követően nyújthat be.
+
+(6) A 2015/848 EU rendelet 66. cikke szerinti, a más tagállam joghatóságát megalapozó megállapodás megkötéséhez a magyar bíróság előzetes jóváhagyása szükséges.
+
+6/Q. § (1) A csődeljárást, illetve a felszámolást elrendelő jogerős végzés ellen a csődeljárás, illetve a felszámolási eljárás kezdő időpontjától számított 30 napon belül felülvizsgálati kérelmet lehet előterjeszteni arra való hivatkozással, hogy az eljárás elrendelésére a magyar bíróságnak nem volt joghatósága. A határidő elmulasztása esetén igazolásnak nincs helye.
+
+(2) A Kúria elrendelheti a csődeljárás, illetve a felszámolási eljárás felfüggesztését.
+
+(3) Ha a Kúria elrendelte a csődeljárás felfüggesztését, egyezségi tárgyalás megtartására nem kerülhet sor. A csődeljárásban elrendelt fizetési haladék hatálya a felfüggesztés időtartama alatt is fennmarad, a 11. §-ban foglaltak a felfüggesztés időtartama alatt is irányadók. A vagyonfelügyelő a felfüggesztés időtartama alatt ellátja a 12–14. §-ban felsorolt feladatokat, tevékenységével összefüggésben a 15. § (3) bekezdése szerint kifogás benyújtásának és a kifogás elbírálásának is helye van. A kifogást elbíráló végzés ellen fellebbezés nyújtható be, amelyet 15 napon belül kell elbírálni.
+
+(4) Ha a Kúria elrendelte a felszámolási eljárás felfüggesztését, a felszámolás elrendelésének jogi hatálya fennmarad, a 34–35. §-ban foglaltakat is alkalmazni kell. A felszámoló a felfüggesztés időtartama alatt is ellátja az adós vagyonának az adós vezetőjétől történő átvételével, a felszámolási nyitó mérleg készítésével, valamint a hitelezői igények nyilvántartásba vételével összefüggő feladatokat. A felfüggesztés időtartama alatt a felszámoló az adós vagyonát nem adhatja bérbe, nem értékesítheti, ide nem értve a gyorsan romló vagy az olyan ingóságot, amelynél az értékesítés késedelme jelentős értékveszteséggel járna. Az értékesítésből származó bevételt a felszámoló elkülönítetten kezeli, azt a felszámolási költségekre sem használhatja fel.
+
+(5) A Kúria a felülvizsgálattal megtámadott végzést 30 napon belül bírálja el.
 
 ### II. Fejezet — CSŐDELJÁRÁS
 
@@ -279,20 +408,19 @@ közötti kapcsolattartás során a jognyilatkozatok megtétele írásban tört�
 
 (4) A bíróság az (1) bekezdést követő intézkedést követően haladéktalanul, de legkésőbb a kérelem beérkezésétől számított 5 munkanapon belül megvizsgálja, hogy az megfelel-e a 7. § és a 8. § (1)–(3) bekezdése szerinti feltételeknek. Ha a kérelem hiányos, azt 5 munkanapos határidővel hiánypótlásra adja vissza. A bíróság az adós által kezdeményezett csődeljárás iránti kérelmet hivatalból elutasítja, ha
 
-- a) a hiánypótlásra visszaadott kérelmet a bejelentő 5 munkanapon belül nem egészítette ki, vagy azt ismét hiányosan terjesztette elő,
+- a) a hiánypótlásra visszaadott kérelmet a kérelmező 5 munkanapon belül nem egészítette ki, vagy azt ismét hiányosan terjesztette elő,
 - b) nincs meg a 8. § (1) bekezdésében említett legfőbb szerv előzetes egyetértése,
 - c) a 7. § (3) bekezdés a) pontja szerinti követelés kielégítése még nem történt meg,
 - d) a korábbi csődeljárás jogerős befejezésének közzétételétől számítva két év még nem telt el,
-- e) az adós ellen más bíróság előtt csődeljárás van folyamatban,
-- f) az adós ellen felszámolási eljárás indult, és a fizetésképtelenség megállapításáról és a felszámolás elrendeléséről már végzést hoztak,
-- g) a csődeljárás iránti kérelmet megelőző egy éven belül az adós már adott be ilyen kérelmet, amelyet e bekezdés alapján a bíróság hivatalból elutasított, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el, vagy
-- h) az adós ellen az Európai Unió más tagállamában a 6/B. § szerinti főeljárás megindításáról szóló határozat került közzétételre a Cégközlönyben.
+- e) az adós ellen belföldön más bíróság előtt csődeljárás van folyamatban,
+- f) az adós ellen felszámolási eljárás indult, és a felszámolás elrendeléséről már végzést hoztak, vagy
+- g) a csődeljárás iránti kérelmet megelőző egy éven belül az adós már adott be ilyen kérelmet, amelyet e bekezdés alapján a bíróság hivatalból elutasított, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el.
 
 (5) A csődeljárás iránti kérelmet hivatalból elutasító végzésnek tartalmaznia kell az adós nevét, székhelyét, cégjegyzékszámát, a bíróság nevét és az ügy számát, továbbá a csődeljárás iránti kérelem elutasításának okát, valamint – ha az ideiglenes fizetési haladék közzétételre került – azt, hogy az ideiglenes fizetési haladék a jogerős végzés közzétételével megszűnik. A csődeljárás iránti kérelmet hivatalból elutasító végzés elleni fellebbezés benyújtásának határideje 5 nap. A határidő elmulasztása esetén igazolásnak nincs helye. A fellebbezést soron kívül, de legfeljebb 8 munkanapon belül kell elbírálni.
 
 (6)–(8)
 
-(9) A bíróság megszünteti a csődeljárást, ha hitelt érdemlően tudomást szerez arról, hogy a csődeljárás iránti kérelmet a (4) bekezdés b)–h) pontja szerinti okból hivatalból el kellett volna utasítani. A vagyonfelügyelő díját a bíróság az addig elvégzett tevékenységével, munkaterhével arányosan állapítja meg.
+(9) A bíróság hivatalból megszünteti a csődeljárást, ha hitelt érdemlően tudomást szerez arról, hogy a csődeljárás iránti kérelmet a (4) bekezdés b)–g) pontja szerinti okból vissza kellett volna utasítani. Az eljárást megszüntető végzés ellen fellebbezésnek van helye. A csődeljárás megszüntetése esetén a vagyonfelügyelő díját a bíróság az addig elvégzett tevékenységével, munkaterhével arányosan állapítja meg.
 
 (10) A bíróság az adósi kérelem benyújtóját 100 000 forinttól 2 000 000 forintig terjedő bírsággal sújtja, és az eljárás költségeiben marasztalhatja, ha a csődeljárás iránti kérelemben vagy a csatolt dokumentumokban valótlan adatot közölt, valótlan tartalmú dokumentumokat csatolt, továbbá ha a 8. § (2) bekezdés i) pontja szerinti értesítési kötelezettségét elmulasztja. A kötelezettség teljesítésére és a bírság kiszabására figyelmeztető végzést, valamint a bírságot kiszabó végzést az adós gazdálkodó szervezet azon többségi befolyással rendelkező tagjának (egyszemélyes társaság és egyéni cég esetén a tagnak, külföldi székhelyű vállalkozás magyarországi fióktelepe esetén a külföldi székhelyű vállalkozásnak) is meg kell küldeni, amely a bírság kiszabásának alapjául szolgáló cselekmény vagy mulasztás idején az említett mértékű részesedéssel rendelkezett. Az említett tag, illetőleg külföldi székhelyű vállalkozás a bírság megfizetéséért behajthatatlanság esetén kezesként felel. A külföldi székhelyű vállalkozás az említett kezesi kötelezettségéből eredő fizetési kötelezettségét nem teljesítheti a fióktelepe rendelkezésére bocsátott vagyonból.
 
@@ -606,15 +734,13 @@ folytatható le.
 - b) azt a moratórium időszakában, terjesztették elő;
 - c) a hiánypótlásra visszaadott kérelmet a kérelmező 8 napon belül nem, vagy ismét olyan hiányosan adta be, hogy amiatt az nem bírálható el;
 - d) az adós a kérelmező és a 8. § (1) bekezdésében megjelölt szervek egyetértése hiányzik;
-- e) az adós ellen az Európai Unió más tagállamában a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján fizetésképtelenségi főeljárás indult és a kérelem szintén főeljárás megindítására irányul;
+- e)
 - f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (2c) bekezdés szerinti tartalmi elemeket.
 - g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el;
 - h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül;
 - i) a 6. § (5) bekezdése értelmében elektronikus kapcsolattartásra köteles kérelmező az eljárási illeték és a közzétételi költségtérítés megfizetésére vonatkozó elektronikus igazolást nem csatolta.
 
-(2) Ha az Európai Unió más tagállamában a bíróság határozatának meghozatalát megelőzően a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján főeljárást indítottak, a bíróság az ugyanazon adós ellen Magyarországon megindított főeljárást területi eljárássá alakítja át, feltéve, hogy az adós Magyarországon telephellyel rendelkezik. A bíróság erről a főeljárást megindító bíróságot tájékoztatja.
-
-(3) Ha az Európai Unió más tagállamában a bíróság határozatának meghozatalát megelőzően a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján főeljárást indítottak és az adós nem rendelkezik Magyarországon telephellyel, a bíróság az eljárást megszünteti. A bíróság erről a főeljárást megindító bíróságot tájékoztatja. A megszüntetést megelőzően beállt joghatások, így különösen a felszámoló által kötött jogügyletek alapján fennálló jogok és kötelezettségek azonban fennmaradnak, abban az esetben is, ha azok az Európai Unió más tagállamában folyamatban lévő eljárás joghatásaival ellentétesek.
+(2)–(3)
 
 26. § (1) A bíróság megvizsgálja az adós fizetésképtelenségét.
 
@@ -893,7 +1019,7 @@ ismétlődő kötelezettségszegés esetén pedig a felszámoló szervezetet tö
 
 (3) A felszámoló az e törvény szerinti feladatainak teljesítése érdekében az adós helyiségeibe beléphet, bármely vagyontárgyát átvizsgálhatja. Az adós a lezárt helyiségét, vagyontárgyát (bútorát, egyéb ingóságát) a felszámoló felhívására köteles haladéktalanul felnyitni, a vagyontárgy meglétéről és hollétéről tájékoztatást adni.
 
-32. § Ha az adós nem köteles beszámolót készíteni, a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete szerint indított fizetésképtelenségi eljárásban a felszámoló az adós nyilvántartásai alapján vagy egyéb módon megállapítja az eljárásba vonható vagyont, s erről nyitó mérleget készít.
+32. §
 
 33. § (1) A bíróság az adott gazdálkodó szervezettől a felszámolás kezdő időpontját megelőző évben felvett bevételének 50%-áig vagy – ha a vezető bevétele nem állapítható meg – 2 000 000 forintig terjedő pénzbírsággal sújthatja a gazdálkodó szervezet vezetőjét, aki a 31. §-ban foglalt kötelezettségét elmulasztotta, vagy azt késedelmesen teljesíti, valótlan adatokat közölt, a felszámolóval való együttműködési kötelezettségét nem teljesíti. A bírság akkor is kiszabható, ha a vezető már nem áll az adósnál munkaviszonyban, munkavégzési kötelezettséggel járó egyéb jogviszonyban, tagsági viszonyban, vagy vezetői tisztségviselői (cégvezetői) minősége megszűnt. Ha a gazdálkodó szervezet vezetője a 31. § szerinti kötelezettségeit, továbbá a felszámolóval való együttműködési kötelezettségét nem teljesíti, a felszámoló az iratokat a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/D. §-a szerinti végrehajtói kézbesítés útján is eljuttathatja.
 
@@ -1795,6 +1921,10 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (6) E törvénynek a 2017. évi XLIX. törvénnyel megállapított 27/C. § (4) bekezdés f) pontja szerinti adatok változását vagy kiegészítését 2017. október 1-jéig kell bejelenteni a felszámolók névjegyzékét vezető hatóságnak, illetve a 27/A. § (6a) bekezdés vagy a 66. § (6) bekezdés szerinti nyilvántartásokat vezető hatóságnak.
 
+83/S. § (1) E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény jogharmonizációs célú módosításáról szóló 2017: CXXVI. törvénnyel (a továbbiakban: 2017. évi CXXVI. törvény) megállapított rendelkezéseit a 2015/848 EU rendelet alapján megindított fizetésképtelenségi eljárásokra kell alkalmazni.
+
+(2) A Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján kezdeményezett eljárásokban akkor kell e törvénynek a 2017. évi CXXVI. törvénnyel megállapított rendelkezéseit alkalmazni, ha a főeljárást vagy a főeljárást követően megindított területi másodlagos fizetésképtelenségi eljárást megindító határozat a 2015/848 EU rendelet 3. cikkére hivatkozik.
+
 84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
 
 (2) A felszámolónak 2012. szeptember 1-jéig be kell jelentenie a nyilvántartást vezető szervnek minden közvetlen vagy közvetett részesedéssel rendelkező tagja (részvényese) nevét (cégnevét, cégjegyzék számát), lakóhelyét (székhelyét), továbbá azon jogi személynek vagy jogi személyiség nélküli szervezetnek a nevét, székhelyét, nyilvántartási számát, amelyben a felszámoló gazdasági társaság tagsággal, közvetlen vagy közvetett részesedéssel rendelkezik, és amely még nincs bejegyezve a felszámolói névjegyzékbe.
@@ -1821,6 +1951,11 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (3) Felhatalmazást kap a Kormány, hogy az adós vagyontárgyainak felszámoló által végzett nyilvános értékesítésére vonatkozóan a világhálón elérhető elektronikus értékesítési rendszer létrehozásának, működtetésének, bevezetésének a 49/E–49/G. §-ban meghatározott részletes szabályait megállapítsa, és kijelölheti az elektronikus értékesítési rendszer létrehozásáért, működtetésért felelős szervet.
 
+(4) Felhatalmazást kap a Kormány, hogy
+
+- a) rendeletben kijelölje a 2015/848 EU rendelet 24. cikke szerinti belföldi fizetésképtelenségi nyilvántartás megvalósítására és a nyilvántartás vezetésére jogosult szervet, az adatkezelői feladatokért felelős szervet, megállapítsa a nyilvántartásba történő adatszolgáltatás és az adatváltozás bejelentésének szabályait, a nyilvántartásból történő lekérdezés eljárási szabályait,
+- b) rendeletben kijelölje a 2015/848 EU rendelet 25. cikke szerinti tagállami fizetésképtelenségi eljárások összekapcsolásának tagállami megvalósításával és működtetésével összefüggő feladatokat ellátó szervet.
+
 85. § (1)–(4)
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
@@ -1828,7 +1963,10 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 - a) a csődeljárás iránti kérelem benyújtására vonatkozó formanyomtatvány, továbbá az ahhoz csatolandó, az adós vagyoni helyzetét bemutató adatlap formáját, tartalmi elemeit,
 - b) a csődeljárásban a vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének, valamint az elektronikus rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
 - c) a Cégközlöny honlapján közzétételre kerülő végzések kivonatának kötelező tartalmi elemeit,
-- d) a Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete 40. cikke által előírt, az ismert hitelezők értesítésének formai és tartalmi kellékeit.
+- d) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet
+  - da) 28. cikke szerinti közzététel szabályait,
+  - db) 54. cikke által előírt, az ismert hitelezők értesítésének kiegészítő szabályait,
+  - dc) 41–43. cikkében, 51. cikk (2) bekezdésében, 56–58. cikkében meghatározott együttműködés, kapcsolattartás és tájékoztatás részletes szabályait, a 2015/848 EU rendelet (48) preambulumbekezdésében hivatkozott szakmai ajánlások alapján,
 
 (6) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg
 
@@ -1840,8 +1978,15 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (8) Felhatalmazást kap az államháztartásért felelős miniszter, hogy a Fővárosi Törvényszék Gazdasági Hivatalának az 59. § (5) bekezdésében foglaltak szerint a központi költségvetéssel történő elszámolásának, valamint a pénzösszeg folyósításának részletes szabályait rendeletben állapítsa meg.
 
+(9) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a 2015/848 EU rendelet 24. cikke szerinti belföldi fizetésképtelenségi nyilvántartásból történő lekérdezésért fizetendő igazgatási szolgáltatási díjat.
+
 ### Az Európai Unió jogának való megfelelés
 
 86. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) E törvény tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+
+(3) Ez a törvény
+
+- a) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet, valamint
+- b) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendeletben hivatkozott formanyomtatványok kiállításáról szóló 2017. június 12-i (EU) 2017/1105 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
