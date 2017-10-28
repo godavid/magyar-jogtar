@@ -99,7 +99,7 @@ eltérő szabályozást állapíthat meg.
 - a) nemzetközi szerződésben meghatározott esetekben, vagy
 - b) ha a külföldi vállalkozás székhelye szerinti állam és Magyarország között erre vonatkozóan viszonosság áll fenn.
 
-(2) Az (1) bekezdés szerinti nemzetközi szerződés, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter tájékoztatót tesz közzé.
+(2) Az (1) bekezdés a) pontja szerinti nemzetközi szerződés fennállásáról a külpolitikáért felelős miniszter, az (1) bekezdés b) pontja szerinti viszonosság fennállásáról a külpolitikáért felelős miniszter az igazságügyért felelős miniszterrel egyeztetve ad tájékoztatást.
 
 (3)
 
@@ -117,21 +117,29 @@ eltérő szabályozást állapíthat meg.
 
 ### Fizetésképtelenség esetén követendő eljárás
 
-19. § (1) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi eljárás (csőd-, felszámolási, illetve azokkal egy tekintet alá eső eljárás) megindítását a fióktelepnek a cégbíróságnál a külföldi eljárás megindításától számított tíz napon belül be kell jelentenie, s egyidejűleg a Cégközlönynél közlemény megjelentetését kell kezdeményeznie. Ebben tájékoztatást kell adnia arról, hogy a hitelezők külföldön – az ott megindult eljárásban – milyen módon érvényesíthetik követeléseiket.
+19. § (1) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi főeljárás (reorganizációs típusú vagy felszámolási típusú eljárás) megindítását a fióktelepnek a cégbíróságnál a külföldi eljárás megindításától számított nyolc napon belül be kell jelentenie, és egyidejűleg a Cégközlöny honlapján közzé kell tennie a külföldi fizetésképtelenségi eljárást megindító határozat, valamint – ha van ilyen – a külföldi bíróság vagy hatóság által kirendelt fizetésképtelenségi szakértő kijelölését tartalmazó határozat lényeges tartalmát, így különösen
 
-(2) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi eljárás a magyarországi fióktelepre nemzetközi szerződés vagy viszonosság esetében, továbbá a Tanácsnak a fizetésképtelenségi eljárásról szóló 1346/2000/EK rendeletében foglaltak szerint terjed ki.
+- a) a fizetésképtelenségi főeljárást megindító külföldi bíróság megjelölése és címe,
+- b) a külföldi fizetésképtelenségi szakértő neve és elérhetősége,
+- c) a hitelezői igények bejelentésére rendelkezésre álló határidők,
+- d) a határidők tekintetében megállapított jogkövetkezmények,
+- e) a hitelezői igények elfogadására jogosult testület vagy hatóság megjelölése, elérhetősége.
 
-(3) Ha a külföldi vállalkozás ellen külföldön – személyes joga alapján indított – fizetésképtelenségi eljárás a (2) bekezdésben említett nemzetközi szerződés, illetve viszonosság hiányában a fióktelepre nem terjed ki, vagy az 1346/2000/EK rendeletben foglaltakat kell alkalmazni, a fióktelep bejegyzésének helye szerinti törvényszék – a cégbíróság értesítése alapján (az 1346/2000/EK rendelet hatálya alá eső eljárásokban pedig a külföldön indult fizetésképtelenségi eljárásban eljáró felszámoló értesítése alapján) – hivatalból rendeli el a fióktelep felszámolását.
+(2) Ha a külföldi vállalkozás olyan jogi személy vagy jogi személyiséggel nem rendelkező, a személyes joga alapján gazdasági társaság vagy más gazdasági tevékenységet folytató szervezet, amely fő érdekeltségeinek központja a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/848 EU rendelet) alapján az Európai Unió területén található, és az ellene indítható fizetésképtelenségi eljárás a 2015/848 EU rendelet hatálya alá esik, a külföldi fizetésképtelenségi főeljárás közzétételével összefüggő intézkedéseket a külföldi fizetésképtelenségi főeljárásban kijelölt fizetésképtelenségi szakértő, illetve ennek hiányában a fizetésképtelenségi eljárásban a vagyona felett a rendelkezési jogát megőrző adós teszi meg.
 
-(4) A fióktelep felszámolására irányuló eljárásra a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi IL. törvény (a továbbiakban: Cstv.) I., III. és IV. fejezetében foglaltakat kell alkalmazni 22. § és az 1346/2000/EK rendelet szerinti eltérésekkel. Az eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás, illetve a külföldi fizetésképtelenségi eljárásban eljáró – a vállalkozás vagyonával kapcsolatosan jognyilatkozatok tételére jogosult – felszámoló rendelkezik.
+(3) A külföldi vállalkozás ellen külföldön kezdeményezett fizetésképtelenségi főeljárás hatálya a magyarországi fióktelepre a 2015/848 EU rendelet hatálya alá tartozó eseteken kívül akkor terjed ki, ha erre nézve Magyarország és a fizetésképtelenségi főeljárást megindító külföldi állam között kialakított viszonosság áll fenn.
 
-20. § (1) Ha a külföldi vállalkozás a magyarországi fióktelep útján folytatott vállalkozási tevékenységével összefüggésben fizetésképtelenné válik, és a fizetésképtelenségi eljárásokra nézve a külföldi vállalkozás államával nincs nemzetközi szerződés vagy viszonossági gyakorlat, a hitelezők a fióktelep felszámolását kérhetik a fióktelep bejegyzése szerinti törvényszéktől. Az eljárásra a Cstv. I., III. és V. fejezetében foglaltakat kell alkalmazni a 22. § szerinti eltérésekkel. A felszámolási eljárást a bíróság megszünteti, ha a külföldi vállalkozás vagy a fióktelep az eljárásban bejelentett hitelezői igények kielégítésére biztosítékot nyújt.
+(4) Ha a külföldi vállalkozás ellen külföldön – a személyes joga alapján indított – fizetésképtelenségi főeljárás hatálya a magyarországi fióktelepre nem terjed ki, a fióktelep bejegyzésének helye szerinti törvényszék a cégbíróság értesítése alapján hivatalból rendeli el a fióktelep felszámolását. A fióktelep felszámolására és a felszámolással összefüggő adatok közzétételére és nyilvántartására a csődeljárásról, a felszámolási eljárásról és a végelszámolásról szóló 1991. évi XLIX. törvényben (a továbbiakban: Cstv.) foglaltakat kell alkalmazni, a 22. § szerinti eltérésekkel.
 
-(2) Az eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás az általános szabályok szerint rendelkezik.
+(5) A magyarországi fióktelep ellen lefolytatott felszámolási eljárás befejeződése után fennmaradó vagyonnal a külföldi vállalkozás, illetve a külföldi fizetésképtelenségi főeljárásban eljáró – a vállalkozás vagyonával kapcsolatosan jognyilatkozatok tételére jogosult – felszámoló rendelkezik.
+
+20. § (1) Ha a külföldi vállalkozás a magyarországi fióktelep útján folytatott vállalkozási tevékenységével összefüggésben fizetésképtelenné válik, és az ellene indítható fizetésképtelenségi eljárás nem esik a 2015/848 EU rendelet hatálya alá, továbbá a fizetésképtelenségi eljárásokra nézve a külföldi vállalkozás székhelye szerinti állammal nincs viszonossági gyakorlat sem, a hitelezők a fióktelep felszámolását kérhetik a fióktelep bejegyzése szerinti törvényszéktől. Az eljárásra a Cstv. felszámolási eljárásra vonatkozó szabályait kell alkalmazni a 22. § szerinti eltérésekkel. A felszámolási eljárást a bíróság megszünteti, ha a külföldi vállalkozás vagy a fióktelep az eljárásban bejelentett hitelezői igények kielégítésére biztosítékot nyújt.
+
+(2) A fióktelep felszámolási eljárásának befejeződése után fennmaradó vagyonnal a külföldi vállalkozás rendelkezik.
 
 21. § (1) A 19. § (4) bekezdése és a 20. § szerinti eljárás akkor is kezdeményezhető, illetve abban hitelezőként igény akkor is előterjeszthető, ha hitelező a követelését érvényesíti a külföldi vállalkozás ellen külföldön indult fizetésképtelenségi eljárásban.
 
-(2) A 19. § (2) bekezdésében és a 20. §-ban említett nemzetközi szerződésekről, illetve a viszonosság fennállásáról az igazságügyért felelős miniszter és a külpolitikáért felelős miniszter tájékoztatót tesz közzé.
+(2) A 19. § (2) bekezdésében és a 20. § (1) bekezdésben említett viszonosság fennállásáról az igazságügyért felelős miniszter a külpolitikáért felelős miniszterrel egyeztetve ad tájékoztatást.
 
 22. § (1) A 19. § (4) bekezdése és a 20. § szerinti eljárásban
 
@@ -229,7 +237,7 @@ személyek jegyezhetik.
 - b) a kereskedelmi képviselet a Cégközlönyben a megszüntetésről felhívást tett közzé azzal, hogy a hitelezők követeléseiket harminc napon belül nála jelentsék be, de ilyen tartalmú bejelentés nem érkezett, vagy a hitelező követelése kielégítésre került, illetve arra biztosítékot nyújtottak, és
 - c) nincs a kereskedelmi képviseletei tevékenységével összefüggésben a külföldi vállalkozás ellen Magyarországon bírósági vagy hatósági eljárás folyamatban.
 
-(2) A kereskedelmi képviselet kérelemre történő törlésének nem feltétele az (1) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak Magyarországgal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai közösségi jogi szabályozás rendezi. A kereskedelmi képviseletnek azonban ebben az esetben is közzé kell tennie a megszüntetéséről a Cégközlönyben közleményt azzal, hogy a hitelezők követeléseiket harminc napon belül a kereskedelmi képviseletnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
+(2) A kereskedelmi képviselet kérelemre történő törlésének nem feltétele az (1) bekezdés a)–c) pontjaiban meghatározott feltételek fennállása, ha a külföldi vállalkozás székhelye (bejegyzése) szerinti államnak Magyarországgal nemzetközi szerződése van a polgári és kereskedelmi ügyekre nézve a bírósági joghatóságról és a bírósági határozatok végrehajtásáról, valamint a köztartozások behajtásáról, vagy ezeket a kérdéseket európai uniós jogi szabályozás rendezi. A kereskedelmi képviseletnek azonban ebben az esetben is közzé kell tennie a megszüntetéséről a Cégközlönyben közleményt azzal, hogy a hitelezők követeléseiket harminc napon belül a kereskedelmi képviseletnél jelentsék be, továbbá tájékoztatást kell adnia arról is, hogy a ki nem elégített követeléseket a hitelezők milyen eljárásban érvényesíthetik.
 
 (3) A külföldi vállalkozás jogutód nélküli megszűnésére tekintettel a kereskedelmi képviselet törlését is kérelmezni kell a cégbíróságtól. Az (1)–(2) bekezdésben foglaltakat ebben az esetben is alkalmazni kell.
 
@@ -257,9 +265,9 @@ személyek jegyezhetik.
 
 (7) E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 12. §-ának (1)–(2) bekezdését először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni, és a 2010. évben induló üzleti évről készített beszámolóra is alkalmazhatók.
 
-### Az Európai Közösségek jogszabályaihoz való közelítés
+### Az Európai Unió jogának való megfelelés
 
-38/A. § Ez a törvény az Európai Közösséget létrehozó szerződés 43–48. cikkével, valamint a fizetésképtelenségi eljárásról szóló 346/2000/EK (2000. február 17.) tanácsi rendelettel összeegyeztethető szabályozást tartalmaz.
+38/A. § Ez a törvény a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 38/B. § (1)
 
