@@ -14,7 +14,7 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (2) Az Egészségbiztosítási Alap kezelésével kapcsolatos költségek fedezetét az Egészségbiztosítási Alap költségvetésében kell meghatározni.
 
-(3) A központi nyugdíjbiztosítási szerv központi költségvetési szerv, amelynek költségvetését a Nyugdíjbiztosítási Alap költségvetésében kell meghatározni.
+(3) A Nyugdíjbiztosítási Alap kezelésével kapcsolatos költségek, valamint a központi nyugdíjbiztosítási szerv és a nyugdíjfolyósító szerv – a nyugdíjbiztosítási feladatok ellátásával kapcsolatos – egyéb költségeinek fedezetét a Nyugdíjbiztosítási Alap költségvetésében kell meghatározni.
 
 3. § Az alapokhoz tartozó vagyon állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter, a nyugdíjbiztosítási ágazat tekintetében a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja azzal, hogy a Nyugdíjbiztosítási Alaphoz tartozó működési vagyonnal kapcsolatos tulajdonosi joggyakorló a központi nyugdíjbiztosítási szerv vezetője.
 

@@ -3771,7 +3771,7 @@ vonatkozó adatokat kezelhet.
 
 (3)
 
-(3a) A Kormány által kijelölt szerv az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, a gyermektartásdíj megelőlegezésről és az otthonteremtési támogatásról (a továbbiakban együtt: pénzbeli és természetbeni ellátás), valamint a pénzbeli és természetbeni ellátásra jogosult személyről és – az otthonteremtési támogatás kivételével – a pénzbeli és természetbeni ellátásra jogosult személy gondozó családjáról.
+(3a) A kincstár az Szt. 18/B. §-a szerint országos nyilvántartást vezet a rendszeres gyermekvédelmi kedvezményről, a gyermektartásdíj megelőlegezésről és az otthonteremtési támogatásról (a továbbiakban együtt: pénzbeli és természetbeni ellátás), valamint a pénzbeli és természetbeni ellátásra jogosult személyről és – az otthonteremtési támogatás kivételével – a pénzbeli és természetbeni ellátásra jogosult személy gondozó családjáról.
 
 (4) A nyilvántartás eszköze lehet minden olyan adattároló eszköz vagy módszer, amely biztosítja a 134. § (3) bekezdése szerinti védelmet.
 
@@ -3811,7 +3811,7 @@ vonatkozó adatokat kezelhet.
 
 (1b) Biztos Kezdet Gyerekház szolgáltatás esetén az (1) bekezdés szerinti nyilvántartás kizárólag a 138. § (1) bekezdés a)–c) és f) pontjában foglaltakat tartalmazza.
 
-(2) A Kormány által kijelölt szerv a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+(2) A kincstár a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a személyes gondoskodásban részesülő személy
   - aa) személyazonosító adatait,
@@ -3844,9 +3844,9 @@ vonatkozó adatokat kezelhet.
 
 (4) A (2) bekezdés szerinti nyilvántartásból a személyes gondoskodást nyújtó gyermekjóléti alapellátás és gyermekvédelmi szakellátás igénybevételének megszűnésétől számított öt év elteltével törölni kell az adott személyre vonatkozó adatokat. A nyilvántartásból – ha törvény eltérően nem rendelkezik – adat nem továbbítható.
 
-(5) A (2) bekezdés szerinti nyilvántartás vezetése céljából a Kormány által kijelölt szerv a (2) bekezdés a)–d) pontjaiban meghatározott adatok szolgáltatását kérheti a személyes gondoskodást nyújtó gyermekjóléti alapellátást, gyermekvédelmi szakellátást nyújtó személyektől vagy intézményektől.
+(5) A (2) bekezdés szerinti nyilvántartás vezetése céljából a kincstár a (2) bekezdés a)–d) pontjaiban meghatározott adatok szolgáltatását kérheti a személyes gondoskodást nyújtó gyermekjóléti alapellátást, gyermekvédelmi szakellátást nyújtó személyektől vagy intézményektől.
 
-(6) A (2) bekezdés szerinti nyilvántartás adatait a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából elektronikus úton továbbítani kell a kincstárnak.
+(6)
 
 (7) A (2) bekezdés szerinti nyilvántartásból adatot kérhet a működést engedélyező szerv a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárása lefolytatása céljából.
 
@@ -3861,7 +3861,7 @@ vonatkozó adatokat kezelhet.
 - a) a fiatalkorú pártfogó felügyelőjének,
 - b) a fiatalkorú ügyében eljáró bírónak, ügyésznek,
 - c) a fiatalkorú és a vele együttesen elhelyezett gyermeke ügyében eljáró gyámhatóságnak, és
-- d) a Kormány által kijelölt szerv részére, a finanszírozásának ellenőrzése céljából.
+- d) a kincstár részére, a finanszírozásának ellenőrzése céljából.
 
 (3a) A bíróság vagy az ügyész értesítése alapján a javítóintézet nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 1998. évi XIX. törvény 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben, a javítóintézetben ellátott fiatalkorú szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
 
@@ -3902,7 +3902,7 @@ vonatkozó adatokat kezelhet.
 
 (5)
 
-141/A. § A Kormány által kijelölt szerv – a személyes gondoskodás rendszerének és finanszírozásának tervezhetősége érdekében – országos jelentési rendszert működtet. A fenntartó az országos jelentési rendszer számára köteles bejelenteni a kormányrendeletben meghatározott – személyes adatnak nem minősülő – adatokat.
+141/A. § A kincstár – a személyes gondoskodás rendszerének és finanszírozásának tervezhetősége érdekében – országos jelentési rendszert működtet. A fenntartó az országos jelentési rendszer számára köteles bejelenteni a kormányrendeletben meghatározott – személyes adatnak nem minősülő – adatokat.
 
 141/B–141/D. §
 
@@ -4410,7 +4410,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - l) a gyermekvédelmi szakellátási intézményekben, a javítóintézetben és a bölcsődében, mini bölcsődében betölthető pedagógus munkaköröket, valamint a pedagógus munkakörben foglalkoztatottak munkaidejének beosztására vonatkozó részletes szabályokat,
 - m) a gyermekvédelmi pénzbeli és természetbeni ellátások igénylésének, megállapításának, nyújtásának, folyósításának és felhasználásának részletes szabályait,
 - n) a gyámhatóság illetékességére vonatkozó szabályokat,
-- o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését,
+- o) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 139. § (2) bekezdés szerinti nyilvántartásba történő adatközlés módjára és idejére vonatkozó eljárási szabályokat,
 - p) a 15. § (10a) bekezdésében foglalt intézményeknek és fenntartójuknak, valamint a szolgáltatói nyilvántartást vezető szervnek a köznevelés információs rendszerével kapcsolatos feladatait, továbbá a köznevelés információs rendszere adatkezelőjének a 15. § (10a) bekezdés szerinti intézmények nyilvántartásával és hatjegyű köznevelési azonosítójával, valamint az ezen intézményekben pedagógus-munkakörben foglalkoztatottak nyilvántartásával és oktatási azonosító számával kapcsolatos feladatait,
 - q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügyelettel, a gyermek és a kapcsolattartásra jogosult személyek közötti kapcsolattartással, a kiskorú házasságkötésével, az örökbefogadással, a családi jogállással, a gyámsággal és a gondnoksággal kapcsolatos gyermekvédelmi és gyámügyi végrehajtási szabályokat,
 - r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására, folyósításának felfüggesztésére, a folyósítás felfüggesztésének megszüntetésére, valamint a családi pótlék szüneteltetésének kezdeményezésére irányuló eljárásra, továbbá a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
@@ -4423,7 +4423,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait,
 - y)
 - z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halmozottan hátrányos helyzete megállapítására irányuló eljárás részletes szabályait,
-- zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett országos nyilvántartásba való adatrögzítés és a nyilvántartásból történő adattörlés részletes szabályait, valamint a pénzbeli és természetbeni szociális és gyermekvédelmi ellátások országos nyilvántartását vezető szerv kijelölését.
+- zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett országos nyilvántartásba való adatrögzítés és a nyilvántartásból történő adattörlés részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
