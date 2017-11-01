@@ -2188,7 +2188,7 @@ kell megállapítani.
 - 1.
 - 2. a minisztériumban és – a Nemzeti Adó- és Vámhivatal kivételével – a költségvetési fejezetet irányító más szervnél,
 - 3. az államháztartásról szóló törvény alapján kijelölt kormányzati ellenőrzési szervnél,
-- 4. a kincstár központi szervénél, valamint Budapest és Pest megye területére kiterjedő illetékességű területi szervénél,
+- 4. a kincstár központi szervénél – ide nem értve a kincstár nyugdíjfolyósító szervét –, valamint Budapest és Pest megye területére kiterjedő illetékességű területi szervénél,
 - 5. az élelmiszerlánc-felügyeleti szervnél,
 - 6. a Nemzeti Földalapkezelő Szervezetnél,
 - 7.
@@ -2202,7 +2202,7 @@ kell megállapítani.
 - 15.
 - 16. foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 50%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, továbbá a nyugdíjfolyósító szervnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
+(2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, a fővárosi és megyei kormányhivatalnál, valamint a kincstár nyugdíjfolyósító szervénél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
 (3) A központi államigazgatási szerv legalább megyei szintű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az egészségbiztosítási szerv legalább megyei szintű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a érettségi végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 

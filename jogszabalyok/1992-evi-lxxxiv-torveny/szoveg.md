@@ -45,7 +45,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 
 4. § (1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében meghatározott nők korhatár alatti nyugellátását is –, a hozzátartozói nyugellátás és törvényben meghatározott méltányossági kifizetések fedezetére szolgál.
 
-(2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumai előállítási költségére, a kapcsolattartás elektronikus és digitális eszközeinek – ideértve a kapcsolódó szolgáltatásokat – fenntartási költségére, a jóváhagyott működési kiadások külső forrásból nem biztosított fedezetének biztosítására, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel, ideértve az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során a Nyugdíjbiztosítási Alapot terhelő összeg fedezetét.
+(2) A Nyugdíjbiztosítási Alap az (1) bekezdésben megjelölt ellátásokon túl, azok finanszírozásával, megállapításával és az adatszolgáltatással, továbbá a központi nyugdíjbiztosítási szerv és a nyugdíjfolyósító szerv hatáskörébe tartozó feladatokkal összefüggésben közvetlenül felmerült kamatkiadásokra, bankköltségre, postaköltségre – ideértve a bérmentesítő gép alkalmazásával kapcsolatos költségeket is – az ügyfelekkel való kapcsolattartás nyomtatott dokumentumainak előállítási költségére, a kapcsolattartás elektronikus és digitális eszközeinek – ideértve a kapcsolódó szolgáltatásokat – fenntartási költségére, a jóváhagyott működési kiadások külső forrásból nem biztosított fedezetének biztosítására, az ellátások fedezetére szolgáló vagyongazdálkodási tevékenység költségeire, valamint a törvényben meghatározott egyéb kiadásra használható fel, ideértve az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás során a Nyugdíjbiztosítási Alapot terhelő összeg fedezetét.
 
 (3) A kiadások fedezetét a következő bevételek képezik:
 
@@ -58,7 +58,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 - g) a nyugdíjbiztosítási tevékenységgel kapcsolatos, a Nyugdíjbiztosítási Alapból fizetett – jogalap nélkül felvett, vagy más ok miatt – visszatérült, bevételként elszámolt összeg és az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény szerint a nyugdíjbiztosítási visszautalás során a Nyugdíjbiztosítási Alapot megillető összeg,
 - h) a Nyugdíjbiztosítási Alap részére tartozás fejében átadott vagyon értékesítéséből, hozamából származó bevétel;
 - i) a Nyugdíjbiztosítási Alaphoz tartozó állami vagyon értékesítéséből és egyéb bevételeiből származó összeg;
-- j) a 10. §-ban meghatározott működési bevételek;
+- j)
 - k)
 - l) törvény alapján a Nyugdíjbiztosítási Alap részére átadandó egyéb pénzeszköz.
 
@@ -116,7 +116,11 @@ kiadásainak fedezetére szolgál.
 
 ### Működési költségvetés
 
-10. § A Nyugdíjbiztosítási Alap működtetésével kapcsolatos költségeket a nyugdíjbiztosítási költségvetési szerv költségvetésében kell biztosítani, amelyek forrása a Nyugdíjbiztosítási Alap pénzeszközei és a nyugdíjbiztosítási költségvetési szerv egyéb bevételei. Az Egészségbiztosítási Alap működtetésével kapcsolatos költségeket az Egészségbiztosítási Alap költségvetésében kell meghatározni, amelyek forrása az Egészségbiztosítási Alap pénzeszközei és az Egészségbiztosítási Alap kezelőjének egyéb – az Egészségbiztosítási Alaphoz kapcsolódó – bevételei. A fővárosi és megyei kormányhivatalok kiadásai nem az Alapokat terhelik.
+10. § (1) A Nyugdíjbiztosítási Alap működtetésével kapcsolatos költségeket, valamint a központi nyugdíjbiztosítási szervnek és a nyugdíjfolyósító szervnek a nyugdíjbiztosítási feladatok ellátásával kapcsolatos egyéb működési költségeit a Nyugdíjbiztosítási Alapból kell biztosítani, amelyek forrása a Nyugdíjbiztosítási Alap pénzeszközei.
+
+(2) Az Egészségbiztosítási Alap működtetésével kapcsolatos költségeket az Egészségbiztosítási Alap költségvetésében kell meghatározni, amelyek forrása az Egészségbiztosítási Alap pénzeszközei és az Egészségbiztosítási Alap kezelőjének egyéb – az Egészségbiztosítási Alaphoz kapcsolódó – bevételei.
+
+(3) A fővárosi és megyei kormányhivatalok kiadásai nem az Alapokat terhelik.
 
 ### Egyéb rendelkezések
 
@@ -139,7 +143,10 @@ kiadásainak fedezetére szolgál.
 
 (4) Az Alapok és kezelőik – az e törvényben meghatározott eltérésekkel – a költségvetési szervezetekre vonatkozó gazdálkodási, pénzügyi, elszámolási és számviteli rendet alkalmazzák. A társadalombiztosítás pénzügyi rendszerének sajátosságaiból adódó további eltérő szabályokról külön törvény rendelkezhet.
 
-(5)
+(5) Az Országos Nyugdíjbiztosítási Főigazgatóságnak a Magyar Államkincstárba történő beolvadása során a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes törvények módosításáról, valamint egyes költségvetési szervek feladatainak átadásáról szóló 2016. évi CIV. törvény (a továbbiakban: 2016. évi CIV. törvény) 137. §-ában foglaltakat alkalmazni kell azzal, hogy
+
+- a) a 2016. évi CIV. törvény 137. § (1) bekezdésének alkalmazásában a Magyarország 2017. évi központi költségvetéséről szóló törvény alatt a Magyarország 2018. évi központi költségvetéséről szóló törvényt kell érteni,
+- b) a 2016. évi CIV. törvény 137. § (3) bekezdése szerinti kötelezettséget legkésőbb 2018. január 5-éig kell teljesíteni.
 
 (6)
 

@@ -236,8 +236,9 @@ kezeli.
 | 13 |  | mentésirányítás |
 | 14 |  | egészségügyi tartalékok és vérkészletek |
 | 15 |  | magas biztonsági szintű biológiai laboratóriumok |
-| 16 |  | egészségbiztosítás informatikai rendszere |
+| 16 |  |  |
 | 16a |  | gyógyszer-nagykereskedelem |
+| 16b | Társadalombiztosítás | társadalombiztosítási ellátások igénybevételéhez kapcsolódó informatikai rendszerek és nyilvántartások |
 | 17 | Pénzügy | pénzügyi eszközök kereskedelmi, fizetési, valamint klíring- és elszámolási infrastruktúrái és rendszerei |
 | 18 |  | bank- és hitelintézeti biztonság |
 | 19 |  | készpénzellátás |

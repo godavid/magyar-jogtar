@@ -183,28 +183,30 @@ van szükség, és
 
 - a) az érintett nevét, lakcímét, születési dátumát,
 - b) társadalombiztosítási támogatással történő rendelés esetén az a) pontban foglaltak mellett az érintett TAJ-számát, betegségének a betegségek nemzetközi osztályozása szerinti kódját (BNO kód), valamint
-- c) közgyógyellátott beteg esetén az a) és b) pontban foglaltak mellett a közgyógyellátási igazolvány számát.
+- c) közgyógyellátott beteg esetén az a) és b) pontban foglaltak mellett a közgyógyellátási igazolvány számát,
+- d) az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) útján rendelt vény esetében az a)–c) pontban foglaltak mellett az érintett nemét, ezen kívül az érintett TAJ számát, vagy ennek hiányában más, az érintett azonosításához használt, személyazonosításra alkalmas okmány számát.
 
-(1a) Az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője biztosítja, hogy
+(1a) Az EESZT működtetője biztosítja, hogy
 
-- a) a gyógyszer, a gyógyszertárban forgalmazható gyógyászati segédeszköz rendelésére jogosult, EESZT-hez hozzáféréssel rendelkező felhasználó a vényt elektronikus úton is kiállíthassa, visszavonhassa és az EESZT útján továbbíthassa a gyógyszer, gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója részére, továbbá
-- b) az EESZT útján továbbított vény adatait az érintett, az érintett kezelőorvosa, valamint a gyógyszer, a gyógyszertárban forgalmazható gyógyászati segédeszköz 35/B. § szerint csatlakozott kiszolgálója az EESZT útján megismerhesse.
+- a) a gyógyszer, a gyógyászati segédeszköz rendelésére jogosult, EESZT-hez hozzáféréssel rendelkező felhasználó a vényt az EESZT útján elektronikus úton is kiállíthassa, visszavonhassa,
+- b) az EESZT-ben tárolt vény adatait az érintett, az érintett kezelőorvosa, valamint a gyógyszer, a gyógyászati segédeszköz 35/B. § szerint csatlakozott kiszolgálója az EESZT útján megismerhesse, továbbá
+- c) gyógyszer, gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a papíralapú vény tartalmát és a 14/A. § (1) bekezdés d) pontja szerinti adatokat az EESZT-ben rögzíthesse.
 
-(1b) Az (1a) bekezdés a) pontja szerinti vényrendelésről az érintett kérelmére a vényrendelő elektronikus formában vagy papír alapon igazolást ad ki.
+(1b)
 
-(1c) Az EESZT működtetője az EESZT útján továbbított vényekről nyilvántartást vezet, amely
+(1c) Az EESZT működtetője az EESZT útján továbbított, vagy abban rögzített vényekről nyilvántartást vezet, amely
 
-- a) a vény (1) bekezdés szerinti adatait és a vény felhasználhatóságára vonatkozó információkat,
+- a) a vény azonosító adatait, tartalmát és a vény felhasználhatóságára vonatkozó információkat,
 - b) a vény továbbítására, módosítására és visszavonására vonatkozó adatokat, valamint
 - c) a vény felhasználására vonatkozó adatokat
 
 tartalmazza.
 
-(1d) A gyógyszer, a gyógyszertárban forgalmazható gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója az EESZT-ben rögzíti a papír alapon kiállított és felhasznált vény adatait. Az EESZT működtetője az egyes vényekre vonatkozó adatokat a vény visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 5 év elteltével törli.
+(1d)
 
 (2) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója az (1) bekezdés szerinti adatokat a 4. § (2) bekezdés s) pontjában foglalt céllal kezelheti.
 
-(2a) Ha a vényt kiváltó személy nem az (1b) bekezdés szerinti módon igazolja a vényrendelést, a gyógyszer, a gyógyszertárban forgalmazható gyógyászati segédeszköz kiszolgálója TAJ szám útján ellenőrzi a vényt kiváltó személy személyazonosságát.
+(2a) Ha az EESZT útján kiállított vényt kiváltó személy nem az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet szerinti felírási igazolással igazolja a vényrendelést, a gyógyszer, a gyógyászati segédeszköz kiszolgálója jogosult a TAJ számának és személyazonosságának ellenőrzésére.
 
 (3) A gyógyszerész a 4. § (2) bekezdés z) pontja szerinti cél érdekében – amennyiben az érintett ezt írásban vagy elektronikus kapcsolattartás keretében nem tiltotta meg – megismerheti a gyógyszerellátásban részesülő biztosított által, a kötelező egészségbiztosítás terhére igénybevett, gyógyszereléssel kapcsolatos egy éven belüli adatokat – ide nem értve a mentális és viselkedészavarok kezelésére, valamint a szexuális úton terjedő betegségek kezelésére szolgáló gyógyszerekre vonatkozó adatokat – úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus formában biztosítja számára. A gyógyszerész – az adatok rögzítése nélkül – a gyógyszer nevét, mennyiségét és a kiváltás idejét ismerheti meg. Az érintettet a tiltakozás lehetőségéről tájékoztatni kell. Az érintett tiltakozását megteheti az egészségbiztosítási szervnél vagy a gyógyszerésznél. Ha az érintett tiltakozását a gyógyszerésznél tette, azt a gyógyszerész haladéktalanul köteles továbbítani az egészségbiztosítási szerv részére. Az érintett aláírásával igazolja a betekintés megtörténtét.
 
@@ -557,9 +559,11 @@ részére kell átadni.
 
 (6a) A betegjogi, ellátottjogi és gyermekjogi képviselő eljárása során keletkezett – egészségügyi és személyazonosító adatot is tartalmazó – dokumentációt az eljárás befejezését követően át kell adni a (4) bekezdés b) pontja szerinti szervnek.
 
-(7) A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás kiszolgáltatója, illetve nyújtója a vényeket 5 évig őrzi meg, azzal, hogy ha a működési nyilvántartásban nem szereplő, de valamely államban gyógyszer rendelésére jogosult személy által rendelt vényköteles gyógyszer kiadásának alapjául szolgáló külföldi vény visszaadásra kerül, a vény másolatát kell megőrizni és az expediálás tényét a vény eredeti példányán fel kell tüntetni. Gyógyászati segédeszköz szaküzletben kiszolgáltatott olyan gyógyászati segédeszköz esetén, amelynek kihordási ideje 5 évnél hosszabb, a vény megőrzési ideje a kihordási idővel azonos. A kötelező őrzési időt követően a vényeket meg kell semmisíteni.
+(7) A gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás kiszolgáltatója vagy nyújtója a papíralapú vényeket, illetve elektronikus vény kiváltásakor az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet szerint nyomtatott kiadási igazolást 5 évig őrzi meg, azzal, hogy ha a működési nyilvántartásban nem szereplő, de valamely államban gyógyszer rendelésére jogosult személy által rendelt vényköteles gyógyszer kiadásának alapjául szolgáló külföldi vény visszaadásra kerül, a vény másolatát kell megőrizni és az expediálás tényét a vény eredeti példányán fel kell tüntetni. Gyógyászati segédeszköz szaküzletben kiszolgáltatott olyan gyógyászati segédeszköz esetén, amelynek kihordási ideje 5 évnél hosszabb, a papíralapú vény, valamint a kiadási igazolás megőrzési ideje a kihordási idővel azonos. A kötelező őrzési időt követően a papíralapú vényeket és a kiadási igazolásokat meg kell semmisíteni.
 
-(7a) A (7) bekezdés szerinti megőrzési kötelezettséget az EESZT útján kiállított vény esetében az EESZT működtetője teljesíti. A gyógyszer, gyógyászati segédeszköz kiszolgálója a megőrzési időn belül jogosult adatot igényelni az EESZT útján kiállított és általa kiszolgált vényekről.
+(7a) A gyógyszer, a gyógyszertárban forgalmazható gyógyászati segédeszköz 35/B. § szerint csatlakozott kiszolgálója, az EESZT-ben rögzíti a papíralapon kiállított és felhasznált vény adatait. Az EESZT működtetője az egyes vényekre vonatkozó adatokat a vény visszavonásától, felhasználásától vagy felhasználási idejének lejártától számított 30 év elteltével törli.
+
+(7b) A gyógyszer, gyógyászati segédeszköz kiszolgálója a megőrzési időn belül jogosult adatot igényelni az EESZT útján kiállított és általa kiszolgált vényekről.
 
 (8) Az adatmegőrzés érdekében folyamatosan biztosítani kell, hogy az adathordozó az adott technikai feltételek mellett olvasható maradjon, vagy olvasható állapotba kerüljön.
 
@@ -788,7 +792,7 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 (3) Az e törvény szerinti törzsadat-nyilvántartásba tartozó nyilvántartásokhoz vagy azok miniszteri rendeletben meghatározott adataihoz 2016. június 1-jéig a nyilvántartás vezetője az EESZT útján is köteles hozzáférést biztosítani, az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvény hatálybalépésekor alkalmazott hozzáférési mód fenntartása mellett.
 
-(4) A 14/A. § szerinti elektronikus vényrendelésről a vényrendelő 2017. március 1-jéig minden esetben elektronikus formában vagy papír alapon igazolást ad ki.
+(4)
 
 37. § (1) Az e törvényben foglalt rendelkezéseket az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel együtt, azzal összhangban kell értelmezni és alkalmazni, valamint a TAJ szám kezelésére vonatkozóan az e törvényben nem szabályozott kérdésekben a személyazonosító jel helyébe lépő azonosítási módokról és azonosítási kódokról szóló 1996. évi XX. törvény rendelkezéseit kell alkalmazni.
 
