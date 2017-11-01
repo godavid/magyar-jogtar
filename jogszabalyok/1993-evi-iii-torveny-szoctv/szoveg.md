@@ -339,7 +339,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító jogerős döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
 - k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó törvényben foglalt adatokat.
 
-18/B. § (1) A Kormány által kijelölt szerv az ellátásokra való jogosultság fennállásának ellenőrzése céljából országos nyilvántartást vezet
+18/B. § (1) A kincstár az ellátásokra való jogosultság fennállásának ellenőrzése céljából országos nyilvántartást vezet
 
 - a) az időskorúak járadékáról, az aktív korúak ellátásáról, az ápolási díjról, a közgyógyellátásról, az egészségügyi szolgáltatásra való jogosultságról és a települési támogatásról,
 - b) a Gyvt. szerinti rendszeres gyermekvédelmi kedvezményről, gyermektartásdíj megelőlegezésről és otthonteremtési támogatásról (a továbbiakban együtt: gyermekvédelmi ellátások),
@@ -388,7 +388,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - g) soron kívüli ellátásra vonatkozó igény és
 - h) az előgondozás lefolytatásának időpontja, ha annak elvégzése kötelező.
 
-(2a) A fenntartó a szociális szolgáltatások területi lefedettségének megállapítása érdekében a hónap első napján az általa fenntartott szociális szolgáltatóknál, intézményeknél nyilvántartásban lévő kérelmezők Társadalombiztosítási Azonosító Jelét szociális szolgáltatónként, intézményenként (székhelyenként, telephelyenként) – családsegítés és gyermekjóléti szolgáltatás, falugondnoki és tanyagondnoki szolgáltatás, népkonyha, szenvedélybetegek alacsonyküszöbű ellátása, utcai szociális munka, nappali melegedő és éjjeli menedékhely kivételével – minden hónap ötödik napjáig megküldi a szociális hatóságnak. A szociális hatóság a kapott adatokat összeveti a 20/C. § szerinti nyilvántartás adataival, és azokból – az esetleges átfedések kiszűrésével – engedélyesenként, területileg és országosan kiszámolja az egyes szolgáltatásokra várakozó személyek számát, majd a Társadalombiztosítási Azonosító Jeleket haladéktalanul törli.
+(2a) A fenntartó a szociális szolgáltatások területi lefedettségének megállapítása érdekében a hónap első napján az általa fenntartott szociális szolgáltatóknál, intézményeknél nyilvántartásban lévő kérelmezők Társadalombiztosítási Azonosító Jelét szociális szolgáltatónként, intézményenként (székhelyenként, telephelyenként) – családsegítés és gyermekjóléti szolgáltatás, falugondnoki és tanyagondnoki szolgáltatás, népkonyha, szenvedélybetegek alacsonyküszöbű ellátása, utcai szociális munka, nappali melegedő és éjjeli menedékhely kivételével – minden hónap ötödik napjáig megküldi a kincstárnak. A kincstár a kapott adatokat összeveti a 20/C. § szerinti nyilvántartás adataival, és azokból – az esetleges átfedések kiszűrésével – engedélyesenként, területileg és országosan kiszámolja az egyes szolgáltatásokra várakozó személyek számát, majd a Társadalombiztosítási Azonosító Jeleket haladéktalanul törli.
 
 (3) Ha a területi ellátási kötelezettséggel rendelkező szolgáltató, intézmény vezetője kapacitás, illetve férőhely hiányában a szolgáltatásra vonatkozó igényt nem teljesíti, a nyilvántartott igények teljesítésének indokoltságát évente vizsgálni kell.
 
@@ -418,9 +418,9 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 20/A. §
 
-20/B. § A Kormány által kijelölt szerv – a szociális szolgáltatás rendszerének és finanszírozásának tervezhetősége érdekében – országos jelentési rendszert vezet. A fenntartó az országos jelentési és férőhelyfigyelő rendszer számára köteles bejelenteni a kormányrendeletben meghatározott – személyes adatnak nem minősülő – adatokat.
+20/B. § A kincstár – a szociális szolgáltatás rendszerének és finanszírozásának tervezhetősége érdekében – országos jelentési rendszert vezet. A fenntartó az országos jelentési és férőhelyfigyelő rendszer számára köteles bejelenteni a kormányrendeletben meghatározott – személyes adatnak nem minősülő – adatokat.
 
-20/C. § (1) A szociális hatóság a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
+20/C. § (1) A kincstár a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a 20. § (2) bekezdés a)–c) pontjában meghatározott adatokat, az ellátott telefonszáma és értesítési címe kivételével,
 - b) a személyes gondoskodást nyújtó alapszolgáltatás vagy szakosított ellátás típusát, igénybevételének és megszűnésének időpontját,
@@ -437,7 +437,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (4) Nappali melegedő, éjjeli menedékhely és családsegítés esetén, amennyiben az ellátásban részesülő személy Társadalombiztosítási Azonosító Jellel nem rendelkezik, ennek tényét kell a nyilvántartásban rögzíteni.
 
-(5) Az (1) bekezdés szerinti nyilvántartás adatait a személyes gondoskodást nyújtó szociális ellátások, szolgáltatások finanszírozásának ellenőrzése céljából elektronikus úton továbbítani kell a kincstárnak.
+(5)
 
 (6) Az (1) bekezdés szerinti nyilvántartásból adatot kérhet a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok – 92/K. § szerinti – hatósági nyilvántartására (a továbbiakban: szolgáltatói nyilvántartás) vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) a szolgáltatói nyilvántartásra és a hatósági ellenőrzésre vonatkozó eljárásának a lefolytatása céljából.
 
@@ -465,7 +465,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (2) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a szociális, gyermekjóléti és gyermekvédelmi ellátásokkal kapcsolatos adatok gyűjtése, rendszerezése és közzététele, valamint a széles körű tájékoztatás érdekében – Szociális Ágazati Portál elnevezéssel – honlapot működtet.
 
-24/B. § A szociális hatóság az általa vezetett, a 18/B. §, a 20/C. §, a Gyvt. 139. § (2) bekezdése, továbbá – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – a nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (1) bekezdése szerinti, valamint a Tny. 96. § (1) bekezdése szerinti nyilvántartásából átadja a kormányrendeletben meghatározott, a 64. § (7) bekezdése szerinti program jogosultjainak természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálatnak és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szervnek.
+24/B. § A kincstár az általa vezetett, a 18/B. §, a 20/C. §, a Gyvt. 139. § (2) bekezdése, továbbá – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – a nyugdíjfolyósító szerv a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (1) bekezdése szerinti, valamint a Tny. 96. § (1) bekezdése szerinti nyilvántartásából átadja a kormányrendeletben meghatározott, a 64. § (7) bekezdése szerinti program jogosultjainak természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálatnak és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szervnek.
 
 ### II. Fejezet — PÉNZBELI ELLÁTÁSOK
 
@@ -1092,9 +1092,7 @@ nem haladja meg, és családjának vagyona nincs.
 
 54/A. §
 
-55. §
-
-55/A. §
+55. § 55/A. §
 
 55/B. §
 
@@ -2068,9 +2066,9 @@ rendeletet alkot.
 
 (2)
 
-(3) Az országos jelentési rendszert működtető szerv bírságot szabhat ki a fenntartóval szemben, ha az országos jelentési rendszerbe történő bejelentési kötelezettségét határidőben részben vagy egészben nem teljesíti, vagy valótlan adatot szolgáltat.
+(3) A kincstár bírságot szabhat ki a fenntartóval szemben, ha az országos jelentési rendszerbe történő bejelentési kötelezettségét határidőben részben vagy egészben nem teljesíti, vagy valótlan adatot szolgáltat.
 
-(4) Nem szabható ki bírság, ha a jogsértés elkövetésétől, illetve a jogsértő állapot megszűnésétől számított öt év eltelt, vagy a (3) bekezdés szerinti esetben a hibás vagy hiányos adatról – az adatszolgáltatással megegyező módon – a fenntartó vagy a szociális szolgáltató, intézmény értesítette az országos jelentési rendszert működtető szervet. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
+(4) Nem szabható ki bírság, ha a jogsértés elkövetésétől, illetve a jogsértő állapot megszűnésétől számított öt év eltelt, vagy a (3) bekezdés szerinti esetben a hibás vagy hiányos adatról – az adatszolgáltatással megegyező módon – a fenntartó vagy a szociális szolgáltató, intézmény értesítette a kincstárt. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
 
 (5) A szociális szolgáltató, intézmény vezetőjére vonatkozó rendelkezéseket arra a személyre is alkalmazni kell, aki a szociális szolgáltató, intézmény vezetőjének jogszabályban meghatározott azon feladatát ellátja, amelyből származó jog gyakorlásával, illetve kötelesség megszegésével a jogsértést elkövették.
 
@@ -2969,7 +2967,7 @@ járul hozzá.
 - f) a szolgáltatói nyilvántartás vezetésének részletes szabályait, a szociális szolgáltatók és szociális intézmények ágazati azonosítójára és annak használatára vonatkozó szabályokat, a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások részletes szabályait, a szociális szolgáltatók és szociális intézmények ellenőrzésének részletes szabályait, a jogsértés esetén alkalmazható jogkövetkezményeket, a 92/K. § (8)–(10) bekezdése szerinti közzététel részletes szabályait, a bejegyzés hiányában nyújtott szolgáltatásokra vonatkozó szabályokat, valamint a szolgáltatói nyilvántartást vezető szerv vagy szervek és a működést engedélyező szerv vagy szervek kijelölését;
 - g) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának és elszámolásának részletes szabályait,
 - i) a foglalkoztatási támogatás igénylésével, elszámolásával kapcsolatos szabályokat,
-- j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 20/C. § szerinti nyilvántartásba történő, valamint a 20. § (2a) bekezdése szerinti adatközlés módjára és idejére vonatkozó eljárási szabályokat, továbbá az azokat működtető szerv vagy szervek kijelölését;
+- j) az országos jelentési rendszer számára bejelentendő adatok körét, valamint az országos jelentési rendszerbe és a 20/C. § szerinti nyilvántartásba történő, valamint a 20. § (2a) bekezdése szerinti adatközlés módjára és idejére vonatkozó eljárási szabályokat;
 - k) a 3. § (3) és (4) bekezdésében meghatározott személyekre vonatkozó ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat;
 - l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak részletes szabályait;
 - m)
@@ -2985,7 +2983,7 @@ járul hozzá.
 - w) az új szolgáltatóknak, intézményeknek, szolgáltatásoknak, feladatmutatóknak, ellátotti létszámnak – ezen belül a személyi gondozásban ellátható személyek legmagasabb számának –, illetve férőhelyszámnak a szolgáltatások területi lefedettségét figyelembe vevő finanszírozási rendszerbe történő befogadására és annak visszavonására vonatkozó részletes szabályokat;
 - x) az állam fenntartói feladatait ellátó szerv kijelölését, jogállását, működésének részletes szabályait, feladat- és hatáskörét, a szerv feletti irányítási jogkörök gyakorlásának részletes szabályait.
 - y) a 32/D. § (1) bekezdése és 37/C. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
-- z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait, valamint a nyilvántartást vezető szociális hatóság kijelölését.
+- z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait.
 
 (2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
