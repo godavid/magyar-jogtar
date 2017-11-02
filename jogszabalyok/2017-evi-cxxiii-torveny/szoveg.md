@@ -13,7 +13,7 @@ a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény és más
 10. § Hatályát veszti a Kttv.
 
 - a)–d)
-- e)
+- e) 134. § (2) bekezdésében az „a fővárosi és megyei kormányhivatalnál,” szövegrész,
 - f)
 
 #### 3. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
