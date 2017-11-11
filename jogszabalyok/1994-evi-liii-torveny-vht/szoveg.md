@@ -2261,7 +2261,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (2) Ha a másik lakásban a kötelezett ingóságait vagy egy részüket nem lehetett elhelyezni, raktárban vagy más alkalmas helyiségben való elhelyezésükről – a kötelezett költségére és veszélyére – a végrehajtást kérő gondoskodik. A végrehajtást kérő az ingóságokat 30 napig köteles tárolni.
 
-182/A. § (1) A végrehajtó a lakóingatlan kiürítésének foganatosítását [174. § d) pont] a december 1-jétől március 1-jéig terjedő időszakot követő időszakra halasztja el, ha a kötelezett magánszemély. Nincs helye halasztásnak az önkényesen elfoglalt lakás kiürítése során, vagy ha a kötelezettel szemben korábban rendbírságot szabtak ki.
+182/A. § (1) A végrehajtó a lakóingatlan kiürítésének foganatosítását [174. § d) pont] a november 15-től április 30-ig terjedő időszakot követő időszakra halasztja el, ha a kötelezett magánszemély. Nincs helye halasztásnak az önkényesen elfoglalt lakás kiürítése során, vagy ha a kötelezettel szemben korábban rendbírságot szabtak ki.
 
 (2) A végrehajtó a lakás kiürítésének elhalasztásáról jegyzőkönyvet készít, amelynek másolatát megküldi a feleknek.
 
@@ -4254,6 +4254,8 @@ ha e feltételek fennállása a végrehajtási iratokból nem állapítható meg
 a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a Módtv. hatálybalépését követő naptól kezdődően halasztja el a 303. § Módtv.-vel megállapított (1) bekezdésében meghatározott időszakra.
 
 (3) Azon ügyekben, amelyekben nincs helye a 303. § Módtv.-vel megállapított rendelkezései alapján a lakóingatlan kiürítése ismételt elhalasztásának, a végrehajtó a 182/A. § (4) bekezdését a Módtv. hatálybalépését követő 15 nap elteltével alkalmazza.
+
+304/A. § A 182/A. § (1) bekezdésének a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2017. évi CXXXV. törvénnyel (a továbbiakban e §-ban: Módtv.8.) megállapított rendelkezéseit azokban a Módtv.8. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a lakóingatlan kiürítésének foganatosítására még nem került sor.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 

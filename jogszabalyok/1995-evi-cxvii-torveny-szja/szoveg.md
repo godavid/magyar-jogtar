@@ -3116,7 +3116,7 @@ d) a határon túli magyarok részére felajánlott képzési és kutatási lehe
 
 e) az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan juttatás, amelyet az Európai Unió finanszíroz, melynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
 
-f) a Balassi Bálint-ösztöndíjprogram keretében folyósított ösztöndíjak,
+f) a Balassi Bálint-ösztöndíjprogram keretében folyósított ösztöndíjak és juttatások,
 
 g) az „Ösztöndíjprogram Keresztény Fiataloknak” ösztöndíjprogram keretében folyósított ösztöndíjak
 
@@ -3215,6 +3215,18 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 4.36. a Bolyai János kutatási ösztöndíj;
 
 4.37. a szakképzésről szóló törvény és az iskolai rendszerű szakképzésben részt vevő tanulók juttatásairól szóló miniszteri rendelet alapján a szakképző iskolai tanulóknak gyakorlati képzésük ideje alatt kötelezően biztosított vagy a gyakorlati képzést végző szervezet által saját döntése alapján biztosított nem pénzbeli juttatások, ideértve az utazási költségtérítést is.
+
+4.38. a külügyi és külgazdasági szakmai ismeretek fejlesztésére, valamint a külügyi és külgazdasági területet érintő ágazati szakmai kutatási és tudományos tevékenység támogatásának elősegítésért a külpolitikáért felelős miniszter által működtetett ösztöndíjprogram keretében biztosított ösztöndíj és juttatás a folyósítás időpontjától függetlenül;
+
+4.39. a felsőfokú végzettséggel rendelkező ápolókat és mentőtiszteket a mesterfokozat, az oklevelesápolói szakképzettség megszerzésében támogató, a Kormány rendeletében előírt feltételekkel kiírt pályázaton elnyert Michalicza-ösztöndíj a folyósítás időpontjától függetlenül;
+
+4.40. a kormányrendeletben meghatározott Szabóky Adolf Szakképzési Ösztöndíj a folyósítás időpontjától függetlenül;
+
+4.41. az az összeg, amelyet a magánszemély, a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott díjjal járó járadék címén kap;
+
+4.42. a Magyar Művészeti Akadémiáról szóló törvényben meghatározott művészjáradék;
+
+4.43. az Országos Tudományos Diákköri Konferencián elért eredményért járó pénzjutalom.
 
 5.
 
@@ -3391,6 +3403,16 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 7.34. a 17. FINA Úszó-, Vízilabda-, Műugró-, Műúszó- és Nyíltvízi Világbajnokság megrendezésével összefüggésben a FINA-tisztségviselők, a versenybírók részére kifizetett juttatás (különösen: a napidíj, valamint a szállás- és utazási költségek megtérítése), a sportolók részére kifizetett pénzdíj, a FINA-tisztségviselők, versenybírók, szervezőbizottsági tisztségviselők, a sportolók és önkéntesek részére adott formaruhák, természetben biztosított ellátás, a versenyekhez kapcsolódóan adott promóciós jellegű juttatások.
 
 7.35. az eredeti jogosult magánszemélynél az önálló orvosi tevékenységről szóló törvény szerinti praxisjog (megszerzésekor működtetési jog) átruházásáért kapott ellenérték.
+
+7.37. az első sikeres nyelvvizsga és az első emelt szintű, idegen nyelvből tett érettségi vizsga díjának jogszabály alapján visszatérített összege;
+
+7.38. a hallgatói hitelrendszerről szóló kormányrendelet
+
+a) alapján a gyermekvállaláshoz kapcsolódóan elengedett hallgatói hiteltartozás összege,
+
+b) szerinti hallgatói hitelszerződés alapján fennálló tartozás törlesztéséhez a munkavállaló számárakifizetett juttatás, a munkaviszony fennállásának időtartama alatt a munkavállalót terhelő előírt kötelező diákhitel törlesztő részlet erejéig, de havonta legfeljebb a minimálbér 20 százalékáig terjedő összegig;
+
+7.39. a nyugellátásban és egyes más ellátásban részesülő magánszemélyt kormányrendelet alapján megillető egyszeri juttatás a juttatás időpontjától függetlenül.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
