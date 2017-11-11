@@ -896,9 +896,17 @@ alapul.
 
 (2) A szolgalmi jogot az ingatlanügyi hatóság a jogerős határozat alapján a záradékolt vázrajz szerint vezeti át az ingatlan-nyilvántartáson.
 
-55/H. § Mentes a víziközmű-fejlesztési hozzájárulás, az igénybejelentés elbírálásának díja, a tervegyeztetés, adategyeztetés vagy ennek megfelelő szolgáltatás díja, továbbá rácsatlakozáskor a bekötési vízmérőóra költsége, a bekötési vízmérőóra felszerelésének díja és a nyomáspróba díja alól a legfeljebb 32 mm átmérőjű ivóvízvezeték és a legfeljebb 160 mm átmérőjű szennyvízvezeték bekötése.
+55/H. § (1) Mentes a víziközmű-fejlesztési hozzájárulás, az igénybejelentés elbírálásának díja, a tervegyeztetés, adategyeztetés vagy ennek megfelelő szolgáltatás díja, a kiszállási díj, az igényfelméréssel és az igénybejelentés feldolgozásával, elbírálásával kapcsolatban bármilyen tevékenység, szolgáltatás díja, továbbá rácsatlakozáskor a bekötési vízmérőóra költsége, a bekötési vízmérőóra felszerelésének díja és a nyomáspróba díja alól a legfeljebb 32 mm átmérőjű ivóvízvezeték és a legfeljebb 160 mm átmérőjű szennyvízvezeték bekötése.
 
-55/I. § Az ivóvíz-bekötővezeték kiépítésére, fertőtlenítésére, a helyszíni szemlére, a nyomáspróbára, a működőképességi és vízzárósági próbára, a geodéziai bemérésre és a vízmérési helyen a bekötési vízmérő beszerelésére, továbbá a szennyvíz-bekötővezeték létesítésére, annak a már üzemeltetett szennyvíz-törzshálózatra való bekötésére az igénybejelentő – víziközmű-szolgáltató helyett – a kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartásában szereplő személynek is megbízást adhat. A kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartását a műszaki biztonsági hatóság vezeti. A víziközmű-szolgáltató köteles az igénybejelentővel, valamint az igénybejelentő által megbízott kivitelezési jogosultsággal rendelkező személlyel együttműködni.
+(2) A víziközmű-szolgáltató a bekötési igény befogadását nem tagadhatja meg, ha a csatlakozás valamennyi jogszabályi feltétele teljesül.
+
+55/I. § (1) Az ivóvíz-bekötővezeték kiépítésére, fertőtlenítésére, a helyszíni szemlére, a nyomáspróbára, a működőképességi és vízzárósági próbára, a geodéziai bemérésre és a vízmérési helyen a bekötési vízmérő beszerelésére, továbbá a szennyvíz-bekötővezeték létesítésére, annak a már üzemeltetett szennyvíz-törzshálózatra való bekötésére az igénybejelentő – víziközmű-szolgáltató helyett – a kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartásában szereplő személynek is megbízást adhat. A kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartását a műszaki biztonsági hatóság vezeti. A nyilvántartásba olyan kivitelezési jogosultsággal rendelkező vízszerelő vehető fel, amely rendelkezik a kormány rendeletében meghatározott felelősségbiztosítással. A víziközmű-szolgáltató köteles az igénybejelentővel, valamint az igénybejelentő által megbízott kivitelezési jogosultsággal rendelkező személlyel együttműködni.
+
+(2) A kivitelezési jogosultsággal rendelkező vízszerelők nyilvántartásában kezelhető személyes adatok köre:
+
+- a) a bejelentő, a tevékenységet személyesen ellátó munkavállaló és a személyesen közreműködő tag neve, székhelye, születési helye, ideje, anyja neve, lakcíme, értesítési címe, telefonszáma, elektronikus levélcíme, képesítése,
+- b) ha a bejelentő egyéni vállalkozó, a vállalkozói nyilvántartási száma,
+- c) a díjfizető neve, számlázási címe, adószáma vagy adóazonosító jele.
 
 55/J. § (1) Ha a víziközmű-szolgáltató az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték létesítésére irányuló a bekötéssel összefüggő terveket kivitelezésre alkalmatlannak minősítette, új terv benyújtását, vagy a tervek olyan kiegészítését írta elő, amellyel az igénybejelentő nem ért egyet, az igénybejelentő a műszaki biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem beérkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
 
@@ -1443,6 +1451,8 @@ rendeletben állapítsa meg.
 (4) A Nyilvántartásba betekinteni, illetve abból adatot igényelni legkorábban 2014. szeptember 1. napjától lehet.
 
 87/B. § E törvénynek a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosításáról szóló 2017. évi LXV. törvény (a továbbiakban: Módtv.2.) 10. §-a által megállapított 58. § (3a) bekezdését a Módtv.2. hatálybalépését megelőzően megkötött érvényes szerződésekre is alkalmazni kell.
+
+87/C. § A nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel módosított 55/H. §-t a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 26. Az Európai Unió jogának való megfelelés
 

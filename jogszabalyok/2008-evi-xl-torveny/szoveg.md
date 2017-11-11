@@ -1783,7 +1783,13 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (6) Az (1) bekezdés szerinti rendeletben meghatározott bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség és az értékcsökkenés számításánál figyelmen kívül kell hagyni.
 
-(7) Mentes a csatlakozási díj és minden más, a földgázelosztónak fizetendő díj alól a legfeljebb 4 m3/óra névleges teljesítményű fogyasztásmérő beszerelése azzal, hogy ebben az esetben az elosztóvezeték építése 250 méterig díjmentes.
+(7) Mentes a csatlakozási díj és minden más, a földgázelosztónak fizetendő díj alól a legfeljebb 4 m3/óra névleges teljesítményű fogyasztásmérő beszerelése azzal, hogy ebben az esetben az elosztóvezeték építése 250 méterig díjmentes. Ha az elosztóvezeték hossza meghaladja a 250 métert, a díjakat a 250 méter feletti részre kell megfizetni.
+
+(8) A (7) bekezdés szerinti mentességet több lakást vagy több nem lakás céljára szolgáló helyiséget magában foglaló ingatlan esetében lakásonként, illetve nem lakás céljára szolgáló helyiségenként kell alkalmazni.
+
+(9) A (7) bekezdés szerinti feltételek teljesülése esetén a földgázelosztó a csatlakozási igény teljesítését nem kötheti óvadék, letét, előleg, kötbér vagy más fizetési kötelezettség teljesítéséhez, előírásához.
+
+(10) A földgázelosztó a csatlakozási igény befogadását nem tagadhatja meg, ha a csatlakozás valamennyi jogszabályi feltétele teljesül.
 
 108/A. § (1) A vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésének általános forgalmi adót is tartalmazó ára nem haladhatja meg a 2012. december 1-jén a vezetékes PB-gáz szolgáltató által alkalmazott, a vezetékes PB-gáz szolgáltatás lakossági PB-gáz fogyasztó részére történő értékesítésére vonatkozó, általános forgalmi adót is tartalmazó ár 90%-át.
 
@@ -3139,6 +3145,8 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 (3) Amennyiben az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvény hatálybalépésekor az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 104/B. § (4) bekezdése, 106. § (3) bekezdése és 108. § (2) bekezdése alapján kiadott határozatok bírósági felülvizsgálata folyamatban van, a bíróság az eljárását megszünteti.
 
 (4) E törvénynek az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvénnyel megállapított rendelkezéseit a folyamatban lévő hatósági eljárásokban és bírósági eljárásokban is alkalmazni kell.
+
+146/N. § A 108. §-nak a nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel (a továbbiakban: Mód. 5. törvény) módosított (7) bekezdését, valamint a 108. §-nak a Mód. 5. törvénnyel megállapított (8)–(10) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ### XIX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -473,7 +473,13 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására. A Hivatal a csatlakozás megtagadásának felülvizsgálatára irányuló kérelmet a döntéshez szükséges dokumentumok teljes körű rendelkezésre állásától számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmező rendszerhasználót és az érintett hálózati engedélyest értesíteni. A Hivatal eljárása díjmentes.
 
-(5) A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja. A hálózati engedélyes, az igénybejelentő és az általa megbízott vállalkozás kötelesek egymással együttműködni. Az igénybejelentő a vállalkozást a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő vállalkozások közül választhatja ki. A nyilvántartást a műszaki biztonsági hatóság vezeti.
+(5) A hálózati csatlakozást a hálózati csatlakozási szerződés megkötését követően a hálózati csatlakozási szerződés rendelkezései szerint az igénybejelentő saját beruházásban is megvalósíthatja. A hálózati engedélyes, az igénybejelentő és az általa megbízott vállalkozás kötelesek egymással együttműködni. Az igénybejelentő a vállalkozást a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő vállalkozások közül választhatja ki. A nyilvántartást a műszaki biztonsági hatóság vezeti. A nyilvántartásba olyan vállalkozás vehető fel, amely rendelkezik a kormány rendeletében meghatározott felelősségbiztosítással. A kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét kormányrendelet határozza meg.
+
+(5a) A bejelentett és jogosult villanyszerelők nyilvántartásában kezelhető személyes adatok köre:
+
+- a) a bejelentő, a tevékenységet személyesen ellátó munkavállaló és a személyesen közreműködő tag neve, székhelye, születési helye, ideje, anyja neve, lakcíme, értesítési címe, telefonszáma, elektronikus levélcíme, végzettsége, szakképesítése,
+- b) ha a bejelentő egyéni vállalkozó, a vállalkozói nyilvántartási száma,
+- c) a díjfizető neve, számlázási címe, adószáma vagy adóazonosító jele.
 
 (6) Ha a hálózati engedélyes a nyilatkozatával a hálózati csatlakozással összefüggő terveket kivitelezésre alkalmatlannak minősítette, vagy a hálózati engedélyes a hálózati csatlakozással összefüggő tervek olyan módosítását írta elő, amellyel az igénybejelentő nem ért egyet, az igénybejelentő a műszaki-biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem érkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
 
@@ -2445,7 +2451,7 @@ kérhet.
 
 (5) A rendszerhasználónak a hálózati engedélyes részére a hálózati csatlakozásra vonatkozóan tett igénybejelentését a rendszerhasználó tulajdonában lévő ingatlan esetén a csatlakozó berendezés építésére vonatkozó hozzájárulásnak kell tekinteni.
 
-124. § (1) A hálózati engedélyes a vezetékjog alapján az idegen ingatlanon
+124. § (1) A hálózati engedélyes a vezetékjog alapján közterületen és idegen ingatlanon, bejegyzett vezetékjog esetén a bejegyzett meglévő nyomvonalon
 
 - a) föld alatti és feletti vezetéket építhet, valamint ahhoz tartozó távközlési összeköttetést helyezhet el,
 - b) tartószerkezetet és azon elhelyezett átalakító- és kapcsolóberendezést helyezhet el,
@@ -2715,6 +2721,10 @@ külön díj ellenében végzett szolgáltatások körét, azok külön díjait,
 hosszúságú közcélú vezeték, valamint a szükséges új nagy/középfeszültségű és közép/középfeszültségű transzformátorállomás létesítése
 
 díjmentes.
+
+(10) A (9) bekezdés szerinti feltételek teljesülése esetén az elosztó a csatlakozási igény teljesítését nem kötheti óvadék, letét, előleg, kötbér vagy más fizetési kötelezettség teljesítéséhez, előírásához.
+
+(11) Az elosztó a csatlakozási igény befogadását nem tagadhatja meg, ha a csatlakozás valamennyi jogszabályi feltétele teljesül.
 
 146/B. § Az 500 MW-ot meghaladó névleges teljesítőképességű gépegységgel rendelkező erőmű közcélú hálózathoz történő csatlakozása esetén a villamosenergia-rendszer szabályozási költségei növekedésének kompenzálására a gépegység névleges teljesítőképességének 500 MW-ot meghaladó része után MW-onként az átviteli rendszerirányító részére a külön jogszabályban meghatározott módon és mértékben rendszerszabályozási hozzájárulást fizet. Ezen díjfizetési kötelezettség nem érinti a 146/A. § alapján teljesítendő díjfizetési kötelezettséget. A rendszerszabályozási hozzájárulás meghatározásakor figyelembe kell venni a hálózatra később csatlakozott, 500 MW-ot meghaladó névleges teljesítőképességű gépegységgel rendelkező erőmű csatlakozásának hatásait.
 
@@ -3257,7 +3267,8 @@ jár el, 45 nap,
 - 50. a villamosenergia-tárolóra és létesítésére, a villamosenergia-tárolói engedélyre, a villamosenergia-tárolói engedélyes jogaira és kötelezettségeire, a villamosenergia-tároló üzemeltetésére vonatkozó szabályokat, valamint a villamosenergia-tárolói engedélyes és az elosztó által működtetett tároló teljesítményére és a kapacitás mértékére vonatkozó részletszabályokat,
 - 51. a szélerőművek, illetve szélerőmű parkok építésére és használatbavételére kiadható hatósági engedélyek számát és az engedélyezhető szélerőművek, illetve szélerőmű parkok teljesítményét,
 - 52. a bejelentett és jogosult villanyszerelők nyilvántartására, regisztrációjára vonatkozó részletes szabályokat, valamint a nyilvántartást vezető műszaki biztonsági hatóságot,
-- 53. a hálózati csatlakozással összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt az eljáró műszaki-biztonsági hatóságot, és a műszaki biztonsági hatóság előtt indított eljárás szabályait, valamint a hálózati csatlakozás üzembe helyezésének hálózati engedélyes általi megtagadása esetén az eljáró műszaki biztonsági hatóságot, és a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait
+- 53. a hálózati csatlakozással összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt az eljáró műszaki-biztonsági hatóságot, és a műszaki biztonsági hatóság előtt indított eljárás szabályait, valamint a hálózati csatlakozás üzembe helyezésének hálózati engedélyes általi megtagadása esetén az eljáró műszaki biztonsági hatóságot, és a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait,
+- 54. a kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét
 
 rendeletben állapítsa meg.
 
@@ -3542,6 +3553,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 (3) Amennyiben az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvény hatálybalépésekor az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 143. § (5) bekezdése, 146. § (4) bekezdése és 146/A. § (3) bekezdése alapján kiadott határozatok bírósági felülvizsgálata folyamatban van, a bíróság az eljárását megszünteti.
 
 (4) E törvénynek az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvénnyel megállapított rendelkezéseit a folyamatban lévő hatósági eljárásokban és bírósági eljárásokban is alkalmazni kell.
+
+178/V. § A 146/A. §-nak a nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel megállapított (10) és (11) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
