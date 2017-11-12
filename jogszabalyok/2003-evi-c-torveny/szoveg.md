@@ -2282,13 +2282,15 @@ köteles biztosítani.
 
 (4a) Az előfizetői szerződés időtartama a felek megállapodása szerint lehet határozatlan vagy határozott.
 
-(4b) A határozott időtartamú előfizetői szerződés – a (4c) bekezdés kivételével – legfeljebb 12 hónapra köthető meg azzal, hogy a szerződés megkötését megelőzően fel kell ajánlani a határozatlan időtartamú előfizetői szerződés megkötésének lehetőségét, és be kell mutatni annak részletes feltételeit.
+(4b) A határozott időtartamú előfizetői szerződés – a (4c) és (4f) bekezdés kivételével – legfeljebb 12 hónapra köthető meg azzal, hogy a szerződés megkötését megelőzően fel kell ajánlani a határozatlan időtartamú előfizetői szerződés megkötésének lehetőségét, és be kell mutatni annak részletes feltételeit.
 
 (4c) Az előfizető kérésére a határozott időtartamú előfizetői szerződés 24 hónapra is megköthető, ha az előfizetői szerződés megkötéséhez készülékvásárlás is kapcsolódik. Az ilyen módon 24 hónapra megkötött határozott idejű előfizetői szerződésnek a készülék vásárlásához kapcsolódó törlesztő részletek nélkül számított előfizetési díja nem lehet magasabb a (4b) bekezdés szerinti 12 hónapra kötött, azonos szolgáltatási tartalmú, határozott idejű szerződések előfizetési díjától.
 
 (4d) A határozott idejű előfizetői szerződés lejártát követően a szolgáltató az előfizető kérésére külön díjazás nélkül köteles gondoskodni arról, hogy az e szerződéssel együtt vásárolt készülék bármely szolgáltató előfizetőjeként használható legyen (hálózat-függetlenítés).
 
 (4e) A (4c) bekezdés alkalmazásában készülék alatt az internet-hozzáférési szolgáltatás, illetve a médiaszolgáltatásokról és a tömegkommunikációról szóló törvényben meghatározott audiovizuális médiaszolgáltatás igénybevételét lehetővé tevő, kép és hang megjelenítésére alkalmas készüléket kell érteni.
+
+(4f) Az állam által elismert követelményeken alapuló, az internet-hozzáférés elterjedését ösztönző, kedvezményes szerződéses feltételeket biztosító internethozzáférés-szolgáltatás igénybevételére vonatkozó határozott időtartamú előfizetői szerződés a kedvezményes szerződéses feltételek igénybevételére jogosult előfizetővel abban az esetben is megköthető 24 hónapra, ha ahhoz nem kapcsolódik a (4c) bekezdés szerinti készülékvásárlás.
 
 (5) Az előfizetői szerződésnek az előfizetők és felhasználók védelmével, a díjazás hitelességével, a felek jogaival és kötelezettségeivel összefüggő további feltételeit az Elnök rendeletben állapítja meg.
 
@@ -2462,11 +2464,16 @@ adatainak egyeztetésére köteles.
 
 (13) A műsorterjesztési szolgáltatásra vonatkozó előfizetői szerződést a szolgáltató akkor is jogosult 15 napos határidővel felmondani, ha az előfizető a (6) bekezdés szerinti jogkövetkezményekre figyelmeztető értesítését követően is jogosulatlanul vételezi a műsorjelet, a beérkező műsorjelet harmadik személynek jogellenesen továbbítja, vagy a kódolt műsorjelet jogosulatlanul dekódolja.
 
-(14) A határozott időtartamú előfizetői szerződés helyébe a meghatározott idő elteltével határozatlan időtartamú előfizetői szerződés lép, kivéve, ha az előfizető egyoldalúan – vagy az előfizető és a szolgáltató közös akarattal – a határozott idő lejártát megelőzően írásban nyilatkozik arról, hogy a határozott idő leteltével a szerződést megszünteti. A határozott idő elteltét megelőző 90 napban a szolgáltató három alkalommal köteles az előfizetőt a számlalevél mellékletében, számlalevél hiányában írásban, postai úton vagy a szolgáltatás jellegéhez igazodó elektronikus úton tájékoztatni a határozott idejű szerződés határozatlan időtartamúvá átalakulásának időpontjáról. A tájékoztatásnak ki kell terjednie a szerződés átalakulásával beálló változásokra, továbbá be kell mutatnia az előfizető részére a szolgáltatónál elérhető, az előfizető jelenlegi határozott idejű szerződéséhez hasonló szolgáltatási tartalommal bíró határozott időtartamú előfizetői szerződési ajánlatokat. A felek a határozott idejű szerződés időtartamának meghosszabbításáról a szerződés megkötésekor és az előfizető kifejezett nyilatkozata esetén a határozott idő elteltét megelőzően szerződésmódosítással dönthetnek. A határozott idejű szerződés felmondásának részletes szabályait a szolgáltató az általános szerződési feltételekben határozza meg.
+(14) A határozott időtartamú előfizetői szerződés helyébe a meghatározott idő elteltével határozatlan időtartamú előfizetői szerződés lép. A határozott idő elteltét megelőző 90 napban a szolgáltató három alkalommal köteles az előfizetőt értesíteni a határozott idejű szerződés határozatlan időtartamúvá átalakulásának időpontjáról. Az értesítésnek ki kell terjednie a szerződés átalakulásával beálló változásokra, továbbá be kell mutatnia az előfizető részére a szolgáltatónál elérhető, az előfizető jelenlegi határozott idejű szerződéséhez hasonló szolgáltatási tartalommal bíró határozott időtartamú előfizetői szerződési ajánlatokat. A felek a határozott idejű szerződés időtartamának meghosszabbításáról a szerződés megkötésekor és az előfizető kifejezett nyilatkozata esetén a határozott idő elteltét megelőzően szerződésmódosítással dönthetnek. A határozott idejű szerződés felmondásának részletes szabályait a szolgáltató az általános szerződési feltételekben határozza meg.
+
+(14a) A (14) bekezdéstől eltérően nem lép határozatlan időtartamú előfizetői szerződés a határozott időtartamú szerződés helyébe
+
+- a) ha az előfizető egyoldalúan – vagy az előfizető és a szolgáltató közös akarattal – a határozott idő lejártát megelőzően írásban nyilatkozik arról, hogy a határozott idő leteltével a szerződést megszünteti, vagy
+- b) a 127. § (4f) bekezdése szerinti kedvezményes szerződéses feltételeket biztosító internethozzáférés-szolgáltatás igénybevételére vonatkozó határozott időtartamú előfizetői szerződés esetén.
 
 (15) Amennyiben az előfizető a határozott időtartamú előfizetői szerződést az ebből eredő kedvezmények figyelembevételével kötötte meg, és a szerződést felmondja a határozott időtartam lejárta előtt, vagy a szolgáltató (6)–(7), illetve (13) bekezdés szerinti felmondására szerződésszegésével okot szolgáltat, a szolgáltató kizárólag az előfizető által igénybe vett kedvezményeket követelheti, a felmondáshoz egyéb hátrányos jogkövetkezményt nem fűzhet. Ebben az esetben a szerződés felmondási ideje legfeljebb 8 nap lehet. A jogkövetkezmény alkalmazására vonatkozó további feltételeket az Elnök rendeletben állapítja meg.
 
-(16) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások esetében a (14) és (15) bekezdés nem alkalmazható. E szolgáltatások esetében az előfizető általi egyenlegfeltöltés új határozott idejű szerződés ráutaló magatartással történő megkötésének minősül. Az előfizető általi egyenlegfeltöltéssel az előző határozott idejű szerződés megszűnik azzal, hogy az előfizető hívószáma változatlan marad.
+(16) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások esetében a (14), (14a) és (15) bekezdés nem alkalmazható. E szolgáltatások esetében az előfizető általi egyenlegfeltöltés új határozott idejű szerződés ráutaló magatartással történő megkötésének minősül. Az előfizető általi egyenlegfeltöltéssel az előző határozott idejű szerződés megszűnik azzal, hogy az előfizető hívószáma változatlan marad.
 
 (17) Az előfizetői szerződés előfizető általi felmondását a szolgáltató köteles minden olyan formában lehetővé tenni, amelyet a szerződés megkötésére is alkalmaz.
 
@@ -3126,6 +3133,8 @@ tekinthetnek be.
 163/I. § (1) Az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2017. évi LXXXVIII. törvénnyel (a továbbiakban: 2017. évi LXXXVIII. törvény) megállapított 127. § (4d) bekezdést a 2017. évi LXXXVIII. törvény hatálybalépését megelőzően megkötött, a 2017. évi LXXXVIII. törvény hatálybalépésekor hatályos határozott időtartamú előfizetői szerződésekre is alkalmazni kell.
 
 (2) A 2017. évi LXXXVIII. törvénnyel megállapított 127. § (6) bekezdést és 134. § (14) bekezdést a 2017. évi LXXXVIII. törvény hatálybalépését megelőzően megkötött határozott időtartamú előfizetői szerződésekre is alkalmazni kell, azzal, hogy a 134. § (14) bekezdésében szabályozott tájékoztatási kötelezettségnek a szolgáltató az olyan határozott időtartamú előfizetői szerződések esetében köteles eleget tenni, amelyekben a szerződés időtartama a 2017. évi LXXXVIII. törvény hatálybalépését követő 90. napot követően telik el.
+
+163/J. § Az elektronikus hírközlésről szóló 2003. évi C. törvény módosításáról szóló 2017. évi CXXXVIII. törvénnyel megállapított 132. § (10) és (11) bekezdését a 2017. évi LXXXVIII. törvény hatálybalépését megelőzően megkötött szerződésekre is alkalmazni kell.
 
 ### Hatálybalépés
 
