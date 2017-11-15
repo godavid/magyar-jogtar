@@ -57,14 +57,14 @@ kerül sor,
 - a) a tanköteles gyermekének mulasztása miatt
   - aa)
   - ab) e szabálysértés elkövetéséért három hónapon belül jogerősen elmarasztalták, vagy
-- b) önkormányzati rendeletben előírt, a lakókörnyezet (kert, udvar, jogszabályban meghatározott, az ingatlanhoz kapcsolódó közterület) rendezettségének biztosítására vonatkozó kötelezettségét nem teljesíti, vagy
+- b)
 - c) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerint megfelelő munkahelyet nem fogadja el,
 - d) a számára egyszerűsített foglalkoztatás keretében felajánlott munkát nem fogadja el, vagy
 - e) a közfoglalkoztatási jogviszony létesítését megelőző három hónapon belül a közfoglalkoztatáson kívüli egyéb foglalkoztatási jogviszonya munkavállalói felmondással vagy a munkáltató azonnali hatályú felmondásával – ide nem értve a próbaidő alatti azonnali hatályú felmondást – szűnt meg,
 - f) a közfoglalkoztatási jogviszonya a közfoglalkoztató azonnali hatályú felmondásával szűnik meg,
 - g) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerinti képzési lehetőséget nem fogadja el.
 
-(4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) részére.
+(4b)
 
 (4c) A (4a) bekezdés a) pont ab) alpontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a járási hivatal adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
 
@@ -72,9 +72,9 @@ kerül sor,
 
 (4e) Ha a közfoglalkoztatási jogviszony létrehozását követően értesül a járási hivatal a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
 
-(4f) A (4a) bekezdés b) pontja szerinti esetben a megkeresésre nincsen szükség, amennyiben a közfoglalkoztatást a közfoglalkoztatott lakóhelye szerinti helyi önkormányzat, annak intézménye, vagy a helyi önkormányzat által alapított gazdálkodó szervezet valósítja meg, vagy az önkormányzatnak nincs a (4a) bekezdés b) pont szerinti hatályos rendelete.
+(4f)
 
-(4g) A (4f) bekezdés hatálya alá tartozó közfoglalkoztató megtagadhatja a közfoglalkoztatási jogviszony létesítését, amennyiben a közfoglalkoztatottal szemben a (4a) bekezdés b) pontja szerinti kizárási ok fennállásáról van tudomása.
+(4g)
 
 (4h) A (4a) bekezdés d) pontja szerinti kizárási ok esetén a járási hivatal a döntése meghozatala előtt ellenőrzi a rendelkezésére álló – különösen az állami adóhatóság által az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint megküldött – adatokat.
 
