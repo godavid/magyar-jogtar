@@ -1642,7 +1642,11 @@ kommunikálhat.
 
 (2) A 49/A. § (5) bekezdés h) pontja szerinti adat nyilvántartása 2018. január 1-jétől kötelező, ezt megelőzően a közjegyzői iroda kérheti az adat nyilvántartásba vételét.
 
-#### 180–182. §
+#### 180. §
+
+181. § E törvénynek a közjegyzőkről szóló 1991. évi XLI. törvény és egyes igazságügyi tárgyú törvények módosításáról szóló 2017. évi CXIX. törvénnyel megállapított 17. § (1) bekezdés g) pontját a 2018. január 1-jét megelőzően meghirdetett pályázatoknál nem kell alkalmazni.
+
+#### 182. §
 
 ### Felhatalmazás
 

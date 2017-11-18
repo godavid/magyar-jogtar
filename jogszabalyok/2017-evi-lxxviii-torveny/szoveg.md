@@ -513,7 +513,10 @@ rendeletben szabályozza.
 
 (4) Az ügyvédi nyilvántartásba jogi előadóként való felvétel iránti kérelem 2017. október 1-től terjeszthető elő. A kérelemről az ügyvédi kamara elnöksége az e törvény szerinti feltételek alapján dönt. Ha a területi kamara elnöksége a kérelemnek helyt ad, a jogi előadót legkorábban 2018. január 1-jei hatállyal veszi nyilvántartásba.
 
-(5) A (3) és (4) bekezdésben meghatározott kérelmet elektronikus úton kell előterjeszteni.
+(5) A (3) és (4) bekezdésben meghatározott kérelmet elektronikus úton kell előterjeszteni. A kérelemnek helyt adó határozat alapján a 2018. január 1-től hatályos szabályok alkalmazásával 2018. január 1-jét megelőzően is
+
+- a) leteheti a kérelmező az e törvény szerinti esküt vagy fogadalmat,
+- b) kibocsátható, előállítható és kiadható a kérelmező részére az e törvény szerinti, 2018. január 1-jétől használható arcképes igazolvány.
 
 (6) Az a kamarai jogtanácsos és jogi előadó, aki a (3) és (4) bekezdés szerinti kérelmét legkésőbb 2017. október 31. napjáig előterjeszti, ha az eljárás felfüggesztésére nem kerül sor, az eskü-, illetve fogadalomtételéig vagy, ha a kérelemnek nem adnak helyt az eljárás jogerős befejezéséig jogtanácsosi, illetve jogi előadói tevékenységét a jogtanácsosi tevékenységről szóló 1983. évi 3. törvényerejű rendelet és a jogtanácsosi tevékenységről szóló 1983. évi 3. törvényerejű rendelet végrehajtásáról szóló 7/1983. (VIII. 25.) IM rendelet 2017. december 31-én hatályos rendelkezései szerint folytathatja.
 
@@ -523,7 +526,7 @@ rendeletben szabályozza.
 
 (9) Az ügyvédi tevékenységből eredő károk, valamint személyiségi jogsértés miatt járó sérelemdíj biztosításához szükséges felelősségbiztosítás összege
 
-- a) 2018. december 31-ig káreseményenként legalább tízmillió forint,
+- a) 2018. január 1-jétől 2018. december 31-ig káreseményenként legalább tízmillió forint,
 - b) 2019. december 31-ig káreseményenként legalább tizenegymillió forint,
 - c) 2020. december 31-ig káreseményenként legalább tizenkétmillió forint,
 - d) 2021. december 31-ig káreseményenként legalább tizenhárommillió forint,
@@ -580,6 +583,8 @@ rendeletben szabályozza.
 (32) A Magyar Ügyvédi Kamara teljes ülése 2018. január 1-jétől a Magyar Ügyvédi Kamara küldöttgyűléseként működik tovább.
 
 (33) Az ügyvédi kamarák az Eüsztv. 109. § (3) bekezdése szerinti információátadási szabályzataikat a 2018. január 1-jétől hatályos szabályoknak megfelelő tartalommal 2017. október 1-ig kötelesek a Felügyeletnek véleményezés céljából megküldeni.
+
+(34) Ha a 2018. január 1-je előtt indult bírósági, hatósági vagy más közhatalmi eljárásban alkalmazandó jogszabály jogtanácsos jogi képviseleti jogáról rendelkezik, 2018. január 1-jétől jogi képviselőként – a (6) bekezdésben meghatározott kivétellel – kamarai jogtanácsos járhat el, és az e jogszabályoknak a jogi előadóra vonatkozó szabályai szerint 2018. január 1-jétől ügyvédi kamarai nyilvántartásba vett jogi előadó járhat el.
 
 #### 92.
 
