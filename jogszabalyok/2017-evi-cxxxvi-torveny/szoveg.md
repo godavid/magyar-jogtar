@@ -16,9 +16,7 @@ az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény hatálybal�
 
 21. § (1)
 
-(2) A Kjtv. „Átmeneti rendelkezések” alcíme a következő 181. §-sal egészül ki:
-
-„181. § E törvénynek a közjegyzőkről szóló 1991. évi XLI. törvény és egyes igazságügyi tárgyú törvények módosításáról szóló 2017. évi CXIX. törvénnyel megállapított 17. § (1) bekezdés g) pontját a 2018. január 1-jét megelőzően meghirdetett pályázatoknál nem kell alkalmazni.”
+(2)
 
 22–23. §
 
@@ -100,19 +98,7 @@ az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény hatálybal�
 
 #### 22. A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény módosítása
 
-53. § (1) A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény (a továbbiakban: Nsztv.) 10. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A kihirdető jogszabálynak a szerződés kihirdetéséről rendelkező és annak szövegét tartalmazó rendelkezései hatálybalépésének időpontját úgy kell meghatározni, hogy az azonos legyen a szerződés Magyarország tekintetében történő hatálybalépésének, a szerződés ideiglenes alkalmazása esetében a Magyarország tekintetében való ideiglenes alkalmazás kezdetének időpontjával.
-
-(4) Ha a szerződés hatálybalépésének, illetve ideiglenes alkalmazása kezdetének naptári napja a szerződés kihirdetésekor nem ismert, a kihirdető jogszabály a (3) bekezdés szerinti rendelkezések tekintetében a szerződés hatálybalépésének, illetve ideiglenes alkalmazásának feltételeire utal azzal, hogy a szerződés hatálybalépésének, illetve ideiglenes alkalmazása kezdetének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
-
-(5) A kihirdető jogszabálynak az (1) bekezdés g) pontjában meghatározott rendelkezései hatálybalépésének időpontját úgy kell meghatározni, hogy azok legkésőbb a (3) bekezdés szerinti időpontban hatályba lépjenek.”
-
-(2) Az Nsztv. 15. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a nemzetközi szerződés kötelező hatályának Magyarország tekintetében való beálltára vagy ideiglenes alkalmazására a szerződés kihirdetését megelőzően került sor, az adott nemzetközi szerződést kihirdető jogszabály nem tartalmazza a kötelező hatály elismerésére adott felhatalmazást, illetve az ideiglenes alkalmazás jóváhagyását. Ha a kihirdető jogszabály vagy az azt hatályon kívül helyező jogszabály kihirdetését megelőzően az érintett nemzetközi szerződéssel összefüggésben Magyarország tekintetében már keletkezett vagy megszűnt nemzetközi jogi kötelezettség, a nemzetközi jogi kötelezettség keletkezése vagy megszűnése időpontját a jogszabály címe alatt zárójelben fel kell tüntetni.”
-
-54. § Hatályát veszti az Nsztv. 11. § (2) bekezdése.
+53–54. §
 
 #### 23. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló2005. évi CXXXV. törvény módosítása
 
@@ -372,13 +358,7 @@ lép hatályba.
 
 „(2) A kamarai jogtanácsos, az irányításával a helyettesítésére jogosult, valamint a kamarai jogtanácsos ügyfelének a kamarai szabályzatban meghatározott követelményeknek megfelelő munkavállalója az ügyfele és a vele szerződő személy jognyilatkozatáról okiratot szerkeszthet.”
 
-(2) Az Üttv. 110. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Ha a taggyűlés döntése alapján a pénzmosás és a terrorizmus finanszírozásának megelőzéséről és megakadályozásáról szóló rendelkezésekben foglalt kötelezettségeket az ügyvédi iroda teljesíti, a kötelezettség teljesítéséért a fegyelmi felelősség
-
-a) a kötelezettség teljesítéséért ténylegesen felelős természetes személyt, vagy
-
-b) ha ez a személy nem állapítható meg, vagy a területi kamara fegyelmi hatásköre nem terjed ki rá, az irodavezető ügyvédet – több irodavezető esetén az irodavezető ügyvédeket közösen – terheli.”
+(2)
 
 (3) Az Üttv. 127. § (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -400,23 +380,7 @@ b) ha ez a személy nem állapítható meg, vagy a területi kamara fegyelmi hat
 
 „(6) A területi kamara az általa felügyelt ügyvédi tevékenységet gyakorlókat a pénzmosás és a terrorizmus finanszírozásának megelőzéséről és megakadályozásáról szóló törvény szerinti felügyeleti kockázatértékelésben meghatározott kockázati csoportokba sorolja. A legmagasabb kockázatú csoportba tartozók esetén legalább évente, de legfeljebb félévente, a legalacsonyabb kockázatú csoportba tartozók esetén legalább ötévente ellenőrzési terv szerinti ellenőrzést kell folytatni.”
 
-(7) Az Üttv. 208. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (3) és (4) bekezdésben meghatározott kérelmet elektronikus úton kell előterjeszteni. A kérelemnek helyt adó határozat alapján a 2018. január 1-től hatályos szabályok alkalmazásával 2018. január 1-jét megelőzően is
-
-a) leteheti a kérelmező az e törvény szerinti esküt vagy fogadalmat,
-
-b) kibocsátható, előállítható és kiadható a kérelmező részére az e törvény szerinti, 2018. január 1-jétől használható arcképes igazolvány.”
-
-(8) Az Üttv. 208. § (9) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Az ügyvédi tevékenységből eredő károk, valamint személyiségi jogsértés miatt járó sérelemdíj biztosításához szükséges felelősségbiztosítás összege)
-
-„a) 2018. január 1-jétől 2018. december 31-ig káreseményenként legalább tízmillió forint,”
-
-(9) Az Üttv. 208. §-a a következő (34) bekezdéssel egészül ki:
-
-„(34) Ha a 2018. január 1-je előtt indult bírósági, hatósági vagy más közhatalmi eljárásban alkalmazandó jogszabály jogtanácsos jogi képviseleti jogáról rendelkezik, 2018. január 1-jétől jogi képviselőként – a (6) bekezdésben meghatározott kivétellel – kamarai jogtanácsos járhat el, és az e jogszabályoknak a jogi előadóra vonatkozó szabályai szerint 2018. január 1-jétől ügyvédi kamarai nyilvántartásba vett jogi előadó járhat el.”
+(7)–(9)
 
 (10) Az Üttv. 1. melléklete az 1. melléklet szerint módosul.
 
