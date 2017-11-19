@@ -361,7 +361,7 @@ kézbesítettnek kell tekinteni.
 
 (6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
 
-(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait.
+(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Közszolgálati Döntőbizottság elnökét és helyettesét, valamint tagjait.
 
 (8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter dönt az 55. §-ban meghatározott kormányzati kirendelés elrendeléséről.
 
@@ -1197,7 +1197,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 
 (2)–(4)
 
-(5) A kormánytisztviselő a teljesítményértékelés vagy minősítés tartalmának vizsgálata iránt a Kormánytisztviselői Döntőbizottsághoz fordulhat. A Kormánytisztviselői Döntőbizottság határozatával szemben kizárólag jogi tények vizsgálata tekintetében, jogszabálysértésre hivatkozással – hibás vagy valótlan ténymegállapításának megsemmisítése iránt – a kormánytisztviselő közszolgálati jogvitát kezdeményezhet a bíróságnál.
+(5) A kormánytisztviselő a teljesítményértékelés vagy minősítés tartalmának vizsgálata iránt a Közszolgálati Döntőbizottsághoz fordulhat. A Közszolgálati Döntőbizottság határozatával szemben kizárólag jogi tények vizsgálata tekintetében, jogszabálysértésre hivatkozással – hibás vagy valótlan ténymegállapításának megsemmisítése iránt – a kormánytisztviselő közszolgálati jogvitát kezdeményezhet a bíróságnál.
 
 66. § (1) Bizalomvesztésnek minősül, ha a kormánytisztviselő a 76. § (2) bekezdésében meghatározott kötelezettségének nem tesz eleget.
 
@@ -1434,7 +1434,7 @@ alakul át.
 - f) hozzátartozója halálakor két munkanapra,
 - g) a 80. § (1) bekezdése szerinti továbbképzésben, valamint a 81. §-ban foglaltak szerint a képzésben való részvételhez szükséges időre,
 - h) önkéntes, illetőleg létesítményi tűzoltói szolgálat ellátása időtartamára,
-- i) bíróság, hatóság, Kormánytisztviselői Döntőbizottság vagy etikai eljárás lefolytatása során az MKK felhívására vagy az eljárásban való személyes részvételhez szükséges időtartamra,
+- i) bíróság, hatóság, Közszolgálati Döntőbizottság vagy etikai eljárás lefolytatása során az MKK felhívására vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 - j) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára, továbbá
 - k) e törvényben, e törvény végrehajtására kiadott jogszabályban, valamint a közszolgálati szabályzatban meghatározott időtartamra,
 - l) a munkáltató engedélye alapján.
@@ -2740,7 +2740,7 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 - c) a minősítést végző vezető,
 - d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
-- f) munkaügyi per kapcsán az eljáró bíróság, illetve a közszolgálati panasz kapcsán a Kormánytisztviselői Döntőbizottság,
+- f) munkaügyi per kapcsán az eljáró bíróság, illetve a közszolgálati panasz kapcsán a Közszolgálati Döntőbizottság,
 - g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
 - h) törvényességi ellenőrzési feladatkörében eljárva az ügyész,
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
@@ -2881,9 +2881,9 @@ terjed ki.
 
 ### Jogvita
 
-190. § (1) A kormánytisztviselő a kormányzati szolgálati jogviszonyból származó igényének érvényesítése érdekében – a (2) bekezdésben meghatározott esetekben – közszolgálati panaszt nyújthat be a Kormánytisztviselői Döntőbizottsághoz. A munkáltató és az érdek-képviseleti szerv az e törvényből származó igényét bíróság előtt érvényesítheti.
+190. § (1) A kormánytisztviselő a kormányzati szolgálati jogviszonyból származó igényének érvényesítése érdekében – a (2) bekezdésben meghatározott esetekben – közszolgálati panaszt nyújthat be a Közszolgálati Döntőbizottsághoz. A munkáltató és az érdek-képviseleti szerv az e törvényből származó igényét bíróság előtt érvényesítheti.
 
-(2) A közszolgálati panaszt a sérelmesnek tartott munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül lehet a Kormánytisztviselői Döntőbizottsághoz benyújtani
+(2) A közszolgálati panaszt a sérelmesnek tartott munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül lehet a Közszolgálati Döntőbizottsághoz benyújtani
 
 - a) a kormányzati szolgálati jogviszony megszüntetésével;
 - b) az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítással;
@@ -2892,50 +2892,50 @@ terjed ki.
 - e) a kinevezés egyoldalú módosításával;
 - f) a sérelemdíj megfizetése ügyében hozott határozattal
 
-kapcsolatos ügyekben. A Kormánytisztviselői Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a munkáltató a döntés közlésétől számított harminc napon belül bírósághoz fordulhat.
+kapcsolatos ügyekben. A Közszolgálati Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a munkáltató a döntés közlésétől számított harminc napon belül bírósághoz fordulhat.
 
 (3) A kormánytisztviselő közvetlenül a bírósághoz fordulhat keresetével
 
-- a) ha a Kormánytisztviselői Döntőbizottság a (9) bekezdésben meghatározott határidőn belül nem bírálja el a közszolgálati panaszt, ebben az esetben a határidő lejártától számított harminc napon belül,
+- a) ha a Közszolgálati Döntőbizottság a (9) bekezdésben meghatározott határidőn belül nem bírálja el a közszolgálati panaszt, ebben az esetben a határidő lejártától számított harminc napon belül,
 - b) a fizetési felszólítással szemben a sérelmesnek tartott munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül,
 - c) a (2) bekezdésben és a b) pontban meghatározottakon kívüli egyéb tárgyú igény esetén az igény érvényesítésére vonatkozó elévülési időn belül.
 
-(4) A kormánytisztviselő a (3) bekezdés b) és c) pontjaiban meghatározott esetekben, a munkáltató bármely e törvényből származó igényével összefüggésében véleményt kérhet a Kormánytisztviselői Döntőbizottságtól az igény megalapozottságáról. A Kormánytisztviselői Döntőbizottság véleményezési eljárása (a továbbiakban: véleményezési eljárás) nem érinti az e törvény alapján biztosított bírósághoz fordulás jogát. A véleményezési eljárásra a (9) bekezdés megfelelően alkalmazandó, azzal, hogy a Kormánytisztviselői Döntőbizottság nem határozatot hoz, hanem a Kormánytisztviselői Döntőbizottság tagja által kiadmányozott és indokolással ellátott véleményt bocsájt ki. A véleményezési eljárásra a (11) és (12) bekezdés nem alkalmazható.
+(4) A kormánytisztviselő a (3) bekezdés b) és c) pontjaiban meghatározott esetekben, a munkáltató bármely e törvényből származó igényével összefüggésében véleményt kérhet a Közszolgálati Döntőbizottságtól az igény megalapozottságáról. A Közszolgálati Döntőbizottság véleményezési eljárása (a továbbiakban: véleményezési eljárás) nem érinti az e törvény alapján biztosított bírósághoz fordulás jogát. A véleményezési eljárásra a (9) bekezdés megfelelően alkalmazandó, azzal, hogy a Közszolgálati Döntőbizottság nem határozatot hoz, hanem a Közszolgálati Döntőbizottság tagja által kiadmányozott és indokolással ellátott véleményt bocsájt ki. A véleményezési eljárásra a (11) és (12) bekezdés nem alkalmazható.
 
 (5) A jogviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a kormánytisztviselő a közszolgálati panaszt, a munkáltató a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül terjesztheti elő. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
 
-(6) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a kormánytisztviselő a Kormánytisztviselői Döntőbizottsághoz, illetve a bírósághoz akkor fordulhat, ha e törvény megengedi.
+(6) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a kormánytisztviselő a Közszolgálati Döntőbizottsághoz, illetve a bírósághoz akkor fordulhat, ha e törvény megengedi.
 
 (7) A közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a Kormánytisztviselői Döntőbizottsághoz intézett közszolgálati panaszt, illetve a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján megküldték. Ha a fél a közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet. Az igény hat hónap elteltével nem érvényesíthető.
 
 (8) A (2) bekezdés b) és c) pontjában, valamint a (3) bekezdés b) pontjában foglalt esetben a sérelmezett intézkedés, továbbá a fegyelmi és kártérítési ügyben hozott határozat – kivéve a hivatalvesztés fegyelmi büntetést kiszabó fegyelmi határozatot – a bíróság jogerős döntéséig nem hajtható végre.
 
-(9) A közszolgálati panaszt a Kormánytisztviselői Döntőbizottság annak kézhezvételétől számított hatvan napon belül indokolással ellátott határozatban bírálja el és döntését írásban közli. Ezt a határidőt indokolt esetben a Kormánytisztviselői Döntőbizottság egy alkalommal hatvan nappal meghosszabbíthatja.
+(9) A közszolgálati panaszt a Közszolgálati Döntőbizottság annak kézhezvételétől számított hatvan napon belül indokolással ellátott határozatban bírálja el és döntését írásban közli. Ezt a határidőt indokolt esetben a Közszolgálati Döntőbizottság egy alkalommal hatvan nappal meghosszabbíthatja.
 
-(10) A Kormánytisztviselői Döntőbizottság hatásköre az e törvény hatálya alá tartozó államigazgatási szervnél keletkezett jogvitára terjed ki.
+(10) A Közszolgálati Döntőbizottság hatásköre az e törvény hatálya alá tartozó államigazgatási szervnél keletkezett jogvitára terjed ki.
 
-(11) A közszolgálati panaszt háromfős tanács bírálja el. Az ügy elbírálásában eljáró tanács tagjait és a tanács elnökét a Kormánytisztviselői Döntőbizottság elnöke jelöli ki. A tanács elnöke az lehet, aki egyetemi szintű végzettséggel és jogász szakképzettséggel rendelkezik.
+(11) A közszolgálati panaszt háromfős tanács bírálja el. Az ügy elbírálásában eljáró tanács tagjait és a tanács elnökét a Közszolgálati Döntőbizottság elnöke jelöli ki. A tanács elnöke az lehet, aki egyetemi szintű végzettséggel és jogász szakképzettséggel rendelkezik.
 
 (12) A tanács a határozatát többségi szavazással hozza.
 
-(13) A Kormánytisztviselői Döntőbizottság eljárása illeték- és költségmentes.
+(13) A Közszolgálati Döntőbizottság eljárása illeték- és költségmentes.
 
-(14) A Kormánytisztviselői Döntőbizottság a jogellenes jogviszony megszüntetésének jogkövetkezményeiről a 193–194. §-okban meghatározottak szerint dönt.
+(14) A Közszolgálati Döntőbizottság a jogellenes jogviszony megszüntetésének jogkövetkezményeiről a 193–194. §-okban meghatározottak szerint dönt.
 
-191. § (1) A Kormánytisztviselői Döntőbizottság elnökét és helyettesét, valamint tagjait (közszolgálati biztosok) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki határozatlan időre.
+191. § (1) A Közszolgálati Döntőbizottság elnökét és helyettesét, valamint tagjait (közszolgálati biztosok) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki határozatlan időre.
 
-(2) A Kormánytisztviselői Döntőbizottság tagja az lehet, aki
+(2) A Közszolgálati Döntőbizottság tagja az lehet, aki
 
 - a) legalább ötéves közigazgatási gyakorlattal, és
 - b) felsőfokú iskolai végzettséggel, és
 - c) közigazgatási vagy jogi szakvizsgával rendelkezik, és
 - d) közszolgálati jog területén gyakorlatot szerzett.
 
-(3) Nem keletkeztet összeférhetetlenséget, ha a kormánytisztviselő, illetve a szakmai vezető a Kormánytisztviselői Döntőbizottság tagja.
+(3) Nem keletkeztet összeférhetetlenséget, ha a kormánytisztviselő, illetve a szakmai vezető a Közszolgálati Döntőbizottság tagja.
 
 (4) A közszolgálati panasz elbírálásában eljáró tanács tagjának összeférhetetlenségére a fegyelmi eljárásban kormányrendelet által meghatározott összeférhetetlenségi szabályokat kell megfelelően alkalmazni.
 
-(5) A Kormánytisztviselői Döntőbizottság szervezetére, eljárására és tagjainak juttatásaira vonatkozó szabályokat a Kormány rendeletben állapítja meg.
+(5) A Közszolgálati Döntőbizottság szervezetére, eljárására és tagjainak juttatásaira vonatkozó szabályokat a Kormány rendeletben állapítja meg.
 
 ### Elévülés
 
@@ -3507,7 +3507,7 @@ munkanapra emelkedik.
 - b) a Magyar Kormánytisztviselői Karra vonatkozó rendelkezések (28–35. §),
 - c) a rendelkezési állományú katona továbbfoglalkoztatására vonatkozó rendelkezések (41/A–B. §)
 - d) a kormányzati érdekből történő kirendelés (55. §),
-- e) a jogvitára, valamint a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezések (190–191. §),
+- e) a jogvitára, valamint a Közszolgálati Döntőbizottságra vonatkozó rendelkezések (190–191. §),
 - f) az összeférhetetlenségre vonatkozó 85. § (1) és (1a) bekezdés,
 - g)
 
@@ -3970,7 +3970,7 @@ vonatkozó részletes szabályokat;
 
 - 7. a kiválasztási eljárásra, a kiválasztás rendjére és feltételeire, a kormányzati személyügyi igazgatási feladatokat ellátó szerv által lefolytatott pályáztatás rendjére, annak szervezésére és lebonyolítására, a kompetencia-vizsgálatra és a toborzási adatbázisra vonatkozó részletes szabályokat megállapítsa;
 - 8. megállapítsa a címzetes főjegyzői cím adományozásának, megszűnésének és visszavonásának eljárási szabályait, valamint a címadományozási juttatás kifizetésére vonatkozó részletes szabályokat;
-- 9. a Kormánytisztviselői Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Kormánytisztviselői Döntőbizottság jogállására, juttatásaira, továbbá a Kormánytisztviselői Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat megállapítsa;
+- 9. a Közszolgálati Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Közszolgálati Döntőbizottság jogállására, juttatásaira, továbbá a Közszolgálati Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat megállapítsa;
 - 10. megállapítsa
   - a) a munkaidőkeretre, az egyenlőtlen munkaidő-beosztásra, a heti pihenőidőre,
   - b) a távmunkavégzésre,

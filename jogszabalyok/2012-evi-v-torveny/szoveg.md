@@ -35,7 +35,7 @@ is megfelelően érteni kell.
 
 (3) 2012. június 30-ig a kormányzati szolgálati jogviszonyban álló kormányzati szolgálati jogviszonyából származó igényét, továbbá a munkáltató és az érdek-képviseleti szerv a Kttv.-ből származó igényét a Kttv. 238. §-ának megfelelő alkalmazásával érvényesítheti.
 
-(4) A Kttv.-nek a Kormánytisztviselői Döntőbizottságra vonatkozó rendelkezéseit a 2012. július 1-jén és azt követően indított igényérvényesítések esetén kell alkalmazni.
+(4) A Kttv.-nek a Közszolgálati Döntőbizottságra vonatkozó rendelkezéseit a 2012. július 1-jén és azt követően indított igényérvényesítések esetén kell alkalmazni.
 
 (5)
 
@@ -117,7 +117,7 @@ terjed ki.
 
 #### 18–19. §
 
-19/A. § (1) Az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel [72. §, 98. §, 109. § (2) bekezdés 15., 17., 18., és 29. pontja] megállapított Kormánytisztviselői Döntőbizottságra vonatkozó szabályokat a folyamatban lévő ügyekben is alkalmazni kell.
+19/A. § (1) Az egyes szolgálati jogviszonnyal összefüggő törvények módosításáról szóló 2012. évi CCXIV. törvénnyel [72. §, 98. §, 109. § (2) bekezdés 15., 17., 18., és 29. pontja] megállapított Közszolgálati Döntőbizottságra vonatkozó szabályokat a folyamatban lévő ügyekben is alkalmazni kell.
 
 (2) 2013. július 1-jéig teljesítményértékelés, minősítés hiányában szakmai munka értékelést kell lefolytatni.
 

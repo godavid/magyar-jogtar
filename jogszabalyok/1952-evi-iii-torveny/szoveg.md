@@ -3721,9 +3721,9 @@ a bíróság a (3)–(5) bekezdésekben meghatározottak szerint soron kívül j
 
 358/B. § Ha a munkaügyi per által érintett munkaviszonyból származó távolléti díj nem haladja meg a külön jogszabályban meghatározott mértéket, a perben félként részt vevő munkavállaló munkavállalói költségkedvezményre jogosult. A felet a munkavállalói költségkedvezmény alapján – jogszabály eltérő rendelkezése hiányában – a keresetlevél előterjesztésétől kezdve, a per egész tartamára, valamint a végrehajtási eljárásra is kiterjedően teljes költségmentesség illeti meg. A munkavállalói költségkedvezményre vonatkozó adatokat a keresetlevélben fel kell tüntetni, illetve ahhoz csatolni kell a szükséges iratokat. A fél jogosultságát a bíróság a csatolt iratok alapján hivatalból vizsgálja.
 
-### A Kormánytisztviselői Döntőbizottság határozatának felülvizsgálata iránti per
+### A Közszolgálati Döntőbizottság határozatának felülvizsgálata iránti per
 
-358/C. § A Kormánytisztviselői Döntőbizottság (a továbbiakban: Döntőbizottság) határozatának felülvizsgálata iránti perben e Fejezet rendelkezései irányadók a jelen alcímben foglalt eltérésekkel.
+358/C. § A Közszolgálati Döntőbizottság (a továbbiakban: Döntőbizottság) határozatának felülvizsgálata iránti perben e Fejezet rendelkezései irányadók a jelen alcímben foglalt eltérésekkel.
 
 359. § (1) A keresetlevelet az ellenérdekű féllel szemben, a Döntőbizottsághoz benyújtva kell előterjeszteni. A keresetlevél benyújtásának a Döntőbizottság határozata végrehajtására halasztó hatálya van.
 
