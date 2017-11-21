@@ -545,7 +545,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 (3) A Kormány a központi költségvetésről szóló törvényjavaslat indokolásában
 
 - a) tájékoztatást ad a több év költségvetési kiadási előirányzatait terhelő programok, beruházások és más fejlesztések későbbi évekre vonatkozó hatásairól,
-- b) a 29. § (1) bekezdése szerinti tervszámokkal összhangban, indokolással együtt bemutatja a tárgyévet követő négy év tervezett költségvetési bevételi előirányzatainak és költségvetési kiadási előirányzatainak keretszámait főbb csoportokban, valamint a 29. § (1) bekezdése szerinti tervszámoktól történő eltérés esetén az eltérés indokait,
+- b) a 29. § (1) bekezdése szerinti tervszámokkal mint változatlan szakpolitikát jelentő fiskális pályával összhangban, indokolással együtt bemutatja a tárgyévet követő négy év tervezett költségvetési bevételi előirányzatainak és költségvetési kiadási előirányzatainak keretszámait főbb csoportokban, valamint a 29. § (1) bekezdése szerinti tervszámoktól mint változatlan szakpolitikától történő eltérés esetén az eltérés indokait,
 - c) mellékeli a Nyugdíjbiztosítási Alap bevételeire és kiadásaira vonatkozó demográfiai folyamatokat és az azok hatásait figyelembevevő ötven évre szóló előrejelzését,
 - d) ismerteti a kormányzati szektor Gst. 1. § c) pontja szerinti egyenlegére és a Gst. 1. § e) pontja szerinti strukturális egyenlegre vonatkozó tervezett mértékeket és azok indokait.
 
@@ -648,7 +648,7 @@ szerinti bontásban,
 
 #### 20. A középtávú tervezés
 
-29. § (1) A Kormány december 31-éig egyedi határozatban megállapítja a központi költségvetés – a központi költségvetésről szóló törvényben megállapított fejezetek szerinti bontású – költségvetési bevételeinek és költségvetési kiadásainak, valamint költségvetési egyenlegének a költségvetési évet követő három évre tervezett összegét.
+29. § (1) A Kormány december 31-éig egyedi határozatban megállapítja a központi költségvetés – a központi költségvetésről szóló törvényben megállapított fejezetek szerinti bontású – költségvetési bevételeinek és költségvetési kiadásainak, valamint költségvetési egyenlegének és az államadósságnak a költségvetési évet követő három évre tervezett összegét.
 
 (2) A fejezetet irányító szerv vezetője az (1) bekezdés szerinti tervszámok megállapításához a Kormány rendeletében meghatározottak szerint adatot szolgáltat.
 
@@ -845,6 +845,8 @@ vállalható.
 (5) A (4) bekezdés rendelkezéseit alkalmazni kell a fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kiadási előirányzatai terhére végzett ügyletekre is.
 
 (6) A kiadási előirányzatok terhére nem köthető olyan jogi személlyel, jogi személyiséggel nem rendelkező szervezettel érvényesen visszterhes szerződés, illetve létrejött ilyen szerződés alapján nem teljesíthető kifizetés, amely szervezet nem minősül átlátható szervezetnek. A kötelezettséget vállaló ezen feltétel ellenőrzése céljából, a szerződésből eredő követelések elévüléséig az 55. § szerint jogosult a jogi személy, jogi személyiséggel nem rendelkező szervezet átláthatóságával összefüggő, az 55. §-ban meghatározott adatokat kezelni azzal, hogy ahol az 55. § kedvezményezettről rendelkezik, azon a jogi személyt, jogi személyiséggel nem rendelkező szervezetet kell érteni. Jogszabály további feltételeket is megállapíthat a visszterhes szerződések megkötésének vagy azok alapján történő kifizetések feltételeként.
+
+(7) A (6) bekezdésben foglaltak alkalmazása szempontjából az a külföldi jogi személy vagy jogi személyiséggel nem rendelkező szervezet, amellyel Magyarország külképviselete a külképviselet működtetése, üzemeltetése, fenntartása vagy feladatainak ellátása érdekében visszterhes – használati, bérleti, lakásbérleti, vállalkozási, közüzemi, közszolgáltatási, tervezési, kivitelezési, utazási, pénzügyi, folyószámla, betéti, biztosítási, fuvarozási, megbízási, szállítmányozási, adásvételi – szerződést köt, – a megkötött szerződés vonatkozásában – átlátható szervezetnek minősül.
 
 41/A. § Valamely természetes személy, jogi személy vagy jogi személyiség nélküli más szervezet fizetési kötelezettségének az állam vagy az államháztartás központi alrendszerébe tartozó költségvetési szerv által történő átvállalásáról kizárólag az Országgyűlés dönthet a központi költségvetésről szóló törvényben.
 
@@ -1950,6 +1952,8 @@ rendeletben szabályozza.
 (33) A nemzetiségi önkormányzatok és az általuk irányított költségvetési szervek esetében a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel megállapított 44. § (1) bekezdése szerinti, a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos, az állami adóhatóság felé teljesítendő bevallási kötelezettségeknek a kincstár által működtetett központosított illetményszámfejtés útján történő teljesítése 2018. január 1-jétől valósul meg.
 
 (34) A Nemzeti Média- és Hírközlési Hatóság esetében a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel megállapított 44. § (1) bekezdése szerinti feladatoknak és kötelezettségeknek a kincstár által működtetett központosított illetményszámfejtés útján történő teljesítése 2017. október 1-jétől valósul meg.
+
+(35) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel (a továbbiakban: Módtv.) megállapított 41. § (7) bekezdését a Módtv. hatálybalépése napján hatályos visszterhes szerződések tekintetében is alkalmazni kell.
 
 #### 111/A. §
 

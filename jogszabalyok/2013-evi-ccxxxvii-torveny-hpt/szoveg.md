@@ -39,6 +39,8 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az engedélyezési, felügyeleti és makroprudenciális tevékenysége, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
 
+(4) A 164/B. § rendelkezéseit kell alkalmazni a hitelintézet ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek nem minősülő vállalkozások tekintetében.
+
 #### 2. A pénzügyi szolgáltatás és kiegészítő pénzügyi szolgáltatás
 
 3. § (1) Pénzügyi szolgáltatás a következő tevékenységek üzletszerű végzése forintban, devizában vagy valutában:
@@ -670,7 +672,7 @@ induló tőkével alapítható.
 
 - a) az induló tőke teljes befizetésére vonatkozó igazolást,
 - b) az a) pont szerinti összeg teljes vagy részleges felhasználása esetén igazolást vagy nyilatkozatot arról, hogy a felhasználás az alapítás, vagy a működés megkezdése érdekében történt,
-- c) a hitelintézet jegyzett tőkéjében legalább ötszázalékos részesedéssel vagy szavazati joggal rendelkező tag azonosítására alkalmas adatokat,
+- c) a hitelintézet jegyzett tőkéjében legalább ötszázalékos részesedéssel vagy szavazati joggal rendelkező tag azonosítására alkalmas adatokat, valamint ha a hitelintézetnek nincs befolyásoló részesedéssel rendelkező tagja, akkor a húsz legnagyobb részesedéssel vagy szavazati joggal rendelkező tag azonosítására alkalmas adatokat,
 - d) a középtávú – az első három évre vonatkozó – üzleti tervet, ide nem értve a központi szervhez tartósan kapcsolt hitelintézetet, a működéshez szükséges személyi és tárgyi feltételek biztosítására vonatkozó igazolásokat,
 - e) a folytatni kívánt tevékenységekre vonatkozó, az általános szerződési feltételeket is tartalmazó egy vagy több üzletszabályzatot,
 - f) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megkezdeni,
@@ -1802,7 +1804,7 @@ ha azt az egyéb befektetésektől elkülönítve tartja nyilván, és elkülön
 
 #### 51/A. Harmadik országbeli hitelintézet magyarországi fióktelepének mentesítése egyes prudenciális követelmények alól
 
-105/A. § (1) A harmadik országbeli hitelintézet magyarországi fióktelepét kérelmére a Felügyelet határozatban mentesítheti az 575/2013/EU rendelet Harmadik, Negyedik, Ötödik és Hetedik Részében meghatározott követelmények teljesítése alól, ha
+105/A. § (1) A harmadik országbeli hitelintézet magyarországi fióktelepét kérelmére a Felügyelet határozatban mentesítheti az 575/2013/EU rendelet Harmadik, Negyedik, Ötödik, Hatodik és Hetedik Részében meghatározott követelmények teljesítése alól, ha
 
 - a) a fióktelep legalább öt éve létesült, vagy a fióktelepet létesítő harmadik országbeli hitelintézet legalább öt éve rendelkezik magyarországi székhelyű hitelintézetben ellenőrző befolyással,
 - b) a kérelem benyújtását megelőző öt évben a Felügyelet nem alkalmazott a fiókteleppel, illetve a fióktelepet létesítő harmadik országbeli hitelintézet ellenőrző befolyása alatt álló hitelintézettel szemben kivételes intézkedést,
@@ -1878,7 +1880,7 @@ a belső szabályzatban meghatározott mértékig.
 
 (4) Az MNB elnöke a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében a hatékony és eredményes kockázatkezelés elősegítése érdekében rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
 
-108. § (1) A hitelintézet irányítási jogkörrel rendelkező vezető testülete jóváhagyja, rendszeresen felülvizsgálja és értékeli a szervezeten belüli feladatok elkülönítésére, az összeférhetetlenség megelőzésére, a kockázatok vállalására, mérésére, kezelésére, nyomon követésére és mérséklésére vonatkozó stratégiákat és szabályzatokat, amely kiterjed a makrokörnyezet és a gazdasági ciklus állapotának változásából eredő kockázatra is.
+108. § (1) A hitelintézet irányítási jogkörrel rendelkező vezető testülete jóváhagyja, rendszeresen felülvizsgálja és értékeli a szervezeten belüli feladatok elkülönítésére és az összeférhetetlenség megelőzésére vonatkozó szabályzatokat, valamint a kockázatok vállalására, mérésére, kezelésére, nyomon követésére és mérséklésére vonatkozó stratégiákat és politikákat, amely kiterjed a makrokörnyezet és a gazdasági ciklus állapotának változásából eredő kockázatra is.
 
 (2) Az irányítási jogkörrel rendelkező vezető testület felelős az (1) bekezdésben meghatározott stratégiák és szabályzatok végrehajtásáért.
 
@@ -2712,6 +2714,8 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 (9) Nem jelenti az üzleti titok sérelmét a szanálási feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: szanálási feladatkörében eljáró MNB) által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti szanálási biztosnak a szanálási biztosi feladatok ellátása érdekében, valamint a független értékelőnek vagy az ideiglenes értékelésben közreműködőnek az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során adatok, információk átadása a lehetséges ajánlattevőknek, valamint a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás.
 
+(10) Nem jelenti az üzleti titok sérelmét a 164/B. § szerinti adattovábbítás.
+
 #### 71. Banktitok
 
 160. § (1) Banktitok minden olyan, az egyes ügyfelekről a pénzügyi intézmény rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzügyi intézmény által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.
@@ -2722,7 +2726,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 
 161. § (1) Banktitok csak akkor adható ki harmadik személynek, ha
 
-- a) a pénzügyi intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzügyi intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltásának kezdeményezését is – nyújtja,
+- a) a pénzügyi intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzügyi intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltásának kezdeményezését is – nyújtja azzal, hogy ebben az esetben a nyilatkozat azonosított elektronikus úton is megtehető,
 - b) e törvény a banktitok megtartásának kötelezettsége alól felmentést ad,
 - c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi,
 - d) a pénzügyi intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
@@ -2830,7 +2834,8 @@ részére,
 - w) ha a pénzügyi intézmény a Ptk. 6:418. §-ában meghatározott kötelezettségét teljesíti,
 - x) a szanálási feladatkörében eljáró MNB által a Szantv. szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
 - y) az elhalálozott által felvett és még vissza nem fizetett kölcsönhöz és le nem járt pénzügyi lízinghez kapcsolódóan a fennálló tartozás összegéről, a lejárt tartozás összegéről, az esedékes havi törlesztőrészletről, azon számlaszámról, amelyre a törlesztőrészletet fizetni kell (hitelszámla száma), valamint a hátralévő futamidőről az örökhagyó közeli hozzátartozója részére – annak írásbeli kérelmére – történő adatszolgáltatás a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig,
-- z) a Felügyelet MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítása.
+- z) a Felügyelet MNB tv. 57. § (1) bekezdés c) pontjában, illetve 140. § (2) bekezdésében foglalt adattovábbítása,
+- zs) a 164/B. § szerinti kölcsönös adatátadás, valamint az ezen alapuló adatkezelés.
 
 164/A. § Nem jelenti a banktitok sérelmét a hitelintézet által jelzálog-hitelintézet részére történő adatátadás abban az esetben, ha az adatátadás jelzáloglevéllel történő refinanszírozás keretében
 
@@ -2839,6 +2844,26 @@ részére,
 - c) a jelzálog-hitelintézetről és a jelzáloglevélről szóló törvényben meghatározott törvényi engedményezéskor ellátandó feladatokra történő felkészüléshez
 
 szükséges.
+
+164/B. § (1) A hitelintézetnek és az ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek a Bszt. 117. § (1) bekezdésében, az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 58. § (1) bekezdésében, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 144. § (1) bekezdésében, valamint a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 197. § (1) bekezdésében előírt titoktartási kötelezettsége, továbbá az e törvény 165. § (1) bekezdésében és a Bszt. 118. § (1) bekezdésében előírt bank- és értékpapírtitok, továbbá az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 59. §-a szerinti fizetési titok, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 135. §-a szerinti biztosítási titok, a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 198. §-a szerinti értékpapírtitok – ide értve a személyes adatokat is – megtartási kötelezettsége a (2) és (3) bekezdésben meghatározott feltételek teljesülése esetén – ha az ügyfél nem tett a (4) bekezdés szerinti korlátozó vagy tiltó nyilatkozatot – nem áll fenn egymás közti viszonyukban.
+
+(2) A hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, befektetési vállalkozás, biztosító, ABAK és ÁÉKBV-alapkezelő az általuk az ügyfélről kezelt személyes adatokat, bank-, értékpapír-, fizetési-, illetve biztosítási titoknak minősülő adatokat, valamint az üzleti titoknak minősülő adatokat tevékenységi körük ellátásával összefüggésben a szolgáltatásaik nyújtásához szükséges mértékben kölcsönösen megismerhetik, és a közös adatkezelésben részt vevő adatkezelők általános szerződési feltételeinek megfelelően, az egyedi szolgáltatásokhoz való hozzáférés biztosítása céljából egymásnak továbbíthatják és az így átvett adatokat az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelhetik.
+
+(3) A hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, befektetési vállalkozás, biztosító, ABAK és ÁÉKBV-alapkezelő a célhoz kötöttség elvének megfelelően – a kölcsönös adatátadáson alapuló közös adatkezelésben részt vevő adatkezelők általános szerződési feltételeinek megfelelően, erre vonatkozó külön megállapodás nélkül is – jogosultak egymás ügyfeleivel való kapcsolatfelvételre az (1) és (2) bekezdés szerint megismert adatok felhasználásával.
+
+(4) Az ügyfél kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a (2) bekezdés szerinti adattovábbítást.
+
+(5) Az (1)–(3) bekezdésben foglaltakat a hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek nem minősülő vállalkozások tekintetében azzal az eltéréssel kell alkalmazni, hogy az (1) bekezdésben meghatározott adatok (1)–(3) bekezdés szerinti megismerésére és kezelésére kizárólag olyan vállalkozások esetében van lehetőség, amelyek
+
+- a) készpénzkímélő digitális pénzforgalmi szolgáltatások ügyfelek általi hozzáférésének elősegítésével,
+- b) fogyasztónak nem minősülő ügyfelek gazdálkodásának digitális megoldásokkal való támogatásával,
+- c) az ügyfelek pénzügyi tudatosságának és digitális pénzügyi megoldásokról való tájékozottságának növelésével
+
+kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez kapcsolódó ügyfélkapcsolat kiépítéséhez kötődik.
+
+(6) Az (1), (2) és (5) bekezdés szerinti adatkezelés tekintetében a hitelintézet és az ellenőrző befolyása alatt működő vállalkozások a megismert adatok tekintetében egyaránt adatkezelőnek minősülnek.
+
+(7) A hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézmény, valamint az (5) bekezdés szerinti vállalkozás az ügyféllel kötendő szerződés megkötését megelőzően köteles az ügyfél részére az e §-ban foglalt közös adatkezelés érdekében történő kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy az adatai e §-ban foglalt kezelésének lehetőségét a (4) bekezdésben meghatározottak szerinti kifejezett nyilatkozatával bármikor korlátozhatja vagy megtilthatja.
 
 #### 72. Üzleti titok és banktitok közös szabályai
 
@@ -3035,7 +3060,8 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - b) az összevont felügyelet alá tartozó hitelintézettől származó információk gyűjtésére és ellenőrzésére vonatkozó eljárásokat tartalmazza,
 - c) olyan, az összevont felügyelet alá tartozó hitelintézetet, befektetési vállalkozást, pénzügyi vállalkozást, befektetési alapkezelő társaságot vagy járulékos vállalkozást érintő válsághelyzetre utal, amely súlyosan érinti a hitelintézetet,
 - d) a felügyeleti felülvizsgálat keretében előírt többlet-tőkekövetelményre, valamint a működési kockázat tőkekövetelményének fejlett mérési módszerrel történő számításának korlátozására vonatkozik, és
-- e) befolyásolja a másik EGT-állam illetékes hatóságának felügyelete alá tartozó hitelintézet vagy pénzügyi vállalkozás prudenciális helyzetét.
+- e) befolyásolja a másik EGT-állam illetékes hatóságának felügyelete alá tartozó hitelintézet vagy pénzügyi vállalkozás prudenciális helyzetét,
+- f) az általa hozott jelentősebb intézkedésekre és kivételes intézkedésekre vonatkozik.
 
 (6) Ha a Felügyelet egy másik EGT-államban székhellyel rendelkező EU-szintű anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatát felügyeli és olyan információra van szüksége, amellyel az EU-szintű anyavállalat, EU-szintű vegyes pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat felügyeleti hatósága már rendelkezik, akkor a Felügyeletnek elsődlegesen ehhez a hatósághoz kell fordulnia.
 
@@ -3043,6 +3069,8 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 
 - a) az ezen hitelintézet ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, vagy
 - b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely EGT-államban olyan hitelintézet létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul tájékoztatja az EBH-t, az érintett EGT-állam központi kormányának a pénz- és tőkepiac felügyeletére vonatkozó jogszabályokért felelős tagját, illetékes felügyeleti hatóságát, valamint központi bankját.
+
+(8) A Felügyelet sürgős esetben vagy ha az egyeztetés veszélyeztetheti a határozat végrehajtásának hatékonyságát, dönthet úgy, hogy a (7) bekezdésben foglalt egyeztetést nem folytatja le. Ebben az esetben a döntést követően haladéktalanul tájékoztatja a többi érintett EGT-állam illetékes felügyeleti hatóságát.
 
 #### 76. Felügyeleti felülvizsgálat és értékelés
 
@@ -3731,7 +3759,7 @@ betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
 #### 87. Az OBA által fizetett kártalanítás
 
-214. § (1) Az OBA a kártalanításra jogosult személy részére azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 33. § (1) bekezdése alapján vonta vissza, vagy amelynek felszámolását a bíróság elrendelte, először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig – a (2) bekezdésben foglalt kivétellel – forintban fizeti ki kártalanításként.
+214. § (1) Az OBA a kártalanításra jogosult személy részére azon betétkövetelésből, amely olyan hitelintézettel szemben áll fenn, amelynek engedélyét a Felügyelet a 33. § (1) bekezdése alapján vonta vissza, vagy amelynek felszámolását a bíróság elrendelte, először a tőke, majd a kamat összegét személyenként és hitelintézetenként összevontan legfeljebb százezer euró összeghatárig – a (4) bekezdésben foglalt kivétellel – forintban fizeti ki kártalanításként.
 
 (2) A kártalanítás forintösszegét a kártalanítás 217. § (1) bekezdésében meghatározott kezdő időpontjának napját megelőző napon érvényes a jegybanki feladatkörében eljáró MNB által közzétett hivatalos devizaárfolyam alapján kell meghatározni.
 
@@ -4833,6 +4861,10 @@ azzal, hogy 2019. január 1-jétől a 87. §-ban meghatározott mérték szerint
 304/E. § (1) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvénnyel megállapított 157. §-ban foglaltakat 2017. január 1-jétől kell alkalmazni.
 
 (2) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvénnyel hatályon kívül helyezett 260. § (3) bekezdését a 2016. június 17-ét megelőzően induló üzleti évre vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre még alkalmazni kell.
+
+304/F. § (1) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított 159. § (10) bekezdését, 164. § zs) pontját és 164/B. §-t az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
+
+(2) A 164/B. § (4) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézmény, valamint a 164/B. § (5) bekezdésében meghatározott tevékenységet folytató, a hitelintézet ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek nem minősülő vállalkozás az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződéssel rendelkező ügyfeleit legkésőbb harminc nappal a 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általuk működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesznek közzé. A 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.
 
 #### 131. Az Európai Unió jogának való megfelelés
 
