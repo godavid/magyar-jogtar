@@ -707,7 +707,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 - a) rendszeresen, de havonta legalább egyszer eleget tesz,
 - b) egységes elektronikus elérési helyen, átlátható módon tesz eleget.
 
-(3) Az MNB által, a (2) bekezdés c)–f), h) és j)–p) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
+(3) Az MNB által, a (2) bekezdés c)–h) és j)–p) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
 
 (4) Az MNB a (2) bekezdésben meghatározott közzététel során köteles a személyes adatok védelmére, a banktitokra, fizetési titokra, az értékpapírtitokra, a pénztártitokra, a biztosítási titokra, foglalkoztatói nyugdíjtitokra és az üzleti titokra vonatkozó jogszabályokat betartani.
 
@@ -840,7 +840,7 @@ folytat le.
 
 (3a) Az (1) bekezdésében meghatározott közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, a piacfelügyeleti eljárásban hozott döntések közül kizárólag az intézkedést tartalmazó határozatokra terjed ki.
 
-(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
+(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
 
 - a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
 - b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
@@ -965,7 +965,7 @@ végez.
 - c) a d) pontban foglaltakat ide nem értve
   - ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, befektetési alapkezelőnél, tőzsdénél, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
   - cb) hitelintézetnél, biztosítónál, viszontbiztosítónál, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, továbbá befektetési alapkezelőnél a tevékenységének megkezdését követő egy év elteltével,
-- d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben meghatározott Integrációs Szervezethez csatlakozott hitelintézeteknél kizárólag az összevont alapú megfelelés ellenőrzésére vonatkozóan a (3) bekezdés szerinti csoportvizsgálat keretében, a biztosítási tevékenységről szóló törvény hatodik részének hatálya alá tartozó kisbiztosítónál, kockázati tőkealapkezelőnél, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, továbbá foglalkoztatói nyugdíj szolgáltató intézménynél legalább ötévente
+- d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben meghatározott Integrációs Szervezethez csatlakozott hitelintézeteknél kizárólag az összevont alapú megfelelés ellenőrzésére vonatkozóan a (3) bekezdés szerinti csoportvizsgálat keretében, a biztosítási tevékenységről szóló törvény hatodik részének hatálya alá tartozó kisbiztosítónál, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, továbbá foglalkoztatói nyugdíj szolgáltató intézménynél legalább ötévente
 
 átfogó vizsgálatot folytat le.
 
@@ -1167,7 +1167,7 @@ rendelhet ki.
   - ab) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese,
 - b) természetes személy esetében
   - ba) legfeljebb 1 569 800 000 forint vagy
-  - bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legalább kétszerese.
+  - bb) a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének legfeljebb kétszerese.
 
 (11) A (10) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
 
@@ -1201,11 +1201,11 @@ rendelhet ki.
 
 #### 28. A felügyeleti biztos
 
-79. § (1) A 39. § (1) bekezdés a), c), f), h), i), k), l), m) és n) pontja szerinti törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 80. §-ban meghatározott szabályokat kell alkalmazni.
+79. § (1) A 39. § (1) bekezdés a), c), f), h), i), k), l) és m) pontja szerinti törvényekben meghatározott felügyeleti biztos kirendelésére az e §-ban és a 80. §-ban meghatározott szabályokat kell alkalmazni.
 
-(2) Felügyeleti biztosként kizárólag az MNB 4. § (9) bekezdésben meghatározott feladatkört ellátó munkavállalója vagy a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek felszámolását végző, nonprofit gazdasági társaság (a továbbiakban: nonprofit gazdasági társaság) jelölése alapján a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy rendelhető ki. A felügyeleti biztosi feladatokat az MNB munkavállalója és a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy együttesen is elláthatja.
+(2) Felügyeleti biztosnak kizárólag az MNB 4. § (9) bekezdésben meghatározott feladatkört ellátó munkavállalója vagy a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek felszámolását végző, nonprofit gazdasági társaság rendelhető ki (a továbbiakban: MNB által kirendelt nonprofit gazdasági társaság. A felügyeleti biztosi feladatokat az MNB munkavállalója és a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy együttesen is elláthatja.
 
-(3) Felügyeleti biztosként az rendelhető ki, aki
+(3) Felügyeleti biztosnak kirendelt MNB munkavállaló, illetve az MNB által kirendelt nonprofit gazdasági társaság által a felügyeleti biztos feladatainak ellátására kijelölt személy az lehet, aki
 
 - a) büntetlen előéletű, illetve nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a felügyeleti biztosi feladat ellátását nem teszi lehetővé és
 - b) szakirányú felsőfokú képzettséggel és legalább négyéves,
@@ -1222,26 +1222,28 @@ szerzett vezetői gyakorlattal rendelkezik.
 
 (4) A (3) bekezdés b) pontjának alkalmazásában szakirányú felsőfokú képzettséggel rendelkező személynek minősül, aki főiskolai vagy egyetemi szintű közgazdasági, jogi, pénzügyi és számviteli vagy külkereskedelmi szakképzettséggel, könyvvizsgálói vagy olyan felsőfokú szakképesítéssel rendelkezik, amely szükséges ahhoz, hogy a 39. § (1) bekezdés a), c), f), h), i), k), l) és m) pontjában meghatározott törvények által szabályozott szervezetekben ügyvezetőnek, illetve vezető állású személynek legyen kinevezhető, megválasztható.
 
-(5) Felügyeleti biztosnak nem lehet kirendelni azt, illetve e minőségében nem járhat el az,
+(5) Felügyeleti biztosnak nem lehet az MNB azon munkavállalóját kirendelni, továbbá a felügyeleti biztos feladatainak ellátására nem lehet azt a személyt kijelölni, illetve e minőségében nem járhat el az,
 
 - a) aki saját maga vagy közeli hozzátartozója a 39. § (1) bekezdés a), c), f), h), i), k), l) és m) pontjában meghatározott törvények által szabályozott, a felügyeleti biztosi tevékenységgel érintett szervezetekben a kirendelés időpontjában vagy a kirendelést követően érdekeltséggel rendelkezik, így különösen, ha tulajdonosi, kötelmi jogviszonyban áll a szervezettel, vagy attól bármilyen formában bevételre vagy díjazásra tesz szert vagy tart igényt,
 - b) akitől a felügyeleti biztos feladatainak részrehajlásmentes megítélése és tárgyilagos elintézése egyéb okból nem várható el (elfogultság).
 
-(6) Az (5) bekezdésben meghatározott bármely körülményről a felügyeleti biztos a kirendeléskor, ha az (5) bekezdésben meghatározott körülmény a kirendelés után merül fel, a körülmény felmerülését követően azonnal köteles tájékoztatni a kijelölőjét. Ebben az esetben másik felügyeleti biztos kirendelésére kerül sor.
+(6) Az (5) bekezdésben meghatározott bármely körülményről az MNB munkavállalója a kirendelésekor, illetve a felügyeleti biztos feladatainak ellátására kijelölt személy a kijelölésekor, ha az (5) bekezdésben meghatározott körülmény a kirendelés, illetve a kijelölés után merül fel, a körülmény felmerülését követően azonnal köteles tájékoztatni a kirendelőjét, illetve a kijelölőjét. Ebben az esetben másik felügyeleti biztos feladatainak ellátására más személyt kell kijelölni.
 
-(7) Az MNB munkavállalójaként kirendelt felügyeleti biztos által e minőségében harmadik személynek okozott kárért, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelemért az MNB, a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló felügyeleti biztos e minőségében harmadik személynek okozott kárért, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelemért a nonprofit gazdasági társaság köteles helytállni. A nonprofit gazdasági társaságnak rendelkeznie kell megfelelő vagyoni biztosítékkal a kártérítési, illetve a sérelemdíj-megfizetési kötelezettségek megtérítése fedezetének biztosítására.
+(7) Az MNB munkavállalójaként kirendelt felügyeleti biztos által e minőségében harmadik személynek okozott kárért, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelemért az MNB, a nonprofit gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló, a felügyeleti biztos feladatainak ellátására kijelölt személy e minőségében harmadik személynek okozott kárért, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelemért a nonprofit gazdasági társaság köteles helytállni. A nonprofit gazdasági társaságnak rendelkeznie kell megfelelő vagyoni biztosítékkal a kártérítési, illetve a sérelemdíj-megfizetési kötelezettségek megtérítése fedezetének biztosítására.
 
-(8) A kijelölt felügyeleti biztos a nonprofit gazdasági társaságnak okozott károkért, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelmekért a munkavállalók, illetve a munkavégzésre irányuló egyéb jogviszonyban állók kártérítési felelősségére, illetve sérelemdíj-megfizetésére vonatkozó szabályok szerint köteles helytállni azzal, hogy gondatlan károkozás, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelem-okozás esetén a kártérítés, illetve a sérelemdíj mértéke a kijelölt felügyeleti biztos hathavi illetményét nem haladhatja meg. Szándékos károkozás, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelem-okozás esetén a teljes kárt, illetve a sérelemdíj-követelést meg kell téríteni.
+(8) A felügyeleti biztos feladatainak ellátására kijelölt személy a nonprofit gazdasági társaságnak okozott károkért, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelmekért a munkavállalók, illetve a munkavégzésre irányuló egyéb jogviszonyban állók kártérítési felelősségére, illetve sérelemdíj-megfizetésére vonatkozó szabályok szerint köteles helytállni azzal, hogy gondatlan károkozás, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelem-okozás esetén a kártérítés, illetve a sérelemdíj mértéke a kijelölt felügyeleti biztos hathavi illetményét nem haladhatja meg. Szándékos károkozás, illetve sérelemdíj-követelés alapjául szolgáló személyiségi jogsérelem-okozás esetén a teljes kárt, illetve a sérelemdíj-követelést meg kell téríteni.
 
-(9) A nonprofit gazdasági társaságnak rendelkeznie kell megfelelő vagyoni biztosítékkal a kártérítési kötelezettségek megtérítése fedezetének biztosítására.
+(9)
 
-(10) Az MNB a kirendelt felügyeleti biztost – bejegyzés és közzététel végett – bejelenti a cégbíróságnak.
+(10) Az MNB munkavállalójaként kirendelt felügyeleti biztost az MNB, a nonprofit gazdasági társaság által a felügyeleti biztos feladatainak ellátására kijelölt személyt a nonprofit gazdasági társaság – bejegyzés és közzététel végett – bejelenti a cégbíróságnak.
 
-(11) A felügyeleti biztosi feladatok ellátására kirendelő személy a kirendelést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, illetve nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a felügyeleti biztosi feladat ellátását nem teszi lehetővé.
+(11) A felügyeleti biztosnak az MNB által kirendelt munkavállaló, illetve az MNB által kirendelt nonprofit gazdasági társaság által a felügyeleti biztos feladatainak ellátására kijelölt személy a kirendelést, illetve a kijelölést megelőzően hatósági bizonyítvánnyal igazolja az őt kirendelő, illetve az őt kijelölő felé, hogy büntetlen előéletű, illetve nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a felügyeleti biztosi feladat ellátását nem teszi lehetővé.
 
-80. § (1) A felügyeleti biztos kirendelésekor a 4. § (9) bekezdésében meghatározott feladatkörében eljáró MNB határozatban megállapítja a kirendelt felügyeleti biztos szerepét, feladatait, amelyet a kirendelés időtartama alatt az MNB bármikor határozatban módosíthat. Az MNB munkavállalójaként kirendelt felügyeleti biztos a 4. § (9) bekezdésben meghatározott feladatkörében eljáró MNB által utasítható.
+80. § (1) A felügyeleti biztos kirendelésekor a 4. § (9) bekezdésében meghatározott feladatkörében eljáró MNB döntésében megállapítja a kirendelt felügyeleti biztos szerepét, feladatait, amelyet a kirendelés időtartama alatt az MNB bármikor döntésével módosíthat. Az MNB munkavállalójaként kirendelt felügyeleti biztos a 4. § (9) bekezdésben meghatározott feladatkörében eljáró MNB által utasítható.
 
-(2) A kirendelt felügyeleti biztos az érintett szervezet pénzügyi helyzetéről és a kirendelésének időtartama alatt végzett tevékenységéről szóló, a 4. § (9) bekezdésben meghatározott feladatkörében eljáró MNB által meghatározott időszakra vagy a kirendelés teljes idejére vonatkozó jelentést készít.
+(2) A felügyeleti biztos az érintett szervezet pénzügyi helyzetéről és a kirendelésének időtartama alatt végzett tevékenységéről szóló, a 4. § (9) bekezdésben meghatározott feladatkörében eljáró MNB által meghatározott időszakra vagy a kirendelés teljes idejére vonatkozó jelentést készít.
+
+80/A. § Ha a felügyeleti biztos kirendelése a 74. § (1) bekezdés a) pontja szerinti ideiglenes intézkedés keretében végzés alapján történik, akkor arra legfeljebb egy alkalommal kerülhet sor, valamint a 79. § (1) bekezdése szerinti törvényekben meghatározottaktól eltérően a kirendelés időtartama legfeljebb négy hónap lehet, amely indokolt esetben legfeljebb kettő hónappal meghosszabbítható.
 
 #### 29. Fogyasztóvédelmi ellenőrzési eljárás
 
@@ -2114,7 +2116,7 @@ terjedhet.
   - bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
   - bc) a Hpt. 36. § (5) bekezdése szerinti határozatáról,
   - bd) a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
-  - be) a Hpt. 175. § (5) bekezdése szerinti megállapodásról, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányításról, rendszerekről, eljárásokról és mechanizmusokról,
+  - be) a Hpt. 175. § (5) bekezdése, illetve a Bszt. 161/C. § (5) bekezdése szerinti megállapodásról, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányításról, rendszerekről, eljárásokról és mechanizmusokról,
   - bf) a Hpt. 167. § (4) és (5) bekezdése szerinti értékeléséről,
   - bg) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról;
   - bh) azon hatóságok nevéről, amelyek a Hpt. 159. § (3) bekezdés b) pontja szerinti üzleti titok és 161. § (2) bekezdés c) pontja szerinti banktitok alóli mentesítés keretében információt kaptak,

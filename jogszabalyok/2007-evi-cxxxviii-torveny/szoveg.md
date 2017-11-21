@@ -966,6 +966,8 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 
 (7) Egyesüléshez, minősített befolyás megszerzéséhez, valamint az alapszabálynak az igazgatóság jogkörét megváltoztató módosításához szükséges engedély megadása előtt, ha a befektetési vállalkozás összevont alapú felügyelet alá tartozik, illetve a befektetési vállalkozásra az összevont alapú felügyelet kiterjed, a Felügyelet – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon EGT-állam hatáskörrel rendelkező felügyeleti hatóságával, amelynek székhelyén olyan befektetési vállalkozás található, amelyre az engedélyezési kérelmet benyújtó befektetési vállalkozással együttesen az összevont alapú felügyelet kiterjed.
 
+(8) A Felügyelet sürgős esetben vagy ha az egyeztetés veszélyeztetheti a határozat végrehajtásának hatékonyságát, akkor dönthet úgy, hogy a (7) bekezdésben foglalt egyeztetést nem folytatja le. Ebben az esetben a döntést követően haladéktalanul tájékoztatja a többi érintett EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
+
 37/A. § (1) A minősített befolyás mértékének megállapításánál a szavazati jog kiszámítása – a szavazati jog gyakorlásának korlátozására vonatkozó előírásoktól függetlenül – mindazon részesedés alapján történik, amelyhez a befektetési vállalkozás létesítő okiratának rendelkezése alapján szavazati jog kapcsolódik.
 
 (2) A minősített befolyás mértékének meghatározásakor a kérelmező részesedésén kívül a (3) és (4) bekezdés szerinti szavazati jogot is figyelembe kell venni.
@@ -2809,6 +2811,8 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 
 szemben.
 
+(2a) Nem jelenti az (1) bekezdésben foglalt titoktartási kötelezettség sérelmét a Hpt. 164/B. §-a szerinti adattovábbítás.
+
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a hatáskörében eljáró,
 
 - a) a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
@@ -2932,7 +2936,14 @@ részére,
 - r) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, árutőzsdei szolgáltatás, multilaterális kereskedési rendszer működtetési tevékenység keretében az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás teljesítése céljából a befektetési vállalkozás, az árutőzsdei szolgáltató és a multilaterális kereskedési rendszer működtetője által az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás feldolgozásában, elszámolásában és teljesítésében közreműködő befektetési vállalkozás, árutőzsdei szolgáltató, multilaterális kereskedési rendszer működtetője, központi értéktár, központi szerződő fél, kockázati tőkealap-kezelő, tőzsde, továbbá befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézet és befektetési alapkezelő részére történő adattovábbítás,
 - s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás,
 - t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
-- u) a befektetési vállalkozás ügyfele által nyilvánosságra hozott állítással összefüggésben a befektetési vállalkozás részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés.
+- u) a befektetési vállalkozás ügyfele által nyilvánosságra hozott állítással összefüggésben a befektetési vállalkozás részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés,
+- v) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása.
+
+120/A. § (1) A Hpt. 164/B. §-a alapján átvett adatokat a befektetési vállalkozás tevékenységi köre ellátásával összefüggésben a szolgáltatásai nyújtásához szükséges mértékben megismerheti, és az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelheti, ha az ügyfél az adattovábbítást a (2) bekezdés szerint nem korlátozta vagy tiltotta meg.
+
+(2) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás ügyfele kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a Hpt. 164/B. § (2) bekezdése szerinti adattovábbítást.
+
+(3) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
 
 ### A panaszkezelés
 
@@ -4128,6 +4139,10 @@ foglalt követelményeknek.
 (2) A Módtv2. 63. §-ával hatályon kívül helyezett 20/A. § (8) és (9) bekezdést a Módtv2. hatálybalépésének napját magában foglaló üzleti évre még alkalmazni lehet.
 
 (3) A Módtv2. 63. §-ával hatályon kívül helyezett 97. § (2) bekezdését a 2016. június 17-ét megelőzően induló üzleti évre vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre még alkalmazni kell.
+
+182/C. § (1) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel (a továbbiakban: Módtv4.) megállapított 117. § (2a) bekezdését, 120. § v) pontját és 120/A. §-t a Módtv4. hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
+
+(2) A 120/A. § (2) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet ellenőrző befolyása alatt működő befektetési vállalkozás a Módtv4. hatálybalépésekor fennálló szerződéssel rendelkező ügyfelét legkésőbb harminc nappal a Hpt. 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általa működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesz közzé. A Hpt. 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.
 
 ### Jogharmonizációs záradék
 

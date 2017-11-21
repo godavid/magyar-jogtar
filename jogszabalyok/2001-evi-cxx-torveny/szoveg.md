@@ -456,13 +456,13 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (4) Nem kell tájékoztatót közzétenni az értékpapír szabályozott piacra történő bevezetéséhez, ha
 
-- a) az azonos fajtájú, illetve azonos osztályba tartozó részvényeket ugyanarra a szabályozott piacra már korábban bevezették, és tizenkét hónapon belül a bevezetendő részvények darabszáma nem haladja meg a korábban a szabályozott piacra bevezetett részvény darabszám tíz százalékát;
+- a)
 - b) a részvény a korábban ugyanazon szabályozott piacra bevezetett, azonos fajtájú, illetve azonos osztályba tartozó részvény helyébe lép, ha a részvénycsere nem jelenti a kibocsátott alaptőke növelését;
 - c) az értékpapírt részvénytársaságban, nyilvános vételi ajánlat keretében történő befolyásszerzéssel kapcsolatban ellenértékként ajánlják fel, és az értékpapírra vonatkozóan fennállnak az (5) bekezdésben meghatározott feltételek;
 - d) az értékpapírt a társaságok egyesülésével vagy szétválásával kapcsolatosan ellenértékként ajánlják fel, és az értékpapírra vonatkozóan fennállnak az (5) bekezdésben meghatározott feltételek;
 - e) a részvénytársaság a részvényeseinek ingyenesen juttat az alaptőkén felüli vagyon terhére részvényeket, vagy osztalékként azzal a részvénnyel azonos fajtájú, illetve azonos osztályba tartozó részvényeket juttat, amelyre tekintettel az osztalékfizetés történik, ha ezeket a részvényeket korábban ugyanazon szabályozott piacra már bevezették;
 - f) az értékpapírt kibocsátó vagy annak kapcsolt vállalkozása bármelyikük munkavállalóinak, vezető tisztségviselőinek, felügyelőbizottsági tagjainak, illetve volt munkavállalóinak, vezető tisztségviselőinek és felügyelőbizottsági tagjainak értékesíti, illetőleg juttatja, ha az ugyanazon sorozatba tartozó értékpapírt ugyanazon szabályozott piacra már bevezették;
-- g) valamely értékpapír átváltásából, vagy az általa megtestesített jog gyakorlásából származó részvény bevezetése esetén, ha az azzal azonos fajtájú, illetve azonos osztályba tartozó részvényt ugyanazon szabályozott piacra már bevezették;
+- g)
 - h) az értékpapírt más szabályozott piacra már bevezették, amennyiben 1. az értékpapírt vagy az ugyanazon sorozatba tartozó értékpapírt a másik szabályozott piacra már legalább tizennyolc hónapja bevezették; 2. a bevezetés során más tagállam hatályos jogszabályai által előírt tájékoztatót tettek közzé; 3. a forgalomban tartás során fennálló kötelezettségeket teljesítették; 4. a szabályozott piacra történő bevezetést kezdeményező személy a 27. § (1) bekezdésében meghatározott összefoglalót tesz közzé magyar nyelven a 34. §-ban meghatározott módon. Az összefoglalóban fel kell tüntetni, hogy a befektető hol tekintheti meg a legutolsó kibocsátási tájékoztatót és a rendszeres tájékoztatási kötelezettség szerint kiadott pénzügyi információt.
 
 (5) A (4) bekezdés c)–d) pontjában foglalt esetben akkor nem kell tájékoztatót közzétenni, ha a felajánlott értékpapírra, illetve annak kibocsátójára vonatkozóan a Felügyelet által a tájékoztatóban foglalt információkkal egyenértékűnek elfogadott információkat tartalmazó dokumentum a befektetők rendelkezésére áll.
@@ -818,9 +818,10 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (2) A kibocsátó a rendszeres tájékoztatási kötelezettségét
 
-- a) féléves jelentés,
-- b) éves jelentés,
-- c)
+- a) féléves jelentés és
+- b) éves jelentés
+
+formájában teljesíti.
 
 (2a) Amennyiben a kibocsátó a számvitelről szóló 2000. évi C. törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze éves beszámolóját, akkor éves és féléves jelentését is az IFRS-ek szerint kell elkészítenie.
 
@@ -4143,7 +4144,9 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 
 17. a Nemzetközi Újjáépítési és Fejlesztési Bank,
 
-18. a Nemzetközi Valutaalap.
+18. a Nemzetközi Valutaalap,
+
+20. az Ázsiai Infrastrukturális Beruházási Bank.
 
 ### 24. számú melléklet a 2001. évi CXX. törvényhez
 
