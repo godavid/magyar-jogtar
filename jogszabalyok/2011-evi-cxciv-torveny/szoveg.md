@@ -43,7 +43,7 @@ Az Országgyűlés az ország gazdasági stabilitása és a költségvetési fen
 
 #### 2. Az adósságcsökkentés
 
-3/A. § (1) A központi költségvetés tervezése során a kormányzati szektor egyenlegét az Alaptörvénnyel és az Európai Unió jogával összhangban, e törvény rendelkezéseinek megfelelően kell meghatározni.
+3/A. § (1) A központi költségvetésről szóló törvényben a kormányzati szektor egyenlegéről az Alaptörvénnyel és az Európai Unió jogával összhangban, e törvény rendelkezéseinek megfelelően kell dönteni.
 
 (2) A kormányzati szektor egyenlegét úgy kell meghatározni, hogy
 

@@ -60,6 +60,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
   - d) az a letelepedés szerinti tagállamtól különböző referencia-tagállam, amelyben egy nem uniós ABAK uniós ABA-t kezel;
   - e) az a letelepedés szerinti tagállamtól különböző referencia-tagállam, amelyben egy nem uniós ABAK egy uniós ABA kollektív befektetési értékpapírjait forgalmazza; vagy
   - f) az a letelepedés szerinti tagállamtól különböző referencia-tagállam, amelyben egy nem uniós ABAK egy nem uniós ABA kollektív befektetési értékpapírjait forgalmazza;
+  - g) az a letelepedés szerinti tagállamtól különböző EGT-állam, amelyben egy uniós ABAK a 7. § (3) bekezdésben foglalt szolgáltatásokat nyújtja;
 - 5. ABAK-irányelv: az Európai Parlament és a Tanács 2011. június 8-i 2011/61/EU irányelve az alternatívbefektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról;
 - 6. ABAK-rendelet: a Bizottság 2012. december 19-i 231/2013/EU felhatalmazáson alapuló rendelete a 2011/61/EU európai parlamenti és tanácsi irányelvnek a mentességek, az általános működési feltételek, a letétkezelők, a tőkeáttétel, az átláthatóság és a felügyelet tekintetében történő kiegészítéséről;
 - 7. ABAK letelepedése szerinti tagállam: az az EGT-állam, amelyben az ABAK létesítő okirat szerinti székhelye található, illetve a nem uniós ABAK esetében a referencia-tagállam;
@@ -967,7 +968,7 @@ tekintetében.
 59. § (1) A Felügyelet által e törvény szerint ABAK-nak kiadott,
 
 - a) a 7. § (1) bekezdésben foglalt tevékenység végzésére jogosító engedély más EGT-államban letelepedett uniós ABA kezelésére jogosít, feltéve, ha az ABAK rendelkezik engedéllyel az adott típusú ABA kezelésére;
-- b) az a) ponttól eltérő tevékenység végzésére jogosító engedély más EGT-államban e tevékenység végzésére jogosít.
+- b) a 7. § (3) bekezdésben foglalt szolgáltatások nyújtására jogosító engedély más EGT-államban e szolgáltatások nyújtására jogosít.
 
 (2) Az az ABAK, amely határon átnyúló szolgáltatásként első alkalommal kíván számára engedélyezett, (1) bekezdésben meghatározottak szerint tevékenységet végezni más EGT-államban, a Felügyelet részére megküldi
 
@@ -2810,6 +2811,8 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 
 szemben.
 
+(2a) Nem jelenti az (1) bekezdésben foglalt titoktartási kötelezettség sérelmét a Hpt. 164/B. §-a szerinti adattovábbítás.
+
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a hatáskörében eljáró,
 
 - a) a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
@@ -2886,6 +2889,12 @@ van összefüggésben.
 
 (2) A 199. § (1) bekezdés e), g) és h) pontjai, valamint az e § (1) bekezdésében foglaltak szerint történő adatátadásról az érintett ügyfél nem tájékoztatható.
 
+200/A. § (1) A Hpt. 164/B. §-a alapján átvett adatokat az ABAK és az ÁÉKBV-alapkezelő tevékenységi köre ellátásával összefüggésben a szolgáltatásai nyújtásához szükséges mértékben megismerheti, és az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelheti, ha az ügyfél az adattovábbítást a (2) bekezdés szerinti nem korlátozta vagy tiltotta meg.
+
+(2) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő ügyfele kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a Hpt. 164/B. § (2) bekezdés szerinti adattovábbítást.
+
+(3) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
+
 ## NYOLCADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### XXVIII. Fejezet — Felhatalmazó rendelkezések
@@ -2933,6 +2942,10 @@ van összefüggésben.
 (5) Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló törvény hatálybalépésekor befektetési alapkezelő teljes tevékenységét irányító személynek legkésőbb 2019. január 1-től kell megfelelnie a 19. § (5) bekezdés b) pontjában foglalt követelményeknek.
 
 (6) Az e törvény – a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharmonizációs célú módosításáról szóló 2015. évi CCXV. törvénnyel megállapított – 130. § (1) bekezdés a) pontjában és a (2a) bekezdésben, a 3. melléklet I. Fejezet XI. alfejezet 60. pontjában, valamint az 5. melléklet 7. pont 7.13–7.15. alpontjaiban előírt rendelkezéseknek való megfelelést 2017. március 18-tól kell biztosítani.
+
+203/A. § (1) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított 197. § (2a) bekezdését és 200/A. §-t az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
+
+(2) A 200/A. § (2) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződéssel rendelkező ügyfelét legkésőbb harminc nappal a Hpt. 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általa működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesz közzé. A Hpt. 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.
 
 204. § (1) A 242. §, a 243. § és a 255. § az Alaptörvény 41. cikk (5) és (6) bekezdése alapján sarkalatosnak minősül.
 

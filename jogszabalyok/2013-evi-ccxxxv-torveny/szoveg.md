@@ -804,6 +804,8 @@ rendelkezik.
 
 szemben.
 
+(2a) Nem jelenti az (1) bekezdésben foglalt titoktartási kötelezettség sérelmét a Hpt. 164/B. §-a szerinti adattovábbítás.
+
 (3) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a nyomozó hatóságot, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a „halaszthatatlan intézkedés” jelzéssel ellátott, önálló jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
 
 59. § (1) Fizetési titok minden olyan, az egyes ügyfelekről a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel kötött szerződéseire vonatkozik.
@@ -901,7 +903,8 @@ van összefüggésben.
 - o) a Magyar Nemzeti Bank által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésre álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérelme alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - p) a pénzforgalmi szolgáltatás nyújtása és a fizetési műveletek feldolgozása, elszámolása és teljesítése keretében a fizetési megbízás teljesítése céljából a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által a fizetési műveletek feldolgozásában, elszámolásában és teljesítésében közreműködő pénzforgalmi szolgáltatók részére történő adattovábbítás, valamint
 - q) a központi szerződő fél, valamint az elszámolóházi tevékenység végzésének érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás,
-- r) a Központi Statisztikai Hivatal részére hivatalos statisztikai célból a hivatalos statisztikáról szóló 2016. évi CLV. törvény 2. § 5. és 10. pont szerinti, közvetlen azonosítóktól megfosztott, egyedi adatok átadása.
+- r) a Központi Statisztikai Hivatal részére hivatalos statisztikai célból a hivatalos statisztikáról szóló 2016. évi CLV. törvény 2. § 5. és 10. pont szerinti, közvetlen azonosítóktól megfosztott, egyedi adatok átadása,
+- s) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény Hpt. 164/B. § szerinti kölcsönös adatátadása.
 
 63. § (1) Aki üzleti vagy fizetési titok birtokába jut, köteles azt időbeli korlátozás nélkül megtartani.
 
@@ -916,6 +919,12 @@ van összefüggésben.
 (6) Az adóhatóság az Aktv. 43/H. §-a szerinti adatszolgáltatás során is jogosult fizetési titokhoz jutni.
 
 64. § Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
+
+64/A. § (1) A Hpt. 164/B. §-a alapján átvett adatokat a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tevékenységi köre ellátásával összefüggésben a szolgáltatásai nyújtásához szükséges mértékben megismerheti, és az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelheti, ha az ügyfél az adattovábbítást a (2) bekezdés szerint nem korlátozta vagy tiltotta meg.
+
+(2) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfele kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a Hpt. 164/B. § (2) bekezdése szerinti adattovábbítást.
+
+(3) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
 
 #### 14. Az ügyfelek védelme
 
@@ -1295,6 +1304,10 @@ Az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) 
 #### 19. Átmeneti rendelkezések
 
 92. § A 86/A. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 86/B. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
+
+93. § (1) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel (a továbbiakban: Módtv.) megállapított 58. § (2a) bekezdését, 62. § s) pontját és 64/A. §-t a Módtv. hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
+
+(2) A 64/A. § (2) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet ellenőrző befolyása alatt működő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a Módtv. hatálybalépésekor fennálló szerződéssel rendelkező ügyfelét legkésőbb harminc nappal a Hpt. 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általa működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesz közzé. A Hpt. 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.
 
 ### 1. melléklet a 2013. évi CCXXXV. törvényhez
 

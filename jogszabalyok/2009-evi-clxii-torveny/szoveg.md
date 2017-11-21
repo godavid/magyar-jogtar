@@ -155,6 +155,8 @@ a fogyasztónak nyújtott hitelről
 
 (2) Ha az (1) bekezdés 7. pontja szerinti egyes hitelkamatok alkalmazásának feltételei eltérnek egymástól, a hitelkamat módosításának gyakoriságára, feltételeire és eljárási szabályaira vonatkozó tájékoztatást valamennyi hitelkamat tekintetében meg kell adni.
 
+(2a) Ha a hitelszerződés a 2016/1011/EU európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésének 3. pontjában meghatározott referenciamutatóra hivatkozik, a hitelező és a hitelközvetítő az 1. melléklet szerinti formanyomtatványtól elkülönült dokumentumban közli a fogyasztóval a referenciamutató és annak kezelőjének nevét, valamint következményeit a fogyasztóra nézve. E dokumentum mellékelhető az 1. melléklet szerinti formanyomtatványhoz.
+
 (3) Ha a fogyasztó a rendelkezésére bocsátott adatok alapján megjelöli az általa előnyben részesített hitel jellemzőit, a hitelező és a hitelközvetítő a teljes hiteldíj mutatóról és a fogyasztó által fizetendő teljes összegről ezek alapulvételével nyújt tájékoztatást.
 
 (4) Ha a hitelszerződés alapján a hitel lehívására többféle módon kerülhet sor, és ezek eltérő hitelkamatokat vagy eltérő hitelkamaton kívüli egyéb ellenszolgáltatást – ideértve díjat és költséget – jelentenek, és a hitelező az adott hiteltípusnál leggyakoribb lehívási módot vette figyelembe, a hitelező és a hitelközvetítő a tájékoztatás során köteles jelezni, hogy más lehívási mód magasabb teljes hiteldíj mutatót eredményezhet.
@@ -237,7 +239,7 @@ a fogyasztónak nyújtott hitelről
 
 (4) A (3) bekezdés b) pontjában foglaltak esetén a hitelezőnek az általa előnyben részesített szolgáltatótól eltérő szolgáltató biztosítását is el kell fogadnia, ha az a hitelező által ajánlott biztosítással legalább egyenértékű a biztosítás összegét és a fedezet körét figyelembe véve.
 
-(4a) Ha a hitelező a fogyasztó számára előírta, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással, a fogyasztó az ilyen biztosítási szerződésből származó – biztosítási összegre vonatkozó – követelését biztosítékként a hitelezőre átruházhatja.
+(4a) Ha a hitelező a fogyasztó számára előírta, hogy jelzáloghitel igénybevétele esetén rendelkezzen a hitelszerződéshez kapcsolódó megtakarítással, életbiztosítással vagy a fedezetül szolgáló ingatlanra vonatkozó vagyonbiztosítással, a fogyasztó az ilyen megtakarítási szerződésből származó megtakarítási összegre, illetve biztosítási szerződésből származó biztosítási összegre vonatkozó követelését biztosítékként a hitelezőre átruházhatja.
 
 (5) Ha a fogyasztó az (1) bekezdés szerinti tiltott árukapcsolás keretében köti meg a hitelszerződést, úgy a kapcsolódó termék értékesítésére vagy szolgáltatás nyújtására szolgáló szerződést a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint megtámadhatja.
 
@@ -704,6 +706,7 @@ kell megállapítani.
 - a) az Európai Parlament és a Tanács 2008/48/EK irányelve (2008. április 23.) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről (1. § 2. § (1)–(2) bekezdése, 3–11. §, 14–16. §, 17. § (1) és (3) bekezdése, 18–24. §, 26–32. §, 34. §, 36–38. § továbbá az 1. és 2. melléklet,
 - b) a Bizottság 2001/193/EK ajánlása (2001. március 1.) a fogyasztóknak a lakáshitel szerződések megkötését megelőzően nyújtandó tájékoztatásról (a 12. § és a 3. melléklet),
 - c) az Európai Parlament és a Tanács 2014/17/EU irányelve (2014. február 4.) a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról.
+- d) a 6. § (2a) bekezdése a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet 57. cikk.
 
 ### 1. melléklet a 2009. évi CLXII. törvényhez
 
