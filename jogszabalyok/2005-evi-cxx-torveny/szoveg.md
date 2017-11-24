@@ -222,6 +222,8 @@ azzal, hogy ha a magánszemély általános forgalmi adó fizetésére köteleze
 
 (5) Az (1)–(4) bekezdés rendelkezésétől eltérően az EGT-államban biztosított személy esetében a kifizető ekhot nem fizet, a magánszemélynek juttatott ekho alapul szolgáló bevételből 9,5 százalék ekhot állapít meg és von le.
 
+(6) A (3) bekezdés rendelkezésétől eltérően a kifizető nem fizet ekhót a hivatásos sportoló részére az e foglalkozása ellenértékeként juttatott bevétel után.
+
 ### Az ekho választására vonatkozó nyilatkozat
 
 5. § (1) Az a magánszemély, aki a 3. § (3) bekezdése szerinti foglalkozását munkaviszonyban, tartós megbízási jogviszonyban folytatja, az ekho választására, illetőleg mértékére vonatkozó nyilatkozatát az adóévben bármikor megteheti, azzal, hogy a kifizető a nyilatkozatot a még nem számfejtett összegre veszi figyelembe. A kifizető mindaddig a magánszemély említett nyilatkozata szerint jár el az adóévben, amíg a magánszemély a (2) bekezdés szerint vissza nem vonja az ekho választására vonatkozó nyilatkozatát.
@@ -334,3 +336,7 @@ minősül.
 14/D. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 7. §-a a 2016. évi adókötelezettség megállapításánál is alkalmazható.
 
 14/E. § Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 3. § (4) bekezdés d) pontját a 2017. január 1-jétől megszerzett bevételekre kell alkalmazni.
+
+14/F. § (1) E törvénynek a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvénnyel megállapított 4. § (6) bekezdése – a (2) bekezdésben foglaltak figyelembevételével – a 2017. szeptember 1-jét követően kifizetett jövedelmekre is alkalmazható.
+
+(2) A 2017. szeptember 1-jét követően kifizetett jövedelmekre a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvény hatálybalépését megelőzően megállapított egyszerűsített közteherviselési hozzájárulási kötelezettség az önellenőrzésre vonatkozó szabályok szerint helyesbíthető.

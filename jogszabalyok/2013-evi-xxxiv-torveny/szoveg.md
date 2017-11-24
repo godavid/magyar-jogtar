@@ -12,6 +12,12 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 
 (1c) A Teljesítésigazolási Szakértői Szerv köteles a tudomására jutásától számított öt napon belül közölni a Közbeszerzési Hatósággal, ha a szakértői tevékenységének ellátásában fontos ok akadályozza, így különösen, ha tevékenysége ellátásának vagy részvizsgálatok elvégzésének feltételei nincsenek meg, vagy az (1) bekezdésben meghatározott feladatainak kell eleget tennie.
 
+(1e) A Teljesítésigazolási Szakértői Szerv az államháztartásért felelős miniszter felkérésére igazságügyi szakértőként működik közre az európai uniós és hazai költségvetési forrásból finanszírozott projektek költségnövekménye támogathatóságának vizsgálatára irányuló külön jogszabályban meghatározott eljárásban.
+
+(1f) A Teljesítésigazolási Szakértői Szerv az államháztartásért felelős miniszter kérését akkor fogadhatja el, ha az az (1) bekezdésben meghatározott feladatainak ellátását nem akadályozza és azzal nem összeférhetetlen.
+
+(1g) A Teljesítésigazolási Szakértői Szerv köteles a tudomására jutásától számított öt napon belül közölni, ha a szakértői tevékenységének ellátásában fontos ok akadályozza, így különösen, ha tevékenysége ellátásának vagy részvizsgálatok elvégzésének feltételei nincsenek meg, vagy az (1) bekezdésben meghatározott feladatainak kell eleget tennie.
+
 (2) A Teljesítésigazolási Szakértői Szerv véleménye a szerződést biztosító mellékkötelezettségek érvényesíthetőségéhez is kérhető, amennyiben az érvényesítés kérdése vitás a szerződő felek között.
 
 (3) A Teljesítésigazolási Szakértői Szerv eljárása a Magyarországon történő építési beruházásokra terjed ki.
@@ -25,7 +31,7 @@ az építmények tervezésével és kivitelezésével kapcsolatos egyes viták r
 
 (5) A szakértői vélemény jogszabályban meghatározott díjazás ellenében kérhető.
 
-(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per, valamint az (1a) bekezdésben meghatározott szakértői tevékenység kivételével – az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában nem rendelhető ki.
+(6) A Teljesítésigazolási Szakértői Szerv – a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per, valamint az (1a) és (1e) bekezdésben meghatározott szakértői tevékenység kivételével – az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 2. § 8. pontjában meghatározott szervek eljárásában nem rendelhető ki.
 
 (7) Az e törvényben nem szabályozott kérdésekben a Teljesítésigazolási Szakértői Szerv, valamint a tagjának jogaira és kötelezettségeire a Szaktv. rendelkezéseit megfelelően alkalmazni kell.
 
@@ -69,6 +75,8 @@ egyetértésével nevezi ki.
 
 (3) A Teljesítésigazolási Szakértői Szerv nevében szakértői tanácsban két szakértő jár el, ha az ügyben a teljesítésigazolás kiadásra került, de a kifizetés nem történt meg, és a vitatott bruttó érték nem haladja meg a 6 millió forintot. Ezen eljárásban a szakértői tanács elnökeként a Teljesítésigazolási Szakértői Szerv vezetője vagy vezetőhelyettese vesz részt.
 
+(4) Az 1. § (1e) bekezdés szerinti eljárásban a vezető kijelölése alapján egy szakértő jár el.
+
 5. § (1) Az adott ügy kapcsán a szakértői tanács tagjaként nem járhat el, aki a polgári perrendtartásról szóló törvény szerint mint szakértő sem járhatna el. Az elfogultságát kell vélelmezni különösen annak, aki bármely fél megbízásából az adott ügy tárgyát képező építési beruházásnál korábban szakértőként járt el.
 
 (2) A Teljesítésigazolási Szakértői Szerv vezetője hivatalból gondoskodik arról, hogy kizárt tag ne vegyen részt a szakértői vélemény kialakításában.
@@ -93,6 +101,8 @@ egyetértésével nevezi ki.
 (3) A szakértői vélemény részét képezi a fél által csatolt szerződés másolata.
 
 (4) A Teljesítésigazolási Szakértői Szerv szakvéleményét a kérelemnek – hiánypótlás esetén azok pótlásának – a Teljesítésigazolási Szakértői Szervhez való beérkezését követő naptól számított 30 napon belül készíti el. A Teljesítésigazolási Szakértői Szerv vezetője – ha az ügy különös bonyolultsága indokolja – a határidőt egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja; a meghosszabbításról legkésőbb a határidő lejártakor értesíti azt, akinek a szakértői véleményt meg kell küldenie.
+
+(4a) Az 1. § (1e) bekezdés szerinti eljárásban a szakvéleményben megválaszolandó kérdéseket és a szakvélemény elkészítésére irányadó határidőt a felkérés tartalmazza.
 
 7. § (1) A szakértői tanács a szakértői vélemény elkészítéséhez szükséges vizsgálatot kivitelezési szerződés vizsgálata esetén – az e törvény végrehajtására kiadott rendeletben meghatározott kivétellel – a kivitelezés helyszínén végzi el. A szakértői vizsgálatról jegyzőkönyvet kell készíteni.
 

@@ -1925,6 +1925,10 @@ kezelheti.
 
 78/F. § Ha a sportpolitikáért felelős miniszter az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
+78/G. § A 61. § (12) bekezdés c) pontját a 2012. január 1-jét követően megrendezett olimpia, Paralimpia, Sakkolimpia és Siketlimpia tekintetében kell alkalmazni.
+
+78/H. § E törvénynek a sportról szóló 2004. évi I. törvény módosításáról szóló 2017. évi CLXII. törvénnyel megállapított 78/G. §-át a folyamatban lévő ügyekben, az olimpiai járadék iránti kérelem tárgyában hozott közigazgatási határozat bírósági felülvizsgálata iránti perekben és a megismételt eljárásokban is alkalmazni kell.
+
 ### Felhatalmazó rendelkezések
 
 79. § (1) Felhatalmazást kap a Kormány, hogy

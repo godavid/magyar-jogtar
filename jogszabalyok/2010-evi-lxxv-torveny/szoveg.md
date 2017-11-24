@@ -105,7 +105,10 @@ a munkáltató közterhet nem fizet.
 
 9. § (1) E törvény alkalmazásában a 7. § (2) bekezdésében említett foglalkoztatásból származó jövedelemnek a kifizetett (nettó) munkabér száz százalékát kell tekinteni.
 
-(2) A 7. § (2) bekezdésében említett foglalkoztatásból származó bevételből a természetes személynek nem kell jövedelmet megállapítania és bevallást benyújtania, feltéve hogy az egyszerűsített foglalkoztatásból származó bevétele nem haladja meg az egyszerűsített foglalkoztatás naptári napjainak száma és az adóév első napján hatályos kötelező legkisebb munkabér (minimálbér) vagy – ha részére alapbérként, illetve teljesítménybérként legalább a garantált bérminimum 87 százaléka jár – a garantált bérminimum napibérként meghatározott összegének szorzatát (e szorzat a továbbiakban: mentesített keretösszeg).
+(2) A 7. § (2) bekezdésében meghatározott foglalkoztatásból származó bevételből a természetes személynek nem kell jövedelmet megállapítania és bevallást benyújtania, feltéve hogy az egyszerűsített foglalkoztatásból származó bevétele nem haladja meg az egyszerűsített foglalkoztatás naptári napjainak száma és az adóév első napján hatályos
+
+- a) kötelező legkisebb munkabér (minimálbér) vagy
+- b) – ha részére alapbérként, illetve teljesítménybérként legalább a garantált bérminimum 87 százaléka jár – a garantált bérminimum napibérként meghatározott összege 130 százalékának szorzatát (a továbbiakban: mentesített keretösszeg).
 
 (3) Amennyiben a természetes személynek a személyi jövedelemadó-bevallási kötelezettségét teljesítenie kell, az adóhatóság közreműködése nélkül elkészített bevallásban vagy az állami adóhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban jövedelemként az (1) bekezdés szerinti összegnek a mentesített keretösszeget meghaladó részét kell figyelembe venni.
 
@@ -198,7 +201,7 @@ rendeletben szabályozza.
 
 18. § Ha az eljáró hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-#### 19. §
+19. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosításáról szóló 2017. évi CLXI. törvénnyel megállapított 9. § (2) bekezdését a 2017. évben megszerzett jövedelem személyijövedelemadó-kötelezettségének megállapítása során is alkalmazni kell.
 
 #### 20. §
 

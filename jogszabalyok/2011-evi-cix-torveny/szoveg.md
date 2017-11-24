@@ -49,7 +49,9 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 - o) együttműködik a határon túli magyar művészeti szervezetekkel, és külföldi, hasonló rendeltetésű intézményekkel,
 - p) gondoskodik a magyar művészeti élet alkotóinak személyes megbecsüléséről,
 - q) a különböző művészeti ágak művelése és korszerű művészetelméleti álláspontok kialakítása érdekében tagozatokat hoz létre és működtet,
-- r) ellátja az Építészeti Múzeum fenntartói feladatait.
+- r) ellátja a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központ fenntartói feladatait,
+- s) segíti a kulturális örökségvédelem területét érintő szakértői és tudományos tevékenységet, valamint
+- t) a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központ útján ellátja a kulturális örökségvédelem tudományos gyűjteményeinek kezelésével, gyarapításával, közzétételével és nyilvánosan hozzáférhető kutatószolgálatának működtetésével kapcsolatos feladatokat.
 
 (3) Az MMA közfeladatait éves programterv keretei között valósítja meg.
 
