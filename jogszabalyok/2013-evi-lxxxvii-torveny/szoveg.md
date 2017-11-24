@@ -47,6 +47,12 @@ egyéni választókerületben jelöltet állított.
 
 (2) A közös pártlistát állító pártok az (1) bekezdés vonatkozásában egy pártnak tekintendők.
 
+3/A. § (1) A 3. § szerinti támogatás csak akkor folyósítható a pártlistát állító pártnak, ha a pártlistát állító párt – legkésőbb a pártlista nyilvántartásba vételének jogerőre emelkedését követő napon – nyilatkozik arról, hogy ha a 8/C. § (7) bekezdésében foglaltak szerinti visszafizetési kötelezettségét határidőben nem teljesíti, és az tőle nem hajtható be, a párt vezető tisztségviselői állnak helyt egyetemlegesen a támogatás visszafizetéséért. A nyilatkozatnak tartalmaznia kell a párt vezető tisztségviselőinek nevét, és a vezető tisztségviselői jogviszony kezdő időpontját.
+
+(2) A kincstár az (1) bekezdés szerinti nyilatkozatban foglalt adatok hitelességét a párt nyilvántartását vezető bíróság által rendelkezésre bocsátott dokumentumok alapján ellenőrzi.
+
+(3) A pártlista nyilvántartásba vétele jogerőre emelkedésének és a visszafizetési kötelezettség keletkezésének időpontja között a pártlistát állító párt (1) bekezdés szerinti vezető tisztségviselőinek körében bekövetkezett változás az (1) bekezdésben meghatározott egyetemleges helytállási kötelezettséget nem érinti, a követelés ezen időtartamon belül vezető tisztségviselői tisztséget betöltő bármely tisztségviselőtől követelhető.
+
 4. § (1) Az országgyűlési képviselők általános választásán nemzetiségi listát állító országos nemzetiségi önkormányzatok együttesen a központi költségvetésből az 5. § szerinti összeg 30%-ával megegyező összegű támogatásra jogosultak.
 
 (2) Az (1) bekezdés szerinti támogatásból az egyes, az országgyűlési képviselők általános választásán nemzetiségi listát állító országos nemzetiségi önkormányzatnak járó összeget a Nemzeti Választási Bizottság a választási eljárásról szóló törvényben az országos lista bejelentésére meghatározott határidő letelte után, valamennyi bejelentett nemzetiségi lista nyilvántartásba-vétele tárgyában hozott határozat jogerőre emelkedését követően haladéktalanul, az 1. mellékletben meghatározott eljárás szerint határozza meg, és erről a Nemzeti Választási Iroda útján értesíti a kincstárt.
@@ -176,7 +182,12 @@ akkor az őt jelölő párt köteles a 2/A. § szerint folyósított 1. § szeri
 
 8/C. § (1) A pártlistát állító párt köteles a kincstárnak visszafizetni a 3. § szerinti támogatás azon részét, amelyet olyan jelölt után vett igénybe, aki az országgyűlési képviselők általános választásán a választási eljárásról szóló törvény alapján kiesett, kivéve, ha a jelölt a szavazás előtt elhunyt.
 
-(2) A pártlistát állító párt köteles a kincstárnak visszafizetni a 3. § szerinti támogatást, ha a pártlista az országgyűlési képviselők általános választásán a választási eljárásról szóló törvény alapján kiesik.
+(2) A pártlistát állító párt köteles a kincstárnak visszafizetni a 3. § szerinti támogatást, ha a pártlista
+
+- a) a választási eljárásról szóló törvény alapján kiesik vagy
+- b) nem éri el a pártlistákra leadott összes érvényes szavazat legalább 1%-át.
+
+(2a) Az Állami Számvevőszék az országgyűlési képviselők általános választását követő egy éven belül hivatalból ellenőrzi a támogatás felhasználását azoknál a pártlistát állító pártoknál, amelyek pártlistája a pártlistákra leadott összes érvényes szavazat legalább 1%-át megszerezte.
 
 (3) A kincstár az (1) bekezdés szerinti befizetési kötelezettséget a 3. § megfelelő alkalmazásával, az országgyűlési képviselők általános választásán a választási eljárásról szóló törvény alapján ki nem esett jelöltek száma alapján határozza meg.
 
@@ -186,7 +197,9 @@ akkor az őt jelölő párt köteles a 2/A. § szerint folyósított 1. § szeri
 
 (6) A kincstár az (1) és (2) bekezdésben meghatározott befizetési kötelezettségről határozatot hoz, amellyel szemben fellebbezésnek nincs helye. A befizetési kötelezettség az azt követő tizenötödik napon válik esedékessé, amikor a kincstár határozatát a bíróság helybenhagyta vagy a keresetindításra nyitva álló határidő eredménytelenül telt el.
 
-(7) Ha a pártlistát állító párt a befizetési kötelezettségét a (6) bekezdésben foglalt határidőben nem teljesíti, akkor a kincstár a Nemzeti Adó- és Vámhivatalnál kezdeményezi a tartozás adók módjára történő behajtását. A Nemzeti Adó- és Vámhivatal a kincstár kezdeményezésére intézkedik a tartozás adók módjára történő behajtásáról.
+(7) Ha a pártlistát állító párt a befizetési kötelezettségét a (6) bekezdésben foglalt határidőben nem teljesíti, a tartozást a kincstár megkeresésére a Nemzeti Adó- és Vámhivatal hajtja be.
+
+(8) Ha a pártlistát állító párttól a visszafizetési kötelezettség nem hajtható be, annak megfizetésére határozattal kötelezhetők a pártlistát állító párt 3/A. §-ban meghatározott vezető tisztségviselői. Ha a vezető tisztségviselő a visszafizetési kötelezettségét határidőben nem teljesíti, a kincstár megkeresésére a Nemzeti Adó- és Vámhivatal intézkedik a vezető tisztségviselővel szemben a tartozás behajtása iránt.
 
 9. § (1) Minden jelöltnek és jelölő szervezetnek az országgyűlési választást követő 60 napon belül a Magyar Közlönyben nyilvánosságra kell hoznia a választásra fordított állami és más pénzeszközök, anyagi támogatások összegét, forrását és felhasználásának módját.
 

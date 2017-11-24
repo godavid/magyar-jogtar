@@ -99,7 +99,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - g) véleményt nyilvánít a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységgel kapcsolatos kérdésekben,
 - h) dönt a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek fegyelmi ügyében.
 - i)
-- j) Szakértői véleményt alakít ki az adózás rendjéről szóló törvény 132. § (5b) bekezdése alapján az IFRS-ek szerinti számviteli elszámolás minősítését is igénylő feltételes adómegállapítás iránti kérelem esetén, a számviteli elszámolás minősítésére vonatkozóan.
+- j) Szakértői véleményt alakít ki az IFRS-ek szerinti számviteli elszámolás minősítését is igénylő, az adózás rendjéről szóló törvény szerinti feltételes adómegállapítás iránti kérelem esetén, a számviteli elszámolás minősítésére vonatkozóan.
 
 (6) A kamara a tagok képviseletében különösen az alábbi feladatokat látja el:
 
@@ -202,10 +202,10 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 (2) Nem kell igazgatási szolgáltatási díjat fizetni
 
-- a) a 9/G. § (1) bekezdés szerinti igazolás kiadásáért,
-- b) a 35. § szerinti engedélyezési eljárásért,
+- a) a 9/G. § (1) bekezdés szerinti igazolás kiadásáért, visszavonásáért,
+- b) a 35. § szerinti engedélyezési eljárásért, engedély visszavonásáért,
 - c) a 49. § szerinti minősítés visszavonására irányuló kérelem elbírálásáért, és
-- d) a 68. § (1) bekezdés szerinti engedély kiadásáért.
+- d) a 68. § (1) bekezdés szerinti engedély kiadásáért, visszavonásáért.
 
 ### II. Fejezet — A KAMARAI TAG KÖNYVVIZSGÁLÓ
 
@@ -253,7 +253,7 @@ feltéve, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevé
 
 (2) A felfüggesztés a büntetőeljárás jogerős befejezéséig tart.
 
-9/L. § (1) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolást visszavonja, amennyiben a természetes személy nem felel meg a 9/G. § (1) bekezdésében vagy a 9/J. § (1) bekezdésében meghatározott feltételeknek.
+9/L. § (1) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolást visszavonja, amennyiben a természetes személy nem felel meg a 9/G. § (1) bekezdésében vagy a 9/J. § (1) bekezdésében meghatározott feltételeknek, vagy a kamarai tagsága megszűnik.
 
 (2) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolás visszavonásáról – a döntés jogerőre emelkedésével egyidejűleg – tájékoztatja a kamara felvételi bizottságát.
 
@@ -433,6 +433,8 @@ Isten engem úgy segéljen!”
 
 (3) A tagsági viszony megszűnésének megállapítása tekintetében a kamara felvételi bizottsága jár el.
 
+(4) A 9/G. § (1) bekezdése szerinti igazolás visszavonása esetén a tagsági jogviszony az engedély visszavonásáról szóló döntés véglegessé válásának napján szűnik meg.
+
 31. § (1) A kamarai tagság megszűnését megállapító határozat jogerőre emelkedése napjával a könyvvizsgálót törölni kell a kamarai tagok nyilvántartásából, egyidejűleg vissza kell vonni könyvvizsgálói igazolványát is, valamint a kamarai tagság megszűnéséről és a megszűnés okáról tájékoztatni kell azon államok illetékes hatóságait, amelyekben a könyvvizsgáló jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult.
 
 (2) A kamarai tagság megszűnésének (1) bekezdés szerinti határozatban foglalt időpontjától kezdődően az érintett természetes személy nem végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
@@ -548,7 +550,8 @@ Isten engem úgy segéljen!”
 - b) a könyvvizsgáló cég fegyelmi eljárás keretében nyilvántartásból való törlésével,
 - c) ha a könyvvizsgáló cég a 35. §-ban foglalt feltételeknek a továbbiakban már nem felel meg,
 - d) a könyvvizsgáló cég megszűnésével,
-- e) a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága által hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján.
+- e) a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága által hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján,
+- f) a kamara könyvvizsgáló cégek nyilvántartásából törlő határozata alapján.
 
 (2) Az engedély visszavonásáról szóló, (1) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.
 
@@ -2188,7 +2191,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (2) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég birtokában lévő könyvvizsgálati dokumentáció és az azokkal összefüggő egyéb dokumentumok csak kérelemre, az (1) bekezdés szerinti együttműködés keretében, a közfelügyeleti hatóságon keresztül, olyan harmadik ország illetékes hatóságának adhatók át, amely hatóságot a 2006/43/EK irányelv 47. cikkének (3) bekezdése alapján az Európai Bizottság határozatában megfelelőnek nyilvánított.
 
-(3) A (2) bekezdés szerinti könyvvizsgálati dokumentáció és az azokkal összefüggő egyéb dokumentumok akkor adhatók át harmadik ország illetékes hatóságának, ha azok olyan gazdálkodó tekintetében ellátott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységhez kapcsolódnak, amely
+(3) A (2) bekezdés szerinti könyvvizsgálati dokumentáció és az azokkal összefüggő egyéb dokumentumok – amennyiben nem tartozik más illetékes hatóság hatáskörébe – akkor adhatók át harmadik ország illetékes hatóságának, ha azok olyan szervezet tekintetében ellátott könyvvizsgálói tevékenységhez kapcsolódnak, amely
 
 - a) a harmadik országban értékpapírt bocsátott ki, vagy
 - b) olyan vállalatcsoport tagja, amelyről összevont (konszolidált) éves beszámolót hoznak nyilvánosságra a harmadik országban.
@@ -2467,6 +2470,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 (3) E törvénynek az egyes adótörvények és már kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel hatályon kívül helyezett 173/A. § (5), és (9) bekezdését a 2017. június 26-át megelőzően indult eljárásokra még alkalmazni kell.
 
 (4) A Mód2 törvény hatálybalépésekor érvényben lévő 35. § szerinti kamara által kiállított engedélyek ugyanazon joghatás kiváltására alkalmasak, mint a Mód2 törvény hatálybalépését követően a 35. § szerinti közfelügyeleti hatóság által kiállított engedélyek.
+
+(5) A Mód2 törvény hatálybalépésekor érvényben lévő kamarai tagsági felvételről szóló döntés ugyanazon joghatás kiváltására alkalmas, mint a Mód2 törvény hatálybalépését követően a 9/G. § szerinti közfelügyeleti hatóság által kiállított igazolás.
 
 ### Az Európai Unió jogának való megfelelés
 
