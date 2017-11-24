@@ -683,6 +683,8 @@ a költségvetési évet követő három évre várható összegét.
 
 (2c) A 14. § (4) bekezdés b) pontja szerinti fejezetbe sorolt, ingatlanok fejlesztését, vásárlását szolgáló kiadási előirányzatokat – az ezen előirányzatok terhére finanszírozott határozott idejű programok, projektek megvalósítása érdekében – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
 
+(2d) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat által a maradvány megállapítása, elszámolása során befizetett összeggel az államháztartásért felelős miniszter megnövelheti a bevétel felhasználására szolgáló kiadási előirányzatot.
+
 (3) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat bevételi előirányzatai és kiadási előirányzatai a Kormány rendeletében foglalt esetekben módosíthatók.
 
 32. § A központi költségvetésről szóló törvény csak a következő költségvetési kiadások tekintetében adhat felhatalmazást előirányzat-módosítási kötelezettség nélkül az eredeti előirányzaton felüli kiadás teljesítésére:

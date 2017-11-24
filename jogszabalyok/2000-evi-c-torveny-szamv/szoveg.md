@@ -3147,17 +3147,18 @@ a különbözettel.
 - e) aki azt kéri,
 - f) akit jogerős bírói ítélet a cselekvőképességet érintő gondnokság alá helyezett,
 - g) aki elhalálozott,
-- h) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be.
+- h) aki a nyilvántartásban szereplő adataiban bekövetkezett változásokat a nyilvántartásba vételt végző szervezet felszólítását követően sem jelentette be,
+- i) akinek nyilvántartásból való törlését a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 69. § (1) bekezdés e) pontja alapján kezdeményezték.
 
 (7) Az a természetes személy, akinek a könyvviteli szolgáltatás végzésére jogosító engedélyét visszavonták, az engedély újbóli megadását és a könyvviteli szolgáltatást végzők nyilvántartásába való újbóli felvételét kérheti, ha megfelel a 151. § (5) bekezdés b) pontjában előírt feltételeknek:
 
 - a) az engedély visszavonását követően, ha arra a (6) bekezdés a) pontja miatt,
 - b) a büntetett előélethez fűződő hátrányos jogkövetkezmények alóli mentesülést követően, ha az engedély visszavonására a (6) bekezdés b) pontja miatt,
 - c) a könyvviteli szolgáltatás körébe tartozó tevékenység vonatkozásában a foglalkozástól való eltiltás alóli mentesítést követően, ha az engedély visszavonására a (6) bekezdés c) pontja miatt,
-- d) az engedély visszavonását követő 3 év után, ha arra a (6) bekezdés d) pontja miatt,
-- e) az engedély visszavonását követően, ha arra a (6) bekezdés e) pontja miatt,
+- d)
+- e) az engedély visszavonását követően, ha arra a (6) bekezdés d), e), h) vagy i) pontja miatt,
 - f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt,
-- g) az engedély visszavonását követően, ha arra a (6) bekezdés h) pontja miatt került sor.
+- g) került sor.
 
 (7a) Ha a könyvviteli szolgáltatást végzők nyilvántartása az engedéllyel rendelkező vonatkozásában egynél több regisztrálási szakterületet tartalmaz, a szakterületek közül törölni kell azt,
 
@@ -3236,7 +3237,7 @@ a különbözettel.
 
 (2) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező könyvviteli szolgáltatásnyújtó szervezet határon átnyúló szolgáltatási tevékenysége keretében a 151. § (1) bekezdése szerinti könyvviteli szolgáltatást akkor folytathat, ha a feladat irányításával, vezetésével, a beszámoló elkészítésével megbízott tagja, alkalmazottja teljesítette az (1) bekezdés szerinti bejelentési kötelezettségét.
 
-(3) Az (1) bekezdés szerinti bejelentésre és a bejelentést tevők nyilvántartásba vételére megfelelően alkalmazni kell a 151. § (5) bekezdés a) pont aa)–ad) és af) alpontjában, b) pont bc) alpontjában, (6) bekezdés b)–g) pontjában, (7) bekezdés b)–f) pontjában, (8) bekezdés a)–c), e), f) és h) pontjában, (9)–(11) és (13) bekezdésében, valamint a 152/A. §-ban foglalt rendelkezéseket.
+(3) Az (1) bekezdés szerinti bejelentésre és a bejelentést tevők nyilvántartásba vételére megfelelően alkalmazni kell a 151. § (5) bekezdés a) pont aa)–ad) és af) alpontjában, b) pont bc) alpontjában, (6) bekezdés b)–i) pontjában, (7) bekezdés b)–f) pontjában, (8) bekezdés a)–c), e), f) és h) pontjában, (9)–(11) és (13) bekezdésében, valamint a 152/A. §-ban foglalt rendelkezéseket.
 
 (4) A határon átnyúló szolgáltatásnyújtás tekintetében az átmeneti és alkalmi jelleget a szolgáltatás időtartamára, gyakoriságára, rendszerességére és folytonosságára tekintettel a nyilvántartásba vételt végző szervezet esetenként állapítja meg.
 
@@ -3756,7 +3757,7 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (54) E törvénynek a nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvény 4. § (2) bekezdésével megállapított 9/A. §-át – az (55) bekezdésben foglalt eltéréssel – először a 2017. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
-(55) A hitelintézet, továbbá a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás – függetlenül attól, hogy értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák –, az a biztosító, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák és a Diákhitel Központ Zrt. e törvénynek a nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvény 4. § (2) bekezdésével megállapított 9/A. §-át először a 2018. évben induló üzleti évről készített beszámolóra alkalmazza azzal, hogy a 2017. évben induló üzleti évről készített beszámolóra történő alkalmazás is megengedett.
+(55) A hitelintézet, továbbá a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás – függetlenül attól, hogy értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák –, az a biztosító, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák e törvénynek a nemzetközi pénzügyi beszámolási standardok egyedi beszámolási célokra történő hazai alkalmazásának bevezetéséhez kapcsolódó, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2015. évi CLXXVIII. törvény 4. § (2) bekezdésével megállapított 9/A. §-át először a 2018. évben induló üzleti évről készített beszámolóra alkalmazza azzal, hogy a 2017. évben induló üzleti évről készített beszámolóra történő alkalmazás is megengedett.
 
 (56) A behajtási költségátalányról szóló 2016. évi IX. törvény hatálybalépésével egyidejűleg a vállalkozó a könyvviteli nyilvántartásában (mérlegében) kimutatott, behajtási költségátalányból származó kötelezettséget – ha azt ezen időpontig tőle a jogosult nem követelte – az egyéb bevételekkel szemben megszünteti.
 
@@ -3780,7 +3781,7 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (66) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 3. § (9) bekezdés 11. pontját, 19. § (3a) bekezdését, 45. § (2) bekezdését, 47. § (12) bekezdését, 59/B. § (14) és (15) bekezdését, 84. § (7) bekezdés j) pontját, 85. § (3) bekezdés j) pontját a 2017. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
-(67) A szövetkezeti hitelintézet és a szövetkezeti hitelintézetek integrációjában résztvevő egyéb hitelintézet – függetlenül attól, hogy értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák – e törvény 9/A. §-át először a 2019. évben induló üzleti évről készített beszámolóra alkalmazza azzal, hogy a 2018. évben induló üzleti évről készített beszámolóra történő alkalmazás is megengedett.
+(67) A szövetkezeti hitelintézet és a szövetkezeti hitelintézetek integrációjában résztvevő egyéb hitelintézet – függetlenül attól, hogy értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák –, továbbá a Diákhitel Központ Zrt. és a Magyar Export-Import Bank Zrt. e törvény 9/A. §-át először a 2019. évben induló üzleti évről készített beszámolóra alkalmazza azzal, hogy a 2018. évben induló üzleti évről készített beszámolóra történő alkalmazás is megengedett.
 
 ### Felhatalmazás
 
