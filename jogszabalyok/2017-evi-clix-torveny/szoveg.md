@@ -89,11 +89,11 @@ az általános közigazgatási rendtartásról szóló törvény hatálybalépé
 72. § A Tao. törvény
 
 - 1.
-- 2. 4. § 36. pontjában az „új tevékenységgel történő kibővítését eredményezi” szövegrész helyébe az „olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek” szöveg,
+- 2.
 - 3.
-- 4. 22/E. § (4) bekezdés a) és b) pontjában a „jószág számvitelről szóló törvény szerinti bekerülési” szövegrész helyébe a „jószág bekerülési” szöveg,
+- 4.
 - 5–7.
-- 8. 30/A. §-ában a „Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) 1–14. és 17. cikkei” szövegrész helyébe a „Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.) 1–14. és 17. cikkei, és a cikkeket módosító, a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet (HL L 156., 2017.6.20., 1. o.)” szöveg
+- 8.
 
 lép.
 
@@ -126,7 +126,7 @@ lép.
 88. § A Tbj.
 
 - 1.
-- 2. 5. § (2) bekezdésében az „a helyi önkormányzati választásokon választott képviselő és tisztségviselők (ideértve: a polgármestert, a főpolgármestert, a megyei önkormányzat közgyűlésének elnökét, az alpolgármestert, a főpolgármester-helyettest, a megyei önkormányzat közgyűlésének alelnökét, a jegyzőt, az aljegyzőt),” szövegrész helyébe az „a helyi önkormányzati választásokon választott képviselő és tisztségviselők,” szöveg;
+- 2.
 - 3–18.
 
 lép.
@@ -161,26 +161,13 @@ lép.
 
 101–103. §
 
-104. § Az Szt. 151. § (6) bekezdése a következő i) ponttal egészül ki:
-
-(A könyvviteli szolgáltatás végzésére jogosító engedély visszavonásával egyidejűleg a nyilvántartásból törölni kell azt a természetes személyt,)
-
-„i) akinek nyilvántartásból való törlését a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 69. § (1) bekezdés e) pontja alapján kezdeményezték.”
+104. §
 
 105. §
 
-106. § Az Szt.
+106. §
 
-- 1. 151. § (7) bekezdés e) pontjában a „(6) bekezdés e) pontja miatt” szövegrész helyébe a „(6) bekezdés d), e), h) vagy i) pontja miatt” szöveg,
-- 2. 152/B. § (3) bekezdésben a „(6) bekezdés b)–g) pontjában” szövegrész helyébe a „(6) bekezdés b)–i) pontjában” szöveg,
-- 3. 177. § (67) bekezdésében a „forgalmazzák – e törvény” szövegrész helyébe a „forgalmazzák –, továbbá a Diákhitel Központ Zrt. és a Magyar Export-Import Bank Zrt. e törvény” szöveg
-
-lép.
-
-107. § Hatályát veszti az Szt.
-
-- 1. 151. § (7) bekezdés d) és g) pontja,
-- 2. 177. § (55) bekezdésében az „és a Diákhitel Központ Zrt.” szövegrész.
+107. §
 
 #### 35. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
@@ -204,33 +191,9 @@ lép.
 
 #### 39. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-113. § Az adózás rendjéről szóló 2003. évi XCII. törvény 230. §-a helyébe a következő rendelkezés lép:
+113. §
 
-„230. § (1) A 22/D. § (4) és (5) bekezdés szerinti kötelezettség az adópolitikáért felelős miniszter rendeletében meghatározott időponttól terheli az üzemeltetőt.
-
-(2) Ha a 22/D. § (6) bekezdése szerinti szerződést az automataberendezés üzemeltetője a menedékes felügyeleti szolgáltatóval köti meg, a szerződést a menedékes felügyeleti szolgáltató e minőségének megszűnéséig
-
-a) az automataberendezés üzemeltetője – a (3) bekezdésben meghatározott kivétellel – csak abban az esetben szüntetheti meg rendes felmondással, ha a menedékes felügyeleti szolgáltató részére 24 havi – ha a szerződés megkötése óta legalább 12 hónap eltelt, abban az esetben 12 havi – felügyeleti szolgáltatói díj összegének megfelelő összeget megfizet;
-
-b) rendes felmondással nem szüntetheti meg.
-
-(3) Az automata üzemeltetője mentesül a (2) bekezdés a) pontjában foglalt kötelezettség alól, ha a szerződés megkötését követően közokirattal vagy teljes bizonyító erejű magánokirattal igazolja, hogy az automataberendezés üzemeltetési tevékenységét megszüntette.
-
-(4) Az állami adó- és vámhatóság az üzemeltetőkkel való adategyeztetés céljából a menedékes felügyeleti szolgáltató részére havonta, a tárgyhót követő hónap ötödik napjáig átadja
-
-a) az automataberendezések üzemeltetőinek megnevezésére és adószámára,
-
-b) az automataberendezések regisztrációs számára és
-
-c) az automataberendezések üzemeltetési helyére
-
-vonatkozó, változással érintett adatot.
-
-(5) A menedékes felügyeleti szolgáltató az adatszolgáltatás keretében kapott adatokat az üzemeltetővel kötött menedékes felügyeleti szolgáltatói szerződés megszűnésével törli.”
-
-114. § Az adózás rendjéről szóló 2003. évi XCII. törvény 175. §-a a következő (4b) bekezdéssel egészül ki:
-
-„(4b) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a 22/D. § (4) és (5) bekezdés szerinti kötelezettség teljesítésének időpontját rendeletben állapítsa meg.”
+114. §
 
 #### 40. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
@@ -278,40 +241,19 @@ vonatkozó, változással érintett adatot.
 
 #### 51. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-128. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) 30. §-a a következő (4) bekezdéssel egészül ki:
+128. §
 
-„(4) A 9/G. § (1) bekezdése szerinti igazolás visszavonása esetén a tagsági jogviszony az engedély visszavonásáról szóló döntés véglegessé válásának napján szűnik meg.”
-
-129. § A Kkt. 41. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(A közfelügyeleti hatóság a könyvvizsgáló cég 35. § szerinti engedélyét visszavonja)
-
-„f) a kamara könyvvizsgáló cégek nyilvántartásából törlő határozata alapján.”
+129. §
 
 130. §
 
-131. § A Kkt. 183. § (3) bekezdése helyébe a következő rendelkezés lép:
+131. §
 
-„(3) A (2) bekezdés szerinti könyvvizsgálati dokumentáció és az azokkal összefüggő egyéb dokumentumok – amennyiben nem tartozik más illetékes hatóság hatáskörébe – akkor adhatók át harmadik ország illetékes hatóságának, ha azok olyan szervezet tekintetében ellátott könyvvizsgálói tevékenységhez kapcsolódnak, amely
-
-a) a harmadik országban értékpapírt bocsátott ki, vagy
-
-b) olyan vállalatcsoport tagja, amelyről összevont (konszolidált) éves beszámolót hoznak nyilvánosságra a harmadik országban.”
-
-132. § A Kkt. 208/L. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A Mód2 törvény hatálybalépésekor érvényben lévő kamarai tagsági felvételről szóló döntés ugyanazon joghatás kiváltására alkalmas, mint a Mód2 törvény hatálybalépését követően a 9/G. § szerinti közfelügyeleti hatóság által kiállított igazolás.”
+132. §
 
 133. §
 
-134. § A Kkt .
-
-- 1. 4. § (5) bekezdés j) pontjában az „adózás rendjéről szóló törvény 132. § (5b) bekezdése alapján az IFRS-ek szerinti számviteli elszámolás minősítését is igénylő” szövegrész helyébe az „IFRS-ek szerinti számviteli elszámolás minősítését is igénylő, az adózás rendjéről szóló törvény szerinti” szöveg,
-- 2. 9/F. § (2) bekezdés a) és d) pontjában a „kiadásáért” szövegrész helyébe a „kiadásáért, visszavonásáért” szöveg,
-- 3. 9/F. § (2) bekezdés b) pontjában az „engedélyezési eljárásért” szövegrész helyébe az „engedélyezési eljárásért, engedély visszavonásáért” szöveg,
-- 4. 9/L. § (1) bekezdésében a „meghatározott feltételeknek” szövegrész helyébe a „meghatározott feltételeknek, vagy a kamarai tagsága megszűnik” szöveg
-
-lép.
+134. §
 
 #### 52. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
@@ -429,9 +371,7 @@ lép.
 
 #### 78. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-195. § Az államháztartásról szóló 2011. évi CXCV. törvény 31. §-a a következő (2d) bekezdéssel egészül ki:
-
-„(2d) Az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat által a maradvány megállapítása, elszámolása során befizetett összeggel az államháztartásért felelős miniszter megnövelheti a bevétel felhasználására szolgáló kiadási előirányzatot.”
+195. §
 
 196–199. §
 
@@ -477,83 +417,15 @@ lép.
 
 #### 89. Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény módosítása
 
-211. § (1) Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény (a továbbiakban: TSZSZ tv.) 1. §-a a következő (1e)–(1g) bekezdéssel egészül ki:
-
-„(1e) A Teljesítésigazolási Szakértői Szerv az államháztartásért felelős miniszter felkérésére igazságügyi szakértőként működik közre az európai uniós és hazai költségvetési forrásból finanszírozott projektek költségnövekménye támogathatóságának vizsgálatára irányuló külön jogszabályban meghatározott eljárásban.
-
-(1f) A Teljesítésigazolási Szakértői Szerv az államháztartásért felelős miniszter kérését akkor fogadhatja el, ha az az (1) bekezdésben meghatározott feladatainak ellátását nem akadályozza és azzal nem összeférhetetlen.
-
-(1g) A Teljesítésigazolási Szakértői Szerv köteles a tudomására jutásától számított öt napon belül közölni, ha a szakértői tevékenységének ellátásában fontos ok akadályozza, így különösen, ha tevékenysége ellátásának vagy részvizsgálatok elvégzésének feltételei nincsenek meg, vagy az (1) bekezdésben meghatározott feladatainak kell eleget tennie.”
-
-(2) A TSZSZ tv. 1. § (6) bekezdésében az „(1a) bekezdésben” szövegrész helyébe az „(1a) és (1e) bekezdésben” szöveg lép.
-
-(3) A TSZSZ tv. 4. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az 1. § (1e) bekezdés szerinti eljárásban a vezető kijelölése alapján egy szakértő jár el.”
-
-(4) A TSZSZ tv. 6. §-a a következő (4a) bekezdésekkel egészül ki:
-
-„(4a) Az 1. § (1e) bekezdés szerinti eljárásban a szakvéleményben megválaszolandó kérdéseket és a szakvélemény elkészítésére irányadó határidőt a felkérés tartalmazza.”
+211. §
 
 #### 90. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény módosítása
 
 212. §
 
-213. § Az Aktv. 43/N. § (2) bekezdés b) pont bb) alpontja helyébe a következő rendelkezés lép:
+213. §
 
-[A multinacionális vállalatcsoport végső anyavállalatától eltérő csoporttagja országonkénti jelentést nyújt be az állami adóhatósághoz a (9) bekezdés és a 3. melléklet szerinti tartalommal az alábbi feltételek fennállása esetén:
-
-b) az alábbi feltételek valamelyike fennáll:]
-
-„bb) az az állam, illetve terület, ahol a végső anyavállalat adóügyi illetőséggel rendelkezik, olyan hatályos nemzetközi megállapodás részese, amelyben Magyarország részes fél, de az adatszolgáltatási pénzügyi évre vonatkozó országonkénti jelentés benyújtására a multinacionális vállalatcsoport adatszolgáltatási pénzügyi évének utolsó napjától számított 12 hónapon belül nincs olyan hatályos, illetékes hatóságok közötti elismert megállapodása, amelyben Magyarország részes fél,”
-
-214. § Az Aktv. a következő V/E. Fejezettel egészül ki:
-
-„V/E. FEJEZET
-
-A FELTÉTELES ADÓMEGÁLLAPÍTÁSRA ÉS SZOKÁSOS PIACI ÁR MEGÁLLAPÍTÁSÁRA IRÁNYULÓ HATÁROZATOKRA VONATKOZÓ EGYES INFORMÁCIÓK ELŐZETES MEGKERESÉS NÉLKÜLI CSERÉJE
-
-43/T. § (1) A magyar hatáskörrel rendelkező hatóság spontán információcsere keretében a 2017. december 31-e után kiadott, módosított vagy meghosszabbított feltételes adómegállapításra, valamint szokásos piaci ár megállapítására vonatkozó jogerős határozatok (7) bekezdésben meghatározott adatait a határozatok jogerőre emelkedésének napját követő három hónapon belül közli az érintett állam(ok) hatáskörrel rendelkező hatóságával.
-
-(2) Az (1) bekezdésben meghatározott spontán információcsere szempontjából érintett állam – a feltételes adómegállapítás, valamint szokásos piaci ár megállapítás során hozott határozat tartalmától függően – a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) káros adózási gyakorlatok elleni hatékony küzdelemmel foglalkozó jelentése 5. fejezet III. pontjában meghatározott állam.
-
-(3) A magyar hatáskörrel rendelkező hatóság (1) bekezdés szerinti adatszolgáltatási kötelezettsége teljesítésének feltétele, hogy az adatszolgáltatásban részesülő érintett állam olyan spontán információcserét lehetővé tevő nemzetközi adóegyezmény részes fele legyen, amiben Magyarország részes fél.
-
-(4) Az (1) bekezdés azon jogerős határozatok esetében alkalmazandó, amelyek megfelelnek az OECD káros adózási gyakorlatok elleni hatékony küzdelemmel foglalkozó jelentése 5. fejezet II. pontjában foglaltaknak.
-
-(5) Nem vonatkozik az (1) bekezdés szerinti kötelezettség azon jogerős feltételes adómegállapítási határozatokra, amelyek esetében a következő feltételek együttesen fennállnak:
-
-a) a határozattal érintett ügyletben vagy ügyletsorozatban részes összes fél kizárólag belföldön rendelkezik adóügyi illetőséggel,
-
-b) a határozattal érintett ügyletben vagy ügyletsorozatban részes felek egyike sem folytat más állambeli állandó telephelyen olyan tevékenységet, amelynek a határozattal érintett ügylet vagy ügyletsorozat egészét vagy részét képezi,
-
-c) a határozat nem egy személy más állambeli állandó telephelyén folytatott tevékenységéhez kapcsolódó intézkedéseire vonatkozik, és
-
-d) a határozattal érintett ügylet vagy ügyletsorozat nem fejt ki határokon átnyúló hatást.
-
-(6) Nem vonatkozik az (1) bekezdés szerinti kötelezettség azon jogerős szokásos piaci ármegállapítási határozatokra, amelyek esetében az (5) bekezdés a) és d) pontja szerinti feltételek együttesen fennállnak.
-
-(7) Az (1) bekezdés szerinti adatszolgáltatási kötelezettséggel érintett információk a következők:
-
-1. az adózó (kérelmező) neve, címe, adóazonosító száma, ennek hiányában azzal egyenértékű azonosító (ha ilyennel rendelkezik);
-
-2. a határozat kiadásának időpontja;
-
-3. a határozattal érintett adóév(ek);
-
-4. a feltételes adómegállapítást, valamint a szokásos piaci ár megállapítását tartalmazó határozat típusa;
-
-5. a határozattal érintett ügylet és az azzal elérni kívánt gazdasági cél rövid leírása;
-
-6. az adatközlés indoka;
-
-7. a feltételes adómegállapítást, valamint a szokásos piaci ár megállapítását tartalmazó határozat által érintett államban illetőséggel bíró személy neve, címe, adóazonosító száma, ennek hiányában azzal egyenértékű azonosító (ha ilyennel rendelkezik).
-
-(8) A magyar hatáskörrel rendelkező hatóság a spontán információcsere keretében beérkezett információkkal összefüggésben – különösen a határozatok teljes szövegére vonatkozóan – a más állam hatáskörrel rendelkező hatóságától további információkat kérhet.
-
-(9) Az e §-ban foglalt spontán információcsere keretében a magyar megkeresett hatóság által közölt, továbbított vagy szerzett információ adótitoknak minősül.
-
-(10) A magyar hatáskörrel rendelkező hatóság az (1) bekezdés szerinti információcserét az OECD által erre a célra rendszeresített formanyomtatvány felhasználásával teljesíti.”
+214. §
 
 215–217. §
 
