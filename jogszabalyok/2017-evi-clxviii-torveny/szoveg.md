@@ -8,7 +8,7 @@ a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003
 
 (A 2005. évi LII. törvény I. és II. számú mellékletében kihirdetett szerződések nemzetközi jogi értelemben 2016. november 17-én, a III. számú mellékletében kihirdetett szerződés nemzetközi jogi értelemben 2016. december 21-én vesztette hatályát.)
 
-1. § Hatályát veszti a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvény I., II. és III. számú Melléklete.
+1. §
 
 #### 2. A megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvényben kihirdetett egyes Megállapodások felfüggesztése és megszüntetése
 
@@ -174,55 +174,7 @@ Készült 2016. április 4-én”
 
 #### 6. Az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezmény és az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezményt módosító Jegyzőkönyv kihirdetéséről szóló 2014. évi XLII. törvény módosításáról
 
-8. § Az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezmény és az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezményt módosító Jegyzőkönyv kihirdetéséről szóló 2014. évi XLII. törvény a következő 6/A. §-sal egészül ki:
-
-„6/A. § (1) Az Országgyűlés felhatalmazást ad arra, hogy az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezmény 28. cikkének (6) bekezdése alapján Magyarország az Egyezményhez egyoldalú nyilatkozatot tegyen a 6. cikk alkalmazhatóságára vonatkozóan.
-
-(2) Az egyoldalú nyilatkozat hiteles angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
-
-“DECLARATION ON THE EFFECTIVE DATE FOR EXCHANGES OF INFORMATION UNDER THE MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON AUTOMATIC EXCHANGE OF FINANCIAL ACCOUNT INFORMATION
-
-Considering that Hungary has committed to automatically exchange information as of 2017 and that, in order to be able to automatically exchange information under Article 6 of the Convention on Mutual Administrative Assistance in Tax Matters as amended by the Protocol amending the Convention on Mutual Administrative Assistance in Tax Matters (hereafter the “amended Convention”) [in accordance with the timeline to which it has committed], Hungary has signed a Declaration on joining the Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information (hereafter the “CRS MCAA”) on 29th October, 2014;
-
-Considering that, pursuant to its Article 28(6), the amended Convention shall have effect for administrative assistance related to taxable periods beginning on or after 1 January of the year following the one in which the amended Convention entered into force in respect of a Party, or where there is no taxable period, for administrative assistance related to charges to tax arising on or after 1 January of the year following the one in which the amended Convention entered into force in respect of a Party;
-
-Considering that Article 28(6) of the amended Convention provides that any two or more Parties may mutually agree that the amended Convention shall have effect for administrative assistance related to earlier taxable periods or charges to tax;
-
-Mindful that information may only be sent by a jurisdiction under the amended Convention with respect to taxable periods or charges to tax of the receiving jurisdiction for which the amended Convention is in effect and that, as a consequence, sending jurisdictions for which the Convention has newly entered into force in a given year are only in a position to provide administrative assistance to receiving jurisdictions for taxable periods beginning or charges to tax arising on or after 1 January of the following year;
-
-Acknowledging that an existing Party to the amended Convention would be able to receive information under Article 6 of the amended Convention and the CRS MCAA from a new Party with respect to earlier taxable periods or charges to tax than the date foreseen in the amended Convention if both Parties declare to agree that another date of effect is applicable;
-
-Further acknowledging that, therefore, a new Party to the amended Convention would be able to send information under Article 6 of the amended Convention and the CRS MCAA to an existing Party with respect to earlier taxable periods or charges to tax than the date foreseen in the amended Convention, if both Parties declare to agree that another date of effect is applicable;
-
-Recognising that the information received under Article 6 of the amended Convention and the CRS MCAA may lead to follow-up requests by the receiving jurisdiction to the sending jurisdiction, which would relate to the same reporting period for which the sending jurisdiction has automatically exchanged information under the CRS MCAA;
-
-Confirming that the capacity of a jurisdiction to send CRS-related information under Article 6 of the amended Convention and the CRS MCAA, as well as information relating to follow-up requests pursuant to Article 5 of the amended Convention, shall be governed by the terms of the CRS MCAA, including the relevant reporting periods of the sending jurisdiction contained therein, irrespective of the taxable periods or charges to tax of the receiving jurisdiction to which such information relates;
-
-Hungary declares that the amended Convention shall have effect in accordance with the terms of the CRS MCAA for administrative assistance under the CRS MCAA between Hungary and the other Parties to the amended Convention that have made similar declarations, irrespective of the taxable periods or charges to tax to which such information relates in the receiving jurisdiction.
-
-Hungary declares that the amended Convention shall also have effect for administrative assistance under its Article 5, between Hungary and the other Parties to the amended Convention that have made similar declarations, irrespective of the taxable periods or charges to tax to which such information relates in the receiving jurisdiction, when such assistance concerns follow-up requests related to information exchanged under the CRS MCAA with respect to reporting periods of the sending jurisdiction covered by the CRS MCAA.”
-
-„Nyilatkozat a pénzügyi számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás szerinti információcsere hatálybalépésének időpontjáról
-
-Tekintettel arra, hogy Magyarország elkötelezte magát a 2017-es automatikus információcsere mellett és azért, hogy 2017-ben képes legyen automatikus információ-cserét végezni az adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezményt módosító Jegyzőkönyvvel módosított adóügyekben történő kölcsönös adminisztratív segítségnyújtásról szóló Egyezmény (a továbbiakban „módosított Egyezmény”) 6. cikke alapján, Magyarország 2014. október 29-én aláírta a pénzügyi számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodást (a továbbiakban: „CRS MCAA”);
-
-Tekintettel arra, hogy a módosított Egyezmény rendelkezései annak 28. cikk (6) bekezdése alapján azt az évet követő év január 1-jén vagy 1-jét követően kezdődő adóköteles időszakokra vonatkozó adminisztratív segítségnyújtásra alkalmazandóak, amikor a Fél tekintetében a módosított Egyezmény hatályba lépett vagy adóköteles időszak hiányában a Fél tekintetében a módosított Egyezmény hatálybalépését követő év január 1-jén vagy 1-jét követően felmerülő, az adókötelezettséggel kapcsolatos adminisztratív segítségnyújtásra
-
-Tekintettel arra, hogy a módosított Egyezmény 28. cikk (6) bekezdése lehetőséget nyújt arra, hogy bármely két vagy több Fél közös megegyezéssel döntsön arról, hogy a módosított Egyezmény alkalmazható legyen korábbi adóköteles időszakokra vagy adókötelezettségekre vonatkozó adminisztratív segítségnyújtásra;
-
-Figyelembe véve, hogy a módosított Egyezmény alapján egy joghatóság csak akkor küldhet információt a fogadó joghatóság azon adóköteles időszakai vagy adókötelezettségei tekintetében, amelyekre a módosított Egyezmény alkalmazható, következésképpen a küldő joghatóság, amely vonatkozásában az Egyezmény újonnan lépett hatályba, a fogadó joghatóság számára egy adott évben csak a január 1-jén vagy azután kezdődő adóköteles időszakokra vagy felmerülő adókötelezettségekre nyújthat adminisztratív segítséget;
-
-Elismerve, hogy a módosított Egyezményben már részes Fél a módosított Egyezmény 6. cikke és a CRS MCAA alapján fogadhatna információt egy új Részes Féltől a módosított Egyezményben meghatározott időpontnál korábbi adóköteles időszakokra vagy felmerült adókötelezettségekre tekintettel, amennyiben mindkét Szerződő Fél nyilatkozik arról, hogy egy másik időpont alkalmazandó;
-
-Elismerve továbbá, hogy ebből következően a módosított Egyezményhez csatlakozó új Részes Fél a módosított Egyezmény 6. Cikke és a CRS MCAA alapján képes lenne információt küldeni egy már részes Szerződő Félnek a módosított Egyezményben meghatározott időpontnál korábbi adóköteles időszakokra vagy felmerült adókötelezettségekre vonatkozóan„ amennyiben mindkét Szerződő Fél nyilatkozik arról, hogy egy másik időpont alkalmazandó;
-
-Mivel, a Módosított Egyezmény 6. Cikke és a CRS MCAA alapján kapott információ a fogadó joghatóság részéről a küldő joghatósághoz intézett utólagos információkéréshez vezethet, amely ugyanazon jelentéstételi időszakhoz kapcsolódna, amelyre vonatkozóan a küldő joghatóság a CRS MCAA alapján automatikus információ-cserét végzett;
-
-Megerősítve, hogy a módosított Egyezmény 6. Cikke és a CRS MCAA alapján egy joghatóság CRS-hez kapcsolódó információküldési felhatalmazása, valamint hogy a Módosított Egyezmény 5. Cikke szerinti utólagos információkérése a CRS MCAA-ban meghatározott feltételek alapján történik, beleértve a küldő joghatóság ebben foglalt vonatkozó jelentéstételi időszakát, függetlenül a fogadó joghatóság azon adóköteles időszakaitól vagy adókötelezettségeitől, amelyekre az adott információ vonatkozik;
-
-Magyarország kijelenti, hogy a módosított Egyezmény a CRS MCAA feltételeinek megfelelően alkalmazható a CRS MCAA szerinti adminisztratív segítségnyújtására Magyarország és a módosított Egyezmény más olyan Szerződő Felei között, melyek hasonló nyilatkozatot tettek, függetlenül attól, hogy a fogadó joghatóságnál az adott információ mely adóköteles időszakokra vagy adókötelezettségekre vonatkozik.
-
-Magyarország kijelenti, hogy a módosított Egyezmény szintén alkalmazható az 5. Cikk szerinti adminisztratív segítségnyújtásra Magyarország és a módosított Egyezmény más olyan Szerződő Felei között, melyek hasonló nyilatkozatot tettek, függetlenül attól, hogy a fogadó joghatóságnál az adott információ mely adóköteles időszakokra vagy adókötelezettségekre vonatkozik, amennyiben a segítségnyújtásra a CRS MCAA alapján végzett információcserével kapcsolatban olyan utólagos információkérésre kerül sor, mely a küldő joghatóság CRS MCAA által lefedett jelentéstételi időszakára vonatkozik.”
+8. §
 
 9. § (1) Ez a törvény a – (2), (3) és (5) bekezdésben meghatározott kivételekkel – a kihirdetését követő napon lép hatályba.
 

@@ -642,7 +642,7 @@ Az A.T.A. igazolvány mérete 297 × 210 mm.
 
 6. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-7. § Hatályát veszti az áruk előjegyzési eljárásban való behozatalához szükséges, Brüsszelben 1961. december 6-án kötött A.T.A.-igazolványról, valamint a kereskedelmi minták E. C. S. igazoló füzeteire vonatkozó, Brüsszelben 1956. március 1-jén megkötött és a Vámegyüttműködési Tanács ajánlására 1960. június 15-én módosított Vámegyezmények kihirdetéséről szóló 1966. évi 5. törvényerejű rendelet.
+7. §
 
 8. § (1) Az e törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
 

@@ -2371,7 +2371,7 @@ adatainak egyeztetésére köteles.
 
 (2b) A szolgáltató nem jogosult a határozott időre kötött szerződést a (2) bekezdés b) illetve c) pontjára hivatkozva egyoldalúan módosítani, ha jogszabály olyan adó- vagy illetékfizetési kötelezettséget ír elő, amelynek alanya a szolgáltató.
 
-(2c) Amennyiben a szolgáltató a határozott időtartamú előfizetői szerződés időtartama alatt egyoldalúan módosítja a műsorterjesztési szolgáltatás keretében kínált csatornák összetételét, akkor az előfizető az értesítéstől számított 45 napon belül, azonnali hatállyal további jogkövetkezmények nélkül jogosult felmondani a határozott időtartamú előfizetői szerződést.
+(2c) Amennyiben a szolgáltató a határozott időtartamú előfizetői szerződés időtartama alatt egyoldalúan módosítja a műsorterjesztési szolgáltatás keretében kínált csatornák összetételét – ide nem értve az csatornasorrend megváltoztatását, valamint azt, ha a módosítást megelőzően kínált csatornák a módosítást követően is elérhetőek az előfizető számára –, akkor az előfizető az értesítéstől számított 45 napon belül, azonnali hatállyal, további jogkövetkezmények nélkül jogosult felmondani a határozott időtartamú előfizetői szerződést.
 
 (3) Lényeges módosításnak minősül különösen a szolgáltatás igénybevételének feltételeire (így különösen a szolgáltatásra vonatkozó alapvető díjszabásra, a szerződés időtartamára és megszüntetésének jogkövetkezményeire, illetve minőségi célértékeire) vonatkozó változtatás.
 
@@ -2387,7 +2387,11 @@ adatainak egyeztetésére köteles.
 
 (8a) A szolgáltató szerződésmódosításra vonatkozó ajánlatában közérthetően és áttekinthetően köteles rögzíteni, hogy az előfizetői szerződés módosítása esetén a szerződés mely feltételei milyen módon változnak meg, továbbá köteles tájékoztatni az előfizetőt a szerződésmódosítás menetéről.
 
-(9) A szolgáltató az előfizető kérésére csak az általános szerződési feltételekben foglaltak szerint módosíthatja az egyedi előfizetői szerződést, ha az előfizető személyében szerződés vagy egyéb jogcímen történő jogutódlás következtében változás következik be (átírás).
+(9) A szolgáltató az előfizető kérésére csak az általános szerződési feltételekben foglaltak szerint módosíthatja átírás jogcímén az egyedi előfizetői szerződést.
+
+(10) A szolgáltató az előfizető kérésére köteles a helyhez kötött elektronikus hírközlési szolgáltatás igénybevételéhez szükséges előfizetői hozzáférési pontot a földrajzi szolgáltatási területén belül áthelyezni, amennyiben ennek műszaki lehetősége adott. A szolgáltató nem köteles az áthelyezési igényt teljesíteni, ha az előfizetőnek az áthelyezési igény benyújtásakor a 137. § (1) bekezdés c) pontja szerinti díjtartozása áll fenn.
+
+(11) Amennyiben a határozott időtartamú előfizetői szerződés időtartama alatt az egyéni előfizető lakcímének vagy tartózkodási helyének változása miatt a korábbi lakcíméről, vagy tartózkodási helyéről új lakcímére, vagy tartózkodási helyére kéri az előfizetői hozzáférési pont áthelyezését, és a szolgáltató az áthelyezési igényt műszaki lehetőség hiányában teljesíteni nem tudja, az előfizető a szolgáltató erről szóló értesítését követő 15 napon belül azonnali hatállyal, további jogkövetkezmények nélkül felmondhatja a határozott időtartamú szerződést.
 
 ### Változás a szolgáltató személyében
 
@@ -3335,8 +3339,8 @@ való megfelelést szolgálja.
 - 1/c. Adatkicserélő szolgáltatás: előfizetők, elektronikus hírközlési szolgáltatók, vagy információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók által kezdeményezett, illetve fogadott IP alapú adatforgalom továbbítását lehetővé tevő, adatkicserélő központ útján természetes vagy jogi személy adatkicserélő szolgáltató által nyújtott elektronikus hírközlési szolgáltatás.
 - 2. Azonosító: az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához, illetőleg az elektronikus hírközlő hálózatok és szolgáltatások együttműködéséhez szükséges, az információ, illetőleg a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból, illetve jelekből álló karaktersorozat.
 - 3. Azonosítógazdálkodás: azon állami tevékenységek összessége, mely – a nemzetközi előírások figyelembevételével – a hírközlő hálózatok, illetőleg az elektronikus hírközlési szolgáltatások eléréséhez szükséges azonosítók használatát az egyes szolgáltatók számára rendelkezésre bocsátja. Jelen törvény vonatkozásában a domain név, az e-mail cím és az IP (Internet Protokoll) címekkel kapcsolatos tevékenységek nem tartoznak bele az azonosítógazdálkodási tevékenységbe.
-- 4.
-- 5.
+- 4. Áthelyezés: A helyhez kötött előfizetői elektronikus hírközlési szolgáltatás előfizetői hozzáférési pontjának a szolgáltató földrajzi szolgáltatási területén belül másik földrajzi helyre áthelyezése.
+- 5. Átírás: Az előfizetői szerződésnek az előfizető személyében bekövetkezett jogutódlás miatti módosítása.
 - 5/a. Átviteli rendszer: a televízió vagy rádió műsorjeleknek az analóg vagy digitális műsorterjesztését szolgáló műszaki eljárások, elektronikus hírközlési és más eszközök rendszere, amely a műsorterjesztés alkalmazott átviteli közegéhez – így különösen a levegőhöz és rádiófrekvenciához, koaxiális vezetékhez, sodrott érpárú vezetékhez, üvegszálas vezetékhez – kapcsolódik.
 - 6. Barangolás mobil rádiótávközlő hálózaton: mobil rádiótelefon hálózat üzemeltetőjének előfizetője által más mobil rádiótelefon szolgáltató vagy üzemeltető hálózatának igénybevétele oly módon, hogy az előfizető a részére előfizetői hozzáférést nyújtó elektronikus hírközlési szolgáltató hálózatában használt alap-, illetve a műszaki lehetőségek figyelembevételével további szolgáltatásokat és hívási módokat részben vagy egészben az igénybe vett hálózaton is használni tudja, anélkül, hogy ezen szolgáltató előfizetőjévé válna. 6/A. Belföldi forgalomba hozatal: Magyarországon első alkalommal történő forgalmazás.
 - 6b. Barangolásszolgáltató: az Unión belüli nyilvános mobilhírközlő hálózatok közötti barangolásról (roaming) szóló, 2012. június 13-i 531/2012/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés a) pontjában meghatározott vállalkozás.
