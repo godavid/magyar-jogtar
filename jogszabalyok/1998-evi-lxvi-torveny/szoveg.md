@@ -43,7 +43,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 - b) szociális hozzájárulási adó alapját képezi, vagy
 - c) az Szja tv. alapján adómentes vagy nem kell a jövedelemszámítás során figyelembe venni.
 
-(6) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem, amelyet a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban részesülő tagja a szövetkezet tevékenységében kifejtett személyes közreműködésének ellenértékeként a közérdekű nyugdíjas szövetkezettől szerzett.
+(6) Mentes a százalékos mértékű egészségügyi hozzájárulás alól az a jövedelem, amelyet a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja a szövetkezet tevékenységében kifejtett személyes közreműködésének ellenértékeként a közérdekű nyugdíjas szövetkezettől szerzett.
 
 (7) Az Szja tv. 28. § (2) bekezdése szerinti jövedelem után a jövedelmet szerző magánszemélyt terhelő egészségügyi hozzájárulás mértéke – az (1) bekezdésben foglaltaktól eltérően – 14 százalék, ha a jövedelem megszerzésének időpontja a lejárati szolgáltatással nem bíró, teljes életre (kizárólag halál esetére) szóló, visszavásárlási értékkel bíró életbiztosítás megkötésétől – de legkorábban 2013. január 1-jétől – számított 10 évet követő időpontra esik.
 
