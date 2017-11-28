@@ -235,14 +235,14 @@ a következő törvényt alkotja:
 
 26. § (1) A nyugdíjas szövetkezetnek csak természetes személy tagja lehet.
 
-(2) A nyugdíjas szövetkezet tagjainak legalább kilencven százaléka olyan természetes személy, aki öregségi nyugdíjban részesül.
+(2) A nyugdíjas szövetkezet tagjainak legalább kilencven százaléka olyan természetes személy, aki öregségi nyugdíjban vagy átmeneti bányászjáradékban részesül.
 
 (3) A nyugdíjas szövetkezetnek nem lehet személyes közreműködést nem vállaló természetes személy tagja.
 
 27. § A tagfelvételi kérelemben a tagságra jelentkező személynek nyilatkoznia kell arról, hogy
 
 - a) a nyugdíjas szövetkezet tagjává kíván válni,
-- b) öregségi nyugdíjban részesül-e,
+- b) öregségi nyugdíjban vagy átmeneti bányászjáradékban részesül-e,
 - c) az alapszabályban foglaltakat elfogadja, magára nézve kötelezőnek ismeri el,
 - d) a tagoknak biztosított szolgáltatásokat igénybe kívánja venni,
 - e) vállalja a nyugdíjas szövetkezet tevékenységében való személyes közreműködést, és
@@ -250,13 +250,13 @@ a következő törvényt alkotja:
 
 28. § A nyugdíjas szövetkezet tagja a személyes közreműködés konkrét tartalmára, módjára és ellentételezésére tagsági megállapodást köt a nyugdíjas szövetkezettel. A nyugdíjas szövetkezet tagját megillető ellentételezés arányos kell, hogy legyen a természetes személy tag személyes közreműködésének mértékével.
 
-29. § (1) A nyugdíjas szövetkezet öregségi nyugdíjban részesülő tagja személyes közreműködését a nyugdíjas szövetkezet által harmadik személy részére nyújtott szolgáltatás (a továbbiakban: külső szolgáltatás) keretében is teljesítheti.
+29. § (1) A nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja személyes közreműködését a nyugdíjas szövetkezet által harmadik személy részére nyújtott szolgáltatás (a továbbiakban: külső szolgáltatás) keretében is teljesítheti.
 
-(2) A külső szolgáltatás nyújtására irányuló jogviszony a nyugdíjas szövetkezet és öregségi nyugdíjban részesülő tagja közötti külső szolgáltatásra vonatkozó tagsági megállapodás alapján létrejött, olyan sajátos jogviszony, amelynek keretében a nyugdíjas szövetkezet öregségi nyugdíjban részesülő tagja teljesíti személyes közreműködését, és amelyre a Ptk. megbízásra vonatkozó, valamint az Mt. e törvényben meghatározott szabályait kell megfelelően alkalmazni.
+(2) A külső szolgáltatás nyújtására irányuló jogviszony a nyugdíjas szövetkezet és öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja közötti külső szolgáltatásra vonatkozó tagsági megállapodás alapján létrejött, olyan sajátos jogviszony, amelynek keretében a nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja teljesíti személyes közreműködését, és amelyre a Ptk. megbízásra vonatkozó, valamint az Mt. e törvényben meghatározott szabályait kell megfelelően alkalmazni.
 
-(3) A külső szolgáltatás nyújtása során a külső szolgáltatás fogadója a nyugdíjas szövetkezet öregségi nyugdíjban részesülő tagját közvetlenül utasíthatja. Az utasításadási jog kiterjed különösen a feladatteljesítés módjának, idejének és ütemezésének meghatározására.
+(3) A külső szolgáltatás nyújtása során a külső szolgáltatás fogadója a nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját közvetlenül utasíthatja. Az utasításadási jog kiterjed különösen a feladatteljesítés módjának, idejének és ütemezésének meghatározására.
 
-(4) A nyugdíjas szövetkezet öregségi nyugdíjban részesülő tagja részére, ha a feladatteljesítés tartama a napi hat órát meghaladja, napi húsz, ha a napi kilenc órát meghaladja, további napi huszonöt perc munkaközi szünetet kell biztosítani. A nyugdíjas szövetkezet öregségi nyugdíjban részesülő tagja részére, ha két egymást követő napon végzi feladatát, a napi munka befejezése és a következő napi munka megkezdése között legalább tizenegy óra pihenőidőt kell biztosítani.
+(4) A nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja részére, ha a feladatteljesítés tartama a napi hat órát meghaladja, napi húsz, ha a napi kilenc órát meghaladja, további napi huszonöt perc munkaközi szünetet kell biztosítani. A nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagja részére, ha két egymást követő napon végzi feladatát, a napi munka befejezése és a következő napi munka megkezdése között legalább tizenegy óra pihenőidőt kell biztosítani.
 
 (5) A külső szolgáltatás fogadójánál történő feladatteljesítés tartamára járó, az egyes feladatokhoz kapcsolódó díj nem lehet alacsonyabb, mint az Mt. 153. §-ában foglalt felhatalmazás alapján kiadott jogszabályban meghatározott minimális összeg.
 
