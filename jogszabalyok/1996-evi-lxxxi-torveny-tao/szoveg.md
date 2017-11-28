@@ -242,7 +242,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 (4) Az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, ha az adóév utolsó napján ilyen jogalanynak minősül, a lakásszövetkezet, az önkéntes kölcsönös biztosító pénztár, az MRP, a közhasznú nonprofit gazdasági társaság, a közhasznú szervezetként besorolt felsőoktatási intézmény, a szociális szövetkezet, továbbá a vízitársulat és a külföldi vállalkozó az (1)–(2) bekezdés rendelkezéseit a 9-14. §-ok figyelembevételével alkalmazza, feltéve, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény megfelelő alkalmazásával elsődlegesen gazdasági-vállalkozási tevékenységet végző szervezetnek nem minősül.
 
-(4a) A 10. §-ban foglalt, az iskolaszövetkezetekre vonatkozó rendelkezéseket a közérdekű nyugdíjas szövetkezetek tekintetében is megfelelően alkalmazni kell.
+(4a)
 
 (5) Ha az adózó (2) bekezdés szerinti adózás előtti eredménye vagy az (1) bekezdés szerinti adóalapja közül a nagyobb érték nem éri el a jövedelem-(nyereség-)minimumot, akkor választása szerint
 
@@ -536,7 +536,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (11) Abban az adóévben, amelyben az alapítvány, a közalapítvány, az egyesület, a köztestület az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül, a társasági adó alapja – az (1)–(10) bekezdéstől eltérően – az adózás előtti eredmény, módosítva a 7–8. §-ban, a 16. §-ban, a 18. §-ban és a 28. §-ban, valamint a VII. Fejezetben foglaltakkal.
 
-### Az iskolaszövetkezet adóalapja
+### Az iskolaszövetkezet és a közérdekű nyugdíjas szövetkezet adóalapja
 
 10. § (1) Az iskolaszövetkezet adóalapja az adóévre jóváhagyott osztalék, részesedés, továbbá a (6) bekezdés szerint nyilvántartott, adómentesen képződött eredménytartalékból osztalék, részesedés címen jóváhagyott összeg, valamint a jegyzett tőke leszállítása, a tagi jogviszony megszűnése következtében az adóévben keletkezett kötelezettségek együttes összege (a továbbiakban: megállapított osztalék), módosítva a (2)–(5) bekezdésben, továbbá a 18. és 28. §-okban, valamint – figyelemmel a (2)–(3) bekezdésre – a VII. fejezetben foglaltakkal.
 
@@ -553,6 +553,8 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 (7) Iskolaszövetkezetek egyesülése, szétválása esetén a (6) bekezdés szerint nyilvántartott eredménytartalékot – az átalakulás, egyesülés, szétválás formájától függően – összesítéssel, illetve megosztással kell megállapítani, majd ezt az értéket csökkenteni kell az átalakulással, egyesüléssel, szétválással létrejött társaságban részt venni nem kívánó tag részére kiadásra kerülő eszközök és kötelezettségek értékének különbözetével. A csökkentést először az adózottan képzett eredménytartalék terhére kell elszámolni úgy, hogy az ne váljon negatívvá, a fennmaradó rész az adómentesen képzett eredménytartalékot csökkenti.
 
 (8) E § alkalmazásában az eredménytartalékkal esik egy tekintet alá a jegyzett tőkének az a része is, amely az eredménytartalék terhére történő felemeléséből származik, valamint a tőketartaléknak a pozitív összevont átértékelési különbözetből származó része. Ha az adózó a jegyzett tőkét leszállítja, azt kell feltételezni, hogy a tőkeleszállítás – az eredménytartalékból megvalósított tőkeemelés összegéig – jegyzett tőkének az eredménytartalékból származó részéből történt.
+
+(9) Az e §-ban foglalt, az iskolaszövetkezetekre vonatkozó rendelkezéseket a közérdekű nyugdíjas szövetkezetek tekintetében is alkalmazni kell.
 
 ### A kizárólag készfizető kezességvállalást folytató részvénytársaság adóalapja
 
@@ -1527,7 +1529,7 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 (10) A kettős könyvvitelt vezető belföldi illetőségű adózónak és a külföldi vállalkozónak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie, azzal, hogy a várható fizetendő adó – ha az adózó az Európai Uniótól, illetve a költségvetésből támogatást kap – e támogatások miatt elszámolt adóévi bevételből az adóév utolsó hónapjának 15. napjáig meg nem kapott összeg figyelembevétele nélkül számított adóalap alapján megállapított adó összegével azonos. E rendelkezés nem vonatkozik arra az adózóra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg a 100 millió forintot.
 
-(11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek és az iskolaszövetkezetnek.
+(11) Nem kell az (1)–(10) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek, a közérdekű nyugdíjas szövetkezetnek és az iskolaszövetkezetnek.
 
 (12) A jogi személy és az egyéni cég az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő 60 napon belül köteles az esedékességi időre eső összeg feltüntetésével az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő naptól az adóévet követő hatodik hónap utolsó napjáig számított időszak valamennyi teljes naptári negyedévére társasági adóelőleget bevallani és egyenlő részletekben a negyedév utolsó hónapjának 10. napjáig megfizetni. A háromhavonta esedékes társasági adóelőleg összege
 
