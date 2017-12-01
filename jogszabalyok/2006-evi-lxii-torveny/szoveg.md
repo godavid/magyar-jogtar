@@ -3018,7 +3018,7 @@ Légiközlekedés-védelem
 
 (2) A második átmeneti időszak végéig, amennyiben a védelemben hiányosságok tapasztalhatók, az Európai Közösség megkövetelheti, hogy egy az UNMIK által engedélyezett légifuvarozó külön védelmi értékelésen essen át mielőtt az Európai Közösségbe tartó, onnan induló vagy azon belül közlekedő járatokat üzemeltethetne. Az ilyen biztonsági értékelést az Európai Közösség mihamarabb elvégzi annak érdekében, hogy az ne késleltesse indokolatlanul a forgalmi jogok gyakorlását.”
 
-4. § Az Országgyűlés jóváhagyja a Megállapodásnak az e törvény hatálybalépése napjától kezdődően történő ideiglenes alkalmazását.
+4. §
 
 5. § (1) E törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 

@@ -66,7 +66,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 27. §
 
-#### 5. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
+#### 5.
 
 28. §
 

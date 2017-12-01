@@ -1139,4 +1139,8 @@ végzés ellen.
 
 122. § Ha a jegyző, illetve közjegyző az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az érintett jegyző, illetve közjegyző vonatkozásában a kézbesítésre e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-#### 123–125. §
+#### 123. §
+
+124. § Az országos kamara adategyeztetés céljából 2017. december 31-ig a Magyar Ügyvédi Kamara rendelkezésére bocsátja az ügyvéd által készített vagy letétbe vett végintézkedéseknek a Végrendeletek Országos Nyilvántartásába bejegyzett adatait annak érdekében, hogy a Magyar Ügyvédi Kamara intézkedjen e végintézkedéseknek a Magyar Ügyvédi Kamara Irattárában való elhelyezése iránt.
+
+#### 125. §

@@ -1460,6 +1460,8 @@ igényelhetnek adatot.
 
 (8) A menekültügyi hatóság – az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám alkalmazásával – köteles haladéktalanul adatszolgáltatást teljesíteni az arckép profil nyilvántartás vezetéséért felelős szervnek a menekültügyi nyilvántartásban kezelt arcképmás adat nyilvántartásba vételéről, valamint az arcképmás adat változásáról.
 
+(9) A menekültügyi hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását átadja.
+
 87/A. § (1) A rendőrség a 31/A. § (10) bekezdésben meghatározott közreműködéséből eredő feladatai végrehajtása érdekében a rendőrségi közreműködéssel érintett, elismerését kérő alábbi adatait kezeli:
 
 - a) családi és utóneve vagy -nevei,

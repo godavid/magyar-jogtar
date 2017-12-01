@@ -6,7 +6,9 @@ egyes belügyi tárgyú törvények módosításáról
 
 1–3. §
 
-4. §
+4. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény IV. fejezete a következő 24/G. §-sal egészül ki:
+
+„24/G. § A nyilvántartást kezelő szerv a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a polgár arcképmását átadja.”
 
 5. §
 
@@ -52,13 +54,17 @@ egyes belügyi tárgyú törvények módosításáról
 
 42–43. §
 
-44. §
+44. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 106. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) Az idegenrendészeti hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását átadja.”
 
 45. §
 
 #### 9. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-46. §
+46. § A menedékjogról szóló 2007. évi LXXX. törvény 87. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) A menekültügyi hatóság a körözési nyilvántartási rendszer részére – az arcképmás nyilvántartásba vétele céljából – a körözési nyilvántartási rendszerről szóló törvényben meghatározottak szerint a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását átadja.”
 
 #### 10. A vízitársulatokról szóló 2009. évi CXLIV. törvény módosítása
 
@@ -92,25 +98,93 @@ egyes belügyi tárgyú törvények módosításáról
 
 #### 17. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-72. §
+72. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 1. § d) és e) pontja helyébe a következő rendelkezések lépnek:
+
+(E törvény alkalmazásában)
+
+„d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, a Rendőrségről szóló törvény szerinti rejtett ellenőrzés, valamint az elfogatóparancs, az európai elfogatóparancs és a nemzetközi körözés,
+
+e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, ismeretlen eredetű dolgok azonosítására irányuló eljárás, valamint a Rendőrségről szóló törvény szerinti rejtett ellenőrzéssel kapcsolatos intézkedések összessége,”
 
 73. §
 
-74. §
+74. § (1) A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 3. § (2) bekezdés a) pontja a következő aj) alponttal egészül ki:
 
-75. §
+(A körözött személyek nyilvántartása a következő adatokat tartalmazza: a körözött személy:)
+
+„aj) személyiadat- és lakcímnyilvántartás, a központi idegenrendészeti nyilvántartás, illetve a menekültügyi nyilvántartás szerinti arcképmását,”
+
+(2) A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b) és d)–j) pontjában meghatározott adatokat a körözést elrendelő rögzíti.”
+
+75. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 3. alcíme a következő 3/A–3/C. §-sal egészül ki:
+
+„3/A. § (1) A 3. § (2) bekezdés a) pont aa)–ai) alpontjában meghatározott adatok rögzítését követően a nyilvántartó közvetlen adatkapcsolat útján megkeresi
+
+a) a személyiadat- és lakcímnyilvántartást kezelő szervet,
+
+b) a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait vezető szervet, valamint
+
+c) a menekültügyi nyilvántartást vezető szervet, hogy
+
+a körözött személy általa vezetett nyilvántartásban szereplő arcképmását közvetlen adatkapcsolat útján továbbítsa a nyilvántartó részére.
+
+(2) Az (1) bekezdés szerinti adatközlésre kötelezett szerv az arcképmás nyilvántartásba vétele céljából közvetlen adatkapcsolat útján továbbítja a nyilvántartó részére a körözött személy arcképmását.
+
+3/B. § (1) A nyilvántartó a 3. § (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomonkövetése céljából – a 3. § (2) bekezdés a)–l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
+
+a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
+
+b) a központi idegenrendészeti nyilvántartás hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait vezető szerv által kezelt adatokkal,
+
+c) a menekültügyi nyilvántartást hatálya alá tartozó személyek esetében a menekültügyi nyilvántartást vezető szerv által kezelt adatokkal.
+
+(2) Az adatváltozást az (1) bekezdés szerinti adategyeztetés után a körözött személyek nyilvántartásában haladéktalanul át kell vezetni.
+
+3/C. § A körözött személyek nyilvántartásában szereplő adatokat a nyilvántartó
+
+a) a körözés visszavonását követő harmadik napig,
+
+b) eltűnt személy esetén – ha a körözés visszavonására nem került sor, – a körözés elrendelésétől számított 90 évig,
+
+c) eltűnt személy esetén az eltűntnek nyilvánító határozat visszavonását követő harmadik napig, vagy
+
+d) a körözött személy haláláig
+
+kezeli.”
 
 76–77. §
 
-78. §
+78. § (1) A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 10. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-79. §
+„(3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.”
 
-80. § (1)
+(2) A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 10. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(6) A személyiadat- és lakcímnyilvántartást kezelő szerv, az útlevélhatóság és a közúti közlekedési nyilvántartó szerv az okmánykiadással kapcsolatos eljárás során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
+
+(7) A jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.”
+
+(3) A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 10. §-a a következő (7a) bekezdéssel egészül ki:
+
+„(7a) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.”
+
+79. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 29. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A találatot elérő szerv a rejtett ellenőrzés végrehajtása során az Rtv. 46/C. §-ban foglalt intézkedést foganatosítja.”
+
+80. § (1) A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény
+
+- a) 6. § (2) bekezdés d) pontjában a „pontjában” szövegrész helyébe a „pont aa)–ai) alpontjában szöveg,
+- b) 8. § (1) bekezdésében az „aa)–ad) és ag)” szövegrész helyébe az „aa)–ad), ag) és aj)” szöveg, valamint
+- c) 8. § (3) bekezdés a) pontjában az „aa)–ad) alpontjában” szövegrész helyébe az „aa)–ad) és aj) alpontjában” szöveg
+
+lép.
 
 (2) Hatályát veszti a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény
 
-- a)
+- a) 3. § (7)–(9) bekezdése, valamint
 - b)
 
 #### 18. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
