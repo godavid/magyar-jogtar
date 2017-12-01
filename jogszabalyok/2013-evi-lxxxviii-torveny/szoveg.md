@@ -11,8 +11,8 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 - a) dolog: a számokból, betűkből, írásjelekből, matematikai műveleti jelekből, ezek kombinációjából, valamint elektronikus azonosítóból álló jelsorozattal megjelölt vagy egyéb egyedi ismérvei alapján ezek hiányában is kétséget kizáróan azonosítható tárgy, állat, növény,
 - b) európai elfogatóparancs: olyan igazságügyi hatósági határozat, amelyet az Európai Unió egy tagállamában bocsátanak ki, és azt a célt szolgálja, hogy egy másik európai uniós tagállam büntetőeljárás, szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából a keresett személyt elfogja és átadja, vagy a keresett tárgyat felkutassa, lefoglalja és átadja,
 - c) kapcsolatba hozható személy: a körözési eljárás során a körözést elrendelő vagy a körözési eljárást lefolytató szerv által megjelölt, a körözött személy felkutatását elősegítő információval rendelkező személy, személyazonossággal visszaélés esetén a személyazonossággal visszaélés áldozata,
-- d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, valamint az elfogató parancs, európai elfogató parancs és a nemzetközi körözés,
-- e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, valamint ismeretlen eredetű dolgok azonosítására irányuló eljárás,
+- d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, a Rendőrségről szóló törvény szerinti rejtett ellenőrzés, valamint az elfogatóparancs, az európai elfogatóparancs és a nemzetközi körözés,
+- e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, ismeretlen eredetű dolgok azonosítására irányuló eljárás, valamint a Rendőrségről szóló törvény szerinti rejtett ellenőrzéssel kapcsolatos intézkedések összessége,
 - f) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar hatóság kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által Magyarország területén végzett körözési eljárás, kivéve az európai elfogatóparancs alapján végzett körözési eljárást.
 
 ### II. Fejezet — A KÖRÖZÉSI NYILVÁNTARTÁSI RENDSZER
@@ -64,6 +64,7 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
   - ag) állampolgárságát vagy hontalanságát,
   - ah) lakcím adatát, továbbá annak megváltozása esetén korábbi lakcím adatát,
   - ai) értesítési címét,
+  - aj) személyiadat- és lakcímnyilvántartás, a központi idegenrendészeti nyilvántartás, illetve a menekültügyi nyilvántartás szerinti arcképmását,
 - b) a körözött személy
   - ba) álnevét, gúnynevét,
   - bb) személyleírását, különös ismertető jegyeit,
@@ -101,7 +102,7 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
   - lc) befejezésének időpontját, valamint
   - ld) tartalmi leírását.
 
-(3) A körözött személyek nyilvántartásába a (2) bekezdés a), b), d)–j) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
+(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b) és d)–j) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
 
 (4) A körözött személyek nyilvántartásába a (2) bekezdés c) pontjában meghatározott adatokat a körözést elrendelő rögzíti, ha az adat a körözés alapjául szolgáló bűncselekmény tényállási eleme.
 
@@ -109,18 +110,31 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 
 (6) A körözött személyek nyilvántartásába a (2) bekezdés k) pontjában meghatározott adatokat az eltűntnek nyilvánító rendőri szerv rögzíti.
 
-(7) A nyilvántartó a (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomon követése céljából – a (2) bekezdés a)–l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
+(7)–(9)
 
-- a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
-- b) az idegenrendészeti nyilvántartások hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartást vezető szerv által kezelt adatokkal.
+3/A. § (1) A 3. § (2) bekezdés a) pont aa)–ai) alpontjában meghatározott adatok rögzítését követően a nyilvántartó közvetlen adatkapcsolat útján megkeresi
 
-(8) Az adatváltozást a (7) bekezdés szerinti adategyeztetés után a körözött személyek nyilvántartásában haladéktalanul át kell vezetni.
+- a) a személyiadat- és lakcímnyilvántartást kezelő szervet,
+- b) a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait vezető szervet, valamint
+- c) a menekültügyi nyilvántartást vezető szervet, hogy
 
-(9) A körözött személyek nyilvántartásában szereplő adatokat a nyilvántartó
+a körözött személy általa vezetett nyilvántartásban szereplő arcképmását közvetlen adatkapcsolat útján továbbítsa a nyilvántartó részére.
+
+(2) Az (1) bekezdés szerinti adatközlésre kötelezett szerv az arcképmás nyilvántartásba vétele céljából közvetlen adatkapcsolat útján továbbítja a nyilvántartó részére a körözött személy arcképmását.
+
+3/B. § (1) A nyilvántartó a 3. § (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomonkövetése céljából – a 3. § (2) bekezdés a)–l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
+
+- a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
+- b) a központi idegenrendészeti nyilvántartás hatálya alá tartozó személyek esetében a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait vezető szerv által kezelt adatokkal,
+- c) a menekültügyi nyilvántartást hatálya alá tartozó személyek esetében a menekültügyi nyilvántartást vezető szerv által kezelt adatokkal.
+
+(2) Az adatváltozást az (1) bekezdés szerinti adategyeztetés után a körözött személyek nyilvántartásában haladéktalanul át kell vezetni.
+
+3/C. § A körözött személyek nyilvántartásában szereplő adatokat a nyilvántartó
 
 - a) a körözés visszavonását követő harmadik napig,
-- b) eltűnt személy esetén – ha a körözés visszavonására nem került sor – a körözés elrendelésétől számított 90 évig,
-- c) eltűnt személy esetén az eltűntnek nyilvánító határozat visszavonását követő harmadik napig,
+- b) eltűnt személy esetén – ha a körözés visszavonására nem került sor, – a körözés elrendelésétől számított 90 évig,
+- c) eltűnt személy esetén az eltűntnek nyilvánító határozat visszavonását követő harmadik napig, vagy
 - d) a körözött személy haláláig
 
 kezeli.
@@ -235,7 +249,7 @@ kezeli.
   - ba) címét,
   - bb) elérhetőségét,
 - c) a találó nyilatkozatát a talált dolog tulajdonjogára való igényéről,
-- d) a találó 3. § (2) bekezdés a) pontjában meghatározott adatait, ha igényt tart a talált dolog tulajdonjogára.
+- d) a találó 3. § (2) bekezdés a) pont aa)–ai) alpontjában meghatározott adatait, ha igényt tart a talált dolog tulajdonjogára.
 
 (3) A jegyző a (2) bekezdésben meghatározott adatokat a nyilvántartásban rögzíti.
 
@@ -269,13 +283,13 @@ törli.
 
 #### 8. A nyilvántartás közérdekből nyilvános adattartalma
 
-8. § (1) Elfogatóparancs, európai elfogatóparancs alapján elrendelt körözési eljárás esetén, amely a körözött személy őrizetbe vételére, előállítására irányul, a 3. § (2) bekezdés a) pont aa)–ad) és ag) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
+8. § (1) Elfogatóparancs, európai elfogatóparancs alapján elrendelt körözési eljárás esetén, amely a körözött személy őrizetbe vételére, előállítására irányul, a 3. § (2) bekezdés a) pont aa)–ad), ag) és aj) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
 
 (2) A bíróság, ügyész vagy nyomozó hatóság döntése alapján – tárgyi bizonyítási eszköz megtalálása érdekében elrendelt dolog körözése esetén – a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
 
 (3) A nyilvántartásban szereplő adatok közül közérdekből nyilvános adatnak minősül
 
-- a) az eltűnt személy 3. § (2) bekezdés a) pont aa)–ad) alpontjában, b) pont bc) alpontjában, j) pontjában, k) pont ka)–kc) alpontjában,
+- a) az eltűnt személy 3. § (2) bekezdés a) pont aa)–ad) és aj) alpontjában, b) pont bc) alpontjában, j) pontjában, k) pont ka)–kc) alpontjában,
 - b) az 5. § (2) bekezdés a) pont aa), ac) és ad) alpontjában, b) és c) pontjában,
 - c) a 6. § (2) bekezdés a) és b) pontjában
 
@@ -325,7 +339,7 @@ meghatározott adat.
 
 (2) Az igazságügyért felelős miniszter a kegyelmi ügyek intézése céljából, valamint az igazságügyért felelős miniszter és az ügyészség a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
 
-(3) A menekültügyi hatóság, az idegenrendészeti hatóság és az állampolgársági ügyekben eljáró szerv a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.
 
 (4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
@@ -333,9 +347,11 @@ meghatározott adat.
 
 (5) A bíróság a holttá nyilvánítási eljárása során közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
-(6) A jogszabály alapján személyazonosító igazolvány, útlevél, állampolgársági bizonyítvány, honosítási okirat, illetve járművezetésre jogosító okmány kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából.
+(6) A személyiadat- és lakcímnyilvántartást kezelő szerv, az útlevélhatóság és a közúti közlekedési nyilvántartó szerv az okmánykiadással kapcsolatos eljárás során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
 
-(7) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából.
+(7) A jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
+
+(7a) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során az e törvény szerinti azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével.
 
 (8) Az NBSZ a személyazonosítást elősegítő eszköz üzemeltetése során közvetlen hozzáféréssel jogosult átvenni a 8. § (1) bekezdésben meghatározott közérdekből nyilvános adatokat a körözött személy tartózkodási helyének meghatározása érdekében.
 
@@ -747,6 +763,8 @@ szerinti intézkedést alkalmazhatja.
 - b) a 26. § (1) bekezdés b) pontja
 
 szerinti intézkedést alkalmazhatja.
+
+(4) A találatot elérő szerv a rejtett ellenőrzés végrehajtása során az Rtv. 46/C. §-ban foglalt intézkedést foganatosítja.
 
 29/A. § A körözési eljárást lefolytató szerv jogosult az általa kezelt arcképmás adat felhasználásával a 8. § (1) bekezdésében meghatározott körözött személyek azonosítása és az eltűnt személyek felkutatása érdekében az arckép profil nyilvántartást kezelő szerv arcképelemző tevékenységét igénybe venni.
 

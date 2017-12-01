@@ -1218,7 +1218,7 @@ első fokú végzés ellen.
 
 (5) A közterületet rendeltetésének megfelelően bárki használhatja. A közterület rendeltetésére és használatára jogszabály további szabályokat állapíthat meg.
 
-(6)
+(6) Amennyiben elosztóvezeték vagy elosztóhálózat létesítéséhez vagy felújításához a közterület tulajdonosának, kezelőjének nyilatkozata, hozzájárulása vagy jóváhagyása szükséges a közterület igénybevételével, felbontásával kapcsolatban, és arra az elosztó nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni.
 
 (7) Egyéb ingatlanoknak a közhasználat céljára átadott területrészére – az erről szóló külön szerződésben foglaltak keretei között – a közterületre vonatkozó rendelkezéseket kell alkalmazni.
 
