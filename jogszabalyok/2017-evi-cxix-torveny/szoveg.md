@@ -20,9 +20,7 @@ a közjegyzőkről szóló 1991. évi XLI. törvény és egyes igazságügyi tá
 
 15–16. §
 
-17. § A Hetv. a következő 124. §-sal egészül ki:
-
-„124. § Az országos kamara adategyeztetés céljából 2017. december 31-ig a Magyar Ügyvédi Kamara rendelkezésére bocsátja az ügyvéd által készített vagy letétbe vett végintézkedéseknek a Végrendeletek Országos Nyilvántartásába bejegyzett adatait annak érdekében, hogy a Magyar Ügyvédi Kamara intézkedjen e végintézkedéseknek a Magyar Ügyvédi Kamara Irattárában való elhelyezése iránt.”
+17. §
 
 #### 4. Záró rendelkezések
 
