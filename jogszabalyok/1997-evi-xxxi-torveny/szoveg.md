@@ -69,7 +69,7 @@ betöltötte, azonban a 18. – javítóintézetben történő nevelése esetén
 - p) tartós betegség: azon kórforma, amely a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosít,
 - q) fogyatékos gyermek, fiatal felnőtt:
   - qa) a gyermekvédelmi pénzbeli és természetbeni ellátások tekintetében a külön jogszabályban meghatározott magasabb összegű családi pótlékra jogosító fogyatékosságban szenvedő gyermek, fiatal felnőtt,
-  - qb) a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások és gyermekvédelmi szakellátások, valamint az ingyenes és kedvezményes intézményi gyermekétkeztetés tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) 4. § 25. pontjában foglaltaknak megfelelő gyermek, fiatal felnőtt,
+  - qb) a személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások és gyermekvédelmi szakellátások, valamint az ingyenes és kedvezményes intézményi gyermekétkeztetés tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nktv.) 4. § 25. pontjában foglaltaknak megfelelő gyermek, fiatal felnőtt, valamint a korai fejlesztésre és gondozásra jogosult gyermek,
 - r) jövedelem: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 4. §-a (1) bekezdésének a) pontjában meghatározattak,
 - s) fenntartó:
   - sa) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv, a helyi önkormányzat, a helyi önkormányzatok társulása (a továbbiakban együtt: állami fenntartó),
@@ -344,7 +344,7 @@ hivatalból jár el, e tevékenységével kapcsolatban a büntetőjogi védelem 
 
 (11) Ha a pedagógus-munkakörben foglalkoztatott személy foglalkoztatása a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben vagy az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben történik, heti teljes munkaideje 40 óra, amelynek 80%-a kötött munkaidő. A kötött munkaidőt a munkáltató által, a munkakörhöz kapcsolódóan meghatározott feladatok ellátásával kell tölteni. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkozatott személy a feladatainak beosztását maga határozza meg.
 
-(11a) Ha a pedagógus-munkakörben foglalkoztatott személy foglalkoztatása a (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsődében, mini bölcsődében történik, heti teljes munkaideje 40 óra, amelyből napi 7 óra, a sajátos nevelési igényű gyermekek nevelését, gondozását végző speciális csoportban kisgyermeknevelőként pedagógus-munkakörben foglalkoztatott, a pszichológus, valamint a gyógypedagógus esetén napi 6 óra kötött munkaidő. A kötött munkaidőt a munkáltató által, a munkakörhöz kapcsolódóan meghatározottak szerint a gyermekek közvetlen nevelésére, gondozására kell fordítani. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy részére a bölcsődei nevelést, gondozást előkészítő, azzal összefüggő egyéb feladatok elvégzése, gyakornok szakmai segítése és eseti helyettesítés ellátása rendelhető el.
+(11a) Ha a pedagógus-munkakörben foglalkoztatott személy foglalkoztatása a (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsődében, mini bölcsődében történik, heti teljes munkaideje 40 óra, amelyből napi 7 óra, az Nktv. 4. § 25. pontja szerinti sajátos nevelési igényű gyermekek (a továbbiakban: sajátos nevelési igényű gyermek), valamint a korai fejlesztésre és gondozásra jogosult gyermekek nevelését, gondozását végző speciális csoportban kisgyermeknevelőként pedagógus-munkakörben foglalkoztatott, a pszichológus, valamint a gyógypedagógus esetén napi 6 óra kötött munkaidő. A kötött munkaidőt a munkáltató által, a munkakörhöz kapcsolódóan meghatározottak szerint a gyermekek közvetlen nevelésére, gondozására kell fordítani. A munkaidő fennmaradó részében a pedagógus-munkakörben foglalkoztatott személy részére a bölcsődei nevelést, gondozást előkészítő, azzal összefüggő egyéb feladatok elvégzése, gyakornok szakmai segítése és eseti helyettesítés ellátása rendelhető el.
 
 (12) Ha a pedagógus-munkakörben foglalkoztatott személy foglalkoztatása a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézményben vagy az (5) bekezdésben meghatározott javítóintézeti nevelést nyújtó intézményben történik, számára a teljes munkaidő 60–75%-ában (a továbbiakban: neveléssel, fejlesztéssel és vizsgálattal lekötött munkaidő) a gyermekekkel, fiatal felnőttekkel való közvetlen, egyéni és csoportos foglalkozás, fejlesztés és oktatás tartása, a gyermekek, fiatal felnőttek és a velük kapcsolatos intézkedések meghozatala, a számukra nyújtott ellátások meghatározása szempontjából jelentőséggel bíró személyek személyiségállapotának vizsgálata, pedagógiai megfigyelések végzése és családgondozási, utógondozási feladatok ellátása rendelhető el a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint.
 
@@ -1163,7 +1163,7 @@ vezeti.
 
 (2) Bölcsődei ellátást biztosíthat a bölcsőde, a mini bölcsőde, a munkahelyi bölcsőde és a családi bölcsőde.
 
-(3) Bölcsődei ellátás keretében az Nktv. 4. § 25. pontja szerinti sajátos nevelési igényű gyermek (a továbbiakban: sajátos nevelési igényű gyermek) nevelése és gondozása is végezhető.
+(3) Bölcsődei ellátás keretében a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek nevelése és gondozása is végezhető.
 
 (4) A bölcsődei ellátás keretében az (1) bekezdés szerinti ellátáson túl – szolgáltatásként – speciális tanácsadás, időszakos gyermekfelügyelet, gyermekhotel működtetése vagy más gyermeknevelést segítő szolgáltatás is biztosítható. Ezeket a szolgáltatásokat a gyermek hatodik életévének betöltéséig lehet igénybe venni.
 
@@ -1172,7 +1172,7 @@ vezeti.
 42/A. § (1) Bölcsődei ellátás keretében a gyermek húszhetes korától nevelhető és gondozható
 
 - a) az óvodai nevelésre nem érett gyermek esetén a (2) bekezdésben meghatározott időpontig,
-- b) a sajátos nevelési igényű gyermek esetén a (3) bekezdésben meghatározott időpontig,
+- b) a a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek esetén a (3) bekezdésben meghatározott időpontig,
 - c) az a) és b) pont alá nem tartozó gyermek esetén, ha a harmadik életévét
   - ca) január 1-je és augusztus 31-e között tölti be, az adott év augusztus 31-éig,
   - cb) szeptember 1-je és december 31-e között tölti be, a következő év augusztus 31-éig, ha a szülő, törvényes képviselő nyilatkozik arról, hogy a gyermek napközbeni ellátását eddig az időpontig bölcsődei ellátás keretében kívánja megoldani.
@@ -1221,7 +1221,7 @@ vezeti.
 
 ### Munkahelyi bölcsőde
 
-44. § (1) A munkahelyi bölcsőde olyan bölcsődei ellátást nyújtó szolgáltatás, amelyet a foglalkoztató tart fenn elsősorban a nála keresőtevékenységet folytató személyek gyermekei bölcsődei ellátásának biztosítására.
+44. § (1) A munkahelyi bölcsőde olyan bölcsődei ellátást nyújtó szolgáltatás, amelyet a foglalkoztató, vagy a foglalkoztatóval kötött megállapodás alapján az 5. § s) pontja szerinti fenntartó tart fenn, elsősorban a foglalkoztatónál keresőtevékenységet folytató személyek gyermekei bölcsődei ellátásának biztosítására. A foglalkoztatóval kötött megállapodás alapján az 5. § s) pontja szerinti fenntartó által működtetett szolgáltatásra is a munkahelyi bölcsődére vonatkozó szakmai és finanszírozási szabályokat kell alkalmazni.
 
 (2) Az (1) bekezdés alkalmazásában
 
@@ -1263,7 +1263,7 @@ feltéve, hogy nem áll fenn vele szemben a 15. § (8) bekezdésében meghatáro
 - e) az iskolai oktatásban részesülő tanuló számára az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvételének idején kívül, valamint a tanítási szünetekben, és
 - f) az Nktv. rendelkezései szerint az általános iskolában a tizenhat óra előtt megszervezett egyéb foglalkozás alól felmentett gyermek számára.
 
-(2) A napközbeni gyermekfelügyelet keretében a sajátos nevelési igényű gyermekek számára szükségleteikhez igazodó ellátást kell nyújtani.
+(2) A napközbeni gyermekfelügyelet keretében a sajátos nevelési igényű gyermekek, valamint a korai fejlesztésre és gondozásra jogosult gyermekek számára szükségleteikhez igazodó ellátást kell nyújtani.
 
 (3) A napközbeni gyermekfelügyelet megszervezhető
 

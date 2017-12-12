@@ -1473,39 +1473,7 @@ Ez a közös nyilatkozat egy-egy eredeti példányban, német, spanyol, francia 
 
 ### Módosító rendelkezések
 
-8. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 32. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A 2007. évi CXII. törvénnyel kihirdetett, a Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött Szerződés (Prümi Szerződés) alapján történő adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára nézve a Prümi Szerződés 39. Cikkét kell alkalmazni.”
-
-9. § (1) A bűnügyi nyilvántartásról és a hatósági erkölcsi bizonyítványról szóló 1999. évi LXXXV. törvény (a továbbiakban: Bnyt.) 32. § e) pontja helyébe a következő rendelkezés lép, valamint a § a következő f) és g) pontokkal egészül ki:
-
-[A daktiloszkópiai és fényképnyilvántartás tartalmazza]
-
-„e) a nyilvántartott személyhez tartozó azonosító kódot;
-
-f) az arcképet;
-
-g) az ujj- és tenyérnyomatot és a hozzá tartozó azonosító kódot.”
-
-(2) A Bnyt. a 44. §-át követően a következő 44/A. §-sal egészül ki:
-
-„
-
-44/A. § (1) Törvénnyel kihirdetett nemzetközi szerződés alapján a bűncselekmény helyszínén rögzített anyagmaradványból meghatározott DNS-profilt a DNS-profil nyilvántartásban való rögzítését követően haladéktalanul, automatizált módon össze kell hasonlítani a nemzetközi szerződésben részes államoknak a nemzetközi szerződés hatálya alá tartozó nyilvántartásaiban található DNS-profilokkal.
-
-(2) Amennyiben az összehasonlítás a nemzetközi szerződés által meghatározott módon egyezést eredményez, az egyezés tényéről és az összehasonlítás során külföldről átvett adatokról a DNS-profil nyilvántartás kezelője haladéktalanul értesíti azt a nyomozó hatóságot, ügyészséget vagy bíróságot, amelynek eljárásában az anyagmaradvány helyszíni rögzítésére sor került.”
-
-(3) A Bnyt. 53. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A 2007. évi CXII. törvénnyel kihirdetett, a Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött Szerződés (Prümi Szerződés) alapján történő adattovábbításról vezetett adattovábbítási nyilvántartás tartalmára nézve a Prümi Szerződés 39. Cikkét kell alkalmazni.”
-
-10. § A személy- és tárgykörözésről szóló 2001. évi XVIII. törvény 12. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A Rendőrség a körözés végrehajtása során törvénnyel kihirdetett nemzetközi szerződés alapján a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a Rendőrséget. A keresés tényéről és eredményéről az intézkedés befejezését követően értesíteni kell a Nemzetközi Bűnügyi Együttműködési Központot.”
-
-11. § A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény 26. §-a a következő (2) bekezdéssel egészül ki, ezzel egyidejűleg a § eredeti szövege (1) bekezdésre változik:
-
-„(2) Törvénnyel kihirdetett nemzetközi szerződés alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében a szabálysértési hatóság, illetve a bíróság a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a szabálysértési hatóságot, illetve a bíróságot.”
+8–11. §
 
 ### Záró rendelkezések
 

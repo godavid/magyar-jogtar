@@ -110,10 +110,10 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (2) A közlekedési infrastruktúra-beruházásokra e törvény rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
-(3) A Kormány rendeletben (a továbbiakban e §-ban: rendelet) állapíthatja meg a közlekedési infrastruktúra-beruházás megvalósításához szükséges – a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott, legfeljebb 200 méter szélességű – területsávot vagy nyomvonalat (a továbbiakban együtt: nyomvonal) a következő tartalommal:
+(3) A Kormány rendeletben (a továbbiakban e §-ban: rendelet) állapíthatja meg a közlekedési infrastruktúra-beruházás megvalósításához szükséges, a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott területsávot vagy nyomvonalat (a továbbiakban együtt: nyomvonal) a következő tartalommal:
 
-- a) a nyomvonal táblázatos meghatározását az út tengelyében felvett, egymástól 100 méterre lévő pontokkal (a pont EOV koordinátája, valamint a pont GPS koordinátája),
-- b) M = 1:10.000 méretarányú áttekintő térképpel (az út tengelyének, a nyomvonal táblázatos meghatározása során a nyomvonalat meghatározó pontoknak, azok egyedi jelzéseinek, az út tengelyétől számított, gyorsforgalmi út esetén legfeljebb 100-100 méter, egyéb közút esetén legfeljebb 50-50 méter, vasút esetén legfeljebb 100-100 méter, kerékpárút esetében legfeljebb 25-25 méter széles sávnak, mint a rendelet területi hatálya jelzésének, ezen sávot érintően az ingatlan-nyilvántartási térképen szereplő, beazonosításra alkalmas telekosztásnak feltüntetésével),
+- a) a nyomvonal táblázatos meghatározását az út tengelyében felvett, egymástól 100 méterre lévő pontokkal (a pont EOV-koordinátája, valamint a pont GPS-koordinátája),
+- b) M = 1:10 000 méretarányú áttekintő térképpel (az út tengelyének, a nyomvonal táblázatos meghatározása során a nyomvonalat meghatározó pontoknak, azok egyedi jelzéseinek, az út tengelyétől számított, gyorsforgalmi út esetén legfeljebb 250-250 méter, egyéb közút esetén legfeljebb 50-50 méter, vasút esetén legfeljebb 100-100 méter, kerékpárút esetében legfeljebb 25-25 méter széles sávnak, mint a rendelet területi hatálya jelzésének, ezen sávot érintően az ingatlan-nyilvántartási térképen szereplő, beazonosításra alkalmas telekosztásnak feltüntetésével),
 - c) a nyomvonallal érintett ingatlanok helyrajzi számainak megjelölésével, és
 - d) a 6/L. § szerinti védettség időtartamának meghatározásával.
 
@@ -272,6 +272,64 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére fővárosi és megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni.
 
+6/M. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában köteles az egységes elektronikus közműnyilvántartás adatszolgáltatását igénybe venni, a kiváltásra vagy kiépítésre kerülő közművek terveit elkészíttetni.
+
+(2) Ha az építtető, a beruházó, vagy a tervező az egységes elektronikus közműnyilvántartás adatszolgáltatás igénybe vételét követően a felmerülő kérdések tisztázása érdekében a közmű tulajdonosához vagy üzemeltetőjéhez (a továbbiakban: közműszolgáltató) fordul, a közműszolgáltató 15 napon belül köteles a nyilatkozatát kiadni.
+
+(3) A közműnyilvántartás adatai alapján az építtetőnek, a beruházónak és a tervezőnek törekednie kell arra, hogy a meglévő közművek érintettsége a lehető legkisebb mértékű legyen. A közműkiváltásra vagy -fejlesztésre a műszakilag feltétlenül szükséges mértékben kerülhet sor.
+
+6/N. § (1) Ha a közműkiváltással vagy -fejlesztéssel érintett ingatlan nem áll az építtető tulajdonában vagy vagyonkezelésében, amennyiben a közműkiváltásra vagy -fejlesztésre vonatkozó engedélyezési kérelem teljesítésének egyéb feltételei fennállnak, nem szükséges az ingatlan tulajdonosának a hozzájárulása. Ebben az esetben a közműkiváltás vagy -fejlesztés engedélye idegen ingatlan birtokbavételére nem jogosít, az építéssel összefüggésben támasztható polgári jogi igényt nem dönt el és nem mentesít egyéb engedély megszerzésének kötelezettsége alól.
+
+(2) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán kiváltásra vagy kiépítésre kerülő közművek elhelyezése érdekében az elhelyezéssel érintett ingatlanra közérdekből, az építtető vagy a közműszolgáltató javára – hatóság határozatával – szolgalmat vagy más használati jogot lehet alapítani. A használati jog alapításáért a korlátozás mértékének megfelelő kártalanítás jár.
+
+6/O. § (1) Kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények tartozékainak (a továbbiakban együttesen: kerékpárút) építése során közmű kiváltására, fejlesztésére (a továbbiakban: közmű kiváltása) vonatkozó szabályokat az alábbi eltérésekkel kell alkalmazni.
+
+(2) A kerékpárút nyomvonalában a közműveket nem kell kiváltani, ha a közművek
+
+- a) a kerékpárút tervezett űrszelvényén kívül helyezkednek el,
+- b) a kerékpárút érdekében megvalósított egyéb létesítmények a közművek védőtávolságán kívül elhelyezhetők és
+- c) a közművek folyamatos, üzemszerű működése az építés alatt is biztosítható.
+
+(3) A (2) bekezdésben foglalt feltételek teljesüléséről az építtető vagy megbízottja által megkeresett közműszolgáltató 15 napon belül – térítésmentesen – igazolást köteles kiállítani.
+
+(4) Amennyiben a közműszolgáltató a (3) bekezdés szerinti megkeresés esetén vitatja, hogy a (2) bekezdésben foglaltak fennállnak, a megkereséstől számított 10 napon belül az érintett közmű létesítését engedélyező hatósághoz (a továbbiakban a 6/O. § és 6/P. § tekintetében: hatóság) fordul.
+
+(5) Ha a közműszolgáltató nem fordul a hatósághoz és az igazolást nem állítja ki 15 napon belül, az építtető a hatósághoz fordulhat az igazolás kiállítása érdekében.
+
+(6) A hatóság 15 napon belül dönt a (4) vagy (5) bekezdésben foglalt megkeresés esetén.
+
+6/P. § (1) Ha a kerékpárút építése során közmű kiváltása válik szükségessé, a közmű kiváltását a közműszolgáltató – az építtető erre vonatkozó írásbeli értesítését, követő 90 napon belül, vagy a hatóság erre irányuló döntésében meghatározott határidőn belül – saját költségére köteles elvégezni.
+
+(2) A közmű kiváltásának megvalósulását a hatóság hivatalból vagy az építtető kérelmére ellenőrzi.
+
+(3) Az építtető a közmű kiváltás megvalósulásának ellenőrzésére vonatkozó kérelem benyújtásának okát köteles megindokolni. Az építtető kérelmére indult ellenőrzést a hatóság 8 napon belül lefolytatja.
+
+6/Q. § (1) Az intermodális csomópontok, azaz a különböző közlekedési módok közötti átszállási kapcsolatot emelt szintű utaskényelmi szolgáltatásokkal biztosító közlekedési létesítmények kormányrendeletben meghatározott köre tekintetében a fejlesztési közreműködőként eljáró NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság mint építtető – központi költségvetési és uniós támogatásból – beruházási (létesítés, felújítás és fejlesztés) feladatokat lát el. E tevékenység fontos közérdekű és közcélú tevékenységnek minősül. Az építtető az állam javára és nevében jár el.
+
+(2) E törvény erejénél fogva ingyenesen az építtető vagyonkezelésébe kerül az intermodális csomópontok megvalósításához szükséges állam javára megvásárolt vagy kisajátított földrészlet.
+
+(3) A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről az építtető gondoskodik. Az építtető a vagyonkezelői jog bejegyzésére vonatkozó, a kormányhivatal által kiadott határozatot, annak kézhezvételét követően haladéktalanul megküldi a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) részére.
+
+(4) Az építtető felelős az építési munkák előkészítéséért. Ennek keretében teljeskörűen elkészítteti a szükséges műszaki terveket (így különösen az engedélyezési tervet vagy a kiviteli tervet), tanulmányokat, ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, saját nevére megszerzi az építési engedélyeket, elvégzi vagy elvégezteti a munkaterület előkészítését (beleértve különösen a területszerzést, megelőző régészeti feltárást, közmű kiváltást) és fejlesztést, továbbá lefolytatja a közbeszerzési eljárásokat. Az építtető építési szerződéseket köt a megvalósításra, gondoskodik az építési műszaki ellenőri tevékenység ellátásáról, lebonyolítja a műszaki átadás-átvételt.
+
+(5) Megkezdettnek kell tekinteni az építési előkészítési munkákat, ha az építtető a műszaki tervek (így az engedélyezési terv, a kiviteli terv, vagy ezek együttese) elkészítését vagy elkészíttetését megkezdte.
+
+(6) A megszerzett és megvalósult vagyonelemeket – az ágazati törvényekben foglalt kivételekkel – az MNV Zrt. részére kell átadni.
+
+(7) A beruházásokhoz kapcsolódó közművek kiváltására, fejlesztésére és átadására az e törvényben nem szabályozott kérdésekben a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény rendelkezéseit kell alkalmazni azzal, hogy amennyiben az érintett közmű kiváltása, fejlesztése és átadása kizárólag a közúthálózat fejlesztéséhez kapcsolódik, akkor a közúti közlekedésről szóló 1988. évi I. törvény rendelkezéseit kell alkalmazni.
+
+6/R. § (1) Az építtető vagy megbízottja az építtetői feladatok ellátásához szükséges műszaki tervek elkészítése érdekében a nyomvonallal érintett bármely ingatlanra a tulajdonos előzetes tájékoztatása mellett – a lakás céljára szolgáló helyiségek kivételével – beléphet, ott méréseket, vizsgálatokat végezhet, feltéve, hogy az nem eredményezi az ingatlan helyreállíthatatlan változását.
+
+(2) Az ingatlan, tulajdonosa vagy használója az (1) bekezdésben felsorolt munkák végzését tűrni köteles, a munkák végzését nem akadályozhatja.
+
+(3) Az építtető megbízottja a jogosultságát az adott munka elvégzésére vonatkozó meghatalmazással igazolja.
+
+(4) Az építtető az (1) bekezdésben felsorolt munkákkal összefüggésben okozott kárt a polgári jog általános szabálya szerint köteles a tulajdonosnak megtéríteni.
+
+(5) Az előzetes régészeti dokumentáció készítője a maradandó változással nem járó vizsgálatok helyét bármely ingatlanon át megközelítheti, azokon mérést, vizsgálatot végezhet előzetes régészeti dokumentáció készítése céljából. A maradandó változással nem járó vizsgálat végzése érdekében bármely ingatlanra – a lakás és a nem lakás céljára szolgáló helyiségek kivételével – beléphet. Az előzetes régészeti dokumentáció készítőjének az ingatlan tulajdonosát (használóját, vagyonkezelőjét) a vizsgálatokról igazolható módon előzetesen értesítenie kell.
+
+(6) Az engedély alapján végzett engedélyes haditechnikai termék felkutatása esetén az engedélyes, ha a kutatás nem jelent az ingatlanban maradandó változást, a haditechnikai kutatás eredményessége érdekében bármely ingatlanra – a lakás és a nem lakás céljára szolgáló helyiségek kivételével – beléphet. Az engedélyesnek az ingatlan tulajdonosát (használóját, vagyonkezelőjét) a kutatási munkálatokról igazolható módon előzetesen értesítenie kell.
+
 ### A hatósági határozat bírósági felülvizsgálata
 
 7. § A törvény hatálya alá tartozó hatósági ügyekben hozott határozat bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetének rendelkezéseit az e törvény 8–10. §-aiban meghatározott eltérésekkel kell alkalmazni.
@@ -334,14 +392,21 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 - f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket,
 - g) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz kapcsolódó kiemelt jelentőségű ügyek körét, valamint szabályozza ezen ügyekben a b)–f) pontban meghatározottakat.
 - h) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz megvalósításához szükséges területsávot vagy nyomvonalat.
+- i) a közlekedési infrastruktúra-beruházással érintett közművek kiváltása során az eljáró hatóságot, a késedelmes vagy hibás, valamint a késedelmes és hibás kiváltása esetén alkalmazandó bírság mértékét, valamint a bírságolás során alkalmazandó szempontokat,
+- j) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság, mint építtető által megvalósítandó intermodális csomópontok körét.
+- k) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán kiváltásra vagy kiépítésre kerülő közművek elhelyezése érdekében a felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat.
 
 (6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
+
+(7) E törvény alkalmazásában közterületnek minősül a közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló terület, amelyet rendeltetésének megfelelően bárki használhat, ideértve a közúti és gyalogos közlekedést szolgáló létesítményeket, a kikapcsolódás, a szórakozás, a sporttevékenység, a szabadidő-eltöltés biztosítását szolgáló területeket, a tereket és közparkokat, valamint a közművek elhelyezését szolgáló területet.
 
 13. § E törvénynek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások megvalósításának gyorsításával összefüggésben egyes törvények módosításáról szóló 2015. évi LXXIX. törvénnyel (a továbbiakban: Módtv.) megállapított 6/F. §-át azokra a környezetvédelmi engedélyekre kell alkalmazni, amelyeket a Kormány által a Módtv. hatálybalépését követően nemzetgazdasági szempontból kiemelt jelentőségű infrastruktúra-beruházással összefüggő ügynek minősített ügyekben adtak ki.
 
 14. § E törvénynek a polgári perrendtartásról szóló 1952. évi III. törvény, valamint egyéb eljárásjogi és igazságügyi törvények módosításáról szóló 2015. évi CLXXX. törvénnyel megállapított 8. § (2) és (3) bekezdését 2016. július 1. napján és az azt követően indult közigazgatási eljárás során hozott határozat bírósági felülvizsgálata iránti perekben kell alkalmazni.
 
 15. § E törvénynek a közlekedéssel összefüggő egyes törvények módosításról szóló 2016. évi CXLIV. törvénnyel (a továbbiakban: 2016. évi CXLIV. törvény) megállapított 6/D. § (3)–(9) bekezdését és 6/L. §-át a 2016. évi CXLIV. törvény hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+
+16. § E törvénynek a közlekedéssel összefüggő egyes törvények szóló 2017. évi CLXXXII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6/M–6/R. §-sát, valamint 12. § (7) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő hatósági és egyéb eljárásokban is alkalmazni kell.
 
 ### 1. melléklet a 2006. évi LIII. törvényhez
 

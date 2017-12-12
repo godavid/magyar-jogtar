@@ -59,7 +59,7 @@ látja el.
 
 ### Hatósági jogkör
 
-3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el.
+3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi irányelv, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
 (2) Az állami célú légiközlekedéssel összefüggő hatósági feladatokat katonai légügyi hatóság látja el.
 
@@ -99,9 +99,11 @@ hatósági eljárásokban.
 
 (2g) A (2a) bekezdésben meghatározott eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-(3) A légiközlekedési hatóságok eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
 (3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség.
+
+(3b) A katonai légügyi hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 (4) A katonai légügyi hatósági eljárással összefüggő igazgatási szolgáltatási díj megfizetése alól mentesül:
 
@@ -1205,7 +1207,7 @@ folytatja le.
 
 (4)
 
-(5) A bírság kivetésének részletes szabályait és a beszedett bírság összegének felhasználási rendjét a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
+(5) A bírság kivetésének részletes szabályait a miniszter a rendészetért, valamint az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve rendeletben állapítja meg.
 
 (6) Nyilvános repülőtér üzemben tartója e törvényben, valamint a repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló kormányrendeletben előírt tennivalók ellátásához szükséges anyagi fedezet biztosítása érdekében a repülőtér-használat díjának elemei között a zajt okozó légijárművek járatóival szemben zajvédelmi költségeit érvényesítheti.
 
@@ -1495,13 +1497,13 @@ folytatja le.
 - g) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel és a miniszterrel egyetértésben a közegészségügyi légi beavatkozás szabályait,
 - h) az agrárpolitikáért felelős miniszter, hogy a miniszterrel egyetértésben a légi személyszállítással és a légi árufuvarozással összefüggő növény-egészségügyi szabályokat,
 - i) a környezetvédelemért felelős miniszter, hogy a miniszterrel és a honvédelemért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a repülésmeteorológiai tájékoztatások és előrejelzések szolgáltatásával, ellenőrzésével, ezek díjazása és költségei megosztásával összefüggő feladatok rendjét és szabályait,
-- j) a miniszter, hogy a környezetvédelemért felelős miniszterrel egyetértésben a motoros légi járművek zajkibocsátásának korlátozására vonatkozó szabályokat,
+- j)
 - k) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légtér-igénybevételi díj fizetésének feltételeit, mértékét és a díj fizetése alóli mentesség eseteit,
-- l) a miniszter, hogy a polgári légiközlekedés tekintetében a légiközlekedési szakszemélyzet körét, a szakszemélyzetre vonatkozó részletes szabályokat, a szakszemélyzet képzésének részletes szabályait, a képzés engedélyezésének szabályait, a képzési engedély tartalmára, kiadására, felfüggesztésére és visszavonására vonatkozó szabályokat, továbbá a szakszolgálati engedélyek fajtáinak, kiadásának, meghosszabbításának, felfüggesztésének és visszavonásának részletes szabályait, a szakszolgálati engedélyek időbeni hatályát, a szakszolgálati engedélybe tehető bejegyzéseket, a szakszolgálati tevékenység ellátásával összefüggő jogokat és kötelezettségeket, a szakszolgálati engedélyek helyszíni elvételének és visszavonásának a szabályait – a rádiószolgálatok állomáskezelőire vonatkozó szabályok tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben –,
+- l) a miniszter, hogy a polgári légiközlekedés tekintetében a légiközlekedési szakszemélyzet körét, a szakszemélyzetre vonatkozó részletes szabályokat, a szakszemélyzet képzésének részletes szabályait, továbbá a szakszolgálati engedélyek fajtáinak részletes szabályait, a szakszolgálati engedélybe tehető bejegyzéseket, a szakszolgálati tevékenység ellátásával összefüggő jogokat és kötelezettségeket, – a rádiószolgálatok állomáskezelőire vonatkozó szabályok tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben –;
 - m) a miniszter, hogy az érintett önkormányzatok véleményének kikérésével a környezetvédelemért felelős miniszterrel, valamint – állami repülések céljára szolgáló repülőtér esetében a honvédelmért felelős miniszterrel – egyetértésben a repülőtér környezetét a repülés káros hatásaival szemben kímélő eljárásokat, a zajszintkövetelményeket és a környezet védelme érdekében szükséges intézkedéseket,
 - n) a miniszter, hogy a honvédelemért felelős miniszterrel – valamint az 5. § (1) bekezdés b) pont ba) alpontjában említett esetben a környezetvédelemért felelős miniszterrel is – egyetértésben a magyar légtérnek az 5. §-ban meghatározott részeit, azok típusait és igénybevételük rendjét,
-- o) a miniszter, hogy a földi kiszolgálás feltételeinek és engedélyezési rendjének a részletes szabályait,
-- p) a miniszter, hogy az egyes légiközlekedési tevékenységek végzésének a részletes szabályait,
+- o) a miniszter, hogy a földi kiszolgálás feltételeinek a részletes szabályait,
+- p)
 - q) a rendészetért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, az adópolitikáért felelős miniszterrel, valamint a miniszterrel egyetértésben a légiközlekedés védelme érdekében a 67. § (11) és (12) bekezdésében meghatározott ellenőrzés alá vonható munkavállalók, az SRA-ra belépő személyek körét, valamint az ellenőrzési eljárás rendjét,
 - r) a miniszter, hogy a nem gazdasági célú légiközlekedési tevékenységet ellátó légijármű fedélzetén hajózó személyzet, valamint a légiutas-kísérő repülési idejére vonatkozó szabályokat,
 - s) a miniszter, hogy a repülőrendezvényekre vonatkozó szabályokat,
@@ -1517,14 +1519,14 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap
 
-- a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóságok eljárási díjai fizetésének feltételeit, módját és a díj összegét,
-- b) a miniszter, hogy a 19. § (1) és (3) bekezdésében meghatározott esetekben az üzemben tartás feltételeit, az üzemben tartási engedély tartalmi elemeit, valamint kiadásának, felfüggesztésének és visszavonásának részletes szabályait
+- a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
+- b)
 - c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzemben tartási engedély kiadásának, felfüggesztésének és visszavonásának a szabályait,
 - d) a miniszter, hogy a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait,
 - e) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében – a rendészetért felelős miniszter és a 30. § (1) bekezdése szerinti engedélyezés tekintetében a miniszter egyetértésével – a légiközlekedési szakszemélyzet képzésének részletes szabályait, valamint a képzést végző intézetek kijelölését,
 - f) a miniszter, hogy a nyilvános és a polgári célú nem nyilvános repülőtér vonatkozásában – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
 - g) a honvédelemért felelős miniszter, hogy az állami repülések céljára szolgáló repülőtér esetében a miniszterrel és a tűzvédelmi feltételek tekintetében a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel is egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
-- h) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának és a típusalkalmassági bizonyítvány kiadásának, felfüggesztésének és bevonásának részletes szabályait,
+- h) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának részletes szabályait,
 - i) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű jelzéseinek és nyilvántartásának részletes szabályait, az állami légijármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait, az állami légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának a részletes szabályait,
 - j) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében a miniszterrel és a rendészetért felelős miniszterrel – a rádiószolgálatok állomáskezelőire vonatkozó szabályok vonatkozásában az elektronikus hírközlésért felelős miniszterrel is – egyetértésben a szakszolgálati engedélyek fajtáinak, szakmai feltételeinek, kiadásának, felfüggesztésének, valamint helyszíni elvételük és visszavonásuk szabályait,
 - k) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a szakszolgálati engedélyek és a légiutas-kísérői tanúsítvány kiadásának egészségügyi feltételeit, a repülőeszközök vezetőire vonatkozó egészségügyi feltételeket, valamint a légiközlekedési szakszemélyzet tagjai és a repülőeszközök vezetői egészségügyi alkalmasságának megállapítását végző szervek kijelölésének és tevékenységének szabályait,
@@ -1535,10 +1537,10 @@ rendeletben állapítsa meg.
 - p) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű légialkalmassági feltételeinek, a légialkalmassági vizsgálat rendjének, a légialkalmassági bizonyítvány kiadásának, felfüggesztésének a részletes szabályait, valamint helyszíni elvételének és visszavonásának a szabályait,
 - q) a rendészetért felelős miniszter, hogy a miniszterrel egyetértésben a szakszolgálati engedély, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány rendőr által történő helyszíni elvételének a szabályait,
 - r) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a nyilvános repülőrendezvény szabályait,
-- s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben – a légiközlekedés védelme tekintetében a rendészetért felelős miniszter egyetértésével is – és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a légiközlekedési bírság kivetésének a részletes szabályait és a beszedett bírság összegének felhasználási rendjét,
+- s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben – a légiközlekedés védelme tekintetében a rendészetért felelős miniszter egyetértésével is – és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a légiközlekedési bírság kivetésének a részletes szabályait,
 - t) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a zajvédelmi díj megállapításának a részletes szabályait és a beszedett díj összegének felhasználási rendjét, valamint
 - u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalmi szolgálatok ellátásának és eljárásainak a részletes szabályait
-- v)
+- v) a honvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a katonai légügyi hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 - w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait,
 - x)
 - y)
@@ -1617,8 +1619,8 @@ rendeletben állapítsa meg.
 | 4. | Alapszintű műszeres repülésgyakorló berendezést (BITD) üzemeltető szervezet éves felügyelete | 30 000 |
 | 5. | Repülés- és navigációseljárás-gyakorló berendezést (FNPT) üzemeltető szervezet éves felügyelete | 60 000 |
 | 6. | Teljes repülésszimulátort (FFS) és repülésgyakorló berendezést (FTD) üzemeltető szervezet éves felügyelete | 120 000 |
-| 7. | LAPL, légiutas-kísérő és 2. osztályú orvosi minősítés kiadására jogosult repülőorvosi központ éves felügyelete | 60 000 |
-| 8. | 1., és 3. osztályú orvosi minősítés kiadására jogosult repülőorvosi központ éves felügyelete | 120 000 |
+| 7. | Repülőorvosi központ éves felügyelete | 60 000 |
+| 8. |  |  |
 | II. A 748/2012 EU rendelet alapján engedélyezett, légijárműveket és felszereléseit gyártó szervezetek |  |  |
 | 1. | Ejtőernyő, siklóernyő, ultralight (mikrolight), vitorlázó repülőgép és levegőnél könnyebb légijárművet gyártó szervezet tevékenységének éves felügyelete | 74 000 |
 | 2. | Egyhajtóműves légijárművet gyártó szervezet tevékenységének éves felügyelete | 130 000 |
@@ -1678,4 +1680,4 @@ rendeletben állapítsa meg.
 | 4. | Repülésmeteorológiai szolgáltató éves felügyelete | 100 000 |
 | 5. | AFIS képzési szervezet éves felügyelete | 20 000 |
 | 6. | ATCO képzési szervezet éves felügyelete | 300 000 |
-| 7. | Nyelvismeretei vizsgaközpont éves felügyelete | 100 000 |
+| 7. | Nyelvismereti vizsgaközpont éves felügyelete | 100 000 |
