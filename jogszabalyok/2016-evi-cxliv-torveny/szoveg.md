@@ -92,7 +92,7 @@ a közlekedéssel összefüggő egyes törvények módosításáról
 
 (3) A 8. § (2) bekezdése 2017. április 1-jén lép hatályba.
 
-(4) A 2. §, az 5. § (1) bekezdése, a 9. §, a 12. §, a 13. § (2) bekezdése, a 14–15. §, a 47. §, a 49–50. § 2018. január 1-jén lép hatályba.
+(4) A 2. §, az 5. § (1) bekezdése, a 9. §, a 12. §, a 13. § (2) bekezdése, a 14–15. §, a 47. §, a 49. § (1)–(4) bekezdése és az 50. § 2018. december 31-én lép hatályba.
 
 (5) Az 5. § (2) bekezdése, a 6–7. §, a 10–11. §, a 17. § (2) bekezdése, a 45–46. § és a 48. § 2018. július 1-jén lép hatályba.
 

@@ -49,12 +49,13 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 - a) honvédelem céljából, ha az ingatlan kisajátítása a honvédelemről szóló törvényben meghatározott honvédelmi érdekből szükséges;
 - b) nemzetközi szerződés alapján megvalósuló területcsere céljából, ha a másik ország részére szükséges területátadás más módon nem lehetséges;
 - c) a 2. § d) pontja szerinti célból, valamint terület- és településrendezés céljából, ha a kérelemben megjelölt építmény, fejlesztési cél (a továbbiakban: cél) a területrendezési tervben, a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szerepel, a cél megvalósítása az érintett ingatlanok tulajdonosai részéről (a beruházás jellege, anyagi terhei vagy a létesítmény megvalósítójának jogszabályi kijelölése miatt) nem várható el, továbbá a cél rendeltetése, jellege miatt – a környező építmények, ingatlanok rendeltetésszerű használatának biztosítására vagy jellegére is figyelemmel – a célt az adott ingatlanon szükséges megvalósítani, vagy más ingatlanon való megvalósítása a tulajdonban nagyobb sérelemmel járna;
-- d) közlekedési infrastruktúra fejlesztése keretében közút, vasút, repülőtér, híd, alagút, hajózási létesítmény létesítése, fejlesztése céljából, ha
+- d) közlekedési infrastruktúra fejlesztése keretében közút, vasút, repülőtér, híd, alagút, hajózási létesítmény, intermodális csomópont létesítése, fejlesztése céljából, ha
   - da) gyorsforgalmi közúthálózatnak jogszabállyal megállapított nyomvonalon való megépítése, országos közút vagy helyi közút építése érdekében szükséges,
   - db) a felszíni vagy felszín alatti vasút létesítési joga alapján történő igénybevétel (létesítés, üzemeltetés) a létesítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti, vagy jelentős mértékben akadályozza,
   - dc) a nyilvános repülőtér a településrendezési tervben, valamint a helyi építési szabályzatban vagy az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal által kiadott térségi területfelhasználási engedélyben szerepel, és a megvalósítás más ingatlanokon műszaki, valamint az építés engedélyezését meghatározó más szempont miatt nem lehetséges, vagy a megvalósítás a tulajdonban nagyobb sérelemmel járna,
   - dd) híd vagy alagút építése, fejlesztése érdekében szükséges, amennyiben arra – országos közút vagy helyi közút építése, fenntartása, fejlesztése, üzemeltetése érdekében – közlekedésbiztonsági vagy közlekedéspolitikai szempontok alapján kerül sor,
-  - de) közforgalmú kikötő, úszóműves kikötőhely, komp- és révátkelőhely, valamint más hajózási létesítmény, továbbá a víziközlekedés irányítására és a hajóút kitűzésére szolgáló jelek elhelyezése a parti ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza;
+  - de) közforgalmú kikötő, úszóműves kikötőhely, komp- és révátkelőhely, valamint más hajózási létesítmény, továbbá a víziközlekedés irányítására és a hajóút kitűzésére szolgáló jelek elhelyezése a parti ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza,
+  - df) a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvényben meghatározott intermodális csomópont megvalósítása érdekében szükséges;
 - e) energiatermelés céljából, ha
   - ea) az ingatlan 50 MW vagy annál nagyobb teljesítményű erőmű építéséhez, bővítéséhez szükséges,
   - eb) az ingatlan 50 MW vagy annál nagyobb teljesítményű távhőtermelő létesítmény elhelyezéséhez szükséges,
@@ -105,7 +106,7 @@ Az e törvényben meghatározott közérdekű célok megvalósításához elenge
 
 (2) Nem kell alkalmazni
 
-- a) a 3. § (1) bekezdés d) pontját e paragrafus (1) bekezdés d) pont da) és db) alpontja, k) pont ka) alpontja, o) pontja, valamint nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházások (a továbbiakban: nemzetgazdasági szempontból kiemelt jelentőségű beruházás) esetében,
+- a) a 3. § (1) bekezdés d) pontját, az (1) bekezdés d) pont da), db) és df) alpontja, k) pont ka) alpontja, o) pontja, valamint nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházások (a továbbiakban: nemzetgazdasági szempontból kiemelt jelentőségű beruházás) esetében,
 - b) a 3. § (1) bekezdés c) pontját e paragrafus (1) bekezdés i) pont ia) alpontja, j) pontja, l) pont la) alpontja és m) pont ma) és mc) alpontja esetében.
 
 (3) Ha a közérdekű célnak a kisajátítandó ingatlanon történő megvalósítására építési engedélyt adtak ki, a kisajátítási hatóság a 3. § (1) bekezdés c) pontja szerinti feltételt csak akkor vizsgálja, ha az ügyfél valószínűsíti, hogy a közérdekű cél más ingatlanon is megvalósítható, és hogy a más ingatlanon történő megvalósítás a tulajdon kisebb sérelmével járna.
