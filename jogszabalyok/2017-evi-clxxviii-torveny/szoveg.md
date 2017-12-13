@@ -4,17 +4,7 @@ az egyes családtámogatási tárgyú, valamint egyéb törvények módosítás�
 
 #### 1. A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló1992. évi LXXXIV. törvény módosítása
 
-1. § A társadalombiztosítás pénzügyi alapjairól és azok 1993. évi költségvetéséről szóló 1992. évi LXXXIV. törvény (a továbbiakban: Tat.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Nyugdíjbiztosítási Alap az öregségi nyugdíj – ideértve a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdése alapján megállapított öregségi nyugdíjat is –, a hozzátartozói nyugellátás, a törvényben meghatározott méltányossági kifizetések, a nyugdíjprémium, valamint a társadalombiztosítási nyugellátás összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyéb egyszeri juttatás fedezetére szolgál.”
-
-2. § A Tat. 5. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Az Egészségbiztosítási Alap)
-
-„b) az egészségbiztosítás pénzbeli ellátásai, ideértve a csecsemőgondozási díjat, terhességi-gyermekágyi segélyt, a táppénzt, a betegséggel kapcsolatos segélyeket, a kártérítési járadékot, a baleseti járadékot, a gyermekgondozási díjat, a rokkantsági és rehabilitációs ellátásokat, valamint az egészségbiztosítás egyes pénzbeli ellátásainak összege alapján kiszámított, törvényben vagy kormányrendeletben meghatározott egyszeri juttatást,”
-
-(kiadásainak fedezetére szolgál.)
+1–2. §
 
 #### 2. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
@@ -30,21 +20,11 @@ az egyes családtámogatási tárgyú, valamint egyéb törvények módosítás�
 
 #### 5. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. tv. módosítása
 
-10. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 44. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A munkahelyi bölcsőde olyan bölcsődei ellátást nyújtó szolgáltatás, amelyet a foglalkoztató, vagy a foglalkoztatóval kötött megállapodás alapján az 5. § s) pontja szerinti fenntartó tart fenn, elsősorban a foglalkoztatónál keresőtevékenységet folytató személyek gyermekei bölcsődei ellátásának biztosítására. A foglalkoztatóval kötött megállapodás alapján az 5. § s) pontja szerinti fenntartó által működtetett szolgáltatásra is a munkahelyi bölcsődére vonatkozó szakmai és finanszírozási szabályokat kell alkalmazni.”
+10. §
 
 11. §
 
-12. § A Gyvt.
-
-- a) 5. § q) pont qb) alpontjában a „fiatal felnőtt” szövegrész helyébe a „fiatal felnőtt, valamint a korai fejlesztésre és gondozásra jogosult gyermek” szöveg,
-- b) 15. § (11a) bekezdésében az „a sajátos nevelési igényű gyermekek” szövegrész helyébe az „az Nktv. 4. § 25. pontja szerinti sajátos nevelési igényű gyermekek (a továbbiakban: sajátos nevelési igényű gyermek), valamint a korai fejlesztésre és gondozásra jogosult gyermekek” szöveg,
-- c) 42. § (3) bekezdésében az „az Nktv. 4. § 25. pontja szerinti sajátos nevelési igényű gyermek (a továbbiakban: sajátos nevelési igényű gyermek)” szövegrész helyébe az „a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek” szöveg,
-- d) 42/A. § (1) bekezdés b) pontjában a „sajátos nevelési igényű gyermek” szövegrész helyébe „a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek” szöveg,
-- e) 44/B. § (2) bekezdésében a „sajátos nevelési igényű gyermekek” szövegrész helyébe a „sajátos nevelési igényű gyermekek, valamint a korai fejlesztésre és gondozásra jogosult gyermekek” szöveg
-
-lép.
+12. §
 
 #### 6. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
