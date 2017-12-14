@@ -82,7 +82,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 8. § A levéltári anyag védelmének ágazati irányítását a kultúráért felelős miniszter látja el. Ágazati irányító hatáskörében
 
-- a)
+- a) működteti a levéltári szakmai testületet és a levéltári szakfelügyeletet,
 - b) szabályozza
   - ba) a levéltári állomány gyarapításával és a levéltári gyűjtőmunkával kapcsolatos feladatokat, a maradandó értékű irattári és levéltári anyag illetékességből történő átvételét, az iratok cseréjét és letéti megőrzését,
   - bb) a levéltári anyag őrzésének és tárolásának követelményeit, a levéltári raktárak használati rendjével és az állományvédelemmel kapcsolatos követelményeket, az iratok levéltári feldolgozására, a levéltári anyag rendszerezésére, rendezésére vonatkozó előírásokat, a levéltári anyag selejtezésének, nyilvántartásának, leírásának és a segédletek készítésének követelményeit,
@@ -464,7 +464,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (7) Ahol jogszabály ,,történeti értékű iratot'' említ, azon ,,maradandó értékű iratot'' kell érteni.
 
-(8) Az 1944–1989 között működött Magyar Dolgozók Pártja (MDP) és jogelődei, Magyar Szocialista Munkáspárt (MSZMP), ezek társadalmi szervezetei (Magyar Partizánszövetség, Magyar Ellenállók és Antifasiszták Szövetsége, Magyar Nők Demokratikus Szövetsége, Magyar Nők Országos Tanácsa), ifjúsági szervezetei (Magyar Demokratikus Ifjúsági Szövetség, Dolgozó Ifjúság Szövetsége, Kommunista Ifjúsági Szövetség, Népi Kollégiumok Országos Szövetsége, Magyar Úttörők Szövetsége), valamint a Szakszervezetek Országos Tanácsa, a szakszervezeti tanácsok és ágazati szakszervezetek iratai az állam tulajdonát képezik. Az iratok őrzési helye a Magyar Nemzeti Levéltár Országos Levéltára.
+(8) Az 1944–1989 között működött Magyar Dolgozók Pártja (MDP) és jogelődei, Magyar Szocialista Munkáspárt (MSZMP), ezek társadalmi szervezetei (Magyar Partizánszövetség, Magyar Ellenállók és Antifasiszták Szövetsége, Magyar Nők Demokratikus Szövetsége, Magyar Nők Országos Tanácsa), ifjúsági szervezetei (Magyar Demokratikus Ifjúsági Szövetség, Dolgozó Ifjúság Szövetsége, Kommunista Ifjúsági Szövetség, Népi Kollégiumok Országos Szövetsége, Magyar Úttörők Szövetsége), valamint a Szakszervezetek Országos Tanácsa, a szakszervezeti tanácsok és ágazati szakszervezetek iratai, továbbá a Magyarok Világszövetsége és jogelőd szervezeteinek 1989 előtt keletkezett iratai az állam tulajdonát képezik. Az iratok őrzési helye az illetékes közlevéltár.
 
 (9)
 
@@ -478,7 +478,7 @@ levéltári anyagára, továbbá mindezek jogelődeinek működése során kelet
 
 (3) A (2) bekezdésben foglalt felhatalmazás alapján kiadandó rendeletet a bíróságok és az Országos Bírósági Hivatal elnöke, az ügyészségek, a közjegyzők, a bírósági végrehajtók, valamint ezek kamarái, továbbá az ügyvédi kamara, az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hiteles szakfordítók, tolmácsok, a jogi segítségnyújtást, kárpótlást, áldozatsegítést, valamint büntető ügyekben közvetítői tevékenységet végző szervek és személyek tekintetében az igazságügyért felelős miniszterrel egyetértésben kell kiadni.
 
-(4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a levéltári szakfelügyelet és a levéltári szakmai testületek működését.
+(4) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza a levéltári szakfelügyelet és a levéltári szakmai testület működését.
 
 (5) Felhatalmazást kap a kultúráért felelős miniszter, hogy az elektronikus formában tárolt iratok közlevéltári átvételének eljárásrendjét és műszaki követelményeit az e-közigazgatásért felelős miniszterrel és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 

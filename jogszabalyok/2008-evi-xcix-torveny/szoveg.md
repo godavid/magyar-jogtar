@@ -196,7 +196,7 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 - c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 - d) a fővárosi, illetve a megyei előadó-művészeti életben betöltött művészeti, kulturális szerepe, az általa nyújtott művészeti szolgáltatások tartalma és művészeti értéke az állami támogatási és az önkormányzati fenntartói vagy támogatási szerepvállalást egyidejűleg és tartósan indokolja.
 
-(4) A 7. § (2) bekezdés b) pont bc) alpontja szerinti előadó-művészeti szervezet esetében a (2) bekezdés b) pontját és a (3) bekezdés b) pontját a minősítés során nem kell alkalmazni.
+(4) A független színház, produkciós színház, befogadó színház, szabadtéri színház, nemzetiségi színház, bábszínház esetében a (2) bekezdés b) pontját és a (3) bekezdés b) pontját a minősítés során nem kell alkalmazni.
 
 (5) Nem minősíthető nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté az előadó-művészeti szervezet, illetve a már nemzeti előadó-művészeti szervezetté vagy kiemelt előadó-művészeti szervezetté minősített előadó-művészeti szervezet ilyen minősítését meg kell szüntetni, ha a minősítés alapjául szolgáló feltételek közül
 
