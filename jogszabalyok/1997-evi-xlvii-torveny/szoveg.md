@@ -395,19 +395,19 @@ tartalmazza.
 
 ### A társadalombiztosítási igazgatási szervek adatkezelése
 
-22. § (1) A társadalombiztosítási igazgatási szervek részére abban az esetben továbbítható egészségügyi és személyazonosító adat, amennyiben
+22. § (1) A társadalombiztosítási igazgatási szervek és az Egészségbiztosítási Alap működtetéséért felelős minisztérium (a továbbiakban: minisztérium) részére abban az esetben továbbítható egészségügyi és személyazonosító adat, amennyiben
 
 - a) arra az érintettnek járó társadalombiztosítási ellátások megállapítása, folyósítása céljából van szükség, és az az egészségi állapot alapján történik,
 - b) az a társadalombiztosítási alapok kezelői gazdálkodásának, továbbá a társadalombiztosítási ellátások folyósításának ellenőrzése céljából indokolt,
 - c) az a 4. § (2) bekezdésének g) pontjában foglalt célok teljesítéséhez szükséges.
 
-(2) Az egészségügyi és személyazonosító adatokat a társadalombiztosítási igazgatási szervek kizárólag az ellátás megállapításával, folyósításával, az ellenőrzés lefolytatásával, egészségbiztosítási orvosszakértői, illetve jogorvoslati tevékenységgel megbízott dolgozója, továbbá a 4. § (2) bekezdésének g) pontja szerinti feladat teljesítésével megbízott munkatársa kezelheti.
+(2) Az egészségügyi és személyazonosító adatokat a társadalombiztosítási igazgatási szervek és a minisztérium kizárólag az ellátás megállapításával, folyósításával, az ellenőrzés lefolytatásával, egészségbiztosítási orvosszakértői, illetve jogorvoslati tevékenységgel megbízott dolgozója, továbbá a 4. § (2) bekezdésének g) pontja szerinti feladat teljesítésével megbízott munkatársa kezelheti.
 
 (3) A társadalombiztosítási igazgatási szervek által lefolytatott ellenőrzés során a társadalombiztosítás szerveinek csak egészségügyi felsőfokú szakképesítéssel rendelkező alkalmazottja ismerheti meg az érintett összekapcsolt egészségügyi és személyazonosító adatait.
 
 (4)
 
-(5) A társadalombiztosítási igazgatási szerv – a 4. § (2) bekezdés g) pontjában meghatározott célból – kezelheti:
+(5) A társadalombiztosítási igazgatási szerv és a minisztérium – a 4. § (2) bekezdés g) pontjában meghatározott célból – kezelheti:
 
 - a) az egészségügyi szolgáltató, az egészségügyi szolgáltatást igénybe vevő, a beutaló (a szolgáltatást rendelő) orvos azonosítását szolgáló – külön jogszabály szerinti – adatokat,
 - b) az a) pontban foglaltakon túl az egészségügyi szolgáltatást igénybe vevő TAJ számát, közgyógyellátásra való jogosultság esetén a közgyógyellátási igazolvány számát,
@@ -505,7 +505,7 @@ az (1) bekezdés szerinti megkeresést rövid úton is előterjesztheti, a kezel
 - a) feltételezhető, hogy a gyermek sérülése vagy betegsége bántalmazás, illetve elhanyagolás következménye,
 - b) a gyermek egészségügyi ellátása során bántalmazására, elhanyagolására utaló körülményekről szerez tudomást.
 
-(4) Az (1)–(3) bekezdés szerinti adattovábbításhoz az érintett, illetve az adattal kapcsolatosan egyébként rendelkezésre jogosult beleegyezése nem szükséges.
+(4) Az (1) és (3) bekezdés szerinti adattovábbításhoz az érintett, illetve az adattal kapcsolatosan egyébként rendelkezésre jogosult beleegyezése nem szükséges.
 
 25. § Egészségügyi és személyazonosító adatot közigazgatási hatósági eljárás, illetve az érintettnek intézményi elhelyezése, gondozása céljából akkor lehet továbbítani, ha arra az érintett jogai érvényesítéséhez vagy kötelezettségei teljesítéséhez van szükség.
 

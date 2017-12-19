@@ -94,6 +94,19 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 
 áll.
 
+6/A. § (1) A világörökségi helyszínen található ingatlan tekintetében – ide nem értve a lakhatás céljára szolgáló rendeltetés szerinti jellegű épületet (különösen: lakás, lakóház), valamint a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földet – a magyar államot – más jogosultakat megelőzően – elővásárlási jog illeti meg.
+
+(2) A magyar állam elővásárlási jogát
+
+- a) a természetvédelemért felelős miniszter gyakorolja, ha a világörökségi helyszín kiemelkedő egyetemes értékét a természet védelméről szóló jogszabályok alapján fennálló védettséggel összhangban állapították meg,
+- b) minden más esetben a kulturális örökség védelméért felelős miniszter gyakorolja.
+
+(3) Ha a magyar államot más jogcímen is megilleti az elővásárlási jog, akkor először az e törvény alapján fennálló elővásárlási jog gyakorlása tekintetében kell nyilatkozni. Ha ezen jogcím alapján nem kerül sor az elővásárlási jog gyakorlására, úgy az elővásárlási jog a magyar állam tekintetében a további fennálló jogcímeken gyakorolható.
+
+(4) Ha az e törvény alapján fennálló elővásárlási joggal olyan ingatlan érintett, amelyen a kulturális örökség védelméről szóló törvény vagy a természet védelméről szóló törvény alapján is fennáll a magyar államot megillető elővásárlási jog, úgy csak az e törvény alapján fennálló elővásárlási jog vonatkozásában kell nyilatkozni.
+
+(5) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a kormányrendeletben kijelölt hatóság megkeresi az ingatlanügyi hatóságot.
+
 #### 3. Kezelés, világörökségi kezelési terv, világörökségi gondnokság
 
 7. § (1) A világörökségi területek kezelése – a kiemelkedő egyetemes érték, és az azt hordozó valamennyi anyagi és nem anyagi tényező megőrzése érdekében – kiterjed a világörökségi területek használatának, fejlesztésének, bemutatásának, illetve szükség szerinti helyreállításának biztosítására, továbbá a világörökségi területek megőrzésével és fenntartható mértékű használatával kapcsolatos tevékenységek összehangolására.
@@ -193,7 +206,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 - c) a világörökségi kezelési terv készítését, annak tartalmi elemeire vonatkozó részletes követelményeket, az érintettekkel történő előzetes egyeztetésének és felülvizsgálatának rendjét;
 - d) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
 - e) a világörökségi terület világörökségi kezelési tervét; valamint
-- f)
+- f) a világörökségi helyszínen található ingatlanok vonatkozásában a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait, a 6/A. § (5) bekezdésében meghatározott hatóság kijelölését, valamint az elővásárlási joggal érintett ingatlanok adatait.
 
 (2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
 

@@ -215,7 +215,8 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - q) szociális földprogram és közfoglalkoztatási program támogatása;
 - r) pályakezdő agrárvállalkozók és mezőgazdasági vagy erdészeti szakirányú végzettséggel rendelkezők támogatása;
 - s) különleges rendeltetésű (különösen oktatás, kutatás, büntetés-végrehajtás) gazdaságok működéséhez kedvezményes föld biztosítás.
-- t) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 4/A. §-a alapján létrehozott szociális szövetkezet részére föld kedvezményes biztosítása.
+- t) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 4/A. §-a alapján létrehozott szociális szövetkezet részére föld kedvezményes biztosítása;
+- u) a világörökségi helyszín kiemelkedő egyetemes értékekkel összefüggő oltalmának biztosítása.
 
 (4) A földrészletre vonatkozó szabályokat kell alkalmazni a mezőgazdasági termelés célját szolgáló földre, ha
 
