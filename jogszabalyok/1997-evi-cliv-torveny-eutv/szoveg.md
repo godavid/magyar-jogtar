@@ -1588,7 +1588,7 @@ kell alkalmazni.
 
 (21) Ha az oklevél a (19) bekezdés alapján további feltételek előírása nélkül nem ismerhető el, az elismerés feltétele – a kérelmező által folytatott tanulmányok, valamint a megszerzett szakmai tapasztalat figyelembevételével – az e törvényben, továbbá külön jogszabályban meghatározott szempontok alapján kialakított szakmai tartalom és feltételrendszer szerinti kompenzációs intézkedések teljesítése.
 
-(22) A (17) bekezdés szerinti elismerési eljárást kérelmezőnek az eljárásért a kérelem benyújtásakor hatályos, jogszabályban megszabott kötelező legkisebb munkabér háromnegyedének megfelelő összeget kell eljárási díjként befizetnie az elismerő hatóságként eljáró egészségügyi államigazgatási szerv számlájára.
+(22) A (17) bekezdés szerinti elismerési eljárást kérelmezőnek a kérelméhez csatolnia kell az Etv. IV. Fejezete szerinti eljárásra irányadó igazgatási szolgáltatási díjnak megfelelő összeg egészségügyi államigazgatási szerv számlájára való megfizetésének igazolását.
 
 (23) Amennyiben a Magyarországon gazdasági céllal nem letelepedett, egészségügyi tevékenységet végző, a szabad mozgás és tartózkodás jogával rendelkező személlyel kapcsolatban olyan adat jut a kormányrendeletben meghatározott szerv tudomására, amely egyébként a 113/A. § (1) bekezdésének b)–d) pontja szerint a működési nyilvántartásból való törlést vonná maga után, a kormányrendeletben meghatározott szerv tájékoztatja a letelepedés szerinti EGT-államnak, illetve annak az EGT-államnak a hatáskörrel rendelkező hatóságát, amelynek területén az adott személy gazdasági célú letelepedéssel nem járó tevékenységet kíván végezni.
 
@@ -1606,7 +1606,7 @@ kell alkalmazni.
 
 (3) A jó hírnév igazolás csak akkor adható ki, ha a (2) bekezdés a)–c) pontjában foglalt valamennyi esetre vonatkozóan tartalmaz igazolást.
 
-(4) A kérelmezőnek a jóhírnév-igazolás kiállítása iránti kérelméhez csatolnia kell az Etv. 64. § (1) bekezdése szerinti eljárási díj megfizetésének igazolását.
+(4) A kérelmezőnek a jó hírnév-igazolás kiállítása iránti kérelméhez csatolnia kell az Etv. XI. Fejezete szerinti hatósági bizonyítványok kiadására irányadó eljárási díjnak megfelelő összeg megfizetésének igazolását.
 
 ### Az egészségügyi szakképesítést szerzett személyek alapnyilvántartása
 
@@ -1723,7 +1723,7 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 
 (6) Az az egészségügyi dolgozó, aki a működési nyilvántartásba való felvételét
 
-- a) első alkalommal kéri, és az egészségügyi szakképesítése megszerzésének, illetve jogszabály szerinti magyarországi elismerésének vagy honosításának napja óta több mint 8 év eltelt, vagy
+- a) az adott szakképesítés tekintetében első alkalommal kéri, és az egészségügyi szakképesítése megszerzésének, illetve jogszabály szerinti magyarországi elismerésének vagy honosításának napja óta több mint 8 év eltelt, vagy
 - b) a nyilvántartásból való törlését követően kéri, e törvény, valamint jogszabály szerinti, a működési nyilvántartás megújításához szükséges továbbképzési kötelezettség teljesítésére vonatkozó feltételek szerint annyi továbbképzési pont igazolására köteles, amennyi egyébként a működési nyilvántartás megújításához szükséges, kivéve azon személyeket, akik e törvény alapján mentesülnek a továbbképzési kötelezettség teljesítése alól.
 
 113/A. § (1) A működési nyilvántartásból a nyilvántartást vezető szerv – a (2) bekezdésben foglalt eltéréssel – törli azt a személyt
@@ -2941,7 +2941,7 @@ kerüljön sor.
 
 (2) A korlátozás elrendelésének oka lehet az (1) bekezdésen túl, ha a 199. § (1) bekezdés szerinti sürgősségi, illetve a 199. § (5) bekezdés és a 200. § szerinti kötelező gyógykezelés alatt álló beteg engedély nélküli eltávozása másként nem akadályozható meg.
 
-(3) A korlátozás elrendelésére és módjára a 10. § (4)–(5) bekezdései az irányadók. A korlátozásról az orvost haladéktalanul értesíteni kell, akinek 2 órán belül azt jóvá kell hagynia. Ennek hiányában a korlátozást haladéktalanul meg kell szüntetni.
+(3) A korlátozás elrendelésére és módjára a 10. § (4) és (5) bekezdése az irányadó, azzal, hogy a korlátozásról az orvost haladéktalanul értesíteni kell, akinek 2 órán belül azt – a dátum és az időpont feltüntetésével – jóvá kell hagynia. Ennek hiányában a korlátozást haladéktalanul meg kell szüntetni.
 
 (4) A korlátozás ideje alatt a beteg állapotát folyamatosan ellenőrizni kell, amely magában foglalja a fizikai, higiénés és egyéb szükségletek felmérését és ezeknek a beteg állapotának megfelelő kielégítését.
 
