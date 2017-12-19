@@ -135,7 +135,7 @@ kell meghatározni.
 - d) a megyei önkormányzat által tett, illetőleg az általa fenntartott egészségügyi szolgáltatóra háruló, az átadás-átvétel napján hatályos, illetve ezt követően hatályba lépő kötelezettségvállalásokról (különös tekintettel közbeszerzésekre, döntési moratórium alatt érkezett és még döntés előtt álló közbeszerzési mentességi kérelmekre, beruházásokra, intézményi épület-beruházásokra, felújításokra, a hosszú távú kötelezettségvállalásokra) és egyéb kötelezettséget alapító intézkedésekről (beleértve a pályázatokat, ígérvényeket, szándéknyilatkozatokat) szóló tételes és a szükséges magyarázatokkal ellátott kimutatásról,
 - e) az átadásra kerülő egészségügyi szolgáltatókkal kapcsolatos tervezési feladatkörbe tartozó európai uniós társfinanszírozású projektek helyzetéről,
 - f) az átadás-átvétel napján hatályos, illetve később hatályba lépő, harmadik személlyel szemben fennálló, adott esetben nem jogszabályi rendelkezésen alapuló, de érvényesíthető bármilyen jogosultságról, igényről, a vitatott, adott esetben per vagy más vitarendezési eljárás tárgyává tett kérdésről, az azzal kapcsolatos álláspontjáról és annak indokairól, külön kiemelve az európai uniós programokkal kapcsolatos vitás kérdéseket,
-- g) az eszköz- és vagyonleltárról (ingatlanok jegyzéke figyelemmel azok terheire, illetve az 1990 után egészségügyi ellátás céljára használt olyan ingatlanokra, amelyek egészségügyi funkciója megváltozott és egyéb közcélra sem került hasznosításra, ingó vagyon és egyéb vagyonelemek összesített bemutatása), vagyoni értékű jogról,
+- g) az eszköz- és vagyonleltárról (ingatlanok jegyzéke figyelemmel azok terheire, illetve az egészségügyi ellátás céljára használt olyan ingatlanokra, amelyek egészségügyi funkciója megváltozott és egyéb közcélra sem került hasznosításra, ingó vagyon és egyéb vagyonelemek összesített bemutatása), vagyoni értékű jogról,
 - h) az egészségügyi szolgáltatók költségvetési helyzetéről, tárgyévi költségvetés végrehajtásáról és előző évi beszámolóról (kötelezettségvállalás-teljesítés, pénzeszköz állomány, pénzmaradvány-felhasználásokról, beruházások és felújítások, vagyoni helyzete: saját tulajdonban álló, illetve egyéb jogcímen működtetett eszköz- és ingatlanvagyon, vagy más vagyonelem bemutatása, ezzel kapcsolatos nyilvántartások),
 - i) minden olyan körülményről, veszélyről, illetve lehetőség számbavételéről, amely az adott egészségügyi szolgáltató működését érdemben befolyásolhatja, valamint az eredményes feladatellátáshoz szükséges további tényekről, körülményekről,
 - j) a fenntartó önkormányzat által – az egészségügyi intézményeknél saját bevételként képződött – elvont és az önkormányzathoz benyújtott igénylési kérelmet követően vissza nem utalt saját bevételrészről havi bontásban.
@@ -477,7 +477,15 @@ m) Segély Helyett Esély Alapítvány Thalassa Ház – Pszichoterápiás és P
 
 (a továbbiakban: a)–tól m) pontig együtt: egészségügyi szolgáltató)
 
-n) azok a Fővárosi Önkormányzat tulajdonában álló ingatlanok, amelyeket 1990 után egészségügyi ellátás céljára használtak, és amelyek egészségügyi funkciója megváltozott, de egyéb közcélra nem került hasznosításra,
+n) a Fővárosi Önkormányzat tulajdonában álló alábbi ingatlanok, amelyek egészségügyi funkciója megváltozott, de egyéb közcélra nem került hasznosításra:
+
+na) 1092 Budapest, Bakáts tér 10. (hrsz: 36873/0/A/1, 36873/0/B/1, 36873/0/C/1)
+
+nb) 1131 Budapest, Gyermek tér 2. (hrsz: 26543/5)
+
+nc) 1102 Budapest, Füzér u. 40. (Liget u. 6–10.) (hrsz: 38996)
+
+nd) 2028 Pilismarót, Diófa u. (hrsz: 1866)
 
 o) Budapesti Egészségközpont Zrt.
 
