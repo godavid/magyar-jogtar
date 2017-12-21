@@ -61,7 +61,8 @@ a következő törvényt alkotja:
 - 12. hozzátartozó: az egyenesági rokon és ennek házastársa, a testvér, a házastárs, a bejegyzett élettárs és az élettárs;
 - 13. nemzetiségi köznevelésben alkalmazottak köre: a nemzetiségi köznevelési intézmény azon alkalmazottai, akik foglalkoztatása a nemzetiségi köznevelési intézményben pedagógus, pedagógiai szakértő munkakörben és pedagógiai előadó munkakörben, továbbá a nevelő és oktató munkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását közvetlenül segítő munkakörben történik;
 - 14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában szereplő olyan egyesület, amelynek alapszabályában rögzített célja az e törvény szerinti, konkrétan megjelölt nemzetiség képviselete;
-- 15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó nemzetiségi egyesülettel.
+- 15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó egyesület;
+- 16. nemzetiségi alapítvány: az alapító okirata szerint adott nemzetiség érdekvédelmét, érdekképviseletét, vagy a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó alapítvány.
 
 ### II. Fejezet — A nemzetiségek alapvető jogai
 
@@ -70,7 +71,8 @@ a következő törvényt alkotja:
 4. § (1) Minden nemzetiségi közösségnek és nemzetiséghez tartozó személynek joga van
 
 - a) a szülőföldjén való zavartalan boldoguláshoz, a saját, a szülők, ősök születési vagy lakhelyének kultúrájához, hagyományaihoz való kötődés szabadságához és oltalmához;
-- b) az óhazával való zavartalan kapcsolattartáshoz.
+- b) az óhazával való zavartalan kapcsolattartáshoz;
+- c) képviselője útján részt venni az Országgyűlés nemzetiségek érdekeit, jogait érintő törvényalkotási munkájában.
 
 (2) A nemzetiséghez tartozó személynek joga van mind az óhaza és a nyelvnemzetek állami és közösségi intézményeivel, mind a más országokban élő nemzetiségekkel való kapcsolattartásra.
 
@@ -160,9 +162,9 @@ a következő törvényt alkotja:
 
 16. § (1) A nemzetiséghez tartozó személynek joga, hogy anyanyelvén használja a családi és utónevét, és joga van családi és utónevének hivatalos elismeréséhez.
 
-(2) A nemzetiséghez tartozó személynek joga van saját és gyermeke utónevének saját nemzetiségének megfelelő megválasztásához és nemzetiségi nyelve szabályai szerinti anyakönyveztetéséhez. A nem latin írásmóddal történő bejegyzés esetén kötelező a fonetikus, latin betűs írásmód egyidejű alkalmazása is.
+(2) A nemzetiséghez tartozó személynek joga van saját és gyermeke utónevének saját nemzetiségének megfelelő megválasztásához és nemzetisége nyelvének szabályai szerinti anyakönyveztetéséhez.
 
-(3) Kérésre a személyazonosító igazolvány a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetiségi nyelven is tartalmazza. Jogszabály lehetővé teheti, hogy más hatósági igazolvány a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetiségi nyelven is tartalmazza.
+(3) Kérésre a személyazonosító igazolvány a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetisége nyelvén is tartalmazza. Jogszabály lehetővé teheti, hogy más hatósági igazolvány a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetisége nyelvén is tartalmazza.
 
 ### IV. Fejezet — Közösségi nemzetiségi jogok
 
@@ -183,6 +185,25 @@ a következő törvényt alkotja:
 
 21. § A nemzetiségi szervezeteket megilleti a széles körű és közvetlen nemzetközi kapcsolatok kiépítésének és fenntartásának a joga.
 
+### IV/A. Fejezet — A Nemzetiségek részvétele az Országgyűlés munkájában
+
+21/A. § A nemzetiségek képviseletét az Országgyűlésben:
+
+- a) nemzetiségi listán mandátumot szerzett nemzetiségi képviselő,
+- b) nemzetiségi szószóló
+
+láthatja el.
+
+21/B. § (1) A nemzetiségi képviselő és a nemzetiségi szószóló tevékenységét nemzetiségi közössége és a magyarországi nemzetiségek érdekében végzi.
+
+(2) A nemzetiségi képviselő és a nemzetiségi szószóló tevékenysége során együttműködik nemzetisége önkormányzataival, intézményeivel és szervezeteivel.
+
+(3) A nemzetiségi képviselő és a nemzetiségi szószóló tevékenységével összefüggésben jogosult tájékoztatást kérni az országos nemzetiségi önkormányzat elnökétől, közgyűlésétől és intézményeitől.
+
+(4) Az országos nemzetiségi önkormányzat közgyűlésén az adott nemzetiséghez tartozó nemzetiségi képviselő és nemzetiségi szószóló állandó meghívottként, tanácskozási joggal vehet részt.
+
+(5) Az országos nemzetiségi önkormányzat évente legalább egy alkalommal lehetőséget biztosít a nemzetiségi képviselő és a nemzetiségi szószóló részére, hogy tájékoztatást nyújthasson az országos nemzetiségi önkormányzat közgyűlésének saját, és az Országgyűlés nemzetiségekkel kapcsolatos tevékenységéről, illetve döntéseiről.
+
 ### V. Fejezet — A nemzetiségek oktatási, kulturális és média jogai
 
 ### A nemzetiségek oktatási önigazgatása
@@ -191,11 +212,13 @@ a következő törvényt alkotja:
 
 (2) Az állam a magyarországi nemzetiségek anyanyelvét közösség-összetartó tényezőként ismeri el. Az állam tekintet nélkül arra, hogy a köznevelési intézménynek ki a fenntartója, támogatja a nemzetiségek által használt nyelv alkalmazását a nemzetiségi köznevelésben. A nemzetiségi köznevelés többletköltségét – jogszabályban meghatározott módon – az állam viseli.
 
-(3) A nemzetiséghez tartozó gyermek – a szülője vagy gyámja (a továbbiakban együtt: szülő) döntésétől függően – anyanyelvű, nemzetiségi két tanítási nyelvű, nemzetiségi nyelvoktató vagy roma nemzetiségi köznevelésben vehet részt. A roma nemzetiségi nevelés, nevelés-oktatás folyhat kizárólag magyar nyelven, de a szülők igényei alapján az intézményfenntartó köteles biztosítani a roma nyelv (romani, illetve beás) oktatását is. A 14. életévét betöltött, nem cselekvőképtelen gyermek esetében a szülő e választási jogát gyermekével közösen gyakorolja, a köznevelési intézménybe történő beiratkozáskor.
+(3) A nemzetiséghez tartozó gyermek – törvényes képviselője döntésétől függően – nemzetiségi anyanyelvű, vagy nemzetiségi kétnyelvű óvodai nevelésben, illetve nemzetiségi anyanyelvű, nemzetiségi kétnyelvű, vagy nemzetiségi nyelvoktató iskolai nevelésben-oktatásban, kiegészítő nemzetiségi nevelés-oktatásban vagy roma nemzetiségi köznevelésben jogosult részt venni. A roma nemzetiségi óvodai nevelés, iskolai nevelés-oktatás folyhat kizárólag magyar nyelven, de a gyermek törvényes képviselőjének igénye alapján az intézményfenntartó köteles biztosítani a roma nyelv (romani, illetve beás) oktatását is. A 14. életévét betöltött, nem cselekvőképtelen gyermek esetében a gyermek törvényes képviselője e döntési jogát a gyermekkel közösen gyakorolja, a köznevelési intézménybe történő beiratkozáskor.
 
 (4) A nemzetiség anyanyelvű vagy anyanyelvi nevelése, nevelése-oktatása a helyi lehetőségek és igények szerint nemzetiségi óvodában, iskolában, iskolai osztályban vagy csoportban történhet.
 
-(5) A településen meg kell szervezni és fenn kell tartani a nemzetiségi óvodai nevelést, továbbá a nemzetiségi iskolai nevelés-oktatást – a roma nemzetiség esetében a (3) bekezdés szerinti igénynek megfelelően – ha ezt ugyanahhoz a nemzetiséghez tartozó nyolc (gyermek) tanuló szülője a fenntartótól kérte, és az óvodai csoport, iskolai osztály a nemzeti köznevelésről szóló törvény rendelkezései alapján megszervezhető. Ha a tanulólétszám nem teszi lehetővé a nemzetiségi óvodai nevelés, iskolai nevelés-oktatás egy településen belüli megszervezését, az érintett országos önkormányzat kezdeményezésére a feladatellátásra köteles szerv megteremti a kiegészítő nemzetiségi nevelés-oktatás feltételeit. A kiegészítő nemzetiségi nevelés-oktatást az országos nemzetiségi önkormányzat maga is megszervezheti.
+(5) A településen meg kell szervezni és fenn kell tartani a nemzetiségi óvodai nevelést, továbbá a nemzetiségi iskolai nevelés-oktatást – a roma nemzetiség esetében a (3) bekezdés szerinti igénynek megfelelően – ha ezt ugyanahhoz a nemzetiséghez tartozó nyolc (gyermek) tanuló törvényes képviselője a fenntartótól kérte, és az óvodai csoport, iskolai osztály a nemzeti köznevelésről szóló törvény rendelkezései alapján megszervezhető.
+
+(6) Ha a tanulólétszám nem teszi lehetővé a nemzetiségi iskolai nevelés-oktatás egy településen belüli megszervezését, az érintett országos önkormányzat kezdeményezésére a feladatellátásra köteles szerv megteremti a kiegészítő nemzetiségi nevelés-oktatás feltételeit. A kiegészítő nemzetiségi nevelés-oktatást az országos nemzetiségi önkormányzat maga is megszervezheti. Amennyiben az országos nemzetiségi önkormányzat a nevelés-oktatás megszervezését nem vállalja, azt az érintett térség egyik területi, ennek hiányában a települési nemzetiségi önkormányzata is megszervezheti.
 
 23. § (1) A köznevelés és a felsőoktatás törvényi szabályozása, az oktató-nevelő tevékenység szerkezetének és tartalmának meghatározása, valamint e tevékenység ellenőrzése során e törvénnyel összhangban érvényesíteni kell a nemzetiségek kulturális autonómiájának megfelelő nevelési és oktatási érdekeket.
 
@@ -207,26 +230,26 @@ a következő törvényt alkotja:
 
 24. § (1) A nemzetiségi önkormányzat – a köznevelési törvényben és az államháztartás működési rendjéről szóló jogszabályokban meghatározottak szerint – köznevelési intézményt létesíthet és tarthat fenn, illetve az e törvényben meghatározott rendben átveheti a más szerv által létesített köznevelési intézmény fenntartói jogát.
 
-(2) Az országos nemzetiségi önkormányzat által fenntartott köznevelési intézmény és többcélú intézmény vezetőjét az oktatási miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
+(2) A nemzetiségi önkormányzat által fenntartott köznevelési intézmény és többcélú intézmény vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
 
-25. § (1) Állami feladatot ellátó intézmény esetében az országos nemzetiségi önkormányzat kezdeményezésére át kell adni az országos nemzetiségi önkormányzat részére annak az országos vagy térségi beiskolázású köznevelési intézménynek a fenntartói jogát, amelyik alapító okirata alapján nemzetiségi feladatot lát el, és gyermekek, tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi nevelésben, nevelésben-oktatásban, illetve ellátásban részesül. A kezdeményezéshez csatolni kell az érintett intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét.
+25. § (1) Állami, önkormányzati feladatot ellátó intézmény esetében az országos nemzetiségi önkormányzat kezdeményezésére át kell adni az országos nemzetiségi önkormányzat részére annak az országos vagy térségi beiskolázású köznevelési intézménynek a fenntartói jogát, amely alapító okirata alapján nemzetiségi feladatot lát el, és a gyermekek, tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban, illetve kollégiumi ellátásban részesül. A kezdeményezéshez csatolni kell az érintett intézmény óvodaszékének, iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét.
 
-(2) A települési nemzetiségi önkormányzat megkeresésére – az országos nemzetiségi önkormányzat egyetértése esetén – az intézmény helyi önkormányzati, állami fenntartója átadhatja a települési nemzetiségi önkormányzatnak annak a köznevelési intézménynek a fenntartói jogát, amelyik alapító okirata alapján nemzetiségi feladatot lát el, és minden gyermek, tanuló részt vesz a nemzetiségi nevelésben, nevelésben-oktatásban, illetve ellátásban részesül. A kezdeményezéshez csatolni kell az érintett intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének), a diákönkormányzatának a véleményét.
+(2) A települési nemzetiségi önkormányzat megkeresésére – az országos nemzetiségi önkormányzat egyetértése esetén – az intézmény helyi önkormányzati, állami fenntartója átadhatja a települési nemzetiségi önkormányzatnak annak a köznevelési intézménynek a fenntartói jogát, amely alapító okirata alapján nemzetiségi feladatot lát el, és a gyermekek, tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban, illetve kollégiumi ellátásban részesül. A kezdeményezéshez csatolni kell az érintett intézmény óvodaszékének, iskolaszékének, ennek hiányában szülői szervezetének (közösségének), diákönkormányzatának, továbbá az adott nemzetiség érintett területi nemzetiségi önkormányzatának a véleményét.
 
 (3) Amennyiben a települési nemzetiségi önkormányzat a feladat ellátására törvény alapján köteles fenntartótól átvett köznevelési intézmény fenntartói jogáról le kíván mondani, a fenntartói jogot az érintett országos önkormányzat átveheti, ha nem kívánja átvenni, a korábbi fenntartó vagy jogutódja köteles a fenntartói jog visszavételére.
 
-(4) Különösen indokolt esetben az országos nemzetiségi önkormányzat – az oktatásért felelős miniszter engedélyével – átveheti az országos vagy térségi feladatot el nem látó, nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű intézmény, továbbá a roma nemzetiségi intézmény fenntartását, valamint az adott nemzetiség országos feladatot is ellátó nemzetiségi nyelvoktató intézményét. A miniszter az átadást akkor engedélyezi, ha
+(4) Különösen indokolt esetben az országos nemzetiségi önkormányzat – az oktatásért felelős miniszter engedélyével – átveheti az országos vagy térségi feladatot el nem látó, nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű intézmény, továbbá a roma nemzetiségi intézmény fenntartását, valamint az adott nemzetiség országos feladatot is ellátó nemzetiségi nyelvoktató intézményét. A kezdeményezéshez csatolni kell az érintett intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, továbbá az adott nemzetiség érintett települési és területi nemzetiségi önkormányzatának a véleményét. A miniszter az átadást akkor engedélyezi, ha
 
-- a) minden tanuló részt vesz a nemzetiségi oktatásban és
+- a) a tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi oktatásban és
 - b) az adott nemzetiség köznevelése szempontjából kiemelt jelentőséggel bír.
 
-(5) A nevelési-oktatási intézmény átadására az oktatásért felelős miniszter és az átvevő között létrejött köznevelési szerződés alapján kerülhet sor.
+(5) A nevelési-oktatási intézmény átadására az átadó és az átvevő között írásbeli megállapodás alapján kerülhet sor.
 
-(6) A fenntartói jog átadásával együtt a köznevelési intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő használatába kell adni. Az átadás ingyenes. A használatba adás ideje nem lehet tíz évnél rövidebb.
+(6) A fenntartói jog átadásával együtt a köznevelési intézmény feladatainak ellátását szolgáló ingó és ingatlan vagyont ingyenesen – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő vagyonkezelésébe kell adni mindaddig, amíg a köznevelési közfeladatnak az átvevő részéről történő ellátása az adott ingatlanban meg nem szűnik.
 
 (7) Ha a nemzetiségi önkormányzat megszűnik, a fenntartói jogot a székhely szerinti fővárosi és megyei kormányhivatal köteles gyakorolni, addig az időpontig, ameddig az új nemzetiségi önkormányzat megalakul.
 
-(8) A 24. § (1) bekezdés, a 25. § (1)–(2) bekezdés és (4) bekezdés szerinti, továbbá a köznevelésről szóló törvény szerinti fenntartói jog átvétele esetén az átadóval, az (5) bekezdés esetén az oktatásért felelős miniszterrel megkötött köznevelési szerződést a felek a köznevelésről szóló törvénynek az egyházi köznevelési intézményre vonatkozó szabályai szerinti tartalommal kötik meg.
+(8) A 24. § (1) bekezdés, az (1)–(2) bekezdés és (4) bekezdés szerinti, továbbá a nemzeti köznevelésről szóló törvény szerinti fenntartói jog átvétele esetén megkötött írásbeli megállapodást a felek a nemzeti köznevelésről szóló törvénynek az egyházi köznevelési intézményre vonatkozó szabályai szerinti tartalommal kötik meg.
 
 26. § (1) Az országos nemzetiségi önkormányzatok esetében a nemzetiségi óvodai nevelés, iskolai, kollégiumi nevelés-oktatás, valamint a helyi nemzetiségi önkormányzatok esetében a nemzetiségi iskolai, kollégiumi nevelés-oktatás finanszírozása a nevelési-oktatási feladatot ellátó egyházi jogi személyekre vonatkozó szabályokkal azonosan történik.
 
@@ -281,7 +304,7 @@ a következő törvényt alkotja:
 
 (2) A munkáltatói jogokat az átvételt követően az átvevő gyakorolja. Az átadás nem minősül átszervezésnek. Az intézmény fenntartói jogának átadása nem járhat átalakítással. Az ellenkező bizonyításáig az átadás tervezett időpontját megelőző és az átadás időpontját követő két éven belüli átszervezést a fenntartói jog átadásával összefüggő átszervezésnek kell tekinteni. E rendelkezés alkalmazásában átszervezés az intézmény összevonása, illetve egy intézménynek több intézményre tagolása.
 
-(3) A kulturális feladat átadásával együtt a feladat ellátását szolgáló ingó és ingatlan vagyont – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő birtokába és használatába kell adni. Az átadás ingyenes. A használatba adás legrövidebb ideje tíz év.
+(3) A kulturális feladat átadásával együtt a feladat ellátását szolgáló ingó és ingatlan vagyont ingyenesen – a 125. § (5) bekezdésében foglalt kivétellel – az átvevő vagyonkezelésébe kell adni mindaddig, amíg a kulturális közfeladatnak az átvevő részéről történő ellátása az adott ingatlanban meg nem szűnik.
 
 (4) A jogszabályi feltételek és kötelezettségek nem teljesülése esetén a szakterületet ellátó és felügyelő államigazgatási szerv a bíróságnál kezdeményezheti a megállapodás felbontását és a szerződést megelőző eredeti állapot helyreállítását. A bírósági eljárásban a kultúráért felelős minisztert – szakértői állásfoglalás céljából – meg kell keresni.
 
@@ -341,6 +364,8 @@ a következő törvényt alkotja:
 (2) A nemzetiségi műsorszámok, nyomtatott vagy internetes sajtótermékek készítése, kiadása és terjesztése érdekében állami pénzügyi támogatásban részesülő médiaszolgáltatók, és a sajtótermék kiadóinak működése során biztosítani kell a véleménynyilvánítás és a sajtó szabadságát, a pártatlanság és a sokoldalú tájékoztatás érvényesülését.
 
 49. § A nemzetiségek által lakott területeken az állam – nemzetközi szerződések útján is – előmozdítja az anyaországból származó rádiós és audiovizuális médiaszolgáltatások vételét, a nemzetiségek anyanyelvén közzétett közszolgálati műsorszámok elérését.
+
+### VI. Fejezet — A nemzetiségi önkormányzat
 
 ### A nemzetiségek önkormányzatai
 
@@ -443,7 +468,13 @@ szerepelhet a nemzetiségi névjegyzékben.
 
 64. § (1) A választópolgár azon a településen szavazhat, amelynek nemzetiségi névjegyzékében szerepel.
 
-(2) A választópolgár, ha a települési nemzetiségi önkormányzati képviselők választását kitűzték, az 51. § (1) bekezdés a) pontja szerinti esetben legfeljebb három, az 51. § (1) bekezdés b) pontja szerinti esetben legfeljebb négy települési képviselőjelöltre, ha a területi nemzetiségi önkormányzati képviselők választását kitűzték, egy területi listára, és ha az országos nemzetiségi önkormányzati képviselők választását kitűzték, egy országos listára szavazhat.
+(2) A választópolgár
+
+- a) a települési nemzetiségi önkormányzati képviselők választásán az 51. § (1) bekezdés a) pontja szerinti esetben legfeljebb három, az 51. § (1) bekezdés b) pontja szerinti esetben legfeljebb öt települési képviselőjelöltre,
+- b) a területi nemzetiségi önkormányzati képviselők választásán egy területi listára, és
+- c) az országos nemzetiségi önkormányzati képviselők választásán egy országos listára
+
+szavazhat.
 
 ### Az eredmény megállapítása
 
@@ -566,13 +597,13 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (4) Ha a nemzetiségi önkormányzat jogainak gyakorlásához a helyi önkormányzatnak vagy szervének döntése szükséges, a nemzetiségi önkormányzat erre irányuló kezdeményezését a döntésre jogosult köteles a következő ülésén napirendre tűzni, valamint a kezdeményezés benyújtásától számított harminc, testületi döntés esetén hatvan napon belül döntést hozni.
 
-80. § (1) A települési önkormányzat hivatala, illetve az a hivatal, amelyik a helyi nemzetiségi önkormányzat székhelye szerinti helyi önkormányzat önkormányzati hivatali feladatát ellátja a helyi nemzetiségi önkormányzat részére biztosítja az önkormányzati működés személyi és tárgyi feltételeit, továbbá gondoskodik a működéssel kapcsolatos végrehajtási feladatok ellátásáról. Az önkormányzati működés feltételei és az ezzel kapcsolatos végrehajtási feladatok:
+80. § (1) A települési önkormányzat, illetve az a hivatal, amelyik a helyi nemzetiségi önkormányzat székhelye szerinti helyi önkormányzat önkormányzati hivatali feladatát ellátja, biztosítja a helyi nemzetiségi önkormányzat részére az önkormányzati működés személyi és tárgyi feltételeit, szakmai segítséget nyújt, továbbá gondoskodik a működéssel kapcsolatos gazdálkodási és adminisztratív végrehajtási feladatok ellátásáról. Az önkormányzati működés feltételei és az ezzel kapcsolatos végrehajtási feladatok:
 
-- a) a helyi nemzetiségi önkormányzat részére havonta igény szerint, de legalább tizenhat órában, az önkormányzati feladat ellátásához szükséges tárgyi, technikai eszközökkel felszerelt helyiség ingyenes használata, a helyiséghez, továbbá a helyiség infrastruktúrájához kapcsolódó rezsiköltségek és fenntartási költségek viselése;
+- a) a helyi nemzetiségi önkormányzat részére annak saját székhelyén havonta igény szerint, de legalább harminckét órában, az önkormányzati feladat ellátásához szükséges tárgyi, technikai eszközökkel felszerelt helyiség ingyenes használata, a helyiséghez, továbbá a helyiség infrastruktúrájához kapcsolódó rezsiköltségek és fenntartási költségek viselése;
 - b) a helyi nemzetiségi önkormányzat működéséhez (a testületi, tisztségviselői, képviselői feladatok ellátásához) szükséges tárgyi és személyi feltételek biztosítása;
 - c) a testületi ülések előkészítése, különösen a meghívók, az előterjesztések, a testületi ülések jegyzőkönyveinek és valamennyi hivatalos levelezés előkészítése és postázása;
 - d) a testületi döntések és a tisztségviselők döntéseinek előkészítése, a testületi és tisztségviselői döntéshozatalhoz kapcsolódó nyilvántartási, sokszorosítási, postázási feladatok ellátása;
-- e) a helyi nemzetiségi önkormányzat működésével, gazdálkodásával kapcsolatos nyilvántartási, iratkezelési feladatok ellátása;
+- e) a helyi nemzetiségi önkormányzat működésével, gazdálkodásával kapcsolatos nyilvántartási, adatszolgáltatási, iratkezelési feladatok ellátása;
 - f) a jelnyelv és a speciális kommunikációs rendszer használatának biztosítása, és
 - g) az a)–f) pontban meghatározott feladatellátáshoz kapcsolódó költségek viselése a helyi nemzetiségi önkormányzat tagja és tisztségviselője telefonhasználata költségeinek kivételével.
 
@@ -583,7 +614,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - a) a helyi önkormányzat és a helyi nemzetiségi önkormányzat költségvetésének előkészítésével és megalkotásával, valamint a költségvetéssel összefüggő adatszolgáltatási kötelezettségek teljesítésével, továbbá a helyi nemzetiségi önkormányzat önálló fizetési számla nyitásával, törzskönyvi nyilvántartásba vételével és adószám igénylésével kapcsolatos határidőket és együttműködési kötelezettségeket, a felelősök konkrét kijelölésével,
 - b) a helyi nemzetiségi önkormányzat kötelezettségvállalásaival kapcsolatosan a helyi önkormányzatot terhelő ellenjegyzési, érvényesítési, utalványozási, szakmai teljesítésigazolási feladatokat, továbbá a felelősök konkrét kijelölését,
 - c) a helyi nemzetiségi önkormányzat kötelezettségvállalásának a szervezeti és működési szabályzatban meghatározott szabályait, különösen az összeférhetetlenségi, nyilvántartási kötelezettségeket,
-- d) a helyi nemzetiségi önkormányzat működési feltételeinek és gazdálkodásának eljárási és dokumentációs részletszabályaival, valamint az ezeket végző személyek kijelölésének rendjével, és az adatszolgáltatási feladatok teljesítésével kapcsolatos előírásokat, feltételeket.
+- d) a helyi nemzetiségi önkormányzat működési feltételeinek és gazdálkodásának eljárási és dokumentációs részletszabályaival, a belső ellenőrzéssel, valamint az ezeket végző személyek kijelölésének rendjével, és az adatszolgáltatási feladatok teljesítésével kapcsolatos előírásokat, feltételeket.
 
 (4) A helyi önkormányzat és a helyi nemzetiségi önkormányzat megállapodásban rögzíteni kell, hogy a jegyző vagy annak – a jegyzővel azonos képesítési előírásoknak megfelelő – megbízottja a helyi önkormányzat megbízásából és képviseletében részt vesz a nemzetiségi önkormányzat testületi ülésein és jelzi, amennyiben törvénysértést észlel.
 
@@ -837,11 +868,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### A nemzetiségi önkormányzat tisztségviselőjének és tagjának összeférhetetlensége
 
-106. § (1) Nem lehet a helyi nemzetiségi önkormányzat elnöke: a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, állami vezető, központi államigazgatási szerv kormánytisztviselője, köztisztviselője, a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja a fővárosi és megyei kormányhivatalt vezető kormánymegbízott és kormánytisztviselője, a területi, helyi államigazgatási szervnek az a köztisztviselője, akinek feladatkörébe az adott települési, területi nemzetiségi önkormányzatot érintő ügyek tartoznak, és illetékessége a helyi nemzetiségi önkormányzatra kiterjed, a területileg illetékes helyi önkormányzat jegyzője, körjegyzője, főjegyzője, polgármesteri vagy közös önkormányzati hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területileg illetékes területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál a helyi nemzetiségi önkormányzatnál a helyi nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője és a (10) bekezdésben foglalt kivétellel más nemzetiségi önkormányzat elnöke.
+106. § (1) Nem lehet a helyi nemzetiségi önkormányzat elnöke a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, állami vezető, központi államigazgatási szerv kormánytisztviselője, a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, a területi vagy helyi államigazgatási szervnek az a kormánytisztviselője, állami tisztviselője, akinek feladatkörébe az adott települési, területi nemzetiségi önkormányzatot érintő ügyek tartoznak, és illetékessége a helyi nemzetiségi önkormányzatra kiterjed, a területileg illetékes helyi önkormányzat jegyzője, főjegyzője, polgármesteri vagy közös önkormányzati hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területileg illetékes területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál a helyi nemzetiségi önkormányzatnál a helyi nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője.
 
 (2) Nem lehet az átalakult nemzetiségi önkormányzat elnöke: aki nem lehet a helyi nemzetiségi önkormányzat elnöke, továbbá aki összeférhetetlen a helyi önkormányzat polgármesterére vonatkozó szabályozás alapján.
 
-(3) Nem lehet az országos nemzetiségi önkormányzat elnöke: a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, állami vezető, központi államigazgatási szerv kormánytisztviselője, köztisztviselője, a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja a fővárosi és megyei kormányhivatalt vezető kormánymegbízott és kormánytisztviselője, a területi, helyi államigazgatási szervnek az a köztisztviselője, akinek feladatkörébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak, helyi önkormányzat jegyzője, körjegyzője, polgármesteri vagy közös önkormányzati hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál az országos nemzetiségi önkormányzatnál az országos nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője, az országos nemzetiségi önkormányzati hivatal munkavállalója, vagy a hivatallal munkavégzésre irányuló egyéb jogviszonyban álló személy, és a (10) bekezdésben foglalt kivétellel más nemzetiségi önkormányzat elnöke.
+(3) Nem lehet az országos nemzetiségi önkormányzat elnöke a köztársasági elnök, az Alkotmánybíróság tagja, az alapvető jogok biztosa és helyettese, az Állami Számvevőszék elnöke, alelnöke és számvevője, állami vezető, központi államigazgatási szerv kormánytisztviselője, a Magyar Nemzeti Bank elnöke, alelnöke, a Pénzügyi Békéltető Testület elnöke és a pénzügyi békéltető testületi tag, továbbá a Magyar Nemzeti Bank fizetési, elszámolási, és értékpapír-elszámolási rendszerek felvigyázásával, a makroprudenciális politika kialakításával, a szanálási hatósági feladatok ellátásával és a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatköréhez kapcsolódó feladatot ellátó alkalmazottja, a fővárosi és megyei kormányhivatalt vezető kormánymegbízott, a területi vagy helyi államigazgatási szervnek az a kormánytisztviselője, állami tisztviselője, akinek feladatkörébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak, helyi önkormányzat jegyzője, polgármesteri vagy közös önkormányzati hivatalának köztisztviselője, bíró, ügyész, közjegyző, bírósági végrehajtó, a Magyar Honvédség és a rendvédelmi szervek valamint a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja, a területfejlesztési tanács munkaszervezetének tagja, az, aki ugyanannál az országos nemzetiségi önkormányzatnál az országos nemzetiségi önkormányzat által létesített vagy fenntartott intézmény, gazdasági társaság vezetője, vezető tisztségviselője, az országos nemzetiségi önkormányzati hivatal munkavállalója, vagy a hivatallal munkavégzésre irányuló egyéb jogviszonyban álló személy.
 
 (4) Az elnök az összeférhetetlenségi okot a megválasztásától, illetve az összeférhetetlenségi ok felmerülésétől számított harminc napon belül köteles megszüntetni. Amennyiben a külön jogszabály szerint nem lehetséges az összeférhetetlenség alapjául szolgáló jogviszony megszüntetése, az elnök a jogviszony megszüntetéséről szóló, az arra jogosult által megerősített nyilatkozatát a képviselő-testület, közgyűlés elé terjeszti és egyidejűleg megküldi a fővárosi és megyei kormányhivatalnak.
 
@@ -851,11 +882,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (7) A törvényszék a kérelemről – annak beérkezésétől számított harminc napon belül – nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz. A törvényszék a polgármestert, a keresettel megtámadott határozatot hozó képviselő-testület, közgyűlés képviselőjét és a kereset előterjesztőjét meghallgathatja. A törvényszék döntése ellen további jogorvoslatnak, felülvizsgálatnak helye nincs.
 
-(8) A fővárosi és megyei kormányhivatal a törvényszéknél kezdeményezheti az elnök összeférhetetlenségének a kimondását, ha a képviselő-testület, közgyűlés nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A törvényszék eljárására a (9) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a törvényszék döntése ellen – annak kézhezvételétől számított nyolc napon belül – az elnök, illetve a fővárosi és megyei kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a Kúria nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
+(8) A fővárosi és megyei kormányhivatal a törvényszéknél kezdeményezheti az elnök összeférhetetlenségének a kimondását, ha a képviselő-testület, közgyűlés nem dönt az összeférhetetlenségről vagy döntése jogszabálysértő. A törvényszék eljárására a (7) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a törvényszék döntése ellen – annak kézhezvételétől számított nyolc napon belül – az elnök, illetve a fővárosi és megyei kormányhivatal fellebbezést nyújthat be. A fellebbezésről, annak beérkezésétől számított három napon belül a Kúria nemperes eljárásban, három hivatásos bíróból álló tanácsban határoz.
 
 (9) Az összeférhetetlenségre vonatkozó rendelkezéseket az elnökhelyettesre és a nemzetiségi önkormányzati képviselőre is alkalmazni kell azzal, hogy nemzetiségi önkormányzati képviselő lehet az is, aki ugyanannál a nemzetiségi önkormányzatnál a nemzetiségi önkormányzat által létesített vagy fenntartott intézmény vezetője.
 
-(10) A települési nemzetiségi önkormányzati képviselői, elnökhelyettesi, elnöki megbízatással nem összeférhetetlen egy területi nemzetiségi önkormányzati képviselő-testületi elnöki (elnökhelyettesi, képviselői) vagy az országos nemzetiségi önkormányzati képviselő-testületi, közgyűlési elnöki (elnökhelyettesi, képviselői) megbízatás.
+(10)
 
 (11) Az országos nemzetiségi önkormányzat főállású elnöke, elnökhelyettese tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, és e tevékenységet nem végezheti gazdasági társaság személyesen közreműködő tagjaként, egyéb tevékenységéért díjazást nem fogadhat el.
 
@@ -914,7 +945,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) Az országos önkormányzat közgyűlése, amennyiben nem társadalmi megbízatású elnököt, elnökhelyettest vagy elnökhelyetteseket választ, illetményt állapít meg tisztségviselői részére.
 
-(3) A helyi nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori illetményalap, a természetbeni juttatás pedig az illetményalap ötven százaléka.
+(3) A települési nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap kétszerese, ha köznevelési intézményt is tart fenn az önkormányzat, akkor a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap négyszerese, a területi nemzetiségi önkormányzat elnökének tiszteletdíja nem lehet magasabb, mint a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap négyszerese, ha köznevelési intézményt is tart fenn az önkormányzat, akkor a mindenkori közszolgálati tisztviselőkről szóló törvény szerinti illetményalap hatszorosa, a természetbeni juttatás pedig az illetményalappal megegyező mértékű.
 
 (4) A tiszteletdíj mértéke legfeljebb ötven százalékkal megemelhető, amennyiben a képviselő tanácsnoki, bizottsági elnöki vagy tagsági feladatot is ellát.
 
@@ -928,11 +959,11 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (9) A helyi nemzetiségi önkormányzati képviselő tiszteletdíja nem lehet magasabb a nemzetiségi önkormányzat elnöke tiszteletdíjának harminc százalékánál.
 
-110. § (1) Az országos önkormányzat által az elnök részére megállapított illetmény összege nem lehet magasabb a köztisztviselői illetményalap tizenkétszeresénél.
+110. § (1) Az országos önkormányzat által az elnök és elnökhelyettes részére megállapított illetmény összege nem lehet magasabb a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap tizennyolcszorosánál.
 
 (2) Az országos önkormányzat által megállapított tiszteletdíj összege nem lehet magasabb
 
-- a) elnök és elnökhelyettes esetében a köztisztviselői illetményalap kilencszeresénél,
+- a) elnök és elnökhelyettes esetében a közszolgálati tisztviselőkről szóló törvény szerinti illetményalap tizenkétszeresénél,
 - b) a bizottság elnöke esetében a köztisztviselői illetményalap ötszörösénél,
 - c) a bizottság tagja esetében a köztisztviselői illetményalap háromszorosánál,
 - d) képviselő esetében a köztisztviselői illetményalap kétszeresénél.
@@ -950,7 +981,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - a) szervezete és működése részletes szabályait az alakuló ülést követő három hónapon belül, továbbá módosítja azt a szükségessé válást követő harminc napon belül,
 - b) a nemzetiségi önkormányzat elnevezését, jelképeit, az általa képviselt nemzetiség ünnepeit,
 - c) vagyonleltárát, törzsvagyona körét és a tulajdonát képező vagyon használatának szabályait,
-- d) a használatába adott, egyéb módon rendelkezésére bocsátott állami vagy helyi önkormányzati vagyon használatára, működtetésére vonatkozó szabályokat, továbbá e körben megköti a szükséges megállapodásokat,
+- d) a használatába adott, tulajdonba vagy vagyonkezelésbe vett, egyéb módon rendelkezésére bocsátott állami vagy önkormányzati vagyon kezelésére, használatára, működtetésére vonatkozó szabályokat, továbbá e körben megköti a szükséges megállapodásokat,
 - e) gazdálkodó és más szervezet alapítását vagy az ezekben való részvételt,
 - f) önkormányzati társulás létrehozását vagy társuláshoz való csatlakozást,
 - g) feladat-és hatáskör átvételét más önkormányzattól,
@@ -961,7 +992,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - a) elnöke, elnökhelyettese megválasztásáról,
 - b) bizottság létrehozásáról,
 - c) bírósági ülnökök megválasztásáról,
-- d) költségvetéséről és zárszámadásáról, ellátja továbbá az ezzel kapcsolatos, az államháztartás működési rendjére vonatkozó jogszabályok szerinti adatszolgáltatási teendőket,
+- d) költségvetéséről és zárszámadásáról,
 - e) hatáskörébe tartozó kinevezésről, vezető megbízásról,
 - f) pályázat, állami támogatás iránti kérelem, igénylés benyújtásáról, támogatásról történő lemondásról,
 - g) olyan ügyben, amely törvény vagy a szervezeti és működési szabályzat szerint át nem ruházható hatáskörébe tartozik.
@@ -1005,12 +1036,14 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - g) nemzetiségi médiumoknak az e törvény szerinti országos nemzetiségi önkormányzati állami támogatásból történő támogatásáról,
 - h) egyéb, törvény által meghatározott feladat- és hatáskörébe tartozó ügyekről.
 
-(2) Az országos nemzetiségi önkormányzat
+(2) (2) Az országos nemzetiségi önkormányzat kötelező közfeladata:
 
 - a) amennyiben a településen nemzetiségi önkormányzat nem működik, ellátja az adott nemzetiségi közösséggel kapcsolatosan a településen jelentkező érdekképviseleti, érdekvédelmi feladatokat,
-- b) a megyei önkormányzat által ellátott önkormányzati feladatok kapcsán – külön törvényben meghatározott – érdekképviseleti, érdekvédelmi tevékenységet fejt ki,
+- b) a megyei önkormányzat által ellátott önkormányzati feladatok kapcsán – törvényben meghatározott – érdekképviseleti, érdekvédelmi tevékenységet fejt ki,
 - c) ellátja az általa képviselt nemzetiség érdekeinek országos szintű képviseletét és védelmét,
-- d) a nemzetiségi kulturális autonómia fejlesztése érdekében országos szintű nemzetiségi intézményhálózatot tart fenn,
+- d) a nemzetiségi kulturális autonómia fejlesztése érdekében országos szintű nemzetiségi intézményhálózatot tart fenn.
+
+(3) Az országos nemzetiségi önkormányzat elláthatja továbbá a 116. § (1) bekezdésben felsorolt közfeladatokat is.
 
 118. § (1) Az országos önkormányzat
 
@@ -1028,9 +1061,9 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (3) Az országos önkormányzat a szervezeti és működési szabályzatában részletesen szabályozza az országos nemzetiségi önkormányzat hivatala működését.
 
-(4) Az országos nemzetiség önkormányzat foglalkoztatottjainak jogviszonyára (ide nem értve a munkavégzésre irányuló egyéb jogviszonyokat) a közszolgálati tisztségviselők jogállásáról szóló törvény rendelkezéseit kell alkalmazni.
+(4) Az országos nemzetiségi önkormányzat hivatala foglalkoztatottjainak jogviszonyára (ide nem értve a munkavégzésre irányuló egyéb jogviszonyokat) a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
-120. § A hivatal vezetőjét az elnök javaslatára a közgyűlés határozatlan időre nevezi ki. A hivatal vezetője tekintetében – a felmentés esetét kivéve – az elnök gyakorolja a munkáltatói jogokat. A felmentés jogát a közgyűlés gyakorolja.
+#### 120. §
 
 ### Az országos nemzetiségi önkormányzati hivatal feladatai
 
@@ -1048,15 +1081,15 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 ### Az országos nemzetiségi önkormányzati hivatal vezetője
 
-123. § (1) Az országos nemzetiségi önkormányzat közgyűlése át nem ruházható hatáskörében, pályázat alapján, határozatlan időre, jogszabály által megállapított képesítési feltételeknek megfelelő hivatalvezetőt nevez ki az országos nemzetiségi önkormányzati hivatal élére.
+123. § (1) Az országos nemzetiségi önkormányzat közgyűlése át nem ruházható hatáskörében, pályázat alapján, határozatlan időre, gazdaságtudományi, jogi, igazgatásszervezői, közigazgatási, államtudományi, vagy felsőoktatásban szerzett egyéb egyetemi vagy főiskolai végzettséggel és közigazgatási szakvizsgával rendelkező hivatalvezetőt nevez ki az országos nemzetiségi önkormányzati hivatal élére. Az érvényesen pályázó jelöltek közül a hivatalvezető személyére az elnök tesz javaslatot. Amennyiben az elnök egyik pályázót sem támogatja, új pályázatot kell kiírni.
 
-(2) A kinevezés vezetői megbízásnak minősül, alkalmazni kell rá a közszolgálati tisztviselők jogállásáról szóló törvény vezetői megbízásra vonatkozó rendelkezéseit.
+(2) A kinevezés vezetői megbízásnak minősül. A hivatal vezetője tekintetében – a felmentés esetét kivéve – az elnök gyakorolja a munkáltatói jogokat. A felmentés jogát a közgyűlés gyakorolja.
 
 (3) A hivatalvezető helyettesítésére hivatalvezető-helyettes nevezhető ki.
 
 (4) A hivatalvezető
 
-- a) vezeti az országos nemzetiségi önkormányzati hivatalt, ellátja az ehhez kapcsolódó munkáltatói jogkörbe tartozó feladatokat, e körben kinevezi a hivatal köztisztviselőit, illetve a hivatal nem köztisztviselő munkavállalóival egyéb munkavégzésre irányuló jogviszonyt létesít, szabályozza a hivatal belső működésének rendjét,
+- a) vezeti az országos nemzetiségi önkormányzati hivatalt, ellátja az ehhez kapcsolódó munkáltatói jogkörbe tartozó feladatokat, a hivatal munkavállalóival közszolgálati jogviszonyt, munkajogviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt létesít, szabályozza a hivatal belső működésének rendjét,
 - b) gondoskodik a közgyűlés működésével kapcsolatos feladatok ellátásáról,
 - c) előkészíti a testületi döntéseket, tanácskozási joggal részt vesz az üléseken,
 - d) jelzi, ha a testület döntése vagy döntéshozatali eljárása jogszabálysértő,
@@ -1076,7 +1109,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) A törzsvagyon körébe tartozó vagyonrészek közül
 
-- a) forgalomképtelen az állam vagy a helyi önkormányzat által a nemzetiségi önkormányzat tulajdonába adott ingatlan, ingatlanrész, az nemzetiségi önkormányzat működését és kötelező feladatainak ellátását szolgáló nem az állam által tulajdonba adott ingatlan vagyon, vagyonrész, vagyoni értékű jog, továbbá minden más olyan ingatlan vagyon, vagyonrész, vagyoni értékű jog, amelyet törvény vagy a nemzetiségi önkormányzat át nem ruházható hatáskörében, minősített többséggel meghozott határozatában annak nyilvánít,
+- a) forgalomképtelen az állam vagy a helyi önkormányzat által a nemzetiségi önkormányzat tulajdonába adott ingatlan, ingatlanrész, a nemzetiségi önkormányzat működését és kötelező feladatainak ellátását szolgáló nem az állam által tulajdonba adott ingatlan vagyon, vagyonrész, vagyoni értékű jog, továbbá minden más olyan ingatlan vagyon, vagyonrész, vagyoni értékű jog, amelyet törvény vagy a nemzetiségi önkormányzat át nem ruházható hatáskörében, minősített többséggel meghozott határozatában annak nyilvánít,
 - b) korlátozottan forgalomképesek a törzsvagyonhoz tartozó mindazon vagyonrészek, amelyek nem tartoznak az a) pontban meghatározott vagyonhoz.
 
 (3) A törzsvagyon korlátozottan forgalomképes tárgyairól, elemeiről törvényben vagy a (2) bekezdés a) pontja szerinti rendben meghozott nemzetiségi önkormányzati határozatban meghatározott feltételek alapján lehet rendelkezni.
@@ -1096,17 +1129,17 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (2) Az állam a központi költségvetésről szóló törvényben meghatározott mértékben támogatást nyújt
 
-- a) a nemzetiségi önkormányzatok részére a nemzetiségi közfeladatok ellátásához, feladatfinanszírozási rendszer keretében,
+- a) a nemzetiségi önkormányzatok részére a nemzetiségi közfeladatok ellátásához,
 - b) a nemzetiségek oktatási és kulturális önigazgatása, a nemzetiségi kulturális autonómia körében megvalósuló tevékenységekhez, projektekhez,
 - c) államháztartáson belüli és kívüli nemzetiségi szervezetek részére a nemzetiségek kulturális autonómiájának fejlesztéséhez.
 
 (3) Nemzetiségi önkormányzat által alapított, korábban állami támogatásban nem részesülő szervezet, továbbá nemzetiségi önkormányzat által újonnan létesítendő vagy meglévő szervezet átalakításával létrehozandó szervezet részére a (2) bekezdés b)–c) pontja szerinti állami támogatásra a nemzetiségpolitikáért felelős állami szerv és az alapító nemzetiségi önkormányzat előzetes megállapodása alapján, az államháztartás működési rendjéről szóló jogszabályok szerint kerülhet sor.
 
-127. § Az országos nemzetiségi önkormányzatok által működtetett intézmények – amennyiben a fenntartói jog átadásáról szóló megállapodás eltérően nem rendelkezik – a normatív és egyéb hozzájárulások tekintetében az egyházi jogi személlyel azonos elbírálás alá esnek.
+127. § A nemzetiségi önkormányzatok által működtetett intézmények – amennyiben a fenntartói jog átadásáról szóló megállapodás eltérően nem rendelkezik – a költségvetési támogatások tekintetében az egyházi jogi személlyel azonos elbírálás alá esnek.
 
-128. § (1) A 126. § (2) bekezdés a) pontja szerinti feladatfinanszírozási rendszer célja, hogy a nemzetiségi önkormányzatok rendelkezésére álljon az általuk ellátott kötelező nemzetiségi közfeladatok ellátása kiadásainak fedezete.
+128. § (1) A 126. § (2) bekezdés a) pontjában meghatározottak célja az, hogy a nemzetiségi önkormányzatok rendelkezésére álljon az általuk ellátott kötelező nemzetiségi közfeladatokhoz kapcsolódó kiadások fedezete.
 
-(2) A feladatfinanszírozási rendszer keretében a központi költségvetésből nyújtott működési költségvetési és feladatalapú költségvetési támogatást a nemzetiségi önkormányzat kizárólag nemzetiségi közfeladatai ellátására használhatja fel.
+(2) A központi költségvetésből nyújtott támogatást a nemzetiségi önkormányzat kizárólag nemzetiségi közfeladatai ellátására használhatja fel.
 
 (3)
 
@@ -1135,6 +1168,8 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 137. § (1) Az e törvény hatálybalépését követően az Országgyűlés által nemzetiségként elismert közösség újonnan megalakuló országos nemzetiségi önkormányzata működési feltételeinek biztosítására a megalakulásukat követően az állam százötven-háromszáz négyzetméter hasznos alapterületű, önállóan használható épületet vagy épületrészt biztosít. Az épületet, épületrészt egyszeri ingyenes vagyonjuttatásként az országos önkormányzat tulajdonába kell adni.
 
 (2) Az egyszeri ingyenes vagyonjuttatásként megszerzett épület vagy épületrész az országos önkormányzat törzsvagyonát képezi, amely a törvény erejénél fogva forgalomképtelen vagyontárgynak minősül.
+
+### VIII. Fejezet — A nemzetiségi önkormányzat megszűnése
 
 ### A jogutódlás és az ideiglenes vagyonkezelés
 
@@ -1322,11 +1357,7 @@ Isten engem úgy segéljen!”
 
 (2) 2015. január 1-jét megelőzően a Nemzeti Választási Bizottsághoz benyújtott, 148. § (3) bekezdése szerinti kezdeményezés szervezője az a választópolgár lehet, aki a helyi önkormányzati képviselők és polgármesterek választásán választható.
 
-162. § (1)
-
-(2)
-
-(3)
+162. § Amennyiben a fenntartói jog átadása a 25. § (6) bekezdése vagy a 39. § (3) bekezdése szerint a nemzetiségi önkormányzat számára a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosításáról szóló 2017. évi CCI. törvény (a továbbiakban: Módtv.) hatályba lépése előtt már megtörtént, akkor a helyi önkormányzat legkésőbb a Módtv. hatályba lépését követő hat hónapon belül köteles a fenntartói jogot gyakorló nemzetiségi önkormányzattal a köznevelési vagy kulturális közfeladat ellátásához kapcsolódó ingó és ingatlan vagyonra vagyonkezelési szerződést kötni, a korábban megkötött ingyenes használati megállapodás egyidejű megszüntetése mellett.
 
 #### 163. §
 
@@ -1527,7 +1558,7 @@ A nyilatkozatot adó személye
 
 1. A nyilatkozatot adó:
 
-a) helyi önkormányzati képviselő, polgármester, alpolgármester (a továbbiakban együtt: képviselő)
+a) nemzetiségi önkormányzati képviselő, elnök, elnökhelyettes (a továbbiakban együtt: képviselő)
 
 b) a képviselővel közös háztartásban élő házas- vagy élettárs (a továbbiakban: házas-/élettárs)
 
@@ -1735,7 +1766,7 @@ devizában (forintértéken):
 
 b) más szerződés alapján fennálló pénzkövetelés összege: Ft
 
-9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a mindenkori képviselői alapdíj hathavi összegét meghaladja:
+9. Más, jelentősebb értékű vagyontárgyak, ha azok együttes értéke a közszolgálati tisztviselőkről szóló törvény szerinti illeményalap hathavi összegét meghaladja:
 
 megnevezés:
 
