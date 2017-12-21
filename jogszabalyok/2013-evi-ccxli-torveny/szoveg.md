@@ -123,14 +123,16 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 - a) összehangolja a Bizottság tevékenységét,
 - b) összehívja és vezeti a Bizottság ülését,
 - c) meghatározza a Bizottság ülésezési rendjét,
-- d) javaslatot tesz a Bizottság ügyrendjére, üléseinek napirendjére,
-- e) javaslatot tesz a Bizottság tagjai által vezetett munkacsoportok összetételére,
-- f) javaslatot tesz a Bizottság és a Hivatal éves kutatási munkatervére,
+- d) meghatározza a Bizottság üléseinek napirendjét,
+- e) a Bizottság tagjai véleményének figyelembevételével meghatározza az éves kutatási munkatervek alapján létrehozott, a Bizottság tagjai által vezetett munkacsoportok összetételét és működési rendjét,
+- f) meghatározza a Bizottság és a Hivatal éves kutatási munkatervét, valamint az egyes kutatási témacsoportokat,
 - g) képviseli a Bizottságot az Országgyűlés és más szervek előtt,
 - h) irányítja a Hivatalt,
-- i) ellátja azokat a feladatokat, amelyeket a Bizottság ügyrendje számára előír,
-- j) kiadja a Hivatal alapító okiratát és jóváhagyja a Hivatal Szervezeti és Működési Szabályzatát, valamint
-- k) a Bizottság feladat- és hatáskörébe tartozó ügyben a minősített adatok védelméről szóló törvény szerinti minősítésre jogosult.
+- i) feladat elvégzésére vagy mulasztás pótlására utasíthatja a Hivatal főigazgatóját,
+- j) kiadja a Bizottság ügyrendjét, a Hivatal alapító okiratát, és jóváhagyja a Hivatal Szervezeti és Működési Szabályzatát,
+- k) a Bizottság feladat- és hatáskörébe tartozó ügyben a minősített adat védelméről szóló törvény szerinti minősítésre jogosult,
+- l) meghatározza a Bizottság munkacsoportjai által ellátandó feladatokat,
+- m) jóváhagyja a Bizottság pénzügyi kötelezettségvállalással járó javaslatait.
 
 19. § (1) A Bizottság elnökének munkáját az elnökhelyettes segíti.
 
@@ -144,7 +146,7 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 - b) a Bizottságban betöltött tagsága megszűnésével,
 - c) lemondással.
 
-(5) Az elnökhelyettes az elnökhelyettesi megbízatásról való lemondást a Bizottság elnökével írásban közli. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni, a megbízatás a lemondás benyújtásának napjával szűnik meg.
+(5) Az elnökhelyettes az elnökhelyettesi megbízatásról való lemondását a Bizottság elnökével írásban közli. A lemondást nem kell indokolni. A megbízatás a lemondást elfogadó elnöki nyilatkozatban meghatározott napon, de legkésőbb a lemondásnak a Bizottság elnökével való közlésétől számított 10. napon szűnik meg.
 
 (6) Az elnökhelyettesi megbízatás (4) bekezdés a) vagy c) pontja szerinti megszűnése az elnökhelyettes Bizottságban betöltött tagságát nem érinti.
 
@@ -166,11 +168,7 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 21. § A Bizottság elnöke a Bizottság munkájáról évenként beszámol az Országgyűlésnek.
 
-22. § A Bizottság az elnöke javaslatára:
-
-- a) megalkotja ügyrendjét és elfogadja napirendjét,
-- b) meghatározza a Bizottság tagjai által vezetett munkacsoportok összetételét,
-- c) meghatározza a Bizottság és a Hivatal éves kutatási munkatervét.
+#### 22. §
 
 23. § (1) A Bizottság tagja és elnöke a kommunista diktatúra kiépülése és működése idején, 1944. december 21. és 1990. május 2. között keletkezett és állami intézményeknél, valamint egyéb szervezeteknél őrzött minősített adatot nem tartalmazó dokumentumokba, irat, képi- és hanganyagokba korlátlanul betekinthet, azokról másolatot készíthet vagy készíttethet.
 
@@ -182,7 +180,7 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 (5) A Bizottság a minősített adat minősítésének felülvizsgálata érdekében indokolt javaslatot tehet a feladat- és hatáskörrel rendelkező, minősítésre jogosult szervek felé vagy a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökének. A javaslattétel tényét, a megkeresett szerv nevét és a megkeresés időpontját a Bizottság honlapján köteles a megkeresésétől számított 15 napon belül nyilvánosságra hozni.
 
-(6) A Bizottság feladata éves munkatervében a tudományos kutatói munka irányának meghatározása, illetve a kutatói munka eredményeiből jelentések összeállítása, amelyek országosan és megyénként, valamint egyes ágazatonként mutatják be a kommunista hatalom döntéshozatali mechanizmusát.
+(6) A Bizottság tagja felelős az éves kutatási munkatervben meghatározott kutatási feladatok koordinálásáért és elvégzéséért.
 
 (7) A Bizottság 20. § (1) bekezdés h) pontjában meghatározott feladata érdekében többek között vizsgálja a Munkásőrség, a Dolgozó Ifjúság Szövetsége, a Kommunista Ifjúsági Szövetség, az Ifjú Gárda, a Magyar Kommunista Párt, a Szociáldemokrata Párt, a Magyar Dolgozók Pártja, a Magyar Szocialista Munkáspárt vezetőinek szerepét. A vizsgálat kiterjed továbbá az állambiztonsági szolgálatokra, a minisztertanács tagjaira, a minisztériumok vezetőire, a fővárosi, kerületi, megyei, városi és községi tanácsok vezetőire, továbbá az állami vállalatok és intézmények vezetőire.
 
@@ -242,9 +240,9 @@ volt.
 
 (3) A köztisztviselő vagy munkavállaló a kinevezés elfogadásával, illetve a munkaszerződés aláírásával egyidejűleg nyilvános írásbeli nyilatkozatot tesz a (2) bekezdésben foglalt tevékenység végzéséről illetve tisztség betöltéséről.
 
-(4) A (2) és (3) bekezdésben meghatározott összeférhetetlenségi szabályokat a Bizottság vagy a Hivatal által – a Bizottság alaptevékenységével összefüggő feladatra – felkért szakértőre és megbízási jogviszonyban foglalkoztatott más közreműködőre is alkalmazni kell.
+(4)
 
-30. § (1) Tudományos kutatómunkában való részvételre a Bizottság külső szakértőt vehet igénybe.
+30. § (1) Tudományos kutatómunkában való részvételre a Bizottság elnöke, illetve a Bizottság elnöke jóváhagyásával a Bizottság külső szakértőt vehet igénybe.
 
 (2) Minden olyan személy vagy szervezet megbízható szakértői feladattal, aki vagy amely megfelelő szakmai felkészültséggel rendelkezik.
 
