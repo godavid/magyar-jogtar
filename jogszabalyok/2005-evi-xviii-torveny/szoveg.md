@@ -837,7 +837,7 @@ megállapodásokat.
 
 60. § (1) A Kormány rendeletben állapítja meg
 
-- a) a Hivatal által kiszabható bírság mértékét [4. § (2) bekezdés];
+- a) a Hivatal által végzett ellenőrzésekre vonatkozó részletszabályokat, valamint a Hivatal által kiszabható bírság mértékét;
 - b) a távhőtermelő és a távhőszolgáltató létesítési és működési engedélyének tartalmi követelményeit, az engedélyezési eljárás további részletes szabályait és az engedély kiadásának feltételeit (12–13. §);
 - c) az idegen ingatlanra vonatkozó jogokkal kapcsolatos eljárási szabályokat (21–32. §);
 - d) a távhőtermelő és a távhőszolgáltató közötti jogviszony általános szabályait (35. §);
