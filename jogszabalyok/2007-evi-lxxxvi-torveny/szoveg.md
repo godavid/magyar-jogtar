@@ -520,7 +520,7 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 
 (2) Az elosztó hálózati veszteség pótlásához szükséges villamos energia beszerzésének feltételeit a pályázat kiírását megelőzően, külön jogszabályban meghatározott módon nyilvánosságra kell hozni.
 
-(3) Az elosztó jogosult az elosztó hálózati veszteség pótlásához beszerzett, a tényleges veszteség mértékét meghaladó villamos energiát a szervezett villamosenergia-piacon értékesíteni. Az értékesítésből származó árbevételt az elosztó könyvvezetésében köteles külön kimutatni. Az így keletkezett bevételt a Hivatal a rendszerhasználati díjak meghatározásakor díjcsökkentő tételként veszi figyelembe.
+(3) Az elosztó jogosult az elosztó hálózati veszteség pótlásához beszerzett, a tényleges veszteség mértékét meghaladó villamos energiát a szervezett villamosenergia-piacon és a villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló 2001. évi CXX. törvény szerinti szabályozott piacon értékesíteni. Az értékesítésből származó árbevételt az elosztó könyvvezetésében köteles külön kimutatni. Az így keletkezett bevételt a Hivatal a rendszerhasználati díjak meghatározásakor díjcsökkentő tételként veszi figyelembe.
 
 (4) Az elosztó (3) bekezdés szerinti tevékenysége nem minősül kereskedelemnek.
 
@@ -2173,7 +2173,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 (2) Az (1) bekezdés c) pontja szerinti kötelezettség esetén a kötelezett engedélyes a Hivatal határidő kitűzésével tett felhívására köteles tájékoztatást adni az (1) bekezdés c) pontjában meghatározott kötelezettségeinek teljesítésére vonatkozó adatokról.
 
-111. § (1) A 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes számára a Hivatal meghatározott mértékű villamos energia nyilvános és átlátható módon történő értékesítését írja elő, amelyre nyilvános aukción és szervezett villamosenergia-piacon keresztül történő értékesítés keretében kerülhet sor.
+111. § (1) A 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes számára a Hivatal meghatározott mértékű villamos energia nyilvános és átlátható módon történő értékesítését írja elő, amelyre nyilvános aukción, szervezett villamosenergia-piacon és villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló 2001. évi CXX. törvény szerinti szabályozott piacon keresztül történő értékesítés keretében kerülhet sor.
 
 (2) A Hivatal a 107. § (1) bekezdés 2. pontja szerinti piacon jelentős piaci erővel rendelkező engedélyesnek előírja az átláthatóság biztosítása érdekében a határozatában foglaltaknak megfelelő bontású és részletezettségű – így különösen a szolgáltatási árat, a fizetési formákat, valamint adott esetben a szolgáltató-váltáshoz kapcsolódó ügyintézési kötelezettségeket tartalmazó – mintaajánlat készítését. A mintaajánlat készítésére köteles engedélyes a jogszabályban meghatározott, illetve a piacelemzést követően a Hivatal által meghatározott feltételekkel közzétett mintaajánlatához annak hatálya alatt kötve van, attól a másik szerződő fél beleegyezésével sem térhet el.
 
@@ -2346,7 +2346,7 @@ kapcsolatos adatok megismerésére és kezelésére.
 
 117. § (1)
 
-(2) A Hatóság eljárása során az ügyintézés határideje két hónap.
+(2)
 
 (2a) A szélerőmű vagy szélerőmű park építési engedélyezési eljárásában és használatbavételi engedélyezési eljárásában közreműködő, a környezeti, természeti, településfejlesztési és településrendezési hatásokkal összefüggő szakkérdések vizsgálatára kijelölt szakhatóság ügyintézési határideje 60 nap.
 
@@ -2762,11 +2762,11 @@ finanszírozásához szükséges pénzügyi forrásokat.
 
 villamos energia képezi.
 
-(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,16 Ft/kWh.
+(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,05 Ft/kWh.
 
-(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,10 Ft/kWh.
+(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,09 Ft/kWh.
 
-(4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 1,75Ft/kWh.
+(4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 0,81 Ft/kWh.
 
 (5) A 147. § (1) bekezdése szerinti pénzeszközök mértékét a következő évre várható finanszírozási igény és az elkülönített számla várható tárgyévi egyenlege alapján kell megállapítani.
 
