@@ -1740,6 +1740,12 @@ kezelésére.
 
 (4) A kincstár az (1)–(3) bekezdés szerinti adatszolgáltatást az államháztartásért felelős miniszter jóváhagyását követően, a jóváhagyástól számított 15 munkanapon belül teljesíti a miniszter általa kiadott nyomtatvány használatával.
 
+106/E. § (1) A kincstár az általa folyósított, jogszabály által alanyi jogon összegszerűen megállapított, továbbá magánszemélyeket jogszabályban meghatározott feltételek alapján megillető támogatás folyósításával, valamint az e támogatásra tekintettel nyújtott juttatással kapcsolatos kormányzati tájékoztatás érdekében jogosult a támogatásra jogosult személy nevére, lakcímére és a folyósított támogatásra, nyújtott juttatásra vonatkozó adatainak kezelésére.
+
+(2) A kincstár a Kormány tagja felkérésére, az államháztartásért felelős miniszter utasítása alapján teljesíti az (1) bekezdés szerinti támogatással, illetve juttatással összefüggő, az államháztartásért felelős miniszter által meghatározott kormányzati tájékoztatást.
+
+(3) A kincstár nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a kincstár részére írásban, neve és lakcíme megadásával nyilatkozik arról, hogy az adott támogatás, juttatás tekintetében tájékoztatásra nem tart igényt. A kincstár a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célra nem kezelheti és más szerv részére nem továbbíthatja.
+
 #### 70. Adatszolgáltatási kötelezettségek
 
 107. § (1) A költségvetési szervek, a központi kezelésű előirányzatok és fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervei, a helyi önkormányzatok, a nemzetiségi önkormányzatok, a társulások, a térségi fejlesztési tanácsok, valamint a 109. § (8) bekezdése alapján kiadott közleményben megjelölt kormányzati szektorba sorolt egyéb szervezetek és besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személyek e törvényben és a Kormány rendeletében meghatározott adatszolgáltatásokat teljesítenek.
