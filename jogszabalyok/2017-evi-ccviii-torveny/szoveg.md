@@ -8,35 +8,15 @@ az energetikai tárgyú törvények, valamint azokkal összefüggő egyes törv�
 
 #### 2. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
-11. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény 60. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A Kormány rendeletben állapítja meg)
-
-„a) a Hivatal által végzett ellenőrzésekre vonatkozó részletszabályokat, valamint a Hivatal által kiszabható bírság mértékét;”
+11. §
 
 #### 3. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-12. § A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET.)
-
-- a) 32. § (3) bekezdésében a „szervezett villamosenergia-piacon” szövegrész helyébe a „szervezett villamosenergia-piacon és a villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló 2001. évi CXX. törvény szerinti szabályozott piacon” szöveg,
-- b) 111. § (1) bekezdésében az „és szervezett villamosenergia-piacon” szövegrész helyébe a „, szervezett villamosenergia-piacon és villamos energiához kapcsolódó származtatott ügylettel kereskedést biztosító, a tőkepiacról szóló 2001. évi CXX. törvény szerinti szabályozott piacon” szöveg,
-- c) 148. § (2) bekezdésében a „0,16 Ft/kWh” szövegrész helyébe a „0,05 Ft/kWh” szöveg,
-- d) 148. § (3) bekezdésében a „0,10 Ft/kWh” szövegrész helyébe a „0,09 Ft/kWh” szöveg,
-- e) 148. § (4) bekezdésében a „1,75 Ft/kWh” szövegrész helyébe a „0,81 Ft/kWh” szöveg
-
-lép.
-
-13. § Hatályát veszti a VET. 117. § (2) bekezdése.
+12–13. §
 
 #### 4. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-14. § A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET.) 133. § (1) bekezdés 3. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg)
-
-„3. az egyetemes szolgáltatáshoz kapcsolódóan az árakat, az áralkalmazási feltételeket, az árszabályozás kereteit; a felajánlás részletszabályait, a felajánlott földgázforrás árát, az igénybevételre jogosultak körét, a földgázforrás átadására vonatkozó rugalmassági szabályokat; a felajánlás keretében, a 141–141/A. §, a 141/I. § és a 141/J. § szerinti szerződések alapján értékesített földgázforrás mennyiségét és árát, valamint az ezen földgázforrásokhoz kapcsolódóan a rendszerhasználati és mobilgáz-finanszírozási költségek indokolt értékeihez képest megképződő többlet, vagy veszteség elszámolásának szabályait; a 141/A–141/B. §-ban és a 141/I–141/J. §-ban foglaltak megsértése, valamint a rendeletben meghatározott mennyiségtől való eltérés esetén alkalmazandó jogkövetkezményeket; a kapcsolt termelésszerkezet-átalakítási hozzájárulás és a kiegyenlítő hozzájárulás mértékét,”
-
-15. § A GET. 132. § 13. pontjában a „valamint az egyetemes szolgáltatásra jogosult felhasználók garantált ellátásához szükséges források és tárolóban elhelyezett földgázkészlet mértékére és biztosítására” szövegrész helyébe az „az egyetemes szolgáltatásra jogosult felhasználók garantált ellátásához szükséges források és tárolóban elhelyezett földgázkészlet mértékére és biztosítására, valamint a nagycsaládosokat megillető kedvezményre” szöveg lép.
+14–15. §
 
 #### 5.
 
