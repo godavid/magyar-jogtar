@@ -876,9 +876,9 @@ vállalható.
 
 45. § (1) Az állam nevében hitelt, kölcsönt – a törvényben vagy miniszteri rendeletben kijelölt tulajdonosi joggyakorló, valamint az Nvt. 8. § (7) bekezdése szerinti meghatalmazott esetén annak kezdeményezésére – az MNV Zrt., az MFB Zrt. tulajdonosi joggyakorlása alá tartozó gazdasági társaságok esetében az MFB Zrt. nyújthat. Ilyen kölcsön az állam többségi befolyása alatt álló gazdasági társaság részére nyújtható.
 
-(1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, átütemezéséhez a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén az államháztartásért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter, egyéb gazdasági társaság esetén az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
+(1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, átütemezéséhez az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
 
-(2) Az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést, pótbefizetést és támogatást – a szakmai feladatok ellátásához nyújtott támogatás kivételével – a Vtv. 3. § (2) bekezdés a) pontjában és a (2a) bekezdés a) pontja szerinti miniszteri rendeletben kijelölt tulajdonosi joggyakorló, valamint az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén a kormányzati tevékenység összehangolásáért felelős miniszter, más esetben az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyásával lehet nyújtani. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős szerv írásos véleményének ismeretében kell dönteni.
+(2) Az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést, pótbefizetést és támogatást – a szakmai feladatok ellátásához nyújtott támogatás kivételével – az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyásával lehet nyújtani. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős szerv írásos véleményének ismeretében kell dönteni.
 
 (2a) A (2) bekezdés szerinti, pénzben teljesített tőkeemelést, pótbefizetést, támogatást
 
