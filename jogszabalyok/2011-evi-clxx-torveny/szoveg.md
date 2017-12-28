@@ -40,7 +40,7 @@ Az Országgyűlés a hitelszerződésből eredő kötelezettségeiknek eleget te
 
 2. § (1) A Nemzeti Eszközkezelő az állam által alapított egyszemélyes zártkörűen működő részvénytársaság, amelynek részvénye forgalomképtelen.
 
-(2) A Nemzeti Eszközkezelő felett az alapítói jogokat az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) a Magyar Nemzeti Vagyonkezelő Zrt. útján gyakorolja.
+(2) A Nemzeti Eszközkezelő felett az alapítói jogokat az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) útján gyakorolja.
 
 (3) A Nemzeti Eszközkezelő nem alakulhat át, nem válhat szét, más társasággal nem egyesülhet.
 
@@ -83,11 +83,13 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 - a) az állami vagyont elsődlegesen bérleti szerződés alapján bérbeadással hasznosítja,
 - b) kezdeményezheti a vagyonkezelésében lévő lakóingatlan ingyenes önkormányzati tulajdonba adását,
-- c) a lakóingatlant elidegenítheti.
+- c)
 
-(3) A Nemzeti Eszközkezelő a megüresedett lakóingatlant nyilvános pályázat keretében vagy az állami adóhatóság lakóingatlan fekvése szerinti területi szerve útján az Elektronikus Árverési Felületen értékesítheti.
+(3) A Nemzeti Eszközkezelő a lakóingatlant az e törvényben foglalt szabályok szerint az állam nevében eljárva a hiteladós és a zálogkötelezett részére – visszavásárlási joguk gyakorlása során – elidegenítheti.
 
-7/A. § (1) A lakóingatlan ingyenes önkormányzati tulajdonba adását a Magyar Nemzeti Vagyonkezelő Zrt. abban az esetben kezdeményezi az állami vagyon felügyeletéért felelős miniszternél, ha a települési önkormányzat a közigazgatási területén levő, a Nemzeti Eszközkezelő által az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az állam nevében megvásárolt összes lakóingatlant átveszi.
+(3a) A Nemzeti Eszközkezelő a megüresedett lakóingatlant (e bekezdés alkalmazásában a továbbiakban: Ingatlan) a vagyonkezelési szerződés módosítása mellett – további hasznosítás vagy értékesítés érdekében – az MNV Zrt. részére átadhatja. Az Ingatlan MNV Zrt.-nek történő átadása esetében a vagyonkezelési szerződés e bekezdés szerinti módosítása miatti részleges megszűnésével az Ingatlan tekintetében a Nemzeti Eszközkezelő 3. § (1) bekezdés d) pontja szerinti törvényi kijelölésen alapuló vagyonkezelői joga is megszűnik.
+
+7/A. § (1) A lakóingatlan ingyenes önkormányzati tulajdonba adását az MNV Zrt. abban az esetben kezdeményezi az állami vagyon felügyeletéért felelős miniszternél, ha a települési önkormányzat a közigazgatási területén levő, a Nemzeti Eszközkezelő által az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az állam nevében megvásárolt összes lakóingatlant átveszi.
 
 (2) Ha a lakóingatlan fekvése szerinti települési önkormányzat nem veszi át a lakóingatlanokat, a lakóingatlanok (1) bekezdés szerinti tulajdonba adását más települési önkormányzat is kérheti, ha a saját közigazgatási területén él az átvétel lehetőségével.
 
