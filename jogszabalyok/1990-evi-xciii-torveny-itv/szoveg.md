@@ -496,7 +496,7 @@ megszerzése;
 - p) a termőföldnek a földműves általi, ellenérték fejében történő megszerzése, feltéve, ha a birtokbaadástól, de legkésőbb az illetékkötelezettség keletkezését követő 12. hónap utolsó napjától – vagyoni értékű joggal terhelt termőföld szerzése esetén a vagyoni értékű jog megszűnésétől, megszüntetésétől, de legkésőbb az illetékkötelezettség keletkezését követő 5. év utolsó napjától – számítva 5 évig
   - pa) a termőföld tulajdonjogát nem idegeníti el,
   - pb) a termőföldön vagyoni értékű jogot nem alapít, és
-  - pc) a termőföldet egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja;
+  - pc) a termőföldet mező-, illetve erdőgazdasági tevékenység céljára hasznosítja;
 - q) ingatlannak, illetve a 18. § (2) bekezdésének h) pontja szerinti vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett eszközátruházás keretében történő átruházása, az alábbi feltételek együttes teljesülése esetén:
   - qa) az átruházó az átruházás évében és az azt megelőző két naptári évben nem vette igénybe a 23/A. § szerinti kedvezményes illetékmértéket és a 26. § (1) bekezdés a) pontja alapján felfüggesztett illetéktartozással nem rendelkezik,
   - qb) az átruházott eszközöknek a pénzeszközök és pénzkövetelések összegével csökkentett értékében az ingatlanok és a 18. § (2) bekezdésének h) pontja szerinti vagyoni betétek értékének aránya az átadáskor és az átadást legalább 6 hónappal megelőzően lezárt utolsó adóév utolsó napján nem haladja meg az 50%-ot,
@@ -1603,6 +1603,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 - a) a 26. § (1) bekezdés p) pontja szerinti 5 éves időtartam még nem telt el vagy
 - b) az állami adóhatóság 26. § (18a) bekezdés szerinti eljárása jogerősen vagy véglegesen nem zárult le.
+
+99/R. § A 26. § (1) bekezdés p) pont pc) alpontjának egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatási rendtartásról szóló törvénnyel összefüggő és más célú módosításáról szóló 2017. évi CCV. törvénnyel megállapított rendelkezését a hatályba lépése napján az állami adóhatóság által jogerősen vagy véglegesen még el nem bírált illetékügyekben is alkalmazni kell.
 
 ### Felhatalmazás
 

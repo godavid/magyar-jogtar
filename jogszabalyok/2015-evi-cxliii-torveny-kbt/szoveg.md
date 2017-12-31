@@ -3255,6 +3255,8 @@ rendelkezik.
 
 (11) A közbeszerzésekért felelős miniszter (7) bekezdés szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a közbeszerzésekért felelős miniszternek köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A közbeszerzésekért felelős miniszter feladatkörében hozott határozatával és végzésével szemben nincs helye fellebbezésnek, kivéve, ha e törvény eltérően rendelkezik. A kérelmező, illetve az érintett felelős akkreditált közbeszerzési szaktanácsadó a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül. A kérelemről a közigazgatási és munkaügyi bíróság nemperes eljárásban, a kérelem benyújtásától számított hatvan napon belül határoz, a közbeszerzésekért felelős miniszter határozatát megváltoztathatja. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, ha e törvényből, illetve a nemperes eljárás jellegéből más nem következik.
 
+(12) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.
+
 ### Hatálybalépés
 
 196. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2015. november 1-jén lép hatályba.
