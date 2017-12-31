@@ -224,7 +224,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (2) Az ellátásért felelősök az (1) bekezdésben meghatározott megállapodást egyszerű többséggel hozzák meg, ahol a szavazati arány az ellátásért felelősök víziközmű-rendszeren fennálló tulajdoni érdekeltsége nettó könyv szerinti értékének megfelelően alakul.
 
-(3) Az (1) bekezdésben meghatározott megállapodást az ellátásért felelősök képviselője az aláírástól számított 30 napon belül megküldi a Hivatalnak.
+(3) Az (1) bekezdésben meghatározott megállapodást az ellátásért felelősök képviselője az aláírástól számított 30 napon belül megküldi a Hivatalnak és a víziközmű-szolgáltatónak.
 
 (4) Ha az (1) bekezdésben meghatározott kérdésben a (2) bekezdés szerint azonos szavazati arány alakul ki, a döntést a tárgyév január 1-jén legnagyobb felhasználói egyenértékkel rendelkező ellátásért felelős szavazata határozza meg.
 
@@ -319,7 +319,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (6) A víziközmű-szolgáltató díjmentesen szolgáltatja az egységes elektronikus közműnyilvántartást üzemeltető szervezet részére a vízellátási, illetve vízelvezetési szakág feladatkörébe tartozó publikálandó objektumokat.
 
-13/A. § (1) E törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt hatóság vezeti víziközmű térképi nyilvántartás közhiteles adatállományát.
+13/A. § (1) E törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt hatóság vezeti a 61/B. § (1) bekezdésében meghatározott Nyilvántartással összekapcsolt víziközmű térképi nyilvántartás közhiteles adatállományát.
 
 (2) A víziközmű térképi nyilvántartás közhiteles adatállományát e törvény felhatalmazása alapján kiadott kormányrendelet határozza meg. A víziközmű-szolgáltató az általa a 13. § (1) bekezdés szerint vezetett nyilvántartás valamennyi, a közhiteles adatállományt érintő változásáról a megváltozott vagy új térképi adatok díjmentes átadásával haladéktalanul tájékoztatja az (1) bekezdés szerint kijelölt hatóságot.
 
@@ -406,9 +406,9 @@ alapul.
 - d) a víziközmű térképi nyilvántartás adatállományát,
 - e) a további víziközmű-működtetés tekintetében szükséges műszaki dokumentumokat, adatokat, ideértve az 55. § szerinti bekötési kötelezettséggel érintett ingatlan azonosításához szükséges helyrajzi számot és címet.
 
-22. § (1) A szerződött víziközmű-szolgáltató az üzemeltetési szerződés vagy annak módosítása egy eredeti, aláírt példányát a szerződés létrejöttét követő 30 napon belül a működési engedélyének megszerzésére vagy módosítására irányuló kérelemével együtt megküldi a Hivatalnak.
+22. § (1) A szerződött víziközmű-szolgáltató az üzemeltetési szerződés vagy annak működési engedély rendelkezéseit érintő módosítása egy eredeti, aláírt példányát a szerződés létrejöttét követő 30 napon belül a működési engedélyének megszerzésére vagy módosítására irányuló kérelemével együtt megküldi a Hivatalnak.
 
-(2)
+(2) Az üzemeltetési szerződés működési engedély rendelkezéseit nem érintő módosítását a szerződött víziközmű-szolgáltató a szerződés létrejöttét követő 30 napon belül a Hivatal részére tájékoztatásul megküldi.
 
 (3)
 
@@ -803,6 +803,24 @@ alapul.
 
 (11) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.
 
+52/A. § (1) Az okos mérési rendszerek bevezetése érdekében a víziközmű-szolgáltatók az okos mérésre vonatkozó mintaprojekteket folytathatnak. A mintaprojekt erre a célra létrehozott gazdasági társaság útján (a továbbiakban: projekttársaság) is végezhető. A (2)–(7) bekezdés előírásait a projekttársaság által végzett mintaprojektekre is alkalmazni kell.
+
+(2) A felhasználók az (1) bekezdés szerinti mintaprojektek végrehajtásában kötelesek együttműködni, és a mintaprojekt műszaki előfeltételeit biztosító mérő felszerelését tűrni, de lehetőségük van az okos mérés bevezetésével kapcsolatos központi mintaprojekt megvalósításával összefüggő szabályokról szóló kormányrendeletben foglalt esetben és eljárási szabályok szerint azt megtagadni. Az együttműködés keretében a víziközmű-szolgáltató az érintett felhasználók részére a mintaprojektekről tájékoztatást nyújt.
+
+(3) A víziközmű-szolgáltató és a projekttársaság a mintaprojekt végrehajtásával a felhasználóknak költséget és kárt nem okozhat, azzal összefüggésben díjat nem számolhat fel, a felhasználó közszolgáltatási szerződéséből eredő jogait és kötelezettségeit a felhasználóra nézve hátrányosan nem befolyásolhatja.
+
+(4) A víziközmű-szolgáltató a mintaprojektet a Hivatal felügyeletével folytatja. A víziközmű-szolgáltató a mintaprojekt megkezdése előtt a Hivatalt a mintaprojekt leírásának bemutatásával, a mintaprojekt lezárást követően a mintaprojekt eredményeit és az azok alapján tett megállapításokat tartalmazó dokumentum átadásával tájékoztatja.
+
+(5) A víziközmű-szolgáltató és a projekttársaság a mintaprojektek végrehajtása és az azzal kapcsolatos tevékenységük során jogosult a felhasználó személyes adatainak kezelésére. A mintaprojektek végrehajtása során a projekttársaságot a fogyasztásmérő-berendezéssel összefüggésben a víziközmű-szolgáltató jogai és kötelezettségei illetik meg azzal, hogy a tevékenységét nem szervezheti ki.
+
+(6) A víziközmű-szolgáltató a központi mintaprojekt gazdasági értékeléséhez és költség-haszon elemzéséhez köteles a 60. §-ban foglaltak szerint a Hivatal részére adatot szolgáltatni.
+
+(7) A Hivatal a mintaprojekttel összefüggésben a projekttársaságnak a jogszabályokban és a Hivatal határozataiban foglalt kötelezettségeinek megszegése esetén
+
+- a) a jogkövetkezményekre való utalás mellett írásban felszólítja a projekttársaságot kötelezettségei betartására,
+- b) ismételten is kiszabható bírsággal sújthatja a projekttársaságot, a jogsértés tárgyi súlyára tekintettel egyedi ügyekben is, vagy
+- c) azonnali hatállyal eltilthatja a projekttársaságot az adott tevékenység folytatásától.
+
 53. § (1) Adott felhasználási hely tekintetében a közszolgáltatási szerződés megszűnik, ha
 
 - a) a felhasználó személyének megváltozása miatt a felhasználási helyre nézve a víziközmű-szolgáltató új közszolgáltatási szerződést kötött,
@@ -1066,7 +1084,8 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - c) a felhasználók számosságát kifejező, a működési engedélyben a Hivatal által megállapított, a tárgyév január 1-jén fennálló felhasználói egyenértéket,
 - d) a víziközmű tulajdonosainak nevét és tulajdoni részesedését,
 - e) a víziközmű működésében érintett ellátásért felelős(ök) nevét, ha a működésben több ellátásért felelős is érdekelt, azt is, hogy a képviseletüket ki látja el,
-- f) a működési engedély számát és az engedélyes víziközmű-szolgáltató nevét.
+- f) a működési engedély számát és az engedélyes víziközmű-szolgáltató nevét,
+- g) a víziközmű rendszer térképi nyilvántartási adatait.
 
 (4) Az ellátásért felelősök nyilvántartása az egyes ellátásért felelősökre nézve tartalmazza:
 
@@ -1079,11 +1098,15 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - b) a víziközmű-szolgáltatói, valamint a működési engedély kiadásáról rendelkező határozat számát,
 - c) a működtetett víziközmű-rendszerek Hivatal által képzett azonosító kódjait és az ezekre vonatkozó üzemeltetési jogviszony (ide értve a közérdekű üzemeltetői jogviszonyt is) típusát.
 
-(6) A nyilvántartás a (3) bekezdés a) és d) pontja, valamint a (5) bekezdés a) pontja kivételével közhiteles.
+(6) A nyilvántartás a (3) bekezdés a), c), d) és g) pontja, valamint a (5) bekezdés a) pontja kivételével közhiteles.
 
 (7) Eltérő megállapodás hiányában a (3) és (4) bekezdésben meghatározott adatokat az ellátásért felelős, az (5) bekezdésben meghatározott adatokat a víziközmű-szolgáltató szolgáltatja a Hivatal részére. Nem áll fenn adatszolgáltatási kötelezettség azon adatra, amelyet a Hivatal honlapján közzétett tájékoztató „Hivatalból bejegyzendő” minősítéssel lát el.
 
 (8) Adat keletkezését, változását vagy megszűnését az arra okot adó körülmény vagy tény bekövetkezését követő 15 napon belül a Hivatalhoz, a változás tényét bizonyító okirat egyidejű megküldésével kell bejelenteni.
+
+(9) A Hivatal a Nyilvántartás víziközmű-rendszer térképi nyilvántartási adatait víziközmű-rendszerenként az Országos Közhiteles Víziközmű Kataszterből biztosítja.
+
+(10) A (3) bekezdésben meghatározott adatokat a Hivatal biztosítja a miniszter részére az Országos Közhiteles Víziközmű Kataszterrel kapcsolatban.
 
 61/C. § (1) A Nyilvántartásban rögzíteni kell az adatkezelés időpontját és az adatkezelést végző személy nevét.
 
@@ -1104,7 +1127,7 @@ alapján lehet.
 
 (3) Az adatszolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
 
-(4) A jogszabályok utólagos hatásvizsgálata, a jogalkotási, valamint az ágazatpolitikai döntések megalapozása érdekében a miniszter és a vízgazdálkodásért felelős miniszter számára a Hivatal biztosítja a Nyilvántartás adataiba történő korlátlan, díjmentes és közvetlen betekintést.
+(4) A jogszabályok hatásvizsgálata, a jogalkotási, valamint az ágazatpolitikai döntések megalapozása érdekében a miniszter és a vízgazdálkodásért felelős miniszter számára a Hivatal biztosítja a Nyilvántartás adataiba történő korlátlan, díjmentes és közvetlen betekintést.
 
 ### VIII. Fejezet — A VÍZIKÖZMŰ-SZOLGÁLTATÁS DÍJAI
 
@@ -1289,6 +1312,7 @@ kiállított számla érvénytelen.
 - 25. a víziközmű-üzemeltetési tevékenységek kiszervezésére vonatkozó részletes szabályokat
 - 26. a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartására vonatkozó részletes szabályokat, valamint a nyilvántartást vezető műszaki biztonsági hatóságot,
 - 27. a bekötéssel összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt a műszaki-biztonsági hatóság előtt indított eljárás szabályait, valamint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi megtagadása esetén a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait, továbbá a jelen pontban megjelölt tevékenységeket végző műszaki biztonsági hatóságot
+- 28. az IKVA Adatbázist üzemeltető szervezetet, valamint az IKVA Adatbázis működésének részletes szabályait, az adatszolgáltatás rendjét, a Hivatal és az IKVA adatbázist üzemeltető szervezet közötti együttműködés kereteit, az adatok IKVA Adatbázisban történő felhasználásának részletes szabályait
 
 rendeletben állapítsa meg.
 
