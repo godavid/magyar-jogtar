@@ -26,7 +26,9 @@ a közbeszerzésekről szóló 2015. évi CXLIII. törvény és az azzal összef
 
 46. § (1)
 
-(2)
+(2) A Kbt. 195. §-a a következő (12) bekezdéssel egészül ki:
+
+„(12) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.”
 
 47–49. §
 

@@ -946,13 +946,15 @@ az általános közigazgatási rendtartásról szóló törvény és a közigazg
 
 517. §
 
-#### 236.
+#### 236. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény és ehhez kapcsolódóan más törvények módosításáról szóló 2016. évi CX. törvény módosítása
 
-518. §
+518. § Nem lép hatályba a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény és ehhez kapcsolódóan más törvények módosításáról szóló 2016. évi CX. törvény 5. § (1) bekezdése.
 
-#### 237.
+#### 237. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-519. §
+519. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 630. §-a a következő (5) bekezdéssel kiegészülve lép hatályba:
+
+„(5) Ahol jogszabály a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó szabályainak alkalmazását rendeli, ott a közigazgatási perrendtartásról szóló törvény szabályait kell alkalmazni.”
 
 #### 238. A Honvédelmi Sportszövetségről szóló 2016. évi CXXXII törvény módosítása
 
@@ -962,17 +964,165 @@ az általános közigazgatási rendtartásról szóló törvény és a közigazg
 
 521. §
 
-#### 240.
+#### 240. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-522–523. §
+522. § (1) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 8. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) E törvény hatálya nem terjed ki
+
+a) a szabálysértési eljárásra,
+
+b) a választási eljárásra, a népszavazás kezdeményezésére és a népszavazási eljárásra,
+
+c) az adó-, valamint vámigazgatási eljárásra,
+
+d) a menekültügyi és idegenrendészeti, valamint – az állampolgársági bizonyítvány kiadásának kivételével – az állampolgársági eljárásra, és
+
+e) a versenyfelügyeleti eljárásra.”
+
+(2) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 41. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Sommás eljárásnak van helye, ha
+
+a) a hiánytalanul előterjesztett kérelem és mellékletei, valamint a hatóság rendelkezésére álló adatok alapján a tényállás tisztázott és
+
+b) nincs ellenérdekű ügyfél.”
+
+(3) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 70. § (4) bekezdése a következő szöveggel lép hatályba:
+
+„(4) A (3) bekezdésben meghatározott módon történő szemle megtartásáról az ügyészt előzetesen – a szemle megtartásáról való hatósági döntést követően haladéktalanul – értesíteni kell, továbbá ahhoz a rendőrség és lehetőség szerint hatósági tanú közreműködését kell kérni. Ha az ügyész a szemle megtartásával nem ért egyet, azt megtiltja.”
+
+(4) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 123. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Az e fejezetben szabályozott eljárások során a döntést meg kell semmisíteni, illetve vissza kell vonni, és szükség esetén új eljárást kell lefolytatni, ha
+
+a) – az ideiglenes intézkedést kivéve – az ügy nem tartozik az eljáró hatóság hatáskörébe,
+
+b) azt a szakhatóság kötelező megkeresése nélkül vagy a szakhatóság állásfoglalásának figyelmen kívül hagyásával hozták meg,
+
+c) a döntést hozó testületi szerv nem volt jogszabályszerűen megalakítva, nem volt határozatképes, vagy nem volt meg a döntéshez szükséges szavazati arány,
+
+d) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ítélet megállapította, vagy ilyen ítélet meghozatalát nem a bizonyítottság hiánya zárja ki,
+
+e) az ügyész a vádemelést elhalasztotta és annak tartama eredményesen telt el,
+
+f) a tartalma a közigazgatási bíróság adott ügyben hozott határozatával ellentétes,
+
+g) az eljárásba további ügyfél bevonásának lett volna helye, vagy
+
+h) valamely súlyos eljárási jogszabálysértést törvény semmisségi oknak minősít.”
+
+(5) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 143. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Az e törvény hatálybalépése előtt kiadott jogerős hatósági döntéseket e törvény alkalmazásában véglegessé vált döntésnek kell tekinteni. E törvény alkalmazásában, ahol jogszabály
+
+a) közigazgatási hatóság jogerős döntését említi, azon a hatóság végleges döntését,
+
+b) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvényt említi, azon e törvényt,
+
+c) a hatóság döntésének bírósági felülvizsgálatát említi, azon közigazgatási pert,
+
+d) belföldi jogsegélyt említ, azon megkeresést,
+
+e) a kérelem érdemi vizsgálat nélküli elutasítását említi, azon a kérelem visszautasítását,
+
+f) lefoglalást említ, azon lefoglalást, illetve zár alá vételt,
+
+g) a döntés nyilvános közzétételét említi, azon a döntés közhírré tételét
+
+kell érteni.”
+
+523. § Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény
+
+- a) 79. § (1) bekezdése a „lefoglalásnál” szövegrész helyett a „lefoglalásnál, zár alá vételnél” szöveggel,
+- b) 132. §-a az „az ügyfél” szövegrész helyett az „a kötelezett” szöveggel
+
+lép hatályba.
 
 #### 241.
 
 524. §
 
-#### 242.
+#### 242. A közigazgatási perrendtartásról szóló 2017. évi I. törvény módosítása
 
-525–527. §
+525. § (1) A közigazgatási perrendtartásról szóló 2017. évi I. törvény 8. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Egyesbíró jár el elsőfokon
+
+a) a kétfokú közigazgatási eljárásban hozott közigazgatási cselekmény vizsgálatára indított perben,
+
+b) az ötmillió forintot meg nem haladó alapösszegű fizetési kötelezettséget vitató kereset alapján indult perben,
+
+c) a szabad mozgás és tartózkodás jogával rendelkező személyek és a harmadik országbeli állampolgárok beutazásával és tartózkodásával, valamint a menedékjoggal kapcsolatos perben,
+
+d) a 13. § (4) bekezdésében meghatározott perben,
+
+e) a hatósági igazolvánnyal, hatósági bizonyítvánnyal, illetve hatósági nyilvántartás vezetésével kapcsolatos perben,
+
+f) a hatósági határozattal szemben kizárólag a hatósági eljárás egyéb résztvevőjének keresete alapján indult perben,
+
+g) a járulékos közigazgatási cselekménnyel kapcsolatos perben,
+
+h) a mulasztási perben,
+
+i) a közszolgálati jogviszonnyal kapcsolatos perben,
+
+j) az e törvényben meghatározott egyéb perben.”
+
+(2) A közigazgatási perrendtartásról szóló 2017. évi I. törvény 8. § (5) bekezdése a következő szöveggel lép hatályba:
+
+„(5) A törvényszék másodfokon három hivatásos bíróból álló tanácsban jár el.”
+
+(3) A közigazgatási perrendtartásról szóló 2017. évi I. törvény 8. §-a a következő (6) bekezdéssel kiegészülve lép hatályba:
+
+„(6) A Kúria három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.”
+
+(4) A közigazgatási perrendtartásról szóló 2017. évi I. törvény 119. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A felülvizsgálati kérelemmel egyidejűleg azonnali jogvédelem iránti kérelem is előterjeszthető. Ha a felülvizsgálati kérelem azonnali jogvédelem iránti kérelmet tartalmaz, az elsőfokú bíróság haladéktalanul intézkedik az iratok Kúriára történő felterjesztéséről. A Kúria az azonnali jogvédelem iránti kérelemről legkésőbb a befogadás tárgyában hozott végzéssel egyidejűleg dönt.”
+
+(5) A közigazgatási perrendtartásról szóló 2017. évi I. törvény 121. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Ha a felülvizsgálni kért határozat az ügy érdemére kiható módon jogszabálysértő, a Kúria a jogerős határozatot egészben vagy részben hatályon kívül helyezi, és szükség esetén az ügyben eljárt elsőfokú vagy másodfokú bíróságot új eljárás lefolytatására és új határozat hozatalára utasítja. A Kúria ítéletében a jogerős határozatot szükség esetén a közigazgatási cselekményre kiterjedő hatállyal helyezi hatályon kívül és a közigazgatási szervet kötelezi új eljárás lefolytatására.”
+
+(6) A közigazgatási perrendtartásról szóló 2017. évi I. törvény 157. §-a a következő szöveggel lép hatályba:
+
+„157. § [Átmeneti rendelkezések]
+
+(1) Ezt a törvényt a 2018. január 1. napján vagy azt követően előterjesztett keresetlevél alapján indult eljárásokban kell alkalmazni.
+
+(2) A közigazgatási ügyekben a közigazgatási és munkaügyi bíróság által meghozott határozattal szemben 2018. január 1. napján vagy azt követően előterjesztett fellebbezést az e törvény szerint illetékes törvényszék, mint másodfokú bíróság bírálja el.
+
+(3) A 2017. december 31-én első fokon folyamatban lévő, az e törvény 12. § (2) és (3) bekezdése szerinti közigazgatási ügyeket, továbbá azokat az első fokon befejezett, e törvény 12. § (2) és (3) bekezdése szerinti ügyeket, amelyekben az elsőfokú bíróság hatáskörébe tartozó további intézkedéseket kell tenni, a közigazgatási és munkaügyi bíróság megküldi az e törvény szerint illetékes törvényszéknek, mint elsőfokú bíróságnak.
+
+(4) A (2) és (3) bekezdés szerinti közigazgatási ügyeket haladéktalanul, de legkésőbb 2018. február 1-jéig kell megküldeni.
+
+(5) A 2018. december 31-én első fokon folyamatban lévő közigazgatási ügyeket, továbbá azokat az első fokon befejezett ügyeket, amelyekben az elsőfokú bíróság hatáskörébe tartozó további intézkedéseket kell tenni, a közigazgatási és munkaügyi bíróság legkésőbb 2019. február 1-jéig megküldi az e törvény szerint illetékes közigazgatási és munkaügyi bíróságnak.
+
+(6) Az ügyek (3)–(5) bekezdés szerinti megküldése során az áttételre vonatkozó szabályokat nem kell alkalmazni.
+
+(7) Ahol jogszabály a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetének vagy a közigazgatási perekre vonatkozó szabályainak alkalmazását rendeli, azon a közigazgatási perrendtartást, ha jogszabály bírósági felülvizsgálatot tesz lehetővé, azon közigazgatási pert kell érteni.”
+
+526. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény
+
+- a) 4. § (7) bekezdés 2. pontja az „az a szerződés” szövegrész helyett az „a magyar közigazgatási szervek között közfeladat ellátására kötött szerződés vagy megállapodás, továbbá az a szerződés” szöveggel,
+- b) 13. § (2) bekezdés b) pontja a „bejelentéshez vagy engedélyhez kötött tevékenység” szövegrész helyett a „tevékenység bejelentése vagy engedélyezése” szöveggel,
+- c) 13. § (2) bekezdés c) pontja az „országos illetékességgel eljáró közigazgatási” szövegrész helyett az „országos illetékességgel eljáró területi államigazgatási” szöveggel,
+- d) 17. § b) pontja a „felügyeletet” szövegrész helyett a „felügyeletet vagy törvényességi ellenőrzést” szöveggel,
+- e) 39. § (1) bekezdése a „tudomásszerzéstől” szövegrész helyett a „tudomásszerzéstől számított harminc napon belül” szöveggel,
+- f) 121. § (2) bekezdése az „ítéletet” szövegrész helyett a „határozatot” szöveggel,
+- g) 124. § (2) bekezdés c) pontja a „hatósági végzéssel” szövegrész helyett a „járulékos közigazgatási cselekménnyel” szöveggel,
+- h) 136. § (1) bekezdése az „ügyészség” szövegrész helyett a „törvényességi ellenőrzést gyakorló ügyészség” szöveggel,
+- i) 137. § (1) bekezdés nyitó szövegrésze a „jogkövetkezmények mellett” szövegrész helyett a „jogkövetkezményeken túl” szöveggel,
+- j) 137. § (1) bekezdés b) pontja a „tevékenységét” szövegrész helyett a „tevékenységét a jogszerűség helyreállításáig” szöveggel,
+- k) 153. § (1) bekezdésének nyitó szövegrésze a „mellett” szövegrész helyett a „mellett végzéssel” szöveggel
+
+lép hatályba.
+
+527. § Nem lép hatályba a közigazgatási perrendtartásról szóló 2017. évi I. törvény
+
+- a) 39. § (7) bekezdése,
+- b) 57. § (2) bekezdés e) pontja.
 
 #### 243. Záró rendelkezések
 
