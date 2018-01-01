@@ -203,7 +203,7 @@ alkalmazni kell.
 
 kézbesítettnek kell tekinteni.
 
-(3) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (2) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a vélelem beálltától számított hat hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+(3) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (2) bekezdésben szabályozott kézbesítési fikcióval szemben az eljárás kezdeményezésével egyidejűleg, a kézbesítési fikció beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a kézbesítési fikció beálltától számított három hónapon belül terjeszthető elő kézbesítési kifogás a bíróságnál. A kézbesítési kifogásra egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A kézbesítési kifogásnak helyt adó döntés esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
 
 (4) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
 
@@ -482,7 +482,7 @@ foglaltaktól nem térhet el.
 
 (2) A munkáltató köteles a munkavállalónak azt a költségét megtéríteni, amely a munkaviszony teljesítésével indokoltan merült fel.
 
-(3) A munkavállalót csak olyan munkára lehet alkalmazni, amely testi alkatára vagy fejlettségére tekintettel rá hátrányos következményekkel nem járhat.
+(3) A munkavállalót csak olyan munkára lehet alkalmazni, amely testi alkatára, fejlettségére, egészségi állapotára tekintettel rá hátrányos következményekkel nem járhat. A munkáltató a munkavállaló egészségi állapotának változására tekintettel köteles a munkafeltételeket, a munkaidő-beosztást – a 6. §-ban foglaltak figyelembevételével – megfelelően módosítani.
 
 (4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkába lépést megelőzően és a munkaviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a munkavállaló munkaköri alkalmassági vizsgálatát.
 
@@ -580,7 +580,7 @@ foglaltaktól nem térhet el.
 
 59. § A munkáltató a 127–132. §-ban meghatározott távollét megszűnését követően ajánlatot tesz a munkavállaló számára a munkabér módosítására. Ennek során a munkavállalóval azonos munkakörű munkavállalók részére a munkáltatónál időközben megvalósított átlagos éves béremelés mértékét kell alapul venni. Ilyen munkavállalók hiányában a munkáltatónál ténylegesen megvalósult átlagos éves béremelés mértéke az irányadó.
 
-60. § (1) A munkavállaló számára egészségi állapotának megfelelő munkakört kell felajánlani, ha várandóssága megállapításától gyermeke egyéves koráig – munkaköri alkalmasságára vonatkozó orvosi vélemény alapján – a munkakörében nem foglalkoztatható. A munkavégzés alól fel kell menteni, ha az egészségi állapotának megfelelő foglalkoztatása nem lehetséges.
+60. § (1) A munkavállaló számára, ha a munkakörében történő foglalkoztatás feltételei az 51. § (3) bekezdése szerint nem módosíthatóak, egészségi állapotának megfelelő munkakört kell felajánlani, ha várandóssága megállapításától gyermeke egyéves koráig – munkaköri alkalmasságára vonatkozó orvosi vélemény alapján – a munkakörében nem foglalkoztatható. A munkavégzés alól fel kell menteni, ha az egészségi állapotának megfelelő foglalkoztatása nem lehetséges.
 
 (2) A munkavállaló a felajánlott munkakörnek megfelelő alapbérre jogosult, amely a munkaszerződés szerinti alapbérénél kevesebb nem lehet. A felmentés idejére alapbére illeti meg, kivéve, ha a felajánlott munkakört alapos ok nélkül nem fogadja el.
 
@@ -1337,7 +1337,7 @@ munkanap pótszabadság jár.
 
 120. § A munkavállalónak, ha
 
-- a) a rehabilitációs szakértői szerv legalább ötven százalékos mértékű egészségkárosodását megállapította,
+- a) megváltozott munkaképességű,
 - b) fogyatékossági támogatásra jogosult, vagy
 - c) vakok személyi járadékára jogosult
 
@@ -1515,7 +1515,7 @@ foglalkoztatott munkavállaló tekintetében eltérhet.
 
 #### 65. Az alapbér
 
-136. § (1) Alapbérként legalább a kötelező legkisebb munkabért kell meghatározni.
+136. § (1) Alapbérként legalább a 153. § (1) bekezdése szerinti munkabért kell meghatározni.
 
 (2) Az alapbért időbérben kell megállapítani.
 
@@ -1535,7 +1535,7 @@ foglalkoztatott munkavállaló tekintetében eltérhet.
 
 (4) A teljesítménykövetelményt és a teljesítménybér-tényezőt alkalmazásuk előtt írásban közölni kell a munkavállalóval.
 
-(5) A teljes munkaidőben foglalkoztatott munkavállalóra irányadó teljesítménybér-tényezőt úgy kell megállapítani, hogy a teljesítménykövetelmény százszázalékos teljesítése és a teljes munkaidő ledolgozása esetén a munkavállalónak járó munkabér legalább a kötelező legkisebb munkabér mértékét elérje.
+(5) A teljes munkaidőben foglalkoztatott munkavállalóra irányadó teljesítménybér-tényezőt úgy kell megállapítani, hogy a teljesítménykövetelmény százszázalékos teljesítése és a teljes munkaidő ledolgozása esetén a munkavállalónak járó munkabér legalább a 153. § (1) bekezdése szerinti munkabér mértékét elérje.
 
 (6) A kizárólag teljesítménybérrel díjazott munkavállaló esetén legalább az alapbér felét elérő garantált bér megállapítása is kötelező.
 
@@ -1686,11 +1686,11 @@ figyelembevételével kell megállapítani.
 
 összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – rendeletben állapítsa meg.
 
-(2) A Kormány a munkavállalók egyes csoportjaira eltérő összegű kötelező legkisebb munkabért állapíthat meg.
+(2) A Kormány a munkavállalók egyes csoportjaira eltérő összegű kötelező legkisebb munkabért és garantált bérminimumot állapíthat meg.
 
-(3) A kötelező legkisebb munkabér összegének és hatályának megállapításánál figyelembe kell venni különösen a munkakör ellátásához szükséges követelményeket, a nemzeti munkaerőpiac jellemzőit, a nemzetgazdaság helyzetét, az egyes nemzetgazdasági ágazatok és az egyes földrajzi területek munkaerő-piaci sajátosságait.
+(3) A kötelező legkisebb munkabér és a garantált bérminimum összegének és hatályának megállapításánál figyelembe kell venni különösen a munkakör ellátásához szükséges követelményeket, a nemzeti munkaerőpiac jellemzőit, a nemzetgazdaság helyzetét, az egyes nemzetgazdasági ágazatok és az egyes földrajzi területek munkaerő-piaci sajátosságait.
 
-(4) A kötelező legkisebb munkabér összegét naptári évenként felül kell vizsgálni.
+(4) A kötelező legkisebb munkabér és a garantált bérminimum összegét naptári évenként felül kell vizsgálni.
 
 (5) Felhatalmazást kap a Kormány, hogy a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés elvárt mértékét, a béren kívüli juttatás ennek keretében figyelembe vehető mértékét, valamint a munkabéremelés elvárt mértékével kapcsolatos részletes szabályokat – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – rendeletben határozza meg.
 
@@ -2987,7 +2987,7 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 
 289. § (1) A munkáltató, az üzemi tanács vagy a szakszervezet a tájékoztatásra vagy a konzultációra vonatkozó szabály megszegése miatt öt napon belül bírósághoz fordulhat.
 
-(2) A bíróság tizenöt napon belül, nemperes eljárásban határoz. A bíróság határozata ellen a közléstől számított öt napon belül fellebbezésnek van helye. A másodfokú bíróság tizenöt napon belül határoz.
+(2) A bíróság tizenöt napon belül, polgári nemperes eljárásban határoz. A bíróság határozata ellen a közléstől számított öt napon belül fellebbezésnek van helye. A másodfokú bíróság tizenöt napon belül határoz.
 
 290. § A kollektív szerződésben meghatározott jogcím alapján fennálló igény érvényesítésének eltérő szabályait a kollektív szerződés meghatározhatja.
 
@@ -3015,7 +3015,7 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 - b) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő és a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, és a testvér házastársa,
 - c) gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek; fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
 - d) kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a munkavállalónak munkaviszonyra vonatkozó szabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is,
-- e) munkavállalói képviselő: az üzemi tanács tagja, üzemi megbízott, a gazdasági társaság felügyelő bizottságának munkavállalói képviselője,
+- e) munkavállalói képviselő: az üzemi tanács tagja, az üzemi megbízott, a 273. § (3)–(4) bekezdése szerinti szakszervezeti tisztségviselő, a gazdasági társaság felügyelő bizottságának munkavállaló képviselője.
 - f) munkavégzésre irányuló jogviszony: a munkaviszony, a munkavégzési kötelezettséggel járó szövetkezeti tagsági viszony, a vállalkozási és megbízási szerződés, a gazdasági társaság vezető tisztségviselői vagy felügyelő bizottsági tagsági tevékenység ellátására irányuló jogviszony és az egyéni vállalkozás,
 - g) nyugdíjas munkavállaló, aki
   - ga) az öregségi nyugdíjkorhatárt betöltötte és az öregségi nyugdíjhoz szükséges szolgálati idővel rendelkezik (öregségi nyugdíjra való jogosultság),
@@ -3034,7 +3034,12 @@ kapcsolatos igény az elévülési időn belül érvényesíthető.
 - j) levonásmentes munkabérrész: a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó munkabérrész,
 - k) három vagy több gyermeket nevelő munkavállaló: aki, a családok támogatásáról szóló törvény szerint szülőként legalább három gyermekre tekintettel
   - ka) családi pótlékra jogosult és gyermekgondozási díjban vagy gyermekgondozási segélyben, gyermekgondozást segítő ellátásban részesült vagy részesül, vagy
-  - kb) gyermeknevelési támogatásban részesült vagy részesül.
+  - kb) gyermeknevelési támogatásban részesült vagy részesül,
+- l) megváltozott munkaképességű személy: a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján
+  - la) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű,
+  - lb) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány, minősítés időbeli hatálya alatt,
+  - lc) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű, az erről szóló szakvélemény időbeli hatálya alatt, vagy
+  - ld) rokkantsági ellátásban részesül.
 
 (2) A munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
 

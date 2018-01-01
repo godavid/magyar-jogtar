@@ -307,7 +307,8 @@ hiánya.
 (6) Nem szabható ki
 
 - a) szabadságvesztés mellett elzárás vagy közérdekű munka,
-- b) kiutasítás mellett közérdekű munka vagy pénzbüntetés.
+- b) kiutasítás mellett közérdekű munka vagy pénzbüntetés,
+- c) életfogytig tartó szabadságvesztés mellett pénzbüntetés.
 
 ### A szabadságvesztés
 
@@ -333,7 +334,7 @@ hiánya.
 - a) a háromévi vagy ennél hosszabb tartamú szabadságvesztést
   - aa) a XIII., a XIV. vagy a XXIV. Fejezetben meghatározott bűncselekmény,
   - ab) életfogytig tartó szabadságvesztéssel is büntethető katonai bűncselekmény,
-  - ac) terrorcselekmény [314. § (1)–(2) bekezdés, 315–316. §], terrorizmus finanszírozása [318. § (1)–(2) bekezdés], jármű hatalomba kerítése [320. § (1)–(3) bekezdés], bűnszervezetben részvétel [321. § (1) bekezdés], robbanóanyaggal vagy robbantószerrel visszaélés (324. §), lőfegyverrel vagy lőszerrel visszaélés [325. § (1)–(3) bekezdés], nemzetközi szerződés által tiltott fegyverrel visszaélés [326. § (1)–(6) bekezdés], haditechnikai termékkel vagy szolgáltatással visszaélés [329. § (1)–(4) bekezdés], kettős felhasználású termékkel visszaélés [330. § (1)–(3) bekezdés],
+  - ac) terrorcselekmény [314. § (1)–(2) bekezdés, 315–316/A. §], terrorizmus finanszírozása [318. § és 318/A. §], jármű hatalomba kerítése [320. § (1)–(3) bekezdés], bűnszervezetben részvétel [321. § (1) bekezdés], robbanóanyaggal vagy robbantószerrel visszaélés (324. §), lőfegyverrel vagy lőszerrel visszaélés [325. § (1)–(3) bekezdés], nemzetközi szerződés által tiltott fegyverrel visszaélés [326. § (1)–(6) bekezdés], haditechnikai termékkel vagy szolgáltatással visszaélés [329. § (1)–(4) bekezdés], kettős felhasználású termékkel visszaélés [330. § (1)–(3) bekezdés],
   - ad) emberölés, kábítószer-kereskedelem, kábítószer birtoklása, emberrablás, emberkereskedelem, szexuális erőszak, közveszély okozása, nemzetközi gazdasági tilalom megszegése vagy rablás súlyosabban minősülő esetei [160. § (2) bekezdés, 176. § (2)–(3) bekezdés, 177. § (1)–(2) bekezdés, 178. § (2) bekezdés, 179. § (2) bekezdés, 190. § (2)–(4) bekezdés, 192. § (2)–(6) bekezdés, 197. § (2)–(4) bekezdés, 322. § (2)–(3) bekezdés, 327. § (3) bekezdés, 365. § (3)–(4) bekezdés]
 
 miatt szabták ki, vagy
@@ -788,7 +789,7 @@ ideje alatt szerzett.
 - e) a gyermekmunka (209. §), a harmadik országbeli állampolgár jogellenes foglalkoztatása [356. § (1)–(2) bekezdés],
 - f) a haszonszerzési célból elkövetett személyes adattal visszaélés [219. § (1) és (3)–(4) bekezdés],
 - g) a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés, a hivatali vesztegetés elfogadása (290–294. §),
-- h) a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés és 316. §], a terrorizmus finanszírozása [318. § (1)–(2) bekezdés],
+- h) a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés, 316. § és 316/A. §], a terrorizmus finanszírozása [318. § és 318/A. §],
 - i) a bűnszervezetben részvétel [321. § (1) bekezdés],
 - j) az embercsempészés (353. §)
 - k) a zsarolás (367. §),
@@ -977,13 +978,28 @@ házi őrizetben töltött idő felel meg.
 
 (4) A (2) és (3) bekezdés szerinti beszámítás után fennmaradó előzetes fogvatartás vagy házi őrizet tartamát egynapi szabadságvesztésként kell beszámítani.
 
-92/A. § (1) A szabálysértési eljárásban kiszabott és végrehajtott elzárás és közérdekű munka teljes időtartamát, valamint a pénzbüntetést be kell számítani – a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 127. § (1) bekezdés e) pontja szerint lefolytatott perújítási eljárást követően, a perújítással érintett cselekmény miatt – a büntetőeljárásban kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába és pénzbüntetésbe.
+92/A. § (1) A szabálysértési eljárásban kiszabott és végrehajtott elzárás és közérdekű munka teljes időtartamát, valamint a pénzbírságot be kell számítani – a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 127. § (1) bekezdés e) pontja szerint lefolytatott perújítási eljárást követően, a perújítással érintett cselekmény miatt – a büntetőeljárásban kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába, pénzbüntetésbe és javítóintézeti nevelésbe.
 
-(2) A beszámításnál egy napi szabálysértési elzárás egy napi szabadságvesztésnek, illetve elzárásnak, egy napi közérdekű munkának, valamint ötezer forint pénzbüntetésnek felel meg.
+(2) A beszámításnál egynapi szabálysértési elzárás egynapi szabadságvesztésnek, illetve elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek, valamint egynapi javítóintézeti nevelésnek felel meg.
 
-(3) A szabálysértési pénzbírság ötezer forintonként egy napi szabadságvesztésnek, illetve elzárásnak, hat óra közérdekű munkának, illetve a pénzbüntetés azonos értékének felel meg.
+(3) A szabálysértési pénzbírság ötezer forintonként egynapi szabadságvesztésnek, illetve elzárásnak, négy óra közérdekű munkának, a pénzbüntetés azonos értékének, illetve egynapi javítóintézeti nevelésnek felel meg.
 
-(4) A szabálysértési eljárásban kiszabott közérdekű munka hat óránként egy napi szabadságvesztésnek, illetve elzárásnak, ötezer forint pénzbüntetésnek, valamint a közérdekű munka azonos mértékének felel meg.
+(4) A szabálysértési eljárásban kiszabott közérdekű munka a közérdekű munka azonos mértékének, továbbá a szabálysértési eljárásban kiszabott közérdekű munka hat óránként egynapi szabadságvesztésnek, illetve elzárásnak, egynapi tétel pénzbüntetésnek, valamint egynapi javítóintézeti nevelésnek felel meg.
+
+### A már végrehajtott büntetés vagy intézkedés beszámítására vonatkozó szabályok
+
+92/B. § (1) Ha a perújítás, a felülvizsgálat, a törvényesség érdekében bejelentett jogorvoslat, vagy a megismételt eljárás eredményeként hozott ítélet az alapügyben hozott határozatot megváltoztatatja, az alapügyben kiszabott és végrehajtott büntetést vagy intézkedést be kell számítani. Ha a büntetés vagy az intézkedés neme eltér, a beszámításra a (2) bekezdésben foglaltak az irányadók.
+
+(2) A beszámításnál
+
+- a) egynapi szabadságvesztés egynapi elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának vagy egynapi javítóintézeti nevelésnek,
+- b) egynapi elzárás egynapi szabadságvesztésnek, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának vagy egynapi javítóintézeti nevelésnek,
+- c) négy óra közérdekű munka egynapi szabadságvesztésnek, egynapi elzárásnak, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának vagy egynapi javítóintézeti nevelésnek,
+- d) egynapi tétel pénzbüntetés egynapi szabadságvesztésnek, egynapi elzárásnak, négy óra közérdekű munkának, hat óra jóvátételi munkának vagy egynapi javítóintézeti nevelésnek,
+- e) egynapi javítóintézeti nevelés egynapi szabadságvesztésnek, egynapi elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek vagy hat óra jóvátételi munkának,
+- f) hat óra jóvátételi munka egynapi szabadságvesztésnek, egynapi elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek vagy egynapi javítóintézeti nevelésnek,
+
+felel meg.
 
 ### Összbüntetés
 
@@ -2109,6 +2125,8 @@ követi el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (4) A (3) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett egészségügyi termék a felhasználók számára széles körben válik hozzáférhetővé.
 
+(4a) Aki az (1)–(4) bekezdésben meghatározott egészségügyi termék hamisítására irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
 (5) E § alkalmazásában
 
 - a) egészségügyi termék: a gyógyszer, az állatgyógyászati készítmény, az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz és a vizsgálati készítmény;
@@ -2309,8 +2327,16 @@ követi el.
 
 (4) Öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő,
 
-- a) aki az (1) bekezdés a) pontjában vagy a (3) bekezdés b) vagy c) pontjában meghatározott bűncselekményt tizenkettedik életévét be nem töltött személy sérelmére követi el, vagy
+- a) aki a (2) bekezdésben meghatározott bűncselekményt
+  - aa) az (1) bekezdésben meghatározott módon,
+  - ab) a (3) bekezdés b) pontjában meghatározott sértett sérelmére, vagy
+  - ac) a (3) bekezdés c) pontjában meghatározott módon
+
+követi el, vagy
+
 - b) ha a (3) bekezdés a) pontjában meghatározott bűncselekmény a (3) bekezdés b) vagy c) pontja szerint is minősül.
+
+(4a) A büntetés öt évtől húsz évig terjedő szabadságvesztés, ha a (4) bekezdés a) pont aa) alpontjában meghatározott bűncselekmény a (4) bekezdés a) pont ab) vagy ac) alpontja szerint is minősül.
 
 (5) Aki szexuális erőszak elkövetéséhez szükséges vagy azt könnyítő feltételeket biztosítja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
@@ -3191,7 +3217,7 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 - b) aki a vallomástételt egyéb okból megtagadhatja, de erre kihallgatása előtt nem figyelmeztették, vagy
 - c) akinek a kihallgatása törvény alapján kizárt.
 
-(2) A büntetés korlátlanul enyhíthető, különös méltánylást érdemlő esetben mellőzhető azzal szemben, aki az alapügy jogerős befejezése előtt az eljáró hatóságnak az általa szolgáltatott bizonyítási eszköz hamis voltát bejelenti.
+(2) A büntetés korlátlanul enyhíthető, különös méltánylást érdemlő esetben mellőzhető azzal szemben, aki az alapügy jogerős vagy végleges befejezése előtt az eljáró hatóságnak az általa szolgáltatott bizonyítási eszköz hamis voltát bejelenti.
 
 ### Hamis tanúzásra felhívás
 
@@ -3215,9 +3241,9 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 ### Hatósági eljárás megzavarása
 
-279. § (1) Aki olyan kihívóan közösségellenes vagy erőszakos magatartást tanúsít, amely a hatóság eljárását megzavarja vagy akadályozza, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+279. § (1) Aki olyan kihívóan közösségellenes vagy erőszakos magatartást tanúsít, amely a hatóság eljárását megzavarja, akadályozza vagy meghiúsítja, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekmény a hatóság eljárását meghiúsítja.
+(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt bírósági eljárásban követik el.
 
 (3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt csoportosan, fegyveresen vagy felfegyverkezve követik el.
 
@@ -3263,7 +3289,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 (3) A büntetés egytől öt évig terjedő szabadságvesztés, ha a bűnpártolást
 
 - a) a XIII., a XIV. vagy a XXIV. Fejezetben meghatározott bűncselekménnyel [kivéve az állam elleni bűncselekmény feljelentésének elmulasztása (263. § (1) bekezdés],
-- b) emberöléssel [160. § (1)–(3) és (5) bekezdés], emberrablással [190. § (1)–(4) bekezdés], emberkereskedelemmel [192. § (1)–(6) bekezdés], terrorcselekménnyel [314. § (1)–(2) bekezdés], terrorizmus finanszírozásával [318. § (1)–(2) bekezdés], jármű hatalomba kerítésével [320. § (1)–(2) bekezdés],
+- b) emberöléssel [160. § (1)–(3) és (5) bekezdés], emberrablással [190. § (1)–(4) bekezdés], emberkereskedelemmel [192. § (1)–(6) bekezdés], terrorcselekménnyel [314. § (1)–(2) bekezdés], terrorizmus finanszírozásával [318. § és 318/A. §], jármű hatalomba kerítésével [320. § (1)–(2) bekezdés],
 - c) az a)–b) pontokban fel nem sorolt, életfogytig tartó szabadságvesztéssel is büntethető bűncselekménnyel kapcsolatban követik el, vagy
 - d) hivatalos, külföldi hivatalos személy hivatali eljárása során, hivatali kötelessége megszegésével vagy közfeladatot ellátó személy eljárása során követi el.
 
@@ -3315,9 +3341,9 @@ a kényszerintézkedés szabályainak megszegésével elhagyja.
 
 ### Zugírászat
 
-286. § (1) Aki jogosulatlanul és üzletszerűen ügyvédi, jogtanácsosi vagy közjegyzői tevékenységet végez, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+286. § (1) Aki jogosulatlanul és üzletszerűen ügyvédi, szabadalmi ügyvivői vagy közjegyzői tevékenységet végez, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a zugírászatot ügyvédi, jogtanácsosi vagy közjegyzői tevékenységre jogosultság színlelésével követik el.
+(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a zugírászatot ügyvédi, szabadalmi ügyvivői vagy közjegyzői tevékenységre jogosultság színlelésével követik el.
 
 ### Zártörés
 
@@ -3625,7 +3651,7 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 (3) Aki nemzetközileg védett személy elleni erőszakra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(4) E § alkalmazásában nemzetközileg védett személy az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján diplomáciai vagy nemzetközi jogon alapuló egyéb mentességet élvez.
+(4)
 
 ### XXX. Fejezet — A KÖZBIZTONSÁG ELLENI BŰNCSELEKMÉNYEK
 
@@ -3639,9 +3665,9 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 a (4) bekezdésben meghatározott személy elleni erőszakos, közveszélyt okozó vagy fegyverrel kapcsolatos bűncselekményt követ el, bűntett miatt tíz évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő, aki az a) pontban meghatározott célból
+(2) Az (1) bekezdés szerint büntetendő, aki
 
-- a) jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé, vagy
+- a) az (1) bekezdés a) pontjában meghatározott célból jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé, vagy
 - b) terrorista csoportot szervez.
 
 (3) Korlátlanul enyhíthető annak a büntetése, aki
@@ -3669,12 +3695,16 @@ ha ezzel közreműködik a bűncselekmény következményeinek megakadályozás�
 
 (3) Nem büntethető, aki az (1) vagy (2) bekezdésben meghatározott bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
 
-316. § Aki
+316. § Aki terrorcselekmény elkövetésével fenyeget, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
-- a) terrorcselekmény elkövetésével fenyeget, vagy
-- b) terrorista csoporthoz csatlakozás céljából Magyarország területéről kiutazik vagy azon átutazik,
+316/A. § (1) Aki
 
-bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+- a) a 314. § (1) vagy (2) bekezdésében meghatározott bűntett elkövetése vagy az elkövetésére történő felhívás, ajánlkozás, vállalkozás, a közös elkövetésben megállapodás, vagy az elkövetés elősegítése céljából az ehhez szükséges vagy ezt könnyítő feltételek biztosítása, illetve
+- b) terrorista csoporthoz csatlakozás
+
+céljából Magyarország területére beutazik, onnan kiutazik vagy azon átutazik, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az (1) bekezdés szerint büntetendő, aki az ott meghatározott utazást szervezi, vagy az ilyen utazás támogatása céljából anyagi eszközt szolgáltat vagy gyűjt.
 
 ### Terrorcselekmény feljelentésének elmulasztása
 
@@ -3682,15 +3712,44 @@ bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel bünteten
 
 ### Terrorizmus finanszírozása
 
-318. § (1) Aki terrorcselekmény feltételeinek biztosításához anyagi eszközt szolgáltat vagy gyűjt, vagy terrorcselekmény elkövetésére készülő személyt vagy rá tekintettel mást anyagi eszközzel támogat, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+318. § (1) Aki
 
-(2) Aki az (1) bekezdésben meghatározott bűncselekményt terrorcselekmény terrorista csoportban történő elkövetése vagy terrorista csoport tagja érdekében valósítja meg, vagy a terrorista csoport tevékenységét egyéb módon támogatja, öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
+- a) terrorcselekmény feltételeinek biztosításához anyagi eszközt szolgáltat vagy gyűjt,
+- b) terrorcselekmény elkövetésére készülő személyt, illetve terrorcselekmény elkövetőjét, vagy e személyekre tekintettel más személyt anyagi eszközzel támogat, vagy
+- c) a b) pontban meghatározott személyek támogatása céljából anyagi eszközt szolgáltat vagy gyűjt,
 
-(3) E § alkalmazásában anyagi eszközön a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 27-i 2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott eszközöket, jogi dokumentumokat és okiratokat kell érteni.
+bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Aki az (1) bekezdésben meghatározott bűncselekményt terrorcselekmény terrorista csoportban történő elkövetése vagy terrorista csoport tagja érdekében valósítja meg, vagy a terrorista csoport tevékenységét egyéb módon támogatja, vagy a terrorista csoport ilyen támogatása céljából anyagi eszközt szolgáltat vagy gyűjt, öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
+
+318/A. § (1) Aki
+
+- a) terror jellegű bűncselekmény feltételeinek biztosításához anyagi eszközt szolgáltat vagy gyűjt,
+- b) terror jellegű bűncselekmény elkövetésére készülő személyt, illetve terror jellegű bűncselekmény elkövetőjét, vagy e személyekre tekintettel más személyt anyagi eszközökkel támogat, vagy
+- c) a b) pontban meghatározott személyek támogatása céljából anyagi eszközt szolgáltat vagy gyűjt,
+
+bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az (1) bekezdés vonatkozásában terror jellegű bűncselekmény:
+
+- a) az emberölés [160. § (1) bekezdés, 160. § (2) bekezdés, ha a cselekmény a nemzetközi polgári repülést kiszolgáló repülőtéren vagy repülésben levő légijármű fedélzetén vagy tengeren hajózó hajón tartózkodó személy, vagy nemzetközileg védett személy ellen irányul],
+- b) a testi sértés (164. §, ha a cselekmény a nemzetközi polgári repülést kiszolgáló repülőtéren vagy repülésben levő légijármű fedélzetén vagy tengeren hajózó hajón tartózkodó személy vagy nemzetközileg védett személy ellen irányul),
+- c) az emberrablás [190. § (1)–(4) bekezdés],
+- d) a közlekedés biztonsága elleni bűncselekmény (232. §, ha a cselekmény légi jármű vagy tengeren hajózó hajó ellen irányul).
+- e) a radioaktív anyaggal visszaélés (250. §),
+- f) a rombolás (257. §),
+- g) a nemzetközileg védett személy elleni erőszak (313. §),
+- h) a jármű hatalomba kerítése (320. §),
+- i) a közveszély okozása [322. § (1)–(3) bekezdés],
+- j) a közérdekű üzem működésének megzavarása (323. §),
+- k) a robbanóanyaggal vagy robbantószerrel visszaélés (324. §, ha a cselekményt közérdekű üzem, illetve középület vagy építmény területén követik el),
+- l) a lőfegyverrel vagy lőszerrel visszaélés (325. §, ha a cselekményt közérdekű üzem, illetve középület vagy építmény területén követik el).
+
+318/B. § A 318. § és a 318/A. § alkalmazásában anyagi eszközön a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 27-i 2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott eszközöket, jogi dokumentumokat és okiratokat kell érteni.
 
 ### Értelmező rendelkezés
 
-319. § A 315. és a 318. § alkalmazásában terrorista csoport a három vagy több személyből álló, hosszabb időre szervezett, összehangoltan működő csoport, amelynek célja terrorcselekmény elkövetése.
+319. § A 314–315. §, a 316/A. § és a 318. § alkalmazásában terrorista csoport a három vagy több személyből álló, hosszabb időre szervezett, összehangoltan működő csoport, amelynek célja terrorcselekmény elkövetése.
 
 ### Jármű hatalomba kerítése
 
@@ -4100,7 +4159,7 @@ céljából az ezekre vonatkozó jogszabályi tilalom vagy korlátozás kijátsz
 
 vonatkozó jogszabályi tilalom vagy korlátozás kijátszásával általa kötött semmis szerződés leplezésére létrehozott megállapodás alapján mező- és erdőgazdasági hasznosítású földet használ, illetve szedi annak hasznait, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) Az (1) bekezdés szerint büntetendő az az ügyvéd, jogtanácsos vagy közjegyző, aki az (1) bekezdés szerinti szerződés megkötésében közreműködik.
+(3) Az (1) bekezdés szerint büntetendő az az ügyvéd, kamarai jogtanácsos vagy közjegyző, aki az (1) bekezdés szerinti szerződés megkötésében közreműködik.
 
 (4) Korlátlanul enyhíthető az (1) és (2) bekezdés szerinti bűncselekmény elkövetőjének a büntetése, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti és az elkövetés körülményeit feltárja.
 
@@ -4879,8 +4938,8 @@ terjedő szabadságvesztés.
   - ad) a védjegyoltalom,
   - ae) a földrajziárujelző-oltalom,
   - af) a formatervezésiminta-oltalom,
-  - ag) a használatiminta-oltalom,
-  - ah) a topográfiaoltalom;
+  - ag)
+  - ah)
 - b) áru alatt értendő minden birtokba vehető forgalomképes ingó dolog és a szolgáltatás.
 
 ### Magánindítvány
@@ -5036,12 +5095,13 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (7) Aki költségvetésből származó pénzeszközökkel kapcsolatban előírt elszámolási, számadási, vagy az előírt tájékoztatási kötelezettségének nem vagy hiányosan tesz eleget, valótlan tartalmú nyilatkozatot tesz, vagy valótlan tartalmú, hamis vagy hamisított okiratot használ fel, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(8) Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádirat benyújtásáig megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy üzletszerűen követik el.
+(8) Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádirat benyújtásáig megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.
 
 (9) E § alkalmazásában
 
 - a) költségvetésen az államháztartás alrendszereinek költségvetését – ideértve a társadalombiztosítás pénzügyi alapjainak költségvetését és az elkülönített állami pénzalapokat –, a nemzetközi szervezet által vagy nevében kezelt költségvetést, valamint az Európai Unió által vagy nevében kezelt költségvetést, pénzalapokat kell érteni. Költségvetésből származó pénzeszköz vonatkozásában elkövetett bűncselekmény tekintetében a felsoroltakon kívül költségvetésen a külföldi állam által vagy nevében kezelt költségvetést, pénzalapokat is érteni kell;
-- b) vagyoni hátrány alatt érteni kell a költségvetésbe történő befizetési kötelezettség nem teljesítése miatt bekövetkezett bevételkiesést, valamint a költségvetésből jogosulatlanul igénybe vett vagy céltól eltérően felhasznált pénzeszközt is.
+- b) vagyoni hátrány alatt érteni kell a költségvetésbe történő befizetési kötelezettség nem teljesítése miatt bekövetkezett bevételkiesést, valamint a költségvetésből jogosulatlanul igénybe vett vagy céltól eltérően felhasznált pénzeszközt is;
+- c) a különös visszaesés szempontjából hasonló jellegű bűncselekmény a költségvetést károsító bűncselekmény.
 
 ### A költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása
 
@@ -5097,7 +5157,7 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 ha a dolog eredetét az elkövetés időpontjában ismerte.
 
-(3) Az (1) bekezdés szerint büntetendő, aki bűncselekményének elkövetéséből származó dolgot ezen eredetének leplezése, titkolása céljából
+(3) Az (1) bekezdés szerint büntetendő, aki büntetendő cselekményének elkövetéséből származó dolgot ezen eredetének leplezése, titkolása céljából
 
 - a) gazdasági tevékenység gyakorlása során felhasználja,
 - b) a dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy pénzügyi szolgáltatást vesz igénybe.
@@ -5106,7 +5166,7 @@ ha a dolog eredetét az elkövetés időpontjában ismerte.
 
 - a) üzletszerűen,
 - b) különösen nagy vagy azt meghaladó értékre,
-- c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként,
+- c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként,
 - d) hivatalos személyként vagy
 - e) ügyvédként
 
@@ -5114,7 +5174,7 @@ követik el.
 
 (5) Aki az (1)–(4) bekezdésben meghatározott pénzmosás elkövetésében megállapodik, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-400. § (1) Aki a más által elkövetett bűncselekményből származó
+400. § (1) Aki a más által elkövetett büntetendő cselekményből származó
 
 - a) dolgot gazdasági tevékenység gyakorlása során felhasználja,
 - b) dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy pénzügyi szolgáltatást vesz igénybe, és gondatlanságból nem tud a dolog ezen eredetéről, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
@@ -5122,7 +5182,7 @@ követik el.
 (2) A büntetés három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt
 
 - a) különösen nagy vagy azt meghaladó értékre,
-- b) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, illetve
+- b) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, illetve
 - c) hivatalos személyként
 
 követik el.
@@ -5137,7 +5197,7 @@ követik el.
 
 402. § (1) A 399–400. § alkalmazásában dolgon a vagyoni jogosultságot megtestesítő olyan okiratot, dematerializált értékpapírt is érteni kell, amely a benne tanúsított vagyoni érték vagy jogosultság feletti rendelkezést önmagában, illetve dematerializált formában kibocsátott értékpapír esetén az értékpapírszámla jogosultjának biztosítja.
 
-(2) A 399–400. § alkalmazásában pénzügyi tevékenységen, illetve pénzügyi szolgáltatás igénybevételén a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási vagy befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealapkezelési, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél, vagy biztosítási, viszontbiztosítási vagy független biztosításközvetítői, illetve önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási tevékenységet, illetve annak igénybevételét kell érteni.
+(2) A 399–400. § alkalmazásában pénzügyi tevékenységen, illetve pénzügyi szolgáltatás igénybevételén a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási vagy befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealapkezelési, tőzsdei, központi értéktári vagy központi szerződő fél, vagy biztosítási, viszontbiztosítási vagy független biztosításközvetítői, illetve önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási tevékenységet, illetve annak igénybevételét kell érteni.
 
 ### XLI. Fejezet — A GAZDÁLKODÁS RENDJÉT SÉRTŐ BŰNCSELEKMÉNYEK
 
@@ -5152,7 +5212,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Az (1) bekezdés szerint büntetendő az egyéni vállalkozó, valamint a számvitelről szóló törvény hatálya alá nem tartozó más gazdálkodó is, aki jogszabályban meghatározott nyilvántartási, bizonylatolási kötelezettségét megszegi, és ezzel vagyoni helyzetének áttekintését, illetve ellenőrzését meghiúsítja.
 
-(3) A büntetés az (1) bekezdés esetén két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény vagy szabályozott ingatlanbefektetési társaság körében követik el.
+(3) A büntetés az (1) bekezdés esetén két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény vagy szabályozott ingatlanbefektetési társaság körében követik el.
 
 (4) E § alkalmazásában a megbízható és valós képet lényegesen befolyásoló a hiba, ha egy adott üzleti évet érintően feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – értékének együttes, előjeltől független összege meghaladja a hiba elkövetésének üzleti évére vonatkozó számviteli beszámolóban kimutatott nettó árbevétel húsz százalékát és mérlegfőösszeg húsz százalékát is. Minden esetben megbízható és valós képet lényegesen befolyásoló a hiba, ha egy adott üzleti évet érintően feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – értékének együttes, előjeltől független összege meghaladja az ötszázmillió forintot.
 
@@ -5212,14 +5272,21 @@ a hitelező vagy a hitelezők kielégítését részben vagy egészben meghiús�
 
 ### Jogosulatlan pénzügyi tevékenység
 
-408. § Aki törvényben előírt engedély nélkül
+408. § (1) Aki törvényben előírt engedély nélkül
 
 - a) pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási,
-- b) befektetési szolgáltatási, illetve befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél,
-- c) biztosítási, viszontbiztosítási vagy független biztosításközvetítési,
-- d) önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási
+- b) befektetési szolgáltatási, illetve befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, tőzsdei, központi értéktári vagy központi szerződő fél,
+- c) biztosítási, viszontbiztosítási,
+- d) önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási
 
 tevékenységet végez, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Aki az (1) bekezdés a)–c) pontjában megjelölt valamely tevékenységhez kapcsolódóan törvényben előírt
+
+- a) engedély nélkül közvetítői tevékenységet végez,
+- b) nyilvántartásba vétel, illetve bejelentés hiányában közvetítői tevékenységet végez oly módon, hogy annak megtörténte ellenőrzését elmulasztotta,
+
+vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 ### Gazdasági adatszolgáltatási kötelezettség elmulasztása
 
@@ -5399,6 +5466,11 @@ követik el.
 - d) elektronikus hírközlő hálózat – ideértve az információs rendszert is – útján másnak továbbított vagy azon tárolt adatot kifürkész, és az észlelteket technikai eszközzel rögzíti,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(1a) Az (1) bekezdés szerint büntetendő, aki személyes adat, magántitok, gazdasági titok vagy üzleti titok jogosulatlan megismerése céljából
+
+- a) nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiséget vagy területet, továbbá – a közösségi közlekedési eszköz kivételével – járművet titokban átkutat,
+- b) nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiségben vagy területen, továbbá – a közösségi közlekedési eszköz kivételével – járművön történteket titokban technikai eszköz alkalmazásával megfigyeli vagy rögzíti.
 
 (2) Az (1) bekezdés szerint büntetendő, aki fedett nyomozó vagy a bűnüldöző hatósággal, illetve titkosszolgálattal titkosan együttműködő személy kilétének vagy tevékenységének megállapítása céljából az (1) bekezdésben meghatározottakon kívül információt gyűjt.
 
@@ -5923,7 +5995,8 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 31. visszaeső a szándékos bűncselekmény elkövetője, ha korábban szándékos bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték, és a büntetés kitöltésétől vagy végrehajthatósága megszűnésétől az újabb bűncselekmény elkövetéséig három év még nem telt el;
   - a) különös visszaeső az a visszaeső, aki mindkét alkalommal ugyanolyan vagy hasonló jellegű bűncselekményt követ el;
   - b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el;
-  - c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el.
+  - c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
+- 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló egyéb mentességet élvez.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 
@@ -5963,7 +6036,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - aa) LSD esetén a 0,001 gramm,
   - ab) pszilocibin esetén a 0,1 gramm,
   - ac) pszilocin esetén a 0,2 gramm,
-  - ad) amfetamin, metamfetamin és MDPV esetén a 0,5 gramm,
+  - ad) amfetamin, metamfetamin, MDPV és alfa-PVP esetén a 0,5 gramm,
   - ae) dihidrokodein esetén a 0,8 gramm,
   - af) heroin esetén a 0,6 gramm,
   - ag) morfin esetén a 0,9 gramm,
@@ -5971,8 +6044,12 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - ai) mefedron, metilon és 4-MEC esetén az 1,5 gramm,
   - aj) kokain esetén a 2 gramm,
   - ak) BZP esetén a 3 gramm,
+  - al) pentedron esetén a 0,4 gramm,
 - b) GHB esetén annak sav formában megadott tiszta hatóanyag-tartalma a 7,5 gramm,
 - c) tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen jelen levő THC-tartalom (totál-THC) a 6 gramm
+- d) annak tiszta hatóanyag-tartalma
+  - da) GBL esetén a 6,2 gramm,
+  - db) AB-CHMINACA, MDMB-CHMICA, AM-2201, AB-PINACA, AB-FUBINACA, és ADB-FUBINACA esetén a 0,05 gramm
 
 mennyiséget nem haladja meg.
 

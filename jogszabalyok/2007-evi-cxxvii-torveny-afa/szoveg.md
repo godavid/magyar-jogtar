@@ -56,7 +56,7 @@ abban az esetben kell alkalmazni, ha arról az a) pontban említett esetben az E
 - a) egyébként nem adóalanyi minőségben eljáró, az 5. § (1) bekezdése értelmében jogképes személy vagy szervezet (a továbbiakban együtt: személy, szervezet) belföldön küldeményként feladott vagy belföldről fuvarozott új közlekedési eszközt értékesít belföldön kívülre, de – a beszerző nevére szóló rendeltetéssel – a Közösség területére, függetlenül attól, hogy a küldeménykénti feladást vagy a fuvarozást akár az értékesítő, akár a beszerző vagy – bármelyikük javára – más végzi;
 - b) egyébként nem adóalanyi minőségben eljáró személy, szervezet beépített ingatlant (ingatlanrészt), és ehhez tartozó földrészletet sorozat jelleggel értékesít, feltéve, hogy
   - ba) annak első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év
+  - bb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély véglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év
 
 [a ba) és bb) alpont a továbbiakban együtt: beépítés alatt álló vagy beépített új ingatlan];
 
@@ -92,7 +92,7 @@ csoportos adóalanyiságot hozhatnak létre.
 - a) az (1) bekezdésben meghatározott adóalanyok (e § alkalmazásában a továbbiakban: tag vagy tagok) belső, egymás közötti kapcsolataiban a tevékenység gazdasági tevékenységként megszűnik, és tagok önálló adóalanyisága – a (6) bekezdésben említett kivétellel – szintén megszűnik, valamint
 - b) a tagok külső, harmadik féllel szembeni kapcsolataiban a gazdasági tevékenység folytatása olyan adóalanyiságot eredményez, amelyben az ehhez fűződő jogok és kötelezettségek a csoportos adóalanyiságban részt vevő valamennyi tagnak együttesen tudhatók be.
 
-(3) A csoportos adóalanyiság az állami adóhatóság engedélyével jön létre, valamennyi leendő tag erre irányuló közös, kifejezett és egybehangzó írásos kérelmére. Nem kérelmezheti a csoportos adóalanyiságot az az adóalany, aki (amely) valamely más csoportos adóalanyiságban már tagként részt vesz, vagy valamely más csoportos adóalanyiság létrehozatalára irányuló kérelmét már benyújtotta és annak elbírálása jogerősen még nem zárult le. Abban az esetben, ha van olyan adóalany, akire (amelyre) teljesülnek az (1) bekezdésben meghatározott feltételek, de nem kíván a csoportos adóalanyiságban tagként részt venni (e § alkalmazásában a továbbiakban: kívül maradó adóalany), a kérelemnek tartalmaznia kell még a kívül maradó adóalany hozzájáruló nyilatkozatát a csoportos adóalanyiság létrehozatalára. A kérelemnek, illetőleg kívül maradó adóalany esetében a hozzájáruló nyilatkozatnak tartalmaznia kell továbbá:
+(3) A csoportos adóalanyiság az állami adóhatóság engedélyével jön létre, valamennyi leendő tag erre irányuló közös, kifejezett és egybehangzó írásos kérelmére. Nem kérelmezheti a csoportos adóalanyiságot az az adóalany, aki (amely) valamely más csoportos adóalanyiságban már tagként részt vesz, vagy valamely más csoportos adóalanyiság létrehozatalára irányuló kérelmét már benyújtotta és annak elbírálása véglegessé vált döntéssel még nem zárult le. Abban az esetben, ha van olyan adóalany, akire (amelyre) teljesülnek az (1) bekezdésben meghatározott feltételek, de nem kíván a csoportos adóalanyiságban tagként részt venni (e § alkalmazásában a továbbiakban: kívül maradó adóalany), a kérelemnek tartalmaznia kell még a kívül maradó adóalany hozzájáruló nyilatkozatát a csoportos adóalanyiság létrehozatalára. A kérelemnek, illetőleg kívül maradó adóalany esetében a hozzájáruló nyilatkozatnak tartalmaznia kell továbbá:
 
 - a) a tagok által kijelölt képviselőt és a képviselő feltétlen beleegyező nyilatkozatát a képviselet vállalására; továbbá
 - b) tagonként külön-külön:
@@ -107,7 +107,7 @@ csoportos adóalanyiságot hozhatnak létre.
 
 (4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő.
 
-(5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a (3) bekezdésben említett állami adóhatósági engedély jogerőre emelkedésének napját megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
+(5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a (3) bekezdésben említett állami adóhatósági engedély véglegessé válásának napját megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 
 (6) A csoportos adóalanyiságban részt vevő bármely tag – mind a csoportos adóalanyiság időszakában, mind azt követően – egyetemlegesen felelős a csoportos adóalanyiságban részt vevő valamennyi többi taggal együtt a csoportos adóalanyiságban részt vevő tagnak
 
@@ -126,9 +126,9 @@ csoportos adóalanyiságot hozhatnak létre.
 
 meghatározott feltételek teljesítését.
 
-(9) Az a kívül maradó, illetőleg az a csatlakozó új adóalany, aki (amely) tagként csatlakozik a csoportos adóalanyisághoz, a (8) bekezdésben említett állami adóhatósági engedély jogerőre emelkedésének napját megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
+(9) Az a kívül maradó, illetőleg az a csatlakozó új adóalany, aki (amely) tagként csatlakozik a csoportos adóalanyisághoz, a (8) bekezdésben említett állami adóhatósági engedély véglegessé válásának napját megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 
-(10) A csoportos adóalanyiságban részt vevő tag dönthet úgy is, hogy a csoportos adóalanyiságból kiválni szándékozik. A csoportos adóalanyiságból történő kiválás az állami adóhatóság engedélyével jön létre, a kiválni szándékozó tag erre irányuló kifejezett írásos kérelmére. A kérelemnek tartalmaznia kell még a csoportos adóalanyiságban részt vevő valamennyi többi tagnak a közös, kifejezett és egybehangzó beleegyező nyilatkozatát a tag kiválásáról. A kérelemnek tartalmaznia kell továbbá a kiválni szándékozó tag kötelezettségvállalását arra, hogy a kiválás jogerőre emelkedésének napjától kívül maradó adóalanyként teljesíti a (3) bekezdés cc) alpontjában meghatározott feltételt.
+(10) A csoportos adóalanyiságban részt vevő tag dönthet úgy is, hogy a csoportos adóalanyiságból kiválni szándékozik. A csoportos adóalanyiságból történő kiválás az állami adóhatóság engedélyével jön létre, a kiválni szándékozó tag erre irányuló kifejezett írásos kérelmére. A kérelemnek tartalmaznia kell még a csoportos adóalanyiságban részt vevő valamennyi többi tagnak a közös, kifejezett és egybehangzó beleegyező nyilatkozatát a tag kiválásáról. A kérelemnek tartalmaznia kell továbbá a kiválni szándékozó tag kötelezettségvállalását arra, hogy a kiválás véglegessé válásának napjától kívül maradó adóalanyként teljesíti a (3) bekezdés cc) alpontjában meghatározott feltételt.
 
 (11) A csoportos adóalanyiság az állami adóhatósági engedély visszavonásával szűnik meg. Az engedélyt az állami adóhatóság visszavonja, ha
 
@@ -142,7 +142,7 @@ meghatározott feltételek teljesítését.
   - fb) csatlakozni kíván csatlakozó új tagként, de azt az állami adóhatóság a (8) bekezdés értelmében nem engedélyezi;
 - g) a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül megszűnik.
 
-(12) A (11) bekezdésben említett állami adóhatósági engedély visszavonásának jogerőre emelkedésének napjával, mint fordulónappal a csoportos adóalanyiságban részt vevő valamennyi tag együttesen köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg, kivéve azt az esetet, ha a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül szűnik meg.
+(12) A (11) bekezdésben említett állami adóhatósági engedély visszavonásának véglegessé válásának napjával, mint fordulónappal a csoportos adóalanyiságban részt vevő valamennyi tag együttesen köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg, kivéve azt az esetet, ha a csoportos adóalanyiságban részt vevő valamennyi tag jogutód nélkül szűnik meg.
 
 8/A. § (1) A 8. § alkalmazásában nem kell együttesen kapcsolt vállalkozásoknak tekinteni azokat az adóalanyokat, akik (amelyek) kizárólag azért minősülnek kapcsolt vállalkozásnak, mert a Magyar Állam vagy helyi önkormányzat a Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) megfelelő alkalmazásával harmadik személyként közvetlenül vagy közvetve többségi befolyással rendelkezik bennük.
 
@@ -587,7 +587,7 @@ a termék importjának teljesítési helye a Közösség azon tagállama, ahol a
 
 57. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha az ügylet tárgya természetben osztható és a részteljesítésnek egyéb akadálya nincs, a részteljesítés is teljesítés.
 
-(2) Bírósági vagy más hatósági eljárás keretében bíróságnak vagy más hatóságnak nyújtott szolgáltatás esetében, ha az ennek fejében járó ellenértéket a bíróság vagy más hatóság határozattal (végzéssel) állapítja meg, teljesítés az ellenértéket megállapító jogerős határozatnak (végzésnek) a szolgáltatás nyújtójával történő közlése.
+(2) Bírósági vagy más hatósági eljárás keretében bíróságnak vagy más hatóságnak nyújtott szolgáltatás esetében, ha az ennek fejében járó ellenértéket a bíróság vagy más hatóság határozattal (végzéssel) állapítja meg, teljesítés az ellenértéket megállapító jogerős határozatnak (végzésnek) vagy véglegessé vált döntésnek a szolgáltatás nyújtójával történő közlése.
 
 58. § (1) Amennyiben a felek a termékértékesítés, szolgáltatásnyújtás során időszakonkénti elszámolásban vagy fizetésben állapodnak meg, vagy a termékértékesítés, szolgáltatásnyújtás ellenértékét meghatározott időszakra állapítják meg, teljesítés az elszámolással vagy fizetéssel érintett időszak utolsó napja.
 
@@ -911,16 +911,16 @@ kivéve az uszoda- és strandfürdő-szolgáltatást, a sportesemény megtekint�
 
 (5) A (4) bekezdés h) pontjában felsorolt feltételek teljesülésétől függetlenül, az a személy, szervezet, akit (amelyet) a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) rendelkezései alapján, az (1) és (2) bekezdésben meghatározott bármely tevékenységét érintően bírósági vagy más hatósági határozat
 
-- a) megállapította a magatartás törvénybe ütközését, elrendelte a megtévesztésre alkalmas tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét [Tpvt. 77. §-a (1) bekezdésének d) és h) pontja, illetőleg 86. §-a (2) bekezdésének a) és c) pontja], a határozat jogerőre emelkedésétől az azt követő naptári év végéig,
-- b) elrendelte a törvénybe ütköző állapot megszüntetését, megtiltotta a törvénybe ütköző magatartás további folytatását, a törvénybe ütközés megállapítása esetén kötelezettséget írt elő [Tpvt. 77. §-a (1) bekezdésének e)–g) pontjai, illetőleg 86. §-a (2) bekezdésének b) és d) pontja], a határozat jogerőre emelkedésétől az azt követő második naptári év végéig,
-- c) a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt okozó törvénybe ütköző tevékenysége miatt, kötelezett az ár leszállítására, az áru kijavítására vagy kicserélésére, illetőleg az ár visszafizetésére [Tpvt. 92. §-a], a határozat jogerőre emelkedésétől az azt követő harmadik naptári év végéig
+- a) megállapította a magatartás törvénybe ütközését, elrendelte a megtévesztésre alkalmas tájékoztatással kapcsolatban helyreigazító nyilatkozat közzétételét [Tpvt. 77. §-a (1) bekezdésének d) és h) pontja, illetőleg 86. §-a (2) bekezdésének a) és c) pontja], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő naptári év végéig,
+- b) elrendelte a törvénybe ütköző állapot megszüntetését, megtiltotta a törvénybe ütköző magatartás további folytatását, a törvénybe ütközés megállapítása esetén kötelezettséget írt elő [Tpvt. 77. §-a (1) bekezdésének e)–g) pontjai, illetőleg 86. §-a (2) bekezdésének b) és d) pontja], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő második naptári év végéig,
+- c) a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt okozó törvénybe ütköző tevékenysége miatt, kötelezett az ár leszállítására, az áru kijavítására vagy kicserélésére, illetőleg az ár visszafizetésére [Tpvt. 92. §-a], a határozat jogerőre emelkedésétől vagy véglegessé válásától az azt követő harmadik naptári év végéig
 
 nem minősül közszolgáltatónak.
 
 (6) E § és a 85/A. § alkalmazásában
 
 - a) együttműködő közösség:
-  - aa) az együttműködő közösség leendő tagjai által a közös cél elérésére, a Ptk. rendelkezései szerint létrehozott polgári jogi társaság, amelynek kizárólag e cél elérésére szolgáló adóalanyisága – e törvény egyéb rendelkezéseitől függetlenül – valamennyi szerződő fél közös, kifejezett és egybehangzó írásos kérelmére az állami adóhatóság engedélyével, annak jogerőre emelkedésének napjával jön létre, vagy
+  - aa) az együttműködő közösség leendő tagjai által a közös cél elérésére, a Ptk. rendelkezései szerint létrehozott polgári jogi társaság, amelynek kizárólag e cél elérésére szolgáló adóalanyisága – e törvény egyéb rendelkezéseitől függetlenül – valamennyi szerződő fél közös, kifejezett és egybehangzó írásos kérelmére az állami adóhatóság engedélyével, annak véglegessé válásának napjával jön létre, vagy
   - ab) az a személy, szervezet, aki (amely) egyébként adóalany;
 - b) együttműködő közösség tagja: az a személy, szervezet, aki (amely) az a) pont
   - ba) aa) alpontja szerinti együttműködő közösséget létrehozó polgári jogi társaság tagja,
@@ -962,7 +962,7 @@ nem minősül közszolgáltatónak.
 - b) bemutatni azt a nyilvántartási rendszert, amely mind a maga, mind az együttműködő közösség tagjai részéről eleget tesz a (3) bekezdésnek; valamint
 - c) nyilatkozni mind a maga nevében, mind az együttműködő közösség tagjai nevében és képviseletében arról, hogy teljesítik az együttműködő közösség időszakában az (1), (3) és (4) bekezdést.
 
-(9) A (8) bekezdésben meghatározott kötelezettségek teljesítésére – ideértve az együttműködő közösség megszüntetését is – az az adózás rendjéről szóló törvény (a továbbiakban: Art.) változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.
+(9) A (8) bekezdésben meghatározott kötelezettségek teljesítésére – ideértve az együttműködő közösség megszüntetését is – az az adóigazgatási eljárás részletszabályairól szóló kormányrendelet (a továbbiakban: Adóig. vhr.) változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.
 
 ### Adó alóli mentesség a tevékenység egyéb sajátos jellegére tekintettel
 
@@ -979,7 +979,7 @@ nem minősül közszolgáltatónak.
 - i) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték-szolgáltatás nyújtása, ideértve ezek közvetítését is, valamint a szerencsejáték szervezésére vonatkozó tevékenység gyakorlása jogának az állam által koncessziós szerződéssel történő átengedése;
 - j) a beépített ingatlan (ingatlanrész) és az ehhez tartozó földrészlet értékesítése, kivéve annak a beépített ingatlannak (ingatlanrésznek) és az ehhez tartozó földrészletnek az értékesítését, amelynek
   - ja) első rendeltetésszerű használatbavétele még nem történt meg; vagy
-  - jb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év;
+  - jb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély véglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év;
 - k) a beépítetlen ingatlan (ingatlanrész) értékesítése, kivéve az építési telek (telekrész) értékesítését;
 - l) az ingatlan (ingatlanrész) bérbeadása, haszonbérbeadása;
 - m) a védelem terén alapvető biztonsági érdeket érintő, kifejezetten katonai, rendvédelmi, rendészeti célokra szánt termék vagy szolgáltatás központi költségvetési szerv részére nemzetközi megállapodáson alapuló értékesítése, és a magyar állam vagy a képviseletében eljáró központi költségvetési szerv részére nemzetközi megállapodáson alapuló térítésmentes átadása.
@@ -1001,7 +1001,7 @@ nem minősül közszolgáltatónak.
 
 ### Adókötelessé tétel
 
-88. § (1) A 86. § (1) bekezdésétől eltérően a belföldön nyilvántartásba vett adóalany az állami adóhatóságnak tett előzetes bejelentése alapján dönthet úgy is, hogy
+88. § (1) A 86. § (1) bekezdésétől eltérően a belföldön nyilvántartásba vett adóalany az állami adó- és vámhatóságnak tett bejelentése alapján dönthet úgy is, hogy
 
 - a) a 86. § (1) bekezdésének j) és k) pontjában említett termékértékesítését, illetőleg
 - b) a 86. § (1) bekezdésének l) pontjában említett szolgáltatásnyújtását
@@ -1015,6 +1015,8 @@ adókötelessé teszi.
 (4) A belföldön nyilvántartásba vett adóalany dönthet úgy is, hogy választási jogát az (1) bekezdés a) és b) pontja tekintetében külön-külön vagy együttesen csak a lakóingatlannak nem minősülő ingatlanokra kiterjedően gyakorolja.
 
 (5) Az az adóalany, aki (amely) élt az (1) bekezdésben említett választási jogával, attól a választása évét követő ötödik naptári év végéig nem térhet el.
+
+(6) Az adóalany döntését a tárgyévet megelőző év utolsó napjáig jelenti be. Amennyiben az adóalany az (1) bekezdés a), illetve b) pontja alá tartozó tevékenységet a tárgyévben kezdi meg, döntését tevékenysége megkezdését megelőzően jelenti be.
 
 ### Adó alóli mentesség termék Közösségen belüli értékesítése esetében
 
@@ -1039,13 +1041,15 @@ adókötelessé teszi.
 
 (2) Az (1) bekezdésben említett meghatalmazást a termék kiraktározásának indítványozásakor a kiraktározási okmánnyal együtt kell az adóraktár felügyeletét ellátó vámszervhez benyújtani.
 
-(3) Érvényes meghatalmazás alapján a 89. § (1) bekezdés szerinti adómentesség érvényesítéséhez fűződő feltételeket az adóraktár üzemeltetője teljesíti azzal, hogy az e törvényben és az Art.-ben meghatározott kötelezettségnek saját nevében úgy tesz eleget, hogy
+(3) Érvényes meghatalmazás alapján a 89. § (1) bekezdés szerinti adómentesség érvényesítéséhez fűződő feltételeket az adóraktár üzemeltetője teljesíti azzal, hogy az e törvényben és az adózás rendjéről szóló törvényben (a továbbiakban: Art.) meghatározott kötelezettségnek saját nevében úgy tesz eleget, hogy
 
 - 1. az ügylet teljesítését tanúsító számlát, mint az adófizetésre kötelezett meghatalmazottja bocsátja ki;
 - 2. arról adófizetésre kötelezett adóalanyonként, ezen belül meghatalmazásonként egymástól elkülönített nyilvántartást vezet;
 - 3. bevallásában és összesítő nyilatkozatában az ügyletre vonatkozó adatokat a saját adataihoz képest elkülönítetten közli.
 
 (4) Az adófizetésre kötelezett adóalany és az adóraktár üzemeltetője közötti meghatalmazás visszavonása nem érinti az adóraktár üzemeltetőjének a 4. számú melléklet 19. pontja szerinti adóbiztosíték-nyújtási kötelezettségét, ha a megszűnés azt követően következik be, hogy a meghatalmazást a (2) bekezdés szerint az adóraktár felügyeletét ellátó vámszervhez benyújtották.
+
+(5) Az adóraktár üzemeltetője az (1) bekezdés szerinti tevékenységét annak megkezdésével egyidejűleg jelenti be az állami adó- és vámhatóságnak.
 
 90. § (1) A 89. § (1) bekezdése nem alkalmazható abban az esetben, ha a terméket
 
@@ -1153,7 +1157,7 @@ adókötelessé teszi.
 
 - a) igazolja, hogy az (1) bekezdés b) pontjában meghatározott feltétel teljesült, és
 - b) eleget tesz az (1) bekezdés a) pontjához fűződő,
-  - ba) Art. szerinti összesítőnyilatkozat-tételi kötelezettségnek, vagy
+  - ba) a 4/A. számú melléklet I. pont szerinti összesítőnyilatkozat-tételi kötelezettségnek, vagy
   - bb) bevallási kötelezettségnek [184. §], ha a ba) alpontban említett kötelezettség a (3) bekezdésben meghatározott határidő lejártát követő 15. naphoz képest később válik esedékessé, vagy
   - bc) fizetendőadó-megállapítási kötelezettségnek [60. § (4) bekezdése] az ügylet teljesítését tanúsító számla vagy – számla hiányában – a kötelezettség teljesítését igazoló egyéb okirat bemutatásával, ha a bb) alpontban említett kötelezettség a (3) bekezdésben meghatározott határidő lejártát követő 15. naphoz képest később válik esedékessé.
 
@@ -1180,6 +1184,8 @@ adókötelessé teszi.
 (4) A 95. § (6) és (10) bekezdésében említett esetekben a közvetett vámjogi képviselő az importálóval együtt egyetemlegesen felelős az adó megfizetéséért.
 
 (5) Az importáló és közvetett vámjogi képviselője közötti megbízási szerződés megszűnése vagy a meghatalmazás visszavonása nem érinti a közvetett vámjogi képviselő (4) bekezdés szerinti felelősségét az adó megfizetéséért, ha a megszűnés azt követően következik be, miután a meghatalmazást a (2) bekezdés szerint a vámhatóságnak benyújtották.
+
+(6) A közvetett vámjogi képviselő az (1) bekezdés szerinti tevékenységét annak megkezdésével egyidejűleg jelenti be az állami adó- és vámhatóságnak.
 
 97. § A 93–95. §-októl függetlenül mentes az adó alól a termék importja akkor is, ha az jogszabályban kihirdetett nemzetközi szerződésben szabályozott kötelező vámmentességen alapul, kivéve az oktatási, a tudományos és a kulturális jellegű tárgyak behozataláról szóló nemzetközi szerződést kihirdető jogszabályban szabályozott vámmentességet.
 
@@ -1608,13 +1614,9 @@ terjedő tartamban az adóalany adólevonási jogát – az adólevonási jog gy
 
 (2) Ha az (1) bekezdés szerint az eredetileg levonható előzetesen felszámított adó összegéhez képest különbözet keletkezik, és annak összege abszolút értékben kifejezve eléri vagy meghaladja az 1000 forintnak megfelelő pénzösszeget, a különbözetre a 153/C. § (1)–(2) bekezdését kell megfelelően alkalmazni.
 
-### Adólevonási jog felfüggesztése, elenyészése
+### Adólevonási jog elenyészése
 
-137. § (1) Abban az esetben, ha az állami adóhatóság – az Art. rendelkezései alapján – az adóalany adószámát felfüggeszti, az adóalany adólevonási jogát az adószám felfüggesztését elrendelő határozat jogerőre emelkedésének napjától kezdődően – az adólevonási jog gyakorlásának egyéb feltételeitől függetlenül – nem gyakorolhatja.
-
-(2) Abban az esetben, ha az állami adóhatóság – az Art. rendelkezései alapján – az adóalany adószámának felfüggesztését úgy szünteti meg, hogy nem törli az adóalany adószámát, az adóalany adólevonási jogát az adószám felfüggesztését megszüntető határozat jogerőre emelkedésének napjától kezdődően – az adólevonási jog gyakorlásának egyéb feltételeinek sérelme nélkül – ismét gyakorolhatja.
-
-(3) Abban az esetben, ha az állami adóhatóság – az Art. rendelkezései alapján – az adóalany adószámának felfüggesztését úgy szünteti meg, hogy egyúttal törli az adóalany adószámát, az adóalany adólevonási joga az adószám törlését elrendelő határozat jogerőre emelkedésének napjával elenyészik. Elenyészik az adóalany adólevonási joga az adószám törlését elrendelő határozat jogerőre emelkedésének napjával abban az esetben is, ha az adóhatóság az adóalany adószámát annak felfüggesztése nélkül törli.
+137. § Ha az állami adó- és vámhatóság az adóalany adószámát törli, az adóalany adólevonási joga az adószám törlését elrendelő határozat véglegessé válásának napjával elenyészik.
 
 ### VIII. Fejezet — ADÓFIZETÉSRE KÖTELEZETT
 
@@ -1642,11 +1644,11 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 
 - a) a 10. § d) pontja szerinti termékértékesítés esetében;
 - b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása építési hatósági engedély-köteles, építési hatósági tudomásulvételi eljáráshoz vagy egyszerű bejelentéshez kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
-- c) a termékértékesítéshez és szolgáltatásnyújtáshoz – ideértve azt is, ha az nem kötött építési hatósági engedélyhez vagy építési hatósági tudomásulvételi eljáráshoz – munkaerő kölcsönzése, kirendelése, személyzet rendelkezésre bocsátása, illetve iskolaszövetkezet szolgáltatásának igénybevétele esetében;
+- c) a termékértékesítéshez és szolgáltatásnyújtáshoz – ideértve azt is, ha az nem kötött építési hatósági engedélyhez vagy építési hatósági tudomásulvételi eljáráshoz – munkaerő kölcsönzése, kirendelése, személyzet rendelkezésre bocsátása, illetve iskolaszövetkezet, közérdekű nyugdíjas szövetkezet szolgáltatásának igénybevétele esetében;
 - d) a 6. számú mellékletben felsorolt termékek értékesítése esetében;
 - e) a 86. § (1) bekezdésének j) és k) pontja alá tartozó termékértékesítés esetében, ha az értékesítő adóalany élt a 88. §-ban említett választási jogával;
 - f) az adós és a hitelező, valamint az adós és a hitelező által kijelölt harmadik személy viszonylatában olyan termék értékesítése esetében, amely dologi biztosítékként lejárt követelés kielégítésének érvényesítésére irányul;
-- g) a vállalkozásban tárgyi eszközként használt termék értékesítése, valamint egyéb, a teljesítésekor a szokásos piaci árat tekintve 100 000 forintnak megfelelő pénzösszeget meghaladó termékértékesítés, szolgáltatásnyújtás esetében, ha a teljesítésre kötelezett adóalany felszámolási vagy bármely más, fizetésképtelenségét jogerősen megállapító eljárás hatálya alatt áll;
+- g) a vállalkozásban tárgyi eszközként használt termék értékesítése, valamint egyéb, a teljesítésekor a szokásos piaci árat tekintve 100 000 forintnak megfelelő pénzösszeget meghaladó termékértékesítés, szolgáltatásnyújtás esetében, ha a teljesítésre kötelezett adóalany felszámolási vagy bármely más, fizetésképtelenségét jogerősen vagy véglegessé vált döntéssel megállapító eljárás hatálya alatt áll;
 - h) üvegházhatású gáz kibocsátására jogosító forgalomképes vagyoni értékű jog (kibocsátási egység) átruházása esetében;
 - i) a 6/A. számú mellékletben felsorolt termékek értékesítése esetében;
 - j) a 6/B. számú mellékletben felsorolt termék értékesítése esetén, amennyiben az nem tartozik a XVI. Fejezet szerinti különös rendelkezések hatálya alá.
@@ -1670,6 +1672,8 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 (7) Az (1) bekezdés alkalmazása esetében a termék értékesítője, szolgáltatás nyújtója olyan számla kibocsátásáról gondoskodik, amelyben áthárított adó, illetőleg a 83. §-ban meghatározott százalékérték nem szerepel.
 
 (8) Az (1) bekezdés i) pontja nem alkalmazható a XIV. Fejezetben szabályozott jogállású, mezőgazdasági tevékenységet folytató adóalanynak e tevékenysége körébe tartozó termékértékesítésére és termékbeszerzésére.
+
+(9) Az adóalany az (1) bekezdés i) és j) pontja alá tartozó termékértékesítéséről a 6/C. számú melléklet szerinti nyilatkozattételre kötelezett.
 
 ### Adófizetésre kötelezett termék Közösségen belüli beszerzése esetében
 
@@ -1720,7 +1724,7 @@ fizeti.
 
 149. § (1) Az adóalany egyidejűleg csak egy pénzügyi képviselőt bízhat meg ilyen tevékenység folytatására.
 
-(2) A pénzügyi képviselet e törvényben nem szabályozott kérdéseiben az Art. rendelkezéseit kell alkalmazni.
+(2) A pénzügyi képviselet e törvényben nem szabályozott kérdéseiben az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) rendelkezéseit kell alkalmazni.
 
 ### Adófizetési kötelezettség egyéb esetei
 
@@ -1813,7 +1817,11 @@ legyenek.
 
 154. § (1) Arra a személyre, szervezetre, akinek (amelynek) adóalanyisága kizárólag a 6. § (4) bekezdésének b) és c) pontján alapul, valamint adófizetésre a 140. § a) pontja alapján nem kötelezett, az adót az állami adóhatóság állapítja meg.
 
-(2) Új közlekedési eszköz Közösségen belüli beszerzése esetében, ha az új közlekedési eszköz egyúttal a regisztrációs adóról szóló törvény hatálya alá is tartozik, és annak beszerzője a 143. § (1) bekezdésének b) pontjában és (2) bekezdésében meghatározott személy, szervezet, az adót a vámhatóság állapítja meg.
+(2) Új közlekedési eszköz Közösségen belüli beszerzése esetében, ha
+
+- a) az új közlekedési eszköz egyúttal a regisztrációs adóról szóló törvény hatálya alá is tartozik, és
+- b) annak beszerzője a 20. § (1) bekezdés d) pontjában meghatározott személy, szervezet vagy bármely más nem adóalany személy, szervezet, valamint
+- c) a beszerző egyúttal a regisztrációs adó alanya az adót az állami adó- és vámhatóság állapítja meg.
 
 155. § (1) Termék importja esetében az adót a vámhatóság állapítja meg az adófizetésre kötelezettre.
 
@@ -1842,9 +1850,9 @@ kell vizsgálni.
 
 (4) A (2) bekezdésben meghatározott feltételek teljesülését az engedély iránti kérelemben kell igazolni. Abban az esetben, ha az engedély megszerzéséhez szükséges feltételek közül a kérelmező a (2) bekezdés b) pontjának teljesülését igazolja, a kérelmet legkésőbb a (2) bekezdés b) pontjában említett naptári évet követő év szeptember 30. napjáig kell benyújtani.
 
-(5) A (2) bekezdés b) pontját érintően tett önellenőrzés vagy utólagos adómegállapítás – ide nem értve a kérelem benyújtásáig beadott önellenőrzést, illetőleg az addig az időpontig jogerőre emelkedett utólagos adómegállapítást – az elbírált kérelmet nem érinti.
+(5) A (2) bekezdés b) pontját érintően tett önellenőrzés vagy utólagos adómegállapítás – ide nem értve a kérelem benyújtásáig beadott önellenőrzést, illetőleg az addig az időpontig véglegessé vált utólagos adómegállapítást – az elbírált kérelmet nem érinti.
 
-(6) Az engedélyes az adó önadózással történő megállapítására az engedélyező határozat jogerőre emelkedésének napjától
+(6) Az engedélyes az adó önadózással történő megállapítására az engedélyező határozat véglegessé válásának napjától
 
 - a) számított 12 hónapig jogosult, ha jogosultságát a (2) bekezdésben meghatározott feltételek közül – az a) pont mellett – a b) pont teljesülésére alapítja;
 - b) határozatlan időtartamig jogosult, ha jogosultságát a (2) bekezdésben meghatározott feltételek közül – az a) pont mellett – a c) vagy d) pont teljesülésére alapítja.
@@ -2094,7 +2102,7 @@ számlakibocsátási kötelezettséget jelent.
 
 178. § (1) Külön jogszabály a számla és a nyugta kiállításának módjára, ideértve a nyugta-kibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítását is, valamint a számla és a nyugta adóigazgatási azonosítására egyéb rendelkezéseket is megállapíthat.
 
-(1a) A nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén a géppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adóhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az Art. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítására szolgáló pénztárgép működését az állami adóhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adóhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit nem kapcsolhatja össze a pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adóhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adóhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.
+(1a) A nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén a géppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adóhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítására szolgáló pénztárgép működését az állami adóhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adóhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit nem kapcsolhatja össze a pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adóhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adóhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.
 
 (2) Számla magyar nyelven vagy élő idegen nyelven egyaránt kiállítható. E rendelkezés alkalmazásától az (1) bekezdésben említett esetben sem lehet eltérni.
 
@@ -2204,7 +2212,7 @@ nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 - b) az aa) alpont alá nem tartozó új közlekedési eszköz 89. § (1) és (2) bekezdés szerinti értékesítése,
 - c) az aa) alpont alá nem tartozó beépített ingatlan (ingatlanrész) és ehhez tartozó földrészlet értékesítése, amelynek
   - ca) első rendeltetésszerű használatbavétele még nem történt meg, vagy
-  - cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év,
+  - cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély véglegessé válása, vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év,
 - d) az aa) alpont alá nem tartozó építési telek (telekrész) értékesítése,
 - e) a 85. § (1) bekezdése szerinti adómentes termékértékesítés, szolgáltatásnyújtás,
 - f) a 86. § (1) bekezdésének a)–g) pontjai szerinti adómentes, kiegészítő jellegű szolgáltatásnyújtás,
@@ -2228,7 +2236,7 @@ fejében megtérített vagy megtérítendő ellenérték.
 
 192. § (1) Az adóalany az alanyi adómentesség választásáról, illetőleg annak megszűnéséről az állami adóhatóságnak nyilatkozik.
 
-(2) Az (1) bekezdésben említett nyilatkozattételre az Art. változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.
+(2) Az adóalany az (1) bekezdésben említett nyilatkozatot a tárgyévet megelőző év utolsó napjáig teszi meg. Ha az alanyi adómentesség a 191. § (1) bekezdés b) vagy c) pontja szerint szűnik meg, az adóalany az (1) bekezdésben említett nyilatkozatot az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint teszi meg.
 
 193. § (1) Az adóalany az alanyi adómentesség időszakában nem járhat el alanyi adómentes minőségében
 
@@ -2340,7 +2348,7 @@ kell alkalmazni.
 
 196/G. § (1) Az adóalany a pénzforgalmi elszámolás választásáról, illetőleg annak megszűnéséről az állami adóhatóságnak nyilatkozik.
 
-(2) Az (1) bekezdésben említett nyilatkozattételre az Art. változásbejelentésre vonatkozó rendelkezéseit kell alkalmazni.
+(2) Az adóalany az (1) bekezdésben említett nyilatkozatot a tárgyévet megelőző év utolsó napjáig teszi meg. Ha a pénzforgalmi elszámolás a 196/F. § (1) bekezdés b), d) vagy e) pontja szerint szűnik meg, az adóalany az (1) bekezdésben említett nyilatkozatot az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint teszi meg.
 
 ### XIV. Fejezet — MEZŐGAZDASÁGI TEVÉKENYSÉGET FOLYTATÓ ADÓALANYRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -2361,6 +2369,8 @@ ilyen minőségében e fejezet rendelkezései alkalmazandók (a továbbiakban: m
 - b) jogállása a (2) bekezdés szerint megszűnik,
 
 a választás, illetőleg a megszűnés évét követő második naptári év végéig az adóalanyt nem illeti meg az e fejezetben szabályozott jogállás.
+
+(4) Az adóalany e fejezet szerinti jogállásának megváltoztatásáról előzetesen az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint, a megszűnéséről a tárgyévet megelőző naptári év utolsó napjáig nyilatkozik az állami adó- és vámhatóságnak.
 
 198. § (1) E fejezet alkalmazásában mezőgazdasági tevékenység:
 
@@ -2583,7 +2593,7 @@ tünteti fel.
 
 (3) Abban az esetben, ha a (2) bekezdés szerinti számítás eredményeként a különbözet nem pozitív előjelű, árrésként nulla érték veendő figyelembe.
 
-218. § (1) A belföldön nyilvántartásba vett viszonteladó – az állami adóhatóságnak tett előzetes bejelentése alapján – dönthet úgy is, hogy az egyedi nyilvántartáson alapuló módszer helyett az adómegállapítási időszakban fizetendő adó összegének megállapítása érdekében a globális nyilvántartáson alapuló módszert alkalmazza.
+218. § (1) A belföldön nyilvántartásba vett viszonteladó dönthet úgy is, hogy az egyedi nyilvántartáson alapuló módszer helyett az adómegállapítási időszakban fizetendő adó összegének megállapítása érdekében a globális nyilvántartáson alapuló módszert alkalmazza. Ezen döntését a viszonteladó a tárgyévet megelőző év utolsó napjáig jelenti be az állami adó- és vámhatóságnak.
 
 (2) A globális nyilvántartáson alapuló módszer alkalmazása esetében a viszonteladó által fizetendő adó összesített alapja az azonos adómérték alá eső termékeknek az adó-megállapítási időszakra összesített árréstömege, csökkentve magával az erre az árréstömegre jutó adó összegével.
 
@@ -2601,6 +2611,8 @@ tünteti fel.
 - b) műalkotás annak alkotójától vagy az alkotó jogutódjától történő közvetlen beszerzése esetében.
 
 (2) A globális nyilvántartáson alapuló módszer választása mellett sem alkalmazható ez a módszer az (1) bekezdésre kiterjedően. Ilyen esetben a viszonteladó a 219. § (1) bekezdését sem alkalmazhatja.
+
+(3) A viszonteladó az (1) bekezdés szerinti döntését a tárgyévet megelőző év utolsó napjáig jelenti be.
 
 221. § Mentes az adó alól a viszonteladó termékértékesítése, ha az a 98. § (1) bekezdése, a 103. és 104. §, valamint 107. § (1) bekezdése alapján, az ott meghatározott feltételek szerint történik.
 
@@ -2630,7 +2642,7 @@ vonatkozó mennyiségi felvétellel. A leltározásra a Számv. tv. rendelkezés
 
 (4) Az (1) bekezdés c) pontján belül elkülönítetten kell kimutatni a 221. § szerint értékesített termékeket.
 
-224. § (1) A belföldön nyilvántartásba vett viszonteladó – az állami adóhatóságnak tett előzetes bejelentése alapján – dönthet úgy is, hogy tevékenységének egészére nem alkalmazza ezen alfejezet rendelkezéseit.
+224. § (1) A belföldön nyilvántartásba vett viszonteladó dönthet úgy is, hogy tevékenységének egészére nem alkalmazza ezen alfejezet rendelkezéseit. Ezen döntését a viszonteladó a tárgyévet megelőző év utolsó napjáig jelenti be az állami adó- és vámhatóságnak.
 
 (2) Az (1) bekezdésben említett áttérés kezdő napjára szóló időzítéssel a viszonteladónak a 223. § (3) bekezdésének a) pontja szerint kell eljárnia. Az így megállapított nyitókészleten levő termékekre jutó előzetesen felszámított adóra – az adólevonási jog gyakorlásának egyéb feltételeinek sérelme nélkül – a viszonteladó legkorábban az áttérés kezdő napjától kezdődően adólevonási jogot gyakorolhat.
 
@@ -2865,7 +2877,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - a) 15. cikkének (1) bekezdését átültető tagállami jogszabály értelmébennemtekinthették volna benyújtottnak, vagy
 - b) 18. cikkének (1) bekezdését átültető tagállami jogszabály értelmében nem továbbíthatták volna.
 
-251/D. § (1) Az állami adóhatóság az adó-visszatéríttetési eljárás során az Art.-nek az elektronikus kapcsolattartására vonatkozó szabályai szerint jár el azzal, hogy külön jogszabályban meghatározott esetben a kapcsolattartásra számítógépes rendszeren keresztül – elektronikus levél útján – is van lehetőség.
+251/D. § (1) Az állami adóhatóság az adó-visszatéríttetési eljárás során az Air.-nek az elektronikus kapcsolattartására vonatkozó szabályai szerint jár el azzal, hogy külön jogszabályban meghatározott esetben a kapcsolattartásra számítógépes rendszeren keresztül – elektronikus levél útján – is van lehetőség.
 
 (2) Az állami adóhatóság az adó-visszatéríttetési kérelem érkeztetésének tényéről és időpontjáról a Közösség más tagállamában letelepedett adóalanyt elektronikus úton, haladéktalanul értesíti.
 
@@ -3010,7 +3022,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 
 ### Egyes adókötelezettségek alóli mentesülés
 
-257. § (1) Az adót önadózással megállapító, a (2) bekezdésben meghatározott adófizetésre kötelezett, akinek (amelynek) az adott adómegállapítási időszakban nincs olyan önadózással megállapítandó fizetendő adója, amelyről ellenkező esetben az állami adóhatóságnak bevallást kell tennie, illetve nincs az Art. szerinti összesítő nyilatkozat benyújtási kötelezettséget keletkeztető közösségi kereskedelemmel kapcsolatos ügylete, és adólevonásra nem jogosult vagy adólevonásra jogosult ugyan, de ugyanezen adómegállapítási időszakban adólevonási jogot nem gyakorol, mentesül az adott adómegállapítási időszakra vonatkozóan az Art. szerinti bevallástételi kötelezettség alól.
+257. § (1) Az adót önadózással megállapító, a (2) bekezdésben meghatározott adófizetésre kötelezett, akinek (amelynek) az adott adómegállapítási időszakban nincs olyan önadózással megállapítandó fizetendő adója, amelyről ellenkező esetben az állami adóhatóságnak bevallást kell tennie, illetve nincs a 4/A. számú melléklet I. pont szerinti összesítő nyilatkozat benyújtási kötelezettséget keletkeztető ügylete, és adólevonásra nem jogosult vagy adólevonásra jogosult ugyan, de ugyanezen adómegállapítási időszakban adólevonási jogot nem gyakorol, mentesül az adott adómegállapítási időszakra vonatkozóan az Art. szerinti bevallástételi kötelezettség alól.
 
 (2) A bevallástételi kötelezettség alól a következők mentesülnek:
 
@@ -3018,6 +3030,19 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - b) az az adóalany, aki (amely) ilyen minőségében
   - ba) alanyi adómentességben részesül;
   - bb) mezőgazdasági tevékenységet folytatóként jár el.
+
+(3) Mentesül az Art. szerinti bejelentkezési kötelezettség alól az a belföldön gazdasági céllal nem letelepedett, belföldön lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany, aki (amely) belföldön
+
+- a) kizárólag a 95. § szerinti adómentes termékimportot megalapozó 89. § szerinti termékértékesítést teljesít és az adómentesség érvényesítéséhez közvetett vámjogi képviselőt hatalmaz meg,
+- b) kizárólag adóraktározási eljárás hatálya alatt álló terméket értékesít, feltéve, hogy a termék az értékesítés közvetlen következményeként nem kerül ki ezen eljárás hatálya alól, vagy a terméket az állami adó- és vámhatóság a Közösség területén kívülre kilépteti, vagy
+- c) kizárólag adóraktározási eljárás hatálya alatt álló terméket értékesít a 89. § szerint a Közösség másik tagállamába, és az adómentesség érvényesítéséhez az adóraktár üzemeltetőjét hatalmazza meg, feltéve, hogy a Közösség másik tagállamában gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában ott lakóhellyel vagy szokásos tartózkodási hellyel rendelkezik.
+
+(4) Mentesül az Art. szerinti bejelentkezési kötelezettség alól a belföldön gazdasági céllal nem letelepedett, belföldön lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany a 45/A. § szerinti szolgáltatásnyújtása tekintetében, feltéve, hogy adófizetési kötelezettségét
+
+- a) a Közösség területén letelepedett adóalany a gazdasági célú letelepedése, ennek hiányában lakóhelye, vagy szokásos tartózkodási helye szerinti,
+- b) a Közösség területén nem letelepedett adóalany a választása szerinti tagállamban teljesíti azon tagállami szabályozás alapján, amely tartalmában megfelel a Héa-irányelv 358–369. cikkében vagy 369a–369k. cikkében foglaltaknak.
+
+(5) Mentesül az Art. szerinti bejelentkezési kötelezettség alól az az egyéni vállalkozónak nem minősülő természetes személy adóalany, aki kizárólag a 86. § (1) bekezdés l) pontja szerinti adómentes szolgáltatást nyújt, feltéve, hogy nem él a 88. § (1) bekezdés b) pont szerinti választási jogával és a 257/B. § szerint közösségi adószám kiváltására nem kötelezett.
 
 ### Adóvisszatérítés kérelemre
 
@@ -3029,6 +3054,45 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - d) a kedvezményezettet az adólevonási jog egészben vagy részben nem illeti meg.
 
 (2) Az adó-visszatéríttetési jog legfeljebb olyan hányadban illeti meg a kedvezményezettet, amilyen hányadban az (1) bekezdés a) pontjában meghatározott tevékenység, feladat ellátását szolgáló kiadásokból az adomány összege részesedik.
+
+### Közösségi adószám
+
+257/B. § (1) Az adóalany
+
+- a) 19. §, 21. § és 22. § (1) bekezdése szerinti Közösségen belüli termékbeszerzést,
+- b) 89. § szerinti termékértékesítést,
+- c) a Közösség valamely másik tagállamában gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában ott lakóhellyel, vagy szokásos tartózkodási hellyel rendelkező adóalany részére 37. § szerinti szolgáltatásnyújtást, vagy
+- d) a Közösség valamely másik tagállamában gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában ott lakóhellyel, vagy szokásos tartózkodási hellyel rendelkező adóalanytól 37. § szerinti szolgáltatás igénybevételt
+
+közösségi adószám birtokában végezhet.
+
+(2) A 20. § szerinti Közösségen belüli termékbeszerzést, feltéve, hogy az belföldön adófizetési kötelezettséget keletkeztet, az adóalany és a nem adóalany jogi személy közösségi adószám birtokában végezhet.
+
+(3) Az adóalany, nem adóalany jogi személy közösségi adószámának megállapítása érdekében az állami adó- és vámhatóságnál előzetesen bejelenti, hogy az (1)–(2) bekezdésben meghatározott ügyletet kíván végezni.
+
+(4) Amennyiben az adóalany, nem adóalany jogi személy él a 20. § (5) bekezdésében meghatározott választási jogával, választását a tárgyévet megelőző adóév utolsó napjáig jelenti be az állami adó- és vámhatóságnak. Amennyiben a tárgyévet megelőző évben nem volt Közösségen belüli termékbeszerzése, e választását a tárgyévre a tárgyévi első Közösségen belüli termékbeszerzését megelőzően jelenti be.
+
+(5) Ha az adóalany, nem adóalany jogi személy a 20. § (7) bekezdésében foglaltak szerint járt el, e tényt az e rendelkezéssel érintett első Közösségen belüli termékbeszerzés teljesítésének napját követő hónap 20. napjáig jelenti be az állami adó- és vámhatósághoz.
+
+### Távértékesítésre vonatkozó bejelentési szabályok
+
+257/C. § (1) Az az adóalany, aki (amely) belföldön gazdasági célú letelepedési hellyel, gazdasági célú letelepedés hiányában lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkezik, és a 29–30. § szerinti termékértékesítés utáni adófizetési kötelezettségét a Közösség azon tagállama által, ahol a termék a feladás vagy elfuvarozás megkezdésekor van – a Héa-irányelv 34. cikk (4) bekezdésével összhangban – biztosított választása alapján vagy a 30. § (2) bekezdésében meghatározott értékhatár túllépése miatt belföldön teljesíti, az erre a célra rendszeresített nyomtatványon köteles bejelentkezni az állami adó- és vámhatósághoz. Amennyiben az adóalany választása alapján teljesíti belföldön az adófizetési kötelezettségét, választását azon termékértékesítést megelőzően kell bejelentenie, amely után az adófizetési kötelezettségét belföldön teljesíti. Az értékhatár túllépése esetén az adóalany a bejelentését azon termékértékesítését megelőzően teljesíti, amelynek ellenértékével túllépi az értékhatárt.
+
+(2) Amennyiben a belföldön nyilvántartásba vett adóalany a 29–30. § szerinti termékértékesítés utáni adófizetési kötelezettségét a 30. § (4) bekezdése szerinti választása alapján a Közösség másik tagállamában teljesíti, azt a választását követő 15 napon belül köteles bejelenteni az állami adó- és vámhatóságnak.
+
+(3) Amennyiben a belföldön nyilvántartásba vett adóalany a 29–30. § szerinti termékértékesítés utáni adófizetési kötelezettségét a Közösség azon tagállama által – a Héa-irányelv 34. cikkével összhangban – meghatározott értékhatár túllépése miatt, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van, a Közösség ezen másik tagállamában teljesíti, azt az értékhatár túllépését követő 15 napon belül köteles bejelenteni az állami adó- és vámhatóságnak.
+
+### A végzett tevékenységre vonatkozó nyilatkozatok módosítása
+
+257/D. § Ha kizárólag a 85. §, 86. § vagy 87. § szerinti adómentes tevékenységet végző adóalany tevékenysége oly módon változik, hogy a továbbiakban nem vagy nem kizárólag a 85. §, 86. § vagy 87. § szerinti adómentes tevékenységet végez, köteles a kizárólag adómentes tevékenység végzéséről adott nyilatkozatát az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint megváltoztatni.
+
+257/E. § Amennyiben az adóalany az e törvény szerinti bejelentését az e törvényben előírt feltételek hiánya miatt nem tehette volna meg, bejelentését az előző naptári évről vagy annak utolsó hónapjáról, negyedévéről adott bevallásával egyidejűleg, a naptári év első napjára visszamenően módosíthatja.
+
+257/F. § Az adóalany az állami adó- és vámhatósághoz benyújtott kijavítási kérelem útján a bevallások utólagos adóellenőrzésének megkezdését megelőzően, az adó megállapításához való jog elévülési idején belül, kezdeményezheti a 88. § (1) bekezdés, 192. § (1) bekezdés, 196/G. § (1) bekezdés, 197. § (1) bekezdés, 224. § (1) bekezdés szerinti választásának vagy választása hiányának módosítását, feltéve hogy a módosítás nem érinti az általa megállapított és bevallott adóalap, fizetendő adó és az előzetesen felszámított, levonható adó összegét.
+
+### Adatszolgáltatás
+
+257/G. § Az adóalany a 4/A. számú mellékletben, valamint a 10. számú mellékletben meghatározottak szerint köteles adatot szolgáltatni.
 
 ### XXI. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -3117,7 +3181,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 - i) a számlázási funkcióval rendelkező programokkal szembeni követelményeket, valamint ezen programokkal kiállított számlák adatainak állami adóhatóság felé történő adatszolgáltatásának szabályait, és a számlázási funkcióval rendelkező programok értékesítésére és használatára vonatkozó adatszolgáltatási kötelezettségre vonatkozó szabályokat;
 - j) a számla, egyszerűsített adattartalmú számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit.
 
-(2) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – a külpolitikáért és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a 107. § szerinti adómentességhez, illetőleg adó-visszatéríttetési jog gyakorlásához fűződő igazolási kötelezettséget, az adó-visszatéríttetési kérelem kötelező adattartalmát, valamint az utólagos adó-visszatéríttetés eljárási szabályait.
+(2) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – a külpolitikáért és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a 107. § és 108. § szerinti adómentességhez, illetőleg adó-visszatéríttetési jog gyakorlásához fűződő igazolási kötelezettséget, az adó-visszatéríttetési kérelem kötelező adattartalmát, valamint az utólagos adó-visszatéríttetés eljárási szabályait.
 
 (3) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy – az e-közigazgatásért felelős miniszterrel és az informatikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az elektronikus úton kibocsátott számla és az abban foglalt adattartalom sértetlensége és eredetiségének hitelessége biztosítására vonatkozó szabályokat.
 
@@ -3432,12 +3496,33 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 307. § Az adólevonási jog gyakorlására vonatkozó tárgyi feltételt – az egyéb, e törvényben meghatározott feltételek fennállása esetén – teljesíti az olyan 2016. évben, de 2017. évi teljesítési időponttal kiállított, 1 000 000 forintot el nem érő áthárított adót tartalmazó számla is, amely nem tartalmazza a Mód6 törvénnyel módosított 169. § d) pont dc) alpontja szerinti adatot.
 
+308. § A 3. számú melléklet II. részének a Mód6 törvénnyel megállapított 3. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2018. január 1-jére vagy azt követő időpontra esik.
+
 310. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2017. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
 
 - a) sem a 2016. naptári évben ténylegesen,
 - b) sem a 2017. naptári évben észszerűen várhatóan, illetve ténylegesen nem haladja meg a 8 000 000 forintnak megfelelő pénzösszeget.
 
 (2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2017. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében rögzített időtartam még nem telt el.
+
+311. § A 3. számú melléklet I. részének az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel (a továbbiakban: Mód7 törvény) megállapított 55–58. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2018. január 1-jére vagy azt követő időpontra esik.
+
+312. § A 3. számú melléklet II. részének a Mód7 törvénnyel megállapított 4. pontját
+
+- a) az olyan 2017. december 31-ét követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amelyek tekintetében a fizetés esedékessége, valamint a számla vagy a nyugta kibocsátásának időpontja 2017. december 31-ét követő időpont, ha a teljesítés időpontját az 58. § szerint kell megállapítani,
+- b) az a) pont alá nem tartozó esetekben akkor kell először alkalmazni, amikor a 84. § szerint megállapított időpont 2018. január 1-jére vagy azt követő időpontra esik.
+
+313. § E törvénynek a Mód7 törvénnyel módosított 6. § (4) bekezdés b) pont bb) alpontja, 8. § (3) bekezdés második mondata, (5), (9), (10) és (12) bekezdése, 57. § (2) bekezdése, 85. § (5) bekezdés a)–c) pontjai és (6) bekezdése, 86. § (1) bekezdés j) pont jb) alpontja, 142. § (1) bekezdés g) pontja, 156. § (5) és (6) bekezdései, 188. § (3) bekezdés c) pont cb) alpontja vonatkozásában véglegessé vált döntés alatt a 2018. január 1-jét megelőzően jogerőre emelkedett határozatot, valamint véglegessé válás alatt a 2018. január 1-jét megelőzően történt jogerőre emelkedést is érteni kell.
+
+314. § (1) E törvénynek az egyes törvényeknek a közérdekű nyugdíjas szövetkezetek létrehozásával összefüggő módosításáról szóló 2017. évi LXXXIX. törvénnyel (a továbbiakban: Mód8 törvény) módosított 142. § (1) bekezdés c) pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetében kell először alkalmazni, amelyek teljesítési időpontja 2018. január 1. napjára vagy azt követő időpontra esik.
+
+(2) E törvénynek a Mód8 törvénnyel módosított 142. § (1) bekezdés c) pontja szerinti közérdekű nyugdíjas szövetkezet által nyújtott szolgáltatás esetén, ha a teljesítés időpontja 2018. január 1. napjára vagy azt követő időpontra esik, de a szolgáltatást igénybevevő adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2018. január 1. napját megelőzően kellene megállapítani, a Mód8 törvénnyel módosított 142. § (1) bekezdés c) pontját nem kell alkalmazni.
+
+(3) Amennyiben e törvénynek a Mód8 törvénnyel módosított 142. § (1) bekezdés c) pontja hatálya alá tartozó, közérdekű nyugdíjas szövetkezet által nyújtott szolgáltatáshoz fizetett előleg jóváírásának, kézhezvételének időpontja 2018. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a szolgáltatás igénybevevőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.
+
+315. § A 3. számú melléklet I. részének az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosításáról szóló 2017. évi CXXXIII. törvénnyel módosított 11. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2018. január 1-jére vagy azt követő időpontra esik.
+
+316. § A 2017. december 31-ét követően adószám-felfüggesztés hatálya alatt álló adóalanyra a 137. § 2017. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3500,7 +3585,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 8. | Fehér bot vakoknak | 6602-ből |
 | 9. | Pontozó vakoknak | 8205 59 90-ből |
 | 10. | Braille-tábla fémből | 8310-ből |
-| 11. | Braille-írógép vakoknak | 8469 30-ból |
+| 11. | Braille-írógép, Braille-nyomtató, Braille-kijelző vakoknak | 8469 30-ból 8443-ból 8543-ból |
 | 12. | Információátalakító egység vakok és hallássérültek részére (a szövetség által a tagok felé beszerzési ár alatt forgalmazott termék) | 8471-ből |
 | 13. | Telefonkezelő adapter vakok számára | 8517 80 90-ből |
 | 14. | Braille-óra vakoknak | 9102-ből |
@@ -3544,6 +3629,10 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 52. | A 0105 vtsz. alá tartozó baromfi élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva | 0207 |
 | 53. | Madártojás héjában, frissen | 0407-ből |
 | 54. | Tej (kivéve az anyatejet, az ultramagas hőmérsékleten hőkezelt tejet és az ESL tejet) | 0401 10-ből 0401 20-ból |
+| 55. | Emberi fogyasztásra alkalmas élő hal, a díszhal kivételével | 0301-ből |
+| 56. | Emberi fogyasztásra alkalmas hal (ideértve a halbőrt, ikrát, haltejet, halmájat és egyéb belsőségeket is) frissen, hűtve vagy fagyasztva, a cápa kivételével | 0302-ből 0303-ból |
+| 57. | Emberi fogyasztásra alkalmas halfilé és más halhús (aprított is) frissen, hűtve vagy fagyasztva, a cápahús kivételével | 0304-ből |
+| 58. | Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsősége, frissen, hűtve vagy fagyasztva | 0206 30-ból 0206 41-ből 0206 49-ből |
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
@@ -3575,6 +3664,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | --- | --- |
 | 1. | Távhőszolgáltatás, ideértve a villamos energiáról szóló törvény alapján megújuló energiaforrásnak minősülő energiaforráson alapuló hőszolgáltatást |
 | 2. | Előadóművész személyes közreműködésévela) vendéglátás keretében, üzletben,b) nem nyilvánosan meghirdetett családi esemény, baráti rendezvény keretében, zárt körben, vagyc) belépődíj nélkül tartott, a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá nem tartozó, közösségi rendezvényeken nyújtott hangszeres élőzenei szolgáltatás. |
+| 3. | Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom (SZJ 55.30.1-ből) |
+| 4. | Internet-hozzáférési szolgáltatás |
 
 ### 3/A. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3595,8 +3686,8 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | --- | --- |
 | 1. | Kereskedelmi szálláshely-szolgáltatás |
 | 2. | A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri rendezvényre történő, kizárólag belépést biztosító szolgáltatás. |
-| 3. | Internet-hozzáférési szolgáltatás |
-| 4. | Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom (SZJ 55.30.1-ből) |
+| 3. |  |
+| 4. |  |
 
 ### 4. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3632,7 +3723,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - a) 7/b. alpontban említett beraktározója lehet; vagy
   - b) igazolt utolsó értékesítője lehet, aki (amely) azt a 113. § szerint értékesítette; vagy
   - c) azon utolsó beszerzője lehet, aki (amely) részére a terméket a b) pont szerinti igazolt utolsó értékesítő értékesítette.
-- 19. A kiraktározás indítványozásának feltétele, hogy a kiraktározó a kiraktározandó termék után adóbiztosítékot nyújtson. Abban az esetben, ha a kiraktározó képviseletére pénzügyi képviselőt bíz meg, a kiraktározó helyett a pénzügyi képviselő is nyújthatja saját nevében az adóbiztosítékot. Abban az esetben, ha a kiraktározó az adóraktár üzemeltetőjét hatalmazza meg a 89/A. § szerint, a kiraktározó helyett az adóraktár üzemeltetője nyújtja a saját nevében az adóbiztosítékot. Mentesül az adóbiztosíték nyújtása alól az a kiraktározó, illetve az a pénzügyi képviselő, aki (amely) az Art. rendelkezései szerint egyúttal minősített adózó is.
+- 19. A kiraktározás indítványozásának feltétele, hogy a kiraktározó a kiraktározandó termék után adóbiztosítékot nyújtson. Abban az esetben, ha a kiraktározó képviseletére pénzügyi képviselőt bíz meg, a kiraktározó helyett a pénzügyi képviselő is nyújthatja saját nevében az adóbiztosítékot. Abban az esetben, ha a kiraktározó az adóraktár üzemeltetőjét hatalmazza meg a 89/A. § szerint, a kiraktározó helyett az adóraktár üzemeltetője nyújtja a saját nevében az adóbiztosítékot. Mentesül az adóbiztosíték nyújtása alól az a kiraktározó, illetve az a pénzügyi képviselő, aki (amely) az Art. rendelkezései szerint egyúttal megbízható adózó is.
 - 20. A kiraktározást maga a kiraktározó, illetőleg a nevében és képviseletében eljáró meghatalmazottja indítványozhatja.
 - 21. A kiraktározás az adóraktár felügyeletét ellátó vámszervnél indítványozható az erre a célra rendszeresített okmány (a továbbiakban: kiraktározási okmány) benyújtásával.
 - 22. A kiraktározási okmány kötelező adattartalma a következő:
@@ -3695,6 +3786,68 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - c) az adóraktár üzemeltetője köteles a beraktározás [a) pont], illetőleg a kiraktározás [b) pont] tényével egyidejűleg az adóraktár felügyeletét ellátó vámszervet értesíteni;
   - d) az adóraktár üzemeltetője köteles az értékesítésről szóló számla hiteles másolatának kézhezvételével egyidejűleg az adóraktár felügyeletét ellátó vámszervet értesíteni, ha az adóraktárban tárolt terméket értékesítették [17. pont];
   - e) a vámhatóság engedélye alapján a Vámvégrehajtási-rendelet 14a. cikk (1) bekezdés a) vagy c) pontja szerinti engedélyezett gazdálkodói tanúsítvánnyal vagy a Vámkódex 38. cikk (2) bekezdés a) pontja szerinti engedélyezett gazdálkodó engedéllyel rendelkező beraktározó, illetve kiraktározó a 18/b alpont szerinti esetben okirat-bemutatási kötelezettségének legkésőbb a termék adójogi helyzete rendezésének igazolására megállapított határidőn (38. pont) belül, pótlólag is eleget tehet, feltéve, hogy a beraktározási okmány a beraktározás jogcíméül szolgáló ügylet teljesülését tanúsító okirat sorszáma helyett az ügylet beazonosítását szolgáló adatokat tartalmazza. A pótlásra rendelkezésre álló határidőt az egyszerűsített adóraktározási eljárás engedélyében rögzíteni kell.
+
+### 4/A. számú melléklet a 2007. évi CXXVII. törvényhez
+
+I. Összesítő nyilatkozat
+
+1. Az adóalany nyilatkozik:
+
+a) az állami adó- és vámhatóság által megállapított közösségi adószámáról, valamint a 89. § (4) bekezdése szerinti termékértékesítés teljesítése esetén az adóalanynak azon, a Közösség más tagállamának hatósága által megállapított adószámáról, ahol ezen ügylet tekintetében adófizetésre kötelezett,
+
+b) a terméket beszerző és a terméket értékesítő, valamint a szolgáltatást nyújtó és szolgáltatást igénybe vevő adószámáról,
+
+c) a Közösség más tagállamában adószámmal rendelkező terméket beszerző részére teljesített, a 89. § (1), (3) és (4) bekezdései hatálya alá tartozó termékértékesítésről (ideértve azt az esetet is, amikor a közvetett vámjogi képviselő az importáló helyett vagy az adóraktár üzemeltetője az adófizetésre kötelezett helyett, tesz bevallást az importáló vagy az adófizetésre kötelezett által teljesített termékértékesítésről),
+
+d) a Közösség más tagállamában adószámmal rendelkező terméket beszerző részére teljesített azon termékértékesítésről, amelyet részére az 52. §-nak megfelelő Közösségen belüli beszerzésként értékesítettek, valamint a Közösség más tagállamában adószámmal rendelkező értékesítőtől megvalósított azon termékbeszerzéséről, amelyet részére az 52. §-nak megfelelően teljesítettek,
+
+e) a Közösség más tagállamában adószámmal rendelkező adóalany vagy adószámmal rendelkező adóalanynak nem minősülő jogi személy részére teljesített, a 37. § hatálya alá eső azon szolgáltatásnyújtásról, amely adóköteles a teljesítési hely szerinti tagállamban, és amely után az igénybevevő az adófizetésre kötelezett,
+
+f) a Közösség más tagállamában adószámmal rendelkező adóalanytól megvalósított 19. §, 21. § és 22. § (1) bekezdés szerinti Közösségen belüli termékbeszerzéséről, illetve a 37. § hatálya alá eső azon szolgáltatás igénybevételéről, amely után beszerzőként, igénybevevőként adófizetésre kötelezett,
+
+g) a c)–f) pontokban meghatározott ügyletek adó nélkül számított összesített ellenértékéről beszerzőnkénti, igénybevevőnkénti (értékesítőnkénti, nyújtónkénti) részletezésben, illetve a 89. § (4) bekezdése hatálya alá tartozó ügyletek összesített ellenértékéről,
+
+h) a 77. § szerinti utólagos adóalap csökkentés esetén a korrekció összegéről (összesítő nyilatkozat).
+
+2. Az összesítő nyilatkozatot a havi bevallásra kötelezett adóalany havonta, a tárgyhónapot követő hónap 20. napjáig, a negyedéves bevallásra kötelezett adóalany negyedévente, a tárgynegyedévet követő hónap 20. napjáig nyújtja be az állami adó- és vámhatósághoz.
+
+3. A rá irányadó bevallási gyakoriságtól függetlenül, az adóalanynak a negyedéves gyakoriságú összesítő nyilatkozatról havi gyakoriságú összesítő nyilatkozatra kell áttérnie, ha
+
+a) a 89. § (1) és (4) bekezdésében meghatározott termékértékesítés, valamint a 91. § (2) bekezdése szerinti termékbeszerzésnek megfelelő termékértékesítés vagy
+
+b) a 19. §, 21. § és 22. § (1) bekezdésében meghatározott Közösségen belüli termékbeszerzés
+
+tárgynegyedévre vonatkozó, adó nélkül számított összesített ellenértéke meghaladja az 50 000 eurónak megfelelő pénzösszeget. Ebben az esetben az áttéréssel érintett időszakra vonatkozó összesítő nyilatkozatot a tárgynegyedév első napjától az értékhatár meghaladásának hónapja utolsó napjáig tartó időszakról, ezen időszakot követő hónap 20. napjáig kell benyújtani.
+
+4. Ha a 3. pont szerinti áttérést követő négy naptári negyedévben az adóalany nem haladja meg az ott meghatározott értékhatárt, és a negyedik naptári negyedévet követő adómegállapítási időszakra nem havi bevallásra kötelezett, a negyedik naptári negyedévet követő adómegállapítási időszakra negyedéves gyakoriságú összesítő nyilatkozatot nyújt be.
+
+5. A közösségi adószámmal rendelkező, adóalanynak nem minősülő jogi személy, a 255. § szerint bevallástételi kötelezettség alól mentesülő adóalany az összesítő nyilatkozatot havonta, az ügylet teljesítését követő hó 20. napjáig az 1. és 6. pontban foglaltak szerint nyújtja be.
+
+6. Az 1. pontban meghatározott ügyletekről (összegekről) arra az időszakra vonatkozóan kell összesítő nyilatkozatot tenni, amelynek során az adófizetési kötelezettség keletkezett. Az 1. pont h) pontjában meghatározott összeget arra az időszakra vonatkozó összesítő nyilatkozatban kell szerepeltetni, amelyben a terméket beszerző, illetve szolgáltatást igénybe vevő a 77. § szerinti utólagos adóalap-csökkenés esetén a korrekció összegéről értesítést kapott. Az 1. pont e) pontjában meghatározott szolgáltatás ellenértékének utólagos módosítása esetén a korrekció összegét arra az időszakra vonatkozó összesítő nyilatkozatban kell szerepeltetni, amelyben a szolgáltatást igénybevevő a korrekció összegéről értesítést kapott.
+
+7. Ha az adóalany évesről negyedéves vagy havi, illetve negyedévesről havi bevallásra tér át, és az 1. pontban meghatározott ügylet teljesítési időpontja az áttéréssel érintett bevallással le nem fedett időszakra esik, az összesítő nyilatkozatot az adóalany a bevallással egyidejűleg nyújtja be.
+
+8. Nem kell összesítő nyilatkozatot tenni arra az időszakra, amelyben az adóalany az 1. pontban meghatározott termékértékesítést, Közösségen belüli termékbeszerzést, szolgáltatásnyújtást nem teljesített, és a részére ilyen szolgáltatást nem nyújtottak.
+
+9. Az összesítő nyilatkozat a jogkövetkezmények szempontjából bevallásnak minősül.
+
+10. Az összesítő nyilatkozatot az adóalany az erre a célra rendszeresített elektronikus űrlapon, elektronikus úton terjeszti elő az állami adó- és vámhatósághoz.
+
+II. Adatszolgáltatás személygépkocsi Közösségen belüli beszerzéséről
+
+Az adóalany az adómegállapítási időszakról benyújtott bevallásában nyilatkozik azon személygépkocsik alvázszámáról, amelyek vonatkozásában termékimport vagy Közösségen belüli termékbeszerzés jogcímén az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett.
+
+III. Adatszolgáltatás új közlekedési eszköz értékesítéséről
+
+1. Az adóalany az erre a célra rendszeresített nyomtatványon adatot szolgáltat az állami adó- és vámhatósághoz a 89. § (2) bekezdése szerinti termékértékesítésről, annak teljesítési időpontját magában foglaló adómegállapítási időszakot követő hónap 20. napjáig.
+
+2. Az 1. pont szerinti adatszolgáltatás az alábbiakat tartalmazza:
+
+a) a Közösség másik tagállamában letelepedett, letelepedés hiányában ott állandó lakóhellyel, szokásos tartózkodási hellyel bíró, közösségi adószámmal nem rendelkező vevő neve, címe,
+
+b) az új közlekedési eszköz azonosító adatai és adó nélkül számított ellenértéke,
+
+c) a számla kiállításának időpontja, illetve az első forgalomba helyezés időpontja, ha az megelőzi a számlakiállítás időpontját.
 
 ### 5. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3792,6 +3945,14 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 | 11. | Varrat nélküli cső és üreges profil vasból vagy nem ötvözött acélból (az öntöttvas cső kivételével) | 7304-ből |
 | 12. | Más cső és üreges profil vasból vagy nem ötvözött acélból (pl. nyitva vagy hegesztve, szegecselve vagy hasonlóan zárva) | 7306-ból |
 | 13 | Rács, sodronyfonat és kerítésfonat a keresztezéseknél hegesztve, legalább 3 mm keresztmetszetű huzalból és lyukmérete legalább 100 cm2 | 7314 20 |
+
+### 6/C. számú melléklet a 2007. évi CXXVII. törvényhez
+
+#### Nyilatkozat a fordított adózás alá tartozó ügyletekről
+
+- 1. Az adóalany bevallásában nyilatkozik az adómegállapítási időszakban teljesített, a 142. § (1) bekezdés i) és j) pontja alá tartozó termékértékesítése tekintetében a termék beszerzőjének adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint – a 6/A. és 6/B. számú mellékletben meghatározott vámtarifaszám szerinti bontásban – az értékesített termék ezer forintra kerekített összegben meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
+- 2. Az adóalany bevallásában azon, a 142. § (1) bekezdés i) és j) pontja alá tartozó termékértékesítésnek megfelelő termékbeszerzései tekintetében, amelyek után termékbeszerzőként az adott adómegállapítási időszakban adófizetési kötelezettsége keletkezett, nyilatkozik a termékértékesítő adószámáról, a termékértékesítés teljesítésének időpontjáról, valamint – a 6/A. és 6/B. számú mellékletben meghatározott vámtarifaszám szerinti bontásban – a beszerzett termék ezer forintra kerekített összegben meghatározott adóalapjáról és kilogrammban meghatározott mennyiségéről.
+- 3. Az 1. és 2. pont alkalmazásában nem kell nyilatkozni a kilogrammban meghatározott mennyiségről, ha a termék külön jogszabály szerint hibrid vetőmagnak minősül és erről a tényről a terméket értékesítő nyilatkozik.
 
 ### 7. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3894,3 +4055,25 @@ B. pont
 | 16. a Luxemburgi Nagyhercegség esetében: Taxe sur la valeur ajoutée (TVA); 17. a Máltai Köztársaság esetében: It-Taxxa Fuq Il-Valur Mizjud; 18. Magyarország esetében: Általános forgalmi adó (ÁFA); 19. a Németországi Szövetségi Köztársaság esetében: Umsatzsteuer (USt); 20. az Olasz Köztársaság esetében: Imposta sul valore aggiunto (IVA); 21. az Osztrák Köztársaság esetében: Umsatzsteuer (USt); 22. a Portugál Köztársaság esetében: Imposto sobre o Valor Acrescentado (IVA); 23. Románia esetében: Taxa pe valoarea adăugată (TVA); |  |  |
 |  |  |  |
 | 25. a Svéd Királyság esetében: Mervärdesskatt (Moms); 26. a Szlovák Köztársaság esetében: Daň z pridanej hodnoty (DPH); 27. a Szlovén Köztársaság esetében: Davek na dodano vrednost. |  |  |
+
+### 10. számú melléklet a 2007. évi CXXVII. törvényhez
+
+#### Összesítő jelentés
+
+- 1. Az adóalany termék beszerzése, szolgáltatás igénybevétele esetén azon számlákról, amelyekben az áthárított adó összege az 1 000 000 forintot eléri vagy meghaladja, arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számla alapján adólevonási jogot gyakorol, számlánként nyilatkozni köteles:
+  - a) a terméket értékesítő, szolgáltatást nyújtó adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
+  - b) a nevére szóló számlában feltüntetett adóalapról és áthárított adó összegről, a számla sorszámáról, valamint
+  - c) a számlában a 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
+- 2. Az adóalany termék értékesítése, szolgáltatás nyújtása esetén azon számlákról, amelyekben egy másik, belföldön nyilvántartásba vett adóalanyra áthárított adó összege az 1 000 000 forintot eléri vagy meghaladja, arról az adómegállapítási időszakról teljesítendő bevallásban, amelyben az ügylet teljesítését vagy az előleg megfizetését tanúsító számlában feltüntetett adót meg kell állapítania, számlánként nyilatkozni köteles:
+  - a) a terméket beszerző, szolgáltatást igénybe vevő adóalany adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről,
+  - b) a kibocsátott számlában feltüntetett adóalapról és áthárított adó összegről, a számla sorszámáról, valamint
+  - c) a számlában a 169. § g) pontja szerint feltüntetett időpontról, ennek hiányában a számla kibocsátásának keltéről.
+- 3. Amennyiben az adóalany ugyanabban az adómegállapítási időszakban ugyanazon termékértékesítő vagy szolgáltatást nyújtó által kibocsátott több számlában – ideértve a számlával egy tekintet alá eső okiratot is – áthárított adó tekintetében gyakorol összesen 1 000 000 forintot elérő vagy ezt meghaladó összegben adólevonási jogot, úgy az erről az adómegállapítási időszakról benyújtott bevallásában nyilatkozik:
+  - a) a termékértékesítő vagy szolgáltatást nyújtó adóalany – ideértve az Eva. hatálya alá tartozó személyt, szervezetet is – adószámának, csoportos adóalanyiság esetén csoportazonosító számának első nyolc számjegyéről, és
+  - b) ezen számlákban feltüntetett, áthárított adó összegéről.
+- 4. Számla módosítása esetén a számlát módosító okiratot kiállító és az azt befogadó adóalany abban a bevallásban, amelyben a módosítás hatását figyelembe veszi, akkor köteles a módosított számlát érintően az 1. és 2. pont szerint nyilatkozni, ha a számlában áthárított adó akár a módosítást megelőzően, akár azt követően vagy a módosítást megelőzően és azt követően is eléri vagy meghaladja az 1 000 000 forintot. Ebben az esetben az adóalany nyilatkozik annak a számlának az 1. és 2. pontjában meghatározott adatairól, amelyet a módosítás érint, a módosítás számszaki hatásáról az adóalap és áthárított adó tekintetében, valamint a számlát módosító okirat sorszámáról.
+- 5. Számla érvénytelenítése esetén a számlát érvénytelenítő okiratot kiállító és az azt befogadó adóalany, amennyiben az érvénytelenített számlában – ideértve a módosított számlát is – áthárított adó összege elérte vagy meghaladta az 1 000 000 forintot, abban a bevallásban, amelyben az érvénytelenítés hatását figyelembe veszi, köteles a számlát érintően az 1. és 2. pont szerinti adatokról, valamint a számlát érvénytelenítő okirat sorszámáról nyilatkozni.
+- 6. Az 1–5. pontok szerinti nyilatkozat (összesítő jelentés) a jogkövetkezmények szempontjából bevallásnak minősül.
+- 7. A XIII/A. Fejezet szerinti adózási módot választó adóalany által kibocsátott számla esetében az 1. és 2. pont szerinti nyilatkozatot csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban kell megtenni, amelyben ezen számla alapján az adóalany első alkalommal adólevonási jogot érvényesít, adómegállapításra kötelezett.
+- 8. A XIII/A. Fejezet szerinti adózási módot választó adóalany termék beszerzése, szolgáltatás igénybevétele esetén az 1. pont szerinti nyilatkozatot ugyanazon számláról csak egyszer, arról az adómegállapítási időszakról teljesítendő bevallásban teljesíti, amelyben ezen számla alapján első alkalommal adólevonási jogot érvényesít.
+- 9. Az adóalany választása szerint a kötelezettségének az 1. és 2., valamint a 4. és 5. pontban meghatározott értékhatár figyelembevétele nélkül is eleget tehet.

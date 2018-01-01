@@ -324,11 +324,11 @@ nyilatkozatára is alkalmazni kell.
 
 (1a) Korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú esetén a háziorvosi, házi gyermekorvosi és a védőnői egészségügyi szolgáltatás nem utasítható vissza. Nem minősül az ellátás visszautasításának, ha a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú törvényes képviselője az egészségügyi alapellátásról szóló törvény szerint a háziorvos, illetve házi gyermekorvos választásának jogát gyakorolja.
 
-(2) Ha cselekvőképtelen beteg, továbbá korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg esetén a 20. § (3) bekezdése szerinti ellátás visszautasítására kerül sor, az egészségügyi szolgáltató keresetet indít a beleegyezés bíróság általi pótlása iránt. A kezelőorvos a bíróság jogerős határozatának meghozataláig köteles a beteg egészségi állapota által indokolt ellátások megtételére. Közvetlen életveszély esetén a szükséges beavatkozások elvégzéséhez bírósági nyilatkozatpótlásra nincs szükség.
+(2) Ha cselekvőképtelen beteg, továbbá korlátozottan cselekvőképes kiskorú és a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen korlátozott beteg esetén a 20. § (3) bekezdése szerinti ellátás visszautasítására kerül sor, az egészségügyi szolgáltató kérelmet terjeszt elő a beleegyezés bíróság általi pótlása iránt. A kezelőorvos a bíróság jogerős határozatának meghozataláig köteles a beteg egészségi állapota által indokolt ellátások megtételére. Közvetlen életveszély esetén a szükséges beavatkozások elvégzéséhez bírósági nyilatkozatpótlásra nincs szükség.
 
 (3) A kezelőorvos a (2) bekezdésben foglalt kötelezettsége teljesítése érdekében – szükség esetén – igénybe veheti a rendőrhatóság közreműködését.
 
-(4) A (2) bekezdésben meghatározott nyilatkozat pótlására irányuló eljárás során a bíróság nemperes eljárásban soron kívül jár el. Az eljárás tárgyi költségmentes. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a Polgári perrendtartásról szóló 1952. évi III. törvény szabályait kell megfelelően alkalmazni.
+(4) A (2) bekezdésben meghatározott nyilatkozat pótlására irányuló eljárás polgári nemperes eljárás, amely a járásbíróság hatáskörébe tartozik. Az eljárásban a bíróság soron kívül jár el. Az eljárás tárgyi költségmentes. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló törvény szabályait és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni.
 
 22. § (1) A cselekvőképes személy – későbbi esetleges cselekvőképtelensége esetére – közokiratban visszautasíthat
 
@@ -503,22 +503,13 @@ nyilatkozatára is alkalmazni kell.
 
 (2) Az egészségügyi szolgáltató vezetője, illetve az egészségügyi szolgáltató fenntartója harminc munkanapon belül érdemben megvizsgálja a betegjogi képviselő észrevételeit és azzal kapcsolatos állásfoglalásáról a betegjogi képviselő útján tájékoztatja a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervet.
 
-33/A. § (1) Betegjogi, ellátottjogi és gyermekjogi képviselő az a személy lehet, aki szerepel a betegjogi, ellátottjogi és gyermekjogi képviselők nyilvántartásában.
+33/A. § (1) Törvényben meghatározott betegjogi, ellátottjogi, gyermekjogi képviselői tevékenységet az végezhet, aki megfelel a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendeletben foglaltak szerinti feltételeknek és a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervvel munkavégzésre irányuló jogviszonyban áll.
 
-(2) Az (1) bekezdés szerinti nyilvántartást – a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendeletben foglaltak szerint – a Kormány által kijelölt szerv vezeti.
+(2) A betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendeletben foglaltak szerint a Kormány által kijelölt szerv nyilvántartást vezet a betegjogi, ellátottjogi és gyermekjogi képviselőkről.
 
-(3) Az (1) bekezdés szerinti nyilvántartás tartalmazza a betegjogi, ellátottjogi és gyermekjogi képviselő családi és utónevét, születési nevét, születési helyét és idejét, az anya születési családi és utónevét, lakóhelyét és tartózkodási helyét, állampolgárságát, a képesítésére vonatkozó adatot, valamint a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendelet szerinti adatokat.
+(3) A nyilvántartás tartalmazza a betegjogi, ellátottjogi és gyermekjogi képviselő családi és utónevét, születési nevét, születési helyét és idejét, az anyja születési családi és utónevét, lakóhelyét és tartózkodási helyét, állampolgárságát, a képesítésére vonatkozó adatot, valamint a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendelet szerinti további adatokat.
 
-(3a) Az (1) bekezdés szerinti nyilvántartás a következő adatok tekintetében minősül közhitelesnek:
-
-- a) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendelet szerinti jogvédelmi tanfolyam elvégzését igazoló tanúsítvány megnevezése, száma, kelte,
-- b) a továbbképzési kötelezettséggel kapcsolatban az adott naptári évben teljesített továbbképzési órák száma,
-- c) a szüneteltetéssel kapcsolatban a szünetelés kezdő és záró napja,
-- d) a nyilvántartási igazolvány:
-  - da) száma,
-  - db) érvényességével, érvénytelenségével, érvénytelenítésével kapcsolatos bejegyzés,
-  - dc) elvesztése, megrongálódása, megsemmisülése esetén az igazolvány pótlására vonatkozó bejegyzés,
-- e) a nyilvántartás megszűnésének, megszüntetésének időpontja és jogalapja.
+(4) A nyilvántartásban külön kell feltüntetni azokat a betegjogi, ellátottjogi, illetve gyermekjogi képviselőket, akik e tevékenységet végzik és azokat, akik a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv feladat- és hatásköréről szóló kormányrendelet szerinti tanfolyamot elvégezték, de a tevékenységet nem végzik.
 
 33/B. § Az Integrált Jogvédelmi Szolgálatot vezető jogvédelmi biztos helyettes államtitkári illetményre és juttatásokra jogosult.
 
@@ -758,7 +749,7 @@ alapul.
 
 (2) A sugárszennyezett személyt kijelölt gyógyintézetben kell elkülöníteni, amelyen belül a személy szabad mozgása, továbbá kapcsolattartási joga korlátozható.
 
-(3) Ha a sugárszennyezett személy az (1) bekezdés szerinti elkülönítésének nem tesz eleget, az egészségügyi államigazgatási szerv kötelezi erre. Az elkülönítést kimondó határozat – közegészségügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) Ha a sugárszennyezett személy az (1) bekezdés szerinti elkülönítésének nem tesz eleget, az egészségügyi államigazgatási szerv kötelezi erre. Az elkülönítést kimondó határozat – közegészségügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 ### 5. CÍM — Munkaegészségügy
 
@@ -839,13 +830,13 @@ kötelező védőoltás elrendelésének van helye.
 
 (3a) A (3) bekezdés szerinti kérelemhez csatolni kell a mentesítés indokoltságát alátámasztó, a kezelőorvos által adott szakvéleményt.
 
-(4) A (3) bekezdés szerinti eljárás alatt – annak jogerős befejezéséig – az adott védőoltás vonatkozásában a (7) bekezdés szerinti írásbeli felszólításnak vagy az adott védőoltás elrendelésének nincs helye. Ha a védőoltást korábban már elrendelték, és ezen védőoltás vonatkozásában eljárás indul a (3) bekezdés alapján, akkor a mentesítési eljárás jogerős befejezéséig a védőoltást elrendelő határozat nem hajtható végre. A mentesítési eljárásban a kezelőorvos külön vizsgálat nélkül ügyfélnek minősül.
+(4) A (3) bekezdés szerinti eljárás alatt – annak véglegessé vált döntéssel történő befejezéséig – az adott védőoltás vonatkozásában a (7) bekezdés szerinti írásbeli felszólításnak vagy az adott védőoltás elrendelésének nincs helye. Ha a védőoltást korábban már elrendelték, és ezen védőoltás vonatkozásában eljárás indul a (3) bekezdés alapján, akkor a mentesítési eljárás véglegessé vált döntéssel történő befejezéséig a védőoltást elrendelő határozat nem hajtható végre. A mentesítési eljárásban a kezelőorvos külön vizsgálat nélkül ügyfélnek minősül.
 
 (5) A védőoltásra kötelezett és a védőoltásban részesített személyekről nyilvántartást kell vezetni.
 
 (6) A védőoltás módjáról, céljáról, helyéről és idejéről a védőoltásra kötelezett személyt, illetve törvényes képviselőjét értesíteni kell. A védőoltásra kötelezett kiskorú személy megjelenéséről a törvényes képviselő köteles gondoskodni.
 
-(7) Ha a védőoltás igénybevételére köteles személy e kötelezettségének írásbeli felszólításra sem tesz eleget, az egészségügyi államigazgatási szerv a védőoltást elrendeli. Az egészségügyi államigazgatási szerv közvetlen járványveszély fennállása esetén – a veszélyhelyzet szerint meghatározott védőoltások köre tekintetében – a határozatot fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+(7) Ha a védőoltás igénybevételére köteles személy e kötelezettségének írásbeli felszólításra sem tesz eleget, az egészségügyi államigazgatási szerv a védőoltást elrendeli. Az egészségügyi államigazgatási szerv közvetlen járványveszély fennállása esetén – a veszélyhelyzet szerint meghatározott védőoltások köre tekintetében – a határozatot azonnal végrehajthatóvá nyilváníthatja.
 
 (8) A védőoltás megtörténtéről igazolást kell adni.
 
@@ -933,13 +924,13 @@ kötelező szűrővizsgálatát rendelheti el.
 
 (2) Fekvőbeteg-gyógyintézeti elkülönítés esetén a fertőző beteg intézeten belüli szabad mozgása, valamint kapcsolattartási joga korlátozható.
 
-(3) Ha a fertőző beteg fekvőbeteg-gyógyintézeti elkülönítésére vonatkozó kötelezettségének nem tesz eleget, az egészségügyi államigazgatási szerv kötelezi erre. Az elkülönítést kimondó határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) Ha a fertőző beteg fekvőbeteg-gyógyintézeti elkülönítésére vonatkozó kötelezettségének nem tesz eleget, az egészségügyi államigazgatási szerv kötelezi erre. Az elkülönítést kimondó határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 ### Járványügyi megfigyelés és járványügyi zárlat
 
 65. § (1) Azt, aki meghatározott fertőző betegségben szenvedő személlyel érintkezett és feltehetően maga is a betegség lappangási szakában van, az egészségügyi államigazgatási szerv a miniszter rendeletében meghatározott fertőző betegségek esetén járványügyi megfigyelés vagy járványügyi zárlat alá helyezi.
 
-(2) Az egészségügyi államigazgatási szerv (1) bekezdés alapján hozott határozata – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(2) Az egészségügyi államigazgatási szerv (1) bekezdés alapján hozott határozata – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 66. § (1) A járványügyi megfigyelés alá helyezett személy a megfigyelés tartama alatt foglalkozása gyakorlásában, kapcsolattartási jogában és mozgási szabadságában korlátozható.
 
@@ -959,7 +950,7 @@ kötelező szűrővizsgálatát rendelheti el.
 
 (3) A miniszter rendeletében meghatározott fertőző betegség esetén a kórokozó hordozó járványügyi ellenőrzés alá helyezése kötelező.
 
-(4) Az egészségügyi államigazgatási szerv (2)–(3) bekezdések alapján hozott határozata – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(4) Az egészségügyi államigazgatási szerv (2)–(3) bekezdések alapján hozott határozata – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 69. § (1) A járványügyi ellenőrzés alá vont kórokozó hordozó – a fertőzés terjedési módjától függően – foglalkozása gyakorlásában, kapcsolattartási jogában és mozgási szabadságában korlátozható.
 
@@ -995,7 +986,7 @@ kötelezett.
 
 kötelezett.
 
-(3) Az (1) és (2) bekezdés szerinti határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) Az (1) és (2) bekezdés szerinti határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 (4) Az előállítás végrehajtásához az azt elrendelő egészségügyi államigazgatási szerv a rendőri szervet
 
@@ -1018,7 +1009,7 @@ látja el.
 
 72. § (1) A fertőzőképesség tartama alatt – ha a betegség jellege indokolja – a fertőző beteg tartózkodási helyének, használati eszközeinek, ruhadarabjainak és váladékainak folyamatos fertőtlenítéséről vagy – szükség esetén – megsemmisítéséről a kezelőorvos intézkedik.
 
-(2) A fertőzőképesség megszűnését, a fertőző beteg elszállítását vagy halálát követően a beteg ápolásának helyén és szükség esetén annak környékén zárófertőtlenítést kell végezni. A zárófertőtlenítést a kezelőorvos kezdeményezésére az egészségügyi államigazgatási szerv rendeli el. Az egészségügyi államigazgatási szerv zárófertőtlenítést elrendelő határozata – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(2) A fertőzőképesség megszűnését, a fertőző beteg elszállítását vagy halálát követően a beteg ápolásának helyén és szükség esetén annak környékén zárófertőtlenítést kell végezni. A zárófertőtlenítést a kezelőorvos kezdeményezésére az egészségügyi államigazgatási szerv rendeli el. Az egészségügyi államigazgatási szerv zárófertőtlenítést elrendelő határozata – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 (3) A fertőző beteg ápolásában, a fertőző anyagok és tárgyak kezelésében, illetve a fertőző beteg szállításában, valamint a fertőtlenítésben közreműködő személyeket – szükség esetén – személyi fertőtlenítés alá kell vonni. A fertőtlenítéssel kapcsolatban az érintettek kötelesek együttműködni és a fertőtlenítés végzését eltűrni.
 
@@ -1045,7 +1036,7 @@ látja el.
 - g) az ivóvíz fogyasztása, illetőleg
 - h) meghatározott állatok tartása.
 
-(3) Az egészségügyi államigazgatási szervnek a (2) bekezdés alapján hozott határozata – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) Az egészségügyi államigazgatási szervnek a (2) bekezdés alapján hozott határozata – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 (4) A (2) bekezdés b) és f)–h) pontjai alapján hozott határozatot az élelmiszerlánc-felügyeleti szervvel is közölni kell.
 
@@ -1132,7 +1123,7 @@ alapul.
 - b) a szűrővizsgálat várhatóan eredményes és egyszerűen kivitelezhető,
 - c) a szűrést követő hatékony terápia alkalmazásának feltételei adottak.
 
-(3) A kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti, 0–18 év közötti szűrővizsgálatok kötelezőek. A szűrővizsgálatra kötelezett kiskorú személy részvételéről a szűrővizsgálaton a törvényes képviselő köteles gondoskodni. Ha e kötelezettségének a törvényes képviselő nem tesz eleget, az egészségügyi államigazgatási szerv a szűrővizsgálatot határozattal elrendeli. A szűrővizsgálatot elrendelő határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
+(3) A kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendelet szerinti, 0–18 év közötti szűrővizsgálatok kötelezőek. A szűrővizsgálatra kötelezett kiskorú személy részvételéről a szűrővizsgálaton a törvényes képviselő köteles gondoskodni. Ha e kötelezettségének a törvényes képviselő nem tesz eleget, az egészségügyi államigazgatási szerv a szűrővizsgálatot határozattal elrendeli. A szűrővizsgálatot elrendelő határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
 
 (4) A (3) bekezdésben foglaltakon túl más szűrővizsgálat igénybevételét jogszabály kedvezményekkel ösztönözheti; a szűrővizsgálaton való részvétel elmulasztása esetén – az egészségi állapotot hátrányosan nem befolyásoló – kedvezményeket megvonhat.
 
@@ -1516,11 +1507,13 @@ egészségügyi elbírálása, illetőleg véleményezése.
 
 (4) A működési nyilvántartásban nem szereplő, Magyarországon elismerhető egészségügyi szakképesítéssel rendelkező személy részére – betegellátási érdekből vagy a kérelmező megfelelő szakmai ismeretének megszerzése érdekében, indokolt esetben – a kormányrendeletben meghatározott hatóság a szakképesítésnek megfelelő tevékenységre, meghatározott időtartamra és helyszínre (munkahelyre) szóló tevékenységre jogosító engedélyt adhat ki, a kormányrendeletben foglalt eljárási rend szerint. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés, illetőleg büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez külön jogszabály szerint előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges.
 
-(4a) A hagyományos kínai gyógyászat területén, legalább 5 éves, felsőoktatási képzést követően megszerzett oklevéllel rendelkező személy részére kérelmére a kormányrendeletben meghatározott hatóság – az Egészségügyi Tudományos Tanács bizottságának az oklevél szerinti szakképesítésnek a kérelemben foglalt egészségügyi tevékenység végzése szempontjából való megfelelősége kérdésében kiadott szakhatósági állásfoglalása alapján – miniszteri rendeletben foglaltak szerint, a szakképzettségének megfelelő tevékenységre, meghatározott időtartamra szóló tevékenységre jogosító engedélyt adhat ki. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés vagy büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges. A kormányrendeletben meghatározott hatóság az engedélyekről nyilvántartást vezet, amely tartalmazza a kérelmező természetes személyazonosító adatait, oklevelének számát és az engedély tartalmát.
+(4a) A hagyományos kínai gyógyászat területén, legalább 5 éves, felsőoktatási képzést követően megszerzett oklevéllel rendelkező személy részére kérelmére a kormányrendeletben meghatározott hatóság – az Egészségügyi Tudományos Tanács bizottságának az oklevél szerinti szakképesítésnek a kérelemben foglalt egészségügyi tevékenység végzése szempontjából való megfelelősége kérdésében kiadott szakhatósági állásfoglalása alapján – kormányrendeletben foglaltak szerint, a szakképzettségének megfelelő tevékenységre, meghatározott időtartamra szóló tevékenységre jogosító engedélyt adhat ki. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés vagy büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges. A kormányrendeletben meghatározott hatóság az engedélyekről nyilvántartást vezet, amely tartalmazza a kérelmező természetes személyazonosító adatait, oklevelének számát és az engedély tartalmát.
 
 (4b) A (4a) bekezdés szerinti engedélyezési eljárás ügyintézési határideje két hónap, a szakhatósági eljárás ügyintézési határideje harminc nap.
 
 (4c) A (4a) bekezdés szerinti nyilvántartásban szereplő személyek neve, a számukra engedélyezett tevékenység megnevezése, az engedély időtartama, valamint az engedély száma bárki számára megismerhető adat.
+
+(4d) A (4) és (4a) bekezdés szerinti engedélyezési eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
 (5) Egészségügyi tevékenységben a (3) bekezdés a)–d) pontjában említett személy a (2) bekezdésben foglalt feltételeknek megfelelő személy felügyelete mellett, annak utasítása szerint működhet közre. A felügyeletet gyakorló személy utasítási joga – ide nem értve a munkáltatói utasítási joggyakorlást – csak a szakképesítésének megfelelő körben gyakorolható.
 
@@ -1570,7 +1563,7 @@ ha nem gazdasági célú letelepedés mellett kíván e törvény hatálya alá 
 - b) az a) pont szerinti szervtől származó, az egészségügyi dolgozó egészségügyi tevékenységvégzési jogosultságát érintő adatokat kezeli és nyilvántartja, továbbá etikai vétség gyanúja esetén az egészségügyi dolgozó működési nyilvántartásában szereplő, bárki számára megismerhető adataival együtt megküldi az etikai eljárás lefolytatására jogosult szerv részére,
 - c) a b) pont szerinti adatközlés alapján lefolytatott etikai eljárás eredményéről tájékoztatja az a) pont szerinti szervet, amennyiben az a b) pont szerinti olyan adatot küldött, ami alapján etikai eljárás indult.
 
-(16a) Amennyiben a (16) bekezdés a) pontjában szereplő megkereső szerv egy EGT-állam hatósága, és a (16) bekezdés a) pontja szerinti megkeresés a belső piaci információs rendszeren keresztül történik, az információcserére a belső piaci információs rendszeren keresztül kerül sor. Amennyiben a működési nyilvántartást vezető szerv a (16) bekezdés a) pontja szerinti kérdésben megkeresést kíván intézni egy EGT-állam hatósága felé, annak intézése a belső piaci információs rendszeren keresztül történik. Az e bekezdés szerinti hatósági ügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény nemzetközi jogsegélyre vonatkozó eljárási rendelkezéseit a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 40–41/A. §-ában foglalt eltérésekkel kell alkalmazni.
+(16a) Ha a (16) bekezdés a) pontja szerinti megkereső szerv egy EGT-állam hatósága, és a (16) bekezdés a) pontja szerinti megkeresés a belső piaci információs rendszeren keresztül történik, az információcserére a belső piaci információs rendszeren keresztül kerül sor. Ha a működési nyilvántartást vezető szerv a (16) bekezdés a) pontja szerinti kérdésben megkeresést kíván intézni egy EGT-állam hatósága felé, annak intézése a belső piaci információs rendszeren keresztül történik. Az e bekezdés szerinti hatósági ügyekben a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 40–41/A. §-ában foglaltakat kell alkalmazni.
 
 (17) A nem a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Etv.) 28. §-a szerinti tagállamban vagy állampolgár által megszerzett, illetve a nem valamely tagállam arra feljogosított intézménye által kiállított szakorvosi, szakfogorvosi, szakgyógyszerészi vagy egyéb felsőfokú szakirányú szakképzés során megszerezhető szakképzettséget tanúsító oklevelek elismerésével, valamint a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítványok kiállításával kapcsolatos feladatok ellátása az egészségügyi államigazgatási szerv hatáskörébe tartozik. Az elismert oklevél az elismerésről szóló határozatban foglaltak szerinti egészségügyi tevékenységvégzésre jogosít.
 
@@ -1607,6 +1600,8 @@ kell alkalmazni.
 (3) A jó hírnév igazolás csak akkor adható ki, ha a (2) bekezdés a)–c) pontjában foglalt valamennyi esetre vonatkozóan tartalmaz igazolást.
 
 (4) A kérelmezőnek a jó hírnév-igazolás kiállítása iránti kérelméhez csatolnia kell az Etv. XI. Fejezete szerinti hatósági bizonyítványok kiadására irányadó eljárási díjnak megfelelő összeg megfizetésének igazolását.
+
+(5) Az (1) bekezdés szerinti eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
 ### Az egészségügyi szakképesítést szerzett személyek alapnyilvántartása
 
@@ -1688,6 +1683,8 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 
 (9) Az illetékes egészségügyi szakmai kamara a (4) bekezdés i) és j) pontja szerinti adatokról – annak keletkezésétől vagy változásától számított 15 napon belül – a (4) bekezdés k) pontja szerinti azonosító megjelölésével elektronikus úton tájékoztatja a működési nyilvántartást vezető szervet.
 
+(10) A működési nyilvántartásba történő felvételre irányuló eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
+
 112/A. § (1)
 
 (2) A működési nyilvántartást vezető szerv az érvényes működési nyilvántartással rendelkező egészségügyi dolgozó tekintetében a működési nyilvántartás érvényességi ideje alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy fennáll-e a 112. § (3) bekezdés d) pontjában foglalt feltétel. A hatósági ellenőrzés céljából a működési nyilvántartást vezető szerv adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag a 112. § (3) bekezdés d) pontjában foglalt feltételek fennállásának megállapítására irányulhat.
@@ -1696,8 +1693,8 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 
 (4) Az (1) és (2) bekezdés alapján megismert személyes adatokat a működési nyilvántartást vezető szerv
 
-- a) a működési nyilvántartásba történő bejegyzés iránti eljárás jogerős befejezéséig, vagy
-- b) a (2) bekezdés szerinti hatósági ellenőrzés időtartamára, vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) a működési nyilvántartásba történő bejegyzés iránti eljárás véglegessé vált döntéssel történő befejezéséig, vagy
+- b) a (2) bekezdés szerinti hatósági ellenőrzés időtartamára, vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás véglegessé vált döntéssel történő befejezéséig kezeli.
 
 (5) A működési nyilvántartást vezető szerv a nyilvántartásba vételt, valamint a megújítást követően az egészségügyi dolgozó természetes személyazonosító adatait, a szakképesítésének, szakképesítéseinek, szakképzettségének vagy szakképzettségeinek megnevezését, az oklevelének, bizonyítványának számát, az alapnyilvántartási és a működési nyilvántartási számát, a működési nyilvántartásának lejárati dátumát, valamint az esetleges korlátozott alkalmasságának tényét tartalmazó hatósági igazolványt állít ki.
 
@@ -2382,13 +2379,13 @@ költségének fedezetét.
 - d) támogatja és összehangolja az egészségügyi ágazat feladatkörét érintő tudományos kutatótevékenységet,
 - e) irányítja az egészségügyi tevékenység ágazati irányításához és egységes működéséhez szükséges nyilvántartási és információs rendszert,
 - f) egészségügyi szakmai felügyelet gyakorlása körében módszertani és szakmai irányítási feladatokat lát el, kapcsolatot tart a nem állami fenntartású egészségügyi szolgáltatók fenntartóival, figyelemmel kíséri és véleményezi azok szakmai fejlesztési programját, továbbá egységes szempontok kidolgozásával irányítja az intézményfelügyeleti tevékenység végzését,
-- g) irányítja az egészségügy területén működő országos intézeteket, valamint az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátást vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltatókat,
+- g) irányítja az egészségügy területén működő – a miniszter által rendeletben meghatározott – országos gyógyintézeteket (a továbbiakban: országos gyógyintézetek), valamint az állam tulajdonába, illetve fenntartásába tartozó fekvőbeteg-szakellátást vagy fekvőbeteg- és hozzá kapcsolódó járóbeteg-szakellátást végző egészségügyi szolgáltatókat,
 - h) meghatározza és összehangolja a gyógyszerek, gyógyászati segédeszközök, orvostechnikai eszközök előállításával, forgalmazásával és rendelésével kapcsolatos tevékenységeket,
 - i) meghatározza az egészségügyi rendszer teljesítményértékelésére vonatkozó részletes szabályokat, a teljesítményértékelés intézményrendszerét, az egyes indikátorok meghatározásának és gyűjtésének, valamint az egészségpolitikai döntéshozatal során az értékelések felhasználásának szabályait.
 
 (2) A miniszter ágazati irányító jogköre kiterjed minden egészségügyi tevékenységre, illetőleg – jogállásától függetlenül – minden egészségügyi szolgáltatóra.
 
-(3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az (1) bekezdés g) pontja szerinti országos intézetek segítik.
+(3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az országos gyógyintézetek segítik.
 
 (4) A miniszter az egészségügyi felsőfokú szakirányú szakképzésért való feladatkörében az egészségügyi felsőfokú szakirányú szakképzésben résztvevőkre tekintettel támogatást nyújthat.
 
@@ -2524,7 +2521,11 @@ költségének fedezetét.
 
 (2) A kutatás szakmai feltételeit és részletes szabályait a miniszter – az ETT véleményének figyelembevételével – rendeletben állapítja meg, azzal, hogy kutatás engedélyezéséről szóló határozat ellen jogszabály eltérő rendelkezése hiányában fellebbezésnek helye nincs.
 
-(3) A kutatásengedélyezési eljárás ügyintézési határideje negyvenöt nap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap.
+(3) A kutatásengedélyezési eljárás ügyintézési határideje ötvenöt nap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap.
+
+(4) A közigazgatási ügyben eljáró bíróság a kutatásengedélyezési ügyben hozott döntést nem változtathatja meg.
+
+(5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint az orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
 
@@ -2564,7 +2565,7 @@ költségének fedezetét.
 - a) az elsőfokú eljárásban az ETT – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – bizottságának, részbizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy
 - b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével az egészségügyi államigazgatási szerv engedélyezi.
 
-(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított negyvenöt napon belül a kérelmet nem utasítja el.
+(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított ötvenöt nap napon belül a kérelmet nem utasítja el.
 
 160. § Sürgős szükség esetén, ha a kutatás alanyának, vagy a 16. § (1)–(2) bekezdések szerinti személynek a beleegyezése nem szerezhető meg, kizárólag a sürgős szükségben nyújtott ellátásra vonatkozó, a kutatás alanyának egészségét várhatóan közvetlenül szolgáló és előzetesen engedélyezett kutatási terven alapuló kutatás végezhető, feltéve, hogy a kutatás hasonló eredményességgel a sürgős szükségben lévő személy kutatásba történő bevonása nélkül nem végezhető el.
 
@@ -2586,12 +2587,12 @@ költségének fedezetét.
 
 164/A. § (1) A külön jogszabály szerinti beavatkozással nem járó vizsgálat a 157. és 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető. Utólagos, beavatkozással nem járó (retrospektív) vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
-(2) A (3) és (5) bekezdésben nem említett beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül adja meg.
+(2) A (3) és (5) bekezdésben nem említett beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyről az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül dönt. A döntés ellen fellebbezésnek van helye, a másodfokú eljárást az ETT elnöksége folytatja le.
 
 (3) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok esetében
 
 - a) a más EGT-tagállamot nem érintő vagy nem hatósági határozat végrehajtása érdekében végzett vizsgálatok megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított 60 napon belül kell dönteni,
-- b) a más EGT-tagállamot is érintő és hatósági határozat végrehajtása érdekében végzett beavatkozással nem járó gyógyszerbiztonsági vizsgálatok elvégzéséhez az emberen végzett orvostudományi kutatásokról szóló kormányrendeletben szabályozott etikai engedély, valamint a vizsgálat megkezdéséig történő bejelentés szükséges. Az engedély kiadásáról az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti farmakovigilanciai kockázatértékelő bizottság által jóváhagyott vizsgálati terv és a kérelem benyújtásától számított 45 napon belül kell dönteni.
+- b) a más EGT-tagállamot is érintő és hatósági határozat végrehajtása érdekében végzett beavatkozással nem járó gyógyszerbiztonsági vizsgálatok elvégzéséhez az emberen végzett orvostudományi kutatásokról szóló kormányrendeletben szabályozott etikai engedély, valamint a vizsgálat megkezdéséig történő bejelentés szükséges. Az engedély kiadásáról az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti farmakovigilanciai kockázatértékelő bizottság által jóváhagyott vizsgálati terv és a kérelem benyújtásától számított ötvenöt napon belül kell dönteni.
 
 (4) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok engedélyezése során született határozattal szemben fellebbezésnek helye nincs.
 
@@ -2602,6 +2603,10 @@ költségének fedezetét.
 164/C. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat és engedélyezés utáni gyógyszerbiztonsági vizsgálat esetében az engedélyt nem lehet megadni abban az esetben sem, ha a vizsgálatról megállapítható, hogy a vizsgálat végzése a a gyógyszer vagy orvostechnikai eszköz alkalmazására ösztönöz.
 
 (2) Az egészségügyi szakembereknek a beavatkozással nem járó engedélyezés utáni gyógyszerbiztonsági vizsgálatokban való részvételükért nyújtott kifizetéseket az idejük ellentételezésére és a gyógyszerbiztonsági vizsgálatokkal kapcsolatosan felmerült, indokolt és igazolt költségeik megtérítésére kell korlátozni.
+
+164/D. § (1) A Magyarország területén végzendő kutatásengedélyezési eljárásokban nincs helye előzetes szakhatósági állásfoglalás kiadásának.
+
+(2) A VIII. Fejezet szerinti kutatásengedélyezési eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
 ### IX. Fejezet — AZ EMBERI REPRODUKCIÓRA IRÁNYULÓ KÜLÖNLEGES ELJÁRÁSOK, AZ EMBRIÓKKALÉS IVARSEJTEKKEL VÉGZETT KUTATÁSOK,A MŰVI MEDDŐVÉTÉTEL
 
@@ -2812,7 +2817,9 @@ végezhető kutatás. Az eljárásban a 186. § szerinti Humán Reprodukciós Bi
 
 (4) Az (1)–(3) bekezdésekben meghatározott eljárások az embriót létrehozó házastársak (élettársak) – tájékoztatásukat követően tett – írásbeli beleegyező nyilatkozata alapján, reprodukciós eljárás végzésére jogosult egészségügyi szolgáltatónál alkalmazhatóak.
 
-183–184. §
+183. § Az embriókkal vagy ivarsejtekkel végezhető kutatások, vizsgálatok és beavatkozások engedélyezésével kapcsolatos közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A bíróság a döntést nem változtathatja meg.
+
+184. §
 
 ### Embriók, magzatok számának csökkentése többes terhességben
 
@@ -2882,9 +2889,9 @@ személynél végezhető el.
 
 (2) A gyámhatóság a hozzájárulás megadása előtt vizsgálja, hogy a 187. § (1) bekezdés b) pontja szerinti személy kérelme akaratával egyező-e, így különösen azt, hogy az érintett és törvényes képviselője között fennáll-e érdekellentét, továbbá azt, hogy az érintett tisztában van-e a döntése következményeivel.
 
-(3) Ha a 187. § (1) bekezdés b) pontja szerinti személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Törvényszéknél keresetet indíthat a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
+(3) Ha a 187. § (1) bekezdés b) pontja szerinti személy kérelme ellenére a törvényes képviselő vagy a gyámhatóság a beavatkozás elvégzéséhez nem járul hozzá, a kérelmező a Fővárosi Törvényszéknél kérelmet terjeszthet elő a jognyilatkozat vagy a jognyilatkozatok pótlása iránt.
 
-(4) A bíróság a kérelemről nemperes eljárásban, a kérelmező és a törvényes képviselő, illetve a gyámhatóság meghallgatását követően, harminc napon belül határoz. A bíróság a jognyilatkozatot abban az esetben pótolja, ha a művi meddővé tétel elvégzése a kérelmező érdekét – figyelembe véve különösen a kérelmező egészségügyi, személyi és családi körülményeit – nem sérti.
+(4) A bíróság a kérelemről polgári nemperes eljárásban, a kérelmező és a törvényes képviselő, illetve a gyámhatóság meghallgatását követően, harminc napon belül határoz. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló törvény szabályait és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni. A bíróság a jognyilatkozatot abban az esetben pótolja, ha a művi meddővé tétel elvégzése a kérelmező érdekét – figyelembe véve különösen a kérelmező egészségügyi, személyi és családi körülményeit – nem sérti.
 
 (5) A bíróság határozata ellen annak közlésétől számított tizenöt napon belül terjeszthető elő fellebbezés. A határozat ellen felülvizsgálatnak nincs helye.
 
@@ -2896,9 +2903,9 @@ személynél végezhető el.
 
 187/B. § (1) Cselekvőképtelen személy művi meddővé tételére irányuló beavatkozás kizárólag jogerős bírósági határozat alapján, a fogamzóképesség elérését követően végezhető el.
 
-(2) A cselekvőképtelen személy művi meddővé tételének engedélyezése iránt az érintett személy törvényes képviselője – tizennyolcadik életévét be nem töltött cselekvőképtelen személy esetében a gyámhatósággal együttesen – indíthat keresetet a Fővárosi Törvényszéknél.
+(2) A cselekvőképtelen személy művi meddővé tételének engedélyezése iránt az érintett személy törvényes képviselője – tizennyolcadik életévét be nem töltött cselekvőképtelen személy esetében a gyámhatósággal együttesen – terjeszthet elő kérelmet a Fővárosi Törvényszéknél.
 
-(3) A bíróság a kérelemről nemperes eljárásban a cselekvőképtelen személy, a törvényes képviselő, valamint a gyámhatóság meghallgatását követően, harminc napon belül határoz.
+(3) A bíróság a kérelemről polgári nemperes eljárásban, a cselekvőképtelen személy, a törvényes képviselő, valamint a gyámhatóság meghallgatását követően, harminc napon belül határoz. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló törvény szabályait és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni.
 
 (4) A bíróság a cselekvőképtelen személy művi meddővé tételére irányuló beavatkozás elvégzését akkor engedélyezi, ha más fogamzásgátlási módszer alkalmazása nem lehetséges vagy egészségügyi okból nem javasolható, és
 
@@ -3006,7 +3013,7 @@ van helye.
 
 (2) A beteg felvételét követően a pszichiátriai intézet vezetője 24 órán belül a bíróság értesítésével kezdeményezi a beszállítás indokoltságának megállapítását és a kötelező pszichiátriai intézeti gyógykezelés elrendelését.
 
-(3) A bíróság az értesítés kézhezvételétől számított 72 órán belül határozatot hoz. A bíróság határozatának meghozataláig a beteg ideiglenesen az intézetben tartható.
+(3) A bíróság az értesítés kézhezvételétől számított 72 órán belül határozatot hoz. A bíróság határozatának meghozataláig a beteg ideiglenesen az intézetben tartható. A bíróság a határozatot, annak meghozatalától számított legkésőbb öt napon belül írásba foglalja és az írásba foglalást követő kettő napon belül elrendeli annak kézbesítését.
 
 (4) A határozat meghozataláig elsősorban a veszélyeztető vagy közvetlen veszélyeztető magatartás megszüntetésére kell törekedni. A szakmailag lehetséges mértékben és módon kerülni kell az olyan beavatkozások elvégzését, amelyek lehetetlenné teszik, hogy a bíróság a személyes meghallgatás során a beteg aktuális pszichés állapotát megítélje. Amennyiben erre mégis sor kerül, azt részletesen dokumentálni és indokolni kell.
 
@@ -3048,7 +3055,7 @@ van helye.
 
 ### Közös eljárási szabályok
 
-201. § (1) A bíróság az e fejezetben szabályozott eljárások során nemperes eljárásban jár el. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló 1952. évi III. törvényt kell megfelelően alkalmazni. A 196–200. §-ok szerinti eljárásokban kijelölt bírósági titkár is eljárhat.
+201. § (1) A bíróság az e fejezetben szabályozott eljárások során a járásbíróság hatáskörébe tartozó polgári nemperes eljárásban jár el. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, a bírósági eljárásban a polgári perrendtartásról szóló törvény szabályait és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell megfelelően alkalmazni. A 196–200. § szerinti eljárásokban kijelölt bírósági titkár is eljárhat.
 
 (2) Az e fejezetben szabályozott nemperes eljárások tárgyi költségmentesek.
 
@@ -3088,7 +3095,7 @@ van helye.
 - a) aki a sürgősségi vagy kötelező gyógykezelés hatálya alatt a gyógykezelést végző pszichiátriai intézetet engedély nélkül elhagyja, vagy
 - b) akinek a bíróság a 200. § alapján elrendeli a kötelező intézeti gyógykezelését és a beteg a jogerős határozat kézhezvételétől számított három napon belül nem jelenik meg a végzésben megjelölt pszichiátriai intézetben.
 
-(2) A körözést elrendelő határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(2) A körözést elrendelő határozat azonnal végrehajthatóvá nyilvánítható.
 
 (3) Az előállítás végrehajtásához az azt elrendelő egészségügyi államigazgatási szerv a körözési eljárást lefolytató szervet megfelelő tájékoztatással látja el.
 
@@ -3679,7 +3686,7 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 244/B. §
 
-244/C. § Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+244/C. § Az e törvény alapján lefolytatott eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 244/C. §
 
@@ -3690,6 +3697,8 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 244/F. § Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CXXVII. törvénnyel (a továbbiakban: Módtv3.) megállapított 113. § (4a) bekezdésében foglaltak a Módtv3. hatályba lépésekor érvényes működési nyilvántartással rendelkező egészségügyi dolgozók esetében is alkalmazandók.
 
 244/G. § Ahol e törvény csecsemőgondozási díjat említ, azon terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való jogosultság 2015. január 1-jét megelőzően nyílt meg.
+
+244/H. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 
@@ -3729,8 +3738,9 @@ rendeletben kijelölje.
   - md) a szakorvosképzés intézményi akkreditációját végző szervet,
   - me) a szakképzéshez kapcsolódó támogatások mértékét,
   - mf) a Rezidens Támogatási Programra, valamint a Fiatal Szakorvosok Támogatási Programjára vonatkozó részletszabályokat,
+  - mg) az egészségügyi felsőfokú szakirányú szakképzéshez kapcsolódó hatósági eljárások szabályait
 - n) a nem az Etv. 28. §-a szerinti tagállamban egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képesítést tanúsító oklevelek, bizonyítványok elismerése során eljáró hatóságot,
-- o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilvántartást vezető szervet és a működési nyilvántartást vezető szervet,
+- o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilvántartást vezető szervet, valamint a szakértői tevékenységgel kapcsolatos hatósági eljárás részletes szabályait és a működési nyilvántartást vezető szervet,
 - p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
 - q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat,
 - r) a sürgős szükség esetén külön jogszabályban meghatározott ellátások költségeinek behajtására és finanszírozására irányuló eljárási szabályokat,
@@ -3739,7 +3749,9 @@ rendeletben kijelölje.
 - u) az emberen végzett orvostudományi kutatások engedélyezési eljárásának részletes szabályait,
 - v) az intézeten kívüli szülés szakmai szabályait, feltételeit és kizáró okait,
 - w) a holttest hűtésének naponkénti legmagasabb árát,
-- x) az egészségségre ártalmas szintet elérő hő- és hideghullámok, napsugárzás idején szükséges tájékoztatási és riasztási szintet, az egészségre ártalmas szintet elérő hő- és hideghullámok esetén bevezetendő intézkedések körét és tartalmát, továbbá az országos szintű hőségriasztásra vonatkozó részletes szabályokat
+- x) az egészségségre ártalmas szintet elérő hő- és hideghullámok, napsugárzás idején szükséges tájékoztatási és riasztási szintet, az egészségre ártalmas szintet elérő hő- és hideghullámok esetén bevezetendő intézkedések körét és tartalmát, továbbá az országos szintű hőségriasztásra vonatkozó részletes szabályokat,
+- y) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
+- z) a természetes gyógytényezőkkel kapcsolatos hatósági eljárásra vonatkozó részletes szabályokat
 
 rendeletben megállapítsa.
 
@@ -3803,7 +3815,7 @@ rendeletben megállapítsa.
   - km) a gyártási, forgalomba hozatali, alkalmazási, klinikai vizsgálati, nyilvántartásba vételi, időszakos felülvizsgálati eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
   - kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
 - l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
-- m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégiumok és országos intézetek feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
+- m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégium és tagozatai feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 - n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
 - o) az emberen végzett orvostudományi kutatásra vonatkozó részletes szabályokat,
 - p) az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtek és embriók adományozására és fagyasztva tárolására vonatkozó, továbbá az ivarsejtekkel és az embriókkal végzett kutatás részletes szabályokat,
@@ -3838,7 +3850,7 @@ rendeletben állapítsa meg.
   - hb) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
   - hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
   - hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
-- i) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
+- i)
 - j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
 - k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
 - l) a 137. § b) pontja szerinti azon járóbeteg-szakellátási tevékenységeket, amelyek befejezésekor ambuláns ellátási lapot kell kiállítani, valamint az ambuláns ellátási lap tartalmával kapcsolatos szabályokat
@@ -3849,7 +3861,7 @@ rendeletben állapítsa meg.
 - o) az egészségfejlesztési irodák jogállására, feladat- és hatáskörére, finanszírozására vonatkozó részletszabályokat, valamint a járási (fővárosi kerületi) egészségterv tartalmi követelményeit,
 - p) az állami és nem állami szervezetek hazai és nemzetközi egészségügyi segítségnyújtásra vonatkozó szabályokat, valamint az ilyen tevékenységet végzők nyilvántartására és felkészítésére vonatkozó szabályokat,
 - q) a prehospitális gyógyszeralkalmazás szabályait,
-- r) az állami fenntartásban működő országos gyógyintézetek körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
+- r) az állami fenntartásban működő országos gyógyintézetek típusait és körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
 
 rendeletben állapítsa meg.
 

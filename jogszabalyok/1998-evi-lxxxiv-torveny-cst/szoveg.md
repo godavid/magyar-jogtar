@@ -12,14 +12,19 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 ### A törvény hatálya
 
-2. § E törvény hatálya kiterjed – amennyiben nemzetközi szerződés eltérően nem rendelkezik – a Magyarország területén élő
+2. § E törvény hatálya – ha nemzetközi szerződés eltérően nem rendelkezik – kiterjed
 
-- a) magyar állampolgárra,
-- b) bevándorolt vagy letelepedett jogállású, továbbá a magyar hatóság által menekültként, oltalmazottként vagy hontalanként elismert személyekre,
-- c) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
-- d) – az anyasági támogatás (IV. fejezet) kivételével – a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletekben (a továbbiakban: uniós rendeletek) meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
-- e) – az anyasági támogatás (IV. fejezet) kivételével – a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárra,
-- f) összevont engedéllyel rendelkező harmadik országbeli állampolgárra, feltéve, hogy a munkavállalást számára hat hónapot meghaladó időtartamra, de a vállalaton belül áthelyezett személy esetén legalább kilenc hónapra engedélyezték.
+- a) a Magyarország területén élő
+  - aa) magyar állampolgárra,
+  - ab) bevándorolt vagy letelepedett jogállású, továbbá a magyar hatóság által menekültként, oltalmazottként vagy hontalanként elismert személyekre,
+  - ac) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
+  - ad) – az anyasági támogatás kivételével – a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletekben (a továbbiakban: uniós rendeletek) meghatározott jogosulti körbe tartozó személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, és – a határ menti ingázó munkavállalókat kivéve – a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
+  - ae) – az anyasági támogatás kivételével – a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgárra,
+  - af) összevont engedéllyel rendelkező harmadik országbeli állampolgárra, feltéve, hogy a munkavállalást számára hat hónapot meghaladó időtartamra, de a vállalaton belül áthelyezett személy esetén legalább kilenc hónapra engedélyezték;
+- b) a 29. § (4) bekezdése, valamint a 35. § (3) bekezdés b) pontja tekintetében a nem Magyarország területén élő, tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő magyar állampolgárra, illetve vele együtt élő házastársára, élettársára;
+- c) az anyasági támogatás tekintetében a b) pontban foglaltakon túl a nem Magyarország területén élő, külföldön született,
+  - ca) a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv által anyakönyvezett, magyar állampolgárságú gyermek vér szerinti anyjára, örökbefogadó szülőjére vagy gyámjára, vagy
+  - cb) a szomszédos államokban élő magyarokról szóló törvény alapján kiadott „Magyar igazolvánnyal” rendelkező gyermek vér szerinti anyjára, örökbefogadó szülőjére vagy gyámjára, feltéve, hogy a gyermek lakóhelye szerinti szomszédos állam joga szerint a magyar állampolgárság felvétele a szomszédos állam szerinti állampolgárságtól való megfosztással jár.
 
 ### Alapelvek
 
@@ -43,7 +48,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 - f) tartósan beteg, illetve súlyosan fogyatékos személy:
   - fa) az a tizennyolc évesnél fiatalabb gyermek, aki a külön jogszabályban meghatározott betegsége, illetve fogyatékossága miatt állandó vagy fokozott felügyeletre, gondozásra szorul,
   - fb) az a tizennyolc évesnél idősebb személy, aki a tizennyolcadik életévének a betöltése előtt munkaképességét legalább 67%-ban elvesztette, legalább 50%-os mértékű egészségkárosodást szenvedett, vagy akinek egészségi állapota a rehabilitációs hatóság minősítése alapján a tizennyolcadik életévének a betöltése előtt sem haladja meg az 50%-os mértéket, és ez az állapot legalább egy éve tart, vagy előreláthatólag legalább egy évig fennáll;
-- g) nevelőszülő: az a személy, aki nevelőszülői foglalkoztatási jogviszonya keretében saját háztartásában gondozza a gyámhatóság jogerős határozatával nála elhelyezett, nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
+- g) nevelőszülő: az a személy, aki nevelőszülői foglalkoztatási jogviszonya keretében saját háztartásában gondozza a gyámhatóság végleges határozatával nála elhelyezett, nevelésbe vett gyermeket és az utógondozói ellátásban részesülő fiatal felnőttet;
 - h)
 - i) jövedelem: az a személyi jövedelemadóról szóló törvényben adóköteles jövedelemként meghatározott – belföldről vagy külföldről származó – vagyoni érték, bevétel, amelynek havi összege meghaladja a mindenkori legkisebb munkabér összegét;
 - j) rendszeres jövedelem: a legalább három egymást követő hónapban keletkezett jövedelem;
@@ -124,7 +129,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 10. § (1) A családi pótlékot – függetlenül az igénylés és a megszüntetés időpontjától – teljes hónapra kell megállapítani és folyósítani.
 
-(2) A kizárólag az ellátás megnevezésében – a tankötelezettség kezdetével vagy megszűnésével összefüggésben – bekövetkező, a családi pótlék összegét és az arra való jogosultság fennállást nem érintő változásokról hozott döntést nem kell határozatba foglalni.
+(2) A kizárólag az ellátás megnevezésében – a tankötelezettség kezdetével vagy megszűnésével összefüggésben – bekövetkező, a családi pótlék összegét és az arra való jogosultság fennállását nem érintő változásokról hozott döntést nem kell határozatba foglalni.
 
 11. § (1) A családi pótlék havi összege
 
@@ -141,7 +146,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (2) A köznevelési intézményben a tizennyolcadik életévének betöltését követően tanulmányokat folytató azon személyre tekintettel, aki után a tizennyolcadik életéve betöltéséig az (1) bekezdés g) vagy h) pontja szerinti összegben folyósítottak iskoláztatási támogatást, az iskoláztatási támogatást továbbra is a korábban folyósított összegnek megfelelő összegben kell folyósítani. Más jogszabály alkalmazásában magasabb összegű családi pótléknak minősül az (1) bekezdés g)–i) pontja szerinti, valamint az e bekezdés alapján folyósított ellátás.
 
-(3) A tartósan beteg, illetve súlyosan fogyatékos gyermekre tekintettel vagy személy részére járó magasabb összegű családi pótlék annak a hónapnak a végéig jár, ameddig a betegség, súlyos fogyatékosság fennállását a külön jogszabályban előírtak szerint igazolták.
+(3) A tartósan beteg, illetve súlyosan fogyatékos gyermekre tekintettel vagy személy részére járó magasabb összegű családi pótlék annak a hónapnak a végéig jár, ameddig a betegség, súlyos fogyatékosság fennállását igazolták.
 
 (4) Ha a kiskorú szülő gyermekének nincs gyámja, vagy ha a tizenhatodik életévét betöltött kiskorú szülő a saját háztartásában nevelt gyermekének gyámjával a Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:152. § (4) bekezdése szerint nem él egy háztartásban, a családi pótlékot a kiskorú szülő részére kell megállapítani.
 
@@ -157,7 +162,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 - a) aki kül- és belföldi tanulmányai folytatása vagy gyógykezelése okán átmeneti jelleggel tartózkodik a háztartáson kívül,
 - b) akit szociális intézményben 30 napot meg nem haladóan helyeztek el, vagy
-- c) aki a szülő kérelmére átmeneti gondozásban részesül, vagy szülőjével együtt családok átmeneti otthonában [Gyvt. 49–51. §] tartózkodik.
+- c) aki a szülő kérelmére vagy beleegyezésével a Gyvt. VI/D. Fejezetében meghatározott átmeneti gondozásban részesül.
 
 (3) A családi pótlék összegének megállapítása szempontjából egyedülállónak kell tekinteni azt a szülőt, gyámot is, aki saját maga, illetve akinek a házastársa, élettársa
 
@@ -274,7 +279,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 - a) az Szt. 4. §-a (1) bekezdésének i) pontjában megjelölt rendszeres pénzellátás valamelyikében részesül, ide nem értve
   - aa) a gyermekgondozási támogatást, valamint a gyermekgondozási támogatás folyósítása mellett végzett kereső tevékenység után járó táppénzt, baleseti táppénzt, továbbá az Szt. 43. §-a szerinti kiemelt ápolási díjnak vagy az Szt. 43/A. §-a szerinti emelt összegű ápolási díjnak az Szt. 44. § (2) bekezdése szerinti összegét,
-  - ab) a gyermekgondozást segítő ellátásra való jogosultság esetében a társadalombiztosítási nyugellátást, a társadalombiztosítási nyugellátásról szóló törvény szerint társadalombiztosítási nyugellátással egy tekintet alá eső ellátást, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátást, az egyházi jogi személy által folyósított egyházi, felekezeti nyugdíjat, a korhatár előtti ellátást, a szolgálati járandóságot, a táncművészeti életjáradékot, az átmeneti bányászjáradékot, a nem ugyanazon gyermek után folyósított csecsemőgondozási díjat valamint a gyermekgondozási díjat, továbbá a rehabilitációs járadékot, rokkantsági járadékot, a megváltozott munkaképességű személyek ellátásait, a bányászok egészségkárosodási járadékát;
+  - ab) a gyermekgondozást segítő ellátásra való jogosultság esetében a társadalombiztosítási nyugellátást, a társadalombiztosítási nyugellátásról szóló törvény szerint társadalombiztosítási nyugellátással egy tekintet alá eső ellátást, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátást, az egyházi jogi személy által folyósított egyházi, felekezeti nyugdíjat, a korhatár előtti ellátást, a szolgálati járandóságot, a táncművészeti életjáradékot, az átmeneti bányászjáradékot, a nem ugyanazon gyermek után folyósított csecsemőgondozási díjat valamint a gyermekgondozási díjat, továbbá a rehabilitációs járadékot, rokkantsági járadékot, a megváltozott munkaképességű személyek ellátásait, a bányászok egészségkárosodási járadékát, a tartós ápolást végzők időskori támogatását;
 - b) olyan gyermek után igényli a támogatást, akit a Gyvt. alapján ideiglenes hatállyal elhelyeztek, nevelésbe vettek, továbbá az Szt. alapján 30 napot meghaladóan szociális intézményben helyeztek el;
 - c)
 - d) előzetes letartóztatásban van, illetve szabadságvesztés büntetését tölti.
@@ -290,25 +295,25 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 29. § (1) Anyasági támogatásra jogosult a szülést követően
 
 - a) az a nő, aki várandóssága alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – várandósgondozáson vett részt;
-- b) az örökbefogadó szülő, ha a szülést követő hat hónapon belül az örökbefogadást jogerősen engedélyezték;
-- c) a gyám, ha a gyermek a születését követően hat hónapon belül – jogerős határozat alapján – a gondozásába kerül.
+- b) az örökbefogadó szülő, ha a szülést követő hat hónapon belül az örökbefogadást végleges határozatban engedélyezték;
+- c) a gyám, ha a gyermek a születését követően hat hónapon belül – végleges határozat alapján – a gondozásába kerül.
 
 (2) Az anyasági támogatás az (1) bekezdés a) pontja szerinti jogosultat akkor is megilleti, ha a gyermek halva született.
 
 (3) E fejezet hatálya a 2. §-ban meghatározottakon túl kiterjed arra az anyasági támogatás igénylésének időpontjában a Magyarország területén jogszerűen tartózkodó nőre, aki a várandóssága alatt legalább négy alkalommal – koraszülés esetén legalább egyszer – Magyarország területén várandósgondozáson vett részt.
 
-(4) A 2. § a) pontja alapján anyasági támogatásra jogosult a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatot teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs is, ha a várandóssága alatt négy alkalommal – koraszülés esetén egy alkalommal – várandósgondozáson részt vett.
+(4) A 2. § a) pont aa) alpontja alapján anyasági támogatásra az a személy is jogosult, aki a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti tartós külszolgálatot (a továbbiakban: tartós külszolgálat), vagy más jogszabály szerint tartós külföldi szolgálatot teljesít, ide értve a vele életvitelszerűen együtt élő házastársat, élettársat.
 
 30. § Amennyiben az anyasági támogatásra jogosult nő a támogatás felvételét megelőzően meghal, úgy az anyasági támogatást az anyával egy háztartásban élt apának kell kifizetni, ezen személy hiányában annak a személynek, aki a gyermek gondozását ellátja.
 
 31. § Az anyasági támogatás – gyermekenkénti – összege azonos a gyermek születésének időpontjában érvényes öregségi nyugdíj legkisebb összegének 225%-ával, ikergyermekek esetén 300%-ával.
 
-32. § Az anyasági támogatás megállapítása iránti kérelmet a szülést követő hat hónapon belül lehet benyújtani. A kérelem késedelmes benyújtása esetén igazolási kérelem benyújtásának van helye.
+32. § Az anyasági támogatás megállapítása iránti kérelmet a szülést követő hat hónapon belül lehet benyújtani.
 
 33. § (1) Nem jár anyasági támogatás, ha
 
 - a) a szülők a gyermek születését megelőzően nyilatkozatban hozzájárultak a gyermek örökbefogadásához;
-- b) a megszületett gyermek a gyámhatóság jogerős határozata alapján családból kikerülést eredményező gyermekvédelmi gondoskodásban részesül.
+- b) a megszületett gyermek a gyámhatóság végleges határozata alapján családból kikerülést eredményező gyermekvédelmi gondoskodásban részesül.
 
 (2) Az anyasági támogatás – a szülést követő hat hónapon belül benyújtott igény esetén – megilleti a jogosultat, ha
 
@@ -319,20 +324,18 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 ### Az igényelbírálás szabályai
 
-34. § (1) A családtámogatási ellátás (a továbbiakban: ellátás) iránti kérelmet írásban kell előterjeszteni. Egyidejűleg a kérelemhez csatolni kell az elbíráláshoz szükséges tények, adatok igazolását.
+34. § (1) A családtámogatási eljárásban a kérelmet írásban kell előterjeszteni.
 
-(2) Ha családtámogatással összefüggő elsőfokú eljárásban
-
-- a) az egészségkárosodás mértéke és az egészségkárosodásnak a kérelmező 18. életéve előtti fennállása,
-- b) az egészségkárosodás felülvizsgálatának szükségessége,
-- c) a felülvizsgálat szükségessége esetén annak időpontja kérdését szakkérdésként kell vizsgálni, az ügyintézési határidő negyven nap.
+(2)
 
 (3) Az uniós rendeletek alapján lefolytatott eljárások ügyintézési határidejére az uniós rendeletek szabályai irányadók.
 
-35. § (1) Az ellátás iránti kérelmet elbíráló szerv
+(4) A 2. § c) pont ca) alpontjában meghatározott személy által anyasági támogatás megállapítása iránt benyújtott kérelem esetén, ha a gyermek külföldön történt születésének hazai anyakönyvezése még nem történt meg, a családtámogatási eljárás lefolytatására az általános közigazgatási rendtartásról szóló törvény kapcsolódó eljárásra vonatkozó szabályait kell alkalmazni.
+
+35. § (1) A családtámogatási ellátás (a továbbiakban: ellátás) iránti kérelmet elbíráló szerv
 
 - a) a családtámogatási ügyben eljáró hatóság,
-- b) a külön jogszabályban meghatározott családtámogatási kifizetőhely.
+- b) a külön jogszabályban meghatározott családtámogatási kifizetőhely (az a) és b) pontban meghatározottak a továbbiakban együtt: igényelbíráló szerv).
 
 (2)
 
@@ -342,11 +345,13 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
   - aa) az Európai Unió tagállama,
   - ab) az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
   - ac) olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, vagy
-- b) az egyéb ellátás folyósításának időtartama alatt, ha a Külszoltv. szerinti tartós külszolgálatot vagy külföldi szolgálatot teljesítő személy vagy a vele együtt élő, Külszoltv. szerinti házastársa részére az e törvény alapján ellátásra jogosító gyermekre tekintettel jogszabály alapján bármilyen címen ellátást, támogatást folyósítanak.
+- b) az egyéb ellátás folyósításának időtartama alatt, ha a tartós külszolgálatot vagy tartós külföldi szolgálatot teljesítő személy vagy vele együtt élő házastársa, élettársa részére az e törvény alapján ellátásra jogosító gyermek után jogszabály alapján a tartós külszolgálatra vagy tartós külföldi szolgálatra tekintettel bármilyen jogcímen ellátást, díjat vagy támogatást folyósítanak.
 
 (4) Amennyiben az uniós rendeletek alapján a magyar állam a családi ellátások vonatkozásában a különbözet kifizetésére kötelezett, a kifizetést az éves költségvetésről szóló törvény családi pótlék előirányzatának terhére kell teljesíteni.
 
-36. §
+35/A. § A Külszoltv. hatálya alá tartozó személy részére a külszolgálatra tekintettel az e törvény alapján ellátásra jogosító gyermek után bármilyen jogcímen járó ellátás, díj vagy támogatás megállapításáról valamint megszűnéséről a külpolitikáért felelős miniszter adatot szolgáltat a családtámogatási ügyben eljáró hatóság részére.
+
+36. § A családtámogatási ellátással kapcsolatos eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
 36/A. § (1) A köznevelési intézményben tanulmányokat folytatók tanulói jogviszonyának létesítéséről, fennállásáról és megszűnéséről a Kormány által az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatokat ellátó szerven, szervezeten keresztül adatot szolgáltat a családtámogatási ügyben eljáró hatóság részére. Az adatok átadásának módjáról az oktatásért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv és a központi családtámogatási szerv megállapodást köt.
 
@@ -355,7 +360,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 - a) ha az ellátás iránti igényt családtámogatási kifizetőhely bírálja el,
 - b) a családtámogatási ügyben eljáró hatóság hiánypótlásra való felszólítása alapján, a családi pótlékban részesülő, azonban az (1) bekezdés szerinti adatszolgáltatásban nem szereplő gyermek, illetve személy esetében.
 
-(3) A felsőoktatási intézményben tanulmányokat folytatók hallgatói jogviszonyának fennállásáról és annak megszűnéséről a Kormány által az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv az egységes szociális nyilvántartással kapcsolatos adatfeldolgozási feladatokat ellátó szerven, szervezeten keresztül adatot szolgáltat a családtámogatási ügyben eljáró hatóság részére. Az adatok átadásának módjáról az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv és a központi családtámogatási szerv megállapodást köt.
+(3) A felsőoktatási intézményben tanulmányokat folytatók hallgatói jogviszonyának fennállásáról, szüneteléséről és megszűnéséről a Kormány által az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv a központi családtámogatási szakmai informatikai rendszeren keresztül közvetlen hozzáférést biztosít a családtámogatási ügyben eljáró hatóság részére. Az adatok kezelésének módjáról az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv és a központi családtámogatási szerv megállapodást köt.
 
 37. § (1) A családtámogatási ellátás a kérelem benyújtásának időpontjától jár, feltéve, hogy a benyújtás időpontjában a jogosultság fennáll. A családtámogatási ellátást visszamenőleg, legfeljebb a kérelem benyújtásának napját megelőző második hónap első napjától kell megállapítani, ha a jogosultság már ettől az időponttól kezdve fennállt.
 
@@ -409,7 +414,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (7) Ha az ellátás jogalap nélküli megállapításáért, felvételéért az igényelbíráló szervet és az egyéb szervet is felelősség terheli, úgy a jogalap nélkül felvett ellátás megtérítéséért egyetemlegesen felelnek.
 
-42. § (1) A jogalap nélkül felvett ellátás visszafizetéséről határozattal, az igényelbíráló szervvel vagy egyéb szervvel szemben érvényesítendő megtérítésről fizetési meghagyással kell intézkedni. A jogerős határozat vagy fizetési meghagyás végrehajtható közigazgatási határozat.
+42. § (1) A jogalap nélkül felvett családtámogatási ellátás visszafizetéséről, az igényelbíráló szerv vagy az egyéb szerv részére előírt megtérítési kötelezettségről határozatban kell rendelkezni.
 
 (2) Az igényelbíráló szerv a követelést a jogalap nélkül felvett ellátás utolsó kifizetésétől számított három éven belül érvényesítheti. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, úgy a követelés három éven túl is érvényesíthető mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
 
@@ -417,25 +422,21 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (2) A jogalap nélkül felvett ellátást elsősorban a még folyósított ellátásból kell levonni. Ha a jogalap nélkül felvett ellátási formából már nem történik folyósítás, akkor a jogalap nélkül felvett ellátás összege bármely folyósított ellátás összegéből levonható. Az együtt élő szülők háztartásában élő gyermekre tekintettel folyósított, jogalap nélkül felvett családtámogatási ellátás bármelyik szülő részére folyósított ellátásból levonható.
 
-(3) A levonást a visszafizetésre kötelező határozat jogerőre emelkedése után lehet megkezdeni. A levonással meg nem térült, illetőleg a túlfizetés összegére tekintettel csak hosszabb idő alatt megtérülő követelés összegét az ellátást igénybe vevő keresetéből is le lehet vonni.
+(3) A levonást végleges visszafizetésre kötelező határozat alapján lehet megkezdeni. A levonással meg nem térült, illetőleg a túlfizetés összegére tekintettel csak hosszabb idő alatt megtérülő követelés összegét az ellátást igénybe vevő keresetéből is le lehet vonni.
 
-(4) Ha a fizetésre kötelezett szerv, személy a fizetésre kötelező határozat vagy a fizetési meghagyás jogerőre emelkedésétől számított tizenöt napon belül fizetési kötelezettségét nem teljesíti, úgy a központi családtámogatási szerv megteszi a követelés végrehajtásához szükséges intézkedéseket és a követelést adók módjára hajtatja be.
+(4) Ha a fizetésre kötelezett szerv, személy a fizetésre kötelező határozat véglegessé válásától számított tizenöt napon belül fizetési kötelezettségét nem teljesíti, úgy a központi családtámogatási szerv megteszi a követelés végrehajtásához szükséges intézkedéseket.
 
-(5) A jogalap nélkül kifizetett és jogerős határozat alapján visszakövetelt családtámogatási ellátás összegét a magánszemély kérelmére a központi családtámogatási szerv vezetője kivételes méltányosságból elengedheti vagy mérsékelheti, ha annak megfizetése az adós és a vele együtt élő közeli hozzátartozó megélhetését súlyosan veszélyezteti és behajtási eljárás eredménytelen volt.
+(5) A jogalap nélkül kifizetett és végleges határozat alapján visszakövetelt családtámogatási ellátás összegét a magánszemély kérelmére a központi családtámogatási szerv vezetője kivételes méltányosságból elengedheti vagy mérsékelheti, ha annak megfizetése az adós és a vele együtt élő közeli hozzátartozó megélhetését súlyosan veszélyezteti és behajtási eljárás eredménytelen volt.
 
-(6) A jogalap nélkül kifizetett és jogerős határozat alapján visszakövetelt családtámogatási ellátás összegét a magánszemély kérelmére a központi családtámogatási szerv vezetője méltányosságból elengedheti, ha a visszafizetésre kötelezett személy az ellátás teljes összegét az arra jogosult személynek átadta, a felvett ellátás összege nem haladja meg a jogosultat megillető összeget és a jogosult nem részesült egyidejűleg az ellátásban.
+(6) A jogalap nélkül kifizetett és végleges határozat alapján visszakövetelt családtámogatási ellátás összegét a magánszemély kérelmére a központi családtámogatási szerv vezetője méltányosságból elengedheti, ha a visszafizetésre kötelezett személy az ellátás teljes összegét az arra jogosult személynek átadta, a felvett ellátás összege nem haladja meg a jogosultat megillető összeget és a jogosult nem részesült egyidejűleg az ellátásban.
 
 ### Jogorvoslat
 
-44. § (1) Ha az ügyfél az igényelbíráló szerv döntésével, vagy a határozathozatal mellőzése esetén intézkedésével nem ért egyet, úgy a kézhezvételtől, illetve az intézkedésről való tudomásszerzéstől számított tizenöt napon belül fellebbezéssel élhet.
+44. § (1) A 22. §, valamint a 43. § (5) és (6) bekezdése szerinti határozat ellen nincs helye fellebbezésnek.
 
-(2) A 22. § és a 43. § (5)–(6) bekezdése szerinti határozat ellen nincs helye fellebbezésnek.
+(2) A családtámogatásokkal kapcsolatos ügyekben a keresetlevél benyújtásának halasztó hatálya van, kivéve, ha a kereseti kérelem kizárólag a határozatban megállapított ellátási összegen felüli többletigényre irányul.
 
-(3)
-
-(4)
-
-(5) A megtérítésre kötelezett szerv az ellene kibocsátott fizetési meghagyással szemben bírósághoz fordulhat. A fizetési meghagyás ellen határidőben benyújtott keresetnek a vitatott összeg erejéig halasztó hatálya van.
+(3) A méltányossági jogkörben hozott döntés ellen indított közigazgatási perben kizárólag semmisségre lehet hivatkozni.
 
 ### VI. Fejezet — ADATVÉDELEM
 
@@ -451,7 +452,8 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 - f) a jogosult fizetési számlaszámára vonatkozó adat;
 - g) a jogosult, a jogosult házastársának, bejegyzett élettársának, élettársának, továbbá a nagykorú gyermek jövedelmére vonatkozó adat;
 - h) az ellátásra jogosító gyermek tartós betegségére, súlyos fogyatékosságára vonatkozó adat;
-- i) a magasabb összegű családi pótlékban részesülő, 18. életévét betöltött jogosult munkaképesség-csökkenése, illetve egészségkárosodása mértékére vonatkozó adat.
+- i) a magasabb összegű családi pótlékban részesülő, 18. életévét betöltött jogosult munkaképesség-csökkenése, illetve egészségkárosodása mértékére vonatkozó adat;
+- j) a 2. § c) pont cb) alpontjában meghatározott személy nevére a szomszédos államokban élő magyarokról szóló törvény alapján kiadott „Magyar igazolvány” sorszámára vonatkozó adat.
 
 (2a) A (2) bekezdés h) pontja szerinti adatkör tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
@@ -502,7 +504,8 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 - c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a Gyvt. szerint a hatáskörébe tartozó pénzbeli ellátások feltételeinek meghatározása érdekében, valamint az iskoláztatási támogatás szüneteltetésével kapcsolatos feladatainak ellátásához szükséges adatokat,
 - d) a Diákhitel Központ Zrt. a célzott kamattámogatás megállapításához és a Diákhitel Központ Zrt. célzott kamattámogatás megállapításával összefüggő döntésével szemben benyújtott kifogás elbírálására jogosult szerv a kifogás elbírálásához szükséges adatokat,
 - e) a települési önkormányzat képviselő-testülete az Szt. szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
-- f) a menekültügyi hatóság a menedékjogról szóló törvény szerint a hatáskörébe tartozó támogatások jogosultsági feltételeinek meghatározása érdekében szükséges adatokat
+- f) a menekültügyi hatóság a menedékjogról szóló törvény szerint a hatáskörébe tartozó támogatások jogosultsági feltételeinek meghatározása érdekében szükséges adatokat,
+- g) a nevelési-oktatási intézmény a feladatkörébe tartozó támogatások, kedvezmények megállapításához szükséges adatokat
 
 közvetlen lekérdezéssel díjmentesen elérheti.
 
@@ -530,13 +533,15 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 
 50/C. § Az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvénnyel megállapított 25. § (2) és (3) bekezdésében és 27. § (1) bekezdés a) pont ab) alpontjában foglaltakat a 2013. december 31-ét követően született vagy a szülő, gyám háztartásába került első gyermek esetében, továbbá azon 2013. december 31-ét követően született vagy a szülő, gyám háztartásába került második vagy további gyermek esetében kell alkalmazni, akinek a szülője, gyámja a háztartásában 2014. január 1-jét megelőzően született vagy háztartásba került, a 20. § (1) bekezdés a)–c) pontja szerinti életkorú gyermeket nevel.
 
+50/D. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 51. § Felhatalmazást kap
 
 - a) a Kormány arra, hogy a családtámogatási ellátások igénylésével, megállapításával, folyósításával és a jogalap nélkül felvett ellátások visszafizetésével, megtérítésével, valamint az igényelbíráló szervek adatfeldolgozásával kapcsolatos, továbbá a hatáskör átadásból adódó végrehajtási szabályokat rendeletben szabályozza;
 - b) a családpolitikáért felelős miniszter, hogy rendeletben szabályozza
   - ba) – az egészségügyért felelős miniszterrel egyetértésben – a magasabb összegű családi pótlékra jogosító betegségek körét, valamint az erről szóló igazolások kiadásának rendjét,
   - bb) a családtámogatási ellátások igényléséhez szükséges formanyomtatványok tartalmát;
-- c) a Kormány arra, hogy a 2. § c)–e) pontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg;
+- c) a Kormány arra, hogy a 2. § a) pont ac)–af) alpontjában meghatározott személyekre vonatkozó családtámogatási ellátások igénylésével, megállapításával, folyósításával, valamint az igényelbíráló szervek adatkezelésével kapcsolatos végrehajtási szabályokat rendeletben határozza meg;
 - d) a Kormány, hogy a családtámogatási ügyben eljáró hatóságot és a központi családtámogatási szervet rendeletben kijelölje.
 
 52. §
@@ -550,7 +555,8 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 - c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont,
 - d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés e) pont, valamint 12. cikk (2) bekezdés b) pont,
 - e) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv,
-- f) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv.
+- f) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv,
+- g) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv.
 
 53/A. §
 

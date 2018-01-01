@@ -22,9 +22,9 @@ a következő törvényt alkotja:
 - d) közszolgáltatás: szerződéskötési kötelezettség alapján a lakosság alapvető szükségleteinek ellátására irányuló szolgáltatás, így különösen a villamosenergia-, gáz-, hő-, víz-, szennyvíz- és hulladékkezelési, köztisztasági, postai és távközlési szolgáltatás, továbbá a menetrend alapján közlekedő járművekkel végzett közforgalmú személyszállítás,
 - e) civil és érdek-képviseleti szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti civil szervezet, amelynek alapszabályában, illetve alapító okiratában a szervezet céljai között a védett tulajdonság pontos meghatározásával körülírt hátrányos helyzetű csoportok társadalmi esélyegyenlőségének, illetve társadalmi felzárkózásának elősegítése vagy a védett tulajdonság pontos meghatározásával körülírt emberi és állampolgári jogok védelme szerepel, valamint az adott nemzetiség tekintetében a nemzetiségi önkormányzat, továbbá a munkavállalók anyagi, szociális és kulturális, valamint élet- és munkakörülményeivel összefüggő ügyeiben a szakszervezet,
 - f) hozzátartozó: a házastárs, a bejegyzett élettárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, illetve az egyeneságbeli rokon házastársa, bejegyzett élettársa, a házastárs, illetve a bejegyzett élettárs egyeneságbeli rokona és testvére, valamint a testvér házastársa, illetve bejegyzett élettársa,
-- g) kérelmező: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely a 15. § (1) bekezdés a) pontja vagy 20. § (1) bekezdés b) pontja alapján az egyenlő bánásmód követelménye megsértésének magállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül,
+- g) kérelmező: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az egyenlő bánásmód követelménye megsértésének megállapítását maga kezdeményezte, vagy arra jogosult lett volna és az eljárásban ügyfélnek minősül,
 - h) eljárás alá vont személy: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárást folytatják,
-- i) jogsértő: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárás eredményeként a hatóság jogerősen megállapította a jogsértést.
+- i) jogsértő: az a természetes személy, jogi személy vagy jogi személyiség nélküli szervezet, akivel vagy amellyel szemben az egyenlő bánásmód követelményét biztosító rendelkezések megsértésének megállapítására irányuló eljárás eredményeként a hatóság megállapította a jogsértést.
 
 (2) E törvény alkalmazásában munkaerő-kölcsönzés esetén munkáltatón a kölcsönvevőt is érteni kell.
 
@@ -126,7 +126,7 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 ### II. Fejezet — AZ EGYENLŐ BÁNÁSMÓD KÖVETELMÉNYÉNEK MEGSÉRTÉSE MIATT INDÍTOTT ELJÁRÁSOK
 
-12. § Az egyenlő bánásmód követelményének megsértése miatti igények az e fejezetben, valamint külön jogszabályokban meghatározott eljárások során – így különösen személyiségi jogi per, munkaügyi per, fogyasztóvédelmi, munkaügyi vagy szabálysértési hatóságok eljárása során – érvényesíthetőek.
+12. § Az egyenlő bánásmód követelményének megsértése miatti igények az e fejezetben, valamint külön jogszabályokban meghatározott eljárások során – így különösen személyiségi jog érvényesítése iránti per, munkaügyi per, közszolgálati jogviszonnyal kapcsolatos per, valamint fogyasztóvédelmi, munkaügyi vagy szabálysértési hatóságok eljárása során – érvényesíthetőek.
 
 ### Az egyenlő bánásmód követelményének érvényesítésével kapcsolatos egyes szabályok
 
@@ -153,38 +153,38 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 (5) A hatóság a kiskorú ügyfél érdekeinek veszélyeztetettsége esetén soron kívül, de legkésőbb negyvenöt napon belül dönt.
 
-15. § (1) Az egyenlő bánásmód követelménye az e törvény megsértésének vizsgálatát a sérelmet szenvedett fél választása szerint
+15. § (1) Az egyenlő bánásmód követelménye megsértésének vizsgálatát a sérelmet szenvedett fél választása szerint
 
 - a) a hatóság, vagy
 - b) az egyenlő bánásmód követelménye megsértésének elbírálására külön törvény alapján hatáskörrel rendelkező más közigazgatási szerv folytatja le.
 
-(2) Az eljárás megindításáról, annak jogerős befejezéséről, valamint a döntéssel kapcsolatos bírósági felülvizsgálat során hozott jogerős ítéletről vagy végzésről a hatóság a külön törvény alapján hatáskörrel rendelkező közigazgatási szervet, illetve e közigazgatási szerv a hatóságot értesíti.
+(2) Az eljárás megindításáról, végleges döntéséről, valamint kapcsolódó közigazgatási pert befejező jogerős határozatról a hatóság a külön törvény alapján hatáskörrel rendelkező közigazgatási szervet, illetve e közigazgatási szerv a hatóságot értesíti.
 
 (3) Ha az (1) bekezdés alapján valamely közigazgatási szerv előtt eljárás indult, úgy más közigazgatási szerv ugyanazon törvénysértés tekintetében
 
 - a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
-- b) más személy ellen elkövetett törvénysértés esetén a megindult eljárását az ügy jogerős elbírálásáig felfüggeszti.
+- b) más személy ellen elkövetett törvénysértés esetén a megindult eljárását az ügyben a más közigazgatási szerv által meghozandó döntés véglegessé válásáig felfüggeszti.
 
 (4) Ha az ügyet valamely közigazgatási szerv elbírálta, más közigazgatási szerv ugyanazon törvénysértés tekintetében
 
 - a) azonos személy ellen elkövetett törvénysértés esetén nem járhat el,
-- b) más személy ellen elkövetett törvénysértés esetén megindult eljárásában a jogerős határozatban megállapított tényállást alapul véve jár el.
+- b) más személy ellen elkövetett törvénysértés esetén megindult eljárásában a végleges határozatban megállapított tényállást alapul véve jár el.
 
 (5) A hatóság hivatalból is eljár az egyenlő bánásmód követelményének a 4. § a)–d) pontjában meghatározott szervek általi megsértésével kapcsolatban, ha az adott ügyben más közigazgatási szerv előtt nincs folyamatban eljárás.
 
-(6) A hatóság a más közigazgatási szerv által az egyenlő bánásmód követelményének megsértésével kapcsolatban hozott közigazgatási döntés bírósági felülvizsgálata során a perben beavatkozóként részt vehet.
+(6)
 
 (7) Ha az eljárás során szakértő meghallgatása, véleményének kikérése szükséges, a hatóságnak elsősorban azt a hatáskörrel rendelkező illetékes közigazgatási szervet kell kirendelnie, amelynél a sérelmet szenvedett személy az (1) bekezdés b) pontja alapján az eljárást megindíthatta volna.
 
 15/A. § (1) Az egyenlő bánásmód követelményének megsértése miatt indított eljárásban a 19. §-ban meghatározott bizonyítási szabályok alkalmazásának van helye.
 
-(2) Az egyenlő bánásmód követelménye megsértésének vizsgálatakor a hatóság a kérelmezőt és az egyenlő bánásmód követelményének megsértését bejelentő személyt erre irányuló kérelmére az eljárás alá vont távollétében hallgatja meg.
+(2) Az egyenlő bánásmód követelménye megsértésének vizsgálatakor a hatóság a kérelmezőt és az egyenlő bánásmód követelményének megsértését bejelentő személyt erre irányuló kérelmére az eljárás alá vont személy távollétében hallgatja meg.
 
-(3) A hatóság az egyenlő bánásmód követelménye megtartásának ellenőrzésére tesztelést végezhet, amelynek során az eljárás alá vont személy magatartásának, intézkedésének, feltételének, mulasztásának, utasításának vagy gyakorlatának (a továbbiakban együtt: rendelkezés) vonatkozásában azonos helyzetbe hoz valamely, a 8. §-ban meghatározott helyzetükben, tulajdonságukban vagy jellemzőjükben (a továbbiakban együtt: tulajdonság) különböző, de egyéb tekintetben hasonló tulajdonságú személyeket, és az eljárás alá vont személy rendelkezését az egyenlő bánásmód követelményének való megfelelés szempontjából megvizsgálja.
+(3) A hatóság az egyenlő bánásmód követelménye megtartásának ellenőrzésére tesztelést végezhet, amelynek során az eljárás alá vont személy magatartásának, intézkedésének, feltételének, mulasztásának, utasításának vagy gyakorlatának (a továbbiakban együtt: gyakorlat) vonatkozásában azonos helyzetbe hoz valamely, a 8. §-ban meghatározott tulajdonságukban különböző, de egyéb tekintetben hasonló jellemzőkkel bíró személyeket, és az eljárás alá vont személy gyakorlatát az egyenlő bánásmód követelményének való megfelelés szempontjából megvizsgálja.
 
 (4) A tesztelés eredménye az egyenlő bánásmód követelményének megsértése miatt indított eljárások során bizonyítékként felhasználható.
 
-(5) A hatóság a (3) bekezdésben megjelölt vizsgálat során megbízási jogviszony keretében közreműködőt is igénybe vehet, akinek a részére megbízólevelet állít ki, amely tartalmazza annak nevét, továbbá azt, hogy mely eljárás alá vont személynél milyen típusú ellenőrzést folytathat le.
+(5) A hatóság a (3) bekezdésben megjelölt vizsgálat során megbízási jogviszony keretében közreműködőt is igénybe vehet, akinek a részére megbízólevelet állít ki, amely tartalmazza annak nevét, továbbá azt, hogy mely eljárás alá vont személynél milyen típusú tesztelést folytathat le.
 
 15/B. § (1) Ha az egyenlő bánásmód követelményének megsértése miatt a jogsérelmet szenvedett fél vagy a közérdekű igényérvényesítésre jogosult bíróság előtt eljárást indított, a hatóság vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv az eljárását az ügy jogerős elbírálásáig felfüggeszti és az erről hozott végzést közli a bírósággal.
 
@@ -197,13 +197,15 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 - a) azonos személy ellen elkövetett törvénysértés miatt eljárás nem indítható,
 - b) más személy ellen elkövetett törvénysértés esetén a hatóság vagy a 15. § (1) bekezdés b) pontjában meghatározott más közigazgatási szerv a bíróság határozatában megállapított tényállást alapul véve jár el.
 
-16. § (1) Az egyenlő bánásmód követelményének megsértése miatti közigazgatási hatósági eljárásban egyéb eljárási költségnek minősülnek a 15/A. § (3)–(5) bekezdésében meghatározott bizonyítási eljárás különös szabályai alkalmazása során felmerült költségek, valamint a hatóságnak a székhelyén kívül végzett eljárási cselekményeivel kapcsolatban felmerülő valamennyi költség.
+16. § (1)
 
-(2) A látássérült ügyfél számára – kérelmére – a tárgyalás során készült jegyzőkönyvet, továbbá az eljárást lezáró döntést Braille-írásban is el kell készíteni. A Braille-írásra történő fordítással felmerült költségek eljárási költségnek minősülnek.
+(2) A látássérült ügyfél számára – kérelmére – a tárgyalás során készült jegyzőkönyvet, továbbá az eljárást lezáró döntést Braille-írásban is el kell készíteni.
 
-(3) A kérelemre indult eljárásban az egyéb eljárási költségeket a hatóság, illetve az eljárásban való részvételével kapcsolatban felmerülő költségek tekintetében az eljárás alá vont, a sérelmet szenvedett féllel ellenérdekű fél előlegezi meg.
+(3) A kérelemre indult eljárásban az eljárási költségeket a hatóság, illetve az eljárásban való részvételével kapcsolatban felmerülő költségek tekintetében az eljárás alá vont személy előlegezi meg.
 
-(4) A kérelem elutasítása esetén a sérelmet szenvedett fél csak akkor viseli az egyéb eljárási költségeket, ha a hatóság megállapította, hogy rosszhiszemű volt.
+(4) A kérelem elutasítása esetén a sérelmet szenvedett fél csak akkor viseli az eljárási költségeket, ha a hatóság megállapította, hogy rosszhiszemű volt.
+
+(4a) Ha a felek a hatóság előtt egyezséget kötnek, és azt a hatóság jóváhagyja, az eljárási költséget – az ügyfél képviseletében eljáró személy költségei és az eljárás résztvevőjének jogellenes magatartása által okozott költségek kivételével – a hatóság viseli.
 
 (5) A hatóság a székhelyén lakcímmel, tartózkodási hellyel, illetve értesítési címmel nem rendelkező személyt, ha meghallgatása az eljárás során szükséges, azon önkormányzat polgármesteri hivatalának a székhelyére idézi, amelynek székhelyén lakik vagy életvitelszerűen tartózkodik. Az idézett személy meghallgatását a hatóság az idézésben megjelölt helyszínen foganatosítja. Ha a lakóhellyel, tartózkodási hellyel, illetve értesítési címmel nem rendelkező személy életvitelszerűen a fővárosban tartózkodik, a hatóság a székhelyére idézi vagy meghallgatását székhelyén foganatosítja.
 
@@ -220,17 +222,9 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 - c) az a) pontban meghatározott szervek által alapított vagy támogatott civil szervezet, vagy
 - d) az a) és b) pontban meghatározott szervek részvételével működő gazdasági társaság, a személyeket a lakcímükről legjobban megközelíthető, az eljárásban nem érintett települési önkormányzat polgármesteri hivatalának, fővárosban a hatóság székhelyére kell idézni.
 
-(10) Ha az (5)-(9) bekezdésben foglaltak alkalmazása aránytalan nehézséggel vagy az eljárás indokolatlan elhúzódásával járna, a meghallgatandó személyt a hatóság – a megjelenéssel járó költségek megtérítése mellett – székhelyére is idézheti.
+(10) Ha az (5), (6) és (9) bekezdésben foglaltak alkalmazása aránytalan nehézséggel vagy az eljárás indokolatlan elhúzódásával járna, a meghallgatandó személyt a hatóság – a megjelenéssel járó költségek megtérítése mellett – székhelyére is idézheti.
 
-(11) A hatóság a kérelemre indult eljárásban – a (12) és (13) bekezdésben meghatározott kivétellel – tárgyalást tart.
-
-(12) A hatóság a tárgyalás tartását mellőzheti
-
-- a) ha az ügy ténybeli és jogi megítélése egyszerű, és annak eldöntésére az iratok alapján mód van,
-- b) ha a tárgyalás tartása – különös tekintettel a (6) bekezdésben meghatározottakra – aránytalan nehézséggel járna,
-- c) ha a tárgyalás tartása a kérelmező érdekeit sérti,
-- d) a kérelmező erre irányuló kérelmére, vagy
-- e) a kérelmet érdemi vizsgálat nélkül elutasítja.
+(11)–(12)
 
 (13) A hatóságnak a döntés meghozatala előtt meg kell kísérelnie egyezség létrehozását.
 
@@ -250,11 +244,11 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 - a) elrendelheti a jogsértő állapot megszüntetését,
 - b) megtilthatja a jogsértő magatartás jövőbeni tanúsítását,
-- c) elrendelheti a jogerős határozatának – a jogsértő nyilvános adatainak kivételével személyazonosításra alkalmatlan módon – nyilvános közzétételét,
+- c) elrendelheti a jogerős határozatának – a jogsértő közérdekből nyilvános adatainak kivételével személyazonosításra alkalmatlan módon – közérdekből nyilvános közzétételét,
 - d) bírságot szabhat ki,
 - e) külön törvényben meghatározott jogkövetkezményt alkalmazhat.
 
-(2) Az (1) bekezdés c) pontja alkalmazásában közérdekből nyilvános adat a természetes személy jogsértő természetes személyazonosító adata és lakcíme, valamint a jogi személy, jogi személyiség nélküli szervezet jogsértő neve, székhelye.
+(2) Az (1) bekezdés c) pontja alkalmazásában közérdekből nyilvános adat a természetes személy jogsértő természetes személyazonosító adata és lakcíme, valamint a jogi személy, jogi személyiség nélküli szervezet jogsértő neve, székhelye is.
 
 (3) Az (1) bekezdésben meghatározott jogkövetkezményeket az eset összes körülményére, így különösen a sérelmet szenvedettek körére, a jogsértéssel okozott hátrány visszafordíthatóságára, a jogsértő állapot időtartamára, a jogsértő magatartás ismétlődésére és gyakoriságára, a jogsértést elkövető gazdasági súlyára, a jogsértést elkövető eljárást segítő, együttműködő magatartására tekintettel kell meghatározni.
 
@@ -266,63 +260,63 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 (7) Az egyenlő bánásmód követelményét biztosító rendelkezés megsértéséért kiszabható bírság megállapítására irányuló eljárás a hatóságnak a jogsértésről való tudomásszerzésétől számított három hónapon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg. Ha a jogsértő magatartás vagy állapot folyamatos, a határidő ennek befejeződésekor kezdődik.
 
-17/B. § (1) A hatóság döntése ellen fellebbezésnek nincs helye.
+17/B. § (1)
 
 (2) A hatóságnak az egyenlő bánásmód követelményének megsértése tárgyában folyamatban lévő eljárásban hozott döntését felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
 
-(3) A bírósági felülvizsgálat során a Fővárosi Közigazgatási és Munkaügyi Bíróság három hivatásos bíróból álló tanácsban jár el, ha azt a fél a keresetlevélben, illetve a hatóság a keresetlevélben foglaltakra vonatkozó nyilatkozatában kéri.
+(3)
 
-17/C. § (1) A hatóság az egyenlő bánásmód követelménye megtartásával kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából hatósági nyilvántartást vezet, amely tartalmazza azoknak a foglalkoztatóknak az adatait, amelyekre vonatkozóan a hatóság jogerős és végrehajtható határozata, illetőleg – a határozat bírósági felülvizsgálata esetén – jogerős bírósági határozat jogsértést állapított meg.
+17/C. § (1) A hatóság az egyenlő bánásmód követelménye megtartásával kapcsolatos adatoknak más szervek eljárásában történő felhasználása céljából hatósági nyilvántartást vezet, amely tartalmazza azoknak a foglalkoztatóknak az adatait, amelyekre vonatkozóan a hatóság végleges és végrehajtható határozata, illetőleg – a határozat elleni közigazgatási per esetén – jogerős bírósági határozat jogsértést állapított meg.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
 - a) a foglalkoztató nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét,
-- b) a jogsértést megállapító határozat keltét és számát, jogerőre emelkedésének és végrehajthatóvá válásának időpontját,
+- b) a jogsértést megállapító határozat keltét és számát, véglegessé és végrehajthatóvá válásának időpontját,
 - c) a jogsértés megjelölését,
 - d) az alkalmazott jogkövetkezményt és mértékét az annak alapjául szolgáló jogszabályhelyre történő utalással,
-- e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság hatályon kívül helyező vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító döntést hozott.
+- e) a határozat elleni közigazgatási per esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság hatályon kívül helyező vagy hatályon kívül helyező és új eljárást elrendelő vagy a keresetet elutasító döntést hozott.
 
-(3) A hatósági nyilvántartás adatait a hatóság az általa létrehozott informatikai rendszerben kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítését a hatóság végzi, a jogsértést megállapító határozat jogerőre emelkedésének és végrehajthatóvá válásának napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
+(3) A hatósági nyilvántartás adatait a hatóság az általa létrehozott informatikai rendszerben kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítését a hatóság végzi, a jogsértést megállapító határozat véglegessé és végrehajthatóvá válásának napján, a közigazgatási határozat elleni közigazgatási per esetén a bíróság határozatáról való tudomásszerzést követő munkanapon.
 
-(4) A hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének és végrehajthatóvá válásának napjától számított két év elteltével törli.
+(4) A hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló határozat jogerőre emelkedésének, illetve véglegessé és végrehajthatóvá válásának napjától számított két év elteltével törli.
 
-17/D. § (1) A hatóság – a (3) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a jogerős és végrehajtható közigazgatási vagy – a közigazgatási határozat bírósági felülvizsgálata esetén – bírósági határozattal két éven belül azonos jogsértés ismételt elkövetése miatt bírsággal sújtott munkáltatókra vonatkozó, a 17/C. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat bírósági felülvizsgálata esetén a 17/C. § (2) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján akkor hozza nyilvánosságra, amikor a korábbival azonos jogsértés két éven belüli ismételt elkövetésének megállapítására jogszabály alapján jogerős és végrehajtható közigazgatási határozattal sor került.
+17/D. § (1) A hatóság – a (3) bekezdésben foglalt eltéréssel – az általa vezetett nyilvántartás adataiból a végleges és végrehajtható közigazgatási vagy – a közigazgatási határozat elleni közigazgatási per esetén – bírósági határozattal két éven belül azonos jogsértés ismételt elkövetése miatt bírsággal sújtott munkáltatókra vonatkozó, a 17/C. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint a közigazgatási határozat elleni közigazgatási per esetén a 17/C. § (2) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján akkor hozza nyilvánosságra, amikor a korábbival azonos jogsértés két éven belüli ismételt elkövetésének megállapítására jogszabály alapján végleges és végrehajtható közigazgatási határozattal sor került.
 
-(2) Az (1) bekezdés alkalmazásában – több telephellyel rendelkező munkáltató esetében – azonos jogsértés ismételt elkövetésén az ugyanazon telephelyen kétéves időszakon belül jogerős és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
+(2) Az (1) bekezdés alkalmazásában – több telephellyel rendelkező munkáltató esetében – azonos jogsértés ismételt elkövetésén az ugyanazon telephelyen kétéves időszakon belül végleges és végrehajtható határozattal megállapított azonos jogsértést kell érteni.
 
-(3) Ha a hatóság tudomására jutott, hogy határozatának bírósági felülvizsgálata iránt keresetet indítottak,
+(3) Ha a hatóság tudomására jutott, hogy határozata ellen közigazgatási pert indítottak,
 
 - a) az (1) és (2) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
 - b) intézkedik a honlapon nyilvánosságra hozott adatok törléséről, amennyiben az (1) és (2) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került.
 
-(4) A hatóság nyilvántartásba-vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+(4) A hatóság nyilvántartásba-vételi és közzétételi kötelezettségét nem érinti, ha a foglalkoztató a végleges közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
 
 ### Adatkezelésre vonatkozó különös szabályok
 
-17/E. § (1) A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése a 14. § (1) bekezdés a) pontja szerinti eljárása során a hatásköre gyakorlásához nem elengedhetetlenül szükséges.
+17/E. § (1)
 
-(2) Az eljárás alá vont ügyfél az üggyel összefüggő iratokat és elektronikus adathordozón tárolt adatokat felhívásra rendelkezésre bocsátja, illetve az egyenlő bánásmód követelményének megsértése ellenőrzéséhez szükséges tények, körülmények, egyéb feltételek megismerését biztosítja. Nem kötelezhető az ügyfél olyan nyilvántartás, összesítés elkészítésére, amelyet jogszabály nem ír elő, ha annak elkészítése aránytalan ráfordítást igényelne.
+(2) Az eljárás alá vont személy az üggyel összefüggő iratokat és elektronikus adathordozón tárolt adatokat felhívásra rendelkezésre bocsátja, illetve az egyenlő bánásmód követelményének megsértése ellenőrzéséhez szükséges tények, körülmények, egyéb feltételek megismerését biztosítja. Nem kötelezhető az eljárás alá vont személy olyan nyilvántartás, összesítés elkészítésére, amelyet jogszabály nem ír elő, ha annak elkészítése aránytalan ráfordítást igényelne.
 
 (3) A hatóság a (2) bekezdés alapján csak olyan különleges adat rendelkezésre bocsátására hívhat fel, amely kezelése az eljárás céljára tekintettel elengedhetetlenül szükséges, és amely hiányában az eljárás eredményessége nem lenne biztosítható.
 
-(4) A közigazgatási hatósági eljárásban a hatóság jogosult a személyes adatokat tartalmazó nyilvántartás vagy adatbázis szemletárgyként való lefoglalására is.
+(4) A közigazgatási hatósági eljárásban a hatóság jogosult a személyes adatokat tartalmazó nyilvántartás vagy adatbázis zár alá vételére vagy lefoglalására is.
 
 ### Képviselet
 
-18. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban – így különösen személyiségi jogi per, munkaügyi per során – a civil és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el. A civil és érdek-képviseleti szervezet a képviseleti jogosultságát az alapszabálya vagy alapító okirata és az ügyféltől kapott írásbeli meghatalmazás csatolásával igazolja.
+18. § (1) Az egyenlő bánásmód követelményének megsértése miatt indult eljárásokban – így különösen személyiségi jog érvényesítése iránti per, munkaügyi per, közszolgálati jogviszonnyal kapcsolatos per során – a civil és érdek-képviseleti szervezet, valamint a hatóság a jogsérelmet szenvedett fél meghatalmazása alapján – törvény eltérő rendelkezése hiányában – képviselőként járhat el. A civil és érdek-képviseleti szervezet a képviseleti jogosultságát – ha a szervezet az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján annak igazolására kötelezhető – az alapszabálya vagy alapító okirata és az ügyféltől kapott írásbeli meghatalmazás, vagy ezek hiteles másolata csatolásával igazolja.
 
 (2) Az egyenlő bánásmód követelményének megsértése miatt indult hatósági eljárásban az (1) bekezdés szerinti szervezetet megilletik az ügyfél jogai.
 
-(3) Ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti, az (1) bekezdés szerinti szervezet a hatóság előtt eljárást indíthat.
+(3) Ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan, a 8. §-ban meghatározott valamely alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti, az (1) bekezdés szerinti szervezet a hatóság előtt eljárást indíthat.
 
 ### A bizonyítás szabályai
 
 19. § (1) Az egyenlő bánásmód követelményének megsértése miatt indított eljárásokban a jogsérelmet szenvedett félnek vagy a közérdekű igényérvényesítésre jogosultnak kell valószínűsítenie, hogy
 
 - a) a jogsérelmet szenvedő személyt vagy csoportot hátrány érte vagy – közérdekű igényérvényesítés esetén – ennek közvetlen veszélye fenyeget, és
-- b) a jogsérelmet szenvedő személy vagy csoport a jogsértéskor – ténylegesen vagy a jogsértő feltételezése szerint – rendelkezett a 8. §-ban meghatározott valamely tulajdonsággal.
+- b) a jogsérelmet szenvedő személy vagy csoport a jogsértéskor – ténylegesen vagy az eljárás alá vont személy feltételezése szerint – rendelkezett a 8. §-ban meghatározott valamely tulajdonsággal.
 
-(2) Az (1) bekezdésben foglaltak valószínűsítése esetén a másik felet terheli annak bizonyítása, hogy
+(2) Az (1) bekezdésben foglaltak valószínűsítése esetén a másik félnek kell azt bizonyítania, hogy
 
 - a) a jogsérelmet szenvedett fél vagy a közérdekű igényérvényesítésre jogosult által valószínűsített körülmények nem álltak fenn, vagy
 - b) az egyenlő bánásmód követelményét megtartotta, illetve az adott jogviszony tekintetében nem volt köteles megtartani.
@@ -331,13 +325,13 @@ miatt részesül kedvezőtlenebb bánásmódban, mint amelyben más, összehason
 
 ### Közérdekű igényérvényesítés
 
-20. § (1) Az egyenlő bánásmód követelményének megsértése miatt bíróság előtt személyiségi jogi pert, valamint munkaügyi pert indíthat
+20. § (1) Az egyenlő bánásmód követelményének megsértése miatt bíróság előtt személyiségi jog érvényesítése iránti pert, munkaügyi pert, valamint közszolgálati jogviszonnyal kapcsolatos pert indíthat
 
 - a) az ügyész,
 - b) a hatóság,
 - c) a civil és érdek-képviseleti szervezet,
 
-ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan tulajdonságon alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
+ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen veszélye olyan, a 8. §-ban meghatározott valamely alapult, amely az egyes ember személyiségének lényegi vonása, és a jogsértés vagy annak közvetlen veszélye személyek pontosan meg nem határozható, nagyobb csoportját érinti.
 
 (2) A hatóság haladéktalanul törli azokat a személyes és különleges adatokat, amelyek kezelése az (1) bekezdés szerinti hatásköre gyakorlásához nem elengedhetetlenül szükséges.
 
@@ -360,7 +354,7 @@ ha az egyenlő bánásmód követelményének megsértése vagy annak közvetlen
 
 22. § (1) Nem jelenti az egyenlő bánásmód követelményének megsértését
 
-- a) a munka jellege vagy természete alapján indokolt, az alkalmazásnál számba vehető minden lényeges és jogszerű feltételre alapított arányos megkülönböztetés,
+- a) az alkalmazáskor a munka vagy a munkakörülmények természete alapján indokolt, tényleges és meghatározó szakmai feltételre alapított, jogszerű célt követő és azzal arányos megkülönböztetés,
 - b) a vallási vagy más világnézeti meggyőződésen, illetve nemzeti vagy etnikai hovatartozáson alapuló, a szervezet jellegét alapvetően meghatározó szellemiségből közvetlenül adódó, az adott foglalkozási tevékenység tartalma vagy természete miatt indokolt, arányos és valós foglalkoztatási követelményen alapuló megkülönböztetés.
 
 (2) A 21. § f) pontjának alkalmazása során a 8. § a)–e) pontjaiban meghatározott tulajdonság tekintetében tett közvetlen hátrányos megkülönböztetés minden esetben sérti az egyenlő bánásmód követelményét.
@@ -683,7 +677,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 - a) a Tanács 76/207/EGK irányelve a nőkkel és a férfiakkal való egyenlő bánásmód elvének a munkavállalás, a szakképzés és az előmenetel lehetőségei, valamint a munkafeltételek terén történő végrehajtásáról és az azt módosító 2002/73/EK irányelv,
 - b) a Tanács 79/7/EGK irányelve a férfiakkal és a nőkkel való egyenlő bánásmód elvének a szociális biztonság területén történő fokozatos megvalósításáról,
 - c) a Tanács 86/378/EGK irányelve a férfiakkal és a nőkkel való egyenlő bánásmód elvének a foglalkoztatási szociális biztonsági rendszerekben történő megvalósításáról,
-- d) a Tanács 86/613/EGK irányelve valamely tevékenységet, beleértve a mezőgazdaságot, önálló vállalkozást folytató férfiakkal és nőkkel való egyenlő bánásmód elvének alkalmazásáról, valamint az önálló vállalkozó nők terhességi és anyasági védelméről,
+- d) az önálló vállalkozói tevékenységet folytató férfiak és nők közötti egyenlő bánásmód elvének alkalmazásáról és a 86/613/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. július 7-i 2010/41/EU európai parlamenti és tanácsi irányelv,
 - e) a Tanács 97/80/EK irányelve a bizonyítási kötelezettségről a nemi hovatartozás alapján történő diszkriminációs esetekben,
 - f) a Tanács 2000/43/EK irányelve a személyek közötti, faji vagy etnikai származásra való tekintet nélküli egyenlő bánásmód elvének végrehajtásáról,
 - g) a Tanács 2000/78/EK irányelve a foglalkoztatási és munkahelyi egyenlő bánásmód általános kereteinek a létrehozásáról,
@@ -691,6 +685,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 - i) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló 2010. március 8-i 2010/18/EU tanácsi irányelv,
 - j) a férfiak és nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK tanácsi irányelv,
 - k) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelv,
-- l) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv.
+- l) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv,
+- m) a munkavállalók szabad mozgásával összefüggésben a munkavállalóknak biztosított jogok gyakorlását megkönnyítő intézkedésekről szóló, 2014. április 16-i 2014/54/EU európai parlamenti és tanácsi irányelv 2. cikk (1) bekezdés b) és c) pontja.
 
 66. § A 32. § és a 32/A. § a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló 2008. augusztus 6-i 800/2008/EK bizottsági rendelet 38. és 39. cikkének hatálya alá tartozó támogatást tartalmaz.

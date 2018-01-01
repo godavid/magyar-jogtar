@@ -12,7 +12,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 (3) A kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő hatósági ügyben az eljárás az állami adóhatóság hatáskörébe tartozik.
 
-(4) Az adózó a kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
+(4) Az adózó a kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
 
 (5) A kisadózó vállalkozások tételes adója és a kisvállalati adó a központi költségvetés bevétele.
 
@@ -35,10 +35,11 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
   - e) olyan magánszemély, aki 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult, és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül,
   - f) rokkantsági ellátásban részesül és egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50 százalékos vagy kisebb mértékű,
   - g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő tevékenységet folytató egyéni vállalkozónak vagy társas vállalkozónak minősül, ideértve más kisadózó vállalkozásban fennálló főállású kisadózó jogállást is,
-  - h) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszonyban áll;
+  - h) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszonyban áll,
+  - i) a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat, vagy az előzőekben nem említett államokban folytat ez előbbieknek megfelelő tanulmányokat;
 - 9. kapcsolt vállalkozás: a Tao. tv. 4. § 23. pontja szerinti vállalkozás;
-- 10. kisadózó vállalkozás: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó, egyéni cég, közkereseti társaság és betéti társaság;
-- 11. kisadózó: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó esetében az egyéni vállalkozó mint magánszemély, egyéni cég esetén annak tagja, közkereseti társaság és betéti társaság esetén a társaság kisadózóként bejelentett tagja;
+- 10. kisadózó vállalkozás: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó, egyéni cég, közkereseti társaság és betéti társaság, valamint ügyvédi iroda;
+- 11. kisadózó: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó esetében az egyéni vállalkozó mint magánszemély, egyéni cég esetén annak tagja, közkereseti társaság, betéti társaság, valamint ügyvédi iroda esetén a társaság, az ügyvédi iroda kisadózóként bejelentett tagja;
 - 12. kisadózó vállalkozás bevétele: a kisadózó vállalkozás által a vállalkozási tevékenységével összefüggésben bármely jogcímen és bármely formában mástól megszerzett vagyoni érték, ideértve a tevékenység végzéséhez kapott támogatást és a külföldön is adóköteles bevételt, valamint az az összeg, amelyet az adóalany az általa kibocsátott bizonylat alapján az adóalanyisága megszűnése napjáig még nem szerzett meg azzal, hogy nem bevétel
   - a) az áthárított általános forgalmi adó,
   - b) az a vagyoni érték, amelyet az adóalany köteles visszaszolgáltatni (így különösen a kapott kölcsön, hitel),
@@ -82,7 +83,8 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 - a) az egyéni vállalkozó,
 - b) az egyéni cég,
 - c) a kizárólag magánszemély taggal rendelkező betéti társaság,
-- d) a kizárólag magánszemély taggal rendelkező közkereseti társaság, ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy adókötelezettségeit e törvény II. Fejezet rendelkezései szerint teljesíti. Az adóalanyiság létrejöttének nem akadálya, ha az adóalany az adóévre az Szja tv. szerinti átalányadózást vagy az egyszerűsített vállalkozói adó szerinti adóalanyiságot választott.
+- d) a kizárólag magánszemély taggal rendelkező közkereseti társaság,
+- e) az ügyvédi iroda, ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy adókötelezettségeit e törvény II. Fejezet rendelkezései szerint teljesíti. Az adóalanyiság létrejöttének nem akadálya, ha az adóalany az adóévre az Szja tv. szerinti átalányadózást vagy az egyszerűsített vállalkozói adó szerinti adóalanyiságot választott.
 
 #### 2. Az adóalanyiság keletkezése és megszűnése
 
@@ -109,11 +111,11 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 - b)
 - c) a kisadózó egyéni vállalkozói jogállásának megszűnése napjával;
 - d) a kisadózó vállalkozásnak minősülő egyéni cég, betéti társaság vagy közkereseti társaság jogutód nélküli megszűnésének napjával;
-- e) a gazdasági társaság bejelentett kisadózó tagjának halálát követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és 90 napon belül más kisadózó nem kerül bejelentésre;
-- f) a gazdasági társaság bejelentett kisadózó tagjának a gazdasági társaságból való kilépését követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és a kisadózó tag kilépését követő napig más kisadózó nem kerül bejelentésre;
+- e) a gazdasági társaság, az ügyvédi iroda bejelentett kisadózó tagjának halálát követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és 90 napon belül más kisadózó nem kerül bejelentésre;
+- f) a gazdasági társaság, az ügyvédi iroda bejelentett kisadózó tagjának a gazdasági társaságból, az ügyvédi irodából való kilépését követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és a kisadózó tag kilépését követő napig más kisadózó nem kerül bejelentésre;
 - g) a tagsági jogviszony keletkezésének napjával, ha a betéti társaság vagy közkereseti társaság kisadózó vállalkozásnak nem magánszemély tagja lesz;
-- h) a mulasztási bírságot megállapító határozat jogerőre emelkedésének hónapja utolsó napjával, ha az adóalanyiság időszakában elkövetett jogsértés miatt a kisadózó vállalkozás terhére az adó- vagy vámhatóság számla- vagy nyugtaadás elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért mulasztási bírságot, jövedéki bírságot állapít meg;
-- i) az adószám alkalmazását felfüggesztő vagy törlő határozat jogerőre emelkedésének hónapja utolsó napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt jogerősen felfüggeszti vagy törli;
+- h) a mulasztási bírságot megállapító határozat véglegessé válása hónapjának utolsó napjával, ha az adóalanyiság időszakában elkövetett jogsértés miatt a kisadózó vállalkozás terhére az adó- vagy vámhatóság számla- vagy nyugtaadás elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért mulasztási bírságot, jövedéki bírságot állapít meg;
+- i) az adószám alkalmazását felfüggesztő vagy törlő határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt jogerősen felfüggeszti vagy törli;
 - j) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha a kisadózó vállalkozás az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti és a tartozás megfizetését igazolja;
 - k) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 - l) a 4. § (4) bekezdése szerinti tevékenységből származó bevétel megszerzése esetén a bevétel megszerzését megelőző nappal;
@@ -159,7 +161,7 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 
 (6) Azon kisadózó vállalkozás, amely a naptári év minden hónapjára köteles az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a kisadózó vállalkozás bevételének naptári évben elért összegéből a 12 millió forintot meghaladó rész után 40 százalékos mértékű adót fizet. Ha a kisadózó vállalkozás nem köteles a naptári év minden hónapjára az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a 40 százalékos mértékű adót a kisadózó vállalkozás bevételének a kisadózó vállalkozási jogállás fennállásának az (1)–(2), valamint a (4a) bekezdés szerinti adófizetési kötelezettséggel érintett hónapjai és 1 millió forint szorzatát meghaladó része után fizeti meg.
 
-(7) Amennyiben a kisadózó vállalkozás az általa kiállított számlán nem tünteti fel a „Kisadózó” szöveget, az Art. 172. § (1) bekezdése szerinti mulasztási bírsággal sújtható.
+(7) Amennyiben a kisadózó vállalkozás az általa kiállított számlán nem tünteti fel a „Kisadózó” szöveget, az Art. szerinti mulasztási bírsággal sújtható.
 
 (8) A (6) bekezdésben meghatározott százalékos mértékű adó megfizetése nem mentesít az (1)–(4) bekezdés szerinti tételes adó megfizetése alól.
 
@@ -188,7 +190,7 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 
 #### 6. A kisadózót megillető ellátások és a kisadózó jövedelme
 
-10. § (1) A főállású kisadózó e jogállásának időtartama alatt biztosítottnak minősül, a Tbj.-ben és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott valamennyi ellátásra jogosultságot szerezhet, ezen ellátások számításának alapja havi 90 000 forint forint, magasabb összegű tételes adó fizetése esetén 150 000 forint. Az állami adóhatóság a 7. § és a 8. § (11) bekezdése szerinti bejelentések adattartalma alapján adatot szolgáltat az egészség- és nyugdíjbiztosítási szervek felé a főállású kisadózó biztosítotti jogállásának időtartamáról és az ellátások alapjáról.
+10. § (1) A főállású kisadózó e jogállásának időtartama alatt biztosítottnak minősül, a Tbj.-ben és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott valamennyi ellátásra jogosultságot szerezhet, ezen ellátások számításának alapja havi 94 400 forint, magasabb összegű tételes adó fizetése esetén 158 400 forint. Az állami adóhatóság a 7. § és a 8. § (11) bekezdése szerinti bejelentések adattartalma alapján adatot szolgáltat az egészség- és nyugdíjbiztosítási szervek felé a főállású kisadózó biztosítotti jogállásának időtartamáról és az ellátások alapjáról.
 
 (1a) Szünetel a főállású kisadózó biztosítása abban a hónapban, amelyben a főállású kisadózó után az adót a 8. § (9) bekezdés d) pontja alapján nem kell megfizetni.
 
@@ -278,7 +280,7 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 - a) az átlagos statisztikai állományi létszáma az adóévet megelőző adóévben várhatóan nem haladja meg az 50 főt;
 - b) az adóévet megelőző adóévben elszámolandó bevétele várhatóan nem haladja meg az 500 millió forintot, 12 hónapnál rövidebb adóév esetén az 500 millió forint időarányos részét;
-- c) az adóévet megelőző két naptári évben adószámát az állami adóhatóság jogerősen nem törölte vagy függesztette fel;
+- c) az adóévet megelőző két naptári évben adószámát állami adó- és vámhatóság véglegesen nem törölte vagy függesztette fel;
 - d) üzleti évének mérlegforduló napja december 31.;
 - e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg az 500 millió forintot.
 
@@ -306,9 +308,9 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 - b) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 - c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szűnik meg, a megszűnés napjával;
 - d) az adóalany egyesülését, szétválását megelőző nappal;
-- e) az adóhatósági határozat jogerőre emelkedésének napját megelőző hónap utolsó napjával, ha az adóalany terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
-- f) az adóalany adószámának alkalmazását felfüggesztő vagy törlő határozat jogerőre emelkedésének hónapját megelőző hónap utolsó napjával;
-- g) az adóalanyiság megszűnéséről rendelkező határozat jogerőre emelkedésének napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot;
+- e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
+- f) az adóalany adószámának alkalmazását felfüggesztő vagy törlő határozat véglegessé válásának hónapját megelőző hónap utolsó napjával;
+- g) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásának napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot;
 - h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta a 100 főt.
 
 (6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az adóhatóságnak.
@@ -364,7 +366,7 @@ azzal, hogy a tagra jutó személyi jellegű kifizetés meghatározása során n
 
 #### 15. Az adó mértéke
 
-21. § (1) Az adó mértéke az adó alapjának 14 százaléka.
+21. § (1) Az adó mértéke az adó alapjának 13 százaléka.
 
 (2) A kisvállalati adó adóalanya mentesül:
 
@@ -393,7 +395,7 @@ bevallása és megfizetése alól.
 - a) az adóelőleg-megállapítási időszakban az adóalany által fizetendő, e törvény 20. § (2) bekezdése szerint meghatározott személyi jellegű kifizetések összege, és
 - b) az adóelőleg-megállapítási időszakban jóváhagyott fizetendő osztalék (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot), csökkentve az adóelőleg-megállapítási időszakban bevételként elszámolt osztalék összegével
 
-együttes összegének a 14 százaléka.
+együttes összegének a 13 százaléka.
 
 (3) Az adóalany az adóévre e törvény szerint megállapított adót – az adóévben már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévre már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, a bevallás beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni.
 

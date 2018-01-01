@@ -22,13 +22,15 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (3) Diplomáciai, konzuli képviselet, valamint ezekkel egy tekintet alá eső nemzetközi szervezetek ingatlanszerzéséhez az engedélyt az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal nemzetközi szerződés vagy viszonosság fennállása alapján adja meg. A nemzetközi szerződésről, illetve a viszonosság fennállásáról a külpolitikáért felelős miniszter nyilatkozatát be kell szerezni.
 
-(4) A fővárosi és megyei kormányhivatal (2) és (3) bekezdés szerinti határozata ellen nincs helye fellebbezésnek.
+(4) Ingatlan tulajdonjogának külföldi jogi személy vagy külföldi természetes személy általi megszerzéséhez szükséges engedély iránti eljárásban az ügyfél nem jogosult az ügyei intézése során ügyintézési cselekményeit elektronikus úton végezni, nyilatkozatait elektronikus úton megtenni.
 
 ### A LAKÁSBÉRLET SZABÁLYAI
 
 ### I. Fejezet — A lakásbérlet létrejötte
 
-2. § (1)–(2)
+2. § (1)
+
+(2)
 
 (3) A lakásbérleti jog a lakásra és a lakáshoz tartozó helyiségekre terjed ki.
 
@@ -138,7 +140,9 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 16. § (1) A bérbeadó, illetőleg a bérlő az őt terhelő munkát úgy köteles elvégezni, hogy a lakás, illetőleg más lakások rendeltetésszerű használatát — lehetőség szerint — ne akadályozza. A munka megkezdéséről és várható időtartamáról az érdekelt bérlőket előzetesen értesíteni kell.
 
-(2)–(3)
+(2)
+
+(3)
 
 17. § (1) A szerződés megszűnésekor a bérlő köteles a lakást és a lakásberendezéseket rendeltetésszerű használatra alkalmas állapotban a bérbeadónak visszaadni.
 
@@ -254,7 +258,9 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 (4) A bérbeadó nem köteles cserelakást felajánlani, ha a bérlőnek a bérelt lakással azonos településen — a fővárosban a főváros területén — megfelelő és beköltözhető lakása van.
 
-(5)–(6)
+(5)
+
+(6)
 
 (7) A szociális helyzet alapján bérbe adott önkormányzati lakás esetén az (1) bekezdés szerinti felmondásra csak az épület (a benne lévő lakás) átalakítása, korszerűsítése, lebontása vagy társbérlet megszüntetése céljából kerülhet sor.
 
@@ -413,7 +419,13 @@ történő bérbeadás figyelembevételével önkormányzati rendelet állapítj
 
 ## HARMADIK RÉSZ — AZ ÖNKORMÁNYZATI, VALAMINT AZ ÁLLAMI LAKÁSOK ÉS HELYISÉGEK ELIDEGENÍTÉSE
 
-45–48. §
+45. §
+
+46. §
+
+47. §
+
+48. §
 
 49. § (1) Az állam tulajdonából az önkormányzat tulajdonába került önkormányzati, illetőleg az állami lakásra, más személyt megelőző elővásárlási jog illeti meg
 
@@ -568,7 +580,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 (4) Az üzletszerű ingatlanközvetítői, vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet – a bejelentést követően – olyan gazdálkodó szervezet folytathatja, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – az üzletszerű ingatlanközvetítői, vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatására irányuló szándékát az ingatlanvállalkozás-felügyeleti hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette, valamint az ilyen tevékenységével összefüggésben keletkezett, jogerősen megállapított köztartozásának eleget tett, továbbá megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
-(5) Ingatlanközvetítői tevékenység végzésére és a hozzá kapcsolódó ügyleti okiratok elkészítésére – a forgalmi értékbecslés és az ingatlanvagyon-értékelés kivételével – az ügyvéd, feladatkörében a jogtanácsos az (1) bekezdésben említett szakképesítés nélkül is jogosult.
+(5) Ingatlanközvetítői tevékenység végzésére és a hozzá kapcsolódó ügyleti okiratok elkészítésére – a forgalmi értékbecslés és az ingatlanvagyon-értékelés kivételével – az ügyvéd és a kamarai jogtanácsos az (1) bekezdésben említett szakképesítés nélkül is jogosult.
 
 64/D. § (1) Az ingatlanvállalkozás-felügyeleti hatóság által az üzletszerű ingatlanközvetítői vagy az üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenységet végző természetes személyekről és gazdálkodó szervezetekről vezetett nyilvántartásba való bejegyzésre és törlésre irányuló eljárás során okirati bizonyításnak van helye.
 
@@ -597,7 +609,9 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 (4) A nyilvántartásban szereplő személy köteles az (1) bekezdésben foglalt adatok megváltozásáról az eljáró hatóságot a változástól számított tíz napon belül tájékoztatni.
 
-(5)–(6)
+(5)
+
+(6)
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -605,13 +619,25 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 65. § Önkormányzati lakásra — megállapodás alapján fennálló, illetőleg e törvény hatálybalépésekor jogszabályban biztosított — ismételten gyakorolható bérlőkiválasztási jog jogosultját a bérlő kiválasztásának joga változatlanul megilleti.
 
-66–67. §
+66. §
+
+67. §
 
 68. § (1) A szociális intézményből elbocsátott személynek, ha a lakásügyi hatóság javára a lakásbérleti jogviszonyról az intézménybe utaláskor pénzbeli térítés nélkül mondott le, az az önkormányzat köteles megfelelő és beköltözhető lakást bérbe adni, amelyik a lemondással érintett lakás tulajdonosává vált.
 
 (2) Ha az intézménybe utaláskor a bérlő a lakásbérleti jogviszonyáról pénzbeli térítés ellenében mondott le a lakásügyi hatóság javára, a másik lakás bérbeadásának feltételeit az önkormányzat rendeletben szabályozza.
 
-69–74. §
+69. §
+
+70. §
+
+71. §
+
+72. §
+
+73. §
+
+74. §
 
 75. § (1) A szolgálati lakásra kötött szerződés megszűnik akkor is, ha a bérlőnek
 
@@ -625,11 +651,17 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 76. § (1) Ha a felek másképp nem állapodnak meg, az e törvény hatálybalépése előtt létrejött lakás- és helyiségbérleti szerződés esetén a bérbeadónak és a bérlőnek az épület és a lakás fenntartásával összefüggő jogaira és kötelezettségeire, továbbá a lakáshoz tartozó területek használatára a szerződés megkötésekor hatályban volt jogszabályok rendelkezéseit kell alkalmazni.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) E törvény a hatálybalépésekor már fennálló bérlőtársi jogviszonyt nem érinti.
 
-77–78. §
+77. §
+
+78. §
 
 ### IX. Fejezet — Az önkormányzatokra vonatkozó külön rendelkezések
 
@@ -736,10 +768,7 @@ használhatja fel. A felhasználás részletes szabályait önkormányzati rende
 
 87/A. § Felhatalmazást kap a Kormány, hogy az ingatlanvállalkozás-felügyeleti hatóságot vagy hatóságokat rendeletben jelölje ki.
 
-87/B. § Felhatalmazást kap a lakásgazdálkodásért és lakáspolitikáért felelős miniszter, hogy
-
-- a) az e törvény szerinti üzletszerű ingatlanközvetítői, illetve üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatásának részletes feltételeit, az e tevékenység bejelentésének rendjét, a bejelentés alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint
-- b) a 64/C. § (5) bekezdése szerinti bejelentést tevő gazdálkodó szervezetek tevékenysége folytatásának részletes feltételeit, a tevékenység bejelentésének és e gazdálkodó szervezetekről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
+87/B. § Felhatalmazást kap a Kormány, hogy az e törvény szerinti üzletszerű ingatlanközvetítői, illetve üzletszerű ingatlanvagyon-értékelő és -közvetítői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének rendjét, a bejelentés alapján vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat rendeletben szabályozza.
 
 87/C. §
 
@@ -915,7 +944,13 @@ rendelkezik.
 
 (6) Az (5) bekezdést kell megfelelően alkalmazni annak a lakás és helyiségbérleti szerződésnek a megkötésére, amely az (1) bekezdésben említett eljárásban hozott határozaton, illetőleg a (4) bekezdésben említett jognyilatkozaton alapul.
 
-(7)–(10)
+(7)
+
+(8)
+
+(9)
+
+(10)
 
 95. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel megállapított 11/A. §-át – a (2) bekezdésben meghatározott kivétellel – a 2012. június 1. napját követően kötött bérleti szerződés és közzétett kereskedelmi közlemény tekintetében kell alkalmazni.
 

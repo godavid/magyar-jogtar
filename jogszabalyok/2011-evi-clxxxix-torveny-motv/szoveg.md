@@ -1480,6 +1480,22 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (4) Az önkormányzati határozat bírósági felülvizsgálata, az önkormányzat határozathozatali és feladat-ellátási kötelezettsége elmulasztásának megállapítása iránt, valamint a kormányhivatal törvényességi felügyeleti bírságot megállapító határozatának bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó fejezetének rendelkezéseit az e törvényben foglalt eltéréseknek megfelelően kell alkalmazni, e perekben a közigazgatási és munkaügyi bíróság jár el.
 
+### VIII. Fejezet — AZ ÖNKORMÁNYZATI HATÓSÁGI ÜGY
+
+142/A. § (1) A képviselő-testület a hatáskörébe tartozó hatósági ügyben (a továbbiakban: önkormányzati hatósági ügy) a hatáskörét önkormányzati rendeletben a polgármesterre, a bizottságára, a társulására vagy a jegyzőre ruházhatja át.
+
+(2) Ha a képviselő-testület önkormányzati hatósági ügyben a hatáskörét átruházza, elbírálja a fellebbezést, valamint gyakorolja a másodfokú hatóság és – a (3) bekezdés szerinti kivétellel – a felügyeleti szerv feladat- és hatáskörét.
+
+(3) Ha a képviselő-testület, a polgármester, a bizottság, a társulás vagy a jegyző eljárási kötelezettségét önkormányzati hatósági ügyben elmulasztotta, a kormányhivatal felhívja a mulasztó tisztségviselőt vagy testületet, hogy a felhívásban megállapított határidőn – legfeljebb huszonegy napon – belül folytassa le az eljárást.
+
+142/B. § Törvény vagy önkormányzati rendelet az önkormányzati hatósági ügy intézésére további szabályokat állapíthat meg.
+
+142/C. § (1) A helyi önkormányzat képviselő-testülete rendeletében meghatározott kötelezettségek elmulasztása esetére közigazgatási szankciót állapíthat meg.
+
+(2) A bírság felső határát az önkormányzati rendeletben a jogsértés jellegével arányban kell megállapítani.
+
+(3) A kiszabott bírság összege a helyi önkormányzat saját bevétele.
+
 ### ZÁRÓ RENDELKEZÉSEK
 
 ### Felhatalmazó rendelkezés

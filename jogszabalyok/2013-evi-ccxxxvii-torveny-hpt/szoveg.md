@@ -695,7 +695,7 @@ induló tőkével alapítható.
 
 #### 13. Függő és független közvetítő engedélyezése, bejelentése
 
-21. § (1) A függő ügynök – ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt – a Felügyelet engedélye nélkül végezhet ügynöki tevékenységet.
+21. § (1) A függő ügynök – ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt – a Felügyelet engedélye nélkül, a 202. § szerinti nyilvántartásba vételt követően végezhet ügynöki tevékenységet.
 
 (2) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
 
@@ -1078,7 +1078,7 @@ induló tőkével alapítható.
 
 51. § (1) Pénzügyi intézmény felszámolásával kapcsolatos eljárás lefolytatására a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik.
 
-(2) Ha nem a Felügyelet kezdeményezi a pénzügyi intézmény felszámolását, a bíróság a kérelem érdemi vizsgálata nélküli elutasításáról szóló végzését megküldi a Felügyelet részére.
+(2) Ha nem a Felügyelet kezdeményezi a pénzügyi intézmény felszámolását, a bíróság a kérelem visszautasításáról szóló végzését megküldi a Felügyelet részére.
 
 52. § (1) A pénzügyi intézmény esetében a Cstv. II. Fejezete nem alkalmazható.
 
@@ -1357,7 +1357,7 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 - b) aki e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll, és
 - c) akivel szemben az a) pontban meghatározott bűncselekmények bármelyike miatt büntetőeljárás van folyamatban, a büntetőeljárás befejezéséig.
 
-(3) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (2) bekezdésben meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás jogerős befejezéséig kezelheti.
+(3) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a (2) bekezdésben meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.
 
 76. § (1) A fizetési rendszer működtetésére pénzügyi vállalkozás az engedélyt akkor kaphatja meg, ha igazolja, hogy
 
@@ -1411,7 +1411,7 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 
 (3) A (2) bekezdés alkalmazásában szakirányú gyakorlatként kell figyelembe venni a Felügyeletnél vagy hitelintézetnél legalább érdemi ügyintézői munkakörben vagy a pénzfeldolgozással kapcsolatos munkakörben, valamint pénzügyi vállalkozásnál vagy pénzfeldolgozási tevékenységet végző jogi személynél, fióktelepnél a pénzfeldolgozással kapcsolatos munkakörben eltöltött munkaviszonyt.
 
-(4) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (1) bekezdés b) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás jogerős befejezéséig kezelheti.
+(4) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (1) bekezdés b) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.
 
 ### VI. Fejezet — PRUDENS MŰKÖDÉSRE VONATKOZÓ KÖVETELMÉNYEK
 
@@ -2372,7 +2372,7 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
 
 137. § (1) A Felügyelet előzetes engedélyével választható meg és nevezhető ki a pénzügyi intézménynél a vezető állású személy, továbbá a pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személy.
 
-(2) Az engedély megadottnak tekintendő, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el vagy az engedélyezési eljárást nem függeszti fel. Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
+(2) Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
 (3) A Felügyelet a természetes személy megválasztására, vagy kinevezésére irányuló engedélykérelmet akkor utasítja el, ha a (4) és (5) bekezdésben felsorolt kizáró okok valamelyike a kinevezésre vagy megválasztásra javasolt személlyel szemben fennáll vagy ügyvezető esetén, ha a javasolt személy a 155. §-ban foglalt feltételeknek nem felel meg.
 
@@ -2382,9 +2382,9 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
   - aa) amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
   - ab) amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni,
 
-és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
+és akinek személyes felelősségét e helyzet kialakulásáért jogerős vagy végleges határozat megállapította;
 
-- b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
+- b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a banküzemre vagy a pénzügyi intézmény gazdálkodására vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság végleges határozata vagy a bíróság jogerős ítélete öt évnél nem régebben megállapította;
 - c) büntetett előéletű;
 - d) nem rendelkezik jó üzleti hírnévvel.
 
@@ -2553,6 +2553,23 @@ együttesen jogosult.
 
 153. § Az alapítványi formában működő pénzügyi vállalkozás kuratóriuma működésének ellenőrzésére legalább háromtagú felügyelő bizottságot kell létrehozni. A felügyelő bizottság működésére a pénzügyi intézmény felügyelő bizottságára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
+#### 65/A. Jogszabályoknak történő megfelelésért felelős szervezeti egység
+
+153/A. § (1) A hitelintézet a pénzügyi és befektetési szolgáltatási, illetve kiegészítő szolgáltatási tevékenységével kapcsolatos feladatokat ellátó szervezeti egységétől független szervezeti egységet (a továbbiakban: jogszabályoknak történő megfelelésért felelős szervezeti egység) alakít ki és működtet, amelynek feladata különösen az irányítási jogkörrel rendelkező vezető testület által a feladat- és hatáskörébe utalt területeken:
+
+- a) annak biztosítása, hogy a hitelintézet mindenkor megfeleljen a tevékenységére és működésére vonatkozó jogszabályokban foglaltaknak és a szabályzatok összhangban legyenek a jogszabályi rendelkezésekkel;
+- b) azon intézkedések és eljárások megfelelő érvényesülésének folyamatos nyomon követése és rendszeres ellenőrzése, amelyek célja, hogy a hitelintézet e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak történő megfelelésben tapasztalható esetleges hiányosságait feltárják;
+- c) a megfelelésbeli hiányosságok feltárása érdekében tett intézkedések folyamatos nyomon követése és rendszeres ellenőrzése;
+- d) a hitelintézet irányítási jogkörrel rendelkező vezető testületének, és alkalmazottainak segítése annak érdekében, hogy a hitelintézet teljesítse a tevékenységére és működésére vonatkozó jogszabályokban foglalt kötelezettségeit.
+
+(2) Amennyiben a jogszabályoknak történő megfelelésért felelős szervezeti egység kialakítása a hitelintézet számára a tevékenységének természete, mérete és összetettsége figyelembevételével aránytalan terhet jelentene, és a hitelintézet hitelt érdemlően igazolni tudja, hogy mindez nem befolyásolja hátrányosan a megfelelési feladatok ellátását, a hitelintézetnek elegendő egy, a jogszabályoknak történő megfelelésért felelős személyt kineveznie. Ebben az esetben a jogszabályoknak történő megfelelésért felelős személy tekintetében a jogszabályoknak történő megfelelésért felelős szervezeti egységre előírt rendelkezéseket kell alkalmazni.
+
+(3) A jogszabályoknak történő megfelelésért felelős szervezeti egység az (1) bekezdésben foglaltak teljesítéséről évente legalább egyszer jelentést készít az irányítási és a felügyeleti jogkörrel rendelkező vezető testület részére.
+
+(4) A hitelintézet a jogszabályoknak történő megfelelésért felelős szervezeti egység működtetésére mindenkor rendelkezik a hitelintézet mérete, tevékenységének jellege, nagyságrendje és összetettsége arányában megfelelő számú, képzettségű és szakmailag alkalmas munkatárssal, megfelelő anyagi erőforrással, és a feladatok ellátásához szükséges hatáskörrel és információkhoz való hozzáféréssel.
+
+(5) A hitelintézet a jogszabályoknak történő megfelelésért felelős szervezeti egység vezetőjének személyét bejelenti a Felügyeletnek.
+
 #### 66. Belső ellenőrzés és belső ellenőrzési rendszer
 
 154. § (1) A bank és a szakosított hitelintézet független, közvetlenül a felügyeleti jogkörrel rendelkező vezető testület irányítása alatt álló belső ellenőrzési szervezeti egységet működtet. A belső ellenőrzési rendszer működtetését a belső ellenőrzési szervezeti egység végzi, a belső ellenőrzési szervezeti egység feladatait a belső ellenőr látja el.
@@ -2607,7 +2624,7 @@ vizsgálata, és
 155. § (1) Hitelintézetnél ügyvezetőnek, vagy fióktelep formájában működő hitelintézetnél vezető állású személynek az nevezhető ki és az választható meg,
 
 - a) aki megfelel a vezető állású személyekre vonatkozó, a 137. §-ban meghatározott általános követelményeknek;
-- b) akinek személyét érintően a megválasztás, illetve a kinevezés tervezett időpontját legalább harminc nappal megelőzően a Felügyelet részére – az előzetes engedély megszerzése érdekében – kérelmet nyújtottak be, és a Felügyelet az engedélyt megadta vagy a 137. § (2) bekezdése alapján megadottnak tekintendő;
+- b)
 - c) aki rendelkezik
   - ca) szakirányú felsőfokú iskolai végzettséggel és legalább négyéves, hitelintézetnél szerzett vezetői gyakorlattal,
   - cb) szakirányú felsőfokú iskolai végzettséggel és legalább ötéves, a Felügyeletnél, az OBA-nál vagy önkéntes betétbiztosítási, intézményvédelmi alapnál, a Pénzügyi Szervezetek Állami Felügyeleténél vagy annak jogelődjénél, továbbá ezeknek megfelelő külföldi intézménynél szerzett vezetői gyakorlattal,
@@ -2628,7 +2645,7 @@ szerzett.
 (4) Pénzügyi vállalkozás ügyvezetőjének az nevezhető ki vagy választható meg,
 
 - a) aki megfelel a vezető állású személyekre vonatkozó, a 137. §-ban meghatározott általános követelményeknek;
-- b) akinek személyét érintően a megválasztás, illetve a kinevezés tervezett időpontját legalább harminc nappal megelőzően a Felügyelet részére – az előzetes engedély megszerzése érdekében – kérelmet nyújtottak be, és a Felügyelet az engedélyt megadta, vagy a 137. § (2) bekezdése alapján az engedély megadottnak tekintendő;
+- b)
 - c) aki rendelkezik
   - ca) felsőfokú iskolai végzettséggel,
   - cb) pénzügyi intézménynél, az MNB-nél, a Pénzügyi Szervezetek Állami Felügyeleténél vagy annak jogelődjénél vagy a közigazgatásban szerzett legalább hároméves szakmai gyakorlattal vagy
@@ -2758,7 +2775,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
 - a) az adóhatóság és a Felügyelet nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, ha a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
-- b) a hitelintézet az adózás rendjéről szóló 2003. évi XCII. törvény 52. § (8) bekezdése alapján szolgáltat adatot,
+- b)
 - c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot,
 - d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
 - e) a pénzügyi intézmény a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben (a továbbiakban: Pmt.) meghatározott bejelentési kötelezettségét teljesíti,
@@ -2782,7 +2799,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 162. § (1) A pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
 - a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–79. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §) vagy új pszichoaktív anyaggal visszaéléssel [1978. évi IV. törvény 283/B. §, illetve Btk. 184. § (1) bekezdés b) pont],
-- b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318. §),
+- b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318–318/A. §) vagy háborús uszítással (Btk. 331. §),
 - c) robbanóanyaggal vagy robbantószerrel visszaéléssel (1978. évi IV. törvény 263. §, illetve Btk. 324. §),
 - d) lőfegyverrel vagy lőszerrel visszaéléssel (1978. évi IV. törvény 263/A. §, illetve Btk. 325. §),
 - e) pénzmosással (1978. évi IV. törvény 303–303/A. §, illetve Btk. 399–400. §),
@@ -3234,7 +3251,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - g) akadályozza a Felügyeletet vagy a könyvvizsgálót tevékenységének végzésében,
 - h) az előírt szabályzatok, nyilvántartások, informatikai és ellenőrzési rendszerek nélkül működik,
 - i) az előírásoknak való meg nem felelés miatt a vele szemben alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
-- j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést vagy bírságot megállapító határozat jogerőre emelkedését követő két éven belül – ismételten megsérti,
+- j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést vagy bírságot megállapító határozat jogerőre emelkedését vagy véglegessé válását követő két éven belül – ismételten megsérti,
 - k) ha a hitelintézet nem tartja be az azonnali fizetőképességre, a likviditás minimális szintjére vagy a források és az eszközök lejárati összhangjának biztosítására vonatkozó előírásokat.
 
 (3) A Felügyelet e törvény, továbbá a prudens működésre vonatkozó jogszabályok, valamint a tevékenységére vonatkozó egyéb előírásainak súlyos megsértése esetén megteszi a szükséges intézkedéseket, vagy kivételes intézkedéseket, ha a pénzügyi intézmény,
@@ -3250,7 +3267,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - i) forrásgyűjtési tevékenysége során a piaci kamat mértékétől jelentősen eltérő kamatmértéket állapít meg, amely fokozott kockázatot jelent a hitelintézet, illetve a betétesek számára,
 - j) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése vagy az adózott eredmény, vagy a tőkekövetelmény módosítása céljából,
 - k) könyvvizsgálója elmulasztja a Felügyelet, a pénzügyi intézmény igazgatóságának, illetve felügyelő bizottságának tájékoztatását a pénzügyi intézménynél tapasztalt súlyos jogszabálysértésekről, hiányosságokról és egyéb – a prudens működést veszélyeztető – problémákról,
-- l) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti,
+- l) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését vagy véglegessé válását követő öt éven belül – ismételten megsérti,
 - m) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
 - n) tevékenységi (működési) engedélye a Szhitv. alapján visszavonásra kerül.
 
@@ -3377,7 +3394,7 @@ az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező h
 - c) meghatározhatja a hitelintézet által kiköthető kamat legnagyobb mértékét,
 - d) kötelezheti az igazgatóságot a közgyűlés összehívására, továbbá meghatározott napirendi pontok megtárgyalására és meghatározott döntések meghozatalának szükségességére hívhatja fel e testületek figyelmét,
 - e) felügyeleti biztost rendelhet ki a pénzügyi intézményhez, vagy
-- f) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős határozatban megállapította, és kezdeményezheti a pénzügyi intézménynél más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság,
+- f) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős vagy végleges határozatban megállapította, és kezdeményezheti a pénzügyi intézménynél más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság,
 - g)
 
 (2) Az (1) bekezdésben meghatározott kivételes intézkedésekkel egyidejűleg a Felügyelet felszólíthatja a szükséges intézkedések megtételére a pénzügyi intézmény
@@ -3604,7 +3621,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző szerv részére nyilvántartási számot és intézményi kódot állapít meg.
 
-(5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
+(5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés véglegessé válásának időpontját is nyilvántartja.
 
 (6) Az aláíró személyekről, az oktatókról, a hatósági vizsgára jelentkező személyekről és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
 
@@ -3631,7 +3648,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 205. § (1) A Felügyelet az általa kiadott engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatát (ideértve az alapszabály módosításához adott engedélyét is) haladéktalanul megküldi a cégbíróságnak.
 
-(2) A Felügyelet az engedély iránti kérelmet elutasító jogerős határozatát megküldi a cégbíróságnak.
+(2) A Felügyelet az engedély iránti kérelmet elutasító végleges határozatát megküldi a cégbíróságnak.
 
 206. § A tulajdonosi jogok gyakorlásának korlátozására vonatkozó határozatot a cégbíróság a Felügyelet értesítése alapján nyolc napon belül a cégjegyzékbe bejegyzi.
 
@@ -3811,7 +3828,7 @@ betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
 (3) A kártalanítás mértékének megállapítása során az ügyfélnek az OBA tagjánál fennálló valamennyi betétkövetelését össze kell számítani.
 
-(4) Lakáscélú hitel fedezetéül szolgáló betét esetén az OBA akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság, illetve hatóság jogerős határozata alapján kétséget kizáróan megállapítható.
+(4) Lakáscélú hitel fedezetéül szolgáló betét esetén az OBA akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság jogerős ítélete, illetve hatóság végleges határozata alapján kétséget kizáróan megállapítható.
 
 216. § (1) Az állami kezességvállalás mellett elhelyezett betétek esetén a kártalanítás kifizetését és az államot megillető követelés érvényesítését az OBA – megegyezés szerinti térítés ellenében – az állammal írásban kötött szerződés alapján átvállalhatja. Ha az állami kezesség érvényesítése az OBA-n keresztül történik, a kifizetésre és az államot megillető követelésre a (2)–(4) bekezdésben foglaltakat kell alkalmazni.
 
@@ -3954,7 +3971,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (2) A hozzájárulás éves összegéről, valamint megfizetésének módjáról az igazgatótanács az érintett jogi személy irányításáért felelős szervezettel évente megállapodást köt.
 
-(3) A munkaszervezet jogtanácsosa ellátja az (1) bekezdés szerinti jogi személy jogtanácsosi tevékenységét is.
+(3) A munkaszervezet kamarai jogtanácsosa ellátja az (1) bekezdés szerinti jogi személy kamarai jogtanácsosi tevékenységét is.
 
 227. § Az igazgatótanács feladatkörében eljárva a megbízásokat az e törvényben meghatározott összeférhetetlenségi szabályok megfelelő alkalmazásával adja ki.
 
@@ -4145,7 +4162,7 @@ az OBA felszólítja a hitelintézetet a jogsértő magatartás megszüntetésé
 
 243. § (1) Az alakuló közgyűlésről jegyzőkönyvet kell felvenni, amelyet a közgyűlés által választott elnök és jegyzőkönyvvezető ír alá, valamint két tag hitelesít.
 
-(2) Az alakuló közgyűlés által elfogadott létesítő okiratot valamennyi tag által aláírt közjegyzői hitelesítéssel ellátott okiratba vagy ügyvéd által ellenjegyzett okiratba kell foglalni.
+(2) Az alakuló közgyűlés által elfogadott létesítő okiratot valamennyi tag által aláírt közjegyzői hitelesítéssel ellátott okiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba kell foglalni.
 
 244. § (1) Az önkéntes alap alapítását a létesítő okirat elfogadásától számított tizenöt napon belül engedélyezés végett
 

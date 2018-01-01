@@ -132,7 +132,7 @@ tagozat,
 
 #### 4. Az állami vizsgák rendszere
 
-6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit a vizsgaszabályzat és az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály alapján kell meghatározni. Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít, a szakmai érettségi továbbá a szakképzésre vonatkozó jogszabályokban meghatározottak szerinti szakképesítés megszerzését is magában foglalja.
+6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit a vizsgaszabályzat és az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály alapján kell meghatározni. Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít, a szakmai érettségi továbbá a szakképzésre vonatkozó jogszabályokban meghatározottak szerinti munkakör betöltésére képesít.
 
 (2) Az érettségi vizsgán a tanuló a következő vizsgatárgyakból ad számot tudásáról:
 
@@ -246,11 +246,11 @@ tagozat,
 
 #### 10. A szakgimnázium
 
-12. § (1) A szakgimnáziumnak szakmai érettségi végzettséget adó érettségire és ehhez kapcsolódó szakképesítés megszerzésére, szakirányú felsőfokú iskolai továbbtanulásra, szakirányú munkába állásra felkészítő, valamint általános műveltséget megalapozó négy középiskolai évfolyama és a szakképzésről szóló törvény alapján az Országos Képzési Jegyzékben meghatározott számú szakképzési évfolyama van, ahol szakmai elméleti és gyakorlati oktatás is folyik. A szakgimnáziumban a tizenkettedik évfolyamot követően az Országos Képzési Jegyzékben meghatározottak szerint érettségi végzettséghez kötött, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szakmai vizsgájára történő felkészítés folyik. Szakgimnáziumnak minősül az az intézmény is, amely a szakképzésről szóló törvény szerint kizárólag a szakmai érettségi vizsga ágazatához tartozó szakképesítés szakmai vizsgájára készít fel.
+12. § (1) A szakgimnáziumnak szakmai érettségi végzettséget adó érettségire, az ehhez kapcsolódó szakképesítés, és a választható mellék-szakképesítés megszerzésére, szakirányú felsőfokú iskolai továbbtanulásra, szakirányú munkába állásra felkészítő, valamint általános műveltséget megalapozó négy középiskolai évfolyama és a szakképzésről szóló törvény alapján az Országos Képzési Jegyzékben meghatározott számú szakképzési évfolyama van, ahol szakmai elméleti és gyakorlati oktatás is folyik. A szakgimnáziumban a tizenkettedik évfolyamot követően az Országos Képzési Jegyzékben meghatározottak szerint érettségi végzettséghez kötött, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szakmai vizsgájára történő felkészítés folyik. Szakgimnáziumnak minősül az az intézmény is, amely a szakképzésről szóló törvény szerint kizárólag a szakmai érettségi vizsga ágazatához tartozó szakképesítés szakmai vizsgájára készít fel.
 
-(2) A szakgimnáziumban az Országos Képzési Jegyzékről szóló kormányrendeletben meghatározott ágazatokban az érettségi vizsga keretében megszerezhető szakképesítéshez kapcsolódóan tehető szakmai érettségi vizsga, továbbá az Országos Képzési Jegyzékben meghatározott, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szerezhető.
+(2) A szakgimnáziumban az Országos Képzési Jegyzékben meghatározott ágazatokban – figyelembe véve az ágazaton belüli specializációt is – tehető szakmai érettségi vizsga, továbbá a tanuló választásától függően a szakképzésről szóló törvényben foglaltak szerinti mellék-szakképesítés, valamint az Országos Képzési Jegyzékben meghatározott, a szakmai érettségi vizsga ágazatához tartozó szakképesítés szerezhető.
 
-(3) A kilencediktől a tizenkettedik évfolyamig az ágazathoz tartozó szakképesítések közös tartalmi elemeit, valamint az érettségi vizsga keretében megszerezhető szakképesítés tartalmi elemeit magában foglaló szakmai elméleti és gyakorlati oktatás folyik, az egységes kerettanterv szerinti közismereti képzés mellett.
+(3) A kilencediktől a tizenkettedik évfolyamig az ágazathoz tartozó szakképesítések közös tartalmi elemeit – figyelembe véve az ágazaton belüli specializációt is – és a szakmai érettségi vizsga ágazatához tartozó szakképesítés tartalmi elemeit, valamint a tanuló választása alapján a mellék-szakképesítés tartalmi elemeit vagy egyéb, a szakképzési kerettantervben meghatározott választható tartalmat magában foglaló szakmai elméleti és gyakorlati oktatás folyik, az egységes kerettanterv szerinti közismereti képzés mellett.
 
 (4) A szakképesítés ágazata szerinti szakmai érettségi vizsgával nem rendelkező, érettségi végzettséget szerzett tanulók részére a szakgimnáziumban az érettségi végzettséghez kötött szakképesítésre történő felkészítés keretében a szakképzési évfolyamok száma kettő. Ebben az esetben a szakgimnázium a komplex szakmai vizsgára történő felkészítést a tizenharmadik-tizennegyedik (első-második szakképzési) évfolyamon szervezi meg.
 
@@ -428,7 +428,7 @@ nyújtható.
 - d) közös igazgatású köznevelési intézmény,
 - e) általános művelődési központ,
 - f) egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény (a továbbiakban: EGYMI),
-- g) a szakképzési törvény szerinti szakképzési centrum.
+- g) a szakképzésről szóló törvény szerinti szakképzési centrum.
 
 (2) Többcélú intézmény akkor létesíthető, ha a létesítés és a működés anyagi, tárgyi, technikai és személyi feltételei valamennyi feladat ellátásához biztosítva vannak.
 
@@ -499,7 +499,7 @@ nyújtható.
 
 (6)
 
-(7) A nyilvántartásba vételről szóló jogerős határozat alapján az önálló költségvetéssel rendelkező köznevelési intézmény képviselője köteles nyolc napon belül megkérni az intézmény adószámát és pénzforgalmi számlát nyitni. Az adószámot és a pénzforgalmi számlaszámot, annak kézhezvételétől számított nyolc napon belül be kell jelenteni a (2) bekezdés szerint.
+(7) A nyilvántartásba vételről szóló végleges határozat alapján az önálló költségvetéssel rendelkező köznevelési intézmény képviselője köteles nyolc napon belül megkérni az intézmény adószámát és pénzforgalmi számlát nyitni. Az adószámot és a pénzforgalmi számlaszámot, annak kézhezvételétől számított nyolc napon belül be kell jelenteni a (2) bekezdés szerint.
 
 (8) A köznevelési intézményt törölni kell a nyilvántartásból, ha
 
@@ -511,7 +511,7 @@ nyújtható.
 - f) a fenntartó egy nevelési, tanítási évnél hosszabb ideig nem működteti,
 - g) a hatóság súlyos vagy az országos pedagógiai-szakmai ellenőrzés során megállapított szakmai jogszabálysértés miatt – a nem állami költségvetési szerv vagy nem települési önkormányzat által fenntartott köznevelési intézmény esetén a működési engedély visszavonásával egyidejűleg – a nyilvántartásból való törlését elrendeli.
 
-(9) A nyilvántartásból való törléssel egyidejűleg a köznevelési feladatokat ellátó hatóság kijelöli azt a nevelési-oktatási intézményt, amely a megszűnt intézménnyel jogviszonyban álló gyermekek, tanulók felvételét nem tagadhatja meg. A hivatal a köznevelés információs rendszeréből (a továbbiakban: KIR) továbbítja a megszűnt intézménnyel tanulói jogviszonyban álló tanuló nevét és lakóhelyét, tartózkodási helyét a köznevelési feladatokat ellátó hatóság számára a nevelési-oktatási intézmény kijelölése céljából. Az intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló jogerős határozatot a köznevelési feladatokat ellátó hatóság megküldi a területileg illetékes tankerületi központnak, szakképző iskola esetében az állami szakképzési és felnőttképzési szervnek, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A határozat tartalmazza annak az intézménynek a kijelölését, amely a gyermek, a tanuló felvételét nem tagadhatja meg.
+(9) A nyilvántartásból való törléssel egyidejűleg a köznevelési feladatokat ellátó hatóság kijelöli azt a nevelési-oktatási intézményt, amely a megszűnt intézménnyel jogviszonyban álló gyermekek, tanulók felvételét nem tagadhatja meg. A hivatal a köznevelés információs rendszeréből (a továbbiakban: KIR) továbbítja a megszűnt intézménnyel tanulói jogviszonyban álló tanuló nevét és lakóhelyét, tartózkodási helyét a köznevelési feladatokat ellátó hatóság számára a nevelési-oktatási intézmény kijelölése céljából. Az intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a területileg illetékes tankerületi központnak, szakképző iskola esetében az állami szakképzési és felnőttképzési szervnek, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A határozat tartalmazza annak az intézménynek a kijelölését, amely a gyermek, a tanuló felvételét nem tagadhatja meg.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 
@@ -524,7 +524,7 @@ nyújtható.
 
 (11) Szakmai jogszabálysértés, ha az intézmény működése – az intézmény által ellátott feladatoktól függően – az Óvodai nevelés országos alapprogramja a Nat, az adott intézményre érvényes kerettanterv, vagy e törvény felhatalmazása alapján készített és jóváhagyott más nevelési, oktatási program, az érettségi vizsgaszabályzat, az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály, a Kollégiumi nevelés országos alapprogramja, a nemzetiség óvodai nevelésének irányelve, a nemzetiség iskolai oktatásának irányelve, a Két tanítási nyelvű iskolai oktatás irányelve, a Sajátos nevelési igényű gyermekek óvodai nevelésének irányelve, a Sajátos nevelési igényű tanulók iskolai oktatásának irányelve, az Alapfokú művészetoktatás követelményei és tantervi programja rendelkezéseit sérti.
 
-(12)
+(12) A köznevelési intézmény nyilvántartásba vételével kapcsolatos döntés ellen fellebbezésnek van helye.
 
 22. § (1) A köznevelési intézménynek a feladatai ellátásához szükséges feltételekkel rendelkeznie kell. A köznevelési intézmény akkor rendelkezik a feladatai ellátásához szükséges feltételekkel, ha
 
@@ -570,7 +570,9 @@ rendelkezik.
 
 (10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény akkor rendelkezik állandó saját székhellyel, telephellyel, ha a fenntartója igazolja, hogy a feladatai ellátásához szükséges jogszabályban meghatározott helyiségek feletti rendelkezési jog a nevelési-oktatási intézmény működéséhez legalább öt nevelési évre, tanítási évre biztosított. Ha a nevelési-oktatási intézmény székhelye, telephelye másik nevelési-oktatási intézmény által is használt ingatlanban található, az engedélyezési eljárásban vizsgálni kell azt is, hogy az épületben biztosítható-e valamennyi nevelési-oktatási intézmény zavartalan működése, az alapító okiratában megjelölt maximális gyermek-, tanulói létszám fogadása, a nevelőtestületek működése.
 
-(11)–(12)
+(11) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban hozott elsőfokú döntés ellen fellebbezésnek van helye.
+
+(12)
 
 #### 20. A köznevelési intézmény működésének rendje
 
@@ -592,7 +594,7 @@ rendelkezik.
 
 (6)
 
-(7) Az óvodai csoportok, iskolai osztályok, kollégiumi csoportok minimális, maximális és átlaglétszámát a 4. melléklet határozza meg. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszám a nevelési év, illetve a tanítási év indításánál a fenntartó engedélyével legfeljebb húsz százalékkal átléphető, továbbá függetlenül az indított osztályok, csoportok számától, akkor is, ha a nevelési év, tanítási év során az új gyermek, tanuló átvétele, felvétele miatt indokolt. A minimális létszámtól csak akkor lehet eltérni, ha azt az óvodai, tanulói jogviszony nevelési, tanítási év közben történő megszűnése indokolja, továbbá szakképző iskolában akkor is, ha a képzés során tanulói jogviszony korábbi tanítási évben történő megszűnése miatt az érintett osztály, csoport létszáma a minimális létszám alá csökkent, és átszervezéssel – a tanulóra háruló aránytalan teher nélkül – nem alakítható ki a minimális létszámot elérő létszámú osztály, csoport. A szakképző iskolában a gyakorlati képzésre megállapított minimális létszámtól el lehet térni akkor is, ha az osztályban a szakképzésről szóló törvény szerinti hiányszakképesítés megszerzésére irányuló nevelés-oktatás, képzés folyik. A művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnázium osztályainak minimális, maximális és átlaglétszámát a szakközépiskola elméleti képzéshez rendelt létszámkeretei szerint kell meghatározni.
+(7) Az óvodai csoportok, iskolai osztályok, kollégiumi csoportok minimális, maximális és átlaglétszámát a 4. melléklet határozza meg. Az óvodai csoportra, iskolai osztályra, kollégiumi csoportra megállapított maximális létszám a nevelési év, illetve a tanítási év indításánál a fenntartó engedélyével legfeljebb húsz százalékkal átléphető, továbbá függetlenül az indított osztályok, csoportok számától, akkor is, ha a nevelési év, tanítási év során az új gyermek, tanuló átvétele, felvétele miatt indokolt. A minimális létszámtól csak akkor lehet eltérni, ha azt az óvodai, tanulói jogviszony nevelési, tanítási év közben történő megszűnése indokolja, továbbá szakképző iskolában akkor is, ha a képzés során tanulói jogviszony korábbi tanítási évben történő megszűnése miatt az érintett osztály, csoport létszáma a minimális létszám alá csökkent, és átszervezéssel – a tanulóra háruló aránytalan teher nélkül – nem alakítható ki a minimális létszámot elérő létszámú osztály, csoport. A szakképző iskolában a minimális létszámtól el lehet térni akkor is, ha az osztályban a szakképzésről szóló törvény szerinti hiány-szakképesítés megszerzésére irányuló nevelés-oktatás, képzés folyik. A szakgimnáziumban és a szakközépiskolában a gyakorlati képzésre vonatkozó maximális csoportlétszám legfeljebb ötven százalékkal átléphető, ha a gyakorlati képzés tanteremben folyik. A művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnázium osztályainak minimális, maximális és átlaglétszámát a szakközépiskola elméleti képzéshez rendelt létszámkeretei szerint kell meghatározni.
 
 (8) A köznevelési intézmény tantermeiben, címtábláján, épületének homlokzatán, továbbá az állami, települési önkormányzati fenntartású intézmények körbélyegzőjén Magyarország címerét el kell helyezni, más intézmények körbélyegzőjén el lehet helyezni.
 
@@ -738,7 +740,7 @@ rendkívüli szünetet rendel el.
 
 (3) A köznevelési feladatokat ellátó hatóság a törvényességi ellenőrzés körében – megfelelő határidő biztosításával – felhívja a fenntartót a törvénysértés megszüntetésére. Ha a fenntartó a megadott határidőn belül nem intézkedett, a köznevelési feladatokat ellátó hatóság a köznevelési intézményt törli a nyilvántartásból.
 
-(4) A köznevelési feladatokat ellátó hatóság törvényességi ellenőrzési eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó szabályait kell megfelelően alkalmazni.
+(4) A köznevelési feladatokat ellátó hatóság törvényességi ellenőrzési eljárására az általános közigazgatási rendtartásról szóló törvény hatósági ellenőrzésre vonatkozó szabályait kell megfelelően alkalmazni.
 
 34/A. § Ha az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 28. § (2)–(2b) bekezdése alapján olyan nevelési-oktatási intézmény, osztály vagy óvodai csoport jön létre, amely egyidejűleg nyújt vallási vagy más világnézeti meggyőződésen alapuló és nemzetiségi nevelés-oktatást, annak egyidejűleg meg kell felelnie a kifejezetten a vallási vagy más világnézeti meggyőződésen alapuló és a nemzetiségi nevelés-oktatásra e törvényben és a nemzetiségek jogairól szóló törvényben előírt feltételeknek.
 
@@ -811,29 +813,33 @@ tekintetében.
 - b) a döntés elmulasztóját döntéshozatalra utasítja,
 - c) a hozott döntést megsemmisíti, és a döntéshozót új döntés meghozatalára utasítja.
 
-(3) A kérelem benyújtásával kapcsolatos határidő számítására, a mulasztásra, a kérelem elbírálásával kapcsolatos eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(3) A jogorvoslati kérelem elbírálása során a tényállás tisztázására, a határidők számítására, az igazolásra, a határozat alakjára, tartalmára és közlésére, a döntés kérelemre vagy hivatalból történő kijavítására, kicserélésére, kiegészítésére, módosítására vagy visszavonására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(4) A tanuló, a szülő a fenntartónak a jogszabálysértésre hivatkozással benyújtott kérelem, továbbá – a megrovás és a szigorú megrovás büntetést kiszabó fegyelmi határozat ellen benyújtott kérelem kivételével – az érdeksérelemre hivatkozással benyújtott kérelem tárgyában hozott döntésének bírósági felülvizsgálatát kérheti, a közléstől számított harminc napon belül, jogszabálysértésre hivatkozással.
+(4) A tanuló, a szülő a fenntartónak a jogszabálysértésre hivatkozással benyújtott kérelem, továbbá – a megrovás és a szigorú megrovás büntetést kiszabó fegyelmi határozat ellen benyújtott kérelem kivételével – az érdeksérelemre hivatkozással benyújtott kérelem tárgyában hozott döntését a közigazgatási ügyben eljáró bíróság előtt megtámadhatja. A keresetlevelet a bíróságnál kell benyújtani.
 
-(5) A nevelési-oktatási intézmény döntése jogerős, ha a 37. § (2) bekezdésben meghatározott határidőn belül nem nyújtottak be eljárást megindító kérelmet, vagy az eljárást megindító kérelem benyújtásáról lemondtak. A másodfokú döntés a közléssel válik jogerőssé. A közlésre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(5) A nevelési-oktatási intézmény döntése végleges, ha a 37. § (2) bekezdésében meghatározott határidőn belül nem nyújtottak be eljárást megindító kérelmet, vagy az eljárást megindító kérelem benyújtásáról lemondtak. A közlésre az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
-(6) A jogerős döntés végrehajtható, kivéve, ha bírósági felülvizsgálatát kérték. A másodfokú döntés azonnali végrehajtását rendelheti el a döntéshozó, ha azt a nevelési-oktatási intézménybe járó többi tanuló nyomós érdeke indokolja.
+(6) A keresetlevél benyújtásának halasztó hatálya van kivéve, ha a döntéshozó a nevelési-oktatási intézménybe járó többi tanuló nyomós érdeke miatt a másodfokú döntés azonnali végrehajtását rendelte el.
 
 (7) Az érettségi vizsga vizsgabizottság, valamint a független vizsgabizottság döntése, intézkedése vagy intézkedésének elmulasztása (a továbbiakban együtt: döntés) ellen a szülő, a tanuló – a döntést követő öt napon belül – jogszabálysértésre hivatkozással fellebbezést nyújthat be a köznevelési feladatokat ellátó hatósághoz. A köznevelési feladatokat ellátó hatóság által működtetett érettségi vizsga vizsgabizottság döntése ellen jogszabálysértésre hivatkozással a fellebbezés – a döntést követő öt napon belül – a hivatalhoz nyújtható be. A fellebbezést a köznevelési feladatokat ellátó hatóság, a hivatal három munkanapon belül bírálja el. Eljárására az (1) és (3)–(6) bekezdést, valamint a 39. § (4) bekezdését kell alkalmazni, azzal az eltéréssel, hogy a fellebbezés benyújtására meghatározott határidő elmulasztása jogvesztő, igazolásnak helye nincs.
 
+(8) Ha a jelentkező az érettségi vizsgára a köznevelési feladatot ellátó hatóságnál jelentkezik, a köznevelési feladatot ellátó hatóságnak – külön jogszabályban szabályozott eljárás szerint – a vizsgajelentkezésre vonatkozóan meghozott döntése ellen jogszabálysértésre hivatkozással fellebbezésnek van helye a döntés kézhezvételét követő öt napon belül kormányrendeletben meghatározott hatósághoz. A fellebbezés benyújtására meghatározott határidő elmulasztása miatt igazolásnak helye nincs. A másodfokú hatóság a döntését nyolc napon belül elektronikus úton, írásban közli a köznevelési feladatot ellátó hatósággal, valamint postai úton megküldi a köznevelési feladatot ellátó hatóságnak és a fellebbezőnek.
+
+(9) A középfokú felvételi eljárás keretében tett központi írásbeli felvételi vizsga vizsgadolgozatának értékelésére vonatkozó, az iskola által hozott döntés ellen – jogszabályban meghatározott eljárás szerint – a szülő, a tanuló, a döntés kézhezvételétől számított három napon belül, kizárólag a hivatalos javítási-értékelési útmutatótól eltérő értékelés esetén fellebbezést nyújthat be a jogszabályban meghatározott hatósághoz. A fellebbezés benyújtására meghatározott határidő elmulasztása miatt igazolásnak helye nincs. A fellebbezés elbírálására jogosult hatóság döntését az észrevétel benyújtását követő nyolc napon belül elektronikus úton, írásban közli az iskolával, valamint postai úton megküldi az iskolának és a kérelmezőnek.
+
 39. § (1) A köznevelés rendszerében intézkedésre jogosult személy vagy szervezet – a diákönkormányzat, a nevelőtestület, az iskolaszék, szülői szervezet, közösség (a továbbiakban: szülői szervezet) javaslatára – tizenöt napon belül, a települési önkormányzat képviselő-testülete legkésőbb a tizenötödik napot követő első ülésen érdemi választ köteles adni.
 
-(2) Az iskolaszék és a diákönkormányzat, szülői szervezet a jogainak megsértése esetén tizenöt napon belül a fenntartóhoz jogszabálysértésre hivatkozással fellebbezést nyújthat be. A fenntartó döntése ellen – a (3) bekezdésben meghatározott kivétellel – a közléstől számított harminc napon belül a bírósághoz lehet fordulni.
+(2) Az iskolaszék és a diákönkormányzat, szülői szervezet a jogainak megsértése esetén tizenöt napon belül a fenntartóhoz jogszabálysértésre hivatkozással fellebbezést nyújthat be. A fenntartó döntése – a (3) bekezdésben meghatározott kivétellel – a közigazgatási ügyben eljáró bíróság előtt megtámadható. A keresetlevelet a bíróságnál kell benyújtani.
 
 (3) Ha a (2) bekezdés szerinti döntést a fenntartó önkormányzat képviselő-testülete hozta, a köznevelési feladatokat ellátó hatóságnál törvényességi felügyeleti eljárást lehet kezdeményezni.
 
-(4) A (2) bekezdésben és a 38. § (4) bekezdése szerinti bírósági ügyekben a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni. A bíróság a döntést megváltoztathatja. A bíróság az ügyet soron kívül bírálja el.
+(4)
 
-40. § (1) Ha jogszabály a fenntartói irányítás körébe tartozó valamely döntés meghozatalát előzetes vélemény, egyetértés, szakvélemény beszerzéséhez köti, az ennek elmulasztásával hozott döntés megtámadható. A sikeresen megtámadott döntés a meghozatalának időpontjától kezdődő hatállyal érvénytelenné válik. Megtámadásra a sérelmet szenvedett fél és az jogosult, akinek a megtámadáshoz törvényes érdeke fűződik. A megtámadást három hónapon belül írásban kell közölni, majd a közlés eredménytelensége esetében tizenöt napon belül érvényesíteni. Az érvénytelenség megállapítását a bíróságnál, települési önkormányzati fenntartó esetében a köznevelési feladatokat ellátó hatóságnál lehet kezdeményezni. A három hónapos határidő a döntésnek az érdekelt részére történő közlésének napján kezdődik. Ha ez a nap nem állapítható meg, a közlés napja a döntés meghozatalát követő tizenötödik munkanap. A megtámadáshoz biztosított határidő jogvesztő, igazolásnak helye nincs.
+40. § (1) Ha jogszabály a fenntartói irányítás körébe tartozó valamely döntés meghozatalát előzetes vélemény, egyetértés, szakvélemény beszerzéséhez köti, az ennek elmulasztásával hozott döntést a sérelmet szenvedett fél és az, akinek a megtámadáshoz törvényes érdeke fűződik közigazgatási perben megtámadhatja. A megtámadást három hónapon belül írásban kell közölni, majd a közlés eredménytelensége esetében tizenöt napon belül érvényesíteni. A három hónapos határidő a döntésnek az érdekelt részére történő közlésének napján kezdődik. Ha ez a nap nem állapítható meg, a közlés napja a döntés meghozatalát követő tizenötödik munkanap. A megtámadásra biztosított határidő jogvesztő, igazolásnak helye nincs. A keresetlevelet a bíróságnál, települési önkormányzati fenntartó esetében a köznevelési feladatokat ellátó hatóságnál kell benyújtani.
 
 (2) Az érvénytelenség megállapítása a jóhiszeműen szerzett és gyakorolt jogokat nem érinti.
 
-(3) Érvénytelenség megállapítása esetén a köznevelési feladatokat ellátó hatóság, a bíróság
+(3) Érvénytelenség megállapítása esetén aa közigazgatási ügyben eljáró bíróság
 
 - a) elrendelheti
   - aa) a jogsértés abbahagyását és eltilthatja a jogsértőt a további jogsértéstől,
@@ -841,7 +847,7 @@ tekintetében.
   - ac) a jogsértő költségén a jogsértés előtti állapot helyreállítását, a jogsértő állapot megszüntetését, a jogsértéssel előállott dolog megsemmisítését vagy jogsértő mivoltától megfosztását,
 - b) meghatározott időre vagy feltételek teljesítéséig megtilthatja adott nevelési-oktatási intézmény vagy annak tagintézménye tekintetében az új óvodai nevelési jogviszony, tanulói jogviszony, kollégiumi tagsági viszony létesítését, feltéve, hogy a településen másik intézményben megoldható az érintett gyermekek, tanulók felvétele.
 
-(4) Az érvénytelen döntés érvényessé nyilvánítható, ha az érvénytelenség oka megszüntethető.
+(4)
 
 #### 26. A köznevelési intézményekben nyilvántartott és kezelt személyes és különleges adatok
 
@@ -1183,7 +1189,7 @@ dönt.
 
 (20) A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály másként nem rendelkezik – a köznevelési intézmény a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton terjeszti elő a diákigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A köznevelési intézmény az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A KIR adatkezelője a köznevelési intézmény útján közli a tanulóval a diákigazolvány kiállítására irányuló eljárás során hozott döntéseket. A KIR adatkezelője a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a köznevelési intézmény adatait, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet. A KIR adatkezelője, valamint a diákigazolvány elkészítésében közreműködők a diákigazolvány elkészítése körében tudomásukra jutott személyes adatot a diákigazolvány érvényességének megszűnését követő öt évig kezelhetik.
 
-(21) Az iskola a tanuló kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a KIR adatkezelője részére. A diákigazolvány előállításának határideje az igénylésnek a KIR adatkezelőjéhez történő beérkezéstől számított negyvenöt nap.
+(21) Az iskola a tanuló kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a KIR adatkezelője részére.
 
 #### 28. Sajátos nevelési igényű és beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek, tanulók nevelése, oktatása
 
@@ -1201,7 +1207,7 @@ dönt.
 
 (5) A gyermek külön óvodai nevelését végző óvodai csoportot, a tanulók külön iskolai nevelését, oktatását végző iskolai osztályt a sajátos nevelési igény típusának megfelelően kell létrehozni. A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben a gyermek, tanuló egészségügyi és pedagógiai célú habilitációs és rehabilitációs ellátásban is részesül.
 
-(6) A gyermek, tanuló érdekében a köznevelési feladatot ellátó hatóság kötelezheti a szülőt, hogy gyermekével jelenjen meg szakértői vizsgálaton, továbbá a szakértői vélemény alapján gyermekét a megfelelő nevelési-oktatási intézménybe írassa be. A köznevelési feladatot ellátó hatóság döntése ellen fellebbezésnek van helye. Ha a szülő a köznevelési feladatot ellátó hatóság felhívása ellenére kötelezettségének ismételten nem tesz eleget, a köznevelési feladatot ellátó hatóság a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyermekjóléti szolgálatot értesíti. A szakértői bizottság nem jelölhet ki olyan intézményt, amely helyhiány miatt nem tudná felvenni a gyermeket, tanulót. A szakértői vizsgálaton való részvétel érdekében szükséges utazás költségeit a társadalombiztosítás a szülőnek megtéríti.
+(6) A gyermek, tanuló érdekében a köznevelési feladatot ellátó hatóság kötelezheti a szülőt, hogy gyermekével jelenjen meg szakértői vizsgálaton, továbbá a szakértői vélemény alapján gyermekét a megfelelő nevelési-oktatási intézménybe írassa be. A köznevelési feladatot ellátó hatóság dönt a sajátos nevelési igény, a beilleszkedési, tanulási, magatartási nehézség megállapításával, a logopédiai ellátással, illetve a szakértői véleményben foglaltakkal összefüggésben. Ha a szülő a köznevelési feladatot ellátó hatóság felhívása ellenére kötelezettségének ismételten nem tesz eleget, a köznevelési feladatot ellátó hatóság a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes gyermekjóléti szolgálatot értesíti. A szakértői bizottság nem jelölhet ki olyan intézményt, amely helyhiány miatt nem tudná felvenni a gyermeket, tanulót. A szakértői vizsgálaton való részvétel érdekében szükséges utazás költségeit a társadalombiztosítás a szülőnek megtéríti.
 
 (7) Az enyhe értelmi fogyatékos, beszédfogyatékos vagy pszichés fejlődési zavarral küzdő sajátos nevelési igényű tanulót két gyermekként, a mozgásszervi, érzékszervi (látási, hallási), középsúlyos értelmi fogyatékos, autizmus spektrum zavarral küzdő vagy halmozottan fogyatékos gyermeket, tanulót három gyermekként kell figyelembe venni az óvodai csoport, iskolai osztály, kollégiumi csoport létszámának számításánál, ha nevelés-oktatásuk a többi gyermekkel, tanulóval együtt történik.
 
@@ -1318,13 +1324,13 @@ dönt.
   - ec) ha a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő szakképzés, vagy a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
 - f) az alapfokú művészeti iskolában, ha kiskorú tanuló esetén a szülő vagy a nagykorú tanuló írásban bejelenti, hogy kimarad az iskolából, a bejelentésben megjelölt napon, továbbá az utolsó alapfokú évfolyam utolsó napján, ha a tanuló nem tesz művészeti alapvizsgát, valamint az utolsó továbbképző évfolyam záróvizsga letételének napján, ha a tanuló nem tesz záróvizsgát, az utolsó évfolyam elvégzését tanúsító bizonyítvány kiállításának napján és a h) pontban megjelölt esetben,
 - g) a tankötelezettség megszűnése után – ha a szülő a tanuló egyetértésével, nagykorú tanuló esetén a tanuló írásban bejelenti, hogy kimarad –, a bejelentés tudomásulvételének napján,
-- h) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével – fizetési hátralék miatt az igazgató a szülő, nagykorú tanuló esetén a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés jogerőre emelkedésének napján.
+- h) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével – fizetési hátralék miatt az igazgató a szülő, nagykorú tanuló esetén a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés véglegessé válásának napján.
 
 (3) A (2) bekezdés h) pontjában foglalt rendelkezés nem alkalmazható, ha a tanuló hátrányos helyzetű.
 
 (4) Megszűnik a tanuló tanulói jogviszonya – a tanköteles tanuló kivételével – ha az iskola kötelező foglalkozásairól a jogszabályban meghatározott időnél igazolatlanul többet mulasztott.
 
-(5) Megszűnik a tanulói jogviszony a kizárás az iskolából fegyelmi határozat jogerőre emelkedésének napján.
+(5) Megszűnik a tanulói jogviszony a kizárás az iskolából fegyelmi határozat véglegessé válásának napján.
 
 (6) Az iskola a tanítási év utolsó napján egyoldalú nyilatkozattal is megszüntetheti annak a tanulónak a tanulói jogviszonyát, aki nem tanköteles, ha ugyanannak az évfolyamnak a tanulmányi követelményeit második alkalommal nem teljesítette. Az iskolai tanítási év utolsó napján megszüntethető egyoldalú nyilatkozattal annak a tanulónak a tanulói jogviszonya is, aki a nappali rendszerű iskolai oktatásban nem vehet részt, feltéve, hogy az iskolában nincs felnőttoktatás, vagy a tanuló abban nem kíván részt venni.
 
@@ -1333,8 +1339,8 @@ dönt.
 (8) A tanuló kollégiumi tagsága megszűnik
 
 - a) az 52. § (4) bekezdésben meghatározott esetben a tanulói jogviszony megszűnésével, egyébként a tanév végén,
-- b) a kollégiumból kizáró fegyelmi határozat jogerőre emelkedésével,
-- c) ha a tanuló kollégiumi tagságát fizetési hátralék miatt az igazgató – a szülő, nagykorú tanuló esetében a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után – megszünteti, a megszűnés tárgyában hozott döntés jogerőre emelkedésének napján,
+- b) a kollégiumból kizáró fegyelmi határozat véglegessé válásával,
+- c) ha a tanuló kollégiumi tagságát fizetési hátralék miatt az igazgató – a szülő, nagykorú tanuló esetében a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után – megszünteti, a megszűnés tárgyában hozott döntés véglegessé válásának napján,
 - d) ha a tanuló, kiskorú tanuló esetén a szülő a tanuló kollégiumi tagságáról írásban lemond, a nyilatkozatban megjelölt napon,
 - e) ha a tanulót másik kollégium átvette, az átvétel napján.
 
@@ -1416,7 +1422,9 @@ dönt.
 - e) eltiltás az adott iskolában a tanév folytatásától,
 - f) kizárás az iskolából.
 
-(5) Tíz év alatti tanulóval szemben fegyelmi eljárás nem indítható. Tanköteles tanulóval szemben a (4) bekezdés e) pontjában meghatározott fegyelmi büntetés nem, a (4) bekezdés f) pontjában és a (7) bekezdés e) pontjában meghatározott fegyelmi büntetés pedig csak rendkívüli vagy ismétlődő fegyelmi vétség esetén alkalmazható. Ebben az esetben a szülő köteles új iskolát, kollégiumot keresni a tanulónak. A fegyelmi büntetést hozó iskola, kollégium segítséget nyújt a szülőnek az új iskola, kollégium megtalálásában. Abban az esetben, ha az iskola, a kollégium a fegyelmi büntetés megállapításáról szóló határozat jogerőre emelkedésétől számított nyolc napon belül a tanulót fogadó iskolától, kollégiumtól nem kap értesítést arról, hogy a tanuló más iskolában, kollégiumban történő elhelyezése a szülő kezdeményezésére megtörtént, a fegyelmi büntetést hozó iskola, kollégium három napon belül köteles megkeresni a köznevelési feladatot ellátó hatóságot, amely három munkanapon belül másik, az állami közfeladat-ellátásban résztvevő iskolát, kollégiumot jelöl ki a tanuló számára. Az iskolát, kollégiumot úgy kell kijelölni, hogy a tanuló számára a kijelölt intézményben a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. Szakképzési centrum tanulója esetében a szakképzési centrum másik tagintézménye is kijelölhető. A köznevelési feladatokat ellátó hatóság kijelölő határozata fellebbezésre való tekintet nélkül végrehajtható. A (4) bekezdés d) pontjában szabályozott fegyelmi büntetés akkor alkalmazható, ha az iskola igazgatója a tanuló átvételéről a másik iskola igazgatójával megállapodott. A (4) bekezdés c) pontjában meghatározott fegyelmi büntetés szociális kedvezményekre és juttatásokra nem terjed ki. A (4) bekezdés f) pontjában és a (7) bekezdés e) pontjában meghatározott fegyelmi büntetés tanköteles tanuló esetében nem hajtható végre az új tanulói jogviszony, kollégiumi tagsági viszony létesítéséig.
+(5) Tíz év alatti tanulóval szemben fegyelmi eljárás nem indítható. Tanköteles tanulóval szemben a (4) bekezdés e) pontjában meghatározott fegyelmi büntetés nem, a (4) bekezdés f) pontjában és a (7) bekezdés e) pontjában meghatározott fegyelmi büntetés pedig csak rendkívüli vagy ismétlődő fegyelmi vétség esetén alkalmazható. Ebben az esetben a szülő köteles új iskolát, kollégiumot keresni a tanulónak. A fegyelmi büntetést hozó iskola, kollégium segítséget nyújt a szülőnek az új iskola, kollégium megtalálásában. Abban az esetben, ha az iskola, a kollégium a fegyelmi büntetés megállapításáról szóló határozat véglegessé válásától számított nyolc napon belül a tanulót fogadó iskolától, kollégiumtól nem kap értesítést arról, hogy a tanuló más iskolában, kollégiumban történő elhelyezése a szülő kezdeményezésére megtörtént, a fegyelmi büntetést hozó iskola, kollégium három napon belül köteles megkeresni a köznevelési feladatot ellátó hatóságot, amely három munkanapon belül másik, az állami közfeladat-ellátásban résztvevő iskolát, kollégiumot jelöl ki a tanuló számára. Az iskolát, kollégiumot úgy kell kijelölni, hogy a tanuló számára a kijelölt intézményben a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. Szakképzési centrum tanulója esetében a szakképzési centrum másik tagintézménye is kijelölhető. A köznevelési feladatokat ellátó hatóság kijelölő határozata azonnal végrehajtható. A (4) bekezdés d) pontjában szabályozott fegyelmi büntetés akkor alkalmazható, ha az iskola igazgatója a tanuló átvételéről a másik iskola igazgatójával megállapodott. A (4) bekezdés c) pontjában meghatározott fegyelmi büntetés szociális kedvezményekre és juttatásokra nem terjed ki. A (4) bekezdés f) pontjában és a (7) bekezdés e) pontjában meghatározott fegyelmi büntetés tanköteles tanuló esetében nem hajtható végre az új tanulói jogviszony, kollégiumi tagsági viszony létesítéséig.
+
+(5a) A köznevelési feladatot ellátó hatóság fegyelmi büntetésként kizárt tanuló számára másik iskolát, kollégiumot kijelölő határozata ellen – jogszabályban meghatározott hatósághoz – fellebbezésnek van helye.
 
 (6) A szakképző iskola tanulója ellen folytatott fegyelmi eljárásba, ha a tanuló tanulószerződést kötött, be kell vonni a területileg illetékes kamarát.
 
@@ -1436,7 +1444,7 @@ fegyelmi büntetés szabható ki.
 
 (12)
 
-(13) Végrehajtani csak jogerős fegyelmi határozatot lehet. Ha a végrehajtás elmaradása a többi tanuló jogait súlyosan sértené vagy más elháríthatatlan kárral, veszéllyel járna, az elsőfokú határozat a fellebbezésre tekintet nélkül végrehajtható.
+(13) Végrehajtani csak végleges fegyelmi határozatot lehet. Ha a végrehajtás elmaradása a többi tanuló jogait súlyosan sértené vagy más elháríthatatlan kárral, veszéllyel járna, az elsőfokú határozat azonnal végrehajtható.
 
 (14)
 
@@ -1612,7 +1620,7 @@ fegyelmi büntetés szabható ki.
 
 (4) A pedagógusigazolvány elkészítésére irányuló eljárásban a munkáltató – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel, elektronikus úton terjeszti elő a pedagógusigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A munkáltató az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A pedagógusigazolvány igénylésének további szabályait jogszabály határozza meg. A KIR adatkezelője a pedagógusigazolvány igényléséhez és előállításához szükséges személyes adatokat, a pedagógusigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet. A KIR adatkezelője és a pedagógusigazolvány elkészítésében közreműködők a pedagógusigazolvány elkészítése körében tudomásukra jutott személyes adatot a pedagógusigazolvány érvényességének megszűnését követő öt évig kezelhetik.
 
-(5) A munkáltató a pedagógus kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a KIR adatkezelője részére. A pedagógusigazolvány előállításának határideje az igénylésnek a KIR adatkezelőjéhez történő beérkezéstől számított negyvenöt nap.
+(5) A munkáltató a pedagógus kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a KIR adatkezelője részére.
 
 #### 35/A. A Nemzeti Pedagógus Kar
 
@@ -1768,7 +1776,7 @@ fegyelmi büntetés szabható ki.
 
 (8) Amennyiben olyan tag ellen indul etikai eljárás, aki a Karban tisztséget tölt be, az etikai eljárás megindításával egyidejűleg e tisztségének gyakorlása alól fel kell függeszteni az érdemi döntés meghozataláig.
 
-(9) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény III., IV. és VII. Fejezeteinek rendelkezéseit kell megfelelően alkalmazni azzal, hogy az eljárás során legalább egy tárgyalás tartása és az eljárás alá vont tag meghallgatása kötelező.
+(9) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló törvény III., IV. és IX. Fejezetének rendelkezéseit kell megfelelően alkalmazni azzal, hogy az eljárás során legalább egy tárgyalás tartása és az eljárás alá vont tag meghallgatása kötelező.
 
 (10) Az etikai vétséget elkövető taggal szemben az etikai eljárást lefolytató testület a következő intézkedéseket hozhatja:
 
@@ -1778,11 +1786,11 @@ fegyelmi büntetés szabható ki.
 
 (11) A (10) bekezdés b) és c) pontjában meghatározott intézkedések időbeli hatálya legfeljebb öt év lehet.
 
-(12) A Területi Etikai Bizottság határozatával szemben a fellebbezést az Országos Etikai Bizottsághoz kell benyújtani, az elsőfokú határozat kézhezvételét követő tizenöt napon belül. A fellebbezés alapján az Országos Etikai Bizottság folytatja le a másodfokú eljárást. Az Országos Etikai Bizottság döntése ellen a határozat kézhezvételét követő tizenöt napon belül a munkahely székhelye szerint illetékes bírósághoz lehet fordulni.
+(12) A Területi Etikai Bizottság határozatával szemben a fellebbezést az Országos Etikai Bizottsághoz kell benyújtani, az elsőfokú határozat kézhezvételét követő tizenöt napon belül. A fellebbezés alapján az Országos Etikai Bizottság folytatja le a másodfokú eljárást. Az Országos Etikai Bizottság döntése ellen a határozat kézhezvételét követő tizenöt napon belül a közigazgatási ügyben eljáró bírósághoz lehet fordulni.
 
 (13) A másodfokú eljárás lefolytatására az elsőfokú eljárásra vonatkozó szabályokat kell alkalmazni.
 
-(14) Az etikai eljárás eredményéről az eljárás jogerős befejezését követően a Területi Etikai Bizottság a határozat megküldésével tájékoztatja a munkáltatót. Ha a közalkalmazott bírósághoz fordult, a határozatot a munkáltató részére a bírósági eljárás jogerős befejezését követően lehet megküldeni.
+(14) Az etikai eljárás eredményéről az eljárás végleges befejezését követően a Területi Etikai Bizottság a határozat megküldésével tájékoztatja a munkáltatót. Ha a közalkalmazott bírósághoz fordult, a határozatot a munkáltató részére a bírósági eljárás jogerős befejezését követően lehet megküldeni.
 
 (15) A választott szakszervezeti tisztséget betöltő közalkalmazottal szembeni etikai eljárás megindításakor a közvetlen felsőbb szakszervezeti szervet tájékoztatni kell.
 
@@ -1793,13 +1801,9 @@ fegyelmi büntetés szabható ki.
 - a) Alapszabálya és más szabályzatai vagy azok módosításai megfelelnek-e e törvény és más jogszabályok előírásainak;
 - b) működése, határozatai nem sértik-e a jogszabályokat, az Alapszabályt vagy az egyéb szabályzatokat.
 
-(3) Az oktatásért felelős miniszter a Kar működésének törvényessége és az Alapszabálynak megfelelő működés biztosítása érdekében felhívja a Kart a törvényes működés helyreállítására vagy egyéb intézkedés megtételére, illetve a (4) bekezdés szerinti döntést hoz. Amennyiben a Kar a törvényességi felügyeleti jogkörben hozott miniszteri döntést sérelmesnek tartja, a közléstől számított harmincnapos jogvesztő határidőn belül bírósághoz fordulhat, kérve annak megállapítását, hogy a döntés sérti a Kar e törvényben biztosított önállóságát. A bíróság nemperes eljárásban, soron kívül határoz. A bíróság az oktatásért felelős miniszter döntését megváltoztathatja. Az eljárásra a Fővárosi Törvényszék az illetékes.
+(3) Az oktatásért felelős miniszter a Kar működésének törvényessége és az Alapszabálynak megfelelő működés biztosítása érdekében felhívja a Kart a törvényes működés helyreállítására vagy egyéb intézkedés megtételére.
 
-(4) Az oktatásért felelős miniszter
-
-- a) megsemmisíti a Kar törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el,
-- b) a működés törvényességének helyreállítása érdekében összehívja az Országos Küldöttgyűlést és a Területi Küldöttgyűlést,
-- c) ismételt vagy súlyos törvénysértés esetén a Kar egyes szerveinek működését felfüggeszti.
+(4)
 
 63/L. § (1) A 63/A. § (1) bekezdésében meghatározott intézményfenntartók a jogviszony keletkezésétől számított harminc napon belül kötelesek a kinevezés tényéről, a Kar adat-nyilvántartási körébe tartozó adatokról és azok változásáról értesítést küldeni a Kar intézményének székhelye szerint illetékes területi szervéhez.
 
@@ -2204,7 +2208,7 @@ illeti meg.
 
 (9) Az oktatásért felelős miniszter – ha enélkül a szükséges intézkedés megtételére nincs lehetőség – az (1) bekezdés b) pontjában foglalt rendkívüli intézkedései során a vizsgaszabályzatban, valamint a tanév rendjében foglaltaktól – az adott ügy elintézéséhez szükséges mértékben – eltérő módon is eljárhat. Az oktatásért felelős miniszter döntését három munkanapon belül meghozza és közzéteszi. Az oktatásért felelős miniszter intézkedése a közzététel után azonnal végrehajtható. Az oktatásért felelős miniszter intézkedését elektronikus úton is közzéteheti.
 
-(10) Az oktatásért felelős miniszter – a vizsgaszabályzatról szóló rendeletben meghatározott feltételek fennállása esetén a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben szabályozott eljárás keretében –
+(10) Az oktatásért felelős miniszter – a vizsgaszabályzatról szóló rendeletben meghatározott feltételek fennállása esetén az általános közigazgatási rendtartásról szóló törvényben szabályozott eljárás keretében –
 
 - a) megvonhatja az iskolától az érettségi vizsga, a szakmai vizsga megszervezésének, lebonyolításának jogát,
 - b) megsemmisítheti az érettségi vizsga, a szakmai vizsga eredményét, valamint
@@ -2246,7 +2250,7 @@ figyelembe veszi.
 
 (6) Ha a köznevelési feladatokat ellátó hatóság a hatósági ellenőrzés során feltárja, hogy a nevelési-oktatási intézmény a felvételi, átvételi kérelem elbírálása során megsértette az egyenlő bánásmód követelményét, az érintett szülő kérelmére megállapítja az óvodai felvétel, a tanulói jogviszony, a kollégiumi tagsági viszony létrejöttét. A köznevelési feladatokat ellátó hatóság akkor hozhat határozatot a felvételi, átvételi kérelem tárgyában, ha a kérelem benyújtásától számítva kevesebb, mint százötven nap telt el. A köznevelési feladatokat ellátó hatóság határozatát az osztály, csoport maximális létszámhatárokat megállapító rendelkezésekre és az iskolai felvételi arányokra vonatkozó rendelkezésekre tekintet nélkül végre kell hajtani. A köznevelési feladatokat ellátó hatóság mindaddig, amíg az érintett gyermek, tanuló az adott nevelési-oktatási intézménnyel óvodai felvételi jogviszonyban, tanulói jogviszonyban, kollégiumi tagsági viszonyban áll, szükség szerint, de minden nevelési, tanítási évben legalább egy alkalommal meggyőződik arról, hogy sérült-e az egyenlő bánásmód követelménye a nevelési-oktatási intézményben.
 
-(7) A köznevelési feladatokat ellátó hatóság (6) bekezdés alapján hozott határozata – fellebbezésre tekintet nélkül – végrehajtható. A köznevelési feladatokat ellátó hatóság a (6) bekezdésben meghatározott intézkedéssel egyidejűleg az egyenlő bánásmód megsértése miatt az intézményvezetővel szemben szabálysértési eljárást indít.
+(7) A köznevelési feladatokat ellátó hatóság (6) bekezdés alapján hozott határozata azonnal végrehajtható. A köznevelési feladatokat ellátó hatóság a (6) bekezdésben meghatározott intézkedéssel egyidejűleg az egyenlő bánásmód megsértése miatt az intézményvezetővel szemben szabálysértési eljárást indít.
 
 80. § (1) Az oktatásért felelős miniszter az országos mérési feladatok keretében gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai tevékenység méréséről, értékeléséről. Az alapkészségek, képességek országos mérésének minden tanévben ki kell terjednie a köznevelés hatodik, nyolcadik és tizedik évfolyamán a nappali rendszerű iskolai oktatás munkarendje szerinti tanuló esetében a szövegértési és a matematikai eszköztudás fejlődésének vizsgálatára. Az iskola vezetője, a tanuló és a pedagógus – jogszabályban meghatározottak szerint – részt vesz az országos mérés, értékelés feladatainak végrehajtásában.
 
@@ -2499,7 +2503,9 @@ ellenőrzés.
 
 (5) A pedagógiai szakszolgálat keretében biztosított ellátás időkereteit jogszabály állapítja meg.
 
-(6) A nem állami fenntartású szakképző iskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a köznevelési feladatokat ellátó hatósággal.
+(6) A nem állami fenntartású szakképző iskola esetében a költségvetési hozzájárulás igénybevételének feltétele, hogy a fenntartó szakképzési megállapodást kössön a szakképzésért és felnőttképzésért felelős miniszterrel.
+
+(7) A Nemzeti Ménesbirtok és Tangazdaság, illetve az általa fenntartott köznevelési intézmény az átlagbér alapú költségvetési támogatásra való jogosultság szempontjából a nonprofit gazdasági társasággal, illetve nonprofit gazdasági társaság által fenntartott köznevelési intézménnyel esik egy tekintet alá.
 
 89. § (1) Azon a településen, ahol legalább nyolc óvodáskorú vagy nyolc alsó tagozatos korú gyermek rendelkezik lakóhellyel és a demográfiai adatok alapján feltételezhető, hogy ez a létszám legalább három évig fennmarad, továbbá ha a szülők ezt igénylik, óvoda esetében a települési önkormányzat, alsó tagozat esetében a települési önkormányzat kezdeményezésére az illetékes tankerületi központ a hivatal tájékoztatása mellett gondoskodik a feladat helyben történő ellátásáról.
 
@@ -2520,6 +2526,8 @@ ellenőrzés.
 (3) Az (1) bekezdésben megjelölt nevelési-oktatási intézmény Magyarországon nemzetközi szerződés alapján is létrejöhet és működhet. A nemzetközi szerződés alapján létrejött és működő nevelési-oktatási intézményeket az oktatásért felelős miniszter hivatalból felveszi a nyilvántartásba. A nemzetközi szerződés alapján létrejött és működő nevelési-oktatási intézményeknek – a (2) bekezdésben meghatározott – törvényességi ellenőrzésére vonatkozó rendelkezéseket a nemzetközi szerződés eltérő rendelkezésének hiányában kell alkalmazni.
 
 (4) Ha a működés helye szerinti állam belső joga vagy nemzetközi szerződés ezt lehetővé teszi, magyar köznevelési intézmény külföldön az oktatásért felelős miniszter engedélyével alapítható. Ha a magyar nevelési-oktatási intézmény székhelye külföldön, magyar külképviseleten van, az oktatásért felelős miniszter veszi nyilvántartásba, és ellátja a törvényességi ellenőrzéssel kapcsolatos feladatokat.
+
+(4a) Ha a működés helye szerinti állam belső joga vagy nemzetközi szerződés ezt lehetővé teszi, Magyarországon működő magyar szakképző iskola tagintézménye külföldön folytathat nevelési-oktatási, szakképzési tevékenységet és ehhez kapcsolódóan kollégiumi ellátást az oktatásért felelős miniszter engedélyével és a szakképzésért és felnőttképzésért felelős miniszter, valamint az érintett szakképesítésért felelős miniszter egyetértésével. A tagintézmény nyilvántartásba vételére a (4) és (5) bekezdésben foglaltakat kell alkalmazni. A köznevelési intézmény felett a 79. § (2) bekezdése szerinti hatósági ellenőrzési jogkört az érintett szakképesítésért felelős miniszter gyakorolja.
 
 (5) A külföldön működő magyar nevelési-oktatási intézmény létesítéséhez és működéséhez adott engedélyben meg kell határozni az alapítás és működés feltételeit. A külföldön működő magyar nevelési-oktatási intézményt az oktatásért felelős miniszter nyilvántartásba veszi és gyakorolja a 34. § (2) bekezdésében meghatározott jogköröket.
 
@@ -2588,10 +2596,10 @@ ellenőrzés.
 - d) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő, illetve a tartós gyógykezelés alatt álló gyermekek, tanulók nevelésével és oktatásával kapcsolatos részletes szabályokat, továbbá a szakértői vélemény elkészítésével összefüggő eljárást, a szakértői bizottság működését, az országos és más szakértői tevékenységet, az utazó gyógypedagógusi, utazó konduktori hálózat megszervezésének és működtetésének, az együttnevelést segítő pedagógusok tevékenységének részletes szabályait, valamint azokat a feltételeket, amikor az utazó gyógypedagógusi, utazó konduktori hálózat igénybevételéért ellenszolgáltatás kérhető,
 - e) az óvodai felvétel eljárási rendjét, az óvodai nevelésben való kötelező részvétel, a tankötelezettség, a fejlesztő nevelés, fejlesztő nevelés-oktatás teljesítésével kapcsolatos feladatokat, a tanulói jogviszonnyal kapcsolatos egyes kérdéseket és – az államháztartásért felelős miniszterrel egyetértésben – a tanulókat megillető juttatásokat, kedvezményeket,
 - f)
-- g) a nem állami költségvetési szerv vagy nem települési önkormányzat által alapított, fenntartott köznevelési intézmény működési engedélye kiadásának részletes szabályait és az azzal kapcsolatos mellékleteket,
+- g)
 - h) az iskolai felvételi eljárás rendjét, az iskolai vizsgáztatás rendjét, a pedagógiai szakszolgálat megszervezését, a pedagógiai szakszolgálat igénybevételének rendjét, a pedagógiai szakszolgálatot ellátó intézmény működését; a nevelési-oktatási intézmények részvételét és feladatait a pedagógiai szakszolgálatok ellátásában, az érintett gyermekek, tanulók nevelésében és oktatásában, az ellenőrzés rendjét, a pedagógiai szakszolgálattal kapcsolatos köznevelési feladatokat ellátó hatósági eljárás indításával összefüggő kérdéseket, az eljárás indítására jogosultak körét, azokat a feltételeket, amikor a pedagógiai szakszolgálat igénybevételéért ellenszolgáltatás kérhető, a pedagógiai szakszolgálatot ellátó intézmények és a pedagógiai-szakmai szolgáltatásokat ellátó intézményekben történő foglalkoztatáshoz és a vezetői megbízáshoz szükséges képesítési követelményeket, a pedagógiai szakszolgálati feladatellátás nélküli munkanapok igénybe vételének részletes szabályait, a pedagógiai szakszolgálati nyomtatványok elektronikus úton történő előállításának és tárolásának rendjét, a köznevelési feladatokat ellátó hatóságnak a nem a tankerületi központ által fenntartott intézmények működési engedélyezési eljárásával összefüggő, valamint a törvényességi ellenőrzésükkel kapcsolatos szakmai szabályokat, az egyes szolgáltatásokkal összefüggő, valamint a felnőttoktatásban az iskola két vagy több évfolyamára megállapított tanulmányi követelményeket egy tanévben vagy az előírtnál rövidebb idő alatti teljesítésére megszervezett osztályozó vizsgára vizsgabiztos kirendeléséért fizetendő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit, továbbá a vizsgáztatással, a szakértői és más szolgáltató tevékenységgel kapcsolatos díjazás megállapításának kérdéseit,
 - i) az érettségi vizsga kivételével a vizsgák rendjét, továbbá az érettségi vizsga vizsgakövetelményeinek kiadását,
-- j) a tankönyvvé nyilvánítás feltételeit és rendjét, valamint eljárását, a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felkerülés feltételeit és eljárását, a tankönyvjegyzékre kerüléssel kapcsolatos árkorlátot, a tankönyvjegyzékből való törlés rendjét és eljárását, a tankönyvtámogatás rendjét, a nem üzletszerű tankönyvforgalmazást, a kötelező eszköz- és felszerelési jegyzék kiadását, a kerettantervek, nevelési-oktatási program jóváhagyásának rendjét, a digitális tananyaggá nyilvánítás feltételeit és rendjét, valamint eljárását, a digitális tananyagok jegyzéke elkészítésének és kiadásának szabályait, a digitális tananyagok jegyzékére való felkerülés feltételeit és eljárását, a digitális tananyagok jegyzékére kerüléssel kapcsolatos árkorlátot, a digitális tananyagok jegyzékéről való törlés rendjét és eljárását, valamint az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
+- j) a kerettantervek jóváhagyásának rendjét, valamint az eljárással kapcsolatos igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
 - k) az oktatási jogok biztosának feladatait, eljárását, továbbá az általa vezetett hivatal szervezetének és működésének szabályait,
 - l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának részletes feltételeit, a köznevelési szakértői tevékenység 82. § (1) bekezdés a) pontja szerinti bejelentésének, illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az Országos szakértői névjegyzékbe, az Országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási szabályait és a köznevelési szakértői, az érettségi vizsgaelnöki tevékenység folytatásának szakmai feltételeit, a köznevelési szakértők és a vizsgaelnökök továbbképzését és a továbbképzési kötelezettség elmulasztásának következményeit, valamint az Országos szakértői névjegyzék és az Országos érettségi vizsgaelnöki névjegyzék személyes adatot nem tartalmazó adattartalmát és a névjegyzékek vezetésére vonatkozó részletes eljárási szabályokat, az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
 - m) a közneveléssel összefüggő feladatok ellátását szolgáló képzéseket,
@@ -2654,6 +2662,10 @@ rendeletben állapítsa meg.
 
 (4b) Felhatalmazást kap a Kormány, hogy az Arany János Tehetséggondozó Program, az Arany János Kollégiumi Program és az Arany János Kollégiumi-Szakközépiskolai Program megvalósítását szolgáló támogatás igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének rendjét és feltételeit rendeletben állapítsa meg.
 
+(4c) Felhatalmazást kap a Kormány, hogy az egyházi, a magán és a nemzetiségi önkormányzat által alapított, fenntartott köznevelési intézmény működési engedélye kiadásának részletes szabályait rendeletben állapítsa meg.
+
+(4d) Felhatalmazást kap a Kormány, hogy a sajátos nevelési igény, a beilleszkedési, tanulási, magatartási nehézség megállapítása, továbbá a logopédiai ellátás során alkalmazott eljárás részletes szabályait rendeletben állapítsa meg.
+
 (5) A (4) bekezdés a)–c) és f) pontjában meghatározott kormányrendeleteknek a Kormány részére történő benyújtásához – a nemzetiséghez tartozók óvodai nevelését, iskolai nevelését, oktatását érintő kérdésekben – be kell szerezni az országos nemzetiségi önkormányzatok véleményét.
 
 #### 53. Hatályba léptető rendelkezések
@@ -2686,15 +2698,17 @@ rendeletben állapítsa meg.
 
 (2) Az (1) bekezdés szerinti intézményekben folyó nevelő-oktató munka során – a nevelő-oktató munka pedagógiai szakaszait, követelményrendszerét, az állami vizsgák rendszerét meghatározó rendelkezések kivételével – e törvény rendelkezéseitől el lehet térni.
 
-(3) A működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban a kerettanterv jóváhagyásával összefüggő eljárásokban, a pedagógus-továbbképzési programokkal összefüggő eljárásokban, a költségvetési támogatásokkal kapcsolatos első- és másodfokú eljárásokban, valamint a törvényességi és hatósági ellenőrzések során az ügyintézési határidő negyvenöt nap, a tankönyvvé nyilvánítási eljárásoknál három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
+(3) A kerettanterv jóváhagyásával összefüggő eljárásokban az ügyintézési határidő három hónap. A nevelési-oktatási programok akkreditálásával összefüggő eljárások esetében az ügyintézési határidő négy hónap.
 
-(3a) Az eljáró hatóság az e törvény szerinti hatósági eljárásokat a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
+(3a) Az egyházi jogi személyek, a nemzetiségi önkormányzatok és a magánintézmények – a központi költségvetésről szóló törvényben biztosított – fenntartói támogatásával kapcsolatos ügyekben az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható, a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról és az ellenőrzés a fenntartó kérelmére nem indítható meg.
 
-(3b) Az egyházi és magánfenntartó – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos hatósági eljárásokban nem kell meghozni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntést, valamint a hatóság vezetője az e bekezdés szerinti eljárás ügyintézési határidejét annak letelte előtt indokolt esetben, az indokok megjelölésével egy alkalommal, legfeljebb huszonegy nappal végzésben meghosszabbíthatja.
+(3b)
 
-(3c) A kerettanterv jóváhagyásával összefüggő hatósági eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3c) A köznevelési intézmény nyilvántartásba vételére vonatkozó eljárásban, a működés megkezdéséhez szükséges engedély kiadására vonatkozó eljárásban, a kerettanterv jóváhagyásával összefüggő eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-(3d) A hivatalnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatálya alá tartozó ügyekben első fokon hozott hatósági döntéseivel szemben a fellebbezés elbírálására jogosult hatóság az oktatásért felelős miniszter.
+(3d)
+
+(3e) A köznevelési feladatot ellátó hatóságnak a hatósági ellenőrzését követően indult eljárásban hozott döntése ellen – kormányrendeletben meghatározott hatósághoz – fellebbezésnek van helye.
 
 (4) Köznevelési intézmény tekintetében felügyeleti és irányító szerven a fenntartót, felügyeleten és irányításon a fenntartói jogok és kötelességek gyakorlását, szakmai és gazdasági felügyeleten és irányításon a szakmai és gazdasági ellenőrzést, nevelési-oktatási intézménynél az illetékességi és működési körön a működési (felvételi) körzetet kell érteni.
 
@@ -2908,7 +2922,7 @@ rendelkezik, feltéve, hogy vállalja a megfelelő tanári szakképzettség megs
 
 (10) A Kar 2014-ben megválasztott tisztségviselőinek megbízatása két évre szól, és további két teljes ciklusra megválaszthatók.
 
-#### 99/C. §
+99/C. § A szakképzésről szóló törvény szerinti mellék-szakképesítés tartalmi elemeinek tanulására vonatkozó választás lehetősége a szakgimnáziumi tanulmányokat a 2016/2017. tanévben 9. évfolyamon, valamint a 2017/2018. tanévben 9. évfolyamon megkezdett tanulókra is kiterjed.
 
 99/D. § (1) Az e törvény 2016. augusztus 31-éig hatályos rendelkezései szerinti szakközépiskolai, szakiskolai és speciális szakiskolai nevelés-oktatásban utoljára a 2015/2016. tanévben indítható kilencedik vagy nyelvi előkészítő évfolyam.
 
@@ -2936,19 +2950,7 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 
 (2) 2017. január 1-jével a tankerületi központ foglalkoztatotti állományába kerülnek a működtető önkormányzat által irányított költségvetési szervnél a tankerületi központ által fenntartott köznevelési intézmény működtetését és a működtetéshez kapcsolódó funkcionális feladatokat ellátó köztisztviselők, közalkalmazottak, munkavállalók, ha – a munkaviszonyban foglalkoztatottak kivételével – megfelelnek a 2016. december 31-én betöltött munkakörükre vonatkozóan a közszolgálati tisztviselőkről szóló törvényben, a közalkalmazottak jogállásáról szóló törvényben és végrehajtási rendeleteikben meghatározott képesítési előírásoknak.
 
-99/H. § (1) A 2016. december 31-én települési önkormányzat által működtetett köznevelési intézmény köznevelési feladatainak ellátását szolgáló mindazon települési önkormányzati vagyon és vagyoni értékű jog (a továbbiakban: vagyon) leltár szerint 2017. január 1-jén a területileg illetékes tankerületi központ ingyenes vagyonkezelésébe kerül. A köznevelési feladat ellátását biztosító vagyon alatt az ellátott köznevelési feladathoz kapcsolódó valamennyi jogot és kötelezettséget, valamint ingó és ingatlan vagyont is érteni kell.
-
-(2) A tankerületi központ és a működtető települési önkormányzat az átvételhez kapcsolódó intézkedések végrehajtása során kölcsönösen együttműködve járnak el.
-
-(3) Az átadás-átvételt a működtető települési önkormányzat képviseletére jogosult személy (a továbbiakban: átadó) és a tankerületi központ képviseletében eljáró, az intézmény székhelye szerint illetékes tankerületi igazgató megállapodásának (a továbbiakban: megállapodás) legkésőbb 2016. december 15-éig történő megkötésével kell végrehajtani.
-
-(4) Ha a felek között a (3) bekezdésben megjelölt határidőig nem jön létre vagy nem teljeskörűen jön létre a megállapodás, az oktatásért felelős miniszter 2016. december 20. napjáig határozattal létrehozza a megállapodást, illetve határozattal dönt a megállapodásban nem rendezett kérdésekről. A határozat ellen fellebbezésnek nincs helye. A határozat a bírósági felülvizsgálatra tekintet nélkül végrehajtható.
-
-(5) A (4) bekezdés szerinti közigazgatási határozattal (a továbbiakban: közigazgatási határozat) szemben bírósági felülvizsgálatnak van helye. A bíróság a felülvizsgálati kérelemről peres eljárásban határoz, az eljárásra – a (6) és (7) bekezdésben foglalt eltérésekkel – a polgári perrendtartásról szóló 1952. évi III. törvény XX. Fejezetének rendelkezéseit kell alkalmazni.
-
-(6) A közigazgatási határozat végrehajtása felfüggesztésének nincs helye. A bíróság a perben soron kívül jár el. A bíróság a közigazgatási határozatot megváltoztathatja.
-
-(7) Ha a közigazgatási határozattal szembeni felülvizsgálati kérelem benyújtását követően, de a bíróság döntését megelőzően a felek a megállapodást megkötik, az oktatásért felelős miniszter a megállapodás megkötését követően a közigazgatási határozatot visszavonja, és erről a bíróságot haladéktalanul írásban értesíti. A közigazgatási határozat visszavonása esetén a bíróság a pert megszünteti.
+99/H. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 99/I. § Az oktatási központ, illetve a tankerületi központ, valamint az állami felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységeit a közbeszerzés becsült értékének meghatározására vonatkozó szabályok alkalmazásakor gazdasági szervezettel és önálló működési költségvetéssel rendelkező szervezeti egységnek kell tekinteni.
 
@@ -3156,7 +3158,7 @@ Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-veze
 | 3 | osztályfőnöki/kollégiumban csoportvezetői | 10 | 30 |
 | 4 | munkaközösség-vezetői | 5 | 10 |
 | 5 | intézményvezető-helyettesi | 20 | 40 |
-| 6 | nemzetiségi | 10 | 10 |
+| 6 | nemzetiségi | 15 | 15 |
 | 7 | gyógypedagógiai | 5 | 10 |
 | 8 | nehéz körülmények között végzett munkáért járó | 10 | 30 |
 | 9 | gyakorlati oktatás-vezetői | 20 | 40 |

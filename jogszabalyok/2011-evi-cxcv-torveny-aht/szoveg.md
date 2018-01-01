@@ -30,7 +30,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
   - d) kitüntetéshez kapcsolódóan nyújtott pénzjutalmakat,
   - e) a fogyatékos és a súlyos mozgáskorlátozott személyeknek ezen élethelyzetére tekintettel nyújtott pénzbeli ellátásokat,
   - f) a szociális igazgatásról és szociális ellátásokról szóló törvény, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti pénzbeli és természetbeni szociális és gyermekvédelmi ellátásokat,
-  - g) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti foglalkoztatást elősegítő képzési támogatásokat, álláskeresési ellátásokat, bérgarancia támogatásokat, valamint a foglalkoztatási támogatásokra vonatkozó rendeletekben meghatározott magánszemélyek részére nyújtható támogatásokat,
+  - g) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény szerinti foglalkoztatást elősegítő képzési támogatásokat, álláskeresési ellátásokat, bérgarancia támogatásokat, a foglalkoztatási támogatásokra vonatkozó rendeletekben meghatározott magánszemélyek részére nyújtható támogatásokat, valamint a szakképzési törvény szerinti szakképzési centrum részére, felnőttoktatási tevékenység ellátásával összefüggésben nyújtott támogatásokat,
   - h) a jogszabály alapján nyújtott családtámogatásokat, korhatár alatti ellátásokat, jövedelempótló és jövedelemkiegészítő szociális támogatásokat, az apákat megillető pótszabadsággal összefüggő költségek megtérítését, az energiafelhasználási támogatásokat,
   - i) a helyi önkormányzatok általános működésének és ágazati feladatainak támogatásait,
   - j) a közfoglalkoztatási támogatásokat,
@@ -748,7 +748,7 @@ kerülhet sor.
 
 #### 25. Kötelezettségvállalás, pénzügyi ellenjegyzés
 
-36. § (1) A 32. §-ban és az (5) bekezdésben meghatározott kivételekkel a költségvetési év kiadási előirányzatai és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére kötelezettségvállalásra az azokat terhelő korábbi kötelezettségvállalásokkal és más fizetési kötelezettségekkel csökkentett összegű eredeti vagy módosított kiadási előirányzatok (a továbbiakban: szabad előirányzat) mértékéig kerülhet sor. Más fizetési kötelezettségnek minősül a jogszabályon, jogerős vagy fellebbezésre tekintet nélkül végrehajtható bírósági, hatósági döntésen, vagy más, a fizetési kötelezettség összegét vagy az összeg megállapításának módját, továbbá a felek valamennyi jogát és kötelezettségét megállapító kötelező előíráson alapuló fizetési kötelezettség.
+36. § (1) A 32. §-ban és az (5) bekezdésben meghatározott kivételekkel a költségvetési év kiadási előirányzatai és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerint rendelkezésre bocsátott összeg terhére kötelezettségvállalásra az azokat terhelő korábbi kötelezettségvállalásokkal és más fizetési kötelezettségekkel csökkentett összegű eredeti vagy módosított kiadási előirányzatok (a továbbiakban: szabad előirányzat) mértékéig kerülhet sor. Más fizetési kötelezettségnek minősül a jogszabályon, jogerős vagy fellebbezésre tekintet nélkül végrehajtható bírósági, illetve véglegessé vált vagy azonnal végrehajtható hatósági döntésen, vagy más, a fizetési kötelezettség összegét vagy az összeg megállapításának módját, továbbá a felek valamennyi jogát és kötelezettségét megállapító kötelező előíráson alapuló fizetési kötelezettség.
 
 (2) A Kormány egyedi határozatban a szabad előirányzatot meghaladó mértékű vagy tárgyévi előirányzattal nem rendelkező közfeladathoz kapcsolódó kötelezettségvállalást engedélyezhet az ahhoz szükséges előirányzat mértékéről hozott döntésével egyidejűleg, amelynek átcsoportosításáról az államháztartásért felelős miniszter a Kormány 33. § (2) bekezdésében meghatározott jogkörében eljárva utólag, egyoldalú nyilatkozatban gondoskodik.
 
@@ -858,7 +858,7 @@ vállalható.
 
 (2a) A költségvetési szerv által fel nem használható bírságot, valamint más olyan bevételt, amely jogszabály alapján a központi költségvetés központosított bevételét képezi, kizárólag a kincstár által e célra létrehozott központosított beszedési számlára lehet beszedni. A központosított beszedési számla felett a bevételt beszedő költségvetési szerv a Kormány rendeletében foglaltak szerint korlátozottan rendelkezik.
 
-(3) Törvény eltérő rendelkezése hiányában – a bíróság, ügyészség által kiszabott eljárási bírság és rendbírság kivételével – a jogerősen kiszabott és meg nem fizetett bírság, valamint a meg nem fizetett bírság miatt jogerősen kiszabott és meg nem fizetett késedelmi pótlék köztartozásnak minősül, és adók módjára kell behajtani.
+(3) Törvény eltérő rendelkezése hiányában – a bíróság, ügyészség által kiszabott eljárási bírság és rendbírság kivételével – a jogerősen, illetve véglegesen kiszabott és meg nem fizetett bírság, valamint a meg nem fizetett bírság miatt jogerősen vagy véglegesen kiszabott és meg nem fizetett késedelmi pótlék köztartozásnak minősül, és azt az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 134. §-ában foglaltak szerint, vagy ha az nem az Ákr. hatálya alá tartozó eljárásban került megállapításra, akkor adók módjára kell behajtani.
 
 #### 30. Személyi juttatások, illetményszámfejtés
 
@@ -1027,6 +1027,8 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (2) A költségvetési támogatások jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása, továbbá a költségvetési támogatás visszavonása, a támogatási szerződéstől történő elállás vagy annak felmondása esetén a kedvezményezett a jogosulatlanul igénybe vett költségvetési támogatás összegét a Kormány rendeletében meghatározott ügyleti kamattal, késedelem esetén késedelmi kamattal növelt mértékben köteles visszafizetni. Az államháztartás központi alrendszerébe tartozó költségvetési szerv kedvezményezettet kamatfizetési kötelezettség nem terheli.
 
+(2a) A (2) bekezdésben meghatározott követeléssel kapcsolatos végrehajtás elrendelése esetén az Ákr. hatálya alá tartozó eljárásokban a végrehajtási megkeresés napját követően a késedelmi kamatot az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezései alapján – az ott meghatározott kivétellel – a végrehajtást foganatosító szerv számítja fel és arról a megkereső szervet értesíti.
+
 (3) Nemteljesítés esetén a visszafizetési kötelezettség érvényesítése elsősorban a biztosíték érvényesítésével történik. Ennek eredménytelensége esetén a visszafizetendő összeget és annak kamatait az állami adóhatóság a támogató megkeresésére adók módjára behajtandó köztartozásként, a 14. § (3) bekezdése szerinti fejezetből nyújtott költségvetési támogatás esetén a 60/A. § (2) bekezdésében meghatározott módon hajtja be. Ha a nem természetes személy kedvezményezett jogszabály alapján mentesül a biztosíték nyújtása vagy választása szerint az önrész rendelkezésre állásának igazolása alól, és a jogosulatlanul igénybe vett költségvetési támogatással összefüggésben keletkező visszafizetési kötelezettségét a támogató által meghatározott határnapig nem teljesíti, illetve annak részletekben történő teljesítése esetén a részletfizetési kötelezettségét elmulasztja, és a visszafizetendő összeget nem lehet tőle behajtani, a támogató kezdeményezése alapján az állami adóhatóság a kedvezményezett és a kedvezményezettben többségi befolyással rendelkező szervezet adószámát törli.
 
 (4) Ha a kedvezményezett a támogatott tevékenység megvalósítása érdekében olyan jogviszonyt létesít, amely alapján a támogató előleg számla alapján közvetlenül harmadik személynek folyósítja a költségvetési támogatást, a kedvezményezettet terhelő visszafizetési kötelezettség ezt a harmadik személyt terheli, ha a visszafizetési kötelezettség azért keletkezett, mert a támogatott tevékenység megvalósítása érdekében létesített jogviszonyon alapuló kötelezettségeit nem teljesítette a kedvezményezett számára. Ha a kötelezettségek teljesítésének elmaradása e harmadik személy szándékos magatartására vezethető vissza, és a visszafizetési kötelezettségét a támogató által meghatározott határnapig nem teljesíti, illetve annak részletekben történő teljesítése esetén a részletfizetési kötelezettségét elmulasztja, a visszafizetendő összeget a támogató kezdeményezésére adók módjára behajtandó köztartozásként kell behajtani. Behajthatatlanság esetén a támogató kezdeményezése alapján az állami adóhatóság a harmadik személy és a harmadik személyben többségi befolyással rendelkező szervezet adószámát törli.
@@ -1111,15 +1113,15 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (2) A kincstár a rendelkezésére álló adatok alapján, illetve helyszíni ellenőrzés során ellenőrzi a támogatások igénylésének és módosításának megalapozottságát.
 
-(3) Ha a kincstár az igénylésben meghatározott mutatószámot megalapozatlannak tartja, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (1) bekezdés b) pontja alapján hivatalból megindított eljárás keretében kötelezi a helyi önkormányzatot, hogy a mutatószámon a kincstár által meghatározott változtatásokat a soron következő mutatószám módosításkor vezesse át. Nem kell határozatot hozni, ha a helyi önkormányzat a kincstár álláspontját alátámasztó bizonyítékok ismertetése során az eltérés jogszerűségét igazolja.
+(3) Ha a kincstár az igénylésben meghatározott mutatószámot megalapozatlannak tartja, hivatalból megindított eljárás keretében kötelezi a helyi önkormányzatot, hogy a mutatószámon a kincstár által meghatározott változtatásokat a soron következő mutatószám módosításkor vezesse át. Nem kell határozatot hozni, ha a helyi önkormányzat a kincstár álláspontját alátámasztó bizonyítékok ismertetése során az eltérés jogszerűségét igazolja.
 
 (4) Ha a helyi önkormányzat a határozatban foglaltaknak nem tesz eleget, a kincstár jogosult az általa meghatározott mutatószámok átvezetésére.
 
-(5) A helyi önkormányzat a soron következő mutatószám módosításkor a kincstár (3) bekezdés szerinti határozatában szerepeltetett mutatószámhoz képest eltérő mutatószámot szerepeltethet, ha azt a helyi önkormányzatnak a határozat jogerőre emelkedését követően átvett vagy átadott feladat indokolja. A feladat átvételének, átadásának helyi önkormányzat általi bizonyítása alapján a kincstár a (3) bekezdés szerinti határozatát módosíthatja, visszavonhatja.
+(5) A helyi önkormányzat a soron következő mutatószám módosításkor a kincstár (3) bekezdés szerinti határozatában szerepeltetett mutatószámhoz képest eltérő mutatószámot szerepeltethet, ha azt a helyi önkormányzatnak a határozat véglegessé válását követően átvett vagy átadott feladat indokolja. A feladat átvételének, átadásának helyi önkormányzat általi bizonyítása alapján a kincstár a (3) bekezdés szerinti határozatát módosíthatja, visszavonhatja.
 
-(6) A kincstár (3) bekezdés szerinti határozata ellen fellebbezésnek nincs helye, a határozat felülvizsgálata bíróságtól kérhető. A perre a helyi önkormányzat székhelye szerint illetékes közigazgatási és munkaügyi bíróság illetékes. A bíróság a határozat felülvizsgálata során a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit – a (7) bekezdésben meghatározott eltérésekkel – alkalmazva, soron kívül jár el.
+(6) A kincstár (4) bekezdés szerinti intézkedésével szemben azonnali jogvédelemnek nincs helye.
 
-(7) A keresetlevelet a kincstárnál a felülvizsgálni kért döntés közlésétől számított tizenöt napon belül kell benyújtani vagy ajánlott küldeményként postára adni. A keresetlevélben a kincstár (4) bekezdés szerinti intézkedésének felfüggesztése nem kérelmezhető. A bíróság a kincstár (3) bekezdés szerinti határozatát megváltoztathatja.
+(7) A kincstár (3) bekezdés szerinti határozata elleni keresetlevelet a döntés közlésétől számított 15 napon belül kell benyújtani.
 
 #### 41. A helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások elszámolása és felülvizsgálata
 
@@ -1127,7 +1129,7 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (2) A helyi önkormányzat az éves költségvetési beszámolójában a költségvetési évben folyósított támogatások felhasználásával kapcsolatos önellenőrzést a költségvetési beszámoló teljesítésének határidejét követő második hónaptól a Kormány rendeletében meghatározott mértékű – a 14. § (4) bekezdés d) pontja szerinti fejezetben elszámolandó – önellenőrzési pótlék megfizetésével egyidejűleg kezdeményezhet, legkésőbb annak az évnek az utolsó napjáig, amely évben az éves költségvetési beszámolót el kellett készítenie.
 
-59. § (1) A kincstár a helyi önkormányzat éves költségvetési beszámolója alapján a Ket. szerinti hatósági ellenőrzés keretében felülvizsgálja a támogatások elszámolását, felhasználását. A hatósági ellenőrzés és a másodfokú eljárás ügyintézési határideje tekintetében a Kormány rendelete a Ket. 33. § (1) bekezdésében meghatározottnál hosszabb ügyintézési határidőt is megállapíthat. A felülvizsgálat során a kincstár az Állami Számvevőszék jelentéseiben foglalt megállapításokat is figyelembe veszi.
+59. § (1) A kincstár a helyi önkormányzat éves költségvetési beszámolója alapján az Ákr. szerinti hatósági ellenőrzés keretében felülvizsgálja a támogatások elszámolását, felhasználását. A hatósági ellenőrzés tekintetében alkalmazandó kiegészítő rendelkezéseket kormányrendelet határozza meg. A felülvizsgálat során a kincstár az Állami Számvevőszék jelentéseiben foglalt megállapításokat is figyelembe veszi.
 
 (2) A felülvizsgálat megszervezése során biztosítani kell, hogy valamennyi helyi önkormányzatnál a felülvizsgálat esetében legalább négyévente – a kincstár által meghatározott támogatási jogcímek tekintetében – helyszíni ellenőrzésre kerüljön sor, amely a Polgári Törvénykönyv szerinti általános elévülési időn belül, a korábban nem vizsgált időszakra és jogcímekre is kiterjeszthető.
 
@@ -1135,7 +1137,11 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (4) A felülvizsgálat szakmai szabályait, módszereit a kincstár az államháztartásért felelős miniszter egyetértésével alakítja ki.
 
-60. § Ha a kincstár a felülvizsgálat során az éves költségvetési beszámolóban közölt adatokhoz képest eltérést tár fel, a Ket. 94. § (1) bekezdés b) pontja szerinti eljárásban megállapítja a helyi önkormányzatot megillető vagy az általa visszafizetendő támogatás összegét. A határozat bíróság általi felülvizsgálatára az 57. § (6) és (7) bekezdését kell alkalmazni.
+60. § (1) Ha a kincstár a felülvizsgálat során az éves költségvetési beszámolóban közölt adatokhoz képest eltérést tár fel, hivatalbóli eljárásban megállapítja a helyi önkormányzatot megillető vagy az általa visszafizetendő támogatás összegét.
+
+(2) Az (1) bekezdés szerinti eljárásban az Ákr. rendelkezéseit az e §-ban meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
+
+(3) Az elsőfokú döntés ellen fellebbezésnek van helye. A közigazgatási perre az 57. § (6) és (7) bekezdését kell megfelelően alkalmazni.
 
 #### 42. Egyéb szabályok
 
@@ -1153,6 +1159,8 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 (3) A helyi önkormányzat kérelme alapján a visszafizetési és kamatfizetési kötelezettségére vonatkozóan – a késedelmi kamat kivételével – a kincstár legfeljebb tizenkét havi részletfizetést engedélyezhet, ha a kérelmező igazolja, hogy kötelező feladatainak ellátását az egyösszegű visszafizetés veszélyeztetné. A részletfizetésről hozott határozattal szemben nincs helye fellebbezésnek. A részletfizetési kérelem benyújtására meghatározott határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye.
 
 (4) Ha a helyi önkormányzat a részletfizetést engedélyező határozatban foglalt fizetési kötelezettségének a határozatban foglaltak szerint nem tesz eleget, a visszafizetési és kamatfizetési kötelezettség egy összegben, azonnal esedékessé válik. Ha az így keletkezett egyösszegű fizetési kötelezettséget a kötelezett az esedékessé válást követő tizenöt napon belül nem teljesíti, a kincstár beszedési megbízást nyújt be a kötelezett fizetési számlájával szemben.
+
+(5) Az ügyfél a nyilatkozatával nem pótolhatja a hiányzó bizonyítékot.
 
 60/B. § A helyi önkormányzat kérelme alapján a kincstár által e törvény alapján benyújtott beszedési megbízást a kincstár nem nyújtja be vagy a már benyújtott beszedési megbízást visszavonja, ha a kérelmező igazolja, hogy az általa fizetendő munkabérek, illetmények és ellátások kifizetését a beszedési megbízás érvényesítése veszélyeztetné.
 
@@ -1202,13 +1210,13 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 (2) Az ellenőrzéshez kapcsolódó adatszolgáltatási, együttműködési vagy az ellenőrzés végrehajtását elősegítő kötelezettség megszegése esetén
 
 - a) az érintett személy eljárási bírsággal sújtható, amennyiben a kötelezettségszegés felróható módon történt,
-- b) a kormányzati ellenőrzési szerv vezetője kezdeményezheti az állami adóhatóságnál az ellenőrzött vagy az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv adószáma alkalmazásának felfüggesztését.
+- b)
 
-(3) Az eljárási bírságot a kormányzati ellenőrzési szerv vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra a Ket. rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(3) Az eljárási bírságot a kormányzati ellenőrzési szerv vezetője határozatban szabja ki. A bírságolással kapcsolatos eljárásra az Ákr. rendelkezéseit az e törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
-(4) Az ügyfelet az eljárás hivatalból történő megindításáról nem kell értesíteni. Az eljárásban kizárt az újrafelvételi eljárás, valamint egyezség megkötése.
+(4)
 
-(5) A döntés ellen fellebbezésnek nincs helye. A bírsággal sújtott személy a határozat közlésétől számított tizenöt napon belül kérheti a döntés bírósági felülvizsgálatát.
+(5) A keresetlevelet a bírsággal sújtott személynek a határozat közlésétől számított tizenöt napon belül kell benyújtania.
 
 (6) A helyszíni ellenőrzés lefolytatásának akadályozása esetén az ellenőrzött vagy az ellenőrzés kapcsán adatszolgáltatásra kötelezett szerv adatszolgáltatási vagy együttműködési kötelezettségének érvényesítéséhez a kormányzati ellenőrzési szerv a rendőrség közreműködését veheti igénybe.
 
@@ -1463,9 +1471,9 @@ vizsgálatára terjed ki.
 
 (1a) Az (1) bekezdés szerinti adatszolgáltatási kötelezettség elmulasztása vagy késedelmes teljesítése esetén az önkormányzati hivatal a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a kincstár határozatban szab ki.
 
-(2) Ha a kincstár az (1) bekezdés szerinti ellenőrzés során megállapítja, hogy a települési önkormányzat a gépjárműadóval kapcsolatos fizetési kötelezettségét nem vagy nem a központi költségvetésről szóló törvénynek megfelelően teljesítette, a Ket. 94. § (1) bekezdés b) pontja alapján hivatalból megindított eljárás keretében kötelezi a települési önkormányzatot a különbözet és az ehhez kapcsolódó kamat megfizetésére.
+(2) Ha a kincstár az (1) bekezdés szerinti ellenőrzés során megállapítja, hogy a települési önkormányzat a gépjárműadóval kapcsolatos fizetési kötelezettségét nem vagy nem a központi költségvetésről szóló törvénynek megfelelően teljesítette, hivatalból megindított eljárás keretében kötelezi a települési önkormányzatot a különbözet és az ehhez kapcsolódó kamat megfizetésére.
 
-(3) A kincstár (1a) és (2) bekezdés szerinti határozata ellen fellebbezésnek nincs helye, a határozat bírósági felülvizsgálatára az 57. § (6) és (7) bekezdését kell alkalmazni, azzal, hogy a bíróság határozata ellen felülvizsgálatnak nincs helye. A kincstár (1a) és (2) bekezdés szerinti határozatában foglaltak részletekben történő teljesítése a 60/A. § (3) és (4) bekezdése szerint kérhető és engedélyezhető.
+(3) A kincstár (1a) és (2) bekezdés szerinti határozata ellen indított közigazgatási perben az 57. § (6) és (7) bekezdését kell alkalmazni. A kincstár (1a) és (2) bekezdés szerinti határozatában foglaltak részletekben történő teljesítése a 60/A. § (3) és (4) bekezdése szerint kérhető és engedélyezhető.
 
 (4) Az engedélyezett részletekben történő teljesítés kivételével, ha a települési önkormányzat, illetve az önkormányzati hivatal a kincstár (1a) és (2) bekezdés szerinti határozatában foglaltaknak a határozat közlését követő tizenöt napon belül nem tesz eleget, a meg nem fizetett összeg és a bírság együttes összegének erejéig a kincstár – a határozat bírósági felülvizsgálatára tekintet nélkül – beszedési megbízást nyújt be a települési önkormányzat fizetési számlájával szemben. A beszedési megbízás visszavonására a 60/B. §-t kell alkalmazni.
 
@@ -1678,13 +1686,13 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 #### 68. A törzskönyvi nyilvántartás
 
-104. § (1) A kincstár nyilvántartást vezet a költségvetési szervekről, a törvény által az államháztartás központi alrendszerébe sorolt köztestületekről, a helyi önkormányzatokról, a nemzetiségi önkormányzatokról, a társulásokról, a térségi fejlesztési tanácsokról, valamint jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személyekről (a továbbiakban együtt: törzskönyvi jogi személy). A nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
+104. § (1) A kincstár törzskönyvi nyilvántartást vezet a költségvetési szervekről, a törvény által az államháztartás központi alrendszerébe sorolt köztestületekről, a helyi önkormányzatokról, a nemzetiségi önkormányzatokról, a társulásokról, a térségi fejlesztési tanácsokról, valamint jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személyekről (a továbbiakban együtt: törzskönyvi jogi személy). A törzskönyvi nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
-(2) A törzskönyvi nyilvántartás vezetése során a Ket. rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni, azzal, hogy a Ket. 29. § (1b) és (1c) bekezdését, 33. § (1a) bekezdését és 71/A. §-át a törzskönyvi nyilvántartás vezetése során nem kell alkalmazni. A törzskönyvi nyilvántartás vezetésére vonatkozó eljárásban az ügyintézési határidő tizenöt nap. A kincstár a hiánypótlási felhívás teljesítésére legfeljebb húsznapos határidőt állapíthat meg. A törzskönyvi nyilvántartás vezetésével kapcsolatos eljárásban az eljárás felfüggesztésének helye van. Az eljárásban kizárt az újrafelvételi eljárás.
+(2) A törzskönyvi nyilvántartás vezetése során az Ákr. rendelkezéseit az e §-ban meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni. A törzskönyvi nyilvántartás vezetésére vonatkozó eljárásban az ügyintézési határidő 20 nap. A kincstár a hiánypótlási felhívás teljesítésére legfeljebb 15 napos határidőt állapíthat meg. A kincstár az ügyféllel a kapcsolatot írásban tartja. A kérelemnek helyt adó döntés a bejegyzés napján közöltnek tekintendő.
 
-(3) A kincstár döntése ellen fellebbezésnek nincs helye. Az alapító szerv a döntés közlésétől számított tizenöt napon belül a határozat vagy az önálló fellebbezéssel megtámadható végzés felülvizsgálatát kérheti az alapító szerv székhelye szerint illetékes közigazgatási és munkaügyi bíróságtól (e § alkalmazásában a továbbiakban: bíróság).
+(3) A döntést megtámadó keresetlevelet 15 napon belül kell benyújtani. A bíróság határozata ellen perorvoslatnak nincs helye.
 
-(4) A bíróság eljárása során felfüggesztésnek és szünetelésnek nincs helye. A bíróság a feleket meghallgathatja. A bíróság a kérelemről annak beérkezésétől számított harminc napon belül, a közigazgatási hatósági eljárásban hozott végzések elleni bírósági felülvizsgálatra vonatkozó szabályok szerint dönt. E határidő számításakor a hiánypótlásra felhívó végzés postára adásától (átadásától) a hiányok pótlásáig, a hiánypótlás elmaradása esetén a hiánypótlásra biztosított határidő lejártáig eltelt idő nem vehető figyelembe. A bíróság eljárására egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény módosításáról és az egyes közigazgatási nemperes eljárásokban alkalmazandó szabályokról szóló 2005. évi XVII. törvény 4. §-át kell alkalmazni. A bíróság a kincstár döntését megváltoztathatja. A bíróság határozata ellen felülvizsgálatnak nincs helye.
+(4)
 
 (5)–(6)
 
@@ -1702,13 +1710,13 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (3) A nem költségvetési szerv törzskönyvi jogi személyre vonatkozó bejegyzés módosítása a bejegyzés napjától alkalmazandó, kivéve ha törvény más időpontot, vagy az adatmódosításra irányuló kérelem későbbi időpontot állapít meg.
 
-105/B. § (1)
+105/B. § (1) A bejelentési, adatszolgáltatási vagy nyilatkozattételi kötelezettségét késedelmesen, hibásan vagy valótlan adattartalommal teljesítő szerv a Kormány rendeletében meghatározott mértékű bírsággal sújtható.
 
-(2) A bejelentési, adatszolgáltatási vagy nyilatkozattételi kötelezettségét késedelmesen, hibásan, valótlan adattartalommal vagy ugyanabban az eljárásban több alkalommal hiányosan teljesítő szerv a Kormány rendeletében meghatározott mértékű bírsággal sújtható.
+(2) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv, a törvény által az államháztartás központi alrendszerébe sorolt köztestület, valamint az államháztartás központi alrendszerébe tartozó jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy fizetési számláját a bírság összegével megterhelni.
 
 #### 69. Kincstári adatkezelés
 
-106. § A kincstár a közoktatási, szociális, valamint gyermekvédelmi és gyermekjóléti célból a helyi önkormányzatoknak, helyi nemzetiségi önkormányzatoknak biztosított támogatások, továbbá a nem állami intézmény fenntartójának biztosított normatív és egyéb hozzájárulások jogszabályban megállapított feltételeinek ellenőrzése céljából jogosult a fenntartók és a fenntartott intézmények ellátotti körébe tartozók neve, születési helye és ideje, anyja neve, lakóhelye, tanulói azonosítója, pedagógus azonosítója, társadalombiztosítási azonosító jele, továbbá az ellátás jogcíme és összege adatainak kezelésére. A kincstár ezen személyes adatokat a támogatással való elszámolási határidejének lejártát követő öt évig, vagy – ha az későbbi – a jogerős közigazgatási határozat ellen benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.
+106. § A kincstár a közoktatási, szociális, valamint gyermekvédelmi és gyermekjóléti célból a helyi önkormányzatoknak, helyi nemzetiségi önkormányzatoknak biztosított támogatások, továbbá a nem állami intézmény fenntartójának biztosított normatív és egyéb hozzájárulások jogszabályban megállapított feltételeinek ellenőrzése céljából jogosult a fenntartók és a fenntartott intézmények ellátotti körébe tartozók neve, születési helye és ideje, anyja neve, lakóhelye, tanulói azonosítója, pedagógus azonosítója, társadalombiztosítási azonosító jele, továbbá az ellátás jogcíme és összege adatainak kezelésére. A kincstár ezen személyes adatokat a támogatással való elszámolási határidejének lejártát követő öt évig, vagy – ha az későbbi – a véglegessé vált hatósági határozat ellen indított közigazgatási perben hozott határozat jogerőre emelkedésének napjáig kezelheti.
 
 106/A. § (1) A kincstár a központosított illetményszámfejtés keretében jogosult a munkabér, az illetmény, a tiszteletdíj, a költségtérítés, egyéb pénzbeli juttatás és a megállapodás alapján biztosítottnak minősülő személy juttatásának számfejtése, kifizetése és annak ellenőrzése céljából az érintett
 
@@ -1772,7 +1780,7 @@ a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a k
 
 (4) A (3) bekezdés a) pontjának alkalmazásában lényegesnek minősül az adatszolgáltatás szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – közvetlenül és hátrányosan – befolyásolja az adatszolgáltatásban közölt adatokat felhasználók döntéseit.
 
-(5) Ha a bírság kiszabására okot adó körülmény az irányító szerv érdekkörében merül fel, a bírságot az irányító szervvel szemben kell kiszabni. Az adatszolgáltatásnak a határozat közlésétől számított 15 napon belül történő teljesítése esetén a (3) bekezdés alapján kiszabott bírság korlátlanul mérsékelhető. A kincstár e bekezdés szerinti határozata tekintetében az 57. § (6) és (7) bekezdését kell alkalmazni, azzal hogy a bíróság határozata ellen felülvizsgálatnak nincs helye.
+(5) Ha a bírság kiszabására okot adó körülmény az irányító szerv érdekkörében merül fel, a bírságot az irányító szervvel szemben kell kiszabni. Az adatszolgáltatásnak a határozat közlésétől számított 15 napon belül történő teljesítése esetén a (3) bekezdés alapján kiszabott bírság korlátlanul mérsékelhető. A kincstár e § szerinti határozatát 15 napon belül lehet megtámadni. A bíróság határozata ellen perorvoslatnak nincs helye.
 
 (6) Azon központi kezelésű előirányzatok esetében, amelyek tekintetében a Kormány rendeletében foglaltak szerint a beszámolási és könyvvezetési feladatokat a kincstár látja el, a bírságot a Kormány rendeletében meghatározott részletező nyilvántartások vezetésére és azok adatai alapján a kincstár számára adatszolgáltatásra köteles szervezetekkel szemben kell kiszabni, ha a bírság kiszabására okot adó körülmény e szervezet mulasztása miatt keletkezett.
 
@@ -1982,7 +1990,7 @@ rendeletben szabályozza.
 
 vállalható kötelezettség azzal, hogy az előző években vállalt kötelezettségek összegét egybe kell számítani.
 
-#### 111/F. §
+111/F. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 74. Az Európai Unió jogának való megfelelés
 

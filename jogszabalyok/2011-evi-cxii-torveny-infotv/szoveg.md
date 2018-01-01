@@ -296,7 +296,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (2) Azt, hogy az adatkezelés a jogszabályban foglaltaknak megfelel, az adatkezelő köteles bizonyítani. A 21. § (5) és (6) bekezdése szerinti esetben a részére történő adattovábbítás jogszerűségét az adatátvevő köteles bizonyítani.
 
-(3) A per elbírálása a törvényszék hatáskörébe tartozik. A per – az érintett választása szerint – az érintett lakóhelye vagy tartózkodási helye szerinti törvényszék előtt is megindítható.
+(3) A pert az érintett – választása szerint – a lakóhelye vagy tartózkodási helye szerint illetékes törvényszék előtt is megindíthatja.
 
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az érintett pernyertessége érdekében beavatkozhat.
 
@@ -444,11 +444,11 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az igénylő pernyertessége érdekében beavatkozhat.
 
-(5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per a törvényszék hatáskörébe tartozik. A járásbíróság hatáskörébe tartozó ügyekben a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság jár el. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
+(5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per kivételével a per a járásbíróság hatáskörébe tartozik, és arra a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság illetékes. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
 
 (6) A bíróság soron kívül jár el.
 
-(6a) Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a per tárgyalását felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
+(6a) Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a peres eljárást felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
 
 (7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt – az adatigénylés teljesítésére rendelkezésre álló határidő meghatározásával – a kért közérdekű adat közlésére kötelezi. A bíróság az adatigénylés teljesítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.
 
@@ -695,7 +695,7 @@ dönt.
 
 (1a) A Hatóság vizsgálata a 31. § (1) bekezdésében meghatározott indokok valamelyikén alapuló bejelentés esetén az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított egy éven belül kezdeményezhető.
 
-(2) A Hatóság vizsgálata nem minősül közigazgatási hatósági eljárásnak, arra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt nem kell alkalmazni.
+(2) A Hatóság vizsgálata nem minősül közigazgatási hatósági eljárásnak.
 
 (3) A Hatósághoz tett bejelentése miatt senkit sem érhet hátrány. A bejelentő kilétét a Hatóság csak akkor fedheti fel, ha ennek hiányában a vizsgálat nem lenne lefolytatható. Ha a bejelentő kéri, kilétét a Hatóság akkor sem fedheti fel, ha ennek hiányában a vizsgálat nem folytatható le. Erről a következményről a Hatóság a bejelentőt köteles tájékoztatni.
 
@@ -739,8 +739,8 @@ dönt.
 
 (3) Az (1) bekezdés c) és d) pontja szerinti felvilágosítást az arra felhívott személy megtagadhatja, ha
 
-- a) az a személy, akit a Hatóság vizsgálatának alapját képező bejelentés érint, a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hozzátartozója vagy volt házastársa;
-- b) a felvilágosítás során magát vagy a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti hozzátartozóját, illetve volt házastársát bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben.
+- a) az a személy, akit a Hatóság vizsgálatának alapját képező bejelentés érint, a Polgári Törvénykönyv szerinti hozzátartozója vagy volt házastársa;
+- b) a felvilágosítás során magát vagy a Polgári Törvénykönyv szerinti hozzátartozóját, illetve volt házastársát bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben.
 
 55. § (1) A Hatóság a bejelentés érkezésétől számított két hónapon belül,
 
@@ -795,7 +795,7 @@ dönt.
 
 60. § (1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság adatvédelmi hatósági eljárást indíthat, a (4) bekezdésben meghatározott esetben adatvédelmi hatósági eljárást indít.
 
-(2) Az adatvédelmi hatósági eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2)
 
 (3) Az adatvédelmi hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg. Ha azonban az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt az adatvédelmi hatósági eljárás megindításáról, illetve befejezéséről értesíteni kell.
 
@@ -805,7 +805,7 @@ dönt.
 - b)
 - c) nagy érdeksérelmet vagy kárveszélyt idézhet elő.
 
-(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő két hónap, amely egy alkalommal, legfeljebb harminc nappal hosszabbítható meg.
+(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő kilencven nap.
 
 61. § (1) Az adatvédelmi hatósági eljárásban hozott határozatában a Hatóság
 
@@ -823,7 +823,7 @@ dönt.
 
 (4) A Hatóság annak eldöntésében, hogy indokolt-e a bírság kiszabása, illetve a bírság mértékének megállapításában az eset összes körülményeit – így különösen a jogsértéssel érintettek körének nagyságát, a jogsértés súlyát és a jogsértés ismétlődő jellegét – veszi figyelembe.
 
-(5) A bírósági felülvizsgálat kezdeményezésére irányadó keresetindítási határidő lejártáig, illetve felülvizsgálat kezdeményezése esetén a bíróság jogerős döntéséig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+(5) A határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
 
 #### 33. Titokfelügyeleti hatósági eljárás
 
@@ -833,9 +833,9 @@ dönt.
 
 (1b) A Hatóság titokfelügyeleti hatósági eljárása a Nemzeti Biztonsági Felügyeletnek a minősített adat védelméről szóló törvényben meghatározott feladatait nem érinti.
 
-(2) A titokfelügyeleti hatósági eljárásra a közigazgatási hatósági eljárás általános szabályairól szóló törvényt az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2)
 
-(2a) A titokfelügyeleti hatósági eljárásban és az ezen eljárásban hozott döntés felülvizsgálatára irányuló bírósági eljárásban a minősített adatok kezelését a minősített adatok védelméről szóló törvényben és e törvényben meghatározott biztonsági követelményeknek megfelelően kell végezni.
+(2a) A titokfelügyeleti hatósági eljárásban és az ezen eljárásban hozott döntés megtámadására indított perben a minősített adatok kezelését a minősített adatok védelméről szóló törvényben és e törvényben meghatározott biztonsági követelményeknek megfelelően kell végezni.
 
 (3) A titokfelügyeleti hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, vagy a titokfelügyeleti hatósági eljárást a bíróság a 31. § (6a) bekezdésében meghatározottak alapján kezdeményezte. Ha azonban a titokfelügyeleti hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt a titokfelügyeleti hatósági eljárás megindításáról és befejezéséről értesíteni kell.
 
@@ -843,18 +843,18 @@ dönt.
 
 (5) A titokfelügyeleti hatósági eljárásban a tényállás tisztázása során a tanú, a szakértő és a szemletárgy birtokosa meghallgatható akkor is, ha nem kapott felmentést a vizsgált nemzeti minősített adatra vonatkozó titoktartási kötelezettség alól.
 
-(6) A titokfelügyeleti hatósági eljárásban az ügyintézési határidő két hónap, amely egy alkalommal, legfeljebb harminc nappal hosszabbítható meg.
+(6) A titokfelügyeleti hatósági eljárásban az ügyintézési határidő kilencven nap.
 
 63. § (1) A titokfelügyeleti hatósági eljárásban hozott határozatában a Hatóság
 
 - a) a nemzeti minősített adat minősítésére vonatkozó jogszabályok megsértésének megállapítása esetén a minősítőt a nemzeti minősített adat minősítési szintjének, illetve érvényességi idejének a jogszabályoknak megfelelő megváltoztatására vagy a minősítés megszüntetésére hívja fel, vagy
 - b) megállapítja, hogy a minősítő a nemzeti minősített adat minősítésére vonatkozó jogszabályoknak megfelelően járt el.
 
-(2) Ha a minősítő a Hatóság (1) bekezdés a) pontja szerinti határozatát megalapozatlannak tartja, annak bírósági felülvizsgálatát a határozat közlésétől számított hatvan napon belül kérheti. A keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya van. Ha a minősítő a határozat közlésétől számított hatvan napon belül nem fordul bírósághoz, a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
+(2) A minősítő a Hatóság (1) bekezdés a) pontja szerinti határozatát a közlésétől számított hatvan napon belül támadhatja meg. A keresetlevél benyújtásának a határozat hatályosulására halasztó hatálya van. Ha a minősítő a határozat közlésétől számított hatvan napon belül nem fordul bírósághoz, a nemzeti minősített adat minősítése a határozat közlésétől számított hatvanegyedik napon a határozatban foglaltak szerint megszűnik, illetve minősítési szintje vagy érvényességi ideje a határozatban foglaltak szerint megváltozik.
 
-(2a) A (2) bekezdésben meghatározott perben a bíróság három hivatásos bíróból álló tanácsban jár el.
+(2a)
 
-(3) A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el.
+(3) A (2) bekezdésben meghatározott perben a bíróság zárt tárgyalást tart.
 
 (4)
 
@@ -868,7 +868,7 @@ dönt.
 
 64. § (1) Ha az adatkezelő az 56. § (1) bekezdésében foglalt felszólításnak nem tesz eleget, a közérdekű adatok és a közérdekből nyilvános adatokkal kapcsolatos jogsértés miatt a Hatóság az 56. § (2) bekezdése szerinti tájékoztatásra vonatkozó határidő lejártát követő harminc napon belül keresettel kérheti a bíróságtól az adatkezelőnek a Hatóság felszólítása szerinti magatartásra való kötelezését.
 
-(2) A per elbírálása a 31. § (5) bekezdése szerinti bíróság hatáskörébe és illetékességébe tartozik.
+(2) A bíróság hatáskörének és illetékességének megállapítására a 31. § (5) bekezdését kell alkalmazni.
 
 (3) Azt, hogy az adatkezelés a jogszabályban foglaltaknak megfelel, az adatkezelő köteles bizonyítani.
 
@@ -878,7 +878,7 @@ dönt.
 
 #### 34/A. A kötelező szervezeti szabályozás jóváhagyására irányuló eljárás
 
-64/A. § (1) A kötelező szervezeti szabályozás jóváhagyását az adatkezelő kérelmezheti a Hatóságnál. Kötelező szervezeti szabályozás jóváhagyásának kérelmezésére nem jogosult az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó adatkezelő.
+64/A. § (1) A kötelező szervezeti szabályozás jóváhagyását az adatkezelő kérelmezheti a Hatóságnál, azzal, hogy a kérelem kormányablaknál nem terjeszthető elő. Kötelező szervezeti szabályozás jóváhagyásának kérelmezésére nem jogosult az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó adatkezelő.
 
 (2) A kötelező szervezeti szabályozás jóváhagyása iránti kérelemnek tartalmaznia kell
 
@@ -889,7 +889,7 @@ dönt.
 
 64/B. § A kötelező szervezeti szabályozás jóváhagyása iránti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-64/C. § (1) A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelmet hatvan napon belül bírálja el. A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelem elbírálásakor a kötelező szervezeti szabályozást jóváhagyja, módosítását javasolja vagy a kérelmet elutasítja.
+64/C. § (1) A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelmet kilencven napon belül bírálja el. A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelem elbírálásakor a kötelező szervezeti szabályozást jóváhagyja, módosítását javasolja vagy a kérelmet elutasítja.
 
 (2) A Hatóság az érintettek tájékoztatásának elősegítése érdekében honlapján közzéteszi a kötelező szervezeti szabályozást alkalmazó adatkezelő megnevezését.
 
@@ -975,6 +975,8 @@ dönt.
 71. § (1) A Hatóság eljárása során – az annak lefolytatásához szükséges mértékben és ideig – kezelheti mindazon személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek az eljárással összefüggnek, illetve amelyek kezelése az eljárás eredményes lefolytatása érdekében szükséges.
 
 (2) A Hatóság a vizsgálata során beszerzett adatokat hatósági eljárásában felhasználhatja.
+
+(2a) Védekezés céljából készült irat esetén az (1) és (2) bekezdésben foglaltakat az ügyvédi tevékenységről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (3) A Hatóság az e törvényben meghatározott eljárásai során az alapvető jogok biztosáról szóló 2011. évi CXI. törvény (a továbbiakban: Ajbtv.) 23. § (1) bekezdés a)–f) és i) pontjában, (2) bekezdésében, (3) bekezdés c)–f) pontjában, (4) bekezdés c)–g) pontjában, valamint (5) bekezdés d) pontjában meghatározott adatokat az Ajbtv. 23. § (7) bekezdésében meghatározottak szerint ismerheti meg.
 
@@ -1111,7 +1113,7 @@ való megfelelést szolgálja.
 | 1. | A közfeladatot ellátó szerv éves költségvetése, számviteli törvény szerinti beszámolója vagy éves költségvetési beszámolója | A változásokat követően azonnal | A közzétételt követő 10 évig |
 | 2. | A közfeladatot ellátó szervnél foglalkoztatottak létszámára és személyi juttatásaira vonatkozó összesített adatok, illetve összesítve a vezetők és vezető tisztségviselők illetménye, munkabére, és rendszeres juttatásai, valamint költségtérítése, az egyéb alkalmazottaknak nyújtott juttatások fajtája és mértéke összesítve | Negyedévente | A külön jogszabályban meghatározott ideig, de legalább 1 évig archívumban tartásával |
 | 3. | A közfeladatot ellátó szerv által nyújtott, az államháztartásról szóló törvény szerinti költségvetési támogatások kedvezményezettjeinek nevére, a támogatás céljára, összegére, továbbá a támogatási program megvalósítási helyére vonatkozó adatok, kivéve, ha a közzététel előtt a költségvetési támogatást visszavonják vagy arról a kedvezményezett lemond | A döntés meghozatalát követő hatvanadik napig | A közzétételt követő 5 évig |
-| 4. | Az államháztartás pénzeszközei felhasználásával, az államháztartáshoz tartozó vagyonnal történő gazdálkodással összefüggő, ötmillió forintot elérő vagy azt meghaladó értékű árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések megnevezése (típusa), tárgya, a szerződést kötő felek neve, a szerződés értéke, határozott időre kötött szerződés esetében annak időtartama, valamint az említett adatok változásai, a nemzetbiztonsági, illetve honvédelmi érdekkel közvetlenül összefüggő beszerzések adatai, és a minősített adatok kivételével A szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét egybe kell számítani | A döntés meghozatalát követő hatvanadik napig | A közzétételt követő 5 évig |
+| 4. | Az államháztartás pénzeszközei felhasználásával, az államháztartáshoz tartozó vagyonnal történő gazdálkodással összefüggő, ötmillió forintot elérő vagy azt meghaladó értékű árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések megnevezése (típusa), tárgya, a szerződést kötő felek neve, a szerződés értéke, határozott időre kötött szerződés esetében annak időtartama, valamint az említett adatok változásai, a védelmi és biztonsági célú beszerzések adatai és a minősített adatok, továbbá a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés b) pontja szerinti beszerzések és az azok eredményeként kötött szerződések adatai kivételével A szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét egybe kell számítani | A döntés meghozatalát követő hatvanadik napig | A közzétételt követő 5 évig |
 | 5. | A koncesszióról szóló törvényben meghatározott nyilvános adatok (pályázati kiírások, pályázók adatai, az elbírálásról készített emlékeztetők, pályázat eredménye) | Negyedévente | A külön jogszabályban meghatározott ideig, de legalább 1 évig archívumban tartásával |
 | 6. | A közfeladatot ellátó szerv által nem alapfeladatai ellátására (így különösen egyesület támogatására, foglalkoztatottai szakmai és munkavállalói érdek-képviseleti szervei számára, foglalkoztatottjai, ellátottjai oktatási, kulturális, szociális és sporttevékenységet segítő szervezet támogatására, alapítványok által ellátott feladatokkal összefüggő kifizetésre) fordított, ötmillió forintot meghaladó kifizetések | Negyedévente | A külön jogszabályban meghatározott ideig, de legalább 1 évig archívumban tartásával |
 | 7. | Az Európai Unió támogatásával megvalósuló fejlesztések leírása, az azokra vonatkozó szerződések | Negyedévente | Legalább 1 évig archívumban tartásával |

@@ -476,7 +476,7 @@ ad ki.
 
 (2) A jogutód nélküli megszűnés esetén a vagyon a felsőoktatási intézmény fenntartóját illeti meg.
 
-(3) Az oktatási hivatal a felsőoktatási intézmény átalakulásával kapcsolatos jogerős határozatát a Kormány által meghatározottak szerint, továbbá a miniszter által vezetett minisztérium honlapján közzéteszi.
+(3) Az oktatási hivatal a felsőoktatási intézmény átalakulásával kapcsolatos végleges határozatát a Kormány által meghatározottak szerint, továbbá a miniszter által vezetett minisztérium honlapján közhírré teszi.
 
 ## HARMADIK RÉSZ — A FELSŐOKTATÁSBAN ALKALMAZOTTAK
 
@@ -614,7 +614,7 @@ kezeli.
 
 (6) A munkáltató megszünteti a főiskolai tanári, illetve az egyetemi tanári munkakörben történő foglalkoztatást, ha a miniszterelnök a főiskolai tanárt, a köztársasági elnök az egyetemi tanárt – a munkaköri címhez fűződő jogát megvonva – felmentette. A főiskolai tanár, illetve az egyetemi tanár munkaköri címének megvonására irányuló eljárást a 29. § (3) bekezdésben meghatározott rend szerint a rektor kezdeményezi.
 
-(7) A rektor köteles kezdeményezni a főiskolai tanár, illetve az egyetemi tanár munkaköri címének megvonására irányuló eljárást, ha azt az érintett kéri, ha a főiskolai tanárral, illetve az egyetemi tanárral szemben jogerősen elbocsátás fegyelmi büntetést szabtak ki, ha a foglalkozás gyakorlásától a bíróság jogerősen eltiltotta vagy az érintettet szándékos bűncselekmény miatt jogerősen végrehajtandó szabadságvesztésre ítélték. A rektor e bekezdés szerinti kezdeményezésével egyidejűleg intézkedni köteles a főiskolai, illetve egyetemi tanári munkakörben történő foglalkoztatás megszüntetéséről is.
+(7) A rektor köteles kezdeményezni a főiskolai tanár, illetve az egyetemi tanár munkaköri címének megvonására irányuló eljárást, ha azt az érintett kéri, ha a főiskolai tanárral, illetve az egyetemi tanárral szemben véglegesen elbocsátás fegyelmi büntetést szabtak ki, ha a foglalkozás gyakorlásától a bíróság jogerősen eltiltotta vagy az érintettet szándékos bűncselekmény miatt jogerősen végrehajtandó szabadságvesztésre ítélték. A rektor e bekezdés szerinti kezdeményezésével egyidejűleg intézkedni köteles a főiskolai, illetve egyetemi tanári munkakörben történő foglalkoztatás megszüntetéséről is.
 
 (8) Ha a főiskolai tanár, illetve az egyetemi tanár munkaköri cím viselésére jogosult nem áll felsőoktatási intézménnyel foglalkoztatási jogviszonyban, a felmentés – a munkaköri cím használati jog megvonásának – kezdeményezésére a miniszter jogosult.
 
@@ -780,9 +780,9 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 
 (2) Az (1) bekezdésben foglaltak teljesítése során nem lehet mentesíteni a jelentkezőt a felsőoktatási szakképzésben, alap- és mesterképzésben az oklevél által tanúsított szakképzettség megszerzéséhez szükséges alapvető tanulmányi követelmények teljesítése alól.
 
-41/A. § (1) A felsőoktatási információs rendszer működéséért felelős szerv által lebonyolított központi felsőoktatási felvételi eljárásra más jogszabálynak az ügyintézés módjára vonatkozó rendelkezése alkalmazásának csak e törvény rendelkezése esetén van helye. A központi felsőoktatási felvételi eljárás során a nyelvhasználat tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit kell alkalmazni.
+41/A. § (1) A felsőoktatási információs rendszer működéséért felelős szerv által lebonyolított központi felsőoktatási felvételi eljárásra más jogszabálynak az ügyintézés módjára vonatkozó rendelkezése alkalmazásának csak e törvény rendelkezése esetén van helye. A központi felsőoktatási felvételi eljárás során a nyelvhasználat tekintetében az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: általános közigazgatási rendtartásról szóló törvény) rendelkezéseit kell alkalmazni.
 
-(1a) A központi felsőoktatási felvételi eljárás során a Ket. eljárási alapelveit – a kapcsolattartás formája megválasztásának kivételével – alkalmazni kell.
+(1a) A központi felsőoktatási felvételi eljárás során az általános közigazgatási rendtartásról szóló törvény alapelveit alkalmazni kell.
 
 (2) A felvételi eljárás a jelentkező felsőoktatási intézmény által meghirdetett képzésre való jelentkezési kérelmére indul meg.
 
@@ -790,24 +790,13 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 
 (4) Az eljárást hivatalból is meg kell indítani, ha erre a felügyeleti szerv utasítást ad vagy bíróság kötelez.
 
-41/B. § (1) Az elsőfokú döntés jogerőssé válik, ha
+41/B. § Az elsőfokú döntés a közléssel véglegessé válik.
 
-- a) az arra jogosult ellene nem fellebbezett, és a fellebbezési határidő letelt,
-- b) az arra jogosult a fellebbezésről lemondott vagy a fellebbezést visszavonta,
-- c) a fellebbezésnek nincs helye, vagy
-- d) a felügyeleti szerv a felsőoktatási információs rendszer működéséért felelős szerv döntését helybenhagyta.
+41/C. § (1) A postai úton továbbított irat az általános közigazgatási rendtartásról szóló törvény 86. § (1), (3) és (6) bekezdése szerint minősül kézbesítettnek. Az elektronikus úton továbbított irat kézbesítettnek minősül az elektronikus rendszer szerint igazolt átvétel napján, de legkésőbb az irat megküldését követő ötödik napon.
 
-(2) A fellebbezésről lemondás vagy a fellebbezés visszavonása esetén az elsőfokú döntés jogerőre emelkedik a döntés közlésekor.
+(2) Ha a címzett tudomást szerez arról, hogy a neki küldött iratot az eljáró szerv kézbesítettnek tekinti, a tudomásszerzéstől számított öt napon belül, de legkésőbb a közléstől számított harmincnapos jogvesztő határidőn belül kifogást terjeszthet elő az eljáró szervnél.
 
-(3) Az (1) bekezdés c) pontja szerinti esetben az elsőfokú döntés, valamint a másodfokú döntés a közléssel válik jogerőssé.
-
-(4) Az (1) bekezdés d) pontja szerinti esetben az elsőfokú döntés a másodfokú döntés közlésével válik jogerőssé.
-
-41/C. § (1) A postai úton továbbított irat a Ket. 79. § (1) és (2) bekezdése szerint minősül kézbesítettnek. Az elektronikus úton továbbított irat kézbesítettnek minősül az elektronikus rendszer szerint igazolt átvétel napján, de legkésőbb az irat megküldését követő ötödik napon.
-
-(2) A kézbesítési vélelem megdöntése iránti kérelmet a címzett a kézbesítési vélelem beálltáról történő tudomásszerzéstől számított öt napon belül, de legkésőbb a kézbesítési vélelem beálltától számított harminc napos jogvesztő határidőn belül terjeszthet elő az eljáró szervnél.
-
-(3) A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát vagy az önhiba hiányát igazolják. Ha a kérelemnek az eljáró szerv helyt ad, döntését módosítja vagy visszavonja, illetve egyes eljárási cselekményeket megismétel.
+(3) A kifogásban elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát vagy az önhiba hiányát igazolják. Ha a kifogásnak az eljáró szerv helyt ad, döntését módosítja vagy visszavonja, illetve egyes eljárási cselekményeket megismétel.
 
 41/D. § (1) A felsőoktatási információs rendszer működéséért felelős szerv a besorolási döntésről határozatot hoz, egyéb döntés esetében végzést bocsát ki. A döntéseket kormányrendeletben meghatározott módon kell közölni.
 
@@ -815,52 +804,40 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 
 (3) A végzés tartalmazza az eljáró szerv megnevezését, az ügyirat számát, a jelentkező nevét, elérhetőségét, személyes azonosítására szolgáló adatokat, a döntést, a döntés helyét, idejét, valamint a jogorvoslatról szóló tájékoztatást.
 
-(4) Önálló fellebbezésnek van helye a kérelmet érdemi vizsgálat nélküli elutasító és az eljárást megszüntető végzés ellen. Egyéb végzés csak a besorolási döntés, ennek hiányában az eljárást megszüntető végzés elleni fellebbezésben támadható meg.
+(4)
 
 41/E. § (1) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a hibát ki kell javítani, ha az nem hat ki a döntés érdemére.
 
-(2) A kijavítás kijavító döntés meghozatalával történik. A kijavítás ellen jogorvoslatnak nincs helye. A kijavítást közölni kell azzal, akivel a kijavítandó döntést közölték.
+(2) A kijavítás kijavító döntés meghozatalával történik. A kijavítást közölni kell azzal, akivel a kijavítandó döntést közölték.
 
-(3) Ha a döntésből valamely, a 41/D. §-ban meghatározott kötelező tartalmi elem hiányzik, vagy érdemi döntés nem született, a döntést ki kell egészíteni. Nincs helye a döntés kiegészítésének, ha a döntés jogerőre emelkedésétől számított egy hónap már eltelt, vagy az jóhiszeműen szerzett és gyakorolt jogot sértene.
+(3) Ha a döntésből valamely, a 41/D. §-ban meghatározott kötelező tartalmi elem hiányzik, vagy érdemi döntés nem született, a döntést ki kell egészíteni. Nincs helye a döntés kiegészítésének, ha a döntés véglegessé válásától számított egy hónap már eltelt, vagy az jóhiszeműen szerzett és gyakorolt jogot sértene.
 
-(4) A kiegészítés önálló kiegészítő döntés meghozatalával történik. A kiegészítés ellen a 41/G. § szerint jogorvoslattal lehet élni. A kiegészítést közölni kell azzal, akivel a kiegészítendő döntést közölték.
+(4) A kiegészítés önálló kiegészítő döntés meghozatalával történik. A kiegészítést közölni kell azzal, akivel a kiegészítendő döntést közölték.
 
-(5) A felsőoktatási információs rendszer működéséért felelős szerv a besorolási döntés közlését követő tizenötödik napig a besorolási döntését módosítja, ha észlelése vagy a felsőoktatási intézmény jelzése alapján eljárási vagy olyan számítási hiba jut tudomására, amely kihat a döntés érdemére. Az így hozott döntés ellen a 41/G. § szerinti jogorvoslattal lehet élni.
+(5) A felsőoktatási információs rendszer működéséért felelős szerv a besorolási döntés közlését követő tizenötödik napig a besorolási döntését módosítja, ha észlelése vagy a felsőoktatási intézmény jelzése alapján eljárási vagy olyan számítási hiba jut tudomására, amely kihat a döntés érdemére.
 
-(6) Ha a felsőoktatási információs rendszer működéséért felelős szervet jogerős döntéssel új eljárás lefolytatására utasítják, a megismételt eljárás az új eljárásra utasítást tartalmazó döntés kézhezvételét követő tizenöt napon belül meghozott új besorolási döntéssel valósul meg.
+(6) Ha a felsőoktatási információs rendszer működéséért felelős szervet jogerős, illetve végleges döntéssel új eljárás lefolytatására utasítják, a megismételt eljárás az új eljárásra utasítást tartalmazó döntés kézhezvételét követő tizenöt napon belül meghozott új besorolási döntéssel valósul meg.
 
 41/F. § (1) A felsőoktatási felvételi eljárást meg kell szüntetni, ha
 
-- a) a jelentkezési kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban az eljárás megindítását követően jutott a felsőoktatási információs rendszer működéséért felelős szerv tudomására,
+- a) a jelentkezési kérelem visszautasításának lett volna helye, a visszautasítási ok azonban az eljárás megindítását követően jutott a felsőoktatási információs rendszer működéséért felelős szerv tudomására,
 - b) a jelentkező a jelentkezési kérelmét visszavonta,
 - c) a jelentkező meghalt,
 - d) az eljárás folytatására okot adó körülmény már nem áll fenn,
-- e)
-- f) a jelentkező a hiánypótlásra való felhívásnak nem tesz eleget.
+- e) a jelentkező a jelentkezés hitelesítésére vonatkozó hiánypótlási felhívásnak nem tesz eleget.
+- f)
 
-(2) A jelentkezési kérelmet érdemi vizsgálat nélkül el kell utasítani, ha
+(2) A jelentkezési kérelmet vissza kell utasítani, ha
 
 - a) annak elbírálására a felsőoktatási információs rendszer működéséért felelős szervnek nincs hatásköre,
 - b) idő előtti vagy elkésett,
 - c) nyilvánvalóan nem az előterjesztésére jogosulttól származik.
 
-41/G. § (1) Az elsőfokú döntéssel szemben a jelentkező a közléstől számított tizenöt napon belül fellebbezéssel élhet. A jogorvoslati kérelem elbírálására a felügyeleti szerv jogosult. A jogorvoslati kérelmet a felsőoktatási információs rendszer működéséért felelős szervnek elektronikus vagy postai úton kell benyújtani.
+41/G. § Az elsőfokú eljárásban igazolási kérelem nem terjeszthető elő.
 
-(2) A kérelmet harminc napon belül meg kell vizsgálni, szükség esetén meg kell kérni az érintett felsőoktatási intézmény állásfoglalását az abban foglaltakról.
+41/H. § (1) A jelentkező – jogszabálysértésre hivatkozással – az elsőfokú döntés ellen közigazgatási pert indíthat.
 
-(3) Amennyiben a jogorvoslati kérelem alapján a felsőoktatási információs rendszer működéséért felelős szerv a besorolási döntését módosítja, kijavítja vagy kiegészíti, arról értesíti a jelentkezőt és az érintett felsőoktatási intézményt is. A módosító döntés ellen ugyanolyan jogorvoslatnak van helye, mint amilyen a módosított döntés ellen volt.
-
-(4) Ha a felsőoktatási információs rendszer működéséért felelős szerv a jogorvoslati kérelemben foglaltakat megalapozatlannak tartja, a kérelmet és az állásfoglalását a szükséges dokumentumokkal együtt legkésőbb – a harminc napos vizsgálati határidőt követő – öt napon belül felterjeszti a felügyeleti szervnek.
-
-41/H. § (1) A jogorvoslat és döntés-felülvizsgálat során – a (2)–(4) bekezdésben foglaltak kivételével – a Ket. VII. fejezetének rendelkezéseit kell alkalmazni.
-
-(2) A másodfokú eljárásban az ügyintézési határidő harmincöt nap.
-
-(3) A fellebbezési eljárásban az igazolási kérelem, valamint a kézbesítési vélelem megdöntésének objektív határideje harminc nap.
-
-(4) A fellebbezési eljárásban a Ket. 102. § (2) bekezdése és 112. §-a nem alkalmazható.
-
-(5) A felügyeleti szerv döntése ellen kezdeményezett bírósági eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróságnak van hatásköre és illetékessége. A bíróság eljárásában a Polgári perrendtartásról szóló törvény XX. fejezetét kell alkalmazni.
+(2) A keresetlevél alapján a felsőoktatási információs rendszer működéséért felelős szerv az általános közigazgatási rendtartásról szóló törvény 115. § (1) és (2) bekezdésében foglaltak szerint módosíthatja vagy visszavonhatja a döntését.
 
 #### 24. A jelentkező, valamint a hallgatói jogviszonyban álló személy által gyakorolható jogosultságok, hallgatói kötelezettségek
 
@@ -873,7 +850,7 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 
 (3) Az (1)–(2) bekezdésekben meghatározott kérelmek teljesítésének feltételeit a fogadó felsőoktatási intézmény határozza meg.
 
-(4) Aki a felsőoktatási intézménybe felvételt vagy átvételt nyert, a felvételről, átvételről szóló döntés jogerőre emelkedését követően jogosult beiratkozással hallgatói jogviszonyt létesíteni, továbbá köteles a 43. § (2) bekezdésében meghatározott kötelezettségek teljesítésére.
+(4) Aki a felsőoktatási intézménybe felvételt vagy átvételt nyert, a felvételről, átvételről szóló döntés véglegessé válását követően jogosult beiratkozással hallgatói jogviszonyt létesíteni, továbbá köteles a 43. § (2) bekezdésében meghatározott kötelezettségek teljesítésére.
 
 (5) A hallgatói jogviszony fennállása alatt újabb beiratkozásra nincs szükség. A hallgatónak az intézményi szabályozásban meghatározottak szerint – a képzési időszak megkezdése előtt – be kell jelentkeznie az adott képzési időszakra. Nem jelentkezhet be az a hallgató, aki a lejárt fizetési kötelezettségeinek nem tett eleget.
 
@@ -1072,7 +1049,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 48/J. § A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv nyomon követi a volt magyar állami (rész)ösztöndíjas hallgató foglalkoztatási útját.
 
-48/K. § Az oklevélszerzés és a hazai munkaviszony nyilvántartásával, az állami ösztöndíj utólagos visszatérítési kötelezettségével és a teljesítési kötelezettségek alóli felmentések megállapításával kapcsolatos feladatokat a Ket. alkalmazásával első fokon a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv, másodfokon az oktatásért felelős miniszter látja el.
+48/K. § Az oklevélszerzés és a hazai munkaviszony nyilvántartásával, az állami ösztöndíj utólagos visszatérítési kötelezettségével és a teljesítési kötelezettségek alóli felmentések megállapításával kapcsolatos feladatokat az általános közigazgatási rendtartásról szóló törvény alkalmazásával első fokon a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv, másodfokon az oktatásért felelős miniszter látja el.
 
 48/L. § A hazai munkaviszony időtartamába beleszámít
 
@@ -1108,9 +1085,9 @@ tekintettel.
 
 (3) A (2) bekezdésben a gyermeknevelésre vonatkozó kedvezményt a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv ugyanazon gyermekekre tekintettel csak az egyik szülő számára engedélyezi.
 
-48/P. § (1) Amennyiben a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv megállapítja, hogy a volt magyar állami (rész)ösztöndíjas hallgató visszatérítési kötelezettsége fennáll, erről határozatot hoz. A visszatérítendő állami ösztöndíj összegét a határozat jogerőre emelkedését követő harminc napon belül kell megfizetni (esedékesség).
+48/P. § (1) Amennyiben a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv megállapítja, hogy a volt magyar állami (rész)ösztöndíjas hallgató visszatérítési kötelezettsége fennáll, erről határozatot hoz. A visszatérítendő állami ösztöndíj összegét a határozat véglegessé válását követő harminc napon belül kell megfizetni (esedékesség).
 
-(2) A (1) bekezdésben meghatározott határozatnak – a Ket. által előírt kötelező tartalmi elemeken kívül – tartalmaznia kell
+(2) A (1) bekezdésben meghatározott határozatnak – az általános közigazgatási rendtartásról szóló törvény által előírt kötelező tartalmi elemeken kívül – tartalmaznia kell
 
 - a) a visszatérítendő állami ösztöndíj összegét, annak kiszámítási módjával együtt,
 - b) a részletfizetés feltételeire és a részletfizetés kérelmezésének módjára vonatkozó tájékoztatást,
@@ -1131,7 +1108,7 @@ részletfizetést engedélyez.
 
 (3) A részletfizetés ideje alatt megvalósuló – 48/M. § (1) bekezdés, illetve 48/O. § szerinti – körülmény, a mentesség megállapításának időpontjában még fennálló kötelezettség teljesítésére vonatkozik.
 
-48/R. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a visszatérítési kötelezettség összegét megállapító jogerős határozatot a magyar államot megillető igény érvényesítéséhez szükséges adatokkal együtt megküldi az állami adóhatóságnak a visszatérítendő összeg behajtása érdekében, ha a jogerősen megállapított visszatérítési kötelezettséget a volt magyar állami (rész)ösztöndíjas hallgató vagy a 48/P. § (3) bekezdése szerint azt tőle átvállaló személy az átvállalt összeg erejéig határidőre nem teljesíti.
+48/R. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a visszatérítési kötelezettség összegét megállapító végleges határozatot a magyar államot megillető igény érvényesítéséhez szükséges adatokkal együtt megküldi az állami adóhatóságnak a visszatérítendő összeg behajtása érdekében, ha a véglegesen megállapított visszatérítési kötelezettséget a volt magyar állami (rész)ösztöndíjas hallgató vagy a 48/P. § (3) bekezdése szerint azt tőle átvállaló személy az átvállalt összeg erejéig határidőre nem teljesíti.
 
 (2) Az állami adóhatóság a visszatérítési kötelezettség érvényesítésére folytatott végrehajtási eljárásában a végrehajtási jogot az ingatlan-nyilvántartásba a Magyar Állam javára jegyezteti be.
 
@@ -1210,9 +1187,9 @@ vehessen fel.
 
 (8) A felsőoktatási intézmény rektora – a köztársasági elnök előzetes hozzájárulásával – „Promotio sub auspiciis praesidentis Rei Publicae” kitüntetéssel avatja doktorrá azt, akinek a középiskolában és a felsőoktatási intézményben, valamint a doktori képzésben folytatott tanulmányai során a teljesítményét mindig a legmagasabbra értékelték, feltéve továbbá, hogy a doktori fokozatszerzési eljárás során is kiemelkedő teljesítményt nyújtott. A kitüntetéses doktorrá avatás részletes feltételeit a Kormány állapítja meg.
 
-52/A. § (1) A felsőoktatási intézmény az általa vagy jogelődje által kiállított oklevelet és oklevélmellékletet az oklevél kiállításától számított öt éven belül visszavonja, ha az oklevelet jogellenesen szerezték meg. A visszavonásra egyebekben a Ket. rendelkezéseit kell megfelelően alkalmazni.
+52/A. § (1) A felsőoktatási intézmény az általa vagy jogelődje által kiállított oklevelet és oklevélmellékletet az oklevél kiállításától számított öt éven belül visszavonja, ha az oklevelet jogellenesen szerezték meg. A visszavonásra egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta és a bűncselekmény elkövetését jogerős bírói vagy ügyészi határozat megállapította, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben a Ket. rendelkezéseit kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta, a bűncselekmény elkövetését jogerős bírói vagy ügyészi határozat megállapította, és a vádemelés elhalasztásának tartama eredményesen telt el, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (3) A visszavont, megsemmisített oklevelet a felsőoktatási intézmény bevonja. A határozatot – indokolás nélkül – a miniszter által vezetett minisztérium hivatalos lapjában, valamint az oktatási hivatal honlapján közzé kell tenni.
 
@@ -1294,7 +1271,7 @@ vehessen fel.
 - c) jogorvoslati kérelmet terjeszthet elő, melyet a felsőoktatási intézmény a jelen törvényben írtak szerint köteles elbírálni,
 - d) az oktatási jogok biztosának az eljárását kezdeményezheti, feltéve, hogy az e törvényben szabályozottak szerint jogorvoslati jogát – a bírósági eljárás kivételével – kimerítette.
 
-(2) A felsőoktatási intézmény a hallgatóval kapcsolatos döntéseit – e törvényben, kormányrendeletben és a szervezeti és működési szabályzatban meghatározott esetben, valamint ha a hallgató kéri – írásban közli a hallgatóval. A felsőoktatási intézmény hallgatóval kapcsolatos döntése jogerős, ha a hallgató a (3) bekezdésben meghatározott határidőn belül nem nyújt be jogorvoslati kérelmet, vagy a kérelem benyújtásáról lemondott.
+(2) A felsőoktatási intézmény a hallgatóval kapcsolatos döntéseit – e törvényben, kormányrendeletben és a szervezeti és működési szabályzatban meghatározott esetben, valamint ha a hallgató kéri – írásban közli a hallgatóval. A felsőoktatási intézmény hallgatóval kapcsolatos döntése végleges, ha a hallgató a (3) bekezdésben meghatározott határidőn belül nem nyújt be jogorvoslati kérelmet, vagy a kérelem benyújtásáról lemondott.
 
 (3) A hallgató a felsőoktatási intézmény döntése vagy intézkedése, illetve intézkedésének elmulasztása (a továbbiakban együtt: döntés) ellen – a közléstől, ennek hiányában a tudomására jutásától számított tizenöt napon belül – jogorvoslattal élhet, kivéve a tanulmányok értékelésével kapcsolatos döntést. Eljárás indítható a tanulmányok értékelésével kapcsolatos döntés ellen is, ha a döntés nem a felsőoktatási intézmény által elfogadott követelményekre épült, illetve a döntés ellentétes a felsőoktatási intézmény szervezeti és működési szabályzatában foglaltakkal, vagy megszegték a vizsga megszervezésére vonatkozó rendelkezéseket.
 
@@ -1311,13 +1288,13 @@ vehessen fel.
 - c) a döntést megváltoztatja,
 - d) a döntést megsemmisíti, és a döntéshozót új eljárás lefolytatására utasítja.
 
-(6) A jogorvoslati kérelem elbírálása során a tényállás tisztázására, a határidők számítására, az igazolásra, a határozat alakjára, tartalmára és közlésére, a döntés kérelemre vagy hivatalból történő kijavítására, kicserélésére, kiegészítésére, módosítására vagy visszavonására a Ket. rendelkezéseit kell megfelelően alkalmazni.
+(6) A jogorvoslati kérelem elbírálása során a tényállás tisztázására, az igazolásra, a döntés alakjára, tartalmára, a döntés kérelemre vagy hivatalból történő kijavítására, kiegészítésére, módosítására vagy visszavonására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A másodfokú döntés a közléssel végleges.
 
-(7) A másodfokú döntés a közléssel jogerős és végrehajtható, kivéve, ha a hallgató a bírósági felülvizsgálatát kérte.
+(7)
 
-58. § (1) A hallgató a jogorvoslati kérelem tárgyában hozott határozat bírósági felülvizsgálatát kérheti, annak közlésétől számított harminc napon belül, jogszabálysértésre, illetve hallgatói jogviszonyra vonatkozó rendelkezések megsértésére hivatkozással. E rendelkezések alkalmazásában hallgatói jogviszonyra vonatkozó rendelkezések a jogszabályban, valamint az intézményi dokumentumokban található olyan rendelkezések, amelyek a hallgatóra jogokat és kötelezettségeket állapítanak meg.
+58. § (1) A hallgató a jogorvoslati kérelem tárgyában hozott eljárást befejező döntést közigazgatási perben támadhatja meg. A keresetlevél benyújtásának halasztó hatálya van.
 
-(2) A bírósági eljárásra a Polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó szabályait kell alkalmazni. A bíróság a döntést megváltoztathatja. A bíróság az ügyet soron kívül bírálja el.
+(2) A keresetlevél a hallgatói jogviszonyra vonatkozó rendelkezések megsértésére hivatkozással is benyújtható. E rendelkezések alkalmazásában hallgatói jogviszonyra vonatkozó rendelkezések a jogszabályban, valamint az intézményi dokumentumokban található olyan rendelkezések, amelyek a hallgatóra jogokat és kötelezettségeket állapítanak meg.
 
 (3) A 57. §-t, és az (1)–(2) bekezdésben foglaltakat megfelelően alkalmazni kell
 
@@ -1327,7 +1304,7 @@ vehessen fel.
 
 érintő döntésekre, illetve mulasztásokra.
 
-(4) A jogorvoslati eljárás rendjét a felsőoktatási intézmény szervezeti és működési szabályzatában – a jelen törvényben meghatározott keret között – szabályozza.
+(4) A jogorvoslati eljárás rendjét, különösen a döntés közlését és a jogorvoslati kérelem elbírálására irányadó határidőt a felsőoktatási intézmény – a jelen törvényben meghatározott keretek között – a szervezeti és működési szabályzatában szabályozza, azzal, hogy a határidő legfeljebb harminc nap lehet.
 
 #### 35. A hallgatói jogviszony megszűnése
 
@@ -1337,10 +1314,10 @@ vehessen fel.
 - b) ha a hallgató bejelenti, hogy megszünteti a hallgatói jogviszonyát, a bejelentés napján,
 - c) ha a hallgató nem folytathatja tanulmányait magyar állami (rész)ösztöndíjjal támogatott képzésben, és önköltséges képzésben nem kívánja azt folytatni,
 - d) az adott képzési ciklust, illetve a szakirányú továbbképzés, felsőoktatási szakképzés esetén az utolsó képzési időszakot követő első záróvizsga-időszak utolsó napján,
-- e) felsőoktatási szakképzésben, ha a hallgató tanulmányainak folytatására egészségileg alkalmatlanná vált, és a felsőoktatási intézményben nem folyik másik, megfelelő felsőoktatási szakképzés, vagy a hallgató nem kíván továbbtanulni, illetve a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább, a megszüntetés tárgyában hozott döntés jogerőre emelkedésének napján,
-- f) ha a hallgató hallgatói jogviszonyát – fizetési hátralék miatt – a rektor a hallgató eredménytelen felszólítása és a hallgató szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés jogerőre emelkedésének napján,
-- g) a kizárás fegyelmi határozat jogerőre emelkedésének napján,
-- h) ha a hallgatói jogviszony létesítéséhez előírt e törvényben meghatározott feltétel a továbbiakban már nem áll fenn, az ennek tárgyában hozott megszüntető döntés jogerőre emelkedésének napján,
+- e) felsőoktatási szakképzésben, ha a hallgató tanulmányainak folytatására egészségileg alkalmatlanná vált, és a felsőoktatási intézményben nem folyik másik, megfelelő felsőoktatási szakképzés, vagy a hallgató nem kíván továbbtanulni, illetve a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább, a megszüntetés tárgyában hozott döntés véglegessé válásának napján,
+- f) ha a hallgató hallgatói jogviszonyát – fizetési hátralék miatt – a rektor a hallgató eredménytelen felszólítása és a hallgató szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés véglegessé válásának napján,
+- g) a kizárás fegyelmi határozat véglegessé válásának napján,
+- h) ha a hallgatói jogviszony létesítéséhez előírt e törvényben meghatározott feltétel a továbbiakban már nem áll fenn, az ennek tárgyában hozott megszüntető döntés véglegessé válásának napján,
 - i) ha a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató a 48/D. § (2) bekezdés szerinti nyilatkozatát visszavonja és nem vállalja az önköltséges képzésben való részvételt,
 - j) ha a doktorandusz a komplex vizsgát nem teljesíti, a kötelezettség elmulasztásának, illetve sikertelenségének napján,
 - k) a doktori képzésben az abszolutórium megszerzésével,
@@ -1382,7 +1359,7 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 
 (5) A hallgatói önkormányzat az e törvényben meghatározott jogainak megsértése esetén – beleértve azt is, ha az alapszabályának jóváhagyását megtagadják – a közléstől számított harminc napon belül jogszabálysértésre vagy intézményi szabályzatban foglaltakba ütközésre hivatkozással bírósághoz fordulhat.
 
-(6) A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a döntést megváltoztathatja. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes. A kérelem benyújtásának a döntés végrehajtására halasztó hatálya van.
+(6) Az (5) bekezdés szerinti határidő jogvesztő. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A keresetlevél benyújtásának halasztó hatálya van.
 
 (7) A hallgatói önkormányzat dönt működéséről, a működéséhez biztosított anyagi eszközök, állami támogatás és saját bevételek felhasználásáról, hatáskörei gyakorlásáról, az intézményi tájékoztatási rendszer létrehozásáról és működtetéséről. A hallgatói önkormányzat részére érdekképviseleti tevékenysége körében utasítás nem adható.
 
@@ -1461,13 +1438,13 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 
 65. § (1) A miniszter törvényességi ellenőrzést gyakorol a nem állami felsőoktatási intézmények fenntartói tevékenysége felett.
 
-(2) A miniszter a törvényességi ellenőrzési jogkörében – megfelelő határidő biztosításával – felhívja a fenntartót, hogy fenntartási kötelezettségének tegyen eleget. Ha a fenntartó a megadott határidőn belül nem intézkedett, a miniszter kezdeményezheti annak bírósági megállapítását, hogy a fenntartó nem tett eleget kötelezettségének.
+(2) A miniszter a törvényességi ellenőrzési jogkörében – megfelelő határidő biztosításával – felhívja a fenntartót, hogy fenntartási kötelezettségének tegyen eleget. Ha a fenntartó a megadott határidőn belül nem intézkedett, a miniszter mulasztási pert indíthat.
 
-(3) A pert a megadott határidő lejártától számított harminc napon belül kell kezdeményezni. Ha a bíróság megállapítja a törvénysértést, és azt a fenntartó a bíróság által megállapított határidőn belül nem szünteti meg, a bíróság – a miniszter kezdeményezésére – megállapítja, hogy fennállnak a felsőoktatási intézmény megszüntetésének feltételei.
+(3) Ha a mulasztási ítéletben megállapított mulasztást a fenntartó az ítéletben megállapított határidőn belül nem szünteti meg, a bíróság a miniszter teljesítés kikényszerítése iránti kérelme alapján megállapítja, hogy fennállnak a felsőoktatási intézmény megszüntetésének feltételei.
 
 (4) A miniszter a törvényességi ellenőrzés eredményeképpen felfüggesztheti a felsőoktatási intézmény vizsgaszervezési jogát, ha a (2) bekezdésében szabályozott felhívása nem vezetett eredményre. A felfüggesztéssel egyidejűleg kezdeményeznie kell a bíróságnál a fenntartó mulasztásának megállapítását. A miniszter döntésének ki kell terjednie az érintett hallgatók tanulmányainak folytatásával, vizsgáival kapcsolatos kérdésekre.
 
-(5) Az e §-ban meghatározott eljárásokra a Ket.-et kell megfelelően alkalmazni. Az eljárásban közreműködik az oktatási hivatal. A (3) és a (4) bekezdésben meghatározott bírósági ügyekben a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a soron kívül elbírált döntést megváltoztathatja.
+(5) Az e §-ban meghatározott eljárásra az általános közigazgatási rendtartásról szóló törvényt kell megfelelően alkalmazni. Az eljárásban közreműködik az oktatási hivatal. A bíróság a (3) és (4) bekezdésben meghatározott jogvitát közigazgatási perben bírálja el.
 
 66. § (1) A miniszter törvényességi ellenőrzést gyakorol a Magyarország területén természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet által – az e törvényben meghatározott (engedélyezési, működési) feltételek hiányában – folytatott felsőoktatási oktatási alaptevékenység körébe tartozó tevékenység felett. Az ellenőrzésben miniszteri döntés alapján az oktatási hivatal közreműködik.
 
@@ -1483,7 +1460,7 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 
 köteles mérlegelni.
 
-(4) Az e §-ban meghatározott eljárásokra a Ket.-et kell alkalmazni. A miniszteri döntés bírósági felülvizsgálata kezdeményezhető, amelyre a Polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni. A bíróság a soron kívül elbírált döntést megváltoztathatja.
+(4) Az e §-ban meghatározott eljárásra az általános közigazgatási rendtartásról szóló törvényt kell megfelelően alkalmazni. A miniszteri döntés ellen indított perben a közigazgatási ügyekben eljáró bíróság dönt.
 
 #### 40. A felsőoktatási intézmények működéséhez kapcsolódó nyilvántartási feladatok és eljárások
 
@@ -1534,27 +1511,32 @@ kapcsolatos ügyekben.
 - a) kezdeményezheti a fenntartó intézkedését,
 - b) javasolhatja, hogy a miniszter a 65. § alapján folytasson le törvényességi ellenőrzési eljárást,
 - c) a teljes munkaidőre megállapított kötelező legkisebb munkabér (minimálbér) száz százalékától a minimálbér ötvenszereséig terjedő mértékű felügyeleti bírságot szabhat ki,
-- d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredményéről tájékoztatja az intézmény honos országának illetékes szerveit.
+- d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredményéről tájékoztatja az intézmény honos országának illetékes szerveit,
+- e) felhívja a felsőoktatási intézmény figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére, ha megállapítja, hogy a felsőoktatási intézmény a jogszabályban, az intézményi szabályzatban, illetve hatósági döntésben foglalt előírásokat megsértette, és a jogszabály, a szabályzat vagy a hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható.
 
 (3) Az oklevél-, oklevélmelléklet-nyomtatvány előállításához, forgalmazásához az oktatási hivatal engedélye szükséges.
 
-(4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre a Ket. rendelkezéseit kell alkalmazni.
+(4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (5) Az ügyintézési határidő
 
-- a) felsőoktatási intézmény működési engedélyének kiadására irányuló eljárásban négy hónap;
-- b) felsőoktatási intézmény működési engedélyének felülvizsgálatára irányuló eljárásban hat hónap;
-- c)
+- a) felsőoktatási intézmény és a közösségi felsőoktatási képzési központ működési engedélyének kiadására irányuló eljárásban hét hónap;
+- b) felsőoktatási intézmény működési engedélyének felülvizsgálatára irányuló eljárásban kilenc hónap;
+- c) a felsőoktatási szakképzés, alap- és mesterképzés indítására, valamint a doktori iskola létesítésére irányuló eljárásban öt hónap;
 - d) a 65–66. § szerinti törvényességi ellenőrzés esetén, az oktatási hivatal eljárását is beleértve százhúsz nap;
 - e) a 68. § (1) bekezdés a) pontja szerinti hatósági ellenőrzés esetén kilencven nap;
-- f) diákotthon nyilvántartásba vételével kapcsolatos eljárásban két hónap;
-- g) felsőoktatási intézmény nyilvántartásba vételi eljárásban két hónap.
+- f)
+- g)
 
 (6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára és a diákotthon működési feltételeinek felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
 
 (7) Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
 
-(8) Az oktatási hivatalnak az e törvény és a Ket. hatálya alá tartozó ügyekben első fokon hozott hatósági döntéseivel szemben – ha e törvény eltérően nem rendelkezik – a miniszter gyakorolja a fellebbezés elbírálására jogosult hatóság részére meghatározott jogosítványokat.
+(8) Az oktatási hivatal 67. § (3) bekezdés c), e) és f) pontja szerinti eljárásában első fokon hozott döntésével szemben – kormányrendeletben meghatározott hatósághoz – fellebbezésnek van helye.
+
+(9) A 67. § (3) bekezdés a) pontja szerinti eljárásban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(10) A 76–77. § szerinti eljárásban nincs helye sommás eljárásnak.
 
 69. § (1) A felsőoktatási intézmény rektora az egyetemi tanári munkaköri cím adományozásával kapcsolatos javaslatának elkészítése előtt beszerzi a MAB szakértői véleményét.
 
@@ -1598,11 +1580,11 @@ kapcsolatos ügyekben.
 
 (4) A MAB elnöke köteles a jogszabálysértő működést orvosolni, a szükséges intézkedést meghozni. A miniszter által kifogásolt intézkedés, döntés nem hajtható végre.
 
-(5) Amennyiben a MAB elnöke a felhívásnak a megadott határidőn belül nem tesz eleget, a miniszter, továbbá a MAB elnöke a felhívással szemben bírósági eljárást kezdeményezhet.
+(5) Amennyiben a MAB elnöke a felhívásnak a megadott határidőn belül nem tesz eleget, a miniszter, továbbá a MAB elnöke a felhívással szemben közigazgatási pert indíthat.
 
 (6) Az (5) bekezdés szerinti bírósági eljárás a határidő eredménytelen elteltétől, illetve a felhívás közlésétől számított harminc napos jogvesztő határidőn belül indítható meg.
 
-(7) Az (5) bekezdésben foglalt eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes. A bíróság nemperes eljárásban, soron kívül hoz döntést.
+(7) A miniszter által az (5) bekezdés alapján indított közigazgatási perre a köztestületi felügyeleti per szabályait kell megfelelően alkalmazni. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 71/B. § (1) A MAB az oktatási hivatal felkérésére szakvéleményt készít
 
@@ -1642,7 +1624,7 @@ irányuló eljárásban.
 
 73. § (1) A fenntartói irányítást az gyakorolja, aki az e törvényben meghatározottaknak megfelelően a felsőoktatási intézmény működéséhez szükséges feltételekről gondoskodik. A fenntartói irányítás jogosítványai és kötelezettségei – ha e törvény másképp nem rendelkezik – azonosak, függetlenül attól, hogy ki gyakorolja azt.
 
-(2) A felsőoktatási intézmény fenntartói joga – az oktatási hivatal bejegyző határozatának jogerőre emelkedése időpontjától kezdődően hatályos – megállapodással másik, a fenntartói jog gyakorlására jogosultnak átadható. Ha az átadás nem érinti a felsőoktatási intézmény tevékenységét és működését, az oktatási hivatal azt vizsgálja, hogy az új fenntartó rendelkezik-e a felsőoktatási intézmény folyamatos működéséhez szükséges feltételekkel. A fenntartói jog változása nem érinti a felsőoktatási intézmény állami elismerését, a hallgatók jogait és kötelezettségeit.
+(2) A felsőoktatási intézmény fenntartói joga – az oktatási hivatal bejegyző határozatának véglegessé válása időpontjától kezdődően hatályos – megállapodással másik, a fenntartói jog gyakorlására jogosultnak átadható. Ha az átadás nem érinti a felsőoktatási intézmény tevékenységét és működését, az oktatási hivatal azt vizsgálja, hogy az új fenntartó rendelkezik-e a felsőoktatási intézmény folyamatos működéséhez szükséges feltételekkel. A fenntartói jog változása nem érinti a felsőoktatási intézmény állami elismerését, a hallgatók jogait és kötelezettségeit.
 
 (3) A fenntartó
 
@@ -1682,7 +1664,7 @@ irányuló eljárásban.
 
 #### 44. A fenntartói irányítás keretei
 
-75. § (1) A fenntartói irányítás nem sértheti a felsőoktatási intézmény – a képzés és kutatás tudományos tárgyával és tartalmával kapcsolatos kérdések tekintetében biztosított – önállóságát. A felsőoktatási intézmény szenátusának döntése alapján a rektor a fenntartói intézkedéssel szemben a közléstől számított harminc napon belül bírósági eljárást kezdeményezhet, kérve annak megállapítását, hogy a fenntartó döntése sérti a felsőoktatási intézmény e törvényben biztosított önállóságát. A bíróság nemperes eljárásban, soron kívül határoz. A határidő jogvesztő. A bíróság a fenntartó döntését megváltoztathatja. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes.
+75. § (1) A fenntartói irányítás nem sértheti a felsőoktatási intézmény – a képzés és kutatás tudományos tárgyával és tartalmával kapcsolatos kérdések tekintetében biztosított – önállóságát. A felsőoktatási intézmény szenátusának döntése alapján a rektor a fenntartói intézkedést – a felsőoktatási intézmény e törvényben biztosított önállóságának védelme érdekében – a közléstől számított harminc napon belül közigazgatási perben támadhatja meg. A határidő jogvesztő. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 (2) Állami felsőoktatási intézmény esetén a fenntartó
 
@@ -1691,7 +1673,7 @@ irányuló eljárásban.
 
 (2a) A rektor akadályoztatása, érintettsége vagy a rektori tisztség átmeneti betöltetlensége esetén a rektor helyettesítésére jogosult rektorhelyettes a felsőoktatási intézmény, illetve a szenátus vezetőjeként jár el.
 
-(3) Állami felsőoktatási intézmény esetén az oktatási hivatal határozata ellen a 67. § (3) bekezdés b) és d) pontjában felsorolt ügyekben fellebbezésnek nincs helye.
+(3)
 
 (4) Állami felsőoktatási intézmény esetén
 
@@ -2172,7 +2154,7 @@ eltérő rendelkezéseket állapíthat meg,
 
 #### 58. A közhasznú szervezetként történő működtetés rendje
 
-96. § (1) A nem állami felsőoktatási intézmény, ha alapító okirata, belső szabályzata lehetővé teszi és az oktatási hivatal jogerős határozatával közhasznú nyilvántartásba veszi, közhasznú szervezetként is működhet. A felsőoktatási intézmény közhasznú szervezetté minősítése, illetve a közhasznú nyilvántartásból való törlés iránti kérelmet az intézmény fenntartója az oktatási hivatalnál jogosult benyújtani. A felsőoktatási intézmény közhasznú szervezetté minősíthető abban az esetben is, ha közhasznú szervezetté minősítését a reá irányadó szabályok szerinti létesítési eljárásban kérik.
+96. § (1) A nem állami felsőoktatási intézmény, ha alapító okirata, belső szabályzata lehetővé teszi és az oktatási hivatal végleges határozatával közhasznú nyilvántartásba veszi, közhasznú szervezetként is működhet. A felsőoktatási intézmény közhasznú szervezetté minősítése, illetve a közhasznú nyilvántartásból való törlés iránti kérelmet az intézmény fenntartója az oktatási hivatalnál jogosult benyújtani. A felsőoktatási intézmény közhasznú szervezetté minősíthető abban az esetben is, ha közhasznú szervezetté minősítését a reá irányadó szabályok szerinti létesítési eljárásban kérik.
 
 (2) A felsőoktatási intézmény – ha közhasznú szervezetként történő nyilvántartásba vételét kéri – alapító okiratában közhasznú (cél szerinti) tevékenységként a 2. § (1) és (3) bekezdés szerinti tevékenységet, illetve tevékenységeket jelölheti meg.
 
@@ -2187,7 +2169,7 @@ eltérő rendelkezéseket állapíthat meg,
 - a) a Civil tv. 37. § (2) bekezdésének a)–b) és d) pontjában, valamint 37. § (3) bekezdésének a)–d) pontjaiban foglalt rendelkezéseket a felsőoktatási intézmény szervezeti és működési szabályzatában kell rögzíteni, azzal, hogy a szenátus legalább évi két alkalommal tart ülést,
 - b) a Civil tv. 37. § (2) bekezdésének c) pontja esetében a felügyelő szerv működésére, hatáskörére vonatkozó szabályokat a fenntartó határozza meg az intézmény alapító okiratában, ahol kötelező gondoskodnia a felügyelő szerv létrehozásáról is.
 
-(7) A közhasznú jogállás megszerzését követően a szervezeti és működési szabályzatnak a (6) bekezdés a) pontjával összefüggő valamennyi módosítását a rektor küldi meg az oktatási hivatalnak. Az alapító okiratnak a (6) bekezdés b) pontjával összefüggő módosításai akkor lépnek hatályba, ha az abban foglaltakat az oktatási hivatal jogerős határozatával nyilvántartásba vette.
+(7) A közhasznú jogállás megszerzését követően a szervezeti és működési szabályzatnak a (6) bekezdés a) pontjával összefüggő valamennyi módosítását a rektor küldi meg az oktatási hivatalnak. Az alapító okiratnak a (6) bekezdés b) pontjával összefüggő módosításai akkor lépnek hatályba, ha az abban foglaltakat az oktatási hivatal végleges határozatával nyilvántartásba vette.
 
 ### XXVIII. Fejezet — AZ ORVOS- ÉS EGÉSZSÉGTUDOMÁNYI KÉPZÉST FOLYTATÓ FELSŐOKTATÁSI INTÉZMÉNYEKRE, VALAMINT AZ ÁLLAMI FELSŐOKTATÁSI INTÉZMÉNYEKBEN FOLYTATOTT KUTATÁS-FEJLESZTÉSI VÁLLALKOZÁSI TEVÉKENYSÉGRE VONATKOZÓ KÜLÖN RENDELKEZÉSEK
 
@@ -2464,21 +2446,21 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 (5) A felsőoktatási ösztöndíjak odaítélésének rendjét, mértékét, az ösztöndíjra jogosultak körét, valamint e törvény bevezetésével összefüggésben további átmeneti szabályokat a Kormány határozza meg.
 
-107/A. § (1) A 107. § (3) bekezdése szerinti államilag elismert nyelvvizsga-bizonyítványt a kiállításától számított öt éven belül – kormányrendeletben meghatározott eljárásban – a kiállító vizsgaközpont határozattal visszavonja, ha megállapítja, hogy a kiállítás feltételei nem álltak fenn. A visszavont nyelvvizsga-bizonyítványt az oktatási hivatalnak kell megküldeni, amely gondoskodik annak megsemmisítéséről. A visszavonásra egyebekben a Ket. rendelkezéseit kell megfelelően alkalmazni.
+107/A. § (1) A 107. § (3) bekezdése szerinti államilag elismert nyelvvizsga-bizonyítványt a kiállításától számított öt éven belül – kormányrendeletben meghatározott eljárásban – a kiállító vizsgaközpont határozattal visszavonja, ha megállapítja, hogy a kiállítás feltételei nem álltak fenn. A visszavont nyelvvizsga-bizonyítványt az oktatási hivatalnak kell megküldeni, amely gondoskodik annak megsemmisítéséről. A visszavonásra egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha a nyelvvizsga-bizonyítvány kiállítását bűncselekmény befolyásolta és a bűncselekmény elkövetését jogerős bírói vagy ügyészi határozat megállapította, a kiállító vizsgaközpont a nyelvvizsga-bizonyítványt időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. Ha a kiállító vizsgaközpont jogutód nélkül megszűnt, a nyelvvizsga-bizonyítványt az oktatási hivatal semmisíti meg. A megsemmisítésre egyebekben a Ket. rendelkezéseit kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha a nyelvvizsga-bizonyítvány kiállítását bűncselekmény befolyásolta, a bűncselekmény elkövetését jogerős bírói vagy ügyészi határozat megállapította, és a vádemelés elhalasztásának tartama eredményesen telt el, a kiállító vizsgaközpont a nyelvvizsga-bizonyítványt időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. Ha a kiállító vizsgaközpont jogutód nélkül megszűnt, a nyelvvizsga-bizonyítványt az oktatási hivatal semmisíti meg. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(3) Az (1) és (2) bekezdés szerinti döntés ellen jogorvoslatnak van helye.
+(3)
 
-(4) A vizsgabizonyítvány tárgyában hozott jogerős határozatot – indokolás nélkül – a miniszter által vezetett minisztérium hivatalos lapjában és az oktatási hivatal honlapján közzé kell tenni.
+(4) A vizsgabizonyítvány tárgyában hozott végleges határozatot – indokolás nélkül – a miniszter által vezetett minisztérium hivatalos lapjában és az oktatási hivatal honlapján közzé kell tenni.
 
 (5) Ha a nyelvvizsga-bizonyítványt kiállító vizsgaközpont jogutód nélkül szűnt meg, az (1) és (2) bekezdés szerinti eljárásban az oktatási hivatal jár el.
 
 (6) A (2) bekezdés szerinti jogerős határozatot hozó szerv a határozatról haladéktalanul értesíti a nyelvvizsga-bizonyítvány kibocsátóját, valamint az oktatási hivatalt.
 
-(7) A vizsgaközpont és a vizsgarendszer akkreditációja esetén az akkreditációs eljárás során az oktatási hivatal a kérelem beérkezését követő naptól számított harminc napon belül dönt.
+(7) A vizsgaközpont által hozott döntés ellen fellebbezésnek van helye.
 
-(8) A vizsgaközpont és a vizsgarendszer akkreditációjának megújítására irányuló eljárásban a (7) bekezdésben foglalt határidőt kell alkalmazni.
+(8) A szóbeli nyelvvizsgáról – a nyelvvizsgázó erre irányuló beleegyezése alapján – hangfelvétel készül. A vizsgázó, valamint a vizsgázó törvényes képviselője a vizsgázó minden nyelvvizsga-feladatát a feladatok megadásával és az értékelési útmutatóval együtt, továbbá szóbeli teljesítményének értékelését a vizsga eredményéről szóló döntés közlésétől számított tizenöt napig megtekintheti, illetve a szóbeli nyelvvizsgáról készült hangfelvételt meghallgathatja, továbbá a vizsgázó a megoldásairól kézzel írott másolatot készíthet. A másolat készítését úgy kell biztosítani, hogy az az értékelő személyes adataihoz történő hozzáférést ne tegye lehetővé. A betekintésre, valamint a nyelvvizsga-feladatok másolására adott idő nem lehet kevesebb negyvenöt percnél. A betekintési lehetőséget úgy kell biztosítani, hogy az megelőzze a jogorvoslati kérelem benyújtásának határidejét.
 
 #### 66. Értelmező rendelkezések
 
@@ -2559,7 +2541,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
-- 1.
+- 1. a szakirányú továbbképzés szervezésének általános feltételeit,
 - 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
 - 3. a felsőoktatási intézmény, valamint a közösségi felsőoktatási képzési központ, a diákotthon minimális létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit, a konzisztórium tagjaira való javaslattétel rendjét,
 - 4. a képesítési keretet, a doktori képzés szabályait,
@@ -2625,7 +2607,7 @@ rendeletben jelölje ki.
 
 - a) az oktatási jogok biztosának a felsőoktatást érintő feladatait, eljárását, továbbá az e feladatok ellátásával összefüggésben az általa vezetett hivatal szervezetének és működésének szabályait,
 - b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
-- c) a szakirányú továbbképzés szervezésének általános feltételeit,
+- c)
 - d) az államilag elismert nyelvvizsgáztatáshoz, a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról kiállított hatósági bizonyítványokhoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjak mértékét, a felsőoktatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
 (4) A miniszter a (3) bekezdés d) pontjában kapott szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
@@ -2737,6 +2719,8 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 114/H. § Az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
+114/I. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 #### 70. Szervezeti, foglalkoztatási rendelkezések
 
 115. § (1) E törvénynek a felsőoktatási intézmények működéséhez kapcsolódó eljárási szabályait a 2012. szeptember 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
@@ -2769,7 +2753,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (8) E törvénynek – a Módtv2-vel megállapított – 77. § (4) bekezdésében foglaltakat első alkalommal a 2019/2020. tanévben indított képzések tekintetében kell alkalmazni, azzal, hogy a már megkezdett képzések változatlan feltételek mellett kifutó rendszerben – de legfeljebb a 2021/2022-es tanévben, – fejezhetők be.
 
-(9)
+(9) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 41/A–41/H. §-át első alkalommal a 2018. évi általános felsőoktatási felvételi eljárás során kell alkalmazni.
 
 (10) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 103. § (3) bekezdésére tekintettel az állami felsőoktatási intézmények legkésőbb az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvény hatálybalépését követő egy éven belül módosítják a szervezeti és működési szabályzatukat.
 
@@ -2881,7 +2865,8 @@ kell érteni.
 - c) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés c) pont;
 - d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés c) pont;
 - e) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 27. cikk (2) bekezdés;
-- f) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv.
+- f) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv;
+- g) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv.
 
 119. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -3379,7 +3364,7 @@ III. Az adatkezelésnek és az adattovábbításnak a felsőoktatási informáci
 
 5. A felsőoktatási információs rendszer működéséért felelős szerv a II/C. fejezet 1. a) pont aa) alpontja szerinti elektronikus levélcím használatával teljesítheti a miniszter által elrendelt kutatást.
 
-6. A hallgató vagy a hallgató kérelmére a felsőoktatási intézmény diákigazolvány kiadását kezdeményezi a felsőoktatási információs rendszer működéséért felelős szervnél. A felsőoktatási intézménynek a hallgató kérelmét a bejelentéstől számított nyolc napon belül kell továbbítania a felsőoktatási rendszer működéséért felelős szerv részére a szerv által meghatározott módon. A diákigazolvány elkészítéséről a felsőoktatási információs rendszer működéséért felelős szerv mint a diákigazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) szerinti kártyakibocsátója gondoskodik. A diákigazolvány előállításának határideje az igénylésnek a felsőoktatási információs rendszer működéséért felelős szervhez történő beérkezésétől számított negyvenöt nap.
+6. A hallgató vagy a hallgató kérelmére a felsőoktatási intézmény diákigazolvány kiadását kezdeményezi a felsőoktatási információs rendszer működéséért felelős szervnél. A felsőoktatási intézménynek a hallgató kérelmét a bejelentéstől számított nyolc napon belül kell továbbítania a felsőoktatási rendszer működéséért felelős szerv részére a szerv által meghatározott módon. A diákigazolvány elkészítéséről a felsőoktatási információs rendszer működéséért felelős szerv mint a diákigazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény (a továbbiakban: Nektv.) szerinti kártyakibocsátója gondoskodik.
 
 A diákigazolvány a Nektv. 2. § 3. pontja szerinti kártya, amely közokirat. A diákigazolvány birtokosa az elektronikus kártyakibocsátó rendszerhez (a továbbiakban: NEK) kártyafelhasználóként csatlakozik. A NEK működtetője és a diákigazolvány megszemélyesítője a diákigazolvány kiállítása céljából kezeli a Nektv. 16. § (2) bekezdés a)–b) pontja szerinti adatokat. A diákigazolvány kiadására irányuló kérelem a Nektv. 16. §-ában előírt adatokon túl tartalmazza:
 

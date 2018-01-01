@@ -574,7 +574,7 @@ foglalt személyes adatait.
 
 (7) A bíróság ítélete kizárólag a kötelezést tartalmazó határozat, illetve az ajánlás hatályon kívül helyezésére vonatkozhat.
 
-(8) A bíróság eljárására egyebekben a Polgári perrendtartásról szóló 1952. évi III. törvény I–XIV. fejezetének rendelkezései irányadók.
+(8) A bíróság eljárására egyebekben a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) I–XXX. fejezetének rendelkezései irányadók.
 
 35. § (1) A határozat, illetve az ajánlás részére történt kézbesítésétől számított tizenöt napon belül a fél kérheti a tanácstól, hogy a határozatban, illetve az ajánlásban előforduló bármely névcserét, névelírást, szám- vagy számítási hibát vagy más hasonló elírást javítson ki, vagy a kötelezést tartalmazó határozat, illetve az ajánlás meghatározott része tekintetében adjon értelmezést.
 
@@ -685,7 +685,7 @@ foglalt személyes adatait.
 
 ### Közérdekű igényérvényesítés
 
-38. § (1) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt az ellen, akinek a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekbe ütköző tevékenységét a fogyasztóvédelmi hatóság jogerősen megállapította, ha a jogsértő tevékenység a fogyasztók széles, személyében nem ismert, de a jogsértés körülményei alapján meghatározható körét érinti.
+38. § (1) A fogyasztóvédelmi hatóság vagy a fogyasztói érdekek képviseletét ellátó egyesület pert indíthat a fogyasztók polgári jogi igényeinek érvényesítése iránt az ellen, akinek a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekbe ütköző tevékenységét a fogyasztóvédelmi hatóság véglegesen megállapította, ha a jogsértő tevékenység a fogyasztók széles, személyében nem ismert, de a jogsértés körülményei alapján meghatározható körét érinti.
 
 (2) A jogsértés bekövetkezésétől számított három év – vagy ha külön törvény a fogyasztók polgári jogi igényeinek elévülésére rövidebb időtartamot állapít meg, akkor annak – eltelte után perindításnak nincs helye. E határidő elmulasztása jogvesztéssel jár. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll. Az igény érvényesítésére nyitva álló határidőbe nem számít bele a fogyasztóvédelmi hatóság eljárásának időtartama.
 
@@ -701,6 +701,8 @@ foglalt személyes adatait.
 
 (8) Az e § szerinti igényérvényesítési jog megilleti az Európai Gazdasági Térség bármely más tagállamának joga alapján létrejött azon feljogosított szervezeteket az általuk védett fogyasztói érdekek védelme körében, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikkének (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek, feltéve, hogy a keresetben érvényesíteni kívánt igény a 2009/22/EK európai parlamenti és tanácsi irányelv I. mellékletében felsorolt európai uniós jogi rendelkezéseket átültető olyan jogszabályi rendelkezések megsértésén alapul, amelyek miatti eljárás a 45/A. § (1)–(3) bekezdése alapján a fogyasztóvédelmi hatóság hatáskörébe tartozik.
 
+(9) Az e § szerinti pert a Pp. közérdekből indított perre vonatkozó rendelkezései alapján kell lefolytatni.
+
 38/A–38/C. §
 
 ### Közérdekű keresetindítás
@@ -715,6 +717,8 @@ foglalt személyes adatait.
 - b) a sérelmes helyzet megszüntetését és a jogsértést megelőző állapot helyreállítását.
 
 (4) Az e § szerinti igényérvényesítés nem érinti a fogyasztónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét önállóan érvényesítse.
+
+(5) Az e § szerinti pert a Pp. közérdekből indított perre vonatkozó rendelkezései alapján kell lefolytatni.
 
 ## MÁSODIK RÉSZ — A FOGYASZTÓVÉDELEM ÁLLAMI, ÖNKORMÁNYZATI ÉS ÉRDEKKÉPVISELETI INTÉZMÉNYRENDSZERE
 
@@ -830,7 +834,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (2a) A (2) bekezdés a) pontjától eltérően a fogyasztói érdekek képviseletét ellátó egyesületeket a más által kezdeményezett eljárásban az ügyfél jogai csak akkor illetik meg, ha az eljárásban vizsgált jogsértés a fogyasztók széles körét érinti.
 
-(2b) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) 93. § (2) bekezdésében foglalt rendelkezések alkalmazása során az ügyfél részéről a helyszínen eljáró személyt, akivel a hatóság a döntését a helyszínen közli, – az ellenkező bizonyításáig – az ügyfél képviseletére jogosultnak kell tekinteni, amennyiben erre irányuló nyilatkozatot tesz, illetve egyéb, ezt igazoló iratot csatol.
+(2b) A 46. § (6a) bekezdés b) pontjának alkalmazása esetén a fogyasztóvédelmi hatóság értesítheti a jelen lévő ügyfelet a hivatalbóli eljárás megindításáról az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 104. § (4) bekezdésében meghatározott, rendelkezésére álló adatok közlésével. E bekezdésben foglaltak alkalmazása során az ügyfél részéről a helyszínen eljáró személyt, akivel a hatóság a döntését a helyszínen közli, – az ellenkező bizonyításáig – az ügyfél képviseletére jogosultnak kell tekinteni, amennyiben erre irányuló nyilatkozatot tesz, illetve egyéb, ezt igazoló okiratot csatol.
 
 (2c) A (2b) bekezdésben foglalt vélelem megdöntése iránti kérelmet a döntéssel szembeni fellebbezéssel egyidejűleg terjeszthet elő az ügyfél. A kérelemben elő kell adni azokat a tényeket, illetve körülményeket, amelyek a képviseleti jogosultság hiányát valószínűsítik.
 
@@ -840,14 +844,30 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 60 nap.
 
-(6) A fogyasztóvédelmi hatóság eljárása során megvizsgálhatja a Ket. 94. § (1) bekezdés a) és b) pontjában szabályozott eljárás alkalmazásának lehetőségét e törvény 14. § (1) bekezdése és a 14. § (5) bekezdése esetében a termék eladási ára és egységára vonatkozásában, továbbá a kereskedelemről szóló 2005. évi CLXIV. törvény 5. § (4) bekezdésének első mondata és a 6. § (2) bekezdés b) pontja esetében. Ezen esetek kivételével a fogyasztóvédelmi hatóság eljárása során nem vizsgálhatja a Ket. 94. §-ában szabályozott eljárások alkalmazásának lehetőségét, kivéve, ha a hatósági ellenőrzés alá vont ügyfél a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint kis- és középvállalkozásnak minősül.
+(6) A fogyasztóvédelmi hatóság megvizsgálhatja a felhívás alkalmazásának lehetőségét
 
-46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – a Ket.-ben előírtakon túl – tartalmaznia kell
+- a) a 14. § (1) bekezdésében és a 14. § (5) bekezdésében szabályozott esetben a termék eladási ára és egységára vonatkozásában,
+- b) a kereskedelemről szóló 2005. évi CLXIV. törvény 5. § (4) bekezdésének első mondata és 6. § (2) bekezdés b) pontja esetében,
+
+(6a) Az a) és b) pontban foglalt esetek kivételével a fogyasztóvédelmi hatóság nem vizsgálhatja a felhívás alkalmazásának a lehetőségét, kivéve, ha a hatósági ellenőrzés alá vont ügyfél a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény szerint kis- és középvállalkozásnak minősül.
+
+(6b) Ha a hatóság a hatósági ellenőrzés eredményeként megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
+
+- a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a hatóság felhívja az ügyfél figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére,
+- b) ha az a) pont szerinti határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a hatóság új eljárásban megállapítja a hatáskörébe tartozó egyéb jogkövetkezményt,
+- c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jogszabálysértés tekintetében nem rendelkezik hatáskörrel vagy illetékességgel, a hatóság a jegyzőkönyv vagy feljegyzés jogszabálysértésre vonatkozó információkat tartalmazó részének megküldésével kezdeményezi a hatáskörrel rendelkező hatóság eljárását, illetve fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez.
+
+(6c) Nem alkalmazható a (6b) bekezdés a) pontja, ha
+
+- a) a jogszabályban vagy hatósági döntésben foglalt előírások megsértése kizárólag újabb hatósági eljárás lefolytatásával orvosolható,
+- b) a hatóság ugyanazon ügyféllel szemben a (6b) bekezdés a) pontja szerinti felhívás eredménytelensége miatt két éven belül véglegessé vált döntésben egyéb jogkövetkezményt állapított meg,
+- c) a hatóság ugyanazon ügyféllel szemben ugyanazon jogszabályi vagy hatósági határozatban megállapított rendelkezés megsértése miatt két éven belül a (6b) bekezdés a) pontja alapján járt el.
+
+46/A. § A fogyasztó fogyasztóvédelmi hatóság részére benyújtott kérelmének – az Ákr. 36. §-ában előírtakon túl – tartalmaznia kell
 
 - a) a kérelemmel érintett vállalkozás nevét, valamint ha a fogyasztó rendelkezésére áll, székhelyének címét,
 - b) a feltételezett jogsértéssel érintett üzlet címét vagy a kifogásolt magatartás elkövetésének helyét,
-- c) a beadvány tárgyának rövid leírását a rendelkezésre álló dokumentumokkal alátámasztva, ideértve különösen a vállalkozásnak a fogyasztó megkeresésére adott válaszlevelét, a szóbeli panaszról felvett jegyzőkönyvet, vagy postai úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot, továbbá
-- d)
+- c) a beadvány tárgyának rövid leírását a rendelkezésre álló dokumentumokkal alátámasztva, ideértve különösen a vállalkozásnak a fogyasztó megkeresésére adott válaszlevelét, a szóbeli panaszról felvett jegyzőkönyvet, vagy postai úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot.
 
 47. § (1) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, illetve a jogsértéssel elért előny – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket állapíthatja meg:
 
@@ -883,7 +903,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (11) A (10) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
 
-(12) A (10) bekezdésben foglalt laboratóriumi és kockázatértékelési vizsgálatok elvégzésének időtartama az ügyintézési határidőbe nem számít be.
+(12)
 
 (13) A fogyasztóvédelmi hatóság termék vagy szolgáltatás tekintetében próbavásárlást végezhet.
 
@@ -933,7 +953,7 @@ terjedhet.
 
 (5) A fogyasztóvédelmi hatóság – ha a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvény eltérően nem rendelkezik – minden esetben bírságot szab ki, ha
 
-- a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító jogerős határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
+- a) a fogyasztóvédelmi hatóságnak a jogsértést megállapító véglegessé vált határozatában a vállalkozás számára előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül a vállalkozás – amennyiben a jogsértést telephelyen követték el, ugyanazon telephelyen – ugyanazon jogszabályi rendelkezést ismételten megsértette,
 - b) a jogsértés a fogyasztók széles körét érinti,
 - c) a tizennyolcadik életévüket be nem töltött személyek védelmét célzó jogszabályi rendelkezés megsértésére került sor, továbbá
 - d) a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezés megsértésére a fogyasztóknak koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó fogyasztóval szemben került sor,
@@ -947,15 +967,15 @@ terjedhet.
 
 (5)
 
-(6) A jogerősen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
+(6) A véglegesen kiszabott bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
 (7) A fogyasztóvédelmi hatóság eljárása során kiszabott eljárási bírság adók módjára behajtandó köztartozás.
 
-48/A. § A fogyasztóvédelmi hatóság döntése ellen fellebbezni csak a megtámadott döntésre vonatkozóan, tartalmilag közvetlenül összefüggő okból, illetve csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre hivatkozva lehet. A fellebbezésben részletesen elő kell adni annak indokait.
+48/A. §
 
-49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
+49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra azonnal végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
-(2) A fogyasztóvédelmi hatóság első fokú határozatát az alábbi esetekben, illetve okokból is fellebbezésre tekintet nélkül végrehajthatónak nyilváníthatja
+(2) A fogyasztóvédelmi hatóság első fokú határozatát az alábbi esetekben, illetve okokból is azonnal végrehajthatónak nyilváníthatja
 
 - a) a 47. § (1) bekezdésének h) pontja szerinti jogkövetkezmény megállapítása esetén,
 - b) környezetvédelmi okból,
@@ -964,19 +984,19 @@ terjedhet.
 - e) a fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődésének védelme érdekében, továbbá
 - f) jogsértő tartalmú kereskedelmi kommunikáció vagy internetes honlap esetén.
 
-(3) Az (1) bekezdés szerinti végzés ellen önálló fellebbezésnek van helye.
+(3)
 
-50. § A bíróság a fogyasztóvédelmi hatóság határozatát megváltoztathatja.
+50. §
 
 51. § (1) A fogyasztóvédelmi hatóság határozatát – jogorvoslatra tekintet nélkül – közzéteszi, ha
 
-- a) a határozat fellebbezésre tekintet nélkül történő végrehajtását rendelte el a 49. § (2) bekezdése alapján,
+- a) a határozat azonnali végrehajtását rendelte el a 49. § (2) bekezdése alapján,
 - b)
 - c)
 
 (2) A fogyasztóvédelmi hatóság közzéteszi a 49. § (1) bekezdése szerinti végzését.
 
-(3) A fogyasztóvédelmi hatóság jogerős határozatát közzéteszi, ide nem értve az 51/B. §-ban meghatározott közzétételi kötelezettséggel érintett határozatokat.
+(3) A fogyasztóvédelmi hatóság véglegessé vált határozatát közzéteszi, ide nem értve az 51/B. §-ban meghatározott közzétételi kötelezettséggel érintett határozatokat.
 
 (4) A döntés közzététele a fogyasztóvédelmi hatóság honlapján, továbbá – amennyiben szükséges – a fogyasztóvédelmi hatóság által célszerűnek tartott egyéb módon történik. A közzétett döntésről a fogyasztóvédelmi hatóság a nemzeti hírügynökséget is tájékoztathatja.
 
@@ -984,13 +1004,13 @@ terjedhet.
 
 - a) a közzététel napját,
 - b) a közzététel e törvény szerinti jogcímét,
-- c) a jogerő beálltára vagy annak hiányára történő utalást,
+- c) a véglegessé válásra vagy annak hiányára történő utalást,
 - d) az eljáró hatóság megnevezését,
 - e) az ügy számát és tárgyát,
 - f) a jogsértő vállalkozás nevét és székhelyét,
 - g) a megállapított tényállást,
 - h) a megsértett jogszabályi rendelkezések megjelölését,
-- i) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló rendelkezést, valamint
+- i) a döntés rendelkező részét, ide nem értve véglegessé vált döntés esetén a jogorvoslatról szóló rendelkezést, valamint
 - j) a döntéssel szembeni jogorvoslati eljárás tényét.
 
 (6) A fogyasztóvédelmi hatóság a jogorvoslat során hozott és a közzétett döntés érdemében változást eredményező hatósági döntés vagy bírósági határozat tudomására jutásakor – a határozat, illetve végzés közzétételével megegyező módon – közzéteszi:
@@ -1012,10 +1032,10 @@ terjedhet.
 - c) a kötelezettségvállalás tartalmát közérthetően összefoglalva, valamint
 - d) az arra vonatkozó figyelemfelhívást, hogy a hatósági szerződés a hatóságnál megtekinthető.
 
-51/B. § (1) A fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
+51/B. § (1) A fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott elektronikus kereskedelmi szolgáltatással összefüggő súlyos jogsértést megállapító, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal által hozott véglegessé vált döntést vagy a bíróság által hozott jogerős döntést, valamint az azzal kapcsolatos alábbi adatokat:
 
 - a) a közzététel e § szerinti jogcímét,
-- b) a jogerő beálltára történő utalást,
+- b) a véglegessé válásra vagy jogerőre történő utalást,
 - c) az eljáró hatóság vagy bíróság megnevezését,
 - d) az ügy számát és tárgyát,
 - e) a jogsértő vállalkozás nevét, székhelyét, a nyilvántartási számát vagy cégjegyzékszámát és adószámát,
@@ -1033,7 +1053,7 @@ terjedhet.
 
 (4) A (3) bekezdés szerint megküldendő közigazgatási döntésből
 
-- a) a fogyasztóvédelmi hatóság döntése esetében a Ket. 69/A. § (2) bekezdése alapján a személyes adatot és védett adatot,
+- a) a fogyasztóvédelmi hatóság döntése esetében az Ákr. 27. § (2) bekezdése alapján a személyes adatot és védett adatot,
 - b) a Gazdasági Versenyhivatal döntése esetében a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 55/C. § (2) bekezdése alapján a korlátozottan megismerhető adatot
 
 törölni kell.
@@ -1046,9 +1066,9 @@ törölni kell.
 
 (6) A fogyasztóvédelemért felelős miniszter az (1) és (2) bekezdés szerinti közzétételt a közigazgatási vagy bírósági döntés kézhezvételétől számított 15 napon belül köteles elvégezni.
 
-(7) A fogyasztóvédelemért felelős miniszter az (1) és (2) bekezdés alapján közzétett adatokat – feltéve, hogy a vállalkozás felelősségét az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott újabb súlyos jogsértésért a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal vagy a bíróság jogerősen meg nem állapította – a közzétételtől számított két év elteltével törli a honlapról.
+(7) A fogyasztóvédelemért felelős miniszter az (1) és (2) bekezdés alapján közzétett adatokat – feltéve, hogy a vállalkozás felelősségét az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott újabb súlyos jogsértésért a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal véglegesen vagy a bíróság jogerősen meg nem állapította – a közzétételtől számított két év elteltével törli a honlapról.
 
-(8) A fogyasztóvédelemért felelős miniszter biztosítja, hogy a honlapon az (1) bekezdés alapján közzétett közigazgatási vagy bírósági döntés, valamint az azzal kapcsolatos adatok szövegében a vállalkozás nevére, annak az elektronikus kereskedelmi szolgáltatás nyújtása során használt, a fogyasztók számára beazonosítható elnevezésére, honlapjának címére, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal, valamint a bíróság jogerős döntésére, a jogorvoslati eljárás tényére és a megsértettként megjelölt jogszabályi rendelkezésre keresni lehessen.
+(8) A fogyasztóvédelemért felelős miniszter biztosítja, hogy a honlapon az (1) bekezdés alapján közzétett közigazgatási vagy bírósági döntés, valamint az azzal kapcsolatos adatok szövegében a vállalkozás nevére, annak az elektronikus kereskedelmi szolgáltatás nyújtása során használt, a fogyasztók számára beazonosítható elnevezésére, honlapjának címére, a fogyasztóvédelmi hatóság, a Gazdasági Versenyhivatal végleges döntésére, valamint a bíróság jogerős határozatára, a jogorvoslati eljárás tényére és a megsértettként megjelölt jogszabályi rendelkezésre keresni lehessen.
 
 ## HARMADIK RÉSZ — Záró rendelkezések
 
@@ -1066,7 +1086,7 @@ törölni kell.
 
 55. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a)
+- a) a fogyasztóvédelmi hatóság által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokra
 - b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
 - c) az elektronikus kereskedelmi szolgáltatással összefüggő, az 51/B. § (1) bekezdésében előírt közzétételi kötelezettséggel járó súlyos jogsértések eseteire,
 - d)–e)
@@ -1096,7 +1116,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 56/B. § Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 39. § (2) bekezdésében említett irányelv mellékletében felsorolt, valamint a 43/A. § (1) bekezdésében, illetve a 46. § (2) bekezdésének b) pontjában meghatározott uniós jogi rendelkezéseket átültető jogszabályi rendelkezések felsorolását.
 
-56/C. §
+56/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

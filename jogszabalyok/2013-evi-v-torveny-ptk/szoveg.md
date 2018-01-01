@@ -1398,7 +1398,7 @@ A gazdasági társaság létesítő okirata – a részvénytársaság és az eg
 
 (1) A létesítő okiratot valamennyi alapító tagnak alá kell írnia. A tag helyett a társasági szerződést közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező képviselője is aláírhatja.
 
-(2) A létesítő okiratot közjegyzői okiratba vagy ügyvéd, illetve valamelyik alapító jogtanácsosa által ellenjegyzett magánokiratba kell foglalni.
+(2) A létesítő okiratot közjegyzői okiratba vagy ügyvéd, illetve valamelyik alapító kamarai jogtanácsosa által ellenjegyzett magánokiratba kell foglalni.
 
 #### 3:96. § [A társaság tevékenységének helye]
 
@@ -1408,7 +1408,7 @@ A gazdasági társaság létesítő okirata – a részvénytársaság és az eg
 
 #### 3:97. § [A társaság tevékenységi körével kapcsolatos rendelkezések]
 
-(1) Ha jogszabály valamely gazdasági tevékenység gyakorlását hatósági engedélyhez köti, a társaság e tevékenységet a jogerős hatósági engedély alapján kezdheti meg.
+(1) Ha jogszabály valamely gazdasági tevékenység gyakorlását hatósági engedélyhez köti, a társaság e tevékenységet a véglegessé vált hatósági engedély alapján kezdheti meg.
 
 (2) Jogszabály által képesítéshez kötött tevékenységet a gazdasági társaság akkor végezhet, ha az e tevékenységben személyes közreműködést vállaló tagja, vagy a társasággal munkavégzésre irányuló polgári jogi vagy munkajogi jogviszonyban álló legalább egy személy a képesítési követelménynek megfelel.
 
@@ -1430,13 +1430,13 @@ A gazdasági társaság létesítő okirata – a részvénytársaság és az eg
 
 #### 3:100. § [A társaság alapításának bírósági bejelentése]
 
-(1) Gazdasági társaság alapítását a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak.
+(1) Gazdasági társaság alapítását a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak.
 
-(2) Ha a gazdasági társaság alapítása hatósági engedélyhez kötött, a bejelentést a jogerős engedély kézhezvételétől számított tizenöt napon belül kell teljesíteni.
+(2) Ha a gazdasági társaság alapítása hatósági engedélyhez kötött, a bejelentést a véglegessé vált engedély kézhezvételétől számított tizenöt napon belül kell teljesíteni.
 
 #### 3:101. § [Előtársaság]
 
-(1) A gazdasági társaság a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől kezdődően a létrehozni kívánt társaság előtársaságaként működhet. Üzletszerű gazdasági tevékenységet az előtársaság a nyilvántartásba-vételi kérelem benyújtását követően folytathat. Az előtársasági jelleget a társaság iratain és jognyilatkozatain fel kell tüntetni; ennek hiányában az előtársaság által tett jognyilatkozat – ha a nyilvántartó bíróság a társaságot nem jegyzi be – az alapítók által együttesen tett jognyilatkozatnak minősül.
+(1) A gazdasági társaság a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől kezdődően a létrehozni kívánt társaság előtársaságaként működhet. Üzletszerű gazdasági tevékenységet az előtársaság a nyilvántartásba-vételi kérelem benyújtását követően folytathat. Az előtársasági jelleget a társaság iratain és jognyilatkozatain fel kell tüntetni; ennek hiányában az előtársaság által tett jognyilatkozat – ha a nyilvántartó bíróság a társaságot nem jegyzi be – az alapítók által együttesen tett jognyilatkozatnak minősül.
 
 (2) Az előtársaságra a létrehozni kívánt gazdasági társaságra irányadó szabályokat kell alkalmazni azzal az eltéréssel, hogy
 
@@ -1464,7 +1464,7 @@ A gazdasági társaság létesítő okirata – a részvénytársaság és az eg
 
 (3) Valamennyi tag egyhangú határozatára van szükség, ha a módosítás egyes tagok jogait hátrányosan érintené, vagy helyzetét terhesebbé tenné. Az e kérdésben való szavazásnál azok a tagok is szavazhatnak, akik egyébként szavazati joggal nem rendelkeznek.
 
-(4) A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást tartalmazó okiratot a tagoknak nem kell aláírniuk, és azt a társaság jogtanácsosa is ellenjegyezheti.
+(4) A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást tartalmazó okiratot a tagoknak nem kell aláírniuk, és azt a társaság kamarai jogtanácsosa is ellenjegyezheti.
 
 ### XVIII. Fejezet — Kisebbségvédelem
 
@@ -3346,7 +3346,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 #### 3:329. § [A szövetkezet nyilvántartásba vétele]
 
-(1) A szövetkezet alapítását az alapszabály közjegyzői okiratba foglalásától vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak. Ha a szövetkezet alapítása hatósági engedélyhez kötött, a bejelentést a jogerős engedély kézhezvételétől számított tizenöt napon belül kell teljesíteni.
+(1) A szövetkezet alapítását az alapszabály közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak. Ha a szövetkezet alapítása hatósági engedélyhez kötött, a bejelentést a véglegessé vált engedély kézhezvételétől számított tizenöt napon belül kell teljesíteni.
 
 (2) A szövetkezet esetében az előtársaságra vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
@@ -3368,7 +3368,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 (2) Az elfogadott alapszabályt minden alapító tagnak alá kell írnia. Az alapszabályt a tag helyett közokiratba vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező képviselője is aláírhatja.
 
-(3) Az alapszabályt közjegyzői okiratba, ügyvéd vagy valamelyik alapító jogtanácsosa által ellenjegyzett magánokiratba kell foglalni. Ezt a szabályt kell alkalmazni az alapszabály módosítása vagy a jegyzőkönyvbe foglalt alapszabály-módosítás esetén is azzal, hogy azt a tag jogtanácsosa vagy a szövetkezet jogtanácsosa is ellenjegyezheti.
+(3) Az alapszabályt közjegyzői okiratba, ügyvéd vagy valamelyik alapító kamarai jogtanácsosa által ellenjegyzett magánokiratba kell foglalni. Ezt a szabályt kell alkalmazni az alapszabály módosítása vagy a jegyzőkönyvbe foglalt alapszabály-módosítás esetén is azzal, hogy azt a tag kamarai jogtanácsosa vagy a szövetkezet kamarai jogtanácsosa is ellenjegyezheti.
 
 (4) A jogi személy létesítő okiratának általánosan kötelező tartalmi elemein túl a szövetkezet alapszabályában meg kell határozni
 
@@ -5162,9 +5162,9 @@ Az örökbefogadást nem lehet engedélyezni, ha az örökbefogadás a felek vag
 
 #### 4:131. § [Az örökbefogadás létrejötte és utánkövetése]
 
-(1) Az örökbefogadás az örökbefogadást engedélyező határozat jogerőre emelkedésével lép hatályba. Ha az örökbefogadó az eljárás folyamán meghal, az örökbefogadás engedélyezése esetén annak joghatásai az örökbefogadó halálával beállnak.
+(1) Az örökbefogadás az örökbefogadást engedélyező határozat véglegessé válásával lép hatályba. Ha az örökbefogadó az eljárás folyamán meghal, az örökbefogadás engedélyezése esetén annak joghatásai az örökbefogadó halálával beállnak.
 
-(2) Az örökbefogadást követően a gyermek helyzetét, életkörülményeinek alakulását jogszabályban meghatározott szervezet vagy a területi gyermekvédelmi szakszolgálat az örökbefogadást engedélyező határozat jogerőre emelkedésétől számított legfeljebb öt évig figyelemmel kíséri és segíti.
+(2) Az örökbefogadást követően a gyermek helyzetét, életkörülményeinek alakulását jogszabályban meghatározott szervezet vagy a területi gyermekvédelmi szakszolgálat az örökbefogadást engedélyező határozat véglegessé válásától számított legfeljebb öt évig figyelemmel kíséri és segíti.
 
 ### XIII. Fejezet — Az örökbefogadás joghatásai
 
@@ -5238,7 +5238,7 @@ kérelmére - a vér szerinti szülőre vonatkozó természetes személyazonosí
 
 (2) Ha az örökbefogadott még kiskorú, az örökbefogadás csak a kiskorú érdekében bontható fel. Az eljárás során a gyámhatóság - elháríthatatlan akadály kivételével - az örökbefogadott vér szerinti szüleit is meghallgatja.
 
-(3) Az örökbefogadás a gyámhatósági határozat jogerőre emelkedésével szűnik meg. Ha bármelyik fél az eljárás folyamán meghal, az örökbefogadás joghatásai - a felbontás engedélyezése esetén - a kérelem beadásának napjára visszamenő hatállyal szűnnek meg.
+(3) Az örökbefogadás a gyámhatósági határozat véglegessé válásával szűnik meg. Ha bármelyik fél az eljárás folyamán meghal, az örökbefogadás joghatásai - a felbontás engedélyezése esetén - a kérelem beadásának napjára visszamenő hatállyal szűnnek meg.
 
 (4) A felbontás kihat az örökbefogadóra, az örökbefogadó rokonaira, az örökbefogadottra és az örökbefogadott leszármazóira.
 
@@ -6517,7 +6517,7 @@ A föld tulajdonosa megszerzi mindazoknak a dolgoknak a tulajdonjogát, amelyek 
 
 (1) Ha a jogosult a dologért az átadástól számított három hónap alatt nem jelentkezett, és a találó az átadáskor nem tartott igényt a dolog tulajdonjogára, a jegyző a talált dolgot értékesíti.
 
-(2) A talált dolgok értékesítésére a közigazgatási végrehajtás keretében lefoglalt vagyontárgyak értékesítésére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+(2) A talált dolgok értékesítésére a közigazgatási végrehajtás keretében lefoglalt vagy zár alá vett vagyontárgyak értékesítésére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 #### 5:59. § [Közönség számára nyitva álló helyen talált dolog]
 
@@ -8091,7 +8091,7 @@ A beszámítás szabályait megfelelően alkalmazni kell akkor is, ha a kötelez
 
 (1) A bíróság a letétet a jogosultnak adhatja ki.
 
-(2) Ha a letétbe helyezésre amiatt került sor, mert a jogosult személye bizonytalan, a letétet a jogosult személyét igazoló jogerős határozat alapján lehet kiadni.
+(2) Ha a letétbe helyezésre amiatt került sor, mert a jogosult személye bizonytalan, a letétet a jogosult személyét igazoló jogerős vagy véglegessé vált határozat alapján lehet kiadni.
 
 (3) A bíróság a letétet jogosulti együttesség esetén a jogosultak közös kérelmére vagy a jogosult személyét igazoló jogerős ítélet alapján adhatja ki.
 
@@ -8515,7 +8515,7 @@ Fogyasztó és vállalkozás közötti szerződésben semmis a fogyasztónak a j
 
 #### 6:106. § [Vállalkozások közötti szerződéssel, valamint szerződő hatóság szerződő hatóságnak nem minősülő vállalkozással kötött szerződésével kapcsolatos közérdekű kereset]
 
-(1) Vállalkozások közötti szerződés részévé általános szerződési feltételként váló, a pénztartozás teljesítésének idejét, a késedelmi kamat mértékét, esedékességét a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult hátrányára megállapító kikötést – mint tisztességtelen kikötést – a vállalkozások érdekeinek képviseletét ellátó szervezet is megtámadhatja.
+(1) Vállalkozások közötti szerződés részévé általános szerződési feltételként váló, a pénztartozás teljesítésének idejét, a késedelmi kamat mértékét, esedékességét a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a jogosult hátrányára megállapító kikötést – mint tisztességtelen kikötést – a vállalkozások érdekeinek képviseletét ellátó szervezet is megtámadhatja a polgári perrendtartásról szóló törvény közérdekből indított perre vonatkozó rendelkezései alapján.
 
 (2) A szerződő hatóság és a szerződő hatóságnak nem minősülő vállalkozás közötti szerződés részévé általános szerződési feltételként váló, a pénztartozás teljesítésének idejét
 
@@ -11860,7 +11860,7 @@ Ha a kárt olyan vétőképes kiskorú okozta, akinek van felügyeletre köteles
 
 #### 6:548. § [Felelősség közigazgatási jogkörben okozott kárért]
 
-(1) Közigazgatási jogkörben okozott kárért a felelősséget akkor lehet megállapítani, ha a kárt közhatalom gyakorlásával vagy annak elmulasztásával okozták, és a kár rendes jogorvoslattal, továbbá a közigazgatási határozat bírósági felülvizsgálata iránti eljárásban nem volt elhárítható.
+(1) Közigazgatási jogkörben okozott kárért a felelősséget akkor lehet megállapítani, ha a kárt közhatalom gyakorlásával vagy annak elmulasztásával okozták, és a kár rendes jogorvoslattal, továbbá közigazgatási perben nem volt elhárítható.
 
 (2) Közigazgatási jogkörben okozott kárért a közhatalmat gyakorló jogi személy tartozik felelősséggel. Ha a közhatalmi jogkör gyakorlója nem jogi személy, a kárért az a jogi személyiséggel rendelkező közigazgatási szerv tartozik felelősséggel, amelynek keretében az eljárt közigazgatási szerv működik.
 

@@ -140,7 +140,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 (2) A végelszámolás nem határozható el a civil szervezet fizetésképtelenségét megállapító végzés kézhezvételét követően, a felszámolás elrendelésével pedig a folyamatban lévő végelszámolás megszűnik.
 
-(3) A végelszámolással kapcsolatos bírósági eljárásokra az e törvény által nem szabályozott kérdésekben a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezéseit – a nemperes eljárás sajátosságaiból eredő eltérésekkel – kell alkalmazni.
+(3) A végelszámolással kapcsolatos bírósági eljárásokban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
 9/B. § (1) A végelszámolás bejelentése – a 9/J. §-ban foglalt kivétellel – a végelszámoló feladata. A végelszámoló a végelszámolás megindítását változásbejegyzési kérelemben – űrlapon – köteles bejelenteni a bíróságának.
 
@@ -255,13 +255,13 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 feltéve, hogy az a) vagy b) pont szerinti eljárás során nem merült fel adat arra nézve, hogy a civil szervezetnek vagyona van vagy a civil szervezet fennállása során adószámmal nem rendelkezett, illetve nem rendelkezik.
 
-(2) Az e cím szerinti bírósági eljárásokban az e törvény által nem szabályozott kérdésekben a Pp. rendelkezéseit – a nemperes eljárás sajátosságaiból eredő eltérésekkel – kell alkalmazni.
+(2) Az e cím szerinti bírósági eljárásokban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
 (3) Az e cím szerinti eljárások lefolytatására a civil szervezetet nyilvántartató bíróság illetékes.
 
 (4) Ha a bíróság a civil szervezetet megszünteti vagy a civil szervezet tekintetében megállapítja a jogutód nélküli megszűnési ok bekövetkeztét, a civil szervezetet nyilvántartó bíróság a határozat alapján a nyilvántartásba haladéktalanul bejegyzi megszüntetés esetén a „megszüntetve”, a jogutód nélküli megszűnési ok bekövetkeztének megállapítása esetén pedig a „megszűnt” toldatot.
 
-(5) Ha a civil szervezet fennállása során adószámmal rendelkezett vagy rendelkezik, az (1) bekezdésben meghatározott határozatok indokolásának a Pp. 221. §-ában foglaltakon túl tartalmaznia kell az arra való utalást, hogy az eljárás során a civil szervezet vagyonára vonatkozó adat merült-e fel.
+(5) Ha a civil szervezet fennállása során adószámmal rendelkezett vagy rendelkezik, az (1) bekezdésben meghatározott határozatok indokolásának a Pp. 346. § (4)–(6) bekezdésében foglaltakon túl tartalmaznia kell az arra való utalást, hogy az eljárás során a civil szervezet vagyonára vonatkozó adat merült-e fel.
 
 (6) Egyszerűsített törlési eljárásnak van helye az egyesület kérelmére akkor is, ha az egyesület elhatározza megszűnését vagy megállapítja, hogy megszűnésének anyagi jogi feltételei bekövetkeztek és fennállása alatt adószámmal nem rendelkezett, illetve nem rendelkezik.
 
@@ -874,7 +874,7 @@ vonatkozó szabályokat.
 
 (3) A vagyonnyilatkozat tartalmát abban az esetben ismerheti meg az őrzésért felelős, ha döntenie kell a vagyongyarapodási vizsgálat kezdeményezéséről.
 
-(4) Az őrzésért felelős – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adózás rendjéről szóló törvény szerinti vizsgálatát kezdeményezi, ha
+(4) Az őrzésért felelős – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti vizsgálatát kezdeményezi, ha
 
 - a) az (1) bekezdés szerinti ellenőrzés során a vagyonnyilatkozatok tartalmából alaposan feltehető, hogy a kötelezett vagyongyarapodása a nyilatkozattételi kötelezettséget megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható,
 - b) a meghallgatás során a bejelentésben szereplő tények, adatok, körülmények nem tisztázódnak hitelt érdemlően.
@@ -935,7 +935,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 57. § (1) Az Alap terhére csak az 56. § (1) bekezdés b), h) vagy l) pontja szerinti támogatás nyújtható azon civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves összes bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket. E bekezdés szerinti esetben az 56. § (1) bekezdés b) vagy h) pontja szerinti támogatás csak visszatérítendő formában nyújtható.
 
-(2) A visszatérítési kötelezettség alá eső költségvetési támogatás az Art. szerinti adók módjára behajtandó köztartozásnak minősül.
+(2) A visszatérítési kötelezettség alá eső költségvetési támogatás az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szerinti adók módjára behajtandó köztartozásnak minősül.
 
 (3) Adók módjára hajtandó be az e törvény rendelkezései szerint nyújtott támogatás azon része is, amit a kedvezményezett a vonatkozó támogatási szerződéstől eltérően használt fel.
 
