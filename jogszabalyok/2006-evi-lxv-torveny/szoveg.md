@@ -91,6 +91,8 @@ Az Országgyűlés az államháztartási rendszer megújítása keretében a kö
 
 (5) A köztestületre – ha törvény eltérően nem rendelkezik – a Polgári Törvénykönyvnek az egyesületre vonatkozó szabályait kell megfelelően alkalmazni.
 
+(6) A köztestület, illetve szervei és a köztestületi tagok, illetve az egyes köztestületi szervek, tisztségviselők közötti jogvitában, továbbá a köztestület, illetve szervei, tisztségviselői és a köztestület felett törvényességi felügyeletet vagy ellenőrzést gyakorló szerv közötti jogvitában a közigazgatási ügyben eljáró bíróság dönt.
+
 9. § (1) Azt az e törvény szerinti közalapítványt, amely 2014. május 31. napján közhasznú jogállással rendelkezett, és a Civil törvény szerinti közhasznúsági nyilvántartásba vétel iránti kérelmét erre is hivatkozással nyújtotta be 2015. május 15. napjáig, közhasznú szervezetnek kell tekinteni, ha utóbb e kérelem alapján a bíróság a közhasznú jogállást megállapítja és azt a nyilvántartásba bejegyzi.
 
 (2) Az (1) bekezdés alapján benyújtott kérelmek esetén a már folyamatban lévő – közhasznúsági jogállás elbírálásával kapcsolatos – eljárásokat az (1) bekezdésben foglalt kérelmek elbírálásáig fel kell függeszteni. A közhasznú jogállás megállapítása esetén egyidejűleg rendelkezni kell a korábbi közhasznúsági kérelmet elutasító határozatok hatályon kívül helyezéséről és a korábban törölt közhasznúsági jogállásra vonatkozó bejegyzések módosításáról.

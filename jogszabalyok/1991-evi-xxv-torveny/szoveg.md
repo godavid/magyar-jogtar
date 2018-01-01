@@ -109,9 +109,9 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 (2)
 
-(3) A bíróság a megtámadott határozat megváltoztatására is jogosult.
+(3)
 
-(4) A kárpótlási hatóság határozatának felülvizsgálata iránti perben a kárpótlásra jogosult lakóhelye szerint illetékes közigazgatási és munkaügyi bíróság jár el. Ha a kárpótlásra jogosultnak belföldi lakóhelye nincs, a perben a Fővárosi Közigazgatási és Munkaügyi Bíróság jár el.
+(4)
 
 11. § (1) A kárpótlás iránti kérelmet a jogosult 1991. december 16. napjáig nyújthatja be az illetékes területi kárrendezési kirendeltséghez.
 
@@ -129,7 +129,7 @@ Az Országgyűlés a tulajdonviszonyok rendezése, a forgalmi viszonyok és a pi
 
 (4)
 
-(5) A kárpótlási hatóság a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint jár el, azzal az eltéréssel, hogy az ügyintézési határidő a kérelem benyújtásától számított hat hónap.
+(5)
 
 (6) Az e törvény alapján a kárpótlási hatóság előtt induló eljárások illetékmentesek.
 

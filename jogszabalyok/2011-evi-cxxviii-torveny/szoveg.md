@@ -289,7 +289,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 #### 14. Egyéb rendelkezések
 
-19. § (1) A megyei és a fővárosi védelmi bizottság elnöke és a polgármester a katasztrófavédelmi feladatoknak e törvényben meghatározott irányítása és végrehajtása során államigazgatási jogkörben jár el.
+19. § (1) A polgármester, a főpolgármester, a helyi védelmi bizottság elnöke, a fővárosi és megyei védelmi bizottság elnöke a katasztrófavédelmi feladatoknak e törvényben meghatározott irányítása és végrehajtása során államigazgatási jogkörben jár el. Az elsőfokú államigazgatási hatósági eljárásban hozott határozataik ellen fellebbezésnek van helye.
 
 (2) A főpolgármester és a megyei közgyűlés elnöke, a polgármester a katasztrófavédelmi feladatait a hivatásos katasztrófavédelmi szerv közreműködésével látja el.
 
@@ -444,7 +444,7 @@ igazolja.
 
 ### IV. Fejezet — VESZÉLYES ANYAGOKKAL KAPCSOLATOS SÚLYOS BALESETEK ELLENI VÉDEKEZÉS
 
-25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak a hivatásos katasztrófavédelmi szerv (a IV. fejezet alkalmazásában: iparbiztonsági hatóság) katasztrófavédelmi engedélye alapján adható. Veszélyes tevékenység kizárólag az iparbiztonsági hatóság katasztrófavédelmi engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges katasztrófavédelmi engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentés vagy biztonsági elemzés két példányát.
+25. § (1) Veszélyes anyagokkal foglalkozó üzemre, veszélyes anyagokkal foglalkozó létesítményre építési engedély csak a hivatásos katasztrófavédelmi szerv (a IV. fejezet alkalmazásában: iparbiztonsági hatóság) katasztrófavédelmi engedélye alapján adható. Veszélyes tevékenység kizárólag az iparbiztonsági hatóság katasztrófavédelmi engedélyével végezhető. Az építési engedélyezéshez és a veszélyes tevékenység végzéséhez szükséges katasztrófavédelmi engedély iránti kérelemhez az üzemeltetőnek csatolni kell a biztonsági jelentést vagy biztonsági elemzést.
 
 (2) Amennyiben a biztonsági jelentés vagy biztonsági elemzés védendő adatot tartalmaz, az üzemeltető egyidejűleg a nyilvánosságra hozható, védendő adatot nem tartalmazó biztonsági jelentést vagy biztonsági elemzést is köteles az iparbiztonsági hatóság részére benyújtani.
 
@@ -452,11 +452,11 @@ igazolja.
 
 (4) Az iparbiztonsági hatóság a IV. fejezet hatálya alá tartozás megállapítása céljából bármely gazdálkodó szervezetet adatszolgáltatásra kötelezhet és annak telephelyén hatósági ellenőrzést tarthat.
 
-(5) Az iparbiztonsági hatóság által az e jogszabály IV. fejezete alapján lefolytatott közigazgatási eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5) Az iparbiztonsági hatóság által az e jogszabály IV. fejezete alapján lefolytatott közigazgatási eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 26. § (1) Ha az iparbiztonsági hatóság hatáskörébe tartozó eljárásban benyújtott biztonsági jelentés vagy biztonsági elemzés nem felel meg a jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
 
-(1a) A veszélyes anyagokkal foglalkozó üzemek elsőfokú engedélyezési eljárásának ügyintézési határideje és a másodfokú eljárás ügyintézési határideje 70 nap.
+(1a) A veszélyes anyagokkal foglalkozó üzemek elsőfokú engedélyezési eljárásának ügyintézési határideje 70 nap.
 
 (2) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a veszélyes anyagokkal foglalkozó üzemre vonatkozó biztonsági jelentéssel, biztonsági elemzéssel kapcsolatos hiánypótlási felhívásnak vagy a biztonsági jelentésben vagy biztonsági elemzésben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig az iparbiztonsági hatóság a veszélyes tevékenység végzését korlátozhatja vagy felfüggesztheti.
 
@@ -515,7 +515,7 @@ esetén.
 
 (2) Külön jogszabály szerint biztosítani kell, hogy a veszélyes anyagokkal foglalkozó üzem veszélyességi övezetének határán belül történő fejlesztések során a lakosság véleményt nyilváníthasson.
 
-34. § (1) Az iparbiztonsági hatóság a 25. § (1) bekezdés szerinti határozatát a veszélyeztetett települések polgármestereivel, a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes helyi, megyei védelmi bizottság elnökével, valamint a fővárosban a főpolgármesterrel közli.
+34. § (1) Az iparbiztonsági hatóság a 25. § (1) bekezdése szerinti végleges határozatát a veszélyeztetett települések polgármestereivel, az üzem telephelye szerint illetékes környezetvédelmi, valamint természetvédelmi hatósággal, a fővárosban a főpolgármesterrel, valamint a veszélyes anyagokkal foglalkozó üzem telephelye szerint illetékes helyi, megyei védelmi bizottság elnökével közli.
 
 (2) Az iparbiztonsági hatóság a veszélyes tevékenység végzésére vonatkozó határozatának kiadását követően a veszélyes tevékenységet végzőkről és a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyekről tájékoztatja a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes megyei (budapesti) rendőr-főkapitányságot, az egészségügyi államigazgatási szervet, a környezetvédelmi hatóságot, valamint az állami mentőszolgálatot.
 
@@ -544,7 +544,7 @@ esetén.
 
 (7) A bírság egy eljárásban ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
 
-(8) A bírság megfizetése nem mentesít a büntetőjogi, illetve a polgári jogi felelősség, valamint az elmulasztott kötelezettség teljesítése alól. A jogerősen kiszabott és be nem fizetett bírság adók módjára behajtandó köztartozásnak minősül.
+(8) A bírság megfizetése nem mentesít a büntetőjogi, illetve a polgári jogi felelősség, valamint az elmulasztott kötelezettség teljesítése alól.
 
 (9) A katasztrófavédelmi bírság a központi költségvetés központosított bevételét képezi.
 
@@ -567,7 +567,7 @@ esetén.
 
 (3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet az iparbiztonsági hatóság értékeli, és dönt a katasztrófavédelmi engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
 
-(3a) A küszöbérték alatti üzemek elsőfokú engedélyezési eljárásának ügyintézési határideje és a másodfokú eljárás ügyintézési határideje 45 nap.
+(3a)
 
 (4) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a súlyos káresemény elhárítási tervvel kapcsolatos hiánypótlási felhívásnak vagy a súlyos káresemény elhárítási tervben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig az iparbiztonsági hatóság a 35. §-ban meghatározott szankciókat alkalmazhatja.
 
@@ -1102,7 +1102,17 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 
 (3) Az állam nem természeti katasztrófa esetén annak okozójától, illetve előidézőjétől a védekezés és a helyreállítás költségeinek megtérítését a polgári jog általános szabályai szerint követelheti.
 
-#### 79. §
+### VII/A. Fejezet — A HATÓSÁGI ELJÁRÁSOKKAL KAPCSOLATOS ADATKEZELÉS
+
+79. § (1) A hivatásos katasztrófavédelmi szerv az iparbiztonsági, a veszélyes áruk szállításának ellenőrzésével kapcsolatos, továbbá a külön jogszabály alapján hatáskörébe utalt hatósági eljárások során és az eljárások végleges lezárását követően a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a jogerős döntésével összefüggő jogorvoslat, az ügykövetés, kapcsolattartás, valamint a döntés-felülvizsgálat céljából az alábbi személyes adatokat kezelheti:
+
+- a) az ügyfél neve, lakcíme, elektronikus levélcíme, telefonszáma,
+- b) az ügyfél adóazonosító jele vagy adószáma,
+- c) a nem természetes személy ügyfél természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának neve, lakcíme, elektronikus levélcíme, telefonszáma,
+- d) a természetes személy ügyfél természetes személy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma, valamint
+- e) az üggyel érintett ingatlan tulajdonosának természetes személyazonosító adatai.
+
+(2) Az (1) bekezdés alapján kezelt adat – ha törvény eltérően nem rendelkezik – más szerv vagy személy részére nem továbbítható.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1121,7 +1131,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 - i) a védekezésben részt vevők költségei megtérítésének szabályait,
 - j)
 - k) a küszöbérték alatti üzemek körét, katasztrófavédelmi hatósági felügyeleti rendjét és az üzemeltetői kötelezettségeket,
-- l) az e törvény IV. fejezetének hatálya alá tartozó üzemekkel és azok veszélyes tevékenységével összefüggésben alkalmazható bírságok rendszerét és részletes szabályait,
+- l) a IV. Fejezet hatálya alá tartozó üzemekkel és azok veszélyes tevékenységével összefüggésben folytatott hatósági eljárások kiegészítő szabályait, az alkalmazható bírságok rendszerét és részletes szabályait,
 - m) a katasztrófavédelmi szabályzat részletes szabályait, ezen belül
   - ma) a települések katasztrófavédelmi besorolásának szabályait és a védelmi követelményeket,
   - mb) a veszélyelhárítási tervezés tartalmi és formai követelményeit,
@@ -1135,6 +1145,7 @@ fedezetét évente a költségvetésről szóló törvény a katasztrófák elle
 - o) a veszélyes anyagokkal foglalkozó üzemekre vonatkozó hatósági koordináció szabályait,
 - p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatok, illetve termékek, továbbá az ingatlan-nyilvántartási adatok (jogok, tények) körét, valamint ezek szolgáltatásának részletes szabályait,
 - q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
+- r) a személyes polgári védelmi kötelezettség és a gazdasági-anyagi szolgáltatási kötelezettség teljesítésével kapcsolatos jogorvoslati eljárás kiegészítő szabályait.
 
 81. § Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben szabályozza:
 

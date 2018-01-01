@@ -104,6 +104,8 @@ terület lehet.
 
 (2) A hegybíró megfelelő határidő tűzésével felszólítja a telepítőt a telepítési engedély módosításának kezdeményezésére, ha a borszőlőültetvényt a telepítési engedélyben foglaltaktól eltérően telepítették.
 
+(3) A telepítések ellenőrzése tekintetében a Hegyközségek Nemzeti Tanácsának főtitkára az eljáró hegybíró illetékességi területét az általános illetékességi területtől eltérően is megállapíthatja.
+
 9. § Európai borszőlőfajta saját gyökerű szaporítóanyagával való telepítés és pótlás kizárólag filoxérának ellenálló homoktalajra engedélyezhető. A talaj e tulajdonságát laboratóriumi vizsgálattal kell igazolni.
 
 10. § (1)
@@ -416,12 +418,12 @@ terület lehet.
 
 48. § (1) Ha a vizsgált borászati termék
 
-- a) a jogszabályokban meghatározott, illetőleg a jelölésében foglalt jellemzőket nem elégíti ki,
+- a) a jogszabályokban meghatározott, illetve a jelölésében foglalt jellemzőket nem elégíti ki,
 - b) a jogszabályokban nem megengedett anyagokat vagy megengedett anyagokat nem megengedett mértékben tartalmaz,
 - c) a származási bizonyítványban vagy a forgalomba hozatali engedélyben foglaltaktól eltérően jelölt,
 - d) a rá vonatkozó termékleírásnak nem felel meg,
 
-és a jogszabálysértést az ellenőrző hatóság megállapítja, a borászati termék előállítóját, kereskedelmi ellenőrzés esetén a kereskedelmi egységet, bizonyítottság esetén a hiba okozóját a hatóság a vizsgálat költségeinek megtérítésére kötelezi. A határozatban megállapított költségek adók módjára behajtandó köztartozásnak minősülnek. A borászati hatóság az állami adóhatóságot a 60 napon túli tartozásokról értesíti.
+és a jogszabálysértést az ellenőrző hatóság megállapítja, a borászati termék előállítóját, kereskedelmi ellenőrzés esetén a kereskedelmi egységet, bizonyítottság esetén a hiba okozóját a hatóság a vizsgálat költségeinek megtérítésére kötelezi.
 
 (2) A borászati hatóság az ellenőrzés eredményeként, a kötelezettségszegés súlyától függően
 
@@ -439,7 +441,7 @@ terület lehet.
 
 (6) Amennyiben a borászati hatóság a kereskedelmi egység ellenőrzése során két éven belül ismételten jogsértést állapít meg, kezdeményezi a kereskedelmi egység működési engedélyének visszavonását.
 
-(7) A (2) bekezdés a)–b) pontja szerinti határozatok fellebbezésre tekintet nélkül azonnal végrehajthatóak.
+(7) A (2) bekezdés a)–b) pontja szerinti határozatok azonnal végrehajthatóak.
 
 (8) A súlyos fogyasztói érdeksérelem megelőzése, illetve csökkentése érdekében a (2) bekezdés szerinti intézkedést tartalmazó határozatot – az ügyfél telephelye szerinti megyei napilapban és legalább egy országos napilapban is – nyilvánosan közzé kell tenni. A közzététel költsége egyéb eljárási költségnek minősül.
 
@@ -475,9 +477,9 @@ terület lehet.
 
 53–55. §
 
-### VIII. Fejezet
+### VIII. Fejezet — SZŐLŐTERMESZTÉSSEL ÉS BORTERMELÉSSEL KAPCSOLATOS ELJÁRÁSI SZABÁLYOK
 
-56. §
+56. § Az e törvény hatálya alá tartozó eljárásokban hozott döntések üzleti titkot tartalmazó rendelkezései nem hozhatók nyilvánosságra, azokat kizárólag a hatóság ismerheti meg.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -155,21 +155,19 @@ volt hadiárva, volt hadigyámolt és a volt hadigondozott családtag részére 
 
 11. § (1) A hadirokkantat havi rendszeres járadék (pénzellátás) illeti meg.
 
-(2) A járadék havonkénti összege az öregségi nyugdíj mindenkori legkisebb összegének %-ban kifejezett mértéke.
+(2) A járadék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-I. járadékosztályba sorolt hadirokkant esetén 210%,
+- a) az I. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 262%-ának,
+- b) a II. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 243%-ának,
+- c) a III. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 225%-ának,
+- d) a IV. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 194%-ának, és
+- e) az V. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 138%-ának
 
-II. járadékosztályba sorolt hadirokkant esetén 195%,
-
-III. járadékosztályba sorolt hadirokkant esetén 180%,
-
-IV. járadékosztályba sorolt hadirokkant esetén 155%,
-
-V. járadékosztályba sorolt hadirokkant esetén 110%.
+megfelelő összeg.
 
 (3) Ha a hadirokkant a hadigondozotti pénzellátáson kívül (hadirokkant-járadék) nem rendelkezik egyéb jövedelemmel, akkor a megfelelő járadékosztály szerinti pénzellátás havi összegét növelni kell az öregségi nyugdíj mindenkori legkisebb összegével.
 
-(4) A járadékban részesülő hadirokkantat a saját háztartásában nevelt, valamint egészségi állapota miatt ápolást, gondozást nyújtó intézményben vagy rehabilitációs intézményben elhelyezett hadigyámolt gyermeke után a 4. §-ban meghatározott feltételek fennállása esetén nevelési pótlék illeti meg, feltéve, hogy a gyermeket a hadirokkant háztartásából helyezték az említett intézmények valamelyikébe. A nevelési pótlék mértéke gyermekenként és havonta az öregségi nyugdíj mindenkori legkisebb összegének 50%-a.
+(4) A járadékban részesülő hadirokkantat a saját háztartásában nevelt, valamint egészségi állapota miatt ápolást, gondozást nyújtó intézményben vagy rehabilitációs intézményben elhelyezett hadigyámolt gyermeke után a 4. §-ban meghatározott feltételek fennállása esetén nevelési pótlék illeti meg, feltéve, hogy a gyermeket a hadirokkant háztartásából helyezték az említett intézmények valamelyikébe. A nevelési pótlék mértéke – figyelemmel a 26/A. §-ban foglaltakra – gyermekenként és havonta az öregségi nyugdíj mindenkori legkisebb összegének 50%-a.
 
 (5) A jogerősen megállapított hadirokkant-járadék összege abban az esetben sem csökkenthető, ha a hadirokkant a hadieredetű fogyatkozás felülvizsgálata eredményeként alacsonyabb járadékosztályba kerül besorolásra.
 
@@ -177,23 +175,32 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 12. § (1) Azt a hadirokkantat, aki orvosi szakvélemény alapján mások rendszeres ápolására, gondozására szorul, a járadékon felül havonként pótlék is megilleti.
 
-(2) A pótlék mértéke
+(2) A pótlék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-- a) a I. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 60%-a,
-- b) a II. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 54%-a,
-- c) a III. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 48%-a,
-- d) a IV. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 38%-a,
-- e) a V. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összegének 28%-a.
+- a) az I. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 120%-ának,
+- b) a II. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 108%-ának,
+- c) a III. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 96%-ának,
+- d) a IV. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 76%-ának, és
+- e) az V. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 56%-ának
+
+megfelelő összeg.
 
 ### Hadiözvegyi járadék
 
-13. § (1) A hadiözvegyet havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 112,5%-a.
+13. § (1) A hadiözvegyet havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 140%-ának megfelelő összeg.
 
 (2) Ha a hadiözvegy a hadigondozotti pénzellátáson kívül (hadiözvegyi járadék) nem rendelkezik egyéb jövedelemmel, akkor pénzellátását a 11. § (3) bekezdésében meghatározott módon növelni kell.
 
 ### Hadiárva járadéka
 
-14. § A hadiárvát a 4. §-ban meghatározott feltételek esetén egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+14. § (1) A hadiárvát a 4. §-ban meghatározott feltételek fennállása esetén egyéb ellátásától függetlenül havi rendszeres járadék illeti meg.
+
+(2) A járadék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
+
+- a) a 4. § a) és b) pontja szerinti esetben az öregségi nyugdíj mindenkori legkisebb összege 30%-ának,
+- b) a 4. § c) pontja szerinti esetben az öregségi nyugdíj mindenkori legkisebb összege 60%-ának
+
+megfelelő összeg.
 
 ### Volt hadiárva járadéka
 
@@ -201,14 +208,14 @@ V. járadékosztályba sorolt hadirokkant esetén 110%.
 
 - a) a pénzellátását a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6. § (1) bekezdés h) és i) pontja alapján megszüntették,
 - b) a pénzellátását politikai okból megszüntették vagy szüneteltették,
-- c) a pénzellátás iránti kérelmét politikai okból elutasították vagy
-- d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette
+- c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
+- d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 30%-ának megfelelő összeg.
 
 ### Hadigondozott családtag járadéka
 
-15. § (1) A hadigondozott családtagot havi rendszeres járadék illeti meg, amelynek összege az egyéb ellátástól függetlenül az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+15. § (1) A hadigondozott családtagot egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 30%-ának megfelelő összeg.
 
 (2) Több jogosult esetén a járadék mindegyik jogosultat külön-külön megilleti.
 
@@ -220,16 +227,16 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 
 - a) a pénzellátását a hadirokkantak és más hadigondozottak ellátásáról szóló 1933. évi VII. törvénycikk 6. § (1) bekezdés h) és i) pontja alapján megszüntették,
 - b) a pénzellátását politikai okból megszüntették vagy szüneteltették,
-- c) a pénzellátás iránti kérelmét politikai okból elutasították vagy
-- d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette
+- c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
+- d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek összege az öregségi nyugdíj mindenkori legkisebb összegének 30%-a.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 30%-ának megfelelő összeg.
 
 ### Temetési hozzájárulás
 
 16. § (1) A járadékban részesült hadirokkant halála esetén — ha a temetés nem közköltségen történt — temetési hozzájárulást kell folyósítani annak, aki igazolja, hogy a temetés költségeit fedezte.
 
-(2) A temetési hozzájárulás összege a IV. járadékosztályba [11. § (2) bekezdés] sorolt hadirokkantat megillető járadék 200%-a.
+(2) A temetési hozzájárulás összege az öregségi nyugdíj mindenkori legkisebb összege 500%-ának megfelelő összeg.
 
 ### Térítésmentes gyógyászati ellátás
 
@@ -312,7 +319,7 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 
 26. § (1) A hadigondozás iránti kérelem határidő-korlátozás nélkül bármikor előterjeszthető.
 
-(2) A hadigondozotti ügyekben első- és másodfokon a Kormány által rendeletben, hadigondozási hatóságként kijelölt szerv jár el.
+(2) A hadigondozotti ügyben elsőfokon hozott határozattal szemben – a Kormány által kijelölt hatósághoz – fellebbezésnek van helye.
 
 (2a)
 
@@ -336,11 +343,15 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 
 (6) Az e törvény hatálybalépéséig megállapított hadigondozotti minősítések — a jogosultságra kiható változás esetét kivéve — érvényben maradnak, azok felülvizsgálatát csak a jogosult kérésére kell elvégezni.
 
-(7) A másodfokú hadigondozási hatóság határozatát a bíróság megváltoztathatja.
+(7) A hadigondozási hatóság határozatát a bíróság megváltoztathatja.
 
-(8) Az eljáró hadigondozási hatóság az egyösszegű térítésre, a hadigondozási járadékra és az egyéb pénzellátásokra való jogosultságot jogerősen megállapító, módosító, megszüntető határozatát megküldi a nyugdíjfolyósító szervnek, amely intézkedik az egyösszegű térítés, illetve a pénzellátás folyósítása iránt.
+(8) Az eljáró hadigondozási hatóság az egyösszegű térítésre, a hadigondozási járadékra és az egyéb pénzellátásokra való jogosultságot véglegesen megállapító, módosító, megszüntető határozatát megküldi a nyugdíjfolyósító szervnek, amely intézkedik az egyösszegű térítés, illetve a pénzellátás folyósítása iránt.
 
 (9) A hadigondozotti járadékot, valamint a temetési hozzájárulást a nyugdíjfolyósító szerv az esedékesség hónapjában a nyugdíjjal egyidejűleg — ennek hiányában önállóan — folyósítja, de a nyugdíjtól elkülönítetten kezeli. A járadéknak a nyugdíjjal kapcsolatos értékhatárokra kihatása nincs.
+
+### A hadigondozottak rendszeres pénzbeli ellátásainak emelése
+
+26/A. § A 11. § (2) és (4) bekezdése, a 12. § (2) bekezdése, a 13. § (1) bekezdése, a 14. § (2) bekezdése, a 14/A. §, a 15. § (1) bekezdése, valamint a 15/A. § szerinti rendszeres pénzbeli ellátások összegét a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. §-ában foglaltak szerint kell emelni.
 
 ### Adó- és illetékmentesség
 
@@ -371,4 +382,6 @@ részletes szabályait rendeletben állapítsa meg.
 
 (3) E törvénynek a hadirokkantak járadékosztályba sorolására vonatkozó, 2008. január 1-jétől hatályos rendelkezéseit a 2007. december 31-ét követően benyújtott igénybejelentés – ideértve az állapotrosszabbodás miatti igénybejelentést is – esetén kell alkalmazni.
 
-#### 30–32. §
+30. § E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2016. évi CLXXXIV. törvénnyel megállapított 11. § (2) és (4) bekezdését, 12. § (2) bekezdését, 13. § (1) bekezdését, 14. § (2) bekezdését, 14/A. §-át, 15. § (1) bekezdését, valamint a 15/A. §-át a 2018. január 1-jét megelőzően megállapított ellátásokra is alkalmazni kell.
+
+#### 31–32. §

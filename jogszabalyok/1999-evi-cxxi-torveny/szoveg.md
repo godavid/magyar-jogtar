@@ -92,7 +92,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 és törlik a tagokról vezetett nyilvántartásból.
 
-(5) Nem lehet a gazdasági kamara tagja a kizárásról rendelkező határozat, illetve bírósági felülvizsgálat esetén az ítélet jogerőre emelkedésétől számított egy évig az a gazdálkodó szervezet, amelynek tagsága a (4) bekezdés c) pontjában meghatározott okból szűnt meg.
+(5) Nem lehet a gazdasági kamara tagja a kizárásról rendelkező határozat, illetve közigazgatási per esetén az ítélet jogerőre emelkedésétől számított egy évig az a gazdálkodó szervezet, amelynek tagsága a (4) bekezdés c) pontjában meghatározott okból szűnt meg.
 
 ### A gazdálkodó szervezetek kamarai nyilvántartása
 
@@ -137,7 +137,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
   - cd) 180 napon keresztül folyamatosan fennálló, az állami adóhatóságnál nyilvántartott túlfizetéssel csökkentett adótartozása összességében számítva a 100 millió forintot meghaladja;
 - d) a gazdálkodó szervezetet a közbeszerzési eljárásban való részvételtől a Közbeszerzési Döntőbizottság jogerősen eltiltotta;
 - e) a gazdálkodó szervezettel szemben jogerősen megállapították a rendezett munkaügyi kapcsolatok megsértését;
-- f) a gazdálkodó szervezetet jogerősen jelentős összegre elmarasztalták
+- f) a gazdálkodó szervezetet véglegessé vált határozattal jelentős összegre elmarasztalták
   - fa) versenyfelügyeleti eljárásban,
   - fb) a fogyasztóvédelmi hatóság eljárásában;
 - g) a gazdálkodó szervezet a békéltető testület eljárásában a tanács ajánlásának nem tett eleget.
@@ -188,7 +188,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - i) működtetik a fogyasztóvédelemről szóló 1997. évi CLV. törvény alapján működő békéltető testületeket;
 - j) közreműködnek a gazdálkodó szervezetek nemzetközi gazdasági kapcsolataival összefüggő minőségvédelmi és szállítmányozási kárügyek intézésében.
 
-(2) Ha a bíróság vagy a Gazdasági Versenyhivatal jogerős határozatával megállapította a tisztességtelen piaci magatartás tilalmáról szóló törvényben meghatározott, a tisztességtelen verseny tilalmára vonatkozó rendelkezések megsértését, a gazdasági kamara a bíróság, illetve a Gazdasági Versenyhivatal határozatát nyilvánosságra hozhatja.
+(2) Ha a bíróság vagy a Gazdasági Versenyhivatal jogerős vagy végleges határozatával megállapította a tisztességtelen piaci magatartás tilalmáról szóló törvényben meghatározott, a tisztességtelen verseny tilalmára vonatkozó rendelkezések megsértését, a gazdasági kamara a bíróság, illetve a Gazdasági Versenyhivatal határozatát nyilvánosságra hozhatja.
 
 (3) A gazdasági kamarák (1) bekezdés h) pontja szerinti kezdeményezése alapján a cégbíróság, illetve a járási hivatal köteles a megfelelő eljárást lefolytatni és annak eredményéről a kamarát is írásban tájékoztatni.)
 
@@ -222,7 +222,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - i) kidolgozza a kamarák részére átadott közfeladatok egységes eljárás keretében történő ellátásához szükséges önkormányzati szabályzatot;
 - j) közreműködik a külkereskedelem fejlesztésében, részt vesz a külkereskedelem fellendítését elősegítő gazdálkodó szervezetek rendszerének kialakításában és működtetésében.
 
-(2) Az országos kamarák Állandó Választottbíróságot működtethetnek. A Magyar Kereskedelmi és Iparkamara biztosítja a nemzetközi kereskedelmi ügyekben is eljáró Állandó Választottbíróság működési feltételeit, megválasztja és visszahívja a választottbírókat.
+(2) A Magyar Kereskedelmi és Iparkamara állandó választottbíróságot működtet.
 
 (3) Az országos kamara alapszabálya az országos kamara számára további feladatokat állapíthat meg.
 
@@ -316,7 +316,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - b) a tagdíjra vonatkozó általános szabályok megállapítása, a gazdasági kamarák pénzügyi forrásaiból az országos gazdasági kamaráknak járó rész meghatározása;
 - c) a kamara elnökének (alelnökeinek), az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak a megválasztása és visszahívása;
 - d) az adatszolgáltatási kötelezettséggel járó statisztikai adatgyűjtés kezdeményezése az adatgyűjtés tárgya szerint illetékes szervnél;
-- e) az Állandó Választottbíróság választottbíróinak megválasztása és visszahívása;
+- e)
 - f) a gazdasági kamarák által az országos gazdasági kamara kizárólagos hatáskörébe utalt egyéb feladat.
 
 (3) Az országos gazdasági kamara küldöttgyűlésének döntéshozatali rendjére a 18. § rendelkezései az irányadók.
@@ -423,16 +423,9 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - a) alapszabálya és más önkormányzati szabályzatai, illetve azok módosításai megfelelnek-e a jogszabályoknak;
 - b) működése, határozatai nem sértik-e a jogszabályokat, az alapszabályt vagy az egyéb önkormányzati szabályzatokat.
 
-(3) Ha a gazdasági kamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
+(3)–(4)
 
-- a) hatályon kívül helyezi a kamara törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
-- b) a működés törvényességének helyreállítása érdekében összehívja a kamara küldöttgyűlését;
-- c) ismételt vagy súlyos törvénysértés esetén a kamarának vagy a kamara egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára – felügyelőbiztost jelöl ki. A bíróság meghatározza a felügyelőbiztos feladatát, a törvényes állapot helyreállítására határidőt állapít meg, szükség szerint új felügyelőbiztost nevezhet ki a korábbi felügyelőbiztos felmentése mellett. A felügyelőbiztos tevékenységével okozott kárért a polgári jog szabályai szerint felel;
-- d) amennyiben a törvényes működés másként nem biztosítható, a kamarát – az országos gazdasági kamara kivételével – feloszlatja.
-
-(4) A felügyelőbiztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a gazdasági kamara küldöttgyűlését. Amennyiben a bíróság az elnök vagy az elnökség működését függesztette fel, a felügyelőbiztos a halaszthatatlan ügyekben intézkedik az elnök, illetve az elnökség jogkörében.
-
-(5) A bíróság az ügyészség keresete alapján megállapítja a kamara megszűnését, ha tagjainak száma az alapszabályban meghatározott legkisebb létszám alá csökken.
+(5) A közigazgatási ügyben eljáró bíróság az ügyészség keresete alapján megállapítja a kamara megszűnését, ha tagjainak száma az alapszabályban meghatározott legkisebb létszám alá csökken.
 
 (6) A kamara feloszlatása vagy megszűnésének megállapítása esetén a nyilvántartásból való törléséről rendelkező bírósági határozat jogerőre emelkedésének napjával szűnik meg. A megszűntnek nyilvánítás esetén a megszűnő kamara általános jogutódát a bíróság jelöli ki.
 
@@ -466,7 +459,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (4) A választási névjegyzékkel és a tagjegyzékkel kapcsolatos kifogást a közszemlére tétel időtartama alatt írásban kell a gazdasági kamara alapszabályban kijelölt testületi szervével közölni, amely az alaptalannak tartott kifogást legkésőbb a beérkezést követő 3 napon belül átteszi a megyeszékhelyen működő járásbírósághoz, Budapesten a Pesti Központi Kerületi Bírósághoz.
 
-(5) A bíróság a kifogásról a beérkezésétől számított 3 napon belül, nemperes eljárásban határoz. Ha a bíróság a kifogást alaposnak tartja, elrendeli a választási névjegyzék vagy a tagjegyzék kiigazítását, ellenkező esetben a kifogást elutasítja. A bíróság határozata ellen további jogorvoslatnak nincs helye.
+(5) A bíróság a kifogásról a beérkezésétől számított 3 napon belül, polgári nemperes eljárásban határoz. Ha a bíróság a kifogást alaposnak tartja, elrendeli a választási névjegyzék vagy a tagjegyzék kiigazítását, ellenkező esetben a kifogást elutasítja. A bíróság határozata ellen további jogorvoslatnak nincs helye.
 
 (6) A bíróság a határozatát annak meghozatala napján közli a gazdasági kamara alapszabályban kijelölt testületi szervével és azzal a gazdálkodó szervezettel, amely a kifogást emelte.
 
@@ -513,17 +506,17 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (3) A gazdasági kamara olyan gazdasági társaságnak lehet tagja, illetve olyan társaságban szerezhet részesedést, amelyben felelőssége vagyoni hozzájárulásának mértékét nem haladja meg. A gazdasági kamara és a (2) bekezdés szerinti társasága közfeladatai ellátását veszélyeztető mértékű hitelt nem vehet fel, váltót, illetve más hitelviszonyt megtestesítő értékpapírt nem, bocsáthat ki, az államháztartás alrendszereitől kapott támogatást hitel fedezetéül, hitel törlesztésére nem használhatja fel, illetve ideiglenesen felszabaduló szabad pénzeszközeit csak állami garanciavállalás mellett kibocsátott értékpapírba fektetheti.
 
-### A gazdasági kamara önkormányzati határozatainak bírósági felülvizsgálata
+### A gazdasági kamara önkormányzati határozatainak megtámadása
 
-36. § (1) A gazdasági kamara tagja kérheti a bíróságtól a kamara valamely testületi szerve által hozott olyan határozat felülvizsgálatát, amely e törvény rendelkezéseibe, más jogszabályba, a kamara alapszabályába vagy más önkormányzati szabályzatába ütközik. Az országos gazdasági kamara testületi szerve által hozott jogsértő határozattal szemben a felülvizsgálat kezdeményezésnek joga a gazdasági kamarát illeti meg.
+36. § (1) Az országos gazdasági kamara testületi szerve által hozott olyan határozatot, amely jogszabályba, a kamara alapszabályába vagy más önkormányzati szabályzatába ütközik, a gazdasági kamara támadhatja meg.
 
 (2) Perindítás előtt a gazdasági kamara tagja, illetve a gazdasági kamara köteles a jogsértést a jogsértő határozatról történt tudomásszerzéstől számított harminc napon, de legkésőbb a határozat meghozatalától számított hat hónapon belül az ellenőrző bizottságnak bejelenteni. Ez utóbbi határidő elmulasztása jogvesztéssel jár.
 
 (3) Az ellenőrző bizottság a bejelentést követő harminc napon belül köteles írásban állást foglalni.
 
-(4) A pert a gazdasági kamara tagjának a gazdasági kamara ellen, illetve a gazdasági kamarának az országos kamara ellen az ellenőrző bizottság állásfoglalásától, vagy a (3) bekezdés szerinti határidő eredménytelen elteltétől számított harminc napon belül kell megindítania. A perindításnak nincs halasztó hatálya, a bíróság azonban a határozat végrehajtását felfüggesztheti.
+(4) A közigazgatási pert a gazdasági kamara tagjának a gazdasági kamara ellen, illetve a gazdasági kamarának az országos kamara ellen az ellenőrző bizottság állásfoglalásától, vagy a (3) bekezdés szerinti határidő eredménytelen elteltétől számított harminc napon belül kell megindítania.
 
-(5) A (4) bekezdésben megállapított határidő elmulasztása esetén igazolásnak nincs helye. A bíróság eljárására egyebekben a polgári perrendtartástól szóló törvény általános szabályait kell alkalmazni.
+(5) A (4) bekezdésben megállapított határidő elmulasztása esetén igazolásnak nincs helye.
 
 ### VI. Fejezet — A GAZDASÁGI ÉRDEKKÉPVISELETI JOGOK GYAKORLÁSÁRA VONATKOZÓ SZABÁLYOK
 
@@ -563,7 +556,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 40–41. §
 
-42. § A területi gazdasági kamarák által 2000. október 31. napjáig terjedő időszakra megállapított és meg nem fizetett tárgyévi tagdíj köztartozás, amelyet a gazdasági kamara – az adózás rendjéről szóló törvény rendelkezéseinek megfelelő alkalmazásával – adók módjára hajt be a tagdíj megállapítása tárgyában hozott, a végrehajtás alapját képező fizetési kötelezettséget megállapító jogerős határozat alapján. A kézműves kamarákat megillető meg nem fizetett tagdíjtartozás behajtásáról 2000. március 31. napjától a kereskedelmi és iparkamarák gondoskodnak.
+42. § A területi gazdasági kamarák által 2000. október 31. napjáig terjedő időszakra megállapított és meg nem fizetett tárgyévi tagdíj köztartozás, amelyet a gazdasági kamara – az adózás rendjéről szóló törvény rendelkezéseinek megfelelő alkalmazásával – adók módjára hajt be a tagdíj megállapítása tárgyában hozott, a végrehajtás alapját képező fizetési kötelezettséget megállapító végleges határozat alapján. A kézműves kamarákat megillető meg nem fizetett tagdíjtartozás behajtásáról 2000. március 31. napjától a kereskedelmi és iparkamarák gondoskodnak.
 
 ### IX. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -596,7 +589,7 @@ kamarai feladatokkal összefüggő tevékenység folytatására. A névhasznála
 
 46. § Ahol jogszabály területi kereskedelmi és iparkamarát, vagy területi kézműves kamarát, illetve Magyar Kereskedelmi és Iparkamarát, vagy Magyar Kézműves Kamarát említ, azon 2000. március 31. napjától a kereskedelmi és iparkamarát, illetve Magyar Kereskedelmi és Iparkamarát kell érteni.
 
-47. § A Magyar Kereskedelmi és Iparkamara mellett működő, nemzetközi kereskedelmi ügyekben is eljáró Állandó Választottbíróság – változatlan szervezeti és eljárási rendben – a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróság néven működik tovább. Azokban az ügyekben, amelyekben a szerződő felek a szerződésben a Magyar Kézműves Kamara mellett működő Választottbíróság hatáskörét kötötték ki, e törvény hatálybalépését követően a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróság jár el. A törvény hatálybalépésekor a Magyar Kézműves Kamara mellett működő Választottbíróságnál folyamatban lévő ügyeket a megindításuk időpontjában hatályos eljárási rend szerint kell befejezni.
+47. §
 
 48. § (1) A gazdasági kamara a tulajdonában lévő ingatlanok, gépjárművek, üzletrészek tulajdonjogát 2000. október 31. napjáig nem ruházhatja át, illetve ezeket nem terhelheti meg, közhasznú társasága ilyen ügyleteihez nem járulhat hozzá. Közhasznú társaságot 2000. október 31. napjáig nem alapíthat, ilyen társaságban részesedést nem szerezhet, a külön törvényben meghatározott kötelező eseteken kívül törzstőkét nem emelhet, és a törzstőke emeléséhez nem járulhat hozzá, ha abban többségi tulajdonnal vagy többségi szavazati joggal rendelkezik.
 

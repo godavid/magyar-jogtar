@@ -92,7 +92,7 @@ jegyezhet be.
 - b) dönt a névváltoztatási kérelemről,
 - c) eljár a 14. § (2) bekezdésében meghatározott esetben,
 - d) eljár a 89. § (4) bekezdésében meghatározott esetben,
-- e) végzi a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet 38. § (1a) bekezdésében és a 41/A. § (3) bekezdésében meghatározott feladatokat,
+- e)
 - f)
 - g) anyakönyvezi az ismeretlen holttestet,
 - h) dönt a házasságkötéshez, bejegyzett élettársi kapcsolat létesítéséhez szükséges külföldi okirat elfogadhatóságáról,
@@ -193,21 +193,11 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (4) Ha a bemutatott okirat adatainak helyessége iránt alapos kétség merül fel, az ügyfél adatait az anyakönyvben ellenőrizni kell. Ha a bemutatott okiratokban valamely adat eltér, az anyakönyvi bejegyzés kijavításáig az anyakönyvi eljárásban az anyakönyvben szereplő adat az irányadó.
 
-14/A. § (1) Ha a bejegyzés alapja külföldi bíróság vagy más hatóság házassági ügyben vagy bejegyzett élettársi kapcsolat ügyében hozott határozata, az anyakönyvi szerv a határozat elfogadhatóságáról az igazságügyért felelős miniszter véleményét kéri.
+14/A. § (1) Az anyakönyvvezető, az anyakönyvi szerv és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv, amennyiben az anyakönyvi eseménnyel összefüggésben külföldi jog alkalmazása merül fel, továbbá ha a bejegyzés alapja külföldi bíróság vagy más külföldi hatóság döntése, az igazságügyért felelős miniszter véleményét kérheti.
 
-(2) Ha a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv jár el és
+(2) Az igazságügyért felelős miniszter a véleményt a megkeresést követő harminc napon belül adja meg, amelybe a külföldi hatóság megkeresése esetén az anyakönyvi eljárás felfüggesztésének időtartama nem számít bele.
 
-- a) a bejegyzés alapja külföldi bíróság vagy más hatóság házassági ügyben vagy bejegyzett élettársi kapcsolat ügyében hozott döntése vagy
-- b) nem állapítható meg, hogy a külföldön megkötött házasság vagy bejegyzett élettársi kapcsolat létrejött és érvényes,
-
-a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügyért felelős miniszter véleményét kéri.
-
-(3) Nem kell az igazságügyért felelős miniszter véleményét kérni, ha az anyakönyvi bejegyzés teljesítéséről való döntésre a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet az irányadó.
-
-(4) Az anyakönyvi szerv az igazságügyért felelős miniszter véleményét kéri, ha
-
-- a) a kiskorú magyar állampolgárt magyar állampolgár fogadta örökbe külföldön, és az anyakönyvi bejegyzés iránti kérelem benyújtásakor az örökbefogadott gyermek már nagykorú, és a bejegyzést ő maga kéri,
-- b) a kiskorú magyar állampolgár nem magyar állampolgár általi örökbefogadásának anyakönyvbe történő bejegyzését a már nagykorú örökbefogadott maga kéri.
+(3) Nem kérhető az igazságügyért felelős miniszter véleménye, ha az anyakönyvi bejegyzés teljesítéséről való döntésre a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet az irányadó.
 
 ### Elektronikus úton történő kapcsolattartás
 
@@ -229,9 +219,7 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 (6) Ha valakinek több nem magyar állampolgársága van, ezek közül csak az az állampolgársága anyakönyvezhető, amely állam területén a lakóhelye van, ha több állam területén van lakóhelye, az az állampolgárság, amely állammal a kapcsolata a legszorosabb.
 
-### Az eljárás felfüggesztése
-
-16/A. § Ha az anyakönyvi bejegyzés teljesítése, illetve a névváltoztatási eljárásban hozott döntés olyan, különösen az adatok megállapítása, elektronikus anyakönyvben történő rögzítése, családi jogállás rendezése, szülői felügyeleti jog megvonása, korlátozása, magyar állampolgárság fennállásának megállapítása, külföldön történt anyakönyvi események hazai anyakönyvezése vonatkozásában felmerülő kérdés előzetes elbírálásától függ – amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el – a hatóság az eljárást felfüggeszti.
+#### 16/A. §
 
 ### II. Fejezet — A HÁZASSÁGKÖTÉS
 
@@ -301,9 +289,9 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 ### Nem magyar állampolgár házasságkötése
 
-23. § (1) A nem magyar állampolgár részére a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet (a továbbiakban: Nmjt.) 38. § (1) bekezdése szerinti igazolás alól adott felmentés a kiállításának napjától számított hat hónapig érvényes.
+23. § (1) Ha nem magyar állampolgár kíván Magyarországon házasságot kötni, igazolnia kell, hogy a házasságkötésnek személyes joga szerint nincs akadálya. Az igazolás alól az anyakönyvi szerv indokolt esetben felmentést adhat, amely a kiállításának napjától számított hat hónapig érvényes. A felmentés megadása iránti kérelmet az együttesen személyesen megjelenő házasulók a házasság megkötésére jogosult anyakönyvvezetőnél nyújthatják be.
 
-(2) A felmentés megadása iránti kérelmet az együttesen személyesen megjelenő házasulók a házasság megkötésére jogosult anyakönyvvezetőnél nyújthatják be.
+(2) Nem kell az (1) bekezdésben foglaltakat igazolni, és az igazolás alól felmentést kérni, ha a házasuló személyes joga szerinti államban ilyen igazolás kiállítására nincs lehetőség. Az anyakönyvi szerv a külpolitikáért felelős miniszter vagy az adott ország külképviseleti hatóságának értesítése alapján honlapján közzéteszi azon államok körét, amelyekben ilyen igazolás kiállítására nincs lehetőség.
 
 (3) Azonos nem magyar állampolgárságú házasulók az állampolgárságuk szerint illetékes, Magyarországra akkreditált külképviseleti hatóságnál is köthetnek házasságot, feltéve, hogy nemzetközi szerződés vagy viszonosság és a külföldi állam joga ezt lehetővé teszi.
 
@@ -392,11 +380,15 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 ### Nem magyar állampolgár bejegyzett élettársi kapcsolatának létesítése
 
-35. § (1) A nem magyar állampolgár részére az Nmjt. 38. § (1) bekezdése szerinti igazolás alól adott felmentés a kiállításának napjától számított hat hónapig érvényes.
+35. § (1) Ha nem magyar állampolgár kíván Magyarországon bejegyzett élettársi kapcsolatot létesíteni, igazolnia kell, hogy a bejegyzett élettársi kapcsolat létesítésének személyes joga szerint nincs akadálya. Az igazolás alól az anyakönyvi szerv indokolt esetben felmentést adhat.
 
-(2) A felmentés megadása iránti kérelmet az együttesen személyesen megjelenő felek a bejegyzett élettársi kapcsolat létrehozására jogosult anyakönyvvezetőnél nyújthatják be.
+(2) A nemzetközi magánjogról szóló 2017. évi XXVIII. törvény (a továbbiakban: Nmjtv.) 37. § (2) bekezdés a) pontja szerinti igazolás alól az anyakönyvi szerv indokolt esetben felmentést adhat.
 
-(3) Azonos nem magyar állampolgárságú felek az állampolgárságuk szerint illetékes, Magyarországra akkreditált külképviseleti hatóságnál is létesíthetnek bejegyzett élettársi kapcsolatot, feltéve, hogy nemzetközi szerződés vagy viszonosság és a külföldi állam joga ezt lehetővé teszi.
+(3) Az (1) és (2) bekezdés szerinti felmentés a kiállításának napjától számított hat hónapig érvényes. A felmentés megadása iránti kérelmet az együttesen személyesen megjelenő felek a bejegyzett élettársi kapcsolat létrehozására jogosult anyakönyvvezetőnél nyújthatják be.
+
+(4) Nem kell az (1) és (2) bekezdésben foglaltakat igazolni, és az igazolás alól felmentést kérni, ha a fél személyes joga szerinti államban ilyen igazolás kiállítására nincs lehetőség. Az anyakönyvi szerv a külpolitikáért felelős miniszter vagy az adott ország külképviseleti hatóságának értesítése alapján honlapján közzéteszi azon államok körét, amelyekben ilyen igazolás kiállítására nincs lehetőség.
+
+(5) Azonos nem magyar állampolgárságú felek az állampolgárságuk szerint illetékes, Magyarországra akkreditált külképviseleti hatóságnál is létesíthetnek bejegyzett élettársi kapcsolatot, feltéve, hogy nemzetközi szerződés vagy viszonosság és a külföldi állam joga ezt lehetővé teszi.
 
 #### 36–38. §
 
@@ -458,9 +450,9 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 (8) Az anyakönyvben és az ennek alapján kiadott okiratokban a családi név az utónevet megelőzi.
 
-(9) Az (1)–(4) bekezdésben meghatározottak nem alkalmazhatók, ha az érintett kérelmére az Nmjt. 10. §-a alapján a születés anyakönyvezése során más állam jogát kell alkalmazni.
+(9) Az (1)–(4) bekezdésben meghatározottak nem alkalmazhatók, ha az Nmjtv. 16. § (1)–(2) és (5) bekezdése alapján a születés anyakönyvezése során más állam jogát kell alkalmazni.
 
-44/A. § (1) Ha az érintett szülők együttes kérelmére az Nmjt. 10. §-a alapján a születés anyakönyvezése során más állam jogát kell alkalmazni, a szülők a születés bejelentésekor kérhetik a 44. § (1)–(3) bekezdésében foglaltaktól való eltérést. Az eltérésre akkor van lehetőség, ha a szülők igazolják a gyermek külföldi állampolgárságát, valamint azt a tényt, hogy az általuk megjelölt családi, illetve utónév e külföldi jognak megfelel.
+44/A. § (1) Ha az érintett szülők együttes kérelmére az Nmjtv. 16. § (2) bekezdése alapján a születés anyakönyvezése során más állam jogát kell alkalmazni, a szülők a születés bejelentésekor kérhetik a 44. § (1)–(3) bekezdésében foglaltaktól való eltérést. Az eltérésre akkor van lehetőség, ha a szülők igazolják a gyermek külföldi állampolgárságát, valamint azt a tényt, hogy az általuk megjelölt családi, illetve utónév e külföldi jognak megfelel.
 
 (2) Amennyiben a szülők ez irányú kérelmüket a születés bejelentésekor elmulasztották vagy az igazolásokat a bejelentéstől számított 30 napon belül nem csatolták, a születés anyakönyvezésekor a magyar jog szabályait kell alkalmazni.
 
@@ -501,6 +493,8 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 (6) Ha a bíróság a volt feleséget a házasságra utaló toldást tartalmazó házassági név viselésétől jogerős ítéletében eltiltotta, és a volt feleség nem nyilatkozott a viselni kívánt házassági névről, házassági névként a születési nevét kell bejegyezni.
 
+(7) Az (1)–(6) bekezdésben meghatározottak nem alkalmazhatók, ha az Nmjtv. 16. § (3) és (4) bekezdése vagy 27. §-a alapján a házassági név anyakönyvezése során más állam jogát kell alkalmazni.
+
 48. § (1) A házassági névviselési forma az érintett kérelmére módosítható.
 
 (2)
@@ -519,7 +513,7 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 ### A névváltoztatás
 
-49. § (1) Magyar állampolgár születési családi és utónevének megváltoztatását – kérelmére – az anyakönyvi szerv engedélyezheti.
+49. § (1) Magyar állampolgár születési családi és utónevének megváltoztatását – kérelmére – az anyakönyvi szerv engedélyezheti. A névváltoztatást az anyakönyvi szerv jegyzi be az anyakönyvbe.
 
 (2) A szülő családi nevének megváltoztatása a szülők erre irányuló kérelmére kiterjed a szülő családi nevét viselő cselekvőképtelen kiskorú gyermek családi nevére is. A szülő családi nevének megváltoztatása a szülők erre irányuló kérelme és a korlátozottan cselekvőképes kiskorú hozzájárulása esetén terjed ki a korlátozottan cselekvőképes kiskorúra.
 
@@ -583,13 +577,7 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 (1a) A 2015. április 1. napját követően lezárult névváltoztatási ügy iratanyagát három évig az anyakönyvi szerv őrzi.
 
-(2) A névváltoztatást engedélyező határozat a meghozatalát követő tizenhatodik napon válik jogerőssé.
-
-(3) A névváltoztatást – a (2) bekezdés szerinti időponttal – az anyakönyvi szerv jegyzi be az anyakönyvbe.
-
-(4) A születési név megváltoztatására irányuló eljárás ügyintézési határideje negyvenöt nap.
-
-(5) Ha a kérelem hiányosan érkezik, a hiánypótlási felhívást a kérelem beérkezésétől számított tizenöt napon belül kell kibocsátani.
+(2)–(5)
 
 (6) A névváltoztatási okiratmásolatot az anyakönyvi szerv állítja ki.
 
@@ -598,7 +586,7 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 - a) a házasság megszűnt, és
 - b) személyazonosság igazolására alkalmas hatósági igazolvánnyal vagy a személyiadat- és lakcímnyilvántartás alapiratával igazolható, hogy volt házastársa nevét a kért formában használta.
 
-(2) Amennyiben a magyar állampolgár neve külföldön történt házasságkötés következtében a magyar névviselési szabályoktól eltérően megváltozik, a hazai anyakönyvezésekor a név bejegyzése során úgy kell eljárni, mintha a névváltoztatást az anyakönyvi szerv engedélyezte volna.
+(2)
 
 (3) Az (1) bekezdés szerinti névváltoztatásra a 49. § (2)–(4) bekezdése, valamint az 50. § (2) bekezdés b), c) és f) pontja kivételével a 49–51. §-ban foglaltakat megfelelően alkalmazni kell.
 
@@ -682,7 +670,7 @@ a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az igazságügy
 
 (2)
 
-(3) Az e törvény hatálybalépése előtt tett anyakönyvi bejegyzés adatait nem kell bejegyezni az elektronikus anyakönyvbe, ha arra kizárólag a tévesen megkezdett vagy azon bejegyzés bejegyzés törlése miatt kerülne sor, amelyet nem az eljárásra jogosult személy teljesített.
+(3) Az e törvény hatálybalépése előtt tett anyakönyvi bejegyzés adatait nem kell bejegyezni az elektronikus anyakönyvbe, ha arra kizárólag a tévesen megkezdett vagy azon bejegyzés törlése miatt kerülne sor, amelyet nem az eljárásra jogosult személy teljesített.
 
 (4) Ha az elektronikus anyakönyvbe történő bejegyzéskor a papír alapú anyakönyv nem tartalmazza a személyi azonosítót, azt a személyiadat- és lakcímnyilvántartás adatai alapján kell bejegyezni az anyakönyvbe.
 
@@ -766,12 +754,7 @@ megismerni.
 
 (1b) Magyar állampolgár külföldön történt születésének, házasságkötésének, bejegyzett élettársi kapcsolata létesítésének hazai anyakönyvezésére irányuló kérelemhez csatolni kell – ha a kérelmező a személyiadat- és lakcímnyilvántartásban nem szerepel – a személyiadat- és lakcímnyilvántartásba vételhez szükséges iratokat. Az anyakönyvvezető ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.
 
-(2) A hazai anyakönyvezési eljárás ügyintézési határideje 40 nap. A hazai anyakönyvezési eljárás ügyintézési határideje 8 nap, ha a szükséges okiratok hiánytalanul rendelkezésre állnak, és a 14/A. § alapján az igazságügyért felelős miniszter véleményének kérése nem szükséges, valamint
-
-- a) születés anyakönyvezése esetén mindkét szülő magyar állampolgár, a gyermek a házasságukból származik, és a szülők születésének és házasságuknak az anyakönyvezésére korábban sor került,
-- b) születés anyakönyvezése esetén az anya magyar állampolgár és születésének az anyakönyvezésére korábban sor került, továbbá az apa személye nem ismert,
-- c) házasságkötés anyakönyvezése esetén a házasuló felek magyar állampolgárok és születésüknek az anyakönyvezésére korábban sor került, vagy
-- d) külföldön történt haláleset hazai anyakönyvezésére kerül sor.
+(2)
 
 (3)
 
@@ -1040,7 +1023,7 @@ megismerni.
 
 (3) A (2) bekezdés b) pont ba) és bb) alpontjában, c) pont ca) és cb) alpontjában, e) pont ea) és eb) alpontjában, valamint f) pont fb) és fc) alpontjában meghatározott adatokat az okirat-nyilvántartás határidő nélkül tartalmazza, a (2) bekezdés b) pont bc) és bd) alpontjában, c) pont cc) és cd) alpontjában, e) pont ec) és ed) alpontjában, valamint f) pont fd) és fe) alpontjában meghatározott adatokat az anyakönyvi kivonat kiállítását követő öt év elteltével törölni kell.
 
-71/A. § Az okirat-nyilvántartás vezetéséhez – a nyilvántartott adatok és azok változásai tekintetében – az anyakönyvi ügyekért felelős miniszter rendeletében meghatározott rend szerint adatszolgáltatásra kötelezett
+71/A. § Az okirat-nyilvántartás vezetéséhez – a nyilvántartott adatok és azok változásai tekintetében – jogszabályban meghatározott rend szerint adatszolgáltatásra kötelezett
 
 - a) az anyakönyvvezető,
 - b) a képviselő-testület hivatalának jegyzője,
@@ -1090,7 +1073,7 @@ foglalt adatait tartja nyilván.
   - hc) telefon- és telefaxszámát, elektronikus levélcímét és
   - hd) hozzáférési jogosultsága terjedelmét, keletkezésének és megszűnésének időpontját.
 
-(4) Az anyakönyvvezető (2) bekezdésben meghatározott adatait, valamint azok változását a 4. § (5) bekezdés f) pontja szerinti anyakönyvi szerv, az elektronikus anyakönyvi rendszerben adatok rögzítésére jogosult egyéb személyek (2) bekezdésben meghatározott adatait, valamint azok változását, továbbá a közvetlen hozzáférésre jogosult személy (3) bekezdésben meghatározott adatait a nyilvántartó szerv jegyzi be a jogosultsági nyilvántartásba.
+(4) Az anyakönyvvezető (2) bekezdésben meghatározott adatait, valamint azok változását az anyakönyvi szerv, az elektronikus anyakönyvi rendszerben adatok rögzítésére jogosult egyéb személyek (2) bekezdésben meghatározott adatait, valamint azok változását, továbbá a közvetlen hozzáférésre jogosult személy (3) bekezdésben meghatározott adatait a nyilvántartó szerv jegyzi be a jogosultsági nyilvántartásba.
 
 (5) Az (1) bekezdésben foglalt személyek (2) és (3) bekezdésben meghatározott adatait a jogosultsági nyilvántartás a jogosultság megszűnésétől számított öt évig tartja nyilván.
 
@@ -1274,7 +1257,8 @@ foglalt adatait tartja nyilván.
 81/B. § (1) Az elektronikus anyakönyvben és az apai elismerő nyilatkozatok nyilvántartásában kezelt adatok teljes körét, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott és e törvény szerint az elektronikus anyakönyv adattartalmát képező adatot jogosult megtekinteni és átvenni, és az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
 
 - a) a külpolitikáért felelős miniszter a konzuli érdekvédelem ellátása és az anyakönyvi kivonatok miniszteri felülhitelesítése céljából,
-- b) a hivatásos konzuli tisztviselő a konzuli érdekvédelem ellátása, anyakönyvi okirat kiállítása, az úti okmány kiadása iránti eljárásban és a névváltoztatási eljárásban a névviselés ellenőrzése, valamint a bemutatott anyakönyvi kivonat ellenőrzése céljából.
+- b) a hivatásos konzuli tisztviselő a konzuli érdekvédelem ellátása, anyakönyvi okirat kiállítása, az úti okmány kiadása iránti eljárásban és a névváltoztatási eljárásban a névviselés ellenőrzése, valamint a bemutatott anyakönyvi kivonat ellenőrzése céljából,
+- c) a menekültügyi hatóság a menekültkéni, oltalmazottkénti, menedékeskénti és befogadottkénti elismerésre, a státuszok felülvizsgálatára és visszavonására irányuló, továbbá ellátási és integrációs feladatai ellátása érdekében.
 
 (2) Ha az (1) bekezdésben meghatározott személyek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 
@@ -1297,7 +1281,8 @@ foglalt adatait tartja nyilván.
 - c) a kincstár a hatáskörébe tartozó támogatási eljárás lefolytatása céljából,
 - d) az egészségbiztosítási szerv az ellátásra való jogosultság megállapítása céljából,
 - e) a nyugdíjbiztosítási szerv az ellátásra való jogosultság megállapítása céljából,
-- f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okból megfosztottak kárpótlására való jogosultság megállapítása céljából.
+- f) a kárpótlási hatóság az életüktől és szabadságuktól politikai okból megfosztottak kárpótlására való jogosultság megállapítása céljából,
+- g) a családtámogatási szerv az anyasági támogatás megállapítása iránti eljárás lefolytatása céljából.
 
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 
@@ -1434,25 +1419,23 @@ válnak bárki számára kutathatóvá.
 
 ### Felhatalmazások
 
-94. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+94. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 - a) az anyakönyvi eljárás lefolytatására és az anyakönyvi eljárásban való közreműködésre jogosult szerveket és személyeket, azok illetékességét és hatáskörét, a nyilvántartó szervet, valamint az anyakönyvi ügyekért felelős miniszter és a nyilvántartó szerv nyilvántartás működtetésével kapcsolatos együttműködésének kereteit,
 - b) az anyakönyvezéshez szükséges képesítési feltételeket,
-- c) az MTA utónévjegyzékbe történő felvételre vonatkozó nyilatkozatával összefüggő megkeresésre és az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
+- c) az MTA-utónévjegyzékbe történő felvételre vonatkozó nyilatkozatával összefüggő megkeresésre és az anyakönyvi szerv közreműködésére vonatkozó szabályokat.
 
-95. § (1) Felhatalmazást kap az anyakönyvi ügyekért felelős miniszter, hogy
+(2) Felhatalmazást kap a Kormány, hogy
 
-- a) az anyakönyvi nyilvántartások rendszere vezetésének,
-- b) a névviselés, a névváltoztatás,
-- c) a házasságkötési, valamint a bejegyzett élettársi kapcsolat létesítésére irányuló eljárás,
-- d) az anyakönyvi szakvizsga,
+- a) az anyakönyvvezető és az anyakönyvi szervek eljárásának, valamint az anyakönyvezési feladatok ellátásának,
+- b) az anyakönyvi nyilvántartások rendszere vezetésének,
+- c) a névviselés, a névváltoztatás,
+- d) a házasságkötési, valamint a bejegyzett élettársi kapcsolat létesítésére irányuló eljárás,
 - e) az anyakönyvi nyilvántartások rendszeréből teljesítendő adattovábbítás
 
 részletes szabályait rendeletben állapítsa meg.
 
-(2)
-
-(3)
+95. § Felhatalmazást kap az anyakönyvi ügyekért felelős miniszter, hogy az anyakönyvi szakvizsga részletes szabályait rendeletben állapítsa meg.
 
 96. § Felhatalmazást kap a települési önkormányzat, hogy
 

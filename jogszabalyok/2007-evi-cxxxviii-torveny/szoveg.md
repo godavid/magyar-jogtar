@@ -578,11 +578,11 @@ amelyekről legalább évente beszámol a befektetési vállalkozás ügyvezeté
 
 ### VI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁS ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK SZEMÉLYI FELTÉTELEI
 
-22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy, munkaviszony keretében köteles ellátni, aki hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy, munkaviszony keretében köteles ellátni. A magánszemély – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (1a) Befektetési vállalkozásnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
-- a) hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű;
+- a) – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 - b) felsőfokú végzettséggel rendelkezik;
 - c) legalább hároméves szakirányú szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
 - d) igazolja, hogy vele szemben a 25. §-ban meghatározott összeférhetetlenségi okok nem állnak fenn és
@@ -592,14 +592,19 @@ amelyekről legalább évente beszámol a befektetési vállalkozás ügyvezeté
 
 (3) A befektetési vállalkozás a működésének és tevékenysége végzésének irányítására a vezető állású személyek közül első számú vezetőt nevez ki.
 
-(4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik, és aki hatósági bizonyítvány útján igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(4) Az a hitelintézet, amely befektetési szolgáltatási tevékenységet végez, a befektetési szolgáltatási tevékenység irányítására olyan személyt köteles kinevezni, aki legalább három év szakirányú szakmai gyakorlattal rendelkezik, és aki – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (5) Az (1), az (1a), a (4) bekezdés, a 23. §, a 37. § (2a) bekezdése és (4) bekezdés d) pontja, valamint a 116. § (1) bekezdés a) pontja szempontjából az alábbi bűncselekményeket kell figyelembe venni:
 
 - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), a 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, a vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel 1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), a 1978. évi IV. törvény XVI. fejezet III. címében meghatározott bűncselekmények, továbbá a 1978. évi IV. törvény XVII. fejezetében és XVIII. fejezetében meghatározott bűncselekmények,
-- b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése (Btk. 271. §), a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása (Btk. 281. §), a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
+- b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése (Btk. 271. §), a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása (Btk. 281. §), a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
 
-22/A. § (1) A befektetési vállalkozás vezető állású személyének az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját 30 nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
+(6) Akinek e törvény a büntetlen előéletet előírja, annak az (5) bekezdés szerinti bűncselekmények vonatkozásában kell büntetlen előéletűnek lennie, amely tényt
+
+- a) magyar állampolgár esetén a Felügyelet által beszerzett vagy az ügyfél által szolgáltatott – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (1) bekezdése alapján kibocsátott hatósági bizonyítvány szerinti tartalmú – adatok igazolják,
+- b) nem magyar állampolgár esetén az általa beszerzett, és a Felügyelet számára a kérelemmel együtt megküldött, a nem magyar állampolgár személyes joga szerinti, az a) pontban foglalt hatósági bizonyítványnak megfelelő okirat igazolja.
+
+22/A. § (1) A befektetési vállalkozás vezető állású személyének az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
 
 (2) A vezető állású személy és a befektetési vállalkozás köteles a Felügyeletnek haladéktalanul bejelenteni, ha a vezető állású személlyel kapcsolatban az engedély megadását követően kizárási ok merül fel. A vezető állású személy megválasztásához vagy kinevezéséhez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
 
@@ -630,7 +635,7 @@ amelyekről legalább évente beszámol a befektetési vállalkozás ügyvezeté
 - e) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerzett gazdasági agrármérnök szakképzettség vagy műszaki menedzser alapképzési szakon, vagy gazdasági és vidékfejlesztési agrármérnök alapképzési szakon szerzett szakképzettség, és
 - f) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerezett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
 
-23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább kettő év szakirányú szakmai gyakorlattal rendelkezik, és aki hatósági bizonyítvány útján bizonyítja, hogy a 22. § (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább két év szakirányú szakmai gyakorlattal rendelkezik és aki – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 24. § (1) A 22. § (1), (1a) és (4) bekezdése, valamint a 23. § alkalmazása szempontjából szakmai gyakorlatként vehető figyelembe
 
@@ -771,7 +776,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 
 (10) A (7) és (8) bekezdésben foglaltakat alkalmazni kell abban az esetben is, ha a befektetési vállalkozás fióktelepe a befektetési szolgáltatási tevékenységét megváltoztatja.
 
-28. § (1) A kérelmező a befektetési szolgáltatási tevékenység végzésre jogosító engedély iránti kérelemhez mellékeli
+28. § (1) A kérelmező a befektetési szolgáltatási tevékenység végzésre jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdésében foglaltak figyelembevételével –
 
 - a) a létesítő okiratát vagy létesítő okiratának módosítását,
 - b) részvénykönyvének másolatát,
@@ -798,6 +803,8 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 - w) a Befektető-védelmi Alap igazolását az Alaphoz történő csatlakozási kérelem benyújtásáról és a csatlakozási díj megfizetéséről, ha a biztosított tevékenység végzésére kér engedélyt és jogszabály előírja az Alaphoz történő csatlakozást,
 - x) a befektetési vállalkozás likviditását, fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén alkalmazandó, a befektetési vállalkozás igazgatósága által elfogadott eljárás rendjét és – ha a befektetési vállalkozásra nem terjed ki az összevont alapú felügyelet – a 102. §-ban meghatározott egyedi helyreállítási tervét,
 - y) a Szanálási Alaphoz történő csatlakozásáról szóló nyilatkozat másolatát.
+
+(1a) Ha a kérelmező magyar székhelyű nem természetes személy, akkor az (1) bekezdés a) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (2) A kérelmező a letétkezelési tevékenység végzésére jogosító engedély iránti kérelméhez az (1) bekezdésben foglaltakon túl mellékeli a biztonsági, a letétkezelési és az értéktári szabályzat tervezetét.
 
@@ -860,7 +867,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 
 32. § A Felügyelet a tevékenység végzésére jogosító engedélyt az egyes tevékenységekre külön-külön vagy együttesen adja meg annak a kérelmezőnek, amely megfelel az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak.
 
-33. § (1) A kérelmező a 9. § (1) bekezdésében meghatározott tevékenység végzésre jogosító engedély iránti kérelemhez mellékeli
+33. § (1) A kérelmező a 9. § (1) bekezdésében meghatározott tevékenység végzésre jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdésében foglaltak figyelembevételével –
 
 - a) létesítő okiratát és létesítő okiratának módosítását,
 - b) a meghatározott mértékű induló tőke befizetésének igazolását, valamint nyilatkozatot az erre vonatkozó okirati bizonyítékkal együtt arra, hogy a induló tőke befizetéséhez szükséges összeg az alapításban résztvevő személy törvényes jövedelméből származik,
@@ -876,6 +883,8 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 - l) az 1031/2010/EU bizottsági rendelet 59. cikkében meghatározott feltételek teljesülésének részletes leírását, amennyiben a kérelmező által a c) pont keretében megjelölt végezni kívánt tevékenység a 11. § (3) bekezdésében meghatározottakra vonatkozik.
 - m) fióktelep formájában működő árutőzsdei szolgáltató esetében a székhely szerinti felügyeleti hatóság igazolását arról, hogy rendelkezik a tevékenység végzésére jogosító tevékenységi engedéllyel,
 - n) fióktelep formájában működő árutőzsdei szolgáltató vezető állású személyének döntési, irányítási jogköre bemutatását.
+
+(1a) Ha a kérelmező magyar székhelyű nem természetes személy, akkor az (1) bekezdés a) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (2) A külföldi kérelmező a 9. § (1) bekezdésében meghatározott tevékenység végzésére jogosító engedély iránti kérelmében az (1) bekezdésben foglaltakon felül
 
@@ -929,7 +938,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 
 37. § (1) A befektetési vállalkozásban történő minősített befolyás megszerzéséhez a Felügyelet előzetes engedélye szükséges.
 
-(2) Az (1) bekezdés szerinti engedély iránti kérelemhez mellékelni kell:
+(2) Az (1) bekezdés szerinti engedély iránti kérelemhez mellékelni kell – a (2b) bekezdésében foglaltak figyelembevételével –:
 
 - a) a kérelmező természetes személyazonosító adatait,
 - b) a minősített befolyás megszerzéséhez szükséges pénzügyi forrás törvényes eredetének igazolását,
@@ -943,7 +952,9 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 - j) a 28. § (1) bekezdésének t) és u) pontjában meghatározott nyilatkozatokat,
 - k) a minősített befolyás megszerzése következtében a befektetési vállalkozással szoros kapcsolatba kerülő természetes személy hozzájárulását a személyes adatainak az összevont alapú, vagy a kiegészítő felügyelet érdekében történő kezeléséhez.
 
-(2a) Természetes személy kérelmező az (1) bekezdés szerinti engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(2a) Természetes személy kérelmező az (1) bekezdés szerinti engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+
+(2b) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor a (2) bekezdés c), g) és i) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (3) Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban.
 
@@ -952,15 +963,15 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 - a) akinek tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása nem veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását,
 - b) akinek üzleti tevékenysége, kapcsolatainak jellege vagy más vállalkozásokkal fennálló közvetlen és közvetett tulajdoni részesedésének szerkezete a felügyeleti tevékenységet nem akadályozza,
 - c) aki jó üzleti hírnévvel rendelkezik,
-- d) aki – természetes személy esetén – a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt hatósági bizonyítvány útján igazolja.
+- d) aki – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
 (5) A kérelmező, tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása különösen akkor veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását, ha
 
 - a) szavazati jogának gyakorlását a hatáskörrel rendelkező felügyeleti hatósága – a kérelem benyújtását megelőző öt éven belül – felfüggesztette,
 - b) minősített befolyással rendelkezik (vagy rendelkezett), vezető állású személy (vagy az volt) olyan befektetési vállalkozásban, pénzügyi intézményben vagy biztosítóban,
-  - ba) amely esetében a fizetőképtelenséget kizárólag a hatáskörrel rendelkező felügyeleti hatóság által alkalmazott intézkedéssel lehetett elkerülni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította, vagy
-  - bb) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította,
-- c) súlyosan vagy rendszeresen megsértette e törvény vagy más, a befektetési vállalkozás gazdálkodására vonatkozó jogszabály előírásait, és ezt a hatáskörrel rendelkező felügyeleti hatóság, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította.
+  - ba) amely esetében a fizetőképtelenséget kizárólag a hatáskörrel rendelkező felügyeleti hatóság által alkalmazott intézkedéssel lehetett elkerülni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy végleges hatósági határozat megállapította, vagy
+  - bb) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy végleges hatósági határozat megállapította,
+- c) súlyosan vagy rendszeresen megsértette e törvény vagy más, a befektetési vállalkozás gazdálkodására vonatkozó jogszabály előírásait, és ezt a hatáskörrel rendelkező felügyeleti hatóság, más hatóság öt évnél nem régebben végleges vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította.
 
 (6) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező, a befolyással rendelkező az (1)–(5) bekezdésekben meghatározott feltételeknek nem felel meg.
 
@@ -2734,6 +2745,8 @@ rendelkezhet.
 - d) a 116. §-ban foglaltak alátámasztását szolgáló okiratokat,
 - e) a megbízóval kötött szerződést.
 
+(4a) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor a (4) bekezdés d) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
+
 (5) A Felügyelet a (3) bekezdés szerinti nyilvántartásba vétel iránti kérelmet elutasítja, ha
 
 - a) a kérelmező az e törvényben vagy az e törvény felhatalmazása alapján kiadott jogszabályban foglaltaknak nem felel meg,
@@ -2770,7 +2783,7 @@ rendelkezhet.
 
 116. § (1) Természetes személy függő ügynök az lehet, aki
 
-- a) hatósági bizonyítvány útján igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
+- a) a 22. § (6) bekezdésében foglaltak figyelembevételével igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
 - b) nem áll tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt,
 - c) ellen a Felügyelet vagy más EGT-állam felügyeleti hatósága az elmúlt három évben, határozatában nem állapította meg a befektetési szolgáltatási tevékenységre vagy a kiegészítő szolgáltatásra, illetőleg az árutőzsdei szolgáltatásra vonatkozó jogszabályokban vagy jogszabály szerinti szabályzatokban foglaltak megsértését.
 
@@ -2867,7 +2880,7 @@ szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsde
 - b) a Felügyelet a külföldi felügyeleti hatósággal kötött együttműködési megállapodásban meghatározott módon kér, illetőleg továbbít adatot, ha az együttműködési megállapodás vagy a külföldi felügyeleti hatóság megkeresése tartalmazza az általa aláírt titoktartási záradékot,
 - c) a magyar bűnüldöző szerv nemzetközi szerződés alapján, külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése érdekében írásban kér adatot a befektetési vállalkozástól, illetőleg az árutőzsdei szolgáltatótól, ha a megkeresés tartalmazza a külföldi bűnüldöző szerv által aláírt titoktartási záradékot,
 - d) a Befektető-védelmi Alap által külföldi befektetővédelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
-- e) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató az Art. 52. §-ának (8) bekezdése alapján szolgáltat adatot,
+- e)
 - f) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér adatot a befektetési vállalkozástól vagy az árutőzsdei szolgáltatótól,
 - g) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot,
 - h) a befektetési szolgáltatási tevékenységet végző, kiegészítő befektetési szolgáltatást vagy árutőzsdei szolgáltatást nyújtó az Aktv. 43/H. §-ában foglalt kötelezettség teljesítése céljából az állami adóhatóság felé szolgáltat adatot.
@@ -3442,7 +3455,7 @@ valamint az ezen adatokban bekövetkező változást.
 
 (4) A Felügyelet a nyilvántartásba vételről szóló döntésben a képző szerv részére nyilvántartási számot és intézményi kódot állapít meg.
 
-(5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés jogerőre emelkedésének időpontját is nyilvántartja.
+(5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés véglegessé válásának időpontját is nyilvántartja.
 
 (6) Az aláíró személyekről, az oktatókról, a hatósági vizsgára jelentkező személyekről és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
 
@@ -3791,7 +3804,7 @@ kezelheti.
 - c) irányítási rendszerének felülvizsgálatára,
 - d) forrásbevonási stratégiájának a fő üzletágak, kritikus funkciók ellenálló képessége növelése érdekében történő felülvizsgálatára.
 
-165. § A Felügyelet a 164. § (1) bekezdésének h), n), o) és p) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el azzal, hogy a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
+165. §
 
 166. § A Felügyelet a befektetési vállalkozást, az árutőzsdei szolgáltatót, ezek vezető állású személyét és alkalmazottját
 
@@ -3829,7 +3842,7 @@ bírság megfizetésére kötelezheti.
 
 (5) Az irányítási jogkört részben átvevő felügyeleti biztos kirendelése esetén a befektetési vállalkozás, illetve az árutőzsdei szolgáltató igazgatósága a jogkörét csak annyiban gyakorolhatja, amennyiben az adott jogkört a felügyeleti biztost kirendelő határozat nem utalja a felügyeleti biztos jogkörébe.
 
-(6) A (4) és (5) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a befektetési vállalkozással, illetve árutőzsdei szolgáltatóval szemben hozott határozat ellen, e jogorvoslati eljárásban a befektetési vállalkozást, illetve árutőzsdei szolgáltatót képviselheti vagy a képviselet ellátására megbízást adhat.
+(6) A (4) és (5) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogosult arra, hogy a felügyeleti biztost kirendelő határozatot és a Felügyelet által a befektetési vállalkozással, illetve árutőzsdei szolgáltatóval szemben hozott határozatot közigazgatási perben megtámadja.
 
 (7) A felügyeleti biztos feladata:
 
@@ -4218,7 +4231,7 @@ foglalt követelményeknek.
 ### 1. melléklet a 2007. évi CXXXVIII. törvényhez
 
 - 1. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
-- 2. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
+- 2. Art.: az adózás rendjéről szóló törvény,
 - 3. Bit.: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény,
 - 4. Btk.: a Büntető Törvénykönyvről szóló 2012. évi C. törvény,
 - 5. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
@@ -4228,7 +4241,7 @@ foglalt követelményeknek.
 - 9. Fhtv.: a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény,
 - 10. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 - 11. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
-- 12. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
+- 12.
 - 13.
 - 14. MNB tv.: a Magyar Nemzeti Bankról szóló törvény,
 - 15. Pmt.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény,

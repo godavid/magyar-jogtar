@@ -57,14 +57,18 @@ terjed ki.
 
 (3) Az engedély iránti kérelem formai és tartalmi követelményeit az e törvény felhatalmazása alapján kiadott jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa tartalmazza.
 
-(4) A II. és III. fejezetben foglalt hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(4)
+
+(5) Az e törvény hatálya alá tartozó eljárásokban az eljáró hatóság elsőfokú döntését akkor is módosíthatja vagy visszavonhatja, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
+
+(6) A bíróság az egészségügyi géntechnológiai hatóság, valamint a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság (a továbbiakban együtt: géntechnológiai hatóság) közigazgatási cselekményét nem változtathatja meg.
 
 ### Géntechnológiai hatóságok
 
 4. § (1) Géntechnológiai tevékenység végzését a Géntechnológiai Eljárásokat Véleményező Bizottság (a továbbiakban: Géntechnológiai Bizottság) 8. § szerint kialakított véleménye alapján
 
 - a) humán-egészségügyi, humán gyógyszergyártási célú, valamint az emberi testtel közvetlenül érintkező vegyi anyagokkal kapcsolatos géntechnológiai tevékenység esetén az egészségügyi géntechnológiai hatóság,
-- b) a mezőgazdaság és az élelmiszeripar területén történő (beleértve az élelmiszer-előállításban alkalmazott technológiai segédanyagokat is), illetve zárt rendszerű, valamint egyéb ipari célú géntechnológiai tevékenység esetén a környezetvédelmi és mezőgazdasági vonatkozású szempontok figyelembevételével a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság (a továbbiakban az egészségügyi géntechnológiai hatóság, valamint a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság együtt: géntechnológiai hatóság) engedélyezi, amennyiben az engedélyezés nemzeti hatáskörbe tartozik.
+- b) a mezőgazdaság és az élelmiszeripar területén történő (beleértve az élelmiszer-előállításban alkalmazott technológiai segédanyagokat is), illetve zárt rendszerű, valamint egyéb ipari célú géntechnológiai tevékenység esetén a környezetvédelmi és mezőgazdasági vonatkozású szempontok figyelembevételével a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság engedélyezi, amennyiben az engedélyezés nemzeti hatáskörbe tartozik.
 
 (2) Az uniós hatáskörbe tartozó engedélyezési eljárásokban a nemzeti hatósági feladatokat a géntechnológiai hatóság látja el, mely a feladatának ellátása során – az adminisztratív feladatokat kivéve – egyeztet a Géntechnológiai Bizottsággal. A környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság az uniós hatáskörbe tartozó, élelmiszerekre és takarmányokra vonatkozó engedélyezési eljárások során egyeztet az egészségügyi géntechnológiai hatósággal. Az egészségügyi géntechnológiai hatóság az uniós hatáskörbe tartozó engedélyezési eljárások során egyeztet a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatósággal.
 
@@ -122,7 +126,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 8. § (1) A géntechnológiai tevékenység engedélyezése iránti kérelmet – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott dokumentációval együtt – a géntechnológiai hatósághoz kell benyújtani. A géntechnológiai hatóság
 
-- a) a kérelem beérkezéséről értesíti az ügyfelet a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek az ügyfél kérelmére történő értesítésére vonatkozó szabályai szerint,
+- a)
 - b) 8 napon belül megvizsgálja, hogy a kérelem formailag és tartalmilag eleget tesz-e e törvény és a felhatalmazása alapján kiadott jogszabály előírásainak; amennyiben a kérelem nem tesz eleget a vonatkozó jogszabályi előírásoknak, hiánypótlásra visszaküldi azt, megjelölve a kérelem elbírálásához szükséges további információkat és benyújtásuk szükségességének okát,
 - c) a kérelmet – a 13. § (2) bekezdése szerinti behozatali és kiviteli engedély, valamint a 15. § (2) bekezdése szerinti szállítási engedély iránti kérelem kivételével – megküldi a Géntechnológiai Bizottságnak, ha a kérelem eleget tesz a vonatkozó jogszabályi előírásoknak.
 
@@ -157,15 +161,15 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (3) Ha kétség merülne fel, hogy a kérelemben előterjesztett zárt rendszerben történő felhasználás esetében melyik osztály a megfelelő, a szigorúbb óvintézkedést kell alkalmazni, kivéve, ha a géntechnológiai hatóság olyan bizonyítékkal rendelkezik, amely alapján a kevésbé szigorú elszigetelési szintek alkalmazását engedélyezi.
 
-9. § (1) Természetes szervezet géntechnológiával való módosítására, illetve a géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben való felhasználására vonatkozó engedély iránti eljárásban – amennyiben jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rövidebb határidőt nem állapít meg – az ügyintézési határidő 90 nap. Az ügyintézési határidőbe nem számít bele az ellenőrző kísérletek és vizsgálatok elvégzésének időtartama.
+9. § (1) Természetes szervezet géntechnológiával való módosítására, illetve a géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben való felhasználására vonatkozó engedély iránti eljárásban – amennyiben jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rövidebb határidőt nem állapít meg – az ügyintézési határidő 130 nap.
 
 (2)–(3)
 
-(4) A géntechnológiai hatóság az engedély tervezetét – az üzleti titok, a szerzői jog és a fajtaoltalom körébe eső adatok kivételével – társadalmi konzultáció érdekében hivatalos lapjában és honlapján közzéteszi. Az engedély tervezetére annak a hivatalos lapban való közzétételétől számított 30 napon belül a géntechnológiai hatóságnál észrevételt lehet tenni, amelyet a géntechnológiai hatóság véleményezés céljából megküld a Géntechnológiai Bizottságnak. Az észrevételt annak kézhezvételétől számított 10 napon belül a Géntechnológiai Bizottság megvizsgálja, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a Géntechnológiai Bizottság véleményének beérkezését követően az engedély tervezetét véglegesíti, megváltoztatja vagy a kérelmet elutasítja.
+(4) A géntechnológiai hatóság az engedély tervezetét – az üzleti titok, a szerzői jog és a fajtaoltalom körébe eső adatok kivételével – társadalmi konzultáció érdekében honlapján közzéteszi. Az engedély tervezetére annak a hatóság honlapján való közzétételétől számított 30 napon belül a géntechnológiai hatóságnál észrevételt lehet tenni, amelyet a géntechnológiai hatóság véleményezés céljából megküld a Géntechnológiai Bizottságnak. Az észrevételt annak kézhezvételétől számított 10 napon belül a Géntechnológiai Bizottság megvizsgálja, és véleményét a géntechnológiai hatóságnak megküldi. A géntechnológiai hatóság a Géntechnológiai Bizottság véleményének beérkezését követően az engedély tervezetét véglegesíti, megváltoztatja vagy a kérelmet elutasítja.
 
-(5) Az eljárási határidő számításakor nem kell figyelembe venni azt az időtartamot, amely alatt a géntechnológiai hatóság a társadalmi konzultációt lefolytatja.
+(5)
 
-(6) A természetes szervezet géntechnológiai módosítására, illetve géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben való felhasználására vonatkozó engedélyt – az üzleti titok, a szerzői jog, a szabadalom és a növényfajta-oltalom körébe eső adatok kivételével – a géntechnológiai hatóság, illetve az azt irányító miniszter által vezetett minisztérium hivatalos lapjában is közzé kell tenni a géntechnológiai módosítást végző, illetve a felhasználó nevének, az engedély számának, a géntechnológiai módosítás, valamint a felhasználás tárgyának, a géntechnológiai módosításnál alkalmazott gének és a géntechnológiai módosítás eredményének a társadalom számára való haszna és a lehetséges kockázatok megjelölésével.
+(6) A természetes szervezet géntechnológiai módosítására, illetve géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben való felhasználására vonatkozó engedélyt – az üzleti titok, a szerzői jog, a szabadalom és a növényfajta-oltalom körébe eső adatok kivételével – a géntechnológiai hatóság, illetve az azt irányító miniszter által vezetett minisztérium honlapján is közzé kell tenni a géntechnológiai módosítást végző, illetve a felhasználó nevének, az engedély számának, a géntechnológiai módosítás, valamint a felhasználás tárgyának, a géntechnológiai módosításnál alkalmazott gének és a géntechnológiai módosítás eredményének a társadalom számára való haszna és a lehetséges kockázatok megjelölésével.
 
 10. § (1) Természetes szervezet géntechnológiával való módosítására irányuló tevékenységet csak a tevékenység folytatásához szükséges, e törvény felhatalmazása alapján kiadott jogszabályban meghatározott műszaki, technológiai, környezetvédelmi, természetvédelmi és egészségügyi feltételeket teljesítő hasznosítók végezhetnek.
 
@@ -173,13 +177,13 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 ### A nem forgalomba hozatali célú kibocsátás engedélyezésének különös szabályai
 
-10/A. § (1) A géntechnológiával módosított szervezetek és az azokból előállított termékek nem forgalomba hozatali célú kibocsátására vonatkozó engedély tárgyában a kérelem megérkezésétől számított 90 napon belül a géntechnológiai hatóság a 9. § (4) és (5) bekezdése szerinti eljárás lefolytatását követően dönt.
+10/A. § (1) A géntechnológiával módosított szervezetek és az azokból előállított termékek nem forgalomba hozatali célú kibocsátására vonatkozó engedély tárgyában a kérelem megérkezésétől számított 130 napon belül a géntechnológiai hatóság a 9. § (4) és (5) bekezdése szerinti eljárás lefolytatását követően dönt.
 
-(2) A géntechnológiával módosított szervezetek és az azokból előállított termékek nem forgalomba hozatali célú kibocsátására vonatkozó engedélyt – az üzleti titok, a szerzői jog, a szabadalom és a növényfajta-oltalom körébe eső adatok kivételével – a géntechnológiai hatóság, illetve az azt irányító miniszter által vezetett minisztérium hivatalos lapjában is közzé kell tenni a kibocsátó nevének és a géntechnológiával módosított tulajdonság megjelölésével együtt.
+(2) A géntechnológiával módosított szervezetek és az azokból előállított termékek nem forgalomba hozatali célú kibocsátására vonatkozó engedélyt – az üzleti titok, a szerzői jog, a szabadalom és a növényfajta-oltalom körébe eső adatok kivételével – a géntechnológiai hatóság, illetve az azt irányító miniszter által vezetett minisztérium honlapján is közzé kell tenni a kibocsátó nevének és a géntechnológiával módosított tulajdonság megjelölésével együtt.
 
 (3) A hasznosító kizárólag a 3. § (1) bekezdése szerinti engedély birtokában, az abban meghatározott jogosultsági ideig végezhet nem forgalomba hozatali célú kibocsátást. Az érintett területre kifejtett környezeti hatások megítélése érdekében – az e törvény felhatalmazása alapján kiadott jogszabály szerinti esetben – a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság az engedélyben az e törvény felhatalmazása alapján kiadott jogszabály szerinti kiegészítő, ellenőrző vizsgálatok lefolytatását írhatja elő, meghatározva azok részletes feltételeit, illetve ilyen vizsgálatokat folytathat le.
 
-(4) A (3) bekezdés szerinti, a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság által elvégzendő vizsgálatok lefolytatásához a hasznosító az engedély jogerőre emelkedését követő 30 napon belül köteles a géntechnológiával módosított növény szaporítóanyagából, valamint a növény géntechnológiával nem módosított, a vizsgálatokban kontrollként alkalmazható változatának szaporítóanyagából a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóságnál az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott módon az engedélyben előírt mennyiségű mintát elhelyezni. Amennyiben a hasznosító ezen kötelezettségének nem tesz eleget, a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság a kiadott engedélyt visszavonja.
+(4) A (3) bekezdés szerinti, a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság által elvégzendő vizsgálatok lefolytatásához a hasznosító az engedély véglegessé válását követő 30 napon belül köteles a géntechnológiával módosított növény szaporítóanyagából, valamint a növény géntechnológiával nem módosított, a vizsgálatokban kontrollként alkalmazható változatának szaporítóanyagából a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóságnál az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott módon az engedélyben előírt mennyiségű mintát elhelyezni. Amennyiben a hasznosító ezen kötelezettségének nem tesz eleget, a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság a kiadott engedélyt visszavonja.
 
 (5) A (4) bekezdés szerint átadott mintákat – a szellemi tulajdonhoz fűződő jogok tiszteletben tartása mellett – a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság kizárólag az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kiegészítő, ellenőrző vizsgálatok céljára használhatja fel, illetve bocsáthatja harmadik személy rendelkezésére. Az engedélyben meghatározott jogosultsági idő lejártát vagy az engedély visszavonását követő 30 napon belül a környezetvédelmi, mezőgazdasági és ipari géntechnológiai hatóság a minta fel nem használt részét visszaszolgáltatja a hasznosítónak.
 
@@ -248,7 +252,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 11/C. § (1) A géntechnológiával módosított növényfajták állami elismerése, valamint a géntechnológiával módosított állatfajták fajtaelismerése során a növényfajták állami elismeréséről és az állatfajták fajtaelismeréséről szóló jogszabályok előírásait e §-ban foglaltakkal együtt kell alkalmazni.
 
-(2) A géntechnológiával módosított növényfajták esetén az állami elismeréshez szükséges kísérleti vizsgálatok csak a géntechnológiai hatóság nem forgalomba hozatali célú kibocsátási engedélyének jogerőre emelkedését követően kezdhetők meg.
+(2) A géntechnológiával módosított növényfajták esetén az állami elismeréshez szükséges kísérleti vizsgálatok csak a géntechnológiai hatóság nem forgalomba hozatali célú kibocsátási engedélyének véglegessé válását követően kezdhetők meg.
 
 (3) Az állami elismerésre bejelentett géntechnológiával módosított növényfajta fajtavizsgálatának eredményeit a növényfajták állami elismerését végző hatóság akkor terjesztheti a Fajtaminősítő Bizottság elé, ha a géntechnológiával módosított szervezet forgalomba hozatali engedéllyel rendelkezik és azt a bejelentő a növényfajták állami elismerését végző hatósághoz benyújtotta.
 
@@ -271,7 +275,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 13. § (1) A forgalomba hozatali engedéllyel rendelkező géntechnológiával módosított szervezetek harmadik országból – nem érintve az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában foglalt előírásokat – külön engedély nélkül behozhatók.
 
-(2) A forgalomba hozatali engedéllyel nem rendelkező géntechnológiával módosított szervezetek, valamint azok bármely része (beleértve a génállományának újratermelésére, illetve örökítésére nem képes részeket is) harmadik országból történő behozatala, illetve oda történő kivitele engedélyköteles. Az engedély iránti kérelmet a géntechnológiai hatósághoz a küldemény magyarországi címzettjének vagy feladójának kell benyújtania. A géntechnológiai hatóság az engedély iránti kérelemről a kérelem megérkezésétől számított 90 napon belül dönt. Az engedélyben a géntechnológiai hatóság meghatározza a behozatal és a kivitel feltételeit, a veszélyes áruk szállításáról szóló jogszabályok hatálya alá tartozó géntechnológiával módosított szervezetek és az azokból előállított termékek esetében e jogszabályokkal összhangban.
+(2) A forgalomba hozatali engedéllyel nem rendelkező géntechnológiával módosított szervezetek, valamint azok bármely része (beleértve a génállományának újratermelésére, illetve örökítésére nem képes részeket is) harmadik országból történő behozatala, illetve oda történő kivitele engedélyköteles. Az engedély iránti kérelmet a géntechnológiai hatósághoz a küldemény magyarországi címzettjének vagy feladójának kell benyújtania. A géntechnológiai hatóság az engedély iránti kérelemről a kérelem megérkezésétől számított 130 napon belül dönt. Az engedélyben a géntechnológiai hatóság meghatározza a behozatal és a kivitel feltételeit, a veszélyes áruk szállításáról szóló jogszabályok hatálya alá tartozó géntechnológiával módosított szervezetek és az azokból előállított termékek esetében e jogszabályokkal összhangban.
 
 (3) A környezetbe történő szándékos kibocsátásra, élelmiszerként vagy takarmányként történő közvetlen felhasználásra vagy feldolgozásra, illetve zárt rendszerű felhasználásra szánt géntechnológiával módosított szervezetek kivitelére, továbbá a géntechnológiával módosított szervezetek nem szándékos kivitelére és behozatalára az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusának rendelkezései alkalmazandók.
 
@@ -285,7 +289,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (2) A forgalomba hozatali engedéllyel nem rendelkező géntechnológiával módosított szervezetek és az azokból előállított termékek Magyarországról az Európai Gazdasági Térség tagországaiba, valamint az Európai Gazdasági Térség tagországaiból Magyarországra külön engedéllyel szállíthatók. A szállítási engedély iránti kérelmeket a géntechnológiai hatósághoz a küldemény magyarországi címzettjének vagy feladójának kell benyújtania.
 
-(3) A géntechnológiai hatóság a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti általános ügyintézési határidőn belül dönt az engedély iránti kérelemről. Az engedélyben a géntechnológiai hatóság a veszélyes áruk szállításáról szóló jogszabályok hatálya alá tartozó géntechnológiával módosított szervezetek és az azokból előállított termékek esetében – e jogszabályokkal összhangban – meghatározza a szállítás feltételeit. A szállítási engedély másolatának kísérnie kell a szállítmányt.
+(3) Az engedélyben a géntechnológiai hatóság a veszélyes áruk szállításáról szóló jogszabályok hatálya alá tartozó géntechnológiával módosított szervezetek és az azokból előállított termékek esetében – e jogszabályokkal összhangban – meghatározza a szállítás feltételeit. A szállítási engedély másolatának kísérnie kell a szállítmányt.
 
 (4) A nem szándékos szállítás esetén alkalmazandó rendelkezéseket az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa tartalmazza.
 
@@ -333,7 +337,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 21. § (1) Az ellenőrzésre jogosult hatóság évente tájékoztatót készít a géntechnológiai hatóságnak a géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerű felhasználásának és kibocsátásának ellenőrzéséről, amelyet tájékoztatásul megküld a Géntechnológiai Bizottság részére is.
 
-(2) A Géntechnológiai Bizottság tevékenységével összefüggő feladatok teljesítéséről annak elnöke és titkára évente összefoglaló beszámolót készít, amelynek részét képezik az (1) bekezdésben meghatározott tájékoztatók. A beszámolót az agrárpolitikáért felelős miniszter által vezetett minisztérium a hivatalos lapjában és honlapján közzéteszi.
+(2) A Géntechnológiai Bizottság tevékenységével összefüggő feladatok teljesítéséről annak elnöke és titkára évente összefoglaló beszámolót készít, amelynek részét képezik az (1) bekezdésben meghatározott tájékoztatók. A beszámolót az agrárpolitikáért felelős miniszter által vezetett minisztérium a honlapján közzéteszi.
 
 ### Baleset
 
@@ -343,9 +347,9 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 ### III. Fejezet — Az egymás melletti termesztés engedélyezésének szabályai
 
-21/B. § (1) A géntechnológiával módosított növények és a hagyományos módon, valamint az ökológiai gazdálkodással termesztett növények keveredésének megelőzése érdekében a géntechnológiával módosított növények termesztésére kizárólag a termesztési hatóság jogerős termesztési engedélyének birtokában kerülhet sor.
+21/B. § (1) A géntechnológiával módosított növények és a hagyományos módon, valamint az ökológiai gazdálkodással termesztett növények keveredésének megelőzése érdekében a géntechnológiával módosított növények termesztésére kizárólag a termesztési hatóság véglegessé vált termesztési engedélyének birtokában kerülhet sor.
 
-(2) A géntechnológiával módosított növényt termesztő természetes személynek, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek (a továbbiakban: termelő) a termesztési engedély iránti kérelmet legalább 90 nappal a vetés tervezett időpontja előtt kell benyújtania a termesztési hatósághoz, csatolva az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott, az egymás melletti termesztéshez szükséges ismeretek megszerzését igazoló – saját vagy az általa alkalmazott személy – bizonyítványát. A termesztési engedély iránti kérelem benyújtásakor külön jogszabályban meghatározott díjat kell fizetni.
+(2) A géntechnológiával módosított növényt termesztő természetes személynek, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek (a továbbiakban: termelő) a termesztési engedély iránti kérelmet legalább 130 nappal a vetés tervezett időpontja előtt kell benyújtania a termesztési hatósághoz, csatolva az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott, az egymás melletti termesztéshez szükséges ismeretek megszerzését igazoló – saját vagy az általa alkalmazott személy – bizonyítványát. A termesztési engedély iránti kérelem benyújtásakor külön jogszabályban meghatározott díjat kell fizetni.
 
 (3) Több termelő közösen is benyújthat kérelmet, amennyiben földterületeik, amelyeken géntechnológiával módosított növényt kívánnak termeszteni, egymással szomszédosak. Ebben az esetben a termesztési hatóság a pufferzóna méretének és a termesztés egyéb feltételeinek meghatározásakor a földterületeket egy egésznek tekinti és a termesztés engedélyezéséről egy határozatot hoz. Közös kérelem esetén a termesztési hatóság csak abban az esetben adja meg az engedélyt, ha minden termelőnél külön-külön fennállnak a jogszabályban előírt feltételek, ellenkező esetben a kérelmet minden kérelmező vonatkozásában elutasítja.
 
@@ -471,7 +475,7 @@ esetén.
 - a) visszavonja a géntechnológiai tevékenységre vonatkozó, nemzeti hatáskörben megadott engedélyt,
 - b) uniós hatáskörbe tartozó engedély esetén az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott kapcsolattartó szerven keresztül kezdeményezi az engedély visszavonását.
 
-(3) A géntechnológiai hatóság a nemzeti hatáskörbe tartozó engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról szóló határozatát közli a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túlmenően a nyilvántartó szervvel is.
+(3) A géntechnológiai hatóság a nemzeti hatáskörbe tartozó engedély feltételhez kötéséről, módosításáról, felfüggesztéséről vagy visszavonásáról szóló határozatát közli az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően a nyilvántartó szervvel is.
 
 (4) A 22. § (1) bekezdés b) pontja szerinti esetben a géntechnológiai hatóság a nem engedélyezett géntechnológiai tevékenységet folytató természetes vagy jogi személyt, valamint jogi személyiséggel nem rendelkező szervezetet 3 évig eltilthatja minden géntechnológiai tevékenység végzésétől, aki ezáltal a tilalom idejére géntechnológiai tevékenység végzésére jogosító engedélyt nem kaphat.
 
@@ -499,9 +503,9 @@ esetén.
 (2) Az (1) bekezdésben foglalt feladatkörében az agrárpolitikáért, illetve az egészségügyért felelős miniszter a rendkívüli GM-esemény bekövetkeztekor
 
 - a) adatszolgáltatásra – így a személyes adatok körében név, cím, elérhetőség megadására – kötelező,
-- b) termék vagy termékcsoport felhasználását, forgalmazását felfüggesztő, illetve megtiltó határozatot hoz, amelyet a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. Az így közzétett határozat fellebbezésre tekintet nélkül azonnal végrehajtandó. A határozat közlése időpontjának az első közzététel időpontja minősül.
+- b) termék vagy termékcsoport felhasználását, forgalmazását felfüggesztő, illetve megtiltó határozatot hoz, amelyet a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. Az így közzétett határozat azonnal végrehajtandó. A határozat közlése időpontjának az első közzététel időpontja minősül.
 
-(3) A határozat a közigazgatási hatósági eljárás általános szabályairól szóló törvény által előírt jogosult vagy kötelezett ügyfél személyazonosító adatai helyett a döntéssel érintett termékkört, illetve személyi kört tartalmazza.
+(3) A határozat az általános közigazgatási rendtartásról szóló törvény által előírt jogosult vagy kötelezett ügyfél személyazonosító adatai helyett a döntéssel érintett termékkört, illetve személyi kört tartalmazza.
 
 ### Felelősség a géntechnológiai tevékenységbőleredő károkért
 

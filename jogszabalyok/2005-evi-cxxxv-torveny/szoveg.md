@@ -76,9 +76,9 @@ nyújt a sérelem rendezéséhez.
 5. § Nem kaphat szolgáltatást az az áldozat, aki
 
 - a) a kért támogatást az ügyben korábban már megkapta, kivéve a tanúgondozást és a védett szálláshelyet,
-- b) korábbi támogatás iránti ügyében valótlan adatot szolgáltatott, az ezt megállapító határozat jogerőre emelkedésétől számított 2 évig,
+- b) korábbi támogatás iránti ügyében valótlan adatot szolgáltatott, az ezt megállapító határozat véglegessé válásától vagy jogerőre emelkedésétől számított 2 évig,
 - c) a támogatás iránti ügyében akadályozza az ellenőrzésre irányuló vizsgálat elvégzését,
-- d) a korábbi támogatás iránti ügyében megakadályozta az ellenőrzésre irányuló vizsgálatot, az ezt megállapító határozat jogerőre emelkedéséről számított 2 évig,
+- d) a korábbi támogatás iránti ügyében megakadályozta az ellenőrzésre irányuló vizsgálatot, az ezt megállapító határozat véglegessé válásától vagy jogerőre emelkedéséről számított 2 évig,
 - e) a korábban igénybe vett, e törvény szerinti, pénzben nyújtott támogatást, illetve a jogi segítségnyújtás díját – bár arra köteles lett volna – nem térítette vissza az államnak.
 
 ### III. Fejezet — A KÁRENYHÍTÉS
@@ -104,7 +104,8 @@ nyújt a sérelem rendezéséhez.
 - f) fogyatékossági támogatásra, vakok személyi járadékára vagy magasabb összegű családi pótlékra jogosult,
 - g) átmeneti szállást vagy éjjeli menedékhelyet igénybe vevő hajléktalan személy,
 - h) családok, gyermekek átmeneti otthonát igénybe vevő személy,
-- i) Magyarország területén menekültügyi eljárás alatt álló személy.
+- i) Magyarország területén menekültügyi eljárás alatt álló személy,
+- j) terrorcselekmény áldozatává vált.
 
 ### A kárenyhítés formái és mértéke
 
@@ -215,7 +216,7 @@ nyújt a sérelem rendezéséhez.
 
 ### Adatváltozás bejelentése
 
-12. § Ha e törvény másként nem rendelkezik, az áldozat a kérelemben közölt adatokban bekövetkező változást – a kérelmet érdemben elbíráló döntés jogerőre emelkedéséig – annak megtörténtétől számított 8 napon belül köteles az áldozatsegítő szolgálatnak bejelenteni.
+12. § Ha e törvény másként nem rendelkezik, az áldozat a kérelemben közölt adatokban bekövetkező változást – a kérelmet érdemben elbíráló döntés véglegessé válásáig vagy jogerőre emelkedéséig – annak megtörténtétől számított 8 napon belül köteles az áldozatsegítő szolgálatnak bejelenteni.
 
 ### A kérelemben foglaltak valódiságának ellenőrzése
 
@@ -239,7 +240,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 ### Visszatérítés
 
-15. § (1) Az áldozat a támogatás iránti kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 évig köteles visszatéríteni a pénzben nyújtott támogatást, ha
+15. § (1) Az áldozat a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 évig köteles visszatéríteni a pénzben nyújtott támogatást, ha
 
 - a) az e törvény szerinti támogatás iránti kérelmet az áldozat bűncselekmény áldozataként nyújtotta be és az eljáró hatóság jogerősen megállapította, hogy a támogatás alapjául szolgáló cselekmény nem bűncselekmény,
 - b) az áldozat a támogatás iránti ügyében valótlan adatot szolgáltatott,
@@ -252,19 +253,19 @@ meghatározott feltételek vizsgálatát kell érteni.
 - a) az 1. § (3) bekezdés a) pontja szerinti esetekben, vagy
 - b) ha a cselekmény tulajdon elleni szabálysértés és ezt az erre hatáskörrel rendelkező szabálysértési hatóság, illetve bíróság jogerősen megállapította, vagy a cselekmény miatt indult szabálysértési eljárást a Szabs. tv. 83. § b)–e) vagy h)–i) pontja alapján szüntették meg.
 
-(2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
+(2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
 
-(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott „bűncselekmények áldozatainak kárenyhítése” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
+(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező végleges vagy jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott „bűncselekmények áldozatainak kárenyhítése” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
 
 (4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb hat hónap halasztást vagy részletfizetést engedélyezhet.
 
 (4a) Az áldozatsegítő szolgálat visszatérítés tárgyában hozott döntése ellen fellebbezésnek van helye.
 
-(5) A vissza nem térített támogatás adók módjára behajtandó köztartozásnak minősül, a teljesítés elmulasztása esetén az áldozatsegítő szolgálat megkeresi a tartozás összegének behajtására hatáskörrel rendelkező szervet.
+(5)
 
 ### Méltányosság
 
-15/A. § (1) A 15. § (1) bekezdés b) és d) pontjaiban meghatározott eseteket kivéve az áldozatsegítő szolgálat az áldozatnak a visszatérítési kötelezettséget előíró határozat jogerőre emelkedésétől a visszafizetési határidő lejártáig előterjesztett kérelmére a visszafizetendő összeget méltányosságból mérsékelheti vagy elengedheti, ha az áldozat havi nettó jövedelme – közös háztartásban élők esetén az egy főre eső jövedelem – nem haladja meg az alapösszeget, vagy a visszafizetés az áldozat vagy a vele közös háztartásban élők számára méltánytalanul súlyos hátrányt okozna.
+15/A. § (1) A 15. § (1) bekezdés b) és d) pontjaiban meghatározott eseteket kivéve az áldozatsegítő szolgálat az áldozatnak a visszatérítési kötelezettséget előíró határozat véglegessé válásától vagy jogerőre emelkedésétől a visszafizetési határidő lejártáig előterjesztett kérelmére a visszafizetendő összeget méltányosságból mérsékelheti vagy elengedheti, ha az áldozat havi nettó jövedelme – közös háztartásban élők esetén az egy főre eső jövedelem – nem haladja meg az alapösszeget, vagy a visszafizetés az áldozat vagy a vele közös háztartásban élők számára méltánytalanul súlyos hátrányt okozna.
 
 (2) A méltányosság iránti kérelemhez csatolni kell az áldozat és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
 
@@ -279,11 +280,11 @@ meghatározott feltételek vizsgálatát kell érteni.
 - a) az áldozatnak a 10. § (3) bekezdésének a) pontja szerinti adatait,
 - b) a 10. § (3) bekezdés b) és c) pontja szerinti adatokat,
 - c) a 11. § (1) bekezdésének c) pontja szerinti adatokat,
-- d) a támogatásra vonatkozó adatokat: 1. az eljáró áldozatsegítő szolgálat neve, 2. az igényelt támogatás formája, 3. a határozat tartalma, 4. a határozathozatal helye és időpontja, 5. a jogorvoslati kérelem elbírálása, jogerőre emelkedés időpontja, 6. a megismételt eljárás adatai, 7. a támogatás ellenőrzésére vonatkozó adatok, 8. a közreműködő szervezetek nevei.
+- d) a támogatásra vonatkozó adatokat: 1. az eljáró áldozatsegítő szolgálat neve, 2. az igényelt támogatás formája, 3. a határozat tartalma, 4. a határozathozatal helye és időpontja, 5. a jogorvoslati kérelem elbírálása, véglegessé válás vagy jogerőre emelkedés időpontja, 6. a megismételt eljárás adatai, 7. a támogatás ellenőrzésére vonatkozó adatok, 8. a közreműködő szervezetek nevei.
 
 (3) Az áldozatsegítő szolgálat a nyilvántartásban rögzített adatokat az áldozatsegítő szolgálathoz fordulás napjától vagy a kérelem előterjesztésétől számított 10 évig tartja nyilván és kezeli.
 
-(4) Az áldozatsegítő szolgálat a nyilvántartás adatairól megkeresésre tájékoztatást ad a büntető-, szabálysértési vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a szabálysértési ügyben eljáró szabálysértési hatóság, valamint a jogi segítő számára.
+(4) Az áldozatsegítő szolgálat a nyilvántartás adatairól megkeresésre tájékoztatást ad a büntető-, szabálysértési, közigazgatási vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a szabálysértési ügyben eljáró szabálysértési hatóság, valamint a jogi segítő számára.
 
 (5) Az áldozatsegítő szolgálat a gyermekek veszélyeztetettségének megelőzése, megszüntetése céljából a nyilvántartásban szereplő adatokról, az áldozattá válás körülményeire, illetve a kiskorú veszélyeztetettségére utaló adatokról a gyermekjóléti szolgálatoknak, illetve az eljáró gyámhatóságnak tájékoztatást ad.
 
@@ -308,6 +309,8 @@ meghatározott feltételek vizsgálatát kell érteni.
 (2) Az eljárás irataiba a 16. § (4) és (5) bekezdésében megjelölt személyek és hatóságok is betekinthetnek.
 
 (3) Az áldozatsegítő szolgálat eljárásában írásbelinek nem minősíthető elektronikus úton nem tart kapcsolatot az ügyféllel.
+
+(4) Az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
 
 ### V. Fejezet — A SZOLGÁLTATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -398,7 +401,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (2) Ha a körülmények alapján bebizonyosodik, hogy a rászoruló áldozat sérelmének rendezéséhez a jogi segítségnyújtásról szóló 2003. évi LXXX. törvényben (a továbbiakban: Jst.) meghatározott jogi segítségnyújtásra van szükség, az áldozatsegítő szolgálat igazolja az ügyfél áldozati státuszát, és ezen igazolást, valamint – ha rendelkezésre áll – a kérelmet továbbítja a jogi segítségnyújtó szolgálatnak, amely a döntéséről és a megtett intézkedésekről haladéktalanul értesíti az áldozatsegítő szolgálatot. A jogi segítségnyújtásra az áldozat a Jst.-ben meghatározott feltételek esetén jogosult.
 
-(3) Az áldozatsegítő szolgálatnak az áldozati státusz igazolása tárgyában hozott döntésével szemben fellebbezésnek van helye.
+(3)
 
 ### VI. Fejezet — A KÁRENYHÍTÉSRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -456,7 +459,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 - a) a 8. § c)–e) és h) pontja szerinti kizáró okok valamelyikét bíróság vagy nyomozó hatóság jogerős határozata megállapítja,
 - b) a bűncselekménnyel összefüggésben felmerült kár az elkövetőtől vagy más forrásból megtérült.
 
-(2) A bejelentési kötelezettség az áldozatot a kárenyhítési kérelmet érdemben elbíráló határozat jogerőre emelkedését követő 3 évig terheli.
+(2) A bejelentési kötelezettség az áldozatot a kárenyhítési kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 évig terheli.
 
 34. §
 
@@ -540,21 +543,21 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 ### Felhatalmazás
 
-46. § (1) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendelettel állapítsa meg
+46. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) az e törvény szerinti támogatások engedélyezése iránti kérelem előterjesztésére vonatkozó részletes szabályokat, a rászorultság igazolásának módját, a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályait,
-- b) az áldozatsegítő szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat,
-- c)
+- a) jelölje ki az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül a támogató hatóságot vagy hatóságokat és a döntő hatóságot vagy hatóságokat,
+- b) állapítsa meg az e törvény szerinti szolgáltatások engedélyezése iránti eljárás, a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályait és
+- c) állapítsa meg az emberkereskedelem magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait.
 
-(2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit, valamint az áldozatsegítő szolgálat által készített, az áldozatok jogairól szóló tájékoztató részletes tartalmi követelményeit rendeletben állapítsa meg.
+(2) Felhatalmazást kap az áldozatsegítésért felelős miniszter, hogy rendeletben állapítsa meg
 
-(3) Felhatalmazást kap a Kormány, hogy az áldozatsegítő szolgálatot vagy szolgálatokat, ezen belül a támogató hatóságot vagy hatóságokat és a döntő hatóságot vagy hatóságokat rendeletben jelölje ki.
+- a) az e törvény szerinti támogatások engedélyezése iránti kérelem tartalmára és kitöltésére, valamint a szolgáltatások nyújtásával kapcsolatos egyes nem hatósági eljárási kérdésekre vonatkozó szabályokat,
+- b) az áldozatsegítő szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat és
+- c) az irányítása alá tartozó szervek áldozatsegítő feladatait, azok civil szervezetekkel való együttműködésének formáit, valamint az áldozatsegítő szolgálat által készített, az áldozatok jogairól szóló tájékoztató részletes tartalmi követelményeit.
 
-(4) Felhatalmazást kap a Kormány, hogy az emberkereskedelem magyar állampolgárságú áldozatai és a szabad mozgás és tartózkodás jogával rendelkező áldozatai azonosításának rendjét, valamint az azonosításra jogosult és jelzésre kötelezett szerveket és szervezeteket, valamint a védett szálláshelyen nyújtott ellátások feltételeit és részletes szabályait rendeletben állapítsa meg.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg a bírósági ügyintézők tanúgondozással kapcsolatos feladatait, valamint a tanúgondozás részletes szabályait.
 
-(5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a bírósági ügyintézők tanúgondozással kapcsolatos feladatait, valamint a tanúgondozás részletes szabályait rendeletben állapítsa meg.
-
-(6) Felhatalmazást kap a rendészetért felelős miniszter, hogy az irányítása alá tartozó szervek áldozatsegítő feladataira vonatkozó részletes szabályokat – az áldozatsegítésért felelős miniszter egyetértésével – rendeletben állapítsa meg.
+(4) Felhatalmazást kap a rendészetért felelős miniszter, hogy – az áldozatsegítésért felelős miniszter egyetértésével – rendeletben állapítsa meg az irányítása alá tartozó szervek áldozatsegítő feladataira vonatkozó részletes szabályokat.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -567,6 +570,8 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 (4) E törvény 24. § (2) bekezdése és 46. § (4) bekezdése az emberkereskedelem megelőzéséről, és az ellene folytatott küzdelemről, az áldozatok védelméről, valamint a 2002/629/IB tanácsi kerethatározat felváltásáról szóló 2011. április 5-i 2011/36/EU európai parlamenti és tanácsi irányelv 11. cikkének történő megfelelést szolgálja.
 
 (5) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(6) Ez a törvény a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i EU 2017/541 európai parlamenti és tanácsi irányelv 24. és 26. cikkének való megfelelést szolgálja.
 
 48. § (1)–(6)
 

@@ -6,13 +6,13 @@ a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törv�
 
 1–4. §
 
-5. §
+5. § Hatályát veszti a Tao tv. 4. § 47. és 48. pontja, 22/D. §-a, 3. számú melléklet A) rész 17. pontja és B) rész 9. pontja, 29/A. § (18)–(19) bekezdése.
 
 #### 2. A sportról szóló 2004. évi I. törvény módosítása
 
 6–7. §
 
-8. §
+8. § Hatályát veszti a Sport tv. 62/A. és 62/C. §-a.
 
 #### 3. Záró rendelkezések
 

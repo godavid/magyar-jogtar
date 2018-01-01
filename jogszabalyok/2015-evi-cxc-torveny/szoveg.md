@@ -1420,6 +1420,8 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 5. Aruba
 - 6. Ausztrália
 - 7. Ausztria
+- 7a. Azerbajdzsán
+- 7b. Bahrein
 - 8. Barbados
 - 9. Belgium
 - 10. Belize
@@ -1435,18 +1437,19 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 19. Csehország
 - 20. Dánia
 - 21. Dél-Afrika
+- 21a. Egyesült Arab Emírségek
 - 22. Egyesült Királyság
 - 23. Észtország
 - 24. Feröer-szigetek
 - 25. Finnország
-- 26. Franciaország
+- 26. Franciaország és annak következő tengerentúli területei: – Francia Guyana, – Guadeloupe, – Martinique, – Mayotte, – Réunion és – Saint-Barthélemy
 - 27. Ghána
 - 28. Gibraltár
 - 29. Görögország
 - 30. Grenada
 - 30a. Grönland
 - 31. Guernsey
-- 32. Hollandia
+- 32. Hollandia és annak következő területe: – Bonaire, Sint Eustatius és Saba
 - 33. Horvátország
 - 34. India
 - 35. Indonézia
@@ -1463,6 +1466,7 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 43a. Kuvait
 - 44. Lengyelország
 - 45. Lettország
+- 45a. Libanon
 - 46. Liechtenstein
 - 47. Litvánia
 - 48. Luxemburg
@@ -1476,10 +1480,12 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 54. Montserrat
 - 54a. Nauru
 - 55. Németország
+- 55a. Nigéria
 - 56. Niue
 - 57. Norvégia
 - 58. Olaszország
 - 58a. Orosz Föderáció
+- 58b. Pakisztán
 - 59. Portugália
 - 60. Románia
 - 60a. Saint Kitts és Nevis
@@ -1492,7 +1498,10 @@ A. A joghatóságnak rendelkeznie kell a fent meghatározott jelentéstételi é
 - 67. Spanyolország
 - 68. Svájc
 - 69. Svédország
+- 69a. Szaúd-Arábia
+- 69b. Szingapúr
 - 70. Szlovák Köztársaság
 - 71. Szlovénia
+- 71a. Törökország
 - 72. Turks és Caicos-szigetek
 - 73. Új-Zéland

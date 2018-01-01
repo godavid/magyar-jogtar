@@ -314,7 +314,7 @@ kapcsolatban.
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-23. § A Hatóság a nem polgári célú frekvenciagazdálkodási hatósági eljárások kivételével a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit e törvényben foglalt eltérésekkel alkalmazza.
+23. § A Hatóság a nem polgári célú frekvenciagazdálkodási hatósági eljárások kivételével az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit e törvényben foglalt eltérésekkel és kiegészítésekkel alkalmazza.
 
 ### Eljárási alapelvek
 
@@ -352,15 +352,15 @@ alapelveit.
 
 ### Jogutódlás
 
-26. § (1) A jogerős határozat alapján jogosított ügyfél helyébe jogutódja léphet.
+26. § (1) A véglegessé vált határozat alapján jogosított ügyfél helyébe jogutódja léphet.
 
-(2) A jogerős határozattal kötelezett ügyfél helyébe – amennyiben a kötelezettség célja és jogalapja a jogutóddal szemben is fennmarad – jogutódja lép. A jogerős határozattal megállapított kötelezettség esetén – indokolt esetben a teljesítési határidő kérelmére egy alkalommal történő meghosszabbításával – a jogutód a kötelezettséget önkéntesen teljesítheti. Erről a Hatóság és a jogutód hatósági szerződésben is megállapodhat.
+(2) A véglegessé vált határozattal kötelezett ügyfél helyébe – amennyiben a kötelezettség célja és jogalapja a jogutóddal szemben is fennmarad – jogutódja lép. A véglegessé vált határozattal megállapított kötelezettség esetén – indokolt esetben a teljesítési határidő kérelmére egy alkalommal történő meghosszabbításával – a jogutód a kötelezettséget önkéntesen teljesítheti. Erről a Hatóság és a jogutód hatósági szerződésben is megállapodhat.
 
-(3) A jogerős határozattal megállapított kötelezettség esetén az ügyfél jogutódjának minősül az a harmadik személy is, akire az eredeti (jogelőd) kötelezett ügyfél a tevékenysége végzésének feltételeit megállapodás alapján átruházza.
+(3) A véglegessé vált határozattal megállapított kötelezettség esetén az ügyfél jogutódjának minősül az a harmadik személy is, akire az eredeti (jogelőd) kötelezett ügyfél a tevékenysége végzésének feltételeit megállapodás alapján átruházza.
 
 (4) Amennyiben a jogutódlás a hatósági eljárás során következik be és a jogutódlás jogszabályon alapul, abban az esetben a Hatóság a jogutódlás tényét végzésében megállapítja.
 
-(5) Amennyiben a jogutódlás hatósági eljárás során következik be és a jogutódlás szerződésen alapul, akkor a Hatóság a hatósági hatáskörének gyakorlásához szükséges jogutódlás tényét végzésében megállapítja. E végzés ellen önálló fellebbezésnek helye nincs.
+(5) Amennyiben a jogutódlás hatósági eljárás során következik be és a jogutódlás szerződésen alapul, akkor a Hatóság a hatósági hatáskörének gyakorlásához szükséges jogutódlás tényét végzésében megállapítja.
 
 ### Titoktartás
 
@@ -380,31 +380,31 @@ alapelveit.
 
 29. § (1) A Hatóság a hatáskörébe tartozó ügyekben eljárását hivatalból is megindíthatja, kivéve, ha e törvény szerint az eljárás kizárólag kérelemre indítható.
 
-(2) Amennyiben a Hatóság eljárása során az egyedi hatósági ügy tárgyán kívüli, de azzal szorosan vagy közvetetten összefüggő jogsértésről szerez tudomást, annak vonatkozásában – hatósági döntésének meghozatala előtt – eljárását hivatalból kiterjesztheti. Az eljárás hivatalbóli kiterjesztéséről az ügyfeleket a Ket. vonatkozó rendelkezései szerint értesíteni kell. Az eljárás hivatalbóli kiterjesztésével az ügyintézési határidő az eljárásra irányadó ügyintézési határidővel meghosszabbodik.
+(2) Amennyiben a Hatóság eljárása során az egyedi hatósági ügy tárgyán kívüli, de azzal szorosan vagy közvetetten összefüggő jogsértésről szerez tudomást, annak vonatkozásában – hatósági döntésének meghozatala előtt – eljárását hivatalból kiterjesztheti. Az eljárás hivatalbóli kiterjesztéséről az ügyfeleket az Ákr. vonatkozó rendelkezései szerint értesíteni kell. Az eljárás hivatalbóli kiterjesztésével az ügyintézési határidő az eljárásra irányadó ügyintézési határidővel meghosszabbodik.
 
 (3) Az Elnök rendeletben meghatározza a Hatóság azon eljárásait, amelyekért igazgatási szolgáltatási díjat kell fizetni.
 
 ### A hatáskör és az illetékesség vizsgálata
 
-30. § Hatáskör vagy illetékesség hiányában a Hatóság jogosult – a hatáskörrel és illetékességgel rendelkező hatóság hatáskörének vizsgálata, illetve áttétel nélkül – a kérelmet érdemi vizsgálat nélkül elutasítani vagy az eljárást megszüntetni.
+30. § Hatáskör vagy illetékesség hiányában a Hatóság jogosult – a hatáskörrel és illetékességgel rendelkező hatóság hatáskörének vizsgálata, illetve áttétel nélkül – a kérelmet visszautasítani vagy az eljárást megszüntetni.
 
-### Ügyintézési határidő
+### Ügyintézési határidő és az eljárás felfüggesztése
 
-31. § (1) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – negyvenöt nap, amely indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+31. § (1) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – hatvan nap.
 
-(2) Az érdekeltekkel történő egyeztetést igénylő eljárásokban az ügyintézési határidő kilencven nap, amely határidőbe az egyeztetés időtartama nem számít be és amely indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+(2) Az érdekeltekkel történő egyeztetést igénylő eljárásokban az ügyintézési határidő kilencven nap.
 
-(3) Az általános hatósági felügyeleti és piacfelügyeleti eljárásban az ügyintézési határidő hatvan nap. A határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+(3) Az általános hatósági felügyeleti és piacfelügyeleti eljárásban az ügyintézési határidő kilencven nap.
 
-(3a) Az elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárásban, valamint a 83/B. § (1) bekezdése, a 90. § (7) bekezdése, a 93/A. § (8) bekezdése, a 93/B. § (6) bekezdése, a 94. § (2f) bekezdése és a 99/C. § (2) bekezdése szerinti jogvitás eljárásokban az ügyintézési határidő hatvan nap.
+(4) Ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, a hatóság az eljárást felfüggeszti.
 
-(4) § Az (1) bekezdésben meghatározott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor az ügyintézési határidő kivételével újra kezdődik. A felfüggesztés időtartama alatt megtett valamennyi eljárási cselekmény hatálytalan, kivéve azokat, amelyek a felfüggesztési ok megszüntetésére irányulnak.
 
 ### Kérelem
 
-32. § (1) Az ügyfél kérelmét a Hatóság által e célra rendszeresített nyomtatványon – elektronikus kapcsolattartás esetén elektronikus űrlapon – köteles benyújtani.
+32. § (1) Az ügyfél kérelmét a Hatóság által e célra rendszeresített nyomtatványon – elektronikus kapcsolattartás esetén elektronikus űrlapon – köteles benyújtani. A kérelem kormányablaknál nem terjeszthető elő.
 
-(2) Amennyiben a fogyasztó kérelmét nem űrlapon nyújtja be a Hatóság nyolc napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő felhívás mellett – felhívhatja a kérelem megfelelő űrlapon történő benyújtására. E felhívás nem teljesítése esetén a Hatóság az eljárást megszüntetheti, kivéve, ha az űrlap kitölthető és letölthető változata a hiánypótlás teljesítésére meghatározott határidőn belül nem volt közzétéve.
+(2) Amennyiben a fogyasztó kérelmét nem űrlapon nyújtja be a Hatóság nyolc napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő felhívás mellett – felhívhatja a kérelem megfelelő űrlapon történő benyújtására. E felhívás nem teljesítése esetén a Hatóság a kérelmet visszautasíthatja, kivéve, ha az űrlap kitölthető és letölthető változata a hiánypótlás teljesítésére meghatározott határidőn belül nem volt közzétéve.
 
 ### Iratok megtekintése, törvény által védett titok
 
@@ -424,11 +424,11 @@ alapelveit.
 
 (6) Amennyiben a jogalkalmazás megfelelő gyakorlása, vagy a jogérvényesítés, valamint az ügyfelek jogai gyakorlása érdekében indokolt, a Hatóság felhívhatja az ügyfelet és az eljárás egyéb résztvevőjét a (2) bekezdés szerinti zárt adatkezelés feloldására.
 
-(7) Amennyiben az ügyfél és az eljárás egyéb résztvevője a (2) bekezdés szerinti minősítést nyilatkozatával nem oldja fel, a Hatóság végzésében – amennyiben a jogalkalmazás gyakorlásához vagy az ügyfelek jogérvényesítéséhez elengedhetetlenül szükséges – elrendelheti a zárt adatkezelés feloldását. E végzés ellen az ügyfél és az eljárás egyéb résztvevője a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
+(7) Amennyiben az ügyfél és az eljárás egyéb résztvevője a (2) bekezdés szerinti minősítést nyilatkozatával nem oldja fel, a Hatóság végzésében – amennyiben a jogalkalmazás gyakorlásához vagy az ügyfelek jogérvényesítéséhez elengedhetetlenül szükséges – elrendelheti a zárt adatkezelés feloldását. E végzés közigazgatási perben megtámadható, a keresetlevél benyújtásának halasztó hatálya van. A bíróság harminc napon belül dönt.
 
 ### Kizárás
 
-34. § (1) Az ügy érdemi elintézésében a Ket. kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya az ügyféllel, illetve az ügyfélben befolyásoló részesedéssel rendelkező vagy az ügyfél befolyásoló részesedése mellett működő vállalkozással az eljárás kezdetét megelőző egy éven belül állt fenn, illetve akinek hozzátartozója
+34. § (1) Az ügy érdemi elintézésében az Ákr. kizárásra vonatkozó rendelkezéseiben foglaltakon túl nem vehet részt, akinek az a) pont szerinti jogviszonya az ügyféllel, illetve az ügyfélben befolyásoló részesedéssel rendelkező vagy az ügyfél befolyásoló részesedése mellett működő vállalkozással az eljárás kezdetét megelőző egy éven belül állt fenn, illetve akinek hozzátartozója
 
 - a) az ügyféllel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy tagsági viszonyban áll, illetve annak vezető tisztségviselője,
 - b) az ügyfélben tulajdoni részesedéssel rendelkezik,
@@ -449,11 +449,15 @@ alapelveit.
 
 (2) A Hatóság az ügyfelet, az eljárás egyéb résztvevőit, valamint azok megbízottait, alkalmazottait, vagy az ügyféllel és az eljárás egyéb résztvevőivel egyéb jogviszonyban állókat adatszolgáltatásra, illetve szóban vagy írásban a hatáskörébe utalt feladatok végzéséhez szükséges adatoknak az általa meghatározott, összehasonlításra alkalmas formátumban való szolgáltatására, továbbá egyéb felvilágosítás adására kötelezheti. Az adatszolgáltatási kötelezettségnek meg kell felelnie az arányosság követelményének.
 
-(3) A Hatóság különösen indokolt esetben a tényállás tisztázása érdekében az ügyfélen és az eljárás egyéb résztvevőjén kívül más személyt vagy szervezetet is adatszolgáltatásra, bizonyítási eszközök átadására kötelezhet. E bekezdés szerinti végzés ellen az adatszolgáltatásra, bizonyítási eszközök átadására kötelezett a Fővárosi Közigazgatási és Munkaügyi Bírósághoz halasztó hatályú jogorvoslattal fordulhat, a bíróság az ügyben nyolc napon belül nemperes eljárásban, soron kívül határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen további jogorvoslatnak helye nincs.
+(3) A Hatóság különösen indokolt esetben a tényállás tisztázása érdekében az ügyfélen és az eljárás egyéb résztvevőjén kívül más személyt vagy szervezetet is adatszolgáltatásra, bizonyítási eszközök átadására kötelezhet. E végzés közigazgatási perben megtámadható, a keresetlevél benyújtásának halasztó hatálya van. A bíróság harminc napon belül dönt.
+
+(3a) Az ügyfél a nyilatkozatával nem pótolhatja a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges, kivéve, ha a hatóság a tényállás tisztázása körében az ügyfelet a hiányzó bizonyíték pótlása érdekében nyilatkozattételre hívja fel.
+
+(3b) A Hatóság a tényállás tisztázása során kötelezheti az ügyfelet, hogy az eredeti okiratot vagy az arról készített hiteles másolatot a Hatóság rendelkezésére bocsássa.
 
 (4) Amennyiben a tényállás tisztázása azt szükségessé teszi, a Hatóság az ügyfelet nyilatkozattételre, valamint adatszolgáltatásra kötelezheti, e kötelezettség elmulasztása vagy nem megfelelő teljesítése esetén bírság alkalmazható, az e törvény 38. §-a szerinti jogkövetkezményekre történő figyelmeztetés mellett.
 
-(5) A Hatóság a tényállás tisztázása érdekében – megfelelő határidő tűzése és a mulasztás jogkövetkezményeire történő figyelmezetés mellett – hiánypótlásra kötelezheti az ügyfelet.
+(5) A Hatóság a tényállás tisztázása érdekében – megfelelő határidő tűzése és a mulasztás jogkövetkezményeire történő figyelmezetés mellett – hiánypótlásra hívhatja fel az ügyfelet.
 
 (6) A Hatóság egyedi hatósági eljárásainak iratait, adatait, dokumentumait, vagy egyéb bizonyítási eszközeit – kivételesen indokolt esetben – más eljárásaiban is felhasználhatja, amennyiben az ügyfelek eljárási terheinek csökkentése vagy a megfelelő, illetve hatékony jogérvényesítés ezt szükségessé teszi.
 
@@ -466,21 +470,23 @@ alapelveit.
 - e) méréseket és műszaki vizsgálatokat végezni,
 - f) bizonyítási eszközöket lefoglalni, vagy zár alá venni.
 
-(8) A tényállás tisztázása során a Hatóság egyebekben a Ket. tényállás tisztázására és a hatósági ellenőrzésre vonatkozó szabályait is alkalmazhatja.
+(8) A tényállás tisztázása során a Hatóság egyebekben az Ákr. tényállás tisztázására és a hatósági ellenőrzésre vonatkozó szabályait is alkalmazhatja.
 
-36. § A Hatóság a lefoglalásról vagy a zár alá vételről végzést hoz, amely ellen az ügyfél a Fővárosi Közigazgatási és Munkaügyi Bírósághoz jogorvoslattal fordulhat. E jogorvoslat benyújtásának a végzés végrehajtására nincs halasztó hatálya. A bíróság az ügyben, szükség esetén a felek meghallgatása után, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek helye nincs.
+(9) Életveszéllyel vagy súlyos kárral fenyegető helyzetben, azonnali eljárási cselekmény elvégzése és a közbiztonság, a közrend védelme érdekében, valamint abban az esetben, ha más szolgáltatók vagy a felhasználók gazdálkodását vagy működését súlyosan és közvetlenül fenyegető veszély elhárítása érdekében szükséges, a Hatóság a helyszíni szemlét a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is jogosult megtartani.
 
-### Ideiglenes intézkedés
+36. §
 
-37. § (1) A Hatóság a hatósági eljárás keretében az élet, az egészség, a testi épség és a környezet, a közbiztonság, a közrend védelme vagy a felhasználók széles körét érintő, különösen nagy kárral fenyegető, továbbá más szolgáltatók vagy a felhasználók gazdálkodását vagy működését súlyosan és közvetlenül fenyegető veszély elhárítása érdekében ideiglenes intézkedésként a szolgáltatás nyújtását, a vitatott hálózati vagy előfizetői szerződéses rendelkezés, illetve ár vagy díj alkalmazását, a rádiófrekvenciák és azonosítók használatát, valamint elektronikus hírközlési berendezés forgalmazását végzésben megtilthatja.
+### Ideiglenes biztosítási intézkedés
 
-(2) Az ideiglenes intézkedést a Hatóság visszavonja, ha az elrendelés oka megszűnt, egyéb esetben az ideiglenes intézkedés hatálya az eljárás jogerős befejezéséig, legfeljebb 90 napig tart.
+37. § (1) A Hatóság a hatósági eljárás keretében az élet, az egészség, a testi épség és a környezet, a közbiztonság, a közrend védelme vagy a felhasználók széles körét érintő, különösen nagy kárral fenyegető, továbbá más szolgáltatók vagy a felhasználók gazdálkodását vagy működését súlyosan és közvetlenül fenyegető veszély elhárítása érdekében ideiglenes biztosítási intézkedésként a szolgáltatás nyújtását, a vitatott hálózati vagy előfizetői szerződéses rendelkezés, illetve ár vagy díj alkalmazását, a rádiófrekvenciák és azonosítók használatát, valamint elektronikus hírközlési berendezés forgalmazását végzésben megtilthatja.
 
-(3) A Hivatal ideiglenes intézkedés tárgyában hozott végzése ellen önálló fellebbezésnek nincs helye, de a végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közléstől számított öt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben tíz napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
+(2) Az ideiglenes biztosítási intézkedés hatálya – ha azt korábban nem vonják vissza – az eljárás végleges befejezéséig, de legfeljebb 90 napig tart.
+
+(3) A Hivatal ideiglenes biztosítási intézkedés tárgyában hozott végzése ellen önálló fellebbezésnek nincs helye. Az ideiglenes biztosítási intézkedés ellen az ügyfél a végzés közlésétől számított öt napon belül jogszabálysértésre hivatkozással közigazgatási pert indíthat. A bíróság az ügyben tizenöt napon belül határoz.
 
 ### Hatósági intézkedés
 
-37/A. § (1) A rádiófrekvencia jogszerűtlen, engedély nélküli használata, illetve egyedi engedélyhez nem kötött, jogszerűtlen frekvenciahasználat esetén a Hivatal jogosult a rádiófrekvenciával kapcsolatos tevékenység folytatásához használt eszközt, berendezést hatósági intézkedésként lepecsételni és szükség esetén a Hivatal által meghatározott őrzési helyre elszállítani. E hatósági intézkedés nem minősül a Ket. szerinti közigazgatási hatósági ügynek.
+37/A. § (1) A rádiófrekvencia jogszerűtlen, engedély nélküli használata, illetve egyedi engedélyhez nem kötött, jogszerűtlen frekvenciahasználat esetén a Hivatal jogosult a rádiófrekvenciával kapcsolatos tevékenység folytatásához használt eszközt, berendezést hatósági intézkedésként lepecsételni és szükség esetén a Hivatal által meghatározott őrzési helyre elszállítani. E hatósági intézkedés nem minősül közigazgatási hatósági ügynek.
 
 (2) Ha az (1) bekezdésben foglalt rádiófrekvencia használatot a Hivatal helyszíni ellenőrzés során észleli, köteles azonnal alkalmazni az (1) bekezdésben foglalt intézkedést.
 
@@ -509,9 +515,9 @@ alapelveit.
 
 (9) A pecsét engedély nélküli eltávolítása vagy a pecsét megkerülésével a lepecsételt eszköz, berendezés újra üzembe helyezése esetén az üzemeltetővel szemben, a pecsét engedély nélküli eltávolítása esetére más jogszabályban foglalt – az ott meghatározott hatóság, bíróság által alkalmazható – jogkövetkezmények mellett a Hatóság jogosult a 49. § (4) bekezdés c) pontjában meghatározott jogkövetkezményt alkalmazni.
 
-(10) A Hivatal által meghatározott őrzési helyre elszállított eszközt, berendezést a pecsét eltávolítását követően nyolc napon belül ki kell adni annak, akitől azt lefoglalták.
+(10) A Hivatal által meghatározott őrzési helyre elszállított eszközt, berendezést a pecsét eltávolítását követően nyolc napon belül ki kell adni annak, akitől azt elszállították.
 
-(11) A Hivatal az elszállított eszköz, berendezés előzetes értékesítéséről dönthet, ha a Hivatal felhívásától számított tíz napon belül a lefoglalt dolog kiadása iránt senki nem jelentett be jogos igényt és az eszköz, berendezés
+(11) A Hivatal az elszállított eszköz, berendezés előzetes értékesítéséről dönthet, ha a Hivatal felhívásától számított tíz napon belül az elszállított dolog kiadása iránt senki nem jelentett be jogos igényt és az eszköz, berendezés
 
 - a) kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna,
 - b) értéke az előreláthatólag hosszú ideig tartó tárolás miatt jelentősen csökkenne.
@@ -540,9 +546,9 @@ alapelveit.
 
 (2) A főigazgató a panasz tárgyában – a panasz benyújtásától számított 30 napon belül – végzésben dönt. Ha a főigazgató végzésében megállapítja, hogy a hatósági intézkedés jogszabálysértő volt, a Hivatal az őrzési helyre elszállított eszközt, berendezést kiadja vagy a pecsétet eltávolítja.
 
-(3) A (2) bekezdésben foglalt – panaszt elutasító – végzés felülvizsgálatát a panasz benyújtására jogosult személyek kérhetik, jogszabálysértésre hivatkozással, a végzés közlésétől számított 30 napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, harminc napon belül nemperes eljárásban határoz. A bíróság végzése ellen fellebbezésnek nincs helye.
+(3) A (2) bekezdésben foglalt – panaszt elutasító – végzés közigazgatási perben megtámadható.
 
-(4) Ha a közigazgatási ügyekben eljáró bíróság megállapítja, hogy a végzés jogszabálysértő, a végzést hatályon kívül helyezi és a főigazgatót a panasz tárgyában új eljárás lefolytatására kötelezi. A főigazgató a megismételt eljárás és döntéshozatal során a bíróság döntése rendelkező részének és indokolásának megfelelően köteles eljárni.
+(4)
 
 ### Eljárási bírság
 
@@ -554,13 +560,13 @@ alapelveit.
 - d) az elektronikus hírközlési tevékenységével kapcsolatos iratokba való betekintést, illetve az eljárás lefolytatását egyéb módon akadályozza, vagy
 - e) az eljárás során olyan magatartást tanúsít, amely az eljárás elhúzódását, a valós tényállás feltárásának meghiúsítását eredményezheti.
 
-(2) Az eljárási bírság legkisebb összege a – (3)–(4) bekezdésben foglalt eltéréssel – ötvenezer forint, legmagasabb összege a jogsértő – 49. § (11) bekezdése szerinti – nettó árbevételének 0,1%-a. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb tízmillió forint.
+(2) Az eljárási bírság legmagasabb összege a jogsértő – 49. § (11) bekezdése szerinti – nettó árbevételének 0,1%-a. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legfeljebb tízmillió forint.
 
-(3) Természetes személy jogsértő esetében az eljárási bírság legkisebb összege tízezer forint, legmagasabb összege egymillió forint.
+(3) Természetes személy jogsértő esetében az eljárási bírság, legmagasabb összege egymillió forint.
 
 (4) A piacelemzés, a jelentős piaci erővel rendelkező szolgáltatók azonosítása, valamint a jelentős piaci erővel rendelkező szolgáltatókra e törvény szerint kiszabott kötelezettség tárgyában hozott hatósági döntésben (e bekezdés alkalmazásában a továbbiakban: döntés) kirótt referenciaajánlat-tervezet benyújtására vonatkozó kötelezettség, illetve a döntésben előírt egyéb eljárás-kezdeményezési kötelezettség és adatszolgáltatási kötelezettség, továbbá a döntésen alapuló számviteli nyilvántartások elkülönített vezetése, hálózati szolgáltatások költségszámítása és kirótt egyéb kötelezettség teljesítése körében előírt adatszolgáltatási kötelezettség elmulasztása, illetve késedelmes vagy nem megfelelő teljesítése esetén az eljárási bírság legkisebb összege százezer forint, a bírság maximuma a jogsértő 49. § (11) bekezdése szerinti nettó árbevételének 0,5%-a. Árbevételi adatok, vagy árbevétel közlésének hiányában a bírság mértéke legalább százezer forint, legfeljebb ötvenmillió forint.
 
-(5) Az (1)–(4) bekezdésben foglaltakon túlmenően az eljárás akadályozása, illetve az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő vezető tisztségviselőjét is.
+(5) Az (1)–(4) bekezdésben foglaltakon túlmenően az eljárás akadályozása, illetve az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság hárommillió forintig terjedő bírsággal sújthatja – ismételt jogsértés esetén sújtani köteles – a jogsértő vezető tisztségviselőjét is.
 
 ### Nyilvános meghallgatás
 
@@ -607,27 +613,25 @@ alapelveit.
 
 ### Hatósági szerződés
 
-41. § (1) E törvényben meghatározott esetekben a Hatóság, hatáskörébe tartozó ügyben az ügyféllel, az ügynek a közérdek és az ügyfél szempontjából előnyös rendezése érdekében – a Ket.-ben foglalt szabályok alapján, az e törvényben meghatározott eltérésekkel – hatósági szerződést köthet.
+41. § (1) E törvényben meghatározott esetekben a Hatóság, hatáskörébe tartozó ügyben az ügyféllel, az ügynek a közérdek és az ügyfél szempontjából előnyös rendezése érdekében – az Ákr.-ben foglalt szabályok alapján, az e törvényben meghatározott eltérésekkel és kiegészítésekkel – hatósági szerződést köthet.
 
-(2) A hatósági szerződésben az ügyfél olyan kötelezettségeket is vállalhat, amelyek tekintetében a Hatóság nem rendelkezik hatósági hatáskörrel, vagy amelyek teljesítésére hatósági határozattal egyébként nem lenne kötelezhető. Ez esetben a hatósági szerződésben az ügyfél aláveti magát annak, hogy amennyiben a szerződésben foglaltakat megszegi, akkor a szerződés egésze jogerős és végrehajtható hatósági határozatnak minősül.
+(2) Ha a hatósági eljárás folyamatában az ügyfél az ügy hatósági szerződéssel történő lezárását kezdeményezi, az ügyintézési határidő 120 nap.
 
 (3) A hatósági szerződés megkötésének nem érvényességi feltétele a szerződéssel jogában, jogos érdekében érintett harmadik személyek hozzájárulása azon szerződési feltételek tekintetében, amelyek teljesítésére jogszabály alapján hatósági határozattal kötelezhető lenne a szerződő fél.
 
-(4) Amennyiben a hatósági eljárás folyamatában az ügyfél, az ügy hatósági szerződéssel történő lezárását kezdeményezi, akkor az ügyintézési határidőbe nem számít be a hatósági szerződéskötés időtartama a szerződés megkötéséig, illetve a hatósági szerződéskötés sikertelenségének az ügyfél vagy a Hatóság általi megállapításáig.
+(4)
 
-42. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint az e törvény szerinti alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+42. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint az e törvény szerinti alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
-(2) Amennyiben a Hatóság végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
-
-(3) Ha a Hatóság az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
+(2)–(3)
 
 (4) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban a Hatóság e törvényben, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
 
 (5) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, és nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.
 
-### Közlés
+### Közzététel
 
-43. § (1) A Hatóság a Ket. szerinti nyilvános közzététel szabályait az internetes honlapján történő közzététellel teljesíti. A Hatóság a közzététel időpontját köteles hitelesen tanúsítani.
+43. § (1)
 
 (2) A Hatóság internetes honlapján – a személyes adatok és az eljárásban zártan kezelt adatok védelmére tekintettel – közzéteszi:
 
@@ -636,45 +640,27 @@ alapelveit.
 - c) az 54. § szerinti piacfelügyeleti eljárásban hozott;
 - d) jogszabály alapján kizárólag versenyeztetési eljárás (árverés, pályázat) eredményeként megszerezhető frekvenciahasználati jogosultság hasznosítása tárgyában lefolytatott pályázati vagy árverési eljárásban hozott
 
-jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatát.
+véglegessé vált vagy azonnal végrehajthatóvá nyilvánított határozatát.
 
-(3) Amennyiben jogszabály alapján hirdetményi úton történő közlésnek van helye, a hirdetményt kizárólag a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni.
+(3)
 
-### A Hivatal döntése elleni jogorvoslat
+### A Hatóság döntése elleni jogorvoslat
 
-44. § (1) A Hivatal által hozott elsőfokú hatósági döntés ellen az ügyfél az Elnökhöz fellebbezhet, kivéve azon döntéseket, amelyek ellen a Ket. vagy e törvény alapján nincs helye fellebbezésnek.
+44. § (1) A Hivatal által hozott elsőfokú hatósági döntés ellen az ügyfél az Elnökhöz fellebbezhet, kivéve azon döntéseket, amelyek ellen törvény alapján nincs helye fellebbezésnek.
 
 (2) A Hivatal elsőfokú határozata ellen kizárólag azon – az eljárásról szabályszerűen értesített – ügyfél élhet fellebbezési kérelemmel, aki az elsőfokú eljárásban részt vett.
 
-(3) Az Elnök által a Hivatal elsőfokú határozata elleni fellebbezés során másodfokon hozott határozat felülvizsgálatát kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő kérheti kereset indításával – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított harminc napon belül a közigazgatási ügyekben eljáró bíróságtól.
+(3) Az Elnök másodfokú határozata ellen jogszabálysértésre hivatkozással kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője indíthat közigazgatási pert.
 
-(4) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
+(4)–(5)
 
-(5) A bírósági felülvizsgálati eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(6) A Hivatal a 182. § (3) bekezdés 2. pontjában foglalt felhatalmazás alapján megalkotott NMHH rendelet szerinti frekvenciahasználati jogosultság megszerzését szolgáló árverési vagy pályázati eljárásban hozott árverés vagy pályázat eredménytelenségét, vagy eredményesség esetén az árverés vagy pályázat nyertesét vagy nyerteseit megállapító határozata a határozat közlésétől számított tizenöt napon belül támadható meg közigazgatási perben.
 
-(6) A Hivatal a 182. § (3) bekezdés 2. pontjában foglalt felhatalmazás alapján megalkotott NMHH rendelet szerinti frekvenciahasználati jogosultság megszerzését szolgáló árverési vagy pályázati eljárásban hozott árverés vagy pályázat eredménytelenségét, vagy eredményesség esetén az árverés vagy pályázat nyertesét vagy nyerteseit megállapító határozatával szemben a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető bírósági felülvizsgálat.
-
-(7) A Hivatal a (6) bekezdés szerinti határozata ellen benyújtott keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Közigazgatási és Munkaügyi Bíróságnak. A bírósági felülvizsgálat iránti keresetet a bíróság, a keresetlevél bírósághoz történő – Hivatal általi – megküldésétől számított hatvan napon belül bírálja el és határozatát a kihirdetés napjáig írásba foglalja. A bíróság határozatával szemben a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással fellebbezésnek van helye a Fővárosi Törvényszékhez, azzal, hogy a fellebbezés benyújtására meghatározott határidőn belül a fellebbezésnek a Fővárosi Közigazgatási és Munkaügyi Bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A Fővárosi Törvényszék a fellebbezést negyvenöt napon belül bírálja el és határozatát e határidőn belül írásba foglalja. A Fővárosi Törvényszék határozatával szemben perújításnak, felülvizsgálati kérelemnek nincs helye. A Fővárosi Közigazgatási és Munkaügyi Bíróság, valamint a Fővárosi Törvényszék soron kívül jár el.
+(7) A bíróság a keresetlevelet, a keresetlevél bírósághoz történő – Hivatal általi – megküldésétől számított hatvan napon belül bírálja el és a kihirdetés napjáig írásba foglalja. A bíróság döntésével szembeni fellebbezési kérelem benyújtására rendelkezésre álló határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Perújításnak nincs helye.
 
 (8)
 
-### Az Elnök döntése elleni jogorvoslat
-
-45. § (1) Az Elnök elsőfokú hatósági határozata ellen nincs helye fellebbezésnek. Az Elnök elsőfokú határozatának felülvizsgálatát kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított harminc napon belül a közigazgatási ügyekben eljáró bíróságtól az Elnök elleni kereset indításával.
-
-(2) Az Elnök elsőfokú határozatának felülvizsgálata iránti kereset alapján indult bírósági eljárásra a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó előírásait az e törvény szerinti eltérésekkel kell alkalmazni.
-
-(3) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
-
-(4) Az Elnök a keresetlevelet – az ügy irataival és nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a bíróságnak.
-
-(5) Az Elnök hatósági döntései tekintetében felügyeleti eljárásnak nincs helye.
-
-46. § (1) A bíróság az e törvényben szabályozott hatósági döntések bírósági felülvizsgálatára irányuló eljárásait soron kívül köteles lefolytatni.
-
-(2) A bírósági felülvizsgálati eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
-
-(3) A bíróság az Elnök határozatát megváltoztathatja.
+45–46. §
 
 ### Adatszolgáltatás
 
@@ -691,11 +677,11 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (4) A piacmeghatározás és piacelemzés érdekében az elektronikus hírközlési szolgáltatók adatszolgáltatásra kötelesek. A Hatóság a 62–66. § szerinti eljárásában a más eljárásában szolgáltatott adatokat is felhasználhatja, amennyiben azokat az elektronikus hírközlési szolgáltató a Hatóság kötelező döntése vagy jogszabályban előírt, a Hatóság erre irányuló külön döntése nélküli adatszolgáltatási kötelezettség alapján szolgáltatta. A Hatóság az elektronikus hírközlési szolgáltatót az általa más eljárásban szolgáltatott adatok 62–66. § szerinti eljárásban való lehetséges felhasználására előzetesen figyelmeztetni köteles.
 
-(5) A Hivatal (1)–(3) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A bíróság végzése ellen fellebbezésnek nincs helye.
+(5) Az (1)–(3) bekezdés szerinti határozat ellen fellebbezésnek nincs helye. E határozat elleni keresetlevelet a közlésétől számított tizenöt napon belül kell benyújtani. A keresetlevél benyújtásának halasztó hatálya van. A bíróság az ügyben harminc napon belül határoz.
 
-(6) Az Elnök (1)–(3) bekezdés szerinti határozatának felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A bíróság végzése ellen fellebbezésnek nincs helye.
+(6)
 
-(7) Az (1)–(3) bekezdésben foglalt határozatok ellen kizárólag az az ügyfél élhet jogorvoslati kérelemmel, aki a hatósági eljárásban részt vett.
+(7) Az (1)–(3) bekezdésben foglalt határozatok ellen kizárólag az az ügyfél indíthat közigazgatási pert, aki a hatósági eljárásban részt vett.
 
 (8) Amennyiben az adatszolgáltatásra kötelezett az (1)–(3a) bekezdésben foglalt adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Hatóság bírságot szabhat ki, amelynek mértéke – a jogsértő előző évben elért, 49. § (11) bekezdése szerinti nettó árbevételét és a jogsértés ismételtségét figyelembe véve – a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább 100 000 Ft. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. Ezen túlmenően az adatszolgáltatás nem vagy nem megfelelő teljesítése esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szolgáltató vezető tisztségviselőjét is.
 
@@ -752,11 +738,11 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (9) A bírság ismételt jogsértés esetén ismételten is kiszabható.
 
-(10) Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
+(10) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (11) E § alkalmazása szempontjából árbevétel alatt az eljárás résztvevőjének hírközlési tevékenységgel kapcsolatos értékesítésből származó – a határozat meghozatalának időpontjához képest – előző üzleti évi nettó árbevételét kell érteni.
 
-50. § Rádiófrekvencia jogszerűtlen, engedély nélküli használata, illetve egyedi engedélyhez nem kötött jogszerűtlen frekvenciahasználat esetében a Hatóság jogosult a jogsértő tevékenység folytatásához használt vagy jogosultság nélkül használt eszközt, illetve berendezést a 37/A.–37/C. §-okban foglaltak szerint lepecsételni, valamint lefoglalni.
+50. § Rádiófrekvencia jogszerűtlen, engedély nélküli használata, illetve egyedi engedélyhez nem kötött jogszerűtlen frekvenciahasználat esetében a Hatóság jogosult a jogsértő tevékenység folytatásához használt vagy jogosultság nélkül használt eszközt, illetve berendezést a 37/A.–37/C. §-okban foglaltak szerint lepecsételni, valamint lefoglalni vagy zár alá venni.
 
 50/A. § (1) A Hatóság bírságot szab ki az elektronikus hírközlési építmény építtetőjével szemben, amelynek mértéke
 
@@ -777,7 +763,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (2) Ismételt jogsértés esetén a bírság mértéke az (1) bekezdés szerint megállapított bírságösszeg másfélszerese.
 
-(3) Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást, ugyanazon a jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
+(3) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást, ugyanazon a jogalapon és elektronikus hírközlésre vonatkozó szabály tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (4) Nem szabható ki bírság, ha a szabálytalan állapot kezdete vagy a jogsértés elkövetése óta öt év eltelt.
 
@@ -846,7 +832,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (5) Ismételt jogsértés esetén a bírság mértéke a (2) bekezdés szerint megállapított bírságösszeg másfélszerese.
 
-(6) Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon a jogalapon és jogszabályi rendelkezés tekintetében, ugyanazon tárgykörben valósítja meg.
+(6) Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon a jogalapon és jogszabályi rendelkezés tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (7) Nem szabható ki bírság, ha a szabálytalan állapot kezdete vagy a jogsértés elkövetése óta öt év eltelt.
 
@@ -854,7 +840,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 ### V. Fejezet — A HATÓSÁG EGYES ELJÁRÁSAI
 
-51. § A Hatóság egyes eljárásaiban a Ket. és e törvény szabályait az egyes eljárástípusok keretében meghatározott eltérésekkel alkalmazza.
+51. § A Hatóság egyes eljárásaiban az Ákr. és e törvény szabályait az egyes eljárástípusok keretében meghatározott eltérésekkel és kiegészítésekkel alkalmazza.
 
 ### Nyilvántartások vezetése
 
@@ -882,15 +868,13 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 53. § (1) A Hatóság kérelemre vagy hivatalból – feladat- és hatáskörének keretében – jogosult hatósági ellenőrzés vagy hatósági eljárás keretében felügyelni az elektronikus hírközlésre vonatkozó szabály érvényesülését, betartását, valamint az általános szerződési feltételekben foglaltak teljesítését.
 
-(2) Amennyiben a Hatóság, hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntés megsértését, az ügy összes körülményei, az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a hatósági döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+(2) Amennyiben a Hatóság, hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntés megsértését, az ügy összes körülményei, az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a hatósági döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
 (3) Az általános hatósági felügyelet keretében feltárt jogsértések esetében a Hatóság az e törvényben meghatározott jogkövetkezményeket alkalmazhatja.
 
 53/A. § (1) Az általános hatósági felügyeleti eljárást megelőzheti hatósági ellenőrzés.
 
-(2) E hatósági ellenőrzésre a Ket. hatósági ellenőrzésre vonatkozó rendelkezései irányadók azzal, hogy amennyiben az Elnök vagy a Hivatal a hatósági ellenőrzés eredményeként nem állapít meg jogszabálysértést vagy eljárás megindítására, kezdeményezésére okot adó tényt, körülményt, akkor az Elnök vagy a Hivatal – saját hatásköre keretében – e döntést az ügyiratra feljegyzi és egyéb eljárási cselekményt nem tesz.
-
-(3) A (2) bekezdésben foglalt ügyiratra feljegyzett döntés tartalmáról az Elnök, illetve a Hivatal hivatalos levél formájában értesíti az ellenőrzés alá vont ügyfelet.
+(2)–(3)
 
 (4) A hatósági ellenőrzés eredményeként, hatósági hatásköre keretében az Elnök, illetve a Hivatal felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
 
@@ -921,9 +905,9 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 54/A. § (1) A piacfelügyeleti eljárást – ideértve a piacfelügyeleti terv alapján indítandó piacfelügyeleti eljárást is – megelőzheti piacfelügyeleti ellenőrzés.
 
-(2) A piacfelügyeleti ellenőrzésre a Ket. hatósági ellenőrzésre vonatkozó rendelkezései irányadók azzal, hogy amennyiben az Elnök vagy a Hivatal a piacfelügyeleti ellenőrzés eredményeként nem állapít meg jogszabálysértést vagy eljárás megindítására, kezdeményezésére okot adó tényt, körülményt, akkor az Elnök vagy a Hivatal – saját hatásköre keretében – e döntést az ügyiratra feljegyzi és egyéb eljárási cselekményt nem tesz.
+(2) A piacfelügyeleti ellenőrzés az e törvényben foglalt eltérésekkel és kiegészítésekkel az Ákr. szerinti hatósági ellenőrzésnek minősül.
 
-(3) A (2) bekezdésben foglalt ügyiratra feljegyzett döntés tartalmáról az Elnök, illetve a Hivatal hivatalos levél formájában értesíti az ellenőrzés alá vont ügyfelet.
+(3)
 
 (4) A piacfelügyeleti ellenőrzés eredményeként, hatósági hatásköre keretében az Elnök, illetve Hivatal felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
 
@@ -935,7 +919,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 ### Egyedi engedélyek
 
-55. § (1) Rádiófrekvenciák használati jogát – jogszabályban meghatározott esetekben – a Hatóság döntése (frekvenciakijelölés, valamint rádióengedély) alapján lehet megszerezni. Jogszabályban meghatározott esetekben frekvenciakijelölés és rádióengedély, kizárólag versenyeztetési eljárás (árverés, pályázat) eredményeként megszerzett frekvenciahasználati jogosultság alapján kérhető. Az árverés, illetve pályázat esetén frekvenciahasználati jogosultság tartalmáról jelen törvényben és a 182. § (3) bekezdés 2. pontjában foglalt felhatalmazás alapján megalkotott frekvenciahasználati jogosultság megszerzését szolgáló árverés vagy pályázati eljárás szabályairól szóló NMHH rendeletben, továbbá a kiírási dokumentációban meghatározott módon és eljárásrendben hatósági szerződés is köthető.
+55. § (1) Rádiófrekvenciák használati jogát – jogszabályban meghatározott esetekben – a Hatóság döntése (frekvenciakijelölés, valamint rádióengedély) alapján lehet megszerezni. Ezen eljárásokban sommás eljárásnak nincs helye. Jogszabályban meghatározott esetekben frekvenciakijelölés és rádióengedély, kizárólag versenyeztetési eljárás (árverés, pályázat) eredményeként megszerzett frekvenciahasználati jogosultság alapján kérhető. Az árverés, illetve pályázat esetén frekvenciahasználati jogosultság tartalmáról jelen törvényben és a 182. § (3) bekezdés 2. pontjában foglalt felhatalmazás alapján megalkotott frekvenciahasználati jogosultság megszerzését szolgáló árverés vagy pályázati eljárás szabályairól szóló NMHH rendeletben, továbbá a kiírási dokumentációban meghatározott módon és eljárásrendben hatósági szerződés is köthető.
 
 (1a) Amennyiben a kiírási dokumentáció szerint a Hatóság az árverési, illetve a pályázati eljárás nyertesével hatósági szerződést köt, a Hatóság az árverést, illetve a pályázati eljárást érdemben lezáró határozatában kizárólag a nyertes tárgyában dönt, és minden, az árverés, illetve a pályázati eljárás tárgyával, tartalmával, a frekvenciahasználati jogosultág megszerzésével, feltételeivel, valamint a frekvenciahasználati jogosultsággal összefüggő jogokkal és kötelezettségekkel kapcsolatos egyéb döntés, rendelkezés, feltétel a hatósági szerződés részét képezi. A hatósági szerződés kötelező tartalmi elemeit a kiírási dokumentáció tartalmazza.
 
@@ -945,10 +929,10 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 - a) Az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozatnak a nyertessel történő közlését követő öt napon belül a Hatóság – a nyertessel való hatósági szerződéskötés érdekében – hivatalból hatósági eljárást indít. E hatósági eljárás ügyintézési határideje negyvenöt nap, amely nem hosszabbítható meg.
 - b) Amennyiben az a) pont szerinti hatósági eljárásban a nyertes nem vesz részt vagy a hatósági szerződés megkötését akadályozza – ideértve azt is, ha a nyertes résztvevő a jelentkezését visszavonja –, az a) pontban meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben a Hatóság az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
-- c) A hatósági szerződés az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozat jogerőre emelkedéséig nem köthető meg. A határozat jogerőre emelkedésének időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás a) és b) pontban meghatározott ügyintézési határidejébe nem számít bele.
+- c) A hatósági szerződés az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozat véglegessé válásáig nem köthető meg. A határozat véglegessé válásának időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás a) és b) pontban meghatározott ügyintézési határidejébe nem számít bele.
 - d) A hatósági szerződésben meg kell határozni a szerződésszegés jogkövetkezményeit.
 
-(1d) Amennyiben a 44. § (6)–(7) bekezdése szerint az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozat bírósági felülvizsgálatát kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A bírósági felülvizsgálati eljárás időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (1c) bekezdés a) és b) pontjában meghatározott ügyintézési határidejébe nem számít bele.
+(1d) Amennyiben a 44. § (6)–(7) bekezdése szerint az árverési, illetve a pályázati eljárást érdemben lezáró, az árverési, illetve a pályázati eljárás nyertesét megállapító határozatot közigazgatási perben megtámadták, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A közigazgatási per időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (1c) bekezdés a) és b) pontjában meghatározott ügyintézési határidejébe nem számít bele.
 
 (2) A polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést és rádióengedélyt, valamint versenyeztetési eljárás esetén frekvenciahasználati jogosultságot, továbbá a nem polgári célú frekvenciák használatára vonatkozó frekvenciakijelölést, illetve rádióengedélyt a Hivatal adja ki.
 
@@ -997,9 +981,9 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (11) Amennyiben a médiaszolgáltatási jogosultság műsorszolgáltatási vagy hatósági szerződésen alapul, a műsor szórására vonatkozó rádióengedély a szerződés Médiatanács általi felmondása alapján történő megszűnése napjával – külön anyagi jogi visszavonásra irányuló hatósági eljárás és hatósági döntés nélkül – megszűnik.
 
-(12) A (11) bekezdésben foglaltak nem alkalmazhatók a felmondás tárgyában hozott hatósági határozat bírósági felülvizsgálata keretében kért végrehajtás felfüggesztése tekintetében a bíróság által meghozott elsőfokú döntésig, továbbá nem alkalmazhatók – a vonatkozó közigazgatási per jogerős lezárásáig – amennyiben a felmondás tárgyában hozott hatósági határozat végrehajtását a bíróság felfüggesztette.
+(12)
 
-(12a) Ha a felmondás tárgyában hozott hatósági határozat végrehajtását a bíróság felfüggesztette, a felmondás tárgyát képező médiaszolgáltatási és frekvenciahasználati jogosultság gyakorlása esetén a közigazgatási per jogerős lezárásáig is terheli a jogosultat a médiaszolgáltatási díj, illetve a frekvenciadíj megfizetésének kötelezettsége.
+(12a) Ha a felmondás tárgyában hozott hatósági határozat elleni közigazgatási perben a bíróság elrendelte a keresetlevél halasztó hatályát, a felmondás tárgyát képező médiaszolgáltatási és frekvenciahasználati jogosultság gyakorlása esetén a közigazgatási per jogerős lezárásáig is terheli a jogosultat a médiaszolgáltatási díj, illetve a frekvenciadíj megfizetésének kötelezettsége.
 
 (12b) Ha a közigazgatási per folyamatában a jogosult a frekvenciadíj tekintetében 3 hónapot meghaladó késedelembe esik, a Hivatal a 49. § (7) bekezdés g) pontjában foglalt – engedély visszavonása – jogkövetkezménnyel egyidejűleg alkalmazhatja a 37/A–37/C. §-ban meghatározott hatósági intézkedést.
 
@@ -1009,7 +993,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 55/A. § (1) Az azonosítókkal való gazdálkodás során biztosítani kell a szolgáltatások zavarmentes, egyértelmű elérhetőségét, a piaci szereplők esélyegyenlőségét, az azonosítók hatékony, a felhasználók és a szolgáltatók érdekeit érvényesítő felhasználását.
 
-(2) Az ANFT-ben meghatározott azonosítók használatát (kijelölési engedély) és egyes azonosítók előzetes lekötését (lekötési engedély) a Hatóság engedélyezi.
+(2) Az ANFT-ben meghatározott azonosítók használatát (kijelölési engedély) és egyes azonosítók előzetes lekötését (lekötési engedély) a Hatóság engedélyezi. Ezen eljárásokban sommás eljárásnak nincs helye.
 
 (3) A Hatóság határozatát a szolgáltatások megvalósításának erőforrás- és időszükségletére figyelemmel hozza meg.
 
@@ -1041,19 +1025,19 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (6) Az eljáró tanács eljárására vonatkozó – e törvényben nem szabályozott – rendelkezéseket a Szervezeti és Működési Szabályzat tartalmazza.
 
-58. § (1) A jogvitás eljárást kezdeményező kérelemnek a Ket. kérelemre vonatkozó rendelkezéseiben foglaltakon túlmenően tartalmaznia kell az 57. § (1) bekezdésben meghatározottak alapjául szolgáló tényeket, körülményeket, a kérelmező jogsérelmének alapját képező konkrét jogszabályi, és szerződésbeli rendelkezéseket, valamint jogának vagy jogos érdekének igazolását.
+58. § (1) A jogvitás eljárást kezdeményező kérelemnek az Ákr. kérelemre vonatkozó rendelkezéseiben foglaltakon túlmenően tartalmaznia kell az 57. § (1) bekezdésben meghatározottak alapjául szolgáló tényeket, körülményeket, a kérelmező jogsérelmének alapját képező konkrét jogszabályi, és szerződésbeli rendelkezéseket, valamint jogának vagy jogos érdekének igazolását.
 
 (2) Amennyiben a kérelmező a szerződés létrehozását, tartalmának megállapítását kéri az eljáró tanácstól, köteles szövegszerűen – egyértelműen és világosan – megjelölni a létrehozni, megállapítani kért szerződéses tartalmat.
 
 (3) A kérelemben bizonyítási indítvány is előterjeszthető, valamint abban nyilatkozni kell arról, hogy a kérelmező kéri-e tárgyalás tartását.
 
-(4) Amennyiben a jogvitás eljárás megindítása iránti kérelem nem vagy nem megfelelően tartalmazza az e törvényben, valamint – nagy sebességű elektronikus hírközlő hálózatok kiépítésével összefüggő jogvitás eljárás esetében – az Elnök rendeletében foglaltakat, az eljáró tanács legfeljebb nyolc napos teljesítési határidővel hiánypótlásra hívja fel a kérelmezőt. Amennyiben a hiánypótlást – határidőben – a kérelmező nem vagy nem megfelelően teljesíti, az eljáró tanács a kérelmet tizenöt napon belül érdemi vizsgálat nélkül elutasítja.
+(4) Amennyiben a jogvitás eljárás megindítása iránti kérelem nem vagy nem megfelelően tartalmazza az e törvényben, valamint – nagy sebességű elektronikus hírközlő hálózatok kiépítésével összefüggő jogvitás eljárás esetében – az Elnök rendeletében foglaltakat, az eljáró tanács legfeljebb nyolc napos teljesítési határidővel hiánypótlásra hívja fel a kérelmezőt. Amennyiben a hiánypótlást – határidőben – a kérelmező nem vagy nem megfelelően teljesíti, az eljáró tanács a kérelmet tizenöt napon belül visszautasítja.
 
 (5) Amennyiben a jogvitás eljárás megindítása iránti kérelem nem vagy nem megfelelően tartalmazza a (2) bekezdésben foglaltakat, abban az esetben az eljáró tanács öt napos teljesítési határidővel hiánypótlásra hívja fel a kérelmezőt. Amennyiben a hiánypótlást – határidőben – a kérelmező nem vagy nem megfelelően teljesíti, az eljáró tanács a szerződés létrehozása, illetve tartalmának megállapítása körében mellőzi a döntéshozatalt és az ügy tárgya, illetve a jogsértés tekintetében a rendelkezésre álló adatok alapján dönt, vagy megszünteti az eljárást.
 
 (5a) Amennyiben az eljáró tanács – a tényállás tisztázása során felmerült tények, körülmények alapján – a létrehozni, megállapítani kért szerződéses tartalom módosítására hívja fel a kérelmezőt, és az ügyfél azt nem vagy nem megfelelően teljesíti vagy egyébként olyan magatartást tanúsít, amely az eljárás elhúzódását eredményezheti, az eljáró tanács a szerződés létrehozása, tartalmának megállapítása körében mellőzi a döntéshozatalt és az ügy tárgya, illetve a jogsértés tekintetében a rendelkezésre álló adatok alapján dönt vagy megszünteti az eljárást.
 
-(6) A kérelmet az eljáró tanács – amennyiben érdemi vizsgálat nélkül nem utasítja el – megküldi az ellenérdekű ügyfélnek, és legfeljebb tíznapos határidő tűzésével felhívja nyilatkozatának és bizonyítékainak előterjesztésére, valamint azok ellenérdekű ügyfél részére történő egyidejű megküldésére.
+(6) A kérelmet az eljáró tanács – amennyiben nem utasítja vissza – megküldi az ellenérdekű ügyfélnek, és legfeljebb tíznapos határidő tűzésével felhívja nyilatkozatának és bizonyítékainak előterjesztésére, valamint azok ellenérdekű ügyfél részére történő egyidejű megküldésére.
 
 (7) Amennyiben az eljáró tanács az eljárás során tárgyalást tart, azon megkísérli egyezség létrehozását a felek között.
 
@@ -1079,7 +1063,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (8) Az ideiglenes intézkedés hatálya az eljárás jogerős lezárásáig tart. Az ideiglenes intézkedést az eljáró tanács az eljárás során kérelemre vagy hivatalból módosíthatja, megszüntetheti.
 
-(9) Amennyiben az eljáró tanács ideiglenes intézkedést alkalmaz, az intézkedést elrendelő végzés ellen az ügyfél a Fővárosi Közigazgatási és Munkaügyi Bírósághoz jogorvoslati kérelemmel fordulhat. A bíróság az ügyben tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye. A kérelem benyújtásának a végzés végrehajtására nincs halasztó hatálya.
+(9) Az ideiglenes intézkedést elrendelő végzés közigazgatási perben támadható, a bíróság egyszerűsített perben tizenöt napon belül dönt.
 
 (10) Az ideiglenes intézkedés elutasítása tárgyában az eljáró tanács nem hoz külön végzést, az elutasítás indokait a jogvitás eljárást lezáró érdemi döntésben határozza meg.
 
@@ -1095,11 +1079,11 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (3) A Hatóság az egyedi jogvitás eljárásban megkereséssel fordulhat a BEREC-hez, a jogvitás ügy érdemi tartalmával kapcsolatos véleményének megismerése céljából.
 
-(4) Az ügyintézési határidőbe a BEREC megkeresésétől, véleményének Hatóság általi kézhezvételéig terjedő időtartam nem számít be.
+(4)
 
 (5) Amennyíben a 37. § alkalmazásának van helye, a Hatóság erre irányuló végzését a BEREC megkeresésétől véleményének kézhezvételéig terjedő időtartam alatt is meghozhatja.
 
-61/A. § Az eljáró tanács döntése elleni jogorvoslatra az Elnök döntése elleni jogorvoslatra vonatkozó szabályok alkalmazandók azzal az eltéréssel, hogy a 83/B. § (1) bekezdése, 90. § (7) bekezdése, 94. § (2f) bekezdése és 99/C. § (2) bekezdése szerinti jogvitás eljárásban hozott döntés esetében nincs helye a végrehajtás felfüggesztésének.
+61/A. § Az eljáró tanács döntése elleni jogorvoslatra az Elnök döntése elleni jogorvoslatra vonatkozó szabályok alkalmazandók azzal az eltéréssel, hogy a 83/B. § (1) bekezdése, 90. § (7) bekezdése, 94. § (2f) bekezdése és 99/C. § (2) bekezdése szerinti jogvitás eljárásban hozott döntés esetében nincs helye a keresetlevél halasztó hatályának elrendelésének.
 
 ### VI. Fejezet — PIACSZABÁLYOZÁSI ELJÁRÁSOK
 
@@ -1216,7 +1200,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (5) Az eredeti referenciaajánlat alapján kötött szerződések módosítására vonatkozó eljárásokat csak a referenciaajánlat módosításának hatálybalépését követően lehet megkezdeni. A módosított referenciaajánlatban meghatározott árakat a felek a referenciaajánlat módosításának hatálybalépésétől kötelesek alkalmazni.
 
-67/C. § (1) Ha az Elnök határozatában megállapítja, hogy egy korábban kötelezett szolgáltatónak minősülő szolgáltatót már nem terhel referenciaajánlat közzétételi kötelezettség, e határozat jogerőre emelkedésétől számított naptól az ilyen szolgáltató akkor sem köteles a referenciaajánlat szerinti szerződés megkötésére, ha azt egy másik szolgáltató a jogerőre emelkedést megelőzően kezdeményezte.
+67/C. § (1) Ha az Elnök határozatában megállapítja, hogy egy korábban kötelezett szolgáltatónak minősülő szolgáltatót már nem terhel referenciaajánlat közzétételi kötelezettség, e határozat véglegessé válásától számított naptól az ilyen szolgáltató akkor sem köteles a referenciaajánlat szerinti szerződés megkötésére, ha azt egy másik szolgáltató a véglegessé válást megelőzően kezdeményezte.
 
 (2) A referenciaajánlat alapján kötött szerződéseket a kötelezett szolgáltató az (1) bekezdés szerinti napon, amennyiben az határozatlan időre jött létre, legalább 90 napos felmondási idővel felmondhatja. Amennyiben a határozott idejű szerződésből 6 hónapnál hosszabb idő van hátra, úgy ebben az esetben ugyancsak 90 napos felmondási határidővel gyakorolhatja felmondási jogát a kötelezett szolgáltató.
 
@@ -1236,7 +1220,7 @@ jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított
 
 (2) Az Elnök ezen eljárása nem érinti a Gazdasági Versenyhivatal tisztességtelen piaci magatartás és versenykorlátozás tilalmáról szóló törvényben rögzített, ágazati vizsgálat lefolytatására irányuló hatáskörét.
 
-(3) A hatósági ellenőrzés megindításáról az Elnök hirdetmény útján értesíti az elektronikus hírközlési szolgáltatókat, amelynek a Ket. vonatkozó rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton, a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a hirdetmény kifüggesztését követő tizenötödik napon kell kézbesítettnek tekintetni.
+(3) A hatósági ellenőrzés megindításáról az Elnök hirdetmény útján értesíti az elektronikus hírközlési szolgáltatókat, amelynek az Ákr. vonatkozó rendelkezéseitől eltérően az ügy tárgyát és rövid ismertetését kell tartalmaznia. A végzés indokolásában meg kell jelölni azt is, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A végzést hirdetményi úton, a Hatóság hirdetőtáblájára való kifüggesztéssel, valamint a Hatóság internetes honlapján kell közzétenni. Az eljárást megindító végzést a hirdetmény kifüggesztését követő tizenötödik napon kell kézbesítettnek tekintetni.
 
 (4) Amennyiben a hatósági ellenőrzés eredményeként az Elnök megállapítja, hogy a vizsgált piaci folyamatok következtében a hírközlési piac valamelyikén a verseny torzulhat vagy korlátozódhat, és megítélése szerint ez az e törvény szerinti hatáskörök gyakorlása útján nem orvosolható, akkor kezdeményezheti a Gazdasági Versenyhivatal versenyfelügyeleti eljárásának megindítását.
 
@@ -1430,7 +1414,7 @@ köréből jelöli ki a megőrzött adatok átvételére és azok 159/A. § szer
 
 (3a) A Hatóság kormányrendeletben meghatározott egyablakos információs ponton keresztül, elektronikus úton, minden érdekelt részére ingyenesen hozzáférhető teljes körű tájékoztatást nyújt a nagy sebességű elektronikus hírközlő hálózatok elemeinek kiépítéséhez szükséges építési munkákra vonatkozó engedélyek megadására alkalmazandó elektronikus hírközlésre vonatkozó szabályokban rögzített feltételekről és eljárásokról, valamint az e feltételek vagy eljárások alóli mentességekről.
 
-(4) Az elektronikus hírközlési építményekkel kapcsolatos építésügyi hatóság ügyintézési határidejébe a szakhatóság eljárásának ügyintézési határideje nem számít bele.
+(4)
 
 (5) Az elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások szabályait az Elnök rendeletben állapítja meg.
 
@@ -1797,7 +1781,7 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 - b) az elektronikus hírközlési építmény elhelyezésének helyét és módját,
 - c) amennyiben szükséges, az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit,
 - d) szükség szerint a (2d) bekezdés szerinti körülmények kialakulása megakadályozásához, valamint az elektronikus hírközlési építmény környezetének helyreállításához szükséges és elégséges feltételeket, valamint
-- e) az Elnök rendeletében foglalt részletes szabályok szerint a közös használat körében alkalmazandó tisztességes és megkülönböztetéstől mentes feltételeket, így különösen a feleket terhelő méltányos költségeket és annak a hozzáférési díjnak a mértékét, amelyre a hálózatüzemeltető a fizikai infrastruktúrájának használatáért jogosult. A határozat végrehajthatóságára nézve nincs halasztó hatálya a kártalanítás módjára és mértékére irányuló jogorvoslati eljárásnak.
+- e) az Elnök rendeletében foglalt részletes szabályok szerint a közös használat körében alkalmazandó tisztességes és megkülönböztetéstől mentes feltételeket, így különösen a feleket terhelő méltányos költségeket és annak a hozzáférési díjnak a mértékét, amelyre a hálózatüzemeltető a fizikai infrastruktúrájának használatáért jogosult. A határozat végrehajthatóságára nézve nincs halasztó hatálya a kártalanítás módjára és mértékére irányuló közigazgatási pernek.
 
 (3a) A (3) bekezdés e) pontjában foglalt hozzáférési díj mértékének megállapításánál a Hatóság figyelembe veszi a hálózatüzemeltető fizikai infrastruktúrájának a nagy sebességű elektronikus hírközlő hálózat kiépítéséhez szükséges felhasználásával összefüggésben felmerült indokolt költségeinek megtérülését, továbbá figyelembe veszi az érintett hozzáférés biztosításának a hálózatüzemeltető üzleti tervére, ezen belül beruházásainak megtérülésére gyakorolt hatását. Abban az esetben, ha a hozzáférési igény nagy sebességű elektronikus hírközlő hálózat fizikai infrastruktúrájához biztosított hozzáférésre vonatkozik, a Hatóság a díj megállapítása során figyelembe veszi a díjnak a hálózatüzemeltető piaci helyzetére gyakorolt hatását.
 
@@ -1805,7 +1789,7 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (3c) A (2f) bekezdés szerinti kérelem, valamint a 94/A. § szerinti kérelem egyidejűleg is előterjeszthető a Hatóságnál.
 
-(3d) A (3c) bekezdésben foglalt kérelmek egyidejű előterjesztése esetén a Hatóság a 94/A. § szerinti eljárását a (2f) bekezdés szerinti kérelem tárgyában folytatott eljárás jogerős befejezéséig felfüggeszti.
+(3d) A (3c) bekezdésben foglalt kérelmek egyidejű előterjesztése esetén a Hatóság a 94/A. § szerinti eljárását a (2f) bekezdés szerinti kérelem tárgyában folytatott eljárás végleges befejezéséig felfüggeszti.
 
 (4) Nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezésére – ha e törvény eltérően nem rendelkezik – az ingatlan tulajdonosával való megállapodás alapján kerülhet sor. A megállapodásnak alkalmasnak kell lennie az építési jogosultság igazolására.
 
@@ -1843,7 +1827,7 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 - a) az elektronikus hírközlési szolgáltató bizonyítja, hogy az érintett ingatlan tulajdonosával való megállapodás érdekében minden tőle elvárhatót megtett, valamint
 - b) az a nagy sebességű elektronikus hírközlő hálózat szükséges fejlesztése érdekében indokolt, és az ingatlan használatát lényegesen nem akadályozza.
 
-(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is előterjeszthető és elbírálható. A Hatóság az engedélyezési eljárását a (2) bekezdés szerinti kérelem tárgyában folytatott eljárás jogerős befejezéséig felfüggeszti.
+(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is előterjeszthető és elbírálható. A Hatóság az engedélyezési eljárását a (2) bekezdés szerinti kérelem tárgyában folytatott eljárás végleges befejezéséig felfüggeszti.
 
 (4) Az elektronikus hírközlési szolgáltató (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell, ha a megállapodás annak ellenére nem jött létre, hogy az érintett ingatlan tulajdonosa a (2) bekezdés szerinti kérelem előterjesztését megelőzően legalább 30 nappal a szolgalmi jog vagy más használati jog megállapodás útján történő alapítására tett ajánlatot átvette, és az ajánlat tartalmazta
 
@@ -1866,9 +1850,9 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 - e) a környezet eredeti állapotának helyreállításához szükséges és elégséges feltételeket, valamint
 - f)
 
-(6) A Hatóság (5) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
+(6)
 
-(7) A 96. § (1) bekezdés szerinti kártalanítás összegében az elektronikus hírközlési szolgáltató és az ingatlantulajdonos állapodik meg. Megállapodás hiányában, valamint a szolgalmi vagy más használati jog 94/A. § szerinti alapítása esetén a szolgalmi vagy más használati jogot alapító határozat jogerőssé válásától számított 15 napon belül az elektronikus hírközlési szolgáltató köteles a – saját költségére készítendő szakvéleményben foglalt – kártalanítási összeget az ingatlantulajdonos részére átadni vagy – ha ez az ingatlantulajdonos érdekkörében felmerült ok miatt nem lehetséges, vagy más körülmény, különösen az érintett ingatlantulajdonosok jelentős száma miatt a kártalanítás átadása rendkívüli nehézséggel vagy számottevő késedelemmel járna – annak javára a bíróságon kezelt letétekről szóló miniszteri rendelet rendelkezéseinek megfelelően bírósági letétbe helyezni, és arról az ingatlan tulajdonosát hitelt érdemlően igazolható módon értesíteni. Ha a tájékoztatásra az ingatlantulajdonos érdekkörében felmerült ok miatt nem kerül sor, az elektronikus hírközlési szolgáltató köteles erről a Hatóságot a tájékoztatást kizáró ok igazolásával egyidejűleg tájékoztatni.
+(7) A 96. § (1) bekezdés szerinti kártalanítás összegében az elektronikus hírközlési szolgáltató és az ingatlantulajdonos állapodik meg. Megállapodás hiányában, valamint a szolgalmi vagy más használati jog 94/A. § szerinti alapítása esetén a szolgalmi vagy más használati jogot alapító határozat véglegessé válásától számított 15 napon belül az elektronikus hírközlési szolgáltató köteles a – saját költségére készítendő szakvéleményben foglalt – kártalanítási összeget az ingatlantulajdonos részére átadni vagy – ha ez az ingatlantulajdonos érdekkörében felmerült ok miatt nem lehetséges, vagy más körülmény, különösen az érintett ingatlantulajdonosok jelentős száma miatt a kártalanítás átadása rendkívüli nehézséggel vagy számottevő késedelemmel járna – annak javára a bíróságon kezelt letétekről szóló miniszteri rendelet rendelkezéseinek megfelelően bírósági letétbe helyezni, és arról az ingatlan tulajdonosát hitelt érdemlően igazolható módon értesíteni. Ha a tájékoztatásra az ingatlantulajdonos érdekkörében felmerült ok miatt nem kerül sor, az elektronikus hírközlési szolgáltató köteles erről a Hatóságot a tájékoztatást kizáró ok igazolásával egyidejűleg tájékoztatni.
 
 (8) Ha a bírósági letétbe helyezést a kártalanítási összeg mértéke nem teszi lehetővé, úgy az elektronikus hírközlési szolgáltató a Hatóságnak igazolja az összeg rendelkezésre állását.
 
@@ -1888,13 +1872,13 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 96/A. § (1) A szolgalmi vagy más használati jog a mindenkori elektronikus hírközlési szolgáltatót illeti meg és az ingatlan mindenkori tulajdonosát terheli. A szolgalmi vagy más használati jog az azt megállapító hatósági határozat jogerőre emelkedését követően, illetve az ingatlantulajdonossal kötött megállapodás alapján gyakorolható. Határozaton alapuló szolgalmi vagy más használati jog létesítése esetén az elektronikus hírközlési szolgáltató a névváltozást, a személyében bekövetkezett változást, a változás bekövetkeztétől számított 30 napon belül bejelenti a Hatóságnak.
 
-(2) A szolgalmi vagy más használati jog ingatlan-nyilvántartásba történő bejegyzését az elektronikus hírközlési szolgáltató kérelmezi az ingatlantulajdonossal kötött megállapodás alapján. Határozaton alapuló szolgalmi vagy más használati jog esetén a Hatóság a jogerős határozattal keresi meg az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzése iránt.
+(2) A szolgalmi vagy más használati jog ingatlan-nyilvántartásba történő bejegyzését az elektronikus hírközlési szolgáltató kérelmezi az ingatlantulajdonossal kötött megállapodás alapján. Határozaton alapuló szolgalmi vagy más használati jog esetén a Hatóság a véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzése iránt.
 
 (3) Megszűnik a szolgalmi vagy más használati jog, ha az elektronikus hírközlési szolgáltató a használati joggal terhelt ingatlanon az elektronikus hírközlési építményt a szolgalmi vagy más használati jog keletkezésétől számított négy éven belül nem építi meg, használatával 12 hónapon túl felhagy, vagy azt véglegesen eltávolítja. Megszűnik a használati jog a felek megállapodásával is. A hatósági határozattal alapított szolgalmi vagy más használati jog megszűnik az elektronikus hírközlési építmény építésére kiadott építési engedély hatályának megszűnésével is, amennyiben az építményt az elektronikus hírközlési szolgáltató az engedély lejártáig nem építi meg.
 
 (4) A megállapodáson alapuló használati jog kivételével a használati jog megszűnését az engedélyes az azt követő 30 napon belül a Hatóságnak köteles bejelenteni, ennek hiányában azt az ingatlantulajdonos kérelmére, vagy egyéb módon történő tudomásszerzése esetén hivatalból a Hatóság határozatban állapítja meg.
 
-(5) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. Egyéb esetben a Hatóság a használati jog megszűnését megállapító jogerős határozattal keresi meg az ingatlanügyi hatóságot a használati jog törlése iránt.
+(5) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. Egyéb esetben a Hatóság a használati jog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog törlése iránt.
 
 97. § (1) Ha a jogszerűen létesített építmény eltávolítása vagy áthelyezése szükséges, akkor e munkálatokat annak költségére kell elvégezni, akinek érdekében ez felmerült. Jogszerűen építettnek kell tekinteni azt az építményt is, amely az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48. §-a szerint fennmaradási engedélyt kapott.
 
@@ -2689,9 +2673,9 @@ kiállított számla érvénytelen.
 
 (12) A szolgáltató az elektronikus hírközlésre vonatkozó szabályban foglalt, előfizetői szerződéssel kapcsolatos értesítési, tájékoztatási kötelezettségének egyértelműen és pontosan köteles eleget tenni.
 
-144/A. § (1) A Hivatal 144. § (10) bekezdése szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A Fővárosi Közigazgatási és Munkaügyi Bíróság az ügyben – szükség esetén a felek meghallgatása alapján – tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
+144/A. § (1) A Hivatal 144. § (10) bekezdése szerinti határozata ellen fellebbezésnek helye nincs. A határozat elleni keresetlevelet a hatósági határozat közlésétől számított tizenöt napon belül kell benyújtani a Hivatalhoz. A bíróság az ügyben tizenöt napon belül határoz. A keresetlevél benyújtásának halasztó hatálya van.
 
-(2) Az Elnök 144. § (10) bekezdése szerinti határozatának felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A Fővárosi Közigazgatási és Munkaügyi Bíróság az ügyben – szükség esetén a felek meghallgatása alapján – tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek nincs helye.
+(2) Az Elnök 144. § (10) bekezdése szerinti határozatával szembeni keresetlevelet a hatósági határozat közlésétől számított tizenöt napon belül kell benyújtani az Elnökhöz. A bíróság az ügyben tizenöt napon belül határoz. A keresetlevél benyújtásának halasztó hatálya van.
 
 (3) A 144. § (10) bekezdésében foglalt határozat ellen kizárólag az az ügyfél élhet jogorvoslati kérelemmel, aki a hatósági eljárásban részt vett.
 
@@ -2764,7 +2748,7 @@ kiállított számla érvénytelen.
 - b) a szűrőszoftver a lakossági felhasználók, egyéni előfizetők általi használat mellett alkalmas azon nyilvános könyvtárak és köznevelési intézmények általi használatra is, amelyeknek törvényben előírt kötelezettsége az általuk nyújtott közszolgáltatásokat igénybe vevő kiskorú gyermekek internet-használatához szűrőszoftvert biztosítani, és
 - c) az internet-hozzáférés szolgáltatást nyújtó szolgáltató vállalja, hogy a b) pontban megjelölt intézmények részére közvetlenül vagy más szolgáltató közreműködésével a szűrőszoftverhez való hozzáférést ingyenesen biztosítja.
 
-(4) A (3) bekezdés szerinti pályázati eljárás lefolytatása az Elnök hatósági hatáskörébe tartozik. Az eljárásra az e §-ban nem szabályozott kérdésekben e törvény és a Ket. szabályait kell megfelelően alkalmazni. A pályázati eljárás részletes szabályait az Elnök rendeletben határozza meg.
+(4) A (3) bekezdés szerinti pályázati eljárás lefolytatása az Elnök hatósági hatáskörébe tartozik. Az eljárásra az e §-ban nem szabályozott kérdésekben e törvény és az Ákr. szabályait kell megfelelően alkalmazni. A pályázati eljárás részletes szabályait az Elnök rendeletben határozza meg.
 
 (5) A (3) bekezdés szerinti támogatás tartalmáról, részletes feltételeiről a (4) bekezdésben említett NMHH rendeletben, továbbá a kiírási dokumentációban meghatározott módon és eljárásrendben hatósági szerződés is köthető.
 
@@ -2774,11 +2758,11 @@ kiállított számla érvénytelen.
 
 (8) Ha a (7) bekezdés szerinti hatósági eljárásban a nyertes nem vesz részt vagy a hatósági szerződés megkötését akadályozza – ideértve azt is, ha a nyertes a pályázatát visszavonja –, a (7) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben a Hatóság az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
 
-(9) A hatósági szerződés a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat jogerőre emelkedéséig nem köthető meg. A határozat jogerőre emelkedésének időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (7) és (8) bekezdésben meghatározott ügyintézési határidejébe nem számít bele.
+(9) A hatósági szerződés a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat véglegessé válásáig nem köthető meg. A határozat véglegessé válásának időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás (7) és (8) bekezdésben meghatározott ügyintézési határidejébe nem számít bele.
 
 (10) A hatósági szerződésben meg kell határozni a szerződésszegés jogkövetkezményeit.
 
-(11) Ha a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozat bírósági felülvizsgálatát kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A bírósági felülvizsgálati eljárás időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás határidejébe nem számít bele.
+(11) Ha a pályázati eljárást érdemben lezáró, a pályázati eljárás nyertesét megállapító határozatot közigazgatási perben megtámadták, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A közigazgatási per időtartama a hatósági szerződés megkötésére irányuló hatósági eljárás határidejébe nem számít bele.
 
 ### Számhordozhatóság biztosítása
 
@@ -3017,6 +3001,8 @@ vonatkozó adatokat.
 
 (2) A bíróság, illetve a külön törvényben meghatározott hatóság elektronikus úton megküldött értesítése alapján a Hatóság a bíróság elektronikus adat ideiglenes vagy végleges hozzáférhetetlenné tételéről szóló rendelkezését, illetve a külön törvényben meghatározott hatóság elektronikus adat hozzáférhetetlenné tételéről szóló rendelkezését kizárólag elektronikus úton közli a hozzáférést biztosító elektronikus hírközlési szolgáltatókkal.
 
+(2a) A bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
+
 (3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
 
 - a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyész, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
@@ -3183,17 +3169,19 @@ tekinthetnek be.
 - a) az engedélyhez kötött építményeknél az építési engedély iránti kérelmet 2016. december 31-ét követően terjesztették elő,
 - b) bejelentéshez kötött építményeknél a bejelentést először 2016. december 31-ét követően teszik meg.
 
+181/F. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel módosított rendelkezéseit a rendelkezések hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 ### Felhatalmazás
 
 182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:
 
-- a)
+- a) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
 - b) az elektronikus hírközlés különleges jogrend idejére irányuló felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
 - c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtéssel, illetve titkos adatszerzéssel felhatalmazott szervezetek együttműködésének rendjét;
 - d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 - e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
 - f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket;
-- g) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
+- g)
 - g) a 127. § (2d) bekezdésében meghatározott szervet.
 
 (2)

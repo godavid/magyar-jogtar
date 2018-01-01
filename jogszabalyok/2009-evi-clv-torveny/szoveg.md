@@ -224,7 +224,7 @@ biztonsági feltételeket.
 
 (2) A megismerési engedély kiadásáról az érintett kérelmére a minősítő 15 napon belül határoz. A megismerési engedély kiadását a minősítő megtagadja, ha az adat megismerése a minősítés alapjául szolgáló közérdek sérelméhez vezet. A megismerési engedély megtagadását a minősítőnek indokolnia kell.
 
-(3) A megismerési engedély megtagadása esetén az érintett a határozat kézhezvételét követő 15 napon belül a Fővárosi Közigazgatási és Munkaügyi Bírósághoz fordulhat. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán beavatkozó személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben résztvevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
+(3) A megismerési engedély megtagadása esetén az érintett a határozatot közigazgatási perben megtámadhatja. Ha a bíróság a kérelemnek helyt ad, a minősítőt a megismerési engedély kiadására kötelezi. A bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzését elvégezték. A felperes, a felperes oldalán érdekeltként részt vevő személy és ezek képviselője a minősített adatot az eljárás során nem ismerheti meg. A perben részt vevő egyéb személyek, valamint azok képviselői a minősített adatot csak akkor ismerhetik meg, ha a nemzetbiztonsági szolgálatokról szóló törvény szerinti nemzetbiztonsági ellenőrzésüket elvégezték.
 
 12. § (1) A minősített adat kezelője az információs önrendelkezési jogról és az információszabadságról szóló törvény alapján az érintettet megillető tájékoztatást megtagadhatja, ha a minősítés alapjául szolgáló közérdeket az érintettnek a személyes adatainak kezelésére vonatkozó tájékoztatása veszélyeztetné.
 
@@ -392,7 +392,9 @@ ad ki.
 
 (3) A Nemzeti Biztonsági Felügyelet eljárásáért, ha azt a minősített adatok védelmének szakmai felügyeletéért felelős miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben megállapítja, igazgatási szolgáltatási díjat kell fizetni.
 
-21. § (1) A Nemzeti Biztonsági Felügyelet közigazgatási hatósági eljárásban hozott döntése ellen fellebbezésnek nincs helye, a döntés bírósági felülvizsgálatát annak közlésétől számított tizenöt napon belül lehet kezdeményezni.
+(4) A Nemzeti Biztonsági Felügyelet (2) bekezdés i) pontja alapján folytatott eljárása felfüggeszthető az eljárás során kezdeményezett cégellenőrzés, valamint nemzetbiztonsági ellenőrzés kezdeményezésétől a cégellenőrzés, nemzetbiztonsági ellenőrzés befejezéséig terjedő időtartamra.
+
+21. § (1) A Nemzeti Biztonsági Felügyelet közigazgatási hatósági eljárásban hozott döntése ellen a döntés közlését követő 15 napon belül lehet közigazgatási pert kezdeményezni.
 
 (2) A minősített adat védelmének szakmai felügyeletéért felelős miniszter az ezzel kapcsolatos tevékenységéről szükség szerint, de legalább évente egyszer tájékoztatja az Országgyűlés nemzetbiztonsági, valamint honvédelmi és rendészeti ügyekkel foglalkozó bizottságát.
 

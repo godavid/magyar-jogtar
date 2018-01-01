@@ -34,13 +34,13 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 6. § (1) A fővárosi és megyei kormányhivatalt az ebben az alcímben meghatározott eltérésekkel a Kormány a miniszter útján irányítja. A szakmai irányító miniszter által irányított feladatok ellátásával összefüggő ágazati és szakpolitikai kérdésekben a szakmai irányító miniszter egyedi utasítást adhat a kormánymegbízottnak, illetve a kormánymegbízott útján a járási hivatal vezetőjének. A 6. § (3) bekezdés b) pontja szerinti esetben a központi államigazgatási szerv vezetője ágazati kérdésekben egyedi utasítást adhat a kormánymegbízottnak.
 
-(2) A fővárosi és megyei kormányhivatal tekintetében – a kormányhivatal alapítása, a kormánymegbízott kinevezése és felmentése kivételével – az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. §-ában meghatározott hatásköröket a miniszter gyakorolja.
+(2) A fővárosi és megyei kormányhivatal tekintetében – a kormányhivatal alapítása, a kormánymegbízott kinevezése és felmentése kivételével – az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. §-ában meghatározott hatásköröket, valamint az általános közigazgatási rendtartásról szóló törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott jogköröket a miniszter gyakorolja.
 
 (3) Kormányrendelet rendelkezhet úgy, hogy
 
-- a) ügyek egyes csoportjaival összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket a szakmai irányító miniszter,
+- a) ügyek egyes csoportjaival összefüggésben az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket és az Ákr.-ben a felügyeleti szervre ruházott jogköröket a szakmai irányító miniszter,
 - b) a megyei kormányhivatalok európai uniós és nemzeti mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő feladatai tekintetében az Áht. 9. § g)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköröket központi államigazgatási szerv vezetője,
-- c) közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) és g) pontjában, valamint kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint a fellebbezés elbírálására jogosult hatóság, illetve a felügyeleti szerv
+- c) közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § f) és g) pontjában, valamint kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket és az Ákr.-ben a felügyeleti szervre ruházott jogköröket kormányrendeletben kijelölt szerv
 
 gyakorolja.
 
@@ -173,6 +173,10 @@ gyakorolja.
 
 (5) Ha a központi államigazgatási szerv területi szervének illetékessége a fővárosi és megyei kormányhivatal illetékességi területétől eltérő területre terjed ki, a fővárosi és megyei kormányhivatal jogköreit a területi szerv székhelye szerinti fővárosi és megyei kormányhivatal gyakorolja.
 
+16/A. § (1) A fővárosi és megyei kormányhivatal jogosult a fellebbezés elbírálására és az Ákr.-ben a felügyeleti szervre ruházott jogkörök gyakorlására, ha az elsőfokú hatóság a járási (fővárosi kerületi) hivatal vagy a helyi önkormányzat államigazgatási hatáskörben eljáró jegyzője, főjegyzője.
+
+(2) A járási (fővárosi kerületi) hivatal vagy a helyi önkormányzat jegyzője, főjegyzője államigazgatási hatáskörébe tartozó döntés tekintetében az (1) bekezdéstől eltérően törvény vagy kormányrendelet más hatóságot jelölhet ki a fellebbezés elbírálására és a felügyeleti jogkör gyakorlására.
+
 17. § (1) A fővárosi és megyei államigazgatási kollégium a fővárosi és megyei kormányhivatal koordinációs feladatait elősegítő állandó fóruma.
 
 (2) A fővárosi és megyei államigazgatási kollégium vezetője a kormánymegbízott, tagjai a fővárosi és megyei kormányhivatal főigazgatója, igazgatója és főosztályvezetői, a járási hivatalok hivatalvezetői, a Kormány által intézményfenntartásra kijelölt szerv vezetője, a fővárosi és megyei kormányhivatal koordinációs és ellenőrzési jogkörébe tartozó területi államigazgatási szervek vezetői, valamint a kormánymegbízott által meghívottak.
@@ -199,11 +203,17 @@ gyakorolja.
 
 (2) Az igazolvány tartalmazza az igazolvány sorszámát, a fővárosi és megyei kormányhivatal vagy a járási (fővárosi kerületi) hivatal nevét, valamint az állami tisztviselő nevét és fényképét.
 
+19/B. § (1) A járási (fővárosi kerületi) hivatal kormányrendeletben meghatározott jogszabálysértések ellenőrzésére és jogkövetkezményeinek alkalmazására egyszerűsített hatósági ellenőrzési hatáskört gyakorol.
+
+(2) Az egyszerűsített hatósági ellenőrzési hatáskörben eljárva a járási (fővárosi kerületi) hivatal az e törvényben és az egyszerűsített hatósági ellenőrzésre vonatkozó kormányrendeletben meghatározott eljárási szabályokat alkalmazza.
+
+(3) A járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrzési hatáskörben hozott döntésével szemben fellebbezésnek nincs helye.
+
 20. § A fővárosi és megyei kormányhivatal
 
 - a) döntés-előkészítő és javaslattevő szervként közreműködik a Kormánynak az Alaptörvény 35. cikk (5) bekezdése szerinti indítványtételi jogosultsága, a helyi önkormányzatokért felelős miniszternek a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 128. § a) és c) pontjában, a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek az Mötv. 129. § b) és c) pontjában, valamint a szakmai irányító miniszternek az Mötv. 130. §-ában meghatározott feladatai ellátásában, a Kormánynak a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 150. § d)–e) pontjában, a nemzetiségpolitikáért felelős miniszternek az Njtv. 151. § a) pontjában, a feladat- és hatáskör szerinti miniszternek az Njtv. 152. § a) pontjában meghatározott feladatai ellátásában,
 - b)
-- c) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – ellenőrzési feladatokat lát el, különös tekintettel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
+- c) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – ellenőrzési feladatokat lát el, különös tekintettel az Ákr. végrehajtásának és a hatósági tevékenység jogszerűségének ellenőrzésére,
 - d) – a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal kivételével – gondoskodik a területi államigazgatási szervek ellenőrzési tevékenységének összehangoltságáról,
 - e) közigazgatási informatikai közreműködői tevékenységet lát el,
 - f) ügyfélszolgálatot működtethet,
@@ -258,9 +268,17 @@ vonatkozó munkáltatói jogokat.
 
 20/F. § A Kormány rendeletben jelöli ki Pest megyében a megyeszékhely járási hivatalának feladatait ellátó járási hivatalt, illetve a fővárosban a megyeszékhely járási hivatalának feladatait ellátó kerületi hivatalt.
 
-20/G. § (1) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely a kormányablak hatáskörébe tartozik, ideértve, amikor a kormányablak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) 19. § (1a) bekezdése alapján jár el, úgy a kormányablak eljárásáért a jogszabályban meghatározott igazgatási szolgáltatási díj – ha jogszabály eltérően nem rendelkezik – a fővárosi és megyei kormányhivatal bevételét képezi, és azt a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
+20/G. § (1) Törvényben vagy kormányrendeletben meghatározott ügyekben a járási hivatal az ügyre vonatkozó jogszabályban meghatározott, az eljárásra hatáskörrel és illetékességgel rendelkező hatóság mellett az elsőfokú eljárás lefolytatására hatáskörrel és illetékességgel rendelkező hatóságnak minősül.
 
-(2) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely eljárásban a kormányablak a Ket. szerinti közreműködő hatóságként jár el, és a kérelem a kormányablakhoz kerül benyújtásra, úgy a jogszabályban meghatározott igazgatási szolgáltatási díjat a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
+(2) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely a járási hivatal hatáskörébe tartozik, ideértve, amikor a járási hivatal az (1) bekezdés alapján jár el, úgy a járási hivatal eljárásáért a jogszabályban meghatározott igazgatási szolgáltatási díj – ha jogszabály eltérően nem rendelkezik – a fővárosi és megyei kormányhivatal bevételét képezi, és azt a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
+
+(3) Ha jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely eljárásban a járási hivatal külön jogszabályban meghatározottak szerint közreműködő hatóságként jár el, és a kérelem a járási hivatalhoz kerül benyújtásra, úgy a jogszabályban meghatározott igazgatási szolgáltatási díjat a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
+
+(4) Jogszabály eltérő rendelkezése hiányában, ha valamely bejelentésnek a hatáskörrel rendelkező illetékes hatósághoz történő megtételéhez jogszabály joghatást fűz, ideértve valamely jogosultság egyidejű gyakorolhatóságát, a joghatás a kormányablaknál történő bejelentéssel beáll, a bejelentés alapján gyakorolható jogosultság a kormányablaknál történő bejelentést követően azonnal gyakorolható.
+
+(5) A Kormány által rendeletben meghatározott hatósági nyilvántartások tekintetében az ügyfél jogosult a rá vonatkozó adatok megváltozását a kormányablakban bejelenteni. A kormányablak a változásbejelentést továbbítja a hatósági nyilvántartást vezető hatósághoz.
+
+(6) Ha a kérelmet a kormányablaknál terjesztették elő, és az eljárásra a járási hivatalnak nincs hatásköre vagy nem illetékes, a kérelmet öt napon belül továbbítja a döntés meghozatalára hatáskörrel és illetékességgel rendelkező hatósághoz. Jogszabály a kérelem továbbítására rövidebb határidőt is meghatározhat. A konzuli tisztviselő eljárásában a kérelmet haladéktalanul, de legkésőbb a kérelem benyújtását követő első diplomáciai futárpostával kell továbbítani.
 
 #### 9/B. A fővárosi és megyei kormányhivatal adatkezelésével összefüggő rendelkezések
 
@@ -326,7 +344,9 @@ vonatkozó munkáltatói jogokat.
 - d) az 1. § 3. pontjában meghatározott rendelkezéstől eltérő szakmai irányító minisztert
 - e) a fővárosi és megyei kormányhivatal funkcionális feladatait, valamint az azok irányítását ellátó szervet vagy szerveket,
 - f) a fővárosi és megyei kormányhivatalra vonatkozó gazdálkodási szabályokat,
-- g) a fővárosi és megyei kormányhivatal elektronikus űrlapra épülő ügyintézésnél alkalmazott egyedi eljárásrendjének, az automatikus döntéshozatalnak, a kapcsolódó nyilvántartási és ügyfélkapcsolati szolgáltatásoknak a részletes szabályait
+- g) a fővárosi és megyei kormányhivatal elektronikus űrlapra épülő ügyintézésnél alkalmazott egyedi eljárásrendjének, az automatikus döntéshozatalnak, a kapcsolódó nyilvántartási és ügyfélkapcsolati szolgáltatásoknak a részletes szabályait,
+- h) a hatósági közvetítők tevékenységére, a hatósági közvetítővé válás feltételeire és a hatósági közvetítő kiválasztására vonatkozó szabályokat,
+- i) a hatósági eljárásban kirendelt ügygondnokok tevékenységére, az ügygondnokká válás feltételeire, az ügygondnok kiválasztására és kirendelésére vonatkozó szabályokat
 
 rendeletben határozza meg.
 
@@ -334,13 +354,14 @@ rendeletben határozza meg.
 
 - a) a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét, Pest megyében a megyeszékhely járási hivatal feladatait ellátó járási hivatalt, a fővárosban a megyeszékhely járási hivatal feladatait ellátó kerületi hivatalt,
 - b) a járási (fővárosi kerületi) hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működése szabályait,
-- c) a kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályait
+- c) a kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályait,
+- d) a járási (fővárosi kerületi) hivatal egyszerűsített hatósági ellenőrzésére vonatkozó eljárási szabályokat
 
 rendeletben határozza meg.
 
 21/B. § (1) Felhatalmazást kap a miniszter, hogy a kormányablakok és az okmányirodák működésének személyi és technikai feltételeit rendeletben szabályozza.
 
-(2) Felhatalmazást kap a miniszter, hogy a kormányablaknak a saját hatáskörben, illetve közreműködő hatóságként történő eljárására vonatkozóan az igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+(2) Felhatalmazást kap a miniszter, hogy a járási hivatal eljárására vonatkozóan az igazgatási szolgáltatási díjjal kapcsolatos részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a miniszter, hogy a fővárosi és megyei kormányhivatalok informatikai működésére vonatkozó szakmai követelményeket – a szakmai irányító miniszter véleményének kikérésével – rendeletben határozza meg.
 

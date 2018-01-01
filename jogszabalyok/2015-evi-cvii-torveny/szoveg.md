@@ -6,13 +6,19 @@ a bírósági végrehajtásról szóló 1994. évi LIII. törvény, és ezzel ö
 
 1–2. §
 
-3. §
+3. § A Vht. 233. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A jogi szakvizsgával rendelkező személy végrehajtóvá nevezhető ki, ha)
+
+„a) megfelel az (1) bekezdés a)–d) és f) pontjában foglaltaknak,”
 
 4–12. §
 
 13. § (1)
 
-(2)
+(2) A Vht. 240/F. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Végrehajtó-helyettes lehet az a jogi szakvizsgával rendelkező személy, aki megfelel az (1) bekezdés a)–d) és g)–h) pontjában foglaltaknak, ha nem áll fenn vele szemben a (2) bekezdés szerinti kizáró ok.”
 
 (3)
 

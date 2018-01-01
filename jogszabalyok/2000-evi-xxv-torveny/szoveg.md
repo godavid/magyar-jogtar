@@ -274,7 +274,7 @@ végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
 (4) A (3) bekezdés c) pontja nem alkalmazható az egészségügyi államigazgatási szervnek az ellenőrzést végző hatóság megkeresése szerinti eljárásában, ha az ellenőrzést végző hatóság az eljárásában e törvény és a végrehajtására kiadott jogszabályok megsértése miatt bírságot szabott ki.
 
-(5)
+(5) Az egészségügyi államigazgatási szerv megkeresésére a Nemzeti Adó- és Vámhivatal (a továbbiakban NAV) megküldi a vámtitkot képező adatot vagy információt, ha az az ügyfél személyének vagy a vámhatósági eljárásban érintett veszélyes anyagok, keverékek azonosításához vagy az egészségügyi államigazgatási szerv hatósági feladatának ellátásához szükséges.
 
 (6) A (3) bekezdésben meghatározott intézkedések – a (4) bekezdésre is figyelemmel – egyidejűleg is alkalmazhatóak.
 

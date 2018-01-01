@@ -4,43 +4,119 @@ a közbeszerzésekről szóló 2015. évi CXLIII. törvény és az azzal összef
 
 #### 1. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-1–3. §
+#### 1. §
+
+#### 2. §
+
+#### 3. §
 
 4. § (1)
 
 (2)
 
-5–10. §
+#### 5. §
 
-11. §
+#### 6. §
 
-12. §
+#### 7. §
 
-13. §
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
 
 14. § A Kbt. 40. § (1) bekezdése a következő szöveggel lép hatályba:
 
 „(1) A közbeszerzési és koncessziós beszerzési eljárást a Miniszterelnökség által üzemeltetett egységes, elektronikus közbeszerzési rendszer igénybevételével kell lebonyolítani.”
 
-15–45. §
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+#### 45. §
 
 46. § (1)
 
-(2) A Kbt. 195. §-a a következő (12) bekezdéssel egészül ki:
+(2)
 
-„(12) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.”
+#### 47. §
 
-47–49. §
+#### 48. §
+
+#### 49. §
 
 50. § (1)
 
 (2)
 
-51. §
+#### 51. §
 
 #### 2. Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény módosítása
 
-52. §
+#### 52. §
 
 #### 3. A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes törvények módosításáról, valamint egyes költségvetési szervek feladatainak átadásáról szóló 2016. évi CIV. törvény módosítása
 

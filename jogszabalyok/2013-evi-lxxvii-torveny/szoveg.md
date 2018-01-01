@@ -8,7 +8,7 @@ Annak érdekében, hogy a hazánkban élő személyek meg tudjanak felelni a gaz
 
 #### 1. A törvény személyi és tárgyi hatálya
 
-1. § (1) E törvény hatálya kiterjed
+1. § (1) E törvény hatálya – az (1a) bekezdésben foglalt kivétellel – kiterjed
 
 - a) a felnőttképzésben részt vevő és a felnőttképzést kiegészítő tevékenységet igénybevevő felnőttre,
 - b) a tankötelezettsége teljesítése mellett felnőttképzésben is részt vevő – az a) pont hatálya alá nem tartozó – személyre,
@@ -26,6 +26,8 @@ Annak érdekében, hogy a hazánkban élő személyek meg tudjanak felelni a gaz
 irányuló tevékenységére,
 
 - k) az állami szakképzési és felnőttképzési szervre.
+
+(1a) A VIII/A. Fejezet hatálya a felsőoktatási képzés keretében jogász osztatlan szakon okleveles jogász szakképzettséget szerzett személyekre terjed ki.
 
 (2) E törvény alkalmazásában felnőttképzési tevékenység az (1) bekezdés c) pontjában meghatározott jogalanyoknak az (1) bekezdés a) és b) pontjában meghatározott természetes személyek iskolarendszeren kívüli képzésére irányuló tevékenysége, amely az (5)–(6) bekezdésben foglaltak kivételével
 
@@ -69,14 +71,19 @@ lehet.
 2. § E törvény alkalmazásában:
 
 - 1. általános nyelvi képzés: az Európa Tanács Közös Európai Referenciakeretben ajánlott hatfokozatú rendszer szintjeiben megfogalmazott követelmények teljesítésére irányuló, további kimeneti szintekre osztott nyelvi képzés;
-- 2. belső képzés: a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, nem üzletszerűen szervezett, a 23. § (1) bekezdésében foglalt forrás terhére megvalósuló képzés, amely nem lehet az 1. § (2) bekezdés a) pontjában, valamint a 2. § 1. pontjában meghatározott képzés. A belső képzés szempontjából munkavállaló a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés b) pontjában munkavállalóként meghatározott személy;
+- 2. belső képzés: a munkáltató által a saját munkavállalói részére saját munkaszervezetén belül, a munkáltató beszállítóinak munkavállalói részére, vagy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozások munkavállalói részére nem üzletszerűen szervezett, a 23. § (1) bekezdésében foglalt forrás terhére megvalósuló képzés, amely nem lehet az 1. § (2) bekezdés a) pontjában, valamint a 2. § 1. pontjában meghatározott képzés. A belső képzés szempontjából munkavállaló a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés b) pontjában munkavállalóként meghatározott személy;
 - 3. bemeneti kompetencia: a képzés megkezdéséhez szükséges kompetencia;
 - 4. bemeneti kompetenciamérés: a bemeneti kompetenciával való rendelkezést igazoló dokumentum hiánya esetén annak felmérése, hogy a képzésre jelentkező birtokában van-e azoknak a kompetenciáknak, amelyek a képzés megkezdéséhez és annak sikeres elvégzéséhez feltétlenül szükségesek;
-- 5. egyéb képzés: olyan képzés, amely az általános műveltség növelését, megnevezhető szakképesítéshez, szakmai végzettséghez vagy nyelvi képzettséghez nem köthető kompetenciák fejlesztését célozza, hozzájárul a felnőtt személyiségének fejlődéséhez, a társadalmi esélyegyenlőség és az állampolgári kompetencia kialakulásához;
+- 4a. beszállító: az a természetes személy, jogi személy vagy egyéb gazdálkodó szervezet,
+  - a) amely a végtermék gyártási vagy összeszerelési folyamata során alapanyagot szállít, alkatrészt, illetve részegységet fejleszt vagy állít elő, vagy a végtermék gyártási vagy összeszerelési folyamatával szorosan összefüggő szolgáltatást nyújt a végterméket gyártó, vagy annak beszállítói integrátora részére,
+  - b) amely által szállított alapanyag vagy az általa előállított alkatrész vagy nyújtott szolgáltatás nem kerül közvetlen kereskedelmi forgalomba, és
+  - c) amelyet közvetlen vagy a beszállítói integrátoron keresztül közvetett beszállítói – a beszállító minőségbiztosítási és logisztikai rendszerével, a fejlesztésekkel és garanciális tényezőkkel összefüggő jogokat és kötelezettségeket tartalmazó – szerződés köt a végtermék gyártójához;
+- 4b. beszállítói integrátor: az a beszállító, amely közvetlen szerződéses kapcsolatban van a végtermék gyártójával vagy összeszerelőjével és e szerződésben foglaltak alapján integrálja a beszállítási láncban résztvevő további beszállítókat.
+- 5. egyéb képzés: a harminc óra képzési időt nem meghaladó időtartamú bármely képzés, vagy olyan, harminc óra képzési időt meghaladó időtartamú képzés, amely az általános műveltség növelését, megnevezhető szakképesítéshez, szakmai végzettséghez vagy nyelvi képzettséghez nem köthető kompetenciák fejlesztését célozza, hozzájárul a felnőtt személyiségének fejlődéséhez, a társadalmi esélyegyenlőség és az állampolgári kompetencia kialakulásához;
 - 5a. egyéb nyelvi képzés: bármely szakterületre kiterjedő szaknyelvi képzés;
 - 6. egyéb szakmai képzés: olyan, államilag el nem ismert szakmai végzettség megszerzésére irányuló képzés, amely valamely foglalkozás, munkakör vagy munkatevékenység végzéséhez szükséges kompetencia megszerzésére, fejlesztésére irányul és nem a 16. pont szerinti hatósági jellegű képzés;
 - 7. elméleti tanóra: a képzésnek a megszerezni kívánt képesítéshez, kompetenciához szükséges elméleti tudás megszerzését biztosító, 45 percet elérő időtartamú egysége;
-- 8. előzetes tudás mérése: annak felmérése, hogy a képzésre jelentkező dokumentumokkal nem igazolt tanulmányai vagy megszerzett gyakorlati tapasztalatai alapján képes-e a képzés során elsajátítandó tananyagegység követelményeinek teljesítésére, amelynek eredményeként a követelmények megfelelő szintű teljesítése esetén a tananyagegység elsajátítására irányuló képzési rész – nyelvi képzés esetén a teljesített nyelvi képzettségi szint – alól a képzésre jelentkezőt fel kell menteni;
+- 8. előzetes tudás mérése: annak felmérése, hogy a képzésre jelentkező dokumentumokkal nem igazolt tanulmányai vagy megszerzett gyakorlati tapasztalatai alapján képes-e a képzés során elsajátítandó tananyagegység követelményeinek teljesítésére, amelynek eredményeként a követelmények megfelelő szintű teljesítése esetén a tananyagegység elsajátítására irányuló képzési rész alól a képzésre jelentkezőt fel kell menteni;
 - 9. felnőtt: a felnőttképzésben részt vevő természetes személy, aki a nemzeti köznevelésről szóló törvény alapján a tankötelezettségét teljesítette;
 - 10. felnőttképzést folytató intézmény: az 1. § (1) bekezdés c) pontja szerinti jogalany, ha az 1. § (2) bekezdésében meghatározott képzésre irányuló tevékenységet e törvény szerint kiadott engedély alapján folytatja;
 - 11. felnőttképzést kiegészítő tevékenység: olyan tevékenység, amely a felnőttképzésben folytatott képzések egyénre szabott kialakításának elősegítésére, a képzés hatékonyságának javítására vagy a munkavállalás elősegítésére irányul;
@@ -86,6 +93,7 @@ lehet.
 - 15. gyakorlati képzést szervező: a gyakorlati képzés feltételeinek biztosításáért felelős szervezet, amely lehet a gyakorlati képzés folytatója is;
 - 16. hatósági jellegű képzés: jogszabályban szabályozott tartalmú és célú olyan, az Országos Képzési Jegyzékben (a továbbiakban: OKJ) nem szereplő képesítés megszerzésére irányuló képzés, amelynek eredményeként dokumentum kiadására kerül sor, és e dokumentum hiányában jogszabályban meghatározott tevékenység, munkakör nem folytatható, nem tölthető be, vagy tevékenység, munkakör a képzést megelőző szakmai szinthez képest magasabb követelményeknek megfelelően folytatható, tölthető be, vagy a dokumentum a képzésben részt vevő számára a képzést megelőző állapothoz képest többletjogosultságot biztosít jogszabályban meghatározott tevékenység, munkakör végzésével, betöltésével összefüggésben;
 - 17. iskolarendszeren kívüli képzés: olyan képzés, amelynek résztvevői nem állnak a képző intézménnyel – a nemzeti köznevelésről szóló törvényben vagy a nemzeti felsőoktatásról szóló törvényben meghatározott – tanulói vagy hallgatói jogviszonyban;
+- 17a. képzés megkezdésének időpontja: egyéni felkészítés és csoportos képzés esetén a képzés első kontaktórájának időpontja, folyamatban lévő – a felsorolt képzési formák szerinti – képzésbe bekapcsolódó résztvevő első kontaktórájának időpontja, távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben résztvevő számára történő megküldési időpontja;
 - 18. képzési forma: az 1. § (2) bekezdés a), b) és d) pontja szerinti képzések esetén egyéni felkészítés, csoportos képzés és távoktatás, az 1. § (2) bekezdés c) pontja szerinti kontaktórás képzés esetén csoportos képzés és egyéni felkészítés;
 - 19. képzési tevékenység: szervezetten megvalósuló, célirányos kompetenciakialakítás és kompetenciafejlesztés;
 - 19a. kombinált nyelvi képzés: az általános nyelvi képzés és az egyéb nyelvi képzés egyidejű, egy képzésen belüli összekapcsolásával megvalósuló nyelvi képzés;
@@ -96,12 +104,12 @@ lehet.
 - 23. moduláris rendszer: meghatározott, összekapcsolható egységekből, modulokból álló képzési program, tananyag, amely lehetővé teszi a képzés kimeneti követelményének teljesítéséhez szükséges ismeretek részenkénti elsajátítását, biztosítja a szakmák, képzési szintek közötti átjárhatóságot, az eltérő tudásszintekhez, munkatapasztalatokhoz való alkalmazkodást, a képzések különböző irányú specializálását. A modulok egymáshoz illesztésével, cseréjével különböző moduláris képzési programok, tananyagok állíthatók össze;
 - 23a. nyelvi képzettségi szint: a nyelvi készségek, képességek és ismeretek felnőttképzési nyelvi programkövetelményben meghatározott szintje;
 - 23b. nyelvi képzés fajtái: általános nyelvi képzés, egyéb nyelvi képzés vagy kombinált nyelvi képzés;
-- 23c. nyelvi képzés szintje: általános nyelvi képzés esetén a „KER” ajánlott hatfokozatú rendszer szintjei, amelyek további bemeneti és kimeneti követelmények által meghatározott képzési szintekre bonthatók, egyéb nyelvi képzés esetén a nyelvi készségek, képességek és ismeretek felnőttképzési nyelvi programkövetelményben meghatározott, „KER” szintekhez köthető szintjei;
+- 23c. nyelvi képzés szintje: általános nyelvi képzés esetén a „KER” ajánlott hatfokozatú rendszer szintjei, amelyek további bemeneti és kimeneti követelmények által meghatározott képzési szintekre bonthatók, egyéb, vagy kombinált nyelvi képzés esetén a nyelvi készségek, képességek és ismeretek felnőttképzési nyelvi programkövetelményben meghatározott, „KER” szintekhez köthető szintjei;
 - 23d. nyelvi képzés típusa: kontaktórás képzés vagy az 1. § (3) bekezdése alapján megvalósuló képzés esetén kontaktórás képzés vagy távoktatás;
 - 24. tananyagegység: a képzési program felépítését adó, önálló tartalommal bíró képzési egység;
 - 25. támogatást nyújtó: a 23. § (1) bekezdésben megjelölt források felett rendelkezni jogosult szervezet, amellyel a támogatott a pénzeszközök képzési célú felhasználására támogatási szerződést köt;
 - 26. támogatott képzés: részben vagy egészben a 23. § (1) bekezdésében szereplő források terhére megvalósuló képzés;
-- 27. távoktatás: az oktatásnak az a formája, amelynél a résztvevő a képzési idő több, mint felében – nyelvi képzés esetén legfeljebb a képzési idő harminc százalékában – egyedül, önállóan, a távoktatási tananyagba épített iránymutatás mellett tanul, a képzési idő kevesebb, mint felében pedig konzultációkon vagy a távoktatás vegyes képzési módszerrel történő megvalósulása (a kontaktórás képzés és a távoktatás módszereinek kombinált alkalmazása) esetén hagyományos tanórákon – nyelvi képzés esetén a képzési idő legalább hetven százalékában kontaktórákon – vesz részt, és az elsajátítási folyamat önálló megvalósításához szükséges tananyaghordozó, felmérő és útmutató anyagokat tartalmazó tanulócsomagot a képző intézmény bocsátja rendelkezésére; a konzultációkon, amelyek a kapcsolattartás bármely formájában – különösen személyes megbeszélés, internet, telefon – megvalósulhatnak, a résztvevők az önállóan szerzett ismereteiket pontosítják, illetve elmélyítik; a távoktatás minden fázisát infokommunikációs technológiai adathordozók felhasználása is segítheti.
+- 27. távoktatás: az oktatásnak az a formája, amelynél a résztvevő a képzési idő több, mint felében egyedül, önállóan, a távoktatási tananyagba épített iránymutatás mellett tanul, a képzési idő kevesebb, mint felében pedig konzultációkon vagy a távoktatás vegyes képzési módszerrel történő megvalósulása (a kontaktórás képzés és a távoktatás módszereinek kombinált alkalmazása) esetén hagyományos tanórákon vesz részt, és az elsajátítási folyamat önálló megvalósításához szükséges tananyaghordozó, felmérő és útmutató anyagokat tartalmazó tanulócsomagot a képző intézmény bocsátja rendelkezésére; a konzultációkon, amelyek a kapcsolattartás bármely formájában – különösen személyes megbeszélés, internet, telefon – megvalósulhatnak, a résztvevők az önállóan szerzett ismereteiket pontosítják, illetve elmélyítik; a távoktatás minden fázisát infokommunikációs technológiai adathordozók felhasználása is segítheti.
 
 ### II. Fejezet — A FELNŐTTKÉPZÉSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ ELJÁRÁS ÉS INTÉZMÉNYRENDSZER
 
@@ -111,7 +119,7 @@ lehet.
 
 (1a) Az engedéllyel rendelkező felnőttképzést folytató intézmény a felnőttképzési tevékenységét kizárólag saját szervezeti rendszerének keretén belül végezheti, a felnőttképzési tevékenység végzésére – az oktatókkal kötött megbízási, valamint a képzés gyakorlati részének megvalósítására kötött szerződések kivételével – más jogalannyal nem állapodhat meg.
 
-(2) Az engedély kiadására, módosítására, kiegészítésére irányuló kérelmet vagy az engedély kiegészítésére irányuló bejelentést a hatóságnál kell benyújtani. Az engedélyezési eljárásra egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni azzal, hogy a hatóság az engedély kiadására, módosítására vagy kiegészítésére irányuló kérelemről hatvan napon belül dönt, míg a bejelentés alapján az engedélyt a bejelentést követő tizenöt napon belül kiegészíti. Az engedély kiegészítésének bejelentés alapján történő eseteit az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+(2) Az engedély kiadására, módosítására, kiegészítésére irányuló kérelmet vagy az engedély kiegészítésére irányuló bejelentést a hatóságnál kell benyújtani; a kérelem vagy bejelentés nem terjeszthető elő, illetve nem tehető meg kormányablaknál. A hatóság a bejelentés alapján az engedélyt a bejelentést követő tizenöt napon belül egészíti ki. Az engedély bejelentés alapján történő kiegészítésének eseteit az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
 
 (3) Az (1)–(2) bekezdésben foglalt rendelkezést a felnőttképzési tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
@@ -125,15 +133,20 @@ lehet.
 
 (8) A (6) bekezdésben foglalt rendelkezést alkalmazni kell az engedély visszavonásával érintett intézmény alapítójának, vagy köznevelési intézmény érintettsége esetén a köznevelési törvény szerinti fenntartójának képviselője – kivéve a tankerület képviselőjét – esetében is azzal, hogy a hatóság teljesen visszavonja az engedélyét annak a felnőttképzést folytató intézménynek, amelynek esetében az alapító vagy fenntartó képviselőjének személye az eltiltással érintett időszak alatt változatlan.
 
-(9) Az 1. § (1) bekezdés c) pontjában meghatározott jogalanyok az engedélyezési eljárás, valamint az engedélyezési eljáráshoz kapcsolódó fellebbezési eljárás során kizárólag elektronikus úton kötelesek a hatósággal kapcsolatot tartani.
+(9) Az 1. § (1) bekezdés c) pontjában meghatározott jogalanyok az engedélyezési eljárás során kizárólag elektronikus úton kötelesek a hatósággal kapcsolatot tartani.
 
 3/A. § A központi költségvetési szerv megszűnésének időpontjában folyamatban lévő, engedélyezett képzéseit jogutódja, vagy – jogutód hiányában – a felnőttképzéssel kapcsolatos feladatait átvevő szerv a megszűnt szerv számára kiadott engedély alapján – e törvény rendelkezései szerint – folytathatja le.
 
-4. § (1) A hatóság – a (3) bekezdésben foglalt kivétellel – szakértői bizottság igénybevételével lefolytatja az engedélyezési eljárást, amelynek alapján az engedélyt kiadja, módosítja vagy kiegészíti. A hatóság az engedély kiadásával az abban szereplő képzések folytatását az 1. § (2) bekezdés a)–d) pontja szerinti képzési kör (a továbbiakban: képzési kör) megjelölésével engedélyezi, az engedély módosításával az intézmény engedélyét új képzési körrel bővíti, míg az engedély kiegészítésével az intézmény engedélyében szereplő képzéseit – az engedélyben megjelölt képzési körön belüli – új képzéssel bővíti.
+4. § (1) A hatóság szakértői bizottság közreműködését veheti igénybe az engedélyezési eljárás lefolytatásához, amelynek alapján az engedélyt kiadja, módosítja vagy kiegészíti. A hatóság az engedély kiadásával az abban szereplő képzések folytatását az 1. § (2) bekezdése szerinti képzési kör (a továbbiakban: képzési kör) megjelölésével engedélyezi, az engedély módosításával az intézmény engedélyét új képzési körrel bővíti, míg az engedély kiegészítésével az intézmény engedélyében szereplő képzéseit – az engedélyben megjelölt képzési körön belüli – új képzéssel bővíti.
 
-(2) Az (1) bekezdés szerinti szakértői bizottság tagjait a hatóság által vezetett felnőttképzési szakértői és a kamara által vezetett felnőttképzési programszakértői nyilvántartásban szereplő szakértők közül rendeli ki a hatóság azzal, hogy az 1. § (2) bekezdés c) pontjában foglalt képzések folytatására irányuló kérelem elbírálása során kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértő rendelhető ki. Ha a kamara által vezetett felnőttképzési programszakértői nyilvántartásban nincs olyan szakértő, aki a felnőttképzési szakterülete szerint az engedélyezési eljárás során kirendelhető, vagy a kirendelhető szakértők tekintetében miniszteri rendeletben meghatározott összeférhetetlenség áll fenn, a hatóság a szakértői bizottság tagjait kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértők közül rendeli ki.
+(2) Szakértői bizottság közreműködésének igénybevétele esetén annak tagjait a hatóság által vezetett felnőttképzési szakértői és a kamara által vezetett felnőttképzési programszakértői nyilvántartásban szereplő szakértők közül rendeli ki a hatóság azzal, hogy az 1. § (2) bekezdés c) pontjában foglalt képzések folytatására irányuló kérelem elbírálása során kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértő rendelhető ki. Ha a kamara által vezetett felnőttképzési programszakértői nyilvántartásban nincs olyan szakértő, aki a felnőttképzési szakterülete szerint az engedélyezési eljárás során kirendelhető, vagy a kirendelhető szakértők tekintetében miniszteri rendeletben meghatározott összeférhetetlenség áll fenn, a hatóság a szakértői bizottság tagjait kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértők közül rendeli ki.
 
-(3) A hatóság az engedélyezési eljárást szakértői bizottság bevonása nélkül folytatja le, ha a nemzeti köznevelésről szóló törvény végrehajtásáról szóló kormányrendelet szerinti OM-azonosítóval rendelkező köznevelési intézmény kérelme olyan, az 1. § (2) bekezdés a) és b) pontja szerinti képzés folytatására irányul, amely szakképesítés szakmacsoportjának vagy egyéb szakmai képzés szakmacsoportjának valamely szakképesítése szerepel az intézmény hatályos működési engedélyében. Az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg azon további esetek körét, ahol a hatóság szakértői bizottság bevonása nélkül folytatja le az engedélyezési eljárást.
+(3) Szakértői bizottság közreműködése esetén az engedélyezési, valamint az ellenőrzési eljárásban részt vevő ügyfél köteles
+
+- a) a szakértői vizsgálat során nyilatkozattételre jogosult személy jelenlétét biztosítani, továbbá
+- b) közreműködni a szakértői vizsgálatban, amely során a szakértői bizottság számára biztosítja különösen
+  - ba) az érintett területre, építménybe történő belépést,
+  - bb) adat, irat, tárgy, munkafolyamat megvizsgálását és információk átadását.
 
 5. § (1) A hatóság elektronikus nyilvántartást vezet az engedéllyel rendelkező képző intézményekről. Az engedéllyel rendelkező képző intézmények nyilvántartása
 
@@ -167,7 +180,7 @@ tartalmazza.
 
 #### 4. A felnőttképzési szakértői rendszer
 
-6. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály a felnőttképzési szakterületen felnőttképzési szakértő vagy felnőttképzési programszakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű és nem áll a miniszteri rendeletben meghatározott felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a miniszteri rendeletben meghatározott szakmai képesítéssel és szakmai gyakorlattal, és megfelel az ott meghatározott egyéb feltételeknek.
+6. § (1) Felnőttképzési szakterületen felnőttképzési szakértő vagy felnőttképzési programszakértő igénybevétele esetén – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe és a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű és nem áll a miniszteri rendeletben meghatározott felnőttképzési szakterületen szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik a miniszteri rendeletben meghatározott szakmai képesítéssel és szakmai gyakorlattal, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (2) Aki felnőttképzési szakértői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni.
 
@@ -200,19 +213,13 @@ tartalmazza.
 - b) tevékenysége megfelel-e az e törvényben, valamint az e törvény felhatalmazása alapján kiadott miniszteri rendeletben foglalt előírásoknak,
 - c)
 
-(2) Az (1) bekezdés alapján megismert személyes adatokat a hatóság és a kamara a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(2) Az (1) bekezdés alapján megismert személyes adatokat a hatóság és a kamara a szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.
 
-(3) A felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, továbbá a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket miniszteri rendelet határozza meg.
+(3) A felnőttképzési szakértői és felnőttképzési programszakértői nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat kormányrendelet, a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértői és a felnőttképzési programszakértői nyilvántartás adatait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, továbbá a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket miniszteri rendelet határozza meg.
 
-9. § (1) A hatóság felnőttképzési szakértőkkel kapcsolatos feladatainak megoldását, valamint a felnőttképzést folytató intézmények által alkalmazható minőségbiztosítási rendszerek kialakításának elősegítését legalább négy fő felnőttképzési szakértő, továbbá felnőttképzési programszakértő tagokból álló, hattagú Felnőttképzési Szakértői Bizottság (a továbbiakban: FSZB) támogatja. Az FSZB-t az állami szakképzési és felnőttképzési szerv működteti.
+(4) A hatóság és a kamara 7. § (1) bekezdése szerinti nyilvántartás vezetésével összefüggő, továbbá a 8. § (1) bekezdésében meghatározott eljárásával, illetve döntésével összefüggésben a felügyeleti szerv számára az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) meghatározott jogköröket a miniszter gyakorolja.
 
-(2) Az FSZB a hatóságnak a felnőttképzési szakértőkkel és felnőttképzési programszakértőkkel kapcsolatos feladatai ellátásával összefüggésben javaslattevő, véleményező, tanácsadó testületeként működik.
-
-(3) Az FSZB megállapítja, hogy a hozzá benyújtott minőségbiztosítási rendszerek – a képzést folytató intézmény által kidolgozott vagy működtetett minőségbiztosítási rendszer kivételével – a miniszter rendeletében meghatározott minőségbiztosítási keretrendszernek megfeleltethetők-e, és javaslatot tesz a miniszternek arra, hogy a megfelelőnek ítélt minőségbiztosítási rendszerek közül mely minőségbiztosítási rendszer alkalmazható a felnőttképzési tevékenységet folytató intézményeknél. Az FSZB javaslatáról a miniszter dönt.
-
-(4) Az FSZB elnökét és tagjait a miniszter nevezi ki és menti fel. A kinevezés visszavonásig, de legfeljebb négyéves időtartamra érvényes. A miniszter az FSZB elnökét a felnőttképzési szakértők közül nevezi ki.
-
-(5) Az FSZB feladataira és működésére, tagjainak megbízására, felmentésére, díjazására és összeférhetetlenségére vonatkozó részletes szabályokat miniszteri rendelet határozza meg.
+#### 9. §
 
 ### III. Fejezet — A FELNŐTTKÉPZÉS TARTALMI KÖVETELMÉNYEI
 
@@ -280,6 +287,15 @@ tartalmazza.
 
 lehet.
 
+(3) A (2) bekezdés a) pontja alapján a képzési program részét képező modulzáró vizsgák szervezésének és dokumentálásának rendszere magában foglalja
+
+- a) a modulzáró vizsga
+  - aa) formáját, ütemezését,
+  - ab) lefolytatása során keletkezett és kezelt dokumentumok megnevezését és
+  - ac) tevékenységeinek tartalmát, időtartamát, helyszínét,
+- b) a modulzáró vizsgán megszerezhető minősítéseket és az egyes minősítésekhez tartozó követelményeket, és
+- c) a sikertelen teljesítés következményeit.
+
 #### 7. A felnőttképzési szerződés
 
 13. § (1) A felnőttképzést folytató intézmény és a képzésben részt vevő felnőtt – a polgári jog általános szabályai szerint – felnőttképzési szerződést köt.
@@ -297,7 +313,7 @@ lehet.
 - d) a résztvevőnek a képzés során nyújtott teljesítménye ellenőrzésének, értékelésének módját, a vizsgára történő bocsátás feltételeit,
 - e) az elméleti tanórákról, a gyakorlati képzésről, illetve a konzultációkról való megengedett hiányzás mértékét és ennek túllépése esetén a képzésben részt vevőt érintő következményeket,
 - f) a gyakorlati képzés helyét, időtartamát, ütemezését, valamint a felnőtt számára a gyakorlati foglalkozással összefüggésben esetlegesen biztosított juttatásokat,
-- g) a vizsga szervezésének módját, formáját, OKJ szerinti szakképesítés, illetve nyelvi képzés esetén az előírt vagy javasolt vizsgaszervező intézmény megnevezését,
+- g) a vizsga szervezésének módját, formáját, OKJ szerinti szakképesítés, esetén az előírt vagy javasolt vizsgaszervező intézmény megnevezését,
 - h) a képzési díj – külön a g) pont szerinti vizsgaszervező intézmény által megjelölt vizsgadíj és az esetlegesen szükséges javítóvizsga díjának – mértékét és fizetésének módját, figyelembe véve az előzetesen megszerzett tudás beszámítását, valamint a képzési díj megfizetésének a képzés megvalósítása teljesítésével arányban álló ütemezését,
 - i) a képzéshez nyújtott támogatás összegének költségvetési és európai uniós források szerint történő feltüntetését,
 - j) a képzésben részt vevő felnőtt, illetve a felnőttképzést folytató intézmény szerződésszegésének következményeit.
@@ -312,16 +328,16 @@ lehet.
 
 14. § (1) A felnőttképzést folytató intézmény képzési tevékenysége minőségének folyamatos javítása céljából a miniszter rendeletében meghatározott minőségbiztosítási keretrendszernek megfelelő minőségbiztosítási rendszert működtet.
 
-(2) Az FSZB a felnőttképzést folytató intézmények tevékenységének – (1) bekezdés szerinti célt szolgáló – külső értékelését a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendelet szerinti minőségbiztosítási rendszernek megfelelően és a miniszteri rendeletben meghatározott feltételeknek megfelelő jogi személyek bevonásával legalább kétévente végzi el.
+(2) A felnőttképzést folytató intézmény – az (1) bekezdés szerinti minőségbiztosítási rendszernek megfelelően – kétévenként legalább egyszer elvégezteti az intézmény tevékenységének külső értékelését.
 
-(3) A felnőttképzést folytató intézmények külső értékelésére vonatkozó részletes szabályokat, valamint a külső értékelést végző szervezetek kijelölésének szabályait a miniszter rendeletben határozza meg.
+14/A. § Az állami szakképzési és felnőttképzési szerv megállapítja, hogy a hozzá benyújtott minőségbiztosítási rendszerek – a képzést folytató intézmény által kidolgozott vagy működtetett minőségbiztosítási rendszer kivételével – a miniszter rendeletében meghatározott minőségbiztosítási keretrendszernek megfeleltethetők-e, és javaslatot tesz a miniszternek arra, hogy a megfelelőnek ítélt minőségbiztosítási rendszerek közül mely minőségbiztosítási rendszer alkalmazható a felnőttképzési tevékenységet folytató intézményeknél. Az állami szakképzési és felnőttképzési szerv javaslatáról a miniszter dönt.
 
 #### 9. A felnőttképzési információs rendszer, a képzés megvalósításával összefüggő dokumentumok
 
 15. § (1) A felnőttképzést folytató intézmény engedélyezett képzéseinek folytatásáról a hatóság részére
 
 - a) a felnőttképzést folytató intézmény megnevezésére, székhelyére, az engedély megszerzésének időpontjára és számára,
-- b) a képzés megnevezésére, OKJ szerinti szakképesítés megszerzésére irányuló képzés esetén a szakképesítés azonosító számára és megnevezésére,
+- b) a képzés 1. § (2) bekezdés szerinti megnevezésére, OKJ szerinti szakképesítés megszerzésére irányuló képzés esetén a szakképesítés azonosító számára és megnevezésére, egyéb szakmai képzés, általános nyelvi képzés, egyéb nyelvi képzés vagy kombinált nyelvi képzés esetén a képzés engedélyezéséhez szükséges felnőttképzési szakmai programkövetelmény vagy a felnőttképzési nyelvi programkövetelmény nyilvántartásban szereplő azonosítószámára,
 - c) a képzési csoport
   - ca) képzésének első képzési napjára,
   - cb) haladásának napokra, időpontokra és helyszínekre bontott, óraszám szerinti ütemezésére,
@@ -352,7 +368,7 @@ elektronikus úton adatokat szolgáltat.
 
 köteles eleget tenni.
 
-(4) A NYAK képző intézményenként, nyelvenként és nyelvi szintenként a hatóság részére
+(4) A NYAK nyelvenként és nyelvi szintenként a hatóság részére
 
 - a) a vizsgára jelentkezettek,
 - b) a vizsgán megjelentek, valamint
@@ -396,7 +412,7 @@ tartalmazza.
 16. § A felnőttképzést folytató intézménynek az alábbi dokumentumokat kell vezetnie, nyilvántartania és – a hatóság ellenőrzési jogköre gyakorlásának biztosítása érdekében – öt évig megőriznie:
 
 - a) az elméleti tanórán, gyakorlati foglalkozáson, konzultáción vezetett, a képzésben részt vevő felnőtt által aláírt jelenléti íveket, valamint a képzésben résztvevővel elektronikus úton folytatott szakmai felkészítést, ellenőrzést igazoló dokumentumokat,
-- b) a képzésben részt vevő felnőtt 21. § (1) bekezdése alapján kezelt személyi adatait, valamint a képzés megkezdéséhez és folytatásához szükséges feltételeket igazoló eredeti dokumentumokat vagy azoknak a felnőttképzést folytató intézmény által hitelesített másolatait,
+- b) a képzésben részt vevő felnőtt 21. § (1) bekezdése alapján kezelt személyi adatait, valamint a képzés megkezdéséhez és folytatásához szükséges feltételeket igazoló eredeti dokumentumokat vagy azoknak a felnőttképzést folytató intézmény által hitelesített másolatait, továbbá a bemeneti kompetenciamérést és az előzetes tudásmérést igazoló dokumentumokat,
 - c) a felnőttképzési szerződést, a képzési programot, a képzésnek a képzési program szerinti megvalósítását igazoló dokumentumokat, valamint a résztvevők hiányzásait dokumentáló haladási naplót,
 - d) a képzésben részt vevő felnőttnek a sikeres vizsga letételét vagy a képzés elvégzését igazoló dokumentumának a kiállító által hitelesített másolatát vagy a felnőttképzést folytató intézmény vizsgaszervezése esetén a bizonyítvány átvételéről szóló elismervény eredeti példányát,
 - e) a képzés megvalósításához szükséges személyi és tárgyi feltételek biztosítását szolgáló szerződések eredeti példányát,
@@ -423,7 +439,7 @@ tartalmazza.
 
 (2) A felnőttképzési szakmai programkövetelmények elektronikus nyilvántartását a kamara vezeti. A nyilvántartásba vételről, a nyilvántartásba vétel módosításáról, valamint a nyilvántartásból történő törlésről öttagú bizottság dönt, amelybe a felnőttképzési programszakértők közül három tagot a kamara, egy tagot az agrárkamara, egy tagot a szakmai programkövetelményre irányuló javaslat OKJ–ban szereplő szakmacsoportjának megfelelő, a szakmacsoporton belüli szakképesítések többségéért felelős miniszter delegál. A bizottságnak a kamara és az agrárkamara által delegált tagjait és elnökét a miniszter nevezi ki és menti fel.
 
-(3) A bizottság szervezeti és működési szabályzatát, valamint ügyrendjét a kamara elnöke az agrárkamara elnökének és a miniszternek az egyetértésével állapítja meg. A bizottság elnöke feladatkörében képviseli a testületet. A bizottság tagja nem lehet olyan személy, aki e törvény szerinti felnőttképzési tevékenységet folytató szervezetnek, illetve a szervezet jogi személyiséggel rendelkező szervezeti egységének vezető tisztségviselője, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, egyesület ügyintéző vagy képviseleti szervének tagja, gazdasági társaságnak bármilyen arányban tulajdonosa.
+(3) A bizottság szervezeti és működési szabályzatát, valamint ügyrendjét a kamara elnöke az agrárkamara elnökének és a miniszternek az egyetértésével állapítja meg. A bizottság elnöke feladatkörében képviseli a testületet. A bizottság tagja nem lehet olyan személy, aki e törvény szerinti felnőttképzési tevékenységet folytató szervezetnek, illetve a szervezet jogi személyiséggel rendelkező szervezeti egységének vezető tisztségviselője, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, egyesület ügyintéző vagy képviseleti szervének tagja, felnőttképzési tevékenységet folytató gazdasági társaságnak bármilyen arányban tulajdonosa.
 
 (4) Felnőttképzési szakmai programkövetelmények nyilvántartásba vételére vonatkozó javaslatot bármely jogi személy, egyéni cég, egyéni vállalkozó benyújthat – kizárólag elektronikus formában – a nyilvántartást vezető szervhez. A javaslatnak tartalmaznia kell
 
@@ -433,7 +449,9 @@ tartalmazza.
 - d) a szakmai végzettség megszerzéséhez szükséges képzés képzési formától függő minimális és maximális óraszámát,
 - e) a szakmai követelmények leírását,
 - f) a szakmai végzettség jellegétől függően az elméleti és gyakorlati képzési idő arányát,
-- g) a szakmai végzettség megszerzését igazoló dokumentum kiadásának feltételeit.
+- g) a szakmai végzettség megszerzését igazoló dokumentum kiadásának feltételeit,
+- h) a javaslatot benyújtó nyilatkozatát a szakmai végzettség megszerzéséhez szükséges képzési tartalom szabadalmi vagy szerzői jogi oltalmáról vagy annak hiányáról,
+- i) a modulzáró vizsgával érintett szakmai követelménymodul teljes átvétele esetén a szakmai követelménymodulra vonatkozó, a 12. § (3) bekezdésben foglaltaknak megfelelő vizsgáztatási szabályokat.
 
 (5) A felnőttképzési szakmai programkövetelmények nyilvántartásba vételére vonatkozó javaslat elutasítása esetén a javaslatot benyújtó az elutasításról szóló értesítés kézhezvételétől számított öt munkanapon belül az indok megjelölésével írásbeli kifogást nyújthat be a miniszterhez. A miniszter az elutasításról szóló döntés ellen benyújtott kifogás vizsgálatára irányuló eljárás során szakmai állásfoglalást kér a felnőttképzési szakmai programkövetelményre vonatkozó javaslattal érintett szakképesítésért felelős minisztertől a javaslat nyilvántartásba vételéről. A miniszter a kifogásról – a szakmai állásfoglalás kiadására jogosult miniszter válaszát követő – húsz munkanapon belül dönt, döntése ellen további kifogásnak helye nincs. A miniszter kifogásnak helyt adó döntése esetén a kamara – a miniszter erről szóló értesítése alapján – a felnőttképzési szakmai programkövetelményt nyilvántartásba veszi.
 
@@ -472,13 +490,15 @@ tartalmazza.
 
 (3) A vallási közösség által fenntartott intézmény e törvény hatálya alá tartozó felnőttképzési tevékenységének ellenőrzése során a hittudományokra és kizárólag a hitélet gyakorlására vonatkozó tárgyak, ismeretek tartalma nem vizsgálható.
 
-(4) A hatóság a felnőttképzési tevékenység folytatására vonatkozó jogszabályi előírások megtartását – szakértői bizottság bevonásával – ellenőrzi, és eljár ezek megsértése esetén. A hatóság az ellenőrzést szükség szerint, de négyévenként legalább egy alkalommal, az engedély megszerzését megelőzően képzési tevékenységet nem folytató intézmények esetén az engedély első két évében évente legalább egy alkalommal köteles lefolytatni. A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló kormányrendelet szerinti adatszolgáltatást (a továbbiakban: OSAP) nem teljesítettek.
+(4) A hatóság ellenőrzési tevékenysége során képzési tevékenységet nem folytató intézménynek tekinti azokat az intézményeket, amelyek az engedély megszerzését megelőző két évben az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló kormányrendelet (a továbbiakban: OSAP) szerinti adatszolgáltatást nem teljesítettek.
 
-(4a) A (4) bekezdés szerinti szakértői bizottság tagjait a hatóság által vezetett felnőttképzési szakértői és a kamara által vezetett felnőttképzési programszakértői nyilvántartásban szereplő szakértők közül rendeli ki a hatóság, azzal, hogy az 1. § (2) bekezdés a) és b) pontja szerinti képzések ellenőrzése során felnőttképzési programszakértő, az 1. § (2) bekezdés c) pontjában meghatározott képzések ellenőrzése során felnőttképzési szakértő rendelhető ki. Ha a kamara által vezetett felnőttképzési programszakértői nyilvántartásban nincs olyan szakértő, aki a felnőttképzési szakterülete szerint az engedélyezési eljárás során kirendelhető, vagy a kirendelhető szakértők tekintetében miniszteri rendeletben meghatározott összeférhetetlenség áll fenn, a hatóság a szakértői bizottság tagjait kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértők közül rendeli ki.
+(4a) Az ellenőrzés során szakértői bizottság közreműködésének igénybevétele esetén annak tagjait a hatóság által vezetett felnőttképzési szakértői és a kamara által vezetett felnőttképzési programszakértői nyilvántartásban szereplő szakértők közül rendeli ki a hatóság, azzal, hogy az 1. § (2) bekezdés a) és b) pontja szerinti képzések ellenőrzése során felnőttképzési programszakértő, az 1. § (2) bekezdés c) pontjában meghatározott képzések ellenőrzése során felnőttképzési szakértő rendelhető ki. Ha a kamara által vezetett felnőttképzési programszakértői nyilvántartásban nincs olyan szakértő, aki a felnőttképzési szakterülete szerint az engedélyezési eljárás során kirendelhető, vagy a kirendelhető szakértők tekintetében miniszteri rendeletben meghatározott összeférhetetlenség áll fenn, a hatóság a szakértői bizottság tagjait kizárólag a felnőttképzési szakértői nyilvántartásban szereplő szakértők közül rendeli ki.
+
+(4b) A (4) bekezdés szerinti ellenőrzést az ügyfél nem kérheti.
 
 (5) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
-- a) a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér egyhavi összegétől annak tízszereséig terjedő összegű bírságot szab ki, azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekben a bírság mértéke nem lehet kevesebb a kötelező legkisebb munkabér havi összegének nyolcszorosánál,
+- a) a tevékenységét nem a jogszabálynak megfelelően végzi, vele szemben a hatóság a kötelező legkisebb munkabér egyhavi összegétől annak tízszereséig terjedő összegű bírságot szab ki, a bírság összegét azonban a (11) bekezdésben foglalt súlyosabban minősülő jogszabálysértési esetekre figyelemmel kell megállapítania,
 - b) engedély nélkül végez képzést, vele szemben a hatóság
   - ba) az 1. § (2) bekezdés a) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki,
   - bb) az 1. § (2) bekezdés b)–d) pontja szerinti képzések esetén a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki, azzal, hogy ha az engedély nélkül folytatott képzés időtartama meghaladja a három hónapot, vagy a képzésben részt vevők száma a száz főt, a bírság mértéke a kötelező legkisebb munkabér havi összegének tízszerese.
@@ -487,13 +507,15 @@ tartalmazza.
 
 (6a) Ha az 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény a 17/B. §-ban meghatározott rendelkezéseket megsérti, a hatóság vele szemben a kötelező legkisebb munkabér havi összege hússzorosának megfelelő összegű bírságot szab ki.
 
+(6b) A (6) bekezdés alkalmazásában ismételt jogszabálysértésnek minősül, ha a felnőttképzést folytató intézmény a jogszabálysértést megállapító végleges döntésben foglaltakkal megegyező tartalmú jogszabálysértést követ el – a (11) bekezdésben foglalt súlyosabban minősülő eseteket kivéve – a végleges döntéstől számított két éven belül.
+
 (7) Az engedély részbeni visszavonása esetén az intézmény az engedély visszavonását tartalmazó határozatban megjelölt képzéseit nem folytathatja, az engedély teljes visszavonása esetén az engedély visszavonását elrendelő határozatban megjelölt időtartamig felnőttképzési tevékenységet nem folytathat.
 
 (8) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany a képzését engedély nélkül jogellenesen, az (5) bekezdésben foglaltak alapján kiszabott bírság ellenére tovább folytatja, a hatóság két évre megtiltja a felnőttképzési tevékenység folytatását, amelynek időtartama alatt az intézmény nem kaphat engedélyt, ezzel egyidejűleg vele szemben a kötelező legkisebb munkabér havi összegének nyolcszorosától tízszereséig terjedő összegű bírságot szab ki. Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany felnőttképzési tevékenységét a megtiltást elrendelő határozat ellenére tovább folytatja, a hatóság öt évre megtiltja a felnőttképzési tevékenység folytatását, amelynek időtartama alatt az intézmény nem kaphat engedélyt, ezzel egyidejűleg vele szemben a kötelező legkisebb munkabér havi összege tízszeresének megfelelő összegű bírságot szab ki.
 
-(9) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany a tevékenységét engedély nélkül folytatja, a hatóság bírságot megállapító vagy tevékenységet megtiltó határozata jogerőre emelkedését követő harminc napon belül az intézmény köteles a jogellenes tevékenység időszaka alatt beszedett képzési díj, valamint a képzés kapcsán felmerült igazolt költség mindenkori jegybanki alapkamat szerinti kamat másfélszeresével növelt összegének a díjat és költséget megfizető részére történő visszafizetésére.
+(9) Ha az 1. § (1) bekezdés c) pontjában meghatározott jogalany a tevékenységét engedély nélkül folytatja, a hatóság bírságot megállapító vagy tevékenységet megtiltó határozata véglegessé válását követő harminc napon belül az intézmény köteles a jogellenes tevékenység időszaka alatt beszedett képzési díj, valamint a képzés kapcsán felmerült igazolt költség mindenkori jegybanki alapkamat szerinti kamat másfélszeresével növelt összegének a díjat és költséget megfizető részére történő visszafizetésére.
 
-(10) A hatóság a (6) és (8) bekezdés szerinti, engedély visszavonását és a felnőttképzési tevékenység megtiltását elrendelő határozatait honlapján közzéteszi.
+(10) A hatóság a (6) és (8) bekezdés szerinti, engedély visszavonását és a felnőttképzési tevékenység megtiltását elrendelő határozatait honlapján közhírré teszi.
 
 (11) A felnőttképzést folytató intézmény jogszabálysértő tevékenysége súlyosabban minősül, ha az intézmény:
 
@@ -505,11 +527,11 @@ tartalmazza.
 - f) a képzést – a hatóság tájékoztatásának elmulasztása mellett – nem valósítja meg, vagy a képzés megvalósítása a 15. § (1) bekezdés c) pont cb) alpontja szerinti ütemezéshez képest húsz százaléknál nagyobb mértékű elmaradást mutat,
 - g) a képzés befejezését követő kilencven napon belül nem gondoskodik a képzés záróvizsgájának megvalósításáról,
 - h) a képzés vagy a képzést lezáró vizsga sikeres befejezését követően és a képzés díjának teljes körű megfizetése ellenére hatvan napot meghaladó késedelemmel adja ki a képzés elvégzését vagy a vizsga sikeres befejezését igazoló dokumentumot,
-- i) nem biztosít a felnőttképzési szerződésben meghatározott elállási jog érvényesítésére a képzés megkezdését megelőzően legalább három munkanapot a képzésben részt vevő számára a képzési program megismerésére, vagy a szerződésben a képzés megkezdését követően biztosított elállási jog ellenében kikötött bánatpénz mértéke meghaladja a képzés teljes összegének havi időarányos részét, de legfeljebb a kötelező legkisebb munkabér húsz százalékát.
+- i) nem biztosít a képzés megkezdését megelőzően legalább három munkanapot a képzésben részt vevő számára a felnőttképzési szerződésben megállapított elállási jog érvényesítésére, vagy a szerződésben biztosított elállási jog ellenében kikötött bánatpénz mértéke meghaladja a teljes képzési díj egyhavi összegét, de legfeljebb a kötelező legkisebb munkabér húsz százalékát.
 
-(12) A hatóság az ellenőrzése során a támogatással összefüggésben tapasztalt jogszabálysértésről, szabálytalanságról – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésről szóló fejezetében foglaltak alapján – értesíti a támogató szervet a szükséges intézkedések megtétele céljából.
+(12) A hatóság az ellenőrzése során a támogatással összefüggésben tapasztalt jogszabálysértésről, szabálytalanságról – az Ákr. hatósági ellenőrzésről szóló fejezetében foglaltak alapján – értesíti a támogató szervet a szükséges intézkedések megtétele céljából.
 
-(13) A hatóság az 1. § (2) bekezdés a) pontjában meghatározott képzések gyakorlati képzési részére vonatkozó ellenőrzési tevékenységét – amennyiben a gyakorlati képzés nem a felnőttképzést folytató intézményben valósul meg – a gyakorlati képzés helye szerint illetékes területi kamara, szakmai kamara működése esetén a szakmai kamara, az agrárpolitikáért felelős miniszter felelősségébe tartozó szakképesítés megszerzésére felkészítő képzés esetén a területi agrárkamara bevonásával látja el.
+(13) A hatóság az 1. § (2) bekezdés a) pontjában meghatározott képzések gyakorlati képzési részére vonatkozó ellenőrzési tevékenységét – amennyiben a gyakorlati képzés nem a felnőttképzést folytató intézményben valósul meg – a gyakorlati képzés helye szerint illetékes területi kamara, szakmai kamara működése esetén a szakmai kamara, az agrárpolitikáért felelős miniszter felelősségébe tartozó szakképesítés megszerzésére felkészítő képzés esetén a területi agrárkamara (a továbbiakban együtt: illetékes kamara) bevonásával látja el azzal, hogy a hatóság a 20. § (4a) bekezdése szerinti szakértői bizottság felnőttképzési programszakértő tagját az illetékes kamara javaslatának figyelembevételével rendeli ki.
 
 (14) A felnőttképzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények további eseteit, valamint az engedéllyel rendelkező intézmények ellenőrzésére vonatkozó részletes szabályokat kormányrendelet határozza meg.
 
@@ -601,6 +623,32 @@ kapcsolatosak,
 
 27. § A támogatást nyújtó szervezetnek a támogatásról szóló döntésének meghozatalakor figyelembe kell vennie a megyei fejlesztési és képzési bizottságnak az 1. § (2) bekezdés a) pontjában meghatározott képzések tekintetében a támogatható szakképesítésekre vonatkozó, a szakképzésről szóló törvény szerinti javaslatát.
 
+### VIII/A. Fejezet — A JOGI SZAKVIZSGÁRÓL
+
+#### 13/A. Adatkezelés, a Jogi Szakvizsga Rendszer
+
+27/A. § Az igazságügyért felelős miniszter a szakvizsgára bocsátás feltételeinek igazolása céljából, a jelölt és a vizsgáztató jogainak gyakorlása és kötelezettségeinek teljesítése érdekében, a jogszabályokban meghatározott nyilvántartás vezetése és a vizsgabizonyítványok kiállítása céljából kezeli
+
+- a) a jelölt
+  - aa) nevét és születési nevét,
+  - ab) születési helyét és idejét,
+  - ac) anyja nevét,
+  - ad) lakcímét, levelezési címét és elektronikus levelezési címét,
+  - ae) az oklevelet adó egyetem megnevezését, az oklevél megszerzésének dátumát, és az oklevél sorszámát,
+  - af) a gyakorlati idő teljesítése szempontjából figyelembe vehető munkáltató és munkakör megjelölését,
+- b) a vizsgáztató
+  - ba) nevét és születési nevét,
+  - bb) születési helyét és idejét,
+  - bc) anyja nevét,
+  - bd) lakcímét, levelezési címét és elektronikus levelezési címét,
+  - be) az oklevelet adó egyetem megnevezését, az oklevél megszerzésének dátumát, és az oklevél sorszámát,
+  - bf) az utolsó munkáltató és az utolsó betöltött munkakör megjelölését,
+  - bg) a számlavezető pénzintézet megnevezését, fizetési számlaszámát,
+  - bh) adószámát,
+  - bi) Társadalombiztosítási Azonosító Jelét.
+
+27/B. § Az igazságügyért felelős miniszter a jogi szakvizsgára történő jelentkezés céljára informatikai felületet üzemeltet, amelyben a 27/A. §-ban meghatározott személyes adatokat a nyilvántartásba vételtől számított 8 évig kezeli.
+
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 14. Felhatalmazó rendelkezések
@@ -611,14 +659,15 @@ kapcsolatosak,
 - b) a pályakövetési rendszer működésére, az adatszolgáltatás rendjére, továbbá a pályakövetési rendszer működtetéséért felelős szerv feladataira vonatkozó részletes szabályokat,
 - c) azokat a képzéseket, amelyeket a legfeljebb harminc tanóra terjedelmű, a digitális írástudás megszerzését szolgáló képzéssel együtt kell megvalósítani, valamint a digitális írástudás megszerzését szolgáló képzés tartalmát,
 - d) a felnőttképzési normatív támogatás részletes szabályait,
-- e) a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzésekért, a hátrányos helyzetűek humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzésekért, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetben történő foglalkoztatásra felkészítő képzésekért, valamint e képzések szervezéséért felelős szervet.
+- e) a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzésekért, a hátrányos helyzetűek humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzésekért, a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetben történő foglalkoztatásra felkészítő képzésekért, valamint e képzések szervezéséért felelős szervet,
+- f) a felnőttképzési szakértői és felnőttképzési programszakértői nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben – az a) pontban foglaltak vonatkozásában az adópolitikáért felelős miniszter egyetértésével – határozza meg
 
 - a) a 3. § (4) bekezdése szerinti igazgatási szolgáltatási díjak mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint az engedéllyel rendelkező intézmények ellenőrzése során kiszabott bírság befizetésének rendjét,
-- b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket, valamint a Felnőttképzési Szakértői Bizottság feladataira és működésére, tagjainak megbízására, felmentésére, kinevezésének visszavonására, díjazására és összeférhetetlenségére vonatkozó részletes szabályokat,
+- b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértői és a felnőttképzési programszakértői nyilvántartás adatait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket és a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket,
 - c) az OKJ-ba tartozó szakképesítések esetén a gyakorlati képzés teljesítésének és ellenőrzésének részletes szabályait,
-- d) a felnőttképzési minőségbiztosítási keretrendszert, a felnőttképzést folytató intézmények külső értékelésére vonatkozó részletes szabályokat, valamint a külső értékelést végző szervezetek kijelölésének szabályait,
+- d) a felnőttképzési minőségbiztosítási keretrendszert és a felnőttképzést folytató intézmények külső értékelésére vonatkozó részletes szabályokat,
 - e) a felnőttképzési szakmai programkövetelmények, valamint a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételéhez szükséges szakmai végzettségek és nyelvi képzettségek azonosítóval ellátott besorolási szempontjait, a nyilvántartásba vétel követelményeit és eljárási rendjét, valamint a szakmai végzettség megszerzését igazoló dokumentum tartalmát és formáját,
 - f)
 - g) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul.
@@ -627,6 +676,13 @@ kapcsolatosak,
 
 - a) a közfoglalkoztatáshoz kapcsolódó, valamint a szociális szövetkezetben történő foglalkoztatásra felkészítő képzésekért felelős szerv által – e felelőssége keretében a 3. § (1a) bekezdésben foglaltaknak megfelelően – szervezett képzéseinek, továbbá a társadalmi felzárkózást szolgáló és a közfoglalkoztatottak alapkompetencia-fejlesztő, a szakképzettséggel nem rendelkezők kompetenciafejlesztő képzéseinek részletes szabályait,
 - b) a hátrányos helyzetűek képzettségének, kompetenciáinak fejlesztése érdekében szervezett képzéseinek, a hátrányos helyzetűek szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzéseinek, valamint a helyi, járási esélyegyenlőségi szakemberek és esélyegyenlőségi mentorok egyéb képzéseinek részletes szabályait.
+
+(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
+
+- a) a jogi szakvizsga vizsgáztatóira, a joggyakorlati időre, a jogi szakvizsgára történő jelentkezésre, a részvizsgákra, a jogi szakvizsga letételére rendelkezésre álló időre, a vizsgakövetelmények kiadására és a vizsgáztatás rendjére, a vizsgadíj mértékére, a vizsga halasztására és az informatikai rendszer üzemeltetésére, és
+- b) az Igazságügyi Akkreditációs Testület feladatkörére, összetételére, létszámára és a testület tagjainak kinevezésére
+
+vonatkozó részletes szabályokat rendeletben szabályozza.
 
 28/A. § Felhatalmazást kap a Kormány, hogy az igazságügyi szolgálatok jogakadémiája működtetéséért felelős szervet rendeletben jelölje ki.
 
@@ -656,7 +712,7 @@ kapcsolatosak,
 
 33/A. § E törvénynek a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésről szóló 2013. évi LXXVII. törvény és az azokkal összefüggő tárgyú törvények módosításáról szóló 2015. évi LXVI. törvénnyel (a továbbiakban: Mód. tv.) megállapított rendelkezéseit – e törvénynek a Mód. tv.-vel megállapított 2. § 2. pontja és 17/B. §-a kivételével – a Mód. tv. hatálybalépésének napján folyamatban lévő képzésekben nem kell alkalmazni.
 
-33/B. § Az FSZB-nek a felnőttképzést folytató intézmények tevékenységének az e törvény 14. § (2) bekezdése szerinti külső értékelését első alkalommal 2018-ban kell elvégeznie azon intézményeknél, amelyek a külső értékelést – 2016. június 18-át megelőzően – a 2016. évben már elvégeztették.
+33/B. § A felnőttképzést folytató intézmények a 2018. március 31. napjáig esedékes és a Felnőttképzési Szakértői Bizottság által nem elvégeztetett, a 14. § (2) bekezdése szerinti külső értékelést 2018. december 31-ig kötelesek elvégeztetni.
 
 #### 17. Az Európai Unió jogának való megfelelés
 

@@ -13,7 +13,7 @@ alkalmazandó.
 
 (2) Nemzetközi szerződés eltérő rendelkezése esetén a nemzetközi szerződés irányadó.
 
-(3) E törvény csak olyan cselekmény esetében alkalmazható, amely a magyar jog szerint szabálysértés, és a külföldi állam joga szerint is büntetendő.
+(3) E törvény – eltérő rendelkezés hiányában – csak olyan cselekmény esetében alkalmazható, amely a magyar jogszabályok szerint szabálysértés, és a külföldi állam joga szerint is büntetendő.
 
 2. § (1) A szabálysértési jogsegély formái:
 
@@ -57,7 +57,7 @@ alkalmazandó.
 - b) a megkeresés tárgyát,
 - c) a kézbesítés iránti megkeresés kivételével az eljárás tárgyát képező cselekmény leírását, jogi minősítését, a rendelkezésre álló bizonyítékokat,
 - d) a tanúnak, a szakértőnek és az eljárás alá vont személynek a szabálysértési jogsegély teljesítéséhez szükséges személyes adatait,
-- e) a megkereső hatóság képviselőjének nevét, beosztását, aláírását és bélyegzőlenyomatát.
+- e) a megkereső hatóság képviselőjének nevét, beosztását, aláírását.
 
 (3) A szabálysértési hatóság, illetve bíróság a szabálysértési jogsegély iránti megkeresést és mellékleteit a megkeresett külföldi hatóság államának hivatalos nyelvén, vagy nyelveinek egyikén, illetve olyan más nyelven terjeszti elő, amelyen a megkeresést a megkeresett állam elfogadja.
 
@@ -81,7 +81,9 @@ alkalmazandó.
 
 (3) Ha a megtett intézkedésekben a központi hatóság hiányosságot vagy hibát észlel, annak pótlására, kijavítására vagy kiegészítésére a továbbítást megelőzően felhívja a megkeresést előterjesztő szabálysértési hatóságot, illetve bíróságot.
 
-8. § Ha egy külföldi hatóság olyan cselekmény miatt terjeszt elő szabálysértési jogsegély iránt megkeresést, amely államának joga szerint szabálysértés, de a magyar jog szerint bűncselekmény, a központi hatóság erről értesíti a megkereső külföldi hatóságot. Ha a külföldi hatóság az értesítésre adott nyilatkozatában a jogsegély teljesítése iránti kérelmét fenntartja, a központi hatóság a megkeresést teljesítés végett átteszi a nemzetközi bűnügyi jogsegélyről szóló törvény, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerint illetékes hatósághoz.
+8. § (1) Ha egy külföldi hatóság olyan cselekmény miatt terjeszt elő szabálysértési jogsegély iránt megkeresést, amely államának joga szerint szabálysértés, de a magyar jog szerint bűncselekmény, a központi hatóság a megkeresést teljesítés végett továbbítja a nemzetközi bűnügyi jogsegélyről szóló törvény, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerint illetékes hatósághoz, és erről a megkereső külföldi hatóságot értesíti.
+
+(2) Ha külföldi hatóság a megkeresését az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 12. számú mellékletében meghatározott olyan cselekmény tekintetében terjesztette elő, amely az államának joga szerint szabálysértés, a központi hatóság az (1) bekezdés megfelelő alkalmazásával jár el, ha cselekmény a magyar jog szerint sem szabálysértés, sem közigazgatási bírsággal sújtandó közlekedési szabályszegés megállapítására nem alkalmas.
 
 8/A. § Az ENYH-t az 1. számú melléklet szerinti formanyomtatványnak a végrehajtó tagállam hivatalos nyelveinek egyikén vagy a tagállam által megjelölt nyelven rendelkezésre álló fordításának felhasználásával, a tagállam hatáskörrel és illetékességgel rendelkező hatóságának, vagy ha az adott tagállam központi hatóságot jelölt ki, a központi hatóságnak kell megküldeni.
 
@@ -363,6 +365,18 @@ egyeztetést kezdeményezhet.
 
 27. § (1) A külföldi határozat végrehajtását a külföldi hatóság vagy bíróság megkeresésére a központi hatóság átveszi, ha az elkövető Magyarországon lakóhellyel, tartózkodási hellyel vagy vagyonnal, illetve jövedelemmel rendelkezik.
 
+(1a) A pénzbírságot kiszabó külföldi határozat akkor is végrehajtható, és a végrehajtását a központi hatóság átveszi, ha a határozat alapjául szolgáló cselekmény a magyar jogszabályok szerint a közigazgatási bírsággal sújtandó közlekedési szabályszegésnek minősül.
+
+(1b) Az Európai Unió tagállamaitól érkező külföldi határozatot pénzbírságot kiszabó külföldi határozatnak kell tekinteni, és a végrehajtását a központi hatóság átveszi, ha a végrehajtás átvételét
+
+- a) jogi személlyel szemben kiszabott pénzbírság,
+- b) szabálysértés elkövetését megállapító vagy azon alapuló tagállami határozatban megállapított eljárási költség, vagy
+- c) sértett vagy köz javára fizetendő jóvátétel
+
+vonatkozásában kezdeményezik.
+
+(1c) Az (1a) és (1b) bekezdés esetén a pénzbírságot kiszabó külföldi határozatot a szabálysértési pénzbírságra vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani azzal, hogy a bírság kizárólag adók módjára hajtható be, közérdekű munkával történő teljesítésének, valamint elzárásra történő átváltoztatásnak nincs helye. A sértett javára fizetendő jóvátétel esetén a bírság adók módjára történő behajtásának sincs helye.
+
 (2) A külföldi határozat végrehajtásának átvétele esetén a pénzbírság megfizetésének elengedése érdekében méltányossági kérelem nem nyújtható be.
 
 (3) Az Európai Unió tagállamaitól érkező külföldi határozat végrehajtásra akkor vehető át, ha a megkeresést a szabálysértési szabályozásért felelős miniszter rendeletében meghatározott formanyomtatvány tanúsítvánnyal együtt küldik meg.
@@ -375,7 +389,7 @@ egyeztetést kezdeményezhet.
 
 29. § (1) A külföldi határozat végrehajtásának átvételét meg kell tagadni, ha
 
-- a) a magyar törvény szerint a büntetés elévült,
+- a) határozat végrehajthatósága a Szabs. tv. szerint elévült, és a határozat olyan cselekményre vonatkozik, amely a magyar joghatóság alá tartozik,
 - b) a külföldi határozat alapjául szolgáló cselekményt a magyar szabálysértési hatóság vagy a bíróság már jogerősen elbírálta,
 - c) a külföldi határozat alapjául szolgáló cselekményt külföldi hatóság már jogerősen elbírálta, és az erről szóló határozat végrehajtását Magyarország már átvette,
 - d) a tagállami hatóság által megküldött tanúsítvány nyilvánvalóan nem az ahhoz mellékelt határozatra vonatkozik,
@@ -383,9 +397,9 @@ egyeztetést kezdeményezhet.
 
 (1a) A 27. § (4) bekezdés alapján átvett határozat végrehajtása megtagadható, ha a formanyomtatvány tanúsítvány hiányos. A központi hatóság ez esetben a külföldi határozat megküldését vagy egyéb kiegészítő információk megadását is kérheti.
 
-(2) Nincs helye a külföldi határozat végrehajtásának, ha annak jogerőre emelkedése óta egy év eltelt.
+(2) A külföldi határozat végrehajthatóságára a Szabs. tv. elévülésre vonatkozó szabályait azzal kell alkalmazni, hogy az elévülés határideje a végrehajtás átvétele iránti megkeresés központi hatósághoz érkezésének napján kezdődik.
 
-(3) Az elévülési időn belül megkezdett végrehajtás folytatásának nem akadálya, ha az elévülési idő már eltelt.
+(3)
 
 30. § (1) A külföldi határozatban megjelölt összeg beszedését az elkövető lakóhelye, ennek hiányában a tartózkodási helye szerint illetékes általános szabálysértési hatóság hajtja végre.
 
@@ -398,6 +412,8 @@ egyeztetést kezdeményezhet.
 (5) Amennyiben az elkövető jelentkezik az állami foglalkoztatási szervnél, akkor az állami foglalkoztatási szerv soron kívül értesíti a végrehajtásért felelős általános szabálysértési hatóságot.
 
 31. § (1) Nemzetközi szerződés eltérő rendelkezésének hiányában az azonos típusú jogsértés esetén a külföldön kiszabott pénzbírság összege a Magyarországon kiszabható pénzbírság legmagasabb összegét meghaladja, a végrehajtás a magyar jogszabályok szerint kiszabható legmagasabb összegre terjed ki.
+
+(1a) Az (1) bekezdés az Európai Unió tagállamaiból érkező jogsegély esetén akkor alkalmazható, ha a cselekményt nem a kibocsátó állam területén követték el és az elbírálásra a magyar joghatóság kiterjed. Ebben az esetben a végrehajtás a külföldi határozatban kiszabott pénzbírság teljes összegére terjed ki, abban az esetben is, ha a pénzbírság összege meghaladja a magyar jogszabályok szerint kiszabható legmagasabb összeget.
 
 (2) Ha az elkövető igazolja, hogy a külföldi határozatban megjelölt összeget részben vagy egészben megfizette, a általános szabálysértési hatóság értesítése alapján a központi hatóság az eljárást felfüggeszti, és egyidejűleg megkeresi a határozatot kibocsátó külföldi hatóságot, hogy a megfizetés tényéről harminc napon belül nyilatkozzon. Ha a megadott határidőn belül a külföldi hatóság a megkeresésre nem válaszol, az eljárást meg kell szüntetni.
 

@@ -34,7 +34,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 5. § A gondnokoltnak a gondnokoltak nyilvántartásában szereplő adatait az Országos Bírósági Hivatal elnöke (a továbbiakban: Hivatal elnöke) – a gondnokság alá helyezés esetleges korábbi megszűnésétől függetlenül – a gondnokság alá helyezett személy halálát követő tizenöt évig kezeli, majd haladéktalanul gondoskodik azok törléséről.
 
-6. § (1) A bíróság polgári peres és nemperes eljárás vagy büntetőeljárás lefolytatása céljából a gondnokoltak nyilvántartásában kezelt adatok teljes körét közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult megismerni és kezelni.
+6. § (1) A bíróság polgári peres és nemperes eljárás, közigazgatási peres, nemperes és egyéb közigazgatási bírósági eljárás vagy büntetőeljárás lefolytatása céljából a gondnokoltak nyilvántartásában kezelt adatok teljes körét közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult megismerni és kezelni.
 
 (2) A gondnokoltak nyilvántartásában az érintettre vonatkozóan szereplő alábbi adatokat a cselekvőképesség fennállásának vizsgálata céljából konkrét ügyben közvetlen hozzáféréssel jogosult megismerni és kezelni:
 
@@ -111,15 +111,15 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 (2) A kérelmet az előzetes jognyilatkozatot közokiratba foglaló közjegyző, az előzetes jognyilatkozatot ellenjegyző ügyvéd vagy az előzetes jognyilatkozatot jegyzőkönyvbe vevő gyámhatóság az előzetes jognyilatkozatot tartalmazó okirat csatolásával az okirat elkészítésétől számított öt napon belül küldi meg az illetékes bíróságnak.
 
-13. § (1) Az előzetes jognyilatkozatnak az előzetes jognyilatkozatok nyilvántartásába való bejegyzéséről a bíróság az előzetes jognyilatkozatot tartalmazó okirat és a kérelem bírósághoz érkezésétől számított tizenöt napon belül polgári nemperes eljárásban dönt. E határidőbe nem számít bele a hiánypótlást elrendelő végzés meghozatalától a hiányok pótlásáig terjedő idő vagy ennek hiányában a hiánypótlásra biztosított határidő eredménytelen eltelte. Azokra az eljárási kérdésekre, amelyeket ez a törvény nem szabályoz, a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezéseit kell alkalmazni. Az eljárás során szünetelésnek és felfüggesztésnek nincs helye.
+13. § (1) Az előzetes jognyilatkozatnak az előzetes jognyilatkozatok nyilvántartásába való bejegyzéséről a bíróság az előzetes jognyilatkozatot tartalmazó okirat és a kérelem bírósághoz érkezésétől számított tizenöt napon belül polgári nemperes eljárásban dönt. E határidőbe nem számít bele a hiánypótlást elrendelő végzés meghozatalától a hiányok pótlásáig terjedő idő vagy ennek hiányában a hiánypótlásra biztosított határidő eredménytelen eltelte. Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni. Az eljárás során szünetelésnek és felfüggesztésnek nincs helye.
 
 (2) A bíróság megvizsgálja, hogy az előzetes jognyilatkozatot okiratba foglaló szerv (személy) az okiratot az eljárására irányadó törvény szerinti alakszerűségeknek megfelelően állította-e ki. Ha az okirat a bejegyzésre alkalmas és a kérelmet nem kell hiánypótlásra visszaadni, a bíróság az adatokat az előzetes jognyilatkozatok nyilvántartásába bejegyzi.
 
-(3) Ha az előzetes jognyilatkozat vagy a kérelem (a továbbiakban együtt: beadvány) nem felel meg e törvény rendelkezéseinek vagy más okból kiegészítésre vagy kijavításra szorul, a bíróság a beadványt rövid határidő kitűzésével és a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaadja, és egyben figyelmezteti, hogy ha a hiánypótlási felhívást nem teljesíti, a bíróság a kérelmet el fogja utasítani.
+(3) Ha az előzetes jognyilatkozat vagy a kérelem (a továbbiakban együtt: beadvány) nem felel meg e törvény rendelkezéseinek vagy más okból kiegészítésre vagy kijavításra szorul, a bíróság a beadványt rövid határidő kitűzésével és a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaadja, és egyben figyelmezteti, hogy ha a hiánypótlási felhívást nem teljesíti, a bíróság a kérelmet vissza fogja utasítani.
 
-(4) A bejegyzés és a kérelem elutasítása tárgyában a bíróság végzéssel dönt, amelyet az előzetes jognyilatkozatot tett személy részére kézbesít.
+(4) A bejegyzés és a kérelem visszautasítása vagy elutasítása tárgyában a bíróság végzéssel dönt, amelyet az előzetes jognyilatkozatot tett személy részére kézbesít.
 
-(5) A kérelmet elutasító végzés ellen fellebbezésnek van helye.
+(5) A bejegyző végzés ellen fellebbezésnek nincs helye.
 
 14. § A Pp. költségkedvezményekre vonatkozó rendelkezései az előzetes jognyilatkozat előzetes jognyilatkozatok nyilvántartásába való bejegyzésére nem alkalmazhatók.
 
@@ -131,7 +131,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 17. § (1) Az előzetes jognyilatkozatok nyilvántartásának adatairól írásbeli kérelemre felvilágosítást kaphat a nyilatkozattevő.
 
-(2) A bíróság az érintettre vonatkozóan polgári peres és nemperes eljárás vagy büntetőeljárás lefolytatása céljából az előzetes jognyilatkozatok nyilvántartásában kezelt adatok teljes körét közvetlen hozzáféréssel jogosult megismerni és kezelni.
+(2) A bíróság az érintettre vonatkozóan polgári peres és nemperes eljárás, közigazgatási peres, nemperes és egyéb közigazgatási bírósági eljárás vagy büntetőeljárás lefolytatása céljából az előzetes jognyilatkozatok nyilvántartásában kezelt adatok teljes körét közvetlen hozzáféréssel jogosult megismerni és kezelni.
 
 (3) Ha törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította, akkor az ügyészség, nyomozó hatóság, nemzetbiztonsági szolgálat az előzetes jognyilatkozatok nyilvántartásából a konkrét ügy megjelölése mellett egyedi adatkérés útján jogosult az adatot megismerni és kezelni. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 

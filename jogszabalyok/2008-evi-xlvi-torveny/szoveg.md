@@ -119,7 +119,7 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 
 (3) Aki az (1) bekezdés szerinti gombaszakellenőri tevékenységet kíván folytatni, köteles az erre irányuló szándékát az élelmiszerlánc-felügyeleti szervnek bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
-(4) A gomba-szakellenőr jogosult lefoglalni
+(4) A gomba-szakellenőr jogosult zár alá venni
 
 - a) a mérgező, valamint emberi fogyasztásra alkalmatlan gombát,
 - b) a mérgező, valamint emberi fogyasztásra alkalmatlan gombától egyértelműen nem elkülöníthető gombatételt,
@@ -423,7 +423,7 @@ terheli.
 
 (2) Az élelmiszerlánc-felügyeleti szerv egyes állami feladatainak megbízási jogviszony keretében történő elvégzésére kormányrendelet feljogosíthatja a szolgáltató állatorvost.
 
-(3) Ha az állami feladatok elvégzésére feljogosított szolgáltató állatorvos, növényorvos, valamint a segédszemélyzet az élelmiszerlánc-felügyeleti szerv nevében állami feladatokat lát el, akkor a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályainak alkalmazásával jár el, továbbá ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
+(3) Ha az állami feladatok elvégzésére feljogosított szolgáltató állatorvos, növényorvos, valamint a segédszemélyzet az élelmiszerlánc-felügyeleti szerv nevében állami feladatokat lát el, akkor az általános közigazgatási rendtartásról szóló törvény szabályainak alkalmazásával jár el, továbbá ezen tevékenységéért az e törvény végrehajtására kiadott jogszabályban foglaltak szerint díjazás illeti meg.
 
 (4) Az állami feladatok elvégzésére feljogosított szolgáltató állatorvos, növényorvos, valamint a segédszemélyzet a feladatkörébe tartozó eljárásokért köteles az e törvény végrehajtására kiadott jogszabályban előírt igazgatási szolgáltatási díjat beszedni, és a jogszabályban meghatározott befizetési határidőben az élelmiszerlánc-felügyeleti szerv számlájára befizetni.
 
@@ -888,48 +888,38 @@ terheli.
 
 ### Különös eljárási szabályok
 
-39. § (1) Az élelmiszerlánc-felügyeleti szerv eljárására a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit a 39., 40. és 42. §-ban, a 44. §-ban, a 49–50. §-ban meghatározott eltérésekkel kell alkalmazni.
+39. § (1) A függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról a következő élelmiszerlánc-felügyeleti eljárásokban:
 
-(2) Az ügyintézési határidő a laboratóriumi vizsgálat elvégzéséhez elengedhetetlenül szükséges időtartammal, de legfeljebb két hónappal meghosszabbítható.
+- a) a növényvédő szerek, valamint a növényvédő szernek nem minősülő növényvédelmi hatású termékek, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók, növényvédelmi célú eszközök és anyagok, makroszervezetek és mikroorganizmusok, termésnövelő anyagok forgalombahozatali, felhasználási engedélyezése és az engedély módosítása,
+- b) engedélyköteles növény- és talajkezelő termékek eseti, szükséghelyzeti és kísérleti engedélyezése,
+- c) növényvédő szer hatóanyagok egyenértékűségével és megfelelőségével kapcsolatos eljárás,
+- d) az 1272/2008/EK európai parlamenti és tanácsi rendelet előírásaira figyelemmel módosított címketerv módosításának engedélyezése,
+- e) az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, az állatgyógyászati készítmények hatóanyaga gyártásának, az állatgyógyászati termék és az állatgyógyászati készítmény engedélyezése, az engedély módosítása, megújítása,
+- f) a rendszeres gyógyszerbiztonsági jelentések értékelési eljárása,
+- g) a Helyes Kísérleti Gyakorlat (GEP) alkalmazásának engedélyezése,
+- h) tanúsító szervezet elismerése,
+- i) nem állami laboratóriumok engedélyezése,
+- j) idegen állományból származó állatok fogadására kiválasztott elkülönítő (karantén) engedélyezése,
+- k) kísérleti vagy tudományos célú tevékenység, illetve fajtaszelekciós munka céljából jogszabályban meghatározott tilalmazott károsító, vizsgálatköteles áru, továbbá egyéb, Magyarországon nem honos életképes növényi károsító bármely fejlődési alakjának, tenyészetének Magyarországra való behozatalának, belföldi szállításának, fuvarozásának, illetve felhasználásának engedélyezése.
 
-(3) Ha a hatósági ellenőrzés keretében történő monitoringvizsgálat során a vizsgálati eredmény alapján nem állapítható meg jogsértés, a hatóság a vizsgálati jegyzőkönyvet nem küldi meg az ügyfél részére.
-
-(4) Az élelmiszerlánc felügyelete során
-
-- a) a 33. § a) és az 57. § d) pontjában leírt;
-- b) a 42. § (4) bekezdésében leírt;
-- c) az országos monitoringvizsgálatot elrendelő;
-- d) az engedélyköteles termék és az állatgyógyászati készítmény forgalomba hozatalával és nagykereskedelmi forgalomba hozatalával kapcsolatos engedélyezési, engedély- módosítási, illetve visszavonási;
-- e) az állatok jelölésére szolgáló elektronikus jelölőeszközök (mikrochipek) forgalomba hozatalával kapcsolatos engedélyezési;
-- f) az engedélyköteles termék és az állatgyógyászati készítmény behozatalával kapcsolatos engedélyezési;
-- g) az engedélyköteles termék, és az állatgyógyászati készítmény eseti felhasználásával kapcsolatos engedélyezési;
-- h) a még nem engedélyezett engedélyköteles termékkel folytatott szabadföldi kísérletek nyilvános bemutatásával, illetve a vizsgálati eredmények ismertetésével kapcsolatos engedélyezési;
-- i) az új takarmánnyal kapcsolatos engedélyezési;
-- j) az állat-, illetve növény-egészségügyi ellenőrzésre kötelezett áruk behozatalával kapcsolatos engedélyezési;
-- k) az országhatáron élelmiszerlánc-felügyeleti okból feltartóztatott áruk beszállításának engedélyezésével kapcsolatos;
-- l) a Magyarországon nem engedélyezett, egyébként engedélyköteles termékkel kezelt növény, növényi termék behozatalával kapcsolatos engedélyezési;
-- m) az országban nem honos zárlati károsító megjelenése miatt több megyére, illetve országosan kiterjedő állami védekezést elrendelő;
-- n) a tanúsító szervezet vonatkozásában a 27. § (5) bekezdése szerinti;
-- o) országos illetékességgel az a)–n) pontokban meghatározottaktól eltérő
-
-eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(2) Az élelmiszerlánc-felügyelet hatósági eljárásával kapcsolatos perben egyezség nem köthető.
 
 39/A. § A mezőgazdasági termékek és élelmiszerek 1151/2012/EU európai parlamenti és tanácsi rendelet szerinti hagyományos különleges termékként való bejegyzésére irányuló eljárásban
 
 - a) a kérelem elbírálása során a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény 116/A. §-ában meghatározott eljárási határidőket kell alkalmazni és
 - b) a függő hatályú döntésben nem kell rendelkeznie a kérelmezett jog gyakorlásáról.
 
-40. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek, valamint a növényvédő szernek nem minősülő növényvédelmi hatású termékek, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók, növényvédelmi célú eszközök és anyagok, makroszervezetek és mikroorganizmusok forgalombahozatali, felhasználási engedélyezési és engedélymódosítási eljárása során az engedély megadásáról tizenkét hónapon belül dönt.
+40. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szerek forgalombahozatali, felhasználási engedélyezési és engedélymódosítási eljárása során az engedély megadásáról tizenkét hónapon belül, a növényvédő szernek nem minősülő növényvédelmi hatású termékek, védőanyagok, kölcsönhatás-fokozók, segédanyagok, hatásjavítók, növényvédelmi célú eszközök és anyagok, makroszervezetek és mikroorganizmusok forgalombahozatali, felhasználási engedélyezési és engedélymódosítási eljárása során az engedély megadásáról tizennégy hónapon belül dönt.
 
-(2) Az élelmiszerlánc-felügyeleti szerv az engedélyköteles termékek eseti, szükséghelyzeti és kísérleti engedélyeinek megadásáról negyvenöt napon belül dönt.
+(2) Az élelmiszerlánc-felügyeleti szerv a növényvédő szer hatóanyagok egyenértékűségével és megfelelőségével kapcsolatos döntését hat hónapon belül hozza meg.
 
-(3) Az élelmiszerlánc-felügyeleti szerv a termésnövelő anyagok engedélyezési és engedélymódosítási eljárásában az engedély megadásáról négy hónapon belül dönt.
+(3) Az élelmiszerlánc-felügyeleti szerv a termésnövelő anyagok engedélyezési és engedélymódosítási eljárásában az engedély megadásáról öt hónapon belül dönt.
 
-(4) A növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárásában a hiánypótlási felhívás kibocsátásának határideje negyvenöt nap, a termésnövelő anyagok engedélyezési eljárásában pedig huszonöt nap.
+(4)
 
-(5) Az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről és az engedély módosításáról, a rendszeres gyógyszerbiztonsági jelentések értékeléséről szóló döntést hatvan napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről és megújításáról szóló döntést százhatvan napon belül kell meghozni.
+(5) Az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről és az engedély módosításáról, a rendszeres gyógyszerbiztonsági jelentések értékeléséről szóló döntést hetvenöt napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről és megújításáról szóló döntést kétszáztíz napon belül kell meghozni.
 
-(6) A növényvédő szer besorolásában vagy címkézésében az 1272/2008/EK európai parlamenti és tanácsi rendelet előírásai által bekövetkezett változásokat tartalmazó módosított címketerv engedélyes által történő benyújtását követően az élelmiszerlánc-felügyeleti szerv 60 napon belül dönt a módosítás elfogadhatóságáról. Amennyiben az élelmiszerlánc-felügyeleti szerv 60 napon belül nem utasítja el a javasolt módosítást, akkor az engedélyes jogosult a módosított címkeszöveg használatára.
+(6)
 
 41. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárása során ha az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi célok érdekében szükséges, elrendelheti, hogy az engedélyezési eljárás ideje alatt a növényvédő szerek alkalmazásáról meghatározott ismereteket kell nyerni, gyűjteni és értékelni. Az eredményeket az engedélyező hatóságnak meghatározott időn belül meg kell küldeni, felhívásra a megfelelő dokumentumokat és mintákat be kell mutatni.
 
@@ -954,7 +944,7 @@ elrendelő határozata fellebbezésre való tekintet nélkül végrehajtható.
 
 (2) A védekezésre kötelező, valamint a közérdekű védekezést elrendelő határozat hirdetmény útján közölhető akkor is, ha a termelő, illetve a földhasználó ismeretlen.
 
-(3) Az állami védekezést, járványügyi intézkedést elrendelő határozat hirdetmény útján is közölhető nagyszámú ügyfél érintettsége esetén, továbbá, ha az intézkedés célját a kézbesítésből adódó késedelem veszélyeztetné.
+(3) Az állami védekezést, járványügyi intézkedést elrendelő határozat közhírré tétel útján is közölhető nagyszámú ügyfél érintettsége esetén, továbbá, ha az intézkedés célját a kézbesítésből adódó késedelem veszélyeztetné.
 
 (4) Az országos főállatorvos rendkívüli élelmiszerlánc-eseményre vonatkozó
 
@@ -1004,7 +994,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (3) A díj megfizetésének elmulasztása esetén az élelmiszerlánc-felügyeleti szerv a kérelem benyújtásától számított tizenöt napon belül hiánypótlási felhívást bocsát ki. A kérelmező a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül köteles a díjat megfizetni, illetve igazolni annak megfizetését.
 
-(4) Ha az igazgatási szolgáltatási díj meg nem fizetése ellenére az élelmiszerlánc-felügyeleti szerv eljár, a meg nem fizetett díj adók módjára behajtandó köztartozásnak minősül.
+(4)
 
 (5) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
 
@@ -1014,7 +1004,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (3) A helyszíni ellenőrzés és szemle költségét az eljáró élelmiszerlánc-felügyeleti szerv önköltségszámításra vonatkozó szabályzatában foglaltak szerint kell megállapítani.
 
-(4) A meg nem fizetett eljárási költségek és késedelmi pótlékok adók módjára behajtandó köztartozásnak minősülnek.
+(4)
 
 47. § (1) Az EK-műtrágya hivatalból végzett vizsgálatának költségeit az az EK-műtrágya gyártó, az a Magyarországon való forgalomba hozatalért felelős személy, importőr, csomagoló, illetve az a műtrágya jellemzőit megváltoztató forgalomba hozó köteles viselni, akinél az ellenőrzést lefolytatták.
 
@@ -1084,7 +1074,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (8) A fizetésre kötelezettnek évente egyszer kell bevallania a díjfizetés alapjául szolgáló nettó árbevételét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
 
-(9) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig, illetve január 31. napjáig. A határidőn belül meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései irányadók. A meg nem fizetett felügyeleti díj és késedelmi pótlék adók módjára behajtandó köztartozásnak minősül. A felügyeleti díj fizetésére kötelezett által a (8) bekezdés alapján benyújtott bevallás végrehajtható okiratnak minősül.
+(9) A fizetésre kötelezett az éves felügyeleti díjat két részletben, egyenlő összegben köteles megfizetni július 31. napjáig, illetve január 31. napjáig. A határidőn belül meg nem fizetett felügyeleti díj után késedelmi pótlékot kell fizetni, amelynek megállapításánál az adózás rendjéről szóló törvény rendelkezései irányadók. A meg nem fizetett felügyeleti díj és késedelmi pótlék adók módjára behajtandó köztartozásnak minősül. A felügyeleti díj fizetésére kötelezett által a (8) bekezdés alapján benyújtott bevallás végrehajtható okiratnak minősül.
 
 (10) Az élelmiszerlánc-felügyeleti szervet megillető felügyeleti díjat az élelmiszerlánc-biztonsági stratégiában, a többéves tervben és az éves ellenőrzési tervben meghatározott feladatok végrehajtására kell fordítani. Az évente befolyt felügyeleti díj 10%-át fejlesztésre kell fordítani. A felügyeleti díjból befolyt bevétel az élelmiszerlánc-felügyeleti szerv működésére is fordítható.
 
@@ -1094,7 +1084,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (13) A felügyeleti díj bevallására kötelezettnek olyan nyilvántartást kell vezetnie, amelyből a felügyeleti díj alapjának, mértékének számítása egyértelműen megállapítható. Nem vonatkozik az előírás azon fizetésre kötelezettekre, akik az (5) bekezdés szerinti fizetési módot választják.
 
-(14) A felügyeleti díj bevallása, nyilvántartása, befizetése, kezelése, ellenőrzése és önellenőrzése kapcsán e törvényben, illetve az annak végrehajtására kiadott jogszabályban nem szabályozott kérdésekben az Art. képviseletre, önellenőrzési jogra, bevallásra, bevallás kijavítására, a megfizetésre, a bizonylatokra, könyvvezetésre, nyilvántartásra, bizonylatok megőrzésére, önellenőrzésre, az önellenőrzés bevallása és megfizetése, a becslésre, az utólagos megállapításra, fizetési halasztásra, részletfizetés engedélyezésére, elévülésre, késedelmi pótlékra, önellenőrzési pótlékra, valamint az eljárás költségeire vonatkozó rendelkezései az irányadóak.
+(14) A felügyeleti díj bevallása, nyilvántartása, befizetése, kezelése, ellenőrzése és önellenőrzése kapcsán e törvényben, illetve az annak végrehajtására kiadott jogszabályban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény, valamint az adózás rendjéről szóló törvény képviseletre, önellenőrzési jogra, bevallásra, bevallás kijavítására, a megfizetésre, a bizonylatokra, könyvvezetésre, nyilvántartásra, bizonylatok megőrzésére, önellenőrzésre, az önellenőrzés bevallása és megfizetése, a becslésre, az utólagos megállapításra, fizetési halasztásra, részletfizetés engedélyezésére, elévülésre, késedelmi pótlékra, önellenőrzési pótlékra, valamint az eljárás költségeire vonatkozó rendelkezései az irányadóak.
 
 ### Jelentések
 
@@ -1145,7 +1135,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 50. § (1) Közérdekű védekezést kell elrendelni, ha a termelő, illetve a földhasználó védekezési kötelezettségének az azt elrendelő hatósági határozat ellenére sem tesz határidőre eleget. A közérdekű védekezést az élelmiszerlánc-felügyeleti szerv rendeli el.
 
-(2) A költségvetési törvényben meghatározott előirányzatból kell biztosítani a közérdekű védekezés költségeinek megelőlegezését. A közérdekű védekezés elrendelését követően a költségek tizenöt napon belüli megtérítésére kell kötelezni az (1) bekezdés szerinti mulasztás elkövetőjét. A kötelezett nem fizetése esetén a közérdekű védekezés költségei adók módjára kerülnek behajtásra az élelmiszerlánc-felügyeleti szerv javára. A költségek behajtásáról az állami adóhatóság gondoskodik.
+(2) A költségvetési törvényben meghatározott előirányzatból kell biztosítani a közérdekű védekezés költségeinek megelőlegezését. A közérdekű védekezés elrendelését követően a költségek tizenöt napon belüli megtérítésére kell kötelezni az (1) bekezdés szerinti mulasztás elkövetőjét. A kötelezett nem fizetése esetén a közérdekű védekezés költségei az élelmiszerlánc-felügyeleti szerv javára kerülnek behajtásra.
 
 (3) Amennyiben a költségek megtérítésére kötelezett a közérdekű védekezéssel érintett ingatlan tulajdonosa és az ingatlan közös tulajdonban áll, a költségek megtérítéséért valamennyi tulajdonos egyetemlegesen felel.
 
@@ -1283,7 +1273,7 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 - d) a nem állami laboratóriumok működési engedélyét feltételhez kötheti, módosíthatja, visszavonhatja;
 - e) az újbóli engedélyezést oktatáson való részvételhez, annak igazolásához, illetve vizsgázáshoz kötheti;
 - f) termék előállítását, tárolását, szállítását, felhasználását, forgalomba hozatalát, behozatalát, kivitelét, illetékességi területén való átszállítását feltételhez kötheti, korlátozhatja, felfüggesztheti, megtilthatja;
-- g) elrendelheti a termék lefoglalását, forgalomból való kivonását, visszahívását, megsemmisítését, ártalmatlanítását;
+- g) elrendelheti a termék zár alá vételét, lefoglalását, forgalomból való kivonását, visszahívását, megsemmisítését, ártalmatlanítását;
 - h) állat vizsgálatát, forgalmi korlátozását, elkülönítését, kötelező gyógykezelését, védőoltását vagy leölését elrendelheti;
 - i) elismert hagyományos különleges termék előállítását, forgalomba hozatalát megtilthatja vagy feltételhez kötheti;
 - j) élelmiszerrel, illetve takarmánnyal érintkezésbe kerülő anyagok, gépek, eszközök, az élelmiszerláncban felhasznált fertőtlenítőszerek használatát megtilthatja, az engedélyező hatóság egyidejű értesítése mellett ingatlant adott állapotában élelmiszer-, takarmányvállalkozási tevékenység végzésére alkalmatlannak nyilváníthat, ingatlan élelmiszer-, takarmányvállalkozási tevékenység végzésére történő használatát az ingatlan adott állapotában határozott időre vagy véglegesen megtilthatja;
@@ -1295,7 +1285,7 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 - p) a határállomásokon végzett ellenőrzése során elrendelheti az e törvény végrehajtására kiadott jogszabály szerinti, illetve az Európai Unió közvetlenül alkalmazandó jogi aktusaiban foglalt intézkedéseket;
 - q) termelési, betakarítási, kísérleti, felhasználási, alkalmazási tilalmat, illetve növényvédelmi korlátozást rendelhet el;
 - r) betilthatja vagy korlátozhatja a növény-egészségügyi szempontból nem megfelelő vetőmagok, szaporítóanyagok vagy nemesítési alapanyagok használatát;
-- s) elrendelheti eszköz, tárgy, anyag vagy termék zár alá vételét, ártalmatlanítását, továbbá szállítójárművet visszatarthat mindaddig, amíg a 14. § szerinti felelős személye nem kerül megállapításra, vagy a szállítmányával kapcsolatos zárolási, és ártalmatlanítási eljárás be nem fejeződik, illetve annak költsége megfizetésre nem kerül;
+- s) elrendelheti eszköz, tárgy, anyag vagy termék zár alá vételét, ártalmatlanítását, továbbá szállítójárművet visszatarthat mindaddig, amíg a 14. § szerinti felelős személye nem kerül megállapításra, vagy a szállítmányával kapcsolatos zárolási, lefoglalási, és ártalmatlanítási eljárás be nem fejeződik, illetve annak költsége megfizetésre nem kerül;
 - t) termék tárolására szolgáló helyiséget zár alá veheti mindaddig, amíg a 14. § szerinti felelős személye nem kerül megállapításra;
 - u) az élelmiszerlánc részét képező valamely tevékenység vonatkozásában megtilthatja vagy korlátozhatja a nem megfelelő képesítéssel vagy személyi higiénés alkalmassággal foglalkoztatottak munkavégzését.
 
@@ -1437,7 +1427,7 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 ### A bírságok megfizetésének szabályai
 
-64. § (1) A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenötödik napig meg kell fizetni.
+64. § (1) A bírságot az azt kiszabó határozat véglegessé válásától számított tizenötödik napig meg kell fizetni.
 
 (2) A forgalmazó által okozott hiba miatt kiszabott bírság a terméket a forgalmazónak kereskedelmi céllal értékesítő személyre (beszállító) nem hárítható át.
 
@@ -1523,9 +1513,9 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 
 (5) Az élelmiszerlánc-felügyeleti szerv az általa ellenőrzött növény vagy növényi termék növényvédőszer-maradék, illetve termésnövelő anyagból származó, vagy egyéb toxikus anyag tartalmának laboratóriumi vizsgálati eredményeit a megengedett határértéket meghaladó tartalom esetén – a termelő, illetve az ellenőrzött személy nevével vagy cégnevével és lakcímével vagy székhelyével együtt – az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint közzéteszi.
 
-(6) A (4)–(5) bekezdésben megjelölt adatokat a honlapról a jogsértés jogerős megállapításától számított 2 év után törölni kell, illetve ezen időpontot követően az adatok nem hozhatók újra nyilvánosságra.
+(6) A (4)–(5) bekezdésben megjelölt adatokat a honlapról a jogsértést megállapító határozat véglegessé válásától számított 2 év után törölni kell, illetve ezen időpontot követően az adatok nem hozhatók újra nyilvánosságra.
 
-(7) A jogsértések nyilvánosságra hozatala a döntés jogerőre emelkedését követően vagy a fellebbezésre tekintet nélkül végrehajtható döntés meghozatalát követően lehetséges.
+(7) A jogsértések nyilvánosságra hozatala a döntés véglegessé válását követően vagy a fellebbezésre tekintet nélkül végrehajtható döntés meghozatalát követően lehetséges.
 
 (8) A kockázatos vállalkozások listájának összeállítása során figyelembe kell venni a 24. § (1) bekezdés b) pontja, a 32. § (1) bekezdés u) és v) pontja, valamint (5) bekezdése alapján keletkező információkat.
 
@@ -1557,7 +1547,14 @@ végrehajtására kiadott és e törvény hatálya alá tartozó rendelkezéseke
 76. § (1) Felhatalmazást kap a Kormány arra, hogy rendeletben
 
 - a) jelölje ki az élelmiszerlánc-felügyeleti szervet, határozza meg jogállását, részletes feladatkörét és eljárási rendjét;
-- b)
+- b) szabályozza
+  - ba) a különleges táplálkozási célú élelmiszerek, étrend-kiegészítők, valamint vitaminok, ásványi és egyéb anyagok hozzáadásával készült élelmiszerek bejelentésére, nyilvántartásba vételére, hatósági ellenőrzésére és az ellenőrzés alapján hozható intézkedésekre,
+  - bb) a közétkeztetési szolgáltatás hatósági ellenőrzésére,
+  - bc) az élelmiszer eredetű megbetegedések esetén követendő hatósági eljárásra,
+  - bd) az élelmiszerekkel kapcsolatos tápanyag-összetétel és egészségre vonatkozó állítások bejelentésére, módosítására, továbbá a tápértékjelölés esetén követendő hatósági eljárásra
+
+vonatkozó előírásokat;
+
 - c) határozza meg a Magyar Élelmiszerkönyv, a Magyar Takarmánykódex, az Állat-egészségügyi és Állatjóléti Kódex és a Növényvédelmi Módszertani Gyűjtemény összeállításának, közzétételének szabályait, az élelmiszerkönyvi és a takarmánykódex-irányelvek kiadásának rendjét, továbbá jelölje ki a gondozásukat, valamint a FAO/WHO Codex Alimentarius Bizottság munkájában való magyar részvétel szakmai irányítását végző szervet;
 - d) határozza meg az e törvény hatálya alá tartozó bírságok kiszámításának módját és mértékét;
 - e) állapítsa meg az állami feladatok végzésére feljogosított szolgáltató állatorvos, a növényorvos, valamint a segédszemélyzet jogállását, feladat- és hatáskörét;
@@ -1840,4 +1837,4 @@ E törvény alkalmazásában:
 - 73. vizsgálatköteles nem zárlati károsító: azon nem zárlati károsító, amelynek jelenléte a telepítésre szánt növényekben gazdaságilag elfogadhatatlan mértékben kedvezőtlenül befolyásolja e növények tervezett felhasználását, és amely ennek megfelelően vizsgálatköteles az importáló ország területén;
 - 74. zárlat: személy, állat, állati eredetű termék, állati eredetű melléktermék, jármű, egyéb fertőzésközvetítő anyag mozgásának, mozgatásának, illetve szállításának hatósági korlátozása állatbetegség terjedésének megakadályozása érdekében;
 - 75. zárlati károsító: potenciális gazdasági jelentőségű károsító, amely a veszélyeztetett területen még nem fordul elő, vagy előfordul, de nem terjedt el, és hatósági határozat alapján védekezést folytatnak ellene;
-- 76. termelői szerveződés: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló 2007. október 22-i 1234/2007/EK tanácsi rendelet 122. cikkének a) pont (iii) pontjában meghatározott, valamint a 122. cikk b) és c) pontjában foglaltak szerint létrejött, és a 125. b, 125. c, és 125. e, cikkében meghatározott feltételekkel elismert szervezet, továbbá az agrárpolitikáért felelős miniszter által jogerősen elismert termelői csoport.
+- 76. termelői szerveződés: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló 2007. október 22-i 1234/2007/EK tanácsi rendelet 122. cikkének a) pont (iii) pontjában meghatározott, valamint a 122. cikk b) és c) pontjában foglaltak szerint létrejött, és a 125. b, 125. c, és 125. e, cikkében meghatározott feltételekkel elismert szervezet, továbbá az agrárpolitikáért felelős miniszter által elismert termelői csoport.

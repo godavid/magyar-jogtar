@@ -81,6 +81,8 @@ a csere birtok-összevonási célú földcserének minősül.
 
 11. § A föld tulajdonjogának a megszerzésére irányuló minden szerződést közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. E rendelkezés megsértésével megkötött szerződés semmis.
 
+11/A. § A Földforgalmi törvény 13. § (1) bekezdése szerinti, a föld használatának más részére át nem engedése iránti kötelezettségvállalás megsértésével kötött szerződés semmis.
+
 12. § A föld tulajdonjogának megszerzésére irányuló szerződés létrejöttében érdekeltek, illetve a szerződő felek közötti írásbeli közlésnek minősül a postai úton, elektronikus úton, telefaxon, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés, ide nem értve az adás-vételi szerződésnek az elővásárlásra jogosultakkal a Földforgalmi törvényben meghatározott hirdetményi úton való közlését.
 
 13. § (1) A föld tulajdonjogának a megszerzésére irányuló szerződésnek – a Földforgalmi törvény 13–15. §-ában meghatározottakon túl – tartalmaznia kell a szerződő felek, illetve a szerző fél (a továbbiakban együtt: szerződő fél) következő adatait:
@@ -165,15 +167,26 @@ a csere birtok-összevonási célú földcserének minősül.
 
 25. § Ha a szolgalommal terhelt föld közös tulajdonban áll, a szolgalmi jog alapításához a használati megosztás szerint érintett tulajdonostársak tulajdoni hányada alapján számított többségének írásbeli döntése szükséges.
 
-26. § (1) A földhasználót a más használatában levő ingatlanon öntözési szolgalom illeti meg, ha mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében a víz odajuttatását, szétosztását, illetve annak elvezetését másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel lehetne biztosítani.
+26. § (1) Öntözési célt szolgáló vízilétesítmény megvalósításához az érintett földrészlet vonatkozásában haszonélvezeti jog fennállása esetén a haszonélvezőnek, ennek hiányában a tulajdonosnak, állami tulajdonban álló ingatlan esetében az ingatlan-nyilvántartásba bejegyzett vagyonkezelőnek, vagyonkezelői jog fennállása hiányában a tulajdonosi joggyakorló szervezetnek a hozzájárulása szükséges.
 
-(2) Az öntözési szolgalom úgy gyakorolható, hogy az ne akadályozza, aránytalanul ne nehezítse a szolgalmi joggal terhelt föld művelési ágának megfelelő használatát, hasznosítását.
+(2) Ha a földrészlet közös tulajdonban áll, a hozzájáruláshoz a 71. § (3) és (4) bekezdésének alkalmazásával
+
+- a) földfelszín alatt vezetett vízilétesítmény esetében az érintett személyek tulajdoni hányad alapján számított többségi,
+- b) földfelszín felett vezetett vízilétesítmény esetében az érintett személyek egyhangú
+
+döntése szükséges.
+
+(3) A földhasználót a más használatában levő ingatlanon – a mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében, amennyiben az másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel biztosítható – a víz odajutását, szétosztását és elvezetését biztosító öntözési szolgalom illeti meg, amely úgy gyakorolható, hogy az ne akadályozza, aránytalanul ne nehezítse a szolgalmi joggal terhelt föld művelési ágának megfelelő használatát, hasznosítását.
 
 ### VII. Fejezet — A HATÓSÁGI JÓVÁHAGYÁSHOZ KÖTÖTT TULAJDONJOG MEGSZERZÉSÉRE VONATKOZÓ SZABÁLYOK
 
 #### 8. Eljárási szabályok
 
-27. § (1) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld tulajdonjogának megszerzésére irányuló szerződésnek, illetve a tulajdonjog átruházásnak nem minősülő módon történő megszerzésének (e fejezetben a továbbiakban együtt: jogügylet) – ide nem értve a föld tulajdonjogának a Földforgalmi törvény 35. §-a szerinti árverés útján történő megszerzését – hatósági jóváhagyására vonatkozó eljárásra a Földforgalmi törvényben és az e törvényben foglalt eltérésekkel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit kell alkalmazni.
+27. § (1) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld tulajdonjogának megszerzésére irányuló szerződésnek, illetve a tulajdonjog átruházásnak nem minősülő módon történő megszerzésének (e fejezetben a továbbiakban együtt: jogügylet) hatósági jóváhagyására vonatkozó eljárásra a Földforgalmi törvényben és az e törvényben foglalt eltérésekkel és kiegészítésekkel az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni.
+
+(1a) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld tulajdonjogának megszerzésére irányuló szerződés hatósági jóváhagyása iránti eljárásban sommás eljárásnak nincs helye, ide nem értve a mezőgazdasági igazgatási szerv hatósági bizonyítvány kiadása iránti eljárását.
+
+(1b) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld tulajdonjogának megszerzésére irányuló szerződés hatósági jóváhagyása iránti eljárásban a hatóságnak a függő hatályú döntésben nem kell rendelkeznie az ügyfelet megillető kérelmezett jog gyakorlásáról.
 
 (2) Az eljárásban ügyfél
 
@@ -184,7 +197,7 @@ a csere birtok-összevonási célú földcserének minősül.
 - e) az a Földforgalmi törvény szerinti közeli hozzátartozó, akinek e helyzetére tekintettel jött létre az a jogügylet, amelynek érvényességi feltétele a közeli hozzátartozói viszony fennállása,
 - f) mindazon egyéb jogosult, akinek a földre vonatkozó jogát a jogügylet érinti.
 
-(3) Az eljárás mentes az igazgatási szolgáltatási díjfizetési kötelezettség alól. A Ket. szerinti egyéb eljárási költséget – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit is – a szerző fél viseli. Az eljárás során a mezőgazdasági igazgatási szerv által hivatalból indított eljárások mezőgazdasági igazgatási szerv által megfizetendő költségeit a szerző fél a mezőgazdasági igazgatási szerv részére megtéríti.
+(3) Az eljárás mentes az igazgatási szolgáltatási díjfizetési kötelezettség alól. Az eljárási költséget – ideértve az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit is – a szerző fél viseli. Az eljárás során a mezőgazdasági igazgatási szerv által hivatalból indított eljárások mezőgazdasági igazgatási szerv által megfizetendő költségeit a szerző fél a mezőgazdasági igazgatási szerv részére megtéríti.
 
 (4) Ha a jogügylet tárgya a föld tulajdonjogának csere jogcímén történő átruházása, a szerző fél alatt a cserepartnereket kell érteni. Csere esetén a (3) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a cserepartnerek a költségek viselésére, megtérítésére közösen, egyenlő arányban kötelesek.
 
@@ -228,18 +241,11 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 (3) A mezőgazdasági igazgatási szerv az átvett és az adatlekérdezés, illetve adatfeldolgozás során keletkezett adatokat nem továbbíthatja.
 
-30. § (1) Az eljárás ügyintézési határideje 60 nap.
+30. § (1) Az eljárás ügyintézési határideje 80 nap.
 
-(2) A Ket.-ben meghatározott eseteken túl az ügyintézési határidőbe nem számít be:
+(2)
 
-- a) a helyi földbizottság megkeresésétől
-  - aa) a helyi földbizottság állásfoglalásának, illetve az azzal kapcsolatos kifogás elbírálása kapcsán a képviselő-testület döntésének a mezőgazdasági igazgatási szervhez való beérkezéséig, vagy
-  - ab) a helyi földbizottság állásfoglalásának kiadására a Földforgalmi törvényben meghatározott határidő eredménytelen lejárta esetén a Földforgalmi törvény 26. §-ában meghatározott határidő lejártát követő napig terjedő időtartam;
-- b) a Földforgalmi törvény 29. §-ában foglalt, az eladót megillető választási jog gyakorlására vonatkozó nyilatkozattételre való felhívástól
-  - ba) a nyilatkozatnak a mezőgazdasági igazgatási szervhez való beérkezéséig, vagy
-  - bb) a ba) alpontban foglaltak hiányában a Földforgalmi törvény 29. § (2)–(3) bekezdésében meghatározott 15 napos határidő lejártát követő napig terjedő időtartam.
-
-(3) Ha harmadik személy javára a Földforgalmi törvényen, más törvényen vagy megállapodáson alapuló elővásárlási jog áll fenn, az eljárás – a szerződésnek a jogosultakkal a Földforgalmi törvényben meghatározott módon történő közlése esetén – a Földforgalmi törvény 22. §-ában meghatározott okiratoknak a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
+(3) Ha harmadik személy javára a Földforgalmi törvényen, más törvényen vagy megállapodáson alapuló elővásárlási jog áll fenn, az eljárás – a szerződésnek a jogosultakkal a Földforgalmi törvényben meghatározott módon történő közlése esetén – a Földforgalmi törvény 22. §-ában meghatározott okiratoknak és a közzétételi és hatósági jóváhagyás iránti kérelemnek a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
 
 (4) Az eljárás – a (3) bekezdéstől eltérően – a szerző fél írásbeli kérelmének a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik, ha az eljárás olyan jogügylet jóváhagyására irányul, amely
 
@@ -247,7 +253,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 - b) nem minősül adás-vételnek, vagy
 - c) átruházásnak nem minősülő tulajdonszerzés.
 
-(5) A 103/A. §-ban meghatározottak alapján, a helyi földbizottság állásfoglalása elleni kifogás benyújtásáról való értesítésnek a mezőgazdasági igazgatási szervhez való beérkezése napja, valamint a kifogás elbírálásáról szóló döntésnek a vele való közlésének napja közötti időtartam alatt a mezőgazdasági igazgatási szerv eljárási cselekményt nem végezhet.
+(5)
 
 31. § A 30. § (4) bekezdésében meghatározott jogügyletet tartalmazó okiratokat a 17. § (1) bekezdésében előírtak szerint kell a mezőgazdasági igazgatási szervhez benyújtani.
 
@@ -267,9 +273,9 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 (5) A szerző fél köteles a Földforgalmi törvényben meghatározott, a tulajdonszerzési jogosultság fennállásához, valamint a jogügylet jóváhagyásához szükséges adatokban az eljárás alatt bekövetkező változásokról a mezőgazdasági igazgatási szervet tájékoztatni, és az azokat igazoló dokumentumokat a mezőgazdasági igazgatási szerv rendelkezésére bocsátani.
 
-33. § (1) Az eljárás megindításáról az ügyfeleket nem kell értesíteni.
+(6) Az elővásárlási és az előhaszonbérleti jogosultságot bizonyító okiratok az ügyfél nyilatkozatával nem pótolhatóak.
 
-(2) Az eljárásban a Ket. szerinti közreműködő hatóság nem vehet részt.
+#### 33. §
 
 34. § (1) A mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. § (1) és (2) bekezdésében meghatározott előzetes vizsgálat alatt csak a (2) bekezdésben foglalt esetekben bocsáthat ki hiánypótlást.
 
@@ -286,25 +292,24 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 - a) a jegyző által a mezőgazdasági igazgatási szerv részére megküldött okiratok közül a nem biztonsági okmányon szerkesztett, a Földforgalmi törvény 21. § (2) bekezdésében előírtak szerint a jegyző által anonimizált és a hirdetőtáblára kifüggesztett adás-vételi szerződés másolatát,
 - b) az elfogadó jognyilatkozat olyan másolatát, amelyen a mezőgazdasági igazgatási szerv felismerhetetlenné teszi a jognyilatkozatot tevő nevén, lakcímén vagy értesítési címén, valamint állampolgárságán kívül valamennyi természetes személyazonosító adatot.
 
-36. § (1) Az eljárás felfüggesztésének nincs helye:
+36. § (1) Ha a helyi földbizottság a Földforgalmi tv. 24. § (1) bekezdésében meghatározott határidőn belül az állásfoglalását nem adja ki, a mezőgazdasági igazgatási szerv a Földforgalmi tv. 26. §-a szerinti felhívás kibocsátásával egyidejűleg az eljárást felfüggesztheti az állásfoglalás beérkezéséig.
 
-- a)
-- b) ha a jogügyletben résztvevő természetes személy, gazdálkodó szervezet jogutódjának kiléte vitás.
+(2) Az eljárást fel kell függeszteni
 
-(2) Az (1) bekezdés b) pontjában meghatározott esetben az eljárást meg kell szüntetni.
+- a) a helyi földbizottság állásfoglalása ellen benyújtott kifogás esetén a képviselő-testület kifogás elbírálásáról szóló döntésének a mezőgazdasági igazgatási szervhez való beérkezéséig,
+- b) a képviselő-testület kifogás elbírálásáról szóló döntésének megtámadása esetén a bíróság jogerős döntésének a mezőgazdasági igazgatási szervhez való beérkezéséig.
 
-37. § (1) A föld tulajdonjogának megszerzésére irányuló jogügylet jóváhagyására irányuló eljárásban a mezőgazdasági igazgatási szerv döntésének – a Ket.-ben meghatározottakon túl – tartalmaznia kell a helyi földbizottság megnevezését, a helyi földbizottság elnökének nevét, a helyi földbizottság állásfoglalását, illetve állásfoglalásának kiadása hiányában ennek tényét.
+37. § (1) A föld tulajdonjogának megszerzésére irányuló jogügylet jóváhagyására irányuló eljárásban a mezőgazdasági igazgatási szerv döntésének – az Ákr.-ben meghatározottakon túl – tartalmaznia kell a helyi földbizottság megnevezését, a helyi földbizottság elnökének nevét, a helyi földbizottság állásfoglalását, illetve állásfoglalásának kiadása hiányában ennek tényét.
 
 (2) A mezőgazdasági igazgatási szerv egyszerűsített döntést nem hozhat.
 
 (3) A jogügylet jóváhagyása esetén a mezőgazdasági igazgatási szerv a jogügyletet tartalmazó szerződés, illetve okirat két eredeti példányát látja el jóváhagyó záradékkal és azt a szerző fél részére a jóváhagyását tartalmazó határozatával egyidejűleg küldi meg. A jogügylet jóváhagyása esetén a két eredeti példány közül az egyik a biztonsági okmányon szerkesztett szerződés, illetve okirat lehet.
 
-38. § A mezőgazdasági igazgatási szerv elsőfokú határozatával szemben nincs helye fellebbezésnek, felügyeleti jogkör gyakorlásának, továbbá nem nyújtható be újrafelvételi kérelem.
+(4) A mezőgazdasági igazgatási szerv döntése szóban nem közölhető.
 
-39. § A mezőgazdasági igazgatási szerv határozatának bírósági felülvizsgálata során a Pp. XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
+38. § A mezőgazdasági igazgatási szerv elsőfokú határozatával szemben nincs helye fellebbezésnek.
 
-- a) a perben a mezőgazdasági igazgatási szerv székhelye szerint illetékes közigazgatási és munkaügyi bíróság jár el;
-- b) a bíróság a határozatot megváltoztathatja.
+39. § A bíróság elsőfokú ítélete ellen – kivéve a mezőgazdasági igazgatási szerv hatósági bizonyítványa ellen indított közigazgatási perben hozott elsőfokú ítéletet – fellebbezésnek van helye.
 
 #### 9. A föld tulajdonjoga végintézkedéssel történő megszerzésének, valamint a bírósági, közjegyzői jóváhagyáshoz kötött egyezséget megelőző hatósági jóváhagyásra vonatkozó eljárás különös eljárási szabályai
 
@@ -326,11 +331,11 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 
 (2) Az eljárás a bíróság, vagy közjegyző megkeresésének a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
 
-(3) Az eljárás ügyintézési határideje 30 nap.
+(3)
 
 #### 9/A. A biztonsági okmánnyal összefüggő kötelezettségek ellenőrzése
 
-44/A. § (1) A mezőgazdasági igazgatási szerv ellenőrzi a föld tulajdonjogának átruházására, vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására szolgáló biztonsági okmánnyal összefüggő kötelezettségek betartását a biztonsági okmányt kezelő közjegyzőnél, ügyvédnél vagy annál a szervezetnél, amelynél a jogtanácsos működik (e § alkalmazásában a továbbiakban együtt: felhasználó).
+44/A. § (1) A mezőgazdasági igazgatási szerv ellenőrzi a föld tulajdonjogának átruházására, vagy a föld tulajdonjogát érintő más jogügylet írásba foglalására szolgáló biztonsági okmánnyal összefüggő kötelezettségek betartását a biztonsági okmányt kezelő közjegyzőnél, ügyvédnél vagy annál a szervezetnél, amelynél a kamarai jogtanácsos működik (e § alkalmazásában a továbbiakban együtt: felhasználó).
 
 (2) A mezőgazdasági igazgatási szerv a felhasználót a biztonsági okmány kezelésével, felhasználásával, visszaszolgáltatásával kapcsolatos kötelezettségeinek megsértése esetén bírsággal sújtja, vagy figyelmeztetésben részesíti, egyidejűleg felhívja a jogsértő állapot megszüntetésére.
 
@@ -358,6 +363,8 @@ kell érteni.
 #### 11. A földhasználati szerződések formai és tartalmi követelményeivel összefüggő rendelkezések
 
 46. § A Földforgalmi törvényben meghatározott földhasználati szerződést közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. E rendelkezés megsértésével megkötött szerződés semmis.
+
+46/A. § A Földforgalmi törvény 42. § (1) bekezdése szerinti, a föld használatának más részére át nem engedése iránti kötelezettségvállalás megsértésével kötött szerződés semmis.
 
 47. § A földhasználati szerződés – ide értve a X. Fejezet szerinti használati megosztásról szóló megállapodást is – létrejöttében érdekeltek, illetve szerződő felek közötti írásbeli közlésnek minősül a postai úton, elektronikus úton, telefaxon, személyesen átadott irat útján, kézbesítési meghatalmazott útján, valamint kézbesítési ügygondnok útján történő közlés, ide nem értve a haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal a Földforgalmi törvényben meghatározott hirdetményi úton való közlését.
 
@@ -597,6 +604,8 @@ javára történő átengedésére.
 
 (9) A használati megosztásról szóló megállapodásban részes tulajdonostársaknak az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – 30 napnál nem régebbi – hiteles szemle másolaton egyértelmű jelzéssel, a használati megosztásról szóló megállapodásnak megfelelően, azzal azonosítható módon ábrázolni kell az egyes tulajdonostársak részére kijelölt területet. A térképi kimutatást a használati megállapodásban részes tulajdonostársaknak alá kell írni.
 
+(9a) Erdőnek minősülő földre kötött használati megosztásról szóló megállapodás esetében a (9) bekezdés szerinti térképi kimutatás alatt az erdészeti hatóság által kiadott, 30 napnál nem régebbi erdészeti térkép felhasználásával, jogosult erdészeti szakszemélyzet által készített, külön jogszabályban meghatározott erdészeti térképi mellékletet kell érteni.
+
 (10) Nem kell térképi kimutatást készíteni, ha a használati megosztásról szóló megállapodás alapján
 
 - a) egy tulajdonostárs használja a föld teljes területét, vagy
@@ -666,13 +675,17 @@ javára történő átengedésére.
 
 (7) A sorsolás megtartásával szemben jogorvoslatnak helye nincs. A sorsolás útján megállapított használati rend ellen a sorsolás napját követő 8 napon belül bármelyik tulajdonostárs kifogást nyújthat be, a sorsolásra vonatkozó eljárási szabályok megsértése esetén. A kifogást a Kamara területi szervéhez kell benyújtani, a Kamarának címezve. A Kamara a kifogásról – a kifogás beérkezésétől számított – 15 napon belül dönt. Ha a Kamara a kifogásnak helyt ad, a területi szervet új sorsolás megtartására kötelezi, egyúttal kitűzi az új sorsolás napját. A Kamara a kifogást elutasítja, ha azt megalapozatlannak tartja.
 
-(8) Ha a (3) bekezdésben foglalt értesítést követő 60 napon belül a közös tulajdonban álló földre vagy annak egy meghatározott részére földhasználati bejelentés kerül az ingatlanügyi hatósághoz benyújtásra, erről az ingatlanügyi hatóság haladéktalanul értesíti a Kamara területi szervét. Ez esetben a földhasználati bejelentés elbírálásáig a Kamara területi szervének a sorsolás megtartására irányuló eljárását fel kell függesztenie. Az ingatlanügyi hatóság a földhasználati bejelentés elbírálásáról szóló jogerős döntését az e törvény végrehajtására kiadott rendeletben foglaltak szerint közli a Kamara területi szervével. A Kamara területi szerve a földhasználati bejelentés elbírálásáról szóló jogerős döntés tartalmától függően az eljárást megszünteti vagy folytatja.
+(8) Ha a (3) bekezdésben foglalt értesítést követő 60 napon belül a közös tulajdonban álló földre vagy annak egy meghatározott részére földhasználati bejelentés kerül az ingatlanügyi hatósághoz benyújtásra, erről az ingatlanügyi hatóság haladéktalanul értesíti a Kamara területi szervét. Ez esetben a földhasználati bejelentés elbírálásáig a Kamara területi szervének a sorsolás megtartására irányuló eljárását fel kell függesztenie. Az ingatlanügyi hatóság a földhasználati bejelentés elbírálásáról szóló véglegessé vált döntését az e törvény végrehajtására kiadott rendeletben foglaltak szerint közli a Kamara területi szervével. A Kamara területi szerve a földhasználati bejelentés elbírálásáról szóló véglegessé vált döntés tartalmától függően az eljárást megszünteti vagy folytatja.
 
 ### XI. Fejezet — A HATÓSÁGI JÓVÁHAGYÁSHOZ KÖTÖTT FÖLDHASZNÁLATI SZERZŐDÉSRE VONATKOZÓ ELJÁRÁSI SZABÁLYOK
 
 77. § (1) A Földforgalmi törvény 53. § (2) bekezdés b) pontját és a (3) bekezdését 2019. január 1-jétől kell alkalmazni.
 
 (2) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött földhasználati szerződés hatósági jóváhagyására vonatkozó eljárásra a VII. Fejezetben foglaltakat a 78–84. §-ban foglalt eltéréssel kell alkalmazni.
+
+(3) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld használatának megszerzésére irányuló szerződés hatósági jóváhagyása iránti eljárásban a sommás eljárás szabályai nem alkalmazhatóak.
+
+(4) A Földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld használati jogosultságának megszerzésére irányuló szerződés hatósági jóváhagyása iránti eljárásban a hatóságnak a függő hatályú döntésben nem kell rendelkeznie az ügyfelet megillető kérelmezett jog gyakorlásáról.
 
 78. § Az eljárásban ügyfél
 
@@ -682,14 +695,9 @@ javára történő átengedésére.
 - d) az a Földforgalmi törvény szerinti közeli hozzátartozó, akinek e helyzetére tekintettel jött létre az a földhasználati szerződés, amelynek érvényességi feltétele a közeli hozzátartozói viszony fennállása,
 - e) mindazon egyéb jogosult, akinek a földre vonatkozó jogát a földhasználati szerződés érinti.
 
-79. § A Ket.-ben meghatározott eseteken túl az ügyintézési határidőbe nem számít be a Földforgalmi törvény 54. §-ában foglalt, a haszonbérbeadót megillető választási jog gyakorlására vonatkozó nyilatkozattételre való felhívástól
+#### 79. §
 
-- a) a nyilatkozatnak a mezőgazdasági igazgatási szervhez való beérkezéséig, vagy
-- b) az a) alpontban foglaltak hiányában a Földforgalmi törvény 54. § (2)–(3) bekezdésében meghatározott 15 napos határidő lejártát követő napig
-
-terjedő időtartam.
-
-80. § (1) Ha az eljárás haszonbérleti szerződés jóváhagyására irányul és harmadik személy javára a Földforgalmi törvényen vagy más törvényen alapuló előhaszonbérleti jog áll fenn, az eljárás – a szerződésnek a jogosultakkal a Földforgalmi törvényben meghatározott módon történő közlése esetén – a Földforgalmi törvény 50. §-ában meghatározott okiratoknak a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
+80. § (1) Ha az eljárás haszonbérleti szerződés jóváhagyására irányul és harmadik személy javára a Földforgalmi törvényen vagy más törvényen alapuló előhaszonbérleti jog áll fenn, az eljárás – a szerződésnek a jogosultakkal a Földforgalmi törvényben meghatározott módon történő közlése esetén – a Földforgalmi törvény 50. §-ában meghatározott okiratoknak és a közzétételi és hatósági jóváhagyás iránti kérelemnek a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik.
 
 (2) Az eljárás – az (1) bekezdéstől eltérően – a szerző fél írásbeli kérelmének a mezőgazdasági igazgatási szervhez való beérkezését követő napon kezdődik, ha az eljárás olyan földhasználati szerződés jóváhagyására irányul, amely
 
@@ -712,22 +720,17 @@ terjedő időtartam.
 - b) a haszonbérlet időtartamának meghatározása az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben foglaltaknak megfelel-e, és
 - c) a haszonbér meghatározása az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben foglaltaknak megfelel-e.
 
-83. § A mezőgazdasági igazgatási szerv a földhasználati szerződés jóváhagyása esetén a szerződés két eredeti példányát látja el jóváhagyó záradékkal, amelyből az egyik példányt – a jóváhagyását tartalmazó határozatával egyidejűleg – a szerző félnek, a másik példányt a határozat jogerőre emelkedését követően – az e törvény végrehajtására kiadott rendelet szerinti eljárás lefolytatása érdekében – az ingatlanügyi hatóságnak küldi meg.
+83. § A mezőgazdasági igazgatási szerv a földhasználati szerződés jóváhagyása esetén a szerződés két eredeti példányát látja el jóváhagyó záradékkal, amelyből az egyik példányt – a jóváhagyását tartalmazó határozatával egyidejűleg – a szerző félnek, a másik példányt a határozat véglegessé válását követően – az e törvény végrehajtására kiadott rendelet szerinti eljárás lefolytatása érdekében – az ingatlanügyi hatóságnak küldi meg.
 
-84. § A földhasználati szerződés hatósági jóváhagyása iránti eljárásban nem kell alkalmazni a 27. § (4) bekezdését, a 35. §-t és a 37. § (1) bekezdését.
+84. § A földhasználati szerződés hatósági jóváhagyása iránti eljárásban nem kell alkalmazni a 27. § (4) bekezdését, a 30. § (1) bekezdését, a 35. §-t és a 37. § (1) bekezdését.
 
 ### XII. Fejezet — A SZERZÉSI KORLÁTOZÁSOK HATÓSÁGI ELLENŐRZÉSÉRE ÉS A FÖLD KÉNYSZERHASZNOSÍTÁSBA ADÁSÁRA, VALAMINT A KÉNYSZERHASZNOSÍTÓRA VONATKOZÓ SZABÁLYOK
 
-85. § A Földforgalmi törvény V. Fejezetében meghatározott hatósági ellenőrzés során – a Földforgalmi törvényben és az e törvényben foglalt eltérésekkel – a Ket. rendelkezéseit kell alkalmazni.
+85. § A Földforgalmi törvény V. Fejezetében meghatározott hatósági ellenőrzés során – a Földforgalmi törvényben és az e törvényben foglalt eltérésekkel – az Ákr. rendelkezéseit kell alkalmazni.
 
-86. § A hatósági ellenőrzés során a 28. §-ban, a 29. §-ban, és a 36. § (1) bekezdés a) pontjában foglaltak megfelelően alkalmazandók.
+86. § A hatósági ellenőrzés során a 28. §-ban és a 29. §-ban foglaltak megfelelően alkalmazandók.
 
-87. § A hatósági ellenőrzés céljából vezetett, a Ket. 94. §-ában előírt nyilvántartásban, az ott előírt adatokat
-
-- a) a tulajdonszerzés ellenőrzése esetén a tulajdonjog ingatlan-nyilvántartásba való bejegyzésének évét követő 5 évig,
-- b) a földhasználati jogosultság megszerzésének ellenőrzése esetén a földhasználat időtartama lejárta évének a végéig
-
-kezeli a mezőgazdasági igazgatási szerv.
+#### 87. §
 
 88. § (1) A mezőgazdasági igazgatási szerv a hatósági ellenőrzés során jogosult
 
@@ -808,7 +811,8 @@ kezeli a mezőgazdasági igazgatási szerv.
   - ba) természetes személyazonosító adatait,
   - bb) lakcímét,
   - bc) állampolgárságát,
-  - bd) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében a személyi azonosítóját;
+  - bd) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében a személyi azonosítóját,
+  - be) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá nem tartozó természetes személyek esetében a belső egyedi azonosítóját;
 - c) a földrészlet (alrészlet) vagy földrészletek gazdálkodó szervezet földhasználójának
   - ca) megnevezését,
   - cb) székhelyét (telephelyét),
@@ -845,9 +849,9 @@ kezeli a mezőgazdasági igazgatási szerv.
 
 (6) A földhasználati nyilvántartási eljárás – a 95/A. § (1) bekezdése szerinti eljárás kivételével – a (2) és (5) bekezdésben meghatározott földhasználati bejelentési és a változás-bejelentési (a továbbiakban együtt: bejelentési) adatlapnak, valamint a (3) bekezdésben meghatározott okiratoknak az ingatlanügyi hatósághoz való benyújtásával indul meg.
 
-(7)
+(7) A földhasználati nyilvántartási eljárásokban sommás eljárásnak nincs helye.
 
-(8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese, azzal, hogy nem lehet kevesebb a behajtható köztartozás legkisebb összegénél.
+(8) Az ingatlanügyi hatóság a bejelentést elmulasztó földhasználót legfeljebb 30 napos határidő megállapításával írásban felszólítja a bejelentési kötelezettsége teljesítésére. Ha a földhasználó határidőben nem tesz eleget a felszólításnak, az ingatlanügyi hatóság földhasználati bírsággal sújtja, aminek mértéke a föld ingatlan-nyilvántartás szerinti aranykorona (a továbbiakban: AK) értékének ezerszerese, azzal, hogy a bírság összege nem lehet kevesebb tízezer forintnál.
 
 (9) A föld elkülönített közös használata esetében, illetve a közös tulajdonban álló föld esetében a (8) bekezdés szerinti bírság megfizetésére a mulasztó földhasználók, illetve a tulajdonostársak egyetemlegesen kötelezhetők.
 
@@ -895,7 +899,7 @@ szolgáltat.
 
 (1d) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
 
-(2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK–értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont bd) alpontjában, valamint c) pont cc) és cd) alpontjában foglalt azonosító adatai alapján.
+(2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK-értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont ba), bd) és be) alpontjában, valamint c) pont ca), cc) és cd) alpontjában foglalt azonosító adatai alapján.
 
 (3) A földhasználati lap másolat szolgáltatását bárki igényelheti.
 
@@ -950,7 +954,7 @@ szolgáltat.
 - c) a mezőgazdasági üzemközpont esetén
   - ca) az üzemközpont fekvése szerinti ingatlan helyrajzi számát, a fekvése szerinti településnek, és az ingatlan fekvésének a megjelölését,
   - cb) azt, hogy a földművesnek, illetve a mezőgazdasági termelőszervezetnek az ingatlanon tulajdonjoga, haszonélvezeti joga, vagyonkezelői joga, vagy használati joga áll fenn, és
-  - cc) a cb) alpont szerinti jogosultság megszerzésének kezdő időpontját.
+  - cc)
 
 (4) A nyilvántartásba bejegyzett természetes személy és gazdálkodó szervezet azonosításához a mezőgazdasági igazgatási szerv jogosult kezelni
 
@@ -1012,10 +1016,7 @@ szolgáltat.
 
 103/C. § Ha a jegyző arról értesíti a fővárosi és megyei kormányhivatalt, hogy a 103/B. § (4) bekezdése szerinti felhívásban megszabott határidő eredménytelenül járt le, a fővárosi és megyei kormányhivatal felhívja a mezőgazdasági igazgatási szervet, hogy a 103. § (1) bekezdése szerint járjon el.
 
-103/D. § A képviselő-testület határozatának bírósági felülvizsgálata során a Pp. XX. fejezetének rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
-
-- a) a perben a döntést hozó képviselő-testület székhelye szerint illetékes közigazgatási és munkaügyi bíróság jár el,
-- b) a bíróság a képviselő-testület határozatát megváltoztathatja.
+103/D. § A képviselő-testület határozata ellen indított közigazgatási perben hozott elsőfokú ítélet ellen fellebbezésnek van helye.
 
 ### XVI. Fejezet — FELHATALMAZÓ RENDELKEZÉSEK
 

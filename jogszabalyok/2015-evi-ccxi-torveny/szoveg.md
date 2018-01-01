@@ -22,7 +22,8 @@ Az Országgyűlés a kéményseprő-ipari tevékenység hosszú távú, zavartal
 - 12. összekötő elem: az égéstermék-elvezető szakasza, amely a tüzelőberendezést a bekötőnyílással összeköti;
 - 13. sormunka: külön megrendelés nélkül, előzetes értesítést követően, rendszeres időközönként végzett kéményseprő-ipari tevékenység;
 - 14. tartalék (biztonsági) égéstermék-elvezető: olyan égéstermék-elvezető, amely a tartalékfűtés célját szolgálja, üzemképes állapotban van, de nincs rácsatlakoztatva tüzelőberendezés;
-- 15. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik.
+- 15. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik;
+- 16. egylakásos ingatlan: nem társasházként vagy szövetkezeti házként nyilvántartott lakóingatlan.
 
 #### 2. A kéményseprő-ipari tevékenységre vonatkozó szabályok
 
@@ -47,7 +48,7 @@ ellátandó feladatokból áll.
 
 - a) az épített cserépkályha, kandalló, kemence csak bontással oldható összekötő eleme vagy annak bekötőnyílása,
 - b) a használaton kívüli égéstermék-elvezető, valamint
-- c) az az égéstermék-elvezető, amelynek elhelyezésére szolgáló épületrészt, épületet jogerős hatósági döntéssel lezártak vagy életveszélyesnek nyilvánítottak, a döntés visszavonásáig.
+- c) az az égéstermék-elvezető, amelynek elhelyezésére szolgáló épületrészt, épületet végleges hatósági döntéssel lezártak vagy életveszélyesnek nyilvánítottak, a döntés visszavonásáig.
 
 (4) Sormunka keretében
 
@@ -56,7 +57,7 @@ ellátandó feladatokból áll.
 - c) a tüzelőberendezés biztonságos működéséhez szükséges levegő utánpótlásának ellenőrzését, figyelembe véve a levegő utánpótlást befolyásoló műszaki berendezések, beavatkozások hatását is;
 - d) az égéstermék paramétereinek ellenőrzését;
 - e) az összekötő elem ellenőrzését és szükség szerinti tisztítását;
-- f) a gáztüzelő-berendezés műszaki-biztonsági felülvizsgálata jogszabály szerinti megtörténtének ellenőrzését; valamint
+- f)
 - g) a szén-monoxid érzékelő berendezésre vonatkozó műszaki követelményekről szóló miniszteri rendeletnek megfelelő szén-monoxid érzékelő berendezés felszerelésére és működtetésére vonatkozó kötelezettség teljesítésének, valamint az érzékelő működőképességének ellenőrzését
 
 kell elvégezni.
@@ -69,9 +70,10 @@ kell elvégezni.
 - d) a közvetlen homlokzati égéstermék-kivezetéssel rendelkező tüzelőberendezések égéstermék-elvezetőjének ellenőrzését, tisztítását;
 - e) a 10 000 cm2 feletti járat keresztmetszetű égéstermék-elvezető ellenőrzését, tisztítását, ha annak feltételei adottak;
 - f) az égéstermék-elvezetővel kapcsolatos műszaki vizsgálatokat;
-- g) a tervezett vagy a tervezéssel érintett égéstermék-elvezető műszaki megoldás megfelelőségével összefüggő tervfelülvizsgálatot a benyújtott tervdokumentáció alapján.
+- g) a tervezett vagy a tervezéssel érintett égéstermék-elvezető műszaki megoldás megfelelőségével összefüggő tervfelülvizsgálatot a benyújtott tervdokumentáció alapján;
+- h) az (1) bekezdés a) pont aa) alpontja szerinti egylakásos ingatlanok esetében a sormunkában meghatározott feladatokat.
 
-(6) A kéményseprő-ipari szerv a (4) bekezdés szerinti kéményseprő-ipari tevékenységet az (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében az előzetes írásbeli értesítése szerinti első és második időpontban térítésmentesen végzi. Az (1) bekezdés a) pont ac) alpontja szerinti társasházban, lakásszövetkezeti lakóépületben lévő, nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanok esetében az előzetes írásbeli értesítés szerinti első és második időpontban is költségtérítést kell fizetni, amelynek mértéke az elvégzett kéményseprő-ipari tevékenység költségének az érintett ingatlanra jutó arányának felel meg. A kéményseprő-ipari szolgáltató az (1) bekezdés b) pontja szerinti ingatlanok esetében a kéményseprő-ipari tevékenységet megrendelésre, díjfizetés ellenében végzi a 10. § (5) bekezdésben meghatározott eltéréssel.
+(6) A kéményseprő-ipari szerv a (4) bekezdés szerinti kéményseprő-ipari tevékenységet az (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében térítésmentesen végzi a sormunkáról szóló előzetes írásbeli értesítés szerinti első és második időpontban, valamint – a 3. § (6) bekezdés alapján, illetve a külön jogszabályban meghatározott gyakoriság esetén – az (5) bekezdés h) pontja szerinti megrendelés esetén. Az (1) bekezdés a) pont ac) alpontja szerinti társasházban, lakásszövetkezeti lakóépületben lévő, nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanok esetében a sormunkáról szóló előzetes írásbeli értesítés szerinti első és második időpontban is költségtérítést kell fizetni, amelynek mértéke az elvégzett kéményseprő-ipari tevékenység költségének az érintett ingatlanra jutó arányának felel meg. A kéményseprő-ipari szolgáltató az (1) bekezdés b) pontja szerinti ingatlanok esetében a kéményseprő-ipari tevékenységet megrendelésre, díjfizetés ellenében végzi a 10. § (5) bekezdésben meghatározott eltéréssel.
 
 (7) Az (1) bekezdés b) pontja szerinti ingatlanok esetében a kéményseprő-ipari tevékenységet az ingatlan használója a (4) bekezdés szerinti feladatok ellátása érdekében jogszabályban meghatározottak szerint köteles a kéményseprő-ipari szolgáltatótól vagy a (11) bekezdés szerinti esetben a kéményseprő-ipari szervtől megrendelni.
 
@@ -93,7 +95,7 @@ kell elvégezni.
 
 (16) Az (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében, ha a sormunkára a kéményseprő-ipari szerv előzetes írásbeli értesítése szerinti harmadik időpontban kerül sor, az ingatlan használója a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvényben foglalt közszolgáltatásért a helyi önkormányzat rendeletében meghatározott, 2015. július 1-i állapot szerinti közszolgáltatási díj (a továbbiakban: közszolgáltatási díj) harminc százalékának megfelelő összegű kiszállási díjat fizet a kéményseprő-ipari szervnek.
 
-3. § (1) A kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató az időszakos ellenőrzést és a szükség szerinti tisztítást megrendelés nélkül, ütemezett sormunka keretében látja el az ingatlan használójának előzetes írásbeli értesítése alapján. Ha az ingatlan használójának a jelzett időpont nem megfelelő, a kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató írásban az első időponttól számított harminc napon belüli időszakra eső második időpontot jelöl meg, tájékoztatást nyújtva az ingatlan használójának felróható okból elmaradó, sormunkában meghatározott feladatok elvégzésével kapcsolatos ingatlanhasználói kötelezettségekről és azok elmulasztásának jogkövetkezményeiről. Az időszakos ellenőrzés második időpontban történő meghiúsulása esetén a kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató és az ingatlan használója harmadik időpontban állapodnak meg.
+3. § (1) A kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató az időszakos ellenőrzést és a szükség szerinti tisztítást megrendelés nélkül, ütemezett sormunka keretében látja el az ingatlan használójának előzetes írásbeli értesítése alapján a 2. § (1) bekezdés a) pontja szerinti ingatlanok esetében, kivéve a 2. § (5) bekezdés h) pontja szerinti esetet. Ha az ingatlan használójának a sormunkára vonatkozó jelzett időpont nem megfelelő, a kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató írásban az első időponttól számított harminc napon belüli időszakra eső második időpontot jelöl meg, tájékoztatást nyújtva az ingatlan használójának felróható okból elmaradó, sormunkában meghatározott feladatok elvégzésével kapcsolatos ingatlanhasználói kötelezettségekről és azok elmulasztásának jogkövetkezményeiről. Az időszakos ellenőrzés második időpontban történő meghiúsulása esetén a kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató és az ingatlan használója harmadik időpontban állapodnak meg.
 
 (2) Ha a kéményseprő-ipari szerv vagy a kéményseprő-ipari szolgáltató a tevékenysége során a szakterületét érintően az élet és a vagyonbiztonság közvetlen veszélyeztetését észleli,
 
@@ -106,7 +108,7 @@ kell elvégezni.
 
 (5) A (4) bekezdés szerinti helyszíni műszaki vizsgálatot a kéményseprő-ipari szolgáltató az ingatlan használójának megrendelésére, díjfizetés ellenében, a 10. § (3) bekezdés szerinti szolgáltató a 2. § (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében térítésmentesen végzi.
 
-(6) Az égéstermék-elvezető jogszabályban meghatározott általános ellenőrzésénél gyakoribb – sormunka keretén belüli – ellenőrzésének, tisztításának szükségessége és gyakorisága az égéstermék-elvezető használati és műszaki állapota alapján állapítható meg. Az égéstermék-elvezető használati és műszaki állapotát a kéményseprő-ipari szerv, a kéményseprő-ipari szolgáltató méri fel és ennek eredményéről az ingatlan használóját és a tűzvédelmi hatóságot értesíti.
+(6) Az égéstermék-elvezető jogszabályban meghatározott általános ellenőrzésénél gyakoribb – sormunka keretén belüli, illetve a 2. § (5) bekezdés h) pontja szerinti megrendelésre történő – ellenőrzésének, tisztításának szükségessége és gyakorisága az égéstermék-elvezető használati és műszaki állapota alapján állapítható meg. Az égéstermék-elvezető használati és műszaki állapotát a kéményseprő-ipari szerv, a kéményseprő-ipari szolgáltató méri fel és ennek eredményéről az ingatlan használóját és a tűzvédelmi hatóságot értesíti.
 
 4. § (1) Kéményseprő-ipari tevékenység ellátásában az a természetes személy vehet részt, aki büntetlen előéletű és nem áll a kéményseprő-ipari szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
@@ -200,7 +202,7 @@ igényelni, továbbá kezelni.
 
 #### 5. A kéményseprő-ipari tevékenységgel kapcsolatos tűzvédelmi hatósági feladatok
 
-7. § (1) Kéményseprő-ipari szakkérdésekben a hatósági feladatokat a tűzvédelmi hatóság látja el.
+7. § (1) Kéményseprő-ipari szakkérdésekben a hatósági feladatokat a tűzvédelmi hatóság látja el a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló törvényben foglaltak alkalmazásával.
 
 (2) A tűzvédelmi hatóság hatáskörébe tartozóan
 
@@ -230,8 +232,9 @@ igényelni, továbbá kezelni.
   - aa) a kéményseprő-ipari szolgáltatónál a kéményseprő-ipari tevékenység szakmai, személyi és tárgyi feltételeinek fennállását,
   - ab) a kéményseprő-ipari szolgáltató tevékenységét,
 - b) eljár a kéményseprő-ipari tevékenységre vonatkozó szabályokat megszegő kéményseprő-ipari szolgáltatóval szemben, amely során
-  - ba) legfeljebb egymillió-ötszázezer forint összegű bírságot szabhat ki,
-  - bb) a tevékenység végzésétől jogszabályban meghatározott esetekben és időtartamban eltiltja.
+  - ba) a szabálytalanság első alkalommal történő elkövetése esetén figyelmeztetésben részesíti,
+  - bb) ugyanazon szabálytalanság ismételt elkövetése esetén legfeljebb egymillió-ötszázezer forint összegű bírságot szabhat ki,
+  - bc) a tevékenység végzésétől jogszabályban meghatározott esetekben és időtartamban eltiltja.
 
 (8) A tűzvédelmi hatóság a hatósági eljárásban ellenőrizheti azt is, hogy a kéményseprő-ipari tevékenység ellátásában a kéményseprő-ipari szolgáltatónál közreműködő természetes személy büntetlen előéletű-e és a kéményseprő-ipari tevékenységgel kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e. A hatósági eljárás céljából a tűzvédelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a kéményseprő-ipari tevékenység ellátásában a kéményseprő-ipari szolgáltatónál személyesen közreműködő személy büntetlen előéletű-e, valamint, hogy a kéményseprő-ipari tevékenységgel kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
@@ -246,7 +249,7 @@ igényelni, továbbá kezelni.
 - a) a kéményseprő-ipari tevékenységet ellátó kéményseprő-ipari szervet, valamint a kéményseprő-ipari szakkérdésben eljáró első és másodfokú tűzvédelmi hatóságot;
 - b) a kéményseprő-ipari szerv, a kéményseprő-ipari szolgáltató tevékenysége során észlelt, az élet és a vagyonbiztonság közvetlen veszélyeztetésének minősülő szabálytalanságok körét, az élet és a vagyonbiztonság közvetlen veszélyeztetése esetén az értesítendő hatóságok megjelölését, a kötelező értesítés eseteit, valamint a kötelező értesítés eljárási szabályait;
 - c) a kéményseprő-ipari szolgáltatóval és ingatlan tulajdonosával szemben kiszabható bírságon kívüli egyéb jogkövetkezmények körét, valamint a bírság és az egyéb jogkövetkezmények megállapításának elveit és az eljárás rendjét;
-- d) a 7. § szerinti tűzvédelmi hatósági feladatok részletes eljárási szabályait;
+- d) a 7. § szerinti tűzvédelmi hatósági feladatok, valamint a hatósági eljárások lefolytatása során a kéményseprő-ipari tevékenységet ellátók kötelező közreműködésének részletes szabályait;
 - e) a kéményseprő-ipari szervnek, kéményseprő-ipari szolgáltatónak az ingatlan tulajdonosa, használója értesítésével összefüggő feladatait;
 - f) a szén-monoxid-érzékelő berendezésekkel összefüggő piacfelügyeleti hatósági feladatokat ellátó szervet, valamint a szén-monoxid-érzékelő berendezéssel kapcsolatos piacfelügyeleti hatósági eljárások részletes szabályait.
 
@@ -262,8 +265,8 @@ igényelni, továbbá kezelni.
 - h) a kéményseprő-ipari tevékenységet ellátó szakmunkás szakmai képzésére, továbbképzésére vonatkozó szabályokat;
 - i) a jogszabályi kötelezés alapján felszerelt szén-monoxid-érzékelő berendezésre vonatkozó műszaki követelményeket, az ilyen szén-monoxid-érzékelő berendezés megfelelőségének igazolására, hatósági ellenőrzésére vonatkozó szabályokat;
 - j) a kéményseprő-ipari tevékenységről szóló statisztikai adatlap tartalmi követelményeit;
-- k) az égéstermék-elvezetővel kapcsolatos hatósági eljárások szabályait;
-- l) a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenység végzéséhez szükséges szakmai, személyi, tárgyi és gazdasági feltételeket, valamint a nyilvántartásba vétel eljárási rendjét és az ahhoz szolgáltatandó adatok körét és módját;
+- k)
+- l) a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenység végzéséhez szükséges szakmai, személyi, tárgyi és gazdasági feltételeket;
 - m) a 2. § (4) bekezdése szerinti feladatok 2. § (1) bekezdés b) pontja szerinti ingatlanok esetében történő elvégzésének a kéményseprő-ipari szolgáltatótól való megrendelésére vonatkozó szabályokat;
 - n) a kéményseprő-ipari szerv és a kéményseprő-ipari szolgáltató közötti, a tevékenység ellátásához szükséges adatok és dokumentumok átadásának rendjét.
 
@@ -284,7 +287,7 @@ igényelni, továbbá kezelni.
 
 (4) A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény alapján kötött, e törvény hatálybalépésekor hatályban lévő közszolgáltatási szerződés időbeli hatályát meghosszabbítani vagy ahelyett új közszolgáltatási szerződést kötni nem lehet. Nem köthető új közszolgáltatási szerződés akkor sem, ha e törvény hatálybalépésekor a közszolgáltatási szerződés már nincs hatályban.
 
-(5) Az (1) bekezdés a) pontja szerinti esetben a helyi önkormányzat a kéményseprő-ipari közszolgáltatást a 2. § (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében a közszolgáltató előzetes írásbeli értesítése szerinti első és második időpontban térítésmentesen, az előzetes írásbeli értesítés szerinti harmadik időpontban pedig a 2. § (16) bekezdése szerinti díjért biztosítja. A 2. § (1) bekezdés a) pont ac) alpontja szerinti társasházban, lakásszövetkezeti lakóépületben lévő, nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanok esetében a kéményseprő-ipari közszolgáltatásért a helyi önkormányzat rendeletében meghatározott, 2015. július 1-i állapot szerinti közszolgáltatási díjat kell fizetni, amelynek mértéke az elvégzett kéményseprő-ipari közszolgáltatás költségének az érintett ingatlanra jutó arányának felel meg. A 2. § (1) bekezdés b) pontja szerinti ingatlanok esetében a kéményseprő-ipari közszolgáltatásért a helyi önkormányzat rendeletében meghatározott, 2015. július 1-i állapot szerinti közszolgáltatási díjat kell fizetni.
+(5) Az (1) bekezdés a) pontja szerinti esetben a helyi önkormányzat a kéményseprő-ipari közszolgáltatást a 2. § (1) bekezdés a) pont aa) és ab) alpontja szerinti ingatlanok esetében a közszolgáltató sormunkáról szóló előzetes írásbeli értesítése szerinti első és második időpontban, valamint – a 3. § (6) bekezdése alapján, illetve a külön jogszabályban meghatározott gyakoriság esetén – a 2. § (5) bekezdés h) pontja szerinti megrendelés esetén térítésmentesen, a sormunkáról szóló előzetes írásbeli értesítés szerinti harmadik időpontban pedig a 2. § (16) bekezdése szerinti díjért biztosítja. A 2. § (1) bekezdés a) pont ac) alpontja szerinti társasházban, lakásszövetkezeti lakóépületben lévő, nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanok esetében a kéményseprő-ipari közszolgáltatásért a helyi önkormányzat rendeletében meghatározott, 2015. július 1-jei állapot szerinti közszolgáltatási díjat kell fizetni, amelynek mértéke az elvégzett kéményseprő-ipari közszolgáltatás költségének az érintett ingatlanra jutó arányának felel meg. A 2. § (1) bekezdés b) pontja szerinti ingatlanok esetében a kéményseprő-ipari közszolgáltatásért a helyi önkormányzat rendeletében meghatározott, 2015. július 1-jei állapot szerinti közszolgáltatási díjat kell fizetni.
 
 (6) A közszolgáltatási szerződés megszüntethető
 
@@ -326,6 +329,8 @@ az illetékes kéményseprő-ipari szerv részére – a (14) bekezdésben fogla
 (17) A kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató e törvény hatálybalépésétől nyilatkoztathatja az ingatlan használóját a helyszínen a 2. § (1) bekezdésben foglaltakról, az 5. § (2) bekezdés b) pontjában meghatározott adatokról. A kéményseprő-ipari szerv 2016. július 1-jéig, azt követően pedig a nyilatkozat-felvételt követő harminc napon belül a 2. § (1) bekezdés b) pontjába tartozó ingatlanok használóját és a kéményseprő-ipari szolgáltatót értesíti.
 
 (18) Ha a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény módosításáról szóló 2017. évi XCVII. törvény hatálybalépését megelőzően a NETtv. 22. § (1) bekezdése szerinti bérlő a sormunkát megrendelte és annak díját megfizette, a 2. § (1) bekezdés a) pont aa) alpontja szerinti esetben a megfizetett díjat a bérlő által legkésőbb 2017. szeptember 30-ig bemutatott tanúsítvány és számla ellenében, azok bemutatásától számított 30 napon belül a Nemzeti Eszközkezelő Zártkörűen Működő Részvénytársaság a bérlőnek megtéríti.
+
+10/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel módosított rendelkezéseit a rendelkezések hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 8. Az Európai Unió jogának való megfelelés
 

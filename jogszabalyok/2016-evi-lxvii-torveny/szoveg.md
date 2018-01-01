@@ -129,7 +129,11 @@ lép.
 
 #### 60. §
 
-61. § (1)
+61. § (1) A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 30. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+(A temetkezési szolgáltatási tevékenység folytatását a temetkezési szolgáltatást engedélyező hatóság annak engedélyezi,)
+
+„e) aki saját maga, gazdálkodó szervezet esetében, akinek vezető tisztségviselője rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel és megfelel az abban meghatározott feltételeknek,”
 
 (2)
 
@@ -141,7 +145,17 @@ lép.
 
 65. § (1)
 
-(2)
+(2) A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 44/B. §-a helyébe a következő rendelkezés lép:
+
+„44/B. § (1) A 2017. január 1-jén a 30. § (1) bekezdés szerinti engedéllyel rendelkező szolgáltató a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 30. § (2) bekezdés e) pontjában meghatározott feltétel meglétét 2019. július 1-jéig köteles igazolni.
+
+(2) A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 31. § szerinti nyilvántartásba a temetkezési szolgáltatást engedélyező hatóság azon személyeket veszi nyilvántartásba,
+
+a) akiknek engedélyét,
+
+b) gazdálkodó szervezet vezető tisztségviselője esetén, akinek vezetése alatt álló gazdálkodó szervezet engedélyét
+
+2016. augusztus 31-ét követően vonta vissza.”
 
 #### 66. §
 
@@ -596,7 +610,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2016. évi LXVII. törvényhez
 
-### 2. melléklet a 2016. évi LXVII. törvényhez
+### 2–4. melléklet a 2016. évi LXVII. törvényhez
 
 ### 3–4. melléklet a 2016. évi LXVII. törvényhez
 

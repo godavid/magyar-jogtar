@@ -2,7 +2,15 @@
 
 az egészségügyben működő szakmai kamarákról
 
-Az Országgyűlés az egészségügyi szakmák gyakorlóinak szakmai önkormányzathoz való jogát elismerve, annak érdekében, hogy az orvosok, a gyógyszerészek és az egészségügyi szakdolgozók– közvetlenül és az általuk választott testületek, tisztségviselők útján, demokratikusan – a törvény által meghatározott keretek között – önállóan intézzék szakmai ügyeiket,– meghatározzák és a közérdekkel összhangban képviseljék szakmai, etikai, gazdasági és szociális érdekeiket,– a Nemzeti Együttműködés Rendszerének keretei között társadalmi súlyuknak, szellemi tőkéjüknek megfelelő mértékben hozzájáruljanak az egészségpolitika alakításához, az egészségügyet érintő egyéb döntések meghozatalához, valamint a lakosság egészségügyi ellátásának javításáhoza következő törvényt alkotja:
+Az Országgyűlés az egészségügyi szakmák gyakorlóinak szakmai önkormányzathoz való jogát elismerve, annak érdekében, hogy az orvosok, a gyógyszerészek és az egészségügyi szakdolgozók
+
+– közvetlenül és az általuk választott testületek, tisztségviselők útján, demokratikusan – a törvény által meghatározott keretek között – önállóan intézzék szakmai ügyeiket,
+
+– meghatározzák és a közérdekkel összhangban képviseljék szakmai, etikai, gazdasági és szociális érdekeiket,
+
+– a Nemzeti Együttműködés Rendszerének keretei között társadalmi súlyuknak, szellemi tőkéjüknek megfelelő mértékben hozzájáruljanak az egészségpolitika alakításához, az egészségügyet érintő egyéb döntések meghozatalához, valamint a lakosság egészségügyi ellátásának javításához
+
+a következő törvényt alkotja:
 
 ### I. Fejezet — AZ EGÉSZSÉGÜGYI SZAKMAI KAMARÁK RENDSZERE
 
@@ -74,7 +82,7 @@ működik.
 
 (2) A szakmai kamara feladatkörében szakértőként véleményezi a külföldi bizonyítvány, oklevél Magyarországon történő elismerésére irányuló kérelmet, ha az oklevél a külföldi bizonyítványok és oklevelek elismeréséről szóló külön törvény alapján feltétel nélkül nem ismerhető el.
 
-(3) Az (1) és (2) bekezdések szerinti hatósági eljárásokban a szakmai kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló külön törvény szerint szakértőként vesz részt.
+(3) Az (1) és (2) bekezdések szerinti hatósági eljárásokban a szakmai kamara az általános közigazgatási rendtartásról szóló törvény szerint szakértőként vesz részt.
 
 (4) A szakmai kamara véleményezési jogot gyakorol – feladatkörének megfelelően – az egészségügyi szolgáltatók és az egészségbiztosítási szerv közötti szerződések általános szerződési feltételei és az egyedi szerződések azonos feltételei tekintetében.
 
@@ -191,7 +199,9 @@ működik.
 
 10/A. § A szakmai kamara teljes munkaidőben foglalkoztatott tisztségviselőjének munkabére és egyéb juttatásai nem haladhatják meg a kormánytisztviselőkre vonatkozó bértábla alapján megállapítható legmagasabb összeget a közszolgálati tisztviselőkről szóló törvényben foglaltak szerint.
 
-### IV. Fejezet — A TERÜLETI SZERVEZETEK ÉS AZ ORSZÁGOS SZERVEK TISZTSÉGVISELŐINEK VÁLASZTÁSA, VISSZAHÍVÁSA
+### IV. Fejezet — A TERÜLETI SZERVEZETEK
+
+ÉS AZ ORSZÁGOS SZERVEK TISZTSÉGVISELŐINEK VÁLASZTÁSA, VISSZAHÍVÁSA
 
 11. § (1) A tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a szakmai kamara tagjai közül négyéves időtartamra, titkosan választják. Azonos tisztségre a kamarai tag legfeljebb két egymást követő alkalommal választható meg.
 
@@ -387,7 +397,7 @@ adja ki.
 
 (6) Ha a tagsági viszony az (1) bekezdés b)–d) pontjai alapján szűnt meg, a kérelmező a kamara tagjai közé ismét felvehető. A kérelem benyújtásával egyidejűleg a kérelmezőnek igazolnia kell, hogy a megszüntetés oka már nem áll fenn, szabadságvesztés büntetését kitöltötte, illetőleg őt a bíróság foglalkozásának gyakorlására ismételten alkalmasnak találta. Az egészségügyi tevékenység jogszabályban meghatározott időtartamot meghaladó megszakítása esetén igazolni kell az ilyen esetre előírt vizsga sikeres letételét is.
 
-19. § A tagsági viszony felfüggesztéséről, szüneteltetéséről, illetőleg megszüntetéséről szóló döntést hozó szerv a jogerős határozatát megküldi az érintett személy egészségügyi tevékenységének megfelelő működési nyilvántartást vezető szervnek, az egészségügyi dolgozót foglalkoztató munkáltatónak, továbbá azon egészségügyi szolgáltató működési engedélyezésére jogosult szervnek, amely egészségügyi szolgáltatónál az egészségügyi dolgozó egészségügyi tevékenységet végez.
+19. § A tagsági viszony felfüggesztéséről, szüneteltetéséről, illetőleg megszüntetéséről szóló döntést hozó szerv a véglegessé vált határozatát megküldi az érintett személy egészségügyi tevékenységének megfelelő működési nyilvántartást vezető szervnek, az egészségügyi dolgozót foglalkoztató munkáltatónak, továbbá azon egészségügyi szolgáltató működési engedélyezésére jogosult szervnek, amely egészségügyi szolgáltatónál az egészségügyi dolgozó egészségügyi tevékenységet végez.
 
 19/A. § (1) A szakmai kamara a tagnyilvántartási adatok körében, a 2. § m) pontjában, valamint a 2/A. és 2/B. §-ban meghatározott feladatai ellátása céljából kezeli
 
@@ -453,7 +463,7 @@ is közli.
 (5) Az etikai eljárásra – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell megfelelően alkalmazni azzal, hogy
 
 - a) nem alkalmazhatók a törvénynek
-  - aa) hatósági közvetítőre,
+  - aa)
   - ab) eljárási költség viselésére,
   - ac) költségmentességre,
   - ad) vonatkozó rendelkezései, továbbá
@@ -463,7 +473,7 @@ is közli.
 
 (2) Kizárási okot a fellebbezésre jogosult az eljárás bármely szakaszában bejelenthet. A kizárási okot az etikai bizottság elnökének, a területi szervezet etikai bizottsága elnökével szembeni kizárási okot az országos etikai bizottság elnökének, az országos etikai bizottság elnökével szembeni kizárási okot az országos elnökség elnökének kell bejelenteni, aki döntést hoz az eljárásból való kizárás tárgyában.
 
-(3) A másodfokú határozat ellen a fellebbezés benyújtására jogosultak kérhetnek bírósági felülvizsgálatot.
+(3)
 
 (4) Ha az etikai eljárás során bizonyítást nyer, hogy a panaszos az eljárással összefüggésben nyilvánvalóan rosszhiszemű volt, az eljáró etikai szerv őt – ha egyes költségek tekintetében törvény másként nem rendelkezik – a rosszhiszeműségre tekintettel indokolatlanul felmerült eljárási költségek viselésére kötelezi.
 
@@ -522,21 +532,7 @@ is közli.
 
 (2) Amennyiben a miniszter azt állapítja meg, hogy az alapszabály jogszabálysértő, illetve más kamarai szabályzat vagy kamarai szerv, illetve tisztségviselő határozata jogszabálysértő vagy alapszabály-ellenes (a továbbiakban együtt: jogsértő), megfelelő határidő kitűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szerv (tisztségviselő) köteles – a miniszter felhívásában megadott határidőn belül – a jogsértést megszüntetni vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3) Ha az érintett kamarai szerv (tisztségviselő) a jogsértést nem szüntette meg, a miniszter – a felhívásban megadott határidő lejártától számított 30 napon belül – a polgári perrendtartásról szóló törvénynek a közigazgatási perekre irányadó szabályai szerint bírósághoz fordulhat. A keresetlevelet országos kamarai szerv vagy tisztségviselőjének jogsértése esetén az országos kamarai szervvel, területi szervezet, illetőleg tisztségviselőjének jogsértése esetén az illetékes területi szervezettel szemben kell benyújtani.
-
-(4) Ha a bíróság a (3) bekezdés alapján indított eljárás eredményeként a jogsértést megállapítja,
-
-- a) a jogszabálysértő alapszabályt, a jogsértő más szabályzatot vagy határozatot, illetve annak jogsértő részét hatályon kívül helyezi, és új döntés meghozatalát rendeli el,
-- b) a működés törvényességének helyreállítása céljából elrendelheti a jogsértés orvoslására vagy a jogsértően működő kamarai szerv (tisztségviselő) választására jogosult kamarai szerv összehívását,
-- c) a jogsértő kamarai szerv (tisztségviselő) tevékenységét felfüggesztheti, vagy a kamarai szerv ellenőrzésére – a kamarai tagok közül – felügyelőbiztost rendelhet ki, ha a működés törvényessége másként nem biztosítható.
-
-(5) A (4) bekezdésben meghatározott intézkedések közül a bíróság az adott esetben leginkább megfelelő bármely intézkedést alkalmazhatja, illetve több intézkedés együttes alkalmazását is elrendelheti.
-
-(6) A (4) bekezdés c) pontja szerinti felügyelőbiztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a küldöttközgyűlést. A felügyelőbiztost kirendelő bíróság a jogszerűség helyreállítására határidőt szabhat, a felügyelőbiztos feladatait meghatározhatja, szükség szerint – a felügyelőbiztos felmentésével vagy anélkül – új felügyelő biztost rendelhet ki.
-
-(7) A felügyelőbiztos tevékenységéről és annak eredményéről tájékoztatja a kirendelő bíróságot és a minisztert. A felügyelőbiztos költségtérítését a bíróság állapítja meg, és az ellenőrzött kamarai szerv viseli.
-
-(8) Nem rendelhető ki felügyelőbiztosként az, aki a szakmai kamarában tisztséget nem viselhet, valamint az sem, akit az ellenőrzött kamarai szerv közvetlenül irányít. A felügyelőbiztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható, illetőleg e tevékenységéért vele szemben hátrányos kamarai jogkövetkezmény nem alkalmazható.
+(3)–(8)
 
 (9) A szakmai kamarák az alapszabály, valamint az etikai kódex elfogadásáról vagy módosításáról hozott döntést hivatalból, az egyéb határozatot pedig felhívásra – az elfogadástól, illetőleg a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátják.
 
@@ -546,7 +542,7 @@ is közli.
 
 ### VIII. Fejezet
 
-28. §
+#### 28. §
 
 ### IX. Fejezet — VEGYES ÉS ÁTMENETI RENDELKEZÉSEK
 
@@ -585,12 +581,16 @@ fedezik.
 
 31. § A 11. § (1) bekezdése szerinti korlátozás szempontjából a 2011. április 1. előtt betöltött tisztséget nem kell tekintetbe venni, a korlátozást a 2011. április 1-jét követő első alkalommal történő megválasztástól kell számítani.
 
-32–33. §
+#### 32. §
 
-33/A–33/B. §
+#### 33. §
 
-33/C. §
+#### 33/A. §
+
+#### 33/B. §
+
+#### 33/C. §
 
 34. § Felhatalmazást kap az egészségügyért felelős miniszter, hogy az Eütv. szerinti kötelező továbbképzés szervezője tevékenységének az egészségügyben működő szakmai kamarák általi rendszeres minősítésére, a minősítés közzétételére és a minősítés alapján megtehető javaslattételre vonatkozó részletes szabályokat rendeletben megállapítsa.
 
-35. §
+#### 35. §

@@ -108,9 +108,9 @@ bocsát ki.
 
 (5) Az (1) és (2) bekezdésben meghatározott díjkedvezmény a beruházással érintett környezetterhelő anyag és a beruházással érintett telephely vonatkozásában vehető igénybe.
 
-(6) A vízterhelési díjkedvezmény igénybevételének feltétele a beruházásra vonatkozó jogerős elvi vízjogi vagy vízjogi létesítési engedély, illetve a levegőterhelési díj esetében a beruházásra vonatkozó jogerős létesítési engedély megléte.
+(6) A vízterhelési díjkedvezmény igénybevételének feltétele a beruházásra vonatkozó véglegessé vált elvi vízjogi vagy vízjogi létesítési engedély, illetve a levegőterhelési díj esetében a beruházásra vonatkozó véglegessé vált létesítési engedély megléte.
 
-(7) A díjkedvezmény első alkalommal a (6) bekezdésben meghatározott engedély jogerőre emelkedését követő díjelőleg fizetésénél vehető igénybe.
+(7) A díjkedvezmény első alkalommal a (6) bekezdésben meghatározott engedély véglegessé válását követő díjelőleg fizetésénél vehető igénybe.
 
 ### A levegőterhelési díj, a vízterhelési díj és a vízjogi engedély hatálya alá tartozó tevékenységhez kapcsolódó talajterhelési díj befizetése
 
@@ -152,7 +152,7 @@ bocsát ki.
 
 ### Egyes jogkövetkezmények
 
-22. § Amennyiben a kibocsátó a 15. §-ban meghatározott beruházást a kivitelezési engedélyben meghatározott határidőig, illetve legfeljebb a jogerős engedély kiadásától számított öt évig nem helyezi üzembe, úgy a díjkedvezményt a mindenkori jegybanki alapkamat kétszeresével növelt összegben kell visszafizetnie.
+22. § Amennyiben a kibocsátó a 15. §-ban meghatározott beruházást a kivitelezési engedélyben meghatározott határidőig, illetve legfeljebb a véglegessé vált engedély kiadásától számított öt évig nem helyezi üzembe, úgy a díjkedvezményt a mindenkori jegybanki alapkamat kétszeresével növelt összegben kell visszafizetnie.
 
 23. §
 
@@ -160,7 +160,7 @@ bocsát ki.
 
 24. § A levegőterhelési díjjal, a vízterhelési díjjal, a vízjogi engedély alapján végzett tevékenységéhez kapcsolódó talajterhelési díjjal kapcsolatos adóztatási feladatokat az állami adóhatóság, a helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatos adóztatási feladatokat az illetékes önkormányzati adóhatóságok látják el.
 
-25. § A környezetterhelési díj megfizetésére, bevallására, az ehhez kapcsolódó jogkövetkezményekre, a megállapításához és a beszedéséhez való jog elévülésére, pénzügyi ellenőrzésére, valamint végrehajtására az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
+25. § A környezetterhelési díj megfizetésére, bevallására, az ehhez kapcsolódó jogkövetkezményekre, a megállapításához és a beszedéséhez való jog elévülésére, pénzügyi ellenőrzésére, valamint végrehajtására az e törvényben nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény, az adózás rendjéről szóló törvény, az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezéseit kell alkalmazni.
 
 ### Átmeneti és záró rendelkezések
 

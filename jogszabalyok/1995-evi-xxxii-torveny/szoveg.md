@@ -47,7 +47,8 @@ a szabadalmi ügyvivőkről
 - b) aki a Kamarából kizárás fegyelmi büntetés hatálya alatt áll,
 - c) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll,
 - d) aki iparjogvédelmi ügyekben eljáró hatóságnál vagy bíróságnál működik,
-- e) akivel szemben a 14. § (1) bekezdésében foglalt összeférhetetlenségi ok áll fenn, és azt nem szünteti meg.
+- e) akivel szemben a 14. § (1) bekezdésében foglalt összeférhetetlenségi ok áll fenn, és azt nem szünteti meg,
+- f) az erről szóló határozat jogerőre emelkedését követő három évig az, akivel szemben jogerősen megállapították, hogy jogosulatlanul folytatott rendszeresen és ellenérték fejében szabadalmi ügyvivői tevékenységet.
 
 (5) A szabadalmi ügyvivői címet csak a Kamara tagja használhatja.
 
@@ -74,14 +75,14 @@ a szabadalmi ügyvivőkről
 
 (3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a Kamara
 
-- a) a tagfelvétel iránti eljárás jogerős befejezéséig,
-- b) a szabadalmi ügyvivő Kamarába való felvétele esetén a hatósági ellenőrzés időtartamára, vagy a kamarai tagsági viszony megszüntetésére irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) a tagfelvétel iránti eljárás végleges befejezéséig,
+- b) a szabadalmi ügyvivő Kamarába való felvétele esetén a hatósági ellenőrzés időtartamára, vagy a kamarai tagsági viszony megszüntetésére irányuló eljárásban az eljárás végleges befejezéséig kezeli.
 
 3. § (1) A szabadalmi ügyvivőnek a kamarai felvételétől számított egy hónapon belül a Kamara elnöke előtt esküt kell tennie.
 
 (2) A szabadalmi ügyvivői eskü szövege a következő: „Én, (az eskütevő neve) fogadom, hogy Magyarországhoz és annak Alaptörvényéhez hű leszek, jogszabályait megtartom, szabadalmi ügyvivői hivatásomat azokkal összhangban gyakorolom. Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint, ügyfelem érdekében eljárva teljesítem, az ennek során tudomásomra jutott titkot megőrzöm. (Az eskütevő meggyőződése szerint) Isten engem úgy segéljen!”
 
-(2a)
+(2a) A szabadalmi ügyvivő tevékenységét az eskü letétele után kezdheti meg.
 
 (3) Ha a szabadalmi ügyvivő nem magyar állampolgár, működését a (2) bekezdésben foglalttól a szükséges mértékben eltérő, a Kamara által megállapított szövegű eskü letételét követően kezdheti meg.
 
@@ -95,7 +96,7 @@ a szabadalmi ügyvivőkről
 
 (2) A vizsgát a Szellemi Tulajdon Nemzeti Hivatala mellett létrehozott Szabadalmi Ügyvivői Vizsgabizottság előtt kell letenni.
 
-(3) A vizsgára bocsátásra irányuló kérelmet a Szabadalmi Ügyvivői Vizsgabizottság elnökéhez kell benyújtani, aki a kérelem ügyében a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el. A vizsgára bocsátásra irányuló eljárásban a 30. § (2)–(3) és a (10)–(11) bekezdéseit megfelelően alkalmazni kell.
+(3) A vizsgára bocsátásra irányuló kérelmet a Szabadalmi Ügyvivői Vizsgabizottság elnökéhez kell benyújtani, aki a kérelem ügyében az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el. A vizsgára bocsátásra irányuló eljárásban a 30. § (2)–(3) és a (10)–(11) bekezdéseit megfelelően alkalmazni kell.
 
 (4) A szabadalmi ügyvivői vizsgára vonatkozó részletes rendelkezéseket külön jogszabály állapítja meg.
 
@@ -230,9 +231,9 @@ a szabadalmi ügyvivőkről
 
 ### Szabadalmi ügyvivő foglalkoztatása gazdálkodó szervezetnél
 
-12. § (1) A gazdálkodó szervezetnek — teljes vagy részmunkaidős munkaviszonyban, közalkalmazotti vagy tagsági jogviszonyban — a 6. § (2) bekezdése szerint foglalkoztatott szabadalmi ügyvivője e jogviszonya alapján, külön meghatalmazás nélkül képviseli iparjogvédelmi ügyekben a gazdálkodó szervezetet.
+12. § (1) A gazdálkodó szervezetnek – teljes vagy részmunkaidős munkaviszonyban, a kormányzati szolgálati, a közszolgálati, az állami szolgálati, a közalkalmazotti, a rendvédelmi feladatokat ellátó szerveknél fennálló hivatásos szolgálati, a hivatásos vagy szerződéses katonai szolgálati jogviszonyban vagy tagsági jogviszonyban – a 6. § (2) bekezdése szerint foglalkoztatott szabadalmi ügyvivője e jogviszonya alapján, külön meghatalmazás nélkül képviseli iparjogvédelmi ügyekben a gazdálkodó szervezetet.
 
-(2) A gazdálkodó szervezet szabadalmi ügyvivője — ha a gazdálkodó szervezet ebben nem korlátozza — a 6. § (1) bekezdésében meghatározott keretek között és az azokra meghatározott feltételek szerint ügyfelek képviseletével is foglalkozhat.
+(2) A gazdálkodó szervezet szabadalmi ügyvivője – ha a gazdálkodó szervezet ebben nem korlátozza – a 6. § (1) bekezdésében meghatározott keretek között és az azokra meghatározott feltételek szerint ügyfelek képviseletével is foglalkozhat.
 
 ### A szabadalmi ügyvivő kötelezettségei
 
@@ -240,31 +241,129 @@ a szabadalmi ügyvivőkről
 
 (2) A szabadalmi ügyvivő bíróság vagy egyéb hatóság előtti eljárása során a Kamara által kiállított fényképes hatósági igazolvánnyal igazolja magát.
 
-14. § (1) A szabadalmi ügyvivő tudományos, művészeti, irodalmi, oktatási és sporttevékenység, valamint alkalmazott ügyvédi, jogtanácsosi, jogi előadói vagy ügyvédjelölti tevékenység kivételével nem állhat munkaviszonyban, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyban, és ezek, valamint az ügyvédi, a választottbírói, a közvetítői, továbbá munkaviszonynak, közszolgálati és közalkalmazotti jogviszonynak nem minősülő közéleti tevékenység, igazgatósági és felügyelőbizottsági tagság, kuratóriumi tagság és tisztségviselés kivételével nem folytathat más keresőfoglalkozást.
+14. § (1) A szabadalmi ügyvivői tevékenység gyakorlásával összeférhetetlen
 
-(2) Aki korábban iparjogvédelmi ügyekben eljáró bíróságnál bíró volt, e jogviszonyának megszűnése után egy évig nem járhat el szabadalmi ügyvivőként annál a bíróságnál, amelynél működött.
+- a) az e törvényben meghatározott kivétellel a munkaviszony, a kormányzati szolgálati, a közszolgálati, az állami szolgálati, a közalkalmazotti, a rendvédelmi feladatokat ellátó szerveknél fennálló hivatásos szolgálati, a hivatásos vagy szerződéses katonai szolgálati jogviszony, továbbá a közjegyzői, bírósági végrehajtói jogállás,
+- b) a szabadalmi ügyvivői társaságon kívül más gazdasági társaságban a korlátlan felelősséggel járó tagsági jogviszony,
+- c) minden más, munkavégzési kötelezettséggel járó és ellenérték fejében végzett tevékenység.
 
-15. § (1) A szabadalmi ügyvivőt – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli minden olyan tény vagy adat tekintetében, amelyről szabadalmi ügyvivői működése során szerzett tudomást; e kötelezettsége szabadalmi ügyvivői működésének megszűnése után is fennmarad.
+(2) A választott közjogi tisztségviselői megbízatás – ideértve a helyi önkormányzat és a nemzetiségi önkormányzat tisztségviselője vagy tagja, valamint az általa létrehozott bizottság tisztségviselője vagy tagja megbízatását is – a szabadalmi ügyvivői tevékenység gyakorlásával akkor összeférhetetlen, ha a tisztségviselő jogállását szabályozó törvény így rendelkezik.
 
-(2) A titoktartási kötelezettség kiterjed a szabadalmi ügyvivő olyan irataira is, amelyek a szabadalmi ügyvivői titoktartás körébe eső tényeket vagy adatokat tartalmaznak. A szabadalmi ügyvivőnél folytatott hatósági vizsgálat során a szabadalmi ügyvivő nem tárhatja fel a megbízójára vonatkozó iratokat és adatokat, de a hatóság eljárását nem akadályozhatja.
+14/A. § (1) Nem esik a 14. § (1) bekezdés c) pont szerinti tilalom alá
 
-(3) Az ügyfél, illetőleg jogutódja a titoktartási kötelezettség alól felmentést adhat.
+- a) az oktatói tevékenység,
+- b) a tudományos, művészeti és sporttevékenység,
+- c) a mezőgazdasági őstermelői tevékenység,
+- d) az önkéntes tartalékos szolgálati viszony,
+- e) a nevelőszülői foglalkoztatási jogviszony,
+- f) a választottbírói tevékenység,
+- g) a jogi, mérnöki, informatikai vagy más, egészségügyi, természettudományos szakfordítói, tolmácsolási tevékenység,
+- h) a nem igazságügyi szakértői tevékenység,
+- i) a választási bizottsági tagság,
+- j) a belső adatvédelmi felelősi tevékenység,
+- k) a végelszámolói feladat ellátása,
+- l) a felügyelőbizottsági, számvizsgáló bizottsági feladat ellátása,
+- m) a gazdasági társaság vezető tisztségviselőkből álló ügyvezető testületének tagja vagy elnöke feladatának ellátása,
+- n) az m) pont alá nem eső jogi személy vezető tisztségviselője feladatának ellátása,
+- o) az ügyvédi, alkalmazott ügyvédi, kamarai jogtanácsosi, ügyvédjelölti, ügyvédi kamarai nyilvántartásba vett jogi előadói tevékenység,
+- p) közvetítői eljárásban vagy büntetőügyekben folytatott közvetítői tevékenység.
 
-(4) A titoktartási kötelezettség az egyéni szabadalmi ügyvivőkre és alkalmazottaikra, a szabadalmi ügyvivői irodákra és alkalmazottaikra, szabadalmi ügyvivői társaságokra és alkalmazottaikra, a Magyar Szabadalmi Ügyvivői Kamarára, annak tisztségviselőire és alkalmazottaira is kiterjed.
+(2) A szabadalmi ügyvivő az oktatói és tudományos tevékenységet munkaviszonyban, közalkalmazotti jogviszonyban, rendvédelmi feladatokat ellátó szerveknél fennálló hivatásos szolgálati, hivatásos vagy szerződéses katonai szolgálati viszonyban is elláthatja.
 
-### Az ügyfélképviselet szabályai
+(3) Az e § szerinti tevékenység a szabadalmi ügyvivői tevékenység gyakorlásától minden szempontból elkülönítve, úgy folytatható, hogy az ne veszélyeztesse a szabadalmi ügyvivői tevékenység gyakorlásának a függetlenségét. Az e § szerinti tevékenységeket a szabadalmi ügyvivői tevékenység gyakorlója nem szabadalmi ügyvivőként, hanem az adott tevékenységre irányadó jogszabályban meghatározott formában folytathatja.
 
-16. § (1) Az ügyfelek képviseletével foglalkozó szabadalmi ügyvivő [6. § (1) bekezdés] ügyfelével szemben mástól nem vállalhat megbízást, volt ügyfelével szemben pedig csak akkor, ha az nincs kapcsolatban volt ügyfelének általa korábban ellátott ügyével.
+(4) Az (1) bekezdés h), m) és n) pontjában meghatározott tevékenység és a szabadalmi ügyvivői tevékenység ugyanazon ügyfél számára nem végezhető, kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság, a megbízás teljesítésében a szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság (1) bekezdés h), m) és n) pontjában meghatározott tevékenységet folytató tagja nem vesz részt, és az ügyfél ehhez írásban kifejezetten hozzájárul.
 
-(2) A szabadalmi ügyvivő nem köteles a megbízást elvállalni; ha a megbízást elhárítja, ezt a megbízóval haladéktalanul közölnie kell.
+14/B. § (1) Az összeférhetetlenségi ok bekövetkezését meg kell előzni.
 
-(3) A szabadalmi ügyvivő a már elfogadott megbízást írásban bármikor felmondhatja, az ügyfél értesítésének napjától számított tizenötödik napra; a szabadalmi ügyvivő a felmondási idő alatt is köteles megtenni azokat az intézkedéseket, amelyek az ügyfél jogainak és jogos érdekeinek megóvásához szükségesek.
+(2) Az összeférhetetlenségi okot a szabadalmi ügyvivői tevékenység gyakorlójának haladéktalanul, de legkésőbb a bekövetkezésétől számított
 
-(4) Az ügyfél a megbízást bármikor korlátozhatja vagy azonnali hatállyal felmondhatja.
+- a) tizenöt napon belül a Kamarának – a szabadalmi ügyvivői titok megsértése nélkül – be kell jelentenie, valamint
+- b) harminc napon belül meg kell szüntetnie.
 
-(5) A megbízás – a felmondás esetén kívül – megszűnik a megbízás teljesítésével, valamint az ügyfél halálával, illetve a megbízó jogi személy jogutód nélküli megszűnésével.
+(3) Az összeférhetetlenségi ok megszüntetéséig szabadalmi ügyvivői tevékenység az ügyfél nyilvánvaló és közvetlen, másképp el nem hárítható károsodástól való megóvása kivételével nem folytatható.
 
-(6) Az ügyfél halála, illetőleg a megbízó jogi személy jogutód nélküli megszűnése esetén a szabadalmi ügyvivő haladéktalanul értesíti azokat az általa ismert személyeket, akiknek a megbízással kapcsolatban jogaik vagy kötelezettségeik keletkezhetnek; ezt, valamint a képviseleti megbízás bármelyik fél részéről történt felmondását a szabadalmi ügyvivő haladéktalanul bejelenti annak a bíróságnak vagy egyéb hatóságnak is, amelyik előtt az eljárás folyamatban van.
+15. § (1) Szabadalmi ügyvivői titoknak minősül minden olyan tény, információ és adat, amelyről a szabadalmi ügyvivői tevékenység gyakorlója e tevékenysége gyakorlása során szerzett tudomást.
+
+(2) Ha e törvény eltérően nem rendelkezik, a szabadalmi ügyvivői tevékenység gyakorlója köteles a szabadalmi ügyvivői titkot megtartani. E titoktartási kötelezettség kiterjed a szabadalmi ügyvivői titkot tartalmazó iratra vagy más adathordozóra is.
+
+(3) A szabadalmi ügyvivői tevékenység gyakorlója a szabadalmi ügyvivői titokról való tanúvallomás tételét és adatszolgáltatás teljesítését bármely hatósági és bírósági eljárásban köteles megtagadni, kivéve, ha a titoktartási kötelezettsége alól felmentést kapott a szabadalmi ügyvivői titokról rendelkezni jogosulttól.
+
+(4) A szabadalmi ügyvivői tevékenység gyakorlójának titoktartási kötelezettsége független a szabadalmi ügyvivői tevékenység folytatására létrejött jogviszony fennállásától, és az szabadalmi ügyvivői tevékenység gyakorlásának a befejezése vagy a jogviszony megszűnése után is határidő nélkül fennmarad.
+
+15/A. § (1) Ha törvény eltérően nem rendelkezik, a szabadalmi ügyvivői tevékenység gyakorlóját nem terheli titoktartási kötelezettség azon ügyfél irányába, akinek a javára végzett szabadalmi ügyvivői tevékenység keretében a szabadalmi ügyvivői titok a tudomására jutott. Ha a szabadalmi ügyvivői titok tárgya másik szabadalmi ügyvivői tevékenységet gyakorló személytől kapott információ, ezt a szabadalmi ügyvivői tevékenység gyakorlója az ügyben érintett saját ügyfele számára akkor nem tárhatja fel, ha az információt átadó ezt kifejezetten megtiltotta. Az alkalmazott szabadalmi ügyvivőt nem terheli titoktartási kötelezettség azon munkáltatója irányába sem, amellyel fennálló munkaviszonya keretében a szabadalmi ügyvivői titok a tudomására jutott, továbbá e munkáltatója, illetve az ügyfele által meghatározott személyek irányába sem.
+
+(2) A szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság titoktartási kötelezettsége az iroda, illetve a társaság tagjaira is kiterjed, azonban a tagokat egymással szemben nem terheli titoktartási kötelezettség. Ha törvény az ugyanazon ügyfél vagy egymással ellenérdekű ügyfelek számára együttesen végezhető tevékenységeket korlátozza, de szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői társaság megbízása esetében megengedi, hogy a megbízásokat az iroda, illetve a társaság különböző tagjai ellássák, e tagok egymással szemben is titoktartásra kötelesek, és biztosítaniuk kell, hogy az iroda, illetve a társaság ugyanazon alkalmazottja vagy megbízottja az érintett ügyek közül csak az egyikkel kapcsolatosan vehessen részt a feladat ellátásában.
+
+(3) A szabadalmi ügyvivői tevékenység gyakorlóját nem terheli titoktartási kötelezettség alkalmazottjával szemben.
+
+(4) A szabadalmi ügyvivői tevékenység gyakorlóját nem terheli titoktartási kötelezettség az alkalmazott szabadalmi ügyvivőjével szemben, valamint – az általuk nyújtott szolgáltatás nyújtásához szükséges mértékben – az alábbi személyek irányában:
+
+- a) a szabadalmi ügyvivői titkot tartalmazó adathordozó tárolását, archiválását, őrzését vagy az abban foglalt adatok feldolgozását végző személy, valamint a szabadalmi ügyvivői tevékenység gyakorlója által adatfeldolgozóként igénybe vett más közreműködő,
+- b) a szabadalmi ügyvivői tevékenység gyakorlója számára számviteli szolgáltatást nyújtó személy,
+- c) azok a szabadalmi ügyvivői megbízás teljesítésében közreműködő személyek, illetve a megbízás teljesítéséhez kapcsolódóan igénybe vett egyéb személyek, akiknek közreműködését, illetve igénybevételét az ügyfél jóváhagyta.
+
+15/B. § (1) A szabadalmi ügyvivői titoktartási kötelezettség a 15/A. § (3) és (4) bekezdése alapján a szabadalmi ügyvivői titok megismerésére jogosult személyekre is kiterjed.
+
+(2) A kamarai szervek és tisztségviselők az e törvényben meghatározott feladat- és hatáskörük gyakorlása során megismert szabadalmi ügyvivői titkot kötelesek megtartani.
+
+(3) A bíróságok és hatóságok az eljárásuk során megismert szabadalmi ügyvivői titkot az eljárásukra vonatkozó törvényben meghatározott keretek között kezelhetik és használhatják fel.
+
+15/C. § (1) A szabadalmi ügyvivői titokkal az ügyfél vagy jogutódja jogosult rendelkezni.
+
+(2) Az e törvény szerinti fegyelmi és hatósági ügyben, az eljárás lefolytatásához szükséges körben a szabadalmi ügyvivői tevékenység gyakorlója az eljáró kamarai szervek és bíróság előtt a szabadalmi ügyvivői titkot feltárhatja.
+
+(3) A szabadalmi ügyvivői tevékenység gyakorlója az ellene indult büntetőeljárásban a védekezéshez való jogának érvényesüléséhez szükséges mértékben a szabadalmi ügyvivői titkot feltárhatja.
+
+(4) A szabadalmi ügyvivői tevékenység gyakorlója a nem az ügyfele által a sérelmére vagy az ügyfele sérelmére elkövetett bűncselekmény felderítéséhez és bizonyításához szükséges mértékben – az ügyfele sérelmére elkövetett bűncselekmény esetében az ügyfele hozzájárulásával – a szabadalmi ügyvivői titkot feltárhatja.
+
+(5) A szabadalmi ügyvivői titokról rendelkezni jogosult kérelmére vagy kezdeményezésére a szabadalmi ügyvivői titoktartásra kötelezett ellen indult bírósági, hatósági vagy más közhatalmi eljárásban a szabadalmi ügyvivői titoktartásra kötelezett a védekezéshez szükséges mértékben a szabadalmi ügyvivői titkot feltárhatja.
+
+15/D. § (1) A szabadalmi ügyvivői titoktartásra kötelezett a nála folytatott hatósági ellenőrzés, szemle vagy helyszíni kutatás során nem tárhatja fel a szabadalmi ügyvivői titkot tartalmazó iratokat és adatokat, a szabadalmi ügyvivői titokkal kapcsolatosan tanúvallomásra és adatszolgáltatás teljesítésére nem kötelezhető, de a hatóság eljárását nem akadályozhatja.
+
+### A szabadalmi ügyvivői tevékenység folytatásának korlátai; az ügyfélképviselet szabályai
+
+16. § (1) A szabadalmi ügyvivő nem vállalhatja szabadalmi ügyvivői tevékenység végzését olyan ügyfelek számára, akiknek az érdekei egymással ütköznek, továbbá akkor sem, ha az ügyfél érdekei a szabadalmi ügyvivőnek az ügyön kívüli saját érdekeivel ütköznek. E tilalom akkor is alkalmazandó, ha az érdekek jövőbeli ütközése előrelátható.
+
+(2) A szabadalmi ügyvivő nem vállalhatja szabadalmi ügyvivői tevékenység végzését olyan ügyben, amelyben korábban eljárt
+
+- a) közhatalmi hatáskör gyakorlásával közvetlenül összefüggő feladat ellátására létesített korábbi jogviszonya keretében,
+- b) közjegyzőként, közjegyzőhelyettesként, bírósági végrehajtóként, végrehajtó-helyettesként, vagy
+- c) közvetítőként, választottbíróként vagy egyéb vitarendezési minőségben, kivéve a közvetítés eredményeként létrejött egyezség okiratba foglalását és kapcsolódó eljárásokban való jogi képviseletet.
+
+(3) A szabadalmi ügyvivő nem láthat el képviseletet azon közhatalmi hatáskört gyakorló szerv vagy jogutódja által folytatott közhatalmi eljárásban, amellyel közhatalmi hatáskör gyakorlásával közvetlenül összefüggő feladat ellátására létesített jogviszonyban állt, valamint amelynek az irányításával vagy felügyeletével közvetlenül összefüggő feladat ellátására létesített jogviszonyban állt, e jogviszonya megszűnését követő két évig.
+
+(4) A szabadalmi ügyvivő nem folytathat olyan szabadalmi ügyvivői tevékenységet, amely összeütközésbe kerülne korábbi ügyfelével szemben vállalt kötelezettségével, kivéve, ha a korábbi és az új ügy között nincs összefüggés, vagy ha a korábbi ügyfél ehhez – a tájékoztatását követően – hozzájárult.
+
+(5) Korábbi munkáltatójával szemben a szabadalmi ügyvivő akkor folytathat szabadalmi ügyvivői tevékenységet, ha a munkavégzésre irányuló jogviszony legalább három éve megszűnt, és az ügy intézésében nem vett részt. A korábbi munkáltató e korlátozás alól felmentést adhat vagy versenytilalmi megállapodás ettől eltérően rendelkezhet.
+
+(6) Ha két vagy több ügyfél érdekei összeütközésbe kerülnek vagy kerülhetnek, az (1) bekezdésben foglalt tilalom nem vonatkozik a szabadalmi ügyvivőre, ha
+
+- a) az ügyfeleknek az üggyel kapcsolatosan vannak azonos érdekeik,
+- b) az ügyfelek az összeütközés tudatában belegyezésüket adták ahhoz, hogy a szabadalmi ügyvivő a másik ügyfél javára is vállalhassa a szabadalmi ügyvivői tevékenység végzését,
+- c) a szabadalmi ügyvivői titoktartási kötelezettség megsértésének veszélye nem áll fenn, és
+- d) a szabadalmi ügyvivő észszerűen feltételezheti, hogy az érdekek összeütközése nem akadályozza meg abban, hogy mindegyik ügyfél érdekeit a lehető legjobban képviselje.
+
+(7) A szabadalmi ügyvivő az ügyfelek érdekei összeütközésének lehetőségét a megbízás elvállalása után is folyamatosan köteles vizsgálni. Ha ennek során azt állapítja meg, hogy az (1) bekezdés alapján a szabadalmi ügyvivői tevékenység nem lenne vállalható egyidejűleg két vagy több ügyfél vonatkozásában, vagy a (6) bekezdésben foglalt feltételek nem teljesülnek, mindegyik érintett ügyféllel köteles az összeférhetetlen ügyre a megbízást megszüntetni.
+
+16/A. § (1) Ha a 16. § szerinti valamely korlátozó ok
+
+- a) a szabadalmi ügyvivői iroda vagy a szabadalmi ügyvivői társaság valamely tagja, vagy
+- b) az egyéni szabadalmi ügyvivővel, a szabadalmi ügyvivő irodával vagy a szabadalmi ügyvivői társasággal munkaviszonyban álló, szabadalmi ügyvivői tevékenységet folytató valamely alkalmazott vonatkozásában áll fenn, akkor a korlátozás az egyéni szabadalmi ügyvivőre, a teljes szabadalmi ügyvivői irodára, illetve a szabadalmi ügyvivői társaságra vonatkozik.
+
+(2) A 16. § (3) bekezdése szerinti korlátozás esetén az (1) bekezdést nem kell alkalmazni, de e körülmények fennállásáról az ügyfelet és a közhatalmi hatáskört gyakorló szervet haladéktalanul értesíteni kell.
+
+(3) Az (1) bekezdést nem kell alkalmazni, ha az egyes megbízásokat különböző szabadalmi ügyvivői tevékenységet folytató természetes személyek közreműködésével látják el, a különböző közreműködők között biztosított a szabadalmi ügyvivői titoktartás, és az ügyfél ehhez írásban kifejezetten hozzájárult.
+
+16/B. § (1) A szabadalmi ügyvivő nem köteles a megbízást elvállalni; ha a megbízást elhárítja, ezt a megbízóval haladéktalanul közölnie kell.
+
+(2) A szabadalmi ügyvivő a már elfogadott megbízást írásban bármikor felmondhatja, az ügyfél értesítésének napjától számított tizenötödik napra; a szabadalmi ügyvivő a felmondási idő alatt is köteles megtenni azokat az intézkedéseket, amelyek az ügyfél jogainak és jogos érdekeinek megóvásához szükségesek.
+
+(3) Az ügyfél a megbízást bármikor korlátozhatja vagy azonnali hatállyal felmondhatja.
+
+(4) A megbízás – a felmondás esetén kívül – megszűnik a megbízás teljesítésével, valamint az ügyfél halálával, illetve a megbízó jogi személy jogutód nélküli megszűnésével.
+
+(5) Az ügyfél halála, illetőleg a megbízó jogi személy jogutód nélküli megszűnése esetén a szabadalmi ügyvivő haladéktalanul értesíti azokat az általa ismert személyeket, akiknek a megbízással kapcsolatban jogaik vagy kötelezettségeik keletkezhetnek; ezt, valamint a képviseleti megbízás bármelyik fél részéről történt felmondását a szabadalmi ügyvivő haladéktalanul bejelenti annak a bíróságnak vagy egyéb hatóságnak is, amelyik előtt az eljárás folyamatban van.
 
 17. § (1) A szabadalmi ügyvivői megbízást — a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság nevében is — maga a szabadalmi ügyvivő vállalja el, és ő köti meg a szabadalmi ügyvivői díjazásra vonatkozó megállapodást.
 
@@ -272,7 +371,7 @@ a szabadalmi ügyvivőkről
 
 (3) Az ügyfelek képviseletével foglalkozó szabadalmi ügyvivő köteles a bíróság vagy egyéb hatóság kirendelése alapján pártfogó szabadalmi ügyvivőként, ügygondnokként vagy eseti gondnokként az ügyfél képviseletét ellátni; indokolt esetben a szabadalmi ügyvivő kérheti a kirendelés alóli felmentését.
 
-(4) A szabadalmi ügyvivő kirendelésére, valamint a kirendelt szabadalmi ügyvivő jogállására, munkadíjára és költségtérítésére az iparjogvédelmi ügyekre [1. § (2) bekezdés] irányadó jogszabályok, a közigazgatási hatósági eljárás általános szabályairól szóló törvény és a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) vonatkozó rendelkezései irányadók.
+(4) A szabadalmi ügyvivő kirendelésére, valamint a kirendelt szabadalmi ügyvivő jogállására, munkadíjára és költségtérítésére az iparjogvédelmi ügyekre [1. § (2) bekezdés] irányadó jogszabályok, az általános közigazgatási rendtartásról szóló törvény és a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) vonatkozó rendelkezései irányadók.
 
 18. § (1) Az ügyfél által adott megbízás elvállalásakor a szabadalmi ügyvivő – a tanácsadást kivéve – köteles az ügyről tényvázlatot felvenni; abban a fontos körülményeket, így a várható munkadíjat és költségeket is rögzíti, és a tényvázlatot a megbízóval aláíratja. A tényvázlatot az ügyfél írásbeli megbízása vagy írásbeli megbízási szerződés helyettesítheti. Az írásba foglalás elmaradása a megbízás érvényességét nem érinti, de ilyen esetben a megbízás tartalmának bizonyítása a szabadalmi ügyvivőt terheli.
 
@@ -310,27 +409,39 @@ a szabadalmi ügyvivőkről
 
 ### Fegyelmi felelősség
 
-22. § (1) Fegyelmi vétséget követ el az a szabadalmi ügyvivő,
+22. § (1) Fegyelmi vétséget követ el a szabadalmi ügyvivői tevékenységet gyakorló, szüneteltető vagy a szabadalmi ügyvivői tevékenység felfüggesztése alatt álló kamarai tag vagy nyilvántartásba vett természetes személy, ha
 
-- a) aki a szabadalmi ügyvivői tevékenység gyakorlásából eredő, jogszabályban, illetve az etikai szabályzatban meghatározott kötelezettségét vétkesen megszegi, vagy
-- b) akinek a szabadalmi ügyvivői tevékenységen kívüli vétkes magatartása a szabadalmi ügyvivői kar tekintélyét csorbítja.
+- a) a szabadalmi ügyvivői tevékenység gyakorlása során az e tevékenység gyakorlásából eredő, jogszabályban, a Kamara alapszabályában, vagy az etikai szabályzatban meghatározott kötelességét szándékosan vagy gondatlanságból megszegi, vagy
+- b) a szabadalmi ügyvivői tevékenységen kívüli szándékos vagy gondatlan magatartásával a szabadalmi ügyvivői hivatás tekintélyét súlyosan veszélyezteti.
 
-(2) A fegyelmi vétséget elkövető szabadalmi ügyvivővel szemben kiszabható fegyelmi büntetések:
+(2) A fegyelmi vétséget elkövető személlyel szemben alkalmazható büntetések a következők:
 
-- a) megrovás,
-- b) szigorú megrovás,
-- c) pénzbírság,
-- d) kizárás a Kamarából.
+- a) írásbeli megrovás,
+- b) pénzbírság,
+- c) kamarai közügyektől való eltiltás,
+- d) szabadalmi ügyvivőjelölt foglalkoztatásától való eltiltás, valamint
+- e) kizárás a Kamarából.
 
-(3) A kiszabott pénzbírság összege a köztisztviselői illetményalap tízszereséig terjedhet. A befizetett pénzbírság a Kamarát illeti meg.
+(3) A kiszabott pénzbírság összege ötszázezer forintig terjedhet. A pénzbírságot a Kamara részére kell megfizetni. A pénzbírság felhasználására a Kamara szabályzatának rendelkezései az irányadók.
 
-(4) A fegyelmi vétséget az elkövetés idején hatályban lévő jogszabályok és fegyelmi szabályzat szerint kell elbírálni. Ha a fegyelmi vétség elbírálásakor hatályban lévő jogszabályok és fegyelmi szabályzat enyhébb elbírálást tesznek lehetővé, akkor azokat kell alkalmazni.
+(4) A kamarai közügyektől való eltiltás a fegyelmi határozat jogerőre emelkedésétől számított határozott ideig tart, annak legrövidebb időtartama egy év, leghosszabb időtartama öt év. A kamarai közügyektől eltiltás hatálya alatt a fegyelmi vétség elkövetője nem viselhet kamarai tisztséget, szünetel a kamarai tagságból eredő szavazati és választójoga.
 
-23. § (1) A fegyelmi büntetés kiszabásánál figyelembe kell venni az enyhítő és a súlyosbító körülményeket, így különösen a kötelességszegés súlyát és ismételtségét, a vétkesség fokát, valamint az okozott kárt.
+(5) A szabadalmi ügyvivőjelölt foglalkoztatásától való eltiltás határozott időre szól. Az eltiltás időtartama a fegyelmi határozat jogerőre emelkedésétől számított legalább egy, legfeljebb öt év.
 
-(2) Ha a szabadalmi ügyvivő vétkessége enyhébb fokú, és a kötelességszegés nem vagy csekély mértékben járt következménnyel, a fegyelmi eljárás lefolytatása és a fegyelmi büntetés kiszabása mellőzhető, de a szabadalmi ügyvivő a felmerült eljárási költségek viselésére kötelezhető.
+(6) A Kamarából való kizárás fegyelmi büntetés legrövidebb időtartama egy év, leghosszabb időtartama öt év. A kizárás fegyelmi büntetés hatálya alatt szabadalmi ügyvivői tevékenység nem folytatható.
 
-(3) Ha a fegyelmi eljárás alá vont szabadalmi ügyvivő a terhére rótt cselekményben vagy mulasztásban vétkességét elismerte, és a tárgyalás mellőzéséhez hozzájárult, a fegyelmi tanács [23/B. § (1) bek.] – a (4) bekezdésben meghatározott kivétellel – tárgyalás nélkül határozhat.
+(7) A fegyelmi büntetések egymás mellett is alkalmazhatók. Nem alkalmazható
+
+- a) írásbeli megrovás mellett más fegyelmi büntetés, valamint
+- b) kizárás mellett a kamarai közügyektől való eltiltás vagy a szabadalmi ügyvivőjelölt foglalkoztatásától való eltiltás.
+
+(8) A fegyelmi vétséget az elkövetés idején hatályban lévő jogszabályok és fegyelmi szabályzat szerint kell elbírálni. Ha a fegyelmi vétség elbírálásakor hatályban lévő jogszabályok, a Kamara alapszabálya, vagy a fegyelmi szabályzat enyhébb elbírálást tesznek lehetővé, akkor azokat kell alkalmazni.
+
+23. § (1) A fegyelmi büntetés kiszabásánál figyelembe kell venni az enyhítő és a súlyosító körülményeket, így különösen a kötelességszegés súlyát és ismételtségét, a szándék vagy gondatlanság fokát, valamint az okozott kárt.
+
+(2) Ha a szabadalmi ügyvivő szándékossága vagy gondatlansága enyhébb fokú, és a kötelességszegés nem vagy csekély mértékben járt következménnyel, a fegyelmi eljárás lefolytatása és a fegyelmi büntetés kiszabása mellőzhető, de a szabadalmi ügyvivő a felmerült eljárási költségek viselésére kötelezhető.
+
+(3) Ha a fegyelmi eljárás alá vont szabadalmi ügyvivő a terhére rótt cselekményben vagy mulasztásban szándékosságát vagy gondatlanságát elismerte, és a tárgyalás mellőzéséhez hozzájárult, a fegyelmi tanács [23/B. § (1) bek.] – a (4) bekezdésben meghatározott kivétellel – tárgyalás nélkül határozhat.
 
 (4) Tárgyalás mellőzésével a Kamarából való kizárás fegyelmi büntetést nem lehet kiszabni.
 
@@ -344,9 +455,9 @@ a szabadalmi ügyvivőkről
 
 (2) A fegyelmi tanács elnökeként és tagjaként nem járhat el,
 
-- a) aki az eljárás alá vont szabadalmi ügyvivő képviselője és volt képviselője, valamint hozzátartozója [Pp. 13. § (2) bek.];
-- b) aki a panaszt előterjesztette, valamint annak képviselője és volt képviselője, továbbá hozzátartozója [Pp. 13. § (2) bek.];
-- c) a Kamara elnöke;
+- a) aki az eljárás alá vont szabadalmi ügyvivő képviselője és volt képviselője, valamint Polgári Törvénykönyv szerinti hozzátartozója;
+- b) aki a panaszt előterjesztette, valamint annak képviselője és volt képviselője, továbbá Polgári Törvénykönyv szerinti hozzátartozója;
+- c) a Kamara elnöke, alelnöke, elnökségi tagja;
 - d) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat;
 - e) aki ellen fegyelmi vagy büntetőeljárás van folyamatban, ennek jogerős befejezéséig;
 - f) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
@@ -363,11 +474,13 @@ a szabadalmi ügyvivőkről
 
 (8) A (2)–(4) bekezdéseket és a (7) bekezdést megfelelően alkalmazni kell a vizsgálóbiztosra, azzal, hogy a kizáró okot, illetve az elfogultsági kifogást a Kamara elnökénél kell bejelenteni, illetve előterjeszteni, aki dönt a kizáró okról, illetve az elfogultsági kifogásról, illetve szükség esetén új vizsgálóbiztost rendel ki. A (2)–(5) bekezdéseket a jegyzőkönyvvezetőre is alkalmazni kell.
 
-24. § (1) Fegyelmi vétség alapos gyanúja esetén a szabadalmi ügyvivő ellen a fegyelmi eljárást a Kamara elnöke indítja meg. Szükség esetén az ügy előzetes kivizsgálására a fegyelmi bizottság tagjai és póttagjai közül vizsgálóbiztost rendel ki.
+24. § (1) Fegyelmi vétség alapos gyanúja esetén a szabadalmi ügyvivő ellen a fegyelmi eljárást a Kamara elnöke indítja meg. Szükség esetén az ügy előzetes kivizsgálására a gyanú tudomására jutásától számított harminc napon belül a fegyelmi bizottság tagjai és póttagjai közül vizsgálóbiztost rendel ki.
 
 (2) Ha a Kamara elnöke kizárási ok [23/B. § (2) bek. a)–b) és d)–f) pontok] vagy akadályoztatás miatt nem tud eljárni, helyette a Kamara alelnöke jár el.
 
 (3) A Kamara elnöke az előzetes vizsgálat elrendeléséről haladéktalanul tájékoztatja az eljárás alá vont szabadalmi ügyvivőt, és közli vele az eljárás okát.
+
+(3a) A Kamara elnöke az előzetes vizsgálat elrendeléséről tizenöt napon belül értesíti a panasz előterjesztőjét.
 
 (4) A vizsgálóbiztos köteles a tényállás megállapításához szükséges körülményeket tisztázni és az eljárás alá vont szabadalmi ügyvivő javára és terhére szóló bizonyítékokat beszerezni. Ennek érdekében nyilatkoztatnia kell az eljárás alá vont szabadalmi ügyvivőt, meghallgathatja a panasz előterjesztőjét és a tanúkat, szakértő közreműködését veheti igénybe, az ügy iratait a szabadalmi ügyvivőtől bekérheti és egyéb bizonyítást végezhet. Az eljárási cselekményről jegyzőkönyvet kell készíteni.
 
@@ -379,9 +492,9 @@ a szabadalmi ügyvivőkről
 
 (8) Az előzetes vizsgálat során az eljárás alá vont szabadalmi ügyvivőt ugyanazok a jogok illetik meg, mint a fegyelmi eljárásban.
 
-24/A. § (1) Ha a Kamara elnöke a tudomására jutott tények, illetve a vizsgálóbiztos jelentése alapján úgy ítéli meg, hogy fegyelmi vétség alapos gyanúja áll fenn, a szabadalmi ügyvivő ellen a fegyelmi eljárást határozattal megindítja, egyidejűleg az iratokat megküldi a fegyelmi bizottság elnökének, és haladéktalanul értesíti az eljárás alá vont szabadalmi ügyvivőt és a panasz előterjesztőjét. Ügyészi indítványra a fegyelmi eljárást meg kell indítani.
+24/A. § (1) Ha a Kamara elnöke a tudomására jutott tények, illetve a vizsgálóbiztos jelentése alapján úgy ítéli meg, hogy fegyelmi vétség alapos gyanúja áll fenn, a tények tudomásra jutásától, illetve a jelentés kézhezvételétől számított harminc napon belül a szabadalmi ügyvivő ellen a fegyelmi eljárást határozattal megindítja, egyidejűleg az iratokat megküldi a fegyelmi bizottság elnökének, és a határozat megküldésével haladéktalanul értesíti az eljárás alá vont szabadalmi ügyvivőt és a határozat kivonatának megküldésével a panasz előterjesztőjét. A határozat kivonata nem tartalmazhat szabadalmi ügyvivői titkot, illetve olyan adatot, amelynek megismerésére a panasz előterjesztője nem jogosult. Ügyészi indítványra a fegyelmi eljárást meg kell indítani.
 
-(2) A Kamara elnöke az eljárás megszüntetése mellett megtagadja a fegyelmi eljárás megindítását, és erről értesíti a panasz előterjesztőjét, valamint az eljárás alá vont szabadalmi ügyvivőt, ha
+(2) A Kamara elnöke az eljárás megszüntetése mellett megtagadja a fegyelmi eljárás megindítását, és erről tizenöt napon belül értesíti a panasz előterjesztőjét, valamint az eljárás alá vont szabadalmi ügyvivőt, ha
 
 - a) a panasz nyilvánvalóan alaptalan;
 - b) fegyelmi vétség alapos gyanúja nem állapítható meg;
@@ -390,17 +503,21 @@ a szabadalmi ügyvivőkről
 
 (3) A Kamara elnökének a fegyelmi eljárást megtagadó határozatával szemben a panasz előterjesztője a kézbesítéstől számított harminc napon belül keresettel fordulhat a bírósághoz. Az eljárásra a 24/G. § rendelkezéseit kell megfelelően alkalmazni.
 
-24/B. § (1) A fegyelmi eljárás elrendelését követően a fegyelmi bizottság elnöke kijelöli az eljáró fegyelmi tanács elnökét és tagjait. Az ügyben eljáró vizsgálóbiztos nem lehet a fegyelmi tanács elnöke vagy tagja.
+24/B. § (1) A fegyelmi eljárás elrendelését követően a fegyelmi bizottság elnöke az iratok érkezésétől számított nyolc napon belül kijelöli az eljáró fegyelmi tanács elnökét és tagjait. Az ügyben eljáró vizsgálóbiztos nem lehet a fegyelmi tanács elnöke vagy tagja.
 
-(2) A fegyelmi tanács elnöke az előzetes vizsgálat iratainak beérkezését követően a következő intézkedéseket teheti:
+(2) A fegyelmi tanács elnöke az előzetes vizsgálat iratainak kézhez vételétől számított tizenöt napon belül – az eljárás alá vont szabadalmi ügyvivő és a panasz előterjesztője egyidejű értesítése mellett – a következő intézkedéseket teheti:
 
 - a) a vizsgálat kiegészítését rendeli el, és az iratokat visszaküldi a vizsgálóbiztosnak;
 - b) határozat hozatalát kezdeményezi tárgyalás mellőzésével [23. § (3) bek.]; vagy
 - c) kitűzi a tárgyalást.
 
-(3) Ha az eljárás alá vont szabadalmi ügyvivő a tárgyalás mellőzésével hozott, fegyelmi büntetést kiszabó határozat kézbesítésétől számított tizenöt napon belül tárgyalás tartását kéri, a fegyelmi büntetést kiszabó határozat a hatályát veszti, és a fegyelmi tanács elnöke tárgyalást tűz ki.
+(3) A fegyelmi tanács százhúsz napon belül hoz határozatot. E határidőbe a fegyelmi tanács elnökének intézkedésére nyitva álló idő, az ügy tárgyaláson kívüli elbírálásának időtartama, az előzetes vizsgálat kiegészítésének ideje, valamint az eljárás felfüggesztésének időtartama nem számít be.
 
-24/C. § (1) A tárgyalásra az eljárás alá vont szabadalmi ügyvivőt és képviselőjét meg kell idézni. A tárgyalásról a Kamara elnökét értesíteni kell.
+(4) Ha a fegyelmi tanács a (3) bekezdésben foglalt határidő kétszeresét túllépi, a fegyelmi vétség elkövetésének megállapításán túl kizárólag írásbeli megrovás fegyelmi büntetést alkalmazhat. Ebben az esetben ugyanazon fegyelmi vétség elkövetésével összefüggésben nem kezdeményezhető új fegyelmi eljárás.
+
+(5) Ha az eljárás alá vont szabadalmi ügyvivő a tárgyalás mellőzésével hozott, fegyelmi büntetést kiszabó határozat kézbesítésétől számított tizenöt napon belül tárgyalás tartását kéri, a fegyelmi büntetést kiszabó határozat a hatályát veszti, és a fegyelmi tanács elnöke tárgyalást tűz ki.
+
+24/C. § (1) A tárgyalásra az eljárás alá vont szabadalmi ügyvivőt, képviselőjét és a vizsgálóbiztost legalább nyolc nappal a tárgyalást megelőzően meg kell idézni. A tárgyalásról a Kamara elnökét értesíteni kell.
 
 (2) Ha az eljárás alá vont szabadalmi ügyvivő szabályszerű idézés ellenére nem jelent meg a tárgyaláson, azt a távollétében is meg lehet tartani. Erre az eljárás alá vont szabadalmi ügyvivőt az idézésben figyelmeztetni kell.
 
@@ -430,23 +547,30 @@ a szabadalmi ügyvivőkről
 
 (7) A határozatot és indokait szóban ki kell hirdetni, kivéve a tárgyalás mellőzésének esetét, és harminc napon belül az eljárás alá vont szabadalmi ügyvivő, a képviselője, valamint a Kamara elnöke részére kézbesíteni kell.
 
-(8) A tárgyalásról jegyzőkönyvet kell készíteni. A jegyzőkönyvet a fegyelmi tanács elnöke és a jegyzőkönyvvezető írják alá.
+(8) A fegyelmi eljárás eredményéről a határozat kivonatának megküldésével értesíteni kell a panasz előterjesztőjét. A határozat kivonata nem tartalmazhat szabadalmi ügyvivői titkot, illetve olyan adatot, amelynek megismerésére a panasz előterjesztője nem jogosult.
 
-24/E. § (1) Ha a fegyelmi vétség – súlyára és természetére tekintettel – a Kamarából való kizárás fegyelmi büntetését vonhatja maga után, a fegyelmi tanács az eljárás alá vont szabadalmi ügyvivő tevékenységének gyakorlását határozattal felfüggesztheti.
+(9) A tárgyalásról jegyzőkönyvet kell készíteni. A jegyzőkönyvet a fegyelmi tanács elnöke és a jegyzőkönyvvezető írják alá.
 
-(2) A felfüggesztés időtartama három hónap, amely egy ízben, legfeljebb három hónappal meghosszabbítható.
+24/E. § (1) A fegyelmi tanács a szabadalmi ügyvivői tevékenység gyakorlását felfüggesztheti, ha
 
-(3) A fegyelmi tanácsnak a felfüggesztésről hozott határozata ellen a szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül keresettel fordulhat a bírósághoz. Az eljárásra a 24/G. § rendelkezéseit kell megfelelően alkalmazni, azzal az eltéréssel, hogy a kereset benyújtásának a határozat végrehajtására nincs halasztó hatálya.
+- a) a szabadalmi ügyvivői tevékenységet gyakorló személy szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult büntetőeljárást – hatálya alatt áll, vagy
+- b) a szabadalmi ügyvivői tevékenység folytatása az ügyfelek jogai, jogos érdekei vagy a szabadalmi ügyvivői tevékenység gyakorlásához szükséges közbizalom olyan mértékű sérelmével vagy veszélyeztetésével járna, amely meghaladja a szabadalmi ügyvivői tevékenység gyakorlása felfüggesztéséből fakadó egyéni érdeksérelmet.
 
-(4) A felfüggesztés alatt a kamarai tagságból és tisztségből származó jogok nem gyakorolhatók. A szabadalmi ügyvivői tevékenység felfüggesztésének időtartama alatt létesített munkaviszony, közalkalmazotti, közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszony nem ütközik a 14. § (1) bekezdésébe.
+(2) Ha a fegyelmi tanács kizárást alkalmazott, és annak végrehajtását nem függesztette fel, a határozatban a szabadalmi ügyvivői tevékenységet a fegyelmi eljárás jogerős befejezéséig fel kell függeszteni. E rendelkezés ellen külön fellebbezésnek van helye, amelynek nincs halasztó hatálya.
+
+(3) A felfüggesztés időtartama hat hónap, amely egy alkalommal, legfeljebb hat hónappal meghosszabbítható.
+
+(4) A fegyelmi tanácsnak a felfüggesztésről hozott határozata ellen a szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül keresettel fordulhat a bírósághoz. Az eljárásra a 24/G. § rendelkezéseit kell megfelelően alkalmazni, azzal az eltéréssel, hogy a kereset benyújtásának a határozat végrehajtására nincs halasztó hatálya.
+
+(5) A felfüggesztés tartama alatt az eljárás alá vont szabadalmi ügyvivővel szemben folytatott eljárásbeli jogok és kötelezettségek kivételével a kamarai tagságból, illetve a kamarai nyilvántartásba vételből fakadó jogok és kötelezettségek szünetelnek.
 
 24/F. § (1) Ha a fegyelmi eljárás alá vont szabadalmi ügyvivő cselekménye miatt büntetőeljárás is indult, a fegyelmi eljárást a büntetőeljárás jogerős befejezéséig fel lehet függeszteni.
 
 (2)
 
-(3) Ha a fegyelmi eljárás lefolytatása olyan előzetes kérdés elbírálásától függ, amelynek tárgyában az eljárás más hatóság hatáskörébe tartozik, a fegyelmi eljárást ennek az eljárásnak a jogerős befejezéséig fel lehet függeszteni.
+(3) Ha a fegyelmi eljárás lefolytatása olyan előzetes kérdés elbírálásától függ, amelynek tárgyában az eljárás más hatóság hatáskörébe tartozik, a fegyelmi eljárást ennek az eljárásnak a jogerős vagy végleges befejezéséig fel lehet függeszteni.
 
-24/G. § (1) A fegyelmi tanács határozata ellen az eljárás alá vont szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül keresettel fordulhat a bírósághoz. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel rendelkezik, és arra a közigazgatási perekre irányadó rendelkezéseket (Pp. XX. fejezet) kell alkalmazni.
+24/G. § (1) A fegyelmi tanács határozatát az eljárás alá vont szabadalmi ügyvivő a kézbesítéstől számított harminc napon belül közigazgatási perben megtámadhatja.
 
 (2) A kereset a határozat végrehajtására halasztó hatályú.
 
@@ -456,11 +580,7 @@ a szabadalmi ügyvivőkről
 
 (5) A fegyelmi tanács keresettel meg nem támadott határozata a kézbesítéstől számított harminc nap elteltével emelkedik jogerőre.
 
-24/H. § (1) A jogerős határozat meghozatala után a Kamara elnöke vagy a szabadalmi ügyvivő, a szabadalmi ügyvivő halála esetén hozzátartozója [Pp. 13. § (2) bek.] új eljárást kezdeményezhet, ha olyan tényre vagy bizonyítékra, illetve olyan jogerős hatósági határozatra hivatkozik, amelyet a fegyelmi tanács nem bírált el, illetve nem vett figyelembe, feltéve, hogy az elbírálása, illetve figyelembevétele esetén a fegyelmi határozatra lényeges hatással lett volna. Új eljárásnak van helye akkor is, ha az alapügyben a fegyelmi tanács elnöke vagy tagja kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte.
-
-(2) Új eljárás kezdeményezésének a szabadalmi ügyvivő terhére csak a szabadalmi ügyvivő életében, az elévülési időn [25. § (1) és (3) bek.] belül van helye.
-
-(3) Új eljárás elrendeléséről az ügyben korábban eljáró fegyelmi tanács határoz. A fegyelmi tanács elutasító határozata elleni jogorvoslatra a 24/G. § rendelkezéseit kell megfelelően alkalmazni.
+24/H. § (1) A jogerős határozat meghozatala után a Kamara elnöke vagy a szabadalmi ügyvivő, a szabadalmi ügyvivő halála esetén a Polgári Törvénykönyv szerinti hozzátartozója új eljárást kezdeményezhet, ha olyan tényre vagy bizonyítékra, illetve olyan jogerős hatósági határozatra hivatkozik, amelyet a fegyelmi tanács nem bírált el, illetve nem vett figyelembe, feltéve, hogy az elbírálása, illetve figyelembevétele esetén a fegyelmi határozatra lényeges hatással lett volna. Új eljárásnak van helye akkor is, ha az alapügyben a fegyelmi tanács elnöke vagy tagja kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte.
 
 25. § (1) Nem folytatható le a fegyelmi eljárás, ha a Kamara elnöke a cselekmény, illetőleg mulasztás tudomásra jutásától számított három hónapon belül nem indítja meg az eljárást, vagy a cselekmény, illetőleg a mulasztás befejezése óta három év eltelt.
 
@@ -468,9 +588,20 @@ a szabadalmi ügyvivőkről
 
 (3) Az a fegyelmi vétség, amely bűncselekmény törvényi tényállását valósítja meg, a bűncselekménnyel együtt évül el.
 
-(4) A fegyelmi büntetés hatálya megrovás és szigorú megrovás esetén a fegyelmi határozat jogerőre emelkedésétől számított egy évig, pénzbírságnál három évig, kizárásnál öt évig tart.
+(4)
 
 (5) A jogerős fegyelmi határozatot a Kamara a büntetés hatályának időtartamáig nyilvántartja.
+
+(6) A fegyelmi tanács az ügy érdemében hozott jogerős határozatának a Kamara honlapján digitális formában történő közzététele iránt a határozat jogerőre emelkedésétől számított harminc napon belül intézkedik, kivéve, ha a határozatot közigazgatási perben megtámadták. A közzétett határozatban szereplő személyek azonosítását lehetővé tevő adatokat olyan módon kell törölni, hogy az ne akadályozza a megállapított tényállás megismerését.
+
+25/A. § (1) A fegyelmi tanács
+
+- a) a kizárás, a kamarai közügyektől való eltiltás és a szabadalmi ügyvivő jelölt foglalkoztatásától való eltiltás fegyelmi büntetés hatálya legalább felének elteltét követően, vagy
+- b) a pénzbírság legalább felének megfizetését követően a fegyelmi büntetés hatálya alatt álló, arra érdemes személyt méltányosságból mentesítheti a fegyelmi büntetés további joghatásai alól.
+
+(2) A fegyelmi tanács a pénzbírság megfizetésére kamarai szabályzatban meghatározott feltételek szerint, az arra érdemes személy számára egy alkalommal részletfizetést vagy halasztást engedélyezhet.
+
+(3) Az (1) és (2) bekezdés szerinti határozat ellen jogorvoslatnak nincs helye.
 
 ### A szabadalmi ügyvivőjelölt
 
@@ -481,7 +612,7 @@ a szabadalmi ügyvivőkről
 - a) magyar állampolgár, valamely EGT-állam állampolgára, letelepedett vagy bevándorolt;
 - b) büntetlen előéletű;
 - c) mérnöki, informatikai vagy más, egészségügyi, természettudományi jellegű – különösen orvosi, állatorvosi, biológus, vegyész, gyógyszerész, matematikus vagy fizikus – egyetemi szintű, illetve mesterfokozatú szakképzettséggel rendelkezik; és
-- d) igazolja, hogy szabadalmi ügyvivőjelölti munkaviszony létesítésére előzetes megállapodást kötött.
+- d) igazolja, hogy szabadalmi ügyvivőjelölti munkaviszony létesítésére előzetes megállapodást kötött olyan munkáltatóval, amely szabadalmi ügyvivőt foglalkoztat.
 
 (3) Nem lehet szabadalmi ügyvivőjelölt, aki
 
@@ -525,16 +656,15 @@ a szabadalmi ügyvivőkről
 
 (3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a Kamara
 
-- a) a szabadalmi ügyvivőjelölti tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a szabadalmi ügyvivőjelölti tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) a szabadalmi ügyvivőjelölti tevékenység engedélyezése iránti eljárás végleges befejezéséig,
+- b) a szabadalmi ügyvivőjelölti tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig kezeli.
 
 27. § (1) A szabadalmi ügyvivőjelölt munkáltatójának utasítása szerint jogosult a bíróság és egyéb hatóság előtt eljárni; ennek során a Kamara által kiállított fényképes hatósági igazolvánnyal igazolja magát. A szabadalmi ügyvivőjelölt a Kúria előtt nem járhat el.
 
 (2) A szabadalmi ügyvivőjelölt kötelezettségeire és fegyelmi felelősségére a szabadalmi ügyvivőkre vonatkozó előírásokat kell megfelelően alkalmazni, azzal az eltéréssel, hogy a fegyelmi vétséget elkövető szabadalmi ügyvivőjelölttel szemben kiszabható fegyelmi büntetések a következők:
 
-- a) megrovás,
-- b) szigorú megrovás,
-- c) törlés a szabadalmi ügyvivőjelöltek névjegyzékéből.
+- a) írásbeli megrovás,
+- b) törlés a szabadalmi ügyvivőjelöltek névjegyzékéből.
 
 ### Az európai közösségi hivatásos iparjogvédelmiképviselő
 
@@ -627,7 +757,7 @@ a szabadalmi ügyvivőkről
 
 ### A Magyar Szabadalmi Ügyvivői Kamara
 
-28. § (1) A Kamara a szabadalmi ügyvivők köztestülete.
+28. § (1) A Kamara a szabadalmi ügyvivők köztestülete. A Kamarát a törvényszék nem veszi nyilvántartásba.
 
 (2) A Kamara az ország egész területére kiterjedő illetékességgel jár el, székhelye Budapest.
 
@@ -663,7 +793,7 @@ a szabadalmi ügyvivőkről
 
 ### A Kamara eljárása közigazgatási hatósági ügyekben
 
-30. § (1) A Kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
+30. § (1) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el a következő ügyekben (a továbbiakban: kamarai hatósági ügy):
 
 - a) a Kamarába való felvétel és a kamarai tagság megszűnésének megállapítása, kivéve, ha a kamarai tagság a kizárás fegyelmi büntetése vagy a szabadalmi ügyvivő halála miatt szűnik meg;
 - b) a szabadalmi ügyvivői működés szüneteltetésének és újrakezdésének vizsgálata és tudomásulvétele;
@@ -697,7 +827,7 @@ a szabadalmi ügyvivőkről
 
 (9) A (6)–(8) bekezdésekben meghatározott igazolványokat a Kamara elnöke, illetve az őt helyettesítő alelnöke állítja ki.
 
-(10) A Kamarának az (1) és a (6)–(9) bekezdésekben meghatározott ügyekben hozott döntéseivel szemben fellebbezésnek nincs helye; e döntések felülvizsgálata közvetlenül a bíróságtól kérhető.
+(10)
 
 (11) A (6)–(9) bekezdésekben meghatározott ügyek elektronikus úton nem intézhetők.
 
@@ -736,7 +866,7 @@ a szabadalmi ügyvivőkről
 
 (4) A Kamara a szabadalmi ügyvivői működést érintő egyéb kérdésekben — a jogszabályok keretei között — további szabályzatokat adhat ki.
 
-33/A. § A Kamara törvénysértő határozata ellen – a fegyelmi ügyekben (22–25. §-ok) és a közigazgatási hatósági eljárás általános szabályairól szóló törvény hatálya alá tartozó ügyekben (30. §) hozott határozatai, illetve döntései kivételével – a Kamara tagja a határozat közlésétől számított harminc napon belül keresettel fordulhat a bírósághoz. Ezek a perek a Fővárosi Törvényszék kizárólagos illetékessége alá tartoznak, és azokra a Pp. általános szabályait kell alkalmazni.
+33/A. § A Kamara törvénysértő határozatát – az általános közigazgatási rendtartásról szóló törvény hatálya alá tartozó ügyekben (30. §) hozott határozatok kivételével – a Kamara tagja közigazgatási perben támadhatja meg.
 
 ### Törvényességi felügyelet
 
@@ -785,6 +915,12 @@ a szabadalmi ügyvivőkről
 (3)
 
 (4) Ha a szabadalmi ügyvivők egyesülete vagyonát ingyen ruházza át a Kamarára, a vagyont a Kamara adó- és illetékmentesen szerzi meg.
+
+39/A. § (1) Az ügyvédi tevékenységről szóló törvény hatálybalépésével összefüggő egyes törvények és egyéb igazságügyi tárgyú törvények módosításáról szóló 2017. évi CXXXVI. törvény (a továbbiakban: 2017. évi CXXXVI. törvény) 32. §-ával megállapított 14. § és 14/A. § hatálybalépésével keletkezett összeférhetetlenségi okot 2018. június 30. napjáig kell megszüntetni.
+
+(2) A 2017. évi CXXXVI. törvény 34. §-ával által megállapított 16. §-t és 16/A. §-t a 2017. december 31. után indult ügyekben és eljárásokban kell alkalmazni.
+
+(3) A 2018. január 1. előtt kiszabott fegyelmi büntetés hatályára a 2017. december 31. napján hatályos rendelkezéseket kell alkalmazni. A 2018. január 1. előtt kiszabott fegyelmi büntetésekre a 25/A. § nem alkalmazható.
 
 ### Felhatalmazások
 

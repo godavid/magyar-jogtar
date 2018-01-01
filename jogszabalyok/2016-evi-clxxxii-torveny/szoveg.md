@@ -10,7 +10,25 @@ egyes pénzügyi és gazdasági tárgyú törvények módosításáról
 
 #### 2. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-2–6. §
+2. § A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) a 11. §-t követően a következő 11/A. §-sal egészül ki:
+
+„11/A. § Adóköteles az önkormányzat illetékességi területén lévő ingatlanon elhelyezett, a településkép védelméről szóló törvény szerinti reklámhordozó.”
+
+3. § A Htv. a 12. §-t követően a következő 12/A. §-sal egészül ki:
+
+„12/A. § Az adó alanya a 11/A. § szerinti esetben az, aki az év első napján a reklámhordozó Polgári Törvénykönyv szerinti tulajdonosa.”
+
+4. § A Htv. 14. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A 11/A. § szerinti esetben az adókötelezettség a reklámhordozó elhelyezésére vonatkozó hatósági engedély kiadását, engedély hiányában a reklámhordozó ingatlanon való elhelyezését követő év első napján keletkezik. Az adókötelezettség a reklámhordozó lebontása, eltávolítása vagy megsemmisülése, de legkorábban az adókötelezettség keletkezése évének utolsó napjával szűnik meg.”
+
+5. § A Htv. a 15. §-t követően a következő 15/A. §-sal egészül ki:
+
+„15/A. § A 11/A. § szerinti esetben az adó alapja a reklámhordozó reklámközzétételre használható, m2-ben – két tizedesjegy pontossággal – számított felülete.”
+
+6. § A Htv. a 16. §-t követően a következő 16/A. §-sal egészül ki:
+
+„16/A. § Az adó évi mértékének felső határa a 15/A. § szerinti adóalap esetén 12 000 Ft/m2.”
 
 #### 3. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
@@ -60,7 +78,13 @@ egyes pénzügyi és gazdasági tárgyú törvények módosításáról
 
 31. §
 
-32. §
+32. § A Katv.
+
+- 1.
+- 2. 21. § (1) bekezdésében a „14” szövegrész helyébe a „13” szöveg,
+- 3. 23. § (2) bekezdésében a „14” szövegrész helyébe a „13” szöveg
+
+lép.
 
 #### 11. Az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvény módosítása
 

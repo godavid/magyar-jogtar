@@ -199,6 +199,8 @@ kezeli.
 
 (8) A nyilvántartót a (7) bekezdés c) pontja szerinti feltétel bekövetkezéséről a közokirat körözését elrendelő értesíti.
 
+4/A. § Nem rögzíthető a körözött dolgok nyilvántartásában olyan rendszám körözésének az elrendelése, amely rendszám utángyártása a közúti közlekedési igazgatási feladatokról, közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet alapján engedélyezhető.
+
 #### 5. Az ismeretlen holttestek, holttestrészek nyilvántartása
 
 5. § (1) Az ismeretlen holttestek, holttestrészek nyilvántartásának célja az ismeretlen holttest vagy holttestrész azonosításának az elősegítése.
@@ -463,7 +465,9 @@ előírja.
 
 (3a) Ha az NBSZ a személyazonosítást elősegítő informatikai rendszere üzemeltetése során olyan találatot észlel, amely olyan körözött személy azonosítását segíti elő, akinek az adatai közérdekből nyilvánosak és a találat jelzése a 8. § (6) bekezdése szerinti egyedi ügy érdekeit nem sérti, a rendszer értesíti a körözési eljárást lefolytató szervet a találatról.
 
-(4) A jogszabály alapján személyazonosító igazolvány, útlevél, állampolgársági bizonyítvány, honosítási okirat, illetve járművezetésre jogosító okmány kiadására feladat- és hatáskörrel rendelkező szerv okmány kiadásával kapcsolatos eljárása során ellenőrzi a körözött személyek nyilvántartását és a körözött dolgok nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában, illetve az ügyfél által az eljárás során felhasznált okmányt a körözött dolgok nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
+(4) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, az útlevélhatóság és a központi közúti közlekedési nyilvántartó szerv okmány kiadásával kapcsolatos eljárás során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget elektronikus úton értesíti.
+
+(4a) Jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv eljárása során a kérelmezővel és a kérelmező által felhasznált okmánnyal kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában és a körözött dolgok nyilvántartásában. Ha az eljáró szerv az ügyfelet a körözött személyek nyilvántartásában, illetve az ügyfél által az eljárás során felhasznált okmányt a körözött dolgok nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
 
 (5) A bűnügyi nyilvántartó szerv a hatósági bizonyítvány kiadására irányuló eljárása vagy a bűnügyi nyilvántartási rendszerben kezelt adatokra vonatkozó tájékoztatás iránti kérelmek teljesítése során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
 
@@ -558,9 +562,9 @@ felelős.
 
 haladéktalanul tájékoztatni kell a körözés elrendeléséről a körözést elrendelő illetékessége szerinti ügyészséget, valamint az f) pontban meghatározott esetben a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a bűnüldözési feladatai céljából, a g) pontban meghatározott esetben a Katonai Nemzetbiztonsági Szolgálatot a nemzetbiztonsági tevékenysége ellátása céljából.
 
-20/A. § (1) A 20. § szerint folytatott körözési eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek (a továbbiakban: Ket.)
+20/A. § (1) A 20. § szerint folytatott körözési eljárás során az általános közigazgatási rendtartásról szóló törvénynek (a továbbiakban: Ákr.)
 
-- a) a lefoglalásra,
+- a) a zár alá vételre és lefoglalásra,
 - b) a tanúra és a hatósági tanúra,
 - c) a szemlére,
 - d) a szakértőre,
@@ -622,7 +626,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (7) A kiskorú idézéséről az őt gondozó törvényes képviselőt vagy más személyt azzal a felhívással kell értesíteni, hogy a megjelenéséről gondoskodjék. Ha a kiskorú a tizennegyedik életévét nem töltötte be, a törvényes képviselője útján kell idézni, illetve értesíteni. A kiskorú idézését, illetve értesítését a törvényes képviselőjével is közölni kell.
 
-(8) Ha a (7) bekezdés szerint idézett személy nem jelenik meg, és törvényes képviselője nem igazolja, hogy ez neki nem róható fel, a törvényes képviselő a Ket. szerinti eljárási bírsággal (a továbbiakban: bírság) sújtható.
+(8) Ha a (7) bekezdés szerint idézett személy nem jelenik meg, és törvényes képviselője nem igazolja, hogy ez neki nem róható fel, a törvényes képviselő az Ákr. szerinti eljárási bírsággal (a továbbiakban: bírság) sújtható.
 
 20/D. § (1) Az idézett személy köteles az idézésnek eleget tenni.
 
@@ -636,7 +640,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (6) Az elővezetés elrendelése ellen nincs helye önálló jogorvoslatnak.
 
-20/E. § Az e törvény rendelkezései szerint kiszabott bírságot adók módjára kell behajtani.
+20/E. § Az e törvény rendelkezései szerint kiszabott bírságot az adóhatóság adók módjára hajtja be.
 
 21. § (1) A rendőrség arról a kiskorúról, akinek eltűnését bejelentették, valamint arról, aki a szülői felügyelet vagy a gyámság, illetve a nevelőszülőknél vagy gyermekotthonban történő elhelyezése alól engedély nélkül kivonta magát, haladéktalanul tájékoztatja a gyámhatóságot.
 
@@ -764,7 +768,14 @@ szerinti intézkedést alkalmazhatja.
 
 szerinti intézkedést alkalmazhatja.
 
+(3a) A körözési eljárást lefolytató szerv a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33. § (1a) bekezdése alapján elrendelt dolgok körözésének végrehajtása során az Rtv. 29. §-a, 30. §-a, 32. §-a, 39. §-a és 42. § (1) bekezdése szerinti intézkedést alkalmazhatja.
+
 (4) A találatot elérő szerv a rejtett ellenőrzés végrehajtása során az Rtv. 46/C. §-ban foglalt intézkedést foganatosítja.
+
+(5) A körözési eljárást lefolytató szerv az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján elrendelt dolgok körözése végrehajtása során
+
+- a) az Rtv. 29. §, 32. §, 42. § (1) bekezdése szerinti intézkedéseket alkalmazhatja,
+- b) az Rtv. 91/C. §-ban meghatározottakon kívül – az ott meghatározott rendelkezések alapulvételével – az ismeretlen helyen lévő járművek – beleértve az ismeretlen helyen lévő személyek által használt járműveket is – felkutatása érdekében a polgárőr szervezet, továbbá bűnmegelőzési, illetve vagyonvédelmi célú szervezet által üzemeltetett rendszámfelismerő- és azonosító rendszerekben együttműködési megállapodásban foglaltak szerint jelzés elhelyezését rendelheti el, amelyben a jármű észlelése esetén értesítés adását kérheti.
 
 29/A. § A körözési eljárást lefolytató szerv jogosult az általa kezelt arcképmás adat felhasználásával a 8. § (1) bekezdésében meghatározott körözött személyek azonosítása és az eltűnt személyek felkutatása érdekében az arckép profil nyilvántartást kezelő szerv arcképelemző tevékenységét igénybe venni.
 

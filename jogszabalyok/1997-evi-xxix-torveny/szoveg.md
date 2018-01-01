@@ -24,9 +24,9 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 (8)
 
-7/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését aközigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
+7/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, vagy a jogutód nem ismert, a kárpótlási hatóság a döntését az általános közigazgatási rendtartásról szóló törvény hirdetményi közlésre vonatkozó szabályai szerint közli.
 
-(2) Ha az eljárás során az ügyfél az eljárás jogerős befejezése előtt elhunyt, a jogutódlásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény jogutódlásra vonatkozó szabályait kell alkalmazni.
+(2)
 
 ### Egyéb rendelkezések
 
@@ -62,7 +62,7 @@ Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak k
 
 (2) A havi életjáradékot a Tv. szerint kell kiszámítani. Ha a visszaszolgáltatott kárpótlási jegy címletértéke kevesebb, mint a kárpótlást megállapító határozatban megjelölt érték, az életjáradék havi összegét arányosan csökkenteni kell. Az életjáradék e törvény hatálybalépését követő hónap első napjától jár.
 
-13. § (1) Az életjáradék megállapításáról a KKI az igénylés benyújtásától számított 4 hónapon belül dönt. Határozatát a bíróság a felülvizsgálat során megváltoztathatja. A bíróság illetékességének megállapítására a Tv. 14. §-ának d) pontját kell alkalmazni.
+13. § (1) Az életjáradék megállapításáról a kárpótlási hatóság az igénylés benyújtásától számított 4 hónapon belül dönt.
 
 (2) Az életjáradék folyósítására a Tv. 20/A. §-át kell alkalmazni.
 

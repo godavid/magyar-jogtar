@@ -112,8 +112,8 @@ megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítés
 - b) végzi az adó-, vám- és pénzforgalmi adatoknak, az ellenőrzések megállapításainak összegezését, feldolgozását és ezekről a kormányzati gazdaságpolitika kialakításában részt vevő állami szervek részére információk szolgáltatását,
 - c) feldolgozza az államháztartás működéséhez szükséges és rendelkezésre álló adatokat és az adópolitikáért felelős miniszternek átadja,
 - d) Központi Irányítása és a feladat- és hatáskörrel rendelkező területi szerve összegyűjti és tárolja az (1) bekezdésben megadott feladatokkal, különösen a befizetési kötelezettséggel, a kapcsolódó eljárással összefüggő adatokat, amelyekről a NAV a gazdasági célú elemzésekhez – az e feladatokat ellátó állami szervek részére – adatfeldolgozásokat végez és adatszolgáltatásokat teljesít,
-- e) előterjeszti a hatáskörébe tartozó kötelező befizetésekkel vagy költségvetési támogatással kapcsolatban elkövetett bűncselekménnyel okozott kár megtérítése iránt az állam nevében a polgári jogi igényt,
-- f) lefolytatja az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti központosított ellenőrzést, valamint az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vtv.) szerinti központosított utólagos ellenőrzést,
+- e)
+- f) lefolytatja az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti központosított ellenőrzést,
 - g) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai és munkavállalói részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 - h) a kormánytisztviselői, a kormányzati ügykezelői, a hivatásos állományú tagjai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
 - i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat az állami adó- és vámhatóság vezetője gyakorolja,
@@ -134,7 +134,7 @@ megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítés
 - b) a helyi, illetve helyi nemzetiségi önkormányzat költségvetését érintő, szükséges és rendelkezésre álló bevételi adatokról a feladat- és hatáskörrel rendelkező szerve útján évente tájékoztatást ad az önkormányzat részére; az adatszolgáltatás tartalmát a helyi önkormányzatokért felelős miniszter bevonásával az adópolitikáért felelős miniszter határozza meg,
 - c) ellátja az adók módjára behajtandó köztartozás végrehajtásával kapcsolatos, illetve az egyéb kötelező befizetésekkel kapcsolatos, az állami adó- és vámhatóság hatáskörébe utalt feladatokat,
 - d) ellátja az állami garancia (kezesség) kiutalásával, visszakövetelésével, a garancia beváltásához kapcsolódó ellenőrzéssel kapcsolatos, az állami adó- és vámhatóság hatáskörébe utalt feladatokat,
-- e) lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti az ezzel kapcsolatos nyilvántartást, végzi az eljárás díjának beszedését és visszatérítését, megküldi az adópolitikáért felelős miniszternek a szokásos piaci ár megállapítása iránti eljárások eredményeképpen kiadmányozott jogerős határozatok másolatát, illetve a szokásos piaci ár megállapítása iránti eljárásért beszedett díjakról és az eljárás során szerzett tapasztalatokról évente beszámolót készít az adópolitikáért felelős miniszternek,
+- e) lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti az ezzel kapcsolatos nyilvántartást, végzi az eljárás díjának beszedését és visszatérítését, megküldi az adópolitikáért felelős miniszternek a szokásos piaci ár megállapítása iránti eljárások eredményeképpen kiadmányozott végleges határozatok másolatát, illetve a szokásos piaci ár megállapítása iránti eljárásért beszedett díjakról és az eljárás során szerzett tapasztalatokról évente beszámolót készít az adópolitikáért felelős miniszternek,
 - f)
 - g) ellátja a munkáltatók és kifizetők által foglalkoztatott biztosítottak adatainak nyilvántartásával, továbbá az adatoknak az egészségbiztosítás biztosítotti nyilvántartása és a munkaügyi hatóság részére történő átadásával kapcsolatos, jogszabályban az állami adó- és vámhatóság feladataként meghatározott feladatokat,
 - h) jogszabályban meghatározottak szerint elvégzi az illetékek zárási összesítését és végzi az azzal kapcsolatos, az adópolitikáért felelős miniszter részére teljesítendő adatszolgáltatást,
@@ -220,6 +220,8 @@ kapcsolatos feladatokat.
 (2) A NAV megkülönböztetés nélkül, kizárólag a szakmai képességek, képzettségek, a gyakorlat és a teljesítmény, továbbá a kormányzati szolgálati jogviszonyban, illetve a hivatásos szolgálati jogviszonyban eltöltött idő alapján biztosítja a kormánytisztviselők, pénzügyőrök részére az e törvény szerinti előmeneteli lehetőséget.
 
 (3) A munka egyenlő értékének megállapításánál különösen az elvégzett munka természetét, minőségét, mennyiségét, a munkakörülményeket, a szükséges szakképzettséget, fizikai vagy szellemi erőfeszítést, tapasztalatot, felelősséget kell figyelembe venni.
+
+(4) A pénzügyőr és kormánytisztviselő tekintetében a feladatellátás során birtokban tartható vagyontárgyak, magáncélú telekommunikációs eszközök, készpénz, készpénzt helyettesítő eszközök körét és mennyiségét – az integritási érdek szem előtt tartásával – miniszteri rendelet korlátozhatja.
 
 15/E. § (1) A kölcsönös együttműködési kötelezettség keretében a kormánytisztviselő, a pénzügyőr, illetve az ügykezelő köteles a munkáltatói jogkör gyakorlójának írásban bejelenteni, ha vele szemben közvádra üldözendő bűntett megalapozott gyanúját közölték.
 
@@ -322,7 +324,7 @@ a küldemény átvételének megtagadása napján közöltnek kell tekinteni.
 
 (4) Ha a postai szolgáltatásokra vonatkozó jogszabály szerint a címzett küldeményeinek átvételére jogosult, de a (2) bekezdésbe nem tartozó személy tagadta meg az átvételt, a jognyilatkozatot nem lehet közöltnek tekinteni.
 
-(5) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a (2)–(3) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított 15 napon, de legkésőbb a vélelem beálltától számított 6 hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+(5) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a kézbesítési kifogás az eljárás kezdeményezésével egyidejűleg, a kézbesítési fikció beálltáról való tudomásszerzéstől számított 15 napon, de legkésőbb a fikció beálltától számított 3 hónapon belül terjeszthető elő a bíróságnál. A kézbesítési kifogásra egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (6) Vita esetén a jognyilatkozatot tevő felet terheli annak bizonyítása, hogy a közlés szabályszerűen megtörtént.
 
@@ -562,7 +564,7 @@ rendelkezéseit kell megfelelően alkalmazni. A vizsgáló személyére vonatkoz
 
 (3) A Hszt. 224. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a határozat meghozatala során e törvény 33/N. § (3) bekezdését is megfelelően alkalmazni kell.
 
-(4) A Hszt. 224. § (2) bekezdése szerinti döntéssel szemben önálló jogorvoslatnak nincs helye, a pénzügyőr az annak végrehajtásáról rendelkező határozatot a közléstől számított 30 napon belül bíróság előtt keresettel támadhatja meg.
+(4) A Hszt. 224. § (2) bekezdése szerinti döntéssel szemben önálló jogorvoslatnak nincs helye, a pénzügyőr az annak végrehajtásáról rendelkező határozat ellen közigazgatási pert indíthat.
 
 17/G. § (1) Nincs helye szolgálati panasznak/panasznak a hivatásos szolgálati jogviszony megszüntetésére vonatkozó, a jogviszony egyoldalú módosításáról szóló munkáltatói intézkedéssel, a minősítés és a teljesítményértékelés megállapításaival, az összeférhetetlenség megszüntetésére irányuló írásbeli felszólítással szemben, a megállapodás eredménytelen megtámadása miatt, továbbá a fegyelmi ügyben hozott határozattal, a pénzügyőr kártérítési felelősségét megállapító határozattal, a kártérítési ügyben önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel, a fizetési felszólítással, a sérelemdíj megfizetése ügyében hozott határozattal, illetve a 34/E. §-on alapuló állásból felfüggesztést elrendelő határozattal szemben.
 
@@ -642,6 +644,8 @@ fegyelmi büntetés szabható ki.
 (4) A Hszt. 289. § (4) bekezdését a kártérítési eljárás során azzal az eltéréssel kell alkalmazni, hogy a kártérítési eljárásra az (1)–(3) bekezdés szerinti eltéréssel az e törvény szerinti szabályok az irányadók. Az e törvényben nem szabályozott kérdésekben a Nemzeti Közszolgálati Egyetem fegyelmi és kártérítési szabályzatának rendelkezéseit kell alkalmazni.
 
 18. § (1) E törvény alkalmazása során a Kttv. 6. § 11. és 20a. pontja, 10. §-a, 11. § (4)–(6) bekezdése, 13–25. §-a, 29. § (6) bekezdés o) pontja, 40. §-a 41/A–41/B. §-a, 45. § (1) bekezdése, 48. §-a, 52. §-a, 54. §-a, 63. § (2) bekezdés h) pontja, 64/A. §-a, 65. §-a, 68. § (4) bekezdésnek az összeférhetetlenségi szabály nem alkalmazhatóságára vonatkozó rendelkezése, 69. § (2) bekezdése, 80–82. §-a, 83/A. §-a, 84–87. §-a, 96–98. §-a, 100–108. §-a, 110–117. §-a, 118. § (1)–(2) és (11) bekezdése, 119–121. §-a, 122. § (1) és (5)–(6) bekezdése, 123. §-a, 126–143. §-a, 145–149/A. §-a, 150. § (1)–(2) és (4) bekezdése, 151. §-a, 152. § (1)–(3) és (7) bekezdése, 153. §-a, 154. § (1) bekezdése, 155–175. §-a, 183/C. §-a, 190. §-a, 192–194. §-a, 207. § (6) bekezdése, 208. § (2) bekezdése, 209. §-a, 259. § (1) bekezdés 4. és 5. pontja, 6. pont a)–b), d) és f) alpontja, 7. pontja, 10. pont c) alpontja, 11. pontja, 17. pont c) alpontja, (5) bekezdés b) és c) pontja, valamint 1. melléklete nem alkalmazható.
+
+(1a) A Kttv. 8. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a tárgyévben munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám húsz százalékát.
 
 (2) A Kttv. 50. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a teljes munkaidőben foglalkoztatott kormánytisztviselő írásbeli kérelmére a munkáltató akkor köteles a kinevezésben heti húszórás részmunkaidőt kikötni, ha a kormánytisztviselő a kérelem benyújtásakor a 32/U. § (1) bekezdésében foglalt illetmény nélküli szabadságot vesz igénybe.
 
@@ -1860,7 +1864,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 - a) ha szakértői vizsgálat szükséges, a szakvélemény elkészítéséig;
 - b) ha az eljárás alá vont külföldön tartózkodik, a 33/P. § (4) bekezdésben meghatározott időpontig;
 - c) ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult – legfeljebb az eljárás jogerős befejezéséig;
-- d) ha a cselekmény elbírálása olyan előzetes kérdéstől függ, amelynek eldöntése bíróság vagy más hatóság hatáskörébe tartozik, annak a jogerős döntéséig. Ha a felfüggesztés indoka megszűnik, a vizsgálóbiztos javaslatára a fegyelmi jogkör gyakorlója haladéktalanul elrendeli az eljárás folytatását.
+- d) ha a cselekmény elbírálása olyan előzetes kérdéstől függ, amelynek eldöntése bíróság vagy más hatóság hatáskörébe tartozik, annak a jogerős vagy végleges döntéséig. Ha a felfüggesztés indoka megszűnik, a vizsgálóbiztos javaslatára a fegyelmi jogkör gyakorlója haladéktalanul elrendeli az eljárás folytatását.
 
 (5) A fegyelmi tanács elnöke a fegyelmi eljárás tárgyalási szakaszában a fegyelmi eljárást felfüggesztheti
 
@@ -1888,7 +1892,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (6) Az (5) bekezdés szerinti eljárást az okról való tudomásszerzést követően haladéktalanul meg kell indítani.
 
-(7) Az (5) bekezdés szerinti esetben a munkáltatói jogkör gyakorlója az érintettet – amennyiben az a bűncselekmény, amely miatt az érintett ellen a büntetőeljárás indult, az érintett által betöltött munkakör tekintélyét, illetve a NAV tekintélyét, jó hírnevét, a működésébe vetett közbizalmat súlyosan veszélyezteti, vagy az eljárás miatt az érintettnek a munkahelytől való távoltartása indokolt – az állásából az eljárás befejezéséig felfüggesztheti. A munkáltatói jogkör gyakorlója a felfüggesztésről határozatban rendelkezik. Az érintett a határozat felülvizsgálata iránt közvetlenül bírósághoz fordulhat.
+(7) Az (5) bekezdés szerinti esetben a munkáltatói jogkör gyakorlója az érintettet – amennyiben az a bűncselekmény, amely miatt az érintett ellen a büntetőeljárás indult, az érintett által betöltött munkakör tekintélyét, illetve a NAV tekintélyét, jó hírnevét, a működésébe vetett közbizalmat súlyosan veszélyezteti, vagy az eljárás miatt az érintettnek a munkahelytől való távoltartása indokolt – az állásából az eljárás befejezéséig felfüggesztheti. A munkáltatói jogkör gyakorlója a felfüggesztésről határozatban rendelkezik. Az érintett a határozat ellen közvetlenül bírósághoz fordulhat.
 
 (8) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani, kivéve, ha az így folyósítandó összeg nem érné el a mindenkori minimálbért. Ilyen esetben a visszatartást úgy kell alkalmazni, hogy a folyósított összeg nem lehet kevesebb a mindenkori minimálbér összegénél. A visszatartott illetményt a visszatartás időpontjától számított, Ptk. szerinti kamatával növelten utólag ki kell fizetni, ha a méltatlanság nem állapítható meg. A kifizetést az erről szóló döntés közlését követő 15 napon belül kell teljesíteni.
 
@@ -2113,7 +2117,7 @@ az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását g
 
 - a) azt keresettel nem támadták meg, a kereset előterjesztésére nyitva álló határidő lejártát követő napon,
 - b) a keresetet visszavonták, a visszavonás napjával, vagy ha a per szünetelés folytán szűnt meg, a per megszűnésének napjával,
-- c) a bíróság a keresetlevelet idézés kibocsátása nélkül jogerősen elutasította, vagy a pert jogerősen megszüntette, vagy jogerős ítéletet hozott, a bíróság határozatának a jogerőre emelkedése napjával. A jogerős határozatot – a (2)–(5) bekezdés szerinti eltérésekkel – a jogerőre emelkedésről való, NAV általi tudomásszerzést követő 15 napon belül végre kell hajtani.
+- c) a bíróság a keresetlevelet jogerősen visszautasította, vagy a pert jogerősen megszüntette, vagy jogerős ítéletet hozott, a bíróság határozatának a jogerőre emelkedése napjával. A jogerős határozatot – a (2)–(5) bekezdés szerinti eltérésekkel – a jogerőre emelkedésről való, NAV általi tudomásszerzést követő 15 napon belül végre kell hajtani.
 
 (2) A fegyelmi határozat a jogerőre emelkedéséig – a (4)–(5) bekezdés kivételével – nem végrehajtható. Ha azonban a kormánytisztviselő, a pénzügyőr, az ügykezelő a határozat jogerőre emelkedése előtt a kormányzati szolgálati jogviszonyát, hivatásos szolgálati jogviszonyát megszünteti, a határozat azonnal végrehajthatóvá válik.
 
@@ -2127,7 +2131,7 @@ az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását g
 
 ### Eljárás a kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal össze nem függő bűncselekmény esetén
 
-34/E. § (1) Amennyiben a kormánytisztviselővel, a pénzügyőrrel, az ügykezelővel szemben a kormányzati szolgálati jogviszonyból, hivatásos szolgálati jogviszonyból eredő kötelezettségeivel össze nem függő bűncselekmény miatt büntetőeljárás indul, a munkáltatói jogkör gyakorlója – fegyelmi eljárás megindítása nélkül – az érintettet az állásából az eljárás befejezéséig felfüggesztheti. A munkáltatói jogkör gyakorlója a felfüggesztésről határozatban rendelkezik. Az érintett a határozat felülvizsgálata iránt közvetlenül bírósághoz fordulhat.
+34/E. § (1) Amennyiben a kormánytisztviselővel, a pénzügyőrrel, az ügykezelővel szemben a kormányzati szolgálati jogviszonyból, hivatásos szolgálati jogviszonyból eredő kötelezettségeivel össze nem függő bűncselekmény miatt büntetőeljárás indul, a munkáltatói jogkör gyakorlója – fegyelmi eljárás megindítása nélkül – az érintettet az állásából az eljárás befejezéséig felfüggesztheti. A munkáltatói jogkör gyakorlója a felfüggesztésről határozatban rendelkezik. Az érintett a határozat ellen közvetlenül bírósághoz fordulhat.
 
 (2) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani, kivéve, ha az így folyósítandó összeg nem érné el a mindenkori minimálbért. Ilyen esetben a visszatartást úgy kell alkalmazni, hogy a folyósított összeg nem lehet kevesebb a mindenkori minimálbér összegénél. A visszatartott illetményt a visszatartás időpontjától számított, a Ptk. szerinti kamatával növelten utólag ki kell fizetni, ha a büntetőeljárás jogerősen felmentéssel, illetve a büntetőeljárás bármely szakaszában megszüntetéssel zárul. A kifizetést a jogerős felmentést, illetve a büntetőeljárás jogerős megszüntetését tartalmazó irat NAV általi tudomásszerzését követő 15 napon belül kell teljesíteni.
 
@@ -2243,7 +2247,7 @@ az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását g
 
 (6) A (2)–(5) bekezdéstől eltérően, ha a foglalkoztatott kormányzati szolgálati jogviszonya, hivatásos szolgálati jogviszonya, munkaviszonya megszűnik vagy megszüntetésre kerül, a munkáltató a kártérítési felelősség megállapítása érdekében közvetlenül bírósághoz fordulhat. A leltárhiányért fennálló felelősség megállapítása érdekében ilyenkor az (5) bekezdésben meghatározott határidőn belül lehet bírósághoz fordulni.
 
-(7) A (2)–(4) bekezdéstől eltérően, ha a tényállás megítélése egyszerű, és a kár összege ismert, a munkáltatói jogkör gyakorlója, vagy az általa felhatalmazott vezető értesíti a kártérítési eljárás megindításáról a károkozót. Ilyen esetben az értesítésben – az adott károkozás meghatározása és a kártérítés összegének közlése mellett – a károkozót fizetésre kell felszólítani. Amennyiben a károkozó az értesítés közlésétől (16/G. §) számított 8 munkanapon belül a kártérítési felelősségét, annak mértékét és a kártérítés összegét írásban elismeri, az ügyben nem kell vizsgálóbiztost kijelölni és nem kell határozatot hozni, továbbá ilyen esetben – amennyiben a (10) bekezdés szerinti tájékoztatás szabályszerűen megtörtént – a kártérítési ügy (ideértve a fizetési felszólítást is) bírósági felülvizsgálata kizárt.
+(7) A (2)–(4) bekezdéstől eltérően, ha a tényállás megítélése egyszerű, és a kár összege ismert, a munkáltatói jogkör gyakorlója, vagy az általa felhatalmazott vezető értesíti a kártérítési eljárás megindításáról a károkozót. Ilyen esetben az értesítésben – az adott károkozás meghatározása és a kártérítés összegének közlése mellett – a károkozót fizetésre kell felszólítani. Amennyiben a károkozó az értesítés közlésétől (16/G. §) számított 8 munkanapon belül a kártérítési felelősségét, annak mértékét és a kártérítés összegét írásban elismeri, az ügyben nem kell vizsgálóbiztost kijelölni és nem kell határozatot hozni, továbbá ilyen esetben – amennyiben a (10) bekezdés szerinti tájékoztatás szabályszerűen megtörtént – a kártérítési ügy (ideértve a fizetési felszólítást is) perben nem támadható meg.
 
 (8) Ha a (7) bekezdés szerinti esetben a károkozó az értesítésben meghatározott határidőig nem teljesít, a károkozó (7) bekezdés szerinti nyilatkozata egyúttal a 28/D. § (2) bekezdés szerinti, illetve az Mt. 161. § (2) bekezdés a) pontja szerinti hozzájárulásnak minősül, és a munkáltató az értesítésben megjelölt határidőtől számított, a Ptk. szerinti kamattal növelt követelését – a 28/D. § (2) bekezdésben, illetve az Mt. 161. § (2) bekezdés a) pontjában meghatározott módon – a károkozó illetményéből, munkabéréből, pénzben kifizetendő egyéb járandóságából levonhatja. Amennyiben a károkozó kormányzati szolgálati jogviszonya, hivatásos szolgálati jogviszonya, munkaviszonya a követelés teljes megtérítése előtt megszűnik vagy megszüntetésre kerül, a munkáltató a (7) bekezdés szerinti fizetési felszólítás és a károkozó (7) bekezdés szerinti nyilatkozata alapján bírósági végrehajtást kezdeményezhet.
 
@@ -2261,13 +2265,13 @@ az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását g
 
 (3) Az (1)–(2) bekezdés szerinti kérelem előterjesztésének lehetőségére a vizsgálóbiztos a vizsgálat során köteles felhívni a foglalkoztatott figyelmét.
 
-(4) Az (1)–(2) bekezdés szerinti kérelem tárgyában hozott döntés ellen az érintett közvetlenül bírósághoz fordulhat; a döntés bírósági felülvizsgálatát a kártérítési felelősségét megállapító határozat elleni keresetében kérheti.
+(4)
 
-(5) Az érintett a körülményeiben bekövetkezett lényeges változásra tekintettel – a kártérítés összegének megfizetéséig – utólag is előterjesztheti az (1)–(2) bekezdés szerinti kérelmet. A kérelem tárgyában a munkáltatói jogkör gyakorlója 15 napon belül önálló határozattal dönt, kivéve, ha a foglalkoztatott a kártérítést megállapító határozat bírósági felülvizsgálatát kérte, és a bíróság az ügyben még nem hozott jogerős döntést. Ilyen esetben a kérelmet a jogerős bírósági döntésnek a munkáltatói jogkör gyakorlójához történt kézbesítéstől számított 15 napon belül kell elbírálni.
+(5) Az érintett a körülményeiben bekövetkezett lényeges változásra tekintettel – a kártérítés összegének megfizetéséig – utólag is előterjesztheti az (1)–(2) bekezdés szerinti kérelmet. A kérelem tárgyában a munkáltatói jogkör gyakorlója 15 napon belül önálló határozattal dönt, kivéve, ha a foglalkoztatott a kártérítést megállapító határozatot bíróság előtt megtámadta, és a bíróság az ügyben még nem hozott jogerős döntést. Ilyen esetben a kérelmet a jogerős bírósági döntésnek a munkáltatói jogkör gyakorlójához történt kézbesítéstől számított 15 napon belül kell elbírálni.
 
 (6) Ha az (5) bekezdés szerinti kérelem elbírálásához a tényállás kiegészítése szükséges, az elbírálásra rendelkezésre álló határidő legfeljebb 30 nappal meghosszabbítható. A kérelem előterjesztésétől a döntés közléséig a kérelmező fizetési kötelezettsége, illetve a munkáltató 28/D. § szerinti levonási joga szünetel.
 
-(7) A foglalkoztatott az (5) bekezdés szerinti kérelem tárgyában hozott döntés felülvizsgálata iránt közvetlenül bírósághoz fordulhat.
+(7) A foglalkoztatott az (5) bekezdés szerinti kérelem tárgyában hozott döntés ellen közvetlenül bírósághoz fordulhat.
 
 (8) Amennyiben a foglalkoztatott az esedékes részletet 15 napot meghaladóan sem teljesíti, a kedvezmény érvényét veszti, és a tartozás egy összegben, a nem teljesített részlet esedékességétől számított, Ptk. szerinti kamattal növelten esedékessé válik, illetve a munkáltató a követelését a 28/D. § szerinti levonás útján érvényesítheti. Ugyanígy kell eljárni, ha a foglalkoztatott a fizetési halasztásra engedélyezett határidőt követően 15 napot meghaladóan sem teljesít. Erre a határozat rendelkező részében fel kell hívni a foglalkozatott figyelmét.
 
@@ -2402,7 +2406,7 @@ a munkáltató kártérítési felelősségének közös szabályai
 - i) a 33/P. § (7) bekezdésén és a 34/E. §-on alapuló állásból való felfüggesztéssel kapcsolatos ügyekben, továbbá
 - j) a sérelemdíj megfizetése ügyében hozott határozattal kapcsolatos ügyekben, továbbá
 - k) ha a pénzügyőr szolgálati panaszát elutasították;
-- l) ha a pénzügyőr ügyében a sérelmezett döntést a kijelölt miniszter hozta. A kijelölt miniszter fegyelmi ügyben hozott határozata az f) pont alapján támadható meg a bíróságnál.
+- l) ha a pénzügyőr ügyében a sérelmezett döntést a kijelölt miniszter hozta.
 
 (5) A munkáltatói kártérítési felelősség tárgyában a pénzügyőr kártérítési igényére adott, illetve a pénzügyőr sérelemdíj igényére adott munkáltatói nyilatkozat és az azon alapuló intézkedés ellen, továbbá a nyilatkozat elmulasztása esetén a kártérítési igény, illetve a sérelemdíj érvényesítése érdekében a pénzügyőr az igény érvényesítésére vonatkozó elévülési időn belül közvetlenül a bírósághoz fordulhat.
 
@@ -2414,11 +2418,11 @@ a munkáltató kártérítési felelősségének közös szabályai
 - b) a kártérítési felelősséget megállapító határozattal vagy önálló határozattal elbírált méltányossági, illetve fizetési könnyítési kérelem tárgyában hozott döntéssel szemben
 - c) a sérelemdíj megfizetése ügyében hozott határozattal kapcsolatos ügyben.
 
-(8) A kormánytisztviselőnek, a pénzügyőrnek, az ügykezelőnek, a munkavállalónak a pert akkor is a munkáltató ellen kell megindítania, ha a keresettel megtámadott döntést nem a munkáltatói jogkör gyakorlója hozta.
+(8)
 
-(9) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
+(9)
 
-(10) A (4) bekezdés b)–g) és j)–l) pontjában foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre, ide nem értve
+(10) A (4) bekezdés b)–g) és j)–l) pontjában foglalt esetekben a keresetlevél benyújtásának halasztó hatálya van, ide nem értve
 
 - a) a 34/D. § (2) bekezdés utolsó mondata, és a (4)–(5) bekezdése szerinti esetet,
 - b) a (4) bekezdés b) pontja szerinti esetet akkor,
@@ -2427,11 +2431,11 @@ a munkáltató kártérítési felelősségének közös szabályai
 - c)
 - d) a (4) bekezdés d) pontja alapján megtámadott minősítésen alapuló intézkedést, ide nem értve, ha az intézkedés a (4) bekezdés a) pontja szerinti esettel egyezik meg.
 
-(10a) Ha a minősítés megállapításainak felülvizsgálata iránti perben hozott jogerős ítélet alapján az állapítható meg, hogy – a (10) bekezdés d) pontja alapján a bíróság jogerős döntése előtt is végrehajtható – minősítésen alapuló intézkedésre nem kerülhetett volna sor, az eredeti állapotot – a (10b) bekezdés kivételével – 30 napon belül helyre kell állítani.
+(10a) Ha a minősítés megállapításai elleni perben hozott jogerős ítélet alapján az állapítható meg, hogy – a (10) bekezdés d) pontja alapján a bíróság jogerős döntése előtt is végrehajtható – minősítésen alapuló intézkedésre nem kerülhetett volna sor, az eredeti állapotot – a (10b) bekezdés kivételével – 30 napon belül helyre kell állítani.
 
 (10b) Ha a végrehajtott intézkedés miatt az érintettet jövedelemkiesés is érte, a különbözetet az intézkedés végrehajtásának időpontjától számítva, a Ptk. szerinti kamattal növelt összegben, 15 napon belül ki kell fizetni.
 
-(11) A (7) bekezdés a) és c) pontjában foglalt esetben a sérelmezett határozat a bíróság jogerős döntéséig nem hajtható végre.
+(11) A (7) bekezdés a) és c) pontjában foglalt esetben a keresetlevél benyújtásának halasztó hatálya van.
 
 (12) Az érdekképviseleti szerv, valamint a munkáltató az e törvényből, vagy a Kttv.-ből, illetve a Hszt.-ből származó igényét – a munkáltató esetében kivéve, ha e törvény, vagy a Kttv. illetve a Hszt. eltérően rendelkezik – bíróság előtt érvényesítheti.
 
@@ -2586,7 +2590,7 @@ igazolja.
 
 35/F. § (1) Akinek az e fejezetben – a 36/J. §, 36/M. §, a 37/A–37/B. § kivételével – meghatározott intézkedés vagy kényszerítő eszköz alkalmazása (jelen § alkalmazásában az intézkedés és a kényszerítő eszköz a továbbiakban együtt: intézkedés) jogát vagy jogos érdekét sértette – a 36/C. § (3) bekezdés, a 36/F. § (3) bekezdés, a 36/G. § (3) bekezdés és a 36/L. § (4) bekezdés szerinti eltéréssel és a 36/N. § (4) bekezdés szerinti korlátozással –, panasszal fordulhat a NAV intézkedést foganatosító szervéhez, illetve nyomozó szervéhez. A panasznak nincs halasztó hatálya.
 
-(2) Az intézkedést foganatosító szerv vezetője a panaszt közigazgatási hatósági eljárásban bírálja el. Az eljárás során a jelen §-ban nem szabályozott kérdésekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(2) Az intézkedést foganatosító szerv vezetője a panaszt az általános közigazgatási rendtartás szabályai szerint bírálja el. Az eljárás során a jelen §-ban nem szabályozott kérdésekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (3) A panaszt az intézkedést követő 8 napon belül az intézkedést foganatosító szervnél, illetve nyomozó szervnél lehet előterjeszteni.
 
@@ -2598,7 +2602,7 @@ igazolja.
 
 (7) A felettes szerv határozatát írásban, a panaszt elbíráló határozatot hozó szerv, illetve nyomozó szerv útján kell közölni a fellebbezővel.
 
-(8) A felettes szerv határozata közigazgatási határozat, amelynek bírósági felülvizsgálatát – a közigazgatási határozatok bírósági felülvizsgálatára vonatkozó szabályok szerint – kérheti az, aki az (1) bekezdés szerint panasz előterjesztésére jogosult.
+(8) A felettes szerv határozatát közigazgatási perben a panasz előterjesztésére jogosult személy támadhatja meg.
 
 35/G. § E fejezet alkalmazásában magánlakásnak a lakás (üdülő, nyaraló vagy a lakás céljára használt egyéb helyiség, létesítmény, tárgy), az ahhoz tartozó nem lakás céljára szolgáló helyiség, létesítmény, bekerített terület minősül.
 
@@ -2727,7 +2731,7 @@ kérheti fel.
 
 36/M. § (1) A pénzügyőr eljárása során megvizsgálhatja, hogy az ellenőrzés alá vont áru tulajdonosának van-e az állami adó- és vámhatóság felé meg nem fizetett, végrehajtható adó- vagy vámtartozása, illetve végrehajtás alá vont adó módjára behajtandó köztartozása, továbbá e vizsgálat eredményeként jogosult a végrehajtás alá vonható ingó vagyontárgyak lefoglalására.
 
-(2) Az (1) bekezdés szerinti foglalás ellen az Art. szerinti végrehajtási kifogásnak van helye, amelyet a NAV-nak az áru tulajdonosának székhelye szerint illetékes szervéhez kell benyújtani.
+(2)
 
 (3) Ingófoglalás céljából, továbbá – ha azt jogszabály lehetővé teszi – a végrehajtásban való pénzügyőri közreműködés céljából a pénzügyőr magánlakásba, és magánlakásnak nem minősülő egyéb helyre beléphet.
 
@@ -3104,15 +3108,15 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 ### Az adatkezelés általános szabályai
 
-66. § (1) A NAV 13. § (1) bekezdésben meghatározott feladatainak, bűnüldözési feladatainak, az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján hatáskörébe tartozó feladatainak, szabálysértési, valamint rendészeti és az egyéb államigazgatási feladatainak ellátásához a bűncselekmény elkövetésével gyanúsítottak, a büntetőeljárás alá vontak, a sértettek és egyéb közreműködők, az adóigazgatási és vámigazgatási eljárás, az egyéb közigazgatási, rendészeti, szabálysértési eljárásban az adózók, ügyfelek, egyéb érintettek, eljárás alá vontak, egyéb közreműködők személyes adatait kezeli, továbbá más adatokat kezel.
+66. § (1) A NAV 13. § (1) bekezdésben meghatározott feladatainak, bűnüldözési feladatainak, az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.), az adózás rendjéről szóló törvény (a továbbiakban: Art.), az uniós vámjog végrehajtásáról szóló törvény (a továbbiakban: Vtv.) és az egyéb adó- és vám jogszabályok alapján hatáskörébe tartozó feladatainak, szabálysértési, valamint rendészeti és az egyéb államigazgatási feladatainak ellátásához a bűncselekmény elkövetésével gyanúsítottak, a büntetőeljárás alá vontak, a sértettek és egyéb közreműködők, az adóigazgatási és vámigazgatási eljárás, az egyéb közigazgatási, rendészeti, szabálysértési eljárásban az adózók, ügyfelek, egyéb érintettek, eljárás alá vontak, egyéb közreműködők személyes adatait kezeli, továbbá más adatokat kezel.
 
 (2) A bűnüldözési feladatokhoz kapcsolódó adatokat, valamint a 78. § szerint egyéb adatkezelés alá vont adatokat elkülönítetten kell kezelni, és – ha törvény eltérően nem rendelkezik – kizárólag a kezelésük alapjául szolgáló célra lehet felhasználni.
 
 (3) A NAV az (1) bekezdésben meghatározottak szerint kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
-67. § (1) A NAV által vezetett, az Art., a Vtv. és az egyéb adó- és vámjogszabályok alapján a feladat- és hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási, vámigazgatási eljárással kapcsolatos nyilvántartások összekapcsolhatók. A NAV adóztatási feladatainak ellátása céljából kezelt adatokat, vámigazgatási feladatainak ellátása céljából a vámigazgatási feladatokat ellátó alkalmazott, illetve a NAV vámigazgatási feladatainak ellátása céljából kezelt adatokat, adóztatási feladatainak ellátása céljából az adóztatási feladatokat ellátó alkalmazott megismerheti, felhasználhatja, ideértve a megismert adatnak az ellenőrzésre történő kiválasztás során való felhasználását is.
+67. § (1) A NAV által vezetett, az Air., az Art., a Vtv. és az egyéb adó- és vámjogszabályok alapján a feladat- és hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási, vámigazgatási eljárással kapcsolatos nyilvántartások összekapcsolhatók. A NAV adóztatási feladatainak ellátása céljából kezelt adatokat, vámigazgatási feladatainak ellátása céljából a vámigazgatási feladatokat ellátó alkalmazott, illetve a NAV vámigazgatási feladatainak ellátása céljából kezelt adatokat, adóztatási feladatainak ellátása céljából az adóztatási feladatokat ellátó alkalmazott megismerheti, felhasználhatja, ideértve a megismert adatnak az ellenőrzésre történő kiválasztás során való felhasználását is.
 
-(2) Az e törvényben nem szabályozott kérdésekben a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos adatok kezelésére, nyilvántartására, az adatszolgáltatásra, az adatok átvételére és átadására az Art., a Vtv. és az egyéb adó- és vám jogszabályok rendelkezéseit kell irányadónak tekinteni.
+(2) Az e törvényben nem szabályozott kérdésekben a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos adatok kezelésére, nyilvántartására, az adatszolgáltatásra, az adatok átvételére és átadására az Air., az Art., a Vtv. és az egyéb adó- és vám jogszabályok rendelkezéseit kell irányadónak tekinteni.
 
 68. § Amennyiben törvény előírja vagy megengedi a NAV és más szervek közötti adatszolgáltatást, illetve adatátadást – ha a technikai feltételek mindkét szervnél adottak –, az adatszolgáltatás, adatátadás, adatátvétel elektronikus úton is teljesíthető.
 
@@ -3257,7 +3261,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - d) a nemzetbiztonsági szolgálatok,
 - e) a külpolitikáért felelős miniszter által irányított minisztérium illetékes szerve,
 - f) a honvédelmi igazgatás illetékes szerve,
-- g) a NAV feladat- és hatáskörrel rendelkező szerve az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
+- g) a NAV feladat- és hatáskörrel rendelkező szerve az Air., az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
 - h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv,
 - i) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából.
 
@@ -3273,7 +3277,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 ### Egyéb adatkezelés
 
-78. § (1) A NAV feladatainak ellátása céljából – az Art., a Vtv. és az egyéb adó- és vám jogszabályok rendelkezései alapján kezelt adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos adatokon, illetve a bűnüldözési adatokon kívül – kezeli még továbbá:
+78. § (1) A NAV feladatainak ellátása céljából – az Air., az Art., a Vtv. és az egyéb adó- és vám jogszabályok rendelkezései alapján kezelt adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos adatokon, illetve a bűnüldözési adatokon kívül – kezeli még továbbá:
 
 - a) a szabálysértésért felelősségre vont személy természetes személyazonosító adatait, lakcímét, az elkövetett cselekmény megjelölését, az alkalmazott büntetést vagy intézkedést, illetve az ügy számát, a szabálysértésért felelősségre vont személyek nyilvántartási rendszerében a felelősséget megállapító határozat jogerőre emelkedésétől számított két évig,
 - b) az igazoltatott személy természetes személyazonosító adatait, lakcímét, valamint az igazoltatásra okot adó körülmények megjelölését az igazoltatás alá vont személyek nyilvántartási rendszerében az igazoltatástól számított legfeljebb két évig,
@@ -3282,7 +3286,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés alapján a nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 
-(2) Az (1) bekezdés b–c) pontjának rendelkezései nem alkalmazandók az Art. 101–103. §-a alapján tett intézkedésekre.
+(2) Az (1) bekezdés b–c) pontjának rendelkezései nem alkalmazandók az elővezetés, az igazoltatás és az ellenőrzési eljárás zavartalanságának biztosítása, továbbá a helyszín, helyiség, jármű átvizsgálása, rakomány ellenőrzésének Air. szerinti szabályai alapján tett intézkedésekre.
 
 (3) A NAV hatáskörébe tartozó szabálysértési, rendészeti és egyéb közigazgatási eljárással összefüggő személyes adatok kezelésére a külön törvények rendelkezései az irányadók.
 
@@ -3308,6 +3312,14 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (3) Az EU váminformációs rendszeréből a nemzeti hatóság által rögzített személyes adatokat a 72. § (1) bekezdésében meghatározott törlési határidők alapján, de legfeljebb húsz év elteltével törölni kell.
 
+80/A. § (1) A NAV a jogszabályban meghatározott adókedvezményre, adóalap-kedvezményre vagy adómentességre való jogosultságra vonatkozó kormányzati tájékoztatás céljából jogosult az adókedvezményre, adóalap-kedvezményre vagy adómentességre jogosult személy nevére, lakcímére, valamint az adókedvezményére, adóalap-kedvezményére vagy adómentességére vonatkozó adatainak kezelésére.
+
+(2) A NAV a Kormány tagja felkérésére, az adópolitikáért felelős miniszter utasítása alapján teljesíti a jogszabályban meghatározott adókedvezményre, adóalap-kedvezményre, vagy adómentességre való jogosultsággal összefüggő, az adópolitikáért felelős miniszter által meghatározott kormányzati tájékoztatást.
+
+(3) Jelen § szerinti kormányzati tájékoztatás során a NAV az adózás rendjéről szóló 2017. évi CL. törvény 128. § (1) bekezdés f) pontjára figyelemmel gondoskodik az adótitok megőrzéséről, a kormányzati tájékoztatás céljából kezelt személyes adatot más adatkezelőnek nem továbbítja.
+
+(4) A NAV nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a NAV részére írásban, neve és lakcíme megadásával nyilatkozik arról, hogy az adott adókedvezmény, adóalap-kedvezmény vagy adómentesség tekintetében a tájékoztatásra nem tart igényt. A NAV a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célra nem kezelheti és más szerv részére nem továbbíthatja.
+
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 ### Felhatalmazások
@@ -3323,7 +3335,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - a) a Központi Irányítást és a területi szerveket,
 - b)–c)
 - d) a Bűnügyi Főigazgatóságot és a NAV nyomozóhatósági feladatait ellátó területi szerveit,
-- e) az Art. 7. számú melléklet 18. pontja szerinti szervet,
+- e)
 - f)
 - g) a hozzáadottérték-adó területén történő közigazgatási együttműködésről és csalás elleni küzdelemről szóló 2010. október 7-i 904/2010/EU tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti központi kapcsolattartó irodát és szükség esetén e rendelet 2. cikk (1) bekezdés b) pontja szerinti kapcsolattartó szervet,
 - h) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatóságot,
@@ -3943,47 +3955,7 @@ Besorolási kategóriák fizetési fokozataihoz rendelt rendfokozatok
 
 ### 7/A. számú melléklet a 2010. évi CXXII. törvényhez
 
-### 8. számú melléklet a 2010. évi CXXII. törvényhez
-
-Az Art. 2. számú melléklet I/Általános rendelkezések/3. pontja helyébe a következő rendelkezés lép:
-
-„3. Az állami adóhatóságnál nyilvántartott adót – a magánszemély által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, egészségügyi hozzájárulást, járulékot, valamint a magánszemélyt terhelő vagyonszerzési illetéket, a cégautóadót és az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget kivéve –, a költségvetési támogatást 1000 forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. Az adózó a 100 forintot el nem érő adóját (magán-nyugdíjpénztári tagdíját) nem fizeti meg, és az adóhatóság a 100 forintot el nem érő adó (magán-nyugdíjpénztári tagdíj)-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.”
-
-### 9. számú melléklet a 2010. évi CXXII. törvényhez
-
-- 1. Az Art. 3. számú mellékletének G/1. pontja helyébe a következő rendelkezés lép:
-
-„1. Az építésügyi hatóság az általa kiadott jogerős használatbavételi, illetőleg jogerős fennmaradási engedély egy példányát, a jogerőre emelkedés közlése időpontjának megjelölésével megküldi az illetékes önkormányzati adóhatósághoz és az ingatlan fekvése szerint illetékes állami adóhatósághoz.”
-
-- 2. Az Art. 3. számú mellékletének G/2. pontja a következő g) ponttal egészül ki:
-
-„g) a tehergépjármű, az autóbusz légrugós vagy azzal egyenértékű rugózási rendszerének (útkímélő tengely) tényét.”
-
-- 3. Az Art. 3. számú mellékletének G/3. pontja helyébe a következő rendelkezés lép:
-
-„3. a közúti közlekedési nyilvántartási szerv, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a járműnyilvántartásból, valamint az 1992. évi LXVI. törvény szerinti nyilvántartásból
-
-a) minden hónap 20. napjáig az előző hónap utolsó napja szerinti állapotnak megfelelő, az előző adatszolgáltatási időszakhoz képest bekövetkezett adókötelezettséget érintő változásokat (pl. gépjármű forgalomba helyezése, forgalomból való kivonása, átalakítása, teljesítményadatának, illetve környezetvédelmi osztályba sorolásának módosulása),
-
-b) január 20. napjáig a tárgyévet megelőző évben bekövetkezett tulajdonos-változásról szóló, régi tulajdonos által teljesített változás-bejelentést,
-
-c) január 20. napjáig azon tulajdonos tulajdonjoga kezdetének és megszűnésének időpontját, akit (amelyet) a közlekedési igazgatási hatóság a tárgyévet megelőző évben anélkül tüntetett fel utólag tulajdonosként a járműnyilvántartásban, hogy bejelentési kötelezettségének eleget tett volna, feltéve, hogy tulajdonjoga valamely naptári év első napján fennállt (a továbbiakban e tulajdonos: köztes tulajdonos),
-
-d) 2011. január 20. napjáig a 2006. január 1. és 2009. december 31. közötti időszakban a közlekedési igazgatási hatóság által a járműnyilvántartásba utólagosan bejegyzett köztes tulajdonos tulajdonjoga kezdetének és megszűnésének időpontját
-
-a 2. pont szerinti adattartalommal közli a gépjárműadó kivetésére illetékes települési önkormányzati, a fővárosban a kerületi önkormányzati adóhatósággal.”
-
-- 4. Az Art. 3. számú mellékletének K/2. pontja a következő új e) alponttal egészül ki:
-
-[2. Az adatszolgáltatás tartalmazza:]
-
-„e) a vevőt a vásárlás során képviselő magánszemély nevét és adóazonosító számát.”
-
-### 10. számú melléklet a 2010. évi CXXII. törvényhez
-
-Az Art. 8. számú mellékletének 3. A) pontja helyébe a következő rendelkezés lép:
-
-„3. A) Az 1. és 2. pontban meghatározott közösségi kereskedelemmel kapcsolatos ügyletről (összegről) arra az időszakra vonatkozóan kell összesítő nyilatkozatot tenni, amelynek során az adófizetési kötelezettség keletkezett. Az 1. A) pont h) alpontjában meghatározott összeget arra az időszakra vonatkozó összesítő nyilatkozatban kell szerepeltetni, amelyben a terméket beszerző, illetve szolgáltatást igénybe vevő személy az általános forgalmi adóról szóló törvény 77. §-a szerinti utólagos adóalap-csökkenés esetén a korrekció összegéről értesítést kapott. Az 1. A) pont e) alpontjában meghatározott szolgáltatás ellenértékének utólagos módosítása esetén a korrekció összegét arra az időszakra vonatkozó összesítő nyilatkozatban kell szerepeltetni, amelyben a szolgáltatást igénybevevő a korrekció összegéről értesítést kapott.”
+### 8–10. számú melléklet a 2010. évi CXXII. törvényhez
 
 ### 11. számú melléklet a 2010. évi CXXII. törvényhez
 

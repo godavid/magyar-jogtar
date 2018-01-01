@@ -294,7 +294,7 @@ rendelkezik.
 
 (11) A befizetett előleg, előlegkiegészítés és a járulék éves összege közötti különbözetet az adóévet követő adóév ötödik hónapja utolsó napjáig kell befizetni, illetőleg a többletbefizetést ettől az időponttól lehet visszaigényelni.
 
-(12) A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
+(12) A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
 (13) A járulékfizetésre kötelezett gazdasági társaság a járulékot az üzleti évre állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
 
@@ -524,27 +524,24 @@ használható fel.
 
 (6) A projektminősítési eljárás keretében hozott határozat az (5) bekezdés szerinti más hatóságra csak a projektnek a projektminősítési eljárás lefolytatására irányuló kérelemben foglaltakhoz képest változatlan megvalósítása mellett kötelező. Ha a projekt a projektminősítési eljárás lefolytatására irányuló kérelemben foglaltakhoz képest eltérően valósul meg, a tevékenység a 36. § (2) bekezdés a) pontja szerinti kedvezmények érvényesítése szempontjából új projektnek minősül, amelyre a minősítés hatálya nem terjed ki.
 
-39. § (1) Az SZTNH e fejezetben szabályozott eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit a következő eltérésekkel kell alkalmazni:
+39. § (1) Az SZTNH e fejezetben szabályozott eljárására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit a következő eltérésekkel és kiegészítésekkel kell alkalmazni:
 
-- a) nem alkalmazhatók a Ket. azon rendelkezései, amelyek az eljárás megindításával kapcsolatos értesítésre vonatkoznak,
-- b) a kérelmet csak írásban, az e célra rendszeresített formanyomtatványon vagy elektronikus űrlapon, az SZTNH-nál lehet előterjeszteni,
-- c) az SZTNH a tényeket az ügyfél nyilatkozatai és állításai alapján vizsgálja,
-- d) nem alkalmazhatók a Ket.-nek a közvetítő igénybevételére, a határozat közzétételére, az ügygondnokra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései,
-- e) nincs helye tárgyalás tartásának és közmeghallgatásnak,
-- f) az eljárásban – tájékoztatás kérése és annak teljesítése kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján,
-- g)
-- h) a projektminősítési eljárás ügyintézési határideje harminc nap,
-- i) a projektcsoport-minősítési eljárásban az egyes kijelölt projektek vizsgálatára és ezzel egyidejűleg a projektcsoport minősítésére vonatkozó ügyintézési határidő az egyes kijelölt projektekre vonatkozó külön kérelem benyújtását követő hatvan nap.
+- a) a kérelmet csak írásban, az e célra rendszeresített formanyomtatványon vagy elektronikus űrlapon lehet előterjeszteni,
+- b) az SZTNH a tényeket az ügyfél nyilatkozatai és állításai alapján vizsgálja,
+- c) az eljárásban – tájékoztatás kérése és annak teljesítése kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján,
+- d) nem alkalmazandóak az általános közigazgatási rendtartásról szóló törvénynek a határozat közhírré tételére, az ügygondnokra, a sommás eljárásra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései,
+- e) a projektminősítési eljárás ügyintézési határideje harminc nap,
+- f) a projektcsoport-minősítési eljárásban az egyes kijelölt projektek vizsgálatára és ezzel egyidejűleg a projektcsoport minősítésére vonatkozó ügyintézési határidő az egyes kijelölt projektekre vonatkozó külön kérelem benyújtását követő hatvan nap.
 
-(2) Az SZTNH döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak, az SZTNH-nak a 36. § (1) bekezdésében és a 38. § (1) bekezdésében meghatározott kérdésekben hozott határozatait a Fővárosi Törvényszék – a 40. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
+(2) Az SZTNH döntéseivel kapcsolatban nincs helye fellebbezésnek, közigazgatási pernek, felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek, az SZTNH-nak a 36. § (1) bekezdésében és a 38. § (1) bekezdésében meghatározott kérdésekben hozott határozatait a Fővárosi Törvényszék – a 40. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
 
-(3) Az SZTNH a 36. § (1) bekezdésében és a 38. § (1) bekezdésében meghatározott kérdésekben hozott döntését a Ket. 114. §-ában foglaltak szerint módosíthatja vagy visszavonhatja.
+(3) Az SZTNH a 36. § (1) bekezdésében és a 38. § (1) bekezdésében meghatározott kérdésekben hozott döntését az általános közigazgatási rendtartásról szóló törvény 120. §-ában foglaltak szerint módosíthatja vagy visszavonhatja.
 
 (4) A 36. § (1) bekezdése és a 38. § (1) bekezdése szerinti kérelem benyújtása esetén jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-(5) A minősítési eljárások tekintetében a Ket. nyelvhasználatra vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy az eljárás magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven folyik, a kérelmet magyar nyelven és – a Ket. 9. § (3) bekezdése szerinti esetben – nemzetiségi nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, az SZTNH azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
+(5) A minősítési eljárások magyar nyelven és – az általános közigazgatási rendtartásról szóló törvény 20. § (3) bekezdése szerinti esetben – nemzetiségi nyelven folynak, a kérelmet magyar nyelven és – az általános közigazgatási rendtartásról szóló törvény 20. § (3) bekezdése szerinti esetben – nemzetiségi nyelven kell benyújtani. A kérelem mellékleteként idegen nyelvű beadványokat is be lehet nyújtani, az SZTNH azonban – határidő tűzésével – magyar nyelvű fordítás benyújtását írhatja elő. Hitelesített fordítás benyújtása csak akkor írható elő, ha alappal vonható kétségbe a fordítás pontossága vagy a külföldi okiratban foglaltak valódisága.
 
-(6) Az (1) bekezdés a) pontjától eltérően, ha a minősítési eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezését követő naptól számított nyolc napon belül az SZTNH a Ket.-ben meghatározott szabályok szerint értesíti
+(6) Ha a minősítési eljárás megindítására irányuló kérelmet benyújtó ügyfél kéri, a kérelem beérkezésétől számított nyolc napon belül az SZTNH értesíti
 
 - a) az ügy iktatási számáról, az ügyintéző nevéről és hivatali elérhetőségéről,
 - b) az eljárás megindításának napjáról, az ügyintézési határidőről, az ügyintézési határidőbe nem számító időtartamokról, az SZTNH eljárási kötelezettségének elmulasztása esetén követendő eljárásról,
@@ -557,20 +554,43 @@ használható fel.
 - b) 38. § (1) bekezdése szerinti döntését,
 - c) eljárást felfüggesztő végzését,
 - d) kérelmet érdemi vizsgálat nélkül elutasító és az eljárást megszüntető végzését,
-- e) iratbetekintést kizáró vagy azt korlátozó azon végzését, amellyel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye,
+- e) iratbetekintést kizáró vagy azt korlátozó azon végzését, amellyel szemben az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye,
 - f) iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott végzését.
 
-(2) Az SZTNH-nak az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett keresettel támadható meg. A bíróság az SZTNH döntését megváltoztathatja.
+(2) Az SZTNH-nak az (1) bekezdésben nem említett végzése csak az (1) bekezdésben felsorolt döntésekkel szemben előterjesztett megváltoztatási kérelemmel támadható meg. A bíróság az SZTNH döntését megváltoztathatja.
+
+(2a) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
+
+- a) az eljáró bíróság megnevezését,
+- b) a kérelmező azonosító adatait, és
+- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+
+(2b) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
+
+- a) a megváltoztatási kérelemmel érintett döntés számát, valamint a döntésnek a megváltoztatási kérelem által érintett rendelkezését vagy részét,
+- b) a döntés bíróság általi megváltozatására irányuló határozott kérelmet, valamint
+- c) a döntés megváltoztatásának szükségességét alátámasztó indokokat az ezeket alátámasztó bizonyítékokkal és a jogalap megjelölésével.
+
+(2c) A megváltoztatási kérelem záró részében fel kell tüntetni:
+
+- a) bíróság hatáskörét és illetékességét megalapozó tényeket és jogszabályhelyet,
+- b) a megfizetett illeték összegét és megfizetésének módját, vagy az eljárási illeték részleges megfizetése esetén a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az ennek alapjául szolgáló tényeket és jogszabályhelyet,
+- c) a meghatalmazott képviseleti jogát megalapozó tényeket és bizonyítékokat, valamint
+- d) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
 
 (3) A 39. § (2) bekezdése szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül az SZTNH-nál kell benyújtani vagy részére a feladás utólagos igazolását lehetővé tevő postai szolgáltatás igénybevételével megküldeni. Az SZTNH a kérelmet az ügy irataival együtt tizenöt napon belül továbbítja a Fővárosi Törvényszékhez kivéve, ha a megtámadott döntést a kérelemben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja vagy visszavonja, valamint, ha a kérelmet a Fővárosi Törvényszékhez való továbbítást megelőzően a kérelmező visszavonta.
 
 (4) Ha az (1) bekezdés szerinti kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
-(5) A 39. § (2) bekezdése szerinti nemperes eljárásra a polgári perrendtartásról szóló törvény általános szabályait a nemperes eljárásokra irányadó jogszabályokban meghatározott eltérésekkel kell alkalmazni.
+(5) A 39. § (2) bekezdése szerinti nemperes eljárásban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló törvény szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
+
+(6) A Fővárosi Törvényszék három hivatásos bíróból álló tanácsban jár el, akik közül két tag felsőfokú műszaki vagy ezzel egyenértékű szakképesítéssel rendelkezik.
+
+(7) A bíróság előtti eljárásban a jogi képviselet kötelező, ideértve a jogorvoslati eljárásokat is.
 
 41. § A minősítési eljárásban az SZTNH az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
-42. § (1) Az adóhatóság az ellenőrzése során – az adózás rendjéről szóló törvény rendelkezései alapján – szakértőként megkeresheti az SZTNH-t. Ebben az esetben az SZTNH szakértői eljárásának időtartama 45 nap, amely határidő nem hosszabbítható meg.
+42. § (1) Az adóhatóság az ellenőrzése során – az adóigazgatási rendtartásról szóló törvény rendelkezései alapján – szakértőként megkeresheti az SZTNH-t. Ebben az esetben az SZTNH szakértői eljárásának időtartama 45 nap, amely határidő nem hosszabbítható meg.
 
 (2) Más hatóság vagy bíróság általi megkeresés alapján az SZTNH szakértői véleményt ad a megkeresésben megjelölt tevékenységek kutatás-fejlesztési szempontú minősítése, valamint a megkeresésben megjelölt költségeknek a kutatás-fejlesztési tevékenységhez való hozzárendelhetősége kérdésében.
 
@@ -621,6 +641,8 @@ használható fel.
 #### 17. Módosító rendelkezések
 
 48. § Ha az SZTNH az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+48/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 49. § (1) A 16. § (14) bekezdését első alkalommal a 2018. adóév vonatkozásában kell alkalmazni.
 

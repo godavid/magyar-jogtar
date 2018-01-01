@@ -158,7 +158,7 @@ fel kell tüntetni.
 
 (3) A meghallgatásra vonatkozó további szabályokat az őrzésért felelős személy vagy szerv szabályzatban, az érdekképviselettel egyeztetve állapítja meg.
 
-(4) Az őrzésért felelős – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adózás rendjéről szóló törvény szerinti vizsgálatát kezdeményezi, ha
+(4) Az őrzésért felelős – a vagyonnyilatkozat haladéktalan megküldésével – az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti vizsgálatát kezdeményezi, ha
 
 - a) az (1) bekezdés a) pontja szerinti ellenőrzés során a vagyonnyilatkozatok tartalmából alaposan feltehető, hogy a kötelezett vagyongyarapodása a nyilatkozattételi kötelezettséget megalapozó jogviszonyából, illetve az őrzésért felelős által ismert egyéb törvényes forrásból származó jövedelme alapján nem igazolható,
 - b) a kötelezett az 5. § (1) bekezdés b) pontjában foglalt kötelezettségének az előírt határidőben nem tett eleget, vagy
@@ -166,15 +166,15 @@ fel kell tüntetni.
 
 (5) Az őrzésért felelős a vagyonnyilatkozat megküldésével az állami adóhatóságnál a kötelezett és a vele egy háztartásban élő hozzátartozója vagyongyarapodásának vizsgálatát kezdeményezheti akkor is, ha a kötelezett vagyongyarapodása bejelentési kötelezettség alá eső tevékenységből származik, de a kötelezett a bejelentést elmulasztotta.
 
-(6) Az állami adóhatóság az őrzésért felelős (4) bekezdés szerinti kezdeményezésére soron kívül, az adózás rendjéről szóló, törvényben meghatározott vagyongyarapodási vizsgálatot folytat le.
+(6) Az állami adóhatóság az őrzésért felelős (4) bekezdés szerinti kezdeményezésére soron kívül, az adóigazgatási eljárás részletszabályairól szóló kormányrendeletben meghatározott vagyongyarapodási vizsgálatot folytat le.
 
-15. § (1) Az állami adóhatóság a vagyongyarapodási vizsgálat alapján lefolytatott hatósági eljárásban hozott határozatában – az adózás rendjéről szóló törvényben meghatározottakon túl – megállapítja, hogy milyen összegű jövedelem fedezi a kötelezett vagy a vele egy háztartásban élő hozzátartozó törvényesen megszerzett jövedelmét meghaladó mértékű vagyongyarapodást, illetve életvitelre fordított kiadásokat.
+15. § (1) Az állami adóhatóság a vagyongyarapodási vizsgálat alapján lefolytatott hatósági eljárásban hozott határozatában – az adóigazgatási rendtartásról szóló törvényben, az adózás rendjéről szóló törvényben és az adóigazgatási eljárás részletszabályairól szóló kormányrendeletben meghatározottakon túl – megállapítja, hogy milyen összegű jövedelem fedezi a kötelezett vagy a vele egy háztartásban élő hozzátartozó törvényesen megszerzett jövedelmét meghaladó mértékű vagyongyarapodást, illetve életvitelre fordított kiadásokat.
 
 (2) Az állami adóhatóság a jogerős határozat megküldésével, valamint a vagyonnyilatkozatok visszaküldésével értesíti az őrzésért felelőst.
 
-(3) Ha a kötelezett a jogerős határozat (1) bekezdés szerinti megállapítása ellen bírósági felülvizsgálata iránt pert indított, erről az őrzésért felelőst a keresetlevél egy példányának megküldésével értesíti. Az állami adóhatóság a per jogerős befejezéséről az eljárást lezáró határozat megküldésével az őrzésért felelőst értesíti.
+(3) Ha a kötelezett a jogerős határozat (1) bekezdés szerinti megállapítása ellen közigazgatási pert indított, erről az őrzésért felelőst a keresetlevél egy példányának megküldésével értesíti. Az állami adóhatóság a per jogerős befejezéséről az eljárást lezáró határozat megküldésével az őrzésért felelőst értesíti.
 
-16. § (1) Ha a 15. § (1) bekezdése szerint az állami adóhatóság által megállapított összeg meghaladja a vagyonnyilatkozat-tétel évét megelőző naptári évben a vagyonnyilatkozat-tétel évének első napján érvényes kötelező legkisebb munkabér havi összege húszszorosát, az állami adóhatóság vagyongyarapodási vizsgálata alapján hozott jogerős határozatának, illetve – ha annak bírósági felülvizsgálatát kezdeményezték – a bíróság határozatának az őrzésért felelős általi kézhezvételétől számított második hónap első napján
+16. § (1) Ha a 15. § (1) bekezdése szerint az állami adóhatóság által megállapított összeg meghaladja a vagyonnyilatkozat-tétel évét megelőző naptári évben a vagyonnyilatkozat-tétel évének első napján érvényes kötelező legkisebb munkabér havi összege húszszorosát, az állami adóhatóság vagyongyarapodási vizsgálata alapján hozott jogerős határozatának, illetve – ha közigazgatási perben megtámadták – a bíróság határozatának az őrzésért felelős általi kézhezvételétől számított második hónap első napján
 
 - a) a 3. § (3) bekezdése szerinti kötelezett esetében a vagyonnyilatkozat-tételi kötelezettséget megalapozó jogviszonya vagy megbízatása e törvény erejénél fogva megszűnik, amely tényről az őrzésért felelős három munkanapon belül értesíti a kötelezettet,
 - b) az a) pont hatálya alá nem tartozó kötelezett esetében a vagyonnyilatkozat-tételi kötelezettséget megalapozó megbízatását vagy jogviszonyát – az arra vonatkozó, külön jogszabályban meghatározott megszüntetési okoktól függetlenül – meg kell szüntetni.

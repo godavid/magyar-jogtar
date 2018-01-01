@@ -409,6 +409,12 @@ egyes rendelkezések
 
 (3) A (2) bekezdés szerinti engedélyezési és más hatósági feladatokat a Kormány által rendeletben kijelölt nemzeti külkereskedelmi államigazgatási szerv látja el.
 
+(4) A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló kormányrendelet szerinti engedélyezési eljárásokban a hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
+
+(5) A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló kormányrendelet szerinti engedélyezési eljárásokban az engedélyező hatóság az eljárást felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amely más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
+
+(6) A kettős felhasználású termékek külkereskedelmi forgalmának engedélyezéséről szóló kormányrendelet szerinti engedélyezési eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
 140/A. § A Kormány a 140. § (1) bekezdése szerinti korlátozást elrendelő rendeletében előírhatja, hogy a 140. § (1) bekezdése szerinti tevékenység folytatására a nemzeti külkereskedelmi államigazgatási szerv 140/B. §-a szerinti nyilvántartásába felvett természetes személy, jogi személy, jogi személyiség nélküli szervezet jogosult.
 
 140/B. § (1) A nemzeti külkereskedelmi államigazgatási szerv nyilvántartja és kezeli – a 140. § (1) bekezdése alapján elrendelt korlátozások érvényesítése céljából –
@@ -479,6 +485,8 @@ egyes rendelkezések
 (3)
 
 (4) A Kt. e törvény 39. §-ával megállapított 20. § v) pontját a már megkötött szerződések tekintetében 2005. január 1-jétől kell alkalmazni.
+
+(5) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 147. § (1) E törvény hatálybalépésével egyidejűleg
 

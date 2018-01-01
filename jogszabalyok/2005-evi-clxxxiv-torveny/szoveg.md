@@ -246,7 +246,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 9. § (1) A közlekedésbiztonsági szerv a vasúti és víziközlekedési balesetek és események tényállásának megállapítása keretében – szükség esetén a közigazgatási hatósággal egyeztetett módon, a büntetőeljárást nem akadályozva – jogosult különösen arra, hogy
 
-- a) a közigazgatási hatósági eljárás általános szabályairól szóló törvény szemlére vonatkozó szabályai szerint haladéktalanul és akadálytalanul, előzetes értesítés nélkül – az esemény vizsgálatára külön jogszabály alapján jogosult más hatóságokkal egyidejűleg is – hozzáférhessen a közlekedési baleset és az egyéb közlekedési esemény helyszínéhez, az eseménnyel érintett járműhöz, az eseménnyel érintett jármű rakományához vagy roncsához, az eseménnyel érintett infrastruktúrához, a forgalomirányító és jelzőberendezésekhez;
+- a) az általános közigazgatási rendtartásról szóló törvény szemlére vonatkozó szabályai szerint haladéktalanul és akadálytalanul, előzetes értesítés nélkül – az esemény vizsgálatára külön jogszabály alapján jogosult más hatóságokkal egyidejűleg is – hozzáférhessen a közlekedési baleset és az egyéb közlekedési esemény helyszínéhez, az eseménnyel érintett járműhöz, az eseménnyel érintett jármű rakományához vagy roncsához, az eseménnyel érintett infrastruktúrához, a forgalomirányító és jelzőberendezésekhez;
 - b) azonnal megkezdhesse a helyszínen található bizonyítékok rögzítése mellett a maradványok és a roncsdarabok vagy alkatrészek, infrastruktúra elemek ellenőrzött eltávolítását vizsgálati vagy elemzési célokra;
 - c) azonnal hozzáférhessen a fedélzeti és egyéb adatrögzítők, valamint más felvételek tartalmához, és szakmai vizsgálatához azokat, azok tartalmát felhasználhassa, hozzáférhessen a szóbeli üzeneteket és a forgalomirányító és jelzőrendszer működését rögzítő berendezésekhez és használhassa azokat;
 - d) hozzáférhessen az áldozatok testének vizsgálatából származó eredményekhez, illetve az azokból vett mintákhoz;
@@ -695,11 +695,11 @@ látja el.
 
 20/B. § (1) A bírságot a 20/A. § (1)–(1a) bekezdésében meghatározott legmagasabb összegre, valamint a 20/A. § (2) bekezdésében foglalt szempontokra tekintettel, ezer forintra kerekítéssel kell megállapítani.
 
-(2) A bírság kiszabásáról rendelkező határozatnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltakon túl tartalmaznia kell annak az előirányzat-felhasználási keretszámlának a számát, amelyre a fizetést teljesíteni kell.
+(2) A bírság kiszabásáról rendelkező határozatnak az általános közigazgatási rendtartásról szóló törvényben foglaltakon túl tartalmaznia kell annak az előirányzat-felhasználási keretszámlának a számát, amelyre a fizetést teljesíteni kell.
 
 (3) A bírság összegét a bírságot kiszabó határozat közlésétől számított 30 napon belül kell megfizetni.
 
-(4) A bírság kiszabására és végrehajtására egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(4) Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta öt év eltelt.
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

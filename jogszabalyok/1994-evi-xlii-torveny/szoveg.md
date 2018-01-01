@@ -229,7 +229,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 - c) rendelkezik szakirányú felsőfokú iskolai végzettséggel,
 - d) nem rendelkezik vagy rendelkezett minősített befolyással, illetve nem vezető állású személy vagy nem volt az egy olyan biztosítónál, biztosításközvetítőnél vagy olyan pénzügyi intézménynél, pénzforgalmi intézménynél,
   - da) amely esetében a fizetőképtelenséget kizárólag a biztosító, a biztosításközvetítő, a pénzügyi intézmény vagy a pénzforgalmi intézmény felügyeleti szerve által alkalmazott intézkedéssel lehetett elkerülni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósási határozat megállapította, vagy
-  - db) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy hatósági határozat megállapította,
+  - db) amelyet fel kellett számolni, és akinek személyes felelősségét e helyzet kialakulásáért jogerős bírósági vagy végleges hatósági határozat megállapította,
 - e) nem sértette meg súlyosan vagy ismételten a Magyar Nemzeti Bank felügyeleti hatáskörét megalapozó törvények vagy azok felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Magyar Nemzeti Bank nem szabta ki öt évnél nem régebben kelt jogerős határozatában a legmagasabb összegű bírságot vagy a bíróság nem állapította meg 5 évnél nem régebben kelt jogerős határozatában felelősségét e jogszabályok megsértése miatt,
 - f) nem tevékenykedik más pénzügyi intézménynél, pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél, biztosítónál könyvvizsgálóként,
 - g) nem tölt be olyan tisztséget, amely tisztség ellátása korlátozhatja szakmai feladatainak ellátását.
@@ -302,7 +302,7 @@ szerzett.
 
 24. § A Ptk. 2:47. § (1) bekezdésében meghatározott üzleti titok és a Hpt.-ben meghatározott banktitok megtartására vonatkozó kötelezettség nem terjed ki – a Hpt.-ben meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint a Mehib Rt. részére továbbított, valamint a Központi Statisztikai Hivatal részére statisztikai célból egyedi azonosításra alkalmas módon továbbított adatokra sem.
 
-24/A. § (1) Az Eximbank és a Mehib Rt. jogosult az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vtv.) 12. § (2)–(4) bekezdésében meghatározottak szerint, a Vtv. 11. § r) pontjában meghatározott célból megismerni az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult
+24/A. § (1) Az Eximbank és a Mehib Rt. jogosult az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.) 30. § (2)–(4) bekezdésében meghatározottak szerint, a Vtv. 29. § (1) bekezdés r) pontjában meghatározott célból megismerni az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult
 
 - a) egyéni vállalkozó nevét, lakcímét, levelezési címét, egyéni vállalkozói nyilvántartási számát, adóazonosító jelét,
 - b) jogi személy elnevezését, székhelyét, levelezési címét, cégjegyzékszámát, statisztikai számjelét, adóazonosító számát, valamint
@@ -310,7 +310,7 @@ szerzett.
 
 (2) Az Eximbank és a Mehib Rt. az (1) bekezdésben meghatározott adatokat – a (3) bekezdésben meghatározott kivétellel – a megismeréstől számított 5 évig jogosult kezelni.
 
-(3) Az Eximbank és a Mehib Rt. a Vtv. 12. § (4) bekezdése szerinti értesítés kézhezvételét követően haladéktalanul törli a Vtv. 12. § (4) bekezdése szerinti nyilatkozatot tevő, az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult adatait.
+(3) Az Eximbank és a Mehib Rt. a Vtv. 30. § (4) bekezdése szerinti értesítés kézhezvételét követően haladéktalanul törli a Vtv. 30. § (4) bekezdése szerinti nyilatkozatot tevő, az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult adatait.
 
 ### V. Fejezet — A MEHIB RT.-RE VONATKOZÓ SZABÁLYOK
 

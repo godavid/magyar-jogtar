@@ -8,11 +8,13 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 1. § E törvényt az adó megállapítása, az adó- és egyéb közterhek behajtása, továbbá a kettős adóztatás elkerülése érdekében folytatott, az Európai Unió tagállamai közötti, valamint egyéb nemzetközi közigazgatási együttműködés egyes kérdéseire kell alkalmazni.
 
-2. § (1) Az e törvényben nem szabályozott eljárásjogi kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezéseit kell alkalmazni.
+2. § (1) Az e törvényben nem szabályozott eljárásjogi kérdésekben az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) és az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) rendelkezéseit kell alkalmazni.
 
 (2) E törvény rendelkezéseitől eltérni az Európai Unió kötelező jogi aktusa és nemzetközi szerződés alapján lehet.
 
 3. § Ha az állami adóhatóság uniós jogi aktus rendelkezése – ideértve az uniós jogi aktust átültető magyar jogszabályt is – alapján az Európai Bizottság vagy az Európai Unió más intézménye, ügynöksége részére személyes adatot nem tartalmazó, statisztikai célú, illetve az uniós jogi aktus alkalmazásának eredményeit összegző adatszolgáltatást, információ-átadást teljesít, azt egyidejűleg az adópolitikáért felelős miniszter részére is megküldi.
+
+3/A. § Az állami adó- és vámhatóság az Európai Unió tagállamából, az e törvényben szabályozott közigazgatási együttműködés keretében beérkezett megkeresés teljesítése, valamint a Jelentő Magyar Pénzügyi Intézménynek a 43/B. §-ban, a 43/H. §-ban és az 1. melléklet II–VII. fejezetében meghatározott átvilágítási és adatszolgáltatási kötelezettsége teljesítésének ellenőrzése céljából jogosult a tényleges tulajdonosi információk központi nyilvántartásából adatot igényelni, valamint a tényleges tulajdonosra vonatkozó adatokhoz és dokumentumokhoz hozzáférni.
 
 #### 2. Értelmező rendelkezések
 
@@ -45,7 +47,7 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a megkereső hatóság álláspontja szerint a kért információ birtokában lehet, és olyan további adat is feltüntethető, amely a megkeresett hatóság számára az információ megszerzését megkönnyítheti;
 
-- 4. közigazgatási vizsgálat: az Európai Unió tagállama által végzett minden olyan ellenőrzés, vizsgálat és egyéb intézkedés, amelynek célja az adójogszabályok megfelelő alkalmazásának biztosítása. A magyar megkeresett hatóság vagy a magyar megkereső hatóság által teljesített közigazgatási vizsgálat esetén a közigazgatási vizsgálat alatt az Art. szerinti adóigazgatási eljárást kell érteni;
+- 4. közigazgatási vizsgálat: az Európai Unió tagállama által végzett minden olyan ellenőrzés, vizsgálat és egyéb intézkedés, amelynek célja az adójogszabályok megfelelő alkalmazásának biztosítása. A magyar megkeresett hatóság vagy a magyar megkereső hatóság által teljesített közigazgatási vizsgálat esetén a közigazgatási vizsgálat alatt az Air., valamint az Art. szerinti adóigazgatási eljárást kell érteni;
 - 5. magyar megkereső hatóság, magyar megkeresett hatóság: az adómegállapítási jogsegéllyel kapcsolatban az állami adóhatóság kormányrendeletben központi kapcsolattartó irodaként, kapcsolattartó szervként kijelölt szerve, szervezeti egysége, illetve az állami adóhatóság kormányrendelet felhatalmazása alapján kijelölt tisztviselője a 6–7. pontok figyelembevételével;
 - 6. illetékes tisztviselő: olyan tisztviselő, aki kijelölés alapján az adómegállapítási jogsegély keretében közvetlen információcsere teljesítésére, fogadására jogosult. Az adómegállapítási jogsegélyben részt vevő tisztviselők e tevékenységükkel összefüggésben illetékes tisztviselőnek minősülnek;
 - 7. kapcsolattartó szerv: a központi kapcsolattartó irodán kívül kijelölt olyan szerv, szervezeti egység, amely kijelölés alapján az adómegállapítási jogsegély keretében közvetlen információcsere teljesítésére, fogadására jogosult. Kapcsolattartó szervként egyidejűleg több szerv, szervezeti egység is kijelölhető;
@@ -173,7 +175,7 @@ kapcsolatos eljárásban.
 
 (3) Az adómegállapítási jogsegély alkalmazása nem érinti a 2005. évi CXVI. törvénnyel kihirdetett, az Európai Unió tagállamai közötti kölcsönös bűnügyi jogsegélyről szóló, 2000. május 29-én kelt egyezmény és az egyezmény 2001. október 16-án kelt kiegészítő jegyzőkönyve szerinti kötelezettségek, valamint a két- vagy többoldalú megállapodások alapján fennálló közigazgatási együttműködési kötelezettségek teljesítését.
 
-6. § A magyar megkereső hatóság, illetve a magyar megkeresett hatóság az adómegállapítási jogsegély szabályait magyar jogszabályok szerinti, 5. § (1) bekezdésnek megfelelő adóval kapcsolatos eljárásban az általános forgalmi adó, a jövedéki adó és a járulék kivételével az Art. 4. § (1) bekezdés a) pontja szerinti adóval összefüggésben alkalmazza.
+6. § A magyar megkereső hatóság, illetve a magyar megkeresett hatóság az adómegállapítási jogsegély szabályait magyar jogszabályok szerinti, 5. § (1) bekezdésnek megfelelő adóval kapcsolatos eljárásban az általános forgalmi adó, a jövedéki adó és a járulék kivételével az Art. szerinti adóval összefüggésben alkalmazza.
 
 #### 4. Az információcsere egyes formái
 
@@ -292,7 +294,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (9) A magyar megkereső hatóság vagy magyar megkeresett hatóság által az adómegállapítási jogsegély keretében szerzett vagy szolgáltatott információt kizárólag a központi adattár és a CCN-hálózat gondozásához, karbantartásához, fejlesztéséhez szükséges mértékben lehet az Európai Bizottság biztonsági akkreditációs hatósága által akkreditált személyek rendelkezésére bocsátani.
 
-(10) Az adómegállapítási jogsegély teljesítése körében a személyes adatok kezelésére az információs önrendelkezésről és az információszabadságról szóló törvény és az Art., valamint az állami adóhatóságra vonatkozó törvényi rendelkezések előírásait az e §-ban meghatározott kiegészítésekkel kell alkalmazni.
+(10) Az adómegállapítási jogsegély teljesítése körében a személyes adatok kezelésére az információs önrendelkezésről és az információszabadságról szóló törvény, az Air., az Art., valamint az állami adóhatóságra vonatkozó törvényi rendelkezések előírásait az e §-ban meghatározott kiegészítésekkel kell alkalmazni.
 
 16. § (1) A megkereső hatóság az információcsere iránti megkeresést a magyar megkeresett hatóságnak, illetve a magyar megkeresett hatóság által az információcsere iránti megkeresésre adott válaszokat, átvételi elismervényeket, további háttér-információ iránti kérelmeket, a kérés teljesítésének lehetetlenségét vagy az elutasítását a megkereső hatóságnak – amennyiben lehetséges – formanyomtatvány használatával továbbítja. E formanyomtatványhoz további okiratok (így különösen jelentések, nyilatkozatok), azok hitelesített másolatai vagy kivonatai is csatolhatók.
 
@@ -431,10 +433,10 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 23. § A magyar megkeresett hatóság, illetve a magyar megkereső hatóság a behajtási jogsegély szabályait magyar jogszabályok szerinti
 
-- a) a 22. § (1) bekezdés a) pontjának vagy 22. § (2) bekezdés b) pontjának megfelelő adóval kapcsolatos eljárásban az Art. 4. § (1) bekezdése szerinti adóval,
-- b) a 22. § (2) bekezdés a) és c) pontjának megfelelő közteherrel kapcsolatos eljárásban az Art. szerinti bírsággal, pótlékkal, költséggel,
+- a) a 22. § (1) bekezdés a) pontjának vagy 22. § (2) bekezdés b) pontjának megfelelő adóval kapcsolatos eljárásban az Art. szerinti adóval,
+- b) a 22. § (2) bekezdés a) és c) pontjának megfelelő közteherrel kapcsolatos eljárásban az Air., valamint az Art. szerinti bírsággal, pótlékkal, költséggel,
 - c) a 22. § (1) bekezdés a) pontjának vagy 22. § (2) bekezdés a) pontjának megfelelő, vámmal kapcsolatos eljárásban az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU parlamenti és tanácsi rendelet 5. cikk 18. pontjában meghatározott vámtartozással,
-- d) a 22. § (2) bekezdés a) és c) pontjának megfelelő közteherrel kapcsolatos eljárásban az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény szerinti bírsággal, díjjal és egyéb költséggel,
+- d) a 22. § (2) bekezdés a) és c) pontjának megfelelő közteherrel kapcsolatos eljárásban az uniós vámjog végrehajtásáról szóló törvény szerinti bírsággal, díjjal és egyéb költséggel,
 - e) a 22. § (2) bekezdés a) és c) pontjának megfelelő közteherrel kapcsolatos eljárásban a jövedéki adóról szóló törvény szerinti bírsággal, költséggel
 
 összefüggésben alkalmazza.
@@ -468,9 +470,9 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (2) Ha a megkereső hatóság tagállamával kötött megállapodás eltérően nem rendelkezik, a magyar megkeresett hatóság (állami adó- és vámhatóság) nem köteles a megkereső hatóság behajtás iránti megkereséssel érvényesített követelésének ugyanolyan elsőbbséget biztosítani, mint a belföldi hasonló követeléseknek. A végrehajtási cselekmények foganatosítása kizárólag a magyar megkeresett hatóság (állami adó- és vámhatóság) hatáskörébe tartozik, az önkormányzati adóhatóság vagy más magyar hatóság a végrehajtás foganatosítása céljából nem kereshető meg.
 
-(3) A behajtás iránti megkeresés teljesítésének végrehajtást engedélyező egységes okirat alapján van helye, amely az Art. végrehajtási eljárásról szóló rendelkezéseinek alkalmazása során végrehajtható okiratnak minősül.
+(3) A behajtás iránti megkeresés teljesítésének végrehajtást engedélyező egységes okirat alapján van helye, amely az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény (a továbbiakban: Avt.) rendelkezéseinek alkalmazása során végrehajtható okiratnak minősül.
 
-(4) A magyar megkeresett hatóság (állami adó- és vámhatóság) a megkereső hatóság kérelmére a végrehajtást engedélyező egységes okiratban foglalt követelés behajtása iránt az Art. végrehajtási eljárásról szóló – a megkereséssel érvényesített követeléssel azonos, vagy ennek hiányában hasonló követelésre vonatkozó – rendelkezései alkalmazásával jár el. Ha a magyar jogszabályok alapján nincs a végrehajtást engedélyező egységes okiratban foglalt követeléssel azonos vagy ahhoz hasonló belföldi követelés, a magyar megkeresett hatóság (állami adó- és vámhatóság) a személyi jövedelemadó végrehajtására vonatkozó rendelkezéseket alkalmazza.
+(4) A magyar megkeresett hatóság (állami adó- és vámhatóság) a megkereső hatóság kérelmére a végrehajtást engedélyező egységes okiratban foglalt követelés behajtása iránt az Avt. – a megkereséssel érvényesített követeléssel azonos, vagy ennek hiányában hasonló követelésre vonatkozó – rendelkezései alkalmazásával jár el. Ha a magyar jogszabályok alapján nincs a végrehajtást engedélyező egységes okiratban foglalt követeléssel azonos vagy ahhoz hasonló belföldi követelés, a magyar megkeresett hatóság (állami adó- és vámhatóság) a személyi jövedelemadó végrehajtására vonatkozó rendelkezéseket alkalmazza.
 
 (5) A megkereső hatóság a végrehajtást engedélyező egységes okiraton kívül más, a megkereső tagállamban a követeléssel kapcsolatban kiállított okiratot is továbbíthat a magyar megkeresett hatóság részére.
 
@@ -516,7 +518,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 - a) a megkeresés beérkezésének időpontjában az adós vitatja a követelést, vagy
 - b) a végrehajtást engedélyező eredeti okiratot vagy a végrehajtást engedélyező egységes okiratot a megkereső hatóság még nem állította ki, vagy
-- c) az Art. 149. § (2) bekezdés a) vagy b) pontjában foglalt feltételek egyike fennáll,
+- c) a biztosítási intézkedés elrendelése Air. szerinti feltételeinek egyike fennáll,
 
 és valószínűsíthető, hogy a követelés későbbi kielégítése veszélyben van.
 
@@ -546,7 +548,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (2) A megkereső hatóság és a magyar megkeresett hatóság tájékoztatja egymást a behajtás iránti vagy biztosítási intézkedésre irányuló megkereséssel érintett követeléssel kapcsolatos elévülési időt megszakító, felfüggesztő, meghosszabbító jogi tényekről (intézkedésekről).
 
-35. § (1) A magyar megkeresett hatóság a megkeresés alapján megteszi a megfelelő intézkedéseket a 28. § (4) bekezdésben meghatározott összegek és az Art. 179. § szerint az eljárás adózót (személyt) terhelő költségeinek érvényesítése érdekében.
+35. § (1) A magyar megkeresett hatóság a megkeresés alapján megteszi a megfelelő intézkedéseket a 28. § (4) bekezdésben meghatározott összegek és az Air. szerint az eljárás adózót (személyt) terhelő költségeinek érvényesítése érdekében.
 
 (2) Magyarország a behajtási jogsegély teljesítésével kapcsolatban felmerült költség megtérítése iránt a megkereső tagállammal (megkereső hatósággal) szemben igényt nem érvényesít és a megkereső tagállam (megkereső hatóság) ilyen igényét nem teljesíti. E rendelkezéstől eltérni kizárólag a (3) bekezdésben foglaltak, vagy a magyar megkeresett hatóság (állami adó- és vámhatóság) és a megkereső hatóság egyedi költségmegtérítési szabályairól szóló megállapodása alapján lehet. Egyedi költségmegtérítési megállapodásnak akkor van helye, ha a magyar megkeresett hatóság (állami adó- és vámhatóság) és a megkereső hatóság közös álláspontja szerint a behajtási jogsegély teljesítése a szervezett bűnözés elleni küzdelemmel kapcsolatos, illetve nagyon magas költséggel jár, vagy különleges nehézséget okoz.
 
@@ -866,9 +868,9 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 #### 16. Átmeneti rendelkezések
 
-45. § (1) A 22–38. §-ban, a 39. § (1)–(5) bekezdésben, a 40–41. §-ban foglalt rendelkezéseket az Art. 60–70. §-a szerinti, e törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
+45. § (1) A 22–38. §-ban, a 39. § (1)–(5) bekezdésben, a 40–41. §-ban foglalt rendelkezéseket az adózás rendjéről szóló 2003. évi XCII. törvény 60–70. §-a szerinti, e törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
 
-(2) A IV. Fejezetben foglalt rendelkezéseket a Vtv. és az Art. szerint indult és e törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
+(2) A IV. Fejezetben foglalt rendelkezéseket a Vtv. és az adózás rendjéről szóló 2003. évi XCII. törvény szerint indult és e törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
 
 (3) A 39. § (6) bekezdés szerinti rendelkezést a magyar megkereső hatóság által az e törvény hatálybalépését követően kezdeményezett behajtás iránti megkeresésekkel kapcsolatos eljárásokban kell alkalmazni.
 
@@ -898,6 +900,12 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 (4) Az állami adóhatóság a Módtv1. által megállapított 43/P. §-ban meghatározott országonkénti jelentésre vonatkozó adattovábbítási kötelezettségét először a multinacionális vállalatcsoport 2016. január 1-jén vagy azt követően kezdődő adatszolgáltatási pénzügyi évére vonatkozóan, az adatszolgáltatási pénzügyi év utolsó napját követő 18 hónapon belül teljesíti.
 
+45/G. § Az állami adó- és vámhatóság az e törvénynek az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő törvények és egyes egyéb törvények módosításáról szóló 2017. évi CLIX. törvény (a továbbiakban: Módtv2.) által megállapított 3/A. §-a szerinti adatigénylési és hozzáférési jogosultságát először a tényleges tulajdonosi információk központi nyilvántartását létrehozó jogszabály hatálybalépésének időpontjától gyakorolhatja.
+
+45/H. § (1) A magyar hatáskörrel rendelkező hatóság spontán információcsere keretében, 2018. június 30-ig közli az érintett állam(ok) hatáskörrel rendelkező hatóságával a 2010. január 1-je és 2017. december 31-e között kiadott, módosított vagy meghosszabbított feltételes adómegállapításra, vagy szokásos piaci ár megállapítására vonatkozó határozatoknak a 43/T. § (7) bekezdésében meghatározott adatait.
+
+(2) Az (1) bekezdésben meghatározott adatszolgáltatási kötelezettség a 2010. január 1-je és 2013. december 31-e között kiadott, módosított vagy meghosszabbított határozatokra csak abban az esetben terjed ki, ha e határozatok alkalmazhatósága 2014. január 1-jén fennállt.
+
 #### 17. Az Európai Unió jogának való megfelelés
 
 46. § (1) A 4. § (1)–(3) bekezdés és a II. Fejezet az adózás területén való közigazgatási együttműködésről és a 77/799/EK irányelv hatályon kívül helyezéséről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek való megfelelést szolgálja.
@@ -909,6 +917,8 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 (4) A 4. § (3) bekezdés 12a. és 18. pontja, a 15. § (7)–(10) bekezdése, 16. § (4)–(5) bekezdése, a 19/B. §, a 20. § (3) bekezdése, valamint a 45/D. § az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2015. december 8-i 2015/2376/EU tanácsi irányelvnek való megfelelést szolgálja.
 
 (5) A 4. § (1) bekezdés 7–9. pontja és (8) bekezdése, az V/D. Fejezet, a 45/F. §, valamint a 3. melléklet a 2011/16/EU irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló, 2016. május 25-i 2016/881/EU tanácsi irányelvnek való megfelelést szolgálja.
+
+(6) A 3/A. §, valamint a 45/G. § az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló, 2011. február 15-i 2011/16/EU tanácsi irányelvnek a pénzmosás elleni küzdelmet szolgáló információkhoz való adóhatósági hozzáférés tekintetében történő módosításáról szóló, 2016. december 6-i 2016/2258/EU tanácsi irányelvnek való megfelelést szolgálja.
 
 #### 18. Módosító rendelkezések
 

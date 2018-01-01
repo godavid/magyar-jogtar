@@ -173,9 +173,17 @@ veszélyességi osztályai és kategóriái egyikébe tartozó anyag vagy kever�
 
 ### Tűzvédelmi hatósági feladatok
 
-11. § A tűzvédelmi hatóság külön jogszabályban meghatározott esetekben engedélyező, tiltó és korlátozó intézkedéseket tesz, a tűzesettel kapcsolatban tűzvizsgálati eljárást folytat le és hatósági bizonyítványt ad ki, valamint a tűzvédelmi kötelezettségeiket megsértőkkel szemben tűzvédelmi bírságot szab ki.
+11. § (1) A tűzvédelmi hatóság jogszabályban meghatározott esetekben
 
-11/A. § A tűzvédelmi hatóság által lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+- a) engedélyezi a kérelmezett jog gyakorlását,
+- b) a hatáskörébe utalt ügyekben ellenőrzi a kötelezettségek betartását,
+- c) az előírások megsértése esetén korlátozza vagy megtiltja az üzemeltetés, a tevékenység folytatását,
+- d) a kötelezettségeiket megsértőkkel szemben figyelmeztetést alkalmaz vagy tűzvédelmi bírságot szab ki, valamint
+- e) a tűzesettel kapcsolatban tűzvizsgálati eljárást folytat le és tűzeseti hatósági bizonyítványt ad ki.
+
+(2) Az (1) bekezdés d) pontjában meghatározott tűzvédelmi bírság fizetésére a magánszemélyek, a jogi személyek, és ezek jogi személyiséggel nem rendelkező szervezetei kormányrendeletben meghatározottak szerint kötelezhetők.
+
+11/A. § A tűzvédelmi hatóság által lefolytatott eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 ### Tűzmegelőzési feladatok
 
@@ -234,15 +242,15 @@ tevékenységet kíván folytatni, köteles az erre irányuló szándékát a sz
 
 (3) A 13. § (1)–(3) bekezdés szerinti, a forgalomba hozatalhoz, forgalmazáshoz, beépítéshez szükséges irattal nem rendelkező termék forgalomba hozatalát, forgalmazását, beépítését a piacfelügyeleti hatóság megtiltja és piacfelügyeleti bírságot szabhat ki.
 
-(4) A piacfelügyeleti eljárásokban az ügyintézési határidő negyvenöt nap.
+(4)
 
-(5) A jogerősen kiszabott piacfelügyeleti bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A piacfelügyeleti bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
+(5) A végleges döntéssel kiszabott piacfelügyeleti bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
 (6) A piacfelügyeleti hatóság a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, jogszabályok, valamint műszaki előírások alapján gyakorolja.
 
 ### Tűzvizsgálati feladatok
 
-14. § (1) A tűzvizsgálati eljárás ügyintézési határideje harmincöt nap.
+14. § (1)
 
 (2) A tűzvizsgálati eljárás során tartandó szemle a tűz keletkezési okának egyértelmű megállapítása és a bizonyítékok megsemmisülésének megelőzése érdekében haladéktalanul megtartható.
 
@@ -333,7 +341,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (4)
 
-(5) A felelős műszaki vezető – annak hiányában a kivitelező – köteles a jogerős építési engedélyben, a tűzvédelmi dokumentációban és a műszaki előírásokban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
+(5) A felelős műszaki vezető – annak hiányában a kivitelező – köteles a végleges építési engedélyben, a tűzvédelmi dokumentációban és a műszaki előírásokban szereplő tűzvédelmi követelményeket a kivitelezés során megtartani, megvalósítani, a tervezési hiányosságok megszüntetését a tervezőnél és a beruházónál kezdeményezni.
 
 (6) A felelős műszaki vezetőnek – annak hiányában a kivitelezőnek – az építőipari kivitelezési tevékenységek befejezését követően az (5) bekezdésben foglaltak érvényesítéséről írásban kell nyilatkoznia.
 
@@ -637,7 +645,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 
 (2) A tűzvédelmi hatóság tűzvédelmi bírságot a jogszabályban előírt tűzvédelmi kötelezettségek megsértése esetén szabhat ki.
 
-(3) A jogerősen kiszabott tűzvédelmi bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része. A tűzvédelmi bírság és a késedelmi pótlék adók módjára behajtandó köztartozás.
+(3) A végleges döntéssel kiszabott tűzvédelmi bírság meg nem fizetése esetén a kiszabott összeget késedelmi pótlék terheli, amelynek mértéke minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat kétszeresének 365-öd része.
 
 (4) A tűzvédelmi bírság helyszíni bírságként is kiszabható.
 
@@ -701,17 +709,18 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - g) a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági feladatokat ellátó szervet, a piacfelügyeleti bírság mértékét, továbbá a tűzvédelemmel kapcsolatos piacfelügyeleti hatósági eljárás és a piacfelügyeleti bírság részletes szabályait;
 - h) a központi és a területi katasztrófavédelmi szervet;
 - i) a tűzvédelmi tervezői tevékenység folytatásának részletes feltételeit, a névjegyzék személyes adatot nem tartalmazó adattartalmát, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
-- j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásának részletes szabályait.
+- j) a települési önkormányzat hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásának részletes szabályait;
+- k) a tűzesetek vizsgálatára vonatkozó eljárási szabályokat.
 
 (2) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben határozza meg:
 
 - 1. az Országos Tűzvédelmi Szabályzatot,
-- 2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító bejelentés rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- 2. a tűzvédelmi szakértői tevékenység folytatásának részletes feltételeit,
 - 3. a tűzesetek vizsgálatára vonatkozó szabályokat,
 - 4. a hivatásos katasztrófavédelmi szervek, a tűzvédelmi szakértők, az önkéntes tűzoltó egyesületek szaktevékenységet ellátó tagjainak, az önkormányzati és létesítményi tűzoltóságok állománya tagjainak, a gazdálkodó tevékenységet folytató magánszemélyeknél, jogi személyeknél, jogi és természetes személyek jogi személyiséggel nem rendelkező szervezeteinél a katasztrófavédelem, a polgári védelem és a tűzvédelem szakágazatokban foglalkoztatóknak és foglalkoztatottaknak, a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjainak, illetve azok szakmai felügyeletét végző személyek képesítési követelményeit, képzési rendszerét.
 - 5. a tűzvédelmi szakvizsgára kötelezett foglalkozási ágakat, munkaköröket és a szakvizsga részletes szabályait,
 - 6. a központi költségvetési előirányzat terhére igényelhető beruházási, fejlesztési támogatás pályázati rendszerét,
-- 7. a beépített tűzjelző berendezés vagy beépített tűzoltó berendezés létesítéséhez, átalakításához, bővítéséhez, használatbavételéhez és megszüntetéséhez szükséges engedély iránti kérelem tartalmát, a létesítési kötelezettség eseteit, valamint az engedélyezés feltételeit,
+- 7.
 - 8.
 - 9. azon technikai eszközök körét, amelyek beszerzését a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium szervezésében vagy útján lehet igényelni és a beszerzés pályázati feltételeit,
 - 10. a tűzoltási, műszaki mentési és az ezekhez kapcsolódó tűzvédelmi technika tervezésének, fejlesztésének, rendszeresítésének, felülvizsgálatának és javításának követelményeit és ellenőrzési rendszerét,
@@ -726,7 +735,7 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 - 19. a hivatásos tűzoltóságok Szolgálati Szabályzatát,
 - 20–22.
 - 23. a tűzvédelem műszaki követelményeinek megállapítását,
-- 24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit, a tevékenységek bejelentésének és a tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- 24. az e törvény 12. § (1) bekezdésében meghatározott tevékenységek folytatásának részletes feltételeit,
 - 25. az önkormányzati tűzoltóság legkisebb létszámára, létesítményeinek és felszereléseinek minimális mennyiségére, minőségére, a szolgálat ellátására, az egyenruházatra és viselésére, az egyenruházaton viselt jelzések rendjére, ki- és továbbképzésekre, az egyes beosztásokhoz szükséges személyi és anyagi feltételekre, a kitüntetések viselésének rendjére, az önkormányzati tűzoltó foglalkozás egészségügyi vizsgálata szempontjaira vonatkozó szabályokat,
 - 26. a műszaki előírás által meghatározott tűzállósági vagy tűzvédelmi követelménnyel érintett, de a 305/2011/EU rendelet hatálya alá nem tartozó építményszerkezetek esetében a műszaki előírásban meghatározott követelményeknek való megfelelés tűzvédelmi szakértői vagy tűzvédelmi tervezői nyilatkozattal történő igazolhatóságának eseteit és módját,
 - 27. a tűzvédelmi műszaki irányelvek kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat.
@@ -760,3 +769,5 @@ JOGI SZEMÉLYISÉGGEL NEM RENDELKEZŐ SZERVEZETEINEK TŰZVÉDELEMMEL
 50. § Ez a törvény az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 51. § E törvény 4. § i) pontja az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+52. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.

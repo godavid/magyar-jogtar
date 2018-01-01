@@ -49,7 +49,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) Az (1) bekezdés b) pontja szerinti határozatot közölni kell a mezőgazdasági igazgatási szervvel. Az ingatlanügyi hatóság a határozatról és annak az (5) bekezdésben foglalt jogkövetkezményeiről a helyben szokásos módon, hirdetmény útján értesíti a részarány-földtulajdonosokat.
 
-(3) A földkiadó bizottság megszűnését megállapító határozat bírósági felülvizsgálatának helye nincs.
+(3) A földkiadó bizottság megszűnését megállapító határozat ellen közigazgatási pernek helye nincs.
 
 (4) A földkiadó bizottság működésképtelen, ha feladatai ellátását a törvényben megállapított határidőben vagy újraválasztásától számított 30 napon belül nem kezdi meg, vagy feladatainak ellátását 30 napot meghaladóan szünetelteti, illetőleg nem e törvény rendelkezései szerint járt el.
 
@@ -122,9 +122,9 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (3)
 
-(4) Az ingatlanügyi hatóság az adott szövetkezetet érintő valamennyi földkiadással kapcsolatos ingatlan-nyilvántartási bejegyzésről az utolsó határozat jogerőre emelkedését követő két hónapon belül értesíti a mezőgazdasági igazgatási szervet. A mezőgazdasági igazgatási szerv az értesítés alapján határozattal dönt a kártalanításról.
+(4) Az ingatlanügyi hatóság az adott szövetkezetet érintő valamennyi földkiadással kapcsolatos ingatlan-nyilvántartási bejegyzésről az utolsó határozat véglegessé válását követő két hónapon belül értesíti a mezőgazdasági igazgatási szervet. A mezőgazdasági igazgatási szerv az értesítés alapján határozattal dönt a kártalanításról.
 
-(5) A kártalanítási eljárásban hozott határozatot közölni kell az ingatlanügyi hatósággal. A határozat ellen fellebbezésnek helye nincs. A bíróság a határozatot megváltoztathatja.
+(5) A kártalanítási eljárásban hozott határozatot közölni kell az ingatlanügyi hatósággal. A határozat ellen fellebbezésnek helye nincs.
 
 (6)
 
@@ -136,7 +136,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) A tanyatulajdonos az (1) bekezdés szerinti kérelmét a tanya fekvése szerinti földrendező bizottságnál nyújthatja be az e törvény hatálybalépését követő 60 napon belül. A földrendező bizottság a kérelemről haladéktalanul értesíti az érintett földkiadó bizottságot.
 
-(3) A (2) bekezdés szerinti bizottságok a tanya körüli földnek részarány-földtulajdon fedezetéül szolgáló földalapba, illetőleg kárpótlási földalapba történt kijelölését követően javaslatot tesznek kárpótlási hatóságnak a földkijelölési határozat megfelelő módosítására. Ennek során a részarány-tulajdonok fedezetéül kijelölt földalapokat a kárpótlási földalap, illetőleg a kárpótlási földalapokat a részarány-tulajdonok fedezetéül kijelölt földalapok terhére növelni kell. A kárpótlási hatóság a jogerős földkijelölés módosítását akkor tagadhatja meg, ha annak következtében a már kijelölt egyes földalapok AK értéke külön-külön megváltozna.
+(3) A (2) bekezdés szerinti bizottságok a tanya körüli földnek részarány-földtulajdon fedezetéül szolgáló földalapba, illetőleg kárpótlási földalapba történt kijelölését követően javaslatot tesznek kárpótlási hatóságnak a földkijelölési határozat megfelelő módosítására. Ennek során a részarány-tulajdonok fedezetéül kijelölt földalapokat a kárpótlási földalap, illetőleg a kárpótlási földalapokat a részarány-tulajdonok fedezetéül kijelölt földalapok terhére növelni kell. A kárpótlási hatóság a végleges döntésbe foglalt földkijelölés módosítását akkor tagadhatja meg, ha annak következtében a már kijelölt egyes földalapok AK értéke külön-külön megváltozna.
 
 (4) Az (1)—(3) bekezdésben foglaltakat kell alkalmazni akkor is, ha
 
@@ -170,7 +170,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (4) Amennyiben a földkiadó bizottság kötelezettséget vállal arra, hogy a folyamatban lévő ügyeket 1996. december 31-ig befejezi, a működése — feltéve, hogy a részarány-földtulajdonosok közgyűlése a (3) bekezdés szerint másképp nem döntött — eddig az időpontig meghosszabbodik. A földkiadó bizottság erről a mezőgazdasági igazgatási szervet értesíti.
 
-9/B. § (1) Ha a földkiadó bizottság a feladatainak végrehajtását a 9/A. § (1) bekezdésében, valamint (3) bekezdésének a) pontjában, továbbá a (4) bekezdésében meghatározott határidőig sem fejezi be, vagy a közgyűlés még ezt megelőzően megállapítja megszűnését, a földkiadó bizottság a még jogerős határozattal le nem zárt, folyamatban levő földkiadási ügyeket átteszi a mezőgazdasági igazgatási szervhez.
+9/B. § (1) Ha a földkiadó bizottság a feladatainak végrehajtását a 9/A. § (1) bekezdésében, valamint (3) bekezdésének a) pontjában, továbbá a (4) bekezdésében meghatározott határidőig sem fejezi be, vagy a közgyűlés még ezt megelőzően megállapítja megszűnését, a földkiadó bizottság a még végleges határozattal le nem zárt, folyamatban levő földkiadási ügyeket átteszi a mezőgazdasági igazgatási szervhez.
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdés rendelkezései alapján a hozzá áttett ügyekben a 4/B. § (5) bekezdésének szabályai szerint jár el.
 
@@ -190,7 +190,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (3) A sorsolás szabálytalan lebonyolítása ellen az, akinek jogos érdekét érinti vagy sérti, a sorsolás lebonyolítását követő 48 órán belül kifogást nyújthat be a mezőgazdasági igazgatási szervhez.
 
-(4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárás jogerősen befejeződött, a mezőgazdasági igazgatási szerv a sorsolási jegyzőkönyvet megküldi a földrészlet fekvése szerint illetékes ingatlanügyi hatóságnak.
+(4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárás végleges hatósági döntéssel befejeződött, a mezőgazdasági igazgatási szerv a sorsolási jegyzőkönyvet megküldi a földrészlet fekvése szerint illetékes ingatlanügyi hatóságnak.
 
 (5) A központi költségvetés terhére – a 12/E. § (2) bekezdése, a 12/G. § (2) bekezdése, a 12/H. § (1)–(6) bekezdése és az e törvény felhatalmazása alapján kiadott, a részarány földkiadás során keletkezett osztatlan közös tulajdonok megszüntetésének részletes szabályairól szóló rendelet szerint – gondoskodni kell az érintett földrészlet előkészítéséről, a megosztás kiindulási helyének és az osztás irányának a meghatározásáról. A részaránytulajdonosokat a földrészlet meghatározott részéhez kell rendelni.
 
@@ -198,17 +198,17 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (7) Az ingatlanügyi hatóság a 12/H. § (1) bekezdése szerinti egyezséget tartalmazó okiratot vagy a sorsolási jegyzőkönyvet, továbbá az elkészített változási vázrajzot és az egyéb munkarészeket megküldi a mezőgazdasági igazgatási szerv részére, amely ezek alapján meghozza az ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot.
 
-(8) Az ingatlan-nyilvántartási bejegyzést, illetve a (7) bekezdés szerinti határozat jogerőssé válását követően gondoskodni kell a keletkező új földrészletek kitűzéséről, és azok helyszíni birtokbaadásáról. A birtokbaadásról jegyzőkönyvet kell készíteni.
+(8) Az ingatlan-nyilvántartási bejegyzést, illetve a (7) bekezdés szerinti határozat véglegessé válását követően gondoskodni kell a keletkező új földrészletek kitűzéséről, és azok helyszíni birtokbaadásáról. A birtokbaadásról jegyzőkönyvet kell készíteni.
 
-(9) E §-ban foglaltakat az olyan földrészleteket érintően kell alkalmazni, amelyek esetében a részarány-földkiadási eljárás eredményeként meghozott jogerős földkiadási határozat alapján a tulajdonjog ingatlan-nyilvántartásba való bejegyzésére irányuló eljárás nincs folyamatban, illetve a részarány-földkiadás eredményeként tulajdonjog nem került az ingatlan-nyilvántartásba bejegyzésre.
+(9) E §-ban foglaltakat az olyan földrészleteket érintően kell alkalmazni, amelyek esetében a részarány-földkiadási eljárás eredményeként meghozott végleges földkiadási határozat alapján a tulajdonjog ingatlan-nyilvántartásba való bejegyzésére irányuló eljárás nincs folyamatban, illetve a részarány-földkiadás eredményeként tulajdonjog nem került az ingatlan-nyilvántartásba bejegyzésre.
 
 9/D. § (1) Ha a részarány-tulajdon rendezésére elkülönített földalapok AK értéke, valamint a szövetkezet gazdálkodási területén részarány-földtulajdon kiadására felhasználható egyéb területek [6. § (4) bek., 12. § (5) bek.] nem fedezik az igényeket, a kiadatlan részarány-tulajdonnal rendelkező személyek – választásuk szerint – a Nemzeti Földalap földkészletéből termőföldet igényelhetnek vagy kártalanításra tarthatnak igényt 4000 Ft/AK értékben. A részarány-tulajdonost a kérelemre induló eljárás során a választás joga egyszer illeti meg. A kérelmet a szövetkezet gazdálkodási területén fekvő földrészletek kiadása céljából megtartásra kerülő utolsó sorsolás napját követő 6 hónapon belül lehet benyújtani. E határidő elmulasztása esetén a részarány-tulajdonos részére a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt.
 
 (2) A termőföld igénylésére, illetve a kártalanításra irányuló kérelmet a mezőgazdasági igazgatási szervhez kell benyújtani. A mezőgazdasági igazgatási szerv a kérelem alapján megkeresi az ingatlanügyi hatóságot, hogy nyilatkozzon a kérelmező kiadatlan részarány-tulajdonáról. A mezőgazdasági igazgatási szerv ennek ismeretében megkeresi a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: földalapkezelő szerv), hogy a kérelmező tulajdonában lévő AK értéknek megfelelő termőföld a kérelemben megjelölt településen rendelkezésre áll-e. A földalapkezelő szerv a megkeresésnek legkésőbb harminc napon belül köteles eleget tenni. A földalapkezelő szerv nyilatkozata alapján a mezőgazdasági igazgatási szerv tájékoztatja a részarány-tulajdonost a rendelkezésre álló földrészletről, illetőleg annak hiányáról. A földalapkezelő szervezet nemleges nyilatkozata esetén a mezőgazdasági igazgatási szerv pénzbeli kártalanításról dönt.
 
-(3) Termőföld igénylés esetén a mezőgazdasági igazgatási szerv a kérelem tárgyában az ingatlanügyi hatóság igazolása, a földalapkezelő szerv, valamint a kérelmező nyilatkozata alapján a termőföld-juttatásról határoz. A mezőgazdasági igazgatási szerv a jogerős határozatot a részarány-tulajdon törlése és a termőföldre vonatkozó tulajdonjog bejegyzése céljából megküldi az ingatlanügyi hatóságnak. Ha a földalapkezelő szerv által felajánlott termőföld AK értéke nem fedezi a kérelmező nyilvántartott részarány-tulajdonát, az AK érték-különbözetre a részarány-tulajdonost az (1) bekezdésben meghatározott kártalanítás illeti meg, amelyről a mezőgazdasági igazgatási szerv a termőföld-juttatással egyidejűleg határoz.
+(3) Termőföld igénylés esetén a mezőgazdasági igazgatási szerv a kérelem tárgyában az ingatlanügyi hatóság igazolása, a földalapkezelő szerv, valamint a kérelmező nyilatkozata alapján a termőföld-juttatásról határoz. A mezőgazdasági igazgatási szerv a végleges határozatot a részarány-tulajdon törlése és a termőföldre vonatkozó tulajdonjog bejegyzése céljából megküldi az ingatlanügyi hatóságnak. Ha a földalapkezelő szerv által felajánlott termőföld AK értéke nem fedezi a kérelmező nyilvántartott részarány-tulajdonát, az AK érték-különbözetre a részarány-tulajdonost az (1) bekezdésben meghatározott kártalanítás illeti meg, amelyről a mezőgazdasági igazgatási szerv a termőföld-juttatással egyidejűleg határoz.
 
-(4) Pénzbeli kártalanítás esetén a mezőgazdasági igazgatási szerv a jogerős határozatot közli az ingatlanügyi hatósággal a részarány-tulajdon törlése céljából, egyben intézkedik a kártalanítási összegnek a kérelmező részére történő kifizetése iránt.
+(4) Pénzbeli kártalanítás esetén a mezőgazdasági igazgatási szerv a végleges határozatot közli az ingatlanügyi hatósággal a részarány-tulajdon törlése céljából, egyben intézkedik a kártalanítási összegnek a kérelmező részére történő kifizetése iránt.
 
 (5) A (3) és (4) bekezdésben foglaltak alapján a mezőgazdasági igazgatási szerv, illetve az ingatlanügyi hatóság által hozott határozatokat a földalapkezelő szervvel is közölni kell.
 
@@ -230,7 +230,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (3) A sorsolásra és a sorsolás szabálytalan lebonyolítása ellen benyújtható kifogásra a 9/C. § (2)–(3) bekezdésében foglaltakat kell alkalmazni.
 
-(4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárás jogerősen befejeződött, a mezőgazdasági igazgatási szerv a visszamaradt hányad tulajdonba adásáról ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot hoz.
+(4) Ha a sorsolás lebonyolítása ellen kifogás nem érkezett, illetve a kifogással kapcsolatos jogorvoslati eljárásban végleges hatósági döntés született, a mezőgazdasági igazgatási szerv a visszamaradt hányad tulajdonba adásáról ingatlan-nyilvántartási bejegyzésre alkalmas földkiadási határozatot hoz.
 
 (5) Az e §-ban meghatározott földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait a 12/F–12/H. § alkalmazása során olyan tulajdonostársaknak kell tekinteni, mint akik a 12/F. § (1) bekezdésében foglalt határidőn belül kérelmet nyújtottak be az osztatlan közös tulajdon megszüntetésére.
 
@@ -238,7 +238,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 10. § (1) A föld, tanya körüli föld kiadása, illetőleg a részarány-tulajdon helyének meghatározása során tulajdonba kerülő föld korábbi tulajdonosa, használója által közölt, az egyes földrészleteket terhelő meliorációs, művelési és egyéb, a termőföld AK értékében ki nem fejezett — így különösen a szövetkezet üzletrésztőkéjében meghatározott, ültetvény telepítéséből eredő — értéknövekedést eredményező beruházási költségeket a földkiadó bizottság a tulajdonos kérelmére ellenőrzi. A tényleges értéknövekedést eredményező költségeket a mezőgazdasági igazgatási szerv állapítja meg. A föld tulajdonba adásáról, továbbá az értékkülönbözet megfizetésére történő kötelezésről külön határozatot kell hozni.
 
-(2) A költségek megtérítésére vonatkozó rendelkezés ellen fellebbezésnek nincs helye. A bíróság a mezőgazdasági igazgatási szerv határozatát mind a jogalap, mind az összegszerűség vonatkozásában megváltoztathatja.
+(2) A költségek megtérítésére vonatkozó rendelkezés ellen fellebbezésnek nincs helye.
 
 ### A földkiadó bizottság határozata
 
@@ -247,7 +247,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 - a) a részarány-földtulajdonnak megfelelő föld, a tanya körüli föld kijelölésére és a tulajdonos birtokba helyezésére;
 - b) a részarány-földtulajdon helyének meghatározására;
 - c) a földterület tulajdonba adására és az értéknövekedést eredményező beruházási költség megállapítására;
-- d) a részarány-földtulajdonosok AK értékének arányos módosítására irányuló eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvényt kell alkalmazni.
+- d) a részarány-földtulajdonosok AK értékének arányos módosítására irányuló eljárásában az általános közigazgatási rendtartásról szóló törvényt kell alkalmazni.
 
 (2) A földkiadó bizottság eljárása illetékmentes, a földkiadási kérelem bejelentésére előírt határidő elmulasztása esetén igazolásnak nincs helye.
 
@@ -321,7 +321,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (2) E fejezet rendelkezései nem alkalmazhatók a halastó művelési ágú ingatlanokra, valamint az erdőkre, ide nem értve a külterületen található – az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 12. §-a (1) bekezdése szerinti – fásítást.
 
-12/F. § (1) Ha a földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait megillető tulajdoni hányadokat az ingatlan-nyilvántartásba jogerősen bejegyezték, bármely tulajdonostárs kezdeményezheti az ingatlan megosztását annak érdekében, hogy saját tulajdoni hányadát önálló ingatlanként kaphassa meg. Az önálló ingatlan kialakítása iránti kérelmet legkésőbb 2012. június 1-jéig lehet benyújtani az ingatlanügyi hatósághoz. E határidő elmulasztása esetén a közös tulajdon megszüntetésére a Ptk. rendelkezéseit kell alkalmazni.
+12/F. § (1) Ha a földkiadási eljárás eredményeként létrejött osztatlan közös tulajdon tulajdonostársait megillető tulajdoni hányadokat az ingatlan-nyilvántartásba végleges hatósági döntéssel bejegyezték, bármely tulajdonostárs kezdeményezheti az ingatlan megosztását annak érdekében, hogy saját tulajdoni hányadát önálló ingatlanként kaphassa meg. Az önálló ingatlan kialakítása iránti kérelmet legkésőbb 2012. június 1-jéig lehet benyújtani az ingatlanügyi hatósághoz. E határidő elmulasztása esetén a közös tulajdon megszüntetésére a Ptk. rendelkezéseit kell alkalmazni.
 
 (2) Az (1) bekezdésben megjelölt határidőig azon tulajdonostársak is benyújthatják önálló ingatlan kialakítása iránti kérelmüket, akik a 12/H. § (8) bekezdése alapján a visszamaradó földrészleten tulajdonközösségben maradtak.
 
@@ -331,7 +331,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 12/G. § (1) Az önálló ingatlan kialakítására vonatkozó kérelmet írásban az ingatlanügyi hatóság által erre rendszeresített nyomtatványon kell benyújtani. A kérelmet több tulajdonostárs együttesen is benyújthatja, és kérhetik az önálló ingatlan osztatlan közös tulajdonban történő kiadását.
 
-(2) A kérelem alapján az ingatlanügyi hatóság meghatározza a megosztás kiindulási helyét és irányát, figyelemmel a művelhetőségi és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra. A megosztás módját, kiindulási helyét és irányát meghatározó határozatot az ingatlanügyi hatóság a település polgármesteri hivatalának hirdetőtábláján legalább nyolc napra történő kifüggesztéssel közli az érintettekkel, és ezen időtartamon belül lehet a határozatot fellebbezéssel megtámadni. Ebbe a határidőbe nem számít bele a határozat kifüggesztésének és a levételének a napja.
+(2) A kérelem alapján az ingatlanügyi hatóság határozatban meghatározza a megosztás kiindulási helyét és irányát, figyelemmel a művelhetőségi és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra.
 
 12/H. § (1) A kérelmező tulajdonostársak közötti egyezség hiányában az adott földrészlet vonatkozásában a kiosztás sorrendjét sorsolással kell megállapítani. Az egyezségnek vagy a kisorsolt sorrendnek megfelelően a tulajdonostársakat tulajdoni hányaduknak megfelelően a földrészlet meghatározott részéhez kell rendelni.
 
@@ -385,7 +385,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (7)
 
-(8) Az 5. § (1) bekezdésében és a 8. § (2) bekezdésében, valamint a 13. § (5) bekezdésében meghatározott határidőket az 1992. évi II. törvény 13—21. §-ai szerinti földkijelölési határozat jogerőre emelkedésének napjától kell számítani. A földkiadó bizottság a földkijelölési határozat jogerőre emelkedéséről az érdekelteket a helyben szokásos módon értesíti.
+(8) Az 5. § (1) bekezdésében és a 8. § (2) bekezdésében, valamint a 13. § (5) bekezdésében meghatározott határidőket az 1992. évi II. törvény 13—21. §-ai szerinti földkijelölési határozat véglegessé válásának napjától kell számítani. A földkiadó bizottság a földkijelölési határozat véglegessé válásáról az érdekelteket a helyben szokásos módon értesíti.
 
 13/A. §
 
@@ -397,7 +397,7 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 (4) Ha a szövetkezet földhasználati jogával terhelt földön haszonbérlet áll fenn a kijelöléskor, illetőleg a föld kiadásakor, a haszonbérbe adói jog a föld tulajdonosát illeti meg.
 
-(5) A szövetkezet a földhasználati jogával terhelt földeket a földalap elkülönítési tervezetet jóváhagyó határozat jogerőre emelkedése után egy évnél hosszabb időre haszonbérbe nem adhatja.
+(5) A szövetkezet a földhasználati jogával terhelt földeket a földalap elkülönítési tervezetet jóváhagyó határozat véglegessé válása után egy évnél hosszabb időre haszonbérbe nem adhatja.
 
 15. § Felhatalmazást kap a Kormány, hogy az egységes eljárás érdekében a részarány földkiadás során keletkezett osztatlan közös tulajdonok megszüntetésének részletes szabályait, továbbá a 12/F. § (4) bekezdésében meghatározott soronkívüli eljárás szabályait rendeletben állapítsa meg.
 
@@ -405,16 +405,16 @@ Annak érdekében, hogy a földrendező bizottságok működése a jelentkező i
 
 16/A. § Felhatalmazást kap a Kormány, hogy az e törvény szerinti ingatlanügyi hatóságot rendeletben jelölje ki.
 
-17. § Felhatalmazást kap a földügyért felelős miniszter, hogy a földkiadó bizottságok által lefolytatott közigazgatási hatósági eljárásokban a szakértő kirendelésére, valamint a szakértői névjegyzék összeállítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
+17. §
 
 18. § (1) E törvénynek az egyes törvények Alaptörvénnyel összefüggő módosításáról szóló 2011. évi CCI. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit – a (2) és (2a) bekezdésben foglalt kivétellel – a Módtv. hatálybalépésekor folyamatban lévő olyan ügyekben is alkalmazni kell, amelyekben a közigazgatási hatósági eljárás a Módtv. hatálybalépését megelőzően benyújtott, egy adott földrészleten fennálló osztatlan közös tulajdon megszüntetésére irányuló kérelem alapján indult.
 
 (2) A Módtv. hatálybalépése előtt indult olyan eljárást,
 
 - a) amelynek költségét a kérelmező megelőlegezte, a költségvállalást tartalmazó nyilatkozat benyújtásának,
-- b) amelyben az ingatlanügyi hatóság a keretmérést elvégezte, vagy jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
+- b) amelyben az ingatlanügyi hatóság a keretmérést elvégezte, vagy végleges határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
 
-(2a) 2012. december 29-e előtt indult olyan eljárást, amelyben az ingatlanügyi hatóság a keretmérést elvégezte, illetve jogerős határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
+(2a) 2012. december 29-e előtt indult olyan eljárást, amelyben az ingatlanügyi hatóság a keretmérést elvégezte, illetve végleges határozatot hozott a földrészlet megosztásának módjáról, kiindulási helyéről és irányáról, a közigazgatási hatósági eljárás megindításának időpontjában hatályos jogszabályi rendelkezések szerint kell lefolytatni azzal, hogy az ingatlan-nyilvántartásba bejegyzett jogok jogosultja hozzájárulásának hiánya nem akadályozza az eljárás lefolytatását.
 
 (3)
 

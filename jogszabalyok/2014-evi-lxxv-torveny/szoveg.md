@@ -154,7 +154,7 @@ Az Országgyűlés a gazdasági, társadalmi és területi kohézió megerősít
 
 #### 7. Felhatalmazó rendelkezések
 
-20. § Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a jóváhagyási és nyilvántartásba-vételi eljárás, valamint az európai területi társulások megszüntetésével kapcsolatos kérdések részletes szabályait rendeletben állapítsa meg.
+20. § Felhatalmazást kap a Kormány, hogy a jóváhagyási és nyilvántartásba-vételi eljárás, valamint az európai területi társulások megszüntetésével kapcsolatos kérdések részletes szabályait rendeletben állapítsa meg.
 
 #### 8. Hatályba léptető és átmeneti rendelkezések
 

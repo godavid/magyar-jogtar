@@ -23,9 +23,9 @@ a jövedéki adózás szabályairól a következő törvényt alkotja:
 2. § (1) Az
 
 - a) e törvény szerinti adókötelezettségre, adófizetési kötelezettségre, adó-visszaigénylésre, e kötelezettségek ellenőrzésére és a velük kapcsolatos hatósági és végrehajtási eljárásra, valamint jogkövetkezményekre,
-- b) – az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti adóügynek nem minősülő – e törvényben és az e törvény végrehajtásáról szóló, az adópolitikáért felelős miniszter rendeletében (a továbbiakban: végrehajtási rendelet) megállapított egyéb kötelezettség ellenőrzésére, valamint e kötelezettséggel kapcsolatos hatósági és végrehajtási eljárásra, valamint jogkövetkezményekre,
+- b) – az adózás rendjéről szóló törvény (a továbbiakban: Art.) szerinti adóügynek nem minősülő – e törvényben és az e törvény végrehajtásáról szóló, az adópolitikáért felelős miniszter rendeletében (a továbbiakban: végrehajtási rendelet) megállapított egyéb kötelezettség ellenőrzésére, az e kötelezettséggel kapcsolatos hatósági és végrehajtási eljárásra, valamint jogkövetkezményekre
 
-az e törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott eltéréssel az Art.-ot, amennyiben az Art. a kérdésről nem rendelkezik, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényt kell alkalmazni.
+az e törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott eltéréssel az Art.-ot, az adóigazgatási rendtartásról szóló törvényt (a továbbiakban: Air.) és az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényt kell alkalmazni.
 
 (2) A vámfelfüggesztési eljárás alatt álló jövedéki termékre e törvény adózatlan jövedéki termékek engedéllyel történő előállítására és tárolására, valamint a jövedéki termékek adófelfüggesztési eljárás keretében történő szállítására vonatkozó rendelkezései nem alkalmazandóak.
 
@@ -74,7 +74,7 @@ jogosult személy;
 - 27. jövedéki kiskereskedelmi tevékenység: a 67. § (1) bekezdés a) pontja szerinti termékkel a kereskedelemről szóló törvény, valamint a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermék kiskereskedelmi tevékenységről szóló törvény szerint folytatott kiskereskedelmi tevékenység;
 - 28. jövedéki kiskereskedő: jövedéki kiskereskedelmi tevékenységet folytató személy;
 - 29. jövedéki termék: az energiatermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék, az alkoholtermék és a dohánygyártmány;
-- 30. jövedéki ügy: az e törvény, valamint a végrehajtási rendelet szerinti rendelkezésekkel – beleértve az engedélyezési, nyilvántartásba-vételi, bejelentési kötelezettséget is – kapcsolatos közigazgatási hatósági ügy, beleértve a hatósági ellenőrzést;
+- 30. jövedéki ügy: az e törvény, valamint a végrehajtási rendelet szerinti rendelkezésekkel – beleértve az engedélyezési, nyilvántartásba-vételi, bejelentési kötelezettséget is – kapcsolatos általános közigazgatási rendtartás szerinti hatósági ügy, beleértve a hatósági ellenőrzést;
 - 31. kenőolaj: a 2710 19 81, 2710 19 83, 2710 19 87-2710 19 99, 2710 20 90, 3403 19 10-3403 19 80 KN-kód szerinti energiatermék;
 - 32. KN-kód: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. melléklete szerinti Kombinált Nómenklatúrában meghatározott, nyolc számjegyű áruazonosító szám;
 - 33. kötelező érvényű KN-kód besorolás: az állami adó- és vámhatóság által kiadott, az adófizetési kötelezettség meghatározásánál és az adómérték alkalmazásánál – a termék változatlan összetétele esetén – kötelező érvénnyel bíró KN-kód megállapítást és adójogi besorolást tartalmazó határozat;
@@ -113,7 +113,7 @@ jogosult személy;
 - 49. üzemi motorikusgáztöltő-állomás üzemeltetője: az üzemi motorikusgáztöltő-állomás üzemeltetője, valamint az üzemi motorikusgáztöltő-állomás üzemeltetőjével egy telephelyen működő, annak e termék tárolására szolgáló tartályát szerződés alapján használó személy;
 - 50. üzemszünet: olyan,
   - a) az uniós számítógépes rendszer vagy az állami adó- és vámhatóság számítógépes rendszerének üzemszerű működésében bekövetkezett,
-  - b) az állami adó- és vámhatóság által biztosított információs rendszer üzemszerű működésében bekövetkezett, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti, vagy
+  - b) az állami adó- és vámhatóság által biztosított információs rendszer üzemszerű működésében bekövetkezett, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti, vagy
   - c) az uniós számítógépes rendszer használójának számítógépes rendszerében bekövetkezett
 
 üzemzavar, amely meggátolja az uniós számítógépes rendszer használatát;
@@ -471,6 +471,12 @@ terheli.
 
 bűncselekmény elkövetése miatt jogerősen nem ítélték el vagy a kérelem benyújtásakor már mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
+(1a) Az engedélyezési eljárás során eredeti példányban szükséges az állami adó- és vámhatóság rendelkezésére bocsátani
+
+- a) a nem készpénzben nyújtott jövedéki biztosíték esetében a kötelezettségvállalást tartalmazó okiratot,
+- b) – a nyilvántartás alapbizonylataként használt egyéb bizonylat, az üzemszünet ideje alatt alkalmazott papíralapú okmány, valamint a szabad forgalomban nem szabadforgalomba bocsátáskor vagy nem tagállami szállítás esetén alkalmazott bizonylat kivételével – a 90. § szerinti okmányok aláírására jogosult személy közokiratba foglalt aláírásmintáját, kivéve, ha a végrehajtási rendelet ettől eltérést enged, és
+- c) a 92. (1) bekezdés a) pontjának alkalmazása esetén a hatósági erkölcsi bizonyítványt.
+
 (2) Az állami adó- és vámhatóság az engedély iránti kérelmet 30 napon belül, az eseti bejegyzett kereskedő és a bejegyzett feladó esetében 15 napon belül bírálja el, amelyet az állami adó- és vámhatóság kivételesen indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.
 
 (3) Egy adott, földrajzilag körülhatárolt hely telephelyként való működése a kérelmező részére nem engedélyezhető, ha a korábban ott folytatott, e törvény hatálya alá tartozó tevékenységgel összefüggésben megállapított adó-, bírság-, pótléktartozás vagy zárjegyhiánnyal kapcsolatos tartozás nem került megfizetésre, feltéve, hogy a tartozást eredményező tevékenységet
@@ -516,7 +522,7 @@ bűncselekmény elkövetése miatt jogerősen nem ítélték el vagy a kérelem 
 (9) A (3) bekezdéstől eltérően közteher nem teljesítése, továbbá köztartozás megállapítása esetén az állami adó- és vámhatóság abban az esetben vonja vissza az engedélyt, ha az engedélyes
 
 - a) bármely adónemben fennálló közteherfizetési kötelezettségét vagy tartozását az esedékességet követő 60 napon belül nem teljesítette, feltéve, hogy a kötelezettség összege a 100 ezer forintot meghaladja, kivéve, ha az engedélyes az engedély visszavonására irányuló hatósági eljárás megkezdéséig a kötelezettségét megfizette, vagy arra részletfizetést vagy fizetési halasztást engedélyeztek, vagy
-- b) terhére a vizsgált időszakra vonatkozó közteherfizetési kötelezettség 10 százalékát meghaladó köztartozást jogerősen állapít meg és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. kizárja.
+- b) terhére a vizsgált időszakra vonatkozó közteherfizetési kötelezettség 10 százalékát meghaladó köztartozást véglegessé vált döntésben állapít meg és a magatartás jellegére tekintettel az adóbírság mérséklését az Art. kizárja.
 
 #### 12. Engedéllyel rendelkezők
 
@@ -1269,6 +1275,13 @@ a kereskedelemről szóló törvény szerinti nagykereskedelmi tevékenység –
 - b) – az 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű egyéb ellenőrzött ásványolaj kivételével – az a) pont aa)–ad) alpontja szerinti termék, valamint az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolaj importálása és exportálása, ha a termék nem az azt szállító magánszemély saját felhasználását szolgálja,
 - c) – az 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű egyéb ellenőrzött ásványolaj kivételével – az a) pont aa)–ad) alpontja szerinti termék, valamint az 5 liternél vagy 5 kilogrammnál nagyobb kiszerelésű egyéb ellenőrzött ásványolaj másik tagállamból belföldre és belföldről másik tagállamba a 62. § szerinti kereskedelmi céllal történő szállítása.
 
+(1a) A Magyar Honvédségnek nem szükséges az (1) bekezdés szerinti engedéllyel rendelkeznie a tulajdonában álló, adózott üzemanyagnak
+
+- a) az Észak-atlanti Szerződésben részes állam fegyveres erejének, polgári állományának
+- b) a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erejének, polgári állományának
+
+járművei részére történő kiszolgálásához.
+
 (2) A jövedéki engedélyes kereskedő jövedéki terméket belföldön csak adóraktár engedélyesétől (ideértve a megszűnt adóraktárt az engedély hatályvesztését követő 30 napig), termékét adóraktárban tároló személytől, felhasználói engedélyestől, kisüzemi bortermelőtől és jövedéki engedélyes kereskedőtől szerezhet be.
 
 (3) A jövedéki engedélyes kereskedő – a (2) bekezdéstől eltérően – a jövedéki kiskereskedő vagy végfelhasználó részére értékesített jövedéki termékeket vagy azok egy részét a jövedéki kiskereskedő vagy végfelhasználó kérésére visszavásárolhatja.
@@ -1401,7 +1414,7 @@ követően bocsátja a bérfőzető rendelkezésre.
 
 #### 48. Zárjegy felhelyezése, pótlása
 
-76. § (1) A zárjegyet a legkisebb fogyasztói csomagolási egységre oly módon kell felragasztani, hogy az sérülésmentesen ne legyen eltávolítható és a csomagolás kinyitásakor eltépődjön, valamint az azon feltüntetett szöveg, adat – a végrehajtási rendeletben meghatározott eltéréssel – teljes terjedelmében látható legyen.
+76. § (1) A zárjegyet a legkisebb fogyasztói csomagolási egységre oly módon kell felhelyezni, hogy az sérülésmentesen ne legyen eltávolítható és – cigaretta, szivar és szivarka kivételével – a csomagolás kinyitásakor eltépődjön, valamint az azon feltüntetett szöveg, adat – a végrehajtási rendeletben meghatározott eltéréssel – teljes terjedelmében látható legyen.
 
 (2) A zárjegyköteles jövedéki termékre felragasztott zárjegy a végrehajtási rendeletben meghatározott információkat tartalmazza.
 
@@ -1459,11 +1472,18 @@ követő munkanapon adatszolgáltatást teljesít az állami adó- és vámható
 
 (6) Az adóraktár engedélyesének a felszámolási és a végelszámolási eljárás miatti megszűnés kivételével az adóraktári engedélyének hatályvesztését követő 30 napon belül bevallást kell benyújtania. A felszámolási és a végelszámolási eljárás miatti megszűnés esetében az adóbevallásra az Art.-ot, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényt vagy a csődeljárásról és a felszámolási eljárásról szóló törvényt kell alkalmazni.
 
-#### 80. §
+80. § (1) Az állami adó- és vámhatóság a tárgyhót követő hónap 10. napjáig tájékoztatásul megküldi az adózónak – a tüzelő-, fűtőanyagként kínált, értékesített vagy felhasznált földgázra, valamint a szénre és a villamos energiára vonatkozó adatok kivételével – az adóbevallás alapját képező adatokat. Az adóalany ezen adatok beérkezésétől számított 5 napon belül helyesbítéssel élhet, amelyet megküld az állami adó- és vámhatóság részére.
+
+(2) Az adózó az adó előlegének és a megállapított nettó adónak a különbözetét havonta
+
+- a) a tárgyhót követő hónap 20. napjáig,
+- b) az a) ponttól eltérően a kizárólag dohánygyártmányt előállító, forgalmazó adózó a 2 milliárd forintot meg nem haladó adó összegét a tárgyhót követő második hónap 20. napjáig
+
+fizeti meg.
 
 #### 52. Adóelőleg
 
-81. § (1) Az adóraktár engedélyese adóelőleget fizet, ha az előző év azonos negyedévében keletkezett adófizetési kötelezettsége elérte a 6 millió forintot. Az adóelőleg mértéke az előző év azonos negyedévében keletkezett adófizetési kötelezettségének egyhatod része.
+81. § (1) Az adóraktár engedélyese az adóelőleget a tárgyhó 25. napjáig fizeti meg, ha az előző év azonos negyedévében keletkezett adófizetési kötelezettsége elérte a 6 millió forintot. Az adóelőleg mértéke az előző év azonos negyedévében keletkezett adófizetési kötelezettségének egyhatod része.
 
 (2) Ha az adóraktár engedélyese a tárgyévet megelőző évben nem fizetett adót, de a tárgyév első negyedévében az adó várható összege eléri a 6 millió forintot, akkor a várható adóösszeg egyhatodát kell adóelőlegként fizetni. A második, harmadik és negyedik negyedévben akkor kell adóelőleget fizetni, ha az előző negyedévi adó összege a 6 millió forintot meghaladja. Az adóelőleg összege az előző negyedévi adófizetési kötelezettségének egyhatod része.
 
@@ -1554,11 +1574,9 @@ igényelheti.
 
 (2) Az állami adó- és vámhatóság a végrehajtási rendeletben meghatározott szigorú számadású bizonylatok esetében kérelemre, elszámolási kötelezettség mellett sorszámtartományt adhat ki.
 
-91. § (1) Jövedéki ügyben nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény újrafelvételi eljárásra vonatkozó szabályait, valamint e törvény vagy a végrehajtási rendelet szerinti engedélyezési eljárásban nem alkalmazható a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény függő hatályú döntésre vonatkozó rendelkezése.
+91. § (1) Az Art. szerinti adóügynek nem minősülő jövedéki ügyre az Air. és az Art. adóügyre vonatkozó rendelkezéseit kell alkalmazni.
 
-(2) Önálló fellebbezésnek van helye az első fokon a kézbesítési vélelem megdöntése tárgyában hozott elutasító végzés ellen.
-
-(3) Jövedéki ügyben az állami adó- és vámhatóság értesíti az ügyfelet a kézbesítési vélelem beálltáról.
+(2)–(3)
 
 (4) Azon kötelezően bejelentendő adatok tekintetében, amelyeket az állami adó- és vámhatóságtól eltérő hatóság nyilvántartása közhitelesen tartalmaz, úgy is teljesíthető a bejelentési kötelezettség, hogy az e törvény szerint bejelentésre kötelezett személy kéri a közhiteles nyilvántartást vezető szervet az állami adó- és vámhatóság nyilvántartott adatról vagy az adatban bekövetkezett változásról történő értesítésére.
 
@@ -1572,8 +1590,8 @@ igényelheti.
 
 (3) Az állami adó- és vámhatóság a 14. § (1) bekezdés g) pontja és a 34. § (3) bekezdése szerinti feltételek megvalósulásának megállapítása érdekében a megismert személyes adatokat
 
-- a) az engedélyezési, nyilvántartásba-vételi eljárás jogerős befejezéséig vagy
-- b) a hatósági ellenőrzés időtartamára vagy az engedély visszavonására, nyilvántartásból történő törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+- a) az engedélyezési, nyilvántartásba-vételi eljárásban hozott érdemi vagy eljárást lezáró döntés véglegessé válásáig vagy
+- b) a hatósági ellenőrzés időtartamára vagy az engedély visszavonására, nyilvántartásból történő törlésre irányuló eljárásban az eljárásban hozott érdemi vagy eljárást lezáró döntés véglegessé válásáig
 
 kezeli.
 
@@ -1619,13 +1637,13 @@ kezeli.
 
 #### 63. Az ellenőrzés általános szabályai
 
-96. § (1) Az e törvényben és a végrehajtási rendeletben meghatározott kötelezettségek teljesítésének és a jogosultságok jogszabályi feltételei megvalósulásának – ellenőrzéssel lezárt időszakot nem eredményező – hatósági ellenőrzésekor az Art. ellenőrzési szabályait ezen alcímben meghatározott eltérésekkel kell alkalmazni.
+96. § (1) Az e törvényben és a végrehajtási rendeletben meghatározott kötelezettségek teljesítésének és a jogosultságok jogszabályi feltételei megvalósulásának – ellenőrzéssel lezárt időszakot nem eredményező – hatósági ellenőrzésekor az Air. és az Art. ellenőrzési szabályait ezen alcímben meghatározott eltérésekkel kell alkalmazni.
 
-(2) Az (1) bekezdés szerinti helyszíni ellenőrzéshez az Art. szerinti általános megbízólevélnek az állami adó- és vámhatóság tagjának intézkedésre jogosító szolgálati igazolványa minősül.
+(2) Az (1) bekezdés szerinti helyszíni ellenőrzéshez az Air. szerinti általános megbízólevélnek az állami adó- és vámhatóság tagjának intézkedésre jogosító szolgálati igazolványa minősül.
 
 (3) A jövedéki termék szállításának helyszíni ellenőrzésekor jogsértés hiányának megállapítása esetén csak abban az esetben kell jegyzőkönyvet kiállítani, ha azt az ellenőrzött személy kéri. Az állami adó- és vámhatóság az ellenőrzés tényét jegyzőkönyv készítésének hiányában a szállítási okmányon rögzíti.
 
-(4) Az Art. szerinti adózóra vonatkozó szabályokat az e törvény szerinti ellenőrzött személyre is alkalmazni kell.
+(4) Az Air. szerinti adózóra vonatkozó szabályokat az e törvény szerinti ellenőrzött személyre is alkalmazni kell.
 
 (5) Határozattal rendelhető el folyamatos jelenléttel és vizsgálattal gyakorolt vagy technikai eszköz felszerelésével folyamatos vizsgálatot lehetővé tévő, többlet-adatszolgáltatási kötelezettséget előíró, valamint a tevékenység végzéséhez az állami adó- és vámhatósághoz történő előzetes bejelentési kötelezettséget vagy előzetes bejelentési kötelezettséget és állami adó- és vámhatósági jelenlétet együttesen előíró ellenőrzés
 
@@ -1660,11 +1678,13 @@ kezeli.
 
 #### 66. Jogkövetkezmények
 
-99. § Az Art. adóbírságra, mulasztási bírságra és adómérséklésre vonatkozó szabályait jövedéki eljárásokban nem lehet alkalmazni.
+99. § (1) Az Art. adóbírságra, mulasztási bírságra és adómérséklésre vonatkozó szabályait – az Art. 237. § (1) bekezdésbeli szabályok kivételével – jövedéki eljárásokban nem lehet alkalmazni.
+
+(2) Az Art. 237. § (1) bekezdésének alkalmazásában mulasztási bírság alatt jövedéki bírságot kell érteni, adózó alatt jogsértő személyt is érteni kell, továbbá a mérlegelésnél a jogsértéssel okozott vagyoni hátrány nagyságát és a jogsértéssel elért előny mértékét is értékelni kell.
 
 #### 67. Jövedéki bírság
 
-100. § (1) Az a személy, aki az e törvényben meghatározott kötelezettségét megszegi, jövedéki bírsággal sújtandó.
+100. § (1) Az a személy, aki az e törvényben előírt, valamint az Air.-ben és az Art.-ban az e törvény szerinti adóhoz kapcsolódó kötelezettségét megszegi, jövedéki bírsággal sújtandó.
 
 (2) Ha az (1) bekezdés szerinti kötelezettségszegés a központi költségvetésnek vagyoni hátrányt okoz, a jövedéki bírság mértéke a központi költségvetésnek okozott vagyoni hátrány mértékének kétszeresétől ötszöröséig terjedő összeg, de legalább 30 ezer forint.
 
@@ -1711,7 +1731,7 @@ alapulvételével kell meghatározni.
 
 (8) A (4), a (6) és a (7) bekezdésben meghatározott határidők elmulasztása miatt igazolási kérelemnek helye nincs.
 
-(9) A lefoglalt dolog elszállításával, tárolásával, őrzésével kapcsolatos költségek az ügyfelet terhelik, ha jogerősen végrehajtható jövedéki bírság megfizetésére kötelezték, ellenkező esetben a felmerült költségeket az állam viseli.
+(9) A lefoglalt dolog elszállításával, tárolásával, őrzésével kapcsolatos költségek az ügyfelet terhelik, ha véglegessé vált döntésben végrehajtható jövedéki bírság megfizetésére kötelezték, ellenkező esetben a felmerült költségeket az állam viseli.
 
 (10) A lefoglalt dolognak az állami adó- és vámhatóság által üzemeltetett raktárban történő tárolása esetén a vámjogszabályokat kell alkalmazni.
 
@@ -1721,7 +1741,7 @@ alapulvételével kell meghatározni.
 
 103. § (1) El kell kobozni
 
-- a) a lefoglalt dolgot, amire a jogerősen megállapított jövedéki kötelezettségszegést elkövették és a jövedéki ügyben a 100. § (2), (3), (5), (8) és (9) bekezdése szerinti jövedéki bírság kerül kiszabásra vagy ha a jövedéki bírság kiszabását a 101. § alapján az állami adó- és vámhatóság mellőzte,
+- a) a lefoglalt dolgot, amire a véglegessé vált döntésben megállapított jövedéki kötelezettségszegést elkövették és a jövedéki ügyben a 100. § (2), (3), (5), (8) és (9) bekezdése szerinti jövedéki bírság kerül kiszabásra vagy ha a jövedéki bírság kiszabását a 101. § alapján az állami adó- és vámhatóság mellőzte,
 - b) a lefoglalt dolgot, ha azon a jövedéki törvénysértés elkövetését célzó átalakítást végeztek,
 - c) a jogosulatlanul megszerzett és lefoglalt adóügyi jelzést.
 
@@ -1749,7 +1769,7 @@ alapulvételével kell meghatározni.
   - bb) közül a ba) alpont szerinti átadásra nem került energiaterméket az állami adó- és vámhatóság – az állami adó- és vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – üzemanyagként vagy fűtési, tüzelési célra felhasználhatja;
   - bc) közül az értékesítésre vagy a ba) és bb) alpont szerint átadásra, felhasználásra nem került energiaterméket a katasztrófavédelmi szerv részére oktatás, gyakorlatozás céljára a katasztrófavédelmi szerv kérelme alapján – az állami adó- és vámhatóság vezetője jóváhagyásával, elszámolási kötelezettség mellett – átadható.
 
-(7) Az állami adó- és vámhatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően jogosult a lefoglalt
+(7) Az állami adó- és vámhatóság az elkobzásról rendelkező döntést követően, de annak véglegessé válását megelőzően jogosult a lefoglalt
 
 - a) (5) bekezdés a) pontja szerinti dolog előzetes megsemmisítésére, ha az gyors romlásnak van kitéve, huzamosabb tárolásra alkalmatlan,
 - b) (5) bekezdés b) pontja szerinti dolog előzetes megsemmisítésére, a lefoglalt (5) bekezdés c) pontja szerinti dolog előzetes értékesítésére, ha annak kezelése, tárolása, őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna,
@@ -1777,7 +1797,7 @@ a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki ala
 
 (3) Az önkormányzati adóhatóság által elrendelt lefoglalási eljárásra az állami adó- és vámhatóság által alkalmazható lefoglalásra vonatkozó eljárási szabályokat kell alkalmazni.
 
-(4) Az önkormányzati adóhatóság az általa lefoglalt jövedéki terméket és desztillálóberendezést elkobozza és megsemmisítésre átadja az állami adó- és vámhatóságnak, ha a jövedéki ügyben jogerősen a 106. § szerinti bírság kerül kiszabásra.
+(4) Az önkormányzati adóhatóság az általa lefoglalt jövedéki terméket és desztillálóberendezést elkobozza és megsemmisítésre átadja az állami adó- és vámhatóságnak, ha a jövedéki ügyben véglegessé vált döntésben a 106. § szerinti bírság kerül kiszabásra.
 
 (5) Ha az önkormányzati adóhatóság a magánfőzés szabályainak ellenőrzése során az évente előállítható mennyiségi korlát túllépését észleli, erről haladéktalanul értesíti az állami adó- és vámhatóságot.
 
@@ -1891,6 +1911,8 @@ keletkezik.
 
 használ fel.
 
+- d) a Magyar Honvédség az általa üzemeltetett adóraktárból – a Magyar Honvédség kivételével – az Észak-atlanti Szerződésben részes állam fegyveres erejének és polgári állományának, valamint a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erejének, polgári állományának járművei részére kiszolgált üzemanyagra.
+
 (2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja szerint kiszolgáló adóraktár részének tekintendő
 
 - a) a kiszolgálást végző tartályautó,
@@ -1962,7 +1984,7 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 #### 79. Egyéb eljárási szabályok
 
-118. § (1) A 111. § (1) bekezdés a) pontja szerinti adóalany a szén értékesítése esetén a lakossági fogyasztónak történt értékesítést a 3. § (2) bekezdés 25. pontjában említett nyilatkozattal köteles dokumentálni. A nyilatkozatban a lakossági fogyasztó nevét, címét és adóazonosító jelét is fel kell tüntetni. Az energiakereskedő a személyes adatokat tartalmazó nyilatkozatot kizárólag az állami adó- és vámhatóság részére, ellenőrzés céljából adhatja át. Az állami adó- és vámhatóság a megkapott személyes adatokat a feltétel megvalósulásának megállapíthatósága érdekében a hatósági ellenőrzés időtartamára vagy az ellenőrzés nyomán indult hatósági eljárás jogerős befejezéséig kezeli.
+118. § (1) A 111. § (1) bekezdés a) pontja szerinti adóalany a szén értékesítése esetén a lakossági fogyasztónak történt értékesítést a 3. § (2) bekezdés 25. pontjában említett nyilatkozattal köteles dokumentálni. A nyilatkozatban a lakossági fogyasztó nevét, címét és adóazonosító jelét is fel kell tüntetni. Az energiakereskedő a személyes adatokat tartalmazó nyilatkozatot kizárólag az állami adó- és vámhatóság részére, ellenőrzés céljából adhatja át. Az állami adó- és vámhatóság a megkapott személyes adatokat a feltétel megvalósulásának megállapíthatósága érdekében a hatósági ellenőrzés időtartamára vagy az ellenőrzés nyomán indult hatósági eljárásban hozott érdemi vagy eljárást lezáró döntés véglegessé válásáig kezeli.
 
 (2) A földgáz, villamos energia vagy szén értékesítését végző adóalany a 111. § szerinti esetben az adót köteles a számlán elkülönítve feltüntetni.
 
@@ -2097,9 +2119,9 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 - h) az adóraktár engedélyese az előállított, legfeljebb 8,5 liter tiszta szesz/100 kilogramm alkoholtartalmú csokoládéra, – az alkoholtartalmú italok kivételével – legfeljebb 5 liter tiszta szesz/100 kilogramm alkoholtartalmú egyéb élelmiszerre, lé nélküli alkoholos gyümölcsre és az ezek előállításához felhasznált sörre, csendes és habzóborra, egyéb csendes és habzó erjesztett italra, köztes alkoholtermékre vagy alkoholtermékre,
 - i) az adóraktár engedélyese a részlegesen denaturált sör, csendes és habzóbor, egyéb csendes és habzó erjesztett ital, köztes alkoholtermék vagy alkoholtermék felhasználásával előállított vegyipari, kozmetikai és egyéb, nem emberi fogyasztásra szolgáló termékre, és az ezek előállításához felhasznált sörre, csendes és habzóborra, egyéb csendes és habzó erjesztett italra, köztes alkoholtermékre vagy alkoholtermékre,
 - j) az e)–i) pont szerinti végtermékeket tagállamból vagy harmadik országból behozó személy,
-- k) az adóraktár engedélyese a 3199/93/EK bizottsági rendeletben meghatározott eljárások közül a valamennyi tagállamban alkalmazható teljes denaturálási eljárással vagy a Magyarország által bejelentett teljes denaturálással előállított etil-alkoholt tartalmazó termékre,
-- l) az a 3199/93/EK bizottsági rendeletben kihirdetett teljes denaturálással másik tagállamban előállított etil-alkoholt tartalmazó terméket belföldre EKO-val szállító személy,
-- m) az adóraktár engedélyese a 3199/93/EK bizottsági rendeletben kihirdetett, másik tagállam által bejelentett teljes denaturálási eljárással belföldön előállított etil-alkoholt tartalmazó termékre a címzett általi átvételt igazoló EKO példány alapján.
+- k) az adóraktár engedélyese a teljes denaturálással előállított termékre,
+- l) a teljes denaturálással másik tagállamban előállított terméket belföldre szállító személy.
+- m)
 
 (2) Ha az (1) bekezdés i) pontja szerinti termék előállításához technológiai, műszaki, egészségügyi szempontok miatt nem lehet részleges denaturálással előállított sört, csendes és habzóbort, egyéb csendes és habzó erjesztett italt, köztes alkoholterméket vagy alkoholterméket felhasználni, annak szakmai indokolását és arról a felhasználás szerint illetékes szakmai szövetség nyilatkozatát kell az adóraktári engedély vagy annak módosítása iránti kérelemhez csatolni.
 
@@ -2205,6 +2227,8 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (9) A (3) bekezdés c) pontja szerinti esetben megállapított különbözetre a 132. § (2) bekezdés b) pontja szerinti adómértékkel számított adót kell megfizetni.
 
+(10) Az állami adó- és vámhatóság az adóraktár engedélyes által a (4) bekezdés szerint beszedett adót elkülönített számlán tartja nyilván. Az adóraktár engedélyes a (3) bekezdés szerinti adófizetési kötelezettségét ezen elkülönített számla javára teljesíti. Az állami adó- és vámhatóság az elkülönített számlára teljesített befizetéseket az Art. adószámlára vonatkozó rendelkezései szerint tartja nyilván.
+
 141. § A – 71. §-ban meghatározott kivétellel – bérfőzött párlat kizárólag a bérfőzető, családtagjai vagy vendégei által fogyasztható el, feltéve hogy értékesítésre nem kerül sor.
 
 142. § (1) A kizárólag bérfőzést végző adóraktár engedélyesének nem kell a 14. § (1) bekezdés a) pontja, valamint a 20. § (1) bekezdés a) és b) pontja szerinti kötelezettséget teljesítenie.
@@ -2252,6 +2276,8 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 (6) Az adóraktárban a denaturált terméket a nem denaturált terméktől, valamint a különböző denaturálási eljárásokkal denaturált termékeket egymástól is elkülönítetten kell tárolni.
 
 (7) A denaturáláshoz felhasznált anyag a denaturált termékből nem vonható ki és a denaturált termékhez nem keverhető olyan anyag, amely a denaturált termék hatását ízre vagy szagra megváltoztatja.
+
+(8) Ha az etil-alkoholt tartalmazó termék 133. § (1) bekezdés k) pontja szerinti magyarországi denaturálása a 3199/93/EK bizottsági rendelet mellékletének III. részében meghatározott denaturálási eljárással történt, a termék a 3199/93/EK bizottsági rendelet mellékletének III. része szerint az adott denaturálási eljárást alkalmazó tagállamban lévő címzettnek szállítható.
 
 ### XII. Fejezet — DOHÁNYGYÁRTMÁNYOK
 

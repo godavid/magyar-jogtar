@@ -118,7 +118,7 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 (9) Az adóval kapcsolatos hatósági feladatokat az állami adóhatóság látja el, az adóból származó bevétel a központi költségvetés bevétele.
 
-(10) Az e törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvény előírásai az irányadók.
+(10)
 
 (11) Az Szt. hatálya alá tartozó adóalany az e törvény alapján megállapított adót az adózás előtti eredmény terhére számolja el.
 
@@ -149,7 +149,7 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 (3) A mulasztás ismételt megállapítása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság háromszorosát kitevő mulasztási bírságot szab ki.
 
-(4) Az állami adóhatóság az (1) bekezdés szerinti bejelentkezési kötelezettség elmulasztását naponta határozatban állapítja meg, amely a közléssel jogerős és végrehajtható, ellene bírósági felülvizsgálatnak van helye. A bírósági felülvizsgálati eljárásban kizárólag okirati bizonyításnak van helye és a bíróság tárgyaláson kívül határoz.
+(4) Az állami adóhatóság az (1) bekezdés szerinti bejelentkezési kötelezettség elmulasztását naponta határozatban állapítja meg, amely a közléssel véglegessé válik és végrehajtható. A határozat közigazgatási perben támadható meg, mely során kizárólag okirati bizonyításnak van helye és az eljáró bíróság tárgyaláson kívül határoz.
 
 (5) Ha az adóalany az állami adóhatóság első alkalommal való felhívására bejelentkezési kötelezettségét teljesíti, akkor a (2) és (3) bekezdés szerinti bírság korlátlanul enyhíthető.
 
@@ -157,15 +157,15 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 (2) Ha az (1) bekezdés szerinti adóalany a 3. § (3) bekezdés szerinti nyilatkozattételi kötelezettsége teljesítését ugyanazon megrendelő számára ismételten elmulasztja, akkor az állami adóhatóság 10 millió forint mulasztási bírságot szab ki. A nyilatkozattételi kötelezettség minden további, ugyanazon megrendelő számára történő elmulasztása esetén az állami adóhatóság az előző alkalommal kiszabott mulasztási bírság háromszorosát kitevő mulasztási bírságot szab ki.
 
-(3) Az állami adóhatóság (1)–(2) bekezdés szerinti mulasztási bírságot kiszabó határozata a közléssel jogerős és végrehajtható. A határozat ellen bírósági felülvizsgálatnak van helye.
+(3) Az állami adóhatóság (1) és (2) bekezdés szerinti mulasztási bírságot kiszabó határozata a közléssel véglegessé válik és végrehajtható. A határozat közigazgatási perben támadható meg.
 
 7/D. § Az állami adóhatóság ugyanazon adóalany terhére a 7/B. § és a 7/C. § alapján összesen legfeljebb 1 milliárd forint mulasztási bírságot szabhat ki.
 
 7/E. § (1) Ha a 3. § (1) bekezdés szerinti adóalany adóbevallás-benyújtási kötelezettségét nem teljesítette, akkor az állami adóhatóság a megelőző naptári évvel megegyező vélelmezett adóévre 3 milliárd forint vélelmezett adót állapít meg.
 
-(2) Az adóalany az (1) bekezdés szerint vélelmezett adót megállapító határozat közlésétől számított 30 napon belül a határozatban megállapítottakkal szemben ellenbizonyítással élhet. A határidő elmulasztása jogvesztő. Ha az adóalany ellenbizonyítással nem él, a határozat az ellenbizonyításra nyitva álló határidő lejártát követő napon jogerős és végrehajtható, ellene bírósági felülvizsgálatnak nincs helye.
+(2) Az adóalany az (1) bekezdés szerint vélelmezett adót megállapító határozat közlésétől számított 30 napon belül a határozatban megállapítottakkal szemben ellenbizonyítással élhet. A határidő elmulasztása jogvesztő. Ha az adóalany ellenbizonyítással nem él, a határozat az ellenbizonyításra nyitva álló határidő lejártát követő napon jogerős és végrehajtható, ellene közigazgatási per nem indítható.
 
-(3) Ha az adóalany ellenbizonyítással él, akkor az állami adóhatóság az (1) bekezdés szerint vélelmezett adót megállapító határozatát visszavonja és az adót új határozatban állapítja meg, amely a közléssel jogerős és végrehajtható. A határozat ellen bírósági felülvizsgálatnak van helye.
+(3) Ha az adóalany ellenbizonyítással él, akkor az állami adóhatóság az (1) bekezdés szerint vélelmezett adót megállapító határozatát visszavonja és az adót új határozatban állapítja meg, amely a közléssel véglegessé válik és végrehajtható. A határozat közigazgatási perben támadható meg.
 
 #### 6/A. Az Európai Bizottság C(2016) 6929 final számú határozatának végrehajtását szolgáló rendelkezések
 

@@ -56,7 +56,7 @@ az államhatárról
 
 (4) A közérdekű használati jogot a Kormány által rendeletben meghatározott szervek és személyek – kizárólag az (1) bekezdésben meghatározott célból, a feladat ellátásához feltétlenül szükséges mértékben – gyakorolhatják.
 
-(5) A közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi. A közérdekű használati jog bejegyzését elrendelő határozat ellen közigazgatási úton fellebbezésnek helye nincs.
+(5) A közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi.
 
 (6) A közérdekű használati jog ingatlan-nyilvántartásból történő törlését az általános rendőrségi feladatok ellátására létrehozott szerv kezdeményezi, ha a közérdekű használati jog az ingatlanon azért szűnik meg, mert az államhatár (1) bekezdés szerinti szakasza a Schengeni határ-ellenőrzési kódex 2. cikk 1. pontja szerinti belső határnak minősül.
 
@@ -67,7 +67,7 @@ az államhatárról
 
 illeti meg.
 
-(2) A fővárosi és megyei kormányhivatal határozatában rendelkezik az ingatlan tulajdonosát megillető kártalanításáról. A határozat ellen közigazgatási úton fellebbezésnek helye nincs.
+(2) A fővárosi és megyei kormányhivatal határozatában rendelkezik az ingatlan tulajdonosát megillető kártalanításáról.
 
 (3) A kártalanítás összegét az általános rendőrségi feladatok ellátására létrehozott szerv téríti meg az ingatlan tulajdonosának.
 
@@ -179,13 +179,15 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 - c) a belső határon az ellenőrzés ideiglenes bevezetésének feltételeit,
 - d) a határátkelőhely rendjének kötelező tartalmát, megállapításának módját, részletes eljárási szabályait és feltételeit.
 - e) az 5. § szerinti közérdekű használati jog gyakorlására jogosult szerveket és személyeket,
-- f) az 5/A. § szerinti kártalanítás és kártalanítási eljárás szabályait.
+- f) az 5/A. § szerinti kártalanítás és kártalanítási eljárás szabályait,
+- g) a határvízen történő közlekedés engedélyezésének szabályait,
+- h) a katonai alakulatok és szállítmányok államhatáron történő átléptetésével kapcsolatos közigazgatási hatósági eljárás különös és kiegészítő rendelkezéseit.
 
 (5) Felhatalmazást kap a Kormány, hogy a határátlépés ellenőrzésének ideiglenes visszaállítását rendeletben hirdesse ki.
 
 (6) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a határjegyzőkönyvet rendeletben hagyja jóvá.
 
-(7) Felhatalmazást kap a határrendészetért felelős miniszter, hogy rendeletben határozza meg a határvízen történő közlekedés engedélyezésének szabályait.
+(7)
 
 (8) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a közbiztonság védelme érdekében
 

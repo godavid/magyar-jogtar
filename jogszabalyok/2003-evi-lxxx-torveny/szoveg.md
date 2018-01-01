@@ -31,7 +31,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - e) közigazgatási eljárásban vesz részt, és eljárási jogainak, kötelességeinek megismeréséhez jogi tanácsadásra vagy jognyilatkozat megtétele érdekében beadvány készítésére van szükség,
 - f) abban a kérdésben van szüksége a jogi tanácsadásra, hogy jogainak védelme érdekében mely hatóságnál, szervezetnél milyen típusú eljárást kell indítania, illetve ilyen eljárás kezdeményezése vagy az eljárás során jognyilatkozat megtétele érdekében beadványt kell készíteni,
 - g) bűncselekmény áldozata és a bűncselekménnyel okozott kár, illetve a bűncselekménnyel összefüggésben keletkezett jog- vagy érdeksérelem elhárításához szükséges eljárás megindításához jogi segítő szakjogászi tanácsadására vagy beadvány (kereset, kérelem, feljelentés, vádindítvány stb.) szerkesztésére van szüksége,
-- h) polgári vagy büntetőeljárásban rendkívüli jogorvoslati kérelem elkészítéséhez kér segítséget,
+- h) polgári, közigazgatási vagy büntetőügyben rendkívüli jogorvoslati kérelem előkészítéséhez kér segítséget,
 - i) átmeneti vagy tartós nevelésből kikerült fiatal felnőtt tartós lakhatásának, első lakáshoz jutásának elősegítése érdekében okiratszerkesztésre van szükség,
 - j) folyamatban lévő bírósági eljárásban vesz részt, és eljárási jogainak, kötelességeinek megismeréséhez vagy a jogvita peren kívüli lezárásához jogi tanácsadásra, okirat készítésére vagy perbeli jognyilatkozat megtétele érdekében beadvány készítésére van szüksége, feltéve, ha az eljárásban nem rendelkezik jogi képviselővel, és a pártfogó ügyvéd biztosítása nem is lenne indokolt.
 
@@ -40,7 +40,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 (3) Az (1) bekezdés a)–h) pontjaiban foglalt esetben sem lehet támogatást nyújtani
 
 - a) szerződés készítésére, kivéve, ha a szerződést kötő felek közösen kérik a támogatást, és valamennyiük vonatkozásában fennállnak annak a feltételei,
-- b) jogi tanácsadásra a következő területeken: 1. pénzintézet által folyósított kölcsön felvételének feltételei, 2. olyan jogügylet tárgyában, amelyben a jognyilatkozatot csak ügyvéd által ellenjegyzett okiratba vagy közjegyzői okiratba foglaltan lehet tenni, kivéve, ha a jogügylet a fél és családja lakhatását szolgáló ingatlan elidegenítése vagy megterhelése,
+- b) jogi tanácsadásra a következő területeken: 1. pénzintézet által folyósított kölcsön felvételének feltételei, 2. olyan jogügylet tárgyában, amelyben a jognyilatkozatot csak ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba vagy közjegyzői okiratba foglaltan lehet tenni, kivéve, ha a jogügylet a fél és családja lakhatását szolgáló ingatlan elidegenítése vagy megterhelése,
 - c)
 - d) a magánszemély vállalkozási, befektetési jellegű tevékenységével kapcsolatos ügyben, kivéve 1. az (1) bekezdés g) pontja szerinti ügyeket, ha az elkövetett bűncselekmény e tevékenységgel kapcsolatos, 2. a tevékenység folytatásáért járó díj érvényesítésével összefüggő ügyeket, ha a vállalkozási jellegű jogviszonyra vonatkozó szerződés természetes személy által végzendő tevékenység folytatására vonatkozik alvállalkozó igénybevételének kizárásával, a munkavégzés helyének meghatározásával és a díj részletekben történő megfizetésével,
 - e) civil szervezet létrehozásával és működésével kapcsolatos ügyben,
@@ -62,7 +62,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (3) E törvénynek az Európai Unió tagállamaira vonatkozó rendelkezései nem alkalmazhatók Dániára.
 
-5. § (1) A jogi szolgáltatás díját a fél helyett az állam viseli, ha a fél rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása), nem haladja meg a munkaviszony alapján megállapított öregségi nyugdíj mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum), vagyona pedig – a 9. §-ban foglaltak figyelembevételével – nincs.
+5. § (1) A jogi szolgáltatás díját a fél helyett az állam viseli, ha a fél rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása), nem haladja meg az öregségi teljes nyugdíj mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum), vagyona pedig – a 9. §-ban foglaltak figyelembevételével – nincs.
 
 (2) Jövedelmi és vagyoni helyzetére tekintet nélkül rászorultnak tekintendő az a fél, aki
 
@@ -84,7 +84,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 (2) A rendelkezésre álló jövedelem megállapításánál a közös háztartásban élők összjövedelméből le kell vonni
 
 - a) jogszabály alapján általuk fizetendő tartásdíj vagy járadék összegét, és
-- b) lakás vásárlásához, felújításához, építéséhez pénzintézet (munkáltató) által folyósított hitel havi törlesztő-részletének az általuk fizetett összegét, ha a lakás a hitel felvételekor megfelelt a méltányolható lakásigény külön jogszabályban meghatározott feltételeinek.
+- b) lakás vásárlásához, felújításához, építéséhez pénzintézet (munkáltató) által folyósított hitel havi törlesztő-részletének az általuk fizetett összegét, ha a lakás a hitel felvételekor megfelelt a méltányolható lakásigénynek a lakáscélú állami támogatásokról szóló jogszabályban meghatározott feltételeinek.
 
 8. § (1) A rászorultságot akkor is meg kell állapítani, ha a fél rendelkezésre álló jövedelme a rászorultsági összeghatárt meghaladja, de a fél
 
@@ -103,7 +103,9 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - c) a mozgáskorlátozott személy gépjárművét és azt a gépjárművet, amely nélkül a fél foglalkozásának gyakorlása lehetetlenné válik, és
 - d) azokat a vagyontárgyakat, amelyek a rászorultsági összeghatárnak megfelelő mértékű jövedelem megszerzéséhez szükségesek.
 
-9/A. § Ha a 3. § (1) bekezdésének g) pontja szerinti támogatás iránti kérelmet előterjesztő félről a külön törvény szerinti eljárásban megállapították azt, hogy bűncselekmény áldozata és jogosult az áldozatsegítési szolgáltatások igénybevételére, a rászorultság 5–9. §-ban foglalt szabályait azzal az eltéréssel kell alkalmazni, hogy a fél helyett a jogi szolgáltatás díját az állam viseli, ha a rendelkezésre álló havi nettó jövedelme nem haladja meg a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 86%-át.
+9/A. § (1) Ha a 3. § (1) bekezdésének g) pontja szerinti támogatás iránti kérelmet előterjesztő félről a külön törvény szerinti eljárásban megállapították azt, hogy bűncselekmény áldozata és jogosult az áldozatsegítési szolgáltatások igénybevételére, a rászorultság 5–9. §-ban foglalt szabályait azzal az eltéréssel kell alkalmazni, hogy a fél helyett a jogi szolgáltatás díját az állam viseli, ha a rendelkezésre álló havi nettó jövedelme nem haladja meg a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 86%-át.
+
+(2) Ha az (1) bekezdés szerinti támogatás iránti kérelmet előterjesztő fél terrorcselekmény áldozata, úgy jövedelmi helyzetére tekintet nélkül rászorulónak minősül.
 
 ### A támogatás kizártsága
 
@@ -118,15 +120,15 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (3) A (2) bekezdés b) pontjában foglalt esetben a fél kivételesen részesíthető támogatásban, ha igazolja, hogy a jövedelmi és vagyoni helyzete, egyéb személyes körülményei olyan fokban romlottak meg, hogy önhibáján kívül nem képes az általa igénybe vett jogi szolgáltatás díjának visszatérítésére.
 
-### II. Fejezet — TÁMOGATÁS A POLGÁRI ELJÁRÁSOKBAN
+### II. Fejezet — TÁMOGATÁS A POLGÁRI ÉS KÖZIGAZGATÁSI ELJÁRÁSOKBAN
 
 ### A támogatás formája
 
-11. § (1) Az állam a jogi segítségnyújtás keretében a törvényben meghatározott polgári peres és – a végrehajtási eljárás kivételével – nemperes eljárásokban (a továbbiakban együtt: per) a felperes, az alperes, a beavatkozó (perbehívott), a kérelmező és a kérelmezett fél részére a pártfogó ügyvédi képviseletet biztosítja és annak költségét a fél helyett megelőlegezi vagy viseli.
+11. § (1) Az állam a jogi segítségnyújtás keretében a törvényben meghatározott polgári peres és – a végrehajtási eljárás kivételével – nemperes eljárásokban, valamint a közigazgatási perekben, egyéb közigazgatási bírósági eljárásokban és közigazgatási nemperes eljárásokban (a továbbiakban együtt: per) a felperes, az alperes, a beavatkozó (perbehívott), az érdekelt, a kérelmező és a kérelmezett fél részére a pártfogó ügyvédi képviseletet biztosítja és annak költségét a fél helyett megelőlegezi vagy viseli.
 
 (2) Az (1) bekezdéstől eltérően az állam a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló 2008. december 18-i 4/2009/EK tanácsi rendelet 46. cikk (1) bekezdése alapján a szülő-gyermek kapcsolatból eredő tartási kötelezettségek végrehajtása iránti eljárásban is biztosítja a fél számára a pártfogó ügyvédi képviseletet és viseli a fél helyett annak költségét.
 
-11/A. § (1) A polgári perrendtartásról szóló törvény szerint költségmentességben (a továbbiakban e fejezetben: költségmentesség) részesülő fél pártfogó ügyvédjének államot terhelő díja – részleges költségmentesség esetén az engedélyezett mértéknek megfelelően – e törvény szerint kerül megfizetésre, és a pártfogó ügyvéd díját, részleges költségmentesség esetén a felet terhelő részre is kiterjedően, az állam – külön jogszabályban meghatározottak szerint – megelőlegezi.
+11/A. § (1) A polgári perrendtartásról szóló törvény szerint költségmentességben vagy munkavállalói költségkedvezményben (a továbbiakban együtt e fejezetben: költségmentesség) részesülő fél pártfogó ügyvédjének államot terhelő díja e törvény szerint kerül megfizetésre, és a pártfogó ügyvéd díját az állam – külön jogszabályban meghatározottak szerint – megelőlegezi.
 
 (2) Ha az állam a pártfogó ügyvédi képviseletet a 14. § a) pontja alapján biztosítja a fél számára, és a pártfogó ügyvéd díjának viselésére a bíróság nem kötelezi a perben az ellenérdekű felet, a pártfogó ügyvéd díját az állam viseli. Egyebekben a pártfogó ügyvéd díjazására az (1) bekezdésben foglaltak az irányadóak.
 
@@ -149,20 +151,20 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 13. § A támogatásban részesíthető
 
 - a) a 4. § (1) bekezdése szerinti feltételeknek megfelelő fél;
-- b) a menekültügyi eljárásban hozott határozat bírósági felülvizsgálata iránt kérelmet benyújtó személy;
+- b) a menekültügyi eljárásban hozott határozatot bíróság előtt megtámadó személy;
 - c) külföldi fél olyan perben, amelyben tárgyi költségfeljegyzési jog áll fenn;
 - d) a 15. § alapján nyújtott támogatás esetében a közhasznú szervezet és a munkavállalói érdek-képviseleti szervezet az általa közérdekből, külön jogszabály felhatalmazása alapján indított perben.
 
 14. § A támogatásra rászorultnak tekintendő
 
 - a) az 5. §-ban és a 7–9. §-ban meghatározott feltételeknek megfelelő fél,
-- b) a személyes költségmentességben részesült fél, ha a költségmentesség kiterjed a pártfogó ügyvédi képviselet költségeire is, valamint a tárgyi költségmentes ügyben fellépő fél.
+- b) a fél, ha költségmentesség illeti meg.
 
 15. § A támogatásra – a 14. §-ban foglaltakon túlmenően – rászorultnak tekintendő
 
 - a) a 6. §-ban és a 7–9. §-ban foglalt feltételeknek megfelelő fél;
 - b) a 9/A. §-ban foglalt feltételeknek megfelelő fél, ha a külön törvény szerinti eljárásban megállapították azt, hogy bűncselekmény áldozata, jogosult az áldozatsegítési szolgáltatások igénybevételére és bűncselekménnyel okozott kár megtérítése, illetve a bűncselekménnyel összefüggésben keletkezett jog- vagy érdeksérelem elhárítása érdekében indít pert, kivéve ha a 14. § szerint minősül rászorultnak;
-- c) a fél, ha tárgyi költségfeljegyzési jog illeti meg;
+- c) a fél, ha költségfeljegyzési jog illeti meg;
 - d) vagyoni helyzetétől függetlenül a 13. § d) pontjában megjelölt szervezet.
 
 ### A támogatás kizártsága
@@ -243,7 +245,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - d) a támogatás visszatérítésére kötelezés,
 - e)
 
-(3) A jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy jogerős kiutasító határozat elleni bírósági felülvizsgálati kérelem előterjesztéséhez szükséges jogi segítségnyújtás iránti kérelméről lehetőség szerint azonnal, de legkésőbb a kérelem beérkezését követő munkanapon dönt.
+(3) A jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelméről lehetőség szerint azonnal, de legkésőbb a kérelem beérkezését követő munkanapon dönt.
 
 ### Adatváltozás bejelentése
 
@@ -271,17 +273,13 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 28. § (1) A támogatásról, a támogatás engedélyezésének, felülvizsgálatának, megvonásának és visszatérítésének a feltételeiről, a jogi segítők személyéről és elérhetőségükről a jogi segítségnyújtó szolgálat a hozzá forduló ügyfelet illeték- és díjmentesen tájékoztatja, részére a támogatás engedélyezése iránti kérelemhez szükséges nyomtatványokat rendelkezésre bocsátja és kitöltésükben segítséget nyújt.
 
-(2) A jogi segítségnyújtó szolgálat a hozzá forduló ügyfelet a jövedelmi és vagyoni helyzetének vizsgálata nélkül, illeték- és díjmentesen tájékoztatja arról, hogy a kérelmének elbírálása melyik bíróság vagy hatóság feladatkörébe tartozik, az eljárás megindítása és lefolytatása milyen költségekkel jár számára, továbbá rövid tájékoztatást ad az egyszerű megítélésű ügyekben felmerült jogi kérdésekben. A tájékoztatás megadása a jogi segítségnyújtó szolgálathoz személyesen forduló fél esetében – jegyzőkönyv és hivatalos feljegyzés készítése nélkül – szóban vagy távbeszélőn, a kérdését írásban feltevő ügyfél esetében írásban történik. A bűncselekmény sértettje és áldozata részére a bűncselekmény elkövetése miatt indítandó vagy folyamatban lévő büntetőeljárással kapcsolatos tájékoztatást külön törvény szerint az áldozatsegítő szolgálat adja meg.
+(2) A jogi segítségnyújtó szolgálat a hozzá forduló ügyfelet a jövedelmi és vagyoni helyzetének vizsgálata nélkül, illeték- és díjmentesen tájékoztatja arról, hogy a kérelmének elbírálása melyik bíróság vagy hatóság feladatkörébe tartozik, az eljárás megindítása és lefolytatása milyen költségekkel jár számára, továbbá rövid tájékoztatást ad az egyszerű megítélésű ügyekben felmerült jogi kérdésekben. A tájékoztatás megadása a jogi segítségnyújtó szolgálathoz személyesen forduló fél esetében – jegyzőkönyv és hivatalos feljegyzés készítése nélkül – szóban vagy távbeszélőn, a kérdését írásban feltevő fél esetében írásban történik. A bűncselekmény sértettje és áldozata részére a bűncselekmény elkövetése miatt indítandó vagy folyamatban lévő büntetőeljárással kapcsolatos tájékoztatást külön törvény szerint az áldozatsegítő szolgálat adja meg.
 
 29. §
 
 30–31. §
 
-### Bírósági felülvizsgálat
-
-32. § (1) A határozat bírósági felülvizsgálata iránti kérelemről a bíróság 30 napon belül, a közigazgatási nemperes eljárás szabályai szerint határoz; eljárása során az okirati bizonyításon kívül más bizonyítást is lefolytathat. A bíróság a jogszabálysértő határozatot megváltoztathatja.
-
-(2)
+32. §
 
 ### A támogatás nyilvántartása
 
@@ -292,15 +290,15 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 34. § A nyilvántartás a következő adatokat tartalmazza:
 
 - a) a fél nevét, születési időpontját, anyja nevét és lakóhelyét,
-- b) a kérelem elbírálására vonatkozó következő adatokat: 1. a határozat tartalma (engedélyezés, elutasítás), 2. a határozathozatal időpontja, 3. a jogorvoslati kérelem elbírálása, jogerőre emelkedés időpontja, 4. a megismételt eljárás adatai (1–6. pontok szerint), 5. a támogatás formája, 6. a támogatás felülvizsgálatára vonatkozó adatok.
+- b) a kérelem elbírálására vonatkozó következő adatokat: 1. a határozat tartalma (engedélyezés, elutasítás), 2. a határozathozatal időpontja, 3. a jogorvoslati kérelem elbírálása, véglegessé válás vagy jogerőre emelkedés időpontja, 4. a megismételt eljárás adatai (1–6. pontok szerint), 5. a támogatás formája, 6. a támogatás felülvizsgálatára vonatkozó adatok.
 
 35. § (1) A jogi segítségnyújtó szolgálat a nyilvántartásban rögzített adatokat a támogatás iránti kérelem előterjesztéstől számított 10 évig tartja nyilván és kezeli, továbbá köteles azokat megvédeni a jogosultatlan hozzáférés, nyilvánosságra hozás vagy jogszabályellenes felhasználás ellen.
 
-(2) A jogi segítségnyújtó szolgálat a nyilvántartás adataiból megkeresésre tájékoztatást ad a büntető- vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a bírósági és közigazgatási végrehajtást foganatosító hatóság részére, valamint a 43. § (3) bekezdésében foglalt esetben a jogi segítő számára.
+(2) A jogi segítségnyújtó szolgálat a nyilvántartás adataiból megkeresésre tájékoztatást ad a büntető-, közigazgatási vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyész vagy nyomozó hatóság, a bírósági és közigazgatási végrehajtást foganatosító hatóság részére, valamint a 43. § (3) bekezdésében foglalt esetben a jogi segítő számára.
 
 ### A támogatás visszatérítése
 
-36. § Ha a félnek a támogatást vissza kell térítenie, erre az a jogi segítségnyújtó szolgálat kötelezi határozattal, amelyik a támogatást engedélyezte, és a tartozását a jogerős határozat alapján nyilvántartja.
+36. § Ha a félnek a támogatást vissza kell térítenie, erre az a jogi segítségnyújtó szolgálat kötelezi határozattal, amelyik a támogatást engedélyezte, és a tartozását a véglegessé vált határozat alapján nyilvántartja.
 
 37. § A visszatérítési kötelezettség elmulasztása esetén a jogi segítségnyújtó szolgálat – a fél kérelmére, indokolt esetben – egy alkalommal legfeljebb hat hónapra terjedő halasztást vagy részletfizetést adhat a teljesítésre, kivéve, ha a visszatérítésre a 27. § (2) bekezdésében foglaltak alapján kerül sor.
 
@@ -308,19 +306,19 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (2) A támogatást a jogi segítségnyújtó szolgálat által kezelt, „Jogi segítségnyújtás” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára kell megfizetni: a jogi segítségnyújtó szolgálat a célelőirányzat felhasználásáról negyedévente tájékoztatja a minisztert.
 
-(3) A vissza nem térített támogatás adók módjára behajtandó köztartozásnak minősül, a teljesítés elmulasztása esetén a jogi segítségnyújtó szolgálat megkeresi a tartozás összegének behajtására hatáskörrel rendelkező szervet.
+(3)
 
 ### Méltányosság gyakorlása a támogatás visszatérítésével kapcsolatos eljárásban
 
-38/A. § A jogi segítségnyújtó szolgálat a félnek a visszatérítési kötelezettséget előíró határozat jogerőre emelkedésétől a visszafizetési határidő lejártáig előterjesztett kérelmére a fél tartozását – a támogatás megvonása alapján keletkezett visszafizetési kötelezettséget kivéve – mérsékelheti vagy elengedheti, ha a fél rászorultsága az 5. §-ban és a 7–9. §-ban foglalt feltételeknek megfelelő mértékben változott meg és a körülményeiben bekövetkezett változást a 22. §-ban foglaltaknak megfelelően igazolja. A visszafizetendő összeg mérséklése vagy elengedése iránti kérelem tárgyában hozott döntés ellen fellebbezésnek helye nincs.
+38/A. § A jogi segítségnyújtó szolgálat a félnek a visszatérítési kötelezettséget előíró határozat véglegessé válásától vagy jogerőre emelkedésétől a visszafizetési határidő lejártáig előterjesztett kérelmére a fél tartozását – a támogatás megvonása alapján keletkezett visszafizetési kötelezettséget kivéve – mérsékelheti vagy elengedheti, ha a fél rászorultsága az 5. §-ban és a 7–9. §-ban foglalt feltételeknek megfelelő mértékben változott meg és a körülményeiben bekövetkezett változást a 22. §-ban foglaltaknak megfelelően igazolja.
 
 ### Egyéb eljárási szabályok
 
-39. § (1)
+39. § (1) Az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
 
-(2) Azonnali jogvédelem iránti eljárás kezdeményezésének kell tekinteni a fél kérelmét, ha abból az állapítható meg, hogy a támogatásnak a kérelem előterjesztését követő haladéktalan, de legfeljebb 8 napon belül történő igénybevétele nélkül a fél valamely jognyilatkozat megtételére előírt határidőt elmulasztaná, vagy a támogatás haladéktalan igénybevételét az ügy természete indokolja.
+(2) Azonnali jogvédelem iránti eljárás kezdeményezésének kell tekinteni a fél kérelmét, ha abból az állapítható meg, hogy a támogatásnak a kérelem előterjesztését követő haladéktalan, de legfeljebb nyolc napon belül történő igénybevétele nélkül a fél valamely jognyilatkozat megtételére előírt határidőt elmulasztaná, vagy a támogatás haladéktalan igénybevételét az ügy természete indokolja.
 
-(3) Az e törvény szerinti eljárásban nem illeti meg az ügyfél joga azt a bíróságot és hatóságot, amelynek eljárásában vagy azzal kapcsolatban a támogatást nyújtják.
+(3)
 
 (4) A támogatással kapcsolatos eljárásban – a támogatás visszatérítését kivéve – jogutódlásnak nincs helye.
 
@@ -342,7 +340,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (10) A tolmácsolási és fordítási díj megfizetésére a támogatás visszatérítésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(11)
+(11) Az e törvény hatálya alá tartozó közigazgatási hatósági ügyekben nincs helye fellebbezésnek.
 
 ### V. Fejezet — A PEREN KÍVÜLI TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -364,7 +362,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - d) a jogi szolgáltatás igénybevételének határidejét,
 - e) a támogatás összegének állam részére történő visszatérítésére való kötelezést, ha a fél helyett az állam a jogi szolgáltatás díját csak előlegezi.
 
-(2) Ha a jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy jogerős kiutasító határozat elleni bírósági felülvizsgálati kérelem előterjesztéséhez szükséges jogi segítségnyújtás iránti kérelmének helyt ad, a peren kívüli támogatásról hozott határozattal egyidejűleg végzésben jogi segítőt és szükség szerint tolmácsot rendel ki, aki a kirendelés alapján a jogi szolgáltatás nyújtása során a jogi segítő és a fél között tolmácsol. A kérelemnek helyt adó határozattal szemben fellebbezésnek helye nincs.
+(2) Ha a jogi segítségnyújtó szolgálat a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelmének helyt ad, a peren kívüli támogatásról hozott határozattal egyidejűleg végzésben jogi segítőt és szükség szerint tolmácsot rendel ki, aki a kirendelés alapján a jogi szolgáltatás nyújtása során a jogi segítő és a fél között tolmácsol. A kérelemnek helyt adó határozattal szemben fellebbezésnek helye nincs.
 
 (3) A (2) bekezdés alapján kirendelt tolmács díjazására a közigazgatási hatósági eljárásban közreműködő tolmácsok díjazásáról szóló jogszabályban foglaltakat kell alkalmazni.
 
@@ -384,7 +382,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (2) A támogatás iránti kérelem elutasítása esetén is részesül a jogi segítő díjazásban – a határozatban foglalt összegben –, ha a beadvány készítésének elmaradása azzal a következménnyel járt volna, hogy a fél valamely jognyilatkozat megtételére előírt határidőt elmulasztja. Ilyen esetben a felet a jogi segítségnyújtó szolgálat határozattal kötelezi a jogi segítő részére megfizetett díj megtérítésére.
 
-45. § A jogi segítő a jogi szolgáltatás nyújtását követően a támogatás igénybevétele feltételeinek utólagos vizsgálata érdekében megküldi a jogi segítségnyújtó szolgálatnak a fél által részére átadott okiratokat, amelyeket a jogi segítségnyújtó szolgálat a támogatás engedélyezése iránti kérelemként kezel. A jogi segítségnyújtó szolgálat a támogatás engedélyezéséről szóló határozatát a jogi segítőnek is megküldi, aki a kérelem elutasításáról szóló határozat ellen jogorvoslattal élhet (29–32. §).
+45. § A jogi segítő a jogi szolgáltatás nyújtását követően a támogatás igénybevétele feltételeinek utólagos vizsgálata érdekében megküldi a jogi segítségnyújtó szolgálatnak a fél által részére átadott okiratokat, amelyeket a jogi segítségnyújtó szolgálat a támogatás engedélyezése iránti kérelemként kezel. A jogi segítségnyújtó szolgálat a támogatás engedélyezéséről szóló határozatát a jogi segítőnek is megküldi, aki a kérelem elutasításáról szóló határozat ellen jogorvoslattal élhet.
 
 46. § Ha a támogatást engedélyező határozatban foglalt időtartam lejárt, a jogi segítő tájékoztatja a felet, hogy ezt követően csak a jogi segítségnyújtó szolgálat további időtartamot engedélyező határozata alapján járhat el a fél ügyében, vagy ha ennek feltételei fennállnak, a támogatás utólagos engedélyezésére vonatkozó szabályok szerint nyújt jogi szolgáltatást (43–45. §). További óraszámemelést a jogi segítségnyújtó szolgálat legfeljebb egy esetben, különösen a fél hiánypótlásra vagy más irat benyújtására történt felhívása esetén engedélyezhet.
 
@@ -398,19 +396,19 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (4) A (2) és (3) bekezdésben foglalt esetben – szükség esetén – a jogi segítségnyújtó szolgálat haladéktalanul új jogi segítőt vagy tolmácsot rendel ki, egyúttal a korábbi kirendelő végzést visszavonja.
 
-47/B. § (1) A jogerős kiutasító határozat elleni bírósági felülvizsgálati kérelem elkészítése érdekében a jogi segítő, illetve a tolmács a kirendelés kézhezvételét követően haladéktalanul, de legkésőbb 5 napon belül személyesen köteles felvenni a kapcsolatot a harmadik országbeli állampolgárral.
+47/B. § (1) A véglegessé vált kiutasító határozat elleni keresetlevél elkészítése érdekében a jogi segítő, illetve a tolmács a kirendelés kézhezvételét követően haladéktalanul, de legkésőbb 5 napon belül személyesen köteles felvenni a kapcsolatot a harmadik országbeli állampolgárral.
 
-(2) A tolmács és a jogi segítő a kirendelő végzés kézhezvételét követően haladéktalanul kötelesek egyeztetni a bírósági felülvizsgálati kérelem elkészítése érdekében szükséges intézkedéseket.
+(2) A tolmács és a jogi segítő a kirendelő végzés kézhezvételét követően haladéktalanul kötelesek egyeztetni a keresetlevél elkészítése érdekében szükséges intézkedéseket.
 
 (3) A tolmács távtolmácsolás útján is közreműködhet. Ha a tolmács közreműködésére az idegenrendészeti hatóság telephelyén (igazgatóság, őrzött szállás) kerül sor, a távtolmácsolás technikai feltételeit az idegenrendészeti hatóság biztosítja.
 
-47/C. § (1) A jogi segítő a bírósági felülvizsgálati kérelmet a harmadik országbeli állampolgárral való személyes kapcsolatfelvételt követően köteles haladéktalanul vagy legkésőbb a következő munkanapon benyújtani a hatáskörrel rendelkező illetékes bírósághoz.
+47/C. § (1) A jogi segítő a keresetlevelet a harmadik országbeli állampolgárral való személyes kapcsolatfelvételt követően köteles haladéktalanul vagy legkésőbb a következő munkanapon benyújtani a hatáskörrel rendelkező illetékes bírósághoz.
 
-(2) A jogi segítő a bírósági felülvizsgálati kérelem benyújtásának megtörténtét a jogi segítségnyújtó szolgálat felé a bírósági felülvizsgálati kérelem egy érkeztetett példányának bemutatásával igazolja.
+(2) A jogi segítő a keresetlevél benyújtásának megtörténtét a jogi segítségnyújtó szolgálat felé a keresetlevél egy érkeztetett példányának bemutatásával igazolja.
 
 ### A támogatás felülvizsgálata
 
-48. § A jogi segítségnyújtó szolgálat a támogatás igénybevétele feltételeinek fennállását annak jogerős engedélyezésétől számított 1 éven belül bármikor felülvizsgálhatja.
+48. § A jogi segítségnyújtó szolgálat a támogatás igénybevétele feltételeinek fennállását annak végleges vagy jogerős engedélyezésétől számított 1 éven belül bármikor felülvizsgálhatja.
 
 ### Egyes szolgáltatások díjának fedezete
 
@@ -424,19 +422,19 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 50. § (1) Ha a jogi szolgáltatás igénybevétele a támogatást engedélyező határozat alapján, annak meghozatalát követően történik, a jogi szolgáltatás nyújtásáról a jogi segítő a külön jogszabályban foglalt módon értesíti a jogi segítségnyújtó szolgálatot, amely intézkedik a díj megfizetése iránt.
 
-(2) Ha a jogi szolgáltatás igénybevétele a támogatás feltételeinek utólagos vizsgálata mellett történik, a jogi segítő a támogatás feltételeit igazoló okiratok megküldésével együtt a jogi szolgáltatás nyújtásáról szóló, és a kifizetéshez szükséges dokumentumokat is megküldi a jogi segítségnyújtó szolgálat részére. A jogi segítségnyújtó szolgálat a támogatás engedélyezésével együtt, a jogerős határozatban foglaltak alapján intézkedik a díj megfizetése iránt.
+(2) Ha a jogi szolgáltatás igénybevétele a támogatás feltételeinek utólagos vizsgálata mellett történik, a jogi segítő a támogatás feltételeit igazoló okiratok megküldésével együtt a jogi szolgáltatás nyújtásáról szóló, és a kifizetéshez szükséges dokumentumokat is megküldi a jogi segítségnyújtó szolgálat részére. A jogi segítségnyújtó szolgálat a támogatás engedélyezésével együtt, a véglegessé vált határozatban foglaltak alapján intézkedik a díj megfizetése iránt.
 
 (3) A jogi segítő a jogi szolgáltatás nyújtásának befejezésétől számított 6 hónapon belül terjesztheti elő díjigényét a jogi segítségnyújtó szolgálathoz; e határidő elmulasztása miatt igazolásnak nincs helye.
 
 51. § A jogi segítői díjak és e törvényben meghatározott egyéb költségek kifizetésére szolgáló célelőirányzatot a jogi segítségnyújtó szolgálat kezeli és gondoskodik a díjak kifizetéséről.
 
-### VI. Fejezet — A POLGÁRI ELJÁRÁSOKBAN NYÚJTOTT TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+### VI. Fejezet — A POLGÁRI ÉS KÖZIGAZGATÁSI ELJÁRÁSOKBAN NYÚJTOTT TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
 ### A támogatás engedélyezése iránti kérelem
 
 52. § (1) Támogatásként a pártfogó ügyvédi képviselet engedélyezését a fél a pert befejező határozatot megelőző tárgyalás berekesztéséig (nemperes eljárás befejezéséig) kérheti.
 
-(2) A támogatás hatálya a támogatás engedélyezéséről szóló határozat jogerőre emelkedésétől kezdve a per jogerős befejezéséig tart.
+(2) A támogatás hatálya a támogatás engedélyezéséről szóló határozat véglegessé válásától vagy jogerőre emelkedésétől kezdve a per jogerős befejezéséig tart.
 
 53. § A kérelemben a félnek – a határon átnyúló tartási ügyben a központi hatóságnak a támogatás biztosítása iránti megkeresésben – meg kell jelölnie
 
@@ -461,18 +459,18 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 - a) a per jogerős befejezéséig – az engedélyezés időpontjához képest – kétévente,
 - b) a támogatás hatályának fennállása alatt bármikor, ha adat merül fel arra nézve, hogy a feltételek már az engedélyezéskor sem álltak fenn, vagy utóbb megszűntek,
-- c) a 11/B. §-ban foglaltak szerinti támogatásban részesülő fél kérelmére, ha számára a bíróság az ügyben a pártfogó ügyvédi képviselet költségeinek viselésére is kiterjedő személyes költségmentességet engedélyezett,
-- d) a bíróság részleges költségmentességet engedélyező határozata alapján a 11/A. §-ban foglaltak szerinti támogatásban részesülő fél kérelmére, ha számára a bíróság utóbb teljes költségmentességet vagy magasabb hányad szerinti részleges költségmentességet engedélyezett.
+- c) a 11/B. §-ban foglaltak szerinti támogatásban részesülő fél kérelmére, ha számára a bíróság az ügyben a 11/A. § (1) bekezdés szerinti költségmentességet engedélyezett,
+- d)
 
-(2) Az (1) bekezdés c) és d) pontjában foglaltak esetén a jogi segítségnyújtó szolgálat a költségmentesség hatályával egyező időponttól biztosítja a fél számára a 11/A. § szerinti támogatást és a támogatás módosításáról értesíti a bíróságot, valamint a pártfogó ügyvédet.
+(2) Az (1) bekezdés c) pontjában foglaltak esetén a jogi segítségnyújtó szolgálat a költségmentesség hatályával egyező időponttól biztosítja a fél számára a 11/A. § szerinti támogatást és a támogatás módosításáról értesíti a bíróságot, valamint a pártfogó ügyvédet.
 
-57. § (1) Ha a támogatás megvonására azért került sor, mert az igénybevételének a feltételei a támogatás iránti kérelem előterjesztésekor sem álltak fenn és a fél a kérelmében valótlan adatot szolgáltatott, a fél a részére nyújtott támogatást köteles visszatéríteni. A jogi segítségnyújtó szolgálat kötelezi a felet, hogy a határozat jogerőre emelkedését követő 8 napon belül végrehajtás terhe mellett térítse vissza az állam által megelőlegezett pártfogó ügyvédi díjat.
+57. § (1) Ha a támogatás megvonására azért került sor, mert az igénybevételének a feltételei a támogatás iránti kérelem előterjesztésekor sem álltak fenn és a fél a kérelmében valótlan adatot szolgáltatott, a fél a részére nyújtott támogatást köteles visszatéríteni. A jogi segítségnyújtó szolgálat kötelezi a felet, hogy a határozat véglegessé válását követő 8 napon belül végrehajtás terhe mellett térítse vissza az állam által megelőlegezett pártfogó ügyvédi díjat.
 
 (2) Ha a jogi segítségnyújtó szolgálat a támogatást azért vonja meg, mert az engedélyezés feltételei utóbb szűntek meg, vagy eredetileg sem álltak fenn, de a támogatás engedélyezése során a fél nem szolgáltatott ezzel összefüggésben valótlan adatot, a fél a megvonás időpontjától kezdve köteles az előlegezett pártfogó ügyvédi díjat megfizetni.
 
-58. § A jogi segítségnyújtó szolgálat a támogatás jogerős megvonásáról értesíti a bíróságot és a pártfogó ügyvédet.
+58. § A jogi segítségnyújtó szolgálat a támogatás végleges vagy jogerős megvonásáról értesíti a bíróságot és a pártfogó ügyvédet.
 
-58/A. § (1) Ha a rendkívüli perorvoslat eredményeként a bíróság a jogerős határozatot a költségek viselésére is kihatóan megváltoztatja, vagy a jogerős határozat hatályon kívül helyezését követően hozott jogerős határozatban a bíróság a költség viseléséről a hatályon kívül helyezett határozatban foglaltaktól eltérően rendelkezik, a jogi segítségnyújtó szolgálat a korábban hozott jogerős díj megállapító határozatát módosítja, a visszatérítésre kötelező határozatát visszavonja és új visszatérítésre kötelező határozatot hoz.
+58/A. § (1) Ha a rendkívüli perorvoslat eredményeként a bíróság a jogerős határozatot a költségek viselésére is kihatóan megváltoztatja, vagy a jogerős határozat hatályon kívül helyezését követően hozott jogerős határozatban a bíróság a költség viseléséről a hatályon kívül helyezett határozatban foglaltaktól eltérően rendelkezik, a jogi segítségnyújtó szolgálat a korábban hozott végleges díj megállapító határozatát módosítja, a visszatérítésre kötelező határozatát visszavonja és új visszatérítésre kötelező határozatot hoz.
 
 (2) Az (1) bekezdésben foglaltak szerint jár el a jogi segítségnyújtó szolgálat akkor is, ha az eljáró bíróság a jogerős határozatot a költségek viselésére is kihatóan kijavítja vagy kiegészíti.
 
@@ -498,20 +496,22 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (6) Az e § szerinti eljárás illeték- és díjfizetési kötelezettséggel nem jár, de a fordítási költségeket a fél köteles visszatéríteni, ha a jogi segítségnyújtás iránti kérelmét a másik tagállam hatósága elutasította.
 
-(7) A fél köteles a másik tagállam hatóságának a jogi segítségnyújtás engedélyezése tárgyában hozott jogerős határozatát a kézhezvételt követő 30 napon belül benyújtani a jogi segítségnyújtó szolgálatnak. E határidő elmulasztása esetén a fél a fordítási költségek után a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 132. §-a szerinti késedelmi pótlékot köteles fizetni.
+(7) A fél köteles a másik tagállam hatóságának a jogi segítségnyújtás engedélyezése tárgyában hozott jogerős határozatát a kézhezvételt követő 30 napon belül benyújtani a jogi segítségnyújtó szolgálatnak. E határidő elmulasztása esetén a fél a fordítási költségek után az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 135. §-a szerinti késedelmi pótlékot köteles fizetni.
 
 (8) A fordítási költséget a jogi segítségnyújtó szolgálat a célelőirányzat terhére előlegezi meg; annak visszatérítése és a késedelmi pótlék megfizetése pedig a célelőirányzat javára történik.
 
 ### A pártfogó ügyvédi képviselet igénybevétele
 
-61. § (1) A fél – a támogatást engedélyező jogerős határozat jogi segítőnek történő átadása mellett – a határozatban megjelölt perben a képviseletére a határozat kézhezvételétől számított 30 napon belül meghatalmazást adhat a jogi segítőnek.
+61. § (1) A fél – a támogatást engedélyező végleges vagy jogerős határozat jogi segítőnek történő átadása mellett – a határozatban megjelölt perben a képviseletére a határozat kézhezvételétől számított 30 napon belül meghatalmazást adhat a jogi segítőnek.
 
 (2) Ha a fél képviseletét pártfogó ügyvédként jogi segítő nem vállalja, és ez – a határidőkre tekintettel – a jogainak sérelmével járhat, a fél az eljárási határidő elmulasztása esetén erre hivatkozással a perben igazolási kérelmet terjeszthet elő, a jogi segítségnyújtó szolgálat pedig részére – kérelmére – pártfogó ügyvédként jogi segítőt, ügyvédet vagy ügyvédi irodát rendelhet ki. A jogi segítségnyújtó szolgálat a kirendelésről a végzés egy kiadmányának egyidejű megküldésével, illetve amennyiben az eljáró bíróságról és a per ügyszámáról csak később szerez tudomást, a tudomásszerzést követően haladéktalanul megküldött végzéssel értesíti az eljáró bíróságot.
 
-(3) A jogi segítségnyújtó szolgálat a határozat jogerőre emelkedését követően pártfogó ügyvédként jogi segítőt, kivételesen ügyvédet vagy ügyvédi irodát rendel ki
+(3) A jogi segítségnyújtó szolgálat a határozat véglegessé válását vagy jogerőre emelkedését követően pártfogó ügyvédként jogi segítőt, kivételesen ügyvédet vagy ügyvédi irodát rendel ki
 
 - a) a fél kérelmére vagy hozzájárulásával, ha az ügy jellegére vagy a fél körülményeire tekintettel már a támogatás engedélyezésekor valószínűsíthető, hogy a fél képviselete meghatalmazás útján nem biztosítható, vagy
 - b) ha a támogatás nyújtására a külföldi fél határon átnyúló tartási ügyben történő jogi képviseletének biztosítása iránti központi hatósági megkeresés alapján kerül sor.
+
+(3a) A jogi segítségnyújtó szolgálat által pártfogó ügyvédként kirendelt jogi segítő, ügyvéd vagy ügyvédi iroda esetében a meghatalmazást a kirendelő végzés pótolja.
 
 (4) A jogi segítő
 
@@ -520,9 +520,13 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (5) A jogi segítő a (4) bekezdés szerinti tevékenységéért díjat nem számíthat fel.
 
+(5a) A fél képviseletére pártfogó ügyvédként kirendelt jogi segítő, ügyvéd vagy ügyvédi iroda köteles a bíróság idézésének eleget tenni, valamint a képviselt személlyel a kapcsolatot késlekedés nélkül felvenni.
+
 (6) A fél képviseletét pártfogó ügyvédként elvállaló jogi segítő a meghatalmazás elfogadásától számított 8 napon belül köteles értesíteni a bíróságot a meghatalmazásáról, nevéről és irodájának címéről; a jogi segítségnyújtó szolgálatot pedig az ügy elvállalásáról, a per ügyszámáról (ha azt a támogatást engedélyező határozat még nem tartalmazta), és a per tárgyában, a peres felek személyében bekövetkezett változásról.
 
-(7) A fél képviseletére pártfogó ügyvédként kirendelt ügyvéd, ügyvédi iroda a kirendelést tartalmazó végzés kézhezvételétől számított 8 napon belül köteles értesíteni bankszámlaszámáról, a per ügyszámáról (ha azt a kirendelő végzés még nem tartalmazta) és a per tárgyában, peres felek személyében bekövetkezett változásról a jogi segítségnyújtó szolgálatot.
+(7) A fél képviseletére pártfogó ügyvédként kirendelt ügyvéd vagy ügyvédi iroda a kirendelést tartalmazó végzés kézhezvételétől számított nyolc napon belül köteles a jogi segítségnyújtó szolgálatot értesíteni az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 36. § (6) bekezdésében foglaltakról, ezek hiányában a bankszámlaszámáról, a per ügyszámáról (ha azt a kirendelő végzés még nem tartalmazza) és a per tárgyában, peres felek személyében bekövetkezett változásról.
+
+(7a) A jogi segítségnyújtó szolgálat a fél képviseletére pártfogó ügyvédként kirendelt ügyvéd vagy ügyvédi iroda (7) bekezdés szerinti jelzése alapján, indokolt esetben felmentheti a pártfogó ügyvédként kirendelt ügyvédet vagy ügyvédi irodát és gondoskodik másik pártfogó ügyvéd kirendeléséről.
 
 (8) Az (1) és (2) bekezdésben foglaltak megfelelő alkalmazásával kell eljárni akkor is, ha a pártfogó ügyvédi képviselet a támogatás hatályának fennállása alatt, de a támogatás megvonása nélkül szűnik meg.
 
@@ -536,15 +540,15 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (2) Ha a fél a pártfogó ügyvédi díj visszatérítésére köteles, a jogi segítségnyújtó szolgálat kötelezi az előlegezett pártfogó ügyvédi díj visszatérítésére. A visszatérítésre legfeljebb egyéves határidő biztosítható, e határidőn belül pedig a részletekben történő teljesítés is engedélyezhető.
 
-(3) A 11/B. §-ban foglaltak szerinti támogatásban részesülő felet, valamint a bíróság részleges költségmentességet engedélyező határozata alapján a 11/A. §-ban foglaltak szerinti támogatásban részesülő felet, kérelmére a jogi segítségnyújtó szolgálat méltányosságból mentesítheti a pártfogó ügyvédi díj vagy egy részének visszatérítésére vonatkozó kötelezettsége alól, ha igazolja, hogy a támogatást engedélyező határozat jogerőre emelkedését követően rászorultsága az 5. §-ban és a 7–9. §-ban foglalt feltételeknek megfelelő mértékben változott meg.
+(3) A 11/B. §-ban foglaltak szerinti támogatásban részesülő felet kérelmére a jogi segítségnyújtó szolgálat méltányosságból mentesítheti a pártfogó ügyvédi díj vagy egy részének visszatérítésére vonatkozó kötelezettsége alól, ha igazolja, hogy a támogatást engedélyező határozat véglegessé válását vagy jogerőre emelkedését követően rászorultsága az 5. §-ban és a 7–9. §-ban foglalt feltételeknek megfelelő mértékben változott meg.
 
 (4) Ha a pártfogó ügyvédi díjelőleg visszatérítésére a fél perbeli ellenfele köteles, a visszatérítési kötelezettség teljesítésének határideje 30 nap. Kérelemre, indokolt esetben a visszatérítésre legfeljebb hat hónapos határidő biztosítható, e határidőn belül pedig a részletekben történő teljesítés is engedélyezhető.
 
-(5) A pártfogó ügyvéd a díjának megállapítása iránti kérelmét a per jogerős befejezését követő 6 hónapon belül terjesztheti elő; ezt követően pedig akkor, ha igazolja, hogy a perköltség viseléséről szóló jogerős határozatot 6 hónapon belül vette kézhez. Ha a perben a fél képviseletét több pártfogó ügyvéd látta el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására díjának megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel köteles előterjeszteni.
+(5) A pártfogó ügyvéd a díjának megállapítása iránti kérelmét a per jogerős befejezését követő 6 hónapon belül terjesztheti elő; ezt követően pedig akkor, ha igazolja, hogy a pártfogó ügyvédi díj viselését megállapító jogerős bírósági határozatot 6 hónapon belül vette kézhez. Ha a perben a fél képviseletét több pártfogó ügyvéd látta el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására díjának megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel köteles előterjeszteni.
 
 (6) A díj megállapítására irányuló eljárásról a felet és perbeli ellenfelét értesíteni nem kell.
 
-(7) A határozat jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a fél helyett az állam által kifizetendő (előlegezendő) pártfogó ügyvédi díj kifizetése iránt; a díj kifizetése a célelőirányzat terhére történik.
+(7) A határozat véglegessé válását vagy jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a fél helyett az állam által kifizetendő (előlegezendő) pártfogó ügyvédi díj kifizetése iránt; a díj kifizetése a célelőirányzat terhére történik.
 
 ### VII. Fejezet — A BÜNTETŐELJÁRÁSOKBAN NYÚJTOTT TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -574,7 +578,7 @@ tart.
 
 (6) A fél adatváltozás-bejelentési kötelezettsége a büntetőeljárás megszüntetéséig, a vádemelés részbeni mellőzéséig vagy az eljárás jogerős befejezéséig áll fenn, ezt követően a támogatás visszatérítésére köteles fél a lakóhelyében, tartózkodási helyében, szálláshelyében és munkavégzésének helyében bekövetkezett változást köteles öt napon belül bejelenteni a visszatérítési kötelezettségének fennállásáig.
 
-(7) A jogi segítségnyújtó szolgálat a támogatás jogerős megvonásáról értesíti a büntetőeljárást lefolytató hatóságot és a pártfogó ügyvédet.
+(7) A jogi segítségnyújtó szolgálat a támogatás végleges vagy jogerős megvonásáról értesíti a büntetőeljárást lefolytató hatóságot és a pártfogó ügyvédet.
 
 (8) A támogatás nyilvántartása a következő adatokat is tartalmazza:
 
@@ -588,7 +592,7 @@ tart.
 
 (3) A pártfogó ügyvédi díj eljárási előlegének megállapítására irányuló eljárásról a támogatott felet és a terheltet értesíteni nem kell.
 
-(4) A pártfogó ügyvédi díj eljárási előlegéről rendelkező határozat jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a pártfogó ügyvédi díj eljárási előlegének kifizetése iránt; az eljárási előleg kifizetése a célelőirányzat terhére történik.
+(4) A pártfogó ügyvédi díj eljárási előlegéről rendelkező határozat véglegessé válását vagy jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a pártfogó ügyvédi díj eljárási előlegének kifizetése iránt; az eljárási előleg kifizetése a célelőirányzat terhére történik.
 
 (5) A pártfogó ügyvéd a díjának megállapítása iránti kérelmét a büntetőeljárás megszüntetését, a nyomozás részbeni mellőzését, a vádemelés részbeni mellőzését, a vádemelés elhalasztását vagy az eljárás jogerős befejezését követő 6 hónapon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a pártfogó ügyvédi díj viseléséről szóló határozatot 6 hónapon belül vette kézhez. Ha a perben a fél képviseletét több pártfogó ügyvéd látta el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására díjának megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.
 
@@ -605,7 +609,7 @@ tart.
 65. § (1) A névjegyzék tartalmazza a jogi segítő
 
 - a) nevét (szervezet esetében képviselőjének nevét is),
-- b) irodájának, alirodájának címét, telefonszámát,
+- b) irodájának, alirodájának, fiókirodájának címét, telefonszámát,
 - c) ügyvédi kamarai tagságát,
 - d) közreműködési kötelezettségének terjedelmét 1. szakterületét vagy szakterületeit, 2. az általa havonta ellátni vállalt ügyek számát,
 - e) által megjelölt azt a nyelvet, amelyen a jogi szolgáltatás nyújtását vállalja,
@@ -617,15 +621,15 @@ tart.
 
 (3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jogi segítő kéri – a (2) bekezdés szerinti határidőben értesíti a jogi segítségnyújtó szolgálatot.
 
-66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kötő
+66. § (1) A névjegyzékbe felvételre kerül a jogi segítségnyújtó szolgálattal jogi segítői feladatok ellátására szolgáltatási szerződést kezdeményező adatlapot visszaküldő
 
 - a) jogvédelemmel foglalkozó egyesület, alapítvány, nemzetiségi önkormányzat, jogi oktatást végző egyetem (a továbbiakban e Fejezetben együtt: jogi segítő szervezet),
 - b) ügyvéd, ügyvédi iroda és a tevékenységét Magyarországon állandó jelleggel végző európai közösségi jogász (a továbbiakban együtt: ügyvéd).
 - c)
 
-(2) Jogi segítő szervezet – a (3) bekezdésben foglalt kivétellel – akkor kérheti a felvételét a névjegyzékbe, ha rendelkezik az ügyfelek fogadására alkalmas helyiséggel, és ügyvéddel olyan határozott idejű megbízási szerződést kötött, vagy jogtanácsossal olyan, a jogtanácsosi tevékenységről szóló törvényerejű rendeletben meghatározott jogviszonyt létesített, amely alapján az ügyvéd vagy a jogtanácsos – legalább a szolgáltatási szerződés időtartama alatt – a nevében és megbízásából a jogi szolgáltatást nyújtja. Ha a jogi segítségnyújtó szolgálat a jogi segítő szervezetet abból az okból törli a névjegyzékből, hogy a jogi szolgáltatást nem a vele szerződött ügyvéd vagy jogtanácsos útján nyújtotta, a névjegyzékből való törlést követően a jogi segítő szervezetet, annak jogutódját, illetve a törölt szervezetnek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott vezető tisztségviselőjének a közreműködésével létrejött más szervezetet további három évig nem lehet ismételten felvenni a névjegyzékbe.
+(2) Jogi segítő szervezet – a (3) bekezdésben foglalt kivétellel – akkor kérheti a felvételét a névjegyzékbe, ha rendelkezik az ügyfelek fogadására alkalmas helyiséggel, és ügyvéddel olyan határozott idejű megbízási szerződést kötött, amely alapján az ügyvéd – legalább a szolgáltatási szerződés időtartama alatt – a nevében és megbízásából a jogi szolgáltatást nyújtja. Ha a jogi segítségnyújtó szolgálat a jogi segítő szervezetet abból az okból törli a névjegyzékből, hogy a jogi szolgáltatást nem a vele szerződött ügyvéd útján nyújtotta, a névjegyzékből való törlést követően a jogi segítő szervezetet, annak jogutódját, illetve a törölt szervezetnek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott vezető tisztségviselőjének a közreműködésével létrejött más szervezetet további három évig nem lehet ismételten felvenni a névjegyzékbe.
 
-(3) Jogi oktatást végző egyetem (egyetem) akkor is kérheti felvételét a névjegyzékbe, ha nincs ügyvéd vagy jogtanácsos megbízottja, de jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója által vezetett, ügyfelek fogadására alkalmas helyiséggel rendelkező szervezeti egysége folytat jogvédő tevékenységet.
+(3) Jogi oktatást végző egyetem (a továbbiakban: egyetem) akkor is kérheti felvételét a névjegyzékbe, ha nincs ügyvéd megbízottja, de jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója által vezetett, ügyfelek fogadására alkalmas helyiséggel rendelkező szervezeti egysége folytat jogvédő tevékenységet.
 
 (4) Az ügyvéd akkor kérheti a felvételét a névjegyzékbe, ha
 
@@ -639,19 +643,19 @@ tart.
 
 67. § (1) A szolgáltatási szerződésben a jogi segítő kötelezettséget vállal arra, hogy – a közreműködési kötelezettségének terjedelmén belül – a hozzá e törvény alapján forduló felek részére ingyenesen jogi szolgáltatást nyújt, amelyet csak e törvényben foglalt okból jogosult megtagadni.
 
-(2) A szolgáltatási szerződésben a jogi segítségnyújtó szolgálat – a miniszter – kötelezettséget vállal arra, hogy a jogi segítő által nyújtott jogi szolgáltatások díját a jogi segítő részére a jogszabályban foglalt módon megfizeti. Szolgáltatási szerződés csak a 66. §-ban foglalt feltételeknek megfelelő személyekkel és szervezetekkel köthető; velük – erre irányuló kérelmükre – a jogi segítségnyújtó szolgálat szolgáltatási szerződést köt.
+(2) A szolgáltatási szerződésben a jogi segítségnyújtó szolgálat – a miniszter – kötelezettséget vállal arra, hogy a jogi segítő által nyújtott jogi szolgáltatások díját a jogi segítő részére a jogszabályban foglalt módon megfizeti. Szolgáltatási szerződés csak a 66. §-ban foglalt feltételeknek megfelelő személyekkel és szervezetekkel köthető.
 
 (3) A szolgáltatási szerződés hároméves időtartamra köthető; módosítására akkor van lehetőség, ha a jogi segítő névjegyzékben szerepelő adataiban változás következett be, vagy ha szakterületét kívánja módosítani, illetve a havonta ellátni vállalt ügyek számát emelni.
 
-(4) A hároméves időtartam lejártával a szolgáltatási szerződést a jogi segítő kérelmére meg kell hosszabbítani, ha a jogi segítőnek a névjegyzékbe való felvételét kizáró ok továbbra sem áll fenn.
+(4)
 
 (5) A szolgáltatási szerződés tartama alatt elvállalt ügyekben a szerződés megszűnését követően is köteles a jogi segítő – a támogatás hatályának fennálltáig – a szolgáltatási szerződésben foglaltak szerinti jogi szolgáltatást teljesíteni, a jogi segítségnyújtó szolgálat pedig a jogi szolgáltatásért járó díjazást a szerződés szerint megfizetni.
 
 ### A jogi segítő közreműködési kötelezettsége
 
-68. § (1) Jogi segítőként a névjegyzékben szereplő ügyvéd és a jogi segítő szervezet megbízásából vagy alkalmazásában tevékenykedő ügyvéd vagy jogtanácsos olyan jogi szolgáltatások nyújtását végezheti, amely a tevékenységére vonatkozó jogszabályok alapján hatáskörébe tartozik, és e jogszabályok irányadóak a jogi szolgáltatás nyújtásáért fennálló szakmai, etikai, fegyelmi és anyagi felelősségére is.
+68. § (1) Jogi segítőként a névjegyzékben szereplő ügyvéd és a jogi segítő szervezet megbízásából tevékenykedő ügyvéd olyan jogi szolgáltatások nyújtását végezheti, amely a tevékenységére vonatkozó jogszabályok alapján hatáskörébe tartozik, és e jogszabályok irányadóak a jogi szolgáltatás nyújtásáért fennálló szakmai, etikai, fegyelmi és anyagi felelősségére is.
 
-(2) Pártfogó ügyvédi képviseletet polgári eljárásban a névjegyzékben szereplő ügyvéd és – a (3) bekezdésben foglalt kivétellel – jogi segítő szervezet láthat el, amennyiben rendelkezik a bíróságokkal való elektronikus kapcsolattartáshoz szükséges technikai feltételekkel. A névjegyzékben szereplő jogi segítő szervezet büntetőeljárásban akkor láthatja el a sértett pártfogó ügyvédi képviseletét, ha megfelel a Be. 58. § (3) bekezdésében meghatározott feltételeknek, egyéb személyek pártfogó ügyvédjeként büntetőeljárásban nem járhat el.
+(2) Pártfogó ügyvédi képviseletet polgári és közigazgatási eljárásban a névjegyzékben szereplő ügyvéd és – a (3) bekezdésben foglalt kivétellel – jogi segítő szervezet láthat el, amennyiben rendelkezik a bíróságokkal való elektronikus kapcsolattartáshoz szükséges technikai feltételekkel. A névjegyzékben szereplő jogi segítő szervezet büntetőeljárásban akkor láthatja el a sértett pártfogó ügyvédi képviseletét, ha megfelel a Be. 58. § (3) bekezdésében meghatározott feltételeknek, egyéb személyek pártfogó ügyvédjeként büntetőeljárásban nem járhat el.
 
 (3) Ha az egyetem a jogi segítői tevékenységének folytatására nem rendelkezik ügyvéd megbízottal, jogi segítői tevékenységére e törvény rendelkezései a következő eltérésekkel alkalmazandók:
 
@@ -661,9 +665,7 @@ tart.
   - bb) a személyiségi jogi jogsértés miatt járó sérelemdíj megfizetésére az egyetem köteles a Polgári Törvénykönyv szabályai szerint,
 - c) a jogi szolgáltatás nyújtását a szervezeti egységet vezető oktató felügyelete mellett jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktató végezheti.
 
-(4) A jogi segítségnyújtást jogtanácsos útján végző jogi segítő szervezet esetében megfelelően alkalmazni kell a (3) bekezdés b) pontjában foglaltakat.
-
-(5) A jogi segítségnyújtást jogtanácsos útján végző jogi segítő szervezet polgári, közigazgatási, munkaügyi perekben és nemperes eljárásokban is elláthatja a fél jogi képviseletét.
+(4)–(5)
 
 69. § (1) A jogi segítő szolgáltatási szerződésben megjelölt időtartamra vonatkozó közreműködési kötelezettsége vagy általános jellegű, vagy az általa megjelölt szakterületre, illetve az általa egy hónapra megjelölt számú ügyben történő jogi szolgáltatásra terjed ki.
 
@@ -675,7 +677,7 @@ tart.
 
 (3) A büntetőügyekben történő jogi segítségnyújtásra kötelezettséget vállaló jogi segítő büntetőügyben lát el pártfogó ügyvédi képviseletet, a 3. § (1) bekezdésének g) pontjában meghatározott szolgáltatást nyújtja, továbbá büntetőügyben rendkívüli jogorvoslati kérelmet készít.
 
-(4) A polgári és közigazgatási ügyekben történő jogi segítségnyújtásra kötelezettséget vállaló jogi segítő polgári eljárásban lát el pártfogó ügyvédi képviselet és – a sértettek jogvédelme [3. § (1) bek. g) pontja], valamint büntetőügyekben rendkívüli jogorvoslati kérelmek készítése kivételével – peren kívüli szolgáltatásokat nyújt.
+(4) A polgári és közigazgatási ügyekben történő jogi segítségnyújtásra kötelezettséget vállaló jogi segítő polgári és közigazgatási lát el pártfogó ügyvédi képviselet és – a sértettek jogvédelme [3. § (1) bek. g) pontja], valamint büntetőügyekben rendkívüli jogorvoslati kérelmek készítése kivételével – peren kívüli szolgáltatásokat nyújt.
 
 (5) A jogi segítő szervezet a (2) bekezdés a) vagy b) pontjában foglalt szakterületen belül megjelölheti, hogy milyen típusú ügyekben, illetve milyen ügyfélkör számára nyújt jogi szolgáltatásokat.
 
@@ -683,7 +685,7 @@ tart.
 
 70. § (1) A jogi segítő – ha annak e törvényben foglalt feltételei fennállnak – a szolgáltatási szerződésben megjelölt időszakban és szakterületen köteles a fél számára jogi szolgáltatást nyújtani, kivéve, ha
 
-- a) a közreműködést mint ügyvéd is köteles lenne megtagadni az ügyvédekről szóló törvény alapján, vagy a reá vonatkozó etikai szabályzat értelmében,
+- a) a közreműködést mint ügyvéd is köteles lenne megtagadni az ügyvédi tevékenységről szóló törvény alapján, vagy a reá vonatkozó etikai szabályzat értelmében,
 - b) már teljesítette a közreműködési kötelezettségét a szolgáltatási szerződésben meghatározott számú ügyben, illetve a jogi szolgáltatás nyújtása nem tartozik a szolgáltatási szerződésben meghatározott szakterületébe, vagy
 - c) a fél által kért vagy a jogi segítségnyújtó szolgálat által engedélyezett okirat vagy beadvány készítése, nyilatkozat megtétele csak a szakmai szabályok megsértésével lehetséges,
 - d) a szolgáltatás nyújtását lehetetlenné teszi az, hogy – a jogi segítőn kívül álló okból – a féllel nem tud együttműködni, és a közreműködés ezen okból történő megtagadásához a jogi segítségnyújtó szolgálat előzetesen hozzájárult.
@@ -694,15 +696,15 @@ tart.
 
 ### Törlés a névjegyzékből
 
-71. § (1) A jogi segítségnyújtó szolgálat a jogi segítőt törli a névjegyzékből, ha a szolgáltatási szerződés megszűnt. A szolgáltatási szerződés megszűnésére a Polgári Törvénykönyv rendelkezései az e törvényben foglalt eltérésekkel megfelelően irányadóak, a (2) és (3) bekezdésben foglaltakon kívül a szerződés megszüntetésének és felbontásának nincs helye.
+71. § (1) A jogi segítségnyújtó szolgálat a jogi segítőt törli a névjegyzékből, ha a névjegyzékbe vételtől számított kilencven napon belül szolgáltatási szerződés megkötésére nem kerül sor vagy a szolgáltatási szerződés megszűnt. A szolgáltatási szerződés megszűnésére a Polgári Törvénykönyv rendelkezései az e törvényben foglalt eltérésekkel megfelelően irányadóak, a (2) és (3) bekezdésben foglaltakon kívül a szerződés megszüntetésének és felbontásának nincs helye.
 
 (2) A szerződést a jogi segítségnyújtó szolgálat felmondja, ha a jogi segítői névjegyzékbe történő bejegyzés feltételei megszűntek vagy megállapítja, hogy azok már a felvételkor sem álltak fenn.
 
 (3) A szerződést a jogi segítségnyújtó szolgálat felmondhatja, ha
 
-- a) a jogi szolgáltatás nyújtásával kapcsolatban a jogi segítő – vagy más ügyvéd megbízottal vagy jogtanácsossal nem rendelkező jogi segítő szervezet esetében a nevében eljáró ügyvéd vagy jogtanácsos – fegyelmi vagy kártérítési kötelezettségét megállapították,
+- a) a jogi szolgáltatás nyújtásával kapcsolatban a jogi segítő – vagy más ügyvéd megbízottal nem rendelkező jogi segítő szervezet esetében a nevében eljáró ügyvéd – fegyelmi vagy kártérítési kötelezettségét megállapították,
 - b) a jogi segítő a jogi szolgáltatást a 70. § (1) bekezdés b) pontja alapján legalább három alkalommal alaptalanul megtagadta, vagy
-- c) a jogi segítségnyújtó szolgálat hivatalos tudomást szerez arról, hogy a jogi segítő szervezet a jogi szolgáltatást nem a 66. § (2) bekezdése szerint vele szerződött ügyvéd vagy jogtanácsos útján nyújtja.
+- c) a jogi segítségnyújtó szolgálat hivatalos tudomást szerez arról, hogy a jogi segítő szervezet a jogi szolgáltatást nem a 66. § (2) bekezdése szerint vele szerződött ügyvéd útján nyújtja.
 
 (4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi.
 
@@ -710,7 +712,7 @@ tart.
 
 71/A. § (1) A névjegyzékbe vétel iránti kérelmet írásban a jogi segítségnyújtó szolgálatnál lehet előterjeszteni.
 
-(2) A 66. §-ban foglalt feltételeknek megfelelő kérelmező részére a jogi segítségnyújtó szolgálat harminc napon belül aláírás céljából megküldi a szolgáltatási szerződés tervezetét. Ha a visszaküldött szerződés valamennyi szükséges adatot tartalmazza, a jogi segítségnyújtó szolgálat annak aláírását követő tizenöt napon belül felveszi a kérelmezőt a névjegyzékbe. A névjegyzékbe vételről az aláírt szerződés egyik példányának visszaküldésével és a névjegyzékbe vétel időpontjának megjelölésével értesíti a jogi segítségnyújtó szolgálat a jogi segítőt.
+(2) A 66. §-ban foglalt feltételeknek megfelelő kérelmező részére a jogi segítségnyújtó szolgálat harminc napon belül aláírás céljából megküldi a szolgáltatási szerződés megkötését kezdeményező adatlapot. Ha a visszaküldött adatlap valamennyi szükséges adatot tartalmazza, a jogi segítségnyújtó szolgálat annak beérkezését követő tizenöt napon belül felveszi a kérelmezőt a névjegyzékbe. A jogi segítségnyújtó szolgálat a névjegyzékbe vételről a jogi segítőt a névjegyzékbe vétel időpontjának megjelölésével értesíti.
 
 ## IV. RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -730,7 +732,7 @@ tart.
 
 ### Átmeneti rendelkezések
 
-73. § (1) Ezt a törvényt a polgári és büntetőeljárásokban akkor kell alkalmazni, ha a támogatás iránti kérelmet e törvény hatálybalépését követően nyújtották be.
+73. § (1) Ezt a törvényt a polgári, közigazgatási és büntetőeljárásokban akkor kell alkalmazni, ha a támogatás iránti kérelmet e törvény hatálybalépését követően nyújtották be.
 
 (2) A 3. § (1) bekezdésének g) pontja szerinti támogatás csak azon bűncselekmények esetén biztosítható, amelyeket e törvény hatálybalépését követően követtek el.
 
@@ -742,16 +744,22 @@ tart.
 
 (6) E törvény 71. § (3) bekezdés c) pontja alapján a jogi segítségnyújtó szolgálat a szerződést akkor mondhatja fel, ha a jogi segítő szervezet a jogi szolgáltatást a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosításáról szóló 2013. évi XV. törvény hatálybalépését követően nem az e törvény 66. § (2) bekezdése szerint vele szerződött ügyvéd útján nyújtja.
 
+(7) E törvénynek a polgári perrendtartásról szóló 2016. évi CXXX. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXXX. törvénnyel megállapított rendelkezéseit a 2018. január 1-jén és az azt követően indult perek alapján indult eljárásokban kell alkalmazni.
+
 ### Felhatalmazás
 
-74. § Felhatalmazást kap a Kormány, hogy a jogi segítségnyújtó szolgálatot vagy szolgálatokat rendeletben jelölje ki.
+74. § Felhatalmazást kap a Kormány, hogy rendeletben
+
+- a) jelölje ki a jogi segítségnyújtó szolgálatot vagy szolgálatokat és
+- b) állapítsa meg az e törvény szerinti támogatások engedélyezése, folyósítása és visszatérítése iránti eljárás részletes szabályait.
 
 75. § Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
-- a) az e törvény szerinti támogatások engedélyezése, folyósítása és visszatérítése iránti eljárás részletes szabályait,
+- a) az e törvény szerinti támogatások iránti kérelem benyújtására rendszeresített nyomtatványra és a támogatások igénybevételére vonatkozó részletes szabályokat,
 - b) az adópolitikáért felelős miniszterrel egyetértésben a jogi segítő peren kívül nyújtott szolgáltatásának díját és a díj megfizetésének módját,
 - c) a jogi segítők adatait tartalmazó névjegyzék vezetésének részletes szabályait,
-- d) a jogi segítségnyújtó szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat.
+- d) a jogi segítségnyújtó szolgálatnál foglalkoztatottak képesítési feltételeire vonatkozó szabályokat,
+- e) a szolgáltatási szerződés megkötését kezdeményező adatlapra vonatkozó részletes szabályokat
 
 ### X. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
 
@@ -791,6 +799,7 @@ tart.
 - b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk;
 - c) a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelv 13. cikk (3) és (4) bekezdése;
 - d) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv;
-- e) a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv.
+- e) a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv;
+- f) a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelv 24. és 26. cikke.
 
 90. § E törvény 5. § (2) bekezdés g) pontja, valamint 11. § (2) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet 46. cikkének végrehajtásához szükséges rendelkezést állapít meg.

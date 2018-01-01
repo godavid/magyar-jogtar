@@ -4,11 +4,15 @@ a hulladékról szóló 2012. évi CLXXXV. törvény módosításáról
 
 1. §
 
-2. §
+2. § A Ht. 12. §-a következő (2b) bekezdéssel egészül ki:
+
+„(2b) A legalább 300 m2 alapterületű üzlettel rendelkező forgalmazó a forgalmazás helyén köteles az általa forgalmazott termékcsoportból származó termékből, és a termék csomagolásából származó szennyeződésmentes, nem veszélyes, elkülönítetten gyűjtött csomagolási üveghulladék hulladékbirtokostól történő átvételére, elkülönített gyűjtésére.”
 
 3–8. §
 
-9. §
+9. § A Ht. a következő 37/C. §-sal egészül ki:
+
+„37/C. § A települési önkormányzat ingyenes közterület-használatot köteles biztosítani, ha a 12. § (2a) és (2b) bekezdései szerinti átvétel saját terület hiányában közterület-használattal valósítható meg. A közterületen történő átvétel szabályait, az átvételi hely kialakításának módját kormányrendelet határozza meg.”
 
 10–11. §
 

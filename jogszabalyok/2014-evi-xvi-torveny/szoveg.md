@@ -262,7 +262,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 #### 2. ÁÉKBV-alapkezelőre vonatkozó engedélyezési feltételek
 
-8. § (1) A kérelmező a 6. § (1) bekezdés a) pontjában foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli
+8. § (1) A kérelmező a 6. § (1) bekezdés a) pontjában foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdés figyelembevételével –
 
 - a) az ÁÉKBV-alapkezelő létesítő okiratát, a végezni kívánt tevékenység megnevezését, működési tervét, amely a szervezeti felépítését, valamint a 2. melléklet szerinti működési szabályzatát tartalmazza;
 - b) az 16. § (1) bekezdésben meghatározott mértékű induló tőke befizetését igazoló dokumentumot, valamint az induló tőke befizetéséhez szükséges összeg törvényes eredetének igazolását;
@@ -273,6 +273,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - g) amennyiben az alapkezelő a Bszt. hatálya alá tartozó tevékenységet is végez, arra vonatkozó belső szabályzatát, amely biztosítja a több megbízó, illetve kollektív befektetési forma részére, különböző befektetési elvek alapján való portfóliókezelés illetve befektetési alapkezelés miatti lehetséges érdekellentétek kiküszöbölését; valamint
 - h) a könyvvizsgáló igazolását arra vonatkozóan, hogy az alapkezelő informatikai rendszere alkalmas a 29. §-ban és a 30. §-ban meghatározott követelmények teljesítésére;
 - i) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását.
+
+(1a) Ha a kérelmező magyarországi székhelyű nem természetes személy, akkor az (1) bekezdés a) és e) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (2) Az ÁÉKBV-alapkezelőnek tevékenysége végzése során folyamatosan meg kell felelnie a jogszabályok előírásainak és a Felügyelet felhívására köteles igazolni, hogy megfelel az e törvény felhatalmazása alapján kiadott egyéb jogszabályokban meghatározott működési feltételnek is.
 
@@ -300,7 +302,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 #### 4. Az ABAK-ra vonatkozó engedélyezési feltételek
 
-11. § (1) A kérelmező a 7. § (1) bekezdésben foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli
+11. § (1) A kérelmező a 7. § (1) bekezdésben foglalt tevékenység végzésére jogosító engedély iránti kérelemhez mellékeli – az (1a) bekezdés figyelembevételével –
 
 - a) az ABAK létesítő okiratát, annak igazolását, hogy főirodája és a létesítő okirat szerinti székhelye egyaránt Magyarországon van, a végezni kívánt tevékenység megnevezését, valamint a 2. melléklet szerinti működési szabályzatát;
 - b) a 16. § (1) bekezdésében meghatározott mértékű induló tőke befizetését igazoló dokumentumot, valamint az induló tőke befizetéséhez szükséges összeg törvényes eredetének igazolását;
@@ -309,6 +311,8 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - e) az ABAK olyan közvetlen vagy közvetett tagi részesedéssel rendelkező személyeinek bemutatását, akik, vagy amelyek minősített befolyással rendelkeznek a befektetési alapkezelőben, bemutatva a minősített befolyás arányát is;
 - f) a tevékenységeknek a 41. § szerinti, kiszervezésre tett intézkedésekkel kapcsolatos tájékoztatást;
 - g) a tevékenységi kör módosítására irányuló eljárás kivételével a tulajdonosi szerkezetének részletes leírását okirati bizonyítékokkal együtt, továbbá – amennyiben ez lehetséges – a tényleges tulajdonosok bemutatását.
+
+(1a) Ha a kérelmező magyarországi székhelyű nem természetes személy, az (1) bekezdés a) és e) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 (2) A kérelmező tájékoztatja a Felügyeletet a kezelni kívánt ABA-k által folytatandó befektetési stratégiáról (az elsődleges eszközkategória típusa szerinti besorolásról).
 
@@ -413,12 +417,12 @@ alá.
 
 (2) Befektetési alapkezelőnél vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
-- a) a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és e tényt a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítvány, vagy a személyes joga szerinti ennek megfelelő okirat útján igazolja;
+- a) a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és e tényt – a (9a) bekezdésben foglaltak figyelembevételével – igazolja;
 - b) felsőfokú végzettséggel rendelkezik;
 - c) legalább hároméves pénzügyi szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik és
 - d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró okok és ÁÉKBV-alapkezelő esetén a 27. §-ban, ABAK esetében a 34. §-ban meghatározott összeférhetetlenségi okok nem állnak fenn.
 
-(3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága tagjának, teljes tevékenységet irányító személyének, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének a (2) bekezdésben meghatározott feltételeken kívül az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját 30 nappal megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
+(3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága tagjának, teljes tevékenységet irányító személyének, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének a (2) bekezdésben meghatározott feltételeken kívül az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
 
 (4) A befektetési alapkezelő ügyvezetője, igazgatósága, valamint felügyelőbizottsága tagja, teljes tevékenységet irányító személye, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személye valamint a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha az engedély megadását követően kizárási ok merül fel. A megválasztáshoz vagy kinevezéshez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
 
@@ -426,14 +430,14 @@ alá.
 
 (5) A befektetési alapkezelő teljes tevékenységét irányító személy az lehet, aki
 
-- a) a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítvány vagy a személyes joga szerinti ennek megfelelő okirat útján igazolja -,
+- a) a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és e tényt – a (9a) bekezdésben foglaltak figyelembevételével – igazolja;
 - b) felsőfokú végzettséggel,
 - c) legalább ötéves szakmai gyakorlattal rendelkezik, amelyből legalább 2 év magyarországi szakmai gyakorlat, és
 - d) nem áll a tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt.
 
-(6) A befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítvány, vagy a személyes joga szerinti ennek megfelelő okirat útján igazolja –, legalább kétéves, befektetési területen szerzett szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
+(6) A befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a (9a) bekezdésben foglaltak figyelembevételével igazolja –, legalább kétéves, befektetési területen szerzett szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
 
-(7) Az adminisztratív tevékenységet irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a bűnügyi nyilvántartó szerv által kiállított – büntetlen előéletet igazoló – hatósági bizonyítvány, vagy a személyes joga szerinti ennek megfelelő okirat útján igazolja –, legalább kétéves portfóliókezelési, befektetési alapkezelési vagy pénzügyi intézményi szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
+(7) Az adminisztratív tevékenységet irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a (9a) bekezdésben foglaltak figyelembevételével igazolja –, legalább kétéves portfóliókezelési, befektetési alapkezelési vagy pénzügyi intézményi szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
 
 (8) A (2) és (5)–(7) bekezdés esetében
 
@@ -446,12 +450,17 @@ alá.
 (9) A (2) és (5)–(7) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni:
 
 - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), a 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), a 1978. évi IV. törvény XVI. fejezet III. címében, továbbá XVII. és XVIII. fejezetében meghatározott bűncselekmények,
-- b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése (Btk. 271. §), a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása (Btk. 281. §), a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
+- b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése (Btk. 271. §), a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása (Btk. 281. §), a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
+
+(9a) Akinek e törvény a büntetlen előéletet előírja, annak az (9) bekezdés szerinti bűncselekmények vonatkozásában kell büntetlen előéletűnek lennie, amely tényt
+
+- a) magyar állampolgár esetén a Felügyelet által beszerzett vagy az ügyfél által szolgáltatott – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (1) bekezdése alapján kibocsátott hatósági bizonyítvány szerinti tartalmú – adatok igazolják,
+- b) nem magyar állampolgár esetén az általa beszerzett, és a Felügyelet számára a kérelemmel együtt megküldött, a nem magyar állampolgár személyes joga szerinti, az a) pontban foglalt hatósági bizonyítványnak megfelelő okirat igazolja.
 
 (10) Az (5)–(7) bekezdés vonatkozásában kizáró ok olyan személlyel szemben áll fenn, aki:
 
-- a) 10%-ot elérő vagy azt meghaladó közvetlen, illetve közvetett tagi részesedéssel rendelkezik, rendelkezett, illetve vezető állású személy volt olyan, a Felügyelet által felügyelt intézményben, amely a befektetési alapkezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtását megelőző 5 éven belül fizetésképtelenné vált, vagy fizetésképtelenségét csak felügyeleti intézkedéssel lehetett elkerülni, illetve amelynek tevékenységi engedélyét a Felügyelet visszavonta, és akinek személyes felelősségét e helyzetek kialakulásáért jogerős határozat megállapította;
-- b) súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait és emiatt vele szemben a Felügyelet, más hatóság vagy bíróság a befektetési alapkezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtását megelőző 5 évnél nem régebben kelt jogerős határozatban legalább három esetben szankciót alkalmazott;
+- a) 10%-ot elérő vagy azt meghaladó közvetlen, illetve közvetett tagi részesedéssel rendelkezik, rendelkezett, illetve vezető állású személy volt olyan, a Felügyelet által felügyelt intézményben, amely a befektetési alapkezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtását megelőző 5 éven belül fizetésképtelenné vált, vagy fizetésképtelenségét csak felügyeleti intézkedéssel lehetett elkerülni, illetve amelynek tevékenységi engedélyét a Felügyelet visszavonta, és akinek személyes felelősségét e helyzetek kialakulásáért jogerős vagy végleges határozat megállapította;
+- b) súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait és emiatt vele szemben a Felügyelet, más hatóság vagy bíróság a befektetési alapkezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtását megelőző 5 évnél nem régebben kelt jogerős vagy végleges határozatban legalább három esetben szankciót alkalmazott;
 - c) lakóhelye (tartózkodási helye) vagy székhelye szerinti ország hatóságaitól információ nem szerezhető meg, és a tulajdonszerzési engedélyezés elbírálásához szükséges információ megadását önként nem vállalja.
 
 (11) A (10) bekezdés szerinti kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
@@ -836,7 +845,7 @@ között létrejött érdekellentét nyomán az ABAK által kezelt kollektív be
 
 (2) A befektetési alapkezelő felszámolásával kapcsolatos eljárás lefolytatására a Fővárosi Törvényszék (a továbbiakban ezen fejezet tekintetében: törvényszék) kizárólagos illetékességgel rendelkezik.
 
-(3) Ha nem a Felügyelet kezdeményezi a befektetési alapkezelő felszámolását, a törvényszék a kérelem érdemi vizsgálat nélküli elutasításáról szóló végzését megküldi a Felügyelet részére.
+(3) Ha nem a Felügyelet kezdeményezi a befektetési alapkezelő felszámolását, a törvényszék a kérelem visszautasításáról szóló végzését megküldi a Felügyelet részére.
 
 (4) Befektetési alapkezelő felszámolójának a törvényszék kizárólag az MNBtv.-ben meghatározott szervezetek felszámolását végző nonprofit gazdasági társaságot rendelheti ki.
 
@@ -2000,7 +2009,7 @@ formájában teljesíti.
 - d) a kezelési szabályzat olyan tartalmú módosítását, ami a befektetési jegyek visszaváltásával kapcsolatos költségek befektetőkre nézve hátrányos változását, valamint a befektetési jegyek visszaváltását érintő forgalmazási szabályoknak az elszámolási vagy a teljesítési időtartam növekedésével járó változásait jelenti, a változás hatálybalépését megelőzően legalább 30 nappal;
 - e) a kezelési szabályzat olyan tartalmú módosítását, ami a befektetési jegyek visszaváltási lehetőségének korlátozását jelenti – ide nem értve a forgalmazás szünetelésének vagy felfüggesztésének eseteit –, a változás hatálybalépését megelőzően olyan, legalább 30 napos határidővel, amely lehetőséget ad a befektetőknek arra, hogy a módosítás hatálybalépését megelőzően lehetőségük legyen a befektetési jegyeik visszaváltására;
 - f) a kezelési szabályzat egyéb módosítását, legkésőbb a hatálybalépés napján;
-- g) a befektetési alapkezelő engedélyének visszavonását, az engedély visszavonására vonatkozó határozat jogerőre emelkedését követő 2 munkanapon belül;
+- g) a befektetési alapkezelő engedélyének visszavonását, az engedély visszavonására vonatkozó határozat véglegessé válását követő 2 munkanapon belül;
 - h) a befektetési alapkezelési tevékenység átadását, legkésőbb 15 nappal a hatálybalépés előtt;
 - i) a tőke és a felosztott hozam (amennyiben a felosztott hozam kifizetése a kezelési szabályzat szerint nem automatikus) kifizetésének idejét, módját, legkésőbb az esedékesség napján;
 - j) a befektetési jegyek forgalmazásának felfüggesztését, szünetelését, illetve újraindítását, a pénzügyi eszközök illikvid részének elkülönítését és annak megszüntetését, haladéktalanul;
@@ -2429,7 +2438,7 @@ kapja meg; valamint
 - q) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja, és határidő kitűzésével kötelezi a befektetési alapkezelőt, illetve az általa igénybe vett forgalmazót a forgalomba hozatali folyamat leállítására;
 - r) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a befektetési alapkezelő költségén nyilvánosságra hozza.
 
-(2) A Felügyelet (1) bekezdés b), d), e), h), m), o), p) és q) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
+(2)
 
 #### 70. A felügyeleti biztos
 
@@ -2450,7 +2459,7 @@ kapja meg; valamint
 
 171. § (1) A felügyeleti biztos kirendeléséről rendelkező határozat kézhezvételétől a kirendelés tartamára a felügyeleti biztos gyakorolja a befektetési alapkezelő igazgatósága tagjainak törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(2) Az igazgatóság, illetve a felügyelőbizottság tagja a felügyeleti biztos kirendelésének tartama alatt is jogosult arra, hogy a befektetési alapkezelő törvényes képviseletében jogorvoslattal éljen a felügyeleti biztost kirendelő felügyeleti határozat és a Felügyelet által a befektetési alapkezelővel szemben hozott határozat ellen.
+(2) Az igazgatóság, illetve a felügyelőbizottság tagja a felügyeleti biztos kirendelésének tartama alatt is jogosult arra, hogy a befektetési alapkezelő törvényes képviseletében a felügyeleti biztost kirendelő felügyeleti határozatot és a Felügyelet által a befektetési alapkezelővel szemben hozott határozatot közigazgatási perben megtámadja.
 
 #### 70/A. A helyszíni vizsgáló
 
@@ -2500,7 +2509,7 @@ kapja meg; valamint
 - a) annak ellenőrzése érdekében, hogy az ÁÉKBV-k vagy ABA-k, vagy az ezek üzleti tevékenységeihez hozzájáruló vállalkozások tevékenységének megkezdését szabályozó feltételek teljesülnek-e, és hogy elősegítse az üzleti tevékenység, igazgatási és számviteli eljárások és belső ellenőrzési mechanizmusok folytatásának figyelemmel kísérését;
 - b) szankciók megállapítása érdekében;
 - c) az illetékes hatóságok határozatai elleni államigazgatási felülvizsgálat lefolytatása során; és
-- d) a hatóság eljárásával szemben indított peres eljárásokban.
+- d) a hatóság eljárásával szemben indított közigazgatási perekben.
 
 ### XXIV/A. Fejezet — AZ ÁÉKBV-ALAPKEZELŐKRE ÉS AZ ÁÉKBV LETÉTKEZELŐIRE VONATKOZÓ SPECIÁLIS SZABÁLYOK
 
@@ -2857,7 +2866,7 @@ szemben, e szerveknek a befektetési alapkezelőhöz intézett írásbeli megker
 - b) a Felügyelet a külföldi felügyeleti hatósággal kötött együttműködési megállapodásban meghatározott módon kér, illetve továbbít adatot, ha az együttműködési megállapodás vagy a külföldi felügyeleti hatóság megkeresése tartalmazza az általa aláírt titoktartási záradékot,
 - c) a magyar bűnüldöző szerv nemzetközi szerződés alapján, külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése érdekében írásban kér adatot a befektetési alapkezelőtől, ha a megkeresés tartalmazza a külföldi bűnüldöző szerv által aláírt titoktartási záradékot,
 - d) a Befektető-védelmi Alap által külföldi befektető-védelmi rendszer, valamint külföldi felügyeleti hatóság részére, együttműködési megállapodásban rögzített módon kerül sor adattovábbításra, ha az adatok kezelésére, illetve felhasználására vonatkozóan a magyar szabályozással legalább egyenrangú védelem biztosított,
-- e) a befektetési alapkezelő az Art. 52. § (8) bekezdése alapján szolgáltat adatot.
+- e)
 
 (3) A (2) bekezdés szerinti írásbeli megkeresésben meg kell jelölni
 
@@ -3223,7 +3232,7 @@ van összefüggésben.
 - 3. Fkt.: a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény,
 - 4. Sztv.: a számvitelről szóló 2000. évi C. törvény,
 - 5. Tpt.: a tőkepiacról szóló 2001. évi CXX. törvény,
-- 6. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
+- 6. Art.: az adózás rendjéről szóló törvény,
 - 7. Ctv.: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény,
 - 8. Fnyt.: a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény,
 - 9. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,

@@ -24,7 +24,9 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 16. §
 
-17. §
+17. § Az Nkt. 90. §-a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a működés helye szerinti állam belső joga vagy nemzetközi szerződés ezt lehetővé teszi, Magyarországon működő magyar szakképző iskola tagintézménye külföldön folytathat nevelési-oktatási, szakképzési tevékenységet és ehhez kapcsolódóan kollégiumi ellátást az oktatásért felelős miniszter engedélyével és a szakképzésért és felnőttképzésért felelős miniszter, valamint az érintett szakképesítésért felelős miniszter egyetértésével. A tagintézmény nyilvántartásba vételére a (4) és (5) bekezdésben foglaltakat kell alkalmazni. A köznevelési intézmény felett a 79. § (2) bekezdése szerinti hatósági ellenőrzési jogkört az érintett szakképesítésért felelős miniszter gyakorolja.”
 
 18. §
 
@@ -63,21 +65,53 @@ szöveg lép.
 
 24–26. §
 
-27–30. §
+27. § Az Nftv. 41/B. §-a helyébe a következő rendelkezés lép:
+
+„41/B. § Az elsőfokú döntés a közléssel véglegessé válik.”
+
+28. § Az Nftv. 41/C. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a címzett tudomást szerez arról, hogy a neki küldött iratot az eljáró szerv kézbesítettnek tekinti, a tudomásszerzéstől számított öt napon belül, de legkésőbb a közléstől számított harmincnapos jogvesztő határidőn belül kifogást terjeszthet elő az eljáró szervnél.”
+
+29. § Az Nftv. 41/F. § (1) bekezdése a következő e) ponttal egészül ki:
+
+(A felsőoktatási felvételi eljárást meg kell szüntetni, ha)
+
+„e) a jelentkező a jelentkezés hitelesítésére vonatkozó hiánypótlási felhívásnak nem tesz eleget.”
+
+30. § Az Nftv. 41/G. §-a és 41/H. §-a helyébe a következő rendelkezések lépnek:
+
+„41/G. § Az elsőfokú eljárásban igazolási kérelem nem terjeszthető elő.
+
+41/H. § (1) A jelentkező – jogszabálysértésre hivatkozással – az elsőfokú döntés ellen közigazgatási pert indíthat.
+
+(2) A keresetlevél alapján a felsőoktatási információs rendszer működéséért felelős szerv az általános közigazgatási rendtartásról szóló törvény 115. § (1) és (2) bekezdésében foglaltak szerint módosíthatja vagy visszavonhatja a döntését.”
 
 31. §
 
-32–33. §
+32. § Az Nftv. 58. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A jogorvoslati eljárás rendjét, különösen a döntés közlését és a jogorvoslati kérelem elbírálására irányadó határidőt a felsőoktatási intézmény – a jelen törvényben meghatározott keretek között – a szervezeti és működési szabályzatában szabályozza, azzal, hogy a határidő legfeljebb harminc nap lehet.”
+
+33. § Az Nftv. 66. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az e §-ban meghatározott eljárásra az általános közigazgatási rendtartásról szóló törvényt kell megfelelően alkalmazni. A miniszteri döntés ellen indított perben a közigazgatási ügyekben eljáró bíróság dönt.”
 
 34–37. §
 
-38. § (1)
+38. § (1) Az Nftv. 110. § (1) bekezdése a következő 1. ponttal egészül ki:
+
+(A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza)
+
+„1. a szakirányú továbbképzés szervezésének általános feltételeit,”
 
 (2)
 
 39. § (1)
 
-(2)
+(2) Az Nftv. 115. §-a következő (9) bekezdéssel egészül ki:
+
+„(9) E törvénynek – az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2017. évi LXX. törvénnyel megállapított – 41/A–41/H. §-át első alkalommal a 2018. évi általános felsőoktatási felvételi eljárás során kell alkalmazni.”
 
 (3)–(4)
 
@@ -86,10 +120,17 @@ szöveg lép.
 41. § Az Nftv.
 
 - 1–2.
-- 3–10.
+- 3. 41/A. § (1) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.)” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: általános közigazgatási rendtartásról szóló törvény)”,
+- 4. 41/A. § (1a) bekezdésében az „a Ket. eljárási alapelveit – a kapcsolattartás formája megválasztása kivételével –” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló törvény alapelveit”,
+- 5. 41/C. § (1) bekezdésében az „a Ket. 79. § (1) és (2) bekezdése” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló törvény 86. § (1), (3) és (6) bekezdése”,
+- 6. 41/C. § (3) bekezdésében a „kérelemben” szövegrész helyébe a „kifogásban” szöveg, a „kérelemnek” szövegrész helyébe a „kifogásnak”,
+- 7. 41/E. § (3) bekezdésében a „jogerőre emelkedésétől” szövegrész helyébe a „véglegessé válásától”,
+- 8. 41/E. § (6) bekezdésében a „jogerős” szövegrész helyébe a „jogerős, illetve végleges”,
+- 9. 41/F. § (1) bekezdés a) pontjában az „érdemi vizsgálat nélküli elutasításának” szövegrész helyébe a „visszautasításának”, az „az elutasítási ok” szövegrész helyébe az „a visszautasítási ok”,
+- 10. 41/F. § (2) bekezdésében az „érdemi vizsgálat nélkül el kell utasítani” szövegrész helyébe a „vissza kell utasítani”,
 - 11.
 - 12.
-- 13.
+- 13. 48/R. § (1) bekezdésében a „jogerősen” szövegrész helyébe a „véglegesen”,
 - 14–16.
 - 17.
 
@@ -98,9 +139,13 @@ szöveg lép.
 42. § Hatályát veszti az Nftv.
 
 - a)
-- b)–f)
+- b) 41/D. § (4) bekezdése,
+- c) 41/E. § (2) bekezdés második mondata,
+- d) 41/E. § (4) bekezdés második mondata,
+- e) 41/E. § (5) bekezdés második mondata,
+- f) 41/F. § (1) bekezdés f) pontja,
 - g)–h)
-- i)
+- i) 110. § (3) bekezdés c) pontja,
 - j)
 
 #### 6. Az egyes szociális, gyermekvédelmi, családtámogatási tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2015. évi CCXXIII. törvény módosítása

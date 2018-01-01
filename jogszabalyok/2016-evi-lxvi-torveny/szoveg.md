@@ -188,14 +188,20 @@ szerint módosul.
 
 70–73. §
 
-74. § (1)
+74. § (1) Az Áfa tv. a következő 308. §-sal egészül ki:
+
+„308. § A 3. számú melléklet II. részének a Mód6 törvénnyel megállapított 3. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2018. január 1-jére vagy azt követő időpontra esik.”
+
+(2) Az Áfa tv. a következő 309. §-sal egészül ki:
+
+„309. § Az Áfa tv. 8/A. számú mellékletének a Mód6 törvénnyel megállapított 3. pontja alapján adó-visszatéríttetési jog azon ügyletek tekintetében gyakorolható utoljára, amelyek teljesítési időpontja nem későbbi, mint a viszonosság megszüntetéséről szóló, az adópolitikáért felelős miniszter által közzétett egyedi határozat kihirdetését követő 30. nap.”
 
 (2)
 
 75. § Az Áfa tv.
 
 - a)
-- b)
+- b) 3. számú melléklet II. része a 7. melléklet szerint,
 - c)–e)
 - f)
 
@@ -208,7 +214,7 @@ módosul.
 
 77. § Hatályát veszti
 
-- a)
+- a) az Áfa tv. 3/A. számú melléklet II. rész 4. pontja;
 - b)
 
 #### 6. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény módosítása
@@ -413,7 +419,7 @@ módosul.
 
 200. § Az Art.
 
-- 1.
+- 1. 6/B. § (4) bekezdésében az „a 37. § (4) bekezdése szerinti esetben 30 napon belül” szövegrész helyébe a „20 napon belül” szöveg,
 - 2–3.
 - 4–14.
 - 15–16.
@@ -484,7 +490,33 @@ lép.
 
 ### X. Fejezet — TURIZMUSFEJLESZTÉSI HOZZÁJÁRULÁS
 
-261. §
+261. § (1) Hozzájárulás-köteles az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) 3. számú melléklet II. részében foglalt táblázat 3. pontja szerinti szolgáltatás (a továbbiakban: hozzájárulás-köteles szolgáltatás) ellenérték fejében történő nyújtása.
+
+(2) A hozzájárulás fizetésére kötelezett a hozzájárulás-köteles szolgáltatást nyújtó személy vagy szervezet.
+
+(3) A hozzájárulás alapja a hozzájárulás-köteles szolgáltatás általános forgalmi adó (a továbbiakban: Áfa) nélküli ellenértéke.
+
+(4) A hozzájárulás mértéke 4%.
+
+(5) A hozzájárulást azon hozzájárulás-köteles szolgáltatásnyújtás után kell az önadózás szabályai szerint megállapítani és a (6) bekezdés szerint bevallani, amelyről kiállított
+
+- a) számlán, számviteli bizonylaton vagy ezek hiányában bármely más, a hozzájárulás-köteles szolgáltatásról kiállított okiraton feltüntetett teljesítési időpont vagy, ha a teljesítési időpontot nem tüntették fel, akkor a
+- b) számla, számviteli bizonylat vagy a hozzájárulás-köteles szolgáltatásról kiállított más okirat kiállításának időpontja
+
+a (6) bekezdés szerinti bevallási időszakra esik.
+
+(6) A hozzájárulás fizetésére kötelezett a bevallási kötelezettségét
+
+- a) a rá irányadó Áfa bevallási időszak szerint, az Áfa bevallás benyújtására előírt határidőig,
+- b) azon időszakról, amelyről Áfa bevallás benyújtására nem köteles, a hozzájárulás-köteles szolgáltatásnyújtás Áfa törvény szerinti teljesítési időpontját követő év február 25. napjáig
+
+az e célra rendszeresített elektronikus nyomtatványon, az állami adó- és vámhatósághoz teljesíti.
+
+(7) A hozzájárulás fizetésére kötelezett a hozzájárulást a bevallás benyújtására előírt határnapig fizeti meg.
+
+(8) A hozzájárulással kapcsolatos hatósági feladatokat az állami adó- és vámhatóság látja el. Az e §-ban nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
+
+(9) A hozzájárulásból származó bevétel a központi költségvetés bevétele, amelynek megfelelő összeget a külön jogszabályban meghatározott turizmus fejlesztési feladatokra kell fordítani a központi költségvetés turisztikai célelőirányzata útján.”
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -547,6 +579,14 @@ lép.
 ### 4–6. melléklet a 2016. évi LXVI. törvényhez
 
 ### 7. melléklet a 2016. évi LXVI. törvényhez
+
+Az Áfa tv. 3. számú melléklet II. részében foglalt táblázat a következő 3. ponttal egészül ki:
+
+| (Sorszám | Megnevezés) |
+| --- | --- |
+
+| „3. | Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom (SZJ 55.30.1-ből)” |
+| --- | --- |
 
 ### 8–10. melléklet a 2016. évi LXVI. törvényhez
 

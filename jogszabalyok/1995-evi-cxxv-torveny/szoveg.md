@@ -48,7 +48,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 - g) végzi a letelepedett jogállást igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami függetlenség és a törvényes rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
 - h) a nyomozás elrendeléséig végzi
   - ha) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), illetve működési területén a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
-  - hb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), illetve működési területén a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
+  - hb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), illetve működési területén a szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
 
 bűncselekmények felderítését;
 
@@ -78,13 +78,13 @@ bűncselekmények felderítését;
 - k) ellátja az illetékességi körébe tartozó, a kormányzati tevékenység szempontjából fontos katonai szervek és létesítmények (intézmények), valamint a kormányzati és katonai vezetési objektumok biztonsági védelmét;
 - l) működési területén a nyomozás elrendeléséig végzi
   - la) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
-  - lb) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
+  - lb) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), a szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §)
 
 bűncselekmények felderítését;
 
 - m) működési területén felderíti
   - ma) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti terrorcselekményt (1978. évi IV. törvény 261. §),
-  - mb) a terrorcselekményt (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztását (Btk. 317. §) és a terrorizmus finanszírozását (Btk. 318. §);
+  - mb) a terrorcselekményt (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztását (Btk. 317. §) és a terrorizmus finanszírozását (Btk. 318–318/A. §) vagy háborús uszítást (Btk. 331. §);
 - n) működési területén információkat szerez
   - na) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti nemzeti, etnikai, faji vagy vallási csoport tagja elleni erőszak (1978. évi IV. törvény 174/B. §), a visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), a közveszélyokozás (1978. évi IV. törvény 259. §), a nemzetközi jogi kötelezettség megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a közösség elleni izgatás (1978. évi IV. törvény 269. §), a rémhírterjesztés (1978. évi IV. törvény 270. §), a közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §), a haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel visszaélés (1978. évi IV. törvény 263/B. §),
   - nb) a közösség tagja elleni erőszak (Btk. 216. §), a minősített adattal visszaélés (Btk. 265. §), a jármű hatalomba kerítése (Btk. 320. §), a közveszély okozása (Btk. 322. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a közösség elleni uszítás (Btk. 332. §), a rémhírterjesztés (Btk. 337. §), a közveszéllyel fenyegetés (Btk. 338. §)
@@ -509,7 +509,7 @@ terheli.
 36. § (1) A nemzetbiztonsági szolgálatok hivatásos állományú tagja – a jogos védelem és a végszükség esetein kívül – lőfegyvert használhat
 
 - a) az élet elleni vagy a testi épséget súlyosan veszélyeztető támadás, illetve az ezekkel történő közvetlen fenyegetés elhárítására;
-- b) a népirtás (Btk. 142. §), az alkotmányos rend erőszakos megváltoztatása (Btk. 254. §), a rombolás (Btk. 257. §), a kémkedés (Btk. 261. §), a terrorcselekmény (Btk. 314–316. §), a jármű hatalomba kerítése (Btk. 320. §) és a közveszély okozása (Btk. 322. §) bűncselekmények megakadályozására vagy megszakítására;
+- b) a népirtás (Btk. 142. §), az alkotmányos rend erőszakos megváltoztatása (Btk. 254. §), a rombolás (Btk. 257. §), a kémkedés (Btk. 261. §), a terrorcselekmény (Btk. 314–316/A. §), a jármű hatalomba kerítése (Btk. 320. §) és a közveszély okozása (Btk. 322. §) bűncselekmények megakadályozására vagy megszakítására;
 - c) a nemzetbiztonsági szolgálattal összefüggő „Szigorúan titkos!” minősítési szintű minősített adatnak személy elleni erőszakkal történő jogosulatlan megszerzése és az erre irányuló kísérlet esetén;
 - d) a nemzetbiztonsági szolgálat objektumát ért vagy azt közvetlenül fenyegető támadás elhárítására.
 
@@ -1637,9 +1637,9 @@ Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncs
 
 1.1. a terrorizmus elleni küzdelemről szóló, 2002. június 13-i 2002/475/IB tanácsi kerethatározat 1. cikkében meghatározott terrorista bűncselekmény, 2. cikkében meghatározott terrorista csoporthoz kapcsolódó bűncselekmény, 3. cikkében meghatározott terrorista tevékenységgel összefüggő bűncselekmény vagy 4. cikke szerinti, bűncselekményre való felbujtás, bűnsegély vagy kísérlet,
 
-1.2. terrorcselekmény [Btk. 314. § (1)–(2) bekezdés, 315. § (1)–(2) bekezdés, 316. §],
+1.2. terrorcselekmény [Btk. 314. § (1)–(2) bekezdés, 315. § (1)–(2) bekezdés, 316–316/A. §],
 
-1.3. terrorizmus finanszírozása [Btk. 318. § (1)–(2) bekezdés],
+1.3. terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §),
 
 1.4. alkotmányos rend erőszakos megváltoztatása [Btk. 254. § (1)–(2) bekezdés],
 

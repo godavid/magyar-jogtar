@@ -19,7 +19,7 @@ Az öröklési ügyben érintettek igényei határon átnyúló érvényesítés
 
 (2) Nem kell kérelmet előterjeszteni, ha a kérelmező az alapeljárásra irányadó szabályok alapján azt állapítja meg, hogy az alapeljárást a megfeleltetéstől függetlenül meg kell szüntetni.
 
-(3) Az eljárás lefolytatására első fokon a Budai Központi Kerületi Bíróság illetékes.
+(3) Az eljárás lefolytatására első fokon a Budai Központi Kerületi Bíróság rendelkezik hatáskörrel és illetékességgel.
 
 4. § (1) A kérelmet írásban kell előterjeszteni és ahhoz csatolni kell az alapeljárás iratait.
 
@@ -34,13 +34,13 @@ Az öröklési ügyben érintettek igényei határon átnyúló érvényesítés
 
 #### 3. A bíróság eljárása
 
-5. § (1) A bíróság megfeleltetési eljárása polgári nemperes eljárás, amelyre – ha e törvény másként nem rendelkezik – a polgári perrendtartásról szóló törvény szabályait a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel kell megfelelően alkalmazni.
+5. § (1) A bíróság megfeleltetési eljárása polgári nemperes eljárás, amelyre – ha e törvény másként nem rendelkezik – a polgári perrendtartásról szóló törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel –, továbbá a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvény bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezései megfelelően irányadók.
 
 (2) A bíróság a kérelem tárgyában kizárólag okiratok alapján dönt.
 
 6. § (1) Ha a kérelem hiányos vagy más okból kiegészítésre, kijavításra szorul, a bíróság – a (2) bekezdésben foglalt kivétellel – hiánypótlást rendel el.
 
-(2) A bíróság felhívhatja az öröklési ügyben érintettet, hogy a külföldi jog tartalmáról rendelkezésére álló adatokat, okiratokat csatolja be. Ha az öröklési ügyben érintett a felhívásban megjelölt határidőn belül a felhívásban foglaltaknak nem tesz eleget, a kérelem elutasításának ebből az okból nincs helye, a bíróság hivatalból gondoskodik a megfeleltetéshez szükséges külföldi joganyag beszerzéséről.
+(2) A bíróság felhívhatja az öröklési ügyben érintettet, hogy a külföldi jog tartalmáról rendelkezésére álló adatokat, okiratokat csatolja be. Ha az öröklési ügyben érintett a felhívásban megjelölt határidőn belül a felhívásban foglaltaknak nem tesz eleget, a kérelem visszautasításának ebből az okból nincs helye, a bíróság hivatalból gondoskodik a megfeleltetéshez szükséges külföldi joganyag beszerzéséről.
 
 (3) Az eljárásban felfüggesztésnek és szünetelésnek nincs helye.
 

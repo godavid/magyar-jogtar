@@ -8,16 +8,16 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 ### Az egészségügyi államigazgatási szerv feladatai
 
-2. § (1) Az egészségügyi államigazgatási szerv felügyeletet gyakorol az ország közegészségügyi-járványügyi (a továbbiakban együtt: közegészségügyi) viszonyai felett. Ennek keretében
+2. § (1) Az egészségügyi államigazgatási szerv – a (3) bekezdésben meghatározott kivétellel – felügyeletet gyakorol az ország közegészségügyi-járványügyi (a továbbiakban együtt: közegészségügyi) viszonyai felett. Ennek keretében
 
-- a) az ország egész területén – a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit),valamint az Országgyűlési Őrség tevékenységének kivételével – közegészségügyi ellenőrzést végez;
+- a) az ország egész területén – a rendvédelmi szervek (ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit), valamint az Országgyűlési Őrség tevékenységének kivételével – közegészségügyi ellenőrzést végez;
 - b) biztosítja a vasúti, a vízi és a közúti határforgalom, valamint a nemzetközi légiforgalom közegészségügyi ellenőrzését;
 - c) ellenőrzi a közegészségügyi szabályok érvényesülését;
 - d) végrehajtja a külön jogszabályokban hatáskörébe utalt feladatokat.
 
 (2)
 
-(3) A Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, valamint a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a Magyar Honvédség kijelölt szerve végzi.
+(3) A honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter közegészségügyi felügyeletét – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a katonai egészségügyi államigazgatási szerv gyakorolja.
 
 (3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára, valamint az Országgyűlési Őrségre vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.
 
@@ -208,7 +208,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (5) A (4) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
-(6) A (4) bekezdés szerinti nyilvántartásba történő bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+(6)
 
 (7) A (4) bekezdés szerinti nyilvántartás adataiban bekövetkezett változást az egészségügyi szolgáltató a (4) bekezdés e) pontja szerinti adatok tekintetében minden hónap 10. napjáig, kizárólag a változott adatok közlésével köteles bejelenteni az egészségügyi államigazgatási szerv részére.
 
@@ -244,7 +244,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (3) A (2) bekezdésben meghatározott adatok a szolgáltató azonosítójához rendelten szerepelnek a nyilvántartásban.
 
-(4) A (2) bekezdés szerinti nyilvántartásba történő bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+(4)
 
 (5) A nyilvántartásba vett egészségügyi szolgáltató vagy a szabadfoglalkozású jogviszonyban álló személy vagy szervezet a (2) bekezdésben foglaltak változását 8 napon belül bejelenti az egészségügyi államigazgatási szervnek. Az egészségügyi államigazgatási szerv a változást a hatósági nyilvántartáson átvezeti és erről a bejelentő személyt vagy szervezetet értesíti.
 
@@ -277,7 +277,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 ### Az egészségügyi államigazgatási szerv hatósági jogköre
 
-10. § (1) Az egészségügyi államigazgatási szerv — a 2. § (1) bekezdésének a) pontjában foglalt kivétellel — valamennyi természetes és jogi személyre, valamint jogi személyiséggel nem rendelkező társaságra kiterjedő hatósági jogkört gyakorol.
+10. § (1) Az egészségügyi államigazgatási szerv – a 2. § (1) bekezdés a) pontjában és (3) bekezdésében foglalt kivétellel – valamennyi természetes és jogi személyre, valamint jogi személyiséggel nem rendelkező társaságra kiterjedő hatósági jogkört gyakorol.
 
 (2) Az egészségügyi államigazgatási szerv ellenőrzése során az ellenőrzött személy köteles az ellenőrzéshez szükséges munkaerőt ellenszolgáltatás nélkül az ellenőrző rendelkezésére bocsátani. Közegészségügyi vagy járványügyi érdekből a szemle haladéktalanul megtartható.
 
@@ -310,7 +310,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (4) Az egészségügyi államigazgatási szerv a lakosság egészségét közvetlenül fenyegető súlyos veszély elhárításához, illetve rendkívüli körülmények esetén tett intézkedéseinek végrehajtásához a rendőrség, a tűzoltóság és a polgári védelem közreműködését is igénybe veheti.
 
-(5) Az egészségügyi államigazgatási szerv járványveszély esetén közvetlenül megteheti mindazon hatósági intézkedéseket és eljárásokat, amelyek a járványveszély elhárítása érdekében szükségesek. Az ebben a körben hozott határozat – közegészségügyi vagy járványügyi okból – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(5) Az egészségügyi államigazgatási szerv járványveszély esetén közvetlenül megteheti mindazon hatósági intézkedéseket és eljárásokat, amelyek a járványveszély elhárítása érdekében szükségesek. Az ebben a körben hozott határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható.
 
 12. § Az egészségügyi államigazgatási szerv
 
@@ -372,11 +372,11 @@ vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészség
 
 (10) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
-(11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó jogerős határozatot nyilvánosan közzéteszi. A közzétételre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) hirdetményi közlésre vonatkozó szabályait kell alkalmazni, azzal, hogy a határozatot kizárólag a hatóság elektronikus tájékoztatásra szolgáló honlapján kell közzétenni.
+(11) Az egészségügyi államigazgatási szerv az egészségügyi bírságot kiszabó végleges határozatáról készült közleményt az általános közigazgatási rendtartásról szóló törvény szabályai szerint közhírré teszi.
 
 13/B. § (1)
 
-(2) Az egészségügyi bírságot az azt kiszabó jogerős határozat közlésétől számított harmincadik napig meg kell fizetni.
+(2) Az egészségügyi bírságot az azt kiszabó végleges határozat közlésétől számított harmincadik napig meg kell fizetni.
 
 (3)
 
@@ -407,25 +407,19 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 - e) megállapítja az irányítása alá tartozó költségvetési szervek pénzmaradványát, előirányzat-maradványát, egyidejűleg meghatározva a kötelezettségvállalással nem terhelt előirányzat-maradvány felhasználásának célját, rendeltetését;
 - f) megállapítja az irányítása alá tartozó költségvetési szervek létszám-előirányzatát (létszámkeretét).
 
-14/B. § (1) Az egészségügyi államigazgatási szerv jogerős határozata alapján jogosított ügyfél helyébe jogutódja léphet.
+14/B. § (1) Az e törvény alapján lefolytatott eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-(2)
+(2) Az egészségügyi szolgáltatók működésének engedélyezésére, a működési engedély módosítására és visszavonására irányuló eljárásokban a kérelem a kormányablaknál nem terjeszthető elő.
 
-(3) A Ket. 114. § (2) bekezdésében foglaltaktól eltérően, a Ket. 114. § (1) bekezdése szerinti eljárás lefolytatására az egészségügyi államigazgatási szerv a döntés közlésétől számított három éven belül jogosult.
+(3)–(4)
 
-(4) Az egészségügyi államigazgatási szerv döntése a Ket. 139. § (1) bekezdése alapján külföldön is végrehajtható.
-
-(5) A Ket. 33. § (1) bekezdésében foglaltaktól eltérően az ügyintézési határidő harminc nap az alábbi eljárásokban:
-
-- a) gyógyhellyé nyilvánítás engedélyezése,
-- b) természetes ásványvíz elnevezésének engedélyezése,
-- c) gyógyvíz természetes gyógyhatásra utaló elnevezésének engedélyezése.
+(5)
 
 (6)
 
 (6)
 
-(7) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(7)
 
 (7a) A büntetés-végrehajtási szervek tevékenységének közegészségügyi ellenőrzésével összefüggésben az egészségügyi államigazgatási szerv által hozott döntéssel szemben nincs helye fellebbezésnek.
 
@@ -438,7 +432,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 - e) harmadik országból származó természetes ásványvíz elismerése,
 - f) egészségügyi, egészségvédelmi és kémiai terhelési bírság kiszabása.
 
-(8) Az egészségügyi államigazgatási szerv a környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegekre vagy létesítményekre vonatkozó eljárásaira a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak azzal, hogy a Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló rendeletbe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.
+(8)
 
 14/C. § Az egészségügyi szolgáltató által a beteg részére nyújtott egészségügyi ellátással kapcsolatban tett, a panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasszal kapcsolatban az az egészségügyi államigazgatási szerv jár el, amely a panasszal érintett egészségügyi szolgáltató részére működési engedély kiadására jogosult.
 
@@ -448,18 +442,25 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (3) A felügyeleti díj mértéke nyolcvanezer forint.
 
+14/E. § A Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok vonatkozásában a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv, továbbá a rendvédelmi szervek és az Országgyűlési Őrség vonatkozásában a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
+
+- a) a hivatalbóli eljárás megindításáról az ügyfelet nem kell értesíteni,
+- b) nincs helye sommás eljárásnak,
+- c) az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható,
+- d) az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
+
 15. § (1) Ez a törvény a kihirdetése napján lép hatályba.
 
 (2)–(3)
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket,
-- b) jelölje ki a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket.
+- a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket, és a katonai egészségügyi államigazgatási szervet,
+- b) jelölje ki a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket, továbbá szabályozza az ezen szervek által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
 
 (5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, valamint az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
-(6) Felhatalmazást kap honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
+(6) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
 (7) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a menekültügyi hatóság által fenntartott, a menekültügyi őrizet végrehajtására szolgáló intézményre, a befogadó állomásra és a közösségi szállásra, valamint a rendőrség által fenntartott, az idegenrendészeti eljárásban elrendelt őrizet végrehajtására szolgáló őrzött szállásra vonatkozó közegészségügyi követelményeket, a közegészségügyi ellenőrzés, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 
@@ -519,5 +520,7 @@ vonatkozó szabályokat.
 (2) A 7. § (2) bekezdés a) pontja szerinti nyilvántartási számon, illetve a 7. § (3) bekezdés a) pontja szerinti ivóvíz-biztonsági engedély számán az (1) bekezdés alapján az adott, a vízzel közvetlenül érintkező anyag vagy termék bejelentésének nyilvántartásba vételéig, illetve az adott, a víz kezelésére alkalmazni kívánt technológia ivóvíz-biztonsági engedélyezéséig az alkalmazási engedély számát is érteni kell.
 
 15/D. § A 14/D. §-ban megállapított felügyeleti díjat a természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről szóló Korm. rendelet szerint kell megfizetni.
+
+15/E. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 16. § Ez a törvény a HOSPEEM és az EPSU közötti, a kórházakban és az egészségügyi ágazatban előforduló, éles vagy hegyes eszközök által okozott sérülések megelőzéséről szóló keretmegállapodás végrehajtásáról szóló 2010. május 10-i 2010/32/EU tanácsi irányelv melléklete 3. szakasz 4. pontjának való megfelelést szolgálja.

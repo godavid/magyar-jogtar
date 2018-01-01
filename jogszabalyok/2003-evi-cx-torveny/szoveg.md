@@ -15,7 +15,7 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
 - 1. forgalomba helyezés: a gépjármű
   - a) belföldön első ízben történő nyilvántartásba vétele és a forgalmi engedélybe történő bejegyzése,
   - b) átalakítás esetében az átalakítás tényének nyilvántartásba vétele és a forgalmi engedélybe történő bejegyzése,
-  - c) 12. § a) és b) pontjában meghatározott adómentességének megszűnése;
+  - c) 12. § a) pontjában meghatározott adómentességének megszűnése;
   - d) törvényben kihirdetett nemzetközi szerződésben vagy törvényben meghatározott adómentesség megszűnése;
 - 2. átalakítás: a közúti gépjármű olyan műszaki megváltoztatása, amelynek eredményeként az e törvény hatálya alá nem tartozó gépjárműből személygépkocsi vagy motorkerékpár jön létre, illetőleg a személygépkocsi vagy a motorkerékpár más adókategóriába kerül;
 - 3. személygépkocsi: a Kereskedelmi Vámtarifának az adózás rendjéről szóló törvényben (a továbbiakban: Art.) szereplő időpont szerinti állapota alapján a 8703 vámtarifaszám alá tartozó jármű, ide nem értve a mentőautót, a halottszállító kocsit és az e törvény szerinti motorkerékpárt;
@@ -60,7 +60,7 @@ feltéve, hogy annak közvetlen következményeként a gépjárművet forgalomba
 
 (5) Közös tulajdon esetén a tulajdonostársak tulajdoni hányaduk arányában minősülnek adóalanyoknak. Az adó megfizetéséért a tulajdonostársak egyetemlegesen felelnek.
 
-(6) Ha az adóalany székhelye, állandó telephelye vagy lakóhelye, illetve szokásos tartózkodási helye Közösség területén kívül van, az adó alanya köteles az adókötelezettség teljesítése érdekében belföldön lakóhellyel vagy székhellyel rendelkező üzembentartót, vagy az Art.-ban meghatározott pénzügyi képviselőt meghatalmazni (a továbbiakban: képviselő). A képviselő az adókötelezettség teljesítéséért az adóalannyal egyetemlegesen felelős.
+(6) Ha az adóalany székhelye, állandó telephelye vagy lakóhelye, illetve szokásos tartózkodási helye Közösség területén kívül van, az adó alanya köteles az adókötelezettség teljesítése érdekében belföldön lakóhellyel vagy székhellyel rendelkező üzembentartót, vagy az adóigazgatási rendtartásról szóló törvényben (a továbbiakban: Air.) meghatározott pénzügyi képviselőt meghatalmazni (a továbbiakban: képviselő). A képviselő az adókötelezettség teljesítéséért az adóalannyal egyetemlegesen felelős.
 
 ### Adóelőleg fizetésére kötelezett személy
 
@@ -113,7 +113,7 @@ keletkezik.
 - a) a gépjármű rendszáma, alvázszáma, motorszáma;
 - b) a forgalomba helyezés időpontja.
 
-(7) Az e törvényben nem szabályozott, az adózással kapcsolatos egyéb eljárásban az Art. rendelkezéseit kell alkalmazni.
+(7) Az e törvényben nem szabályozott, az adózással kapcsolatos egyéb eljárásban az Air. és az Art. rendelkezéseit kell alkalmazni.
 
 (8) Adóigazgatási eljárásban képviselőként vámjogi képviselőként eljáró személy is jogosult eljárni.
 
@@ -169,12 +169,11 @@ keletkezik.
 
 12. § Az adót nem kell megfizetni
 
-- a) a Magyarországon működő diplomáciai és konzuli képviseletek, valamint nemzetközi szervezetek s ezek nemzetközi szerződés alapján mentességet élvező tagjai és családtagjaik DT betűjelű rendszámmal ellátandó gépjárművének forgalomba helyezése esetén;
-- b) az a) pontban említett képviseletek, szervezetek igazgatási, műszaki és kisegítő személyzetének nem magyar állampolgárságú tagjai és családtagjaik CK betűjelű rendszámmal ellátandó gépjárművének forgalomba helyezése esetén;
-- c) külföldre szállítási céllal belföldön vásárolt gépjármű kivitelére, illetve érvényes forgalmi engedély nélkül Magyarországon tartózkodó gépjármű reexportjára, vagy Magyarországon elvesztett, illetve megrongálódott vagy érvénytelen külföldi rendszámtábla ideiglenes pótlására Z betűjelű rendszámmal ellátandó gépjármű forgalomba helyezése esetén;
-- d) CD betűjelű rendszámmal ellátandó, az a)–b) pontban meghatározott olyan gépjármű forgalomba helyezése esetén, amelynek magyar forgalmi engedélyét és rendszámtábláját az ország területének végleges elhagyása miatt beszolgáltatják, valamint külföldi hatóság által kiadott forgalmi engedélye és rendszámtáblája nincs; valamint
-- e) ha az importáló nem kéri a gépjármű forgalomba helyezését. Amennyiben az adómentesen behozott gépjárművet utóbb mégis forgalomba helyezik, az e törvény szerinti adót meg kell fizetni;
-- f) muzeális jellegű gépjármű forgalomba helyezése esetén.
+- a) a Magyarországon működő diplomáciai és hivatásos konzuli tisztviselő által vezetett konzuli képviseletek, nemzetközi szervezetek, valamint azok magyarországi kirendeltsége, telephelye, irodája, továbbá a nemzetközi szerződésben biztosított kiváltságokkal és mentességekkel törvény alapján rendelkező szervezetek vagy mindezek nemzetközi szerződés alapján mentességet élvező, nem magyar állampolgárságú tagjai és családtagjaik CD betűjelű különleges rendszámmal ellátandó gépjárművének forgalomba helyezése esetén;
+- b) külföldre szállítási céllal belföldön vásárolt gépjármű kivitelére, illetve érvényes forgalmi engedély nélkül Magyarországon tartózkodó gépjármű reexportjára, vagy Magyarországon elvesztett, illetve megrongálódott vagy érvénytelen külföldi rendszámtábla ideiglenes pótlására Z betűjelű ideiglenes rendszámmal ellátandó gépjármű forgalomba helyezése esetén;
+- c) CD betűjelű ideiglenes rendszámmal ellátandó, az a) pontban meghatározott olyan gépjármű forgalomba helyezése esetén, amelynek magyar forgalmi engedélyét és rendszámtábláját az ország területének végleges elhagyása miatt beszolgáltatják, valamint külföldi hatóság által kiadott forgalmi engedélye és rendszámtáblája nincs; valamint
+- d) ha az importáló nem kéri a gépjármű forgalomba helyezését. Amennyiben az adómentesen behozott gépjárművet utóbb mégis forgalomba helyezik, az e törvény szerinti adót meg kell fizetni;
+- e) muzeális jellegű gépjármű forgalomba helyezése esetén.
 
 ### Az adó visszaigénylése
 

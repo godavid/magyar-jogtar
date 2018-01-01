@@ -16,7 +16,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (4) E törvényt kell alkalmazni a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítványok kiállítása során is.
 
-(5) E törvényt akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik. Az elismerési és honosítási eljárás során a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(5) E törvényt akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik. Az elismerési és honosítási eljárás során az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni.
 
 ### Az elismerés és a honosítás alapelvei
 
@@ -91,11 +91,17 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - c) résztanulmányok beszámítását kéri,
 - d) a kérelem a 4. § (4)–(5) bekezdése vagy a III. Fejezet hatálya alá tartozik.
 
-7–8. §
+7. § (1) Ha a kérelmező által benyújtott okiratok valódisága tekintetében kétség merül fel, vagy a kérelmező az oklevél elismeréséhez vagy honosításához szükséges okiratokkal nem rendelkezik, és azok az eljáró hatóság megítélése szerint általa nem, vagy nehezen szerezhetők be, az eljáró hatóság megkeresést intézhet az illetékes külföldi intézményhez, szervezethez vagy hatósághoz. A Harmadik rész hatálya alá tartozó eljárások kivételével, ha olyan külföldi bizonyítvány vagy oklevél jogi hatályát kell megállapítani, amelyet valamely, a 2001. évi XCIX. törvénnyel kihirdetett, a felsőoktatási képesítéseknek az európai régióban történő elismeréséről szóló, 1997. április 11-én, Lisszabonban aláírt Egyezményt (a továbbiakban: Lisszaboni Egyezmény) magára nézve kötelezőnek elismerő államban [13. § (1) bekezdés] állítottak ki, az eljáró hatóság a megkeresést a Lisszaboni Egyezmény IX.2. Cikke szerinti külföldi információs központhoz intézi.
+
+(2) Ha külföldi oktatási intézmény vagy hatóság hazai bizonyítvány vagy oklevél jogi hatályával, különösen annak hitelességével kapcsolatban hazai oktatási intézményt vagy hatóságot keres meg, a hazai oktatási intézmény vagy hatóság a megkeresésnek közvetlenül tesz eleget.
+
+(3) Az e törvény rendelkezései alapján benyújtandó okirat benyújtása helyett az ügyfél az okirat által bizonyítani kívánt tényről kizárólag akkor tehet nyilatkozatot, ha e törvény azt megengedi.
+
+8. § Az e törvény hatálya alá tartozó hatósági eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 9. § (1) Az eljáró hatóság húsz napon belül hiánypótlásra hívja fel a kérelmezőt, ha a kérelmet nem a jogszabályoknak megfelelően nyújtotta be.
 
-(2) Az eljáró hatóság a II. és III. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított negyvenöt napon belül, a IV. és V. Fejezet, valamint a VII–IX/B. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított két hónapon belül dönt. A IX. Fejezet szerinti eljárás határideje nem hosszabbítható meg.
+(2) Az eljáró hatóság a II. és III. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított negyvenöt napon belül, a IV. és V. Fejezet, valamint a VII–IX/B. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított hetvenöt napon belül dönt.
 
 (3) Az eljáró hatóság a XI. és a XI/A. Fejezet szerinti eljárásban egy hónapon belül dönt. Ha a kérelem célja olyan európai szakmai kártya létrehozása, amellyel előzetes ellenőrzés alá nem tartozó határon átnyúló szolgáltatást kíván nyújtani a kérelmező, az eljáró hatóság huszonegy napon belül dönt.
 
@@ -105,9 +111,9 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (6) Ha a kérelmező európai szakmai kártya igénybevételével kéri a képesítése VIII–IX/B. Fejezet szerinti elismerését, az eljáró hatóság a (2) bekezdéstől eltérően a kérelem megérkezését követő naptól számított huszonegy napon belül dönt.
 
-(7) Az eljáró hatóságnak az (5) és a (6) bekezdés szerinti eljárási határidejébe beszámít a nemzetközi jogsegély időtartama, ha az eljáró hatóság a kérelmet megalapozó dokumentum vagy dokumentumok hiteles másolatát kérte a származási tagállam illetékes hatóságától.
+(7)
 
-10. § A kérelmező az elismerési és honosítási eljárás eredményeként meghozott határozat jogerőre emelkedésétől számított három évig jogosult újrafelvételi kérelmet benyújtani.
+10. §
 
 11. § (1) Ha az eljáró hatóság oktatási intézmény, az elsőfokú döntés ellen az oktatásért felelős miniszterhez, más esetben a Kormány rendeletében kijelölt hatósághoz lehet fellebbezni.
 
@@ -116,6 +122,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 (3)
 
 11/A. § Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
+
+11/B. § Az e törvény hatálya alá tartozó hatósági eljárásokban a döntés akkor is módosítható vagy visszavonható, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
 
 ## MÁSODIK RÉSZ — AZ ELISMERÉS ÉS A HONOSÍTÁS KÜLÖNÖS SZABÁLYAI
 
@@ -265,7 +273,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (2) A Második rész rendelkezéseit kell alkalmazni, ha az (1) bekezdésben meghatározott feltételek közül valamelyik nem áll fenn.
 
-(3) Az európai uniós jog hatálya alá tartozó elismerési ügyekben az eljáró hatóságok más EGT-állam hatóságaival a belső piaci információs rendszeren keresztül tartanak kapcsolatot. Az európai uniós jog hatálya alá tartozó elismeréssel összefüggő közigazgatási hatósági ügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény nemzetközi jogsegélyre vonatkozó eljárási rendelkezéseit a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 40–41/A. §-ában foglalt eltérésekkel kell alkalmazni.
+(3) Az európai uniós jog hatálya alá tartozó elismerési ügyekben az eljáró hatóságok más EGT-állam hatóságaival a belső piaci információs rendszeren keresztül tartanak kapcsolatot a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 40–41/A. §-ának megfelelően.
 
 22. § (1) A Harmadik rész rendelkezéseinek alkalmazásával elismert külföldi szakmai képesítéssel rendelkező személy megkezdheti annak a szakmának a magyar állampolgárokkal azonos feltételek mellett történő gyakorlását, amelyre a származási tagállamban felkészült, illetve amelynek gyakorlására a származási tagállamban jogosult. A szakmai képesítés Harmadik rész szerinti elismerése nem jelenti a képzés sikeres elvégzését tanúsító okirat végzettségi szintjének elismerését.
 
@@ -664,9 +672,9 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 ### X/B. Fejezet — KÖZIGAZGATÁSI EGYÜTTMŰKÖDÉS
 
-54. § (1) Az a hazai eljáró hatóság, amelynek a határon átnyúló szolgáltatási tevékenységet a szolgáltatásnyújtónak be kell jelentenie, megalapozott kétség esetén megkeresheti a származási tagállam illetékes hatóságát határon átnyúló szolgáltatásnyújtás esetében, tájékoztatást kérve a szolgáltatásnyújtó letelepedésének jogszerűségére és megfelelő szakmagyakorlására vonatkozóan. A nemzetközi jogsegélykérés azzal a céllal is történhet, hogy az eljáró hatóság információt szerezzen arról, hogy a határon átnyúló szolgáltatást nyújtóval szemben nem szabtak-e ki a szakmagyakorlásával összefüggésben fegyelmi büntetést, vagy nem hoztak-e a büntetőjogi felelősségét megállapító jogerős ítéletet, amennyiben a megkeresett hatóság rendelkezik ezekről információval.
+54. § (1) Az a hazai eljáró hatóság, amelynek a határon átnyúló szolgáltatási tevékenységet a szolgáltatásnyújtónak be kell jelentenie, megalapozott kétség esetén megkeresheti a származási tagállam illetékes hatóságát határon átnyúló szolgáltatásnyújtás esetében, tájékoztatást kérve a szolgáltatásnyújtó letelepedésének jogszerűségére és megfelelő szakmagyakorlására vonatkozóan. A megkeresés azzal a céllal is történhet, hogy az eljáró hatóság információt szerezzen arról, hogy a határon átnyúló szolgáltatást nyújtóval szemben nem szabtak-e ki a szakmagyakorlásával összefüggésben fegyelmi büntetést, vagy nem hoztak-e a büntetőjogi felelősségét megállapító jogerős ítéletet, amennyiben a megkeresett hatóság rendelkezik ezekről információval.
 
-(2) Az (1) bekezdésben foglalt rendelkezések mellett az előzetes ellenőrzést végző hatóság a nemzetközi jogsegélykérés keretében a közegészségre vagy a közbiztonságra nézve veszélyt jelentő lényeges eltérések felmérése céljából tájékoztatást kérhet a szolgáltatásnyújtó által elvégzett képzés tartalmáról.
+(2) Az (1) bekezdésben foglalt rendelkezések mellett az előzetes ellenőrzést végző hatóság a megkeresés keretében a közegészségre vagy a közbiztonságra nézve veszélyt jelentő lényeges eltérések felmérése céljából tájékoztatást kérhet a szolgáltatásnyújtó által elvégzett képzés tartalmáról.
 
 (3) A hazai eljáró hatóság a fogadó tagállam illetékes hatóságának az (1) és (2) bekezdés szerinti megkeresésére az (1) és (2) bekezdésben foglaltaknak megfelelő tájékoztatást nyújt. Ha az adott szakma Magyarországon nem szabályozott, a fogadó tagállam illetékes hatóságának megkeresésére a hazai információs szolgálat nyújt tájékoztatást.
 
@@ -674,7 +682,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 55. § (1) A külön jogszabályban meghatározott, riasztási mechanizmusban közreműködő hatóság tájékoztatja a többi tagállam illetékes hatóságát azon személyről, akit a hazai hatóság vagy bíróság a külön jogszabályban meghatározott képesítéssel gyakorolható szakma gyakorlásától eltiltott, vagy akinek a szakmagyakorlási jogát felfüggesztette.
 
-(2) A riasztási mechanizmusban közreműködő hatóság a szakma gyakorlásától eltiltó vagy a szakmagyakorlási jogot felfüggesztő döntés jogerőre emelkedésétől, vagy ha a döntés fellebbezésre tekintet nélkül végrehajtható, a döntés közlésétől számított három napon belül a belső piaci információs rendszeren keresztül tájékoztatást ad a többi tagállam illetékes hatóságának a döntésről.
+(2) A riasztási mechanizmusban közreműködő hatóság a szakma gyakorlásától eltiltó vagy a szakmagyakorlási jogot felfüggesztő döntés jogerőre emelkedésétől illetve véglegessé válásától, vagy ha a döntés fellebbezésre tekintet nélkül illetve azonnal végrehajtható, a döntés közlésétől számított három napon belül a belső piaci információs rendszeren keresztül tájékoztatást ad a többi tagállam illetékes hatóságának a döntésről.
 
 (3) A (2) bekezdés szerinti tájékoztatás a következő adatokat tartalmazza:
 
@@ -722,7 +730,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 (3) Az eljáró hatóság az (1) bekezdésben meghatározott ellenőrzés érdekében jogosult más hatóságtól arra vonatkozó tényadatot igényelni, hogy az általa vezetett nyilvántartásokban kezel-e a más EGT-állam illetékes hatósága által közölt adatokkal egyező adatokat, és jogosult ezt az adatot az ellenőrzés időtartamáig kezelni a következők tekintetében:
 
 - a) engedélyhez vagy más feltételhez kötött tevékenység folytatása esetén az érintett személy rendelkezik-e a szükséges engedéllyel, feltételekkel, vagy
-- b) a kérelmező nem áll-e az adott szakma gyakorlását megtiltó vagy az adott szakma gyakorlását meghatározott ideig vagy mértékben korlátozó jogerős hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott jogerős fegyelmi büntetés hatálya alatt.
+- b) a kérelmező nem áll-e az adott szakma gyakorlását megtiltó vagy az adott szakma gyakorlását meghatározott ideig vagy mértékben korlátozó végleges hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott végleges fegyelmi büntetés hatálya alatt.
 
 (4) Az eljáró hatóság a (2) és a (3) bekezdés alapján, valamint a szakmai tevékenység ellenőrzése céljából általa kezelt más adatokból levont következtetéseiről és az ezeket megalapozó adatokról a másik EGT-állam illetékes hatóságát a megkeresésben feltett kérdésekre válaszolva, az ahhoz szükséges körben és mértékben tájékoztatja.
 
@@ -793,7 +801,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 62. § (1) Külföldön folytatott, nem befejezett alap-, közép- vagy felsőfokú iskolai (rész-) tanulmányok beszámítása a külföldi oktatási intézmény jogállásának, a tanulmányi idő és a tanulmányi követelmények figyelembevételével, valamint a hazai és a külföldi tanulmányi kötelezettségek összehasonlítása alapján történik.
 
-(2) A résztanulmányok beszámítására irányuló kérelemhez csatolni kell a 7. § (1) bekezdésének b) pontja szerinti okiratokat és azok hiteles fordítását. Az oktatási intézmény nem hiteles fordítást is elfogadhat.
+(2)
 
 (3) Az oktatási intézmény a résztanulmányok beszámításának feltételéül különbözeti vizsgák teljesítését szabhatja meg.
 
@@ -805,7 +813,11 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 ### XIV. Fejezet — AZ ELJÁRÁS DÍJA
 
-64. § (1)–(3)
+64. § (1) Az alkalmassági és a szakmai vizsga lebonyolításáért az oktatási intézmény a kérelmező által fizetendő költségtérítést szabhat meg, amely azonban nem haladhatja meg – a tárgyak számától függetlenül – a 150 000 forintot.
+
+(2) Nem kell a kérelmezőnek eljárási díjat fizetnie, ha az európai szakmai kártya birtokosaként a belső piaci információs rendszerben tárolt adatainak kijavítását, kiegészítését, törlését vagy zárolását kéri az eljáró hatóságtól.
+
+(3)
 
 (3a)
 
@@ -837,6 +849,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 - a) jelölje ki a külföldi bizonyítványok és oklevelek elismeréséért, a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítvány kiállításáért felelős szervet vagy szerveket, az előzetes ellenőrzést végző hatóságot vagy hatóságokat, a 4/A. §-ban meghatározott segítségnyújtó központot, a riasztási mechanizmusban közreműködő hatóságokat és az európai szakmai kártya létrehozásáért felelős hatóságokat,
 - b) állapítsa meg azon szabályozott szakmák körét, amelyek esetében a Magyarország területén határon átnyúló szolgáltatást nyújtó a szolgáltatásnyújtást megelőzően bejelentésre kötelezett, illetve azon szakmák körét, amelyek előzetes ellenőrzés alá esnek, továbbá az ilyen bejelentések személyes adatot nem tartalmazó kötelező adattartalmát, a bejelentés megújításának szabályait, a bejelentéssel együtt benyújtandó dokumentumok körét, továbbá a riasztási mechanizmus alá tartozó képesítéseket, valamint közzétegye azon szakmák felsorolását, amelyek esetében az európai szakmai kártyát bevezették, továbbá
 - c) határozza meg az elismerési és honosítási eljárásban a kérelemmel benyújtandó dokumentumok körét, e dokumentumok hiteles fordítására és hiteles másolatára vonatkozó szabályokat, a külföldön kiállított okiratok felhasználására, a nemzetközi jogsegélyre vonatkozó szabályokat,
+- d) közzétegye az 53/A. § (1) bekezdése szerinti szakmai tevékenységek felsorolását, kijelölje azt a hatóságot, amelynek feladatkörébe tartozik a Magyarországon folytatott, mérgező termékek kereskedelmére, forgalmazására vagy felhasználására vonatkozó szakmai gyakorlatról vagy jogosultságról szóló igazolás kiállítása, megállapítsa a mérgező termékekkel kapcsolatos szakmai tevékenységek szakmai gyakorlaton alapuló elismerésének részletes eljárási szabályait.
 
 (2) Felhatalmazást kap az oktatásért felelős miniszter, hogy rendeletben hirdesse ki
 
@@ -858,11 +871,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter és a környezetvédelemért felelős miniszter egyetértésével kiadott rendeletben meghatározza az 53/A. § (5) bekezdése szerinti nagyon mérgező termékek, illetve irtószerek körét.
 
-(6) Felhatalmazást kap az egészségügyért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, hogy hatáskörében – a nagyon mérgező termékek vonatkozásában a kereskedelemért felelős miniszterrel egyetértésben –
-
-- a) rendeletben közzétegye az 53/A. § (1) bekezdésének a) és b) pontja szerinti szakmai tevékenységek felsorolását,
-- b) kijelölje azt a hatóságot, amelynek feladatkörébe tartozik a Magyarországon folytatott, mérgező termékek kereskedelmére, forgalmazására vagy felhasználására vonatkozó szakmai gyakorlatról vagy jogosultságról szóló igazolás kiállítása,
-- c) megállapítsa a mérgező termékekkel kapcsolatos szakmai tevékenységek szakmai gyakorlaton alapuló elismerésének részletes eljárási szabályait.
+(6)
 
 (7) Az oktatásért felelős miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak interneten való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi az oktatásért felelős miniszternél a jegyzék módosítását. A miniszter tájékoztatja az Európai Bizottságot a hatáskörébe tartozó szabályozott szakmákról, a szabályozott szakmákhoz tartozó szabályozott szakmai tevékenységekről, a szakma szabályozottságának indokairól, valamint az előzetes ellenőrzés alá tartozó szakmákról és ennek indokairól.
 
@@ -872,7 +881,9 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 68/A. § E törvénynek az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított 67. § (7) bekezdésében meghatározott tájékoztatást első alkalommal 2016. január 18-ig kell az Európai Bizottságnak megadni.
 
-68/B. § Ha a bíróság, illetve az ügyész az eljárása során megállapítja, hogy a közigazgatási hatósági eljárás általános szabályairól szóló törvény 121. § (1) bekezdés d) pontja alapján a közigazgatási határozat megsemmisítésének van helye, akkor a bűncselekmény elkövetését megállapító jogerős bírósági ítéletről vagy ügyészi határozatról a közigazgatási határozatot meghozó eljáró hatóságot haladéktalanul tájékoztatja.
+68/B. § Ha a bíróság, illetve az ügyész az eljárása során megállapítja, hogy az Ákr. 123. § (1) bekezdés d) és e) pontja alapján a közigazgatási határozat megsemmisítésének van helye, a bűncselekmény elkövetését megállapító jogerős bírósági ítéletről vagy ügyészi határozatról a közigazgatási határozatot meghozó eljáró hatóságot haladéktalanul tájékoztatja.
+
+68/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 
@@ -882,7 +893,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 - b) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés c) pont és 21. cikk,
 - c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
 - d) az Európai Parlament és a Tanács 2005/36/EK irányelve a szakmai képesítések elismeréséről, 1–20. cikk és 50–55. cikk, 57–64. cikk,
-- e) a Tanács 2005/71/EK irányelve (2005. október 12.) a harmadik országbeli állampolgároknak az Európai Közösség területén folytatott tudományos kutatás céljából való fogadására vonatkozó külön eljárásról, 12. cikk a) pont,
+- e) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelvnek,
 - f) A Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés d) pont,
 - g) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés d) pont,
 - h) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 28. cikk,

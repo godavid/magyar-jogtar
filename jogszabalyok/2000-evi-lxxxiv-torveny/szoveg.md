@@ -49,18 +49,26 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 - n) folyamatosan végzi a szakmai információk gyűjtését és terjesztését, valamint a közhasznú információk továbbítását;
 - o) kitüntetés adományozását kezdeményezi;
 - p) a növényvédelmi szakterületen dönt a mezőgazdasági tevékenységhez kapcsolódó szakértői működéshez benyújtott kérelmekről és kiállítja a szakértői engedélyeket;
-- q) a növényvédelmi szakértői tevékenységet folytatókról – azok személyes adatait is tartalmazó – nyilvántartást vezet, és névjegyzéküket évente közzéteszi.
+- q) a növényvédelmi szakértői tevékenységet folytatókról – azok személyes adatait is tartalmazó – nyilvántartást vezet, és névjegyzéküket évente közzéteszi;
+- r) ajánlást ad ki a növényorvos által végzett szolgáltatások munkadíjának alsó és felső határára vonatkozóan.
 
 (4) A (3) bekezdés c) és q) pontja szerinti nyilvántartás tartalmazza
 
 - a) természetes személy esetén a nevet, születési nevet, születési helyet, születési időt, anyja nevét, állampolgárságot, lakhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím);
 - b) jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén a cégnevet, adószámot, székhelyet, telephelyet, elérhetőséget (telefonszám, faxszám, e-mail cím, levelezési cím).
 
-(5) A (3) bekezdés c) és p) pontja szerinti hatósági eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni. Az eljárást első fokon a területi szervezet folytatja le. A területi szervezet döntése ellen fellebbezésnek van helye, melynek az elbírálására az országos szervezet jogosult.
+(5) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el
+
+- a) a tagfelvétellel és a kamarai névjegyzékbe vétellel, valamint a fegyelmi és etikai ügyek kivételével a tagsági viszony megszüntetésével és a kamarai nyilvántartásból való törléssel kapcsolatos eljárása,
+- b) a 2. § (3) bekezdés c), p) és q) pontja szerinti eljárása
+
+során.
+
+(5a) Az eljárást első fokon a területi szervezet folytatja le. A területi szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az országos szervezet jogosult.
 
 (6) Az (5) bekezdés szerinti eljárásban ügyintéző, illetve döntéshozó csak olyan személy lehet, aki a közszolgálati tisztviselőkről szóló törvény alapján kormánytisztviselőnek, az állami tisztviselőkről szóló törvény alapján állami tisztviselőnek – nyilvántartás vezetése esetén kormányzati ügykezelőnek, állami ügykezelőnek – kinevezhető lenne. A döntéshozóra és az ügyintézőre a közszolgálati tisztviselőkről szóló törvény összeférhetetlenségi szabályait kell alkalmazni.
 
-2/A. § A kamarának a tagfelvétellel és a kamarai névjegyzékbe vétellel, valamint a fegyelmi és etikai ügyek kivételével a tagsági viszony megszüntetésével és a kamarai nyilvántartásból való törléssel kapcsolatos eljárásában a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+#### 2/A. §
 
 2/B. § (1) Ha jogszabály az élelmiszerlánc felügyeletért felelős miniszter rendeletében meghatározott szakterületen, növényvédelmi szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez jogkövetkezményt állapít meg, – az igazságügyi szakértőkről szóló törvény szerint igazságügyi szakértői tevékenység végzésére jogosult szakértő kivételével – szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak az olyan személy igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a növényvédelmi szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, valamint rendelkezik az élelmiszerlánc felügyeletért felelős miniszter által rendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
@@ -221,8 +229,8 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 
 (2) A kamara az (1) bekezdés alapján megismert személyes adatokat
 
-- a) a növényvédő mérnök-növényorvos kamarai tagfelvétele iránti eljárás jogerős befejezéséig vagy
-- b) a kamarai tagok névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+- a) a növényvédő mérnök-növényorvos kamarai tagfelvétele iránti eljárásban hozott határozat véglegessé válásáig vagy
+- b) a kamarai tagok névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárásban hozott határozat véglegessé válásáig
 
 kezeli.
 
@@ -298,7 +306,7 @@ kezeli.
 - b) megtartsa a Kamara Alapszabályában és egyéb szabályzataiban foglaltakat, továbbá
 - c) tevékenysége során a szakmai irányelveknek, valamint az etikai szabályzatban foglaltaknak megfelelően járjon el.
 
-(4) A keresetet az országos szervezet felügyelő bizottsága állásfoglalásának kézhezvételétől számított 30 napon belül a sérelmes döntést hozó szervezet ellen kell megindítani.
+(4) A közigazgatási pert az országos szervezet felügyelő bizottsága állásfoglalásának közlésétől számított harminc napon belül kell megindítani.
 
 ### VI. Fejezet — FELELŐSSÉGI SZABÁLYOK
 
@@ -368,7 +376,7 @@ minősül.
 
 (3) A kamarai szerv a felhívásban foglaltakat megvizsgálja, és a megadott határidőn belül intézkedésről vagy egyet nem értéséről tájékoztatja a minisztert.
 
-(4) Ha a kamarai szerv vagy tisztségviselő a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetésére, a miniszter keresetet nyújthat be a bírósághoz. Az eljárás során a képviseleti jogra az Alapszabály rendelkezései irányadóak.
+(4)
 
 ### VIII. Fejezet — A KAMARA GAZDÁLKODÁSA
 

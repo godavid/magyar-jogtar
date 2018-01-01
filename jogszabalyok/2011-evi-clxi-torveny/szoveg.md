@@ -34,11 +34,11 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 (2) Ha a bírót a bíróságra az ügyelosztási rend meghatározását követően rendelik ki, az ügyelosztási rendet ennek megfelelően ki kell egészíteni.
 
-10. § (1) Az ügyelosztási rend tartalmazza, hogy az adott bíróságon milyen összetételű és számú tanácsok működnek, a bírák, a tanácsok – ideértve a kirendeléssel foglalkoztatott bírákat is – és a törvényben meghatározott ügyben az egyesbíró hatáskörében eljáró bírósági titkárok melyik ügycsoportba tartozó ügyeket intézik, akadályoztatásuk esetén ki jár el helyettük, az ügyek elosztására melyik bírósági vezető jogosult, továbbá, hogy az ügyek elosztása milyen módon történik. Az ügyelosztási rend a tárgyalási tevékenységet folytató bírósági vezetők által tárgyalt ügyek körét és az ezekre vonatkozó elosztási módot is magában foglalja. Az ügyelosztási rend rögzíti mely tanácsok, bírák járnak el a polgári perrendtartásról szóló törvény szerinti kiemelt jelentőségű perekben, továbbá a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) szerinti kiemelt jelentőségű ügyekben.
+10. § (1) Az ügyelosztási rend tartalmazza, hogy az adott bíróságon milyen összetételű és számú tanácsok működnek, a bírák, a tanácsok – ideértve a kirendeléssel foglalkoztatott bírákat is – és a törvényben meghatározott ügyben az egyesbíró hatáskörében eljáró bírósági titkárok melyik ügycsoportba tartozó ügyeket intézik, akadályoztatásuk esetén ki jár el helyettük, az ügyek elosztására melyik bírósági vezető jogosult, továbbá, hogy az ügyek elosztása milyen módon történik. Az ügyelosztási rend a tárgyalási tevékenységet folytató bírósági vezetők által tárgyalt ügyek körét és az ezekre vonatkozó elosztási módot is magában foglalja. Az ügyelosztási rend rögzíti mely tanácsok, bírák járnak el a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) szerinti kiemelt jelentőségű ügyekben.
 
 (2) A Kúria ügyelosztási rendjében meg kell jelölni azt is, hogy az önkormányzati tanács és az elvi közzétételi tanács tagjaként mely bírák járnak el, továbbá azt, hogy az egyes bírák melyik szakágú jogegységi tanácsban járhatnak el.
 
-(3) Az ügyelosztási rend kialakítása során figyelembe kell venni az ügyek jelentőségét, munkaigényességét – különös tekintettel a kiemelt jelentőségű perekre és kiemelt jelentőségű ügyekre –, az ügyérkezés statisztikai adatait, emellett törekedni kell az arányos munkateher megvalósítására is.
+(3) Az ügyelosztási rend kialakítása során figyelembe kell venni az ügyek jelentőségét, munkaigényességét – különös tekintettel a kiemelt jelentőségű ügyekre –, az ügyérkezés statisztikai adatait, emellett törekedni kell az arányos munkateher megvalósítására is.
 
 11. § (1) Az ügyelosztási rendet és annak módosítását, kiegészítését az érintettekkel haladéktalanul ismertetni kell és a bíróságon, a felek által is hozzáférhető helyen ki kell függeszteni, továbbá a bíróságok központi internetes honlapján (a továbbiakban: központi honlap), valamint – ha a bíróság azzal rendelkezik – az érintett bíróság honlapján közzé kell tenni.
 
@@ -295,112 +295,15 @@ indítványozza.
 
 (3) Az önkormányzati tanács feladata a jogszabálysértő önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárás, valamint a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztása miatti nemperes eljárás lefolytatása.
 
-#### 15. A önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárás
+#### 15. A önkormányzati rendelet felülvizsgálatára irányuló és a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztása miatti eljárás
 
-46. § Az önkormányzati tanács eljárására a polgári perrendtartásról szóló törvénynek kizárólag az eljárás nyelvére, az anyanyelv használatára, a rendeltetésszerű joggyakorlásra (a pénzbírság kiszabása nélkül), a bírák kizárására, az idézésre, a kézbesítésre, a határidők számítására, a jegyzőkönyvre, az iratok megtekintésére, a másolatokra, a határozathozatalra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+46. § Az önkormányzati tanács eljárására a közigazgatási perrendtartásról szóló törvénynek az önkormányzati rendelet felülvizsgálatára irányuló és a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztása miatti eljárásra vonatkozó szabályait kell alkalmazni.
 
-47. § A jogszabálysértő önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárásban a feleket teljes költségmentesség illeti meg, és a felek saját költségüket maguk viselik.
+#### 47–56. §
 
-48. § (1) Az önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárást a helyi önkormányzattal szemben a felette törvényességi felügyeleti jogot gyakorló fővárosi és megyei kormányhivatal a helyi önkormányzatokról szóló törvényben meghatározott követelményeknek megfelelő indítvánnyal és határidőn belül kezdeményezi.
+#### 16.
 
-(1a) Az alapvető jogok biztosa az önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárást a helyi önkormányzattal szemben az alapvető jogok biztosáról szóló törvényben meghatározott követelményeknek megfelelő indítvánnyal kezdeményezi.
-
-(2) Az önkormányzati tanács előtti eljárásban a jogi képviselet – a (2a) bekezdésben meghatározott kivétellel – kötelező. Jogi képviselőnek kell tekinteni a helyi önkormányzat képviseletében eljáró ügyvédet vagy ügyvédi irodát, a fővárosi és megyei kormányhivatal jogi szakvizsgával rendelkező alkalmazottját, valamint a helyi önkormányzat jogi szakvizsgával rendelkező jegyzőjét és jogi szakvizsgával rendelkező alkalmazottját. Az ügyvéd vagy ügyvédi iroda részéről ügyvédjelölt nem járhat el jogi képviselőként.
-
-(2a) Az alapvető jogok biztosa személyesen vagy az Alapvető Jogok Biztosa Hivatalának jogi szakvizsgával rendelkező képviselője útján járhat el.
-
-(3) Ha a bírónak az előtte folyamatban lévő egyedi ügy elbírálása során önkormányzati rendelet olyan rendelkezését kell alkalmaznia, amelynek más jogszabályba ütközését észleli – a bírósági eljárás felfüggesztése mellett – kezdeményezi az önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárást a helyi önkormányzattal szemben.
-
-(4) A (3) bekezdés szerinti indítvány tartalmazza
-
-- a) az önkormányzati tanács által vizsgálandó önkormányzati rendeletet,
-- b) az önkormányzati rendelet jogszabálysértőnek talált rendelkezésének megjelölését,
-- c) azon jogszabályi rendelkezés megjelölését, amelyet az önkormányzati rendelet rendelkezése sért,
-- d) annak okát, hogy a bíró az adott rendelkezést miért tartja jogszabálysértőnek.
-
-(5) Az önkormányzati tanács együttes elbírálás céljából elrendeli az előtte folyamatban lévő eljárások egyesítését, ha az indítványok tárgya egymással összefügg. Ha az ügy eldöntése érdekében célszerű, az önkormányzati tanács elrendelheti, hogy egyes vitás kérdések elkülönítve kerüljenek elbírálásra.
-
-49. § Az önkormányzati tanács az indítvány érdemében határozattal, az eljárás során felmerült minden más kérdésben – ideértve az eljárás megszüntetését is – végzéssel dönt. A határozattal és a végzéssel szemben jogorvoslatnak helye nincs.
-
-50. § (1) Az írásba foglalt határozatnak és végzésnek tartalmaznia kell:
-
-- a) az önkormányzati tanács megjelölését és az ügyszámot,
-- b) a feleknek és képviselőiknek nevét, székhelyét, illetve lakóhelyét,
-- c) az eljárás tárgyának megjelölését,
-- d) a rendelkező részt, valamint – a (2) és (3) bekezdésben foglaltak szerint – az indokolást, és
-- e) a határozat, illetve a végzés meghozatala helyének és idejének megfelelő keltezést.
-
-(2) A határozatot, az érdemi vizsgálat nélküli elutasító végzést és az eljárást megszüntető végzést a (3) bekezdésben foglaltaknak megfelelően, az egyéb végzéseket a szükséges mértékben kell indokolni.
-
-(3) A határozat és a végzés indokolásában elő kell adni az önkormányzati tanács által megállapított tényállást, hivatkozni kell azokra a jogszabályokra, amelyeken az önkormányzati tanács döntése alapszik, valamint részletesen ki kell fejteni az önkormányzati tanács döntéséhez vezető indokokat.
-
-(4) Az önkormányzati tanács által hozott határozatokat és végzéseket a tanács elnöke és tagjai írják alá; ha valamelyikük az aláírásban akadályozva van, ezt az akadály megjelölésével a határozaton fel kell tüntetni.
-
-51. § (1) Az önkormányzati tanács az indítvány beérkezésétől számított 15 napon belül érdemi vizsgálat nélkül elutasítja az indítványt, ha
-
-- a) azt nem az alapvető jogok biztosa, az arra jogosult fővárosi és megyei kormányhivatal vagy az egyedi ügyben eljáró bíró nyújtja be,
-- b) azt a fővárosi és megyei kormányhivatal a helyi önkormányzatokról szóló törvényben előírt határidőn túl nyújtja be,
-- c) azt a fővárosi és megyei kormányhivatal nem a helyi önkormányzatokról szóló törvényben foglaltaknak, az alapvető jogok biztosa nem az alapvető jogok biztosáról szóló törvényben foglaltaknak, vagy az egyedi ügyben eljáró bíró nem az e törvényben foglaltaknak megfelelő tartalommal nyújtja be, vagy
-- d) a fővárosi és megyei kormányhivatal vagy az alapvető jogok biztosa kezdeményezése esetén az önkormányzati rendeletnek az indítvánnyal támadott rendelkezése hatályát vesztette.
-
-(2) Az önkormányzati tanács az eljárást megszünteti, ha
-
-- a) az indítvány benyújtója az indítványt visszavonta, vagy
-- b) az (1) bekezdés alapján az indítványt érdemi vizsgálat nélkül el kellett volna utasítani.
-
-(3) Az önkormányzati tanács az indítványt érdemi vizsgálat nélkül elutasító végzést az indítvány benyújtójával, az eljárást megszüntető végzést az indítvány benyújtójával és a helyi önkormányzattal kézbesítés útján közli.
-
-52. § Az önkormányzati tanács az indítványt 30 napos határidő tűzésével megküldi a helyi önkormányzatnak az indítvánnyal kapcsolatos állásfoglalása beszerzése céljából.
-
-53. § (1) Az önkormányzati tanács a rendelkezésére álló iratok alapján, szükség szerint a jogi képviselő, továbbá más, az indítvány elbírálása szempontjából megfelelő szakértelemmel rendelkező személy személyes meghallgatását követően dönt.
-
-(2) A személyes meghallgatáson az önkormányzati tanács elnöke által – az (1) bekezdésben meghatározott személyek közül – megidézettek vesznek részt, továbbá az önkormányzati tanács elnöke által értesített egyéb meghívott személyek részt vehetnek. A személyes meghallgatást az önkormányzati tanács elnöke vezeti.
-
-(3) Az indítvány elbírálása szempontjából megfelelő szakértelemmel rendelkező megidézett személyek tekintetében a polgári perrendtartásról szóló törvény tanúk díjazására vonatkozó szabályait megfelelően alkalmazni kell.
-
-(4) Az önkormányzati tanács nyilatkozattételre hívhatja fel, iratok megküldése és vélemény kérése iránt keresheti meg azt az állami vagy önkormányzati szervet, amelynek megkeresése az indítvány elbírálásához szükséges.
-
-54. § (1) Az önkormányzati tanács az indítvány beérkezésétől számított 90 napon belül szótöbbséggel hozza meg határozatát.
-
-(2) Az eljárás lefolytatására nyitva álló határidő 30 nappal meghosszabbodik
-
-- a) személyes meghallgatás esetén,
-- b) ha az ügy körülményeiben bekövetkezett változás folytán ismételten szükségessé válik az önkormányzat állásfoglalásának beszerzése, vagy
-- c) ha az 53. § (4) bekezdése alapján állami vagy önkormányzati szerv megkeresése szükséges.
-
-55. § (1) Az önkormányzati tanács az indítványhoz kötve van, de az önkormányzati rendeletnek az indítványban megjelölt rendelkezésével szoros összefüggésben álló más rendelkezését is vizsgálhatja.
-
-(2) Ha az önkormányzati tanács megállapítja, hogy az önkormányzati rendelet vagy annak valamely rendelkezése más jogszabályba ütközik,
-
-- a) az önkormányzati rendeletet vagy annak rendelkezését megsemmisíti, megállapítja a hatályon kívül helyezett önkormányzati rendelet vagy annak rendelkezése más jogszabályba ütközését, vagy kimondja, hogy a kihirdetett, de még hatályba nem lépett önkormányzati rendelet vagy annak rendelkezése nem lép hatályba,
-- b) elrendeli a határozat Magyar Közlönyben való közzétételét, és
-- c) határidő tűzésével elrendeli, hogy a határozat közzétételére – a Magyar Közlönyben való közzétételt követően – az önkormányzati rendelet kihirdetésével azonos módon kerüljön sor.
-
-(3) Ha a (2) bekezdésben foglalt feltételek nem állnak fenn, az önkormányzati tanács az indítványt elutasítja.
-
-(4) Az önkormányzati tanács határozata mindenkire nézve kötelező.
-
-56. § (1) Az önkormányzati tanács a határozatot kézbesítés útján közli az indítvány benyújtójával, a fővárosi és megyei kormányhivatallal és a helyi önkormányzattal, továbbá az önkormányzati tanács elnöke gondoskodik a határozatnak a központi honlapon, valamint a Kúria honlapján történő közzétételéről.
-
-(2) A megsemmisített önkormányzati rendelet vagy annak rendelkezése a határozatnak a Magyar Közlönyben való közzétételét követő napon hatályát veszti.
-
-(3) Az önkormányzati tanács a (2) bekezdésben meghatározottaktól eltérően is megállapíthatja az önkormányzati rendelet vagy annak rendelkezése hatályvesztését, ha azt a jogbiztonság vagy a rendelet hatálya alá tartozó jogalanyok különösen fontos érdeke indokolja.
-
-(4) A megsemmisítés – az (5) bekezdésben meghatározott kivétellel – nem érinti a hatályvesztést megelőzően létrejött jogviszonyokat, valamint a belőlük származó jogokat és kötelezettségeket.
-
-(5) Ha az önkormányzati rendeletnek a bíróság előtt folyamatban lévő ügyben alkalmazandó rendelkezésének megsemmisítésére, illetve más jogszabályba ütközésének megállapítására bírói kezdeményezés alapján kerül sor, az önkormányzati rendelet megsemmisített, illetve más jogszabályba ütközőnek ítélt rendelkezése nem alkalmazható a bíróság előtt folyamatban lévő egyedi ügyben, valamint valamennyi, a megsemmisítés időpontjában valamely bíróság előtt folyamatban lévő egyedi ügyben.
-
-#### 16. A helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztása miatti nemperes eljárás
-
-57. § A helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztása miatti nemperes eljárásra a jogszabálysértő önkormányzati rendelet felülvizsgálatára irányuló nemperes eljárás szabályait jelen alcímben foglalt eltérésekkel kell alkalmazni.
-
-58. § Ha a helyi önkormányzat az önkormányzati tanács eljárása során eleget tesz a törvényen alapuló rendeletalkotási kötelezettségének, az önkormányzati tanács az eljárást megszünteti. Az eljárás megszüntetése előtt az önkormányzati tanács határidő tűzésével gondoskodik a fővárosi és megyei kormányhivatal állásfoglalásának beszerzéséről.
-
-59. § Ha az önkormányzati tanács megállapítja, hogy a helyi önkormányzat a törvényen alapuló jogalkotási kötelezettségét elmulasztotta, határozatában határidő tűzésével elrendeli, hogy a helyi önkormányzat a jogalkotási kötelezettségének tegyen eleget.
-
-60. § Ha az önkormányzati tanács a fővárosi és megyei kormányhivatal kezdeményezésére azt állapítja meg, hogy a helyi önkormányzat a megadott határidőn belül az 59. §-ban megállapított jogalkotási kötelezettségének nem tett eleget, határozatában határidő tűzésével elrendeli, hogy a fővárosi és megyei kormányhivatal vezetője a mulasztás orvoslásához szükséges önkormányzati rendeletet a helyi önkormányzat nevében alkossa meg. Az elrendelést követően a helyi önkormányzat a jogalkotási kötelezettség elmulasztását nem orvosolhatja.
-
-61. § A határozat a fővárosi és megyei kormányhivatalra és a helyi önkormányzatra kötelező.
+#### 57–61. §
 
 ### V. Fejezet
 
@@ -1319,7 +1222,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 (2) A közzétett határozatban – ha törvény másként nem rendelkezik – nem kell törölni
 
 - a) az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv és – ha törvény kivételt nem tesz – az e minőségében eljáró személy családi és utónevét, illetve neveit (a továbbiakban együtt: nevét), továbbá beosztását, ha az adott személy az eljárásban közfeladatának ellátásával összefüggésben vett részt,
-- b) a meghatalmazottként vagy védőként eljárt ügyvéd nevét,
+- b) a meghatalmazottként eljárt ügyvéd vagy kamarai jogtanácsos, továbbá a védő nevét,
 - c) az alperesként pervesztes természetes személy nevét, továbbá jogi személy vagy jogi személyiséggel nem rendelkező szervezet nevét és székhelyét, ha a határozatot olyan ügyben hozták, amelyben jogszabály alapján közérdekű igényérvényesítésnek helye van,
 - d) az egyesület vagy alapítvány nevét, székhelyét és képviselőjének nevét,
 - e) a közérdekből nyilvános adatot.
@@ -1331,6 +1234,12 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 (5) A minősített adat védelmét a bírósági határozatok közzétételekor is biztosítani kell.
 
 (6) A határozat szövegében az e §-ban meghatározottakon túl további szerkesztés nem végezhető.
+
+#### 52/A. A polgári és közigazgatási bírósági eljárásokban elrendelt hirdetményi kézbesítések bírósági nyilvántartása
+
+166/A. § (1) A hirdetményi kézbesítésről az eljáró bíróság számítógépes nyilvántartást vezet, amelyben rögzíti a bíróság nevét, az ügy számát, az utolsó ismert lakóhely (székhely) megjelölésével a fél nevét, akinek részére a kézbesítés hirdetmény útján történt, továbbá azt az okot, amelynek következtében a kézbesítés szükségessé vált, illetve a kézbesítési fikció beálltának időpontját. Az országosan összekapcsolt számítógépes közhiteles nyilvántartást az Országos Bírósági Hivatal elnöke kezeli, az abban foglalt adatokról az Országos Bírósági Hivatal elnöke jogszabályban meghatározott költségtérítés ellenében a felvilágosítást kérő személyére vonatkozóan, kérelmére felvilágosítást ad.
+
+(2) Más személy kérelmére felvilágosítás csak akkor adható, ha a bíróság, ügyészség, nemperes eljárást lefolytató közjegyző vagy közigazgatási szerv törvényben meghatározott feladatainak teljesítéséhez, illetve a felvilágosítást kérő személynek törvényben biztosított jogai gyakorlásához szükséges. A törvényes jogcímet valószínűsíteni kell. Ilyen esetben az adatszolgáltatás tényét a számítógépes rendszerben oly módon kell rögzíteni, hogy az adatszolgáltatás időpontja, jogcíme és az adat felhasználója megállapítható maradjon. A jogellenes adatkérés és felhasználás jogkövetkezményeit a felvilágosítást kérő viseli.
 
 ### XIII. Fejezet — A BÍRÓSÁGI ÉPÜLETEK RENDJÉNEK FENNTARTÁSA
 
@@ -1391,7 +1300,12 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 #### 55. Felhatalmazó rendelkezések
 
-172. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg az e törvény alapján közzétett bírósági határozatoknak a Bírósági Határozatok Gyűjteményében történő megjelölésének szabályait.
+172. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy
+
+- a) az e törvény alapján közzétett bírósági határozatoknak a Bírósági Határozatok Gyűjteményében történő megjelölésére, valamint
+- b) a polgári és közigazgatási bírósági eljárásokban elrendelt hirdetményi kézbesítések országos számítógépes nyilvántartásában szereplő adatokról történő felvilágosítás költségtérítésének összegére és megfizetése módjára
+
+vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 #### 56. Hatályba léptető rendelkezések, a törvény rövidített megnevezése
 
@@ -1506,6 +1420,8 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 (2) Az Alkotmánybíróságra a bíró által 2011. december 31-éig benyújtott indítványok elbírálása során a Kúrián működő önkormányzati tanács az Alkotmánybíróság által áttett indítvány beérkezését követő 30 napon belül határidő tűzésével felhívja a bírót az indítványnak az e törvényben meghatározattak szerinti kiegészítésére. Az indítvány elbírálására megállapított határidőt a kiegészítés beérkezésének napjától kell számítani.
 
 196/A. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2012. évi CCXI. törvénnyel megállapított 47. §-át, 48. § (5) bekezdését, 51. § (1) bekezdését, 53. § (4) bekezdését, 54. §-át, 55. § (2) bekezdés a) pontját, valamint 56. § (5) bekezdését a 2013. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+
+196/B. § Az ügyelosztási rend kialakítása során a polgári perrendtartásról szóló 2016. évi CXXX. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXXX. törvény hatálybalépését követően is figyelemmel kell lenni a még folyamatban lévő kiemelt jelentőségű perekre.
 
 197. § A bírósági vezetői tisztség újbóli betölthetőségét korlátozó rendelkezések alkalmazása során a helyi bírósági elnöki, elnökhelyettesi megbízatás azonosnak minősül a járásbírósági elnöki, elnökhelyettesi megbízatással, a közigazgatási és munkaügyi bírósági elnöki, elnökhelyettesi megbízatás azonosnak minősül a munkaügyi bírósági elnöki, elnökhelyettesi megbízatással, a megyei elnöki, elnökhelyettesi megbízatás azonosnak minősül a törvényszéki elnöki, elnökhelyettesi megbízatással.
 

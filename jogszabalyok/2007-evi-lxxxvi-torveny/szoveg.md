@@ -553,7 +553,7 @@ tűrésére, és ennek érdekében az elosztóval történő együttműködésre
 
 (6) A polgári nemperes eljárásban nincs helye perújításnak és felülvizsgálatnak.
 
-(7) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.
+(7) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel –, továbbá a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvény bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezései megfelelően irányadók.
 
 33/B. § A rendszerhasználó hozzájáruló nyilatkozatával rendelkező villamosenergia-kereskedő részére az elosztó köteles a rendszerhasználó mérési adatait átadni.
 
@@ -898,6 +898,8 @@ kiállított számla érvénytelen.
 
 (4) A végső menedékes engedélyes tevékenységére, eltérő rendelkezés hiányában az egyetemes szolgáltatásra és a kereskedelemre vonatkozó rendelkezések megfelelően alkalmazandók.
 
+(5) A Hivatal a végső menedékes kijelöléséről szóló határozatát írásban és közhírré tétel útján közli.
+
 51/A. § (1) Az 51. § (1) bekezdése szerinti kijelölés határozott időre szól.
 
 (2) A Hivatal a végső menedékes kijelölése esetén az 51. § (1) bekezdése szerinti engedélyes működési engedélyében meghatározott jogainak gyakorlását az e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételek szerint határozatban korlátozza.
@@ -1040,7 +1042,7 @@ vásárolhat villamos energiát.
 
 (5) Az egyedi felhasználókat érintő mutatók be nem tartása az érintett felhasználókkal szemben szerződésszegésnek minősül, amelynek jogkövetkezményét a Hivatal állapítja meg.
 
-(6) Az (1) bekezdés szerinti határozatok kiadására irányuló, hivatalból induló hatósági eljárásban ügyfélként kizárólag az egyes engedélyesek vesznek részt.
+(6)
 
 ### A hálózati csatlakozási
 
@@ -1236,7 +1238,7 @@ való jog.
 
 (3) Ha a vételező úgy dönt, hogy villamos energiát nem továbbadás útján, hanem kizárólag az 56. § (2) bekezdése szerint vásárol, köteles a 39/B. § szerint eljárni.
 
-(4) A továbbadás nem minősül kereskedelemnek, ha az így továbbadott villamosenergia-mennyiség átlagára nem haladja meg a magánvezeték engedélyese által ugyanazon üzleti évben beszerzett villamosenergia-mennyiség átlagárát. A magánvezeték engedélyese e bekezdésben foglaltakat igazoló iratai tekintetében a 168. § (2) és (3) bekezdésében meghatározott rendelkezéseket megfelelően alkalmazni kell.
+(4) A továbbadás nem minősül kereskedelemnek, ha az így továbbadott villamosenergia-mennyiség átlagára nem haladja meg a magánvezeték engedélyese által ugyanazon üzleti évben beszerzett villamosenergia-mennyiség átlagárát. A magánvezeték engedélyese e bekezdésben foglaltakat igazoló iratai tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 5/D. § (7) bekezdésében meghatározott rendelkezéseket megfelelően alkalmazni kell.
 
 (5) A (4) bekezdés szempontjából
 
@@ -1753,7 +1755,7 @@ biztosítása érdekében
 
 - a) az átviteli rendszerirányító nem tesz eleget a 96. § (1) bekezdésében meghatározott jogszabályokban és uniós jogi aktusokban meghatározott kötelezettségeinek,
 - b) a 96. § (1) bekezdés a) és b) pontja szerinti jogkövetkezmények alkalmazása nem vezetett eredményre, és
-- c) a 96. § (1) bekezdés a) és b) pontja szerinti jogkövetkezmények alapjául szolgáló határozat bírósági felülvizsgálata esetén a közigazgatási ügyekben eljáró bíróság a Hivatal határozatát helybenhagyta, vagy Hivatal határozatának megtámadására rendelkezésre álló idő eredménytelenül telt el.
+- c) a 96. § (1) bekezdés a) és b) pontja szerinti jogkövetkezmények alapjául szolgáló határozat vonatkozásában a közigazgatási bíróság a keresetet elutasította, vagy a közigazgatási per megindítására nyitva álló határidő eredménytelenül telt el.
 
 (1b) Az átviteli rendszerüzemeltető (1a) bekezdés szerinti kijelölése esetén a Hivatal kötelezi az átviteli hálózat tulajdonosát a 104. § (2)–(4) bekezdésben foglalt kötelezettségek teljesítésére, valamint a 87. § (4) bekezdésben meghatározott engedély kiadásával az átviteli rendszerüzemeltetőt feladatai ellátására.
 
@@ -1805,7 +1807,7 @@ megállapodni.
 
 (6) Az (5) bekezdés szerinti megállapodás megfelelőségének vizsgálatára a Hivatalnak 20 nap áll rendelkezésére. Amennyiben a megállapodás részben vagy egészben nem felel meg a jogszabályban foglalt feltételeknek, az ellátásbiztonság követelményének vagy a Hivatal kockázatokat tár fel az átadás-átvétellel összefüggésben, akkor a Hivatal 8 napos határidő megadásával felhívja az átadót és az átvevőt a megállapodás módosítására. A további ismételt vizsgálatokra a Hivatalnak esetenként 15 nap áll rendelkezésére. Amennyiben a megállapodás megfelel a jogszabályokban foglalt követelményeknek, az ellátásbiztonságnak, a Hivatal meghozza a 99/C. § szerinti határozatokat, amelyekben az átadó egyetemes szolgáltató engedélyét visszavonja, míg a megállapodás szerinti átvevőt jelöli ki átvevő egyetemes szolgáltatóként az átadó és az átvevő által megjelölt átvételi időponttal.
 
-99/C. § (1) A Hivatal a 99/B. § (1) és (6) bekezdésében foglalt határidők elteltét követően a 168. § (4) bekezdés j) pontja szerinti ügyintézési határidőn belül egyidejűleg átadó egyetemes szolgáltató engedélyét visszavonó határozatot (a továbbiakban: visszavonó határozat) és átvevő egyetemes szolgáltatót kijelölő határozatot (a továbbiakban: kijelölő határozat) hoz, amelyekben legalább a következőkről rendelkezik:
+99/C. § (1) A Hivatal a 99/B. § (1) és (6) bekezdésében foglalt határidők elteltét követően a 168. § (2) bekezdés h) pontja szerinti ügyintézési határidőn belül egyidejűleg átadó egyetemes szolgáltató engedélyét visszavonó határozatot (a továbbiakban: visszavonó határozat) és átvevő egyetemes szolgáltatót kijelölő határozatot (a továbbiakban: kijelölő határozat) hoz, amelyekben legalább a következőkről rendelkezik:
 
 - a) az engedély visszavonásának időpontja, adott hónap 1. nap 0 óra 0 percben meghatározva (a továbbiakban: átvétel időpontja),
 - b) a 99/B. § szerint kiválasztott vagy kijelölt átvevő személye,
@@ -2055,7 +2057,7 @@ kapcsolatban.
 
 (4a) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – az (1) bekezdés a) pontjában foglaltakra figyelemmel – az átviteli rendszerirányítóval a Vhr.-ben meghatározottak szerint szerződést köt.
 
-(5) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerirányító megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 99. § (1a) és (1b) bekezdése, a 102. §–102/E. § és 104. § nem alkalmazható.
+(5) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerirányító megfelel az e §-ban foglaltaknak, a Hivatal határozatának véglegessé válását követően a 99. § (1a) és (1b) bekezdése, a 102. §–102/E. § és 104. § nem alkalmazható.
 
 (6) Az (1) bekezdés b) pontja alkalmazásában
 
@@ -2100,7 +2102,7 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 (6) Az átviteli rendszerüzemeltetőre az e törvényben és a felhatalmazása alapján kiadott jogszabályokban az átviteli rendszerirányítóra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy átviteli rendszerirányító alatt az átviteli rendszerüzemeltetőt kell érteni, kivéve a 99. § (1a) és (1b) bekezdés, valamint a 102. §–102/E. § rendelkezéseit.
 
-(7) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 102. §–102/E. § nem alkalmazható.
+(7) Amennyiben a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy az átviteli rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal határozatának véglegessé válását követően a 102. §–102/E. § nem alkalmazható.
 
 ### Számviteli szétválasztás
 
@@ -2194,16 +2196,11 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 113. § (1)–(2)
 
-(3) A bíróságnak a Hivatal által az e fejezet szerinti ügyben hozott határozat felülvizsgálata iránti kereset alapján indult eljárására a Polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit az e törvény szerinti eltérésekkel kell alkalmazni.
+(3)
 
-114. § (1) A keresetlevelet a határozat közlésétől számított 15 napon belül kell benyújtani a Hivatalhoz. A keresetlevélben nyilatkozni kell arról is, hogy a felperes kéri-e tárgyalás tartását.
+114. § (1) A Hivatal e fejezet szerinti ügyben hozott határozatát megtámadó keresetlevelet a határozat közlésétől számított 15 napon belül kell benyújtani.
 
-(2) A Hivatal a keresetlevelet – az ügy irataival és a Pp. 330. §-ának (2) bekezdése szerinti nyilatkozatával együtt – a keresetlevél beérkezésétől számított 5 napon belül továbbítja a bíróságnak. A Hivatalnak a nyilatkozatban közölnie kell, kéri-e tárgyalás tartását.
-
-(3) A bíróság a keresetlevél kézbesítésével egyidejűleg
-
-- a)
-- b) határidő tűzésével felhívja nyilatkozattételre és tájékoztatja a beavatkozás lehetőségéről a jogorvoslati eljárásban szerepelt azon érdekelteket, akikre nézve a Hivatal határozata rendelkezést tartalmaz.
+(2) A Hivatal a keresetlevelet a beérkezésétől számított 5 napon belül továbbítja a bíróságnak.
 
 ### XIII/A. Fejezet — A NAGYKERESKEDELMI ENERGIAPIACOK INTEGRITÁSÁVAL ÉS ÁTLÁTHATÓSÁGÁVAL ÖSSZEFÜGGŐ FELADATOK
 
@@ -2222,9 +2219,9 @@ megfelelően irányadóak, azzal, hogy az a)–c) pontokat a megjelölt vállalk
 
 (2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
-(3) A Hivatal – a 114/A. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 114/A. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerinti védett adat megismerésére és a cselekménnyel szorosan összefüggő személyes adat kezelésére.
+(3) A Hivatal – a 114/A. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 114/A. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti védett adat megismerésére és a cselekménnyel szorosan összefüggő személyes adat kezelésére.
 
-(4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárás jogerős lezárásától számított 5 évig kezeli.
+(4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárást lezáró döntés véglegessé válásától számított 5 évig kezeli.
 
 (5) A Hivatal e fejezetben szabályozott eljárása a tilalom megszegésétől, illetve a kötelezettség elmulasztásától számított 5 éven belül indítható meg.
 
@@ -2319,7 +2316,7 @@ kapcsolatos adatok megismerésére és kezelésére.
 115. § E törvény alkalmazásában építésügyi hatósági engedélyezési eljárások fajtái:
 
 - a) építési engedélyezési eljárás,
-- b) üzemeltetési engedélyezési eljárás,
+- b)
 - c) használatbavételi engedélyezési eljárás,
 - d) fennmaradási engedélyezési eljárás,
 - e) megszüntetési eljárás.
@@ -2348,17 +2345,17 @@ kapcsolatos adatok megismerésére és kezelésére.
 
 (2)
 
-(2a) A szélerőmű vagy szélerőmű park építési engedélyezési eljárásában és használatbavételi engedélyezési eljárásában közreműködő, a környezeti, természeti, településfejlesztési és településrendezési hatásokkal összefüggő szakkérdések vizsgálatára kijelölt szakhatóság ügyintézési határideje 60 nap.
+(2a) A szélerőmű vagy szélerőmű park építési engedélyezési eljárásában és használatbavételi engedélyezési eljárásában közreműködő, a környezeti, természeti, településfejlesztési és településrendezési hatásokkal összefüggő szakkérdések vizsgálatára kijelölt szakhatóság ügyintézési határideje 30 nap.
 
 (3) Az építésügyi hatósági engedélyezési eljárásokban a villamosmű, termelői vezeték, magánvezeték, a közvetlen vezeték, valamint ezek biztonsági övezetében lévő ingatlan ingatlan-nyilvántartásba bejegyzett tulajdonosa ügyfélnek minősül.
 
-(4) A kérelmező vagy képviselője az engedélyezési eljárás megindítása előtt előzetes szakhatósági állásfoglalást kérhet. A Hatóság az engedélyezési eljárás során akkor fogadja el az előzetes szakhatósági állásfoglalást, ha az 1 évnél nem régebbi, és a szakhatóság által véleményezett műszaki tervdokumentáció 1 eredeti példányát keltezéssel, aláírással és bélyegző lenyomattal ellátva nyújtják be az engedélyezési eljárás megindításakor a Hatósághoz.
+(4) A Hatóság az engedélyezési eljárás során akkor fogadja el az előzetes szakhatósági állásfoglalást, ha a szakhatóság által véleményezett műszaki tervdokumentáció 1 eredeti példányát keltezéssel, aláírással és bélyegző lenyomattal ellátva nyújtják be az engedélyezési eljárás megindításakor a Hatósághoz.
 
 (5) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére, üzemeltetésére, használatbavételére, fennmaradására és megszüntetésére vonatkozó hatósági határozatban foglalt jogosultságot vagy kötelezettséget – indokolt esetben – a határozat közlésétől számított két éven belül kérelemre vagy hivatalból módosítani lehet.
 
-(6) A (6a) bekezdésben meghatározott kivétellel a villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély hatálya megszűnik, ha az építményeket az építésre kiadott engedély jogerőre emelkedésétől számított két éven belül nem építi meg, vagy az említett építményeket véglegesen eltávolítja. A Hatóság a villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély hatályát az engedélyes által a hatály lejárta előtt benyújtott kérelem alapján, külön jogszabályban meghatározott módon, két alkalommal legfeljebb két-két évvel meghosszabbíthatja, amennyiben az engedély a meghosszabbítás idején hatályban lévő jogszabályi előírásoknak megfelel.
+(6) A (6a) bekezdésben meghatározott kivétellel a villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély hatálya megszűnik, ha az építményeket az építésre kiadott engedély véglegessé válásától számított két éven belül nem építi meg, vagy az említett építményeket véglegesen eltávolítja. A Hatóság a villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére adott engedély hatályát az engedélyes által a hatály lejárta előtt benyújtott kérelem alapján, külön jogszabályban meghatározott módon, két alkalommal legfeljebb két-két évvel meghosszabbíthatja, amennyiben az engedély a meghosszabbítás idején hatályban lévő jogszabályi előírásoknak megfelel.
 
-(6a) A szélerőmű vagy szélerőmű park építésére adott engedély hatályát veszti, ha az építményeket az építésre kiadott engedély jogerőre emelkedésétől számított egy éven belül nem építik meg, vagy az említett építményeket véglegesen eltávolítják. A szélerőmű vagy szélerőmű park építésére adott engedély hatálya nem hosszabbítható meg.
+(6a) A szélerőmű vagy szélerőmű park építésére adott engedély hatályát veszti, ha az építményeket az építésre kiadott engedély véglegessé válásától számított egy éven belül nem építik meg, vagy az említett építményeket véglegesen eltávolítják. A szélerőmű vagy szélerőmű park építésére adott engedély hatálya nem hosszabbítható meg.
 
 (7) A villamosmű, termelői vezeték, magánvezeték és a közvetlen vezeték építésére kiadott építési engedély hatályának megszűnésével a hatósági határozattal alapított vezetékjog is megszűnik.
 
@@ -2406,6 +2403,8 @@ kapcsolatos adatok megismerésére és kezelésére.
 (3) Ideiglenes vezeték azonos nyomvonalon kizárólag egy alkalommal, legfeljebb 12 hónapra létesíthető.
 
 (4) Az ideiglenes vezeték esetében a közcélú hálózat leágazási pontját kell csatlakozási pontnak tekinteni.
+
+119/D. § A Hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
 
 ### ÉPÍTÉSI ENGEDÉLYEZÉSI ELJÁRÁSOK
 
@@ -2464,9 +2463,9 @@ kérhet.
 - c) nem tartószerkezeten elhelyezett elosztóberendezést, külön jogszabályban meghatározott átalakító- és kapcsolóberendezést helyezhet el,
 - d) az építés során a biztonsági övezetet sértő növényzetet eltávolíthatja.
 
-(2) A hálózati engedélyes a vezetékjog vagy a jogerős üzemeltetési engedély alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja és átalakíthatja, felújíthatja, továbbá a közcélú hálózat, termelői vezeték, magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetet sértő növényzetet eltávolíthatja, a felsorolt tevékenységek elvégzése céljából a vezetékjoggal érintett ingatlanra beléphet.
+(2) A hálózati engedélyes a vezetékjog alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja és átalakíthatja, felújíthatja, továbbá a közcélú hálózat, termelői vezeték, magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetet sértő növényzetet eltávolíthatja, a felsorolt tevékenységek elvégzése céljából a vezetékjoggal érintett ingatlanra beléphet.
 
-125. § (1) A Hatóság a jogerős határozattal megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A vezetékjog a jogerős határozat alapján a bejegyzés előtt is gyakorolható.
+125. § (1) A Hatóság a véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A vezetékjog a jogerős határozat alapján a bejegyzés előtt is gyakorolható.
 
 (2)
 
@@ -2474,7 +2473,7 @@ kérhet.
 
 (2)
 
-(3) A vezetékjog megszűnése esetén a Hatóság a vezetékjog megszűnését megállapító jogerős határozattal keresi meg az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlése iránt.
+(3) A vezetékjog megszűnése esetén a Hatóság a vezetékjog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásból történő törlése iránt.
 
 ### Használati jog
 
@@ -2486,7 +2485,7 @@ kérhet.
 
 (4) Közterületen elhelyezett, az (1) bekezdés szerinti átalakító- és kapcsolóberendezésre használati jogot nem kell alapítani. Az ilyen terület igénybevételére az érintetteknek megállapodást kell kötni.
 
-128. § (1) A megállapodáson alapuló használati jog ingatlan-nyilvántartásba történő bejegyzését a megállapodás alapján a hálózati engedélyes köteles kérni. Határozaton alapuló használati jog esetén a Hatóság a jogerős határozattal keresi meg az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a használati jog nem az egész földrészletet érinti, akkor a kérelemhez, illetőleg a jogerős hatósági határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A megállapodáson alapuló használati jog bejegyzésének késedelme a jog gyakorlását nem érinti. A hatósági határozaton alapuló használati jog a jogerős közigazgatási határozat alapján a bejegyzés előtt is gyakorolható.
+128. § (1) A megállapodáson alapuló használati jog ingatlan-nyilvántartásba történő bejegyzését a megállapodás alapján a hálózati engedélyes köteles kérni. Határozaton alapuló használati jog esetén a Hatóság a véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a használati jog nem az egész földrészletet érinti, akkor a kérelemhez, illetőleg a jogerős hatósági határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is. A megállapodáson alapuló használati jog bejegyzésének késedelme a jog gyakorlását nem érinti. A hatósági határozaton alapuló használati jog a jogerős közigazgatási határozat alapján a bejegyzés előtt is gyakorolható.
 
 (2) A hatósági határozaton alapuló használati jog a mindenkori engedélyest illeti meg, az engedélyes névváltozása, jogutódlás vagy az engedélyes személyében bekövetkezett változás esetén az engedélyes a Hatóságot a változás bekövetkezésétől számított 30 napon belül értesíti.
 
@@ -2494,7 +2493,7 @@ kérhet.
 
 (2) A Hatóság az építési engedély hatályát a hálózati engedélyes által a hatály lejárta előtt benyújtott kérelem alapján, külön jogszabályban meghatározott esetben, legfeljebb két évvel meghosszabbíthatja, amennyiben az engedély a meghosszabbítás idején hatályban lévő jogszabályi előírásoknak megfelel.
 
-(3) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használati jog esetén a Hatóság a használati jog megszűnését megállapító jogerős határozattal keresi meg az ingatlanügyi hatóságot a használati jog törlése iránt.
+(3) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. A határozaton alapuló használati jog esetén a Hatóság a használati jog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog törlése iránt.
 
 #### 130. §
 
@@ -2522,7 +2521,7 @@ idegen ingatlanon
 
 133. § (1) A közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték, az ideiglenes vezeték, és a tartószerkezeten, valamint nem tartószerkezeten elhelyezett külön jogszabályban meghatározott átalakító- és kapcsolóberendezés megépítését követően a műszaki biztonsági követelményekre vonatkozó külön jogszabályban meghatározott eljárás lefolytatását követően üzembe helyezhető.
 
-(2) Az üzembe helyezést követően az üzemeltető az (1) bekezdésben felsorolt építmények – bele nem értve a kisfeszültségű hálózati elemeket – üzemeltetését a Hatósághoz 90 napon belül köteles bejelenteni.
+(2) Az üzembe helyezést követően az üzemeltető az (1) bekezdésben felsorolt építmények – bele nem értve a kisfeszültségű hálózati elemeket – üzemeltetését a Hatósághoz 90 napon belül, a kisfeszültségű hálózati elemek üzemeltetését 8 napon belül köteles bejelenteni.
 
 (3) Az üzemeltető a bejelentés alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja és átalakíthatja, felújíthatja, továbbá a közcélú hálózat, termelői vezeték, magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetet sértő növényzetet eltávolíthatja.
 
@@ -2537,6 +2536,14 @@ ELJÁRÁSOK
 135. § (1) Fennmaradási engedélyt a Hatóság a jogszabályi előírásoktól eltérően, szabálytalanul épített villamosmű, termelői vezeték, magánvezeték, közvetlen vezeték vagy ideiglenes vezeték tekintetében és csak abban az esetben adhat, ha a berendezés megfelel vagy megfeleltethető a fennmaradási eljárás idején érvényes követelményeknek.
 
 (2) Ha a Hatóság az (1) bekezdés szerint a fennmaradási engedélyt megadja, ezzel egyidejűleg – a Kormány rendeletében meghatározott mértékben és módon – építésügyi bírságot szab ki.
+
+(3) A (2) bekezdésben meghatározott esetben a bírság kiszabásakor a Hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében mérlegeli különösen:
+
+- a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
+- b) a jogsértéssel okozott hátrány visszafordíthatóságát,
+- c) a jogsértéssel érintettek körének nagyságát,
+- d) a jogsértő állapot időtartamát,
+- e) a jogsértő magatartás ismétlődését és gyakoriságát.
 
 ### MEGSZÜNTETÉSI ELJÁRÁSOK
 
@@ -2818,21 +2825,11 @@ villamos energia képezi.
 
 154. § Az átviteli rendszerirányító a jelen törvényben szabályozott feladata ellátása során a nemzetközi együttműködés keretében a villamosenergia-ellátási szabályzatokban meghatározott adatokat továbbíthatja az együttműködő nemzetközi szervezeteknek.
 
-155. § (1) A Hivatal a jelen törvényben szabályozott feladata ellátásához az adatvédelmi jogszabályokkal összhangban adatot kezelhet.
-
-(2) A Hivatal az átvett adatokat más részére jogszabályi feltételek fennállása és megkeresés esetén átadhatja.
-
-(2a) A Hivatal a Ket. szerinti törvény által védett titoknak minősülő adatot a 162–162/B. §-ban meghatározott hatóságoknak az e törvényben meghatározott együttműködés keretében átadhatja.
-
-(3) A Hivatal gondoskodik az adatkezelés körében a jogosulatlan hozzáférés, közlés, megváltoztatás vagy törlés megelőzéséről, illetőleg megakadályozását biztosító technikai és logikai védelemről.
-
-(4) A Hivatal – a külön jogszabályban meghatározott adatok körére vonatkozóan – adatokat köteles honlapján közzétenni.
-
-(5) A Hivatal köztisztviselői kötelesek megőrizni a feladatkörük ellátása során tudomásukra jutott, a Ket. szerinti védett adatot. Ez a kötelezettség a köztisztviselői jogviszony megszűnését követően is fennmarad.
+#### 155. §
 
 156. § A Hivatal a tagállamok felügyeleti hatóságainak kérésére jogosult rendelkezésre bocsátani a villamosenergia-rendszer és a villamosenergia-piac működésével kapcsolatos adatokat. Ha a Hivatal nem tudja átadni a kért információkat, ennek okairól értesíti a megkereső hatáskörrel rendelkező hatóságot.
 
-157. § A 150. § (3) és a 155. § (4) bekezdés szerint közzétételre kerülő információk közérdekből nyilvánosak.
+157. § A 150. § (3) bekezdés szerint közzétételre kerülő információk közérdekből nyilvánosak.
 
 157/A. § (1) Az elosztó az elosztó hálózat elemeiről és berendezéseiről köteles naprakész nyilvántartást vezetni.
 
@@ -2938,7 +2935,7 @@ villamos energia képezi.
 
 (2) A Hivatal a tanúsítási eljárás során megállapítja a szétválasztási szabályoknak való megfelelést, amennyiben az átviteli rendszerirányítási engedély kérelmezője, az átviteli rendszerirányító vagy az átviteli rendszerüzemeltetővé kijelölendő személy megfelel a 102–102/E. §-ában, a 103. §-ában vagy a 104. §-ában foglalt rá vonatkozó rendelkezéseknek. Amennyiben a tanúsítási eljárás során a Hivatal megállapítja, hogy az átviteli rendszerirányító vagy átviteli rendszerüzemeltetővé kijelölendő személy nem felel meg a 102–102/E. §-ában, a 103. §-ában vagy a 104. §-ában foglalt, rá vonatkozó szétválasztási szabályoknak, átviteli rendszerirányító esetén a 96. §-ban foglalt jogkövetkezményeket alkalmazza, átviteli rendszerüzemeltetővé kijelölendő személy esetén pedig nem jelöli ki átviteli rendszerüzemeltetővé.
 
-(3) A Hivatal a szétválasztási szabályoknak való megfelelés tárgyában a 168. § (4) bekezdés e) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt, a 714/2009/EK rendelet 3. cikkében meghatározott eljárás lefolytatása céljából haladéktalanul megküld az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és a 714/2009/EK rendelet 3. cikk (2) bekezdésében foglaltak szerint jár el.
+(3) A Hivatal a szétválasztási szabályoknak való megfelelés tárgyában a 168. § (2) bekezdés c) pontja meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt, a 714/2009/EK rendelet 3. cikkében meghatározott eljárás lefolytatása céljából haladéktalanul megküld az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és a 714/2009/EK rendelet 3. cikk (2) bekezdésében foglaltak szerint jár el.
 
 (4) Az átviteli rendszerirányító köteles bejelenteni a Hivatalnak minden olyan tervezett jogügyletet, amely a szétválasztási szabályoknak való megfelelés ismételt vizsgálatát teheti szükségessé.
 
@@ -2965,7 +2962,7 @@ villamos energia képezi.
   - bb) a Magyar Köztársaság harmadik országgal vagy országokkal kötött nemzetközi megállapodásaiból eredő és az adott harmadik országgal vagy országokkal szemben fennálló, az Európai Unió jogával összeegyeztethető jogait és kötelezettségeit, és
   - bc) az adott esetre és az érintett harmadik országra vonatkozó egyéb tényeket és körülményeket veszi figyelembe.
 
-(5) A Hivatal a tanúsítás megadása tárgyában a 168. § (4) bekezdésének h) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt haladéktalanul megküld az Európai Bizottságnak, és egyúttal megkéri véleményét arra vonatkozóan, hogy
+(5) A Hivatal a tanúsítás megadása tárgyában a 168. § (2) bekezdés f) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt haladéktalanul megküld az Európai Bizottságnak, és egyúttal megkéri véleményét arra vonatkozóan, hogy
 
 - a) az átviteli rendszerirányító megfelel-e a 2009/72/EK irányelv 9. cikkében foglalt követelményeknek, és
 - b) a tanúsítás megadása nem veszélyezteti-e az Európai Unió villamosenergia-ellátásának biztonságát.
@@ -2990,7 +2987,7 @@ villamos energia képezi.
 
 (2) A 110–111. § alkalmazása során a jelentős piaci erővel rendelkező engedélyesek azonosításával és a rájuk vonatkozó kötelezettségek előírásával kapcsolatos eljárásokban a Hivatal megfelelő határidő biztosításával a versenyhatóság szakmai álláspontját tartalmazó véleményét figyelembe veszi, amennyiben attól eltér, annak indokait a határozat indokolásában megjelöli.
 
-(3) A Hivatal és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy a Ket. szerinti törvény által védett titokhoz fűződő érdekek ne sérüljenek.
+(3) A Hivatal és a versenyhatóság az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy az Ákr. szerinti védett adathoz fűződő érdekek ne sérüljenek.
 
 (4) A Hivatal és a versenyhatóság az együttműködésük részletes szabályait megállapodásban rögzítik, és azt a nyilvánosság számára hozzáférhetővé teszik.
 
@@ -3003,7 +3000,7 @@ villamos energia képezi.
 
 együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes szabályait megállapodásban rögzítik és azt közzéteszik.
 
-(2) A Hivatal és a Felügyelet az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, vlamint azt, hogy a Ket. szerinti törvény által védett titokhoz fűződő érdekek ne sérüljenek.
+(2) A Hivatal és a Felügyelet az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, vlamint azt, hogy az Ákr. szerinti védett adathoz fűződő érdekek ne sérüljenek.
 
 ### Együttműködés a Nemzeti Adó- és Vámhivatallal
 
@@ -3011,7 +3008,7 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 
 (2) Az együttműködés keretében a Hivatal és a Nemzeti Adó- és Vámhivatal kölcsönösen adatszolgáltatást nyújt egymásnak az (1) bekezdésben meghatározott engedélyesek által határon keresztül ki- és beszállított, valamint belföldön vásárolt és értékesített villamos energia mennyiségéről.
 
-(3) A Hivatal és a Nemzeti Adó- és Vámhivatal az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy a Ket. szerinti törvény által védett titokhoz fűződő érdekek ne sérüljenek.
+(3) A Hivatal és a Nemzeti Adó- és Vámhivatal az együttműködés során köteles biztosítani, hogy eljárásaik az adatvédelemre vonatkozó jogszabályokkal összhangban legyenek, beleértve az esetlegesen más hatóságnak történő adattovábbítás esetét is, valamint azt, hogy az Ákr. szerinti védett adathoz fűződő érdekek ne sérüljenek.
 
 ### Kapcsolat a fogyasztóvédelmi hatósággal
 
@@ -3083,139 +3080,48 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 
 #### 166–167. §
 
-### A Hivatal eljárására vonatkozó
+### A Hivatal eljárására vonatkozó szabályok
 
-általános szabályok
+168. § (1) Az e törvényben meghatározott eljárásokban az Ákr. szabályait az e törvényben, valamint a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
-168. § (1)
+(2) Az ügyintézési határidő
 
-(2) A Hivatal helyszíni ellenőrzést tarthat az e törvény hatálya alá tartozó vállalkozás székhelyén, telephelyén, illetve minden olyan helyen, ahol e törvény szerinti engedélyköteles tevékenységet folytatnak, továbbá ahol engedélyben meghatározott eszközök vannak, az átviteli rendszerirányítónál és a vertikálisan integrált villamosenergia-ipari vállalkozásnál, valamint az átviteli rendszerüzemeltetőnél és az átviteli hálózat tulajdonosánál a Hivatal előzetes bejelentés nélkül is tarthat helyszíni ellenőrzést. A helyszíni ellenőrzést végző személy részére a Hivatal megbízólevelet állít ki, amelyet az engedélyes képviselőjének, alkalmazottjának, illetve meghatalmazottjának, kérésére át kell adni. Az üzemi berendezéseket érintő helyszíni ellenőrzést a munkavédelmi és műszaki-biztonsági előírások megtartásával kell lefolytatni.
+- a) korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 30 nap,
+- b) piacelemzés alapján jelentős piaci erővel rendelkező engedélyes azonosítására vagy kötelezettség előírására irányuló eljárásban 8 hónap,
+- c) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára 4 hónap, majd az eljárás felfüggesztését és az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének leteltét követően a határozat közzétételére vagy annak módosítására további, a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam,
+- d) a 39/E. § (2) bekezdése szerinti eljárásban 30 nap,
+- e) a XIII/A. Fejezetben szabályozott eljárásokban 15 hónap,
+- f) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára 4 hónap, majd az eljárás felfüggesztését és az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság eljárási határidejének lejártát követően a határozat közzétételére vagy módosítására további 2 hónap,
+- g) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 40 nap,
+- h) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárásban 25 nap,
+- i) az átviteli rendszerüzemeltetők és a kijelölt villamosenergiapiac-üzemeltetők által kialakított feltételek és módszertanok jóváhagyása esetében a 2015/1222/EU bizottsági rendeletben meghatározott időtartam,
+- j) az e törvény hatálya alá tartozó panaszeljárásban 55 nap.
 
-(3) A Hivatal jogosult az e törvény hatálya alá tartozó tevékenységgel – beleértve a horizontálisan integrált villamosenergia-ipari vállalkozások elsődleges energiaforrás- ellátáshoz kapcsolódó tevékenységét is – kapcsolatos iratokba betekinteni, ideértve az üzleti titkot tartalmazó iratokat is, továbbá jogosult az iratokról másolatot, kivonatot készíteni, feladatai ellátásához az engedélyestől eseti és rendszeres információt kérni.
+(3) Közigazgatási perben a Hivatal megtámadott határozata vonatkozásában a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a határozat
 
-(4) A Hivatal eljárása során az ügyintézés határideje
-
-- a) amennyiben e törvény eltérő rendelkezést nem tartalmaz, hatvan nap,
-- b) amennyiben a Hivatal
-  - ba) a hálózati engedélyessel szemben e törvényben foglalt kötelezettségeinek megsértése miatt benyújtott panaszügyben,
-  - bb) a hálózati engedélyestől eltérő engedélyessel szemben felmerülő, felhasználó által kezdeményezett panaszügyben, vagy
-  - bc) a vertikálisan integrált villamosenergia-ipari vállalkozás és annak átviteli rendszerirányító tagja, vagy az átviteli rendszerüzemeltető és az átviteli hálózat tulajdonosa közötti panaszügyben
-
-jár el, 45 nap,
-
-- c) a korlátozott villamosenergia-kereskedelmi engedélyezési ügyekben 25 nap,
-- d) amennyiben a Hivatal piacelemzés alapján jelentős piaci erővel rendelkező engedélyes azonosítása vagy kötelezettség előírására irányuló eljárásban jár el, hat hónap,
-- e) a 160. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az Európai Bizottság véleményének kézhezvételét követően vagy az Európai Bizottság 714/2009/EK rendelet 3. cikk (1) bekezdésében meghatározott eljárási határidejének letelte után az eljárás felfüggesztésének megszüntetésére és határozat közzétételére vagy annak módosítására a 714/2009/EK rendelet 3. cikk (2) bekezdésében meghatározott időtartam,
-- f) amennyiben a Hivatal a 39/E. § (2) bekezdése alapján jár el, 25 nap,
-- g) a XIII/A. Fejezetben szabályozott eljárások esetében tizenkét hónap,
-- h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárásban a határozat meghozatalára és azzal egyidejűleg az eljárás felfüggesztésére 4 hónap, az eljárás felfüggesztésére és a határozat közzétételére vagy módosítására az Európai Bizottság véleményének kézhezvételét vagy az Európai Bizottság eljárási határidejének lejártát követő 2 hónap,
-- i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 30 nap,
-- j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárás során 20 nap,
-- k)
-
-(4a)
-
-(4b) A Hivatal eljárása során az ügyintézés határideje az átviteli rendszerüzemeltetők és a kijelölt villamosenergiapiac-üzemeltetők által kialakított feltételek és módszertanok jóváhagyása esetében a 2015/1222/EU bizottsági rendeletben egyedileg meghatározott határidők.
-
-(5) A Hivatal az ügyfél kérelmére hatósági ellenőrzést folytathat le.
-
-(6) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül hiánypótlásra hívja fel.
-
-(7) Ellenérdekű ügyfél hiányában a Hivatal eljárása során részben, vagy egészben eltekinthet a magyar nyelv kötelező használatától, valamint az iratok magyar nyelven történő benyújtásától. Ebben az esetben az iratokról magyar nyelvű összefoglalót kell benyújtani a Hivatalhoz.
-
-(8)
-
-(9) A Hivatal köteles határozatait nyilvánosan közzétenni.
-
-(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
-
-(11) A Hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
-
-(12) A Hivatallal szemben – hatósági jogkörben hozott határozatai miatt – kártérítési igény csak akkor érvényesíthető, ha a Hivatal határozata, vagy mulasztása törvénysértő és a bekövetkezett kárt közvetlenül ez idézte elő.
-
-(13) A Hivatal döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
-
-(14)
-
-(15)
-
-(15a) Bírósági felülvizsgálat iránti kérelem esetén nincs helye a végrehajtás felfüggesztésének, ha a határozat
-
-- a) végső menedékes kijelölési eljárás során az engedélyes egyes engedélyesi jogait korlátozza, az engedélyét visszavonja vagy végső menedékest jelöl ki,
+- a) végső menedékes kijelölési eljárás során az engedélyes egyes engedélyesi jogait korlátozza, az engedélyt visszavonja vagy végső menedékest jelöl ki,
 - b) a kiegyenlítő energia meghatározásának módját és elszámolásának feltételeit hagyja jóvá,
-- c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó eljárások jóváhagyását, vagy
+- c) a rendszerösszekötő vezetékhez való hozzáférés feltételeit, beleértve a kapacitásallokálás és a szűk keresztmetszetek kezelésére vonatkozó jóváhagyását tartalmazza,
 - d) a magánvezeték üzemeltetésére átmenetileg elosztót jelöl ki,
 - e) a folyamatos ellátás vagy a folyamatos közvilágítás biztosítása érdekében más engedélyest jelöl ki,
-- f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit korlátozza,
-- g)
+- f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit módosítja.
 
-(16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
+(4) Közigazgatási perben a bíróság
 
-(17) A Hivatal eljárásai során a panaszok és a közérdekű bejelentések tekintetében – a (18) bekezdés szerinti eltéréssel – a panaszokról és a közérdekű bejelentésekről szóló törvény rendelkezései alapján jár el.
+- a) a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntést,
+- b) a tanúsítási eljárás eredményeképpen hozott határozatot,
+- c) a más engedélyes kijelölési eljárás során hozott határozatot továbbá
+- d) a végső menedékes kijelölési eljárásban hozott határozatot
 
-(18) A Hivatal az 57. § (4a) és (5) bekezdése szerinti panaszokról a Ket. szerinti hatósági eljárásban hoz döntést.
+nem változtathatja meg.
 
-(19) A Hivatalnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(5) A 159. § (1) bekezdés 2. és 13. pontjában, valamint a 159. § (5) bekezdés 4. pontjában közvetlenül érintett az engedélyes.
 
-(20) A Hivatal 159. § (5) bekezdése 2. pontja szerinti eljárásaiban a Ket. 33/A. §-a nem alkalmazható.
-
-(21) A Hivatal az eljárását a Ket. 32. § (1) bekezdésében foglaltak szerint felfüggesztheti.
-
-(22) Az ügyfelet nem illeti meg a kérelmezett jog gyakorlása, ha a Hivatal az előírt ügyintézési határidőn belül nem hoz döntést és a kérelmezett jog gyakorlásáról szóló rendelkezést tartalmazó függő hatályú döntés meghozatalának nem volt helye.
+(6) A Hivatal véglegessé vált határozatait – az e törvény hatálya alá tartozó panaszeljárások, illetve a személyes és védett adatok kivételével – a honlapján közhírré teszi.
 
 #### 168/A. §
 
-### Energetikai Állandó Választottbíróság
-
-169. § (1) A Hivatal megalapítja az Energetikai Állandó Választottbíróságot.
-
-(2) Az Energetikai Állandó Választottbíróság hatáskörére, eljárására a választottbíráskodásról szóló 1994. évi LXXI. törvény (a továbbiakban: Vbt.) rendelkezéseit a (3)–(6) bekezdésben meghatározott eltérésekkel kell alkalmazni.
-
-(3) A felek erre irányuló megállapodása esetén az Energetikai Állandó Választottbíróság eljárásának van helye hazai és nemzetközi ügyekben, ha legalább a felek egyike
-
-- a) e törvény, a Get. vagy a Tszt. szerinti engedélyköteles tevékenységet folytató engedélyes, vagy
-- b) Magyarországon engedélykötelesnek minősülő energetikai tevékenységet folytató külföldi székhelyű gazdasági társaság.
-
-(3a) Az Energetikai Állandó Választottbíróság eljárásának nincs helye, ha a felek egyike a Ptk. szerint fogyasztónak minősülő személy.
-
-(4) Az Energetikai Állandó Választottbíróság eljárásának e § szerinti kikötése nem érinti a jelen törvény hatálybalépése előtt megkötött egyedi szerződésben a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróság hatáskörének kikötésére vonatkozó esetleges előírás érvényességét. Az ilyen kikötések alapján a jogvita választottbírósági rendezésére továbbra is – a felek eltérő rendelkezése hiányában – a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróságnak van hatásköre.
-
-(5) Az Energetikai Állandó Választottbíróság választottbírói testületének tagjait a Hivatal elnöke jelöli ki meghatározott időre. Nem lehet az Energetikai Állandó Választottbíróság választottbírói testületének tagja a Hivatal elnöke, illetve a Hivatal egyéb alkalmazottja. A feleknek egyesbíró esetén az egyesbírót, eljáró tanács esetén legalább a tanács elnökét a választottbírói testület tagjai közül kell kijelölniük.
-
-(6) Az Energetikai Állandó Választottbíróság jogi személy. Székhelye Budapest.
-
-(7) Az Energetikai Állandó Választottbíróság jogi személyiségét alapító okiratának a Hivatalos Értesítőben történő közzététele napjával nyeri el. A közzétételt a Hivatal elnöke rendeli el az Energetikai Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az alapító okiratot.
-
-(8) Az Energetikai Állandó Választottbíróság egyeztető eljárás lefolytatására is jogosult a közvetítői tevékenységről szóló 2002. évi LV. törvény szabályainak megfelelően.
-
-(9) Az Energetikai Állandó Választottbíróság alapító okiratában meg kell határozni:
-
-- a) a választottbíróság szervezeti rendjét,
-- b) az elnökség tagjai kijelölésének szabályait,
-- c) a választottbíróság képviseletének rendjét,
-- d) az elnökség feladatait, jogkörét,
-- e) az alapítói hozzájárulás összegét.
-
-(10) Az Energetikai Állandó Választottbíróság működésének forrásai:
-
-- a) alapítói hozzájárulások,
-- b) választottbírósági díjak,
-- c) a vagyon hozama,
-- d) egyéb bevételek.
-
-(11) Az Energetikai Állandó Választottbíróság szervezete a választottbírói testületből, a testület tagjai közül kijelölt legalább három, legfeljebb öttagú elnökségből és a Gazdasági Hivatalból áll.
-
-(12) Az elnökség az Energetikai Állandó Választottbíróság általános irányító szerve. Az elnökség kijelölésének és működésének szabályait az alapító okirat és az Energetikai Állandó Választottbíróság szabályzatai tartalmazzák.
-
-(13) Az Energetikai Állandó Választottbíróságot harmadik személlyel szemben, bíróság és hatóságok előtt az elnökség tagjai, illetve az általuk arra felhatalmazott személyek képviselik az Energetikai Állandó Választottbíróság szabályzataiban meghatározott módon.
-
-(14) Az Energetikai Állandó Választottbíróság szabályzatait az alapító okirata szerint maga állapítja meg.
-
-(15) Az Energetikai Állandó Választottbíróság eszközei nem vonhatók el, azok kizárólag a tevékenysége gyakorlásával kapcsolatban használhatóak fel.
-
-(16) Az Energetikai Állandó Választottbíróság tevékenysége a választottbíráskodás és annak szervezése, ideértve az ezzel kapcsolatos tudományos, oktatási és tájékoztatási tevékenységet, valamint szervezetének működtetését is. Az Energetikai Állandó Választottbíróság vállalkozói tevékenységet nem végezhet.
-
-(17) Az Energetikai Állandó Választottbíróság szabad pénzeszközét kizárólag bankbetétben tarthatja vagy állampapírba fektetheti be.
+#### 169. §
 
 ### XX. Fejezet — FELHATALMAZÓ RENDELKEZÉSEK
 
@@ -3305,7 +3211,7 @@ rendeletben állapítsa meg.
   - d)
 - 20. az 1227/2011/EU európai parlamenti és tanácsi rendelet 9. cikkében meghatározott nemzeti nyilvántartás létrehozásával és működtetésével kapcsolatos részletes szabályokat,
 - 21. az 1227/2011/EU európai parlamenti és tanácsi rendelet szerinti bennfentes információk közzétételével kapcsolatos részletszabályokat,
-- 22. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit,
+- 22. az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikk (5) bekezdése szerinti a Hivatal részére teljesítendő adatszolgáltatás formai követelményeit
 - 23. a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználását elősegítő kötelező átvételi rendszerben és prémium típusú támogatási rendszerben kiosztható új támogatási jogosultságok maximális mértékét,
 - 24. a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználását elősegítő prémium típusú támogatás kiosztására irányuló pályázat kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait
 
@@ -3380,19 +3286,19 @@ rendeletben állapítsa meg.
 
 #### 171/A. §
 
-172. § (1) A hálózati engedélyes a kérelem benyújtását megelőzően legalább tíz évvel korábban idegen ingatlanon megépült és üzembe helyezett közcélú átviteli és elosztó vezeték, tartószerkezet és azon elhelyezett átalakító- és kapcsolóberendezés tekintetében, amennyiben azok elhelyezésére vonatkozó vezetékjog alapítása nem történt meg, vagy a vezetékjogi engedély nem lelhető fel, illetve a vezetékjog az ingatlan-nyilvántartásba nem került bejegyzésre, a 116. § szerinti Hatóságtól e törvény hatálybalépésétől számított hat éven belül kérheti a vezetékjog megállapítását, vagy a vezetékjog bejegyzésére alkalmas határozat kiadását. A vezetékjog fennállását és keletkezésének időpontját a határozatban kell megállapítani. A vezetékjog ingatlan-nyilvántartásba történő bejegyzésére a 116. § szerinti Hatóság jogerős határozata alapján kerülhet sor.
+172. § (1) A hálózati engedélyes a kérelem benyújtását megelőzően legalább tíz évvel korábban idegen ingatlanon megépült és üzembe helyezett közcélú átviteli és elosztó vezeték, tartószerkezet és azon elhelyezett átalakító- és kapcsolóberendezés tekintetében, amennyiben azok elhelyezésére vonatkozó vezetékjog alapítása nem történt meg, vagy a vezetékjogi engedély nem lelhető fel, illetve a vezetékjog az ingatlan-nyilvántartásba nem került bejegyzésre, a 116. § szerinti Hatóságtól e törvény hatálybalépésétől számított hat éven belül kérheti a vezetékjog megállapítását, vagy a vezetékjog bejegyzésére alkalmas határozat kiadását. A vezetékjog fennállását és keletkezésének időpontját a határozatban kell megállapítani. A vezetékjog ingatlan-nyilvántartásba történő bejegyzésére a 116. § szerinti Hatóság véglegessé vált határozata alapján kerülhet sor.
 
-(2) A Hatóság a jogerős határozattal megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
+(2) A Hatóság a véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
 
 (3) A vezetékjog megállapítása, illetve annak utólagos bejegyzése az ingatlannal kapcsolatban többlet jogokat és kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
 
-173. § (1) A hálózati engedélyes a kérelem benyújtását megelőzően legalább tíz éven belül idegen ingatlanon megépült és üzembe helyezett, vezetékjoggal rendelkező közcélú átviteli és elosztó vezeték, tartószerkezet és azon elhelyezett átalakító- és kapcsolóberendezés tekintetében, amennyiben a vezetékjog az ingatlan-nyilvántartásba nem került bejegyzésre, a 116. § szerinti Hatósághoz e törvény hatálybalépésétől számított öt éven belül egyszerűsített üzemeltetési engedély iránti kérelmet nyújthat be. A vezetékjog ingatlan-nyilvántartásba történő bejegyzésére a 116. § szerinti Hatóság jogerős egyszerűsített engedélye alapján kerülhet sor.
+173. § (1) A hálózati engedélyes a kérelem benyújtását megelőzően legalább tíz éven belül idegen ingatlanon megépült és üzembe helyezett, vezetékjoggal rendelkező közcélú átviteli és elosztó vezeték, tartószerkezet és azon elhelyezett átalakító- és kapcsolóberendezés tekintetében, amennyiben a vezetékjog az ingatlan-nyilvántartásba nem került bejegyzésre, a 116. § szerinti Hatósághoz e törvény hatálybalépésétől számított öt éven belül egyszerűsített üzemeltetési engedély iránti kérelmet nyújthat be. A vezetékjog ingatlan-nyilvántartásba történő bejegyzésére a 116. § szerinti Hatóság véglegessé vált egyszerűsített engedélye alapján kerülhet sor.
 
-(2) A jogerős egyszerűsített üzemeltetési engedéllyel a Hatóság megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
+(2) A véglegessé vált egyszerűsített üzemeltetési engedéllyel a Hatóság megkeresi az ingatlanügyi hatóságot a vezetékjog ingatlan-nyilvántartásba történő bejegyzése iránt. Amennyiben a vezetékjog nem az egész földrészletet érinti, akkor a határozathoz mellékelni kell az ingatlan érintett részét ábrázoló, az ingatlanügyi hatóság által záradékolt vázrajzot is.
 
 (3) Az egyszerűsített üzemeltetési engedély, illetve a vezetékjog utólagos bejegyzése az ingatlannal kapcsolatban többlet jogokat és kötelezettségeket nem keletkeztethet, így nem teremt jogalapot kártalanítási igény érvényesítésére sem.
 
-(4) A hálózati engedélyes a 124. § (2) bekezdés szerinti jogokat érvényesítheti 2011. október 1-jét megelőzően kiadott jogerős vezetékjoga, vagy jogerős üzemeltetési engedélye alapján.
+(4) A hálózati engedélyes a 124. § (2) bekezdés szerinti jogokat érvényesítheti 2011. október 1-jét megelőzően kiadott jogerős vezetékjoga, vagy véglegessé vált üzemeltetési engedélye alapján.
 
 174. § (1) E törvény 116. § (3) bekezdésének az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított d) pontjának hatálybalépést megelőzően épült csatlakozó berendezések jogszerűen fennmaradnak azzal, hogy ezen csatlakozó berendezésekre
 
@@ -3453,15 +3359,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (7)
 
-178/A. § (1) A 2009. szeptember 3-án átviteli rendszerirányítási engedéllyel rendelkező engedélyes legkésőbb 2011. május 31-ig köteles kérelmezni a Hivatalnál a tanúsítási eljárás megindítását.
-
-(2) A kérelemben a kérelmező részletesen igazolja és bemutatja, hogy legkésőbb 2012. március 3-ától miként felel meg az átviteli rendszerirányítóra ezen időponttól kezdődően vonatkozó szétválasztási szabályoknak.
-
-(3) Az átviteli rendszerirányító az eredményes tanúsítást kimondó határozat közlésétől számított 30 napon belül köteles új átviteli rendszerirányítási engedély iránti kérelmet benyújtani, és azzal egyidejűleg a megfelelési programját, valamint üzletszabályzatát jóváhagyásra benyújtani.
-
-(4) Az (1) és (3) bekezdésben foglaltak végrehajtása során a kérelmező nem mentesül az igazgatási szolgáltatási díjfizetési kötelezettsége alól, azzal, hogy a tanúsítási eljárás lefolytatása iránti kérelem elbírálásáért fizetendő igazgatási szolgáltatási díj megegyezik az átviteli rendszerirányítási működési engedély iránti kérelem elbírálásáért fizetendő díjjal.
-
-(5) Az átviteli rendszerirányító az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény hatálybalépésekor hatályos átviteli rendszerirányításra vonatkozó működési engedélye az e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel módosított rendelkezései alapján kiadott működési engedélyének közléséig vagy a Hivatal annak visszavonására irányuló határozatának jogerőre emelkedéséig hatályban marad. Eddig az időpontig az átviteli rendszerirányító az átviteli rendszerirányítóra vonatkozó szabályoknak tekintetében az átviteli rendszerirányításra vonatkozó működési engedélyének és az annak kiadása alapjául szolgáló jogszabályoknak a szabályokra vonatkozó rendelkezései irányadóak.
+#### 178/A. §
 
 178/B. § (1) A Hivatal a rendszerhasználati és a csatlakozási díjakat, valamint alkalmazásuk feltételeit első alkalommal 2012. január 1-jei hatállyal állapítja meg az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény hatálybalépését megelőzően a Hivatal által a 2009–2012. közötti időszakra vonatkozóan a villamos energia rendszerhasználati díjak szabályozásáról kiadott módszertani útmutató alapján.
 
@@ -3469,7 +3367,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (3)–(7)
 
-178/C. § A Hivatal e törvény rendelkezései alapján hozott – a kötelező átvétel mennyiségét és időtartamát meghatározó – határozataira, amennyiben azok jogerőre emelkedését követően a határozatokban megjelölt kereskedelmi üzembe helyezési időponttól a termelő kereskedelmi üzemét nem kezdte meg, e törvény 91. § (1) és (4) bekezdésének rendelkezéseit kell alkalmazni. Ez a rendelkezés nem vonatkozik e törvény 171. § (6) bekezdése alapján hozott, kötelező átvétel időtartamának meghosszabbítására vonatkozó határozatokra.
+178/C. § A Hivatal e törvény rendelkezései alapján hozott – a kötelező átvétel mennyiségét és időtartamát meghatározó – határozataira, amennyiben azok véglegessé válását követően a határozatokban megjelölt kereskedelmi üzembe helyezési időponttól a termelő kereskedelmi üzemét nem kezdte meg, e törvény 91. § (1) és (4) bekezdésének rendelkezéseit kell alkalmazni. Ez a rendelkezés nem vonatkozik e törvény 171. § (6) bekezdése alapján hozott, kötelező átvétel időtartamának meghosszabbítására vonatkozó határozatokra.
 
 #### 178/D. §
 
@@ -3491,7 +3389,7 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 178/H. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény és a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2013. évi XII. törvénnyel (a továbbiakban: Módtv.) megállapított 140. § (4) és (5) bekezdését a folyamatban lévő bírósági és hatósági eljárásokban is alkalmazni kell.
 
-(2) A Módtv.-vel megállapított 168/A. § (4) bekezdését a folyamatban lévő elsőfokú bírósági és felülvizsgálati eljárásokban is alkalmazni kell, amelyekben a bíróság a Hivatal határozatának hatályon kívül helyezéséről dönt.
+(2) A Módtv.-vel megállapított 168/A. § (4) bekezdését a folyamatban lévő közigazgatási per és felülvizsgálati eljárásokban is alkalmazni kell, amelyekben a bíróság a Hivatal határozatának hatályon kívül helyezéséről dönt.
 
 178/I. § Az elosztó kivételével a közvilágítási berendezés üzemeltetésére a közvilágításra kötelezettel a szociális közműszolgáltatás kialakítása érdekében egyes energetikai tárgyú törvények módosításáról szóló 2013. évi XXIV. törvény (a továbbiakban: Mód. 2. törvény) hatálybalépését megelőzően megállapodást kötött személyek kötelesek a Mód. 2. törvény hatálybalépésétől számított 90 napon belül közvilágítási üzemeltetési engedély iránti kérelmet benyújtani a Hivatalhoz.
 
@@ -3556,11 +3454,13 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (2) E törvénynek az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 143. § (5) bekezdése, 146. § (4) bekezdése és 146/A. § (3) bekezdése alapján kiadott határozatok nem lépnek hatályba.
 
-(3) Amennyiben az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvény hatálybalépésekor az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 143. § (5) bekezdése, 146. § (4) bekezdése és 146/A. § (3) bekezdése alapján kiadott határozatok bírósági felülvizsgálata folyamatban van, a bíróság az eljárását megszünteti.
+(3) Amennyiben az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvény hatálybalépésekor az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 143. § (5) bekezdése, 146. § (4) bekezdése és 146/A. § (3) bekezdése alapján kiadott határozatok elleni közigazgatási per folyamatban van, a bíróság az eljárását megszünteti.
 
 (4) E törvénynek az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvénnyel megállapított rendelkezéseit a folyamatban lévő hatósági eljárásokban és bírósági eljárásokban is alkalmazni kell.
 
 178/V. § A 146/A. §-nak a nemzeti versenyképesség növeléséhez szükséges egyes törvénymódosításokról szóló 2017. évi CXXXVII. törvénnyel megállapított (10) és (11) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+178/V. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 

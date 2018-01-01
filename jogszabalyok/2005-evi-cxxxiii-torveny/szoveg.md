@@ -94,7 +94,7 @@ E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek ré
 - a) aki büntetett előéletű,
 - b) akit
   - ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmény (1978. évi IV. törvény X. fejezet), emberiség elleni bűncselekmény (1978. évi IV. törvény XI. fejezet), személy elleni bűncselekmény [1978. évi IV. törvény 166–168. §, 170. § (2)–(6) bekezdés, 171. §, 174. §, 174/A. §, 174/B. §, 174/C. §, 175. §, 175/A. §, 175/B. §, 176. § (2) bekezdés b) pont és (3)–(4) bekezdés], nemi erkölcs elleni erőszakos bűncselekmény [1978. évi IV. törvény 197. és 198. §, 207. § (3) bekezdés b) pont], hivatali bűncselekmény (1978. évi IV. törvény XV. fejezet, IV. cím), hivatalos személy elleni bűncselekmények (1978. évi IV. törvény XV. fejezet V. cím), embercsempészés (1978. évi IV. törvény 218. §), közveszélyokozás [1978. évi IV. törvény 259. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (1978. évi IV. törvény 260. §), terrorcselekmény (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), visszaélés radioaktív anyaggal (1978. évi IV. törvény 264. §), visszaélés nukleáris létesítmény üzemeltetésével (1978. évi IV. törvény 264/A. §), visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), tiltott állatviadal szervezése (1978. évi IV. törvény 266/A. §), állatkínzás (1978. évi IV. törvény 266/B. §), garázdaság (1978. évi IV. törvény 271. §), önbíráskodás (1978. évi IV. törvény 273. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), visszaélés kábítószer-prekurzorral (1978. évi IV. törvény 283/A. §), visszaélés új pszichoaktív anyaggal (1978. évi IV. törvény 283/B. §), vagyon elleni szándékos bűncselekmény (1978. évi IV. törvény 316–324. §, 326. §, 327. §) vagy szökés és elöljáró vagy szolgálati közeg elleni erőszak fegyveresen elkövetett esetei [1978. évi IV. törvény 343. § (2) bekezdés a) pont és (4)–(5) bekezdés, valamint 1978. évi IV. törvény 355. § (2) bekezdés a) pont] alapján,
-  - bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmény (Btk. XIII. Fejezet), háborús bűncselekmény (Btk. XIV. Fejezet), emberölés (Btk. 160. §), erős felindulásban elkövetett emberölés (Btk. 161. §), öngyilkosságban közreműködés (Btk. 162. §), testi sértés [Btk. 164. § (3)–(8) bekezdés], foglalkozás körében elkövetett veszélyeztetés (Btk. 165. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), emberrablás (Btk. 190. §), emberrablás feljelentésének elmulasztása (Btk. 191. §), emberkereskedelem (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), kényszerítés (Btk. 195. §), szexuális erőszak (Btk. 197. §), kerítés [Btk. 200. § (4) bekezdés c) pont], a lelkiismereti és vallásszabadság megsértése (Btk. 215. §), közösség tagja elleni erőszak (Btk. 216. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (Btk. 217. §), magánlaksértés [Btk. 221. § (2) bekezdés b) pont és (3)–(4) bekezdés], állatkínzás (Btk. 244. §), orvvadászat (Btk. 245. §), orvhalászat (Btk. 246. §), tiltott állatviadal szervezése (Btk. 247. §), radioaktív anyaggal visszaélés (Btk. 250. §), nukleáris létesítmény üzemeltetésével visszaélés (Btk. 251. §), atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmény (Btk. XXIV. Fejezet), hivatali bűncselekmény (Btk. XXVIII. Fejezet), hivatalos személy elleni bűncselekmény (Btk. XXIX. Fejezet), terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), jármű hatalomba kerítése (Btk. 320. §), bűnszervezetben részvétel (Btk. 321. §), közveszély okozása [Btk. 322. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 323. §), robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §), garázdaság (Btk. 339. §), embercsempészés (Btk. 353. §), vagyon elleni erőszakos bűncselekmények (Btk. XXXV. Fejezet), lopás (Btk. 370. §), rongálás (Btk. 371. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), hűtlen kezelés (Btk. 376. §), hanyag kezelés (Btk. 377. §), orgazdaság (Btk. 379. §), jármű önkényes elvétele (Btk. 380. §), vagy szökés és elöljáró vagy szolgálati közeg elleni erőszak fegyveresen elkövetett esetei [Btk. 434. § (2) bekezdés a) pont és (3)–(4) bekezdés, valamint Btk. 445. § (2) bekezdés a) pont] alapján, vagy
+  - bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmény (Btk. XIII. Fejezet), háborús bűncselekmény (Btk. XIV. Fejezet), emberölés (Btk. 160. §), erős felindulásban elkövetett emberölés (Btk. 161. §), öngyilkosságban közreműködés (Btk. 162. §), testi sértés [Btk. 164. § (3)–(8) bekezdés], foglalkozás körében elkövetett veszélyeztetés (Btk. 165. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), emberrablás (Btk. 190. §), emberrablás feljelentésének elmulasztása (Btk. 191. §), emberkereskedelem (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), kényszerítés (Btk. 195. §), szexuális erőszak (Btk. 197. §), kerítés [Btk. 200. § (4) bekezdés c) pont], a lelkiismereti és vallásszabadság megsértése (Btk. 215. §), közösség tagja elleni erőszak (Btk. 216. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (Btk. 217. §), magánlaksértés [Btk. 221. § (2) bekezdés b) pont és (3)–(4) bekezdés], állatkínzás (Btk. 244. §), orvvadászat (Btk. 245. §), orvhalászat (Btk. 246. §), tiltott állatviadal szervezése (Btk. 247. §), radioaktív anyaggal visszaélés (Btk. 250. §), nukleáris létesítmény üzemeltetésével visszaélés (Btk. 251. §), atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmény (Btk. XXIV. Fejezet), hivatali bűncselekmény (Btk. XXVIII. Fejezet), hivatalos személy elleni bűncselekmény (Btk. XXIX. Fejezet), terrorcselekmény (Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), jármű hatalomba kerítése (Btk. 320. §), bűnszervezetben részvétel (Btk. 321. §), közveszély okozása [Btk. 322. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 323. §), robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §), garázdaság (Btk. 339. §), embercsempészés (Btk. 353. §), vagyon elleni erőszakos bűncselekmények (Btk. XXXV. Fejezet), lopás (Btk. 370. §), rongálás (Btk. 371. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), hűtlen kezelés (Btk. 376. §), hanyag kezelés (Btk. 377. §), orgazdaság (Btk. 379. §), jármű önkényes elvétele (Btk. 380. §), vagy szökés és elöljáró vagy szolgálati közeg elleni erőszak fegyveresen elkövetett esetei [Btk. 434. § (2) bekezdés a) pont és (3)–(4) bekezdés, valamint Btk. 445. § (2) bekezdés a) pont] alapján, vagy
   - bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, elítéltek, és a (4) bekezdésben meghatározott időtartam még nem telt el;
 - c) aki ellen kétévi vagy ennél hosszabb tartamú szabadságvesztéssel fenyegetett szándékos bűncselekmény elkövetésének gyanúja miatt büntetőeljárás folyik, a büntetőeljárás jogerős befejezéséig.
 
@@ -117,7 +117,9 @@ E törvény célja, hogy – a közrend, a közbiztonság javítása, s ezek ré
 
 (2a) Az (1) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A rendőrség az adatokat a működési engedély vagy az igazolvány visszavonásáig tartja nyilván. Az 5. § (4) bekezdés b) pontjában és az 5/A. § (5) bekezdés b) pontjában foglaltak ellenőrzése céljából a rendőrség a felügyeleti bírsággal sújtott vállalkozások adatait a felügyeleti bírság kiszabását követő két évig tartja nyilván, ha a kiszabott bírságot a bírsággal sújtott vállalkozás a határozat jogerőre emelkedésétől számított két éven belül nem fizeti meg.
+(2b) A rendőrség az (1) bekezdés szerinti nyilvántartás adatai alapján a magánnyomozói tevékenység folytatására jogosult adatairól, kérelmére, hatósági bizonyítványt állít ki automatikus döntéshozatal keretében.
+
+(3) A rendőrség az adatokat a működési engedély vagy az igazolvány visszavonásáig tartja nyilván. Az 5. § (4) bekezdés b) pontjában és az 5/A. § (5) bekezdés b) pontjában foglaltak ellenőrzése céljából a rendőrség a felügyeleti bírsággal sújtott vállalkozások adatait a felügyeleti bírság kiszabását követő két évig tartja nyilván, ha a kiszabott bírságot a bírsággal sújtott vállalkozás a határozat véglegessé válásától számított két éven belül nem fizeti meg.
 
 (4) A nyilvántartásból adattovábbításra irányuló kérelmet – ha törvény eltérően nem rendelkezik – teljesíteni nem lehet.
 
@@ -458,7 +460,7 @@ meg kell semmisíteni.
 
 ### A kamarai tagsági viszony
 
-39. § (1) Az e törvény hatálya alá tartozó tevékenység személyes végzésére jogosító igazolvánnyal rendelkező személy kérheti a kamarába történő felvételét. A kérelmező személy a tagfelvételéről szóló kamarai határozat jogerőssé válásának napjától a lakóhelye szerint illetékes területi szervezet tagja.
+39. § (1) Az e törvény hatálya alá tartozó tevékenység személyes végzésére jogosító igazolvánnyal rendelkező személy kérheti a kamarába történő felvételét. A kérelmező személy a tagfelvételéről szóló kamarai határozat véglegessé válásának napjától a lakóhelye szerint illetékes területi szervezet tagja.
 
 (2) A kamarában minden természetes személy – igazolványai számától függetlenül – csak egy tagsággal rendelkezhet.
 
@@ -677,7 +679,7 @@ meg kell semmisíteni.
 
 (2) Az etikai bizottság által lefolytatott eljárásban hozott határozat ellen a kézbesítéstől számított 15 napon belül a bejelentő, az etikai eljárás alá vont, valamint más, a határozattal érintett személy – az etikai szabályzatban foglaltaknak megfelelően – halasztó hatályú fellebbezéssel élhet.
 
-(3) A másodfokú etikai eljárásban hozott határozat ellen a bejelentő, az etikai eljárás alá vont, vagy más, a határozattal érintett személy a kézbesítéstől számított harminc napon belül – a közigazgatási perekre irányadó szabályok szerint – bírósághoz fordulhat.
+(3)
 
 ### Törvényességi felügyelet
 
@@ -691,26 +693,23 @@ meg kell semmisíteni.
 - b) a kamara szerveinek határozatai nem sértik-e a jogszabályokat, az alapszabályt és az egyéb önkormányzati szabályzatokat,
 - c) a kamara működése megfelel-e a jogszabályoknak, az alapszabálynak és az egyéb önkormányzati szabályzatoknak.
 
-(4) Ha a belügyminiszter az ellenőrzés során szabálytalanságot tapasztal, a törvényesség helyreállítására – határidő megjelölése mellett – felhívja a kamara elnökét. Ha a kamara működésének törvényessége másképpen nem állítható helyre, a rendészetért felelős miniszter a határidő leteltétől számított harminc napon belül bírósághoz fordulhat.
+(4) Ha a rendészetért felelős miniszter az ellenőrzés során szabálytalanságot tapasztal, a törvényesség helyreállítására – határidő megjelölése mellett – felhívja a kamara elnökét.
 
-62. § (1) Ha a bíróság a rendészetért felelős miniszter a 61. § (4) bekezdése szerint előterjesztett keresete alapján jogsértést állapít meg,
+62. § (1)
 
-- a) hatályon kívül helyezheti a kamara testületi szervének jogsértő határozatát és új határozat hozatalát rendelheti el;
-- b) felfüggesztheti a kamara testületi szerveinek és tisztségviselőinek működését és a kamara irányítására – a felfüggesztés tartamára – felügyelőbiztost rendelhet ki.
-
-(2) A felügyelőbiztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a kamara küldöttgyűlését. Ha a küldöttgyűlés a működés törvényességét helyreállította, a bíróság a kamara más testületi szervének és tisztségviselőinek működésére vonatkozó felfüggesztést megszünteti.
+(2)
 
 (3) Nem rendelhető ki felügyelőbiztosként a köztisztviselő, a kormánytisztviselő, szolgálati viszonya fennállása alatt a rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja, továbbá a rendőrség személy- és vagyonvédelmi vagy tervező-szerelő tevékenységet érintő hatósági feladatok ellátásában közreműködő nem hivatásos állományú munkatársa.
 
-(4) A felügyelőbiztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot, valamint a törvényességi felügyeletet ellátó minisztert.
+(4)
 
-(5) A felügyelőbiztos díjazását és költségtérítését a bíróság állapítja meg.
+(5)
 
 ### A személy- és vagyonőr intézkedésével szembeni panasz elbírálása
 
-62/A. § (1) Az intézkedést foganatosító személy- és vagyonőrrel szemben benyújtott panaszt az intézkedés helye szerint illetékes az alapszabályban meghatározott területi szervezet bírálja el harminc napon belül közigazgatási hatósági eljárás szabályai szerint.
+62/A. § (1) Az intézkedést foganatosító személy- és vagyonőrrel szemben benyújtott panaszt az intézkedés helye szerint illetékes az alapszabályban meghatározott területi szervezet bírálja el harmincöt napon belül közigazgatási hatósági eljárás szabályai szerint.
 
-(2) A első fokú döntés ellen benyújtott fellebbezés elbírálását az országos szervezet alapszabályában kijelölt szerve bírálja el.
+(2) Az (1) bekezdés szerinti panasz elbírálására irányuló eljárásban az elsőfokú döntés ellen fellebbezésnek van helye. A fellebbezés elbírálását az országos szervezet alapszabályában kijelölt szerve bírálja el.
 
 ### V. Fejezet — FELÜGYELETI BÍRSÁG
 
@@ -870,6 +869,7 @@ lépnek hatályba.
 
 - a) a vagyonvédelmi szolgáltatási tevékenységre irányuló közbeszerzés esetén alkalmazandó minimális vagyonvédelmi szolgáltatási rezsióradíj elemeit,
 - b) a tárgyévre vonatkozó minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét, valamint ezen szabályozás előkészítésére vonatkozó eljárás szabályait,
+- c) az általános közigazgatási rendtartásról szóló törvény rendelkezéseitől eltérő és azokat kiegészítő, a személy- és vagyonvédelmi, valamint magánnyomozói tevékenységre vonatkozó közigazgatási hatósági eljárási szabályokat
 
 rendelettel állapítsa meg.
 
@@ -877,10 +877,10 @@ rendelettel állapítsa meg.
 
 78. § Felhatalmazást kap a rendészetért felelős miniszter, hogy
 
-- a) a működési engedélyre és igazolványra, a kiadásuk iránti kérelemre,
+- a)
 - b) – az adópolitikáért felelős miniszterrel egyetértésben – e törvény hatálya alá eső tevékenység engedélyezésével és az igazolvány kiadásával kapcsolatos igazgatási szolgáltatási díjra,
 - c) a felelősségbiztosítási szerződésre,
-- d) az e törvény hatálya alá eső tevékenységet folytatók rendőrségi ellenőrzésére, a jogsértés esetén alkalmazható intézkedésekre,
+- d)
 - e) a 31. § (7) bekezdésében meghatározott jegyzőkönyvre,
 - f) az e törvényben meghatározott tevékenységek végzéséhez szükséges szakképesítésekre
 

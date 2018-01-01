@@ -252,7 +252,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 19. § (1) A fizetési számla felett természetes személy számlatulajdonos a fizetési számlaszerződésben meghatározott módon, önállóan vagy más személlyel együttesen vagy külön-külön rendelkezhet.
 
-(2) Jogi személy a pénzforgalmi számla feletti rendelkezéséhez a nyilvántartásba bejegyzett, illetőleg bejegyzésre bejelentett teljes vagy rövidített nevének (cégnevének) betű szerinti használata, valamint a számlatulajdonos által a pénzforgalmi számla feletti rendelkezésre bejelentett személy vagy személyek aláírása szükséges. Az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) szerinti egyéb szervezet a létesítő okiratában, ennek hiányában a fizetési számlaszerződésben meghatározott módon rendelkezhet fizetési számlája felett.
+(2) Jogi személy a pénzforgalmi számla feletti rendelkezéséhez a nyilvántartásba bejegyzett, illetőleg bejegyzésre bejelentett teljes vagy rövidített nevének (cégnevének) betű szerinti használata, valamint a számlatulajdonos által a pénzforgalmi számla feletti rendelkezésre bejelentett személy vagy személyek aláírása szükséges. Az adózás rendjéről szóló törvény szerinti egyéb szervezet a létesítő okiratában, ennek hiányában a fizetési számlaszerződésben meghatározott módon rendelkezhet fizetési számlája felett.
 
 (3) A számlatulajdonos vagy a képviseletében jogszabály alapján eljárni jogosult személy által feljogosított rendelkezésre jogosult rendelkezési joga bármikor visszavonható vagy – a fizetési számlaszerződésben meghatározott esetben és módon – korlátozható.
 
@@ -264,7 +264,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 (2) A vezető bejelentési, illetve rendelkezési jogosultságát abban az esetben gyakorolhatja, ha a megválasztását (kinevezését), valamint aláírását – a szervezet jogi formájára vonatkozó sajátosságok figyelembevételével – hitelt érdemlő módon (pl. illetékes cégbíróság által érkeztetett bejegyzési vagy változásbejegyzési kérelemmel és aláírási címpéldánnyal) igazolja. A pénzforgalmi szolgáltató nem felel a változásbejegyzési kérelem utóbb történő elutasítása esetén a számlatulajdonosnál bekövetkező károkért. Ha a vezető megbízatása megszűnik, az általa bejelentett aláírók rendelkezési joga mindaddig érvényes, amíg az új vagy más vezető másként nem rendelkezik.
 
-(2a) Ha a számlatulajdonos szervezet cégjegyzékben nyilvántartott cég, a vezető aláírását a cégbírósághoz benyújtott ügyvéd által ellenjegyzett aláírás-minta és a hiteles cégaláírási nyilatkozat (közjegyzői aláírás-hitelesítéssel ellátott címpéldány) egyaránt bizonyítja.
+(2a) Ha a számlatulajdonos szervezet cégjegyzékben nyilvántartott cég, a vezető aláírását a cégbírósághoz benyújtott ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-minta és a hiteles cégaláírási nyilatkozat (közjegyzői aláírás-hitelesítéssel ellátott címpéldány) egyaránt bizonyítja.
 
 (3) Ha a számlatulajdonos szervezet jogi formáját szabályozó jogszabályból következően a szervezetnek több, önálló képviseleti joggal rendelkező vezetője van, bármelyik vezető bejelentése érvényes. Ha a számlatulajdonos szervezet létesítő okirata alapján a vezetők közül egy vagy több személy kizárólagosan jogosult a bejelentésre, akkor az általuk tett bejelentés az érvényes. Több egymásnak ellentmondó bejelentés közül a legutolsó bejelentés az érvényes. Együttes képviseleti jog esetében a jogosultak a bejelentést csak együttesen tehetik meg.
 
@@ -858,7 +858,7 @@ vonatkozó részletes szabályokat.
 
 (4) Az (1)–(3) bekezdésekben foglaltakat megfelelően alkalmazni kell a kirendelő hatóság által az igazságügyi szakértő, az igazságügyi szakértői névjegyzékbe bejegyzett gazdasági társaság és a szakértői intézmény részére megfizetendő igazságügyi szakértői díj behajtására is, ha
 
-- a) az igazságügyi szakértői díjat a kirendelő hatóság a jogerős határozatával megállapította, és
+- a) az igazságügyi szakértői díjat a kirendelő hatóság a jogerős vagy végleges határozatával megállapította, és
 - b) megfizetésére az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény 17. §-ának (4) bekezdése szerinti határidő 2010. január 1. előtt lejárt.
 
 (5) A törvény hatálybalépése előtt indult közbeszerzési eljárás eredményeként megkötött szerződés – az ajánlatkérőként szerződött fél által igazolt szerződésszerű – teljesítése esetén, a határidő eredménytelen leteltét követően, az ajánlattevőként szerződött fél beszedési megbízást nyújthat be a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 22. §-ának (1) bekezdésében meghatározott ajánlatkérő fizetési számlája terhére az ajánlatkérő erre vonatkozó felhatalmazása hiányában is.

@@ -1020,7 +1020,7 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 (5) A panaszt az (1) bekezdésben meghatározott cselekményt követő harminc napon belül lehet előterjeszteni, és a beérkezéstől vagy – ha áttételre kerül sor – az áttételtől számított harminc napon belül kell elbírálni.
 
-(6) A panasz elbírálásáról hozott döntés ellen fellebbezésnek nincs helye, az ellen közvetlenül bírósági felülvizsgálatnak van helye.
+(6) A panasz elbírálásáról hozott döntés közigazgatási perben támadható meg.
 
 61/C. § A 61/B. § szerinti jogról az érintettet az intézkedés során, vagy a kényszerítő eszköz alkalmazását követően megfelelően tájékoztatni kell.
 

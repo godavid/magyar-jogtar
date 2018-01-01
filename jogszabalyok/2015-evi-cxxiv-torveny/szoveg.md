@@ -27,22 +27,18 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 
 #### 3. Az akkreditálási eljárás
 
-3. § (1) Az akkreditálási eljárásra, a felügyeleti vizsgálati eljárásra, az akkreditált szervezet, illetve természetes személy akkreditált tevékenységével kapcsolatos panasz intézésére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott eltérésekkel kell alkalmazni.
+3. § (1) Az akkreditálási eljárásra, a felügyeleti vizsgálati eljárásra, az akkreditálási szervezet, illetve természetes személy akkreditált tevékenységével kapcsolatos panasz intézésére az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit az e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
-(2) Az akkreditáló szerv által hozott határozattal és önállóan fellebbezhető végzéssel szemben bírósági felülvizsgálatnak van helye. Az akkreditálási eljárásban újrafelvételi eljárásnak nincs helye.
+(2) Az akkreditáló szerv tevékenységével szemben közigazgatási per indításának van helye.
 
-(3) Az akkreditáló szerv által hozott határozattal és önállóan fellebbezhető végzéssel kapcsolatban kezdeményezett bírósági felülvizsgálat esetén az eljárás lefolytatására a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
-
-4. § Az akkreditáló szerv által lefolytatott eljárásokban a következő alapelveket kell érvényesíteni:
+4. § Az akkreditáló szerv által lefolytatott eljárásokban az Ákr.-ben rögzítetteken túlmenően a következő alapelveket kell érvényesíteni:
 
 - a) pártatlanság,
-- b) gyors, egyszerű és hatékony eljárás,
-- c) függetlenség a különböző érdekcsoportok túlsúlyától és az akkreditálásban érdekeltek kiegyensúlyozott képviselete,
-- d) szakszerűség és az objektivitás,
-- e) az igénybevétel önkéntessége,
-- f) az eljárás átláthatósága és nyilvánossága,
-- g) a kérelmező által az akkreditált státusz megszerzése érdekében elfogadott szabványoknak, valamint a jogszabályoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusainak való megfelelés,
-- h) az akkreditálás európai és nemzetközi eljárási rendjével való összhangja.
+- b) függetlenség a különböző érdekcsoportok túlsúlyától és az akkreditálásban érdekeltek kiegyensúlyozott képviselete,
+- c) az igénybevétel önkéntessége,
+- d) az eljárás átláthatósága és nyilvánossága,
+- e) a kérelmező által az akkreditált státusz megszerzése érdekében elfogadott szabványoknak, valamint a jogszabályoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusainak való megfelelés,
+- f) az akkreditálás európai és nemzetközi eljárási rendjével való összhang.
 
 5. § (1) Akkreditálás iránti kérelmet
 
@@ -52,7 +48,7 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 - d) jártassági vizsgálatot szervező szervezet,
 - e) terméktanúsító szervezet,
 - f) irányítási rendszereket tanúsító szervezet,
-- g) személyzettanúsító szervezet,
+- g) személytanúsító szervezet,
 - h) ellenőrző szervezet, a hatóságok kivételével,
 - i) referenciaanyag-gyártó szervezet,
 - j) a környezetvédelmi vezetési és hitelesítési rendszert hitelesítő szervezet vagy természetes személy,
@@ -106,7 +102,7 @@ nyújthat be az akkreditáló szervhez.
 - b) részlegesen vagy teljeskörűen felfüggeszti, vagy
 - c) részlegesen vagy teljeskörűen visszavonja.
 
-(9) A felügyeleti vizsgálat jogerős lezárásáig az akkreditált státusz érvényes.
+(9) A felügyeleti vizsgálat végleges lezárásáig az akkreditált státusz érvényes.
 
 (10) Ha az akkreditáló szerv az akkreditált státuszt részlegesen vagy teljeskörűen felfüggeszti, részlegesen vagy teljeskörűen visszavonja, vagy az akkreditált szervezet vagy természetes személy kérelmére az akkreditált területet szűkíti, erről a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott, feladatkörrel rendelkező kijelölő hatóságot értesíti. A felügyeleti vizsgálat, illetve a rendkívüli felügyeleti vizsgálat eredményeit az akkreditáló szerv a feladatkörrel rendelkező kijelölő hatóságnak megküldi.
 
@@ -172,7 +168,7 @@ bekövetkezett változás.
 - c) az akkreditált szervezetek, szervezeti egységek székhelyét, telephelyeit és természetes személyek lakóhelyét,
 - d) az akkreditált tevékenységet és tevékenységi területet,
 - e) az akkreditált státusz kezdeti és lejárati időpontját,
-- f) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezet akkreditált státuszának részleges vagy teljes felfüggesztésére, részleges vagy teljes körű visszavonására vonatkozó információkat,
+- f) az akkreditált státusz részleges vagy teljes felfüggesztésére, részleges vagy teljes körű visszavonására vonatkozó információkat,
 - g) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek tekintetében azokat a tagállamokat, amelyekben a hitelesítő szervezet hitelesítést végez és
 - h) az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek által foglalkoztatott hitelesítő szakértők nevét, lakcímét, nyilvántartási számát, szaktudását, minősítését, jogosultságának korlátozottságára vonatkozó adatokat.
 
@@ -187,6 +183,8 @@ bekövetkezett változás.
 13. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) Az 1–12. §, a 17–20. § 2016. január 1-jén lép hatályba.
+
+(3) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 14. § (1) Felhatalmazást kap a Kormány, hogy az akkreditáló szervet kijelölje.
 
@@ -231,4 +229,8 @@ rendeletben határozza meg.
 
 (3) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében a 600/2012/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-#### 18–20. §
+#### 18. §
+
+#### 19. §
+
+#### 20. §

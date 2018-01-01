@@ -684,14 +684,16 @@ amelyek tekintetében a szervezetet a több tagállam területére kiterjedő ha
 
 #### 46. A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-75. § Az SZTNH a hatáskörébe tartozó, jogkezeléssel kapcsolatos hatósági ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései szerint jár el.
+75. § Az SZTNH a hatáskörébe tartozó, jogkezeléssel kapcsolatos hatósági ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezései szerint jár el.
 
-76. § A jogkezeléssel kapcsolatos hatósági ügyekben nem kell alkalmazni
+76. § (1) A jogkezeléssel kapcsolatos hatósági ügyekben nem kell alkalmazni az Ákr.
 
-- a) a Ket. azon rendelkezéseit, amelyek az eljárás megindításával és az első kapcsolatfelvétellel összefüggő – hivatalból vagy kérelemre történő – értesítésre és figyelemfelhívásra vonatkoznak,
-- b) a Ket. ügygondnokra és a közmeghallgatásra vonatkozó szabályait,
-- c) a Ket. 71. § (2) bekezdés a) pontját,
-- d) a Ket. 91. §-át.
+- a) ügygondnokra vonatkozó szabályait,
+- b) költségmentességre vonatkozó szabályait,
+- c) 26. §-át és
+- d) 64. §-át.
+
+(2) A jogkezeléssel kapcsolatos hatósági ügyekben nincs helye sommás eljárásnak és a kérelem kormányablaknál nem terjeszthető elő.
 
 #### 47. Az ügyfél részvétele az eljárásban
 
@@ -699,18 +701,22 @@ amelyek tekintetében a szervezetet a több tagállam területére kiterjedő ha
 
 #### 48. Az eljárás felfüggesztése
 
-78. § Az SZTNH az eljárást felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás bíróság hatáskörébe tartozik. Amennyiben a bíróság előtti eljárás megindítására az ügyfél jogosult, erre őt megfelelő határidő kitűzése mellett fel kell hívni. Ha az ügyfél a felhívásnak nem tesz eleget, az SZTNH az eljárást megszünteti.
+78. § (1) Az SZTNH az eljárást felfüggeszti, ha az előkérdés bíróság hatáskörébe tartozik, vagy az ügyben külföldi szervet kell megkeresni.
+
+(2) Az SZTNH az eljárást felfüggeszti, ha az előkérdés más szerv hatáskörébe tartozik, vagy ha az SZTNH az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
+
+(3) Ha a bíróság vagy más szerv előtti eljárás megindítására az ügyfél jogosult, erre őt megfelelő határidő tűzése mellett fel kell hívni. Ha az ügyfél a felhívásnak nem tesz eleget, az SZTNH az eljárást megszünteti.
 
 #### 49. Határidők
 
 79. § Az eljárást befejező döntést
 
-- a) a 33. § (2) bekezdése szerinti engedély megadására, továbbá az engedély módosítására és visszavonására irányuló eljárásban (XIII. Fejezet) hetven napon belül,
+- a) a 33. § (2) bekezdése szerinti engedély megadására, továbbá az engedély módosítására és visszavonására irányuló eljárásban (XIII. Fejezet) hat hónapon belül,
 - b) a XV. Fejezet alapján indult felügyeleti eljárásban négy hónapon belül
 
 kell meghozni és gondoskodni a közléséről.
 
-80. § Ha e törvény nem állapít meg határidőt a hiánypótlásra, illetve a nyilatkozattételre, indokolt esetben az ügyfél részére negyvenöt napot meghaladó határidő is adható.
+80. § Az ügyfél hiánypótlásra, illetve nyilatkozattételre több ízben is felhívható.
 
 #### 50. Nyelvhasználat
 
@@ -718,7 +724,7 @@ kell meghozni és gondoskodni a közléséről.
 
 #### 51. Jogorvoslatok
 
-82. § (1) A jogkezeléssel kapcsolatos hatósági ügyekben az SZTNH döntése ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak.
+82. § (1) A jogkezeléssel kapcsolatos hatósági ügyekben az SZTNH döntése ellen nincs helye fellebbezésnek, felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek.
 
 (2) Az SZTNH jogkezeléssel kapcsolatos hatósági ügyekben hozott döntését a bíróság a XVI. fejezetben szabályozott nemperes eljárásban vizsgálja felül.
 
@@ -969,7 +975,7 @@ kell meghozni és gondoskodni a közléséről.
 
 (5) A határidőben meg nem fizetett felügyeleti díj után az adózás rendjéről szóló törvény szerint kell késedelmi pótlékot fizetni.
 
-(6) A felügyeleti díj és a késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(6) A határidőben meg nem fizetett felügyeleti díj összegét az SZTNH határozatában állapítja meg, és kötelezi a díjfizetésre kötelezettet annak megfizetésére.
 
 (7) A (2) és (4) bekezdés alkalmazásában bevétel alatt az általános forgalmi adót nem tartalmazó bevételt kell érteni.
 
@@ -1017,7 +1023,7 @@ kell meghozni és gondoskodni a közléséről.
 
 (4) A határidőben meg nem fizetett felügyeleti bírság után az adózás rendjéről szóló törvény szerint kell késedelmi pótlékot fizetni.
 
-(5) A felügyeleti bírság és a késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(5)
 
 119. § A 33. § (2) bekezdése szerinti engedély visszavonására abban az esetben kerülhet sor, ha
 
@@ -1052,7 +1058,7 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 
 122. § (1) A jogosultak, a felhasználók, a felhasználói érdek-képviseleti szervezetek, más közös jogkezelő szervezetek vagy független jogkezelő szervezetek írásban panasszal élhetnek az SZTNH előtt a Magyarország területén letelepedett közös jogkezelő szervezet vagy független jogkezelő szervezet olyan tevékenysége, működése vagy a vele kapcsolatos más olyan körülmény miatt, amely – álláspontjuk szerint – a jogkezelésre vonatkozó jogszabályokat sérti.
 
-(2) Az (1) bekezdés szerinti panasz kivizsgálása nem része a felügyeleti eljárásnak, és nem minősül jogkezeléssel kapcsolatos hatósági eljárásnak. A panasz kivizsgálására a Ket. szabályait nem kell alkalmazni.
+(2) Az (1) bekezdés szerinti panasz kivizsgálása nem része a felügyeleti eljárásnak, és nem minősül jogkezeléssel kapcsolatos hatósági eljárásnak. A panasz kivizsgálására az Ákr. szabályait nem kell alkalmazni.
 
 (3) Az (1) bekezdés alkalmazásában felhasználói érdek-képviseleti szervezet az a nyilvántartott tagsággal rendelkező jogi személy, amely létesítő okirata szerinti tevékenységét országosan fejti ki, és tevékenysége kiterjed az érintett felhasználók érdekeinek a közös jogkezelő szervezetek vagy független jogkezelő szervezetek működésével kapcsolatos panasztétel során történő képviseletére.
 
@@ -1097,7 +1103,7 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 128. § (1) A bíróság kérelemre felülvizsgálja az SZTNH-nak
 
 - a) a jogkezeléssel kapcsolatos hatósági ügyben hozott határozatát, továbbá
-- b) a jogkezeléssel kapcsolatos hatósági ügyben az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó, az eljárást felfüggesztő, az eljárási bírságot kiszabó végzését, valamint az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben a Ket. szerint önálló jogorvoslatnak van helye.
+- b) a jogkezeléssel kapcsolatos hatósági ügyben az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó, az eljárást felfüggesztő, az eljárási bírságot kiszabó végzését, valamint az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben az Ákr. szerint önálló jogorvoslatnak van helye.
 
 (2) Az SZTNH döntése ellen előterjesztett bírósági felülvizsgálati kérelemnek nincs halasztó hatálya, és nem akadályozza meg annak jogerőre emelkedését.
 
@@ -1118,32 +1124,49 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 - a) ez későbbi, mint az (1) bekezdés szerinti döntés közlésének napja és
 - b) az igazolási kérelmet olyan mulasztás kimentésére terjesztették elő, amely közvetlenül az (1) bekezdés szerinti döntés alapjául szolgált.
 
-(3) Ha az SZTNH döntésének bírósági felülvizsgálatát a Ket. rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a bírósági felülvizsgálati kérelem előterjesztésének határideje az alkotmánybírósági döntés kézbesítésétől számított harminc napra ismételten megnyílik.
+(3)
 
 131. § (1) A bírósági felülvizsgálati kérelem az SZTNH-nál nyújtható be, amely azt a jogkezeléssel kapcsolatos hatósági ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű ügyfél is részt vett, az SZTNH a bírósági felülvizsgálati kérelem továbbításáról egyidejűleg az ellenérdekű ügyfelet is értesíti.
 
 (2) Ha a bírósági felülvizsgálati kérelem elvi jelentőségű jogkérdést vet fel, az SZTNH e kérdésben írásbeli nyilatkozatot tehet, és azt a bírósági felülvizsgálati kérelemmel, valamint a jogkezeléssel kapcsolatos hatósági ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
-132. § (1) A bírósági felülvizsgálati kérelem kellékeire a polgári perrendtartásról szóló törvény (a továbbiakban: Pp.) keresetlevélre vonatkozó szabályai megfelelően irányadók.
+132. § (1) A bírósági felülvizsgálati kérelem bevezető részében fel kell tüntetni:
+
+- a) az eljáró bíróság megnevezését,
+- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több jogi képviselő esetén a hivatalos iratok átvételére kijelölt jogi képviselő nevét.
+
+(1a) A felülvizsgálati kérelem érdemi részében fel kell tüntetni:
+
+- a) a felülvizsgálati kérelemmel érintett döntés számát, valamint a döntésnek a felülvizsgálati kérelem által érintett rendelkezését vagy részét,
+- b) a döntés bíróság általi felülvizsgálatára irányuló határozott kérelmet, valamint
+- c) a döntés felülvizsgálatának szükségességét alátámasztó indokokat az ezeket alátámasztó bizonyítékokkal és a jogalap megjelölésével.
+
+(1b) A felülvizsgálati kérelem záró részében fel kell tüntetni:
+
+- a) a bíróság hatáskörét és illetékességét megalapozó tényeket és jogszabályhelyet,
+- b) a megfizetett illeték összegét és megfizetési módját, vagy az eljárási illeték részleges megfizetésének hiányában a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az ennek alapjául szolgáló tényeket és jogszabályhelyet,
+- c) a meghatalmazott képviseleti jogát megalapozó tényeket és jogszabályhelyet, valamint
+- d) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
 
 (2) Ha a bírósági felülvizsgálati kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
 #### 72. Hatáskör és illetékesség
 
-133. § (1) Az SZTNH döntésének bírósági felülvizsgálatára irányuló eljárás a Fővárosi Törvényszék hatáskörébe és kizárólagos illetékessége alá tartozik.
+133. § (1) Az SZTNH döntésének bírósági felülvizsgálatára irányuló eljárás lefolytatására a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (2) A Fővárosi Törvényszék három hivatásos bíróból álló tanácsban jár el.
 
 #### 73. A bírósági felülvizsgálati kérelemmel kapcsolatos eljárásra irányadó szabályok
 
-134. § A bíróság az SZTNH döntésének bírósági felülvizsgálatára irányuló kérelmet a nemperes eljárás szabályai szerint – az e törvényben foglalt eltérő rendelkezések alkalmazásával – bírálja el. Ha e törvényből, illetve az eljárás nemperes jellegéből más nem következik, az eljárásra a Pp. általános szabályait megfelelően kell alkalmazni.
+134. § A bíróság az SZTNH döntésének felülvizsgálatára irányuló kérelmet nemperes eljárásban – az e törvényben foglalt eltérő rendelkezések alkalmazásával – bírálja el. Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
 #### 74. Kizárás
 
-135. § (1) A Pp. általános rendelkezéseiben meghatározott eseteken kívül az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt, aki
+135. § (1) A Pp.-ben meghatározott eseteken kívül az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt, aki
 
 - a) az SZTNH döntésének meghozatalában részt vett;
-- b) az a) pontban említett személynek a Pp. általános – a bírák kizárására vonatkozó – rendelkezéseiben megjelölt hozzátartozója.
+- b) az a) pontban említett személynek a Ptk. szerinti hozzátartozója.
 
 (2) Az (1) bekezdés rendelkezéseit a jegyzőkönyvvezetők és a szakértők kizárására is alkalmazni kell.
 
@@ -1152,6 +1175,8 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 136. § (1) A kérelmező a bírósági eljárásban félként vesz részt.
 
 (2) Ha az SZTNH előtti eljárásban ellenérdekű ügyfél is részt vett, a bírósági eljárást ellene kell megindítani.
+
+136/A. § A bíróság előtti eljárásban a jogi képviselet kötelező, ideértve a jogorvoslati eljárásokat is.
 
 137. § (1) Akinek jogi érdeke fűződik ahhoz, hogy az SZTNH döntésének bírósági felülvizsgálatára irányuló eljárás miként dőljön el, az eljárásba – annak jogerős befejezéséig – az azonos érdekű fél mellett beavatkozhat.
 
@@ -1175,7 +1200,9 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 
 #### 79. Tárgyalás és bizonyítás
 
-141. § (1) Az elsőfokú bíróság a Pp. szabályai szerint bizonyítást folytat le és tárgyalást tart.
+141. § (1) Az elsőfokú bíróság a Pp. szabályai szerint bizonyítást folytat le és a Pp. érdemi tárgyalásra vonatkozó szabályai szerint tart tárgyalást.
+
+(1a) A bírósági eljárásban szünetelésnek helye nincs.
 
 (2) Ha az eljárásban ellenérdekű fél nem vesz részt, és az ügy az iratok alapján elbírálható, a bíróság tárgyaláson kívül is hozhat határozatot, azonban a felet – kívánságára – meg kell hallgatnia.
 
@@ -1195,7 +1222,7 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 
 143. § A bíróság az ügy érdemében hozott végzését kézbesítés útján közli; azt nem lehet a kihirdetéssel közöltnek tekinteni. Ha a bírósági felülvizsgálati kérelmet a bíróság tárgyaláson bírálja el, az ügy érdemében hozott végzést a tárgyalás napján ki is kell hirdetni. A kihirdetést csak akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a végzést a kihirdetés napjáig írásba is kell foglalni.
 
-144. § A Fővárosi Törvényszék végzése elleni fellebbezés elbírálása során a Pp. 257. §-ában foglaltakat kell megfelelően alkalmazni azzal, hogy a másodfokú bíróság erre irányuló kérelem esetén a feleket szóban is köteles meghallgatni, kivéve, ha a fellebbezést az SZTNH-nak a 128. § (1) bekezdésének b) pontjában meghatározott döntései ellen előterjesztett felülvizsgálati kérelem tárgyában hozott végzéssel szemben nyújtották be.
+144. § A Fővárosi Törvényszék végzése elleni fellebbezés elbírálása során a Pp. 389–391. §-ában foglaltakat kell megfelelően alkalmazni azzal, hogy a másodfokú bíróság erre irányuló kérelem esetén a feleket szóban is köteles meghallgatni, kivéve, ha a fellebbezést az SZTNH-nak a 128. § (1) bekezdésének b) pontjában meghatározott döntései ellen előterjesztett felülvizsgálati kérelem tárgyában hozott végzéssel szemben nyújtották be.
 
 ### XVII. Fejezet — A REPREZENTATÍV KÖZÖS JOGKEZELŐ SZERVEZETKÉNT VÉGZETT KÖZÖS JOGKEZELÉS KÖRÉBEN ALKALMAZOTT DÍJSZABÁSOK JÓVÁHAGYÁSA
 
@@ -1205,7 +1232,7 @@ a felügyeleti bírság kiszabásától sem várható eredmény.
 
 (2) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabások jóváhagyásáról az igazságügyért felelős miniszter dönt.
 
-(3) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabások jóváhagyására irányuló eljárás – ide értve annak véleményezési szakaszát is – nem minősül közigazgatási hatósági eljárásnak, arra a Ket. szabályait nem kell alkalmazni.
+(3) A reprezentatív közös jogkezelő szervezetként végzett közös jogkezelés körében alkalmazott díjszabások jóváhagyására irányuló eljárás – ideértve annak véleményezési szakaszát is – nem minősül közigazgatási hatósági ügynek, arra az Ákr. szabályait nem kell alkalmazni.
 
 146. § (1) A reprezentatív közös jogkezelő szervezet abban a körben, amelyben a 33. § (2) bekezdése szerinti engedély alapján reprezentatív közös jogkezelő szervezetként közös jogkezelési tevékenységre jogosult, az egyes felhasználási módok tekintetében évente megállapított díjszabását az e § szerinti jóváhagyási eljárás lefolytatása céljából legkésőbb minden év szeptember 1-jéig megküldi az SZTNH-nak.
 
@@ -1311,11 +1338,11 @@ teljesíti.
 
 (14) A határozat kiegészítését közölni kell azzal, akivel a kiegészítendő határozatot közölték. A határozat kiegészítése ellen ugyanolyan jogorvoslatnak van helye, mint az eredeti határozat ellen volt.
 
-154. § (1) Az igazságügyért felelős miniszter jóváhagyásról szóló határozatának felülvizsgálatát a díjszabás véleményezésére jogosult bármely szervezet és az érintett reprezentatív közös jogkezelő szervezet jogszabálysértésre hivatkozással a határozat kézhezvételétől számított harminc napon belül a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérheti, amely a kérelmet a közigazgatási nemperes eljárás szabályai alapján soron kívül bírálja el.
+154. § (1) Az igazságügyért felelős miniszter jóváhagyásról szóló határozatát a díjszabás véleményezésére jogosult bármely szervezet és az érintett reprezentatív közös jogkezelő szervezet a Fővárosi Törvényszék előtt közigazgatási perben megtámadhatja.
 
-(2) Az (1) bekezdés szerinti nemperes eljárásban Pp. 332. § (3) és (4) bekezdése nem alkalmazható.
+(2) Az (1) bekezdés szerinti eljárásban azonnali jogvédelem biztosításának helye nincs.
 
-(3) Ha a bíróság a határozatot hatályon kívül helyezi és az igazságügyért felelős minisztert új eljárásra utasítja, az új eljárásban hozott határozat alapján fizetendő díj és a megsemmisített határozat alapján fizetendő díj közötti különbözettel el kell számolni.
+(3) A bíróság határozata nyomán megismételt eljárásban hozott határozat alapján fizetendő díj és a megsemmisített határozat alapján fizetendő díj közötti különbözettel el kell számolni.
 
 (4) A határozat megtámadása esetén a bíróság azt a kérelmezőt, aki a határozattal érintett díjszabás alapján díjfizetésre lenne kötelezett, biztosíték adására kötelezheti. A biztosíték összege megegyezik a megtámadott határozattal jóváhagyott díjszabás alapján fizetendő díj mértékével, vagy annak vitatott vagy még meg nem fizetett részével, kivéve, ha a bíróság az eset összes körülményére figyelemmel annak csökkentéséről határoz.
 
@@ -1375,6 +1402,8 @@ teljesíti.
 (3) E törvénynek a közös jogkezelő szervezetekkel és a független jogkezelő szervezetekkel kapcsolatos eljárásokra vonatkozó szabályait a törvény hatálybalépését követően indult eljárásokra kell alkalmazni.
 
 (4) E törvénynek az éves átláthatósági jelentésre vonatkozó rendelkezéseit (55. §) a 2017. január 1-jével kezdődő pénzügyi évre vonatkozóan kell először alkalmazni.
+
+159/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 85. Korábban adott jogkezelési megbízások alapján fennálló tájékoztatási kötelezettség teljesítése
 

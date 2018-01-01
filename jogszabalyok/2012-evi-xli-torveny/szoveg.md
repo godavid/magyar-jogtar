@@ -321,9 +321,9 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (3) Az ideiglenes hozzáférhetetlenné tétel az elektronikus adathoz való hozzáférés ideiglenes megakadályozása. Az elektronikus adat ideiglenes hozzáférhetetlenné tételét a közlekedési hatóság 365 napra rendeli el.
 
-(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a közlekedési hatóság hirdetményi úton közli. A hirdetményt 15 napig kell a közlekedési hatóság honlapján közzétenni.
+(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatról készült közleményt a közlekedési hatóság a honlapján közhírré teszi.
 
-(5) A (4) bekezdés szerinti hirdetmény tartalmazza:
+(5) A (4) bekezdés szerinti közlemény tartalmazza:
 
 - a) az ügy tárgyát és rövid ismertetését,
 - b) az elektronikus adat ideiglenes hozzáférhetetlenné tételéhez szükséges adatokat,
@@ -344,7 +344,7 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (3) A határozatra a 12/B. § (4) és (5) bekezdésében foglaltakat kell alkalmazni.
 
-12/E. § A közlekedési hatóság a jogkövető magatartás elősegítése és az állampolgárok tájékoztatása érdekében honlapján a 12/B. § szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését.
+12/E. § A közlekedési hatóság a jogkövető magatartás elősegítése és az állampolgárok tájékoztatása érdekében honlapján a 12/B. § szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a véglegessé vált ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését.
 
 12/F. § Személygépkocsival engedély nélkül végzett közúti közlekedési szolgáltatáshoz használt személygépkocsit a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott időtartamra ki kell vonni a forgalomból.
 
@@ -388,7 +388,7 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (2) A kötelezettségek további súlyos és ismétlődő megszegése esetén az autóbuszos hatóság felfüggesztheti vagy visszavonhatja a működési engedélyt.
 
-(3) A közlekedési hatóság piacfelügyeleti eljárásban hozott határozatai és végzései ellen közigazgatási eljárás keretében fellebbezésnek nincs helye, azokat felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+(3)
 
 (4) Az autóbuszos hatóság és a versenyhatóság a közúti személyszállítási piacon folyó versenyt érintő kérdésekben a verseny védelmének következetes érvényre juttatása, illetve az egységes jogalkalmazás előmozdítása érdekében szorosan együttműködik, így különösen
 
@@ -445,9 +445,9 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (7) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha az (5) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – az autóbuszos hatóság a személyszállítási szolgáltatás végzésére jogosító engedély felfüggesztését vagy visszavonását kezdeményezi.
 
-18. § (1) A vasúti személyszállítást vagy az autóbuszos személyszállítást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, illetve az autóbuszos hatóságnál, ha álláspontja szerint a személyszállító szolgáltató vagy a közlekedésszervező megsértette a 17. § (1) vagy (3) bekezdését. A panasz – személyesen, postai vagy elektronikus úton – akkor terjeszthető elő, ha a panaszos a vasúti vagy az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre.
+18. § (1) A vasúti személyszállítást vagy az autóbuszos személyszállítást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, illetve az autóbuszos hatóságnál, ha álláspontja szerint a személyszállító szolgáltató vagy a közlekedésszervező megsértette a 17. § (1) vagy (3) bekezdését. A panasz – személyesen, postai vagy elektronikus úton, ideértve az elektronikus levelet (e-mail) is – abban az esetben terjeszthető elő, ha a panaszos a vasúti vagy az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre.
 
-(2) Vasúti személyszállítás esetén panaszt benyújtani a vasúti társaság vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében (a továbbiakban: panaszkezelési szabályzat) az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet. A vasúti társaság vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben a vasúti igazgatási szervhez fordulhat. E határidőn túl a vasúti igazgatási szervhez benyújtott panaszokat a vasúti igazgatási szerv érdemi vizsgálat nélkül elutasítja. A vasúti társaság vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.
+(2) Vasúti személyszállítás esetén panaszt benyújtani a vasúti társaság vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében (a továbbiakban: panaszkezelési szabályzat) az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet. A vasúti társaság vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben a vasúti igazgatási szervhez fordulhat. E határidőn túl a vasúti igazgatási szervhez benyújtott panaszokat a vasúti igazgatási szerv visszautasítja. A vasúti társaság vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.
 
 (3) Autóbuszos személyszállítás esetén panaszt benyújtani a szolgáltató vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében vagy azon szolgáltatók esetében, amelyek nem rendelkeznek az autóbuszos hatóság által jóváhagyott üzletszabályzattal, az autóbuszos hatóság által jóváhagyott önálló panaszkezelési szabályzatban (a továbbiakban együtt: panaszkezelési szabályzat) az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet az autóbuszos hatóságnál. A szolgáltató vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben az autóbuszos hatósághoz fordulhat. E határidőn túl az autóbuszos hatósághoz benyújtott panaszokat az autóbuszos közlekedési hatóság visszautasítja. A szolgáltató vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot az autóbuszos hatóság részére a panasz mellékleteként be kell nyújtani. Ennek hiányában az autóbuszos hatóság hiánypótlási felhívást bocsát ki. A panasz kivizsgálása során az autóbuszos hatóság a tényállás tisztázása érdekében több ízben is bocsáthat ki hiánypótlásra felhívást. Az autóbuszos hatóság abban az esetben is visszautasítja a kérelmet, ha az nem az előterjesztésre jogosulttól származik. Az autóbuszos hatóság panaszkezelési eljárására vonatkozó további szabályokat a 49. § (1) bekezdés d) pontjában adott felhatalmazás alapján megalkotott rendelet tartalmazza.
 
@@ -802,7 +802,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 
 (11) A (10) bekezdésben meghatározott szociálpolitikai menetdíj-támogatás megállapítása a helyi személyszállítási közszolgáltatást nyújtó települések Központi Statisztikai Hivatal által nyilvántartott demográfiai adatai alapján számított jogosulti kör, a nyújtott személyszállítási szolgáltatás mennyisége és a költségvetési törvényben e célra jóváhagyott forrás figyelembevételével történik.
 
-34. § A szociálpolitikai menetdíj-támogatást a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) folyósítja. A támogatás folyósításával kapcsolatban az e törvényben, és a 33. § alapján kiadott jogszabályban nem szabályozott kérdésekben a NAV az adózás rendjéről szóló törvény költségvetési támogatásokra vonatkozó rendelkezései alapján jár el.
+34. § A szociálpolitikai menetdíj-támogatást a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) folyósítja. A támogatás folyósításával kapcsolatban az e törvényben, és a 33. § alapján kiadott jogszabályban nem szabályozott kérdésekben a NAV az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény költségvetési támogatásokra vonatkozó rendelkezései alapján jár el.
 
 #### 24. A közszolgáltatások teljesítésének ellenőrzése
 

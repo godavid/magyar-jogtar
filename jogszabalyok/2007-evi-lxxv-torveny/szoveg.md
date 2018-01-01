@@ -140,31 +140,31 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 6. § (1) A kamara a kamarai hatósági eljárás tekintetében az ország egész területére kiterjedő illetékességgel jár el.
 
-(2) A kamara a hivatalból indított eljárás során nyilatkozattételre és adatszolgáltatásra kötelezheti az ügyfelet.
+(2)
 
 (3)
 
-(4) Az e törvényben meghatározott nyilvántartásokat magyar nyelven kell vezetni. A kamara a nyilvántartásokat folyamatosan napra készen tartja.
+(4)
 
 (5)
 
 7. § (1) Az egyes kamarai hatósági eljárásokban első fokon az e törvényben kijelölt testület jár el.
 
-(2) A kamarai hatósági eljárás lefolytatására irányuló kérelmet írásban, vagy elektronikus úton az e célra rendszeresített nyomtatványon lehet előterjeszteni.
+(2) A kamarai hatósági eljárás során a kapcsolattartás kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton, űrlapbenyújtás támogatási szolgáltatás igénybevételével történhet.
 
 (3)–(4)
 
-(5) Ha a kérelmet hiányosan nyújtották be, a kérelmezőt a kérelem beérkezésétől számított huszonkét napon belül kell felhívni hiánypótlásra.
+(5) Ha a kérelmet hiányosan nyújtották be, a kérelmezőt a kérelem beérkezésétől számított huszonkét napon belül – a határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra kell felhívni.
 
 (6)
 
-(7) Az 5. § k) és l) pontja szerinti eljárás során a határozatot az eljárás megindításától számított hatvan napon belül, vagy ha ez nem lehetséges, a határidő letelte utáni első testületi ülésen, legkésőbb azonban kilencven napon belül kell meghozni. Az eljáró testület elnöke az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb hatvan nappal meghosszabbíthatja, melyről az ügyfelet értesíteni kell.
+(7)
 
 8. § (1) Az ügyfél a kamarai hatósági eljárásban hozott elsőfokú döntés ellen – a kamarai minőségellenőrzési eljárás kivételével – a kamara elnökségéhez fellebbezhet.
 
-(2) A fellebbezési eljárásban az ügyintézési határidő 45 nap.
+(2)
 
-8/A. § Amennyiben a kamara a kamarai hatósági eljárás során a rá irányadó ügyintézési határidőn belül nem hozott határozatot, az ügyfelet nem illeti meg a kérelmezett tevékenység megkezdésének, illetve folytatásának joga és a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
+8/A. § A kamarai hatósági eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 9. § (1) Az ügyfél kérelmére indított kamarai hatósági eljárásért – a (2)–(4) bekezdés kivételével – az ügyfélnek a Magyar Könyvvizsgálói Kamara központi számlájára igazgatási szolgáltatási díjat kell fizetnie. Az igazgatási szolgáltatási díj a kamara bevétele.
 
@@ -184,11 +184,11 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 (7) A díjfizetés tárgyára az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. §-ának (2) és (3) bekezdésében foglaltakat, a díjfizetésre kötelezettek körének megállapítására az Itv. 31. §-a (1) bekezdésének első mondatában, a díj visszafizetésére az Itv. 32. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített állami adóhatóság helyett a kamarát, az illeték helyett díjat kell érteni.
 
-9/A. § A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek minőségellenőrzése esetében hozott döntés ellen a kamarai tag könyvvizsgáló, könyvvizsgáló cég – jogszabály megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint bírósághoz fordulhat.
+9/A. §
 
-9/B. § A kamara az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
+9/B. § A kamara az alapszabályban vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a 7. § (2) bekezdésének alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja, és az eljárás nem minősül közigazgatási hatósági ügynek.
 
-9/C. § A közfelügyeleti hatóság által a 49. § szerinti minősítés tekintetében hozott döntése ellen a kamarai tag könyvvizsgáló, könyvvizsgáló cég – jogszabály megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint bírósághoz fordulhat.
+9/C. §
 
 ### A közfelügyeleti hatóság jogállása, feladatai
 
@@ -228,8 +228,8 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
   - bc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított nyolc évig,
 - c) aki az okleveles könyvvizsgálói szakképesítéshez kötött tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 - d) aki cselekvőképességében részlegesen korlátozott vagy cselekvőképtelen,
-- e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat jogerőre emelkedésétől számított három évig,
-- f) akit a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától meghatározott ideig eltiltott, az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
+- e) akit a kamarából fegyelmi eljárás keretében kizártak, az erről szóló határozat véglegessé válásától számított három évig,
+- f) akit a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától meghatározott ideig eltiltott, az erről szóló határozat véglegessé válásától a határozatban szereplő időtartamig,
 - g) aki az életmódja vagy magatartása miatt a könyvvizsgálói hivatás gyakorlásához szükséges közbizalomra érdemtelen,
 - h) aki a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás hatálya alatt áll.
 
@@ -255,7 +255,7 @@ feltéve, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevé
 
 9/L. § (1) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolást visszavonja, amennyiben a természetes személy nem felel meg a 9/G. § (1) bekezdésében vagy a 9/J. § (1) bekezdésében meghatározott feltételeknek, vagy a kamarai tagsága megszűnik.
 
-(2) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolás visszavonásáról – a döntés jogerőre emelkedésével egyidejűleg – tájékoztatja a kamara felvételi bizottságát.
+(2) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolás visszavonásáról – a döntés véglegessé válásával egyidejűleg – tájékoztatja a kamara felvételi bizottságát.
 
 ### Kamarai tagság keletkezése
 
@@ -338,7 +338,7 @@ Isten engem úgy segéljen!”
 
 19. § (1) A kamarai tag könyvvizsgáló a tagságból eredő jogait a jogszabályoknak, valamint a kamara alapszabályának és önkormányzati szabályzatainak megfelelően gyakorolja.
 
-(2) Ha e törvény másként nem rendelkezik, a kamara testületi szerve által hozott döntés ellen a kamarai tag könyvvizsgáló – jogszabály, a kamara alapszabálya vagy önkormányzati szabályzata megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a Polgári perrendtartásról szóló törvény általános szabályai szerint bírósághoz fordulhat.
+(2)
 
 20. § A kamarai tag könyvvizsgáló a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásának keretében – figyelemmel a magyar nemzeti könyvvizsgálati standardokban foglaltakra – közreműködőt vehet igénybe, ha ahhoz a megbízó hozzájárul, vagy ha az a megbízás jellegével együtt jár. A könyvvizsgáló a közreműködőért úgy felel, mintha a rábízott ügyet maga látta volna el.
 
@@ -435,7 +435,7 @@ Isten engem úgy segéljen!”
 
 (4) A 9/G. § (1) bekezdése szerinti igazolás visszavonása esetén a tagsági jogviszony az engedély visszavonásáról szóló döntés véglegessé válásának napján szűnik meg.
 
-31. § (1) A kamarai tagság megszűnését megállapító határozat jogerőre emelkedése napjával a könyvvizsgálót törölni kell a kamarai tagok nyilvántartásából, egyidejűleg vissza kell vonni könyvvizsgálói igazolványát is, valamint a kamarai tagság megszűnéséről és a megszűnés okáról tájékoztatni kell azon államok illetékes hatóságait, amelyekben a könyvvizsgáló jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult.
+31. § (1) A kamarai tagság megszűnését megállapító határozat véglegessé válása napjával a könyvvizsgálót törölni kell a kamarai tagok nyilvántartásából, egyidejűleg vissza kell vonni könyvvizsgálói igazolványát is, valamint a kamarai tagság megszűnéséről és a megszűnés okáról tájékoztatni kell azon államok illetékes hatóságait, amelyekben a könyvvizsgáló jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult.
 
 (2) A kamarai tagság megszűnésének (1) bekezdés szerinti határozatban foglalt időpontjától kezdődően az érintett természetes személy nem végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
 
@@ -503,8 +503,8 @@ Isten engem úgy segéljen!”
 36. § Nem adható jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére engedély annak a gazdálkodó szervezetnek (szervezetnek),
 
 - a) amelynek létesítő okiratában a tevékenységi körök között a könyvvizsgálói tevékenységgel összeegyeztethetetlen tevékenység szerepel,
-- b) amelynek engedélyét visszavonták az erről szóló határozat jogerőre emelkedésétől a határozatban szereplő időtartamig,
-- c) amelynek engedélye – saját kérésére – megszűnt, az erről szóló határozat jogerőre emelkedésétől számított egy évig,
+- b) amelynek engedélyét visszavonták az erről szóló határozat véglegessé válásától a határozatban szereplő időtartamig,
+- c) amelynek engedélye – saját kérésére – megszűnt, az erről szóló határozat véglegessé válásától számított egy évig,
 - d) amelyre vonatkozóan felszámolási eljárás vagy végelszámolási eljárás van folyamatban,
 - e) amely a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltás hatálya alatt áll.
 
@@ -526,7 +526,7 @@ Isten engem úgy segéljen!”
 
 38. § A könyvvizsgáló cég – közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó könyvvizsgáló cégek esetében a Rendelet 5. cikkével összhangban – jogosult jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység körébe tartozó és a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységen kívüli egyéb szakmai szolgáltatásokat nyújtani. A könyvvizsgáló cég folytathat minden olyan egyéb tevékenységet is, amely nem ütközik e törvény, a kamara alapszabálya, valamint etikai szabályzata rendelkezéseibe.
 
-39. § Ha e törvény másként nem rendelkezik, a kamara testületi szerve által hozott döntés ellen a könyvvizsgáló cég – jogszabály, a kamara alapszabálya vagy önkormányzati szabályzata megsértésére való hivatkozással – a határozat közlésétől számított 30 napon belül a Polgári perrendtartásról szóló törvény általános szabályai szerint bírósághoz fordulhat.
+39. §
 
 ### A könyvvizsgáló cég kötelességei
 
@@ -553,17 +553,17 @@ Isten engem úgy segéljen!”
 - e) a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága által hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján,
 - f) a kamara könyvvizsgáló cégek nyilvántartásából törlő határozata alapján.
 
-(2) Az engedély visszavonásáról szóló, (1) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.
+(2) Az engedély visszavonásáról szóló, (1) bekezdés szerinti véglegessé vált döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.
 
 (3) A kamara a könyvvizsgáló céget törli a nyilvántartásból
 
 - a) a könyvvizsgáló cég kérésére,
-- b) ha a közfelügyeleti hatóság a könyvvizsgáló cég 35. § szerinti engedélyét jogerősen visszavonta,
+- b) ha a közfelügyeleti hatóság a könyvvizsgáló cég 35. § szerinti engedélyét véglegesen visszavonta,
 - c) ha a könyvvizsgáló cég a 36/A. §-ban foglalt feltételeknek a továbbiakban már nem felel meg.
 
-(4) A (3) bekezdés b) pontja alapján a kamara a könyvvizsgáló céget a nyilvántartásból az engedély visszavonásáról szóló döntés jogerőre emelkedésének napjára visszamenőleg törli.
+(4) A (3) bekezdés b) pontja alapján a kamara a könyvvizsgáló céget a nyilvántartásból az engedély visszavonásáról szóló döntés véglegessé válásának napjára visszamenőleg törli.
 
-(5) A nyilvántartásból való törlést megállapító határozat jogerőre emelkedése napjával a kamara visszavonja a 34. § (1) bekezdése alapján kiállított igazolást.
+(5) A nyilvántartásból való törlést megállapító határozat véglegessé válása napjával a kamara visszavonja a 34. § (1) bekezdése alapján kiállított igazolást.
 
 (6) A nyilvántartásból való törlésről és annak okáról a kamara tájékoztatja azon államok illetékes hatóságait, amelyekben a gazdálkodó szervezet (szervezet) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult.
 
@@ -653,7 +653,7 @@ Isten engem úgy segéljen!”
 
 (1a) A 49. § szerinti minősítés iránti kérelmet az 1., illetve 2. melléklet szerinti adattartalommal kell a közfelügyeleti hatósághoz benyújtani.
 
-(1b) A közfelügyeleti hatóság a 49. § szerinti minősítés iránti kérelem beérkezésétől számított 15 napon belül – határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet, amennyiben a kérelem nem felel meg az e törvény szerinti követelményeknek.
+(1b) A közfelügyeleti hatóság a 49. § szerinti minősítés iránti kérelem beérkezésétől számított 15 napon belül – határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel az ügyfelet, amennyiben a kérelem nem felel meg az e törvény szerinti követelményeknek. Amennyiben a tényállás során felmerült új adatra tekintettel szükséges, a közfelügyeleti hatóság – határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – ismételten hiánypótlásra hívja fel az ügyfelet.
 
 (1c) A 49. § szerinti minősítés iránti kérelem tárgyában a közfelügyeleti hatóság a kérelem beérkezésétől számított 60 napon belül dönt.
 
@@ -662,6 +662,16 @@ Isten engem úgy segéljen!”
 - a) legalább három éven vagy három üzleti éven át a minősítésnek megfelelő tevékenységet végző (IFRS-minősítés esetén a beszámolóját a nemzetközi számviteli standardok szerint összeállító) gazdálkodóra vonatkozóan számviteli, ellenőrzési tevékenységet végzett (ideértve az ehhez kapcsolódó szabályozási és felügyeleti feladatokat is) és legalább kétéves vagy két üzleti évre kiterjedő gyakorlata van a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, vagy
 - b) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és a kérelmezett minősítéssel egyező minősítéssel rendelkező minősítésű kamarai tag könyvvizsgáló mellett legalább két évig vagy két üzleti éven át közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály a kérelmezett minősítés meglétét előírja, vagy
 - c) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven vagy három üzleti éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és sikeresen teljesítette a kérelmezett minősítésre előírt szakmai minősítő vizsgát.
+
+(2a) A kamarai tag könyvvizsgáló a Hpt. 8. § (4) bekezdése szerinti hitelintézetnél (a továbbiakban: bank) pénzügyi intézményi minősítés birtokában is csak akkor végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha rendelkezik a közfelügyeleti hatóság által elismert, a feltételek teljesülésének igazolása iránti kérelem benyújtását megelőző 5 éven belüli
+
+- a) a (2) bekezdés a) pontja szerinti banknál végzett számviteli, ellenőrzési gyakorlattal,
+- b) legalább egy üzleti évre kiterjedően banknál végzett 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói gyakorlattal, vagy
+- c) a (2) bekezdés b) pontja szerint a pénzügyi intézményi minősítésű kamarai tag könyvvizsgáló mellett legalább két évig banknál végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában való közreműködéssel.
+
+(2b) Könyvvizsgáló cég banknál pénzügyi intézményi minősítés birtokában is csak akkor végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha van legalább egy olyan kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és megfelel a (2a) bekezdésben foglalt feltételeknek.
+
+(2c) A (2a) és (2b) bekezdés szerinti feltételek teljesülésének elismeréséről a közfelügyeleti hatóság értesíti a kamarát. A feltételek teljesülésének elismerését a kamara rögzíti a kamarai nyilvántartásokban, és közzéteszi a honlapján.
 
 (3) Kérelem alapján minősítést a könyvvizsgáló cég akkor kaphat, ha megfelel az alábbi feltételeknek:
 
@@ -691,8 +701,8 @@ Isten engem úgy segéljen!”
 
 - a) a minősített kamarai tag könyvvizsgáló, könyvvizsgáló cég azt kéri,
 - b) a minősítés előírt feltételei a továbbiakban már nem állnak fenn,
-- c) minőségellenőrzés során hozott jogerős határozatban a minősítést megvonták,
-- d) kamarai minőség-ellenőrzés során hozott jogerős határozatban a minősítés megvonását kezdeményezték,
+- c) minőségellenőrzés során hozott véglegessé vált határozatban a minősítést megvonták,
+- d) kamarai minőség-ellenőrzés során hozott véglegessé vált határozatban a minősítés megvonását kezdeményezték,
 - e) fegyelmi eljárás során keretében a minősítés megvonását kezdeményezték,
 - f) a Magyar Nemzeti Bank a tőkepiacról szóló törvény, a biztosítási tevékenységről szóló törvény a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény, illetve a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvény alapján a minősítés visszavonását kezdeményezte.
 
@@ -905,7 +915,7 @@ tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi
 - c) a könyvvizsgáló a továbbiakban már nem felel meg az (1) bekezdésben foglalt követelményeknek,
 - d) a könyvvizsgáló elhalálozott.
 
-(3) Az engedély visszavonásáról szóló, (2) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.
+(3) Az engedély visszavonásáról szóló, (2) bekezdés szerinti véglegessé vált döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát.
 
 69/A. § (1) A kamara – közhiteles hatósági nyilvántartásnak minősülő – elkülönített jegyzéket vezet a harmadik országbeli könyvvizsgálókról.
 
@@ -948,7 +958,7 @@ tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi
 - c) a harmadik országbeli könyvvizsgáló gazdálkodó továbbiakban már nem felel meg az (1) bekezdésben foglalt követelményeknek,
 - d) a harmadik országbeli könyvvizsgáló gazdálkodó megszűnt.
 
-(3) Az engedély visszavonásáról szóló (2) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát
+(3) Az engedély visszavonásáról szóló (2) bekezdés szerinti véglegessé vált döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát
 
 71/A. § (1) A kamara – közhiteles hatósági nyilvántartásnak minősülő – elkülönített jegyzéket vezet a harmadik országbeli könyvvizsgáló gazdálkodókról.
 
@@ -962,7 +972,7 @@ tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi
 (3) Az (1) bekezdés szerinti jegyzékből törölni kell a harmadik országbeli könyvvizsgáló gazdálkodót, ha
 
 - a) a harmadik országbeli könyvvizsgáló gazdálkodó azt kéri,
-- b) a közfelügyeleti hatóság a harmadik országbeli könyvvizsgáló gazdálkodó 68. § (1) bekezdés szerinti engedélyét jogerősen visszavonta,
+- b) a közfelügyeleti hatóság a harmadik országbeli könyvvizsgáló gazdálkodó 68. § (1) bekezdés szerinti engedélyét véglegesen visszavonta,
 - c) a harmadik országbeli könyvvizsgáló gazdálkodó a továbbiakban már nem felel meg a (2) bekezdésben foglalt követelményeknek,
 - d) a harmadik országbeli könyvvizsgáló gazdálkodó megszűnt.
 
@@ -992,7 +1002,7 @@ tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi
 
 (3) A kamara a tárgyévben jegyzékbe vettek jegyzékbe vételi számát, nevét, címét, valamint a korábban jegyzékbe vettek ezen adataiban bekövetkezett változásokat a kamara lapjában évente közzéteszi, továbbá biztosítja, hogy a nyilvános adatok a kamara honlapján folyamatosan és bárki számára szabadon megtekinthetők legyenek.
 
-75. § (1) A harmadik országbeli könyvvizsgálók, harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből való törlést megállapító határozat jogerőre emelkedése napjával a könyvvizsgálót, a könyvvizsgáló gazdálkodót törölni kell a jegyzékből, egyidejűleg vissza kell vonni a jegyzékbe vételről kiállított igazolását is.
+75. § (1) A harmadik országbeli könyvvizsgálók, harmadik országbeli könyvvizsgáló gazdálkodók jegyzékéből való törlést megállapító határozat véglegessé válása napjával a könyvvizsgálót, a könyvvizsgáló gazdálkodót törölni kell a jegyzékből, egyidejűleg vissza kell vonni a jegyzékbe vételről kiállított igazolását is.
 
 (2) A jegyzékből való törlés (1) bekezdés szerinti határozatban foglalt időpontját követően a harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó által kibocsátott könyvvizsgálói jelentés nem minősül a Magyarországon hatályos jogszabályoknak megfelelő könyvvizsgálói jelentésnek.
 
@@ -1235,8 +1245,8 @@ szerezte.
 
 (3) A kamara az (1) és (2) bekezdés alapján megismert személyes adatokat
 
-- a) a könyvvizsgálójelöltek névjegyzékébe való felvétel iránti eljárás jogerős befejezéséig, vagy
-- b) a könyvvizsgálójelöltek névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) a könyvvizsgálójelöltek névjegyzékébe való felvétel iránti eljárás végleges befejezéséig, vagy
+- b) a könyvvizsgálójelöltek névjegyzékébe való felvétel esetén a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás végleges befejezéséig kezeli.
 
 102. § Ha a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló vagy könyvvizsgáló cég elveszíti jogosultságát a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére Magyarország területén, akkor a könyvvizsgáló jelölt által a munkaviszony, munkaviszony jellegű jogviszony keretében végzett tevékenység a továbbiakban nem minősül könyvvizsgáló jelölti tevékenységnek.
 
@@ -1904,7 +1914,7 @@ finanszírozzák.
 
 (5) A bizottság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a kamarai minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
 
-171. § A kamarai minőségellenőrzés során hozott jogerős határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
+171. § A kamarai minőségellenőrzés során hozott végleges határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
 
 172. § (1) A kamarai minőségellenőrzéssel összefüggésben a következő intézkedések alkalmazhatók:
 
@@ -1927,7 +1937,7 @@ finanszírozzák.
 - e) az eljárásban való együttműködés mértékét;
 - f) a könyvvizsgáló cég vagy kamarai tag könyvvizsgáló által elkövetett korábbi jogsértéseket.
 
-172/A. § A kamarai minőségellenőrzési eljárás során hozott elsőfokú döntés ellen az ügyfél a közfelügyeleti hatóságnál fellebbezhet. A fellebbezés során a 8. § (2) bekezdését és a 9. §-ban foglaltakat kell alkalmazni azzal az eltéréssel, hogy a kamara elnöksége helyett a közfelügyeleti hatóságot, és a Magyar Könyvvizsgálói Kamara központi számlája helyett a miniszter által vezetett minisztérium Magyar Államkincstárnál vezetett számláját kell érteni.
+172/A. § A kamarai minőségellenőrzési eljárás során hozott elsőfokú döntés ellen az ügyfél a közfelügyeleti hatóságnál fellebbezhet. A fellebbezés során a 9. §-ban foglaltakat kell alkalmazni azzal az eltéréssel, hogy a kamara elnöksége helyett a közfelügyeleti hatóságot, és a Magyar Könyvvizsgálói Kamara központi számlája helyett a miniszter által vezetett minisztérium Magyar Államkincstárnál vezetett számláját kell érteni.
 
 173. § A bizottság évenként összefoglaló értékelést tartalmazó jelentést készít a tárgyévben lefolytatott kamarai minőségellenőrzések tapasztalatairól. A jelentést a tárgyévet követő év május 31-ig a kamara honlapján és a kamara lapjában nyilvánosságra kell hozni.
 
@@ -1967,6 +1977,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (3) A minőségellenőrzést a közfelügyeleti hatóság folytatja le. A minőségellenőrzés azt az időszakot fedi le, amely időszakban a kamarai tag könyvvizsgáló, könyvvizsgáló cég rendelkezett közérdeklődésre számot tartó gazdálkodóval megkötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására irányuló megbízással.
 
+(3a) A közfelügyeleti hatóság a minőségellenőrzéseket éves minőségellenőrzési terv alapján végzi, amelyet legkésőbb a tárgyév március 31-ig nyilvánosságra hoz a kormányzati portálon
+
 (4) Rendkívüli minőségellenőrzést kell lefolytatni, ha azt
 
 - a) a kamara fegyelmi megbízottja, fegyelmi bizottsága, szakértői bizottsága kezdeményezi,
@@ -1989,6 +2001,17 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (8) A közfelügyeleti hatóság az ellenőrzés lefolytatása érdekében előzetesen adatokat, információkat, iratokat kérhet be.
 
+(8a) A közfelügyeleti hatóság az ellenőrzésre kiválasztott részére a helyszíni ellenőrzés előtt 8 nappal értesítést küld. Az értesítés kiküldése előtt a közfelügyeleti hatóság előzetesen egyeztet az ellenőrzöttel az ellenőrzés helyszínéről és időpontjáról.
+
+(8b) A (8a) szerinti értesítésnek tartalmaznia kell:
+
+- a) az ügy tárgyát, iktatási számát, az eljárás megindításának napját és az adott ügyfajtára irányadó ügyintézési határidőt, az ügyintéző nevét és hivatali elérhetőségét,
+- b) tájékoztatást az iratokba való betekintés és a nyilatkozattétel lehetőségéről,
+- c) hivatalból indult eljárásban az erre történő utalást, kérelemre indult eljárásban a kérelmező nevét,
+- d) a könyvvizsgáló, a könyvvizsgáló cég nevét, nyilvántartási számát, az eljárás lefolytatására kijelölt ellenőr és közreműködő azonosítási adatait,
+- e) a minőségellenőrzés alá vont megbízások megnevezését és a vizsgált időszakot, könyvvizsgáló cég esetén azt is, hogy a minőségellenőrzés a belső minőségellenőrzési rendszer értékelésére terjed ki, amelynek során az egyes megbízások minőségellenőrzésének eredményét is figyelembe kell venni,
+- f) az ellenőrzés dátumát és helyszínét.
+
 (9) Az ellenőr az ellenőrzést a közfelügyeleti hatóság vezetője vagy az általa kijelölt személy által kiadott megbízólevél birtokában folytathatja le. A megbízólevél tartalmazza az ellenőr nevét, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég azonosító adatait, valamint azt, hogy mely időszak tekintetében kell az ellenőrzést lefolytatni.
 
 (10) Az ellenőr az ellenőrzés alá vont kamarai tag könyvvizsgálótól, könyvvizsgáló cégtől minden olyan iratot, adatot, információt, nyilatkozatot megkérhet, az ellenőrzés alá vont minden olyan munkafolyamatát megvizsgálhatja, amely az ellenőrzés lefolytatásához szükséges. Az ellenőr az ellenőrzés során jogosult az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég helyiségeibe belépni, iratairól, adathordozóiról, nyilvántartásairól másolatot készíteni, illetve készíttetni.
@@ -1997,11 +2020,13 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (12) Az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az ellenőrzés során köteles az ellenőrrel együttműködni, a helyszíni ellenőrzés feltételeit biztosítani.
 
-(13) A Rendelet 21. cikke alapján, ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szükséges, közreműködőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök, valamint az adott minőségellenőrzéshez szükséges speciális szaktudással rendelkező személyek is bevonhatók. A minőségellenőrzésben közreműködőként részt vevő kamarai minőségellenőrök és más személyek a minőségellenőrzés során önálló írásos véleményt nem készítenek, döntéshozatalban nem vesznek részt.
+(13) A Rendelet 21. cikke alapján, ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szükséges, közreműködőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök, valamint az adott minőségellenőrzéshez szükséges speciális szaktudással rendelkező személyek is bevonhatók. A minőségellenőrzésben közreműködőként részt vevő kamarai minőségellenőrök és más személyek a minőségellenőrzés során önálló írásos véleményt nem készítenek, döntéshozatalban nem vesznek részt. A közreműködőnek a helyszíni ellenőrzés megkezdése előtt titoktartási nyilatkozatot kell adnia az ellenőrzöttnek.
+
+(13a) Az ellenőrnek, a közreműködőnek és az ellenőrzöttnek a helyszíni ellenőrzés megkezdése előtt nyilatkozatot kell tennie a függetlenségi és összeférhetetlenségi követelményeknek való megfelelésről.
 
 (14) A kamara a minőségellenőrzés lefolytatásához szükséges dokumentumokat, nyilvántartásokat a közfelügyeleti hatóság kérelmére tizenöt napon belül átadja a közfelügyeleti hatóságnak.
 
-(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 60 nap. A közfelügyeleti hatóság az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb 21 nappal meghosszabbíthatja, amelyről az ügyfelet értesíteni kell.
+(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 60 nap.
 
 173/C. § (1) A minőségellenőrzésről az ellenőr záró jelentést készít.
 
@@ -2013,7 +2038,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (5) A közfelügyeleti hatóság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
 
-(6) A minőségellenőrzés során hozott jogerős határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
+(6) A minőségellenőrzés során hozott véglegessé vált határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
 
 (7) A minőségellenőrzéssel összefüggésben a következő intézkedések alkalmazhatók:
 
@@ -2042,13 +2067,13 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén annak tényéről és az alkalmazott intézkedésekről értesíti a kamarát, a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
 
-(10) Amennyiben a közfelügyeleti hatóság a (7) bekezdés d) pontjában foglalt intézkedést alkalmazza, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az (5) bekezdés szerinti jogerős határozat kézhezvételétől számított kilencven napon belül értesíti a közfelügyeleti hatóságot az ismételten elvégzett könyvvizsgálat eredményéről. Amennyiben a könyvvizsgálat ismételt elvégzése alapján megállapítható, hogy az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég által korábban kibocsátott könyvvizsgálói jelentés nem megfelelő, a kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles azt visszavonni, és új könyvvizsgálói jelentést kibocsátani.
+(10) Amennyiben a közfelügyeleti hatóság a (7) bekezdés d) pontjában foglalt intézkedést alkalmazza, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az (5) bekezdés szerinti véglegessé vált határozat kézhezvételétől számított kilencven napon belül értesíti a közfelügyeleti hatóságot az ismételten elvégzett könyvvizsgálat eredményéről. Amennyiben a könyvvizsgálat ismételt elvégzése alapján megállapítható, hogy az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég által korábban kibocsátott könyvvizsgálói jelentés nem megfelelő, a kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles azt visszavonni, és új könyvvizsgálói jelentést kibocsátani.
 
 (11) Amennyiben a könyvvizsgálat (10) bekezdés szerinti ismételt elvégzésére 90 napon belül nem kerül sor, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles a kibocsátott könyvvizsgálói jelentést visszavonni.
 
 (12) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást igénybe vevők vagy a tőkepiacról szóló 2001. évi CXX. törvény szerinti befektetők érdekét veszélyeztető helyzet észlelése esetén a közfelügyeleti hatóság intézkedéseiről tájékoztathatja a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
 
-(13) A kamarai tag könyvvizsgáló, könyvvizsgáló cég belső minőségbiztosítási rendszerének minőségellenőrzése során a közfelügyeleti hatóság által hozott jogerős határozatban foglaltakat a határozat közlésétől számított 12 hónapon belül végrehajtja. A végrehajtást a közfelügyeleti hatóság vizsgálhatja.
+(13) A kamarai tag könyvvizsgáló, könyvvizsgáló cég belső minőségbiztosítási rendszerének minőségellenőrzése során a közfelügyeleti hatóság által hozott végleges határozatban foglaltakat a határozat közlésétől számított 12 hónapon belül végrehajtja. A végrehajtást a közfelügyeleti hatóság ellenőrizheti.
 
 (14) Ha a közfelügyeleti hatóság megállapítja, hogy az ellenőrzött kamarai tag könyvvizsgáló, könyvvizsgáló cég a könyvvizsgálói tevékenységét a (13) bekezdésben foglalt kötelezettségek teljesítése nélkül végezte, a (7) bekezdés szerinti intézkedések alkalmazhatók.
 
@@ -2137,9 +2162,9 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A (3) bekezdés alapján hozott határozatot az elnökség nevében a kamara elnöke 10 munkanapon belül kézbesítteti a fegyelmi bizottságnak és az eljárás alá vontnak.
 
-(5) A (3) bekezdés szerinti fegyelmi büntetést, figyelmeztetést tartalmazó elnökségi döntés ellen – a kézbesítéstől számított 30 napon belül – a kamarai tag könyvvizsgáló, a könyvvizsgáló cég a közigazgatási perekre (Polgári perrendtartásról szóló törvény XX. fejezet) irányadó szabályok szerint bírósághoz fordulhat.
+(5)
 
-(6) Ha a 177. § (1) bekezdésének e) pontjában foglalt fegyelmi büntetés ellen az eljárás alá vont az (5) bekezdés szerint bírósághoz fordult, a bíróság jogerős ítéletéig a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem nyújthat szakmai szolgáltatást, továbbá a kamarai tag könyvvizsgáló jogai és kötelezettségei a szüneteltetésre vonatkozó rendelkezések szerint alakulnak.
+(6) Ha a 177. § (1) bekezdés e) pontjában foglalt fegyelmi büntetés ellen az eljárás alá vont bírósághoz fordult, a kamarai tag könyvvizsgáló jogai és kötelezettségei a szüneteltetésre vonatkozó rendelkezések szerint alakulnak.
 
 (7) Az érintett állami szerv kezdeményezése alapján elrendelt fegyelmi eljárást lezáró jogerős fegyelmi határozatot tájékoztatásul kézbesíteni kell az érintett állami szerv részére. Az érintett állami szerv a tájékoztatásul megkapott határozatot nem hozhatja harmadik személyek tudomására és nem teheti közzé.
 
@@ -2270,11 +2295,11 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (2) A kamara azon határozatait, amelyekre a közfelügyelet kiterjed, továbbá a kamara alapszabályát és önkormányzati szabályzatait – azok elfogadásától számított 15 napon belül – köteles megküldeni a közfelügyeleti hatóságnak.
 
-195. § (1) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást igénybe vevők érdekét veszélyeztető helyzet feltárása, kialakulásának megelőzése érdekében ellenőrzést végezhet, a kamarától, a közfelügyelet hatálya alá tartozó személyektől, szervezetektől iratot, adatot, információt, nyilatkozatot kérhet, valamint e célból betekinthet irataikba, könyveikbe és adathordozóikba.
+195. § (1) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást igénybe vevők érdekét veszélyeztető helyzet feltárása, kialakulásának megelőzése érdekében ellenőrzést végezhet.
 
 (2) A közfelügyeleti hatóság az (1) bekezdés szerinti eljárása során jogosult megismerni és kezelni a közfelügyelet hatálya alá tartozó személy és a vele kapcsolatba hozható személyek személyes adatait. Ha az (1) bekezdés szerinti iratok, könyvek, adathordozók (a továbbiakban e bekezdés alkalmazásában együtt: adathordozó) az eljárás tárgyával össze nem függő személyes adatot is tartalmaznak és az adatok elkülönítése az adathordozó eljárásban való felhasználhatóságának sérelme nélkül nem lehetséges, az adathordozóval érintett minden személyes adat kezelésére jogosult a közfelügyeleti hatóság, azonban az eljárás tárgyával össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze az eljárás tárgyával.
 
-(3) Az (1) bekezdés szerinti eljárás során a határozat meghozatalára nyitva álló határidő az eljárás megindításától számított 60 nap. A közfelügyeleti hatóság az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb 21 nappal meghosszabbíthatja, amelyről az ügyfelet értesíteni kell.
+(3) Az (1) bekezdés szerinti eljárás során a határozat meghozatalára nyitva álló határidő az eljárás megindításától számított 60 nap.
 
 196. § (1) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást igénybe vevők érdekét veszélyeztető helyzet észlelése esetén a 195. § (1) bekezdése szerinti eljárás alapján rendelkezésére álló tények elemzése, értékelése, mérlegelése alapján a következő intézkedések alkalmazhatók:
 
@@ -2319,18 +2344,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 199. § (1) Ha a miniszter az ellenőrzés során szabálytalanságot tapasztal, a szabálytalanság megállapításától számított 30 napon belül a törvényesség helyreállítására felhívja a kamara elnökét.
 
-(2) Ha a kamara működésének törvényessége másképpen nem állítható helyre, akkor e tény megállapításától számított 30 napon belül a miniszter – a Polgári perrendtartásról szóló törvény általános szabályai szerint – a bírósághoz fordul. A bíróság
-
-- a) hatályon kívül helyezheti a kamara testületi szervének jogsértő határozatát, és új határozat hozatalát rendelheti el,
-- b) felfüggesztheti a kamara testületi szerveinek és tisztségviselőinek működését és a kamara irányítására, – a felfüggesztés tartamára – a kamara tagjai közül felügyelő biztost rendelhet ki.
-
-(3) A felügyelő biztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a kamara küldöttgyűlését. Ha a küldöttgyűlés a működés törvényességét helyreállította, a bíróság a kamara más testületi szervének és tisztségviselőinek működésére vonatkozó felfüggesztést megszünteti.
-
-(4) Nem rendelhető ki felügyelő biztosként az, aki a kamarában nem viselhet tisztséget.
-
-(5) A felügyelő biztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot, valamint a miniszteri törvényességi felügyeletet ellátó minisztert.
-
-(6) A felügyelő biztos díjazását és költségtérítését a bíróság állapítja meg. A felügyelő biztos díját és költségtérítését a kamara viseli.
+(2)–(6)
 
 200. § A kamara azokat a határozatait, amelyekre a miniszteri törvényességi felügyelet kiterjed, továbbá a kamara alapszabályát és egyéb önkormányzati szabályzatait – azok elfogadásától számított 15 napon belül – köteles megküldeni a miniszternek.
 
@@ -2344,18 +2358,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 200/B. § (1) Ha a közfelügyeleti hatóság a közfelügyeleti törvényességi felügyelet gyakorlása során szabálytalanságot tapasztal, a szabálytalanság megállapításától számított 30 napon belül a törvényesség helyreállítására felhívja a kamara elnökét.
 
-(2) Ha a kamara működésének törvényessége másképpen nem állítható helyre, akkor e tény megállapításától számított 30 napon belül a közfelügyeleti hatóság – a polgári perrendtartásról szóló törvény általános szabályai szerint – a bírósághoz fordul. A bíróság
-
-- a) hatályon kívül helyezheti a kamara testületi szervének jogsértő határozatát, és új határozat hozatalát rendelheti el,
-- b) felfüggesztheti a kamara testületi szerveinek és tisztségviselőinek működését és a kamara irányítására – a felfüggesztés tartamára – a kamara tagjai közül felügyelő biztost rendelhet ki.
-
-(3) A felügyelő biztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a kamara küldöttgyűlését. Ha a küldöttgyűlés a működés törvényességét helyreállította, a bíróság a kamara más testületi szervének és tisztségviselőinek működésére vonatkozó felfüggesztést megszünteti.
-
-(4) Nem rendelhető ki felügyelő biztosként az, aki a kamarában nem viselhet tisztséget.
-
-(5) A felügyelő biztos a tevékenységéről és annak eredményéről tájékoztatja a bíróságot, valamint a közfelügyeleti törvényességi felügyeletet ellátó közfelügyeleti hatóságot.
-
-(6) A felügyelő biztos díjazását és költségtérítését a bíróság állapítja meg. A felügyelő biztos díját és költségtérítését a kamara viseli.
+(2)–(6)
 
 ### XVI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -2463,6 +2466,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A Mód2 törvény 52. §-ával hatályon kívül helyezett 173/C. § (7) bekezdés c) pontját, 173/C. § (8) bekezdését a Mód2 törvény hatálybalépését követően induló eljárásokra nem kell alkalmazni.
 
+208/K. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 208/L. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel módosított, 50. § (2) bekezdését és 1. mellékletét a hatálybalépést követően indult eljárásokra kell alkalmazni.
 
 (2) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel módosított 173/A. § (2) és (6) bekezdését a 2017. június 26-át követően indult eljárásokra kell először alkalmazni.
@@ -2472,6 +2477,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 (4) A Mód2 törvény hatálybalépésekor érvényben lévő 35. § szerinti kamara által kiállított engedélyek ugyanazon joghatás kiváltására alkalmasak, mint a Mód2 törvény hatálybalépését követően a 35. § szerinti közfelügyeleti hatóság által kiállított engedélyek.
 
 (5) A Mód2 törvény hatálybalépésekor érvényben lévő kamarai tagsági felvételről szóló döntés ugyanazon joghatás kiváltására alkalmas, mint a Mód2 törvény hatálybalépését követően a 9/G. § szerinti közfelügyeleti hatóság által kiállított igazolás.
+
+208/M. § Az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő törvények és egyes egyéb törvények módosításáról szóló 2017. évi CLIX. törvénnyel megállapított 50. § (2a) és (2b) bekezdését a 2018. évi üzleti év könyvvizsgálatára kell először alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

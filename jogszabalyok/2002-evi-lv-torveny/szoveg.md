@@ -8,11 +8,11 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 ### A törvény célja
 
-1. § (1) E törvény célja, hogy elősegítse a természetes személyek és más személyek személyi és vagyoni jogaival kapcsolatban felmerült azon polgári jogviták rendezését, amelyekben a felek rendelkezési jogát törvény nem korlátozza.
+1. § (1) E törvény célja, hogy elősegítse a természetes személyek és más személyek személyi és vagyoni jogaival kapcsolatban felmerült azon polgári és közigazgatási jogviták rendezését, amelyekben a felek rendelkezési jogát törvény nem korlátozza.
 
 (2) E törvény hatálya nem terjed ki a külön törvényben szabályozott más közvetítői vagy békéltetői eljárásra, továbbá a választottbírósági eljárás során lefolytatandó közvetítésre, kivéve ha a külön törvény, vagy annak felhatalmazása alapján kiadott rendelet másként rendelkezik.
 
-(3) Nincs helye e törvény szerinti közvetítői eljárásnak a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XVI–XVIII., XX–XXI. és XXIV–XXV. fejezetei alá tartozó ügyekben. A Pp. XV. fejezete alá tartozó ügyekben a bíróság döntése szükséges a házasság érvényességének, illetőleg létezésének vagy nemlétezésének megállapításához, továbbá a házasság érvénytelenítéséhez és a házasság felbontásához.
+(3) Nincs helye e törvény szerinti közvetítői eljárásnak a polgári perrendtartásról szóló törvény szerinti gondnoksági perekben, származási perekben, a szülői felügyelet gyakorlásának rendezése iránt indított per kivételével a szülői felügyelettel kapcsolatos perekben, az örökbefogadás felbontása iránti perekben, a közösséghez tartozással összefüggő személyiségi jog érvényesítése iránti per kivételével az egyes személyiségi jogok érvényesítése iránt indított perekben, a jegyző birtokvédelmi ügyben hozott határozatának megváltoztatása iránt indított perekben, valamint a végrehajtási perekben. A házassági perekben a bíróság döntése szükséges a házasság érvénytelenségének, továbbá érvényességének, létezésének vagy nemlétezésének megállapításához és a házasság felbontásához.
 
 (4) A bejegyzett élettársi kapcsolat közjegyző általi megszüntetése alá tartozó ügyekben a közjegyző döntése szükséges a bejegyzett élettársi kapcsolat megszüntetéséhez.
 
@@ -47,11 +47,11 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (3) A bejelentő a névjegyzékbe történő felvételért díjat köteles fizetni.
 
-(4) A természetes személy a miniszter rendeletében meghatározott módon köteles igazolni, hogy a közvetítői tevékenységhez szükséges elméleti és gyakorlati ismereteket a közvetítői szakmai képzés elvégzésével elsajátította.
+(4) A természetes személy a jogszabályban meghatározott módon köteles igazolni, hogy a közvetítői tevékenységhez szükséges elméleti és gyakorlati ismereteket a közvetítői szakmai képzés elvégzésével elsajátította.
 
-(5) Vizsgálat alapján történő törlés esetén a természetes személy és jogi személy a törlésről szóló határozat jogerőre emelkedésétől számított öt évig nem vehető fel a névjegyzékbe.
+(5) Vizsgálat alapján történő törlés esetén a természetes személy és jogi személy a törlésről szóló határozat véglegessé válásától számított öt évig nem vehető fel a névjegyzékbe.
 
-5/A. § Az ellenőrzés során megismert személyes adatokat a miniszter a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+5/A. § Az ellenőrzés során megismert személyes adatokat a miniszter a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás végleges vagy jogerős befejezéséig kezeli.
 
 5/B. § Közvetítői tevékenységet a 4. §-ban felsorolt személyeken és szervezeteken kívül az e törvényben meghatározottak szerint bírósági titkár, bíró vagy rendelkezési állományba helyezett bíró is elláthat (a továbbiakban: bírósági közvetítés).
 
@@ -65,7 +65,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - d) névjegyzékbe vételének időpontját, a határozat számát,
 - e) közvetítői tevékenysége megkezdésének, szünetelésének, megszűnésének időpontját,
 - f) által megjelölt idegen nyelvet, amelyen közvetítést vállal,
-- g) szakterületét, amelyet a kérelemben megjelölt,
+- g) szakterületét, amelyet a bejelentésben megjelölt,
 - h) irodájának címét,
 - i) által megjelölt annak a jogi személynek a címét, amelynek alkalmazottjaként a közvetítői tevékenységet folytatja, vagy a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a jogi személy székhelyétől,
 - j) elérhetőségi címét (postacímét, telefon-, telefaxszámát, e-mail címét),
@@ -102,9 +102,9 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 ### A névjegyzékbe történő felvétel iránti bejelentés
 
-8. § (1) A névjegyzékbe történő felvétel iránti bejelentést egy példányban, az erre rendszeresített nyomtatvány kitöltésével a miniszterhez kell benyújtani. Az eljárás telefaxon történő kapcsolattartással nem folytatható le.
+8. § (1) A névjegyzékbe történő felvétel iránti bejelentést egy példányban, az erre rendszeresített nyomtatvány kitöltésével a miniszterhez kell benyújtani.
 
-(2) A bejelentésnek a 6. § (1) és (2) bekezdésében felsorolt adatokat kell – a 6. § (1) bekezdés d), e) és n), továbbá a 6. § (2) bekezdés f) pontjaiban foglaltak kivételével – tartalmaznia. A bejelentéshez csatolni kell a 6. § (1) bekezdésének c), f) és m) pontjában írtak igazolására szolgáló iratok hiteles másolatát.
+(2) A bejelentésnek a 6. § (1) és (2) bekezdésében felsorolt adatokat kell – a 6. § (1) bekezdés d), e), és n) pontjában, továbbá a 6. § (2) bekezdés f) pontjában foglaltak kivételével – tartalmaznia. A bejelentéshez csatolni kell a 6. § (1) bekezdésének – a közvetítői szakmai képzés elvégzését igazoló okirat kivételével – a c), f), és m) pontjában írtak igazolására szolgáló iratokat, valamint a közvetítői szakmai képzés elvégzését igazoló eredeti okiratot vagy annak hiteles másolatát.
 
 (3)
 
@@ -114,7 +114,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (6)
 
-9. § (1) A miniszter a közvetítőt a névjegyzékbe történő felvétellel egyidejűleg közvetítői minőségének igazolására szolgáló közvetítői igazolvánnyal látja el.
+9. § (1) A miniszter hivatalbóli eljárásban a közvetítőt a névjegyzékbe történő felvételét követően közvetítői minőségének igazolására szolgáló arcképes közvetítői igazolvánnyal látja el. Az igazolvány személyesen vehető át.
 
 (2) Ha a névjegyzékbe felvételt nyert természetes személy jogi személy alkalmazottjaként jogosult a közvetítői tevékenység folytatására, az igazolvány a jogi személy elnevezését is tartalmazza.
 
@@ -187,7 +187,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 17. § (1) A miniszter jogosult hivatalból vagy a közvetítői eljárásban érintettek (a felek, a szakértő, a közvetítői eljárásban meghallgatott más harmadik személy) bejelentése alapján a névjegyzékbe felvett természetes személynek és a jogi személynek (e fejezetben a továbbiakban: közvetítő) a közvetítéshez kapcsolódó működése rendszeres és eseti ellenőrzésére.
 
-(2) A vizsgálat megkezdéséről a közvetítőt a miniszter írásban értesíti. Ha a vizsgálat bejelentés alapján indul, a miniszter értesítésével megküldi a bejelentést tartalmazó irat másolatát is, és felhívja a közvetítőt harmincnapos határidővel igazoló jelentés benyújtására. A határidő kérelemre egy alkalommal további harminc nappal meghosszabbítható.
+(2) Ha a vizsgálat bejelentés alapján indul, a miniszter értesítésével megküldi a bejelentést tartalmazó irat másolatát is, és felhívja a közvetítőt harmincnapos határidővel igazoló jelentés benyújtására. A határidő kérelemre egy alkalommal további harminc nappal meghosszabbítható.
 
 (3) Az igazoló jelentés benyújtásának elmulasztása nem akadálya az eljárás lefolytatásának.
 
@@ -227,13 +227,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - b) természetes személyként kívánja-e folytatni, vagy
 - c) kéri a tevékenység szüneteltetését.
 
-### Jogorvoslat
-
-22. § (1)
-
-(2) A miniszter bírósági felülvizsgálattal megtámadható döntései elleni kérelemről a bíróság közigazgatási nemperes eljárásban, végzéssel határoz.
-
-(3) A bíróság az ügyben a kérelem benyújtásától számított 60 napon belül határoz.
+#### 22. §
 
 ### IV. Fejezet — A KÖZVETÍTŐI ELJÁRÁS
 
@@ -258,6 +252,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 24. § (1) A természetes személy, továbbá a jogi személy nevében eljáró alkalmazott – a jogi személy vezetőjével egyeztetve – a kérelem kézhezvételét követő 8 napon belül köteles írásban, telefax útján vagy elektronikus levélben nyilatkozni arról, hogy a felkérést elfogadja-e. Ha a felek által felkért természetes személy, továbbá a jogi személy nevében eljáró alkalmazott a felkérést elfogadja, a közvetítői eljárás lefolytatására, mint közvetítő, ő jogosult.
 
 (2) A közvetítő a felkérést a 25. § (1) bekezdésében foglaltak szerinti összeférhetetlenség esetén köteles visszautasítani, egyéb akadályoztatás esetén pedig visszautasíthatja.
+
+(3) A közvetítő – ha abban az időszakban kérik fel és a felkérést elfogadná – a felkérésre adott elfogadó nyilatkozatát megelőzően írásban tájékoztatja a feleket arról, hogy a névjegyzékbe még nem került bejegyzésre, valamint arról, hogy ha a miniszter a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint a névjegyzékbe bejegyzés helyett megtiltja a tevékenység folytatását, az általa lefolytatott eljárás nem fogja kiváltani a közvetítő eljáráshoz kapcsolt jogkövetkezményeket.
 
 ### Összeférhetetlenség
 
@@ -354,7 +350,7 @@ a közvetítői eljárásban
 
 (2) A közvetítő a felek együttes jelenlétében megkötött megállapodást a közvetítői eljárás lefolytatására választott nyelven írásba foglalja és a megállapodást tartalmazó okiratot a feleknek átadja. A megállapodást a közvetítő és az együttesen, személyesen jelen lévő felek aláírásukkal látják el. A megállapodás írásba foglalásának elmaradása esetén a megállapodás – részben vagy egészben – történő teljesítése a kötelező alakiság mellőzése miatti érvénytelenséget nem orvosolja.
 
-(3) Ha a közvetítői eljárásban jogtanácsos, közjegyző vagy ügyvéd vett részt közvetítőként, az eljárás során létrejött, írásba foglalt megállapodás alapján joghatás kiváltására alkalmas okiratot nem készíthet és a közvetítő jogtanácsosként vagy ügyvédként annak ellenjegyzésére sem jogosult.
+(3) Ha a közvetítői eljárásban közjegyző, ügyvéd vagy kamarai jogtanácsos vett részt közvetítőként, az eljárás során létrejött, írásba foglalt megállapodás alapján joghatás kiváltására alkalmas okiratot nem készíthet és a közvetítő ügyvédként vagy kamarai jogtanácsosként annak ellenjegyzésére sem jogosult.
 
 (4) Ha a megállapodásban névcsere, hibás név- vagy számelírás, számítási hiba vagy más hasonló elírás történt, a felek együttes kérelme alapján a közvetítő – a kérelem kézhezvételét követő – 15 napon belül kijavítja a megállapodást.
 
@@ -387,15 +383,17 @@ a közvetítői eljárásban
 
 ### A bírósági közvetítésre vonatkozó különös rendelkezések
 
-38/B. § (1) A bírósági közvetítésre a bíróság illetékességi területe és a polgári perrendtartás szerinti illetékességi szabályok nem irányadóak.
+38/B. § (1) A bírósági közvetítésre a bíróság illetékességi területe és a polgári, illetve a közigazgatási perrendtartás szerinti illetékességi szabályok nem irányadóak.
 
-(2) A bírósági közvetítésre a 4–5/A. §, a 6–22. §, a 23. § (1), (2) és (3) bekezdés b) pontja, a 24. §, a 27. §, a 28. § (1) és (3) bekezdése és a 37. § nem alkalmazható.
+(2) A bírósági közvetítésre a 4–5/A. §, a 6–21. §, a 23. § (1), (2) és (3) bekezdés b) pontja, a 24. §, a 27. §, a 28. § (1) és (3) bekezdése és a 37. § nem alkalmazható.
 
 (3) A peres vagy nemperes bírósági eljárás felei a bírósági közvetítés lefolytatása iránti közös kérelmüket a bírósági közvetítési feladatokat ellátó bíróságnál terjeszthetik elő.
 
+(3a) A közigazgatási bírósági eljárásban elrendelt bírósági közvetítés esetén a bíró végzését a közvetítést elrendelő bíróság székhelye szerint illetékes törvényszéknek, mint közvetítési feladatokat ellátó bíróságnak megküldi.
+
 (4) A bíróság a bírósági közvetítőként eljáró bírósági titkár vagy rendelkezési állományba helyezett bíró nevéről, az első tájékoztató megbeszélés időpontjáról és az eljárásban történő képviselet lehetőségéről 8 napon belül tájékoztatja a feleket.
 
-(5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni. A közvetítői eljárás során, mint közvetítő nem járhat el az ugyanazon közvetítői eljárással érintett peres vagy nemperes bírósági eljárásban eljáró bíró. Az ugyanazon közvetítői eljárással érintett peres vagy nemperes bírósági eljárásban mint bíró nem vehet részt a közvetítői eljárást lefolytató személy.
+(5) Az összeférhetetlenségre vonatkozó szabályokat a bírák kizárására vonatkozó külön törvényben meghatározott szabályokkal együtt kell alkalmazni. A közvetítői eljárás során mint közvetítő nem járhat el az ugyanazon közvetítői eljárással érintett peres vagy nemperes bírósági eljárásban eljáró bíró.
 
 (6) E törvény 38. §-a azzal az eltéréssel alkalmazandó, hogy a bírósági közvetítés során keletkezett iratokat a bíróság őrzi, és gondoskodik a másolatok kiadásáról.
 
@@ -428,7 +426,7 @@ a közvetítői eljárásban
 
 38/G. § (1) A kötelező közvetítői eljárás lefolytatására történő felkérést a közvetítő – kivéve ha összeférhetetlenségi ok áll fenn vagy a jogvita tárgya nem tartozik a 6. § (1) bekezdés g) pontja szerinti szakterületébe – köteles elfogadni, ha a miniszternek erről szóló alávetési nyilatkozatot tesz.
 
-(2) Az alávetési nyilatkozatot a közvetítő – legkorábban a névjegyzékbe-vételi kérelemmel egyidejűleg – bármikor megteheti. E nyilatkozat visszavonható; a visszavonás nem érinti azt az ügyet, amelyben a nyilatkozat megtétele tényének a névjegyzékből való törlése előtt a felkérés már megtörtént.
+(2) Az alávetési nyilatkozatot a közvetítő – legkorábban a névjegyzékbe történő felvétel iránti bejelentéssel egyidejűleg – bármikor megteheti. E nyilatkozat visszavonható; a visszavonás nem érinti azt az ügyet, amelyben a nyilatkozat megtétele tényének a névjegyzékből való törlése előtt a felkérés már megtörtént.
 
 38/H. (1) A közvetítő az első közvetítői megbeszélés időpontját a felekkel egyeztetve úgy határozza meg, hogy a felek a kötelezésnek eleget tehessenek. Ha a kötelező közvetítői eljárás igénybevételének igazolására jogszabály határidőt határoz meg, az első közvetítői megbeszélés közvetítő által javasolt időpontjának a határidő lejártát legalább 15 nappal meg kell előznie.
 
@@ -448,15 +446,19 @@ a közvetítői eljárásban
 
 (2) Aki a közvetítői szakmai képzés elvégzését az (1) bekezdés szerint igazolta, annak az első továbbképzési időszak 2014. január 1. napján kezdődik; ha a szakmai képzés elvégzése és 2014. január 1. napja között továbbképzésen vett részt, az továbbképzési kötelezettségének teljesítésébe beszámít.
 
+39/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 ### Felhatalmazások
 
 40. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 - a) a közvetítői igazolvány kiadására vonatkozó szabályokat, valamint az igazolvány tartalmi elemeit és formai kellékeit,
-- b) a névjegyzék vezetésére, a névjegyzékbe történő felvételi kérelem benyújtására, a közvetítő adatváltozás bejelentési kötelezettségére és a névjegyzékben szereplő adatok kezelésére vonatkozó részletes szabályokat,
+- b)
 - c) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe történő felvételi eljárás lefolytatásért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait,
 - d) a közvetítői szakmai képzésként és a továbbképzési kötelezettség teljesítéseként elfogadható képzéseket, a közvetítői szakmai képzés és a továbbképzési kötelezettség teljesítésének igazolásával kapcsolatos szabályokat, valamint a továbbképzési kötelezettség alóli mentesség eseteit és igazolásának szabályait,
 - e) a bírósági közvetítés ügyvitelének rendjét az OBH elnöke véleményének kikérésével.
+
+40/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a névjegyzék vezetésére, a névjegyzékbe történő felvétel iránti bejelentés benyújtására, a névjegyzékben szereplő adatok kezelésére vonatkozó részletes szabályokat.
 
 41. § Az OBH elnöke szabályzatban állapítja meg a bírósági közvetítéssel kapcsolatos részletszabályokat.
 

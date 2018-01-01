@@ -61,24 +61,39 @@ látja el.
 
 3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi irányelv, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
+(1a) Az e §-ban meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
+
+(1b) Ha a légiközlekedési hatóság által kiadott engedéllyel vagy tanúsítással kapcsolatos hivatalbóli eljárásban az ügyfél a hatóság erre irányuló felhívása ellenére – a hatóság által előírt határidőn belül – adatszolgáltatási kötelezettségét nem teljesíti, a hatóság az engedélyt vagy tanúsítást felfüggesztheti az adatszolgáltatási kötelezettség teljesítéséig. Ha a légiközlekedési hatóság által kiadott engedéllyel vagy tanúsítással kapcsolatos hivatalbóli eljárásban az ügyfél más tudomása ellenére az ügy szempontjából jelentős adatot valótlanul állít, a hatóság – az általános közigazgatási rendtartásról szóló törvényben foglalt jogkövetkezmények alkalmazásán túl – az engedélyt vagy tanúsítást egytől három évig terjedő időtartamra felfüggesztheti. Az ügyfél mindkét esetben a felfüggesztett engedélyt vagy tanúsítást köteles a hatóság számára visszaszolgáltatni.
+
+(1c) A légiközlekedési hatóság eljárásaiban hiánypótlásra felhívásnak többször is helye van.
+
+(1d) A légiközlekedési hatóság eljárásaiban hozott döntés akkor is módosítható vagy visszavonható, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
+
+(1e) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. A hatóság a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában. Ha a hatóság hivatalból nem tudja megállapítani, hogy az iratbetekintési kérelem benyújtásakor az iratbetekintés korlátozásának az okai fennállnak-e, az üzleti és más méltányolható magánérdek alapján védelemre jogosultat nyilatkozattételre hívja fel. Az iratbetekintés nem tagadható meg, ha a jogosult határidőben nem nyilatkozik.
+
 (2) Az állami célú légiközlekedéssel összefüggő hatósági feladatokat katonai légügyi hatóság látja el.
 
-(2a) A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 45 nap.
+(2a) A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 55 nap.
 
-(2b) Az ügyintézési határidő 70 nap a következő közigazgatási hatósági eljárásokban:
+(2b) Az ügyintézési határidő 90 nap a következő közigazgatási hatósági eljárásokban:
 
-- a) légi jármű és légijármű-berendezés karbantartó szervezetek jóváhagyása,
-- b) légijármű üzembentartási engedély kiadása, módosítása,
-- c) az a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet I. melléklet M. rész A. szakasz G. alrész szerinti folyamatos légialkalmasság-irányító szervezet jóváhagyása,
+- a) légijármű és légijármű-berendezés karbantartó szervezetek jóváhagyása,
+- b) légi jármű üzembentartási engedély kiadása, módosítása,
+- c) a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet I. melléklet M. rész A. szakasz G. alrész szerinti folyamatos légialkalmasság-irányító szervezet jóváhagyása,
 - d) Nemzeti Polgári Légiközlekedés Védelmi Minőségbiztosítási Program alapján lefolytatott eljárás,
 - e) légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
 - f) a polgári légiközlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet 4. cikk (4) bekezdésében meghatározott eljárás,
 - g) a légiközlekedés-védelmi események kivizsgálása,
-- h) repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
+- h) repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése,
+- i) légi járművet és légiközlekedéssel kapcsolatos eszközt tervező és gyártó szervezet tanúsítása,
+- j) repülőtér üzembentartási engedélyének kiadása, módosítása,
+- k) a légiközlekedés védelmében közreműködő szervezetek védelmi programjának és azon alapuló belső minőségbiztosítási rendszerének és védelmi képzési tervének jóváhagyása,
+- l) a légiközlekedés-védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének, működtetésének jóváhagyása,
+- m) repülésbiztonsági szervezet engedélyezése.
 
-(2c) Az ügyintézési határidő 70 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
+(2c) Az ügyintézési határidő 90 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
-(2d) Az ügyintézési határidő 4 hónap
+(2d) Az ügyintézési határidő 150 nap
 
 - a) a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló,
 - b) a repülőtér zajgátló védőövezetének kijelölésére irányuló,
@@ -88,7 +103,14 @@ látja el.
 
 hatósági eljárásokban.
 
-(2e) Az ügyintézési határidő 45 nap a kereskedelmi repülőtér díjszabályzatának elfogadására, valamint a díjszabályzat módosításának jóváhagyására irányuló hatósági eljárásban.
+(2e) Az ügyintézési határidő 55 nap
+
+- a) a kereskedelmi repülőtér díjszabályzatának elfogadására, valamint a díjszabályzat módosításának jóváhagyására irányuló hatósági eljárásban,
+- b) a légijármű-lajstromozási bizonyítvány kiállítására, módosítására irányuló,
+- c) a légi járművek típusalkalmassági vizsgálatára irányuló,
+- d) a repülőtérrend jóváhagyására irányuló,
+- e) a légitársaság üzletszabályzatának és módosításának jóváhagyására irányuló, valamint
+- f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban.
 
 (2f) Az ügyintézési határidő 70 nap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
 
@@ -97,7 +119,21 @@ hatósági eljárásokban.
 - c) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése, valamint
 - d) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölése.
 
-(2g) A (2a) bekezdésben meghatározott eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(2g) Az ügyintézési határidő 4 hónap a katonai légügyi hatóság légi kutató-mentő tevékenység engedélyezésére vonatkozó közigazgatási hatósági eljárásában.
+
+(2h) A légiközlekedési hatóság hatáskörébe tartozó, szakhatósági állásfoglalást igénylő azon közigazgatási hatósági ügyben, amely nem tartozik a 3. §-ban felsorolt eljárások közé, az ügyintézési határidő 100 nap.
+
+(2i) Nem nyilvános a katonai légügyi hatóság eljárásai során hozott véglegessé vált határozat.
+
+(2j) A katonai légügyi hatóság eljárásaiban 21 napon belül kell az eljárási cselekményt teljesíteni és a végzést meghozni.
+
+(2k) A katonai légügyi hatóság eljárásai során a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(2l) A külföldi állami légi jármű magyar légtérbe való be- és átrepülésének engedélyezésére irányuló eljárásban sommás eljárásnak nincs helye.
+
+(2m) A katonai légügyi hatóság eljárásaiban az ügyfél a kérelemhez 30 napnál régebbi előzetes szakhatósági állásfoglalást nem nyújthat be.
+
+(2n) A katonai légügyi hatóság eljárásának költségeit kérelemre indult eljárás esetén a kérelmező ügyfél viseli.
 
 (3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
@@ -175,9 +211,9 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 - c) a szükséges intézkedések és azok indokolása,
 - d) a szükséges intézkedések végrehajtásának határideje.
 
-(7) A légiközlekedési hatóság (1)–(4) bekezdésben meghatározott határozata ellen közigazgatási eljárás keretében fellebbezésnek nincs helye, azt felügyeleti eljárásban megváltoztatni vagy megsemmisíteni nem lehet.
+(7)
 
-(8) Az (1)–(4) bekezdésben meghatározott határozat anyagi jogi okból történő módosítása vagy visszavonása, illetve bírósági felülvizsgálat eredményeként történő hatályon kívül helyezése esetén a légiközlekedési hatóság azonos tényállás alapján más ügyekben hozott határozatait – a határozat közlésétől számított egy éven túl is – megfelelően módosítja vagy visszavonja.
+(8) Az (1)–(4) bekezdésben meghatározott határozat anyagi jogi okból történő módosítása vagy visszavonása, illetve közigazgatási per eredményeként történő hatályon kívül helyezése esetén a légiközlekedési hatóság azonos tényállás alapján más ügyekben hozott határozatait megfelelően módosítja vagy visszavonja.
 
 (9) Az (1)–(3) bekezdésben meghatározott határozatokat a légiközlekedési hatóság a honlapján, a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi, valamint az (1) bekezdés szerinti határozatot az Európai Repülésbiztonsági Ügynökségnek tájékoztatás céljából megküldi.
 
@@ -185,7 +221,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 3/D. § (1)
 
-(2) A légiközlekedési hatóságnak a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló, 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet alapján a korlátozott légiközlekedési jog igénybevétele tárgyában hozott határozata ellen közigazgatási úton fellebbezésnek nincs helye.
+(2)
 
 3/E. § (1) A légiközlekedési hatóság jogosult külföldi légijármű felett a hatósági felügyelet átvételére, amennyiben a külföldi légijárművet a légiközlekedési hatóság által kiadott engedéllyel rendelkező üzemben tartó tartja üzemben és a légiközlekedési hatóság a lajstromozó állam légiközlekedési hatóságával megállapodást kötött, a megállapodásban szereplő feladatok tekintetében.
 
@@ -205,6 +241,12 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 (5) Állami légijármű fedélzetén elhelyezett veszélyes áruk szállítás előtti ellenőrzésére a katonai légügyi hatóság, a légijármű parancsnoka, a légiközlekedési szakszemélyzet és – honvédelmi érintettség esetén – a Magyar Honvédség logisztikai támogatásáért felelős szervezetének képviselője jogosult.
 
 3/G. § A légiközlekedésben a Kormány rendeletében meghatározott vonatkoztatási rendszereket kell alkalmazni.
+
+### A veszélyes áruk szállításának ellenőrzésével és szankcionálásával kapcsolatos hatósági eljárás
+
+3/H. § A veszélyes áru szállításának és a szállításhoz kapcsolódó tevékenységnek a hatósági ellenőrzése kizárólag hivatalból indul, az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
+
+3/I. § A területi szinten hozott elsőfokú, azonnali eljárási cselekményt tartalmazó hatósági döntéssel szemben fellebbezésnek van helye.
 
 ## MÁSODIK RÉSZ — A MAGYAR LÉGTÉR
 
@@ -246,7 +288,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 (1a) A légiközlekedési hatóság a külpolitikáért felelős miniszter, a katonai légügyi hatóság, továbbá a magyar légtér igénybevételéről szóló kormányrendeletben megjelölt polgári és Katonai Nemzetbiztonsági Szolgálat hozzájárulásával engedélyezi a külföldi állami légi járműnek a magyar légtérbe való berepülését.
 
-(1b) A légiközlekedési hatóság döntése ellen jogorvoslatnak nincs helye.
+(1b)
 
 (2) A külföldi állami légijármű számára kibocsátott egyszeri vagy többszöri be-, illetve átrepülési engedély nem mentesíti a kérelmezőt a jogszabályban előírt más engedélyek beszerzésének kötelezettsége alól.
 
@@ -330,9 +372,9 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 ### Az állami légijármű nyilvántartása és jelzései
 
-18. § (1) A magyar állami légijármű felségjele a piros-fehér-zöld színjelzés. A szövetséges fegyveres erők kötelékében alkalmazni tervezett állami légijárműveken alacsony láthatóságú felségjel felfesthető. Az állami légijármű jelzéseinek részletes szabályait a honvédelemért felelős miniszter – a miniszterrel és a rendészetért felelős miniszterrel egyetértésben – rendeletben szabályozza.
+18. § (1) A magyar állami légijármű felségjele a piros-fehér-zöld színjelzés. A szövetséges fegyveres erők kötelékében alkalmazni tervezett állami légijárműveken alacsony láthatóságú felségjel felfesthető. Az állami légijármű jelzéseinek részletes szabályait a Kormány rendeletben szabályozza.
 
-(2) Az állami légijármű nyilvántartásának szabályait a honvédelemért felelős miniszter – a miniszterrel és a rendészetért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
+(2) Az állami légi jármű nyilvántartásának szabályait a Kormány rendeletben állapítja meg.
 
 ### II. Fejezet — Engedélyek és bejelentési kötelezettség
 
@@ -354,7 +396,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 (5) Ha az üzemben tartó az engedélyben és a jogszabályban előírt feltételeket súlyosan vagy tartósan megszegi, akkor az üzemben tartási engedélyt a kiadó hatóság felfüggeszti, vagy visszavonja.
 
-(6) Az üzemben tartás feltételeit, valamint az üzemben tartási engedély kiadásának, felfüggesztésének és visszavonásának részletes szabályait az (1) és a (3) bekezdésben meghatározott esetekben a miniszter, a (4) bekezdésben meghatározott esetben a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+(6) Az üzemben tartás feltételeit a Kormány rendeletben állapítja meg.
 
 (7) A légiközlekedési hatóság a kiadott üzemben tartási engedélyekről nyilvántartást vezet, amely nyilvántartás tartalmazza:
 
@@ -397,7 +439,7 @@ bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes szemé
 
 (5) A légiközlekedési hatóság, a katonai légügyi hatóság, vagy a kamara a légiközlekedési szakértői tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a szakértő büntetlen előéletű-e, és hogy nem áll-e a légiközlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a légiközlekedési hatóság, a katonai légügyi hatóság, vagy a kamara adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a szakértő büntetlen előéletű-e, valamint hogy a légiközlekedési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(6) Az (5) bekezdés alapján megismert személyes adatokat a légiközlekedési hatóság, a katonai légügyi hatóság, vagy a kamara a hatósági ellenőrzés időtartamára vagy a szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(6) Az (5) bekezdés alapján megismert személyes adatokat a légiközlekedési hatóság, a katonai légügyi hatóság, vagy a kamara a hatósági ellenőrzés időtartamára vagy a szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.
 
 20/B. § (1) A 20. § (4) bekezdését a tevékenységnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
@@ -438,7 +480,7 @@ meghatározott tevékenység folytatásához.
 - a) fel kell függeszteni, ha az önálló vállalkozó
   - aa) a 2011. december 31-ig hatályban volt csempészet,
   - ab) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmény (1978. évi IV. törvény X. fejezet), emberiség elleni bűncselekmény (1978. évi IV. törvény XI. fejezet), személy elleni bűncselekmény [1978. évi IV. törvény 166–168. §, 170. § (2)–(6) bekezdés, 171. §, 174. §, 174/B. §, 175. §, 175/A. §, 175/B. §], vasúti, légi vagy vízi közlekedés veszélyeztetése (1978. évi IV. törvény 185. §), járművezetés tiltott átengedése [1978. évi IV. törvény 189. § (2) bekezdés], nemi erkölcs elleni erőszakos bűncselekmény [1978. évi IV. törvény 197. § és 198. §, 207. § (3) bekezdés b) pont], hivatali bűncselekmény (1978. évi IV. törvény XV. fejezet, IV. cím), hivatalos személy elleni bűncselekmények (1978. évi IV. törvény XV. fejezet V. cím), embercsempészés (1978. évi IV. törvény 218. §), visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), visszaélés bizalmas minősítésű adattal (1978. évi IV. törvény 222. §), visszaélés korlátozott terjesztésű minősítésű adattal (1978. évi IV. törvény 222/A. §), közveszélyokozás [1978. évi IV. törvény 259. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (1978. évi IV. törvény 260. §), terrorcselekmény (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés radioaktív anyaggal (1978. évi IV. törvény 264. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §), közokirat-hamisítás (1978. évi IV. törvény 274. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), visszaélés kábítószer-prekurzorral (1978. évi IV. törvény 283/A. §), visszaélés új pszichoaktív anyaggal (1978. évi IV. törvény 283/B. §), számítástechnikai rendszer és adatok elleni bűncselekmény (1978. évi IV. törvény 300/C. §), számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszása (1978. évi IV. törvény 300/E. §), pénzhamisítás (1978. évi IV. törvény 304. §), pénzhamisítás elősegítése (1978. évi IV. törvény 304/A. §), költségvetési csalás (1978. évi IV. törvény 310. §), készpénz-helyettesítő eszköz hamisítása (1978. évi IV. törvény 313/B. §), visszaélés készpénz-helyettesítő eszközzel (1978. évi IV. törvény 313/C. §), vagyon elleni szándékos bűncselekmény (1978. évi IV. törvény 316–324. §, 326. §, 327. §),
-  - ac) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmény (Btk. XIII. Fejezet), háborús bűncselekmény (Btk. XIV. Fejezet), emberölés (Btk. 160. §), erős felindulásban elkövetett emberölés (Btk. 161. §), öngyilkosságban közreműködés (Btk. 162. §), testi sértés [Btk. 164. § (3)–(8) bekezdés], foglalkozás körében elkövetett veszélyeztetés (Btk. 165. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–180. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), emberrablás (Btk. 190. §), emberrablás feljelentésének elmulasztása (Btk. 191. §), emberkereskedelem (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), kényszerítés (Btk. 195. §), szexuális erőszak (Btk. 197. §), kerítés [Btk. 200. § (4) bekezdés c) pont], közösség tagja elleni erőszak (Btk. 216. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 233. §), járművezetés tiltott átengedése [Btk. 238. § (2) bekezdés], radioaktív anyaggal visszaélés (Btk. 250. §), állam elleni bűncselekmény (Btk. XXIV. Fejezet), minősített adattal visszaélés (Btk. 265. §), hivatali bűncselekmény (Btk. XXVIII. Fejezet), hivatalos személy elleni bűncselekmény (Btk. XXIX. Fejezet), terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), jármű hatalomba kerítése (Btk. 320. §), bűnszervezetben részvétel (Btk. 321. §), közveszély okozása [Btk. 322. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 323. §), robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §), közveszéllyel fenyegetés (Btk. 338. §), közokirat-hamisítás (Btk. 342. §), embercsempészés (Btk. 353. §), vagyon elleni erőszakos bűncselekmény (Btk. 365–367. §), vagyon elleni szándékos bűncselekmény (Btk. 370–373. §, 375–376. §, 379–380. §), pénzhamisítás (Btk. 389. §), pénzhamisítás elősegítése (Btk. 390. §), készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), költségvetési csalás (Btk. 396. §), információs rendszer vagy adat megsértése (Btk. 423. §), információs rendszer védelmét biztosító technikai intézkedés kijátszása (Btk. 424. §)
+  - ac) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmény (Btk. XIII. Fejezet), háborús bűncselekmény (Btk. XIV. Fejezet), emberölés (Btk. 160. §), erős felindulásban elkövetett emberölés (Btk. 161. §), öngyilkosságban közreműködés (Btk. 162. §), testi sértés [Btk. 164. § (3)–(8) bekezdés], foglalkozás körében elkövetett veszélyeztetés (Btk. 165. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–180. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), emberrablás (Btk. 190. §), emberrablás feljelentésének elmulasztása (Btk. 191. §), emberkereskedelem (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), kényszerítés (Btk. 195. §), szexuális erőszak (Btk. 197. §), kerítés [Btk. 200. § (4) bekezdés c) pont], közösség tagja elleni erőszak (Btk. 216. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 233. §), járművezetés tiltott átengedése [Btk. 238. § (2) bekezdés], radioaktív anyaggal visszaélés (Btk. 250. §), állam elleni bűncselekmény (Btk. XXIV. Fejezet), minősített adattal visszaélés (Btk. 265. §), hivatali bűncselekmény (Btk. XXVIII. Fejezet), hivatalos személy elleni bűncselekmény (Btk. XXIX. Fejezet), terrorcselekmény (Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), jármű hatalomba kerítése (Btk. 320. §), bűnszervezetben részvétel (Btk. 321. §), közveszély okozása [Btk. 322. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 323. §), robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §), közveszéllyel fenyegetés (Btk. 338. §), közokirat-hamisítás (Btk. 342. §), embercsempészés (Btk. 353. §), vagyon elleni erőszakos bűncselekmény (Btk. 365–367. §), vagyon elleni szándékos bűncselekmény (Btk. 370–373. §, 375–376. §, 379–380. §), pénzhamisítás (Btk. 389. §), pénzhamisítás elősegítése (Btk. 390. §), készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), költségvetési csalás (Btk. 396. §), információs rendszer vagy adat megsértése (Btk. 423. §), információs rendszer védelmét biztosító technikai intézkedés kijátszása (Btk. 424. §)
 
 elkövetésének alapos gyanúja miatt büntetőeljárás hatálya alatt áll,
 
@@ -644,7 +686,7 @@ kezelheti.
 
 (2) A légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság az (1) bekezdésben meghatározott tevékenység folytatásának szakszerűségét, a szakmai szabályok betartását bármikor ellenőrizheti.
 
-(3) A polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi rendelet, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait a miniszter – állami légijárművek esetében a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben – rendeletben állapítja meg.
+(3) A polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi rendelet, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légi jármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait a Kormány rendeletben állapítja meg.
 
 ### A hajózó személyzetre és a légiutas-kísérőre vonatkozó külön rendelkezések
 
@@ -714,7 +756,7 @@ kezelheti.
 
 (6) Az általános rendőrségi feladatokat ellátó szerv az (5) bekezdés szerinti döntését legfeljebb a (4) bekezdés szerinti szakvélemények megérkezését követő 24 órán belül határozatban közli a bejelentővel.
 
-(7) Az általános rendőrségi feladatokat ellátó szerv határozata ellen fellebbezésnek helye nincs, azonban a határozat közlésétől számított három napon belül a bejelentő kérheti a határozat bírósági felülvizsgálatát. A kérelemhez csatolni kell a rendőr-főkapitányság határozatát.
+(7) Az általános rendőrségi feladatokat ellátó szerv határozatát a bejelentő a határozat közlésétől számított három napon belül közigazgatási perben megtámadhatja. A keresetlevélhez csatolni kell a rendőr-főkapitányság határozatát.
 
 ### A nyilvános repülőrendezvény
 
@@ -855,7 +897,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 (5) Külföldön gyártott légijármű, pilóta nélküli állami légijármű, illetve légiközlekedéssel kapcsolatos eszköz típusvizsgálata során a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság elfogadhatja más állam hatóságának igazolását arról, hogy a típus a nemzetközi előírásoknak megfelel és a biztonságos repülésre, illetve rendeltetésszerű használatra alkalmas.
 
-47. § A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának részletes szabályait a miniszter, az állami célú légiközlekedés tekintetében a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben rendeletben határozza meg.
+47. § A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légi jármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának részletes szabályait a Kormány rendeletben határozza meg.
 
 ### A légialkalmasság
 
@@ -880,7 +922,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 49. § (1) A 216/2008/EK rendelet hatálya alá nem tartozó esetekben a polgári légijármű légialkalmassági követelményeinek és légialkalmassági vizsgálatának a részletes szabályait a miniszter rendeletben határozza meg.
 
-(2) Az állami légijármű légialkalmassági feltételeinek és légialkalmassági vizsgálatának a részletes szabályait a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben szabályozza.
+(2) Az állami légi jármű típus- és légialkalmassági feltételeinek valamint a típus- és légialkalmassági vizsgálatának részletes szabályait a Kormány rendeletben szabályozza.
 
 ### II. Fejezet — A repülőtér biztonságos használata
 
@@ -1183,16 +1225,18 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 
 ### VII. Fejezet — Légiközlekedési bírság, zajvédelmi díj
 
-66/A. § (1) A törvényben, az e törvény felhatalmazása alapján kiadott jogszabályban és közösségi rendeletben előírt
+66/A. § (1) E törvényben, az e törvény felhatalmazása alapján kiadott rendeletben és az Európai Unió rendeletében előírt
 
 - a) légiközlekedési, légiközlekedéssel összefüggő tevékenységre,
-- b) légijármű lajstromozására, nyilvántartására, üzemben tartására, biztosítására,
+- b) légi jármű lajstromozására, nyilvántartására, üzemben tartására, biztosítására,
 - c) légiközlekedési akadályra,
 - d) nyilvános repülőrendezvényre,
 - e) szakszolgálati tevékenységre,
 - f) adatszolgáltatásra, tájékoztatásra, bejelentésre,
 - g) légiközlekedés védelmére,
-- h) zajkorlátozásra vonatkozó rendelkezések megsértőivel szemben – a légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló miniszteri rendeletben meghatározottak szerint – 100 000 000 Ft-ig terjedő bírság szabható ki. A bírság kiszabásáról szóló határozattal szemben előterjesztett jogorvoslatnak a bírság megfizetésére nincs halasztó hatálya.
+- h) zajkorlátozásra
+
+vonatkozó rendelkezések megsértőivel szemben – a légiközlekedési bírság kivetésének részletes szabályairól és a beszedett bírság összegének felhasználási rendjéről szóló miniszteri rendeletben meghatározottak szerint – 100 000 000 Ft-ig terjedő bírság szabható ki. Nincs helye a légiközlekedési bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta öt év eltelt.
 
 (2) A bírságolással kapcsolatos eljárást:
 
@@ -1227,11 +1271,11 @@ folytatja le.
 
 66/B. § (1) Nincs helye hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
-(2) A hivatásos katasztrófavédelmi szerv által kiszabott bírság kivetésével és behajtásával kapcsolatos hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(2)
 
 (3) Ugyanazon jogszabálysértésért a légiközlekedési hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
 
-(4) Az e törvény 3/F. §-a alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi. A bírságot a befizetés elmulasztása esetén adók módjára kell behajtani.
+(4) A 3/F. § alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
 (5) A hivatásos katasztrófavédelmi szerv az e törvény alapján hivatalból indított eljárása során – annak tárgyával összefüggésben – az ügyfelet az érdemi döntéshez szükséges adatszolgáltatásra vagy nyilatkozattételre kötelezheti. Az adatszolgáltatás vagy nyilatkozattétel elmulasztása, az ügy eldöntése szempontjából jelentős tény elhallgatása, valótlan tény állítása, illetve valótlan adatok közlése estén a hivatásos katasztrófavédelmi szerv a kötelezettet eljárási bírsággal sújtja.
 
@@ -1286,7 +1330,7 @@ folytatja le.
 
 (5) A (3) bekezdésben meghatározott esetben az általános rendőrségi feladatok ellátására létrehozott szerv a védelmi ellenőrzés átvételéről határozatot hoz.
 
-(6) A (3)–(5) bekezdésben meghatározott határozatok ellen fellebbezésnek nincs helye, azok a közléssel jogerőre emelkednek, azonnali hatállyal végrehajthatóak.
+(6)
 
 (7) Az (1) bekezdésben meghatározott szervezetek és személyek légiközlekedés védelmével kapcsolatos tevékenységét a légiközlekedési hatóság és az általános rendőrségi feladatok ellátására létrehozott szerv, a Kormány által rendeletben meghatározottak szerint felügyeli és ellenőrzi.
 
@@ -1322,7 +1366,7 @@ folytatja le.
 - a) a (12) bekezdés a) pontjában meghatározott területre történő belépést megelőző, illetve azt követő ellenőrzés során,
 - b) annak ellenőrzése céljából, hogy a foglalkoztatott személy foglalkoztatására irányuló jogviszonya létesítésekor és annak fennállása alatt rendelkezik-e a feltételekkel.
 
-(18) A (17) bekezdés alapján átvett adatokat a rendőrség a légiközlekedés védelme és a közbiztonsági feltételek vizsgálatára irányuló ellenőrzés befejezéséig, az ellenőrzés során feltárt adatok alapján hivatalból indult eljárás esetén az eljárás jogerős befejezéséig kezelheti. A rendőrség a (17) bekezdésben meghatározott adatokat az SRA-ra történő belépés ellenőrzésének időtartamáig kezelheti. A légiközlekedési hatóság és a katonai légügyi hatóság az eljárásában a kizáró ok fennállásának tényére vagy hiányára vonatkozó adatokat kezelheti az eljárása jogerős befejezéséig.
+(18) A (17) bekezdés alapján átvett adatokat a rendőrség a légiközlekedés védelme és a közbiztonsági feltételek vizsgálatára irányuló ellenőrzés befejezéséig, az ellenőrzés során feltárt adatok alapján hivatalból indult eljárás esetén az eljárás végleges döntéssel történő befejezéséig kezelheti. A rendőrség a (17) bekezdésben meghatározott adatokat az SRA-ra történő belépés ellenőrzésének időtartamáig kezelheti. A légiközlekedési hatóság és a katonai légügyi hatóság az eljárásában a kizáró ok fennállásának tényére vagy hiányára vonatkozó adatokat kezelheti az eljárása végleges befejezéséig.
 
 (19) A rendőrség és az Alkotmányvédelmi Hivatal a (11) és (12) bekezdésben meghatározott védelmi háttérellenőrzés alapján felmerülő kizáró ok fennállásának tényéről vagy annak hiányáról az SRA-ra történő belépésre jogosító engedélyt kiállító szervet, szervezetet tájékoztatja.
 
@@ -1450,7 +1494,7 @@ folytatja le.
 - o) a légijármű fel- és leszállásának, valamint a leszállóhely létesítésének engedélyezésére vonatkozó szabályokat,
 - p) a gazdasági célú légiközlekedési tevékenység ellátásához a szakszolgálati engedéllyel rendelkező által teljesítendő általános feltételeket,
 - q)
-- r) a magyar légtér igénybevételének, felügyeletének, az igénybevétel korlátozásának és tiltásának a szabályait,
+- r) a magyar légtér igénybevételének, felügyeletének, az igénybevétel korlátozásának és tiltásának a szabályait, az eseti légterek és a légiközlekedési hatóság engedélyével igénybe vehető korlátozott légterek engedélyezésének szabályait,
 - s) a 10. § (1) bekezdésében meghatározott eseteket és a magyar légtér jogosulatlan igénybevétele esetén követendő eljárás szabályait,
 - t) a légi személyszállítás – ezen belül a diplomáciai és a konzuli poggyászszállítás –, a légi árufuvarozás, a légimenetjegy-árusítás, a veszélyes áruk, hadianyagok és hadifelszerelések továbbításának szabályait,
 - u) a repülőtér létesítésének, fejlesztésének és megszüntetésének, továbbá a biztonsági, akadálymentes és a zajgátló védőövezet kijelölésének, hasznosításának és megszüntetésének a szabályait,
@@ -1482,9 +1526,23 @@ folytatja le.
 - g) az állami célú légiközlekedés védelmének szabályait,
 - h) a veszélyes áruk állami légijárművel történő légi szállításának részletes szabályait,
 - i) az állami repülések céljára szolgáló repülőterek létesítésének, fejlesztésének és megszüntetésének, valamint a közös felhasználású repülőtérré történő fejlesztésnek, üzemben tartásának, üzemeltetésének részletes szabályait,
-- j) a légvédelmi készenléti szolgálat riasztásából eredő költségek megtérítésének részletes szabályait.
+- j) a légvédelmi készenléti szolgálat riasztásából eredő költségek megtérítésének részletes szabályait,
+- k) a légiközlekedési hatóság által – közigazgatási hatósági hatáskörében eljárva – alkalmazandó kiegészítő eljárási szabályokat.
 
 73/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
+
+73/B. § Felhatalmazást kap a Kormány, hogy
+
+- a) az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának részletes szabályait,
+- b) a szakszolgálati engedély kiadásának, felfüggesztésének, valamint helyszíni elvételük és visszavonásuk szabályait,
+- c) a légialkalmassági bizonyítvány kiadásának, felfüggesztésének a részletes szabályait, valamint helyszíni elvételének és visszavonásának a szabályait,
+- d) a pilóta nélküli légi járművek légialkalmassági vizsgálatának rendjének, a légialkalmassági tanúsítvány kiadásának, felfüggesztésének részletes szabályait,
+- e) a pilóta nélküli légi járművekkel kapcsolatos hatósági eljárás részletes szabályait,
+- f) az állami célú légiközlekedésben a földi kiszolgálás engedélyezésének rendjét,
+- g) az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légi járművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait,
+- h) az állami légi jármű jelzéseinek és nyilvántartásának részletes szabályait, az állami légi jármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait, az állami légi jármű, illetve a légiközlekedéssel kapcsolatos eszköz típus- és légialkalmassága feltételeinek, valamint a típus- és légialkalmassági vizsgálatának részletes szabályait
+
+rendeletben állapítsa meg.
 
 74. § (1) Felhatalmazást kap
 
@@ -1521,27 +1579,27 @@ rendeletben állapítsa meg.
 
 - a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
 - b)
-- c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzemben tartási engedély kiadásának, felfüggesztésének és visszavonásának a szabályait,
+- c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait,
 - d) a miniszter, hogy a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait,
 - e) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében – a rendészetért felelős miniszter és a 30. § (1) bekezdése szerinti engedélyezés tekintetében a miniszter egyetértésével – a légiközlekedési szakszemélyzet képzésének részletes szabályait, valamint a képzést végző intézetek kijelölését,
 - f) a miniszter, hogy a nyilvános és a polgári célú nem nyilvános repülőtér vonatkozásában – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
 - g) a honvédelemért felelős miniszter, hogy az állami repülések céljára szolgáló repülőtér esetében a miniszterrel és a tűzvédelmi feltételek tekintetében a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel is egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
 - h) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának részletes szabályait,
-- i) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű jelzéseinek és nyilvántartásának részletes szabályait, az állami légijármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait, az állami légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának a részletes szabályait,
-- j) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében a miniszterrel és a rendészetért felelős miniszterrel – a rádiószolgálatok állomáskezelőire vonatkozó szabályok vonatkozásában az elektronikus hírközlésért felelős miniszterrel is – egyetértésben a szakszolgálati engedélyek fajtáinak, szakmai feltételeinek, kiadásának, felfüggesztésének, valamint helyszíni elvételük és visszavonásuk szabályait,
+- i)
+- j) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében a miniszterrel és a rendészetért felelős miniszterrel – a rádiószolgálatok állomáskezelőire vonatkozó szabályok vonatkozásában az elektronikus hírközlésért felelős miniszterrel is – egyetértésben a szakszolgálati engedélyek fajtáit, szakmai feltételeit,
 - k) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a szakszolgálati engedélyek és a légiutas-kísérői tanúsítvány kiadásának egészségügyi feltételeit, a repülőeszközök vezetőire vonatkozó egészségügyi feltételeket, valamint a légiközlekedési szakszemélyzet tagjai és a repülőeszközök vezetői egészségügyi alkalmasságának megállapítását végző szervek kijelölésének és tevékenységének szabályait,
 - l) a honvédelemért felelős miniszter, hogy egészségügyért felelős miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a szakszolgálati engedélyek kiadásának egészségügyi feltételeit,
 - m) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami repülések céljára kijelölt légterekben végrehajtott repülések részletes szabályait,
 - n) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben a Magyar Honvédség légvédelmi készenléti repüléseinek a részletes szabályait,
 - o) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó polgári légijármű légialkalmassági követelményeinek, légialkalmassági vizsgálatának szabályait, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kötelező tartalmi elemeit, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kiadására, helyszíni elvételére és visszavonására vonatkozó szabályokat, továbbá a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatokat és a feladat végrehajtásának felelősét,
-- p) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű légialkalmassági feltételeinek, a légialkalmassági vizsgálat rendjének, a légialkalmassági bizonyítvány kiadásának, felfüggesztésének a részletes szabályait, valamint helyszíni elvételének és visszavonásának a szabályait,
+- p) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű légialkalmassági feltételeinek, a légialkalmassági vizsgálat rendjének a szabályait,
 - q) a rendészetért felelős miniszter, hogy a miniszterrel egyetértésben a szakszolgálati engedély, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány rendőr által történő helyszíni elvételének a szabályait,
 - r) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a nyilvános repülőrendezvény szabályait,
 - s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben – a légiközlekedés védelme tekintetében a rendészetért felelős miniszter egyetértésével is – és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a légiközlekedési bírság kivetésének a részletes szabályait,
 - t) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a zajvédelmi díj megállapításának a részletes szabályait és a beszedett díj összegének felhasználási rendjét, valamint
 - u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalmi szolgálatok ellátásának és eljárásainak a részletes szabályait
 - v) a honvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a katonai légügyi hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
-- w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait,
+- w)
 - x)
 - y)
 - z) a miniszter, hogy a veszélyes áruk légi úton történő továbbítására használt csomagolóeszközök megfelelőség-értékelésének szabályait
@@ -1554,10 +1612,10 @@ rendeletben állapítsa meg,
 - b) a honvédelemért felelős miniszter, hogy a miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben Magyarország Légiközlekedési Terep és Akadály Adatbázisából történő adatszolgáltatással kapcsolatos igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával, felhasználásával és visszatérítésével kapcsolatos részletes szabályokat,
 - c) a miniszter, hogy a lajstromba vétel feltételeit, a bejegyzés tartalmának, módosításának és törlésének a szabályait,
 - d) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légiközlekedési terep és akadály adatbázisa adattartalmára vonatkozó szabályokat,
-- e) a miniszter, hogy a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli légijárművekkel végrehajtott repülések szabályait, a nyilvántartás részletes szabályait, a légialkalmassági vizsgálat rendjének, a légialkalmassági tanúsítvány kiadásának, felfüggesztésének részletes szabályait, a pilóta nélküli légijárművet vezetők képzésének részletes szabályait, a képzést végző szervezetek kijelölésének szabályait, a pilóta nélküli légijárművel végzett tevékenység részletes szabályait és az üzemben tartásának szabályait,
-- f) a honvédelemért felelős miniszter, hogy a miniszterrel, az adópolitikáért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli állami légijárművek repülésének, illetve légijármű rendszerek üzemeltetésének, a vezetőik képesítésének és az egészségügyért felelős miniszterrel egyetértésben a vezetőik egészségügyi alkalmasságának szabályait, valamint az azokkal kapcsolatos hatósági eljárás részletes szabályait,
+- e) a miniszter, hogy a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli légijárművekkel végrehajtott repülések szabályait, a nyilvántartás részletes szabályait, a pilóta nélküli légijárművet vezetők képzésének részletes szabályait, a képzést végző szervezetek kijelölésének szabályait, a pilóta nélküli légijárművel végzett tevékenység részletes szabályait és az üzemben tartásának szabályait,
+- f) a honvédelemért felelős miniszter, hogy a miniszterrel, az adópolitikáért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli állami légijárművek repülésének, illetve légijármű rendszerek üzemeltetésének, a vezetőik képesítésének és az egészségügyért felelős miniszterrel egyetértésben a vezetőik egészségügyi alkalmasságának szabályait,
 - g) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az egyes védett személyek állami légijárművel történő szállításának részletes szabályait,
-- h) a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állami célú légiközlekedésben a földi kiszolgálás feltételeit és engedélyezésének rendjét,
+- h) a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állami célú légiközlekedésben a földi kiszolgálás feltételeit,
 - i) a miniszter, hogy a repülőeszköz azonosító jelzéseinek és nyilvántartásának részletes szabályait,
 
 rendeletben állapítsa meg.
@@ -1607,6 +1665,8 @@ rendeletben állapítsa meg.
 76. § A 64. § (3) bekezdésében foglaltakat a légiközlekedésről szóló 1995. évi XCVII. törvény, valamint a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosításáról szóló 2014. évi LX. törvény hatálybalépésekor folyamatban lévő irat átadás-átvételi ügyekben is alkalmazni kell.
 
 77. § A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 61/A. § (3) bekezdés a) pont ac) pontja alkalmazásában első alkalommal a 2014 és 2015 évek statisztikai adatai alapján számított átlagos éves utasforgalmat kell figyelembe venni, azzal, hogy amennyiben az ily módon megállapított átlagos utasforgalom meghaladja az évi százezer főt, a Társaság a nemzetközi kereskedelmi repülőtér és légtere tekintetében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátására legkorábban 2018. január 1-jétől köteles.
+
+78. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### 1. melléklet az 1995. évi XCVII. törvényhez
 

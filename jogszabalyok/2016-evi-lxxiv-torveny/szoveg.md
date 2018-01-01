@@ -90,15 +90,19 @@ jogszabályban meghatározott módon biztosítja.
 
 tekintetében.
 
-(2) A településképi bejelentési eljárást az ügyfél bejelentés formájában a polgármesternél (főpolgármesternél) kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester (főpolgármester) a tevékenység végzését a bejelentést követő 15 napon belül nem tiltja meg.
+(2) A településképi bejelentési eljárást az ügyfél bejelentés formájában a polgármesternél (főpolgármesternél) kezdeményezi. Az (1) bekezdés szerinti tevékenység a bejelentés alapján megkezdhető, ha ahhoz más hatósági engedély nem szükséges, és a polgármester (főpolgármester) a tevékenység végzését a bejelentést követő 15 napon belül nem tiltja meg vagy az eljárást nem szünteti meg.
 
 (3) A polgármester (2) bekezdés szerinti önkormányzati hatósági döntésével szemben a települési önkormányzat képviselő-testületéhez lehet fellebbezni.
 
 (4) A településképi bejelentési eljárás során meghozott döntésben foglaltak megszegése vagy az (1) és (2) bekezdés szerinti bejelentés elmulasztása esetén a 11. § szerinti jogkövetkezmények alkalmazhatók.
 
-11. § (1) Az önkormányzat polgármestere (főpolgármester) településképi kötelezés formájában – önkormányzati hatósági döntéssel – a településképi követelmények teljesülése érdekében az ingatlan tulajdonosát az építmény, építményrész felújítására, átalakítására vagy elbontására kötelezheti.
+11. § (1) Ha az ingatlan tulajdonosa a településképi rendeletben foglalt településképi követelményeket megsértette, az önkormányzat polgármestere (főpolgármestere) felhívja az ingatlantulajdonos figyelmét a jogszabálysértésre, és végzésben megfelelő határidőt biztosít a jogszabálysértés megszüntetésére.
 
-(2) Az önkormányzat képviselő-testülete (közgyűlése) a településképi rendeletben az (1) bekezdés szerinti településképi követelmények megszegése vagy végre nem hajtása esetére e magatartás elkövetőjével szemben 1 000 000 forintig terjedő bírság kiszabását rendelheti el (településképi bírság).
+(2) Az (1) bekezdés szerinti határidő eredménytelen eltelte esetén, az önkormányzat polgármestere (főpolgármester) településképi kötelezés formájában – önkormányzati hatósági döntéssel – a településképi követelmények teljesülése érdekében az ingatlan tulajdonosát az építmény, építményrész felújítására, átalakítására vagy elbontására kötelezi, egyidejűleg – ha a (3) bekezdés szerint a településképi rendelet lehetőséget biztosít településkép-védelmi bírság kiszabására – az ingatlantulajdonost településkép-védelmi bírság megfizetésére is kötelezi.
+
+(3) Az önkormányzat képviselő-testülete (közgyűlése) a településképi követelmények hatósági döntésben megállapított határidőre történő nem teljesítése esetére az ingatlantulajdonossal szemben 1 000 000 forintig terjedő, közigazgatási bírságnak minősülő településkép-védelmi bírság kiszabását rendelheti el.
+
+(4) A településkép-védelmi bírság az önkormányzat bevételét képezi.
 
 #### 4/A. A reklámok elhelyezése közterületen és a közterületről látható magánterületen
 
@@ -132,7 +136,7 @@ szabályokat.
 
 (2) Az (1) bekezdés szerinti közigazgatási bírság kiszabása során a hatóság mérlegeli a jogsértő magatartás súlyát, különösen a jogsértések számát és a településkép védelméhez fűződő érdek sérelmének mértékét, a jogsértés ismételtségét, időtartamát, a jogsértéssel elért előny mértékét.
 
-(3) Az (1) bekezdés szerinti közigazgatási bírság megfizetése nem mentesíti a kötelezettet a jogsértő állapot megszüntetésének kötelezettsége alól. A jogerősen kiszabott és be nem fizetett közigazgatási bírság adók módjára behajtandó köztartozásnak minősül.
+(3) Az (1) bekezdés szerinti közigazgatási bírság megfizetése nem mentesíti a kötelezettet a jogsértő állapot megszüntetésének kötelezettsége alól. A végleges döntéssel kiszabott és be nem fizetett közigazgatási bírság adók módjára behajtandó köztartozásnak minősül.
 
 11/D. § Az ezen alcímben megállapított rendelkezések nem érintik a közúti közlekedésről szóló törvényben és a végrehajtására kiadott kormányrendeletben foglalt, a közutak környezetében elhelyezett reklámokra vonatkozóan közlekedésbiztonsági céllal meghatározott rendelkezéseket.
 
@@ -148,7 +152,7 @@ szabályokat.
 
 (5) A közigazgatási bírság, a helyszíni bírság kiszabása során a (2) bekezdés szerinti eljáró hatóság a közigazgatási bírság, a helyszíni bírság mértékét korlátlanul enyhítheti vagy a jogsértő magatartás csekély súlya miatt a kiszabását mellőzheti, feltéve, hogy a jogsértő magatartást tanúsító személy a plakátot nyomban eltávolítja.
 
-(6) A jogerősen kiszabott és be nem fizetett közigazgatási bírság, helyszíni bírság, adók módjára behajtandó köztartozásnak minősül.
+(6) A végleges döntéssel kiszabott és be nem fizetett közigazgatási bírság, helyszíni bírság, adók módjára behajtandó köztartozásnak minősül.
 
 (7) A kiszabott közigazgatási bírság, helyszíni bírság az államháztartás önkormányzati alrendszerének bevételét képezi.
 
@@ -197,7 +201,7 @@ szabályokat.
 - d) a közterületen és a közterületről látható magánterületen elhelyezhető reklámok megengedett méreteit, a reklámközzététel megengedett technológiáit, módszereit, eszközeit,
 - e) a reklámhordozók általános formai követelményeit,
 - f) az e törvény szerinti reklámközzététel és reklámhordozó-elhelyezés szabályainak megszegéséért megállapítható jogkövetkezmények alkalmazására hatáskörrel rendelkező közigazgatási hatóság kijelölését,
-- g) a 11/E. § szerinti közigazgatási bírság, helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait.
+- g) a 11. § szerinti településkép-védelmi bírság, valamint a 11/E. § szerinti közigazgatási bírság, helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait.
 
 (2) Felhatalmazást kap az önkormányzat képviselő-testülete (közgyűlése), hogy – a (2a) bekezdés szerinti jogszabályok hatálya alá tartozó településképi szempontból kiemelt jelentőségű, egyedi településkép-védelem alatt álló terület kivételével – a településképi rendeletben állapítsa meg
 

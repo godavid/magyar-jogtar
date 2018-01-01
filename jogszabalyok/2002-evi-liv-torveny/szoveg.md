@@ -671,7 +671,7 @@ A törvény 29. § (1) bekezdés b) pontjában meghatározott bűncselekmények 
 - 4. emberrablás (Btk. 190. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 175/A. §), és emberrablás feljelentésének elmulasztása (Btk. 191. §),
 - 5. szexuális erőszak (Btk. 197. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti erőszakos közösülés (1978. évi IV. törvény 197. §) és szemérem elleni erőszak (1978. évi IV. törvény 198. §),
 - 6. radioaktív anyaggal visszaélés (Btk. 250. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti visszaélés radioaktív anyaggal (1978. évi IV. törvény 264. §),
-- 7. terrorcselekmény (Btk. 314-316. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 261. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és terrorizmus finanszírozása (Btk. 318. §),
+- 7. terrorcselekmény (Btk. 314-316/A. §, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 261. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §),
 - 8. közveszély okozása (Btk. 322. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti közveszélyokozás (1978. évi IV. törvény 259. §),
 - 9. robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti visszaélés robbanóanyaggal vagy robbanószerrel (1978. évi IV. törvény 263. §),
 - 10. lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti visszaélés lőfegyverrel vagy lőszerrel (Btk. 263/A. §),

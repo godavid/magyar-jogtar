@@ -25,7 +25,7 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - 13. energetikai auditálás: olyan, meghatározott módszerrel végzett eljárás, amelynek célja megfelelő ismeretek gyűjtése valamely épület vagy épületcsoport, ipari vagy kereskedelmi művelet vagy létesítmény, magán- vagy közszolgáltatás aktuális energiafogyasztási profiljára vonatkozóan, továbbá amely meghatározza és számszerűsíti a költséghatékony energiamegtakarítási lehetőségeket és beszámol az eredményekről;
 - 14. energetikai auditáló szervezet: energetikai auditálást végző gazdálkodó szervezet;
 - 15. energetikai auditor: energetikai auditálást végző természetes személy;
-- 16. gazdálkodó szervezet: a polgári perrendtartásról szóló 1952. évi III. törvény 396. §-ában meghatározott szervezet;
+- 16. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, a szövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalat magyarországi fióktelepe, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, az egyéni cég, továbbá az egyéni vállalkozó;
 - 17. hatékony távfűtés: olyan távfűtési rendszer, amely legalább 50%-ban megújuló energia, 50%-ban hulladékhő, 75%-ban kapcsolt energiatermelésből származó hő vagy 50%-ban ilyen energiák és hők kombinációjának felhasználásával működik;
 - 18. hatékony távhűtés: olyan távhűtési rendszer, amely legalább 50%-ban megújuló energia, 50%-ban hulladékhő, 75%-ban kapcsolt energiatermelésből származó hő vagy 50%-ban ilyen energiák és hők kombinációjának felhasználásával működik;
 - 19. jelentős korszerűsítés: olyan korszerűsítés, amelynek költsége meghaladja egy hasonló új egység beruházási költségének 50%-át azzal, hogy nem tekinthető jelentős korszerűsítésnek, ha a tüzelőberendezést az általa kibocsátott szén-dioxid leválasztására alkalmas berendezéssel szerelik fel azzal a céllal, hogy gondoskodjanak a szén-dioxidnak a geológiai tárolásáról;
@@ -269,14 +269,18 @@ kell elérni.
 
 #### 17/B. Az energetikai szakreferens
 
-21/B. § (1) E törvény végrehajtására kiadott kormányrendeletben meghatározott energiafogyasztású vállalkozásnak legalább egy, tőle munkajogilag és társasági jogilag független energetikai szakreferenst kell igénybe vennie.
+21/B. § (1) E törvény végrehajtására kiadott kormányrendeletben meghatározott energiafogyasztású gazdálkodó szervezetnek
+
+- a) legalább egy, tőle munkajogilag és társasági jogilag független energetikai szakreferenst kell igénybe vennie és
+- b) a MEKH elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében almérőt kell felszerelnie.
 
 (2) Az energetikai szakreferens feladata az energiahatékonysági szemléletmód, energiahatékony magatartásminták meghonosításának elősegítése az igénybevételére köteles gazdálkodó szervezet működésében és döntéshozatalában. Ennek keretében:
 
-- a) figyelemmel kíséri a vállalkozás energiafelhasználásának változásait, valamint az energiahatékonysági intézkedések megvalósítását,
-- b) tevékenységéről e törvény végrehajtására kiadott kormányrendeletben meghatározott tartalmú és rendszerességű jelentést ad a vállalkozás számára,
-- c) közreműködik a 22/C. § szerinti jelentés elkészítésében,
-- d) részt vesz a vállalkozás alkalmazottai energiahatékonysági szemléletének kialakításában.
+- a) figyelemmel kíséri a gazdálkodó szervezet energiafelhasználásának változásait, valamint az energiahatékonysági intézkedések megvalósítását,
+- b) a MEKH elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében alkalmazott almérők adatait nyilvántartja és azokat a c) pont szerinti jelentésben feltünteti,
+- c) tevékenységéről e törvény végrehajtására kiadott kormányrendeletben meghatározott tartalmú és rendszerességű jelentést ad a gazdálkodó szervezet számára,
+- d) közreműködik a 22/C. § szerinti jelentés elkészítésében,
+- e) részt vesz a gazdálkodó szervezet alkalmazottai energiahatékonysági szemléletének kialakításában.
 
 (3) Energetikai szakreferens természetes személy vagy gazdálkodó szervezet lehet.
 
@@ -502,7 +506,7 @@ kell elérni.
 
 (2) A bejelentéshez csatolni kell az energetikai auditálási tevékenység folytatásához szükséges feltételek fennállását igazoló iratokat.
 
-31. § A Hivatal névjegyzéket vezet a jogerős határozat útján névjegyzéki jelöléssel rendelkező energetikai auditorokról és energetikai auditáló szervezetekről.
+31. § A Hivatal névjegyzéket vezet a véglegessé vált határozat útján névjegyzéki jelöléssel rendelkező energetikai auditorokról és energetikai auditáló szervezetekről.
 
 32. § (1) A névjegyzék az energetikai auditorra vonatkozó következő adatokat tartalmazza:
 
@@ -712,7 +716,7 @@ kell elérni.
 - d) a közreműködő szervezetek nyilvántartásában szereplő adatokat, valamint a közreműködő szervezeti tevékenység végzésére jogosító engedély kiadása és visszavonása során tudomására jutott adatokat,
 - e) a közreműködő szervezetek jelentésében szereplő adatokat.
 
-(2) A Hivatal a névjegyzékbe vétel megtagadása esetén a megtagadás jogerőre emelkedéséig, valamint a névjegyzékből és a közreműködő szervezetek nyilvántartásából történő törlés időpontjától számított tíz év elteltéig gondoskodik az (1) bekezdés szerinti adatok megőrzéséről. A Hivatal köteles az adatokat a határidő lejártát követő 15 napon belül visszavonhatatlanul törölni.
+(2) A Hivatal a névjegyzékbe vétel megtagadása esetén a megtagadás véglegessé válásáig, valamint a névjegyzékből és a közreműködő szervezetek nyilvántartásából történő törlés időpontjától számított tíz év elteltéig gondoskodik az (1) bekezdés szerinti adatok megőrzéséről. A Hivatal köteles az adatokat a határidő lejártát követő 15 napon belül visszavonhatatlanul törölni.
 
 41. § (1) A közreműködő szervezet az energetikai auditorok képzésével, továbbképzésével, valamint az energetikai auditori szakmai vizsgák, megújító vizsgák megszervezésével és lebonyolításával összefüggő feladatai ellátása céljából kezeli
 
@@ -766,7 +770,8 @@ kell elérni.
 - c) az energetikai auditorok és energetikai auditáló szervezetek által fizetendő regisztrációs és nyilvántartási díj összegére, megfizetésének módjára és visszatérítésére vonatkozó szabályokat,
 - d) a 22/C. § (1) bekezdésében meghatározott adatszolgáltatásra kötelezettek által szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét,
 - e) a 23. § (1) és (2) bekezdésében meghatározott adatszolgáltatás keretében szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét,
-- f) a közreműködő szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját rendeletben állapítsa meg.
+- f) a közreműködő szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját,
+- g) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontját rendeletben állapítsa meg.
 
 #### 27. Hatályba léptető rendelkezések
 
@@ -794,9 +799,11 @@ kell elérni.
 
 (9) E törvénynek a Mód. Tv. által módosított 22. § (1a) bekezdését, 22/B., 22/C., 23. §-át, 25. § (1) és (2) bekezdését, 26. §-át, 28. § (5) bekezdését, 29. § (1a), (2) és (4) bekezdését, 31. §-át, 32. § (5) bekezdését, 33. § (5) bekezdését és a 34. § (6) bekezdését a módosítás hatálybalépésekor folyamatban lévő és megismételt eljárásokban is alkalmazni kell.
 
-(10) A törvény és végrehajtási rendelete által előírt határidők és kötelezettségek teljesítése vonatkozásában a közigazgatási hatósági eljárás általános szabályairól szóló 2004. évi CXL. törvény 66. §-a és 74. §-a nem alkalmazható.
+(10)
 
 (11) E törvénynek a Mód. Tv. által módosított 22. § (1b) bekezdését a 2015. december 5-ét követően létrejövő nagyvállalat, vagy nagyvállalattá minősülő vállalkozás esetében is alkalmazni kell.
+
+(12) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 29. Jogharmonizációs záradék
 

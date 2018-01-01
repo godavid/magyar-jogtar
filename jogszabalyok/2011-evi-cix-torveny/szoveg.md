@@ -30,7 +30,7 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (4) A Magyar Művészeti Akadémia név használatára kizárólag az e törvény szerint létrehozott köztestület jogosult.
 
-(5) Az MMA az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti feltételek teljesítésére tekintet nélkül közhasznú szervezetnek minősül. Az MMA-t a Fővárosi Törvényszék tartja nyilván.
+(5)
 
 3. § (1) Az MMA a központi költségvetésben önálló fejezetet alkot, amely tartalmazza az MMA által irányított költségvetési szervek költségvetését is.
 
@@ -133,7 +133,7 @@ rendelkező személy.
 
 (2) A közgyűlési képviselők száma nem lehet több 50 főnél.
 
-(3) A közgyűlési képviselő mandátuma négy évre szól.
+(3) A közgyűlési képviselő mandátuma két évre szól. Ha a közgyűlési képviselő mandátuma a két év eltelte előtt megszűnik, akkor a helyére új közgyűlési képviselő az előző közgyűlési képviselő eredeti mandátumából hátralévő időre választható. A közgyűlési képviselő egy alkalommal választható újra. A közgyűlési képviselő újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni a közgyűlési képviselő azon mandátumát, amely az előző közgyűlési képviselő eredeti mandátumából hátralévő időre szólt.
 
 9. § Az elnökség ajánlására az MMA tiszteletbeli tagjává kimagasló munkájáért hazai vagy nemzetközi szinten elismert közéleti személyiség választható.
 
@@ -167,10 +167,8 @@ rendelkező személy.
   - ia) átruházásáról, megterheléséről, ha a vagyonelem forgalmi értéke meghaladja a 25 millió forintot, továbbá – értékhatártól függetlenül – átruházásának és megterhelésének elveiről, valamint
   - ib) használatba adásának, egyéb módon történő hasznosításának elveiről;
 - j) dönt zártkörűen működő részvénytársaság vagy korlátolt felelősségű társaság alapítása, ilyen gazdasági társaságokban részesedés szerzése elveiről;
-- k) dönt – az i) pont ia) alpontjában foglalt eltéréssel – az MMA általi kötelezettségvállalásról (a továbbiakban: egyéb kötelezettségvállalás), ha annak értéke meghaladja a 100 millió forintot;
-- l) elfogadja az Alapszabály részét képező
-  - la) az i) pont ia) és ib) alpontja, valamint a j) pont szerinti elvekre is figyelemmel megállapított vagyongazdálkodási szabályzatot és
-  - lb) közbeszerzési szabályzatot;
+- k) dönt – az i) pont ia) alpontjában foglalt eltéréssel – az MMA általi kötelezettségvállalásról (a továbbiakban: egyéb kötelezettségvállalás), ha annak értéke meghaladja az 500 millió forintot;
+- l) elfogadja az i) és j) pont szerinti elvekre is figyelemmel megállapított vagyongazdálkodási szabályzatot;
 - m) jóváhagyja a felügyelő testület ügyrendjét;
 - n) dönt mindarról, amit jogszabály vagy az Alapszabály a hatáskörébe utal.
 
@@ -192,7 +190,7 @@ rendelkező személy.
 
 17. § (1) Két közgyűlés között az elnökség az MMA döntéshozó testülete azzal, hogy a 14. § a)–d), f) és h–m) pontjában meghatározott ügyekben dönteni kizárólag a közgyűlés jogosult, a 14. § i) pont ia) alpontja és k) pontja szerinti esetben értékhatártól függően, figyelemmel az (5) bekezdésben foglaltakra.
 
-(2) Az elnökség két közgyűlés között az (1) bekezdés szerint hozott döntéseiről – a döntést követő első közgyűlésen – a közgyűlés számára beszámolni köteles.
+(2) Az elnökség két közgyűlés között az (1) bekezdés és az (5) bekezdés h) pontja szerint hozott döntéseiről – a döntést követő első közgyűlésen – a közgyűlés számára beszámolni köteles.
 
 (3) Az MMA elnökségének tagjai:
 
@@ -218,7 +216,8 @@ rendelkező személy.
   - ga) az MMA vagyona átruházásáról, megterheléséről, amennyiben a vagyontárgy forgalmi értéke nem haladja meg a 25 millió forintot,
   - gb) az MMA vagyona használatba adásáról, egyéb módon történő hasznosításáról,
   - gc) zártkörűen működő részvénytársaság vagy korlátolt felelősségű társaság alapításáról, ilyen gazdasági társaságokban részesedés szerzéséről;
-- h) dönt az MMA általi egyéb kötelezettségvállalásról, amennyiben annak értéke meghaladja az 50 millió forintot és a döntés nem tartozik a közgyűlés kizárólagos hatáskörébe;
+  - gd) a közbeszerzési szabályzat elfogadásáról,
+- h) dönt az MMA általi egyéb kötelezettségvállalásról, amennyiben annak értéke meghaladja a 150 millió forintot és a döntés nem tartozik a közgyűlés kizárólagos hatáskörébe;
 - i) javaslatot tesz az 5/A. § (2) bekezdése szerinti stratégiai együttműködési megállapodás megkötésére;
 - j) vezeti a nem akadémikus tagok központi köztestületi nyilvántartását; továbbá
 - k) ellátja mindazokat a feladatokat, amelyeket a közgyűlés vagy az Alapszabály a hatáskörébe utal.
@@ -279,7 +278,7 @@ rendelkező személy.
 
 (2) Az MMA tevékenységét a közgyűlés határozatainak megfelelően és az Alapszabályban meghatározott módon az elnök irányítja és gyakorolja a tulajdonosi jogokat a jelen törvény és egyéb jogszabályok alapján. Az MMA-t az elnök képviseli. Az elnök ellátja az MMA költségvetési fejezetét irányító szerv vezetőjének feladatait.
 
-(2a) Az elnök dönt az egyéb kötelezettségvállalásról, ha annak értéke nem haladja meg az 50 millió forintot és a döntés nem tartozik az elnökség vagy a közgyűlés kizárólagos hatáskörébe.
+(2a) Az elnök dönt az egyéb kötelezettségvállalásról, ha annak értéke nem haladja meg a 150 millió forintot és a döntés nem tartozik az elnökség vagy a közgyűlés kizárólagos hatáskörébe. Az elnök az 50 millió forintot meghaladó értékű egyéb kötelezettségvállalásokról való döntéséről a soron következő közgyűlésen beszámol.
 
 (3) Az elnököt – akadályoztatása esetén – a főtitkár helyettesíti.
 
@@ -321,9 +320,9 @@ rendelkező személy.
 - b) az MMA számára ingyenesen átruházott (adományozott) vagyon (ideértve a tag által juttatott vagyont is), valamint
 - c) az MMA közfeladatai ellátása érdekében az a) és b) pontban foglaltaktól eltérő módon a tulajdonába került vagyon.
 
-(4) Az MMA vagyonának átruházásáról, megterheléséről, használatba adásáról (e § alkalmazásában a továbbiakban együtt: hasznosítás) – ide nem értve a pénzeszköz-felhasználást – e törvényben és a vagyongazdálkodási szabályzatban meghatározottak szerint a közgyűlés vagy az elnökség dönt.
+(4) Az MMA vagyonának átruházásáról, megterheléséről, használatba adásáról (e § alkalmazásában a továbbiakban együtt: hasznosítás) – ide nem értve a pénzeszköz-felhasználást – e törvényben és a vagyongazdálkodási szabályzatban meghatározottak szerint a közgyűlés, az elnökség vagy az elnök dönt. Az MMA-nak jogszabályban vagy a Kormány egyedi határozatában elrendelt célra juttatott vagyon hasznosításáról és az MMA jóváhagyott elemi költségvetésében meghatározott célt szolgáló összeg felhasználásáról – annak felhasználási célhoz kötöttségére figyelemmel – nem kell külön döntést hozni.
 
-(5) Az MMA vagyonának hasznosítására – ide nem értve a pénzeszköz-felhasználást – kizárólag külső, független szakértő által megállapított értékbecslés alapján kerülhet sor. A vagyon hasznosítására – a 28. § (1) és (4) bekezdésében meghatározott kivétellel – az MMA nyilvános pályázatot ír ki a vagyongazdálkodási szabályzatban meghatározott részletes szabályok szerint, ha az érvényes értékbecsléssel megállapított forgalmi érték ingatlan esetében a 25 millió forintot, egyéb vagyonelem esetében az 5 millió forintot meghaladja. A vagyon hasznosítására irányuló szerződés – ide nem értve a vagyon átruházását, megterhelését célzó szerződést – megkötéséről, ha a szerződéssel érintett vagyon forgalmi értéke az 50 millió forintot nem haladja meg, az elnök, ha az 50 millió forintot meghaladja, az elnökség, és ha a 100 millió forintot meghaladja, a közgyűlés dönt.
+(5) Az MMA vagyonának hasznosítására – ide nem értve a pénzeszköz-felhasználást – kizárólag külső, független szakértő által megállapított értékbecslés alapján kerülhet sor. A vagyon hasznosítására – a 28. § (1) és (4) bekezdésében meghatározott kivétellel – az MMA nyilvános pályázatot ír ki a vagyongazdálkodási szabályzatban meghatározott részletes szabályok szerint, ha az érvényes értékbecsléssel megállapított forgalmi érték ingatlan esetében a 25 millió forintot, egyéb vagyonelem esetében az 5 millió forintot meghaladja. A vagyon hasznosítására irányuló szerződés – ide nem értve a vagyon átruházását, megterhelését célzó szerződést – megkötéséről, ha a szerződéssel érintett vagyon forgalmi értéke a 150 millió forintot nem haladja meg, az elnök, ha a 150 millió forintot meghaladja, az elnökség, és ha az 500 millió forintot meghaladja, a közgyűlés dönt.
 
 (6) Az MMA a vagyona hasznosításából származó, átmenetileg szabad pénzeszközeit állampapírok vásárlásával hasznosíthatja.
 
@@ -385,7 +384,7 @@ az MMA Titkársága látja el.
 
 28/B. § (1) A Nemzet Művésze címet egyidejűleg legfeljebb 70 személy viselheti.
 
-(2) Ha a Nemzet Művésze címet egyidejűleg viselők száma 70 fő alá csökken, az elnökség határozza meg, hogy a megüresedett díjazotti helyen a díj a 28/A. § (2) bekezdésében meghatározott mely művészeti területen adományozható azzal, hogy az egyes művészeti területeken a Nemzet Művésze címet viselők száma lehetőleg ne legyen kevesebb egy főnél.
+(2) Ha a Nemzet Művésze címet egyidejűleg viselők száma 70 fő alá csökken, az elnökség – tárgyév június 15-éig – meghatározza, hogy a megüresedett díjazotti helyen a díj a 28/A. § (2) bekezdésében meghatározott mely művészeti területen adományozható azzal, hogy az egyes művészeti területeken a Nemzet Művésze címet viselők száma lehetőleg ne legyen kevesebb egy főnél.
 
 28/C. § (1) A díj kizárólag egyéni teljesítmény elismeréseként és személyenként egy alkalommal adományozható.
 
@@ -395,13 +394,13 @@ az MMA Titkársága látja el.
 
 28/D. § (1) A díjat az MMA elnöke az MMA megalakulásának évfordulója (november 5.) alkalmából adományozza. A díjat az MMA elnöke és a miniszterelnök vagy az általuk kijelölt egy-egy személy adja át.
 
-(2) A díj adományozására tárgyév június 30. napjáig javaslatot tehet
+(2) A díj adományozására tárgyév július 15. napjáig javaslatot tehet
 
 - a) a díj birtokosa,
 - b) a (3) bekezdésben foglaltakra figyelemmel a tagozat és
 - c) a kultúráért felelős miniszter.
 
-(3) Az elnökség határozza meg, hogy mely tagozat a 28/A. § (2) bekezdésében meghatározott mely művészeti területen tehet a díj adományozására javaslatot.
+(3) Az elnökség tárgyév június 15. napjáig meghatározza, hogy mely tagozat a 28/A. § (2) bekezdésében meghatározott mely művészeti területen tehet a díj adományozására javaslatot.
 
 (4) A díj adományozását a javaslattételre jogosultnál bárki kezdeményezheti.
 
@@ -421,7 +420,7 @@ az MMA Titkársága látja el.
 
 (7) A Bizottság elnökére vagy valamely tagjára vonatkozó díjazási javaslattétel esetén, ha a jelölést az érintett elfogadja, az érintett helyett az arra jogosult a tárgyévi döntésre új elnököt vagy tagot kér fel.
 
-28/F. § A Bizottság a javaslattal érintett személyt tárgyév július 31. napjáig tájékoztatja a jelölésről. Ha a díjra javasolt személy tárgyév szeptember 15. napjáig nyilatkozik arról, hogy a díjat nem fogadja el, részére a Bizottság a díjat nem ítélheti oda. Az így megüresedett díjazotti helyre a tárgyévet követő évben tehető javaslat és ítélhető oda a díj.
+28/F. § A Bizottság a 28/E. § (1) bekezdése szerinti döntésével érintett személyt tárgyév július 31. napjáig tájékoztatja a döntéséről, és szeptember 15. napjáig történő nyilatkozattételre hívja fel arra vonatkozóan, hogy egyéb művészeti elismerést birtokol-e, és elfogadja-e a Nemzet Művésze díjat. Nem részesíthető a díjban, aki a határidő elteltéig nem tesz a díj elfogadására vonatkozó nyilatkozatot. Az így megüresedett díjazotti helyre a tárgyévet követő évben tehető javaslat és ítélhető oda a díj.
 
 28/G. § A díj adományozásával és a Bizottság működésével kapcsolatos adminisztratív és titkársági feladatokat az MMA Titkársága látja el.
 
@@ -447,6 +446,63 @@ az MMA Titkársága látja el.
 
 28/K. § A díj adományozásával kapcsolatos eljárási szabályokról és a Bizottság működéséről e törvény keretei között az Alapszabály rendelkezik.
 
+### III/B. Fejezet — MŰVÉSZJÁRADÉK
+
+28/L. § (1) Az MMA a kiemelkedő művészeti teljesítmények és művészi életút iránti tisztelete kifejezéseképpen rendszeres díjazást (a továbbiakban: művészjáradék) nyújt azon, 65. életévét betöltött személynek, aki
+
+- a) Kossuth-díjban, a Magyarország Kiváló Művésze, a Magyar Köztársaság Kiváló Művésze, a Magyar Népköztársaság Kiváló Művésze, a Magyarország Érdemes Művésze, a Magyar Köztársaság Érdemes Művésze, a Magyar Népköztársaság Érdemes Művésze, a Magyar Köztársaság Babérkoszorúja, a Magyarország Babérkoszorúja és a Népművészet Mestere díjak valamelyikében,
+- b) a Népművészet Ifjú Mestere és a Táncsics Mihály-díj kivételével a kultúráért felelős miniszter feladatkörében adományozható
+  - ba) művészeti díjban – a Balassa Péter-díjat beleértve –,
+  - bb) művészet-igazgatási területen végzett vagy művészetelméleti tevékenységre tekintettel adományozott művészet- és közművelődés-igazgatási, művészetelméleti és közművelődés-elméleti díjban,
+- c) Ybl Miklós-díjban, természetes személy részére adományozott Pro Architectura díjban, vagy
+- d) a közgyűlés által adományozott, a Magyar Művészeti Akadémia Életműdíja, a Magyar Művészeti Akadémia Nagydíja, a Magyar Művészeti Akadémia Művészeti Írói Díja, és a Magyar Művészeti Akadémia Kováts Flórián Emlékérme díjak valamelyikében
+
+részesült.
+
+(2) Nem részesülhet művészjáradékban
+
+- a) a Nemzet Színésze cím viselésére jogosult személy,
+- b) a Nemzet Művésze díjban részesített személy,
+- c) a Magyar Állami Operaház Mesterművésze címben részesített személy,
+- d) a Magyar Mozgókép Mestere cím birtokosa,
+- e) az akadémikus,
+- f) a kultúráért felelős miniszter által adományozott művészeti életpálya elismerésre tekintettel a művészjáradék kérelmezése időpontjában járadékban részesülő személy [az a)–f) pontban meghatározottak a továbbiakban együtt: a művészjáradék megállapítását kizáró elismerés], valamint
+- g) aki a művészjáradék megállapítását megalapozó elismerésről lemondott, vagy akitől a művészjáradék megállapítását megalapozó elismerést visszavonták.
+
+(3) Aki több művészeti elismerésben, vagy több alkalommal azonos elismerésben részesült, csak az egyik elismerése alapján részesülhet művészjáradékban.
+
+(4) A művészjáradék havi mértéke az öregségi teljes nyugdíj jogszabályban meghatározott legkisebb összegének 425%-a. A művészjáradék élethosszig tartó juttatás.
+
+28/M. § (1) A művészjáradék iránti kérelmet írásban kell előterjeszteni a Titkárságon
+
+- a) a kérelmező természetes személyazonosító adatai, állampolgársága, állandó lakcíme és tartózkodási helye, folyószámláját vezető pénzintézet neve feltüntetésével, a kérelmező Titkársággal való kapcsolattartását szolgáló telefonszáma megjelölésével,
+- b) azon művészeti elismerés megnevezésével, amelyre tekintettel a kérelmező a művészjáradékot igényli, továbbá azon időpont meghatározásával, amikor a kérelmező az elismerésben részesült,
+- c) a 28/L. § (1) bekezdés a)–c) pontja esetében a művészeti elismerésről szóló okirat hiteles másolatának vagy a kérelmező megkeresésére az elismerés adományozója vagy annak jogutódja által kiállított, a művészeti elismerés tényéről szóló igazolás csatolása mellett, valamint
+- d) a kérelmező arról szóló nyilatkozatának megtételével, miszerint
+  - da) a művészjáradék megállapítását kizáró elismeréssel nem rendelkezik,
+  - db) a művészjáradék megállapítását megalapozó elismerésről történő lemondás vagy visszavonás esetén, vagy a művészjáradék megállapítását kizáró elismerés szerzése esetén e tényről a Titkárságot 15 napon belül írásban értesíti, valamint
+  - dc) büntetőjogi felelőssége tudatában kijelenti, hogy a kérelemben foglaltak a valóságnak megfelelnek.
+
+(2) A Titkárság a művészjáradék megállapítása iránti eljárásban hozott függő hatályú döntésében nem rendelkezik arról, hogy a művészjáradék a kérelmezőt megilleti.
+
+28/N. § (1) A Titkárság a művészjáradékot az arról szóló határozata kiadását követő hónap első napjától, teljes hónapra állapítja meg, és tárgyhónapra, a tárgyhónap 10. napjáig folyósítja. A művészjáradék visszamenőleg nem állapítható meg.
+
+(2) A művészjáradékra jogosult köteles a Titkárságnak 15 napon belül bejelenteni minden olyan tényt, adatot, amely az ellátásra való jogosultságát érinti, így különösen, ha a művészjáradék megállapítását kizáró elismerést szerzett.
+
+(3) A művészjáradék folyósítása megszűnik a művészjáradékban részesülő személy
+
+- a) művészjáradék megállapítását kizáró elismerésben való részesülése esetén, az abban való részesítést követő hónap első napjától,
+- b) művészjáradékról a jövőre nézve történő, a hatóságnál írásban tett lemondása esetén, a lemondást követő hónap első napjától,
+- c) művészjáradék megállapítását megalapozó elismerésről történő lemondása esetén a lemondást követő hónap első napjától,
+- d) művészjáradék megállapítását megalapozó elismerésének visszavonása esetén a visszavonást követő hónap első napjától,
+- e) halála esetén, az elhalálozást követő hónap első napjától.
+
+(4) Aki a művészjáradékot jogalap nélkül vette fel, köteles azt a Titkárság írásbeli felszólítására, a jogalap nélkül felvett ellátás folyósításától számított 60 napon belül visszafizetni.
+
+(5) A művészjáradék jogalap nélküli felvétele miatt a Titkárság által követelt tartozást – a művészjáradékot jogalap nélkül felvett személy kérelmére – az MMA kivételes méltánylást érdemlő esetben, a jogalap nélkül felvett művészjáradék felvételének összes körülményére tekintettel, méltányosságból mérsékelheti vagy elengedheti.
+
+28/O. § A művészjáradék fedezetét az MMA költségvetésében kell megtervezni.
+
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 9/A. Felhatalmazó rendelkezés
@@ -459,39 +515,23 @@ az MMA Titkársága látja el.
 
 (2) A 33. § 2012. január 1-jén lép hatályba.
 
-(3) E törvény 3. §-át, 14. § d) pontját, 32. § (3) bekezdését első alkalommal a 2012. évi költségvetés előkészítésekor kell alkalmazni.
+(3)
 
 #### 11. Átmeneti rendelkezések
 
-30. § (1) A törvény hatálybalépését követő 120 napon belül – de legkorábban a (4) bekezdésben a nyilatkozattételre meghatározott határidő lejártát követő 15 nap elteltével – az MMA alakuló közgyűlést tart.
+30. § (1) A közgyűlési képviselők megbízatása 2018. május 31-én megszűnik; az új közgyűlési képviselőket az egyes kulturális és sporttárgyú törvények, valamint egyéb kapcsolódó törvények módosításáról szóló 2017. évi CLXXX. törvény (a továbbiakban: Módtv.) által módosított 8/B. § alapján 2018. május 31-éig – 2018. június 1-jén kezdődő mandátummal – meg kell választani. A 2018. május 31-én megszűnő közgyűlési képviselői megbízást a közgyűlési képviselő újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni.
 
-(2) Az alakuló közgyűlés előkészítésére nyolctagú bizottság (a továbbiakban: Szervező Bizottság) alakul, amelynek két tagját a köztársasági elnök, két tagját a miniszterelnök, két tagját az Országgyűlés elnöke, két tagját az Országgyűlés kulturális ügyekért felelős bizottsága kéri fel a törvény hatálybalépését követő 15 napon belül.
+(2) A Módtv. hatálybalépését követően a pártoló tag felvételének lehetősége megszűnik azzal, hogy a már megválasztott pártoló tagok tagsági jogviszonya fennmarad.
 
-(3) A Szervező Bizottság feladata az alakuló közgyűlésen részt vevők minősítése és regisztrációja.
+(3) A felügyelő testületi tagok megbízatása 2019. május 31-én megszűnik; az új felügyelő testületi tagokat a Módtv. által megállapított 18. § (1) bekezdése alapján 2019. május 31-éig – 2019. június 1-jével kezdődő mandátummal – meg kell választani. A 2019. május 31-én megszűnő felügyelő testületi tagi megbízást a felügyelő testületi tag újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni.
 
-(4) Az MMA alakuló közgyűlésén az 1992. január 31-én alapított Magyar Művészeti Akadémia civil szervezet azon tagjai vehetnek részt, akik 2011. január 1-jén rendes tagjai voltak civil szervezeteknek és megfelelnek a 7. § (1) bekezdésben támasztott feltételeknek, és amennyiben erre irányuló szándékukat a törvény hatálybalépését követő 45 napon belül a Szervező Bizottság felhívására és részére írásban kinyilvánítják.
+(4) A tagozatvezetők megbízatása 2018. március 31-én megszűnik, az új tagozatvezetőket a Módtv. által megállapított 20. § (4) bekezdése alapján 2018. március 31-éig – 2018. április 1-jével kezdődő mandátummal – meg kell választani. A 2018. március 31-én megszűnő tagozatvezetői megbízást a tagozatvezető újraválaszthatóságának korlátozása szempontjából nem kell figyelembe venni.
 
-(5) Az alakuló közgyűlést a (4) bekezdés szerinti körben az (1) bekezdésben meghatározottak szerint a Szervező Bizottság hívja össze. Az alakuló közgyűlés dönt az Alapszabály elfogadásáról, megválasztja az elnököt, a két alelnököt, a főtitkárt, a közgyűlés által választandó egyéb elnökségi tagokat és a felügyelő testület egy tagját.
+(5) A 24. § (1) bekezdését 2026. november 5-éig akként kell alkalmazni, hogy ha a főtitkár mandátuma a megbízásától számított öt éven belül megszűnik, új főtitkárt a közgyűlés az előző főtitkár eredeti mandátumából hátralévő időre választ. A főtitkár ezen okból rövidebb mandátumát az újraválaszthatósága korlátozása szempontjából nem kell figyelembe venni.
 
-(6) Az első felügyelő testület tagjait a törvény hatálybalépését követő 120 napon belül kell kinevezni. A felügyelő testület a valamennyi tagja kinevezését, megválasztását követő 30 napon belül köteles ügyrendjének megállapítására, amelyet az alakuló ülést követő első közgyűlés hagy jóvá.
+30/A. § (1) A bíróság hivatalból, 2018. január 1-jei hatállyal törli nyilvántartásából az MMA közhasznú jogállására vonatkozó adatot.
 
-(7) Az MMA az alakuló közgyűlést követően tagválasztásra köteles, akként, hogy az MMA rendes tagjainak száma 2012. december 31-ig lehetőleg elérje a 200 főt.
-
-(8) A (6) bekezdés szerint 2012. december 31-ig kinevezett és megválasztott felügyelő testületi tagok megbízatása 2014. május 31. napján megszűnik. Az új felügyelő testületi tagokat 2014. május 31-ig kell kinevezni, megválasztani a Magyar Művészeti Akadémia kultúrstratégiai szerepének megerősítése érdekében szükséges törvénymódosításokról, valamint egyéb kulturális tárgyú törvények módosításáról szóló 2012. évi CCXXI. törvénnyel megállapított 18. § (1) bekezdése szerint, 2014. június 1-jei hatállyal. Az új felügyelő testület 2014. július 30-ig köteles az ügyrendjének megállapítására, amelyet az új testület alakuló ülését követő első közgyűlés hagy jóvá.
-
-30/A. § (1) A díj az első két alkalommal arra figyelemmel adományozható, hogy 2015. november 5-én a Nemzet Művésze címet egyidejűleg viselők száma 70 fő, és ebből a Nemzet Művésze címmel
-
-- a) 12 fő az irodalom;
-- b) 10-10 fő a színházművészet, a zeneművészet és a képzőművészet;
-- c) 7 fő az iparművészet;
-- d) 6-6 fő a filmművészet és az építőművészet;
-- e) 3-3 fő a táncművészet és a népművészet;
-- f) 2 fő a fotóművészet; valamint
-- g) 1 fő a cirkuszművészet
-
-művészeti területen rendelkezik.
-
-(2) A Bizottság tagjait a Bizottság elnöke és a kultúráért felelős miniszter első alkalommal 2014. március 31. napjáig kéri fel.
+(2) A Módtv.-nyel megállapított 28/L. § (1) bekezdése szerinti művészjáradék legkorábban 2018. március 1-jétől állapítható meg.
 
 #### 12. Módosuló rendelkezések
 

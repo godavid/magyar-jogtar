@@ -103,7 +103,7 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 (3) A hatóság a vagyon rendelkezésre bocsátásának uniós jogi aktusban, illetve ENSZ BT határozatban rögzített tilalmának alkalmazásáról a (2) bekezdésben meghatározott adatok megküldésével értesíti az adópolitikáért felelős minisztert.
 
-(4) A szolgáltató, illetve a vagyoni nyilvántartást vezető szerv által végrehajtott intézkedéssel szemben a korlátozással érintett személy kérelemmel fordulhat a hatósághoz abban az esetben, ha adatot, információt, egyéb bizonyítékot szolgáltat arra nézve, hogy nem ő az uniós jogi aktussal, illetve az ENSZ BT határozattal elrendelt pénzügyi és vagyoni korlátozó intézkedés alanya. A hatóság eljárására a közigazgatási hatósági eljárásról szóló törvény szabályai irányadóak.
+(4) A szolgáltató, illetve a vagyoni nyilvántartást vezető szerv által végrehajtott intézkedéssel szemben a korlátozással érintett személy kérelemmel fordulhat a hatósághoz abban az esetben, ha adatot, információt, egyéb bizonyítékot szolgáltat arra nézve, hogy nem ő az uniós jogi aktussal, illetve az ENSZ BT határozattal elrendelt pénzügyi és vagyoni korlátozó intézkedés alanya. A hatóság eljárására az általános közigazgatási rendtartásról szóló törvény szabályai irányadóak.
 
 (5) A (4) bekezdésben meghatározott esetben a közjegyző által a közreműködés megtagadásáról hozott végzés tekintetében a közjegyzőkről szóló 1991. évi XLI. törvény 5. § (2) bekezdésében meghatározottak alkalmazandóak.
 
@@ -142,7 +142,7 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 - a) a kérelem benyújtásáról értesíti az adópolitikáért felelős minisztert,
 - b) amennyiben a pénzügyi és vagyoni korlátozó intézkedés vonatkozásában azt ENSZ BT határozat előírja, haladéktalanul tájékoztatja – a külpolitikáért felelős miniszter útján – az ENSZ BT illetékeseit.
 
-(5) A hatóság harminc napon belül megvizsgálja a mentesítési kérelmet és dönt az uniós jogi aktusban, illetve ENSZ BT határozatban rögzített feltételek alapján és szempontoknak megfelelően. A hatóság eljárására a közigazgatási hatósági eljárásról szóló törvény szabályai irányadóak.
+(5) A hatóság harminc napon belül megvizsgálja a mentesítési kérelmet és dönt az uniós jogi aktusban, illetve ENSZ BT határozatban rögzített feltételek alapján és szempontoknak megfelelően. A hatóság eljárására az általános közigazgatási rendtartásról szóló törvény szabályai irányadóak.
 
 (6) A hatóság az uniós jogi aktusban rögzített esetekben a határozatát megküldi az adópolitikáért felelős miniszter részére, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
 
@@ -317,6 +317,6 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 21–22. §
 
-#### 23. §
+23. § A 9. § (4) bekezdésében és 13. § (5) bekezdésében az „a közigazgatási hatósági eljárásról szóló törvény” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló törvény” szöveg lép.
 
 #### 24. §

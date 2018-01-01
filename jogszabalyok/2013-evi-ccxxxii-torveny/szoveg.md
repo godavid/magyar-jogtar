@@ -72,7 +72,7 @@ látja el.
 
 #### 3. A tankönyvvé nyilvánítási eljárás, a tankönyvjegyzék, a tankönyvrendelés, a tankönyvellátás alapvető szabályai
 
-3. § (1) Tankönyvként az a nyomtatott formában megjelent vagy elektronikus adathordozón rögzített könyv hozható forgalomba, amelyet e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott eljárás keretében
+3. § (1) Tankönyvként az a nyomtatott formában megjelent vagy elektronikus adathordozón rögzített könyv hozható forgalomba, amelyet e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárás keretében
 
 - a) tankönyvvé, pedagógus-kézikönyvvé nyilvánítottak, vagy
 - b) nyilvános pályázati eljárás keretében meghatározott évfolyam, műveltségi terület, tantárgy vagy annak tanításához alkalmazható pedagógus-kézikönyv vonatkozásában a miniszter kiválasztott, vagy
@@ -80,7 +80,7 @@ látja el.
 
 és a tankönyvjegyzékre vették.
 
-(2) A tankönyvjegyzékre – az e törvényben és az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott eljárásban – az (1) bekezdésben meghatározott tankönyv, valamint a pedagógus-kézikönyv vehető fel. A digitális adathordozón rögzített tankönyv tartós tankönyvként nem vehető fel a tankönyvjegyzékre.
+(2) A tankönyvjegyzékre – az e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott eljárásban – az (1) bekezdésben meghatározott tankönyv, valamint a pedagógus-kézikönyv vehető fel. A digitális adathordozón rögzített tankönyv tartós tankönyvként nem vehető fel a tankönyvjegyzékre.
 
 (3) A könyv tankönyvvé, pedagógus-kézikönyvvé nyilvánítását
 
@@ -95,7 +95,9 @@ látja el.
 
 legfeljebb kettő tankönyvet tartalmazhat.
 
-(5) A könyv tankönyvvé nyilvánításáról és a tankönyvvé nyilvánítás megszüntetéséről a miniszter által rendeletben meghatározott eljárásban – a (6)–(7) bekezdésben meghatározott kivétellel – az oktatási hivatal dönt. Az oktatási hivatal elutasítja azt a tankönyvvé nyilvánítási kérelmet, amelyet olyan könyvvel kapcsolatban nyújtottak be, amely részt vett a miniszter az (1) bekezdés b) pontja szerinti nyilvános pályázati eljárásában, és a miniszter azt nem támogatta.
+(5) A könyv tankönyvvé nyilvánításáról és a tankönyvvé nyilvánítás megszüntetéséről a kormányrendeletben meghatározott eljárásban – a (6)–(7) bekezdésben meghatározott kivétellel – az oktatási hivatal dönt. Az oktatási hivatal elutasítja azt a tankönyvvé nyilvánítási kérelmet, amelyet olyan könyvvel kapcsolatban nyújtottak be, amely részt vett a miniszter az (1) bekezdés b) pontja szerinti nyilvános pályázati eljárásában, és a miniszter azt nem támogatta.
+
+(5a) A tankönyvvé, pedagógus-kézikönyvvé nyilvánítási eljárásokban az ügyintézési határidő 3 hónap.
 
 (6) Ha a közismereti tankönyv, pedagógus-kézikönyv megírása, elkészítése a miniszter által kiírt nyilvános pályázati eljárás keretében, vagy a miniszter által kezdeményezett kísérleti tankönyvfejlesztés keretei között történt, akkor a tankönyvvé nyilvánítási eljárást nem kell lefolytatni, hanem a pályázati eljárás, a kísérleti tankönyvfejlesztés során kell meggyőződni a tankönyv, a pedagógus-kézikönyv nevelés-oktatás során történő lehetséges gyakorlati alkalmazásáról, a taníthatósági és tanulhatósági szempontoknak való megfeleléséről és a tankönyvet a miniszter döntése alapján kell felvenni a tankönyvjegyzékre.
 
@@ -123,6 +125,10 @@ legfeljebb kettő tankönyvet tartalmazhat.
 (13) Az iskola átadja a könyvtárellátónak a tankönyvek tanulóra, évfolyamra, tantárgyra lebontott címlistáját.
 
 (14) A személyes adatok kizárólag a tankönyvjegyzékben meghatározott áron történő tankönyvvásárláshoz való jogosultság megállapítására és a tankönyv értékesítése érdekében használhatók fel. A (12)–(13) bekezdés alapján átadott személyes adatok az átadásuk napját követő egy évig tárolhatók.
+
+3/A. § (1) A tankönyvvé, pedagógus-kézikönyvvé nyilvánítási eljárásokban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+(2) A tankönyvvé, pedagógus-kézikönyvvé nyilvánítási eljárásban az oktatásért felelős miniszter gyakorolja a felügyeleti szerv részére az általános közigazgatási rendtartásról szóló törvényben meghatározott jogosítványokat.
 
 #### 4. Az állami pénzügyi felelősségvállalás szabályai
 
@@ -163,14 +169,12 @@ a tankönyvek ingyenesen álljanak rendelkezésre (a továbbiakban: normatív ke
 - b) a tankönyvellátási szerződés tartalmi elemeit,
 - c) a könyvtárellátó és a tankönyvforgalmazó között megköthető szerződés esetköreit és tartalmi elemeit,
 - d) a miniszter és a szakképesítésért felelős miniszter tankönyvvé nyilvánítással összefüggő feladatait,
+- e) a tankönyvvé, a pedagógiai-kézikönyvvé nyilvánítási eljárás és a nevelési-oktatási program részeként jóváhagyott információhordozók és feladathordozók tankönyvvé nyilvánításának rendjét,
+- f) a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felvétel feltételeit és eljárását, az iskolai terjesztési árat, a tankönyvjegyzékből való törlés rendjét és eljárását
 
 rendeletben határozza meg.
 
-(3) Felhatalmazást kap a miniszter, hogy – a szakképzési tankönyvek tekintetében a szakképzésért és felnőttképzésért felelős miniszterrel, az igazgatási szolgáltatási díj, az állami tankönyvtámogatás rendje tekintetében az államháztartásért felelős miniszterrel egyetértésben – rendeletben határozza meg a tankönyvvé, a pedagógiai kézikönyvvé nyilvánítási eljárás részletes szabályait, a tankönyvtámogatás, valamint az iskolai tankönyvellátás rendjét, továbbá a nevelési-oktatási program részeként jóváhagyott információhordozók és feladathordozók tankönyvvé nyilvánításának szabályait, ennek keretében különösen
-
-- a) a tankönyv, a pedagógiai kézikönyv – beleértve a nem nyomtatott formában megjelenő műveket is – jóváhagyási eljárását, valamint beválásának vizsgálatát, a tankönyvjegyzék vezetését, elkészítését, összeállítását és nyilvánosságra hozatalát, a tankönyvvé nyilvánítás megszűnését,
-- b) az iskolai tanulói tankönyvtámogatás elveinek, felhasználási szabályainak megállapítását, az országos és az iskolai tankönyvellátás és tankönyvrendelés szabályait,
-- c) az egyházi jogi személy által szervezett, a nevelési-oktatási intézményben folyó hitoktatásban, iskolában folyó hit- és erkölcstanoktatásban alkalmazott könyvek jegyzékének összeállítását és közzétételét.
+(3) Felhatalmazást kap a miniszter, hogy – a tankönyvvé, a pedagógiai kézikönyvvé nyilvánítási eljárás igazgatási szolgáltatási díja tekintetében az adópolitikáért felelős miniszterrel, az állami tankönyvtámogatás rendje tekintetében az államháztartásért felelős miniszterrel egyetértésben – a tankönyvtámogatás, valamint az iskolai tankönyvellátás rendjét, ennek keretében különösen az iskolai tanulói tankönyvtámogatás elveinek, felhasználási szabályainak megállapítását, az országos és az iskolai tankönyvellátás és tankönyvrendelés szabályait rendeletben határozza meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a szakképzésért és felnőttképzésért felelős miniszterrel egyetértésben, rendeletben határozza meg a Szakképzési Tankönyv és Taneszköz Tanács összetételét, működési rendjét.
 
@@ -178,7 +182,7 @@ rendeletben határozza meg.
 
 7. § (1) Az 1. § (1) bekezdésében meghatározott jogi személyiség nélküli szervezet alatt a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépését megelőzően a jogi személyiség nélküli gazdasági társaságot is érteni kell.
 
-(2) Ha az 1. § (4) bekezdésében meghatározottak alapján a tankönyvellátás előre láthatóan nem biztosítható megfelelő színvonalon, valamely iskolai évfolyam, műveltségi terület, tantárgy vonatkozásában a miniszter a tankönyvvé nyilvánítási eljárásban a Kormány által rendeletben kijelölt testület véleményének kikérésével köznevelési célú a tankönyvfejlesztésre nyilvános felhívást tesz közzé. A nyilvános felhívás eredményeképpen elkészített könyveket – kérelemre, az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott, a tankönyvvé nyilvánításra vonatkozó tartalmi és formai követelmények teljesülése esetén – az oktatási hivatal tankönyvvé nyilvánítja.
+(2) Ha az 1. § (4) bekezdésében meghatározottak alapján a tankönyvellátás előre láthatóan nem biztosítható megfelelő színvonalon, valamely iskolai évfolyam, műveltségi terület, tantárgy vonatkozásában a miniszter a tankönyvvé nyilvánítási eljárásban a Kormány által rendeletben kijelölt testület véleményének kikérésével köznevelési célú a tankönyvfejlesztésre nyilvános felhívást tesz közzé. A nyilvános felhívás eredményeképpen elkészített könyveket – kérelemre, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott, a tankönyvvé nyilvánításra vonatkozó tartalmi és formai követelmények teljesülése esetén – az oktatási hivatal tankönyvvé nyilvánítja.
 
 (3) A 3. § (4) bekezdésében meghatározottakat az e törvény és az e törvény felhatalmazása alapján kiadott rendeletek hatálybalépését követően megkezdett tankönyvvé nyilvánítási eljárásokban kell alkalmazni. Az e törvény hatálybalépését követően új tankönyv a tankönyvjegyzékre a 3. § (4) bekezdésében meghatározott számban vehető fel.
 
@@ -186,4 +190,6 @@ rendeletben határozza meg.
 
 (5)–(11)
 
-8–9. §
+8. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+9. §

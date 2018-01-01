@@ -97,7 +97,7 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (3) A reklámközvetítésre vonatkozó szerződésnek, illetve a reklám közzétételére irányuló szerződésnek az 5/C. § és az 5/D. § (1) bekezdésébe ütköző rendelkezése semmis.
 
-5/G. § Az 5/C. § és az 5/D. § (1) és (4) bekezdésének megsértése esetén a Gazdasági Versenyhivatal köteles versenyfelügyeleti eljárást lefolytatni az érintett személyekkel, illetve szervezetekkel szemben.
+5/G. §
 
 6. § (1) Ha külön törvény eltérően nem rendelkezik, reklám természetes személynek mint reklám címzettjének közvetlen megkeresése módszerével (a továbbiakban: közvetlen üzletszerzés), így különösen elektronikus levelezés vagy azzal egyenértékű más egyéni kommunikációs eszköz útján – a (4) bekezdésben meghatározott kivétellel – kizárólag akkor közölhető, ha ahhoz a reklám címzettje előzetesen egyértelműen és kifejezetten hozzájárult.
 

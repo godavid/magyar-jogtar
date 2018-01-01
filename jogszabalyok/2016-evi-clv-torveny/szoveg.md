@@ -386,6 +386,26 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (2) A Hivatalos Statisztikai Szolgálat adatgyűjtést végrehajtó tagja, a szolgáltatott adatok valódiságának ellenőrzése céljából, a szolgáltatott adatokkal összefüggő nyilvántartásokba, iratokba – előzetes értesítés alapján – az adatszolgáltatónál betekinthet.
 
+27/A. § (1) A 26. § (1) bekezdésében, valamint a 29. § (1) bekezdésében meghatározott adatszolgáltatók a KSH által végrehajtott adatfelvételek esetében – ideértve a 29. § szerinti egyéb statisztikai adatátvételeket – adatszolgáltatási, adatátadási kötelezettségüket elektronikus úton teljesítik.
+
+(2) A KSH az (1) bekezdés szerinti adatszolgáltatási, adatátadási kötelezettség elektronikus úton történő teljesítéséhez informatikai rendszert (a továbbiakban: Rendszer) működtet.
+
+(3) A Rendszerben történő adatszolgáltatás, adatátadás, az adatszolgáltatókkal való kapcsolattartás esetében az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) rendelkezéseit a (4)–(10) bekezdésekben foglalt eltérésekkel kell alkalmazni.
+
+(4) A Rendszerben történő adatszolgáltatást, adatátadást teljesítő adatszolgáltatók azonosítása – az E-ügyintézési tv. rendelkezéseinek megfelelően – a Rendszerben biztosított egyedi azonosítási folyamat során a regisztrációt követően kapott egyedi azonosítóval, vagy egyéb, az E-ügyintézési tv. szerinti elektronikus azonosítási szolgáltatáson keresztül történik.
+
+(5) A KSH – a Rendszerben regisztrált – adatszolgáltató részére címzett iratot az adatszolgáltató által a Rendszerben rögzített legfeljebb öt elektronikus levélcímre kézbesíti, ha az adatszolgáltatóval az E-ügyintézési tv. alapján való kapcsolattartás más módon nem lehetséges.
+
+(6) Adatszolgáltatási, adatátadási kötelezettséggel kapcsolatos irat kézbesítése új, gazdálkodó szervezetnek nem minősülő adatszolgáltatói kijelölés esetében – ha az adatszolgáltató korábban még nem regisztrált a Rendszerben – postai szolgáltató útján, új, a rendszerben korábban nem regisztrált gazdálkodó szervezet adatszolgáltató részére annak hivatalos elektronikus elérhetőségére történik.
+
+(7) A Rendszer rögzíti és visszaigazolja az adatszolgáltatás, adatátadás időpontját, amely egyben az adatszolgáltatási, adatátadási kötelezettség teljesítésének időpontja.
+
+(8) Statisztikai adatátvétel esetében az adatátadási kötelezettség – az adatátadáson felül – a statisztikai adatátvétel adatainak értelmezéséhez szükséges dokumentáció, metaadatok átadásával tekinthető teljesítettnek.
+
+(9) A KSH a teljesített adatszolgáltatást, adatátadást a Rendszerben a rögzítéstől számított egy évig megőrzi (a továbbiakban: megőrzési idő).
+
+(10) Ha a Rendszer bármely okból egy napon legalább négy órán keresztül az adatszolgáltató által nem elérhető (üzemzavar, üzemszünet), ez a nap az adatszolgáltatási határidőbe nem számít bele. A KSH a honlapján közzéteszi azokat a napokat, amelyek a határidőbe nem számítanak bele.
+
 #### 13. Adminisztratív adatforrások, adatátvételek adminisztratív nyilvántartásokból
 
 28. § (1) Az adminisztratív adatforrások adattartalma – a jelen törvényben foglaltak figyelembevétekével – hivatalos statisztikai célra korlátozás nélkül felhasználható.
@@ -432,6 +452,8 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - f) az adatok értelmezését segítő egyéb módszertani leírások, amelyek megadják az állomány sokaságát (a nyilvántartás, illetve az abból átvett egyedek körét), az állomány tartalmára vonatkozó módszertani információkat (alkalmazott osztályozások, megfigyelés és előállítás módszertanát), a nyilvántartás aktualizálásának, minőség-ellenőrzésének módját.
 
 (10) Az adminisztratív adatok átadását – a KSH részére minden esetben, a Hivatalos Statisztikai Szolgálat egyéb tagjai részére igényük esetén – a KSH által erre a célra üzemeltetett elektronikus rendszeren keresztül kell teljesíteni.
+
+(10a) A (10) bekezdésben foglalt elektronikus rendszeren keresztül történő adatátadásra a 27/A. §-ban foglaltakat kell alkalmazni.
 
 (11) Az adminisztratív adatforrást kezelő szervezet az adminisztratív adatforrás hivatalos statisztikai célú felhasználhatóságára tekintettel az adminisztratív adatforrás minőségéről minden évben a KSH által meghatározott tartalmú és formájú minőségjelentést állít össze és megküldi azt a KSH részére.
 
@@ -498,7 +520,15 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti jogsértéssel érintett statisztikai adatfelvételt végrehajtó tagja az (1) bekezdés szerinti hatósági eljárás során ügyfélnek minősül.
 
-(4) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott határozatával és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti önálló fellebbezéssel támadható végzésével szemben fellebbezésnek van helye.
+(4) Az (1) bekezdés szerinti bírság kiszabása során a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli:
+
+- a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket,
+- b) a jogsértő magatartás ismétlődését és gyakoriságát,
+- c) a jogsértést elkövető gazdasági súlyát.
+
+(5) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott, önálló jogorvoslattal támadható döntésével szemben fellebbezésnek van helye.
+
+(6) Az (5) bekezdés szerinti fellebbezés elbírálására, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
 
 33. § (1) A fővárosi és megyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül – közigazgatási bírsággal sújtja azt a jogi személyt vagy személyiségi joga szerint jogképes szervezetet, amely kötelező adatszolgáltatás esetén a valóságnak nem megfelelő adatot szolgáltat vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
 
@@ -506,7 +536,15 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (3) A Hivatalos Statisztikai Szolgálat (1) bekezdés szerinti jogsértéssel érintett statisztikai adatfelvételt végrehajtó tagja az (1) bekezdés szerinti hatósági eljárás során ügyfélnek minősül.
 
-(4) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott határozatával és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szerinti önálló fellebbezéssel támadható végzésével szemben fellebbezésnek van helye.
+(4) Az (1) bekezdés szerinti bírság kiszabása során a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli:
+
+- a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket,
+- b) a jogsértő magatartás ismétlődését és gyakoriságát,
+- c) a jogsértést elkövető gazdasági súlyát.
+
+(5) A fővárosi és megyei kormányhivatal az (1) bekezdés szerinti eljárásban hozott, önálló jogorvoslattal támadható döntésével szemben fellebbezésnek van helye.
+
+(6) Az (5) bekezdés szerinti fellebbezés elbírálására, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
 
 34. § (1) A Hivatalos Statisztikai Szolgálat statisztikai adatfelvételt végrehajtó tagja a honlapján nyilvánosságra hozhatja a 32. § (1) bekezdés a) és b) pontjaiban, valamint a 33. § (1) bekezdésében meghatározottak alapján elmarasztalt jogi személy és személyiségi joga szerint jogképes szervezet adatszolgáltató nevét, székhelyét, telephelyét és adószámát és a kiszabott bírság összegét amennyiben a jogerős hatósági határozat hozatalára sor került, feltéve, hogy a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen lezárult és a határozat bírósági felülvizsgálatának megindítására nyitva álló határidő eltelt. Ebben az esetben az elmarasztalt adatszolgáltató adatai a bírósági felülvizsgálat megindítására nyitva álló határidő eredménytelen lejártát követő naptól, illetve a bírósági eljárás jogerős lezárását követő naptól, a hatósági határozat hatályában fenntartott része vonatkozásában hozhatók nyilvánosságra.
 

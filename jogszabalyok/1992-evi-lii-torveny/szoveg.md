@@ -4,7 +4,9 @@ a nemzeti gondozásról
 
 Az Országgyűlés az alapvető emberi jogok sérelmével elkövetett jogtalanságok következtében maradandó fogyatékosságot vagy súlyos egészségkárosodást elszenvedetteknek, életvesztés esetén hozzátartozóiknak nemzeti gondozásáról a következő törvényt alkotja.
 
-### A nemzeti gondozásra jogosultakés a nemzeti gondozási díj
+### A nemzeti gondozásra jogosultak
+
+és a nemzeti gondozási díj
 
 1. § (1) Az a Magyarországon élő személy, aki Magyarországon élő személyként
 
@@ -60,11 +62,11 @@ legalább 50%-os mértékű egészségkárosodást szenvedett, havi 21972 Ft nem
 
 (2) A kérelmet a kárpótlási hatóság bírálja el.
 
-(3) A kárpótlási hatóság határozatának felülvizsgálata iránti perben a kárpótlásra jogosult lakóhelye szerint illetékes közigazgatási és munkaügyi bíróság jár el. Ha a kárpótlásra jogosultnak belföldi lakóhelye nincs, a perben a Fővárosi Közigazgatási és Munkaügyi Bíróság jár el.
+(3)
 
-(4) Az (1)—(3) bekezdésben említett eljárás ügyintézési határideje három hónap, amelyet a a kárpótlási hatóság vezetője egy ízben legfeljebb három hónappal meghosszabbíthat.
+(4)
 
-(5) A jogosultság elbírálásához szükséges orvosi szakértői véleményt — amennyiben az nem áll az érintett rendelkezésére, vagy nem tükrözi a véglegesen kialakult állapotot — orvosszakértői szerv adja ki.
+(5)
 
 (6)
 
@@ -74,7 +76,7 @@ legalább 50%-os mértékű egészségkárosodást szenvedett, havi 21972 Ft nem
 
 (3) A (2) bekezdés szerint folyósított nemzeti gondozási díj összegét a költségvetés a Nyugdíjbiztosítási Alapnak megtéríti. A megtérítésre vonatkozó eljárást az államháztartásért felelős miniszter és a Nyugdíjbiztosítási Alap kezelője megállapodásban rögzíti.
 
-7/A. § Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
+7/A. § Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, vagy a jogutód nem ismert, a kárpótlási hatóság a döntését az általános közigazgatási rendtartásról szóló törvény hirdetményi közlésre vonatkozó szabályai szerint közli.
 
 ### Záró rendelkezések
 

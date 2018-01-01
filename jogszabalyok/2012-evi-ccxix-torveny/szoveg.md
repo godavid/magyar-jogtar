@@ -46,9 +46,9 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 (6) A beolvadással kapcsolatos bírósági nyilvántartásba történő bejegyzést az átvevő hegyközségnek kell kezdeményeznie.
 
-(7) Az ingatlan tulajdoni lapján jogi jellegként a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleget fel kell tüntetni. A jogi jelleg feljegyzése érdekében a termőhelyi katasztert vezető szerv jogerős határozattal megkeresi az ingatlanügyi hatóságot.
+(7) Az ingatlan tulajdoni lapján jogi jellegként a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleget fel kell tüntetni. A jogi jelleg feljegyzése érdekében a termőhelyi katasztert vezető szerv véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot.
 
-(8) A termőhelyi katasztert vezető szerv dönt a borszőlő termőhelyi kataszterbe történő sorolás megszüntetéséről, ha annak feltételei már nem állnak fenn. A termőhelyi katasztert vezető szerv a jogerős határozatot megküldi az ingatlanügyi hatóságnak a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg ingatlan-nyilvántartásból történő törlése céljából.
+(8) A termőhelyi katasztert vezető szerv dönt a borszőlő termőhelyi kataszterbe történő sorolás megszüntetéséről, ha annak feltételei már nem állnak fenn. A termőhelyi katasztert vezető szerv a véglegessé vált határozatot megküldi az ingatlanügyi hatóságnak a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg ingatlan-nyilvántartásból történő törlése céljából.
 
 #### 5. A közgyűlés
 
@@ -77,7 +77,18 @@ illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát
 
 (7) Ha e törvény vagy az alapszabály másként nem rendelkezik a közgyűlés a határozatait a jelenlévő tagokat megillető szavazatok szerint megállapított egyszerű szavazattöbbséggel hozza.
 
-(8) A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők választják meg, a hegyközségi tanács borászati szekciójába tartozó küldöttet a borászati termelők választják meg.
+(8) A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők választják meg, a hegyközségi tanács borászati szekciójába tartozó küldöttet a borászati termelők választják meg maguk közül.
+
+(8a) Nem választható szőlészeti küldötté az a tag, akire a választás időpontját megelőző utolsó három lezárt borpiaci év bármelyikében teljesül, hogy
+
+- a) ő maga,
+- b) olyan gazdasági társaság, amelynek vezető tisztségviselője,
+- c) saját vagy közeli hozzátartozója összesen legalább 25%-os tulajdonában álló gazdasági társaság,
+- d) közeli hozzátartozója
+
+– az a)–d) pontban meghatározottak közötti tranzakciókat nem számolva – összességében legalább fele akkora mennyiségű szőlőt vásárolt fel, mint amennyit megtermelt.
+
+(8b) A (8a) bekezdésben foglaltaknak megfelelést az ellenőrző bizottság igazolja a hegybíró adatszolgáltatása alapján.
 
 (9) A határozathozatal és a tisztségviselők választásának rendjét az alapszabályban kell meghatározni.
 
@@ -203,7 +214,7 @@ kezeli.
 
 (3) A szőlészeti és borászati felvásárló és a nem borvidéki településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni a nevét (cégnevét), lakóhelyét (székhelyét, telephelyét), adóazonosító jelét vagy adószámát, a mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítóját, és a miniszter e törvény felhatalmazása alapján kiadott rendelete szerinti egyéb, személyes adatnak nem minősülő adatokat.
 
-(4) Új telepítésű szőlő esetén a szőlészeti termelő hegyközségi tagsági viszonya – amennyiben még nem tagja a hegyközségnek – a telepítési engedély jogerőre emelkedésével jön létre.
+(4) Új telepítésű szőlő esetén a szőlészeti termelő hegyközségi tagsági viszonya – amennyiben még nem tagja a hegyközségnek – a telepítési engedély véglegessé válásával jön létre.
 
 (5) A hegyközségi tag, valamint a szőlészeti és borászati felvásárló, illetve a nem borvidéki településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni, hogy tevékenységével felhagyott, vagy a szőlészeti termelő a szőlőültetvény használatát másnak engedte át. A hegybíró a bejelentés alapján a tagsági jogviszony megszüntetéséről, ezzel összefüggésben a névjegyzékből való törlésről, illetve az adatszolgáltatási kötelezettség megszűnéséről határozatot hoz, amennyiben a szőlészeti és borászati termelőnek, illetve a szőlészeti és borászati felvásárlónak nincs járuléktartozása, illetve adatszolgáltatási kötelezettségének eleget tett.
 
@@ -269,7 +280,7 @@ kezeli.
 
 22. § (1) A hegyközségek borvidékenként hegyközségi tanácsot alakítanak. Amennyiben egy borvidéken csak egy hegyközség alakul meg, a hegyközségi tanácsot nem kell létrehozni, illetve a hegyközségi tanács megszűnik, és a hegyközségi tanácsi feladatokat a hegyközség látja el.
 
-(2) A hegyközségi tanács tagjai a 6. § (8) bekezdésében foglaltak alapján megválasztott küldöttek.
+(2) A hegyközségi tanács tagjai a 6. § (8)–(8b) bekezdésében foglaltak alapján megválasztott küldöttek.
 
 (3) A küldöttek a hegyközségi tanácsban szőlészeti és borászati szekciót alakítanak.
 
@@ -296,7 +307,7 @@ kezeli.
 
 kapcsolatos feladatok ellátása.
 
-(2) A szőlészeti és a borászati szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába szekciónként delegált egy-egy küldöttet. Amennyiben a borvidéken csak egy hegyközség működik a Hegyközségek Nemzeti Tanácsába delegált egy-egy küldöttet a 6. § (8) bekezdése szerint kell megválasztani.
+(2) A szőlészeti szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába delegált szőlész küldöttet. A borászati szekció a tagjai közül megválasztja a Hegyközségek Nemzeti Tanácsába delegált borász küldöttet. Amennyiben a borvidéken csak egy hegyközség működik a Hegyközségek Nemzeti Tanácsába delegált egy-egy küldöttet a 6. § (8)–(8b) bekezdése szerint kell megválasztani.
 
 25. § A döntéshozatal során a küldöttet az őt delegáló hegyközségnek a hegybíró által nyilvántartott területe alapján minden megkezdett hektár után egy szavazat illeti meg azzal, hogy egy küldött legfeljebb a szavazatok többségét el nem érő számú szavazattal rendelkezhet. A küldött nem gyakorolhatja a szavazati jogát, amennyiben az őt delegáló hegyközségnek fenntartási hozzájárulás-tartozása áll fenn. Ha e törvény vagy az alapszabály másként nem rendelkezik, a hegyközségi tanács a döntéseit egyszerű többséggel hozza azzal, hogy a döntéshozatalhoz a szavazásra jogosult küldöttek több mint felének támogató szavazata is kell.
 
@@ -376,7 +387,7 @@ kapcsolatos feladatok ellátása.
 
 36. § (1) A hegyközségi tanács borvidéki rendtartást alkot.
 
-(2) A borvidéki rendtartás a borvidék borszőlő termőhelyi kataszterbe sorolt területre kiterjedő hatállyal érvényes.
+(2) A borvidéki rendtartás a borvidék borszőlő termőhelyi kataszterbe sorolt területre és a borvidék területén működő borászati üzemekre kiterjedő hatállyal érvényes.
 
 (3) Az elfogadott borvidéki rendtartást meg kell küldeni a Hegyközségek Nemzeti Tanácsának, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, ellentétes a Hegyközségek Nemzeti Tanácsának a rendtartás megküldéséig elfogadott határozataival, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközségi tanácsnak a kifogásolt rendelkezést újra kell tárgyalnia. A borvidéki rendtartást – kifogás híján – a Hegyközségek Nemzeti Tanácsának történő megküldését követő harminc nap elteltével közzé kell tenni.
 
@@ -465,7 +476,7 @@ kapcsolatos feladatok ellátása.
 
 #### 25. Közigazgatási hatósági ügyekkel kapcsolatos szabályok
 
-42. § (1) A hegybírónak és a Hegyközségek Nemzeti Tanácsának közigazgatási hatósági ügyekben való eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+42. § (1) A hegybírónak és a Hegyközségek Nemzeti Tanácsának közigazgatási hatósági ügyekben való eljárására az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) A hegybíró határozata ellen a Hegyközségek Nemzeti Tanácsához lehet fellebbezni.
 
@@ -475,6 +486,8 @@ kapcsolatos feladatok ellátása.
 - b) a Hegyközségek Nemzeti Tanácsánál a főtitkár
 
 jár el.
+
+(4) A hegyközségi rendtartást közhírré tétel útján is közölni kell.
 
 43. § (1) A Hegyközségek Nemzeti Tanácsa közigazgatási hatósági ügyben eljáró tisztségviselője, illetve ügyintézője csak olyan büntetlen előéletű személy lehet, aki a közigazgatási alapvizsgát letette, vagy vállalja, hogy kinevezése esetén a vizsgát a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott határidőn – de kinevezésétől számított legkésőbb egy éven – belül leteszi. A határidő elmulasztása esetén a tisztségviselő, illetve ügyintéző munkaviszonya megszűnik.
 
@@ -573,7 +586,7 @@ részére adhatja át.
 
 (3b) A szőlészeti termelőnek nem kell hegyközségi járulékot fizetni azon megtermelt szőlőmennyiség után, amelyet borászati termelő hegyközségi tag, vagy szőlészeti és borászati felvásárló részére értékesített.
 
-(4) A hegyközségi járulékot a tag az adózás szempontjából költségként számolhatja el. Meg nem fizetés esetén a járulékot – a hegyközség javára – adók módjára kell behajtani.
+(4) A hegyközségi járulékot a tag az adózás szempontjából költségként számolhatja el.
 
 (5) Adományt, valamint más vagyoni előnyt csak olyan személytől lehet elfogadni, aki a hegyközség tevékenységében nem érdekelt.
 
@@ -617,27 +630,15 @@ kell fedezni.
 
 (3) A mezőgazdasági igazgatási szerv a hegyközség működésével kapcsolatban észlelt törvénysértés esetén törvényességi felügyeleti intézkedést kezdeményez a miniszternél.
 
-(4) Ha a hegyközségi szervezet működésének törvényessége másképp nem állítható helyre, a miniszter keresettel fordulhat a törvényszékhez. A törvényszék
-
-- a) hatályon kívül helyezi a hegyközségi szervezet jogsértő döntését és – szükség szerint – új döntés meghozatalát rendeli el;
-- b) a működés törvényességének helyreállítása céljából összehívja a hegyközségi szervezet legfőbb önkormányzati szervét;
-- c) a hegyközségi szervezet tevékenységét felfüggesztheti, és felügyelőbiztost rendelhet ki, ha a működés törvényessége másként nem biztosítható.
+(4)
 
 52. § (1) A mezőgazdasági igazgatási szerv ellenőrzi a hegybíró tevékenységét.
 
 (2) Amennyiben a mezőgazdasági igazgatási szerv ellenőrzése során megállapítja, hogy a hegybíró tevékenységét nem a jogszabályoknak megfelelően látja el, vagy rendszeresen mulasztást követ el, kezdeményezi a Hegyközségek Nemzeti Tanácsának főtitkáránál a hegybíró felmentését.
 
-#### 30. A testületi döntések felülvizsgálata
+#### 30.
 
-53. § (1) A jogsértő testületi döntés felülvizsgálatát a hegyközségi szervezet bármely tagja kérheti a törvényszéktől.
-
-(2) A hegyközségi választmány rendtartási ügyben hozott döntésének felülvizsgálatát az a tag kérheti, akinek jogát vagy jogos érdekét a döntés sérti.
-
-(3) Perindítás előtt a sérelmet szenvedett tag köteles a jogsértést bejelenteni a döntés meghozatalától számított tizenöt napon belül az ellenőrző bizottságnak, amely további tizenöt napon belül állást foglalt, és erről a tagot, valamint a döntést meghozó testületet írásban értesíti.
-
-(4) A keresetet az ellenőrző bizottság állásfoglalása kézhezvételétől számított harminc napon belül a sérelmes döntést hozó hegyközségi szervezet ellen kell megindítani. A keresetindításra nyitva álló határidő jogvesztő. A keresetindításnak halasztó hatálya nincs, a törvényszék azonban a döntés végrehajtását felfüggesztheti.
-
-(5) A törvényszék eljárására egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény általános szabályait kell alkalmazni.
+53. §
 
 ### IX. Fejezet — ÁTMENETI RENDELKEZÉSEK
 

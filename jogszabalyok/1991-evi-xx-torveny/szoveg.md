@@ -8,9 +8,19 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 ### BELÜGYI IGAZGATÁS
 
-1-2. §
+1. §
 
-3–7. §
+2. §
+
+3. §
+
+4. §
+
+5. §
+
+6. §
+
+7. §
 
 8. §
 
@@ -18,7 +28,19 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 ### Tűz elleni védekezés és polgári védelem
 
-10-16. §
+10. §
+
+11. §
+
+12. §
+
+13. §
+
+14. §
+
+15. §
+
+16. §
 
 17. § (1)
 
@@ -34,17 +56,37 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 21. § A közterület tisztántartásával és a lomtalanítási akciókkal kapcsolatos feladatok ellátásáról a települési, a fővárosban a fővárosi önkormányzat képviselőtestülete gondoskodik, külön jogszabály rendelkezéseinek megfelelően.
 
-22–29. §
+22. §
+
+23. §
+
+24. §
+
+25. §
+
+26. §
+
+27. §
+
+28. §
+
+29. §
 
 30. §
 
 31. §
 
-32–33. §
+32. §
 
-34–35. §
+33. §
 
-36–37. §
+34. §
+
+35. §
+
+36. §
+
+37. §
 
 #### II.
 
@@ -61,7 +103,9 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 40. §
 
-41–42. §
+41. §
+
+42. §
 
 #### III. ÉPÍTÉSÜGYI IGAZGATÁS
 
@@ -69,7 +113,47 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 #### IV.
 
-44–64. §
+44. §
+
+45. §
+
+46. §
+
+47. §
+
+48. §
+
+49. §
+
+50. §
+
+51. §
+
+52. §
+
+53. §
+
+54. §
+
+55. §
+
+56. §
+
+57. §
+
+58. §
+
+59. §
+
+60. §
+
+61. §
+
+62. §
+
+63. §
+
+64. §
 
 #### V.
 
@@ -91,9 +175,13 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 68. § A külön jogszabályban meghatározott jegyző ellátja az üzletek működésével, nyitva tartásával és tevékenységének ellenőrzésével, valamint a telepengedélyezéssel és a telep létesítésének bejelentésével kapcsolatos elsőfokú hatósági feladatokat. A feladat- és hatáskört és a feladatellátás feltételeit a Kormány rendeletben állapítja meg.
 
-69–70. §
+69. §
 
-71-72. §
+70. §
+
+71. §
+
+72. §
 
 73. §
 
@@ -101,7 +189,25 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 ### KÖRNYEZETVÉDELMIÉS TERÜLETFEJLESZTÉSI IGAZGATÁS
 
-74–83. §
+74. §
+
+75. §
+
+76. §
+
+77. §
+
+78. §
+
+79. §
+
+80. §
+
+81. §
+
+82. §
+
+83. §
 
 ### Környezet- és természetvédelem
 
@@ -111,7 +217,9 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 - a)
 - b)
-- c)–e)
+- c)
+- d)
+- e)
 - f)
 - g)
 - h)
@@ -125,27 +233,77 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 ### KÖZLEKEDÉSI, HÍRKÖZLÉSI ÉS VÍZÜGYI IGAZGATÁS
 
-86-91. §
+86. §
+
+87. §
+
+88. §
+
+89. §
+
+90. §
+
+91. §
 
 ### Közlekedés
 
-92. § (1)–(8)
+92. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
 
 (9)
 
 (10)
 
-93–95. §
+93. §
+
+94. §
+
+95. §
 
 #### VIII.
 
 ### MŰVELŐDÉSI ÉS KÖZOKTATÁSI IGAZGATÁS
 
-96-106. §
+96. §
+
+97. §
+
+98. §
+
+99. §
+
+100. §
+
+101. §
+
+102. §
+
+103. §
+
+104. §
+
+105. §
+
+106. §
 
 ### Közművelődési, közgyűjteményi, művészeti tevékenység, testnevelés és sport
 
-107–108. §
+107. §
+
+108. §
 
 109. § (1) Művészeti alkotás közterületen, valamint önkormányzati tulajdonú épületen való elhelyezéséről, áthelyezéséről, lebontásáról a település önkormányzatának képviselőtestülete, Budapesten fővárosi tulajdonú közterület vagy épület esetében a fővárosi önkormányzat közgyűlése, a kerületi önkormányzat tulajdonában álló közterület vagy épület esetében a kerületi önkormányzat képviselőtestülete dönt, és gondoskodik fenntartásáról és felújításáról.
 
@@ -229,13 +387,24 @@ E törvény célja, hogy— megállapítsa a helyi önkormányzati feladat- és 
 
 135. § A települési képviselőtestület szociális, egészségügyi, valamint gyermek- és ifjúságvédelmi feladatai:
 
-- a)–e)
-- f)–k)
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
+- g)
+- h)
+- i)
+- j)
+- k)
 - l)
 - m)
 - n)
 - o) megállapítja a társadalmi gondozók, valamint az idősek klubjában orvosi munkát végző díjazását;
-- p)–s)
+- p)
+- r)
+- s)
 - t)
 
 136. §
@@ -283,7 +452,7 @@ PÉNZÜGYIGAZGATÁS
 - b) meghatározza a helyi adó illetékességi területén történő bevezetésének időpontját és időtartamát határozott vagy határozatlan időre;
 - c) megállapítja — a helyi sajátosságokhoz, az önkormányzat gazdálkodási követelményeihez és az adóalanyok teherviselő-képességéhez igazodóan a helyi adókról szóló törvényben meghatározott felső (adómaximum) határokra figyelemmel — a működési területén bevezetett helyi adók mértékét;
 - d) döntése szerint bővíti a helyi adókról szóló törvényben megfogalmazott mentességi és kedvezményi szabályokat;
-- e) meghatározza — a helyi adókról és az adózás rendjéről szóló törvények keretei között — illetékességi területén a helyi adózás részletes szabályait;
+- e) meghatározza — a helyi adókról, az adóigazgatási rendtartásról és az adózás rendjéről szóló törvények keretei között — illetékességi területén a helyi adózás részletes szabályait;
 - f) építmény- és telekadó bevezetése esetén meghatározza az adóalap megállapításának módját;
 - g) a jegyző beszámoltatása útján ellenőrzi az adóztatást;
 - h) tájékoztatja a lakosságot a helyi adókból származó bevételek összegéről;
@@ -340,9 +509,13 @@ PÉNZÜGYIGAZGATÁS
 
 (3) A (2) bekezdésben meghatározott adóügyi feladatok ellátásához szükséges első fokú hatósági jogkörben a település jegyzője jár el.
 
-141-142. §
+141. §
 
-143–144. §
+142. §
+
+143. §
+
+144. §
 
 ### VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 

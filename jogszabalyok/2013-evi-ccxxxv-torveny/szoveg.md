@@ -280,7 +280,7 @@ az egyes fizetési szolgáltatókról
 
 (2) A Felügyelet az általa kiadott engedélyekről, azok módosításáról vagy visszavonásáról szóló határozatát haladéktalanul megküldi a cégbíróságnak.
 
-(3) A Felügyelet az engedély iránti kérelmet elutasító jogerős határozatát megküldi a cégbíróságnak.
+(3) A Felügyelet az engedély iránti kérelmet elutasító végleges határozatát megküldi a cégbíróságnak.
 
 20. § A Felügyelet a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tevékenységére jogosító engedély iránti kérelmét elutasítja, ha a kérelmező
 
@@ -385,7 +385,7 @@ az egyes fizetési szolgáltatókról
 
 29. § (1) A Felügyelet előzetes engedélyével választható meg vagy nevezhető ki a pénzforgalmi intézménynél, az elektronikuspénz-kibocsátó intézménynél a vezető állású személy.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a kérelem megérkezését követő naptól számított harminc napon belül azt nem utasítja el, vagy az engedélyezési eljárást nem függeszti fel.
+(2)
 
 (3) Ha az (1) bekezdésben meghatározott személlyel szemben a (6) bekezdésben meghatározott büntetőeljárás van folyamatban, a Felügyelet a kérelem elbírálásával kapcsolatos eljárását a büntetőeljárás befejezéséig felfüggeszti.
 
@@ -397,9 +397,9 @@ az egyes fizetési szolgáltatókról
   - aa) amely esetében a fizetésképtelenséget csak a Felügyelet által alkalmazott kivételes intézkedésekkel lehet elkerülni, vagy
   - ab) amelyet a tevékenységi engedély visszavonása miatt fel kellett számolni,
 
-és akinek személyes felelősségét e helyzet kialakulásáért jogerős határozat megállapította;
+és akinek személyes felelősségét e helyzet kialakulásáért végleges határozat megállapította;
 
-- b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban megállapította;
+- b) súlyosan vagy rendszeresen megsértette e törvény vagy más, a pénzügyi szolgáltatási tevékenységre, kiegészítő pénzügyi szolgáltatási tevékenységre vonatkozó jogszabály előírásait, és ezt a Felügyelet, más hatóság végleges határozata vagy a bíróság jogerős ítélete öt évnél nem régebben megállapította;
 - c) büntetett előéletű;
 - d) nem rendelkezik jó üzleti hírnévvel;
 - e) nem rendelkezik legalább háromévi – a banki vagy vállalati gazdálkodás vagy az államigazgatás pénzügyi vagy gazdasági területén szerzett – vezetői gyakorlattal;
@@ -413,7 +413,7 @@ az egyes fizetési szolgáltatókról
 
 meghatározott bűncselekmény miatt az ügyész vádat emelt, vagy külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárás befejezéséig vezető állású személyként nem foglalkoztatható, és az ilyen feladatok általa történő ellátását az intézmény felfüggeszti.
 
-(7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás jogerős befejezéséig kezelheti.
+(7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.
 
 30. § (1) A kérelmező bizonyítja a jó üzleti hírnevet.
 
@@ -457,7 +457,7 @@ meghatározott bűncselekmény miatt az ügyész vádat emelt, vagy külföldön
 
 szerzett.
 
-(7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti, és a megismert személyes adatokat a Felügyelet az eljárás jogerős befejezéséig kezelheti.
+(7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti, és a megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.
 
 #### 7. Könyvvezetés, könyvvizsgálat
 
@@ -864,7 +864,7 @@ szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsát
 (10) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett fizetési számláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a fizetési számla vagy az ügylet
 
 - a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–179. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §) vagy új pszichoaktív anyaggal visszaéléssel [1978. évi IV. törvény 283/B. §, illetve Btk. 184. § (1) bekezdés b) pont],
-- b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318. §),
+- b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318–318/A. §) vagy háborús uszítással (Btk. 331. §),
 - c) robbanóanyaggal vagy robbantószerrel visszaéléssel (1978. évi IV. törvény 263. §, illetve Btk. 324. §),
 - d) lőfegyverrel vagy lőszerrel visszaéléssel (1978. évi IV. törvény 263/A. §, illetve Btk. 325. §),
 - e) pénzmosással (1978. évi IV. törvény 303–303/A. §, illetve Btk. 399–400. §),
@@ -1062,7 +1062,7 @@ rögzített követelmény hetvenöt százalékát,
 - g) akadályozza a Felügyeletet vagy a könyvvizsgálót tevékenységének végzésében,
 - h) az előírt vagy a szükséges szabályzatok, nyilvántartások, informatikai és ellenőrzési rendszerek nélkül működik,
 - i) az előírásoknak való meg nem felelés miatt a vele szemben alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti,
-- j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést vagy bírságot megállapító határozat jogerőre emelkedését követő két éven belül – ismételten megsérti, vagy
+- j) az (1) bekezdésben említett előírásokat – a Felügyelet által alkalmazott intézkedést vagy bírságot megállapító határozat véglegessé válását követő két éven belül – ismételten megsérti, vagy
 - k) a rá vonatkozó tőkemegfelelési előírásnak csak úgy tud megfelelni, hogy nem fizeti vissza lejáratkor a kiegészítő alárendelt kölcsönt.
 
 (4) A Felügyelet a törvényi és egyéb jogszabályi rendelkezések előírásainak súlyos megsértése esetén megteszi a szükséges intézkedéseket vagy kivételes intézkedéseket (73–80. §), ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó
@@ -1079,7 +1079,7 @@ rögzített követelmény hatvan százalékát,
 - d) az átvett ügyfélpénzekkel sajátjaként rendelkezik vagy azt e törvény rendelkezéseibe ütköző módon használja fel,
 - e) a szükséges számviteli, vezetői információs vagy belső ellenőrzési rendszer nélkül működik vagy e rendszerek nem teszik lehetővé a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény tényleges pénzügyi helyzetének megállapítását,
 - f) tiltott vagy színlelt szerződéseket köt vagyoni előny szerzése, vagy az adózott eredmény vagy a tőkekövetelmény módosítása céljából,
-- g) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat jogerőre emelkedését követő öt éven belül – ismételten megsérti, vagy
+- g) az (1) bekezdésben említett előírásokat – a Felügyelet által a (2) bekezdés alapján alkalmazott intézkedést, vagy bírságot megállapító határozat véglegessé válását követő öt éven belül – ismételten megsérti, vagy
 - h) az előírások jelentős megsértése miatt alkalmazott felügyeleti intézkedésben foglaltakat nem teljesíti.
 
 73. § (1) Az előírások megsértése vagy hiányosság megállapítása esetén – ha azok a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó prudens működését jelentősen vagy súlyosan nem veszélyeztetik – a Felügyelet a következő intézkedéseket alkalmazhatja:
@@ -1127,7 +1127,7 @@ rögzített követelmény hatvan százalékát,
 - a) előírja, hogy a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó a Felügyelet által megállapított határidőn belül és követelményeknek megfelelően – ideértve az eszközök eladását is – rendezze tőkeszerkezetét,
 - b) kötelezi az igazgatóságot a közgyűlés összehívására, továbbá meghatározott napirendi pontok megtárgyalására és meghatározott döntések meghozatalának szükségességére hívja fel e testületek figyelmét,
 - c) felügyeleti biztost rendel ki a pénzforgalmi intézményhez, elektronikuspénz-kibocsátó intézményhez, utalványkibocsátóhoz, vagy
-- d) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért jogerős határozatban megállapította, és kezdeményezi a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél, utalványkibocsátónál más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság.
+- d) visszavonhatja annak a vezető állású személynek a megválasztására vagy a kinevezésére adott engedélyét, akinek személyes felelősségét az eset kialakulásáért végleges határozatban megállapította, és kezdeményezi a pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézménynél, utalványkibocsátónál más vezető állású személy megválasztását vagy kinevezését azzal, hogy ezen kivételes intézkedésnél a vezető állású személlyel szemben együttesen nem szabható ki bírság.
 
 (2) Az (1) bekezdés c) pontjában meghatározott kivételes intézkedést a Felügyelet határozott időtartamra, de legfeljebb egy évre hozhatja meg. Ezt a határidőt a Felügyelet egy alkalommal, legfeljebb hat hónappal meghosszabbíthatja.
 
@@ -1158,7 +1158,7 @@ végzését.
 
 (4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja, ügyvezetője a Ptk. rendelkezéseiben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának, ügyvezetőjének törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(5) A (4) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel, utalványkibocsátóval szemben hozott határozat ellen, e jogorvoslati eljárásban a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, utalványkibocsátó képviselheti vagy a képviselet ellátására megbízást adhat.
+(5) A (4) bekezdéstől eltérően az igazgatóság vagy a felügyelő bizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogosult arra, hogy a felügyeleti biztost kirendelő határozatot és a Felügyelet által a pénzforgalmi intézménnyel, elektronikuspénz-kibocsátó intézménnyel, utalványkibocsátóval szemben hozott határozatot közigazgatási perben megtámadja.
 
 (6) Ha a Felügyelet a 73. § (2) bekezdés c) pont cc) alpontja szerinti intézkedést a Tvt. alapján fizetést korlátozó eljárásnak minősíti, akkor az erről való döntés közlését követő hatállyal jogosult az eljárás alá vont, a fizetési rendszerhez közvetlenül csatlakozó résztvevő esetében a javára benyújtott fizetési megbízásnak a fizetési rendszer általi elszámolását, teljesítését átmenetileg vagy véglegesen megtiltani. A Felügyelet ezen döntéséről haladéktalanul értesíti a fizetési rendszer rendszerüzemeltetőjét.
 

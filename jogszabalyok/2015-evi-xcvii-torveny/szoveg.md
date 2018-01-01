@@ -210,7 +210,7 @@ köthető.
 
 (2) Amennyiben a mezőgazdasági igazgatási szerv megállapítja, hogy a piaci szereplő a piacszervezési intézkedés rendelkezéseit megsértette, ágazatfelügyeleti bírságot szab ki. Ebben az esetben az ágazatfelügyeleti bírság legkisebb mértéke ötezer forint, legmagasabb mértéke ötvenmillió forint, de legfeljebb a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tíz százaléka.
 
-(3) A piaci szereplő által, a bírság jogerős kiszabásától számított két éven belül ismételten tanúsított bármely, a piacszervezési intézkedésbe ütköző magatartás esetén az ágazatfelügyeleti bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de legalább százezer forint, legfeljebb kétszázmillió forint azzal, hogy annak összege a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tizenöt százalékánál nagyobb nem lehet.
+(3) A piaci szereplő által, a bírság végleges kiszabásától számított két éven belül ismételten tanúsított bármely, a piacszervezési intézkedésbe ütköző magatartás esetén az ágazatfelügyeleti bírság összege a korábban kiszabott bírság másfélszeresénél nem lehet kevesebb, de legalább százezer forint, legfeljebb kétszázmillió forint azzal, hogy annak összege a piaci szereplő által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tizenöt százalékánál nagyobb nem lehet.
 
 (4) Az ágazatfelügyeleti bírság mértékét az eset összes körülményére – így különösen a jogsértő állapot időtartamára, a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre és a piaci szereplő gazdasági súlyára – tekintettel kell meghatározni.
 
@@ -224,7 +224,7 @@ köthető.
 
 #### 13. A pénzügyi hozzájárulás ellenőrzése
 
-22. § (1) Önkéntes teljesítés hiányában a pénzügyi hozzájárulás fizetési kötelezettséget a jogosult termelői szervezet, termelői szervezet társulása vagy szakmaközi szervezet kérelmére a mezőgazdasági igazgatási szerv állapítja meg. A pénzügyi hozzájárulás fizetési kötelezettséget a mezőgazdasági igazgatási szerv hivatalból is megállapíthatja. A pénzügyi hozzájárulás fizetésének teljesítésére legalább harminc napot kell biztosítani. A mezőgazdasági igazgatási szerv a pénzügyi hozzájárulás fizetési kötelezettséget megállapító határozatában a pénzügyi hozzájárulás határidőre történő meg nem fizetése esetére végrehajtási bírságot szab ki. A végrehajtási bírság napi összege ezertől ötvenezer forintig terjedhet. A pénzügyi hozzájárulásnak a mezőgazdasági igazgatási szerv által történő beszedése során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 132. §-ában foglaltakat nem kell alkalmazni.
+22. § (1) Önkéntes teljesítés hiányában a pénzügyi hozzájárulás fizetési kötelezettséget a jogosult termelői szervezet, termelői szervezet társulása vagy szakmaközi szervezet kérelmére a mezőgazdasági igazgatási szerv állapítja meg. A pénzügyi hozzájárulás fizetési kötelezettséget a mezőgazdasági igazgatási szerv hivatalból is megállapíthatja. A pénzügyi hozzájárulás fizetésének teljesítésére legalább harminc napot kell biztosítani. A mezőgazdasági igazgatási szerv a pénzügyi hozzájárulás fizetési kötelezettséget megállapító határozatában a pénzügyi hozzájárulás határidőre történő meg nem fizetése esetére végrehajtási bírságot szab ki. A végrehajtási bírság napi összege ezertől ötvenezer forintig terjedhet. A pénzügyi hozzájárulásnak a mezőgazdasági igazgatási szerv által történő beszedése során az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 135. §-ában foglaltakat nem kell alkalmazni.
 
 (2) A mezőgazdasági igazgatási szerv különös méltánylást érdemlő esetben – a pénzügyi hozzájárulás fizetésére köteles személy vagy szervezet indokolt kérelmére – egy alkalommal, a végrehajtási bírság napi összegének növelésével egyidejűleg az önkéntes teljesítésre póthatáridőt biztosíthat. A megnövelt összegű végrehajtási bírság mértéke napi százezer forintig terjedhet.
 
@@ -232,7 +232,7 @@ köthető.
 
 (4) A végrehajtási bírság mértékét az eset összes körülményére – így különösen a fizetendő pénzügyi hozzájárulás mértékére, a pénzügyi hozzájárulás-fizetési kötelezettség korábban előforduló határidőre való nem teljesítésére, a pénzügyi hozzájárulás fizetésére köteles személy gazdasági súlyára – tekintettel kell meghatározni.
 
-(5) A pénzügyi hozzájárulás, ha azt a kötelezett a teljesítésre nyitva álló határidőn belül nem fizette meg, adók módjára behajtandó köztartozásnak minősül, amelyet a mezőgazdasági igazgatási szerv megkeresésére az állami adóhatóság szed be.
+(5)
 
 23. § A jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre kiszabott végrehajtási bírságot, illetve ágazatfelügyeleti bírságot mind a kötelezettel, mind a kötelezett vezető tisztségviselőjével szemben egyidejűleg is ki lehet szabni.
 

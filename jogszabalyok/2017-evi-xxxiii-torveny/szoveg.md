@@ -26,7 +26,9 @@ egyes belügyi tárgyú törvények módosításáról
 
 #### 4. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-26. §
+26. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 37. §-a a következő (1e) bekezdéssel egészül ki:
+
+„(1e) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít a közúti közlekedési nyilvántartás járműnyilvántartását vezető szervnek a személyiadat- és lakcímnyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja születési, családi és utónevének, születési helyének és időpontjának, állampolgárságának, lakcímének változásáról, külföldön történő letelepedéséről, valamint az érintett elhalálozásáról.”
 
 27. §
 
@@ -38,7 +40,9 @@ egyes belügyi tárgyú törvények módosításáról
 
 29–36. §
 
-37. §
+37. § A külföldre utazásról szóló 1998. évi XII. törvény 31. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az adatkezelő szerv a 24. § (1) bekezdésében meghatározott adatokat az úti okmány érvényességi idejének lejártától számított tizenöt évig kezeli.”
 
 38. §
 
@@ -46,7 +50,9 @@ egyes belügyi tárgyú törvények módosításáról
 
 39–40. §
 
-41. §
+41. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény a következő 22/B. §-sal egészül ki:
+
+„22/B. § A járműnyilvántartásból történő terület alapú adatszolgáltatás esetén a lekérdezés alapja a kapcsolati kód alkalmazásával a személyiadat- és lakcímnyilvántartás által szolgáltatott aktuális lakcímadat, kivéve, ha az adatszolgáltatás az érvényes okmányban szereplő, vagy történeti lakcímadatok szerinti lekérdezésre irányul.”
 
 #### 8. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
@@ -129,17 +135,37 @@ egyes belügyi tárgyú törvények módosításáról
 
 91. §
 
-92. §
+92. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 25. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Az elektronikus ügyintézést biztosító szervek kötelesek az ügyek intézésével kapcsolatos, a Kormány rendeletében meghatározott adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – legalább a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben mentéseket létrehozni, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldeni. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.”
 
 93. §
 
-94. §
+94. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény a következő VII/A. Fejezettel egészül ki:
 
-95. §
+„VII/A. FEJEZET
+
+EGYES E-ÜGYINTÉZÉSI SZOLGÁLTATÁSOK IGÉNYBEVÉTELE
+
+42/A. § A törvényben vagy kormányrendeletben meghatározott szabályozott elektronikus ügyintézési szolgáltatások és központi elektronikus ügyintézési szolgáltatások – a Kormány rendeletében meghatározott módon – az elektronikus ügyintézést nem biztosító szerv által is igénybevehető.”
+
+95. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 55. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az (5) bekezdés szerinti, az érintett személy személyes adatainak továbbítására vonatkozó tájékoztatási kötelezettséget a 74. § (3) bekezdés d) pont da) alpontja szerinti központi elektronikus ügyintézési szolgáltatást igénybe vevő állami szervek a 74. § (3) bekezdés d) pont db) alpontja alapján biztosítják.”
 
 96–97. §
 
-98. §
+98. § (1) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 105. § (1) bekezdése a következő b) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
+
+„b) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, a felhasználás során a Felügyelet feladatát és eljárását, valamint a szolgáltatás használatáért számítható díj megállapításának módját,”
+
+(2) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 105. § (1) bekezdése a következő o) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
+
+„o) az elektronikus ügyintézést biztosító szerveknek az ügyek intézésével kapcsolatos adatai biztonsági mentésének rendjét és gyakoriságát, valamint az adatok őrzéséért felelős szervet.”
 
 99–101. §
 

@@ -157,7 +157,7 @@ vonatkozó szabályai nem alkalmazhatók,
 - d) az Mt. 55. § (1) bekezdés h) pontja nem alkalmazható,
 - e)
 - f) az Mt. 59–62. §-a nem alkalmazható,
-- g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, ha jogerős hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta, vagy az 1. § (4) bekezdés c) pontja szerinti személy elismerés iránti kérelmét jogerősen elutasították, kivéve, ha az idegenrendészeti hatóság határozata alapján az 1. § (4) bekezdés d) pontjának hatálya alá kerül.
+- g) az Mt. 64. § (1) bekezdését azokkal az eltérésekkel kell alkalmazni, hogy a közfoglalkoztató köteles a közfoglalkoztatási jogviszonyt azonnali hatályú felmondással megszüntetni, ha jogerős vagy végleges hatósági határozat a közfoglalkoztatottat a közfoglalkoztatásból kizárta, vagy az 1. § (4) bekezdés c) pontja szerinti személy elismerés iránti kérelmét jogerősen elutasították, kivéve, ha az idegenrendészeti hatóság határozata alapján az 1. § (4) bekezdés d) pontjának hatálya alá kerül.
 - h) az Mt. 70. §-a nem alkalmazható,
 - i) az Mt. 79. § (2) bekezdése nem alkalmazható,
 - j) az Mt. 81. §-a, 82. § (3) és (4) bekezdése, továbbá 83. §-a és 84. §-a nem alkalmazható,

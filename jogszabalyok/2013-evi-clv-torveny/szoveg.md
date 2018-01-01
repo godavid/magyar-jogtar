@@ -33,7 +33,7 @@ a támogatott döntéshozatalról
 
 4. § (1) A támogató, ha a támogatott döntéshozatal általános jelleggel vagy az adott ügycsoportra tekintettel fennáll, a támogatott személy kérésére
 
-- a) a közigazgatási hatósági eljárás általános szabályairól szóló törvényben, a polgári perrendtartásról szóló törvényben és a büntetőeljárásról szóló törvényben meghatározottak szerint jelen van azoknál a közigazgatási, polgári és büntetőeljárási cselekményeknél, amelyekben a támogatott személy érintett,
+- a) az általános közigazgatási rendtartásról szóló törvényben, a polgári perrendtartásról szóló törvényben és a büntetőeljárásról szóló törvényben meghatározottak szerint jelen van azoknál a közigazgatási, polgári és büntetőeljárási cselekményeknél, amelyekben a támogatott személy érintett,
 - b) az eljárási cselekmény rendjét meg nem zavaró módon a támogatott személlyel egyeztet,
 - c) a támogatott személy jognyilatkozatának megtételekor jelen van,
 - d) tanácsaival, a támogatott személy számára szükséges tájékoztatás megadásával a támogatott személy jognyilatkozatának megtételét elősegíti, és
@@ -175,7 +175,7 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 - a) a támogatott személy természetes személyazonosító adatai és lakcíme,
 - b) a támogató kirendeléséről szóló jogerős határozat ügyszáma,
-- c) a támogató kirendeléséről rendelkező határozat jogerőre emelkedésének napja,
+- c) a támogató kirendeléséről rendelkező határozat véglegessé válásának napja,
 - d) a támogató természetes személyazonosító adatai, lakcíme,
 - e) hivatásos támogató rendelése esetén ennek a ténye,
 - f) több támogató kirendelése esetén ennek a ténye, és

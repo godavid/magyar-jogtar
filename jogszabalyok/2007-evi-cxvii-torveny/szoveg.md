@@ -166,7 +166,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 ### Tevékenységi engedély
 
-9. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységét kizárólag a Felügyelet által kiadott, tevékenységi engedélyről szóló jogerős határozat birtokában kezdheti meg. A tevékenységi engedély iránti kérelmet a cégbejegyzés iránti kérelem benyújtását igazoló okirat megérkezését követő naptól számított tizenöt napon belül kell benyújtani.
+9. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységét kizárólag a Felügyelet által kiadott, tevékenységi engedélyről szóló végleges határozat birtokában kezdheti meg. A tevékenységi engedély iránti kérelmet a cégbejegyzés iránti kérelem benyújtását igazoló okirat megérkezését követő naptól számított tizenöt napon belül kell benyújtani.
 
 (2) A tevékenység engedélyezésének eljárására a Magyar Nemzeti Bankról szóló törvény (a továbbiakban: MNBtv.) rendelkezéseit e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -207,7 +207,7 @@ mellékelni kell:
 (6) Az üzleti terv tartalmazza:
 
 - a) a foglalkoztatói nyugdíjszolgáltató intézmény alapításkori vagyonát tételes és értékkel ellátott bontásban;
-- b) a tevékenységi engedély jogerőre emelkedésének napjáig tervezetten felmerülő költségek fajtáit és mértékét, valamint ezek várható fedezetét;
+- b) a tevékenységi engedély véglegessé válásának napjáig tervezetten felmerülő költségek fajtáit és mértékét, valamint ezek várható fedezetét;
 - c) a foglalkoztatói nyugdíjszolgáltató intézménynek a pénzügyi év lejártáig, valamint a következő három pénzügyi évre szóló pénzügyi tervét.
 
 (7) Az induló üzleti tervnek a (6) bekezdésben foglaltakon kívül tartalmaznia kell mindazokat az adatokat és feltételeket, amelyeket a foglalkoztatói nyugdíjszolgáltató intézmény alapszabályban vállalt szolgáltatásainak teljesítéséhez, a foglalkoztatói nyugdíjszolgáltató intézmény hosszú távú és a tervezett taglétszámához igazodó működőképességéhez, a tagokkal szemben vállalt kötelezettségek teljesítéséhez a foglalkoztatói nyugdíjszolgáltató intézmény igazgatósága szükségesnek tart, illetve amit a Felügyelet előír.
@@ -228,7 +228,7 @@ igazolását.
 
 10. § (1) Foglalkoztatói nyugdíjszolgáltató intézménynél az igazgatóság tagjának, a felügyelőbizottság tagjának, valamint cégvezetőnek (a továbbiakban: vezető állású személy) az nevezhető ki, illetve az választható meg, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját harminc nappal megelőzően a foglalkoztatói nyugdíjszolgáltató intézmény a Felügyeletnek bejelentette, és a Felügyelet az engedélyt megadta. A Felügyelet nem adja meg az engedélyt, ha a bejelentésben megjelölt személy nem felel meg az e törvényben foglalt feltételeknek. A Felügyelet köteles a vezető állású személy megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(2) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet a harminc napon belül nem hozza meg határozatát.
+(2)
 
 (3) A foglalkoztatói nyugdíjszolgáltató intézmény köteles felügyelőbizottságot létrehozni.
 
@@ -271,7 +271,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (2) Egyéb vezetőnek az nevezhető ki, akinek személyét a kinevezés tervezett időpontját harminc nappal megelőzően a foglalkoztatói nyugdíjszolgáltató intézmény a Felügyeletnek bejelentette, és az engedélyt a Felügyelet megadta. A Felügyelet köteles az egyéb vezető megválasztásáról, illetve kinevezéséről engedélyező vagy azt elutasító határozatot hozni.
 
-(3) Az engedélyt megadottnak kell tekinteni, ha a Felügyelet harminc napon belül nem hozza meg határozatát.
+(3)
 
 (4) Az egyéb vezetők legfeljebb két foglalkoztatói nyugdíjszolgáltatói intézménynél tölthetnek be ilyen pozíciót.
 
@@ -323,10 +323,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 - d) büntetlen előéletű, és
 - e) szakmai alkalmassággal és üzleti megbízhatósággal rendelkezik.
 
-14/B. § A vezető jogász
-
-- a) ellátja, illetve irányítja a jogtanácsosi tevékenységhez kapcsolódó feladatok teljesítését, és
-- b) ellenőrzi és aláírásával igazolja, hogy a Felügyelethez engedélyezésre benyújtott okiratok és bejelentések a jogszabályoknak megfelelnek.
+14/B. § A vezető jogász ellenőrzi és aláírásával igazolja, hogy a Felügyelethez engedélyezésre benyújtott okiratok és bejelentések a jogszabályoknak megfelelnek.
 
 ### Összeférhetetlenségi szabályok
 
@@ -679,7 +676,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (2) A leírásnak tartalmaznia kell a nyugdíjkonstrukció nyújtásának feltételeit, a hozzájárulás és a tagi kiegészítés kalkulációjának módját (ideértve az alkalmazott halandósági táblázatokat, technikai kamatlábat, a befektetési hozam számítását, a többlethozam számítását és visszajuttatásának mértékét és módját), valamint a nyugdíjszolgáltatás megállapításának módját (ideértve a valorizáció mértékét is).
 
-(3) A nyugdíjkonstrukció leírásának tartalmaznia kell a cégvezető, a vezető jogtanácsos, és a vezető biztosításmatematikus aláírását.
+(3) A nyugdíjkonstrukció leírásának tartalmaznia kell a cégvezető, a vezető jogász, és a vezető biztosításmatematikus aláírását.
 
 (4) A hozzájárulások mértékének kalkulációjánál, a tartalékolásnál és a járadékszámításoknál alkalmazható technikai kamatláb maximális mértéke megegyezik a Bit. 133. § (1) bekezdése szerint kiadott miniszteri rendeletben megállapított értékkel.
 
@@ -1135,7 +1132,7 @@ a Felügyelet részére megküldeni.
 - n) kötelezheti a foglalkoztatói nyugdíjszolgáltató intézményt állományának átruházására, ha van az átvételre vállalkozó másik foglalkoztatói nyugdíjszolgáltató intézmény,
 - o) megtilthatja a 19. § (5) bekezdésében foglaltak szerint az ügymenet kiszervezését.
 
-(2) A Felügyelet a felügyeleti eljárás során megtett intézkedésekről rendelkező határozatokat megküldi a székhely szerint illetékes bíróságnak, a határozat jogerőre emelkedésének megjelölésével.
+(2) A Felügyelet a felügyeleti eljárás során megtett intézkedésekről rendelkező határozatokat megküldi a székhely szerint illetékes bíróságnak, a határozat véglegessé válásának megjelölésével.
 
 (3) A foglalkoztatói nyugdíjszolgáltató intézmény köteles a Felügyelet által az (1) bekezdés alapján vele szemben hozott határozat rendelkező részét az adott határozat közlésétől számított öt évig honlapján közzétenni. Ha a foglalkoztatói nyugdíjszolgáltató intézmény nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő kifüggesztéssel is eleget tehet.
 
@@ -1202,7 +1199,7 @@ a Felügyelet részére megküldeni.
 
 (4) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja és a cégvezető a gazdasági társaságokra vonatkozó törvényi rendelkezésekben, az e törvényben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának és a cégvezető törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(5) A felügyelőbizottság tagja, illetőleg a (4) bekezdéstől eltérően az igazgatóság és a cégvezető a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben hozott határozat ellen, e jogorvoslati eljárásban a foglalkoztatói nyugdíjszolgáltató intézményt képviselheti vagy a képviselet ellátására megbízást adhat, amely a felügyeleti biztost kirendelő határozat végrehajtására nincs halasztó hatállyal.
+(5) A felügyelőbizottság tagja, valamint – a (4) bekezdéstől eltérően – az igazgatóság és a cégvezető a felügyeleti biztos kirendelésének ideje alatt is jogosult arra, hogy a felügyeleti biztost kirendelő határozatot és a Felügyelet által a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben hozott határozatot megtámadja.
 
 (6) A felügyeleti biztosnak folyamatosan biztosítania kell, hogy az általa megtett intézkedésekről a tulajdonosok és a tagok – kérésükre – három munkanapon belül írásban tájékoztatást kapjanak.
 
@@ -1226,7 +1223,7 @@ a Felügyelet részére megküldeni.
 
 72. § (1)–(3)
 
-(4) A Felügyelet engedélyezési és ellenőrzési jogkörének gyakorlása érdekében az eljárás jogerős befejezéséig jogosult a vezető állású személyek, a kötelező alkalmazottak és megbízottak, valamint természetes személy szolgáltatók alábbiakban felsorolt személyes adatait megismerni és kezelni:
+(4) A Felügyelet engedélyezési és ellenőrzési jogkörének gyakorlása érdekében a jogviszony megszűnésétől számított legfeljebb 5 évig jogosult a vezető állású személyek, a kötelező alkalmazottak és megbízottak, valamint természetes személy szolgáltatók alábbiakban felsorolt személyes adatait megismerni és kezelni:
 
 - a) természetes személyazonosító adatok,
 - b)–c)

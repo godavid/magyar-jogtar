@@ -49,7 +49,7 @@ tevékenységet végez;
 
 (5) A szabályozott ingatlanbefektetési elővállalkozásként vagy társaságként történő nyilvántartásba vétel érdekében a bejelentést az adózó akkor teheti meg, ha nincs az állami adóhatóságnál, vámhatóságnál valamint önkormányzati adóhatóságnál nyilvántartott köztartozása. E tényről az adózó a bejelentéskor nyilatkozik. Nem tehet bejelentést az az adózó, amelyet a bejelentést megelőző két naptári éven belül a szabályozott ingatlanbefektetési elővállalkozások vagy társaságok nyilvántartásából töröltek, ide nem értve azt az esetet, ha a törlésre az 5. § (3) bekezdésének f) pontja alapján került sor.
 
-(6) Az állami adóhatóság a bejelentés alapján történő nyilvántartásba vétel tekintetében az adózás rendjéről szóló 2003. évi XCII. törvény alapján jár el.
+(6) Az állami adóhatóság a bejelentés alapján történő nyilvántartásba vétel tekintetében az adózás rendjéről szóló törvény alapján jár el.
 
 (7) Szabályozott ingatlanbefektetési társaság projekttársasága csak olyan vállalkozás lehet,
 
@@ -141,7 +141,7 @@ tevékenységet végez;
 - a) belföldi ingatlan esetében az ingatlan-nyilvántartásban egy helyrajzi számon (társasházi, lakásszövetkezeti különlapon) nyilvántartott, önállóan forgalomképes ingatlan,
 - b) külföldi ingatlan esetében az ingatlan fekvése szerinti állam joga szerint a legkisebb egységet képező, még önállóan forgalomképes ingatlan (rész).
 
-(2) Az olyan egybefüggő belföldi (telek) ingatlan, amelynek önálló ingatlanokként történő megosztását az illetékes építési hatóság jogerősen elbírálta vagy azt a hatályos Részletes Rendezési Terv előírja, a befektetési szabályok szempontjából annyi ingatlannak minősül, ahány ingatlanra az megosztásra kerül.
+(2) Az olyan egybefüggő belföldi (telek) ingatlan, amelynek önálló ingatlanokként történő megosztását az illetékes építési hatóság véglegesen elbírálta vagy azt a hatályos Részletes Rendezési Terv előírja, a befektetési szabályok szempontjából annyi ingatlannak minősül, ahány ingatlanra az megosztásra kerül.
 
 (3) Az olyan felépítmény, amelyre az albetétek létrehozására vonatkozó társasházi alapító okiratot az ingatlanügyi hatósághoz benyújtották, a befektetési szabályok szempontjából annyi ingatlannak minősül, ahány különböző albetét kialakításra kerül.
 

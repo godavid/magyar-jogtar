@@ -6,7 +6,9 @@ egyes szociális és gyermekvédelmi tárgyú törvények módosításáról
 
 1–3. §
 
-4. §
+4. § Az Szt. 64. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A Gyvt. szerinti család- és gyermekjóléti központ a család szociális helyzetének átfogó vizsgálata alapján elkészíti az igénybe venni javasolt szociális szolgáltatásokat meghatározó szociális diagnózist. A család- és gyermekjóléti központ a szociális diagnózis elkészítésébe bevonhatja a nem járásszékhely településen működő család- és gyermekjóléti szolgálatokat. A jogosultsági feltételek fennállása esetén a szociális diagnózis kötelezi a szociális szolgáltatókat és a szociális intézményeket.”
 
 5–8. §
 
@@ -48,15 +50,31 @@ egyes szociális és gyermekvédelmi tárgyú törvények módosításáról
 
 33. § (1)
 
-(2)
+(2) A Gyvt. 51. §-a a következő (12)–(15) bekezdéssel egészül ki:
+
+„(12) A családok átmeneti otthona a férőhelyszámon belül kialakított külső férőhelyeken biztosíthatja azoknak a családoknak az ellátását, amelyek önálló lakhatásra támogatással képesek.
+
+(13) A külső férőhelyen történő ellátás időtartama a 45. § (6) bekezdése és a 47. § (3) bekezdés a) pontja szerinti időtartammal együtt sem haladhatja meg a három évet.
+
+(14) A külső férőhelyen ellátott családok számára kedvezményes lakhatást, és ha az önálló életvitel fenntartása érdekében szükséges, a 32. § (5) bekezdése szerinti megállapodásban meghatározottak szerint szociális munkát kell biztosítani.
+
+(15) A külső férőhelyek esetében a költségvetési támogatás a normál férőhelyekhez képest csökkentett mértékben illeti meg a fenntartót. A támogatás mértékét a központi költségvetésről szóló törvény állapítja meg.”
 
 34. § (1)
 
-(2)
+(2) A Gyvt. 66. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a területi gyermekvédelmi szakszolgáltatást önálló intézmény keretében biztosítja, amely intézmény kizárólag az (1)–(3) bekezdés és a 60–65. § szerinti feladatokat láthatja el.”
 
 35–44. §
 
-45. §
+45. § A Gyvt. 150. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A családok átmeneti otthona külső férőhelye esetén
+
+a) ha szociális munkát is nyújtanak a család számára, a személyi térítési díj összege igénybe vevőnként nem haladhatja meg az (1) bekezdésben meghatározott jövedelem 40%-át,
+
+b) az a) ponton kívüli esetben lakhatási költséget kell meghatározni személyi térítési díjként.”
 
 46. §
 

@@ -34,7 +34,7 @@ Az Országgyűlés a Digitális Átállás Stratégia végrehajtása, az inform�
 
 4. § (1) Az e törvényben nem szabályozott kérdésekben az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) rendelkezéseit kell alkalmazni.
 
-(2) A Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: a Hatóság) az e törvényben foglalt piaci felügyelettel és piaci szabályozással kapcsolatos eljárásokban e törvényben és az Eht.-ban foglalt eltérésekkel a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései szerint jár el.
+(2) A Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: a Hatóság) az e törvényben foglalt piaci felügyelettel és piaci szabályozással kapcsolatos eljárásokban e törvényben és az Eht.-ban foglalt eltérésekkel és kiegészítésekkel a közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezései szerint jár el.
 
 (3) Az e törvényben foglalt jogviszonyokra a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban Mttv.) rendelkezései e törvény kifejezett rendelkezése esetén alkalmazhatók.
 
@@ -204,7 +204,7 @@ használatával végzi, köteles a továbbított műsorokat a Hatóságnak nyilv
 
 ### Műsorszórásra felosztott frekvenciák rádióengedélye
 
-16. § (1) A Hatóság a műsorszóró adó rádióengedélyét a 15. § szerinti jogerős frekvenciakijelölésben foglaltak teljesítése esetén adja ki.
+16. § (1) A Hatóság a műsorszóró adó rádióengedélyét a 15. § szerinti végleges frekvenciakijelölésben foglaltak teljesítése esetén adja ki.
 
 (2) A műsorszóró adó rádióengedélye tartalmazza:
 
@@ -458,7 +458,7 @@ a közönségarányát.
 - a) a Médiatanácshoz benyújtott bejelentése alapján jogosult médiaszolgáltatását továbbra is analóg földfelszíni műsorterjesztés útján nyújtani, vagy
 - b) legkésőbb 2016. december 31-ig benyújtott kérelmére a Hatóság a 13. § (2) bekezdésében, illetve a 19. §-ban szabályozott jogkörében a műsorterjesztéshez a médiaszolgáltatási szerződésben meghatározott analóg frekvencia kiváltása érdekében – amennyiben ezt a frekvenciahasználatra vonatkozó kötelezettségvállalások lehetővé teszik – azonos vagy attól legfeljebb 5%-kal eltérő vételkörzettel rendelkező, digitális műsorterjesztési célú frekvenciahasználati jogosultságot (a továbbiakban: ideiglenes digitális műsorszórási jogosultság) biztosít; amennyiben a Hatóság megállapítja, hogy kizárólag az e pontban meghatározottaknál kisebb vételkörzetű frekvenciahasználati jogosultság engedélyezésére van lehetőség, a kérelmező kifejezett hozzájáruló nyilatkozata alapján ennek engedélyezése is lehetséges.
 
-(1a) Az (1) bekezdés b) pontja alapján ideiglenes digitális műsorszórási jogosultsággal is rendelkező médiaszolgáltató a Hivatalnál kezdeményezheti az általa üzemeltetett digitális műsorszóró adó ellátottság-növekedéssel járó teljesítmény emelése érdekében rádióengedélye módosítását legkésőbb a helyi és körzeti vételkörzetű, földfelszíni műsorszórás útján terjesztett audiovizuális médiaszolgáltatások digitális műsorszórásra történő átállásának 38. § (1) bekezdésében meghatározott határideje előtt 24 hónappal. A médiaszolgáltató kérelme előterjesztésével egyidejűleg nyilatkozatában tudomásul veszi, hogy az ellátottság-növekedéssel járó teljesítményemelés engedélyezése esetén az Mttv. 44. §-a alapján a médiaszolgáltatás után a vételkörzet növekedéssel arányos, módosított médiaszolgáltatási díjat kell fizetnie. A rádióengedély módosításáról szóló határozat jogerőre emelkedését követő öt napon belül a médiaszolgáltató köteles kezdeményezni médiaszolgáltatási jogosultságának módosítását.
+(1a) Az (1) bekezdés b) pontja alapján ideiglenes digitális műsorszórási jogosultsággal is rendelkező médiaszolgáltató a Hivatalnál kezdeményezheti az általa üzemeltetett digitális műsorszóró adó ellátottság-növekedéssel járó teljesítmény emelése érdekében rádióengedélye módosítását legkésőbb a helyi és körzeti vételkörzetű, földfelszíni műsorszórás útján terjesztett audiovizuális médiaszolgáltatások digitális műsorszórásra történő átállásának 38. § (1) bekezdésében meghatározott határideje előtt 24 hónappal. A médiaszolgáltató kérelme előterjesztésével egyidejűleg nyilatkozatában tudomásul veszi, hogy az ellátottság-növekedéssel járó teljesítményemelés engedélyezése esetén az Mttv. 44. §-a alapján a médiaszolgáltatás után a vételkörzet növekedéssel arányos, módosított médiaszolgáltatási díjat kell fizetnie. A rádióengedély módosításáról szóló határozat véglegessé válását követő öt napon belül a médiaszolgáltató köteles kezdeményezni médiaszolgáltatási jogosultságának módosítását.
 
 (2) Az ideiglenes digitális műsorszórási jogosultság gyakorlóját nem terhelik az Mttv. 72. § (1)–(3) bekezdésében és 74–77. §-ában foglalt, műsorterjesztőre vonatkozó kötelezettségek.
 
@@ -472,7 +472,7 @@ a közönségarányát.
 
 (5) A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályban szereplő pályázati bizottságot nem kell létrehozni, az eljárás során pályázati bizottság nem működik közre.
 
-(6) A pályázati eljárás ügyintézési határideje nyolcvanöt nap. Az ügyintézési határidőbe nem számít bele a Ket.-ben meghatározottakon túl a pályázati felhívás közzététele napjától a pályázati ajánlat benyújtásáig terjedő időtartam. Az ügyintézési határidő indokolt esetben egy alkalommal, legfeljebb húsz nappal meghosszabbítható.
+(6) A pályázati eljárás ügyintézési határideje nyolcvanöt nap. Az ügyintézési határidő a pályázatra történő jelentkezési határidő lejártának napján kezdődik.
 
 (7) A műsorterjesztési szolgáltatások nyújtását lehetővé tevő, helyi és körzeti vételkörzetű földfelszíni digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság időtartama a jogosultságról szóló hatósági szerződés megkötésének időpontjától számított legfeljebb 12 év.
 
@@ -590,7 +590,7 @@ a közönségarányát.
 
 (7) Amennyiben a hatósági szerződésben meghatározott időpontig a műsorszóró adó üzemeltetése megkezdésére, illetve az adón nyújtott műsorterjesztési szolgáltatás nyújtására – a nyertes pályázó érdekkörében felmerült ok miatt – nem kerül sor, az Elnök jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést azonnali hatállyal felmondani.
 
-43/L. § (1) Az Elnök hatósági ellenőrzés keretében ellenőrzi a 43/K. § alapján megkötött hatósági szerződésekben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint a vonatkozó műsorterjesztési alkotmányos alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az Eht. szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+43/L. § (1) Az Elnök hatósági ellenőrzés keretében ellenőrzi a 43/K. § alapján megkötött hatósági szerződésekben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint a vonatkozó műsorterjesztési alkotmányos alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az Eht. szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
 (2) Amennyiben az Elnök végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van.
 

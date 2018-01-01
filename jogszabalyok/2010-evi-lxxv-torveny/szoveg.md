@@ -108,7 +108,9 @@ a munkáltató közterhet nem fizet.
 (2) A 7. § (2) bekezdésében meghatározott foglalkoztatásból származó bevételből a természetes személynek nem kell jövedelmet megállapítania és bevallást benyújtania, feltéve hogy az egyszerűsített foglalkoztatásból származó bevétele nem haladja meg az egyszerűsített foglalkoztatás naptári napjainak száma és az adóév első napján hatályos
 
 - a) kötelező legkisebb munkabér (minimálbér) vagy
-- b) – ha részére alapbérként, illetve teljesítménybérként legalább a garantált bérminimum 87 százaléka jár – a garantált bérminimum napibérként meghatározott összege 130 százalékának szorzatát (a továbbiakban: mentesített keretösszeg).
+- b) – ha részére alapbérként, illetve teljesítménybérként legalább a garantált bérminimum 87 százaléka jár – a garantált bérminimum
+
+napibérként meghatározott összege 130 százalékának szorzatát (a továbbiakban: mentesített keretösszeg).
 
 (3) Amennyiben a természetes személynek a személyi jövedelemadó-bevallási kötelezettségét teljesítenie kell, az adóhatóság közreműködése nélkül elkészített bevallásban vagy az állami adóhatóság által összeállított adóbevallási tervezet felhasználásával elkészített személyi jövedelemadó bevallásban jövedelemként az (1) bekezdés szerinti összegnek a mentesített keretösszeget meghaladó részét kell figyelembe venni.
 
@@ -157,11 +159,11 @@ teljesíti.
 
 van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezettségének köteles eleget tenni. A bejelentés módosítására az (1) bekezdésben foglaltak szerint kerülhet sor, függetlenül attól, hogy bejelentési kötelezettségének eredetileg a munkáltató melyik módon tett eleget.
 
-12. § (1) A munkáltató az egyszerűsített foglalkoztatással összefüggő bevallási kötelezettségét az Art. 31. §-ának (2) bekezdése szerint az elektronikusan keresztül teljesíti.
+12. § (1) A munkáltató az egyszerűsített foglalkoztatással összefüggő bevallási kötelezettségét az adózás rendjéről szóló törvény (a továbbiakban: Art.) havi adó- és járulékbevallásra vonatkozó szabályai szerint elektronikusan teljesíti.
 
 (2)
 
-13. § (1) A munkáltató a közteher-fizetési kötelezettséget az Art. 38. §-a rendelkezéseinek megfelelően a tárgyhót követő hó 12-éig, az állami adóhatóság által erre a célra meghatározott beszedési számla javára teljesíti.
+13. § (1) A munkáltató a közteher-fizetési kötelezettséget a tárgyhót követő hó 12-éig, az állami adóhatóság által erre a célra meghatározott beszedési számla javára teljesíti.
 
 (2) Az adóhatóság a 8. § (1) bekezdése alapján fizetett közteher összegéből 91,8%-ot a Nyugdíjbiztosítási Alapnak, 1,4%-ot az Egészségbiztosítási Alapnak és 6,8%-ot a Nemzeti Foglalkoztatási Alapnak utal át.
 
@@ -169,7 +171,7 @@ van lehetőség, ezt követően a munkáltató a közteher-fizetési kötelezett
 
 (4)
 
-14. § Az e törvényben nem szabályozott adózást érintő kérdésekben az Art. rendelkezéseit kell alkalmazni. Nem kell alkalmazni az Art. 46. §-ának azon előírását, hogy a munkáltató az elszámolási évet követő év január 31-éig összesített igazolást ad a magánszemélynek.
+14. § Az e törvényben nem szabályozott adózást érintő kérdésekben Art., az adóigazgatási rendtartásról szóló törvény és az adóigazgatási eljárás részletszabályairól szóló kormányrendelet rendelkezéseit kell alkalmazni. Nem kell alkalmazni adóigazgatási eljárás részletszabályairól szóló kormányrendelet azon előírását, hogy a munkáltató az elszámolási évet követő év január 31-éig összesített igazolást ad a magánszemélynek.
 
 ### Záró rendelkezések
 

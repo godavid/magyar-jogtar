@@ -100,14 +100,18 @@ Az Országgyűlés abból a célból, hogy az állatorvosok önkormányzati elve
 
 (7) A Kamara értesíti az illetékes élelmiszerlánc-felügyeleti szervet a (6) bekezdés i) pontjában foglalt ellenőrzése során feltárt hiányosságokról.
 
-(8) A Kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el
+(8) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el
 
-- a) a kamarai tagfelvétel,
-- b) a tagsági jogviszony szüneteltetése,
+- a) a kamarai tagfelvétel, a kamarából történő kizárás kivételével a kamarai tagsági jogviszony megszüntetése, a tagsági jogviszony megszűnésének megállapítása,
+- b) a tagsági jogviszony szüneteltetésének engedélyezése,
 - c) a praxisengedély kiadása, visszavonása,
-- d) az állat-egészségügyi szolgáltató tevékenység szüneteltetése,
-- e) az asszisztensi névjegyzékbe történő felvétel,
-- f) az asszisztensi tevékenység végzésének szüneteltetése
+- d) az állategészségügyi szolgáltató tevékenység szüneteltetésének engedélyezése,
+- e) az állatorvosi és asszisztensi névjegyzékkel kapcsolatos nyilvántartás vezetése,
+- f) az asszisztensi tevékenység szüneteltetésének engedélyezése,
+- g) az állategészségügyi intézményekkel és az engedélyezett állategészségügyi szolgáltatókkal kapcsolatos nyilvántartás vezetése,
+- h) a kedvtelésből tartott állatok nem kereskedelmi célú mozgásához szükséges útlevél kiállításával kapcsolatos nyilvántartás vezetése,
+- i) a hatósági ellenőrzés lefolytatása,
+- j) hatósági bizonyítvány kiállítása
 
 során.
 
@@ -121,7 +125,7 @@ során.
 - d) székhelyét, szakmai működési körét,
 - e) bejelentésére az állat-egészségügyi szolgáltató tevékenység végzése szünetelésének tényét és időtartamát,
 - f) kérésére a nyelvtudására vonatkozó adatokat, kitüntetéseit és a telefonos elérhetőségét,
-- g) jogerősen elbírált etikai vétségeit, az elmarasztaló határozat jogerőre emelkedésétől számított két évig.
+- g) végleges döntéssel elbírált etikai vétségeit, az elmarasztaló határozat véglegessé válásától számított két évig.
 
 (2) Az állatorvosi névjegyzékben a Kamara az állat-egészségügyi szolgáltató tevékenységet végző tagjainak az (1) bekezdés a)–f) pontja szerinti adatai a tagsági jogviszony megszűnéséig nyilvánosak, azokat a Kamara a honlapján naprakészen közzéteszi.
 
@@ -329,7 +333,7 @@ kezdeményezheti írásban, indokolással ellátva a megválasztásra jogosult t
 
 (6) A kamarai tagfelvétel iránti eljárás során megismert személyes adatokat a Kamara
 
-- a) a kérelem elutasítása esetén a felvételi eljárás jogerős befejezéséig vagy
+- a) a kérelem elutasítása esetén a felvételi eljárásban hozott határozat véglegessé válásáig vagy
 - b) a kérelmező felvétele esetén a tagsági jogviszony megszűnéséig
 
 kezeli.
@@ -342,9 +346,9 @@ kezeli.
 
 (2) Az az állatorvos, aki több területi szervezet illetékességi területén kíván folytatni állat-egészségügyi szolgáltató tevékenységet, a székhelye szerint illetékes területi szervezet vezetőségénél kérheti tagfelvételét.
 
-(3) A vezetőség a tagfelvétel és a praxisengedély engedély iránti kérelemről a beérkezését követő ülésén, de legkésőbb a beérkezésétől számított huszonegy napon belül dönt. Ha a kérelmezőt a Kamara a tagjai közé felveszi, bejegyzi az állatorvosi névjegyzékbe és kiadja számára a tagsági igazolványt és a kamarai bélyegzőt.
+(3) Ha a kérelmezőt a Kamara a tagjai közé felveszi, bejegyzi az állatorvosi névjegyzékbe és kiadja számára a tagsági igazolványt és a kamarai bélyegzőt.
 
-(4) A tagfelvételt és a praxisengedély iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen annak kézhezvételétől számított harminc napon belül az elnökséghez fellebbezhet.
+(4) A tagfelvételt és a praxisengedély iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító döntés ellen az elnökséghez fellebbezhet.
 
 21. § (1) A vezetőség írásbeli indokolt határozattal felfüggeszti a tagsági jogviszonyát annak a kamarai tagnak,
 
@@ -386,7 +390,7 @@ kezeli.
 - b) e törvényben és az Alapszabályban foglalt feltételek teljesítése esetén tisztséget viselni a Kamara bármely szervében,
 - c) igénybe venni a Kamara által nyújtott szolgáltatásokat,
 - d) a Kamara tisztségviselőitől a Kamara működéséről érdemi felvilágosítást kérni,
-- e) a Kamara jogsértő testületi határozatának bíróság általi felülvizsgálatát kezdeményezni,
+- e)
 - f) az Alapszabályt sértő határozatnak az országos szervezet felügyelőbizottsága általi felülvizsgálatát kezdeményezni,
 - g) az e törvényben, miniszteri rendeletben és az Alapszabályban meghatározott feltételek teljesítése esetén állat-egészségügyi szolgáltató tevékenységet végezni.
 
@@ -497,9 +501,9 @@ kezeli.
 
 (3) A tagsági jogviszony felfüggesztése esetén a 21. § (2) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
-(4) Az indokolással ellátott eljárást lezáró határozatot annak meghozatalától számított tizenöt napon belül kézbesíteni kell az eljárás alá vont kamarai tag részére.
+(4) Az indokolással ellátott eljárást lezáró határozatot annak meghozatalától számított tizenöt napon belül kézbesíteni kell az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos részére.
 
-30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos etikai bizottságnak.
+30. § (1) Az elsőfokú határozat ellen az etikai eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elsőfokú határozat közlésétől számított tizenöt napon belül fellebbezést nyújthat be az eljáró etikai bizottságnál, amely a másodfokú eljárás lefolytatása érdekében az ügy összes rendelkezésre álló iratát megküldi az országos etikai bizottságnak.
 
 (2) Az országos etikai bizottság az elsőfokú etikai bizottság határozatát
 
@@ -510,9 +514,9 @@ kezeli.
   - cb) ha az elsőfokú etikai bizottság hatáskörének vagy illetékességének hiányát állapítja meg és felkéri az elsőfokon eljárt etikai bizottságot, hogy az ügyben keletkezett iratokat küldje meg a hatáskörrel rendelkező szervnek további intézkedés céljából,
   - cc) ha elévülést állapít meg, illetve ha olyan tény vagy körülmény fennállását állapítja meg, amelynek következtében etikai eljárás lefolytatásának nincs helye, és az etikai eljárást megszünteti.
 
-(3) A másodfokú etikai eljárást lezáró határozat (a továbbiakban: másodfokú határozat) ellen az eljárás alá vont kamarai tag a másodfokú határozat közlésétől számított tizenöt napon belül bírósághoz fordulhat. A jogerős határozat végrehajtható, kivéve, ha a bíróság a végrehajtás felfüggesztéséről dönt.
+(3) A másodfokú etikai eljárást lezáró határozatot (a továbbiakban: másodfokú határozat) az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos a másodfokú határozat közlésétől számított tizenöt napon belül támadhatja meg.
 
-(4) Az eljárás alá vont kamarai tag az elévülési időn belül új eljárást kezdeményezhet, ha
+(4) A bíróság által el nem bírált ügyben az eljárás alá vont kamarai tag és – ha az etikai eljárás panaszbejelentés alapján indult – a panaszos az elévülési időn belül új eljárást kezdeményezhet, ha
 
 - a) a jogerősen elbírált cselekményével kapcsolatban olyan új tény vagy bizonyíték kerül elő, vagy olyan bírósági vagy egyéb határozatra hivatkozik, amelyet az eljáró etikai bizottság nem bírált el, és amely alkalmas a jogerős határozat megváltoztatására vagy
 - b) az első- vagy másodfokú eljárás során az eljáró etikai bizottság valamely tagja kötelességét az Büntető Törvénykönyvbe ütköző módon szegte meg.
@@ -525,14 +529,7 @@ kezeli.
 
 (2) Amennyiben a miniszter azt állapítja meg, hogy az Alapszabály vagy más kamarai szabályzat vagy kamarai szerv, továbbá tisztségviselő határozata jogsértő, megfelelő határidő tűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szervezet vezetője köteles a felhívásban foglaltakat megvizsgálni és – a felhívásban megadott határidőn belül – a jogsértést megszüntetni, és intézkedéséről vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3) Ha az érintett kamarai szervezet vezetője a jogsértést nem szüntette meg, a miniszter – a felhívásban megadott határidő lejártától számított harminc napon belül – a Polgári Perrendtartásról szóló törvénynek a közigazgatási perekre irányadó szabályai szerint bírósághoz fordulhat.
-
-(4) Ha a bíróság a (3) bekezdés alapján indított eljárás eredményeként a jogsértést megállapítja,
-
-- a) a jogsértő Alapszabályt, más szabályzatot, határozatot vagy annak jogsértő részét hatályon kívül helyezi és új döntés meghozatalát rendeli el,
-- b) a működés törvényességének helyreállítása érdekében elrendeli a választásra jogosult kamarai szerv összehívását,
-- c) a jogsértően működő kamarai szerv működését felfüggesztheti,
-- d) a kamarai szerv ellenőrzésére felügyelőbiztost rendelhet ki, ha a működés törvényessége másként nem biztosítható.
+(3)–(4)
 
 #### 9. A Kamara gazdálkodása
 
@@ -628,7 +625,7 @@ fedezi.
 
 (2)
 
-(3) A vezetőség az állat-egészségügyi szolgáltató praxisengedély kiadása iránti kérelméről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezésétől számított huszonegy napon belül dönt. Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
+(3) Ha a vezetőség a kérelemnek helyt ad, kiadja a praxisengedélyt. Ha az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet, a praxisengedély iránti kérelemben meg kell jelölni az állat-egészségügyi szolgáltató szakmai munkáját irányító felelős állatorvost, valamint azt az állatorvost, aki megfelel a (2) bekezdésben leírt feltételeknek, akiknek vonatkozásában a praxisengedélyben fel kell tüntetni az 5. § (1) bekezdés a)–d) pontja szerinti adatokat.
 
 (4) A praxisengedély kiadása iránti kérelmet elutasító döntést határozatba kell foglalni, és a kérelmező részére meg kell küldeni. A kérelmező az elutasító határozat ellen az elnökséghez fellebbezhet.
 
@@ -650,7 +647,7 @@ fedezi.
 
 (2) A szüneteltetés engedélyezését a Kamara abban az esetben tagadhatja meg, ha az állat-egészségügyi szolgáltató a szüneteltetés időtartamára nem gondoskodott megfelelően feladatainak ellátásában más állat-egészségügyi szolgáltató általi helyettesítéséről.
 
-(3) A vezetőség a szüneteltetés iránti kérelemről a beérkezését követő első ülésén, de legkésőbb a kérelem beérkezését követő huszonegy napon belül dönt.
+(3)
 
 (4) Ha az állat-egészségügyi szolgáltató a tevékenységét a szüneteltetés iránti kérelemben megjelölt határidő lejárta előtt folytatni kívánja, ezt köteles a Kamarának bejelenteni. A Kamara a tevékenység szüneteltetésének tényére és időtartamára vonatkozó adatot törli a praxisnyilvántartásból.
 
@@ -743,7 +740,7 @@ fedezi.
 
 (2) A bírság legalacsonyabb összege százezer forint, legmagasabb összege tízmillió forint. A bírság mértékét az eset összes körülményére – így különösen az érintettek érdekei sérelmének körére, súlyára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására, a jogsértéssel elért előnyre – tekintettel kell meghatározni.
 
-(3) A bírságot az azt kiszabó határozat jogerőre emelkedésétől számított tizenötödik napig meg kell fizetni.
+(3) A bírságot az azt kiszabó határozat véglegessé válásától számított tizenötödik napig meg kell fizetni.
 
 (4) Ha a jogi személyre vagy jogi személyiséggel nem rendelkező szervezetre kiszabott bírságot a kötelezett nem fizeti meg és azt tőle nem lehet behajtani, a bírság megfizetésére a jogsértés elkövetése idején helytállni köteles tagot, vezető tisztségviselőt, illetve azt a személyt kell kötelezni, aki a jogi személy vagy a jogi személyiséggel nem rendelkező szervezet kötelezettségeiért a törvény alapján felel.
 

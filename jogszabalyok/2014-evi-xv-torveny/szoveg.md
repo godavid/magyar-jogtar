@@ -186,6 +186,8 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 
 (5) A hivatal a bizalmi vagyonkezelő vállalkozás engedélyezési eljárásával összefüggésben felmerült adótitkot megismerheti és kezelheti.
 
+11/A. § A hivatal engedélyezési eljárása esetén az ügyintézési határidő 9 hónap.
+
 #### 7. Az engedély visszavonása
 
 12. § (1) A hivatal az engedélyt visszavonja, ha
@@ -206,7 +208,7 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 
 13. § (1) A hivatal a bizalmi vagyonkezelő vállalkozások ügyfeleinek és leendő ügyfeleinek tájékoztatása, a bizalmi vagyonkezelési tevékenység végzéséhez szükséges feltételek teljesülésének vizsgálata céljából nyilvántartást vezet a bizalmi vagyonkezelő vállalkozásokról.
 
-(2) Ha az engedély kiadásáról szóló határozat jogerőre emelkedett, a hivatal a bizalmi vagyonkezelő vállalkozás (3) bekezdésben foglalt adatait bejegyzi a bizalmi vagyonkezelő vállalkozások nyilvántartásába.
+(2) Ha az engedély kiadásáról szóló határozat véglegessé vált, a hivatal a bizalmi vagyonkezelő vállalkozás (3) bekezdésben foglalt adatait bejegyzi a bizalmi vagyonkezelő vállalkozások nyilvántartásába.
 
 (3) A nyilvántartás tartalmazza:
 
@@ -217,8 +219,8 @@ kizáró foglalkozástól eltiltás hatálya alatt,
   - ad) ügyintézésre szolgáló helyiségének címét, ahol tevékenységet folytat,
   - ae) cégjegyzékszámát vagy ügyvédi kamarai nyilvántartási számát,
   - af) nyilvántartási számát,
-- b) a bizalmi vagyonkezelő vállalkozás tevékenység-végzési engedélyét kiadó határozat jogerőre emelkedésének napját,
-- c) az engedély visszavonását elrendelő határozat jogerőre emelkedésének a napját,
+- b) a bizalmi vagyonkezelő vállalkozás tevékenység-végzési engedélyét kiadó határozat véglegessé válásának napját,
+- c) az engedély visszavonását elrendelő határozat véglegessé válásának a napját,
 - d) a nyilvántartásba vétel feltételeinek vizsgálatával összefüggő – 31. § (1) bekezdése szerinti – körülményeket.
 
 (4) A (3) bekezdésben foglalt adatok – a d) pontjában foglalt adatok kivételével – nyilvánosak.
@@ -233,7 +235,7 @@ kizáró foglalkozástól eltiltás hatálya alatt,
 
 15. § A hivatal törli a bizalmi vagyonkezelő vállalkozás adatait a nyilvántartásból, ha
 
-- a) az engedély visszavonásáról szóló határozat jogerőre emelkedett, vagy
+- a) az engedély visszavonásáról szóló határozat véglegessé vált, vagy
 - b) a bizalmi vagyonkezelő vállalkozás jogutód nélkül megszűnt.
 
 16. § (1) A hivatal a nyilvántartásba bejegyzett adatokat a bizalmi vagyonkezelő vállalkozás adatainak a nyilvántartásból való törlését követően tíz évig tárolja, azt követően megsemmisíti azokat.
@@ -254,13 +256,13 @@ a Magyar Nemzeti Bank elnöke által kibocsátott rendeletben meghatározott iga
 
 #### 10. A hivatal eljárása
 
-18. § Az engedély kiadására, visszavonására és a bizalmi vagyonkezelő vállalkozás nyilvántartására irányuló eljárásban a hivatal a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) rendelkezései szerint jár el.
+18. § Az engedély kiadására, visszavonására és a bizalmi vagyonkezelő vállalkozás nyilvántartására irányuló eljárásban a hivatal az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezései szerint jár el.
 
 ### IV. Fejezet — A NEM ÜZLETSZERŰEN ELJÁRÓ BIZALMI VAGYONKEZELŐVEL LÉTREJÖTT BIZALMI VAGYONKEZELÉSI JOGVISZONYOK NYILVÁNTARTÁSA
 
 #### 11. A bizalmi vagyonkezelési jogviszony, és annak bejelentése
 
-18/A. § (1) A nem üzletszerűen eljáró bizalmi vagyonkezelő által kötött bizalmi vagyonkezelési szerződést közjegyzői okiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni.
+18/A. § (1) A nem üzletszerűen eljáró bizalmi vagyonkezelő által kötött bizalmi vagyonkezelési szerződést közjegyzői okiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (2) Ha a bizalmi vagyonkezelést végző gazdálkodó szervezet tevékenységét nem üzletszerűen látja el,
 
@@ -292,6 +294,8 @@ a Magyar Nemzeti Bank elnöke által kibocsátott rendeletben meghatározott iga
 - c) a pénzmosásról és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvények szerinti szabályzatának elfogadásáról tett nyilatkozatot.
 
 21. § (1) Ha a bejelentés alapján megállapítható, hogy a bizalmi vagyonkezelő nem üzletszerűen jár el, a bejelentés tartalmazza a 20. § (1) bekezdése szerinti adatokat, és a bizalmi vagyonkezelő csatolta a 20. § (3) bekezdése szerinti mellékleteket, a hivatal az adatokat bejegyzi a bizalmi vagyonkezelési jogviszonyok nyilvántartásába.
+
+(1a) A hivatal nyilvántartásba vételi eljárása esetén az ügyintézési határidő 60 nap.
 
 (2) A hivatal vizsgálhatja a bejelentési feltételek – bejelentéskori, valamint a jogviszony fennállása alatti – teljesülését.
 
@@ -336,7 +340,7 @@ a Magyar Nemzeti Bank elnöke által kibocsátott rendeletben meghatározott iga
 
 #### 14. A bizalmi vagyonkezelési jogviszony bejelentési bizonyítványa
 
-28. § Ha a hivatal nyilvántartásba veszi a bizalmi vagyonkezelési jogviszonyt, a bejelentő részére a nyilvántartásba vett adatokról kiállítja a bizalmi vagyonkezelési szerződés bejelentésének bizonyítványát (a továbbiakban: bejelentési bizonyítvány), amely a Ket. szerinti hatósági bizonyítványnak minősül.
+28. § Ha a hivatal nyilvántartásba veszi a bizalmi vagyonkezelési jogviszonyt, a bejelentő részére a nyilvántartásba vett adatokról kiállítja a bizalmi vagyonkezelési szerződés bejelentésének bizonyítványát (a továbbiakban: bejelentési bizonyítvány), amely hatósági bizonyítványnak minősül.
 
 #### 15. Betekintés a bizalmi vagyonkezelési jogviszonyok nyilvántartásába
 
@@ -366,13 +370,13 @@ ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellát�
 
 #### 16. A hivatal eljárása
 
-30. § A bizalmi vagyonkezelési jogviszonyok nyilvántartására, és a bejelentési bizonyítvány kiállítására, illetve visszavonására irányuló eljárásban a hivatal a Ket. rendelkezései szerint jár el.
+30. § A bizalmi vagyonkezelési jogviszonyok nyilvántartására, és a bejelentési bizonyítvány kiállítására, illetve visszavonására irányuló eljárásban a hivatal az Ákr. rendelkezései szerint jár el.
 
 ### V. Fejezet — A BIZALMI VAGYONKEZELÉSI TEVÉKENYSÉG VÉGZÉSE FELTÉTELEINEK VALÓ MEGFELELÉS VIZSGÁLATA
 
 #### 17. A vizsgálat általános szabályai
 
-31. § (1) A hivatal a Ket. hatósági ellenőrzésre vonatkozó szabályai szerint vizsgálja, hogy a nyilvántartásba vétel feltételei megvalósulnak-e
+31. § (1) A hivatal az Ákr. hatósági ellenőrzésre vonatkozó szabályai szerint vizsgálja, hogy a nyilvántartásba vétel feltételei megvalósulnak-e
 
 - a) a bizalmi vagyonkezelő vállalkozások és
 - b) a bizalmi vagyonkezelési jogviszonyok
@@ -444,7 +448,7 @@ szemben. A felsorolt szervezetek személyes adatot csak feladataik ellátásáho
 (2) A titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a törvényben vagy törvény felhatalmazása alapján megalkotott jogszabályban meghatározott feladatai ellátása érdekében
 
 - a) a feladatkörében eljáró ügyészséggel, továbbá a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal,
-- b) a büntető-, valamint polgári ügyben a bírósággal,
+- b) a büntető-, polgári, valamint közigazgatási ügyben a bírósággal,
 - c) a bírósági végrehajtás során a bírósági végrehajtóval,
 - d) a közigazgatási ügyben a közigazgatási hatósággal és
 - e) az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF)

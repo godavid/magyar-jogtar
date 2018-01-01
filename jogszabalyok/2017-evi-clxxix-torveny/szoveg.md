@@ -6,65 +6,204 @@ a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, vala
 
 #### 1. Tárgyi hatály
 
-1. §
+1. § (1) E fejezet hatálya az általános közigazgatási rendtartásról szóló törvény hatálya alá tartozó közigazgatási hatósági eljárás során megállapított jogszabálysértések (a továbbiakban: közigazgatási szabályszegés) esetén a közigazgatási hatósági ügyben érdemi döntéssel kiszabható jogkövetkezményekre (a továbbiakban: közigazgatási szankciók) terjed ki.
+
+(2) Közigazgatási szankció
+
+- a) a figyelmeztetés,
+- b) a közigazgatási bírság,
+- c) az elkobzás és
+- d) a jogszabályban meghatározott, egyéb szankció.
 
 #### 2. Figyelmeztetés
 
-2. §
+2. § (1) Ha a hatóság a hatósági ellenőrzés befejezéseként megállapítja, hogy az ügyfél a jogszabályban, illetve hatósági döntésben foglalt előírásokat megsértette,
+
+- a) és a jogszabály vagy hatósági döntés megsértése a jogellenes magatartás megszüntetésével vagy a jogszerű állapot helyreállításával orvosolható, a hatóság figyelmeztetést tartalmazó döntésben felhívja az ügyfél figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi annak megszüntetésére,
+- b) ha az a) pont szerinti felhívásban meghatározott határidő eredménytelenül telt el, vagy az a) pont alkalmazása kizárt, a hatóság hivatalbóli eljárásban egyéb szankciót alkalmaz, vagy
+- c) ha az a) és a b) pont azért nem alkalmazható, mert a hatóság az adott jogszabálysértés tekintetében nem rendelkezik hatáskörrel vagy illetékességgel, a hatóság a jegyzőkönyv vagy feljegyzés jogszabálysértésre vonatkozó információkat tartalmazó részének megküldésével kezdeményezi a hatáskörrel rendelkező hatóság eljárását, illetve fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez.
+
+(2) Nem alkalmazható az (1) bekezdés a) pontja, ha
+
+- a) a jogszabályban vagy hatósági döntésben foglalt előírások megsértése kizárólag újabb hatósági eljárás lefolytatásával orvosolható,
+- b) azt jogszabály – a jogszabálysértés és a jogkövetkezmény alkalmazását megalapozó jogszabályi rendelkezés tételes megjelölésével – azért zárja ki, mert a jogszabálysértés, a hatósági döntés megsértése vagy az (1) bekezdés a) pontja szerinti határidő biztosítása az életet, a testi épséget, a nemzetbiztonságot, a honvédelmi érdeket, a vagyonbiztonságot, a közlekedés biztonságát, a környezet vagy a természet állapotának fenntarthatóságát, közteherviselési kötelezettség teljesítését, az Európai Unió pénzügyi érdekeit, vagy harmadik személy alapvető jogát közvetlenül veszélyezteti vagy veszélyeztetné,
+- c) a hatóság ugyanazon ügyféllel szemben az (1) bekezdés a) pontja szerinti felhívás eredménytelensége miatt két éven belül véglegesen jogkövetkezményt állapított meg,
+- d) a hatóság ugyanazon ügyféllel szemben ugyanazon jogszabályi vagy hatósági határozatban megállapított rendelkezés megsértése miatt két éven belül az (1) bekezdés a) pontja alapján járt el,
+- e) az adott ügyben autonóm államigazgatási szerv vagy önálló szabályozó szerv jár el,
+- f) az államháztartás javára teljesítendő, törvényben meghatározott, illetve a Közösségek költségvetésével megosztásra kerülő kötelező befizetésekkel és a központi költségvetés, valamint az elkülönített állami pénzalap terhére jogszabály alapján juttatott támogatással összefüggő eljárásokra vonatkozó jogszabályi rendelkezést sértik meg,
+- g) az adatszolgáltatási vagy bejelentési kötelezettséget előíró jogszabályi rendelkezés megsértését a termékek és a szolgáltatások forgalmazására, illetve értékesítésére, valamint az ezekkel összefüggő kereskedelmi gyakorlatokra vonatkozó követelmények ellenőrzésével, illetve a piacszabályozással kapcsolatos eljárásokban, ideértve a gyógyszerek, gyógyászati segédeszközök és egészségügyi technológiák társadalombiztosítási támogatásával kapcsolatos eljárást is, a pénz- és tőkepiaci, a biztosítási, az önkéntes kölcsönös biztosító pénztári és a magánnyugdíjpénztári tevékenység felügyeletével kapcsolatos eljárásban állapítják meg,
+- h) az ügyfél a közhiteles hatósági nyilvántartásba való, jogszabály által előírt bejelentési kötelezettségének nem tesz eleget.
+
+(3) A (2) bekezdéstől eltérően, ha a hatósági ellenőrzés az ügyfél kérelmére indult, az (1) bekezdés a) pontja a (2) bekezdés a), valamint e)–h) pontjában foglalt esetben is alkalmazható.
+
+(4) A hatóság az (1) és (2) bekezdésben foglaltak ellenőrzése céljából nyilvántartást vezet, amely tartalmazza
+
+- a) az ügyfél nevét,
+- b) a természetes személy ügyfél születési nevét, anyja nevét, születési helyét és idejét,
+- c) a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél cégjegyzékszámát vagy nyilvántartási számát,
+- d) a jogszabály vagy hatósági döntésben foglalt rendelkezés megsértése miatti felhívást a jogszabályi rendelkezés vagy hatósági döntésben foglalt rendelkezés, valamint felhívás közlése időpontjának a megjelölésével, és
+- e) a felhívás eredménytelensége tényét, valamint az emiatt megállapított egyéb szankciót tartalmazó döntés véglegessé válásának a napját.
+
+(5) A hatóság a (4) bekezdésben meghatározott adatokat azok keletkezésétől számított két évig kezeli.
+
+(6) Az (1) bekezdés c) pontja alapján megkeresett szerv a megkeresést érdemben – közigazgatási hatóság esetén az (1) bekezdés alkalmazásával – megvizsgálja, és saját intézkedéséről vagy az ilyen intézkedés mellőzésének okáról a megkereső hatóságot harminc napon belül tájékoztatja.
 
 #### 3. Közigazgatási bírság
 
-3. §
+3. § (1) Ha jogszabály bírság kiszabását teszi lehetővé – ide nem értve az eljárási bírságot -, a hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében – jogszabály eltérő rendelkezése hiányában – mérlegeli különösen:
+
+- a) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
+- b) a jogsértéssel okozott hátrány visszafordíthatóságát,
+- c) a jogsértéssel érintettek körének nagyságát,
+- d) a jogsértő állapot időtartamát,
+- e) a jogsértő magatartás ismétlődését és gyakoriságát,
+- f) a jogsértést elkövető eljárást segítő, együttműködő magatartását, valamint
+- g) a jogsértést elkövető gazdasági súlyát.
+
+(2) A helyi önkormányzat képviselő-testületének rendelete alapján megállapítható közigazgatási bírság felső határa – a jogsértő személyétől függően – természetes személyek esetén kétszázezer forint, jogi személyek és jogi személyiséggel nem rendelkező szervezetek esetén kétmillió forint lehet. A közigazgatási bírság felső határát az önkormányzati rendeletben a jogsértés jellegével arányban kell megállapítani.
+
+(3) Ha jogszabály eltérően nem rendelkezik, nem indítható a jogsértés megállapítására és bírság kiszabására eljárás, ha a jogsértő magatartásnak a bírság kiszabására jogosult hatóság tudomására jutásától számított egy év, vagy az elkövetéstől számított öt év eltelt. Az ötéves határidő kezdő napja
+
+- a) az a nap, amikor a jogsértő magatartás megvalósul,
+- b) jogellenes állapot fenntartása esetén az a nap, amikor ez az állapot megszűnik.
+
+(4) Ha jogszabály eltérően nem rendelkezik, a (3) bekezdés szerinti egyéves határidő a hatóság számára újrakezdődik
+
+- a) a 2. § (1) bekezdés a) pontja szerinti döntés véglegessé válásának a napján,
+- b) ha a közigazgatási ügyekben eljáró bíróság a hatóságot új eljárás lefolytatására kötelezi.
+
+(5) Ha törvény vagy önkormányzati rendelet lehetővé teszi, azoknál a közigazgatási szabályszegéseknél, amelyek esetében közigazgatási bírság kiszabásának van helye, – a 2. §-ban foglalt előírások keretei között – a hatóság helyszíni bírságot szabhat ki, ha a helyszíni intézkedés alkalmával az ügyfél a jogsértést teljes mértékben elismeri.
+
+(6) A helyszíni bírság kiszabását megelőzően az ügyfelet tájékoztatni kell a (7)–(9) bekezdésben foglalt körülményekről, valamint szükség esetén a hatóság által megállapítható bizonyítékok köréről, továbbá a helyszíni bírság meg nem fizetése esetén alkalmazandó jogkövetkezményekről.
+
+(7) A jogsértés teljes mértékben való elismerésével az ügyfél lemond a helyszíni bírsággal szemben őt megillető jogorvoslati jogról.
+
+(8) Az ügyfél elismerése esetén a helyszíni bírság kiszabásáról szóló döntést a hatóság a helyszínen közli az ügyféllel. A döntés indokolásában elegendő az ügyfélnek a jogsértés elismeréséről szóló írásbeli nyilatkozatát rögzíteni az ügyfél aláírásával együtt.
+
+(9) Ha az ügyfél a jogsértést nem ismeri el, a hatóság köteles hivatalból megindítani a hatáskörébe tartozó eljárást és erről az ügyfelet a helyszínen értesíti a rendelkezésre álló adatok közlésével.
 
 #### 4. Elkobzás
 
-4. §
+4. § (1) Ha törvény lehetővé teszi, a hatóság elkobozza azt a dolgot,
+
+- a) amelyet a jogsértés elkövetéséhez eszközül használtak vagy arra szántak,
+- b) amelynek birtoklása jogszabályba ütközik, vagy amely veszélyezteti a közbiztonságot,
+- c) amely jogsértés elkövetése útján jött létre,
+- d) amelyre a jogsértést elkövették, vagy amelyet a jogsértés befejezését követően e dolog elszállítása céljából használtak,
+- e) amelyet a jogsértő a jogsértés elkövetéséért a tulajdonostól vagy annak hozzájárulásával mástól kapott.
+
+(2) Ha törvény eltérően nem rendelkezik, az (1) bekezdés a) és d) pontja esetében
+
+- a) az elkobzást nem lehet elrendelni, ha a dolog nem a jogsértő tulajdona, kivéve, ha a tulajdonos a jogsértésről előzetesen tudott és a dolog ilyen célú használatába beleegyezett,
+- b) az elkobzás kivételesen mellőzhető, ha az a jogsértőre vagy a dolog tulajdonosára a jogsértés súlyával arányban nem álló, méltánytalan hátrányt jelentene.
+
+(3) Ha törvény eltérően nem rendelkezik, az elkobzott dolog tulajdonjoga az államra száll.
 
 ### II. Fejezet — A KÖZIGAZGATÁSI ELJÁRÁSJOG REFORMJÁVAL ÖSSZEFÜGGŐ EGYES TÖRVÉNYEK MÓDOSÍTÁSÁRÓL
 
 #### 5. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-5. §
+5. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (4) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket, és a katonai egészségügyi államigazgatási szervet,
+
+b) jelölje ki a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket, továbbá szabályozza az ezen szervek által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.”
 
 #### 6. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-6. §
+6. § (1) A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdése a következő f) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait.”
+
+(2) A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés e) pontjában a „hatóságot.” szövegrész helyébe a „hatóságot, továbbá szabályozza ezen hatóság által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.” szöveg lép.
+
+(3) Hatályát veszti a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (4) bekezdés a) pont aa) alpontja és az (5b) bekezdésében az „eljárási szabályokat,” szövegrész.
 
 #### 7. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-7. §
+7. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény 250. §-a a következő (6) és (7) bekezdéssel egészül ki:
+
+„(6) A minisztérium az igazolvány előállítását megelőzően lefolytatja a Nemzetbiztonsági Szakszolgálatnál a szükséges engedélyeztetési eljárást.
+
+(7) A Kar hivatali szerve e törvényben meghatározott feladatai ellátása céljából adatot kezel, ideértve az e törvényben meghatározott körben kezelt személyes adatokat is. A Kar hivatali szerve az általa kezelt adatokat az eljárás befejezésétől számított 10 évig kezeli, ezt követően gondoskodik az adatok törléséről.”
+
+(2) A bírósági végrehajtásról szóló 1994. évi LIII. törvény 239. § (3) bekezdés f) pontjában és 243. § (2) bekezdésében a „90” szövegrész helyébe a „30” szöveg lép.
 
 #### 8. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
-8. §
+8. § A természet védelméről szóló 1996. évi LIII. törvény 78. § (4) bekezdése helyébe a következő rendelkezés lép, és a § a következő (4a)–(4c) bekezdéssel egészül ki:
+
+„(4) A természetvédelmi hatóság a jogellenesen szerzett, illetve birtokban tartott védett, továbbá az Európai Közösségben természetvédelmi szempontból jelentős természeti értéket – ha az nem áll állami tulajdonban – zár alá veszi és elkobozza. Ha a természeti érték állami tulajdonban áll, akkor azt a természetvédelmi hatóság zár alá veszi és az állam tulajdonosi jogait gyakorló szerv döntéséig az igazgatóság gondoskodik a megőrzéséről.
+
+(4a) A (4) bekezdés hatálya alá nem tartozó, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok hatálya alá tartozó természeti érték zár alá vételére és elkobzására a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendelet szabályait kell alkalmazni.
+
+(4b) A (4) és (4a) bekezdés hatálya kiterjed az ott meghatározott fajok bármely hibridjére is.
+
+(4c) Az e törvény szerinti elkobzás esetén a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény 4. § (2) bekezdése nem alkalmazható.”
 
 #### 9. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-9. §
+9. § (1) Az atomenergiáról szóló 1996. évi CXVI. törvény a következő 67/A. §-sal egészül ki:
+
+„67/A. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az atomenergia alkalmazásával összefüggő hatósági engedélyek kiadásához szükséges rendőrségi szakhatósági hozzájárulás szempontjait, valamint az atomenergia alkalmazása körében a rendőrség által végzett hatósági ellenőrzések különös és kiegészítő eljárási szabályait.”
+
+(2) Hatályát veszti az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (7) bekezdés a) pontjában az „a hatósági engedélyek kiadásához szükséges szakhatósági hozzájárulás szempontjait,” szövegrész.
 
 #### 10. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-10. §
+10. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdése a következő a) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„a) a fogyasztóvédelmi hatóság által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokra”
+
+(vonatkozó részletes szabályokat rendelettel meghatározza.)
 
 #### 11. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló1997. évi CLIX. törvény módosítása
 
-11. §
+11. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 30. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Felhatalmazást kap a Kormány, hogy az e törvény szerinti közigazgatási hatósági eljárások vonatkozásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseitől eltérő és azokat kiegészítő közigazgatási hatósági eljárási szabályokat rendeletben állapítsa meg.”
 
 #### 12. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-12. §
+12. § (1) A külföldre utazásról szóló 1998. évi XII. törvény 41. § (1) bekezdése a következő e) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
+
+„e) a külpolitikáért felelős miniszter által kiadott útlevelek kiadásának és kezelésének részletes szabályait.”
+
+(2) Hatályát veszti a külföldre utazásról szóló 1998. évi XII. törvény 41. § (3) bekezdése.
 
 #### 13. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-13. §
+13. § A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (3) bekezdés b) pontjában a „gépjármű-hajtóanyagok” szövegrész helyébe a „motorhajtó anyagok” szöveg lép.
 
 #### 14. Az államhatárról szóló 2007. évi LXXXIX. törvény módosítása
 
-14. §
+14. § (1) Az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdése a következő g) és h) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:)
+
+„g) a határvízen történő közlekedés engedélyezésének szabályait,
+
+h) a katonai alakulatok és szállítmányok államhatáron történő átléptetésével kapcsolatos közigazgatási hatósági eljárás különös és kiegészítő rendelkezéseit.”
+
+(2) Hatályát veszti az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (7) bekezdése.
 
 #### 15. A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény módosítása
 
-15. §
+15. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 18. §-a helyébe a következő rendelkezés lép:
+
+„18. § Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) jelölje ki a családvédelmi koordinációért felelős szervet;
+
+b) állapítsa meg az ideiglenes megelőző távoltartó határozat meghozatalának részletes szabályait.”
 
 #### 16. A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény módosítása
 
@@ -72,27 +211,49 @@ a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, vala
 
 #### 17. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-17. §
+17. § (1) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 28. § (1) bekezdése a következő k) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány arra, hogy)
+
+„k) a foglalkozási rehabilitációs szakértői tevékenység és a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék, valamint a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, a továbbképzésre vonatkozó szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket”
+
+(rendeletben állapítsa meg.)
+
+(2) Hatályát veszti a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 28. § (4) és (4a) bekezdése.
 
 #### 18. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-18. §
+18. § Hatályát veszti a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (2) bekezdés c) pontjában a „valamint a szabálysértési nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjének,” szövegrész.
 
 #### 19. A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény módosítása
 
-19. §
+19. § A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § (1) bekezdése a következő g) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„g) a piacfelügyeleti hatóság által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokat”
+
+(rendeletben határozza meg.)
 
 #### 20. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-20. §
+20. § Hatályát veszti a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 72. § (1) bekezdés 11., 32. és 34. pontja.
 
 #### 21. A nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény módosítása
 
-21. §
+21. § A nemzeti köznevelés tankönyvellátásáról 2013. évi CCXXXII. törvény 5. § (2) bekezdése a következő f) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„f) a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felvétel feltételeit és eljárását, az iskolai terjesztési árat, a tankönyvjegyzékből való törlés rendjét és eljárását”
+
+(rendeletben határozza meg.)
 
 #### 22. Az európai területi társulásról szóló 2014. évi LXXV. törvény módosítása
 
-22. §
+22. § Az európai területi társulásról szóló 2014. évi LXXV. törvény 20. §-a helyébe a következő rendelkezés lép:
+
+„20. § Felhatalmazást kap a Kormány, hogy a jóváhagyási és nyilvántartásba-vételi eljárás, valamint az európai területi társulások megszüntetésével kapcsolatos kérdések részletes szabályait rendeletben állapítsa meg.”
 
 #### 23. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
@@ -216,19 +377,33 @@ d) a közigazgatási cselekmény megváltoztatásának nincs helye.”
 
 #### 32. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 
-34. §
+34. § (1) A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 54. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) A 11. § (3) bekezdésében meghatározott fél a fellebbezését kizárólag elektronikus úton terjesztheti elő, kivéve, ha a fellebbezéshez mellékletet csatol.
+
+(3) A végrehajtási eljárás során előterjesztett fellebbezés esetén a közjegyző az iratok felterjesztése helyett a MOKK rendszerén keresztül előállított iratanyagot küldhet a bíróságnak a fellebbezés elbírálása szempontjából szükséges iratokról.”
+
+(2) A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény
+
+- a) 6. § (1) bekezdésében a „13. §-a (1) bekezdésének a)–d)” szövegrész helyébe a „12. § a)–e)” szöveg,
+- b) 30. § (2) bekezdésében a „38. §” szövegrész helyébe a „37. és 38. §” szöveg,
+- c) 40. § (2) bekezdésében az „aktanyomatot” szövegrész helyébe az „iratanyagot” szöveg
+
+lép.
 
 #### 33. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-35. §
+35. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A környezetvédelmi termékdíjjal, valamint – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott hatósági eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos eljárás, mint adó-, illetve vámigazgatási eljárás során – az e törvényben meghatározott eltérésekkel – az adóigazgatási rendtartásról szóló törvényt (a továbbiakban: Air.) és az adózás rendjéről szóló törvényt (a továbbiakban: Art.) kell alkalmazni.”
 
 #### 34. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-36. §
+36. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 2. § b) pontjának záró szövegrészében az „1952. évi III. törvény 396. §” szövegrész helyébe a „2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja” szöveg lép.
 
 #### 35. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
-37. §
+37. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 37. § (2) bekezdésében a „hiánypótlási felhívás nélkül elutasítja” szövegrész helyébe a „hiánypótlási felhívás kibocsátása nélkül visszautasítja” szöveg lép.
 
 #### 36. A polgári perrendtartásról szóló 2016. évi CXXX. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXXX. törvény módosítása
 
@@ -255,7 +430,11 @@ d) a közigazgatási cselekmény megváltoztatásának nincs helye.”
 
 (3) A 16. § és a 24. § 2019. január 1-jén lép hatályba.
 
-(4)–(6)
+(4) Felhatalmazást kapnak a feladatkörrel rendelkező miniszterek, hogy rendeletben határozzák meg azon jogszabályi rendelkezések körét, amelyek megsértése esetén a 2. § (2) bekezdés b) pontja alkalmazásának van helye.
+
+(5) Az 1–4. §-t a 2018. január 1-jét követően indult és a megismételt eljárásokban kell alkalmazni azzal, hogy a 2. § (2) bekezdés b) pontjában meghatározott eltérő jogszabályi rendelkezések vonatkozásában a (7) bekezdés b)–j) pontjában meghatározott miniszteri rendeleteket kell megfelelően alkalmazni.
+
+(6) 2018. január 1-jét megelőzően elkövetett közigazgatási szabályszegés esetén olyan közigazgatási szankció alkalmazható, amely ezen időpontot megelőzően is alkalmazható volt.
 
 (7) 2019. január 1. napján hatályát veszti
 

@@ -34,7 +34,7 @@ terjed ki.
 
 (2) Az e törvényben meg nem határozott fogalmak tekintetében a Ht.-ben meghatározott fogalmakat kell alkalmazni.
 
-(3) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(3)
 
 #### 3. A minősítés általános szabályai
 
@@ -44,7 +44,7 @@ terjed ki.
 
 (2) A minősítő a kérelmezőt csak a kérelemben megjelölt minősítési osztályba sorolhatja.
 
-(3) Az e törvényben foglalt eljárásokban – az adatváltozás bejelentésére vonatkozó kérelem elbírálása kivételével – az ügyintézési határidő 70 nap.
+(3) Az e törvényben foglalt eljárásokban – az adatváltozás bejelentésére vonatkozó kérelem elbírálása kivételével – az ügyintézési határidő 90 nap.
 
 (4) A minősítő, ha a kérelmező kezdeményezi – igazgatási szolgáltatásként – az eljárás megindítását megelőzően szakmai konzultációs lehetőséget biztosít. A szakmai konzultáció az egyes minősítési osztályok eléréséhez szükséges követelményekre, valamint az e követelményeknek való megfelelést igazoló dokumentumokra terjedhet ki.
 
@@ -55,6 +55,13 @@ terjed ki.
 - c) nem szolgálhat hivatkozási alapul a kérelmezett minősítési osztály megfelelősége elbírálásánál.
 
 (6) A kérelmező az e törvény szerinti közigazgatási hatósági eljárások lefolytatásáért, valamint a (4) bekezdés szerinti igazgatási jellegű szolgáltatás (konzultáció) igénybevételéért igazgatási szolgáltatási díjat fizet.
+
+#### 3/A. Egyes eljárási rendelkezések
+
+3/A. § A minősítési eljárásban
+
+- a) az ügyfél a kapcsolattartás formáját nem választhatja meg,
+- b) a hiánypótlás teljesítésére legfeljebb tizenöt napos határidőt lehet tűzni.
 
 #### 4. Minősítési eljárás
 
@@ -77,7 +84,7 @@ terjed ki.
 
 (3) A kérelemhez csatolni kell
 
-- a) a hatályos hulladékgazdálkodási engedélyt vagy engedélyeket,
+- a)
 - b)
 - c)
 - d) az igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
@@ -85,8 +92,7 @@ terjed ki.
 (4) A kérelmezőnek a (3) bekezdésben meghatározottak mellett – a kérelmezett minősítési osztálynak megfelelően – az 1–4. mellékletben meghatározott minősítési feltétel- és követelményrendszer szerint a következő dokumentumok másolatát is be kell nyújtania:
 
 - a) a hulladékgazdálkodási közszolgáltatásba bevont szállító eszközök – így különösen gépjárművek, célgépek –, valamint az e törvény szerinti hulladékkezelő létesítmények tulajdonának igazolására szolgáló
-  - aa) tulajdoni lapot,
-  - ab) forgalmi engedélyt,
+  - aa)–ab)
   - ac) leltári nyilvántartási kivonatot,
   - ad) lízingszerződést vagy más – a tulajdon igazolására alkalmas – okiratot, szerződést,
   - ae) bérleti, használati, hasznosítási, üzemeltetési, vagyonkezelési jogosultságát igazoló megállapodást, egyéb dokumentumot, az átadott eszközök, létesítmények tételes, leltár szerinti megjelölésével, amennyiben önkormányzati vagy állami tulajdonban lévő eszközt, létesítményt vontak be;
@@ -111,28 +117,28 @@ terjed ki.
 
 (9) A minősítő a (8) bekezdésben meghatározott esetben felhívhatja a kérelmezőt az idegen nyelvű dokumentum hitelesített fordításának benyújtására, ha az egyszerű fordítás helyessége, hitelessége iránt alapos kétség merül fel. A fordítás hitelesítésének költségeit a kérelmező viseli.
 
-5. § A minősítési eljárásban kizárólag a kérelmező minősül ügyfélnek. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 98. § (1) bekezdése az e törvényben meghatározott eljárásokban nem alkalmazható.
+5. § A minősítési eljárásban a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 98. § (1) bekezdése az e törvényben meghatározott eljárásokban nem alkalmazható.
 
-6. § (1) A minősítési eljárásban a Ket. elektronikus ügyintézésre vonatkozó szabályai nem alkalmazhatók.
+6. § (1) A minősítési eljárásban nincs helye elektronikus ügyintézésnek.
 
 (2) A minősítési eljárás során a kérelem a minősítési osztály tekintetében nem módosítható, az ilyen tárgyú kérelmet a minősítő új eljárásban bírálja el.
 
 (3) A (2) bekezdés szerinti módosítási szándék esetén új kérelmet kell benyújtani.
 
-(4) A minősítési eljárás során a minősítő székhelyén kívül lefolytatott eljárási cselekmények költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek. Az e bekezdés szerinti egyéb eljárási költségek mértéke óránként és ügyintézőnként 8060 forint.
+(4) A minősítési eljárás során a minősítő székhelyén kívül lefolytatott eljárási cselekmények költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek eljárási költségnek minősülnek. Az e bekezdés szerinti eljárási költségek mértéke óránként és ügyintézőnként 8060 forint.
 
 7. § (1) A minősítő a minősítés iránti kérelem beérkezését követő 8 napon belül megvizsgálja, hogy
 
 - a) az igazgatási szolgáltatási díj megfizetésre került-e,
 - b) a kérelem megfelel-e a 4. § szerinti formai követelményeknek.
 
-(2) A kérelem 6. § (2) bekezdésébe ütköző megváltoztatása esetén a minősítő a kérelmet érdemi vizsgálat nélkül elutasítja vagy az eljárást megszünteti.
+(2) A kérelem 6. § (2) bekezdésébe ütköző megváltoztatása esetén a minősítő a kérelmet visszautasítja vagy az eljárást megszünteti.
 
 (3) Ha a minősítés iránti kérelem megfelel az (1) bekezdésben foglaltaknak, a minősítő a kérelmet érdemben vizsgálja.
 
 8. § (1) A minősítő a minősítési eljárás alapján dönt a hulladékgazdálkodási közszolgáltatási tevékenység minősítési engedélyének kiadásáról. A minősítési engedélyben a minősítő meghatározza a hulladékgazdálkodási közszolgáltatási tevékenység végzésének feltételeit, továbbá elvégzi a tevékenység (3) bekezdés szerinti minősítési osztályba sorolását.
 
-(2) A minősítési engedély – a Ket.-ben foglalt követelményeken felül – legalább a következőket tartalmazza:
+(2) A minősítési engedély legalább a következőket tartalmazza:
 
 - a) a kérelmező azonosító adatai (név, székhely, cégjegyzékszám, adószám, KÜJ-szám és KTJ-szám, statisztikai számjel),
 - b) az engedélyezett közszolgáltatási tevékenység megnevezése,
@@ -146,7 +152,7 @@ terjed ki.
 
 9. § (1)–(2)
 
-(3) A minősítési engedély időbeli hatálya – a (4) bekezdésben meghatározott kivétellel – az engedély jogerőre emelkedésétől számított 36. hónap utolsó napjáig tart.
+(3) A minősítési engedély időbeli hatálya – a (4) bekezdésben meghatározott kivétellel – az engedély véglegessé válásától számított 36. hónap utolsó napjáig tart.
 
 (4) A 11. § (1) bekezdésében meghatározott esetben az új minősítési engedély időbeli hatálya megegyezik az eredeti minősítési engedély időbeli hatályával.
 
@@ -175,7 +181,7 @@ olyan változás következik be, amely a kiadott minősítési engedély adatán
 
 #### 7. A minősítési engedély hatályának meghosszabbítása
 
-13. § (1) A kérelmező a minősítési engedély hatályának lejárta előtt legkésőbb 90 nappal benyújtott kérelmével kezdeményezheti a minősítési engedély hatályának meghosszabbítását. A minősítési engedély hatályának meghosszabbításáról szóló határozat jogerőre emelkedéséig a kérelmező a hatályos – korábbi – minősítési engedély alapján végezheti a tevékenységét.
+13. § (1) A kérelmező a minősítési engedély hatályának lejárta előtt legkésőbb 90 nappal benyújtott kérelmével kezdeményezheti a minősítési engedély hatályának meghosszabbítását. A minősítési engedély hatályának meghosszabbításáról szóló határozat véglegessé válásáig a kérelmező a hatályos – korábbi – minősítési engedély alapján végezheti a tevékenységét.
 
 (2) Ha a minősítő a minősítési engedély hatályának meghosszabbítása iránti eljárásban megállapítja, hogy a minősítési engedély kiállításának alapjául szolgáló feltételeknek a kérelmező megfelel, a környezetirányítási programban foglaltakat megfelelően végrehajtja, a 9. § (3) bekezdésében meghatározott időpont figyelembevételével meghosszabbítja a minősítési engedély hatályát.
 
@@ -185,7 +191,7 @@ olyan változás következik be, amely a kiadott minősítési engedély adatán
 
 #### 8. Ellenőrzés
 
-14. § (1) A minősítő a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést és a környezetirányítási programban foglaltak végrehajtását ellenőrzi.
+14. § (1) A minősítő a minősítési engedély kiadásának alapjául szolgáló feltételeknek való megfelelést és a környezetirányítási programban foglaltak végrehajtását hivatalból ellenőrzi. Az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
 
 (2) Ha a minősítő az ellenőrzés alapján megállapítja, hogy a kérelmező
 
@@ -200,6 +206,8 @@ olyan változás következik be, amely a kiadott minősítési engedély adatán
 15. § (1) Ha a kérelmező a 11. § szerinti adatváltozásra vonatkozó bejelentési kötelezettségének határidőben nem tesz eleget, a minősítő a kérelmezőt 50 000 forint összegű bírság megfizetésére kötelezi, és határidő tűzésével felszólítja az adatváltozás bejelentésére.
 
 (2) Ha a kérelmező az (1) bekezdés szerinti felszólítás ellenére sem tesz eleget határidőben az adatváltozás bejelentésére vonatkozó kötelezettségének, a bírság ismételten kiszabható.
+
+(3) A jogsértés megállapítására és a bírság kiszabására irányuló eljárás megindítása tekintetében a Kvt. rendelkezései alkalmazandók.
 
 15/A. §
 
@@ -216,7 +224,7 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 #### 11. Egyéb eljárási szabályok
 
-17. § (1) A 11. § (1) és (2) bekezdésében és a 12–16. §-ban foglalt eljárásokra a minősítési eljárásra vonatkozó szabályokat kell alkalmazni.
+17. § (1) A 11. § (1) és (2) bekezdésében, valamint a 12–13. §-ban foglalt eljárásokra a minősítési eljárásra vonatkozó szabályokat kell alkalmazni.
 
 (2) A minősítési engedély módosítása esetén a minősítő új minősítési engedélyt ad ki, és a módosítással érintett korábbi minősítési engedélyt visszavonja.
 
@@ -353,7 +361,7 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 | I.minősítési fokozat | A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik. | 1. A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik. | 1. A kérelmező a hulladékgazdálkodási tevékenység ellátásához szükséges hulladékgazdálkodási engedéllyel rendelkezik. |
 |  | 2. A kérelmező a hulladékgazdálkodási közszolgáltatás ellátásához szükséges szállítóeszközökkel (gépjárművekkel) rendelkezik, amelyek az alábbi tulajdoni kategóriáknak felelnek meg:a) a kérelmező tulajdonában vannak,b) állami vagy önkormányzati tulajdonban vannak, vagyc) a kérelmező tulajdonában és állami vagy önkormányzati tulajdonban vannak. | 2. A kérelmező a hulladékgazdálkodási közszolgáltatás ellátásához szükségesa) szállítóeszközökkel (gépjárművekkel), továbbáb) az e törvény szerinti hulladékkezelő létesítménnyelrendelkezik, amely eszközök és létesítmények teljes mértékben megfelelnek a B/I. minősítési osztály 2. pont a)–c) alpontja szerinti tulajdoni kategóriáknak. |
 |  | A/II. | B/II. | C/II. |
-| II.minősítési fokozat | A kérelmező az A/I. minősítési osztályhoz szükséges követelmények teljesítésén felül:a) rendelkezikaa) az Európai Unió vagy Svájc területén kiadott akkreditációval rendelkező tanúsító szervezet által kiállított érvényes ISO 9001-es és ISO 14001-es tanúsítvánnyal;ab) az ISO 14001 szerinti tanúsítvánnyal egyenértékű környezetvédelmi vezetési és hitelesítési rendszerben (EMAS) részt vevő szervezetek nyilvántartásáról szóló kormányrendeletnek megfelelően nyilvántartott környezetvédelmi és tanúsítási (EMAS) rendszerrel;b) a 4. melléklet szerintba) a hulladékgazdálkodási közszolgáltatás ellátása érdekében igénybe vett hulladékszállító és hulladékkezelő alvállalkozóit az ISO 9001 és 14001 szerinti irányítási rendszerek, vagy a Közösség környezetvédelmi vezetési és hitelesítési rendszerének (EMAS) bevezetésére és működtetésére, valamint azok akkreditált tanúsító szervezettel történő tanúsíttatására ösztönzi;bb) ügyfelei elégedettségét és környezeti tudatosságát javítja;c) az 5. melléklet szerintca) a kérelem benyújtását megelőző 12 hónapon belül meghozott jogerős határozatban megállapított környezetveszélyeztetés vagy környezetkárosítás miatt kiszabott környezetvédelmi bírságfizetési kötelezettsége nem keletkezett, továbbácb) a kérelem benyújtásától számított 12 hónapnál régebben meghozott jogerős határozatban környezetveszélyeztetés vagy környezetkárosítás miatt megállapított környezetvédelmi bírságfizetési kötelezettségének eleget tett, és a jogszabálysértéssel kapcsolatos egyéb kötelezettségeit teljesítette. | A kérelmező a B/I. és az A/II. minősítési osztályhoz szükséges követelmények együttes teljesítésén felül:a) legalább a 2. mellékletben a B/II. minősítési osztályra meghatározott környezetirányítási célokat és az azok megvalósítására irányuló programokat dolgoz ki és valósít meg;b) a 2. mellékletben a B/II. minősítési osztályhoz előírt 5 környezetirányítási célból legalább 3 környezetirányítási célt teljesít. | A kérelmező a C/I. és B/II. minősítési osztályokhoz szükséges követelmények együttes teljesítésén felül:a) rendelkezik a C/I. minősítési osztály 2. pont b) alpontja szerinti hulladékkezelő létesítmények közül legalább egy B/I. minősítési osztály 2. pont a)–c) alpontja szerinti tulajdoni kategóriáknak megfelelő települési szilárd hulladéklerakóval;b) legalább a 2. mellékletben a C/II. minősítési osztályra meghatározott környezetirányítási célokat és az azok megvalósítására irányuló programokat dolgoz ki és valósít meg;c) a 2. mellékletben a C/II. minősítési osztályhoz előírt 4 környezetirányítási célból legalább 3 környezetirányítási célt teljesít. |
+| II.minősítési fokozat | A kérelmező az A/I. minősítési osztályhoz szükséges követelmények teljesítésén felül:a) rendelkezikaa) az Európai Unió vagy Svájc területén kiadott akkreditációval rendelkező tanúsító szervezet által kiállított érvényes ISO 9001-es és ISO 14001-es tanúsítvánnyal;ab) az ISO 14001 szerinti tanúsítvánnyal egyenértékű környezetvédelmi vezetési és hitelesítési rendszerben (EMAS) részt vevő szervezetek nyilvántartásáról szóló kormányrendeletnek megfelelően nyilvántartott környezetvédelmi és tanúsítási (EMAS) rendszerrel;b) a 4. melléklet szerintba) a hulladékgazdálkodási közszolgáltatás ellátása érdekében igénybe vett hulladékszállító és hulladékkezelő alvállalkozóit az ISO 9001 és 14001 szerinti irányítási rendszerek, vagy a Közösség környezetvédelmi vezetési és hitelesítési rendszerének (EMAS) bevezetésére és működtetésére, valamint azok akkreditált tanúsító szervezettel történő tanúsíttatására ösztönzi;bb) ügyfelei elégedettségét és környezeti tudatosságát javítja;c) az 5. melléklet szerintca) a kérelem benyújtását megelőző 12 hónapon belül meghozott véglegessé vált határozatban megállapított környezetveszélyeztetés vagy környezetkárosítás miatt kiszabott környezetvédelmi bírságfizetési kötelezettsége nem keletkezett, továbbácb) a kérelem benyújtásától számított 12 hónapnál régebben meghozott véglegessé vált határozatban környezetveszélyeztetés vagy környezetkárosítás miatt megállapított környezetvédelmi bírságfizetési kötelezettségének eleget tett, és a jogszabálysértéssel kapcsolatos egyéb kötelezettségeit teljesítette. | A kérelmező a B/I. és az A/II. minősítési osztályhoz szükséges követelmények együttes teljesítésén felül:a) legalább a 2. mellékletben a B/II. minősítési osztályra meghatározott környezetirányítási célokat és az azok megvalósítására irányuló programokat dolgoz ki és valósít meg;b) a 2. mellékletben a B/II. minősítési osztályhoz előírt 5 környezetirányítási célból legalább 3 környezetirányítási célt teljesít. | A kérelmező a C/I. és B/II. minősítési osztályokhoz szükséges követelmények együttes teljesítésén felül:a) rendelkezik a C/I. minősítési osztály 2. pont b) alpontja szerinti hulladékkezelő létesítmények közül legalább egy B/I. minősítési osztály 2. pont a)–c) alpontja szerinti tulajdoni kategóriáknak megfelelő települési szilárd hulladéklerakóval;b) legalább a 2. mellékletben a C/II. minősítési osztályra meghatározott környezetirányítási célokat és az azok megvalósítására irányuló programokat dolgoz ki és valósít meg;c) a 2. mellékletben a C/II. minősítési osztályhoz előírt 4 környezetirányítási célból legalább 3 környezetirányítási célt teljesít. |
 |  |  | B/III. | C/III. |
 | III.minősítési fokozat | A kérelmező a B/II. minősítési osztályhoz szükséges követelmények teljesítésén felül:a) legalább a 3. mellékletben a B/III. minősítési osztályra meghatározott környezetirányítási célokat és az azok megvalósítására irányuló programokat dolgoz ki és valósít meg;b) a 3. mellékletben a B/III. minősítési osztályhoz előírt 5 környezetirányítási célból legalább 3 környezetirányítási célt teljesít. | A kérelmező a C/II. minősítési osztályhoz szükséges követelmények teljesítésén felül:a) legalább a 3. mellékletben a C/III. minősítési osztályra meghatározott környezetirányítási célokat és az azok megvalósítására irányuló programokat dolgoz ki és valósít meg;b) a 3. mellékletben a C/III. minősítési osztályhoz előírt 4 környezetirányítási célból legalább 3 környezetirányítási célt teljesít. |
 
@@ -413,9 +421,9 @@ NYILATKOZAT
 
 A KÖRNYEZETVÉDELMI BÍRSÁGFIZETÉSI KÖTELEZETTSÉG HIÁNYÁRÓL
 
-Alulírott……………….. (név), mint a ………………………(cég megnevezése, székhelye és cégjegyzékszáma) – a továbbiakban: kérelmező – nyilatkozattételre jogosult képviselője, büntetőjogi felelősségem tudatában kijelentem, hogy az általam képviselt kérelmezőnek a kérelem benyújtását megelőző 12 hónapon belül meghozott jogerős határozatban megállapított – környezetveszélyeztetés vagy környezetkárosítás miatt kiszabott – környezetvédelmi bírságfizetési kötelezettsége nem keletkezett.
+Alulírott……………….. (név), mint a ………………………(cég megnevezése, székhelye és cégjegyzékszáma) – a továbbiakban: kérelmező – nyilatkozattételre jogosult képviselője, büntetőjogi felelősségem tudatában kijelentem, hogy az általam képviselt kérelmezőnek a kérelem benyújtását megelőző 12 hónapon belül meghozott véglegessé vált határozatban megállapított – környezetveszélyeztetés vagy környezetkárosítás miatt kiszabott – környezetvédelmi bírságfizetési kötelezettsége nem keletkezett.
 
-Kijelentem továbbá, hogy a kérelmező a kérelem benyújtásától számított 12 hónapnál régebben meghozott jogerős határozatban – környezetveszélyeztetés vagy környezetkárosítás miatt – megállapított környezetvédelmi bírságfizetési kötelezettségének eleget tett és a jogszabálysértéssel kapcsolatos egyéb kötelezettségeit teljesítette.
+Kijelentem továbbá, hogy a kérelmező a kérelem benyújtásától számított 12 hónapnál régebben meghozott véglegessé vált határozatban – környezetveszélyeztetés vagy környezetkárosítás miatt – megállapított környezetvédelmi bírságfizetési kötelezettségének eleget tett és a jogszabálysértéssel kapcsolatos egyéb kötelezettségeit teljesítette.
 
 Dátum:...................................................
 

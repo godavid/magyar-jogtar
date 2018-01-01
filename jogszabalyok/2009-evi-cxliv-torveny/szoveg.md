@@ -140,7 +140,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 (5) Az alapszabály mellékleteiben bekövetkezett változást az éves rendes küldöttgyűlés követő 30 napon belül kell megküldeni az illetékes cégbíróságnak.
 
-10. § Az alapszabályt közjegyzői okiratba vagy ügyvéd (jogtanácsos) által ellenjegyzett okiratba kell foglalni.
+10. § Az alapszabályt közjegyzői okiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba kell foglalni.
 
 11. § Az alapszabály módosítását – a mellékletek változásának kivételével – a változás megtörténtétől számított 30 napon belül kell bejelenteni a cégbíróságnak.
 

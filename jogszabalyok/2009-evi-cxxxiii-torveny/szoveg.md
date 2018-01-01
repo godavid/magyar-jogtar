@@ -73,7 +73,7 @@ a megfelelőségértékelő szervezetek tevékenységéről
 
 (4) A kijelölési eljárásért – az e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak szerint – igazgatási szolgáltatási díjat kell fizetni.
 
-(5) A kijelölési eljárásban az ügyintézési határidő 30 nap.
+(5) A kijelölő hatóság eljárásaiban a hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
 
 ### Az engedély időbeli hatálya
 
@@ -137,7 +137,7 @@ a megfelelőségértékelő szervezetek tevékenységéről
 
 (3) A harmonizációs uniós jogi aktus hatálya alá nem tartozó körben kiadott jogszabályi rendelkezés alapján e törvény hatálybalépését megelőzően kijelölt szervezeteknek legkésőbb 2012. december 31-ig kell megfelelniük az e törvényben és a végrehajtására kiadott jogszabályokban foglalt követelményeknek.
 
-(4)
+(4) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 15. §
 

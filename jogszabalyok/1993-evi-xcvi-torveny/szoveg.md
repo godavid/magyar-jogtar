@@ -135,7 +135,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (3) Az alakuló közgyűlésről készült jegyzőkönyvet a közgyűlés által választott elnök és a jegyzőkönyvvezető írja alá, és az erre a tisztségre megválasztott két tag hitelesíti. A közgyűlésen felvett jelenléti ívet a közgyűlés elnöke és a jegyzőkönyvvezető aláírásával hitelesíti.
 
-(4) Az alapszabályt, és annak módosítását közokiratba vagy ügyvéd (jogtanácsos) által ellenjegyzett okiratba kell foglalni.
+(4) Az alapszabályt, és annak módosítását közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett okiratba kell foglalni.
 
 6. § (1) A pénztár jogi személy.
 
@@ -145,7 +145,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 7. § (1) A bírósági nyilvántartásba vétel megtörténte előtt a pénztár nevében eljáró természetes személyek egyetemlegesen felelnek a pénztár nevében vállalt kötelezettségekért. E felelősség korlátozása vagy kizárása harmadik személlyel szemben semmis.
 
-(2) A nyilvántartásba vételt megelőzően a pénztár nevében vállalt kötelezettségekért a (1) bekezdés szerint fennálló felelősség megszűnik, ha a pénztár közgyűlése a kötelezettségvállalásokat utólag jóváhagyja. Erről a közgyűlés a tevékenységi engedély (60. §) jogerőre emelkedése előtt érvényesen nem határozhat.
+(2) A nyilvántartásba vételt megelőzően a pénztár nevében vállalt kötelezettségekért a (1) bekezdés szerint fennálló felelősség megszűnik, ha a pénztár közgyűlése a kötelezettségvállalásokat utólag jóváhagyja. Erről a közgyűlés a tevékenységi engedély (60. §) véglegessé válása előtt érvényesen nem határozhat.
 
 (3) Ha a pénztár a nyilvántartásba vétel előtt jogot szerez vagy kötelezettséget vállal, a nyilvántartásba vétel hiányára nem hivatkozhat.
 
@@ -153,11 +153,11 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (2) A pénztárak pénzügyi felügyeletét ellátó szerv feladatait a VI. fejezet alapján a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljárva a Magyar Nemzeti Bank látja el.
 
-9. § (1) A pénztár a 10. § (1) bekezdésében meghatározott tevékenységet a Felügyelet jogerős tevékenységi engedélye birtokában kezdheti meg. A tevékenység engedélyezésének eljárási szabályait a 60—64. §-ok tartalmazzák.
+9. § (1) A pénztár a 10. § (1) bekezdésében meghatározott tevékenységet a Felügyelet végleges tevékenységi engedélye birtokában kezdheti meg. A tevékenység engedélyezésének eljárási szabályait a 60—64. §-ok tartalmazzák.
 
 (2) A pénztár az alakuló közgyűlést követő 15 napon belül köteles számlavezetésre feljogosított pénzforgalmi szolgáltatónál pénzforgalmi számlát nyitni.
 
-(3) A tevékenységi engedély jogerőre emelkedéséig a pénztár a hozzá bármilyen címen befizetett összegekből kizárólag a pénztár szervezésével összefüggő kifizetéseket teljesíthet, egyebekben pedig a pénztár megalakulását követően a pénztár gazdálkodására és befektetéseire az e törvényben foglalt rendelkezéseket kell alkalmazni.
+(3) A tevékenységi engedély véglegessé válásáig a pénztár a hozzá bármilyen címen befizetett összegekből kizárólag a pénztár szervezésével összefüggő kifizetéseket teljesíthet, egyebekben pedig a pénztár megalakulását követően a pénztár gazdálkodására és befektetéseire az e törvényben foglalt rendelkezéseket kell alkalmazni.
 
 (4)
 
@@ -196,7 +196,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (2) A tagsági viszony, a tagdíjfizetési kötelezettség és a várakozási idő a pénztárhoz benyújtott belépési nyilatkozatnak a pénztár általi elfogadásával kezdődik. A pénztár a belépési nyilatkozat elfogadását annak záradékolásával tanúsítja. A belépési nyilatkozatot a benyújtástól számított 30 napon belül kell záradékolni, majd annak egy példányát vagy a tagsági okiratot az alapszabállyal együtt a pénztártagnak nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként át kell adni.
 
-(3) A tevékenységi engedély jogerőre emelkedése előtt a pénztár tagdíjat nem fogadhat, az alapító tagokon kívül új tagokat nem vehet fel. Az alapító tagok tagdíjfizetési kötelezettsége és várakozási ideje a tevékenységi engedély jogerőre emelkedését követő napon kezdődik. A pénztár a tevékenységi engedély jogerőre emelkedésétől számított 30 napon belül nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként átadja az alapító tagok részére a pénztár alapszabályát és a tagsági okiratot.
+(3) A tevékenységi engedély véglegessé válása előtt a pénztár tagdíjat nem fogadhat, az alapító tagokon kívül új tagokat nem vehet fel. Az alapító tagok tagdíjfizetési kötelezettsége és várakozási ideje a tevékenységi engedély véglegessé válását követő napon kezdődik. A pénztár a tevékenységi engedély véglegessé válásától számított 30 napon belül nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként átadja az alapító tagok részére a pénztár alapszabályát és a tagsági okiratot.
 
 (4) Az alapszabály rendelkezhet úgy, hogy – a (2) bekezdésben foglaltaktól eltérően – a pénztártagsági jogviszony az első havi tagdíj befizetésével jön létre. Ebben az esetben az első havi tagdíj megfizetésének elmulasztása esetén a belépni kívánó tagot az alapszabályban rögzített eljárási szabályoknak megfelelően értesíteni kell a mulasztás jogkövetkezményeiről. A befizetés pótlására előírt határidő eredménytelen elteltét követően a személy adatai a nyilvántartásból kivezethetők.
 
@@ -448,14 +448,14 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (2) A pénztár megalakulásakor és a vezető tisztségviselők, az ügyvezető (helyettes ügyvezető), illetve a kötelező alkalmazottak, megbízottak változása esetén – ideértve azok újraválasztását vagy újbóli kinevezését is – figyelemmel a (3) bekezdésben foglaltakra a pénztár csatolja
 
-- a) a 20. § (2) bekezdésében meghatározott kizáró ok hiányát igazoló hatósági bizonyítvány eredeti vagy hiteles másolati példányát,
+- a) nem magyar állampolgár esetén a 20. § (2) bekezdésében meghatározott kizáró ok hiányát igazoló, a nem magyar állampolgár személyes joga szerinti, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti hatósági bizonyítványnak megfelelő okiratot,
 - b) az érintett személy nyilatkozatát arról, hogy vele szemben jogszabályban meghatározott összeférhetetlenségi ok nem áll fenn,
 - c) a jogszabály által előírt végzettségét vagy gyakorlatát igazoló dokumentumok hiteles másolatát és
 - d) a vezető tisztségviselő esetén annak nyilatkozatát a tisztség elfogadásáról.
 
 (3) A vezető tisztségviselők, az ügyvezető (helyettes ügyvezető), illetve a kötelező alkalmazottak, megbízottak újraválasztása vagy újbóli kinevezése esetén a (2) bekezdés c) pontjában foglaltak ismételt igazolására nincs szükség.
 
-20/B. § (1) Az igazgatótanács tagjának jelölt személy azt, hogy a 20. § (2) bekezdés a) pontjában, az ellenőrző bizottság tagjának jelölt személy azt, hogy a 20. § (2) bekezdés b) pontjában meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből, megválasztását megelőzően a közgyűlés részére hatósági bizonyítvánnyal igazolja. Amennyiben az előzetes igazolásra indokoltan nincs lehetőség, akkor az igazgatótanács vagy ellenőrző bizottság tagjának választott személy megválasztását követően 30 napon belül hatósági bizonyítvánnyal igazolja a pénztárnak és a Felügyeletnek, hogy igazgatótanácsi tag esetén a 20. § (2) bekezdés a) pontjában, az ellenőrző bizottság tag esetén a 20. § (2) bekezdés b) pontjában meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből. Az igazolás időpontjáig a megválasztott igazgatótanácsi, ellenőrző bizottsági tag a testületi döntésekben nem vehet részt.
+20/B. § (1) Az igazgatótanács tagjának jelölt személy azt, hogy a 20. § (2) bekezdés a) pontjában, az ellenőrző bizottság tagjának jelölt személy azt, hogy a 20. § (2) bekezdés b) pontjában meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből, megválasztását megelőzően a közgyűlés részére hatósági bizonyítvánnyal igazolja. Amennyiben az előzetes igazolásra indokoltan nincs lehetőség, akkor az igazgatótanács vagy ellenőrző bizottság tagjának választott személy megválasztását követően 30 napon belül hatósági bizonyítvánnyal igazolja a Pénztárnak és – nem magyar állampolgár esetén a 20/A. § (2) bekezdés a) pontjában meghatározott módon – a Felügyeletnek, hogy igazgatótanácsi tag esetén a 20. § (2) bekezdés a) pontjában, az ellenőrző bizottság tag esetén a 20. § (2) bekezdés b) pontjában meghatározott feltételek alapján nincs kizárva a vezető tisztségviselői tisztség betöltéséből. Az igazolás időpontjáig a megválasztott igazgatótanácsi, ellenőrző bizottsági tag a testületi döntésekben nem vehet részt.
 
 (2) A vezető tisztségviselői tisztség betöltésének ideje alatt a közgyűlés írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja
 
@@ -498,8 +498,8 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 - d) az igazgatótanács éves beszámolójának elfogadása, a mérleg megállapítása, döntés az eredmény felhasználásáról vagy az egyes alapokban mutatkozó hiány rendezéséről;
 - e) a pénztár pénzügyi tervének elfogadása;
 - f) az alapszabály által meghatározott körben a munkáltatói taggal (tagokkal) kötött szerződés jóváhagyása;
-- g) a tevékenységi engedély jogerőre emelkedése előtt kötött szerződések jóváhagyása;
-- h) a tevékenységi engedély jogerőre emelkedése előtt a pénztár nevében eljáró személyek, az igazgatótanács és az ellenőrző bizottság tagjai elleni kártérítési igény érvényesítése, továbbá intézkedés a pénztár képviseletére jogosultak ellen indított perekben a pénztár képviseletéről;
+- g) a tevékenységi engedély véglegessé válása előtt kötött szerződések jóváhagyása;
+- h) a tevékenységi engedély véglegessé válása előtt a pénztár nevében eljáró személyek, az igazgatótanács és az ellenőrző bizottság tagjai elleni kártérítési igény érvényesítése, továbbá intézkedés a pénztár képviseletére jogosultak ellen indított perekben a pénztár képviseletéről;
 - i) döntés érdekképviseleti szervhez történő csatlakozásról, illetve az abból történő kiválásról;
 - j) döntés a pénztár megszűnéséről, szétválásáról vagy más pénztárral történő egyesüléséről;
 - k) a könyvvizsgáló társaság és a könyvvizsgáló természetes személy megválasztása és felmentése;
@@ -772,13 +772,13 @@ kell helyezni.
 
 (2) Az (1) bekezdés alapján megismert személyes adatokat a pénztár a vagyonkezelői tevékenység irányítójának alkalmazásáról, illetve ingatlanértékelő megbízásáról meghozott döntésig, a vagyonkezelő alkalmazása vagy ingatlanértékelő megbízása esetén a jogviszony fennállásáig kezeli.
 
-(3) A pénztár az ingatlanértékelő megbízását követő huszonegy napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét, és csatolja az ingatlanértékelő hatósági bizonyítványát – annak igazolására, hogy büntetlen előéletű, nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok –, valamint a végzettségét és gyakorlatát igazoló dokumentumok hiteles másolatát.
+(3) A pénztár az ingatlanértékelő megbízását követő huszonegy napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét.
 
 (4) A Felügyelet hatósági ellenőrzés keretében ellenőrizheti, hogy az ingatlanértékelő büntetlen előéletű, nem áll az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, és vele szemben nem áll fenn a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok. A hatósági ellenőrzést folytató Felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az ingatlanértékelő büntetlen előéletű-e, az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll-e, valamint fennáll-e vele szemben a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok.
 
 (5) A Felügyelet az ingatlanértékelő
 
-- a) (3) bekezdés alapján megismert személyes adatait az ingatlanértékelő megbízásának jóváhagyásáig,
+- a) (3) bekezdés alapján megismert személyes adatait az ingatlanértékelő jogviszonyának megszűnésétől számított legfeljebb 5 évig,
 - b) a (4) bekezdés alapján megismert személyes adatait a hatósági ellenőrzés időtartamára vagy a pénztár az ingatlanértékelő jogviszonyának megszüntetéséről szóló (6) bekezdés szerinti értesítésének a Felügyelethez történő megérkezéséig kezeli.
 
 (6) Ha a Felügyelet a (4) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az ingatlanértékelő büntetett előéletűvé vált, az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll, vagy vele szemben fennáll a 20. § (2) bekezdés a) pont ac) és ad) alpontjában meghatározott kizáró ok, erről a tényről haladéktalanul értesíti a pénztárt, és ezzel egyidejűleg felhívja, hogy az ingatlanértékelővel fennálló jogviszonyát az értesítés kézbesítésétől számított huszonegy napon belül szüntesse meg, és erről a Felügyeletet értesítse.
@@ -968,7 +968,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
   - cc) az átalakulással létrejövő pénztár alapszabályát,
   - cd) a könyvvizsgáló által hitelesített vagyonmérlegtervezeteket – ideértve az átalakuló és az átalakulással létrejövő pénztár vagyonmérleg-tervezetét – és a kötelezettségek és követelések állományát tartalmazó dokumentumokat;
 - d) a Felügyelet a tevékenységi engedélyezésre irányuló eljárásban a pénztárat ellenőrzi és a kérelemhez csatolt dokumentumok, valamint az ellenőrzés alapján dönt az engedély megadásáról;
-- e) a bíróság az átalakulást a Felügyelet által adott tevékenységi engedély(ek) jogerőre emelkedését követően, a jogelőd(ök) törlésével és a jogutód(ok) bejegyzésével vezeti át a nyilvántartáson.
+- e) a bíróság az átalakulást a Felügyelet által adott tevékenységi engedély(ek) véglegessé válását követően, a jogelőd(ök) törlésével és a jogutód(ok) bejegyzésével vezeti át a nyilvántartáson.
 
 (3) Az e fejezet alapján történő átalakuláskor – törvény eltérő rendelkezése hiányában – külön adó- és illetékfizetési kötelezettség nem keletkezik.
 
@@ -1009,7 +1009,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 - a) a közgyűlés az átalakulásról szóló döntését a 42. § (3) bekezdésben foglalt tervezetek elfogadása előtt megváltoztatja,
 - b) a Felügyelet a tevékenységi engedély iránti kérelmet elutasítja,
-- c) a bíróság a nyilvántartásba vétel iránti kérelmet elutasítja.
+- c) a bíróság a nyilvántartásba vétel iránti kérelmet visszautasítja.
 
 (2) Az átalakulás meghiúsulása esetén, az arról való tudomásszerzést követő 30 napon belül valamennyi érintett pénztár köteles az e törvényben előírt személyi és tárgyi feltételeknek, valamint az egyéb jogszabályi követelményeknek eleget tenni, és a rendes működéshez szükséges intézkedéseket megtenni, szerződéses kapcsolatokat kialakítani.
 
@@ -1047,7 +1047,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (2) Az e törvényben meghatározott eltérésekkel a pénztár felszámolására a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény rendelkezéseit, a végelszámolási, kényszer-végelszámolási vagy kényszertörlési eljárására pedig a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvényt (a továbbiakban: Ctv.) kell megfelelően alkalmazni.
 
-45/A. § (1) A pénztár a legfőbb szervének a végelszámolási eljárás megindításáról szóló döntését követő 30 napon belül köteles a döntést az illetékes bíróságnak bejelenteni. A végelszámolás kezdő időpontjában az ellenőrző bizottsági tagok megbízatása nem szűnik meg. A bíróság a végelszámoló nyilvántartásba vételéről rendelkező, illetve az igazgatótanácsi tagok nyilvántartásból törléséről rendelkező végzésének meghozatalát követően a Cégközlönyben a Ctv. 102. § (2) bekezdésében foglaltaknak megfelelő közleményt tesz közzé. A Felügyelet a végelszámolás lefolytatását köteles ellenőrizni. A pénztár a legfőbb szervének a Ctv. 111. § (1) bekezdése szerinti kérdésekben hozott döntését követő 30 napon belül köteles a tevékenysége lezárása iránti kérelmet a Felügyelethez benyújtani. A bíróság a pénztárat a nyilvántartásból a Felügyelet tevékenységet lezáró határozatának jogerőre emelkedését követően törli.
+45/A. § (1) A pénztár a legfőbb szervének a végelszámolási eljárás megindításáról szóló döntését követő 30 napon belül köteles a döntést az illetékes bíróságnak bejelenteni. A végelszámolás kezdő időpontjában az ellenőrző bizottsági tagok megbízatása nem szűnik meg. A bíróság a végelszámoló nyilvántartásba vételéről rendelkező, illetve az igazgatótanácsi tagok nyilvántartásból törléséről rendelkező végzésének meghozatalát követően a Cégközlönyben a Ctv. 102. § (2) bekezdésében foglaltaknak megfelelő közleményt tesz közzé. A Felügyelet a végelszámolás lefolytatását köteles ellenőrizni. A pénztár a legfőbb szervének a Ctv. 111. § (1) bekezdése szerinti kérdésekben hozott döntését követő 30 napon belül köteles a tevékenysége lezárása iránti kérelmet a Felügyelethez benyújtani. A bíróság a pénztárat a nyilvántartásból a Felügyelet tevékenységet lezáró határozatának véglegessé válását követően törli.
 
 (2) A pénztár végelszámolása esetén az ellenőrző bizottsági tagok pénztári tagsági jogviszonya és ellenőrző bizottsági megbízatása a pénztár megszűnésével egyidejűleg ér véget.
 
@@ -1258,7 +1258,7 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 - d) a szabályzat alapján a rendszer megbízható és biztonságos működtetése nem biztosítható,
 - e) a rendszer működtetése veszélyezteti a tagok megtakarításainak biztonságát.
 
-(4) A Felügyelet a választható portfoliós rendszer működtetésének megkezdésére, folytatására, illetve módosítására vonatkozó engedély iránti kérelmet elutasítja, ha a (módosított) szabályzat a (3) bekezdés alapján előírt módosításra vonatkozó ismételt felszólítás után sem felel meg a (3) bekezdésben meghatározott követelményeknek, vagy a pénztár a kérelmet ismételten hiányosan nyújtja be.
+(4)
 
 (5) A Felügyelet a választható portfoliós rendszer működtetésére kiadott engedélyt visszavonja, ha
 
@@ -1559,7 +1559,7 @@ nyújthat.
 (5) Az induló gazdálkodási tervnek tartalmaznia kell
 
 - a) a pénztár alapításkori vagyonát tételes és értékkel ellátott bontásban és az alapok közötti felosztását;
-- b) a tevékenységi engedély jogerőre emelkedésének napjáig tervezetten felmerülő költségek fajtáit és mértékét, valamint ezek várható fedezetét;
+- b) a tevékenységi engedély véglegessé válásának napjáig tervezetten felmerülő költségek fajtáit és mértékét, valamint ezek várható fedezetét;
 - c) a pénztár pénzügyi tervét.
 
 (6) Az induló gazdálkodási tervnek az (5) bekezdésben foglaltakon kívül tartalmaznia kell mindazokat az adatokat és feltételeket, amelyeket a pénztár alapszabályban vállalt szolgáltatásainak teljesítéséhez, a pénztár hosszú távú és a tervezett taglétszámához igazodó működőképességéhez, a tagokkal szemben vállalt kötelezettségek teljesítéséhez a pénztár igazgatótanácsa szükségesnek tart, illetve amit a Felügyelet előír.
@@ -1655,7 +1655,7 @@ nyújthat.
 
 (4) A pénztártevékenység folytatására adott engedély visszavonására akkor kerülhet sor, ha a pénztár
 
-- a) tevékenységének folytatását az engedély jogerőre emelkedésének napjától számított 180 napon belül nem kezdi meg, vagy azt a Felügyelet hozzájárulása nélkül szünetelteti;
+- a) tevékenységének folytatását az engedély véglegessé válásának napjától számított 180 napon belül nem kezdi meg, vagy azt a Felügyelet hozzájárulása nélkül szünetelteti;
 - b) az engedélykérelemben valótlan adatot vagy nyilatkozatot közölt;
 - c) nem tesz eleget a 64. §-ban foglalt engedélyezési feltételeknek;
 - d) a pénztártagok érdekeit súlyosan veszélyeztetve

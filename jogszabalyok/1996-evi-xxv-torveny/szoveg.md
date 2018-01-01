@@ -24,15 +24,19 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - g) adósságrendezésbe vonható bevétel: a helyi önkormányzatot megillető az Mötv. 106. § (1) bekezdésében meghatározott saját bevételek tárgyévben beszedett vagy követelésként fennálló összege, valamint az átengedett központi adókból származó bevétel az adósságrendezési eljárás megindításától a bejelentett hitelezői követelések megtérüléséig;
 - h) reorganizációs hitel: a válságköltségvetés, valamint a III. és IV. Fejezetben szabályozott eljárásban, az eljárás jogerős befejezéséig az önkormányzat, valamint a hitelezők között megkötött egyezség létrejöttének biztosításához szükséges hitel, beleértve az adósságrendezési eljárás alatt álló helyi önkormányzat lejárttá tett hiteleinek és kötvényeinek kiváltására szolgáló hitelt is.
 
-3. § (1) Az adósságrendezési eljárás a helyi önkormányzat székhelye szerint illetékes törvényszék hatáskörébe tartozó nem peres eljárás.
+3. § (1) Az adósságrendezési eljárás a helyi önkormányzat székhelye szerint illetékes törvényszék kizárólagos illetékességébe tartozó polgári nemperes eljárás.
 
-(2) Ha e törvényből és az eljárás nemperes jellegéből más nem következik, az eljárások lefolytatása során a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályait megfelelően kell alkalmazni azzal, hogy az eljárásban felfüggesztésnek, félbeszakadásnak nincs helye. Szünetelésnek csak az adósságrendezés megindításának időpontjáig, az eljárásban részt vevő felek közös kérelmére van helye. Az eljárás megszüntetésének az adósságrendezés megindításának időpontjáig van helye.
+(2) Az adósságrendezési eljárás lefolytatása során a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni azzal, hogy
+
+- a) az eljárásban felfüggesztésnek, félbeszakadásnak nincs helye,
+- b) szünetelésnek csak az adósságrendezés megindításának időpontjáig, az eljárásban részt vevő felek közös kérelmére van helye,
+- c) az eljárás megszüntetésének az adósságrendezés megindításának időpontjáig van helye.
 
 (3) Az e törvényben szabályozott nemperes eljárásokban – a (4) bekezdésben foglaltak kivételével – első fokon önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően bírósági titkár is eljárhat.
 
 (4) Bíró hozza meg a következő határozatokat:
 
-- a) az adósságrendezési eljárás során az adósságrendezés megindítása és az eljárás megszüntetése tárgyában hozott érdemi végzés;
+- a) az adósságrendezési eljárás során az adósságrendezés megindítása és az adósságrendezés megindítását kezdeményező kérelem elutasítása tárgyában hozott érdemi végzés;
 - b) a pénzügyi gondnok jogszabálysértő intézkedései vagy mulasztása ellen a sérelmet szenvedett által előterjesztett kifogás tárgyában hozott érdemi határozat;
 - c) a pénzügyi gondnok felmentéséről és díjazásának megállapításáról szóló határozat;
 - d) a pénzügyi gondnoknak a 29. § (3) bekezdés szerinti jelentését jóváhagyó, illetve a pénzügyi gondnokot új jelentés készítésére kötelező határozat;
@@ -68,7 +72,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 6. § (1) Ha az adósságrendezési eljárás megindítását a hitelező kezdeményezi, kérelmében meg kell jelölnie a helyi önkormányzat tartozásának jogcímét és a lejárat (esedékesség) időpontját. A kérelemben foglaltak bizonyításához szükséges iratokat csatolni kell.
 
-(2) Ha az adósságrendezési eljárás lefolytatását a hitelező kérte, és a bíróság a kérelmet – a 8. § szerint – érdemi vizsgálat nélkül nem utasította el, a bíróság a kérelem benyújtásáról, a kérelem egy példányának megküldésével haladéktalanul értesíti a helyi önkormányzatot.
+(2) Ha az adósságrendezési eljárás lefolytatását a hitelező kérte, és a bíróság a kérelmet – a 8. § szerint – nem utasította vissza, a bíróság a kérelem benyújtásáról, a kérelem egy példányának megküldésével haladéktalanul értesíti a helyi önkormányzatot.
 
 (3) A polgármester az értesítés kézhezvételétől számított 15 napon belül köteles a bíróságnak nyilatkozni arról, hogy a kérelemben foglaltak fennállását a helyi önkormányzat elismeri-e. Ha a polgármester a határidőn belül a bíróságnak nem nyilatkozik, a tartozás fennállásának tényét vélelmezni kell.
 
@@ -76,14 +80,16 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 7/A. § A zálogjogosult hitelező a zálogjog érvényesítésével összefüggő jogait a zálogkötelezett helyi önkormányzattal szemben az adósságrendezési eljárás kezdő időpontjától nem gyakorolhatja, követeléseinek a zálogtárgyból való kielégítésére az e törvény szerinti eljárás keretében kerül sor.
 
-8. § A bíróság a kérelmet érdemi vizsgálat nélkül elutasítja, ha
+8. § (1) A bíróság a kérelmet visszautasítja, ha
 
 - a) azt nem az arra jogosult terjesztette elő;
 - b) a hiánypótlásra visszaadott kérelmet a kérelmező 8 napon belül nem egészítette ki, vagy ismét hiányosan adta be;
 - c) a polgármester a képviselő-testület felhatalmazása nélkül járt el;
 - d) a hitelező a 7. §-ban meghatározott időtartam letelte előtt kezdeményezte az eljárást.
 
-9. § (1) Ha a bíróság megállapítja, hogy a 4. § (2) bekezdésében foglalt bármelyik feltétel fennáll, végzésben elrendeli az adósságrendezés megindítását, ellenkező esetben az adósságrendezési eljárást megszünteti.
+(2) Ha a kérelmező az (1) bekezdés szerinti visszautasító végzés közlésétől számított 15 napon belül a kérelmet szabályszerűen újra előterjeszti, az adósságrendezési eljárás lefolytatása iránti kérelem előterjesztéséhez fűződő joghatások fennmaradnak. A határidő elmulasztása esetén igazolásnak nincs helye. A kérelem újbóli előterjesztését a visszautasító végzés elleni fellebbezés visszavonásának vagy a végzés elleni fellebbezési jogról való lemondásnak kell tekinteni; az ezzel ellentétes nyilatkozat hatálytalan.
+
+9. § (1) Ha a bíróság megállapítja, hogy a 4. § (2) bekezdésében foglalt bármelyik feltétel fennáll, végzésben elrendeli az adósságrendezés megindítását, ellenkező esetben az adósságrendezés megindítását kezdeményező kérelmet elutasítja. Az adósságrendezés megindítását elrendelő végzés ellen fellebbezésnek van helye.
 
 (2) A bíróság az adósságrendezés megindítását elrendelő végzésében kijelöli a pénzügyi gondnokot.
 
@@ -96,6 +102,8 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - e) a jegyző, a polgármesteri hivatal dolgozója.
 
 (4) Ha a helyi önkormányzat vagy az is kezdeményezte az adósságrendezési eljárás megindítását, az adósságrendezés megindítását elrendelő végzés ellen fellebbezésnek nincs helye. Ha a hitelező kezdeményezésére indult az eljárás, a végzés ellen a hitelező nem fellebbezhet, a polgármester pedig csak a képviselő-testület döntése alapján terjeszthet elő fellebbezést.
+
+(5) Az adósságrendezés megindítását elrendelő végzés ellen nincs helye felülvizsgálatnak.
 
 ### Az adósságrendezés megindítása
 
@@ -178,17 +186,17 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - e) kezdeményezi a helyi önkormányzat esedékessé vált követeléseinek behajtását;
 - f) a hitelezőket – kérésükre – tájékoztatja a helyi önkormányzat vagyonával, továbbá az adósságrendezési eljárással kapcsolatban;
 - g) tájékoztatja a fővárosi és megyei kormányhivatalt, ha a képviselő-testület vagy az adósságrendezési bizottság bármely tagja az e törvényben meghatározott kötelezettségét nem teljesíti;
-- h) az adósságrendezés megindításának időpontjától számított 90 napon belül az általános hatáskörű bíróság előtt a helyi önkormányzat nevében keresettel megtámadhatja a helyi önkormányzatnak és költségvetési szervének az adósságrendezési eljárás kezdő időpontját megelőző 1 éven belül és azt követően megkötött szerződését, vagy más jognyilatkozatát, ha annak tárgya a helyi önkormányzat vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás, vagy harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet. A megtámadási határidő számítására a Ptk. 6:24–6:25. §-ában, valamint 6:89. § (4) bekezdésében foglalt szabályok vonatkoznak.
+- h) az adósságrendezés megindításának időpontjától számított 90 napon belül a Pp. IV. Fejezete alapján hatáskörrel és illetékességgel rendelkező bíróság előtt a helyi önkormányzat nevében keresettel megtámadhatja a helyi önkormányzatnak és költségvetési szervének az adósságrendezési eljárás kezdő időpontját megelőző 1 éven belül és azt követően megkötött szerződését, vagy más jognyilatkozatát, ha annak tárgya a helyi önkormányzat vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás, vagy harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet. A megtámadási határidő számítására a Ptk. 6:24–6:25. §-ában, valamint 6:89. § (4) bekezdésében foglalt szabályok vonatkoznak.
 
 (3) A pénzügyi gondnok jogszabálysértő intézkedése vagy mulasztása ellen a tudomásszerzéstől számított 8 napon belül a sérelmet szenvedett kifogással élhet az eljáró bíróságnál. Az intézkedéstől vagy mulasztástól számított 30 nap elteltével kifogás nem terjeszthető elő.
 
-(4) A bíróság a kifogás alapján elrendelheti az intézkedés felfüggesztését. Ha a kifogást megalapozottnak találja, a pénzügyi gondnok intézkedését megsemmisíti, megváltoztatja, vagy a pénzügyi gondnokot megfelelő intézkedés megtételére kötelezi, ellenkező esetben a kifogást elutasítja.
+(4) A bíróság a kifogás alapján elrendelheti az intézkedés felfüggesztését. Ha a kifogást megalapozottnak találja, a pénzügyi gondnok intézkedését megsemmisíti, megváltoztatja, vagy a pénzügyi gondnokot megfelelő intézkedés megtételére kötelezi, ellenkező esetben a kifogást elutasítja; a kifogás tárgyában hozott végzés ellen fellebbezésnek van helye.
 
-(5) Ha a pénzügyi gondnok az e törvényben foglalt kötelezettségét megszegi, vagy a kifogásnak helyt adó jogerős bírói végzésnek nem tesz eleget, a bíróság hivatalból vagy kérelemre a pénzügyi gondnokot tisztéből felmentheti, az ezzel járó költségek viselésére kötelezheti, díját csökkentheti.
+(5) Ha a pénzügyi gondnok az e törvényben foglalt kötelezettségét megszegi, vagy a kifogásnak helyt adó jogerős bírói végzésnek nem tesz eleget, a bíróság hivatalból vagy kérelemre a pénzügyi gondnokot tisztéből felmentheti, az ezzel járó költségek viselésére kötelezheti, díját csökkentheti; a végzés ellen fellebbezésnek van helye.
 
 15. § (1) A pénzügyi gondnok a 10. § (2) bekezdés e) pontjában meghatározott határidőben jelentkező hitelezőket nyilvántartásba veszi, követeléseiket megvizsgálja, majd a bejelentkezésre nyitva álló határidő lejártát követő 15 napon belül tájékoztatja a hitelezőket arról, hogy követeléseiket, illetve ezek biztosítékait elfogadja-e.
 
-(2) Amennyiben a pénzügyi gondnok a hitelező bírósági (hatósági) határozattal még el nem bírált követelését vitatja, azt a hitelező az általános hatáskörű bíróság előtt az elutasítás kézhezvételétől számított 15 napon belül indított eljárásban érvényesítheti. Erről a pénzügyi gondnokot – a keresetlevél (fizetési meghagyás) benyújtásával egyidejűleg – tájékoztatja. Folyamatban levő bírósági eljárás esetén az igény bejelentésével egyidejűleg a hitelezőnek csatolnia kell az ezt igazoló okiratot is.
+(2) Amennyiben a pénzügyi gondnok a hitelező bírósági (hatósági) határozattal még el nem bírált követelését vitatja, azt a hitelező a Pp. IV. Fejezete alapján hatáskörrel és illetékességgel rendelkező bíróság előtt az elutasítás kézhezvételétől számított 15 napon belül indított eljárásban érvényesítheti. Erről a pénzügyi gondnokot – a keresetlevél (fizetési meghagyás) benyújtásával egyidejűleg – tájékoztatja. Folyamatban levő bírósági eljárás esetén az igény bejelentésével egyidejűleg a hitelezőnek csatolnia kell az ezt igazoló okiratot is.
 
 (3) A (2) bekezdésben írt határidő elmulasztása esetén igazolási kérelemnek helye nincs, a hitelező a követelését a folyamatban lévő adósságrendezési eljárásban nem érvényesítheti.
 
@@ -280,9 +288,9 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - d) a kimutatást, amelyből megállapítható, hogy a 23. § (3) bekezdésében foglalt feltételeknek az egyezség megfelel,
 - e) a vitatott hitelezői igényekre vonatkozó kimutatást és a szükséges iratokat arra vonatkozóan, hogy ezek kielégítése a 23. § (5)–(6) bekezdés szerinti módon biztosítva van.
 
-(3) Ha az egyezség megfelel az e törvényben foglalt követelményeknek, a bíróság az adósságrendezési eljárást befejezi, és elrendeli e végzésnek a jogerőre emelkedését követően a Cégközlönyben való közzétételét. Ha az egyezség nem felel meg az e törvényben foglalt követelményeknek, a bíróság elrendeli az eljárás lefolytatását a 29. §-ban foglaltak szerint. Az eljárást befejező végzés ellen felülvizsgálatnak helye nincs.
+(3) Ha az egyezség megfelel az e törvényben foglalt követelményeknek, a bíróság végzéssel jóváhagyja, az adósságrendezési eljárást befejezetté nyilvánítja, és elrendeli e végzésnek a jogerőre emelkedését követően a Cégközlönyben való közzétételét. Az egyezséget jóváhagyó és eljárást befejezettnek nyilvánító végzés ellen fellebbezésnek van helye; perújításnak és felülvizsgálatnak nincs helye. Ha az egyezség nem felel meg az e törvényben foglalt követelményeknek, a bíróság az egyezség jóváhagyását megtagadja, és elrendeli az eljárás folytatását a 29. §-ban szabályozott vagyonfelosztási szabályok szerint.
 
-(4) Az adósságrendezési eljárás befejezésével egyidejűleg a bíróság külön végzésben a pénzügyi gondnokot felmenti, és – a 33. §-ban foglaltak szerint – megállapítja a díját.
+(4) Az adósságrendezési eljárás befejezésével egyidejűleg a bíróság külön végzésben a pénzügyi gondnokot felmenti, és – a 33. §-ban foglaltak szerint – megállapítja a díját. A végzés díjmegállapító rendelkezése ellen a pénzügyi gondnok és a miniszter részéről fellebbezésnek van helye.
 
 (5) Amennyiben az adósságrendezés megindításának időpontjától számított 240 napon belül nem jön létre egyezség, úgy ezt a pénzügyi gondnok 3 napon belül bejelenti a bírósághoz.
 
@@ -346,15 +354,15 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (2) A helyi önkormányzat és a hitelezők a jelentés és a vagyonfelosztási javaslat ellen a kézhezvételtől számított 15 napon belül kifogással élhetnek, illetve a hitelezők ennek ismeretében követelésükről lemondhatnak.
 
-(3) A bíróság a kifogást előterjesztő, továbbá a pénzügyi gondnok és a polgármester meghallgatása után dönt a vagyonfelosztási javaslatról.
+(3) A bíróság a kifogást előterjesztő, továbbá a pénzügyi gondnok és a polgármester meghallgatása után dönt a vagyonfelosztási javaslatról. A vagyonfelosztás jóváhagyása tárgyában hozott végzés ellen fellebbezésnek van helye.
 
-(4) Ha a bíróság a vagyonfelosztási javaslatot jóváhagyja, kötelezi a pénzügyi gondnokot a vagyonfelosztás végrehajtására. A vagyonfelosztás megtörténtét a pénzügyi gondnok haladéktalanul köteles bejelenteni a bíróságnak. A bejelentést követően a bíróság az adósságrendezési eljárást végzéssel befejezi, a végzés ellen felülvizsgálatnak helye nincs.
+(4) Ha a bíróság a vagyonfelosztási javaslatot jóváhagyja, kötelezi a pénzügyi gondnokot a vagyonfelosztás végrehajtására. A vagyonfelosztás megtörténtét a pénzügyi gondnok haladéktalanul köteles bejelenteni a bíróságnak. A bejelentést követően a bíróság az adósságrendezési eljárást végzéssel befejezetté nyilvánítja; a végzés ellen fellebbezésnek van helye, perújításnak és felülvizsgálatnak nincs helye.
 
-(4a) Ha a (4) bekezdés szerinti jóváhagyást megelőzően a helyi önkormányzat és hitelezői a hitelezők követelésének kielégítését célzó egyezséget kötnek és az egyezség megfelel a jogszabályoknak, a bíróság az adósságrendezési eljárást végzéssel befejezi. Az egyezségkötésre és a bíróság végzésére a 20. § (3) és (4) bekezdését, a 20/A. §-t, a 22. § (3) és (4) bekezdését, a 22/A–24. §-t, a 25. § (1)–(4) bekezdését, a 26. §-t és a 27. §-t kell alkalmazni.
+(4a) Ha a (4) bekezdés szerinti jóváhagyást megelőzően a helyi önkormányzat és hitelezői a hitelezők követelésének kielégítését célzó egyezséget kötnek, és az egyezség megfelel a jogszabályoknak, a bíróság az egyezséget végzéssel jóváhagyja és az adósságrendezési eljárást befejezetté nyilvánítja. Az egyezségkötésre és a bíróság végzésére a 20. § (3) és (4) bekezdését, a 20/A. §-t, a 22. § (3) és (4) bekezdését, a 22/A–24. §-t, a 25. § (1)–(4) bekezdését, a 26. §-t és a 27. §-t kell alkalmazni. Az egyezség jóváhagyása tárgyában hozott végzés ellen fellebbezésnek van helye, perújításnak és felülvizsgálatnak nincs helye.
 
-(5) A bíróság az eljárást befejező végzéssel egyidejűleg a pénzügyi gondnokot e tisztsége alól felmenti, és megállapítja díját. A végzés díjmegállapító rendelkezése ellen a pénzügyi gondnok és a miniszter fellebbezhet.
+(5) A bíróság az eljárást befejezetté nyilvánító végzésben a pénzügyi gondnokot e tisztsége alól felmenti, és megállapítja díját. A végzés díjmegállapító rendelkezése ellen a pénzügyi gondnok és a miniszter fellebbezhet.
 
-(6) Az adósságrendezési eljárás befejezését a bíróság a Cégközlönyben közzéteszi.
+(6) Az adósságrendezési eljárást befejezetté nyilvánító végzést a bíróság a Cégközlönyben haladéktalanul közzéteszi.
 
 ### V. Fejezet — Egyéb rendelkezések
 

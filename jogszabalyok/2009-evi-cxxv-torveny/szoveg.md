@@ -122,7 +122,7 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 (7) A Névjegyzéket vezető hatóság a büntetlen előéletre vagy a tolmácsfoglalkozás gyakorlásától eltiltásra vonatkozó kizáró feltétel fennállását bármikor ellenőrizheti. Felhívására a Névjegyzékbe bejelentkező vagy az abban szereplő jelnyelvi tolmács hatósági bizonyítvánnyal igazolja, hogy vele szemben nem áll fenn a kizáró feltétel.
 
-(8) A hatósági bizonyítványban foglalt adatokat a Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvi tolmács adatainak a Névjegyzékből való törlésére kerül sor, a törlési eljárás jogerős befejezéséig kezelheti.
+(8) A hatósági bizonyítványban foglalt adatokat a Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvi tolmács adatainak a Névjegyzékből való törlésére kerül sor, a törlési eljárás végleges döntéssel történő befejezéséig kezelheti.
 
 (9) A Névjegyzéket vezető hatóság az adatokat a Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Névjegyzékből való törlést követően a Névjegyzéket vezető hatóság – adatigénylésre – a jelnyelvi tolmács tevékenységével összefüggő büntetőeljárásban az eljárás lefolytatásához a nyomozó hatóságnak, az ügyészségnek és a bíróságnak szolgáltat adatot.
 
@@ -333,16 +333,15 @@ szövegrész lép.
 (6) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a Névjegyzéket vezető hatóság kijelölésére vonatkozó rendelkezéseket,
-- b) a jelnyelv oktatásának megszervezésére és finanszírozására vonatkozó
+- b) a jelnyelv oktatásának megszervezésére és finanszírozására vonatkozó,
+- c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére, a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint azok bejelentésére, igazolására és ellenőrzésére vonatkozó
 
 részletes szabályokat.
 
 (7) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) a jelnyelvi tolmácsszolgálatok pályáztatásával összefüggő szabályokat és a térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására vonatkozó részletes szabályokat,
-- b) a térítésmentes jelnyelvi tolmácsszolgáltatás igénybevételének részletes szabályait, továbbá
-- c) az e törvény szerinti jelnyelvi tolmácsolási tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékének személyes adatot nem tartalmazó adattartalmát, a bejelentésre és a Névjegyzék vezetésére vonatkozó részletes eljárási szabályokat,
-- d) a jelnyelvi tolmácsolási tevékenységet folytatók Névjegyzékén szereplő jelnyelvi tolmácsok kötelező továbbképzésére, szakmai gyakorlatára, valamint az azok bejelentésére, igazolására és ellenőrzésére vonatkozó szabályokat.
+- b) a térítésmentes jelnyelvi tolmácsszolgáltatás igénybevételének részletes szabályait.
 
 (8)
 

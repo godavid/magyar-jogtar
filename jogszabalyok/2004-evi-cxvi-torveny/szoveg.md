@@ -726,65 +726,12 @@ Ennek hiteléül a kellően meghatalmazott alulírottak jelen Egyezményt aláí
 
 Készült Hágában, 1970. március 18. napján, angol és francia nyelven, mindkét szöveg egyaránt hiteles, egy példányban, amely Hollandia Kormányának levéltárában kerül elhelyezésre, és amelyről diplomáciai úton hiteles másolat kerül megküldésre azon Államoknak, amelyek a Hágai Nemzetközi Magánjogi Értekezlet tizenegyedik ülésszakán képviseltették magukat.”
 
-3. § A Magyar Köztársaság az Egyezményhez – csatlakozási okiratának letétbe helyezésekor – az alábbi fenntartásokat, illetőleg nyilatkozatokat tette:
+3. § Magyarország az Egyezményhez az alábbi fenntartásokat, illetőleg nyilatkozatokat teszi:
 
-- a) fenntartások az Egyezmény 33. cikke alapján – a 4. cikk második bekezdéséhez:
+- a) fenntartások az Egyezmény 33. cikke alapján – a 4. Cikk második bekezdéséhez: Magyarország az Egyezmény 4. Cikke második bekezdésének alkalmazását kizárja. – a 16. Cikkhez: Magyarország az Egyezmény 16. Cikkének alkalmazását kizárja. – a 18. Cikkhez: A diplomáciai vagy konzuli képviselő által az Egyezmény 15. Cikke, illetőleg a megbízott által az Egyezmény 17. Cikke alapján történő bizonyításfelvételhez a magyar hatóságok nem nyújtanak támogatást kényszerítő eszközök alkalmazása útján.
+- b) nyilatkozatok az Egyezményhez – a 2. Cikkhez: Magyarországon az Egyezmény 2. Cikke szerinti Központi Hatóság feladatait az igazságügyért felelős miniszter által vezetett minisztérium látja el. – a 8. Cikkhez: A megkereső bíróság tagjai a magyar Központi Hatóság előzetes hozzájárulásával jelen lehetnek a megkeresett bíróság által foganatosított bizonyításfelvételi cselekménynél. – a 15. Cikkhez: Az Egyezmény 15. Cikke alapján más Szerződő Állam diplomáciai vagy konzuli képviselője Magyarország területén a magyar hatóságok előzetes hozzájárulása nélkül foganatosíthat bizonyítási cselekményt az általa képviselt Szerződő Államban folyamatban lévő eljárás céljára, feltéve, hogy az olyan személyt érint, aki kizárólag a diplomáciai vagy konzuli képviselő küldő Államának polgára. A bizonyítási cselekmény kényszer, illetőleg hátrányos jogkövetkezmény alkalmazásával vagy kilátásba helyezésével nem járhat. – a 17. Cikkhez: Az Egyezmény 17. Cikkének második bekezdése szerinti engedélyt Magyarországon a Központi Hatóság jogosult megadni. – a 23. Cikkhez: A magyar hatóságok nem teljesítenek olyan megkereséseket, amelyeket „pre-trial discovery of documents” néven ismert eljárás tárgyában terjesztettek elő, kivéve, ha a jogsegélykérelem pontosan megjelöli azon okiratot, amelyet birtokosának rendelkezésre kell bocsátania, és ez az okirat az eljárás céljával közvetlen kapcsolatban áll.
 
-„A Magyar Köztársaság az Egyezmény 4. cikke második bekezdésének alkalmazását kizárja.”
-
-– a 16. cikkhez:
-
-„A Magyar Köztársaság az Egyezmény 16. cikkének alkalmazását kizárja.”
-
-– a 18. cikkhez:
-
-„A diplomáciai vagy konzuli képviselő által az Egyezmény 15. cikke, illetőleg a megbízott által az Egyezmény 17. cikke alapján történő bizonyításfelvételhez a magyar hatóságok nem nyújtanak támogatást kényszerítő eszközök alkalmazása útján.”
-
-- b) nyilatkozatok az Egyezményhez – a 2. cikkhez:
-
-„A Magyar Köztársaságban az Egyezmény 2. cikke szerinti Központi Hatóság feladatait az Igazságügyi Minisztérium látja el.”
-
-– a 8. cikkhez:
-
-„A megkereső bíróság tagjai a magyar Központi Hatóság előzetes hozzájárulásával jelen lehetnek a megkeresett bíróság által foganatosított bizonyításfelvételi cselekménynél.”
-
-– a 15. cikkhez:
-
-„Az Egyezmény 15. cikke alapján más Szerződő Állam diplomáciai vagy konzuli képviselője a Magyar Köztársaság területén a magyar hatóságok előzetes hozzájárulása nélkül foganatosíthat bizonyítási cselekményt az általa képviselt Szerződő Államban folyamatban lévő eljárás céljára, feltéve, hogy az olyan személyt érint, aki kizárólag a diplomáciai vagy konzuli képviselő küldő Államának polgára. A bizonyítási cselekmény kényszer, illetőleg hátrányos jogkövetkezmény alkalmazásával vagy kilátásba helyezésével nem járhat.”
-
-– a 17. cikkhez:
-
-„Az Egyezmény 17. cikkének második bekezdése szerinti engedélyt a Magyar Köztársaságban a Központi Hatóság jogosult megadni.”
-
-– a 23. cikkhez:
-
-„A magyar hatóságok nem teljesítenek olyan megkereséseket, amelyeket „pre-trial discovery of documents” néven ismert eljárás tárgyában terjesztettek elő.”
-
-4. § (1) Az Egyezmény 17. cikkének második bekezdése szerinti engedély iránti kérelmet az igazságügyért felelős miniszterhez kell benyújtani magyar, angol, francia vagy német nyelven. A kérelemben meg kell jelölni az alábbiakat:
-
-- a) az eljáró külföldi bíróság megnevezését és ügyszámát;
-- b) az eljárásában érintett felek, illetve képviselőik nevét és lakóhelyét;
-- c) az eljárás tárgyát;
-- d) az ügy tényállásának rövid leírását;
-- e) annak a személynek a nevét és lakóhelyét, aki megbízottként a bizonyítási cselekményt belföldön foganatosítani kívánja;
-- f) a belföldön foganatosítandó bizonyítási cselekmény pontos megjelölését;
-- g) annak a személynek a nevét és lakóhelyét, akinek közreműködése a bizonyítási cselekmény foganatosításához szükséges.
-
-(2) A kérelemhez csatolni kell a bizonyítást foganatosító megbízottként eljáró személy részére szóló, a külföldi bíróság által hozott kirendelést vagy azzal egy tekintet alá eső okiratot. Az okiratot – nemzetközi szerződés eltérő rendelkezése hiányában – az illetékes magyar külképviseleti hatósággal felül kell hitelesíttetni.
-
-(3) Az igazságügyért felelős miniszter a kérelemnek nem ad helyt, amennyiben a foganatosítani szándékozott bizonyítási cselekmény a magyar közrendbe ütközne.
-
-(4) Amennyiben a bizonyítási cselekmény valamely személy meghallgatására irányul, a meghallgatás a magyar bíróság felügyelete mellett foganatosítható. Ha az igazságügyért felelős miniszter a kérelemnek helyt ad, értesíti azt a járásbíróságot, amelynek illetékességi területén a meghallgatni kívánt személy belföldi lakóhelye vagy szokásos tartózkodási helye található. E személyt meghallgatását megelőzően tájékoztatni kell arról, hogy
-
-- a) közreműködése önkéntes, annak megtagadása miatt belföldön joghátrány nem érheti,
-- b) a meghallgatás során jogosult anyanyelvét használni,
-- c) jogi képviselője a meghallgatás során jelen lehet,
-
-továbbá – tanúként történő kihallgatása esetén – őt ki kell tanítani a Polgári perrendtartásról szóló 1952. évi III. törvény 169–170. §-aiban foglaltakról.
-
-(5) Amennyiben a meghallgatás foganatosításához tolmács közreműködése szükséges, a tolmács díját a megbízottként eljáró személy köteles megtéríteni.
-
-(6) Az igazságügyért felelős miniszter az e § szerinti bizonyításfelvétel engedélyezésekor egyéb feltételeket is megszabhat.
+4. §
 
 5. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy ellássa az Egyezmény 2. cikke szerinti Központi Hatóság feladatkörét, és megállapítsa az e minőségben végzendő feladatai ellátásához szükséges részletes szabályokat.
 

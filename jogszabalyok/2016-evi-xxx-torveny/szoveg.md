@@ -172,7 +172,7 @@ megismerése nem korlátozható.
 
 (2) Az (1) bekezdés 6. pontja szerinti esetben az ajánlatkérő tájékoztatja az Európai Bizottságot (a továbbiakban: Bizottság) a kutatási és fejlesztési kiadásoknak a program teljes költségéhez képest számított arányáról, a költségmegosztási megállapodásról, valamint a beszerzések megosztása esetén a lefolytatni tervezett beszerzések arányáról.
 
-(3) Az (1) bekezdés 1., 4., 6., és 9. pontja szerinti esetben a beszerzés körülményeinek vizsgálatát követően – annak eredményétől függően – az egyedi feltételeket az iparügyekért felelős miniszter és a beszerzés tárgya tekintetében feladatkörrel rendelkező miniszter előterjesztése alapján a Kormány határozza meg. A beszerzésre vonatkozó egyedi feltételeket elsősorban a hazai védelmi ipar képességeinek fejlesztése körében kell előírni. Ha a vizsgálat eredményeképpen megállapításra kerül, hogy egyedi feltételek alkalmazása nem indokolt, arról nem kell külön előterjesztést tenni.
+(3) Az (1) bekezdés 4. pontja szerinti esetben a beszerzés körülményeinek vizsgálatát követően – annak eredményétől függően – az egyedi feltételeket az iparügyekért felelős miniszter és a beszerzés tárgya tekintetében feladatkörrel rendelkező miniszter előterjesztése alapján a Kormány határozza meg. A beszerzésre vonatkozó egyedi feltételeket elsősorban a hazai védelmi ipar képességeinek fejlesztése körében kell előírni. Ha a vizsgálat eredményeképpen megállapításra kerül, hogy egyedi feltételek alkalmazása nem indokolt, arról nem kell külön előterjesztést tenni.
 
 (4) Az (1) bekezdés 15. pontja alkalmazandó abban az esetben is, ha a beszerzési szerződést az irányított jogi személy ajánlatkérőként eljárva köti meg a felette irányítást gyakorló ajánlatkérővel, vagy az ajánlatkérő által az (1) bekezdés 15. pontja szerint irányított más jogi személlyel.
 
@@ -357,7 +357,7 @@ tulajdonában, vagy az a)–j) pont szerinti személlyel közös háztartásban 
 
 26. § (1) Az ajánlatkérő valamennyi beszerzési eljárását – annak előkészítésétől az eljárás alapján kötött szerződés teljesítéséig terjedően – írásban köteles dokumentálni.
 
-(2) A beszerzési eljárás előkészítésével, lefolytatásával és a szerződés teljesítésével kapcsolatban keletkezett összes iratot jogszabályban meghatározott ideig, de legalább a beszerzési eljárás lezárásától, illetve ha annak alapján szerződéskötésre került sor, a szerződés teljesítésétől számított öt évig meg kell őrizni. Ha a beszerzéssel kapcsolatban jogorvoslati eljárás indult, az iratokat annak – bírósági felülvizsgálat esetén a felülvizsgálat – befejezéséig, de legalább öt évig kell megőrizni.
+(2) A beszerzési eljárás előkészítésével, lefolytatásával és a szerződés teljesítésével kapcsolatban keletkezett összes iratot jogszabályban meghatározott ideig, de legalább a beszerzési eljárás lezárásától, illetve ha annak alapján szerződéskötésre került sor, a szerződés teljesítésétől számított öt évig meg kell őrizni. Ha a beszerzéssel kapcsolatban jogorvoslati eljárás indult, az iratokat annak – közigazgatási per esetén a közigazgatási per – befejezéséig, de legalább öt évig kell megőrizni.
 
 (3) Az ajánlatkérő köteles a jogorvoslati szerv, az illetékes ellenőrző vagy más illetékes szervek kérésére a beszerzéssel kapcsolatos iratokat megküldeni.
 
@@ -629,14 +629,14 @@ tulajdonában, vagy az a)–j) pont szerinti személlyel közös háztartásban 
 
 #### 28. Az ellátás biztonsága és az információk biztonsága
 
-43. § Az olyan beszerzések esetében, amelyek során minősített adatokat használnak fel, amelyek minősített adatokat igényelnek, illetve tartalmaznak, az ajánlatkérő a részvételi és ajánlattételi felhívásban, a dokumentációban, az ismertetőben vagy a kiegészítő iratokban meghatározza az érintett adatok megfelelő szintű biztonságának biztosításához szükséges intézkedéseket és követelményeket. Az ajánlatkérő előírhatja, hogy az ajánlat tartalmazza különösen a következőket:
+43. § Az olyan beszerzések esetében, amelyek során minősített adatokat használnak fel, amelyek minősített adatokat igényelnek, illetve tartalmaznak, az ajánlatkérő a részvételi és ajánlattételi felhívásban, a dokumentációban, az ismertetőben vagy a kiegészítő iratokban meghatározza az érintett adatok megfelelő szintű biztonságának biztosításához szükséges intézkedéseket és követelményeket. Az ajánlatkérő előírhatja, hogy a részvételi jelentkezés vagy az ajánlat tartalmazza különösen a következőket:
 
 - a) kötelezettségvállalást az ajánlattevő és az igénybe venni kívánt alvállalkozók részéről arra vonatkozóan, hogy megfelelően biztosítják az összes, birtokukban lévő, illetve a szerződés időtartama alatt vagy annak lezárása után tudomásukra jutó minősített adat védelmét a vonatkozó jogszabályokkal összhangban,
 - b) kötelezettségvállalást az ajánlattevő részéről arra vonatkozóan, hogy az a) pontban előírt kötelezettségvállalást megszerzi a szerződés teljesítése során általa alkalmazott többi alvállalkozótól,
 - c) elegendő információt az igénybe venni kívánt alvállalkozókról, amelyek az ajánlatkérő számára lehetővé teszik annak megállapítását, hogy ezek mindegyike rendelkezik a szükséges feltételekkel mindazon minősített adat védelméhez, amelyekhez hozzáférnek, illetve amelyek az alvállalkozásban elvégzett teljesítés során keletkeznek, vagy
 - d) az ajánlattevők kötelezettségvállalását a tekintetben, hogy az alvállalkozói szerződések odaítélése előtt az új alvállalkozókkal kapcsolatban átadják a c) pontban megkövetelt információkat.
 
-44. § (1) Az ajánlatkérő a részvételi, ajánlattételi felhívásban, a dokumentációban, az ismertetőben, illetve a kiegészítő iratokban megállapítja az ellátás biztonságára vonatkozó követelményeket. Az ajánlatkérő előírhatja, hogy az ajánlat tartalmazza többek között a következőket:
+44. § (1) Az ajánlatkérő a részvételi, ajánlattételi felhívásban, a dokumentációban, az ismertetőben, illetve a kiegészítő iratokban megállapítja az ellátás biztonságára vonatkozó követelményeket. Az ajánlatkérő előírhatja, hogy a részvételi jelentkezés vagy az ajánlat tartalmazza többek között a következőket:
 
 - a) olyan tanúsítványokat vagy dokumentumokat, amelyek bizonyítják az ajánlatkérő számára, hogy az ajánlattevő képes lesz teljesíteni a szerződéshez kapcsolódó áruk exportjával, szállításával és továbbításával kapcsolatos kötelezettségeit, ideértve az érintett tagállam vagy tagállamok részéről ezt alátámasztó dokumentációt,
 - b) az ajánlatkérőre vonatkozó minden olyan korlátozás feltüntetését, amely a termékek vagy szolgáltatások, illetve e termékek vagy szolgáltatások eredményének nyilvánosságra hozatalára, átadására vagy használatára vonatkozik, és amely exportkorlátozást vagy biztonsági intézkedéseket eredményezhet,
@@ -667,24 +667,24 @@ tulajdonában, vagy az a)–j) pont szerinti személlyel közös háztartásban 
 - 3. végelszámolás alatt áll vagy az ellene indult csődeljárás elrendeléséről szóló bírósági végzést tettek közzé, az ellene indított felszámolási eljárást jogerősen elrendelték, vagy ha a gazdasági szereplő személyes joga szerinti hasonló eljárás van folyamatban, vagy aki személyes joga szerint hasonló helyzetben van,
 - 4. tevékenységét felfüggesztette vagy akinek tevékenységét felfüggesztették,
 - 5. gazdasági, illetve szakmai tevékenységével kapcsolatban bűncselekmény elkövetése az elmúlt három éven belül jogerős bírósági ítéletben megállapítást nyert,
-- 6. három évnél nem régebben meghozott, jogerős bírósági, közigazgatási (vagy annak felülvizsgálata esetén bírósági határozat) megállapította, hogy valamely korábbi beszerzési eljárás, vagy az eljárás eredményeképp megkötött szerződés teljesítése során megszegte az információk biztonságával vagy az ellátás biztonságával kapcsolatos kötelezettségeit,
+- 6. vonatkozásában három évnél nem régebben meghozott, jogerős bírósági, vagy végleges közigazgatási vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági határozat megállapította, hogy valamely korábbi beszerzési eljárás, vagy az eljárás eredményeképp megkötött szerződés teljesítése során megszegte az információk biztonságával vagy az ellátás biztonságával kapcsolatos kötelezettségeit,
 - 7. tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdés b) pontja alapján, vagy az adott beszerzési eljárásban releváns módon c) vagy g) pontja alapján a bíróság jogerős ítéletében korlátozta, az eltiltás ideje alatt, vagy ha az ajánlattevő tevékenységét más bíróság hasonló okból és módon jogerősen korlátozta,
-- 8. beszerzési, közbeszerzési eljárásokban való részvételtől a a jogorvoslati szerv által jogerősen eltiltásra került, a jogerőre emelkedett határozatban megállapított időtartam végéig,
-- 9. korábbi beszerzési, közbeszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor az érintett közbeszerzési, vagy beszerzési eljárás lezárulásától számított három évig,
+- 8. beszerzési, közbeszerzési eljárásokban való részvételtől véglegesen vagy jogerősen eltiltásra került, a Közbeszerzési Döntőbizottság véglegesen vagy – a Közbeszerzési Döntőbizottság határozatának megtámadására irányuló közigazgatási per esetén – a bíróság által jogerősen megállapított időtartam végéig,
+- 9. korábbi beszerzési vagy közbeszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor, az érintett eljárás lezárulásától számított három évig, vagy amennyiben a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését a hamis adat szolgáltatásának megállapítása mellett a Közbeszerzési Döntőbizottság véglegessé vált – a Közbeszerzési Döntőbizottság határozatának közigazgatási perben történő megtámadása esetén a bíróság jogerős – három évnél nem régebben meghozott határozata jogszerűnek mondta ki,
 - 10. az adott eljárásban előírt adatszolgáltatási kötelezettség teljesítése során a hamis adatot szolgáltat, illetve hamis adatot tartalmazó nyilatkozatot tesz, ha
   - a) a hamis adat vagy nyilatkozat érdemben befolyásolja az ajánlatkérőnek a kizárásra, alkalmasság fennállására, az ajánlat műszaki leírásnak való megfelelőségére vagy az ajánlatok értékelésére vonatkozó döntését, és
   - b) a gazdasági szereplő szándékosan szolgáltatott hamis adatot vagy tett hamis nyilatkozatot, vagy az adott helyzetben általában elvárható gondosság mellett egyértelműen fel kellett volna ismernie, hogy az általa szolgáltatott adat a valóságnak, illetve nyilatkozata a rendelkezésére álló igazolások tartalmának nem felel meg,
 - 11. az adott eljárásban megkísérelte jogtalanul befolyásolni az ajánlatkérő döntéshozatali folyamatát, vagy olyan bizalmas információt kísérelt megszerezni, amely jogtalan előnyt biztosítana számára a beszerzési eljárásban, vagy korábbi beszerzési, közbeszerzési eljárásból ebből az okból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor az érintett beszerzési, közbeszerzési eljárás lezárulásától számított három évig,
 - 12. tekintetében a következő feltételek valamelyike megvalósul:
   - a) nem az Európai Unió, az Európai Gazdasági Térség vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában, a Kereskedelmi Világszervezet közbeszerzési megállapodásban részes államban vagy az EUMSZ 198. cikkében említett tengerentúli országok és területek bármelyikében vagy nem olyan államban rendelkezik adóilletőséggel, amellyel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van, vagy amellyel az Európai Uniónak kétoldalú megállapodása van a közbeszerzés terén,
-  - b) olyan szabályozott tőzsdén nem jegyzett társaság, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 3. § r) pont ra)–rb) vagy rc)–rd) alpontja szerinti tényleges tulajdonosát nem képes megnevezni, vagy
+  - b) olyan társaság, amely a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pont a)–b) vagy d) alpontja szerinti tényleges tulajdonosát nem képes megnevezni, vagy
   - c) a gazdasági szereplőben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik olyan jogi személy vagy személyes joga szerint jogképes szervezet, amelynek tekintetében a b) alpont szerinti feltétel fennáll;
-- 13. harmadik országbeli állampolgár Magyarországon engedélyhez kötött foglalkoztatása esetén a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 7/A. §-a alapján két évnél nem régebben jogerőre emelkedett közigazgatási – vagy annak felülvizsgálata esetén bírósági – határozatban megállapított és a központi költségvetésbe történő befizetésre kötelezéssel vagy az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti közrendvédelmi bírsággal sújtott jogszabálysértést követett el,
+- 13. harmadik országbeli állampolgár Magyarországon engedélyhez kötött foglalkoztatása esetén a munkaügyi hatóság által a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 7/A. §-a alapján két évnél nem régebben véglegessé vált közigazgatási – vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági – határozatban megállapított és a központi költségvetésbe történő befizetésre kötelezéssel vagy az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti közrendvédelmi bírsággal sújtott jogszabálysértést követett el,
 - 14. esetében a 9. § szerinti összeférhetetlenségből, illetve a beszerzési eljárás előkészítésében való előzetes bevonásból eredő versenytorzulást a gazdasági szereplő kizárásán kívül nem lehet más, kevésbé kényszerítő intézkedésekkel hatékonyan orvosolni,
-- 15. a Tpvt. 11. §-a, vagy az EUMSZ 101. cikke szerinti – három évnél nem régebben meghozott – jogerős és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozatában megállapított és bírsággal sújtott jogszabálysértést követett el; vagy ha az ajánlattevő ilyen jogszabálysértését más versenyhatóság vagy bíróság – három évnél nem régebben – jogerősen megállapította és egyúttal bírságot szabott ki,
+- 15. a Tpvt. 11. §-a, vagy az EUMSZ 101. cikke szerinti – három évnél nem régebben meghozott – véglegessé vált és végrehajtható versenyfelügyeleti határozatban vagy a versenyfelügyeleti határozat megtámadására irányuló közigazgatási per esetén a bíróság jogerős és végrehajtható határozatában megállapított és bírsággal sújtott jogszabálysértést követett el; vagy ha az ajánlattevő ilyen jogszabálysértését más versenyhatóság végleges döntésében vagy bíróság jogerősen – három évnél nem régebben – megállapította és egyúttal bírságot szabott ki,
 - 16. esetében az ajánlatkérő kellően megalapozott információval rendelkezik annak megállapításához, hogy az adott beszerzési eljárásban az ajánlattevő a Tpvt. 11. §-a, vagy az EUMSZ 101. cikkébe ütköző jogsértést követett el, kivéve, ha a gazdasági szereplő az ajánlat, tárgyalásos eljárásban és versenypárbeszédben végleges ajánlat benyújtását megelőzően a Gazdasági Versenyhivatal számára a Tpvt. 11. §-ába vagy az EUMSZ 101. cikkébe ütköző magatartást feltárja és a Tpvt. 78/A. § (2) bekezdésében foglalt, a bírság mellőzésére vonatkozó feltételek fennállását a Gazdasági Versenyhivatal a Tpvt. 78/C. § (2) bekezdése szerinti végzésében megállapította,
 - 17. a tevékenység végzéséhez a letelepedése szerinti országban előírt engedéllyel, illetve előírt szervezeti, kamarai tagsággal nem rendelkezik, vagy
-- 18. a 101. § szerinti előleget nem a szerződésnek megfelelően használta fel, és ezt három évnél nem régebben meghozott, jogerős bírósági, közigazgatási, vagy annak felülvizsgálata esetén bírósági határozat megállapította.
+- 18. a 101. § szerinti előleget nem a szerződésnek megfelelően használta fel, és ezt három évnél nem régebben meghozott, jogerős bírósági, véglegessé vált közigazgatási vagy annak megtámadására irányuló közigazgatási per esetén jogerős bírósági határozat megállapította.
 
 (2) A gazdasági szereplő akkor sem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt ajánlattevő vagy részvételre jelentkező alkalmasságának igazolásában, ha
 
@@ -712,7 +712,7 @@ kell érteni.
 
 46. § (1) Az ajánlatkérő az eljárást megindító felhívásban előírhatja, hogy az eljárásban nem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, illetve nem vehet részt alkalmasság igazolásában olyan gazdasági szereplő, aki
 
-- a) három évnél nem régebben hozott jogerős bírósági, közigazgatási vagy annak felülvizsgálata esetén bírósági határozat megállapította, hogy jogszabályban meghatározott szakmai kötelezettségét – a c) pontban meghatározott eset kivételével – súlyosan megszegte vagy külön jogszabályban meghatározott szakmai szervezet etikai eljárása által megállapított, súlyos, szakmai etikai szabályokba ütköző cselekedetet követett el,
+- a) három évnél nem régebben hozott jogerős bírósági, véglegessé vált közigazgatási vagy annak közigazgatási perben való megtámadása esetén jogerős bírósági határozat megállapította, hogy jogszabályban meghatározott szakmai kötelezettségét – a b) pontban meghatározott eset kivételével – súlyosan megszegte vagy külön jogszabályban meghatározott szakmai szervezet etikai eljárása által megállapított, súlyos, szakmai etikai szabályokba ütköző cselekedetet követett el,
 - b) korábbi közbeszerzési vagy beszerzési eljárás alapján vállalt szerződéses kötelezettségét az elmúlt három évben súlyosan megszegte, és ez az említett korábbi szerződés felmondásához vagy elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, vagy ha a nyertes ajánlattevőként szerződő fél olyan magatartása, amelyért felelős részben vagy egészben a szerződés lehetetlenülését okozta, vagy
 - c) korábbi közbeszerzési vagy beszerzési eljárás eredményeként kötött szerződésével kapcsolatban az alvállalkozója felé jogerős bírósági ítéletben három éven belül megállapított szerződésszegést követett el, amelynek során az alvállalkozó felé fennálló vég- vagy részszámlából fakadó fizetési kötelezettségét 10%-ot meghaladó részben nem teljesítette annak ellenére, hogy az ajánlatkérőként szerződést kötő fél a részére határidőben fizetett.
 
@@ -727,7 +727,7 @@ kell érteni.
 - a) többszakaszos eljárás esetén a beszerzési eljárás részvételi, egyszakaszos eljárás esetén ajánlattételi felhívás feladásának vagy megküldésének napját követően kelt, illetékes bíróság vagy hatóságok nyilvántartásának kivonatát, hatósági erkölcsi bizonyítványt, vagy az illetékes bíróság vagy hatóság által kibocsátott olyan, ezzel egyenértékű okiratot, amely igazolja a 45. § (1) és (2) bekezdésében, valamint ha ajánlatkérő előírta, az (1) bekezdésben foglalt kizáró okok fenn nem állását, vagy
 - b) ha az adott állam illetékes bírósága vagy hatósága nem bocsát ki az a) pont szerinti kivonatot vagy okiratot, vagy azok nem terjednek ki az a) pontban hivatkozott esetek mindegyikére, a részvételre jelentkező vagy ajánlattevő eskü alatt tett nyilatkozatát, vagy ha ilyen nyilatkozat nem tehető az érintett országban, az ajánlattevő, részvételre jelentkező, alvállalkozó, illetve az alkalmasság igazolásában részt vevő gazdálkodó szervezet által bíróság, hatóság, közjegyző, kamara vagy szakmai szervezet előtt tett, vagy általuk hitelesített nyilatkozatot.
 
-(6) Ha Magyarországon letelepedett ajánlattevő esetén a kizáró ok fenn nem állása az ajánlatkérő számára ingyenesen elérhető, közhiteles hatósági vagy bírósági nyilvántartásból is megállapítható, a kizáró ok fenn nem állását az ajánlatkérő ellenőrzi a nyilvántartásban szereplő adatok alapján.
+(6) Ha Magyarországon letelepedett részvételre jelentkező vagy ajánlattevő esetén a kizáró ok fenn nem állása az ajánlatkérő számára ingyenesen elérhető, közhiteles hatósági vagy bírósági nyilvántartásból is megállapítható, a kizáró ok fenn nem állását az ajánlatkérő ellenőrzi a nyilvántartásban szereplő adatok alapján.
 
 #### 30. Az alkalmassági követelmények
 
@@ -754,7 +754,7 @@ kell érteni.
 
 - a) az előző legfeljebb öt év legjelentősebb szállításainak ismertetésével, melynek tartalmaznia kell legalább a szerződés tárgya, mennyisége, vagy az ellenszolgáltatás összege, a teljesítés helye és ideje, a szerződést kötő másik fél megnevezése ismertetését, és az arra vonatkozó nyilatkozatot, hogy a teljesítés szerződésszerűen történt-e, az ajánlatkérő jogosult továbbá előírni az alkalmasság megállapításához szükséges további adat megadását is,
 - b) a műszaki-technikai felszereltségének, a minőség biztosítása érdekében tett intézkedéseinek, illetve vizsgálati és kutatási eszközeinek leírásával,
-- c) azoknak a szakembereknek, szervezeteknek, illetve vezetőknek a megnevezésével, képzettségük ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
+- c) azoknak a szakembereknek, szervezeteknek, illetve vezetőknek a megnevezésével, képzettségük, szakmai tapasztalatuk ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
 - d) a beszerzendő áru leírásával, mintapéldányának, illetve fényképének bemutatásával, amelynek hitelességét az ajánlatkérő felhívására igazolni kell,
 - e) elismert, bármely nemzeti rendszerben akkreditált tanúsító szervezettől származó tanúsítvánnyal, amely tanúsítja, hogy a leírásokra vagy szabványokra történő hivatkozással egyértelműen meghatározott áru megfelel bizonyos leírásoknak vagy szabványoknak,
 - f) a termelési képességéről, vizsgálati és kutatási eszközeiről, illetve minőségbiztosítási intézkedéseiről az ajánlatkérő vagy más szervezet által végzett vizsgálattal, ha az áru összetett, vagy ha különleges célt szolgál,
@@ -764,9 +764,9 @@ kell érteni.
 (2) Az ajánlattevőnek vagy részvételre jelentkezőnek a szerződés teljesítéséhez szükséges műszaki, illetve szakmai alkalmassága szolgáltatás megrendelése esetében igazolható
 
 - a) az előző legfeljebb öt év legjelentősebb szolgáltatásainak ismertetésével, melynek tartalmaznia kell legalább a szerződés tárgya, mennyisége, vagy az ellenszolgáltatás összege, a teljesítés helye és ideje, a szerződést kötő másik fél megnevezése ismertetését, és az arra vonatkozó nyilatkozatot, hogy a teljesítés szerződésszerűen történt-e, az ajánlatkérő jogosult előírni az alkalmasság megállapításához szükséges további adat megadását is,
-- b) az ajánlattevő vagy részvételre jelentkező, illetve vezető tisztségviselői végzettségének és képzettségének ismertetésével, és különösen azon személyek végzettségének és képzettségének ismertetésével, akik a szolgáltatás teljesítéséért felelősek,
+- b) az ajánlattevő vagy részvételre jelentkező, illetve vezető tisztségviselői végzettségének, képzettségének és szakmai tapasztalatának ismertetésével, és különösen azon személyek végzettségének, képzettségének és szakmai tapasztalatának ismertetésével, akik a szolgáltatás teljesítéséért felelősek,
 - c) az előző legfeljebb három évre vonatkozóan az éves átlagos statisztikai állományi létszámáról és vezető tisztségviselőinek létszámáról készült kimutatással,
-- d) azoknak a szakembereknek, szervezeteknek, illetve vezetőknek a megnevezésével, képzettségük ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
+- d) azoknak a szakembereknek, szervezeteknek, illetve vezetőknek a megnevezésével, képzettségük, szakmai tapasztalatuk ismertetésével, akiket be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
 - e) a teljesítéshez rendelkezésre álló eszközök, berendezések, illetve műszaki felszereltség leírásával,
 - f) a minőség biztosítása érdekében tett intézkedéseinek, illetve vizsgálati és kutatási eszközeinek leírásával, valamint azon környezetvédelmi intézkedéseinek megjelölésével, amelyeket a szerződés teljesítése során alkalmazni tud,
 - g) a termelési képességéről, illetve vizsgálati és kutatási eszközeiről, minőségbiztosítási intézkedéseiről az ajánlatkérő vagy más szervezet által végzett vizsgálattal, ha a szolgáltatás összetett, vagy ha az különleges célt szolgál,
@@ -779,9 +779,9 @@ kell érteni.
 - a) az előző öt évben megvalósított építési beruházások ismertetésével, a beszerzés tárgyához illeszkedő legjelentősebb munkák megfelelő elvégzésére vonatkozó igazolásokkal a következőkben meghatározott tartalommal, melyeket adott esetben ennek megrendelője közvetlenül nyújt be az ajánlatkérőnek:
   - aa) az építési beruházások értéke, teljesítésének időpontja, helyszíne és
   - ab) annak igazolása, hogy az építési beruházások a szakmai szabályoknak megfelelően valósultak meg, és azokat szabályszerűen fejezték be;
-- b) az ajánlattevő vagy részvételre jelentkező, valamint vezető tisztségviselői végzettségének és képzettségének ismertetésével, különösen azon személyek végzettségének és képzettségének ismertetésével, akik az építési beruházás teljesítéséért felelősek,
+- b) az ajánlattevő vagy részvételre jelentkező, valamint vezető tisztségviselői végzettségének, képzettségének és szakmai tapasztalatának ismertetésével, különösen azon személyek végzettségének, képzettségének és szakmai tapasztalatának ismertetésével, akik az építési beruházás teljesítéséért felelősek,
 - c) az előző legfeljebb három évre vonatkozóan az éves átlagos statisztikai állományi létszámáról és vezető tisztségviselőinek létszámáról készült kimutatással,
-- d) azoknak a szakembereknek vagy szervezeteknek és vezetőknek a megnevezésével, képzettségük ismertetésével, akiket az ajánlattevő be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
+- d) azoknak a szakembereknek vagy szervezeteknek és vezetőknek a megnevezésével, képzettségük, szakmai tapasztalatuk ismertetésével, akiket az ajánlattevő be kíván vonni a teljesítésbe, különösen azok bemutatásával, akik a minőség-ellenőrzésért felelősek,
 - e) a teljesítéshez rendelkezésre álló eszközök, berendezések és műszaki felszereltség leírásával,
 - f) a minőség biztosítása érdekében tett intézkedéseinek, vizsgálati és kutatási eszközeinek leírásával és azon környezetvédelmi intézkedéseinek megjelölésével, amelyeket a szerződés teljesítése során alkalmazni tud, valamint
 - g) a minősített adatokat érintő, igénylő vagy tartalmazó beszerzési szerződések esetében arra vonatkozó dokumentumokkal, hogy az ajánlattevő vagy részvételre jelentkező alkalmas az ilyen adatoknak az ajánlatkérő által elvárt biztonsági szinten történő kezelésére.
@@ -937,7 +937,7 @@ vonatkozik.
 
 (2) Az (1) bekezdésben foglaltakon túl az ajánlat érvénytelen, ha aránytalanul alacsony ellenszolgáltatást vagy más teljesíthetetlen feltételt tartalmaz.
 
-(3) Az (1) bekezdésben foglaltakon túl a részvételi jelentkezés az 57. § (3) bekezdésére figyelemmel érvénytelen, ha a részvételre jelentkező ajánlatot tesz.
+(3) Az (1) bekezdésben foglaltakon túl a részvételi jelentkezés az 51. § (3) bekezdésére figyelemmel érvénytelen, ha a részvételre jelentkező ajánlatot tesz.
 
 (4) Az (1) bekezdés e) pontja alapján érvénytelen különösen az ajánlat,
 
@@ -1391,15 +1391,18 @@ ha álláspontja szerint egészben vagy részben jogsértő az eljárást megind
 
 ### X. Fejezet — A VÉDELMI ÉS BIZTONSÁGI BESZERZÉSEK UNIÓS ÉRTÉKHATÁRAIT EL NEM ÉRŐ ÉRTÉKŰ VÉDELMI BESZERZÉSEK SZABÁLYAI
 
-#### 47. Kivételek
+#### 47. Alkalmazandó eljárási szabályok és kivételek
 
-87. § (1) E törvényt nem kell alkalmazni a védelmi és biztonsági beszerzések uniós értékhatárait el nem érő értékű
+87. § (1) A II. Rész rendelkezéseit az e részben meghatározott eltérésekkel kell az ajánlatkérőnek alkalmaznia az uniós értékhatárt el nem érő értékű védelmi beszerzések megvalósításakor, továbbá a 17. § (4) bekezdésében foglalt esetben.
 
-- a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5., 7., és 9. pontja, valamint szükség- vagy veszélyhelyzet esetén az állatok járványos megbetegedése, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre,
-- b) a fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások, illetve építési beruházás beszerzésére, valamint
-- c) a közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére.
+(2) E törvényt nem kell alkalmazni a védelmi és biztonsági beszerzések uniós értékhatárait el nem érő értékű
 
-(2) Az (1) bekezdés szerinti kivételek nem alkalmazhatóak a 17. § (4) bekezdése szerinti esetben.
+- a) a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 3. § 5., 7. és 9. pontja, valamint szükség- vagy veszélyhelyzet esetén az állatok járványos megbetegedése, a súlyos ipari vagy közlekedési baleset okozta kár, vízkár, illetve vízminőségi kár közvetlen megelőzése, elhárítása, védekezési készültség vagy az azt közvetlenül követő helyreállítás érdekében történő beszerzésre,
+- b) a fogvatartottak kötelező foglalkoztatása keretében előállított áruk vagy teljesített szolgáltatások, illetve építési beruházás beszerzésére,
+- c) a közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére, valamint
+- d) a NATO Ellátási és Beszerzési Ügynökségen keresztül történő beszerzésekre.
+
+(3) A (2) bekezdés szerinti kivételek nem alkalmazhatóak a 17. § (4) bekezdése szerinti esetben.
 
 #### 48. Hirdetmények közzététele
 
@@ -1560,9 +1563,9 @@ vonatkozó, sajátos feltételeket határozhat meg. Az ilyen szerződéses felt�
 
 (2) Az (1) bekezdés a) és b) pontjától eltérően a szerződés nem semmis, ha az ajánlatkérő azért nem folytatott le hirdetmény közzétételével induló beszerzési eljárást, vagy kötött beszerzési eljárás mellőzésével megállapodást, mert úgy ítélte meg, hogy a hirdetmény nélkül induló beszerzési eljárás alkalmazásával, vagy a beszerzési eljárás mellőzésével történő szerződéskötésre e törvény szerint lehetősége volt, szerződéskötési szándékáról külön jogszabályban meghatározott minta szerinti hirdetményt tett közzé, valamint a szerződést nem kötötte meg a hirdetmény közzétételét követő naptól számított tizedik napon belül.
 
-(3) Az (1) bekezdés c) pontjától eltérően a szerződés nem semmis, ha az ajánlatkérő úgy ítélte meg, hogy a 85. § (5) bekezdésében és a 86. § (2) bekezdésében meghatározottakkal összhangban járt el, a keretmegállapodás alapján történő beszerzés megvalósítása tárgyában hozott döntésről és annak indokairól tájékoztatta a keretmegállapodásban részes ajánlattevőket és a szerződést nem kötötte meg e tájékoztatás közlésétől számított tizedik napon belül.
+(3) Az (1) bekezdés d) pontjától eltérően a szerződés nem semmis, ha az ajánlatkérő úgy ítélte meg, hogy a 85. § (5) bekezdésében és a 86. § (2) bekezdésében meghatározottakkal összhangban járt el, a keretmegállapodás alapján történő beszerzés megvalósítása tárgyában hozott döntésről és annak indokairól tájékoztatta a keretmegállapodásban részes ajánlattevőket és a szerződést nem kötötte meg e tájékoztatás közlésétől számított tizedik napon belül.
 
-(4) Az (1) bekezdés szerint megkötött szerződés esetében az érvénytelenség jogkövetkezményeinek alkalmazása során a bíróság a szerződést megkötésének időpontjára visszamenő hatállyal érvényessé nyilváníthatja, ha kiemelkedően fontos közérdek fűződik a szerződés teljesítéséhez. A szerződéshez közvetlenül kapcsolódó gazdasági érdek – így különösen a késedelmes teljesítésből, az új beszerzési eljárás lefolytatásából, a szerződő fél esetleges változásából vagy az érvénytelenségből következő kötelezettségekből eredő költség – nem tekinthető kiemelkedően fontos közérdeknek, a szerződés érvényességéhez fűződő további gazdasági érdekek pedig kizárólag akkor, ha a szerződés érvénytelensége aránytalan következményekkel járna.
+(4) Az (1) bekezdéstől eltérően a szerződés nem semmis, ha kiemelkedően fontos közérdek fűződik a szerződés teljesítéséhez. A szerződéshez közvetlenül kapcsolódó gazdasági érdek – így különösen a késedelmes teljesítésből, az új beszerzési eljárás lefolytatásából, a szerződő fél esetleges változásából vagy az érvénytelenségből következő kötelezettségekből eredő költség – nem tekinthető kiemelkedően fontos közérdeknek, a szerződés érvényességéhez fűződő további gazdasági érdekek pedig kizárólag akkor, ha a szerződés érvénytelensége aránytalan következményekkel járna.
 
 (5) E törvény rendelkezései nem zárják ki a Ptk. 6:95. § alkalmazását a beszerzésre, illetve a beszerzési eljárásra vonatkozó jogszabályokba ütköző módon megkötött szerződés semmisségének megállapítása tekintetében. Az (1) bekezdésben foglalt eseteken kívül a beszerzési eljárás szabályainak – ide nem értve a szerződés tartalmi elemeit szabályozó rendelkezéseket – megsértése abban az esetben eredményezi a szerződés érvénytelenségét, ha az adott jogsértés súlyára és jellegére tekintettel a szerződés érvényessége a törvény céljaival és alapelveivel összeegyeztethetetlen lenne.
 
@@ -1659,7 +1662,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 #### 58. Önkéntes előzetes átláthatósági hirdetmény
 
-110. § Az ajánlatkérő a 104. § (2) bekezdése szerinti szerződéskötési szándékáról a 1986/2015/EU végrehajtási rendelet XII. mellékletében foglaltak szerinti önkéntes előzetes átláthatóságra vonatkozó hirdetményt tehet közzé.
+110. § Az ajánlatkérő a 104. § (2) bekezdése szerinti szerződéskötési szándékáról a védelmi és biztonsági beszerzések uniós értékhatárait elérő értékű szerződések vonatkozásában a 1986/2015/EU végrehajtási rendelet XII. mellékletében foglaltak szerinti, a védelmi és biztonsági beszerzések uniós értékhatárait el nem érő értékű szerződések vonatkozásában a honvédelemért felelős miniszter rendeletében meghatározottak szerinti önkéntes előzetes átláthatóságra vonatkozó hirdetményt tehet közzé.
 
 #### 59. Alvállalkozói szerződések
 
@@ -2015,9 +2018,18 @@ nem vehető jegyzékre.
 
 #### 77. A Közbeszerzési Döntőbizottság eljárására vonatkozó általános rendelkezések
 
-139. § (1) A Közbeszerzési Döntőbizottság eljárására – e törvény, valamint az e törvény felhatalmazása alapján alkotott kormányrendelet eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezéseit kell alkalmazni.
+139. § (1) A Közbeszerzési Döntőbizottság eljárására – e törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni.
+
+(1a) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban
+
+- a) ha e törvény másként nem rendelkezik, az E-ügyintézési tv.-ben meghatározott elektronikus úton történő kapcsolattartás kötelező,
+- b) nincs helye sommás eljárásnak,
+- c) a Közbeszerzési Döntőbizottság több ízben is hiánypótlásra hívhatja fel a kérelmezőt, és
+- d) a hiányzó védelmi vagy biztonsági beszerzési dokumentumok az ügyfél nyilatkozatával nem pótolhatóak.
 
 (2) A Közbeszerzési Döntőbizottság hatáskörébe tartozik – a szerződés módosításával vagy teljesítésével kapcsolatos polgári jogi igények miatt indult eljárás kivételével – a védelmi beszerzési eljárás alapján megkötött szerződés, valamint a biztonsági beszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése.
+
+(2a) A Közbeszerzési Döntőbizottság hatáskörébe tartozik a 104. § (1) bekezdése szerinti jogsértés alapján a szerződés semmisségének megállapítása, valamint a 104. § (4) bekezdésében foglalt körülmények alapján annak megállapítása, ha a 104. § (1) bekezdése szerinti jogsértéssel érintett szerződés nem semmis. A Közbeszerzési Döntőbizottság hatáskörébe tartozik továbbá annak megállapítása is, hogy a 104. § (1) bekezdésében meghatározott jogsértés miatt semmis szerződés esetén a szerződés érvénytelensége jogkövetkezményei alkalmazása körében az eredeti állapot helyreállítható-e.
 
 (3) A Közbeszerzési Döntőbizottság illetékessége az ország egész területére kiterjed.
 
@@ -2025,7 +2037,7 @@ nem vehető jegyzékre.
 
 (5) Nem tartozik a Közbeszerzési Döntőbizottság hatáskörébe a beszerzési eljárásban a jegyzékre kerülés érdekében lefolytatott eljárás, vagy a jegyzékből történő törlés szabályosságával kapcsolatos panaszok elbírálása.
 
-(6) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban a jogtanácsosi vagy ügyvédi képviselet kötelező.
+(6) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban a kamarai jogtanácsosi vagy ügyvédi képviselet kötelező.
 
 #### 78. Az eljáró közbeszerzési biztosok
 
@@ -2035,7 +2047,7 @@ nem vehető jegyzékre.
 
 (3) Az eljáró tanács elnökének feladata az eljárás előkészítése és levezetése. Az ideiglenes intézkedésen, a beszerzési ügy befejezését eredményező végzésen, valamint az ügy érdemében hozott határozaton (a továbbiakban: érdemi határozat) kívül az eljáró tanács elnöke megtehet minden olyan intézkedést és meghozhat minden olyan végzést, amelyet a törvény a Közbeszerzési Döntőbizottság hatáskörébe utal.
 
-141. § (1) A beszerzési ügyben – a Ket. 42. § (1) és (3) bekezdésében meghatározottakon túl – nem járhat el az a közbeszerzési biztos, aki
+141. § (1) A beszerzési ügyben – az Ákr. 22. § és 23. § (1) bekezdésében meghatározottakon túl – nem járhat el az a közbeszerzési biztos, aki
 
 - a) az ajánlatkérő, a beszerzési eljárást jogtalanul mellőzve beszerző, az ajánlattevő vagy az eljárást kezdeményező egyéb érdekelt szervezetben (a továbbiakban együtt: ügyfélszervezet) tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik,
 - b) olyan szervezetben rendelkezik tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll, vagy
@@ -2048,7 +2060,7 @@ nem vehető jegyzékre.
 - c) olyan szervezettel áll munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja, vagy abban tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll, vagy
 - d) olyan szervezettel áll közszolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
 
-(3) A közbeszerzési biztos a Közbeszerzési Döntőbizottság elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított három napon belül köteles bejelenteni, ha vele szemben az (1) vagy (2) bekezdésben, vagy a Ket. 42. § (1) vagy (3) bekezdésében meghatározott kizárási ok áll fenn. A közbeszerzési biztos a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
+(3) A közbeszerzési biztos a Közbeszerzési Döntőbizottság elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított három napon belül köteles bejelenteni, ha vele szemben az (1) vagy (2) bekezdésben, vagy az Ákr. 22. § vagy 23. § (1) bekezdésében meghatározott kizárási ok áll fenn. A közbeszerzési biztos a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
 
 (4) A kizárás kérdésében a Közbeszerzési Döntőbizottság elnöke dönt. Ha a Közbeszerzési Döntőbizottság elnöke az eljáró tanács tagjaként részt vesz az eljárásban, a kizárása kérdésében a Közbeszerzési Hatóság elnöke dönt.
 
@@ -2056,7 +2068,7 @@ nem vehető jegyzékre.
 
 #### 79. A jogorvoslati eljárás
 
-142. § (1) A Közbeszerzési Döntőbizottság eljárása kérelemre indul.
+142. § (1) A Közbeszerzési Döntőbizottság eljárása kérelemre indul. Az eljárás megindítására irányuló kérelem kizárólag írásban – a 139. § (1a) bekezdés a) pontjában foglaltak szerint –, a Közbeszerzési Döntőbizottság előtt terjeszthető elő.
 
 (2) Kérelmet nyújthat be az ajánlatkérő, a részvételre jelentkező, közös részvételi jelentkezés esetén bármelyik részvételre jelentkező, az ajánlattevő, közös ajánlattétel esetén bármelyik ajánlattevő, vagy az egyéb érdekelt, akinek jogát vagy jogos érdekét az e törvénybe ütköző tevékenység vagy mulasztás sérti vagy veszélyezteti (a továbbiakban együtt: kérelmező).
 
@@ -2087,7 +2099,7 @@ nem vehető jegyzékre.
 - a) a kérelmező és képviselőjének nevét, székhelyét vagy lakóhelyét, a kérelmezői jogosultságot alátámasztó tényeket,
 - b) a kérelemmel érintett beszerzési eljárás ajánlatkérőjének nevét, székhelyét, a beszerzés tárgyát és – részajánlattétel esetében – a jogorvoslattal érintett részt, vagy az e törvény szerinti eljárás mellőzésével történő beszerzés esetében a beszerző nevét, székhelyét és a beszerzés tárgyát,
 - c) a jogsértő esemény megtörténtének és a kérelmező arról való tudomásszerzésének időpontját valamennyi kérelmi elem tekintetében egyértelműen azonosíthatóan,
-- d) a megsértett jogszabályi rendelkezést valamennyi kérelmi elem tekintetében egyértelműen azonosíthatóan,
+- d) a megsértett jogszabályi rendelkezést valamennyi kérelmi elemre vonatkozóan, valamint a jogsértő eseményt és annak bizonyítékait,
 - e) a Közbeszerzési Döntőbizottság döntésére irányuló indítványt, ennek indokait valamennyi kérelmi elem tekintetében egyértelműen azonosíthatóan,
 - f) az ideiglenes intézkedés elrendelésére irányuló indítványt, ennek indokait,
 - g) a beszerzési ügy lehetséges érdekeltjeinek a kérelmező által ismert nevét, székhelyét vagy lakóhelyét, és
@@ -2109,9 +2121,9 @@ nem vehető jegyzékre.
 - d) 11–15 közötti számú kérelmi elem esetében a (2) bekezdés szerint meghatározott összeg 175%-a, és
 - e) 16 vagy afeletti számú kérelmi elem esetében a (2) bekezdés szerint meghatározott összeg kétszerese.
 
-145. § (1) A Közbeszerzési Döntőbizottság az ügy érdemében hozott határozatában a Ket. 158. § (1) bekezdésétől eltérően az eljárási költségekről való döntés keretében az igazgatási szolgáltatási díjról a (2) és (3) bekezdés szerint rendelkezik.
+145. § (1) A Közbeszerzési Döntőbizottság az ügy érdemében hozott határozatában az Ákr. 125–127. §-ától eltérően az eljárási költségekről való döntés keretében az igazgatási szolgáltatási díjról a (2) és (3) bekezdés szerint rendelkezik.
 
-(2) Ha a jogorvoslati ügyet lezáró érdemi határozatban a Közbeszerzési Döntőbizottság a 158. § (2) bekezdés b)–e) pontja szerinti döntéseket hoz, a befizetett igazgatási szolgáltatási díj kettőszázezer forintot meghaladó része a kérelmezőnek a Közbeszerzési Döntőbizottság érdemi határozatának megküldését követő nyolc napon belül visszajár. Az igazgatási szolgáltatási díj összegéből kettőszázezer forint ezekben az esetekben is a Közbeszerzési Hatóság saját bevétele, amelynek viseléséről a Közbeszerzési Döntőbizottság a Ket. szerint az eljárási költségekre vonatkozó általános szabályok szerint rendelkezik. Az alaptalan kérelem esetében a díj nem kerül visszatérítésre, a kérelmező viseli az igazgatási szolgáltatási díj teljes összegét.
+(2) Ha a jogorvoslati ügyet lezáró érdemi határozatban a Közbeszerzési Döntőbizottság a 158. § (2) bekezdés b)–e) pontja szerinti döntést hoz, a befizetett igazgatási szolgáltatási díj háromszázezer forintot meghaladó része a kérelmezőnek a Közbeszerzési Döntőbizottság érdemi határozatának megküldését követő nyolc napon belül visszajár. Az igazgatási szolgáltatási díj összegéből háromszázezer forint ezekben az esetekben is a Közbeszerzési Hatóság saját bevétele, amelynek viseléséről a Közbeszerzési Döntőbizottság az Ákr. szerint az eljárási költségekre vonatkozó általános szabályok szerint rendelkezik. Az alaptalan kérelem esetében a díj nem kerül visszatérítésre, a kérelmező viseli az igazgatási szolgáltatási díj teljes összegét.
 
 (3) Ha a kérelmező jogorvoslati kérelmében több jogsértés megállapítását is kérte, de a Közbeszerzési Döntőbizottság az ügy érdemében hozott határozatában a kérelemnek csak részben ad helyt, az igazgatási szolgáltatási díjnak a Közbeszerzési Hatóság (2) bekezdés szerinti saját bevételével csökkentett részét az alapos és alaptalan kérelmek arányának figyelembevételével téríti vissza a kérelmezőnek.
 
@@ -2121,26 +2133,36 @@ nem vehető jegyzékre.
 
 147. § (1) A Közbeszerzési Döntőbizottság a jogorvoslati eljárást legkésőbb a 142. § (1)–(7) bekezdésének, a 143. § (1) és (2) bekezdésének, valamint a 144. §-nak megfelelő kérelem beérkezését követő munkanapon indítja meg.
 
-(2) Ha a kérelem a 143. § (1) bekezdése szerinti adatokat nem tartalmazza, vagy a 144. § (1) bekezdése szerinti, az igazgatási szolgáltatási díj befizetéséről szóló igazolást, vagy a meghatalmazott képviselő meghatalmazását nem csatolták, a Közbeszerzési Döntőbizottság felhívja a kérelmezőt a hiányok öt napon belüli pótlására, és egyben figyelmezteti, hogy ha a kérelmet újból hiányosan nyújtja be, a Közbeszerzési Döntőbizottság azt el fogja utasítani. A hiánypótlási határidő elmulasztása esetén igazolásnak helye nincs.
+(2) A Közbeszerzési Döntőbizottság hiánypótlási felhívást bocsát ki, ha
+
+- a) a kérelem a 143. § (1) bekezdése szerinti adatokat nem tartalmazza,
+- b) nem csatolták a 144. § szerinti díj befizetéséről szóló igazolást,
+- c) nem csatolták a meghatalmazott képviselő meghatalmazását, vagy
+- d) a kérelmet és annak kötelező mellékleteit nem az E-ügyintézési tv.-ben meghatározott elektronikus úton nyújtották be.
+
+(2a) Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a Közbeszerzési Döntőbizottság a kérelmet visszautasítja, kivéve, ha a (3) bekezdés alkalmazásának van helye.
 
 (3) Ha a jogorvoslati eljárással érintett beszerzési eljárás irataiból a beszerzés becsült értéke a kérelmező számára nem ismerhető meg, ezen tényt jogorvoslati kérelmében köteles a Közbeszerzési Döntőbizottság tudomására hozni. Ez esetben a Közbeszerzési Döntőbizottság – a rendelkezésre álló adatok alapján – hiánypótlási felhívás keretében közli a kérelmezővel az igazgatási szolgáltatási díj alapjául szolgáló becsült érték összegét.
 
 (4) A becsült érték – részajánlattétel esetében a jogorvoslattal érintett rész értékének – megállapítása érdekében a Közbeszerzési Döntőbizottság az ajánlatkérőt adatközlésre hívhatja fel, amelyet az ajánlatkérő két munkanapon belül köteles teljesíteni.
 
-(5) A Közbeszerzési Döntőbizottság a kérelmet – a Ket. 30. §-ában foglaltakon túl – érdemi vizsgálat nélkül öt napon belül elutasítja, ha megállapítja, hogy
+(5) A Közbeszerzési Döntőbizottság az eljárást öt napon belül megszünteti, ha megállapítja, hogy az ajánlatkérő a beszerzési eljárást megindító hirdetményét, felhívását jogszerűen visszavonta.
 
-- a) a kérelmező a hiánypótlási felhívásnak a meghatározott határidő alatt nem tett eleget vagy a kérelmét újból hiányosan adta be, vagy
-- b) az ajánlatkérő a beszerzési eljárást megindító hirdetményét, felhívását jogszerűen visszavonta.
-
-(6) A Közbeszerzési Döntőbizottság a jogorvoslati eljárást akkor is megszünteti, ha az (5) bekezdés alapján a kérelem érdemi vizsgálat nélküli elutasításának lett volna helye, az elutasítási ok azonban az eljárás megindítását követően jutott a Közbeszerzési Döntőbizottság tudomására.
+(6)
 
 (7) A kérelmező az eljárás megindítására irányuló kérelmét vagy annak egyes kérelmi elemeit az érdemi határozat meghozataláig visszavonhatja.
 
-(8) Ha a Közbeszerzési Döntőbizottság a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja vagy a jogorvoslati eljárást a (6) bekezdésben foglalt okból megszünteti, az igazgatási szolgáltatási díj a kérelmezőnek visszajár. A kérelem vagy egyes kérelmi elemek visszavonása esetén a kérelmező a fenntartott kérelmi elemekre figyelemmel és a 144. § (3) bekezdésére figyelemmel tarthat igényt az igazgatási szolgáltatási díj visszatérítésére.
+(8) Ha a Közbeszerzési Döntőbizottság a jogorvoslati kérelmet visszautasítja vagy a jogorvoslati eljárást megszünteti, az igazgatási szolgáltatási díj a kérelmezőnek visszajár. A kérelem vagy egyes kérelmi elemek visszavonása esetén a kérelmező a fenntartott kérelmi elemekre figyelemmel és a 144. § (3) bekezdése szerint tarthat igényt az igazgatási szolgáltatási díj visszatérítésére.
 
-148. § (1) A Közbeszerzési Döntőbizottság az eljárás megindításáról az ügyfeleket és a beszerzési ügyben érdekelteket értesíti és felhívja, hogy öt napon belül küldjék meg észrevételeiket. A Közbeszerzési Döntőbizottság az értesítéshez csatolja a kérelmet.
+148. § (1) A Közbeszerzési Döntőbizottság az eljárás megindításáról a kérelmezőt, a beszerzési ügy ajánlatkérőjét és a beszerzési ügyben érdekelteket értesíti. A Közbeszerzési Döntőbizottság a beszerzési ügy ajánlatkérőjét és az (1a) bekezdés szerint részvételi szándékukat jelző, a beszerzési ügyben érdekelteket felhívja, hogy öt napon belül küldjék meg észrevételeiket. A Közbeszerzési Döntőbizottság a felhíváshoz csatolja a kérelmet. Ha az ajánlatkérővel az E-ügyintézési tv.-ben meghatározott elektronikus úton történő kapcsolattartás nem lehetséges, az ajánlatkérő részére a Közbeszerzési Döntőbizottság elektronikus levél, illetve telefax útján küldi meg az eljárás megindításáról szóló értesítést. A telefax útján történő értesítés kézbesítettnek minősül a sikeres visszaigazolás napján. Ha az értesítés megküldésére kizárólag elektronikus levél útján volt lehetőség, és az ajánlatkérő egy munkanapon belül az elektronikus levél fogadását nem igazolta vissza a Közbeszerzési Döntőbizottság számára, az eljárás megindításáról szóló értesítés az ajánlatkérő részére postai úton kerül kézbesítésre.
 
-(2) Az értesítéssel egyidejűleg a Közbeszerzési Döntőbizottság felhívja a beszerzési eljárás ajánlatkérőjét vagy a beszerzési eljárást mellőzve a beszerzőt a beszerzéssel kapcsolatban rendelkezésre álló összes irat – vagy ha ez nem szükséges, az általa meghatározott iratok – öt napon belüli megküldésére. Ha a kérelmet az ajánlatkérő nyújtja be, a rendelkezésére álló iratokat a kérelemmel együtt köteles megküldeni.
+(1a) A Döntőbizottság – az ajánlatkérőn, valamint a kérelmezőn kívüli – a beszerzési ügyben érdekelteket az eljárás megindításáról postai úton értesíti azzal, hogy az eljárás megindításáról szóló végzés átvételét követő három munkanapon belül az E-ügyintézési tv.-ben meghatározott elektronikus kapcsolattartás útján jelezhetik a jogorvoslati eljárásban történő részvételi szándékukat, a 139. § (6) bekezdése szerinti képviselő meghatalmazásának csatolásával. A részvételi szándék e bekezdés szerinti jelzését követően a részvételi szándékukat jelző érdekeltek részére a Közbeszerzési Döntőbizottság elektronikus úton küldi meg a kérelmet, illetve kezdeményező iratot, és a jogorvoslati eljárás során keletkezett iratokat ezt követően kizárólag a részvételi szándékukat jelző érdekeltek részére továbbítja. A fenti határidő elmulasztása jogvesztéssel jár.
+
+(1b) Az (1) és (1a) bekezdésben foglaltakat követően a Közbeszerzési Döntőbizottság eljárásában ügyfélnek az ajánlatkérőn, valamint a kérelmezőn kívül a beszerzési ügyben érdekeltek közül a részvételi szándékát az (1a) bekezdés szerint jelző és az eljárásba bevont érdekeltet – ide értve az eljárásba az (1c) bekezdés alapján bevont érdekeltet is – kell tekinteni.
+
+(1c) Ha az (1a) bekezdés szerint a beszerzési ügyben érdekelt az (1a) bekezdés szerint nem jelzi a jogorvoslati eljárásban való részvételi szándékát, az nem akadálya annak, hogy a jogorvoslati eljárás során a Közbeszerzési Döntőbizottság által utóbb ügyfélként bevonásra kerüljön, vagy a Közbeszerzési Döntőbizottság az egyéb érdekelttől utóbb – ha ez a tényállás tisztázása érdekében szükséges – iratokat kérjen be vagy nyilatkozattételre hívja fel.
+
+(2) Az értesítéssel egyidejűleg a Közbeszerzési Döntőbizottság felhívja a beszerzési eljárás ajánlatkérőjét vagy a beszerzési eljárást mellőzve beszerzőt a beszerzéssel kapcsolatban rendelkezésre álló összes irat – vagy ha ez nem szükséges, az általa meghatározott iratok – öt napon belüli megküldésére. Ha a kérelmet az ajánlatkérő nyújtja be, a rendelkezésére álló iratokat a kérelemmel együtt köteles megküldeni. A papír alapon rendelkezésre bocsátott iratokkal együtt azoknak az iratoknak az informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát is meg kell küldeni, amelyek ilyen formátumban rendelkezésre állnak. Az iratok szerkeszthető formátumú változatban történő megküldését – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Döntőbizottság egy munkanapon belül visszaigazolja.
 
 (3) A Közbeszerzési Döntőbizottság eljárásának megindítása esetén az ajánlatkérő a folyamatban levő beszerzési eljárását felfüggesztheti, amiről a Közbeszerzési Döntőbizottságot értesíti. A felfüggesztés a folyamatban lévő eljárási határidőket a felfüggesztés időtartamával meghosszabbítja.
 
@@ -2174,21 +2196,23 @@ nem vehető jegyzékre.
 
 153. § (1) A Közbeszerzési Döntőbizottság a minősített adatok védelmére vonatkozó törvényi rendelkezésekre is figyelemmel gondoskodik arról, hogy a kérelmező és az ellenérdekű ügyfél minden, az eljárás során felvetődött olyan új tényt, előterjesztett kérelmet, nyilatkozatot, amelynek megismerésére jogosult, megismerhessen, és azokkal kapcsolatos álláspontját kifejthesse.
 
-(2) A Közbeszerzési Döntőbizottság az ügyfelek és a beszerzési ügyben érdekeltek 148. § (1) bekezdése szerinti észrevételét azzal küldi meg az ellenérdekű ügyfeleknek, illetve egyéb érdekelteknek, hogy az arra vonatkozó nyilatkozataikat legkésőbb három napon belül kötelesek megtenni. A Közbeszerzési Döntőbizottság ezenkívül is bármikor felhívhatja az ügyfeleket és a beszerzési ügyben érdekelteket megfelelő határidő tűzésével nyilatkozattételre, illetve észrevételek előterjesztésére.
+(2) A Közbeszerzési Döntőbizottság az ügyfelek 148. § szerinti észrevételét azzal küldi meg az ellenérdekű ügyfeleknek, hogy az arra vonatkozó nyilatkozataikat legkésőbb három napon belül kötelesek megtenni. A Közbeszerzési Döntőbizottság ezenkívül is bármikor felhívhatja az ügyfeleket és a beszerzési ügyben érdekelteket megfelelő határidő tűzésével nyilatkozattételre, illetve észrevételek előterjesztésére.
 
-(3) Ha a Közbeszerzési Döntőbizottság az ügyben nem tart tárgyalást, az ügyfelek és a beszerzési ügyben érdekeltek értesítésével meghatározhatja azt az időpontot, ameddig az ügyfelek, illetve egyéb érdekeltek kötelesek valamennyi érdemi nyilatkozat, észrevétel megtételére. Ha a Közbeszerzési Döntőbizottság az ügyben tárgyalást tart, az ügyfelek, illetve egyéb érdekeltek a tárgyalást megelőzően kötelesek valamennyi érdemi nyilatkozat, észrevétel megtételére.
+(3) Ha a Közbeszerzési Döntőbizottság az ügyben nem tart tárgyalást, az ügyfelek értesítésével meghatározhatja azt az időpontot, ameddig az ügyfelek kötelesek valamennyi érdemi nyilatkozat, észrevétel megtételére. Ha a Közbeszerzési Döntőbizottság az ügyben tárgyalást tart, az ügyfelek a tárgyalást megelőzően kötelesek valamennyi érdemi nyilatkozat, észrevétel megtételére.
 
-(4) Az ügyfelek, illetve egyéb érdekeltek a (3) bekezdés szerint meghatározott időpontot, illetve a tárgyalást követően csak a Közbeszerzési Döntőbizottság erre irányuló felhívása esetén terjeszthetnek elő további észrevételt vagy nyilatkozatot. A (3) bekezdés szerint meghatározott időpontot, illetve az ügyben tartott tárgyalást követően a Közbeszerzési Döntőbizottság felhívása nélkül előterjesztett további észrevételeket vagy nyilatkozatokat a Közbeszerzési Döntőbizottság nem veszi figyelembe döntése meghozatalakor.
+(4) Az ügyfelek a (3) bekezdés szerint meghatározott időpontot, illetve a tárgyalást követően csak a Közbeszerzési Döntőbizottság erre irányuló felhívása esetén terjeszthetnek elő további észrevételt vagy nyilatkozatot. A felhívásról az ellenérdekű ügyfelet a Közbeszerzési Döntőbizottság a felhívás megküldésével egyidejűleg értesíti. A (3) bekezdés szerint meghatározott időpontot, illetve az ügyben tartott tárgyalást követően a Közbeszerzési Döntőbizottság felhívása nélkül előterjesztett további észrevételeket vagy nyilatkozatokat a Közbeszerzési Döntőbizottság nem veszi figyelembe döntése meghozatalakor.
+
+(5) A Közbeszerzési Döntőbizottság a (4) bekezdésben foglalt tárgyalást követő felhívást mellőzi, és a tárgyalást követően új tárgyalást tarthat, ha az a tényállás további tisztázása érdekében szükséges. Az új tárgyalás határnapját a Közbeszerzési Döntőbizottság legkésőbb az első tárgyalást követő napon közli az ügyfelekkel. A tárgyalást úgy kell kitűzni, hogy az az első tárgyalást követő 8 napon belül megtartható legyen.
 
 154. § (1) A Közbeszerzési Döntőbizottság a beszerzési ügyet tárgyalás tartása nélkül bírálja el, kivéve, ha a tárgyalás tartása feltétlenül szükséges különösen az ügyféli jogok gyakorlásához, a tényállás tisztázásához, a szakszerű és minden, az ügy szempontjából fontos körülményt figyelembe vevő döntés meghozatalához.
 
 (2) A Közbeszerzési Döntőbizottság a tárgyalást az eljárás megindításától számított tizenöt napon belül tartja meg.
 
-(3) A Közbeszerzési Döntőbizottság zárt tárgyalást tart, melyen az ügyfeleken kívül az egyéb érdekeltek is – személyesen vagy képviselőik útján – jelen lehetnek, észrevételt tehetnek, illetve a tárgyalás befejezéséig bizonyítékokat terjeszthetnek elő.
+(3) A Közbeszerzési Döntőbizottság zárt tárgyalást tart.
 
-(4) A Közbeszerzési Döntőbizottság a tárgyalásról készült jegyzőkönyvet a tárgyalástól számított öt napon belül megküldi az ügyfeleknek, valamint az egyéb érdekelteknek.
+(4) A Közbeszerzési Döntőbizottság a tárgyalásról készült jegyzőkönyvet a tárgyalástól számított öt napon belül megküldi az ügyfeleknek.
 
-155. § (1) A beszerzési ügy kérelmezője, az ellenérdekű ügyfél, továbbá ezek képviselője az eljárás megindításától számított tizedik napig betekinthet a beszerzési eljárás, illetve a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
+155. § (1) Az ügyfél az eljárás megindításától számított tizedik napig, a beszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosításával vagy teljesítésével kapcsolatos jogorvoslati eljárásban az eljárás megindításától számított harmincadik napig betekinthet a beszerzési eljárás, illetve a jogorvoslati eljárás során keletkezett iratokba, és azokról másolatot, feljegyzést készíthet.
 
 (2) Az ajánlatkérő, a részvételre jelentkező és az ajánlattevő – az üzleti titok védelmére hivatkozással – indokolt kérelmében kérheti az (1) bekezdés szerinti személyek iratbetekintési jogának kizárását vagy korlátozását az olyan iratok vagy adatok tekintetében, amelyek nem minősülnek közérdekű adatnak vagy közérdekből nyilvános adatnak.
 
@@ -2202,7 +2226,7 @@ nem vehető jegyzékre.
 
 (7) Az iratokba való betekintéshez az (1)–(6) bekezdésben foglaltak figyelembevételével a Közbeszerzési Döntőbizottság engedélye szükséges. Az iratbetekintési jog gyakorlásának feltételeit – a Mavtv.-ben meghatározottak figyelembevételével – a Közbeszerzési Döntőbizottság elnöke állapítja meg.
 
-156. § (1) A Közbeszerzési Döntőbizottság ötvenezer forinttól ötszázezer forintig terjedő eljárási bírsággal sújthatja a kérelmezőt vagy a jogorvoslati eljárás egyéb résztvevőjét, ha
+156. § (1) A Közbeszerzési Döntőbizottság tízezer forinttól ötszázezer forintig terjedő eljárási bírsággal sújthatja a kérelmezőt vagy a jogorvoslati eljárás egyéb résztvevőjét, ha
 
 - a) hamis adatot közöl vagy az ügy elbírálása szempontjából lényeges adatot elhallgat,
 - b) felvilágosítást nem vagy nem határidőn belül ad meg,
@@ -2211,19 +2235,21 @@ nem vehető jegyzékre.
 - e) nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést vagy ugyanabban az eljárásban ugyanazon közbeszerzési biztos ellen ismételten alaptalan bejelentést tesz, vagy
 - f) nem tesz eleget a 150. § (2) bekezdése szerinti ideiglenes intézkedés keretében előírt kötelezettségének.
 
-(2) Az eljárási bírságot kiszabó végzés ellen a 160. §-ban foglaltak szerint külön jogorvoslatnak van helye. A jogorvoslati kérelemnek a végzés végrehajtására halasztó hatálya van.
+(2) Az eljárási bírságot kiszabó végzés ellen benyújtott keresetlevélnek a végzés végrehajtására halasztó hatálya van.
 
 157. § (1) A Közbeszerzési Döntőbizottság – a (2) bekezdésben meghatározott ügy kivételével – az eljárás megindításától számított tizenöt napon belül köteles az eljárást befejezni, ha az ügyben tárgyalás tartására nem került sor.
 
 (2) Ha a Közbeszerzési Döntőbizottság az ügyben tárgyalást tartott, az eljárás megindításától számított huszonöt napon belül köteles – a (3) bekezdésben meghatározott ügy kivételével – az eljárást befejezni.
 
-(3) A Közbeszerzési Döntőbizottság a beszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése ügyében az eljárás megindításától számított hatvan napon belül köteles az eljárást befejezni.
+(3) A Közbeszerzési Döntőbizottság a beszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése, valamint a beszerzési eljárás mellőzése ügyében az eljárás megindításától számított hatvan napon belül köteles az eljárást befejezni.
 
 (4) A 149. § (1) bekezdése szerinti egyesítés esetében az ügyintézési határidőt a legkésőbb indult eljáráshoz képest kell számítani.
 
 (5) Az (1)–(3) bekezdés szerinti határidő legfeljebb tíz nappal – indokolt esetben egy alkalommal – meghosszabbítható. Erről legkésőbb az (1)–(3) bekezdés szerinti határidő lejárta napján értesíteni kell azokat, akiket az eljárás megindításáról értesítettek.
 
-(6) Az eljárás felfüggesztését az ügyfél nem kérheti.
+(5a) A Közbeszerzési Döntőbizottság az eljárását felfüggeszti, ha az előkérdés eldöntése más szerv hatáskörébe tartozik.
+
+(6) Az eljárás szünetelését az ügyfél nem kérheti.
 
 #### 83. A Közbeszerzési Döntőbizottság érdemi határozata
 
@@ -2234,8 +2260,10 @@ nem vehető jegyzékre.
 - a) az alaptalan kérelmet elutasítja,
 - b) megállapítja a jogsértés megtörténtét,
 - c) megállapítja a jogsértés megtörténtét és alkalmazza a (3) bekezdésben felsorolt jogkövetkezményeket,
-- d) az (5) bekezdésben meghatározott esetekben a jogsértés megállapítása mellett bírságot szab ki, vagy
-- e) megállapítja a jogsértés megtörténtét és eltiltja az ajánlattevőt, alvállalkozót vagy a beszerzési eljárásban részt vett más szervezetet vagy személyt a beszerzési eljárásban való részvételtől.
+- d) az (5) bekezdésben meghatározott esetekben a jogsértés megállapítása mellett bírságot szab ki,
+- e) megállapítja a jogsértés megtörténtét és eltiltja az ajánlattevőt, alvállalkozót vagy a beszerzési eljárásban részt vett más szervezetet vagy személyt a beszerzési eljárásban való részvételtől,
+- f) hivatalból megállapítja a 104. § (1) bekezdésében meghatározott jogsértés esetén a szerződés semmisségét vagy a 104. § (4) bekezdésében foglalt feltételek fennállása esetén azt, hogy az érintett szerződés nem semmis,
+- g) megállapítja, hogy a 104. § (1) bekezdésében meghatározott jogsértés miatt semmis szerződés esetén az érvénytelenség jogkövetkezményei alkalmazása körében az eredeti állapot helyreállítható-e.
 
 (3) Ha a Közbeszerzési Döntőbizottság határozatában jogsértést állapít meg,
 
@@ -2258,6 +2286,10 @@ nem vehető jegyzékre.
 - a) az a beszerzési eljárás során, illetve beszerzési eljárással kapcsolatban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett és a kizárásnak a 45. § (1) bekezdés 10. pontja szerinti feltételei fennállnak, vagy
 - b) az a beszerzési eljárásban megkísérelte jogtalanul befolyásolni az ajánlatkérő döntéshozatali folyamatát, vagy olyan bizalmas információt kísérelt megszerezni, amely jogtalan előnyt biztosítana számára a közbeszerzési eljárásban.
 
+(7a) A 104. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy a szerződés a 104. § (4) bekezdésében foglalt feltételek fennállására tekintettel nem semmis, a (6) és (7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
+
+(7b) A 104. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy az eredeti állapot helyreállítása a szerződés érvénytelensége jogkövetkezményei alkalmazása körében nem lesz lehetséges, a (6) és (7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
+
 (8) A Közbeszerzési Döntőbizottság a (2) bekezdés e) pontja alapján a jogsértés megállapítása mellett eltiltja az ajánlattevőt, alvállalkozót vagy a beszerzési eljárásban részt vett más szervezetet vagy személyt – a (10) bekezdésben foglaltak figyelembevételével – a beszerzési eljárásban való részvételtől, ha a 9. § szerinti összeférhetetlenségből, illetve a beszerzési eljárás előkészítésébe való előzetes bevonásból eredő versenytorzulást az adott eljárásban való részvételtől való eltiltásán kívül nem lehet más, kevésbé kényszerítő intézkedésekkel hatékonyan orvosolni.
 
 (9) A (7) bekezdés alkalmazásában a Közbeszerzési Döntőbizottság az ajánlattevőt, alvállalkozót, illetve a beszerzési eljárásban részt vett más szervezetet vagy személyt nemcsak a jövőre nézve, hanem a vizsgált beszerzési eljárásban, továbbá egyéb folyamatban lévő beszerzési eljárás vonatkozásában is eltiltja a beszerzési eljárásban való részvételtől, illetve a szerződés megkötésétől, ha az érintett eljárásokban az eljárás eredményének megküldésére még nem került sor. A (8) bekezdés szerinti esetben a Közbeszerzési Döntőbizottság az ajánlattevőt, alvállalkozót, illetve a beszerzési eljárásban részt vett más szervezetet vagy személyt kizárólag a vizsgált beszerzési eljárásban tilthatja el a beszerzési eljárásban való részvételtől, illetve a szerződés megkötésétől.
@@ -2270,91 +2302,57 @@ nem vehető jegyzékre.
 
 #### 84. A Közbeszerzési Döntőbizottság döntésének közlése
 
-159. § (1) Az eljárás felfüggesztését elrendelő végzést, a beszerzési ügy befejezését eredményező végzést és határozatot az ügyfeleknek és egyéb érdekelteknek kézbesíteni kell.
+159. § (1) Az eljárás felfüggesztését elrendelő végzést, a beszerzési ügy befejezését eredményező végzést és határozatot az ügyfeleknek kézbesíteni kell.
 
 (2) A beszerzési ügy befejezését eredményező végzést és határozatot, a kérelmet érdemi vizsgálat nélkül elutasító végzést, az eljárást megszüntető végzést, az érdemi határozat bírósági felülvizsgálata esetén a bírósági határozatot, valamint a szerződés megkötésének engedélyezése tárgyában hozott végzést a Közbeszerzési Hatóság honlapján nem kell közzétenni.
 
-(3) Ha a Közbeszerzési Döntőbizottság határozatának bírósági felülvizsgálatát kérik, az ajánlatkérő a folyamatban lévő beszerzési eljárását felfüggesztheti, a szerződés megkötését elhalaszthatja a bíróság jogerős határozatának meghozataláig.
+(3) Ha a Közbeszerzési Döntőbizottság határozata ellen közigazgatási pert indítottak, az ajánlatkérő a folyamatban lévő beszerzési eljárását felfüggesztheti, a szerződés megkötését elhalaszthatja a bíróság jogerős határozatának meghozataláig.
 
 #### 85. Jogorvoslat a Közbeszerzési Döntőbizottság döntése ellen
 
-160. § (1) A Közbeszerzési Döntőbizottságnak az eljárás során hozott végzése ellen külön jogorvoslatnak akkor van helye, ha azt törvény megengedi. A (2)–(4) bekezdés szerint van helye jogorvoslatnak a Közbeszerzési Döntőbizottság eljárásának felfüggesztését elrendelő végzés, a kérelmet érdemi vizsgálat nélkül elutasító végzés, valamint az eljárást megszüntető végzés ellen is.
+160. § (1) Ha az Ákr. alapján a végzés ellen önálló jogorvoslatnak van helye, a keresetlevelet a végzés közlésétől számított nyolc napon belül a Közbeszerzési Döntőbizottsághoz kell benyújtani. A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival együtt a benyújtást követően haladéktalanul továbbítja a bíróságnak.
 
-(2) A jogorvoslati kérelmet a végzés kézbesítésétől számított nyolc napon belül a Közbeszerzési Döntőbizottsághoz kell benyújtani vagy ajánlott küldeményként postára adni. A Közbeszerzési Döntőbizottság a kérelmet az ügy irataival együtt beérkezését követően haladéktalanul továbbítja a bíróságnak.
+(2) A Közbeszerzési Döntőbizottság önálló jogorvoslattal megtámadható végzése ellen indított közigazgatási perben hozott bírósági ítélet ellen felülvizsgálatnak nincs helye.
 
-(3) A Közbeszerzési Döntőbizottságnak az eljárás során hozott végzése elleni külön jogorvoslati kérelmet a közigazgatási és munkaügyi bíróság nemperes eljárásban, soron kívül bírálja el. A bíróság a Közbeszerzési Döntőbizottság végzését megváltoztathatja. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye.
-
-(4) A bíróság eljárására a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. Fejezetét kell alkalmazni, amennyiben e törvényből, illetve a nemperes eljárás jellegéből más nem következik.
-
-161. § (1) A Közbeszerzési Döntőbizottság érdemi határozata ellen fellebbezésnek, újrafelvételi eljárásnak helye nincs. Akinek jogát vagy jogos érdekét a Közbeszerzési Döntőbizottság érdemi határozata sérti, keresettel kérheti a bíróságtól annak felülvizsgálatát. A felülvizsgálat kérésének indoka nemcsak a Közbeszerzési Döntőbizottság jogszabálysértése lehet, hanem az a körülmény is, ha a felperes szerint a Közbeszerzési Döntőbizottság nem megfelelően értékelte, minősítette a kérelmezett korábbi eljárását, döntését e törvény szabályaira tekintettel.
+161. § (1) A közigazgatási per megindításának indoka nemcsak a Közbeszerzési Döntőbizottság jogszabálysértése lehet, hanem az a körülmény is, ha a felperes szerint a Közbeszerzési Döntőbizottság nem megfelelően értékelte, minősítette a kérelmezett korábbi eljárását, döntését e törvény szabályaira tekintettel.
 
 (2) A keresetlevelet a határozat kézbesítésétől számított tizenöt napon belül kizárólag a Közbeszerzési Döntőbizottsághoz lehet benyújtani vagy ajánlott küldeményként postára adni.
 
-(3) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival – a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – a keresetlevél beérkezését követő öt napon belül továbbítja a bírósághoz és egyidejűleg tájékoztatja a bíróságot a Közbeszerzési Döntőbizottság előtti eljárásban részt vett ügyfelekről és azon érdekeltekről, akikre a határozat rendelkezést tartalmaz.
+(3) A Közbeszerzési Döntőbizottság a keresetlevelet a benyújtásától számított tíz napon belül továbbítja a bírósághoz.
 
-(4) Az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt az a személy, aki a 141. §-ban meghatározott okok alapján közbeszerzési biztosként sem járhatna el.
+(4)
 
-162. § (1) A bíróság a keresetlevelet nyolc napon belül megvizsgálja, valamint ezen belül a jogszabálynak megfelelő keresetlevelet a Közbeszerzési Döntőbizottság nyilatkozatával együtt megküldi a felperes részére.
+162. § (1) A bíróság a védiratot legkésőbb nyolc napon belül küldi meg a felperes részére.
 
-(2) Ha a keresetlevél a határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz érkezését követő öt napon belül határoz és határozatát haladéktalanul megküldi a feleknek.
+(2) Ha a keresetlevél a keresetlevél benyújtása halasztó hatályának elrendelésére irányuló kérelmet tartalmaz, a bíróság a kérelemről a keresetlevél bírósághoz érkezését követő öt napon belül dönt.
 
-(3) Az ellenérdekű felet, valamint a beszerzési ügyben szerepelt azon érdekelteket, akikre nézve a Közbeszerzési Döntőbizottság határozata rendelkezést tartalmaz, a bíróság az (1) bekezdésben meghatározott határidőig értesíti a beavatkozás lehetőségéről, azzal, hogy a beavatkozást az értesítés kézbesítését követő nyolc napon belül kell bejelenteni a bíróságnak, amely határidő elmulasztása esetén igazolásnak nincs helye.
+(3) A perben a hiánypótlásra legfeljebb nyolcnapos határidő adható, amely indokolt esetben egyszer, legfeljebb nyolc nappal meghosszabbítható.
 
-(4) A perben a beadványok hiányosságának pótlására legfeljebb nyolcnapos határidő adható, amelyet indokolt esetben egyszer, legfeljebb nyolc nappal lehet meghosszabbítani.
+163. § (1) Ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja – ideértve a bírság összegét is – alkalmazhatja a 158. § (3), (5) és (7)–(10) bekezdése szerinti jogkövetkezményeket.
 
-163. § (1) A bíróság az ügy érdemében tárgyaláson kívül határoz, a felek bármelyikének kérésére azonban tárgyalást tart. Tárgyalás tartását a felperes a keresetlevélben, az alperes pedig a keresetlevélre tett nyilatkozatában kérheti. Ennek elmulasztása miatt igazolásnak helye nincs. A beavatkozó tárgyalás tartását a Pp. 338. § (3) bekezdése szerint kérheti. A tárgyaláson kívüli elbírálásra a Pp. 338. § (5), (7) és (8) bekezdését alkalmazni kell.
+(2) Ha a bíróság a Közbeszerzési Döntőbizottság határozatának megváltoztatása körében megállapítja a 104. § (1) bekezdése szerinti jogsértés megvalósulását, hivatalból vizsgálja a 104. § (4) bekezdésének alkalmazhatóságát, és ítéletében megállapítja a jogsértésre tekintettel a szerződés semmisségét vagy azt, hogy a 104. § (4) bekezdésében foglalt feltételek fennállására tekintettel nem semmis.
 
-(2) A Pp. 332/B. §-át azzal az eltéréssel kell alkalmazni, hogy az első tárgyalást az iratoknak a bírósághoz érkezését követő harminc napon belül kell megtartani, és ha nincs szükség bizonyítási eljárás lefolytatására, vagy tárgyaláson kívüli eljárás esetén, e határidőn belül elbírálni. A határidők számításakor a hiánypótlásra fordított idő nem vehető figyelembe.
+(3) Ha a bíróság a (2) bekezdésnek megfelelően megállapítja, hogy a szerződés a 104. § (4) bekezdésében foglalt feltételek fennállására tekintettel nem semmis, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
-(3) A bíróság a Közbeszerzési Döntőbizottság határozatát – a bírság összegét is ideértve – megváltoztathatja és alkalmazhatja a 158. § (3), (5), (7) és (8) bekezdése szerinti jogkövetkezményeket.
+(4) Ha a bíróság a 104. § (1) bekezdésében meghatározott jogsértés megállapítása esetén megállapítja a szerződés érvénytelenségét, egyúttal megvizsgálja, hogy a teljesített szolgáltatások jellegére tekintettel a szerződéskötés előtt fennállott helyzet természetben visszaállítható-e. Ha megállapítja, hogy az eredeti állapot helyreállítása a szerződés érvénytelensége jogkövetkezményei alkalmazása körében nem lesz lehetséges, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
-(4) A bíróság a Közbeszerzési Döntőbizottság határozatát kizárólag abban az esetben helyezi hatályon kívül, ha a Közbeszerzési Döntőbizottság eljárása során a jogorvoslati eljárás lényeges és az ügy érdemére kiható szabályainak megsértésére került sor.
+(5) Ha nincs szükség bizonyítási eljárás lefolytatására, vagy tárgyaláson kívüli eljárás esetén, a bíróság hatvan napon belül dönt.
 
-(5) A bíróság határozata ellen fellebbezésnek nincs helye, kivéve, ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja.
+(6) A bíróság határozata ellen fellebbezésnek nincs helye, kivéve, ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja.
 
-(6) A bíróság határozatát a meghozatalától számított tizenöt napon belül a felek részére kézbesíteni kell.
+(7) A bíróság határozatát, annak meghozatalától számított tizenöt napon belül írásba foglalja és a felek részére kézbesíti.
 
-(7) A bíróság a 158. § (7) és (8) bekezdését alkalmazó határozatát megküldi a Közbeszerzési Hatóságnak.
+#### 86.
 
-#### 86. A Közbeszerzési Döntőbizottság határozatának felülvizsgálata és a szerződés beszerzési jogsértés miatti érvénytelenségének megállapítása iránti egységes per
+#### 164–165. §
 
-164. § (1) A kérelmező a Közbeszerzési Döntőbizottság határozatának felülvizsgálatát, valamint a határozat alapjául szolgáló szerződés – a 104. § (1) bekezdésében meghatározott okok miatti – érvénytelenségének kimondását és az érvénytelenség jogkövetkezményeinek alkalmazását kizárólag ugyanazon perben kérheti. A pert a Közbeszerzési Döntőbizottság, valamint a szerződő felek ellen kell megindítani, a keresetlevelet a határozat kézbesítésétől számított tizenöt napon belül a Közbeszerzési Döntőbizottsághoz kell benyújtani vagy ajánlott küldeményként postára adni.
+#### 87.
 
-(2) A perben egyéb polgári jogi igény nem érvényesíthető, a szerződés érvénytelenségének a 104. § (1) bekezdésében nem szereplő érvénytelenségi okok miatti megállapítása nem kérelmezhető.
-
-(3) A perben a Pp. XX. Fejezetét az e törvényben meghatározott eltérésekkel kell alkalmazni.
-
-(4) A Közbeszerzési Döntőbizottság a keresetlevelet az ügy irataival, valamint a 161. § (3) bekezdésében foglalt tájékoztatással és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt a keresetlevél beérkezését követő öt napon belül továbbítja a bírósághoz.
-
-(5) Az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt az a személy, aki a 141. §-ban meghatározott okok alapján közbeszerzési biztosként sem járhatna el.
-
-(6) A keresetet csak a perindításra nyitva álló határidőn belül lehet megváltoztatni, illetve kiterjeszteni. A Pp. 335/A. § (2) bekezdését ebben az esetben is alkalmazni kell.
-
-(7) Ha valamelyik fél tárgyalás tartását kéri, az ügyben tartott tárgyalást követően a bíróság felhívása nélkül előterjesztett további észrevételeket vagy nyilatkozatokat a bíróság nem veszi figyelembe döntése meghozatalakor.
-
-165. § (1) A bíróság a Közbeszerzési Döntőbizottság határozatát – a bírság összegét is ideértve – megváltoztathatja és alkalmazhatja a 158. § (3), (5), (7) és (8) bekezdése szerinti jogkövetkezményeket. Ha a bíróság a Közbeszerzési Döntőbizottság határozatát hatályon kívül helyezi, a szerződés érvénytelenségének tárgyában a pert megszünteti. A bíróság a Közbeszerzési Döntőbizottság határozatát kizárólag abban az esetben helyezi hatályon kívül, ha a Közbeszerzési Döntőbizottság eljárása során a jogorvoslati eljárás lényeges és az ügy érdemére kiható szabályainak megsértésére került sor.
-
-(2) Ha a bíróság a beszerzési eljárás alapján megkötött szerződést a 104. § (4) bekezdése alapján érvényessé nyilvánítja, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 5%-a. Ha az érvénytelenség jogkövetkezményeinek alkalmazásakor a bíróság az ellenszolgáltatás nélkül maradt szolgáltatás ellenértékének pénzbeni megtérítését rendeli el, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 5%-a.
-
-(3) A bíróság határozata ellen fellebbezésnek nincs helye, kivéve a szerződés érvénytelensége tárgyában hozott határozatot, illetve ha a bíróság a Közbeszerzési Döntőbizottság határozatát megváltoztatja.
-
-#### 87. A szerződés beszerzési jogsértés miatti érvénytelenségének megállapítása iránti polgári per
-
-166. § (1) Ha az ügy érdemében hozott határozatában a Közbeszerzési Döntőbizottság a 104. § (1) bekezdés szerinti jogsértést állapít meg, pert indít a szerződés érvénytelenségének kimondása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt. A perindítással egyidejűleg a Közbeszerzési Döntőbizottságnak ideiglenes intézkedésként kérnie kell a bíróságtól a szerződés további teljesítésének felfüggesztését. A Közbeszerzési Döntőbizottságot a perben teljes költségmentesség illeti meg.
-
-(2) A Közbeszerzési Döntőbizottság az (1) bekezdés szerinti pert érdemi határozatának meghozatalától számított harminc napon belül indítja meg. A határidő elmulasztása esetén a Pp. szabályai szerint van helye igazolásnak.
-
-(3) Ha a bíróság az (1) bekezdés szerinti perben megállapítja a szerződés 104. § (1) bekezdése szerint meghatározott okok miatti érvénytelenségét, az érvénytelenség jogkövetkezményeit a Ptk.-ban és az e törvényben foglaltak szerint alkalmazza.
-
-(4) Ha a bíróság a beszerzési eljárás alapján megkötött szerződést a 104. § (4) bekezdése alapján érvényessé nyilvánítja, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 5%-a. Ha az érvénytelenség jogkövetkezményeinek alkalmazásakor a bíróság az ellenszolgáltatás nélkül maradt szolgáltatás ellenértékének pénzbeni megtérítését rendeli el, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 5%-a.
-
-(5) Az (1) bekezdés szerinti perre az a közigazgatási és munkaügyi bíróság kizárólagosan illetékes, amely ugyanazon beszerzési jogsértés ügyében a 161. § szerinti közigazgatási perben eljár. Ha a Közbeszerzési Döntőbizottság a 104. § (1) bekezdése szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérték, a Közbeszerzési Döntőbizottság által ugyanazon ügyben indított polgári pert – ha a közigazgatási per indul később – a 161. § szerinti közigazgatási per bíróságához át kell tenni. A közigazgatási pert és a Közbeszerzési Döntőbizottság által indított polgári pert egyesíteni kell. A Közbeszerzési Döntőbizottság haladéktalanul tájékoztatja a polgári perben eljáró bíróságot arról, ha a 104. § (1) bekezdése szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérő keresetlevelet nála benyújtották.
-
-(6) A (5) bekezdés szerinti egységes perben a Pp. XX. Fejezetét a 164. § (2) és (5)–(7) bekezdésében, valamint a 165. §-ban foglalt eltérésekkel kell alkalmazni.
+#### 166. §
 
 #### 88. A beszerzésekkel kapcsolatos egyéb polgári perek
 
-167. § (1) A 164. § (1) bekezdésében és a 166. § (1) bekezdésében foglalt esetek, valamint a (3) bekezdés szerinti esetek kivételével a beszerzésre, illetve a beszerzési eljárásra vonatkozó jogszabályok megsértésére alapított bármely polgári jogi igény érvényesíthetőségének feltétele, hogy a Közbeszerzési Döntőbizottság, illetve – a Közbeszerzési Döntőbizottság határozatának felülvizsgálata során – a bíróság a jogsértést jogerősen megállapítsa.
+167. § (1) A (3) bekezdés szerinti esetek kivételével a 104. § (1) bekezdése szerinti jogsértés miatti semmisség jogkövetkezményeivel összefüggő polgári jogi igény, valamint a beszerzésre, illetve a beszerzési eljárásra vonatkozó jogszabályok megsértésére alapított bármely egyéb polgári jogi igény érvényesíthetőségének feltétele, hogy a Közbeszerzési Döntőbizottság véglegesen, illetve a Közbeszerzési Döntőbizottság határozatával szemben folyamatban volt közigazgatási perben a bíróság a szerződés semmisségét, egyéb polgári jogi igény esetében pedig a jogsértést jogerősen megállapítsa, ennek hiányában a bíróság a keresetet ítéletével elutasítja.
 
 (2) Ha az ajánlattevő kártérítésként kizárólag az ajánlat elkészítésével és a beszerzési eljárásban való részvétellel kapcsolatban felmerült költségeinek megtérítését követeli az ajánlatkérőtől, e kártérítési igény érvényesítéséhez elegendő azt bizonyítania, hogy
 
@@ -2363,6 +2361,20 @@ nem vehető jegyzékre.
 - c) a jogsértés kedvezőtlenül befolyásolta a szerződés elnyerésére vonatkozó esélyét.
 
 (3) Nem kell alkalmazni az (1) bekezdésben foglaltakat, ha a polgári jogi igény érvényesítése – illetve a szerződés érvénytelenségére történő hivatkozás – a 97. §-on, a 99–102. §-on, a 105. §-on, a 107. §-on, vagy e törvénynek a szerződés tartalmi elemeit meghatározó más rendelkezéseinek megsértésén alapul.
+
+(4) A szerződés beszerzési jogsértés miatti érvénytelensége megállapítása vagy az érvénytelenség jogkövetkezményeinek alkalmazása iránt a szerződést el nem nyert, az érintett beszerzési eljárásban részt vett ajánlattevő akkor indíthat pert, ha a szerződés érvénytelenségére vonatkozóan közvetlen jogi érdekét igazolja. A közvetlen jogi érdeket nem alapozza meg önmagában az a tény, hogy az ajánlattevő a beszerzési eljárásban érvényes ajánlatot tett. Az ajánlatkérő eljárást lezáró döntésén alapuló, e törvény szerinti szerződéskötési kötelezettség hiányában a bíróság nem írhat elő ajánlatkérő részére szerződéskötési kötelezettséget.
+
+(5) A 104. § (1) bekezdése szerinti jogsértés esetében a 158. § (2) bekezdés g) pontjában, valamint (7a) és (7b) bekezdésében foglaltak megállapításán kívül minden egyéb, a szerződés érvénytelensége jogkövetkezményeivel összefüggő polgári jogi igény polgári perben érvényesíthető. A Közbeszerzési Döntőbizottságnak, illetve a Közbeszerzési Döntőbizottság határozata elleni közigazgatási perben hozott ítéletnek a szerződés semmisségének megállapítása tárgyában hozott döntése a polgári perben eljáró bíróságot köti.
+
+(6) Ha a polgári perben eljáró bíróság a 104. § (1) bekezdésében meghatározott jogsértés miatt semmis szerződés esetén az érvénytelenség jogkövetkezményei alkalmazása körében – a Közbeszerzési Döntőbizottság határozatától, illetve a Közbeszerzési Döntőbizottság határozata elleni közigazgatási perben hozott ítéletétől eltérően – megállapítja, hogy az eredeti állapot helyreállítása nem lesz lehetséges, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
+
+(7) Ha a polgári perben eljáró bíróság a 104. § (1) bekezdésében meghatározott jogsértés miatt semmis szerződés esetén az érvénytelenség jogkövetkezményei alkalmazása körében – a Közbeszerzési Döntőbizottság határozatában, illetve a Közbeszerzési Döntőbizottság határozata elleni közigazgatási perben hozott ítéletében foglaltaktól eltérően – megállapítja, hogy az eredeti állapot helyreállítása lehetséges, úgy – a Közbeszerzési Döntőbizottság, illetve a Közbeszerzési Döntőbizottság határozatával szemben folyamatban volt közigazgatási perben a bíróság döntése alapján – a bírsággal sújtott személy vagy szervezet a (8) és (9) bekezdés szerint indíthat pert, illetve perújítási eljárást a bíróság ítéletének jogerőre emelkedésétől számított nyolc napon belül a közigazgatási ügyben eljáró bíróságnál a 158. § (7b) bekezdése, illetve a 163. § (4) bekezdése alapján kiszabott bírság visszatérítése iránt. E határidő elmulasztása esetén igazolásnak helye nincs.
+
+(8) A 158. § (7b) bekezdése alapján kiszabott bírság visszatérítése iránti pert a Közbeszerzési Döntőbizottság ellen kell megindítani. Az eljárásra az elsőfokú eljárás szabályai irányadók. A polgári perben eljáró bíróság ítéletének az eredeti állapot helyreállíthatósága tárgyában hozott döntése a közigazgatási ügyben eljáró bíróságot köti.
+
+(9) A 163. § (4) bekezdése alapján kiszabott bírság visszatérítése iránt és az eredeti állapot helyreállíthatósága tárgyában a Közbeszerzési Döntőbizottság határozata elleni közigazgatási perben eljáró bíróság ítéletével szemben perújításnak van helye. A polgári perben eljáró bíróság ítéletének az eredeti állapot helyreállíthatósága tárgyában hozott döntése a közigazgatási ügyben eljáró bíróságot köti.
+
+(10) Ha a Közbeszerzési Döntőbizottság határozatában, illetve a Közbeszerzési Döntőbizottság határozata elleni közigazgatási perben kiszabott bírság megfizetésére a (7) bekezdésben foglalt, a per indítására nyitva álló határidő elteltéig nem került sor, a (7)–(9) bekezdésben foglalt rendelkezések nem alkalmazhatók.
 
 #### 89. A jegyzékre kerülés érdekében lefolytatott eljárás, vagy a jegyzékből történő törlés szabályosságával kapcsolatos jogorvoslat
 
@@ -2392,7 +2404,7 @@ nem vehető jegyzékre.
 
 170. § (1) Az e törvény alapján beszedett igazgatási szolgáltatási díjak a Közbeszerzési Hatóság saját bevételét képezik, amelyet törvényben előírt feladatai teljesítése során felmerülő kiadásokra kell fordítani.
 
-(2) A Közbeszerzési Hatóság – a díjfizetési kötelezettség teljesítésének ellenőrzéséhez – a befizetett igazgatási szolgáltatási díjakról, rendbírságról, bírságról külön nyilvántartást vezet. A Közbeszerzési Hatóság a Pp. 339. § (1) bekezdésére és 339. § (2) bekezdés q) pontjára, valamint e törvény vonatkozó rendelkezéseire tekintettel a tárgyévben keletkezett visszafizetési kötelezettségeivel csökkentett összegű tárgyévi bírság bevételeivel a december 31-i állapot szerint köteles elszámolni. A díjak, a rendbírság, a bírság nyilvántartására, kezelésére és elszámolására egyebekben az államháztartás számviteléről szóló jogszabályt kell alkalmazni.
+(2) A Közbeszerzési Hatóság – a díjfizetési kötelezettség teljesítésének ellenőrzéséhez – a befizetett igazgatási szolgáltatási díjakról, rendbírságról, bírságról külön nyilvántartást vezet. A Közbeszerzési Hatóság a közigazgatási ügyben eljáró bíróság keresetnek helyt adó ítéletére, valamint e törvény vonatkozó rendelkezéseire tekintettel a tárgyévben keletkezett visszafizetési kötelezettségeivel csökkentett összegű tárgyévi bírság bevételeivel a december 31-i állapot szerint köteles elszámolni. A díjak, a rendbírság, a bírság nyilvántartására, kezelésére és elszámolására egyebekben az államháztartás számviteléről szóló jogszabályt kell alkalmazni.
 
 (3) Az (1) bekezdés szerinti igazgatási szolgáltatási díjak tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.)
 
@@ -2434,6 +2446,8 @@ alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon
 174. § (1) E törvény rendelkezéseit a hatálybalépése után megkezdett beszerzésekre, beszerzési eljárások alapján megkötött szerződésekre és az azokkal kapcsolatban kérelmezett jogorvoslati eljárásokra és előzetes vitarendezési eljárásokra kell alkalmazni.
 
 (2) A jegyzéken szereplőnek kell tekinteni a törvény hatálybalépésekor a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet (a továbbiakban: Kr.) szerinti jegyzéken szereplő gazdasági szereplőt. E gazdasági szereplők 120. § (1) bekezdése szerinti felülvizsgálata esedékességének megállapításakor – ha ellenőrzésükre a törvény előírásai szerint még nem került sor – a Kr. szerinti utolsó ellenőrzés időpontját kell figyelembe venni.
+
+(3) E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2017. évi CLXXXIX. törvénnyel megállapított rendelkezéseit a 2018. január 1-jén és az azt követően megkezdett beszerzésekre, beszerzési eljárásokra, beszerzési eljárás alapján megkötött szerződésekre kell alkalmazni.
 
 #### 96. Módosító rendelkezések
 

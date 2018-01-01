@@ -12,7 +12,7 @@ Az Országgyűlés a turisztikai, kedvtelési és sportolási célú, valamint a
 
 - a) a Magyarország területén található, vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerekre, a vasútnak nem minősülő egyéb kötöttpályás közlekedési tevékenységre, valamint az azzal összefüggő jogokra és kötelezettségekre,
 - b) a Magyarország területén folytatott vasúti egyéb kötöttpályás közlekedést működtető, illetve az abban részt vevő természetes személyekre és szervezetekre, valamint
-- c) a trolibusz kötött pályájának engedélyezésére és a létesítésével összefüggő jogokra és kötelezettségekre
+- c)
 
 terjed ki.
 
@@ -21,25 +21,20 @@ terjed ki.
 2. § E törvény alkalmazásában:
 
 - 1. alsó kötélvezetésű sífelvonó: olyan sífelvonó, amely kötélzete két végpont között a vontató oldalon alátámasztás nélkül van kifeszítve, amelynél a kötél haladási magassága legfeljebb a talajszinttől számítva 120 cm;
-- 2. egyéb kötött pálya: a vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszer működéséhez szükséges szerkezet, illetve földterület, valamint az azt hordozó és mozgásirányát meghatározó tartószerkezet;
-- 3. egyéb kötöttpályás közlekedési rendszer: a sikló, a sífelvonó, a függővasút, kötélpálya és a turisztikai hajtány;
+- 2. egyéb kötöttpálya: az egyéb kötöttpályás közlekedési rendszer működéséhez szükséges szerkezet és földterület, valamint az azt hordozó és fő mozgásirányát meghatározó tartószerkezet;
+- 3. egyéb kötöttpályás közlekedési rendszer: a sikló, a sífelvonó és a kötélpálya;
 - 4. egyéb kötöttpályás közlekedési tevékenység: az egyéb kötött pálya üzemeltetője által saját maga részére vagy más részére díj ellenében végzett személyszállítás vagy áruszállítás, valamint kedvtelési vagy turisztikai célú közlekedési tevékenység;
-- 5. egyéb kötött pálya üzemeltetése: az egyéb kötött pálya, valamint annak működéséhez szükséges eszközök üzem- és forgalombiztos-állapotban tartása, folyamatos működésének biztosítása és műszaki felügyelete;
-- 6. egyéb kötött pálya üzemeltetője: az a természetes személy vagy szervezet, aki vagy amely az egyéb kötött pálya üzemeltetését végzi;
-- 7. egyéb kötött pályás üzemvezető: az a természetes személy, aki az egyéb kötöttpályás közlekedési rendszer előírás szerinti szabályos és biztonságos üzemeltetéséért, karbantartásáért, felülvizsgálatáért, valamint vészhelyzet esetén az utasok kimentéért felelős;
-- 8. függővasút: olyan, személyszállításra vagy teherszállításra alkalmas közlekedési eszköz, amelynél a talajszint felett elhelyezett tartószerkezetre rögzített pályán személyeket vagy árukat szállító önjáró járműegységek függeszkedve mozognak;
-- 9. felső kötélvezetésű sífelvonó: olyan sífelvonó, amelynek kötele két végpont között több támaszon fut, és minden esetben vonszoló szerkezet közbeiktatásával vontatja a használókat, jellemzően szilárd alapozással rendelkezik, helyéről nem mozdítható el és a szállító kötél olyan magasan van vezetve, hogy a terheletlen vonszoló berendezés legalsó pontja a terepszinttől, illetve az adott terület átlagos hóvastagságnak felső szintjétől legalább 2 m magasságban van;
-- 10. hajtány: olyan, három- vagy többkerekű vasúti jármű, amelyet gépi vagy emberi erővel hajtanak meg;
-- 11. kötélpálya: olyan, személyszállításra vagy teherszállításra alkalmas közlekedési eszköz, amelynél két végpont között kifeszített, támasztékok nélküli vagy támasztékon megvezetett kötélzeten vagy kötélzeteken felfüggesztett kabinok, székek, illetve csillék biztosítják a szállítást;
-- 12. sikló: olyan közlekedési eszköz, amelynél a jármű talajra lefektetett sínpályákon saját kerekein mozog úgy, hogy a jármű önerejéből haladni egyébként nem képes, vontatását egy vagy több kötél végzi, amelynek hajtó gépezete nem a jármű, hanem a pálya szerkezetének tartozéka;
-- 13. sífelvonó: olyan, sportolást elősegítő alsó vagy fej feletti (felső) kötélvezetésű közlekedési eszköz, amely az utasokat oszlopokon megvezetett szállítókötélre rögzített, vagy oszlopokra felfüggesztett vontató függeszték vagy a szállítókötélre kapcsolható vontató elem, berendezés segítségével, vagy közvetlenül a szállítókötélbe kapaszkodva jármű nélkül, kötéllel vontatja;
-- 14. szervezet: a jogi személy és az egyéni vállalkozó;
-- 15. trolibusz kötött pályája: a trolibusz elektromos energiaellátását és forgalmának szabályozását biztosító közlekedési célú rendszer, különösen a munkavezetéket, föld- és légtápkábeleket, összekötő kábeleket, jelző- és biztosítóberendezéseket;
-- 16. turisztikai hajtány: olyan, három- vagy négykerekű egyéb kötöttpályás jármű, amelyet emberi erővel hajtanak meg. A turisztikai hajtány a turisztikai kézihajtány és a turisztikai sínbicikli, lábhajtány. Turisztikai kézihajtány az a turisztikai célból – tehát nem a vasúti pályafelügyelet ellátása vagy a vasútvonalak állapotának ellenőrzése céljából – üzemeltetett hajtány, amelyet a jármű vezetője, utasa kézi erővel hajt meg. Turisztikai sínbicikli, lábhajtány az a turisztikai célból üzemeltetett hajtány, amelyet a jármű vezetője, utasa lábbal hajt meg.
+- 5. egyéb kötöttpályás közlekedési rendszer üzemeltetése: az egyéb kötött pálya, valamint annak működéséhez szükséges eszközök üzem- és forgalombiztos-állapotban tartása, folyamatos működésének biztosítása és műszaki felügyelete;
+- 6. egyéb kötöttpálya üzemeltetője: az a természetes személy vagy szervezet, aki, vagy amely az egyéb kötöttpályás rendszer üzemeltetését végzi;
+- 7. egyéb kötöttpályás üzemvezető: az a természetes személy, aki az egyéb kötöttpályás közlekedési rendszer a vasúti közlekedési hatóság által jóváhagyott üzemeltetési szabályzat szerinti szabályos és biztonságos üzemeltetéséért, karbantartásáért, felülvizsgálatáért, valamint veszélyhelyzet esetén az utasok kimentéért felelős;
+- 8. kötélpálya: olyan, személyszállításra vagy teherszállításra alkalmas közlekedési eszköz, amelynél két végpont között kifeszített, támasztékok nélküli vagy támasztékon megvezetett kötélzeten vagy kötélzeteken felfüggesztett kabinok, székek, illetve csillék biztosítják a szállítást;
+- 9. sífelvonó: sportolást elősegítő alsó vagy felső (fej feletti) kötélvezetésű közlekedési eszköz, amely az utasokat oszlopokon megvezetett szállítókötélre rögzített, vagy oszlopokra felfüggesztett vontató függeszték vagy a szállítókötélre kapcsolható vontató elem, berendezés segítségével, vagy közvetlenül a szállítókötélbe kapaszkodva jármű nélkül, kötéllel vontatja;
+- 10. sikló: olyan közlekedési eszköz, amelynél a jármű talajra lefektetett sínpályákon saját kerekein mozog olyan módon, hogy a közlekedési eszköz önerejéből haladni nem képes, vontatását egy vagy több kötél végzi, és hajtó gépezete nem a jármű, hanem a sínpálya szerkezetének tartozéka;
+- 11. veszélyhelyzet: kialakult vagy várható katasztrófa, rendkívüli esemény, súlyos káresemény.
 
 #### 3. Az egyéb kötöttpályás közlekedés igazgatásának szervezete
 
-3. § Az egyéb kötöttpályás közlekedéssel összefüggő igazgatási és hatósági tevékenységet a közlekedésért felelős miniszter (a továbbiakban: miniszter), valamint a vasúti közlekedési hatóság (a továbbiakban: közlekedési hatóság) látja el.
+3. § Az egyéb kötöttpályás közlekedéssel összefüggő igazgatási és hatósági tevékenységet a közlekedésért felelős miniszter (a továbbiakban: miniszter), a vasúti igazgatási szerv, valamint a vasúti közlekedési hatóság (a továbbiakban: közlekedési hatóság) látja el.
 
 ### II. Fejezet
 
@@ -51,34 +46,51 @@ terjed ki.
 
 (3) Ha az egyéb kötött pálya létesítése vasúti pályát érint, az (1) bekezdésben meghatározottakon túl a pályahálózat-működtető írásbeli hozzájárulása, vagy az egyéb kötött pályát üzemeltető szervezet és pályahálózat-működtető vagy az MNV Zrt. közötti szerződés is szükséges.
 
-5. § (1) A trolibusz kötött pályájával szomszédos ingatlan tulajdonosa és használója – a trolibusz kötött pályájának létesítéséből fakadó közérdekre tekintettel – tűrni köteles, hogy a trolibusz üzemeltetője az ingatlanon, az alatt vagy felett legfeljebb 1000 V váltófeszültség vagy 1500 V egyenfeszültség névleges értéken üzemelő vezetéket, valamint az ehhez szükséges tartószerkezetet, jelzőkövet, egyéb jelzést vagy ideiglenes eszközt helyezzen el, ezeket javítsa, karbantartásukat elvégezze. Az elhelyezés, a javítás és a karbantartás során a környezet- és természetvédelmi érdekeket, élet és érintésvédelmi feltételeket figyelembe kell venni.
+5. § (1)
 
-(2) A sikló és a függővasút kötött pályájával szomszédos ingatlan tulajdonosa és használója tűrni köteles, hogy az egyéb kötött pálya üzemeltetője az ingatlanon, az alatt vagy felett a kötött pálya részét képező tartókötelet és gyengeáramú vezetéket, ehhez tartószerkezetet, jelzőkövet, egyéb jelzést vagy ideiglenes eszközt helyezzen el, ezeket javítsa, karbantartásukat elvégezze. Az elhelyezés, a javítás és a karbantartás során a környezet- és természetvédelmi érdekeket, élet és érintésvédelmi feltételeket figyelembe kell venni.
+(2) A sikló kötött pályájával szomszédos ingatlan tulajdonosa és használója tűrni köteles, hogy az egyéb kötött pálya üzemeltetője az ingatlanon, az alatt vagy felett a kötött pálya részét képező tartókötelet és gyengeáramú vezetéket, ehhez tartószerkezetet, jelzőkövet, egyéb jelzést vagy ideiglenes eszközt helyezzen el, ezeket javítsa, karbantartásukat elvégezze. Az elhelyezés, a javítás és a karbantartás során a környezet- és természetvédelmi érdekeket, élet és érintésvédelmi feltételeket figyelembe kell venni.
 
 (3) Az ingatlan tulajdonosát és használóját az ingatlan rendeltetésszerű használatának akadályozása miatt az akadályozás mértékének megfelelő kártalanítás illeti meg.
 
-(4) Az egyéb kötött pályát vagy a trolibusz kötött pályáját üzemeltető – az ingatlan tulajdonosának és használójának kártalanítása mellett – jogosult a kötött pályán és a kötött pálya közvetlen közelében a szabad kilátást akadályozó, továbbá az egyéb kötött pályás vezetékek nyomvonalában lévő növényzet eltávolítására, ha azt a közlekedés biztonsága, üzemzavar megelőzése vagy vezeték létesítése, javítása, karbantartása indokolja. A növényzet eltávolítása nem okozhat aránytalan sérelmet az érintett lakosság érdeke, illetve a környezet- és természetvédelmi érdekek szempontjából.
+(4) Az egyéb kötött pálya üzemeltetője – az ingatlan tulajdonosának és használójának kártalanítása mellett – jogosult a kötött pályán és a kötött pálya közvetlen közelében a szabad kilátást akadályozó, továbbá az egyéb kötött pályás vezetékek nyomvonalában lévő növényzet eltávolítására, ha azt a közlekedés biztonsága, üzemzavar megelőzése vagy vezeték létesítése, javítása, karbantartása indokolja. A növényzet eltávolítása nem okozhat aránytalan sérelmet az érintett lakosság érdeke, illetve a környezet- és természetvédelmi érdekek szempontjából.
 
 ### III. Fejezet — AZ EGYÉB KÖTÖTTPÁLYÁS KÖZLEKEDÉSI TEVÉKENYSÉGEK VÉGZÉSÉNEK FELTÉTELEI
 
 #### 5. Bejelentés
 
-6. § (1) Az alsó kötélvezetésű sífelvonós tevékenységet végző szervezet köteles a tevékenysége megkezdését és a tevékenységével történő felhagyást a közlekedési hatóságnál bejelenteni.
+6. § (1) Egyéb kötöttpályás közlekedési tevékenység a vasúti igazgatási szerv, valamint a közlekedési hatóság részére a tervezett tevékenység megkezdése előtt legalább 30 nappal tett bejelentés mellett végezhető.
 
-(2) A folyamatos üzemeltetésű egyéb kötöttpályás közlekedési tevékenységet végző szervezet köteles a tevékenységének szüneteltetését a közlekedési hatóságnál bejelenteni. Az időszakos üzemeltetésű egyéb kötöttpályás közlekedési tevékenységet végző szervezet köteles a tevékenységének egy vagy több üzemeltetési cikluson át történő szüneteltetését a közlekedési hatóságnál bejelenteni. Az üzemeltetési ciklusok közötti leállást nem kell bejelenteni.
+(2) Az (1) bekezdés szerinti bejelentés alapján a vasúti igazgatási szerv és a közlekedési hatóság az egyéb kötöttpályás tevékenységet végző személyt vagy szervezetet nyilvántartásba veszi.
 
-(3) A bejelentést tevő szervezet köteles a közlekedési hatóság részére az alsó kötélvezetésű sífelvonó tevékenysége megkezdésének és tevékenységével való felhagyás bejelentésére vonatkozó szabályokról, valamint az egyéb kötöttpályás közlekedési rendszer üzemszünet bejelentésének részletes szabályairól szóló miniszteri rendeletben meghatározott információkat rendelkezésre bocsátani.
+(3) A folyamatos üzemeltetésű egyéb kötöttpályás közlekedési tevékenységet, a tervezett kezdőnapot legalább 15 nappal megelőzően, a vasúti igazgatási szervnek és a közlekedési hatóságnak megtett bejelentést követően lehet szüneteltetni.
 
-(4) A közlekedési hatóság a (3) bekezdés alapján megismert személyes adatokat nyilvántartásba veszi és a tevékenység teljes ideje alatt kezeli.
+(4) Az időszakos üzemeltetésű egyéb kötöttpályás közlekedési tevékenységet végző szervezet a tevékenységének egy vagy több üzemeltetési cikluson át történő szüneteltetését a közlekedési hatóságnál és a vasúti igazgatási szervnél, az üzemeltetési ciklus kezdőnapját megelőzően legalább 15 nappal, bejelenti. Az üzemeltetési ciklusok közötti leállást nem kell bejelenteni.
 
-(5) Az alapképzés és időszakos oktatás végzésére irányuló szándékot a szolgáltató köteles a közlekedési hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Alapképzés, illetve időszakos oktatás végzésére a jogszabályban meghatározott személyi és tárgyi feltételeket teljesítő képzőszervezet jogosult, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – rendelkezik a jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban együtt: egyéb kötöttpályás közlekedési szakmai oktató). Egyéb kötöttpályás közlekedési szakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
+(5) Az e § szerinti bejelentés alapján, a tevékenység szüneteltetés tényét a vasúti igazgatási szerv és a vasúti közlekedési hatóság a (2) bekezdés szerinti nyilvántartásában rögzíti.
+
+(6) Az egyéb kötöttpályás közlekedési tevékenységgel felhagyni, a tevékenység befejezésének tervezett napját legalább 15 nappal megelőzően, a vasúti igazgatási szervnek és a közlekedési hatóságnak megtett bejelentést követően lehet.
+
+(7) Az (1) bekezdés szerinti bejelentés alapján a vasúti igazgatási szerv és a közlekedési hatóság a (2) bekezdés szerinti nyilvántartásából törli az egyéb kötöttpályás közlekedési tevékenységgel felhagyó személyt vagy szervezetet, ha valamennyi egyéb kötöttpályás közlekedési tevékenységével felhagy.
+
+6/A. § (1) A jelen alcím szerinti bejelentést tevő a vasúti igazgatási szervnek és a közlekedési hatóságnak rendelkezésére bocsátja a miniszteri rendeletben meghatározott információkat.
+
+(2) A közlekedési hatóság és a vasúti igazgatási szerv a (1) bekezdés alapján megismert személyes adatokat nyilvántartásba veszi és a tevékenység felhagyását követő 12 hónapig kezeli.
+
+(3) A képzési rendelet szerinti alapképzés és időszakos oktatás végzésére irányuló szándékot a szolgáltató köteles a közlekedési hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni.
+
+(4) Alapképzést, illetve időszakos oktatást a képzési rendeletben meghatározott személyi és tárgyi feltételeket teljesítő képzőszervezet végezhet, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – van, aki rendelkezik a képzési rendeletben az előírt szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: egyéb kötöttpályás közlekedési szakmai oktató).
+
+(5) Egyéb kötöttpályás közlekedési szakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
+
+(6) Ha a bejelentést a bejelentő a jogszabályi követelményeknek megfelelően nyújtotta be, a vasúti igazgatási szerv és a közlekedési hatóság a bejelentőt ennek tényéről értesíti.
 
 #### 6. Műszaki engedély
 
-7. § (1) E törvény alapján műszaki hatósági engedély (a továbbiakban: műszaki engedély) szükséges
+7. § (1) A közlekedési hatóság által kiadott műszaki hatósági engedély (a továbbiakban: műszaki engedély) szükséges
 
-- a) jogszabály eltérő rendelkezése hiányában – az alsó kötélvezetésű sífelvonó kivételével – a trolibusz kötött pályájának és az egyéb kötött pálya építéséhez, létesítéséhez, korszerűsítéséhez, átalakításához, használatbavételéhez, fennmaradásához és megszüntetéséhez, valamint
-- b) az egyéb kötöttpályás közlekedési rendszeren közlekedő kötöttpályás jármű – külön jogszabálynak megfelelő – üzembe helyezéséhez.
+- a) jogszabály eltérő rendelkezése hiányában az egyéb kötöttpálya építéséhez, átalakításához, az építési engedélyben foglaltaktól történő eltéréshez, használatbavételéhez, fennmaradásához, a forgalomba helyezéshez és megszüntetéséhez, a közúti közlekedési útvonal keresztezések biztosítási módjának meghatározásához, az üzemszünethez,
+- b) az egyéb kötöttpályás jármű – miniszteri rendeletben szabályozott – előzetes típusengedélyezéséhez, típusengedélyezéséhez, átalakításához, üzembe helyezéséhez,
+- c) az egyéb kötöttpályás közlekedési rendszer üzemeltetéséhez.
 
 (2) A műszaki engedélyt – külön jogszabályban meghatározottak szerint – a közlekedési hatóság adja ki.
 
@@ -92,30 +104,24 @@ terjed ki.
 
 (2) Az egyéb kötöttpályás közlekedés biztonsága érdekében
 
-- a) az egyéb kötött pályás közlekedési rendszert igénybe vevő, illetve az egyéb kötöttpályás közlekedési rendszer területén tartózkodó személyeknek az ott érvényben lévő biztonsági rendelkezéseket és szabályokat meg kell tartaniuk,
-- b) az egyéb kötött pálya üzemeltetője a kialakult vagy várható katasztrófa, rendkívüli esemény, súlyos káresemény (a továbbiakban együtt: veszélyhelyzet) esetén köteles a veszélyhelyzetre az érintetteket figyelmeztetni,
+- a) az egyéb kötöttpálya területén tartózkodó személyeknek az előírt biztonsági szabályokat meg kell tartaniuk,
+- b) az egyéb kötöttpálya üzemeltetője veszélyhelyzet esetén figyelmezteti az érintetteket, és az utasok kimentéséről gondoskodik,
 - c) a személyszállítást végző egyéb kötöttpályás rendszerek üzemeltetője köteles a baleseti károk fedezetére felelősségbiztosítással vagy bank által igazolt pénzügyi fedezettel rendelkezni, amelynek mértéke legalább 3 millió forint, alsó kötélvezetésű sífelvonó esetében pedig legalább 2 millió forint.
 
-(3) Az (1) bekezdés c) pontjában meghatározott fedezet rendelkezésre állásáról a kötött pálya üzemeltetője a bejelentés szabályai szerint tájékoztatja a közlekedési hatóságot az okiratok másolatának megküldésével.
+(3) A (2) bekezdés c) pontjában meghatározott fedezet rendelkezésre állásáról az egyéb kötöttpálya üzemeltetője a bejelentés szabályai szerint tájékoztatja a vasúti közlekedési hatóságot az okiratok másolatának megküldésével, egyidejűleg nyilatkozva arról, hogy a benyújtott másolatok az eredetivel mindenben megegyeznek.
 
 (4) Az egyéb kötött pálya üzemeltetője az egyéb kötöttpályás közlekedés biztonságával összefüggő feladatkör betöltésére legalább egy, a külön jogszabályban előírt képesítéssel és szaktudással rendelkező személyt köteles alkalmazni.
 
 #### 9. Az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörök betöltésének feltételei
 
-10. § (1) A sífelvonó kezelő és egyéb kötött pályás üzemvezető munkakörben foglalkoztatott munkavállaló hatósági alapvizsgához (a továbbiakban: alapvizsga) kötött. Alapvizsga a külön jogszabályban meghatározott alapképzés elvégzése esetén tehető. Az egyéb kötött pályás üzemvezetői munkakörre a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló miniszteri rendelet (a továbbiakban: képzési rendelet) hatósági alapvizsgára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+10. § (1) Az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört a képzési rendelet szerinti alapvizsgával (a továbbiakban: alapvizsga) rendelkező személy láthatja el. Alapvizsga a képzési rendeletben meghatározott alapképzésben tehető.
 
-(2) Az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállaló a képzési rendeletben foglaltak szerint köteles meghatározott időközönként időszakos oktatáson részt venni és időszakos hatósági vizsgát tenni.
-
-(3) Az alapképzést és időszakos oktatást nyújtó szervezetekre, valamint az alapképzésre és időszakos oktatásra a képzési rendeletben foglaltakat – az ott meghatározott eltéréssel – kell megfelelően alkalmazni.
-
-(4) Az egyéb kötöttpályás közlekedési szakmai oktatóra a vasúti képzési rendelet vasútszakmai oktatóra vonatkozó rendelkezéseit – az ott meghatározott eltéréssel – kell megfelelően alkalmazni.
-
-(5) Az egyéb kötöttpályás közlekedési vizsgabiztosra a vasúti képzési rendelet vasútszakmai oktatóra vonatkozó rendelkezéseit – az ott meghatározott eltéréssel – kell megfelelően alkalmazni.
+(2) Az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörben foglalkoztatott a képzési rendeletben meghatározott időközönként, időszakos oktatáson vesz részt és időszakos vizsgát tesz.
 
 11. § (1) A közlekedési hatóság
 
-- a) az egyéb kötöttpályás közlekedési szakmai oktató és vizsgabiztos nyilvántartásával kapcsolatban megismert személyes adatokat a névjegyzékbe való felvétel iránti eljárás jogerős befejezéséig,
-- b) az egyéb kötöttpályás közlekedési szakmai oktatóra és vizsgabiztosra vonatkozó, büntetett előéletre vonatkozó személyes adatokat a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás jogerős befejezéséig
+- a) az egyéb kötöttpályás közlekedési szakmai oktató és vizsgabiztos nyilvántartásával kapcsolatban megismert személyes adatokat a névjegyzékbe való felvétel iránti eljárás végleges döntéssel történő befejezéséig,
+- b) az egyéb kötöttpályás közlekedési szakmai oktatóra és vizsgabiztosra vonatkozó, büntetett előéletre vonatkozó személyes adatokat a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás végleges döntéssel történő befejezéséig
 
 kezeli.
 
@@ -123,29 +129,27 @@ kezeli.
 
 (3) Az alapvizsgáztatást és az időszakos vizsgáztatást a külön jogszabályban kijelölt vasúti vizsgaközpont mint tanúsító szerv a külön jogszabályban előírt feltételeknek megfelelő, a közlekedési hatóság vizsgabiztosi névjegyzékébe felvett és a közlekedési hatóság elnöke által kinevezett vizsgabiztosok bevonásával szervezi és végzi. A közlekedési hatóság eljárása során a vizsgák eredménye alapján adja ki a hatósági bizonyítványokat.
 
-12. § Az alapvizsga és az időszakos vizsga megszerzéséhez előírt képesítéshez szükséges képzést és vizsgáztatást végző vasúti vizsgaközpont és a vizsgabiztosok kötelesek biztosítani, hogy a képzés és a vizsgáztatás lehetősége valamennyi érintett számára megkülönböztetés nélkül, az egyenlő bánásmód követelményei szerint rendelkezésre álljon. A feltételek fennállását a közlekedési hatóság ellenőrzi.
+12. § Az alapvizsga és az időszakos vizsga megszerzéséhez előírt képesítéshez szükséges képzést végző szervezetek és a vizsgáztatást végző vasúti vizsgaközpont, valamint a vizsgabiztosok kötelesek biztosítani, hogy a képzés és a vizsgáztatás lehetősége valamennyi érintett számára megkülönböztetés nélkül, az egyenlő bánásmód követelményei szerint rendelkezésre álljon. A feltételek fennállását a közlekedési hatóság ellenőrzi.
 
-#### 10. Turisztikai hajtányra vonatkozó rendelkezések
+#### 9/A. Az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörben foglalkoztatottak egészségi alkalmassága
 
-13. § (1) Turisztikai hajtánnyal közlekedni – a (2) bekezdésben meghatározott kivétellel – olyan egyéb kötött vagy vasúti pályán lehet,
+12/A. § (1) Az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörök betöltése egészségi alkalmassághoz kötött.
 
-- a) amelyen nincs vasúti közlekedés vagy a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló kormányrendelet szerinti üzemszünet van,
-- b) amelyen ellenirányú egyéb kötöttpályás közlekedés nincs, és az azonos pályán egy irányban közlekedő járművek külön jogszabályban meghatározott módon történő biztonságos közlekedése biztosított,
-- c) amelynek – az egyéb kötöttpályás közlekedés biztonságára és a biztonsági szabályzatokra, az egyéb kötöttpályás közlekedési forgalom lebonyolítására és a hálózati forgalmi szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó szabályairól szóló miniszteri rendeletben meghatározott – kialakítása – így különösen lejtviszonyai, a pálya íve, valamint a pálya állapota – lehetővé teszi a biztonságos használatot,
-- d) amely esetében az egyéb kötött vagy vasúti pálya üzemeltetőjével (a pályahálózat-működtetővel) szerződésben határozták meg a tevékenység folytatásának kereteit és a tevékenység megkezdését és befejezését előzetesen bejelentették az egyéb kötött vagy vasúti pálya üzemeltetőjének,
-- e) amely esetében az egyéb kötött pálya üzemeltetője – munkaviszonyban vagy munkaviszonyra irányuló egyéb jogviszonyban – legalább egy fő, hatósági vizsgát tett turisztikai hajtány üzemvezetőt vagy vasútüzem-vezetőt alkalmaz.
+(2) Az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörben foglalkoztatott kormányrendeletben meghatározott esetekben előzetes, időszakos, rendkívüli és záró egészségi alkalmassági vizsgálatokon részt vesz.
 
-(2) A turisztikai hajtánypálya a 24. § (2) bekezdés e) pontjában foglalt felhatalmazás alapján kiadott miniszteri rendeletben foglaltak szerint keresztezhet közutat és magánutat.
+(3) Az egészségi alkalmasság megállapítását a kormányrendeletben kijelölt hatóság vagy hatóságok, vagy foglalkozás-egészségügyi orvos végzik.
 
-(3) A szakmai alap- és időszakos képzésre vonatkozó rendelkezéseket nem kell alkalmazni a turisztikai hajtány vezetőjére.
+(4) A hatóság vagy hatóságok (3) bekezdés szerinti eljárásában tanúsító szervezetként közreműködik a kormányrendeletben kijelölt szervezet, amely a tevékenységét a külön jogszabályban meghatározott feltételeknek megfelelő és a közlekedési hatóság által névjegyzékbe vett orvos bevonásával végzi.
 
-(4) A turisztikai hajtány üzemeltetője vagy kezelője köteles a turisztikai hajtány vezetőjét a vasúti pályán történő biztonságos közlekedéshez szükséges ismeretekről igazolt módon kioktatni.
+(5) Ha a Kormány nem közigazgatási feladat ellátására létrehozott szervezetet jelöl ki a (3) bekezdés szerinti feladat ellátására, e szervezet tevékenységét a közlekedési hatóság ellenőrzi.
 
-(5) A turisztikai hajtánypálya létesítésére, kijelölésére és üzemeltetésére vonatkozó részletes szabályokat külön jogszabály állapítja meg. Jogszabály a turisztikai hajtány éjszakai használatára vonatkozóan eltérő rendelkezéseket állapíthat meg a pályára, a járműre és az alkalmazott forgalmi szabályokra vonatkozóan.
+#### 10.
 
-#### 11. A járművek üzembe helyezése
+#### 13. §
 
-14. § A turisztikai hajtány, sikló és függővasút járművének üzembe helyezését a közlekedési hatóság engedélyezi.
+#### 11.
+
+#### 14. §
 
 ### IV. Fejezet
 
@@ -154,16 +158,18 @@ kezeli.
 15. § (1) A közlekedési hatóság feladat- és hatáskörébe tartozik:
 
 - a) a műszaki engedély kiadása,
-- b) az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy az egyéb kötöttpályás közlekedés biztonságával összefüggő tevékenységet végző munkavállaló a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
-- c) a siklók, sífelvonók, a függővasutak, az egyéb kötöttpályás üzemi létesítmények, a turisztikai hajtányok, az egyéb kötöttpályás közlekedési tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben foglaltaknak,
-- d) az egyéb kötöttpályás közlekedési rendszerek műszaki-biztonsági, valamint a kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásának vezetése, továbbá
-- e) mindazon feladatok ellátása, amelyeket kormányrendelet feladatkörébe utal.
+- b) az alapképzés és az időszakos oktatás ellenőrzése, az alapvizsga és az időszakos vizsga alapján a hatósági igazolás kiállítása, továbbá annak ellenőrzése, hogy az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörben foglalkoztatott személy a jogszabályban előírt alapvizsgával és időszakos vizsgával rendelkezik-e,
+- c) a siklók, sífelvonók, és az egyéb kötöttpályás üzemi létesítmények, az egyéb kötöttpályás közlekedési tevékenységek ellenőrzése abból a szempontból, hogy azok megfelelnek-e a jogszabályok előírásainak, a hatósági engedélyekben foglaltaknak,
+- d) az egyéb kötöttpályás közlekedési rendszerek műszaki-biztonsági, valamint a kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásának vezetése,
+- e) az egészségi alkalmasság megállapítása és ellenőrzése, valamint a vizsgáló szervezet 12/A. § szerinti tevékenységének ellenőrzése,
+- f) jogszabály külön rendelkezésének hiányában a képzést és vizsgáztatást, valamint az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának vezetése,
+- g) mindazon feladatok ellátása, amelyeket kormány- vagy miniszteri rendelet feladatkörébe utal.
 
 (2) A közlekedési hatóság kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
 (3) Az ügyfél a közlekedési hatóság felhívására köteles az ügy eldöntéséhez szükséges adatokat, iratokat a közlekedési hatóság részére szolgáltatni.
 
-16. § (1) A közlekedési hatóságnak az egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos eljárásában ügyfélnek minősül az érintett ingatlan tulajdonosa és az érintett ingatlan vonatkozásában a használat jogát biztosító dologi joggal rendelkező személy.
+16. § (1) A közlekedési hatóságnak az egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos eljárásában ügyfélnek minősül az érintett ingatlan tulajdonosa, vagyonkezelője és az érintett ingatlan vonatkozásában a használat jogát biztosító dologi joggal rendelkező személy.
 
 (2) Az (1) bekezdés alkalmazásában az érintett ingatlan
 
@@ -177,15 +183,13 @@ ingatlan.
 
 (4) A közlekedési hatóság az egyéb kötöttpályás közlekedési rendszer építésével, korszerűsítésével, átalakításával és megszüntetésével kapcsolatos engedélyezési eljárásban a hiányosan benyújtott kérelemmel kapcsolatos – a tartalmi és formai követelményekre vonatkozó – részletes hiánypótlási felhívást a kérelem beérkezését követő naptól számított harminc napon belül adja ki.
 
-(5) Az ügyintézési határidő a közlekedési hatóságnak az egyéb kötöttpályás közlekedési rendszer építésével, használatbavételével, korszerűsítésével, átalakításával és megszüntetésével kapcsolatos engedélyezési eljárásában, és az ellenőrzési eljárásban négy hónap. Az eljárás megindításáról az ügyfeleket és az érdekelteket a közlekedési hatóság a kérelem beérkezésétől számított tizenöt napon belül értesíti. A szakhatósági eljárás ügyintézési határideje huszonegy nap.
+(5) Az ügyintézési határidő a közlekedési hatóságnak az egyéb kötöttpályás közlekedési rendszer építésével, használatbavételével, korszerűsítésével, átalakításával és megszüntetésével kapcsolatos engedélyezési eljárásában, valamint az ellenőrzési eljárásban négy hónap.
 
-(6) Az egyéb kötöttpályás közlekedési rendszer engedélyezésével kapcsolatos jogerős határozattal szemben újrafelvételi kérelem nem nyújtható be.
+(6)
 
 (7) A közlekedési hatóság az egyéb kötöttpályás közlekedés biztonság körébe tartozó feladatait nem ruházhatja át, és annak elvégzésére más szervezetet – közigazgatási szerv kivételével – nem kérhet fel.
 
-17. § (1) A hatóság a 7. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról a kormányrendeletben meghatározott adatbázisban regisztrált, ügyfélnek minősülő szervezetet az ügyfél által megadott elektronikus úton vagy az ügyfél egyéb, hangkapcsolati útnak nem minősülő elektronikus elérhetőségén az eljárás megindításától számított nyolc napon belül értesíti. Az eljárásban nem azonosítható ügyféllel szemben hirdetményi kézbesítésnek van helye.
-
-(2) A 7. § (1) bekezdés a) pontjában meghatározott eljárásban hozott döntés fellebbezéssel nem érintett rendelkezései tekintetében a döntés jogerőssé válik, ha kizárólag a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+17. § A 7. § (1) bekezdés a) pontjában meghatározott eljárásban fellebbbezésnek van helye.
 
 18. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály vasúti közlekedési szakkérdésben szakértő igénybevételét írja elő, vagy az eljáró hatóság a szakértői vélemény alapján hozott döntésben jogkövetkezményt állapít meg, egyéb kötöttpályás szakértőként (a továbbiakban: szakértő) eljárhat
 
@@ -201,55 +205,89 @@ ingatlan.
 
 (4)–(5)
 
-(6) A (3) bekezdés szerinti személyes adatokat a közlekedési hatóság vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(6) A (3) bekezdés szerinti személyes adatokat a közlekedési hatóság vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.
 
 #### 13. A hatósági ellenőrzés, bírság
 
-19. § (1) A közlekedési hatóság az egyéb kötöttpályás közlekedési rendszer, valamint a trolibusz kötött pályájának üzem- és forgalombiztos állapotát, a karbantartás, az időszakos vizsgálatok és a szükséges javítás elvégzését ellenőrzi. Az egyéb kötött pálya üzemeltetője és a trolibusz kötött pályájának üzembentartója (a továbbiakban együtt: üzemeltető) köteles a szabad ellenőrzés valamennyi feltételét biztosítani, különösen a lényeges dokumentumokhoz, létesítményekhez, berendezésekhez és felszerelésekhez való korlátozás nélküli hozzáférést. Ha a közlekedési hatóság az ellenőrzés során mulasztást állapít meg, felhívja az üzemeltető figyelmét a jogszabálysértésre és legalább 20 napos határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel végzésben kötelezi az üzemeltetőt a vizsgálat vagy a javítás elvégzésére. Ha a felhívásban meghatározott határidő eredménytelenül telik el vagy az üzemeltető ismételten mulasztást követ el, a közlekedési hatóság bírságot (a továbbiakban: kötöttpályás bírság) szab ki.
+19. § (1) A közlekedési hatóság az egyéb kötöttpályás közlekedési rendszer kötött pályájának üzem- és forgalombiztos állapotát, a karbantartás, az időszakos vizsgálatok és a szükséges javítás elvégzését ellenőrzi. Az egyéb kötöttpálya üzemeltetője az ellenőrzés valamennyi feltételét biztosítja, különösen a lényeges dokumentumokhoz, létesítményekhez, berendezésekhez és felszerelésekhez való korlátozás nélküli hozzáférést.
 
-(2) A közlekedési hatóság ellenőrzése során a jármű vezetője vagy kezelője a járművet köteles megállítani, személyazonosságát és járművezetési jogosultságát igazolni, a jármű és tartozékai, az okmányok ellenőrzésével kapcsolatos felhívásnak eleget tenni. Az ellenőrzés során a járműhöz és tartozékaihoz, valamint a rakományhoz tartozó okmányokat a vasúti biztonsági hatóság részére be kell mutatni.
+(2) Ha a közlekedési hatóság az ellenőrzés során mulasztást állapít meg, felhívja az üzemeltető figyelmét a jogszabálysértésre és legalább 20 napos határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel végzésben kötelezi az üzemeltetőt a vizsgálat vagy a javítás elvégzésére. Ha a felhívásban meghatározott határidő eredménytelenül telik el vagy az üzemeltető ismételten mulasztást követ el, a vasúti közlekedési hatóság bírságot szab ki.
 
-(3) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság az egyéb kötöttpályás közlekedési rendszer üzemének felfüggesztése mellett az üzemeltetőt a vizsgálat vagy a javítás elvégzésére kötelezi, a vizsgált jármű forgalomból való kivonását vagy a személyzet munkavégzésének felfüggesztését rendeli el.
+(3) A (2) bekezdés szerinti bírság a cselekmény elkövetésétől számított két éven belül szabható ki. Folyamatos cselekmény, illetve jogsértő állapot fenntartása esetén e határidő a cselekmény befejezésekor, illetve az állapot megszüntetésekor kezdődik. A bírság ismételten is kiszabható.
 
-(4) A közlekedési hatóság a trolibusz kötött pályájának üzembentartójával vagy a siklót, sífelvonót, függővasutat üzemeltetővel szemben a kötött pálya engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata esetén
+(4) A közlekedési hatóság ellenőrzése során a jármű vezetője vagy kezelője a járművet köteles megállítani, személyazonosságát és járművezetési jogosultságát igazolni, a jármű és tartozékai, az okmányok ellenőrzésével kapcsolatos felhívásnak eleget tenni. Az ellenőrzés során a járműhöz és tartozékaihoz, valamint a rakományhoz tartozó okmányokat a vasúti közlekedési hatóság részére be kell mutatni.
 
-- a) bírságot szabhat ki, és
-- b) a kötött pálya átalakítását vagy a (3) bekezdés szerinti esetben lebontását, gyártásának vagy üzemeltetésének a megszüntetését, forgalomból való kivonását rendelheti el.
+(5) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a vasúti közlekedési hatóság az egyéb kötöttpályás közlekedési rendszer üzemének felfüggesztése mellett az üzemeltetőt a vizsgálat vagy a javítás elvégzésére kötelezi, a vizsgált jármű forgalomból való kivonását vagy a személyzet munkavégzésének felfüggesztését rendeli el és bírságot szabhat ki.
 
-(5) Engedély nélkül vagy engedélytől eltérő módon létesített, átalakított kötött pálya lebontását, gyártásának, átalakításának vagy üzemeltetésének a megszüntetését, forgalomból való kivonását a közlekedési hatóság akkor rendeli el, ha azok fennmaradása az élet- és vagyonbiztonságot, vagy az emberi környezetet és a természeti értékeket veszélyezteti, és a veszély megfelelő átalakítással sem szüntethető meg.
+(6) A közlekedési hatóság az egyéb kötöttpályás közlekedési rendszer üzemeltetőjével szemben a kötöttpálya engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata esetén
 
-(6) A bírság jogsértésenként
+- a) bírságot szab ki, és
+- b) a kötöttpálya átalakítását vagy az (5) bekezdés szerinti esetben lebontását, gyártásának vagy üzemeltetésének a megszüntetését, forgalomból való kivonását rendelheti el.
 
-- a) a trolibusz kötött pályájának üzembentartójával szemben 4 millió forintig,
-- b) a siklót, sífelvonót, függővasutat üzemeltetővel szemben 1 millió forintig,
-- c) a (3) bekezdésben meghatározott esetekben 2 millió forintig
+(7) Engedély nélkül vagy engedélytől eltérő módon létesített, átalakított kötöttpálya lebontását, gyártásának, átalakításának vagy üzemeltetésének a megszüntetését, forgalomból való kivonását a közlekedési hatóság akkor rendeli el, ha azok fennmaradása az élet- és vagyonbiztonságot, vagy az emberi környezetet és a természeti értékeket veszélyezteti, és a veszély megfelelő átalakítással sem szüntethető meg.
+
+(8) Az (5) bekezdés szerinti bírság jogsértésenként
+
+- a) a sífelvonót üzemeltetővel szemben 500 ezer forintig,
+- b) a sífelvonó kivételével az egyéb kötöttpályás közlekedési rendszer üzemeltetőjével szemben 1 millió forintig,
 
 terjedhet.
 
+(9) A (3) bekezdésben meghatározott esetekben a bírság 2 millió forintig terjedhet.
+
 20. § (1) A közlekedési hatóság az egyéb kötöttpályás közlekedés biztonságával és az egyéb kötöttpályás forgalom lebonyolításával kapcsolatos szabályok megsértése esetén
 
-- a) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalót a külön jogszabályban meghatározottak szerint határozott időre eltilthatja a munkavégzéstől, valamint a munkakör további betöltését képzés elvégzéséhez és hatósági vizsga letételéhez kötheti,
-- b) felszólítja az üzemeltetőt az egyéb közlekedési rendszer leállítására, ha az ellenőrzés alá vont egyéb kötött pályás közlekedési rendszer a külön jogszabályokban, valamint a hálózati forgalmi és a biztonsági utasításokban előírásoknak nem felel meg vagy az egyéb kötöttpályás közlekedés biztonsága érdekében egyébként indokolt.
+- a) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalót és egyéb foglalkoztatott személyt a külön jogszabályban meghatározottak szerint határozott időre eltilthatja a munkavégzéstől, valamint a munkakör további betöltését képzés elvégzéséhez és hatósági vizsga letételéhez kötheti,
+- b) felszólítja az üzemeltetőt az egyéb közlekedési rendszer leállítására, ha az ellenőrzés alá vont különleges kötöttpályás közlekedési rendszer a külön jogszabályokban, valamint a hálózati forgalmi és a biztonsági utasításokban előírásoknak nem felel meg vagy az egyéb kötöttpályás közlekedés biztonsága érdekében különösen indokolt.
 
-(2) A 19. § szerinti kötöttpályás bírság a cselekmény elkövetésétől számított két éven belül szabható ki. Folyamatos cselekmény, illetve jogsértő állapot fenntartása esetén e határidő a cselekmény befejezésekor, illetve az állapot megszüntetésekor kezdődik. A kötöttpályás bírság ismételten is kiszabható.
+(2) Az e törvényben vagy a végrehajtására kiadott jogszabályokban meghatározott adatszolgáltatási kötelezettség elmulasztása esetén a közlekedési hatóság bírságot szab ki.
+
+(3) Ha a jogsértés
+
+- a) a pályahálózat vonatkozásában merül fel, a bírság 1 millió forintig,
+- b) járművek és gépészeti berendezések vonatkozásában merül fel, a bírság 500 ezer forintig,
+- c) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalókés egyéb foglalkoztatottak képzése és vizsgáztatása vonatkozásában merül fel, a bírság 50 ezer forintig,
+- d) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók és egyéb foglalkoztatottak egészségi alkalmassága vonatkozásában merül fel, a bírság 50 ezer forintig
+
+terjedhet jogsértésenként.
+
+20/A. § (1) A tevékenység végzését szüneteltető személy vagy szervezet kivételével a 6. § (1) bekezdése szerinti tevékenységet végző személynek vagy szervezetnek a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatban az egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képességének biztosításának részletes szabályairól szóló kormányrendeletben meghatározott részletes szabályoknak folyamatosan meg kell felelnie.
+
+(2) Ha a vasúti igazgatási szerv ellenőrzése során megállapítja, hogy az (1) bekezdés szerinti személy vagy szervezet a felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételnek nem felel meg, a vasúti igazgatási szerv a megfelelés igazolásáig, legfeljebb hat hónapra felfüggeszti a tevékenység folytatását, és ennek tényét az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában rögzíti.
+
+(3) A vasúti igazgatási szerv a tevékenység folytatását megtiltja, és ennek tényét rögzíti az egyéb kötöttpályás közlekedési tevékenységet végző szervezetek nyilvántartásában. Ha a személy vagy szervezet felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos feltételek nem teljesítése a személy vagy szervezet által végzett valamennyi tevékenységet érinti, akkor a személyt vagy szervezetet törli, ha a személy vagy szervezet a feltételeknek való megfelelést a tevékenységet felfüggesztő határozat jogerőre emelkedését követő hat hónapon belül nem igazolja.
+
+(4) A 18/A. § (1) bekezdés a) pontjában meghatározott bírság legmagasabb összege 500 ezer forint.
 
 #### 14. Adatvédelem, adatkezelés
 
-21. § (1) A közlekedési hatóság jogosult a műszaki engedélyek kiadásának alapjául szolgáló személyes adatokat kezelni.
+21. § A közlekedési hatóság jogosult
 
-(2) A közlekedési hatóság személyes adatokat az egyéb kötöttpályás közlekedés zavartalanságának biztosítása, az egyéb kötöttpályás közlekedés biztonságának fenntartása, valamint a 15. § (1) bekezdés b) pontjában meghatározott feladatok ellátása érdekében kezeli.
+- a) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörben foglalkoztatottak természetes személyazonosító adatait, valamint büntetett előéletére és ahol e törvény alapján ezt igazolni kell, arra vonatkozó különleges adatait, hogy foglalkozástól vagy járművezetéstől eltiltás hatálya alatt nem áll,
+- b) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók természetes személyazonosító adatait, a munkakör betöltéséhez szükséges egészségügyi alkalmasságra vonatkozó adatokat,
+- c) az egyéb kötöttpályás közlekedési tevékenység végző személy vagy szervezet vezető tisztségviselőjének, valamint az egyéb kötöttpályás közlekedési tevékenység szakmai irányítását ellátó személy természetes személyazonosító adatait és büntetett előéletére vonatkozó különleges adatokat,
+- d) a műszaki engedélyek kiadásának alapjául szolgáló adatokat,
+- e) a képzést és vizsgáztatást, illetve az egészségi alkalmasság vizsgálatát és véleményezését végző személyek természetes személyazonosító adatait,
 
-(3) Az (1) bekezdésben meghatározott adatokat a közlekedési hatóság az egyéb kötöttpályás közlekedés biztonsági követelmények érvényesítése céljából a munkavégzésre való alkalmasság megállapítása, a vasúti közlekedés biztonságának folyamatos fenntartása, valamint a 15. § (1) bekezdés b) pontjában meghatározott feladat ellátása érdekében kezeli.
+kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket – ezek hitelességének utólagos igazolása céljából – nyilvántartani.
 
-(4) A 15. § (1) bekezdés b) pontjában meghatározott esetben az (1) bekezdésben meghatározott adatokat a közlekedési hatóság addig az időpontig tartja nyilván, amíg az érintett természetes személy az egyéb kötött pályát üzemeltető ügyvezetését, valamint az egyéb kötött pályás közlekedési tevékenység szakmai irányítását ellátja.
+22. § (1) A közlekedési hatóság személyes adatokat az egyéb kötöttpályás közlekedés zavartalanságának biztosítása, az egyéb kötöttpályás közlekedés biztonságának fenntartása, valamint a 15. § (1) bekezdés b) pontjában meghatározott feladatok ellátása érdekében kezeli.
 
-22. § (1) E törvény felhatalmazása alapján a közlekedési hatóság mint adatkezelésre jogosult szerv a kezelt adatokat személyazonosító adatok nélkül statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
+(2) Az (1) bekezdésben meghatározott személyes adatokat a közlekedési hatóság az egyéb kötöttpályás közlekedés biztonsági követelmények érvényesítése céljából a munkavégzésre való alkalmasság megállapítása, a vasúti közlekedés biztonságának folyamatos fenntartása, valamint a 15. § (1) bekezdés b) pontjában meghatározott feladat ellátása érdekében kezeli.
 
-(1a) A közlekedési hatóság által kezelt adatokat – a minősített adatok kivételével – a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(3) A 15. § (1) bekezdés b) pontjában meghatározott esetben az (1) bekezdésben meghatározott adatokat a közlekedési hatóság addig az időpontig tartja nyilván, amíg az érintett természetes személy az egyéb kötött pályát üzemelteti vagy az üzemeltető szervezet vezető tisztségviselője, valamint az egyéb kötöttpályás közlekedési tevékenység szakmai irányítását ellátja.
 
-(2) A 21. § (1) bekezdésében meghatározott adatok a rendőrségnek, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából továbbíthatók.
+(4) A közlekedési hatóság által kezelt adatokat – a minősített adatok kivételével – a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+
+22/A. § (1) A közlekedési hatóság, mint adatkezelésre jogosult szerv a kezelt adatokat személyazonosító adatok nélkül, statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltat jogszabályban erre feljogosított szerv részére.
+
+(2) A 21. §-ban meghatározott adatok a rendőrségnek, az ügyészségnek, a bíróságnak bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából továbbíthatók.
 
 (3) A közlekedési hatóság vezetője a minősített adat védelméről szóló törvény tekintetében minősítésre jogosultnak minősül.
+
+22/B. § (1) A vasúti igazgatási szerv jogosult az egyéb kötöttpályás közlekedési tevékenységet végző személy és szervezet vezető tisztségviselői, valamint az e tevékenységek szakmai irányítását ellátó vezetőinek természetes személyazonosító adatait a tevékenység ellátásának ideje alatt kezelni.
+
+(2) Az (1) bekezdésben felsorolt személyek adataiban bekövetkezett változásról különleges kötöttpályás közlekedési tevékenységet végző személy és szervezet, a változást követő 8 napon belül tájékoztatja a vasúti igazgatási szervet.
 
 #### 15. Üzleti titok
 
@@ -257,7 +295,7 @@ terjedhet.
 
 (2) Ha az eljárásban részt vevő ügyfél jogérvényesítése érdekében indokolt, a közlekedési hatóság felszólíthatja az üzleti titokkal rendelkező ügyfelet az üzleti titok minősítés azonnali hatállyal történő megszüntetésére. Ha az üzleti titokkal rendelkező ügyfél az üzleti titok minősítést nem oldja fel, és ezzel az ügy érdemi elbírálását akadályozza, a közlekedési hatóság végzésben az eljárás folytatásához szükséges mértékben kötelezi az üzleti titok másik fél számára történő rendelkezésre bocsátására.
 
-(3) A közlekedési hatóság (2) bekezdésben foglalt végzése elleni bírósági felülvizsgálat iránti halasztó hatályú kérelem előterjesztésének a közléstől számított 15 napon belül van helye. A kérelem tárgyában a bíróság 15 napon belül nemperes eljárásban határoz.
+(3) A vasúti igazgatási szerv (2) bekezdésben foglalt végzése 15 napon belül közigazgatási perben megtámadható, a keresetlevél benyújtásának halasztó hatálya van.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -265,21 +303,22 @@ terjedhet.
 
 24. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a) az egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, valamint az egyéb kötöttpályás közlekedési rendszerek üzemeltetése, illetve üzemben tartása ellenőrzésének részletes szabályait,
-- b) a trolibusz felsővezetéki infrastruktúrájának létesítésével összefüggésben az idegen ingatlanok igénybevételének részletes szabályait,
-- c) a kötöttpályás bírság legmagasabb mértékére, a vasúti bírság mértékére, továbbá a megfizetésükre vonatkozó részletes szabályokat,
-- d) az e törvény szerinti szakértői tevékenység folytatásának a részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket
+- a) a közlekedési hatóság, valamint a vasúti igazgatási szerv kijelölését, eljárásuk szabályait,
+- b) az egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályait, valamint az egyéb kötöttpályás közlekedési rendszerek üzemeltetése, illetve üzemben tartása ellenőrzésének részletes szabályait,
+- c) az egyéb kötöttpályás vizsgaközpont kijelölését,
+- d) a vasúti igazgatási szerv által kiszabható bírság és közlekedési hatóság által kiszabható bírság megfizetésére vonatkozó szabályokat,
+- e) az e törvény szerinti szakértői tevékenység folytatásának a részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- f) a jogszabályban meghatározott munkakörben foglalkoztatottakkal szemben támasztott egészségügyi követelményeket és az egészségügyi vizsgálat feltételeit, valamint az egészségi alkalmasság megállapítását végző szerv vagy személyek kijelölését, az egészségi alkalmasság vizsgálatát és véleményezését végző személyek nyilvántartásának részletes szabályait,
+- g) az egyéb kötöttpályás közlekedési tevékenységet végző személyek és szervezetek kötelező baleseti kárfedezeti képességének biztosításának részletes szabályait
 
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-- a) az alsó kötélvezetésű sífelvonó tevékenysége megkezdésének és tevékenységével való felhagyás bejelentésére vonatkozó szabályokat, valamint az egyéb kötöttpályás közlekedési rendszer üzemszünet bejelentésének részletes szabályait,
-- b)
-- c) a vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerek és a rendszereken közlekedő járművek műszaki engedélyezésének szabályait,
-- d) a vasútnak nem minősülő egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre vonatkozó szabályokat,
-- e) a vasútnak nem minősülő egyéb kötöttpályás közlekedés biztonságára és a biztonsági szabályzatokra, az egyéb kötöttpályás közlekedési forgalom lebonyolítására és a hálózati forgalmi szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó szabályokat,
-- f) a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére, a közlekedési hatóság és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
+- a) az egyéb kötöttpályás közlekedési rendszereken közlekedő járművek műszaki engedélyezésének szabályait,
+- b) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre vonatkozó szabályokat,
+- c) az egyéb kötöttpályás közlekedési rendszer üzemeltetési szabályzatának tartalmi és a formai követelményeire, valamint közlekedési hatósági jóváhagyására vonatkozó szabályokat, valamint az egyéb kötöttpályás közlekedési rendszer üzemeltetési engedélyezési szabályait
+- d) a közlekedési hatóság és a vasúti igazgatási szerv eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, továbbá az azok megfizetésére, a közlekedési hatóság, valamint a vasúti igazgatási szerv és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
 
 rendeletben állapítsa meg.
 
@@ -294,3 +333,5 @@ rendeletben állapítsa meg.
 #### 19. Az Európai Unió jogának való megfelelés
 
 27. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+27. § Az egyes közlekedési tárgyú törvények módosításáról szóló 2017. évi LXIII. törvény (a továbbiakban: Ekptmódtv.) hatálybalépésekor folyamatban lévő eljárásokban a Ekptmódtv. rendelkezéseit kell alkalmazni.

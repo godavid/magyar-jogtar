@@ -215,7 +215,7 @@ személyek jegyezhetik.
 
 (3) Ha jogszabály valamilyen termék vagy szolgáltatás tekintetében az (1) bekezdés szerinti tevékenységhez külön engedély meglétét követeli meg, a kereskedelmi képviselet a tevékenységet csak az engedély birtokában folytathatja.
 
-(4) A kereskedelmi képviselet saját nevében vállalkozási tevékenységet, továbbá a külön törvény szerinti ügyvédi, külföldi jogi tanácsadói tevékenységet nem folytathat.
+(4) A kereskedelmi képviselet saját nevében vállalkozási tevékenységet, továbbá ügyvédi tevékenységet nem folytathat.
 
 (5) Az államháztartás alrendszerei számára kötelezően teljesítendő befizetésekről és az azzal kapcsolatos kötelezettségekről külön jogszabályok és nemzetközi szerződések rendelkeznek. Az államháztartás társadalombiztosítási alrendszerét megillető fizetési kötelezettséget (járulék, hozzájárulás) a foglalkoztatottak közül csak azok után kell teljesíteni, akikre a társadalombiztosítási jogszabályok szerint a biztosítás kiterjed.
 

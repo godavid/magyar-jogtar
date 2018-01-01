@@ -82,7 +82,7 @@ rendeletben határozza meg.
 
 - a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény), továbbá az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján állami tulajdonba került, állami egészségügyi feladatellátást szolgáló vagyon,
 - b) e törvény alapján állami tulajdonba kerülő, az állami egészségügyi feladatellátást szolgáló vagyon és
-- c) e törvény 4. mellékletében felsorolt országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.
+- c) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.
 
 (1a) Az (1) bekezdés alapján az ÁEEK jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő beszerzései és beruházásai alapján létrejött vagyon tekintetében is.
 
@@ -116,7 +116,7 @@ rendeletben határozza meg.
 - a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény, az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény, valamint az e törvény alapján állami tulajdonba került, állami egészségügyi feladatellátást szolgáló vagyon tekintetében:
   - aa) azon ingatlanok esetén, amelyekre az ÁEEK vagyonkezelői joga az ingatlan-nyilvántartásba bejegyzésre került, az ÁEEK kérelme;
   - ab) az aa) alpontban foglalt vagyonkezelői jog bejegyzésének hiányában az átadás-átvételi dokumentáció alapján készült, az ÁEEK által hitelesített és aláírt, helyrajzi számmal ellátott ingatlanlista, valamint az ÁEEK tulajdonosi joggyakorlásába kerülésére vonatkozó nyilatkozata,
-- b) a 4. mellékletében felsorolt országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. és a bejegyzést kérő ÁEEK által aláírt vagyonkezelési szerződést megszüntető szerződés
+- b) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. és a bejegyzést kérő ÁEEK által aláírt vagyonkezelési szerződést megszüntető szerződés
 
 alapján kerül sor.
 
@@ -222,17 +222,3 @@ alapján kerül sor.
 ### 1–3. melléklet a 2012. évi XXXVIII. törvényhez
 
 ### 4. melléklet a 2012. évi XXXVIII. törvényhez
-
-#### Országos gyógyintézetek
-
-- 1. Országos Korányi TBC és Pulmonológiai Intézet
-- 2. Országos Reumatológiai és Fizioterápiás Intézet
-- 3. Országos Sportegészségügyi Intézet
-- 4. Országos Orvosi Rehabilitációs Intézet
-- 5. Országos Onkológiai Intézet
-- 6. Gottsegen György Országos Kardiológiai Intézet
-- 7. Országos Idegtudományi Intézet
-- 8. Mátrai Gyógyintézet
-- 9. Állami Szívkórház Balatonfüred
-- 10. Parádfürdői Állami Kórház
-- 11. Állami Szanatórium Sopron

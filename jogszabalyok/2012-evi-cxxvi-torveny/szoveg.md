@@ -19,7 +19,7 @@ Az Országgyűlés az agrár- és élelmiszergazdaság, valamint a vidékfejlesz
   - bb) a ba) pont szerinti feltételek hiányában az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató
   - bc) a ba) és bb) pont szerinti feltételek hiányában mezőgazdasági termelőszervezetként nyilvántartott,
 
-a polgári perrendtartásról szóló 1952. évi III. törvény 396. § szerinti gazdálkodó szervezet, kivéve az egyéni vállalkozót;
+a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja szerinti gazdálkodó szervezet, kivéve az egyéni vállalkozót;
 
 - c)
 - d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek;
@@ -255,7 +255,7 @@ használhatja fel.
   - cd) 180 napon keresztül folyamatosan fennálló, az állami adóhatóságnál nyilvántartott túlfizetéssel csökkentett adótartozása összességében számítva a 100 millió forintot meghaladja;
 - d) a gazdálkodó szervezetet a közbeszerzési eljárásban való részvételtől a Közbeszerzési Döntőbizottság jogerősen eltiltotta;
 - e) a gazdálkodó szervezettel szemben jogerősen megállapították a rendezett munkaügyi kapcsolatok megsértését;
-- f) a gazdálkodó szervezetet jogerősen jelentős összegre elmarasztalták
+- f) a gazdálkodó szervezetet véglegessé vált határozattal jelentős összegre elmarasztalták
   - fa) versenyfelügyeleti eljárásban,
   - fb) a fogyasztóvédelmi hatóság eljárásában;
 - g) a gazdálkodó szervezet a békéltető testület eljárásában a tanács ajánlásának nem tett eleget.
@@ -655,7 +655,7 @@ használhatja fel.
 
 (4) Az agrárkamara hatáskörébe utalt közigazgatási ügyekben a főigazgató a közigazgatási szerv vezetőjeként jár el. Ezekben az ügyekben ügyintézőként csak az járhat el, aki a közszolgálati tisztviselők jogállásáról szóló törvény szerint köztisztviselőnek vagy ügykezelőnek kinevezhető.
 
-27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, akkor – törvény eltérő rendelkezése hiányában – első fokon az agrárkamara megyei ügyintéző szervezete, másodfokon az agrárkamara országos ügyintéző szervezete jár el.
+27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, – e törvény eltérő rendelkezése hiányában – első fokon az agrárkamara megyei ügyintéző szervezete jár el. A megyei ügyintéző szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az agrárkamara országos ügyintéző szervezete jogosult.
 
 28. § Az agrárkamara országos, megyei ügyfélszolgálati rendszert működtet. Az agrárkamara az ügyfélszolgálaton keresztül teljesíti a 14. és 16. §-ban előírt igazgatási és szolgáltatási jellegű feladatait. Az ügyfélszolgálat működési területének kijelölését, működési rendjét az elnökség által elfogadott szervezeti és működési szabályzat tartalmazza, melyet a főigazgató köteles előterjeszteni.
 
@@ -790,7 +790,7 @@ használhatja fel.
 
 (4) Az agrárkamara (2) bekezdés szerinti gazdasági társasága az agrárkamara gazdasági tevékenységet is igénylő közfeladatainak ellátása során a közfeladatai ellátását veszélyeztető mértékű kölcsönt nem vehet fel, váltót, illetve más hitelviszonyt megtestesítő értékpapírt nem bocsáthat ki, az államháztartás alrendszereitől kapott támogatást kölcsön fedezetéül, illetve kölcsön törlesztésére nem használhatja fel, továbbá ideiglenesen felszabaduló szabad pénzeszközeit csak állami garanciavállalás mellett kibocsátott értékpapírba fektetheti.
 
-### IX. Fejezet — AZ AGRÁRKAMARA ÁLLAMI FELÜGYELETE ÉS ÖNKORMÁNYZATI HATÁROZATAINAK BÍRÓSÁGI FELÜLVIZSGÁLATA
+### IX. Fejezet — TÖRVÉNYESSÉGI ELLENŐRZÉS ÉS JOGORVOSLAT
 
 43. § (1) Az agrárkamara felett az ügyészség – az e törvényben foglalt kivételekkel – az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol. Az ellenőrzés nem terjed ki az állandó választottbíróságra, továbbá az olyan ügyekre, amelyekben egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
 
@@ -799,25 +799,9 @@ használhatja fel.
 - a) alapszabálya és más önkormányzati szabályzatai, illetve azok módosításai megfelelnek-e a jogszabályoknak;
 - b) működése, határozatai nem sértik-e a jogszabályokat, az alapszabályt vagy az egyéb önkormányzati szabályzatokat.
 
-(3) Ha az agrárkamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
+(3) Ha az agrárkamara működésének törvényessége másképpen nem biztosítható, az ügyészség törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság a köztestületi felügyeleti per szabályai szerint jár el.
 
-- a) a kamara jogsértő alapszabályát, határozatát, az egyéb önkormányzati szabályzatot, vagy ezek jogsértő részét hatályon kívül helyezi és szükség esetén új határozat meghozatalát rendeli el;
-- b) a működés törvényességének helyreállítása érdekében összehívja a kamara küldöttgyűlését;
-- c) ismételt vagy súlyos törvénysértés esetén a kamarának vagy a kamara egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára – felügyelőbiztost jelöl ki. A bíróság meghatározza a felügyelőbiztos feladatát, a törvényes állapot helyreállítására határidőt állapít meg, szükség szerint új felügyelőbiztost nevezhet ki a korábbi felügyelőbiztos felmentése mellett. A felügyelőbiztos tevékenységével okozott kárért a polgári jog szabályai szerint felel.
-
-(4) A felügyelőbiztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az agrárkamara országos küldöttgyűlését. Amennyiben a bíróság az elnök vagy az elnökség működését függesztette fel, a felügyelőbiztos a halaszthatatlan ügyekben intézkedik az elnök, illetve az elnökség jogkörében.
-
-44. § (1) Az agrárkamara tagja – a (6) bekezdésben foglalt eset kivételével – a határozat közzétételét követő harminc napon belül kérheti a bíróságtól az agrárkamara valamely testületi szerve vagy tisztségviselője által kamarai önkormányzati jogkörben hozott, e törvény rendelkezéseibe, más jogszabályba, az alapszabályba vagy más önkormányzati szabályzatába ütköző határozatának felülvizsgálatát.
-
-(2) Perindítás előtt a tag köteles a jogsértést az ellenőrző bizottságnak bejelenteni.
-
-(3) Az ellenőrző bizottság a bejelentést követő harminc napon belül köteles írásban állást foglalni.
-
-(4) A pert a tagnak az ellenőrző bizottság állásfoglalásától, vagy a (3) bekezdés szerinti határidő eredménytelen elteltétől számított harminc napon belül kell megindítania. A perindításnak nincs halasztó hatálya, a bíróság azonban a határozat végrehajtását felfüggesztheti.
-
-(5) A (4) bekezdésben megállapított határidő elmulasztása esetén igazolásnak nincs helye. A bíróság eljárására egyebekben a polgári perrendtartásról szóló törvény szabályait kell alkalmazni.
-
-(6) Az (1)–(3) bekezdéstől eltérően, ha az agrárkamara tagja szerint az általa fizetendő tagdíjat és más pénzügyi kötelezettséget megállapító határozat e törvény rendelkezéseibe, más jogszabályba, az alapszabályba vagy más önkormányzati szabályzatba ütközik, az alapszabályban meghatározottak szerinti határidőben és módon jogorvoslattal élhet. A jogorvoslat kérdésében eljáró szerv 90 napon belül jár el. A tag a jogorvoslati kérelem elbírálásáról szóló döntés közlésétől, vagy a döntésre nyitva álló határidő eredménytelen elteltétől számított harminc napon belül bírósághoz fordulhat. A határidő elmulasztása ellen igazolásnak nincs helye. Egyebekben a (4) és (5) bekezdésben foglaltakat megfelelően alkalmazni kell.
+44. § Ha az agrárkamara tagja szerint az általa fizetendő tagdíjat és más pénzügyi kötelezettséget megállapító határozat e törvény rendelkezéseibe, más jogszabályba, az alapszabályba vagy más önkormányzati szabályzatba ütközik, az alapszabályban meghatározottak szerinti határidőben és módon jogorvoslattal élhet. A jogorvoslat kérdésében eljáró szerv 90 napon belül dönt. A tag a jogorvoslati kérelem elbírálásáról szóló döntés közlésétől, vagy a döntésre nyitva álló határidő eredménytelen elteltétől számított harminc napon belül közigazgatási pert indíthat. A határidő elmulasztása ellen igazolásnak nincs helye.
 
 ### X. Fejezet — ÁTMENETI RENDELKEZÉSEK
 

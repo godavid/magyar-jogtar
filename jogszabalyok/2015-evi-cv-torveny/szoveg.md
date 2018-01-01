@@ -54,13 +54,13 @@ A természetes személyek adósságrendezésére vonatkozó új törvényi szab�
 - a) az adósnak fel nem róható, rendkívüli és kedvezőtlen körülmények vagy események esetén az egyezség vagy az adósságtörlesztési bírósági határozat adósra nézve kedvezőbb módosítása, vagy
 - b) az adós rendkívüli, nagyobb összegű vagyonszerzése, pénzbevétele esetén az egyezség vagy az adósságtörlesztési bírósági határozat hitelezőre nézve kedvezőbb módosítása.
 
-(8) Bírósági nemperes eljárások kezdeményezhetők, ha utólag kiderül, hogy az adós a vagyonát, jövedelmét a hitelezők elől jogellenesen elvonta vagy a bíróságon kívüli adósságrendezési megállapodás, illetve a bírósági adósságrendezési egyezségben vállaltakat nem teljesítette.
+(8) A 35–37. alcímekben meghatározott bírósági nemperes eljárások kezdeményezhetők, ha utólag kiderül, hogy az adós a vagyonát, jövedelmét a hitelezők elől jogellenesen elvonta vagy a bíróságon kívüli adósságrendezési megállapodásban vagy a bírósági adósságrendezési egyezségben vállaltakat nem teljesítette. E bírósági nemperes eljárásokban is a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit – ha e törvény eltérően nem rendelkezik – kell alkalmazni.
 
 4. § (1) Az adósságrendezés során a hitelezőkkel megkötésre kerülő megállapodás vagy a bírósági egyezségkötés előkészítése során az adós helyett – amennyiben e törvény eltérően nem rendelkezik –
 
 - a) az adóstárs,
 - b) az adós vagy adóstárs hozzátartozója, vagy
-- c) az adós vagy adóstárs által megbízott ügyvéd, ügyvédi iroda, valamint – egyéni vállalkozó hitelszerződésével összefüggésben – a vele munkaviszonyban álló jogtanácsos
+- c) az adós vagy adóstárs által megbízott ügyvéd, ügyvédi iroda
 
 meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e törvényben meghatározott jognyilatkozatokat és kötelezettségvállalásokat.
 
@@ -87,10 +87,10 @@ meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e t
   - a) a bíróságon kívüli adósságrendezés esetén aa) a főhitelező azon értesítésének a Családi Csődvédelmi Szolgálat általi kézhezvétele, amelyben a főhitelező tájékoztatást ad arról, hogy a bíróságon kívüli adósságrendezés kezdeményezése az adós együttműködésének hiányában, illetve mulasztásai miatt sikertelen, vagy ab) a főhitelező azon értesítésének a Családi Csődvédelmi Szolgálat általi kézhezvétele, amelyben a főhitelező tájékoztatást ad arról, hogy a bíróságon kívüli adósságrendezés sikertelen, mert a felek között nem jött létre megállapodás, ac) amennyiben a családi vagyonfelügyelő megállapítja, hogy az adós nem felel meg az adósságrendezés feltételeinek vagy hiánypótlási, adatváltozás bejelentési kötelezettségét nem teljesíti, vagy a családi vagyonfelügyelővel az együttműködési kötelezettségét megszegi, és erre tekintettel a családi vagyonfelügyelő az adósságrendezés elutasítását kezdeményezi a bíróságon, a bíróságnak az adósságrendezési kérelmet elutasító határozata jogerőre emelkedésének napja, ad) ha az adós a bíróságon kívüli adósságrendezési megállapodásban foglaltakat teljesíti, a fennmaradó adósságai megfizetése alól mentesítő bírósági határozat jogerőre emelkedésének napja,
   - b) bírósági adósságrendezési eljárás esetén ba) az adósságrendezési kérelmet elutasító bírósági határozat jogerőre emelkedésének napja, bb) az adósságrendezési eljárást megszüntető bírósági határozat jogerőre emelkedésének napja, bc) az adósságrendezési egyezség szabályszerű teljesítése esetén a bírósági adósságrendezési eljárást befejezetté nyilvánító, az adóst mentesítő bírósági határozat jogerőre emelkedésének napja, bd) az adósságtörlesztési határozatban meghatározott kötelezettségeit szabályszerűen teljesítő adóst a fennmaradó tartozások megfizetése alól mentesítő bírósági határozat jogerőre emelkedésének napja,
 - 5. adóstárs: az a természetes személy, aki e törvény hatálya alá tartozó fizetési kötelezettség tekintetében az adóssal – ideértve a készfizető kezest is – egyetemlegesen felelős, és az adóssal közös háztartásban él vagy az adóssal vagyonközösségben van,
-- 6. adótartozás: az Art. 178. § 4. pontjában meghatározott, lejárt esedékességű, és az ott meghatározott, nettó módon számított fizetési kötelezettség,
+- 6. adótartozás: az Art. által meghatározott, lejárt esedékességű, és az ott meghatározott, nettó módon számított fizetési kötelezettség,
 - 7. aktív korú: a 18 év feletti, a rá irányadó öregségi nyugdíjkorhatárt még be nem töltött természetes személy, aki nem minősül fogyatékkal élőnek vagy a megváltozott munkaképességű személyek ellátásairól szóló törvény szerinti megváltozott munkaképességű személynek,
 - 8. ARE nyilvántartás: természetes személyek adósságrendezési nyilvántartása, a Családi Csődvédelmi Szolgálat által vezetett közhiteles országos központi nyilvántartás,
-- 9. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
+- 9. Art.: az adózás rendjéről szóló törvény,
 - 10. államháztartási szervezet: az állam, a helyi önkormányzat, közigazgatási szerv és egyéb az államháztartás számviteléről szóló kormányrendelet hatálya alá tartozó szervezet,
 - 11. belföldi természetes személy: az Szja. tv. 3. § 2. pontjában felsorolt belföldi illetőségű magánszemély,
 - 12. biztosított követelés: az a követelés – a biztosítékul szolgáló vagyontárgy forgalmi értéke erejéig – amely megfizetésének biztosítása érdekében
@@ -123,7 +123,7 @@ meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e t
   - c) amelynek jogosultja olyan gazdálkodó szervezet, amelynek az adós, adóstárs vezető tisztségviselője, vezető állású munkavállalója, vagy a jegyzett tőke szerint legalább 5%-os részesedéssel rendelkező tagja,
   - d) olyan magánjogi tartozás, amely hatósági vagy bírósági úton érvényesíthető, de nem tartozik sem a kiemelt követelések, sem a privilegizált követelések, sem az egyéb hitelezők követelései közé,
 - 26. hitelező:
-  - a) a bíróságon kívüli adósságrendezési eljárásban, továbbá a bírósági adósságrendezési eljárásban a bírósági adósságrendezés kezdő időpontjáig az a szervezet vagy természetes személy, akinek aa) az adóssal szemben jogerős vagy előzetesen végrehajtható határozaton vagy olyan okiraton alapuló követelése van, amely alapján közigazgatási vagy bírósági végrehajtás elrendelésének vagy végrehajtáson kívüli zálogértékesítésnek van helye, vagy a végrehajtást már elrendelték, illetve a zálogtárgyat értékesítésre kijelölték, vagy ab) akinek az adós által elismert vagy legalább 80%-os mértékben nem vitatott, lejárt pénz- vagy pénzben kifejezett követelése van az adóssal szemben,
+  - a) a bíróságon kívüli adósságrendezési eljárásban, továbbá a bírósági adósságrendezési eljárásban a bírósági adósságrendezés kezdő időpontjáig az a szervezet vagy természetes személy, akinek aa) az adóssal szemben jogerős, véglegessé vált vagy előzetesen végrehajtható határozaton vagy olyan okiraton alapuló követelése van, amely alapján közigazgatási vagy bírósági végrehajtás elrendelésének vagy végrehajtáson kívüli zálogértékesítésnek van helye, vagy a végrehajtást már elrendelték, illetve a zálogtárgyat értékesítésre kijelölték, vagy ab) akinek az adós által elismert vagy legalább 80%-os mértékben nem vitatott, lejárt pénz- vagy pénzben kifejezett követelése van az adóssal szemben,
   - b) a bírósági adósságrendezés kezdő időpontjától a bírósági adósságrendezés záró időpontjáig az a) pontban foglaltakon kívül az a szervezet vagy természetes személy, amelynek, illetve akinek az adóssal szemben kamatokkal, egyéb járulékokkal növelten 50 000 forintot meghaladó összegű, az adós által elismert vagy nem vitatott, hatósági vagy bírósági úton érvényesíthető pénzkövetelése vagy pénzben meghatározott követelése keletkezik,
 - 27. hitelköltség: a hitelviszonyból eredő pénzkövetelés tőkeösszege, kamatai és egyéb járulékai
 - 28. hitelviszony: pénzügyi intézménnyel kötött hitelszerződés, pénzkölcsön-szerződés, pénzügyi lízingszerződés,
@@ -131,7 +131,7 @@ meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e t
 - 30. hozzátartozó, közeli hozzátartozó: a Ptk. 8:1. § (1) bekezdés 2. és 1. pontja szerinti személyek azzal, hogy az adós élettársa abban az esetben tartozik ebbe a körbe, ha az adóssal az adósságrendezés kezdő időpontjában azonos lakóhelyen bejelentve, közös háztartásban él,
 - 31. jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés – ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést is – amelynek fedezete Magyarország területén lévő ingatlanon alapított jelzálogjog, ahol jelzáloghitel alatt az önálló zálogjogként alapított zálogjogot is érteni kell,
 - 32. jövedelem: a Szoc. tv. 4. § (1) bekezdés a) pontjában meghatározott része, ideértve a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 10. § (3) bekezdésében meghatározott jövedelmet is, továbbá – függetlenül a Szoc. tv. előírásától – az egyszerűsített foglalkoztatásból származó bevételt is,
-- 33. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
+- 33. Ákr.: az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény,
 - 34. KHR: központi hitelinformációs rendszer,
 - 35. KHR. tv.: a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény,
 - 36. kiemelt hitelezői követelések:
@@ -143,7 +143,7 @@ meghatalmazottként eljárhat, de az adós személyesen köteles megtenni az e t
   - a) az állami kezesség beváltása következtében keletkező megtérítési igény,
   - b) a közüzemi szerződés alapján a közműszolgáltató által érvényesített követelés,
   - c) a lakáscélú, otthonteremtési célú kamat- és egyéb támogatás visszafizettetése alapján az adóssal szemben fennálló követelés,
-  - d) az az adótartozás vagy más köztartozás, egyéb, közjogi jogviszonyban jogerős határozattal megállapított vagy végrehajtható fizetési kötelezettség, amelynek a megfizetésére az adós fizetési halasztást vagy részletfizetési kedvezményt kapott vagy amely a bíróságon kívüli vagy bírósági adósságrendezési eljárás időtartama alatt keletkezett,
+  - d) az az adótartozás vagy más köztartozás, egyéb, közjogi jogviszonyban jogerős, véglegessé vált határozattal megállapított vagy végrehajtható fizetési kötelezettség, amelynek a megfizetésére az adós fizetési halasztást vagy részletfizetési kedvezményt kapott vagy amely a bíróságon kívüli vagy bírósági adósságrendezési eljárás időtartama alatt keletkezett,
   - e) a jogalap nélkül felvett, társadalombiztosítási jogviszony alapján járó juttatás, állami, önkormányzati szociális vagy családtámogatási juttatás visszafizetésére tekintettel keletkezett követelés,
   - f) a bírósági eljárással összefüggésben keletkezett, az állammal szemben fennálló tartozás,
   - g) a diákhitelből eredő követelés,
@@ -173,7 +173,7 @@ más, lakhatást biztosító, tulajdonjoga, haszonélvezeti vagy használati jog
   - d) a természetes személyt egy összegben megillető, bíróság által jogerősen megállapított kártérítés, sérelemdíj, jogosultanként összesen legfeljebb 2 millió forint összegig,
   - e) közérdekkel összefüggő követelések,
 - 48. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
-- 49. Pp.: a polgári perrendtartásról szóló 1952. évi III. törvény,
+- 49. Pp.: a polgári perrendtartásról szóló 2016. évi CXXX. törvény,
 - 50. régi Ptk.: a Polgári Törvénykönyvről szóló 1959. évi IV. törvény,
 - 51. saját jogú nyugdíjas: Tbj. 4. § f) pontjában felsoroltak közül az, aki
   - a) a Tny., illetve nemzetközi egyezmény alkalmazásával a Tbj. 14. § (3) bekezdés a) és c) pontjában meghatározott saját jogú nyugellátásban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), Magyarországon nyilvántartásba vett egyháztól egyházi, felekezeti nyugdíjban vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül,
@@ -419,7 +419,7 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 
 18. § (1) Az adósságrendezés kezdeményezésekor az adós és az adóstárs nyilatkozik arról is, hogy nem képes a tartozásai megfizetésére.
 
-(2) Az adósnak és az adóstársnak a tartozásai vonatkozásában meg kell jelölnie, hogy mely követeléseket, milyen összegben és milyen indokkal, bizonyítékokkal vitat. Nem lehet vitatottnak tekinteni az olyan hitelezői követelést, amelynek fennállását jogerős ítélet, illetve jogerős végzéssel jóváhagyott egyezség állapította meg, vagy ha az adós tartozáselismerése közokiratba van foglalva (Pp. 195. §), kivéve, ha az adós olyan okirattal bizonyított tényre alapítva vitatja a követelést, amely a határozat jogerőre emelkedése vagy a közokirat létrejötte után következett be.
+(2) Az adósnak és az adóstársnak a tartozásai vonatkozásában meg kell jelölnie, hogy mely követeléseket, milyen összegben és milyen indokkal, bizonyítékokkal vitat. Nem lehet vitatottnak tekinteni az olyan hitelezői követelést, amelynek fennállását jogerős ítélet, illetve jogerős végzéssel jóváhagyott egyezség állapította meg, vagy ha az adós tartozáselismerése közokiratba van foglalva (Pp. 323. §), kivéve, ha az adós olyan okirattal bizonyított tényre alapítva vitatja a követelést, amely a határozat jogerőre emelkedése vagy a közokirat létrejötte után következett be.
 
 19. § (1) Az adósságrendezés kezdeményezésekor az adós és az adóstárs kötelezettséget vállal
 
@@ -505,7 +505,7 @@ számított tizedik év utolsó napjáig kell megőrizni, ennek elteltét követ
 
 (4) A Családi Csődvédelmi Szolgálat – az adós, adóstárs hitelviszonyból eredő tartozásainak és az adós, adóstárs által a pénzforgalmi szolgáltatókkal szemben fennálló tartozásállomány összevetése céljából – betekint a KHR tv. 5. § (1) bekezdése szerinti adatbázisba, a KHR törvény mellékletének II. fejezet 1. pontjában szereplő adatok megismerése céljából. Ha az adós által megadott adatok nem egyeznek meg a KHR adataival, a Családi Csődvédelmi Szolgálat az adóst adategyeztetésre hívja fel, azzal a figyelemfelhívással, hogy az adósságrendezés folytatásának feltétele az adategyeztetés lefolytatása és annak eredményeképpen az adós által valótlan adatokat vagy nyilatkozatokat tartalmazó dokumentumok adós általi kijavítása. Ha az adós a felhívás kézhezvételétől számított 21 napon belül az adategyeztetési kötelezettségét nem teljesíti, a dokumentumok kiegészítése vagy kijavítása és azok benyújtása iránt nem intézkedik, a Családi Csődvédelmi Szolgálat – az adósságrendezés adós érdekkörében történő sikertelen kezdeményezésére tekintettel – az adós kérelmét és annak mellékleteit a bírósághoz továbbítja, és erről az adóst és a főhitelezőt értesíti.
 
-23. § (1) A Családi Csődvédelmi Szolgálat az adós kérelme és annak mellékletei vizsgálata során az általa kezelt és a nyilvános adatbázisokból, valamint a Ket. szerinti belföldi és nemzetközi jogsegély útján, az adós által adott adatokat ellenőrzi, továbbá beszerzi mindazokat az adatokat a hatóságoktól, bíróságoktól, közjegyzői nyilvántartásokból, végrehajtó szervektől, amelyek szükségesek annak elbírálásához, hogy nincs-e olyan ok vagy körülmény, amely az adós adósságrendezés kezdeményezésének akadályát képezné. A megkeresett hatóságok az adatszolgáltatást soron kívül, de legfeljebb a kézhezvételtől számított 8 napon belül teljesítik. Ha törvény eltérően nem rendelkezik, a Családi Csődvédelmi Szolgálat jogosult az adósságrendezés feltételeinek vizsgálatához szükséges adatot a nyilvántartó szerv nyilvántartásából elektronikusan igényelni, akkor az adatot így szerzi be.
+23. § (1) A Családi Csődvédelmi Szolgálat az adós kérelme és annak mellékletei vizsgálata során az általa kezelt és a nyilvános adatbázisokból, valamint az Ákr. szerinti megkeresés útján, az adós által adott adatokat ellenőrzi, továbbá beszerzi mindazokat az adatokat a hatóságoktól, bíróságoktól, közjegyzői nyilvántartásokból, végrehajtó szervektől, amelyek szükségesek annak elbírálásához, hogy nincs-e olyan ok vagy körülmény, amely az adós adósságrendezés kezdeményezésének akadályát képezné. A megkeresett hatóságok az adatszolgáltatást soron kívül, de legfeljebb a kézhezvételtől számított 8 napon belül teljesítik. Ha törvény eltérően nem rendelkezik, a Családi Csődvédelmi Szolgálat jogosult az adósságrendezés feltételeinek vizsgálatához szükséges adatot a nyilvántartó szerv nyilvántartásából elektronikusan igényelni, akkor az adatot így szerzi be.
 
 (2) Az (1) bekezdés szerinti vizsgálat során beszerzett adatokat a Családi Csődvédelmi Szolgálat továbbítja a főhitelezőnek. A Családi Csődvédelmi Szolgálat tájékoztatja a főhitelezőt az adós, adóstárs közhiteles nyilvántartásokban bejegyzett vagyonának tulajdonjogáról és vagyoni értékű jogáról, a vagyontárgyakat terhelő jogokról, folyamatban lévő eljárásokról, a nyilvántartásokban az adósságrendezés kezdeményezését megelőző öt naptári éven belül kötött jogügyletekre vonatkozó adatokról. Ha ezekből az ügyletekből arra lehet következtetni, hogy az adós, vagy az adóstárs a vagyonát az adósságrendezés előtt vagy annak kezdeményezését követően elvonta, a Családi Csődvédelmi Szolgálat erről a tényről értesíti a főhitelezőt, az adóst, adóstársat, és ezzel egyidejűleg – az adósságrendezés adós érdekkörében történő sikertelen kezdeményezésére tekintettel – az adós kérelmét és annak mellékleteit a bírósághoz továbbítja.
 
@@ -548,7 +548,7 @@ a honlapról el kell távolítani, ezt követően a Családi Csődvédelmi Szolg
 
 (8) Az adós, adóstárs a bíróságon kívüli adósságrendezés kezdeményezésétől nem teljesítheti a szerződésben vagy egyoldalú jogügyletben ellenszolgáltatás nélkül vállalt pénzfizetésre, tartozásátvállalásra, tartozáselvállalásra, teljesítésátvállalásra, kezességvállalásra vagy más helytállásra vonatkozó kötelezettségeit. Ezen követelésekre vonatkozó igényt a bíróságon kívüli adósságrendezési eljárás alatt az adóssal szemben nem lehet érvényesíteni, a követelésekre vonatkozó igény elévülése nyugszik.
 
-(9) Az adósságrendezés kezdeményezésétől az adósságrendezés záró időpontjáig az adós, illetve az adóstársak egymásra és más személyekre nem engedményezhetik sem a már esedékessé vált, sem pedig a később esedékessé váló pénzbeli vagy vagyoni követeléseiket; az ezzel ellentétes rendelkezés semmis. Az adós, az adóstársa, és az adósságrendezési eljárásban részt vevő egyéb kötelezett köteles a bíróságon kívüli adósságrendezési megállapodásban, az bírósági adósságrendezési egyezségben és a bírósági adósságtörlesztési határozatban meghatározott követelése érvényesítésére a jogszabályok szerinti igényérvényesítési eljárásokat kezdeményezni, ennek megtörténtéről a főhitelezőt és a bírósági adósságrendezési eljárásban a családi vagyonfelügyelőt tájékoztatnia kell. Ezekben az igényérvényesítési eljárásokban az adóst, az adóstársat és az egyéb kötelezettet illetékfeljegyzési jog illeti meg.
+(9) Az adósságrendezés kezdeményezésétől az adósságrendezés záró időpontjáig az adós, illetve az adóstársak egymásra és más személyekre nem engedményezhetik sem a már esedékessé vált, sem pedig a később esedékessé váló pénzbeli vagy vagyoni követeléseiket; az ezzel ellentétes rendelkezés semmis. Az adós, az adóstársa, és az adósságrendezési eljárásban részt vevő egyéb kötelezett köteles a bíróságon kívüli adósságrendezési megállapodásban, az bírósági adósságrendezési egyezségben és a bírósági adósságtörlesztési határozatban meghatározott követelése érvényesítésére a jogszabályok szerinti igényérvényesítési eljárásokat kezdeményezni, ennek megtörténtéről a főhitelezőt és a bírósági adósságrendezési eljárásban a családi vagyonfelügyelőt tájékoztatnia kell. Ezekben az igényérvényesítési eljárásokban az adóst, az adóstársat és az egyéb kötelezettet illetékre kiterjedő részleges költségfeljegyzési jog illeti meg.
 
 (10) Az adósságrendezés kezdeményezésétől az adós – ha e törvény kivételt nem tesz – sem egyoldalúan, sem a másik fél egyetértésével nem változtathatja meg az adósságrendezés hatálya alá eső jogviszonya tartalmát vagy jogcímét; az ezzel ellentétes rendelkezés hatálytalan.
 
@@ -570,7 +570,7 @@ a honlapról el kell távolítani, ezt követően a Családi Csődvédelmi Szolg
 
 (6) A hitelezői követeléseknek az adós által nem vitatottként történő bejelentése, illetve nem vitatottként történt elfogadása nem jelenti a követelés teljes összegének elismerését, amennyiben később jut az adós tudomására olyan körülmény vagy bizonyíték, amelyre tekintettel kérheti a tartozás összegének módosítását.
 
-29. § (1) Az adósságrendezés kezdeményezésének meghatározott joghatásai az adósságrendezési eljárás elrendelése iránti kérelem bíróság általi elutasításáról szóló végzés jogerőre emelkedésének napján elenyésznek.
+29. § (1) Az adósságrendezés kezdeményezésének meghatározott joghatásai – a 33. § (1) bekezdés a) pontjában meghatározott eset kivételével – az adósságrendezési eljárás elrendelése iránti kérelem bíróság általi visszautasításáról vagy elutasításáról szóló végzés jogerőre emelkedésének napján elenyésznek. Az adósságrendezési eljárás elrendelése iránti kérelemnek a 33. § (1) bekezdés a) pontja alapján történő visszautasítása esetén az adósságrendezés kezdeményezésének meghatározott joghatásai a 33. § (4) bekezdésében meghatározott határidő lejártáig fennmaradnak.
 
 (2) Az (1) bekezdésben meghatározott esetekben az ott említett tényről – annak bekövetkeztéről történt tudomásszerzését követő 8 napon belül, a határozat másolatának megküldésével – a családi vagyonfelügyelő köteles írásban tájékoztatni
 
@@ -578,7 +578,7 @@ a honlapról el kell távolítani, ezt követően a Családi Csődvédelmi Szolg
 - b) folyamatban lévő végrehajtási eljárás esetén a végrehajtást foganatosító hatóságot, illetve bírósági végrehajtót,
 - c) az eljárásban részt nem vevő egyéb kötelezetteket.
 
-(3) Az adósságrendezési eljárás elrendelése iránti kérelem bíróság általi elutasításáról szóló jogerős végzés kézhezvételét követő 8 napon belül a Családi Csődvédelmi Szolgálat a 25. § (4) bekezdés szerinti hirdetmény visszavonásáról tesz közzé hirdetményt a Családi Csődvédelmi Szolgálat honlapján.
+(3) Az adósságrendezési eljárás elrendelése iránti kérelem bíróság általi visszautasításáról vagy elutasításáról szóló jogerős végzés kézhezvételét követő 8 napon belül a Családi Csődvédelmi Szolgálat a 25. § (4) bekezdése és 31. § (4) bekezdése szerinti hirdetmény visszavonásáról tesz közzé hirdetményt a Családi Csődvédelmi Szolgálat honlapján.
 
 #### 10. A bíróságon kívüli adósságrendezés lefolytatása, adósságrendezési megállapodás
 
@@ -630,38 +630,45 @@ a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Sz
 
 (6) A Családi Csődvédelmi Szolgálat a (5) bekezdés szerinti dokumentumok csatolásakor közli a bírósággal az adott bírósági adósságrendezési eljárásban közreműködő illetékes területi Családi Csődvédelmi Szolgálat nevét, címét, postai és elektronikus levélcímét, és az adott ügyre vonatkozóan a Családi Csődvédelmi Szolgálat által kijelölt családi vagyonfelügyelő és annak teljes jogkörrel rendelkező helyettesei (a továbbiakban együtt: családi vagyonfelügyelő) nevét, az adott adósságrendezési ügyre vonatkozóan kiadott ügyazonosítóját, valamint az említett személyek közös postai címét és elektronikus levélcímét.
 
-(7) Ha a (4) bekezdés szerinti hirdetményben közzétett határidő alatt bejelentett hitelezői követeléseket a családi vagyonfelügyelő vitatja, azt 15 napon belül elbírálásra a bíróság elé terjeszti.
+(7) Ha a (4) bekezdés szerinti hirdetményben közzétett határidő alatt bejelentett hitelezői követelést a családi vagyonfelügyelő vitatja, azt 15 napon belül elbírálásra a bírósági adósságrendezési eljárásra hatáskörrel és illetékességgel rendelkező bíróság elé terjeszti. A bíróság polgári nemperes eljárásban dönt arról, hogy a követelést az adósságrendezési eljárásban hitelezői igényként nyilvántartásba lehet-e venni. A bíróság a feleket meghallgathatja, és okirati bizonyítást folytathat le. A hitelezői igény tárgyában hozott végzés ellen a hitelező és a családi vagyonfelügyelő részéről fellebbezésnek van helye.
 
 ### III. Fejezet — BÍRÓSÁGI ADÓSSÁGRENDEZÉSI ELJÁRÁS
 
 #### 12. A bírósági adósságrendezés iránti kérelem elutasítása
 
-32. § (1) A bíróság a 21. § (1) és (2) bekezdése, a 22. § (4) bekezdése, a 23. § (2) bekezdése, a 25. § (2) és (3) bekezdése, a 26. § (12) bekezdése, illetve a 31. § (5) bekezdése szerinti iratokat a történő beérkezéstől számított 15 napon belül megvizsgálja annak érdekében, hogy nincs-e helye az ügy áttételének, nem kell-e hiánypótlást elrendelni vagy az adósságrendezés iránti kérelmet hivatalból elutasítani. A bíróság 8 napos határidő tűzésével és a jogkövetkezményekre történő hivatkozással felhívja az adóst a bírósági adósságrendezési eljárás illetékének lerovására.
+32. § (1) A bíróság a 21. § (1) és (2) bekezdése, a 22. § (4) bekezdése, a 23. § (2) bekezdése, a 25. § (2) és (3) bekezdése, a 26. § (12) bekezdése, illetve a 31. § (5) bekezdése szerinti iratokat a történő beérkezéstől számított 15 napon belül megvizsgálja annak érdekében, hogy nincs-e helye az ügy áttételének, nem kell-e hiánypótlást elrendelni vagy az adósságrendezés iránti kérelmet visszautasítani vagy elutasítani. A bíróság 8 napos határidő tűzésével és a jogkövetkezményekre történő hivatkozással felhívja az adóst a bírósági adósságrendezési eljárás illetékének lerovására.
 
 (2) Ha a bírósági adósságrendezés iránti kérelem vagy annak mellékletei nem felelnek meg az e törvényben és végrehajtási rendeleteiben meghatározott követelményeknek vagy az iratok, adatok kiegészítésre vagy kijavításra szorulnak, a bíróság legfeljebb 15 napos határidő kitűzésével hiánypótlásra szólítja fel az adóst, a jogkövetkezményekre történő felhívással.
 
-33. § A bíróság a bírósági adósságrendezés iránti kérelmet a 32. § (1) bekezdés szerinti vizsgálat, illetve a 32. § (2) bekezdés szerinti hiánypótlás határidejének lejártától számított 15 napon belül hivatalból elutasítja,
+33. § (1) A bíróság a bírósági adósságrendezés iránti kérelmet a 32. § (1) bekezdés szerinti vizsgálat, illetve a 32. § (2) bekezdés szerinti hiánypótlás határidejének lejártától számított 15 napon belül visszautasítja,
 
 - a) ha a kérelem vagy mellékletei a hiánypótlási felhívás ellenére nem felelnek meg az e törvényben meghatározott feltételeknek,
-- b) a 31. § (1) bekezdés b) és c) pontja szerinti esetekben,
-- c) ha az ügy más bíróság hatáskörébe vagy illetékességébe tartozik, de a hatáskörrel, illetékességgel rendelkező bíróságnak történő áttétel – az ennek megállapításához szükséges adatok hiánya miatt – nem lehetséges,
-- d) ha az adós vagy – meghatalmazás hiányában az adóstárs – belföldi idézési címmel nem rendelkezik,
-- e) ha az adósnak a kérelmében megadott idézési címen a 21. § (1) és (2) bekezdés szerinti felhívásokat nem lehetett kézbesíteni,
-- f) ha az adósságrendezési eljárásra a magyar bíróság joghatósága törvény, európai uniós jogszabály vagy nemzetközi szerződés rendelkezése alapján kizárt,
-- g) ha az adós nem kezdeményezte a főhitelezőnél az előzetes bíróságon kívüli adósságrendezést,
-- h) ha az adós, adóstárs vagy egyéb kötelezett ellen belföldön vagy külföldön már van folyamatban adósságrendezésre irányuló eljárás,
-- i) ha az adósnak, adóstársnak nincs perbeli cselekvőképessége és a kérelmet nem törvényes képviselője útján nyújtotta be,
-- j) ha az adós, adóstárs a bírósági eljárás illetékét a felhívásban meghatározott határidőre nem fizette meg,
-- k) ha az adós vagy adóstárs vagyonát bűnügyi zárlat alá vonták,
-- l) ha az adós vagy az adóstárs a 7–8. § értelmében adósságrendezési eljárás kezdeményezésére nem jogosult.
+- b) ha az ügy más bíróság hatáskörébe vagy illetékességébe tartozik, de a hatáskörrel, illetékességgel rendelkező bíróságnak történő áttétel – az ennek megállapításához szükséges adatok hiánya miatt – nem lehetséges,
+- c) ha az adós vagy – meghatalmazás hiányában az adóstárs – belföldi idézési címmel nem rendelkezik,
+- d) ha az adósnak a kérelmében megadott idézési címen a 21. § (1) és (2) bekezdés szerinti felhívásokat nem lehetett kézbesíteni,
+- e) ha az adósságrendezési eljárásra a magyar bíróság joghatósága törvény, európai uniós jogszabály vagy nemzetközi szerződés rendelkezése alapján kizárt,
+- f) ha az adós nem kezdeményezte a főhitelezőnél az előzetes bíróságon kívüli adósságrendezést,
+- g) ha az adós, adóstárs vagy egyéb kötelezett ellen belföldön vagy külföldön már van folyamatban adósságrendezésre irányuló eljárás,
+- h) ha az adósnak, adóstársnak nincs perbeli cselekvőképessége és a kérelmet nem törvényes képviselője útján nyújtotta be,
+- i) ha az adós, adóstárs a bírósági eljárás illetékét a felhívásban meghatározott határidőre nem fizette meg,
+- j) ha az adós vagy adóstárs vagyonát bűnügyi zárlat alá vonták.
+
+(2) A bíróság a bírósági adósságrendezés iránti kérelmet a 32. § (1) bekezdés szerinti vizsgálat, illetve a 32. § (2) bekezdés szerinti hiánypótlás határidejének lejártától számított 15 napon belül elutasítja, ha
+
+- a) az adós vagy az adóstárs a 7–9. § alapján adósságrendezési eljárás kezdeményezésére nem jogosult, vagy
+- b) a 31. § (1) bekezdés b) vagy c) pontja szerinti bejelentésben foglalt körülmények fennállását megállapítja.
+
+(3) Az adósságrendezési eljárás iránti kérelmet visszautasító vagy elutasító végzést a bíróság az adósnak, adóstársnak kézbesíti, a családi vagyonfelügyelőt pedig a kérelmet visszautasító vagy elutasító jogerős végzésről értesíti.
+
+(4) Az (1) bekezdés a) pontja szerinti esetben a bírósági adósságrendezés iránti kérelem benyújtásának joghatásai fennmaradnak, ha az adós a bírósági adósságrendezés iránti kérelem visszautasításának közlésétől számított 15 napon belül a kérelmet szabályszerűen ismételten előterjeszti. Az ilyen ismételt kérelem előterjesztése esetén az adósnak az (1) bekezdés a) pontjával összefüggő, a 34. § (2) bekezdés szerint benyújtott fellebbezését hatálytalannak kell tekinteni.
 
 34. § (1) Amennyiben a Családi Csődvédelmi Szolgálat az ügyet a 23. § (2) bekezdés alapján továbbítja a bíróság részére, a bíróság 15 napos határidő tűzésével felhívja az adóst, adóstársat és az eljárásban a kötelezettként részt vevő egyéb kötelezettet, hogy írásban nyilatkozzon írásban az adósságrendezés kezdeményezése iránti kérelem előterjesztését megelőző 5 éven belül visszterhesen elidegenített vagyontárgyak ellenértékének felhasználásáról. A hiánypótlási határidő eredménytelen letelte esetén, valamint akkor, ha a csatolt iratok és a lefolytatott bizonyítás alapján az állapítható meg, hogy a jogügylet a hitelezők követelésének kielégítésére fordítható vagyont lényegesen csökkentette, a bíróság az adósságrendezési kérelmet elutasítja. A bíróság az adósságrendezési kérelmet abban az esetben is elutasítja, amennyiben a lefolytatott bizonyítás alapján megállapítja, hogy az adós, adóstárs vagy az eljárásban kötelezettként részt vevő egyéb kötelezett által a kérelem előterjesztését megelőző 5 évben történt ingyenes vagyonátruházás vagy kötelezettségvállalás a hitelezők követelésének kielégítésére fordítható vagyont lényegesen csökkentette, vagy az adós által az adósságrendezés kezdeményezését megelőző 180 napon belüli, legalább 1 000 000 forint feletti értékre kötött tartós befektetési jogügylet a vagyon adósságrendezésre fordítását korlátozza.
 
-(2) A bírósági adósságrendezés iránti kérelmet elutasító végzés ellen csak az adós, adóstárs fellebbezhet, a végzés kézbesítésétől számított 15 napon belül.
+(2) A bírósági adósságrendezés iránti kérelmet elutasító vagy visszautasító végzés ellen csak az adós, adóstárs fellebbezhet, a végzés kézbesítésétől számított 15 napon belül.
 
 (3) A fellebbezést nem kell észrevételezésre a többi félnek megküldeni. A másodfokú bíróság a fellebbezést 15 napon belül bírálja el.
 
-(4) A bírósági adósságrendezés iránti kérelmet elutasító végzés jogerőre emelkedésekor az adósságrendezés kezdeményezése joghatásainak megszűnésére vonatkozóan a 29. § (1) bekezdésében foglaltak irányadók.
+(4) A bírósági adósságrendezés iránti kérelmet elutasító vagy visszautasító végzés jogerőre emelkedésekor az adósságrendezés kezdeményezése joghatásainak megszűnésére vonatkozóan a 29. § (1) bekezdésében foglaltak irányadók.
 
 #### 13. A bírósági adósságrendezés elrendelése
 
@@ -691,9 +698,9 @@ a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Sz
 
 #### 14. A bírósági adósságrendezési eljárás általános szabályai
 
-36. § (1) A bírósági adósságrendezési eljárás polgári nemperes eljárás. Az eljárásra az adós lakóhelye szerinti illetékes törvényszék székhelyén működő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság illetékes.
+36. § (1) A bírósági adósságrendezési eljárás polgári nemperes eljárás. Az eljárásra az adósságrendezés kezdeményezése benyújtásának időpontjában az adós lakcímnyilvántartásba bejelentett lakóhelye szerinti illetékes törvényszék székhelyén működő járásbíróságnak, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróságnak van hatásköre és kizárólagos illetékessége. Ez az illetékességi szabály irányadó akkor is, ha az eljárás alatt az adós lakóhelye megváltozik.
 
-(2) Azokra az eljárási kérdésekre, amelyeket e törvény külön nem szabályoz, a Pp. szabályait a nemperes eljárások sajátosságaiból eredő, valamint a (3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+(2) Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
 (3) A bírósági adósságrendezési eljárásban
 
@@ -702,7 +709,7 @@ a főhitelező ezt a tényt elektronikusan bejelenti a Családi Csődvédelmi Sz
 - c) félbeszakadásnak (ide nem értve az adós elhalálozását),
 - d) a jogutódlás esetét kivéve perbehívásnak, illetve perbevonásnak,
 - e) beavatkozásnak,
-- f) díj- és költségmentességnek, valamint illeték- és költségfeljegyzésnek, továbbá
+- f) díj- és költségmentességnek, valamint költségfeljegyzési jognak, továbbá
 - g) a Családi Csődvédelmi Szolgálat vagy a családi vagyonfelügyelő előtt teljesítendő eljárási cselekmény elmulasztása igazolásának
 
 nincs helye.
@@ -721,11 +728,11 @@ nincs helye.
 
 37. § (1) A bírósági adósságrendezési eljárásban a jogi személy hitelező, a bíróság, a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő közötti kapcsolattartás 2016. január 1-jétől a Pp. szerinti elektronikus kapcsolattartás útján történik. Az ezzel összefüggő részletes szabályokat – ideértve az elektronikus beadvány benyújtásával az eljárásba történő bejelentkezést, az elektronikus kézbesítést és más irattovábbítást is – e törvény végrehajtási rendelete tartalmazza.
 
-(2) A beadványokat a jogi személy hitelező és a családi vagyonfelügyelő a bírósághoz 2016. január 1-jétől elektronikus úton nyújtja be; a nem elektronikus úton benyújtott beadványt a bíróság hiánypótlási felhívás nélkül elutasítja, kivéve, ha olyan okirat papír alapú bemutatására van szükség, amely eredetileg papíron készült, és terjedelme miatt a digitalizálás aránytalan nehézséggel járna.
+(2) A beadványokat a jogi személy hitelező és a családi vagyonfelügyelő a bírósághoz 2016. január 1-jétől elektronikus úton nyújtja be; a nem elektronikus úton benyújtott beadványt a bíróság hiánypótlási felhívás kibocsátása nélkül visszautasítja, kivéve, ha olyan okirat papír alapú bemutatására van szükség, amely eredetileg papíron készült, és terjedelme miatt a digitalizálás aránytalan nehézséggel járna.
 
 (3) A jogi képviselő nélkül eljáró adós beadványát az eljáró családi vagyonfelügyelőnél jegyzőkönyvbe is mondhatja. Az adós és a családi vagyonfelügyelő által aláírt jegyzőkönyvet a családi vagyonfelügyelő haladéktalanul elektronikus úton megküldi a bíróságnak.
 
-(4) Ha e törvény végrehajtási rendelete a beadványra meghatározott formátumú űrlapot rendszeresít, a beadványt csak ebben a formában lehet benyújtani; a más formátumú beadványt a bíróság hiánypótlási felhívás kibocsátása nélkül elutasítja.
+(4) Ha e törvény végrehajtási rendelete a beadványra meghatározott formátumú űrlapot rendszeresít, a beadványt csak ebben a formában lehet benyújtani; a más formátumú beadványt a bíróság hiánypótlási felhívás kibocsátása nélkül visszautasítja.
 
 38. § (1) A bírósági adósságrendezési eljárásban első fokon bírósági titkár – a (2) bekezdésben foglalt kivétellel – önálló aláírási joggal, az érdemi határozatok meghozatalára is kiterjedően eljárhat.
 
@@ -734,7 +741,8 @@ nincs helye.
 - a) bírósági adósságrendezési eljárásban kötött egyezség jóváhagyása, módosítása, hatályon kívül helyezése,
 - b) bírósági adósságtörlesztési határozat és annak módosítása,
 - c) az eljárást lezáró, az adós mentesítését kimondó határozat,
-- d) a bíróságon kívüli adósságrendezési megállapodás és a bírósági adósságrendezési egyezség hatálya megszűnését kimondó határozat.
+- d) a bíróságon kívüli adósságrendezési megállapodás és a bírósági adósságrendezési egyezség hatálya megszűnését kimondó határozat,
+- e) az adóst mentesítő határozat hatályon kívül helyezését kimondó határozat.
 
 #### 15. Hitelezők bevonása az adósságrendezésbe
 
@@ -745,7 +753,7 @@ nincs helye.
 - c) a bírósági adósságrendezési eljárás elrendelésének tényét, az adósságrendezést elrendelő bíróság nevét, székhelyét, a jogerős bírósági végzés ügyszámát, dátumát, a jogerőre emelkedés napját, azzal, hogy ez a dátum az adósságrendezés kezdő időpontja,
 - d) az adós, adóstárs természetes személyazonosító adatait, lakcímét,
 - e) a kijelölt családi vagyonfelügyelő nevét, hivatali elérhetőségét (postai és elektronikus levélcím), az adott adósságrendezési ügyre vonatkozóan kiadott ügy azonosítóját, annak a Családi Csődvédelmi Szolgálatnak a nevét és székhelyét, amelynél a családi vagyonfelügyelő munkavégzésre irányuló jogviszonyban áll,
-- f) azon – az eljárásba a 25. § (4) bekezdése alapján még be nem jelentkezett – hitelezőknek szóló felhívást, akiknek pénzbeli vagy pénzben kifejezett követelésének esedékessége már lejárt vagy a bírósági adósságrendezés elrendelését követő öt éven belül jár le, a következőkre:
+- f) azon – az eljárásba a 31. § (4) bekezdése alapján még be nem jelentkezett – hitelezőknek szóló felhívást, akiknek pénzbeli vagy pénzben kifejezett követelésének esedékessége már lejárt vagy a bírósági adósságrendezés elrendelését követő öt éven belül jár le, a következőkre:
   - fa) az adós hitelezői a kamatokkal, egyéb járulékokkal együtt számított, 50 000 forintot meghaladó összegű követeléseiket és azok biztosítékait – az azok fennállását igazoló okiratok egyidejű benyújtásával – a hirdetmény közzétételétől számított 30 napon belül írásban jelentsék be a családi vagyonfelügyelőnél,
   - fb) ha a követelés több részletben áll fenn vagy azt részletekben kell teljesíteni, a részletek összegét és a részletfizetés gyakoriságát is be kell jelenteni,
   - fc) az fa) alpontban meghatározott határidőn belül a hitelezőknek a nyilvántartásba-vételi díjat is be kell fizetniük [88. § (3) bekezdés a) pont],
@@ -808,7 +816,7 @@ nem lehet magasabb; a már felmondott szerződések esetében pedig a fizetendő
 
 (6) A hitelezők a bírósági adósságrendezés időtartama alatt az adós, adóstárs nemfizetésére vagy késedelmes fizetésére hivatkozással nem mondhatják fel a hiteljogviszonyt, a lakóingatlanra vonatkozó lízingszerződést, valamint az adós és a vele együtt élő közeli hozzátartozói mindennapi életviteléhez szükséges alapvető szolgáltatások nyújtását tartalmazó szerződéseket.
 
-(7) A bírósági adósságrendezés kezdő időpontjától az adós, adóstárs ellen az adósságrendezés körébe tartozó vagyonnal kapcsolatos pénzkövetelést és azok biztosítékait csak az adósságrendezési eljárás keretében lehet érvényesíteni. Az adós a bírósági adósságrendezési eljárás tényét az ARE nyilvántartásból kiadott tanúsítvánnyal igazolja. Ha az adós, adóstárs és a hitelező között az adósságrendezés kezdő időpontjában az adós által indított per van folyamatban, a hitelező ebben a perben az adóssal szemben beszámítási kifogásként érvényesítheti az adósságrendezés kezdő időpontjában már bizonyítottan fennálló követelését, feltéve, hogy a követelés jogosultja az adósságrendezés kezdő időpontjában is ugyanez a hitelező volt.
+(7) A bírósági adósságrendezés kezdő időpontjától az adós, adóstárs ellen az adósságrendezés körébe tartozó vagyonnal kapcsolatos pénzkövetelést és azok biztosítékait csak az adósságrendezési eljárás keretében lehet érvényesíteni. Az adós a bírósági adósságrendezési eljárás tényét az ARE nyilvántartásból kiadott tanúsítvánnyal igazolja. Ha az adós, adóstárs és a hitelező között az adósságrendezés kezdő időpontjában az adós által indított per van folyamatban, a hitelező ebben a perben az adóssal szemben beszámítás útján érvényesítheti az adósságrendezés kezdő időpontjában már bizonyítottan fennálló követelését, feltéve, hogy a követelés jogosultja az adósságrendezés kezdő időpontjában is ugyanez a hitelező volt.
 
 (8) Az adósságrendezés időtartama alatt az adóssal, adóstárssal szemben a hitelező – a (7) bekezdésben foglaltakat kivéve – beszámítással nem élhet. Az adóssal, adóstárssal szemben beszámítással élni az egyezségkötés során, illetve az adósságtörlesztési terv előkészítése során – a családi vagyonfelügyelő hozzájárulásával – akkor lehet, ha a hitelező követelése az adósságrendezés kezdő időpontjában az adóssal, adóstárssal szemben már bizonyítottan fennállt, és a követelés jogosultja az adósságrendezés kezdő időpontjában is ugyanez a hitelező volt. Ekkor sem számíthatja be az adóssal, adóstárssal szembeni követelését
 
@@ -831,9 +839,9 @@ nem lehet magasabb; a már felmondott szerződések esetében pedig a fizetendő
 
 (5) Az adós adóstárs halála esetén – amíg a jogutód személye nem állapítható meg – a bíróság előtti adósságrendezési eljárás félbeszakad, a családi vagyonfelügyelő kezdeményezésére a bíróság az adós, adóstárs jogutódja részére ügygondnokot rendel, erről és az ügygondnok személyéről, természetes személyazonosító adatairól, lakcíméről, értesítési címéről értesíti a családi vagyonfelügyelőt. A családi vagyonfelügyelő ezekről az adatokról az adóstársat, a hitelezőket és az egyéb kötelezetteket értesíti, és az ügygondnok kirendelését és adatait bejegyzi az ARE nyilvántartásba. Az ügygondnok díját és készkiadásait a Családi Csődvédelmi Szolgálat kincstári számlájának terhére kell megelőlegezni, és annak az adósságrendezési eljárásban az adós, adóstárs általi megtérítését a végrehajtási költségekkel, végrehajtó díjjal azonos módon kell biztosítani.
 
-(6) A hagyaték jogerős átadását követően ha az örökös (örökösök) a bírósági adósságrendezési eljárásban jogutódként be kíván lépni, köteles ezt a hagyaték jogerős átadását követő 30 napos jogvesztő határidőn belül a családi vagyonfelügyelőnél bejelenteni és egyidejűleg a bíróságnál kérelmezni. Ha a kérelmet a határidőn belül az elhunyt adós mindegyik természetes személy örököse együttesen benyújtja, a bíróság megállapítja a jogutódlást. Az örökösök személyéről a hagyatéki eljárásban eljáró közjegyző tájékoztatja a családi vagyonfelügyelőt és a bíróságot, a hagyatékátadó végzés meghozatalával egyidejűleg, annak másolata megküldésével. Ha az adós, adóstárs halálát követően az örökösök nem lépnek be jogutódként, és az elhunyt adósnak nem volt adóstársa sem, a bíróság az adósságrendezési eljárást az erről történő tudomásulvételt követő 15 napon belül megszünteti.
+(6) A hagyaték jogerős átadását követően ha az örökös (örökösök) a bírósági adósságrendezési eljárásban jogutódként be kíván lépni, köteles ezt a hagyaték jogerős átadását követő 30 napos jogvesztő határidőn belül a családi vagyonfelügyelőnél bejelenteni és egyidejűleg a bíróságnál kérelmezni. Ha a kérelmet a határidőn belül az elhunyt adós mindegyik természetes személy örököse együttesen benyújtja, a bíróság megállapítja a jogutódlást. Az örökösök személyéről a hagyatéki eljárásban eljáró közjegyző tájékoztatja a családi vagyonfelügyelőt és a bíróságot, a hagyatékátadó végzés meghozatalával egyidejűleg, annak másolata megküldésével. Ha az adós, adóstárs halálát követően az örökösök nem lépnek be jogutódként, és az elhunyt adósnak nem volt adóstársa sem, a bíróság az adósságrendezési eljárást az erről történő tudomásulvételt követő 15 napon belül hivatalból megszünteti.
 
-(7) Ha a hagyatékot valamennyi örökös visszautasította, a hagyaték jogerős átadását követően a bíróság az adósságrendezési eljárást megszünteti, az erről szóló végzést az öröklési ügyekben az államot képviselő Magyar Nemzeti Vagyonkezelő Zrt.-nek is megküldi.
+(7) Ha a hagyatékot valamennyi örökös visszautasította, a hagyaték jogerős átadását követően a bíróság az adósságrendezési eljárást hivatalból megszünteti, az erről szóló végzést az öröklési ügyekben az államot képviselő Magyar Nemzeti Vagyonkezelő Zrt.-nek is megküldi.
 
 (8) A (6) és (7) bekezdés szerinti végzést kézbesíteni kell a kérelmezőnek, a családi vagyonfelügyelőnek, az ügygondoknak, a hitelezőknek is, és meg kell küldeni a családi vagyonfelügyelőnek, valamint az egyéb kötelezetteknek. A jogerős megszüntető végzést be kell jegyezni az ARE nyilvántartásba.
 
@@ -884,7 +892,7 @@ nem lehet magasabb; a már felmondott szerződések esetében pedig a fizetendő
 - e) a bírósági adósságrendezés elrendelését követően esedékessé váló közterheket, ide nem értve az állami kezesség beváltása miatt keletkező, adók módjára behajtható megtérítési kötelezettséget és a felhalmozott diákhitel-tartozás miatt közteherként előírt fizetési kötelezettséget,
 - f) az adóst egyéni vállalkozói tevékenységével összefüggésben terhelő munkabérfizetési kötelezettséget legfeljebb a kötelező legkisebb munkabér másfélszereséig.
 
-(6) Az adós, adóstárs és az eljárásban kötelezettséget vállaló egyéb kötelezett és a családi vagyonfelügyelő a hitelezői igények bejelentésére nyitva álló határidő lejártát követő 30 napon belül havi jövedelemfelosztási tervet készít, amelynek során az adós, adóstárs és az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezett és a vele együtt élő közeli hozzátartozók rendszeres bevételeit, a mindennapi életvitelhez alapvetően szükséges költségeket és a (4) és (5) bekezdés szerinti fizetési kötelezettségeket kell figyelembe venni. Ha az adós, adóstárs és az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezett és a vele közös háztartásban élő hozzátartozói havi rendszeres bevétele a (4) és (5) bekezdés szerinti mértékben nem teszi lehetővé a kifizetéseket, a családi vagyonfelügyelő – ide nem értve a főhitelező részére a (4) bekezdés alapján kötelezően fizetendő összeget – arányosan legfeljebb 20%-kal alacsonyabb mértéket határoz meg azokra a fizetési kötelezettségekre, amelyeket e bekezdés értelmében nem teljes összegben kell teljesíteni. A fizetési kötelezettségek teljesítését havonta írásban a családi vagyonfelügyelő számára igazolni kell.
+(6) Az adós, az adóstárs, az eljárásban az adós törlesztési kötelezettségének kiegészítésére kötelezettséget vállaló egyéb kötelezett és a családi vagyonfelügyelő a hitelezői igények bejelentésére nyitva álló határidő lejártát követő 30 napon belül havi jövedelemfelosztási tervet készít, amelynek során az adós és az adóstárs rendszeres bevételeit, az egyéb kötelezett által az adós törlesztési képességének kiegészítésére fordított összeget, az adóssal, adóstárssal közös háztartásban élő közeli hozzátartozók által a mindennapi életvezetéssel, lakásfenntartással összefüggő, rendszeres kiadásokhoz történő hozzájárulás összegét, a mindennapi életvitelhez alapvetően szükséges költségeket és a (4) és (5) bekezdés szerinti fizetési kötelezettségeket kell figyelembe venni. Ha a jövedelemfelosztási terv készítése során figyelembe vett összegek a (4) és (5) bekezdés szerinti mértékben nem teszik lehetővé a kifizetéseket, a családi vagyonfelügyelő – ide nem értve a főhitelező részére a (4) bekezdés alapján kötelezően fizetendő összeget – arányosan legfeljebb 20%-kal alacsonyabb mértéket határoz meg azokra a fizetési kötelezettségekre, amelyeket e bekezdés értelmében nem teljes összegben kell teljesíteni. A fizetési kötelezettségek teljesítését havonta írásban a családi vagyonfelügyelő számára igazolni kell.
 
 (7) A családi vagyonfelügyelő és az adós, adóstárs, továbbá az adósságrendezési eljárásban kötelezettséget vállaló egyéb jogi kötelezett – az e törvény végrehajtási rendeletében foglalt keretrendelkezések figyelembevételével – együttműködési rendet alakít ki az adós, adóstárs vagyonának és bevételeinek nyilvántartásáról, a vagyonnal, bevételekkel való gazdálkodásáról, és az (5) és (6) bekezdés szerinti törlesztési kötelezettség teljesítéséről, az adósságrendezéssel összefüggő feladatok teljesítésével összefüggő beszámolásról, valamint az egyéb kötelezett kötelezettségvállalásának teljesítésének figyelemmel kíséréséről.
 
@@ -892,7 +900,7 @@ nem lehet magasabb; a már felmondott szerződések esetében pedig a fizetendő
 
 (9) Az adósságrendezés hatálya alá nem tartozó összegek jóváírására és ezen összegek feletti rendelkezésre az adós, adóstárs az adósságrendezési eljárás megindulását megelőzően megnyitott és vezetett fizetési számláit a mindennapi életvezetéssel összefüggő összegek kezelésére külön-külön is megtarthatja, ha nem élnek közös háztartásban és nincs közöttük vagyonközösség. Az adós és az adóstárs ezekre a számlákra vonatkozóan az önálló rendelkezési jogot megtartja, és halál esetére szóló rendelkezést tehet. A jelen bekezdésben hivatkozott számlák megnyitásával, vezetésével és a rendelkezési jog gyakorlásával összefüggő intézkedéseket a családi vagyonfelügyelő ellenőrzi. A családi vagyonfelügyelő számára az adós, adóstárs köteles átadni az utólagos tájékoztatást tartalmazó bankszámlakivonatokat, számlaértesítőket. A számlát vezető pénzügyi intézmény a családi vagyonfelügyelővel szemben a banktitok megtartásának kötelezettsége alól e törvény alapján mentesül.
 
-(10) A (9) bekezdésben foglaltakat az adós vagy az adóstárs az egyéni vállalkozói tevékenységével összefüggő pénzforgalmának kezelésére, az Art. 14. § és 38. §-a szerinti pénzforgalmi számlájára is alkalmazni kell.
+(10) A (9) bekezdésben foglaltakat az adós vagy az adóstárs az egyéni vállalkozói tevékenységével összefüggő pénzforgalmának kezelésére, az Art. szerinti pénzforgalmi számlájára is alkalmazni kell.
 
 #### 18. Hitelezői igények besorolása
 
@@ -926,9 +934,9 @@ nem lehet magasabb; a már felmondott szerződések esetében pedig a fizetendő
 
 (2) Az (1) bekezdés szerinti felhívásban a családi vagyonfelügyelő minden hitelezővel közli, hogy az egyes követelései a 46. § (2) bekezdésében meghatározott melyik hitelezői kategóriába (kategóriákba) tartoznak, és a követelés összegéhez igazodóan azokhoz milyen szavazatszám társul (a továbbiakban: hitelezői besorolás). A hitelezői besorolásra az érintett hitelező a felhívás kézbesítésétől számított 15 napon belül tehet észrevételt, a határidő elmulasztása esetén igazolási kérelmet benyújtani nem lehet. Az észrevétel tárgyában a családi vagyonfelügyelő – szükség esetén az adós, adóstárs és az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezett meghallgatása után – 15 napon belül dönt, és erről értesíti az adóst és az érintett hitelezőt.
 
-(3) Az adós, adóstárs és az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezett, valamint a hitelező a családi vagyonfelügyelő besorolási döntésével szemben a bíróságnál kifogással élhet. A kifogást a besorolási értesítés kézbesítését követő 15 napon túl előterjeszteni nem lehet, a határidő elmulasztása esetén igazolási kérelmet benyújtani nem lehet. A kifogást – ha az érintettek nyilatkoztatására vagy bizonyításra nincs szükség – 15 napon belül kell elbírálni.
+(3) Az adós, adóstárs és az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezett, valamint a hitelező a családi vagyonfelügyelő besorolási döntésével szemben a bíróságnál kifogással élhet. A kifogást a besorolási értesítés kézbesítését követő 15 napon túl előterjeszteni nem lehet, a határidő elmulasztása esetén igazolási kérelmet benyújtani nem lehet. A kifogást – ha az érintettek nyilatkoztatására vagy bizonyításra nincs szükség – 15 napon belül kell elbírálni; a kifogást elbíráló végzés ellen fellebbezésnek van helye.
 
-(4) A bíróság a kifogás elbírálásáról szóló végzést megküldi a kifogást benyújtó hitelezőnek, az adósnak, adóstársnak, az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezettnek és a családi vagyonfelügyelőnek. Ha a bíróság a kifogásban foglaltaknak helyt ad, a családi vagyonfelügyelő a végzés kézhezvételétől számított 8 napon belül átdolgozza a hitelezői besorolást és azt megküldi az adósnak, adóstársnak, a hitelezőknek és az egyéb kötelezetteknek. Az átdolgozott hitelezői besorolás ellen újabb kifogás benyújtásának nincs helye, ide nem értve azt az esetet, ha az nem felel meg a bíróság kifogást elbíráló végzésében foglaltaknak.
+(4) A bíróság a kifogás elbírálásáról szóló jogerős végzést megküldi a kifogást benyújtó hitelezőnek, az adósnak, adóstársnak, az adósságrendezési eljárásban kötelezettséget vállaló egyéb kötelezettnek és a családi vagyonfelügyelőnek. Ha a bíróság a kifogásban foglaltaknak helyt ad, a családi vagyonfelügyelő a végzés kézhezvételétől számított 8 napon belül átdolgozza a hitelezői besorolást és azt megküldi az adósnak, adóstársnak, a hitelezőknek és az egyéb kötelezetteknek. Az átdolgozott hitelezői besorolás ellen újabb kifogás benyújtásának nincs helye, ide nem értve azt az esetet, ha az nem felel meg a bíróság kifogást elbíráló végzésében foglaltaknak.
 
 48. § (1) A hitelező írásban köteles nyilatkozni a vagyonfelügyelőnek arról, hogy
 
@@ -941,8 +949,8 @@ nem lehet magasabb; a már felmondott szerződések esetében pedig a fizetendő
 
 - a) ha a 47. § (2) bekezdés szerinti hitelezői besorolási értesítésre észrevétel nem érkezett, akkor az észrevételezésre nyitva álló határidő utolsó napjától számított,
 - b) ha a 47. § (2) bekezdés szerinti hitelezői besorolásra olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nem nyújtottak be, a kifogás benyújtására nyitva álló határidő utolsó napjától számított
-- c) ha a 47. § (2) bekezdés szerinti hitelezői besorolásra olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nyújtottak be, de a bíróság a kifogást elutasította, az erről szóló végzés kézhezvételétől számított
-- d) ha a 47. § (2) bekezdés szerinti hitelezői besorolási értesítésre olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nyújtottak be, és a bíróság a kifogásban foglaltaknak helyt adott, az átdolgozott hitelezői besorolás megküldésétől számított
+- c) ha a 47. § (2) bekezdés szerinti hitelezői besorolásra olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nyújtottak be, de a bíróság a kifogást elutasította, az erről szóló jogerős végzés kézhezvételétől számított
+- d) ha a 47. § (2) bekezdés szerinti hitelezői besorolási értesítésre olyan észrevétel érkezett, amelyről szóló vagyonfelügyelői döntés ellen a bírósághoz kifogást nyújtottak be, és a bíróság a kifogásban foglaltaknak jogerős végzéssel helyt adott, az átdolgozott hitelezői besorolás megküldésétől számított
 
 30 napon belül kell megtenni; a határidő elmulasztása esetén igazolásnak nincs helye. A családi vagyonfelügyelő az említett feltételek bekövetkezéséről 8 napon belül az időpont pontos megjelölésével köteles tájékoztatni valamennyi hitelezőt.
 
@@ -1095,7 +1103,7 @@ azt a családi vagyonfelügyelőnek bejelenti, és a kapott bevétel költségek
 
 (3) A családi vagyonfelügyelő a (2) bekezdésben meghatározott esetben is továbbítja a jegyzőkönyvet és – ha azt megszavazták – az egyezséget a bíróságnak, de felhívja a figyelmet arra, hogy az egyezség megkötésének milyen jogszabályi akadálya van.
 
-(4) A (2)–(3) bekezdés szerinti esetekben a bíróság – az iratok beszerzését, illetve szükség esetén az érintett felek meghallgatását vagy nyilatkozatuk beszerzését követően – a bírósági adósságrendezési eljárást megszünteti.
+(4) A (2) és (3) bekezdés szerinti esetekben a bíróság – az iratok beszerzését, illetve szükség esetén az érintett felek nyilatkozatának beszerzését követően – a bírósági adósságrendezési eljárást megszünteti.
 
 (5) A bírósági adósságrendezési eljárás megszüntetéséről szóló végzést a bíróság kézbesíti az adósnak és a hitelezőknek, valamint megküldi a családi vagyonfelügyelőnek és az egyéb kötelezetteknek, valamint a végrehajtást elrendelő és foganatosító hatóságnak, önálló bírósági végrehajtónak akkor, ha az adósságrendezés elrendelésére tekintettel a végrehajtási eljárást felfüggesztették vagy a végrehajtási cselekményeket a szünetelésre tekintettel nem lehetett foganatosítani. A végzés ellen az adós, adóstárs és a hitelező élhet fellebbezéssel, a végzés kézbesítését követő 8 napon belül.
 
@@ -1285,7 +1293,7 @@ e tényt a családi vagyonfelügyelő jegyzőkönyvben megállapítja, és azt �
 
 74. § (1) A családi vagyonfelügyelő az adósságtörlesztési tervben megállapítja az adósságtörlesztési eljárásba bejelentett egyes hitelezői követelések adósságtörlesztési hitelezői besorolását a 46., a 49. § alkalmazásával, figyelembe véve a 70. § szerinti adatokat.
 
-(2) Ezt követően – a 72. § figyelembevételével – az adós, adóstárs és az eljárásban teljes vagyonával részt vevő egyéb kötelezett adósságrendezési eljárás alá tartozó vagyona és bevételei hitelezők közötti felosztására vonatkozóan adósságtörlesztési tervet készít az alábbiak figyelembevételével:
+(2) Ezt követően – a 72. § figyelembevételével – az adós, adóstárs és az eljárásban az adós törlesztési kötelezettségének kiegészítésére kötelezettséget vállaló egyéb kötelezettet által vállalt fizetési kötelezettség hitelezők közötti felosztására vonatkozóan adósságtörlesztési tervet készít az alábbiak figyelembevételével:
 
 - a) zálogjoggal biztosított vagyontárgy értékesítése esetén a bevételből a bevételt terhelő közterheket, a korábban felfüggesztett végrehajtás során a zálogjogosult által megelőlegezett végrehajtási költséget, továbbá az értékesítéssel kapcsolatosan felmerülő költségeket – korábban felfüggesztett bíróságon kívüli zálogértékesítés esetén pedig a zálogjogosult által megelőlegezett értékesítési költséget – kell megtéríteni, ezt követően pedig elsőként a zálogjoggal biztosított követelést kell kifizetni a forgalmi érték mértékéig,
 - b) zálogtárgy-elkülönítés esetén a zálogtárgy-elkülönítési egyezség alapján megfizetendő törlesztőrészletekhez szükséges vagyon kizárólag erre a célra fordítható,
@@ -1412,7 +1420,7 @@ e tényt a családi vagyonfelügyelő jegyzőkönyvben megállapítja, és a jeg
 
 (6) Az adósságtörlesztési határozat módosítására vonatkozó javaslat összeállításánál a családi vagyonfelügyelő figyelembe veszi a hitelezők véleményét és az adós, adóstárs méltányolható lakásigényét is. Indokolt esetben a bíróság – kivételes méltánylást érdemlő körülményekre tekintettel – egy alkalommal, a tartós adósságtörlesztési időszak legfeljebb 2 évvel történő meghosszabbítását is elrendelheti.
 
-(7) Az adósságtörlesztési határozat módosításáról a bíróság 15 napon belül dönt, végzését kézbesíti az adósnak, adóstársnak, a hitelezőknek, megküldi az egyéb kötelezetteknek és a családi vagyonfelügyelőnek. A végzés ellen csak az adós élhet fellebbezéssel, a kézbesítéstől számított 8 napon belül.
+(7) Az adósságtörlesztési határozat módosításáról a bíróság 15 napon belül dönt, végzését kézbesíti az adósnak, adóstársnak, a hitelezőknek, megküldi az egyéb kötelezetteknek és a családi vagyonfelügyelőnek. A végzés ellen az adós és a hitelező élhet fellebbezéssel, a kézbesítéstől számított 8 napon belül.
 
 (8) Az adósságtörlesztési határozat módosítását jóváhagyó jogerős határozatot be kell jegyezni az ARE nyilvántartásba.
 
@@ -1469,11 +1477,11 @@ e tényt a családi vagyonfelügyelő jegyzőkönyvben megállapítja, és a jeg
 
 (2) A záró elszámolásra a hitelező annak kézbesítésétől számított 15 napon belül észrevételt tehet. A családi vagyonfelügyelő a beérkezett észrevételeknek megfelelően szükség szerint a záró elszámolást módosítja, ezt követően mentesítő határozat meghozatala érdekében a bíróság elé terjeszti, egyidejűleg nyilatkozik arról, hogy az adós az e törvényben, valamint adósságrendezéssel összefüggő jogerős végzésben meghatározott kötelezettségeit teljesítette. Ha a családi vagyonfelügyelő a hitelező észrevételét nem fogadta el, annak indokáról a záró elszámolás bíróság elé terjesztésekor nyilatkoznia kell.
 
-86. § (1) Ha az adós, adóstárs és az eljárásban vagyonával részt vevő egyéb kötelezett a bíróságon kívüli adósságrendezési megállapodásban, az egyezségben vagy az adósságtörlesztési határozatban foglaltakat és az e törvényben meghatározott egyéb kötelezettségeit teljesítette és a hitelezők legalább a 74. § (3) bekezdés – 74. § (3a) bekezdés figyelembevételével kiszámított – szerinti minimális megtérüléshez jutottak, a bíróság a záró elszámolás alapján mentesítő határozatot hoz. A mentesítő végzés folytán az eljárásban részt vevő hitelezők mindazon követelései megszűnnek – ide nem értve az adósságrendezés időszakánál hosszabb futamidejű jelzáloghitel szerződés és a lakóingatlanra kötött pénzügyi lízingszerződések tekintetében az adósságrendezés lezárását követően az (1a) bekezdés alapján meghatározott futamidő lejártáig még esedékessé váló, az egyezségben vagy adósságrendezési határozatban meghatározott összegeket –, amelyeket az adósságtörlesztési végzés alapján az adósságrendezési időszak végéig nem kellett teljes egészében kielégíteni.
+86. § (1) Ha az adós, adóstárs és az eljárásban vagyonával részt vevő egyéb kötelezett a bíróságon kívüli adósságrendezési megállapodásban, az egyezségben vagy az adósságtörlesztési határozatban foglaltakat és az e törvényben meghatározott egyéb kötelezettségeit teljesítette és adósságtörlesztési határozat esetén a hitelezők legalább a 74. § (3) bekezdés – 74. § (3a) bekezdés figyelembevételével kiszámított – szerinti minimális megtérüléshez jutottak, a bíróság a záró elszámolás alapján mentesítő határozatot hoz. A mentesítő végzés folytán az eljárásban részt vevő hitelezők mindazon követelései megszűnnek – ide nem értve az adósságrendezés időszakánál hosszabb futamidejű jelzáloghitel szerződés és a lakóingatlanra kötött pénzügyi lízingszerződések tekintetében az adósságrendezés lezárását követően az (1a) bekezdés alapján meghatározott futamidő lejártáig még esedékessé váló, az egyezségben vagy adósságtörlesztési határozatban meghatározott összegeket –, amelyeket az adósságtörlesztési végzés alapján az adósságrendezési időszak végéig nem kellett teljes egészében kielégíteni.
 
-(1a) Az adósságrendezés időszakánál hosszabb futamidejű jelzáloghitelszerződések és a lakóingatlanra kötött pénzügyi lízingszerződések tekintetében a jogerős mentesítő határozat kézhezvételét követően az adós a futamidő lejártáig még esedékessé váló, az egyezségben vagy adósságrendezési határozatban meghatározott összegeket köteles megfizetni.
+(1a) Az adósságrendezés időszakánál hosszabb futamidejű jelzáloghitelszerződések és a lakóingatlanra kötött pénzügyi lízingszerződések tekintetében a jogerős mentesítő határozat kézhezvételét követően az adós a futamidő lejártáig még esedékessé váló, az egyezségben vagy adósságtörlesztési határozatban meghatározott összegeket köteles megfizetni.
 
-(2) Amennyiben az adósságtörlesztési időszak végén a bíróság – a hitelezők nyilatkozata és a családi vagyonfelügyelő zárómérlege alapján – azt állapítja meg, hogy az adósságtörlesztési időszak végén a hitelezők nem jutottak a 74. § (3) bekezdés – 74. § (3a) bekezdés figyelembevételével kiszámított – szerinti minimális megtérüléshez, akkor a bíróság
+(2) Amennyiben az adósságtörlesztési időszak végén a bíróság – a hitelezők nyilatkozata és a családi vagyonfelügyelő záró elszámolása alapján – azt állapítja meg, hogy az adósságtörlesztési időszak végén a hitelezők nem jutottak a 74. § (3) bekezdés – 74. § (3a) bekezdés figyelembevételével kiszámított – szerinti minimális megtérüléshez, akkor a bíróság
 
 - a) a törlesztési időszakot a minimális megtérülés eléréséhez szükséges mértékig, de legfeljebb további 2 évvel meghosszabbítja amennyiben az adósságtörlesztés meghosszabbítására korábban még nem került sor, a meghosszabbítás a vagyonértékesítési bevételek elmaradása miatt indokolt, továbbá
 - b) az adóst, adóstársat és az eljárásban vagyonával részt vevő egyéb kötelezett felhívja, hogy a hitelezők minimális megtérülésének biztosításához szükséges összeget a családi vagyonfelügyelő által kezelt adósságtörlesztési számlára 30 napon belül fizesse meg.
@@ -1483,6 +1491,8 @@ e tényt a családi vagyonfelügyelő jegyzőkönyvben megállapítja, és a jeg
 (4) Az (2) bekezdés a) pont szerint meghosszabbított adósságtörlesztési időszakot követően a bírósághoz ismételten be kell terjeszteni a záró elszámolást. A bíróság az (1) bekezdésben foglaltaknak megfelelően dönt a mentesítés tárgyában.
 
 (5) A (2) bekezdés b) pont szerinti határidő leteltét követően a befizetés megtörténtéről, illetve annak elmaradásáról a családi vagyonfelügyelő 15 napon belül, a záró beszámoló módosításának előterjesztésével értesíti a bíróságot. A bíróság akkor hoz mentesítő határozatot, ha a befizetési kötelezettség teljesítés megtörtént.
+
+(6) Az adósságtörlesztés meghosszabbítása és a mentesítés tárgyában hozott végzés ellen fellebbezésnek van helye.
 
 #### 33. Az adósságrendezés lezárását követő intézkedések
 
@@ -1543,7 +1553,7 @@ hívhatja le.
 
 (3) A bíróság a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnésének megállapítása iránti kérelmet a megállapodásban részes feleknek, az egyéb kötelezetteknek megküldi, és bizonyítási eljárást folytat le, ennek során a 36. § (6) és (7) bekezdésben foglaltaktól eltérhet.
 
-(4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a végzéssel megállapítja a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését, egyébként a kérelmet végzéssel elutasítja. A bíróság végzését az adósnak és a hitelezőknek kézbesíti, az egyéb kötelezettnek és a családi vagyonfelügyelőnek pedig megküldi.
+(4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a végzéssel megállapítja a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését, egyébként a kérelmet végzéssel elutasítja. A bíróság végzését az adósnak és a hitelezőknek kézbesíti, az egyéb kötelezettnek és a családi vagyonfelügyelőnek pedig megküldi; a végzés ellen fellebbezésnek van helye..
 
 (5) Ha a bíróság megállapította a bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését, az erről szóló végzést be kell jegyezni az ARE nyilvántartásba.
 
@@ -1558,7 +1568,7 @@ hívhatja le.
 
 (3) A bíróság a bírósági adósságrendezési egyezség hatálya megszűnésének megállapítása iránti kérelmet a megállapodásban részes feleknek, az egyéb kötelezetteknek megküldi, és bizonyítási eljárást folytat le, ennek során a 36. § (6) és (7) bekezdésben foglaltaktól eltérhet.
 
-(4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a végzéssel megállapítja a bíróságon kívüli egyezség hatályának megszűnését.
+(4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a végzéssel megállapítja a bíróságon kívüli egyezség hatályának megszűnését, egyébként a kérelmet elutasítja; a végzés ellen fellebbezésnek van helye.
 
 (5) Ha a bíróság megállapította a bírósági adósságrendezési egyezség hatálya megszűnését, az erről szóló végzést be kell jegyezni az ARE nyilvántartásba.
 
@@ -1581,14 +1591,14 @@ hívhatja le.
 
 96. § (1) A bíróság a kérelem tárgyában 30 napon belül dönt. A bíróság a kérelmezőt, az érintett hitelezőt, az adóst és a családi vagyonfelügyelőt írásban nyilatkoztatja. Az eljárás során bizonyításnak a Pp. szabályai szerint van helye.
 
-(2) A bíróság a kérelmet hivatalból – az a)–c) pontban meghatározott esetben hiánypótlási felhívás kibocsátása nélkül – elutasítja, ha
+(2) A bíróság a kérelmet hivatalból – az a)–c) pontban meghatározott esetben hiánypótlási felhívás kibocsátása nélkül – visszautasítja, ha
 
 - a) a kérelem elkésett,
 - b) a kérelem nem az előterjesztésre jogosulttól származik,
 - c) a kérelmező a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el,
 - d) a kérelmező az eljárási illetéket nem fizette meg.
 
-(3) Ha a kérelem előterjesztésének nincs helye, azt a bíróság érdemi vizsgálat nélkül 15 napon belül végzéssel elutasítja.
+(3) Ha a kérelem előterjesztésének nincs helye, azt a bíróság érdemi vizsgálat nélkül 15 napon belül végzéssel visszautasítja.
 
 (4) Ha a kérelem előterjesztésének helye van és a kérelem megalapozott, a bíróság 15 napon belül a mentesítő határozatot végzéssel hatályon kívül helyezi, egyébként a kérelmet végzéssel elutasítja. A bíróság végzését az adósnak és a hitelezőknek kézbesíti, az egyéb kötelezettnek és a családi vagyonfelügyelőnek pedig megküldi.
 
@@ -1614,9 +1624,9 @@ hívhatja le.
 
 (6) Ha az intézkedés később jutott a kifogást előterjesztő tudomására, vagy a kifogás előterjesztésében a családi vagyonfelügyelő intézkedésétől számított 15 napon túl is akadályozva volt, a kifogás előterjesztésének határidejét a tudomásszerzéstől, illetőleg az akadály megszűnésétől kell számítani, amennyiben a kifogást előterjesztő a későbbi tudomásszerzés vagy az akadályoztatás tényét kellően igazolja. A családi vagyonfelügyelő intézkedésétől számított 3 hónap eltelte után nem lehet kifogást előterjeszteni; e határidő elmulasztása miatt nincs helye igazolásnak.
 
-98. § (1) A bíróság a kifogást haladéktalanul, de legkésőbb a beérkezését követő 15 munkanapon belül megvizsgálja annak megállapítása érdekében, hogy nincs-e szükség hiánypótlásra, nincs-e helye áttételnek vagy a kifogás érdemi vizsgálat nélküli elutasításának, és a szükséges intézkedéseket megteszi.
+98. § (1) A bíróság a kifogást haladéktalanul, de legkésőbb a beérkezését követő 15 munkanapon belül megvizsgálja annak megállapítása érdekében, hogy nincs-e szükség hiánypótlásra, nincs-e helye áttételnek vagy a kifogás érdemi vizsgálat nélküli visszautasításának, és a szükséges intézkedéseket megteszi.
 
-(2) A bíróság a kifogást érdemi vizsgálat nélkül elutasítja, ha
+(2) A bíróság a kifogást – érdemi vizsgálat nélkül – visszautasítja, ha
 
 - a) a kifogás elkésett,
 - b) a kifogást nem az érintett nyújtotta be,
@@ -1639,15 +1649,15 @@ hívhatja le.
 
 (9) A bíróság a kifogás tárgyában hozott végzését a kifogás benyújtójának és a családi vagyonfelügyelőnek kézbesíti.
 
-99. § (1) A kifogást elutasító végzés ellen a kifogás benyújtója, a családi vagyonfelügyelő intézkedését megsemmisítő vagy a családi vagyonfelügyelőt intézkedés megtételére utasító végzés ellen a családi vagyonfelügyelő fellebbezhet. Azt, aki a kifogást elutasító végzés ellen nyilvánvalóan alaptalan fellebbezéssel él, a másodfokú bíróság pénzbírsággal (Pp. 120. §) sújthatja.
+99. § (1) A kifogást elutasító végzés ellen a kifogás benyújtója, a családi vagyonfelügyelő intézkedését megsemmisítő vagy a családi vagyonfelügyelőt intézkedés megtételére utasító végzés ellen a családi vagyonfelügyelő fellebbezhet. Azt, aki a kifogást elutasító végzés ellen nyilvánvalóan alaptalan fellebbezéssel él, a másodfokú bíróság legfeljebb 100 000 Ft pénzbírsággal (Pp. 166. §) sújthatja.
 
-(2) Ha a családi vagyonfelügyelő az őt intézkedés megtételére utasító végzésnek nem tesz eleget, a bíróság a Családi Csődvédelmi Szolgálatot 30 000 forinttól 200 000 forintig terjedő pénzbírsággal sújtja, amely ismételten is kiszabható.
+(2) Ha a családi vagyonfelügyelő az őt intézkedés megtételére utasító végzésnek nem tesz eleget, a bíróság a Családi Csődvédelmi Szolgálatnak a családi vagyonfelügyelőt foglalkoztató területi szervét 30 000 forinttól 200 000 forintig terjedő pénzbírsággal sújtja, amely ismételten is kiszabható. A bírságot kiszabó végzés ellen a Családi Csődvédelmi Szolgálat területi szerve részéről fellebbezésnek van helye.
 
 (3) Ha a családi vagyonfelügyelő intézkedése súlyosan vagy ismételten sérti a jogszabályokat, veszélyezteti az adósságrendezési eljárás szabályszerű lefolytatását, a bíróság a Családi Csődvédelmi Szolgálatot új családi vagyonfelügyelő kijelölésére hívja fel.
 
 #### 39. Fellebbezés
 
-100. § (1) Ha a fellebbezéshez a fél mellékletet csatol, azt kizárólag papír alapon, az ügyben eljáró bíróságnál nyújthatja be. Egyéb esetekben az elektronikus iratbeadásra köteles fél nem elektronikus fellebbezését a bíróság hiánypótlási felhívás kiadása nélkül hivatalból elutasítja.
+100. § (1) Ha a fellebbezéshez a fél mellékletet csatol, azt kizárólag papír alapon, az ügyben eljáró bíróságnál nyújthatja be. Egyéb esetekben az elektronikus iratbeadásra köteles fél nem elektronikus fellebbezését a bíróság – hiánypótlási felhívás kiadása nélkül –visszautasítja.
 
 (2) A bíróság a másodfokú bíróságnak 8 napon belül felterjeszti a fellebbezés elbírálása szempontjából szükséges iratokat.
 
@@ -1659,19 +1669,20 @@ hívhatja le.
 
 #### 40. Felülvizsgálat
 
-101. § (1) Felülvizsgálatnak a jogerős
+101. § (1) Felülvizsgálatnak
 
-- a) bírósági adósságrendezés elrendelését elutasító,
-- b) adósságrendezési eljárást megszüntető,
-- c) adósságtörlesztésről szóló,
-- d) mentesítő,
-- e) mentesítő végzést hatályon kívül helyező,
-- f) bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését megállapító, és
-- g) bírósági adósságrendezési egyezség hatályának megszűnését megállapító
+- a) a jogerős bírósági adósságrendezés elrendelését elutasító végzéssel szemben,
+- b) a jogerős adósságrendezési eljárást megszüntető végzéssel szemben,
+- c) a jogerős adósságtörlesztésről szóló végzéssel szemben,
+- d) a jogerős mentesítő végzéssel szemben,
+- e) a jogerős mentesítő végzést hatályon kívül helyező végzéssel szemben,
+- f) a jogerős bíróságon kívüli adósságrendezési megállapodás hatálya megszűnését megállapító végzéssel szemben,
+- g) a jogerős bírósági adósságrendezési egyezség hatályának megszűnését megállapító végzéssel szemben, valamint
+- h) a Pp. 409. §-ában foglalt esetekben
 
-végzéssel szemben van helye.
+van helye.
 
-(2) A Pp. 271. § (2) bekezdésének az alkalmazása során a felülvizsgálati kérelemben vitatott értéket a bírósági adósságrendezés elrendelésekor lejárt követelések tőkeösszege és kamata alapján meghatározott ügyérték alapján kell számítani, ha a felülvizsgálati kérelemben nem jelölték meg a vitatott értéket.
+(2) A Pp. 408. § (1) bekezdésének az alkalmazása során a felülvizsgálati kérelemben vitatott értéket a bírósági adósságrendezés elrendelésekor lejárt követelések tőkeösszege és kamata alapján meghatározott ügyérték alapján kell számítani, ha a felülvizsgálati kérelemben nem jelölték meg a vitatott értéket.
 
 (3) A felülvizsgálatra a fellebbezés szabályait megfelelően alkalmazni kell.
 
@@ -1868,7 +1879,7 @@ végzéssel szemben van helye.
 - 1.3. Egyéb kötelezettek neve, székhelye (lakóhelye), értesítési címe, telefonszám, továbbá elektronikus kapcsolattartás vállalása esetén elektronikus levelezési címe, adóssal áll-e hozzátartozói viszonyban vagy vagyonközösségben az egyéb kötelezetti besorolást megalapozó ügylet
 - 2. A kérelemhez csatolandó iratok
   - a) adós (adóstárs) személyi igazolvány vagy egyéb – a személyazonosság igazolására külön törvény szerint alkalmas – más igazolvány száma
-  - b) az Art. 85/A. § (1) bekezdés alapján kiállított együttes adó-, jövedelem- és illetőségigazolás
+  - b) az adóigazgatási eljárás részletszabályairól szóló kormányrendelet alapján kiállított együttes adó-, jövedelem- és illetőségigazolás
   - c) a 8. § (2) bekezdés a)–d) pontja szerinti köztartozások esetén a tartozás összegére, jogcímére vonatkozó adatok, hatósági igazolás, a részletfizetésre vagy halasztásra vonatkozó hatósági határozat, diákhitel-tartozás esetén a Diákhitel Központ Zrt. által erről kiállított igazolás
   - d) ha az adósnak van olyan adó- vagy más köztartozása, amelyre a hatóságtól fizetési halasztást, részletfizetési kedvezményt, vagy más fizetési kedvezményt kapott, az erre vonatkozó jogerős hatósági határozat
   - e) a legutóbbi fizetési felszólítások, terhelési értesítők, elszámolási törvény és forintosítási törvény szerinti értesítések, egyenlegértesítők, a zálogtárgy értékének hitelkihelyezéskori forgalmi értéke, annak módosítása

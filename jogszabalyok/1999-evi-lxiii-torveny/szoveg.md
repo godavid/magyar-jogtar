@@ -101,7 +101,7 @@ haladéktalanul törli.
 
 (2) A rögzített felvételt a felügyelő a 7. § (6) bekezdésében foglalt felhasználási célból – bizonyítási eszközként – a büntető vagy szabálysértési eljárásra jogosult szerv megkeresésére továbbíthatja. A megkeresésben meg kell jelölni az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt.
 
-(3) Közigazgatási hatósági eljárásban az eljáró hatóság megkeresésére – belföldi jogsegély keretében – a (2) bekezdés szerint rögzített felvétel továbbítható, ha a megkereső hatóság a megkeresésben az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt megjelöli.
+(3) Közigazgatási hatósági eljárásban az eljáró hatóság megkeresésére a (2) bekezdés szerint rögzített felvétel továbbítható, ha a megkereső hatóság a megkeresésben az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt megjelöli.
 
 (4) A rögzített felvétel továbbítására irányuló megkeresést meg kell tagadni akkor is, ha a felvétel a megkeresésben meghatározott tény bizonyítására alkalmatlan.
 
@@ -149,7 +149,7 @@ haladéktalanul törli.
 
 18. §
 
-19. § A közterület használatára vonatkozó jogerős határozatban, tulajdonosi (kezelői) hozzájárulásban foglaltak megszegése vagy elmulasztása esetén a felügyelő köteles felhívni a kötelezettet az előírások betartására.
+19. § A közterület használatára vonatkozó végleges határozatban, tulajdonosi (kezelői) hozzájárulásban foglaltak megszegése vagy elmulasztása esetén a felügyelő köteles felhívni a kötelezettet az előírások betartására.
 
 20. § (1) A felügyelő – az üzemben tartó értesítése mellett – elszállítással eltávolíthatja a közterületen szabálytalanul elhelyezett járművet, ha az a közúti forgalom biztonságát vagy a közbiztonságot veszélyezteti.
 
@@ -175,7 +175,7 @@ haladéktalanul törli.
 
 (2)
 
-23. § (1) A felügyelő eljárására az ügy jellegétől függően a közigazgatási hatósági eljárás általános szabályairól szóló, illetőleg a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény rendelkezéseit kell alkalmazni.
+23. § (1) A felügyelő eljárására az ügy jellegétől függően az általános közigazgatási rendtartásról szóló, illetőleg a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény rendelkezéseit kell alkalmazni.
 
 (2) Az e törvényben szabályozott felügyelői intézkedések miatti jogorvoslatra a közigazgatási hatósági eljárás, illetőleg a szabálysértési eljárás szabályai az irányadók.
 
@@ -226,7 +226,7 @@ haladéktalanul törli.
 
 ### Felhatalmazó rendelkezések
 
-28/A. §
+28/A. § Felhatalmazást kap a Kormány, hogy a kerékbilincs alkalmazásával és a járművek elszállításával kapcsolatos eljárásra alkalmazandó közigazgatási hatósági eljárási szabályok kiegészítő és eltérő szabályait rendeletben állapítsa meg.
 
 29. § Felhatalmazást kap
 

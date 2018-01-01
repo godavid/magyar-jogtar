@@ -676,7 +676,7 @@ lép.
 
 (7) Ha a folyamatban lévő ügyben az e törvény hatálybalépését megelőzően olyan szakhatóság adott ki szakhatósági állásfoglalást, amelyet az e törvény hatálybalépését követően már nem kell bevonni az adott eljárásba, az eljáró hatóság a határozatát a szakhatósági állásfoglalásban meghatározott szakkérdés tekintetében kizárólag a már kiadott szakhatósági állásfoglalásra alapozza.
 
-(8) Az e törvény hatálybalépését megelőzően indult ügyben folyamatban lévő szakhatósági eljárás e törvény hatálybalépése napján a törvény erejénél fogva egyesül azzal az eljárással, amelyben a szakhatóság megkeresésére sor került, ha a szakhatósági eljárásban vizsgálandó szakkérdést az e törvény hatálybalépése napján hatályos jogszabályok alapján az ügyben hatáskörrel rendelkező hatóság szakhatósági közreműködés nélkül a saját eljárásában vizsgálja. Az eljárások egyesítésére egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 33/B. §-a alkalmazandó azzal, hogy az egyesítés nem érinti az e törvény hatálybalépése előtt végzett eljárási cselekmények hatályát és a megkezdett határidőket.
+(8)
 
 137. § (1) A Magyarország 2017. évi központi költségvetésről szóló törvény hatálybalépésének napján beolvadással vagy jogutód nélküli megszűnéssel már megszűnt, azonban a Magyarország 2017. évi központi költségvetéséről szóló törvényben (a továbbiakban: költségvetési törvény) külön címként nevesített költségvetési szervek esetén a Kincstár címenként egy-egy átmeneti, technikai szervezetet rendel. A technikai szervezet a törzskönyvbe nem kerül bejegyzésre.
 

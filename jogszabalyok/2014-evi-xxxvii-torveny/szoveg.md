@@ -19,7 +19,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 (3) E törvény alkalmazásában egy hitelintézetként kell kezelni a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény (a továbbiakban: Szhitv.) szerinti szövetkezeti hitelintézeteket az Integrációs Szervezettel együtt, ha azok az Szhitv. szerinti egyetemleges felelősségi körbe tartoznak.
 
-(4) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.), a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.), a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.),, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) és a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(4) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.), a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.), a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.), és a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 2. § (1) A szanálás az intézmény vagy csoport szerkezetátalakítására irányuló eljárás, amely az intézmény alapvető funkciói folyamatosságának biztosítására, a pénzügyi közvetítőrendszer stabilitásának megőrzésére és az intézmény vagy csoport egésze vagy egy része életképességének helyreállítására irányul.
 
@@ -498,7 +498,7 @@ nyújthatók, és nem használhatók fel az érintett intézmény korábban kele
 
 (3) A (2) bekezdés szerinti nyilvántartás a független értékelő nyilvántartási száma, a nyilvántartásba-vétel időpontja, valamint a független értékelői tevékenység végzésére való jogosultság tekintetében közhiteles nyilvántartásnak minősül.
 
-(4) A szanálási feladatkörében eljáró MNB a független értékelőkre vonatkozóan legalább évente egyszer nyilvános pályázatot hirdet. A beérkezett pályázatokat a szanálási feladatkörében eljáró MNB által felkért, legalább három, de legfeljebb hét tagból álló bíráló bizottság bírálja el. A bíráló bizottság döntése ellen fellebbezésnek nincs helye, a pályázó a döntés bírósági felülvizsgálatát a Fővárosi Törvényszéktől kérheti. Ha a pályázó a jogszabályi feltételeknek megfelel, akkor a szanálási feladatkörében eljáró MNB a névjegyzékbe felveszi.
+(4) A szanálási feladatkörében eljáró MNB a független értékelőkre vonatkozóan legalább évente egyszer nyilvános pályázatot hirdet. A beérkezett pályázatokat a szanálási feladatkörében eljáró MNB által felkért, legalább három, de legfeljebb hét tagból álló bíráló bizottság bírálja el. A bíráló bizottság döntése közigazgatási perben megtámadható. Ha a pályázó a jogszabályi feltételeknek megfelel, akkor a szanálási feladatkörében eljáró MNB a névjegyzékbe felveszi.
 
 (5) A szanálási feladatkörében eljáró MNB kidolgozza a (4) bekezdésben meghatározott bíráló bizottság tagjainak kiválasztására vonatkozó belső eljárásrendjét, és az eljárásrendet a szanálási feladatkörében eljáró MNB a honlapján közzéteszi.
 
@@ -1512,7 +1512,7 @@ alapját.
 (2) Egy kiegészítő alapvető és járulékos tőkeelem tőkeösszege leírásra kerül, ha:
 
 - a) csökkenése tartós, és
-- b) a kiegészítő alapvető és járulékos tőkeelemek tulajdonosaival szemben nem marad fenn az instrumentum leírásra került összegének megfelelő vagy azzal kapcsolatos kötelezettség, kivéve az esetleges már felhalmozott kötelezettségeket, valamint a leírási jogosultság gyakorlásának jogszerűségét vizsgáló bírósági felülvizsgálat eredményeként esetlegesen felmerülő károkkal kapcsolatos kötelezettségeket.
+- b) a kiegészítő alapvető és járulékos tőkeelemek tulajdonosaival szemben nem marad fenn az instrumentum leírásra került összegének megfelelő vagy azzal kapcsolatos kötelezettség, kivéve az esetleges már felhalmozott kötelezettségeket, valamint a leírási jogosultság gyakorlásának jogszerűségét vizsgáló perben hozott jogerős ítélet eredményeként esetlegesen felmerülő károkkal kapcsolatos kötelezettségeket.
 
 (3) A kiegészítő alapvető és járulékos tőkeelemeknek az (1) bekezdés b) pontja szerinti átalakítása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény számára, hogy bocsásson ki elsődleges alapvető tőkeelemeket a kiegészítő alapvető és járulékos tőkeelemek tulajdonosai számára. A kiegészítő alapvető és járulékos tőkeelemek csak akkor alakíthatók át, ha
 
@@ -1566,7 +1566,7 @@ alapját.
 - a) a szanálás alatt álló magyarországi székhelyű intézményben, pénzügyi holding társaságban, vegyes pénzügyi holding társaságban, vegyes tevékenységű holding társaságban történő tőkeemelés, vagy
 - b) a szanálás alatt álló magyarországi székhelyű intézményben, pénzügyi holding társaságban, vegyes pénzügyi holding társaságban, vegyes tevékenységű holding társaságban meglévő tagi részesedések ideiglenes államosítása.
 
-(5) A (3) bekezdésben meghatározott határozat bírósági felülvizsgálatára a szanálást elrendelő határozat felülvizsgálatára vonatkozó rendelkezéseket kell alkalmazni azzal, hogy ahol a XIII. fejezet a szanálási feladatkörében eljáró MNB-t említi, azon a pénz-, tőke- és biztosítási piac szabályzásáért felelős minisztert kell érteni.
+(5) A (3) bekezdésben meghatározott határozat megtámadására a szanálást elrendelő határozat megtámadására vonatkozó rendelkezéseket kell alkalmazni azzal, hogy ahol a XIII. Fejezet a szanálási feladatkörében eljáró MNB-t említi, azon a pénz-, tőke- és biztosítási piac szabályzásáért felelős minisztert kell érteni.
 
 (6) A (3) bekezdésben meghatározott határozat hatályon kívül helyezése nem érinti a bíróság ítéletének közlése napján vagy azt megelőzően a hatályon kívül helyezett határozat alapján végrehajtott ügyletek érvényességét.
 
@@ -1767,7 +1767,7 @@ tekintettel dönt arról, hogy az (1)–(3) bekezdésben meghatározott módszer
 
 (7) Ha az intézményhez már felügyeleti biztos került kirendelésre, akkor a Felügyelet legkésőbb a szanálási biztos kirendelésével egyidejűleg visszahívja a felügyeleti biztost azzal, hogy a szanálási feladatkörében eljáró MNB ugyanazt a gazdasági társaságot vagy természetes személyt is kirendelheti szanálási biztosnak.
 
-(8) Az igazgatóság vagy a felügyelő bizottság tagja a szanálási biztos kirendelésének ideje alatt is jogorvoslattal élhet a szanálási biztost kirendelő határozat és a szanálási feladatkörében eljáró MNB által az intézménnyel szemben hozott határozat ellen, e jogorvoslati eljárásban az intézményt képviselheti vagy a képviselet ellátására megbízást adhat.
+(8) Az igazgatóság vagy a felügyelő bizottság tagja a szanálási biztos kirendelésének ideje alatt is megtámadhatja a szanálási biztost kirendelő határozatot és a szanálási feladatkörében eljáró MNB által az intézménnyel szemben hozott határozatot, az intézményt képviselheti vagy a képviselet ellátására meghatalmazást adhat e perben.
 
 (9) A szanálási biztosra és az általa az (5) bekezdés alapján igénybe vett közreműködőre alkalmazni kell a felügyeleti biztosra az MNB tv.-ben meghatározott szakmai és összeférhetetlenségi előírásokat.
 
@@ -1800,7 +1800,7 @@ tekintettel dönt arról, hogy az (1)–(3) bekezdésben meghatározott módszer
 
 96. § (1) A szanálási feladatkörében eljáró MNB a szankcióval sújtott természetes vagy jogi személynek a döntésről való értesítését követően honlapján haladéktalanul nyilvánosságra hozza a szanálási feladatkörében hozott szankciós döntések rendelkező részét.
 
-(2) Nem jogerős döntéssel szembeni jogorvoslat esetén a szanálási feladatkörében eljáró MNB-nek a honlapján jeleznie kell a jogorvoslati folyamat aktuális fázisát, valamint a jogorvoslat eredményét.
+(2) Nem végleges döntéssel szembeni jogorvoslat esetén a szanálási feladatkörében eljáró MNB-nek a honlapján jeleznie kell a jogorvoslati folyamat aktuális fázisát, valamint a jogorvoslat eredményét.
 
 (3) A szanálási feladatkörében eljáró MNB név nélkül teszi közzé a döntést, ha
 
@@ -1936,14 +1936,9 @@ akkor a (2) bekezdésben meghatározott megállapodásokkal és azok részes fel
 
 folytat le.
 
-(3) A szanálási feladatkörében eljáró MNB hatósági eljárásában ügyfél az,
+(3)
 
-- a) akire nézve az MNB az e törvényben meghatározottak szerint jogot vagy kötelezettséget állapít meg,
-- b) akit a szanálási feladatkörében eljáró MNB – a szanálhatósági vizsgálat során – ellenőrzés alá von,
-- c) aki engedélyezés iránt a szanálási feladatkörében eljáró MNB-hez kérelmet nyújt be, vagy
-- d) akire nézve a szanálási feladatkörében eljáró MNB által vezetett közhiteles hatósági nyilvántartás adatot tartalmaz.
-
-(4) A (2) bekezdésben meghatározott eljárás felfüggesztését az ügyfél nem kérheti.
+(4) A (2) bekezdésben meghatározott eljárás szünetelését az ügyfél nem kérheti.
 
 105. § (1) A szanálási feladatkörében eljáró MNB az e törvényben meghatározott feladatait a Felügyelet által kérésre átadott, a Felügyelet felügyeleti tevékenységéből származó adatok, dokumentumok, valamint a hivatalosan ismert tények ellenőrzésével és elemzésével végzi.
 
@@ -1959,7 +1954,7 @@ folytat le.
 - d) a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, a belső ellenőrzés jelentéseit, jegyzőkönyveit átadni, továbbá
 - e) az előbbiekben fel nem sorolt egyéb kimutatást – így különösen mindazon szerződések azonosító adataira vonatkozó teljes körű kimutatást, amelyben szerződő fél – a szanálási feladatkörében eljáró MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani.
 
-(5)
+(5) A kapcsolattartás formáját a szanálási feladatkörében eljáró MNB választja meg, amelyről az ügyfél más módra nem térhet át.
 
 106. § (1) A szanálási feladatkörében eljáró MNB hatósági eljárása során – ellenérdekű ügyfél hiányában – eltekinthet a magyar nyelv kötelező használatától és az iratok magyar nyelven történő benyújtásától. A szanálási feladatkörében eljáró MNB ebben az esetben előírhatja az iratokról magyar nyelvű összefoglaló elkészítésének kötelezettségét.
 
@@ -1979,7 +1974,7 @@ folytat le.
 
 (7) A szanálási feladatkörében eljáró MNB jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
-(8) Az ügyfél iratbetekintési joga – a Ket. 69. § (1) bekezdésében meghatározottakon kívül – abban az esetben korlátozható, ha megalapozottan feltehető, hogy az iratok tartalmának megismerése az eljárás eredményességét veszélyezteti, vagy harmadik személy törvény által védeni rendelt adatához való jogosulatlan hozzáférést eredményezné.
+(8) Az ügyfél iratbetekintési joga – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) meghatározottakon kívül – abban az esetben korlátozható, ha megalapozottan feltehető, hogy az iratok tartalmának megismerése az eljárás eredményességét veszélyezteti, vagy harmadik személy törvény által védeni rendelt adatához való jogosulatlan hozzáférést eredményezné.
 
 108. § (1) A szanálási feladatkörében eljáró MNB a vizsgálati eljárása során tett megállapításait kilenc hónapon belül vizsgálati jelentésben rögzíti, és azt az eljárás alá vont szervezettel közli. Ha az eljárás során csoportvizsgálatra kerül sor, a szanálási feladatkörében eljáró MNB a csoportvizsgálat során tett megállapításait csoportvizsgálati jelentésben rögzíti, és azt az összes csoporttaggal a pénzügyi csoportot irányító tagja útján közli. A vizsgálati jelentés és a csoportvizsgálati jelentés elkészítésére és közlésére nyitva álló határidő indokolt esetben, egy alkalommal, legfeljebb hat hónappal meghosszabbítható.
 
@@ -1995,23 +1990,27 @@ folytat le.
 
 (4) Az eljárás alá vont személy és szervezet a vizsgálati jelentésre és a csoportvizsgálati jelentésre – annak kézhezvételétől számított húsz napon belül – írásban észrevételt tehet. Ha ez az időtartam az intézkedés eredményességét veszélyeztetné, a szanálási feladatkörében eljáró MNB ennél rövidebb határidőt – de legalább 8 napot – is előírhat.
 
-(5) A szanálási feladatkörében eljáró MNB a (4) bekezdés alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított hatvan napon belül hoz döntést. Ez a határidő indokolt esetben, egy alkalommal, legfeljebb harminc nappal meghosszabbítható. A szanálási feladatkörében eljáró MNB a vizsgálatot lezáró döntését a vizsgálati jelentésben foglalt megállapítások, valamint a rendelkezésre álló egyéb bizonyítékok, hivatalosan ismert és köztudomású tények alapján hozza meg.
+(5) A szanálási feladatkörében eljáró MNB a (4) bekezdés alapján megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől számított kilencven napon belül hoz döntést. A szanálási feladatkörében eljáró MNB a vizsgálatot lezáró döntését a vizsgálati jelentésben foglalt megállapítások, valamint a rendelkezésre álló egyéb bizonyítékok, hivatalosan ismert és köztudomású tények alapján hozza meg.
 
 (6) Az (1) bekezdés szerinti értesítés mellőzését és a (4) bekezdésben meghatározott határidőnél rövidebb határidő előírását a szanálási feladatkörében eljáró MNB döntésében megindokolja.
 
+(7) A szanálási feladatkörében eljáró MNB döntésének közlése során hirdetményi közlésnek valamint közhírré tételnek van helye.
+
 109. § Ha a vizsgálati jelentés és a csoportvizsgálati jelentés megküldését követően olyan, az ügy érdemi vizsgálatára lényeges kihatással járó új adat, tény vagy információ jut a szanálási feladatkörében eljáró MNB tudomására, amely szükségessé teszi a vizsgálati jelentés és a csoportvizsgálati jelentés módosítását vagy kiegészítését, a szanálási feladatkörében eljáró MNB a vizsgálati jelentés és a csoportvizsgálati jelentés egészét vagy módosított, illetve kiegészített részét a 108. § (5) bekezdése szerinti döntése meghozataláig észrevételezés céljából egy alkalommal ismételten megküldheti az ellenőrzési eljárás alá vont személy vagy szervezet részére. Az eljárás alá vont szervezet vagy személy ismételt észrevételezési határidejére a 108. § (4) bekezdését kell alkalmazni, a szanálási feladatkörében eljáró MNB döntésére vonatkozó eljárási határidőt pedig az ismételt észrevételezés során megtett észrevétel kézhezvételétől vagy a határidő eredménytelen elteltétől kell számítani.
 
-110. § (1) A szanálási feladatkörében eljáró MNB eljárásában a döntés meghozataláig terjedő időtartamra a végrehajtás felfüggesztésére irányuló kérelemre tekintet nélkül végrehajtható végzésben megtilthatja a jogsértő magatartás további folytatását, továbbá elrendelheti a jogsértő állapot megszüntetését, ha arra – a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van.
+110. § (1) A szanálási feladatkörében eljáró MNB eljárásában a döntés meghozataláig terjedő időtartamra végzésben megtilthatja a jogsértő magatartás további folytatását, továbbá elrendelheti a jogsértő állapot megszüntetését, ha arra – a késedelemmel járó jelentős vagy helyrehozhatatlan kár veszélye miatt – halaszthatatlanul szükség van.
 
 (2) Az MNB az (1) bekezdés szerinti végzését soron kívül hozza meg.
 
-111. § A Ket. végrehajtásra vonatkozó rendelkezései – a szanálási feladatkörében eljáró MNB által kiszabott bírság megfizetésének kivételével – az MNB eljárása során nem alkalmazhatók.
+#### 111. §
 
-112. § (1) A szanálási feladatkörében eljáró MNB a hatósági eljárásban a Ket. 29. § (3)–(12) bekezdését, 70. §-át, a 93. §-át, 94. §-át és 94/A. §-át nem kell alkalmazni.
+112. § (1) A szanálási feladatkörében eljáró MNB hatósági eljárásában sommás eljárásnak nincs helye.
 
 (2) Az MNB az ügyfél kérelmére nem folytat le e törvény szerinti feladatkörébe tartozó eljárást.
 
-(3) A szanálási feladatkörében eljáró MNB eljárása során a Ket. 10. § (2) bekezdése, a 29. § (3)–(12) bekezdése, a 33–33/B. §-a és 49. §-a nem alkalmazható.
+(3) A szanálási feladatkörében eljáró MNB a feladatkörébe tartozó ügyben az Ákr. 65. §-át azzal az eltéréssel alkalmazza, hogy az irat eredeti vagy közhiteles másolati példányának, illetve hiteles fordításának benyújtására hívhatja fel az ügyfelet.
+
+(4) A szanálási feladatkörében eljáró MNB hatósági eljárásában az Ákr. 61. §-át és 76. §-át nem kell alkalmazni.
 
 #### 56. Értesítési és közzétételi kötelezettségek
 
@@ -2107,21 +2106,34 @@ való információ-megosztásra.
 
 (6) E törvény vonatkozásában titoknak minősül a banktitok, az értékpapírtitok, fizetési titok és az üzleti titok.
 
+(7) A szanálási feladatkörében eljáró MNB az MNB tv. 53. §-a szerinti közzétételi kötelezettségének az Ákr. 27. § (2) bekezdésével összhangban tesz eleget.
+
 ### XIII. Fejezet — JOGORVOSLAT
 
-#### 58. A határozatok bírósági felülvizsgálata
+#### 58. Jogorvoslat
 
-116. § (1) Az e törvényben meghatározott, az MNB által szanálási feladatkörében hozott közigazgatási hatósági döntések bírósági felülvizsgálatára a Pp. XX. fejezetében foglalt szabályokat az e fejezetben foglalt eltérésekkel kell alkalmazni.
+116. § (1) Az MNB által szanálási feladatkörében hozott közigazgatási hatósági döntések megtámadása esetén
 
-(2) Az MNB által szanálási feladatkörében hozott közigazgatási hatósági döntések bírósági felülvizsgálatára a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+- a) a keresetlevelet a döntés közlésétől számított 8 napon belül kell benyújtani,
+- b) az MNB a keresetlevelet 5 napon belül továbbítja a bírósághoz,
+- c) a védiratnak tartalmaznia kell a szanálási feladatkörében eljáró MNB általa ismert, döntése folytán érdekelt személyek nevét, elérhetőségét,
+- d) a bíróság a keresetlevél benyújtásának halasztó hatályát, illetve ideiglenes intézkedést akkor rendelhet el, ha
+  - da) azt a 17. § (5) bekezdése szerinti közérdek indokolja, és
+  - db) az nem vezet a pénzügyi közvetítőrendszer stabilitását veszélyeztető helyzet kialakulásához, vagy nem veszélyezteti a szanálási célok elérését,
+- e) nincs helye keresetváltoztatásnak és igazolási kérelem előterjesztésének,
+- f) tárgyalás tartása esetén a tárgyalást legkésőbb a keresetlevél beérkezését követő tizenötödik napra kell kitűzni,
+- g) a bíróság a döntés meghozatalához a szanálási feladatkörében eljáró MNB által a megtámadott döntés előkészítése során készített gazdasági-pénzügyi elemzéseket és számításokat a bizonyítékok között értékeli, és
+- h) a bíróság a keresetlevél bírósághoz érkezésétől számított hatvan napon belül dönt és határozatát a kihirdetésig írásba foglalja. E határidők a perorvoslati eljárásokra is irányadóak.
 
-(3) A szanálást elrendelő, valamint szanálási intézkedést alkalmazó határozat
+(2) A szanálást elrendelő, valamint szanálási intézkedést alkalmazó határozattal kapcsolatos perben
 
-- a) megváltoztatásának nincs helye,
-- b) felülvizsgálata iránt indult közigazgatási perben a bíróság három hivatásos bíróból álló tanácsban jár el, és
-- c) felülvizsgálata iránt indult közigazgatási perben a bíróság ítélete ellen fellebbezésnek, valamint perújításnak nincs helye.
+- a) egyesbíró elé utalásnak,
+- b) megváltoztatásnak,
+- c) a bíróság ítélete ellen fellebbezésnek, valamint perújításnak
 
-(4) A (3) bekezdésben foglaltakon kívül a következő döntések felülvizsgálata iránt indult közigazgatási perben nincs helye a határozat bíróság általi megváltoztatásának:
+nincs helye.
+
+(3) A (2) bekezdésben foglaltakon kívül nincs helye megváltoztatásnak:
 
 - a) a szanálási eljárást megszüntető határozat [21. §],
 - b) az ideiglenes értékelést jóváhagyó határozat [25. § (3) bekezdés],
@@ -2133,60 +2145,23 @@ való információ-megosztásra.
 - h) az egyes szerződéses feltételeknek a szanálás során történő kizárásáról hozott határozat [88. §],
 - i) az egyes kötelezettségek felfüggesztéséről hozott határozat [89. §],
 - j) a hitelbiztosítékok érvényesítésének korlátozásáról hozott határozat [90. §],
-- k) a felmondási jog ideiglenes felfüggesztéséről hozott határozat [91. §], és
-- l) a szanálási biztos kirendeléséről hozott határozat [93. §].
+- k) a felmondási jog ideiglenes felfüggesztéséről hozott határozat [91. §] és
+- l) a szanálási biztos kirendeléséről hozott határozat [93. §]
 
-(5) A (4) bekezdésben meghatározott hatósági határozatok felülvizsgálata iránt indult közigazgatási perben a bíróság ítélete ellen fellebbezésnek, valamint perújításnak van helye.
-
-(6) A (3) és (4) bekezdésben nem említett, az MNB által szanálási feladatkörében eljárva hozott közigazgatási hatósági döntések – ide nem értve azon hatósági döntéseket, amelyek a szanálást elrendelő határozat elleni jogorvoslattal támadhatóak meg – felülvizsgálata iránt indult közigazgatási perben a bíróság a szanálási feladatkörében eljáró MNB döntését megváltoztathatja. Ebben az esetben a bíróság ítélete ellen fellebbezésnek, valamint perújításnak van helye.
-
-(7) A perben nincs helye
-
-- a) a kereset megváltoztatásának,
-- b) igazolási kérelem előterjesztésének, és
-- c) az eljárás szünetelésének.
-
-(8) A keresetlevelet a döntés kézbesítésétől számított 8 napon belül a szanálási feladatkörében eljáró MNB-hez kell benyújtani. A felülvizsgálati eljárásban a jogi képviselet kötelező.
-
-(9) Az MNB a hozzá benyújtott keresetlevelet – az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt – 5 napon belül továbbítja a bírósághoz. A szanálási feladatkörében eljáró MNB nyilatkozatának tartalmaznia kell a szanálási feladatkörében eljáró MNB által ismert, a szanálási feladatkörében eljáró MNB döntése folytán érdekelt személyek nevét, elérhetőségét.
-
-(10) A bíróság soron kívül jár el.
-
-(11) A bíróság az ügy érdemében tárgyalás tartása nélkül dönt, azonban szükség esetén vagy a felek bármelyikének kérelmére tárgyalást tart. Tárgyalás tartását csak a keresetlevélben vagy a keresetlevélben foglaltakra vonatkozó nyilatkozatban lehet kérni. Tárgyalás tartása esetén a tárgyalást legkésőbb a keresetlevél beérkezését követő tizenötödik napra kell kitűzni.
-
-(12) A felülvizsgálati kérelem benyújtásának a szanálási feladatkörében eljáró MNB hatósági döntésének végrehajtására nincs halasztó hatálya. A felülvizsgálat során a bíróság – kérelemre – kivételesen felfüggesztheti a megtámadott döntés végrehajtását, ha
-
-- a) a rendelkezésre álló adatok alapján azt a 17. § szerinti közérdek indokolja, és
-- b) a végrehajtás felfüggesztése
-  - ba) nem vezet a pénzügyi közvetítőrendszer stabilitását veszélyeztető helyzet kialakulásához, vagy
-  - bb) nem veszélyezteti a szanálási célok elérését.
-
-(13) A bíróság a keresetlevél bírósághoz történő – a szanálási feladatkörében eljáró MNB általi – megküldésétől számított 45 napon belül dönt és határozatát a kihirdetés napjáig írásba foglalja.
-
-(14) A bíróság a döntés meghozatalához a szanálási feladatkörében eljáró MNB által a megtámadott döntés előkészítése során készített gazdasági-pénzügyi elemzéseket és számításokat a bizonyítékok között értékeli.
-
-(15) A bíróságnak a határozat meghozatalától számított tizenöt napon belül gondoskodnia kell a határozat felek részére történő kézbesítéséről.
-
-(16) A bíróság jogerős ítélete ellen felülvizsgálati kérelem az ítélet jogerőre emelkedésétől számított 15 napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására meghatározott határidőn belül a felülvizsgálati kérelemnek a bírósághoz meg kell érkeznie. A Kúria soron kívül jár el, a felülvizsgálati kérelmet 30 napon belül elbírálja, és határozatát e határidőn belül írásba foglalja.
-
-(17) A bíróság fellebbezéssel támadható végzése ellen benyújtott fellebbezési eljárásban a másodfokú bíróság az ügy iratainak megérkezését követő 15 napon belül soron kívül dönt. Nincs helye a Pp. 270. § (3) bekezdése alkalmazásának.
-
-(18) A bíróság fellebbezéssel támadható ítélete ellen benyújtott fellebbezési eljárásban a másodfokú bíróság az ügy iratainak megérkezését követő 45 napon belül, soron kívül dönt.
+elleni közigazgatási perben.
 
 117. § (1) A szanálási feladatkörében eljáró MNB, valamint a szanálási biztos által a szanálás alatt álló intézménnyel kapcsolatos tulajdonosi vagy ügyvezetési jogok gyakorlása során hozott társasági határozatok bírósági felülvizsgálatára a Ptk. harmadik könyvének XI. fejezetében foglalt szabályokat és a Pp. általános eljárási szabályait az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) Az (1) bekezdés szerinti pert a Ptk. 3:35. §-ban meghatározottakon kívül az érintett tulajdonos is megindíthatja. A per a törvényszék hatáskörébe tartozik. A perben a bíróság soron kívül jár el.
+(2) Az (1) bekezdés szerinti pert a Ptk. 3:35. §-ában meghatározottakon kívül az érintett tulajdonos is megindíthatja.
 
-(3) Az (1) bekezdésben meghatározott határozatok felülvizsgálata során a bíróság – kérelemre – kivételesen felfüggesztheti a megtámadott határozat végrehajtását, ha
+(3) Az (1) bekezdésben meghatározott határozatok esetén a bíróság azonnali jogvédelmet akkor biztosíthat, ha
 
 - a) a rendelkezésre álló adatok alapján azt a 17. § szerinti közérdek indokolja, és
-- b) a végrehajtás felfüggesztése
-  - ba) nem vezet a pénzügyi közvetítőrendszer stabilitását veszélyeztető helyzet kialakulásához, vagy
-  - bb) nem veszélyezteti a szanálási célok elérését.
+- b) az nem vezet a pénzügyi közvetítőrendszer stabilitását veszélyeztető helyzet kialakulásához, vagy nem veszélyezteti a szanálási célok elérését.
 
-118. § (1) A szanálási feladatkörében eljáró MNB határozatának vagy a szanálási biztos által a szanálás alatt álló intézménnyel kapcsolatos tulajdonosi vagy ügyvezetési jogok gyakorlása során hozott társasági határozatoknak a hatályon kívül helyezése vagy megváltoztatása nem érinti a bíróság ítéletének közlése napján vagy azt megelőzően a hatályon kívül helyezett határozat alapján végrehajtott ügyletek érvényességét, ha ez a szanálás alatt álló intézményben lévő tagsági részesedésekből, az intézmény eszközeiből, forrásaiból, jogaiból vagy kötelezettségeiből jóhiszeműen, ellenérték fejében részesedő harmadik fél szerzett jogát érintené.
+118. § (1) A szanálási feladatkörében eljáró MNB határozatának vagy a szanálási biztos által a szanálás alatt álló intézménnyel kapcsolatos tulajdonosi vagy ügyvezetési jogok gyakorlása során hozott társasági határozatok megsemmisítése vagy megváltoztatása nem érinti a bíróság ítéletének közlése napján vagy azt megelőzően a megsemmisített határozat alapján végrehajtott ügyletek érvényességét, ha ez a szanálás alatt álló intézményben lévő tagsági részesedésekből, az intézmény eszközeiből, forrásaiból, jogaiból vagy kötelezettségeiből jóhiszeműen, ellenérték fejében részesedő harmadik fél szerzett jogát érintené.
 
-(2) Ha a szanálási feladatkörében eljáró MNB határozata a bíróság döntése alapján jogszabálysértő, akkor az ezzel okozott kárt köteles megtéríteni.
+(2) Ha a szanálási feladatkörében eljáró MNB határozata a bíróság döntése alapján jogszabálysértő, akkor az ezzel közvetlenül okozott kárt köteles megtéríteni.
 
 #### 59. Egyes eljárásokra vonatkozó korlátozások
 

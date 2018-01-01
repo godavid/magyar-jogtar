@@ -80,7 +80,7 @@ ib) a nyugdíjbiztosítási igazgatási szerv részére a nyugellátásra való 
 
 8. § A 9. § rendelkezései szerint meghatározott magánszemély az e fejezetben előírt adóalap után különadót fizet. A különadó a központi költségvetést illeti meg.
 
-(2) Az e fejezetben nem szabályozott kérdésekben az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) rendelkezései az irányadók.
+(2) Az e fejezetben nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény (a továbbiakban. Art.) rendelkezései az irányadók.
 
 9. § (1) Különadó fizetésére köteles az a költségvetési szervnél, állami, önkormányzati, közalapítványi forrásból alapított, fenntartott vagy működési támogatásban részesített más szervezetnél foglalkoztatott magánszemély, aki munkavégzésre irányuló jogviszonya alapján, továbbá aki a takarékos állami gazdálkodásról és a költségvetési felelősségről szóló 2008. évi LXXV. törvény vagy a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény szerinti munkavégzésre irányuló jogviszonyban a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kivéve azt, akinek a jogviszonya megszűnését követő naptári naptól a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátás, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék vagy átmeneti bányászjáradék kerül megállapításra.
 
@@ -110,7 +110,7 @@ a (2) bekezdésben foglalt különadó alapnak minősülő bevételt szerez, kiv
 
 10. § A különadó mértéke a 9. § (2) bekezdése szerinti adóalapnak a 75 százaléka.
 
-11. § (1) A kifizető a magánszemélyt terhelő adót forrásadóként a kifizetéskor állapítja meg, vonja le, elkülönítve igazolja, az Art. 31. §-ának (2) bekezdése szerinti bevallásban vallja be, és ezen bevallás benyújtására előírt határidőig fizeti meg.
+11. § (1) A kifizető a magánszemélyt terhelő adót forrásadóként a kifizetéskor állapítja meg, vonja le, elkülönítve igazolja, az Art. szerinti havi adó- és járulékbevallásban vallja be, és ezen bevallás benyújtására előírt határidőig fizeti meg.
 
 (2) Amennyiben a kifizető a magánszemélyt terhelő adót bármely okból nem vonta le, a le nem vont adót a magánszemély fizeti meg a kifizetést követő hónap 12. napjáig.
 

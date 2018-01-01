@@ -321,29 +321,24 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 #### 12. A figyelmeztető jelzés alapján foganatosítandó intézkedés végrehajtása
 
-27. § (1) A SIS II-t alkalmazó külföldi állam által elhelyezett figyelmeztető jelzés alapján elért találat esetén a kért intézkedést – ideértve a 17. § (4) bekezdése szerinti alternatív intézkedést is – a hatályos jogszabályoknak megfelelően kell végrehajtani és erről, valamint a végrehajtás akadályairól, illetve a végrehajtáshoz szükséges kiegészítő információk igényléséről a SIRENE Irodát értesíteni kell.
+27. § (1) A SIS II-t alkalmazó külföldi állam által elhelyezett figyelmeztető jelzés alapján elért találat esetén a kért intézkedést – ideértve a 17. § (4) bekezdése szerinti alternatív intézkedést is – a magyar jogszabályoknak megfelelően oly módon kell végrehajtani, mintha a figyelmeztető jelzést magyar hatóság helyezte volna el. A foganatosított intézkedésről vagy a végrehajtás akadályáról, illetve a végrehajtáshoz szükséges kiegészítő információk igényléséről a SIRENE Irodát értesíteni kell.
 
 (2) Ha az a hatóság, amelyhez valamely talált tárgy leadásra került, nem rendelkezik az adott tárgy vonatkozásában a SIS II-ből való lekérdezési jogosultsággal, a hatóság a rendőrségnek küldi meg a tárgyat a tárgy SIS II-ben történő ellenőrzése érdekében.
 
-(3) A lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából körözött tárgyra külföldi állam által elhelyezett figyelmeztető jelzés alapján elért találat esetén a megtalált tárgyat az eljáró hatóság lefoglalja. A tárgy további sorsának rendezése tekintetében szükségessé váló, de nem igazságügyi útra tartozó információcserét az adott figyelmeztető jelzést kibocsátó külföldi hatósággal a tagállami SIRENE Irodákon keresztül kell lefolytatni.
+(3) A tárgy további sorsának rendezése tekintetében szükségessé váló – nem igazságügyi útra tartozó információcserét – az adott figyelmeztető jelzést kibocsátó külföldi hatósággal a tagállami SIRENE Irodákon keresztül kell lefolytatni.
 
-28. § (1) A (6) bekezdésben foglalt eset kivételével az általános rendőrségi feladatok ellátására létrehozott szerv, valamint a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége és vámszerve (e § alkalmazásában a továbbiakban együtt: hatóság) a figyelmeztető jelzés alapján megtalált, a 10. § (1) bekezdés a)–c) pontjában meghatározott tárgyat a 27. § alapján – az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 2. §-ában foglaltakra figyelemmel, a büntetőeljárásról szóló törvény rendelkezéseit az e törvényben foglalt eltérésekkel alkalmazva – lefoglalja és az eljárást lefolytatja.
+28. § (1) A büntetőeljárásban történő lefoglalás vagy büntetőeljárásban történő bizonyítékként való felhasználás céljából körözött tárgyra elhelyezett figyelmeztető jelzés alapján elért találat esetén a megtalált tárgyat az általános rendőrségi feladatok ellátására létrehozott szerv, vagy a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége és vámszerve (e § alkalmazásában a továbbiakban együtt: hatóság) a büntetőeljárásról szóló törvény alapján lefoglalja. Ebben az esetben a figyelmeztető jelzést a tárgy lefoglalására irányuló eljárási jogsegély iránti megkeresésnek kell tekinteni, és a lefoglalásról értesíteni kell a jogsegély teljesítésére jogosult ügyészséget.
 
-(2) A hatóság a lefoglalást megszünteti és a tárgyat – az (5) bekezdésben szabályozott eset kivételével – értékesíti, ha
+(2) Az (1) bekezdés alapján a 10. § (1) bekezdés a)–c) pontjában meghatározott tárgy lefoglalása esetén a lefoglalást elrendelő hatóság az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 71/E. §-ában foglaltak alapján a lefoglalást megszünteti, ha a rendelkezésre álló vagy a 27. § (3) bekezdése alapján beszerzett adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 155. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
 
-- a) a figyelmeztető jelzést kibocsátó tagállam illetékes hatósága a tárgy lefoglalásáról szóló értesítés megküldését követő hatvan napon belül kijelenti, hogy a tárgy visszaszerzésében nem érdekelt és a tárgynak a figyelmeztető jelzést kibocsátó tagállam joga szerinti tulajdonos számára történő visszaadása érdekében sem fordul magyar igazságügyi hatósághoz, vagy
-- b) a figyelmeztető jelzést kibocsátó tagállam joga szerint a tárggyal rendelkezni jogosult személy a tárgy lefoglalásáról szóló értesítés megküldését követő hatvan napon belül
-  - ba) úgy nyilatkozik, hogy a tárgy visszaadásában nem érdekelt, vagy
-  - bb) a visszaszármaztatásban való érdekeltségével kapcsolatos nyilatkozatot nem tesz, vagy
-- c) a figyelmeztető jelzést kibocsátó tagállam igazságügyi hatósága a (4) bekezdésben foglalt kivétellel a tárgy lefoglalásáról szóló értesítés kézhezvételétől számított hatvan napon belül, illetve a figyelmeztető jelzést kibocsátó tagállam joga szerint a tárggyal rendelkezni jogosult a b) pont ba) alpontja szerinti nyilatkozat megtételét követő hatvan napon belül a tárgy átvétele iránt nem intézkedik.
+- a) a Be. 155. § (2) bekezdése alapján a dolog tulajdonosának, vagy
+- b) tagállami hatóság rendelkezése szerint, a Be. 155. § (3) bekezdés alapján a dolog kiadása iránt alapos igényt bejelentő részére
 
-(3) A hatóság az értékesítésből befolyt összeget – a pénzkövetelés elévüléséig – letéti számlán kezeli, s erről az érintetteket értesíti. A hatóság a letéti számlán kezelt összegből levonja a tárgy tárolásával és értékesítésével járó költségeit.
+kiadható.
 
-(4) A tagállami igazságügyi hatóság egy alkalommal kérheti a tárgy visszaadását célzó igazságügyi megkeresés előterjesztésére nyitva álló határidő további hatvan nappal történő meghosszabbítását. Ebben az esetben a (2) bekezdés c) pontja alapján a tárgy csak a meghosszabbított határidő letelte után értékesíthető.
+(3) A (2) bekezdés alapján a lefoglalás megszüntetésére nem kerülhet sor, ha az jóhiszemű harmadik – így különösen a kereskedelmi forgalomban ellenérték fejében történő szerzés tényét igazoló – személy jogát sértené.
 
-(5) Ha a tárgy (2) bekezdés szerinti értékesítése, vagy a figyelmeztető jelzést kibocsátó tagállam joga szerint a tárggyal rendelkezni jogosult részére történő átadása olyan harmadik személy jogait sértené, aki a jóhiszemű, így különösen a kereskedelmi forgalomban ellenérték fejében történő szerzés tényét igazolja, a hatóság a tárgyat az érdekelt harmadik személy részére adja ki.
-
-(6) Ha a figyelmeztető jelzés alapján megtalált, a 10. § (1) bekezdés a)–c) pontjában meghatározott tárggyal összefüggésben Magyarországon büntetőeljárás van folyamatban, lefoglalására és a lefoglalt dolog kiadására a büntetőeljárásról szóló törvény rendelkezéseit kell alkalmazni.
+(4) Ha a figyelmeztető jelzést elhelyező tagállami hatóság a lefoglalást követő hatvan napon belül a (2) bekezdés alkalmazásához szükséges adatokat nem bocsátja rendelkezésre vagy az eljárási jogsegély iránti megkeresést nem terjeszti elő, a hatóság a lefoglalást megszünteti, és a lefoglalt tárgyat annak rendeli kiadni, akitől lefoglalta. A hatóság a lefoglalás megszüntetéséről a figyelmeztető jelzést elhelyező tagállami hatóságot és az ügyészt tájékoztatja.
 
 #### 13. Hasonló jellemzőkkel rendelkező személyek megkülönböztetése
 

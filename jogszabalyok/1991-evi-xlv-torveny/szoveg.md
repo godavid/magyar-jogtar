@@ -93,11 +93,13 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 - a) az adott mérőeszközre vonatkozó jogszabály ezt kifejezetten megengedi, vagy
 - b) a mérőeszköz a 6. § (4) bekezdése alapján került hazai forgalomba.
 
-(3) A hitelesítési engedély iránti eljárásban az ügyintézési határidő negyvenöt nap.
+(3)
 
 (4) A hitelesítési engedély megszerzéséről a mérőeszköz belföldi forgalomba hozója, vagy ha ez nem állapítható meg egyértelműen, a mérőeszköz felhasználója tartozik gondoskodni.
 
 (5) A hitelesítési engedéllyel rendelkező mérőeszköztípuson változtatást csak akkor lehet végrehajtani, ha a forgalombahozó előzetesen gondoskodott a hitelesítési engedély módosíttatásáról.
+
+(6) A mérésügyi szerv az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
 
 9. § (1) A mérőeszköz típusvizsgálat célja annak elbírálása, hogy a mérőeszköztípus megfelel-e a vele szemben támasztott mérésügyi előírásoknak.
 
@@ -115,7 +117,7 @@ Az Országgyűlés a mérések hazai és nemzetközi egységességének és pont
 
 (3) A hitelesítés tényét a mérőeszközön elhelyezett törvényes tanúsító jel és/vagy hitelesítési bizonyítvány tanúsítja.
 
-(4) A mérésügyi szerv által országos illetékességgel hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+(4)
 
 ### V. Fejezet — Akkreditálás
 
@@ -154,6 +156,8 @@ a fogyasztók jogi érdekeit sértő vagy veszélyeztető, kötelező hitelesít
 
 (2) Az e törvény hatálybalépéséig alkalmazott tanúsító jelek az időszakos hitelesítés érvényességi időtartamának lejártáig hatályosak.
 
+(2a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 (3) Felhatalmazást kap a Kormány, hogy
 
 - a) a mérésügyi szerv vagy szervek kijelölését, a mérésügyi szerv hatósági eljárásának részletes szabályait,
@@ -170,7 +174,7 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a mérésügyi szerv irányítását ellátó miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a mérésügyi hatóság részére a mérésügyi eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a kötelező hitelesítésű mérőeszközök mérésügyi követelményeit, a hitelesítés általános feltételeit és eljárási szabályait rendeletben állapítsa meg.
+(6) Felhatalmazást kap az iparügyekért felelős miniszter, hogy a kötelező hitelesítésű mérőeszközök mérésügyi követelményeit, a hitelesítés általános feltételeit és szabályait rendeletben állapítsa meg.
 
 ### 1. számú melléklet a mérésügyről szóló XLV. törvényhez
 

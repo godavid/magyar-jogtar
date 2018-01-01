@@ -26,7 +26,13 @@ egyes egészségügyi és egészségbiztosítási tárgyú törvények módosít
 
 18–19. §
 
-20. §
+20. § Az Eütv.
+
+- a) 150. § (1) bekezdés g) pontjában az „az egészségügy területén működő országos intézeteket” szövegrész helyébe az „az egészségügy területén működő – a miniszter által rendeletben meghatározott – országos gyógyintézeteket (a továbbiakban: országos gyógyintézetek)” szöveg,
+- b) 150. § (3) bekezdésében az „az (1) bekezdés g) pontja szerinti országos intézetek” szövegrész helyébe az „az országos gyógyintézetek” szöveg,
+- c) 247. § (2) bekezdés m) pontjában az „a szakmai kollégiumok és országos intézetek feladatára” szövegrész helyébe az „a szakmai kollégium és tagozatai feladatára” szöveg
+
+lép.
 
 #### 4. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény módosítása
 
@@ -46,7 +52,15 @@ egyes egészségügyi és egészségbiztosítási tárgyú törvények módosít
 
 #### 8. A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény módosítása
 
-32–34. §
+32. § A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény (a továbbiakban: Ttv.) 13. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+[A magyar államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) jogosult]
+
+„c) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.”
+
+33. § A Ttv. 15/B. § b) pontjában az „a 4. mellékletében felsorolt országos gyógyintézetek” szövegrész helyébe az „az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek” szöveg lép.
+
+34. § Hatályát veszti a Ttv. 4. melléklete.
 
 #### 9. Záró rendelkezések
 

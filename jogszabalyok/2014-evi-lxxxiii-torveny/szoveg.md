@@ -18,15 +18,15 @@ csatlakozhat.
 
 (4) A NEK-hez kártyakibocsátóként az csatlakozhat, akit
 
-- a) ágazati törvény vagy ágazati törvény felhatalmazása alapján jogszabály a csatlakozásra kijelölt, vagy
+- a) törvény vagy törvény felhatalmazása alapján jogszabály a csatlakozásra kijelölt, vagy
 - b) az e törvény szerinti hatósági eljárásban kártyakibocsátásra feljogosítottak.
 
 (5) A (4) bekezdés a) pontja szerinti esetben
 
 - a) kártyakibocsátó csak költségvetési szerv vagy közfeladatot ellátó más szerv lehet,
-- b) a kártyakibocsátással és -felhasználással összefüggő adatkezelés, valamint a másodlagos kártyakibocsátás tekintetében ágazati törvény e törvényhez képest speciális szabályokat határozhat meg.
+- b) a kártyakibocsátással és -felhasználással összefüggő adatkezelés, valamint a másodlagos kártyakibocsátás tekintetében törvény e törvényhez képest speciális szabályokat határozhat meg.
 
-(6) Ágazati törvény előírhatja a NEK-hez kártyafelhasználóként való kötelező csatlakozást.
+(6) Törvény előírhatja a NEK-hez kártyafelhasználóként való kötelező csatlakozást.
 
 #### 2. Értelmező rendelkezések
 
@@ -39,7 +39,7 @@ csatlakozhat.
 - 5. kártya: az elsődleges kártya és a másodlagos kártya,
 - 6. kártyaelfogadó: a kártya alapján szolgáltatást nyújtó, jogot, kedvezményt biztosító természetes vagy jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 - 7. kártyafelhasználó: az a természetes személy, aki a birtokában lévő, e törvény alapján kibocsátott kártyával igazolja valamely jogosultságát vagy szolgáltatást vesz igénybe,
-- 8. kártyakibocsátó: kártya kibocsátására feljogosított szervezet,
+- 8. kártyakibocsátó: kártya kibocsátására jogszabály kijelölése vagy a működtető engedélye alapján jogosult szervezet,
 - 9. másodlagos kártya: valamely elsődleges kártya által hordozott, ahhoz kizárólag elektronikusan hozzárendelt kártyafunkció,
 - 10. megszemélyesítés: a kártyának a kártyán megjelenített, valamint elektronikusan tárolt adatokkal történő ellátása.
 
@@ -52,7 +52,7 @@ csatlakozhat.
 - a) vezeti a NEK központi nyilvántartást és ellátja a NEK központi nyilvántartással kapcsolatos adatkezelési feladatokat,
 - b) gondoskodik a NEK központi nyilvántartást támogató elektronikus információs rendszer üzemeltetéséről,
 - c) gondoskodik a NEK központi nyilvántartás folyamatos működéséről,
-- d)
+- d) hatósági ellenőrzés keretében vizsgálja a kártyakibocsátó, a megszemélyesítő, valamint a kártyaelfogadó NEK-kel kapcsolatos tevékenységét,
 - e) ellátja az e törvényben és az ágazati törvényben, valamint az e törvény vagy az ágazati törvény felhatalmazása alapján kiadott jogszabályban hatáskörébe utalt egyéb feladatokat.
 
 #### 4. A kártya
@@ -67,7 +67,7 @@ fennállását igazolja, vagy szolgáltatás igénybevételét teszi lehetővé 
 (2) A kártyakibocsátó másodlagos kártyát bocsáthat ki úgy, hogy
 
 - a) az elsődleges kártyakibocsátóval kötött szerződés alapján, a kártyafelhasználó erre irányuló kérelmére, vagy
-- b) ágazati törvény rendelkezése alapján
+- b) törvény rendelkezése alapján
 
 a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kibocsátási célhoz rendeli hozzá. A másodlagos kártyára – a fizikai kártyatest kialakítása és megszemélyesítése kivételével – az elsődleges kártyára vonatkozó szabályokat kell alkalmazni.
 
@@ -75,9 +75,9 @@ a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kib
 
 (4) Az elsődleges kártyához több másodlagos kártya is rendelhető. Másodlagos kártya hozzárendelése esetén biztosítani kell annak technológiai lehetőségét, hogy a kártyafelhasználó a másodlagos kártya használatát és a kártyahasználattal kapcsolatos adatok megismerhetőségét másodlagos kártyánként külön-külön korlátozza.
 
-(5) Ágazati törvény rendelkezhet úgy, hogy olyan, személyazonosság közhiteles igazolására szolgáló kártya formátumú okmány, amely egyúttal megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott műszaki, technológiai, biztonsági előírásoknak is, e törvény szerinti elsődleges kártyának tekintendő és másodlagos kártya rendelhető hozzá.
+(5) Törvény rendelkezhet úgy, hogy olyan, személyazonosság közhiteles igazolására szolgáló kártya formátumú okmány, amely egyúttal megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott műszaki, technológiai, biztonsági előírásoknak is, e törvény szerinti elsődleges kártyának tekintendő és másodlagos kártya rendelhető hozzá.
 
-(6) Az (5) bekezdés szerinti esetben e törvény rendelkezéseit az ágazati törvényben foglalt eltérésekkel kell alkalmazni.
+(6) Az (5) bekezdés szerinti esetben e törvény rendelkezéseit az egyéb törvényben foglalt eltérésekkel kell alkalmazni.
 
 (7) A (2) bekezdés a) pontja szerinti szerződés megkötéséről és a szerződéses jogviszonyban beállott változásokról a szerződő felek a működtetőt haladéktalanul tájékoztatják.
 
@@ -94,18 +94,18 @@ a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kib
 
 (2) Az elsődleges kártya
 
-- a) – ha ágazati törvény így rendelkezik – a kártyán megjelenített módon tartalmazhatja
+- a) – ha törvény így rendelkezik – a kártyán megjelenített módon tartalmazhatja
   - aa) a kártyafelhasználó születési helyét és idejét, lakó- vagy tartózkodási helyének településnevét, 12. életévét betöltött kártyafelhasználó esetében az aláírását,
-  - ab) – ha a kártyakibocsátót ágazati törvény, vagy ágazati törvény felhatalmazása alapján jogszabály jelöli ki – az ágazati törvény által meghatározott kibocsátási célra vonatkozó jogosultsági vagy tényadatokat,
-  - ac) az ágazati törvényben meghatározott egyéb személyes adatot,
+  - ab) – ha a kártyakibocsátót törvény, vagy törvény felhatalmazása alapján jogszabály jelöli ki – a törvény által meghatározott kibocsátási célra vonatkozó jogosultsági vagy tényadatokat,
+  - ac) az egyéb törvényben meghatározott egyéb személyes adatot,
 - b) a kártyakibocsátó döntése alapján a kártyán megjelenített módon tartalmazhatja
   - ba) a kártyakibocsátó megnevezését,
   - bb) a kártya kiállításának napját és az érvényességére vonatkozó adatot,
-  - bc) – ha a kártyakibocsátót nem ágazati törvény, vagy ágazati törvény felhatalmazása alapján jogszabály jelöli ki – a kibocsátási célra vonatkozó jogosultsági vagy tényadatokat,
+  - bc) – ha a kártyakibocsátót nem törvény, vagy törvény felhatalmazása alapján jogszabály jelöli ki – a kibocsátási célra vonatkozó jogosultsági vagy tényadatokat,
   - bd) a kártyakibocsátó által meghatározott egyéb, személyes adatnak nem minősülő adatot,
 - c) a kártyafelhasználó hozzájárulása esetén a kártyán megjelenített módon tartalmazhat egyéb, rá vonatkozó személyes adatot.
 
-(3) Az elsődleges kártya elektronikusan személyes adatot ágazati törvény rendelkezése alapján tartalmazhat. Ebben az esetben a kártyán elektronikusan tárolt személyes adat kezelésére vonatkozó szabályokat az ágazati törvény határozza meg.
+(3) Az elsődleges kártya elektronikusan személyes adatot törvény rendelkezése alapján tartalmazhat. Ebben az esetben a kártyán elektronikusan tárolt személyes adat kezelésére vonatkozó szabályokat az törvény határozza meg.
 
 (4) A kártyakibocsátó olyan elsődleges kártyát is kibocsáthat, amely megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott műszaki, technológiai, biztonsági előírásoknak és személyes adatokat nem tartalmaz (a továbbiakban: anonim kártya).
 
@@ -113,7 +113,7 @@ a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kib
 
 (6) Az anonim kártya esetén a 4. § (2)–(7) bekezdése, a 6–7. §, a 8. § (2)–(3) bekezdése, a 8. § (5) bekezdésénének a)–d) és f) pontja, a 9–12. §, és a 16–19. § nem alkalmazható.
 
-(7) Ágazati törvény előírhatja, hogy az anonim kártya a kibocsátási cél fennállásának igazolására kizárólag személyazonosság igazolására szolgáló érvényes okmánnyal együtt alkalmas.
+(7) Törvény előírhatja, hogy az anonim kártya a kibocsátási cél fennállásának igazolására kizárólag személyazonosság igazolására szolgáló érvényes okmánnyal együtt alkalmas.
 
 #### 5. Kártyafelhasználói regisztráció
 
@@ -203,6 +203,10 @@ központi nyilvántartást (a továbbiakban: NEK központi nyilvántartás) veze
 
 (6) A működtető a személyes adatok védelme céljából a NEK központi nyilvántartás vonatkozásában köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, melyek biztosítják az adatvédelmi követelmények teljesítését. Az adatvédelmi szabályzatot a jogi környezet megváltozásával haladéktalanul felül kell vizsgálni és szükség esetén módosítani kell.
 
+(7) A NEK központi nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+
+(8) A működtető hivatalból köteles a NEK központi nyilvántartásában a jogszabálysértő bejegyzést törölni, a hibás bejegyzést javítani vagy az elmulasztott bejegyzést pótolni.
+
 #### 7. A kártya érvényessége, a kártyafelhasználó adatainak törlése
 
 9. § (1) A kártya érvényességi idejét jogszabály vagy a kártyakibocsátó határozhatja meg. Jogszabályi vagy a kártyakibocsátó által meghatározott konkrét érvényességi idő hiányában a kártya érvényességi ideje a kiállítástól számított öt év.
@@ -241,7 +245,7 @@ a törlési kérelem kézhezvételét, vagy a halál időpontját követő két 
 
 #### 8. Adatszolgáltatás a NEK központi nyilvántartásból
 
-10. § (1) A működtető a kártya egyedi sorszáma vagy elektronikus egyedi azonosítója alapján a felhasználás céljának és jogalapjának igazolása nélkül is elektronikus adatszolgáltatást teljesít a kártyaelfogadó részére a kártya érvényességének tényéről.
+10. § (1) A kártyaelfogadó a kártya egyedi sorszámának vagy elektronikus egyedi azonosítójának megadásával a felhasználás céljának és jogalapjának igazolása nélkül a kártya érvényességének tényéről elektronikus úton a NEK központi nyilvántartásból adatot igényelhet.
 
 (2) Az (1) bekezdés szerinti, csak a kártya érvényességére vonatkozó lekérdezésekről és az ehhez kapcsolódó adatszolgáltatásról a működtető nyilvántartást nem vezet.
 
@@ -268,7 +272,7 @@ alapján veheti igénybe a NEK szolgáltatásait, és teljesíthet szolgáltatá
 
 (2) A kártyakibocsátónak a kártyakibocsátás tekintetében bekövetkezett jogutódlása a kártyakibocsátásra vonatkozó jogosultságot és a kibocsátott kártyák érvényességét nem érinti.
 
-(3) Ágazati törvény vagy ágazati törvény felhatalmazása alapján jogszabály az (1) bekezdés szerinti szerződés vagy hatósági szerződés egyes tartalmi elemeit meghatározhatja.
+(3) Törvény vagy törvény felhatalmazása alapján jogszabály az (1) bekezdés szerinti szerződés vagy hatósági szerződés egyes tartalmi elemeit meghatározhatja.
 
 (4) Az 1. § (4) bekezdés b) pontja szerinti kártyakibocsátót az (1) bekezdésben foglalt szolgáltatások igénybevételéért díjfizetési kötelezettség terheli. A működtető köteles közzétenni a hatósági szerződésben foglalt szolgáltatások igénybevételéért fizetendő díj kiszámításának alapját. A díjazás megállapítása során a működtető nem alkalmazhat önkényes megkülönböztetést a kártyakibocsátók között. A díj megállapítása során az árak megállapításáról szóló 1990. évi LXXXVII. törvény rendelkezései nem alkalmazhatóak.
 
@@ -281,7 +285,7 @@ alapján veheti igénybe a NEK szolgáltatásait, és teljesíthet szolgáltatá
 
 14. § (1) Az 1. § (4) bekezdés b) pontja szerinti esetben a kártyakibocsátás engedélyezéséről a működtető kérelemre (a továbbiakban: kártyakibocsátási kérelem) 60 napon belül közigazgatási hatósági eljárás keretében dönt. A hatósági eljárás igazgatási szolgáltatási díj-köteles.
 
-(2) Az (1) bekezdés szerinti engedélyezési eljárásban – az (5) bekezdés b) pontja szerinti kérdés tekintetében – az Alkotmányvédelmi Hivatal szakhatóságként vesz részt.
+(2) Az eljáró hatóság az engedélyezési eljárás során gondoskodik a szakhatóságok kijelölésével kapcsolatos kormányrendeletben meghatározott szakkérdés tekintetében a szakhatóság állásfoglalásának beszerzéséről.
 
 (3) Biztonsági okmány esetében a kártyakibocsátó a biztonsági okmány előállítására vonatkozó hatósági engedélyezési eljárás jogerős befejezését követően nyújthatja be a kártyakibocsátási kérelmet a működtetőhöz.
 
@@ -301,30 +305,28 @@ alapján veheti igénybe a NEK szolgáltatásait, és teljesíthet szolgáltatá
 
 - a) a kérelmező, a kibocsátani tervezett kártya, valamint a kártyakibocsátás folyamata megfelel
   - aa) az e törvényben és a felhatalmazása alapján kiadott jogszabályban, valamint
-  - ab) – ha van – az ágazati törvényben és az annak felhatalmazása alapján kiadott jogszabályban
+  - ab) – ha van – az egyéb törvényben és az annak felhatalmazása alapján kiadott jogszabályban
 
 meghatározott műszaki, technológiai, biztonsági előírásoknak,
 
 - b) Magyarország nemzetbiztonsági érdekeit nem sérti.
 
-(6) Ha a kártyakibocsátási kérelem megalapozott, a működtető a kérelmezővel hatósági szerződést köt. A hatósági szerződés határozatlan időtartamra szól. A hatósági szerződésnek tartalmaznia kell, hogy a működtető a hatósági ellenőrzésen tapasztalt hiányosság esetén a kártyakibocsátó ezirányú tevékenységét – a hiányosság pótlásáig – azonnali hatállyal felfüggesztheti.
+(6) Ha a kártyakibocsátási kérelmet az (5) bekezdés alapján engedélyezni kell, a 13. § (1) bekezdés b) pontja szerinti kérelmezővel a kártyakibocsátást engedélyező hatósági szerződést köt, mely tartalmazza a működtető kártyakibocsátást engedélyező döntését, valamint a kártyakibocsátó szerződésszegése esetére a jelen törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott jogkövetkezményeket. A hatósági szerződés határozatlan időtartamra szól.
 
-15. § (1) A kártyakibocsátó kártyakibocsátással kapcsolatos tevékenységét a működtető hatósági ellenőrzés keretében vizsgálja.
-
-(2) Ha a működtető a hatósági ellenőrzés során azt állapítja meg, hogy a kártyakibocsátó a jogszabályban meghatározott kötelezettségét megszegi, a működtető – határidő tűzésével – kötelezi a kártyakibocsátót a hiányosság pótlására, egyidejűleg a kártyakibocsátó kártyakibocsátással kapcsolatos tevékenységét – a személyes adatok védelmével kapcsolatos súlyos hiányosság esetén, vagy a NEK biztonságos működését súlyosan veszélyeztető esetben – azonnali hatállyal felfüggesztheti.
+#### 15. §
 
 #### 10. Kártyakibocsátás
 
-16. § (1) Kártya az érvényes kártyafelhasználói regisztrációval rendelkező személy részére, a kártyakibocsátónál benyújtott egyedi kérelme, vagy ágazati törvény rendelkezése alapján bocsátható ki.
+16. § (1) Az érvényes kártyafelhasználói regisztrációval rendelkező személy a kártyakibocsátónál benyújtott egyedi kérelemmel igényelhet kártyát. Törvény a kártyaigénylés egyéb eseteit is előírhatja.
 
-(2) A kártya kibocsátása iránti kérelem a kártyakibocsátó által rendelkezésre bocsátott papír alapú vagy elektronikus űrlapon (a továbbiakban: kártyaigénylő lap) nyújtható be. A kártyaigénylő lap tartalmazza
+(2) Az (1) bekezdésben megjelölt kérelem a kártyakibocsátó által rendelkezésre bocsátott papíralapú formanyomtatványon vagy az általa az erre a célra rendszeresített elektronikus űrlapon (a továbbiakban együtt: kártyaigénylő lap) nyújtható be. A kártyaigénylő lap tartalmazza:
 
-- a) a kérelmező személy természetes személyazonosító adatait,
-- b) a kérelmező személy lakcímét,
-- c) az a) és b) pont szerinti adatok kezelésére vonatkozó – a működtető és a megszemélyesítést végző szervezet számára az adategyeztetés és a kártya kibocsátása céljából adott – felhatalmazást,
-- d) 1. § (3) bekezdés b) pontja szerinti kérelmező személy esetén a kártyafelhasználói regisztráció során bemutatott személyazonosításra alkalmas okmányának számát,
+- a) a kérelmező természetes személyazonosító adatait,
+- b) a kérelmező lakcímét,
+- c) a kérelmezőnek az a) és b) pont szerinti adatok kezelésére vonatkozó – a működtető és a megszemélyesítést végző szervezet számára az adategyeztetés és a kártya kibocsátása céljából adott – hozzájárulását,
+- d) 1. § (3) bekezdés b) pontja szerinti kérelmező esetén a kártyafelhasználói regisztráció során bemutatott személyazonosításra alkalmas okmányának számát,
 - e) másodlagos kártya kibocsátására irányuló igény esetén az elsődleges kártya egyedi sorszámát, valamint
-- f) az ágazati törvény által előírt egyéb adatot.
+- f) törvény által előírt egyéb adatot.
 
 (3) Megszemélyesítést a működtető vagy az a szervezet végezhet, amely az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott műszaki és biztonsági követelmények vizsgálatára irányuló minősítési eljáráson esett át és e követelményeknek megfelelt. A minősítési eljárást a működtető folytatja le.
 
@@ -370,7 +372,10 @@ meghatározott műszaki, technológiai, biztonsági előírásoknak,
 
 #### 12. Záró rendelkezések
 
-21. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a működtetőt és a regisztrációs szervet.
+21. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
+
+- a) jelölje ki a működtetőt és a regisztrációs szervet,
+- b) állapítsa meg a működtető, a kártyakibocsátó, a kártyaelfogadó és a megszemélyesítő megszemélyesítést végző szervezet által kibocsátandó dokumentumok körét és elfogadásának rendjét, továbbá a kártyaigénylés, a kártyafelhasználói regisztráció, a kártyakibocsátás hatósági ellenőrzésének, a kártyakibocsátás engedélyezésére irányuló eljárásnak, a minősítési eljárás lefolytatásának, valamint a NEK keretében megkötendő szerződés és hatósági szerződés és a szerződésszegés esetén alkalmazandó jogkövetkezmények részletes szabályait.
 
 (2) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy rendeletben határozza meg
 

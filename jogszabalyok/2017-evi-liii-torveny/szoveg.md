@@ -21,7 +21,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - i) játékkaszinót, kártyatermet működtetőre vagy távszerencsejátéknak nem minősülő fogadást, távszerencsejátékot, online kaszinójátékot szervezőre;
 - j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
 - k) árukereskedőre, amennyiben tevékenysége folytatása során kétmillió-ötszázezer forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
-- l) ügyvédre, közjegyzőre és
+- l) ügyvédre, európai közösségi jogászra (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre és
 - m) bizalmi vagyonkezelőre
 
 (a továbbiakban együtt: szolgáltató).
@@ -29,7 +29,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 (2) E törvény hatálya kiterjed arra, aki
 
 - a) a szolgáltató ügyfele, vagy annak rendelkezésre jogosultja, képviselője, meghatalmazottja;
-- b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja.
+- b) a szolgáltató vezetője, foglalkoztatottja, illetve segítő családtagja,
+- c) kamarai jogtanácsos irányításával ügyvédi kamarai nyilvántartásba vett jogi előadóként (a továbbiakban: jogi előadó) ügyvédi tevékenységet gyakorol.
 
 (3) E törvény hatálya kiterjed az 5. §-ban meghatározott felügyeletet ellátó szervre.
 
@@ -164,8 +165,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - a) a)–e) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
 - b) i) pontjában meghatározott szolgáltatók vonatkozásában a szerencsejáték felügyeleti hatóság;
 - c) g) pontjában meghatározott szolgáltatók vonatkozásában a Magyar Könyvvizsgálói Kamara;
-- d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az egyéni ügyvédekre és az ügyvédi irodákra (a továbbiakban együtt: ügyvéd), valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
-  - da) az ügyvédek esetében az a kamara, amelynek az ügyvéd a tagja (a továbbiakban: területi ügyvédi kamara),
+- d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az egyéni ügyvédekre és az ügyvédi irodákra (a továbbiakban együtt: ügyvéd), a kamarai jogtanácsosokra, valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
+  - da) az ügyvédek és a kamarai jogtanácsosok esetében az a kamara, amelynek az ügyvéd, kamarai jogtanácsos a tagja (a továbbiakban: területi ügyvédi kamara),
   - db) a közjegyzők esetében az a kamara, amelynek a közjegyző a tagja (a továbbiakban: területi közjegyzői kamara);
 - e) j) és k) pontjában meghatározott szolgáltatók vonatkozásában a kereskedelmi hatóság;
 - f) f) és h) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi információs egységként működő hatóság (a továbbiakban: pénzügyi információs egység);
@@ -483,7 +484,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (5) A Rendelet 17. cikk (4) és (7) bekezdése, valamint a 19–22. cikke által meghatározott illetékes hatóság a Felügyelet, az MNB vonatkozásában a pénzügyi információs egység.
 
-(6) Az ellenőrzés során a Felügyelet a közigazgatási hatósági eljárásról szóló törvény rendelkezései szerint, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egység a közigazgatási hatósági eljárásról szóló törvény rendelkezései szerint jár el.
+(6) Az ellenőrzés során a Felügyelet a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.) meghatározott eltérésekkel, továbbá a pénzügyi információs egység a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
 (7) A Rendelet előírásainak megsértése, illetve a Rendeletben meghatározott kötelezettségek nem megfelelő teljesítése esetén a Felügyelet a jogsértés súlyával arányosan a 69. § (1) bekezdésében meghatározott intézkedéseket alkalmazza, továbbá megtiltja a szolgáltatónak a jogsértő állapot fennállása alatt a pénzátutalási tevékenység végzését.
 
@@ -878,9 +879,9 @@ részére.
 
 (2) Az 5. §-ban meghatározott felügyeletet ellátó szerv (1) bekezdés szerinti felügyeleti tevékenysége kiterjed a szolgáltatónak az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedéseket érintő nemzetközi és hazai jogszabályi rendelkezéseknek való megfelelésének biztosítására is.
 
-(3) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § e) és f) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárásról szóló törvény, az 5. § a) és g) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárásról szóló törvény és az MNBtv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárásról szóló és a szerencsejáték szervezéséről szóló törvény, az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló és a közigazgatási hatósági eljárásról szóló törvény rendelkezései szerint jár el. Az 5. § e)–g) pontjában meghatározott felügyeletet ellátó szervek e törvény szerinti kérelemre induló hatósági eljárásuk során a közigazgatási hatósági eljárásról szóló törvény függő hatályú döntésre vonatkozó rendelkezéseit nem alkalmazzák.
+(3) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § e) és f) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény, az 5. § a) és g) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény és az MNBtv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárásról szóló és a szerencsejáték szervezéséről szóló törvény, az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló és a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el. Az 5. § e)–g) pontjában meghatározott felügyeletet ellátó szervek e törvény szerinti kérelemre induló hatósági eljárásuk során a általános közigazgatási rendtartásról szóló törvény függő hatályú döntésre vonatkozó rendelkezéseit nem alkalmazzák.
 
-(4) A felügyelet ellátása során az 5. § d) pont da) alpontjában meghatározott felügyeletet ellátó szerv az ügyvédekről szóló 1998. évi XI. törvény (a továbbiakban: Üt.), az 5. § d) pont db) alpontjában meghatározott felügyeletet ellátó szerv a Kjtv. rendelkezései szerint jár el.
+(4) A felügyelet ellátása során az 5. § d) pont da) alpontjában meghatározott felügyeletet ellátó szerv az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.), az 5. § d) pont db) alpontjában meghatározott felügyeletet ellátó szerv a Kjtv. rendelkezései szerint jár el.
 
 67. § (1) Az 5. §-ban meghatározott felügyeletet ellátó szerv a felügyeleti tevékenysége gyakorlása során köteles a 28. §-ban meghatározott felügyeleti kockázatértékelés eredménye alapján eljárni és az e törvény szerinti felügyeleti eljárás gyakoriságát és terjedelmét a megállapított kockázatokhoz igazítani.
 
@@ -925,9 +926,11 @@ részére.
 
 (7) A szolgáltatóval szemben az (1) bekezdésben meghatározott intézkedést kell alkalmazni abban az esetben is, ha a szolgáltató jogi személy vagy jogi személyiséggel nem rendelkező szervezet, és a szolgáltató foglalkoztatottja vagy segítő családtagja a szolgáltató javára sérti meg e törvény rendelkezéseit úgy, hogy a szolgáltató vezetője felügyeleti vagy ellenőrzési kötelezettségének a teljesítése a jogsértést megakadályozhatta volna.
 
+(8) Az (1) bekezdés h) pontja szerint kiszabott pénzbírságot a közléstől számított harminc napon belül kell megfizetni. A szolgáltató kérelmére a felügyeletet ellátó szerv a pénzfizetési kötelezettség teljesítésére halasztást, illetve részletekben történő teljesítést (a továbbiakban: fizetési kedvezmény) is megállapíthat. A pénzbírság megfizetésére kötelezett szolgáltató a határozat közlésétől számított öt napon belül benyújtott kérelmében kérheti a fizetési kedvezmény engedélyezését abban az esetben, ha rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. A feltételek meglétét a szolgáltatónak hitelt érdemlően, dokumentumokkal alátámasztva igazolnia kell.
+
 70. § Az 5. §-ban meghatározott felügyeletet ellátó szervek a felügyeleti tevékenység gyakorlása során szorosan együttműködnek egymással, a pénzügyi információs egységgel, a nyomozó hatósággal, az ügyészséggel és a bírósággal, valamint a más tagállambeli vagy harmadik országbeli felügyeletet ellátó szervekkel.
 
-71. § (1) Az e törvény szerinti felügyeleti eljárás során hozott jogerős vagy a jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánított határozatot az 5. § a)–c) és e)–g) pontjában meghatározott felügyeletet ellátó szerv – a szolgáltatóval történő közlést követően – haladéktalanul köteles közzétenni a honlapján oly módon, hogy abból legalább a szabály megsértésének vagy a hiányosságnak a jellegére, illetve a jogsértő személyére vonatkozó adatok, információk megismerhetőek legyenek.
+71. § (1) Az e törvény szerinti felügyeleti eljárás során hozott véglegessé vált vagy a jogorvoslatra tekintet nélkül végrehajthatóvá nyilvánított határozatot az 5. § a)–c) és e)–g) pontjában meghatározott felügyeletet ellátó szerv – a szolgáltatóval történő közlést követően – haladéktalanul köteles közzétenni a honlapján oly módon, hogy abból legalább a szabály megsértésének vagy a hiányosságnak a jellegére, illetve a jogsértő személyére vonatkozó adatok, információk megismerhetőek legyenek.
 
 (2) Az (1) bekezdésben foglalt közzétételi kötelezettség teljesítését az 5. § a)–c) és e)–g) pontjában meghatározott felügyeletet ellátó szerv az azt alátámasztó okok fennállásáig elhalaszthatja, ha
 
@@ -974,15 +977,24 @@ részére.
 
 (8) Az értesítéssel, az az alapján lefolytatott vizsgálattal és a megtett intézkedésekkel kapcsolatos adatokat az utolsó vizsgálati cselekmény vagy intézkedés befejezésétől számított öt évig meg kell őrizni.
 
-#### 19. Az ügyvédekre és a közjegyzőkre vonatkozó eltérő rendelkezések
+#### 19. Az ügyvédekre, a kamarai jogtanácsosokra és a közjegyzőkre vonatkozó eltérő rendelkezések
 
-73. § (1) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség az ügyvédet – a (3) bekezdésben foglalt kivétellel – akkor terheli, ha pénz és értéktárgy letéti kezelését végzi, vagy ha a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üt. 5. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
+73. § (1) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség az ügyvédet – a (3) bekezdésben foglalt kivétellel – akkor terheli, ha pénz és értéktárgy letéti kezelését végzi, vagy ha a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
 
 - a) gazdasági társaságban vagy egyéb gazdálkodó szervezetben lévő vagyonrész (részesedés) tulajdonának átruházása,
 - b) ingatlan tulajdonának átruházása,
 - c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése;
 - d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat
 - e) ingó vagyonelem, különösen pénzeszköz, pénzügyi eszköz ellenérték nélkül történő átruházása.
+
+(1a) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a kamarai jogtanácsost – az (1b) és (3) bekezdésben foglalt kivétellel – akkor terheli, ha a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
+
+- a) gazdasági társaságban vagy egyéb gazdálkodó szervezetben lévő vagyonrész (részesedés) tulajdonának átruházása,
+- b) ingatlan tulajdonának átruházása,
+- c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése,
+- d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat.
+
+(1b) A kamarai jogtanácsost az e törvény szerinti szolgáltatónak minősülő ügyfele számára a szolgáltató e törvény hatálya alá tartozó tevékenysége keretében végzett ügyvédi tevékenysége alapján terhelő kötelezettségeket a kamarai jogtanácsos ügyfele a rá, mint szolgáltatóra vonatkozó szabályok szerint teljesíti.
 
 (2) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a közjegyzőt – a (4) bekezdésben foglalt kivétellel – akkor terheli, ha bizalmi őrzést végez, vagy a Kjtv.-ben meghatározott más polgári nemperes eljárást folytat le a következő jogügyletek előkészítésével és végrehajtásával kapcsolatban:
 
@@ -991,7 +1003,7 @@ részére.
 - c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése;
 - d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat.
 
-(3) Az e törvényben előírt bejelentési kötelezettség, illetve a 75. § (3) bekezdésében meghatározott, a pénzügyi információs egység megkeresésére vonatkozó válaszadási kötelezettség az ügyvédet nem terheli, ha
+(3) Az e törvényben előírt bejelentési kötelezettség, illetve a 75. § (3) bekezdésében meghatározott, a pénzügyi információs egység megkeresésére vonatkozó válaszadási kötelezettség az ügyvédet és a kamarai jogtanácsost nem terheli, ha
 
 - a) a bejelentés alapjául szolgáló adat, tény, körülmény büntetőeljárásban történő védelem, illetve bíróság előtti képviselet – ide nem értve a cégbírósági eljárásban történő képviseletet – előkészítése, ellátása során, vagy ellátását követően utóbb és azzal összefüggésben jutott tudomására,
 - b) a bejelentés alapjául szolgáló adat, tény, körülmény az a) pontban írt képviselet, védelem ellátásának, vagy az eljárás megindításának a szükségességével összefüggésben végzett jogi tanácsadás során jutott a tudomására.
@@ -1001,31 +1013,33 @@ részére.
 - a) a bejelentés alapjául szolgáló adat, tény, körülmény az eljárás megindításának a szükségességével összefüggésben a felek kioktatása során jutott a tudomására,
 - b) a közjegyző – a Kjtv.-ben szabályozott polgári nemperes eljárásokon kívüli – nemperes eljárást folytat le.
 
-74. § (1) A bejelentést az ügyvéd és a közjegyző a területi kamaránál köteles teljesíteni. Az ügyvéd és a közjegyző alkalmazottja – ideértve az alkalmazott ügyvédet is – a bejelentést a munkáltatói jogokat gyakorló ügyvédnél vagy közjegyzőnél teszi meg. A munkáltatói jogokat gyakorló ügyvéd vagy közjegyző a bejelentést haladéktalanul továbbítja a területi kamarának. Az ügyvédi iroda alkalmazottja a taggyűlés által kijelölt személynek tesz bejelentést, aki a bejelentést haladéktalanul továbbítja annak a kamarának, amely az irodát nyilvántartásba vette.
+74. § (1) A bejelentést az ügyvéd, a kamarai jogtanácsos és a közjegyző a területi kamaránál köteles teljesíteni. Az ügyvéd, a kamarai jogtanácsos és a közjegyző alkalmazottja – ideértve az alkalmazott ügyvédet is – a bejelentést a munkáltatói jogokat gyakorló ügyvédnél vagy közjegyzőnél teszi meg. A munkáltatói jogokat gyakorló ügyvéd vagy közjegyző a bejelentést haladéktalanul továbbítja a területi kamarának. Az ügyvédi iroda alkalmazottja a taggyűlés által kijelölt személynek tesz bejelentést, aki a bejelentést haladéktalanul továbbítja annak a kamarának, amely az irodát nyilvántartásba vette.
+
+(1a) A jogi előadó a bejelentést annál a kamarai jogtanácsosnál teszi meg, akinek az irányításával a 73. § (1a) bekezdése szerinti ügyvédi tevékenységet gyakorolja. A kamarai jogtanácsos a bejelentést haladéktalanul továbbítja a területi kamarának.
 
 (2) A területi ügyvédi, közjegyzői kamarák elnöke kijelöli azt a személyt, aki az (1) bekezdésben meghatározott személyektől érkezett bejelentést a pénzügyi információs egységnek haladéktalanul továbbítja. A kijelölt személyről és a személyében bekövetkezett változásról a területi ügyvédi, közjegyzői kamara haladéktalanul köteles tájékoztatást küldeni a pénzügyi információs egység részére.
 
 (3) Az ügyvédi iroda esetében a taggyűlés dönthet arról, hogy a 30. § (1) bekezdésében, a 63. §-ban és a 64. §-ban meghatározott kötelezettségeket az iroda vagy a tagok teljesítsék.
 
-75. § (1) A pénzügyi információs egység operatív elemzése keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni az ügyvéd és a közjegyző által kezelt adatot, illetve az ügyvédi és közjegyzői titkot.
+75. § (1) A pénzügyi információs egység operatív elemzése keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni az ügyvéd, a kamarai jogtanácsos és a közjegyző által kezelt adatot, illetve az ügyvédi és közjegyzői titkot.
 
-(2) A pénzügyi információs egység operatív elemzése keretében megkereséssel fordulhat az (1) bekezdésben meghatározott adat, titok tekintetében az ügyvédhez és a közjegyzőhöz. A pénzügyi információs egység a megkeresését a 74. § (2) bekezdésében meghatározott kijelölt személyen keresztül küldi meg, aki azt haladéktalanul továbbítja a megkeresett ügyvédhez vagy közjegyzőhöz.
+(2) A pénzügyi információs egység operatív elemzése keretében megkereséssel fordulhat az (1) bekezdésben meghatározott adat, titok tekintetében az ügyvédhez, a kamarai jogtanácsoshoz és a közjegyzőhöz. A pénzügyi információs egység a megkeresését a 74. § (2) bekezdésében meghatározott kijelölt személyen keresztül küldi meg, aki azt haladéktalanul továbbítja a megkeresett ügyvédhez, a kamarai jogtanácsoshoz vagy közjegyzőhöz.
 
-(3) Ha a megkeresett ügyvéd vagy közjegyző a megkeresésben megjelölt adatot, titkot a 73. § (1) és (2) bekezdésében meghatározott ügyvédi vagy közjegyzői tevékenység ellátása során vagy annak eredményeként kezeli, köteles a megkeresésben megjelölt adatot, titkot a 45. § szerint megjelölt határidőn belül a kijelölt személy részére megküldeni, aki a választ haladéktalanul továbbítja a pénzügyi információs egység részére.
+(3) Ha a megkeresett ügyvéd, kamarai jogtanácsos vagy közjegyző a megkeresésben megjelölt adatot, titkot a 73. § (1)–(2) bekezdésében meghatározott ügyvédi vagy közjegyzői tevékenység ellátása során vagy annak eredményeként kezeli, köteles a megkeresésben megjelölt adatot, titkot a 45. § szerint megjelölt határidőn belül a kijelölt személy részére megküldeni, aki a választ haladéktalanul továbbítja a pénzügyi információs egység részére.
 
-(4) Ha az ügyvéd vagy a közjegyző a megkeresésben megjelölt adatot, titkot nem a 73. § (1)–(2) bekezdésében meghatározott ügyvédi vagy közjegyzői tevékenység ellátása során, illetve eredményeként kezeli, vagy e tevékenység ellátása során, illetve eredményeként kezeli, de a 73. § (3)–(5) bekezdésében meghatározott mentesülési ok áll fenn, akkor az ügyvéd vagy a közjegyző jogosult a válaszadás megtagadására. Az ügyvéd vagy a közjegyző a válasz megtagadásának tényéről a (3) bekezdésben meghatározott módon haladéktalanul értesíti a pénzügyi információs egységet.
+(4) Ha az ügyvéd, a kamarai jogtanácsos vagy a közjegyző a megkeresésben megjelölt adatot, titkot nem a 73. § (1)–(2) bekezdésében meghatározott ügyvédi vagy közjegyzői tevékenység ellátása során, illetve eredményeként kezeli, vagy e tevékenység ellátása során, illetve eredményeként kezeli, de a 73. § (3)–(5) bekezdésében meghatározott mentesülési ok áll fenn, akkor az ügyvéd, a kamarai jogtanácsos vagy a közjegyző jogosult a válaszadás megtagadására. Az ügyvéd, a kamarai jogtanácsos vagy a közjegyző a válasz megtagadásának tényéről a (3) bekezdésben meghatározott módon haladéktalanul értesíti a pénzügyi információs egységet.
 
-(5) Az ügyvéd vagy a közjegyző bejelentési kötelezettségének, valamint a pénzügyi információs egység megkeresésének teljesítése nem tekinthető a törvényen alapuló titoktartási kötelezettség megsértésének.
+(5) Az ügyvéd, a kamarai jogtanácsos vagy a közjegyző bejelentési kötelezettségének, valamint a pénzügyi információs egység megkeresésének teljesítése nem tekinthető a törvényen alapuló titoktartási kötelezettség megsértésének.
 
 (6) E törvény alkalmazásában a közjegyzőt nem terheli a Kjtv. 3. § (2) bekezdésében előírt kötelezettség.
 
-76. § (1) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére az egyéni ügyvédek és az egyszemélyes iroda részére a Magyar Ügyvédi Kamara egységes szabályzatot készít, amely az egyéni ügyvéd és az egyszemélyes iroda tekintetében a 65. §-ban meghatározott belső szabályzatnak minősül.
+76. § (1) Az e törvényben meghatározott felügyeleti eljárásrendről, felügyeleti kockázatértékelésről és felügyeleti útmutatóról, valamint az egyéni ügyvéd, az egyszemélyes ügyvédi iroda, valamint a kamarai jogtanácsosnak a 73. § (1b) bekezdés hatálya alá nem tartozó ügyvédi tevékenysége tekintetében az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a Magyar Ügyvédi Kamara egységes szabályzatot készít, amely az egyéni ügyvéd, az egyszemélyes ügyvédi iroda, valamint a kamarai jogtanácsosnak a 73. § (1b) bekezdés hatálya alá nem tartozó ügyvédi tevékenysége tekintetében a 65. §-ban meghatározott belső szabályzatnak és kockázatértékelésnek minősül.
 
-(2) A Magyar Ügyvédi Kamara a 65. § (3) bekezdésben meghatározott kötelezettség teljesítése érdekében szabályzatot bocsát ki, amelyben meghatározza a területi ügyvédi kamara által kiadandó útmutató tartalmát.
+(2)
 
 (3) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a közjegyzők részére a Magyar Országos Közjegyzői Kamara iránymutatást készít, amely a közjegyzők tekintetében a 65. §-ban meghatározott belső szabályzatnak minősül.
 
-(4) Az (1) és (2) bekezdésben meghatározott szabályzatokat a Magyar Ügyvédi Kamara, a (3) bekezdésben meghatározott iránymutatást a Magyar Országos Közjegyzői Kamara köteles e törvény módosításait követően, illetve a 27. § szerinti kockázatértékelés változása esetén felülvizsgálni és szükség esetén módosítani.
+(4) Az (1) bekezdésben meghatározott szabályzatot a Magyar Ügyvédi Kamara, a (3) bekezdésben meghatározott iránymutatást a Magyar Országos Közjegyzői Kamara köteles e törvény módosításait követően, illetve a 27. § szerinti kockázatértékelés változása esetén felülvizsgálni és szükség esetén módosítani.
 
 #### 20. Záró rendelkezések
 
@@ -1091,6 +1105,12 @@ vonatkozó részletszabályokat.
 
 #### 83–92. §
 
-#### 93–94. §
+93. § A 69. § a következő (8) bekezdéssel egészül ki:
+
+„(8) Az (1) bekezdés h) pontja szerint kiszabott pénzbírságot a közléstől számított harminc napon belül kell megfizetni. A szolgáltató kérelmére a felügyeletet ellátó szerv a pénzfizetési kötelezettség teljesítésére halasztást, illetve részletekben történő teljesítést (a továbbiakban: fizetési kedvezmény) is megállapíthat. A pénzbírság megfizetésére kötelezett szolgáltató a határozat közlésétől számított öt napon belül benyújtott kérelmében kérheti a fizetési kedvezmény engedélyezését abban az esetben, ha rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. A feltételek meglétét a szolgáltatónak hitelt érdemlően, dokumentumokkal alátámasztva igazolnia kell.”
+
+94. § (1) A 26. § (6) bekezdésében és 66. § (3) bekezdésében a „közigazgatási hatósági eljárásról szóló törvény” szövegrészek helyébe az „általános közigazgatási rendtartásról szóló törvény” szöveg lép.
+
+(2) A 71. § (1) bekezdésében a „jogerős” szövegrész helyébe a „véglegessé vált” szöveg lép.
 
 #### 95. §

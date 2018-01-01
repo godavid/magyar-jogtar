@@ -72,13 +72,13 @@ Az Országgyűlés a társasháztulajdon létesítése és biztonságos fenntart
 
 (4) A (3) bekezdésben említett közgyűlési határozat az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat, ha az abban meghatározott határidőn belül a kisebbségben maradt tulajdonostársak írásbeli nyilatkozatot nem tesznek, vagy nyilatkozatuk szerint a keresetindítás jogával nem kívánnak élni. A határozatban rendelkezni kell a külön tulajdonhoz tartozó közös tulajdoni hányadok megállapításáról.
 
-(5) A (2)–(3) bekezdések szerinti határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(5) A (2)–(3) bekezdések szerinti határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (6) A közgyűlés határozata alapján – ha az (1)–(3) bekezdésekben meghatározott feltételek egyike sem áll fenn – bármely tulajdonostárs kérheti a bíróságtól, hogy a közös tulajdonban álló olyan épületrészre, amely önálló ingatlanként kialakítható, vagy amellyel a meglevő külön tulajdon tárgya bővíthető, megszüntesse a közös tulajdont, ha az a kisebbség méltányos érdekét nem sérti.
 
 ### Alapító okirat létrehozásának és módosításának közös szabálya
 
-11. § Az alapító okiratot és annak módosítását közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+11. § Az alapító okiratot és annak módosítását közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 ### Alakuló közgyűlés
 
@@ -160,7 +160,7 @@ vonatkozó részletes szabályokat.
 
 (3) Ha a (2) bekezdésben említett munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
 
-(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 22. § (1) A szervezeti-működési szabályzat előírhatja, hogy a tulajdonostárs köteles a közös képviselőnek vagy az intézőbizottság elnökének bejelenteni:
 
@@ -292,11 +292,11 @@ vonatkozó részletes szabályokat.
 
 31. § A közös képviselő vagy az intézőbizottság elnöke a hátralékos tulajdonostárs külön tulajdonának és a hozzá tartozó közös tulajdoni hányadának jelzáloggal való megterhelését – a közgyűlés összehívása nélkül – akkor rendelheti el, ha erre őt a szervezeti-működési szabályzat felhatalmazza.
 
-32. § (1) A jelzálogjog bejegyzésének elrendeléséről szóló közgyűlési határozatot, illetőleg a közös képviselő vagy az intézőbizottság elnöke rendelkezését közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+32. § (1) A jelzálogjog bejegyzésének elrendeléséről szóló közgyűlési határozatot, illetőleg a közös képviselő vagy az intézőbizottság elnöke rendelkezését közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (2) A jelzálogjog bejegyzésének elrendelése három hónapnak megfelelő hátralékonként megismételhető.
 
-(3) Ha a bejegyzés alapjául szolgáló hátralékot kiegyenlítették, a közös képviselő vagy az intézőbizottság elnöke a kiegyenlítést követő nyolc napon belül köteles a jelzálog törléséhez szükséges engedélyt kiadni; az engedélyt közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(3) Ha a bejegyzés alapjául szolgáló hátralékot kiegyenlítették, a közös képviselő vagy az intézőbizottság elnöke a kiegyenlítést követő nyolc napon belül köteles a jelzálog törléséhez szükséges engedélyt kiadni; az engedélyt közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 33. § (1) A közgyűlést a közös képviselő vagy az intézőbizottság elnöke hívja össze. A közgyűlésre valamennyi tulajdonostársat írásban kell meghívni, amellyel egyidejűleg a meghívó egy példányát a társasházban – jól látható helyen – ki kell függeszteni.
 
@@ -598,7 +598,7 @@ kezeli.
 
 (2)
 
-(3) Az (1)–(2) bekezdések rendelkezései szerint meghozott határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(3) Az (1)–(2) bekezdések rendelkezései szerint meghozott határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (4)
 
@@ -606,7 +606,7 @@ kezeli.
 
 62. § (1)–(2)
 
-(3) Az (1) bekezdés rendelkezései szerint meghozott határozatot közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni; a határozat érvénytelenségének megállapítása e törvény rendelkezéseinek megfelelően keresettel kérhető a bíróságtól.
+(3) Az (1) bekezdés rendelkezései szerint meghozott határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni; a határozat érvénytelenségének megállapítása e törvény rendelkezéseinek megfelelően keresettel kérhető a bíróságtól.
 
 (4)
 
@@ -627,7 +627,7 @@ kezeli.
 - 1. az ingatlanvállalkozás-felügyeleti hatóságot rendeletben kijelölje,
 - 2. a jegyző társasházak feletti törvényességi felügyelete eljárási szabályait rendeletben állapítsa meg.
 
-66. § Felhatalmazást kap a lakásgazdálkodásért és lakáspolitikáért felelős miniszter, hogy az e törvény szerinti üzletszerűen végzett társasház-kezelői, illetőleg üzletszerűen végzett ingatlankezelői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a tevékenységet folytatókról vezetett nyilvántartásnak a személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket rendeletben szabályozza.
+66. § Felhatalmazást kap a Kormány, hogy az e törvény szerinti üzletszerűen végzett társasházkezelői, valamint üzletszerűen végzett ingatlankezelői tevékenység folytatásának részletes feltételeit, a tevékenység bejelentésének és a tevékenységet folytatókról vezetett nyilvántartásnak a személyes adatot nem tartalmazó adattartalmát, továbbá a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat rendeletben szabályozza.
 
 67. § Felhatalmazást kap a települési (Budapesten a kerületi) önkormányzat képviselő-testülete, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat közgyűlése, hogy városképi vagy kereskedelmi szempontok alapján – az építésügyi, illetve a kereskedelmi jogszabályokkal összhangban – rendeletben határozhassa meg a nem lakás céljára szolgáló helyiség használatának, hasznosításának, illetve ezek megváltoztatásának módját, feltételeit.
 

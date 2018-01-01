@@ -124,7 +124,7 @@ is végezhető, feltéve, ha az a) és b) pont szerinti felhasználásról, tár
 (4) A fémkereskedő és a fémkereskedelmi hatóság a nyilvántartásba felvett személyes adatokat
 
 - a) az ügylet évét követő ötödik év végén,
-- b) ha az a) pontban meghatározott határidőn belül a fémkereskedelmi engedélyköteles anyag beszerzésével összefüggésben bírósági vagy hatósági eljárás indult, és a határidő lejártakor az még folyamatban van, az eljárás jogerős befejezését követően haladéktalanul
+- b) ha az a) pontban meghatározott határidőn belül a fémkereskedelmi engedélyköteles anyag beszerzésével összefüggésben bírósági vagy hatósági eljárás indult, és a határidő lejártakor az még folyamatban van, a bírósági eljárás jogerős vagy a hatósági eljárás végleges befejezését követően haladéktalanul
 
 törli.
 
@@ -206,7 +206,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 (8) Ha a fémkereskedő további telephely működtetését, vagy az engedélyezett tevékenység bővítését vagy szűkítését kéri, az engedélye módosítására irányuló kérelmet nyújt be.
 
-(9) Az e törvény szerinti engedélyt kérelmező egyéni vállalkozó, kérelmező szervezet vezetője, vezető tisztségviselője az engedély iránti kérelem benyújtásával egyidejűleg a fémkereskedelmi hatóság részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a 6. § (2) bekezdésében meghatározott kizáró ok, vagy az engedély iránti kérelem benyújtásakor már mentesült a büntetett előélethez fűződő hátrányok alól, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a fémkereskedelmi hatóság részére – annak az e törvény szerinti engedély birtokában folytatható tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. A fémkereskedelmi hatóság az e bekezdés alapján megismert személyes adatokat az engedélyezési eljárás jogerős befejezéséig kezeli.
+(9) A fémkereskedelmi hatóság a bűnügyi nyilvántartó szervtől adatot igényel a 6. § (2) bekezdésében meghatározott kizáró ok, illetve a kérelem benyújtásának időpontjában a büntetett előélethez fűződő hátrányok alóli mentesülés tekintetében. A fémkereskedelmi hatóság a megismert személyes adatokat az engedélyezési eljárás végleges befejezéséig kezeli.
 
 9. § (1) A fémkereskedelmi engedély hatályát veszti, ha a jogi személy vagy jogi személyiség nélküli szervezet jogutód nélkül megszűnik, továbbá ha az engedélyt visszavonják. A fémkereskedelmi engedély határozott időre, legfeljebb 5 évre adható, kivéve, ha a környezetvédelmi hatóság által kiadott engedély ezt megelőző időpontban lejár vagy nyilvántartásból törlésre kerül. Ez utóbbi esetben a fémkereskedelmi engedély legfeljebb a környezetvédelmi hatóság által kiadott engedély lejártáig vagy a nyilvántartásból történő törlés időpontjáig adható.
 
@@ -217,7 +217,7 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 - c) ha a fémkereskedelmi engedély kiadásához előírt feltételek valamelyike már nem áll fenn és azt a fémkereskedő a fémkereskedelmi hatóság által meghatározott határidő alatt nem pótolja,
 - d) ha a fémkereskedő bejelenti tevékenysége megszűnését.
 
-(3) A fémkereskedelmi hatóság a fémkereskedelmi engedély visszavonásával, valamint módosításával az engedélyköteles tevékenység adott telephelyen való végzésének jogosultságát megszünteti, ha a fémkereskedelmi tevékenységet a fémkereskedelmi engedélyben foglalt feltételektől eltérően végző fémkereskedővel szemben a 11. § (2) bekezdés c) pontja, valamint (7) bekezdése alapján az adott telephely tekintetében 4 éven belül második alkalommal jogerős bírság kiszabására kerül sor, vagy a fémkereskedő az 5. § (5) bekezdés szerinti kötelezettségét nem teljesíti.
+(3) A fémkereskedelmi hatóság a fémkereskedelmi engedély visszavonásával, valamint módosításával az engedélyköteles tevékenység adott telephelyen való végzésének jogosultságát megszünteti, ha a fémkereskedelmi tevékenységet a fémkereskedelmi engedélyben foglalt feltételektől eltérően végző fémkereskedővel szemben a 11. § (2) bekezdés c) pontja, valamint (7) bekezdése alapján az adott telephely tekintetében 4 éven belül második alkalommal végleges döntésse bírság kiszabására kerül sor, vagy a fémkereskedő az 5. § (5) bekezdés szerinti kötelezettségét nem teljesíti.
 
 #### 5. Fémkereskedelmi engedélyköteles anyag hasznosítása
 
@@ -269,92 +269,96 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 - b) a szabályszerű magatartás tanúsításához szükséges felvilágosítás megadása mellett a jogsértést elkövető személyt határidő megjelölésével – határozatban – felszólítja a jogsértés megszüntetésére,
 - c) a b) pont szerinti határidő lejártát követően a jogsértéssel érintett szabály megtartását ismételten ellenőrzi.
 
-(9) Ha a fémkereskedelmi hatóság a (2) bekezdés a) pontja alapján bírságot szab ki, ezzel egyidejűleg megtiltja az engedély nélkül vagy jogellenesen folytatott tevékenység végzését, valamint ha a (2) bekezdés c) pontja és a (7) bekezdés alapján adott telephely tekintetében 4 éven belül második alkalommal bírságot szab ki, ezzel egyidejűleg intézkedik az e törvény 9. § (3) bekezdésben meghatározottak tekintetében. A hatóság e határozata fellebbezésre tekintet nélkül végrehajtható.
+(9) Ha a fémkereskedelmi hatóság a (2) bekezdés a) pontja alapján bírságot szab ki, ezzel egyidejűleg megtiltja az engedély nélkül vagy jogellenesen folytatott tevékenység végzését, valamint ha a (2) bekezdés c) pontja és a (7) bekezdés alapján adott telephely tekintetében 4 éven belül második alkalommal bírságot szab ki, ezzel egyidejűleg intézkedik az e törvény 9. § (3) bekezdésben meghatározottak tekintetében. A hatóság e határozata azonnal végrehajtható.
 
 (10) A bírság összege kivételes méltánylást érdemlő körülmény esetén hivatalból vagy kérelemre mérsékelhető, illetve kiszabása mellőzhető, ha a körülményekből megállapítható, hogy a jogsértő személy az adott helyzetben a tőle elvárható körültekintéssel járt el. A bírság mérséklésénél az eset összes körülményét mérlegelni kell, különösen a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag mennyiségét és a jogsértő személy jogellenes magatartásának súlyát, valamint a jogsértő személy anyagi és vagyoni helyzetét.
 
 (11) Nincs helye – sem hivatalból, sem kérelemre – a bírság mérséklésének, kiszabása mellőzésének, ha
 
-- a) a jogsértő személy részére e törvény rendelkezéseinek megsértése miatt korábban jogerősen bírság került kiszabásra,
+- a) a jogsértő személy részére e törvény rendelkezéseinek megsértése miatt korábban végleges döntéssel bírság került kiszabásra,
 - b) a jogsértő személy fémkereskedelmi engedély nélkül folytatott fémkereskedelmi engedélyköteles tevékenységet, vagy
 - c) a jogsértésre bűncselekmény vagy szabálysértés elkövetésével összefüggésben került sor.
 
 (12) A (11) bekezdés a) pontja nem alkalmazható, ha két egymást követő bírság kiszabása között 8 év eltelt.
 
-(13) A kiszabott bírságot a kötelezett a határozat jogerőre emelkedését követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
+(13) A kiszabott bírságot a kötelezett a határozat véglegessé válását követő naptári naptól számított 15 napon belül köteles megfizetni. A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
 
 (14) Ha a hatósági ellenőrzés során a fémkereskedelmi hatóság a fémkereskedő nyilvántartása, készletbevallása és a tényleges készlet között 5%-ot meghaladó eltérést tapasztal, a fémkereskedő az ellenőrzéstől számított 15 napon belül köteles mindazon bizonyítékok, okmányok benyújtására, amelyek az eltérést alátámasztják. Ha az okmányok, bizonyítékok nem kerülnek benyújtásra, vagy azok az eltérés okát nem tisztázzák, úgy az (5) bekezdés a) pontjában meghatározottakat kell alkalmazni.
 
 12. § (1) A fémkereskedelmi hatóság
 
-- a) a fémkereskedelmi engedélyköteles tevékenységet engedély nélkül folytató személytől a jogsértéssel érintett anyagot lefoglalja, valamint lefoglalhatja az annak szállítására, tárolásra, raktározására és hasznosítására használt eszközt, ugyanakkor a lefoglalás elrendelésekor a hatóságnak vizsgálnia kell a jogsértés súlyát, valamint mérlegelnie kell az eset összes körülményét annak érdekében, hogy az ne okozzon túlzott érdeksérelmet a dolog tulajdonosa számára,
-- b) a tényállás tisztázása érdekében jogosult lefoglalni – ha a tényállás másként nem tisztázható vagy az jelentős késedelemmel járna vagy a lefoglalás mellőzése a tényállás tisztázásának sikerét veszélyeztetné – bármely fémkereskedelmi engedélyköteles anyagot, valamint bármely dolgot, amelyre az eljárásban mint tárgyi bizonyítási eszközre szükség van,
-- c) a 3. § (4) bekezdésben meghatározott kötelezettség megsértése esetén alkalmazott figyelmeztetésben meghatározott határidő eredménytelen eltelte esetén az ingatlanon tárolt valamennyi fémkereskedelmi engedélyköteles anyagot lefoglalja.
+- a) a fémkereskedelmi engedélyköteles tevékenységet engedély nélkül folytató személytől a jogsértéssel érintett anyagot lefoglalja vagy zár alá veszi, valamint lefoglalhatja vagy zár alá veheti az annak szállítására, tárolására, raktározására és hasznosítására használt eszközt, ugyanakkor a lefoglalás vagy zár alá vétel elrendelésekor a hatóságnak vizsgálnia kell a jogsértés súlyát, valamint mérlegelnie kell az eset összes körülményét annak érdekében, hogy az ne okozzon túlzott érdeksérelmet a dolog tulajdonosa számára,
+- b) a tényállás tisztázása érdekében jogosult lefoglalni vagy zár alá venni – ha a tényállás másként nem tisztázható, az jelentős késedelemmel járna vagy a lefoglalás, illetve zár alá vétel mellőzése a tényállás tisztázásának sikerét veszélyeztetné – bármely fémkereskedelmi engedélyköteles anyagot, valamint bármely dolgot, amelyre az eljárásban mint tárgyi bizonyítási eszközre szükség van,
+- c) a 3. § (4) bekezdésében meghatározott kötelezettség megsértése esetén alkalmazott figyelmeztetésben meghatározott határidő eredménytelen eltelte esetén az ingatlanon tárolt valamennyi fémkereskedelmi engedélyköteles anyagot lefoglalja vagy zár alá veszi.
 
-(2) A lefoglalást elrendelő végzéssel szemben az ügyfél – jogszabálysértésre hivatkozással – kifogással élhet. A kifogást a végzés közlésétől számított nyolc napon belül lehet előterjeszteni a fémkereskedelmi hatóságnál. A kifogásnak a lefoglalás végrehajtására nincs halasztó hatálya.
+(2) A lefoglalást vagy zár alá vételt meg kell szüntetni
 
-(3) A fémkereskedelmi hatóságnak a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény (a továbbiakban: Ket.) 50/B. § rendelkezéseit is megfelelően alkalmazni kell azzal, hogy a Ket. 50/B. § (1) bekezdés szerinti őrizetben hagyás nem alkalmazható, ha az eljárás eredményességét veszélyezteti.
-
-(4) A lefoglalást meg kell szüntetni, ha
-
-- a) a fémkereskedelmi hatóság eljárásában a 11. § (2) bekezdés a) pontja szerinti bírságot nem szabott ki,
-- b) a jogsértéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a büntetőügyben eljáró hatóság jár el,
+- a) ha a fémkereskedelmi hatóság a 11. § (2) bekezdés a) pontja szerinti bírságot nem szabott ki,
+- b) ha a jogsértéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a büntetőügyben eljáró hatóság jár el,
 - c) a szállításra használt, nem a jogsértés elkövetőjének tulajdonában lévő eszközre, ha a tulajdonos írásban nyilatkozik arról, hogy a jogsértés időpontjában nem volt tudomása arról, hogy az eszközt jogsértés céljából használják fel,
-- d) a szállításra, tárolásra, raktározásra és hasznosításra használt, az elkövető tulajdonában lévő eszközre, ha az ügyben hozott határozatban jogerősen kiszabott bírságot, illetve egyéb költséget az előírt határidőre megfizették vagy arra – elidegenítési és terhelési tilalom bejegyzése mellett – részletfizetést vagy fizetési halasztást engedélyeztek,
-- e) a tárgyi bizonyítási eszközként lefoglalt dologra, ha a tényállás a lefoglalás fenntartása nélkül is tisztázható,
-- f) az elrendelésének oka megszűnt,
-- g) a hatóság az eljárást megszüntette.
+- d) a szállításra, tárolásra, raktározásra és hasznosításra használt, az elkövető tulajdonában lévő eszközre, ha az ügyben hozott végleges határozatban kiszabott bírságot, illetve egyéb költséget az előírt határidőre megfizették vagy arra – elidegenítési és terhelési tilalom bejegyzése mellett – részletfizetést vagy fizetési halasztást engedélyeztek,
+- e) a tárgyi bizonyítási eszközként lefoglalt vagy zár alá vett dologra, ha a tényállás a lefoglalás vagy zár alá vétel fenntartása nélkül is tisztázható,
+- f) ha az elrendelésének oka megszűnt,
+- g) ha a hatóság az eljárást megszüntette.
 
-(5) A fémkereskedelmi hatóság az elkobzásról rendelkező döntést követően, de annak jogerőre emelkedését megelőzően a lefoglalt dolog előzetes értékesítéséről dönt, ha a lefoglalt dolog huzamos tárolásra alkalmatlan.
+(3) A fémkereskedelmi hatóság az elkobzásról rendelkező döntést követően, de annak véglegessé válását megelőzően a zár alá vett dolog előzetes értékesítéséről dönt, ha a zár alá vett dolog huzamos tárolásra alkalmatlan.
 
-(6) A fémkereskedelmi hatóság a lefoglalt dolog előzetes értékesítéséről akkor is dönthet, ha a lefoglalt dolog
+(4) A fémkereskedelmi hatóság a zár alá vett dolog előzetes értékesítéséről akkor is dönthet, ha a zár alá vett dolog
 
 - a) kezelése, tárolása, illetve őrzése – különösen a dolog értékére vagy az előreláthatólag hosszú ideig tartó tárolására tekintettel – aránytalan és jelentős költséggel járna vagy
 - b) értéke az előreláthatólag hosszú ideig tartó tárolás miatt jelentősen csökkenne.
 
-(7) Az előzetes értékesítés elrendeléséről végzésben kell intézkedni.
+(5) Az előzetes értékesítés elrendeléséről végzésben kell intézkedni.
 
-(8) A fémkereskedelmi hatóság vagy a bíróság döntése alapján visszaadni rendelt, de természetben már ki nem adható lefoglalt vagy elkobzott dolog esetén az értékesítésből befolyt ellenértéknek a kezelésből, szállításból, tárolásból eredő költséggel csökkentett, a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki alapkamattal növelt összegét kell megtéríteni. A jogosult az ezt meghaladó igényét a polgári jog szabályai szerint érvényesítheti. Ha a lefoglalás alaptalan volt a dolog előzetes értékesítéséből befolyt ellenérték a dolog kezeléséből, szállításából, tárolásából eredő költséggel nem csökkenthető.
+(6) A fémkereskedelmi hatóság vagy a bíróság döntése alapján visszaadni rendelt, de természetben már ki nem adható zár alá vett vagy elkobzott dolog esetén az értékesítésből befolyt ellenértéknek a kezelésből, szállításból, tárolásból eredő költséggel csökkentett, a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki alapkamattal növelt összegét kell megtéríteni. A jogosult az ezt meghaladó igényét a polgári jog szabályai szerint érvényesítheti. Ha a zár alá vétel alaptalan volt, a dolog előzetes értékesítéséből befolyt ellenérték a dolog kezeléséből, szállításából, tárolásából eredő költséggel nem csökkenthető.
 
-13. § (1) A lefoglalt anyag, dolog és eszköz – a 12. § (4) bekezdés b) pontja szerinti eset kivételével – annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja, vagy annak, akitől azt a fémkereskedelmi hatóság lefoglalta, feltéve, hogy a jogszerű birtoklás tényét igazolta. A kiadás feltétele, hogy a lefoglalás megszüntetéséről rendelkező végzés közlésének napját követő nap és a kiadni rendelt anyag, dolog és eszköz kiadásának napja közötti időtartamra eső tárolási, szállítási és rakodási költséget a fémkereskedelmi hatóság részére igazoltan megtérítsék. A fémkereskedelmi hatóság a 10 ezer forintot el nem érő, tárolással kapcsolatban felmerült költséget nem szabja ki. A 12. § (4) bekezdés b) pontja szerinti esetben a lefoglalt anyagot, eszközt, dolgot a büntetőeljárást lefolytató hatóságnak kell átadni.
+13. § (1) A zár alá vett anyag, dolog és eszköz – a 12. § (2) bekezdés b) pontja szerinti eset kivételével – annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja, vagy annak, akitől azt a fémkereskedelmi hatóság zár alá vette, feltéve, hogy a jogszerű birtoklás tényét igazolta. A kiadás feltétele, hogy a zár alá vétel megszüntetéséről rendelkező végzés közlésének napját követő nap és a kiadni rendelt anyag, dolog és eszköz kiadásának napja közötti időtartamra eső tárolási, szállítási és rakodási költséget a fémkereskedelmi hatóság részére igazoltan megtérítsék. A fémkereskedelmi hatóság a 10 ezer forintot el nem érő, tárolással kapcsolatban felmerült költséget nem szabja ki. A 12. § (2) bekezdés b) pontja szerinti esetben a zár alá vett anyagot, eszközt, dolgot a büntetőeljárást lefolytató hatóságnak kell átadni.
 
-(2) Ha a 12. § (4) bekezdés a), c) és d) pontja szerint kiadni rendelt anyagot, eszközt és dolgot a lefoglalás megszüntetéséről rendelkező végzés közlését követő 60 napon belül a (1) bekezdésben meghatározott személy nem veszi át, úgy azt a fémkereskedelmi hatóság értékesítheti. Az értékesítésből befolyt ellenérték a kiadni rendelt, de át nem vett termék, dolog és eszköz helyébe lép. Az előbbiek szerint kell eljárni abban az esetben is, ha a szállításra használt, nem a törvénysértés elkövetőjének tulajdonában lévő eszköz lefoglalásának a 12. § (4) bekezdés c) pontja szerinti megszüntetéséről rendelkező végzés meghozatalára a nyilatkozattételi felhívás eredménytelen eltelte vagy a felhívás sikertelen kézbesítése miatt nem kerülhet sor.
+(2) Ha a 12. § (2) bekezdés a), c) és d) pontja szerint kiadni rendelt anyagot, eszközt és dolgot a zár alá vétel megszüntetéséről rendelkező végzés közlését követő 60 napon belül a (1) bekezdésben meghatározott személy nem veszi át, azt a fémkereskedelmi hatóság értékesítheti. Az értékesítésből befolyt ellenérték a kiadni rendelt, de át nem vett termék, dolog és eszköz helyébe lép. Az előbbiek szerint kell eljárni abban az esetben is, ha a szállításra használt, nem a törvénysértés elkövetőjének tulajdonában lévő eszköz zár alá vételének a 12. § (2) bekezdés c) pontja szerinti megszüntetéséről rendelkező végzés meghozatalára a nyilatkozattételi felhívás eredménytelen eltelte vagy a felhívás sikertelen kézbesítése miatt nem kerülhet sor.
 
-(3) Ha a 13. § (2) bekezdésben foglaltak szerinti értékesítésből befolyt ellenértéket az annak átvételére jogosult személy a fémkereskedelmi hatóság ez irányú tájékoztatásának közlésétől számított öt éven belül nem veszi át, akkor az értékesítésből befolyt ellenérték a Magyar Államra száll. Az értékesítésből befolyt ellenérték után a fémkereskedelmi hatóságnak kamatfizetési kötelezettsége nincs.
+(3) Ha a (2) bekezdésben foglaltak szerinti értékesítésből befolyt ellenértéket az annak átvételére jogosult személy a fémkereskedelmi hatóság ez irányú tájékoztatásának közlésétől számított öt éven belül nem veszi át, az értékesítésből befolyt ellenérték a Magyar Államra száll. Az értékesítésből befolyt ellenérték után a fémkereskedelmi hatóságnak kamatfizetési kötelezettsége nincs.
 
-(4) A (2) és (3) bekezdésben meghatározott határidők elmulasztása miatt igazolási kérelem benyújtásának helye nincs.
+(4) A lefoglalt vagy zár alá vett anyagot, dolgot és eszközt el kell kobozni, ha az ügyben végleges döntéssel a 11. § (2) bekezdés a) és b) pontja szerinti bírságot szabnak ki, vagy a 3. § (4) bekezdésében meghatározott kötelezettség megsértése esetén alkalmazott figyelmeztetésben meghatározott határidő eredménytelenül telt el, és a fémkereskedelmi hatóság a jogsértéssel érintett fémkereskedelmi engedélyköteles anyagot lefoglalta vagy zár alá vette.
 
-(5) A lefoglalt anyagot, dolgot és eszközt el kell kobozni, ha az ügyben jogerősen a 11. § (2) bekezdés a) és b) pontjai szerinti bírságot szabnak ki, vagy a 3. § (4) bekezdésben meghatározott kötelezettség megsértése esetén alkalmazott figyelmeztetésben meghatározott határidő eredménytelenül telt el, és a fémkereskedelmi hatóság a jogsértéssel érintett fémkereskedelmi engedélyköteles anyagot lefoglalta.
+(5) A jogsértéssel érintett anyag fuvarozására, szállítására, tárolására, raktározására és hasznosítására használt, nem a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a tulajdonos a 12. § (2) bekezdés c) pontjában foglaltakról írásban nem nyilatkozik, vagy az ügy összes körülményére tekintettel megállapítható, hogy a tulajdonos tudomással bírhatott arról, hogy a jogsértés időpontjában az eszközt jogsértés céljából használják fel, és a végleges döntéssel kiszabott bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, vagy arra részletfizetést, illetve fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
 
-(6) A jogsértéssel érintett anyag fuvarozására, szállítására, tárolására, raktározására és hasznosítására használt, nem a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a tulajdonos a 12. § (4) bekezdés c) pontban meghatározottakról írásban nem nyilatkozik, vagy az ügy összes körülményére tekintettel megállapítható, hogy a tulajdonos tudomással bírhatott arról, hogy a jogsértés időpontjában az eszközt jogsértés céljából használják fel, és a jogerősen kiszabott bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, vagy arra részletfizetést, illetve fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
+(6) A jogsértéssel érintett anyag fuvarozására, szállítására, tárolására, raktározására és hasznosítására használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a végleges döntéssel kiszabott bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
 
-(7) A jogsértéssel érintett anyag fuvarozására, szállítására, tárolására, raktározására és hasznosítására használt, a jogsértés elkövetőjének tulajdonát képező eszközt el kell kobozni, ha a jogerősen kiszabott bírságot, illetve egyéb költséget az előírt határidőig nem fizették meg, és arra részletfizetést vagy fizetési halasztást – a fizetési kötelezettség esedékességétől számított nyolc napon belül benyújtott kérelem alapján – nem engedélyeztek.
+(7) Az elkobzásról az (5) és (6) bekezdés esetén a fizetési kötelezettség teljesítésének elmaradását megállapító, illetve ha a jogsértés elkövetője ismeretlen, az eljárást megszüntető végzésben kell rendelkezni.
 
-(8) Az elkobzásról a (6) és (7) bekezdés esetén a fizetési kötelezettség teljesítésének elmaradását megállapító, illetve ha a jogsértés elkövetője ismeretlen, az eljárást megszüntető végzésben kell rendelkezni.
+(8) Ha a lefoglalt vagy zár alá vett anyag fajtája a fémkereskedelmi hatóság részéről kétséget kizáróan nem állapítható meg, azt szakvélemény alapján kell tisztázni.
 
-(9) Ha a lefoglalt anyag fajtája a fémkereskedelmi hatóság részéről kétséget kizáróan nem állapítható meg, azt szakértői vizsgálattal kell tisztázni.
+(9) A lefoglalt vagy zár alá vett anyag, eszköz és dolog elszállításával, tárolásával, őrzésével, valamint a (8) bekezdés szerinti szakvélemény elkészítésének díjával kapcsolatos költségek az ügyfelet terhelik, ha a véglegessé vált határozatban jogsértés került megállapításra. Ellenkező esetben a felmerült költségeket a Magyar Állam viseli.
 
-(10) A lefoglalt anyag, eszköz és dolog elszállításával, tárolásával, őrzésével, valamint a (9) bekezdés szerinti szakértői vizsgálat díjával kapcsolatos költségek az ügyfelet terhelik, ha jogerős határozatban jogsértés került megállapításra. Ellenkező esetben a felmerült költségeket a Magyar Állam viseli.
+(10) A lefoglalt vagy zár alá vett terméknek, eszköznek és dolognak a fémkereskedelmi hatóság által üzemeltetett raktárban történő tárolása esetén a vámjogszabályok vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy a szállításra, tárolásra, raktározásra és hasznosításra használt lefoglalt eszköz esetén az eszköz minden megkezdett 100 kg saját tömege után 200 forint naptári naponkénti tárolási költség fizetendő. Egyéb raktárban történő tárolás esetén a raktár üzemeltető által felszámított díjtétel az irányadó. Ha a végrehajtható döntéssel bírság megfizetésére kötelezett ügyfél tulajdonában lévő, a jogsértéssel érintett anyag szállítására, tárolására, raktározására és hasznosítására használt lefoglalt vagy zár alá vett eszköz elszállításával, tárolásával, őrzésével kapcsolatos meg nem fizetett költségek együttes összege eléri az eszköz lefoglaláskori vagy zár alá vételkori értékét, azt a fémkereskedelmi hatóság értékesíti.
 
-(11) A lefoglalt terméknek, eszköznek és dolognak a fémkereskedelmi hatóság által üzemeltetett raktárban történő tárolása esetén a vámjogszabályok vonatkozó rendelkezéseit kell megfelelően alkalmazni azzal, hogy a szállításra, tárolásra, raktározásra és hasznosításra használt lefoglalt eszköz esetén az eszköz minden megkezdett 100 kg saját tömege után 200 forint naptári naponkénti tárolási költség fizetendő. Egyéb raktárban történő tárolás esetén a raktár üzemeltető által felszámított díjtétel az irányadó. Ha a jogerősen végrehajtható bírság megfizetésére kötelezett ügyfél tulajdonában lévő, a jogsértéssel érintett anyag szállítására, tárolására, raktározására és hasznosítására használt lefoglalt eszköz elszállításával, tárolásával, őrzésével kapcsolatos meg nem fizetett költségek együttes összege eléri az eszköz lefoglaláskori értékét, azt a fémkereskedelmi hatóság értékesíti.
+(11) A fémkereskedelmi engedélyköteles anyagok értékesítése során befolyt összegből az alábbi költségek számolhatók el:
 
-(12) A 14. § (2) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagok értékesítése során befolyt összegből az alábbi költségek számolhatók el:
-
-- a) az elkobzott fémkereskedelmi engedélyköteles anyagok, eszközök lefoglalást követő szállításával, tárolásával, őrzésével kapcsolatos költségek,
+- a) az elkobzott fémkereskedelmi engedélyköteles anyagok, eszközök lefoglalást vagy zár alá vételt követő szállításával, tárolásával, őrzésével kapcsolatos költségek,
 - b) az elkobzott fémkereskedelmi engedélyköteles anyagok, eszközök árverés útján történt értékesítésével összefüggő költségek, továbbá
 - c) minden egyéb költség, amely az adott fémkereskedelmi jogsértési eljárással összefüggésben a fémkereskedelmi hatóságnál mint kiadás merült fel, és amelynek kiadásként történő elszámolását jogszabály nem tiltja.
 
-(13) Az értékesítésből, illetve a költségtérítés címén befolyt bevételeket a Nemzeti Adó- és Vámhivatal fizetési számlájára kell megfizetni.
+(12) Az értékesítésből, illetve a költségtérítés címén befolyt bevételeket a Nemzeti Adó- és Vámhivatal fizetési számlájára kell megfizetni.
+
+(13) Ha a kötelezés jellege megengedi, a fémkereskedelmi hatóság részletfizetést vagy fizetési halasztást is megállapíthat.
+
+(14) A kötelezett a teljesítési határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti a fémkereskedelmi hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés (a továbbiakban együtt: fizetési kedvezmény) engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. A fizetési kedvezményre vonatkozó szabályokat megfelelően kell alkalmazni meghatározott cselekmény teljesítésére és meghatározott ingóság kiadására irányuló kötelezettség esetén is.
+
+(15) A határidő lejárta után az ügyfél – feltéve, hogy a végrehajtást még nem indították meg – a (14) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt. Ha a fémkereskedelmi hatóság elutasítja az igazolási kérelmet és a fizetési kedvezmény iránti kérelmet, egyidejűleg dönt a végrehajtás megindításáról is.
 
 14. § (1) A fémkereskedelmi hatóság nyilvántartást vezet az eltulajdonított fémkereskedelmi engedélyköteles anyagok azonosításához szükséges adatokról, amelyet honlapján közzétesz. A nyilvántartásba az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv közvetlenül adatot szolgáltat.
 
-(2) A fémkereskedelmi hatóság eljárására az e törvényben nem szabályozott kérdésekben a Ket. rendelkezéseit kell alkalmazni, kivéve a lefoglalt és elkobzott, valamint a kiadni rendelt, de át nem vett eszközök, anyagok, dolgok értékesítését, amelyre az adózás rendjéről szóló törvénynek az árverés és elektronikus árverés útján történő értékesítésre vonatkozó rendelkezéseit kell alkalmazni.
+(2) A fémkereskedelmi hatóság eljárásában a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható és a döntés szóban nem közölhető.
+
+(2a) Az e törvény hatálya alá tartozó eljárásokban hozott határozatok ellen fellebbezésnek van helye.
+
+(2b) A zár alá vett és elkobzott, valamint a kiadni rendelt, de át nem vett eszközök, anyagok, dolgok értékesítésére az adózás rendjéről szóló törvénynek az árverés és elektronikus árverés útján történő értékesítésre vonatkozó rendelkezéseit kell alkalmazni.
 
 (3) Az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben a fémkereskedelmi hatóság jár el. A nyilvántartásba vételre és nyilvántartásra vonatkozó részletes szabályokat az adózás rendjéről szóló törvény tartalmazza.
 
 (3a) Az e törvényen alapuló kötelezettség vagy jogosultság csak adószám, vagy adóazonosító jel birtokában teljesíthető, illetve érvényesíthető.
 
-(4) Az e törvényben meghatározott bírság és egyéb költség végrehajtására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
+(4) Az e törvényben meghatározott bírság és egyéb költség végrehajtására az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezései az irányadóak.
 
 #### 7. Záró rendelkezések
 
@@ -369,6 +373,8 @@ fémkereskedelmi engedélyköteles anyag hasznosítását, ha az így keletkezet
 (5) A fémkereskedelmi engedélyköteles tevékenységet e törvény hatálybalépésekor érvényes fémkereskedelmi engedéllyel folytató személy fémkereskedelmi engedélyköteles tevékenységét az e törvény hatálybalépését követő 3. hónap első napjáig tovább folytathatja.
 
 (6) A fémkereskedelmi engedélyköteles tevékenységet e törvény hatálybalépésekor érvényes fémkereskedelmi engedéllyel folytató személy az (5) bekezdésben meghatározott időpontig a 8. § (1) bekezdés h) pontjában meghatározott feltétel, valamint a fémkereskedelmi engedély érvényességi ideje tekintetében fémkereskedelmi engedély módosítása iránti kérelmet nyújt be.
+
+(6a) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 (7) Felhatalmazást kap a Kormány, hogy
 

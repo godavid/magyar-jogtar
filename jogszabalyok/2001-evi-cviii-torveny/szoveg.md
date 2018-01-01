@@ -330,7 +330,7 @@ köteles átadni.
 - a) a Hatóság által megjelölt elektronikus hirdetés küldőjének vagy közzétevőjének elektronikus hírközlési azonosítóját, és
 - b) a nyilvántartásában az elektronikus hírközlési azonosítóhoz tartozóként meghatározott igénybe vevő nevét és lakcímét.
 
-(2) A Hatóság az átadott adatokat az elektronikus hirdetéssel kapcsolatos felügyeleti eljárás jogerős lezárását követő 60. napig, illetve a döntés bírósági felülvizsgálata esetén a bírósági felülvizsgálat jogerős lezárásáig jogosult kezelni, kizárólag az elektronikus hirdető vagy az elektronikus hirdetés közzétevőjének beazonosítása céljából.
+(2) A Hatóság az átadott adatokat az elektronikus hirdetéssel kapcsolatos felügyeleti eljárás végleges lezárását követő 60. napig, illetve a döntés elleni közigazgatási per esetén a közigazgatási per jogerős lezárásáig jogosult kezelni, kizárólag az elektronikus hirdető vagy az elektronikus hirdetés közzétevőjének beazonosítása céljából.
 
 (3) Ha a közvetítő szolgáltató nem tesz eleget az (1) bekezdésben foglalt kötelezettségének, az elektronikus hirdetővel, az elektronikus hirdetési szolgáltatóval és az elektronikus hirdetés közzétevőjével együtt felel a Grt. 6. §-ában meghatározott kötelezettségek megsértéséért. Az ilyen jogsértéssel okozott kárért a közvetítő szolgáltató az elektronikus hirdetővel, az elektronikus hirdetési szolgáltatóval és az elektronikus hirdetés közzétevőjével egyetemlegesen felel.
 
@@ -397,9 +397,9 @@ köteles átadni.
 
 (2) A Hatóság eljárásában az általuk védett fogyasztói érdekek védelme körében, a 2000/31/EK európai parlamenti és tanácsi irányelv 7. cikkét átültető jogszabályi rendelkezések megsértésére hivatkozással az ügyfél jogai illetik meg az Európai Gazdasági Térség bármely államának joga alapján létrejött azon feljogosított egységeket is, amelyek a 2009/22/EK európai parlamenti és tanácsi irányelv 4. cikk (3) bekezdése alapján az Európai Unió Hivatalos Lapjában közzétett jegyzéken szerepelnek.
 
-(3) A kérelmet a Hatóság által rendszeresített űrlapon kell benyújtani.
+(3) A kérelem a Hatóság által rendszeresített űrlapon, a közvetlen érintettséget igazoló adatok megadásával nyújtható be. A kérelem nem terjeszthető elő kormányablaknál.
 
-(4) A kéretlen elektronikus hirdetéssel kapcsolatos felügyeleti eljárás a jogsértő elektronikus hirdetés közzétételét követő egy éven túl nem indítható meg.
+(4) A kéretlen elektronikus hirdetéssel kapcsolatos felügyeleti eljárás a jogsértő elektronikus hirdetés közzétételét követő egy éven túl nem indítható meg. Az eljárás során hiánypótlásra felhívásra legfeljebb két ízben van lehetőség.
 
 (5) Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a (2) bekezdésben említett közösségi jogi rendelkezéseket átültető jogszabályi rendelkezéseket.
 
@@ -415,26 +415,24 @@ köteles átadni.
 
 (3) Az elektronikus kereskedelmi bírságot a Hatóság számlájára kell megfizetni.
 
-(4) A Hatóság az ügydöntő határozat meghozataláig terjedő időtartamra végzésében azonnali hatállyal megtilthatja a jogsértő magatartás további folytatását, illetve elrendelheti a jogsértő állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van. E döntését a Hatóság soron kívül hozza meg. A Hatóság végzése ellen önálló fellebbezésnek van helye, amelyet a Hatóság Tanácsának elnöke bírál el.
+(4) A Hatóság határozata meghozataláig terjedő időtartamra végzésében azonnali hatállyal, ideiglenes biztosítási intézkedésként megtilthatja a jogsértő magatartás további folytatását, illetve elrendelheti a jogsértő állapot megszüntetését, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van.
 
-(5) A Hatóság az elektronikus hirdetőt, az elektronikus hirdetési szolgáltatót, valamint az elektronikus hirdetés közzétevőjét határidő kitűzésével a kéretlen elektronikus hirdetésekre vonatkozó rendelkezések teljesítésének hitelt érdemlő módon való igazolására hívhatja fel.
+(5) A Hatóság az elektronikus hirdetőt, az elektronikus hirdetési szolgáltatót, valamint az elektronikus hirdetés közzétevőjét határidő kitűzésével a kéretlen elektronikus hirdetésekre vonatkozó rendelkezések teljesítésének hitelt érdemlő módon való igazolásra hívhatja fel. Az igazolás során az ügyfél nyilatkozatával nem pótolhatja a hiányzó bizonyítékot.
 
-16/E. § (1) A Hatóság a 14/B. §-ban vagy a Grt. 6. §-ában foglalt rendelkezések megsértése tárgyában hozott jogerős határozatát – az igénybe vevő, illetve az elektronikus hirdetés címzettje személyes adatainak törlése vagy olvashatatlanná tétele mellett – honlapján közzéteszi, ha
+16/E. § (1) A Hatóság a 14/B. §-ban vagy a Grt. 6. §-ában foglalt rendelkezések megsértése tárgyában hozott véglegessé vált határozatát – az igénybe vevő, illetve az elektronikus hirdetés címzettje személyes adatainak törlése vagy olvashatatlanná tétele mellett – honlapján közhírré teszi, ha
 
 - a) határozatában kétszázezer forint vagy azt meghaladó összegű bírságot szabott ki,
 - b) a határozat meghozatalára a jogsértő magatartás ismételt tanúsítása miatt került sor,
 - c) a jogsértő állapot megszüntetését elrendelő, illetve a jogsértő magatartás további folytatását megtiltó határozatát a 16/C. § (2) bekezdése vagy a 16/F. § (1) bekezdésének b) pontja szerinti eljárása keretében hozta.
 
-(2) A Hatóság – amennyiben azt a 16/C. § (2) bekezdése szerinti eljárása keretében hozta – a honlapján közzéteszi a 16/D. § (4) bekezdése szerinti végzését.
+(2) A Hatóság – amennyiben azt a 16/C. § (2) bekezdése szerinti eljárása keretében hozta – a honlapján közhírré teszi a 16/D. § (4) bekezdése szerinti végzését.
 
-(3) A közzétett döntésről a Hatóság tájékoztathatja a nemzeti hírügynökséget.
+(3)
 
-(4) A közzétett hirdetménynek a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl tartalmaznia kell:
+(4) A közhírré tett közleménynek tartalmaznia kell:
 
-- a) a közzététel e törvény szerinti jogcímét,
-- b) a megállapított tényállást,
-- c) a döntés rendelkező részét a jogorvoslat lehetőségéről szóló tájékoztatás kivételével, valamint
-- d) a határozattal szembeni bírósági felülvizsgálat, felügyeleti eljárás vagy az ügyészi felhívás tényét és – amennyiben rendelkezésre áll – azok eredményét.
+- a) a közhírré tétel e törvény szerinti jogcímét,
+- b) a határozat elleni közigazgatási per, ügyészi felhívás és fellépés tényét és – amennyiben rendelkezésre áll – azok eredményét is.
 
 (5) A Hatóság a 16/D. § (1) bekezdésének c) pontja szerinti hatósági szerződésről közleményt tesz közzé a honlapján. A közleménynek tartalmaznia kell:
 
@@ -477,6 +475,8 @@ látja el.
 - c)
 
 (3)
+
+17/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 18. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

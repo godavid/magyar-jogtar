@@ -34,7 +34,7 @@ a következő törvényt alkotja:
 
 - a) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti büntetések és intézkedések, a szabadságvesztésből szabadultak és a javítóintézeti nevelésből elbocsátottak utógondozásának végrehajtása,
 - b) a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) szerinti előzetes letartóztatás, ideiglenes kényszergyógykezelés és őrizet, valamint a Be. 161. § (5) bekezdése szerinti rendbírság helyébe lépő elzárás (a továbbiakban: rendbírság helyébe lépő elzárás) végrehajtása,
-- c) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: 2012. évi CLXXX. törvény) szerinti őrizet, átadási és ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, az eljárási jogsegély keretében ideiglenesen átszállított személy fogvatartásának, továbbá a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) szerinti őrizet, kiadatási és ideiglenes kiadatási letartóztatás, az eljárási jogsegély keretében ideiglenesen átvett személy fogvatartásának, illetve – ameddig az átvételről a bíróság nem határoz – a külföldi bíróság által kiszabott szabadságvesztés ideiglenes végrehajtása, valamint
+- c) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: 2012. évi CLXXX. törvény) szerinti őrizet, átadási és ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás, eljárási jogsegély keretében ideiglenesen átadott vagy átvett személy fogvatartása, továbbá a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) szerinti őrizet, kiadatási és ideiglenes kiadatási letartóztatás, ideiglenes végrehajtási letartóztatás, eljárási jogsegély keretében ideiglenesen átvett személy fogvatartása, valamint
 - d) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) szerinti szabálysértési elzárás, továbbá a pénzbírság, a helyszíni bírság és a közérdekű munka helyébe lépő szabálysértési elzárás (a továbbiakban együtt: szabálysértési elzárás) végrehajtása
 
 során kell alkalmazni.
@@ -49,11 +49,11 @@ során kell alkalmazni.
 - 4. egyéb jogcímen fogvatartott: a kényszergyógykezelt, a kényszerintézkedés hatálya alatt álló személy, a rendbírság helyébe lépő elzárásra kötelezett személy és a szabálysértési elzárásra kötelezett elkövető,
 - 5. elektronikus megfigyelési eszköz: zárt rendszerű biztonságtechnikai eszköz, amely elektronikus formában kép, hang vagy kép és hang együttes felvételére, továbbítására és rögzítésére alkalmas,
 - 6. elektronikus távfelügyeleti eszköz: az elítélt vagy az egyéb jogcímen fogvatartott mozgását nyomon követő technikai eszköz,
-- 7. értesítőlap: a bíróság által a végrehajtás érdekében – papír alapon vagy elektronikus formátumban – a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ítélethozatalt követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
+- 7. értesítőlap: a bíróság által a végrehajtás érdekében a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ítélethozatalt követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
 - 8. fogvatartással kapcsolatos ügy: minden olyan ügy, amely nem tartozik a büntetés-végrehajtási ügy körébe, de az elítélt vagy az egyéb jogcímen fogvatartott fogvatartásával összefügg, ideértve a bv. intézet által lefolytatandó kártérítési eljárást is,
 - 9. hivatalos minőségben kapcsolattartó:
   - a) a Btk. szerinti hivatalos és külföldi hivatalos személy a hivatalos eljárásában,
-  - b) a védő, a jogi képviselőként eljáró ügyvéd és jogtanácsos folyamatban lévő büntető-, polgári, szabálysértési eljárásban, közigazgatási hatósági eljárásban, egyéb hatósági ügyben vagy büntetés-végrehajtási ügyben, valamint ilyen eljárás megindításának kezdeményezése érdekében eljárva, ideértve a meghatalmazás adását is,
+  - b) a védő, a jogi képviselőként eljáró ügyvédi tevékenység gyakorlására jogosult személy folyamatban lévő büntető-, polgári, szabálysértési eljárásban, közigazgatási hatósági eljárásban, egyéb hatósági ügyben vagy büntetés-végrehajtási ügyben, valamint ilyen eljárás megindításának kezdeményezése érdekében eljárva, ideértve a meghatalmazás adását is,
   - c) az elítélt és az egyéb jogcímen fogvatartott államának konzuli tisztviselője,
   - d) a büntetőügyben eljáró tolmács és szakértő,
   - e) az egyházi személy hitéleti szolgálata ellátása során, a büntetés-végrehajtási szervvel (a továbbiakban: bv. szerv) kötött megállapodás alapján a bv. intézetben vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja, az egyházi jogi személy vagy a vallási tevékenységet végző szervezet által megbízott más személy e tevékenység végzése során,
@@ -141,7 +141,7 @@ során kell alkalmazni.
 
 (4) A kártalanítás iránti igény attól a naptól számított hat hónapon belül érvényesíthető, amelyen az alapvető jogokat sértő elhelyezési körülmények megszűntek. E határidő elmulasztása jogvesztő. E bekezdés alkalmazásában nem tekinthető az alapvető jogokat sértő elhelyezési körülmény megszűnésének, ha e körülmény fennállása rövid időtartamra, de legfeljebb harminc napra megszakad azért, mert az elítélt vagy az egyéb jogcímen fogvatartott elhelyezése során a jogszabályban előírt élettér biztosítva volt.
 
-(5) A kártalanítás iránti igény benyújtására az elítélt vagy az egyéb jogcímen fogvatartott és védője, illetve ha az elítélt vagy az egyéb jogcímen fogvatartott szabadult, jogi képviselője is jogosult. A kártalanítás iránti igényt írásban a fogvatartás helye szerinti bv. intézetnél, ha pedig az elítélt vagy az egyéb jogcímen fogvatartott már szabadult, annál a bv. intézetnél kell benyújtani, ahonnan a szabadítás történt. A kérelemben nyilatkozni kell arról, hogy az elítélt vagy az egyéb jogcímen fogvatartott javára az alapvető jogokat sértő elhelyezési körülmények miatt az Emberi Jogok Európai Bírósága (a továbbiakban: EJEB) kártérítésre kötelezte-e az államot, illetve a polgári bíróság ítélt-e meg kártérítést vagy sérelemdíjat, és ha igen, melyik bíróság, milyen ügyszámon.
+(5) A kártalanítás iránti igény benyújtására az elítélt vagy az egyéb jogcímen fogvatartott és védője, illetve ha az elítélt vagy az egyéb jogcímen fogvatartott szabadult, jogi képviselője is jogosult. A kártalanítás iránti igényt írásban, a külön jogszabályban a kérelem benyújtására rendszeresített nyomtatványon, a fogvatartás helye szerinti bv. intézetnél, ha pedig az elítélt vagy az egyéb jogcímen fogvatartott már szabadult, annál a bv. intézetnél kell benyújtani, ahonnan a szabadítás történt. A kérelemben nyilatkozni kell arról, hogy az elítélt vagy az egyéb jogcímen fogvatartott javára az alapvető jogokat sértő elhelyezési körülmények miatt az Emberi Jogok Európai Bírósága (a továbbiakban: EJEB) kártérítésre kötelezte-e az államot, illetve a polgári bíróság ítélt-e meg kártérítést vagy sérelemdíjat, és ha igen, melyik bíróság, milyen ügyszámon.
 
 (6) A kártalanítás iránti igény benyújtásának feltétele az is, hogy az elítélt vagy – a kényszergyógykezelt, illetve az ideiglenesen kényszergyógykezelt kivételével – az egyéb jogcímen fogvatartott az alapvető jogokat sértő elhelyezési körülmények miatt a 144/B. §-ban meghatározott panaszt előterjessze a végrehajtásért felelős szerv vezetőjéhez. Ez a feltétel akkor alkalmazandó, ha az alapvető jogokat sértő elhelyezési körülmények között töltött napok száma a harmincat meghaladja. Ha az alapvető jogokat sértő elhelyezési körülmény hosszabb időn át fennáll, három hónapon belül újabb panaszt előterjeszteni nem kell. Nem róható az elítélt vagy az egyéb jogcímen fogvatartott terhére, ha rajta kívül álló okból nem tudta a panaszjogát érvényesíteni.
 
@@ -156,13 +156,15 @@ során kell alkalmazni.
 
 (2) A kifizetés iránti intézkedések körében az igazságügyért felelős miniszter a Magyar Bírósági Végrehajtói Kar hivatali szerve által vezetett nyilvántartásából adatokat kér arra vonatkozóan, hogy az elítélttel vagy az egyéb jogcímen fogvatartottal szemben gyermektartásdíj behajtása iránt van-e szünetelő vagy folyamatban lévő végrehajtási eljárás, és ha igen, milyen ügyszámon és ki az illetékes végrehajtó.
 
-(3) Ha (2) bekezdés szerinti adatközlés vagy a büntetés-végrehajtási bíró tájékoztatása alapján adat merül fel arra vonatkozóan, hogy gyermektartásdíj vagy a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj behajtása iránt végrehajtási eljárás indult, az igazságügyért felelős miniszter az illetékes végrehajtót értesíti az adós javára megítélt kártalanításról, és hogy annak terhére mely követelések kielégítése érdekében van helye követelés lefoglalásának. Ez esetben a kifizetésre csak a végrehajtó ennek lefoglalására irányuló végrehajtási cselekményének foganatosítását követően – a 10/A. § (8) bekezdésében foglaltakra figyelemmel – kerülhet sor.
+(3) Ha (2) bekezdés szerinti adatközlés vagy a büntetés-végrehajtási bíró tájékoztatása alapján adat merül fel arra vonatkozóan, hogy gyermektartásdíj vagy a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj behajtása iránt végrehajtási eljárás indult, az igazságügyért felelős miniszter az illetékes végrehajtót értesíti az adós javára megítélt kártalanításról, és hogy annak terhére mely követelések kielégítése érdekében van helye követelés lefoglalásának. Ez esetben a kártalanítás kifizetésére csak a végrehajtó által foganatosított követelésfoglalást követően – a 10/A. § (8) bekezdésében foglaltakra figyelemmel – kerülhet sor azzal, hogy ha a követelésfoglalás a 70/B. § (6) bekezdése szerinti teljesítési határnapot megelőző nyolcadik munkanapig nem érkezik meg az igazságügyért felelős miniszterhez, akkor a kártalanítás kifizetésére annak figyelmen kívül hagyásával kerül sor.
 
-(4) Ha a büntetés-végrehajtási bíró határozatában úgy rendelkezett, hogy részben vagy egészben meg nem térített polgári jogi igényt, illetve bűncselekmény miatt megállapított kártérítést vagy sérelemdíjat a kártalanítás összegéből le kell vonni, az ennek megfelelő összeget a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultja részére, a kártalanítási összeg fennmaradó részét az elítélt vagy az egyéb jogcímen fogvatartott részére kell kifizetni. Ha adat merül fel arra vonatkozóan, hogy gyermektartásdíj behajtása iránt végrehajtási eljárás indult, a kifizetésre csak a végrehajtó ennek lefoglalására irányuló végrehajtási cselekményének foganatosítását követően – a 10/A. § (8) bekezdésében foglaltakra figyelemmel – kerülhet sor azzal, hogy a követelés kielégítésére elsősorban az elítélt vagy az egyéb jogcímen fogvatartott részére kifizetendő összeg szolgál.
+(4) Ha a büntetés-végrehajtási bíró határozatában úgy rendelkezett, hogy részben vagy egészben meg nem térített polgári jogi igényt, illetve bűncselekmény miatt megállapított kártérítést vagy sérelemdíjat a kártalanítás összegéből le kell vonni, az ennek megfelelő összeget a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultja részére, a kártalanítási összeg fennmaradó részét az elítélt vagy az egyéb jogcímen fogvatartott részére kell kifizetni. Ha adat merül fel arra vonatkozóan, hogy gyermektartásdíj behajtása iránt végrehajtási eljárás indult, a kifizetésre csak a végrehajtó ennek lefoglalására irányuló végrehajtási cselekményének foganatosítását követően – a 10/A. § (8) bekezdésében foglaltakra figyelemmel – kerülhet sor azzal, hogy a követelés kielégítésére elsősorban az elítélt vagy az egyéb jogcímen fogvatartott részére kifizetendő összeg szolgál. Ez utóbbi esetben, ha a követelésfoglalás a 70/B. § (6) bekezdése szerinti teljesítési határnapot megelőző nyolcadik munkanapig nem érkezik meg a miniszterhez, akkor a kártalanítás kifizetésére annak figyelmen kívül hagyásával kerül sor.
 
 (5) A kifizetés történhet az elítéltnek vagy az egyéb jogcímen fogvatartottnak az általuk megjelölt számlaszámra utalással, illetve a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultjának rendelkezése szerint az általuk megjelölt számlaszámra utalással vagy készpénzben. Ha az elítélt vagy az egyéb jogcímen fogvatartott még fogva van, kérheti a kártalanítás összegének letéti számlájára való átutalását.
 
-(6) Az igazságügyért felelős miniszter a (2)–(4) bekezdés szerint beszerzett, a gyermektartásdíj, a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj végrehajtásával kapcsolatos személyes adatokat a kártalanítás kifizetése céljából, a kártalanítás kifizetését követő harminc napig kezelheti.
+(5a) A kártalanítást megállapító határozatba foglalt kifizetési módnak az (5) bekezdés keretei között történő, illetve a teljesítési adatok, így különösen a számlaszám megváltoztatását az elítélt vagy az egyéb jogcímen fogvatartott, a védő, illetve a jogi képviselő, valamint a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultja a büntetés-végrehajtási bírónál megtett bejelentéssel kezdeményezheti. A kifizetési mód, illetve a teljesítési adatok megváltozásáról a büntetés-végrehajtási bíró haladéktalanul tájékoztatja az igazságügyért felelős minisztert. A változás akkor vehető figyelembe, ha a kifizetés a kártalanítást megállapító határozatban foglaltaknak megfelelően még nem történt meg.
+
+(6) Az igazságügyért felelős miniszter a (2)–(4) bekezdés szerint beszerzett, a gyermektartásdíj, a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj végrehajtásával kapcsolatos személyes adatokat a kártalanítás kifizetése céljából, a fejezeti kezelésű előirányzat terhére történő kifizetések bizonylatainak külön jogszabályban rögzített megőrzési határidejéig kezelheti.
 
 ### A védelem joga és a képviselet szabályai
 
@@ -263,11 +265,13 @@ során kell alkalmazni.
 
 (7) A büntetés, az intézkedés és a szabálysértési elzárás végrehajtásának megszakítását kiváltó körülmény megszűnéséig az elévülés nyugszik.
 
+(8) A szabadságelvonással járó büntetés és intézkedés, a kényszerintézkedés, valamint a szabálysértési elzárás foganatba vétele a rendbírság helyébe lépő elzárás végrehajtását megszakítja.
+
 15. § (1) A szabadságelvonással járó büntetés és intézkedés, valamint a szabálysértési elzárás tartamába minden megkezdett nap beszámít, a végrehajtás utolsó napját naptári nap szerint kell meghatározni.
 
 (2) A végrehajtás rendjét a végrehajtásért felelős szerv és az elítélt, illetve az egyéb jogcímen fogvatartott, valamint a kapcsolattartás során a kapcsolattartó köteles megtartani.
 
-16. § (1) A büntetés, az intézkedés és a szabálysértési elzárás végrehajtását a Be.-ben és az e törvényben meghatározott feltételek szerint, kérelemre vagy hivatalból a bíróság, az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, valamint a gyermekek és az ifjúság védelméért felelős miniszter felfüggesztheti, elhalaszthatja vagy félbeszakíthatja.
+16. § (1) A büntetés, az intézkedés, a rendbírság helyébe lépő elzárás és a szabálysértési elzárás végrehajtását a Be.-ben, a Szabs. tv.-ben és az e törvényben meghatározott feltételek szerint, kérelemre vagy hivatalból a bíróság, az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, valamint a gyermekek és az ifjúság védelméért felelős miniszter felfüggesztheti, elhalaszthatja vagy félbeszakíthatja.
 
 (2) Ha az elítélt vagy az egyéb jogcímen fogvatartott szabadulásakor tízezer forintot meg nem haladó összeggel tartozik a végrehajtásért felelős szervnek, és a tartozás összegének a levonására nincs lehetőség, a tartozás összegét törölni kell. Ezt meghaladó, de a központi költségvetésről szóló törvényben meghatározott kis összegű követelést meg nem haladó tartozás esetén a végrehajtásért felelős szerv vezetője a követelést, kérelemre, ha az elítélt vagy az egyéb jogcímen fogvatartott személyi vagy vagyoni körülményei ezt megalapozzák, méltányosságból elengedheti.
 
@@ -322,7 +326,7 @@ kell alkalmazni azzal, hogy körözés elrendelésére és elfogatóparancs kibo
 
 (3) Ha a végrehajtásért felelős szerv szervezeti egységének vezetője kérelemre jár el, a kérelem benyújtásától számított harminc napon belül intézkedik, illetve dönt, kivéve, ha az ügy jellege soron kívüli elintézést kíván. Az elintézési határidőt a kérelem elbírálására – az (1) bekezdés szerint – jogosult indokolt esetben, írásban, egy alkalommal legfeljebb harminc nappal meghosszabbíthatja. Erről a kérelmezőt írásban értesíteni kell.
 
-(4) Az elintézési határidőbe nem számít be a hiánypótlásnak, a hivatalból történő iratok beszerzésének, a megkeresésnek, a szakértői vélemény, illetve a pártfogó felügyelői vélemény elkészítésének és az indítványozott tanúmeghallgatások teljesítésének időtartama.
+(4) Az elintézési határidőbe nem számít be a hiánypótlásnak, a hivatalból történő iratok beszerzésének, a megkeresésnek, a szakértői vélemény, illetve a pártfogó felügyelői vélemény vagy környezettanulmány elkészítésének és az indítványozott tanúmeghallgatások teljesítésének időtartama.
 
 (5) A kérelemben foglaltak megalapozása a kérelmező feladata, erre a figyelmét fel kell hívni, és ha ez elmaradt ezzel egyidejűleg hiánypótlásra kell felszólítani. Ugyanígy kell eljárni, ha a kérelemből nem lehet megállapítani, hogy az mire irányul. A kérelmezőt tájékoztatni kell arról, hogy ha a hiánypótlásnak az előírt határidőben nem tesz eleget, kérelmét a rendelkezésre álló adatok alapján bírálják el.
 
@@ -414,7 +418,7 @@ hajtható végre.
 
 (2) Aki az (1) bekezdés szerint az iratokat megtekintheti, azokról feljegyzést készíthet, valamint – jogszabály eltérő rendelkezése hiányában – saját költségén másolat kiadását kérheti.
 
-(3) Az iratokról a végrehajtásért felelős szerv a kérelem előterjesztésétől számított nyolc munkanapon belül másolatot ad ki. A másolat kiadása során a Be. 70/B. § (9) és (11) bekezdését és a 70/C. § (5) bekezdését alkalmazni kell.
+(3) Az iratokról a végrehajtásért felelős szerv a kérelem előterjesztésétől számított nyolc munkanapon belül másolatot ad ki. A másolat kiadása során a Be. 70/B. § (9) és (11)–(14) bekezdését és a 70/C. § (5) bekezdését alkalmazni kell.
 
 (4) Nem engedhető betekintés és nem adható ki másolat
 
@@ -432,6 +436,10 @@ hajtható végre.
 (6) A másolat kiadásának megtagadásáról indokolt határozatot kell hozni. A határozattal szemben bírósági felülvizsgálati kérelmet lehet benyújtani.
 
 (7) Az egészségügyi dokumentációval kapcsolatos iratbetekintésre és másolat kiadására az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény, valamint az egészségügyről szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+
+### Az elektronikus kapcsolattartás szabályai
+
+26/A. § A büntetés-végrehajtási ügyben, valamint a büntetőügyben eljáró bíróságnak és ügyésznek a végrehajtás érdekében megtett intézkedése során – a 121. § (1) bekezdés g) pontjában és a 353. § e) pontjában foglalt kivétellel – az elektronikus kapcsolattartásra a Be. szabályai az irányadóak.
 
 ### II. Fejezet — A BÜNTETÉSEK ÉS AZ INTÉZKEDÉSEK VÉGREHAJTÁSÁT KIZÁRÓ OKOK
 
@@ -507,7 +515,7 @@ szabadságvesztés végrehajthatósága.
 
 ### A büntetés végrehajtásának kizárása életfogytig tartó szabadságvesztés esetén
 
-31. § Életfogytig tartó szabadságvesztés esetén a határozott ideig tartó szabadságvesztés, az elzárás és a közérdekű munka nem hajtható végre.
+31. § Életfogytig tartó szabadságvesztés esetén a határozott ideig tartó szabadságvesztés, az elzárás, a közérdekű munka és a pénzbüntetés nem hajtható végre.
 
 ### III. Fejezet — A BÍRÓSÁG ÉS AZ ÜGYÉSZ FELADATAI A VÉGREHAJTÁSBAN
 
@@ -560,7 +568,7 @@ szabadságvesztés végrehajthatósága.
 - a) az elítéltről készült pártfogó felügyelői vélemény, valamint az elítélt személy mentális és testi állapotáról készült szakvélemény, orvosi bizonyítvány másodpéldányát vagy másolatát,
 - b) fiatalkorú elítélt esetében a környezettanulmány és az iskolai bizonyítvány, az iskolai vagy munkahelyi jellemzés másolatát.
 
-(4) Az értesítőlap, az ügydöntő határozat, a végrehajtást érintő egyéb határozat, vagy a (3) bekezdés szerinti iratok, ha ennek biztonsági feltételei adottak, elektronikus úton is továbbíthatók a végrehajtásért felelős szervnek, illetve a bv. csoportnak.
+(4)
 
 ### A szabadságvesztés azonnali foganatba vétele, a szabadságvesztés végrehajtásának biztosítása
 
@@ -697,6 +705,12 @@ szabadságvesztés végrehajthatósága.
 (5) A (3) bekezdés a) pontja esetén, ha a gyermek halva született, utóbb meghalt, vagy a gyermek véglegesen vagy tartósan kikerül az elítélt gondozásából, a kiutasítás végrehajtását a bíróság felhívására, amint azt a nő szülés utáni egészségi állapota lehetővé teszi, haladéktalanul meg kell kezdeni. A nő szülés utáni egészségi állapotáról a tanács elnökének a felhívására az igazságügyi orvos-szakértő nyilatkozik.
 
 (6) Az (1)–(3) bekezdésben meghatározott feltételek esetén sincs helye a kiutasítás végrehajtása elhalasztásának, ha az súlyosan veszélyeztetné a közbiztonságot vagy a közrendet.
+
+### A rendbírság helyébe lépő elzárás végrehajtásának elhalasztása
+
+43/B. § (1) A tanács elnöke a rendbírság helyébe lépő elzárás végrehajtásának megkezdésére a rendbírsággal sújtott kérelmére a 40. § (1) és (2) bekezdésében meghatározott feltételek mellett halasztást engedélyezhet, illetve a 40. § (3) bekezdésében meghatározott okból és keretek között halasztást engedélyez.
+
+(2) A halasztási kérelem elbírálása során a 39. § (7)–(9) bekezdését és a 40. § (4)–(5) bekezdését értelemszerűen alkalmazni kell.
 
 ### A halasztás és a részletfizetés engedélyezésének eljárási szabályai
 
@@ -891,7 +905,10 @@ alaposan feltehető-e, hogy a büntetés célja további szabadságelvonás nél
 
 (4) A fellebbezést a törvényszék a felterjesztéstől számított tizenöt napon belül, fogva lévő elítélt esetén nyolc napon belül tanácsülésen, bizonyítás felvétele esetén tárgyaláson bírálja el. A tárgyalás határnapját a felterjesztéstől számított harminc napon belüli, fogva lévő elítélt esetén tizenöt napon belüli időpontra kell kitűzni.
 
-(5) A büntetés-végrehajtási bíró és a törvényszék másodfokú határozatával szemben a Be. 431. §-a szerinti törvényesség érdekében bejelentett jogorvoslat alapján a Kúria a törvénysértés megállapítása esetén a megtámadott határozatot megváltoztathatja vagy hatályon kívül helyezheti, és szükség esetén az eljárt bíróságot új eljárásra utasíthatja.
+(5) A büntetés-végrehajtási bíró és a törvényszék másodfokú határozatával szemben a Be. szerinti törvényesség érdekében bejelentett jogorvoslat alapján a Kúria a törvénysértés megállapítása esetén a megtámadott határozatot
+
+- a) megváltoztathatja, vagy
+- b) hatályon kívül helyezheti, és az eljárást megszüntetheti, vagy szükség esetén az eljárt bíróságot új eljárásra utasíthatja.
 
 ### A szabadságvesztés végrehajtási fokozatának megváltoztatására irányuló eljárás
 
@@ -1055,6 +1072,16 @@ tegyen újabb előterjesztést.
 
 61/C. § (1) A reintegrációs őrizet megszüntetéséről a büntetés-végrehajtási bíró a bv. intézet előterjesztésére soron kívül, az iratok alapján határoz. Az eljárást a reintegrációs őrizet végrehajtására kijelölt lakás elhelyezkedése szerint illetékes büntetés-végrehajtási bíró folytatja le.
 
+(1a) A bv. szerv vezetője a 187/E. § (1) bekezdés a) és b) pontja esetében – kivéve, ha az elítélt ismeretlen helyre távozott – az előterjesztés megküldésével egyidejűleg haladéktalanul kezdeményezi az ügyésznél a szabadságvesztés ideiglenes foganatba vételének elrendelését. Ez esetben az előterjesztésben utalni kell arra, hogy a szabadságvesztés ideiglenes foganatba vételét kezdeményezte a bv. szerv vezetője az ügyésznél.
+
+(1b) Az ügyész a szabadságvesztés ideiglenes foganatba vételét soron kívül elrendeli, ha
+
+- a) a végrehajtásra váró újabb szabadságvesztés tartamára tekintettel alaposan feltehető, hogy az elítélt szökésével vagy elrejtőzésével a büntetés végrehajtása alól kivonná magát,
+- b) alappal tartani lehet attól, hogy az elítélt szabadságvesztéssel fenyegetett újabb bűncselekményt vagy szabálysértési elzárással is sújtható szabálysértést követne el, illetve a megkezdett cselekményt folytatná, vagy
+- c) az elítélt a magatartási szabályokat, illetve az elektronikus távfelügyeleti eszköz vállalt alkalmazási szabályait súlyosan megszegte.
+
+(1c) Az ideiglenes foganatba vétel a büntetés-végrehajtási bírónak a reintegrációs őrizet megszüntetéséről való döntése meghozataláig, de legfeljebb a még letöltendő szabadságvesztés tartamáig terjedhet. Az ügyész határozata ellen a Be. szerinti panasznak van helye. Az ideiglenes foganatba vétel végrehajtása érdekében az ügyész a rendőrség útján intézkedik. Az ügyész a határozatát haladéktalanul megküldi a büntetés-végrehajtási bírónak.
+
 (2) Ha az elítélt ismeretlen helyre távozik, a büntetés-végrehajtási bíró a reintegrációs őrizet megszüntetéséről szóló határozat meghozatalával egyidejűleg elfogatóparancsot bocsát ki.
 
 61/D. § E cím alkalmazásával – ideértve a feltételes szabadságra bocsátásról az elítélt meghallgatásának mellőzésével – lefolytatott eljárásokban a 61/A. § (5) és (6) bekezdésében foglalt kivétellel bírósági titkár nem járhat el.
@@ -1096,6 +1123,14 @@ tegyen újabb előterjesztést.
 (2) A bűnügyi költséget az állam viseli.
 
 (3) Az (1) bekezdés alapján átváltoztatott közérdekű munka helyébe lépő szabadságvesztésre halasztás nem engedélyezhető.
+
+### A pénzbüntetés végrehajthatósága megszűnésének megállapítása
+
+65/A. § (1) A büntetés-végrehajtási bíró hivatalból vagy a bv. intézet előterjesztésére a 293/A. § (1) bekezdésében meghatározott ok fennállása esetén, az iratok alapján megállapítja a pénzbüntetés végrehajthatósága megszűnését. Az eljárásnak az elítélt vagy védője kérelmére is helye van.
+
+(2) Az eljárást annak a törvényszéknek a gazdasági hivatala szerint illetékes büntetés-végrehajtási bíró folytatja le, amely a pénzbüntetés végrehajtása érdekében intézkedett. Ha az elítélt fogva van, az eljárást a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró folytatja le.
+
+(3) A bűnügyi költséget az állam viseli.
 
 ### A pénzbüntetés átváltoztatása szabadságvesztésre
 
@@ -1281,17 +1316,18 @@ tegyen újabb előterjesztést.
 - f) a szabadságvesztés és az elzárás hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, az egészségügyről szóló törvényben meghatározott egészségügyi adataira (a továbbiakban: egészségügyi adat), esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, a választójoggal nem rendelkező elítélt személyi azonosítójára, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 - g) a közérdekű munkára ítélt társadalombiztosítási azonosító jelére, egészségügyi adataira, szociális helyzetére, foglalkozására, munkahelyére, munkarendjére és tanulói jogviszonyára, tanulmányi rendjére, valamint családi körülményeire vonatkozó adataira, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére, valamint a végrehajtás helyére, kezdő és befejező időpontjára, valamint a ledolgozott napok számára,
 - h) a közügyektől eltiltott esetén a népképviseleti szerv testületében vagy bizottságában korábban betöltött tagságára, civil szervezetben betöltött vezetői tisztségére, köztestületben vagy közalapítványban viselt tisztségére, volt katonai rendfokozatára, volt címzetes rendfokozatára, volt belföldi vagy külföldi kitüntetésére, a hivatalos személyi minőséget korábban megalapozó jogviszonyára, törvényben kihirdetett nemzetközi szerződéssel létrehozott szervezet közgyűlésébe, testületébe történt korábbi delegálására vonatkozó adataira, illetve az arra vonatkozó adatokra, hogy korábban védőként vagy jogi képviselőként járt el,
-- i) a pártfogó felügyelet alatt álló egészségügyi adataira, esetleges káros szenvedélyeire, foglalkozására, munkahelyére vagy tanulói jogviszonyára vonatkozó adataira, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
+- i) a pártfogó felügyelet alatt álló egészségügyi adataira, esetleges káros szenvedélyeire, foglalkozására, munkahelyére vagy tanulói jogviszonyára vonatkozó adataira, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
 - j) a kényszergyógykezelés és a javítóintézeti nevelés hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi viszonyaira, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére, továbbá javítóintézeti nevelés esetén a végrehajtás helyére, kezdő és befejező időpontjára,
 - k) az utógondozott társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi viszonyaira, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira,
 - l) a kényszerintézkedés hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 - m) az elítélt vagy az egyéb jogcímen fogvatartott jogai gyakorlásához és kötelezettségei teljesítéséhez szükséges további személyes adatokra, különösen az egészségügyi állapotára, esetleges káros szenvedélyeire vonatkozó vagy a bűnügyi személyes adataira,
 - n) az elítéltnek vagy az egyéb jogcímen fogvatartottnak a végrehajtással összefüggésben keletkezett kártérítési és egyéb fizetési kötelezettségére, kártérítési igényére vonatkozó adatokra és a keresményét terhelő fizetési kötelezettségekre,
 - o) a büntetések és az intézkedések végrehajtására vonatkozó adatokra, így különösen a végrehajtás elhalasztásával, a végrehajtás kezdő és befejező időpontjával, a foganatosítás helyével és körülményeivel, a jutalmazással és a fenyítéssel, a végrehajtás félbeszakításával és annak okával, valamint a büntetés végrehajtását kizáró ok vagy végrehajtási akadály bekövetkezésével kapcsolatos adatokra,
-- p) pártfogó felügyelői vélemény, környezettanulmány, megelőző pártfogó felügyelői vélemény vagy jelentés készítése esetén a terhelt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkahelyére vagy tanulói jogviszonyának adataira, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a sértett azon személyes adataira, amelyek a részére adandó jóvátételhez szükségesek, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
+- p) pártfogó felügyelői vélemény, környezettanulmány, megelőző pártfogó felügyelői vélemény vagy jelentés készítése esetén a terhelt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkahelyére vagy tanulói jogviszonyának adataira, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, továbbá a sértett azon személyes adataira, amelyek a részére adandó jóvátételhez szükségesek, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
 - q) a büntetőeljárásban vagy az elítélttel kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, közigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a végrehajtásért felelős szerv részére meg kell küldeni,
 - r) a szabálysértési elzárás hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
-- s) a reintegrációs őrizet elrendelése feltételeinek megállapítása és a környezettanulmány elkészítése körében a reintegrációs őrizet végrehajtására kijelölendő lakás tekintetében az elítélt vagy a befogadó nyilatkozatot tevő lakáshasználati jogára és a lakás elektromos áramellátását igazoló előfizetői adatokra, a befogadó környezetre és a lakásban lakó más személyeknek az elítélt befogadására való készségére, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkavállalási, illetve tanulmányi lehetőségeire, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, továbbá a reintegrációs őrizet ellenőrzése során az elítélt munkahelyére, illetve tanulói jogviszonyára vonatkozó adataira, valamint fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére.
+- s) a reintegrációs őrizet elrendelése feltételeinek megállapítása és a környezettanulmány elkészítése körében a reintegrációs őrizet végrehajtására kijelölendő lakás tekintetében az elítélt vagy a befogadó nyilatkozatot tevő lakáshasználati jogára és a lakás elektromos áramellátását igazoló előfizetői adatokra, a befogadó környezetre és a lakásban lakó más személyeknek az elítélt befogadására való készségére, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkavállalási, illetve tanulmányi lehetőségeire, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, továbbá a reintegrációs őrizet ellenőrzése során az elítélt munkahelyére, illetve tanulói jogviszonyára vonatkozó adataira, valamint fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
+- t) az enyhébb végrehajtási szabályok alkalmazása és a társadalmi kötődés programba történő bevonás feltételeinek megállapítása és a környezettanulmány elkészítése körében az elítélt által eltávozásra, illetve letelepedésre megjelölt lakás tekintetében az elítélt lakáshasználati jogára és lakáskörülményeire, a befogadó környezetre, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira.
 
 (3) Az (1) és (2) bekezdésben foglaltakat kell alkalmazni az elítélt adatainak kezelésére akkor is, ha
 
@@ -1350,7 +1386,7 @@ végrehajtásához szükséges adatokat ismerheti meg és kezelheti.
 - 4. közeli hozzátartozó: a Polgári Törvénykönyvben közeli hozzátartozóként meghatározott személy és az élettárs,
 - 5. reintegrációs program: az elítélt munkaerő-piaci integrációjának elősegítését, a befogadást megelőző életkörülményeiből, életviteléből eredő hátrányok csökkentését, személyisége és szociális készségei fejlesztését célzó reintegrációs programok, foglalkozások,
 - 6. rezsim: az egyéniesítés alapelvéhez igazodó, az elítéltre vonatkozó reintegrációs célok megvalósítását biztosító végrehajtási környezet, amelyet e törvény vagy annak céljaival összhangban a bv. szervek vezetői hoznak létre.
-- 7. befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően vagy reintegrációs őrizetének elrendelése esetén élni kíván.
+- 7. befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően vagy reintegrációs őrizetének elrendelése esetén élni kíván, továbbá ahol az elítélt az enyhébb végrehajtási szabályok elrendelése vagy a társadalmi kötődés programba történő bevonása esetén az eltávozáskor tartózkodna.
 
 ### A szabadságvesztés végrehajtásának célja és elvei
 
@@ -1394,13 +1430,16 @@ végrehajtásához szükséges adatokat ismerheti meg és kezelheti.
 - b) a jelentkezés napját és időpontját,
 - c) tájékoztatást arról, hogy nem bocsátható feltételes szabadságra, aki a szabadságvesztés letöltését önhibájából nem kezdte meg,
 - d) tájékoztatatást a jelentkezési kötelezettség elmulasztásának egyéb következményeiről,
-- e) általános tájékoztatást az elítélt által a bv. intézetnél bemutatandó iratokról és a megjelenéssel kapcsolatos általános kötelezettségekről.
+- e) általános tájékoztatást az elítélt által a bv. intézetnél bemutatandó iratokról és a megjelenéssel kapcsolatos általános kötelezettségekről,
+- f) női elítélt esetén a tájékoztatást arról, hogy ha egy évnél fiatalabb gyermekét gondozza, kérelmezheti az anya-gyermek részlegen az együttes elhelyezését.
 
 (6) A (3)–(4a) bekezdés szerinti felhívást olyan időpontban kell kiadni, hogy azt az elítélt a jelentkezési kötelezettség napja előtt legalább tizenöt nappal megkapja.
 
 (7) Ha a bv. bíró megállapítja a szabadságvesztés végrehajthatóságát, úgy az értesítőlap másolatának megküldésével értesíti a BVOP-t a szabadságvesztés megkezdésére felhívható elítéltekről.
 
 (8) A BVOP által kiadott felhívással kapcsolatban panasznak csak abban az esetben van helye, ha az nem felel meg a jogszabályban meghatározott követelményeknek, vagy ha a benne foglalt jelentkezési kötelezettség nem áll összhangban az e törvényben meghatározottakkal.
+
+(9) Ha a felhívás eredményeként a női elítélt az anya-gyermek részlegen való elhelyezése iránt az előírt határidőben kérelmet nyújtott be, a jelentkezési kötelezettség elmulasztásának jogkövetkezményei nem alkalmazhatók. Az elítélt részére az elhelyezésről való döntéssel egyidejűleg újabb felhívást ad ki a BVOP. Az anya-gyermek részlegen elhelyezés engedélyezése esetén a felhívásban az elítéltet az (5) bekezdés a) és b) pontjában meghatározott adatok megadásával arra kell felhívni, hogy a gyermekével együtt jelenjen meg a kijelölt bv. intézetben, és hogy a gyermek egészségügyi kiskönyvét és a szülést követően kiadott kórházi zárójelentést, valamint a gyermek egyéb egészségügyi iratait hozza magával.
 
 85. § (1) A BVOP a szabadságvesztés végrehajtásának megkezdésére kijelölt bv. intézet kiválasztásánál figyelembe veszi
 
@@ -1538,7 +1577,7 @@ a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózko
 - b) a rezsimbe sorolás és a besorolás megváltoztatása,
 - c) a rezsimbe helyezés felülvizsgálata,
 - d) a reintegrációs programba történő bevonás, ilyen programba történő helyezés vagy annak megszüntetése, a programon való részvétel eredményességének értékelése,
-- e) a biztonsági kockázati besorolás és a besorolás megváltoztatása,
+- e) a biztonsági kockázati besorolás, a besorolás jogszabályban meghatározott időszakonkénti felülvizsgálata és a besorolás megváltoztatása,
 - f) a nem dolgozó és újonnan befogadott elítélt munkába állítása, a munkahely és a munkakör kijelölése,
 - g) a dolgozó elítélt más munkahelyre történő áthelyezése, munkahelyről történő leváltása,
 - h) a bv. szerv orvosának javaslata alapján döntés a munkaterápiás foglalkoztatásról, annak munkaidejéről és munkarendjéről,
@@ -1619,7 +1658,7 @@ el kell különíteni.
 
 (3) A gyógykezelés érdekében a különböző végrehajtási fokozatú elítéltek a kórteremben, a betegszobában, a fertőző elkülönítőben, illetve az e célra kijelölt zárkában közösen helyezhetők el, valamint az orvosi vizsgálatra, illetve egészségügyi rendelésre közösen várakozhatnak.
 
-(4) Végrehajtási fokozattól függetlenül az elítéltek – az adott részlegen belül – együtt helyezhetők el a gyógyító-terápiás és az átmeneti részlegen, a drogprevenciós részlegen, a pszichoszociális részlegen, a hosszú időre ítéltek részlegén, az enyhébb végrehajtási szabályok alkalmazása során, a vallási részlegen, a fiatalkorú elítéltek részlegén és az anya-gyermek együttes elhelyezése esetén.
+(4) Végrehajtási fokozattól függetlenül az elítéltek – az adott részlegen belül a zárkában és lakóhelyiségben is – együtt helyezhetők el a gyógyító-terápiás részlegen, az átmeneti részlegen, a drogprevenciós részlegen, a pszichoszociális részlegen, a vallási részlegen, valamint az enyhébb végrehajtási szabályok alkalmazása során. Az elítéltek végrehajtási fokozattól függetlenül – az adott részlegen belül – együtt helyezhetők el a hosszú időre ítéltek részlegén, a fiatalkorú elítéltek részlegén és az anya-gyermek részlegen.
 
 (5) A különböző végrehajtási fokozatú elítéltek a munkahelyen együtt dolgozhatnak, az általános iskolai, illetve középfokú iskolai oktatásban, a felsőoktatásban, a szakmai képzésben, reintegrációs programon, a sport és a kulturális programon, a szállítás és az előállítás során, valamint a vallásos szertartásokon és más rendezvényeken közösen vehetnek részt, továbbá a szabad levegőn és a közös étteremben együtt tartózkodhatnak.
 
@@ -1696,6 +1735,8 @@ el kell különíteni.
 
 104. § (1) A fogház, illetve a börtön végrehajtásának általános szabályainál enyhébb végrehajtási szabályok akkor alkalmazhatók, ha – különösen az elítélt személyiségére, előéletére, életvitelére, családi körülményeire, a szabadságvesztés során tanúsított magatartására, az elkövetett bűncselekményre, a szabadságvesztés tartamára tekintettel – a szabadságvesztés célja az enyhébb végrehajtási szabályok alkalmazásával is elérhető, és az enyhébb büntetés-végrehajtási szabályok alkalmazása a büntetés-végrehajtás biztonságát nem veszélyezteti.
 
+(1a) Az enyhébb végrehajtási szabályok alkalmazása iránti előterjesztés, illetve az elítélt vagy védője által benyújtott kérelem megalapozottságának ellenőrzése céljából a bv. intézet az elítélt által eltávozásra megjelölt lakó- vagy tartózkodási hely szerint illetékes büntetés-végrehajtási pártfogó felügyelő útján környezettanulmány elkészítését rendelheti el.
+
 (2) Enyhébb végrehajtási szabályok nem alkalmazhatók, ha
 
 - a) az elítélt a szabadságvesztésből – az előzetes fogvatartásban és a házi őrizetben töltött időt is beszámítva – a feltételes szabadságra bocsátásig esedékes időtartam felét nem töltötte le,
@@ -1704,7 +1745,7 @@ el kell különíteni.
 - d)
 - e)
 - f) a bíróság jogerős ítéletében fegyházbüntetésre ítélt elítélt a szabadságvesztés fokozatának enyhítésével [115. § (1) bekezdés] tölti a büntetését,
-- g) az elítélt ellen újabb büntetőeljárás van folyamatban,
+- g) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyész, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
 - h) az elítélttel szemben egyidejűleg több szabadságvesztés végrehajtására érkezik értesítés, és a büntetések nincsenek összbüntetésbe foglalva.
 
 (3) Az enyhébb végrehajtási szabályok alkalmazása esetén az elítélt
@@ -1825,7 +1866,7 @@ el kell különíteni.
 
 113. § (1) Az elítéltet – megjelenési szándékától függetlenül – elő kell állítani, ha
 
-- a) büntető ügyben terheltként,
+- a) büntetőügyben terheltként vagy büntetés-végrehajtási ügyben,
 - b) tanúként,
 - c) az apaság és a származás megállapítása iránti perben személyes megjelenésre kötelezéssel félként,
 - d) gondnokság alá helyezés iránti perben alperesként,
@@ -2070,6 +2111,12 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (2) Az (1) bekezdésben meghatározott esetben a bv. intézet intézkedik a gyermeknek az anyától való elkülönítése iránt, és a gyámhatóság intézkedéséig biztosítja a gyermek teljes körű ellátását az anya-gyermek részlegen.
 
+128/B. § (1) Ha a női elítélt egy évnél fiatalabb gyermekét gondozza, és a szabadságvesztés elhalasztására vagy félbeszakítását nem engedélyezték vagy azt az elítélt nem kérte, továbbá az együttes elhelyezést kizáró ok nem áll fenn, – az elítélt kérelmére – a gyermeknek egyéves koráig az anyjával való együttes elhelyezéséről a BVOP elhelyezésért felelős szakterületének vezetője a kérelem beérkezésétől számított tizenöt napon belül határozattal dönt.
+
+(2) Az elítélt a kérelmet a felhívás kézhezvételétől számított nyolc napon belül írásban köteles a kijelölt bv. intézethez vagy a BVOP-hoz benyújtani.
+
+(3) Az (1) bekezdés szerinti döntés meghozatala előtt a BVOP beszerzi a gyámhatóság véleményét arról, hogy az együttes elhelyezés a gyermek érdekét megfelelően szolgálja-e. A véleményben a gyámhatóság adatot szolgáltat arról is, hogy fennáll-e a 128. § (3) bekezdésében meghatározott, az együttes elhelyezést kizáró valamely ok.
+
 129. § (1) Az elítélt – a (3) bekezdésben foglalt kivételekkel – a jogszabályban meghatározottak és a rezsimszabályok szerint az intézetben tarthat minden olyan tárgyat, amelynek elhelyezése
 
 - a) a zárka rendeltetésszerű használatát nem akadályozza, illetve
@@ -2108,7 +2155,7 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (3) A tartási költségekhez való hozzájárulás összegét az országos parancsnok normatív utasításban határozza meg, az évente meghatározott napi összeg – teljes munkaidőben történő foglalkoztatás esetén – nem lehet kevesebb, mint az egy havi alapmunkadíj egy százaléka.
 
-(4) Az elítélt keresményének és rendszeres pénzellátásának meghatározott részét a szabadulása idejére tartalékolni kell. A tartalékolás évente meghatározott összege a fogvatartás első négy évében az egy havi alapmunkadíj ötven százaléka, ezt meghaladó tartamú fogvatartás esetén évente az egy havi alapmunkadíj huszonöt százaléka.
+(4) Az elítélt keresményének és rendszeres pénzellátásának meghatározott részét a szabadulása idejére tartalékolni kell. A fogvatartás megkezdésétől a tartalékolás havonta meghatározott összege a fogvatartás első négy évében az egyhavi alapmunkadíj ötven százalékának egytizenketted része, ezt meghaladó tartamú fogvatartás esetén havonta az egyhavi alapmunkadíj huszonöt százalékának egytizenketted része.
 
 (5) Az elítélt köteles együttműködni a bv. intézet a pártfogó felügyelői szolgálat és a reintegrációs tevékenységben részt vevő szervezet megbízottjával.
 
@@ -2146,7 +2193,7 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 137. § Nem terheli az elítéltet
 
 - a) a bv. intézetbe vagy intézménybe szállítás, ideértve azt is, ha az elítéltnek polgári ügyben a hatóság előtt való megjelenése érdekében másik bv. intézetbe szállítása szükséges,
-- b) a büntetőügyben való –, vagy szabálysértési – ideértve a büntető ügyben lefolytatandó közvetítői eljárást is – előállítás,
+- b) a büntetőügyben való – ideértve a büntetőügyben lefolytatandó közvetítői eljárást is – és a büntetés-végrehajtási ügyben való előállítás,
 - c) a szabálysértési ügyben való – ideértve a szabálysértési ügyben lefolytatandó közvetítői eljárást is – előállítás,
 - d) az alkoholbetegséggel összefüggő gyógykezelés,
 - e) az elmeállapot megfigyelésének,
@@ -2167,7 +2214,7 @@ költsége.
 
 ### Kérelem, panasz és egyéb jogorvoslat
 
-140. § (1) Az elítéltet a jogorvoslat során jogairól, kötelezettségeiről bármikor tájékoztatást kérhet, a felvilágosítást megfelelő időben kell megadni.
+140. § (1) Az elítélt a jogorvoslat során jogairól, kötelezettségeiről bármikor tájékoztatást kérhet, a felvilágosítást megfelelő időben kell megadni.
 
 (2) A elítélt jogorvoslati jogának érvényesüléséről a bv. intézet gondoskodik.
 
@@ -2192,13 +2239,13 @@ költsége.
 
 143. § (1) Az elítélt kárigényét – kivéve, ha szabadult – annál a bv. szervnél terjesztheti elő, ahol a kár bekövetkezett, más gazdálkodó szervezetnél végzett munkáltatás során annál a bv. szervnél, amely a szerződést a gazdálkodó szervezettel megkötötte. Ha az elítélt társadalomba való beilleszkedését elősegítő programban vesz részt, kárigényét annál a bv. szervnél terjesztheti elő, amely a szerződést az ilyen szervezettel megkötötte.
 
-(2) A kártérítési igényt határozattal kell elbírálni, amely ellen az elítélt a közléstől számított harminc napos jogvesztő határidőn belül, a határozatot hozó bv. szerv székhelye szerint illetékes bírósághoz, illetve a munkáltatással összefüggésben keletkezett kártérítési igény esetén a közigazgatási és munkaügyi bírósághoz keresettel élhet.
+(2) A kártérítési igényt határozattal kell elbírálni, amely ellen az elítélt a közléstől számított harminc napos jogvesztő határidőn belül, a határozatot hozó bv. szerv székhelye szerint illetékes bíróság előtt, illetve a munkáltatással összefüggésben keletkezett kártérítési igény esetén a munkaügyi perben eljáró bíróság előtt keresetet indíthat. A munkáltatással összefüggő kárigény miatt indított bírósági eljárásban a polgári perrendtartásról szóló törvény munkaügyi perekre vonatkozó szabályait kell alkalmazni.
 
 (3) Az elítéltet ért kárért a bv. szerv a Polgári Törvénykönyv szabályai szerint felel. A munkával összefüggésben okozott kárért, ha más gazdálkodó szervezetnél munkáltatták az elítéltet, az Mt. irányadó azzal, hogy az elítéltet ért kárt a gazdálkodó szervezettel szerződésben álló bv. szerv téríti meg. A társadalmi integrációs programban résztvevő elítéltnek okozott kárt a Polgári Törvénykönyv rendelkezése értelmében az ilyen programot lebonyolító szervezettel szerződött bv. szerv téríti meg.
 
 (4) A kár bv. szerv általi megtérítése a kárért való felelősséget nem érinti, és a bv. szerv visszkereseti igényét nem gátolja.
 
-(5) Ha az elítélt szabadult, kártérítési igényét a Polgári Törvénykönyv alapján, elévülési időn belül közvetlenül a bv. szerv székhelye szerint illetékes bírósághoz, illetve a munkáltatással összefüggésben okozott kár megtérítése iránti igényét a közigazgatási és munkaügyi bírósághoz benyújtott keresettel érvényesítheti.
+(5) Ha az elítélt szabadult, kártérítési igényét a Polgári Törvénykönyv alapján, elévülési időn belül közvetlenül a bv. szerv székhelye szerint illetékes bírósághoz, illetve a munkáltatással összefüggésben okozott kár megtérítése iránti igényét a munkaügyi perben eljáró bírósághoz benyújtott keresettel érvényesítheti. A munkáltatással összefüggő kárigény miatt indított bírósági eljárásban a polgári perrendtartásról szóló törvény munkaügyi perekre vonatkozó szabályait kell alkalmazni.
 
 (6)
 
@@ -2206,7 +2253,7 @@ költsége.
 
 (1a) Az (1) bekezdés szerinti esetben a kártérítési eljárást a 143. § (1) bekezdésében meghatározott bv. szerv folytatja le.
 
-(2) Ha az elítéltet az általa okozott kár megtérítésére a bv. szerv határozattal kötelezte, ellene a határozatot hozó bv. szerv székhelye szerint illetékes bíróságnál, illetve a munkával összefüggésben megállapított kártérítési kötelezettség esetén a közigazgatási és munkaügyi bíróságnál a közléstől számított harminc napos jogvesztő határidőn belül keresettel élhet.
+(2) Ha az elítéltet az általa okozott kár megtérítésére a bv. szerv határozattal kötelezte, ellene a határozatot hozó bv. szerv székhelye szerint illetékes bíróságnál, illetve a munkával összefüggésben megállapított kártérítési kötelezettség esetén a munkaügyi perben eljáró bíróságnál a közléstől számított harminc napos jogvesztő határidőn belül keresetet indíthat. A munkáltatással összefüggő kárigény miatt indított bírósági eljárásban a polgári perrendtartásról szóló törvény munkaügyi perekre vonatkozó szabályait kell alkalmazni.
 
 (3) A kereset benyújtása a kár összegének az elítélt bv. intézet által kezelt letéti számlájáról történő levonására nincs halasztó hatálya.
 
@@ -2408,7 +2455,7 @@ korlátozhatja.
 
 (3) A várandós elítélt, valamint az anya-gyermek részlegen elhelyezett gyermek gyógyszert, gyógyászati segédeszközt térítés nélkül kap.
 
-(4) Az elítélt a bv. orvos szakmai javaslatára, az bv. intézet vezetőjének engedélyével a hozzátartozó vagy – kapcsolattartóként nyilvántartásba vett – harmadik személy által finanszírozott gyógyszert, gyógyászati segédeszközt használhatja.
+(4) Az elítélt a bv. szerv által biztosított gyógyszert, illetve gyógyászati segédeszközt használhatja. Az elítélt a bv. orvos szakmai javaslatára, a bv. intézet vezetőjének engedélyével az általa, a hozzátartozó vagy – kapcsolattartóként nyilvántartásba vett – harmadik személy által finanszírozott és – e törvény eltérő rendelkezése hiányában – a bv. szerv által kérelmére beszerzett, illetve egyéb módon rendelkezésére bocsátott gyógyszert, gyógyászati segédeszközt, gyógyhatású készítményt is használhatja.
 
 (5) Az elítélt a jogszabályban meghatározott térítéshez, illetve részleges térítéshez kötött egészségügyi szolgáltatásokat a kiszabott térítési díj ellenében veheti igénybe.
 
@@ -2477,7 +2524,7 @@ korlátozható.
 
 166. § A 165. § (2) bekezdés h)–j) pontja nem engedélyezhető, ha az elítélt
 
-- a) ellen újabb büntetőeljárás van folyamatban,
+- a) ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyész, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
 - b) a magatartási szabályokat ismételten vagy súlyosan megszegte.
 
 167. § A látogató bv. intézeten kívüli fogadása, a jutalom kimaradás és a jutalom eltávozás időtartama a szabadságvesztésbe beszámít. A jutalom kimaradásra és a jutalom eltávozásra egyebekben a kimaradás és az eltávozás szabályait kell alkalmazni.
@@ -2637,9 +2684,30 @@ korlátozható.
 
 ### Eltávozás
 
-180. § (1) Eltávozás kizárólag akkor engedélyezhető, ha az elítélt a szabadságvesztésből a büntetés egyharmadát letöltötte, és fegyházban legalább egy évet, börtönben legalább fél évet, fogházban legalább három hónapot kitöltött.
+180. § (1) Eltávozás – a 187. § (6) bekezdés a) pontjában foglaltak kivételével – kizárólag akkor engedélyezhető, ha az elítélt a szabadságvesztésből a büntetés egyharmadát letöltötte, és fegyházban legalább egy évet, börtönben legalább fél évet, fogházban legalább három hónapot kitöltött.
 
 (2) Az eltávozás tartama évente fegyházban legfeljebb öt nap, börtönben legfeljebb tíz nap, fogházban és az átmeneti részlegen legfeljebb tizenöt nap. Ha az elítélt fizetett szabadsággal rendelkezik, az eltávozást a fizetett szabadságba be kell számítani.
+
+### A kimaradás, eltávozás engedélyezésének, valamint látogató bv. intézeten kívüli fogadásának közös szabályai
+
+180/A. § (1) Nem engedélyezhető kimaradás, eltávozás és látogató bv. intézeten kívüli fogadása, ha
+
+- a) a 178. § (2) bekezdésében, 179. § (1) bekezdésében, illetve 180. § (1) bekezdésében meghatározott időtartam még nem telt el, vagy az elítélt rezsimbe sorolása annak lehetőségét kizárja,
+- b) a rendelkezési jogkör gyakorlója a folyamatban lévő büntető eljárás eredményessége érdekében a kapcsolattartást korlátozta, továbbá ha a 172. § (3) bekezdése alapján a rendelkezési jogkör gyakorlójának korábban meghozott intézkedését alkalmazni kell,
+- c) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyész, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
+- d) az elítélt erőszakos többszörös visszaeső,
+- e) az elítélt kockázatértékelése alapján a visszaesés kockázata vagy biztonsági kockázati besorolása magas,
+- f) az elítéltet a korábbi távolléte alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték, az ítélet jogerőre emelkedésétől számított legalább három évig,
+- g) az elítélt a korábbi távollétéről önhibájából nem tért vissza, a bv. intézetbe való visszaszállítástól számított egy évig,
+- h) az elítélt a korábbi távollétéről önhibájából késve vagy ittas, vagy bódult állapotban tért vissza, a visszaérkezéstől számított hat hónapig.
+
+(2) Kimaradás, eltávozás és látogató bv. intézeten kívüli fogadása nem engedélyezhető olyan helységbe, ahonnan az elítéltet kitiltották, kivéve, ha azt a rendőrség előzetesen engedélyezte.
+
+(3) Kimaradás, eltávozás, látogató bv. intézeten kívüli fogadása – kivételesen – az (1) bekezdés d)–f) és h) pontjában meghatározott feltételek fennállása esetén is engedélyezhető, ha az elítélt
+
+- a) átmeneti részlegben van,
+- b) várható szabadulása négy hónapon belül esedékes, vagy
+- c) személyi vagy családi körülményei a kimaradást, eltávozást különösen indokolják.
 
 ### Az elítéltek oktatása és képzése
 
@@ -2758,7 +2826,7 @@ kezdi meg.
 (3) Nem vonható be a társadalmi kötődés programba az az elítélt, akivel szemben
 
 - a) újabb szabadságvesztés végrehajtására érkezik értesítés, vagy
-- b) újabb büntetőeljárás indult.
+- b) szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyész, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa.
 
 (4) A társadalmi kötődés program feladata
 
@@ -2836,7 +2904,8 @@ az ott meghatározott időben és az úti cél meghatározása mellett hagyhatja
 - b) az elítélttel szemben folyamatban lévő büntetőügyben elrendelt előzetes letartóztatását a szabadságvesztés végrehajtásának idejére megszakították,
 - c) a fogvatartása során engedélyezett reintegrációs őrizetet az elítéltnek felróható okból megszüntették,
 - d) az egy évet meg nem haladó tartamú szabadságvesztésből legalább három, egy évet meghaladó tartamú szabadságvesztésből legalább hat hónapot nem töltött le,
-- e) a megjelölt lakás az elektronikus távfelügyeleti eszköz elhelyezésére alkalmatlan.
+- e) a megjelölt lakás az elektronikus távfelügyeleti eszköz elhelyezésére alkalmatlan,
+- f) a bíróság a kiutasításáról rendelkezett.
 
 187/D. § (1) A reintegrációs őrizetre vonatkozó szabályok megtartását a büntetés-végrehajtási szervezet az elektronikus távfelügyeleti eszközön keresztül az általános rendőrségi feladatok ellátására létrehozott szervvel együttműködve ellenőrzi. A bv. intézet jogosult a reintegrációs őrizet szabályainak megtartására vonatkozó adatok megismerésére.
 
@@ -3630,7 +3699,7 @@ illeti meg.
 - i) naponta legalább egy óra szabad levegőn tartózkodásra jogosult,
 - j) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére jogosult.
 
-(2) Ha az elzárásra ítélt ellen újabb büntetőeljárás indul vagy van folyamatban, részére kimaradás nem engedélyezhető.
+(2) Az elzárásra ítélt részére kimaradás nem engedélyezhető, ha ellene szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyész, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa.
 
 (3) Ha az elzárás tartama a húsz napot meghaladja, az elzárásra ítélt kérelmet nyújthat be a kimaradás összevontan történő kiadása érekében. Összevontan legfeljebb huszonnégy óra kimaradás engedélyezhető.
 
@@ -3711,7 +3780,15 @@ illeti meg.
 
 (4) A közérdekű munka végrehajtása során a napi munkaidő legalább négy óra, legfeljebb tizenkét óra. A közérdekű munkavégzés heti időtartama legalább négy óra, de a negyvennyolc órát nem haladhatja meg. A letöltött közérdekű munkát órákban kell nyilvántartani.
 
-(5) A közérdekű munkát az első munkahely kijelöléséről szóló határozat jogerőre emelkedésétől számított két éven belül végre kell hajtani. A félbeszakítás, valamint a közérdekű munka szabadságvesztés büntetés vagy előzetes letartóztatás foganatba vétele miatti megszakításának, továbbá más közérdekű munka büntetés, elzárás, illetve közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztés tartama e határidőbe nem számít be. Ha két éven belül a közérdekű munkát az elítélt önhibájából nem végzi el, a pártfogó felügyelő jelentést készít, és a 290. § (2) bekezdése szerint kezdeményezi az ügyésznél a közérdekű munka szabadságvesztésre való átváltoztatásának indítványozását.
+(5) A közérdekű munkát az első munkahely kijelöléséről szóló határozat jogerőre emelkedésétől számított két éven belül végre kell hajtani. Ha két éven belül a közérdekű munkát az elítélt önhibájából nem végzi el, a pártfogó felügyelő jelentést készít, és a 290. § (2) bekezdése szerint kezdeményezi az ügyésznél a közérdekű munka szabadságvesztésre való átváltoztatásának indítványozását.
+
+(5a) Az (5) bekezdésben meghatározott határidőbe nem számít be
+
+- a) a félbeszakítás,
+- b) a közérdekű munka végrehajtásának a 14. § (5) bekezdésében meghatározott megszakítása,
+- c) más közérdekű munka, közérdekű munka vagy pénzbüntetés helyébe lépő szabadságvesztés, illetve a szabálysértési elzárás és a rendbírság helyébe lépő elzárás végrehajtásának
+
+időtartama.
 
 (6) A közérdekű munka végrehajtása során az elítélt jogosult
 
@@ -3916,6 +3993,8 @@ más munkahelyen célszerű,
 
 ### IX. Fejezet — A PÉNZBÜNTETÉS VÉGREHAJTÁSA
 
+### A pénzbüntetés végrehajtásának rendje
+
 292. § (1) A pénzbüntetést a törvényszék gazdasági hivatala hajtja végre.
 
 (2) Az elítéltnek a pénzbüntetést legkésőbb a gazdasági hivatal felhívásának kézbesítésétől számított tizenöt napon belül, ha a bíróság halasztást vagy részletfizetést engedélyezett, a bíróság által megállapított időpontig vagy meghatározott részletben kell megfizetnie.
@@ -3937,6 +4016,12 @@ más munkahelyen célszerű,
 
 (3) Ha a pénzbüntetést a szabadságvesztésre vagy a közérdekű munkára való átváltoztatás után részben fizetik meg, a szabadságvesztésnek vagy a közérdekű munkának az a része hajtható végre, amely a meg nem fizetett pénzbüntetésnek felel meg.
 
+### A pénzbüntetés végrehajthatóságának megszűnése
+
+293/A. § (1) A pénzbüntetés vagy annak hátralévő része nem hajtható végre, ha az ítélet jogerőre emelkedése után az elítélt öt évet vagy azt meghaladó időt töltött szabadságvesztésben vagy előzetes letartóztatásban.
+
+(2) Az (1) bekezdés szerinti időtartamba nem számítható be annak a szabadságvesztésnek a tartama, amely mellett a pénzbüntetést kiszabták.
+
 ### X. Fejezet — A KÖZÉRDEKŰ MUNKA ÉS A PÉNZBÜNTETÉS HELYÉBE LÉPŐ SZABADSÁGVESZTÉS VÉGREHAJTÁSA
 
 294. § (1) A közérdekű munka helyébe lépő szabadságvesztés és a pénzbüntetés helyébe lépő szabadságvesztés büntetés végrehajtására az V. Fejezet rendelkezéseit e fejezet szerinti eltérésekkel kell alkalmazni. A közérdekű munka helyébe lépő szabadságvesztés és a pénzbüntetés helyébe lépő szabadságvesztés büntetés végrehajtásának megkezdése érdekében a bv. csoport intézkedik.
@@ -3953,6 +4038,8 @@ más munkahelyen célszerű,
 
 (5) A magánelzárás fenyítés a Btk. 51. § (2) bekezdése esetén is legfeljebb öt napig terjedhet.
 
+(6) A bv. intézet parancsnoka a 293/A. § (1) bekezdése szerinti feltétel bekövetkezése előtt harminc nappal, ha ez a végrehajtás foganatba vételének időpontjára figyelemmel indokolt, soron kívül előterjesztést tesz a büntetés-végrehajtási bírónak a pénzbüntetés végrehajthatósága megszűnésnek megállapítása érdekében.
+
 295. § (1) A bv. intézet parancsnoka fontos okból, így különösen az elkövető személyi és családi körülményeire, egészségi állapotára tekintettel a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztést legfeljebb harminc napig terjedő időtartamra félbeszakíthatja.
 
 (2) Ha az elkövető kórházi gyógykezelése szükséges és az a büntetés-végrehajtás keretei között nem megoldható, a bv. intézet parancsnoka a gyógykezelés tartamára a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztést félbeszakítja.
@@ -3961,17 +4048,18 @@ más munkahelyen célszerű,
 
 ### XI. Fejezet — A FOGLALKOZÁSTÓL ELTILTÁS VÉGREHAJTÁSA
 
-296. § (1) A foglalkozástól eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a foglalkozástól eltiltást szabadságvesztés mellett szabják ki, tartamába be kell számítani
+296. § (1) A foglalkozástól eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a foglalkozástól eltiltást szabadságvesztés vagy elzárás mellett szabják ki, tartamába be kell számítani
 
-- a) az ítélet jogerőre emelkedése és a szabadságvesztés megkezdése között eltelt időt,
-- b) a szabadságvesztés félbeszakításának tartamát,
-- c) a feltételes szabadságon töltött időt, ha a bíróság azt nem szüntette meg.
+- a) az ítélet jogerőre emelkedése és a szabadságvesztés, illetve az elzárás megkezdése között eltelt időt,
+- b) a szabadságvesztés, illetve az elzárás félbeszakításának tartamát,
+- c) a feltételes szabadságon töltött időt, ha a bíróság azt nem szüntette meg,
+- d) a közérdekű munka vagy pénzbüntetés átváltoztatása miatti szabadságvesztés idejét.
 
-(2) Nem számít be a foglalkozástól eltiltás tartamába
+(2) Nem számít be a foglalkozástól eltiltás tartamába az az idő, amely alatt az elítélt
 
-- a) az az idő, amely alatt az elítélt kivonja magát a foglalkozástól eltiltás, vagy ha szabadságvesztésre is ítélték, a szabadságvesztés-büntetés végrehajtása alól,
-- b) a más ügyben előzetes fogvatartásban töltött idő, feltéve hogy elítélték,
-- c) a bármely ügyben kiszabott és töltött szabadságvesztés – ideértve a közérdekű munka vagy a pénzbüntetés átváltoztatása folytán végrehajtott büntetést is – ideje.
+- a) azt a szabadságvesztést, illetve elzárást tölti, amelynek alapján a bíróság a foglalkozástól eltiltást kiszabta,
+- b) olyan összbüntetésbe foglalt szabadságvesztést tölt, amelyhez kapcsolódóan foglalkozástól eltiltást is végre kell hajtani,
+- c) az a)–b) pontban megjelölt szabadságvesztés vagy elzárás végrehajtása alól kivonja magát.
 
 297. § (1) A foglalkozástól eltiltás végrehajtása annak a szervnek a feladata, amely a foglalkozástól eltiltással érintett foglalkozás kapcsán, jogszabály alapján kötelező nyilvántartási vagy engedélyezési tevékenységet végez. A büntetés-végrehajtási bíró felhívása alapján a nyilvántartást vezető szerv a foglalkozástól eltiltásra vonatkozó adatokat bejegyzi a nyilvántartásba, és gondoskodik arról, hogy az elítélt az eltiltás tartama alatt ne végezhessen olyan tevékenységet, amelytől a bíróság eltiltotta.
 
@@ -3993,7 +4081,10 @@ más munkahelyen célszerű,
 
 (3) Ha jogszabály a járművezetés újbóli gyakorlását a járművezetéshez szükséges jártasság igazolásától teszi függővé, az elítélt a járművezetés újbóli gyakorlását mindaddig nem kezdheti meg, amíg a járművezetéshez szükséges jártasságot a (2) bekezdésben meghatározott járási hivatalnál nem igazolja.
 
-(4) A járművezetéstől eltiltás tartamába be kell számítani azt az időt is, amelynek tartamára az elítélt vezetői engedélyét a bűncselekménnyel összefüggésben a helyszínen elvették, vagy azt a hatóságnál leadta.
+(4) A járművezetéstől eltiltás tartamába a Btk. 56. § (2) bekezdése szerinti beszámítást megalapozza, ha
+
+- a) az elítélt terhére a vezetői engedély leadásának elmulasztása nem róható, és az ennek okára vonatkozó bejelentést a hatóságnál megtette, amely esetben a beszámítás kezdő napja a bejelentés napja, vagy
+- b) az elítéltet az a) pont szerinti bejelentés megtételében elháríthatatlan akadály gátolta, amely esetben a beszámítás kezdő napja az akadály felmerülésének napja.
 
 (5) A járművezetéstől eltiltás büntetés végrehajtását a rendőrség ellenőrzi.
 
@@ -4007,7 +4098,7 @@ más munkahelyen célszerű,
 
 (4) A kitiltott a kitiltás tartama alatt köteles a kitiltást elrendelő határozatot magánál tartani, és ha a rendőrség igazoltatja, a határozatot a személyazonosság igazolására alkalmas okirattal együtt bemutatni.
 
-(5) A rendőrség az elítélt kérelmére személyi vagy családi körülményeire figyelemmel a kitiltás végrehajtását félbeszakíthatja, vagy az elítélt kötelezettségei teljesítése, vagy jogai, törvényes érdekei érvényesítése érdekében, avagy más fontos okból engedélyezheti, hogy az elítélt rövid időtartamra visszatérjen olyan helységbe, ahonnan kitiltották. Az elítélt kérelmének elutasítása esetén a büntetés-végrehajtási bíróhoz fellebbezhet.
+(5) A rendőrség az elítélt kérelmére személyi vagy családi körülményeire figyelemmel a kitiltás végrehajtását félbeszakíthatja, vagy az elítélt kötelezettségei teljesítése, vagy jogai, törvényes érdekei érvényesítése érdekében, avagy más fontos okból engedélyezheti, hogy az elítélt rövid időtartamra visszatérjen olyan helységbe, ahonnan kitiltották. Az elítélt kérelmének elutasítása esetén a büntetés-végrehajtási bíróhoz bírósági felülvizsgálati kérelmet nyújthat be.
 
 ### XIV. Fejezet — A SPORTRENDEZVÉNYEK LÁTOGATÁSÁTÓL VALÓ ELTILTÁS VÉGREHAJTÁSA
 
@@ -4017,13 +4108,13 @@ más munkahelyen célszerű,
 
 ### XV. Fejezet — A KIUTASÍTÁS VÉGREHAJTÁSA
 
-301. § (1) A kiutasítás tartamára a 296. § rendelkezéseit értelemszerűen alkalmazni kell.
+301. § (1) A kiutasítás tartamára a 296. § (1) bekezdés c) pontjának és (2) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell.
 
 (2) A bíróság a kiutasítás végrehajtása érdekében értesíti az elítélt tartózkodási helye szerint illetékes területi idegenrendészeti hatóságot.
 
 (3) A kiutasítást – ha azt végrehajtandó szabadságvesztés vagy elzárás mellett szabták ki – a szabadságvesztés vagy elzárás kiállása után, egyébként az ítélet jogerőre emelkedése után kell végrehajtani.
 
-(4) Ha az elítélt szabadságvesztés-büntetést tölt – ideértve a közérdekű munka vagy a pénzbüntetés helyébe lépő szabadságvesztést is –, a várható szabadulása előtt harminc nappal a bv. intézet értesíti a székhelye szerint illetékes területi idegenrendészeti hatóságot.
+(4) Ha az elítélt szabadságvesztést – ideértve a közérdekű munka vagy a pénzbüntetés helyébe lépő szabadságvesztést is – vagy elzárást tölt, a várható szabadulása előtt harminc nappal a bv. intézet értesíti a székhelye szerint illetékes területi idegenrendészeti hatóságot.
 
 (5) A kiutasítást a területi idegenrendészeti hatóság a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvények rendelkezései szerint hajtja végre.
 
@@ -4138,7 +4229,7 @@ kell megküldeni.
 
 (3) A pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő
 
-- a) ellátja a pártfogó felügyelet végrehajtásával járó teendőket,
+- a) ellátja a pártfogó felügyelet végrehajtásával járó teendőket, így különösen rendszeres és szükség szerint személyes kapcsolattartás útján figyelemmel kíséri a pártfogolt magatartását, munkahelyén vagy az oktatási intézményben, illetve lakóhelyén tanúsított viselkedését és életvitelét,
 - b) a pártfogó felügyelet végrehajtására pártfogoltanként egyéni pártfogó felügyelői tervet készít,
 - c) összehangolja a pártfogó felügyelet végrehajtásában közreműködő szervek, szervezetek és személyek tevékenységét,
 - d) a külön magatartási szabályok meghatározása és a bíróság döntésének megalapozása érdekében pártfogó felügyelői véleményt készít.
@@ -4173,7 +4264,7 @@ kezdődik.
 - d) ha a pártfogolt a jóvátételi munka elvégzését egy éven belül megfelelően igazolja [Btk. 68. § (1) bekezdés],
 - e) a pártfogó felügyelet tartama alatt a pártfogolton szabadságvesztés büntetést vesznek foganatba, a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében szabályozott eset kivételével.
 
-(4) A pártfogó felügyelet végrehajtása a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében meghatározott esetben a szabadságvesztés vagy a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztés végrehajtása alatt szünetel.
+(4) A pártfogó felügyelet végrehajtása a Btk. 40. § (4) bekezdésében és 86. § (2)–(3) bekezdésében meghatározott esetben a szabadságvesztés, az elzárás vagy a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztés végrehajtása alatt szünetel.
 
 ### A pártfogó felügyelet tartalma
 
@@ -4181,7 +4272,7 @@ kezdődik.
 
 - a) a bíróság határozatában előírt külön magatartási szabályokat és az e törvényben meghatározott kötelezettségeket (a továbbiakban együtt: magatartási szabályok) megtartani,
 - b) a pártfogó felügyelőnek vagy a büntetés-végrehajtási pártfogó felügyelőnek és a rendőrségnek a magatartási szabályok megtartására és ellenőrzésére vonatkozó rendelkezéseit teljesíteni, a kért felvilágosítást megadni,
-- c) a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő felhívásának eleget tenni, és a kapcsolattartás meghatározott rendszeressége és módja szerint a pártfogó felügyelőnél jelentkezni.
+- c) a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő felhívásának eleget tenni, és elsődlegesen a személyes kapcsolattartás meghatározott rendszeressége és szükség esetén a kapcsolattartás egyéb módja szerint a pártfogó felügyelőnél jelentkezni.
 
 (2) A pártfogó felügyelet végrehajtása során a pártfogolt a pártfogó felügyelői szolgálattól vagy a bv. szerv büntetés-végrehajtási pártfogó felügyelőjétől
 
@@ -4504,7 +4595,7 @@ terhelik.
 
 (2) Az (1) bekezdés alkalmazásában rendkívüli eseménynek minősül minden olyan esemény, amely az IMEI rendjét súlyosan sérti vagy veszélyezteti, így különösen az intézet területén megvalósult bűncselekmény, a beteg engedély nélküli távozása, öngyilkossági kísérlete, balesete vagy halála.
 
-(3) Ha a beteg az IMEI-ből engedély nélkül távozik, vagy az intézeten kívül felügyelettel vagy adaptációs szabadságon való tartózkodása során ismeretlen helyre távozik, az IMEI főigazgató főorvosa haladéktalanul a rendőrséghez fordul a beteg eltűnt személyként történő körözésének elrendelése végett.
+(3) Ha a beteg az IMEI-ből engedély nélkül távozik, vagy az intézeten kívül felügyelettel vagy adaptációs szabadságon való tartózkodása során ismeretlen helyre távozik, az IMEI főigazgató főorvosa haladéktalanul kezdeményezi a büntetés-végrehajtási bírónál elfogató parancs kiadását.
 
 ### Előállítás
 
@@ -4544,7 +4635,7 @@ terhelik.
 
 ### A végrehajtás rendje
 
-346. § (1) A javítóintézeti nevelést e törvény és a javítóintézetek rendtartásáról szóló jogszabályban meghatározott intézeti rend szerint kell végrehajtani. A javítóintézet belső életének rendjét a házirend tartalmazza, amit az igazgató állapít meg. A házirend jóváhagyása a gyermekek és az ifjúság védelméért felelős miniszter hatáskörébe tartozik.
+346. § (1) A javítóintézeti nevelést a bíróság jogerős ügydöntő határozata alapján, e törvény és a javítóintézetek rendtartásáról szóló jogszabályban meghatározott intézeti rend szerint kell végrehajtani. A javítóintézet belső életének rendjét a házirend tartalmazza, amit az igazgató állapít meg. A házirend jóváhagyása a gyermekek és az ifjúság védelméért felelős miniszter hatáskörébe tartozik.
 
 (2) A fiatalkorú gondozását és nevelését a gyermekek védelméről szóló törvény rendelkezései és a javítóintézetek működése során irányadó szakmai szabályokban meghatározott elvek szerint kell biztosítani.
 
@@ -4634,6 +4725,7 @@ terhelik.
 - b) a tartózkodási hely szabad megváltoztatásához való joga,
 - c) a békés gyülekezéshez való joga,
 - d) a sztrájkhoz való joga.
+- e) elektronikus ügyintézéshez való joga.
 
 ### A fiatalkorú jogainak korlátozása
 
@@ -5073,6 +5165,13 @@ a javítóintézet utógondozó részleget működtet.
 
 388. § (1) Az előzetes letartóztatást – a rendelkezési jogkör gyakorlójának vagy jogszabály eltérő rendelkezésének hiányában – a rendelkezési jogkör gyakorlójának székhelye szerint illetékes megyei (fővárosi) bv. intézetben kell végrehajtani. Az országos parancsnok erre a célra – kivételesen – más bv. intézetet is kijelölhet.
 
+(1a) Az előzetes letartóztatást az anya-gyermek részlegen kell végrehajtani annak a nőnek az esetében, akinek
+
+- a) a gyermeke az előzetes letartóztatás végrehajtása alatt született, és az együttes elhelyezést kizáró ok nem áll fenn, vagy
+- b) a gyermekét a bíróság az előzetes letartóztatás elrendelésekor ideiglenes hatállyal az anya-gyermek részlegen helyezte el.
+
+(1b) Ha a gyámhatóság nem adta a hozzájárulását ahhoz, hogy a gyermek az anya-gyermek részlegen nevelkedjen, az (1a) bekezdés b) pontja szerint elrendelt együttes elhelyezést meg kell szüntetni és az előzetes letartóztatásban lévő nőt át kell szállítani a végrehajtásra kijelölt bv. intézetbe.
+
 (2) A Be. 135. § (2) bekezdésében meghatározott esetekben – az ott meghatározott időtartamban – az előzetes letartóztatás rendőrségi fogdában is végrehajtható.
 
 (2a) A Be. 542/H. § (2) bekezdésében meghatározott esetben, tömeges bevándorlás okozta válsághelyzetben az őrizet és az előzetes letartóztatás rendőrségi fogdában vagy a menedékjogról és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló létesítményben is végrehajtható.
@@ -5255,7 +5354,7 @@ a javítóintézet utógondozó részleget működtet.
 
 (4) Ha a bíróság a védőt a Be. rendelkezése alapján az eljárásból kizárta, az érintett büntetőeljárásban a védő az e címben meghatározott jogait nem gyakorolhatja. Erről a bíróság a bv. intézetet hivatalosan értesíti.
 
-(5) A 2012. évi CLXXX. törvény szerinti átadási letartóztatás és ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás végrehajtása, az eljárási jogsegély keretében ideiglenesen átszállított személy fogvatartása, valamint az Nbjt. szerinti kiadatási letartóztatás, ideiglenes kiadatási letartóztatás végrehajtása, az eljárási jogsegély keretében ideiglenesen átvett személy fogvatartása, illetve – ameddig az átvételről a bíróság nem határoz – a külföldi bíróság által kiszabott szabadságvesztés ideiglenes végrehajtása esetén a külföldi államban folytatott büntetőeljárásban védőként eljáró személy fogva tartó intézetbe történő belépését – a védőre vonatkozó szabályok szerint – engedélyezni kell.
+(5) A 2012. évi CLXXX. törvény szerinti átadási letartóztatás és ideiglenes átadási letartóztatás, ideiglenes végrehajtási letartóztatás végrehajtása, továbbá az eljárási jogsegély keretében ideiglenesen átadott vagy átvett személy fogvatartása, valamint az Nbjt. szerinti kiadatási és ideiglenes kiadatási letartóztatás, ideiglenes végrehajtási letartóztatás végrehajtása, továbbá az eljárási jogsegély keretében ideiglenesen átvett személy fogvatartása esetén a külföldi államban folytatott büntetőeljárásban védőként eljáró személy fogva tartó intézetbe történő belépését – a védőre vonatkozó szabályok szerint – engedélyezni kell.
 
 400. § Ha a Be. 114. §-a szerint a büntetőeljárásban tolmács alkalmazása kötelező, a tolmács intézetbe történő belépését – a rendelkezési jogkör gyakorlójának előírásait figyelembe véve – engedélyezni kell.
 
@@ -5476,7 +5575,7 @@ között.
 
 ### A nemzetközi bűnügyi együttműködéssel összefüggésben kényszerintézkedés hatálya alatt álló személy fogvatartása
 
-423. § (1) A 2. § (1) bekezdés c) pontja szerinti kényszerintézkedések hatálya alatt álló személyt a Fővárosi Büntetés-végrehajtási Intézetben kell elhelyezni.
+423. § (1) A 2. § c) pontja szerinti kényszerintézkedések hatálya alatt álló személyt a Fővárosi Büntetés-végrehajtási Intézetben kell elhelyezni. Az országos parancsnok erre a célra – kivételesen – más bv. intézetet is kijelölhet.
 
 (2) A bv. intézet az ideiglenes kiadatási, illetve kiadatási letartóztatásban lévő személyt az igazságügyért felelős miniszter vagy a bíróság döntése alapján, az ideiglenes átadási vagy átadási letartóztatásban, vagy ideiglenes végrehajtási letartóztatásban lévő, illetve ideiglenesen átszállított személyt a bíróság döntése alapján helyezi szabadlábra.
 
@@ -5603,7 +5702,7 @@ felelős.
 
 (3) Az elzárás végrehajtásának elhalasztása vagy félbeszakítása csak a rendbírság helyébe lépő elzárásra kötelezett kórházi gyógykezelésének szükségessége esetén és csak ezen időtartamig engedélyezhető.
 
-(4) Nem lehet végrehajtani a rendbírság helyébe lépő elzárást, ha az elzárásról rendelkező határozat jogerőre emelkedésétől számítva egy év eltelt. Az elévülési időbe nem számít be a rendbírság helyébe lépő elzárás halasztására engedélyezett idő.
+(4) Nem lehet végrehajtani a rendbírság helyébe lépő elzárást, ha az elzárásról rendelkező határozat jogerőre emelkedésétől számítva egy év eltelt. Az elévülési időbe nem számít be a rendbírság helyébe lépő elzárás halasztására vagy félbeszakítására engedélyezett idő.
 
 (5) Az elévülést félbeszakítja a rendbírság helyébe lépő elzárás végrehajtása iránt tett intézkedés. A félbeszakítás napjával az elévülés ismét elkezdődik.
 
@@ -5699,7 +5798,7 @@ felelős.
 (10) E törvénynek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény és ehhez kapcsolódóan más törvények módosításáról szóló 2016. évi CX. törvény 22. §-ával megállapított 10/A. § szerinti kártalanítási igény benyújtására az az elítélt és egyéb jogcímen fogvatartott is jogosult,
 
 - a) akinek az alapvető jogokat sértő elhelyezési körülményekből eredő sérelme a módosítás hatálybalépése előtt egy éven belül szűnt meg,
-- b) aki az alapvető jogokat sértő elhelyezési körülmények miatt az EJEB-hez nyújtott be kérelmet, ha a kérelmet az EJEB a módosítás hatálybalépésének napjáig nyilvántartásba vette, kivéve, ha a fogvatartott az EJEB-hez címzett kérelmét 2015. június 10. napját követően nyújtotta be és a kérelem beérkezésekor a jogsértés megszűnésétől számítottan több mint hat hónap telt el.
+- b) aki az alapvető jogokat sértő elhelyezési körülmények miatt az EJEB-hez nyújtott be kérelmet, ha a kérelmet az EJEB a módosítás hatálybalépésének napjáig nyilvántartásba vette, kivéve, ha a fogvatartott az EJEB-hez címzett kérelmét 2015. június 10. napját követően nyújtotta be és a kérelem benyújtásakor a jogsértés megszűnésétől számítottan több mint hat hónap telt el.
 
 (11) A (10) bekezdés esetén a 10/A. § (4) bekezdésben meghatározott jogvesztő határidő e rendelkezés hatálybalépésének napjával kezdődik. A (10) bekezdés alapján benyújtott kérelmek elbírálása során a 10/A. § (6) bekezdése nem alkalmazható, továbbá a büntetés-végrehajtási bíró eljárására az 50. § (1) bekezdés d) pontjában megállapított határidő harminc nappal meghosszabbodik.
 

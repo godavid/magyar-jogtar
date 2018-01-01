@@ -2,7 +2,13 @@
 
 az igazságügyi szakértőkről
 
-A szakértői bizonyítás jelentőségének növekedése szoros összefüggésben áll azzal a fejlődési folyamattal, amely a tudomány és technika terén, valamint ennek hatására a társadalomban az elmúlt évtizedekben végbement. Ennek eredményeként nőtt a különleges szakértelmet igénylő területek száma, a társadalmi viszonyok egyre bonyolultabbá váltak, amely az igazságszolgáltatásban úgy jelent meg, hogy a peres és hatósági eljárások tárgyi és szerkezeti összetétele jelentős változáson ment át. Jellemzővé vált a jogi problémáknak más szakmákhoz tartozó kérdésekkel való összefonódása és emiatt megítélésük egyre nehezebbé válása. Ezzel párhuzamosan a bírósági eljárásokban megnőtt az igény a modern természettudományok eredményeinek a bizonyítási eljárásban történő felhasználása iránt.A fent írt új tendenciák olyan minőségi változásokat idéztek elő a bírósági és hatósági eljárásokban, különösen a szakértői bizonyítással kapcsolatban, amelyek egyre több országban tették szükségessé e jogintézmény minden részletre kiterjedő, átfogó elemzését és újraszabályozását.Az említett minőségi változásokat követő elégtelen reakciók, az igazságügyi szakértői működéssel összefüggésben felmerült aggályok, valamint a kamarai rendszer működésének a közelmúltban előtérbe került problémái elvezettek az igazságügyi szakértésbe és az igazságszolgáltatásba vetett közbizalom megrendüléséhez.Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékenység és az igazságügyi szakértői szervezet megújítása, valamint az igazságügyi szakértésbe és az igazságszolgáltatásba vetett közbizalom erősítése céljából a következő törvényt alkotja:
+A szakértői bizonyítás jelentőségének növekedése szoros összefüggésben áll azzal a fejlődési folyamattal, amely a tudomány és technika terén, valamint ennek hatására a társadalomban az elmúlt évtizedekben végbement. Ennek eredményeként nőtt a különleges szakértelmet igénylő területek száma, a társadalmi viszonyok egyre bonyolultabbá váltak, amely az igazságszolgáltatásban úgy jelent meg, hogy a peres és hatósági eljárások tárgyi és szerkezeti összetétele jelentős változáson ment át. Jellemzővé vált a jogi problémáknak más szakmákhoz tartozó kérdésekkel való összefonódása és emiatt megítélésük egyre nehezebbé válása. Ezzel párhuzamosan a bírósági eljárásokban megnőtt az igény a modern természettudományok eredményeinek a bizonyítási eljárásban történő felhasználása iránt.
+
+A fent írt új tendenciák olyan minőségi változásokat idéztek elő a bírósági és hatósági eljárásokban, különösen a szakértői bizonyítással kapcsolatban, amelyek egyre több országban tették szükségessé e jogintézmény minden részletre kiterjedő, átfogó elemzését és újraszabályozását.
+
+Az említett minőségi változásokat követő elégtelen reakciók, az igazságügyi szakértői működéssel összefüggésben felmerült aggályok, valamint a kamarai rendszer működésének a közelmúltban előtérbe került problémái elvezettek az igazságügyi szakértésbe és az igazságszolgáltatásba vetett közbizalom megrendüléséhez.
+
+Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékenység és az igazságügyi szakértői szervezet megújítása, valamint az igazságügyi szakértésbe és az igazságszolgáltatásba vetett közbizalom erősítése céljából a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ
 
@@ -22,7 +28,7 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 
 2. § E törvény alkalmazásában:
 
-- 1. eljárást megindító irat: a polgári perrendtartásról szóló törvény szerinti keresetlevél, a külön jogszabályban meghatározott nemperes eljárást megindító kérelem, aktanyomat, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti kérelem, a büntetőeljárásról szóló törvény szerinti feljelentés vagy magánindítvány, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény szerinti feljelentés vagy magánindítvány,
+- 1. eljárást megindító irat: a polgári perrendtartásról szóló törvény vagy a közigazgatási perrendtartásról szóló törvény szerinti keresetlevél, a külön jogszabályban meghatározott nemperes eljárást megindító kérelem, aktanyomat, az általános közigazgatási rendtartásról szóló törvény szerinti kérelem, a büntetőeljárásról szóló törvény szerinti feljelentés vagy magánindítvány, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény szerinti feljelentés vagy magánindítvány,
 - 2. egyesített szakvélemény: több, különböző szakterületre bejegyzett igazságügyi szakértő által készített, egységes okiratba foglalt szakvélemény,
 - 3. együttes szakvélemény: több, azonos szakterületre bejegyzett igazságügyi szakértő által készített, egybehangzó, egységes okiratba foglalt szakvélemény,
 - 4. eseti szakértő: olyan – az eljárásban megállapítandó vagy megítélendő jelentős tény vagy egyéb körülmény megállapításához vagy megítéléséhez – megfelelő szakértelemmel rendelkező természetes vagy jogi személy, aki nem igazságügyi szakértő; valamint olyan igazságügyi szakértő, aki az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendeletben meg nem határozott szakterületen ad szakvéleményt,
@@ -30,7 +36,7 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 - 6. igazságügyi szakértői intézmény: a Kormány által jogszabályban alapított, az igazságügyért felelős miniszter (a továbbiakban: miniszter) által alapított, a miniszter és a Kormány más tagja által közösen alapított vagy a miniszterrel egyetértésben a Kormány más tagja által alapított központi költségvetési szerv, amelynek feladata jogszabályban meghatározott igazságügyi szakértői kirendelés teljesítése,
 - 7. igazságügyi szakértői testület: a miniszter rendeletében vagy más jogszabályban létrehozott, a létrehozó jogszabályban meghatározott szakkérdésben, bizottságként eljárva véleménynyilvánításra jogosult, jellemzően jogi személy,
 - 8. igazságügyi szakértői tevékenység: a jogszabályban meghatározott követelményeknek megfelelő igazságügyi szakértő, illetve az igazságügyi szakértő munkáját segítő egyéb személyek által, a kirendelő hatóság, bíróság, ügyészség, rendőrség (a továbbiakban együtt: hatóság) kirendelése vagy megbízás alapján, e törvény által meghatározott szervezeti keretek között, jellemzően szakértői díj ellenében végzett, a hatóság eljárásaiban különleges szakértelmet igénylő tény vagy egyéb körülmény megállapítását vagy megítélését elősegítő részcselekmények összessége, így különösen a szakvéleményhez szükséges vizsgálatok elvégzése, a szakvélemény előkészítése, elkészítése és előterjesztése, valamint a hatóság kérésére annak kiegészítése és az ezekkel összefüggő valamennyi részcselekmény,
-- 9. kirendelés: az igazságügyi szakértő eljárását megalapozó bírósági, közjegyzői, ügyészségi, rendőrségi vagy jogszabályban meghatározott más hatóság által meghozott döntés, amely minden esetben az igazságügyi szakértői tevékenység kifejtésére való felhívást tartalmazza, így különösen a polgári perrendtartásról szóló törvény szerinti végzés, a büntetőeljárásról szóló törvény szerinti határozat, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti végzés, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény szerinti határozat,
+- 9. kirendelés: az igazságügyi szakértő eljárását megalapozó bírósági, közjegyzői, ügyészségi, rendőrségi vagy jogszabályban meghatározott más hatóság által meghozott döntés, amely minden esetben az igazságügyi szakértői tevékenység kifejtésére való felhívást tartalmazza, így különösen a polgári perrendtartásról szóló törvény vagy a közigazgatási perrendtartásról szóló törvény szerinti végzés, a büntetőeljárásról szóló törvény szerinti határozat, az általános közigazgatási rendtartásról szóló törvény szerinti végzés, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény szerinti határozat,
 - 10. kompetenciavétség: az a fegyelmi vétség, amelyet az igazságügyi szakértő az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendeletben meghatározott rendelkezések megszegésével követ el,
 - 11. külön minősítéssel rendelkező igazságügyi szakértő: olyan igazságügyi szakértő, aki nemzetközi vagy hazai szakmai szervezet akkreditált minősítő testülete által létrehozott személyi szakmai minősítést szerzett, amely garantálja az adott szakterületen a kiemelkedő képzettséget és szakértelmet, illetve a szakmai tapasztalatot, a folyamatos szakmai fejlődést és függetlenséget,
 - 12. lelet: a szakvélemény részét képező tartalmi egység, amely a vizsgálat tárgyára, a vizsgálati eljárásokra és eszközökre, valamint a vizsgálat tárgyában bekövetkezett változásokra vonatkozó adatok összességét tartalmazza,
@@ -100,7 +106,7 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 (3) Nem vehető fel a névjegyzékbe az,
 
 - a) akivel szemben büntetőeljárás – a magánvád és a pótmagánvád esetét kivéve – van folyamatban,
-- b) akit a Kamarából kizártak, a kizárást kimondó határozat jogerőre emelkedésétől számított öt évig,
+- b) akit a Kamarából kizártak, a kizárást kimondó határozat véglegessé válásától számított öt évig,
 - c) aki a 13. § (2) bekezdésében foglaltak hatálya alatt áll vagy
 - d) aki a 67. § (5) bekezdésében foglaltak hatálya alatt áll.
 
@@ -123,22 +129,20 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 
 (5) Nem szükséges vizsgálni a kérelmező azon képesítésének egyenértékűségét, amely a miniszter rendeletében előírt képesítéssel a jogszabályok alapján egyértelműen nem egyenértékű.
 
-8. § (1) Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlati időt a névjegyzékbe történő felvételét kérő személy szakértőjelöltként is megszerezheti. Nem szakértőjelöltként megszerzett szakmai gyakorlati idő szakirányú jellegének igazolására – a (4) bekezdésben foglaltak kivételével – a névjegyzéket vezető hatóság szakhatósági állásfoglalást szerez be.
+8. § (1) Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlati időt a névjegyzékbe történő felvételét kérő személy szakértőjelöltként is megszerezheti.
 
-(2) Ha a szakhatóság az igazságügyi szakértői tevékenység folytatásához szükséges gyakorlati idő szakirányúságáról szóló állásfoglalását határidőben nem adja ki, a szakhatóság hozzájárulását nem lehet megadottnak tekinteni.
+(2) Nem szakértőjelöltként megszerzett szakmai gyakorlati idő szakirányú jellegét a névjegyzékbe történő felvételét kérő személy hatósági bizonyítvánnyal igazolja. A hatósági bizonyítvány a kiállításától számított egy éven belül használható fel.
 
-(3) Az eljárás megindítása előtt az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlat szakirányú jellegének igazolására beszerzett előzetes szakhatósági hozzájárulás a keltétől számított egy éven belül használható fel a névjegyzékbe-vételi eljárásban.
-
-(4) Ha a kérelemhez benyújtott iratok és a rendelkezésre álló adatok alapján a névjegyzéket vezető hatóság azt állapítja meg, hogy a kérelmező a névjegyzékbevétel feltételeinek kétséget kizáróan megfelel, a névjegyzéket vezető hatóság a szakhatóság megkeresését mellőzi, és a szakmai gyakorlati idő szakirányú jellegét maga állapíthatja meg.
-
-(5) A miniszter rendeletében az igazságügyi szakértői tevékenység folytatásához kötelező szakmai gyakorlat időtartamára egyes szakterületeken öt évnél rövidebb határidőt állapíthat meg, ha
+(3) A miniszter rendeletében az igazságügyi szakértői tevékenység folytatásához kötelező szakmai gyakorlat időtartamára egyes szakterületeken öt évnél rövidebb határidőt állapíthat meg, ha
 
 - a) a képesítés megszerzése már feltételezi az igazságügyi szakértői tevékenység végzéséhez szükséges szakmai gyakorlatot vagy
 - b) a kérelmező az adott szakterületen tudományos fokozattal vagy ágazati szakértői jogosultsággal rendelkezik.
 
-9. § (1) A névjegyzékbe történő felvétel iránti kérelmet a névjegyzéket vezető hatóságnál kell benyújtani. A névjegyzékbe történő felvétel iránti kérelem tartalmára vonatkozó szabályokat a Kormány rendeletben állapítja meg. Kérelem csak a miniszter rendeletében szereplő szakterületre nyújtható be.
+9. § (1) A névjegyzékbe történő felvétel iránti kérelem tartalmára vonatkozó szabályokat a Kormány rendeletben állapítja meg. Kérelem csak a miniszter rendeletében szereplő szakterületre nyújtható be.
 
 (2) A névjegyzéket vezető hatóság a kérelemről értesíti a Kamarát. A Kamara az eljárásban véleményezőként vesz részt. A Kamara az értesítés kézhezvételétől számított tizenöt napon belül jelzi, ha tudomása van olyan tényről, ami akadálya a kérelmező felvételének.
+
+(2a) A névjegyzéket vezető hatóság a hiánypótlásra legfeljebb harmincnapos határidőt állapíthat meg.
 
 (3) Ha a kérelmező a névjegyzékbe való felvételi kérelmét több szakterületre terjeszti elő, az egyes szakterületek vonatkozásában önálló hatósági döntést lehet hozni.
 
@@ -146,7 +150,7 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 
 (5) A névjegyzéket vezető hatóság az igazságügyi szakértőt e minőségének igazolására igazságügyi szakértői igazolvánnyal látja el. Az igazságügyi szakértői igazolványra vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
 
-(6) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérve, ha a névjegyzéket vezető hatóság a rá irányadó ügyintézési határidőn belül nem döntött, a kérelmezőt nem illeti meg az igazságügyi szakértői tevékenység megkezdésének, illetve folytatásának joga, és a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
+(6) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvénytől eltérve, ha a névjegyzéket vezető hatóság a rá irányadó ügyintézési határidőn belül nem döntött, a kérelmezőt nem illeti meg az igazságügyi szakértői tevékenység megkezdésének, illetve folytatásának joga, és az általános közigazgatási rendtartásról szóló törvénynek a hatóság mulasztására vonatkozó általános szabályait kell alkalmazni.
 
 10. § (1) Az igazságügyi szakértő a névjegyzékbe vételét követő két hónapon belül, a névjegyzéket vezető hatóság előtt esküt tesz.
 
@@ -162,7 +166,7 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 
 #### 5. A névjegyzék
 
-11. § (1) Az igazságügyi szakértő 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza. A névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás szabályait a miniszter rendeletben állapítja meg.
+11. § (1) Az igazságügyi szakértő 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza. A névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás szabályait a Kormány rendeletben állapítja meg.
 
 (2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1.–1.5., 1.7.–1.8., 1.11., 1.13., pontjában, valamint 1.18.1. és 1.18.2. alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -180,7 +184,7 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 
 #### 6. A szakterület kiterjesztése
 
-12. § A szakterület kiterjesztése iránti kérelem előterjesztésére, valamint elbírálására a felvétel iránti kérelemre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a kérelem benyújtásához a jogi vizsgát megismételni, valamint az 5. § (2) bekezdés g) pontjában és az 5. § (3) bekezdés a) pontjában megjelölt feltételeket igazolni nem kell.
+12. § A szakterület kiterjesztése iránti kérelem előterjesztésére, valamint elbírálására a felvétel iránti kérelemre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a kérelem benyújtásához a jogi vizsgát megismételni, valamint az 5. § (2) bekezdés g) pontjában és az 5. § (3) bekezdés a) pontjában megjelölt feltételeket igazolni nem kell. A szakterület kiterjesztése iránti kérelem kormányablaknál nem terjeszthető elő.
 
 #### 7. A névjegyzékből való törlés
 
@@ -204,9 +208,9 @@ megszűnt, vagy
 
 (2) Ha a névjegyzékből történő törlésre
 
-- a) az (1) bekezdés h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított öt éven belül,
-- b) az (1) bekezdés d) és f) pontja alapján kerül sor, az igazságügyi szakértő a határozat jogerőre emelkedésétől számított két éven belül vagy
-- c) az (1) bekezdés c), e) és g) pontja, vagy h) pontjának hb), és hc) alpontjai alapján kerül sor, a határozat jogerőre emelkedésétől számított egy éven belül
+- a) az (1) bekezdés h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat véglegessé válásától számított öt éven belül,
+- b) az (1) bekezdés d) és f) pontja alapján kerül sor, az igazságügyi szakértő a határozat véglegessé válásától számított két éven belül vagy
+- c) az (1) bekezdés c), e) és g) pontja, vagy h) pontjának hb), és hc) alpontjai alapján kerül sor, a határozat véglegessé válásától számított egy éven belül
 
 a névjegyzékbe nem vehető fel.
 
@@ -249,7 +253,7 @@ tartja nyilván, illetve kezeli.
 
 (2) Az értékelés célja az igazságügyi szakértő munkájának elfogulatlan megítélése, a teljesítményét befolyásoló ismeretek, képességek és személyiségjegyek feltárása, ezáltal a szakmai fejlődésének az elősegítése.
 
-(3) Az értékelést megalapozó vizsgálatnak – alapvetően a jogerősen befejezett ügyek alapján – fel kell tárnia az igazságügyi szakértő gyakorlatát, különös tekintettel arra, hogy
+(3) Az értékelést megalapozó vizsgálatnak – alapvetően a jogerősen befejezett vagy véglegessé vált döntéssel lezárt ügyek alapján – fel kell tárnia az igazságügyi szakértő gyakorlatát, különös tekintettel arra, hogy
 
 - a) a szakvélemény előkészítése, elkészítése, valamint előterjesztése a vonatkozó jogszabályoknak megfelelt-e,
 - b) az igazságügyi szakértő a jogszabályok és a hatóság által előírt határidőket és az ügyviteli, valamint adatkezelési szabályokat megtartotta-e,
@@ -279,11 +283,11 @@ tartja nyilván, illetve kezeli.
 
 (3) Az értékelést megalapozó vizsgálatról a jegyzőkönyvet a főtitkár által kijelölt jegyzőkönyvvezető vezeti.
 
-(4) Az értékelést megalapozó vizsgálat lefolytatásának elrendelését az igazságügyi szakértővel írásban kell közölni. A közlésnek tartalmaznia kell a szakmai értékelő tanács személyi összetételét is, amellyel szemben az igazságügyi szakértő a közlés átvételétől számított tizenöt napon belül kifogást nyújthat be a minőségbiztosítási bizottság elnökéhez. A kifogásról a minőségbiztosítási bizottság elnöke tizenöt napon belül indokolt határozatot hoz.
+(4) Az értékelést megalapozó vizsgálat lefolytatásának elrendelését az igazságügyi szakértővel írásban kell közölni. A közlésnek tartalmaznia kell a szakmai értékelő tanács személyi összetételét is, amellyel szemben az igazságügyi szakértő a közlés átvételétől számított tizenöt napon belül kifogást nyújthat be a minőségbiztosítási bizottság elnökéhez. A kifogásról a minőségbiztosítási bizottság elnöke tizenöt napon belül indokolt végzést hoz.
 
-(5) A minőségbiztosítási bizottság elnökének határozatával szemben az igazságügyi szakértő harminc napon belül bírósági jogorvoslat iránti kérelmet nyújthat be.
+(5) A minőségbiztosítási bizottság elnökének (4) bekezdés szerinti végzését az igazságügyi szakértő közigazgatási perben megtámadhatja.
 
-(6) A bíróság az (5) bekezdés alapján benyújtott kérelmet nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(6)
 
 20. § (1) Az értékelést megalapozó vizsgálatot az elrendeléstől számított harminc napon belül le kell folytatni, és az értékelést a befejezéstől számított tizenöt napon belül kell elvégezni.
 
@@ -325,17 +329,7 @@ minősítést kap.
 
 (7) A főtitkárt – a szakmai értékelő tanács elnökével való egyetértés esetén – feljelentési kötelezettség terheli.
 
-22. § (1) A minőségbiztosítási bizottság határozatával szemben fellebbezésnek helye nincs.
-
-(2) Az alkalmatlan értékelést kapott igazságügyi szakértő a minőségbiztosítási bizottság határozatának és az értékelésnek a kézhezvételétől számított harminc napon belül bírósági jogorvoslat iránt – jogszabálysértésre hivatkozással – keresetet nyújthat be. A keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya nincs.
-
-(3) A keresetlevelet a Kamarához kell benyújtani. A Kamara a keresetlevelet az ügy irataival együtt nyolc napon belül továbbítja az eljáró bírósághoz.
-
-(4) A kereset benyújtásáról a Kamara értesíti a névjegyzéket vezető hatóságot.
-
-(5) A bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
-
-(6) A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+22. § Ha az alkalmatlan minősítést tartalmazó értékelést kapott igazságügyi szakértő a minőségbiztosítási bizottság határozatát közigazgatási perben megtámadja, erről a Kamara a keresetlevél továbbításával egyidejűleg értesíti a névjegyzéket vezető hatóságot.
 
 ### III. Fejezet — AZ IGAZSÁGÜGYI SZAKÉRTŐI TEVÉKENYSÉGET VÉGZŐ TÁRSASÁG
 
@@ -448,7 +442,7 @@ minősítést kap.
 
 (2) A jogi személy igazságügyi szakértői testület a vagyonával önállóan gazdálkodik, üzletszerű gazdasági tevékenységet csak a feladatai ellátásához vagy ahhoz közvetlenül kapcsolódó mértékben folytathat. Az igazságügyi szakértői testület tartozásaiért a saját vagyonával felel, a tagok az igazságügyi szakértői testület tartozásaiért saját vagyonukkal nem felelnek.
 
-(3) Az igazságügyi szakértői testület jogi személy. Nem jogi személy az igazságügyi szakértői testület akkor, ha a gazdálkodása a miniszter rendeletében vagy más jogszabályban szabályozott egyéb módon is biztosított.
+(3) Az igazságügyi szakértői testület jogi személy, amelyet a bíróság nyilvántartásba vesz. Nem jogi személy az igazságügyi szakértői testület akkor, ha a gazdálkodása a miniszter rendeletében vagy más jogszabályban szabályozott egyéb módon is biztosított.
 
 36. § (1) Az igazságügyi szakértői testület tagja olyan szakirányú egyetemi végzettséggel rendelkező személy lehet, aki
 
@@ -512,7 +506,7 @@ minősítést kap.
 
 (4) Az (1) bekezdés alkalmazásában befejezettnek minősül a kirendelés vagy megbízás, ha
 
-- a) a szakértői tevékenységért járó díj a szakértői megbízás vagy kirendelés teljesítését követően jogerős díjmegállapító végzéssel megállapításra és megfizetésre kerül,
+- a) a szakértői tevékenységért járó díj a szakértői megbízás vagy kirendelés teljesítését követően jogerős vagy véglegessé vált díjmegállapító végzéssel megállapításra és megfizetésre kerül,
 - b) a szakértőt a hatóság a kirendelés alól felmenti vagy a kirendelés alapját képező ügyből kizárja,
 - c) az igazságügyi szakértő kamarai tagsága szünetel vagy azt felfüggesztik, a szünetelés vagy felfüggesztés kezdő napján vagy
 - d) a megbízás külön jogszabályban foglaltak alapján megszűnik.
@@ -628,9 +622,9 @@ minősítést kap.
 
 (3) A hatóság a szakértő díját – a szakértő által benyújtott díjjegyzék alapulvételével – a szakvélemény beérkeztét, illetve a szakértő meghallgatása esetében a meghallgatását követően, de legkésőbb harminc napon belül köteles megállapítani.
 
-(4) A hatóság a jogerős döntéssel megállapított szakértői díjat (költségelőleg fizetése esetén annak a kifizetett költségelőleggel csökkentett összegét) az eljáró szakértő által a díjmegállapító döntés jogerőre emelkedését követően a hatóság nevére kiállított, és a hatóság vagy a hatóság gazdasági szervezeti eleméhez benyújtott számla alapján, a számla kézhezvételétől számított harminc napon belül köteles kifizetni. A díjmegállapító döntés jogerőre emelkedésének nem feltétele, hogy azt a hatóság jogerősítő záradékkal lássa el.
+(4) A hatóság a jogerős vagy véglegessé vált döntéssel megállapított szakértői díjat (költségelőleg fizetése esetén annak a kifizetett költségelőleggel csökkentett összegét) az eljáró szakértő által a díjmegállapító döntés jogerőre emelkedését vagy véglegessé válását követően a hatóság nevére kiállított, és a hatóság vagy a hatóság gazdasági szervezeti eleméhez benyújtott számla alapján, a számla kézhezvételétől számított harminc napon belül köteles kifizetni. A díjmegállapító döntés jogerőre emelkedésének vagy véglegessé válásának nem feltétele, hogy azt a hatóság jogerősítő vagy véglegesítő záradékkal lássa el.
 
-(5) A szakértői díj késedelmes kifizetése esetén a szakértőt a Polgári Törvénykönyv szerinti késedelmi kamat illeti meg. A számla kiállítására nem köteles szakértő részére a szakértői díjat (költségelőleg fizetése esetén annak a kifizetett költségelőleggel csökkentett összegét) – a döntés jogerőre emelkedésének időpontjától számított harminc napon belül – átvételi elismervény ellenében, vagy a szakértő által meghatározott bankszámlára történő átutalással kell megfizetni.
+(5) A szakértői díj késedelmes kifizetése esetén a szakértőt a Polgári Törvénykönyv szerinti késedelmi kamat illeti meg. A számla kiállítására nem köteles szakértő részére a szakértői díjat (költségelőleg fizetése esetén annak a kifizetett költségelőleggel csökkentett összegét) – a döntés jogerőre emelkedésének vagy véglegessé válásának időpontjától számított harminc napon belül – átvételi elismervény ellenében, vagy a szakértő által meghatározott bankszámlára történő átutalással kell megfizetni.
 
 50. § (1) A szakértőt kérelmére várható költségének ötven százalékáig terjedő összegű, de legfeljebb százötvenezer forint költségelőleg illeti meg.
 
@@ -644,7 +638,7 @@ minősítést kap.
 
 (6) Ha a szakértőt a hatóság a kirendelés alól bármely okból felmenti, az erről szóló döntésben – ha a költségelőleg megfizetésre került – a szakértőt a költségelőleg visszafizetésére is kötelezi.
 
-(7) Ha a jogerősen megállapított szakértői díj nem éri el a költségelőleget, a hatóság a különbözet visszafizetésére külön döntésben kötelezi a szakértőt.
+(7) Ha a jogerősen vagy véglegesen megállapított szakértői díj nem éri el a költségelőleget, a hatóság a különbözet visszafizetésére külön döntésben kötelezi a szakértőt.
 
 #### 23. A kamarai költségátalány
 
@@ -707,7 +701,7 @@ minősítést kap.
 
 (3) A névjegyzéket vezető hatóság az (1) bekezdés a)–c), e) és f) pontja szerinti bejelentést a névjegyzékbe bejegyzi. Amennyiben az igazságügyi szakértő tevékenységével kapcsolatban két éven belül az (1) bekezdés a)–c), e) és f) pontja szerinti hatósági bejelentés három alkalommal érkezik, a névjegyzéket vezető hatóság az igazságügyi szakértő munkájának értékelését kezdeményezi a 18. § (2) bekezdése szerint a Kamara minőségbiztosítási bizottságánál.
 
-56. § (1) A hatóság a szakértő számára köteles megküldeni az ügy érdemében hozott jogerős döntés másolati példányát. Az iratok megküldésének kötelezettsége a hatóságot akkor is terheli, ha a szakértő szakvéleményét a bizonyítékok köréből alkalmatlanság vagy más ok miatt kirekesztette.
+56. § (1) A hatóság a szakértő számára köteles megküldeni az ügy érdemében hozott jogerős vagy véglegessé vált döntés másolati példányát. Az iratok megküldésének kötelezettsége a hatóságot akkor is terheli, ha a szakértő szakvéleményét a bizonyítékok köréből alkalmatlanság vagy más ok miatt kirekesztette.
 
 (2) Ha a szakértő az elektronikus kapcsolattartást vállalta, a hatóság az ügy érdemében hozott döntés másolati példányát elektronikus úton küldi meg a szakértő részére.
 
@@ -736,7 +730,7 @@ minősítést kap.
 
 (4) A szakértőjelölt szakterületének megfelelő képesítéssel akkor rendelkezik, ha az igazságügyi szakértők szakterületéhez kapcsolódó képesítési és egyéb feltételeket teljesíti.
 
-(5) A szakértőjelölt kérelmére a Kamara a szakértőjelölti minőség igazolására igazgatási szolgáltatási díj ellenében tizenöt napon belül szakértőjelölti igazolványt állít ki, amelynek tartalmát a miniszter rendeletben állapítja meg. A Kamara az igazolványt akkor állítja ki, ha a szakértőjelölt a kérelemhez csatolta a munkája feletti szakértői felügyelet alapjául szolgáló jogviszonyról szóló iratokat.
+(5) A szakértőjelölt kérelmére a Kamara a szakértőjelölti minőség igazolására igazgatási szolgáltatási díj ellenében tizenöt napon belül szakértőjelölti igazolványt állít ki, amelynek tartalmát a miniszter rendeletben állapítja meg. A Kamara az igazolványt akkor állítja ki, ha a szakértőjelölt a kérelemhez csatolta a munkája feletti szakértői felügyelet alapjául szolgáló jogviszonyról szóló iratok másolatát, és az arra vonatkozó nyilatkozatát, hogy azok az eredetivel mindenben megegyeznek.
 
 (6) A szakértőjelöltek nyilvántartása a 3. melléklet 1.1.–1.5., 1.7.–1.8., és 1.11.–1.12. pontjaiban, valamint 1.15. pontjában foglalt adatok kivételével közhiteles nyilvántartás. A szakértőjelöltekre vonatkozó adatok közül a Kamara honlapján közzéteszi a 3. melléklet 1.1. pontjában, valamint 1.6.–1.10. pontjaiban és 1.16. pontjában foglalt adatokat.
 
@@ -789,7 +783,7 @@ minősítést kap.
 
 #### 30. A Kamarai hatósági ügyek eljárási szabályai
 
-63. § (1) A Kamara a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el – az e §-ban foglalt eltérésekkel – a következő ügyekben:
+63. § (1) A Kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el – az e §-ban foglalt kiegészítésekkel és eltérésekkel – a következő ügyekben:
 
 - a) felvétel a szakértőjelölti nyilvántartásba, törlés a nyilvántartásból,
 - b) szakértőjelölti igazolvány kiállítása,
@@ -797,11 +791,11 @@ minősítést kap.
 - d) a kamarai tagság 68. § (1) bekezdésében meghatározott szüneteltetésének engedélyezése és
 - e) a kamarai tagság 69. § (1) bekezdésében meghatározott okból történő felfüggesztése.
 
-(2) A Kamara döntései ellen – ha e törvény eltérően nem rendelkezik – fellebbezésnek helye nincs.
+(2) A Kamara döntései ellen az e törvényben meghatározott esetekben fellebbezésnek van helye.
 
-(3) A kamarai tagság megszüntetése iránti eljárást hivatalból meg kell indítani, ha a Kamara törlési okról tudomást szerez. A Kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra hívhatja fel.
+(3) A kamarai tagság megszüntetése iránti eljárást hivatalból meg kell indítani, ha a Kamara törlési okról tudomást szerez.
 
-(4) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Kamara a kérelem beérkezésétől számított tizenöt napon belül – megfelelő határidő megjelölése és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
+(4) A Kamara hiánypótlásra felhívást a kérelem beérkezésétől számított nyolc napon belül bocsáthat ki, amelyben legfeljebb harmincnapos határidőt adhat a hiánypótlás teljesítésére.
 
 (5) A Kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül a közigazgatási hatósági ügynek.
 
@@ -809,7 +803,7 @@ minősítést kap.
 
 #### 31. A kamarai tagság keletkezése
 
-64. § Az igazságügyi szakértő a névjegyzéket vezető hatóság által a névjegyzékbe történő felvételével, a határozat jogerőre emelkedésének napján e törvény erejénél fogva a Kamara tagjává válik.
+64. § Az igazságügyi szakértő a névjegyzéket vezető hatóság által a névjegyzékbe történő felvételével, a határozat véglegessé válása napján e törvény erejénél fogva a Kamara tagjává válik.
 
 #### 32. A kamarai tag jogai és kötelességei
 
@@ -849,13 +843,13 @@ minősítést kap.
 
 67. § (1) A kamarai tagdíjfizetés részletes szabályait – ide nem értve a kamarai tagdíj legalacsonyabb mértékét – az alapszabály állapítja meg.
 
-(2) Az igazságügyi szakértő kamarai tagságát a 66. § (2) bekezdés c) pontja alapján az elnökség szünteti meg. A kamarai tagság az erről szóló határozat jogerőre emelkedésének napján szűnik meg.
+(2) Az igazságügyi szakértő kamarai tagságát a 66. § (2) bekezdés c) pontja alapján az elnökség szünteti meg. A kamarai tagság az erről szóló határozat véglegessé válása napján szűnik meg.
 
 (3) Ha az igazságügyi szakértő keresetében arra hivatkozik, hogy tagdíjfizetési kötelezettségének önhibáján kívül nem tett eleget, egyidejűleg mulasztását kimenti és a tagdíj befizetését igazolja, a kereset megérkezésekor az elnökség haladéktalanul intézkedik a határozata felülvizsgálatáról. Ha az elnökség annak helyt ad, a kamarai tagság megszűnését megállapító határozatát visszavonja.
 
-(4) Az elnökség a jogerős határozatát megküldi a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az igazságügyi szakértőt a miniszter rendeletében meghatározott eljárás keretében törli a névjegyzékből.
+(4) Az elnökség a véglegessé vált határozatát megküldi a névjegyzéket vezető hatóságnak. A névjegyzéket vezető hatóság az igazságügyi szakértőt a miniszter rendeletében meghatározott eljárás keretében törli a névjegyzékből.
 
-(5) Ha az igazságügyi szakértő kamarai tagsága a 66. § (2) bekezdés c) pontjában meghatározott okból szűnik meg, a megszűnést megállapító határozat jogerőre emelkedésétől számított egy évig ennek hatálya alatt áll.
+(5) Ha az igazságügyi szakértő kamarai tagsága a 66. § (2) bekezdés c) pontjában meghatározott okból szűnik meg, a megszűnést megállapító határozat véglegessé válásától számított egy évig ennek hatálya alatt áll.
 
 #### 34. A kamarai tagság szünetelése
 
@@ -863,13 +857,13 @@ minősítést kap.
 
 (2) Az igazságügyi szakértő a szünetelés alatt igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt szakértőként nem járhat el, az e törvényből és a kamarai tagságból eredő jogai és kötelezettségei szünetelnek. A kamarai tagság szünetelésének ténye a 45. § (4) bekezdés c) pontja szerinti akadálynak minősül.
 
-(3) Az igazságügyi szakértő részére a szünetelés a jövőre nézve engedélyezhető. A szünetelés időtartama legfeljebb a szünetelést engedélyező kamarai határozat jogerőre emelkedésétől számított két év, amely indokolt esetben évente meghosszabbítható. A meghosszabbított szünetelés időtartama az öt évet nem haladhatja meg.
+(3) Az igazságügyi szakértő részére a szünetelés a jövőre nézve engedélyezhető. A szünetelés időtartama legfeljebb a szünetelést engedélyező kamarai határozat véglegessé válásától számított két év, amely indokolt esetben évente meghosszabbítható. A meghosszabbított szünetelés időtartama az öt évet nem haladhatja meg.
 
 (4) A Kamara a szünetelés iránti kérelemről harminc napon belül határoz. A Kamara a szünetelés tárgyában meghozott határozatot, a határozat meghozatalától számított tizenöt napon belül megküldi a névjegyzéket vezető hatóságnak.
 
-(5) A kamarai tagságát szüneteltető igazságügyi szakértő a szünetelést engedélyező határozatban foglaltaktól eltérően, a szünetelés időtartamának lejárta előtt kérheti a szünetelés megszüntetését. A szünetelés visszavonását kérelmező igazságügyi szakértő a szünetelés visszavonását megállapító határozat jogerőre emelkedéséig igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt szakértőként nem járhat el, a kamarai tagságából eredő jogai és kötelezettségei szünetelnek.
+(5) A kamarai tagságát szüneteltető igazságügyi szakértő a szünetelést engedélyező határozatban foglaltaktól eltérően, a szünetelés időtartamának lejárta előtt kérheti a szünetelés megszüntetését. A szünetelés visszavonását kérelmező igazságügyi szakértő a szünetelés visszavonását megállapító határozat véglegessé válásáig igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt szakértőként nem járhat el, a kamarai tagságából eredő jogai és kötelezettségei szünetelnek.
 
-(6) A Kamara a jogerős határozatot megküldi a névjegyzéket vezető hatóságnak a névjegyzékbe történő bejegyzés céljából. A Kamara a szünetelés visszavonása tárgyában meghozott határozatot, a határozat meghozatalától számított tizenöt napon belül megküldi a névjegyzéket vezető hatóságnak. A szünetelés engedélyezésének és visszavonásának részletes szabályairól az alapszabály rendelkezik.
+(6) A Kamara a véglegessé vált határozatot megküldi a névjegyzéket vezető hatóságnak a névjegyzékbe történő bejegyzés céljából. A Kamara a szünetelés visszavonása tárgyában meghozott határozatot, a határozat meghozatalától számított tizenöt napon belül megküldi a névjegyzéket vezető hatóságnak. A szünetelés engedélyezésének és visszavonásának részletes szabályairól az alapszabály rendelkezik.
 
 (7) A Kamara engedélye nem szükséges a kamarai tagságnak
 
@@ -892,7 +886,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 (4) A felfüggesztés az (1) bekezdés a) pontja esetében az eljárás jogerős befejezéséig, az (1) bekezdés b) pontja esetében pedig addig tart, amíg a szakértő szakmai kamarai tagsága felfüggesztése hatálya alatt áll.
 
-(5) Ha a Kamara határozatában nem dönt az igazságügyi szakértő felfüggesztéséről, a miniszter a határozat kézbesítésétől számított harminc napon belül bírósághoz fordulhat.
+(5) Ha a Kamara határozatában nem dönt az igazságügyi szakértő felfüggesztéséről, a miniszter a közigazgatási ügyben eljáró bírósághoz fordulhat.
 
 (6) Az igazságügyi szakértő a felfüggesztés időtartama alatt igazságügyi szakértői tevékenységet nem végezhet, hatóság előtt nem járhat el, az e törvényből és a kamarai tagságból eredő jogai és kötelezettségei szünetelnek.
 
@@ -962,11 +956,11 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 (7) A szavazásra rendelkezésre álló határidő utolsó napját követő öt napon belül az elnökség megállapítja a szavazás érvényességét és eredményét, és azt további öt napon belül közli a Kamara tagjaival. A határozathozatal napja a szavazási határidő utolsó napja.
 
-74. § (1) A 71. § (3) bekezdés a) pontjában meghatározott esetben a határozattal érintett kamarai tag jogszabálysértésre hivatkozással, bírósági jogorvoslat iránt kérelmet nyújthat be. A küldöttek legalább egyharmada a küldöttgyűlés által meghozott egyéb határozattal szemben jogszabálysértésre hivatkozással – a (2) bekezdésben foglalt kivétellel – harminc napon belül bírósági jogorvoslat iránt kérelmet nyújthat be. A kérelem benyújtásával egyidejűleg a névjegyzéket vezető hatóságot értesíteni kell.
+74. § (1) A küldöttgyűlés által meghozott határozatot a 71. § (3) bekezdés a) pontja esetében a szavazásban részt vett küldött, a küldöttgyűlés egyéb határozata esetében a küldöttek legalább egyharmada közigazgatási perben támadhatja meg. A Kamara a keresetlevél benyújtásáról a továbbításával egyidejűleg értesíti a névjegyzéket vezető hatóságot.
 
-(2) Az alapszabály elfogadása vagy módosítása tárgyában meghozott határozattal szemben a küldöttek legalább tizenöt százaléka a törvényességi felügyeletet gyakorló miniszter felé jelzéssel élhet. Az alapszabály elfogadása vagy módosítása tárgyában hozott határozat bírói úton kizárólag a törvényességi felügyeleti intézkedés elmaradása esetén támadható, ennek tényét a kérelem benyújtásával egyidejűleg igazolni kell.
+(2) Az alapszabály elfogadása vagy módosítása tárgyában meghozott határozattal szemben a küldöttek legalább tizenöt százaléka a törvényességi felügyeletet gyakorló miniszter felé jelzéssel élhet. Az alapszabály elfogadása vagy módosítása tárgyában hozott határozat bírói úton kizárólag a törvényességi felügyeleti intézkedés elmaradása esetén támadható, ennek tényét a keresetlevél benyújtásával egyidejűleg igazolni kell.
 
-(3) A bíróság az (1) bekezdés alapján benyújtott kérelmet nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(3)
 
 #### 38. Az elnökség
 
@@ -1007,9 +1001,9 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 (2) Az elnökség által előkészített és elfogadott szabályzatokat a Kamara honlapján közzé kell tenni. Az elnökség által előkészített és elfogadott szabályzatok – a szabályzat eltérő rendelkezése hiányában – a Kamara honlapján történő közzétételt követő harmincadik napon lépnek hatályba.
 
-(3) Az (1) bekezdés j) és k) pontjában meghatározott esetben a határozattal érintett kamarai tag jogszabálysértésre hivatkozással, bírósági jogorvoslat iránt kérelmet nyújthat be. Az (1) bekezdés c), e), g) és n) pontjában meghatározott esetben a kamarai tagok legalább egynegyede jogszabálysértésre hivatkozással kezdeményezheti, hogy az elnökség határozatát vagy szabályzatát a küldöttgyűlés tárgyalja meg. A küldöttgyűlés az elnökség határozatának vagy szabályzatának vizsgálatát követően legalább kétharmados többséggel az elnökség határozatát vagy szabályzatát hatályon kívül helyezheti és az elnökséget új határozat vagy szabályzat meghozatalára utasíthatja. Az (1) bekezdés i) pontjában meghatározott esetben a tagok részére a feladat jellegétől függő megfelelő jogorvoslat áll rendelkezésére.
+(3) Az (1) bekezdés c), e), g) és n) pontjában meghatározott esetben a kamarai tagok legalább egynegyede jogszabálysértésre hivatkozással kezdeményezheti, hogy az elnökség határozatát vagy szabályzatát a küldöttgyűlés tárgyalja meg. A küldöttgyűlés az elnökség határozatának vagy szabályzatának vizsgálatát követően legalább kétharmados többséggel az elnökség határozatát vagy szabályzatát hatályon kívül helyezheti és az elnökséget új határozat vagy szabályzat meghozatalára utasíthatja. Az (1) bekezdés i) pontjában meghatározott esetben a tagok részére a feladat jellegétől függő megfelelő jogorvoslat áll rendelkezésére.
 
-(4) A bíróság a (3) bekezdés szerinti kérelmet nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(4)
 
 77. § (1) A Kamara elnöke
 
@@ -1210,7 +1204,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 (4) A (2) bekezdés b) pontja szerinti etikai vétségek fegyelmi vétségnek történő minősítéséről a fegyelmi tanács, a fegyelmi eljárás előkészítése során határoz. A fegyelmi tanács által meghozott határozat ellen a 126. §-ban meghatározottak szerinti bírósági jogorvoslatnak van helye.
 
-(5) A fegyelmi eljárás során szakmai szempontból nem vizsgálható az a szakvélemény, amelyet a hatóság jogerős határozatának meghozatala során elfogadott.
+(5) A fegyelmi eljárás során szakmai szempontból nem vizsgálható az a szakvélemény, amelyet a hatóság jogerős vagy véglegessé vált határozatának meghozatala során elfogadott.
 
 #### 50. Fegyelmi büntetések
 
@@ -1299,9 +1293,9 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 hoz határozatot, és azt kézbesíti a fegyelmi eljárás alá vont igazságügyi szakértőnek és a kizárási indítvánnyal érintett személynek. A kizárási indítványt tizenöt napon belül el kell bírálni.
 
-(6) A kizárási indítványt elutasító határozat ellen a Kamara elnöke vagy az eljárás alá vont igazságügyi szakértő bírósági jogorvoslat iránti kérelmet nyújthat be a határozat kézbesítésétől számított harminc napon belül.
+(6) A kizárási indítványt elutasító döntést a Kamara elnöke vagy az eljárás alá vont igazságügyi szakértő közigazgatási perben támadhatja meg.
 
-(7) A (6) bekezdés szerinti kérelmet a bíróság nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(7)
 
 101. § (1) Ha a fegyelmi tanács határozatképtelenné válik, a fegyelmi bizottság elnöke új fegyelmi tanácsot jelöl ki. A fegyelmi bizottság elnökének kizárása esetén az elnökség jelöli ki az új fegyelmi tanácsot.
 
@@ -1399,17 +1393,17 @@ hoz határozatot, és azt kézbesíti a fegyelmi eljárás alá vont igazságüg
 
 (3) Ha a kérelem megfelel a törvény rendelkezéseinek, továbbá ha a kezdeményező a kérelem hiányait a megadott határidőben pótolta, a fegyelmi bizottság elnöke határozattal kijelöli az eljáró fegyelmi tanácsot. A határozatot kézbesíteni kell a kezdeményezőnek és a fegyelmi eljárás alá vont igazságügyi szakértőnek; a fegyelmi eljárás alá vont igazságügyi szakértő példányához a kérelmet és annak mellékleteit is csatolni kell.
 
-109. § (1) A fegyelmi bizottság elnöke a kérelmet – fegyelmi tanács kijelölése nélkül – határozattal elutasítja, ha
+109. § (1) A fegyelmi bizottság elnöke a kérelmet – fegyelmi tanács kijelölése nélkül – végzéssel elutasítja, ha
 
 - a) az abban megjelölt személy nem igazságügyi szakértő,
 - b) a kezdeményező az erre irányuló felhívás ellenére a megadott határidőben a kérelemnek a felhívásban megjelölt hiányait nem pótolta vagy
 - c) a bejelentő az erre irányuló felhívás ellenére a megadott határidőben a fegyelmi eljárási díjat nem fizette meg.
 
-(2) A fegyelmi eljárást kezdeményező kérelmet elutasító határozatot kézbesíteni kell a kezdeményezőnek és a fegyelmi eljárással érintett igazságügyi szakértőnek; a fegyelmi eljárással érintett igazságügyi szakértő példányához a kérelmet és annak mellékleteit is csatolni kell.
+(2) A fegyelmi eljárást kezdeményező kérelmet elutasító végzést kézbesíteni kell a kezdeményezőnek és a fegyelmi eljárással érintett igazságügyi szakértőnek; a fegyelmi eljárással érintett igazságügyi szakértő példányához a kérelmet és annak mellékleteit is csatolni kell.
 
-(3) A fegyelmi eljárást kezdeményező kérelmet az (1) bekezdés alapján elutasító határozat ellen a kezdeményező bírósági jogorvoslat iránti kérelmet nyújthat be a határozat meghozatalától számított tizenöt napon belül.
+(3) A fegyelmi eljárást kezdeményező kérelmet az (1) bekezdés alapján elutasító végzés ellen a kezdeményező közigazgatási pert indíthat a végzés közlésétől számított tizenöt napon belül.
 
-(4) A (3) bekezdés szerinti kérelmet a bíróság nemperes eljárásban bírálja el. Ha e törvényből vagy az eljárás nemperes jellegéből más nem következik, a bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni. Az eljárásra a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(4)
 
 #### 60. A fegyelmi eljárás előkészítése
 
@@ -1442,7 +1436,7 @@ csökkennek.
 
 (3) Ha a fegyelmi tanács úgy ítéli meg, hogy az ügy különösen bonyolult volta miatt a (2) bekezdés alkalmazása a tényállás helyes megállapítását akadályozná, indokolt határozatával a (2) bekezdés rendelkezéseinek alkalmazását mellőzheti. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének és a névjegyzéket vezető hatóságnak.
 
-112. § Ha a cselekmény – amely miatt a kezdeményező szerint fegyelmi vétség elkövetésével gyanúsítható a fegyelmi eljárás alá vont igazságügyi szakértő – folyamatban lévő bírósági vagy más hatósági eljárást érint, a fegyelmi tanács a fegyelmi eljárást annak megindításával egyidejűleg határozattal felfüggeszti a bíróság vagy más hatóság határozatának jogerőre emelkedéséig. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.
+112. § Ha a cselekmény – amely miatt a kezdeményező szerint fegyelmi vétség elkövetésével gyanúsítható a fegyelmi eljárás alá vont igazságügyi szakértő – folyamatban lévő bírósági vagy más hatósági eljárást érint, a fegyelmi tanács a fegyelmi eljárást annak megindításával egyidejűleg határozattal felfüggeszti a bíróság vagy más hatóság határozatának jogerőre emelkedéséig vagy véglegessé válásáig. A határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek, a Kamara elnökének, a névjegyzéket vezető hatóságnak és a kezdeményezőnek.
 
 #### 62. Fegyelmi vizsgálat
 
@@ -1582,7 +1576,7 @@ csökkennek.
 
 123. § (1) Ha a fegyelmi bizottság elnöke vagy a fegyelmi tanács megállapítja, hogy a miniszter által meg nem vizsgált vagy a bíróság által el nem bírált határozata jogszabályt, alapszabályt vagy kamarai szabályzatot sért, a határozatát módosítja vagy visszavonja. A határozatot annak kell kézbesíteni, akinek a módosított vagy visszavont határozatot kézbesítették.
 
-(2) Az (1) bekezdés szerinti eljárás lefolytatására, ha törvény eltérően nem rendelkezik, a fegyelmi bizottság elnöke vagy a fegyelmi tanács csak egy alkalommal, a határozat jogerőre emelkedésétől számított egy éven belül jogosult. Ha a határozatot bírósági eljárásban vizsgálják, a fegyelmi bizottság elnöke vagy a fegyelmi tanács az érdemi ellenkérelem előterjesztéséig módosíthatja vagy vonhatja vissza határozatát.
+(2) Az (1) bekezdés szerinti eljárás lefolytatására, ha törvény eltérően nem rendelkezik, a fegyelmi bizottság elnöke vagy a fegyelmi tanács csak egy alkalommal, a határozat jogerőre emelkedésétől számított egy éven belül jogosult.
 
 #### 70. A határozat jogereje és végrehajthatósága
 
@@ -1592,40 +1586,32 @@ csökkennek.
 
 #### 71. A határozatok kézbesítése
 
-125. § A fegyelmi eljárásban meghozott határozatokat a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint kell kézbesíteni azzal, hogy a kézbesítési vélelem
+125. § A fegyelmi eljárásban meghozott határozatokat az általános közigazgatási rendtartásról szóló törvény szerint kell kézbesíteni azzal, hogy a kézbesítettnek tekintettséggel szemben
 
-- a) a vélelem beálltáról történő tudomásszerzéstől számított nyolc napon belül, de legkésőbb a kézbesítési vélelem beálltától számított harminc napon belül és
+- a) a kézbesítettnek tekintettségről történő tudomásszerzéstől számított nyolc napon belül, de legkésőbb a kézbesítettnek tekintettségtől számított harminc napon belül és
 - b) kizárólag a hivatalos iratokra vonatkozó kézbesítési szabályok megsértésére hivatkozással
 
-dönthető meg.
+terjeszthető elő kifogás.
 
 #### 72. Jogorvoslat a fegyelmi eljárásban
 
-126. § (1) A fegyelmi tanács által hozott határozattal szemben fellebbezésnek helye nincs.
-
-(2) A fegyelmi tanács által hozott érdemi határozat ellen
+126. § (1) A fegyelmi tanács által hozott érdemi határozat ellen
 
 - a) a fegyelmi eljárás alá vont igazságügyi szakértő és képviselője,
-- b) a kezdeményező és
+- b) a kezdeményező vagy
 - c) a Kamara elnöke
 
-a kézbesítéstől számított harminc napon belül, bírósági jogorvoslat iránti kérelmet nyújthat be. A keresetlevél benyújtásának a határozat végrehajtására halasztó hatálya nincs. A keresetlevelet a Kamarához kell benyújtani. A Kamara a keresetlevelet az ügy irataival együtt nyolc napon belül továbbítja az eljáró bírósághoz.
+keresetlevelet nyújthat be.
 
-(3) A jelen § alkalmazásában érdemi határozatnak minősül a fegyelmi tanácsnak az eljárás megindítását megtagadó, az eljárást megszüntető, a fegyelmi eljárás alá vont igazságügyi szakértő felelősségét megállapító vagy a fegyelmi eljárás alá vont igazságügyi szakértőt felmentő határozata. Az eljárás során hozott egyéb határozatok – ha e törvény eltérően nem rendelkezik – az érdemi határozat elleni jogorvoslati kérelemben támadhatók.
+(2) A keresetlevél benyújtásáról a Kamara a továbbításával egyidejűleg értesíti a névjegyzéket vezető hatóságot.
 
-(4) A bíróság a Kamara határozatát megváltoztathatja.
-
-(5) A kereset benyújtásáról a Kamara értesíti a névjegyzéket vezető hatóságot.
-
-(6) A bíróság eljárására a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
-
-(7) A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
+(3) E § alkalmazásában érdemi határozatnak minősül a fegyelmi tanácsnak az eljárás megindítását megtagadó, az eljárást megszüntető, a fegyelmi eljárás alá vont igazságügyi szakértő felelősségét megállapító vagy a fegyelmi eljárás alá vont igazságügyi szakértőt felmentő határozata. Az eljárás során hozott egyéb határozat és végzés – ha e törvény eltérően nem rendelkezik – az érdemi határozat elleni jogorvoslati kérelemben támadható meg.
 
 #### 73. Új eljárás kezdeményezése
 
 127. § (1) Jogerős határozattal befejezett fegyelmi eljárás esetén az igazságügyi szakértő, az elnökség és a Kamara elnöke új eljárás lefolytatását kezdeményezheti az igazságügyi szakértő javára, ha
 
-- a) olyan új tényre, bizonyítékra, jogerős bírói vagy hatósági határozatra hivatkozik, amelyet a fegyelmi eljárás során nem vettek figyelembe, és a jogerős határozatra lényeges kihatással lett volna, vagy
+- a) olyan új tényre, bizonyítékra, jogerős bírói vagy véglegessé vált hatósági határozatra hivatkozik, amelyet a fegyelmi eljárás során nem vettek figyelembe, és a jogerős határozatra lényeges kihatással lett volna, vagy
 - b) az alapügyben a fegyelmi tanács elnöke vagy tagja, illetve az eljárásban részt vevő személy a kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte, és ezt jogerős bírósági ítélet megállapította, vagy a bűncselekmény megállapítását nem a bizonyítottság hiánya zárta ki.
 
 (2) Az új eljárás lefolytatása iránti kérelem előterjesztésének határideje hatvan nap; ezt a határidőt a határozat meghozatalától, ha pedig az új eljárás kezdeményezésének okáról a Kamara elnöke, az elnökség vagy az igazságügyi szakértő csak később szerzett tudomást vagy később jutott abba a helyzetbe, hogy új eljárást kezdeményezzen, ettől az időponttól kell számítani. A tudomásszerzés időpontját valószínűsíteni kell.
@@ -1703,7 +1689,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (4) Ha a Kamara tájékoztatásában foglalt indokokkal a miniszter nem ért egyet vagy a (3) bekezdés szerinti módosított szabályzat tekintetében is fennáll a jogsértés, a (3) bekezdés szerinti felhívás még egyszer megismételhető.
 
-(5) Ha a (3) és (4) bekezdés szerinti felhívásban megjelölt határidő elteltét követően a jogsértés továbbra is megállapítható, a miniszter harminc napon belül bírósághoz fordulhat a jogsértés megszüntetése érdekében. Ha a bíróság a jogsértést megállapítja, a jogsértő szabályzatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el.
+(5)
 
 (6) A szabályzat nem lehet jogszabállyal ellentétes, a szabályzatnak jogszabályba ütköző rendelkezése semmis.
 
@@ -1711,38 +1697,19 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (2) A Kamara a miniszter (1) bekezdés szerinti felhívásának kézhezvételétől számított harminc napon belül köteles írásban tájékoztatni a minisztert a jogsértő működés megszüntetése érdekében tett intézkedésekről vagy egyet nem értése esetén működés jogszerűségének indokairól.
 
-(3) Ha a (2) bekezdés szerinti felhívásban megjelölt határidő elteltét követően a jogsértő működés továbbra is megállapítható, a miniszter harminc napon belül bírósághoz fordulhat a jogszerű működés helyreállítása érdekében.
-
-(4) Ha a bíróság a (3) bekezdés alapján indított eljárás során a jogsértő működést megállapítja,
-
-- a) a jogsértő határozatot hatályon kívül helyezi és az annak meghozatalára jogosult kamarai szervet (tisztségviselőt) új eljárásra utasítja,
-- b) a jogszerű működés helyreállítása céljából – megfelelő határidő tűzésével – elrendeli a jogsértően működő kamarai szerv (tisztségviselő) választására jogosult kamarai szerv összehívását vagy
-- c) a jogsértően működő kamarai szerv (tisztségviselő) működését felfüggeszti és a felfüggesztés időtartamára felügyelőbiztost rendel ki, akinek feladatait előírja.
+(3)–(4)
 
 136. § (1) Ha a miniszter azt állapítja meg, hogy a Kamara jogszabályban, alapszabályban vagy egyéb szabályzatban foglalt kötelezettségét elmulasztotta, – megfelelő határidő tűzésével – felhívja a Kamarát az elmulasztott intézkedés megtételére. A felhívásban a mulasztás pótlására hatvan napnál hosszabb időtartam nem adható.
 
 (2) A Kamara köteles – a felhívásban megadott határidőn belül – az elmulasztott intézkedést megtenni vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3) Ha a mulasztás az (1) bekezdés szerinti felhívásban megadott határidő elteltét követően is megállapítható, a miniszter harminc napon belül bírósághoz fordul a mulasztás orvoslása érdekében. Ha a bíróság a mulasztás tényét megállapítja – megfelelő határidő tűzésével – kötelezi a Kamarát az elmulasztott intézkedés megtételére.
+(3)–(4)
 
-(4) Ha a Kamara a bíróság határozatában megjelölt határidőn belül a mulasztást nem pótolja, a miniszter indítványára a bíróság a mulasztás pótlásának idejére felügyelőbiztost rendel ki, akinek feladatait előírja.
-
-137. § (1) A 135. § (4) bekezdés c) pontja és a 136. § (4) bekezdése alapján kirendelt felügyelőbiztos díjazását és költségtérítését a bíróság állapítja meg. A felügyelőbiztos díját és költségeit a Kamara viseli.
-
-(2) Felügyelőbiztosként kamarai tag nem rendelhető ki.
-
-(3) Felügyelőbiztos az lehet, aki
-
-- a) jogász szakképzettséggel és
-- b) legalább ötéves közigazgatási gyakorlattal rendelkezik.
-
-(4) A (3) bekezdés b) pontja szerinti közigazgatási gyakorlatnak tekinthető köztestületnél közigazgatási ügyekben ügyintézőként szerzett gyakorlat is.
-
-(5) A felügyelőbiztos a tevékenységéről és annak eredményéről a felfüggesztés időtartamának lejártát megelőző öt napon belül írásban tájékoztatja a bíróságot, valamint a minisztert.
+#### 137. §
 
 #### 78. A bírósági eljárás szabályai
 
-138. § A 134. § (5) bekezdése, 135. § (3) bekezdése, valamint a 136. § (3) bekezdése szerinti kérelemről a Fővárosi Közigazgatási és Munkaügyi Bíróság annak beérkezésétől számított harminc napon belül nemperes eljárásban dönt. A bíróság döntésével szemben fellebbezésnek nincs helye.
+138. § A bíróság döntésével szemben fellebbezésnek nincs helye.
 
 ## ÖTÖDIK RÉSZ
 
@@ -1758,14 +1725,16 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 - d) a névjegyzékbe történő felvétel iránti kérelem tartalmára vonatkozó szabályokat,
 - e) az igazságügyi névjegyzéket vezető hatóság kijelölését és
 - f) az igazságügyi szakértők részére szükséges jogi ismeretek oktatására kijelölt vizsgaszervező szervet,
-- g) az igazságügyi szakértői intézmény irányításával kapcsolatos, a középirányító szervre átruházható hatásköröket, a középirányító kijelölését, a 30. § (2) bekezdés b) pontja szerinti hatáskör-átruházás szabályait, valamint az igazságügyi szakértői intézmény igazságügyi szakértői tevékenységnek nem minősülő egyes feladatait
+- g) az igazságügyi szakértői intézmény irányításával kapcsolatos, a középirányító szervre átruházható hatásköröket, a középirányító kijelölését, a 30. § (2) bekezdés b) pontja szerinti hatáskör-átruházás szabályait, valamint az igazságügyi szakértői intézmény igazságügyi szakértői tevékenységnek nem minősülő egyes feladatait,
+- h) a névjegyzék vezetésének, és a névjegyzékkel összefüggő adatszolgáltatás részletes szabályait,
+- i) a szakmai gyakorlati idő szakirányú jellegének igazolására szolgáló hatósági bizonyítvány kiadásának részletes szabályait
 
 rendeletben határozza meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
 - a) az igazságügyi szakértői szakterületeket, az igazságügyi szakértők szakterületének besorolását és a szakterületekhez kapcsolódó képesítési és egyéb szakmai feltételeket, a kötelező szakértőjelölti idő vagy ügyszám mértékét, a képesítés egyenértékűségére vonatkozó feltételeket, az egyes szakterületek esetében a névjegyzékbe-vételi eljárás során figyelembe vehető szakértőjelölti szakmai gyakorlati tapasztalatra, rövidebb kötelező szakmai gyakorlat időtartamára, tudományos fokozatra, képesítésre és ágazati szakértői jogosultságra, ezek igazolására, valamint a névjegyzékbe bejegyzett igazságügyi szakértő esetében a feltételek alóli mentesülésre vonatkozó feltételeket,
-- b) a névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás részletes szabályait, a névjegyzékből a kamarai tagság megszűnése miatti törlésre vonatkozó eljárás szabályait,
+- b) a névjegyzékből a kamarai tagság megszűnése miatti törlésre vonatkozó eljárás szabályait,
 - c) az igazságügyi szakértő által vezetett adattovábbítási nyilvántartás adattartalmára vonatkozó szabályokat,
 - d) az államháztartásért felelős miniszterrel egyetértésben az igazságügyi szakértői tevékenységet végzők díjazására, munkadíjára és költségeire, ezen belül különösen az egy órára felszámítható munkadíj, tételes munkadíj összegét; tételes költségelszámolás hiányában a felszámítható költségátalány mértékét, valamint a szakkonzultáns és a segédszemélyzet munkadíjára vonatkozó szabályokat,
 - e) a kamarai költségátalány mértékét, bevallásának és megfizetésének részletes szabályait,
@@ -1993,6 +1962,8 @@ törvényességi felügyeleti intézkedést tehet.
 
 159. § Az igazságügyi szakértő köteles az 1. melléklet 1.11. és 1.21.–1.23. pontjában foglalt adatokat 2016. december 31. napjáig a névjegyzéket vezető hatóság részére megfelelően igazolni.
 
+159/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 #### 82. Európai Uniós követelményekre utaló rendelkezések
 
 160. § (1) E törvény
@@ -2007,7 +1978,7 @@ való megfelelést szolgálja.
 
 #### 83. Módosító rendelkezések
 
-161–165. §
+#### 161–165. §
 
 #### 84. Hatályon kívül helyező rendelkezések
 
@@ -2085,7 +2056,7 @@ való megfelelést szolgálja.
 - 7.1. a letétbe helyezett szakértői díj összege,
 - 7.2. a szakértői díj megállapításának módja,
 - 7.3. a szakvélemény kirendelő szerv vagy megbízó részére történő elküldésének időpontja (év, hónap, nap megjelölésével) és módja,
-- 7.4. a jogerős díjmegállapító határozatban megjelölt szakértői díj összege és megfizetésének időpontja,
+- 7.4. a jogerős vagy véglegessé vált díjmegállapító határozatban megjelölt szakértői díj összege és megfizetésének időpontja,
 - 8. kiegészítő adatkérés esetén:
 - 8.1. a kiegészítő adatkérés időpontja,
 - 8.2. a kiegészítő adatok megküldésének időpontja,

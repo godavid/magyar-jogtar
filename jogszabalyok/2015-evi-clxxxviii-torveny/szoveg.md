@@ -38,7 +38,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 
 3. § (1) A nyilvántartást a központi szerv vezeti. A nyilvántartás az arckép profil nyilvántartásból, valamint a jogosultság nyilvántartásból áll.
 
-(2) A nyilvántartás vezetésére és az ahhoz kapcsolódó hatósági eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2) A nyilvántartás vezetésére és az ahhoz kapcsolódó hatósági eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (3) Az arckép profil nyilvántartás vezetésének a célja
 

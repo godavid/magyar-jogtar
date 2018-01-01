@@ -8,7 +8,9 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 
 1–7. §
 
-8. §
+8. § Az Szja tv. 28. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a biztosítás más személy által fizetett díja a befizetés időpontjában hatályos 1. számú melléklet 6. pont 6.9. alpontja alapján vagy a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás más személy által 2013. január 1-jét megelőzően fizetett díja az 1. számú mellékletnek a befizetés időpontjában hatályos 6. pont 6.3. alpontja alapján részben vagy egészben adómentes volt, akkor – függetlenül a biztosítási szerződés esetleges módosításától – a biztosító teljesítéséből (kivéve, ha a biztosító teljesítése a 1. számú melléklet 6. pont 6.6. alpontja alapján haláleseti, betegségbiztosítási vagy baleset-biztosítási szolgáltatásként adómentes) a kifizetőnek nem minősülő magánszemély által fizetett biztosítási díj, valamint az adóköteles biztosítási díj együttes összegét meghaladó rész egyéb jövedelemnek minősül. A biztosítói teljesítést megelőzően bevételcsökkentő tételként már figyelembe vett díjrészeket figyelmen kívül kell hagyni az egyéb jövedelem biztosítói teljesítés időpontjában történő további megállapítása során.”
 
 9. § (1)
 
@@ -19,7 +21,7 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 29. § Hatályát veszti az Szja tv.
 
 - 1–2.
-- 3.
+- 3. 1. számú melléklet 6. pont 6.9. alpontja, 9. pont 9.6. alpontja.
 
 #### 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 

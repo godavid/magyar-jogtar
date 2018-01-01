@@ -15,7 +15,7 @@ A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok 
 
 (3) Az életjáradék az 1. § b) pontja szerinti esetben a férfi jogosultat 12, a női jogosultat 15 éven át megillető szolgáltatás, amelynek havi mértéke a törvény melléklete szerinti táblázatban a 60. életévhez tartozó életjáradék összegével azonos.
 
-3. § (1) Az életjáradék folyósítására irányuló kérelmét a jogosult legkésőbb a kárpótlási jegy felvételére jogosító jogerős határozat közlésétől számított 90 napon belül nyújthatja be írásban a nyugdíbijbiztosítási igazgatási szervnél (a továbbiakban: igazgatóság).
+3. § (1) Az életjáradék folyósítására irányuló kérelmét a jogosult legkésőbb a kárpótlási jegy felvételére jogosító végleges vagy jogerős határozat közlésétől számított 90 napon belül nyújthatja be írásban a nyugdíbijbiztosítási igazgatási szervnél (a továbbiakban: igazgatóság).
 
 (2) A kérelemben fel kell tüntetni a jogosult személyi adatait (név, születési idő, hely, anyja neve, lakcíme), be kell jelenteni az esetleges nyugdíjtörzsszámot és mellékelni kell a kárpótlási jegy felvételére jogosító határozat hiteles másolatát.
 
@@ -25,7 +25,7 @@ A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok 
 
 5. § (1) Az életjáradék az igénybejelentés hónapjának első napjától esedékes.
 
-(2) Az életjáradék folyósításának feltétele, hogy a jogosult a 4. § szerinti jogerős határozat kézhezvételétől számított 60 napon belül a kárpótlási jegyet az igazgatóságra átruházza.
+(2) Az életjáradék folyósításának feltétele, hogy a jogosult a 4. § szerinti végleges vagy jogerős határozat kézhezvételétől számított 60 napon belül a kárpótlási jegyet az igazgatóságra átruházza.
 
 (3) Az életjáradék folyósítását a nyugdíjfolyósító szerv legkésőbb a kárpótlási jegy átruházásától számított 90 napon belül köteles megkezdeni.
 
@@ -55,7 +55,7 @@ A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok 
 
 (2) Az életjáradék iránti igény érvényesítésével kapcsolatos eljárás költség- és illetékmentes.
 
-11. § A bíróság a jogerős határozatot megváltoztathatja.
+#### 11. §
 
 12. § A Kormány felhatalmazást kap a kárpótlási jegyek életjáradékra váltása eljárási szabályainak kidolgozására.
 
