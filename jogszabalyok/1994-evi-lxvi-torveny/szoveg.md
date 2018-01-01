@@ -45,9 +45,9 @@ az e törvény által meghatározott összeg előlegezhető meg.
 - b) a felszámolóval a felszámolás elrendelésekor vagy azt megelőző fél éven belül tagsági (részvényesi) jogviszonyban, vagy foglalkoztatásra irányuló jogviszonyban áll, illetőleg állt, vagy
 - c) a felszámolónak vagy a felszámoló szervezet b) pontban meghatározott munkavállalójának a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója.
 
-(3) Vitás esetben az állami foglalkoztatási szerv, a felszámoló, vagy a munkavállaló kérelmére a közigazgatási és munkaügyi bíróság tizenöt napon belül, nemperes eljárásban dönt arról, hogy a munkavállaló szokásos munkavégzési helye Magyarországon található-e.
+(3) Vitás esetben az állami foglalkoztatási szerv, a felszámoló, vagy a munkavállaló kérelmére a munkaügyi perben eljáró bíróság tizenöt napon belül, nemperes eljárásban dönt arról, hogy a munkavállaló szokásos munkavégzési helye Magyarországon található-e.
 
-(4) A (3) bekezdés szerinti nemperes eljárásban a közigazgatási és munkaügyi bíróság illetékességét az eljáró állami foglalkoztatási szerv székhelye határozza meg, eljáró állami foglalkoztatási szerv hiányában a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes.
+(4) A (3) bekezdés szerinti nemperes eljárásban a munkaügyi perben eljáró bíróság illetékességét az eljáró állami foglalkoztatási szerv székhelye határozza meg, eljáró állami foglalkoztatási szerv hiányában a Fővárosi Közigazgatási és Munkaügyi Bíróság az illetékes.
 
 2/A. § (1) A külföldi gazdálkodó szervezet felszámolása esetén a 2. § (1) bekezdése szerinti kötelezettség a külföldi gazdálkodó szervezet felszámolóját terheli.
 
@@ -70,13 +70,28 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 3. § A támogatás iránti kérelmet a felszámolónak vagy meghatalmazottjának az állami foglalkoztatási szervhez az 1. és 2. melléklet szerint, értelemszerűen kitöltött formanyomtatványon, valamennyi előírt mellékletet becsatolva, elektronikus formában kell benyújtania. Az állami foglalkoztatási szerv a nyilatkozatokat elektronikus formában, annak megváltoztathatatlanságát biztosító zárt informatikai rendszerben tárolja.
 
-4. § (1) A támogatás iránti kérelem elbírálására vonatkozó eljárásra – az e törvényben foglalt eltérésekkel – a közigazgatási hatósági eljárás általános szabályait kell alkalmazni.
+4. § (1) Az általános közigazgatási rendtartásról szóló törvény szabályait az e törvényben meghatározott hatósági ügyben az e §-ban, valamint a 4/A–4/C. §-ban foglalt szabályok figyelembevételével kell alkalmazni.
 
-(2) Az állami foglalkoztatási szerv a támogatásról a kérelem benyújtását követő nyolc napon belül határozattal dönt.
+(2) A támogatás iránti kérelem elbírálására vonatkozó eljárásra az az állami foglalkoztatási szerv illetékes, amelynek területén a felszámolás alatt álló gazdálkodó szervezet székhelye, ennek hiányában fióktelepe, telephelye van. Ha a gazdálkodó szervezet nem rendelkezik magyarországi székhellyel, fiókteleppel vagy telephellyel, akkor a támogatási igény elbírálására vonatkozó eljárás lefolytatására az állami foglalkoztatási szervként eljáró Budapest Főváros Kormányhivatala az illetékes.
 
-(3) A támogatás iránti kérelem elbírálására vonatkozó eljárásra az az állami foglalkoztatási szerv illetékes, amelynek területén a felszámolás alatt álló gazdálkodó szervezet székhelye, ennek hiányában fióktelepe, telephelye van. Ha a gazdálkodó szervezet nem rendelkezik magyarországi székhellyel, fiókteleppel vagy telephellyel, úgy a támogatási igény elbírálására vonatkozó eljárás lefolytatására az állami foglalkoztatási szervként eljáró Budapest Főváros Kormányhivatala az illetékes.
+(3) Az állami foglalkoztatási szerv a támogatásról a kérelem benyújtását követő 10 napon belül dönt.
 
 (4) Az állami foglalkoztatási szerv által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+
+4/A. § (1) Az ügyfél az adatok megjelölésével kérheti az iratbetekintési jog korlátozását üzleti és más méltányolható magánérdekének védelmében. Az állami foglalkoztatási szerv a kérelemnek – a körülmények körültekintő mérlegelése alapján – akkor ad helyt, ha az adatok megismerésének hiánya az iratbetekintésre jogosultakat nem akadályozza jogaik gyakorlásában.
+
+(2) Az iratbetekintési jog biztosítása érdekében az állami foglalkoztatási szerv megismerhetetlenné teszi azokat a személyes és védett adatokat, valamint az (1) bekezdés szerinti adatokat, amelyek megismerésére az iratbetekintésre jogosult személy egyébként nem jogosult.
+
+(3) Ha az állami foglalkoztatási szerv hivatalból nem tudja megállapítani, hogy az iratbetekintési kérelem benyújtásakor az iratbetekintés korlátozásának az okai fennállnak-e, az üzleti és más méltányolható magánérdek alapján védelemre jogosultat nyilatkozattételre hívja fel. Az iratbetekintés nem tagadható meg, ha a jogosult határidőben nem nyilatkozik.
+
+4/B. § Az e törvényben meghatározott ügyekben
+
+- a) hiánypótlásra felhívásnak legfeljebb két ízben van helye,
+- b) az állami foglalkoztatási szerv döntése szóban nem közölhető.
+
+4/C. § (1) A kötelezett a teljesítési határidő lejárta előtt benyújtott kérelmében annak igazolásával kérheti az állami foglalkoztatási szervtől a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés (a továbbiakban együtt: fizetési kedvezmény) engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
+
+(2) A határidő lejárta után a kötelezett – feltéve, hogy a végrehajtást még nem indították meg – az (1) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt.
 
 5. § (1) A támogatás kamatmentes.
 
@@ -107,11 +122,13 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem időpontjában hatályos jegybanki alapkamat kétszeresével növelt összegben kell visszafizetni. Ilyennek kell tekinteni, ha az állami foglalkoztatási szerv az 5. § (2) bekezdésében meghatározott kifizetést – a felszámoló valóságnak nem megfelelő adatszolgáltatása miatt – olyan munkavállaló részére is teljesíti, akinek nem állt fenn bértartozása vagy a munkavállaló fennálló bértartozásánál nagyobb mértékű támogatási összeg került kifizetésre.
 
+(1a) Amennyiben a kötelezett a visszafizetési kötelezettségének a visszakövetelő határozatban megállapított határidőig nem tesz eleget, e határidő elmulasztásának napjától az adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresésének napjáig, kiszámított késedelmi kamatot is köteles fizetni. A késedelmi kamat mértékére a költségvetési támogatásokra vonatkozó szabályokat kell alkalmazni. A kötelezett az adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresését követően az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szerinti késedelmi pótlékot is köteles megfizetni.
+
 (2) Az (1) bekezdés szerinti visszafizetésből a kamatrész a felszámolót, a támogatás összege a felszámolás alatt álló gazdálkodó szervezet vagyonát terheli.
 
 (3) A Cstv. 51. és 54. §-ában meghatározott, a felszámolóra vonatkozó felelősségi szabályokat a felszámolónak a támogatás igénybevételével kapcsolatos eljárására is alkalmazni kell.
 
-9. § (1) A támogatás visszafizetése a támogatásról szóló határozat jogerőre emelkedését követő 70. napon, illetve, ha a felszámolási zárómérleg benyújtására a 70. napot megelőzően kerül sor, a felszámolási zárómérleg benyújtásának napját megelőző napon válik esedékessé. E rendelkezés alkalmazása szempontjából a felszámolási mérleg benyújtásának napján a zárómérleg postára adásának vagy a bírósághoz történő beadásának napját kell érteni.
+9. § (1) A támogatás visszafizetése a támogatásról szóló határozat véglegessé válását követő 70. napon, illetve, ha a felszámolási zárómérleg benyújtására a 70. napot megelőzően kerül sor, a felszámolási zárómérleg benyújtásának napját megelőző napon válik esedékessé. E rendelkezés alkalmazása szempontjából a felszámolási mérleg benyújtásának napján a zárómérleg postára adásának vagy a bírósághoz történő beadásának napját kell érteni.
 
 (2) A támogatás (1) bekezdés szerinti visszafizetése érdekében a külföldi gazdálkodó szervezet, illetve fióktelepe felszámolójával szemben az állami foglalkoztatási szerv köteles fellépni.
 

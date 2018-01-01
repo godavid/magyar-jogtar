@@ -83,7 +83,7 @@ látja el.
 
 (6) A kikötő létesítésével, fennmaradásával, továbbá az úszólétesítmény építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával, valamint a komp- és révátkelőhely létesítésével és fennmaradásával, üzemben tartásával kapcsolatos ügyekben az ügyintézési határidő 30 nap.
 
-(7) Az országos illetékességgel eljáró fővárosi és megyei kormányhivatal által első fokon meghozott hajózási hatósági döntéssel szemben – ideértve a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedési beruházásokat is – fellebbezésnek van helye.
+(7) Az országos illetékességgel eljáró fővárosi és megyei kormányhivatal által első fokon meghozott hajózási hatósági döntéssel szemben fellebbezésnek van helye.
 
 5. § A hajózással kapcsolatos rendőrhatósági és határrendészeti tevékenységet a rendészetért felelős miniszter és a határrendészetért felelős miniszter – a rendőrség vízirendészeti feladatokat ellátó szervei útján – a vízirendészettel és a víziközlekedéssel kapcsolatos rendőri feladatokról szóló jogszabályban foglaltak alapján látja el.
 
@@ -93,6 +93,10 @@ látja el.
 
 - a) a veszélyes áruk belvízi szállítására történő előkészítésének, valamint a belvízi úton beérkezett veszélyes áruk továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzése,
 - b) a veszélyes áruk kikötők területén végzett átrakásának, tárolásának ellenőrzése.
+
+5/B. § A veszélyes áru szállításának és a szállításhoz kapcsolódó tevékenységnek a hatósági ellenőrzése kizárólag hivatalból indul, az ügyfél saját maga hatósági ellenőrzés alá vonását nem kérheti.
+
+5/C. § A területi szinten hozott elsőfokú, azonnali eljárási cselekményt tartalmazó hatósági döntéssel szemben fellebbezésnek van helye.
 
 6. § (1) A hajózás egészségügyi és közegészségügyi-járványügyi hatósági felügyeletét az egészségügyért felelős miniszter – az egészségügyi államigazgatási szerv útján – látja el.
 
@@ -124,7 +128,7 @@ látja el.
 (6) A hajózási hatóság vagy a kamara az (5) bekezdés alapján megismert személyes adatokat
 
 - a) a hatósági ellenőrzés időtartamára vagy
-- b) a víziközlekedési szakértői tevékenység folytatásának megtiltására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- b) a víziközlekedési szakértői tevékenység folytatásának megtiltására irányuló eljárásban az eljárás végleges döntéssel történő befejezéséig kezeli.
 
 ## MÁSODIK RÉSZ — AZ ÚSZÓLÉTESÍTMÉNY
 
@@ -167,7 +171,7 @@ lajstromban tartja nyilván.
 
 (2) A törlési eljárást az úszólétesítmény tulajdonosa kezdeményezi. Amennyiben a tulajdonos az eljárást az annak alapjául szolgáló esemény bekövetkezésétől számított 15 napon belül nem kezdeményezi, az eljárást a hajózási hatóság – a mulasztásról történt tudomásszerzését követően – hivatalból indítja meg.
 
-(3) A lajstromból törölt úszólétesítmény hajóokmányainak eredeti példányát az úszólétesítmény tulajdonosa legkésőbb a jogerős törlési döntés közlésétől számított 15 napon belül köteles az eljárást lefolytató hajózási hatóságnak átadni.
+(3) A lajstromból törölt úszólétesítmény hajóokmányainak eredeti példányát az úszólétesítmény tulajdonosa legkésőbb a véglegessé vált törlési döntés közlésétől számított 15 napon belül köteles az eljárást lefolytató hajózási hatóságnak átadni.
 
 (4) A tulajdonos a lajstromból törölt úszólétesítményt köteles a víziútról eltávolítani, vagy azt a hajózást és a környezetet nem veszélyeztető módon, továbbá a vizek fenntartási munkáinak sérelme és akadályoztatása nélkül úgy elhelyezni, hogy az a víziközlekedés résztvevői számára ne jelentsen akadályt vagy veszélyt.
 
@@ -789,16 +793,13 @@ kezeli.
 
 52/A. § (1) A hajózási engedélyt a hajózási hatóság öt évre adja ki. A hajózási engedély érvényességi idejét – az érvényességi idő lejárta előtt benyújtott kérelem alapján – a hatóság meghosszabbítja, ha annak jogszabályi akadálya nincs, és a hajózási engedély kiadásához az e törvényben és a a hajózási tevékenység engedélyezésére vonatkozó előírt feltételek továbbra is fennállnak.
 
-(2) Az 52. § (1) bekezdésében meghatározott üzemben tartó, jogi személy vagy gazdálkodó szervezet vezetője a hajózási hatóság részére igazolja, hogy vele szemben az 52. § (7) bekezdés c) pontjában meghatározott kizáró ok nem áll fenn, valamint
+(2) Az 52. § (7) bekezdés a) és b) pontjában meghatározott kizáró ok tekintetében a hajózási hatóság a bűnügyi nyilvántartó szervtől adatot igényel.
 
-- a) hatósági bizonyítvánnyal igazolja azt a tényt, hogy az 52. § (7) bekezdés a) és b) pontjában meghatározott kizáró ok vele szemben nem áll fenn, vagy
-- b) kéri, hogy az arra vonatkozó adatokat, amely szerint 52. § (7) bekezdés a) és b) pontjában meghatározott kizáró ok vele szemben nem áll fenn, a bűnügyi nyilvántartó szerv a hajózási hatóság részére – annak a hajózási engedély kiadása céljából benyújtott adatigénylése alapján – továbbítsa.
-
-(3) A hajózási engedély érvényességi ideje alatt a hajózási hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy az 52. § (1) bekezdésében meghatározott üzemben tartó, jogi személy vagy gazdálkodó szervezet vezetőjével szemben fennáll-e az 52. § (7) bekezdés a) és b) pontjában meghatározott kizáró ok. A hatósági ellenőrzést folytató hajózási hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy az 52. § (1) bekezdésében meghatározott üzemben tartó, jogi személy vagy gazdálkodó szervezet vezetőjével szemben fennáll-e az 52. § (7) bekezdés a) és b) pontjában meghatározott kizáró ok.
+(3) A hajózási engedély érvényességi ideje alatt a hajózási hatóság hatósági ellenőrzés keretében – a bűnügyi nyilvántartási rendszerből történő adatigénylés útján – ellenőrzi azt is, hogy az 52. § (1) bekezdésében meghatározott üzemben tartó, jogi személy vagy gazdálkodó szervezet vezetőjével szemben fennáll-e az 52. § (7) bekezdés a) és b) pontjában meghatározott kizáró ok.
 
 (4) A hajózási hatóság az (2) és (3) bekezdés alapján megismert személyes adatokat
 
-- a) a hajózási engedély kiadása iránti eljárás jogerős befejezéséig vagy
+- a) a hajózási engedély kiadása iránti eljárás végleges döntéssel történő befejezéséig vagy
 - b) a hajózási engedély kiadása esetén az engedély visszavonásáig kezeli.
 
 53. § (1) A közforgalmú hajózási tevékenységet folytató engedélyes szolgáltatásait közforgalmú hajózási tevékenységről rendelkező jogszabályban foglalt feltételekkel bárki igénybe veheti.
@@ -883,12 +884,18 @@ kezeli.
 
 (2) A bírság összege legfeljebb 1 000 000 forint.
 
-(3) A hajózási hatóság a hajózási bírság összegét a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott mérlegelési szempontok alapján állapítja meg, figyelembe véve
+(3) A hajózási hatóság a hajózási bírság összegének megállapításánál mérlegeli:
 
 - a) a jogsértés víziközlekedés biztonságára gyakorolt hatását,
-- b) a jogsértő vagyoni helyzetét, jövedelmi viszonyait,
+- b) a jogsértő vagyoni helyzetét jövedelmi viszonyait,
 - c) a jogsértő magatartás felróhatóságát, valamint a jogsértő személy korábbi jogsértő magatartását,
-- d) a jogsértő magatartás emberi életet és testi épséget veszélyeztető jellegét.
+- d) a jogsértő magatartás emberi életet és testi épséget veszélyeztető jellegét,
+- e) a jogsértéssel okozott hátrányt, ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket, illetve a jogsértéssel elért előny mértékét,
+- f) a jogsértéssel okozott hátrány visszafordíthatóságát,
+- g) a jogsértéssel érintettek körének nagyságát,
+- h) a jogsértő állapot időtartamát,
+- i) a jogsértő magatartás ismétlődését és gyakoriságát,
+- j) a jogsértést elkövető eljárást segítő, együttműködő magatartását.
 
 (4) A hajózási bírság ugyanazon cselekményért ismételten is kiszabható, ha a kötelezett a jogsértő tevékenységgel nem hagy fel, vagy a jogsértő állapotot nem szünteti meg.
 
@@ -902,7 +909,7 @@ kezeli.
 
 60/B. § (1) Nincs helye a hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
-(2) A hivatásos katasztrófavédelmi szerv által kiszabott bírság kivetésével és behajtásával kapcsolatos hatósági eljárás során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(2)
 
 (3)
 
@@ -1042,9 +1049,9 @@ kezeli.
 
 (8) A vagyonkezelői jog ingatlan-nyilvántartásba, úszólétesítmények esetén a tulajdonjog hajólajstromba történő bejegyzéséről a megvalósító szervezet gondoskodik. A megvalósító szervezet a vagyonkezelői jog, valamint a tulajdonjog bejegyzésére vonatkozó hatósági határozatokat annak kézhezvételét követően haladéktalanul megküldi a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) részére. A megvalósító szervezet vagyonkezelői jogának ingatlan-nyilvántartásba, valamint úszólétesítmények esetén a tulajdonjog hajólajstromba történő bejegyzése vagy törlése mentes az igazgatási szolgáltatási díjfizetési kötelezettség alól.
 
-(9) Ha a megvalósító szervezet jogerős építési, illetve vízjogi létesítési engedély alapján az állam tulajdonában és más vagyonkezelésében levő ingatlanon közcélú tevékenységet folytat, a vagyonkezelő az érintett ingatlanokat külön megállapodás alapján a szükséges előkészítő munkálatok, illetve az építési munkák idejére köteles térítésmentesen a megvalósító szervezet birtokába és használatába adni.
+(9) Ha a megvalósító szervezet véglegessé vált építési, illetve vízjogi létesítési engedély alapján az állam tulajdonában és más vagyonkezelésében levő ingatlanon közcélú tevékenységet folytat, a vagyonkezelő az érintett ingatlanokat külön megállapodás alapján a szükséges előkészítő munkálatok, illetve az építési munkák idejére köteles térítésmentesen a megvalósító szervezet birtokába és használatába adni.
 
-(10) Ha a megvalósító szervezet jogerős építési, illetve vízjogi létesítési engedély alapján helyi önkormányzat tulajdonát képező ingatlanon közcélú tevékenységet folytat, a megvalósító szervezet és az érintett helyi önkormányzat köteles az előkészítés és építés idejére, ezek céljából az ingatlan ingyenes használatára írásban megállapodást kötni a megvalósító szervezet megkeresésétől számított 60 napon belül.
+(10) Ha a megvalósító szervezet véglegessé vált építési, illetve vízjogi létesítési engedély alapján helyi önkormányzat tulajdonát képező ingatlanon közcélú tevékenységet folytat, a megvalósító szervezet és az érintett helyi önkormányzat köteles az előkészítés és építés idejére, ezek céljából az ingatlan ingyenes használatára írásban megállapodást kötni a megvalósító szervezet megkeresésétől számított 60 napon belül.
 
 (11) A megvalósító szervezet az állami tulajdonú ingatlanon megvalósított fejlesztést és eszközt az állam által kijelölt vagyonkezelő szervezet részére adja át. A vagyonkezelő és a megvalósító szervezet az ingyenes átadás-átvételről elszámolási megállapodást készít az átadás-átvétel fordulónapjától számított hat hónapon belül az MNV Zrt. mint tulajdonosi joggyakorló egyidejű tájékoztatása mellett annak céljából, hogy az érintett fejlesztést, eszközt az átadás-átvétel fordulónapján nyilvántartott könyv szerinti értéken a könyveiből kivezesse és a vagyonkezelő könyveiben azokat nyilvántartásba vegye. Ezen eljárás ellenérték nélkül a megvalósító szervezet által nyilvántartott könyv szerinti értéken történik azzal, hogy az általános forgalmi adó tekintetében az általános forgalmi adóról szóló törvény vonatkozó rendelkezései alkalmazandóak.
 
@@ -1181,7 +1188,7 @@ kezeli.
 - 49. biztosítás: a hatóságtól biztosítási tevékenységre engedélyt kapott biztosítóval kötelezettségvállalás alapján megkötött önrészes vagy önrész nélküli biztosítás, amely magában foglalja a kölcsönös biztosító klubok nemzetközi csoportjának tagja által kínált biztosítás-típust, továbbá más egyenértékű biztosítási formákat – ideértve az igazolt önbiztosítást is –, és a hasonló fedezeti feltételeket nyújtó pénzügyi biztosítékokat;
 - 50. magyar jogszabály által kihirdetett, polgári jogi felelősségre vonatkozó nemzetközi egyezmény: az olajszennyezéssel okozott károk megtérítésére szolgáló nemzetközi alap létrehozataláról szóló 1992. évi egyezmény és az olajszennyezéssel okozott károk megtérítésére szolgáló nemzetközi alap létrehozataláról szóló 1992. évi egyezményhez elfogadott 2003. évi jegyzőkönyv, valamint az olajszennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 1992. évi egyezmény kihirdetéséről szóló 2007. évi IX. törvény, a Londonban, 2001. március 23-án kelt, a bunkerolaj-szennyezéssel okozott károkkal kapcsolatos polgári jogi felelősségről szóló 2001. évi nemzetközi egyezmény kihirdetéséről szóló 2007. évi CLXV. törvény; a Londonban, 1996. május 3-án kelt, a veszélyes és ártalmas anyagok tengeri szállításával kapcsolatos felelősségről és kártérítésről szóló 1996. évi nemzetközi egyezmény kihirdetéséről szóló 2008. évi XXIII. törvény;
 - 51. Európai Unió baleseti biztosításra vonatkozó kötelező erejű jogi aktusa: a tengeri utasszállítók baleseti felelősségéről szóló, 2009. április 23-i 392/2009/EK európai parlamenti és tanácsi rendelet;
-- 52. átadás-átvétel fordulónapja: a létrehozott, illetve megszerzett eszközök műszaki átadás-átvételének napja, vagy engedélyköteles tevékenység alapján létrehozott, illetve megszerzett eszköz esetén a használatbavételi, üzemeltetési engedély jogerőre emelkedésének napja.
+- 52. átadás-átvétel fordulónapja: a létrehozott, illetve megszerzett eszközök műszaki átadás-átvételének napja, vagy engedélyköteles tevékenység alapján létrehozott, illetve megszerzett eszköz esetén a használatbavételi, üzemeltetési engedély véglegessé válásának napja.
 
 ## NYOLCADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -1201,7 +1208,9 @@ kezeli.
 - l) az e törvény szerinti szakértői tevékenység folytatása részletes feltételeinek, a szakértői tevékenység bejelentése és a szakértők nyilvántartása személyes adatot nem tartalmazó adattartalmának, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályoknak, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeknek
 - m) a hivatásos katasztrófavédelmi szerv eljárásai során a veszélyes áruk belvízi szállításának ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályainak, továbbá az egyes szabálytalanságokért kiszabható bírságok összegének, valamint a bírságolással összefüggő hatósági feladatok általános szabályainak,
 - n) a víziközlekedés tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosítás kritériumrendszerének, kritikus infrastruktúrává történő kijelölésnek, érzékeny információ védelmének, kapcsolattartás és jelentéstételi kötelezettségek rendjének, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmének, a kritikus infrastruktúrákra vonatkozó előírások ellenőrzési rendjének, az előírások megsértése esetén alkalmazható jogkövetkezmények részlet szabályainak,
-- o) a hajózási bírság mértékének és kivetése szabályainak
+- o) a hajózási bírság mértékének és kivetése szabályainak,
+- p) a kikötő, komp- és révátkelőhely, továbbá más hajózási létesítmény létesítése, használatbavétele, üzemben tartása és megszüntetése részletes szabályainak,
+- q) egyes hajózási hatósági eljárások részletes szabályainak
 
 rendeletben történő megállapítására.
 
@@ -1217,7 +1226,7 @@ rendeletben történő megállapítására.
 - 8. a hajózásra alkalmas vagy hajózásra alkalmassá tehető természetes és mesterséges felszíni vizek vízi úttá nyilvánításának,
 - 9. a tengeri és a belvízi hajók köbözése szabályainak,
 - 10. a víziközlekedés forgalmának irányítására, és a hajóút kitűzésére szolgáló jelek létesítése, üzemeltetése és megszüntetése szabályainak,
-- 11. a kikötő – ideértve a kikötőhelyet és a veszteglőhelyet is –, továbbá a komp- és révátkelőhelyek létesítése, üzemben tartása, megszüntetése feltételeinek, továbbá használata általános rendjének,
+- 11.
 - 12. a hajózással kapcsolatos egyes veszélyes tevékenységek biztonsági követelményeinek,
 - 13. a hajózási rangjelzések használatára vonatkozó szabályoknak,
 - 14.

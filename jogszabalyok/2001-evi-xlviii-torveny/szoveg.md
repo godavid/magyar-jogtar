@@ -276,7 +276,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-31. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+31. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó mintaoltalmi ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó mintaoltalmi ügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
 
@@ -290,7 +290,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### Jogorvoslatok
 
-32/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti felhívásnak.
+32/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntéseivel kapcsolatban nincs helye fellebbezésnek, közigazgatási pernek, felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatalának a mintaoltalmi ügyekben hozott döntéseit a bíróság a IX. fejezetben szabályozott nem peres eljárásban vizsgálja felül.
 
@@ -328,7 +328,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 - a) az elsőbbségi nyilatkozat előterjesztésére előírt határidő [40. § (2) bek.] elmulasztása esetén;
 - b) az uniós, illetve a kiállítási elsőbbségi igény érvényesítésére megszabott hat hónapos határidő elmulasztása esetén;
-- c) az igazolási kérelem előterjesztésére megszabott határidők elmulasztása esetén.
+- c)
 
 (3) A szabadalmi törvény nyilvánosságra vonatkozó szabályainak alkalmazásában a szabadalmi bejelentés közzétételén a mintaoltalom megadását kell érteni. Mintaoltalmi ügyekben a szabadalmi bejelentések minősített adatként való kezelésére vonatkozó rendelkezések nem alkalmazhatók.
 
@@ -682,7 +682,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 - a) a 32/A. § (3) bekezdésében felsorolt döntéseit;
 - b) az eljárást felfüggesztő és a bejelentési nyilvántartásba vagy a mintaoltalmi lajstromba való bejegyzés tárgyában hozott döntését;
-- c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye;
+- c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye;
 - d) az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzését;
 - e) az eljárási bírságot kiszabó, valamint az eljárási költség megállapításának és viselésének kérdésében hozott döntését.
 
@@ -705,13 +705,30 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - a) ez a későbbi, mint a (6) bekezdés szerinti döntés közlésének napja, és
 - b) az igazolási kérelmet olyan mulasztás következményeinek az elhárítására terjesztették elő, amely közvetlenül a (6) bekezdés szerinti döntés alapjául szolgált.
 
-(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kézbesítésétől számított harminc napra ismételten megnyílik.
+(8)
 
 (9) A megváltoztatási kérelem a Szellemi Tulajdon Nemzeti Hivatalánál nyújtható be, amely azt a mintaoltalmi ügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
 
 (10) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Szellemi Tulajdon Nemzeti Hivatala e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint a mintaoltalmi ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
-(11) A megváltoztatási kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
+(11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
+
+- a) az eljáró bíróság megnevezését,
+- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+
+(11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
+
+- a) a megváltoztatási kérelemmel érintett döntés számát, szükség esetén – ha rendelkezésre áll – a lajstromszámot, valamint a döntésnek a megváltoztatási kérelem által érintett rendelkezését vagy részét,
+- b) a döntés bíróság általi megváltoztatására irányuló határozott kérelmet, valamint
+- c) a döntés megváltoztatásának szükségességét alátámasztó indokokat az ezeket alátámasztó bizonyítékokkal és a jogalap megjelölésével.
+
+(11b) A megváltoztatási kérelem záró részében fel kell tüntetni:
+
+- a) a bíróság hatáskörét és illetékességét megalapozó tényeket és jogszabályhelyet,
+- b) a megfizetett illeték összegét és megfizetésének módját, vagy az eljárási illeték részleges megfizetése esetén a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az ennek alapjául szolgáló tényeket és jogszabályhelyet,
+- c) a meghatalmazott képviseleti jogát megalapozó tényeket és jogszabályhelyet, valamint
+- d) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
 
 (12) Ha a megváltoztatási kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
@@ -727,7 +744,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) A mintaoltalmi perekre a szabadalmi perek szabályait kell megfelelően alkalmazni.
 
-(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a törvényszék a szabadalmi jogvitákra irányadó szabályok megfelelő alkalmazásával jár el.
+(3) Az (1) bekezdésben nem említett, mintaoltalommal kapcsolatos minden más jogvitás ügyben a bíróság a szabadalmi jogvitákra irányadó szabályok megfelelő alkalmazásával jár el.
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -781,6 +798,8 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 - b) megvalósult hasznosításra a mintaoltalom kimerülése tekintetében e törvénynek a 2004. április 30-án hatályos rendelkezéseit kell alkalmazni.
 
 67/B. § Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+67/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Felhatalmazás
 

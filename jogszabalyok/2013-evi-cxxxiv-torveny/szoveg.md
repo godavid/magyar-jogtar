@@ -8,7 +8,7 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (3) Az állami szerv a hulladékgazdálkodási közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes ellátás) a (2) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a hulladékgazdálkodási engedéllyel és minősítési engedéllyel rendelkező szolgáltatók közül. A közérdekű szolgáltató a szolgáltatást a Ht. 32/A. § (2) bekezdése szerinti szervezet (a továbbiakban: Koordináló szerv) által meghatározott szolgáltatási díj fejében köteles elvégezni. A szolgáltatási díj mértékét és megállapításának rendjét miniszteri rendelet határozza meg.
 
-(4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincs helye.
+(4) Az állami szerv kijelölésre irányuló eljárásban hozott döntésével szemben fellebbezésnek nincs helye.
 
 (5) A kijelölésre irányuló eljárásban hozott döntés a végrehajtás felfüggesztése iránti kérelemre tekintet nélkül végrehajthatóvá nyilvánítható.
 
@@ -23,6 +23,14 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 - a) minősítési engedéllyel nem, de hulladékgazdálkodási engedéllyel rendelkezik,
 - b) hulladékgazdálkodási engedély megszerzése érdekében kérelmet nyújtott be, vagy
 - c) korábban hulladékgazdálkodási engedéllyel rendelkezett, de az engedélyének időbeli hatálya a kijelölés időpontját megelőző legfeljebb 60 napon belül szűnt meg.
+
+1/A. § A kijelölési eljárás során
+
+- a) a tájékoztatás,
+- b) a hiánypótlás, és
+- c) az ügyfél által tett nyilatkozat
+
+csak írásban tehető meg.
 
 2. § Ha az egészségügyi államigazgatási szerv határozattal megállapítja, hogy a hulladékgazdálkodási közszolgáltatás ellátásának kiesése miatt járványveszély vagy más súlyos közegészségügyi kockázat alakult ki, a települési hulladék elszállításának megszervezéséről és elvégzéséről (a továbbiakban: szükségellátás) az állami szerv gondoskodik.
 
@@ -53,7 +61,7 @@ egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénym
 
 (2) Az állami szerv az ellátáshoz fűződő közérdekből a közszolgáltatás ideiglenes ellátására (a továbbiakban: ideiglenes begyűjtési ellátás) az (1) bekezdésben meghatározott tájékoztatást követő 15 napon belül hatósági eljárás keretében közérdekű szolgáltatót jelöl ki a környezetvédelmi engedéllyel rendelkező vagy a vízügyi hatóság által nyilvántartásba vett szolgáltatók közül.
 
-(3) Az állami szerv közérdekű szolgáltató kijelölésére irányuló eljárására és az eljárás során hozott döntésre az 1. § (4)–(6) bekezdése megfelelően alkalmazandó.
+(3) Az állami szerv közérdekű szolgáltató kijelölésére irányuló eljárására és az eljárás során hozott döntésre az 1. § (4)–(6) bekezdése, valamint az 1/A. § megfelelően alkalmazandó.
 
 (4) Ideiglenes begyűjtési ellátásra irányuló kijelölés a nem közművel összegyűjtött háztartási szennyvíz begyűjtésére vonatkozó új közszolgáltatási szerződés megkötéséig, de legfeljebb a Kormány rendeletében meghatározott időtartamra érvényes.
 

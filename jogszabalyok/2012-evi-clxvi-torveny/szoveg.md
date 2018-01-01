@@ -80,7 +80,7 @@ a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt
 - b) a létfontosságú rendszerelemek védelmével kapcsolatos kötelezettségek teljesítése hatósági ellenőrzésének biztosítása,
 - c) a kijelölési eljárás során a 2. § (3) bekezdése szerinti határozatban előírt feltételeknek való megfelelés rendszeres hatósági ellenőrzésének biztosítása.
 
-(3) A nyilvántartó hatóság az (1) bekezdés a)–c) pontja szerinti adatokat az ágazati kijelölő hatóságnak a kijelölési eljárásban meghozott hatósági határozata alapján veszi nyilvántartásba. Az ágazati kijelölő hatóság az erre vonatkozó jogerős határozatot haladéktalanul köteles megküldeni a nyilvántartó hatóságnak.
+(3) A nyilvántartó hatóság az (1) bekezdés a)–c) pontja szerinti adatokat az ágazati kijelölő hatóságnak a kijelölési eljárásban meghozott hatósági határozata alapján veszi nyilvántartásba. Az ágazati kijelölő hatóság az erre vonatkozó véglegessé vált határozatot haladéktalanul köteles megküldeni a nyilvántartó hatóságnak.
 
 (4) A nyilvántartó hatóság a nyilvántartásból adatot a következők szerint továbbíthat:
 
@@ -93,13 +93,15 @@ a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait az (1) bekezdésben meghatározott nyilvántartásból, valamint a kijelölési eljárásban érintett valamennyi hatóság nyilvántartásából
 
-- a) az ágazati kijelölő hatóságnak rendszerelem kijelölése visszavonásáról szóló határozatának jogerőre emelkedése után egy évvel, vagy
-- b) a kijelölést elutasító határozat jogerőre emelkedésekor törölni kell, és erről az üzemeltetőt írásban értesíteni kell.
+- a) az ágazati kijelölő hatóságnak a rendszerelem kijelölése visszavonásáról szóló határozatának véglegessé válása után egy évvel, vagy
+- b) a kijelölést elutasító határozat véglegessé válásakor
+
+törölni kell, és erről az üzemeltetőt írásban értesíteni kell.
 
 (6) Az ágazati kijelölő hatóság haladéktalanul köteles megküldeni
 
-- a) a kijelölés visszavonására vagy elutasítására vonatkozó jogerős határozatot a kijelölési eljárásban érintett valamennyi hatóságnak,
-- b) a kijelölés visszavonására vonatkozó jogerős határozatot a nyilvántartó hatóságnak.
+- a) a kijelölés visszavonására vagy elutasítására vonatkozó véglegessé vált határozatot a kijelölési eljárásban érintett valamennyi hatóságnak,
+- b) a kijelölés visszavonására vonatkozó véglegessé vált határozatot a nyilvántartó hatóságnak.
 
 6. § (1) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője az ágazati kijelölő hatóság határozatában meghatározott határidőn belül – amely nem lehet rövidebb a kijelölő határozat közlésétől számított hatvan napnál – kidolgozza az ágazati hatóság kijelölő döntésében meghatározott tartalmi és formai követelmények szerinti üzemeltetői biztonsági tervet, és azt papír alapon és elektronikus adathordozón megküldi az ágazati kijelölő hatóságnak.
 
@@ -141,7 +143,7 @@ a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt
 
 - a) a helyszíni ellenőrzést lefolytató szerv a helyszíni ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
 - b) az (1) bekezdés szerinti esetben a hivatásos katasztrófavédelmi szerv központi szerve a hatósági ellenőrzés, valamint az ágazati kijelölő hatóságnak történő adattovábbítás időtartamára,
-- c) az ágazati kijelölő hatóság a 9. § szerinti eljárásban a hatósági ellenőrzés időtartamára, valamint a 9. § szerinti határozat jogerőre emelkedéséig
+- c) az ágazati kijelölő hatóság a 9. § szerinti eljárásban a hatósági ellenőrzés időtartamára, valamint a 9. § szerinti határozat véglegessé válásáig
 
 kezeli.
 

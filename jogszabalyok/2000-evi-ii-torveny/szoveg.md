@@ -12,7 +12,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi reform végrehajtása, a 
 - b) orvos: a külön jogszabály szerint vezetett alap- és működési nyilvántartásban szereplő orvosi, fogorvosi szakképesítéssel rendelkező személy;
 - c) praxisjog: az egészségügyi államigazgatási szerv által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog, amely alapján önálló orvosi tevékenység területi ellátási kötelezettséggel, meghatározott körzetben végezhető.
 
-2. § (1) A háziorvos önálló orvosi tevékenységet – akadályoztatásának jogszabályban meghatározott eseteit kivéve – csak személyesen folytathat az önkormányzat által meghatározott háziorvosi körzetben, a praxisjogot engedélyező határozat jogerőre emelkedésétől.
+2. § (1) A háziorvos önálló orvosi tevékenységet – akadályoztatásának jogszabályban meghatározott eseteit kivéve – csak személyesen folytathat az önkormányzat által meghatározott háziorvosi körzetben, a praxisjogot engedélyező határozat véglegessé válásától.
 
 (2) A praxisjog alapján végezhető önálló orvosi tevékenység – törvényben meghatározott kivétellel – csak a települési önkormányzat rendeletében meghatározott háziorvosi körzetben folytatható.
 
@@ -100,7 +100,7 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 2/D. § (1) A 2/C. § a) pont aa) alpontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása, a praxisjogot engedélyező határozatot kiadó vagy a praxisjogot hatósági bizonyítványban igazoló hatóság megnevezése, az engedély vagy a hatósági bizonyítvány száma és kelte tekintetében, a 2/C. § a) pont ab) alpontja szerinti nyilvántartás a praxis kódja, a praxisjoggal érintett körzet meghatározása és tartósan betöltetlenné válása időpontjának tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-(2) A 2/C. § a) pontja szerinti nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a praxiskezelő kizárólag okirati bizonyítékot, valamint az ügyfél írásbeli nyilatkozatát használhatja fel.
+(2)
 
 (3) A 2/C. § a) pontja szerinti nyilvántartásokban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 

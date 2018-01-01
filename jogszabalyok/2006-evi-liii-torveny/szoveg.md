@@ -23,19 +23,14 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (2) A kiemelt jelentőségű ügyekben az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló jogszabály és az ügyfajtára vonatkozó különös hatósági eljárási szabályok rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-### A kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok
+### A kiemelt jelentőségű ügyben eljáró hatóságok
 
 1/A. § (1) Kiemelt jelentőségű ügyben első fokon
 
 - a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként jár el,
-- b) szakhatóságként a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú szakhatóságként jár el.
+- b)
 
-(2) Kiemelt jelentőségű ügyben a fellebbezés elbírálására jogosult
-
-- a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként jár el,
-- b) szakhatóságként a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság, amely az adott ügyfajtára vonatkozó jogszabály szerint másodfokú szakhatóságként jár el.
-
-(3) Ha a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény vagy az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító törvény kizárja a fellebbezést vagy másodfokú szakhatóság közreműködését, akkor a kiemelt jelentőségű üggyé nyilvánító kormányrendeletben nem kell a fellebbezés elbírálására jogosult hatóságot vagy másodfokú szakhatóságot kijelölni.
+(2)–(3)
 
 ### A hatósági eljárás szabályai
 
@@ -88,13 +83,13 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (2)
 
-6. § (1) A hiánypótlásra történő felhívás, illetőleg a tényállás tisztázásához szükséges adatok közlésére irányuló felhívás kiadására csak egy-egy alkalommal kerülhet sor. Különösen indokolt esetben a tényállás tisztázásához szükséges adatok közlésére irányuló felhívás kiadása még egy alkalommal megismételhető.
+6. § (1) A tényállás tisztázásához szükséges adatok közlésére irányuló felhívás kiadására csak egy alkalommal kerülhet sor. Különösen indokolt esetben a tényállás tisztázásához szükséges adatok közlésére irányuló felhívás kiadása még egy alkalommal megismételhető.
 
 (2)
 
 (3)
 
-6/A. § A kiemelt jelentőségű ügyben hozott elsőfokú határozat elleni fellebbezést soron kívül, de legfeljebb huszonegy napon belül el kell bírálni.
+6/A. §
 
 6/B. § (1) A kiemelt jelentőségű ügyben indult eljárást – az ügyfajtára irányadó különös eljárási szabályok szerint fizetendő illeték vagy díj helyett – a Kormány kormányrendeletben meghatározott mértékű, az eljáró hatóság és – szakhatóság közreműködése esetén – a szakhatóság bevételét képező igazgatási szolgáltatási díj megfizetéséhez kötheti.
 
@@ -119,7 +114,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 (4) A rendeletben meghatározott közlekedési infrastruktúra-beruházás megvalósítása közérdeket szolgál.
 
-(5) A rendelet hatálybalépésére a környezetvédelmi engedély jogerőre emelkedését követően kerülhet sor, amennyiben a közlekedési infrastruktúra-beruházás megvalósításához környezetvédelmi engedély szükséges.
+(5) A rendelet hatálybalépésére a környezetvédelmi engedély véglegessé válását követően kerülhet sor, amennyiben a közlekedési infrastruktúra-beruházás megvalósításához környezetvédelmi engedély szükséges.
 
 (6) A közlekedési infrastruktúra-beruházás megvalósítása során az Étv. építési tevékenység végzésére vonatkozó rendelkezéseit a (7)–(9) bekezdésben foglalt eltéréssel kell alkalmazni.
 
@@ -154,7 +149,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüg
 
 6/F. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 72. §-ától eltérően a környezetvédelmi hatóság a környezetvédelmi engedélyt akkor vonja vissza, ha
 
-- a) a jogerőre emelkedéstől számított tíz éven belül a közlekedési infrastruktúra-beruházás megvalósítását vagy az ahhoz szükséges építési előkészítési munkákat nem kezdték meg,
+- a) a véglegessé válástól számított tíz éven belül a közlekedési infrastruktúra-beruházás megvalósítását vagy az ahhoz szükséges építési előkészítési munkákat nem kezdték meg,
 - b) a jogosult nyilatkozik arról, hogy a környezetvédelmi engedéllyel nem kíván élni, vagy
 - c) az engedélyezéskor fennálló feltételek lényegesen megváltoztak.
 
@@ -178,7 +173,7 @@ válik hatályossá.
 6/H. § (1) A közlekedési infrastruktúra-beruházással érintett települések önkormányzatainak településrendezési eszközeiket
 
 - a) ha a közlekedési infrastruktúra-beruházás szerepel az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvényben (a továbbiakban: OTrT), a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni az OTrT 9. § (1) bekezdésében foglaltakkal,
-- b) ha a közlekedési infrastruktúra-beruházás nem szerepel az OTrT-ben, a térségi területfelhasználási engedély jogerőre emelkedésétől, de legkorábban a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni a területfelhasználási engedélyben foglaltakkal.
+- b) ha a közlekedési infrastruktúra-beruházás nem szerepel az OTrT-ben, a térségi területfelhasználási engedély véglegessé válásától, de legkorábban a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni a területfelhasználási engedélyben foglaltakkal.
 
 (2) Ha a települési önkormányzat az (1) bekezdésben foglalt kötelezettségét határidőre nem teljesíti, az építtető az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál a településrendezési eszköz vagy annak módosítása (a továbbiakban együtt: településrendezési eszköz) hiánytalan tervezetének benyújtásával kérelmezi a településrendezési eszköz módosítására irányuló, e § szerinti eljárást. Az eljárásra az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek a településrendezési eszközök véleményezési eljárására vonatkozó rendelkezéseit a (3)–(13) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
@@ -212,7 +207,7 @@ válik hatályossá.
 
 (3) A szakhatóság a megkeresés beérkezését követő 5 napon belül elektronikus úton tájékoztatja a hatóságot a kérelemmel kapcsolatban felmerülő hiánypótlás szükségességéről és annak tartalmáról – különös tekintettel a hiánypótlásra megállapított határidőről –, vagy arról, hogy hiánypótlásra nincs szükség.
 
-(4) A szakhatóság elektronikus úton haladéktalanul tájékoztatja a hatóságot a hiánypótlásra megállapított határidő meghosszabbításáról, a határnap megjelölésével.
+(4)
 
 (5) A hatóság és a szakhatóság a hiánypótlási felhívásában a hiánypótlás teljesítése érdekében a hiánypótlási határidőn belüli időpontra tárgyalás tartását rendeli el, kivéve, ha
 
@@ -246,13 +241,13 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 6/L. § (1) Az országos településrendezési és építési követelményekről szóló kormányrendeletben megjelölt gazdasági terület kivételével nem nyilvánítható beépítésre szánt területté a 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsáv.
 
-(2) Az (1) bekezdés szerinti korlátozás a közút vagy vasút építésére kiadott jogerős építési engedély időbeli hatályával együtt szűnik meg, kivéve ha az érintett önkormányzatok a településrendezési eszközeikben átvezették a közút vagy vasút építésének tényét és területigényét, ebben az esetben a módosított településrendezési eszköz hatálybalépésével egyidejűleg megszűnik a korlátozás.
+(2) Az (1) bekezdés szerinti korlátozás a közút vagy vasút építésére kiadott végleges építési engedély időbeli hatályával együtt szűnik meg, kivéve ha az érintett önkormányzatok a településrendezési eszközeikben átvezették a közút vagy vasút építésének tényét és területigényét, ebben az esetben a módosított településrendezési eszköz hatálybalépésével egyidejűleg megszűnik a korlátozás.
 
 (3) A 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon a területsáv védettségének időtartamán belül tilos a terepviszonyokat megváltoztató munkát végezni. Ez a tilalom a megjelölt időtartamon belül az ingatlan vagy egy része állami tulajdonként való birtokba vételéig áll fenn.
 
 (4) A 6/D. § (3) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon a területsáv védettségének időtartamán belül
 
-- a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó jogerős engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
+- a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó végleges engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
 - b) a földrészlet művelési ágát és minőségi osztályát csak akkor lehet megváltoztatni,
 
 ha azt előzetesen a közlekedési hatóság engedélyezte.
@@ -266,7 +261,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (7) Ha a nyomvonal felszín alatti vonalvezetéssel tervezett, a nyomvonal felszín alatti szakaszán a tengelytől számított 50 méteren belül a (4) bekezdés szerinti engedély a (6) bekezdésben foglaltak szerint adható ki. Az (1) bekezdés szerint védett terület fennmaradó részén a közlekedési hatóság az építtető hozzájárulásával megadhatja a (4) bekezdés szerinti engedélyt, ha a tevékenység értéknövekedést nem eredményez, vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy a közútépíttetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
 
-(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően jogerősen engedélyezett építési munkákra.
+(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően végleges döntéssel engedélyezett építési munkákra.
 
 (9) A (3)–(4) bekezdés szerinti tilalommal, illetve használati korlátozással bekövetkező akadályoztatás (az ingatlannak közút céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás (rendelkezésre tartás) időtartamára, jellegére, az akadályoztatást megelőző használathoz képest megállapítható mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan közút céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 
@@ -330,9 +325,9 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (6) Az engedély alapján végzett engedélyes haditechnikai termék felkutatása esetén az engedélyes, ha a kutatás nem jelent az ingatlanban maradandó változást, a haditechnikai kutatás eredményessége érdekében bármely ingatlanra – a lakás és a nem lakás céljára szolgáló helyiségek kivételével – beléphet. Az engedélyesnek az ingatlan tulajdonosát (használóját, vagyonkezelőjét) a kutatási munkálatokról igazolható módon előzetesen értesítenie kell.
 
-### A hatósági határozat bírósági felülvizsgálata
+### Közigazgatási per
 
-7. § A törvény hatálya alá tartozó hatósági ügyekben hozott határozat bírósági felülvizsgálata iránt indított perekben a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) XX. fejezetének rendelkezéseit az e törvény 8–10. §-aiban meghatározott eltérésekkel kell alkalmazni.
+7. § E törvény hatálya alá tartozó hatósági ügyekben hozott határozat ellen indított közigazgatási perekben a közigazgatási perrendtartásról szóló törvény rendelkezéseit az e törvény 8–10. §-ában meghatározott eltérésekkel kell alkalmazni.
 
 8. § (1) A perben a jogi képviselet kötelező.
 
@@ -388,7 +383,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 - b) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését;
 - c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegbízott feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
 - d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését,
-- e) a kiemelt jelentőségű ügyben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénytől és az ügyfajtára vonatkozó különös eljárási szabályoktól eltérő rendelkezéseket a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott tárgykörben,
+- e)
 - f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket,
 - g) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz kapcsolódó kiemelt jelentőségű ügyek körét, valamint szabályozza ezen ügyekben a b)–f) pontban meghatározottakat.
 - h) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz megvalósításához szükséges területsávot vagy nyomvonalat.

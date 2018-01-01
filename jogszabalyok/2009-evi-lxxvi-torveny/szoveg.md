@@ -64,7 +64,7 @@ jogszerűen nem kezdhető meg és nem folytatható, vagy a szolgáltatás jogsze
 - f) közérdeken alapuló kényszerítő indok: az Európai Közösség létrehozásáról szóló szerződés (a továbbiakban: EK-szerződés) 46. cikkében meghatározott célok, valamint az Európai Közösségek Bíróságának ítélkezési gyakorlatában az EK-szerződés 43., illetve 49. cikkének alkalmazásában ilyenként elismert egyéb közérdek,
 - g) letelepedés: gazdasági tevékenység ténylegesen és tartós, huzamos jelleggel történő folytatása erre a célra szolgáló vagy rendszeresített létesítmény, telep, iroda, üzlet vagy egyéb hely, rögzített felszerelés vagy berendezés útján,
 - h) magatartási kódex: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben ekként meghatározott fogalom,
-- i) más EGT-állam illetékes hatósága: az adott EGT-államban az adott állam joga szerint valamely szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggésben jog vagy kötelezettség megállapítására, adat, tény vagy jogosultság igazolására, nyilvántartás vezetésére vagy a szolgáltatási tevékenység megkezdésére vagy folytatására előírt követelmények betartásának ellenőrzésére hatáskörrel rendelkező hatóság, egyéb szervezet, testület vagy személy, ideértve az ilyen hatáskörben eljáró bíróságot is,
+- i) más EGT-állam illetékes hatósága: az adott EGT-államban az adott állam joga szerint valamely szolgáltatási tevékenység megkezdésével vagy folytatásával összefüggésben jog vagy kötelezettség megállapítására, adat igazolására, nyilvántartás vezetésére vagy a szolgáltatási tevékenység megkezdésére vagy folytatására előírt követelmények betartásának ellenőrzésére hatáskörrel rendelkező hatóság, egyéb szervezet, testület vagy személy, ideértve az ilyen hatáskörben eljáró bíróságot is,
 - j) szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben ekként meghatározott fogalom,
 - k) szakmai biztosíték: olyan felelősségbiztosítás, egyéb garancia vagy biztosíték, amely valamely biztosítóval, hitelintézettel vagy egyéb szakmai biztosítást nyújtó szervezettel kötött szerződés vagy más jogviszony alapján a szolgáltatónak a szolgáltatási tevékenységével összefüggően a szolgáltatás igénybe vevőjének vagy adott esetben más személynek okozott károkért való felelősségéből eredő követelések fedezésére szolgál,
 - l) szolgáltatási tevékenység: bármely önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység, kivéve a termelő tevékenységet és a közhatalom gyakorlását,
@@ -126,7 +126,7 @@ eltérően nem rendelkezik, a szolgáltató szabadon választhatja meg az által
 9. § A 7. és 8. §-ban foglalt rendelkezéseket nem kell alkalmazni
 
 - a) a külön törvény alapján szolgáltatásnyújtási kötelezettség hatálya alá tartozó szolgáltató által e kötelezettség alapján nyújtott, a lakosság alapvető szükségleteinek ellátására irányuló szolgáltatásokra és az ezek fenntartására előírt követelményekre,
-- b) az ügyvédekről szóló törvény szerinti európai közösségi jogász bírósági vagy hatósági eljárás során ellátott képviseleti tevékenységére,
+- b) az ügyvédi tevékenységről szóló törvény szerinti európai közösségi jogász bírósági vagy hatósági eljárás során ellátott képviseleti tevékenységére,
 - c) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre.
 
 ### A határon átnyúló szolgáltatásnyújtáseseti korlátozása
@@ -193,7 +193,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 - a) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény alapján a valamely szabályozott szakma gyakorlására való jogosultság igazolásával összefüggésben előírt iratokra, ideértve a határon átnyúló szolgáltatást nyújtó bejelentését és az ahhoz csatolandó iratokat is,
 - b) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti eljárásokra,
 - c) a közbeszerzésekről szóló törvény alkalmazásában az ajánlattevővel, az alvállalkozóval vagy a kapacitásait rendelkezésre bocsátó szervezettel szembeni kizáró okok hiányának, valamint a minőségbiztosítási szabványoknak és a környezetvédelmi vezetési rendszereknek való megfelelés igazolására,
-- d) az ügyvédekről szóló törvény szerinti európai közösségi jogásznak a saját tagállamában az ügyvédi tevékenység folytatására való jogosultsága igazolására.
+- d) az ügyvédi tevékenységről szóló törvény szerinti európai közösségi jogásznak a saját tagállamában az ügyvédi tevékenység folytatására való jogosultsága igazolására.
 
 ### Szakmai biztosítékok kölcsönös elismerése
 
@@ -222,7 +222,7 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 ### Bejelentés
 
-21. § A bejelentésre az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a joghatóságra, hatáskörre és illetékességre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, a közreműködő hatóságra, az igazolási kérelemre, továbbá a költségmentességre vonatkozó rendelkezéseit, azzal, hogy ahol a közigazgatási hatósági eljárás általános szabályairól szóló törvény ügyfelet említ, azon a bejelentést tevőt kell érteni.
+21. § A bejelentésre az e törvényben foglalt eltérésekkel megfelelően alkalmazni kell az általános közigazgatási rendtartásról szóló törvénynek a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a hatáskörre és illetékességre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, továbbá a költségmentességre vonatkozó rendelkezéseit, azzal, hogy ahol az általános közigazgatási rendtartásról szóló törvény ügyfelet említ, azon a bejelentést tevőt kell érteni.
 
 22. § (1) A bejelentés tartalmazza
 
@@ -304,13 +304,13 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 
 28. § A szolgáltatás felügyeletét ellátó hatóság törli a 27. § szerinti nyilvántartásból a szolgáltatót, ha
 
-- a) az adott szolgáltatási tevékenységre vonatkozó jogszabályi előírások megsértése miatt az adott szolgáltatásnyújtás megkezdésére és folytatására való jogosultságot szabályozó jogszabályban meghatározottak szerint jogerősen megtiltották számára az adott szolgáltatási tevékenység folytatását, vagy
+- a) az adott szolgáltatási tevékenységre vonatkozó jogszabályi előírások megsértése miatt az adott szolgáltatásnyújtás megkezdésére és folytatására való jogosultságot szabályozó jogszabályban meghatározottak szerint jogerősen vagy végleges döntésben megtiltották számára az adott szolgáltatási tevékenység folytatását, vagy
 - b) a szolgáltató a szolgáltatási tevékenység megszüntetését bejelentette, vagy
 - c) a bejelentés lejárt.
 
 ### Szolgáltatók nyilvántartására vonatkozóközös szabályok
 
-29. § (1) A szolgáltatás felügyeletét ellátó hatóság nyilvántartást vezet azon szolgáltatókról, amelyek tekintetében a szolgáltatási tevékenység folytatását jogerősen megtiltotta.
+29. § (1) A szolgáltatás felügyeletét ellátó hatóság nyilvántartást vezet azon szolgáltatókról, amelyek tekintetében a szolgáltatási tevékenység folytatását végleges döntésével megtiltotta.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
 
@@ -421,9 +421,9 @@ formájában kell az igénybe vevők rendelkezésére bocsátani.
 
 ### Általános szabályok
 
-39. § A szolgáltatási tevékenység megkezdésével és folytatásával összefüggő közigazgatási hatósági ügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény nemzetközi jogsegélyre vonatkozó eljárási rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+39. § A szolgáltatási tevékenység megkezdésével és folytatásával összefüggő közigazgatási hatósági ügyekben az általános közigazgatási rendtartásról szóló törvény megkeresésre vonatkozó eljárási rendelkezéseit az e fejezetben foglalt kiegészítésekkel és eltérésekkel kell alkalmazni.
 
-40. § (1) A nemzetközi jogsegélyügyekben, valamint a 45–47. § szerinti eljárásokban a hatóság, a hatósági jogkörben eljáró köztestület és egyéb szervezet (e fejezet alkalmazásában a továbbiakban: hatóság) más EGT-állam illetékes hatóságaival a belső piaci információs rendszeren (a továbbiakban: IMI-rendszer) keresztül, elektronikus úton tart kapcsolatot az IMI rendelet, valamint a Kormány rendeletében meghatározott szabályok szerint.
+40. § (1) A megkeresésekben, valamint a 45–47. § szerinti eljárásokban a hatóság, a hatósági jogkörben eljáró köztestület és egyéb szervezet (e fejezet alkalmazásában a továbbiakban: hatóság) más EGT-állam illetékes hatóságaival a belső piaci információs rendszeren (a továbbiakban: IMI-rendszer) keresztül, elektronikus úton tart kapcsolatot az IMI rendelet, valamint a Kormány rendeletében meghatározott szabályok szerint.
 
 (2) Az IMI-rendszer hazai működésének felügyeletét a Kormány rendeletében kijelölt IMI-koordinátorok látják el a Kormány rendeletében meghatározottak szerint.
 
@@ -434,7 +434,7 @@ formájában kell az igénybe vevők rendelkezésére bocsátani.
 (3) A hatóság az (1) bekezdésben meghatározott ellenőrzés érdekében jogosult más magyar hatóságtól arra vonatkozó tényadatot igényelni, hogy az általa vezetett nyilvántartásokban kezel-e az EGT-állam illetékes hatósága által közölt adatokkal egyező adatokat, és jogosult ezt az adatot az ellenőrzés időtartamáig kezelni a következők tekintetében:
 
 - a) engedélyhez vagy más feltételhez kötött tevékenység folytatása esetén az érintett rendelkezik-e a szükséges engedéllyel, feltételekkel,
-- b) az érintett nem áll-e az ellenőrzéssel érintett tevékenység folytatását megtiltó vagy a tevékenységet meghatározott ideig vagy mértékben korlátozó jogerős hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott jogerős fegyelmi büntetés hatálya alatt,
+- b) az érintett nem áll-e az ellenőrzéssel érintett tevékenység folytatását megtiltó vagy a tevékenységet meghatározott ideig vagy mértékben korlátozó végleges hatósági határozat vagy jogszabályban kötelezően előírt valamely szervezethez tartozás esetén az ilyen szervezet által kiszabott végleges fegyelmi büntetés hatálya alatt,
 - c) az érintettnek nem áll-e fenn lejárt köztartozása, vagy
 - d) az érintett nem áll-e csőd- vagy felszámolási eljárás, végelszámolás vagy más jogutód nélküli megszüntetési eljárás hatálya alatt.
 
@@ -518,7 +518,7 @@ a jogsértést megállapító határozat, vagy – a b) pont szerinti esetben �
 
 ### A 2006/123/EK irányelv szerinti bejelentési kötelezettségek
 
-51. § (1) A külpolitikáért felelős miniszter a Kormány rendeletében meghatározottak szerint gondoskodik
+51. § (1) Az igazságügyért felelős miniszter a Kormány rendeletében meghatározottak szerint gondoskodik
 
 - a) a 2006/123/EK irányelv 15. cikk (7) bekezdése alapján a korlátozó követelményeket tartalmazó jogszabálytervezeteknek, továbbá
 - b) a 2006/123/EK irányelv 39. cikk (5) bekezdése alapján a szabad szolgáltatásnyújtás jogával rendelkező szolgáltatókra a 7. §-sal összhangban alkalmazandó jogszabályi követelményeknek és azoknak a 2006/123/EK európai parlamenti és tanácsi irányelv 16. cikk (1) és (3) bekezdése szerinti indokoltságának
@@ -552,11 +552,11 @@ az Európai Bizottság részére történő bejelentéséről.
 - f) kijelölje az IMI-koordinátorként eljáró szerveket, és meghatározza a Belső Piaci Információs Rendszer hazai működésének és a hatóságok, hatósági jogkörben eljáró köztestületek és egyéb szervezetek Belső Piaci Információs Rendszerben való részvételének részletes szabályait,
 - g) meghatározza a 25. § szerint a bejelentés elmulasztása esetén fizetendő bírság mértékét és megfizetésének módját,
 - h) meghatározza az 51. § szerinti bejelentés részletes szabályait,
-- i) az e törvény hatálya alá tartozó engedélyezési és bejelentési eljárásokban közreműködő hatóságot jelöljön ki, és meghatározza a közreműködő hatóság feladatait; ennek során a közreműködő hatóságnak a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározott egyes eljárási feladatai ellátását kizárhatja, és a közreműködő hatóság számára további eljárási feladatokat határozhat meg.
+- i)
 
 ### Felülvizsgálat
 
-54. § A szolgáltatások igénybevevőinek biztonságára és a szolgáltatási tevékenységek vonatkozásában a közérdeken alapuló kényszerítő indokok megfelelő érvényesülésére figyelemmel a Kormány kétévente – első alkalommal 2011. december 31-ig – tájékoztatja az Országgyűlés feladatkörrel rendelkező bizottságait e törvény, valamint az e törvény hatálya alá tartozó szolgáltatási tevékenységek megkezdésére és folytatására vonatkozó jogszabályi rendelkezések hatályosulásáról és az adott időszak jogalkalmazásának tapasztalatairól.
+54. §
 
 ### Átmeneti és hatályon kívül helyező rendelkezések
 
@@ -568,7 +568,7 @@ az Európai Bizottság részére történő bejelentéséről.
 
 (3) A szolgáltatás felügyeletét ellátó hatóság 2009. október 1-ig hivatalból felveszi az e törvény 29. § szerinti nyilvántartásba azt a szolgáltatót, amely 2009. október 1-jén vagy azt követően végrehajtható hatósági határozat alapján az adott szolgáltatási tevékenység folytatására vonatkozó tilalom hatálya alatt áll.
 
-57. §
+57. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 

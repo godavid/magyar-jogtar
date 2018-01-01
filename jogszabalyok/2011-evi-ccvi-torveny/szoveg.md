@@ -390,7 +390,7 @@ rendeletben meghatározza.
 (3) A kezdeményezés
 
 - a) elmulasztása esetén az (1) bekezdés szerinti határidő lejártát,
-- b) 14/B. § (2) bekezdése alapján történő elutasítása esetén a döntés közlését, a döntés bírósági felülvizsgálata esetén – ha a döntést a bíróság helybenhagyja – a jogerős bírósági ítélet közlését,
+- b) 14/B. § (2) bekezdése alapján történő elutasítása esetén a döntés közlését, a döntés elleni közigazgatási per esetén – ha a döntést a bíróság helybenhagyja – a jogerős bírósági ítélet közlését,
 - c) 14/C. § (4) bekezdése szerinti elutasítása esetén az országgyűlési határozat közzétételét, az országgyűlési határozat 14/D. § (2) bekezdése szerinti jogorvoslattal való megtámadása esetén – ha a vallási tevékenységet végző szervezet elismerésére irányuló eljárás törvényességét az Alkotmánybíróság helybenhagyja – az Alkotmánybíróság ezen eljárásban hozott határozatának közzétételét
 
 követő 30. naptól az (1) bekezdés szerinti vallási közösség vallási tevékenységet végző szervezetnek minősül.

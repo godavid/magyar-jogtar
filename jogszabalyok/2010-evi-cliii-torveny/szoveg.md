@@ -1076,7 +1076,7 @@ A 83/A. § (2) bekezdésében meghatározott szerződésnek – a 83/A. § (2) b
 
 2. Az 1. pontban foglalt bármely feltételnek meg nem felelő szerződés akkor alkalmazható, ha
 
-a) a szerződés tekintetében a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet (a továbbiakban: Nmtvr.) vagy az Nmtvr. 2. §-ában említett nemzetközi szerződés alapján külföldi állam jogának alkalmazására sor kerülhet, és erről – ha ezt a kijelölt hitelintézet kéri – ügyvéd, ügyvédi iroda írásbeli nyilatkozatot adott,
+a) a szerződés tekintetében a nemzetközi magánjogi szabályok alapján külföldi állam jogának alkalmazására sor kerülhet, és erről – ha ezt a kijelölt hitelintézet kéri – ügyvéd, ügyvédi iroda írásbeli nyilatkozatot adott,
 
 b) a külföldi államnak a szerződés tekintetében alkalmazott joga – így különösen bármely szerződő fél személyére, vagy a szerződés tárgyára tekintettel – kizárja vagy korlátozza az 1. pontban meghatározott egy vagy több feltétel teljesítését, és ezt a tényt maga a szerződés tartalmazza, továbbá
 

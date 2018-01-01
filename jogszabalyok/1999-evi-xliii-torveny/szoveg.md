@@ -310,7 +310,7 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 - b) aki rendelkezik e törvény szerinti megfelelő pénzügyi teljesítőképességgel,
 - c) aki rendelkezik az alapvető kegyeleti feltételeknek, valamint a munkavégzésre vonatkozó előírásoknak megfelelő, a tevékenység méltóságát nem sértő, a környezetben élők egészségét és a környezetet nem veszélyeztető telephellyel,
 - d) akivel szemben összeférhetetlenség nem áll fenn, és
-- e) aki saját maga, vagy legalább egy, a temetkezési szolgáltatási tevékenységben személyesen közreműködő alkalmazottja rendelkezik a kormányrendeletben meghatározott szakmai képesítéssel és megfelel az ott meghatározott feltételeknek,
+- e) aki saját maga, gazdálkodó szervezet esetében, akinek vezető tisztségviselője rendelkezik a Kormány rendeletében meghatározott szakmai képesítéssel és megfelel az abban meghatározott feltételeknek,
 - f) aki vagy gazdálkodó szervezet esetében, amelynek vezető tisztségviselője a temetkezési szolgáltatásokat engedélyező hatóság 31. §-a szerinti nyilvántartásában nem szerepel.
 
 (3) A (2) bekezdésben meghatározott követelményeket – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvényben (a továbbiakban: Bnytv.) meghatározottakra figyelemmel –
@@ -323,12 +323,12 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 (5) A temetkezési szolgáltatásokat engedélyező hatóság az engedéllyel rendelkező szolgáltatókról nyilvántartást vezet.
 
-(6)
+(6) A temetkezési szolgáltatásokat engedélyező hatóság a temetkezési szolgáltatási tevékenység gyakorlásának időtartama alatt legalább 2 évente ellenőrzi a szolgáltatókat. A telephely ellenőrzését végző temetkezési szolgáltatásokat engedélyező hatóság a hatósági ellenőrzés eredményét a szolgáltató székhelye szerint illetékes temetkezési szolgáltatásokat engedélyező hatóságnak is megküldi.
 
 (7) A (2) bekezdés a) pontjában meghatározott feltételt igazolására szolgáló személyes adatokat a temetkezési szolgáltatásokat engedélyező hatóság
 
-- a) a temetkezési szolgáltatási tevékenység engedélyezése iránti eljárás jogerős befejezéséig vagy
-- b) a temetkezési szolgáltató nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) a temetkezési szolgáltatási tevékenység engedélyezése iránti eljárás végleges befejezéséig vagy
+- b) a temetkezési szolgáltató nyilvántartásba vétele esetén a hatósági ellenőrzés időtartamára vagy a nyilvántartásból való törlésre irányuló eljárásban az eljárás végleges befejezéséig kezeli.
 
 31. § (1) A temetkezési szolgáltatást engedélyező hatóság a temetkezések szabályszerű megvalósítása, az átlátható gazdálkodás rendjének betartása, a szolgáltatók szabályszerű működésével a kegyeleti jog gyakorlásának biztosítása érdekében nyilvántartást vezet azon személyekről
 
@@ -337,7 +337,7 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 (2) Az (1) bekezdés szerinti nyilvántartás az érintett személy természetes személyazonosító adatait, lakóhelyét és – az (1) bekezdés b) pontja szerinti személy esetén – a gazdálkodó szervezet nevét és székhelyét tartalmazza.
 
-(3) A temetkezési szolgáltatást engedélyező hatóság a (2) bekezdésben megjelölt adatokat az (1) bekezdés szerinti engedély visszavonásáról szóló határozat jogerőre emelkedésétől számított 5 évig kezeli.
+(3) A temetkezési szolgáltatást engedélyező hatóság a (2) bekezdésben megjelölt adatokat az (1) bekezdés szerinti engedély visszavonásáról szóló határozat véglegessé válásától számított 5 évig kezeli.
 
 32. §
 
@@ -355,9 +355,17 @@ csak temetkezési szolgáltatói telephelyen végezheti.
 
 (4) Ha a temetkezési szolgáltatónak meg nem fizetett köztartozása van, az (1) bekezdés a) pontjában szereplő adatokról nyilvántartást vezető hatóság értesíti erről a tényről a temetkezési szolgáltatásokat engedélyező hatóságot.
 
-34. § (1) Ha a temetkezési szolgáltatásokat engedélyező hatóság megállapítja, hogy a temetkezési szolgáltató a tevékenységére vonatkozó, jogszabályban előírt feltételt nem teljesíti vagy az engedély kiadásának feltételei már nem állnak fenn, az engedélyt haladéktalanul visszavonja.
+(5) Az adóhatóság az erről szóló bejelentés esetén vagy hatóság megkeresésére hivatalból köteles vizsgálni, hogy a temetkezési szolgáltató az (1) bekezdés a) pontja szerinti feltételeknek megfelel-e.
 
-(2) Ha a hatóság ellenőrzése során azt állapította meg, hogy a temetkezési szolgáltató a hatóságok által előírt kötelezettséget nem tartja be és a kötelezettség betartására felszólító hatósági végzés kézhezvételétől számított 30 napon belül a szolgáltató a felszólításnak nem tesz eleget, a temetkezési szolgáltatásokat engedélyező hatóság – a jogsértés súlyát, jellegét és ismétlődését figyelembe véve – százezer forinttól egymillió forintig terjedő bírságot szab ki. Ha a kötelezettség betartására felszólító végzés kézhezvételétől számított 60 napon belül a temetkezési szolgáltató a jogszabályoknak és hatósági határozatnak megfelelő működést nem állítja helyre, a temetkezési szolgáltatásokat engedélyező hatóság az engedélyt – adott tevékenység, telephely vagy mindkettő vonatkozásában – visszavonja.
+34. § (1) Ha a temetkezési szolgáltatásokat engedélyező hatóság megállapítja, hogy az engedély kiadásának feltételei már nem állnak fenn, az engedélyt haladéktalanul visszavonja.
+
+(2) Ha a hatóság ellenőrzése során azt állapította meg, hogy a temetkezési szolgáltató a tevékenységére vonatkozó, jogszabályban foglalt kötelezettségének nem tesz eleget,
+
+- a) kötelezi szolgáltatót a jogsértés abbahagyására és a jogszerű eljárásra,
+- b) szükség szerint határidő tűzésével kötelezheti a szolgáltatót a jövőre nézve a jogszerű eljárásra,
+- c) – a jogsértés súlyát, jellegét és ismétlődését figyelembe véve – százezer forinttól egymillió forintig terjedő bírságot szab ki.
+
+(3) Ha a (2) bekezdés a) pontja szerinti döntés véglegessé válásától számított 60 napon belül vagy a (2) bekezdés b) pontja szerinti határidőn belül a temetkezési szolgáltató a jogszabályoknak és hatósági határozatnak megfelelő működést nem állítja helyre, a temetkezési szolgáltatásokat engedélyező hatóság az engedélyt – adott tevékenység, telephely vagy mindkettő vonatkozásában – visszavonja.
 
 ### Halottszállítás
 
@@ -567,7 +575,9 @@ kell alkalmazni.
 
 44/A. § E törvénynek a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló 2015. évi CLV. törvénnyel (a továbbiakban: Módtv.) megállapított szabályait a Módtv. hatálybalépésekor folyamatban lévő hatósági ellenőrzések során is alkalmazni kell.
 
-44/B. § A 2017. január 1-jén a 30. § (1) bekezdés szerinti engedéllyel rendelkező szolgáltató a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 31. § szerinti nyilvántartásba a temetkezési szolgáltatást engedélyező hatóság azon személyeket veszi nyilvántartásba,
+44/B. § (1) A 2017. január 1-jén a 30. § (1) bekezdés szerinti engedéllyel rendelkező szolgáltató a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 30. § (2) bekezdés e) pontjában meghatározott feltétel meglétét 2019. július 1-jéig köteles igazolni.
+
+(2) A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 31. § szerinti nyilvántartásba a temetkezési szolgáltatást engedélyező hatóság azon személyeket veszi nyilvántartásba,
 
 - a) akiknek engedélyét,
 - b) gazdálkodó szervezet vezető tisztségviselője esetén, akinek vezetése alatt álló gazdálkodó szervezet engedélyét

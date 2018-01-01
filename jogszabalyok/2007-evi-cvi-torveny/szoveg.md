@@ -321,7 +321,7 @@ gyakorolja.
 
 - a) csőd- vagy felszámolási eljárás, végelszámolás, önkormányzati adósságrendezési eljárás alatt áll;
 - b) tevékenységét felfüggesztette vagy akinek tevékenységét felfüggesztették;
-- c) az adózás rendjéről szóló 2003. évi XCII. törvény 178. §-ának 20. pontja szerinti, hatvan napnál régebben lejárt esedékességű köztartozással rendelkezik;
+- c) az adózás rendjéről szóló törvény szerinti, hatvan napnál régebben lejárt esedékességű köztartozással rendelkezik;
 - d) az alábbi bűncselekmények elkövetése miatt büntetett előéletű:
   - da) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezet VI. címében meghatározott közélet tisztasága elleni vagy XVII. fejezetében meghatározott gazdasági bűncselekmény,
   - db) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII. Fejezetében meghatározott korrupciós bűncselekmény, XXXVIII. Fejezetében meghatározott pénz- és bélyegforgalom biztonsága elleni bűncselekmény, XXXIX. Fejezetében meghatározott költségvetést károsító bűncselekmény, XL. Fejezetében meghatározott pénzmosás, XLI. Fejezetében meghatározott gazdálkodás rendjét sértő bűncselekmény, XLII. Fejezetében meghatározott fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő bűncselekmény vagy XLIII. Fejezetében meghatározott tiltott adatszerzés és az információs rendszer elleni bűncselekmény;

@@ -15,7 +15,7 @@ Annak érdekében, hogy a múltunk és jelenünk megismerésének pótolhatatlan
 - 1. időszaki kiállítás: legfeljebb 12 hónapig nyitva tartó kiállítás;
 - 2. kiállítás: a kulturális javak kulturális, oktatási, szórakoztatási, tudományos célú, közvetlenül érzékelhető módon történő nyilvános bemutatása, amelyet – a kiállító által meghatározott, vagy jogszabályban rögzített feltételek szerint – bárki megtekinthet;
 - 3. kiállító: állami vagy önkormányzati muzeális intézmény, kiállítóhely, nyilvános könyvtár, továbbá közlevéltár vagy nyilvános magánlevéltár;
-- 4. kulturális javak: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 7. § 4. pontjában meghatározott javak;
+- 4. kulturális javak: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 7. § 10. pontjában meghatározott javak;
 - 5. nem magyar joghatóság alá tartozó tulajdonos vagy birtokos: a nem magyar állampolgár; valamint az a magyar állampolgár, akinek lakóhelye külföldön van; továbbá a nem magyarországi székhelyű szervezet;
 - 6. rendelkezésre jogosult: a kölcsönzött kulturális javak olyan – nem magyar joghatóság alá tartozó – tulajdonosa vagy birtokosa, aki (amely) az érintett kulturális javakkal az időszaki kiállítás céljára történő kölcsönzésre is kiterjedő jogokkal rendelkezik.
 
@@ -54,7 +54,7 @@ Annak érdekében, hogy a múltunk és jelenünk megismerésének pótolhatatlan
 
 (2) A tanúsítványt az 1. melléklet szerint kell kiállítani, ha pedig a hatóság a 6. § (3) bekezdése szerinti kérelemnek helyt ad, akkor a 2. melléklet szerinti tanúsítványt állít ki.
 
-8. § A tanúsítvánnyal kapcsolatos eljárásra egyebekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit kell alkalmazni azzal, hogy a hatóság
+8. § A tanúsítvánnyal kapcsolatos eljárásra egyebekben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit kell alkalmazni azzal, hogy a hatóság
 
 - a) az eljárás megindításáról honlapján és hirdetőtábláján történő közhírré tétel útján értesítést tesz közzé,
 - b) a tanúsítványt a különleges védelem időtartama alatt honlapján és hirdetőtábláján közzéteszi,

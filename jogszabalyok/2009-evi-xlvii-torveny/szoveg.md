@@ -10,7 +10,7 @@ a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bír
 
 (2) Az e törvény hatálya alá tartozó nyilvántartások törvényességi felügyeletét a legfőbb ügyész látja el.
 
-(3) Az e törvény hatálya alá tartozó hatósági nyilvántartások vezetésére és az azokhoz kapcsolódó hatósági eljárásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(3) Az e törvény hatálya alá tartozó hatósági nyilvántartások vezetésére és az azokhoz kapcsolódó hatósági eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit az e törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni.
 
 ### Értelmező rendelkezések
 
@@ -184,13 +184,13 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 - h) közkegyelem vagy egyéni kegyelem alapján a bírósági határozatot érintő változásokat, az egyéni kegyelmi határozat számát és keltét;
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - j) a törvényi mentesítés várható időpontját;
-- k) a külföldi ítélet érvényének elismerése esetén
+- k) a külföldi ítélet elismerése, illetve az Európai Unió más tagállamában magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítélet (a továbbiakban: tagállami ítélet) megfeleltetése esetén
   - ka) ennek tényét,
-  - kb) a külföldi bíróság és az elismerő határozatot hozó magyar bíróság megnevezését,
-  - kc) a külföldi bíróság és az elismerő határozatot hozó magyar bíróság által hozott határozat számát, keltét, jogerőre emelkedésének napját,
-  - kd) az ítéletben a magyar bíróság által elismert bűncselekmény megnevezését, és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
-  - ke) a külföldi bíróság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartamát, továbbá a külföldön történt büntetés-végrehajtással kapcsolatos adatok közül a foganatba vétel időpontját, a feltételes szabadságra bocsátás napját, a büntetés vagy intézkedés kitöltésének időpontját, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó külföldi bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját,
-  - kf) a kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén ennek tényét, az elismert és átvett szabadságvesztés időtartamát,
+  - kb) a külföldi bíróság és az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság megnevezését,
+  - kc) a külföldi bíróság és az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság által hozott határozat számát, keltét, jogerőre emelkedésének napját,
+  - kd) a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott bűncselekmény megnevezését és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
+  - ke) a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartamát, továbbá a külföldön történt büntetés-végrehajtással kapcsolatos adatok közül a foganatba vétel időpontját, a feltételes szabadságra bocsátás napját, a büntetés vagy intézkedés kitöltésének időpontját, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó külföldi bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját,
+  - kf) a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén ennek tényét, az elismert vagy megfeleltetett és átvett szabadságvesztés időtartamát,
   - kg) a törvényi mentesítés várható időpontját;
 - l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
 - m)
@@ -207,7 +207,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 (1a) A korábbi felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetés próbaideje meghosszabbodása esetén ennek tényét, a meghosszabbodott próbaidő tartamát és leteltének napját, a felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját [11. § (1) bekezdés e) pont] a büntetés-végrehajtási bíró közli, ha arra a közérdekű munka vagy a pénzbüntetés szabadságvesztésre történő átváltozása miatt került sor.
 
-(1b) Ha a 11. § (1) bekezdés k) pont ke) alpontjában meghatározott, a külföldi ítéletben kiszabott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adat nem áll az elismerő határozatot hozó magyar bíróság rendelkezésére, a bűnügyi nyilvántartó szerv a külföldi ítélet érvényének elismerését követően a külföldi hatóságtól adatközlés útján megkapott, illetve a külföldi hatóságtól származó, hiteles irattal igazolt végrehajtási adatokat bejegyzi a nyilvántartásba. Ha a foganatba vétel időpontja nem ismert, a külföldi ítélet jogerőre emelkedésének a napját kell a foganatba vétel időpontjának tekinteni.
+(1b) Ha a 11. § (1) bekezdés k) pont ke) alpontjában meghatározott, a külföldi ítéletben vagy a tagállami ítéletben kiszabott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adat nem áll az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság rendelkezésére, a bűnügyi nyilvántartó szerv a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését követően a külföldi hatóságtól adatközlés útján megkapott, illetve a külföldi hatóságtól származó, hiteles irattal igazolt végrehajtási adatokat bejegyzi a nyilvántartásba. Ha a foganatba vétel időpontja nem ismert, a külföldi ítélet vagy a tagállami ítélet jogerőre emelkedésének a napját kell a foganatba vétel időpontjának tekinteni.
 
 (2) A 11. § (1) bekezdés h) pontjában meghatározott adatokat az alapügyben első fokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel.
 
@@ -221,9 +221,9 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 13. § (1) A bűntettesek nyilvántartásába felvett adatokat az érintett mentesítésének időpontjáig kell nyilvántartani.
 
-(2) Ha a külföldi ítélet érvényét elismerő magyar bíróság által közölt, a 11. § (1) bekezdés k) pont kg) alpontja szerinti időpontig a külföldi ítélet végrehajtásával kapcsolatos adatokat beszerezni nem lehet, a bűnügyi nyilvántartó szerv a 11. § (1) bekezdés k) pont kg) alpontja szerinti időpontig tartja nyilván a bűntettesek nyilvántartásában a külföldi ítélettel kapcsolatos adatokat.
+(2) Ha a külföldi ítéletet elismerő vagy a tagállami ítélet megfeleltetését végző magyar bíróság által közölt, a 11. § (1) bekezdés k) pont kg) alpontja szerinti időpontig a külföldi ítélet vagy a tagállami ítélet végrehajtásával kapcsolatos adatokat beszerezni nem lehet, a bűnügyi nyilvántartó szerv a 11. § (1) bekezdés k) pont kg) alpontja szerinti időpontig tartja nyilván a bűntettesek nyilvántartásában a külföldi ítélettel vagy a tagállami ítélettel kapcsolatos adatokat.
 
-(3) Ha a külföldi ítélet érvényét elismerő magyar bíróság nem közölte a 11. § (1) bekezdés k) pont kg) alpontja szerinti időpontot és a külföldi ítélet végrehajtásával kapcsolatos adatokat a külföldi ítélet érvényének elismerését követően beszerezni nem lehet, akkor a büntetés vagy az intézkedés – foganatba vétel napjától számított – teljes tartama lejáratának a napját kell a büntetés vagy intézkedés kitöltése utolsó napjának tekintetni.
+(3) Ha a külföldi ítéletet elismerő vagy a tagállami ítélet megfeleltetését végző magyar bíróság nem közölte a 11. § (1) bekezdés k) pont kg) alpontja szerinti időpontot és a külföldi ítélet vagy a tagállami ítélet végrehajtásával kapcsolatos adatokat a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését követően beszerezni nem lehet, akkor a büntetés vagy az intézkedés – foganatba vétel napjától számított – teljes tartama lejáratának a napját kell a büntetés vagy intézkedés kitöltése utolsó napjának tekintetni.
 
 ### A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása
 
@@ -264,13 +264,13 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 - g) az alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése vagy meghosszabbítása esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, a próbára bocsátás meghosszabbítása esetén a meghosszabbított próbaidő lejáratának napját, jóvátételi munka helyett büntetés kiszabása esetén a jóvátételi munkát elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - h) összbüntetésbe foglalás, valamint egységes intézkedés elrendelése esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének keltét;
-- j) a külföldi ítélet érvényének elismerése esetén
+- j) a külföldi ítélet elismerése, illetve a tagállami ítélet megfeleltetése esetén
   - ja) ennek tényét,
-  - jb) a külföldi bíróság és az elismerő határozatot hozó magyar bíróság megnevezését,
-  - jc) a külföldi bíróság és az elismerő határozatot hozó magyar bíróság által hozott határozat számát, keltét, jogerőre emelkedésének napját,
-  - jd) az ítéletben a magyar bíróság által elismert bűncselekmény megnevezését, és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
-  - je) a külföldi bíróság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartamát, továbbá a külföldön történt büntetés-végrehajtással kapcsolatos adatok közül a foganatba vétel időpontját, a feltételes szabadságra bocsátás napját, a büntetés vagy intézkedés kitöltésének időpontját, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén, a próbaidő tartamát és a felfüggesztés leteltének időpontját,
-  - jf) a kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén ennek tényét, az elismert és átvett szabadságvesztés időtartamát;
+  - jb) a külföldi bíróság és az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság megnevezését,
+  - jc) a külföldi bíróság és az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság által hozott határozat számát, keltét, jogerőre emelkedésének napját,
+  - jd) a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott bűncselekmény megnevezését, és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
+  - je) a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott büntetés vagy intézkedés tartamát, a büntetés vagy intézkedés kitöltésének időpontját, továbbá a szabadságvesztés esetében a külföldön történt büntetés-végrehajtással kapcsolatos adatok közül a foganatba vétel időpontját, a feltételes szabadságra bocsátás napját, a kitöltés időpontját, a szabadságvesztés büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját,
+  - jf) a kiszabott büntetés vagy intézkedés végrehajtásának átvétele esetén ennek tényét, az elismert vagy megfeleltetett és átvett büntetés vagy intézkedés időtartamát;
 - k) a mentesítés, a nyilvántartásba felvétel időpontját, valamint a nyilvántartásból való törlés várható időpontját;
 - l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
 - m)
@@ -299,7 +299,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 (3a) A korábbi felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetés próbaideje meghosszabbodása esetén ennek tényét, a meghosszabbodott próbaidő tartamát és leteltének napját, a felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját [16. § (1) bekezdés f) pont] a büntetés-végrehajtási bíró közli, ha arra a közérdekű munka vagy a pénzbüntetés szabadságvesztésre történő átváltozása miatt került sor.
 
-(3b) Ha a 16. § (1) bekezdés j) pont je) alpontjában meghatározott, a külföldi ítéletben kiszabott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adat nem áll az elismerő határozatot hozó magyar bíróság rendelkezésére, a bűnügyi nyilvántartó szerv a külföldi ítélet érvényének elismerését követően a külföldi hatóságtól adatközlés útján megkapott, illetve a külföldi hatóságtól származó, hiteles iratban található végrehajtási adatokat bejegyzi a nyilvántartásba. Ha a foganatba vétel időpontja nem ismert, a külföldi ítélet jogerőre emelkedésének a napját kell a foganatba vétel időpontjának tekinteni.
+(3b) Ha a 16. § (1) bekezdés j) pont je) alpontjában meghatározott, a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adat nem áll az elismerő vagy a tagállami ítélet megfeleltetéséről szóló határozatot hozó magyar bíróság rendelkezésére, a bűnügyi nyilvántartó szerv a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését követően a külföldi hatóságtól adatközlés útján megkapott, illetve a külföldi hatóságtól származó, hiteles iratban található végrehajtási adatokat bejegyzi a nyilvántartásba. Ha a foganatba vétel időpontja nem ismert, a külföldi ítélet vagy a tagállami ítélet jogerőre emelkedésének a napját kell a foganatba vétel időpontjának tekinteni.
 
 (4) A 16. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
@@ -367,7 +367,7 @@ számított három évig kell nyilvántartani.
 
 számított három évig kell nyilvántartani.
 
-20/A. § Ha a 16. § (1) bekezdés j) pont je) alpontjában meghatározott, a külföldi ítéletben kiszabott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adatokat a külföldi ítélet érvényének elismerését követően beszerezni nem lehet, akkor a büntetés vagy az intézkedés – foganatba vétel napjától számított – teljes tartama lejáratának a napját kell a büntetés vagy intézkedés kitöltése utolsó napjának tekintetni. Ilyen esetben úgy kell tekinteni, hogy a 18–20. §-ban meghatározott időtartam az azt befolyásoló körülmény bekövetkezése nélkül telt el.
+20/A. § Ha a 16. § (1) bekezdés j) pont je) alpontjában meghatározott, a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott büntetés vagy intézkedés végrehajtására vonatkozó adatokat a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését követően beszerezni nem lehet, akkor a büntetés vagy az intézkedés – foganatba vétel napjától számított – teljes tartama lejáratának a napját kell a büntetés vagy intézkedés kitöltése utolsó napjának tekinteni. Ilyen esetben úgy kell tekinteni, hogy a 18–20. §-ban meghatározott időtartam az azt befolyásoló körülmény bekövetkezése nélkül telt el.
 
 ### A büntetőeljárás hatálya alatt állók nyilvántartása
 
@@ -494,10 +494,11 @@ kell nyilvántartani, és – amennyiben ilyen adattovábbítást kell teljesít
 
 ### III. Fejezet — AZ EURÓPAI UNIÓ TAGÁLLAMAINAK BÍRÓSÁGAI ÁLTAL MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSA
 
-31. § Az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásában (a továbbiakban: tagállami ítéletek nyilvántartása) szereplő adatok kezelésének célja az Európai Unió más tagállamában magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítéletekben (a továbbiakban: tagállami ítélet) foglalt adatoknak:
+31. § Az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásában (a továbbiakban: tagállami ítéletek nyilvántartása) szereplő adatok kezelésének célja a tagállami ítéletekben foglalt adatoknak:
 
-- a) tagállamok közötti – az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében folytatott – kölcsönös cseréjének elősegítése,
-- b) az elítélttel szemben más bűncselekmény elkövetésének megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele.
+- a) a tagállamok közötti – az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében folytatott – kölcsönös cseréjének elősegítése,
+- b) az elítélttel szemben más bűncselekmény elkövetésének megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele, illetve
+- c) a büntetett előélet igazolásának, illetve a hátrányos jogkövetkezmények végrehajtásának az elősegítése.
 
 32. § A tagállami ítéletek nyilvántartásában annak a magyar állampolgárnak az adatait kell nyilvántartani, akinek bűnösségét az Európai Unió más tagállamának bírósága jogerősen megállapította.
 
@@ -516,9 +517,9 @@ kell nyilvántartani, és – amennyiben ilyen adattovábbítást kell teljesít
 - d) az érintett külföldi személyi azonosítóját, ennek hiányában személyazonosító okmánya típusát és számát,
 - e) az érintett ujjnyomatát,
 - f) az érintett álnevét, továbbá
-- g) a mentesítés várható időpontját.
+- g) a törlés várható időpontját.
 
-(3) A tagállami ítéletek nyilvántartása tartalmazza az elismerő határozatot hozó bíróság megnevezését, a határozat számát és keltét, valamint a határozat jogerőre emelkedésének napját, ha az Európai Unió más tagállamának bírósága által meghozott ítélet érvényét a magyar bíróság elismerte.
+(3) Ha a magyar bíróság a tagállami ítélettel kapcsolatban a nemzetközi bűnügyi jogsegélyről szóló törvény szerinti, a külföldi ítélet elismerésére irányuló eljárást, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti megfeleltetési eljárást folytatott le, a tagállami ítéletek nyilvántartása tartalmazza a tagállami ítélet elismeréséről, illetve megfeleltetéséről szóló határozatot hozó bíróság megnevezését, a határozat számát és keltét, valamint a határozat jogerőre emelkedésének napját.
 
 33/A. § (1) A bűnügyi nyilvántartó szerv az érintett személyazonosító adatait bejegyzéskor, a tagállami ítéletek nyilvántartása adatainak módosításakor vagy javításakor, valamint a kérelemre történő adattovábbítást megelőzően – a változások nyomon követése céljából – elektronikus úton egyedileg összehasonlítja a személyiadat- és lakcímnyilvántartás központi szerve által kezelt adatokkal.
 
@@ -539,7 +540,11 @@ vonatkozó adatokkal való összehasonlítás útján állapítja meg az elíté
 
 (7) Ha az elítélt személy személyazonossága az (1)–(6) bekezdésben meghatározott módon kétséget kizáróan nem állapítható meg, a bűnügyi nyilvántartó szerv az Európai Unió más tagállamának kijelölt központi hatósága által megküldött, egy személyhez kétséget kizáróan nem kapcsolható adatokról adattovábbítást nem teljesíthet.
 
-34. § (1) A 33. §-ban meghatározott adatokat a tagállami ítéletről szóló tájékoztatásban meghatározott mentesítés beálltának idejéig kell nyilvántartani. Ha e tájékoztatásban nem szerepel mentesítésre vonatkozó adat, az adatokat akkor kell törölni, amikor a tagállam kijelölt központi hatóságának tájékoztatása szerint azt az érintett tagállam bűnügyi nyilvántartásából törölték.
+33/B. § (1) A bűnügyi nyilvántartó szerv a tagállami ítélet nyilvántartásba vételekor, illetve a tagállami ítélet nyilvántartásba vett adatainak a módosításakor vagy javításakor az érintett személyazonosító adatai alapján elektronikus úton egyedileg összehasonlítja a tagállami ítélet adatait a bűntettesek, illetve a hátrányos jogkövetkezmények hatálya alatt álló, büntetlen előéletű személyek nyilvántartásában kezelt adatokkal. Az összehasonlítás célja, hogy a bűnügyi nyilvántartó szerv ellenőrizze, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 111/C. § (1) bekezdésében meghatározottak alapján van-e helye a tagállami ítélet esetében az ügyészség útján megfeleltetési eljárás kezdeményezésének.
+
+(2) Ha az (1) bekezdés szerinti összehasonlítás alapján a bűnügyi nyilvántartó szerv megállapítja, hogy a bűntettesek, illetve a hátrányos jogkövetkezmények hatálya alatt álló, büntetlen előéletű személyek nyilvántartásában szerepel olyan bírósági határozat, amely esetében a tagállami ítéletre tekintettel az érintettel összefüggésben feltételes szabadságra bocsátás megszüntetése, felfüggesztett szabadságvesztés végrehajtásának elrendelése, javítóintézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetése lehet indokolt, az ügyészség útján intézkedik a megfeleltetési eljárás lefolytatása érdekében. A bűnügyi nyilvántartó szerv ilyen esetben az Európai Unió más tagállamának kijelölt központi hatósága által megküldött, a 33. § (1) és (2) bekezdése szerinti adatokat, továbbá a bűntettesek, illetve a hátrányos jogkövetkezmények hatálya alatt álló, büntetlen előéletű személyek nyilvántartásában szereplő bírósági határozat azonosításához szükséges adatokat küldi meg az ügyészségnek.
+
+34. § (1) A 33. §-ban meghatározott adatokat a tagállami ítéletről szóló tájékoztatásban meghatározott törlés beálltának idejéig kell nyilvántartani. Ha e tájékoztatásban nem szerepel törlésre vonatkozó adat, az adatokat akkor kell törölni, amikor a tagállam kijelölt központi hatóságának tájékoztatása szerint azt az érintett tagállam bűnügyi nyilvántartásából törölték.
 
 (2) A 33. §-ban meghatározott adatok változását az érintett tagállam kijelölt központi hatósága által adott tájékoztatást követően a bűnügyi nyilvántartó szerv haladéktalanul átvezeti.
 
@@ -747,7 +752,7 @@ kezelt DNS-profillal állapítja meg.
 - e) kábítószer birtoklása (Btk. 178. §), kábítószer készítésének elősegítése (Btk. 182. §),
 - f) fegyveres elkövetéssel megvalósuló bűncselekmény vagy
 - g) a 2013. június 30-ig hatályban volt állam elleni bűncselekményekkel (1978. évi IV. törvény X. fejezet), terrorcselekménnyel (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegésével (1978. évi IV. törvény 261/A. §), visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), pénzmosással (1978. évi IV. törvény 303. §), valamint szolgálati bűncselekményekkel (1978. évi IV. törvény XX. Fejezet I. cím) kapcsolatban fennálló feljelentési kötelezettség elmulasztása,
-- h) atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmények (Btk. XXIV. fejezet), terrorcselekmény (Btk. 314–316. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), lopás [Btk. 370. § (2) bekezdés b) pont bc) és bf)–bi) alpont, (3) bekezdés a) pont, b) pont ba) alpont, ha a kisebb értékre elkövetett lopást dolog elleni erőszakkal követik el, bb)–be) alpont és c) pont], rongálás [Btk. 371. § (3) bekezdés], sikkasztás [Btk. 371. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a), c) pont, és b) pont, ha a kisebb értékre elkövetett sikkasztást közveszély színhelyén követik el], csalás [Btk. 373. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a) és b) pont, ha a kisebb kárt okozó csalást közveszély színhelyén követik el], jármű önkényes elvétele [Btk. 380. § (1) bekezdés], pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §)
+- h) atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmények (Btk. XXIV. fejezet), terrorcselekmény (Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), lopás [Btk. 370. § (2) bekezdés b) pont bc) és bf)–bi) alpont, (3) bekezdés a) pont, b) pont ba) alpont, ha a kisebb értékre elkövetett lopást dolog elleni erőszakkal követik el, bb)–be) alpont és c) pont], rongálás [Btk. 371. § (3) bekezdés], sikkasztás [Btk. 371. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a), c) pont, és b) pont, ha a kisebb értékre elkövetett sikkasztást közveszély színhelyén követik el], csalás [Btk. 373. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a) és b) pont, ha a kisebb kárt okozó csalást közveszély színhelyén követik el], jármű önkényes elvétele [Btk. 380. § (1) bekezdés], pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §)
 
 miatt indítottak büntetőeljárást.
 
@@ -830,7 +835,8 @@ miatt indítottak büntetőeljárást.
 - d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
 - f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
-- g) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából.
+- g) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából,
+- h) az általános rendőri feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személy- és létesítményvédelmi feladatainak ellátása céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
@@ -886,7 +892,7 @@ miatt indítottak büntetőeljárást.
 - c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 - d)
 
-(6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+(6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása, továbbá az ellátási és integrációs feladatai ellátása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
 - a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
 - b) a 11. § (1) bekezdés ca), cb), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
@@ -931,6 +937,15 @@ miatt indítottak büntetőeljárást.
 - c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
 - d)
 
+68/A. § Ha
+
+- a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a kifogástalan életvitel ellenőrzése céljából,
+- b) a rendőrség a 68. § (2) bekezdés a), b), d)–h) és j) pontjában meghatározott célból,
+- c) a köztársasági elnök a 68. § (4) bekezdés a) pontjában meghatározott célból, illetve
+- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a 68. § (5) bekezdésében meghatározott célból
+
+közvetlen hozzáféréssel adatokat kíván átvenni a bűnügyi nyilvántartási rendszerből, és az a személy, akire az adatkérés vonatkozik, magyar állampolgár, a bűnügyi nyilvántartó szerv biztosítja az érintett személyazonosító adatainak elektronikus úton történő összehasonlítását a tagállami ítéletek nyilvántartásában kezelt adatokkal.
+
 ### Az adatigénylés alapján, valamint a közvetlen hozzáféréssel történő adattovábbítás általános követelményei
 
 69. § (1) A bűnügyi nyilvántartó szerv adatigénylés alapján – a 71. § (2) bekezdés szerinti kivétellel – kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot a bűnügyi nyilvántartási rendszerből, amely adatigénylő tekintetében törvény
@@ -951,7 +966,7 @@ előírja.
   - af) a lakcímét, továbbá annak megváltozása esetén előző lakcímét, valamint
 - b) az adatigénylő pontos megnevezését és címét.
 
-(3) Az adatigénylők kérelmüket elektronikus úton, egyedi informatikai alkalmazás igénybevételével (a továbbiakban: elektronikus úton előterjesztett adatigénylés) is előterjeszthetik.
+(3) Az adatigénylők kérelmüket elektronikus úton, egyedi informatikai alkalmazás igénybevételével (a továbbiakban: elektronikus úton előterjesztett adatigénylés) terjeszthetik elő. Az elektronikus úton előterjesztetett adatigénylés során az adatigénylő a bűnügyi nyilvántartó szerv által adott egyedi azonosítóval azonosítja magát, az így küldött kérelem hiteles dokumentumnak minősül. A bűnügyi nyilvántartó szerv az adatközlést elektronikus úton teljesíti, amelyet akkor kell kézbesítettnek tekinteni, ha az egyedi informatikai alkalmazás annak hozzáférhetőségét igazolja.
 
 (4) Elektronikus úton előterjesztett adatigénylés alapján csak az a személy vehet át adatokat, akinek az adatigénylő erre felhatalmazást adott.
 
@@ -1004,7 +1019,7 @@ előírja.
 
 ### A hatósági erkölcsi bizonyítvány
 
-71. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt adatok alapján, jogviszony létesítésére, fenntartására vagy egyéb, törvényben meghatározott feltételnek való megfelelés igazolására az igazolás alanyának (a továbbiakban: kérelmező) kérelmére hatósági bizonyítványt (a továbbiakban: hatósági erkölcsi bizonyítvány) állít ki.
+71. § (1) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt adatok alapján, a 76/A. §-ban és a 76/B. §-ban meghatározottak szerinti ellenőrzést követően, jogviszony létesítésére, fenntartására vagy egyéb, törvényben meghatározott feltételnek való megfelelés igazolására az igazolás alanyának (a továbbiakban: kérelmező) kérelmére hatósági bizonyítványt (a továbbiakban: hatósági erkölcsi bizonyítvány) állít ki.
 
 (2) Ha törvény valamely jogosultság feltételeként a bűnügyi nyilvántartási rendszerben kezelt adatok alapján megállapítható, a (3) bekezdés szerinti tényt határoz meg, a jogosultsághoz szükséges hatósági döntés, hatósági ellenőrzés vagy bejelentés tárgyában hatáskörrel rendelkező közigazgatási hatóság adatigénylésre jogosult. Az adatigénylés alapján a bűnügyi nyilvántartó szerv adattovábbítás útján igazolja az adatigénylés szerinti tényt az adatigénylő hatóság számára. A bűnügyi nyilvántartó szerv által továbbított adatokat az adatigénylő hatóság – törvény eltérő rendelkezése hiányában – az eljárása jogerős befejezéséig, illetve a hatósági ellenőrzés időtartamára kezeli.
 
@@ -1042,11 +1057,13 @@ előírja.
 
 73. § (1) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítását megtagadja, ha a 71. § (3) bekezdés a)–e) pontjában meghatározott tények a bűnügyi nyilvántartási rendszer adatai alapján nem igazolhatóak.
 
-(2)–(3)
+(2) Ha a kérelmező magyar állampolgár, a bűnügyi nyilvántartó szerv elvégzi a 76/A. §-ban és a 76/B. §-ban meghatározottak szerinti ellenőrzést, megfeleltetési eljárás kezdeményezése esetén a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást felfüggeszti.
 
-(4) A kérelmező a (3) bekezdésben meghatározott esetben az adatközlési kötelezettségét kizárólag eredeti, hiteles irat formájában teljesítheti, ezen adatok tekintetében nyilatkozatot nem tehet, nyilatkozata a döntéshozatal során nem vehető figyelembe.
+(3)
 
-(5) Ha a kérelmező a (3) bekezdés szerinti felhívásnak az eljárás felfüggesztésének időtartama alatt nem tesz eleget, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást megszünteti.
+(4)
+
+(5)
 
 (6) Ha a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban – a személyes úton előterjesztett kérelemre indult eljárás kivételével – megállapítja, hogy a kérelem nem tartalmazza a 72. § (2) bekezdésében foglaltakat, a kérelmezőt tizenöt napos határidő tűzésével a hiány pótlására hívja fel.
 
@@ -1069,7 +1086,7 @@ előírja.
 
 (6) Ha a hatósági erkölcsi bizonyítvány a kiállító hatóság hibájából név, szám vagy más tény elírásával került kiállításra, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi idején belül a kijavítást a hibás hatósági erkölcsi bizonyítvány bevonása mellett, annak kicserélésével teljesíti.
 
-(7) A hatósági erkölcsi bizonyítvány kiegészítésének nincs helye.
+(7)
 
 (8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásában az eljárás alatt, illetve az érdemi döntés meghozatalát követően az iratbetekintési jogot kizárólag a kérelmező részére biztosítja, amely azt személyesen vagy jogi képviselője útján gyakorolhatja.
 
@@ -1114,11 +1131,50 @@ előírja.
 
 (4) A választójoggal nem rendelkező polgárok nyilvántartását vezető szerv a (3) bekezdés alapján történő automatikus adattovábbítás során megkapott adatokat a választójoggal nem rendelkező polgárok nyilvántartásából való törlés bejegyzéséig kezelheti.
 
-### V/A. Fejezet — ADATTOVÁBBÍTÁS AZ EURÓPAI UNIÓ TAGÁLLAMAINAK BÍRÓSÁGAI ÁLTAL
+### A bűnügyi nyilvántartási rendszerből való adattovábbítás és a tagállami ítéletek nyilvántartása közötti kapcsolat
 
-MAGYAR ÁLLAMPOLGÁROKKAL SZEMBEN HOZOTT ÍTÉLETEK NYILVÁNTARTÁSÁBÓL
+76/A. § (1) Ha
 
-76/A. § A nyomozó hatóság, az ügyészség vagy a bíróság közvetlen hozzáféréssel jogosult átvenni az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásának adatállományából arra a magyar állampolgárságú, bűncselekmény elkövetésével megalapozottan gyanúsítható személyre vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ítéletet hozott és az ítélet érvényét magyar bíróság a nemzetközi bűnügyi jogsegélyről szóló törvény szerinti eljárásban még nem ismerte el.
+- a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a kifogástalan életvitel ellenőrzése céljából,
+- b) a rendőrség a 68. § (2) bekezdés a), b), d)–h) és j) pontjában meghatározott célból,
+- c) a köztársasági elnök a 68. § (4) bekezdés a) pontjában meghatározott célból, illetve
+- d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a 68. § (5) bekezdésében meghatározott célból
+
+közvetlen hozzáféréssel adatokat kíván átvenni a bűnügyi nyilvántartási rendszerből, és a 76/E. § alapján annak tényéről kap tájékoztatást, hogy az érintett szerepel a tagállami ítéletek nyilvántartásában, kérheti, hogy a bűnügyi nyilvántartó szerv a 76/B. §-ban meghatározottak szerint intézkedjen a megfeleltetési eljárás lefolytatása érdekében.
+
+(2) Ha az adatigénylő a bűnügyi nyilvántartási rendszerből a 69–70. §-ok szerinti adatigénylés alapján kér adatokat és az a személy, akire az adatátvétel vonatkozik, magyar állampolgár, az adatigénylő az adatigénylés keretében, azzal egyidejűleg kérheti, hogy a bűnügyi nyilvántartó szerv ellenőrizze, hogy szerepel-e az érintettre vonatkozó adat a tagállami ítéletek nyilvántartásában.
+
+(3) Ha a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban a kérelmező magyar állampolgár, a bűnügyi nyilvántartó szerv ellenőrzi, hogy szerepel-e a kérelmezőre vonatkozó adat a tagállami ítéletek nyilvántartásában.
+
+76/B. § (1) Ha a 76/A. § szerinti esetben a bűnügyi nyilvántartó szerv megállapítja, hogy a tagállami ítéletek nyilvántartásában a közvetlen hozzáféréssel történő adatátvétellel vagy az adatigényléssel érintett személyre, illetve a kérelmezőre vonatkozó, magyar bíróság által még nem elismert vagy nem megfeleltetett tagállami ítélet szerepel, a (3) bekezdésben meghatározott kivétellel a bíróságnál kezdeményezi, hogy a magyar bíróság a megfeleltetést végezze el.
+
+(2) A bűnügyi nyilvántartó szerv az (1) bekezdés alapján az érintettre, illetve a kérelmezőre vonatkozó, az Európai Unió más tagállamának kijelölt központi hatósága által megküldött, a 33. § (1) és (2) bekezdése szerinti adatokat küldi meg a bíróságnak, továbbá tájékoztatja a bíróságot, hogy a megfeleltetési eljárás lefolytatására közvetlen hozzáféréssel történő adatátvétel vagy adatigénylés alapján történő adattovábbítás teljesítése érdekében, illetve hatósági erkölcsi bizonyítvány kiállítása iránti eljárás során van szükség.
+
+(3) A bűnügyi nyilvántartó szerv nem kezdeményezi, hogy a magyar bíróság a megfeleltetést végezze el, ha az érintett személlyel, illetve a kérelmezővel szemben hozott tagállami ítélet alapján
+
+- a) a tagállami ítéletben kiszabott büntetés vagy intézkedés nemére, tartamára, illetve a tagállami ítélet jogerőre emelkedésének időpontjára tekintettel nyilvánvaló, hogy a tagállami ítélet megfeleltetése esetén az ítélettel kapcsolatos adatok bűnügyi nyilvántartási rendszerbe történő bejegyzésének nem lenne helye,
+- b) az adatátvétel, illetve az adatigénylés céljára tekintettel nyilvánvaló, hogy a tagállami ítélet megfeleltetése esetén az ítélettel kapcsolatos adatok közvetlen hozzáféréssel történő adatátvételre vagy adatigénylésre jogosult szervnek történő továbbításának nem lenne helye, illetve
+- c) a hatósági erkölcsi bizonyítványban igazolni kívánt tény jellegére tekintettel nyilvánvaló, hogy a tagállami ítélet megfeleltetése esetén az ítélettel kapcsolatos adatok a hatósági erkölcsi bizonyítványban igazolni kívánt tény igazolását nem érintenék.
+
+(4) Ha a bűnügyi nyilvántartó szerv a tagállami ítélet megfeleltetését a bíróságnál kezdeményezi, a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást legfeljebb a megfeleltetési eljárás jogerős befejezéséig, illetve a megfeleltetés esetén az adatoknak a bűnügyi nyilvántartási rendszerbe történő bejegyzéséig felfüggeszti.
+
+(5) Ha a magyar bíróság a tagállami ítéletet megfeleltette, a bűnügyi nyilvántartási szerv
+
+- a) a megfeleltetett tagállami ítélettel kapcsolatos adatokat továbbítja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervnek, illetve
+- b) a megfeleltetett tagállami ítélettel kapcsolatos adatok figyelembevételével állítja ki a hatósági erkölcsi bizonyítványt.
+
+76/C. § A bűnügyi nyilvántartó szerv jogszabályban meghatározottak szerint tájékoztatja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervet a 76/A. §, illetve a 76/B. § alapján tett intézkedésekről, illetve arról, ha ilyen intézkedésre nem került sor.
+
+### V/A. Fejezet — ADATTOVÁBBÍTÁS A TAGÁLLAMI ÍTÉLETEK NYILVÁNTARTÁSÁBÓL
+
+76/D. § A tagállami ítéletek nyilvántartásának adatállományából közvetlen hozzáféréssel jogosult átvenni
+
+- a) a nyomozó hatóság, az ügyészség vagy a bíróság arra a magyar állampolgárságú, bűncselekmény elkövetésével megalapozottan gyanúsítható személyre, illetve
+- b) a nemzetbiztonsági szolgálatok arra a felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladata ellátása során érintett magyar állampolgárságú személyre
+
+vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ítéletet hozott és az ítélet esetében magyar bíróság a nemzetközi bűnügyi jogsegélyről szóló törvény szerinti, a külföldi ítélet elismerésére irányuló eljárást, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti megfeleltetési eljárást még nem folytatott le.
+
+76/E. § Ha a 68/A. §-ban meghatározott elektronikus úton történő összehasonlítás eredményeként megállapítható, hogy az a személy, akire az adatkérés vonatkozik, szerepel a tagállami ítéletek nyilvántartásában, a bűnügyi nyilvántartó szerv ennek tényéről a közvetlen hozzáféréssel történő adatátvétel keretében, elektronikus úton tájékoztatja a közvetlen hozzáféréssel történő adatátvételre jogosult szervet.
 
 ### VI. Fejezet — AZ EURÓPAI BŰNÜGYI NYILVÁNTARTÁSI INFORMÁCIÓS RENDSZER KERETEI KÖZÖTT TÖRTÉNŐ ADATCSERE
 
@@ -1435,7 +1491,8 @@ erre feljogosított tagja jogosult.
 
 - a) kijelölje a bűnügyi nyilvántartó szervet,
 - b) kijelölje a szakértői nyilvántartó szervet, valamint a büntetőeljárás alá vont és az elítélt személy DNS-profiljának meghatározásában közreműködő szervet,
-- c) állapítsa meg a 86/A–86/D. §-ban meghatározott adattovábbítási eljárások során alkalmazott formanyomtatványokat.
+- c) állapítsa meg a 86/A–86/D. §-ban meghatározott adattovábbítási eljárások során alkalmazott formanyomtatványokat,
+- d) állapítsa meg a hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályait.
 
 (1a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az arcképmás, az ujj- és tenyérnyomat, valamint a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének, illetve az ujj- és tenyérnyomat és a szájnyálkahártya-törlet levételének részletes technikai szabályait; a DNS-profil meghatározásának szakmai-módszertani követelményeit; továbbá a nyilvántartás technikai vezetésének részletes szabályait rendeletben állapítsa meg.
 
@@ -1449,7 +1506,7 @@ rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
-- a) a bűnügyi nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjét,
+- a)
 - b) a bűnügyi nyilvántartó szerv által teljesített adatszolgáltatás rendjét.
 
 (4)
@@ -1477,6 +1534,8 @@ rendeletben állapítsa meg.
 (2) A bűnügyi nyilvántartó szerv e törvénynek a Módtv.-vel megállapított 4/A. §-a szerinti adatközlést a 2016. január 1-jét követően megindított büntetőeljárások esetén teljesíti.
 
 100. § Ha a bűnügyi nyilvántartó szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig a bűnügyi nyilvántartó szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+100/A. § E törvénynek az európai uniós és a nemzetközi bűnügyi együttműködést szabályozó törvények, és ehhez kapcsolódóan más törvények jogharmonizációs célú módosításáról szóló 2017. évi XXXIX. törvénnyel (a továbbiakban: Módtv1.) megállapított 68/A. §-át, 71. § (1) bekezdését, 73. § (2) bekezdését, 76/A–76/C. §-át és 76/E. §-át a Módtv1. hatálybalépését követően kezdeményezett közvetlen hozzáféréssel történő adatátvétel és adatigénylés esetén, illetve a Módtv1. hatálybalépését követően indult hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban kell alkalmazni.
 
 ### Módosuló jogszabályok
 

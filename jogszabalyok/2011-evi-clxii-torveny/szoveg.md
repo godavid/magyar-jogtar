@@ -249,9 +249,9 @@ meghatározott esetben.
 
 (4) Eredményes pályázat esetén a nyertes pályázó kinevezéséről szóló határozatnak a Magyar Közlönyben történő közzétételétől, vagy a nyertes pályázó áthelyezéséről szóló határozatnak a (3) bekezdés szerinti közzétételétől számított 15 napos jogvesztő határidőn belül a pályázaton részt vett és a 13. § szerint el nem utasított pályázó a pályázat eredményével szemben kifogással élhet, ha a nyertes pályázó esetében a bíróvá történő kinevezés e törvényben meghatározott feltételei nem állnak fenn, illetve ha a nyertes pályázó a pályázati kiírásban szereplő feltételeknek nem felel meg.
 
-(5) A kifogást a pályázattal érintett bíróság elnökénél írásban kell benyújtani, aki azt – kúriai pályázat kivételével – 5 munkanapon belül felterjeszti az OBH elnökéhez. Kérelmezettként az OBH elnökét, kúriai pályázat esetén a Kúria elnökét kell megjelölni. Az OBH elnöke, illetve a Kúria elnöke a kifogást 5 munkanapon belül megküldi az annak elbírálására kizárólagosan illetékes, Budapest területére kiterjedő illetékességű közigazgatási és munkaügyi bíróságnak.
+(5) A kifogást a pályázattal érintett bíróság elnökénél írásban kell benyújtani, aki azt – kúriai pályázat kivételével – 5 munkanapon belül felterjeszti az OBH elnökéhez. Kérelmezettként az OBH elnökét, kúriai pályázat esetén a Kúria elnökét kell megjelölni. Az OBH elnöke, illetve a Kúria elnöke a kifogást 5 munkanapon belül megküldi a közigazgatási ügyben eljáró Fővárosi Törvényszéknek.
 
-(6) A közigazgatási és munkaügyi bíróság a kifogás tárgyában 15 napon belül, nemperes eljárás keretében határoz. A bíró kinevezése esetén a közigazgatási és munkaügyi bíróság a bíróvá történő kinevezés feltételeinek meglétét e törvény 4. § (1) bekezdés a), c), d), f), és g) pontjában, a 4. § (2) bekezdésében, valamint az 5. § (1) bekezdésében meghatározottak szempontjából vizsgálja. A bíró áthelyezése esetén a közigazgatási és munkaügyi bíróság kizárólag a pályázati feltételek teljesülését vizsgálja. Ha a közigazgatási és munkaügyi bíróság megállapítja, hogy a pályázatot elnyert személyt e törvénynek a bírói kinevezés feltételeire vonatkozó szabályai szerint nem lehetne bíróvá kinevezni, illetve a pályázatot elnyert személy a pályázati kiírásban szereplő feltételeknek nem felel meg, erre vonatkozó végzését közli a kifogást előterjesztő pályázóval, valamint – a szükséges intézkedés megtétele érdekében – a pályázat elbírálójával és a köztársasági elnökkel. A közigazgatási és munkaügyi bíróság a kifogás alaptalansága esetén a kifogást elutasítja, és végzését közli a kifogást előterjesztő pályázóval, a pályázat elbírálójával, valamint a pályázattal érintett bíróság elnökével.
+(6) A Fővárosi Törvényszék a kifogás tárgyában 15 napon belül, nemperes eljárásban dönt. A bíró kinevezése esetén a Fővárosi Törvényszék a bíróvá történő kinevezés feltételeinek meglétét e törvény 4. § (1) bekezdés a), c), d), f), és g) pontjában, 4. § (2) bekezdésében, valamint 5. § (1) bekezdésében meghatározottak szempontjából vizsgálja. A bíró áthelyezése esetén a Fővárosi Törvényszék kizárólag a pályázati feltételek teljesülését vizsgálja. Ha a Fővárosi Törvényszék megállapítja, hogy a pályázatot elnyert személyt e törvénynek a bírói kinevezés feltételeire vonatkozó szabályai szerint nem lehetne bíróvá kinevezni, illetve a pályázatot elnyert személy a pályázati kiírásban szereplő feltételeknek nem felel meg, erre vonatkozó végzését közli a kifogást előterjesztő pályázóval, valamint – a szükséges intézkedés megtétele érdekében – a pályázat elbírálójával és a köztársasági elnökkel. A Fővárosi Törvényszék a kifogás alaptalansága esetén a kifogást elutasítja, és végzését közli a kifogást előterjesztő pályázóval, a pályázat elbírálójával, valamint a pályázattal érintett bíróság elnökével.
 
 #### 12. Az eskü
 
@@ -1733,17 +1733,24 @@ végzi.
 
 (3) Az ülnök nem lehet tagja pártnak, és politikai tevékenységet nem folytathat.
 
+(4) Az ülnök esetében a 41. § és a 42. § (1)–(3) bekezdése megfelelően alkalmazandó.
+
 213. § (1) Az ülnököket a bíróság illetékességi területén lakóhellyel rendelkező nagykorú magyar állampolgárok, a bíróság illetékességi területén működő helyi önkormányzatok és az egyesületek – kivéve a pártokat – jelölik.
 
-(2) A fiatalkorúak büntető ügyeiben eljáró bíróság pedagógus ülnökeit a bíróság illetékességi területén működő alapfokú és középfokú nevelési-oktatási intézmények tantestületei jelölik.
+(2) A fiatalkorúak büntetőügyeiben eljáró bíróság
 
-(3) A katonai ülnököket a Magyar Honvédség és a rendvédelmi szervek illetékes parancsnokai – az ott működő érdek-képviseleti szervek javaslataira is figyelemmel – jelölik.
+- a) pedagógus ülnökeit a bíróság illetékességi területén működő alapfokú és középfokú nevelési-oktatási intézmények tantestületei,
+- b) nem pedagógus ülnökeit az egyesületek – kivéve a pártokat –, a foglalkozásuk szerinti érdek-képviseleti szervek, valamint őket a Be. 680. § (5) bekezdés c) pontja szerinti munkakörben foglalkoztató, vagy korábban foglalkoztató szervezetek
+
+jelölik.
+
+(3) A katonai ülnököket – ideértve a Be. 698. § (4) bekezdésére tekintettel a Be. 680. § (5) bekezdésében meghatározott feltételeknek megfelelő katonai ülnököket is – a Magyar Honvédség és a rendvédelmi szervek illetékes parancsnokai – az ott működő érdek-képviseleti szervek javaslataira is figyelemmel – jelölik.
 
 (4) A közigazgatási és munkaügyi bíróság ülnökeit elsősorban a munkavállalók és munkaadók érdek-képviseleti szervei jelölik.
 
 214. § (1) A jelölt a jelölés elfogadásáról írásban nyilatkozik. A nyilatkozat a jelölt nevét, születési helyét és idejét, anyja nevét, lakóhelyét, iskolai végzettségét, szakképzettségét, foglalkozását, munkahelye nevét és címét, egy hónapra járó távolléti díja összegét, valamint az aláírását tartalmazza.
 
-(2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági erkölcsi bizonyítvánnyal igazolja büntetlen előéletét.
+(2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági erkölcsi bizonyítvánnyal igazolja büntetlen előéletét. A fiatalkorúak büntetőügyeiben eljáró bíróság nem pedagógus ülnökjelöltjének az ülnökké történő megválasztására jogosult képviselő-testület részére igazolnia kell továbbá a megválasztásához szükséges adatokat és tényeket.
 
 (3) Ha a jelölt a (2) bekezdésben meghatározott igazolási kötelezettségét elmulasztja, ülnökké megválasztani nem lehet.
 

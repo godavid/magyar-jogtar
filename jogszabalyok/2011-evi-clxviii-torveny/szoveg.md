@@ -89,7 +89,7 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 
 (4) A kockázatközösségben tag mezőgazdasági termelő az e törvényben foglaltaknak megfelelően
 
-- a) a tárgyévben köteles kárenyhítési hozzájárulást fizetni és
+- a) a tárgyévben köteles közteherként kárenyhítési hozzájárulást fizetni és
 - b) kárenyhítő juttatás igénybevételére jogosultságot szerezhet.
 
 (5) A kárenyhítési hozzájárulás megfizetésére kötelezett mezőgazdasági termelő halála esetén a kárenyhítési hozzájárulás megfizetésére köteles, illetve kárenyhítő juttatás igénybevételére jogosultságot szerezhet az az örökös, aki a hagyatékátadó végzés alapján az örökhagyó tárgyévi egységes kérelmére vonatkozó kötelezettségeket és jogosultságokat örökli.
@@ -156,7 +156,7 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 
 (3) Belvízkár után kárenyhítő juttatás a törvény hatálybalépésétől kezdődően öt egymást követő éven belül legfeljebb három alkalommal vehető igénybe.
 
-(4) A kárenyhítő juttatásra való jogosultság megállapításakor a termőre fordult és az elemi káresemény bekövetkezésekor még termő ültetvényterület vehető figyelembe.
+(4) A kárenyhítési hozzájárulás-fizetési kötelezettség és a kárenyhítő juttatásra való jogosultság megállapításakor a termőre fordult és az elemi káresemény bekövetkezésekor még termő ültetvényterület vehető figyelembe.
 
 (5) Jogszabály eltérő rendelkezése hiányában az e törvény szerinti kockázatközösségben tag mezőgazdasági termelő a neki járó kárenyhítő juttatás felére jogosult, amennyiben az egységes kérelemben, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamértékének legalább felére kiterjedően – az adott kárenyhítési évre vonatkozóan – nem köt az adott növénykultúrára jellemző káreseményre kiterjedő hatályú mezőgazdasági biztosítást.
 
@@ -173,6 +173,8 @@ megjelölésével nyújtanak be egységes kérelmet, az elemi káresemények mia
 (6)
 
 13. § (1) Az agrárkár-enyhítési szerv eljárására – ideértve a kárenyhítési hozzájárulás meg nem fizetésével kapcsolatos eljárást is – az e törvényben foglalt eltérésekkel az eljárási tv. I., III., IV., VI. és VII. fejezetében, valamint a 77–78. §-ában foglalt, a mezőgazdasági és vidékfejlesztési támogatási szervre vonatkozó rendelkezéseket kell alkalmazni.
+
+(1a) Az agrárkár-megállapító szerv eljárására – az e törvényben foglalt eltérésekkel – az eljárási tv. IV. fejezetében foglalt rendelkezéseket kell alkalmazni.
 
 (2) Az agrárkár-megállapító szerv, valamint az agrárkár-enyhítési szerv (1) bekezdésben foglaltak szerinti eljárásában hiánypótlásra, önkéntes hiánypótlásra, iratpótlásra, illetve az eljárás ügyfél kérelmére történő felfüggesztésére nincs lehetőség.
 
@@ -467,4 +469,6 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 28. § A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény és az ahhoz kapcsolódó egyes törvények módosításáról szóló 2014. évi LV. törvénnyel megállapított 11. § (1) bekezdés b) és f) pontja szerinti jogosultsági feltételekhez kapcsolódó elektronikus eljárásokat a 2015. kárenyhítési évtől kezdődően kell alkalmazni.
 
-#### 29–31. §
+29. § E törvénynek az egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatási rendtartásról szóló törvénnyel összefüggő és más célú módosításáról szóló 2017. évi CCV. törvénnyel megállapított 11. § (4) bekezdést a 2018. kárenyhítési évtől kezdődően kell alkalmazni.
+
+#### 30–31. §

@@ -10,12 +10,7 @@ Az Európai Unió egészére kiterjedő közös közlekedési stratégia megval�
 
 (2) A gyorsforgalmi úthálózat fejlesztésében közreműködő egyes szervek és személyek feladataikat az általános szabályok szerint, de az e törvényben foglalt eltérésekkel kötelesek ellátni.
 
-(3) A gyorsforgalmi úthálózat fejlesztésével összefüggő
-
-- a)
-- b) határozat bírósági felülvizsgálatára – ha e törvény eltérően nem rendelkezik – a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó
-
-rendelkezéseit kell alkalmazni.
+(3)
 
 2. § E törvény rendelkezéseit
 
@@ -75,7 +70,7 @@ rendelkezéseit kell alkalmazni.
 
 (5) A kiemelt közérdekre és a környezetvédelmi prioritásokra tekintettel a környezet és mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld), valamint a primer ásványvagyon védelme kiemelt hangsúlyt kell, hogy kapjon a tervezés, engedélyezés és a megvalósítás valamennyi fázisában. Ennek érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználása a közbeszerzési eljárásoknál az erre vonatkozó előzetes szakértői vizsgálatok figyelembevételével, továbbá a hasznosításban érintettek (a felhasználandó anyagok tulajdonosai és az út építtetője) gazdasági együttműködése esetén írható elő.
 
-6. § (1) A gyorsforgalmi útnak a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott és a gyorsforgalmi út számára legfeljebb két változatban kijelölt 500 méter szélességű területsávját (a továbbiakban: nyomvonal) a környezetvédelmi hatóságnak a környezetvédelmi eljárás során hozott határozatának jogerőre emelkedését követően a Kormány rendeletben állapítja meg.
+6. § (1) A gyorsforgalmi útnak a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott és a gyorsforgalmi út számára legfeljebb két változatban kijelölt 500 méter szélességű területsávját (a továbbiakban: nyomvonal) a környezetvédelmi hatóságnak a környezetvédelmi eljárás során hozott határozatának véglegessé válását követően a Kormány rendeletben állapítja meg.
 
 (2) Az (1) bekezdés szerinti rendelet hatálybalépésétől az államot – föld esetében a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti más jogosultakat megelőzően – elővásárlási jog illeti meg az (1) bekezdés szerinti rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot az állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a gyorsforgalmi út létesítése érdekében kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Az állam javára adás-vétel vagy kisajátítás útján gyorsforgalmi út létesítése céljából megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
 
@@ -125,24 +120,20 @@ rendelkezéseit kell alkalmazni.
 
 13. § Az ingatlanügyi hatóság a gyorsforgalmi út tervezéséhez, a terület igénybevételéhez szükséges ingatlan-nyilvántartási adatokat, a tulajdoni lap másolatát és az ingatlan-nyilvántartási térkép másolatát a kérelmező részére tizenöt napon belül adja ki.
 
-14. § A gyorsforgalmi úthálózat fejlesztésére indított környezetvédelmi és építési engedélyezési eljárás ügyintézési határidejét az eljáró hatóságok vezetője nem hosszabbíthatja meg.
+14. §
 
-15. § A környezetvédelmi és az építési engedélyezési eljárás során meghozott határozat bírósági felülvizsgálatára a polgári perrendtartásról szóló törvény közigazgatási perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
+15. § A környezetvédelmi és az építési engedélyezési eljárás során meghozott határozat elleni közigazgatási perben – ha a tárgyalás tartását valamely fél kérte – a tárgyalást a keresetlevél bírósághoz érkezésétől számított negyvenötödik napra kell kitűzni. Ha az első tárgyaláson egyik fél sem jelenik meg – és a tárgyalás távollétükben való megtartását egyik fél sem kérte – az eljárást meg kell szüntetni.
 
-- a) a bíróság az államigazgatási határozat végrehajtását csak a közérdekre vagy az ügyfél nyomós érdekére tekintettel függesztheti fel;
-- b) a bíróságnak az iratoknak a bírósághoz való érkezését követő 45 napon belül tárgyalást kell tartania;
-- c) az első tárgyalás megtartásának nem akadálya az, ha a felperes vagy az alperes nem jelenik meg. Ha azonban az első tárgyaláson egyik fél sem jelenik meg – és a tárgyalás távollétükben való megtartását egyik fél sem kérte – az eljárást meg kell szüntetni.
+16. § (1) A 15. §-ban foglaltakat megfelelően alkalmazni kell a gyorsforgalmi út forgalomba helyezését engedélyező határozat elleni közigazgatási perben is.
 
-16. § (1) A 15. §-ban foglaltakat megfelelően alkalmazni kell a gyorsforgalmi út forgalomba helyezését engedélyező határozat bírósági felülvizsgálatára is.
-
-(2) A szakhatóságok, a közművek üzembentartói és az utak kezelői a közlekedési hatóság által kitűzött helyszíni szemlén vagy az azt követő nyolc napon belül nyilatkoznak arról, hogy a forgalomba helyezési engedély megadásának feltételei fennállnak. Ha a közművek üzembentartói és az utak kezelői nem nyilatkoznak, a hozzájárulásukat, illetve beleegyezésüket megadottnak kell tekinteni.
+(2) A szakhatóságok, a közművek üzembentartói és az utak kezelői a helyszín közlekedési hatósággal együttes megtekintése után azonnal, de legkésőbb nyolc napon belül nyilatkoznak arról a közlekedési hatóságnak, hogy a forgalomba helyezési engedély megadásának feltételei fennállnak. Ha a közművek üzembentartói és az utak kezelői nem nyilatkoznak, a hozzájárulásukat, illetve beleegyezésüket megadottnak kell tekinteni.
 
 17. § (1) Az országos településrendezési és építési követelményekről szóló kormányrendeletben megjelölt gazdasági terület kivételével nem nyilvánítható beépítésre szánt területté
 
 - a) az e törvény hatálya alá eső, építési engedéllyel rendelkező gyorsforgalmi út tengelyétől számított 100-100 méter vagy
 - b) a Kormány által, a megvalósítandó gyorsforgalmi út számára rendelettel megállapított nyomvonalat, a tervezett csomópontokat, valamint jellemző hossz- és keresztszelvényeket tartalmazó dokumentációval (a továbbiakban: jóváhagyott tanulmányterv) rendelkező gyorsforgalmi út tengelyétől számított 250-250 méter széles területsáv.
 
-(1a) Az (1) bekezdés b) pontja szerinti esetben a korlátozás a gyorsforgalmi út építésére kiadott építési engedély jogerőre emelkedésével hatályát veszti.
+(1a) Az (1) bekezdés b) pontja szerinti esetben a korlátozás a gyorsforgalmi út építésére kiadott építési engedély véglegessé válásával hatályát veszti.
 
 (2) A Kormány a 6. §-ban említett rendeletben – amennyiben a műszaki feltételek ezt lehetővé teszik – az (1) bekezdésben meghatározottnál keskenyebb területsávot is megállapíthat.
 
@@ -150,7 +141,7 @@ rendelkezéseit kell alkalmazni.
 
 (4) Az (1) bekezdésben megjelölt rendeletben megállapított nyomvonallal érintett területsávon – a területsáv védettségének időtartamát meghatározó kormányrendeletben meghatározott időtartamon belül –
 
-- a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó jogerős engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
+- a) más hatóság hatáskörébe tartozó építési vagy egyéb sajátos építményfajtákra vonatkozó végleges engedély alapján végezhető tevékenység csak akkor kezdhető meg, illetve folytatható,
 - b) a földrészlet művelési ágát és minőségi osztályát csak akkor lehet megváltoztatni,
 
 ha azt előzetesen a közlekedési hatóság engedélyezte.
@@ -166,7 +157,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (7a) Amennyiben a nyomvonal felszín alatti vonalvezetéssel tervezett, a nyomvonal felszín alatti szakaszán a tengelytől számított 50 méteren belül a (4) bekezdés szerinti engedély a (7) bekezdésben foglaltak szerint adható ki. Az (1) bekezdés szerint védett terület fennmaradó részén a közlekedési hatóság az építtető hozzájárulásával megadhatja a (4) bekezdés szerinti engedélyt, ha a tevékenység értéknövekedést nem eredményez, vagy eredményez ugyan, de a tulajdonos – kisajátítás vagy az autópálya építtetővel kötendő adásvételi szerződés esetén – lemond az ebből eredő értékveszteségnek a kártalanítás körében való megtérítéséről vagy a vételár részeként történő érvényesítéséről.
 
-(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően jogerősen engedélyezett építési munkákra.
+(8) A (3)–(4) bekezdés szerinti tilalom, illetve használati korlátozás nem terjed ki a nyomvonal megállapítását megelőzően véglegesen vagy jogerősen engedélyezett építési munkákra.
 
 (9) A (3)–(4) bekezdés szerinti tilalommal, illetve használati korlátozással bekövetkező akadályoztatás (az ingatlannak gyorsforgalmi út céljára történő rendelkezésre tartása) miatt a tulajdonos (haszonélvező) javára az akadályoztatás (rendelkezésre tartás) időtartamára, jellegére, az akadályoztatást megelőző használathoz képest megállapítható mértékére figyelemmel egyszeri kártalanítást kell fizetni. Ha az ingatlan gyorsforgalmi út céljára történő megszerzése adásvétellel történik, a kártalanítás az építtető és a tulajdonos (haszonélvező) közötti megállapodás tárgya, azt a kisajátítás esetén pedig a kisajátítási kártalanítás összegének megállapítása során, a kisajátítással kapcsolatos esetleges értékveszteség körében kell figyelembe venni.
 
@@ -176,7 +167,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 ### III/A. Fejezet — Cél-kitermelőhelyek létesítésének, üzemeltetésének, megszüntetésének és hatósági felügyeletének különös szabályai
 
-17/A. § (1) Az e törvény hatálya alá tartozó gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges homok, kavics és agyag ásványi nyersanyag – ideértve mindezek változatait és keverékeit is – (a továbbiakban együtt: töltésanyag) kitermelésére a 18. § (6) bekezdés b)–c) pontja alapján kiadott rendeletben vagy a jogerős építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelő hely létesíthető.
+17/A. § (1) Az e törvény hatálya alá tartozó gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges homok, kavics és agyag ásványi nyersanyag – ideértve mindezek változatait és keverékeit is – (a továbbiakban együtt: töltésanyag) kitermelésére a 18. § (6) bekezdés b)–c) pontja alapján kiadott rendeletben vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelő hely létesíthető.
 
 (2) Az (1) bekezdésben meghatározott töltésanyag kivételével más ásványi nyersanyag kitermelésére cél-kitermelőhely nem létesíthető.
 
@@ -199,7 +190,7 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 - b) a tervezett cél-kitermelőhely lehatárolását (közigazgatási egység, helyrajzi szám) és a lehatárolás indokolását,
 - c) az előzetesen elvégzett talajmechanikai kutatás (vizsgálat) eredményét, a fellelt ásványi nyersanyag azonosítását, összetételét,
 - d) a cél-kitermelőhely teleptani, tektonikai, hidrogeológiai, talajmechanikai viszonyainak ismertetését,
-- e) az igénybevételre tervezett ingatlanok tulajdonosainak név- és címjegyzékét,
+- e)
 - f) a kitermelni tervezett nyersanyag mennyiségét,
 - g) a tervezett kitermelési technológia ismertetését, az üzemeltetés tervezett időtartamát és a tevékenységek ütemezését,
 - h) a kitermelés miatt eltávolított, megőrzendő (mentett) humuszos talaj, illetve a fel nem használt töltésanyag, illetve egyéb ásványi nyersanyag lerakásának módját és helyét,
@@ -224,8 +215,8 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 (7) A komplex műveleti tervhez mellékelni kell:
 
 - a) az igénybe venni tervezett ingatlan tulajdonosával (vagyonkezelőjével) az ingatlanhasználatra kötött megállapodás hiteles másolatát,
-- b) termőföld védelméről szóló törvényben meghatározott termőföld esetében a más célú hasznosítást engedélyező jogerős ingatlanügyi hatósági határozatot,
-- c) az út megépítésére vonatkozó jogerős építési engedélyt.
+- b) termőföld védelméről szóló törvényben meghatározott termőföld esetében a más célú hasznosítást engedélyező végleges ingatlanügyi hatósági határozatot,
+- c) az út megépítésére vonatkozó végleges építési engedélyt.
 - d)
 
 (8)

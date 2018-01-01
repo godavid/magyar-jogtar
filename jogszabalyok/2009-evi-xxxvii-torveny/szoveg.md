@@ -110,7 +110,7 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
 - 38. nyomon követhetőség, származás igazolás: a 995/2010/EU európai parlamenti és tanácsi rendelet 5. cikkében meghatározott kötelezettségek;
 - 39. szállítmány: az egy szállítóeszközbe rakott, egy címzettnek feladott, egy fuvarokmánnyal szállított áru;
 - 40. szállítmányt kísérő dokumentáció: számla vagy szállítólevél, amely tartalmazza az adott fatermék csomagolási egységein feltüntetett, az adott árutétel vagy a szállítmány nyomon követését szolgáló jelzést is;
-- 41. zárlat: az e törvény hatálya alá tartozó fatermék mozgatásának, szállításának, forgalomba helyezésének, további feldolgozásának, kereskedelmének korlátozása hatósági eljárás vagy vizsgálat lefolytatása érdekében;
+- 41. zárlat: az e törvény hatálya alá tartozó fatermék mozgatásának, szállításának, forgalomba helyezésének, további feldolgozásának, kereskedelmének korlátozása hatósági ellenőrzés, eljárás, vizsgálat lefolytatása vagy a faanyag-kereskedelmi láncra vonatkozó előírások teljesítése érdekében;
 - 42. erdészeti feltáróhálózat: az erdőgazdálkodási tevékenység folytatása érdekében az erdőgazdálkodó által kialakított és fenntartott, erdészeti magánutakból, épített közelítő nyomokból és közelítő nyomokból álló erdei úthálózat;
 - 43. erdészeti magánút: az erdészeti szállítást és más erdőgazdálkodási tevékenységet szolgáló, hosszú távú, rendszeres gépjárműforgalom céljára – a talajfelszín megbontásával, idegen anyag elhelyezésével és tömörítésével – létrehozott erdei burkolt út;
 - 44. épített közelítő nyom: az erdőgazdálkodási tevékenységek végrehajtását szolgáló, időszakos, több éven át ismétlődő, eseti gépjárműforgalom céljára – a talajfelszín megbontásával – létrehozott erdei földút;
@@ -490,23 +490,19 @@ közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A szerződő felek kézjegyét az okirat lapjainak nem kell tartalmaznia, ha az okirat lapjait a szerződő felek által az erre meghatalmazott kézjegyével látta el.
 
-(3) Az ellenjegyzéssel ellátott magánokirat bejegyzés alapjául akkor fogadható el, ha az tartalmazza az ellenjegyzésre jogosult ügyvéd vagy közjegyző nevét, aláírását, irodájának székhelyét, az ellenjegyzés időpontját és az „ellenjegyzem” megjelölést.
-
-(4) Ha a szerződő felek valamelyike jogtanácsos által képviselt szervezet, a jogtanácsos is jogosult az ellenjegyzésre.
-
-(5) Nem alkalmas bejegyzésre az olyan okirat, amelyen a készítő és ellenjegyző ügyvéd, illetve a közokiratba foglaló közjegyző szerződő félként van feltüntetve.
+(3)–(5)
 
 18/C. § (1) Ha az okiratot a nyilatkozattevő helyett meghatalmazott írta alá, illetve látta el kézjegyével, csatolni kell a meghatalmazást is, amelyet a bejegyzés alapjául szolgáló okiratra előírt alakszerűségek szerint kell kiállítani. Ha a felet a közjegyzői okirat elkészítésénél meghatalmazott képviseli, az erdőgazdálkodói nyilvántartási eljárásban azt a magánokiratban foglalt meghatalmazást is el kell fogadni, amelyben a fél aláírását közjegyző vagy magyar külképviseleti szerv hitelesítette.
 
 (2) Írásra vagy olvasásra képtelen személy jognyilatkozatán alapuló bejegyzéshez a nyilatkozat közokiratba foglalása szükséges, amelyben e körülményre utalni kell.
 
-18/D. § (1) Ha a magánokiratot külföldön állították ki, és nemzetközi megállapodás másként nem rendelkezik, vagy eltérő viszonossági gyakorlat nem áll fenn, a nyilatkozattevő aláírását (kézjegyét) a magyar külképviseleti hatósággal kell hitelesíttetni, illetve az aláírás (kézjegy) hitelesítésére jogosult külföldi szerv által történt hitelesítést kell a magyar külképviseleti hatósággal hitelesíttetni (diplomáciai hitelesítés, illetve felülhitelesítés). Ahol magyar külképviseleti hatóság nem működik, az aláírást (kézjegyet) a magyar állam érdekeit képviselő állam külképviseleti hatóságával kell hitelesíttetni. Eltérő nemzetközi megállapodás fennállását a bejegyzést kérő félnek kell megjelölnie, illetve arra hivatkoznia.
+18/D. § (1) Ha a magánokiratot külföldön állították ki, a (2) és (3) bekezdésben megjelölt esetek kivételével, továbbá ha törvény vagy nemzetközi megállapodás másként nem rendelkezik, vagy eltérő viszonossági gyakorlat nem áll fenn, a nyilatkozattevő aláírását (kézjegyét) a magyar külképviseleti hatósággal kell hitelesíttetni, illetve az aláírás (kézjegy) hitelesítésére jogosult külföldi szerv által történt hitelesítést kell a magyar külképviseleti hatósággal hitelesíttetni (diplomáciai hitelesítés, illetve felülhitelesítés). Ahol magyar külképviseleti hatóság nem működik, az aláírást (kézjegyet) a magyar állam érdekeit képviselő állam külképviseleti hatóságával kell hitelesíttetni. Eltérő nemzetközi megállapodás fennállását a bejegyzést kérő félnek kell megjelölnie, illetve arra hivatkoznia.
 
 (2) Ahol magyar külképviseleti hatóság nem működik, és a magyar érdekeket más állam külképviseleti hatóságai sem képviselik, a nyilatkozattevő aláírását (kézjegyét) csak az okirat kiállítása helyén hatályos jogszabályok szerint erre jogosult szervnek kell hitelesítenie.
 
 (3) Nincs szükség a külföldön kiállított magánokirat diplomáciai hitelesítésére, felülhitelesítésére, ha az okiratot hitelesítési záradékkal (Apostille) látták el.
 
-18/E. § (1) A 18/B. § (1) bekezdés a) pontja vonatkozásában az aláírás akkor tekinthető nyilvánvalóan azonosíthatónak, ha az aláírók aláírásuk alatt olvashatóan megjelölték nevüket és az okirat szerinti ügyletkötői minőségüket.
+18/E. § (1) A 18/B. § (1) bekezdés a) pontja vonatkozásában az aláírás akkor tekinthető nyilvánvalóan azonosíthatónak, ha az aláírók aláírása alatt olvashatóan megjelölték nevüket és az okirat szerinti ügyletkötői minőségüket.
 
 (2) Ha az okirathoz melléklet is tartozik, akkor a melléklet valamennyi lapjára vonatkozóan is alkalmazni kell a 18/B. § (1) bekezdés b) pontjában foglaltakat.
 
@@ -806,6 +802,10 @@ az e törvény végrehajtására kiadott jogszabályban foglaltak szerint a 27. 
 
 közérdekből, nem az erdőgazdálkodó kezdeményezésére vagy egyetértésével kerül sor.
 
+(3) Az erdőgazdálkodás (2) bekezdésben foglalt jelentős közérdekű korlátozása esetén az erdőgazdálkodó e törvény végrehajtására kiadott rendeletben foglaltak szerint meghatározott mértékű kártalanításra jogosult. A korlátozás elrendeléséről szóló döntésben rendelkezni kell a korlátozásból eredő kártalanításról. A kártalanítás összegéből le kell vonni az adott terület vonatkozásában más forrásokból igénybe vehető támogatások összegét. Nem jár kártalanítás, ha a korlátozást tulajdonosi vagy erdőgazdálkodói jogellenes magatartás eredményezte.
+
+(4) A miniszter évente tájékoztatót tesz közzé az erdőgazdálkodás jelentős közérdekű korlátozásairól és azok eredményeiről.
+
 ### Az erdőgazdálkodás üzemmódja
 
 29. § (1) Az erdőgazdálkodás üzemmódja az erdő faállományával való gazdálkodás során – az erdő természetességi állapotra vonatkozó alapelvárásával, rendeltetéseivel, valamint az erdőgazdálkodás korlátozásaival összhangban – alkalmazandó erdőművelési és faállomány-gazdálkodási módszerek és eljárások átfogó rendszere.
@@ -861,16 +861,16 @@ biztosítja.
   - bb) szükség esetén módosítja az erdő faállományának vágásérettségi korát, és
   - bc) az erdő természetbeni állapotával, valamint a 38. § (2) bekezdés e) pontjában foglalt adatokkal összhangban meghatározza a következő körzeti erdőtervezésig terjedő időszakban végrehajtható, illetve végrehajtandó fakitermelések, erdőnevelési beavatkozások módját, és a végrehajtásukra vonatkozó rendelkezéseket, valamint az erdőfelújítási kötelezettségre vonatkozó lehetőségeket, illetve előírásokat (a továbbiakban: erdőterv).
 
-(2) A körzeti erdőtervezési eljárás ügyintézési határideje kilencven nap. Az erdészeti hatóság a körzeti erdőtervezési eljárást a tárgyévben szeptember 1. és november 30. közötti időszakban indítja meg. Az erdészeti hatóság az eljárás megindításáról a honlapján közleményt helyez el, valamint értesíti az erdőterület elhelyezkedése szerinti települési önkormányzat jegyzőjét, aki gondoskodik az eljárás megindításáról szóló tájékoztatás helyben szokásos módon történő közzétételéről.
+(2) Az erdészeti hatóság a körzeti erdőtervezési eljárást a tárgyévben szeptember 1. és november 30. közötti időszakban indítja meg. Az erdészeti hatóság az eljárás megindításáról a honlapján közleményt helyez el, valamint értesíti az erdőterület elhelyezkedése szerinti települési önkormányzat jegyzőjét, aki gondoskodik az eljárás megindításáról szóló tájékoztatás helyben szokásos módon történő közzétételéről.
 
-(3) A körzeti erdőtervezési eljárásban az érintett erdő erdőgazdálkodója – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 15. § (1) bekezdésében foglaltak külön vizsgálata nélkül – ügyfélnek minősül.
+(3) A körzeti erdőtervezési eljárásban az érintett erdő erdőgazdálkodója ügyfélnek minősül.
 
 (4) Az erdészeti hatóság a körzeti erdőtervezési eljárásban hozott határozat rendelkező részét és indokolásának kivonatát a honlapján közzéteszi, valamint értesíti az erdőterület elhelyezkedése szerinti települési önkormányzat jegyzőjét, aki gondoskodik a határozatról szóló tájékoztatás, valamint a határozat honlapon való elérhetőségének helyben szokásos módon történő közzétételéről.
 
 (5) Az erdészeti hatóság a körzeti erdőtervezési eljárásban hozott döntését
 
 - a) az erdőgazdálkodó ügyfél, illetve az eljárás során nyilatkozatot tett tulajdonos ügyfél részére a határozatnak az ügyfél erdőgazdálkodási tevékenységével vagy tulajdonával érintett erdőkre vonatkozó részének megküldésével,
-- b) az a) pontba nem tartozó, az eljárás során nyilatkozatot tett ügyfelek részére a döntés rendelkező része és indoklása kivonatának megküldésével
+- b) az a) pontba nem tartozó ügyfelek részére közhírré tétellel
 
 közli.
 
@@ -940,12 +940,13 @@ módosíthatja az erdőtervet.
 - c) a katonai hatóság részére a honvédelmi rendeltetésű erdők,
 - d) a működési terület szerint érintett vízügyi igazgatási szerv részére az árvízvédelmi rendeltetésű erdők,
 - e) a működési terület szerint érintett közútkezelő részére a műtárgyvédelmi, valamint a közúttal határos erdők,
-- f) az ingatlanügyi hatóság részére a földügyi igazgatási feladatok ellátása céljából az erdők és szabad rendelkezésű erdők, valamint
-- g) az erdészeti tudományos kutatással foglalkozó költségvetési szerv részére az erdők és szabad rendelkezésű erdők
+- f) az ingatlanügyi hatóság részére a földügyi igazgatási feladatok ellátása céljából az erdők és szabad rendelkezésű erdők,
+- g) az erdészeti tudományos kutatással foglalkozó költségvetési szerv részére az erdők és szabad rendelkezésű erdők, valamint
+- h) a mezőgazdasági igazgatási szerv részére a jogügylet hatósági jóváhagyása iránti eljárásban, az e feladatkörébe tartozó ügy elbírálása érdekében, valamint a Földforgalmi törvényben meghatározott szerzési feltételek, korlátozások és tilalmak betartásának ellenőrzése céljából az erdők és szabad rendelkezésű erdők
 
 Adattárban nyilvántartott adataihoz.
 
-(4) Az ingatlanügyi hatóság, a földmérési és térinformatikai államigazgatási szerv, valamint a honvédelem térképészeti támogatásáért felelős szerv részére az Adattárból díj-, költség- és térítésmentesen kell szolgáltatni az alapfeladataik ellátásához, valamint az Európai Unió Közös Agrárpolitikájának végrehajtásával kapcsolatos feladatok ellátásához igényelt adatokat.
+(4) Az ingatlanügyi hatóság, a földmérési és térinformatikai államigazgatási szerv, a mezőgazdasági igazgatási szerv, valamint a honvédelem térképészeti támogatásáért felelős szerv részére az Adattárból díj-, költség- és térítésmentesen kell szolgáltatni az alapfeladataik ellátásához, valamint az Európai Unió Közös Agrárpolitikájának végrehajtásával kapcsolatos feladatok ellátásához igényelt adatokat.
 
 (5) Az Adattárból a fokozottan védett fajokra és azok élőhelyeire vonatkozó adat csak az erdőgazdálkodó és a jogosult erdészeti szakszemélyzet részére adható ki.
 
@@ -1107,7 +1108,7 @@ az erdőgazdálkodónak az e fejezetben foglaltak szerint az e törvény végreh
 
 (10) Az erdészeti hatóság az erdőfelújítási kötelezettség teljesítését, illetve az erdőfelújítások állapotát rendszeresen ellenőrzi (a továbbiakban: erdőfelújítások műszaki átvétele). Az erdőfelújítások műszaki átvételére évente, a tárgyév október 15-ig bezárólag kerül sor. Az ellenőrzés eredményeit az erdészeti hatóság műszaki átvételi jegyzőkönyvben rögzíti.
 
-(11) Ha az erdőfelújítás műszaki átvételére a (10) bekezdésben foglaltak szerint nem kerül sor, az erdőgazdálkodó az erdőfelújítás állapotát évente, a tárgyév október 31-ig bejelenti az erdészeti hatóság részére.
+(11)
 
 52. § (1) Tarvágással érintett erdőben az erdőfelújítást az erdőgazdálkodónak legkésőbb az erdőfelújítási kötelezettség keletkezésének évétől számított második évben, az erdőfelújítás műszaki átvételéig meg kell kezdenie.
 
@@ -1758,7 +1759,7 @@ kerülhet sor.
 - g) hatósági mintavétel esetén az ügyfél kérésére – az e törvény végrehajtására kiadott jogszabályban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott kivételek figyelembevételével – ellenmintát venni,
 - h) jogszabálysértés alapos gyanúja esetén a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe önhatalmúlag belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
 
-90/I. § (1) Az erdészeti hatóság – a faanyag kereskedelmi lánccal kapcsolatos eljárása során – jogosult megismerni és kezelni az ügyfél és az eljárás más résztvevőjének személyes adatait, illetve az ilyen adatot tartalmazó nyilvántartás vagy adatbázis is lefoglalható. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
+90/I. § (1) Az erdészeti hatóság – a faanyag kereskedelmi lánccal kapcsolatos eljárása során – jogosult megismerni és kezelni az ügyfél és az eljárás más résztvevőjének személyes adatait, illetve az ilyen adatot tartalmazó nyilvántartás vagy adatbázis is lefoglalható vagy zár alá vehető. Ha a bizonyítási eszköz az eljárás tárgyával össze nem függő személyes adatot is tartalmaz és az adatok elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, a bizonyítási eszközzel érintett minden személyes adat kezelésére jogosult, azonban a vizsgálat tárgyát képező jogsértéssel össze nem függő személyes adatok megvizsgálására csak addig a mértékig, ameddig meggyőződik arról, hogy az adat nem függ össze a vizsgálat tárgyát képező jogsértéssel.
 
 (2) A faanyag kereskedelmi lánccal kapcsolatos ellenőrzésekhez az erdészeti hatóság a rendőrség, az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság közreműködését igényelheti.
 
@@ -1772,16 +1773,18 @@ kerülhet sor.
 
 - a) elrendeli az e törvény hatály alá tartozó jogellenesen forgalomba hozott vagy forgalomba hozni kívánt fatermék és az ebből származó bevétel elkobzását, ha azok illegális kitermelésből származnak, vagy azok származására vonatkozóan hamis adatokat adtak meg,
 - b) az elkobzott faanyagot értékesíti vagy megsemmisíti,
-- c) illegális kitermelés gyanúja esetén elrendeli a fatermék vagy az ebből származó bevétel zár alá vételét, lefoglalását, szállítójárművet visszatarthat mindaddig, amíg a szállítmányával kapcsolatos, elkobzási, lefoglalási, zárolási és megsemmisítési eljárás be nem fejeződik, vagy jogsértés esetén annak költsége megfizetésre nem kerül,
-- d) illegális kitermelés esetén a cselekményhez felhasznált szállítóeszközt lefoglalja, elkobozza, engedélyét visszavonja, használatát megtiltja és a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
+- c) illegális kitermelés vagy annak vélelme esetén zárlati intézkedést rendel el, melynek keretében:
+  - ca) a cselekményhez felhasznált szállítóeszköz használatát korlátozza, vagy megtiltja és a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
+  - cb) elrendeli a már forgalomba hozott fatermék forgalomból való kivonását, behozatalát, kivitelét; reklámozását feltételhez köti, korlátozza, felfüggeszti, megtiltja; a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
+  - cc) elrendeli, hogy az importőr saját költségére, kockázatára haladéktalanul vigye vissza a faterméket a származási helyére, amennyiben egy hónapon belül nem igazolja a fa vagy fatermékek 995/2010/EU rendelet 2. cikk f) pontja szerinti legális eredetét,
+  - cd) vállalkozás, létesítmény működési engedélyének módosítását, felfüggesztését, visszavonását kezdeményezi, illetve
+  - ce) a fatermékkel kapcsolatos tevékenység végzését határozott időre, teljesen vagy részlegesen felfüggeszti, korlátozza, a működést megtiltja, az újbóli működést feltételhez köti; a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
+- d)
 - e) erdővédelmi bírságot szab ki,
-- f) elrendeli a már forgalomba hozott fatermék forgalomból való kivonását, behozatalát, kivitelét; reklámozását feltételhez köti, korlátozza, felfüggeszti, megtiltja; a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
-- g) elrendeli, hogy az importőr saját költségére, kockázatára haladéktalanul vigye vissza a faterméket a származási helyére, amennyiben egy hónapon belül nem igazolja a fa vagy fatermékek 995/2010/EU rendelet 2. cikk f) pontja szerinti legális eredetét,
-- h) vállalkozás, létesítmény működési engedélyének módosítását, felfüggesztését, visszavonását kezdeményezi,
-- i) a fatermékkel kapcsolatos tevékenység végzését határozott időre, teljesen vagy részlegesen felfüggeszti, korlátozza, a működést megtiltja, az újbóli működést feltételhez köti; a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
+- f)–i)
 - j) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezi a faanyag kereskedelmi lánc szereplőjét azzal, hogy a szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni az erdészeti hatóságot.
 
-(2) Az erdészeti hatóság az elkobzott faanyagot visszaszolgáltatja, ha annak tulajdonosa a faanyag felett fennálló, jogszerűen szerzett rendelkezési jogosultságát hitelt érdemlően bizonyítja.
+(2)
 
 (3) Az erdészeti hatóság az illegális fakitermelés esetén a helyszínen talált faanyag elszállítását engedélyezi, ha annak tulajdonosa a faanyag felett fennálló, jogszerűen szerzett rendelkezési jogosultságát hitelt érdemlően bizonyítja.
 
@@ -1789,32 +1792,34 @@ kerülhet sor.
 
 (5) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyelete keretében végzett intézkedéseiről haladéktalanul értesíti a forgalomba hozásért felelős piaci szereplőt, importőrt.
 
-(6) A faanyag kereskedelmi lánc hatósági felügyelete során lefoglalt fatermék az értékesítés vagy megsemmisítés helyett közérdekű célra is felhasználható.
+(6) A faanyag kereskedelmi lánc hatósági felügyelete során elkobzottfatermék az értékesítés vagy megsemmisítés helyett közérdekű célra is felhasználható.
 
-90/L. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos jogkövetkezményeket megállapító jogerős vagy fellebbezésre tekintet nélkül végrehajtható határozatának vagy végzésének kivonatát honlapján haladéktalanul közzéteszi, ha eljárása során mulasztást vagy jogszabálysértést állapít meg.
+90/L. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos jogkövetkezményeket megállapító végleges végrehajtható határozatának vagy végzésének kivonatát honlapján haladéktalanul közzéteszi, ha eljárása során mulasztást vagy jogszabálysértést állapít meg.
 
 (2) A közétett kivonatnak tartalmaznia kell:
 
 - a) a közzététel napját,
 - b) a közzététel e törvény szerinti jogcímét,
-- c) a jogerő beálltára vagy annak hiányára történő utalást,
+- c) a véglegessé válásra vagy annak hiányára történő utalást,
 - d) az eljáró hatóság megnevezését,
 - e) az ügy számát és tárgyát,
 - f) a jogsértő faanyag kereskedelmi lánc szereplőjének a nevét és lakóhelyét vagy székhelyét,
 - g) a vizsgált, e törvény hatálya alá tartozó fatermék nem megfelelőségére vonatkozó megállapításokat,
 - h) a megsértett jogszabályi rendelkezések megjelölését,
-- i) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló rendelkezést, valamint
+- i) a döntés rendelkező részét, ide nem értve végleges döntés esetén a jogorvoslatról szóló rendelkezést, valamint
 - j) a döntéssel szembeni jogorvoslati eljárás tényét.
 
 (3) Az erdészeti hatóság a (2) bekezdés alapján közzétett kivonatot a közzétételtől számított 5 év elteltével vagy annak okafogyottá válásakor honlapjáról eltávolítja.
 
-90/M. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyelettel kapcsolatos hatósági eljárása során a Ket. rendelkezéseit a (2)–(4) bekezdésben meghatározott eltérésekkel köteles alkalmazni.
+90/M. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyeletével kapcsolatos ellenőrzési tevékenysége eredményes lefolytatása érdekében a faanyag kereskedelmi lánc egyes szereplőitől – legfeljebb harmincnapos – határidő kitűzésével, az előállított vagy forgalmazott fával és fatermékkel kapcsolatban írásban adatszolgáltatást kérhet.
 
-(2) Az erdészeti hatóságnak a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárásában az ügyintézési határidő 90 nap.
+(2)
 
 (3) Ha a hatósági ellenőrzés keretében a vizsgálati eredmény alapján nem állapítható meg jogsértés, a hatóság a vizsgálati jegyzőkönyvet nem küldi meg az ügyfél részére.
 
 (4) Ha az ellenőrzés során a laboratóriumi vizsgálat vagy a hatóság mérése céljából mintavételezett fatermék nem bizonyul megfelelőnek, akkor a vizsgálat költségeit a faanyag kereskedelmi lánc azon szereplője köteles megfizetni, amelynél a terméket vizsgálat alá vonták.
+
+(5) A faanyag-kereskedelmi lánc hatósági felügyeletét ellátó erdészeti hatóság eljárásában hozott, az 5. § 41. pont szerinti zárlatot elrendelő végzése ellen önálló jogorvoslatnak van helye.
 
 ### Az erdő látogatása
 
@@ -1926,6 +1931,8 @@ AZ ERDŐ ŐRZÉSE
 
 - a) az erdészeti szakirányítói névjegyzékben szereplő jogosult erdészeti szakszemélyzet munkaviszony keretében vagy megbízással történő alkalmazása, valamint
 - b) az erdészeti szakirányítói névjegyzékben szereplő jogosult erdészeti szakszemélyzetet munkaviszony keretében alkalmazó erdészeti szakirányító vállalkozás megbízása.
+
+(3) Az állam a 100%-os tulajdonában nem álló erdőben felmerülő erdészeti szakirányítás, illetve erdőkezelés költségeihez az e törvény végrehajtására kiadott jogszabályban foglaltak szerint hozzájárul.
 
 ### Az erdészeti szakszemélyzet, a jogosult erdészeti szakszemélyzet és az erdészeti szakirányító vállalkozás kötelezettségei, jogosultságai, valamint nyilvántartása
 
@@ -2080,34 +2087,42 @@ foglalt bejelentések esetében a bejelentett tevékenységet ellenőrzi, és ha
 
 (2) Az (1) bekezdés szerinti bejelentésre a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény bejelentésekre vonatkozó szabályozása nem vonatkozik.
 
-105. § (1) Az erdészeti hatósági eljárásokban hozott határozatok fellebbezéssel nem támadott rendelkezései tekintetében a jogorvoslati határidő elteltével beáll a jogerő, ha a döntés egyes rendelkezései ellen nyújtottak be fellebbezést, és az ügy jellegéből adódóan a fellebbezés elbírálása nem hat ki a fellebbezéssel meg nem támadott rendelkezésekre.
+105. § (1) Erdészeti hatósági eljárásban
 
-(2)
+- a) az erdészeti hatóság az ügyféllel és az eljárásban résztvevőkkel írásban tart kapcsolatot,
+- b) kérelmet előterjeszteni csak írásban lehet,
+- c) döntést szóban közölni nem lehet,
+- d) hatósági ellenőrzést az ügyfél nem kérhet,
+- e) szünetelés nem kérhető.
 
-(3) Az erdőterv-módosítási eljárás, az igénybevételi eljárás, valamint az erdőgazdálkodói nyilvántartásba vételi eljárás ügyintézési határideje – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – harmincöt nap.
+(2) Erdészeti hatósági eljárásban a hatóság az ügyfelet az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 44. § b) pontjában foglalt esetben két alkalommal hiánypótlásra hívhatja fel.
 
-(4) Ha az erdészeti hatósági eljárás a Ket.-ben meghatározott jelentős számú ügyfelet érint, akkor a hatóság – a körzeti erdőtervezési eljárás kivételével – az ügyféllel hirdetményi úton tart kapcsolatot.
+(3) Erdőtelepítés vagy erdőfelújítás befejezetté nyilvánítására irányuló eljárás ügyintézési határideje az érintett erdőtelepítés vagy erdőfelújítás műszaki átvételekor kezdődik.
 
-(5) Az erdészeti hatóság az erdőben folyó tevékenység jogszerűségét az ügyfél előzetes értesítésének mellőzésével is ellenőrizheti.
+(4) Az ügyintézési határidő
 
-(6) Az erdészeti szakszemélyzet névjegyzékből való törlése esetén a törlés tényét a névjegyzékben haladéktalanul fel kell tüntetni.
+- a) erdőterv-módosítási eljárás, az erdő igénybevételének elvi engedélyezésére vagy engedélyezésére irányuló eljárás, jogosulatlan igénybevétel fennmaradásának engedélyezésére irányuló, valamint az erdőgazdálkodói nyilvántartásba-vételi eljárás esetén – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – kilencven nap,
+- b) a körzeti erdőtervezési eljárás és a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárás esetén százhúsz nap.
 
-(7) Az erdőgazdálkodó nyilvántartásba történő bejegyzése iránti eljárást az erdészeti hatóság a bírósági eljárás jogerős lezárásáig felfüggeszti, ha
+(5) Az erdészeti hatóságnak az Ákr. szerinti függő hatályú döntésében nem kell rendelkezni a kérelmezett jog gyakorlásáról
 
-- a) a bejegyzés alapjául szolgáló magánokirat valódiságát a felek, illetve a hitelesítő vagy ellenjegyző személyek valamelyike vitatja; vagy
-- b) a bejegyzéssel érintett ingatlan társult erdőgazdálkodásra kötelezett legalább 25% tulajdoni hányaddal rendelkező tulajdonosai az ingatlan közös tulajdonának megszüntetését kezdeményezték.
+- a) az erdő igénybevételének elvi engedélyezésére vagy engedélyezésére,
+- b) jogosulatlan igénybevétel fennmaradásának engedélyezésére,
+- c) az erdő fátlan állapotban tartásának engedélyezésére,
+- d) az erdő alacsonyabb záródással való fenntartásának engedélyezésére,
+- e) az erdő rendeltetésének megállapítására vagy törlésére,
+- f) az erdőterv módosítására, és
+- g) a szennyvíziszap alkalmazásának engedélyezésére
 
-(8) Ha a (7) bekezdésben foglalt bejelentést tevő személyek az erdészeti hatósági hiánypótlási felhívásban meghatározott határidő alatt a bejegyzés alapjául szolgáló okirat érvénytelensége, illetve a közös tulajdon megszüntetése iránti per megindítását a keresetlevélnek a bíróságon iktatott példányával vagy annak hiteles másolatával nem igazolják, az erdészeti hatóság érdemi határozatot hoz a bejegyzési kérelem tekintetében.
+irányuló eljárásban.
 
-(9) Semmisségi oknak minősül, ha az erdészeti hatóság az erdő igénybevételének engedélyezéséről, elvi engedélyezéséről a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
+(6) Az (5) bekezdés szerinti eljárásokban sommás eljárás nem alkalmazható.
 
-(10) Az erdészeti hatóságnak az erdő igénybevételi eljárásban és az erdő területén fátlan állapot kialakításának vagy fenntartásának engedélyezési eljárásában a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(7) Az erdő igénybevételének engedélyezésére vagy elvi engedélyezésére irányuló eljárásban súlyos eljárási jogszabálysértésként semmisségi oknak minősül, ha az erdészeti hatóság a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
 
-(11) Az erdészeti hatóság az eljárását az ügy érdemével összefüggően indított büntetőeljárás vagy szabálysértési eljárás jogerős lezárásáig felfüggesztheti.
+(8) Erdőgazdálkodási bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
 
-(12) Az erdészeti hatóság a rendészeti feladatokat ellátó erdészeti szakszemélyzet erdészeti szakirányítói névjegyzékbe történő felvételére irányuló eljárását a rendészeti tevékenység gyakorlásához szükséges szolgálati igazolvány és jelvény kiállítása iránti eljárás jogerős lezárásáig felfüggeszti.
-
-(13) Erdőgazdálkodási bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
+(9) Az erdészeti hatóság végleges döntésében foglalt kötelezettség végrehajtását – a pénzügyi kötelezés kivételével – az erdészeti hatóság foganatosítja.
 
 ### Nyilvántartásokkal kapcsolatos szabályok
 
@@ -2157,6 +2172,68 @@ vonatkozó adat igénylésére.
 - g) erdő, szabad rendelkezésű erdő átminősítése.
 
 (3) Az 1. mellékletben meghatározott gazdasági társaságoknak az e törvényben foglalt eljárásokért nem kell igazgatási szolgáltatási díjat fizetnie.
+
+### Az erdészeti hatóság elsőfokú és másodfokú eljárásaiban közreműködő szakhatóságok
+
+105/C. § (1) Part- vagy töltésvédelmi, árvízvédelmi és vízvédelmi rendeltetésű erdő esetén, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges, a (2) bekezdés szerinti eljárásban
+
+- a) az erdészeti hatóság elsőfokú eljárásában
+  - aa) a part- vagy töltésvédelem és árvízvédelem tekintetében a területi vízügyi hatóságot,
+  - ab) a vízvédelem tekintetében a területi vízvédelmi hatóságot,
+- b) az erdészeti hatóság másodfokú eljárásában
+  - ba) a part- vagy töltésvédelem és árvízvédelem tekintetében az országos vízügyi hatóságot,
+  - bb) vízvédelem tekintetében az országos vízvédelmi hatóságot
+
+szakhatóságként kell bevonni.
+
+(2) Az (1) bekezdés szerinti szakhatóság
+
+- a) fásítás faállománya felszámolásának előírására,
+- b) fásítás területének erdőként, szabad rendelkezésű erdőként történő nyilvántartásba vételére,
+- c) erdészeti létesítmény létesítésének, bővítésének, korszerűsítésének, megszüntetésének, fennmaradásának vagy a rendeltetése megváltoztatásának engedélyezésére, valamint a felszámolásának elrendelésére,
+- d) az erdőterv meghatározására,
+- e) az erdőterv módosítására,
+- f) az erdőtelepítési-kivitelezési terv jóváhagyására,
+- g) az engedély nélkül vagy engedélytől eltérően telepített faállomány fennmaradásának engedélyezésére,
+- h) az erdőterület igénybevételére vonatkozó elvi engedélyezésére,
+- i) az erdőterület igénybevételének engedélyezésére,
+- j) az erdő engedély nélküli vagy engedélytől eltérő igénybevétele esetén a kialakult állapot fennmaradásának engedélyezésére,
+- k) az erdő rendeltetésének, elsődleges rendeltetésének kérelemre induló megállapítására,
+- l) cserjék kivágásának engedélyezésére
+
+irányuló eljárás esetén, szakhatósági eljárása során vizsgálja, hogy a tevékenység, a beruházás vagy a terv az árvízvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
+
+(3) A területi vízügyi hatóság, a területi vízvédelmi hatóság, az országos vízügyi hatóság, valamint az országos vízvédelmi hatóság szakhatósági eljárásának ügyintézési határideje 15 nap.
+
+105/D. § (1) A honvédelemért felelős minisztert elsőfokú eljárásban szakhatóságként kell bevonni
+
+- a) honvédelmi rendeltetésű erdő, valamint az aa), ab), ai) és aj) alpontok tekintetében a Honvédelmi Minisztérium vagyonkezelésében álló, erdőnek nem minősülő földterületek esetén
+  - aa) fásítás faállománya felszámolásának előírására,
+  - ab) fásítás területének erdőként, szabad rendelkezésű erdőként történő nyilvántartásba vételére,
+  - ac) erdő felnyitott erdőként történő fenntartásának engedélyezésére és előírására, felnyitott erdő helyreállításának előírására.
+  - ad) erdőben fátlan állapot kialakításának és fenntartásának engedélyezésére, fátlan állapot fenntartásának előírására, fátlan állapotban tartott erdő helyreállításának előírására,
+  - ae) erdészeti létesítmény létesítésének, bővítésének, korszerűsítésének, megszüntetésének, fennmaradásának vagy rendeltetése megváltoztatásának engedélyezésére, valamint a felszámolásának elrendelésére,
+  - af) az erdő rendeltetésének, elsődleges rendeltetésének kérelemre induló megállapítására,
+  - ag) az erdőterv meghatározására,
+  - ah) az erdőterv módosítására,
+  - ai) az erdőtelepítési-kivitelezési terv jóváhagyására,
+  - aj) az engedély nélkül vagy engedélytől eltérően telepített faállomány fennmaradásának engedélyezésére,
+  - ak) az erdő igénybevételének engedélyezésére,
+  - al) az erdő igénybevételére vonatkozó elvi engedély megadására,
+  - am) az erdő engedély nélküli vagy engedélytől eltérő igénybevétele esetén a kialakult állapot fennmaradásának engedélyezésére,
+  - an) a járműközlekedésre használható út kijelölésére, és
+  - ao) a lovas és technikai sportverseny rendezésének engedélyezésére, valamint
+- b) az állami repülések céljára szolgáló repülőterek, valamint a közös felhasználású katonai és polgári repülőtérré fejleszthető állami repülések céljára szolgáló repülőterek védőterületén található erdő, valamint a ba) és bb) alpontok tekintetében erdőnek nem minősülő földterületek esetén
+  - ba) fásítás faállománya felszámolásának előírására,
+  - bb) fásítás területének erdőként, szabad rendelkezésű erdőként történő nyilvántartásba vételére,
+  - bc) az erdőterv meghatározására,
+  - bd) az erdőterv módosítására,
+  - be) az erdőtelepítési-kivitelezési terv jóváhagyására, és
+  - bf) az engedély nélkül vagy engedélytől eltérően telepített faállomány fennmaradásának engedélyezésére
+
+irányuló eljárásban, annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e.
+
+(2) A honvédelemért felelős miniszter szakhatósági eljárásának ügyintézési határideje 15 nap.
 
 ### XII. Fejezet — AZ ELRENDELT ERDŐGAZDÁLKODÁSI TEVÉKENYSÉG, AZ ERDŐGAZDÁLKODÁSI BÍRSÁG ÉS AZ ERDŐVÉDELMI BÍRSÁG
 
@@ -2224,7 +2301,7 @@ vonatkozó adat igénylésére.
 - b) e törvény alapján engedélyhez vagy bejelentéshez kötött tevékenységet – a fakitermelés kivételével – engedély nélkül, vagy az engedélyben, illetve a bejelentésben foglaltaktól, valamint az erdészeti hatóság rendelkezésétől eltérően hajtja végre;
 - c)
 - d) a 70. § (3) bekezdésében foglalt előírásokat megsérti;
-- e) a 90. § (2) bekezdésében foglalt előírásokat megsérti.
+- e)
 
 (4) Az erdőgazdálkodási bírságot a cselekmény folytatása vagy újbóli elkövetése esetén ismételten ki lehet szabni.
 
@@ -2285,7 +2362,7 @@ ha jogszerűtlen fakitermelésre megbízást adott vagy ilyen fakitermelésről 
 
 #### 110. §
 
-111. § A határidőre meg nem fizetett erdővédelmi járulék adók módjára behajtandó köztartozás.
+#### 111. §
 
 111/A. § (1) Az erdészeti hatóság az általa határozattal kiszabott erdőgazdálkodási és erdővédelmi bírságokról hatósági nyilvántartást vezet az alábbi adattartalommal:
 
@@ -2319,7 +2396,8 @@ ha jogszerűtlen fakitermelésre megbízást adott vagy ilyen fakitermelésről 
 - g) határozza meg az erdőkezelés részletes szabályait és feltételeit;
 - h) határozza meg az erdészeti szakszemélyzet, a jogosult erdészeti szakszemélyzet, és az erdészeti szakirányító vállalkozás nyilvántartásba vételének, nyilvántartásból történő törlésének, valamint az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet tevékenységének, továbbképzésének részletes szabályait és feltételeit;
 - i) határozza meg az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat;
-- j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentés, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus ügyintézés, nyilvántartás és adatszolgáltatás részletes szabályait, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat.
+- j) határozza meg az elektronikus úton az erdészeti hatóság felé teljesítendő kérelem, bejelentés, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus ügyintézés, nyilvántartás és adatszolgáltatás részletes szabályait, az erdészeti hatósággal való elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat;
+- k) határozza meg az erdőgazdálkodás korlátozása esetén fizetendő kártalanítás megállapításának részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 
@@ -2339,7 +2417,7 @@ ha jogszerűtlen fakitermelésre megbízást adott vagy ilyen fakitermelésről 
 - 14. az erdőfelújítási biztosíték nyújtásának részletes szabályait;
 - 15.
 - 16. az erdőtelepítés és erdőfelújítás befejezetté nyilvánításának részletes szabályait;
-- 17.
+- 17. az erdészeti szakirányítás, illetve az erdőkezelés költségeihez való hozzájárulás részletes szabályait;
 - 18. az erdészeti termőhelyfeltárás részletes szabályait;
 - 19. az örökerdő, az átalakítási és az erdőfelújítási terv készítésének részletes szabályait;
 - 20. az erdészeti szaporítóanyagokra vonatkozó részletes szabályokat;
@@ -2401,7 +2479,7 @@ ha jogszerűtlen fakitermelésre megbízást adott vagy ilyen fakitermelésről 
 
 (14)–(16)
 
-(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig
+(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv véglegessé válásáig
 
 - a) a korábbi erdőterv érvényessége fennmarad, vagy
 - b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság az erdőgazdálkodó kérelmére erdőtervben állapítja meg.

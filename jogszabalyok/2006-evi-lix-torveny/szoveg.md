@@ -10,7 +10,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (2) A különadóból származó bevétel a központi költségvetést illeti meg.
 
-(3) Az (1) bekezdésben említett különadó adónak minősül. Az e törvényben nem szabályozott kérdésekben az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései az irányadók.
+(3) Az (1) bekezdésben említett különadó adónak minősül. Az e törvényben nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései az irányadók.
 
 ### A magánszemély adókötelezettsége
 

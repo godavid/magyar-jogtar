@@ -12,9 +12,9 @@ az igazságügyi szakértő nemperes eljárásban történő kirendeléséről �
 
 (5) A szakértő kirendelésére irányuló eljárás nemperes eljárás, amelyben bizonyításnak, felfüggesztésnek és szünetelésnek nincs helye.
 
-(6) Azokra az eljárási kérdésekre, amelyeket ez a törvény nem szabályoz, a Polgári Perrendtartásról szóló 1952. évi III. törvény (Pp.) szabályai – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadók.
+(6) Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
-2. § (1) A bíróság a szakértői névjegyzékben szereplő igazságügyi szakértőt, szakvélemény adására feljogosított gazdasági társaságot, szakértői intézményt, vagy külön jogszabályban meghatározott állami szervet, intézményt, szervezetet rendelhet ki szakértőként. Más szakértő csak ezek hiányában, kivételesen alkalmazható.
+2. § (1) A bíróság szakértőként az igazságügyi szakértőkről szóló törvény szerinti szakértőt vagy az abban meghatározott eseti szakértőt rendelhet ki.
 
 (2) Rendszerint egy szakértőt kell alkalmazni, több szakértőt csak különböző szakkérdések felmerülése esetében lehet kirendelni.
 
@@ -28,13 +28,13 @@ az igazságügyi szakértő nemperes eljárásban történő kirendeléséről �
 
 (4) A szakvéleményhez szükséges vizsgálat tűrésére senki nem kötelezhető.
 
-(5) A bíróságnak a kérelmet elutasító végzése ellen a kérelmező fellebbezhet. A kérelemnek helyt adó végzés ellen nincs helye fellebbezésnek.
+(5) A kérelemnek helyt adó végzés ellen nincs helye fellebbezésnek.
 
 4. § (1) A szakértő a szakvéleményt a szakértőt kirendelő végzés kézhezvételétől számított 30 napon belül köteles előterjeszteni. A bíróság a szakértő – határidő lejárta előtt előterjesztett – kérelmére a határidőt egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja.
 
 (2) A szakértő kirendelésének költségeit a kérelmező viseli, ideértve azt az esetet is, ha – tekintettel a 3. § (4) bekezdésére – a szakértő a szakvélemény elkészítéséhez szükséges vizsgálatot nem tudta lefolytatni.
 
-(3) A kirendelt szakértőre a Pp. 185. §-ának (2)–(4) bekezdéseit megfelelően alkalmazni kell.
+(3) A kirendelt szakértőre a Pp. a közreműködőkkel szemben alkalmazható kényszerítő eszközökre és a kirendelt szakértő díjának a csökkentésére irányadó szabályait megfelelően alkalmazni kell.
 
 5. § (1) A bíróság a szakértő díját – a szakértő által benyújtott díjjegyzék alapul vételével – a szakvélemény beérkeztét követően, legkésőbb 15 napon belül végzéssel megállapítja.
 

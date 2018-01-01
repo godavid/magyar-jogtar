@@ -142,9 +142,9 @@ amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától szám�
 
 (6)
 
-(7) A határozat felülvizsgálata iránti pert a szövetkezet, a fórum vagy a részarány-földtulajdonosok képviselője kezdeményezheti. A perben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel jár el.
+(7)
 
-(8) Ha a szövetkezet a jogerős határozatban foglaltaknak az előírt határidőn belül nem tesz eleget, a kijelölést a határozat alapján a szövetkezet költségére az ingatlanügyi hatóság végzi el.
+(8) Ha a szövetkezet a végleges határozatban foglaltaknak az előírt határidőn belül nem tesz eleget, a kijelölést a határozat alapján a szövetkezet költségére az ingatlanügyi hatóság végzi el.
 
 22. § Ha a szövetkezet közös használatában lévő földek AK értéke kisajátítás, nem értékarányos földcsere, művelési ág változás vagy más ok miatt kevesebb mint a részarány-földtulajdonosot az ingatlannyilvántartás szerint megillető AK érték, ez utóbbi AK értéket és a tulajdonként kimutatott területnagyságot a tényleges állapotnak megfelelően tulajdonosonként arányosan csökkenteni, és erről az ingatlanügyi hatóságot értesíteni kell. A részarány-földtulajdonost — legfeljebb 2000 Ft/AK érték alapulvételével, a szövetkezet választása szerint készpénzben vagy szövetkezeti üzletrész formájában — kártalanítani kell.
 

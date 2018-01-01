@@ -55,6 +55,7 @@ terjed ki.
 - 1a. állami tisztviselő: a fővárosi és megyei kormányhivatalnál az állami tisztviselőkről szóló törvény szerinti jogviszonyban álló személy;
 - 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 - 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
+- 3a. nemzetközi közigazgatási szakértői tevékenység: a nemzetközi színvonalú hazai állami digitális megoldások exportjával és programjának fejlesztésével összefüggő – külföldön történő feladatvégzéssel járó, ellentételezés fejében ellátott szakértői – tevékenység;
 - 4. egyéb jogviszony: különösen a munkaviszony, állami vezetői szolgálati jogviszony, fennálló kormányzati szolgálati jogviszony esetén közszolgálati jogviszony (fennálló közszolgálati jogviszony esetében kormányzati szolgálati jogviszony), állami szolgálati jogviszony, közalkalmazotti jogviszony, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszony, ügyészségi, hivatásos (szerződéses) szolgálati jogviszony, ösztöndíjas foglalkoztatási jogviszony, bedolgozói munkaviszony, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszony, a szakcsoporti tagsági viszony, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenység, az ügyvédi és az egyéni vállalkozói tevékenység, valamint a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység végzésére irányuló jogviszony, a nevelőszülői foglalkoztatási jogviszony, a közérdekű önkéntes tevékenység végzésére irányuló jogviszony és az állami projektértékelői jogviszony;
 - 5. éjszakai munka: a huszonkét és hat óra közötti időszakban teljesített munkavégzés;
 - 6. éjszakai munkát végző közszolgálati tisztviselő: aki várhatóan az éves munkaidejének legalább egynegyedében éjszakai munkát végez;
@@ -103,7 +104,7 @@ terjed ki.
 - c) az öregségi nyugdíjkorhatárt betöltötte, és a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől egyházi, felekezeti nyugdíjban, öregségi járadékban, növelt összegű öregségi, munkaképtelenségi járadékban, rokkantsági ellátásában részesül, vagy
 - d) a 63. § (2) bekezdés f) pontja alapján a felmentését kéri.
 
-(2) A kormánytisztviselő, köztisztviselő akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást jogerősen megállapították.
+(2) A kormánytisztviselő, köztisztviselő akkor részesül az (1) bekezdés b) vagy c) pontja szerinti ellátásban, ha az ellátást véglegesen megállapították.
 
 (3) A kormánytisztviselő, köztisztviselő köteles tájékoztatni a munkáltatót, ha az (1) bekezdés hatálya alá esik.
 
@@ -130,7 +131,7 @@ terjed ki.
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 
-(9) Az (1)–(4) bekezdésben foglalt szabályokat az Országgyűlés Hivatala és az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.
+(9) Az (1)–(4) bekezdésben foglalt szabályokat az Országgyűlési Őrség és az Állambiztonsági Szolgálatok Történeti Levéltára esetében nem kell alkalmazni.
 
 (10) Az (1) bekezdésben foglaltaktól eltérően, Magyarország diplomáciai és konzuli képviseletein, a nemzetközi szervezetek mellett működő állandó képviseleteken, valamint más állami képviseleteken ügyviteli feladat ellátására nem kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető.
 
@@ -453,7 +454,7 @@ kézbesítettnek kell tekinteni.
 
 (8) Az Országos Pénzügyi Ellenőrző Bizottság (a továbbiakban: Pénzügyi Ellenőrző Bizottság) öt tagból áll. A Pénzügyi Ellenőrző Bizottság tagjait, elnökét az Országos Közgyűlés választja meg.
 
-(9) Az Országos Etikai Bizottság (a továbbiakban: Etikai Bizottság) tagjait és elnökét az Országos Közgyűlés választja meg. Az Etikai Bizottság tagjainak számát az Alapszabály határozza meg. Az Etikai Bizottság az Alapszabályban meghatározott módon háromtagú tanácsban jár el. Feladata a másodfokú etikai eljárás lefolytatása. A másodfokú határozat a közigazgatási perekre irányadó szabályok szerint bíróság előtt megtámadható.
+(9) Az Országos Etikai Bizottság (a továbbiakban: Etikai Bizottság) tagjait és elnökét az Országos Közgyűlés választja meg. Az Etikai Bizottság tagjainak számát az Alapszabály határozza meg. Az Etikai Bizottság az Alapszabályban meghatározott módon háromtagú tanácsban jár el. Feladata a másodfokú etikai eljárás lefolytatása.
 
 (10) Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Közgyűlés által megválasztott legfeljebb öt alelnök segíti. Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult. Az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésre állási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult.
 
@@ -489,7 +490,7 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 (4)
 
-(5) Az MKK-tag a nyilvántartásba vétel, annak elmulasztása, illetve a nyilvántartásból való törlés ellen az Elnökséghez benyújtandó fellebbezéssel élhet. A nyilvántartással kapcsolatos döntésekkel, illetve mulasztással szembeni jogorvoslatra és döntés-felülvizsgálatra a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(5) Az MKK-tag a nyilvántartásba vétel, annak elmulasztása, illetve a nyilvántartásból való törlés ellen az Elnökséghez benyújtandó fellebbezéssel élhet. A nyilvántartással kapcsolatos döntésekkel, illetve mulasztással szembeni jogorvoslatra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (6) Az MKK-tagság nem zár ki más kamarai tagsági viszonyt.
 
@@ -525,7 +526,7 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 - a) politikai párt tagja;
 - b) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti állami vezető, valamint a hivatali szerv vezetője;
-- c) más kamara tagja.
+- c) más kamara tisztségviselője.
 
 (3a) Ha a (3) bekezdésben meghatározott személyek más kamarai tagsággal is rendelkeznek, akkor e kamarai tagsági viszonyt fel kell függeszteni.
 
@@ -547,20 +548,16 @@ Az MKK Országos Közgyűlésének és Területi tisztségviselők és bizottsá
 
 (2) A megkeresett szerv a megkeresésre harminc napon belül köteles érdemben válaszolni. Ha a tájékoztatás, illetőleg a válaszadás vagy az intézkedés nem a megkeresett szerv hatáskörébe tartozik, az köteles a megkeresést nyolc napon belül áttenni a hatáskörrel rendelkező szervhez, és erről a jog gyakorlóját egyidejűleg tájékoztatni.
 
-(3) Az MKK felett a törvényességi ellenőrzést az ügyészség gyakorolja. A törvényességi ellenőrzés nem terjed ki az olyan ügyekre, amelyekben munkaügyi vitának, illetve egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
+(3) Az MKK felett a törvényességi ellenőrzést az ügyészség gyakorolja. A törvényességi ellenőrzés nem terjed ki az olyan ügyekre, amelyekben közszolgálati jogvitának, illetve egyébként bírósági vagy közigazgatási hatósági eljárásnak van helye.
 
 (4) A törvényességi ellenőrzést gyakorló ügyészség ellenőrzi, hogy az MKK
 
 - a) Alapszabálya és más önkormányzati szabályzatai, illetve azok módosításai megfelelnek-e a jogszabályoknak;
 - b) működése, határozatai nem sértik-e a jogszabályokat, az Alapszabályt vagy az egyéb önkormányzati szabályzatokat.
 
-(5) Ha az MKK működésének törvényessége másképpen nem biztosítható, az ügyész törvényességi ellenőrzési jogkörében eljárva keresettel bírósághoz fordulhat. A bíróság
+(5)
 
-- a) hatályon kívül helyezi az MKK törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendeli el;
-- b) a működés törvényességének helyreállítása érdekében összehívja az Országos Közgyűlést és a Területi Közgyűlést;
-- c) ismételt vagy súlyos törvénysértés esetén az MKK egyes szerveinek működését felfüggeszti.
-
-(6) Az ügyészég és a bíróság a (5) bekezdés szerinti jogsértés megállapításával és intézkedések megtételével egyidejűleg értesíti a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert és az igazságügyért felelős minisztert.
+(6) Az ügyészség a köztestületi felügyeleti per indításáról egyidejűleg értesíti a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert és az igazságügyért felelős minisztert. A bíróság az ítéletét megküldi a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternek és az igazságügyért felelős miniszternek.
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, illetve egyéb államigazgatási szerv vezetője az MKK-val, illetve annak területi szervezetével kötött megállapodás alapján az MKK, illetve területi szervezete működéséhez támogatást (pénzbeli, nem pénzbeli) nyújthat. A megállapodás irányulhat helyiséghasználat biztosítására is. A megállapodás nyilvános, azt a támogatást nyújtó államigazgatási szerv és az MKK honlapján közzé kell tenni.
 
@@ -1328,7 +1325,7 @@ Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorol�
 
 (8) A kormányzati szolgálati jogviszonyban álló vezető jogviszonyának átalakulását követően – a közalkalmazotti jogviszonyra vonatkozó szabály figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
 
-(9) Ha a jogviszony átalakulása időpontjában munkaügyi per fegyelmi felelősségre vonás tekintetében folyik, a kereset elbírálásánál
+(9) Ha a jogviszony átalakulása időpontjában közszolgálati jogvita fegyelmi felelősségre vonás tekintetében folyik, a kereset elbírálásánál
 
 - a) a fegyelmi elbocsátás szabályait kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya közalkalmazotti jogviszonnyá,
 - b) a rendkívüli felmondás szabályait kell megfelelően alkalmazni, ha a kormánytisztviselő jogviszonya munkajogviszonnyá,
@@ -1544,6 +1541,8 @@ alakul át.
 
 (5) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, audit bizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
+(6) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a kormánytisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltató előzetesen engedélyezi és a tevékenység időtartama tárgyévenként a hat hónapot nem haladhatja meg.
+
 86. § (1) A kormánytisztviselő köteles haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merül fel, illetve ha kormányzati szolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A munkáltatói jogkör gyakorlója köteles haladéktalanul írásban felszólítani a kormánytisztviselőt az összeférhetetlenség megszüntetésére. Amennyiben a kormánytisztviselő az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg, kormányzati szolgálati jogviszonya megszűnik.
 
 (2) Ha a 84. § (1) bekezdése szerinti összeférhetetlenség a kormányzati szolgálati jogviszony fennállása alatt keletkezik, akkor az érintettek megegyezése hiányában a munkáltatói jogkör gyakorlója dönti el, hogy melyik kormánytisztviselőnek szűnik meg a kormányzati szolgálati jogviszonya.
@@ -1567,7 +1566,7 @@ alakul át.
 
 ### A vagyongyarapodás vizsgálata
 
-88. § A munkáltatói jogkör gyakorlója az állami adóhatóságnál a közélet tisztasága szempontjából jelentős érzékenységgel rendelkező munkakörben foglalkoztatott kormánytisztviselő és vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adózás rendjéről szóló törvény szerinti vizsgálatát a kormányzati szolgálati jogviszony fennállása alatt ötévente, megszűnése esetén haladéktalanul kezdeményezi.
+88. § A munkáltatói jogkör gyakorlója az állami adóhatóságnál a közélet tisztasága szempontjából jelentős érzékenységgel rendelkező munkakörben foglalkoztatott kormánytisztviselő és vele egy háztartásban élő hozzátartozója vagyongyarapodásának az adóigazgatási rendtartásról szóló törvény és az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti vizsgálatát a kormányzati szolgálati jogviszony fennállása alatt ötévente, megszűnése esetén haladéktalanul kezdeményezi.
 
 ### A munka- és pihenőidő
 
@@ -1933,6 +1932,8 @@ adja ki, ha az esedékesség éve eltelt.
 (3) A kormánytisztviselőnek fizetés nélküli szabadság jár a tényleges önkéntes tartalékos katonai szolgálatteljesítés időtartamára.
 
 (4) A kormánytisztviselőnek fizetés nélküli szabadság jár a külszolgálat időtartamára, ha házastársa vagy élettársa külszolgálatot teljesít.
+
+(5) A kormánytisztviselőnek fizetés nélküli szabadság engedélyezhető a nemzetközi közigazgatási szakértői tevékenység időtartamára.
 
 114. § (1) A kormánytisztviselő a fizetés nélküli szabadság igénybevételét legalább tizenöt nappal korábban köteles írásban bejelenteni.
 
@@ -2471,6 +2472,14 @@ A fenti adatokban bekövetkezett változásokról a kormánytisztviselő, szakma
 
 (3) A hivatali szervezet vezetője a (2) bekezdésben foglaltakon túl célfeladatot állapíthat meg – az érintett hivatali szervezet vezetőjének egyetértésével – más államigazgatási szervnél foglalkoztatott kormánytisztviselő részére. A céljuttatást a célfeladatot tűző hivatali szervezet vezetője állapítja meg a kormánytisztviselő részére.
 
+(4) A nemzetközi közigazgatási szakértői tevékenység célfeladat teljesítésével is ellátható. A célfeladat ellátásának időtartama a tárgyévben a hat hónapot nem haladhatja meg. A célfeladat eredményes végrehajtásáért a céljuttatást a közigazgatási szerv előlegezi meg.
+
+(5) A célfeladat meghatározása a közigazgatási szerv, valamint a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti megállapodáson alapul. A megállapodás tartalmazza különösen a nemzetközi közigazgatási szakértői tevékenység meghatározását, a végrehajtással kapcsolatos szabályokat, a végrehajtásban részt vevő kormánytisztviselő részére járó díjazást és költségtérítést, az elszámolás rendjét.
+
+(6) A (4) és (5) bekezdés alkalmazásakor az (1)–(3) bekezdést és az 54. § (7) bekezdését nem kell alkalmazni.
+
+(7) A nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát, és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat a Kormány rendeletben állapítja meg.
+
 ### Fegyelmi felelősség
 
 155. § (1) Fegyelmi vétséget követ el a kormánytisztviselő, ha kormányzati szolgálati jogviszonyból eredő kötelezettségét vétkesen megszegi.
@@ -2740,7 +2749,7 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 - c) a minősítést végző vezető,
 - d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
-- f) munkaügyi per kapcsán az eljáró bíróság, illetve a közszolgálati panasz kapcsán a Közszolgálati Döntőbizottság,
+- f) közszolgálati jogvita kapcsán az eljáró bíróság, illetve a közszolgálati panasz kapcsán a Közszolgálati Döntőbizottság,
 - g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
 - h) törvényességi ellenőrzési feladatkörében eljárva az ügyész,
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
@@ -2781,7 +2790,7 @@ terjed ki.
 - c) a személyügyi központ felügyeletét ellátó közszolgálati életpálya kidolgozásáért felelős miniszter és az általa meghatározott körben, az általa feljogosított kormánytisztviselő,
 - d) saját adatai tekintetében az adatbázisban szereplő személy,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
-- f) munkaügyi per kapcsán az eljáró bíróság,
+- f) közszolgálati jogvita kapcsán az eljáró bíróság,
 - g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
 - h) az ügyészi törvényességi feladatkörében eljárva az ügyész.
 
@@ -2892,7 +2901,7 @@ terjed ki.
 - e) a kinevezés egyoldalú módosításával;
 - f) a sérelemdíj megfizetése ügyében hozott határozattal
 
-kapcsolatos ügyekben. A Közszolgálati Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a munkáltató a döntés közlésétől számított harminc napon belül bírósághoz fordulhat.
+kapcsolatos ügyekben. A Közszolgálati Döntőbizottság döntésével szemben a kormánytisztviselő, illetve a munkáltató bírósághoz fordulhat.
 
 (3) A kormánytisztviselő közvetlenül a bírósághoz fordulhat keresetével
 
@@ -2906,9 +2915,9 @@ kapcsolatos ügyekben. A Közszolgálati Döntőbizottság döntésével szemben
 
 (6) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a kormánytisztviselő a Közszolgálati Döntőbizottsághoz, illetve a bírósághoz akkor fordulhat, ha e törvény megengedi.
 
-(7) A közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a Kormánytisztviselői Döntőbizottsághoz intézett közszolgálati panaszt, illetve a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján megküldték. Ha a fél a közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet. Az igény hat hónap elteltével nem érvényesíthető.
+(7) A közszolgálati panasz beadására megállapított határidőt megtartottnak kell tekinteni, ha a Közszolgálati Döntőbizottsághoz intézett közszolgálati panaszt legkésőbb a határidő utolsó napján megküldték. Ha a fél a közszolgálati panasz beadására megállapított határidőt elmulasztja, igazolással élhet. Az igény hat hónap elteltével nem érvényesíthető.
 
-(8) A (2) bekezdés b) és c) pontjában, valamint a (3) bekezdés b) pontjában foglalt esetben a sérelmezett intézkedés, továbbá a fegyelmi és kártérítési ügyben hozott határozat – kivéve a hivatalvesztés fegyelmi büntetést kiszabó fegyelmi határozatot – a bíróság jogerős döntéséig nem hajtható végre.
+(8) A (2) bekezdés a), e) és f) pontjában foglalt esetben a sérelmezett intézkedés, továbbá a hivatalvesztés fegyelmi büntetést kiszabó fegyelmi határozat kivételével a keresetlevél benyújtásának halasztó hatálya van a Közszolgálati Döntőbizottság határozatának hatályosulására.
 
 (9) A közszolgálati panaszt a Közszolgálati Döntőbizottság annak kézhezvételétől számított hatvan napon belül indokolással ellátott határozatban bírálja el és döntését írásban közli. Ezt a határidőt indokolt esetben a Közszolgálati Döntőbizottság egy alkalommal hatvan nappal meghosszabbíthatja.
 
@@ -3281,6 +3290,8 @@ munkanapra emelkedik.
 
 (3) A hivatalvesztést a fegyelmi tanácsnak a miniszterelnök útján felterjesztett javaslatára a köztársasági elnök mondja ki.
 
+(4) A fegyelmi tanács hivatalvesztés büntetés kiszabására irányuló javaslatát – amely együtt jár a közigazgatási államtitkár állásából való felfüggesztésével – a közigazgatási államtitkárral közölni kell. A közigazgatási államtitkár a javaslattal szemben a közléstől számított tizenöt napon belül bírósághoz fordulhat. A kereset jogerős elbírálásáig a javaslat nem terjeszthető a miniszterelnök elé.
+
 217. § (1) A közigazgatási államtitkár e tisztségéről a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat. A nyilatkozatot a közigazgatási államtitkár a miniszterhez juttatja el, aki azt haladéktalanul továbbítja a miniszterelnöknek.
 
 (2) A közigazgatási államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a köztársasági elnökkel történő közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
@@ -3383,7 +3394,9 @@ munkanapra emelkedik.
 
 (6) A helyettes államtitkár részére a közigazgatási államtitkár és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztérium közigazgatási államtitkárának együttes javaslata alapján a miniszter célprémiumot állapíthat meg.
 
-225. § A hivatalvesztést a fegyelmi tanács javaslatára a miniszter mondja ki.
+225. § (1) A hivatalvesztést a fegyelmi tanács javaslatára a miniszter mondja ki.
+
+(2) A fegyelmi tanács hivatalvesztés büntetés kiszabására irányuló javaslatát – amely együtt jár a helyettes államtitkár állásából való felfüggesztéséve – a helyettes államtitkárral közölni kell. A helyettes államtitkár a javaslattal szemben a közléstől számított tizenöt napon belül bírósághoz fordulhat. A kereset jogerős elbírálásáig a javaslat nem terjeszthető a miniszter elé.
 
 ### VII/A. Fejezet — A POLGÁRMESTER, ALPOLGÁRMESTER FOGLALKOZTATÁSI JOGVISZONYÁRA VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
@@ -3432,7 +3445,7 @@ munkanapra emelkedik.
 
 (3) A vizsgálóbizottság a megbízását követő harminc napon belül köteles lefolytatni a vizsgálatot, ennek keretében meghallgatja a polgármestert. A vizsgálóbizottság a vizsgálat lezárását követő nyolc napon belül elkészíti a jelentését, és a vizsgálóbizottság elnöke soron kívül, a jelentés elkészítését követő tizenöt napon belüli időpontra – a jelentés egyidejű megküldésével – összehívja a képviselő-testület ülését. A képviselő-testület a jelentés alapján a vizsgálóbizottság elnöke által összehívott ülésen, de legkésőbb az azt követő nyolc napon belül érdemben dönt a polgármester fegyelmi ügyében. E napirend tárgyalásának levezetésére a képviselő-testület a tagjai sorából elnököt választ.
 
-(4) A polgármester tisztsége a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő határozat ellen a polgármester nyolc napon belül – a felfüggesztés megszüntetése iránt – eljárást kezdeményezhet a közigazgatási és munkaügyi bíróságnál. A bíróság nyolc napon belül nemperes eljárásban dönt a felfüggesztés fenntartásáról vagy megszüntetéséről. A bíróság határozata ellen külön fellebbezésnek nincs helye.
+(4) A polgármester tisztségéből a fegyelmi eljárás ideje alatt felfüggeszthető. A felfüggesztő döntést a polgármester annak közlésétől számított nyolc napon belül a közszolgálati jogvitára vonatkozó szabályok szerint megtámadhatja. A bíróság nyolc napon belül dönt, határozata ellen perorvoslatnak nincs helye.
 
 225/G. § (1) Szándékos károkozás esetén a polgármester a teljes kárt köteles megtéríteni.
 
@@ -3453,7 +3466,7 @@ munkanapra emelkedik.
 
 225/I. § (1) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá.
 
-(2) A 225/D. § (1) bekezdése szerinti juttatás összege akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén az új polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, és a munkaköri átadás megtörtént. Vita esetén az érintett a közigazgatási és munkaügyi bírósághoz fordulhat.
+(2) A 225/D. § (1) bekezdése szerinti juttatás összege akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén az új polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, és a munkaköri átadás megtörtént. Vita esetén az érintett a közigazgatási ügyben eljáró bírósághoz fordulhat.
 
 225/J. § (1) A képviselő-testület a polgármester foglalkoztatási jogviszonyával, fegyelmi és kártérítési felelősségének megállapításával kapcsolatos hatáskörét nem ruházhatja át.
 
@@ -3463,11 +3476,11 @@ munkanapra emelkedik.
 
 225/K. § (1) Ha e törvény eltérően nem rendelkezik, a polgármesteren az alpolgármestert, a megyei közgyűlés elnökét, alelnökét, a főpolgármestert, a főpolgármester-helyettest is érteni kell.
 
-(2) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a közigazgatási és munkaügyi bírósághoz fordulhat.
+(2) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a közigazgatási ügyben eljáró bírósághoz fordulhat.
 
 (3) A polgármester a munkáltatói intézkedésről szóló irat kézbesítésétől számított harminc napon belül, egyéb esetekben az igény érvényesítésére vonatkozó elévülési időn belül fordulhat a bírósághoz.
 
-(4) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
+(4)
 
 (5) A társadalmi megbízatású polgármester nem jogosult jubileumi jutalomra, napidíjra, valamint az egyéb juttatásokra.
 
@@ -3475,7 +3488,7 @@ munkanapra emelkedik.
 
 (7) A polgármester illetménye, tiszteletdíja és egyéb juttatása közérdekű adat.
 
-(8) Ha a fővárosi és megyei kormányhivatal a települési önkormányzatnál végzett közszolgálati ellenőrzés keretében a települési önkormányzat szervének határozatával okozott olyan jogszabálysértést tár fel, amelyből a polgármester közvetlen vagy közvetett anyagi előnyre tehet szert, és más bírósági vagy közigazgatási hatósági eljárás lefolytatásának nincs helye, a polgári perrendtartásról szóló törvény közigazgatási perekre irányadó rendelkezései alkalmazásával a jogszabálysértés megszüntetése érdekében a közigazgatási és munkaügyi bírósághoz fordul.
+(8) Ha a fővárosi és megyei kormányhivatal a települési önkormányzatnál végzett közszolgálati ellenőrzés keretében a települési önkormányzat szervének határozatával okozott olyan jogszabálysértést tár fel, amelyből a polgármester közvetlen vagy közvetett anyagi előnyre tehet szert, és más bírósági vagy közigazgatási hatósági eljárás lefolytatásának nincs helye, a jogszabálysértés megszüntetése érdekében a közigazgatási ügyben eljáró bírósághoz fordul.
 
 225/L. § (1) A polgármesteri foglalkoztatási jogviszonyra megfelelően alkalmazni kell a 3. § (4) bekezdését, a 6. § 1., 10., 11., 16., 17., 18., 20a., 23., 25., 26., 31a. pontját; a 9. § (1)–(3) bekezdését; a 10–12 §-t; a 13. § (2) bekezdését; a 15. §-t; a 17. §-t; a 19. §-t; a 20. § (3) és (4) bekezdését; a 21-24. §-t; a 25. § (1) bekezdés első mondatát, (3) és (4), valamint (6) bekezdését; a 74. §-át; a 75. § (1) bekezdés a)–b) és f)–h) és k) pontját, (3) és (4) bekezdését; a 76. § (1) bekezdését; a 79. §-t; a 89. § (1) bekezdését; a 93. § (1) és (2) bekezdését; a 94. § (1) bekezdését; a 95. § (1) és (2), valamint (4) bekezdését; a 96. § (1) bekezdését; a 99. §-t; a 100. § (2) bekezdését; a 104. § (2), (6) és (7) bekezdését, a 106. § (1) és (2) bekezdését, a 107. §-t, a 109–112. §-t; a 113. § (1) és (2) bekezdését; a 114. §-t; a 131. § (1) bekezdését; a 132. §-t; a 141. § (1)–(9) bekezdését; a 144. § (3) bekezdés a) és b), valamint a d) pontját és (4) bekezdését; a 145. §-t; a 146. § (1) és (3)–(7) bekezdését; a 147–149/A. §-t; a 150–153/A. §-t; a 156. §-t; a 157. § (1) és (2) bekezdését, a (3) bekezdés első mondatát és (4) bekezdését; a 158. §-t; a 159. § (1) bekezdését; a 160. § (1) és (2), valamint (4) és (5) bekezdését; a 164. §-t, a 166–175. §-t; a 176. § (1) bekezdését; a 177. § (1) bekezdését; a 184. § (2) és (3) bekezdését; a 189. §-t; a 192. §-t; a 232/A. §-t, valamint a 237. §-t.
 
@@ -3515,11 +3528,11 @@ nem alkalmazható(k).
 
 (3a) Az írásbeli jognyilatkozatok esetében a 20. § (1), (2), (6), (8) és (9) bekezdését kell, a 20. § (3)–(5), (7) és 21. § (4) bekezdését – a munkáltató döntésétől függően – lehet alkalmazni.
 
-(4) Az Országgyűlés Hivatala és az Országgyűlési Őrség szervezeti és működési szabályzata a 80. § (1)–(2) bekezdésben és a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
+(4) Az Országgyűlési Őrség szervezeti és működési szabályzata a 80. § (1)–(2) bekezdésben és a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
 
 (5) A 142. § azzal az eltéréssel alkalmazandó, hogy a közszolgálati jogviszonyban munkaköri pótlék nem állapítható meg.
 
-(6) Az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél a 142. § azzal az eltéréssel alkalmazandó, hogy az Országgyűlés Hivatalának vezetője és az Országgyűlési Őrség parancsnoka az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
+(6) Az Országgyűlési Őrségnél a 142. § azzal az eltéréssel alkalmazandó, hogy az Országgyűlési Őrség parancsnoka az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
 
 (7) A képviselő-testület hivatalánál foglalkoztatott köztisztviselő részére a 143. § (2) bekezdése szerinti bankszámla-hozzájárulás a helyi önkormányzat képviselő-testületének rendeletében meghatározott módon és mértékben nyújtható.
 
@@ -3527,7 +3540,7 @@ nem alkalmazható(k).
 
 227. § (1) A munkáltatói jogokat, ha törvény vagy kormányrendelet eltérően nem rendelkezik, a közigazgatási szerv hivatali szervezetének vezetője, illetve a képviselő-testület gyakorolja.
 
-(2) Az Országgyűlés Hivatalának vezetője, továbbá a szervezeti és működési szabályzatban meghatározott hivatali szervek vezetői felett a munkáltatói jogokat az Országgyűlés elnöke, az Országgyűlés Hivatalának további köztisztviselői feletti munkáltatói jogokat az Országgyűlés Hivatalának vezetője – a szervezeti és működési szabályzatban meghatározottak szerint – gyakorolja.
+(2)
 
 (3) Az Országgyűlési Őrség köztisztviselői, ügykezelői és munkavállalói felett – a 2012. évi XXXVI. törvény 132. § (1) bekezdés c) pontja alapján – a munkáltatói jogokat a parancsnok gyakorolja.
 
@@ -3569,7 +3582,7 @@ nem alkalmazható(k).
 
 232. § (1) A képviselő-testület a heti munkaidő figyelembevételével a napi munkaidő beosztását az általános munkarendtől [89. § (1) bekezdés] eltérően is megállapíthatja.
 
-(2) A rendkívüli munkaidőért járó szabadidőt az Országgyűlés Hivatalában száznyolcvan napon belül kell kiadni, ha ez nem lehetséges, meg kell váltani.
+(2)
 
 (3) A képviselő-testület, valamint a 2. §-ban felsorolt szervek vezetője – a Kormány ajánlásának figyelembevételével – a rendes szabadság kiadására igazgatási szünetet rendelhet el. Az ilyen módon kiadott rendes szabadság nem haladhatja meg a köztisztviselő adott évre megállapított alapszabadságának a háromötödét.
 
@@ -3603,7 +3616,7 @@ nem alkalmazható(k).
 
 234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, érettségi végzettségű köztisztviselő esetében az alapilletményének 15%-a.
 
-(2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.
+(2) A Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.
 
 (3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
 
@@ -3627,7 +3640,7 @@ nem alkalmazható(k).
 
 236. § (1) Az Állambiztonsági Szolgálatok Történeti Levéltára főigazgatója és főigazgató-helyettese főosztályvezetői illetményre jogosult azzal, hogy a főigazgató alapilletménye az illetményalap 11-szerese, a főigazgató-helyettesé 9,5-szerese, s egyéb juttatásaikat az Országgyűlés elnöke állapítja meg.
 
-(2) Az Alkotmánybíróság főtitkára, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek vezetői a közigazgatási államtitkárral, az Alkotmánybíróság Hivatalának, valamint az Országgyűlés szervezeti és működési szabályzatban meghatározott hivatali szerveinek helyettes vezetői a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
+(2) Az Alkotmánybíróság főtitkára a közigazgatási államtitkárral, az Alkotmánybíróság Hivatalának helyettes vezetője a helyettes államtitkárral azonos illetményben és juttatásban részesülnek.
 
 (3) A vezetői illetménypótlék mértéke a 234. § (1) és (2) bekezdésben meghatározott közigazgatási szervnél:
 
@@ -3678,7 +3691,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 (4) A jogviszony közös megegyezéssel történő megszüntetésére vonatkozó megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül lehet előterjeszteni. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el.
 
-(5) A keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet.
+(5)
 
 (6) A (3) bekezdés b)–f) pontjaiban foglalt esetekben a sérelmezett intézkedés a bíróság jogerős döntéséig nem hajtható végre.
 
@@ -3992,7 +4005,8 @@ vonatkozó részletes szabályokat;
   - b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, valamint e vizsgák alóli mentesítésre vonatkozó részletes szabályokat,
   - c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat;
 - 18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat;
-- 19. a közszolgálati tisztviselők tekintetében a garantált bérminimum összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – megállapítsa.
+- 19. a közszolgálati tisztviselők tekintetében a garantált bérminimum összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – megállapítsa;
+- 20. megállapítsa a nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát, ellátásának feltételrendszerét, a nemzetközi közigazgatási szakértői tevékenység engedélyezésére és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat.
 
 (2) Az államigazgatási szerv a kormánytisztviselő önkéntes kiegészítő nyugdíjpénztári tagságához egyéb juttatásként támogatást nyújthat. A központi költségvetés támogatásának részletes szabályait a Kormány határozza meg.
 

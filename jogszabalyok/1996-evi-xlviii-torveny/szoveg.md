@@ -145,18 +145,18 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 - c) a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll,
 - d) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
-(4) A 2. § (5) bekezdés alapján a közraktári engedély csak akkor adható meg, ha a közraktár részére a tulajdonjogot az ingatlan-nyilvántartásba jogerősen bejegyezték.
+(4) A 2. § (5) bekezdés alapján a közraktári engedély csak akkor adható meg, ha a közraktár részére a tulajdonjogot az ingatlan-nyilvántartásba végleges határozattal bejegyezték.
 
-(5) Ha a kérelmező a (3) bekezdés b)–d) pontjában meghatározott adatokat nem igazolja, a felügyelet a közraktári engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (3) bekezdés b)–d) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A felügyelet a (2) bekezdés g) pontja szerinti esetben, ha a közraktárban tulajdoni részesedéssel rendelkező személy a cégjegyzékben nyilvántartott cég, a cég cégkivonatát, valamint a (3) bekezdés a) pontja alapján a részvénytársaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(5) A felügyelet a közraktári engedély iránti kérelem elbírálása céljából adatot igényel a (3) bekezdés b)–d) pontjában meghatározott adatokról nyilvántartást vezető hatóságtól vagy bíróságtól. A felügyelet a (2) bekezdés g) pontja szerinti esetben, ha a közraktárban tulajdoni részesedéssel rendelkező személy a cégjegyzékben nyilvántartott cég, a cég cégkivonatát, valamint a (3) bekezdés a) pontja alapján a részvénytársaság cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(6) A részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg az igazgatóság tagja hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a (3a) bekezdésben meghatározott kizáró feltétel, vagy kéri, hogy az erre vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a (7) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(6) A felügyelet a részvénytársasági formában működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából az igazgatóság tagja vonatkozásában adatot igényel a bűnügyi nyilvántartási rendszerből a (3a) bekezdésben meghatározott kizáró feltételekről.
 
 (7) A felügyelet a részvénytársasági formában működő közraktári tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az igazgatóság tagjával szemben nem áll fenn a (3a) bekezdésben meghatározott kizáró feltétel. A hatósági ellenőrzés céljából a felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy az igazgatóság tagjával szemben nem áll-e fenn a (3a) bekezdésben meghatározott kizáró feltétel.
 
 (8) A (6) és (7) bekezdés alapján megismert személyes adatokat a felügyelet
 
-- a) a részvénytársasági formában működő közraktári tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a részvénytársasági formában működő közraktári tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) a részvénytársasági formában működő közraktári tevékenység engedélyezése iránti eljárás végleges befejezéséig,
+- b) a részvénytársasági formában működő közraktári tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig kezeli.
 
 5/A. § A fióktelep közraktározási tevékenységét a felügyelet akkor engedélyezi, ha csatolja az 5/B. § szerinti okiratokat, továbbá ha
 
@@ -199,16 +199,16 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 - c) a gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll,
 - d) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
-(3) Ha a kérelmező a (2)–(2a) bekezdésben meghatározott adatokat nem igazolja, a felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (2)–(2a) bekezdésben meghatározott adatokról nyilvántartást vezető hatósághoz vagy bírósághoz. A (2) bekezdés a) és b) pont igazolása érdekében a felügyelet a külföldi vállalkozás fióktelepének cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(3) A felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából adatot igényel a (2) és (2a) bekezdésben meghatározott adatokról nyilvántartást vezető hatóságtól vagy bíróságtól. A (2) bekezdés a) és b) pontjában meghatározott feltételek igazolása érdekében a felügyelet a külföldi vállalkozás fióktelepének cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(4) A fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem benyújtásával egyidejűleg a fióktelep vezetője hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a (2a) bekezdésben meghatározott kizáró feltétel, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet az (5) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(4) A felügyelet a fióktelepként működő közraktári tevékenység gyakorlásához szükséges engedély iránti kérelem elbírálása céljából a fióktelep vezetője vonatkozásában adatot igényel a bűnügyi nyilvántartási rendszerből a (2a) bekezdésben meghatározott kizáró feltételekről.
 
 (5) A felügyelet a fióktelepként működő közraktári tevékenység folytatásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy az igazgatóság tagjával szemben nem áll fenn a (2a) bekezdésben meghatározott kizáró feltétel. A hatósági ellenőrzés céljából a felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy az igazgatóság tagjával szemben nem áll-e fenn a (2a) bekezdésben meghatározott kizáró feltétel.
 
 (6) A (4) és (5) bekezdés alapján megismert személyes adatokat a felügyelet
 
-- a) a fióktelepként működő közraktári tevékenység engedélyezése iránti eljárás jogerős befejezéséig,
-- b) a fióktelepként működő közraktári tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára, vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) a fióktelepként működő közraktári tevékenység engedélyezése iránti eljárás végleges befejezéséig,
+- b) a fióktelepként működő közraktári tevékenység engedélyezése esetén a hatósági ellenőrzés időtartamára, vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig kezeli.
 
 5/C. § (1) A közraktár alaptőkéjének, dotációs tőkéjének megváltoztatása iránt kérelmet kell benyújtani a felügyelethez, melyet az akkor engedélyez, ha az nem veszélyezteti a közraktár e törvényben meghatározott biztonságos működését.
 
@@ -221,7 +221,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 6. § (1) A közraktári tevékenység folytatására, illetve megszüntetésére vonatkozó engedély iránti kérelmet két példányban kell benyújtani.
 
-(2) Az 5. § (2) és (3) bekezdésében, az 5/A. §-ban, az 5/B. § (1) és (2) bekezdésében, az 5/C. § (2) bekezdésében, a 7. § (3) bekezdésében, a 8. § (3) és (4) bekezdésében, valamint a 13. § (1) bekezdésében foglalt engedélyezési kérelemhez és bejelentési kötelezettség teljesítéséhez szükséges mellékletek, igazolások és nyilatkozatok – a 2. § (4)–(5) bekezdésekben megjelölt feltételek megléte, a büntetlenség igazolása, a köztartozásokra vonatkozó igazolások, szakképesítés igazolása, valamint a közraktári jegy tervezet egy-egy példányának kivételével – másolatban is becsatolhatóak. Ha a mellékletek között idegen nyelvű okirat van, mellékelni kell annak a magyar nyelvű fordítását is.
+(2) Az 5. § (3) bekezdés a) pontjában, az 5/A. §-ban, az 5/B. § (1) és (2) bekezdésében, az 5/C. § (2) bekezdésében, a 7. § (3) bekezdésében, a 8. § (3) bekezdésében, valamint a 13. § (1) bekezdésében foglalt engedélyezési kérelemhez és bejelentési kötelezettség teljesítéséhez szükséges mellékletek, igazolások és nyilatkozatok – a 2. § (4)–(5) bekezdésekben megjelölt feltételek megléte, szakképesítés igazolása, valamint a közraktári jegy tervezet egy-egy példányának kivételével – másolatban is becsatolhatóak. Ha a mellékletek között idegen nyelvű okirat van, mellékelni kell annak a magyar nyelvű fordítását is.
 
 (3) Ha az ügyfél a kérelmét hiányosan nyújtotta be, a felügyelet a kérelem beérkezésétől számított harminc napon belül – megfelelő határidő megjelölésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – hiánypótlásra hívja fel.
 
@@ -233,7 +233,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 - a) az általa kiadott tevékenységi engedéllyel rendelkezők jegyzékét (közraktár neve, székhelye, telefon- és faxszáma, e-mail címe, engedély száma, engedély kiadásának időpontja), a tevékenység felfüggesztésének és az engedély visszavonásának tényét és időpontját, valamint a kirendelt felügyeleti biztos nevét, kirendelésének időpontját,
 - b) azon külföldi felügyeleti hatóságok jegyzékét, amelyekkel kölcsönös elismerésen alapuló együttműködési megállapodást kötött,
-- c) az ellenőrzése eredményeként hozott jogerős és előzetesen végrehajtható határozatát,
+- c) az ellenőrzése eredményeként hozott végleges és előzetesen végrehajtható határozatát,
 - d) a döntése ellen indított jogorvoslati eljárás tényét, és a jogorvoslati eljárás eredményét.
 
 (6a) A (6) bekezdés a) pontja szerinti, a tevékenységi engedéllyel rendelkezőkről szóló jegyzék – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
@@ -258,13 +258,13 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 (3) A vezetőjelöltet – a megbízatására irányuló jogviszony létesítését megelőző harminc nappal – a felügyeletnek be kell jelenteni. A bejelentéssel egyidejűleg a vezetőjelölt részletes szakmai önéletrajzát, valamint az (1) bekezdésben felsoroltak hitelt érdemlő igazolását is be kell nyújtani. Az állami adóhatóságtól beszerezhető adóigazolással egyenértékű, ha az adózó szerepel a köztartozásmentes adózói adatbázisban. A vezetőjelölttel munkaviszonyt vagy munkavégzésre irányuló egyéb jogviszonyt létesíteni csak a felügyelet jóváhagyását követően lehet.
 
-(4) A vezetőjelölt hatósági bizonyítvánnyal igazolja azt a tényt, hogy megfelel a (2) bekezdésben meghatározott feltételeknek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – a munkaviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítéséhez szükséges jóváhagyás iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a jelöltre vonatkozó (5) bekezdésében meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+(4) A felügyelet a munkaviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítéséhez szükséges jóváhagyás iránti kérelem elbírálása céljából a vezetőjelölt vonatkozásában adatot igényel a bűnügyi nyilvántartási rendszerből a (2) bekezdésben meghatározott kizáró feltételekről.
 
 (5) A felügyelet a közraktár vezetője vagy a közraktári tevékenység irányításával megbízott vezető állású munkavállalója munkaviszonyának vagy munkavégzésre irányuló egyéb jogviszonyának fennállása alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a közraktár vezetője vagy a közraktári tevékenység irányításával megbízott vezető állású munkavállalója megfelel-e a (2) bekezdésben meghatározott feltételeknek. A hatósági ellenőrzés céljából a felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a közraktár vezetője vagy a közraktári tevékenység irányításával megbízott vezető állású munkavállalója megfelel-e a (2) bekezdésben meghatározott feltételeknek.
 
 (6) A (4) és (5) bekezdés alapján megismert személyes adatokat a felügyelet
 
-- a) a munkaviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítésének jóváhagyása iránti eljárás jogerős befejezéséig,
+- a) a munkaviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítésének jóváhagyása iránti eljárás végleges befejezéséig,
 - b) a munkaviszony vagy a munkavégzésre irányuló egyéb jogviszony létesítésének jóváhagyása esetén a munkaviszony vagy a munkavégzésre irányuló egyéb jogviszony megszűnéséig kezeli.
 
 8. § (1) Közraktárban minősített befolyás megszerzésére irányuló, illetve azt eredményező vagy ahhoz kapcsolódó, jelentős előnyt biztosító megállapodáshoz a felügyelet előzetes engedélye szükséges.
@@ -282,9 +282,9 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 (4) A természetes személy kérelmező a minősített befolyás szerzéséhez előzetes engedélyt akkor kaphat, ha
 
 - a) büntetlen előéletű és
-- b) jogerősen megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
+- b) végleges határozattal megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
 
-(5) Ha a kérelmező a (4) bekezdés b) pontjában meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul a (4) bekezdés b) pontjában meghatározott adatokról nyilvántartást vezető hatósághoz.
+(5) A felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálása céljából adatot igényel a (4) bekezdés b) pontjában meghatározott adatokról nyilvántartást vezető hatóságtól.
 
 (6) Ha a közraktárban gazdasági társaság szerez az (1) bekezdés szerint minősített befolyást, az előzetes engedély iránti kérelemhez mellékelni kell:
 
@@ -295,21 +295,21 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 (7) Ha a kérelmező gazdasági társaság, a közraktárban történő minősített befolyás szerzéséhez szükséges előzetes engedélyt akkor kaphat, ha
 
 - a) nyilatkozatban igazolja cégjegyzékszámát, adószámát és
-- b) jogerősen megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
+- b) végleges határozattal megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
 
-(8) A felügyelet a kérelmező cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. Ha a kérelmező a (7) bekezdés b) pontjában meghatározott adatokat nem igazolja, a felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető hatósághoz.
+(8) A felügyelet a kérelmező cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. A minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálása céljából a felügyelet adatot igényel az adatokról nyilvántartást vezető hatóságtól.
 
 (9) A felügyelet a minősített befolyás megszerzését eredményező megállapodáshoz szükséges előzetes engedély iránti kérelmet a beérkezését követő naptól számított tizenöt napon belül elbírálja. A felügyelet a kérelmet elutasíthatja, ha a befolyást megszerezni kívánó fél tevékenysége vagy a közraktárra gyakorolt befolyása a biztonságos működést, illetve a kötelezettségek teljesítését veszélyeztetné. A minősített befolyásra, valamint a közvetett tulajdonra vonatkozóan a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény fogalmai irányadóak.
 
 8/A. § A felügyelet a 8. § (3) bekezdésének a) pontjában meghatározott személyes adatot a minősített befolyás megszerzésére irányuló, illetve azt eredményező vagy ahhoz kapcsolódó, jelentős előnyt biztosító megállapodás előzetes engedélyezése céljából a kérelem elbírálásáig kezeli, azt követően törli.
 
-8/B. § (1) A természetes személy minősített befolyása megszerzéséhez szükséges engedély iránti kérelem benyújtásával egyidejűleg a kérelmező hatósági bizonyítvánnyal igazolhatja azt a tényt, hogy megfelel a 8. § (4) bekezdés a) pontjában meghatározott feltételnek, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a felügyelet részére – annak a természetes személy minősített befolyása megszerzéséhez szükséges engedély iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a felügyelet a (2) bekezdésben meghatározott adatokat igényelheti a bűnügyi nyilvántartó szervtől.
+8/B. § (1) A felügyelet a természetes személy minősített befolyása megszerzéséhez szükséges engedély iránti kérelem elbírálása céljából adatot igényel a bűnügyi nyilvántartási rendszerből a 8. § (4) bekezdés a) pontjában meghatározott kizáró feltételről.
 
 (2) A felügyelet a hatósági ellenőrzés keretében ellenőrzi azt is, hogy a közraktárban minősített befolyással rendelkező természetes személy megfelel-e a 8. § (4) bekezdés a) pontjában meghatározott feltételnek. A hatósági ellenőrzés céljából a felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag arra irányulhat, hogy a közraktárban minősített befolyással rendelkező természetes személy megfelel-e a 8. § (4) bekezdés a) pontjában meghatározott feltételnek.
 
 (3) Az (1) és (2) bekezdés alapján megismert személyes adatokat a felügyelet
 
-- a) a természetes személy minősített befolyása megszerzésének engedélyezése iránti eljárás jogerős befejezéséig,
+- a) a természetes személy minősített befolyása megszerzésének engedélyezése iránti eljárás végleges befejezéséig,
 - b) a természetes személy minősített befolyása megszerzésének engedélyezése esetén a természetes személy minősített befolyásának megszűnéséig kezeli.
 
 ### II. Fejezet — A közraktárak állami felügyelete
@@ -338,21 +338,11 @@ a felügyelet rendelkezésére bocsátani.
 
 (7)
 
-9/A. § (1)–(2)
+9/A. § (1) A felügyelet ellenőrzési tevékenysége tekintetében az ügyintézési határidő három hónap.
 
-(3)
+(2) E törvény hatálya alá tartozó ügyekben a kérelem kormányablaknál nem terjeszthető elő.
 
-(4) A felügyelet hivatalból indított eljárása az ügyfél kérelmére nem függeszthető fel.
-
-(5) A felügyelet ellenőrzési tevékenysége tekintetében az ügyintézési határidő három hónap.
-
-(6) A törvény hatálya alá tartozó ügyekben természetes személy ügyfél kérelmet kizárólag a felügyelethez terjeszthet be.
-
-(7) A felügyelet előtt hivatalból folytatott eljárásban a felügyelet erre irányuló felhívására az ügyfél köteles közölni az érdemi döntéshez szükséges adatokat. Az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetén a felügyelet a rendelkezésére álló adatok alapján dönt, illetve az eljárást megszüntetheti.
-
-(8) A felügyelet döntését a felügyeleti szerv nem változtathatja meg, valamint nem semmisítheti meg.
-
-(9) A felügyelet döntései ellen fellebbezésnek nincs helye.
+(3) A felügyelet előtt hivatalból folytatott eljárásban a felügyelet erre irányuló felhívására az ügyfél köteles közölni az érdemi döntéshez szükséges adatokat. Az adatszolgáltatási kötelezettség elmulasztása vagy valótlan adatok közlése esetén a felügyelet a rendelkezésére álló adatok alapján dönt vagy az eljárást megszünteti.
 
 9/B. § Ha a felügyelet a hatósági ellenőrzés során megállapítja, hogy
 
@@ -389,7 +379,7 @@ a felügyelet rendelkezésére bocsátani.
 
 (2) A felügyelet visszavonja a közraktári engedélyt, ha a külföldi vállalkozás a fióktelepét megszüntette.
 
-11. § (1) Ha tevékenységét felfüggesztik, vagy engedélyét visszavonják, a közraktár – a határozatban megjelölt időponttól kezdődően – újabb közraktári szerződést akkor sem köthet, ha a határozatot bíróság előtt megtámadta. Felfüggesztés és az engedély visszavonása esetén a korábban kötött közraktári szerződésekből eredő kötelezettségeket teljesíteni kell.
+11. § (1) Ha tevékenységét felfüggesztik, vagy engedélyét visszavonják, a közraktár – a határozatban megjelölt időponttól kezdődően – újabb közraktári szerződést akkor sem köthet, ha a határozatot bíróság előtt megtámadta. A perben azonnali jogvédelem biztosításának nincs helye. Felfüggesztés és az engedély visszavonása esetén a korábban kötött közraktári szerződésekből eredő kötelezettségeket teljesíteni kell.
 
 (2) A közraktári tevékenység felfüggesztése vagy az engedély visszavonása esetén a határozatban megjelölt időponttól kezdődően a közraktárhoz felügyeleti biztost kell kirendelni. A kirendeléstől kezdődően a közraktár közraktári tevékenységgel, kölcsönügylettel kapcsolatos, valamint a közraktározási biztosítékból történő kifizetésre vonatkozó jognyilatkozatot csak a felügyeleti biztos ellenjegyzésével tehet. Ha a felügyelet álláspontja szerint fennáll a veszélye annak, hogy a közraktár e törvény szerinti kötelezettségének nem tud eleget tenni, a felügyelet a közraktár vagyonával kapcsolatos intézkedések érvényességét a felügyeleti biztos ellenjegyzéséhez kötheti. A felügyeleti biztos részére a felügyelet a közraktárhoz való kirendelésével összefüggésben más feladatot is megállapíthat.
 
@@ -403,7 +393,7 @@ a felügyelet rendelkezésére bocsátani.
 
 (7) Ha a felügyeleti biztost a közraktár képviseletében eljáró személy akadályozza az e törvényben és a felügyelet által esetileg meghatározott tevékenységének gyakorlásában, akkor közjegyző, illetőleg rendőrség közreműködését veheti igénybe.
 
-(8) A felügyeleti biztos a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint helyszíni szemlét végezhet.
+(8) A felügyeleti biztos az általános közigazgatási rendtartásról szóló törvény szerint helyszíni szemlét végezhet.
 
 12. § (1) Ha a közraktár a közraktározásból eredő kötelezettségeinek eleget tett, vagy a felügyeleti biztos további munkájára nincs szükség, a felügyelet a felügyeleti biztost visszarendeli, egyben kötelezi a közraktárat a felügyeleti biztos javadalmazásának és a kirendeléssel kapcsolatos egyéb költségek megtérítésére.
 
@@ -447,7 +437,7 @@ a felügyelet rendelkezésére bocsátani.
 - b) a zálogkölcsönnyújtási szabályzat módosításának szándékát;
 - c) az alkalmazni kívánt közraktári jegyek, letéti könyv megváltoztatásának szándékát.
 
-(2) A felügyelet az engedélyezés iránti kérelemről a beérkezését követő naptól számított harminc napon belül, az (1) bekezdés b) pontja esetén az MNB-nek a zálogkölcsön-nyújtási szabályzat módosításának jogszerűsége tekintetében kiadott szakhatósági állásfoglalása figyelembevételével, határozatban dönt.
+(2) A felügyelet az engedélyezés iránti kérelemről harminc napon belül dönt.
 
 (3) A közraktár köteles az alábbiakat haladéktalanul írásban bejelenteni a felügyeletnek:
 
@@ -599,9 +589,19 @@ származik, a közraktár a kár összegének megtérítését a letevőtől kö
 
 (2) A közraktár a bűncselekményből származó árut a büntetőeljárással összefüggésben hozott jogerős határozat alapján köteles kiadni a határozatban megjelölt jogosítottnak. A közraktár ebben az esetben a közraktári jegy birtokosának nem tartozik kártérítési felelősséggel.
 
-### A közraktári tevékenységből eredő perek
+### A közraktári tevékenységgel kapcsolatos és a közraktári jegyre alapított perek
 
-23/A. § A közraktári tevékenységből eredő perekben, valamint a közraktárban letett árura vonatkozó birtokperekben a polgári perrendtartás váltóperekre vonatkozó eljárási szabályait kell alkalmazni. [Pp. 125. § (2) és (4) bekezdése; 217. § (4) bekezdése; 234. § (1) bekezdése]
+23/A. § (1) A közraktári tevékenységből eredő perekben, a közraktárban letett árura vonatkozó birtokperekben és a közraktári jegyre alapított perekben a polgári perrendtartásról szóló törvény rendelkezéseit a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) Az (1) bekezdésben meghatározott perekben a keresetet más keresettel összekapcsolni nem lehet.
+
+(3) A perben az írásbeli ellenkérelem és beszámítást tartalmazó irat előterjesztésére vonatkozó határidő tizenöt nap, amelyet a bíróság kivételesen legfeljebb tizenöt nappal meghosszabbíthat. Viszontkereset előterjesztésének nincs helye.
+
+(4) A perfelvétel során további írásbeli perfelvétel elrendelésének nincs helye. A tárgyalási időköz nyolc nap, a tárgyalás kitűzésére vonatkozó határidő két hónap.
+
+(5) A perben a bíróság soron kívül jár el.
+
+(6) A bíróság határozatában a teljesítési határidőt három napban köteles megállapítani. A fellebbezés határideje a határozat közlésétől számított három nap.
 
 ### IV. Fejezet — A közraktári jegy
 
@@ -935,6 +935,8 @@ származik, a közraktár a kár összegének megtérítését a letevőtől kö
 (4) A Módtv.-vel megállapított 20. § (1) bekezdés szerinti, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti mechanikai vagyonvédelmi rendszerrel való folyamatos őrzést a Módtv. hatálybalépésekor működő közraktárnak legkésőbb a Módtv. hatálybalépését követő 90 napon belül kell biztosítania.
 
 (5) A Módtv.-vel megállapított 20. § (2a) bekezdését, valamint 22. § (1), (1a), valamint (1b) bekezdését csak a Módtv. hatálybalépését követően megkötött közraktári szerződésekre vonatkozóan kell alkalmazni.
+
+(6) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 45/A. § Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.
 

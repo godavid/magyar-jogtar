@@ -44,6 +44,8 @@ a bíróságok elnevezéséről, székhelyéről és illetékességi területén
 
 8. § A Székesfehérvári Törvényszék, valamint a Székesfehérvári Törvényszék illetékességi területéhez tartozó járásbíróságok határozata ellen a 2016. december 31-ét követően előterjesztett jogorvoslatot a Győri Ítélőtábla bírálja el.
 
+9. § A közigazgatási és munkaügyi regionális kollégiumok az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel megállapított 4. mellékletben meghatározott illetékességgel 2018. január 1. napjától kezdődően működnek.
+
 ### 1. melléklet a 2010. évi CLXXXIV. törvényhez
 
 A törvényszékek, a járásbíróságok, valamint a közigazgatási és munkaügyi bíróságok illetékességi területe
@@ -1794,36 +1796,40 @@ A törvényszékek, a járásbíróságok, valamint a közigazgatási és munka�
 
 - 1. ÉSZAK-MAGYARORSZÁGI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
-| Borsod-Abaúj-Zemplén megye | Heves megye | Nógrád megye |
+| Borsod-Abaúj-Zemplén megye | Heves megye |  |
 | --- | --- | --- |
-| Szabolcs-Szatmár-Bereg megye |  |  |
 
-- 2. ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+- 2. ÉSZAK-ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
-| Békés megye | Csongrád megye | Hajdú-Bihar megye |
+| Hajdú-Bihar megye | Jász-Nagykun-Szolnok megye | Szabolcs-Szatmár-Bereg megye |
 | --- | --- | --- |
-| Jász-Nagykun-Szolnok megye |  |  |
 
-- 3. KÖZÉP-MAGYARORSZÁGI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+- 3. DÉL-ALFÖLDI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
-| Bács-Kiskun megye | Pest megye |  |
+| Bács-Kiskun megye | Békés megye | Csongrád megye |
 | --- | --- | --- |
-|  |  |  |
 
-- 4. ÉSZAK-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+- 4. KÖZÉP-DUNA-VÖLGYI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+| Nógrád megye | Pest megye |
+| --- | --- |
+
+- 5. ÉSZAK-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
 | Győr-Moson-Sopron megye | Komárom-Esztergom megye | Vas megye |
 | --- | --- | --- |
-| Veszprém megye | Zala megye |  |
 
-- 5. DÉL-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+- 6. DÉL-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
-| Baranya megye | Fejér megye | Somogy megye |
+| Baranya megye | Somogy megye | Tolna megye |
 | --- | --- | --- |
-| Tolna megye |  |  |
 
-- 6. FŐVÁROSI TÖRVÉNYSZÉKI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+- 7. KÖZÉP-DUNÁNTÚLI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
 
-| Budapest főváros |  |  |
+| Fejér megye | Veszprém megye | Zala megye |
 | --- | --- | --- |
-|  |  |  |
+
+- 8. FŐVÁROSI TÖRVÉNYSZÉKI KÖZIGAZGATÁSI ÉS MUNKAÜGYI REGIONÁLIS KOLLÉGIUM
+
+| Budapest főváros |
+| --- |

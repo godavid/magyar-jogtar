@@ -88,7 +88,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 - a) a friss levegő befúvását, illetve az elhasznált levegő elszívását biztosító mechanikus szellőztető berendezés működik, és
 - b) a dohányzóhelyek kijelölése, valamint a helyiség légöblítése olyan módon került kialakításra, hogy a dohányfüst a keletkezése helyétől közvetlenül az elszívócsatornába áramlik anélkül, hogy a nemdohányzó helyek az áramlás irányába esnének.
 
-(9) Az (5) bekezdés d) és e) pontja szerinti esetekben zárt légterű dohányzóhely az egészségügyi államigazgatási szerv előzetes engedélyével jelölhető ki. Az egészségügyi államigazgatási szerv a kérelemre induló, helyszíni szemlét is magában foglaló hatósági eljárás keretében a dohányzóhely kijelölését abban az esetben engedélyezi, ha az megfelel az (5) bekezdés d) és e) pontjában, valamint a (7) és (8) bekezdésben fogalt követelményeknek. Az egészségügyi államigazgatási szervnek a dohányzóhely kijelölésének engedélyezésére irányuló eljárásáért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+(9) Az (5) bekezdés d) és e) pontja szerinti esetekben zárt légterű dohányzóhely az egészségügyi államigazgatási szerv előzetes engedélyével jelölhető ki. Az egészségügyi államigazgatási szerv a dohányzóhely kijelölését abban az esetben engedélyezi, ha az megfelel az (5) bekezdés d) és e) pontjában, valamint a (7) és (8) bekezdésben fogalt követelményeknek. Az egészségügyi államigazgatási szervnek a dohányzóhely kijelölésének engedélyezésére irányuló eljárásáért az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
 2/A. § (1) A helyi önkormányzat rendeletben a 2. § (1) bekezdés d) pontjában foglaltakon túl közterületet nemdohányzó közterületnek nyilváníthat. Az önkormányzat rendeletében a dohányzási korlátozás hatókörét olyan módon kell részletesen szabályozni, hogy az e törvényben foglalt, dohányzóhely-kijelölési kötelezettségüknek a kötelezettek eleget tehessenek. A nemdohányzó közterület kijelölésére a 2. § (7) bekezdésében foglaltakat kell alkalmazni.
 
@@ -96,7 +96,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 (3) A (2) bekezdés szerinti helyszíni bírság az önkormányzat bevétele.
 
-(4) A dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy által történő megszegéséért a (2) bekezdés szerinti helyszíni bírság és a 7. § szerinti egészségvédelmi bírság együttesen nem szabható ki. Ha a dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy általi megszegése miatt a közterület-felügyelet és az egészségügyi államigazgatási szerv is eljárást indított, az eljárást a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 21. § (6) bekezdése szerint hatáskörrel rendelkező hatóság folytatja le.
+(4) A dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy által történő megszegéséért a (2) bekezdés szerinti helyszíni bírság és a 7. § szerinti egészségvédelmi bírság együttesen nem szabható ki. Ha a dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy általi megszegése miatt a közterület-felügyelet és az egészségügyi államigazgatási szerv is eljárást indított, az eljárást az a hatóság folytatja le, amelynél az eljárás előbb indult meg.
 
 3. § (1) A közforgalmú intézmény feladatkörében eljáró, valamint a közösségi közlekedési eszköz működtetésében hivatásszerűen közreműködő személy (a továbbiakban együtt: rendelkezésre jogosult) a dohányzásra, elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatára vonatkozó korlátozást megsértőt a jogsértés haladéktalan befejezésére köteles felhívni. A felhívás eredménytelensége esetén a rendelkezésre jogosult az érintett személyt felszólítja, hogy a közforgalmú intézményt, illetve a közösségi közlekedési eszközt hagyja el, illetőleg kezdeményezi a 7. § (1)–(2), illetve (13) bekezdései szerinti eljárás lefolytatását.
 
@@ -179,7 +179,7 @@ hozható meg.
 
 (8)
 
-(9) A jogerős határozattal megállapított egészségvédelmi bírságot, valamint a dohánytermékek forgalmazásával összefüggő, e törvényben foglalt tilalmat, korlátozást megszegővel szemben jogerősen alkalmazott fogyasztóvédelmi bírságot, valamint a helyszíni bírságot az egészségügyi államigazgatási szerv számlájára kell befizetni.
+(9) A végleges határozattal megállapított egészségvédelmi bírságot, valamint a dohánytermékek forgalmazásával összefüggő, e törvényben foglalt tilalmat, korlátozást megszegővel szemben végleges határozattal kiszabott fogyasztóvédelmi bírságot, valamint a helyszíni bírságot az egészségügyi államigazgatási szerv számlájára kell befizetni.
 
 (10)
 
@@ -199,7 +199,7 @@ hozható meg.
 
 (3) A bíróság az ítéletben feljogosíthatja az igény érvényesítőjét, hogy a jogsértő költségére az ítéletet országos napilapban közzétegye.
 
-(4) Az egészségvédelmi érdekek képviseletét ellátó civil szervezet az ügyfél jogai illetik meg
+(4) Az egészségvédelmi érdekek képviseletét ellátó civil szervezetek a jogszabály erejénél fogva ügyfélnek minősülnek
 
 - a) az egészségügyi államigazgatási szervnek a 2–4/A. §-ban, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 38. §-ában foglalt rendelkezések megsértése miatt,
 - b) a fogyasztóvédelmi hatóságnak az 5. és 6. és 6/A. §-ban foglalt rendelkezések megsértése miatt indult eljárásában.
@@ -265,7 +265,7 @@ hozható meg.
 
 7/L. § (1) A Bizottság a Kormány rendeletében meghatározott tudományos és egészségügyi szempontok alapján vizsgálja, hogy a kérelmező által bemutatott új dohánytermék-kategóriákba tartozó dohánytermék a cigarettához képest a legtöbb tulajdonságát tekintve jelentősen eltérő hatású-e az emberi egészségre.
 
-(2) A Bizottság a véleményét a megkeresésétől számított 90 napon belül hozza meg, mely határidő egy alkalommal 90 nappal meghosszabbítható.
+(2) A Bizottság a véleményét a megkeresésétől számított 110 napon belül hozza meg.
 
 ### Záró rendelkezések
 
@@ -318,10 +318,7 @@ részletes szabályokat rendeletben határozza meg.
 
 8/A. § (1)
 
-(2) Az egészségügyi államigazgatási szerv (1) bekezdés szerinti eljárására a Ket. 94. § (1) bekezdés a) pontjában foglaltak az irányadóak, azzal, hogy
-
-- a) a jogsértőt legalább húsz napos, de legkorábban 2012. április 1-jei határidővel kell a jogszabálysértés megszüntetésére kötelezni, és
-- b) a (2) bekezdésben foglalt időszak alatt e törvénybe ütköző cselekményekkel összefüggésben a Ket. 94. § (2) bekezdés d) pontja nem alkalmazható.
+(2)
 
 8/B. §
 
@@ -340,5 +337,7 @@ részletes szabályokat rendeletben határozza meg.
 (3) A 2016. május 19-én már forgalomban lévő elektronikus cigaretta esetében az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvénnyel megállapított 7/D. § (1) bekezdése szerinti bejelentést 2016. december 20-áig kell megtenni.
 
 (4) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2016. évi CLXXII. törvénnyel megállapított, 6/C. §, 7/D. § (4) bekezdése és a 7/J. § (4) bekezdése szerinti, az adalékanyagok, az elektronikus cigaretták, utántöltő flakonok, dohányzást imitáló elektronikus eszközök, valamint új dohánytermék-kategóriára vonatkozó bejelentések fenntartásáért évente fizetendő igazgatási szolgáltatási díjat első ízben a termék bejelentését követő év március 31-éig kell megfizetni.
+
+(5) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Melléklet az 1999. évi XLII. törvényhez

@@ -12,7 +12,7 @@ Az Országgyűlés az egyszerűsített adómegállapítási és beszedési szab�
 
 (2) Az evából származó bevétel a központi költségvetést illeti meg.
 
-(3) Az adózó az evával összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény rendelkezései szerint teljesíti.
+(3) Az adózó az evával összefüggő adókötelezettségeit e törvény, valamint az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései szerint teljesíti.
 
 (4) Az evával összefüggő hatósági ügyben az eljárás az állami adóhatóság hatáskörébe tartozik.
 
@@ -41,7 +41,7 @@ Az Országgyűlés az egyszerűsített adómegállapítási és beszedési szab�
 (3) A (2) bekezdésben meghatározott személy az adóévben akkor lehet adóalany, ha az adóévet megelőző naptári évben és az azt megelőző adóévben
 
 - a) a magánszemély egyéni vállalkozóként tevékenységét folyamatosan végezte, a jogi személy és az egyéni cég nem alakult át (ideértve különösen a kiválást és a beolvadást is), valamint a jogi személyben, egyéni cégben (az öröklést kivéve) új tag nem szerzett (új tagok nem szereztek összesen) 50 százalékot meghaladó szavazati jogot biztosító részesedést;
-- b) az adóhatóság nem rendelte el jogerősen számla- vagy nyugtaadási kötelezettség ismételt elmulasztása miatt mulasztási bírság kiszabását;
+- b) állami adó- és vámhatóság nem rendelte el véglegesen számla- vagy nyugtaadási kötelezettség ismételt elmulasztása miatt mulasztási bírság kiszabását;
 - c) az általános forgalmi adóról szóló törvény szerint nem volt kötelezett a használt ingóságokra, műalkotásokra, gyűjteménydarabokra és régiségekre vonatkozó vagy az utazásszervezési szolgáltatásra vonatkozó különös adózási szabályok alkalmazására;
 - d) nem állt végelszámolás, bíróság által jogerősen elrendelt felszámolás hatálya alatt;
 - e) a magánszemély az általa végzett termékértékesítés vagy szolgáltatásnyújtás alapján vállalkozói bevételt, a jogi személy és az egyéni cég a számvitelről szóló törvény előírásainak megfelelően árbevételt (az adóalany annak megfelelő bevételt) számolt el.
@@ -84,7 +84,7 @@ azzal, hogy az a) pontban meghatározott feltétel teljesülését nem érinti a
 - b) a változás bekövetkezésének napját megelőző nappal, ha a változás révén már nem felel meg az adóalanyiságra előírt bármely feltételnek;
 - c) az adóalanyiság választására jogosító értékhatár meghaladásának napját követő nappal;
 - d) a kapott előlegről kibocsátott utolsó bizonylat kibocsátásának napját megelőző nappal, ha a naptári évben összesen 30 millió forintot meghaladó előlegről bocsátott ki bizonylatot;
-- e) az adóhatóság határozata jogerőre emelkedésének napjával, ha terhére az adóhatóság számla- vagy nyugtaadási kötelezettség elmulasztása, vagy az ellenőrzés akadályozása miatt mulasztási bírságot állapított meg;
+- e) az állami adó- és vámhatóság határozata véglegessé válásának napjával, ha terhére az adóhatóság számla- vagy nyugtaadási kötelezettség elmulasztása, vagy az ellenőrzés akadályozása miatt mulasztási bírságot állapított meg;
 - f) a magánszemély adóalany egyéni vállalkozói jogállása megszűnésének napjával;
 - g) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal, egyébként a megszűnés napjával;
 - h) a részesedés megszerzésének napját megelőző nappal, ha a jogi személyben egyéni cégben 50 százalékot meghaladó szavazati jogot biztosító részesedést szerez olyan magánszemély (összesen 50 százalékot meghaladó szavazati jogot biztosító részesedést szereznek olyan magánszemélyek), akivel (akikkel) a naptári évben korábban nem állt tagi jogviszonyban; az öröklés esetére e rendelkezést nem kell alkalmazni;
@@ -239,9 +239,9 @@ mutatott ki.
 - a) a számvitelről szóló törvény hatálya alá nem tartozó adóalany esetében az adóévet követő év február 25., ha azonban az adóalanyiság év közben szűnt meg, akkor az adóalanyiság megszűnését követő 30. nap;
 - b) a számvitelről szóló törvény hatálya alá tartozó adóalany esetében az adóévet követő év május 31., ha azonban az adóalanyiság év közben szűnt meg, akkor az adóalanyiság megszűnésének hónapját követő ötödik hónap utolsó napja.
 
-(4) Az adóalany az adóév első három negyedévére negyedévenként az adóelőleget megállapítja, valamint az egyes negyedévekre megállapított adóelőleget, valamint a 12. § (4) bekezdése szerinti adóelőleg kiegészítést az adóévre vonatkozó bevallásában bevallja. Az egyéni vállalkozó adóalanynak a bevallásában az adatokat forintban kell feltüntetnie, a jogi személy és az egyéni cég bevallásában az adatokat az adózás rendjéről szóló törvény előírásainak megfelelően szerepelteti.
+(4) Az adóalany az adóév első három negyedévére negyedévenként az adóelőleget megállapítja, valamint az egyes negyedévekre megállapított adóelőleget, valamint a 12. § (4) bekezdése szerinti adóelőleg kiegészítést az adóévre vonatkozó bevallásában bevallja. Az egyéni vállalkozó adóalanynak a bevallásában az adatokat forintban kell feltüntetnie, a jogi személy és az egyéni cég bevallásában az adatokat az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény előírásainak megfelelően szerepelteti.
 
-(5) Az (1) bekezdésben foglaltaktól eltérően, az állami adóhatóság az adózás rendjéről szóló törvény előírásai szerinti becsléssel állapítja meg az eva alapját és összegét az adóév első napjától a mulasztási bírságot megállapító határozat jogerőre emelkedésének napjáig terjedő időszakra vonatkozóan, ha az adózó adóalanyisága mulasztási bírság kiszabása miatt szűnt meg. A becslésre irányuló eljárást az adóhatóság a mulasztási bírságot megállapító határozat jogerőre emelkedésének napját követő 15 napon belül megindítja.
+(5) Az (1) bekezdésben foglaltaktól eltérően, az állami adó- és vámhatóság az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény előírásai szerinti becsléssel állapítja meg az eva alapját és összegét az adóév első napjától a mulasztási bírságot megállapító határozat véglegessé válásának napjáig terjedő időszakra vonatkozóan, ha az adózó adóalanyisága mulasztási bírság kiszabása miatt szűnt meg. A becslésre irányuló eljárást az adóhatóság a mulasztási bírságot megállapító határozat jogerőre emelkedésének napját követő 15 napon belül megindítja.
 
 ### Adóelőleg- és adófizetés
 
@@ -292,7 +292,7 @@ mutatott ki.
 
 (3) Az adóalany a (2) bekezdés c) pontja alapján fizetendő általános forgalmi adót, feltéve, hogy a szolgáltatást a Közösségen kívül letelepedett adóalanytól vette igénybe, és a (2) bekezdés d) pontja alapján fizetendő általános forgalmi adót az adóévre vonatkozó evabevallásában megállapítja és bevallja, valamint a bevallás benyújtására előírt határidőig megfizeti.
 
-(4) Az adóalany a Közösség másik tagállamából történő beszerzései tekintetében az általános forgalmi adóról szóló törvény 20. §-a (1) bekezdésének d) pontjában meghatározott személyekkel, szervezetekkel, a 36–49. §-ainak, 140. §-ának és a 142. § (3) bekezdése a) pontjának alkalmazása tekintetében pedig a belföldön nyilvántartásba vett áfaalanyokkal esik egy tekintet alá.
+(4) Az adóalany a Közösség másik tagállamából történő beszerzései tekintetében az általános forgalmi adóról szóló törvény 20. § (1) bekezdés d) pontjában meghatározott személyekkel, szervezetekkel, a 36–49. §-ának, 140. §-ának és a 142. § (3) bekezdés a) pontjának alkalmazása tekintetében pedig a belföldön nyilvántartásba vett adóalanyokkal esik egy tekintet alá. A közösségi adószámra és az összesítő nyilatkozatra vonatkozó rendelkezések tekintetében az adóalany az általános forgalmi adóról szóló törvény szerint alanyi adómentességet választott adóalanyokkal esik egy tekintet alá.
 
 (5) Az adóalany az általános forgalmi adóról szóló törvény szerint a külföldi utasnak visszatérített általános forgalmi adót előzetesen felszámított adóként nem veheti figyelembe.
 
@@ -301,6 +301,8 @@ mutatott ki.
 (7) Az általános forgalmi adó alanyának nem keletkezik újólag adófizetési kötelezettsége azon bevétele után, amely az adóalanyiság időszakában megszerzett bevételnek minősült.
 
 (8) Az általános forgalmi adó alanya az adóalanyként lezárt adóévben beszerzett termék, igénybevett szolgáltatás tekintetében előzetesen felszámított adólevonási jogot nem gyakorolhat.
+
+(9) Az adóalany az általa kibocsátott számlák tekintetében az általános forgalmi adóról szóló törvényben meghatározott adatszolgáltatásra vonatkozó rendelkezéseknek megfelelően, arról az adóévről benyújtott adóbevallásában – a 11. § (5) bekezdés alkalmazása esetén a becslésre irányuló adóhatósági eljárás során – nyilatkozik, amelyben a számlát kiállította.
 
 ### Szakképzési hozzájárulás
 
@@ -447,10 +449,10 @@ mutatott ki.
 
 (3) Az adóhatóság az adózó részére kiállított, az adóalanyiság adóévére vonatkozó jövedelemigazoláson feltünteti azt a tényt, hogy az adózó az eva alanya volt, továbbá az adóalany által az adóévben megszerzett összes bevételt és az adóévre megállapított adót (evát). A magánszemély adóalany által megszerzett olyan bevétel (jövedelem) tekintetében, amely nem képezi az eva alapját, az adóhatóság az erre egyébként irányadó szabályok szerint állítja ki a jövedelemigazolást.
 
-(4) Ha az adózó az adómegállapítási időszakot tartalmazó adóévre vonatkozó e törvény szerinti bejelentését [10. § (1) és (4) bekezdés] jogszerűen nem tehette volna meg, illetve jogszerűtlenül nem tette meg, akkor az állami adóhatóság az adózás rendjéről szóló törvény előírásai szerinti becsléssel állapítja meg az adónemenkénti adókötelezettséget
+(4) Ha az adózó az adómegállapítási időszakot tartalmazó adóévre vonatkozó e törvény szerinti bejelentését [10. § (1) és (4) bekezdés] jogszerűen nem tehette volna meg, illetve jogszerűtlenül nem tette meg, akkor az állami adóhatóság az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény előírásai szerinti becsléssel állapítja meg az adónemenkénti adókötelezettséget
 
 - a) a bejelentés jogszerűtlenségére, illetve mulasztására vonatkozó nyilatkozat megtételének napjáig, vagy
-- b) a bejelentés jogszerűtlenségét, illetve mulasztását megállapító határozata jogerőre emelkedésének napjáig, ha az a) pont szerinti nyilatkozattétel nem történt meg. Ha a jogi személy és az egyéni cég az adómegállapítási időszakot tartalmazó adóévre vonatkozó bejelentését [10. § (1) bekezdés] jogszerűen nem tehette volna meg, akkor az a)–b) pontban foglalt határidőt követő 30 napon belül köteles a bejelentés adóévére vonatkozóan a társasági adóról és az osztalékadóról – a társasági adóról és az osztalékadóról szóló törvény előírásainak megfelelő – adóbevallást benyújtani.
+- b) a bejelentés jogszerűtlenségét, illetve mulasztását megállapító határozata véglegessé válásának napjáig, ha az a) pont szerinti nyilatkozattétel nem történt meg. Ha a jogi személy és az egyéni cég az adómegállapítási időszakot tartalmazó adóévre vonatkozó bejelentését [10. § (1) bekezdés] jogszerűen nem tehette volna meg, akkor az a)–b) pontban foglalt határidőt követő 30 napon belül köteles a bejelentés adóévére vonatkozóan a társasági adóról és az osztalékadóról – a társasági adóról és az osztalékadóról szóló törvény előírásainak megfelelő – adóbevallást benyújtani.
 
 (5) Az adóhatóság a becslés során
 
@@ -461,7 +463,7 @@ mutatott ki.
 
 (7) A 2. § (3) bekezdése a) pontjában foglalt feltétel teljesülése szempontjából egyéni vállalkozónak kell tekinteni azt a magánszemélyt is, aki az adott tevékenységével összefüggő adókötelezettségének 2001-ben vagy 2002-ben a személyi jövedelemadóról szóló törvénynek az egyéni vállalkozókra vonatkozó rendelkezései szerint tett eleget.
 
-(8) Az egyszerűsített vállalkozói adó szabályai szerint adózó biztosított egyéni vállalkozó a Tbj. 29/A. §-ának (1)–(3) bekezdésében meghatározott járulékalap után fizetendő járulékot havonta a tárgyhónapot követő hónap 12. napjáig fizeti meg és az adózás rendjéről szóló törvény 31. §-ának (2) bekezdésében meghatározott adattartalommal a tárgyhónapot követő hónap 12-éig vallja be. A Tbj. 31. §-ának (4) bekezdésében említett egyéni vállalkozó az evaalap 4 százaléka után fizetendő járulékot negyedévente, a negyedévet követő hónap 12. napjáig fizeti meg és az adózás rendjéről szóló törvény 31. §-ának (2) bekezdésében meghatározott adattartalommal a tárgynegyedév utolsó hónapjának kötelezettségeként vallja be. A kiegészítő tevékenységet folytató egyéni vállalkozó a Tbj. 19. § (4) bekezdése szerinti egészségügyi szolgáltatási járulékot és az evaalap 10 százaléka után megállapított nyugdíjjárulékot évente, az adóévet követő hónap 12. napjáig fizeti meg és az éves eva-bevallásában vallja be.
+(8) Az egyszerűsített vállalkozói adó szabályai szerint adózó biztosított egyéni vállalkozó a Tbj. 29/A. §-ának (1)–(3) bekezdésében meghatározott járulékalap után fizetendő járulékot havonta a tárgyhónapot követő hónap 12. napjáig fizeti meg és a havi adó- és járulék bevallásra vonatkozóan az adózás rendjéről szóló törvényben meghatározott adattartalommal a tárgyhónapot követő hónap 12-éig vallja be. A Tbj. 31. §-ának (4) bekezdésében említett egyéni vállalkozó az evaalap 4 százaléka után fizetendő járulékot negyedévente, a negyedévet követő hónap 12. napjáig fizeti meg és a havi adó- és járulék bevallásra vonatkozóan az adózás rendjéről szóló törvényben meghatározott adattartalommal a tárgynegyedév utolsó hónapjának kötelezettségeként vallja be. A kiegészítő tevékenységet folytató egyéni vállalkozó a Tbj. 19. § (4) bekezdése szerinti egészségügyi szolgáltatási járulékot és az evaalap 10 százaléka után megállapított nyugdíjjárulékot évente, az adóévet követő hónap 12. napjáig fizeti meg és az éves eva-bevallásában vallja be.
 
 (9) Az adóalanyiságnak a 2004. évre történő választásakor a feltételeknek való megfelelést – a (10) bekezdésben meghatározott kivétellel – a 2. § (3)–(7) bekezdésének 2004. január 1-jén hatályos rendelkezései szerint kell meghatározni.
 

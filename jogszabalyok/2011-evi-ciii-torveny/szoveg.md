@@ -38,7 +38,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - 19. egészségmegőrző program: az adóalany – erőforrás-kiáramlással (költségekkel) járó – vagy az egészségügyi államigazgatási szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által, ingyenesen vagy legfeljebb 500 forint ellenében érhető el;
 - 20. tejalapanyag: a termékben található tej, tejtermék (különösen joghurt, kefir, vaj, túró, tejszín, tejpor, sajt, író);
 - 21. édesítőszer: az 1333/2008/EK rendelet II. melléklet B. részének 2. Édesítőszerek felsorolásában szereplő anyagok;
-- 22. gyógynövényes ital: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló – 2016. december 31-én hatályos – 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő, adalékanyagot nem tartalmazó, legalább hét különböző növényből származó gyógynövény felhasználásával előállított ital – ide nem értve az EK rendelet II. számú melléklete 31. pontja szerinti ízesített vodkát – ha annak összes gyógynövénytartalma meghaladja a 3 gramm gyógynövény (vagy ennek megfelelő hatóanyag-tartalmú gyógynövénykivonat)/100 milliliter mennyiséget, és a felhasznált hét különböző növényből származó gyógynövényből – növényenként – legalább 0,2 gramm gyógynövény (vagy ennek megfelelő hatóanyag-tartalmú gyógynövénykivonat)/100 milliliter mennyiséget tartalmaz, azzal, hogy a gyógynövénymennyiséget 15%-os nedvességtartalmú gyógynövénymennyiségre átszámítva kell figyelembe venni és az ital ízében és illatában a felhasznált gyógynövények íze és illata a domináns.
+- 22. gyógynövényes ital: a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő, adalékanyagot nem tartalmazó, legalább hét különböző növényből származó gyógynövény felhasználásával előállított ital – ide nem értve az EK rendelet II. számú melléklete 31. pontja szerinti ízesített vodkát – ha annak összes gyógynövénytartalma meghaladja a 3 gramm gyógynövény (vagy ennek megfelelő hatóanyag-tartalmú gyógynövénykivonat)/100 milliliter mennyiséget, és a felhasznált hét különböző növényből származó gyógynövényből – növényenként – legalább 0,2 gramm gyógynövény (vagy ennek megfelelő hatóanyag-tartalmú gyógynövénykivonat)/100 milliliter mennyiséget tartalmaz, azzal, hogy a gyógynövénymennyiséget 15%-os nedvességtartalmú gyógynövénymennyiségre átszámítva kell figyelembe venni és az ital ízében és illatában a felhasznált gyógynövények íze és illata a domináns.
 
 #### 2. Az adókötelezettség
 
@@ -67,7 +67,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott cukrot, illetve édesítőszert tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, illetve édesítőszert, feltéve, hogy a termék cukor-, illetve édesítőszer-tartalma együttesen meghaladja az 5 gramm cukor, illetve ennek megfelelő édesítőszer/100 milliliter mennyiséget (a továbbiakban: ízesített sör);
 - g) a legfeljebb 5 térfogatszázalék alkoholtartalommal rendelkező, 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt vagy adalékanyagot tartalmaz, feltéve, hogy a termék hozzáadott cukrot, illetve édesítőszert tartalmaz és a cukor-, illetve édesítőszer-tartalma együttesen meghaladja az 5 gramm cukor, illetve ennek megfelelő édesítőszer/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
 - h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz);
-- i) a Jöt. szerinti alkoholterméknek minősülő ital, ide nem értve az alkoholos frissítőt, a gyümölcspárlatot, a gyógynövényes italt és a Jöt. 68. § (1) bekezdése hatálya alá tartozó alkoholterméket (a továbbiakban: alkoholos ital).
+- i) a Jöt. szerinti alkoholterméknek minősülő ital, ide nem értve az alkoholos frissítőt, a gyümölcspárlatot, a gyógynövényes italt és a Jöt. 133. § (1) bekezdés e)–i) pontja hatálya alá tartozó alkoholterméket (a továbbiakban: alkoholos ital).
 
 3. § (1) Adókötelezettség terheli az adóköteles termék:
 
@@ -133,7 +133,23 @@ a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban:
 
 (3) Ha az adómegállapítási időszakban értékesített adóköteles termék mennyisége a bevallás benyújtását követően csökken, az adó alanya az adó összegét abban az adómegállapítási időszakban jogosult csökkenteni, amelyben a helyesbítésről, érvénytelenítésről szóló számlát, számviteli bizonylatot vagy más okiratot kiállították.
 
-(4) Az adó alanya az adó összegét csökkentheti az adómegállapítási időszakban egészségmegőrző programokkal kapcsolatban felmerült költségeivel, ráfordításaival, azzal, hogy a csökkentés összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
+(4) Az adó alanya a fizetendő adóját
+
+- a) csökkentheti az adómegállapítási időszakban egészségmegőrző programokkal kapcsolatban felmerült költségeivel, ráfordításaival,
+- b) felajánlhatja az egészségügyi államigazgatási szerv egészségmegőrző programjának finanszírozására az adóbevallásában tett rendelkező nyilatkozatával,
+
+azzal, hogy az adócsökkentés és az adófelajánlás együttes összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
+
+(5) A rendelkező nyilatkozat az adóbevallás benyújtását követően nem módosítható és nem pótolható, késedelmesen benyújtott bevallás esetén a rendelkező nyilatkozat érvénytelen.
+
+(6) Az állami adó- és vámhatóság (a továbbiakban: hatóság) a rendelkező nyilatkozatban megjelölt összeget a bevallás benyújtását követő 15 munkanapon belül a felajánlás fogadására jogosult egészségügyi államigazgatási szervnek átutalja, feltéve, hogy az adóalany
+
+- a) hatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása az átutaláskor nem haladja meg a százezer forintot és
+- b) a rendelkező nyilatkozatot magában foglaló adóbevallásában fizetendő adóként megjelölt összeget határidőben megfizette.
+
+(7) Nem érinti a (6) bekezdés szerint átutalt összeget, ha a hatóság határozata vagy az adóalany önellenőrzése eredményeképpen a fizetendő adó (4) bekezdés szerinti 10%-ának megfelelő összeg módosul.
+
+(8) A hatóság a (6) bekezdés szerint végrehajtott átutalást követő hónap 15. napjáig elektronikus adatközlés útján tájékoztatja az egészségügyi államigazgatási szervet a felajánlás összegéről, valamint, ha a felajánlást tevő adóalany ahhoz hozzájárul, az adóalany nevéről és székhelyéről.
 
 #### 8. Nyilvántartás-vezetési kötelezettség
 
@@ -150,7 +166,7 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 #### 9. Eljárási rendelkezések
 
-10. § (1) Ha jogszabály másként nem rendelkezik, a Nemzeti Adó- és Vámhivatal (a továbbiakban: hatóság) jár el az e törvényben meghatározott feladatok végrehajtása során.
+10. § (1) Ha jogszabály másként nem rendelkezik, a hatóság jár el az e törvényben meghatározott feladatok végrehajtása során.
 
 (2) Az adó alanya bevallási kötelezettségét – a (3) bekezdésben meghatározott eltéréssel – a rá irányadó általános forgalmi adó bevallási időszak szerint teljesíti, az általános forgalmi adó bevallására előírt határidőig az e célra rendszeresített elektronikus nyomtatványon a hatósághoz.
 
@@ -160,7 +176,7 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 (5) Az adófizetésre nem kötelezett adóalanynak bejelentkezési és adóbevallás benyújtási kötelezettsége nincs.
 
-(6) Az e törvényben nem szabályozott eljárási kérdésekben az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
+(6)
 
 (7)
 

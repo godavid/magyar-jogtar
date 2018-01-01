@@ -523,11 +523,11 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 területi elhelyezése az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye alapján történik.
 
+(3b) A 23/D. § (1)–(3a) bekezdése és (9) bekezdése szerinti területrendezési hatósági eljárás során a kapcsolattartás írásban történik.
+
 (4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
-(5) A térségi területfelhasználási engedélykérelmet – az összhang igazolására vonatkozó engedélykérelem kivételével – harminc napon belül kell elbírálni. Az összhang igazolására vonatkozó engedélykérelmet tizenöt napon belül kell elbírálni.
-
-(6) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal döntése ellen fellebbezésnek nincs helye. A térségi területfelhasználási engedélykérelemről hozott határozat elleni keresetet a törvényszék soron kívül bírálja el.
+(5)–(6)
 
 (7) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a területrendezési hatósági eljárást követően a térségi területfelhasználási engedélyt, valamint annak mellékleteként az engedélyezési tervdokumentációt közli a megyei önkormányzattal.
 
@@ -543,7 +543,7 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 - b) a térségi területfelhasználási engedély által érintett települések megnevezése, valamint
 - c) a térségi területfelhasználási engedély kiadásának dátuma, iktató száma, érvényesség dátuma, valamint az engedélyezés típusa.
 
-23/E. §
+23/E. § Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal felügyeleti szerve a területrendezésért felelős miniszter.
 
 ### Területi információs rendszer
 

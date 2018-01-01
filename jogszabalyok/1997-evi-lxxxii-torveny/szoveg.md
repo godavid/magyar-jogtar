@@ -243,13 +243,13 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 18/A. § Ha a pénztárt a bíróság nyilvántartásba vette, és a kérelmező az ezt igazoló jogerős határozatot a kérelemhez nem csatolja, a Felügyelet a kérelem elbírálásához szükséges adatok szolgáltatása vagy igazolása iránt megkeresi a nyilvántartást vezető bíróságot.
 
-19. § (1) A pénztár tevékenységi engedély iránti kérelmét a Felügyelet akkor utasíthatja el, ha a kérelem és mellékletei nem felelnek meg a jogszabályi előírásoknak, és a pénztár határidőre nem tesz eleget az esetleges hiánypótlási felhívásnak.
+19. § (1)
 
 (2) A Felügyelet a benyújtott okiratok módosítását írhatja elő, ha azokból valószínűsíthető, hogy a pénztár működése nem biztonságos, illetve az okiratok szakszerűtlen rendelkezéseket tartalmaznak.
 
 (3) Amennyiben a Felügyelet elutasítja a tevékenységi engedély iránti kérelmet, a pénztár 30 napon belül köteles új alapítási, majd tevékenységi engedély iránti kérelmet benyújtani, vagy megszűnéséről dönteni.
 
-20. § (1) A tevékenységi engedély jogerőre emelkedéséig a pénztár, a hozzá bármilyen jogcímen befizetett összegekből kizárólag a pénztár szervezésével összefüggő kifizetéseket teljesíthet.
+20. § (1) A tevékenységi engedély véglegessé válásáig a pénztár, a hozzá bármilyen jogcímen befizetett összegekből kizárólag a pénztár szervezésével összefüggő kifizetéseket teljesíthet.
 
 (2) Az (1) bekezdésben foglalt rendelkezés megsértése esetén, a pénztár nevében eljáró személyek korlátlanul és egyetemlegesen felelősek az okozott kárért. E személyekkel szemben a Felügyelet százezertől egymillió forintig terjedő bírságot szabhat ki. A bírság megfizetését a pénztár nem vállalhatja át.
 
@@ -600,7 +600,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 - d) az ellenőrző bizottság tagjainak és elnökének megválasztása, visszahívása, díjazásuk megállapítása, valamint annak ellenőrzése, hogy az ellenőrző bizottság tagjával és elnökével szemben nem áll fenn a 34. § (12) bekezdésében meghatározott kizáró ok,
 - e) az igazgatótanács éves beszámolójának – ezen belül a mérleg és az aktuáriusi értékelés – elfogadása, döntés az egyes tartalékokban mutatkozó hiány rendezéséről,
 - f) a pénztár pénzügyi tervének elfogadása,
-- g) a tevékenységi engedély jogerőre emelkedése előtt a pénztár nevében eljáró személyek, az igazgatótanács és az ellenőrző bizottság tagjai elleni kártérítési igény érvényesítése, továbbá intézkedés a pénztár képviseletére jogosultak ellen indított perekben a pénztár képviseletéről,
+- g) a tevékenységi engedély véglegessé válása előtt a pénztár nevében eljáró személyek, az igazgatótanács és az ellenőrző bizottság tagjai elleni kártérítési igény érvényesítése, továbbá intézkedés a pénztár képviseletére jogosultak ellen indított perekben a pénztár képviseletéről,
 - h) döntés érdekképviseleti szervhez történő csatlakozásról, illetve az abból történő kiválásról,
 - i) döntés a pénztár megszűnéséről, szétválásról vagy más pénztárral történő egyesülésről,
 - j) döntés mindazon ügyekben, amelyeket e törvény vagy más jogszabály a hatáskörébe utal,
@@ -699,7 +699,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 (5) A pénztár a nevében, székhelyében, a bevételek tartalékok közötti megosztásának arányában, vezető tisztségviselőiben, és a (2) bekezdésben meghatározott személyekben bekövetkező változást annak időpontját követő 30 napon belül a Felügyeletnek bejelenti. A pénztár a megalakulásakor és a vezető tisztségviselők, illetve a kötelező alkalmazottak, megbízottak változása esetén – ideértve azok újraválasztását vagy újbóli kinevezését is – figyelemmel a (6) bekezdésben foglaltakra csatolja az érintett személy
 
-- a) vonatkozásában a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványának eredeti vagy hiteles másolati példányát,
+- a) vonatkozásában nem magyar állampolgár esetén a nem magyar állampolgár személyes joga szerinti, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti hatósági bizonyítványnak megfelelő okiratot,
 - b) nyilatkozatát arról, hogy vele szemben jogszabályban meghatározott összeférhetetlenségi ok nem áll fenn,
 - c) a jogszabály által előírt végzettségét, vagy gyakorlatát igazoló dokumentumok hiteles másolatát,
 - d) vezető tisztségviselők esetén nyilatkozatát a tisztség elfogadásáról.
@@ -805,7 +805,7 @@ elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, a
 
 - a) aki 10 százalékot elérő vagy azt meghaladó részesedéssel rendelkezik, rendelkezett, olyan befektetési vállalkozásban, pénzügyi intézményben, biztosítóban, amely öt éven belül fizetésképtelenné vált, vagy fizetésképtelenségét csak felügyeleti intézkedéssel lehetett elkerülni, illetve amelynek tevékenységi engedélyét az illetékes felügyelet visszavonta,
 - b) aki vezető tisztségviselő volt olyan önkéntes kölcsönös biztosító pénztárban, pénztárban, biztosítóintézetben, pénzügyi intézményben vagy befektetési vállalkozásban, amely öt éven belül fizetésképtelenné vált, illetve amelynek tevékenységi engedélyét állami felügyelete visszavonta,
-- c) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben az illetékes felügyelet, más hatóság a legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította. E tekintetben súlyos szankciónak minősül, ha a Felügyelet, más hatóság jogerős határozatban a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott.
+- c) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben 5 évnél nem régebben az illetékes felügyelet, más hatóság a legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott, illetve a bíróság jogerős ítéletével büntetőjogi felelősségét megállapította. E tekintetben súlyos szankciónak minősül, ha a Felügyelet, más hatóság végleges határozatban a kiszabható legmagasabb összegű bírságot szabta ki, vagy annál súlyosabb szankciót alkalmazott.
 - d) aki vezető tisztségviselője volt olyan, a Ptk. hatálya alá tartozó gazdasági társaságnak vagy szövetkezetnek, amelyben 5 éven belül csőd- vagy felszámolási eljárást kellett lefolytatni,
 - e) akinek egyéb tulajdonosi érdekeltsége és üzleti tevékenysége veszélyeztetné a pénztár biztonságos működését.
 
@@ -1047,7 +1047,7 @@ számolható el.
 
 (5) A Felügyelet az ingatlanértékelő
 
-- a) (3) bekezdés alapján megismert személyes adatait az ingatlanértékelő megbízásának jóváhagyásáig,
+- a) (3) bekezdés alapján megismert személyes adatait az ingatlanértékelő jogviszonyának megszűnésétől számított legfeljebb 5 évig,
 - b) a (4) bekezdés alapján megismert személyes adatait a hatósági ellenőrzés időtartamára vagy a pénztár az ingatlanértékelő jogviszonyának megszüntetéséről szóló (6) bekezdés szerinti értesítésének a Felügyelethez történő megérkezéséig kezeli.
 
 (6) Ha a Felügyelet a (4) bekezdés szerinti hatósági ellenőrzés során megállapítja, hogy az ingatlanértékelővel szemben fennáll a 34. § (12) bekezdés a)–c) pontjában meghatározott kizáró ok, vagy az ingatlanértékelő tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll, erről a tényről haladéktalanul értesíti a pénztárt, és ezzel egyidejűleg felhívja, hogy az ingatlanértékelővel fennálló jogviszonyát az értesítés kézbesítésétől számított huszonegy napon belül szüntesse meg, és erről a Felügyeletet értesítse.
@@ -1502,7 +1502,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
   - cc) az átalakulással létrejövő pénztár SzMSz-ét,
   - cd) a könyvvizsgáló által hitelesített vagyonmérleg-tervezeteket – ideértve az átalakuló és az átalakulással létrejövő pénztár vagyonmérleg-tervezetét – és a kötelezettségek és követelések állományát tartalmazó dokumentumokat;
 - d) a Felügyelet a tevékenységi engedélyezésre irányuló eljárásban a pénztárat ellenőrzi és a kérelemhez csatolt dokumentumok, valamint az ellenőrzés alapján dönt az engedély megadásáról;
-- e) a bíróság az átalakulást a Felügyelet által adott tevékenységi engedély(ek) jogerőre emelkedését követően, a jogelőd(ök) törlésével és a jogutód(ok) bejegyzésével vezeti át a nyilvántartáson.
+- e) a bíróság az átalakulást a Felügyelet által adott tevékenységi engedély(ek) véglegessé válását követően, a jogelőd(ök) törlésével és a jogutód(ok) bejegyzésével vezeti át a nyilvántartáson.
 
 (3) Az e fejezet alapján történő átalakuláskor – törvény eltérő rendelkezése hiányában – külön adó- és illetékfizetési kötelezettség nem keletkezik.
 
@@ -1543,7 +1543,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 - a) a közgyűlés az átalakulásról szóló döntését a 79/B. § (3) bekezdésében foglalt tervezetek elfogadása előtt megváltoztatja,
 - b) a Felügyelet a tevékenységi engedély iránti kérelmet elutasítja,
-- c) a bíróság a nyilvántartásba vétel iránti kérelmet elutasítja.
+- c) a bíróság a nyilvántartásba vétel iránti kérelmet visszautasítja.
 
 (2) Az átalakulás meghiúsulása esetén, az arról való tudomásszerzést követő 30 napon belül valamennyi érintett pénztár köteles az e törvényben előírt személyi és tárgyi feltételeknek, valamint az egyéb jogszabályi követelményeknek eleget tenni, és a rendes működéshez szükséges intézkedéseket megtenni, szerződéses kapcsolatokat kialakítani.
 
@@ -1593,7 +1593,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (1a) A pénztár jogutód nélkül végelszámolással megszűnik, ha a tagdíjfizető tagok száma a megelőző hat hónap átlagában legalább kettő hónapon keresztül a taglétszám hetven százaléka alá csökken.
 
-(2) A pénztár megszűnését az illetékes bíróságnak be kell jelenteni. A végelszámolás kezdő időpontjában a pénztár vezető tisztségviselői közül az ellenőrző bizottsági tagok megbízatása nem szűnik meg. A bíróság a végelszámoló nyilvántartásba vételéről rendelkező, illetve az igazgatótanácsi tagok nyilvántartásból törléséről rendelkező végzésének meghozatalát követően a Cégközlönyben a Ctv. 102. § (2) bekezdésében foglaltaknak megfelelő közleményt tesz közzé. A Felügyelet a végelszámolás lefolytatását köteles ellenőrizni. A bíróság a pénztárat a nyilvántartásból a Felügyelet tevékenységet lezáró határozatának jogerőre emelkedését követően törli.
+(2) A pénztár megszűnését az illetékes bíróságnak be kell jelenteni. A végelszámolás kezdő időpontjában a pénztár vezető tisztségviselői közül az ellenőrző bizottsági tagok megbízatása nem szűnik meg. A bíróság a végelszámoló nyilvántartásba vételéről rendelkező, illetve az igazgatótanácsi tagok nyilvántartásból törléséről rendelkező végzésének meghozatalát követően a Cégközlönyben a Ctv. 102. § (2) bekezdésében foglaltaknak megfelelő közleményt tesz közzé. A Felügyelet a végelszámolás lefolytatását köteles ellenőrizni. A bíróság a pénztárat a nyilvántartásból a Felügyelet tevékenységet lezáró határozatának véglegessé válását követően törli.
 
 (3) A pénztár végelszámolása esetén az ellenőrző bizottsági tagok megbízatása a pénztár megszűnésével egyidejűleg ér véget.
 
@@ -1817,20 +1817,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (3) Az ellenőrző bizottság a 94. § (4) bekezdésben meghatározott körülmények igazolása céljából kezeli az igazgatósági tag azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-96/B. § (1) Az ellenőrző bizottság tagjának csak olyan személyt javasolhat a Felügyelet, aki hatósági bizonyítvánnyal igazolja azt a tényt, hogy a 96. § (3) bekezdésben meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tagsági tisztség betöltéséből.
-
-(2) Az ellenőrző bizottsági tagság fennállása alatt a Felügyelet írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja az ellenőrző bizottsági tagot annak igazolására, hogy a 96. § (3) bekezdésben meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tagság betöltéséből.
-
-(3) Ha az (1) bekezdésben meghatározott felhívásra az ellenőrző bizottság tagja igazolja, hogy a 96. § (3) bekezdésben meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tisztség betöltéséből, a Felügyelet az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat részére megtéríti.
-
-(4) A Felügyelet a 96. § (3) bekezdésben meghatározott körülmények igazolása céljából kezeli
-
-- a) az ellenőrző bizottsági tagság betöltésére javasolt személy,
-- b) az ellenőrző bizottsági tag azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
-
-(5) A (4) bekezdésben meghatározott személyes adatokat a Felügyelet az ellenőrző bizottsági tagságról meghozott döntés időpontjáig, illetve – az ellenőrző bizottsági tagságra történő kinevezés esetén – az ellenőrző bizottsági tagságot megszüntető ok bekövetkeztéig kezeli.
-
-(6) Nem lehet az ellenőrző bizottság tagja az a személy, aki a Felügyelet felhívására, a felhívástól számított huszonegy napon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem igazolja, hogy a 96. § (3) bekezdésben meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tagsági tisztség betöltéséből.
+96/B. § Az ellenőrző bizottság tagjának csak olyan személyt javasolhat a Felügyelet, aki a 96. § (3) bekezdésében meghatározott feltételek alapján nincs kizárva az ellenőrző bizottsági tagsági tisztség betöltéséből.
 
 ### Az Alap ügyvezető igazgatója és munkaszervezete
 
@@ -1988,7 +1975,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (2) A tevékenységi engedély visszavonására akkor kerülhet sor, ha a pénztár
 
-- a) tevékenységének folytatását az engedély jogerőre emelkedésének napjától számított 180 napon belül nem kezdi meg, vagy azt a Felügyelet hozzájárulása nélkül szünetelteti,
+- a) tevékenységének folytatását az engedély véglegessé válásának napjától számított 180 napon belül nem kezdi meg, vagy azt a Felügyelet hozzájárulása nélkül szünetelteti,
 - b) az engedélykérelemben valótlan adatot vagy nyilatkozatot közölt, és felszólítás ellenére 30 napon belül az adatot vagy nyilatkozatot megfelelően nem módosította,
 - c) nem tesz eleget az engedélyben foglalt feltételeknek,
 - d) a pénztártevékenységre vonatkozó jogszabályok rendelkezéseit súlyosan megsérti, a Felügyelet határozataiban foglaltaknak nem tesz eleget, és ezáltal a pénztártagok érdekeit súlyosan veszélyezteti,
@@ -2121,15 +2108,13 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (5)
 
-(6) A magán-nyugdíjpénztári tagnak a magánnyugdíjrendszerben fennálló tagsági jogviszonya fenntartásának szándékáról 2011. január 31. napjáig kell nyilatkoznia. A társadalombiztosítási nyugellátásban nem részesülő, e törvény alapján magán-nyugdíjpénztári taggá vált személy magán-nyugdíjpénztári tagsági jogviszonya nyilatkozat hiányában 2011. március 1. napjával megszűnik. A helyszíni nyilatkozattételre jogosult személy, illetve a tartósan külföldön tartózkodó pénztártag [24. § (10) bekezdés], ha nyilatkozatát 2011. január 31-éig rajta kívül álló okból nem tudta megtenni, akkor az akadály megszűnésétől számított 8 napon belül, de legkésőbb 2011. február 28-áig a nyilatkozat 24. § (10) bekezdése szerinti módon való pótlásával egyidejűleg igazolási kérelmet terjeszthet elő.
+(6)
 
-(6a) A (6) bekezdés szerinti igazolási kérelemről a nyugdíjbiztosítási igazgatási szerv annak előterjesztését követő 15 napon belül, a közigazgatási hatósági eljárás szabályai szerint eljárva dönt.
-
-(6b) Az igazolási kérelem jogerős elbírálásáig a kérelmező pénztártag követelésének értéke a 24. § (11) bekezdése szerint nem adható át. Ha az igazolási kérelemnek helyt adnak, a magánnyugdíj-pénztári tagság nem szűnik meg, illetve 2011. március 1-jére visszamenőlegesen helyreáll.
+(6a)–(6b)
 
 (6c) Az a természetes személy, aki e törvény 1998. január 1-je 2010. november 2-a között hatályos rendelkezései szerint pályakezdőnek minősült, de pénztártagsága 2010. november 2-áig nem jött létre, a 3. § (2) bekezdése alapján már csak önkéntesen létesíthet pénztártagságot.
 
-(7) Az 58. §-ban meghatározott saját tevékenységi tartalékot – a pénztár tevékenységi engedélyének jogerőre emelkedését követő első 3 évben – akkor kell képezni, ha a pénztár befektetett eszközeinek az éves beszámoló jelentése szerinti értéke a 2 milliárd forintot eléri.
+(7) Az 58. §-ban meghatározott saját tevékenységi tartalékot – a pénztár tevékenységi engedélyének véglegessé válását követő első 3 évben – akkor kell képezni, ha a pénztár befektetett eszközeinek az éves beszámoló jelentése szerinti értéke a 2 milliárd forintot eléri.
 
 (8)
 

@@ -6,13 +6,13 @@ az egyes közjegyzői nemperes eljárásokról
 
 ### Általános rendelkezések
 
-1. § (1) Az e törvényben szabályozott, a közjegyző hatáskörébe tartozó eljárásokban (a továbbiakban: eljárás) azokra az eljárási kérdésekre, amelyeket ez a törvény nem szabályoz, a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szabályai – a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadók.
+1. § (1) Az e törvényben szabályozott, a közjegyző hatáskörébe tartozó eljárásokban (a továbbiakban: eljárás) – ha törvény eltérően nem rendelkezik – a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a polgári nemperes eljárás sajátosságaiból eredő eltérésekkel kell alkalmazni.
 
 (2) A közjegyző eljárása – mint polgári nemperes eljárás – a bíróság eljárásával azonos hatályú.
 
 ### Tárgyi hatály
 
-2. § E fejezet rendelkezéseit az e törvényben szabályozott eljárásokon kívül – jogszabály eltérő rendelkezése hiányában – azokban az egyéb közjegyzői eljárásokban is alkalmazni kell, melyeket az adott eljárást szabályozó jogszabály közjegyzői nemperes eljárásnak minősít.
+2. § E fejezet rendelkezéseit az e törvényben szabályozott eljárásokon kívül – jogszabály eltérő rendelkezése hiányában – a közjegyző hatáskörébe tartozó egyéb polgári nemperes eljárásokban is alkalmazni kell.
 
 ### Kizárás
 
@@ -49,6 +49,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) Ha a kérelmező jogi személyiséggel nem rendelkező gazdasági társaság vagy olyan, jogi személyiséggel nem rendelkező szervezet, amelyet törvény jogképesnek nyilvánít, a közjegyző illetékességének megállapítására a (3) és (4) bekezdés rendelkezéseit kell megfelelően alkalmazni.
 
+(6) Az eljárásban illetékesség kikötésének nincs helye.
+
 ### A közjegyző eljárása illetékességi területén kívül
 
 5. § (1) A közjegyző csak a saját illetékességi területén elvégezhető eljárási cselekményeket foganatosíthatja közvetlenül.
@@ -73,13 +75,15 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) A kérelem jegyzőkönyvbe mondása esetén a kérelmezőnek az (1) bekezdés szerinti költséget a kérelem előterjesztésével egyidejűleg kell megfizetnie.
 
-(3) Ha a kérelmező az (1) bekezdés szerinti költség megfizetését elmulasztja, a közjegyző – a hiányok pótlására való felhívás kibocsátása nélkül – a kérelmet indokolt végzéssel elutasítja.
+(3) Ha a kérelmező az (1) bekezdés szerinti költség megfizetését elmulasztja, a közjegyző – a hiányok pótlására való felhívás kibocsátása nélkül – a kérelmet indokolt végzéssel visszautasítja.
 
-8. § (1) Az eljárásban költségmentességnek és költségfeljegyzésnek nincs helye.
+8. § (1) Az eljárásban – ideértve a közjegyző határozata ellen előterjesztett fellebbezés elbírálása iránti bírósági eljárást is – nincs helye költségmentességnek és költségfeljegyzési jognak.
 
 (2) A közjegyző az általa felszámított munkadíját és költségtérítését a külön jogszabály szerinti díjjegyzékben állapítja meg.
 
 (3) A fél a közjegyző által a díjjegyzékben feltüntetett munkadíj és költségtérítés összegét külön jogszabályban meghatározott módon kifogásolhatja.
+
+(4) Az eljárásban – ha az arra vonatkozó jogszabály másként nem rendelkezik – a felek a felmerült költségeiket maguk viselik, a nem általuk előlegezett vagy nem a feleknél felmerült költségek viselésére pedig a felek egyetemlegesen kötelesek.
 
 ### Bizonyítás
 
@@ -92,15 +96,15 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) A közjegyző kérelemre felhívhatja a kérelmezőtől eltérő személyt az (1) bekezdés b)–d) pontjában foglalt nyilatkozat megtételére.
 
-(3) Ha a kérelmezőtől eltérő személy az (1) bekezdés b)–d) pontja szerinti nyilatkozatot nem tette meg, vagy a közjegyző felhívására nem nyilatkozott, vagy a nyilatkozat beszerzését a közjegyző eredménytelenül kísérelte meg, és az eljárás más módon nem folytatható le, a közjegyző a bizonyítás lefolytatására irányuló kérelmet elutasítja.
+(3) Ha a kérelmezőtől eltérő személy az (1) bekezdés b)–d) pontja szerinti nyilatkozatot nem tette meg, vagy a közjegyző felhívására nem nyilatkozott, vagy a nyilatkozat beszerzését a közjegyző eredménytelenül kísérelte meg, és az eljárás más módon nem folytatható le, a közjegyző a bizonyítás lefolytatására irányuló kérelmet visszautasítja.
 
 (4) Ha a bizonyítás lefolytatásához elegendő a szemletárgynak a közjegyző előtti felmutatása, a közjegyző az (1) bekezdés d) pontjában meghatározott hozzájárulás hiányában is maga elé idézheti a szemletárgy birtokosát, ebben az esetben azonban az idézésre meg nem jelenő, vagy engedély nélkül eltávozó szemletárgy birtokosával szemben kényszerintézkedés foganatosításának nincs helye, és úgy kell eljárni, mintha a szemletárgy birtokosa a hozzájárulását kifejezetten megtagadta volna.
 
-### Hiánypótlás, kérelem elutasítása hiánypótlás nélkül
+### Hiánypótlás, kérelem visszautasítása
 
 10. § A közjegyző a kérelem beérkezésétől számított 8 munkanapon belül
 
-- a) a kérelmet a hiányok pótlására való felhívás kibocsátása nélkül végzéssel elutasítja, ha a kérelemből megállapítható, hogy az eljárás lefolytatásának nincs helye,
+- a) a kérelmet a hiányok pótlására való felhívás kibocsátása nélkül végzéssel visszautasítja, ha a kérelemből megállapítható, hogy az eljárás lefolytatásának nincs helye,
 - b) felhívja a feleket a hiányok pótlására, ha a kérelem hiányos.
 
 ### Az eljárás megszüntetése
@@ -113,21 +117,35 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 és e nélkül az eljárás eredményes lefolytatása nem lehetséges.
 
-(2) A közjegyző az eljárást megszünteti akkor is, ha a kérelmező a 7. § szerinti előlegezési kötelezettségét az eljárás folyamán mulasztja el, vagy a közjegyzőnek kérelmet már a 7. § (3) bekezdése szerint el kellett volna utasítania.
+(2) A közjegyző az eljárást megszünteti akkor is, ha a kérelmező a 7. § szerinti előlegezési kötelezettségét az eljárás folyamán mulasztja el, vagy a közjegyzőnek kérelmet már a 7. § (3) bekezdése szerint vissza kellett volna utasítania.
+
+(3) A közjegyző az eljárást megszünteti akkor is, ha a Pp. szerint az eljárás szünetelésének lenne helye. Ha a szünetelésnek a Pp. 121. § (1) bekezdés c) és f) pontja szerint lenne helye, annak a félnek a részére, akinek a Pp. 121. § (1) bekezdés c) és f) pontjában meghatározott okból az iratokat kézbesíteni nem lehet, a közjegyző a megszüntetéssel összefüggésben keletkezett iratokat hivatalból hirdetmény útján kézbesíti.
+
+(4) A közjegyző az eljárást megszünteti akkor is, ha a Pp. alapján az eljárást fel kellene függeszteni.
 
 ### Egyéb eljárási szabályok
 
-12. § (1) Az eljárásban felfüggesztésnek és szünetelésnek nincs helye.
+12. § (1) Az eljárásban – törvény eltérő rendelkezése hiányában – kérelmező az eljárást kezdeményező személy; kérelmezett, akivel szemben az eljárást megindítják, feltéve, hogy van az eljárásban a kérelmezővel szemben álló személy.
 
-(2) Ha a közjegyző az eljárás során pénzt vesz át, annak kezelésére a bizalmi őrzés szabályait kell megfelelően alkalmazni, azzal az eltéréssel, hogy ezen pénzösszegeket azonos számlán kezeli, és a pénzösszeg után annak átadója, illetve átvevője kamatra, a közjegyző pedig a pénzösszeg kezelésével járó költségekre nem tarthat igényt.
+(2) Az eljárásban a jogi képviselet nem kötelező, kivéve, ha törvény eltérően rendelkezik.
 
-(3) Ha a fél a bizonyítási eljárás költségeinek fedezésére előreláthatóan szükséges összeget helyezi bizalmi őrzésbe, annak kifizetésére – ha e törvény eltérően nem rendelkezik – a Pp. szabályait kell alkalmazni.
+(3) Ha a közjegyző az eljárás során pénzt vesz át, annak kezelésére a bizalmi őrzés szabályait kell megfelelően alkalmazni, azzal az eltéréssel, hogy ezen pénzösszegeket azonos számlán kezeli, és a pénzösszeg után annak átadója, illetve átvevője kamatra, a közjegyző pedig a pénzösszeg kezelésével járó költségekre nem tarthat igényt.
 
-(4) Az eljárás lefolytatásának hivatalból is helye lehet.
+(4) Ha a fél a bizonyítási eljárás költségeinek fedezésére előreláthatóan szükséges összeget helyezi bizalmi őrzésbe, annak kifizetésére – ha e törvény eltérően nem rendelkezik – a Pp. szabályait kell alkalmazni.
+
+(5) Az eljárásban felfüggesztésnek, szünetelésnek, beavatkozásnak és ideiglenes intézkedés elrendelésének nincs helye.
+
+(6) Az eljárásban a Pp. 148. §-a nem alkalmazható.
+
+(7) Az eljárásban a Pp. jegyzőkönyvre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a jegyzőkönyvet a közjegyző maga is felveheti, és a jegyzőkönyv folyamatos felvétel útján történő készítésének nincs helye.
+
+(8) Az eljárás lefolytatásának hivatalból is helye van, ha törvény így rendelkezik.
+
+(9) Az eljárás nem különül el perfelvételi és érdemi tárgyalási szakra. Azokat az eljárási cselekményeket, amelyek megtételét a Pp. a perfelvételt lezáró végzés meghozataláig teszi lehetővé, a közjegyző előtti eljárás befejezéséig lehet megtenni.
 
 ### Hirdetményi kézbesítés
 
-12/A. § Ha a kérelmező, illetve – azokban az eljárásokban, melyekben a kérelmezőnek ellenfelet kell megjelölnie – az ellenfél képviselővel nem rendelkezik és tartózkodási helye ismeretlen, vagy olyan államban van, amely a kézbesítéshez jogsegélyt nem nyújt, vagy ha a kézbesítés egyéb elháríthatatlan akadályba ütközik, illetőleg ha a kézbesítés megkísérlése már előre is eredménytelennek mutatkozik, a kézbesítést hirdetmény útján kell teljesíteni.
+12/A. § Ha a kérelmező, illetve – azokban az eljárásokban, melyekben a kérelmezőnek ellenfelet kell megjelölnie – az ellenfél képviselővel nem rendelkezik és tartózkodási helye ismeretlen, vagy olyan államban van, amely a kézbesítéshez jogsegélyt nem nyújt, vagy ha a kézbesítés egyéb elháríthatatlan akadályba ütközik, a kézbesítést hirdetmény útján kell teljesíteni.
 
 12/B. § A hirdetmény tartalma, közzététele, a közzétételhez fűződő jogkövetkezmények beállása, továbbá a hirdetményi kézbesítésről az országos kamara által vezetett nyilvántartás tekintetében a hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény hirdetményre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
@@ -137,7 +155,13 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) A határozat elleni fellebbezést a határozatot hozó közjegyzőnél kell előterjeszteni és a törvényszékhez kell címezni.
 
+(3) Az eljárásban az ügy érdemében is végzéssel kell határozni. Az eljárást befejező végzés ellen fellebbezésnek van helye.
+
+(4) A közjegyző a határozat jogerőre emelkedéséről a felet, illetve az egyéb érdekeltet a jogerőre emelkedéstől számított tizenöt napon belül értesíti. Az értesítés a jogerőt tanúsító végzés, ha pedig a fél, illetve az egyéb érdekelt részére a határozatot még nem kézbesítették, a határozat jogerőt tanúsító végzést tartalmazó kiadmányának megküldésével történik.
+
 14. § Ha a határozat több személyt vagy vagyontárgyat, illetve ügyet érint, és a határozatban foglalt egyes rendelkezések alapján történő intézkedésekhez a határozat rendelkező részét az abban foglaltak teljesítése céljából valamely hatóságnak, intézménynek (pl. ingatlanügyi hatóság, pénzügyi intézmény) vagy egyéb érdekeltnek meg kell küldeni, a közjegyző a határozatnak csak az adott személyre, és vagyontárgyra vonatkozó azon rendelkezését küldi meg, amely az intézkedés foganatosításához szükséges.
+
+14/A. § A perújítási eljárás lefolytatására az a bíróság rendelkezik hatáskörrel és illetékességgel, amely elsőfokú bíróságként járna el, ha az ügyben peres eljárásnak lenne helye. A perújítási kérelmet a bíróságon kell előterjeszteni; a bíróság hivatalból intézkedik a közjegyzői ügy iratainak beszerzése iránt.
 
 ### Az adatok védelme, iratkezelési szabályok
 
@@ -155,7 +179,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 17. § (1) Előzetes bizonyításnak van helye
 
-- a) a Pp. 207. §-ában szabályozott esetekben, továbbá akkor
+- a) a Pp. 334. §-ában szabályozott esetekben, továbbá akkor
 - b) ha a kérelmezőnek bizonyíték beszerzéséhez – különösen jelentős tény vagy állapot megállapításához – jogi érdeke fűződik.
 
 (2) Nincs helye előzetes bizonyításnak, ha az ügyben polgári per vagy büntetőeljárás van folyamatban.
@@ -181,11 +205,13 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) A területi kamara a közjegyző értesítését követően haladéktalanul másik közjegyzőt rendel ki az eljárás lefolytatására.
 
+20/A. § Az előzetes bizonyítást elrendelő végzés ellen nincs helye fellebbezésnek.
+
 ### Az igazságügyi szakértő kirendelése közjegyzői eljárásban
 
 21. § (1) Ha a kérelmező számára jelentős tény vagy egyéb körülmény megállapításához vagy megítéléséhez különleges szakértelem szükséges, a közjegyzőtől igazságügyi szakértő (e címben a továbbiakban: szakértő) kirendelése kérhető.
 
-(2) Az (1) bekezdés szerinti kérelmet a közjegyző elutasítja, ha abban a kérdésben, amelyre a szakértői véleményt a kérelmező be kívánja szerezni, a kérelmező által vagy ellene indított más bírósági eljárás, vagy a kérelmező ellen indított büntetőeljárás van folyamatban. Az e rendelkezés ellenére készült szakvélemény a kérelmező által vagy ellene indított bírósági eljárásban, illetve a kérelmező ellen indított büntetőeljárásban nem használható fel.
+(2) Az (1) bekezdés szerinti kérelmet a közjegyző visszautasítja, ha abban a kérdésben, amelyre a szakértői véleményt a kérelmező be kívánja szerezni, a kérelmező által vagy ellene indított más bírósági eljárás, vagy a kérelmező ellen indított büntetőeljárás van folyamatban. Az e rendelkezés ellenére készült szakvélemény a kérelmező által vagy ellene indított bírósági eljárásban, illetve a kérelmező ellen indított büntetőeljárásban nem használható fel.
 
 (3) A szakértő kirendelésére irányuló eljárásban – a szakértő kirendelése tárgyában – bizonyításnak nincs helye.
 
@@ -200,11 +226,13 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (2) Az igazságügyi szakértő kirendelése iránti kérelemben ellenfelet megjelölni nem kell.
 
-24. § A közjegyző a 7. § megfelelő alkalmazásával felhívja a kérelmezőt, hogy a szakértői díj fedezésére előreláthatólag szükséges összeget helyezze bizalmi őrzésbe. Ha a kérelmező a felhívásnak nem tesz eleget, a közjegyző a 7. § (3) bekezdése, valamint a 11. § (2) bekezdése megfelelő alkalmazásával a kérelmet elutasítja, illetve az eljárást megszünteti.
+24. § A közjegyző a 7. § megfelelő alkalmazásával felhívja a kérelmezőt, hogy a szakértői díj fedezésére előreláthatólag szükséges összeget helyezze bizalmi őrzésbe. Ha a kérelmező a felhívásnak nem tesz eleget, a közjegyző a 7. § (3) bekezdése, valamint a 11. § (2) bekezdése megfelelő alkalmazásával a kérelmet visszautasítja, illetve az eljárást megszünteti.
 
-25. § (1) A közjegyző a szakértői névjegyzékben szereplő igazságügyi szakértőt, szakvélemény adására feljogosított gazdasági társaságot, szakértői intézményt vagy külön jogszabályban meghatározott állami szervet, intézményt, szervezetet rendelhet ki szakértőként. Más szakértő csak ezek hiányában, kivételesen alkalmazható.
+25. § (1) A közjegyző szakértőként az igazságügyi szakértőkről szóló törvény szerinti szakértőt vagy az abban meghatározott eseti szakértőt rendelhet ki.
 
 (2) A kirendelésre kerülő szakértő személyéről – a fél meghallgatása nélkül – a közjegyző dönt.
+
+(3) A szakértői bizonyítást elrendelő és a szakértőt kirendelő végzés ellen nincs helye fellebbezésnek.
 
 26. § (1) A szakértő a szakvéleményt a szakértőt kirendelő végzés kézhezvételétől számított 30 napon belül köteles előterjeszteni. A közjegyző a szakértő – határidő lejárta előtt előterjesztett – kérelmére a határidőt egy alkalommal, legfeljebb 30 nappal meghosszabbíthatja.
 
@@ -218,7 +246,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (4) A szakértő díját megállapító végzés ellen a kérelmező és a szakértő fellebbezéssel élhet. A fellebbezésnek csak a kifogásolt összeg erejéig van halasztó hatálya.
 
-(5) A közjegyző a végzés jogerőre emelkedését követően intézkedik a szakértői díjnak a szakértő részére történő kifizetése iránt. A szakértői díj kifizetésére a szakértői díj kifizetését szabályozó jogszabály rendelkezései megfelelően irányadóak.
+(5) A közjegyző a végzés jogerőre emelkedését követően intézkedik a szakértői díjnak a szakértő részére történő kifizetése iránt. A szakértői díj kifizetésére a szakértői díj kifizetését szabályozó jogszabály rendelkezései megfelelően irányadóak. A szakértő a szakértői díj megfizetéséről a számlát a kérelmező nevére állítja ki.
 
 27/A. § A közjegyző a szakértői véleményt a kérelmezőn kívül kizárólag bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére küldheti meg, ha a megkereső törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére és megjelölte annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult. Ezek a szabályok alkalmazandók a szakértői véleménybe való betekintés engedélyezésére is.
 
@@ -264,7 +292,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (2) A valószínű örökösi bizonyítvány a kérelemtől eltérően nem állítható ki.
 
-(3) Ha a kérelmező a kérelem hiányait – ideértve a közjegyzői díj megfizetésének elmulasztását is – a hiányok pótlására vonatkozó felhívásban megszabott határidő alatt nem pótolja, a kérelmet érdemi vizsgálat nélkül el kell utasítani.
+(3) Ha a kérelmező a kérelem hiányait – ideértve a közjegyzői díj megfizetésének elmulasztását is – a hiányok pótlására vonatkozó felhívásban megszabott határidő alatt nem pótolja, a kérelmet vissza kell utasítani.
 
 27/E. § (1) A valószínű örökösi bizonyítvány kizárólag a vagyontárgy kiadására vonatkozó eljárásban a vagyontárgyat őrző közgyűjteménynél használható fel. Ezt a rendelkezést a valószínű örökösi bizonyítványban fel kell tüntetni.
 
@@ -278,7 +306,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (6) Határidőben előterjesztett kifogás esetén a közjegyző a valószínű örökösi bizonyítvány hatálytalanságát állapítja meg. A hatálytalanságot megállapító végzést a kifogás előterjesztőjének is kézbesíteni kell, de a végzés ellen a kifogás előterjesztője nem élhet fellebbezéssel.
 
-(7) Az elkésett kifogást a közjegyző érdemi vizsgálat nélkül elutasítja. A végzést a kifogás előterjesztőjének kell kézbesíteni, aki a végzés ellen fellebbezéssel élhet.
+(7) Az elkésett kifogást a közjegyző visszautasítja. A végzést a kifogás előterjesztőjének kell kézbesíteni, aki a végzés ellen fellebbezéssel élhet.
 
 (8) Ha a valószínű örökösi bizonyítvány ellen a (3) bekezdésben meghatározott határidőben kifogást nem terjesztettek elő, azt a kérelmezőnek kézbesíteni kell. A valószínű örökösi bizonyítványnak a kérelmező részére kézbesített példányán fel kell tüntetni, hogy az ellen a határidő alatt kifogást a közjegyzőhöz nem terjesztettek elő.
 
@@ -287,16 +315,69 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 27/F. § (1) Az eljárásban
 
 - a) igazolásnak és bizonyításnak nincs helye,
-- b) a Pp. 132. §-a nem alkalmazható,
+- b) a Pp. 178. §-a nem alkalmazható,
 - c) a fellebbezést a feleknek észrevételezésre kiadni nem kell.
 
-(2) Az eljárásban a Pp.-nek a kézbesítési megbízottra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a közjegyző a kérelmet, valamint a kifogást – hiánypótlási felhívás nélkül – hivatalból elutasítja, ha a kérelmező a kérelem előterjesztésével, a kifogás előterjesztője a kifogás előterjesztésével egyidejűleg a kézbesítési megbízott megjelölésére és a vele kötött megbízási szerződés benyújtására vonatkozó kötelezettségének szabályszerűen nem tett eleget.
+(2) Az eljárásban a Pp.-nek a kézbesítési megbízottra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a közjegyző a kérelmet, valamint a kifogást – hiánypótlási felhívás nélkül – visszautasítja, ha a kérelmező a kérelem előterjesztésével, a kifogás előterjesztője a kifogás előterjesztésével egyidejűleg a kézbesítési megbízott megjelölésére és a vele kötött megbízási szerződés benyújtására vonatkozó kötelezettségének szabályszerűen nem tett eleget.
 
 (3) Ha a fél a kézbesítési megbízott állítására vonatkozó kötelezettségének nem tett szabályszerűen eleget – ideértve azt is, ha a kézbesítési megbízott állítására vonatkozó kötelezettség a kérelem vagy a kifogás előterjesztése után következett be, és a fél a kézbesítési megbízott megjelölését előidéző ok bekövetkezésével egyidejűleg, külön felhívás nélkül a kézbesítési megbízott megjelölésére és a vele kötött megbízási szerződés benyújtására vonatkozó kötelezettségének nem tett eleget –, vagy az iratokat a kézbesítési megbízott részére nem lehet kézbesíteni, a közjegyző az iratot hirdetmény útján kézbesíti. A hirdetményt kifüggeszteni nem kell, azt a Pp.-nek a hirdetmény bíróságok központi honlapján történő közzététele szabályai megfelelő alkalmazásával, kizárólag az országos kamara honlapján kell közzétenni.
 
 (4) A közjegyző az iratot is a fentiek szerinti módon, hirdetmény útján kézbesíti annak a félnek is, akinek az irat azért nem volt kézbesíthető, mert az általa megadott címen a posta közlése szerint a címzett fél ismeretlen vagy onnan ismeretlen helyre költözött, avagy a kézbesítés a posta közlése szerint a levélszekrény hiánya miatt nem volt teljesíthető.
 
 27/G. § A közjegyző a kérelem előterjesztéséért megfizetett díjról a valószínű örökösi bizonyítvány vagy az annak hatálytalanságát megállapító végzés kézbesítésével együtt a kérelmezőnek a megfizetett díj összegét feltüntető elismervényt is kézbesít. A megfizetett díjat az állam viseli. A kérelmezőnek a díjat az állami tulajdonjog gyakorlója téríti meg az elismervény alapján.
+
+### A közjegyző előtti egyezségi eljárás
+
+27/H. § (1) Keresetindítás előtt a közjegyzőtől polgári peres útra tartozó ügyben egyezségi kísérletre idézést lehet kérni. Az idézést kérő félnek a határnapot szóval is tudtára lehet adni.
+
+(2) Közjegyző előtti egyezségi eljárásnak akkor van helye, ha legalább az egyik fél rendelkezik belföldi lakóhellyel (székhellyel), valamint az eljárás tárgyáról a felek szabadon rendelkezhetnek.
+
+(3) Nincs helye közjegyző előtti egyezségi eljárásnak
+
+- a) szerzői jogi, szomszédos jogi és iparjogvédelmi ügyben,
+- b) a közhatalom gyakorlásával kapcsolatos kártérítés, illetve sérelemdíj megfizetése tárgyában,
+- c) a közérdekből indított perekkel összefüggő ügyben,
+- d) a jogi személyek alapításával és törvényes működésével kapcsolatos ügyben,
+- e) a jogi személyek és tagjaik, volt tagjaik közötti, illetve a tagok, volt tagok egymás közötti, a tagsági jogviszonyon alapuló ügyben,
+- f) a személyi állapotot érintő és egyéb családjogi tárgyú ügyben,
+- g) a végrehajtási perre tartozó ügyben,
+- h) munkaügyi perre tartozó ügyben,
+- i) állami vagyonnal kapcsolatos ügyben,
+- j) olyan ügyben, amelyben külföldi anyagi jogot – ide nem értve a külföldi nemzetközi magánjogi szabályokat – kell alkalmazni.
+
+27/I. § (1) Ha az ügy tárgya időszakos szolgáltatás teljesítésére irányuló kötelezettség, az eljárásra az a közjegyző is illetékes, akinek az illetékességi területén az igény érvényesítésére jogosult lakóhelye található.
+
+(2) Ha az ügy tárgya az ingatlan tulajdona, birtoka vagy ingatlant terhelő dologi jog, az eljárásra az a közjegyző is illetékes, akinek az illetékességi területén az ingatlan fekszik.
+
+(3) Ha az ügy tárgya a gazdálkodó szervezet által tevékenysége körében kötött ügyletből eredő kötelezettség, az eljárásra az a közjegyző is illetékes, akinek az illetékességi területén az ügyletkötés vagy a teljesítés helye található.
+
+(4) Ha az ügy tárgya kártérítés, az eljárásra az a közjegyző is illetékes, akinek az illetékességi területén a károkozás vagy a kár bekövetkeztének a helye található.
+
+27/J. § (1) A közjegyző előtti egyezségi eljárásban az egyezségi kísérletre kitűzött határnap elmulasztása miatt igazolásnak nincs helye.
+
+(2) Az eljárásban beavatkozásnak nincs helye.
+
+(3) Az eljárás felfüggesztésének, szünetelésének vagy félbeszakadásának nincs helye. Az eljárás felfüggesztése, félbeszakadásának vagy szünetelésének megállapítása helyett az eljárást meg kell szüntetni.
+
+(4) Ha az eljárás során a felek személyében változás következik be, az eljárást meg kell szüntetni.
+
+(5) Az eljárásban bizonyítás felvételének nincs helye.
+
+27/K. § (1) Ha az eljárás lefolytatásának e törvény szerinti feltételei nem állnak fenn, a közjegyző a kérelmet visszautasítja.
+
+(2) Ha a felek egyezsége a jogszabályoknak megfelel, a közjegyző azt végzéssel jóváhagyja, ellenkező esetben a jóváhagyást megtagadja.
+
+(3) A közjegyző végzésével jóváhagyott egyezség a bíróság által jóváhagyott egyezséggel azonos hatályú.
+
+(4) Az egyezséget jóváhagyó vagy azt megtagadó végzés ellen külön fellebbezésnek van helye. A jóváhagyó végzés elleni fellebbezésnek az egyezség végrehajtására halasztó hatálya van.
+
+(5) Ha a felek között egyezség nem jött létre – ideértve azt is, ha az egyezségi kísérletre kitűzött határnapon bármelyik fél nem jelenik meg –, a közjegyző az eljárást megszünteti.
+
+(6) A közjegyző az eljárást megszünteti akkor is, ha tudomására jut, hogy abban a tárgyban, amelyre az eljárás vonatkozik valamelyik fél a bírósághoz keresetlevelet nyújtott be, vagy másik közjegyző előtt korábban indult egyezségi eljárás van folyamatban.
+
+(7) Ha az egyezség hatályosságához harmadik személy vagy hatóság beleegyezése vagy jóváhagyása szükséges, annak bemutatására a közjegyző a feleknek megfelelő határidőt szab. Ha a határidő eredménytelenül telt el, vagy a hatóság, illetve a harmadik személy a beleegyezést, jóváhagyást nem adta meg, a közjegyző az egyezség jóváhagyását megtagadja.
+
+27/L. § A 27/H–27/K. § rendelkezéseit kell megfelelően alkalmazni akkor is, ha a felek idézés nélkül egyezségkötés céljából jelennek meg a közjegyző előtt.
 
 ### Értékpapír és okirat semmissé nyilvánítása
 
@@ -313,7 +394,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (2) A kérelemhez csatolni kell az értékpapír másolatát, amennyiben az rendelkezésre áll.
 
-31. § (1) Ha nincs helye hiánypótlásra való felhívás kibocsátásának vagy a kérelem elutasításának, a közjegyző hirdetményt tesz közzé.
+31. § (1) Ha nincs helye hiánypótlásra való felhívás kibocsátásának vagy a kérelem visszautasításának, a közjegyző hirdetményt tesz közzé.
 
 (2) A hirdetmény tartalmazza
 
@@ -327,7 +408,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (5) A közjegyző a hirdetmény közzétételéről a kérelmezőt, az értékpapír kiállítóját (kibocsátóját), a központi értéktárat és az eljárásban fellépett egyéb érdekeltet is értesíti.
 
-32. § A közjegyző a kérelmet a hirdetmény közzététele nélkül elutasítja, ha
+32. § A közjegyző a kérelmet a hirdetmény közzététele nélkül visszautasítja, ha
 
 - a) az értékpapír semmissé nyilvánítása iránt már eljárás van folyamatban,
 - b) az értékpapír semmissé nyilvánítása nem tartozik közjegyzői hatáskörbe,
@@ -364,7 +445,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 - a) azt a bejegyzett élettársak befolyásmentesen, közösen kérik,
 - b) egyik bejegyzett élettársnak sincs olyan gyermeke, akinek tartására a bejegyzett élettársak közösen kötelezettek, és
-- c) a bejegyzett élettársak az őket egymással szemben terhelő, jogszabályon alapuló tartás, a közös lakás használata, valamint – az ingatlanon fennálló közös tulajdon megszüntetése kivételével – a bejegyzett élettársi közös vagyon megosztása kérdésében közjegyzői okiratba vagy ügyvéd által ellenjegyzett magánokiratba foglaltan megegyeztek.
+- c) a bejegyzett élettársak – ez iránti igény esetén – az őket egymással szemben terhelő, jogszabályon alapuló tartás, valamint a közös lakás használata kérdésében közjegyzői okiratba vagy ügyvéd által ellenjegyzett magánokiratba foglaltan megegyeztek.
 
 (2) Az (1) bekezdés c) pont szerinti közokirat elkészítésére az a közjegyző is jogosult, aki a bejegyzett élettársi kapcsolatot nemperes eljárásban megszünteti.
 
@@ -379,7 +460,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (6) A bejegyzett élettársi kapcsolat megszüntetésére irányuló eljárás lefolytatására – a felek választása szerint – az a közjegyző illetékes, akinek az illetékességi területén a kérelmezők utolsó közös lakóhelye volt, vagy akinek az illetékességi területén a felek valamelyikének lakóhelye van. Ha a kérelem előterjesztésekor a feleknek nincs belföldi lakóhelye, az eljárást a bejegyzett élettársi kapcsolatot az anyakönyvvbe bejegyző anyakönyvvezető illetékességi területe szerint illetékes közjegyző folytatja le.
 
-36/B. § (1) A közjegyző a feleket a kérelem beérkezésétől vagy a hiányok pótlásától számított 30 napon belül személyesen meghallgatja, kivéve, ha a kérelem érdemi vizsgálat nélküli elutasításának van helye.
+36/B. § (1) A közjegyző a feleket a kérelem beérkezésétől vagy a hiányok pótlásától számított 30 napon belül személyesen meghallgatja, kivéve, ha a kérelem visszautasításának van helye.
 
 (2) A közjegyző a személyesen megjelent feleket a kérelmükről, megállapodásukról és a bejegyzett élettársi kapcsolat megszüntetése feltételeinek fennállásáról meghallgatja.
 
@@ -399,7 +480,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (2) A közjegyző a felek kérelmére az eljárást befejező végzésében rendelkezik az eljárásért fizetendő – a közjegyzői díjon és költségtérítésen kívüli egyéb – eljárási költségekről.
 
-(3) A felek egyezségét jóváhagyó végzés a bíróság által jóváhagyott egyezséggel, a bejegyzett élettársi kapcsolatot megszüntető végzés pedig a bíróság ítéletével azonos hatályú. A végzések ellen nincs helye felülvizsgálati kérelemnek.
+(3) A felek egyezségét jóváhagyó végzés a bíróság által jóváhagyott egyezséggel, a bejegyzett élettársi kapcsolatot megszüntető végzés pedig a bíróság ítéletével azonos hatályú. A végzések ellen felülvizsgálatnak nincs helye. A bejegyzett élettársi kapcsolatot megszüntető végzés ellen perújításnak nincs helye.
 
 (4) A közjegyző a bejegyzett élettársi kapcsolatot megszüntető végzést öt munkanapon belül megküldi az illetékes anyakönyvvezetőnek.
 
@@ -449,7 +530,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (3) Élettársi kapcsolatra vonatkozó nyilatkozatot csak személyesen lehet tenni. A közjegyző a kérelmező személyazonosságáról a közjegyzői okirat elkészítése szabályainak alkalmazásával győződik meg.
 
-(4) A közjegyzőnek az élettársi nyilvántartásba történő bejegyzésről szóló végzése tartalmazza a nyilvántartásba bejegyzésre kerülő adatokat is; a jogerős végzésének ugyanaz a hatálya, mint a bíróság jogerős ítéletének. A közjegyző az élettársi nyilvántartásba az adatokat a végzés meghozatalával egyidejűleg, a fellebbezésre tekintet nélkül jegyzi be.
+(4) A közjegyzőnek az élettársi nyilvántartásba történő bejegyzésről szóló végzése tartalmazza a nyilvántartásba bejegyzésre kerülő adatokat is. A közjegyző az élettársi nyilvántartásba az adatokat a végzés meghozatalával egyidejűleg, a fellebbezésre tekintet nélkül jegyzi be.
 
 (5) Ha a közjegyző csak az egyik élettárs nyilatkozata alapján jegyezte be az élettársi kapcsolat fenn nem állásáról szóló nyilatkozatot, az erről szóló végzést a másik élettársnak is kézbesíti. Az értesítési cím megállapítása céljából a közjegyző térítésmentesen, elektronikus úton adatot igényel a polgárok személyi adatainak és lakcímének nyilvántartásából.
 
@@ -498,7 +579,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 
 (2) A kérelmet a vagyonjogi szerződést megkötő felek személyesen – közösen – terjeszthetik elő. A közjegyző a kérelmezők személyazonosságáról a közjegyzői okirat elkészítése szabályainak alkalmazásával győződik meg.
 
-(3) A közjegyző illetékességét a házastársak, illetve az élettársak bármelyikének lakóhelye vagy tartózkodási helye megalapítja.
+(3) A közjegyző illetékességét a házastársak, illetve az élettársak bármelyikének lakóhelye vagy tartózkodási helye megalapítja. A házassági vagy élettársi vagyonjogi szerződés közokiratba foglalása esetén a közokiratot készítő közjegyző is illetékes a szerződés nyilvántartásba való bejegyzésére.
 
 36/J. § (1) Ha a közjegyző vagyonjogi szerződést foglal közjegyzői okiratba, ennek tényét a közjegyzői okirat elkészítésével egyidejűleg csak a szerződést kötő felek közös kérelmére jegyzi be a nyilvántartásba, a jelen alcím szerinti eljárásban.
 
@@ -551,7 +632,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 
 (9) Az országos kamarának biztosítania kell az adatok megismeréséhez szükséges technikai eszközöket. A napló adatait az országos kamara a (2) bekezdésnek megfelelően eljárva továbbítja.
 
-(10) A hagyatéki ügyben eljáró közjegyző az örökhagyó esetleges vagyonjogi szerződése iránti tudakozódás céljából elektronikus úton megkeresi a nyilvántartást, valamint a bejegyzett adatok alapján a vagyonjogi szerződést beszerzi.
+(10)
 
 ### A közjegyző letéti eljárása
 
@@ -569,7 +650,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 - b) a letétbehelyezéssel teljesítendő kötelezettség keletkezett, vagy
 - c) a teljesítés helye van.
 
-(2) Ha a közjegyző a letét elfogadása iránti kérelmet elutasítja, erről végzést hoz, és azt a letéti kérelmet előterjesztőnek kézbesíti, a végzés jogerőre emelkedését követően pedig intézkedik a letétbe helyezni kívánt pénzösszeg visszafizetése iránt.
+(2) Ha a közjegyző a letét elfogadása iránti kérelmet visszautasítja vagy elutasítja, erről végzést hoz, és azt a letéti kérelmet előterjesztőnek kézbesíti, a végzés jogerőre emelkedését követően pedig intézkedik a letétbe helyezni kívánt pénzösszeg visszafizetése iránt.
 
 (3) A közjegyző a letét elfogadásáról külön végzést nem hoz, hanem a letéti kérelmet „A közjegyző a letétet elfogadta” záradékkal látja el.
 
@@ -598,7 +679,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 - a) természetes személy halála esetén a jogerős teljes hatályú hagyatékátadó (rész-hagyatékátadó) végzést,
 - b) cégjegyzékbe bejegyzett szervezet esetén a cégmásolatot, amelyből megállapítható, hogy a jogelőd megszűnt és a cégirat szétválási szerződés másolatát,
 - c) a civil és az egyéb cégnek nem minősülő szervezetek nyilvántartásában szereplő szervezet esetén a másolatot, amelyből megállapítható, hogy a jogelőd megszűnt és a bírósághoz benyújtott szétválási szerződés bíróság által kiadott másolatát,
-- d) – a b) és c) pont szerinti nyilvántartásban nem szereplő szervezet esetén – a jogutódlásról rendelkező jogerős bírósági, hatósági határozatot vagy a jogutódlást igazoló egyéb iratot.
+- d) – a b) és c) pont szerinti nyilvántartásban nem szereplő szervezet esetén – a jogutódlásról rendelkező jogerős bírósági, vagy végleges hatósági határozatot vagy a jogutódlást igazoló egyéb iratot.
 
 (2a) Ha a cégjegyzékbe bejegyzett szervezet a cégmásolatot nem csatolja a kérelemhez, a közjegyző a cégmásolatot a cégnyilvántartásból elektronikus úton szerzi be.
 
@@ -633,13 +714,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 
 ### Átmeneti rendelkezés
 
-39. § (1) E törvénynek az értékpapírok és okiratok semmissé nyilvánítására vonatkozó rendelkezéseit a polgári perrendtartásról szóló 1952. évi III. törvény (Pp.) hatálybaléptetése folytán szükséges rendelkezések tárgyában szóló 105/1952. (XII. 28.) MT rendelet szerint az elveszett értékpapír vagy okirat megsemmisítése iránt folyamatban levő eljárásokban is alkalmazni kell azzal, hogy a törvény hatálybalépése előtt elvégzett eljárási cselekmények megtartják hatályukat és jogkövetkezményeik fennmaradnak.
-
-(2) Ha az elveszett értékpapír vagy okirat megsemmisítése iránti eljárásban a közjegyző a törvény hatálybalépését megelőzően hirdetményt bocsátott ki, annak a hirdetmény e törvény szerinti adatait tartalmazó kivonatát a törvény hatálybalépését követő 30 napon belül megküldi az országos kamarának, amely gondoskodik a hirdetmény kivonatának közzétételéről. A hirdetmény kivonatában az értékpapír vagy okirat bemutatására nyitva álló határidő kezdő időpontjaként a hirdetmény bíróság hirdetőtábláján történő kifüggesztésének időpontját kell feltüntetni.
-
-(3) Az elveszett értékpapír vagy okirat megsemmisítése iránti eljárásban a hirdetményi határidő 1 év.
-
-(4) A hirdetmény kivonatának közzétételére a hirdetmény közzétételére vonatkozó szabályokat megfelelően alkalmazni kell.
+39. §
 
 ### Az Európai Unió jogának való megfelelés
 

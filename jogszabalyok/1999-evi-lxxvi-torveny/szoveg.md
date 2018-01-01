@@ -466,38 +466,55 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (8) Az árva művek felhasználásának engedélyezésével kapcsolatos részletes szabályokat és a (7) bekezdés szerinti díj mértékét kormányrendelet állapítja meg.
 
-41/C. § (1) A Hivatal a 41/B. §-ban szabályozott eljárásban – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+41/C. § (1) A Hivatal a 41/B. §-ban szabályozott eljárásban – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
 
-(2) A közigazgatási hatósági eljárás általános szabályairól szóló törvényt a következő eltérésekkel kell alkalmazni:
+(2) Az általános közigazgatási rendtartásról szóló törvényt a következő eltérésekkel és kiegészítésekkel kell alkalmazni:
 
-- a) nem alkalmazhatóak a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek azok a rendelkezései, amelyek az eljárás megindításával kapcsolatos – hivatalból vagy kérelemre történő – értesítésre vonatkoznak;
-- b) a Hivatal a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja;
-- c) nem alkalmazhatóak a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a határozat közzétételére, az ügygondnokra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései;
-- d) a Hivatal döntéseivel szemben nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti felhívás kibocsátásnak, a Hivatal határozatát, valamint azokat a végzéseit, amelyekkel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerint önálló fellebbezésnek van helye, a bíróság – a 41/D. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül;
-- e) nincs helye közmeghallgatásnak.
+- a) a Hivatal a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja;
+- b) a kérelem a kormányabaknál nem terjeszthető elő;
+- c) nem alkalmazható az általános közigazgatási rendtartásról szóló törvény 26. §-a;
+- d) nem alkalmazhatóak az általános közigazgatási rendtartásról szóló törvénynek a határozat közhírré tételére, az ügygondnokra, a sommás eljárásra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései;
+- e) a Hivatal döntéseivel szemben nincs helye az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek, a Hivatal határozatát, valamint azokat a végzéseit, amelyekkel szemben az általános közigazgatási rendtartásról szóló törvény szerint önálló fellebbezésnek van helye, a bíróság – a 41/D. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
 
 (3) A 41/B. §-ban szabályozott eljárásban – tájékoztatás kérése és annak teljesítése, valamint az iratokba való betekintés kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye azzal, hogy az ügyfél adatainak változásáról más hatóságtól kapott értesítés nem tekinthető írásban előterjesztett kérelemnek, tájékoztatás pedig nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján. Az eljárásban rövid szöveges üzenet útján nincs helye kapcsolattartásnak. A kérelemre megtekinthető iratokba való betekintést a Hivatal személyes megjelenéshez kötötten biztosítja.
 
 (4) A Hivatal által hozott határozat felülvizsgálatát az ügyész is kérheti, az eljárás megindítására a Fővárosi Főügyészség rendelkezik kizárólagos illetékességgel. A Hivatal a határozatát a Fővárosi Főügyészséggel is közli.
 
-41/D. § (1) A 41/C. § (1) bekezdés d) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Hivatalnál kell benyújtani, amely azt az ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz.
+41/D. § (1) A 41/C. § (1) bekezdés e) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Hivatalnál kell benyújtani, amely azt az ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz.
 
 (2) Ha a kérelem elvi jelentőségű jogkérdést vet fel, a Hivatal e kérdésben írásbeli nyilatkozatot tehet és azt a kérelemmel, valamint az ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
-(3) Az (1) bekezdés szerinti kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
+(3) Az (1) bekezdés szerinti kérelem bevezető részében fel kell tüntetni:
+
+- a) az eljáró bíróság megnevezését,
+- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több jogi képviselő esetén a hivatalos iratok átvételére kijelölt jogi képviselő nevét.
+
+(3a) A kérelem érdemi részében fel kell tüntetni:
+
+- a) a kérelemmel érintett döntés számát, valamint a döntésnek a kérelem által érintett rendelkezését vagy részét,
+- b) a döntés bíróság általi felülvizsgálatára irányuló határozott kérelmet, valamint
+- c) a döntés megváltoztatásának szükségességét alátámasztó indokokat az ezeket alátámasztó bizonyítékokkal és a jogalap megjelölésével.
+
+(3b) A kérelem záró részében fel kell tüntetni:
+
+- a) a bíróság hatáskörét és illetékességét megalapozó tényeket és jogszabályhelyet,
+- b) a megfizetett illeték összegét és megfizetési módját, vagy az eljárási illeték részleges megfizetésének hiányában a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az ennek alapjául szolgáló tényeket és jogszabályhelyet,
+- c) a meghatalmazott képviseleti jogát megalapozó tényeket és jogszabályhelyet, valamint
+- d) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
 
 (4) Ha az (1) bekezdés szerinti kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
-(5) A 41/C. § (1) bekezdés d) pontja szerinti nemperes eljárásra a polgári perrendtartásról szóló törvény általános szabályait – az e törvényben meghatározott és a nemperes eljárás sajátosságaiból fakadó eltérésekkel – kell alkalmazni.
+(5) A 41/C. § (2) bekezdés e) pontja szerinti nemperes eljárásban azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
-(6) Ha a Hivatal döntésének felülvizsgálatát a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a felülvizsgálati kérelem előterjesztésének határideje az alkotmánybírósági döntés kézbesítésétől számított harminc napra ismételten megnyílik.
+(6)
 
-(7) A Hivatal döntésének felülvizsgálatára irányuló eljárás a Fővárosi Törvényszék hatáskörébe és kizárólagos illetékessége alá tartozik.
+(7) A Hivatal döntésének felülvizsgálatára irányuló eljárás lefolytatására a Fővárosi Törvényszék kizárólagosan illetékes.
 
-(8) A polgári perrendtartásról szóló törvény általános szabályaiban meghatározott eseteken kívül az ügy elintézéséből ki van zárva és abban mint bíró nem vehet részt, aki
+(8) A Pp.-ben meghatározott eseteken kívül az ügy elintézéséből ki van zárva és abban mint bíró nem vehet részt, aki
 
 - a) a Hivatal döntésének meghozatalában részt vett,
-- b) az a) pontban említett személynek a polgári perrendtartásról szóló törvény általános – a bírák kizárására vonatkozó – szabályaiban megjelölt hozzátartozója.
+- b) az a) pontban említett személynek a Polgári Törvénykönyv szerinti hozzátartozója.
 
 (9) A (8) bekezdés rendelkezéseit a jegyzőkönyvvezetők és a szakértők kizárására is alkalmazni kell.
 
@@ -509,15 +526,21 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (13) Ha a Hivatal a (2) bekezdés szerinti írásbeli nyilatkozatot tett, az eljáró tanács elnöke e nyilatkozatot írásban közli a féllel, illetve a felekkel.
 
+(13a) A bíróság a Pp. szabályai szerint bizonyítást folytat le, és a Pp. érdemi tárgyalásra vonatkozó szabályai szerint tart tárgyalást. Az eljárásban szünetelésnek helye nincs.
+
 (14) Ha az ügy az iratok alapján elbírálható, a bíróság tárgyaláson kívül is hozhat határozatot, azonban a felet – kérésére – meg kell hallgatnia.
 
 (15) Ha a bíróság az ügyet tárgyaláson kívül bírálja el, de az eljárás folyamán szükségét látja a tárgyalás megtartásának, a tárgyalást bármikor kitűzheti.
+
+(15a) Ha a kérelmező, illetve egyik fél sem jelenik meg a tárgyaláson, vagy a megszabott határidő alatt a bíróság felhívásának bármelyik fél nem tesz eleget, a bíróság a kérelmet a rendelkezésre álló adatok alapján bírálja el.
 
 (16) A bírósági eljárásban nincs helye egyezségnek.
 
 (17) A bíróság mind az ügy érdemében, mind egyéb esetekben végzéssel határoz. A bíróság – az ügy érdemére ki nem ható eljárási szabály megsértésének kivételével – jogszabálysértés megállapítása esetén a Hivatal döntését hatályon kívül helyezi és szükség esetén a Hivatalt új eljárásra kötelezi.
 
 (18) Ha a kérelem bírósághoz való továbbítását követően a Hivatal a döntését visszavonta, a bíróság az eljárást megszünteti. Ha a Hivatal a döntését módosította, a bírósági eljárás folytatásának csak a még vitás kérdésekben van helye.
+
+(19) A bíróság előtti eljárásban a jogi képviselet kötelező, ideértve a jogorvoslati eljárásokat is.
 
 41/E. §
 
@@ -1100,38 +1123,38 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (11) Ha a jogosult a 35. § (8) bekezdésére figyelemmel az (1) bekezdés e) pontja, illetve a (2) bekezdés alapján igényt érvényesít, a gazdagodás, illetve a kártérítés mértékének megállapításakor figyelembe kell venni a többszörözéshez igénybe vett kép-, illetve hanghordozót terhelő és megfizetett díj mértékét.
 
-94/A. § (1) A szerzői jog megsértése miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a kérelmező különös méltánylást érdemlő jogvédelméhez szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a mű szerzői jogi védelem alatt áll, valamint, hogy ő a szerző, a szerző jogutóda vagy a mű olyan felhasználója, illetve a szerzői jogok közös kezelését végző olyan szervezet, amely jogosult saját nevében fellépni a jogsértéssel szemben.
+94/A. § (1) A szerzői jog megsértése miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a Pp. 103. § (1) bekezdés d) pontja szerinti különös méltánylást érdemlő okból szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a mű szerzői jogi védelem alatt áll, valamint, hogy ő a szerző, a szerző jogutódja vagy a mű olyan felhasználója, illetve a szerzői jogok közös kezelését végző olyan szervezet, amely jogosult saját nevében fellépni a jogsértéssel szemben.
 
 (2) Az (1) bekezdés nem alkalmazható, ha a szerzői jog megsértésének megkezdése óta hat hónap, illetve a kérelmezőnek a jogsértésről és a jogsértő személyéről való tudomásszerzése óta hatvan nap már eltelt.
 
-(3) A szerzői jog megsértése esetén ideiglenes intézkedés iránti kérelem a keresetlevél benyújtását megelőzően is előterjeszthető, amelyet a bíróság nemperes eljárásban bírál el. Az ideiglenes intézkedés iránti nemperes eljárásra e törvény, valamint a Pp. általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók. Ha a kérelmező a (7) bekezdésben foglaltak szerint a szerzői jog megsértése miatt a pert megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
+(3) A szerzői jog megsértése vagy annak közvetlenül fenyegető veszélye esetén ideiglenes intézkedés iránti kérelem előterjeszthető a keresetlevél benyújtását megelőzően a Pp. perindítást megelőző ideiglenes intézkedésre vonatkozó rendelkezéseiben előírt többletfeltételek hiányában is. Az ideiglenes intézkedés iránti nemperes eljárásra, e törvény eltérő rendelkezése hiányában, a polgári perrendtartásról szóló törvény szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni. Ha a kérelmező a (7) bekezdésben foglaltak szerint a szerzői jog megsértése miatt a pert megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
 
 (4) A szerző – a jogsértés esetén támasztható polgári jogi igényeken felül – az ideiglenes intézkedésre vonatkozó feltételekkel kérheti a bíróságtól
 
 - a) biztosítási intézkedés elrendelését a bírósági végrehajtásról szóló törvény szabályai szerint, ha valószínűsítette, hogy a kártérítés, illetve a jogsértéssel elért gazdagodás visszatérítése iránti követelésének későbbi kielégítése veszélyben van, és a jogsértés kereskedelmi mértékű [94. § (5) bek.];
 - b) a jogsértő kötelezését banki, pénzügyi és kereskedelmi adatainak és iratainak közlésére, illetve bemutatására az a) pont szerinti biztosítási intézkedés elrendelése céljából;
-- c) biztosíték adását, ha ennek fejében – a jogsértés abbahagyásának követelése helyett – hozzájárul a feltételezett jogsértő cselekmények jogsértő általi folytatásához.
+- c) ellenbiztosíték adását, ha ennek fejében – a jogsértés abbahagyásának követelése helyett – hozzájárul a feltételezett jogsértő cselekmények jogsértő általi folytatásához.
 
-(5) A biztosíték letételét a (4) bekezdés c) pontja alapján a bíróság a szerző erre irányuló kérelme hiányában is elrendelheti, feltéve, hogy a szerző előterjesztett kérelmet a jogsértés abbahagyása iránt, és annak a bíróság nem ad helyt.
+(5) Az ellenbiztosíték adását a (4) bekezdés c) pontja alapján a bíróság a szerző erre irányuló kérelme hiányában is elrendelheti, feltéve, hogy a szerző előterjesztett kérelmet a jogsértés abbahagyása iránt, és annak a bíróság nem ad helyt.
 
-(6) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül határoz. Az ideiglenes intézkedés tárgyában hozott határozat elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
+(6) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz. Az ideiglenes intézkedés tárgyában hozott végzés elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
 
-(7) A bíróság a keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés tárgyában – a (4) és az (5) bekezdést is ideértve – hozott határozatát az ellenfél kérelmére hatályon kívül helyezi, ha a szerző a pert a szerzői jog megsértése miatt az ideiglenes intézkedéssel érvényesített követelés tárgyában nem indította meg a határozat közlésétől számított tizenöt napon belül. A bíróság az ideiglenes intézkedés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül határoz.
+(7) A bíróság a keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés iránti kérelem – a (4) és (5) bekezdés alapján elrendelhető intézkedéseket is ideértve – tárgyában hozott végzését az ellenérdekű fél kérelmére hatályon kívül helyezi, ha a szerző a pert a szerzői jog megsértése miatt az ideiglenes intézkedéssel érvényesített követelés tárgyában nem indította meg a végzés közlésétől számított tizenöt napon belül. A bíróság az ideiglenes intézkedés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz.
 
-(8) Ha a szerzői jog megsértése miatt indított perben az egyik fél tényállításait már elvárható mértékben valószínűsítette, a bíróság a bizonyító fél kérelmére az ellenfelet kötelezheti
+(8) Ha a szerzői jog megsértése miatt indított perben az egyik fél tényállításait már elvárható mértékben valószínűsítette, a bíróság a bizonyító fél kérelmére az ellenérdekű felet kötelezheti
 
 - a) a birtokában lévő okirat és egyéb tárgyi bizonyíték bemutatására, valamint a szemle lehetővé tételére;
 - b) kereskedelmi mértékű [94. § (5) bek.] jogsértés esetén banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában lévő ilyen iratok bemutatására.
 
-(9) Előzetes bizonyításnak a per megindítása előtt helye van akkor is, ha a szerző a jogsértés tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Ha a per még nem indult meg, az előzetes bizonyítást a szerző lakóhelye szerint illetékes megyei bíróságnál vagy annál a törvényszéknél lehet kérni, amelynek területén a bizonyítás a legcélszerűbben folytatható le. Az előzetes bizonyítás elrendelésének kérdésében hozott határozat ellen fellebbezésnek van helye.
+(9) Előzetes bizonyításnak a per megindítása előtt helye van akkor is, ha a szerző a jogsértés tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Az előzetes bizonyítást elutasító végzés ellen fellebbezésnek van helye, amelyet a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül végzéssel bírál el. Ha a per még nem indult meg, az előzetes bizonyítást a szerző lakóhelye szerint illetékes törvényszéknél vagy annál a törvényszéknél lehet kérni, amelynek területén a bizonyítás a legcélszerűbben folytatható le.
 
-(10) A bíróság az előzetes bizonyítást elrendelő határozatot az ellenfél kérelmére hatályon kívül helyezi, ha a szerző a pert a szerzői jog megsértése miatt nem indította meg az előzetes bizonyítást elrendelő határozat közlésétől számított tizenöt napon belül. A bíróság az előzetes bizonyítás hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül határoz.
+(10) A bíróság az előzetes bizonyítást elrendelő végzést az ellenérdekű fél kérelmére hatályon kívül helyezi, ha a szerző a pert a szerzői jog megsértése miatt nem indította meg az előzetes bizonyítást elrendelő végzés közlésétől számított tizenöt napon belül. A bíróság az előzetes bizonyítást elrendelő végzés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz.
 
-(11) Ha a késedelem helyrehozhatatlan károkat okozna, az a rendkívül sürgős szükség esetének minősül, és erre figyelemmel az ideiglenes intézkedés – ideértve a (4) és az (5) bekezdést is – elrendelésének kérdésében az ellenfél meghallgatása mellőzhető. Ha a késedelem helyrehozhatatlan károkat okozna, vagy ha valószínűsíthető a bizonyítékok megsemmisítésének kockázata, az sürgős esetnek minősül, és erre figyelemmel az előzetes bizonyítás elrendelésének kérdésében az ellenfél meghallgatása mellőzhető. Az ellenfél meghallgatásának mellőzésével hozott határozatot az ellenféllel a foganatosításkor kell közölni. A határozat közlését követően az ellenfél kérheti a meghallgatását és az ideiglenes intézkedést, illetve az előzetes bizonyítást elrendelő határozat megváltoztatását vagy hatályon kívül helyezését.
+(11) Az ideiglenes intézkedés – ideértve a (4) és (5) bekezdés alapján elrendelhető intézkedéseket is – elrendelésének kérdésében az ellenérdekű fél meghallgatása mellőzhető, ha az ebből fakadó késedelem helyrehozhatatlan károkat okozna. Az előzetes bizonyítás elrendelésének kérdésében az ellenérdekű fél meghallgatása a Pp. 337. § (1) bekezdés b) pontja alapján mellőzhető, ha a meghallgatásból fakadó késedelem helyrehozhatatlan károkat okozna, vagy ha a bizonyítékok megsemmisítésének kockázata valószínűsíthető. Ha a bíróság az ellenérdekű fél meghallgatását mellőzi, az ideiglenes intézkedés vagy az előzetes bizonyítás elrendeléséről szóló végzést az ellenérdekű féllel a foganatosítást követően haladéktalanul közölni kell. A végzés közlését követően az ellenérdekű fél kérheti a meghallgatását és az ideiglenes intézkedést, illetve az előzetes bizonyítást elrendelő végzés megváltoztatását vagy hatályon kívül helyezését. Az ideiglenes intézkedés vagy az előzetes bizonyítás iránti kérelem elutasítása esetén a bíróság az elutasításról szóló végzéssel együtt küldi meg az ellenérdekű fél részére az ideiglenes intézkedés vagy az előzetes bizonyítás elrendelése iránti kérelmet.
 
-(12) A bíróság az előzetes bizonyítás és – a (4) bekezdés c) pontját és az (5) bekezdést kivéve – az ideiglenes intézkedés elrendelését biztosítékadáshoz kötheti.
+(12) A bíróság az előzetes bizonyítás és – a (4) bekezdés c) pontját és az (5) bekezdést kivéve – az ideiglenes intézkedés elrendelését az ellenérdekű fél kérelmére biztosítékadáshoz kötheti.
 
-(13) Ha a (4) bekezdés c) pontjában, az (5) bekezdésben és a (12) bekezdésben meghatározott esetekben a biztosíték összegéből való kielégítésre jogosult fél igényét az előzetes bizonyítás, illetve az ideiglenes intézkedés tárgyában hozott végzést hatályon kívül helyező határozat, illetve az ítélet (permegszüntető végzés) jogerőre emelkedésétől számított három hónapon belül nem érvényesíti, a letevő a biztosíték visszaadását kérheti a bíróságtól.
+(13) A (4) bekezdés c) pontjában, az (5) bekezdésben és a (12) bekezdésben meghatározott biztosíték vagy ellenbiztosíték kiadására vagy visszaadására a Pp. biztosítékra vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság – az ítélet mellett – az előzetes bizonyítás, illetve az ideiglenes intézkedés tárgyában hozott végzést hatályon kívül helyező vagy annak hatályvesztését megállapító végzésben is rendelkezhet a biztosíték vagy ellenbiztosíték visszaadásáról vagy kiadásáról.
 
 94/B. § (1) Az ellenkező bizonyításáig azt kell szerzőnek tekinteni, akinek a nevét ilyenként a művön a szokásos módon feltüntették.
 
@@ -1344,6 +1367,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 111/G. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 41/F–41/K. §-át az olyan műre és hangfelvételre kell alkalmazni, amelyet 2014. október 29-én vagy azt követően e törvény szerint védelem illet meg.
 
 111/H. § Ha a Hivatal az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni
+
+111/I. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Felhatalmazások
 

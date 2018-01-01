@@ -218,7 +218,7 @@ a védelmére.
 - k) önálló bírósági végrehajtó vagy
 - l) közszolgáltatást végző szerv
 
-(a továbbiakban együtt: hatóság) tevékenysége vagy mulasztása a beadványt tevő személy alapvető jogát sérti vagy annak közvetlen veszélyével jár (a továbbiakban együtt: visszásság), feltéve, hogy a rendelkezésre álló közigazgatási jogorvoslati lehetőségeket – ide nem értve a közigazgatási határozat bírósági felülvizsgálatát – már kimerítette, vagy jogorvoslati lehetőség nincs számára biztosítva.
+(a továbbiakban együtt: hatóság) tevékenysége vagy mulasztása a beadványt tevő személy alapvető jogát sérti vagy annak közvetlen veszélyével jár (a továbbiakban együtt: visszásság), feltéve, hogy a rendelkezésre álló közigazgatási jogorvoslati lehetőségeket – ide nem értve a közigazgatási pert – már kimerítette, vagy jogorvoslati lehetőség nincs számára biztosítva.
 
 (2) Közszolgáltatást végző szerv – függetlenül attól, hogy milyen szervezeti formában működik –
 
@@ -244,11 +244,11 @@ tevékenységét.
 
 (4) Az alapvető jogok biztosa a hatóságok tevékenysége során felmerült, az alapvető jogokkal kapcsolatos visszásság megszüntetése érdekében hivatalból eljárást folytathat. A hivatalból indított eljárás természetes személyek pontosan meg nem határozható, nagyobb csoportját érintő visszásság kivizsgálására vagy egy alapvető jog érvényesülésének átfogó vizsgálatára irányulhat.
 
-(5) Ha az ügyben jogerős közigazgatási határozat született, az alapvető jogok biztosához ennek közlésétől számított egy éven belül lehet beadvánnyal fordulni.
+(5) Ha az ügyben jogerős vagy véglegessé vált közigazgatási határozat született, az alapvető jogok biztosához ennek közlésétől számított egy éven belül lehet beadvánnyal fordulni.
 
 (6) Az alapvető jogok biztosának a vizsgálati lehetősége az 1989. október 23-át követően indult eljárásokra terjed ki.
 
-(7) Az alapvető jogok biztosa nem járhat el olyan ügyben, amelyben a határozat felülvizsgálata iránt bírósági eljárás indult, vagy amelyben jogerős bírósági határozat született.
+(7) Az alapvető jogok biztosa nem járhat el olyan ügyben, amelyben a határozat ellen közigazgatási per indult, vagy amelyben jogerős bírósági határozat született.
 
 (8) A beadványt benyújtó személy kilétét az alapvető jogok biztosa csak akkor fedheti fel, ha ennek hiányában a vizsgálat nem lenne lefolytatható. Ha a beadványt benyújtó személy kéri, kilétét az alapvető jogok biztosa nem fedheti fel. Az alapvető jogok biztosához fordulása miatt senkit sem érhet hátrány.
 
@@ -411,7 +411,7 @@ tevékenységét.
 
 (2) Ha az alapvető jogok biztosa vizsgálata során alapvető joggal összefüggő visszásságot nem állapít meg, de jogszabálysértésre utaló körülményt észlel, a beadványt a legfőbb ügyész útján megküldheti az illetékes ügyésznek.
 
-(3) Az alapvető jogok biztosa a környezet állapotával összefüggő közigazgatási döntés bírósági felülvizsgálata során a perben beavatkozóként részt vehet.
+(3) Az alapvető jogok biztosa a környezet állapotával összefüggő közigazgatási döntés elleni közigazgatási per során a perben beavatkozóként részt vehet.
 
 34. § Az alapvető jogok biztosa az Alkotmánybíróságról szóló törvényben meghatározottak szerint az Alkotmánybírósághoz fordulhat.
 

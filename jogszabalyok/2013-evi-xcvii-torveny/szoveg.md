@@ -62,6 +62,14 @@ Az Országgyűlés Magyarország függetlenségének, területi épségének, ne
 
 5. § A toborzó- és érdekvédelmi központok, valamint a katonai igazgatási és érdekvédelmi irodák részt vesznek a gazdasági és anyagi szolgáltatások biztosításának előkészítésében, valamint a toborzó, érdekvédelmi és hadkiegészítési szakfeladatok végrehajtásában.
 
+#### 3/A. A katonai igazgatás által lefolytatott hatósági eljárások speciális szabályai
+
+5/A. § (1) A 3. § szerinti nyilvántartásokból adatszolgáltatás az ügyfél által aláírt kérelemnek a Honvédség katonai igazgatási és központi adatfeldolgozó szervénél való írásbeli előterjesztése alapján történhet.
+
+(2) Ha az (1) bekezdés szerinti kérelem nem kizárólag az ügyfél adataira vonatkozik, az adatszolgáltatás hatósági ügyintézés céljából, az ügyintézés céljának meghatározásával kérhető, feltéve, hogy az ügyfél igazolja érintettségét a megfelelő okirat vagy annak másolatának csatolásával. Az ügyfél nyilatkozatával nem pótolhatja a hiányzó okirati bizonyítékot.
+
+(3) A 3. § szerinti nyilvántartásokban kezelt adatok módosítása jogszabályban meghatározott hatóságoktól, szervezetektől történő adatszolgáltatás esetén hivatalból, egyéb ügyfél esetén a hatósági nyilvántartásban kezelt adatra vonatkozó megfelelő okirat vagy annak másolata alapján kérelemre történik.
+
 ### III. Fejezet — A SZOLGÁLATI VISZONNYAL KAPCSOLATOS NYILVÁNTARTÁSOK KÖRE
 
 #### 4. Általános szabályok
@@ -441,7 +449,7 @@ szerinti időtartamot tartalmazza.
 
 (2) A hadköteles nyilvántartást a Honvédség katonai igazgatási és központi adatfeldolgozó szerve vezeti.
 
-(3) A 4. melléklet j)–m) pontjaiban meghatározott adatok kizárólag a hadkötelezettség fennállása idején kezelhetők a hadköteles nyilvántartásban, és azokat a kényszerintézkedés megszüntetése napjának hatályával vagy a fegyver nélküli katonai szolgálat teljesítésére vonatkozó határozat jogerőre emelkedésének napjával törölni kell.
+(3) A 4. melléklet j)–m) pontjaiban meghatározott adatok kizárólag a hadkötelezettség fennállása idején kezelhetők a hadköteles nyilvántartásban, és azokat a kényszerintézkedés megszüntetése napjának hatályával vagy a fegyver nélküli katonai szolgálat teljesítésére vonatkozó határozat véglegessé válásának napjával törölni kell.
 
 (4) A 29. § (2) bekezdés a) és b) pontja szerint szolgáltatott adatok alapján a Honvédség katonai igazgatási és központi adatfeldolgozó szerve a potenciális hadkötelest, valamint a hadkötelest abban az évben, amelyben a 18. életévét betölti, hadköteles nyilvántartásba veszi. A honosított, visszahonosított 18. életévét már betöltött kiképzett tartalékost, potenciális hadkötelest és hadkötelest a rá vonatkozó adatszolgáltatást követően utólagosan kell hadköteles nyilvántartásba venni.
 
@@ -967,9 +975,9 @@ adatok.
 
 (2) Az elsőfokú sorozóbizottság határozata ellen a Honvédség katonai igazgatási és központi adatfeldolgozó szervéhez benyújtott fellebbezésnek van helye. A fellebbezést a határozat hadköteles részére való kézbesítésétől számított 8 napon belül lehet benyújtani. E határidő jogvesztő. Fellebbezésnek csak a határozat katonai szolgálatra való alkalmasság megállapítására vonatkozó része ellen van helye.
 
-(3) A fellebbezést a másodfokú sorozóbizottság bírálja el. A jogerős másodfokú határozat bírósági felülvizsgálatára irányuló keresetlevél benyújtásának a katonai szolgálat teljesítésére nincs halasztó hatálya, de a hadköteles a keresetlevélben a behívás elhalasztását kérheti.
+(3) A fellebbezést a másodfokú sorozóbizottság bírálja el.
 
-(4) A sorozóbizottság jogerős határozata a hadkötelezettség megszűnésével vagy a hadköteles katonai szolgálatteljesítési kötelezettsége felső korhatárának elérésével veszíti hatályát.
+(4) A sorozóbizottság véglegessé vált határozata a hadkötelezettség megszűnésével vagy a hadköteles katonai szolgálatteljesítési kötelezettsége felső korhatárának elérésével veszíti hatályát.
 
 (5) Besorozott az a hadköteles, akinek a katonai szolgálatra való alkalmasságát megállapították és katonai szolgálatra alkalmas fokozatot kapott.
 
@@ -1008,15 +1016,15 @@ adatok.
 
 (4) A honvédelmi bírság ugyanazon kötelezettség ismételt megszegése esetén újra kiszabható.
 
-(5) A kormányhivatal az eljárás kezdeményezésére jogosult értesítése alapján a honvédelmi bírság megfizetése alól mentesíti azt, aki a kötelezettségének az annak kiszabását elrendelő határozat jogerőre emelkedéséig önként eleget tett. Ebben az esetben a kormányhivatal a határozatot visszavonja.
+(5) A kormányhivatal az eljárás kezdeményezésére jogosult értesítése alapján a honvédelmi bírság megfizetése alól mentesíti azt, aki a kötelezettségének az annak kiszabását elrendelő határozat véglegessé válásáig önként eleget tett. Ebben az esetben a kormányhivatal a határozatot visszavonja.
 
-67. § (1) A honvédelmi bírság összegét a kiszabását elrendelő határozat jogerőre emelkedésétől számított 30 napon belül kell befizetni.
+67. § (1) A honvédelmi bírság összegét a kiszabását elrendelő határozat véglegessé válásától számított 30 napon belül kell befizetni.
 
 (2) A honvédelmi bírság megfizetésére a kormányhivatal a teljesítési határidő lejárta előtt előterjesztett kérelemre legfeljebb 12 havi részletfizetést engedélyezhet, ha a megfizetésre kötelezett hitelt érdemlően igazolja, hogy számára a teljesítés aránytalan nehézséget jelent. Egy részlet megfizetésének elmaradása esetén a teljes összeg megfizetése azonnal esedékessé válik.
 
 (3) A honvédelmi bírság befizetési határidejének elmulasztását követő nyolc napon belül a kormányhivatal a végrehajtás érdekében megkeresi a hatáskörrel és illetékességgel rendelkező adóhatóságot. Ha a bírságfizetésre kötelezett a végrehajtás elrendelését követően a honvédelmi bírság befizetését hitelt érdemlően igazolja, a hatóság nyolc napon belül intézkedik a végrehajtás megszüntetéséről.
 
-(4) A jogerősen kiszabott és be nem fizetett honvédelmi bírság adók módjára behajtandó köztartozásnak minősül.
+(4)
 
 ### XII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

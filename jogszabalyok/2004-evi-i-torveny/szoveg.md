@@ -359,7 +359,7 @@ szabható ki.
 - h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
 - i) stratégiai jellegű feladatai körében meghatározza a versenyzők minősítési szintjeit.
 
-(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései alapján.
+(3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági hatáskört gyakorol.
 
 (3a) A szakszövetség gazdálkodásával összefüggő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti közérdekű vagy közérdekből nyilvános adatok megismerésére vonatkozó igények a nem állami, nem önkormányzati támogatások tekintetében összesített adattartalom szolgáltatásával is teljesíthetőek.
 
@@ -371,7 +371,7 @@ szabható ki.
 
 (7) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) alpontjában meghatározott feladat ellátása során a kérelem beérkezésétől számított 120 napon belül hoz döntést. A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendeletben (a továbbiakban: a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendelet) meghatározott sportfejlesztési program módosítására, illetve meghosszabbítására irányuló kérelem elbírálására nyitva álló ügyintézési határidő 60 nap.
 
-(8) A Tao. 22/C. § (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezetet nem illeti meg a Ket. 71. § (2) bekezdés a) pontjában meghatározott kérelmezett jog gyakorlása, ha a látvány-csapatsportban működő szakszövetség a (7) bekezdésben előírt határidőben nem hoz döntést.
+(8)
 
 23. § (1) A sportág rendeltetésszerű működése érdekében – a külön jogszabályokban előírt más szabályzatok mellett – a szakszövetség az alábbi sporttevékenységgel összefüggő szabályzatokat köteles megalkotni:
 
@@ -711,19 +711,7 @@ kezeli.
 
 (7) A MOB gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
 
-45. § (1) A MOB működése felett a törvényességi ellenőrzést az ügyészség látja el.
-
-(2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
-
-- a) hatályon kívül helyezheti a MOB bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
-- b) a működés törvényességének helyreállítása céljából összehívhatja a MOB közgyűlését, vagy határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést, és minderről értesíti a MOB-nál választott felügyelőbizottságot is,
-- c) ismételt vagy súlyos törvénysértés esetén, vagy ha a MOB-nak nincs szabályosan megválasztott ügyintéző és képviseleti szerve, vagy az a törvénysértő állapot megszüntetéséhez szükséges intézkedéseket nem teszi meg, a MOB-nak vagy egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára, de legfeljebb a kijelöléstől számított kilencven napra – felügyelő biztost jelöl ki.
-
-(3) A Fővárosi Törvényszék meghatározhatja a felügyelő biztos feladatait, a jogszerűség helyreállítására határidőt szabhat, és szükség szerint – a felügyelő biztos felmentésével vagy anélkül – új felügyelő biztost rendelhet ki. A felügyelő biztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a MOB illetékes szervét. Ha a MOB a működés törvényességét helyreállította, működésének felfüggesztését meg kell szüntetni.
-
-(4) Nem rendelhető ki felügyelő biztosként az, aki nem lehet a MOB elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és a MOB viseli.
-
-(5) A felügyelő biztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható.
+45. § A MOB működése felett az ügyészség az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol.
 
 46. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja a MOB közfeladat ellátással összefüggő működési kiadásait.
 
@@ -848,19 +836,7 @@ kezeli.
 
 (7) Az MPB gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 46/C. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
 
-46/E. § (1) Az MPB működése felett a törvényességi ellenőrzést az ügyészség látja el.
-
-(2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
-
-- a) hatályon kívül helyezheti az MPB bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
-- b) a működés törvényességének helyreállítása céljából összehívhatja az MPB közgyűlését, vagy határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést, és minderről értesíti a MOB-nál választott felügyelőbizottságot is,
-- c) ismételt vagy súlyos törvénysértés esetén, vagy ha az MPB-nek nincs szabályosan megválasztott ügyintéző és képviseleti szerve, vagy az a törvénysértő állapot megszüntetéséhez szükséges intézkedéseket nem teszi meg, az MPB-nek vagy egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára, de legfeljebb a kijelöléstől számított kilencven napra – felügyelő biztost jelöl ki.
-
-(3) A Fővárosi Törvényszék meghatározhatja a felügyelő biztos feladatait, a jogszerűség helyreállítására határidőt szabhat, és szükség szerint – a felügyelő biztos felmentésével, vagy anélkül – új felügyelő biztost rendelhet ki. A felügyelő biztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az MPB illetékes szervét. Ha az MPB a működés törvényességét helyreállította, működésének felfüggesztését meg kell szüntetni.
-
-(4) Nem rendelhető ki felügyelő biztosként az, aki nem lehet az MPB elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és az MPB viseli.
-
-(5) A felügyelő biztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható.
+46/E. § Az MPB működése felett az ügyészség az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol.
 
 46/F. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja az MPB közfeladat ellátással összefüggő működési kiadásait.
 
@@ -963,19 +939,7 @@ kezeli.
 
 (7) Az NVESZ gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 46/I. § (2) bekezdés c)–d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
 
-46/K. § (1) Az NVESZ működése felett a törvényességi ellenőrzést az ügyészség látja el.
-
-(2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
-
-- a) hatályon kívül helyezheti az NVESZ bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
-- b) a működés törvényességének helyreállítása céljából összehívhatja az NVESZ közgyűlését, vagy határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést, és minderről értesíti a NVESZ-nél választott felügyelőbizottságot is,
-- c) ismételt vagy súlyos törvénysértés esetén, vagy ha az NVESZ-nek nincs szabályosan megválasztott ügyintéző és képviseleti szerve, vagy az a törvénysértő állapot megszüntetéséhez szükséges intézkedéseket nem teszi meg, az NVESZ-nek vagy egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára, de legfeljebb a kijelöléstől számított kilencven napra – felügyelő biztost jelöl ki.
-
-(3) A Fővárosi Törvényszék meghatározhatja a felügyelő biztos feladatait, a jogszerűség helyreállítására határidőt szabhat, és szükség szerint – a felügyelő biztos felmentésével vagy anélkül – új felügyelő biztost rendelhet ki. A felügyelő biztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az NVESZ illetékes szervét. Ha az NVESZ a működés törvényességét helyreállította, működésének felfüggesztését meg kell szüntetni.
-
-(4) Nem rendelhető ki felügyelő biztosként az, aki nem lehet az NVESZ elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és az NVESZ viseli.
-
-(5) A felügyelő biztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható.
+46/K. § Az NVESZ működése felett az ügyészség az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol.
 
 46/L. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja az NVESZ közfeladat ellátással összefüggő működési kiadásait.
 
@@ -1087,19 +1051,7 @@ kezeli.
 
 (7) Az NDHSZ gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 46/O. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
 
-46/Q. § (1) Az NDHSZ működése felett a törvényességi ellenőrzést az ügyészség látja el.
-
-(2) Ha a működés törvényessége másképpen nem biztosítható, az ügyész keresettel a bírósághoz fordulhat. Az ügyész által indított perek a Fővárosi Törvényszék hatáskörébe tartoznak. A Fővárosi Törvényszék az ügyész keresete alapján szükség esetén:
-
-- a) hatályon kívül helyezheti az NDHSZ bármely szervének törvénysértő határozatát, és szükség szerint új határozat meghozatalát rendelheti el,
-- b) a működés törvényességének helyreállítása céljából összehívhatja az NDHSZ közgyűlését, vagy határidő tűzésével a törvényes működés helyreállítására kötelezheti a közgyűlést, és minderről értesíti a NDHSZ-nél választott felügyelőbizottságot is,
-- c) ismételt vagy súlyos törvénysértés esetén, vagy ha az NDHSZ-nek nincs szabályosan megválasztott ügyintéző és képviseleti szerve, vagy az a törvénysértő állapot megszüntetéséhez szükséges intézkedéseket nem teszi meg, az NDHSZ-nek vagy egyes szerveinek működését felfüggeszti, egyidejűleg – a törvénysértő állapot megszüntetésének időtartamára, de legfeljebb a kijelöléstől számított kilencven napra – felügyelő biztost jelöl ki.
-
-(3) A Fővárosi Törvényszék meghatározhatja a felügyelő biztos feladatait, a jogszerűség helyreállítására határidőt szabhat, és szükség szerint – a felügyelő biztos felmentésével vagy anélkül – új felügyelő biztost rendelhet ki. A felügyelő biztos – szükség esetén – köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni az NDHSZ illetékes szervét. Ha az NDHSZ a működés törvényességét helyreállította, működésének felfüggesztését meg kell szüntetni.
-
-(4) Nem rendelhet ki felügyelő biztosként az, aki nem lehet az NDHSZ elnökségének tagja. A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a Fővárosi Törvényszéket és a sportpolitikáért felelős minisztert. A felügyelő biztos költségtérítését a bíróság állapítja meg, és az NDHSZ viseli.
-
-(5) A felügyelő biztos e jogkörében végzett tevékenysége során, azzal összefüggésben nem utasítható.
+46/Q. § Az NDHSZ működése felett az ügyészség az ügyészségről szóló törvény rendelkezései szerint ellenőrzést gyakorol.
 
 46/R. § (1) Az állam – a (2) bekezdésben meghatározottak szerint – évente biztosítja az NDHSZ közfeladat ellátással összefüggő működési kiadásait.
 
@@ -1179,7 +1131,7 @@ kezeli.
 - d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 - e) együttműködik az Országos Területfejlesztési Érdekegyeztető Fórummal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal,
 - f) együttműködik a sportköztestületekkel, valamint kapcsolatot tart a sport területén működő civil szervekkel,
-- g) a látvány-csapatsportok támogatásával összefüggésben – a ga) és gb) alpontban meghatározott feladatok esetén a Ket. rendelkezései alapján közigazgatási hatósági jogkörben – ellátja a sportfejlesztési programok jóváhagyásával és a támogatási igazolásokkal kapcsolatban a hatáskörébe utalt feladatokat, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
+- g) a látvány-csapatsportok támogatásával összefüggésben – a ga) és gb) alpontban meghatározott feladatok esetén közigazgatási hatósági hatáskörben – ellátja a sportfejlesztési programok jóváhagyásával és a támogatási igazolásokkal kapcsolatban a hatáskörébe utalt feladatokat, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
   - ga) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén dönt a Tao. 4. § 44. pontjában és 22/C. §-ában meghatározott támogatás feltételét képező sportfejlesztési program, valamint a Tao. 22/C. § (9) bekezdés szerinti sportfejlesztési program jóváhagyásáról,
   - gb) a Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén igazolja a támogatások igénybevételére vonatkozó jogosultságot, továbbá kiállítja az adókedvezményekre jogosító, a Tao. 22/C. §-a szerinti támogatási igazolást,
   - gc) a látvány-csapatsportok támogatásával összefüggő adatszolgáltatási tevékenységet végez,
@@ -1190,7 +1142,7 @@ kezeli.
   - gh) ellátja a jogszabályokban meghatározott egyéb feladatokat;
   - gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támogatás ellenőrzésére jogosult más szervekkel, valamint a 22. § (2) bekezdés f) pontjában meghatározott jogkörében eljáró látvány-csapatsportág országos sportági szakszövetségével, ennek keretében a kérelem elbírálását követő 8 napon belül tájékoztatja a látvány-csapatsportág országos sportági szakszövetségét az általa kiadott támogatási igazolásokról;
   - gj) ellátja a Tao. 24/A. § (19) bekezdésében meghatározott igazolás kiállításával összefüggő feladatokat;
-- h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket, különösen az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat;
+- h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági hatásköröket, különösen az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat;
 - i) programokat dolgoz ki:
   - ia) a versenysportnak,
   - ib) az utánpótlás-nevelésnek,
@@ -1218,7 +1170,7 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 
 (5) A sportpolitikáért felelős miniszter a (2) bekezdés g) pont ga) alpontjában meghatározott feladat ellátása során, a kérelem beérkezésétől számított 120 napon belül hoz döntést. A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározott sportfejlesztési program módosítására, illetve meghosszabbítására irányuló kérelem elbírálására nyitva álló ügyintézési határidő 60 nap.
 
-(6) A Tao. 22/C. § (1) bekezdés a) és e) pontjában meghatározott támogatás igénybevételére jogosult szervezetet nem illeti meg a Ket. 71. § (2) bekezdés a) pontjában meghatározott kérelmezett jog gyakorlása, ha a sportpolitikáért felelős miniszter az (5) bekezdésben előírt határidőben nem hoz döntést.
+(6)
 
 52. § A sportpolitikáért felelős miniszter feladatai az utánpótlás-nevelés területén elsősorban:
 
@@ -1324,7 +1276,7 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 
 első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
-(2) Az érmes a járadék megállapítására és folyósítására irányuló kérelmét a harmincötödik életévének betöltését követő hónap 1. napjától kezdődően terjesztheti elő a sportpolitikáért felelős miniszterhez. A sportpolitikáért felelős miniszter a kérelem jóváhagyása esetén a járadékot a kérelem benyújtásának időpontjától kezdődően – a kérelem benyújtása és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
+(2) Az érmes a járadék megállapítására és folyósítására irányuló kérelmét a harmincötödik életévének betöltését követő hónap 1. napjától kezdődően terjesztheti elő a sportpolitikáért felelős miniszterhez. A kérelem kormányablaknál nem terjeszthető elő. A sportpolitikáért felelős miniszter a kérelem jóváhagyása esetén a járadékot a kérelem benyújtásának időpontjától kezdődően – a kérelem benyújtása és a folyósítás időpontja közötti időtartamra jegybanki alapkamattal növelt értékben – folyósítja.
 
 (3) Élete végéig járadékra jogosult az érmes halálának időpontját követő hónaptól kezdődően annak özvegye, ha magyar állampolgár és az érmessel annak házastársaként a halála időpontjában és legalább az azt megelőző tíz évben megszakítás nélkül közös háztartásban élt.
 
@@ -1353,7 +1305,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (11) Ha a jogosult igazolja, hogy a vele szemben lefolytatott büntetőeljárásban a nyomozást megszüntették, vagy a büntetőeljárást jogerősen befejezték, és nem következett be a (8) bekezdés szerinti érdemtelenségi ok, a sportpolitikáért felelős miniszter az igazolástól számított harminc napon belül – a folyósítás felfüggesztésének napjától számított jegybanki alapkamattal növelve – egy összegben folyósítja részére az elmaradt járadékot. Amennyiben a büntetőeljárás jogerős befejezésével a jogosult érdemtelenné válik, a (10) bekezdés alapján felfüggesztett járadék nem kerül részére folyósításra.
 
-(12) A járadék iránti kérelem benyújtásával egyidejűleg a jogosult harminc napnál nem régebbi hatósági bizonyítvánnyal igazolja azt a tényt, hogy nem áll fenn a (8) bekezdés szerinti érdemtelenség, továbbá azt, hogy nem áll büntetőeljárás hatálya alatt, vagy írásban kérheti, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a sportpolitikáért felelős miniszter részére – a járadékra való jogosultság megállapítása és folyósítása iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. Az adatigénylés során a sportpolitikáért felelős miniszter arra vonatkozóan igényel adatot a bűnügyi nyilvántartó szervtől, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
+(12) A sportpolitikáért felelős miniszter a járadékra való jogosultság megállapítása és folyósítása iránti kérelem elbírálása céljából adatot igényel a bűnügyi nyilvántartó szervtől arra vonatkozóan, hogy a kérelmező nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
 
 (13) A jogosulatlanul felvett járadékot az erről való tudomásszerzést vagy a sportpolitikáért felelős miniszter felhívását követő hatvan napon belül vissza kell fizetni.
 
@@ -1373,15 +1325,15 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 61. § (1) A járadékra jogosultságot és a járadékot a sportpolitikáért felelős miniszter a jogosult kérelmére közigazgatási hatósági eljárás keretében állapítja meg és gondoskodik annak havonta történő folyósításáról. A járadék fedezetét és a végrehajtás költségeit a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani.
 
-(2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a sportpolitikáért felelős miniszter a Ket. rendelkezései szerint dönt.
+(2) A járadékra való jogosultság megszűnéséről és a már folyósított járadék visszafizetéséről, továbbá a járadék folyósításának felfüggesztéséről a sportpolitikáért felelős miniszter közigazgatási hatósági eljárás keretében dönt.
 
-(3) A sportpolitikáért felelős miniszter a járadék visszafizetésére vonatkozó igényét a járadék jogosulatlan felvételétől számított öt éven belül érvényesítheti.
+(3)
 
 (4) A sportpolitikáért felelős miniszter a járadékra jogosultság időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a jogosult nem vált-e érdemtelenné és nem áll-e büntetőeljárás hatálya alatt. A sportpolitikáért felelős miniszter e célból adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt.
 
 (5) A sportpolitikáért felelős miniszter a (4) bekezdésben meghatározott hatósági ellenőrzést a jogosulttal szemben kötelezően lefolytatja, ha
 
-- a) a jogosult az 59. § (8) és (10) bekezdés szerinti ok, illetve körülmény bekövetkezését bejelenti, és a bejelentéshez nem csatol hatósági bizonyítványt,
+- a) a jogosult az 59. § (8) és (10) bekezdés szerinti ok, illetve körülmény bekövetkezését bejelenti,
 - b) megalapozottan feltehető, hogy a jogosult érdemtelenné vált vagy büntetőeljárás hatálya alatt áll.
 
 (6) A sportpolitikáért felelős miniszter annak megállapítása céljából, hogy a jogosult nem érdemtelen és nem áll büntetőeljárás hatálya alatt – a járadékra való jogosultságról szóló döntés meghozataláig, a járadék jogosultság megállapítása esetén a jogosultság megszűnéséig – kezeli
@@ -1401,7 +1353,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 - b) Sakkolimpiának minősülnek a Nemzetközi Siket Sakkszövetség (ICSC) és a Vakok Nemzetközi Sakkszövetsége (IBCA) által a siketek és nagyothallók, valamint a vakok és gyengénlátók számára 1984-től kezdődően megrendezett sakkolimpiák is.
 - c) az olimpiánként, paralimpiánként, sakkolimpiánként és siketlimpiánként érmes helyezés csak akkor keletkeztet járadékra való jogosultságot, ha az érmes helyezést megalapozó versenyszám kvalifikációs versenyrendszerben került megrendezésre, vagy az érmes helyezést megalapozó versenyszámban legalább 8 nemzet vett részt (indult).
 
-61/A. § (1) Ha az eljárásban ellenérdekű ügyfél nem vesz részt, az érmest, az özvegyet, az edzőt megilleti az e törvény szerint megállapítható olimpiai járadék, ha a sportpolitikáért felelős miniszter a kérelem megérkezését követő naptól számított harminc napon belül nem hoz döntést.
+61/A. § (1) Ha az eljárásban ellenérdekű ügyfél nem vesz részt, az érmest, az özvegyet, az edzőt megilleti az e törvény szerint megállapítható olimpiai járadék, ha a sportpolitikáért felelős miniszter a kérelem megérkezését követő naptól számított hatvan napon belül nem hoz döntést.
 
 (2)
 
@@ -1423,24 +1375,11 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 ### Az olimpiai pályázat adókedvezményének támogatási szabályai
 
-62/A. § (1) A Tao. 22/D. §-a szerinti támogató részére a Tao. 22/D. §-a szerinti adókedvezmény igénybevételének feltételét képező támogatási igazolást – a támogatóval kötött támogatási megállapodás alapján – az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság állítja ki.
-
-(2) Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság az általa kiadott támogatási igazolásokról – a támogatási igazoláson szereplő adattartalommal, valamint a támogatások pénzügyi teljesülése tényének feltüntetésével – külön nyilvántartást vezet.
-
-(3) Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság a támogatási igazolás kiállítására akkor jogosult, ha
-
-- a) a (2) bekezdés szerinti nyilvántartás alapján megállapítható, hogy a támogatási igazolás kiállítása nem eredményezi a Tao. 29/A. § (19) bekezdésében meghatározott összeg túllépését, és
-- b) a Tao. 22/D. §-a szerinti támogató a támogatási megállapodás megkötése napján köztartozásmentes adózónak minősül.
-
-(4) A (3) bekezdésben foglalt feltételek teljesülése esetén az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság a támogatási megállapodás megkötésétől számított tizenöt napon belül kiállítja a támogatási igazolást.
-
-(5) A támogatási igazolást az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság 2 példányban állítja ki, amelyből egy példányt köteles a Tao. 22/D. §-a szerinti támogató részére átadni, továbbá gondoskodik egy példány megőrzéséről.
-
-(6) A támogatási igazolást az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaság visszavonja, ha a Tao. 22/D. §-a szerinti támogató a támogatási megállapodásban teljesítési napként meghatározott naptól számított harminc napon belül a támogatást nem teljesíti, és e tényről írásban értesíti az állami adóhatóságot.
+62/A. §
 
 62/B. § Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaságnak a 2017. december 31-ig fel nem használt támogatást a központi költségvetés számára kell visszautalnia 2018. január 31-ig az államháztartásért felelős miniszter által megjelölt számlára, amelyet a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 4. Egyéb költségvetési bevételek cím, 1. Vegyes bevételek alcímen belül önálló jogcímcsoporton kell elszámolni.
 
-62/C. § Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaságnak a Tao. 22/D. §-a alapján nyújtott támogatására az államháztartásról szóló törvény költségvetési támogatás nyújtására vonatkozó rendelkezéseit nem kell alkalmazni.
+62/C. §
 
 ### IX. Fejezet — SPORTLÉTESÍTMÉNYEK
 
@@ -1520,6 +1459,8 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 - a) a biztonságos megrendezésnek az e törvényben és a sportrendezvények biztonságáról szóló kormányrendeletben meghatározott feltételei hiányoznak,
 - b) az előzetesen meghatározott biztonsági szabályokat a szervező – rendező alkalmazása esetén a rendező – nem tartja be, vagy
 - c) a 63. § (3) bekezdésében meghatározott biztonságtechnikai ellenőrzés elmaradt.
+
+(3a) A rendőrség (3) bekezdés szerinti határozata ellen – a (4) bekezdésben foglalt kivétellel – fellebbezésnek van helye.
 
 (4) Ha a (3) bekezdésben meghatározott feltételek alapján a rendőrség a sportrendezvény nézők részvételével történő megtartásának megtiltásáról, vagy a nézők számának korlátozásáról a sportrendezvény helyszínén, annak közvetlen megtartása előtt dönt, a rendőrség a határozatát haladéktalanul közli a szervezővel. A határozat ellen fellebbezésnek helye nincs.
 

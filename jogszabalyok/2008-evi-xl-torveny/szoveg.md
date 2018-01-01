@@ -293,7 +293,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (8) A polgári nemperes eljárásban nincs helye perújításnak és felülvizsgálatnak.
 
-(9) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.
+(9) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel –, továbbá a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvény bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezései megfelelően irányadók.
 
 17. § (1) A földgázelosztó az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározottak szerint nyilvántartja az elosztóvezetékről vételező felhasználási helyek azonosítóit, fogyasztásmérő berendezése adatait, mérési és elszámolási adatait, valamint kapacitás adatait, amelyeket a felhasználási helyen vételező felhasználó vagy az általa megnevezett földgázkereskedő kérésére köteles átadni.
 
@@ -560,6 +560,8 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (2) A kijelölés legfeljebb kormányrendeletben meghatározott időtartamra hatályos, azonban a kijelölés az időtartam lejártát megelőzően hatályát veszti, ha a kormányrendeletben meghatározott feltételek teljesülnek.
 
+(2a) Végső menedékes kijelöléséről szóló határozatát a Hivatal írásban és közhírré tétel útján közli.
+
 (3) A végső menedékes kijelölését követően a Hivatal a korábbi földgázkereskedő engedélyét visszavonja a földgáz végső menedékes szolgáltatásról és a földgázkereskedő működésének lehetetlenülése esetén a felhasználók földgázellátását veszélyeztető helyzet fennállása következtében alkalmazandó eljárásról szóló kormányrendeletben szabályozott esetben.
 
 42. § Annak érdekében, hogy a végső menedékes szolgáltatás időben biztosítható legyen, a Hivatal folyamatosan figyelemmel kíséri a földgázkereskedők földgázpiaci tevékenységét. A földgázkereskedők kötelesek az ehhez szükséges – a Hivatal által előírt – adatokat szolgáltatni.
@@ -722,9 +724,9 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (2) A Hivatal az (1) bekezdés szerinti eljárás során jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
-(3) A Hivatal – a 61/B. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 61/B. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szerinti védett adat megismerésére és a cselekménnyel szorosan összefüggő személyes adat kezelésére.
+(3) A Hivatal – a 61/B. § (1) bekezdésében meghatározott cselekmény ellenőrzési vagy nagykereskedelmi piacfelügyeleti eljárás során történő vizsgálata, valamint a 61/B. § (1) bekezdésében meghatározott cselekménnyel összefüggő vagy ezt megalapozó cselekmények vizsgálata céljából – jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti védett adat megismerésére és a cselekménnyel szorosan összefüggő személyes adat kezelésére.
 
-(4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárás jogerős lezárásától számított 5 évig kezeli.
+(4) A Hivatal a személyes adatot az (5) bekezdésben meghatározott időtartam elteltéig, az eljárás megindítása esetén az eljárást lezáró határozat véglegessé válásától számított 5 évig kezeli.
 
 (5) A Hivatal e fejezetben szabályozott eljárása a tilalom megszegésétől, illetve a kötelezettség elmulasztásától számított 5 éven belül indítható meg.
 
@@ -884,7 +886,7 @@ biztosítja az elosztóhálózat-használattal kapcsolatos ügyintézést is.
 
 (5) Az egyedi felhasználókat érintő mutatók be nem tartása az érintett felhasználókkal szemben szerződésszegésnek minősül, amelynek jogkövetkezményét a Hivatal állapítja meg.
 
-(6) Az (1) bekezdés szerinti határozatok kiadására irányuló, hivatalból induló hatósági eljárásban ügyfélként kizárólag az egyes engedélyesek vesznek részt.
+(6)
 
 ### Eljárás a lakossági fogyasztókkal szembeni jogsértésekkel kapcsolatban
 
@@ -1274,33 +1276,13 @@ földgázrendszerhez való hozzáférés
 
 (5) Az üzembe helyező az üzembe helyezés alkalmával köteles a felhasználóval a csatlakozóvezeték és a felhasználói berendezés szakszerű használatát, a gázmérő állagmegóvási és védelmi kötelezettségét, valamint a felhasználó egyéb kötelezettségeit ismertetni.
 
-(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően – a (7) bekezdésben meghatározott kivétellel – köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről. A csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálatának részletes szabályait – beleértve a felülvizsgálat gyakoriságát is – az iparügyekért felelős miniszter rendelete, a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóságot kormányrendelet tartalmazza.
+(6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően – a (7) bekezdésben meghatározott kivétellel – köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről.
 
-(6a) A gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóság döntésével szemben fellebbezésnek és újrafelvételi eljárásnak nincsen helye.
+(6a)–(6g)
 
-(6b) A gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóság az eljárása során, a műszaki-biztonsági felülvizsgálat szakszerűségének és a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági megfelelőségének megállapítására, az eljáró hatóságot irányító területi szerv által vezetett hatósági nyilvántartásban szereplő szakértőt, vagy ha nem áll rendelkezésre elegendő szakértő, igazságügyi szakértőt rendel ki.
+(7) A fogyasztói főelzáró karbantartása és javítása, valamint a csatlakozóvezeték és a fogyasztói vezeték 10 évenkénti, a csatlakozási nyomás névleges értékén szivárgás-ellenőrzéssel végzett gáztömörségi felülvizsgálata a földgázelosztó kötelessége saját költségén. Az ingatlan tulajdonosa a felülvizsgálat elvégzését köteles lehetővé tenni a földgázelosztó számára. A 10 év leteltét első alkalommal a mérő felszerelésétől, illetve cseréjétől, mérő hiánya esetén a legutolsó felülvizsgálattól, ha még nem történt felülvizsgálat, 2018. január 1-jétől kell számolni.
 
-(6c) Nem rendelhető ki szakértőként az, aki a műszaki-biztonsági felülvizsgálattal kapcsolatos bejelentések ügyében eljáró hatóság eljárásával érintett felhasználási helyen, az e törvény szerinti gáz csatlakozóvezeték- és felhasználóiberendezés-létesítési, a biztonsági előírást érintő felszerelési és időszaki ellenőrzési tevékenységet végzett a kirendelést megelőző 3 éven belül.
-
-(6d) A hatósági nyilvántartásban az a gázszerelő szerepelhet, aki:
-
-- a) a nyilvántartásba való felvételi kérelmét a hatóság részére benyújtja,
-- b) a gáz csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálatára jogosultak nyilvántartásában szerepel,
-- c) az engedély megszerzésétől számított legalább egy éves szakmai gyakorlattal rendelkezik, és
-- d) a b)–c) pont szerinti feltételek meglétét igazolja.
-
-(6e) A hatóság által vezetett hatósági nyilvántartás tartalmazza a szakértő nevét, születésének helyét és időpontját, a szakértő képesítésének megnevezését, az általa végezhető tevékenység meghatározását. A nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
-
-(6f) A nyilvántartást vezető hatóság a szakértők jegyzékét honlapján közzéteszi, mely tartalmazza a szakértő nevét, és hozzájárulása esetén értesítési címét, telefonszámát, faxszámát, elektronikus postacímét.
-
-(6g) A nyilvántartást vezető hatóság a szakértőt a nyilvántartásból törli, ha
-
-- a) ezt a szakértő kéri, vagy
-- b) a 88. § (3) bekezdése szerinti nyilvántartásból a gázszerelő törlésre kerül.
-
-(7) A fogyasztói főelzáró karbantartása és javítása, valamint egyetemes szolgáltatásra jogosult felhasználók tekintetében – igénybejelentés esetében – a csatlakozóvezeték és a felhasználói berendezés műszaki-biztonsági felülvizsgálata a földgázelosztó kötelessége, saját költségén.
-
-(7a) A (7) bekezdés szerinti műszaki-biztonsági felülvizsgálat nem minősül a földgázelosztó e törvény szerinti engedélyköteles tevékenységének.
+(7a) A (7) bekezdés szerinti gáztömörségi felülvizsgálat kiszervezhető tevékenységnek minősül.
 
 (8)
 
@@ -1631,7 +1613,7 @@ foglalt árat köteles megfizetni.
 
 (4a) A termelő és az e törvény szerinti engedélyes a pénzforgalmi számlájának vezetésével kapcsolatos, a pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény szerint pénzügyi tranzakciós illeték fizetésére kötelezett által tranzakciós illetékkel összefüggésben felszámított díjat (a továbbiakban: tranzakciós díj) nem háríthatja át a vele szerződésben állóra. Ebből következően a tranzakciós díj az engedélyes, illetve a termelő által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve nem számítható be, illetve külön nem számlázható ki, azt az engedélyes, illetve a termelő önállóan viseli.
 
-(4b) A földgázelosztó a csatlakozóvezeték vagy a felhasználói berendezés műszaki-biztonsági felülvizsgálatának költségét nem háríthatja át a vele szerződésben állóra. Ebből következően a felülvizsgálat költsége a földgázelosztó által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki, azt a földgázelosztó önállóan viseli.
+(4b) A földgázelosztó a csatlakozóvezeték és a fogyasztói vezeték szivárgás-ellenőrzéssel végzett gáztömörségi felülvizsgálatának költségét nem háríthatja át a vele szerződésben állóra. Ebből következően a felülvizsgálat költsége a földgázelosztó által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki, azt a földgázelosztó önállóan viseli.
 
 104. § (1) A hatósági árat legmagasabb árnak kell tekinteni.
 
@@ -2094,7 +2076,7 @@ foglalt kötelezettségét nem teljesíti.
 
 - a) a szállítási rendszerüzemeltető tartósan nem tesz eleget a 119. § (1) bekezdése szerinti jogszabályokban és uniós jogi aktusokban meghatározott kötelezettségeinek,
 - b) a 119. § (1) bekezdés a)–d) pontja szerinti jogkövetkezmények alkalmazása nem vezetett eredményre, valamint
-- c) a 119. § (1) bekezdés a)–b) pontja szerinti jogkövetkezmények alapjául szolgáló határozat bírósági felülvizsgálata esetén a közigazgatási ügyekben eljáró bíróság a Hivatal határozatát helybenhagyta, vagy a Hivatal határozatának megtámadására rendelkezésre álló idő eredménytelenül telt el.
+- c) a 119. § (1) bekezdés a)–b) pontja szerinti jogkövetkezmények alapjául szolgáló határozat vonatkozásában a közigazgatási bíróság a keresetet elutasította, vagy a közigazgatási per megindítására nyitva álló határidő eredménytelenül telt el.
 
 (4) A (3) bekezdés szerinti kijelölés esetén a Hivatal kötelezi a szállítóvezeték tulajdonosát a 119. § (7) bekezdésben és a 121/I. § (2) bekezdésben foglalt kötelezettségek teljesítésére, valamint a kijelölt rendszerüzemeltetőt a határozat szerinti feladatok ellátására.
 
@@ -2277,7 +2259,7 @@ foglalt kötelezettségét nem teljesíti.
 
 (5) Azokat az üzleti titkokat, amelyekről a korábban vertikálisan integrált földgázipari vállalkozás részét képező szállítási rendszerüzemeltetőnek tudomása volt, a szállítási rendszerüzemeltető nem hozhatja a földgáztermelő vagy földgázkereskedő tudomására, továbbá az ilyen szállítási rendszerüzemeltető által alkalmazott a 121/C. § (6)–(7) bekezdése szerinti személyeket munkaviszonyra irányuló jogviszonyuk alatt és jogviszonyuk megszűnését követő 4 évig, az szállítási rendszerüzemeltetővel munkaviszonyra irányuló jogviszonyban álló egyéb személyeket 1 évig a földgáztermelő vagy földgázkereskedő nem alkalmazhatja.
 
-(6) Amennyiben a Hivatal a 128. § szerinti tanúsítási eljárás eredményeképpen megállapítja, hogy a szállítási rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 121/B–121/G. § és 119/A. § (3) bekezdése nem alkalmazható.
+(6) Ha a Hivatal a 128. § szerinti tanúsítási eljárás eredményeképpen megállapítja, hogy a szállítási rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal eljárást lezáró határozatának véglegessé válását követően a 121/B–121/G. § és 119/A. § (3) bekezdése nem alkalmazható.
 
 ### A független rendszerüzemeltetőre, valamint a vertikálisan integrált földgázipari vállalkozás részét képező szállítóvezeték tulajdonosára és földgáztárolói engedélyesére vonatkozó szétválasztási szabályok
 
@@ -2311,7 +2293,7 @@ foglalt kötelezettségét nem teljesíti.
 
 (6) Az (5) bekezdés c) pontja alapján a vertikálisan integrált vállalkozás jóváhagyhatja a földgáztároló engedélyes éves pénzügyi tervét vagy bármely, ezzel egyenértékű eszközt, és általános korlátokat szabhat a leányvállalat eladósodásának mértékére vonatkozóan.
 
-(7) Ha a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy a független rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal határozatának jogerőre emelkedését követően a 121/B. §–121/G. § nem alkalmazható.
+(7) Ha a Hivatal a tanúsítási eljárás eredményeképpen megállapítja, hogy a független rendszerüzemeltető megfelel az e §-ban foglaltaknak, a Hivatal eljárást lezáró határozat véglegessé válását követően a 121/B. §–121/G. § nem alkalmazható.
 
 ### XIV. Fejezet — EGYES CÉGJOGI ESEMÉNYEKRE VONATKOZÓ KÖZÖS SZABÁLYOK
 
@@ -2410,7 +2392,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek, valamint
 - h) az (1c) bekezdésben meghatározott időponttól az átvevő egyetemes szolgáltatónak.
 
-(4a) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok a Hivatal részére átadhatók, amelyeket a Hivatal köteles a Ket. adatkezelésre vonatkozó szabályai szerint kezelni.
+(4a) Az (1)–(1c) bekezdésben meghatározott adatok közül az adatkezelés céljához szükséges adatok a Hivatal részére átadhatók, amelyeket a Hivatal köteles az Ákr. adatkezelésre vonatkozó szabályai szerint kezelni.
 
 (5) A (4) bekezdés a), b) és e) pontjaiban meghatározott szervezeteket az átadott adatokkal kapcsolatban az adatkezelővel azonos titoktartási kötelezettség terheli.
 
@@ -2511,7 +2493,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 - p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozás átalakulását, szétválását, más földgázipari vállalkozással való egyesülését, jogutód nélküli megszűnését, a jegyzett tőke értékének csökkentését, az engedélyesekben történő részesedés- és befolyásszerzést, az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást szállítási rendszerüzemeltető vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységei egyes elemeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, és egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését;
 - q) eleget tesz a személyes adatok gyűjtésére vonatkozó – törvényben előírt –, valamint a külön jogszabályban meghatározott egyéb adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének;
 - r) a szállítási rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a szállítási rendszerirányító javaslatára dönt a kereskedési platformon, az egyensúlyozó platformon, valamint a szervezett földgázpiacon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
-- s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a PB-gáz forgalmazó, a PB-gáz kiskereskedő, a mintaprojektet végző társaság, valamint a hazai termelésű földgázt termelő irataiba betekinteni – ideértve a Ptk. 2:47. § (1) bekezdése szerinti üzleti és egyéb törvény által védett titkot tartalmazó iratokat is – a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni vagy készíttetni, feladatai ellátásához az engedélyes társaságtól, a PB-gáz forgalmazótól, a PB-gáz kiskereskedőtől, a mintaprojektet végző társaságtól, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles a Ket. adatkezelésre vonatkozó szabályai szerint kezelni; továbbá jogosult állami vagy közfeladata ellátása során engedély nélkül minősített adat felhasználására, minősített adatot tartalmazó iratba való betekintésre, másolat, kivonat készítésére vagy készíttetésére;
+- s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a PB-gáz forgalmazó, a PB-gáz kiskereskedő, a mintaprojektet végző társaság, valamint a hazai termelésű földgázt termelő irataiba betekinteni – ideértve a Ptk. 2:47. § (1) bekezdése szerinti üzleti és egyéb törvény által védett titkot tartalmazó iratokat is – a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni vagy készíttetni, feladatai ellátásához az engedélyes társaságtól, a PB-gáz forgalmazótól, a PB-gáz kiskereskedőtől, a mintaprojektet végző társaságtól, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles az Ákr. adatkezelésre vonatkozó szabályai szerint kezelni; továbbá jogosult állami vagy közfeladata ellátása során engedély nélkül minősített adat felhasználására, minősített adatot tartalmazó iratba való betekintésre, másolat, kivonat készítésére vagy készíttetésére;
 - sz) jogalkalmazási gyakorlatának alapjait ismertető, kötelező erővel nem rendelkező ajánlást ad ki;
 - t) meghatározza azon – személyes adatokat nem tartalmazó – gazdálkodási adatok körét, amelyet az engedélyes köteles nyilvánosságra hozni;
 - u) érvényesíti a legkisebb költség elvét az e törvény hatálya alá tartozó hatósági áras termék és szolgáltatás vonatkozásában;
@@ -2544,7 +2526,7 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (2) A Hivatal a tanúsítási eljárás során tanúsítja a szétválasztási követelményeknek való megfelelést, ha a szállítási rendszerüzemeltetési engedély kérelmezője, a szállítási rendszerüzemeltető vagy a független rendszerüzemeltetőként kijelölendő személy megfelel az e törvény 121/B–121/I. §-aiban foglalt, rá vonatkozó rendelkezéseknek. Ha a tanúsítási eljárás során a Hivatal megállapítja, hogy a szállítási rendszerüzemeltető vagy a független rendszerüzemeltetőként kijelölendő személy nem felel meg a rá vonatkozó szétválasztási követelményeknek, szállítási rendszerüzemeltető esetén a 119. §-ban foglalt jogkövetkezményeket alkalmazza, illetve a független rendszerüzemeltetőként kijelölendő személy esetén pedig nem jelöli ki független rendszerüzemeltetővé.
 
-(3) A Hivatal a szétválasztási követelményeknek való megfelelés tárgyában a 129. § (2) bekezdés d) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt, a 715/2009/EK európai parlamenti és tanácsi rendelet 3. cikkében meghatározott eljárás lefolytatása céljából haladéktalanul megküld az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és a 715/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésében foglaltak szerint jár el.
+(3) A Hivatal a szétválasztási követelményeknek való megfelelés tárgyában a 129. § (2) bekezdés c) pontjában meghatározott határidőn belül határozatot hoz, amelyet – az eljárás egyidejű felfüggesztése mellett – az adott döntésre vonatkozó összes információval együtt, a 715/2009/EK európai parlamenti és tanácsi rendelet 3. cikkében meghatározott eljárás lefolytatása céljából haladéktalanul megküld az Európai Bizottságnak. Az Európai Bizottság eljárását követően a Hivatal az eljárás felfüggesztését megszünteti, és a 715/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésében foglaltak szerint jár el.
 
 (4) A szállítási rendszerüzemeltető köteles bejelenteni a Hivatalnak az olyan tervezett jogügyleteket, amelyek a szétválasztási követelményeknek való megfelelés ismételt vizsgálatát tehetik szükségessé.
 
@@ -2578,33 +2560,28 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (6) Ha az Európai Bizottság a (4) bekezdés szerinti határozattal egyetért, vagy arra a kérelem kézhezvételétől számított 2 hónapon belül – az Ügynökség vagy az érintett felek véleményének kikérése esetén, 4 hónapon belül – nem nyilvánít véleményt, a Hivatal az eljárás felfüggesztését megszünteti, és határozatát az Európai Bizottság véleményével együtt honlapján közzéteszi. Ha az Európai Bizottság a Hivatal határozatával nem ért egyet, a Hivatal az eljárás felfüggesztését megszünteti, és módosítja határozatát, azzal, hogy a Hivatal minden esetben jogosult a tanúsítást megtagadni, ha a tanúsítás megadása veszélyeztetné az ország vagy az Európai Unió más tagállamának földgázellátásának biztonságát. Ez utóbbi esetben a Hivatal határozatát az Európai Bizottság véleményével és az Európai Bizottság véleményétől való eltérés indokolásával együtt teszi közzé honlapján.
 
-129. § (1) A Hivatal más szervezetekkel való kapcsolatára az e törvényben meghatározottakon kívül a VET. rendelkezései irányadók azzal, hogy az engedélyesek alatt az e törvény engedélyesei értendők.
+129. § (1) A Hivatal részére felügyeleti tevékenységéért az engedélyesek felügyeleti díjat kötelesek fizetni, amelynek mértéke az engedélyes tevékenysége előző évi nettó árbevételének 0,06%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt nettó árbevétele, vagy nem volt teljes évre vonatkozó nettó árbevétele, akkor éves felügyeleti díj előleget kell fizetni, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,06%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,06%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
 
-(1a) A Hivatal részére felügyeleti tevékenységéért az engedélyesek felügyeleti díjat kötelesek fizetni, amelynek mértéke az engedélyes tevékenysége előző évi nettó árbevételének 0,06%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt nettó árbevétele, vagy nem volt teljes évre vonatkozó nettó árbevétele, akkor éves felügyeleti díj előleget kell fizetni, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,06%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,06%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
+(2) Az e törvényben meghatározott eljárásokban az Ákr. szabályait az e törvényben, valamint a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvényben meghatározott eltérésekkel és kiegészítésekkel kell alkalmazni. A Hivatal eljárásában az ügyintézési határidő
 
-(2) A Hivatal eljárására a VET.-nek a Hivatal eljárására vonatkozó általános szabályait kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő
+- a) a 82. § (5) bekezdése szerinti eljárásban négy hónap,
+- b) a 128. § (1) bekezdés a)–c) és e) pontja, valamint a 128/A. § (5) bekezdése szerinti eljárásokban négy hónap,
+- c) a 128/A. § (6) bekezdése szerinti eljárásban két hónap,
+- d) az e törvény hatálya alá tartozó panaszeljárásban 55 nap,
+- e) a III/A. Fejezetben szabályozott eljárásokban 15 hónap.
 
-- a) a 64. § (2) bekezdése, a 67. § (3) bekezdése, valamint a 127. § m) és n) pontjai szerinti eljárásokban 45 nap,
-- b) a 82. § (5) bekezdés szerinti eljárásban négy hónap,
-- c)
-- d) a 128. § (1) bekezdés a)–c) és e) pontja, valamint a 128/A. § (5) bekezdése szerinti eljárásokban négy hónap,
-- e) a 128/A. § (6) bekezdése szerinti eljárásban két hónap.
+(3) A Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak alkalmazási szabályairól szóló rendeletében szabályozott, a nem téli fogyasztási időszakra vonatkozó igazolási kérelem tárgyában a Hivatal hatósági bizonyítványt bocsát ki. A hatósági bizonyítvány kiállítására irányuló eljárás automatikus, és nem érinti a Hivatal ellenőrzési jogát a nem téli fogyasztási időszakra vonatkozó felhasználások vonatkozásában.
 
-(2a) A (2) bekezdés a) és e) pontjában meghatározott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(4) A 127. § b), c), l) és ly) pontjában közvetlenül érintett az engedélyes.
 
-(3)
+129/A. § (1) Közigazgatási perben a Hivatalnak a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján a földgázellátási üzemzavar vagy válsághelyzet esetén, valamint a tanúsítási eljárásban hozott határozatát a bíróság nem változtathatja meg.
 
-(3a)
+(2) A közigazgatási perben a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a Hivatal határozata
 
-(4) Az Üzemi és Kereskedelmi Szabályzat jóváhagyására irányuló eljárásban az ügyfél jogai kizárólag az érintett engedélyeseket illeti meg.
+- a) végső menedékes kijelölési eljárásában az engedélyes jogait korlátozza, vagy annak engedélyét visszavonja, továbbá, ha végső menedékest jelöl ki,
+- b) más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit korlátozza.
 
-129/A. § (1) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a földgázellátási üzemzavar vagy válsághelyzet esetén a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat kivételével – a határozatot jogosult megváltoztatni.
-
-(2)–(7)
-
-(8) A jogerős határozattal szemben perújítás iránti kérelem nem nyújtható be.
-
-(9) Az Üzemi és Kereskedelmi Szabályzat jóváhagyására irányuló eljárásban az ügyfél jogai kizárólag az érintett engedélyeseket illetik meg.
+(3) A Hivatal véglegessé vált határozatait – az e törvény hatálya alá tartozó panaszeljárások, illetve a személyes és védett adatok kivételével – a honlapján közhírré teszi.
 
 ### Nemzetközi együttműködés és kapcsolat
 
@@ -2638,7 +2615,7 @@ tartalmazza.
 
 ### Az Energetikai Állandó Választottbíróság
 
-131. § A VET. 169. §-a szerinti Energetikai Állandó Választottbíróság eljárásának van helye az e törvény szerinti engedélyköteles tevékenységet folytató engedélyesek közötti, e törvény hatálya alá tartozó tevékenységekre vonatkozó jogszabályban, vagy az az alapján kötött szerződésben foglalt jogokkal és kötelezettségekkel kapcsolatos jogvitában, ha a felek a választottbírósági eljárást választottbírósági szerződésben kikötötték és az eljárás tárgyáról szabadon rendelkezhetnek.
+#### 131. §
 
 ### XVII. Fejezet — FELHATALMAZÓ RENDELKEZÉSEK
 
@@ -2705,7 +2682,7 @@ tartalmazza.
 - 1. földgázellátási válsághelyzet fennállása esetén a munkanapok és munkaszüneti napok, valamint az azokkal összefüggő munkavégzés rendjét, az ügyfélforgalom előtt nyitva álló magánhelyiségek, közintézmények (különösen üzletek, ügyfélszolgálatok) nyitvatartási idejét, az ügyfélforgalom előtt nyitva álló magánhelyiségek, közintézmények (különösen üzletek, ügyfélszolgálatok), továbbá irodaházak, valamint a költségvetési fenntartású intézmények legmagasabb felfűtési hőmérsékletét, a földgázfelhasználás mérséklését szolgáló egyéb intézkedéseket, valamint a földgáz Magyarország területéről történő kiszállítására vonatkozó szerződéskötés feltételeit,
 - 2.
 
-132/B. § Felhatalmazást kap a Kormány, hogy a csatlakozóvezetékek és a felhasználói berendezések műszaki-biztonsági felülvizsgálatával kapcsolatos bejelentések ügyében eljáró hatóságot rendeletben jelölje ki.
+#### 132/B. §
 
 133. § (1) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
@@ -2733,13 +2710,13 @@ tartalmazza.
 (2) Felhatalmazást kap az iparügyekért felelős miniszter, hogy rendeletben állapítsa meg
 
 - 1. a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítést és gyakorlatot, valamint az ilyen munkakörben foglalkoztatottak időszakos továbbképzésével kapcsolatos szabályokat,
-- 2. a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeit, az e tevékenységek bejelentésének rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- 2. a gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeit, az e tevékenységek bejelentésének rendjét, az e tevékenységet végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes szabályokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - 3. a csatlakozóvezeték és a felhasználói berendezés, valamint a telephelyi vezeték létesítésének, üzembe helyezésének és üzemeltetésének műszaki-biztonsági feltételeit és az ehhez kapcsolódó műszaki biztonsági hatósági feladatokat, a műszaki biztonsági felülvizsgálatot – beleértve annak gyakoriságát is,
 - 4. a gázfogyasztó készülékek forgalomba hozatalára, üzembe helyezésére, üzemeltetésére, valamint megfelelőségük tanúsítására vonatkozó részletes szabályokat,
 - 5.
 - 6. az adópolitikáért felelős miniszterrel egyetértésben a műszaki biztonsági hatóság részére a kérelemre indult eljárásokért fizetendő igazgatási szolgáltatási díjak és a gázszerelők bejelentése esetén fizetendő díj – ideértve a jogorvoslati díjat is – mértékét és a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
-(3) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálata során feltárt hibák kijavítására kötelezésre, a gáz csatlakozóvezetékek és felhasználói berendezések műszaki javításával kapcsolatos mulasztások bejelentésének kezelésére vonatkozó részletes eljárási szabályokat, valamint az eljárás során kirendelt szakértő tevékenysége folytatásának részletes feltételeit.
+(3)
 
 (4) Felhatalmazást kap a miniszter, hogy a 141/G. § szerinti ajánlattétel napját rendeletben határozza meg.
 
@@ -2884,6 +2861,8 @@ tartalmazza.
 (13) A Felajánlási rendeletben meghatározott mennyiséget a Felajánlási rendelet hatálybalépését követően át kell adni a szerződő félnek. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban a szabályozási időszak már elkezdődött, a Felajánlási rendeletben vagy annak módosításában meghatározott mennyiségbe a Felajánlási rendelet hatálybalépését megelőzően az azonos szabályozási időszakban a szerződő félnek már átadott mennyiséget be kell számítani.
 
 (14) Az (1)–(3) bekezdés szerinti szerződés 2019. szeptember 30-ig meghosszabbodik.
+
+(14) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 (15) A hatósági ár vonatkozásában a szerződésben a szerződéses árak felülvizsgálatára vagy módosítására irányadó rendelkezések nem alkalmazhatók.
 
@@ -3077,7 +3056,7 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 146/B. § (1) A villamos energiáról szóló 2007. évi LXXXVI. törvény és a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2013. évi XII. törvénnyel (a továbbiakban: Mód. 3. tv.) megállapított 103. § (4) és (4a) bekezdését a folyamatban lévő bírósági és hatósági eljárásokban is alkalmazni kell.
 
-(2) A Mód. 3. tv.-vel megállapított 129. § (3a) bekezdését a folyamatban lévő első- és másodfokú bírósági, továbbá felülvizsgálati eljárásokban is alkalmazni kell, amelyekben a bíróság a Hivatal határozatának hatályon kívül helyezéséről dönt.
+(2) A Mód. 3. tv.-vel megállapított 129. § (3a) bekezdését a folyamatban lévő közigazgatási per, továbbá felülvizsgálati eljárásokban is alkalmazni kell, amelyekben a bíróság a Hivatal határozatának hatályon kívül helyezéséről dönt.
 
 146/C. § (1) E törvénynek a szociális közműszolgáltatás kialakítása érdekében egyes energetikai tárgyú törvények módosításáról szóló 2013. évi XXIV. törvénnyel (a továbbiakban: Mód. 4. törvény) megállapított 63. § (5) bekezdésében foglaltaknak az engedélyeseknek a Mód. 4. törvény hatálybalépését követő 6 hónapon belül eleget kell tenniük. Az engedélyeseknek a Mód. 4. törvény hatálybelépésekor működtetett ügyfélszolgálataikat, amelyeket a Mód. 4. törvény 63/B. § (5) bekezdése alapján más ügyfélszolgálattal kell felváltaniuk, az e törvénynek a Mód. 4. törvénnyel megállapított 63. § (5) bekezdés szerinti ügyfélszolgálataik megnyitásáig fenn kell tartaniuk.
 
@@ -3142,7 +3121,7 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 
 (2) E törvénynek az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 104/B. § (4) bekezdése, 106. § (3) bekezdése és 108. § (2) bekezdése alapján kiadott határozatok nem lépnek hatályba.
 
-(3) Amennyiben az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvény hatálybalépésekor az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 104/B. § (4) bekezdése, 106. § (3) bekezdése és 108. § (2) bekezdése alapján kiadott határozatok bírósági felülvizsgálata folyamatban van, a bíróság az eljárását megszünteti.
+(3) Amennyiben az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvény hatálybalépésekor az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvénnyel megállapított 104/B. § (4) bekezdése, 106. § (3) bekezdése és 108. § (2) bekezdése alapján kiadott határozatok elleni közigazgatási per folyamatban van, a bíróság az eljárását megszünteti.
 
 (4) E törvénynek az egyes energetikai tárgyú törvények árszabályozási célú módosításáról szóló 2016. évi CLXXXIII. törvénnyel megállapított rendelkezéseit a folyamatban lévő hatósági eljárásokban és bírósági eljárásokban is alkalmazni kell.
 

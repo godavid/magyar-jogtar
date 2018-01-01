@@ -410,17 +410,17 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-38. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+38. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – törvény eltérő rendelkezése hiányában – kérelemre jár el.
 
 (2a) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
 
-(3) A közigazgatási hatósági eljárás általános szabályairól szóló törvénynek azok a rendelkezései, amelyek az eljárás megindításával és az első kapcsolatfelvétellel összefüggő – hivatalból vagy kérelemre történő – értesítésre és figyelemfelhívásra vonatkoznak, nem alkalmazhatók védjegyügyekben.
+(3) Védjegyügyekben nem alkalmazandó az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 62. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 97. §-a, 127. § (2) bekezdése és 130. §-a.
 
-(4) Védjegyügyekben nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a jogutódlásra vonatkozó rendelkezései.
+(4) Védjegyügyekben nem alkalmazandók az Ákr. jogutódlásra vonatkozó rendelkezései, sommás eljárásnak nincs helye és a kérelem a kormányablaknál nem terjeszthető elő.
 
-(5) Védjegyügyekben nem alkalmazhatók a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a közvetítő igénybevételére vonatkozó rendelkezései.
+(5)
 
 ### A Szellemi Tulajdon Nemzeti Hivatala döntései
 
@@ -435,11 +435,11 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - a) az ügyfél lakcíme, illetve székhelye (telephelye, fióktelepe) ismeretlen vagy
 - b) a postai küldemény azzal a megjegyzéssel érkezik vissza, hogy a címzett ismeretlen helyen tartózkodik vagy címe ismeretlen.
 
-(5) A hirdetményt a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában és internetes honlapján kell – ugyanazon a napon – közzétenni. A hirdetmény útján közölt döntést a hirdetmény közzétételét követő tizenötödik napon kell kézbesítettnek tekinteni. A döntés hirdetményi úton való közlésére egyebekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályait kell alkalmazni azzal, hogy kifüggesztésen a hirdetmény közzétételét kell érteni.
+(5) A hirdetményt a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában és internetes honlapján kell – ugyanazon a napon – közzétenni. A hirdetmény útján közölt döntést a hirdetmény közzétételét követő tizenötödik napon kell kézbesítettnek tekinteni. A döntés hirdetményi úton való közlésére egyebekben az Ákr. szabályait kell alkalmazni azzal, hogy kifüggesztésen a hirdetmény közzétételét kell érteni.
 
 (6) Ha a 44. § (1) bekezdése alkalmazásának van helye, valamennyi döntést a képviselő részére kell kézbesíteni.
 
-(7) Védjegyügyekben a közigazgatási hatósági eljárás általános szabályairól szóló törvénynek a határozat közzétételére vonatkozó rendelkezései nem alkalmazhatók.
+(7) Védjegyügyekben az Ákr.-nek a határozat közhírré tételére vonatkozó rendelkezései nem alkalmazhatók.
 
 ### A tényállás megállapítása
 
@@ -453,7 +453,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (4) A védjegyügyekben előterjesztett beadványokkal kapcsolatos hiányok pótlására – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – az ügyfelet fel kell hívni, illetve figyelmeztetni kell.
 
-(5) Védjegyügyekben nincs helye közmeghallgatásnak.
+(5)
 
 ### Határidők
 
@@ -461,7 +461,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (2) Ahol e törvény nem állapít meg határidőt a hiánypótlásra, illetve a nyilatkozattételre, az ügyfél részére legalább harmincnapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható. Három hónapot meghaladó, illetve háromnál többszöri határidő-hosszabbítás csak különösen indokolt esetben adható.
 
-(3) A védjegyeljárásokban nem érvényesül a Ket.-ben megállapított ügyintézési határidő, továbbá nem alkalmazhatók a Ket.-nek azok a rendelkezései sem, amelyek az eljáró hatóság egyéb intézkedésére állapítanak meg határidőt.
+(3) A védjegyeljárásokban nem érvényesül az Ákr.-ben megállapított ügyintézési határidő, továbbá nem alkalmazhatók az Ákr.-nek azok a rendelkezései sem, amelyek az eljáró hatóság egyéb intézkedésére állapítanak meg határidőt.
 
 (4) Védjegyügyekben a postán küldött beadvány előterjesztési ideje a Szellemi Tulajdon Nemzeti Hivatalához való beérkezés napja. A Szellemi Tulajdon Nemzeti Hivatala által kitűzött határidőhöz képest elkésetten beérkező beadványt azonban határidőben beérkezettnek kell tekinteni, ha azt ajánlott küldeményként a határidő lejárta előtt postára adták, kivéve ha a beadvány a határidő lejártát követő két hónap eltelte után érkezett be.
 
@@ -527,7 +527,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (1a) A kérelemre megtekinthető iratokba való betekintést a Szellemi Tulajdon Nemzeti Hivatala személyes megjelenéshez kötötten biztosítja.
 
-(2) A közigazgatási hatósági eljárás általános szabályairól szóló törvényben szabályozott eseteken kívül nem tekinthetők meg a védjegylajstromban fel nem tüntetett és a hatósági tájékoztatás során nem közölt személyes adatok, kivéve, ha megtekinthetővé tételükhöz az érintett kifejezetten hozzájárult, vagy ha a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint harmadik személy a személyes adatot tartalmazó iratba betekinthet.
+(2) Az Ákr.-ben szabályozott eseteken kívül nem tekinthetők meg a védjegylajstromban fel nem tüntetett és a hatósági tájékoztatás során nem közölt személyes adatok, kivéve, ha megtekinthetővé tételükhöz az érintett kifejezetten hozzájárult, vagy ha az Ákr. rendelkezései szerint harmadik személy a személyes adatot tartalmazó iratba betekinthet.
 
 (3) A megtekinthető iratokról a Szellemi Tulajdon Nemzeti Hivatala díjfizetés ellenében másolatot ad.
 
@@ -535,7 +535,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Jogorvoslatok
 
-46/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívás kibocsátásnak.
+46/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntéseivel kapcsolatban nincs helye fellebbezésnek, közigazgatási pernek, felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatalának a védjegyügyekben hozott döntéseit a bíróság a XI. fejezetben szabályozott nem peres eljárásban vizsgálja felül.
 
@@ -564,7 +564,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Végrehajtás
 
-46/B. § (1) A Ket.-nek a végrehajtásra vonatkozó rendelkezéseit a Szellemi Tulajdon Nemzeti Hivatalának az eljárási bírságot kiszabó végzéseire kell alkalmazni.
+46/B. § (1) Az Ákr.-nek a végrehajtásra vonatkozó rendelkezéseit a Szellemi Tulajdon Nemzeti Hivatalának az eljárási bírságot kiszabó végzéseire kell alkalmazni.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatalának a költségek viselése tárgyában hozott döntését a bírósági végrehajtásról szóló 1994. évi LIII. törvény szabályainak alkalmazásával kell végrehajtani.
 
@@ -1267,7 +1267,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 - a) a 46/A. § (3) bekezdésében felsorolt döntéseit;
 - b) az eljárást felfüggesztő és a védjegylajstromba való bejegyzés tárgyában hozott döntését;
-- c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye;
+- c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben az Ákr. rendelkezései szerint önálló jogorvoslatnak van helye;
 - d) az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzését;
 - e) az eljárási bírságot kiszabó, valamint az eljárási költség megállapításának és viselésének kérdésében hozott döntését.
 
@@ -1290,19 +1290,36 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - a) ez a későbbi, mint a (6) bekezdés szerinti döntés közlésének napja és
 - b) az igazolási kérelmet olyan mulasztás kimentésére terjesztették elő, amely közvetlenül a (6) bekezdés szerinti döntés alapjául szolgált.
 
-(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kézbesítésétől számított harminc napra ismételten megnyílik.
+(8)
 
 (9) A megváltoztatási kérelem a Szellemi Tulajdon Nemzeti Hivatalánál nyújtható be, amely azt a védjegyügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
 
 (10) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Szellemi Tulajdon Nemzeti Hivatala e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint a védjegyügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
-(11) A megváltoztatási kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
+(11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
+
+- a) az eljáró bíróság megnevezését,
+- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+
+(11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
+
+- a) a megváltoztatási kérelemmel érintett döntés számát, szükség esetén – ha rendelkezésre áll – a lajstromszámot, valamint a döntésnek a megváltoztatási kérelem által érintett rendelkezését vagy részét,
+- b) a döntés bíróság általi megváltozatására irányuló határozott kérelmet, valamint
+- c) a döntés megváltoztatásának szükségességét alátámasztó indokokat az ezeket alátámasztó bizonyítékokkal és a jogalap megjelölésével.
+
+(11b) A megváltoztatási kérelem záró részében fel kell tüntetni:
+
+- a) a bíróság hatáskörét és illetékességét megalapozó tényeket és jogszabályhelyet,
+- b) a megfizetett illeték összegét és megfizetésének módját, vagy az eljárási illeték részleges megfizetése esetén a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az ennek alapjául szolgáló tényeket és jogszabályhelyet,
+- c) a meghatalmazott képviseleti jogát megalapozó tényeket és jogszabályhelyet, valamint
+- d) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
 
 (12) Ha a megváltoztatási kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
 ### Hatáskör és illetékesség
 
-78. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntésének megváltoztatására irányuló eljárás a Fővárosi Törvényszék hatáskörébe és kizárólagos illetékessége alá tartozik.
+78. § (1) A Szellemi Tulajdon Nemzeti Hivatala döntésének megváltoztatására irányuló eljárás lefolytatására a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (2) A Fővárosi Törvényszék három hivatásos bíróból álló tanácsban jár el.
 
@@ -1310,18 +1327,18 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A megváltoztatási kérelemmel kapcsolatos eljárásra irányadó szabályok
 
-79. § A bíróság a Szellemi Tulajdon Nemzeti Hivatala döntésének megváltoztatására irányuló kérelmet a nem peres eljárás szabályai szerint – az e törvényben foglalt eltérő rendelkezések alkalmazásával – bírálja el. Ha e törvényből, illetve az eljárás nem peres jellegéből más nem következik, az eljárásra a Polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) általános szabályait megfelelően kell alkalmazni.
+79. § A bíróság a Szellemi Tulajdon Nemzeti Hivatala döntésének megváltoztatására irányuló kérelmet nemperes eljárásban – az e törvényben foglalt eltérő rendelkezések alkalmazásával – bírálja el. Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
 ### Nyilvánosság
 
-80. § A bíróság a tárgyalásról, a nyilvánosságot a fél kérelmére a Pp. általános rendelkezéseiben meghatározott feltételek hiányában is kizárhatja.
+80. § A bíróság a tárgyalásról, a nyilvánosságot a fél kérelmére a Pp.-ben meghatározott feltételek hiányában is kizárhatja.
 
 ### Kizárás
 
-81. § (1) A Pp. általános rendelkezéseiben meghatározott eseteken kívül az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt, aki
+81. § (1) A Pp.-ben meghatározott eseteken kívül az ügy elintézéséből ki van zárva, és abban mint bíró nem vehet részt, aki
 
 - a) a Szellemi Tulajdon Nemzeti Hivatala döntésének meghozatalában részt vett;
-- b) az a) pontban említett személynek a Pp. általános – a bírák kizárására vonatkozó – rendelkezéseiben megjelölt hozzátartozója.
+- b) az a) pontban említett személynek a Ptk. szerinti hozzátartozója.
 
 (2) Az (1) bekezdés rendelkezéseit a jegyzőkönyvvezetők és a szakértők kizárására is alkalmazni kell.
 
@@ -1345,6 +1362,8 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (2) A szabadalmi ügyvivőnek vagy ügyvédnek – akár belföldön, akár külföldön – adott meghatalmazás érvényességéhez elegendő, ha azt a meghatalmazó aláírta.
 
+85/A. § A bíróság előtti eljárásban a jogi képviselet kötelező, ideértve a jogorvoslati eljárásokat is.
+
 ### Eljárási költség
 
 86. § (1) Ha a bírósági eljárásban ellenérdekű fél is részt vett, az eljárási költségek előlegezésére, illetve viselésére a perköltségre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
@@ -1367,7 +1386,9 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Tárgyalás és bizonyítás
 
-89. § (1) Az első fokú bíróság a Pp. szabályai szerint bizonyítást folytat le, és tárgyalást tart.
+89. § (1) Az elsőfokú bíróság a Pp. szabályai szerint bizonyítást folytat le, és a Pp. érdemi tárgyalásra vonatkozó szabályai szerint tart tárgyalást.
+
+(1a) A bírósági eljárásban szünetelésnek nincs helye.
 
 (2) Ha az eljárásban ellenérdekű fél nem vesz részt, és az ügy az iratok alapján elbírálható, a bíróság tárgyaláson kívül is hozhat határozatot, azonban a felet – kívánságára – meg kell hallgatnia.
 
@@ -1395,7 +1416,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 92. § A bíróság az ügy érdemében hozott végzését kézbesítés útján közli; azt nem lehet a kihirdetéssel közöltnek tekinteni. Ha a megváltoztatási kérelmet a bíróság tárgyaláson bírálja el, az ügy érdemében hozott végzést a tárgyalás napján ki is kell hirdetni. A kihirdetést csak és akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a végzést a kihirdetés napjáig írásba is kell foglalni.
 
-93. § A Fővárosi Törvényszék végzése elleni fellebbezés elbírálása során a Pp. 257. §-ában foglaltakat kell megfelelően alkalmazni azzal, hogy a másodfokú bíróság erre irányuló kérelem esetén a feleket szóban is köteles meghallgatni, kivéve, ha a fellebbezést a Szellemi Tulajdon Nemzeti Hivatalának a 77. § (1) bekezdésének c) és d) pontjában meghatározott döntései ellen előterjesztett megváltoztatási kérelem tárgyában hozott végzéssel szemben nyújtották be.
+93. § A Fővárosi Törvényszék végzése elleni fellebbezés elbírálása során a Pp. 389–391. §-ában foglaltakat kell megfelelően alkalmazni azzal, hogy a másodfokú bíróság erre irányuló kérelem esetén a feleket szóban is köteles meghallgatni, kivéve, ha a fellebbezést a Szellemi Tulajdon Nemzeti Hivatalának a 77. § (1) bekezdésének c) és d) pontjában meghatározott döntései ellen előterjesztett megváltoztatási kérelem tárgyában hozott végzéssel szemben nyújtották be.
 
 94. §
 
@@ -1405,44 +1426,44 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 95. § (1) A védjegybitorlás miatt indított perekben, a 14. §, illetve a 19. § (5) bekezdése alapján a védjegynek a képviselő, illetve az ügynök általi használatától való eltiltás iránt, illetve a védjegyoltalmi igény vagy a védjegyoltalom átruházása iránt indított perekben, valamint az európai uniós védjegyrendelet [76/A. § a) pont] 110. és 111. cikke, illetve 165. cikkének (5) bekezdése alapján az európai uniós védjegy használatától való eltiltás iránt indított perekben a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik. E perekben a Fővárosi Törvényszék a 78. § (2) bekezdésében meghatározott összetételű tanácsban jár el.
 
-(2) Védjegybitorlás miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a kérelmező különös méltánylást érdemlő jogvédelméhez szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a védjegy oltalom alatt áll, és ő a védjegy jogosultja vagy olyan használója, aki jogosult saját nevében fellépni a bitorlással szemben.
+(2) Védjegybitorlás miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a Pp. 103. § (1) bekezdés d) pontja szerinti különös méltánylást érdemlő okból szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a védjegy oltalom alatt áll, és ő a védjegy jogosultja vagy olyan használója, aki jogosult saját nevében fellépni a bitorlással szemben.
 
 (3) A (2) bekezdés nem alkalmazható, ha a védjegybitorlás megkezdése óta hat hónap, illetve a kérelmezőnek a bitorlásról és a bitorló személyéről való tudomásszerzése óta hatvan nap már eltelt.
 
-(4) Védjegybitorlás esetén ideiglenes intézkedés iránti kérelem a keresetlevél benyújtását megelőzően is előterjeszthető, amelyet a Fővárosi Törvényszék nemperes eljárásban bírál el. Az ideiglenes intézkedés iránti nemperes eljárásra e törvény, valamint a Pp. általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók. Ha a kérelmező a (8) bekezdésben foglaltak szerint a védjegybitorlás miatt a pert megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
+(4) Védjegybitorlás vagy annak közvetlenül fenyegető veszélye esetén ideiglenes intézkedés iránti kérelem előterjeszthető a keresetlevél benyújtását megelőzően a Pp. perindítást megelőző ideiglenes intézkedésre vonatkozó rendelkezéseiben előírt többletfeltételek hiányában is. A keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés iránti kérelmet a Fővárosi Törvényszék bírálja el. Az ideiglenes intézkedés iránti nemperes eljárásra, e törvény eltérő rendelkezése hiányában, a polgári perrendtartásról szóló törvény szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni. Ha a kérelmező a (8) bekezdésben foglaltak szerint a védjegybitorlás miatt a pert megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
 
 (5) A védjegyjogosult – a bitorlás esetén támasztható polgári jogi igényeken felül – az ideiglenes intézkedésre vonatkozó feltételekkel kérheti a bíróságtól
 
 - a) biztosítási intézkedés elrendelését a bírósági végrehajtásról szóló törvény szabályai szerint, ha valószínűsítette, hogy a kártérítés, illetve a bitorlással elért gazdagodás visszatérítése iránti követelésének későbbi kielégítése veszélyben van;
 - b) a bitorló kötelezését banki, pénzügyi és kereskedelmi adatainak és iratainak közlésére, illetve bemutatására az a) pont szerinti biztosítási intézkedés elrendelése céljából;
-- c) biztosíték adását, ha ennek fejében – a védjegybitorlás abbahagyásának követelése helyett – hozzájárul a feltételezett védjegybitorlási cselekmények bitorló általi folytatásához.
+- c) ellenbiztosíték adását, ha ennek fejében – a védjegybitorlás abbahagyásának követelése helyett – hozzájárul a feltételezett védjegybitorlási cselekmények bitorló általi folytatásához.
 
-(6) A biztosíték letételét az (5) bekezdés c) pontja alapján a bíróság a védjegyjogosult erre irányuló kérelme hiányában is elrendelheti, feltéve, hogy a védjegyjogosult előterjesztett kérelmet a bitorlás abbahagyása iránt, és annak a bíróság nem ad helyt.
+(6) Az ellenbiztosíték adását az (5) bekezdés c) pontja alapján a bíróság a védjegyjogosult erre irányuló kérelme hiányában is elrendelheti, feltéve, hogy a védjegyjogosult előterjesztett kérelmet a bitorlás abbahagyása iránt, és annak a bíróság nem ad helyt.
 
-(7) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül határoz. Az ideiglenes intézkedés tárgyában hozott határozat elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
+(7) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz. Az ideiglenes intézkedés tárgyában hozott végzés elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
 
-(8) A bíróság a keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés – ideértve az (5) és a (6) bekezdést is – tárgyában hozott határozatát az ellenfél kérelmére hatályon kívül helyezi, ha a védjegyjogosult a pert a védjegybitorlás miatt az ideiglenes intézkedéssel érvényesített követelés tárgyában nem indította meg a határozat közlésétől számított tizenöt napon belül. A bíróság az ideiglenes intézkedés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül határoz.
+(8) A bíróság a keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés iránti kérelem – ideértve az (5) és (6) bekezdés alapján elrendelhető intézkedéseket is – tárgyában hozott végzését az ellenérdekű fél kérelmére hatályon kívül helyezi, ha a védjegyjogosult a pert a védjegybitorlás miatt az ideiglenes intézkedéssel érvényesített követelés tárgyában nem indította meg a végzés közlésétől számított tizenöt napon belül. A bíróság az ideiglenes intézkedés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz.
 
-(9) Ha a védjegybitorlás miatt indított perben az egyik fél tényállításait már elvárható mértékben valószínűsítette, a bíróság a bizonyító fél kérelmére az ellenfelet kötelezheti
+(9) Ha a védjegybitorlás miatt indított perben az egyik fél tényállításait már elvárható mértékben valószínűsítette, a bíróság a bizonyító fél kérelmére az ellenérdekű felet kötelezheti
 
 - a) a birtokában lévő okirat és egyéb tárgyi bizonyíték bemutatására, valamint a szemle lehetővé tételére;
 - b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában lévő ilyen iratok bemutatására.
 
-(10) Előzetes bizonyításnak a per megindítása előtt helye van akkor is, ha a védjegyjogosult a védjegybitorlás tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Ha a per még nem indult meg, az előzetes bizonyítást a Fővárosi Törvényszéknél kell kérni. Az előzetes bizonyítást a Fővárosi Törvényszék foganatosítja. Az előzetes bizonyítás elrendelésének kérdésében hozott határozat ellen fellebbezésnek van helye.
+(10) Előzetes bizonyításnak a per megindítása előtt helye van akkor is, ha a védjegyjogosult a védjegybitorlás tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Az előzetes bizonyítás tárgyában a bíróság soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz. Az előzetes bizonyítást elutasító végzés ellen fellebbezésnek van helye, amelyet a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül végzéssel bírál el. Ha a per még nem indult meg, az előzetes bizonyítást a Fővárosi Törvényszéknél kell kérni. Az előzetes bizonyítást a Fővárosi Törvényszék folytatja le.
 
-(11) A bíróság az előzetes bizonyítást elrendelő határozatot az ellenfél kérelmére hatályon kívül helyezi, ha a védjegyjogosult a pert a védjegybitorlás miatt nem indította meg az előzetes bizonyítást elrendelő határozat közlésétől számított tizenöt napon belül. A bíróság az előzetes bizonyítás hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül határoz.
+(11) A bíróság az előzetes bizonyítást elrendelő végzést az ellenérdekű fél kérelmére hatályon kívül helyezi, ha a védjegyjogosult a pert a védjegybitorlás miatt nem indította meg az előzetes bizonyítást elrendelő végzés közlésétől számított tizenöt napon belül. A bíróság az előzetes bizonyítást elrendelő végzés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz.
 
-(12) Ha a késedelem helyrehozhatatlan károkat okozna, az a rendkívül sürgős szükség esetének minősül, és erre figyelemmel az ideiglenes intézkedés – ideértve az (5) és a (6) bekezdést is – elrendelésének kérdésében az ellenfél meghallgatása mellőzhető. Ha a késedelem helyrehozhatatlan károkat okozna, vagy ha valószínűsíthető a bizonyítékok megsemmisítésének kockázata, az sürgős esetnek minősül, és erre figyelemmel az előzetes bizonyítás elrendelésének kérdésében az ellenfél meghallgatása mellőzhető. Az ellenfél meghallgatásának mellőzésével hozott határozatot az ellenféllel a foganatosításkor kell közölni. A határozat közlését követően az ellenfél kérheti a meghallgatását és az ideiglenes intézkedést, illetve az előzetes bizonyítást elrendelő határozat megváltoztatását vagy hatályon kívül helyezését.
+(12) Az ideiglenes intézkedés – ideértve az (5) és (6) bekezdés alapján elrendelhető intézkedéseket is – elrendelésének kérdésében az ellenérdekű fél meghallgatása mellőzhető, ha az ebből fakadó késedelem helyrehozhatatlan károkat okozna. Az előzetes bizonyítás elrendelésének kérdésében az ellenérdekű fél meghallgatása a Pp. 337. § (1) bekezdés b) pontja alapján mellőzhető, ha a meghallgatásból fakadó késedelem helyrehozhatatlan károkat okozna, vagy ha a bizonyítékok megsemmisítésének kockázata valószínűsíthető. Ha a bíróság az ellenérdekű fél meghallgatását mellőzi, az ideiglenes intézkedés vagy az előzetes bizonyítás elrendeléséről szóló végzést az ellenérdekű féllel a foganatosítást követően haladéktalanul közölni kell. A végzés közlését követően az ellenérdekű fél kérheti a meghallgatását és az ideiglenes intézkedést, illetve az előzetes bizonyítást elrendelő végzés megváltoztatását vagy hatályon kívül helyezését. Az ideiglenes intézkedés vagy az előzetes bizonyítás iránti kérelem elutasítása esetén a bíróság az elutasításról szóló végzéssel együtt küldi meg az ellenérdekű fél részére az ideiglenes intézkedés vagy az előzetes bizonyítás elrendelése iránti kérelmet.
 
-(13) A bíróság az előzetes bizonyítás és – az (5) bekezdés c) pontját és a (6) bekezdést kivéve – az ideiglenes intézkedés elrendelését biztosítékadáshoz kötheti.
+(13) A bíróság az előzetes bizonyítás és – az (5) bekezdés c) pontját és a (6) bekezdést kivéve – az ideiglenes intézkedés elrendelését az ellenérdekű fél kérelmére biztosítékadáshoz kötheti.
 
-(14) Ha az (5) bekezdés c) pontjában, a (6) bekezdésben és a (13) bekezdésben meghatározott esetekben a biztosíték összegéből való kielégítésre jogosult fél igényét az előzetes bizonyítás, illetve az ideiglenes intézkedés tárgyában hozott végzést hatályon kívül helyező határozat, illetve az ítélet (permegszüntető végzés) jogerőre emelkedésétől számított három hónapon belül nem érvényesíti, a letevő a biztosíték visszaadását kérheti a bíróságtól.
+(14) Az (5) bekezdés c) pontjában, a (6) bekezdésben és a (13) bekezdésben meghatározott biztosíték vagy ellenbiztosíték kiadására vagy visszaadására a Pp. biztosítékra vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság – az ítélet mellett – az előzetes bizonyítás, illetve az ideiglenes intézkedés tárgyában hozott végzést hatályon kívül helyező vagy annak hatályvesztését megállapító végzésben is rendelkezhet a biztosíték vagy ellenbiztosíték visszaadásáról vagy kiadásáról.
 
 (14a) Védjegybitorlás miatt indított perekben a 27. § (2)–(3) bekezdésében foglalt jogkövetkezmények arra az időszakra nézve nem alkalmazhatók, amikor a védjegyoltalom megszűnése megállapításának feltételei – feltéve, hogy az alperes érdemi védekezésében erre hivatkozik – e törvény alapján fennálltak.
 
-(15) Az (1) bekezdésben nem említett, védjeggyel kapcsolatos minden más jogvitás ügy a törvényszék hatáskörébe tartozik.
+(15) Az (1) bekezdésben meghatározott, valamint a védjeggyel kapcsolatos minden más perben egyebekben a Pp. szabályait kell alkalmazni az e törvény 80. §-ában és 85. §-ában, valamint 86. § (3) bekezdésében foglalt eltérésekkel.
 
-(16) Az (1) és a (15) bekezdésben említett perekben egyebekben a Pp. általános szabályait kell alkalmazni az e törvény 80. és 85. §-ában, valamint 86. §-ának (3) bekezdésében foglalt eltérésekkel.
+(16)
 
 ## HATODIK RÉSZ — AZ EGYÜTTES ÉS A TANÚSÍTÓ VÉDJEGY
 
@@ -1890,6 +1911,8 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 (5) A 3. § (2) bekezdésének 2009. augusztus 1-jétől hatályos rendelkezéseit alkalmazni kell azokban az ügyekben is, amelyek 2009. augusztus 1-jén folyamatban voltak.
 
 120. § Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+120/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 ### Felhatalmazások
 

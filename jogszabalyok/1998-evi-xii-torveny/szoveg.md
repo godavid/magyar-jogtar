@@ -258,7 +258,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 - a) a szülői felügyeleti jog gyakorlására jogosult bármelyik szülő vagy a gyám azért kéri, mert az úti okmány kiadásához való hozzájárulását visszavonta, vagy
 - b) a szülői felügyeleti jog gyakorlására jogosult szülő azért kéri, mert a másik szülő – akinek a szülői felügyeleti joga megszűnt vagy szünetel – a kiskorú úti okmányát a felügyeleti jog szünetelése alatt vagy megszűnését követően nem adta át.
 
-(4)
+(4) Ha a szülői felügyelet gyakorlásáról a gyámhatóság vagy a bíróság rendelkezett, a szülői felügyelet gyakorlására való jogosultság kizárólag a gyámhatóság vagy a bíróság rendelkezésének bemutatásával igazolható. A hivatkozott rendelkezés tartalmára vonatkozóan az ügyfél nyilatkozatot nem tehet.
 
 20. § (1) Érvénytelen az úti okmány, ha
 
@@ -284,6 +284,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 21/A. § (1) Az útlevélhatóság erre irányuló kérelemre a magánútlevelet, a második magánútlevelet, a szolgálati útlevelet, valamint a hajós szolgálati útlevelet soron kívüli, a magánútlevelet, valamint a második magánútlevelet sürgősségi vagy azonnali eljárás keretében adja ki. A magánútlevél, a második magánútlevél, a szolgálati útlevél, valamint a hajós szolgálati útlevél soron kívüli, valamint a magánútlevél és a második magánútlevél sürgősségi, illetve azonnali eljárásban történő kiadásának eljárási szabályait a Kormány rendeletben állapítja meg.
 
 (2) A magánútlevél, valamint a második magánútlevél soron kívüli, azonnali, illetve sürgősségi eljárásban történő kiadásáért az ügyfél az illetékekről szóló törvényben meghatározott illetéken felül igazgatási szolgáltatási pótdíjat köteles fizetni.
+
+(3) A magánútlevél és a második magánútlevél azonnali vagy sürgősségi eljárás keretében történő kiállítása esetén, illetve az ideiglenes magánútlevél kiállítása esetén az okmány kiállításának ügyintézési határideje a kérelem benyújtásának napján kezdődik.
 
 21/B. § (1) Az úti okmány iránti kérelem előterjesztésekor – a (2)–(8) bekezdésben meghatározott kivétellel – személyesen kell megjelenni. Az úti okmány iránti kérelem előterjesztésekor – az (5) bekezdésben meghatározott kivétellel – az elektronikus ügyintézésre vonatkozó rendelkezések nem alkalmazhatóak.
 
@@ -315,7 +317,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (2) Az elvett úti okmányt haladéktalanul meg kell küldeni az útlevélhatóságnak.
 
-(3) Az úti okmány elvétele ellen önálló jogorvoslatnak nincs helye, az az úti okmány visszavonását elrendelő határozat elleni fellebbezésben támadható meg.
+(3) Az úti okmány elvétele ellen önálló jogorvoslatnak nincs helye, az az úti okmány visszavonását elrendelő határozat elleni közigazgatási per keretében támadható meg.
 
 (4)
 
@@ -464,7 +466,7 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 (4) Az e törvény alapján kezelt személyes adatok külföldi adatkezelő részére – ideértve a nemzetközi szervezeteket is – nemzetközi szerződés alapján továbbíthatók, feltéve, ha az adatkezelés feltételei a külföldi adatkezelőnél minden egyes adatra nézve azonosan teljesülnek.
 
-(5) Ha az adatszolgáltatás iránti kérelemben hatósági bizonyítvány kiállítását nem kérik, az adatszolgáltatás ügyintézési határideje – a kérelem beérkezését követő naptól számított – húsz nap. Az adatszolgáltatás elektronikus információátadás keretén kívül is teljesíthető.
+(5) Az adatszolgáltatási ügyekben az ügyintézési határidő 20 nap. Az adatszolgáltatás elektronikus információátadás keretén kívül is teljesíthető.
 
 (6) Az (1), (2) és (2b) bekezdésben meghatározott adatszolgáltatási eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -485,7 +487,7 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 (2) Az útlevélhatósági eljárásban keletkezett iratokat az úti okmány érvényességi idejének lejártától számított egy évig kell megőrizni, ezt követően azokat az iratkezelésre irányadó jogszabályok szerint selejtezni kell.
 
-31. § (1) Az adatkezelő szerv a 24. §-ban meghatározott adatokat az úti okmány érvényességi idejének lejártától számított öt évig kezeli.
+31. § (1) Az adatkezelő szerv a 24. § (1) bekezdésében meghatározott adatokat az úti okmány érvényességi idejének lejártától számított tizenöt évig kezeli.
 
 (2) Az adatkezelő szerv a 16/B. § (3) bekezdésében meghatározott adatokat a külföldre utazást korlátozó ok megszűnését követő egy évig kezeli.
 
@@ -534,7 +536,8 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 - a) az útlevélhatóságokat, feladat- és hatáskörüket, továbbá az úti okmánnyal összefüggő feladatok ellátásában közreműködő szerveket és feladataikat;
 - b) az útlevél kivételével az egyéb úti okmányok fajtáit;
 - c) az eljárás részletes szabályait, valamint az úti okmányok kezelésére vonatkozó rendelkezéseket;
-- d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős szervet.
+- d) a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős szervet,
+- e) a külpolitikáért felelős miniszter által kiadott útlevelek kiadásának és kezelésének részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy az adatkezelő szervet rendeletben jelölje ki.
 
@@ -549,7 +552,7 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 - g) a 28. § (1), (2) és (2b) bekezdése szerinti adatszolgáltatás iránti kérelem benyújtására szolgáló formanyomtatvány adattartalmát;
 - h) az adópolitikáért felelős miniszterrel egyetértésben a törvénnyel kihirdetett nemzetközi szerződés alapján kiállítandó közokirat kiadásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint megfizetésének szabályait.
 
-(3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az általa kiadott útlevelek kezelésének részletes szabályait.
+(3)
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a külföldre utazás szabályozásáért felelős miniszterrel egyetértésben a NATO menetparancs (az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodás (NATO-SOFA Megállapodás) III. Cikk 2/b) pontjában meghatározott okmány) alkalmazásával kapcsolatos részletes szabályokat rendeletben állapítsa meg.
 

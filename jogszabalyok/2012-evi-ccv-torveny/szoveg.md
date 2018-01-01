@@ -157,7 +157,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 
 (8a) Jogszabály a jognyilatkozat megtételét az állomány tagjának kérelméhez vagy beleegyezéséhez kötheti.
 
-(9) A jogorvoslat módjára és határidejére a munkáltatói döntésben – döntési lap formájában hozott munkáltatói döntés esetében az arról készített határozatban – utalni kell. Ha törvény alapján bírósági eljárásnak van helye, a jogorvoslatról való tájékoztatásnak tartalmaznia kell az eljáró bíróság és az alperes megnevezését, a jogorvoslat előterjesztésére nyitva álló határidőt, valamint azt a felhívást, hogy a keresetlevelet vagy a bírósági felülvizsgálat iránti kérelmet a határidő végéig postára kell adni. Ha a határidő jogvesztő, a felhívásnak arra is ki kell terjednie, hogy a keresetlevélnek a határidő végéig a bírósághoz vagy az intézkedésre jogosult első fokú hatósághoz meg kell érkeznie.
+(9) A jogorvoslat módjára és határidejére a munkáltatói döntésben – döntési lap formájában hozott munkáltatói döntés esetében az arról készített határozatban – utalni kell. Ha törvény alapján bírósági eljárásnak van helye, a jogorvoslatról való tájékoztatásnak tartalmaznia kell az eljáró bíróság és az alperes megnevezését, a jogorvoslat előterjesztésére nyitva álló határidőt, valamint azt a felhívást, hogy a keresetlevelet a határidő végéig postára kell adni. Ha a határidő jogvesztő, a felhívásnak arra is ki kell terjednie, hogy a keresetlevélnek a határidő végéig a bírósághoz vagy az intézkedésre jogosult első fokú hatósághoz meg kell érkeznie.
 
 (10) A jogról lemondó vagy az abból engedő jognyilatkozat kizárólag írásban érvényes, és kiterjesztően nem értelmezhető.
 
@@ -176,7 +176,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 - a) ha a címzett vagy az átvételre jogosult más személy a küldemény átvételét megtagadta, az átvétel megtagadásának napján,
 - b) ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át, az „nem kereste” jelzéssel érkezett vissza, a postai kézbesítés második megkísérlésének napját követő 5. munkanapon.
 
-(6) Az olyan jognyilatkozattal kapcsolatban, amellyel szemben e törvény alapján bírósági eljárásnak van helye, a (2) bekezdésben szabályozott kézbesítési vélelem megdöntése iránt az eljárás kezdeményezésével egyidejűleg, a kézbesítési vélelem beálltáról való tudomásszerzéstől számított 15 napon, de legkésőbb a vélelem beálltától számított 6 hónapon belül terjeszthető elő kérelem a bíróságnál. A kézbesítési vélelem megdöntésére egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni. A vélelem megdöntése esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.
+(6)
 
 #### 8. A képviselet
 
@@ -402,9 +402,9 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 
 #### 18. A szolgálati viszony létesítésének feltételei
 
-31. § (1) Szolgálati viszony a 18. életévét betöltött, cselekvőképes, állandó belföldi lakóhellyel vagy tartózkodási hellyel rendelkező és a katonai szolgálatra egészségi, pszichikai és fizikai szempontból alkalmas magyar állampolgárral létesíthető, akivel szemben a (2) és a (3) bekezdés szerinti kizáró ok nem áll fenn.
+31. § (1) Szolgálati viszony a 18. életévét betöltött, cselekvőképes, állandó belföldi lakóhellyel vagy tartózkodási hellyel rendelkező magyar állampolgárral létesíthető, akivel szemben a (2) és a (3) bekezdés szerinti kizáró ok nem áll fenn.
 
-(1a) A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasság feltételeit és az alkalmasság vizsgálatának rendjét miniszteri rendelet határozza meg.
+(1a) A szolgálati viszony miniszteri rendeletben meghatározott egészségi, pszichikai és fizikai alkalmassági feltételek esetén létesíthető, illetve tartható fenn. A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasság feltételeit és az alkalmasság vizsgálatának rendjét miniszteri rendelet határozza meg.
 
 (2) Nem létesíthető szolgálati viszony azzal,
 
@@ -1910,7 +1910,7 @@ időtartamát.
 (2) A szülési szabadságot az (1) bekezdés szerinti időtartamból még hátralévő időre engedélyezni kell továbbá
 
 - a) annak a nőnek, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, a gondozásba vétel napjától,
-- b) annak a gyámnak, aki a gyermeket jogerős döntés alapján gondozza, a kirendelés napjától,
+- b) annak a gyámnak, aki a gyermeket véglegessé vált döntés alapján gondozza, a kirendelés napjától,
 - c) a gyermeket gondozó vér szerinti apának, ha a szülő nő igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák, az igazoláson feltüntetett naptól ezen egészségi állapot fennállásáig,
 - d) a gyermeket gondozó vér szerinti apának, ha a szülő nő meghal, az elhalálozás napjától,
 - e) annak a férfinak, aki a gyermeket örökbefogadási szándékkal nevelésbe vette, ha a gyermeket vele együtt örökbe fogadni szándékozó nő az egészségügyi szolgáltató által igazoltan, az egészségi állapota miatt kikerül abból a háztartásból, ahol a gyermeket gondozzák, az igazoláson feltüntetett naptól ezen egészségi állapot fennállásáig,
@@ -2346,11 +2346,30 @@ valósul meg. A legénységi állomány tagja, továbbá az állomány próbaid�
 
 142. § (1) Az állomány tagja a kötelező egészségbiztosításról szóló törvény szerinti baleseti ellátásra szolgálati kötelmekkel összefüggő baleseti sérülése vagy szolgálati eredetű betegsége következtében jogosult.
 
-(2) Az állomány tagja balesetének, betegségének vagy az ezek miatt bekövetkezett halálának szolgálati kötelmekkel való összefüggését hivatalból kell vizsgálni. A balesetnek és a betegségnek a szolgálati kötelmekkel való összefüggéséről a miniszter által rendeletben kijelölt honvédségi szervezet, a miniszteri rendelet szerinti eljárásban, minősítő határozatban dönt.
+(2) Az állomány tagja balesetének, betegségének vagy az ezek miatt bekövetkezett halálának szolgálati kötelmekkel való összefüggését hivatalból kell vizsgálni. A balesetnek a szolgálati kötelmekkel való összefüggéséről a miniszter, a betegségnek a szolgálati kötelmekkel való összefüggéséről a Kormány által rendeletben kijelölt szerv a kijelölő rendelet szerinti eljárásban, minősítő határozatban dönt.
 
-(3) A minősítő határozatot az állomány tagjával, halála esetén közeli hozzátartozójával vagy élettársával közölni kell.
+(3) Az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati kötelmekkel való összefüggésének
 
-(4) A baleseti járadék megállapításáról első fokon a miniszter által rendeletben kijelölt honvédségi szervezet indokolt határozatban dönt. A baleseti járadékra való jogosultság vizsgálatának szabályait miniszteri rendelet határozza meg.
+- a) vizsgálatára és minősítésére irányuló eljárásra a (6)–(9) bekezdést alkalmazni kell, és
+- b) elbírálására irányuló eljárásban az eljárási határidő 60 nap.
+
+(4) A minősítő határozatot az állomány tagjának halála esetén közeli hozzátartozójával vagy élettársával is közölni kell.
+
+(5) A baleseti járadékra való jogosultság tárgyában első fokon a Kormány által rendeletben kijelölt szerv dönt.
+
+(6) A baleseti járadékra való jogosultsággal kapcsolatos eljárás során az eljáró szerv írásban tart kapcsolatot az ügyféllel.
+
+(7) A baleseti járadékra való jogosultsággal kapcsolatos ügyben hozott határozatba harmadik személy nem tekinthet be.
+
+(8) A baleseti járadék megállapítása iránti kérelem kormányablaknál nem terjeszthető elő.
+
+(9) A baleseti járadék megállapítására irányuló eljárás során hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+
+(10) A baleseti járadék megállapításával, továbbfolyósításával kapcsolatos eljárásban az eljáró szerv az eljárást felfüggesztheti az orvosszakértői szervnek az egészségkárosodás mértéke megállapítására irányuló eljárása időtartamára.
+
+(11) A baleseti járadékra való jogosultság tárgyában hozott határozat ellen benyújtott fellebbezést a miniszter bírálja el.
+
+(12) A baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait kormányrendelet határozza meg.
 
 #### 85. Az árvák kiegészítő támogatása, a kiegészítő rokkantsági támogatás és a kiegészítő hozzátartozói támogatás
 
@@ -2469,7 +2488,7 @@ fenyítés szabható ki.
 (2) Az eljárás felfüggesztése
 
 - a) az (1) bekezdés a) pontja esetén legfeljebb az akadály megszűnéséig,
-- b) az (1) bekezdés b) pontja esetén legfeljebb az eljárás jogerős befejezéséig vagy a szakvélemény elkészítéséig
+- b) az (1) bekezdés b) pontja esetén legfeljebb az eljárás jogerős vagy végleges befejezéséig vagy a szakvélemény elkészítéséig
 
 tart.
 
@@ -2848,7 +2867,7 @@ különbözetének megtérítése iránti igényt.
 
 #### 100. A kérelem
 
-179. § (1) Az állomány tagja a szolgálati viszonnyal összefüggő ügyekben írásban – szolgálati út betartásával – a munkáltatói jogkört gyakorlóhoz kérelmet terjeszthet elő.
+179. § (1) Az állomány tagja a szolgálati viszonnyal összefüggő ügyekben – a szolgálati út betartásával – a munkáltatói jogkört gyakorlóhoz kérelmet terjeszthet elő. A kérelem írásban, papíralapon vagy – miniszteri rendeletben meghatározott esetekben és módon – elektronikus úton terjeszthető elő.
 
 (2) A munkáltatói jogkört gyakorló az (1) bekezdés alapján a kérelem kézhezvételét követő 30 napon belül intézkedni köteles, melyről a kérelmezőt 15 napon belül tájékoztatja.
 
@@ -2928,7 +2947,7 @@ különbözetének megtérítése iránti igényt.
 
 #### 103. A bírósági út
 
-186. § (1) Az állomány tagja 30 napos jogvesztő határidőn belül keresettel közvetlenül bírósághoz fordulhat, ha
+186. § (1) Az állomány tagja 30 napos jogvesztő határidőn belül keresettel közvetlenül közigazgatási ügyben eljáró bírósághoz fordulhat, ha
 
 - a) a sérelmezett jognyilatkozattal összefüggésben a szolgálati panaszhoz vagy a fellebbezéshez való jogát kimerítette,
 - b) a sérelmezett jognyilatkozattal kapcsolatban szolgálati panaszát vagy fellebbezését az arra jogosult határidőn belül nem bírálta el,
@@ -2939,11 +2958,13 @@ különbözetének megtérítése iránti igényt.
 
 (3) A Honvédség a kártérítési felelősség megállapítása érdekében közvetlenül bírósághoz fordulhat, ha az állomány tagjának szolgálati viszonya a kártérítési eljárás jogerős befejezése előtt megszűnik.
 
-(4) Az (1) bekezdés alkalmazásában a per alpereseként – ha jogszabály eltérően nem rendelkezik – azt a honvédségi szervezetet kell megjelölni, amelyben az állomány keresetet előterjesztő tagja a jogvita alapját képező döntés vagy mulasztás időpontjában szolgálatát teljesítette.
+(4) Az (1) bekezdés alkalmazásában a per alpereseként – ha törvény eltérően nem rendelkezik – azt a honvédségi szervezetet kell megjelölni, amelyben az állomány keresetet előterjesztő tagja a jogvita alapját képező döntés vagy mulasztás időpontjában szolgálatát teljesítette.
+
+(5) A (4) bekezdéstől eltérően a Honvédség kártérítési felelőssége, a kiegészítő támogatások, az egészségkárosodási ellátások és a baleseti járadék tárgyában hozott másodfokú határozat ellen benyújtott keresetben a per alpereseként a miniszter által vezetett minisztériumot kell megjelölni.
 
 187. § (1) A miniszter tábornokok szolgálati viszonyának megszűnésére, megszüntetésére, és a nyugállományú tábornok egyenruha-viselési és rendfokozat-használati méltatlanságának megállapítására vonatkozó előterjesztési javaslatát haladéktalanul közölni kell a tábornokkal.
 
-(2) A tábornok az előterjesztési javaslattal szemben a kézbesítéstől számított 30 napos jogvesztő határidőn belül bírósághoz fordulhat, melyet a miniszternek köteles írásban jelenteni. A kereset benyújtásától annak jogerős elbírálásáig a tábornokot rendelkezési állományba kell helyezni, és tartani.
+(2) A tábornok az előterjesztési javaslattal szemben a kézbesítéstől számított 30 napos jogvesztő határidőn belül közigazgatási ügyben eljáró bírósághoz fordulhat, melyet a miniszternek köteles írásban jelenteni. A kereset benyújtásától annak jogerős elbírálásáig a tábornokot rendelkezési állományba kell helyezni, és tartani.
 
 (3) A kereset jogerős elbírálásáig az előterjesztési javaslat nem terjeszthető a köztársasági elnök elé.
 
@@ -2960,7 +2981,7 @@ különbözetének megtérítése iránti igényt.
 
 #### 105. A szolgálati viszony jogellenes megszüntetésének jogkövetkezményei
 
-189. § (1) Ha a bíróság megállapítja, hogy a Honvédség az állomány tagjának szolgálati viszonyát jogellenesen szüntette meg, a szolgálati viszony megszüntetéséről hozott határozatot az (5) vagy a (6) bekezdés szerint hatályon kívül helyezi, és a (2) vagy a (3) bekezdés szerint rendelkezik az eredeti szolgálati beosztásban történő továbbfoglalkoztatásról vagy mellőzi azt.
+189. § (1) Ha a bíróság megállapítja, hogy a Honvédség az állomány tagjának szolgálati viszonyát jogellenesen szüntette meg, a szolgálati viszony megszüntetéséről hozott határozatot az (5) vagy a (6) bekezdés szerint megsemmisíti, és a (2) vagy a (3) bekezdés szerint rendelkezik az eredeti szolgálati beosztásban történő továbbfoglalkoztatásról vagy mellőzi azt.
 
 (2) Az állomány tagja abban az esetben kérheti az eredeti szolgálati beosztásban történő továbbfoglalkoztatását, ha
 
@@ -3297,9 +3318,9 @@ jogosult.
 
 #### 127. A XV. Fejezethez kapcsolódó rendelkezések
 
-222. § (1) Az önkéntes tartalékos katona a rendelkezésre állás ideje alatt jogorvoslati jogát gyakorolhatja, és keresettel fordulhat a bírósághoz a szolgálati viszonyból származó jogvita esetén.
+222. § (1) Az önkéntes tartalékos katona a rendelkezésre állás ideje alatt is az e törvényben foglaltak szerint gyakorolhatja a jogorvoslati jogát.
 
-(2) A munkáltatói jogkört gyakorló szolgálati viszonnyal összefüggésben keletkezett kárigényét a rendelkezésre állás időszakában is a honvédségi szervezet székhelye szerint illetékes közigazgatási és munkaügyi bíróságon fizetési meghagyással vagy keresetlevéllel érvényesítheti.
+(2) A Honvédség a szolgálati viszonnyal összefüggésben keletkezett kárigényét a rendelkezésre állás időszakában is a munkáltatói jogkört gyakorló honvédségi szervezet székhelye szerint illetékes közigazgatási ügyekben eljáró bíróságon érvényesítheti.
 
 ### XIX. Fejezet — A NYUGÁLLOMÁNYÚ KATONÁRA VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -3473,7 +3494,8 @@ jogosult.
 - c) az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételének szabályait, valamint az egészségügyi ellátás rendjét,
 - d) a tiszti és az altiszti állomány tagjára vonatkozó teljesítményértékelés kötelező elemeit és a kötelező elemekhez kapcsolódó eljárási rendet,
 - e) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat,
-- f) a 47. § (4) bekezdése szerinti együttműködés rendjét.
+- f) a 47. § (4) bekezdése szerinti együttműködés rendjét,
+- g) az állomány tagja betegsége vagy emiatt bekövetkezett halála szolgálati kötelmekkel való összefüggésének, valamint a baleseti járadékra való jogosultság vizsgálatának és megállapításának szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -3501,7 +3523,7 @@ jogosult.
 - 22. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársaiknak nyújtható juttatások, költségtérítések, kedvezmények, támogatások, természetbeni ellátás fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és – visszatérítési kötelezettség esetén – az elengedés részletes rendjét,
 - 23. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját, a miniszter által vezetett minisztérium vagyonkezelésében álló lakások bérleti és különszolgáltatási díját, a lakott forgalmi értéke és a szolgálatban töltött idő figyelembevételével kialakítandó tényleges elidegenítési vételár képzését tartalmazó szabályokat, a végleges letelepedés támogatásának szabályait, a szolgálati hely szerinti település vonzáskörzetének meghatározását, valamint az állomány hősi halottá nyilvánított tagja részére nyújtott kamatmentes kölcsönből fennálló tartozás elengedésének, továbbá a túlélő hozzátartozó lakhatási támogatásának részletes szabályait, a legénységi állományúakra, az állomány próbaidős tagjára, a nyugállományú katonára vonatkozó eltérő szabályokat,
 - 24. a napi és a heti szolgálatteljesítési időre, a szolgálatteljesítési időkeretre, különösen annak kiszámítására és az elszámolásra vonatkozó végrehajtási szabályokat, a szolgálatteljesítési idő egyenlőtlen, vasárnapra vagy munkaszüneti napra történő beosztására, a túlszolgálat, az őr-, az ügyeleti és a készenléti szolgálat, továbbá a nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölésen alapuló egyéb készenléti tevékenység elrendelésére, nyilvántartására, az ezeket követő pihenőidő vagy szabadnap kiadására,, valamint az ellentételezésük nyilvántartására, a visszarendelés következtében szolgálatteljesítéssel töltött idő ellentételezésére, a szabadság nyilvántartására és kiadására vonatkozó szabályokat, továbbá az olyan jellegű szolgálati beosztásokat, amelyekhez az éves szolgálatteljesítési időkeret kapcsolható,
-- 25. a baleseti járadékra való jogosultság vizsgálatának szabályait, a kiegészítő támogatások megállapításának és folyósításának szabályait, a térítéses szolgáltatásokat és az azokra jogosultak körét, a baleset, betegség szolgálati kötelmekkel való összefüggésének megállapításával kapcsolatos eljárást, valamint a szolgáltatások térítésének szabályait,
+- 25. a kiegészítő támogatások megállapításának és folyósításának szabályait, a térítéses szolgáltatásokat és az azokra jogosultak körét, valamint a szolgáltatások térítésének szabályait,
 - 26. a kegyeleti minősítés szempontjait és feltételeit, a katonai temetés feltételeit és módját, a kegyeleti költségeket és a kegyeleti gondoskodás egyéb költségeit, azok összeghatárát, a költségekhez való hozzájárulás feltételeit és mértékét, az elszámolás rendjét, továbbá a temetési segélyre való jogosultság feltételeit és mértékét, az elszámolás rendjét,
 - 27. a honvédeknek, a nyugállományú katonáknak és a közeli hozzátartozóiknak, élettársaiknak nyújtható regenerálódást segítő, rekreációs és üdültetési szolgáltatások fajtáit, igénybevételük feltételeit és módját,
 - 28. az élelmezési ellátásra és az étkezési hozzájárulásra jogosultak körét, lehetséges formáit és igénybevételük feltételeit, módját,
@@ -3511,7 +3533,7 @@ jogosult.
 - 32. a méltatlansági eljárás elrendelésének és lefolytatásának szabályait, az eljárási cselekményekre nyitva álló határidőket, az elmulasztásuk jogkövetkezményeit, az értesítésre és a felhívásra irányadó szabályokat, a határozatok formai és tartalmi követelményeit, a vizsgáló, a bizottság kijelölésének és eljárásának, a kizárás és az elfogultság bejelentésének és elbírálásának rendjét, a képviseletre, a tényállás tisztázására, a méltatlanság megállapítására irányadó szabályokat,
 - 33. a honvédelmi egészségkárosodási ellátással kapcsolatos részletes eljárási szabályokat, az ellátásra való jogosultsággal, az ellátás számításával, megállapításával, folyósításával, visszakövetelésével kapcsolatos részletes szabályokat, az egészségkárosodási ellátásra jogosultakkal betölthető szolgálati beosztások és munkakörök meghatározásának rendjét, valamint kijelölje az ellátás megállapításért és a folyósításért felelős szervet,
 - 34. a kártérítési eljárás rendjére, a szakértő kijelölésére, az eljárási határidőkre, a tényállás tisztázására, a képviseletre vonatkozó szabályokat, a kártérítési igény elbírálására jogosult honvédségi szervezetet, a kártérítésre kötelezésre vagy annak mellőzésére, a kártérítés megállapítására, az eljárás felfüggesztésére és megszüntetésére, az utólagos mérsékelésre, az elengedésre, a végrehajtás elhalasztására, a részletfizetés engedélyezésére vonatkozó szabályokat, a határozatok formai és tartalmi követelményeit, a honvéd tisztjelöltre és a honvéd altiszt-jelöltre, valamint a külföldi szolgálatra irányadó szabályokat,
-- 35. a szolgálattal összefüggő balesetekkel, a szolgálattal összefüggésben kialakult vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálásának rendjét,
+- 35. az állomány tagja balesetének szolgálati kötelmekkel való összefüggése vizsgálatának, a szolgálattal összefüggő balesetekkel, a szolgálattal összefüggésben kialakult vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálásának rendjét,
 - 36. a kérelem, a szolgálati panasz és a fellebbezés elbírálásának rendjét,
 - 37. a szolgálati viszony fenntartására vonatkozó megállapodás alapján fizethető díjazással, az annak visszafizetésével, a visszafizetési kötelezettség alóli mentesüléssel, a megállapodásban vállalt szolgálati idő számításával, a megállapodás megszüntetésével és abból eredő követelésekkel kapcsolatos szabályokat,
 - 38. a szolgálaton kívüliekre irányadó sajátos szabályokat,

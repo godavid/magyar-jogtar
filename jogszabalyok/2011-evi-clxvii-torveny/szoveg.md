@@ -188,7 +188,7 @@ kérelmezi.
 
 (2) Ha a korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy foglalkoztatására a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában került sor,
 
-- a) a nyugdíjmegállapító szerv a korhatár előtti ellátást, illetve a szolgálati járandóságot a jogsértést megállapító határozat jogerőre emelkedését követő hónaptól megszünteti, és
+- a) a nyugdíjmegállapító szerv a korhatár előtti ellátást, illetve a szolgálati járandóságot a jogsértést megállapító határozat véglegessé válását követő hónaptól megszünteti, és
 - b) a jogosultnak – ha a jogosult a korhatár előtti ellátásban, illetve a szolgálati járandóságban kevesebb, mint egy éve részesül – a folyósított korhatár előtti ellátás, illetve szolgálati járandóság teljes összegének megfelelő összeget, egyéb esetben a korhatár előtti ellátásnak, illetve a szolgálati járandóságnak a megszüntetést megelőző egy évben folyósított összegének megfelelő összeget kell fizetnie.
 
 (3) Akinek korhatár előtti ellátása vagy szolgálati járandósága megszűnik, annak korhatár előtti ellátás és szolgálati járandóság ismételten nem állapítható meg.

@@ -228,21 +228,13 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 
 (8) A település jegyzője kérheti az állatvédelmi hatóságtól az eb egyedi veszélyessé minősítését.
 
-24/B. § (1) Az állatvédelmi hatóság a 24/A. § szerinti engedélyezési eljárásban jogosult kezelni
+24/B. § (1) Az állatvédelmi hatóság a 24/A. § szerinti engedélyezési eljárásban jogosult kezelni a 42/A. § (4) bekezdés a)–h) pont szerinti adatokat.
 
-- a) az eb tulajdonosának nevét és címét,
-- b) az eb felügyeletét ellátó természetes személy (a továbbiakban: ebtartó) nevét, születési helyét és idejét, lakcímét, telefonszámát, elektronikus levélcímét,
-- c) az eb tartási helyét (település, kerület, utca, házszám),
-- d) az eb fajtáját, születési idejét, nemét, színét, hívónevét,
-- e) a transzponder sorszámát,
-- f) az ivartalanítás időpontját,
-- g) az eb egyéb egyedi jellemzőit.
-
-(2) Az állatvédelmi hatóság az (1) bekezdésben foglalt adatokról a veszélyes ebek hatékony azonosítása érdekében nyilvántartást vezet.
+(2)
 
 (3) Az (1) bekezdésben foglalt adatokat az eb elpusztulásától, elvesztésétől, valamint tulajdonosváltásától számított három évig kell nyilvántartani.
 
-(4) Az ebet veszélyesnek minősítő állatvédelmi hatóság a veszélyesnek minősítés tényét 8 napon belül köteles bejelenteni a transzponderrel megjelölt ebek adatait nyilvántartó országos elektronikus adatbázis működtetőjének.
+(4)
 
 24/C. § (1) Az állatvédelmi hatóság elrendeli az eb életének kioltását, amennyiben az halálos kimenetelű sérülést okoz embernek, és az ebek viselkedésének megítélésében jártas szakértő megállapítja, hogy az eb viselkedése egyértelműen a sérülés okozására irányult.
 
@@ -450,13 +442,15 @@ teszi szükségessé.
 
 (2) Az állatok védelmével kapcsolatos feladatok ellátásához állatvédelmi hozzájárulást kell fizetni. Az állatvédelmi hozzájárulásra kötelezett termékek körét, a hozzájárulás mértékét, valamint fizetésének és felhasználásának szabályait külön törvény állapítja meg.
 
-42/A. § (1) A transzponderrel megjelölt ebek adatait országos elektronikus adatbázisban (a továbbiakban: adatbázis) kell nyilvántartani az állat tartója és más személyek jogainak, személyi biztonságának és tulajdonának védelme céljából.
+42/A. § (1) A transzponderrel megjelölve tartható ebekről az állat tartója és más személyek jogainak, személyi biztonságának és tulajdonának védelme, valamint az ebrendészeti feladatok ellátása céljából nyilvántartást kell vezetni (a továbbiakban: ebnyilvántartás).
 
-(2) Az adatbázisba való regisztrációért e törvény végrehajtására kiadott jogszabályban meghatározott díjat kell fizetni, mely díj az adatbázis működtetőjének a bevétele. Az eb transzponderrel történő megjelöléséért legfeljebb 3500 Ft összeg kérhető az állat tartójától, amely magában foglalja a transzponder árát, a beültetés díját és az adatbázisba való regisztráció díját.
+(1a) Az állatvédelmi hatóság a veszélyes ebek hatékony azonosítása érdekében az ebnyilvántartásban rögzíti az eb veszélyessé nyilvánításának tényét.
 
-(3) Az (1) bekezdés szerinti adatbázist az élelmiszerlánc-felügyeleti szerv működteti.
+(2) Az ebnyilvántartásba való regisztrációért e törvény végrehajtására kiadott jogszabályban meghatározott díjat kell fizetni, mely díj az ebnyilvántartás működtetőjének a bevétele. Az eb transzponderrel történő megjelöléséért legfeljebb 3500 Ft összeg kérhető az állat tartójától, amely magában foglalja a transzponder árát, a beültetés díját és az ebnyilvántartásba való regisztráció díját.
 
-(4) Az adatbázisnak az alábbi adatokat kell tartalmaznia:
+(3) Az (1) bekezdés szerinti ebnyilvántartást az élelmiszerlánc-felügyeleti szerv működteti.
+
+(4) Az ebnyilvántartásnak az alábbi adatokat kell tartalmaznia:
 
 - a) az eb tulajdonosának nevét, címét,
 - b) az ebtartó nevét, lakcímét, telefonszámát, elektronikus levélcímét,
@@ -472,26 +466,26 @@ teszi szükségessé.
 - l) az eb veszélyessé minősítésének tényére és időpontjára vonatkozó adatot,
 - m) elismert tenyésztő szervezet által törzskönyvezett eb esetén a származási igazolás másolatát.
 
-(5) Az adatbázis működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
+(5) Az ebnyilvántartás működtetője jogosult kezelni a (4) bekezdésben meghatározott adatokat.
 
 (6) Az eb tulajdonosa és tartója köteles a (4) bekezdés szerinti adatokat az eb transzponderrel történő megjelölését és regisztrációját végző állatorvos rendelkezésére bocsátani.
 
-(7) Az adatbázis működtetője biztosítja a (4) bekezdés c), h) és l) pontja szerinti adatokhoz való nyilvános hozzáférést az állatba ültetett transzponder sorszáma alapján.
+(7) Az ebnyilvántartás működtetője biztosítja a (4) bekezdés c), h) és l) pontja szerinti adatokhoz való nyilvános hozzáférést az állatba ültetett transzponder sorszáma alapján.
 
-(8) Jogszabályban meghatározott közfeladat ellátása érdekében az adatbázis működtetője az adatbázishoz
+(8) Jogszabályban meghatározott közfeladat ellátása érdekében az ebnyilvántartás működtetője az ebnyilvántartáshoz
 
 - a) hozzáférést biztosít a települési, fővárosban a fővárosi kerületi és a fővárosi önkormányzat részére,
 - b) hozzáférést biztosíthat bíróság, ügyészség, nyomozó hatóság és más közigazgatási szerv részére.
 
-(9) Az adatbázisban szereplő adatok tulajdonjogot nem igazolnak.
+(9) Az ebnyilvántartásban szereplő adatok tulajdonjogot nem igazolnak.
 
 42/B. § (1) A tartás helye szerint illetékes települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat ebrendészeti feladatainak elvégzése érdekében, illetve a veszettség elleni oltás járványvédelmi vonatkozásaira való tekintettel három évente legalább egy alkalommal ebösszeírást végez.
 
 (2) Az ebösszeírás során a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat jogosult kezelni a 42/A. § (4) bekezdés szerinti adatokat.
 
-(3) A települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat az ebösszeírás alapján a (2) bekezdésben foglalt adatokról helyi elektronikus nyilvántartást vezet, az állat tulajdonosa, tartója és más személyek jogainak, személyes biztonságának és tulajdonának védelme, valamint ebrendészeti és állatvédelmi feladatainak hatékony ellátása céljából.
+(3) A települési, fővárosban a kerületi önkormányzat, illetve a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a Fővárosi Önkormányzat az ebösszeírás alapján a (2) bekezdésben foglalt adatokat összeveti az ebnyilvántartásban rögzített adatokkal, és eltérés esetén adatot szolgáltat az ebnyilvántartás működtetőjének.
 
-(4) Az adatbázis működtetőjének kérésére a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat, valamint a Magyar Állatorvosi Kamara köteles a nyilvántartott ebekről adatot szolgáltatni.
+(4) Az ebnyilvántartás működtetőjének kérésére a Magyar Állatorvosi Kamara köteles a nyilvántartott ebekről adatot szolgáltatni.
 
 (5) Az eb tulajdonosa és tartója az ebösszeíráskor köteles a (2) bekezdés szerinti adatokat a települési, fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat rendelkezésére bocsátani.
 
@@ -538,7 +532,7 @@ eb után.
 
 (7) Ha az állatvédelmi képzésen való részvételre kötelezett állattartó a kötelezettségének önként nem tesz eleget, az állatvédelmi képzés, illetőleg annak hátralévő része helyébe állatvédelmi bírság lép.
 
-(8) A határidőre meg nem fizetett állatvédelmi bírság adók módjára behajtandó köztartozás.
+(8)
 
 (9) Ha kedvtelésből tartott állat tartója az állatok védelmére vonatkozó jogszabályok vagy hatósági határozat rendelkezésének szándékos vagy ismételt megsértésével állatának maradandó egészségkárosodását vagy elpusztulását okozza, és a kedvtelésből tartott vagy a jövőben tartandó állat jóléte állatvédelmi bírság kiszabásával és az állatvédelmi képzésen való részvételre kötelezéssel sem biztosítható, az állatvédelmi hatóság – állatvédelmi bírság kiszabása mellett – az állattartót állat kedvtelésből való tartásától a jogsértés súlyától függően 2–8 évre eltiltja.
 
@@ -625,7 +619,7 @@ eb után.
 - f) a kedvtelésből tartott állatok kereskedése létesítésének és működtetésének engedélyezésére, működésére vonatkozó szabályokat, a nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, a kereskedelmi hatóság kijelölését, valamint a kedvtelésből tartott állatok kereskedése működésének ellenőrzésére, továbbá a kedvtelésből tartott állatok tartására, forgalmazására és tulajdonjogának nem kereskedelmi célú átruházására vonatkozó részletes szabályokat,
 - g) a település belterületén a kóbor állatok befogásával, tulajdonjogának átruházásával és elhelyezésével kapcsolatos feladatok ellátásának részletes szabályait,
 - h) az eb okozta fizikai sérülés, illetve ennek veszélye keletkezésekor felmerülő hatósági feladatokat, valamint a veszélyesnek minősített eb tartásának és a tartás engedélyezésének részletes szabályait,
-- i) a transzponderrel megjelölt ebek adatait nyilvántartó országos adatbázis működési feltételeit, valamint az adatbázisba történő regisztráció díját,
+- i) az ebnyilvántartás működési feltételeit, valamint az ebnyilvántartásba történő regisztráció díját,
 - j) az ebek viselkedésének megítélésében jártas szakértői tevékenység bejelentésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
@@ -638,7 +632,7 @@ rendeletben állapítsa meg.
   - bb) a különösen veszélyes állatfaj egyede tartásának, szaporításának, elidegenítésének, másik állatkertbe történő át- vagy kihelyezésének, országba történő behozatalának, országból történő kivitelének, és bemutatásának részletes szabályait,
   - bc) a közepesen veszélyes állatfaj egyede tartásának, szaporításának, elidegenítésének, megvételének, felügyelete átengedésének, eladásra való felkínálásának, országba történő behozatalának, országból történő kivitelének, és bemutatásának részletes szabályait,
   - bd) az elővigyázatosságot igénylő állatfaj egyede tartásának, szaporításának, elidegenítésének, tartása átengedésének, országba történő behozatalának részletes szabályait,
-  - be) a veszélyes állatok adatait nyilvántartó országos adatbázis működési feltételeit,
+  - be) a ebnyilvántartás működési feltételeit,
 - c) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állatok elkábítására szolgáló eszközök, lövedékek körét, az állatok elkábításának részletes szabályait,
 - d) a miniszter, hogy az állatkert és állatotthon létesítésének, működésének és fenntartásának részletes szabályait,
 - e) a miniszter, hogy az élő állat nyereményjáték díjaként történő felhasználásának részletes szabályait,

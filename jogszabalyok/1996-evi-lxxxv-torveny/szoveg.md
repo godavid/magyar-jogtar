@@ -28,7 +28,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (5) A tulajdonilap-másolat szolgáltatás iránti megkeresés előterjesztésével egyidejűleg az annak alapjául szolgáló ügyben eljáró szerv igazolja a díjfizetés megtörténtét.
 
-(6) Az elektronikus adatszolgáltatási díjat az ingatlan-nyilvántartásért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott módon, a rendeletben megjelölt szerv részére kell megfizetni. A meg nem fizetett díj adók módjára behajtandó köztartozásnak minősül.
+(6) Az elektronikus adatszolgáltatási díjat az ingatlan-nyilvántartásért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott módon, a rendeletben megjelölt szerv részére kell megfizetni.
 
 30. § (1) Teljes személyes díjmentességben részesül:
 
@@ -50,20 +50,23 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
   - fa) közigazgatási hatósági eljáráshoz,
   - fb) közérdekű bejelentés, javaslat és panasz elbírálására irányuló eljáráshoz,
   - fc) gondnokság alá helyezés iránti eljáráshoz,
-- g) a közigazgatási perben eljáró bíróság eljárásához,
+- g) a közigazgatási vagy polgári perben eljáró bíróság eljárásához,
 - h) a büntetőügyben eljáró bíróság eljárásához,
 - i) az ügyészség eljárásához,
 - j) a nyomozó hatóság és a nemzetbiztonsági szolgálatok feladatai ellátása érdekében,
 - k) a helyi önkormányzat, illetve azok társulásai közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetőleg nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez,
 - l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv,
-- m) az eljáró szerv – ideértve a bíróságot – a polgári perrendtartásról szóló 1952. évi III. törvény XVIII. Fejezete szerinti gondnokság alá helyezés iránti perben,
+- m) az eljáró szerv – ideértve a bíróságot – a polgári perrendtartásról szóló 2016. évi CXXX. törvény XXXII. Fejezete szerinti gondnokság alá helyezés iránti perben,
 - n) a törvényszéki végrehajtó a Magyar Államot illető végrehajtandó összeg iránti végrehajtási ügyben
+- o) a vízügyi igazgatási szerv az állami tulajdonban álló vízkészletek vagy vízilétesítmények vagyonkezelése tárgyában,
+- o) lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézet
+- p) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében
 
 kéri.
 
 (2) Természetes személy számára évente két alkalommal díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése.
 
-(3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
+(3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha jogszabályban foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
 
 (4) Az (1) bekezdés a)–c), valamint f)–k) pontjában meghatározott eljárásokhoz szükséges elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését kezdeményezőknek – a mentességet megalapozó eljárás, az ügyszám, illetőleg a pályázati azonosító megjelölésével – a felhasználás célját hitelt érdemlően igazolni kell.
 
@@ -147,7 +150,7 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
   - la) a Magyar Állam javára történő lakásvásárlással megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás,
   - lb) a visszavásárlási jog bejegyzésére irányuló eljárás,
   - lc) a Nemzeti Eszközkezelő Zrt. javára történő vagyonkezelői jog bejegyzésére irányuló eljárás;
-- m) a polgári perrendtartásról szóló 1952. évi III. törvény XVIII. Fejezete szerinti gondnokság alá helyezés tényének feljegyzése iránti eljárás;
+- m) a polgári perrendtartásról szóló 2016. évi CXXX. törvény XXXII. Fejezete szerinti gondnokság alá helyezés tényének feljegyzése iránti eljárás;
 - n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
 - o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a parti sáv mint jogi jelleg feljegyzése,
 - p) vizek és vízilétesítmények vagyonkezelői jogának vízügyi igazgatási szerv vagy a helyi önkormányzat részére történő bejegyzése,
@@ -195,20 +198,22 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 
 (8a) Új épület építése vagy meglévő épület – ingatlan-nyilvántartásban változást eredményező – átalakítása esetén, a változás ingatlan-nyilvántartási átvezetésére (az épület feltüntetésére) irányuló eljárás igazgatási szolgáltatási díját az ehhez szükséges változási vázrajz záradékolása iránt történő benyújtásával egyidejűleg kell megfizetni.
 
-(8b) Amennyiben az építésügyi hatóság a használatbavételi engedély iránti kérelmet elutasítja vagy a használatbavételi engedélyezési eljárást megszünteti, az ingatlanügyi hatóság az erről szóló jogerős döntés kézhezvételét követő harminc napon belül intézkedik az ügyfél részére a (8a) bekezdés szerinti igazgatási szolgáltatási díj visszatérítése iránt.
+(8b) Amennyiben az építésügyi hatóság a használatbavételi engedély iránti kérelmet elutasítja vagy a használatbavételi engedélyezési eljárást megszünteti, az ingatlanügyi hatóság az erről szóló végleges döntés kézhezvételét követő harminc napon belül intézkedik az ügyfél részére a (8a) bekezdés szerinti igazgatási szolgáltatási díj visszatérítése iránt.
 
 (8c) A külön jogszabályban meghatározott – az ingatlan-nyilvántartásban változást eredményező – engedélyköteles bontási tevékenység esetében az igazgatási szolgáltatási díj megfizetésére a (8a) bekezdésben foglaltakat kell értelemszerűen alkalmazni.
 
 (9) A díj megfizetésének elmulasztása, valamint a (7) bekezdésben megjelölt adatok hiányában nem beazonosítható díjbefizetés esetén a hiánypótlási felhívás kézhezvételétől számított tizenöt napon belül kell megfizetni a díjat és igazolni annak megfizetését.
 
-(10) Jogerős hagyatékátadó végzés, bírósági és hatósági határozat, illetve bírósági vagy hatósági megkeresés alapján induló eljárás esetén, amennyiben a díj fizetésére kötelezett a kérelem, illetve a megkeresés benyújtásával egyidejűleg nem tesz eleget a díjfizetési kötelezettségének, akkor az ingatlanügyi hatóság az eljárást lefolytatja és a díj megfizetése iránt – a döntés kézhezvételétől számított 15 napos határidő tűzésével – a döntésében intézkedik, azzal, hogy a meg nem fizetett díj és annak járulékai adók módjára behajtandó köztartozásnak minősülnek.
+(10) Jogerős hagyatékátadó végzés, bírósági határozat, végleges hatósági döntés, illetve bírósági vagy hatósági megkeresés alapján induló eljárás esetén, amennyiben a díj fizetésére kötelezett a kérelem, illetve a megkeresés benyújtásával egyidejűleg nem tesz eleget a díjfizetési kötelezettségének, akkor az ingatlanügyi hatóság az eljárást lefolytatja és a díj megfizetése iránt – a döntés kézhezvételétől számított 15 napos határidő tűzésével – a döntésében intézkedik.
 
-(11) A végrehajtást kérő, illetve a végrehajtási jog vagy a jelzálogjog bejegyzést elrendelő hatóság az ingatlanügyi hatóságnak a végrehajtási jog vagy jelzálogjog bejegyzéséért fizetendő (előlegezendő) díjat azt követő 8 napon belül fizeti meg (utólagos díjfizetés), miután annak teljes összegét végrehajtási költségként az adóssal (ingatlantulajdonossal) szemben, illetve az adók módjára behajtandó köztartozás jogosultjával szemben az eljárás eredménytelenségének megállapítását követően, mint végrehajtási költséget érvényesítette, ha a követelés
+(11) A végrehajtást kérő, illetve a végrehajtási jog vagy a jelzálogjog bejegyzést elrendelő hatóság az ingatlanügyi hatóságnak a végrehajtási jog vagy jelzálogjog bejegyzéséért fizetendő (előlegezendő) díjat azt követő 8 napon belül fizeti meg (utólagos díjfizetés), miután annak teljes összegét végrehajtási költségként az adóssal (ingatlantulajdonossal) szemben, illetve az adók módjára behajtandó köztartozás jogosultjával, vagy az általános közigazgatási rendtartáson alapuló döntésben foglalt kötelezettség behajtását kérő hatósággal szemben az eljárás eredménytelenségének megállapítását követően mint végrehajtási költséget érvényesítette, ha a követelés
 
 - a) behajtását adóigazgatási eljárás során kezdeményezték, vagy társadalombiztosítási jogviszonyból ered,
 - b) a büntető- és a büntetés-végrehajtási-, valamint a szabálysértési eljárásban az adóssal szemben megállapított, az állam javára fizetendő összeg, vagy vagyonelkobzásból ered (a polgári jogi igény kivételével), vagy
-- c) az a)–b) pontokba nem tartozó más köztartozás, és
-- d) az a)–c) pontok valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
+- c) az a) és b) pontba nem tartozó más köztartozás, és
+- d) az a)–c) pont valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
+
+(11a) A (11) bekezdés szerinti díj megfizetésére nem kerül sor, ha a fővárosi és megyei kormányhivatal vagy járási (fővárosi kerületi) hivatal, illetve e hivatalok döntései alapján foganatosított végrehajtási eljárás eredménytelenül zárul.
 
 (12) A felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése esetén az eljárásért fizetendő díjat utólagosan fizeti meg a felszámolási eljárás alatt álló jogi személy. A díjfizetési kötelezettség akkor válik esedékessé, ha a felszámolási eljárás során az ingatlant érintő tulajdonosváltozás bejegyzése érdekében nyújtanak be okiratot vagy megkeresést, ilyen okirat vagy megkeresés hiányában pedig a felszámolási eljárást befejező bírósági végzés jogerőre emelkedésének napján.
 

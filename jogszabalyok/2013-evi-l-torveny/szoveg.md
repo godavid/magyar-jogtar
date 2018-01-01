@@ -283,7 +283,7 @@ a hatóság részére.
 - e) a hozzá érkező biztonsági eseményekkel kapcsolatos bejelentések kivizsgálására irányuló hatósági eljárás megindítása,
 - f) javaslattétel a létfontosságú rendszerek és létesítmények védelmi szabályozását biztosító, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény szerinti ágazati kijelölő hatóság részére a nemzeti létfontosságú rendszerelem kijelölésére,
 - g)
-- h) együttműködés a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározott elektronikus ügyintézési felügyelettel a szabályozott elektronikus ügyintézési szolgáltatás szolgáltatókra vonatkozó biztonsági követelmények teljesülésének ellenőrzésében,
+- h) együttműködés az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus ügyintézési felügyelettel a szabályozott elektronikus ügyintézési szolgáltatás szolgáltatókra vonatkozó biztonsági követelmények teljesülésének ellenőrzésében,
 - i) kapcsolattartás az elektronikus információbiztonság területén a nemzetbiztonsági szolgálatokkal,
 - j) kapcsolattartás a 19. § (1)–(4) bekezdésében meghatározott eseménykezelő központokkal,
 - k)–n)
@@ -291,6 +291,11 @@ a hatóság részére.
 (3) A hatóság eljárásainak általános ügyintézési határideje – a (3a) bekezdésben meghatározott kivétellel – 30 nap.
 
 (3a) A hatóság által lefolytatott hatósági eljárás ügyintézési határideje a logikai védelmi kötelezettség teljesítésére irányuló vizsgálat esetén százhúsz nap.
+
+(3b) A hatóság eljárásaiban
+
+- a) az ügyfél értesítése az eljárás megindításáról mellőzhető,
+- b) a szervezet köteles a szakértői eljárásban közreműködni.
 
 (4) A (2) bekezdés a) és b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az e-közigazgatásért felelős miniszter az informatikáért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.
 
@@ -438,6 +443,8 @@ vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány r
 
 (3) A hatóság eljárása során keletkezett adatok nem nyilvánosak.
 
+(4) A zárt célú és honvédelmi célú elektronikus információs rendszerek – e törvényben meghatározott – hatósági feladatainak ellátására Kormány által kijelölt szervnek a véglegessé vált határozata az ügyfélen és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 33. § (3) bekezdése alapján iratbetekintésre jogosult személyen kívül más számára nem ismerhető meg.
+
 #### 12/A. Elektronikus kapcsolattartás
 
 22/A. § (1) Az e törvény hatálya alá tartozó szervezetek és elektronikus információs rendszerek tekintetében
@@ -507,14 +514,14 @@ vonatkozásában – a (8) bekezdésben foglaltak kivételével – a Kormány r
 
 - a) a 2. § (2) bekezdés a) pontja szerinti adatkezelési tevékenység feltétele, hogy az adatkezelést végző az adatkezelési tevékenység megkezdése előtt a törvény 7. § szerinti biztonsági osztályba sorolási, továbbá a (3) bekezdés szerinti bejelentési kötelezettségének eleget tegyen;
 - b) a 2. § (2) bekezdés b) pontja esetében a (3) bekezdés szerinti határidőket az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől kell számítani, a 7. § szerinti biztonsági osztályba sorolást az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépését követő három hónapon belül kell elvégezni;
-- c) a 2. § (2) bekezdés c) pontja esetében a (3) bekezdés szerinti határidőket a létfontosságú információs rendszerelemmé kijelölő határozat jogerőre emelkedésétől kell számítani, a 7. § szerinti biztonsági osztályba sorolást a kijelölő határozat jogerőre emelkedését számított egy éven belül kell elvégezni.
+- c) a 2. § (2) bekezdés c) pontja esetében a (3) bekezdés szerinti határidőket a létfontosságú információs rendszerelemmé kijelölő határozat véglegessé válásától kell számítani, a 7. § szerinti biztonsági osztályba sorolást a kijelölő határozat véglegessé válásától számított egy éven belül kell elvégezni.
 
-(7) A (4) szerinti kötelezettség teljesítésére megállapított határidőt a 2014. július 1-jét követően a törvény hatálya alá kerülő szervezetek esetében
+(7) A (4) bekezdés szerinti kötelezettség teljesítésére megállapított határidőt a 2014. július 1-jét követően a törvény hatálya alá kerülő szervezetek esetében
 
 - a) a 2. § (1) bekezdés tekintetében a szervezet létesítését megalapozó döntés hatálybalépésétől;
 - b) a 2. § (2) bekezdés a) pont tekintetében az adatkezelés megkezdésétől;
 - c) a 2. § (2) bekezdés b) pont tekintetében az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől;
-- d) a 2. § (2) bekezdés c) pont tekintetében a létfontosságú információs rendszerelemmé kijelölő határozat jogerőre emelkedésétől
+- d) a 2. § (2) bekezdés c) pont tekintetében a létfontosságú információs rendszerelemmé kijelölő határozat véglegessé válásától
 
 kell számítani.
 

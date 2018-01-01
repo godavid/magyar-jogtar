@@ -139,7 +139,7 @@ közérdekű önkéntes tevékenységre terjed ki.
 - d) a szerződésben meghatározott idő lejártával, feltétel bekövetkeztével,
 - e) közös megegyezéssel történő megszüntetéssel,
 - f) felmondással,
-- g) az önkéntesek foglalkoztatásának – a 13. § (3) bekezdése szerinti – megtiltásáról rendelkező határozat jogerőre emelkedésével.
+- g) az önkéntesek foglalkoztatásának – a 13. § (3) bekezdése szerinti – megtiltásáról rendelkező határozat véglegessé válásával.
 
 (2) Az önkéntes szerződést – ha jogszabály vagy az önkéntes szerződés másként nem rendelkezik – bármelyik fél azonnali hatállyal felmondhatja.
 
@@ -190,22 +190,21 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (3) A bejelentéshez csatolni kell
 
-- a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát;
-- b) civil szervezet és közhasznú szervezet esetén
-  - ba) a hatályos létesítő okirat másolatát, és
-  - bb) a fogadó szervezet adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a cégkivonat kivételével;
-- c) nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolás másolatát,
-- d) egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, az egyéni vállalkozó hatályos adatait tartalmazó igazolás (igazolások) másolatát, vagy az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt;
-- e) fogadó intézmény, illetve annak fenntartója esetén annak igazolását, hogy a fogadó intézmény jogszerűen működik.
+- a) helyi önkormányzatok társulása esetén a társulási megállapodás másolatát,
+- b) nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolás másolatát,
+- c) civil szervezet, közalapítvány vagy közhasznú szervezet esetén a fogadó szervezet hatályos létesítő okiratának másolatát,
+- d) nem költségvetési szervként működő nyilvános könyvtár, közlevéltár és nyilvános magánlevéltár esetén az alapító okirat másolatát,
+- e) nem költségvetési szervként működő közművelődési intézmény esetén a létesítő okirat másolatát vagy a közművelődési megállapodás másolatát.
 
-(4) Ha a bejelentéshez
+(4) Ha a fogadó szervezet
 
-- a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a civil és egyéb, bírósági bejegyzéssel létrejött, cégnek nem minősülő szervezetek országos névjegyzékéből szerzi be, illetve ellenőrzi,
-- b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti iratot, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi.
+- a) civil szervezet vagy közalapítvány, a miniszter a civil és egyéb, bírósági bejegyzéssel létrejött, cégnek nem minősülő szervezetek országos névjegyzékéből beszerzi, illetve ellenőrzi a fogadó szervezet bírósági nyilvántartásba vett adatait,
+- b) egyházi jogi személy, a miniszter a bevett egyházak nyilvántartásából beszerzi, illetve ellenőrzi a fogadó szervezet adatait, illetve nyilvántartásba nem vett belső egyházi jogi személy esetén a bevett egyház és a (3) bekezdés b) pontja nyilatkozatot kiállító belső egyházi jogi személy adatait,
+- c) cég, a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel beszerzi a fogadó szervezet cégkivonatát,
+- d) egyéni vállalkozó, a miniszter az egyéni vállalkozók nyilvántartásából beszerzi, illetve ellenőrzi az egyéni vállalkozó adatait,
+- e) vagy a fogadó intézmény bejelentéshez vagy engedélyhez kötött tevékenység keretében kíván önkéntest foglalkoztatni, a miniszter a hatóságtól beszerzi a bejelentés, illetve az engedély adatait.
 
-(4a) A bejelentést benyújtó egyházi jogi személy adatait, a (3) bekezdés c) pontja szerinti esetben pedig a bevett egyház és a nyilatkozatot kiállító személy adatait a miniszter a bevett egyházak nyilvántartásából szerzi be, illetve ellenőrzi.
-
-(4b) A cégjegyzékben nyilvántartott fogadó szervezet cégkivonatát a miniszter a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi be.
+(4a)–(4b)
 
 (5)
 
@@ -219,16 +218,16 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (1a) A fogadó szervezetek nyilvántartása hatósági nyilvántartás, amely közhitelesen tanúsítja a bejelentkezési kötelezettség teljesítését, a bejelentés tartalmát az 1. melléklet 1., 4. és 5. pontja szerinti adatok tekintetében, valamint a 13. § (3) bekezdése szerinti adatokat.
 
-(2) A nyilvántartásba vételről a miniszter kizárólag az iratok alapján dönt. A miniszter megtagadja a bejelentő, illetve a bejelentésben meghatározott tevékenységi kör nyilvántartásba vételét, illetőleg törli a nyilvántartásból a fogadó szervezetet, illetve tevékenységi kört, ha
+(2) A miniszter megtagadja a bejelentő, illetve a bejelentésben meghatározott tevékenységi kör nyilvántartásba vételét, valamint törli a nyilvántartásból a fogadó szervezetet, illetve tevékenységi kört, ha
 
-- a) a bejelentő nem a 3. § (1) bekezdése szerinti fogadó szervezet,
-- b) kétséget kizáró módon megállapítható, hogy a bejelentésben megjelölt tevékenységi körben önkéntes nem foglalkoztatható.
+- a) a bejelentő nem lehet fogadó szervezet, vagy
+- b) a bejelentő által benyújtott iratokból és a 11. § (4) bekezdése szerint beszerzett adatokból kétséget kizáró módon megállapítható, hogy a bejelentésben megjelölt tevékenységi körben önkéntes nem foglalkoztatható.
 
 (3) A nyilvántartásban szereplő adatokat a miniszter a Civil Információs Portálon közzéteszi.
 
-(4) A miniszter a nyilvántartásban szereplő adatokat átadja a munkaügyi hatóságnak és a munkavédelmi hatóságnak az önkéntesek jogszabályszerű foglalkoztatásának ellenőrzése céljából.
+(4) A miniszter a nyilvántartásban szereplő adatokat átadja a munkavédelmi hatóságnak az önkéntesek jogszabályszerű foglalkoztatásának ellenőrzése céljából.
 
-13. § (1) Ha a munkaügyi hatóság vagy a munkavédelmi hatóság, az adóhatóság, a fogadó szervezet szakmai vagy törvényességi ellenőrzését, illetve felügyeletét ellátó szerv észleli, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, erről a fogadó szervezet nevének, székhelyének és adószámának megjelölésével értesíti a minisztert.
+13. § (1) Ha a munkavédelmi hatóság, az adóhatóság, a fogadó szervezet szakmai vagy törvényességi ellenőrzését, illetve felügyeletét ellátó szerv észleli, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, erről a fogadó szervezet nevének, székhelyének és adószámának megjelölésével értesíti a minisztert.
 
 (2) Ha a miniszter tudomására jut, hogy a fogadó szervezet a bejelentési kötelezettségének nem tett eleget, felhívja a fogadó szervezetet a kötelezettség teljesítésére.
 
@@ -260,7 +259,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 26. § (1) Ez a törvény a kihirdetését követő harmadik hónap első napján lép hatályba.
 
-(2) Ez a törvény a harmadik országok állampolgárai tanulmányok folytatása, diákcsere, javadalmazás nélküli gyakorlat, illetve önkéntes szolgálat céljából történő beutazásának feltételeiről szóló, 2004. december 13-i 2004/114/EK tanácsi irányelv önkéntes szolgálatra vonatkozó rendelkezéseinek való megfelelést szolgálja.
+(2) Ez a törvény a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelvnek önkéntes szolgálatra vonatkozó rendelkezéseinek való megfelelést szolgálja.
 
 (3) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -273,7 +272,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - 1. A fogadó szervezet neve, székhelye, típusa és adószáma, cégjegyzékben nyilvántartott fogadó szervezet esetén cégjegyzékszáma, költségvetési szerv fogadó szervezet esetén törzskönyvi nyilvántartási száma.
 - 2. A fogadó szervezet kapcsolattartójának neve, beosztása és elérhetősége.
 - 3. A fogadó szervezet telephelye, telefonszáma, elektronikus levélcíme vagy más olyan, a kapcsolat felvételéhez szükséges adata, amelynek nyilvántartásba való felvételét kéri.
-- 4. Az önkéntesek közreműködésével ellátni kívánt tevékenységi körök és tevékenységek, valamint a fogadó szervezet nyilatkozata arról, hogy ezek a tevékenységi körök és tevékenységek megfelelnek a 3. §-ban foglaltaknak.
+- 4. Az önkéntesek közreműködésével ellátni kívánt tevékenységi körök és tevékenységek, bejelentéshez vagy engedélyhez kötött tevékenységek esetén annak adatai, valamint a fogadó szervezet nyilatkozata arról, hogy ezek a tevékenységi körök és tevékenységek megfelelnek a 3. §-ban foglaltaknak.
 - 5. A fogadó szervezet nyilatkozata arról, hogy a fogadó szervezet kíván-e
 - 5.1. építésiengedély-köteles munkában való részvételre önkéntest foglalkoztatni, és ha igen, annak helyéről,
 - 5.2. tizennyolcadik életévét be nem töltött önkéntest foglalkoztatni,

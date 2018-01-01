@@ -172,7 +172,7 @@ során.
 15. § (1) Természeti területnek minősül, ha a 4. § d) pontjában meghatározott feltételeknek megfelel:
 
 - a) az erdő, gyep, nádas, művelési ágú termőföld;
-- b) a művelés alól kivettként nyilvántartott földterület, ha nem építmény elhelyezésére szolgál, vagy ha e törvény hatálybalépésekor, jogerősen jóváhagyott bányászati műszaki üzemi terv alapján nem áll bányaművelés alatt;
+- b) a művelés alól kivettként nyilvántartott földterület, ha nem építmény elhelyezésére szolgál, vagy ha e törvény hatálybalépésekor, véglegessé vált döntéssel jóváhagyott bányászati műszaki üzemi terv alapján nem áll bányaművelés alatt;
 - c) a mező- és erdőgazdasági hasznosításra alkalmatlan földterület.
 
 (2) Az (1) bekezdés hatálya alá tartozó természeti területek jegyzékét a miniszter az agrárpolitikáért felelős miniszterrel együtt közzéteszi.
@@ -331,11 +331,11 @@ nyilvánít védetté.
 
 (5) Nem kell hatósági határozatban megállapítani a (3) bekezdésben meghatározott védett természeti terület kiterjedését abban az esetben, ha a terület természetvédelmi oltalma a 24. § (1) bekezdésében meghatározott külön jogszabály alapján is fennáll.
 
-27. § (1) Ha valamely védelemre tervezett terület jelentős károsodásának veszélye áll fenn, a természetvédelmi hatóság – az érdekelt hatóságok véleményének kikérése mellett – a területet fellebbezésre tekintet nélkül végrehajtható határozattal, egy alkalommal ideiglenesen védetté nyilváníthatja. A határozatban előírhatja a terület kezelésével, a természeti értékek megóvásával kapcsolatos kötelezettségeket, továbbá a veszélyeztető tevékenység folytatását korlátozhatja, felfüggesztheti, illetve megtilthatja.
+27. § (1) Ha valamely védelemre tervezett terület jelentős károsodásának veszélye áll fenn, a természetvédelmi hatóság a területet azonnal végrehajtható határozattal, egy alkalommal ideiglenesen védetté nyilváníthatja. A határozatban előírhatja a terület kezelésével, a természeti értékek megóvásával kapcsolatos kötelezettségeket, továbbá a veszélyeztető tevékenység folytatását korlátozhatja, felfüggesztheti, illetve megtilthatja.
 
 (2) Az ideiglenes védettség a végleges védettséget kimondó jogszabály hatálybalépéséig, de legfeljebb 3 hónapig tartható fenn. Országos jelentőségű védelemre tervezett természeti terület esetén a miniszter – egy ízben – további 2 hónappal meghosszabbíthatja az (1) bekezdés alapján elrendelt ideiglenes védettséget, ha a védetté nyilvánításról szóló miniszteri rendelet kihirdetése folyamatban van.
 
-(3) Ha valamely terület időszakosan fokozottan védett élő szervezetek élőhelyéül szolgál, amelyek megóvása másként nem biztosítható, a természetvédelmi hatóság a területet, vagy annak egy részét meghatározott időre – de legfeljebb 3 hónapra az érdekelt hatóságok véleményének kikérése mellett –, fellebbezésre tekintet nélkül végrehajtható határozattal átmenetileg védetté nyilváníthatja.
+(3) Ha valamely terület időszakosan fokozottan védett élő szervezetek élőhelyéül szolgál, amelyek megóvása másként nem biztosítható, a természetvédelmi hatóság a területet, vagy annak egy részét meghatározott időre – de legfeljebb 3 hónapra –, azonnal végrehajtható határozattal átmenetileg védetté nyilváníthatja.
 
 ### A védett természeti területek
 
@@ -578,7 +578,7 @@ engedélyezésekor.
 
 (2) Elhullott, elejtett védett állat egyedét a megtalálónak – ha e törvény másként nem rendelkezik – az igazgatósághoz be kell jelentenie.
 
-(3) Védett állat- és növényfaj egyedének károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység folytatásától eltiltani. Amennyiben a védett egyedet károsító, veszélyeztető, zavaró tevékenységet más hatóság engedélye alapján végzik, a hatóság a természetvédelmi hatóság megkeresésére az engedélyezési eljárást ismételten lefolytatja. Az eljáró hatóság – amennyiben az nem a természetvédelmi hatóság – a tevékenység folytatását az eljárás jogerős befejezéséig felfüggeszti.
+(3) Védett állat- és növényfaj egyedének károsítása, veszélyeztetése vagy jogellenes zavarása esetén a természetvédelmi hatóság köteles az ilyen magatartás tanúsítóját a tevékenység folytatásától eltiltani. Amennyiben a védett egyedet károsító, veszélyeztető, zavaró tevékenységet más hatóság engedélye alapján végzik, a hatóság a természetvédelmi hatóság megkeresésére az engedélyezési eljárást ismételten lefolytatja. Az eljáró hatóság – amennyiben az nem a természetvédelmi hatóság – a tevékenység folytatását az eljárás végleges befejezéséig felfüggeszti.
 
 (4) Rendszeresen hasznosított védett állatfaj állományának hosszú távú fenntartható hasznosítása érdekében a miniszter meghatározza az adott faj állománya hasznosításával kapcsolatos szabályokat.
 
@@ -618,7 +618,7 @@ engedélyezésekor.
 
 49. § (1) A barlangokat és a 48. § (5) bekezdése szerinti védőövezetet az ingatlan-nyilvántartásban, külön jogszabályokban meghatározottak szerint – a természetvédelmi hatóság kezdeményezése alapján – fel kell tüntetni.
 
-(2) A barlangokról – az ingatlan-nyilvántartástól függetlenül – közhiteles nyilvántartást kell vezetni, az ennek vezetésére jogosult szervet, illetve a nyilvántartás tartalmát és vezetésének módját a miniszter határozza meg.
+(2) A barlangokról – az ingatlan-nyilvántartástól függetlenül – közhiteles nyilvántartást kell vezetni.
 
 (3) Barlang, illetve barlangszakasz felfedezését nyolc napon belül be kell jelenteni az igazgatóságnak.
 
@@ -632,7 +632,7 @@ engedélyezésekor.
 
 (5) Bármilyen ingatlanon végzett tevékenység következtében feltárult barlangok esetén, a (3) bekezdés szerinti barlangbiztosítási munkák költségeit annak kell fedeznie, akinek érdekében, ennek hiányában beavatkozása nyomán a barlangkiépítési munkák elvégzése szükségessé vált.
 
-(6) A barlang (5) bekezdés szerinti fellelésétől a biztosítási munkák elvégzéséig, illetve annak kiépítéséig az ingatlanon folytatott tevékenység nem folytatható. Amennyiben a biztosítási munkák elvégzéséhez, illetve a barlang kiépítéséhez szükséges engedélyek jogerőssé válnak, valamint az (5) bekezdés szerinti költségek fedezete az igazgatóság részére átadásra kerül, akkor a természetvédelmi hatóság az ingatlanon végzett tevékenység folytatását engedélyezheti.
+(6) A barlang (5) bekezdés szerinti fellelésétől a biztosítási munkák elvégzéséig, illetve annak kiépítéséig az ingatlanon folytatott tevékenység nem folytatható. Amennyiben a biztosítási munkák elvégzéséhez, illetve a barlang kiépítéséhez szükséges engedélyek véglegessé válnak, valamint az (5) bekezdés szerinti költségek fedezete az igazgatóság részére átadásra kerül, akkor a természetvédelmi hatóság az ingatlanon végzett tevékenység folytatását engedélyezheti.
 
 51. § (1) A természetvédelmi hatóság engedélye szükséges
 
@@ -825,7 +825,7 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 (6) Nem lehet polgári természetőr az a személy sem,
 
 - a) akit a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vontak, a határozat jogerőre emelkedésétől számított három évig,
-- b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat jogerőre emelkedésétől számított három évig.
+- b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat véglegessé válásától számított három évig.
 
 (7) A polgári természetőr megbízatásának időtartama alatt a természetvédelmi hatóság ellenőrizheti azt is, hogy a polgári természetőrrel szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok. A természetvédelmi hatóság az ellenőrzés céljából adatot igényelhet a szabálysértési nyilvántartásból. Az adatigénylés kizárólag azon adatra irányulhat, hogy a jogosulttal szemben fennáll-e a (6) bekezdés a) pontjában meghatározott kizáró ok.
 
@@ -838,6 +838,8 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 (2) A természetvédelmi hatóság eljárásához szükséges adatokat valamennyi hatóság, állami, önkormányzati szervezet köteles a természetvédelmi hatóság rendelkezésére bocsátani.
 
 (3) A védett természeti területek és értékek nyilvántartása, törzskönyvének vezetése – a miniszter által meghatározottak szerint – a természetvédelmi hatóság feladata.
+
+(4) Az erdészeti hatóság és a természetvédelmi hatóság jogszabályban meghatározott feladatai ellátása céljából jogosult a természetvédelmi információs rendszer adataihoz való közvetlen hozzáférésre.
 
 ## V. RÉSZ — A TERMÉSZET VÉDELMÉNEK TULAJDONI
 
@@ -947,11 +949,24 @@ a kárviselésre vonatkozó szabályok
 
 (3) Az engedély meghosszabbítására irányuló kérelem benyújtása az engedély (1) bekezdés szerinti érvényességi idejét nem hosszabbítja meg.
 
-76. § (1) A természetvédelmi hatósági engedélyezési eljárásokban az eljárási határidő hetven nap.
+75/A. § A természetvédelmi hatósági eljárásokban a védett természeti területek természetvédelmi kezeléséért felelős szerv e törvény erejénél fogva ügyfélnek minősül, ha az eljárás a feladatkörét és a működési területét érinti.
+
+76. § (1) A természetvédelmi hatósági engedélyezési eljárásokban az ügyintézési határidő kilencven nap.
 
 (2) A természetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
 
 (3) A védett, fokozottan védett területet, a védett, fokozottan védett fajokat, valamint azok élőhelyét, továbbá Natura 2000 területet, vagy a közösségi jelentőségű fajokat, élőhelytípusokat érintő hatósági eljárások során az ügyben eljáró hatóság különös indokolást érdemlő esetben az eljárást felfüggesztheti.
+
+76/A. § (1) Természetvédelmi hatósági ügyben
+
+- a) a természetvédelmi hatóság az illetékességi területén lakóhellyel nem rendelkező személyt vagy székhellyel nem rendelkező szervezet törvényes képviselőjét a székhelyére is idézheti,
+- b) a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
+
+(2) Az előzetes szakhatósági állásfoglalás 30 napig használható fel.
+
+76/B. § (1) A végrehajtást foganatosító szerv a természetvédelmi hatóság, ha a döntésében meghatározott cselekmény végrehajtásának foganatosításához rendelkezik a végrehajtáshoz szükséges feltételekkel.
+
+(2) Ha a természetvédelmi hatóság által az (1) bekezdés szerint foganatosított végrehajtás nem vezetett eredményre, a természetvédelmi hatóság a végrehajtás foganatosítása érdekében megkeresi az állami adó- és vámhatóságot.
 
 77. § A természetvédelmi hatóság jogszabályban meghatározott előírások teljesítése érdekében az ügyfeleket kötelezheti az eredeti állapot helyreállítására, különösen a károsodott természeti érték és terület, továbbá a védett természeti érték és terület helyreállítására, illetve a 78/A. § esetében a Kt. és a külön jogszabályokban meghatározottak szerinti megelőzési, illetve helyreállítási intézkedésre.
 
@@ -959,7 +974,7 @@ a kárviselésre vonatkozó szabályok
 
 (2) Ha az (1) bekezdés szerinti személy nem állapítható meg, a 10. § (4) bekezdése szerinti hatóság a terület tulajdonosát, használóját vagy vagyonkezelőjét az (1) bekezdés szerinti intézkedések megtételére kötelezheti. A terület tulajdonosa, használója vagy vagyonkezelője a kötelezettség alól mentesül, ha az idegenhonos inváziós faj behurcolása, telepítése neki nem felróható és a tevékenysége során kellő gondossággal járt el.
 
-(3) Ha az (1) vagy (2) bekezdés szerinti kötelezett a kötelezettségét felszólítás ellenére sem teljesíti, a 10. § (4) bekezdése szerinti hatóság elvégzi vagy elvégezteti az (1) bekezdésben foglalt intézkedéseket és a költségek tizenöt napon belüli megtérítésére kötelezi a mulasztót (a továbbiakban: idegenhonos inváziós faj elleni közérdekű védekezés). Az elvégzett tevékenységek költségei adók módjára behajtandó köztartozásnak minősülnek.
+(3) Ha az (1) vagy (2) bekezdés szerinti kötelezett a kötelezettségét felszólítás ellenére sem teljesíti, a 10. § (4) bekezdése szerinti hatóság elvégzi vagy elvégezteti az (1) bekezdésben meghatározott intézkedéseket és a költségek tizenöt napon belüli megtérítésére kötelezi a mulasztót (a továbbiakban: idegenhonos inváziós faj elleni közérdekű védekezés).
 
 (4) Ha az idegenhonos inváziós faj elleni közérdekű védekezés elrendelésének feltételei nem állnak fenn, a 10. § (4) bekezdése szerinti hatóság állami védekezést rendelhet el (a továbbiakban: idegenhonos inváziós faj elleni állami védekezés). Idegenhonos inváziós faj elleni állami védekezés keretében az eljáró hatóság az (1) bekezdésben foglalt intézkedéseket elvégzi vagy elvégezteti.
 
@@ -967,17 +982,23 @@ a kárviselésre vonatkozó szabályok
 
 (6) A tulajdonos, a vagyonkezelő és a használó tűrni köteles a 10. § (4) bekezdése szerinti hatóságnak, az igazgatóságnak, illetve a természetvédelmi kezelést ellátó szervnek, valamint a (3) és (4) bekezdés alapján feljogosított személynek az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos előírások teljesítése érdekében végzett tevékenységét, valamint tulajdonjogának időleges korlátozását.
 
-78. § (1) A természetvédelmi hatóság korlátozhatja, felfüggesztheti vagy megtilthatja a védett természeti értéket és területet károsító vagy súlyosan veszélyeztető tevékenységeket. A határozat – a védett természeti érték, terület közvetlen vagy súlyos sérelme, illetve veszélyeztetése esetében – fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+78. § (1) A természetvédelmi hatóság korlátozhatja, felfüggesztheti vagy megtilthatja a védett természeti értéket és területet károsító vagy súlyosan veszélyeztető tevékenységeket. A határozat – a védett természeti érték, terület közvetlen vagy súlyos sérelme, illetve veszélyeztetése esetében – azonnal végrehajthatóvá nyilvánítható.
 
-(2) A Natura 2000 területen élő közösségi jelentőségű faj állományának, valamint élőhelynek veszélyeztetése vagy súlyos sérelme esetén a külön jogszabályban meghatározott hatósági határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(2) A Natura 2000 területen élő közösségi jelentőségű faj állományának, valamint élőhelynek veszélyeztetése vagy súlyos sérelme esetén a külön jogszabályban meghatározott hatósági határozat azonnal végrehajthatóvá nyilvánítható.
 
-(3) Ha védett növénytársulások fennmaradásához szükséges jogszabályban foglalt kötelezettségének a földterület tulajdonosa (vagyonkezelője, használója) nem tesz eleget, a természetvédelmi hatóság kötelezheti a munkák elvégzésére. A határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+(3) Ha védett növénytársulások fennmaradásához szükséges jogszabályban foglalt kötelezettségének a földterület tulajdonosa (vagyonkezelője, használója) nem tesz eleget, a természetvédelmi hatóság kötelezheti a munkák elvégzésére. A határozat azonnal végrehajthatóvá nyilvánítható.
 
-(4) A jogellenesen szerzett, birtokban tartott védett természeti értéket – ha az nem áll állami tulajdonban – a természetvédelmi hatóság birtokát ideiglenesen elvonja (a továbbiakban: lefoglalás), vagy birtokát véglegesen elvonja és azt állami tulajdonba veszi (a továbbiakban: elkobzás). Ha a védett természeti érték állami tulajdonban áll, akkor azt a természetvédelmi hatóság lefoglalja és az állam tulajdonosi jogait gyakorló szerv döntéséig az igazgatóság gondoskodik a megőrzéséről.
+(4) A természetvédelmi hatóság a jogellenesen szerzett, illetve birtokban tartott védett, továbbá az Európai Közösségben természetvédelmi szempontból jelentős természeti értéket – ha az nem áll állami tulajdonban – zár alá veszi és elkobozza. Ha a természeti érték állami tulajdonban áll, akkor azt a természetvédelmi hatóság zár alá veszi és az állam tulajdonosi jogait gyakorló szerv döntéséig az igazgatóság gondoskodik a megőrzéséről.
+
+(4a) A (4) bekezdés hatálya alá nem tartozó, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok hatálya alá tartozó természeti érték zár alá vételére és elkobzására a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendelet szabályait kell alkalmazni.
+
+(4b) A (4) és (4a) bekezdés hatálya kiterjed az ott meghatározott fajok bármely hibridjére is.
+
+(4c) Az e törvény szerinti elkobzás esetén a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény 4. § (2) bekezdése nem alkalmazható.
 
 (5) Az elkobzott védett természeti értékek csak a miniszter által meghatározottak szerint használhatók fel.
 
-(6) Az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos előírások megsértése esetén az idegenhonos inváziós fajok élő egyede kormányrendeletben meghatározottak szerint elkobozható vagy lefoglalható.
+(6) Az 1143/2014/EU európai parlamenti és tanácsi rendeletben, illetve jogszabályban meghatározott, idegenhonos inváziós fajjal kapcsolatos előírások megsértése esetén az idegenhonos inváziós fajok élő egyede kormányrendeletben meghatározottak szerint elkobozható vagy zár alá vehető.
 
 78/A. § Az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a Kt. 4. §-ának 10. pontjában meghatározott veszélyeztetése, valamint 13. pontjában meghatározott károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét a Kormány határozza meg.
 
@@ -1000,7 +1021,7 @@ bűncselekmény elkövetése miatt jogerősen megállapította,
 (3) Nem szerezhet az (1) bekezdés a) és b) pontjában meghatározott jogosultságot az a személy sem,
 
 - a) akit a természet védelmével kapcsolatban elkövetett szabálysértésért jogerősen felelősségre vontak, a határozat jogerőre emelkedésétől számított három évig vagy
-- b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat jogerőre emelkedésétől számított három évig.
+- b) akit természetvédelmi, illetve állatvédelmi bírsággal sújtottak, a határozat véglegessé válásától számított három évig.
 
 (4) Az (1) bekezdésben meghatározott jogosultság megszerzéséhez a kérelmező
 
@@ -1013,8 +1034,8 @@ bűncselekmény elkövetése miatt jogerősen megállapította,
 
 (7) A (4)–(6) bekezdés alapján megismert személyes adatokat a természetvédelmi hatóság
 
-- a) az (1) bekezdésben meghatározott jogosultság megadása iránti eljárás jogerős befejezéséig,
-- b) az (1) bekezdésben meghatározott jogosultság megadása esetén a hatósági ellenőrzés időtartamára vagy a jogosultság visszavonására irányuló eljárásban az eljárás jogerős befejezéséig kezeli.
+- a) az (1) bekezdésben meghatározott jogosultság megadása iránti eljárás végleges befejezéséig,
+- b) az (1) bekezdésben meghatározott jogosultság megadása esetén a hatósági ellenőrzés időtartamára vagy a jogosultság visszavonására irányuló eljárásban az eljárás végleges befejezéséig kezeli.
 
 ### A természeti állapotfelmérés
 
@@ -1094,7 +1115,7 @@ természetvédelmi bírságot köteles fizetni.
 
 (8)
 
-#### 83. §
+83. § Az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő törvények és egyes egyéb törvények módosításáról szóló 2017. évi CLIX. törvénnyel megállapított 76/B. §-t a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 #### 84. §
 
@@ -1110,11 +1131,13 @@ természetvédelmi bírságot köteles fizetni.
 - 8. a szolgáltatási megállapodás kivételével a természetvédelmi kártalanítás részletes szabályait;
 - 9. a természeti érték állagára, állapotára veszélyt jelentő tevékenységek, továbbá a védett területre, Natura 2000 területre veszélyes anyagok körét, valamint a biztosíték formáját és mértékét, felhasználásának feltételeit, elszámolásának és nyilvántartásának szabályait, továbbá a biztosítás szabályait;
 - 10. az egyes külön jogszabályokban meghatározott fajoknak és élőhelyeiknek, költő- és pihenőhelyeinek, természetes élőhelyeknek, védett természeti területeknek és védett természeti értékeknek a veszélyeztetése, károsodása esetén a károsodás mértéke megállapításának szempontjait, valamint a környezetkárosodás megelőzésének és helyreállításának rendjét;
-- 11. a természetvédelmi bírság kiszabására vonatkozó eljárási szabályokat, valamint a bírság mértékét és megállapításának módját;
+- 11. a természetvédelmi bírság mértékét és megállapításának módját;
 - 12. a természetvédelmi hatóság vagy hatóságok, illetve a védett természeti területek természetvédelmi kezeléséért felelős szerv vagy szervek kijelölését;
 - 13. a természetvédelmi eljárások során vizsgálandó szakkérdéseket és más hatósági eljárásban vizsgálandó természetvédelmi szakkérdéseket;
-- 14. az idegenhonos inváziós fajok körének meghatározására vonatkozó eljárással, egyedének az országba történő behozatalával, átszállításával, kivitelével, tartásával, szaporításával, termesztésbe, tenyésztésbe vonásával, keresztezésével, természetbe kijuttatásával, forgalomba hozatalával, értékesítésével, felhasználásával, kiirtásával, kezelésével, a vészhelyzeti intézkedésekkel, a korai észlelés és az invázió kezdeti szakaszában szükséges gyors kiirtásra vonatkozó eljárással, a velük kapcsolatos felügyeleti és monitorozó rendszer felállításával és működtetésével, a bekerülési és terjedési útvonalaikra vonatkozó cselekvési tervek készítésével, elfogadásával és végrehajtásával, valamint a sérült ökológiai rendszerek helyreállításával kapcsolatos szabályokat;
-- 15. az inváziós bírság kiszabására, a kötelező intézkedések meghatározására vonatkozó eljárási szabályokat, a bírság mértékét és megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletszabályait.
+- 14. az idegenhonos inváziós fajok egyedének az országba történő behozatalával, átszállításával, kivitelével, tartásával, szaporításával, termesztésbe, tenyésztésbe vonásával, keresztezésével, természetbe kijuttatásával, forgalomba hozatalával, értékesítésével, felhasználásával, kiirtásával, kezelésével, a vészhelyzeti intézkedésekkel, a korai észlelés és az invázió kezdeti szakaszában szükséges gyors kiirtással, a velük kapcsolatos felügyeleti és monitorozó rendszer felállításával és működtetésével, a bekerülési és terjedési útvonalaikra vonatkozó cselekvési tervek készítésével, elfogadásával és végrehajtásával, valamint a sérült ökológiai rendszerek helyreállításával kapcsolatos szabályokat;
+- 15. az inváziós bírság kiszabására, a kötelező intézkedések meghatározására vonatkozó szabályokat, a bírság mértékét és megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletszabályait;
+- 16. a természetvédelmi hatósági eljárásokat;
+- 17. a barlangok közhiteles nyilvántartását, az ennek vezetésére jogosult szervet, a nyilvántartás tartalmát és vezetésének módját, valamint a nyilvántartásból történő adatszolgáltatást.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
@@ -1138,7 +1161,7 @@ természetvédelmi bírságot köteles fizetni.
 - 18. a teljesen vagy túlnyomóan mesterséges üregek – amelyeknek a felületén utólag létrejött szakmai, tudományos szempontból jelentős képződmények alakultak ki, vagy természetvédelmi szempontból kiemelkedő jelentőségűek – védetté nyilvánítását;
 - 19. barlang, illetve védetté nyilvánított mesterséges üreg védelmének, fokozott védelmének feloldását;
 - 20. barlang és a védett mesterséges üreg védőövezetének kijelölését és a védőövezetre irányadó korlátozásokat;
-- 21. a barlangok közhiteles nyilvántartását, az ennek vezetésére jogosult szervet, a nyilvántartás tartalmát és vezetésének módját, a nyilvántartásból történő adatszolgáltatást, valamint a barlangok természeti állapotfelvételének és kezelési tervük készítésének szabályait;
+- 21. a barlangok természeti állapotfelvételével és kezelési tervük készítésével kapcsolatos előírásokat;
 - 22. azon barlangok körét, amelyek látogatásához az igazgatóság vagyonkezelői hozzájárulása szükséges, továbbá a vagyonkezelői hozzájárulás kérelmezésének és megadásának szabályait;
 - 23. a barlangok látogatásának, kutatásának, hasznosításának és a barlangi búvármerülés, barlangi mentés szabályait, a barlang, barlangszakasz kiépítése körébe tartozó műtárgyak és tevékenységek körét, a kiépítés szabályait, továbbá a barlangokkal kapcsolatos engedélyezés szabályait;
 - 24. az igazgatóság vagyonkezelői hozzájárulásával látogatható barlangokban történő túravezetés, a barlangi kutatás és barlangi búvármerülés képesítési feltételeit, valamint a barlangi túravezető és barlangi kutatásvezető jogait és kötelezettségeit;

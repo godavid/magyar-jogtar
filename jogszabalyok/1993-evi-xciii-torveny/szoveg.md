@@ -631,11 +631,11 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 #### 82/B. §
 
-82/C. § (1) A munkavédelmi hatósági eljárások során az újrafelvételi eljárásra vonatkozó szabályok nem alkalmazhatók.
+82/C. § (1)
 
 (2) A munkáltató saját maga munkavédelmi hatósági ellenőrzés alá vonását nem kérelmezheti.
 
-(3) Felügyeleti eljárás keretében a hatósági eljárás során hozott döntés nem változtatható meg és nem semmisíthető meg, ha a kötelezettséget megállapító döntés jogerőre emelkedésétől vagy ha a teljesítési határidő ezt meghaladja, akkor a teljesítési határidő utolsó napjától számított egy év eltelt.
+(3)
 
 (4)–(5)
 
@@ -669,27 +669,27 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (5) A munkavédelmi hatóság a nyilvántartásban szereplő adatokat a munkáltató bejelentésétől számított ötven év elteltével törli.
 
-83/B. § (1) A munkavédelmi hatóság a munkavédelmi szabályok munkáltatók általi megtartásának más szerv előtti, külön jogszabály szerinti eljárásban (pl. a megváltozott munkaképességű munkavállalók foglalkoztatásának támogatása) történő igazolása céljából hatósági nyilvántartást vezet.
+83/B. § (1) A munkavédelmi hatóság a munkavédelmi szabályok munkáltatók általi megtartásának más szerv előtti, külön jogszabály szerinti eljárásban történő igazolása céljából hatósági nyilvántartást vezet. A hatósági nyilvántartás azoknak a munkáltatóknak az adatait tartalmazza, amelyekre vonatkozóan a munkavédelmi ellenőrzés során az eljáró hatóság végleges határozata, közigazgatási per esetén jogerős bírósági határozattal elbírált hatósági határozat jogsértést állapított meg és munkavédelmi bírságot szabott ki.
 
-(2) A hatósági nyilvántartás tartalmazza azoknak a munkáltatóknak az adatait, amelyekre vonatkozóan a munkavédelmi ellenőrzés során az eljáró hatóság jogerős és végrehajtható határozata, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság jogerős és végrehajtható határozata jogsértést állapított meg és munkavédelmi bírságot szabott ki. A nyilvántartás tartalmazza
+(2) A nyilvántartás tartalmazza
 
 - a) a munkáltató nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy munkáltató nevét, lakcímét, adóazonosító jelét;
-- b) a jogsértést megállapító határozat keltét és számát, jogerőre emelkedésének és végrehajthatóvá válásának időpontját;
+- b) a jogsértést megállapító határozat keltét és számát, véglegessé válásának és végrehajthatóvá válásának időpontját;
 - c) a jogsértés megjelölését;
 - d) a munkavédelmi bírság tényét és mértékét;
-- e) a határozat bírósági felülvizsgálata esetén a jogerős és végrehajtható bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a keresettel támadott közigazgatási határozattal összefüggésben a bíróság milyen döntést hozott.
+- e) közigazgatási per esetén a jogerős bírósági határozat keltét és számát, jogerőre emelkedésének napját, valamint azt, hogy a bíróság milyen döntést hozott.
 
 (2a) Az (1) bekezdésben meghatározott nyilvántartás – a (2) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A hatósági nyilvántartás adatait a munkavédelmi hatóság informatikai rendszerében kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkavédelmi hatóság által történik a jogsértést megállapító határozat jogerősítésének napján, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság határozatának jogerőre emelkedésének napján.
+(3) A hatósági nyilvántartás adatait a munkavédelmi hatóság informatikai rendszerében kezeli. A (2) bekezdésben meghatározott adatoknak az informatikai adatbázisban történő rögzítése a munkavédelmi hatóság által történik a jogsértést megállapító határozat véglegessé válásának napján, a határozat közigazgatási perben való megtámadása esetén a bíróság határozatának jogerőre emelkedésének napján.
 
-(4) A munkavédelmi hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló jogerős határozat végrehajthatóvá válásának napjától, a közigazgatási határozat bírósági felülvizsgálata esetén a bíróság jogerős döntésének végrehajthatóvá válásától számított két év elteltével törli.
+(4) A munkavédelmi hatóság a nyilvántartásban szereplő, illetve a nyilvántartásból a honlapon nyilvánosságra hozott adatokat a bejegyzés alapjául szolgáló véglegessé vált határozat végrehajthatóvá válásának napjától, közigazgatási per esetén a bíróság ítéletének jogerőre emelkedésétől számított két év elteltével törli.
 
-(5) A munkavédelmi hatóság az általa vezetett nyilvántartás adatai alapján a munkavédelmi bírsággal sújtott jogsértést elkövető munkáltatók nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy munkáltató nevét, lakcímét, adóazonosító jelét, a munkavédelmi bírsággal sújtott jogsértés megjelölését és a bírság mértékét, a jogsértést megállapító határozat keltét és számát, valamint a jogsértést megállapító határozat jogerőre emelkedésének és végrehajthatóvá válásának napját a honlapján történő közzététel útján nyilvánosságra hozza. A közigazgatási határozat bírósági felülvizsgálata esetén a (2) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján szintén nyilvánosságra hozza.
+(5) A munkavédelmi hatóság az általa vezetett nyilvántartás adatai alapján a munkavédelmi bírsággal sújtott jogsértést elkövető munkáltatók nevét, székhelyét, adószámát, adószámmal nem rendelkező természetes személy munkáltató nevét, lakcímét, adóazonosító jelét, a munkavédelmi bírsággal sújtott jogsértés megjelölését és a bírság mértékét, a jogsértést megállapító határozat keltét és számát, valamint a jogsértést megállapító határozat véglegessé válásának és végrehajthatóvá válásának napját a honlapján történő közzététel útján nyilvánosságra hozza. Közigazgatási per esetén a (2) bekezdés e) pontjában foglalt adatokat abban az esetben, ha a bíróság a keresetet elutasító vagy a közigazgatási határozatot megváltoztató döntést hozott, a honlapján történő közzététel útján szintén nyilvánosságra hozza.
 
-(6) A munkavédelmi hatóság (2) bekezdésben foglalt nyilvántartásba vételi kötelezettségét és (5) bekezdésben foglalt közzétételi kötelezettségét nem érinti, ha a munkáltató a jogerős közigazgatási határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
+(6) A munkavédelmi hatóság (2) bekezdésben foglalt nyilvántartásba vételi kötelezettségét és (5) bekezdésben foglalt közzétételi kötelezettségét nem érinti, ha a munkáltató a végleges határozatban vagy jogerős bírósági határozattal elbírált közigazgatási határozatban foglalt kötelezettségét az előírt határidőben vagy határnapon teljesíti.
 
-(7) Ha a munkavédelmi hatóság tudomására jutott, hogy határozatának bírósági felülvizsgálata iránt keresetet indítottak,
+(7) A munkavédelmi hatóság a határozat közigazgatási perben való megtámadása esetén
 
 - a) a (2) bekezdésben foglalt adatokat a bíróság jogerős és végrehajtható határozatában foglalt döntésre figyelemmel teszi közzé,
 - b) – ha az (5) bekezdés szerinti adatok nyilvánosságra hozatalára már sor került – intézkedik a honlapon nyilvánosságra hozott adatok törléséről.
@@ -698,21 +698,25 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 83/C. § (1) A munkavédelmi hatóság a hatósági eljárás lefolytatásához, továbbá a szakmai irányításért felelős szerv a feladatai ellátásához – különösen a munkabalesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek kivizsgálásához, nyilvántartásához – szükséges okból és mértékben megismerheti és kezelheti az érintett munkavállalók – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott – személyazonosító és egészségügyi adatait, betekinthet a munkavállaló hatósági eljárás lefolytatásával kapcsolatos irataiba, kérheti azok bemutatását, azokról másolatot készíthet, továbbá a munkáltatót, illetve a munkavállalót adatközlésre hívhatja fel.
 
-(2) Az (1) bekezdés szerinti adatokat a munkavédelmi hatóság informatikai rendszerében kezeli, az adatokat a hatósági eljárás jogerős befejezésétől számított két év elteltével törli.
+(2) Az (1) bekezdés szerinti adatokat a munkavédelmi hatóság informatikai rendszerében kezeli, az adatokat a hatósági eljárást befejező döntés véglegessé válásától számított két év elteltével törli.
 
-83/D. § A munkavédelmi hatósági eljárás határideje az eljárás megindításától számított negyvenöt nap:
+83/D. § (1) A munkavédelmi hatósági ellenőrzés határideje negyvenöt nap
 
 - a) a munkabalesetekkel, foglalkozási megbetegedésekkel és fokozott expozíciós esetekkel,
-- b) a balesetet munkabalesetnek minősítésével,
+- b) a baleset munkabalesetnek minősítésével,
 - c) a munkáltató és a munkahelyen munkát végző személy közötti munkavégzésre irányuló jogviszony szervezett munkavégzésnek történő minősítésével
 
-kapcsolatos eljárásokban.
+kapcsolatban.
 
-#### 83/E. §
+(2) A munkavédelmi hatósági ellenőrzés határideje az (1) bekezdés által nem érintett esetekben 30 nap.
+
+(3) A munkavédelmi hatóság hivatalbóli eljárásának ügyintézési határideje 60 nap.
+
+83/E. § A munkavédelmi ellenőrzési feladatokat ellátó hatóságok tekintetében felügyeleti szervként a munkavédelmi ágazati feladatkörében érintett miniszter jár el.
 
 84. § (1) A munkavédelmi hatóság jogosult
 
-- a) a munkahelyek tekintetében a munkáltatót határozatban kötelezni, hogy írásban nyújtson tájékoztatást a megjelölt munkavédelmi követelmények teljesítéséről;
+- a)
 - b) valamennyi munkahelyen – külön engedély nélkül – ellenőrzést tartani;
 - c) a munkabaleseteket – kivéve a közúti közlekedéssel kapcsolatosakat – és a fokozott expozíciós eseteket – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni;
 - d) a munkáltatót felhívni az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeinek teljesítésére;
@@ -729,11 +733,21 @@ kapcsolatos eljárásokban.
 
 (2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a bejelentett súlyos munkabalesetet, valamint a foglalkozási megbetegedést, a fokozott expozíciós esetet – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
 
-(3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt határozatának fellebbezésre tekintet nélküli végrehajtását rendelheti el.
+(3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt határozatának azonnali végrehajtását rendelheti el.
 
 (4) A munkavédelmi hatóság a tényállás alapján jogosult a munkáltató és a munkahelyen munkát végző személy közötti munkavégzésre irányuló – az ellenőrzés megkezdésekor, illetőleg baleset bekövetkezése esetén a baleset időpontjában fennálló – jogviszonyt szervezett munkavégzésnek minősíteni. A minősítéshez a munkáltatóként eljárás alá vontnak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka nem tartozik a szervezett munkavégzés (87. § 9. pont) körébe.
 
 (5) Olyan munkahelyen, ahol különböző munkáltatók munkavállalókat egyidejűleg foglalkoztatnak, és a munkavédelmi ellenőrzés eredményeként valamely munkáltató nem azonosítható, a (4) bekezdés vonatkozásában az ellenkező bizonyításáig vélelmezni kell, hogy az érintett munkavállalók munkáltatója az, aki a tevékenységet a munkahelyen ténylegesen irányítja, ennek hiányában, aki a munkahelyért a fő felelősséget viseli, ha ilyen nincs, akkor az, akinek a területén a munkavégzés folyik.
+
+(6) A munkavédelmi hatóság a helyszíni ellenőrzés során készített jegyzőkönyv egy példányát a munkáltatónak, távollétében a munkavédelmi hatóság által készített feljegyzést a munkáltató részéről jelen lévő személynek átadja.
+
+(7) A munkavédelmi hatóság által a helyszíni ellenőrzésen közölt adatszolgáltatásra való felhívást a jegyzőkönyvben rögzíteni kell.
+
+(8) Az adatszolgáltatási kötelezettség körébe tartozó iratok másolatban nem nyújthatók be.
+
+(9) Ha a munkáltató adatszolgáltatási kötelezettsége körében nem a felhívásnak megfelelően szolgáltat adatot, a munkavédelmi hatóság a rendelkezésre álló adatok alapján dönt.
+
+(10) A munkavédelmi hatósági eljárásban a kapcsolattartás formáját a hatóság választja meg.
 
 85. § A munkavédelmi hatóság által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
 
@@ -746,6 +760,11 @@ kapcsolatos eljárásokban.
 - e) a honvédségi szervezetekre, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyre, illetve ideiglenes építési munkahelyre, a Katonai Nemzetbiztonsági Szolgálatra, azon gazdasági társaságokra, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervekre, az Országgyűlési Őrségre és az önkormányzati tűzoltóságra.
 
 (2) Az (1) bekezdés e) pontjában említett szervek tekintetében külön jogszabály rendelkezik a munkavédelmi hatósági tevékenység ellátásáról.
+
+(3) A rendvédelmi szervek, az Országgyűlési Őrség, valalmint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
+
+- a) a kérelem kormányablaknál nem terjeszthető elő,
+- b) az ügyfél nyilatkozatával a hiányzó bizonyíték nem pótolható.
 
 ### VII/A. Fejezet — A távmunkavégzés eltérő munkavédelmi szabályai
 
@@ -796,22 +815,23 @@ kapcsolatos eljárásokban.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-- a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes építési munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket rendeletben jelölje ki;
+- a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédségi szervezetek, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahely, illetve ideiglenes munkahely, a Katonai Nemzetbiztonsági Szolgálat, azon gazdasági társaságok, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait rendeletben határozza meg;
 - b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 - c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a nyilvántartás személyes adatot nem tartalmazó adattartalmát, továbbá a nyilvántartás vezetésére vonatkozó eljárás részletes szabályait;
 - d) rendeletben állapítsa meg a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokat;
-- e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot.
+- e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot, továbbá szabályozza ezen hatóság által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
+- f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait.
 
 (3) Felhatalmazást kap a feladatkörében érintett miniszter, hogy
 
 - a) a rendkívüli munkavégzési körülmények esetére, illetőleg a rendvédelmi szervek, az önkormányzati tűzoltóságok tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan – az egyes szervek specifikumait figyelembe véve – ezen törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat ágazati rendeletben határozza meg;
 - b) az egyes veszélyes tevékenységekre vonatkozó Szabályzatokat (11. §) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben, rendeletben adja ki.
-- c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes építési munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+- c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, a Katonai Nemzetbiztonsági Szolgálatnál, valamint azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
 
 - a) rendeletben határozza meg
-  - aa) az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének;
+  - aa)
   - ab) a munkahelyi biztonsági és egészségvédelmi jelzések alkalmazásának;
   - ac) a munkáltatók veszélyességi osztályba sorolásának és a munkavédelmi szakember foglalkoztatásának;
   - ad) a munkabalesetek bejelentésének, kivizsgálásának és nyilvántartásának;
@@ -863,7 +883,7 @@ részletes szabályait.
 
 (5a) Felhatalmazást kap a rendészetért felelős miniszter, hogy az Országgyűlés elnöke véleménye kikérésével rendeletben határozza meg az Országgyűlési Őrség tekintetében a munkavégzésre irányuló jogviszonyban, szolgálati viszonyban kifejtett munkatevékenységre vonatkozóan e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, tevékenységek veszélyességi osztályba sorolását, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
-(5b) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében az e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, eljárási szabályokat, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+(5b) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében az e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, továbbá a balesetek, a foglalkozási megbetegedések és fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
 
 (6) Ez a törvény a következő közösségi jogi aktusoknak való megfelelést szolgálja:
 

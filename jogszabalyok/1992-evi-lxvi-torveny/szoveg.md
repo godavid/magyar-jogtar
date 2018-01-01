@@ -142,6 +142,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (5) A konzuli tisztviselő eljár a személyazonosító igazolvánnyal kapcsolatos ügyekben.
 
+(6) A konzuli tisztviselőnél előterjesztett állandó személyazonosító igazolvány kiadására irányuló eljárással összefüggésben a közigazgatási per megindítására irányuló keresetlevelet a vitatott közigazgatási cselekmény közlésétől számított hatvan napon belül kell benyújtani.
+
 7. § (1) A járási hivatal
 
 - a) gondoskodik a járás (fővárosi kerület) területén lakcímmel rendelkező polgár adatainak, adatváltozásainak, illetve adatjavításainak, valamint a polgár adataiban a járás (fővárosi kerület) közigazgatási területén bekövetkezett változásoknak a nyilvántartáson történő átvezetéséről;
@@ -380,6 +382,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 (8) A nyilvántartás szervei a külön törvényben meghatározott esetekben és megkereső szervek javára, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvényben meghatározott rendelkezések szerint adatot szolgáltatnak a polgár azonosítása, a megkereső szervek általi azonosítás, a megkereső szervek által kezelhető azonosító kódok lekérdezése érdekében.
 
+(9) A Kormány által az oktatásért felelős miniszter felsőoktatási feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv közvetlen hozzáférést biztosít a nyilvántartás szervei részére a felsőoktatási információs rendszerben foglalt, a polgár azonosításához szükséges, valamint a felsőoktatási intézmények által a felsőfokú tanulmányok lezárását követően kiadott oklevelekkel, valamint az odaítélt doktori fokozatokkal kapcsolatos, a doktori cím használatára való jogosultság ellenőrzéséhez szükséges adatok tekintetében.
+
 18. § (1) Egyedi adatszolgáltatás bármely járási hivatalnál kérelmezhető. A járási hivatal az egyedi adatszolgáltatás iránti kérelmet átteszi a nyilvántartást kezelő szervnek, ha az adatszolgáltatáshoz szükséges adatok nem állnak a rendelkezésére.
 
 (2) A nyilvántartást kezelő szerv engedélyezi az adatigénylő részére a rendszeres vagy közvetlen hozzáféréssel történő adatszolgáltatást.
@@ -463,7 +467,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 - e) a díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - f) a gépjárműveket, a forgalmi és vezetői engedélyeket nyilvántartó hatóság a nyilvántartásban szereplő polgárok adatai változásának követéséhez;
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás, valamint az igazságügyért felelős miniszter a bűnügyi költség és rendbírság mérséklése, elengedése iránti kérelmek elbírálása során;
-- h)
+- h) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való kikerülés helyére, annak – az elhalálozáson kívüli – okára és idejére, az értesítési címadatokra vonatkozó adatok kivételével a cégnyilvántartással összefüggő feladatai ellátásához a cégbíróság, valamint a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat;
 - i) a polgári védelmi kötelezettség érvényesítése céljából a hivatásos katasztrófavédelmi szerv és a polgármester;
 - j) az egyes fontos tisztségeket betöltő személyek ellenőrzéséről szóló 1994. évi XXIII. törvény 5. §-ában meghatározott bizottság, az Országgyűlés Nemzetbiztonsági Bizottsága, valamint a bíróság a törvényben meghatározott ellenőrzés lefolytatásához;
 - k) a nyugdíjfolyósító szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
@@ -471,7 +475,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 - m) a bejegyzett élettársi kapcsolat megszüntetésére irányuló polgári nemperes eljáráshoz a közjegyző,
 - n) az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló polgári nemperes eljáráshoz a közjegyző, az Élettársi Nyilatkozatok Nyilvántartásában szereplő személy házasságkötésének, bejegyzett élettársi kapcsolata létesítésének és halálának az Élettársi Nyilatkozatok Nyilvántartásában való feltüntetése érdekében a Magyar Országos Közjegyzői Kamara,
 - o) az állampolgárság, a családi állapot, a házasságkötés helye, a nem, valamint a nyilvántartásból való kikerülés okára, helyére és idejére vonatkozó adatok kivételével a kártörténeti nyilvántartást kezelő szerv a kártörténeti nyilvántartásban szereplő üzemben tartó személyazonosító adatai nyilvántartásának naprakészen tartásához,
-- p)
+- p) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a nyilvántartást vezető szerv a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához.
 - q) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben,
 - r) az út- és úthasználati díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 - s) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
@@ -553,6 +557,12 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 (2)–(3)
 
+25/A. § A külföldön élő magyar állampolgár nyilvántartási ügyében eljáró hatóság 8 napos határidő megjelölésével hívja fel hiánypótlásra a kérelmezőt.
+
+25/B. § (1) Az e törvény hatálya alá tartozó nyilvántartási ügyekben, ha e törvény vagy a végrehajtására kiadott kormányrendelet eltérően nem rendelkezik, az ügyfél a nyilatkozatával nem pótolhatja a hiányzó bizonyítékot.
+
+(2) Az aránytalanul nehezen beszerezhető külföldi hatóság által kiállított irat helyett az ügyfél a bizonyítani kívánt tényről nyilatkozatot tehet.
+
 ### A lakcím és az értesítési cím bejelentése és nyilvántartása
 
 26. § (1) A Magyarország területén élő, e törvény hatálya alá tartozó polgár [4. § (1) bekezdés] köteles beköltözés vagy kiköltözés után három munkanapon belül lakóhelyének, illetve tartózkodási helyének címét nyilvántartásba vétel céljából bejelenteni (a továbbiakban együtt: lakcímbejelentés).
@@ -576,7 +586,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 (4) A lakcímbejelentéshez – jogszabályban meghatározott kivétellel – a szállásadó hozzájárulása szükséges.
 
-(5) A lakcímbejelentés és az értesítési cím bejelentésének ténye önmagában a lakás vagy az ingatlan használatához fűződő, valamint egyéb vagyoni jogot nem keletkeztet és nem szüntet meg. Érvénytelen a bejelentett lakcímadat, ha a polgárnak a lakás használatára vonatkozó joga megállapodás alapján már nem áll fenn, illetve jogerős bírósági vagy hatósági határozat alapján megszűnt és a határozatot végrehajtották.
+(5) A lakcímbejelentés és az értesítési cím bejelentésének ténye önmagában a lakás vagy az ingatlan használatához fűződő, valamint egyéb vagyoni jogot nem keletkeztet és nem szüntet meg. Érvénytelen a bejelentett lakcímadat, ha a polgárnak a lakás használatára vonatkozó joga megállapodás alapján már nem áll fenn, illetve jogerős bírósági vagy véglegessé vált hatósági határozat alapján megszűnt és a határozatot végrehajtották.
 
 (5a) Érvénytelen a bejelentett lakcímadat, ha a járási hivatal megállapította, hogy a polgár bejelentett lakcímadata nem valós. Érvénytelen a bejelentett értesítési cím, ha a járási hivatal vagy a kijelölt kormányhivatal megállapította, hogy a polgár bejelentett értesítési címe nem valós.
 
@@ -663,7 +673,7 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 (4) A szállásadó hozzájáruló nyilatkozatának bejegyzésekor, valamint a címre történő lakcímbejelentéskor minden esetben vizsgálni kell, hogy a címre vonatkozóan nyilatkozatot tevő szállásadó nyilatkozattételi jogosultsága fennáll-e.
 
-(5) A nyilatkozattételi jogosultság fennállásának hiányában a nyilatkozat nyilvántartásba vételét el kell utasítani, illetve a nyilatkozatot a címnyilvántartásból hivatalból törölni kell.
+(5) A nyilatkozattételi jogosultság fennállásának hiányában a nyilatkozat nyilvántartásba vételét vissza kell utasítani, illetve a nyilatkozatot a címnyilvántartásból hivatalból törölni kell.
 
 (6) A járási hivatal a szállásadó nyilatkozattételi jogosultságának fennállását az ingatlan-nyilvántartásba történő betekintéssel ellenőrzi.
 
@@ -764,7 +774,7 @@ a tároló elemen elhelyezi.
 
 (3) A 29. § (9) bekezdésben foglalt esetek kivételével a honosítási és visszahonosítási kérelmet átvevő szerv a magyarországi lakóhellyel rendelkező polgár esetén a honosítási és visszahonosítási kérelem (a továbbiakban együtt: honosítási kérelem) benyújtásakor 12. életévét betöltött, valamint a honosítási kérelem benyújtásának évében 12. életévét betöltő polgár ujjnyomatát rögzíti az ujjnyomatnak a személyazonosító igazolvány tároló elemén történő elhelyezése céljából. A honosítási kérelmet átvevő szerv az ujjnyomatot a honosítási kérelem továbbításával egyidejűleg továbbítja az állampolgársági ügyekben eljáró szervnek. Az állampolgársági ügyekben eljáró szerv az ujjnyomatot a 14. § m) pont mj) alpontjában meghatározott feladata teljesítése céljából, az értesítés megküldéséig kezelheti, az értesítés megküldését, valamint a honosítási kérelem elutasítását követően az ujjnyomatot haladéktalanul törölnie kell. Ha a polgár az ujjnyomat rögzítését visszautasítja, a személyazonosító igazolványt anélkül kell kiadni.
 
-(4) A nyilvántartást kezelő szerv és a kijelölt kormányhivatal az ujjnyomatot – az (5) bekezdésben meghatározott kivétellel – az állandó személyazonosító igazolvány kiállításáig, valamint a személyazonosító igazolvány kiadását megtagadó határozat vagy eljárást megszüntető végzés jogerőre emelkedéséig jogosult kezelni, azt az állandó személyazonosító igazolvány kiállításakor, valamint a személyazonosító igazolvány kiadását megtagadó határozat vagy az eljárást megszüntető végzés jogerőre emelkedését követően haladéktalanul törölni kell.
+(4) A nyilvántartást kezelő szerv és a kijelölt kormányhivatal az ujjnyomatot – az (5) bekezdésben meghatározott kivétellel – az állandó személyazonosító igazolvány kiállításáig, valamint a személyazonosító igazolvány kiadását megtagadó határozat vagy eljárást megszüntető végzés véglegessé válásáig jogosult kezelni, azt az állandó személyazonosító igazolvány kiállításakor, valamint a személyazonosító igazolvány kiadását megtagadó határozat vagy az eljárást megszüntető végzés véglegessé válását követően haladéktalanul törölni kell.
 
 (5) A honosítási kérelmet előterjesztő, magyarországi lakóhellyel rendelkező polgár ujjnyomatát a kijelölt kormányhivatal az állampolgársági eskü vagy fogadalom letételéig, legfeljebb azonban a magyar állampolgárságról szóló 1993. évi LV. törvény 16. § (4) bekezdésében meghatározott időpontig vagy a honosítási vagy visszahonosítási okirat hatályvesztéséig jogosult kezelni. A honosítási kérelmet előterjesztő, magyarországi lakóhellyel rendelkező polgár ujjnyomatát a kijelölt kormányhivatal a tároló elemen csak akkor helyezi el, ha a polgár 12. életévét legkésőbb az állampolgársági eskü vagy fogadalom letételének napján betölti.
 
@@ -1068,33 +1078,9 @@ adatvédelmi felelőst nevez ki.
 
 #### 42. §
 
-43. § A népszavazásról és a népi kezdeményezésről szóló 1989. évi XVII. törvény 21. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
+#### 43. §
 
-„,,(1) A népi kezdeményezést és a népszavazás állampolgári kezdeményezését tartalmazó íveken — az aláírások mellett — fel kell tüntetni a kezdeményező olvasható nevét és lakcímét, valamint természetes személyazonosító adatait vagy személyazonosító jelét.''”
-
-44. § Az országgyűlési képviselők választásáról szóló, módosított 1989. évi XXXIV. törvény (Vjt.) a következő 37/A—37/B. §-okkal egészül ki:
-
-„,,37/A. § (1) A választók nyilvántartásának összeállítása céljából, a választás kitűzésétől számított 25 napon belül, a választásban érintett választókerület települési önkormányzata(i) jegyzője részére az a)—c) pontokban megjelölt szervek a választójoggal nem rendelkező személyek (2) bekezdés szerinti adatait kötelesek közölni az alábbiak szerint:
-
-a) a cselekvőképességet korlátozó vagy kizáró gondnokság alá helyezésről és annak megszűnéséről az illetékes bíróság, illetve a gyámhatósági feladatokat ellátó jegyző vagy megyei, fővárosi közigazgatási hivatal vezetője ;
-
-b) a közügyek gyakorlásától eltiltó jogerős ítélet hatálya alatt álló személyekről a bűntetteseket nyilvántartó szerv;
-
-c) szabadságvesztés büntetését töltő, valamint a büntetőeljárásban jogerősen elrendelt intézeti kényszergyógykezelés alatt álló polgárokról az illetékes büntetésvégrehajtási intézet.
-
-(2) Az (1) bekezdés szerinti jelentés adattartalma:
-
-a) családi és utónév (nők esetében leánykori és családi utónév is);
-
-b) lakóhely;
-
-c) személyazonosító jel [az (1) bekezdés a) pontja esetén a természetes személyazonosító adatok];
-
-d) a választójog gyakorlásából való kizárás oka, kezdete és megszűnésének várható időpontja;
-
-e) a kizáró okot elrendelő bíróság megnevezése, az ítélet ügyiratszáma, kelte és jogerőre emelkedésének időpontja.
-
-37/B. § A 37/A. § szerinti adatot szolgáltató nyilvántartások bármelyike (egymástól elkülönítetten) és a helyi személyi adat- és lakcímnyilvántartás — a választással, illetve a népszavazással és népi kezdeményezéssel érintett választókerület lakosságát érintően — a választók nyilvántartásának összeállítására előírt időpontban, a választásra jogosultak megállapítása érdekében összekapcsolható. Az összekapcsolást a választás lebonyolítása, illetve az irányadó törvényekben a jogorvoslatra megállapított határidő letelte után meg kell szüntetni. Az összekapcsolás alapján létrehozott nyilvántartásból a személyi adat- és lakcímnyilvántartás nem vehet át adatot.''”
+#### 44. §
 
 #### 45. §
 
@@ -1179,6 +1165,8 @@ e) a kizáró okot elrendelő bíróság megnevezése, az ítélet ügyiratszám
 52/C. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 29/E. § (1) és (3a) bekezdését a 2017. január 1-jétől igényelt személyazonosító igazolványokra kell alkalmazni.
 
 52/D. § E törvénynek az egyes belügyi tárgyú törvények módosításáról szóló 2017. évi XXXIII. törvénnyel megállapított 29. § (11) bekezdését a 2017. június 1-jétől kiadott ideiglenes személyazonosító igazolványokra kell alkalmazni. A 2017. június 1-jét megelőzően kiadott ideiglenes személyazonosító igazolványok tartalmára vonatkozóan e törvénynek a 2017. május 31-én hatályban volt szabályait kell alkalmazni.
+
+52/E. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 53. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

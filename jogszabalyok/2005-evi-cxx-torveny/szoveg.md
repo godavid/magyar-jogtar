@@ -51,6 +51,8 @@ alapján illeti meg,
 
 és az a)–b) pontban említett esetekben külön-külön és együttesen sem haladja meg az adóévben a (4) bekezdésben meghatározott összeghatárt.
 
+(2a) A (2) bekezdésben foglaltaktól eltérően nem alkalmazható a közterhek ekho szerinti megfizetése az egyéni vállalkozó tevékenységi körében szereplő, (3) és (3c) bekezdésben említett foglalkozás szerinti tevékenységre, ha az egyéni vállalkozó az adóévben a kisadózók tételes adója szerinti adózást választotta.
+
 (3) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett, FEOR-számmal azonosított foglalkozás:
 
 2123 Telekommunikációs mérnök foglalkozásból
@@ -216,7 +218,7 @@ azzal, hogy ha a magánszemély általános forgalmi adó fizetésére köteleze
 
 (2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhot fizet. Ettől eltérően, ha a magánszemély a kifizetést megelőzően nyilatkozik arról, hogy nyugdíjas, az ekho mértéke 11,1 százalék.
 
-(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 20 százalék ekhót fizet.
+(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 19,5 százalék ekhót fizet.
 
 (4) A kifizető a magánszemélyt terhelő ekhot levonással állapítja meg, ideértve azt az esetet is, ha a kifizetést számla alapján – akár egyéni vállalkozónak, akár más magánszemélynek – teljesíti, kivéve, ha a magánszemély az 5. § (3) bekezdése szerinti nyilatkozatot tesz.
 

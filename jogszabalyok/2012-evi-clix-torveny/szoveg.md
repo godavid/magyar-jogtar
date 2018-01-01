@@ -172,7 +172,7 @@ nyújtja.
 - f) a postai szolgáltatás normál üzemmenetéhez szükséges technológiai folyamatok leírását, különös tekintettel a bejelentő által nyújtani kívánt szolgáltatások –értelmező rendelkezésekben foglalt technológiai elemek részletes bemutatására;
 - g) a 8. § (3) bekezdés f) pontja szerinti szolgáltatás nyújtása esetén az egyedi szerződés tervezetét és a 8. § (4) bekezdésében foglalt körülmények fennállásával kapcsolatos jogi álláspontját;
 - h) a bejelentő által igénybe venni kívánt közreműködők nevét, elnevezését, vállalkozás esetén azok cégjegyzékszámát, más hivatalos nyilvántartási vagy azonosító számát és székhelyét annak feltüntetésével, hogy a közreműködő a postai küldemények felvétele, gyűjtése, szállítása, feldolgozása vagy kézbesítése körében jár el;
-- i) a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló jogszabályban a rendezett munkaügyi kapcsolatokra vonatkozó feltételek teljesítésének igazolását.
+- i)
 
 (4) A Hatóság a bejelentéshez mellékelt dokumentumokban foglaltak valódiságát – szükség esetén az általa megkeresett szervek útján – ellenőrzi.
 
@@ -181,7 +181,7 @@ nyújtja.
 (6) A Hatóság a nyilvántartásba vételt megtagadja, ha
 
 - a) a bejelentő nem szerepel a Nemzeti Adó- és Vámhivatal internetes honlapján megtalálható köztartozásmentes adózói adatbázisban, vagy
-- b) a bejelentő nem igazolja a rendezett munkaügyi kapcsolatok feltételeiről és igazolásának módjáról szóló jogszabályban a rendezett munkaügyi kapcsolatokra vonatkozó feltételek teljesítését, vagy
+- b) a bejelentő munkaügyi kapcsolatai nem rendezettek, vagy
 - c) a bejelentésben foglalt adatok és a bejelentéshez csatolt általános szerződési feltételek alapján megállapítható, hogy a bejelentett postai szolgáltatás engedély alapján lenne nyújtható.
 
 (7) A postai szolgáltató köteles tájékoztatni a Hatóságot a szolgáltatás tényleges megkezdésének időpontjáról. A Hatóság törli a szolgáltatást a nyilvántartásból, ha annak nyújtását a postai szolgáltató a bejelentésben megjelölt tervezett kezdési időpontig nem kezdi meg.
@@ -214,11 +214,11 @@ nyújtja.
 - b) büntetlen előéletű, valamint nem áll postai szolgáltatás nyújtását kizáró foglalkozástól eltiltás hatálya alatt,
 - c) az engedélyezési eljárás megindítását megelőző 5 éven belül nem volt olyan postai szolgáltatónál vezető tisztségviselő, cégvezető vagy postai szakmai irányítást végző vezető állású munkavállaló,
   - ca) amelynek az engedélyét e vezető tevékenységének ideje alatt felmerült jogsértés miatt a Hatóság visszavonta vagy bejelentés alapján működő szolgáltató esetében a tevékenység végzését megtiltotta, vagy
-  - cb) amellyel szemben a Hatóság a postai szolgáltatás engedély vagy bejelentés nélküli végzése vagy az adatszolgáltatási kötelezettség nem teljesítése miatt e vezető tevékenységének ideje alatt felmerült jogsértés miatt jogerős határozatában bírságot szabott ki.
+  - cb) amellyel szemben a Hatóság a postai szolgáltatás engedély vagy bejelentés nélküli végzése vagy az adatszolgáltatási kötelezettség nem teljesítése miatt e vezető tevékenységének ideje alatt felmerült jogsértés miatt véglegessé vált határozatában bírságot szabott ki.
 
 (8) A tárgyi feltételek akkor tekinthetők biztosítottnak, ha a kérelmező rendelkezik a nyújtani kívánt postai szolgáltatáshoz az általa ellátni kívánt földrajzi (közigazgatási) területre és a kezelni kívánt postai küldemény mennyiségre való tekintettel minimálisan szükséges és alkalmas postai szolgáltatóhelyekkel, felvételi és kézbesítési pontokkal, ügyfélszolgálati helyekkel, gépjárműparkkal és egyéb technikai eszközökkel. Amennyiben a kérelmező működési modellje szerint szükséges, úgy az igénybe venni kívánt postai szolgáltatóval megkötött hálózati hozzáférési szerződés vagy szerződések is a tárgyi feltételek részét képezik.
 
-12. § (1) A szolgáltatási engedély iránti kérelemnek a 10. § (2) bekezdésében meghatározott adatok, illetve 10. § (3) bekezdés a)–e), h) és i) pontjai szerinti mellékletek, a 11. § (6) bekezdésében foglalt személyi feltételek teljesítéséről szóló nyilatkozat, továbbá a 11. § (8) bekezdésében foglalt tárgyi feltételek teljesülését részletesen bemutató nyilatkozat mellett, a prudens működés igazolása érdekében, külön mellékletként tartalmaznia kell
+12. § (1) A szolgáltatási engedély iránti kérelemnek a 10. § (2) bekezdésében meghatározott adatok, illetve 10. § (3) bekezdés a)–e) és h) pontja szerinti mellékletek, a 11. § (6) bekezdésében foglalt személyi feltételek teljesítéséről szóló nyilatkozat, továbbá a 11. § (8) bekezdésében foglalt tárgyi feltételek teljesülését részletesen bemutató nyilatkozat mellett, a prudens működés igazolása érdekében, külön mellékletként tartalmaznia kell
 
 - a) a postai szolgáltatás normál üzemmenetéhez szükséges technológiai folyamatok leírását;
 - b) a postai szolgáltatás nyújtását bemutató – az engedélykérelemben szereplő időtartamra vonatkozó – részletes működési modellt;
@@ -227,7 +227,7 @@ nyújtja.
 - e) a kérelmező szervezeti felépítésének és felelősségi köreinek bemutatását, szervezeti és működési szabályzatát, továbbá nyilatkozatát arról, hogy a tevékenységének megkezdése időpontjában milyen arányban teljesíti a 37. § (1) bekezdésében meghatározott munkavállalói arányszámra vonatkozó követelményeket;
 - f) igazolást a 11. § (5) bekezdés c) pontja szerinti vagyoni biztosíték rendelkezésre állásáról.
 
-(2) A kérelmező prudens működésére vonatkozóan a Hatóság ellenőrzi továbbá, hogy a kérelmező szerepel a Nemzeti Adó- és Vámhivatal internetes honlapján megtalálható köztartozásmentes adózói adatbázisban.
+(2) A kérelmező prudens működésére vonatkozóan a Hatóság ellenőrzi továbbá, hogy a kérelmező szerepel a Nemzeti Adó- és Vámhivatal internetes honlapján megtalálható köztartozásmentes adózói adatbázisban, valamint munkaügyi kapcsolatai rendezettek-e.
 
 (3)
 
@@ -235,8 +235,8 @@ nyújtja.
 
 (5) A Hatóság az engedélyezési eljárás során megismert személyes adatokat
 
-- a) a postai szolgáltatás nyújtásának engedélyezése iránti eljárás jogerős befejezéséig vagy
-- b) a postai szolgáltatás nyújtásának engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+- a) a postai szolgáltatás nyújtásának engedélyezése iránti eljárás végleges befejezéséig vagy
+- b) a postai szolgáltatás nyújtásának engedélyezése esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás végleges befejezéséig
 
 kezeli.
 
@@ -244,7 +244,9 @@ kezeli.
 
 (7) A postai szolgáltatási engedély határozatlan időre szól.
 
-(8) A szolgáltató köteles tájékoztatni a Hatóságot, ha a postai szolgáltatás nyújtását az engedély jogerőre emelkedését követő kilencven napon belül nem kezdi meg.
+(8) A szolgáltató köteles tájékoztatni a Hatóságot, ha a postai szolgáltatás nyújtását az engedély véglegessé válását követő kilencven napon belül nem kezdi meg.
+
+(9) A kérelmező engedélyköteles szolgáltatás nyújtására jogosult postai szolgáltatónak minősül, ha a Hatóság a szolgáltatási engedély iránti kérelem elbírálására nyitva álló ügyintézési határidőn belül mellőzi a határozathozatalt.
 
 #### 7. A változások bejelentése, a postai szolgáltatás megszüntetése és megszűnése
 
@@ -263,7 +265,7 @@ kezeli.
 
 szerződést nem köthet. A postai szolgáltató a már megkötött szerződésekből eredő kötelezettségeit köteles teljesíteni. A kezelésében lévő postai küldeményeket kézbesíteni, valamint a postai szolgáltatásból származó kártérítési és egyéb igényeket köteles e törvény szabályai szerint teljesíteni.
 
-(6) A Hatóság törli nyilvántartásából a postai szolgáltatást, ha annak nyújtását a postai szolgáltató a nyilvántartásba vételtől számított kilencven napon belül nem kezdi meg, vagy ha a jogszabályban foglaltak szerinti – jogerős és végrehajtható – határozatával a postai szolgáltató engedélyét visszavonta, a postai szolgáltató felhagy az engedélyköteles szolgáltatás nyújtásával, vagy ha a Hatóság megtiltotta bejelentésköteles szolgáltatás nyújtását.
+(6) A Hatóság törli nyilvántartásából a postai szolgáltatást, ha annak nyújtását a postai szolgáltató a nyilvántartásba vételtől számított kilencven napon belül nem kezdi meg, vagy ha a jogszabályban foglaltak szerinti – véglegessé vált és végrehajtható – határozatával a postai szolgáltató engedélyét visszavonta, a postai szolgáltató felhagy az engedélyköteles szolgáltatás nyújtásával, vagy ha a Hatóság megtiltotta bejelentésköteles szolgáltatás nyújtását.
 
 (7) A Hatóság a postai szolgáltató engedélyét visszavonja és törli a nyilvántartásból az engedélyköteles szolgáltatást nyújtót, amennyiben
 
@@ -496,7 +498,7 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 - a) a javasolt közszolgáltatás végzése nem veszélyezteti az egyetemes postai szolgáltatás nyújtását vagy valamely más közszolgáltatási tevékenység végzését, és
 - b) a javasolt közszolgáltatás ellenszolgáltatása fedezi az ellátásának költségeit és a fenntarthatóságát garantáló, amortizációt meghaladó ésszerű nyereséget.
 
-(4) Az egyetemes postai szolgáltató az e tevékenységgel kapcsolatos közszolgáltatási szerződésben meghatározottak szerint köteles közreműködni a közhiteles címregiszter kialakításában és működtetésében.
+(4) Az egyetemes postai szolgáltató az e tevékenységgel kapcsolatos közszolgáltatási szerződésben meghatározottak szerint köteles közreműködni a központi címregiszter kialakításában és működtetésében.
 
 #### 21. Az egyetemes postai szolgáltatás korlátozása, szünetelése
 
@@ -779,7 +781,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (2) Amennyiben az (1) bekezdésben foglalt felhívást az adatszolgáltatásra felhívott nem vagy nem megfelelően teljesíti, úgy a Hatóság hatósági határozatában kötelezheti a felhívásban foglalt adatok szolgáltatására.
 
-(3) A Hatóság (2) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a határozat végrehajtására halasztó hatálya van. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye.
+(3) A Hatóság (2) bekezdés szerinti határozata ellen fellebbezésnek helye nincs. A határozat elleni keresetlevelet a hatósági határozat közlésétől számított tizenöt napon belül kell benyújtani a Hatósághoz. A keresetlevél benyújtásának halasztó hatálya van.
 
 (4) A postai szolgáltató a jogszabályban meghatározott adatokat köteles nyilvánosan hozzáférhetővé tenni. Az egyetemes postai szolgáltatásra vonatkozó adaton kívül nem ismerhető meg az egyetemes postai szolgáltató és az egyetemes postai szolgáltató által a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerint közvetlenül vagy közvetve irányított vállalkozás üzleti tevékenységével kapcsolatos azon adat, amelynek más által történő megismerése az egyetemes postai szolgáltató vagy az egyetemes postai szolgáltató által a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerint közvetlenül vagy közvetve irányított vállalkozás üzleti tevékenysége szempontjából aránytalan sérelmet jelentene. Aránytalan a sérelem különösen akkor, ha az adat más általi megszerzése, hasznosítása, másokkal való közlése vagy nyilvánosságra hozatala az egyetemes postai szolgáltató vagy az egyetemes postai szolgáltató által a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény szerint közvetlenül vagy közvetve irányított vállalkozás versenytársát indokolatlan előnyhöz juttatná.
 
@@ -959,27 +961,27 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 #### 42. A Hatóság és annak eljárásai
 
-65. § (1) A Hatóság egyes eljárásaiban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szabályait az egyes eljárástípusok keretében e törvényben meghatározott eltérésekkel alkalmazza.
+65. § (1) A Hatóság egyes eljárásaiban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait az egyes eljárástípusok keretében az e törvényben meghatározott eltérésekkel és kiegészítésekkel alkalmazza.
 
-(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon terjesztheti elő.
+(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon, elektronikus úton terjesztheti elő. A kérelem kormányablaknál nem terjeszthető elő.
 
-(3) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – negyvenöt nap, amely indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
+(3) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – hatvan nap.
 
 (4) A Hatóság eljárásai során az egyetemes szolgáltatót e törvény erejénél fogva ügyfélnek kell tekinteni minden olyan eljárásban, amely a 23. §-ban foglalt, a hozzájárulás-fizetéssel kapcsolatos kötelezettség megsértése vagy a 30. § (1) bekezdésében foglalt kizárólagos jog megsértése kapcsán indult.
 
 (5) A piacfelügyeleti eljárásban az ügyintézési határidő hatvan nap. A határidő indokolt esetben egy alkalommal, legfeljebb harminc nappal meghosszabbítható.
 
-(6) A Hatóság Hivatalának postai hatósági ügyekben hozott elsőfokú döntése ellen az ügyfél a Hatóság elnökéhez fellebbezhet, kivéve azon döntéseket, amelyek ellen a Ket. vagy e törvény alapján nincs helye fellebbezésnek.
+(6) A Hatóság Hivatalának postai hatósági ügyekben hozott elsőfokú döntése ellen az ügyfél a Hatóság elnökéhez fellebbezhet, kivéve azon döntéseket, amelyek ellen e törvény alapján nincs helye fellebbezésnek.
 
-(7) A Hatóság Hivatalának elsőfokú határozata ellen kizárólag azon – az eljárásról szabályszerűen értesített – ügyfél élhet fellebbezési kérelemmel, aki az elsőfokú eljárásban részt vett.
+(7)
 
-(8) A Hatóság elnöke által a Hatóság Hivatalának elsőfokú határozata elleni fellebbezés során másodfokon hozott határozat felülvizsgálatát kizárólag az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében a tanú, a hatósági tanú, a szakértő, a tolmács, a szemletárgy birtokosa, az ügyfél képviselője és a hatósági közvetítő kérheti kereset indításával – jogszabálysértésre hivatkozással – a hatósági határozat közlésétől számított harminc napon belül a közigazgatási ügyekben eljáró bíróságtól.
+(8) Ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, a hatóság az eljárást felfüggeszti.
 
-(9) A keresetlevél benyújtásának a határozat végrehajtására nincs halasztó hatálya, a keresettel támadott hatósági határozat végrehajtásának felfüggesztése a bíróságtól kérhető.
+(9) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor az ügyintézési határidő kivételével újra kezdődik. A felfüggesztés időtartama alatt megtett valamennyi eljárási cselekmény hatálytalan, kivéve azokat, amelyek a felfüggesztési ok megszüntetésére irányulnak.
 
-(10) A bírósági felülvizsgálati eljárásra a Fővárosi Törvényszék kizárólagosan illetékes.
+(10) Az ügyfél a nyilatkozatával nem pótolhatja a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges, kivéve, ha a hatóság a tényállás tisztázása körében az ügyfelet a hiányzó bizonyíték pótlása érdekében nyilatkozattételre hívja fel.
 
-(11) A bíróság az e törvényben szabályozott hatósági döntések bírósági felülvizsgálatára irányuló eljárásait soron kívül köteles lefolytatni.
+(11) A Hatóság a tényállás tisztázása során kötelezheti az ügyfelet, hogy az eredeti okiratot vagy az arról készített hiteles másolatot a Hatóság rendelkezésére bocsássa.
 
 66. § (1) A Hatóság a postai szolgáltatásra vonatkozó jogszabály, az Egyetemes Postai Közszolgáltatási Szerződés, a Hatóság határozata, valamint az általános szerződési feltételekben foglaltak megsértőjével (a továbbiakban: jogsértő) szemben jogkövetkezményt alkalmazhat.
 
@@ -1018,11 +1020,11 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (4) Ha a jogsértő az előző évben nem végzett vagy tizenkét hónapnál rövidebb ideig végzett postai szolgáltatásnak minősülő tevékenységet, akkor a jogsértés megállapításától visszafelé számított időszakot, de legfeljebb tizenkét hónapot kell a bírság szempontjából figyelembe venni.
 
-(5) Árbevételi adatok hiányában a bírság összegének alsó határa százezer forint, felső határa ötvenmillió forint.
+(5) Árbevételi adatok hiányában a bírság felső határa ötvenmillió forint.
 
-(6) Ismételt jogsértés esetén a Hatóság ötvenezer forinttól hárommillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez és az egyedi ügy sajátosságaihoz mérten.
+(6) Ismételt jogsértés esetén a Hatóság hárommillió forintig terjedő bírsággal sújthatja a jogsértő szervezet vezető tisztségviselőjét a jogsértés súlyához, jellegéhez és az egyedi ügy sajátosságaihoz mérten.
 
-(7) A bírság ismételt jogsértés esetén ismételten is kiszabható. Ismételt jogsértésnek minősül, ha a jogsértő a jogerős hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és postai szolgáltatásra vonatkozó jogszabály, általános szerződési feltétel tekintetében, ugyanazon tárgykörben valósítja meg.
+(7) A bírság ismételt jogsértés esetén ismételten is kiszabható. Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és postai szolgáltatásra vonatkozó jogszabály, általános szerződési feltétel tekintetében, ugyanazon tárgykörben valósítja meg.
 
 (8) Az e törvény, illetve az e törvény felhatalmazása alapján kiadott jogszabályban megállapított, a központi költségvetés részére, illetve a Hatóságnak fizetendő díjak, bírságok, valamint az Egyetemes Postai szolgáltatást Támogató Számla részére teljesítendő befizetések adók módjára behajtandó köztartozásnak minősülnek.
 
@@ -1037,23 +1039,21 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - g) a szolgáltató megszűnik;
 - h) a 13. § (7) bekezdésében, valamint a 23. § (9) bekezdésében meghatározott esetekben.
 
-(2) Az (1) bekezdés a)–e) pontjában meghatározott esetekben a postai szolgáltató engedélye csak abban az esetben vonható vissza, vagy a szolgáltatás nyújtása csak akkor tiltható meg, ha a postai szolgáltató a jogsértések megszüntetése érdekében meghozott jogerős határozat ellenére a jogsértő állapotot 45 napon belül nem szüntette meg vagy a megszüntetést követően a határozat jogerőre emelkedésétől számított egy éven belül a 68. § (7) bekezdése szerinti ismételt jogsértést követ el.
+(2) Az (1) bekezdés a)–e) pontjában meghatározott esetekben a postai szolgáltató engedélye csak abban az esetben vonható vissza, vagy a szolgáltatás nyújtása csak akkor tiltható meg, ha a postai szolgáltató a jogsértések megszüntetése érdekében meghozott véglegessé vált határozat ellenére a jogsértő állapotot 45 napon belül nem szüntette meg vagy a megszüntetést követően a határozat véglegessé válásától számított egy éven belül a 68. § (7) bekezdése szerinti ismételt jogsértést követ el.
 
-(3) Az a postai szolgáltató vagy jogutódja, akinek szolgáltatási engedélyét a Hatóság visszavonta, illetve akinek a szolgáltatás nyújtását megtiltotta, az engedély visszavonásától vagy a tiltó határozat jogerőre emelkedésétől számított 6 hónapon belül újabb szolgáltatási engedély iránti kérelmet nem nyújthat be, illetve postai szolgáltatást nem folytathat.
+(3) Az a postai szolgáltató vagy jogutódja, akinek szolgáltatási engedélyét a Hatóság visszavonta, illetve akinek a szolgáltatás nyújtását megtiltotta, az engedély visszavonásától vagy a tiltó határozat véglegessé válásától számított 6 hónapon belül újabb szolgáltatási engedély iránti kérelmet nem nyújthat be, illetve postai szolgáltatást nem folytathat.
 
 #### 43. Általános hatósági felügyelet
 
 70. § (1) A Hatóság kérelemre vagy hivatalból – feladat- és hatáskörének keretében – jogosult hatósági ellenőrzés vagy hatósági eljárás keretében felügyelni a postai szolgáltatásra vonatkozó jogszabályban, általános szerződési feltételekben, hatósági határozatban, továbbá az Egyetemes Postai Közszolgáltatási Szerződésnek a felhasználói jogokat érintő szabályaiban foglaltak érvényesülését, betartását.
 
-(2) Amennyiben a Hatóság hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntés megsértését, az ügy összes körülményei, az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a hatósági döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
+(2) Amennyiben a Hatóság hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntés megsértését, az ügy összes körülményei, az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a hatósági döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
 (3) Az általános hatósági felügyelet keretében feltárt jogsértések esetében a Hatóság az e törvényben meghatározott jogkövetkezményeket alkalmazhatja.
 
 (4) Az általános hatósági felügyeleti eljárást megelőzheti hatósági ellenőrzés.
 
-(5) A hatósági ellenőrzésre a Ket. hatósági ellenőrzésre vonatkozó rendelkezései irányadók, azzal, hogy amennyiben a Hatóság a hatósági ellenőrzés eredményeként nem állapít meg jogszabálysértést vagy eljárás megindítására, kezdeményezésére okot adó tényt, körülményt, akkor a Hatóság – saját hatásköre keretében – e döntést az ügyiratra feljegyzi és egyéb eljárási cselekményt nem tesz.
-
-(6) Az (5) bekezdésben foglalt ügyiratra feljegyzett döntés tartalmáról a Hatóság hivatalos levél formájában értesíti az ellenőrzés alá vont ügyfelet.
+(5)–(6)
 
 (7) A hatósági ellenőrzés eredményeként, hatósági hatásköre keretében a Hatóság felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
 
@@ -1061,19 +1061,15 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 #### 44. Hatósági szerződés
 
-71. § (1) A Hatóság, az e törvényben meghatározott esetben az ügyféllel, az ügynek a közérdek és az ügyfél szempontjából előnyös rendezése érdekében – a Ket.-ben foglalt szabályok alapján, az e törvényben meghatározott eltérésekkel – hatósági szerződést köthet.
+71. § (1) A Hatóság, az e törvényben meghatározott esetben az ügyféllel, az ügynek a közérdek és az ügyfél szempontjából előnyös rendezése érdekében – az Ákr.-ben foglalt szabályok alapján, az e törvényben meghatározott eltérésekkel – hatósági szerződést köthet.
 
-(2) A hatósági szerződésben az ügyfél olyan kötelezettségeket is vállalhat, amelyek tekintetében a Hatóság nem rendelkezik hatósági hatáskörrel, vagy amelyek teljesítésére hatósági határozattal egyébként nem lenne kötelezhető. Ez esetben a hatósági szerződésben az ügyfél aláveti magát annak, hogy amennyiben a szerződésben foglaltakat megszegi, akkor a szerződés egésze jogerős és végrehajtható hatósági határozatnak minősül.
+(2) A hatósági szerződésben az ügyfél olyan kötelezettségeket is vállalhat, amelyek tekintetében a Hatóság nem rendelkezik hatósági hatáskörrel, vagy amelyek teljesítésére hatósági határozattal egyébként nem lenne kötelezhető. Ez esetben a hatósági szerződésben az ügyfél aláveti magát annak, hogy amennyiben a szerződésben foglaltakat megszegi, akkor a szerződés egésze véglegessé vált és végrehajtható hatósági határozatnak minősül.
 
 (3) A hatósági szerződés megkötésének nem érvényességi feltétele a szerződéssel jogában, jogos érdekében érintett harmadik személyek hozzájárulása azon szerződési feltételek tekintetében, amelyek teljesítésére jogszabály alapján hatósági határozattal kötelezhető lenne a szerződő fél.
 
-(4) Amennyiben a hatósági eljárás folyamatában az ügyfél, az ügy hatósági szerződéssel történő lezárását kezdeményezi, akkor az ügyintézési határidőbe nem számít be a hatósági szerződéskötés időtartama a szerződés megkötéséig, illetve a hatósági szerződéskötés sikertelenségének az ügyfél vagy a Hatóság általi megállapításáig.
+(4) Amennyiben a hatósági eljárás folyamatában az ügyfél az ügy hatósági szerződéssel történő lezárását kezdeményezi, akkor az ügyintézési határidő 120 nap.
 
-72. § (1) A Hatóság hatósági ellenőrzés keretében ellenőrzi a hatósági szerződésben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint az e törvény szerinti alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában a Ket. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
-
-(2) Amennyiben a Hatóság végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a Fővárosi Törvényszéktől. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van. A Fővárosi Törvényszék végzése ellen fellebbezésnek nincs helye.
-
-(3) Ha a Hatóság az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
+72. § (1)–(3)
 
 (4) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében a Hatóság jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
 
@@ -1104,9 +1100,9 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (9) A piacfelügyeleti eljárást – ideértve a piacfelügyeleti terv alapján indítandó piacfelügyeleti eljárást is – megelőzheti piacfelügyeleti ellenőrzés.
 
-(10) A piacfelügyeleti ellenőrzésre a Ket. hatósági ellenőrzésre vonatkozó rendelkezései irányadók, azzal, hogy amennyiben a Hatóság a piacfelügyeleti ellenőrzés eredményeként nem állapít meg jogszabálysértést vagy eljárás megindítására, kezdeményezésére okot adó tényt, körülményt, akkor a Hatóság – saját hatásköre keretében – e döntést az ügyiratra feljegyzi és egyéb eljárási cselekményt nem tesz.
+(10) A piacfelügyeleti ellenőrzés az e törvényben foglalt eltérésekkel és kiegészítésekkel az Ákr. szerinti hatósági ellenőrzésnek minősül.
 
-(11) A (10) bekezdésben foglalt ügyiratra feljegyzett döntés tartalmáról a Hatóság hivatalos levél formájában értesíti az ellenőrzés alá vont ügyfelet.
+(11)
 
 (12) A piacfelügyeleti ellenőrzés eredményeként, hatósági hatásköre keretében a Hatóság felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
 
@@ -1114,9 +1110,9 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 #### 46. Nyilvántartások vezetése
 
-74. § (1) A Hatóság a postai szolgáltatókról és az általuk nyújtott szolgáltatásokról közhitelű nyilvántartást vezet. A nyilvántartásban fel kell tüntetni az egyetemes postai szolgáltató és az általa nyújtott szolgáltatások adatait, valamint az engedélyköteles illetve a bejelentésköteles szolgáltatást nyújtó postai szolgáltatók által az engedélyben vagy a bejelentésben feltüntetett adatokat. A nyilvántartás részét képezik az engedély iránti kérelem vagy a bejelentés mellékletei. A közhitelű nyilvántartásba való betekintés jogát mindenki számára biztosítani kell, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
+74. § (1) A Hatóság a postai szolgáltatókról és az általuk nyújtott szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartásban fel kell tüntetni az egyetemes postai szolgáltató és az általa nyújtott szolgáltatások adatait, valamint az engedélyköteles illetve a bejelentésköteles szolgáltatást nyújtó postai szolgáltatók által az engedélyben vagy a bejelentésben feltüntetett adatokat. A nyilvántartás részét képezik az engedély iránti kérelem vagy a bejelentés mellékletei. A közhiteles nyilvántartásba való betekintés jogát mindenki számára biztosítani kell, kivéve, ha jogszabály a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
 
-(2) A Hatóság a közhitelű nyilvántartás alapján internetes oldalán közzéteszi és naprakészen tartja a postai szolgáltatók jegyzékét. A jegyzék tartalmazza:
+(2) A Hatóság a közhiteles nyilvántartás alapján internetes oldalán közzéteszi és naprakészen tartja a postai szolgáltatók jegyzékét. A jegyzék tartalmazza:
 
 - a) a postai szolgáltatók nevét (elnevezését),
 - b) a postai szolgáltatók által nyújtott szolgáltatás kategória megnevezését e törvény alapján,
@@ -1129,9 +1125,9 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 #### 47. Vegyes rendelkezések
 
-75. § (1) A Ket. felhatalmazása alapján a Kormány által a papír alapú irat hiteles elektronikus irattá alakítása, valamint az elektronikus irat hiteles papír alapú irattá alakítása szolgáltatás nyújtására rendeletben kijelölt postai szolgáltató jogosult olyan nem postai szolgáltatás nyújtására, melynek keretében vállalja a címzett részére kézbesítendő postai küldemény felbontását, arról elektronikus másolat készítését, és címzetthez eljuttatását a címzett rendelkezései szerint. A kijelölt szolgáltató ennek keretében jogosult hiteles elektronikus másolat készítésére is, a Ket.-nek a papír alapú irat átalakítása hiteles elektronikus irattá szabályozott elektronikus ügyintézési szolgáltatásra irányadó szabályai szerint, az elektronikus ügyintézési felügyelet engedélye alapján azzal, hogy az így készített elektronikus másolat bizonyító ereje megegyezik az eredeti papír alapú irat bizonyító erejével.
+75. § (1) A Kormány által a papír alapú irat hiteles elektronikus irattá alakítása, valamint az elektronikus irat hiteles papír alapú irattá alakítása szolgáltatás nyújtására rendeletben kijelölt postai szolgáltató jogosult olyan nem postai szolgáltatás nyújtására, melynek keretében vállalja a címzett részére kézbesítendő postai küldemény felbontását, arról elektronikus másolat készítését, és címzetthez eljuttatását a címzett rendelkezései szerint. A kijelölt szolgáltató ennek keretében jogosult hiteles elektronikus másolat készítésére is a papír alapú irat hiteles elektronikus irattá alakítására irányuló szolgáltatás szabályai szerint azzal, hogy az így készített elektronikus másolat bizonyító ereje megegyezik az eredeti papír alapú irat bizonyító erejével.
 
-(2) Az (1) bekezdésben meghatározott postai szolgáltató jogosult olyan nem postai szolgáltatás nyújtására, melynek keretében a postai feladás részeként a feladó által átadott elektronikus dokumentumról papír alapú másolatot készít, majd azt kézbesíti. A Kormány által rendeletben kijelölt postai szolgáltató ennek keretében jogosult hiteles papír alapú másolat készítésére is, a Ket.-nek az elektronikus irat hiteles papír alapú irattá alakítása szabályozott elektronikus ügyintézési szolgáltatásra irányadó szabályai szerint, az elektronikus ügyintézési felügyelet engedélye alapján azzal, hogy az így készített papír alapú másolat bizonyító ereje megegyezik az eredeti elektronikus irat bizonyító erejével.
+(2) Az (1) bekezdésben meghatározott postai szolgáltató jogosult olyan nem postai szolgáltatás nyújtására, melynek keretében a postai feladás részeként a feladó által átadott elektronikus dokumentumról papír alapú másolatot készít, majd azt kézbesíti. A Kormány által rendeletben kijelölt postai szolgáltató ennek keretében jogosult hiteles papír alapú másolat készítésére is az elektronikus irat hiteles papír alapú irattá alakítására irányuló szolgáltatás szabályai szerint azzal, hogy az így készített papír alapú másolat bizonyító ereje megegyezik az eredeti elektronikus irat bizonyító erejével.
 
 (3) A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 116/A. § (1) bekezdésben meghatározott – az egyetemes postai szolgáltatóval és az egyetemes postai szolgáltató által megbízott közreműködővel munkaviszonyban álló – személy a Bszt. 116/A. § (2) bekezdés c) pontjában meghatározott követelményeket oly módon is teljesítheti, hogy – a munkáltatója vagy a munkáltatójával jogviszonyban álló befektetési vállalkozás által – az ügyfeleknek pénzügyi eszközökről, befektetési szolgáltatási tevékenységről vagy kiegészítő szolgáltatásról befektetési tanácsot vagy információt nyújtó természetes személyre előírt szakmai képességekre és kompetenciákra vonatkozó részletes szabályokról szóló MNB rendeletben meghatározottaknak tesz eleget.
 
@@ -1162,6 +1158,8 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 77/B. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosításáról szóló 2016. évi XII. törvénnyel (a továbbiakban: Módtv.2.) megállapított 53. § (4) bekezdését a Módtv.2. hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Módtv.2. hatálybalépésekor folyamatban lévő eljárásokban, valamint a Módtv.2. hatálybalépését megelőzően megkötött postai szolgáltatási szerződések tekintetében is alkalmazni kell.
 
 77/C. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 65. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+77/D. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 50. Felhatalmazó rendelkezések
 

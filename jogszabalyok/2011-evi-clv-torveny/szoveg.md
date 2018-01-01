@@ -33,7 +33,7 @@ támogatása,
 - e) közjegyzői iroda,
 - f) a személyi jövedelemadóról szóló törvényben meghatározott egyéni vállalkozó,
 - g) egyéni cég,
-- h) a szakképzésről szóló törvény 43. § (2) bekezdés a) és c) pontjában meghatározott, tanulószerződés alapján gyakorlati képzést folytató egyéb szervezet (a továbbiakban: Szt. szerinti egyéb szervezet), ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy a szakképzési hozzájárulást az 5. § a) pont ab) alpontja szerint teljesíti, a választás bejelentését követő hónap első napjától.
+- h) a szakképzésről szóló törvény 43. § (2) bekezdés a)–c) pontjában meghatározott egyéb szerv, szervezet (a továbbiakban: Szt. szerinti egyéb szervezet), ha az állami adóhatóságnak az erre a célra rendszeresített nyomtatványon bejelenti, hogy a szakképzési hozzájárulást az 5. § a) pont aa) vagy ab) alpontja szerint teljesíti, a választás bejelentését követő hónap első napjától.
 
 (2) Szakképzési hozzájárulásra kötelezett a belföldön vállalkozási tevékenységet folytató, külföldi székhelyű jogi személy, jogi személyiséggel nem rendelkező társas cég, személyi egyesülés, egyéb szervezet is, ha belföldön telephellyel, fiókteleppel rendelkezik [az (1) és (2) bekezdésben foglaltak a továbbiakban együtt: hozzájárulásra kötelezett].
 
@@ -57,7 +57,7 @@ támogatása,
 - a) gyakorlati képzés: 1. a szakképzésről szóló törvényben meghatározott gyakorlati oktatási tevékenység, 2. a gyakorlatigényes alapképzési szak keretében folytatott gyakorlati képzés részeként szervezett minden olyan oktatási forma, amely a hallgatókat valamely munkakör ellátásához szükséges készségek, képességek és ismeretek megszerzésére készíti fel, és amelyeket a hallgatók az intézményben vagy azon kívül, a munkavégzéshez hasonló feltételek között, a szükséges eszközökön sajátítanak el, azzal, hogy a szükséges eszközök minimumát a szakmai és vizsgakövetelmények, a képzési és kimeneti követelmények tartalmazzák, és a képzés az ehhez szükséges képzési programok alapján folyik, 3. az Nftv.-ben meghatározott duális képzés keretében folytatott gyakorlati képzés;
 - b) szociális hozzájárulási adóalap: Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 455. § (2) bekezdés a)–c) és h) pontjában meghatározott adófizetési kötelezettséget eredményező jogviszony alapján, a (3) bekezdésben foglaltakra is figyelemmel, a 455. § (1) bekezdés a)–b) és e) pontjában meghatározott adóalap, valamint a 457. § (1) bekezdésében meghatározott adóalap. A 457. § (1) bekezdés alkalmazása során e törvény szempontjából figyelmen kívül kell hagyni azon jogi személyt, aki a 2. § (5) bekezdése szerint szakképzési hozzájárulásra nem kötelezett.;
 - c) egészségügyi közszolgáltatás: az Eü. tv. 3. § e) pontjában meghatározott, részben vagy egészben az államháztartás terhére támogatott szolgáltató tevékenység;
-- d) nem főtevékenységként gyakorlati képzést folytató hozzájárulásra kötelezett: az a hozzájárulásra kötelezett, amelynek az árbevétele a tárgyévet megelőző két üzleti évben az általa folytatott gyakorlati képzés után a 8. § szerint elszámolható éves csökkentő tétel összegének legalább 400%-a volt;
+- d)
 - e) kis- és középvállalkozás:
   - ea) a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. §-a szerinti mikro-, kis- és középvállalkozás,
   - eb) az ügyvédi iroda, végrehajtó iroda, szabadalmi ügyvivő iroda és közjegyzői iroda,
@@ -132,7 +132,7 @@ a gyakorlati képzési normatívák szerint számított összeggel (a továbbiak
 (1a) A szakképzési hozzájárulást az 5. § a) pont ab) alpontja szerinti gyakorlati képzés szervezésével teljesítő hozzájárulásra kötelezett a bruttó kötelezettsége mértékét az (1) bekezdés b) pontjában meghatározott alapnormatíva alapján számított összeggel (a továbbiakban: kiegészítő csökkentő tétel) is csökkentheti az alábbiak szerint:
 
 - a) beruházási kiegészítő csökkentő tétellel az aktiválás évében, ha kizárólag a gyakorlati képzés folytatásához szükséges beruházást hajt végre,
-- b) a 2. § (1) bekezdés a)–g) pontjában nevesített, nem főtevékenységként gyakorlati képzést folytató hozzájárulásra kötelezett
+- b) a 2. § (1) bekezdés a)–g) pontjában nevesített hozzájárulásra kötelezett
   - ba) oktatói kiegészítő csökkentő tétellel, ha kis- és középvállalkozásnak minősül,
   - bb) tanműhely-fenntartási kiegészítő csökkentő tétellel, ha a hozzájárulásra kötelezett a gyakorlati képzést – a szakképzésről szóló törvényben meghatározott – kizárólag gyakorlati képzési célt szolgáló tanműhelyben végzi, a 9. évfolyamon tanműhelyben oktatott tanulószerződéses tanulók tekintetében.
 
@@ -147,17 +147,17 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 
 (2a)–(2b)
 
-(2c) A 2. § (1) bekezdés h) pontjában meghatározott – kivéve az (1b) bekezdésben nevesített – hozzájárulásra kötelezett esetében kizárólag az 5. § a) pont ab) alpontja és az (1a) bekezdés a) pontja alapján számított csökkentő tételek vehetők figyelembe a 9. § (1), (4) és (5) bekezdése szerinti eljárásnak megfelelő visszaigénylésnél. Az (1b) bekezdésben meghatározott hozzájárulásra kötelezett az (1b) bekezdésben meghatározott összeget igényelheti vissza a 9. § (1) bekezdés a) pontja, valamint (4) és (5) bekezdése szerinti eljárásnak megfelelően.
+(2c) A 2. § (1) bekezdés h) pontjában meghatározott – kivéve az (1b) bekezdésben nevesített – hozzájárulásra kötelezett esetében az 5. § a) pontja és az (1a) bekezdés a) pontja alapján számított csökkentő tételek vehetők figyelembe a 9. § (1), (4) és (5) bekezdése szerinti eljárásnak megfelelő visszaigénylésnél. Az (1b) bekezdésben meghatározott hozzájárulásra kötelezett az (1b) bekezdésben meghatározott összeget igényelheti vissza a 9. § (1) bekezdés a) pontja, valamint (4) és (5) bekezdése szerinti eljárásnak megfelelően.
 
 (3) A gyakorlati képzést szervező átalányadózó hozzájárulásra kötelezettet nem illeti meg a (2) és a (2c) bekezdés szerinti visszatérítés.
 
-(3a) A nonprofit gazdasági társaság hozzájárulásra kötelezettet nem illeti meg a (2) és (2c) bekezdés szerinti visszatérítés, ha az árbevétele nem éri el a tárgyévet megelőző két üzleti évben az általa folytatott gyakorlati képzés után a 8. § szerint elszámolható éves csökkentő tétel összegének 400%-át.
+(3a)
 
 (4) Az (1) bekezdésben foglaltak szerint nem csökkentheti bruttó kötelezettsége mértékét az a hozzájárulásra kötelezett, aki a szakképző iskolával kötött együttműködési megállapodásban az 5. § a) pont aa) alpontjától eltérően, a szakképzésről szóló törvény együttműködési megállapodásra vonatkozó szabályaiban meghatározott időtartamot meghaladó mértékben vállal kötelezettséget és tanulószerződéssel nem rendelkezik.
 
 (5) Az a hozzájárulásra kötelezett, aki az 5. § a) pont ab) alpontja szerint kötött tanulószerződés alapján gyakorlati képzés szervezésével teljesíti hozzájárulási kötelezettségét és csak részben rendelkezik a szakképzésről szóló törvényben meghatározott és a tanulószerződésben rögzített, a gyakorlati képzés teljesítéséhez szükséges feltételekkel, megállapodást köthet egy másik, gyakorlati képzés folytatására jogosult szervezettel vagy szakképző intézménnyel (a továbbiakban együtt: teljesítési megbízott), akihez gyakorlati képzésre átirányíthatja a tanulószerződéses tanulóját. Az átirányítás időtartama a tanulószerződésben meghatározott gyakorlati képzési idő legfeljebb 50%-a lehet, azzal, hogy a teljesítési megbízott a gyakorlati képzéssel kapcsolatosan költségei fedezetére díjat jogosult felszámítani a hozzájárulásra kötelezettel szemben. A teljesítési megbízott az általa végzett gyakorlati képzésre vonatkozóan nem érvényesítheti az (1) és (1a) bekezdésben foglaltakat.
 
-(5a) Az (5) bekezdéstől eltérően amennyiben a szakképzésről szóló törvény 8. § (6) bekezdése alapján a gyakorlati képzés egy része iskolai tanműhelyben valósul meg, az 5. § a) pont ab) alpontja szerint gyakorlati képzés szervezésével teljesítő hozzájárulásra kötelezettnek a gyakorlati képzés ezen részére a tanulószerződéses tanulója átirányítása érdekében a szakképző intézménnyel teljesítési megbízottként megállapodást kell kötnie. Az e megállapodás alapján megvalósuló átirányítás időtartama nem számít bele az (5) bekezdésben az átirányítás időtartamára meghatározott időtartamba azzal, hogy a teljesítési megbízottat a gyakorlati képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásánál figyelembe vehető gyakorlati képzési normatívák mértékéről és a csökkentő tétel számításáról szóló, e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott normatíva alapján számított összeg – a hozzájárulásra kötelezett által a tanulónak ezen időszakra is fizetett juttatással csökkentett – arányos része illeti meg.
+(5a) Az (5) bekezdéstől eltérően amennyiben a szakképzésről szóló törvény 8. § (6) bekezdése alapján a gyakorlati képzés egy része iskolai tanműhelyben valósul meg, az 5. § a) pont ab) alpontja szerint gyakorlati képzés szervezésével teljesítő hozzájárulásra kötelezettnek a gyakorlati képzés ezen részére a tanulószerződéses tanulója átirányítása érdekében a szakképző intézménnyel teljesítési megbízottként megállapodást kell kötnie. Az e megállapodás alapján megvalósuló átirányítás időtartama nem számít bele az (5) bekezdésben az átirányítás időtartamára meghatározott időtartamba azzal, hogy a teljesítési megbízottat a gyakorlati képzés költségeinek a szakképzési hozzájárulás terhére történő elszámolásánál figyelembe vehető gyakorlati képzési normatívák mértékéről és a csökkentő tétel számításáról szóló, e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott normatíva alapján számított összeg – a hozzájárulásra kötelezett által a tanulónak ezen időszakra is fizetett juttatással és annak járulékaival csökkentett – arányos része illeti meg.
 
 (6) Az átirányítással megvalósuló gyakorlati képzésre vonatkozó megállapodás tartalmazza:
 
@@ -166,7 +166,7 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
   - ab) székhelyét,
   - ac) adószámát,
   - ad) statisztikai számjelét,
-  - ae) cégjegyzékszámát vagy nyilvántartási számát,
+  - ae) cégjegyzékszámát, nyilvántartási számát, vagy OM azonosítóját,
   - af) kamarai nyilvántartási számát,
 - b) a hozzájárulásra kötelezettnél azon gyakorlati képzésben részesülő tanulószerződéses tanulók szakképesítésenkénti, évfolyamonkénti létszámát, akiket másik gyakorlati képzést szervezőhöz, teljesítési megbízotthoz átirányítanak,
 - c) az adott szakképesítésre kiadott szakképzési kerettantervben szereplő gyakorlati képzés időtartamát, a hozzájárulásra kötelezettnél a tanulószerződés keretében végzett gyakorlati képzés időtartamát, valamint az átirányítás időtartamát, annak arányát tanévenként,
@@ -179,7 +179,7 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 
 (7) Amennyiben a hozzájárulásra kötelezett a megkötött tanulószerződésben rögzített gyakorlati képzés teljesítéséhez a gyakorlati képzési idő 50%-át meghaladó mértékben vesz igénybe teljesítési megbízottat, akkor az adott tanulószerződéses tanulóra vonatkozóan nem érvényesítheti az (1) és (1a) bekezdésben foglaltakat.
 
-(8) Ha a hozzájárulásra kötelezett az általa megkötött tanulószerződést az abban foglalt határidő lejárta előtt jogellenesen felmondja, a tanulószerződés alapján e törvény szerint a szakképzési hozzájárulási kötelezettsége terhére a tanulószerződés megkötésétől a tanulószerződés felmondásáig elszámolt csökkentő tétel teljes összegét az adózás rendjéről szóló törvény önellenőrzésre vonatkozó szabályainak megfelelően köteles a szerződés felmondását követő 15 napon belül az állami adóhatóságnál vezetett számlára visszatéríteni.
+(8) Ha a hozzájárulásra kötelezett az általa megkötött tanulószerződést az abban foglalt határidő lejárta előtt jogellenesen felmondja, a tanulószerződés alapján e törvény szerint a szakképzési hozzájárulási kötelezettsége terhére a tanulószerződés megkötésétől a tanulószerződés felmondásáig elszámolt csökkentő tétel teljes összegét az adózás rendjéről szóló törvény (a továbbiakban: Art.) önellenőrzésre vonatkozó szabályainak megfelelően köteles a szerződés felmondását követő 15 napon belül az állami adóhatóságnál vezetett számlára visszatéríteni.
 
 (9) A (7) vagy (8) bekezdésben foglaltak megvalósulása esetén a hozzájárulásra kötelezett az érintett adóévek tekintetében nem élhet az 5. § e) pontjában meghatározott levonás lehetőségével, a levonás teljes összegét az Art. önellenőrzésre vonatkozó szabályai szerint az állami adóhatóságnál vezetett számlára kell befizetnie.
 
@@ -201,13 +201,13 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 
 (7) A hozzájárulásra kötelezett a visszajáró összeg kiutalását vagy átvezetését legkorábban a bevallás esedékességének napjától kezdeményezheti.
 
-(8) Az állami adóhatóság a visszatérítés tekintetében az Art. szerint jár el. A kapott visszatérítést egyéb bevételként kell elszámolni.
+(8) Az állami adóhatóság a visszatérítés tekintetében az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) és az Art. szerint jár el. A kapott visszatérítést egyéb bevételként kell elszámolni.
 
 10. § (1) Az állami adóhatóság a Nemzeti Foglalkoztatási Alapot megillető szakképzési hozzájárulást havonta, a tárgyhónapot követő hónap 20. napjáig átutalja a Nemzeti Foglalkoztatási Alap Magyar Államkincstárnál vezetett számlájára.
 
 (2) Az állami adóhatóság a hozzájárulásra kötelezett szakképzési hozzájárulási alapjáról és mértékéről, a 8. § (1) és (1a) bekezdése szerinti csökkentő tételről – csökkentő tételenként, létszám és összeg adatok tekintetében –, a 8. § (1b) bekezdésében meghatározott kötelezettek által visszaigényelt összegről, a hozzájárulásra kötelezett által bejelentett tanulószerződéses tanulók létszámáról, a tanulószerződéses tanulók után fizetendő szociális hozzájárulási adóról és a tanuló által fizetendő nyugdíj és egészségügyi járulékról a bevallási időszakot követően, a Nemzeti Foglalkoztatási Alapot megillető hozzájárulások átutalásáról az alapkezelővel kötött megállapodása alapján adatot szolgáltat az alapkezelőnek.
 
-11. § (1) A hozzájárulásra kötelezettnek a szakképzési hozzájárulás bevallási, befizetési és elszámolási kötelezettsége e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az Art. rendelkezéseit kell alkalmazni.
+11. § (1) A hozzájárulásra kötelezettnek a szakképzési hozzájárulás bevallási, befizetési és elszámolási kötelezettsége e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az Air. és az Art. rendelkezéseit kell alkalmazni.
 
 (2) Az (1) bekezdésben foglalt ellenőrzés végrehajtásának céljából a gazdasági kamara közvetlen hozzáférési lehetőséget biztosít az állami adóhatóság részére az általa vezetett, a szakképzésről szóló törvényben meghatározott, a gyakorlati képzés szervezésére jogosult hozzájárulásra kötelezettekről, valamint a tanulószerződésekről vezetett nyilvántartásaihoz.
 
@@ -219,13 +219,13 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 - b) a költségvetési törvény által előírt európai uniós társfinanszírozási kötelezettség keretében a szakképzési és felnőttképzési intézkedésekre biztosított keretösszeget,
 - c) a 16. § szerinti ösztöndíj és az ezzel összefüggésben felmerült költségek támogatására a költségvetési évre megállapított keretösszeget,
 - d) a decentralizált keretösszeget,
-- e) a szakképzésért és felnőttképzésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
-- f) a szakképesítésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére felhasználható keretösszeget,
-- g) az állami fenntartású szakképző iskolák felnőttoktatási tevékenységének támogatására szolgáló keretösszeget,
+- e) a szakképzésért és felnőttképzésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére, beruházási és felújítási célú támogatására felhasználható keretösszeget,
+- f) a szakképesítésért felelős miniszter által fenntartott szakképző iskolák fejlesztésére, beruházási és felújítási célú támogatására felhasználható keretösszeget,
+- g)
 - h) a központi keretösszeget,
 - i)
 - j) az állami fenntartású szakképző iskolák működési költségéhez való hozzájárulásra biztosítható keretösszeget,
-- k) a szakképzésről szóló 2011. évi CLXXXVII. törvény 24/A. § (6) bekezdése alapján a Szakképzési Hídprogramban részt vevő tanuló részére ösztöndíj formájában nyújtott támogatásra, és a pedagógus pótlék biztosítására szolgáló keretösszeget.
+- k) a szakképzésről szóló törvény 24/A. § (6) bekezdése alapján a Szakképzési Hídprogramban részt vevő tanuló részére ösztöndíj formájában nyújtott támogatás, a pedagóguspótlék és az ezekkel összefüggésben felmerülő költségek biztosítására szolgáló keretösszeget.
 
 13. § (1) Az alaprész feletti rendelkezési jogot a szakképzésért és felnőttképzésért felelős miniszter gyakorolja.
 
@@ -233,7 +233,7 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 
 (3) A szakképzésért és felnőttképzésért felelős miniszter – a (2) bekezdésben foglaltakon túl –
 
-- a) dönt a decentralizált keret megyénkénti felosztásáról, a decentralizált keret terhére kiírandó pályázati célok prioritásairól, valamint a 12. § a), d), g) és h) pontjában meghatározott keret terhére nyújtandó támogatásokról,
+- a) dönt a decentralizált keret megyénkénti felosztásáról, a decentralizált keret terhére kiírandó pályázati célok prioritásairól, valamint a 12. § a), d), e) és h) pontjában meghatározott keret terhére nyújtandó támogatásokról,
 - b) felelős az alaprész
   - ba) pénzeszközei nyilvántartásáért, felhasználásának jogszerűségéért és ellenőrzéséért,
   - bb) bevételei beszedésének elrendeléséért,
@@ -266,8 +266,9 @@ folytatott, szakképesítést vagy szakképzettséget és végzettséget nyújt�
 
 18. § Az alaprész központi kerete
 
-- a) a 19. §-ban meghatározott szakképzési és felnőttképzési célokra, valamint
-- b) a felnőttképzésről szóló törvényben meghatározott iskolarendszeren kívüli felnőttképzési célokra
+- a) a 19. §-ban meghatározott szakképzési és felnőttképzési célokra,
+- b) a felnőttképzésről szóló törvényben meghatározott iskolarendszeren kívüli felnőttképzési célokra, valamint
+- c) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 39. § (4) bekezdésében meghatározott díjak, kiadások és költségek finanszírozására
 
 használható fel.
 
@@ -347,7 +348,7 @@ használható fel.
 
 (2) Az alaprészből kifizetések az adott naptári évben csak a ténylegesen befolyt bevételek erejéig teljesíthetők.
 
-(3) Tárgyéven túli fizetési kötelezettséget a szakképzésért és felnőttképzésért felelős miniszter az alaprész 40 százaléka mértékéig vállalhat.
+(3)
 
 22. § (1) A hozzájárulásra kötelezett az alaprészből a 14. § b) és c) pontja szerint a szakképzésért és felnőttképzésért felelős miniszter egyedi döntésén alapuló beruházási célú támogatást a tőketartalékba helyezi, majd azt lekötött tartalékként mutatja ki. A lekötött tartalékba helyezés időtartamáról a támogatási szerződésben kell rendelkezni.
 
@@ -362,7 +363,7 @@ használható fel.
 23. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a 8. § (1) és (1a) bekezdése szerinti gyakorlati képzési normatívák mértékét, az alap és a kiegészítő csökkentő tétel számításának szabályait, valamint az elszámolhatóság feltételeit,
-- b) a Szabóky Adolf szakképzési ösztöndíjra, az ösztöndíjban részesíthetők körére, az ösztöndíj mértékére, feltételeire, folyósítására, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésére, valamint az ösztöndíjban részesülő és tanulási nehézségekkel küzdő tanulók felzárkóztató oktatását végző tanárok díjazására, az elszámolásra és az ellenőrzésre vonatkozó szabályokat,
+- b) a Szabóky Adolf szakképzési ösztöndíjra, az ösztöndíjban részesíthetők körére, az ösztöndíj mértékére, feltételeire, folyósítására, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésére, valamint az ösztöndíjban részesülő és tanulási nehézségekkel küzdő tanulók felzárkóztató oktatására és az ebben közreműködő tanárok díjazására, az elszámolásra és az ellenőrzésre vonatkozó szabályokat,
 - c)
 
 (2) Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – az államháztartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg
@@ -390,21 +391,13 @@ használható fel.
 
 26. § (1) A hozzájárulási kötelezettség 2011. évre vonatkozó teljesítésénél, ideértve a bevallás alapján kimutatott visszatérítést is, a (2) bekezdés figyelembevételével az e törvény hatálybalépését megelőzően hatályos szabályokat kell alkalmazni.
 
-(2) A 2011. évben kezdődő üzleti évre vonatkozó hozzájárulási kötelezettségét a naptári évtől eltérő üzleti évet választó hozzájárulásra kötelezett
-
-- a) az üzleti év első napjától december 31. napjáig időarányosan az e törvény hatálybalépését megelőzően hatályos szabályok szerint,
-- b) e törvény hatálybalépését követően e törvény szerint teljesíti.
-
-(3) A 2011. évben kezdődő üzleti év esetén a (2) bekezdés a) pontjában meghatározott időszakban
-
-- a) a gyakorlati képzés szervezésével teljesítő hozzájárulásra kötelezett a hozzájárulási kötelezettségét az állami szakképzési és felnőttképzési szerv felé,
-- b) a gyakorlati képzést nem szervező hozzájárulásra kötelezett a hozzájárulási kötelezettségét az állami adóhatóság felé 2012. február 25-ig benyújtandó soron kívüli bevallásban teljesíti.
+(2)–(3)
 
 (4)
 
 (5)
 
-(6) A hozzájárulási kötelezettséget a 2012. évre vonatkozóan 2013. február 25-ig benyújtandó bevallásban kell teljesíteni, a többletbefizetést ettől az időponttól lehet visszaigényelni.
+(6)
 
 27. § (1) Az a hozzájárulásra kötelezett, aki felsőfokú szakképzés keretében együttműködési megállapodás vagy hallgatói szerződés alapján, gyakorlati képzés szervezésével teljesíti hozzájárulási kötelezettségét, 2012. január 1. napjától az együttműködési megállapodásban vagy a szakképzésről szóló 1993. évi LXXVI. törvényben szabályozott hallgatói szerződésben meghatározott időtartamból még hátralevő időre hozzájárulási kötelezettségét a 8. § (1) bekezdése alapján teljesíti.
 
@@ -420,14 +413,11 @@ használható fel.
 
 28/B. § Az alaprészből a szakképzésről szóló törvény 2014. december 31-én hatályos 43. § (2) bekezdés c) pontja alapján tanulószerződés megkötésére jogosult szervezet által 2014. augusztus 31-éig megkötött tanulószerződésekre a szakképzésről szóló 2011. évi CLXXXVII. törvény, a felnőttképzésről szóló 2013. évi LXXVII. törvény és az azokkal összefüggő tárgyú törvények módosításáról szóló 2015. évi LXVI. törvény hatálybalépését megelőző napon hatályos 15. § szerint nyújtható támogatás a tanulószerződések megszűnéséig.
 
-29. § Ha a hozzájárulásra kötelezett az általa e törvény hatálybalépése előtt megkötött tanulószerződést vagy hallgatói szerződést az abban foglalt határidő lejárta előtt, e törvény hatálybalépését követően jogellenesen felmondja, a szerződés felmondását követő 15 napon belül köteles a szakképzési hozzájárulási kötelezettsége terhére a szerződés alapján annak felmondásáig
-
-- a) az elszámolt költségek teljes, az igénybevételi kamattal növelt összegét az állami szakképzési és felnőttképzési szervnek a Magyar Államkincstárnál vezetett Nemzeti Foglalkoztatási Alap területi előirányzat-felhasználási keretszámlájára (a továbbiakban: EFK számla) befizetni,
-- b) a 8. § (1) bekezdés szerinti csökkentő tétel teljes összegét az Art. önellenőrzésre vonatkozó szabályainak megfelelően az állami adóhatóságnál vezetett számlára visszatéríteni.
+29. §
 
 30. § (1) Az a hozzájárulásra kötelezett, aki az e törvény hatálybalépését megelőzően hatályos szabályok szerint a szakképzési hozzájárulási kötelezettségét gyakorlati képzés szervezésével teljesítette és a csoportos gyakorlati képzést közvetlenül szolgáló tárgyi eszköz beszerzésére fordított kiadását, költségét a szakképzési hozzájárulás terhére legkésőbb 2011. december 31-ig elszámolta, a tárgyi eszközt köteles elkülönítetten nyilvántartani és 5 évig – ha a tárgyi eszköz ingatlan, 10 évig – gyakorlati képzés céljaira használni.
 
-(2) Ha a hozzájárulásra kötelezett a gyakorlati képzés szervezését vagy az adott szakképesítés gyakorlati képzésének a szervezését megszünteti, az e törvény hatálybalépését megelőzően hatályos szabályok szerint a szakképzési hozzájárulási kötelezettség terhére beszerzett tárgyi eszköznek és beruházásnak – a képzés megszűnése időpontjában fennálló – az (1) bekezdés szerint még hátralévő használati kötelezettség idejével arányos bekerülési értékét legkésőbb a megszüntetéssel egyidejűleg be kell fizetnie az EFK számlára.
+(2) Ha a hozzájárulásra kötelezett a gyakorlati képzés szervezését vagy az adott szakképesítés gyakorlati képzésének a szervezését megszünteti, az e törvény hatálybalépését megelőzően hatályos szabályok szerint a szakképzési hozzájárulási kötelezettség terhére beszerzett tárgyi eszköznek és beruházásnak – a képzés megszűnése időpontjában fennálló – az (1) bekezdés szerint még hátralévő használati kötelezettség idejével arányos bekerülési értékét legkésőbb a megszüntetéssel egyidejűleg be kell fizetnie a Magyar Államkincstárnál vezetett Nemzeti Foglalkoztatási Alap területi előirányzat-felhasználási keretszámlájára.
 
 (3) Mentesül a (2) bekezdés szerinti befizetési kötelezettség alól
 
@@ -436,9 +426,7 @@ használható fel.
 
 (4) A (3) bekezdés b) pontja szerinti eszközátadást más adókötelezettség nem terheli.
 
-31. § (1) Az e törvény hatálybalépését megelőzően hatályos szabályok szerint a 2011. évben nyújtott fejlesztési támogatás a támogatási szerződésben meghatározott célokra legkésőbb 2012. december 31. napjáig használható fel; az ezen időpontig fel nem használt fejlesztési támogatási összeget 2013. január 30-ig be kell fizetni az EFK számlára.
-
-(2) A fejlesztési támogatásban részesített e törvény hatálybalépését megelőzően 5 évre, ingatlan esetén 10 évre vonatkozóan köteles elszámolást készíteni és 2013. március 15. napjáig adatot szolgáltatni az állami szakképzési és felnőttképzési szerv részére az e törvény hatálybalépését megelőzően hatályos szabályok szerint fogadott fejlesztési támogatásból megvalósult fejlesztésekről. Az állami szakképzési és felnőttképzési szerv az elszámolást 60 napon belül ellenőrzi, a fejlesztési támogatásban részesített elszámolását elfogadja vagy a jogszerűtlen felhasználás miatti befizetési kötelezettségét megállapítja. A megállapított összeget a fejlesztési támogatásban részesített 30 napon belül köteles befizetni az EFK számlára.
+31. §
 
 32. § (1) Az Art.-ban meghatározott elévülés időtartama alatt a hozzájárulási kötelezettségét az e törvény hatálybalépését megelőzően hatályos szabályok szerint gyakorlati képzés szervezésével teljesítő kötelezettnek
 
@@ -449,7 +437,7 @@ használható fel.
 
 (3) Az e törvény hatálybalépését megelőzően hatályos szabályok szerint nyújtott fejlesztési támogatások, valamint a Munkaerő-piaci Alap képzési alaprészéből nyújtott támogatások felhasználásának az elszámoltatását és ellenőrzését az állami szakképzési és felnőttképzési szerv végzi.
 
-33. § Az e törvény hatálybalépését megelőzően hatályos szabályok szerint a régiónként meghatározott hiány-szakképesítések a régiókba tartozó megyékben is hiány-szakképesítésnek minősülnek.
+33. §
 
 33/A. § E törvénynek az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 9. § (1) bekezdés c) pontját és 9. § (5) bekezdését első alkalommal a 2013. január 1-jén vagy azt követően kezdődő adómegállapítási időszakra vonatkozóan kell alkalmazni.
 

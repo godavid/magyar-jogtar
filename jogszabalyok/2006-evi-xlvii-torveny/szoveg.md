@@ -6,7 +6,7 @@ Az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak
 
 1. § (1) E törvény alapján a kárpótlás iránti kérelmét minden olyan jogosult benyújthatja, aki eddig bármely okból ezt nem tette meg, és az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló 1992. évi XXXII. törvény (a továbbiakban: Kpt.) 2. §-a (1) bekezdésének c) és d) pontjai, illetve a 3. § (1) bekezdésének c) pontja alapján egyébként erre jogosult lett volna, továbbá akinek a Kpt. módosításáról szóló 1997. évi XXIX. törvény (a továbbiakban: Tv.) alapján benyújtott kérelmét a kárpótlási hatóság azért utasította el, mert nem tett eleget a hiánypótlási kötelezettségének.
 
-(2) Az a jogosult, aki a Tv. alapján már nyújtott be kárpótlási kérelmet, de azt a határidők elmulasztása miatt jogerősen elutasították, a 2. § (2) bekezdésben meghatározott időn belül új kérelmet nyájthat be.
+(2) Az a jogosult, aki a Tv. alapján már nyújtott be kárpótlási kérelmet, de azt a határidők elmulasztása miatt véglegesen vagy jogerősen elutasították, a 2. § (2) bekezdésben meghatározott időn belül új kérelmet nyájthat be.
 
 2. § (1) Az e törvény alapján lefolytatásra kerülő eljárásra a tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanuk okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény 10–12. §-ában foglaltak az irányadók, a (2)–(5) bekezdésben meghatározott eltérésekkel.
 
@@ -20,9 +20,9 @@ Az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak
 
 (6)
 
-2/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, a kárpótlási hatóság a döntését a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hirdetményi kézbesítésre vonatkozó szabályai szerint közli.
+2/A. § (1) Ha az eljárás során a jogosulttal való kapcsolattartás lehetetlenné vált, vagy a jogutód nem ismert, a kárpótlási hatóság a döntését az általános közigazgatási rendtartásról szóló törvény hirdetményi közlésre vonatkozó szabályai szerint közli.
 
-(2) Ha az eljárás során az ügyfél az eljárás jogerős befejezése előtt elhunyt, a jogutódlásra a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény jogutódlásra vonatkozó szabályait kell alkalmazni.
+(2)
 
 3. § E törvény a kihirdetését követő 30. napon lép hatályba.
 

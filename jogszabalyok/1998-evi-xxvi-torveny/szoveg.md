@@ -194,8 +194,9 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 - a) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel, valamint
 - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek jogosulti körébe tartozó, a szabad mozgás és tartózkodás jogával rendelkező személy, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorolja, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik, és az e törvényben meghatározott feltételeknek megfelel,
-- c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel és rendelkezik a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel,
-- d) az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgár.
+- c) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel,
+- d) az összevont engedéllyel rendelkező, Magyarország területén jogszerűen tartózkodó harmadik országbeli állampolgár,
+- e) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv hatálya alá tartozó, tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, amennyiben az e törvényben meghatározott feltételeknek megfelel.
 
 (3) A súlyosan fogyatékos személy nem jogosult fogyatékossági támogatásra ha
 
@@ -214,7 +215,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - b) az Európai Gazdasági Térségről szóló megállapodásban részes más állam, vagy
 - c) olyan állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez, távolléte alatt az ellátás szünetel.
 
-(6) Ha a támogatásra való jogosultság a fogyatékos személy halála miatt szűnik meg, az elhalálozás hónapjára járó támogatást a vele közös háztartásban együtt élt közeli hozzátartozó, ennek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki átadó végzés jogerőre emelkedésétől számított egy éven belül.
+(6) Ha a támogatásra való jogosultság a fogyatékos személy halála miatt szűnik meg, az elhalálozás hónapjára járó támogatást a vele közös háztartásban együtt élt közeli hozzátartozó, ennek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki átadó végzés véglegessé válásától számított egy éven belül.
 
 ### A fogyatékossági támogatás mértéke
 
@@ -240,19 +241,19 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (3)
 
-(4) Ha a fogyatékossági támogatásra irányuló kérelmet azért utasították el, mert a kérelmező ügyfél nem súlyosan fogyatékos, az elutasító határozat jogerőre emelkedését követő egy éven belül előterjesztett újabb fogyatékossági támogatás megállapítására irányuló kérelemre a bizonyítási eljárást csak abban az esetben kell lefolytatni, ha az orvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként – a jogszabályváltozás esetét kivéve – a kérelmet érdemi vizsgálat nélkül el kell utasítani.
+(4) Ha a fogyatékossági támogatásra irányuló kérelmet azért utasították el, mert a kérelmező ügyfél nem súlyosan fogyatékos, az elutasító határozat véglegessé válását követő egy éven belül előterjesztett újabb fogyatékossági támogatás megállapítására irányuló kérelemre a bizonyítási eljárást csak abban az esetben kell lefolytatni, ha az orvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként – a jogszabályváltozás esetét kivéve – a kérelmet vissza kell utasítani.
 
 23/C. § (1) A fogyatékossági támogatási szerv az eljárásában a súlyosan fogyatékos állapotot szakkérdésként vizsgálja.
 
-(2) Ha a kérelmező súlyos fogyatékosságát a rehabilitációs szakértői szerv vagy jogelődjének hatályos határozata, szakhatósági állásfoglalása vagy szakvéleménye korábban nem állapította meg, az elsőfokú eljárásban az ügyintézési határidő negyven nap.
+(2)
 
-23/D. § (1)
+23/D. § (1) A fogyatékossági támogatással kapcsolatos ügyekben a keresetlevél benyújtásának halasztó hatálya van, kivéve, ha a kereseti kérelem kizárólag a határozatban megállapított ellátási összegen felüli többletigényre irányul.
 
 (2)
 
 (3) A fogyatékossági támogatásban részesülő, illetve annak gondnoka a jogosultság feltételeit érintő lényeges tények, körülmények megváltozásáról 15 napon belül köteles értesíteni a fogyatékossági támogatási szervet.
 
-(4) Ha a támogatásra vonatkozó igényt jogerősen megállapítják, az ellátás a kérelem benyújtásától esedékes.
+(4) Ha a támogatásra vonatkozó igényt megállapító döntés véglegessé vált, az ellátás a kérelem benyújtásától esedékes.
 
 (5) A fogyatékossági támogatás iránti igény érvényesítésével kapcsolatos valamennyi eljárás illeték- és költségmentes.
 
@@ -279,7 +280,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (9) A jogosult halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a fogyatékossági támogatási szerv a pénzforgalmi szolgáltatót kötelezi, feltéve hogy a fizetési számla feletti rendelkezésre más személy nem jogosult és a visszautalás a fizetési számla terhére megtörténhet. A fizetési számla felett rendelkezésre jogosult más személy természetes személyazonosító adatait és lakcímét a pénzforgalmi szolgáltató a fogyatékossági támogatási szervnek átadja. A fogyatékossági támogatási szerv a követelését – visszafizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt számlájáról még nem vették fel.
 
-(10) A jogerősen megállapított és nem teljesített visszafizetési kötelezettség alapján a jogalap nélkül felvett fogyatékossági támogatás és annak kamatai – a (9) bekezdésben meghatározott kivétellel – köztartozásnak minősül, és adók módjára kell behajtani.
+(10)
 
 ### A nyilvántartásra, adatvédelemre vonatkozó rendelkezések
 
@@ -369,7 +370,8 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 - c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont,
 - d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés e) pont,
 - e) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv;
-- f) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv.
+- f) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv;
+- g) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv 22. cikke.
 
 32. § (1) E törvény 29. §-a a légi járműveken utazó fogyatékkal élő, illetve csökkent mozgásképességű személyek jogairól szóló, 2006. július 5-i 1107/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

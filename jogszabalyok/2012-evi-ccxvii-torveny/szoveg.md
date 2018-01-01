@@ -94,7 +94,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 #### 3. A kibocsátási engedély és a nyomonkövetési terv
 
-3. § (1) Az 1. melléklet I–XXI. pontjában meghatározott tevékenység – ideértve a próbaüzemet is – kizárólag a klímavédelemért felelős hatóság (a továbbiakban: hatóság) által kiadott jogerős kibocsátási engedély alapján folytatható.
+3. § (1) Az 1. melléklet I–XXI. pontjában meghatározott tevékenység – ideértve a próbaüzemet is – kizárólag a klímavédelemért felelős hatóság (a továbbiakban: hatóság) által kiadott véglegessé vált kibocsátási engedély alapján folytatható.
 
 (2) A kibocsátási engedély iránti kérelem kötelező tartalmi elemei:
 
@@ -114,11 +114,13 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 - a) az engedély kiadásakor megállapított feltételek megváltoztak, felhívja az üzemeltetőt az engedély módosítása iránti kérelem benyújtására, és ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki,
 - b) az engedély kiadásához szükséges valamely feltétel nem áll fenn, a kibocsátási engedélyt visszavonja,
-- c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fennáll, ennek ténye a hatósági ellenőrzést lezáró jegyzőkönyvben rögzítésre kerül.
+- c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fennáll, ennek ténye a hatósági ellenőrzést lezáró jegyzőkönyvben vagy feljegyzésben rögzítésre kerül.
 
 (3a) A hatóság a kibocsátási engedélyben végrehajtott módosításról, illetve az engedély visszavonásáról tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter). A miniszter tájékoztatja a hatóságot minden olyan, az üzemeltetők és a légi jármű üzembentartók működésével kapcsolatos adatról, amely adatot közvetlenül a miniszterhez nyújtottak be, és az adat megismerése a hatóság e törvény és a végrehajtására kiadott kormányrendelet szerinti feladat- és hatáskörébe tartozik.
 
 (3b) A hatóság a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát a miniszterrel együttműködve, hatósági ellenőrzés keretében végzi.
+
+(3c) Hatósági ellenőrzés lefolytatása iránti kérelem előterjesztésének nincs helye.
 
 (4) A kibocsátási engedély egyazon üzemeltető által egy – a társasági adóról és az osztalékadóról szóló törvény szerinti – telephelyen üzemeltetett egy vagy több létesítményre is vonatkozhat.
 
@@ -198,7 +200,7 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 #### 6. A kibocsátási egységek kiosztása
 
-15. § (1) A kibocsátási egységek kiosztását a harmadik kereskedési időszakban a 2011/278/EU bizottsági határozat VI. mellékletében meghatározott referenciaértékek és kisegítő szabályok alapján kell elvégezni.
+15. § (1) A kibocsátási egységek kiosztását a harmadik kereskedési időszakban a 2011/278/EU bizottsági határozat VI. mellékletében meghatározott szorzótényezők és kisegítő szabályok alapján kell elvégezni.
 
 (2) A térítésmentesen kiosztható mennyiség az (1) bekezdésben foglaltak alapján kiszámított egységmennyiség 100%-a azon létesítmények számára, amelyek a szén-dioxid-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok listáját meghatározó, az Európai Unió kötelező jogi aktusában felsorolt ágazatokba tartoznak.
 
@@ -249,17 +251,17 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (3) A Kormány (2) bekezdés szerinti rendelete alapján az energiapolitikáért felelős miniszter a (6) bekezdésben foglaltakra figyelemmel elkészíti a nemzeti kiosztási táblára vonatkozó javaslatát és jóváhagyásra megküldi azt az Európai Bizottságnak. Az Európai Bizottság által jóváhagyott nemzeti kiosztási tábla alapján a nemzeti tisztviselő a (6) bekezdésben foglaltakra figyelemmel a nemzeti kiosztási tábla Európai Bizottság általi jóváhagyását követő 15 napon belül gondoskodik a kibocsátási egységeknek a derogációs kiosztásra jogosult villamosenergia-termelők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
 
-(4) A derogációs kiosztásban részesülő villamosenergia-termelő a részére a (3) bekezdés szerint kiosztott kibocsátási egységek piaci értékét a hatóság 18/C. § (2) szerinti központi számlájára megfizeti. A piaci érték meghatározására vonatkozó szabályokat a Kormány rendeletben határozza meg. Az egyes villamosenergia-termelők fizetési kötelezettségének a mértékét a hatóság állapítja meg. A villamosenergia-termelők a fizetési kötelezettségüknek az adott villamosenergia-termelőre vonatkozó határozat jogerőre emelkedésétől számított 7 napon belül tesznek eleget.
+(4) A derogációs kiosztásban részesülő villamosenergia-termelő a részére a (3) bekezdés szerint kiosztott kibocsátási egységek piaci értékét a hatóság 18/C. § (2) szerinti központi számlájára megfizeti. A piaci érték meghatározására vonatkozó szabályokat a Kormány rendeletben határozza meg. Az egyes villamosenergia-termelők fizetési kötelezettségének a mértékét a hatóság állapítja meg. A villamosenergia-termelők a fizetési kötelezettségüknek az adott villamosenergia-termelőre vonatkozó határozat véglegessé válásától számított 7 napon belül tesznek eleget.
 
 (5) Ha a (4) bekezdés szerinti fizetési kötelezettség teljesítéséig a villamosenergia-termelő a részére kiosztott kibocsátási egységeket értékesíti, köteles az értékesítés árbevételét a (4) bekezdés szerinti fizetési kötelezettsége teljesítésére fordítani. A (4) bekezdés szerinti fizetési kötelezettség teljesítését követően a villamosenergia-termelő a részére kiosztott kibocsátási egységekkel szabadon rendelkezik.
 
-(6) Nem részesülhet derogációs kiosztásban az a villamosenergia-termelő, amely a kiosztás időpontjában csőd- vagy felszámolási eljárás hatálya alatt áll, vagy amelynek a kibocsátási-engedélyét vagy a kibocsátási engedélye alapjául szolgáló bármely más olyan engedélyét jogerősen felfüggesztették vagy visszavonták, amelynek következtében a villamosenergia-termelő termelő tevékenységet a derogációs kiosztás időpontjában jogszerűen nem folytathat.
+(6) Nem részesülhet derogációs kiosztásban az a villamosenergia-termelő, amely a kiosztás időpontjában csőd- vagy felszámolási eljárás hatálya alatt áll, vagy amelynek a kibocsátási-engedélyét vagy a kibocsátási engedélye alapjául szolgáló bármely más olyan engedélyét végleges döntéssel felfüggesztették vagy visszavonták, amelynek következtében a villamosenergia-termelő termelő tevékenységet a derogációs kiosztás időpontjában jogszerűen nem folytathat.
 
 18/B. § (1) Ha a derogációs kiosztásra jogosult villamosenergia-termelő a kibocsátási egységek piaci értékének megfizetésére vonatkozó 18/A. § (4) bekezdése szerinti fizetési kötelezettségének határidőben részben vagy egészben nem tesz eleget, a hatóság a fizetési határidő lejártát követő 6 napon belül kötelezi az érintett villamosenergia-termelőt a fizetési kötelezettségének 7 napon belül történő teljesítésére (a továbbiakban: fizetési felszólítás).
 
 (2) Ha a derogációs kiosztásra jogosult villamosenergia-termelő az (1) bekezdés szerinti fizetési felszólításnak határidőben sem tesz eleget, a hatóság megállapítja a fizetési kötelezettség teljesítésének elmulasztását és mulasztási bírságot szab ki.
 
-(3) Az (1) bekezdés szerinti fizetési felszólításban meghatározott piaci értéket és mulasztási bírságot a villamosenergia-termelőnek a (2) bekezdés szerinti határozat jogerőre emelkedését követő 10 napon belül kell megfizetnie. A mulasztási bírság mértékét a hatóság a Kormány rendelete alapján szabja ki. Ha a kötelezett a fizetési kötelezettségének határidőben nem tesz eleget, a hatóság a fizetési kötelezettség adók módjára történő behajtása érdekében soron kívül megkeresi az állami adóhatóságot.
+(3) Az (1) bekezdés szerinti fizetési felszólításban meghatározott piaci értéket és mulasztási bírságot a villamosenergia-termelőnek a (2) bekezdés szerinti határozat véglegessé válását követő 10 napon belül kell megfizetnie. A mulasztási bírság mértékét a hatóság a Kormány rendelete alapján szabja ki. Ha a kötelezett a fizetési kötelezettségének határidőben nem tesz eleget, a hatóság a fizetési kötelezettség behajtása érdekében soron kívül megkeresi az állami adó- és vámhatóságot.
 
 (4) A (3) bekezdésben meghatározott fizetési kötelezettség teljesítéséig a hatóság javaslatára az energiapolitikáért felelős miniszter zároltatja a villamosenergia-termelő forgalmi jegyzékbeli számláját. Ha a hatóság értesíti az energiapolitikáért felelős minisztert a fizetési kötelezettség villamosenergia-termelő általi – hiánytalan – teljesítéséről, az energiapolitikáért felelős miniszter – a jegyzékkezelő útján – gondoskodik a villamosenergia-termelő forgalmi jegyzékbeli számlája zárolásának feloldásáról.
 
@@ -279,7 +281,7 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 18/E. § (1) A hatóság jogosult ellenőrizni a beruházások megvalósítását és a beruházások elkészültét követően a beruházások működését nyomon követni. A beruházások ellenőrzése során a tényállás tisztázása keretében a hatóság független könyvvizsgáló jelentését szerzi be (kötelező bizonyítási eszköz). Az ellenőrzés és nyomon követés szabályait, ideértve a független könyvvizsgáló kijelölésére vonatkozó szabályokat is, a Kormány rendeletben határozza meg.
 
-(2) Ha a beruházó a hatóság által részére folyósított támogatási összeget nem a vonatkozó jogszabályokban vagy az Európai Bizottság határozataiban foglaltaknak megfelelően használja fel, a hatóság a beruházóval szemben hatósági ellenőrzést folytat le a beruházások ellenőrzése céljából (a továbbiakban: felügyeleti eljárás). A felügyeleti eljárás keretében a hatóság a beruházóval szemben a Kormány rendeletében meghatározottak szerint bírságot szab ki, meghatározott esetben a támogatást visszafizetteti, vagy a támogatás folyósítását megszünteti. Ha a felügyeleti eljárás keretében kiszabott bírság vagy visszafizetendő támogatás nem kerül a hatóság által megszabott határidőben megfizetésre, akkor a jogerős határozat alapján a hatóság a fizetési kötelezettség adók módjára történő behajtása érdekében soron kívül megkeresi az állami adóhatóságot.
+(2) Ha a beruházó a hatóság által, részére folyósított támogatási összeget nem a vonatkozó jogszabályokban vagy az Európai Bizottság határozataiban foglaltaknak megfelelően használja fel, a hatóság a beruházóval szemben hatósági ellenőrzést folytat le a beruházások ellenőrzése céljából (a továbbiakban: felügyeleti eljárás). A felügyeleti eljárás keretében a hatóság a beruházóval szemben a Kormány rendeletében meghatározottak szerint bírságot szab ki, meghatározott esetben a támogatást visszafizetteti vagy a támogatás folyósítását megszünteti. Ha a felügyeleti eljárás keretében kiszabott bírság vagy visszafizetendő támogatás nem kerül a hatóság által megszabott határidőben megfizetésre, akkor a véglegessé vált határozat alapján a hatóság a fizetési kötelezettség behajtása érdekében soron kívül megkeresi az állami adó- és vámhatóságot.
 
 18/F. § (1) A hatóság évente jelentést készít az Európai Bizottság részére a beruházások megvalósításáról és a központi számlán rendelkezésre álló összeg felhasználásáról. A hatóság az első jelentését 2014. január 31-ig az energiapolitikáért felelős miniszter útján nyújtja be az Európai Bizottság részére. A hatóság az utolsó jelentését a (2) bekezdés szerinti zárójelentés benyújtását követő év január 31-ig köteles elkészíteni.
 
@@ -295,9 +297,9 @@ a (2)–(4) bekezdésben foglaltak figyelembevételével, kizárólag a derogác
 
 (7) Az (1)–(3) bekezdés szerinti jelentések kötelező tartalmi elemeit és a jelentéstétel részletes szabályait a Kormány rendeletben határozza meg.
 
-18/G. § (1) A hatóság 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait felügyeleti jogkörben módosítani vagy megváltoztatni nem lehet. A hatóság 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatai ellen fellebbezésnek, újrafelvételi eljárásnak helye nincs.
+18/G. § (1)
 
-(2) A hatóság a 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait a határozat meghozatalát követő 3 napon belül a honlapján közzé teszi.
+(2) A hatóság a 18/B. § (2) bekezdése és 18/E. § (1) bekezdése szerinti eljárásokban hozott határozatait a határozat meghozatalát követő 3 napon belül a honlapján közhírré teszi.
 
 (3) Az energiapolitikáért felelős miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak az energiapolitikáért felelős miniszter által vezetett minisztérium honlapján történő közzétételéről.
 
@@ -441,7 +443,7 @@ vonatkozó adatok környezeti információnak minősülnek.
 
 32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására, valamint a hatóság vagy a miniszter felé történő változások bejelentésére irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság vagy – a miniszter felé fennálló változásbejelentési kötelezettség elmulasztása esetén – a miniszter az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
 
-(2) A bírságot a határozat jogerőre emelkedését követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében soron kívül megkeresi az állami adóhatóságot.
+(2) A bírságot a határozat véglegessé válását követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében megkeresi az állami adóhatóságot.
 
 (3) A bírság mértékének meghatározásakor figyelemmel kell lenni a kötelezettségszegés súlyára, az általa elérhető gazdasági előny nagyságára, valamint az üzemeltetőnek térítésmentesen járó kibocsátási egységek számára.
 
@@ -457,7 +459,7 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 33. § (1) Ha a légi jármű üzembentartó a nyomon követési terv jóváhagyásának megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a légiközlekedési kibocsátási egység visszaadására, valamint a hatóság vagy a miniszter felé a 22. § (1) bekezdésében foglalt változások bejelentésére irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság vagy – a miniszter felé fennálló változásbejelentési kötelezettség elmulasztása esetén – a miniszter e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
 
-(2) A bírságot a határozat jogerőre emelkedését követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében soron kívül megkeresi az állami adóhatóságot. Ismételt kötelezettségszegés esetén a hatóság a (4) bekezdésben foglalt intézkedés megtételét kezdeményezi.
+(2) A bírságot a határozat véglegessé válását követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében megkeresi az állami adóhatóságot. Ismételt kötelezettségszegés esetén a hatóság a (4) bekezdésben foglalt intézkedés megtételét kezdeményezi.
 
 (3) A bírság mértékének meghatározásakor figyelemmel kell lenni a kötelezettségszegés súlyára, az általa elérhető gazdasági előny nagyságára, valamint a légi jármű üzembentartónak térítésmentesen kiosztott kibocsátási egységek számára.
 
@@ -471,7 +473,7 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 (5) Amennyiben a légi jármű üzembentartó nem tesz eleget az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt követelményeknek, és az e törvényben meghatározott egyéb jogkövetkezmény alkalmazása sem vezet eredményre, a miniszter kérelemmel fordul az Európai Bizottsághoz, hogy az érintett légi jármű üzembentartóra vonatkozóan működési tilalmat állapítson meg. Ha az Európai Bizottság határozatot hoz az érintett légi jármű üzembentartóra vonatkozó működési tilalom bevezetéséről, a miniszter gondoskodik ennek végrehajtásáról, melynek során tájékoztatja az Európai Bizottságot a határozat végrehajtása céljából hozott bármely intézkedésről.
 
-(6) A 32. § és e § alapján jogerősen kiszabott bírság adók módjára behajtandó köztartozás.
+(6)
 
 34. § (1) A 32. § és a 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, ha az üzemeltető vagy a légi jármű üzembentartó a jelentési és hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének határidőre részben vagy egészben nem tesz eleget, a megfelelően hitelesített jelentés benyújtásáig vagy az ÜHG-egységek visszaadásáig nem jogosult ÜHG-egységek átruházására.
 
@@ -483,17 +485,19 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 (5) A visszaadás elmulasztása esetén a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját. A zárolást a jegyzékkezelő akkor oldja fel, ha a (4) bekezdésben előírt ÜHG-egység visszaadásra kerül.
 
-(6) Ha az üzemeltető vagy a légi jármű üzembentartó a felügyeleti díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az állami adóhatóságot. A felügyeleti díj megfizetéséig a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját, és arról tájékoztatást nyújt a miniszter részére. A számla zárolásának feloldását a jegyzékkezelő a követelés beérkezését követő 15 napon belül végzi el. A felügyeleti díj üzemeltetői és légi jármű üzembentartói teljesítéséhez kapcsolódó zárolásról és a zárolás feloldás tényéről a jegyzékkezelő minden esetben értesíti az érintetteket, és arról tájékoztatást nyújt a miniszter részére a zárolást és a zárolás feloldását követő 8 napon belül.
+(6) Ha az üzemeltető vagy a légijármű-üzembentartó a felügyeleti díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követően fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A végleges határozatban megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a felügyeleti díj behajtása érdekében megkeresi az állami adóhatóságot. A felügyeleti díj megfizetéséig a hatóság zárolja az üzemeltető vagy a légijármű-üzembentartó forgalmi jegyzékbeli számláját. A számla zárolásának feloldását a jegyzékkezelő a követelés teljesítésének beérkezését követő 15 napon belül végzi el. A felügyeleti díj üzemeltetői és légijármű-üzembentartói teljesítéséhez kapcsolódó zárolásról és a zárolás feloldásának tényéről a jegyzékkezelő minden esetben értesíti az érintetteket, és arról tájékoztatást nyújt a miniszter részére a zárolást és a zárolás feloldását követő 8 napon belül.
 
-(7) A (6) bekezdés alapján jogerősen kiszabott és meg nem fizetett felügyeleti díj adók módjára behajtandó köztartozásnak minősül.
+(7)
 
-34/A. § (1) A hatóság a 30/B. § szerinti számlavezetési díj vonatkozásában jogerős határozatban megállapított teljesítési határidő eredménytelen lejártát követően, a meg nem fizetett számlavezetési díj 110%-ával megegyező mértékű bírságot szab ki. A bírság megfizetésével a számlavezetési díj megfizetettnek minősül.
+34/A. § (1) Ha a számlavezetési díj megfizetésére kötelezett a hatóság által kiállított számla alapján fizetési kötelezettségének nem tesz eleget, a hatóság az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerint a fizetési kötelezettség elmulasztását és a számlavezetési díj megfizetését megállapító határozatot hoz.
 
-(2) A bírságnak a meg nem fizetett számlavezetési díj fedezetéül szolgáló része a jegyzékkezelő bevételét képezi.
+(2) A végleges döntésben megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a számlavezetési díj behajtása érdekében megkeresi az állami adó- és vámhatóságot, és a meg nem fizetett számlavezetési díj 10%-ával megegyező mértékű bírságot szab ki.
+
+34/B. § A klímavédelemért felelős hatóság döntése elleni perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
 #### 14. Felügyeleti díj
 
-35. § (1) Az üzemeltető a kibocsátási engedély jogerőre emelkedése, a légi jármű üzembentartó a nyomon követési terv jóváhagyásának közlése napjától – e törvény végrehajtására kiadott jogszabály szerint – éves felügyeleti díjat fizet a hatóság részére. A díjfizetést a tárgyévet követő év február 28-ig kell teljesíteni.
+35. § (1) Az üzemeltető a kibocsátási engedély véglegessé válásának, a légi jármű üzembentartó a nyomon követési terv jóváhagyásának közlése napjától – e törvény végrehajtására kiadott jogszabály szerint – éves felügyeleti díjat fizet a hatóság részére. A díjfizetést a tárgyévet követő év február 28-ig kell teljesíteni.
 
 (2) Az üzemeltető és a légi jármű üzembentartó által fizetendő felügyeleti díj mértéke az üzemeltető és a légi jármű üzembentartó részére kiosztott minden egyes ÜHG-egység után évi 5 forint.
 
@@ -553,7 +557,7 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 - c) az ÜHG-egységek kiosztásához szükséges részletszabályokat,
 - d) az állam tulajdonában lévő ÜHG-egységekkel való rendelkezésre vonatkozó részletes szabályokat,
 - e) az állam tulajdonában lévő ÜHG-egységek értékesítésére vonatkozó részletes szabályokat,
-- f)
+- f) a klímavédelemért felelős hatóság felügyeleti jogköre és a hatósági ellenőrzés részletes szabályait, az e területen alkalmazható jogkövetkezményeket,
 - g) a hatóság és a jegyzékkezelő kijelölését és az ÜHG-egységek nyilvántartásának szabályait,
 - h) a CER és az ERU beszámításának részletes szabályait,
 - i) az üvegházhatású gázkibocsátásokkal kapcsolatos kötelezettségek megszegéséért fizetendő bírság mértékét és a fizetési kötelezettség teljesítésének részletes szabályait,
@@ -571,10 +575,9 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy
+(2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a felügyeleti díj megfizetésének részletes szabályait rendeletben állapítsa meg.
 
-- a) a fizetendő igazgatási szolgáltatási díj mértékét rendeletben állapítsa meg,
-- b) az igazgatási szolgáltatási díj és a felügyeleti díj megfizetésének részletes szabályait rendeletben állapítsa meg.
+(3) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy a fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének részletes szabályait – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg.
 
 40. § (1) E törvény – a (2)–(6) bekezdésben meghatározott kivétellel – 2012. december 31-én lép hatályba.
 
@@ -613,6 +616,8 @@ rendeletben állapítsa meg.
 (5) A 20. § (4) bekezdésében foglaltakra tekintet nélkül, a 2013. és 2014. évben térítésmentesen kiosztandó légiközlekedési kibocsátási egységek mennyiségének megállapításáról, továbbá a fenti évekre kiosztott légiközlekedési kibocsátási egységeknek az üzembentartó forgalmi jegyzékben vezetett számláján történő jóváírásáról a miniszter együttesen, az Európai Bizottság vonatkozó határozatát követően legkésőbb 2015. április 30-ig gondoskodik az arra jogosult légi jármű üzembentartók esetében.
 
 (6) Amennyiben egy légi jármű üzembentartó összes éves kibocsátása kevesebb, mint 25 000 tonna szén-dioxid, és e kibocsátás meghatározása a 606/2010/EU bizottsági rendelet által jóváhagyott, az Eurocontrol által kifejlesztett eszközzel történt, úgy a légi jármű üzembentartó kibocsátását hitelesítettnek kell tekinteni.
+
+41/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 42. § (1) E törvény – a végrehajtására a 39. §-ban foglalt felhatalmazások alapján kiadott jogszabályokkal együtt –
 

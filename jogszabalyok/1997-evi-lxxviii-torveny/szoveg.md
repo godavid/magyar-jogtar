@@ -529,12 +529,9 @@ kivételével más építési munkát végezni nem szabad.
 
 (6) A kártalanítást az köteles megfizetni, akinek az érdekében a korlátozás történt. Ha nem határozzák meg azt, akinek az érdekében a korlátozás történt, a kártalanítási kötelezettség a települési önkormányzatot terheli. A fővárosban a kártalanítás a fővárosi, illetőleg a kerületi önkormányzatot érdekeltségük arányában terheli. Ha az, akinek az érdekében a kártalanítási kötelezettséggel járó előírás szükségessé vált, a tilalom vagy a korlátozás elrendelése után jogutód nélkül megszűnt, és a települési önkormányzat az előírást fenntartja, a kártalanítási kötelezettség szintén az önkormányzatot terheli.
 
-(7) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat, szabályozási terv hatálybalépésének, illetőleg az e törvény 20. § (4) bekezdésében foglaltak szerinti tilalmat, korlátozást elrendelő határozat jogerőre emelkedésének a napja. A kártalanítás a felek megállapodásának tárgya. A főváros esetében a megállapodás megkötésére irányuló kérelmet a fővárosi önkormányzatnak a területileg illetékes kerületi önkormányzathoz, a területileg illetékes kerületi önkormányzatnak a fővárosi önkormányzathoz nyolc napon belül írásban továbbítani kell. Ebben az esetben úgy kell tekinteni, mintha a kérelmező a kérelmét mindkét önkormányzathoz beadta volna. Ha a szerződő felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet a fővárosi és megyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
+(7) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat, szabályozási terv hatálybalépésének, illetőleg az e törvény 20. § (4) bekezdésében foglaltak szerinti tilalmat, korlátozást elrendelő határozat véglegessé válásának a napja. A kártalanítás a felek megállapodásának tárgya. A főváros esetében a megállapodás megkötésére irányuló kérelmet a fővárosi önkormányzatnak a területileg illetékes kerületi önkormányzathoz, a területileg illetékes kerületi önkormányzatnak a fővárosi önkormányzathoz nyolc napon belül írásban továbbítani kell. Ebben az esetben úgy kell tekinteni, mintha a kérelmező a kérelmét mindkét önkormányzathoz beadta volna. Ha a szerződő felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet a fővárosi és megyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
 
-(8) A kártalanítás tárgyában hozott közigazgatási határozat ellen fellebbezésnek nincs helye. A határozat bírósági felülvizsgálata során a polgári perrendtartásról szóló törvénynek a közigazgatási perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy
-
-- a) a pert a kártalanítás megfizetésére kötelezett ellen is meg kell indítani, és
-- b) a bíróság a kártalanítási ügyben hozott határozatot megváltoztathatja.
+(8) A kártalanítás tárgyában hozott közigazgatási határozattal szembeni közigazgatási pert a kártalanítás megfizetésére kötelezett ellen is meg kell indítani.
 
 (9) A tulajdonost, haszonélvezőt a (4) bekezdésben foglalt eljárás lefolytatása esetén megilleti a (7) bekezdés szerinti kártalanítás. A (4) bekezdésben szabályozott ingatlan megvételének követelése a (7) bekezdés szerinti kérelem benyújtásának minősül. Az adásvétellel, kisajátítással történő kártalanítás esetében a vételárba az addig kifizetett kártalanítást be kell számítani.
 
@@ -542,7 +539,7 @@ kivételével más építési munkát végezni nem szabad.
 
 ### Településrendezési szerződés
 
-30/A. § (1) A települési önkormányzat egyes településfejlesztési célok megvalósítására településrendezési szerződést (a továbbiakban: szerződés) köthet az érintett telek tulajdonosával, illetve a telken beruházni szándékozóval (a továbbiakban együtt: a cél megvalósítója).
+30/A. § (1) A települési önkormányzat egyes településfejlesztési célok megvalósítására településrendezési szerződést (a továbbiakban: szerződés) köthet az érintett telek tulajdonosával, illetve a telken beruházni szándékozóval (a továbbiakban együtt: a cél megvalósítója). A településrendezési szerződés közigazgatási szerződésnek minősül.
 
 (2) A szerződés megkötése előtt a települési önkormányzat képviselő-testülete dönt a cél megvalósítója által készített telepítési tanulmánytervről annak hiánytalan benyújtásától számított 30 napon belül.
 
@@ -745,7 +742,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (4)
 
-(5) Az összevont eljárás elvi építési keretengedélyezési szakaszában az elvi építési keretengedély megtagadásáról szóló végzés ellen önálló fellebbezésnek van helye.
+(5) Az összevont eljárás elvi építési keretengedélyezési szakaszában az elvi építési keretengedély megtagadásáról szóló határozat ellen önálló fellebbezésnek van helye.
 
 (6) Az építtető az összevont eljárásért, valamint az integrált eljárásért az építésügyi hatóságnak, szakhatóság közreműködése esetén a szakhatóságnak külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat köteles fizetni.
 
@@ -817,9 +814,9 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (5) a vállalkozó kivitelezői tevékenység folytatásához kormányrendelet felelősségbiztosítást, referenciát vagy a vállalkozó kivitelező teljesítésre való alkalmasságát igazoló vállalkozásminősítést írhat elő.
 
-(6) Aki vállalkozó kivitelezői tevékenység végzésére nem jogosult, kormányrendeletben meghatározott építőipari kivitelezési tevékenységet csak az ott meghatározott feltételekkel, saját vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti hozzátartozó céljára végezhet.
+(6) Aki vállalkozó kivitelezői tevékenység végzésére nem jogosult, kormányrendeletben meghatározott építőipari kivitelezési tevékenységet csak az ott meghatározott feltételekkel, saját vagy a Polgári Törvénykönyv szerinti hozzátartozó céljára végezhet.
 
-(7) A Magyar Kereskedelmi és Iparkamara vezeti a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét, és a szolgáltatási tevékenység megkezdésének és folytatásának általános feltételeiről szóló törvény szerint ellenőrzi a vállalkozói építőipari tevékenység folytatására való jogosultságot. A Magyar Kereskedelmi és Iparkamara határozata ellen a fellebbezés kizárt.
+(7) A Magyar Kereskedelmi és Iparkamara vezeti a vállalkozó kivitelezői tevékenységre jogosultak névjegyzékét, és a szolgáltatási tevékenység megkezdésének és folytatásának általános feltételeiről szóló törvény szerint ellenőrzi a vállalkozói építőipari tevékenység folytatására való jogosultságot.
 
 39/A. § (1) Az építőipari kivitelezési tevékenység – a (2) bekezdés kivételével – csak olyan felelős műszaki vezető irányításával folytatható, aki a kivitelezési tevékenység szakirányának megfelelő jogosultsággal és egyéb feltételekkel, továbbá az építési tevékenységet végzők vonatkozásában közvetlen utasítási joggal rendelkezik.
 
@@ -853,7 +850,7 @@ helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 - a) az építményfajtának, építési tevékenységnek megfelelő jogosultságának meglétéért,
 - b) a szakmunka irányításáért,
-- c) – kormányrendeletben meghatározott feladatai körében – az építmény, építményrész jogerős és végrehajtható építési engedélynek és a hozzá tartozó jóváhagyott engedélyezési terveknek, illetve a jogszabályban meghatározott kivitelezési dokumentációnak megfelelő megvalósításáért, továbbá
+- c) – kormányrendeletben meghatározott feladatai körében – az építmény, építményrész végleges építési engedélynek és a hozzá tartozó jóváhagyott engedélyezési terveknek, illetve a jogszabályban meghatározott kivitelezési dokumentációnak megfelelő megvalósításáért, továbbá
 - d) az építési tevékenységre vonatkozó szakmai, minőségi és biztonsági előírások megtartásáért és
 - e) a munkálatok végzésének szakszerűségéért.
 
@@ -969,7 +966,7 @@ van helyük.
 - f) energetikai tanúsítvány elkészíttetését,
 - g) az építmény jókarbantartására vonatkozó kötelezettség teljesítését vagy az építmény felülvizsgálatát, szükség szerinti átalakítását, felújítását, helyreállítását vagy lebontását, ha annak állapota az állékonyságot, az életet és egészséget, a közbiztonságot veszélyezteti.
 
-(3) Az építésügyi vagy építésfelügyeleti hatóság megkeresésére az ingatlan-nyilvántartásba az (1)–(2) bekezdés, valamint a 46. § (3) bekezdés e) pont eb) alpontja szerint elrendelt jogerős és végrehajtható kötelezettséget be kell jegyezni.
+(3) Az építésügyi vagy építésfelügyeleti hatóság megkeresésére az ingatlan-nyilvántartásba az (1) és (2) bekezdés, valamint a 46. § (3) bekezdés e) pont eb) alpontja szerint végleges döntéssel elrendelt kötelezettséget be kell jegyezni.
 
 (4) Az építésügyi vagy építésfelügyeleti hatóság, amennyiben a végrehajtható kötelezettséget – annak nem teljesítése miatt a kötelezett terhére hatósági úton, a felmerülő költségeket megelőlegezve – maga végezteti el, a költségek erejéig, azok megtérítéséig az érintett ingatlanra jelzálogjogot jegyeztethet be az ingatlan-nyilvántartásba.
 
@@ -990,8 +987,8 @@ megkezdett és végzett tevékenység.
 - a) a jogszabály alapján hatósági engedélyhez vagy tudomásulvételhez kötött építési vagy bontási tevékenységet
   - aa) engedély vagy tudomásulvétel nélkül,
   - ab) az engedélytől vagy tudomásulvételtől eltérően,
-  - ac) az engedély jogerőssé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
-  - ad) a jogerős engedély végrehajthatóságának felfüggesztése ellenére;
+  - ac) az engedély véglegessé válása nélkül – kivéve, ha a döntés fellebbezésre tekintet nélkül végrehajthatóvá válik –, vagy
+  - ad) a végleges engedély végrehajthatóságának felfüggesztése ellenére;
 - b) a 33/A. § szerinti egyszerű bejelentéshez kötött építési tevékenységet
   - ba) bejelentés nélkül,
   - bb) természetes személy esetében 300 négyzetméter összes hasznos alapterületet meghaladóan nem saját lakhatás biztosítása érdekében, illetve a megépült lakóépületben nem csak egy lakást kialakítva,
@@ -1001,7 +998,7 @@ megkezdett és végzett tevékenység.
 
 végzik.
 
-(3) Nem minősül jogszerűtlen építési tevékenységnek az építési engedélytől a jogszabályban meghatározott szabvány szerinti tűréshatáron belüli eltérés, valamint ha a bíróság a jogerős építési engedély alapján végzett építési tevékenység végrehajthatóságát nem függeszti fel.
+(3) Nem minősül jogszerűtlen építési tevékenységnek az építési engedélytől a jogszabályban meghatározott szabvány szerinti tűréshatáron belüli eltérés, valamint ha a bíróság a végleges építési engedély alapján végzett építési tevékenység végrehajthatóságát nem függeszti fel.
 
 (4) Jogosulatlan a 16. §, a 32. §, a 38/A. § és a 38/D. § szerinti tevékenység, továbbá a vállalkozó kivitelezői tevékenység, ha az építési folyamat e törvényben és kormányrendeletben meghatározott résztvevője az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképesítéssel, vagy a vállalkozó nem rendelkezik kivitelezői névjegyzéki nyilvántartási számmal, vagy kivitelezési tevékenység végzéséhez szükséges jogosultság felfüggesztésének időtartama alatt folytat kivitelezési tevékenységet.
 
@@ -1047,7 +1044,7 @@ végzik.
 
 (3) Az építésügyi bírság nem mentesít a büntetőjogi, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására, illetőleg a megfelelő védekezés kialakítására, a természetes vagy korábbi környezet helyreállítására vonatkozó kötelezettség teljesítése alól.
 
-(4) Nem szabható ki bírság az olyan jogerős és végrehajtható építési, illetve bontási engedély alapján elvégzett építési tevékenységgel összefüggésben, amelynek az alapját képező határozatot utóbb az építésügyi hatóság a saját hatáskörében vagy az ügyészségről szóló törvény szerinti ügyészi felhívás folytán visszavonta, vagy amelyet a bíróság hatályon kívül helyezett, illetve az Alkotmánybíróság határozata alapján az építésügyi hatóság felügyeleti szerve megváltoztatta vagy megsemmisítette kivéve, ha az építtető a visszavonásra (megváltoztatásra, megsemmisítésre, hatályon kívül helyezésre) alapot adó ok tekintetében rosszhiszeműen járt el.
+(4) Nem szabható ki bírság az olyan végleges és végrehajtható építési, illetve bontási engedély alapján elvégzett építési tevékenységgel összefüggésben, amelynek az alapját képező határozatot utóbb az építésügyi hatóság a saját hatáskörében vagy az ügyészségről szóló törvény szerinti ügyészi felhívás folytán visszavonta, vagy amelyet a bíróság hatályon kívül helyezett, illetve az Alkotmánybíróság határozata alapján az építésügyi hatóság felügyeleti szerve megváltoztatta vagy megsemmisítette kivéve, ha az építtető a visszavonásra (megváltoztatásra, megsemmisítésre, hatályon kívül helyezésre) alapot adó ok tekintetében rosszhiszeműen járt el.
 
 (5) Veszélyes állapotú építmények, épületszerkezetek jogszerűtlen építési tevékenységgel történő veszélyelhárítása vagy részleges elbontása esetén kiadott fennmaradási engedéllyel vagy bontás tudomásulvételével egyidejűleg az építésügyi hatóság a veszély elhárításához szükséges mértékű építési tevékenységre építésügyi bírságot nem szab ki.
 
@@ -1130,26 +1127,13 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 ### Az építésügyi és építésfelügyeleti hatósági eljárás szabályai
 
-53/A. § (1) Az építésügyi és építésfelügyeleti eljárásokban az eljáró hatóság és szakhatóság az eljárást és annak eljárási cselekményeit elektronikus ügyintézés keretében folytatja le.
-
-(2) Az építésügyi és építésfelügyeleti hatóság az ellenőrzési feladatokba szakértőként a területi építész és területi mérnöki kamarákat, valamint az országos építész és országos mérnöki kamarákat (a továbbiakban együtt: szakmai kamarák) és a Magyar Kereskedelmi és Iparkamarát vagy jogosult szakintézményt, valamint jogszabályban meghatározottak szerint egyéb szakértőt vehet igénybe. Ha az építésügyi és építésfelügyeleti hatóság eljárásában szakértőt hallgat meg, szakértői véleményt kér, ellenőrzésébe szakértőt von be, a hatóság az ügyfelet a szakértői vizsgálatban való közreműködésre kötelezheti.
+53/A. § Az építésügyi és építésfelügyeleti eljárásokban az eljáró hatóság és szakhatóság az eljárást és annak eljárási cselekményeit elektronikus ügyintézés keretében folytatja le.
 
 53/B. § Azon építési beruházás építésügyi hatósági eljárására, amely legalább – az építésügyi bírság megállapításának részletes szabályairól szóló kormányrendelet szerint számított – 90 millió forint építmény értékű, és ipari vagy szolgáltatási rendeltetésű, a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) rendelkezéseit kell alkalmazni, az Ngtv. 2. §-a kivételével.
 
-53/C. § (1) Amennyiben az eljárásban több mint ötven ügyfél vesz részt, az építésügyi és az építésfelügyeleti hatóság akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja. Az építésügyi hatóság a használatbavételi engedélyezési eljárás során nem tart közmeghallgatást.
+53/C. § (1) A kérelemre indult építésügyi és építésfelügyeleti hatósági eljárás esetében az ügyintézési határidő a kérelemnek a hatósághoz történő beérkezését követő első munkanapon kezdődik.
 
-(2) Az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője az építésügyi hatóság vagy az építésfelügyeleti hatóság jogerős másodfokú döntésének felülvizsgálatát a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással kérheti a közigazgatási ügyekben eljáró bíróságtól a határozatot hozó hatóság elleni kereset indításával.
-
-(3) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban jogerősen elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
-
-(3a) Ha az építésügyi hatóság az engedélyezési eljárásában kormányrendeletben meghatározott szakkérdést vizsgál, az ügyintézési határidő
-
-- a) ipari rendeltetésű vagy mezőgazdasági tevékenység végzésére szolgáló épület esetében 30 nap,
-- b) egyéb esetben 35 nap,
-
-kivéve, ha szakhatósági eljárás lefolytatására is sor kerül.
-
-(3b) Az összevont telepítési eljárás során az építésügyi hatóság számára irányadó ügyintézési határidő
+(2) Az összevont telepítési eljárás során az építésügyi hatóság számára irányadó ügyintézési határidő
 
 - a) a telepítési hatásvizsgálati szakaszban
   - aa) 50 nap,
@@ -1158,43 +1142,29 @@ kivéve, ha szakhatósági eljárás lefolytatására is sor kerül.
   - ba) 25 nap,
   - bb) környezeti hatásvizsgálati eljárás vagy egységes környezethasználati engedélyezési eljárás lefolytatása esetén 85 nap.
 
-(4) Az építésügyi hatósági engedélyezési eljárásokban a részt vevő szakhatóságok ügyintézési határideje a szakhatósági állásfoglalás és az előzetes szakhatósági állásfoglalás kiadása során egységesen huszonegy nap, kivéve, ha az ügyfajtára vonatkozó különös hatósági eljárási szabályokat megállapító jogszabály rövidebb határidőt állapít meg.
+53/D. § (1) Az építésügyi és építésfelügyeleti hatóság az ellenőrzési feladatok tekintetében szakértőként a területi építész és területi mérnöki kamarákat, valamint az országos építész és országos mérnöki kamarákat (a továbbiakban együtt: szakmai kamarák) és a Magyar Kereskedelmi és Iparkamarát vagy jogosult szakintézményt, valamint jogszabályban meghatározottak szerint egyéb szakértőt vehet igénybe.
 
-(5) A használatbavételi engedélyezésben részt vevő szakhatóságok állásfoglalásukban nem írhatnak elő újabb feltételt vagy követelményt az építési engedélyezéshez adott szakhatósági véleményükben meghatározottakhoz képest és nem tagadhatják meg szakhatósági állásfoglalásuk megadását azzal az indokkal, hogy időközben a szakterületre vonatkozó szabályok megváltoztak.
+(2) Ha az építésügyi és építésfelügyeleti hatóság eljárásában szakértőt hallgat meg, szakértői véleményt kér, hatósági ellenőrzésébe szakértőt von be, a hatóság az ügyfelet a szakértői vizsgálatban való közreműködésre kötelezheti.
 
-(6) Ha a szakhatóság a (4) bekezdésben foglalt határidőn belül nem ad ki állásfoglalást, és ellenérdekű ügyfél az első fokú eljárásban nem vesz részt, a hozzájárulását megadottnak kell tekinteni.
+53/E. § (1) A használatbavételi engedélyezési eljárásban részt vevő szakhatóságok állásfoglalásukban nem írhatnak elő újabb feltételt vagy követelményt az építési engedélyezési eljárásban adott szakhatósági véleményükben meghatározottakhoz képest és nem tagadhatják meg szakhatósági állásfoglalásuk megadását azzal az indokkal, hogy időközben a szakterületre vonatkozó szabályok megváltoztak.
 
-(7) Az eljárás megindításáról szabályszerűen értesített ügyfél ügyféli jogait akkor gyakorolhatja, ha az ügyfél az első fokú eljárásban nyilatkozatot tett vagy kérelmet nyújtott be.
+(2) Ha a szakhatóság az eljárására irányadó ügyintézési határidőn belül nem ad ki állásfoglalást, és ellenérdekű ügyfél az elsőfokú eljárásban nem vesz részt, a hozzájárulását megadottnak kell tekinteni.
 
-(8) Az építésügyi hatóság határozata honvédelmi okból akkor nyilvánítható fellebbezésre tekintet nélkül végrehajthatónak, ha az kiemelt fontosságú meglévő honvédelmi területen megvalósuló, és a külön jogszabály szerinti honvédelmi és katonai célú építmény építésügyi hatósági engedélyezésére irányul.
+53/F. § (1) Amennyiben az eljárásban több mint ötven ügyfél vesz részt, az építésügyi és az építésfelügyeleti hatóság akkor tart közmeghallgatást, ha azt a tényállás tisztázása érdekében indokoltnak tartja. Az építésügyi hatóság a használatbavételi engedélyezési eljárás során nem tart közmeghallgatást.
 
-(9) A (8) bekezdésben meghatározott esetben a fellebbezést elbíráló hatóság
+(2) Építésügyi és építésfelügyeleti hatósági eljárásban az ügyfél nyilatkozata nem pótolja a hiányzó bizonyítékot akkor sem, ha annak beszerzése nem lehetséges.
 
-- a) az ügyfél kérelmére a közérdekre tekintettel, vagy abban az esetben, ha az az ügyfél különös méltánylást érdemlő jogának, vagy jogos érdekének érvényesítése érdekében szükséges, vagy
-- b) a szakhatóság felügyeleti szervének kérelmére, ha az ügyben eljáró építésügyi hatóság a szakhatóság állásfoglalását figyelmen kívül hagyta, illetve az eljárását mellőzte
+(3) Az építésügyi hatóság határozata honvédelmi okból akkor nyilvánítható azonnal végrehajthatónak, ha az kiemelt fontosságú meglévő honvédelmi területen megvalósuló, és a külön jogszabály szerinti honvédelmi és katonai célú építmény építésügyi hatósági engedélyezésére irányul.
 
-a határozat végrehajtását felfüggesztheti.
+53/G. § (1) Amennyiben a használatbavételi engedélyezési eljárásban benyújtott fellebbezés és az építésügyi engedélyezési eljárásban elbírált fellebbezés azonos indokokat tartalmaz, a használatbavételi engedélyezési eljárásban másodfokon eljáró hatóság a fellebbezési kérelmet érdemben nem vizsgálja.
 
-(10) Nincs helye fellebbezésnek a másodfokú eljárásban hozott
+(2) Az eljárás megindulásáról szabályszerűen értesített ügyfél ügyféli jogait akkor gyakorolhatja, ha az ügyfél az elsőfokú eljárásban nyilatkozatot tett vagy kérelmet nyújtott be.
 
-- a) a kérelmet érdemi vizsgálat nélkül elutasító,
-- b) az eljárást megszüntető,
-- c) az eljárás felfüggesztése tárgyában hozott,
-- d) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 33/A. §-ban meghatározott fizetési kötelezettséggel kapcsolatos,
-- e) az irat betekintési jog korlátozására irányuló kérelem tárgyában hozott és
-- f) a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló
+53/H. § Az építésügyi és az építésfelügyeleti hatóság eljárást lezáró döntésének véglegessé válásától számított hat hónapot követően új ügyfél nem vehet részt az eljárásban.
 
-első fokú végzés ellen.
-
-(11) Az építésügyi és az építésfelügyeleti hatóság eljárást lezáró döntésének jogerőre emelkedésétől és végrehajthatóvá válásától számított hat hónapot követően új ügyfél nem vehet részt az eljárásban.
-
-(12) Az ügyfél a fellebbezését indokolni köteles, a fellebbezésnek a megtámadott döntéssel tartalmilag összefüggőnek kell lennie, és a fellebbezésben csak a döntésből közvetlenül adódó jog- vagy érdeksérelemre lehet hivatkozni.
-
-53/D. §
+53/I. § Az építésügyi hatóság vagy az építésfelügyeleti hatóság végleges döntését a közlésétől számított tizenöt napon belül lehet megtámadni.
 
 ### III/A. Fejezet
-
-53/E–53/G. §
 
 ### IV. Fejezet — AZ ÉPÍTETT KÖRNYEZET FENNTARTÁSA, HASZNÁLATA ÉS ÉRTÉKEINEK VÉDELME
 
@@ -1274,7 +1244,7 @@ első fokú végzés ellen.
 
 (2) A Kormányhivatal a szakhatósági állásfoglalását hatvan napon belül adja meg. E határidőbe nem számít bele az 57/D. § (4) bekezdése szerinti kiegészítő adatok és információk, illetve vélemények beérkezéséig tartó idő.
 
-(3) Az (1) bekezdésben megjelölt engedélyezési eljárás megindítását megelőzően a kérelmező a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szakhatósági közreműködésre vonatkozó szabályai szerint előzetes szakhatósági hozzájárulás kiadását is kérheti a Kormányhivataltól. Az előzetes szakhatósági hozzájárulás egy éven belül használható fel az (1) bekezdés szerinti építési engedélyezési eljárásban. A szakhatósági hozzájárulás iránti kérelemnek tartalmaznia kell legalább a kereskedelmi építmény és a kapcsolódó kiszolgáló létesítmények látványtervét, főbb adatainak, tervezett méreteinek és várható forgalmának leírását.
+(3) Az (1) bekezdésben megjelölt engedélyezési eljárás megindítását megelőzően a kérelmező az általános közigazgatási rendtartásról szóló törvény szakhatósági közreműködésre vonatkozó szabályai szerint előzetes szakhatósági hozzájárulás kiadását is kérheti a Kormányhivataltól. Az előzetes szakhatósági hozzájárulás egy éven belül használható fel az (1) bekezdés szerinti építési engedélyezési eljárásban. A szakhatósági hozzájárulás iránti kérelemnek tartalmaznia kell legalább a kereskedelmi építmény és a kapcsolódó kiszolgáló létesítmények látványtervét, főbb adatainak, tervezett méreteinek és várható forgalmának leírását.
 
 (3a) Amennyiben az (1) bekezdés szerinti engedélyezési eljárásban a Kormányhivatal szakhatósági állásfoglalása iránti megkeresésnek van helye, az építésügyi hatóság ügyintézési határideje 75 nap, amelybe a Kormányhivatal szakhatósági eljárásának időtartama, de legfeljebb 60 nap beszámít.
 
@@ -1500,7 +1470,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 
 62. § (1) Felhatalmazást kap a Kormány arra, hogy
 
-- 1. az építésügyi és építésfelügyeleti 1.1. hatóságok kijelölését, illetékességi területük lehatárolását, feladat- és hatáskörét, 1.2. hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását, az építési folyamat felügyeletét ellátó döntéshozó és döntést előkészítő köztisztviselők és kormánytisztviselők, valamint állami tisztviselők foglalkoztatási feltételeit, 1.3 hatósági tevékenységet ellátó személyekre vonatkozó összeférhetetlenségi szabályokat, 1.4. hatósági feladatellátás minimális technikai feltételeit, 1.5. vizsga és továbbképzés tartalmát, követelményeit, eljárási szabályait és a vizsgáztató szervek kijelölését,
+- 1. az építésügyi és építésfelügyeleti 1.1. hatóságok kijelölését, illetékességi területük lehatárolását, feladat- és hatáskörét, felügyeleti szervét, 1.2. hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását, az építési folyamat felügyeletét ellátó döntéshozó és döntést előkészítő köztisztviselők és kormánytisztviselők, valamint állami tisztviselők foglalkoztatási feltételeit, 1.3 hatósági tevékenységet ellátó személyekre vonatkozó összeférhetetlenségi szabályokat, 1.4. hatósági feladatellátás minimális technikai feltételeit, 1.5. vizsga és továbbképzés tartalmát, követelményeit, eljárási szabályait és a vizsgáztató szervek kijelölését,
 - 2. az állami és az önkormányzati főépítészi 2.1. tevékenység ellátásának részletes szakmai szabályait, 2.2. tevékenység foglalkoztatási feltételeit, 2.3. vizsga és továbbképzés tartalmát, követelményeit, eljárási szabályait és a vizsgáztató szervek kijelölését, 2.4. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,
 - 3. az építésügyi és építésfelügyeleti hatóság, a szakmai kamarák és a Magyar Kereskedelmi és Iparkamara által az építési folyamat résztvevői tevékenységére vonatkozó szabályok be nem tartása esetén kiszabható bírság mértékét és a szabálytalan tevékenység jogkövetkezménye megállapításának részletes szabályait,
 - 4. a településtervezési, a településrendezési szakértői, az építészeti-műszaki tervezési, az építésügyi műszaki szakértői, az építési műszaki ellenőri és a felelős műszaki vezetői 4.1. tevékenység folytatásának részletes feltételeit, 4.2. tevékenységre vonatkozó szerződések tartalmi követelményeit, a szerződést biztosító mellékkötelezettségre és a szerződés teljesítésére vonatkozó szabályokat, 4.3. tevékenység megkezdésére és folytatására jogosító engedély kiadásának rendjét, 4.4. tevékenységet folytatók névjegyzékét vezető szerv kijelölését, a névjegyzék személyes adatot nem tartalmazó adattartalmát, valamint a névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, 4.5. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,
@@ -1511,12 +1481,12 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 - 9. a Nyilvántartás működésének feltételeit, az adatszolgáltatás, az elektronikus ügyintézés rendjét, a Nyilvántartás használatához kapcsolódó, önköltségszámításon alapuló rendszerhasználati díjat, valamint az adatkezelésben részt vevők feladatait és felelősségét,
 - 10. a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával, építmények, építményszerkezetek veszélyes állapotának megszüntetésével, megelőzésével összefüggő kivételes építési követelményeket, engedélyezési, tudomásulvételi és kötelezési eljárási szabályokat, tervdokumentáció tartalmi követelményeit, a kivételes tervellenőrzési, tervpályázati és tervtanácsi szabályokat, továbbá az építőipari kivitelezési tevékenység eltérő szabályait,
 - 11. az építmények energiahatékonyságának tanúsítását, a tanúsítványok nyilvántartásba vételét és annak szolgáltatási díját, a tanúsítványok minőségellenőrzését, minőségellenőrző szervezet kijelölését,
-- 12. a sajátos építményfajták körébe tartozó honvédelmi, katonai és nemzetbiztonsági célú építményekre vonatkozóan 12.1. az építésügyi és építésfelügyeleti hatóságok kijelölését, 12.2. az építésfelügyeleti tevékenység részletes szakmai szabályait, 12.3. az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó személyek szakirányú felsőfokú végzettségét és szakmai gyakorlatát, 12.4. az építésügyi hatósági engedélyezési és kötelezési eljárások, valamint az építésügyi hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések, valamint az építészeti-műszaki tervek részletes tartalmi követelményeit, továbbá 12.5. az e tevékenységek ellátásához szükséges nyilvántartások létesítésének és működésének sajátos szabályait, 12.6. a 6. § (3) bekezdése szerinti területfelhasználásra és a beépítésre vonatkozó sajátos feltételeket, 12.7. a tömeges bevándorlás okozta válsághelyzetben alkalmazható építésügyi hatósági eljárási szabályokat,
+- 12. a sajátos építményfajták körébe tartozó honvédelmi, katonai és nemzetbiztonsági célú építményekre vonatkozóan 12.1. az építésügyi és építésfelügyeleti hatóságok és felügyeleti szerveik kijelölését és az építésügyi és építésfelügyeleti hatóság eljárására vonatkozó részletes szabályokat, 12.2. az építésfelügyeleti tevékenység részletes szakmai szabályait, 12.3. az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó személyek szakirányú felsőfokú végzettségét és szakmai gyakorlatát, 12.4. az építésügyi hatósági engedélyezési és kötelezési eljárások, valamint az építésügyi hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések, valamint az építészeti-műszaki tervek részletes tartalmi követelményeit, továbbá 12.5. az e tevékenységek ellátásához szükséges nyilvántartások létesítésének és működésének sajátos szabályait, 12.6. a 6. § (3) bekezdése szerinti területfelhasználásra és a beépítésre vonatkozó sajátos feltételeket, 12.7. a tömeges bevándorlás okozta válsághelyzetben alkalmazható építésügyi hatósági eljárási szabályokat,
 - 13. az építőipari kivitelezési tevékenység folytatásával összefüggő 13.1. előírások és feltételek, 13.2. építési folyamat résztvevői feladatának, felelősségének, 13.3. kivitelezési szerződés részletes tartalmi követelményeinek meghatározását, 13.4. építési napló formájának, tartalmának, megnyitásának és vezetésének részletes szabályait, 13.5.
 - 14. az építtetői fedezetkezelés alkalmazásának eseteit, az építtetői fedezetkezelést végzők körét, működésük személyi és tárgyi feltételeit, az építtetői fedezetkezelés résztvevői jogait és kötelezettségeit, az eljárás szabályait, a fedezetkezelő megbízásának, feladatellátásának, díjának és a fedezetkezelői számla kezelésének szabályait,
 - 15. az építőipari kivitelezési folyamat költségtervezési tevékenységének, becsült és tételes árképzésének, ezen belül a rezsióradíj, a többletmunka, pótmunka műszaki tartalmi meghatározásának és elszámolási módjának feltételeit és részletes szabályait,
 - 16. a településrendezési és építészeti-műszaki tervtanácsok 16.1. összetételére, elnökére, a tagokra és a bírálóra, továbbá e személyek összeférhetetlenségére és finanszírozására vonatkozó szabályokat, 16.2. feladatköri és működési területére vonatkozó szabályokat, 16.3. ülésére benyújtandó tervdokumentumok körét, 16.4. eljárási rendjét, a tervtanácsi jegyzőkönyv és a tervtanácsi vélemény tartalmi követelményeit,
-- 17. az építésügyi és az építésfelügyeleti hatósági tevékenység, az építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi, kötelezési és végrehajtási eljárások, a hatósági bizonyítvány kiállításának, valamint az építésügyi és építésfelügyeleti hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések tartalmi követelményeinek részletes szabályait, az elektronikus építésügyi, építésfelügyeleti hatósági ügyintézés részletes szabályait, a szolgáltatásnyújtás részletes szabályait, a nemzetgazdasági szempontból kiemelt beruházások esetében a keresetlevél építésügyi hatóság általi, bírósági felülvizsgálat céljából történő továbbításának szabályait, az építésügyi hatósági eljáráshoz kötött építési tevékenységek körét,
+- 17. az építésügyi és az építésfelügyeleti hatósági tevékenység, az építésügyi és építésfelügyeleti hatósági engedélyezési, tudomásulvételi, kötelezési és végrehajtási eljárások, a hatósági bizonyítvány kiállításának, valamint az építésügyi és építésfelügyeleti hatósági ellenőrzés részletes szakmai szabályait, a hatósági határozatok és végzések tartalmi követelményeinek részletes szabályait, az elektronikus építésügyi, építésfelügyeleti hatósági ügyintézés részletes szabályait, a szolgáltatásnyújtás részletes szabályait, a nemzetgazdasági szempontból kiemelt beruházások esetében a keresetlevél építésügyi hatóság általi, bíróság részére történő továbbításának szabályait, az építésügyi hatósági eljáráshoz kötött építési tevékenységek körét,
 - 18. az építési beruházások megvalósításához szükséges eljárások integrált intézéséhez a közreműködő hatóságok kijelölését és feladatait, az integrált eljárásban a hatóságok együttműködésének közös és különös szabályait, továbbá az integrált eljárás kötelezően alkalmazandó esetköreit,
 - 19. az építészeti-műszaki dokumentációk tartalmi követelményeit, ellenőrzésének módját és eseteit,
 - 20. az építési termékek teljesítményigazolásának, építménybe történő betervezésének és beépítésének részletes szabályait,

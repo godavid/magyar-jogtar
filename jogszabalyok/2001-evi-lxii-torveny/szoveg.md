@@ -250,7 +250,7 @@ Ezek az információk szolgálják
 
 (6a) A (6) bekezdés szerinti nyilvántartás a (2) bekezdésben, a (3) bekezdés e)–g) pontjában, valamint a (6) bekezdés a) és d)–g) pontjában foglalt adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(6b) A nyilvántartó szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, illetőleg a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a büntetőügyben eljáró bíróság, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv részére. A nyilvántartó szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
+(6b) A nyilvántartó szerv a nyilvántartásban tárolt adatokat az igazolvány visszavonásáig, vagy a tulajdonos haláláig kezelheti. A nyilvántartásban kezelt adatokból – a személyes adatok védelméről szóló nemzetközi egyezménnyel összhangban – adat továbbítható a jogosultság ellenőrzésére és a visszaélések megakadályozása céljából a kedvezményt, támogatást nyújtó szerv, a kedvezményeket és támogatásokat nyilvántartó szerv, a diplomáciai és konzuli képviseletek, továbbá a bíróság, az ügyészség, az állami adóhatóság, a nemzetbiztonsági szolgálatok, a bűnüldöző szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, illetve a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv részére. A nyilvántartó szerv a (6) bekezdés szerinti nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (6c) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
@@ -261,18 +261,16 @@ Ezek az információk szolgálják
 - c) az állampolgársági ügyekben eljáró szervtől a magyar állampolgárság tekintetében;
 - d) a központi menekültügyi nyilvántartásból a menekültkénti vagy menedékeskénti elismerésről.
 
-(7a) Az idegenrendészeti hatóság a kiutasításról szóló jogerős határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló jogerős határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.
+(7a) Az idegenrendészeti hatóság a kiutasításról szóló végleges határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló végleges határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.
 
 21/A. § A 21. § (6) bekezdése szerinti közhiteles hatósági nyilvántartásba történő bejegyzés, valamint az onnan való törlés során az alábbi bizonyítási eszközök használhatóak fel:
 
 - a) okirat,
 - b) az ügyfél nyilatkozata.
 
-22. § (1) Az elbíráló hatóság eljárására az államigazgatási eljárás általános szabályairól szóló 1957. évi IV. törvény rendelkezései az irányadók. Az államigazgatási eljárás költségeit az állam viseli.
+22. § (1) A közigazgatási hatósági eljárás költségeit az állam viseli.
 
-(2) A kérelmező az elbíráló hatóságnak az igazolvány kiállításával, illetőleg visszavonásával kapcsolatos első fokú határozata ellen benyújtott fellebbezés nyomán meghozott jogerős közigazgatási határozatával szemben a bírósághoz fordulhat. A bíróság a közigazgatási határozatot megváltoztathatja, eljárására a Pp. rendelkezései az irányadók.
-
-(3) Az elbíráló hatóság eljárásának részletes szabályairól, valamint a kiállított igazolványok nyilvántartásának rendjéről, továbbá az igazolvány adattartalmáról és formájáról külön jogszabály rendelkezik.
+(2) Az elbíráló hatóság eljárásának részletes szabályairól, valamint a kiállított igazolványok nyilvántartásának rendjéről, továbbá az igazolvány adattartalmáról és formájáról jogszabály rendelkezik.
 
 ### A kedvezmények biztosítása Magyarország területén
 

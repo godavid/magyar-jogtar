@@ -131,9 +131,9 @@ kapcsolatos ügyek.
 
 ### A közigazgatási hatósági eljárás általános szabályainak alkalmazása
 
-17. § (1) A Szellemi Tulajdon Nemzeti Hivatala a topográfia oltalmával összefüggő ügyekben – az e törvényben meghatározott eltérésekkel – a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint jár el.
+17. § (1) A Szellemi Tulajdon Nemzeti Hivatala a topográfia oltalmával összefüggő ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala döntései ellen nincs helye fellebbezésnek, újrafelvételi és felügyeleti eljárásnak, valamint ügyészi felhívásnak.
+(2) A Szellemi Tulajdon Nemzeti Hivatala döntéseivel kapcsolatban nincs helye fellebbezésnek, közigazgatási pernek, felügyeleti eljárásnak, valamint az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatalának a topográfia oltalmával összefüggő ügyekben hozott döntéseit a bíróság a 23. §-ban foglaltak szerint vizsgálja felül.
 
@@ -191,7 +191,7 @@ kapcsolatos ügyek.
 
 - a) a 17. § (4) bekezdésében felsorolt döntéseit;
 - b) az eljárást felfüggesztő és a lajstromba való bejegyzés tárgyában hozott döntését;
-- c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye;
+- c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint önálló jogorvoslatnak van helye;
 - d) az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzését;
 - e) az eljárási bírságot kiszabó, valamint az eljárási költség megállapításának és viselésének kérdésében hozott döntését.
 
@@ -214,13 +214,30 @@ kapcsolatos ügyek.
 - a) ez a későbbi, mint a (6) bekezdés szerinti döntés közlésének napja, és
 - b) az eljárás folytatása iránti kérelmet vagy az igazolási kérelmet olyan mulasztás következményeinek az elhárítására terjesztették elő, amely közvetlenül a (6) bekezdés szerinti döntés alapjául szolgált.
 
-(8) Ha a Szellemi Tulajdon Nemzeti Hivatala döntésének a megváltoztatását a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezései szerint az Alkotmánybíróság határozata alapján kérik, a megváltoztatási kérelem előterjesztésének határideje az alkotmánybírósági döntés kézbesítésétől számított harminc napra ismételten megnyílik.
+(8)
 
 (9) A megváltoztatási kérelem a Szellemi Tulajdon Nemzeti Hivatalánál nyújtható be, amely azt az ügy irataival együtt – a (10) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű fél vett részt, a Szellemi Tulajdon Nemzeti Hivatala a megváltoztatási kérelem továbbításáról egyidejűleg az ellenérdekű felet is értesíti.
 
 (10) Ha a megváltoztatási kérelem elvi jelentőségű jogkérdést vet fel, a Szellemi Tulajdon Nemzeti Hivatala e kérdésben írásbeli nyilatkozatot tehet, és azt a megváltoztatási kérelemmel, valamint az ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
-(11) A megváltoztatási kérelem kellékeire a keresetlevélre vonatkozó szabályok megfelelően irányadók.
+(11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
+
+- a) az eljáró bíróság megnevezését,
+- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+
+(11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
+
+- a) a megváltoztatási kérelemmel érintett döntés számát, szükség esetén – ha rendelkezésre áll – a lajstromszámot, valamint a döntésnek a megváltoztatási kérelem által érintett rendelkezését vagy részét,
+- b) a döntés bíróság általi megváltoztatására irányuló határozott kérelmet, valamint
+- c) a döntés megváltoztatásának szükségességét alátámasztó indokokat az ezeket alátámasztó bizonyítékokkal és a jogalap megjelölésével.
+
+(11b) A megváltoztatási kérelem záró részében fel kell tüntetni:
+
+- a) a bíróság hatáskörét és illetékességét megalapozó tényeket és jogszabályhelyet,
+- b) a megfizetett illeték összegét és megfizetésének módját, vagy az eljárási illeték részleges megfizetése esetén a költségkedvezmény engedélyezése iránti kérelmet, illetve jogszabály által biztosított illetékfizetés alóli mentesülés esetén az ennek alapjául szolgáló tényeket és jogszabályhelyet,
+- c) a meghatalmazott képviseleti jogát megalapozó tényeket és jogszabályhelyet, valamint
+- d) a záró részben feltüntetett tényeket alátámasztó bizonyítékokat.
 
 (12) Ha a megváltoztatási kérelmet elkésetten nyújtották be, az igazolási kérelem tárgyában a bíróság határoz.
 
@@ -230,7 +247,7 @@ kapcsolatos ügyek.
 
 24. § (1) A bitorlás miatt indított perekre a szabadalmi perek szabályait kell megfelelően alkalmazni.
 
-(2) Az oltalommal összefüggő minden más jogvitás ügyben a törvényszék a szabadalmi jogvitákra irányadó szabályok szerint jár el.
+(2) Az oltalommal összefüggő minden más jogvitás ügyben a bíróság a szabadalmi jogvitákra irányadó szabályok szerint jár el.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -239,3 +256,5 @@ kapcsolatos ügyek.
 (2) Az oltalom bitorlása miatt csak a törvény hatálybalépése után megkezdett hasznosítás tekintetében lehet fellépni.
 
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben – a topográfia oltalmára irányuló bejelentés részletes alaki szabályait rendelettel megállapítsa.
+
+26. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.

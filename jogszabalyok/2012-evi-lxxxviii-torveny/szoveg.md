@@ -239,7 +239,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (6) Amennyiben a piacfelügyeleti hatóság az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban gyártott termék forgalomból történő kivonásáról dönt, úgy köteles a rendelkezésre álló elérhetőségen az eljárás során ismertté vált gyártót a döntés meghozatalát követő 3 napon belül írásban tájékoztatni.
 
-(7) A piacfelügyeleti hatóság a fogyasztók, felhasználók testi épségének, egészségének védelme érdekében, továbbá a fogyasztók, felhasználók széles körét érintő kárral fenyegető veszély elhárítása érdekében az ügydöntő határozat meghozataláig terjedő időtartamra fellebbezésre tekintet nélkül végrehajtható végzésben elrendelheti a 15. § (2) bekezdés a), b), c) és g) pontjában foglalt jogkövetkezmények alkalmazását.
+(7) A piacfelügyeleti hatóság a fogyasztók, felhasználók testi épségének, egészségének védelme érdekében, továbbá a fogyasztók, felhasználók széles körét érintő kárral fenyegető veszély elhárítása érdekében az ügydöntő határozat meghozataláig terjedő időtartamra azonnal végrehajtható végzésben elrendelheti a 15. § (2) bekezdés a), b), c) és g) pontjában foglalt jogkövetkezmények alkalmazását.
 
 17. § (1) A piacfelügyeleti hatóság határozatának és a 16. § (7) bekezdése szerinti végzésének kivonatát – jogorvoslatra tekintet nélkül – honlapján közzéteszi, ha eljárása során megállapítja, hogy a vizsgált termék nem felel meg a biztonságossági követelményeknek.
 
@@ -247,28 +247,44 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 - a) a közzététel napját,
 - b) a közzététel e törvény szerinti jogcímét,
-- c) a jogerő beálltára vagy annak hiányára történő utalást,
+- c) a véglegessé válásra vagy annak hiányára történő utalást,
 - d) az eljáró hatóság megnevezését,
 - e) az ügy számát és tárgyát,
 - f) a jogsértő gazdasági szereplő nevét és székhelyét,
 - g) a vizsgált termék nem megfelelőségére vonatkozó megállapításokat,
 - h) a megsértett jogszabályi rendelkezések megjelölését,
-- i) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló rendelkezést, valamint
+- i) a döntés rendelkező részét, ide nem értve véglegessé vált döntés esetén a jogorvoslatról szóló rendelkezést, valamint
 - j) a döntéssel szembeni jogorvoslati eljárás tényét.
 
 (3) A piacfelügyeleti hatóság az (1) bekezdés alapján közzétett kivonatot a közzétételtől számított hat hónap elteltével vagy annak okafogyottá válásakor honlapjáról eltávolítja.
 
 (4) A piacfelügyeleti hatóság piacfelügyeleti eljárásában az ügyintézési határidő 70 nap. Az ügyintézési határidőbe nem számít bele a 18. § szerinti tárgyalás időtartama.
 
-(5) A piacfelügyeleti hatóság eljárása során – e törvény eltérő rendelkezése hiányában – a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(5) A piacfelügyeleti hatóság eljárása során – e törvény eltérő rendelkezése hiányában – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) és a fogyasztóvédelemről szóló 1997. évi CLV. törvény rendelkezéseit kell alkalmazni.
 
 #### 10/A. Egyes termékek piacfelügyeleti ellenőrzésével kapcsolatos különös rendelkezések
 
-17/A. § (1) Felvonót és mozgólépcsőt létesíteni, áthelyezni, átalakítani, a létesítést követően használatba venni és műszaki biztonságtechnikai felülvizsgálatukat elvégezni az e törvény végrehajtására kiadott kormányrendeletben meghatározott közigazgatási hatóság engedélyével (nyilvántartásba vételével) lehet.
+17/A. § (1) Felvonót, mozgólépcsőt, mozgójárdát (a továbbiakban együtt: berendezés) létesíteni, áthelyezni, átalakítani, a létesítést követően használatba venni és műszaki biztonságtechnikai felülvizsgálatukat elvégezni az e törvény végrehajtására kiadott kormányrendeletben meghatározott közigazgatási hatóság engedélyével (nyilvántartásba vételével) lehet.
 
-(2) A műszaki biztonsági hatóság közhitelű hatósági nyilvántartást vezet a felvonók és mozgólépcsők kötelező műszaki biztonságtechnikai felülvizsgálatát végző ellenőrökről (a továbbiakban: ellenőrök). A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az ellenőr nevét, születésének helyét és időpontját, az ellenőr képesítésének megnevezését, az általa végezhető tevékenységek meghatározását.
+(2) A műszaki biztonsági hatóság közhiteles hatósági nyilvántartást vezet a berendezések kötelező műszaki biztonságtechnikai felülvizsgálatát végző ellenőrökről (a továbbiakban: ellenőrök). A nyilvántartás – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az ellenőr nevét, születésének helyét és időpontját, az ellenőr képesítésének megnevezését, az általa végezhető tevékenységek meghatározását.
 
-(3) A műszaki biztonsági hatóság az ellenőrök jegyzékét honlapján közzéteszi, amely tartalmazza az ellenőr nevét, az ellenőri engedély számát, továbbá – ha ahhoz az ellenőr előzetesen hozzájárult – a hatósági nyilvántartásba bejelentett lakcímét, székhelyét, a telefonszámát, a faxszámát és az elektronikus postacímét.
+(3) A műszaki biztonsági hatóság az ellenőrök jegyzékét honlapján közzéteszi, amely tartalmazza az ellenőr nevét, az ellenőri engedély számát, továbbá – ha ahhoz az ellenőr előzetesen hozzájárult – a hatósági nyilvántartásba bejelentett lakcímét, székhelyét, a telefonszámát és az elektronikus levélcímét.
+
+17/B. § (1) Aki
+
+- a) a berendezés létesítésére, vagy üzembe helyezésére, üzemeltetésére, alkalmasságának ellenőriztetésére vonatkozó,
+- b) – a berendezésnek a hatóság, a nyilvántartott szervezet, az ellenőr, a karbantartó dokumentált intézkedésének eredményeként történő leállításának esetkörét kivéve – a biztonságtechnikai felülvizsgálatára vonatkozó, vagy
+- c) a felvonókról, mozgólépcsőkről és mozgójárdákról szóló kormányrendeletben meghatározott esetekben a bejelentésre vonatkozó
+
+kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-biztonsági hatóság közigazgatási bírsággal sújtja.
+
+(2) Az (1) bekezdésben meghatározott esetben a műszaki-biztonsági hatóság az eset összes körülményeire tekintettel dönt a bírság kiszabásáról és a bírság összegének meghatározásáról. Ennek keretében mérlegeli különösen:
+
+- a) a jogsértéssel okozott hátrányt (ideértve a hátrány megelőzésével, elhárításával, helyreállításával kapcsolatban felmerült költségeket) és a jogsértéssel elért előny mértékét,
+- b) a jogsértéssel okozott hátrány visszafordíthatóságát,
+- c) a jogsértéssel érintettek körének nagyságát,
+- d) a jogsértő állapot időtartamát,
+- e) a jogsértő magatartás ismétlődését és gyakoriságát.
 
 #### 11. Korlátozó intézkedésekre vonatkozó különös előírások
 
@@ -276,7 +292,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (2) Amennyiben a gazdasági szereplő a döntés meghozatalát megelőzően kérte tárgyalás keretében történő meghallgatását, és azt az (1) bekezdés nem zárja ki, akkor a tárgyalásra a vonatkozó kérelem beérkezésétől számított 10 napot meghaladó időtartamon túl kell lehetőséget biztosítani. A gazdasági szereplő kérésére a tárgyalás ennél rövidebb időtartamon belül is megtartható. A gazdasági szereplő az (1) bekezdésben meghatározott tájékoztatás kézhezvételét követő 5 napon belül jogosult tárgyalás tartását kérni.
 
-(3) Amennyiben a döntés meghozatalára az (1) bekezdés alapján tárgyalás tartása nélkül került sor, akkor a gazdasági szereplő a döntés kézhezvételét követő 5 napon belül jogosult tárgyalás tartását kérni és a döntés felülvizsgálatát kezdeményezni. A piacfelügyeleti hatóság a tárgyalás megtartásáról, valamint a döntés felülvizsgálatáról haladéktalanul intézkedik. A piacfelügyeleti hatóság és a gazdasági szereplő a tárgyalás időpontjáról a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény kapcsolattartásra vonatkozó általános szabályai útján egyeztet.
+(3) Amennyiben a döntés meghozatalára az (1) bekezdés alapján tárgyalás tartása nélkül került sor, akkor a gazdasági szereplő a döntés kézhezvételét követő 5 napon belül jogosult tárgyalás tartását kérni és a döntés felülvizsgálatát kezdeményezni. A piacfelügyeleti hatóság a tárgyalás megtartásáról, valamint a döntés felülvizsgálatáról haladéktalanul intézkedik. A piacfelügyeleti hatóság és a gazdasági szereplő a tárgyalás időpontjáról az Ákr. kapcsolattartásra vonatkozó általános szabályai útján egyeztet.
 
 (4) A (3) bekezdés szerinti esetben a tárgyalást az erre irányuló kérelem beérkezését követő 15 napon belül kell megtartani. A tárgyalás során lehetőséget kell biztosítani arra, hogy a gazdasági szereplő álláspontját előadja, továbbá bizonyítékait bemutathassa. A tárgyalásról és annak eredményéről a piacfelügyeleti hatóság köteles jegyzőkönyvet felvenni, amelynek egy példányát a meghallgatott vagy képviselője részére át kell adni, vagy meg kell küldeni részére.
 
@@ -326,7 +342,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (2) A KPIR működtetéséért felelős fogyasztóvédelmi hatóság a termékek biztonságosságára vonatkozóan tudomására jutott adatok alapján haladéktalanul tájékoztatja a piacfelügyeleti hatóságot, az országos gazdasági kamarát és a vámhatóságot, vagy ha az ügy más szerv hatáskörébe tartozik, megkeresi az eljárásra jogosult hatóságot.
 
-25. § (1) Mindazon termékekre, amelyek forgalmazására a piacfelügyeleti hatóság döntésében rendelkezést hoz, a KPIR-ben adatbázis létesül. Az adatbázis tartalmazza a termék azonosítására alkalmas adatokat, így különösen a termék pontos megnevezését, származási helyét, a gyártás időpontját, a gyártó, forgalmazó nevét, címét, a jogerős közigazgatási határozat számát, keltét. Ezen termék tekintetében a KPIR működtetéséért felelős fogyasztóvédelmi hatóság és a piacfelügyeleti hatóság információcseréje kölcsönös és kötelező.
+25. § (1) Mindazon termékekre, amelyek forgalmazására a piacfelügyeleti hatóság döntésében rendelkezést hoz, a KPIR-ben adatbázis létesül. Az adatbázis tartalmazza a termék azonosítására alkalmas adatokat, így különösen a termék pontos megnevezését, származási helyét, a gyártás időpontját, a gyártó, forgalmazó nevét, címét, a véglegessé vált közigazgatási határozat számát, keltét. Ezen termék tekintetében a KPIR működtetéséért felelős fogyasztóvédelmi hatóság és a piacfelügyeleti hatóság információcseréje kölcsönös és kötelező.
 
 (2) A természetes személyek esetében a személyes adatok nyilvántartásba vételéhez, valamint azok nyilvánosságra hozatalához szükséges az érintett az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti hozzájárulása.
 
@@ -401,11 +417,15 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 - b) az importtermékek ellenőrzésével kapcsolatos részletes szabályokat;
 - c) a megjelenésükben másnak látszó és ezáltal a fogyasztó egészségét vagy biztonságát veszélyeztető termékek forgalmazására és ellenőrzésére, továbbá az alkalmazható jogkövetkezményekre vonatkozó részletes szabályokat, valamint
 - d) a felvonók és mozgólépcsők létesítésével összefüggő engedélyezésre, üzemeltetésére, ellenőrzésére, az eljáró hatóság kijelölésére, feladataira és eljárására, a felvonó szakértői, tervezői és ellenőri tevékenységre, a felvonók és mozgólépcsők (mozgójárdák), valamint az ezekhez kapcsolódó intézkedések nyilvántartására vonatkozó részletes szabályokat,
-- e) a műszaki-biztonsági hatósági felügyelet alatt álló berendezések létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszer követelményeit és a hatósági jóváhagyás és felügyelet feltételeit
+- e) a műszaki-biztonsági hatósági felügyelet alatt álló berendezések létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszer követelményeit és a hatósági jóváhagyás és felügyelet feltételeit,
+- f) berendezés létesítésére, üzembe helyezésére, üzemeltetésére, alkalmasságának ellenőriztetésére, biztonságtechnikai felülvizsgálatára és bejelentésére vonatkozó kötelesség megszegése esetén a műszaki-biztonsági hatóság által kiszabható bírság megállapításának részletes szabályait,
+- g) a piacfelügyeleti hatóság által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokat
 
 rendeletben határozza meg.
 
 (1a) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a nyilvántartott szervezetek és a felvonó- és mozgólépcső ellenőrök engedélyezéséért és a nyilvántartásba vételért, a felvonók és mozgólépcsők nyilvántartásának vezetéséért, beleértve a nyilvántartásba vételt is, továbbá a felvonók és mozgólépcsők létesítésének, használatbavételének, áthelyezésének, átalakításának, megszüntetésének és ismételt üzemeltetésének engedélyezéséért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+
+(1b) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (2) Felhatalmazást kap a termék tekintetében szabályozási feladatkörrel rendelkező miniszter, hogy
 
@@ -416,6 +436,8 @@ rendeletben határozza meg.
 
 rendeletben határozza meg.
 
+30/A. § A műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának, valamint a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalának hatáskörébe tartozó műszaki biztonsági hatósági eljárásokban a hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
+
 #### 19. Hatálybalépés
 
 31. § Ez a törvény 2012. szeptember 1-jén lép hatályba.
@@ -423,6 +445,8 @@ rendeletben határozza meg.
 #### 20. Átmeneti rendelkezés
 
 32. § E törvény rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+32/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 21. Módosító rendelkezések
 

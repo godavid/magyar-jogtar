@@ -93,7 +93,7 @@ gyakorolja.
 
 (9) Amennyiben a (4) bekezdés b) pontja alapján nem jelölhető ki olyan szolgáltató, amely – az (5) bekezdés szerinti határozaton alapuló ingyenes vagyonhasználati lehetőség figyelembevételével – rendelkezik a szakellátási feladat ideiglenes ellátásához szükséges személyi és tárgyi feltételekkel és a (4) bekezdés c) pontja sem alkalmazható, a folyamatos ellátás biztosítása érdekében az egészségügyi válsághelyzetre vonatkozó szabályok szerint kell – az Eütv.-ben meghatározottak szerint – eljárni, ha annak a jogszabályban meghatározott egyéb feltételei fennállnak.
 
-(10) A (4) és az (5) bekezdés alapján hozott határozatok ellen fellebbezésnek és a határozatokkal szembeni bírósági felülvizsgálati eljárásban a határozat végrehajtása felfüggesztésének nincs helye.
+(10) A (4) és az (5) bekezdés alapján hozott határozatok ellen fellebbezésnek és a határozatokkal szembeni közigazgatási perben a határozat végrehajtása felfüggesztésének nincs helye.
 
 (11) Ha a szakellátási feladatnak az állam által – a (2) bekezdés alapján – történő átvételét követő 3. hónap utolsó napját követően
 
@@ -401,7 +401,7 @@ fennállása esetén.
 
 (3) Az egészségügyi államigazgatási szerv a (2) bekezdés szerinti javaslat alapján negyvenöt napon belül dönt a kapacitásfelosztás módosításáról.
 
-(4) Az egészségügyi államigazgatási szerv a jogerős határozatot megküldi az egészségügyért felelős miniszternek, a határozat jogerőre emelkedéséről tájékoztatja az egészségbiztosítót.
+(4) Az egészségügyi államigazgatási szerv a végleges határozatot megküldi az egészségügyért felelős miniszternek, a határozat véglegessé válásáról tájékoztatja az egészségbiztosítót.
 
 (5) Az (1)–(4) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója, az egészségbiztosító és az ellátási kötelezettséggel érintett helyi önkormányzat.
 
@@ -470,7 +470,7 @@ fennállása esetén.
 
 (7a) A kapacitásokat és az ellátási területeket érintő változásokat a kapacitás-nyilvántartásban a változás hatálybalépésével egyidejűleg át kell vezetni.
 
-(7b) A kapacitás-nyilvántartásba való bejegyzésre, valamint az onnan való törlésre irányuló eljárás során a hatóság kizárólag okirati bizonyítékot, valamint az ügyfél nyilatkozatát használhatja fel.
+(7b)
 
 (8) A kapacitás-nyilvántartás tartalmazza
 
@@ -559,7 +559,7 @@ fennállása esetén.
 - b) egészségügyi szolgáltatók közös fenntartója, ha több érintett szolgáltatónak ugyanaz a fenntartója,
 - c) települési önkormányzatok.
 
-(3) Abban az esetben, ha az érintett egészségügyi szolgáltatók fenntartói – megállapodás hiányában – nem tudtak a (2) bekezdés a) pontja alapján közösen kérelmet benyújtani, a kérelmet az érintett fenntartók bármelyike külön is benyújthatja azzal, hogy az eljárás során az egyezség érdekében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 64. és 75. §-át alkalmazni kell.
+(3) Abban az esetben, ha az érintett egészségügyi szolgáltatók fenntartói – megállapodás hiányában – nem tudtak a (2) bekezdés a) pontja alapján közösen kérelmet benyújtani, a kérelmet az érintett fenntartók bármelyike külön is benyújthatja.
 
 (4) Az egészségügyi államigazgatási szerv hivatalból állapítja meg, illetve módosítja az ellátási területet, ha az jogszabályváltozás, vagy a kapacitást érintő e törvény szerinti módosulás miatt, illetve ellátási érdekből szükséges.
 
@@ -572,9 +572,9 @@ fennállása esetén.
 
 (7) Az 5/A. § szerinti és az (1)–(6) bekezdés szerinti eljárásban ügyfél az egészségügyi szolgáltató, annak fenntartója, az egészségbiztosító, valamint annak a településnek az önkormányzata, amelyikre az egészségügyi szolgáltató területi ellátási kötelezettsége kiterjed.
 
-6. § (1) A kapacitásokat és az ellátási területet érintő e törvény szerinti eljárásokban hozott döntések ellen fellebbezésnek nincs helye. A kapacitásokat és az ellátási területeket megállapító határozatok jogerőre emelkedésével, illetve ha ettől eltérő teljesítési határidő kerül megállapításra, a teljesítési határidővel egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik.
+6. § (1) A kapacitásokat és az ellátási területet érintő e törvény szerinti eljárásokban hozott döntések ellen fellebbezésnek nincs helye. A kapacitásokat és az ellátási területeket megállapító határozatok véglegessé válásával, illetve ha ettől eltérő teljesítési határidő kerül megállapításra, a teljesítési határidővel egyidejűleg az adott szolgáltatók kapacitásai és ellátási területei tárgyában korábban hozott határozatok hatályukat vesztik.
 
-(2) A szakellátási kapacitást, illetve ellátási területet megállapító, illetve módosító határozattal szembeni bírósági felülvizsgálati eljárásban nincs helye a határozat végrehajtása felfüggesztésének.
+(2) A szakellátási kapacitást, illetve ellátási területet megállapító, illetve módosító határozat elleni perben nincs helye azonnali jogvédelemnek. A döntést a bíróság nem változtathatja meg.
 
 (3) A szakellátási kapacitások, illetve az ellátási területek megállapítására, illetve módosítására irányuló eljárásokban a Kormány által kijelölt szakértő szervet díjazás és költségtérítés nem illeti meg.
 
@@ -592,7 +592,7 @@ fennállása esetén.
 
 (6)
 
-(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv negyvenöt napon belül dönt.
+(7) A kérelmet az egészségügyi államigazgatási szervhez kell benyújtani. Az egészségügyi államigazgatási szerv a döntést megelőzően kikéri az egészségbiztosító véleményét. Az egészségügyi államigazgatási szerv ötvenöt napon belül dönt.
 
 (8)
 
@@ -626,7 +626,7 @@ Egészségbiztosítási Alap terhére történő külön jogszabály szerinti fi
 
 amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatározott feltételeknek.
 
-(3) A kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható a még nem jogerős határozat, illetve működési engedély módosítás alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat, illetve a működési engedély módosítás jogerőre emelkedése napján válhat hatályossá.
+(3) A kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható a még nem végleges határozat, illetve működési engedély módosítás alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat, illetve a működési engedély módosítás véglegessé válása napján válhat hatályossá.
 
 8/A. §
 
@@ -700,7 +700,7 @@ köteles a számviteli jogszabályok szerinti beszámolóját könyvvizsgálóva
 
 (2) A könyvvizsgálatra, illetve a könyvvizsgálóval szembeni követelményekre a számviteli jogszabályok, valamint a Magyar Könyvvizsgálói Kamaráról és a könyvvizsgálói tevékenységről szóló törvény előírásait kell megfelelően alkalmazni.
 
-(3) Az e törvény alapján lefolytatott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3) Az e törvény alapján lefolytatott eljárásokban a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 13. § (1) Annak az egészségügyi szolgáltatónak a vezetője, amely
 

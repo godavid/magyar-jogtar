@@ -102,7 +102,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) A nyilatkozat elfogadása esetén az állampolgársági ügyekben eljáró szerv bizonyítványban igazolja az állampolgárság megszerzését.
 
-(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a nyilatkozat elfogadásának feltételei hiányoznak, beleértve a 13–15. §-okban a kérelem benyújtására előírtakat. A határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
 
 ### Hatásköri szabályok, eskü és fogadalom
 
@@ -139,7 +139,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 (2) Ha az (1) bekezdésben megállapított feltételek fennállnak, az állampolgársági ügyekben eljáró szerv javaslatára a miniszter előterjesztést tesz a köztársasági elnöknek a lemondás elfogadására. A magyar állampolgárság lemondással való megszűnéséről a köztársasági elnök okiratot ad ki. A magyar állampolgárság az okirat kiállítása napján szűnik meg.
 
-(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(3) Az állampolgársági ügyekben eljáró szerv határozatban állapítja meg, ha a lemondás elfogadásának feltételei hiányoznak. A határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
 
 (4) A lemondás elfogadásától számított három éven belül kérheti a köztársasági elnöktől magyar állampolgárságának visszaállítását az, aki nem szerzett külföldi állampolgárságot.
 
@@ -147,7 +147,7 @@ Az Országgyűlés a magyar állampolgárság erkölcsi súlyának megőrzése �
 
 9. § (1) A magyar állampolgárság visszavonható attól a személytől, aki magyar állampolgárságát a jogszabályok megszegésével, így különösen valótlan adatok közlésével, illetve adatok vagy tények elhallgatásával a hatóságot félrevezetve szerezte meg. Nincs helye a visszavonásnak a magyar állampolgárság megszerzésétől számított tíz év elteltével.
 
-(2) Az állampolgárság visszavonására okot adó tény fennállását az állampolgársági ügyekben eljáró szerv határozattal állapítja meg. A határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(2) Az állampolgárság visszavonására okot adó tény fennállását az állampolgársági ügyekben eljáró szerv határozattal állapítja meg. A határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
 
 (3) A magyar állampolgárság visszavonással történő megszüntetéséről — a miniszter előterjesztése alapján — a köztársasági elnök dönt.
 
@@ -181,7 +181,7 @@ igazolható.
 - e) a döntéshozatal helyét, idejét, a kiadmányozó nevét, hivatali beosztását és a hatóság bélyegzőlenyomatát,
 - f) az állampolgársági bizonyítvány érvényességi idejét.
 
-(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozat felülvizsgálata a Fővárosi Közigazgatási és Munkaügyi Bíróságtól kérhető.
+(4) Az állampolgársági bizonyítvány, továbbá az állampolgársági bizonyítvány kiadása iránti kérelmet elutasító határozattal szemben indított közigazgatási perre a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes.
 
 (5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi kérelem nem nyújtható be.
 
@@ -248,6 +248,8 @@ ellátva kell csatolni.
 
 (4) Ha az állampolgársági eskü vagy fogadalom letételére a felhívás kézbesítésétől számított egy éven belül, a kérelmező hibájából nem kerül sor, a honosítási, visszahonosítási határozat hatályát veszti. Ha a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított személy a (3) bekezdés szerinti kérelmet terjeszt elő, akkor a határidőt az első felhívás kézbesítésétől kell számítani.
 
+16/A. § Az állampolgársági eljárásban – a tájékoztatást kivéve – az állampolgársági ügyekben eljáró szerv elektronikus úton nem tart kapcsolatot.
+
 17. § (1) Az állampolgársági ügyekben eljáró szerv hatvan napon belül adja ki az 5/A. § (2) bekezdésében meghatározott bizonyítványt, vagy hozza meg az 5/A. § (3) bekezdése szerinti határozatot.
 
 (2) A miniszter a 6. § (1) bekezdésében foglalt előterjesztést három hónapon belül nyújtja be a köztársasági elnöknek.
@@ -274,6 +276,20 @@ ellátva kell csatolni.
 (9) Az állampolgársági bizonyítvány kiadása iránti kérelem esetén az állampolgársági ügyekben eljáró szerv a kérelem érdemi vizsgálat nélküli elutasításáról, az eljárás megszüntetéséről és felfüggesztéséről, valamint az eljárási költség viselése tekintetében végzéssel dönt.
 
 (10) Az állampolgársági ügyekben eljáró szerv döntésével szemben nincs helye fellebbezésnek.
+
+17/A. § (1) Az állampolgársági ügyekben eljáró szerv a nyilatkozattal, a lemondással és a magyar állampolgárság visszavonásával összefüggésben hozott határozatát közli azzal a természetes személlyel, akire nézve az rendelkezést tartalmaz.
+
+(2) Az állampolgársági ügyekben eljáró szerv a közlés érdekében a döntését postai úton az általa ismert összes külföldi és belföldi címre két alkalommal kísérli meg kézbesíteni.
+
+(3) Ha a közlés postai úton eredménytelen volt, az állampolgársági ügyekben eljáró szerv hirdetményi úton – a hivatalos honlapján történő közzététellel – közli a döntését. A döntés közlésének napja a hirdetmény közzétételét követő negyvenötödik nap.
+
+(4) A hirdetmény tartalmazza
+
+- a) a honlapon történő közzététel napját,
+- b) az eljáró hatóság megnevezését,
+- c) az ügy számát és tárgyát,
+- d) az (1) bekezdésben meghatározott természetes személy nevét és ismert lakcímét, továbbá
+- e) azt a figyelemfelhívást, hogy az állampolgársági ügyekben eljáró szerv döntést hozott, de annak kézbesítése akadályba ütközött, ezért a döntés az eljáró hatóságnál átvehető.
 
 ### Adatvédelem, adatszolgáltatás
 
@@ -338,7 +354,7 @@ ellátva kell csatolni.
 
 21. §
 
-22. § Az e törvény rendelkezései alapján indított perekben — ha e törvény másként nem rendelkezik — a polgári perrendtartásról szóló 1952. évi III. törvény XX. fejezetét kell alkalmazni.
+22. § Az e törvény rendelkezései alapján indított perekben — ha e törvény másként nem rendelkezik — a közigazgatási perrendtartásról szóló törvényt kell alkalmazni.
 
 23. § (1) E törvény alkalmazásában – a lakcímbejelentés napjától – Magyarországon lakik az a lakóhellyel rendelkező nem magyar állampolgár,
 

@@ -157,7 +157,7 @@ Az Országgyűlés tekintettel arra, hogy a természeti örökség és a környe
 
 (7) A környezeti információval rendelkező szerv az információ megismerésre vonatkozó igény beérkezésétől számított 5 napon belül felhívja az igénylőt az igénye pontosítására, ha az túlzottan általános vagy tartalma alapján a megismerni kívánt környezeti információ nem állapítható meg.
 
-(8) A közigazgatási hatósági eljárás általános szabályairól szóló törvény hatálya alá tartozó olyan jogerős vagy fellebbezésre tekintet nélkül végrehajthatóvá nyilvánított határozatot, illetve környezetvédelmi hatósági szerződést közzé kell tenni, amelynek végrehajtása jelentős környezeti hatással jár.
+(8) Az olyan végleges vagy azonnal végrehajthatóvá nyilvánított határozatot, valamint a környezetvédelmi hatósági szerződést a környezetvédelmi hatóság honlapján nyilvánosságra kell hozni, amelynek végrehajtása jelentős környezeti hatással jár.
 
 (9) A környezethasználó köteles az általa okozott környezetterheléssel, környezet igénybevétellel, valamint környezetveszélyeztetéssel összefüggő adatokról kérelemre bárkinek tájékoztatást adni. A tájékoztatási kötelezettség megszegése esetén a környezethasználó törvényességi felügyeletét ellátó szerv intézkedése kezdeményezhető.
 
@@ -724,7 +724,7 @@ véleményezésre megküldi.
 
 ### Környezeti adatok bejegyzése egyéb nyilvántartásokba
 
-52. § (1) Jogerős hatósági vagy bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét az ingatlan-nyilvántartásban fel kell tüntetni.
+52. § (1) Véglegessé vált hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás tényét, mértékét és jellegét az ingatlan-nyilvántartásban fel kell tüntetni.
 
 (2) A bejegyzést a környezetvédelmi hatóság kezdeményezi, illetve azt – felelősség bírósági megállapítása esetén – a bíróság hivatalból rendeli el.
 
@@ -784,8 +784,8 @@ véleményezésre megküldi.
 
 (2) A települési önkormányzati környezetvédelmi alap bevételei:
 
-- a) a települési önkormányzat által jogerősen kiszabott környezetvédelmi bírság teljes összege,
-- b) az illetékes környezetvédelmi hatóság által a települési önkormányzat területén jogerősen kiszabott környezetvédelmi bírságok összegének harminc százaléka a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben jogerősen kiszabott környezetvédelmi bírságok kivételével,
+- a) a települési önkormányzat által véglegesen kiszabott környezetvédelmi bírság teljes összege,
+- b) az illetékes környezetvédelmi hatóság által a települési önkormányzat területén véglegesen kiszabott környezetvédelmi bírságok összegének harminc százaléka a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben véglegesen kiszabott környezetvédelmi bírságok kivételével,
 - c) a környezetterhelési díjak és az igénybevételi járulékok külön törvényben meghatározott része,
 - d) a települési önkormányzat bevételeinek környezetvédelmi célokra elkülönített összege,
 - e) egyéb bevételek.
@@ -884,7 +884,7 @@ véleményezésre megküldi.
 
 ### Adatkezelés
 
-64/A. § (1) A környezetvédelmi igazgatási szervek a természetes és jogi személyekről adatokat környezetvédelmi ügyféljel (a továbbiakban: KÜJ-szám) alkalmazásával
+64/A. § (1) A környezetvédelmi feladatokat ellátó szervek a természetes és jogi személyekről adatokat
 
 - a) a környezet használatára [4. § i) pont] vonatkozó jogok és kötelezettségek teljesülésének ellenőrzése,
 - b) környezetvédelmi célú tevékenység végzése,
@@ -897,8 +897,8 @@ véleményezésre megküldi.
 (2) Az (1) bekezdésben meghatározott célra
 
 - a) természetes személy esetében
-  - aa) természetes személyazonosító adatok,
-  - ab) lakcím;
+  - aa) természetes személyazonosító adatok, ideértve a tevékenységgel érintett ingatlan tulajdonosának természetes személyazonosító adatait is,
+  - ab) lakcím, elektronikus levélcím, telefonszám, adóazonosító jel;
 - b) jogi személy, jogi személyiséggel nem rendelkező szervezet esetében
   - ba) cég neve, cégjegyzék száma, adószáma, statisztikai számjele,
   - bb) székhely településazonosító törzsszámmal, illetve telephelyei településazonosító törzsszámmal;
@@ -912,7 +912,7 @@ véleményezésre megküldi.
 
 tarthatók nyilván.
 
-(3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a nemzetbiztonsági szolgálatok, valamint az adóhatóság, a Központi Statisztikai Hivatal, a műszaki biztonsági, az egészségügyi igazgatási feladatokat ellátó szervek, az élelmiszerlánc-felügyeleti szerv és a talajvédelmi hatóság, az ingatlanügyi hatóság, a vízügyi és vízvédelmi hatóságok és igazgatási szervek, valamint a katasztrófavédelmi szervek feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén – jogosultak a nyilvántartásba felvett adatok igénylésére a feladataik ellátásához szükséges mértékben.
+(3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, a nemzetbiztonsági szolgálatok, valamint az adóhatóság, a Központi Statisztikai Hivatal, a műszaki biztonsági, az egészségügyi igazgatási feladatokat ellátó szervek, az élelmiszerlánc-felügyeleti szerv és a talajvédelmi hatóság, az ingatlanügyi hatóság, a vízügyi hatóságok és igazgatási szervek, valamint a katasztrófavédelmi szervek feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén – jogosultak a nyilvántartásba felvett adatok igénylésére a feladataik ellátásához szükséges mértékben.
 
 (4) A (2) bekezdés szerinti adatok statisztikai, illetőleg tájékoztatási célra felhasználhatók és statisztikai, illetőleg tájékoztatási célú felhasználásra – a (4a) bekezdésben foglalt kivétellel – személyazonosításra alkalmatlan módon átadhatók.
 
@@ -940,13 +940,13 @@ tarthatók nyilván.
 - b) az egységes környezethasználati engedélyezés hatálya alá tartozó esetekben a környezetvédelmi hatóság által kiadott egységes környezethasználati engedély,
 - c) a környezetvédelmi felülvizsgálat hatálya alá tartozó tevékenységek esetén a környezetvédelmi hatóság által kiadott környezetvédelmi működési engedély,
 - d) az a)–c) pont hatálya alá nem tartozó – az e törvény végrehajtására kiadott rendeletben meghatározott – esetekben a környezethasználó kérelmére a környezetvédelmi hatóság által kiadott egybefoglalt környezethasználati engedély,
-- e) az a)–d) pont hatálya alá nem tartozó – külön jogszabályban meghatározott – esetekben a környezetvédelmi hatóság által kiadott határozat, vagy szakhatóságként való közreműködése esetén szakhatósági állásfoglalása figyelembevételével más hatóság által kiadott határozat jogerőre emelkedését követően kezdődhet meg, illetve folytatható.
+- e) az a)–d) pont hatálya alá nem tartozó – külön jogszabályban meghatározott – esetekben a környezetvédelmi hatóság által kiadott határozat, vagy szakhatóságként való közreműködése esetén szakhatósági állásfoglalása figyelembevételével más hatóság által kiadott határozat véglegessé válását követően kezdődhet meg, illetve folytatható.
 
 (1a) A környezethasználat – a (2) bekezdésben meghatározott kivételekkel – az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdésének vagy 2. cikk (4) bekezdésének végrehajtása érdekében, törvényben meghatározott esetekben a környezeti hatásvizsgálati eljárás lefolytatása nélkül kezdődhet meg, illetve folytatható.
 
 (2) Az e törvény végrehajtására kiadott rendeletben meghatározott esetekben a környezethasználat a környezethasználó által a környezetvédelmi hatóság részére adott bejelentést követően kezdhető meg, illetve folytatható.
 
-(3) A környezetvédelmi hatóság az (1) bekezdés a)–e) pontjában meghatározott hatósági határozatairól, szakhatósági állásfoglalásairól közhiteles hatósági nyilvántartást vezet.
+(3) A környezetvédelmi hatóság az (1) bekezdés a)–e) pontjában meghatározott hatósági határozatairól, szakhatósági állásfoglalásairól nyilvántartást vezet.
 
 (4) Törvény a gyorsforgalmi utak, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló árvízvédelmi létesítmények tervezésével, építésével összefüggő környezethasználat esetében a hatósági engedélyezésre eltérő szabályokat állapíthat meg.
 
@@ -958,11 +958,13 @@ tarthatók nyilván.
 
 (2) A hatóság a tervezett tevékenység elvégzéséhez nem járulhat hozzá, ha az környezeti elemet veszélyeztetne vagy károsítana.
 
+66/B. § Az elsőfokú vízvédelmi hatósági jogkörben hozott határozat ellen fellebbezésnek van helye.
+
 ### Előzetes vizsgálati eljárás, előzetes konzultáció
 
 67. § (1) Előzetes vizsgálatot kell lefolytatni, ha a tervezett tevékenység a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, továbbá ha az előzetes vizsgálatot törvény írja elő.
 
-(2) A környezetvédelmi hatóság az előzetes vizsgálat alapján hozott határozatát az előzetes vizsgálati eljárás iránti kérelem hatósághoz történő megérkezését követő naptól számított harminc napon belül hozza meg, ha az ügyben közmeghallgatás tartása szükséges, az ügyintézési határidő negyvenöt nap. Országhatáron átterjedő jelentős környezeti hatással kapcsolatos, jogszabályban meghatározott nemzetközi eljárás időtartama az ügyintézési határidőbe nem számít be.
+(2) A környezetvédelmi hatóság az előzetes vizsgálat alapján hozott határozatát negyvenöt napon belül hozza meg; ha az ügyben közmeghallgatás tartása szükséges, az ügyintézési határidő hatvan nap. A környezetvédelmi hatóság az előzetes vizsgálati eljárás ügyintézési határidejét indokolt esetben – különös figyelemmel a tevékenység egyedi jellemzőire, összetettségére, telepítési helyére, illetve méretére – meghosszabbíthatja.
 
 (3) A környezethasználó előzetes konzultációt kezdeményezhet a környezetvédelmi hatóságnál, ha a tervezett tevékenység nem a környezetvédelmi hatóság döntésétől függően környezeti hatásvizsgálat köteles, vagy ha kizárólag egységes környezethasználati engedélyezési eljárás köteles.
 
@@ -988,7 +990,7 @@ tarthatók nyilván.
 
 71. § (1) A környezetvédelmi hatóság – kormányrendelet szerinti eljárás lefolytatását követően – dönt:
 
-- a) a 67. § (2) bekezdése szerinti határozat,
+- a) a 67. § (1) bekezdése szerinti határozat,
 - b) a 66. § (1) bekezdés a) pontja szerinti esetben a tevékenység megkezdéséhez, illetve módosításához szükséges környezetvédelmi engedély,
 - c) a 66. § (1) bekezdés b) pontja szerinti esetben az egységes környezethasználati engedély,
 - d) ha a tevékenység a b) és c) pont hatálya alá egyaránt tartozik, az egységes környezethasználati engedély
@@ -997,15 +999,15 @@ kiadásáról.
 
 (2)
 
-(3) A környezetvédelmi hatóság a határozatát – annak jogerőre emelkedésére tekintet nélkül – nyilvánosan közzéteszi.
+(3) A környezetvédelmi hatóság az (1) bekezdés szerinti határozatát – annak véglegessé válására tekintet nélkül – közhírré teszi.
 
-72. § A környezetvédelmi hatóság a környezetvédelmi engedélyt vagy az egységes környezethasználati engedélyt visszavonja, ha a jogerőre emelkedéstől számított öt éven belül a tevékenységet, illetve az ahhoz szükséges építési előkészítési munkákat nem kezdték meg, illetőleg ha a jogosult nyilatkozik arról, hogy a környezetvédelmi engedéllyel vagy az egységes környezethasználati engedéllyel nem kíván élni, továbbá akkor is, ha az engedélyezéskor fennálló feltételek lényegesen megváltoztak.
+72. § A környezetvédelmi hatóság a környezetvédelmi engedélyt vagy az egységes környezethasználati engedélyt visszavonja, ha a véglegessé válástól számított öt éven belül a tevékenységet, illetve az ahhoz szükséges építési előkészítési munkákat nem kezdték meg, illetőleg ha a jogosult nyilatkozik arról, hogy a környezetvédelmi engedéllyel vagy az egységes környezethasználati engedéllyel nem kíván élni, továbbá akkor is, ha az engedélyezéskor fennálló feltételek lényegesen megváltoztak.
 
 ### Az egybefoglalt környezethasználati engedély
 
 72/A. § (1) A környezethasználó kérelmére – az e törvény végrehajtására kiadott rendeletben meghatározott esetekben – a környezetvédelmi hatóság a hatáskörébe tartozó engedélyek helyett egybefoglalt környezethasználati engedélyt ad ki.
 
-(2) A környezetvédelmi hatóság a határozatát – annak jogerőre emelkedésére tekintet nélkül – nyilvánosan közzéteszi.
+(2) A környezetvédelmi hatóság a határozatát – annak véglegessé válására tekintet nélkül – közhírré teszi.
 
 ### A környezethasználat bejelentése
 
@@ -1081,7 +1083,7 @@ közös szabályai
 
 (3) A környezetvédelmi hatóság a 77. § (1) bekezdés szerint végzett felmérés jóváhagyásakor egyszerűsített határozatot, a 77. § (2) bekezdésben foglalt esetben működési engedélyt ad ki, vagy az (1) bekezdés b) és c) pontja rendelkezéseinek megfelelő alkalmazásával jár el.
 
-80. § A 74. § (2) bekezdésének c) pontja és a 77. § (2) bekezdése esetén – a nyilvánosság bevonásának biztosítása érdekében – a környezetvédelmi hatóság köteles közmeghallgatást tartani.
+#### 80. §
 
 81. § A határozatnak tartalmaznia kell:
 
@@ -1189,29 +1191,59 @@ közös szabályai
 
 (2) Környezetveszélyeztetés, valamint környezetkárosítás esetén a környezetveszélyeztetés, illetve a környezetkárosítás hatásterületén levő ingatlan tulajdonosa, jogszerű használója és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-(3) Elektronikus ügyintézés kivételével a környezetvédelmi hatóság részére a környezetvédelmi engedély és az egységes környezethasználati engedély iránti kérelmet, illetve azoknak a 69. § (2) bekezdés és a 70. § (2) bekezdés szerinti jogszabályban meghatározott mellékletét egy példányban elektronikus adathordozón is be kell nyújtani, amelyet a környezetvédelmi hatóság elektronikus úton közzétesz.
+(3) Elektronikus ügyintézés kivételével a környezetvédelmi hatóság részére a környezetvédelmi engedély és az egységes környezethasználati engedély iránti kérelmet, illetve azoknak a 69. § (2) bekezdés és a 70. § (2) bekezdés szerinti jogszabályban meghatározott mellékletét egy példányban elektronikus adathordozón is be kell nyújtani, amelyet a környezetvédelmi hatóság elektronikus úton nyilvánosságra hoz.
 
-91. § (1) A környezetvédelmi engedély megszerzésére, továbbá a működési engedély kiadására irányuló eljárásban az ügyintézési határidő hetven nap.
+91. § (1) A környezetvédelmi engedély megszerzésére, továbbá a működési engedély kiadására irányuló eljárásban az ügyintézési határidő százöt nap nap.
 
-(2) Az egységes környezethasználati engedély megszerzésére irányuló eljárásban – a (3) bekezdésben meghatározott kivétellel – az ügyintézési határidő hetven nap.
+(2) Az egységes környezethasználati engedély megszerzésére irányuló eljárásban – a (3) bekezdésben meghatározott kivétellel – az ügyintézési határidő százöt nap nap.
 
-(3) Az egységes környezethasználati engedély kormányrendeletben meghatározott határidőn belül történő felülvizsgálatára irányuló eljárásban az ügyintézési határidő negyvenöt nap.
+(3) Az egységes környezethasználati engedély kormányrendeletben meghatározott határidőn belül történő felülvizsgálatára irányuló eljárásban az ügyintézési határidő hatvanöt nap.
 
-(4) A Kormány rendeletében meghatározott összevont eljárásban az ügyintézési határidő három hónap.
+(4) A Kormány rendeletében meghatározott összevont eljárásban az ügyintézési határidő százharminc nap.
 
 (5) A környezetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
 
-(6) A környezetvédelmi hatóság által az előzetes vizsgálati eljárásban és a (3) bekezdésben meghatározott eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(6) A környezetvédelmi hatóság által az előzetes vizsgálati és a környezeti hatásvizsgálati eljárásban, továbbá a (3) bekezdésben meghatározott eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
-91/A. § (1) A külön jogszabály szerinti kármentesítési eljárás során a kivizsgálást – a kockázat mérlegelése alapján – a lehető leghamarabb meg kell kezdeni és hetven napon belül le kell folytatni.
+91/A. § (1) A külön jogszabály szerinti kármentesítési eljárás során a kivizsgálást – a kockázat mérlegelése alapján – a lehető leghamarabb meg kell kezdeni és kilencven napon belül le kell folytatni.
 
-(2) A külön jogszabály szerinti kármentesítési eljárás során a környezetvédelmi hatóság negyvenöt napon belül dönt és határozatot hoz
+(2) A külön jogszabály szerinti kármentesítési eljárás során a környezetvédelmi hatóság hatvan napon belül dönt és határozatot hoz
 
 - a) a tényfeltárási záródokumentáció elbírálásáról, valamint a szennyezettséggel, károsodással kapcsolatos további feladatokról,
 - b) a kármentesítési beavatkozás záródokumentációjának elfogadásáról,
 - c) a kármentesítési monitoring záródokumentációjának elfogadásáról és a kármentesítési intézkedések befejezéséről.
 
-(3) A (2) bekezdés szerinti eljárásban a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(3) A (2) bekezdés szerinti eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+91/B. § (1) Az e törvény, valamint a felhatalmazása alapján kiadott rendeletekben szabályozott közigazgatási hatósági ügyekben hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+
+(2) A vízvédelmi hatósági eljárásban
+
+- a) a kérelem,
+- b) a hiánypótlás, és
+- c) az ügyfél által tett nyilatkozat
+
+csak írásban terjeszthető elő.
+
+91/C. § (1) Azonnali eljárási cselekmény érdekében a helyszíni szemle környezetvédelmi okból a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtartható.
+
+(2) A nyilvánosság tájékoztatásának, továbbá véleményének megismerése érdekében közmeghallgatást kell tartani
+
+- a) a 74. § (2) bekezdés c) pontjában,
+- b) a 77. § (2) bekezdésében, és
+- c) e törvény végrehajtására kiadott kormányrendeletben
+
+meghatározott esetben.
+
+91/D. § (1) Ha az eljárásban legalább ötven ügyfél érintett, továbbá ha e törvény végrehajtására kiadott kormányrendelet előírja, a határozatot – a kérelmező ügyfél kivételével – hirdetmény útján kell közölni.
+
+(2) A határozat hivatalból a jóhiszeműen szerzett és gyakorolt jogok sérelmével is módosítható vagy visszavonható, illetve a szakhatóság az eljárt hatóságnál a kiadott határozat módosítását vagy visszavonását kezdeményezheti, ha a közérdek érvényre juttatása érdekében azt környezetvédelmi, természetvédelmi, vízgazdálkodási, illetve közegészségügyi vagy talajvédelmi szempontok szükségessé teszik.
+
+(3) Az e törvény hatálya alá tartozó közigazgatási hatósági eljárásokban a meghatározott cselekmény végrehajtását a végrehajtást elrendelő hatóság foganatosítja.
+
+91/E. § Szennyezőanyag-elhelyezés, bevezetés, vagy ezzel járó tevékenység engedélyezése során, ha a tevékenységet nem a vízvédelemi hatóság engedélyezi, a vízvédelmi hatóságot az eljárásba szakhatóságként be kell vonni.
+
+91/F. § A környezetvédelmi bírságot kiszabó határozatot megtámadó keresetlevélnek a végrehajtásra halasztó hatálya van.
 
 ### Szakértői tevékenység
 
@@ -1244,7 +1276,7 @@ adja ki.
 
 ### Végrehajtható határozatok
 
-95. § A környezet veszélyeztetésével és a környezet károsításával járó rendkívüli esemény kapcsán hozott határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható.
+95. § A környezet veszélyeztetésével és a környezet károsításával járó rendkívüli esemény kapcsán hozott határozat a közérdek védelme érdekében azonnal végrehajthatóvá nyilvánítható.
 
 ### Eljárási költségek
 
@@ -1252,13 +1284,13 @@ adja ki.
 
 96. § A védett természeti területek természetvédelmi kezeléséért felelős szerveknek – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló rendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetni.
 
-96/A. § (1) A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi és az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
+96/A. § (1) A közigazgatási hatósági eljárás során felmerülő mintavételi, laboratóriumi és az egyéb műszeres vizsgálatok költségei, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek eljárási költségnek minősülnek.
 
 (2) A nem környezetvédelmi és természetvédelmi hatósági eljárásban a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatban felmerülő költségek egyéb eljárási költségnek minősülnek.
 
 ### Felügyeleti díj
 
-96/B. § (1) Aki az egységes környezethasználati engedélyezés hatálya alá tartozó, vagy a 66. § (2) bekezdés szerinti bejelentéshez kötött tevékenységet folytat – kivéve, ha a bejelentett tevékenység végzésének időtartama a 30 napot nem haladja meg –, éves felügyeleti díjat fizet tárgyév február 28-ig. Aki tevékenységét év közben kezdi meg, a felügyeleti díj arányos részét fizeti meg, az engedély jogerőre emelkedését vagy a bejelentést követő 30 napon belül.
+96/B. § (1) Aki az egységes környezethasználati engedélyezés hatálya alá tartozó, vagy a 66. § (2) bekezdés szerinti bejelentéshez kötött tevékenységet folytat – kivéve, ha a bejelentett tevékenység végzésének időtartama a 30 napot nem haladja meg –, éves felügyeleti díjat fizet tárgyév február 28-ig. Aki tevékenységét év közben kezdi meg, a felügyeleti díj arányos részét fizeti meg, az engedély véglegessé válását vagy a bejelentést követő 30 napon belül.
 
 (2) A felügyeleti díj a környezetvédelmi hatóság bevétele, amelyet a felügyeleti tevékenységével kapcsolatos működési költségeinek fedezetére használhat fel.
 
@@ -1267,6 +1299,12 @@ adja ki.
 (4) Az egységes környezethasználati engedélyezés hatálya alá tartozó nagy létszámú állattartási tevékenység esetében a felügyeleti díj mértéke százezer forint.
 
 (5) A 66. § (2) bekezdés szerinti bejelentéshez kötött tevékenység esetében a felügyeleti díj mértéke huszonötezer forint.
+
+### A közigazgatási perben alkalmazandó különös rendelkezések
+
+96/C. § A hatóság bírságot kiszabó határozatát megtámadó keresetlevélnek a végrehajtásra halasztó hatálya van.
+
+96/D. § A környezetvédelmi közigazgatási hatósági eljárással kapcsolatos perben egyezség nem köthető.
 
 ### VIII. Fejezet — A NYILVÁNOSSÁG RÉSZVÉTELE
 
@@ -1285,6 +1323,8 @@ A KÖRNYEZETVÉDELEMBEN
 ### A környezetvédelmi egyesületek jogai
 
 98. § (1) A környezetvédelmi érdekek képviseletére létrehozott politikai pártnak és érdekképviseletnek nem minősülő, a hatásterületen működő egyesületeket (a továbbiakban: szervezet) a környezetvédelmi államigazgatási eljárásokban a működési területükön az ügyfél jogállása illeti meg.
+
+(1a) Az (1) bekezdés alkalmazásában környezetvédelmi közigazgatási hatósági eljárásnak minősülnek különösen a 66. § (1) bekezdésében és a 66/A. § (1) bekezdésében foglalt eljárások.
 
 (2) A szervezet joga továbbá, hogy tagsága érdekeit képviselve
 
@@ -1348,7 +1388,7 @@ A KÖRNYEZETVÉDELEMBEN
 102/A. § (1) A környezethasználó mentesül a közigazgatási jogi felelősség alól, ha bizonyítja, hogy a környezetveszélyeztetés vagy a környezetkárosodás
 
 - a) fegyveres összeütközés, háború, polgárháború, fegyveres felkelés, illetve természeti katasztrófa;
-- b) jogerős, kötelezést tartalmazó hatósági vagy bírósági határozat végrehajtásának közvetlen következménye.
+- b) kötelezést tartalmazó, véglegessé vált hatósági vagy jogerős bírósági határozat végrehajtásának közvetlen következménye.
 
 (2) A környezethasználó köteles a külön jogszabályban meghatározott környezetkárosodást megelőző intézkedéseket megtenni, valamint környezetkárosodás esetén a helyreállítási intézkedések megtétele során
 
@@ -1374,7 +1414,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 (9) A megbízott által ilyen minőségében okozott környezetveszélyeztetésért vagy környezetkárosodásért a megbízó a megbízottal egyetemlegesen felel.
 
-102/B. § (1) Jogerősen megállapított környezetkárosítás esetén a környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – a helyreállítási intézkedés megtételére kötelező határozatában elidegenítési és terhelési tilalmat rendel el a helyreállítási intézkedés megtételére kötelezett személy azon ingatlanaira, amelyek a helyreállítási intézkedés költségeinek előreláthatólag finanszírozandó összegére kellő fedezetet nyújtanak.
+102/B. § (1) Véglegesen megállapított környezetkárosítás esetén a környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – a helyreállítási intézkedés megtételére kötelező határozatában elidegenítési és terhelési tilalmat rendel el a helyreállítási intézkedés megtételére kötelezett személy azon ingatlanaira, amelyek a helyreállítási intézkedés költségeinek előreláthatólag finanszírozandó összegére kellő fedezetet nyújtanak.
 
 (2) Az (1) bekezdés szerinti határozat alapján a környezetvédelmi hatóság – a kizárólag a vizeket érintő környezetkárosodás esetén a vízvédelmi hatóság – megkeresi az ingatlanügyi hatóságot az elidegenítési és terhelési tilalom ingatlan-nyilvántartásban történő feljegyzése, ha pedig a kötelezett a szükséges helyreállítási munkákat elvégezte, a feljegyzés törlése végett.
 
@@ -1410,7 +1450,7 @@ A KÖRNYEZETVÉDELEMBEN
 
 (3)
 
-(4) Kormány nyilvános határozatában engedélyezheti, hogy az állam a tulajdonosi joggyakorló szervezete útján a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben jogerősen kiszabott és határidőben meg nem fizetett környezetvédelmi bírságból eredő követelés vagy annak egy része ellenében – a követelés behajtása helyett, legfeljebb a kormányhatározatban megjelölt összegben és feltételek szerint – a bírság megfizetésére köteles gazdasági társaságban részesedéssel rendelkezőkkel való megállapodással a gazdasági társaságban való részesedést megtestesítő részvényt vagy üzletrészt szerezzen, ha
+(4) Kormány nyilvános határozatában engedélyezheti, hogy az állam a tulajdonosi joggyakorló szervezete útján a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben véglegesen kiszabott és határidőben meg nem fizetett környezetvédelmi bírságból eredő követelés vagy annak egy része ellenében – a követelés behajtása helyett, legfeljebb a kormányhatározatban megjelölt összegben és feltételek szerint – a bírság megfizetésére köteles gazdasági társaságban részesedéssel rendelkezőkkel való megállapodással a gazdasági társaságban való részesedést megtestesítő részvényt vagy üzletrészt szerezzen, ha
 
 - a) a pénzbeli teljesítés nem vagy csak részben lehetséges és
 - b) arra a követelés összegét meghaladó vagyoni hátrány megakadályozása érdekében vagy kiemelt nemzetgazdasági érdekből kerül sor.
@@ -1475,7 +1515,7 @@ A KÖRNYEZETVÉDELEMBEN
 - 16. a környezeti értékelés tartalmi követelményeit és a környezeti vizsgálat lefolytatásának szabályait, valamint a környezet védelméért felelős szervek körét és feladatait, továbbá szabályozza a környezeti vizsgálat hatálya alá tartozó tervek és programok körét;
 - 17. a nyilvánosság környezeti információkhoz való hozzáférésének rendjét és a környezeti alapnyilvántartás rendjét;
 - 18. az előzetes vizsgálati eljárás és az előzetes konzultáció részletes szabályait;
-- 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 21. az egyéb eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait, 21a. a hatósági eljárás során felmerülő, a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos egyéb eljárási költségeket; 22. a környezetkárosodás megelőzésének és elhárításának rendjét, 23. a zaj és rezgés elleni védelem szabályait; 24. a levegő védelmével kapcsolatos szabályokat; 25. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait; 26. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat; 27. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat; 28. a felszín alatti vizek védelmének szabályait; 29. a felszíni vizek minősége védelmének szabályait; 30. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait; 31. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket; 32. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait; 33. az egybefoglalt környezethasználati engedély keretében kiadható engedélyeket és az egybefoglalt környezethasználati engedély szabályait; 34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket; 35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait; 36. a szakértőként eljáró környezetvédelmi és természetvédelmi hatóság szakértői díját; 37. a meteorológiai tevékenységgel kapcsolatos részletes szabályokat; 38. a meteorológiai tevékenységgel összefüggő állami feladatokat ellátó szervek feladat- és hatáskörét.
+- 19. a környezetvédelmi, természetvédelmi, tájvédelmi szakértői tevékenység folytatásának részletes feltételeit, a szakértői szakterületeket és részszakterületeket, az e tevékenységre jogosító engedély kiadásának rendjét, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket; 21. az eljárási költségnek minősülő laboratóriumi vizsgálati költségek, illetve egyéb műszeres vizsgálatok költségeinek, továbbá az eljárás során a tényállás tisztázása kapcsán felmerült személyi és dologi költségek mértékét és fizetésének részletes szabályait, 21a. a hatósági eljárás során felmerülő, a környezetvédelmi és természetvédelmi szakkérdés vizsgálatával kapcsolatos eljárási költségeket; 22. a környezetkárosodás megelőzésének és elhárításának rendjét, 23. a zaj és rezgés elleni védelem szabályait; 24. a levegő védelmével kapcsolatos szabályokat; 25. a Program tervezésének, végrehajtásának és ellenőrzésének, valamint az ebben közreműködő szerv létrehozásának és működésének részletes szabályait; 26. az egyes sajátos szabályozást igénylő élő szervezetek, életközösségeik és élőhelyeik védelmére vonatkozó szabályokat; 27. a külön törvény hatálya alá nem tartozó fás szárú növények védelmével kapcsolatos részletes szabályokat; 28. a felszín alatti vizek védelmének szabályait; 29. a felszíni vizek minősége védelmének szabályait; 30. a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmének szabályait; 31. a települési szennyvíztisztítás szempontjából érzékeny felszíni vizeket és vízgyűjtőterületüket; 32. a környezetre súlyos veszélyt jelentő anyagok és termékek minősítésének részletes szabályait; 33. az egybefoglalt környezethasználati engedély keretében kiadható engedélyeket és az egybefoglalt környezethasználati engedély szabályait; 34. azon környezethasználattal járó tevékenységeket, amelyek a környezetvédelmi hatóságnak történő bejelentést követően kezdhetők meg, illetve folytathatók, továbbá a bejelentés tartalmi elemeit, a bejelentéssel érintett tevékenységek ellenőrzésére vonatkozó eljárás szabályait, valamint az alkalmazható jogkövetkezményeket; 35. a hulladékból előállított tüzelőanyag égetésének részletes szabályait; 36. a szakértőként eljáró környezetvédelmi és természetvédelmi hatóság szakértői díját; 37. a meteorológiai tevékenységgel kapcsolatos részletes szabályokat; 38. a meteorológiai tevékenységgel összefüggő állami feladatokat ellátó szervek feladat- és hatáskörét; 39. a vízvédelmi hatósági eljárással kapcsolatos kiegészítő eljárási szabályokat; 40. a levegőtisztaság-védelemmel kapcsolatos hatósági eljárások és a nyilvántartásba vétel szabályait, valamint a nyilvántartásba vétel tartalmi követelményeit.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
@@ -1581,7 +1621,7 @@ szakkérdéseket.
 
 111. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a Tanács – a Tanács 97/11/EK irányelvével, valamint az Európai Parlament és a Tanács 2003/35/EK irányelvével módosított – 85/337/EGK irányelve (1985. június 27.) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról [a törvény végrehajtására a 110. § (7) bekezdése c) és r) pontjában adott felhatalmazás alapján megalkotott kormányrendelettel együtt];
+- a)
 - b) a Tanács 91/271/EGK irányelve (1991. május 21.) a települési szennyvízkezelésről;
 - c) a Tanács 92/43/EGK irányelvének (1992. május 21.) a természetes élőhelyek, valamint a vadon élő állatok és növények védelméről 6. cikk (3) bekezdése;
 - d) a Tanács 98/83/EK irányelve (1998. november 3.) az emberi fogyasztásra szánt víz minőségéről;
@@ -1590,7 +1630,8 @@ szakkérdéseket.
 - g) az Európai Parlament és a Tanács 2002/49/EK irányelve (2002. június 25.) a környezeti zaj értékeléséről és kezeléséről;
 - h) az Európai Parlament és a Tanács 2003/4/EK irányelve (2003. január 28.) a környezeti információkhoz való nyilvános hozzáférésről és a 90/313/EGK irányelv hatályon kívül helyezéséről;
 - i) az Európai Parlament és a Tanács 2004/35/EK irányelve (2004. április 21.) a környezeti károk megelőzése és helyreállítása tekintetében a környezeti felelősségről;
-- j) az Európai Parlament és a Tanács 2007/2/EK irányelve (2007. március 14.) az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról 1. cikkének (2) bekezdése, 3. cikkének 2–4. és 6–10. pontja, 4. cikkének (1) bekezdése, 11. cikkének (1) bekezdése, 13. cikkének (1)–(2) bekezdése, 14. cikkének (1)–(2) és (4) bekezdése, valamint 15. cikkének (2) bekezdése.
+- j) az Európai Parlament és a Tanács 2007/2/EK irányelve (2007. március 14.) az Európai Közösségen belüli térinformációs infrastruktúra (INSPIRE) kialakításáról 1. cikkének (2) bekezdése, 3. cikkének 2–4. és 6–10. pontja, 4. cikkének (1) bekezdése, 11. cikkének (1) bekezdése, 13. cikkének (1)–(2) bekezdése, 14. cikkének (1)–(2) és (4) bekezdése, valamint 15. cikkének (2) bekezdése;
+- k) az Európai Parlament és a Tanács 2011/92/EU irányelve (2011. december 13.) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról.
 
 112. § E törvény 9. §-a és a 101–102. §-a az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló 2006. március 15-i 2006/21/EK európai parlamenti és a tanács irányelv 15. cikkének való megfelelést szolgálja.
 

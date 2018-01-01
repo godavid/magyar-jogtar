@@ -273,7 +273,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 7/E. § (1) A terrorizmust elhárító szerv nem gyakorol nyomozóhatósági jogkört. A terrorizmust elhárító szerv
 
 - a) ellátja az 1. § (2) bekezdés 15. pontjában meghatározott feladatot, amelynek keretében
-  - aa) jogszabályban meghatározottak szerint végzi 1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti terrorcselekmény (1978. évi IV. törvény 261. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), 2. a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §), valamint az azokkal összefüggésben elkövetett más bűncselekmények megelőzését, felderítését, megszakítását, az elkövetők elfogását,
+  - aa) jogszabályban meghatározottak szerint végzi 1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti terrorcselekmény (1978. évi IV. törvény 261. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), 2. a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), a jármű hatalomba kerítése (Btk. 320. §), valamint az azokkal összefüggésben elkövetett más bűncselekmények megelőzését, felderítését, megszakítását, az elkövetők elfogását,
   - ab) végzi 1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti emberrablás (1978. évi IV. törvény 175/A. §), valamint az azzal összefüggésben elkövetett, 2. az emberrablás (Btk. 190. §), az emberrablás feljelentésének elmulasztása (Btk. 191. §), valamint az azokkal összefüggésben elkövetett más bűncselekmények megszakítását, az elkövetők elfogását,
   - ac) végzi 1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti emberrablással (1978. évi IV. törvény 175/A. §), 2. az emberrablással (Btk. 190. §) összefüggésben elkövetett bűncselekményeket elkövető személyekkel, csoportokkal, szervezetekkel szembeni megelőzési, felderítési feladatokat,
   - ad) megelőzi, felderíti és elhárítja azokat a törekvéseket, amelyek Magyarország területén terrorcselekmény elkövetésére irányulnak, továbbá részt vesz az aa) alpontban foglalt bűncselekmények közvetlen következményeinek elhárításához szükséges, e törvényben meghatározott intézkedések végrehajtásában,
@@ -1248,7 +1248,7 @@ felderítése során.
 (5) Az alábbi bűncselekmények felderítése a rendőrség hatáskörébe tartozik:
 
 - a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti rombolás (1978. évi IV. törvény 142. §) és terrorcselekmény (1978. évi IV. törvény 261. §),
-- b) a rombolás (Btk. 257. §), a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318. §).
+- b) a rombolás (Btk. 257. §), a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §).
 
 (6) Az (1) bekezdés c) pontjában foglaltak teljesítéséhez a távközlési, illetőleg postai szervezet köteles a feladatkörébe tartozó esetben a segítséget megadni.
 

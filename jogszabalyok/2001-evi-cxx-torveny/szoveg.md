@@ -679,7 +679,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 (6) A Felügyelet az engedély megadását megtagadja, ha a tájékoztató nem felel meg e törvény, a végrehajtására kiadott jogszabály vagy az Fttv. rendelkezéseinek, a forgalomba hozatal joggal való visszaélésre irányul, vagy a forgalmazó, a kibocsátó nem tesz eleget a (2)–(4) bekezdés alapján tett felügyeleti intézkedésnek.
 
-(7) Ha a kérelmező az (1) bekezdés g) pontjában meghatározott adatokat nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(7) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor az (1) bekezdés g) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 39. § (1) A Felügyelet a benyújtott engedélykérelmet átadhatja engedélyezésre másik tagállam hatáskörrel rendelkező felügyeleti hatóságának. Az átadáshoz a másik tagállam hatáskörrel rendelkező felügyeleti hatóságának hozzájárulása és az Európai Értékpapír-piaci Hatóság előzetes értesítése szükséges. Erre az esetre a 1095/2010/EU rendelet 28. cikkének (4) bekezdése nem alkalmazandó. Az engedélyezés átadásáról a Felügyelet a kérelmezőt a döntését követő három munkanapon belül értesíti.
 
@@ -1054,7 +1054,7 @@ az auditbizottság feladatkörét az igazgatótanács vagy a felügyelőbizotts�
 
 (3) Ha a kibocsátó részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes, az MNB által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
-(4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely jogerős hatósági döntés vagy bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
+(4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely végleges hatósági döntés vagy jogerős bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
 
 (5) Saját tőkeként
 
@@ -1234,7 +1234,7 @@ közül a legmagasabb összeg.
 
 (3) Ha a céltársaság részvényeit több szabályozott piacra is bevezették, akkor az egyes szabályozott piacokon külön-külön számított átlagárak közül a legmagasabbat kell figyelembe venni azzal, hogy a forintértékre történő átszámítás során az ügyletkötés napján érvényes, MNB által közzétett hivatalos devizaárfolyamot kell alkalmazni.
 
-(4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely jogerős hatósági döntés vagy bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
+(4) Az ármeghatározás során figyelmen kívül kell hagyni azt az ügyletet, amely végleges hatósági döntés vagy jogerős bírósági határozat által megállapítottan nem jogszerű körülmények között jött létre.
 
 (5) Saját tőkeként
 
@@ -2363,7 +2363,7 @@ tevékenység.
 
 (4) Tőzsde alapító tagjaként az alapítás alatt lévő tőzsdében minősített befolyást csak olyan személy szerezhet, aki a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és akinek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs.
 
-300. § (1) A tőzsde alapítására vonatkozó engedély iránti kérelemhez mellékelni kell:
+300. § (1) A tőzsde alapítására vonatkozó engedély iránti kérelemhez mellékelni kell – az (5) bekezdésében foglaltak figyelembevételével –:
 
 - a) a tőzsde alapszabályát;
 - b) a tőzsde alapításában részt vevő tulajdonosok megnevezését, az általuk képviselt tulajdonosi jog mértékét;
@@ -2373,7 +2373,7 @@ tevékenység.
 - f) külföldi székhelyű kérelmező esetében nyilatkozatot a kérelmező kézbesítési megbízottjáról, aki csak Magyarországon bejegyzett ügyvéd, illetve ügyvédi iroda lehet;
 - g) nyilatkozatot arról, hogy a tőzsde irányítása a Magyarországon létesítendő főirodában történik.
 
-(2) Ha az alapítók között olyan személy szerepel, aki (amely) az alapítás alatt lévő tőzsdében minősített befolyást kíván szerezni, az (1) bekezdésben foglaltakon kívül az engedély iránti kérelemhez mellékelni kell
+(2) Ha az alapítók között olyan személy szerepel, aki (amely) az alapítás alatt lévő tőzsdében minősített befolyást kíván szerezni, az (1) bekezdésben foglaltakon kívül az engedély iránti kérelemhez mellékelni kell – az (5) bekezdésében foglaltak figyelembevételével –
 
 - a) a cég létesítő okiratát;
 - b) a cég három hónapnál nem régebbi cégkivonatát, külföldi cég esetében az eredeti cégkivonatot és annak hiteles magyar nyelvű fordítását vagy igazolást arról, hogy a céget a vállalati (gazdasági) nyilvántartásba bejegyezték;
@@ -2386,15 +2386,15 @@ tevékenység.
 - i) az alapító tulajdonosi szerkezetének, valamint azon körülményeknek a részletes leírását, amelyek miatt az alapító kapcsolatban álló személyek csoportjához tartozónak minősül, továbbá az irányító vállalat előző évre vonatkozó konszolidált éves beszámolóját, ha az irányító vállalat konszolidált beszámoló készítésére kötelezett;
 - j) a kérelemben érintett személyek teljes bizonyító erejű magánokiratban foglalt nyilatkozatát arra vonatkozóan, hogy hozzájárulnak az engedély iránti kérelemhez mellékelt iratban foglaltak valódiságának a Felügyelet által megkeresett szervek útján történő ellenőrzéséhez.
 
-(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 357. § (3) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(2a) Minősített befolyással rendelkező természetes személy a tőzsde alapítására vonatkozó engedély iránti kérelem benyújtásával egyidejűleg a Felügyelet felé – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű.
 
 (3) Ha az alapítók között minősített befolyást szerezni kívánó külföldi székhelyű pénzügyi intézmény, biztosító, befektetési vállalkozás van, az (1) és (2) bekezdésben foglaltakon kívül az engedély iránti kérelemhez be kell nyújtani a székhely szerinti ország hatáskörrel rendelkező felügyeleti hatóságának igazolását vagy nyilatkozatát arról, hogy a vállalkozás a prudens tevékenység végzésére vonatkozó szabályokat betartva működik.
 
 (4) Alapítási engedély alapján a tőzsde létesítésével kapcsolatos tevékenység végezhető.
 
-(5) Ha a kérelmező az (1) bekezdés a) pontjában, valamint a (2) bekezdés a), b) pontjában meghatározott adatokat nem igazolja, a Felügyelet adatszolgáltatási kérelemmel fordul a szükséges adatokról nyilvántartást vezető hatósághoz vagy bírósághoz.
+(5) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor az (1) bekezdés g) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
-(6) Ha a kérelmező a (2) bekezdés e) pontjában meghatározott valamely magyarországi köztartozására vonatkozó adatot nem igazolja, a Felügyelet megkeresi a köztartozásról nyilvántartást vezető szervet. A nyilvántartást vezető szerv a lejárt, meg nem fizetett köztartozás fennállásáról vagy annak hiányáról tájékoztatja a Felügyeletet.
+(6)
 
 301. § (1) Fióktelep formájában működő tőzsde alapítása esetén a 300. § (1) bekezdésének a)–f) pontjaiban meghatározottakon kívül az alapítási engedély iránti kérelemhez mellékelni kell
 
@@ -2453,7 +2453,7 @@ tevékenység.
 - e) üzleti tervet a működés első három évére vonatkozóan;
 - f) a felelősségbiztosításról szóló szerződést;
 - g) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megkezdeni;
-- h) a vezető állású személyek megnevezését, valamint mindazon okiratokat, dokumentumokat, nyilatkozatokat, melyek alapján a 311. § és a 356. § előírásainak való megfelelésük megállapítható.
+- h) a vezető állású személyek megnevezését, valamint – a 357. § (3a) bekezdésében foglaltak figyelembevételével – mindazon okiratokat, dokumentumokat, nyilatkozatokat, melyek alapján a 311. § és a 356. § előírásainak való megfelelésük megállapítható.
 
 305. § A pénzügyi eszközök valamelyikének kereskedésére engedéllyel rendelkező tőzsdét a Felügyelet szabályozott piacként tartja nyilván.
 
@@ -2473,8 +2473,8 @@ tevékenység.
 
 (2) Tőzsdében a (3) bekezdésben meghatározott részesedéssel rendelkező tulajdonos olyan személy lehet,
 
-- a) aki – amennyiben természetes személy – a 357. § (3) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű és e tényt hatósági bizonyítvány útján igazolja,
-- b) aki – amennyiben nem természetes személy – igazolja, hogy a nála vezető tisztségviselői beosztásban lévő személlyel szemben a 357. § (1) bekezdésében meghatározott kizáró ok nem áll fenn és a vezető tisztségviselő a 357. § (3) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
+- a) aki – amennyiben természetes személy – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű,
+- b) aki – amennyiben nem természetes személy a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a nála vezető tisztségviselői beosztásban lévő személlyel szemben a 357. § (1) bekezdésében meghatározott kizáró ok nem áll fenn és a vezető tisztségviselő a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű,
 - c) aki (amely) elfogultságtól mentesen, az általános piaci érdekeket szem előtt tartva képes irányítani, illetve befolyásolni – mind szakmai, mind pénzügyi, gazdálkodási szempontból – a tőzsde megbízható, stabil, versenysemleges működését, és
 - d) akivel szemben nem áll fenn a 357. §-ban meghatározott kizáró ok.
 
@@ -2482,7 +2482,7 @@ tevékenység.
 
 (4) A tőzsde – a (3) bekezdésben meghatározott részesedéssel rendelkező – tulajdonosa a tulajdon-, illetőleg a szavazati joghoz kapcsolódó jogokat és előnyöket csak a Felügyelet engedélyével, az engedélyben foglalt mértékig gyakorolhatja.
 
-(5) A (3) bekezdés szerinti engedély iránti kérelemhez mellékelni kell:
+(5) A (3) bekezdés szerinti engedély iránti kérelemhez mellékelni kell a (8) bekezdés figyelembevételével:
 
 - a) a kérelmező természetes vagy jogi személy megnevezését;
 - b) a megszerezni kívánt részesedés mértékét, arányát;
@@ -2492,11 +2492,13 @@ tevékenység.
 - f) a kérelmező közvetlen és közvetett tulajdonában álló egyéb vállalkozások megjelölését;
 - g)
 
-(5a) Természetes személy kérelmező, valamint a kérelmezőnél vezető tisztségviselői beosztásban lévő személy a (3) bekezdés szerinti kérelem benyújtásával egyidejűleg a Felügyelet felé hatósági bizonyítvány útján igazolja azt a tényt, hogy a 357. § (3) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
+(5a) Természetes személy kérelmező, valamint a kérelmezőnél vezető tisztségviselői beosztásban lévő személy a (3) bekezdés szerinti kérelem benyújtásával egyidejűleg a Felügyelet felé – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja azt a tényt, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű.
 
 (6) A tulajdonszerzésre adott felügyeleti engedély harminc napig hatályos. Az engedély hatálya különösen indokolt esetben egy alkalommal további harminc napra meghosszabbítható.
 
 (7) Ha a tőzsde tulajdonosa szavazati jogát törvény rendelkezése alapján nem gyakorolhatja, szavazati jogát a határozatképesség megállapításánál számításon kívül kell hagyni.
+
+(8) Ha a kérelmező magyar állampolgár vagy magyar székhelyű nem természetes személy, akkor az (5) bekezdés c) és f) pontjában foglalt adatok igazolását tartalmazó okiratokat a Felügyelet szerzi be.
 
 308. § (1) A tőzsdében a 307. § (3) bekezdésében meghatározott részesedéssel rendelkező személy kettő napon belül köteles a Felügyeletnek és a tőzsdének bejelenteni, ha
 
@@ -2973,23 +2975,28 @@ foglaltakat.
 
 - a) aki felsőfokú végzettséggel rendelkezik;
 - b) aki legalább hároméves pénzügyi szakmai és pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
-- c) aki hatósági bizonyítvány útján igazolja, hogy a 357. § (3) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű;
+- c) aki – a 357. § (3a) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű.
 - d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
 
 (2) A pénzügyi holding társaság és a vegyes pénzügyi holding társaság tevékenységét ténylegesen irányító vezető állású személynek az választható meg, aki megfelel az (1) bekezdésben meghatározott feltételeknek.
 
 357. § (1) A 307. § alkalmazásában kizáró ok olyan személlyel szemben áll fenn, aki
 
-- a) tíz százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel rendelkezik, rendelkezett, illetve vezető állású személy volt olyan a Felügyelet által felügyelt intézményben, amely öt éven belül fizetésképtelenné vált, vagy fizetésképtelenségét csak felügyeleti intézkedéssel lehetett elkerülni, illetve amelynek tevékenységi engedélyét a Felügyelet visszavonta, és akinek személyes felelősségét e helyzetek kialakulásáért jogerős határozat megállapította;
-- b) súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabály előírásait és emiatt vele szemben a Felügyelet, más hatóság vagy bíróság öt évnél nem régebben kelt jogerős határozatban szankciót alkalmazott, illetőleg akit a tőzsde vagy más szervezet etikai bizottsága, tanácsa öt éven belül súlyos etikai vétség elkövetése miatt elmarasztalt;
+- a) tíz százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett részesedéssel rendelkezik, rendelkezett, illetve vezető állású személy volt olyan a Felügyelet által felügyelt intézményben, amely öt éven belül fizetésképtelenné vált, vagy fizetésképtelenségét csak felügyeleti intézkedéssel lehetett elkerülni, illetve amelynek tevékenységi engedélyét a Felügyelet visszavonta, és akinek személyes felelősségét e helyzetek kialakulásáért jogerős vagy végleges határozat megállapította;
+- b) súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabály előírásait és emiatt vele szemben a Felügyelet, más hatóság öt évnél nem régebben végleges vagy bíróság öt évnél nem régebben kelt jogerős határozatban szankciót alkalmazott, illetőleg akit a tőzsde vagy más szervezet etikai bizottsága, tanácsa öt éven belül súlyos etikai vétség elkövetése miatt elmarasztalt;
 - c) lakóhelye (tartózkodási helye) vagy székhelye szerinti ország hatóságaitól információ nem szerezhető meg, és a tulajdonszerzési engedélyezés elbírálásához szükséges információ megadását önként nem vállalja.
 
 (2) Az (1) bekezdés b) pontjában meghatározott esetben a személyre szóló bírságot csak akkor kell kizáró okként figyelembe venni, ha erre az elbírálást megelőző öt év alatt legalább három esetben került sor.
 
-(3) E törvény szabályozott piacot és tőzsdét, központi szerződő felet, valamint központi értéktárat érintő rendelkezéseiben előírt büntetlen előélet az alábbi bűncselekményekkel kapcsolatos büntetlenséget vagy mentesítést jelenti:
+(3) E törvény szabályozott piacot és tőzsdét, központi szerződő felet, valamint központi értéktárat érintő rendelkezéseiben előírt büntetlen előélet az alábbi bűncselekményekkel kapcsolatos büntetlenséget jelenti:
 
 - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), az 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), az 1978. évi IV. törvény XVI. fejezet III. címében, továbbá XVII. és XVIII. fejezetében meghatározott bűncselekmények,
-- b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § (1)–(4) bekezdés], a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása [Btk. 281. § (1) és (2) bekezdés], a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314-316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
+- b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád [Btk. 268. § (1)–(4) bekezdés], a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása [Btk. 281. § (1) és (2) bekezdés], a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
+
+(3a) Akinek e törvény a büntetlen előéletet előírja, annak az (3) bekezdés a) és b) pontja szerinti bűncselekmények vonatkozásában kell büntetlen előéletűnek lennie, amely tényt
+
+- a) magyar állampolgár esetén a Felügyelet által beszerzett vagy az ügyfél által szolgáltatott – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (1) bekezdése alapján kibocsátott hatósági bizonyítvány szerinti tartalmú – adatok igazolják,
+- b) nem magyar állampolgár esetén az általa beszerzett, és a Felügyelet számára a kérelemmel együtt megküldött, a nem magyar állampolgár személyes joga szerinti, az a) pontban foglalt hatósági bizonyítványnak megfelelő okirat igazolja.
 
 (4) Az (1)–(3) bekezdésben meghatározott kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
 
@@ -2999,7 +3006,9 @@ foglaltakat.
 
 358. § (1) A tőzsde, a központi szerződő fél, illetve a központi értéktár által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló (könyvvizsgáló cég) részére adható megbízás, amely rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.
 
-(2)–(4)
+(2) A szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálókra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég részére adható megbízás, amely rendelkezik kibocsátói minősítéssel.
+
+(3)–(4)
 
 (5)
 
@@ -3091,81 +3100,9 @@ foglaltakat.
 
 375. § A Felügyelet – törvény eltérő rendelkezése hiányában – más személynek vagy hatóságnak tőzsdéről, központi értéktárról, központi szerződő félről, illetve ezek tevékenységéről kizárólag egyedi azonosításra nem alkalmas, összesített adatokat adhat át.
 
-### LII. Fejezet — A PÉNZ- ÉS TŐKEPIACI ÁLLANDÓ VÁLASZTOTTBÍRÓSÁG
+### LII. Fejezet
 
-376. § (1) Tőzsde, valamint a hitelintézetek és a befektetési vállalkozások szakmai érdekképviseleti szervei közösen megalapíthatják és működtethetik a Pénz- és Tőkepiaci Állandó Választottbíróságot.
-
-(2) A Pénz- és Tőkepiaci Állandó Választottbíróság hatáskörére, eljárására a Vbt. rendelkezéseit a (3)–(6) bekezdésben meghatározott eltérésekkel kell alkalmazni.
-
-(3) A Pénz- és Tőkepiaci Állandó Választottbíróság eljárásának van helye
-
-- a) a törvény hatálya alá tartozó értékpapír forgalomba hozatalával, befektetési szolgáltatással, befektetési szolgáltatást kiegészítő szolgáltatással és árutőzsdei szolgáltatással;
-- b) befektetők egymás közötti, pénzügyi eszközzel;
-- c) részvényesi jogokkal;
-- d) a tőzsdei ügylettel;
-- e) a befektetési vállalkozás, hitelintézet és ügyfele között pénzügyi eszközre vonatkozó megbízás elfogadásának megtagadásával;
-- f) a tőzsde szabályzatával;
-- g) a központi szerződő fél és a központi értéktár alapszabályával, üzletszabályzatával és szabályzataival;
-- h) pénzügyi szolgáltatással és kiegészítő pénzügyi szolgáltatással;
-- i) a befektetési és pénzügyi szolgáltatók kizárólagosságot nem sértő egyéb szolgáltatási tevékenységével
-
-kapcsolatos jogvitában, ha a felek a választottbírósági eljárást választottbírósági szerződésben kikötötték és az eljárás tárgyáról szabadon rendelkezhetnek.
-
-(4) A Pénz- és Tőkepiaci Állandó Választottbíróság eljárása kiköthető a Vbt. 3. § (1) bekezdésének a) pontjában foglalt feltétel hiányában is.
-
-(5) A (3) bekezdés a)–b), valamint d)–i) pontjaiban meghatározott ügyekben kizárólag a Pénz- és Tőkepiaci Állandó Választottbíróság eljárása köthető ki, ideértve a Vbt. 47. §-a alapján nemzetközinek minősülő ügyeket is. A kizárólagosság a belföldi székhelyű állandó választottbíróságok tekintetében áll fenn.
-
-(6) A hitelintézet és a befektetési vállalkozás a választottbíráskodásra vonatkozó üzletszabályzati kikötését az üzletszabályzat első módosításakor, de legkésőbb 2003. december 31-ig köteles e § előírásainak megfelelően módosítani.
-
-(7) A Pénz- és Tőkepiaci Állandó Választottbíróság eljárásának e § szerinti kikötése nem érinti
-
-- a) a 2002. január 1-je előtt megkötött egyedi szerződésben, valamint
-- b) a hitelintézet és a befektetési vállalkozás üzletszabályzatában – a (6) bekezdés szerinti módosítás előtt – szereplő,
-
-a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróság hatáskörének kikötésére vonatkozó esetleges előírás érvényességét. Az ilyen kikötések alapján a jogvita választottbírósági rendezésére továbbra is – a felek eltérő rendelkezése hiányában – a Magyar Kereskedelmi és Iparkamara mellett működő Állandó Választottbíróságnak van hatásköre.
-
-(8) A Pénz- és Tőkepiaci Állandó Választottbíróság választottbírói testületének tagjait a tőzsde közgyűlése és az érdek-képviseleti szervek testületi ülése jelöli ki meghatározott időre első alkalommal a Tőzsdei Választottbíróság elnökségének, azt követően a Pénz- és Tőkepiaci Állandó Választottbíróság elnökségének javaslata alapján.
-
-(9) A Pénz- és Tőkepiaci Állandó Választottbíróság jogi személy. Székhelye Budapest.
-
-(10) A Pénz- és Tőkepiaci Állandó Választottbíróság jogi személyiségét létesítő okiratának Nemzetgazdasági Közlönyben történő közzététele napjával nyeri el. A közzétételt a miniszter rendeli el a Pénz- és Tőkepiaci Állandó Választottbíróság bejelentése alapján. A bejelentéshez mellékelni kell az létesítő okiratot.
-
-(11) A Pénz- és Tőkepiaci Állandó Választottbíróság létesítő okiratában meg kell határozni:
-
-- a) a választottbíróság szervezeti rendjét,
-- b) az elnökség tagjai kijelölésének szabályait,
-- c) a választottbíróság képviseletének rendjét,
-- d) az elnökség feladatait, jogkörét,
-- e) az alapítói hozzájárulás összegét.
-
-(12) A Pénz- és Tőkepiaci Állandó Választottbíróság működésének forrásai:
-
-- a) alapítói hozzájárulások,
-- b) választottbírósági díjak,
-- c) a vagyon hozama,
-- d) egyéb bevételek.
-
-(13) A Pénz- és Tőkepiaci Állandó Választottbíróság szervezete a választottbírói testületből, a testület tagjai közül kijelölt legalább három, legfeljebb öt tagú elnökségből és a Gazdasági Hivatalból áll.
-
-(14) Az elnökség a Pénz- és Tőkepiaci Állandó Választottbíróság általános döntéshozó és irányító szerve. Az elnökség kijelölésének és működésének szabályait a létesítő okirat és a Pénz- és Tőkepiaci Állandó Választottbíróság szabályzatai tartalmazzák.
-
-(15) A Pénz- és Tőkepiaci Állandó Választottbíróságot harmadik személlyel szemben, a bíróság és hatóságok előtt az elnökség tagjai, illetve az általuk arra felhatalmazott személyek képviselik a Pénz- és Tőkepiaci Állandó Választottbíróság szabályzataiban meghatározott módon.
-
-(16) A Pénz- és Tőkepiaci Állandó Választottbíróság szabályzatait maga állapítja meg. A díj- és költségviselés szabályait is magába foglaló eljárási szabályzatot a Pénzügyi Közlönyben kell közzétenni.
-
-(17) A Pénz- és Tőkepiaci Állandó Választottbíróság eszközei nem vonhatók el, azok kizárólag a választottbíráskodás működtetéséhez és fejlesztéséhez használhatók fel az létesítő okiratban meghatározottak alapján.
-
-(18) A Pénz- és Tőkepiaci Állandó Választottbíróság tevékenysége kizárólag a választottbíráskodás és a szervezet működtetése, gazdasági, vállalkozói tevékenységet nem végezhet.
-
-(19) Szabad pénzeszközét a Pénz- és Tőkepiaci Állandó Választottbíróság kizárólag állampapírba fektetheti. A Pénz- és Tőkepiaci Állandó Választottbíróság ingatlant kizárólag székhelyének megvásárlása céljából szerezhet.
-
-(20) A Pénz- és Tőkepiaci Állandó Választottbíróság bevételei után társasági és helyi adót nem fizet.
-
-(21)
-
-(22) A Pénz- és Tőkepiaci Állandó Választottbíróság beszámoló készítési és könyvvezetési kötelezettségét külön jogszabály állapítja meg.
-
-(23) A Pénz- és Tőkepiaci Állandó Választottbíróság megszüntetésére irányuló szándékot az elnökség köteles tizenkét hónappal a javasolt megszűnési időpont előtt bejelenteni a miniszternek. A bejelentéshez mellékelni kell a hitelezői igények maradéktalan kielégítésének igazolását és a folyamatban lévő választottbírósági eljárások lezárásának ütemtervét. A Pénz- és Tőkepiaci Állandó Választottbíróság megszüntetését, valamint a megszüntetés napját a miniszter a Pénzügyi Közlönyben közzéteszi.
+376. §
 
 ## TIZENKETTEDIK RÉSZ — A TŐKEPIAC ÉS A TŐKEPIACON TEVÉKENYSÉGET FOLYTATÓ INTÉZMÉNYEK, SZEMÉLYEK FELÜGYELETE
 
@@ -3447,7 +3384,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - v) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 4. és 9-11. cikkében előírt kötelezettség megsértése esetén a kötelezettségének teljesítését elmulasztó személyt vagy szervezetet figyelmezteti, illetve – ha szükséges – a kötelezettségének való megfelelésre felszólítja,
 - w) az V. Fejezetben foglalt tájékoztatási kötelezettségek megsértése esetén a tájékoztatásra kötelezettel szemben 1. a jogsértés megállapítását követően a honlapján nyilvános közleményt tehet közzé a felelős tájékoztatásra kötelezett és a jogsértés jellegének megjelölésével, 2. megtilthatja a felelős tájékoztatásra kötelezett számára a jogsértést megvalósító magatartás folytatását vagy megismétlését, illetve 3. bírságot szabhat ki.
 
-(2) A Felügyelet az (1) bekezdés h), i), n), o), r), s) és v) pontjában meghatározott határozatának felülvizsgálatára irányuló perben a bíróság soron kívül jár el. A tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek a bírósághoz érkezésétől számított nyolcadik napra kell kitűzni.
+(2)
 
 (3)
 
@@ -3492,7 +3429,7 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (2) A felügyeleti biztos kirendelésének ideje alatt az igazgatóság tagja a gazdasági társaságokra vonatkozó törvényi rendelkezésekben és az alapszabályban rögzített feladatát, cégjegyzési jogát nem gyakorolhatja. A kirendelés tartamára a felügyeleti biztos gyakorolja az igazgatóság tagjának törvényben és alapszabályban megállapított jogait és kötelezettségeit.
 
-(3) A (2) bekezdéstől eltérően az igazgatóság és a felügyelőbizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogorvoslattal élhet a felügyeleti biztost kirendelő határozat és a Felügyelet által a szabályozott piaccal, a tőzsdével, a központi szerződő féllel, a központi értéktárral szemben hozott határozat ellen, e jogorvoslati eljárásban a szabályozott piacot, a tőzsdét, a központi szerződő felet, a központi értéktárat képviselheti vagy a képviselet ellátására megbízást adhat.
+(3) A (2) bekezdéstől eltérően az igazgatóság és a felügyelőbizottság tagja a felügyeleti biztos kirendelésének ideje alatt is jogosult arra, hogy a felügyeleti biztost kirendelő határozatot és a Felügyelet által a szabályozott piaccal, a tőzsdével, a központi szerződő féllel, a központi értéktárral szemben hozott határozatot közigazgatási perben megtámadja.
 
 (4) A felügyeleti biztos feladata:
 
@@ -3777,7 +3714,7 @@ a 909/2014/EU rendelet szerinti központi értéktári tevékenység – szakos�
 
 #### A törvényben hivatkozott jogszabályok rövidítései
 
-- 1. Art.: az adózás rendjéről szóló 2003. évi XCII. törvény,
+- 1.
 - 2. Áht.: az államháztartásról szóló 2011. évi CXCV. törvény,
 - 3. Bit.: a biztosítási tevékenységről szóló törvény,
 - 4. Bszt.: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény,
@@ -3789,13 +3726,13 @@ a 909/2014/EU rendelet szerinti központi értéktári tevékenység – szakos�
 - 10. Szantv.: a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény,
 - 11. Hpt.: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény,
 - 12. Itv.: az illetékekről szóló 1990. évi XCIII. törvény,
-- 13. Ket.: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény,
+- 13.
 - 14. MNBtv.: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény.
 - 15. Pmt.: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény,
 - 16.
 - 17. Ptk.: a Polgári Törvénykönyvről szóló 2013. évi V. törvény,
 - 18. Szmt.: a számvitelről szóló 2000. évi C. törvény,
-- 19. Vbt.: a választottbíráskodásról szóló 1994. évi LXXI. törvény.
+- 19.
 - 20. Bnytv.: a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény,
 - 21. Kbftv.: a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény.
 

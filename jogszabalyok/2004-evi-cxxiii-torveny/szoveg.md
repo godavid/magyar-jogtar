@@ -80,7 +80,7 @@ III. fejezet
 
 (2) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe. Az (1) bekezdésben meghatározott szerv által történő foglalkoztatás esetén a foglalkoztató kizárólag az e §-ban szabályozott adókedvezményt érvényesítheti.
 
-(3) A kedvezmény jogosulatlan érvényesítése esetén a szociális hozzájárulási adó megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az Art. alapján kerül sor.
+(3) A kedvezmény jogosulatlan érvényesítése esetén a szociális hozzájárulási adó megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény alapján kerül sor.
 
 A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
@@ -108,7 +108,7 @@ b) munkaviszonyát felmondással vagy azonnali hatályú felmondással szüntett
 
 (5) Ez a részkedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után egyidejűleg nem vehető igénybe.
 
-(6) A részkedvezmény jogosulatlan érvényesítése esetén azaz adó, befizetésére és bevallására, a bírság és pótlék megállapítására az Art. szabályai alapján kerül sor.
+(6) A részkedvezmény jogosulatlan érvényesítése esetén azaz adó, befizetésére és bevallására, a bírság és pótlék megállapítására az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szabályai alapján kerül sor.
 
 (7) A részkedvezmény megtérítésére a 4/A. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
@@ -190,7 +190,7 @@ ad ki.
 - a) az ösztöndíjas foglalkoztatott személyi adatait (név, leánykori név, anyja neve, születési hely, év, hónap, nap);
 - b) az ösztöndíjas foglalkoztatott TAJ számát;
 - c) a foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban töltött idő tartamát;
-- d) a foglalkoztatási ösztöndíjból jogerős határozat vagy jogszabály alapján levonandó tartozást, illetve ennek jogosultságát, vagy azt, hogy az ösztöndíjat tartozás nem terheli;
+- d) a foglalkoztatási ösztöndíjból végleges határozat vagy jogszabály alapján levonandó tartozást, illetve ennek jogosultságát, vagy azt, hogy az ösztöndíjat tartozás nem terheli;
 - e) az ösztöndíjas foglalkoztatott pénztártag által választott magánnyugdíj-pénztár megnevezését, címét, pénzforgalmi számlaszámát. Ha a tagságra kötelezett ösztöndíjas foglalkoztatott nem választott pénztárat, ezt a tényt jelezni kell, és meg kell jelölni az illetékes területi pénztár megnevezését, címét.
 
 (7) Az ajánlólevél tartalmazza:
@@ -229,7 +229,7 @@ ad ki.
 
 (8) Az állami adóhatóság a Rehabilitációs kártyára való jogosultság megszűnése esetén a kártyát visszavonja. A Rehabilitációs kártyával rendelkező személy a visszavont kártyát az állami adóhatóságnak visszaszolgáltatja.
 
-(9) A Rehabilitációs kártyával kapcsolatos eljárások során az adózás rendjéről szóló törvény rendelkezéseit e törvény rendelkezései figyelembevételével kell alkalmazni.
+(9) A Rehabilitációs kártyával kapcsolatos eljárások során az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit e törvény rendelkezései figyelembevételével kell alkalmazni.
 
 16/B. § (1) A munkaadó az őt az érvényes Rehabilitációs kártyával rendelkező megváltozott munkaképességű személlyel fennálló adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő számított adóból adókedvezményt vehet igénybe. A kedvezmény az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb a minimálbér kétszeresének az Eat. 459. § (1) bekezdésében meghatározott adómérték szerinti része.
 

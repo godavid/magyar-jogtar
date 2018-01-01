@@ -26,7 +26,7 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 - c) elidegenítéséhez vagy megterheléséhez, ha azt a helyi önkormányzat szociális, egészségügyi, oktatási vagy művelődési feladatainak megvalósítása érdekében kéri és az elidegenítendő ingatlan helyett azzal értékében és sportcélú használatában egyező másik ingatlant (a továbbiakban: csereingatlan) biztosít;
 - d) megterheléséhez, ha annak célja közszolgáltatás vagy közüzem működésének biztosítása a közszolgáltató javára történő szolgalmi jog, használati jog, vezetékjog ingatlan-nyilvántartásba történő bejegyzése.
 
-(6) Az (5) bekezdésben meghatározott méltányosság iránti kérelemhez jogszabályban meghatározott okiratokat, terveket és adatokat kell csatolni. A méltányossági eljárás szabályait jogszabály határozza meg.
+(6)
 
 (7) Kizárólag sportcélú használatra létrehozott repülőtér esetében az (5) bekezdés szerinti méltányosság gyakorlásának feltétele a közlekedésért felelős miniszter, valamint a honvédelemért felelős miniszter feladat- és hatáskörük figyelembevételével gyakorolt egyetértése. A honvédelemért felelős miniszter egyetértési jogát a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény szerinti honvédelmi érdekek figyelembevételével gyakorolja.
 
@@ -43,6 +43,15 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 (13) A (10) bekezdés, illetve a (12) bekezdés alkalmazása esetén a magyar állam által a tulajdonjog, illetve egyéb vagyoni értékű jog megszerzéséért teljesítendő ellenérték nem haladhatja meg az érintett ingatlan, illetve vagyoni értékű jog igazságügyi ingatlanforgalmi szakértő által megállapított értékének az 1. számú mellékletben meghatározott értékekkel csökkentett összegét.
 
 (14) A (10) és (12) bekezdés szerinti kérelemhez a sportszervezet mint kérelmező az ingatlan tulajdonjoga megszerzésének időpontját igazoló okiratot, valamint az ingatlan (10) bekezdés szerinti elidegenítésére, illetve (12) bekezdés szerinti terhelésére vonatkozó okiratokat, valamint a (13) bekezdés szerinti értékbecslést köteles csatolni.
+
+(15) A méltányossági eljárás indulására irányuló kérelem nem terjeszthető elő kormányablaknál.
+
+(16) A méltányossági eljárásban – a (10) és (12) bekezdésben foglaltak kivételével –
+
+- a) sommás eljárásnak nincs helye és
+- b) az ügyintézési határidő kilencven nap.
+
+(17) A méltányossági eljárásban – a (10) és (12) bekezdésben foglaltak kivételével – hiánypótlásra felhívásnak legfeljebb két alkalommal van helye.
 
 6. §
 
@@ -62,7 +71,7 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 (2) A törvény hatálya alá tartozó repülőterek tulajdonjogának átruházása során a légiközlekedésről szóló 1995. évi XCVII. törvény 40. §-ának rendelkezéseit nem kell alkalmazni.
 
-10. § Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg az 5. § (5) bekezdésében meghatározott méltányossági hozzájárulás iránti kérelemhez csatolandó okiratok, tervek és adatok körét, a méltányossági eljárás szabályait, valamint a 7. § (1) bekezdés szerinti ellenőrzés részletes szabályait.
+10. §
 
 11–12. §
 

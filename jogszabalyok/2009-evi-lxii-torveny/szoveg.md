@@ -90,7 +90,7 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (4) Ha a szerződéskötésre a tulajdonjog átszállása miatt kerül sor, az e törvény szerinti új üzemben tartó köteles a tulajdonjog átszállását követően a biztosítási szerződést haladéktalanul megkötni.
 
-(4a) Ha az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a kockázatviselés 19. § (5a) bekezdésében meghatározott megszűnését követő naptól terheli. Ha a biztosítási szerződést a (6) bekezdésben meghatározottak szerint nem tartották hatályban és az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő naptól terheli.
+(4a) Ha az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a kockázatviselés 19. § (5a) bekezdésében meghatározott megszűnését követő naptól terheli. Ha a biztosítási szerződést a (6) bekezdésben meghatározottak szerint nem tartották hatályban és az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a peres, nemperes eljárásban hozott döntés jogerőre emelkedését vagy hatósági eljárásban hozott döntés véglegessé válását követő naptól terheli.
 
 (5) Ideiglenes forgalomban tartás engedélyezése, illetve ideiglenes forgalmi engedély kiadása esetén a biztosítási kötelezettség az ideiglenes forgalomban tartási engedély, illetve az ideiglenes forgalmi engedély érvényességének időtartama alatt áll fenn.
 
@@ -106,31 +106,36 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (3) A (2) bekezdésben meghatározott esetben az üzemben tartó annál a biztosítónál köteles a szerződést – az újrakötött szerződés kockázatviselési kezdetének időpontjában alkalmazandó díjtarifa alapján – megkötni, ahol a szerződése díjnemfizetés miatt szűnt meg.
 
-(4) Az a biztosító, amely a szerződés biztosítási időszak végére történő felmondására nyilatkozatot tett vagy a szerződés a biztosítási időszak alatt díjnemfizetés miatt szűnt meg, az üzemben tartónak a szerződés megszűnését közvetlenül követő biztosítási időszakra vonatkozó ajánlatát nem köteles elfogadni.
+(4) Az a biztosító, amely a szerződés biztosítási időszak végére történő felmondására nyilatkozatot tett, az üzemben tartónak a szerződés megszűnését közvetlenül követő biztosítási időszakra vonatkozó ajánlatát nem köteles elfogadni.
 
-6. § (1) A biztosítási szerződés a felek írásbeli megállapodásával jön létre.
+6. § (1) A szerződés – a Polgári Törvénykönyv rendelkezései szerinti módokon túl – úgy is létrejön, ha a szerződő üzemben tartó a díjtarifának és a biztosítási feltételeknek megfelelő ajánlatát a jogviszony tartalmára, és a biztosítási feltételekre vonatkozó tájékoztatás ismeretében, a biztosító által a szerződéskötés céljából meghatározott tartalommal a biztosító vagy annak képviselője részére átadja.
 
-(2) A szerződés úgy is létrejön, ha a szerződő üzemben tartó a díjtarifának és a biztosítási feltételeknek megfelelő ajánlatát a jogviszony tartalmára, és a biztosítási feltételekre vonatkozó tájékoztatás birtokában, a biztosító által rendszeresített ajánlati lapon a biztosító vagy annak képviselője részére átadja.
+(2) A biztosító az (1) bekezdés szerinti ajánlatot annak átadásától számított 15 napon belül az 5. § (4) bekezdésében meghatározott indok alapján utasíthatja el.
 
-(3) A biztosító a (2) bekezdés szerinti ajánlatot annak átadásától számított 15 napon belül az 5. § (4) bekezdésében meghatározott indokok alapján utasíthatja el.
+(3) Ha az üzemben tartó ajánlata nem felel meg az (1) bekezdésben meghatározott feltételeknek, a szerződés akkor is létrejön, ha a biztosító az ajánlatra 15 napon belül nem nyilatkozik.
 
-(4) Ha az üzemben tartó ajánlata nem felel meg a (2) bekezdésben meghatározott feltételeknek, a szerződés akkor is létrejön, ha a biztosító az ajánlatra 15 napon belül nem nyilatkozik.
+(4) Az (1) és (3) bekezdés szerinti esetben a szerződés az ajánlat hatályosulásának időpontjára visszamenő hatállyal – az ajánlat szerinti tartalommal – jön létre.
 
-(5) A (2) és (4) bekezdés szerinti esetben a szerződés az ajánlat átadásának időpontjában – az ajánlat szerinti tartalommal – jön létre.
+(5) A biztosító a (3) bekezdésben meghatározott esetben az ajánlatot annak átadásától számított 15 napon belül a díjtarifától és a biztosítási feltételektől való eltérésre történő hivatkozással, illetve az 5. § (4) bekezdésében meghatározott indok alapján elutasíthatja, vagy igazolható módon elküldött javaslatot tehet az ajánlat díjtarifának és a biztosítási feltételeknek megfelelő módosítására. Ha az ajánlat módosítására tett javaslatot a szerződő a kézhezvételtől számított 15 napon belül nem kifogásolja, a szerződés a tizenötödik nap elteltével az ajánlat hatályosulásának időpontjára visszamenő hatállyal a módosított ajánlat szerint létrejön.
 
-(6) A biztosító a (4) bekezdésben meghatározott esetben az ajánlatot annak átadásától számított 15 napon belül a díjtarifától és a biztosítási feltételektől való eltérésre történő hivatkozással, illetve az 5. § (4) bekezdésében meghatározott indokok alapján elutasíthatja, vagy igazolható módon elküldött javaslatot tehet az ajánlat díjtarifának és a biztosítási feltételeknek megfelelő módosítására. Ha az ajánlat módosítására tett javaslatot a szerződő a kézhezvételtől számított 15 napon belül nem kifogásolja, a szerződés az (5) bekezdésben meghatározott időpontban a módosított ajánlat szerint létrejön.
+(6) Ha a biztosító az ajánlat módosítására tesz javaslatot, köteles az üzemben tartó figyelmét felhívni az ajánlat módosítására vonatkozó javaslat tényére, valamint a javaslatnak az ajánlathoz viszonyított lényeges eltéréseire. Ennek hiányában a szerződés az ajánlat tartalmának megfelelően jön létre.
 
-(7) Ha a biztosító az ajánlat módosítására tesz javaslatot, köteles az üzemben tartó figyelmét felhívni az ajánlat módosításának tényére, valamint az ajánlathoz viszonyított lényeges eltérésekre. Ennek hiányában a szerződés az ajánlat tartalmának megfelelően jön létre.
+(7) Ha a szerződés nem írásban jött létre, a biztosító köteles az e §-ban meghatározottak szerint létrejött szerződés tartalmával egyező tartalmú okiratot (ideértve a kötvényt is) kiállítani és azt a vele szerződő fél rendelkezésére bocsátani vagy számára hozzáférhetővé tenni.
 
-(8) A biztosító kötvényt az e §-ban meghatározottak szerint létrejött szerződés tartalmával egyező tartalommal bocsáthat ki.
+7. § (1) A biztosítási szerződést a biztosítási időszak utolsó napjára (biztosítási évfordulóra), azt legalább 30 nappal megelőzően
 
-7. § (1) A szerződő felek bármelyike a biztosítási időszak utolsó napjára (biztosítási évfordulóra), azt legalább 30 nappal megelőzően a biztosítási szerződést írásban, indoklás nélkül felmondhatja. A felmondás akkor hatályos, ha az a másik félhez határidőben megérkezik.
+- a) a biztosító írásban,
+- b) a szerződő üzemben tartó írásban vagy – a felek megállapodása alapján – elektronikus úton
+
+indokolás nélkül felmondhatja.
+
+(1a) A felmondás akkor hatályosul, ha az a másik félhez határidőben megérkezik.
 
 (2) A biztosítási időszakon belül – az e törvényben meghatározott eseteken túl – a szerződés csak a felek közös megegyezésével szüntethető meg.
 
 (3) A szerződés érdekmúlással szűnik meg a gépjármű forgalomból történő kivonásával, az üzemben tartó változása esetén, illetve szünetelés esetén, ha az újbóli üzembe helyezés a kivonás napjától számított egy éven belül nem történik meg.
 
-(3a) Ha az üzemben tartó személyének változása – peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés alapján – oly módon következik be, hogy a tulajdonjog átszállásának, illetve az üzemben tartói jogosultság megszűnésének időpontja a járműnyilvántartásba a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntést megelőző időpontként kerül bejegyzésre, a szerződés – a (3) bekezdéstől eltérően – a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő harmincadik napon érdekmúlással megszűnik, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.
+(3a) Ha az üzemben tartó személyének változása – peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés alapján – oly módon következik be, hogy a tulajdonjog átszállásának, illetve az üzemben tartói jogosultság megszűnésének időpontja a járműnyilvántartásba a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntést megelőző időpontként kerül bejegyzésre, a szerződés – a (3) bekezdéstől eltérően – a peres, nemperes eljárásban hozott döntés jogerőre emelkedését vagy hatósági eljárásban hozott döntés véglegessé válását követő harmincadik napon érdekmúlással megszűnik, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.
 
 (4) A szerződés érdekmúlással szűnik meg a tulajdonjog átszállása esetén, ha a szerződéskötésre kötelezett üzemben tartó személyében változás áll be.
 
@@ -242,13 +247,13 @@ Az Országgyűlés a károsultak fokozott védelme, a gépjárművel okozott ká
 
 (2) Ahhoz, hogy a biztosító kockázatviselése már a biztosítási szerződés létrejöttét megelőzően megkezdődjék, a biztosító vagy az általa feljogosított személy írásbeli elfogadó nyilatkozata szükséges.
 
-(3) Semmis a biztosító által egyoldalúan, a másik fél közreműködése nélkül meghatározott és egyedileg meg nem tárgyalt szerződési (biztosítási) feltétel, amennyiben olyan kikötést tartalmaz, hogy a biztosító csak a díj (első díjrészlet) befizetését követően viseli a kockázatot.
+(3) Semmis a biztosító által egyoldalúan, a másik fél közreműködése nélkül meghatározott és egyedileg meg nem tárgyalt szerződési (biztosítási) feltétel, amennyiben olyan kikötést tartalmaz, hogy a biztosító csak a díj (első díjrészlet) befizetését követően viseli a kockázatot, ide nem értve azt az esetet, amikor a biztosító a díj (első díjrészlet) azonnali fizetését az ajánlattételi folyamat megkerülhetetlen részévé teszi.
 
 (4) A biztosító kockázatviselése a 21. § (4) bekezdésében meghatározott türelmi időben fennáll.
 
 (5) A szerződés érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a forgalomból történő kivonás, a forgalomban történő részvétel végleges megszüntetése, a szerződéskötésre kötelezett üzemben tartó személyének változása esetén a tulajdonjog átszállása, illetve az üzemben tartói jogosultság megszűnésének – járműnyilvántartásba bejegyzett – időpontjában szűnik meg.
 
-(5a) A szerződés 7. § (3a) bekezdésében meghatározott érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő harmincadik napon szűnik meg, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.
+(5a) A szerződés 7. § (3a) bekezdésében meghatározott érdekmúlással történő megszűnése esetén a biztosító kockázatviselése a peres, nemperes eljárásban hozott döntés jogerőre emelkedését vagy hatósági eljárásban hozott döntés véglegessé válását követő harmincadik napon szűnik meg, feltéve, ha eddig az időpontig a szerződés egyéb okból még nem szűnt meg.
 
 (6) A biztosító kockázatviselése a szerződés közös megegyezéssel történő megszüntetése esetén a szerződés megszűnésének időpontjában, a szerződés biztosítási időszak végére történő felmondása esetén a biztosítási időszak zárónapján szűnik meg.
 
@@ -561,6 +566,8 @@ megillető minden jog és követelés.
 
 (2) A Nemzeti Iroda ellátja a Kártalanítási Szervezet és az Információs Központ e jogszabályban meghatározott feladatait.
 
+(2a) A Nemzeti Iroda a határbiztosítással kapcsolatos feladatok ellátásáról gondoskodik, ezen feladatok elvégzésére biztosítóval megbízási szerződést köthet.
+
 (3) Ha Magyarország területén külföldi telephelyű gépjármű üzemeltetésével okoztak kárt és a külföldi károsult szokásos tartózkodási helye nem valamely tagállam területén van, a külföldi károsult a Nemzeti Irodával szemben az (1) bekezdés alapján kártérítési igényt kizárólag abban az esetben érvényesíthet, ha országában a baleset időpontjában a magyar károsultat hasonló jog illette meg.
 
 (3a) A Nemzeti Iroda megtérítése folytán a károsultat a károkozóval és biztosítójával szemben megillető követelés a Nemzeti Irodára száll át.
@@ -636,6 +643,8 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett.
 
 (2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
+
+(2a) A kötvénynyilvántartó szerv az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv részére az adatigénylés teljesítése érdekében közvetlen hozzáférést biztosít a kötvénynyilvántartás (1) bekezdés m) pontjában meghatározott adataihoz.
 
 (3) Az (1) bekezdés n) pontjában szereplő adatigénylő az adatszolgáltatásért a mindenkori általános tételű eljárási illetéknek megfelelő összegű díjat köteles fizetni a kötvénynyilvántartó szerv részére.
 
@@ -792,7 +801,7 @@ késedelem nélkül megkapja.
 56/B. § (1) A MABISZ elkülönített szervezeti egysége az 56. § (1) bekezdésében meghatározott feladatai ellátásához
 
 - a) vezető aktuáriust,
-- b) vezető jogtanácsost,
+- b) vezető jogászt,
 - c) számviteli rendért felelős vezetőt, és
 - d) belső ellenőrzési vezetőt,
 
@@ -809,7 +818,7 @@ munkaviszony keretében, a MABISZ részére ellátott, az 56. § (1) bekezdésé
 (6) Az a személy foglalkoztatható
 
 - a) vezető aktuáriusként, aki megfelel a Bit. 57. § (1) bekezdés a)–d) pontjában;
-- b) vezető jogtanácsosként, aki megfelel a Bit. 59. § (1) bekezdés a)–e) pontjában;
+- b) vezető jogászként, aki megfelel a Bit. 59. § (1) bekezdés a)–e) pontjában;
 - c) számviteli rendért felelős vezetőként, aki megfelel a Bit. 61. § (1) bekezdés a)–e) pontjában;
 - d) belső ellenőrzési vezetőként, aki megfelel a Bit. 63. § (2) bekezdés a)–d) pontjában
 
@@ -831,7 +840,7 @@ meghatározott feltételeknek, és vele szemben a Bit. 83. § (5) bekezdésében
 
 (4) Az aktuáriusi jelentés tartalmi követelményeit a Felügyelet elnöke rendeletben állapítja meg.
 
-56/E. § A vezető jogtanácsos aláírásával igazolja, hogy a Felügyelethez engedélyezésre benyújtott vagy bejelentési kötelezettség alapján megküldött okiratok a jogszabályoknak megfelelnek.
+56/E. § A vezető jogász aláírásával igazolja, hogy a Felügyelethez engedélyezésre benyújtott vagy bejelentési kötelezettség alapján megküldött okiratok a jogszabályoknak megfelelnek.
 
 56/F. § A számviteli rendért felelős vezető a felelős vezető mellett aláírásával igazolja a Felügyeletnek beküldött, az 57/A. § (3) bekezdése szerinti éves gazdálkodási jelentés és az 57/A. § (9) bekezdése szerinti jelentés, továbbá a Bit. 6. mellékletében meghatározott csoportosítás szerinti külön eszköznyilvántartás helytállóságát.
 

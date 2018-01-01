@@ -93,7 +93,7 @@ a lőfegyverekről és lőszerekről
 
 (3a) Lőfegyver filmgyártási célra történő tartása kizárólag a Kormány rendeletében meghatározott feltételeknek megfelelő szervezet részére engedélyezhető. A filmgyártási célú lőfegyver tartására jogosult szervezet vaktöltény gyártására jogosult tagja az engedélyezett fegyverhez tartozó vaktöltényt külön engedély nélkül készíthet.
 
-(4) A lőfegyver vagy lőszer kereskedelmi célú behozatalának, kivitelének, illetve átszállításának engedélyezése iránti kérelem elbírálása során a szakhatósági közreműködés rendjét kormányrendelet határozza meg.
+(4)
 
 (5) Lőfegyvernek az Európai Unió valamely tagállamába történő – nem kereskedelmi vagy elidegenítési célú – kiviteléhez a rendőrség által kiadott európai lőfegyvertartási engedély szükséges. Európai lőfegyvertartási engedély a lőfegyver tartására jogosult természetes személynek adható.
 
@@ -115,7 +115,7 @@ a lőfegyverekről és lőszerekről
   - bc) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltáig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított négy évig,
 - c) a b) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig,
 - d) szabálysértési felelősségét polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértés, lőfegyverrel kapcsolatos szabálysértés, a közbiztonságra különösen veszélyes eszközzel kapcsolatos szabálysértés, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 169. § (2) bekezdés a) pontja szerinti rendzavarás, közbiztonsági tevékenység jogosulatlan végzése, számszeríj, szigonypuska jogellenes használata, veszélyes fenyegetés vagy jogosulatlan vadászat elkövetése miatt a szabálysértési hatóság jogerősen megállapította, a határozat jogerőre emelkedését követő hat hónapig,
-- e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét súlyosan megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedélyt visszavonó határozat jogerőre emelkedését követő hat hónapig.
+- e) az engedély kiadására vonatkozó kérelmében valótlan adatot közöl, a kérelemmel összefüggő valós adatot elhallgat vagy a fegyverre, lőszerre (töltényre) lőszerelemre, lőtérre vonatkozó, jogszabályban meghatározott kötelezettségét súlyosan megszegi, a kérelem benyújtását vagy – ha ezen ok miatt az engedély visszavonása iránt eljárás indul – az engedély visszavonásáról szóló döntés véglegessé válását követő hat hónapig.
 
 (3)
 
@@ -126,8 +126,8 @@ a lőfegyverekről és lőszerekről
 
 (5) A (4) bekezdésben foglaltak alapján megismert személyes adatokat a rendőrség
 
-- a) a 3. §-ban meghatározott engedély megadása iránti eljárás jogerős befejezéséig,
-- b) a 3. §-ban meghatározott engedély megadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárásban az eljárás jogerős befejezéséig
+- a) a 3. §-ban meghatározott engedély megadása iránti eljárás során hozott döntés véglegessé válásáig,
+- b) a 3. §-ban meghatározott engedély megadása esetén a hatósági ellenőrzés időtartamára vagy az engedély visszavonására irányuló eljárás során hozott döntés véglegessé válásáig
 
 kezeli.
 
@@ -198,7 +198,13 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 
 (3) A 3. § (1) bekezdését a szolgáltatási kerettörvény szerint a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő lövészet-vezetői tevékenységére is alkalmazni kell.
 
-4/B. § A 3. § szerinti közigazgatási hatósági eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+4/B. § A 3. § szerinti közigazgatási hatósági eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+
+4/C. § A 3. § (1) bekezdése szerinti közigazagtási hatósági ügyben hozott elsőfokú döntés ellen fellebbezésnek van helye.
+
+4/D. § A 3. § (1) bekezdése szerinti közigazgatási hatósági ügyben, illetve az azzal összefüggő hatósági ellenőrzés során a hatóság a helyszíni szemlét – ha ez a közbiztonság, a közrend védelme vagy a terrorizmus elleni küzdelem érdekében, illetve bűnmegelőzési, bűnfelderítési célból szükséges, – a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtarthatja.
+
+4/E. § A 3. § (1) bekezdése szerinti közigazgatási hatósági üggyel összefüggésben zár alá vett dolog nem adható ki annak, aki nem rendelkezik a tartásához szükséges, illetve a birtoklására jogosító hatósági engedéllyel.
 
 ### AZ ADATKEZELÉS SZABÁLYAI
 
@@ -209,7 +215,7 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 - a) a rendőrség által kiadott engedélyekről és az engedéllyel rendelkezőkről – az engedély érvényességi idejének lejártától számított húsz évig – a következő adattartalommal:
   - aa) az engedély érvényességi ideje és száma,
   - ab) a lőfegyver, lőszer tulajdonosának, a lőfegyver, lőszer forgalmazásakor a vevő, az eladó (szállító), illetve a megrendelő, az engedéllyel rendelkező jogi személy vezető tisztségviselői, egyéb szervezet esetén a tevékenységért felelős vezető és a szervezet lőfegyverét, lőszerét ténylegesen birtokló személyek természetes személyazonosító adatai, állampolgársága, lakóhelye, a személyazonosság igazolására alkalmas igazolvány száma, szervezet esetében a cégszerű megnevezésben szereplő – annak hiányában az azonosításhoz szükséges – adatok,
-  - ac) az engedéllyel rendelkező személy egészségügyi alkalmasságának időtartama,
+  - ac) az engedéllyel rendelkező személy egészségi alkalmasságának időtartama,
   - ad) a nyilvántartásba vett lőfegyver fajtája (tűzfegyver vagy légfegyver), típusa, gyártója, gyártási száma, kaliberjele, tűzfegyver esetében kategóriájának betűjele és száma (a továbbiakban: a lőfegyver azonosító adatai), a lőfegyver műszaki érvényességének időtartama,
   - ae) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma,
   - af) a lőszer azonosítását lehetővé tevő adatok, valamint
@@ -383,7 +389,7 @@ jogosultak.
 
 (4) A rendőrség a hatósági ellenőrzéskor az (1) és (2) bekezdésben meghatározott feltételek fennállását vizsgálja. A rendőrség a hatósági ellenőrzés során az (1) és a (2) bekezdésben meghatározott feltételek fennállásának ellenőrzése céljából jogosult a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás hatálya alatt állók nyilvántartásából, a bírósági cégnyilvántartásból, a rendőrség által a felügyeleti bírsággal sújtott vállalkozásokról vezetett nyilvántartásból, valamint a központi szabálysértési nyilvántartásból az (1) és (2) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni.
 
-(5) A rendőrség a hatósági ellenőrzés során a (4) bekezdés szerint átvett adatokat a hatósági ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adatokat törli. Ha a hatósági ellenőrzés során a rendőrség a tevékenység gyakorlását kizáró okot tár fel és az engedély visszavonására, illetve a tevékenység végzésétől való eltiltásra eljárást indít, az átvett adatokat az eljárás jogerős befejezéséig kezelheti.
+(5) A rendőrség a hatósági ellenőrzés során a (4) bekezdés szerint átvett adatokat a hatósági ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adatokat törli. Ha a hatósági ellenőrzés során a rendőrség a tevékenység gyakorlását kizáró okot tár fel és az engedély visszavonására, illetve a tevékenység végzésétől való eltiltásra eljárást indít, az átvett adatokat az eljárás során hozott döntés véglegessé válásáig kezelheti.
 
 (6) A rendőrség a hatósági ellenőrzést évente köteles elvégezni. Ha a hatósági ellenőrzés során a rendőrség megállapítja, hogy az (1) bekezdés szerinti, a tevékenység gyakorlását kizáró feltétel áll fenn, az engedélyt visszavonja, vagy a polgári célú pirotechnikai tevékenységekről szóló kormányrendeletben meghatározott 1. és 2. pirotechnikai osztályba tartozó tűzijáték terméket, valamint a T1. és P1. pirotechnikai osztályba tartozó terméket forgalmazni kívánó vállalkozás számára előírt bejelentést tett szolgáltatót a tevékenység végzésétől eltiltja.
 
@@ -402,13 +408,22 @@ jogosultak.
 
 (6) Nincs helye felügyeleti bírság kiszabásának, ha a cselekmény elkövetése vagy a folyamatos jogsértő magatartás befejezése óta két év eltelt.
 
-(7) Ha másodfokú határozat, illetve a bíróság határozata az eljáró hatóságot új eljárás lefolytatására utasítja, a kétéves határidőt a másodfokú határozat, illetve a bíróság határozatának jogerőre emelkedése napjától kell számítani.
+(7) Ha másodfokú határozat, illetve a bíróság határozata az eljáró hatóságot új eljárás lefolytatására utasítja, a kétéves határidőt a másodfokú határozat véglegessé válása, illetve a bíróság határozatának jogerőre emelkedése napjától kell számítani.
 
 (8) Ha a szabályszegés jogellenes állapot előidézésével, illetve fenntartásával valósul meg, az elévülési határidő mindaddig nem kezdődik el, amíg a jogellenes állapot fennáll.
 
 (9) Ha a szabályszegés kötelesség elmulasztásával valósul meg, az elévülési határidő azon a napon kezdődik, amikor az eljárás alá vont személy kötelezettségének még jogszerűen eleget tehetett volna.
 
 (10) A szabályok súlyos megsértésének minősül a személyek vagy állatok életét, testi épségét, egészségét, a természetes és jogi személyek, valamint jogi személyiség nélküli szervezetek vagyonát, valamint a természeti vagy az épített környezetet veszélyeztető szabályszegés.
+
+18/F. § A 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyben, illetve az azzal összefüggő hatósági ellenőrzés során a hatóság a helyszíni szemlét – ha ez a közbiztonság, a közrend védelme vagy a terrorizmus elleni küzdelem érdekében, illetve bűnmegelőzési, bűnfelderítési célból szükséges, – a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtarthatja.
+
+18/G. § A 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyel összefüggésben zár alá vett dolog nem adható ki annak, aki nem rendelkezik a birtoklásához szükséges, illetve az arra jogosító hatósági engedéllyel.
+
+18/H. § A hatóság visszautasítja
+
+- a) az 1–3. pirotechnikai osztályba tartozó – maximum 20 kg összes nettó hatóanyag-tartalmú – tűzijáték terméknek a jogszabály rendelkezése alapján előzetes bejelentési kötelezettség mellett a felhasználási engedély benyújtására jogosult vállalkozás felelős pirotechnikusa részéről történő engedély nélküli felhasználására vonatkozó bejelentést, valamint
+- b) az 1. és a 2. pirotechnikai osztályba tartozó tűzijáték termék forgalmazására vonatkozó előzetes bejelentést, ha azt nem a bejelentés előterjesztésére jogosult ügyfélkapuján keresztül terjesztették elő.
 
 ### ZÁRÓ RENDELKEZÉSEK
 
@@ -433,7 +448,9 @@ jogosultak.
 22. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:
 
 - a) a lőfegyverek – ideértve a filmgyártási célú lőfegyvereket is – és más fegyverek, a lőszerek, valamint a gáz-, a riasztó és a vaktöltények gyártását, javítását, szállítását, hatástalanítását, forgalmazását, megszerzését, tartását, kiállítását, behozatalát, kivitelét, átszállítását, használatát, a hatástalanított lőfegyverek tartását és forgalomba hozatalát, az engedélyek tartalmi, formai követelményeit, valamint az ezekkel összefüggő nyilvántartás és az e nyilvántartásba, illetve az abból történő adatszolgáltatás eljárási szabályait,
-- b) a polgári célú pirotechnikai termékek körét, a polgári célú pirotechnikai tevékenység folytatásának feltételeire és hatósági felügyeletére, továbbá az e tevékenységre jogosító további engedélyezési feltételekre, az engedélyek kiadásának rendjére, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, a nyilvántartás vezetésére, valamint az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek meg nem tartásának esetén alkalmazandó jogkövetkezményekre vonatkozó részletes szabályokat és a polgári célú pirotechnikai termékek felhasználásával, valamint a felhasználáshoz szükséges segédeszközök használatával kapcsolatos biztonsági szabályzatot.
+- b) a polgári célú pirotechnikai termékek körét, a polgári célú pirotechnikai tevékenység folytatásának feltételeire és hatósági felügyeletére, továbbá az e tevékenységre jogosító további engedélyezési feltételekre, az engedélyek kiadásának rendjére, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, a nyilvántartás vezetésére, valamint az e tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek meg nem tartásának esetén alkalmazandó jogkövetkezményekre vonatkozó részletes szabályokat és a polgári célú pirotechnikai termékek felhasználásával, valamint a felhasználáshoz szükséges segédeszközök használatával kapcsolatos biztonsági szabályzatot,
+- c) a 3. § (1) bekezdése szerinti közigazgatási hatósági ügyek ágazati intézményi szabályait és az ezen ügyek elbírálására irányuló közigazgatási hatósági eljáráshoz, illetve az azzal összefüggő hatósági ellenőrzéshez kapcsolódó kiegészítő eljárási rendelkezéseket,
+- d) a 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyek ágazati intézményi szabályait és az ezen ügyek elbírálására irányuló közigazgatási eljáráshoz, illetve az azzal összefüggő hatósági ellenőrzéshez kapcsolódó kiegészítő eljárási rendelkezéseket.
 
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben meghatározza:
 

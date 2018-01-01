@@ -52,7 +52,7 @@ Az Országgyűlés a társadalmi igazságosságot szem előtt tartva és figyele
 - a) a jogosult, illetve az elhunyt jogszerző természetes személyazonosító adatait, lakcímadatait,
 - b) a saját jogon pótlékra jogosultnak, illetve az elhunyt jogszerzőnek a felülvizsgálat elvégzéséhez szükséges további személyes adatait.
 
-(3) A kárpótlásért felelős miniszter és a 2/B. § szerinti szakértői bizottság a (2) bekezdésben meghatározott adatokat a pótlék felülvizsgálatára vonatkozó határozat meghozatalát követően egy évig kezelheti. Ha a határozat bírósági felülvizsgálatára kerül sor, a kárpótlásért felelős miniszter a (2) bekezdés szerinti adatokat a bírósági eljárás jogerős lezárását, felülvizsgálati kérelem benyújtása esetén a felülvizsgálati eljárás lezárását követően kilencven napig kezelheti.
+(3) A kárpótlásért felelős miniszter és a 2/B. § szerinti szakértői bizottság a (2) bekezdésben meghatározott adatokat a pótlék felülvizsgálatára vonatkozó határozat meghozatalát követően egy évig kezelheti. Ha a határozatot megtámadták, a kárpótlásért felelős miniszter a (2) bekezdés szerinti adatokat a bírósági eljárás jogerős lezárását, felülvizsgálati kérelem benyújtása esetén a felülvizsgálati eljárás lezárását követően kilencven napig kezelheti.
 
 3. § (1) A mindenkor hatályos és kihirdetett társadalombiztosítási jogszabályoktól eltérően, egyedi, kivételes eljárás során megállapított nyugdíjak folyósítását 1991. június 30. napjával — ide nem értve a törvény mellékletében felsorolt kormányhatározatokkal, valamint az 1975. évi II. törvény 13. §-a alapján szociális méltányosságból megállapított nyugellátásokat — meg kell szüntetni.
 

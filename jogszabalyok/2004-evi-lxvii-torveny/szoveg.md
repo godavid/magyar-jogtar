@@ -132,7 +132,7 @@ fenntartás
 - g) a vízjogi létesítési engedély iránti kérelem benyújtása,
 - h) a létesítmények üzembe helyezése.
 
-(3) A minősítés előtt kiadott jogerős és végrehajtható építési engedélyek a minősítés hatálybalépésével hatályukat vesztik, amennyiben a jogszerűen szerzett jogával az engedélyes nem élt (nem kezdte meg az építést).
+(3) A minősítés előtt kiadott végleges és végrehajtható építési engedélyek a minősítés hatálybalépésével hatályukat vesztik, amennyiben a jogszerűen szerzett jogával az engedélyes nem élt (nem kezdte meg az építést).
 
 (4)
 

@@ -105,7 +105,7 @@ tervezetét.
 
 (4) Országos szinten azt az országos szakszervezeti konföderációt kell reprezentatívnak tekinteni, amelynek legalább három reprezentatív ágazati szakszervezet a tagja, és tagszervezetei a közalkalmazottak legalább 5%-át képviselik.
 
-(5) A (2)–(4) bekezdés szerinti reprezentativitást 2014. március 31-ével, ezt követően minden harmadik év március 31-ével kell ismételten megállapítani.
+(5) A (2)–(4) bekezdés szerinti reprezentativitást 2014. március 31-ével, ezt követően minden ötödik év március 31-ével kell ismételten megállapítani.
 
 (6) Amennyiben a reprezentativitás kérdésében vita merül fel, az Mt. 289. §-ában meghatározott eljárásnak van helye.
 

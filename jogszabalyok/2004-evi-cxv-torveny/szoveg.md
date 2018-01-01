@@ -73,7 +73,7 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 
 (4) Ha az alapszabály a lakásszövetkezet működésének időtartamáról nem rendelkezik, a lakásszövetkezet határozatlan időre alakul meg.
 
-(5) A közgyűlés az alapszabályt – a jelenlévők szavazatának kétharmados többségével – bármikor módosíthatja. Az alapszabályt és annak módosítását közokiratba vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(5) A közgyűlés az alapszabályt – a jelenlévők szavazatának kétharmados többségével – bármikor módosíthatja. Az alapszabályt és annak módosítását közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (6) A (2) bekezdés i) pontja szerinti igények érvényesítése iránti perben a tárgyalást – ha egyéb intézkedésre nincs szükség – legkésőbb a keresetlevélnek, fizetési meghagyásos eljárás perré alakulása esetén pedig az iratoknak a bírósághoz történő érkezésétől számított harmincadik napra kell kitűzni. A kereset más keresettel nem kapcsolható össze, keresetváltoztatásnak és szünetelésnek helye nincs.
 
@@ -548,11 +548,11 @@ Az Országgyűlés az önkéntes társuláson alapuló lakásszövetkezetek ön�
 
 (3) A nem tag tulajdonos a lakásszövetkezet vállalkozási tevékenységéből eredő tartozásainak fedezése érdekében pótbefizetésre nem kötelezhető.
 
-47. § (1) Az alapszabály felhatalmazhatja a lakásszövetkezet igazgatóságát, hogy a fenntartási költség befizetésével legalább három hónapnak megfelelő hátralékba került tag vagy nem tag tulajdonos lakástulajdonának jelzáloggal való megterhelését rendelje el a hátralék megfizetésének biztosítékául. A jelzálogjog bejegyzésének elrendelése három hónapnak megfelelő hátralékonként megismételhető. Az igazgatóság határozatát ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+47. § (1) Az alapszabály felhatalmazhatja a lakásszövetkezet igazgatóságát, hogy a fenntartási költség befizetésével legalább három hónapnak megfelelő hátralékba került tag vagy nem tag tulajdonos lakástulajdonának jelzáloggal való megterhelését rendelje el a hátralék megfizetésének biztosítékául. A jelzálogjog bejegyzésének elrendelése három hónapnak megfelelő hátralékonként megismételhető. Az igazgatóság határozatát ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (2) Az igazgatóság határozatát a hátralékos tag és nem tag tulajdonos részére a jogorvoslati lehetőség feltüntetésével kézbesíteni kell.
 
-(3) Ha a bejegyzés alapjául szolgáló hátralékot kiegyenlítették, az igazgatóság a kiegyenlítést követő 8 napon belül köteles a jelzálogjog törléséhez szükséges engedélyt kiadni; az engedélyt közokiratba, vagy ügyvéd – jogkörén belül jogtanácsos – által ellenjegyzett magánokiratba kell foglalni.
+(3) Ha a bejegyzés alapjául szolgáló hátralékot kiegyenlítették, az igazgatóság a kiegyenlítést követő 8 napon belül köteles a jelzálogjog törléséhez szükséges engedélyt kiadni; az engedélyt közokiratba, vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 (4) A jelzálogjog bejegyzésével és törlésével kapcsolatos költségek a hátralékos tulajdonost terhelik.
 

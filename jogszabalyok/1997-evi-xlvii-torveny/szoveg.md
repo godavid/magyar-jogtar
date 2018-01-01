@@ -49,7 +49,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - c) statisztikai vizsgálat,
 - d) hatásvizsgálati célú anonimizálás és tudományos kutatás,
 - e) az egészségügyi adatot kezelő szerv vagy személy hatósági vagy törvényességi ellenőrzését, szakmai vagy törvényességi felügyeletét végző szervezetek munkájának elősegítése, ha az ellenőrzés célja más módon nem érhető el, valamint az egészségügyi ellátásokat finanszírozó szervezetek feladatainak ellátása,
-- f) a társadalombiztosítási, illetve szociális ellátások megállapítása, amennyiben az az egészségi állapot alapján történik,
+- f) a társadalombiztosítási, illetve szociális ellátások megállapítása, amennyiben az az egészségi állapot alapján történik, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi egészségkárosodási ellátás megállapítása,
 - g) az egészségügyi ellátásokra jogosultak részére a kötelező egészségbiztosítás terhére igénybe vehető szolgáltatások rendelésének és nyújtásának, valamint a gazdaságos gyógyszer-, gyógyászati segédeszköz- és gyógyászati ellátás rendelési szabályai betartásának a vizsgálata, továbbá a külön jogszabály szerinti szerződés alapján a jogosultak részére nyújtott ellátások finanszírozása, illetve az ártámogatás elszámolása, valamint a társadalombiztosítási ellátások megállapítása, kifizetése és a kifizetett ellátások visszafizetése, megtérítése érdekében,
 - h) bűnüldözés, továbbá a rendőrségről szóló 1994. évi XXXIV. törvényben meghatározott feladatok ellátására kapott felhatalmazás körében bűnmegelőzés,
 - i) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása, az abban kapott felhatalmazás körében,
@@ -149,7 +149,9 @@ van szükség, és
 
 (2) A háziorvos az érintettet – kérelmére – tájékoztatja a rendelkezésére álló egészségügyi adatokról.
 
-(3) Az érintett háziorvosa és a kezelését végző orvos a 4. § (1) bekezdése szerinti cél érdekében – ha az érintett ezt írásban nem tiltotta meg – jogosult az érintett által a kötelező egészségbiztosítás terhére igénybevett egészségügyi ellátás adatairól tudomást szerezni úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus lekérdezés formájában biztosítja számára. A háziorvos a hozzá bejelentkezett biztosított adatait ismerheti meg. Az érintettet a kezelést végző orvos írásban vagy szóban tájékoztatja a tiltakozás lehetőségéről. Az érintett a tiltakozását az egészségbiztosítási szerv részére személyesen, postai úton vagy a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus úton juttatja el.
+(3) Az érintett háziorvosa és a kezelését végző orvos a 4. § (1) bekezdése szerinti cél érdekében – ha az érintett ezt írásban nem tiltotta meg – jogosult az érintett által a kötelező egészségbiztosítás terhére igénybevett egészségügyi ellátás adatairól tudomást szerezni úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus lekérdezés formájában biztosítja számára. A háziorvos a hozzá bejelentkezett biztosított adatait ismerheti meg. Az érintettet a kezelést végző orvos írásban vagy szóban tájékoztatja a tiltakozás lehetőségéről. Az érintett a tiltakozását az egészségbiztosítási szerv részére személyesen, postai úton vagy elektronikus úton juttatja el.
+
+(4) A (3) bekezdés szerinti egyedi adatbetekintésre, illetve adatkezelésre történő felhatalmazás nem jogosítja fel a kezelőorvost sem az adatok esetleges továbbadására, sem más célú felhasználására.
 
 12. § (1) Az egészségügyi és a személyazonosító adatoknak az érintett részéről történő szolgáltatása – az egészségügyi ellátás igénybevételéhez kötelezően előírt személyazonosító adatok és a 13. §-ban foglaltak kivételével – önkéntes.
 

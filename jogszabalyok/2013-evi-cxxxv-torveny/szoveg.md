@@ -1003,7 +1003,7 @@ A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 21/A. § (1)
 
-(2) 2017. december 31-én hatályát veszíti a 14. § (3) bekezdése és a 14. § (4) bekezdés b) pontja.
+(2)
 
 21/B. § Felhatalmazást kap a Kormány, hogy a számvitelről szóló 2000. évi C. törvény 178. § (1) bekezdés c) pontjában kapott felhatalmazással összhangban az Integrációs Szervezet mint kötelező intézményvédelmi szervezet beszámolókészítési és könyvvezetési kötelezettségét és sajátosságait kormányrendeletben szabályozza.
 

@@ -157,7 +157,7 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 
 (7) Vendéglátó üzletben a vendégek szórakoztatására zeneszolgáltatás, műsoros előadás, táncrendezvény vagy egyéb szórakoztató szolgáltatás olyan módon nyújtható, illetve szervezhető, hogy az nem járhat a külön jogszabályban meghatározott veszélyes mértékű környezeti zajjal.
 
-(8) A világörökségi területen működő, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzlet 24 és 6 óra közötti nyitva tartásához a jegyző engedélye szükséges. Az engedélyezési eljárásban az általános rendőrségi feladatok ellátására létrehozott szerv szakhatóságként vesz részt, amely szakhatósági eljárás a vendéglátó üzlet 24 és 6 óra közötti nyitva tartásának a közbiztonságra gyakorolt hatásával, a személy- és vagyonbiztonsággal kapcsolatos szakkérdésre, továbbá az üzlet működésével összefüggésben elkövetett jogellenes cselekmények megismétlődése veszélyének értékelésére irányul. A jegyző az engedélyt – az általános rendőrségi feladatok ellátására létrehozott szerv szakhatósági közreműködése mellett – hivatalból háromévente felülvizsgálja; amennyiben a megadását követően felmerült körülmények folytán a szakhatósági állásfoglalás a felülvizsgálat során az eredeti tartalommal nem adható meg, a jegyző az engedélyt módosítja vagy visszavonja.
+(8) A világörökségi területen működő, szeszes italt kimérő, árusító kereskedelmi, illetve vendéglátó üzlet 24 és 6 óra közötti nyitva tartásához a jegyző engedélye szükséges. A jegyző az engedélyt hivatalból háromévente felülvizsgálja. Amennyiben az engedély a megadását követően felmerült körülmények folytán a felülvizsgálat során az eredeti tartalommal nem adható meg, a jegyző az engedélyt módosítja vagy visszavonja.
 
 (9) A (8) bekezdés alapján kiadott engedély megadása a korábbi kérelem elutasításától számított legalább hat hónap elteltével kérelmezhető ismételten ugyanarra a helyiségre.
 
@@ -186,7 +186,7 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 (2) A lovas szolgáltató tevékenységet folytatón kívül más személy lovagoltatásával is járó lovas szolgáltató tevékenységet az a vállalkozás folytathat,
 
 - a) amelynek nincs hatvan napot meghaladóan lejárt esedékességű, az adózás rendjéről szóló jogszabály szerint végrehajtható köztartozása,
-- b) amelynek vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző egy éven belül a lovas szolgáltató tevékenységével összefüggésben az állat-egészségügyi és az állattartási körülményekre vonatkozó jogszabályi rendelkezések megsértése miatt jogerős hatósági határozatban eltiltottak a lovas szolgáltató tevékenység végzésétől,
+- b) amelynek vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző egy éven belül a lovas szolgáltató tevékenységével összefüggésben az állat-egészségügyi és az állattartási körülményekre vonatkozó jogszabályi rendelkezések megsértése miatt végleges hatósági határozatban eltiltottak a lovas szolgáltató tevékenység végzésétől,
 - c) amely által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó rendelkezik a külön jogszabályban meghatározott szakképesítéssel.
 
 6/D. § Szálláshely-szolgáltatás csak a kereskedelmi hatóság részére történő a szálláshely-üzemeltetési bejelentést követően folytatható.
@@ -196,13 +196,13 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 (2) Tartós szálláshasználati szolgáltatási tevékenység csak akkor folytatható, ha a vállalkozás
 
 - a) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll a tartós szálláshasználati szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- b) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző öt éven belül a tartós szálláshasználati szolgáltatási tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt vagy ilyen tevékenység engedély nélküli folytatása miatt jogerős hatósági határozatban eltiltottak a tartós szálláshasználati szolgáltatási tevékenység végzésétől.
+- b) vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző öt éven belül a tartós szálláshasználati szolgáltatási tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt vagy ilyen tevékenység engedély nélküli folytatása miatt végleges hatósági határozatban eltiltottak a tartós szálláshasználati szolgáltatási tevékenység végzésétől.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő tartós szálláshasználati szolgáltatási tevékenység folytatására irányuló szándékát köteles a kereskedelmi hatóságnak bejelenteni.
 
 (4) A kereskedelmi hatóság a tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi azt is, hogy a tartós szálláshasználati szolgáltatási tevékenységet folytató szolgáltató büntetlen előéletű-e, és nem áll-e a tartós szálláshasználati szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a kereskedelmi hatóság adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tartós szálláshasználati szolgáltatási tevékenységet folytató szolgáltató büntetlen előéletű-e, valamint, hogy a tartós szálláshasználati szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
-(5) A kereskedelmi hatóság a tartós szálláshasználati szolgáltatási tevékenység (4) bekezdés szerinti személyes adatait a hatósági ellenőrzés időtartamára vagy a tartós szálláshasználati szolgáltatási tevékenység nyilvántartásból való törléséről szóló döntés jogerőre emelkedéséig kezeli.
+(5) A kereskedelmi hatóság a tartós szálláshasználati szolgáltatási tevékenység (4) bekezdés szerinti személyes adatait a hatósági ellenőrzés időtartamára vagy a tartós szálláshasználati szolgáltatási tevékenység nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.
 
 6/F. § (1) Az utazásszervezői vagy utazásközvetítői tevékenység folytatására irányuló szándékot a kereskedelmi hatóság részére kell bejelenteni.
 
@@ -210,7 +210,7 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 
 - a) által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó vagy az általa határozatlan időre foglalkoztatott, az utazásszervezői és utazásközvetítői tevékenység folytatásában személyesen közreműködő személy rendelkezik az utazásszervező és -közvetítő tevékenységről szóló kormányrendeletben meghatározott képesítéssel és szakmai gyakorlattal, valamint nyelvismerettel (a továbbiakban: tevékenységért felelős személy),
 - b) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó büntetlen előéletű, nem áll az utazásszervezői és utazásközvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- c) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, tevékenységért felelős személye, amelyet a tevékenység megkezdését megelőző öt éven belül az utazásszervezői vagy utazásközvetítői tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt jogerős hatósági határozatban eltiltottak az utazásszervezői vagy utazásközvetítői tevékenység végzésétől,
+- c) vezető tisztségviselője, vezető beosztású munkavállalója és a tevékenységért felelős személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, tevékenységért felelős személye, amelyet a tevékenység megkezdését megelőző öt éven belül az utazásszervezői vagy utazásközvetítői tevékenységre vonatkozó jogszabályi rendelkezések megsértése miatt végleges hatósági határozatban eltiltottak az utazásszervezői vagy utazásközvetítői tevékenység végzésétől,
 - d) – az utazásközvetítő kivételével – rendelkezik a külön jogszabályban meghatározott vagyoni biztosítékkal.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő utazásszervezői vagy utazásközvetítői tevékenység folytatására irányuló szándékát köteles a kereskedelmi hatóságnak bejelenteni.
@@ -264,9 +264,9 @@ nyilvántartást vezet.
 
 ### Érdek-képviseleti szervezetek közreműködése
 
-8. § (1) A kereskedelmi vállalkozások és a beszállítók, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytatók képviseletét ellátó egyesületet az ügyfél jogállása illeti meg az e törvény megsértése miatt indított azon közigazgatási hatósági eljárásban, ideértve a versenyfelügyeleti eljárást is, amely a kereskedők, a beszállítók vagy a kereskedelmi jellegű turisztikai szolgáltatási tevékenységet végzők széles körét érinti, vagy a vállalkozások működésére jelentős hátrányt okoz.
+8. § (1) A kereskedelmi vállalkozások és a beszállítók, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytatók képviseletét ellátó egyesület e törvény erejénél fogva ügyfélnek minősül az e törvény megsértése miatt indított azon közigazgatási hatósági eljárásban, ideértve a versenyfelügyeleti eljárást is, amely a kereskedők, a beszállítók vagy a kereskedelmi jellegű turisztikai szolgáltatási tevékenységet végzők széles körét érinti, vagy a vállalkozások működésére jelentős hátrányt okoz.
 
-(2) Az (1) bekezdés alapján fennálló eljárási jogosultság nem érinti a beszállító és a vállalkozás azon jogát, hogy a jogsértővel szemben igényét érvényesítse.
+(2) Az (1) bekezdés alapján fennálló ügyféli minőség nem érinti a beszállító és a vállalkozás azon jogát, hogy a jogsértővel szemben igényét érvényesítse.
 
 ### A kereskedelmi tevékenységek, a kereskedelmet kiszolgáló szolgáltató tevékenységek, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának ellenőrzése, jogkövetkezmények
 
@@ -274,7 +274,7 @@ nyilvántartást vezet.
 
 (2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C. §-ban, a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(3) A jelentős piaci erővel rendelkező kereskedő felett a 7. § szerinti visszaéléssel kapcsolatos felügyeletet a Gazdasági Versenyhivatal a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvényben (a továbbiakban: Tpvt.) foglalt eljárási szabályok alkalmazásával végzi oly módon, hogy eljárásaiban a Tpvt. 21. §-ának megsértése esetén irányadó rendelkezéseket alkalmazza.
+(3) A 7. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 21. §-ának megsértése esetén irányadó rendelkezések szerint.
 
 (4) A tevékenységre vonatkozó jogszabályi és hatósági előírások megsértése esetén – a külön jogszabályban foglaltak szerint – a kereskedelmi hatóság
 
@@ -289,7 +289,7 @@ nyilvántartást vezet.
 - f) közterületi értékesítés szabályainak megszegése kivételével bírságot szab ki, illetve
 - g) a külön jogszabályban meghatározott egyéb jogkövetkezményt alkalmaz.
 
-(5) A kereskedelmi hatóságnak a (4) bekezdés a), valamint c)–g) pontjában foglaltak megsértése esetén hozott határozata ellen nincs helye fellebbezésnek.
+(5) A kereskedelmi hatóságnak a (4) bekezdés a), valamint c–g) pontjában foglaltak megsértése esetén hozott határozata ellen nincs helye fellebbezésnek.
 
 ### A napi fogyasztási cikk kiskereskedelmi értékesítését folytató gazdasági társaságokra vonatkozó egyéb szabályok
 
@@ -326,6 +326,8 @@ nyilvántartást vezet.
 
 11/D. § A kereskedelemről szóló 2005. évi CLXIV. törvénynek a tisztességes piaci magatartás megvalósulása érdekében a vállalkozások működésével összefüggő módosításáról szóló 2014. évi CXII. törvénnyel megállapított 9/A. § (1) bekezdése alkalmazásában az első figyelembe vehető üzleti év a 2014. december 31-ét követően megkezdett üzleti év, és a bekezdésben meghatározott jogkövetkezményeket 2017. január 1-jét követően lehet alkalmazni.
 
+11/E. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
 12. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) a kereskedelmi tevékenység folytatásának részletes feltételeit, e tevékenységek bejelentésének, valamint a kereskedők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
@@ -336,16 +338,19 @@ nyilvántartást vezet.
 - f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit és a szálláshely-üzemeltetési bejelentésnek rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szállásadók tájékoztatási és adatszolgáltatási kötelezettségeit, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó bejelentés rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - h) a kereskedelmi hatóság vagy hatóságok kijelölését,
-- i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait
+- i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait,
+- j) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- k) a vidámparki, mutatványos és hasonló szórakoztató berendezések és szerkezetek időszakos műszaki vizsgáztatásának rendjét,
+- l) a 6. § (8) bekezdésében meghatározott, a jegyzői hatáskörbe tartozó engedélyezési eljárásban történő szakhatósági közreműködés szabályait és az azzal kapcsolatos szakkérdéseket
 
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy
 
 - a) egyes ipari, kereskedelmi tevékenységek végzéséhez szükséges szakképesítéseket,
-- b) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- b)
 - c)
-- d) a vidámparki, mutatványos és hasonló szórakoztató berendezések és szerkezetek időszakos műszaki vizsgáztatásának rendjét,
+- d)
 - e)
 - f) az adópolitikáért felelős miniszterrel egyetértésben, az irányítása alá tartozó kereskedelmi hatóság részére az e hatóság által lefolytatott eljárásokért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint az annak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
@@ -354,7 +359,7 @@ rendeletben állapítsa meg.
 (3) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy
 
 - a) a motorhajtó anyagok és egyes kőolajtermékek belföldi forgalmazásának feltételeit,
-- b) a gépjármű-hajtóanyagok minőségi követelményeit
+- b) a motorhajtó anyagok minőségi követelményeit
 
 rendeletben állapítsa meg.
 
@@ -373,7 +378,7 @@ rendeletben állapítsa meg.
 
 (7) Felhatalmazást kap az iparügyekért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben határozza meg a műszaki biztonsági hatóság részére a műszaki biztonsági hatósági eljárásért fizetendő díj – ideértve a jogorvoslati díjat is – mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
-(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy a 6. § (8) bekezdésében meghatározott, a jegyzői hatáskörbe tartozó engedélyezési eljárásban történő szakhatósági közreműködés szabályait és az azzal kapcsolatos szakkérdéseket rendeletben szabályozza.
+(8)
 
 13. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.
 

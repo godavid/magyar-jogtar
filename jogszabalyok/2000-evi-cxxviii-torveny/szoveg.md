@@ -15,7 +15,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 2. § A közúti közlekedési előéleti pontrendszer (a továbbiakban: pontrendszer) olyan rendszer, amely jogszabályban meghatározott szabályszegés elkövetése esetén kiszabható pontok e törvényben meghatározott számának elérése esetén a vezetői engedély ideiglenes visszavonását teszi lehetővé.
 
-3. § (1) A pontrendszer alapján – a jogszabályban meghatározott – olyan szabályszegésre állapítható meg pont, amely miatt a járművezetőt mint elkövetőt a bíróság, a szabálysértési hatóság, a közigazgatási hatóság, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény 30. §-ában meghatározott fegyelmi hatóság jogerős határozatával elmarasztalta – ide nem értve a fegyelmi hatóság által alkalmazott megrovást, feddést –, vagy az elkövető a helyszíni bírság, illetve a helyszínen alkalmazott közigazgatási bírság kiszabását a jogkövetkezményekről szóló tájékoztatás után tudomásul vette.
+3. § (1) A pontrendszer alapján – a jogszabályban meghatározott – olyan szabályszegésre állapítható meg pont, amely miatt a járművezetőt mint elkövetőt a bíróság, a szabálysértési hatóság, a közigazgatási hatóság, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény 30. §-ában meghatározott fegyelmi hatóság jogerős vagy végleges határozatával elmarasztalta – ide nem értve a fegyelmi hatóság által alkalmazott megrovást, feddést –, vagy az elkövető a helyszíni bírság, illetve a helyszínen alkalmazott közigazgatási bírság kiszabását a jogkövetkezményekről szóló tájékoztatás után tudomásul vette.
 
 (2) A szabályszegés miatt eljáró hatóság által hozott határozatban, a helyszínen alkalmazott közigazgatási bírság és a helyszíni bírság esetén az elismervényben (tájékoztatóban) tájékoztatni kell az elkövetőt az elbírált cselekményhez – jogszabály által – rendelt pontok számáról. A határozat megváltoztatása, illetve téves tájékoztatás miatt az első fokon eljárt hatóság, a helyszínen alkalmazott közigazgatási bírság és a helyszíni bírság kiszabása esetén a bírságot kiszabó hatóság értesíti az elkövetőt a jogszabály által a szabályszegéshez rendelt pontszámról.
 
@@ -57,7 +57,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 - b) vezetői engedélyének okmányazonosító jelét,
 - c) az elbírált cselekmény jogszabály szerinti megnevezését, minősítését, továbbá a KRESZ megszegett rendelkezéseire való hivatkozást,
 - d) járművezetéstől eltiltás, járműkategória vezetésétől eltiltás alkalmazását, időtartamát,
-- e) a határozat jogerőre emelkedésének idejét, helyszíni bírság és a helyszínen alkalmazott közigazgatási bírság kiszabásának idejét,
+- e) a határozat jogerőre emelkedésének vagy véglegessé válásának idejét, helyszíni bírság és a helyszínen alkalmazott közigazgatási bírság kiszabásának idejét,
 - f) a határozat, elismervény ügyszámát, illetve sorszámát,
 - g) az eljáró bíróság, hatóság megnevezését,
 - h) a szabályszegéshez rendelt pontszámot,
@@ -68,7 +68,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 (1a) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(2) A pontrendszer hatálya alá tartozó szabályszegést elbíráló szabálysértési hatóság, közigazgatási hatóság, fegyelmi hatóság, a helyszínen alkalmazott közigazgatási bírság és a helyszíni bírság kiszabására jogosult hatóság az (1) bekezdés a)–h), a bíróság az (1) bekezdés a)–g) pontjaiban megjelölt adatokról a jogerőre emelkedéstől számított nyolc napon belül értesíti a Nyilvántartót.
+(2) A pontrendszer hatálya alá tartozó szabályszegést elbíráló szabálysértési hatóság, közigazgatási hatóság, fegyelmi hatóság, a helyszínen alkalmazott közigazgatási bírság és a helyszíni bírság kiszabására jogosult hatóság az (1) bekezdés a)–h), a bíróság az (1) bekezdés a)–g) pontjaiban megjelölt adatokról a jogerőre emelkedéstől vagy véglegessé válástól számított nyolc napon belül értesíti a Nyilvántartót.
 
 (3) A Nyilvántartót az (1) bekezdés j)–k) pontjaiban megjelölt adatokról a vezetői engedély átvételére, kiadására jogosult, külön jogszabályban meghatározott hatóság az okmány leadását, kiadását, az igazolás bemutatását követő három napon belül értesíti.
 
@@ -84,7 +84,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 (1a) A közlekedési igazgatási hatóság (1) bekezdés alapján hozott határozatával szemben fellebbezésnek helye nincs.
 
-(2) Az (1) bekezdés alapján hozott határozat jogerőre emelkedésekor nyilvántartott pontokat a közlekedési igazgatási hatóság törli.
+(2) Az (1) bekezdés alapján hozott határozat véglegessé válásakor nyilvántartott pontokat a közlekedési igazgatási hatóság törli.
 
 8. § (1) A 7. § (1) bekezdése alapján visszavont vezetői engedélyt annak leadásától számított hat hónapot követően vissza kell adni, ha
 
@@ -109,15 +109,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 - b) ha a vezetői engedély visszaadására nem kerül sor a visszavonás alapját képező adatokat a járművezető haláláig kezeli,
 - c) a pontrendszer alapján visszavont vezetői engedélyt a visszaadásáig, de legfeljebb a leadásától számított tíz évig tárolja.
 
-11. § (1) A pontrendszerre a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szabályait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni.
-
-(2)
-
-(3)
-
-(4) Nincs helye a vezetői engedély visszavonását elrendelő határozat méltányossági eljárásban történő módosításának vagy visszavonásának.
-
-(5) A pontrendszer nyilvántartási, adatvédelmi, adatszolgáltatási szabályaira, ha e törvény eltérően nem rendelkezik, a Kknyt. szabályait kell alkalmazni.
+11. § A pontrendszer nyilvántartási, adatvédelmi, adatszolgáltatási szabályaira, ha e törvény eltérően nem rendelkezik, a Kknyt. szabályait kell alkalmazni.
 
 12. § A közúti közlekedési nyilvántartásban 2001. január 1-jén szereplő, illetve a nyilvántartásba későbbiekben felvett járművezetőt 0 ponttal rendelkezőnek kell tekinteni, a pontszám ez alá nem csökkenhet.
 

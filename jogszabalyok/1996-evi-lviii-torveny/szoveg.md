@@ -420,7 +420,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 
 (3) A felvételt megtagadó határozat ellen a kérelmező a kézbesítéstől számított 15 napon belül az országos kamarához fellebbezhet. A fellebbezést 30 napon belül el kell bírálni.
 
-(4) Ha az országos kamara a felvételi kérelmet elutasította, e határozatot a kérelmező a határozat kézbesítésétől számított 30 napon belül a területi kamara székhelye szerint illetékes törvényszék előtt keresettel támadhatja meg. A bíróság az eljárás során a polgári perrendtartásról szóló törvény rendelkezéseit alkalmazza.
+(4)
 
 26/A. § (1) Ha törvény vagy eredeti jogalkotói hatáskörben kiadott kormányrendelet alapján engedélyezéshez kötött tevékenység folytatásának egyben az e törvény szerinti kamarai tagság fennállása is feltétele, az aki a tevékenység folytatására engedélyt kapott, az engedély megadásával és a névjegyzékbevétellel egyidejűleg a kamara tagjává válik.
 
@@ -463,7 +463,7 @@ Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakor
 - c) a 25. § (1) bekezdésének a)–c) pontjaiban meghatározott feltétel megszűntével, vagy a foglalkozástól való eltiltással,
 - d) a tag halálával,
 - e) ha a tagot cselekvőképességének korlátozottsága vagy hiánya miatt gondnokság alá helyezték,
-- f) a 29. § (3) bekezdés szerinti jogerős megszüntető határozattal.
+- f) a 29. § (3) bekezdés szerinti végleges megszüntető határozattal.
 
 32. § (1) A területi kamara – kérelmére – tagjelöltként veszi fel azt a mérnököt, illetve építészt, aki – az egyéb feltételek fennállása mellett – a 25. § (2) bekezdésében meghatározott gyakorlati idővel nem rendelkezik.
 
@@ -571,7 +571,7 @@ folytatja le.
 
 (5) A fegyelmi eljárást annak megindításától számított 90 napon belül be kell fejezni.
 
-35/A. § (1) A fegyelmi tanácsnak további vizsgálat nélkül el kell utasítania a panaszt, ha
+35/A. § (1) A fegyelmi tanács végzésben visszautasítja a panaszt, ha
 
 - a) a bejelentés nyilvánvalóan megalapozatlan, vagy a bejelentett tények alapján fegyelmi vétség elkövetésének alapos gyanúja nem állapítható meg,
 - b) a bejelentésben foglalt tények miatt fegyelmi eljárás van folyamatban vagy már jogerős fegyelmi határozatot hoztak.
@@ -607,7 +607,7 @@ folytatja le.
 
 (2) A fegyelmi tárgyalásról jegyzőkönyvet kell készíteni. A fegyelmi tanács elrendelheti a tárgyalás anyagának hangszalagra történő rögzítését. Ez esetben a tárgyalásról készült jegyzőkönyvet 8 napon belül el kell készíteni.
 
-(3) Ha más hatóság eljárása érintheti a fegyelmi ügy eldöntését, a fegyelmi tanács elrendelheti az eljárás felfüggesztését a bíróság vagy más hatóság előtt folyamatban lévő ügy jogerős befejezéséig.
+(3) Ha más hatóság eljárása érintheti a fegyelmi ügy eldöntését, a fegyelmi tanács elrendelheti az eljárás felfüggesztését a bíróság vagy más hatóság előtt folyamatban lévő ügy jogerős vagy végleges befejezéséig.
 
 36/D. § (1) Ha az eljárás alá vont személlyel szemben szándékos vagy olyan gondatlan bűncselekmény elkövetése miatt emelt vádat az ügyész, amelynek büntetési tétele háromévi szabadságvesztésnél súlyosabb, a fegyelmi tanács ideiglenes intézkedéssel az eljárás alá vont személy kamarai tagságát azonnali hatállyal felfüggeszti és a tevékenységének végzésére való jogosultságának felfüggesztését kezdeményezi a jogosultságról névjegyzéket vezető szervnél.
 
@@ -656,9 +656,7 @@ folytatja le.
 
 (4) Hatályon kívül kell helyezni az első fokú határozatot akkor is, ha azt az első fokú eljárás lényeges szabályainak megsértésével hozták meg.
 
-(5) A másodfokú határozat ellen az eljárás alá vont személy, a képviselője, valamint a panaszos a kézbesítéstől számított 30 napon belül a közigazgatási perekre irányadó szabályok szerint bírósághoz fordulhat.
-
-(6) A másodfokú határozat a közléssel válik jogerőssé és végrehajthatóvá, de az (5) bekezdés szerinti esetben a végrehajtás felfüggesztése kérhető a bíróságtól.
+(5)–(6)
 
 37/C. §
 
@@ -668,22 +666,11 @@ folytatja le.
 
 38. § (1) A Magyar Mérnöki Kamara, a Magyar Építész Kamara, a területi mérnöki kamarák, és a területi építész kamarák (a továbbiakban együtt : kamarák) tevékenysége felett az általános törvényességi felügyeletet az építésügyért felelős miniszter (a továbbiakban: miniszter) gyakorolja. Azokban az esetekben, amikor a kamarák törvényességi felügyeletére a sajátos építményfajtákra vagy a műemlékekre vonatkozó jogszabályokkal összefüggő tevékenysége alapján kerül sor, akkor a miniszter a törvényességi felügyelet körében gyakorolt intézkedéséhez – előzetesen – kikéri, illetve figyelembe veszi az illetékes miniszter szakmai véleményét.
 
-(2) A miniszter, mint a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltak szerinti felügyeleti szerv, jogosult hivatalból megvizsgálni a kamarák 42. § (1) bekezdés szerinti hatósági eljárását és azok döntését.
+(2) A közigazgatási hatósági ügyek tekintetében a területi kamara felügyeleti szerve az országos kamara, az országos kamara felügyeleti szerve a miniszter.
 
 (3) Az e törvény alapján gyakorolt törvényességi felügyelet nem terjed ki az olyan ügyekre, amelyekben egyébként bírósági vagy államigazgatási eljárásnak van helye.
 
-(4) Ha a kamara működésének törvényessége másképpen nem állítható helyre, a miniszter bírósághoz fordul. A bíróság
-
-- a) hatályon kívül helyezheti a kamara testületi szervének jogsértő határozatát, és új határozat hozatalát rendelheti el,
-- b) felfüggesztheti a kamara testületi szerveinek és tisztségviselőinek működését, és a kamara irányítására – a felfüggesztés tartamára – felügyelő biztost rendelhet ki.
-
-(5) A felügyelő biztos köteles a működés törvényességének helyreállítása céljából haladéktalanul összehívni a kamara küldöttgyűlését. Ha a küldöttgyűlés a működés törvényességét helyreállítja, a kamara más testületi szervének és tisztségviselőinek működése sem függeszthető fel tovább.
-
-(6) Nem rendelhető ki felügyelő biztosként az, aki a szakmai kamarában tisztséget nem viselhet.
-
-(7) A felügyelő biztos tevékenységéről és annak eredményéről tájékoztatja a bíróságot, valamint a törvényességi felügyelet gyakorlóját.
-
-(8) A felügyelő biztos díjazását és költségtérítését a bíróság állapítja meg.
+(4)–(8)
 
 39. § (1) A területi és országos kamarák az alapszabályt, a szabályzatokat az elfogadásuktól számított 15 napon belül kötelesek megküldeni a miniszternek törvényességi felügyeleti vizsgálat céljából.
 
@@ -691,28 +678,28 @@ folytatja le.
 
 (3) Az alapszabály, a területi alapszabály, a szabályzat és a területi szabályzat nem lehet jogszabállyal ellentétes, a jogszabályba ütköző rendelkezése semmis.
 
-(4) A 20. § (1) bekezdés szerinti tisztségviselő megbízatásának megszűnése és eredményes választás hiányában, a kamara működése törvényességének helyreállítása érdekében a miniszter a 38. § (4) bekezdése szerint a bírósághoz fordul.
+(4)
 
-(5) A kamarák 3. § (1) bekezdés a) pontja szerinti közigazgatási hatósági feladatainak törvényes ellátása érdekében a miniszter, mint a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltak szerinti felügyeleti szerv, a (4) bekezdésben és a 38. § (4) bekezdésben meghatározott esetben miniszteri rendeletben – a kamarai működés törvényességének helyreállításáig – a közigazgatási feladatok ellátására más eljáró területi kamarát jelöl ki.
+(5) Ha a bíróság a területi kamara működését felfüggesztette és felügyelőbiztost nem rendelt ki, a miniszter miniszteri rendeletben a kamara működése törvényességének helyreállításáig a kamara 3. § (1) bekezdés a) pontja szerinti közigazgatási feladatainak ellátására más eljáró területi kamarát jelöl ki.
 
 (6) Ezen időszak alatt az 1. § (1) bekezdésben kamarai tagsághoz kötött mérnöki, illetve építészeti tevékenység kamarai tagság nélkül, a külön jogszabály szerinti ideiglenes névjegyzékbevétel mellett gyakorolható. A területi kamara működése törvényességének helyreálltát követően a kamara dönt az ideiglenes névjegyzéken lévő személyek kamarai tagságáról és
 
 - a) kamarai tagfelvétel esetén az visszamenőleges hatállyal állapítható meg a névjegyzéki bejegyzés véglegesítése mellett, vagy
 - b) kamarai tagfelvétel megtagadása esetén a névjegyzéki bejegyzés törlésre kerül.
 
-### Jogsértő határozatok bírósági felülvizsgálata
+### Jogsértő határozatok megtámadása
 
-40. § (1) A területi kamara bármely tagja kérheti a bíróságtól a kamara valamely testületi szerve által hozott olyan határozat felülvizsgálatát, amely e törvény rendelkezéseibe, más jogszabályba, a kamara alapszabályába vagy más önkormányzati szabályzatába ütközik. Az országos kamara testületi szerve által hozott jogsértő határozattal kapcsolatban ez a jog a területi kamarákat illeti meg.
+40. § (1) A területi kamara jogosult közigazgatási pert indítani – a fegyelmi ügyek kivételével – az országos kamara testületi szerve által megvalósított közigazgatási tevékenységgel szemben arra hivatkozással, hogy az jogszabályba, a kamara alapszabályába vagy más önkormányzati szabályzatába ütközik. A perindítási jogkör nem terjed ki a fegyelmi ügyekre.
 
-(2) Perindítás előtt a sérelmet szenvedett tag, illetve területi kamara köteles a jogsértést a jogsértő határozatról történt tudomásszerzéstől számított 30 napon belül, de legkésőbb a határozat meghozatalától számított hat hónapon belül a felügyelő bizottságnak bejelenteni. Ez utóbbi határidő elmulasztása jogvesztéssel jár.
+(2) Perindítás előtt a tag, illetve területi kamara köteles a jogsértést a jogsértő határozatról történt tudomásszerzéstől számított 30 napon belül, de legkésőbb a határozat meghozatalától számított hat hónapon belül a felügyelő bizottságnak bejelenteni. Ez utóbbi határidő elmulasztása jogvesztéssel jár.
 
 (3) A felügyelő bizottság a bejelentést követő 30 napon belül állást foglal.
 
-(4) A pert a tag a területi kamara ellen, illetve a területi kamara az országos kamara ellen a felügyelő bizottság állásfoglalásától vagy a (3) bekezdésben említett határidő eredménytelen elteltétől számított 30 napon belül indíthatja meg. A perindításnak nincs halasztó hatálya, a bíróság azonban a határozat végrehajtását felfüggesztheti.
+(4) A pert a tag a területi kamara ellen, illetve a területi kamara az országos kamara ellen a felügyelő bizottság állásfoglalásától vagy a (3) bekezdésben említett határidő eredménytelen elteltétől számított 30 napon belül indíthatja meg.
 
 (5) A (4) bekezdésben megállapított határidő elmulasztása miatt igazolásnak nincs helye.
 
-(6) A bíróság eljárására egyebekben a polgári perrendtartásról szóló törvény általános szabályait kell alkalmazni.
+(6)
 
 ### A bíróságok feladataia kamarai tagsággal kapcsolatban
 
@@ -724,7 +711,7 @@ folytatja le.
 
 ### IX. Fejezet — Közigazgatási hatósági ügyek intézése
 
-42. § (1) A területi, illetve országos kamara a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti közigazgatási hatóságként jár el – az e §-ban foglalt eltérésekkel – a következő ügyekben (a továbbiakban együtt: közigazgatási ügy):
+42. § (1) A területi, illetve országos kamara az általános közigazgatási rendtartásról szóló törvény szerinti közigazgatási hatóságként jár el – az e §-ban foglalt eltérésekkel – a következő ügyekben (a továbbiakban együtt: közigazgatási ügy):
 
 - a) mérnöki, illetve építészeti tevékenység engedélyezése, az engedély visszavonása és az ezzel összefüggő névjegyzékbevétel, illetve a névjegyzékből való törlés, a mérnöki, illetve az építészeti tevékenységre való jogosultságról hatósági igazolvány kiállítása, valamint a külön jogszabály szerinti szakmai továbbképzési kötelezettség teljesítésének igazolására szolgáló hatósági bizonyítvány kiállítása,
 - b) törvénnyel vagy kormányrendelettel a kamarák hatáskörébe utalt egyéb igazgatási ügyek intézése.
@@ -736,7 +723,7 @@ folytatja le.
 - a) nem folytathat olyan tevékenységet, nem tanúsíthat olyan magatartást, amely hivatalához méltatlan, vagy amely pártatlan, befolyástól mentes tevékenységét veszélyeztetné;
 - b) pártban tisztséget nem viselhet, párt nevében vagy érdekében közszereplést nem vállalhat.
 
-(4) Ha kormányrendelet másként nem rendelkezik a közigazgatási ügyben első fokon a területi kamara jár el. A területi kamara döntése elleni fellebbezés elbírálására az országos kamara jogosult.
+(4) Ha kormányrendelet másként nem rendelkezik, közigazgatási hatósági ügyben első fokon a területi kamara jár el. A területi kamara elsőfokú határozata ellen fellebbezésnek van helye. A területi kamara döntése elleni fellebbezés elbírálására az országos kamara jogosult.
 
 (5) A 3. § (1) bekezdés a) pontja szerinti engedély visszavonására irányuló eljárást hivatalból meg kell indítani, ha a kamara a visszavonási okról tudomást szerez. A kamara a törlési eljárás során az ügyfelet nyilatkozattételre és adatszolgáltatásra kötelezheti.
 
