@@ -6,22 +6,68 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 
 #### 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-1–7. §
+#### 1. §
 
-8. § Az Szja tv. 28. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 2. §
 
-„(2) Ha a biztosítás más személy által fizetett díja a befizetés időpontjában hatályos 1. számú melléklet 6. pont 6.9. alpontja alapján vagy a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás más személy által 2013. január 1-jét megelőzően fizetett díja az 1. számú mellékletnek a befizetés időpontjában hatályos 6. pont 6.3. alpontja alapján részben vagy egészben adómentes volt, akkor – függetlenül a biztosítási szerződés esetleges módosításától – a biztosító teljesítéséből (kivéve, ha a biztosító teljesítése a 1. számú melléklet 6. pont 6.6. alpontja alapján haláleseti, betegségbiztosítási vagy baleset-biztosítási szolgáltatásként adómentes) a kifizetőnek nem minősülő magánszemély által fizetett biztosítási díj, valamint az adóköteles biztosítási díj együttes összegét meghaladó rész egyéb jövedelemnek minősül. A biztosítói teljesítést megelőzően bevételcsökkentő tételként már figyelembe vett díjrészeket figyelmen kívül kell hagyni az egyéb jövedelem biztosítói teljesítés időpontjában történő további megállapítása során.”
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
 
 9. § (1)
 
 (2)
 
-10–28. §
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
 
 29. § Hatályát veszti az Szja tv.
 
 - 1–2.
-- 3. 1. számú melléklet 6. pont 6.9. alpontja, 9. pont 9.6. alpontja.
+- 3.
 
 #### 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
@@ -33,33 +79,55 @@ az egyes adótörvények és azokkal összefüggő más törvények, valamint a 
 
 (3)
 
-32. §
+#### 32. §
 
-33–39. §
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
 
 40. § (1)
 
 (2)
 
-41–42. §
+#### 41. §
 
-43. §
+#### 42. §
+
+#### 43. §
 
 44. § (1)
 
 (2)
 
-45–46. §
+#### 45. §
+
+#### 46. §
 
 47. § A Tao. törvény
 
-- 1–2.
-- 3–4.
-- 5–16.
-- 17–18.
-- 19.
-- 20–22.
-- 23–24.
+1–2.
+
+3–4.
+
+5–16.
+
+17–18.
+
+19.
+
+20–22.
+
+23–24.
 
 lép.
 
@@ -70,37 +138,75 @@ lép.
 
 #### 3. Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény módosítása
 
-49–50. §
+#### 49. §
+
+#### 50. §
 
 #### 4. Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény módosítása
 
-51–56. §
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
 
 #### 5. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvénnyel és a megtakarítások ösztönzésével összefüggő törvénymódosításokról szóló 2009. évi CXVI. törvény módosítása
 
-57. §
+#### 57. §
 
 #### 6. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása
 
-58–59. §
+#### 58. §
+
+#### 59. §
 
 #### 7. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-60–67. §
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
 
 ### II. Fejezet — KÖZVETETT ADÓKAT ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 8. Az energiaadóról szóló 2003. évi LXXXVIII. törvény módosítása
 
-68–71. §
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
 
 #### 9. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-72. §
+#### 72. §
 
-#### 10. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló2003. évi CXXVII. törvény módosítása
+#### 10. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló
 
-73–74. §
+2003. évi CXXVII. törvény módosítása
+
+#### 73. §
+
+#### 74. §
 
 75. § (1)
 
@@ -108,63 +214,145 @@ lép.
 
 (3)–(4)
 
-76–96. §
+#### 76. §
 
-97. §
+#### 77. §
 
-98. §
+#### 78. §
 
-99. §
+#### 79. §
 
-100–101. §
+#### 80. §
 
-102. §
+#### 81. §
 
-103. §
+#### 82. §
 
-104. §
+#### 83. §
 
-105–107. §
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
+
+#### 95. §
+
+#### 96. §
+
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
 
 108. § A Jöt.
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5–8.
-- 9.
-- 10–12.
-- 13.
-- 14–16.
+1.
+
+2.
+
+3.
+
+4.
+
+5–8.
+
+9.
+
+10–12.
+
+13.
+
+14–16.
 
 lép.
 
-109. §
+#### 109. §
 
 #### 11. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
-112. §
+#### 112. §
 
-113–114. §
+#### 113. §
 
-115–116. §
+#### 114. §
 
-117. §
+#### 115. §
 
-118–125. §
+#### 116. §
 
-126–128. §
+#### 117. §
 
-129–132. §
+#### 118. §
 
-133. §
+#### 119. §
 
-134. §
+#### 120. §
+
+#### 121. §
+
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
+
+#### 129. §
+
+#### 130. §
+
+#### 131. §
+
+#### 132. §
+
+#### 133. §
+
+#### 134. §
 
 135. § Az Áfa tv.
 
@@ -173,14 +361,17 @@ lép.
 
 136. § Az Áfa tv.
 
-- 1.
-- 2.
-- 3.
-- 4–6.
+1.
+
+2.
+
+3.
+
+4–6.
 
 lép.
 
-137. §
+#### 137. §
 
 #### 12. Az egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XXXIII. törvény módosítása
 
@@ -190,19 +381,45 @@ lép.
 
 #### 13. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-139–144. §
+#### 139. §
 
-145. §
+#### 140. §
 
-146–149. §
+#### 141. §
+
+#### 142. §
+
+#### 143. §
+
+#### 144. §
+
+#### 145. §
+
+#### 146. §
+
+#### 147. §
+
+#### 148. §
+
+#### 149. §
 
 #### 14. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-150–155. §
+#### 150. §
+
+#### 151. §
+
+#### 152. §
+
+#### 153. §
+
+#### 154. §
+
+#### 155. §
 
 #### 15. A Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény módosítása
 
-156. §
+#### 156. §
 
 #### 16. A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény módosítása
 
@@ -214,37 +431,89 @@ lép.
 
 (2)
 
-159. §
+#### 159. §
 
 160. § (1)
 
 (2)
 
-161. §
+#### 161. §
 
 #### 17. A népegészségügyi termékadóról szóló 2011. évi CIII. törvény módosítása
 
-162–165. §
+#### 162. §
+
+#### 163. §
+
+#### 164. §
+
+#### 165. §
 
 #### 18. A reklámadóról szóló 2014. évi XXII. törvény módosítása
 
-166–171. §
+#### 166. §
 
-172. §
+#### 167. §
 
-173–174. §
+#### 168. §
+
+#### 169. §
+
+#### 170. §
+
+#### 171. §
+
+#### 172. §
+
+#### 173. §
+
+#### 174. §
 
 ### IV. Fejezet — ILLETÉKEK
 
 #### 19. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-175–186. §
+#### 175. §
+
+#### 176. §
+
+#### 177. §
+
+#### 178. §
+
+#### 179. §
+
+#### 180. §
+
+#### 181. §
+
+#### 182. §
+
+#### 183. §
+
+#### 184. §
+
+#### 185. §
+
+#### 186. §
 
 #### 20. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
-187–192. §
+#### 187. §
 
-#### 21. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló2012. évi CLXXVIII. törvény módosítása
+#### 188. §
+
+#### 189. §
+
+#### 190. §
+
+#### 191. §
+
+#### 192. §
+
+#### 21. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló
+
+2012. évi CLXXVIII. törvény módosítása
 
 193. § (1) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvény (a továbbiakban: Módosító tv.) 219–224. §-a nem lép hatályba.
 
@@ -254,23 +523,71 @@ lép.
 
 #### 22. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-194–196. §
+#### 194. §
 
-197. §
+#### 195. §
 
-198–216. §
+#### 196. §
+
+#### 197. §
+
+#### 198. §
+
+#### 199. §
+
+#### 200. §
+
+#### 201. §
+
+#### 202. §
+
+#### 203. §
+
+#### 204. §
+
+#### 205. §
+
+#### 206. §
+
+#### 207. §
+
+#### 208. §
+
+#### 209. §
+
+#### 210. §
+
+#### 211. §
+
+#### 212. §
+
+#### 213. §
+
+#### 214. §
+
+#### 215. §
+
+#### 216. §
 
 217. § (1)
 
 (2)–(4)
 
-218. §
+#### 218. §
 
-219–220. §
+#### 219. §
 
-221. §
+#### 220. §
 
-222–225. §
+#### 221. §
+
+#### 222. §
+
+#### 223. §
+
+#### 224. §
+
+#### 225. §
 
 226. § (1)
 
@@ -280,13 +597,65 @@ lép.
 
 #### 23. A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény módosítása
 
-227–253. §
+#### 227. §
+
+#### 228. §
+
+#### 229. §
+
+#### 230. §
+
+#### 231. §
+
+#### 232. §
+
+#### 233. §
+
+#### 234. §
+
+#### 235. §
+
+#### 236. §
+
+#### 237. §
+
+#### 238. §
+
+#### 239. §
+
+#### 240. §
+
+#### 241. §
+
+#### 242. §
+
+#### 243. §
+
+#### 244. §
+
+#### 245. §
+
+#### 246. §
+
+#### 247. §
+
+#### 248. §
+
+#### 249. §
+
+#### 250. §
+
+#### 251. §
+
+#### 252. §
+
+#### 253. §
 
 254. § (1)
 
 (2)
 
-255. §
+#### 255. §
 
 256. § Hatályát veszti a Vtv.
 
@@ -295,53 +664,127 @@ lép.
 
 #### 24. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-257–258. §
+#### 257. §
+
+#### 258. §
 
 ### VII. Fejezet — A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIT MEGILLETŐ EGYES BEFIZETÉSEKET ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 25. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-259–267. §
+#### 259. §
+
+#### 260. §
+
+#### 261. §
+
+#### 262. §
+
+#### 263. §
+
+#### 264. §
+
+#### 265. §
+
+#### 266. §
+
+#### 267. §
 
 #### 26. Az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény módosítása
 
-268–273. §
+#### 268. §
+
+#### 269. §
+
+#### 270. §
+
+#### 271. §
+
+#### 272. §
+
+#### 273. §
 
 #### 27. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
 
-274–275. §
+#### 274. §
 
-#### 28. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló2011. évi CLVI. törvény módosítása
+#### 275. §
 
-276–281. §
+#### 28. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló
+
+2011. évi CLVI. törvény módosítása
+
+#### 276. §
+
+#### 277. §
+
+#### 278. §
+
+#### 279. §
+
+#### 280. §
+
+#### 281. §
 
 ### VIII. Fejezet — A SZÁMVITELT ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 29. A számvitelről szóló 2000. évi C. törvény módosítása
 
-282–283. §
+#### 282. §
 
-284. §
+#### 283. §
 
-285. §
+#### 284. §
 
-286. §
+#### 285. §
 
-287–289. §
+#### 286. §
 
-290. §
+#### 287. §
 
-291–296. §
+#### 288. §
 
-297–303. §
+#### 289. §
+
+#### 290. §
+
+#### 291. §
+
+#### 292. §
+
+#### 293. §
+
+#### 294. §
+
+#### 295. §
+
+#### 296. §
+
+#### 297. §
+
+#### 298. §
+
+#### 299. §
+
+#### 300. §
+
+#### 301. §
+
+#### 302. §
+
+#### 303. §
 
 304. § Az Szt.
 
-- 1–8.
-- 9.
-- 10–16.
-- 17.
-- 18–24.
+1–8.
+
+9.
+
+10–16.
+
+17.
+
+18–24.
 
 lép.
 
@@ -353,48 +796,79 @@ lép.
 
 #### 30. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosításáról
 
-306–310. §
+#### 306. §
+
+#### 307. §
+
+#### 308. §
+
+#### 309. §
+
+#### 310. §
 
 ### IX. Fejezet — EGYÉB KAPCSOLÓDÓ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 31. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-311. §
+#### 311. §
 
-312. §
+#### 312. §
 
-313–314. §
+#### 313. §
+
+#### 314. §
 
 315. § Az Szjtv.
 
-- 1–4.
-- 5.
+1–4.
+
+5.
 
 lép.
 
-316. §
+#### 316. §
 
 #### 32. A koncesszióról szóló 1991. évi XVI. törvény módosítása
 
-317. §
+#### 317. §
 
 #### 33. A szabályozott ingatlanbefektetési társaságokról szóló 2011. évi CII. törvény módosításáról
 
-318–319. §
+#### 318. §
 
-#### 34. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködésegyes szabályairól szóló 2013. évi XXXVII. törvény módosítása
+#### 319. §
 
-320–327. §
+#### 34. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés
+
+egyes szabályairól szóló 2013. évi XXXVII. törvény módosítása
+
+#### 320. §
+
+#### 321. §
+
+#### 322. §
+
+#### 323. §
+
+#### 324. §
+
+#### 325. §
+
+#### 326. §
+
+#### 327. §
 
 #### 35. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-328. §
+#### 328. §
 
 #### 36. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-329–330. §
+#### 329. §
 
-331. §
+#### 330. §
+
+#### 331. §
 
 332. § A Mozgókép tv.
 
@@ -408,27 +882,167 @@ lép.
 
 #### 37. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-333–384. §
+#### 333. §
+
+#### 334. §
+
+#### 335. §
+
+#### 336. §
+
+#### 337. §
+
+#### 338. §
+
+#### 339. §
+
+#### 340. §
+
+#### 341. §
+
+#### 342. §
+
+#### 343. §
+
+#### 344. §
+
+#### 345. §
+
+#### 346. §
+
+#### 347. §
+
+#### 348. §
+
+#### 349. §
+
+#### 350. §
+
+#### 351. §
+
+#### 352. §
+
+#### 353. §
+
+#### 354. §
+
+#### 355. §
+
+#### 356. §
+
+#### 357. §
+
+#### 358. §
+
+#### 359. §
+
+#### 360. §
+
+#### 361. §
+
+#### 362. §
+
+#### 363. §
+
+#### 364. §
+
+#### 365. §
+
+#### 366. §
+
+#### 367. §
+
+#### 368. §
+
+#### 369. §
+
+#### 370. §
+
+#### 371. §
+
+#### 372. §
+
+#### 373. §
+
+#### 374. §
+
+#### 375. §
+
+#### 376. §
+
+#### 377. §
+
+#### 378. §
+
+#### 379. §
+
+#### 380. §
+
+#### 381. §
+
+#### 382. §
+
+#### 383. §
+
+#### 384. §
 
 ### XI. Fejezet — AZ ELEKTRONIKUS KÖZÚTI ÁRUFORGALOM ELLENŐRZŐ RENDSZERHEZ KAPCSOLÓDÓ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 38. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-385–387. §
+#### 385. §
+
+#### 386. §
+
+#### 387. §
 
 #### 39. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-388–390. §
+#### 388. §
 
-#### 40. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló2013. évi LXVII. törvény módosítása
+#### 389. §
 
-391–393. §
+#### 390. §
+
+#### 40. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló
+
+2013. évi LXVII. törvény módosítása
+
+#### 391. §
+
+#### 392. §
+
+#### 393. §
 
 ### XII. Fejezet — A KÖRNYEZETVÉDELMI TERMÉKDÍJRÓL SZÓLÓ TÖRVÉNY MÓDOSÍTÁSA
 
 #### 41. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-394–406. §
+#### 394. §
+
+#### 395. §
+
+#### 396. §
+
+#### 397. §
+
+#### 398. §
+
+#### 399. §
+
+#### 400. §
+
+#### 401. §
+
+#### 402. §
+
+#### 403. §
+
+#### 404. §
+
+#### 405. §
+
+#### 406. §
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -470,12 +1084,34 @@ lép.
 
 szerinti bejelentése megtörtént.
 
-### 1–5. melléklet a 2014. évi LXXIV. törvényhez
+### 1. melléklet a 2014. évi LXXIV. törvényhez
+
+### 2. melléklet a 2014. évi LXXIV. törvényhez
+
+### 3. melléklet a 2014. évi LXXIV. törvényhez
+
+### 4. melléklet a 2014. évi LXXIV. törvényhez
+
+### 5. melléklet a 2014. évi LXXIV. törvényhez
 
 ### 6. melléklet a 2014. évi LXXIV. törvényhez
 
-### 7–8. melléklet a 2014. évi LXXIV. törvényhez
+### 7. melléklet a 2014. évi LXXIV. törvényhez
+
+### 8. melléklet a 2014. évi LXXIV. törvényhez
 
 ### 9. melléklet a 2014. évi LXXIV. törvényhez
 
-### 10–17. melléklet a 2014. évi LXXIV. törvényhez
+### 10. melléklet a 2014. évi LXXIV. törvényhez
+
+### 11. melléklet a 2014. évi LXXIV. törvényhez
+
+### 12. melléklet a 2014. évi LXXIV. törvényhez
+
+### 13. melléklet a 2014. évi LXXIV. törvényhez
+
+### 14. melléklet a 2014. évi LXXIV. törvényhez
+
+### 15. melléklet a 2014. évi LXXIV. törvényhez
+
+### 17. melléklet a 2014. évi LXXIV. törvényhez

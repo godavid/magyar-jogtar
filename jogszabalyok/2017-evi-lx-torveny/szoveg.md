@@ -605,14 +605,4 @@ szekció szerinti részletezést is készít a lista részeként.
 
 (10) A Kereskedelmi Választottbíróság ügyrendje és eljárási szabályzata szövegének, valamint a lista előkészítése céljából 2017. október 1. napján előkészítő bizottságot kell létrehozni, amelybe egy-egy tagot a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara, további 3 tagot pedig a Magyar Kereskedelmi és Iparkamara delegál.
 
-68. § A gazdasági kamarákról szóló 1999. évi CXXI. törvény 12. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Magyar Kereskedelmi és Iparkamara állandó választottbíróságot működtet.”
-
-69. § Hatályát veszti
-
-- a) a választottbíráskodásról szóló 1994. évi LXXI. törvény,
-- b) a gazdasági kamarákról szóló 1999. évi CXXI. törvény 19. § (2) bekezdés e) pontja, valamint 47. §-a,
-- c) a tőkepiacról szóló 2001. évi CXX. törvény LII. Fejezete, valamint az 1. számú melléklet 19. pontja,
-- d) a villamos energiáról szóló 2007. évi LXXXVI. törvény Energetikai Állandó Választottbíróság alcím címe és 169. §-a,
-- e) a földgázellátásról szóló 2008. évi XL. törvény Az Energetikai Állandó Választottbíróság alcím címe és 131. §-a.
+#### 68–69. §

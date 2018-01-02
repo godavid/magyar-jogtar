@@ -160,4 +160,4 @@ a fél részére csak akkor lehet költségkedvezményt engedélyezni, ha az eng
 
 19. § E törvény a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek való megfelelést szolgálja.
 
-20. § Hatályát veszti a költségmentesség alkalmazásáról a bírósági eljárásban című 6/1986. (VI. 26.) IM rendelet.
+#### 20. §

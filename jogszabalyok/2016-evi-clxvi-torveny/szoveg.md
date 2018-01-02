@@ -4,33 +4,49 @@ egyes szociális és gyermekvédelmi tárgyú törvények módosításáról
 
 #### 1. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-1–3. §
+#### 1. §
 
-4. § Az Szt. 64. §-a a következő (8) bekezdéssel egészül ki:
+#### 2. §
 
-„(8) A Gyvt. szerinti család- és gyermekjóléti központ a család szociális helyzetének átfogó vizsgálata alapján elkészíti az igénybe venni javasolt szociális szolgáltatásokat meghatározó szociális diagnózist. A család- és gyermekjóléti központ a szociális diagnózis elkészítésébe bevonhatja a nem járásszékhely településen működő család- és gyermekjóléti szolgálatokat. A jogosultsági feltételek fennállása esetén a szociális diagnózis kötelezi a szociális szolgáltatókat és a szociális intézményeket.”
+#### 3. §
 
-5–8. §
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
 
 9. § (1)
 
 (2)
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14–15. §
+#### 14. §
 
-16–19. §
+#### 15. §
 
-20. §
+#### 16. §
 
-21. §
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
 
 22. § (1)
 
@@ -46,59 +62,85 @@ egyes szociális és gyermekvédelmi tárgyú törvények módosításáról
 
 #### 2. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-24–32. §
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
 
 33. § (1)
 
-(2) A Gyvt. 51. §-a a következő (12)–(15) bekezdéssel egészül ki:
-
-„(12) A családok átmeneti otthona a férőhelyszámon belül kialakított külső férőhelyeken biztosíthatja azoknak a családoknak az ellátását, amelyek önálló lakhatásra támogatással képesek.
-
-(13) A külső férőhelyen történő ellátás időtartama a 45. § (6) bekezdése és a 47. § (3) bekezdés a) pontja szerinti időtartammal együtt sem haladhatja meg a három évet.
-
-(14) A külső férőhelyen ellátott családok számára kedvezményes lakhatást, és ha az önálló életvitel fenntartása érdekében szükséges, a 32. § (5) bekezdése szerinti megállapodásban meghatározottak szerint szociális munkát kell biztosítani.
-
-(15) A külső férőhelyek esetében a költségvetési támogatás a normál férőhelyekhez képest csökkentett mértékben illeti meg a fenntartót. A támogatás mértékét a központi költségvetésről szóló törvény állapítja meg.”
+(2)
 
 34. § (1)
 
-(2) A Gyvt. 66. §-a a következő (4) bekezdéssel egészül ki:
+(2)
 
-„(4) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a területi gyermekvédelmi szakszolgáltatást önálló intézmény keretében biztosítja, amely intézmény kizárólag az (1)–(3) bekezdés és a 60–65. § szerinti feladatokat láthatja el.”
+#### 35. §
 
-35–44. §
+#### 36. §
 
-45. § A Gyvt. 150. §-a a következő (4a) bekezdéssel egészül ki:
+#### 37. §
 
-„(4a) A családok átmeneti otthona külső férőhelye esetén
+#### 38. §
 
-a) ha szociális munkát is nyújtanak a család számára, a személyi térítési díj összege igénybe vevőnként nem haladhatja meg az (1) bekezdésben meghatározott jövedelem 40%-át,
+#### 39. §
 
-b) az a) ponton kívüli esetben lakhatási költséget kell meghatározni személyi térítési díjként.”
+#### 40. §
 
-46. §
+#### 41. §
 
-47. §
+#### 42. §
 
-48–50. §
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
 
 #### 3. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 
-51. §
+#### 51. §
 
 #### 4. A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény módosítása
 
-52–53. §
+#### 52. §
+
+#### 53. §
 
 #### 5. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-54. §
+#### 54. §
 
 #### 6. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
-55. §
+#### 55. §
 
-#### 7. Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló2015. évi CXXXIII. törvény módosítása
+#### 7. Az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló
+
+2015. évi CXXXIII. törvény módosítása
 
 56. § (1)
 
@@ -106,15 +148,21 @@ b) az a) ponton kívüli esetben lakhatási költséget kell meghatározni szem�
 
 #### 8. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-57–59. §
+#### 57. §
+
+#### 58. §
+
+#### 59. §
 
 #### 9. Az egyes szociális, gyermekvédelmi, családtámogatási tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2015. évi CCXXIII. törvény módosítása
 
 60. § Nem lép hatályba az egyes szociális, gyermekvédelmi, családtámogatási tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2015. évi CCXXIII. törvény 15. §-a.
 
-#### 10. A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló2016. évi LXVII. törvény módosítása
+#### 10. A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló
 
-61. §
+2016. évi LXVII. törvény módosítása
+
+#### 61. §
 
 62. § A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény 166. §-a a „102/E. §-a” szövegrész helyett az „– az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvénnyel megállapított – 102/E. §-a” szöveggel lép hatályba.
 

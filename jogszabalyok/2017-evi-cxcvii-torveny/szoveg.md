@@ -420,21 +420,9 @@ a büntetőeljárásról szóló 2017. évi XC. törvény hatálybalépésével 
 
 #### 105. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-300. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény (a továbbiakban: Bjt.) 213. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+300. §
 
-„(2) A fiatalkorúak büntetőügyeiben eljáró bíróság
-
-a) pedagógus ülnökeit a bíróság illetékességi területén működő alapfokú és középfokú nevelési-oktatási intézmények tantestületei,
-
-b) nem pedagógus ülnökeit az egyesületek – kivéve a pártokat –, a foglalkozásuk szerinti érdek-képviseleti szervek, valamint őket a Be. 680. § (5) bekezdés c) pontja szerinti munkakörben foglalkoztató, vagy korábban foglalkoztató szervezetek
-
-jelölik.
-
-(3) A katonai ülnököket – ideértve a Be. 698. § (4) bekezdésére tekintettel a Be. 680. § (5) bekezdésében meghatározott feltételeknek megfelelő katonai ülnököket is – a Magyar Honvédség és a rendvédelmi szervek illetékes parancsnokai – az ott működő érdek-képviseleti szervek javaslataira is figyelemmel – jelölik.”
-
-301. § (1) A Bjt. 214. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A jelölt a jelölés elfogadását követően haladéktalanul, az ülnökké történő megválasztására jogosult képviselő-testület részére hatósági erkölcsi bizonyítvánnyal igazolja büntetlen előéletét. A fiatalkorúak büntetőügyeiben eljáró bíróság nem pedagógus ülnökjelöltjének az ülnökké történő megválasztására jogosult képviselő-testület részére igazolnia kell továbbá a megválasztásához szükséges adatokat és tényeket.”
+301. § (1)
 
 (2)
 
@@ -482,7 +470,7 @@ jelölik.
 
 317. § A Kttv.
 
-- a) 34. § (3) bekezdés c) pontjában a „tagja” szövegrész helyébe a „tisztségviselője” szöveg,
+- a)
 - b)–e)
 
 lép.
@@ -521,37 +509,7 @@ lép.
 
 328–340. §
 
-341. § (1) A Btk. 461. § (1) bekezdés a) pont ad) alpontja helyébe a következő rendelkezés lép:
-
-(A 176–180. § alkalmazásában a kábítószer csekély mennyiségű, ha
-
-annak bázis formában megadott tiszta hatóanyag-tartalma)
-
-„ad) amfetamin, metamfetamin, MDPV és alfa-PVP esetén a 0,5 gramm,”
-
-(mennyiséget nem haladja meg.)
-
-(2) A Btk. 461. § (1) bekezdés a) pontja a következő al) alponttal egészül ki:
-
-(A 176–180. § alkalmazásában a kábítószer csekély mennyiségű, ha
-
-annak bázis formában megadott tiszta hatóanyag-tartalma)
-
-„al) pentedron esetén a 0,4 gramm,”
-
-(mennyiséget nem haladja meg.)
-
-(3) A Btk. 461. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(A 176–180. § alkalmazásában a kábítószer csekély mennyiségű, ha)
-
-„d) annak tiszta hatóanyag-tartalma
-
-da) GBL esetén a 6,2 gramm,
-
-db) AB-CHMINACA, MDMB-CHMICA, AM-2201, AB-PINACA, AB-FUBINACA, és ADB-FUBINACA esetén a 0,05 gramm”
-
-(mennyiséget nem haladja meg.)
+341. §
 
 342–343. §
 
@@ -635,21 +593,11 @@ db) AB-CHMINACA, MDMB-CHMICA, AM-2201, AB-PINACA, AB-FUBINACA, és ADB-FUBINACA 
 
 410–430. §
 
-431. § A Bv. tv. a 65. §-t követően a következő alcímmel és 65/A. §-sal egészül ki:
-
-„A pénzbüntetés végrehajthatósága megszűnésének megállapítása
-
-65/A. § (1) A büntetés-végrehajtási bíró hivatalból vagy a bv. intézet előterjesztésére a 293/A. § (1) bekezdésében meghatározott ok fennállása esetén, az iratok alapján megállapítja a pénzbüntetés végrehajthatósága megszűnését. Az eljárásnak az elítélt vagy védője kérelmére is helye van.
-
-(2) Az eljárást annak a törvényszéknek a gazdasági hivatala szerint illetékes büntetés-végrehajtási bíró folytatja le, amely a pénzbüntetés végrehajtása érdekében intézkedett. Ha az elítélt fogva van, az eljárást a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró folytatja le.
-
-(3) A bűnügyi költséget az állam viseli.”
+431. §
 
 432–447. §
 
-448. § A Bv. tv. 294. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A bv. intézet parancsnoka a 293/A. § (1) bekezdése szerinti feltétel bekövetkezése előtt harminc nappal, ha ez a végrehajtás foganatba vételének időpontjára figyelemmel indokolt, soron kívül előterjesztést tesz a büntetés-végrehajtási bírónak a pénzbüntetés végrehajthatósága megszűnésnek megállapítása érdekében.”
+448. §
 
 449–475. §
 
@@ -684,7 +632,7 @@ db) AB-CHMINACA, MDMB-CHMICA, AM-2201, AB-PINACA, AB-FUBINACA, és ADB-FUBINACA 
 487. § A Hszt.
 
 - 1–12.
-- 13. 305. § (3) bekezdés c) pontjában a „tagja” szövegrész helyébe a „tisztségviselője” szöveg,
+- 13.
 - 14–15.
 
 lép.
@@ -753,9 +701,7 @@ terheli.”
 
 504–506. §
 
-507. § Az Ügyvédi tv. 208. §-a a következő (35) bekezdéssel egészül ki:
-
-„(35) 2018. július 1-jéig e törvény szabályainak megfelelőnek kell tekinteni a felelősségbiztosítást, ha a Magyar Ügyvédi Kamara 2017. december 31-én hatályos szabályzatának és iránymutatásának – a (9) bekezdés a) pontjában meghatározott eltéréssel – megfelel.”
+507. §
 
 #### 164. A büntetőeljárásról szóló 2017. évi XC. törvény eltérő tartalommal hatályba lépő rendelkezései
 

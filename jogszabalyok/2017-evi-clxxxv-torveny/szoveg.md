@@ -621,11 +621,4 @@ követelést lehet beszámítani.
 
 (2) Az ÖTÖDIK RÉSZ rendelkezéseit az e törvény hatálybalépését követően indult váltóperekre kell alkalmazni.
 
-98. § A közjegyzőkről szóló 1991. évi XLI. törvény 145. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az óvás szabályait megfelelően kell alkalmazni minden olyan esetben, amikor jogszabály közhitelű óvás felvételét követeli meg vagy teszi lehetővé.”
-
-99. § Hatályát veszti
-
-- a) a Genfben, 1930. június 7-én megkötött váltójogi egyezmények kihirdetéséről szóló 1965. évi 1. törvényerejű rendelet 4. § (2) bekezdése és
-- b) a váltójogi szabályok szövegének közzétételéről szóló 1/1965. (I. 24.) IM rendelet.
+#### 98–99. §

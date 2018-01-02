@@ -6,21 +6,91 @@ az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvé
 
 #### 1. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-1–4. §
+#### 1. §
 
-5. §
+#### 2. §
 
-6–12. §
+#### 3. §
 
-13. §
+#### 4. §
 
-14–39. §
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
 
 40. § Az Art.
 
-- 1.
-- 2. 6/B. § (3) bekezdésében az „a 37. § (4) bekezdése szerinti esetben 45 napon belül” szövegrész helyébe a „30 napon belül” szöveg,
-- 3–26.
+1.
+
+2.
+
+3–26.
 
 lép.
 
@@ -33,28 +103,55 @@ lép.
 
 #### 2. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-42–50. §
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
 
 #### 3. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-51–53. §
+#### 51. §
 
-54. §
+#### 52. §
 
-55–56. §
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
 
 #### 4. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-57–58. §
+#### 57. §
 
-59. §
+#### 58. §
 
-60–61. §
+#### 59. §
+
+#### 60. §
+
+#### 61. §
 
 62. § A Gjt.
 
-- 1.
-- 2.
+1.
+
+2.
 
 szöveg lép.
 
@@ -66,11 +163,23 @@ szöveg lép.
 
 #### 5. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-64–65. §
+#### 64. §
 
-66–69. §
+#### 65. §
 
-70–72. §
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
 
 73. § Az Szja tv.
 
@@ -79,65 +188,149 @@ szöveg lép.
 
 szerint módosul.
 
-74–75. §
+#### 74. §
+
+#### 75. §
 
 #### 6. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-76. §
+#### 76. §
 
-77–79. §
+#### 77. §
 
-80–81. §
+#### 78. §
 
-82–83. §
+#### 79. §
 
-84–85. §
+#### 80. §
 
-86–87. §
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
 
 #### 7. A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény módosítása
 
-88. §
+#### 88. §
 
 #### 8. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-89–91. §
+#### 89. §
+
+#### 90. §
+
+#### 91. §
 
 #### 9. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-92–94. §
+#### 92. §
+
+#### 93. §
+
+#### 94. §
 
 #### 10. A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény módosítása
 
-95–103. §
+#### 95. §
+
+#### 96. §
+
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
 
 #### 11. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény módosítása
 
-104–117. §
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
+
+#### 108. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
 
 #### 12. Az államháztartás egyensúlyát javító különadóról és járadékról szóló 2006. évi LIX. törvény módosítása
 
-118. §
+#### 118. §
 
-119–120. §
+#### 119. §
 
-121–122. §
+#### 120. §
+
+#### 121. §
+
+#### 122. §
 
 #### 13. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-123–128. §
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
 
 #### 14. A népegészségügyi termékadóról szóló 2011. évi CIII. törvény módosítása
 
-129–130. §
+#### 129. §
+
+#### 130. §
 
 #### 15. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosítása
 
-131–132. §
+#### 131. §
+
+#### 132. §
 
 #### 16. A fémkereskedelemről szóló 2013. évi CXL. törvény módosítása
 
-133–134. §
+#### 133. §
+
+#### 134. §
 
 #### 17. Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény módosítása
 
@@ -147,23 +340,35 @@ szerint módosul.
 
 „134. § Az Áfa tv. a következő 297. §-sal egészül ki:
 
-„297. § E törvénynek a Mód5 törvénnyel megállapított 58. § (1) és (1a) bekezdését az olyan 2015. december 31-ét követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amelyek tekintetében a fizetés esedékessége, valamint a számla vagy a nyugta kibocsátásának időpontja 2015. december 31-ét követő időpont.””
+„297. § E törvénynek a Mód5 törvénnyel megállapított 58. § (1) és (1a) bekezdését az olyan 2015. december 31-ét követően kezdődő elszámolással vagy fizetéssel érintett időszakokra kell először alkalmazni, amelyek tekintetében a fizetés esedékessége, valamint a számla vagy a nyugta kibocsátásának időpontja 2015. december 31-ét követő időpont.”
 
 III. FEJEZET
 
 EGYES KAPCSOLÓDÓ TÖRVÉNYEK MÓDOSÍTÁSA
 
-18. A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosítása
+18. A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosítása”
 
-137–139. §
+#### 137. §
+
+#### 138. §
+
+#### 139. §
 
 #### 19. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-140. §
+#### 140. §
 
 #### 20. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-141–145. §
+#### 141. §
+
+#### 142. §
+
+#### 143. §
+
+#### 144. §
+
+#### 145. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -185,8 +390,12 @@ EGYES KAPCSOLÓDÓ TÖRVÉNYEK MÓDOSÍTÁSA
 
 (2) E törvény 44. §-a, 57. §-a, 60. §-a, 62. §-a, 94. §-a és 5. számú melléklete tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti bejelentése megtörtént.
 
-### 1–2. melléklet a 2015. évi CLXXXVII. törvényhez
+### 1. melléklet a 2015. évi CLXXXVII. törvényhez
+
+### 2. melléklet a 2015. évi CLXXXVII. törvényhez
 
 ### 3. melléklet a 2015. évi CLXXXVII. törvényhez
 
-### 4–5. melléklet a 2015. évi CLXXXVII. törvényhez
+### 4. melléklet a 2015. évi CLXXXVII. törvényhez
+
+### 5. melléklet a 2015. évi CLXXXVII. törvényhez

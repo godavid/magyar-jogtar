@@ -10,13 +10,11 @@ energetikai tárgyú törvények módosításáról
 
 9–15. §
 
-16. § Az Atv.
+16. §
 
 - a)
-- b) 6/C. § (3) bekezdésében az „a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 42–43. §-ában” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 23–24. §-ában” szöveg,
+- b)
 - c)–e)
-
-lép.
 
 17. §
 

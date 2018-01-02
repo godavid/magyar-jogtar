@@ -37,7 +37,7 @@ a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelő
 
 #### 3. Fizetési határidő
 
-3. § (1) A termelő és feldolgozó, illetve felvásárló viszonylatában a mezőgazdasági és élelmiszer-ipari termék ellenértékének kifizetése az áru átvételétől számított harminc napot nem haladhatja meg, amennyiben a helyesen kiállított számla a feldolgozó, illetve felvásárló részére az átvételt követő tizenöt napon belül átadásra kerül. Ha a termelő a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátja a feldolgozó, illetve felvásárló rendelkezésére, a termék ellenértékét a helyesen kiállított számla kézhezvételétől számított tizenöt napon belül kell kifizetni. A mezőgazdasági és élelmiszer-ipari termék ellenértékének kifizetésére egyebekben a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) Hatodik Könyve IX. Fejezetének a pénztartozás teljesítésére vonatkozó rendelkezéseit kell alkalmazni.
+3. § (1) A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában a mezőgazdasági és élelmiszer-ipari termék ellenértékének kifizetése az áru átvételétől számított harminc napot nem haladhatja meg, amennyiben a helyesen kiállított számla a feldolgozó, a felvásárló, illetve a forgalmazó részére az átvételt követő tizenöt napon belül átadásra kerül. Ha a helyesen kiállított számlát az átvételt követő tizenöt napon túl bocsátják rendelkezésére, a termék ellenértékét a helyesen kiállított számla kézhezvételétől számított tizenöt napon belül kell kifizetni.
 
 (2) Amennyiben az (1) bekezdésben meghatározott határidőn belül a fizetési teljesítésre nem kerül sor, a fizetésre kötelezett köteles a termék ellenértékét a Ptk.-ban meghatározott késedelmi kamattal, de legalább a jegybanki alapkamat kétszeresével növelt kamattal megfizetni.
 
@@ -105,6 +105,8 @@ köthető.
 
 (7) A Rendelet 168. cikk (5) bekezdésének rendelkezéseit a szövetkezetek mellett a gazdasági társaságokra is alkalmazni kell.
 
+7/B. § A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában értékesített friss, illetve gyorsan romló mezőgazdasági és élelmiszer-ipari termék vonatkozásában a felek között létrejött írásbeli szerződésben meghatározott fogyaszthatósági vagy minőség megőrzési idő leteltét követően, erre vonatkozó szerződéses rendelkezés hiányában a termék birtokba vételét követően minőségi kifogásnak nincs helye.
+
 #### 6. Mezőgazdasági adatbázisok
 
 8. § (1) A mezőgazdasági termékpiacok megalapozott információn alapuló szervezése, valamint az Európai Unió felé történő adatszolgáltatási kötelezettség teljesítése érdekében statisztikai célra állami adatbázisokat kell működtetni.
@@ -130,11 +132,19 @@ köthető.
 
 9. § Az agrártámogatás igénybevevője rendeletben meghatározottak szerint, az ott felsorolt adatok szolgáltatására köteles.
 
-10. § (1) A mezőgazdasági termelő a mezőgazdasági igazgatási szerv részére termésbecslési célból, illetve agrárgazdasági adatbázis működtetése céljából az e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles gazdálkodásáról adatot szolgáltatni.
+10. § (1) A mezőgazdasági termelő a mezőgazdasági igazgatási szerv részére
+
+- a) termésbecslési és állapotminősítési célból,
+- b) mezőgazdasági munkákról szóló jelentés készítése céljából, illetve
+- c) agrárgazdasági adatbázis működtetése céljából
+
+az e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles gazdálkodásáról adatot szolgáltatni.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatás keretében – az e törvény végrehajtására kiadott rendeletben meghatározott gazdálkodási adatokon túl – a mezőgazdasági termelő köteles a családi és utóneve, születési családi és utóneve, lakcíme, székhelye (telephelye), regisztrációs száma adatait megadni.
 
-(3) A termésbecslési adatok, illetve az agrárgazdasági adatok kizárólag statisztikai célra használhatók fel. A mezőgazdasági termelő által megadott személyes adatokat a mezőgazdasági igazgatási szerv az aggregált statisztikai adat előállítását követően törli a nyilvántartásából.
+(3) Az (1) bekezdésben meghatározott célból szolgáltatott adatok kizárólag statisztikai célra használhatók fel. A mezőgazdasági termelő által megadott személyes adatokat a mezőgazdasági igazgatási szerv az aggregált statisztikai adat előállítását követően törli a nyilvántartásából.
+
+(4) A miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet az (1) bekezdés a) és b) pontjában meghatározott célok érdekében, a termőföld-hasznosítással kapcsolatos egységes támogatási kérelmek adatai alapján előállított rétegzett mintát tartalmazó adatokat ad át a mezőgazdasági igazgatási szerv részére.
 
 11. § A nyers tej első felvásárlója a Rendelet 151. cikkének megfelelően köteles havonta jelenteni a hozzájuk szállított nyers tej mennyiségét a Központi Statisztikai Hivatalnak (a továbbiakban: KSH), amelyről a KSH a miniszter közvetítésével tájékoztatja a Bizottságot.
 
@@ -250,9 +260,24 @@ köthető.
 
 (2) A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény (a továbbiakban: Tfmtv.) szerinti beszállítók érdekképviseletét ellátó szervezet és a szakmaközi szervezet a tagjai számára az adott piacra, illetve az ott alkalmazásra kerülő árakra, beszerzési és értékesítési lehetőségekre, ösztönzők alkalmazására, a termékek piaci helyzetének javítására, illetve kiegyensúlyozott piaci viszonyok biztosítására vonatkozó felmérést végezhet, információt adhat, valamint a tagok között erre irányuló koordinatív egyeztetést folytathat. Amennyiben az ilyen tevékenység révén megvalósuló gazdasági és társadalmi előnyök meghaladják a tevékenység révén kialakuló versenyt korlátozó magatartásból adódó hátrányokat az ilyen tevékenység nem minősül a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 11. §-ában foglalt tilalom megsértésének.
 
+25/A. § (1) A miniszter – a kérelem és valamennyi vonatkozó dokumentum benyújtásától számított – négy hónapon belül dönt – az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i – 1305/2013/EU európai parlamenti és tanácsi rendelet
+
+- a) 16. cikk (1) bekezdés b) pontjában meghatározott kritériumoknak megfelelő nemzeti minőségrendszer, valamint
+- b) 16. cikk (1) bekezdés c) pontjában meghatározott kritériumoknak megfelelő önkéntes mezőgazdasági-termék tanúsítási rendszer
+
+elismeréséről.
+
+(2) Az elismerési eljárás során legfeljebb három alkalommal adható ki hiánypótlási felhívás.
+
+(3) A miniszter a műszaki szabályokra és az információs társadalom szolgáltatásaira vonatkozó információszolgáltatási eljárás megállapításáról szóló (EU) 2015/1535 irányelv szerinti eljárás során beérkező megjegyzést vagy részletes véleményt hiánypótlási felhívás keretében továbbítja a kérelmező felé.
+
+(4) A miniszter hivatalból dönt az elismerés felfüggesztéséről vagy visszavonásáról.
+
+(5) A nemzeti minőségrendszer, valamint az önkéntes mezőgazdasági-termék tanúsítási rendszer elismerésére, felfüggesztésére és visszavonására vonatkozó eljárás során a függő hatályú döntésében nem kell rendelkeznie a kérelmezett jog gyakorlásáról, továbbá sommás eljárásnak nincs helye.
+
 ### IV. Fejezet — SZAKTANÁCSADÁSI SZOLGÁLTATÁSOK SZABÁLYAI
 
-26. § (1) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a természetes személy tevékenykedhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. törvény) szerint bejelenti, és büntetlen előéletű. A szaktanácsadói tevékenység végzésére irányuló bejelentés – a Szolg. törvényben meghatározott adatokon túl – tartalmazza a bejelentő természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a bejelentő szaktanácsadói besorolását, szakterületét, illetve részszakterületét, valamint a bejelentő szakmai gyakorlatát bemutató összefoglalót.
+26. § (1) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott támogatás jogosultja részére szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a vállalkozás – ideértve a 18. §-nak megfelelően elismert szervezetek tagját, alkalmazottját, vagy a szervezettel egyéb szaktanácsadásra irányuló jogviszonyban álló, és a szervezet tagjai részére a szervezet megbízásából tanácsadási tevékenységet végző személyt is –, illetve természetes személy tevékenykedhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. törvény) szerint bejelenti. A szaktanácsadói tevékenység végzésére irányuló bejelentés – a Szolg. törvényben meghatározott adatokon túl – tartalmazza a bejelentő azonosító adatait, értesítési címét, a vállalkozás szaktanácsadói tevékenységet végző tagjának szakirányú végzettségét, szaktanácsadói besorolását, szakterületét, illetve részszakterületét, valamint szakmai gyakorlatát bemutató összefoglalót.
 
 (2) Az agrárkamara az (1) bekezdés szerinti szaktanácsadókról nyilvántartást vezet, amely tartalmazza a bejelentőnek az (1) bekezdésben meghatározott adatait, és – ha e célból rendelkezésre bocsátotta – egyéb elérhetőségét, továbbá a kapcsolódó végrehajtási rendeletben meghatározott egyéb adatokat, dokumentumokat. A nyilvántartásból kizárólag a szaktanácsadói tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
@@ -274,10 +299,11 @@ köthető.
 - e) a vágás utáni minősítés rendjét;
 - f) a piaci árinformációs rendszer működését, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját érintő szabályokat;
 - g) a tesztüzemi információs rendszer működését érintő szabályokat;
-- h) a termésbecsléssel kapcsolatos adatszolgáltatás részletes szabályait;
+- h) a termésbecsléssel, az állapotminősítéssel, valamint a mezőgazdasági munkákról szóló jelentéssel kapcsolatos adatszolgáltatás részletes szabályait;
 - i) az agrártámogatás igénybevevőjét terhelő adatszolgáltatás részletes szabályait;
 - j) a Rendelet V. rész I. Fejezetében meghatározott rendkívüli intézkedések tagállami végrehajtási szabályait;
-- k) a termelői szervezetekkel kapcsolatos, az egyes ágazatokra vonatkozó gazdasági térségeket
+- k) a termelői szervezetekkel kapcsolatos, az egyes ágazatokra vonatkozó gazdasági térségeket;
+- l) a nemzeti minőségrendszerek, valamint az önkéntes mezőgazdasági-termék tanúsítási rendszerek elismerésére, felfüggesztésére, visszavonására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

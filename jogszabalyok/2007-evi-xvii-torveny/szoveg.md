@@ -1484,18 +1484,17 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 62. § (1) Ha az ügyfél az esedékes tartozását nem fizette meg és azt tőle nem lehet behajtani, a tartozás megfizetésére határozattal kötelezhető:
 
-- a) az ügyfél örököse az örökrésze erejéig, több örökös esetében örökrészük arányában,
-- b) az ügyfél jogutódja,
+- a)–b)
 - c) az ügyfél tartozásáért kezességet vállaló, illetve az ügyfél tartozását átvállaló, a jóváhagyott szerződésben foglalt tartozás tekintetében,
 - d) az Európai Közösség pénzügyi érdekeinek megsértésével kapcsolatos bűncselekmény elkövetője az azzal összefüggő tartozás tekintetében,
 - e) a gazdasági társaság, a közös név alatt működő polgári jogi társaság tartozásáért a rájuk vonatkozó szabályok szerint a helytállni köteles tag, vezető tisztségviselő, illetve szervezet, a jogi személy felelősségvállalásával működő vállalkozó esetében a felelősségvállaló, továbbá az a személy, amely (aki) a vállalkozás kötelezettségeiért törvény alapján felel,
-- f) a szülői felügyelet alatt álló kiskorú gyermek tartozásáért a szülői felügyeletet gyakorló szülő az általa kezelt vagyon erejéig.
+- f)
 
-(2) Az (1) bekezdés c) pontja szerinti kezességvállalásnak és tartozásátvállalásnak a mezőgazdasági és vidékfejlesztési támogatási szerv általi jóváhagyására, annak feltételeire és következményeire az adózás rendjéről szóló törvény szerinti kezességvállalás szabályait kell megfelelően alkalmazni.
+(2)
 
 (3) Az (1) bekezdés szerinti határozat hiánya nem zárja ki a követelés peres vagy nemperes eljárásban történő érvényesítését.
 
-(4) A befizetésre kötelezett a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló követelését a tartozásába nem számíthatja be.
+(4)
 
 (5) A jogosan igénybe vett támogatást visszafizetési kötelezettség nem terheli.
 

@@ -6,85 +6,105 @@ egyes pénzügyi és gazdasági tárgyú törvények módosításáról
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-2. § A helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) a 11. §-t követően a következő 11/A. §-sal egészül ki:
+#### 2. §
 
-„11/A. § Adóköteles az önkormányzat illetékességi területén lévő ingatlanon elhelyezett, a településkép védelméről szóló törvény szerinti reklámhordozó.”
+#### 3. §
 
-3. § A Htv. a 12. §-t követően a következő 12/A. §-sal egészül ki:
+#### 4. §
 
-„12/A. § Az adó alanya a 11/A. § szerinti esetben az, aki az év első napján a reklámhordozó Polgári Törvénykönyv szerinti tulajdonosa.”
+#### 5. §
 
-4. § A Htv. 14. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A 11/A. § szerinti esetben az adókötelezettség a reklámhordozó elhelyezésére vonatkozó hatósági engedély kiadását, engedély hiányában a reklámhordozó ingatlanon való elhelyezését követő év első napján keletkezik. Az adókötelezettség a reklámhordozó lebontása, eltávolítása vagy megsemmisülése, de legkorábban az adókötelezettség keletkezése évének utolsó napjával szűnik meg.”
-
-5. § A Htv. a 15. §-t követően a következő 15/A. §-sal egészül ki:
-
-„15/A. § A 11/A. § szerinti esetben az adó alapja a reklámhordozó reklámközzétételre használható, m2-ben – két tizedesjegy pontossággal – számított felülete.”
-
-6. § A Htv. a 16. §-t követően a következő 16/A. §-sal egészül ki:
-
-„16/A. § Az adó évi mértékének felső határa a 15/A. § szerinti adóalap esetén 12 000 Ft/m2.”
+#### 6. §
 
 #### 3. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
-- 1–2.
-- 3.
-- 4.
-- 5.
-- 6–10.
+1–2.
 
-9. §
+3.
+
+4.
+
+5.
+
+6–10.
+
+#### 9. §
 
 #### 4. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-10–19. §
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
 
 #### 5. Az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény módosítása
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
 #### 6. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
 
-22–24. §
+#### 22. §
 
-#### 7. Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló2010. évi XC. törvény módosítása
+#### 23. §
 
-25. §
+#### 24. §
+
+#### 7. Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló
+
+2010. évi XC. törvény módosítása
+
+#### 25. §
 
 #### 8. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
 
-26. §
+#### 26. §
 
-#### 9. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló2011. évi CLVI. törvény módosítása
+#### 9. Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló
 
-27. §
+2011. évi CLVI. törvény módosítása
 
-28. §
+#### 27. §
 
-29–30. §
+#### 28. §
+
+#### 29. §
+
+#### 30. §
 
 #### 10. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-31. §
+#### 31. §
 
-32. § A Katv.
+#### 32. §
 
-- 1.
-- 2. 21. § (1) bekezdésében a „14” szövegrész helyébe a „13” szöveg,
-- 3. 23. § (2) bekezdésében a „14” szövegrész helyébe a „13” szöveg
+1.
 
-lép.
+2–3.
 
 #### 11. Az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvény módosítása
 
@@ -102,45 +122,71 @@ lép.
 
 #### 13. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-35–37. §
+#### 35. §
+
+#### 36. §
+
+#### 37. §
 
 #### 14. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
 
-38–40. §
+#### 38. §
+
+#### 39. §
+
+#### 40. §
 
 #### 15. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-41–43. §
+#### 41. §
+
+#### 42. §
+
+#### 43. §
 
 #### 16. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-44–46. §
+#### 44. §
+
+#### 45. §
+
+#### 46. §
 
 ### III. Fejezet — EGYÉB TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 17. Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény módosítása
 
-47–50. §
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
 
 #### 18. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-51. §
+#### 51. §
 
 #### 19. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-52. §
+#### 52. §
 
-#### 20. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló2008. évi XLVIII. törvény módosítása
+#### 20. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló
 
-53–54. §
+2008. évi XLVIII. törvény módosítása
 
-55. §
+#### 53. §
 
-56. §
+#### 54. §
+
+#### 55. §
+
+#### 56. §
 
 #### 21. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-57. §
+#### 57. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

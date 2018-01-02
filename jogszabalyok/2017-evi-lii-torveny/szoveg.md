@@ -315,8 +315,10 @@ rendeletben jelölje ki.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-#### 21–22. §
+#### 21. §
 
-23. § A 9. § (4) bekezdésében és 13. § (5) bekezdésében az „a közigazgatási hatósági eljárásról szóló törvény” szövegrész helyébe az „az általános közigazgatási rendtartásról szóló törvény” szöveg lép.
+#### 22. §
+
+#### 23. §
 
 #### 24. §

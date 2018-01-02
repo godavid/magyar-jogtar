@@ -4,7 +4,21 @@ az egyes klímapolitikai és zöldgazdaság fejlesztési tárgyú törvények m�
 
 #### 1. Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény módosítása
 
-1–8. §
+#### 1. §
+
+#### 2. §
+
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
 
 9. § Az Éhvt.
 
@@ -14,7 +28,7 @@ az egyes klímapolitikai és zöldgazdaság fejlesztési tárgyú törvények m�
 
 lép.
 
-10. §
+#### 10. §
 
 #### 2. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -30,17 +44,37 @@ lép.
 
 (2)
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
 #### 3. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-16–21. §
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
 
 #### 4. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
-22–27. §
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
 
 #### 5. Az energiahatékonyságról szóló 2015. évi LVII. törvény módosítása
 
@@ -48,33 +82,17 @@ lép.
 
 (3)
 
-29–30. §
+#### 29. §
 
-31. §
+#### 30. §
 
-32. §
+#### 31. §
+
+#### 32. §
 
 33. § (1)
 
-(2) Az Ehat. 21/B. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) E törvény végrehajtására kiadott kormányrendeletben meghatározott energiafogyasztású vállalkozásnak
-
-a) legalább egy, tőle munkajogilag és társasági jogilag független energetikai szakreferenst kell igénybe vennie és
-
-b) a MEKH elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében almérőt kell felszerelnie.
-
-(2) Az energetikai szakreferens feladata az energiahatékonysági szemléletmód, energiahatékony magatartásminták meghonosításának elősegítése az igénybevételére köteles gazdálkodó szervezet működésében és döntéshozatalában. Ennek keretében:
-
-a) figyelemmel kíséri a vállalkozás energiafelhasználásának változásait, valamint az energiahatékonysági intézkedések megvalósítását,
-
-b) a MEKH elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében alkalmazott almérők adatait nyilvántartja és azokat a c) pont szerinti jelentésben feltünteti,
-
-c) tevékenységéről e törvény végrehajtására kiadott kormányrendeletben meghatározott tartalmú és rendszerességű jelentést ad a vállalkozás számára,
-
-d) közreműködik a 22/C. § szerinti jelentés elkészítésében,
-
-e) részt vesz a vállalkozás alkalmazottai energiahatékonysági szemléletének kialakításában.”
+(2)
 
 (3)
 
@@ -86,23 +104,53 @@ e) részt vesz a vállalkozás alkalmazottai energiahatékonysági szemléletén
 
 (4)
 
-35–50. §
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
 
 51. § (1)
 
-(2) Az Ehat. 46. §-a a következő g) ponttal egészül ki:
+(2)
 
-(Felhatalmazást kap a Hivatal elnöke, hogy)
+#### 52. §
 
-„g) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontját”
+#### 53. §
 
-(rendeletben állapítsa meg.)
-
-52–54. §
+#### 54. §
 
 #### 6. A villamos energiáról szóló 2007. évi LXXXVI. törvény, valamint az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény módosításáról szóló 2016. évi LXXXII. törvény módosítása
 
-55–56. §
+#### 55. §
+
+#### 56. §
 
 57. § Nem lép hatályba a Vet. mód.
 
@@ -110,7 +158,7 @@ e) részt vesz a vállalkozás alkalmazottai energiahatékonysági szemléletén
 - b) 4. §-a,
 - c) 8. §-a.
 
-58. §
+#### 58. §
 
 #### 7. Záró rendelkezések
 

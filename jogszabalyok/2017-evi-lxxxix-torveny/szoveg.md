@@ -26,7 +26,21 @@ egyes törvényeknek a közérdekű nyugdíjas szövetkezetek létrehozásával 
 
 (3)–(4)
 
-(5)–(7)
+(5) A Met. 3/B. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(A munkaügyi ellenőrzés kiterjed)
+
+„d) az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet által a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) alapján nyújtott külső szolgáltatásra és az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tagnak a szolgáltatás fogadójánál történő munkavégzésre,”
+
+(6) A Met. 3/B. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(Nem foglalkoztatásra irányuló jogviszony keretében történik)
+
+„d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve az Sztv. 10/B. § (2) bekezdése és 29. § (2) bekezdése szerinti megállapodást is – alapján teljesíti, valamint”
+
+(7) A Met. a következő 14. §-sal egészül ki:
+
+„14. § E törvénynek az egyes törvényeknek a közérdekű nyugdíjas szövetkezetek létrehozásával összefüggő módosításáról szóló 2017. évi LXXXIX. törvény (a továbbiakban: 2017. évi LXXXIX. törvény) 5. § (2), (5) és (6) bekezdésével megállapított 1. § (1) bekezdés h) pontjában, 3/B. § (1) bekezdés d) pontjában és 3/B. § (2) bekezdés d) pontjában foglaltakat a 2017. évi LXXXIX. törvény 5. § (2), (5) és (6) bekezdésének hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
 
 #### 6. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
@@ -50,19 +64,7 @@ egyes törvényeknek a közérdekű nyugdíjas szövetkezetek létrehozásával 
 
 #### 11. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-12. § (1) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 142. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Az adót a termék beszerzője, szolgáltatás igénybevevője fizeti:)
-
-„c) a termékértékesítéshez és szolgáltatásnyújtáshoz – ideértve azt is, ha az nem kötött építési hatósági engedélyhez vagy építési hatósági tudomásulvételi eljáráshoz – munkaerő kölcsönzése, kirendelése, személyzet rendelkezésre bocsátása, illetve iskolaszövetkezet, közérdekű nyugdíjas szövetkezet szolgáltatásának igénybevétele esetében;”
-
-(2) Az Áfa tv. a következő 314. §-sal egészül ki:
-
-„314. § (1) E törvénynek az egyes törvényeknek a közérdekű nyugdíjas szövetkezetek létrehozásával összefüggő módosításáról szóló 2017. évi LXXXIX. törvénnyel (a továbbiakban: Mód8 törvény) módosított 142. § (1) bekezdés c) pontját – a (2) és (3) bekezdésben meghatározott eltéréssel – azon ügyletek esetében kell először alkalmazni, amelyek teljesítési időpontja 2018. január 1. napjára vagy azt követő időpontra esik.
-
-(2) E törvénynek a Mód8 törvénnyel módosított 142. § (1) bekezdés c) pontja szerinti közérdekű nyugdíjas szövetkezet által nyújtott szolgáltatás esetén, ha a teljesítés időpontja 2018. január 1. napjára vagy azt követő időpontra esik, de a szolgáltatást igénybevevő adóalanynak a 60. § (1)–(3) bekezdése szerint a fizetendő adót 2018. január 1. napját megelőzően kellene megállapítani, a Mód8 törvénnyel módosított 142. § (1) bekezdés c) pontját nem kell alkalmazni.
-
-(3) Amennyiben e törvénynek a Mód8 törvénnyel módosított 142. § (1) bekezdés c) pontja hatálya alá tartozó, közérdekű nyugdíjas szövetkezet által nyújtott szolgáltatáshoz fizetett előleg jóváírásának, kézhezvételének időpontja 2018. január 1. napját megelőző napra esik, az előleg jóváírására, kézhezvételére tekintettel fizetendő adót az ügyletet saját nevében teljesítő adóalany fizeti az 59. § (1) és (2) bekezdésének megfelelően, a szolgáltatás igénybevevőjének adófizetési kötelezettsége – a (2) bekezdésben foglaltak figyelembevételével – az adóalapnak az előleg adót nem tartalmazó összegével csökkentett része után keletkezik.”
+12. §
 
 #### 12. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
 

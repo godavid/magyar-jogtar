@@ -83,7 +83,7 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 - b) az adott szakterületen – időszakos hiány vagy egyéb szakmai ok miatti hiány okán – a bejegyzett igazságügyi szakértők egyike sem tud eleget tenni a kirendelésnek, vagy
 - c) az adott szakterület nem szerepel a miniszter rendeletében felsorolt szakterületek között.
 
-(5) Eseti szakértőként csak az járhat el, aki a 45. § (2) bekezdés n) pontja szerinti felhívásnak megfelelően az igazságügyi szakértőkre vonatkozó etikai és fegyelmi követelményeknek aláveti magát.
+(5) Eseti szakértőként csak az járhat el, aki a 45. § (2) bekezdés n) pontja szerinti felhívásnak megfelelően nyilatkozik arról, hogy az igazságügyi szakértőkre vonatkozó etikai és fegyelmi követelményeknek aláveti magát. Az eseti szakértő jogaira és kötelezettségeire e törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (6) Más szakterületre már bejegyzett szakértő eseti szakértőként kizárólag a (4) bekezdés c) pontja alapján járhat el, amennyiben megfelelő szakértelemmel rendelkezik.
 
@@ -184,45 +184,46 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 
 #### 6. A szakterület kiterjesztése
 
-12. § A szakterület kiterjesztése iránti kérelem előterjesztésére, valamint elbírálására a felvétel iránti kérelemre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a kérelem benyújtásához a jogi vizsgát megismételni, valamint az 5. § (2) bekezdés g) pontjában és az 5. § (3) bekezdés a) pontjában megjelölt feltételeket igazolni nem kell. A szakterület kiterjesztése iránti kérelem kormányablaknál nem terjeszthető elő.
+12. § A szakterület kiterjesztése iránti kérelem előterjesztésére, valamint elbírálására a felvétel iránti kérelemre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a kérelem benyújtásához a jogi vizsgát megismételni, valamint az 5. § (2) bekezdés a), c) és g) pontjában, valamint az 5. § (3) bekezdés a) pontjában megjelölt feltételeket igazolni nem kell. A szakterület kiterjesztése iránti kérelem kormányablaknál nem terjeszthető elő.
 
 #### 7. A névjegyzékből való törlés
 
 13. § (1) Az igazságügyi szakértőt törölni kell a névjegyzékből, ha
 
 - a) azt az igazságügyi szakértő kéri,
-- b) a névjegyzékbe való felvétel feltételei – ide nem értve az 5. § (2) bekezdés a) pontjában meghatározott feltételt – már a felvételkor sem álltak fenn, vagy utóbb megszűntek, illetve az igazságügyi szakértő a szakértői esküt a 10. § (1) bekezdésében foglaltak szerint nem teszi le,
-- c) a névjegyzékben szereplő adatok változását, a miniszter rendeletében meghatározott módon, ismételt felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után, szándékosan nem jelenti be,
+- b) a névjegyzékbe való felvétel feltételei – ide nem értve az 5. § (3) bekezdés a) pontjában meghatározott feltételt – már a felvételkor sem álltak fenn, vagy utóbb megszűntek, illetve az igazságügyi szakértő a szakértői esküt a 10. § (1) bekezdésében foglaltak szerint nem teszi le,
+- c) a névjegyzékben szereplő adatok változását, a Kormány rendeletében meghatározott módon, ismételt felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után, szándékosan nem jelenti be,
 - d) az igazságügyi szakértő hatósági kirendelésre történő szakvélemény nyújtásával egy évet elérő késedelembe esett,
-- e) azon statisztikai adatokat, amelyeket e törvény alapján a Kamara részére szolgáltatni köteles, két egymást követő negyedévben határidőben nem szolgáltatja,
-- f) az igazságügyi szakértő negyedévente esedékes statisztikai adatszolgáltatást két éven belül három alkalommal elmulasztja, vagy az általa szolgáltatott adatok eltérnek a szakértő nyilvántartásában szereplő adatoktól,
-- g) az e törvény alapján fennálló képzési kötelezettségének határidőben nem tett eleget,
-- h) kamarai tagsága
-  - ha) kizárás útján,
-  - hb) a kamarai tagdíj fizetésének elmulasztása miatt, továbbá
-  - hc) egyéb okból
+- e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének felhívás ellenére ismételten nem tesz eleget,
+- f) azon statisztikai adatokat, amelyeket e törvény alapján a Kamara részére szolgáltatni köteles, két egymást követő negyedévben határidőben nem szolgáltatja,
+- g) az igazságügyi szakértő negyedévente esedékes statisztikai adatszolgáltatást két éven belül három alkalommal elmulasztja, vagy az általa szolgáltatott adatok eltérnek a szakértő nyilvántartásában szereplő adatoktól,
+- h) az e törvény alapján fennálló képzési kötelezettségének határidőben nem tett eleget,
+- i) kamarai tagsága
+  - ia) kizárás útján,
+  - ib) a kamarai tagdíj fizetésének elmulasztása miatt, továbbá
+  - ic) egyéb okból
 
 megszűnt, vagy
 
-- i) meghalt.
+- j) meghalt.
 
 (2) Ha a névjegyzékből történő törlésre
 
-- a) az (1) bekezdés h) pont ha) alpontja alapján került sor, az igazságügyi szakértő a határozat véglegessé válásától számított öt éven belül,
-- b) az (1) bekezdés d) és f) pontja alapján kerül sor, az igazságügyi szakértő a határozat véglegessé válásától számított két éven belül vagy
-- c) az (1) bekezdés c), e) és g) pontja, vagy h) pontjának hb), és hc) alpontjai alapján kerül sor, a határozat véglegessé válásától számított egy éven belül
+- a) az (1) bekezdés i) pont ia) alpontja alapján került sor, az igazságügyi szakértő a határozat véglegessé válásától vagy jogerőre emelkedésétől számított öt éven belül,
+- b) az (1) bekezdés d), e) és g) pontja alapján kerül sor, az igazságügyi szakértő a határozat véglegessé válásától vagy jogerőre emelkedésétől számított két éven belül vagy
+- c) az (1) bekezdés c), f) és h) pontja, vagy i) pontjának ib) és ic) alpontja alapján kerül sor, a határozat véglegessé válásától vagy jogerőre emelkedésétől számított egy éven belül
 
 a névjegyzékbe nem vehető fel.
 
 (3) A névjegyzéket vezető hatóság az (1) bekezdés a) pontja esetében az igazságügyi szakértőt az érintett szakterületről törli. A névjegyzéket vezető hatóság az igazságügyi szakértőt az (1) bekezdés b) pontja esetében azon szakterület tekintetében törli a névjegyzékből, amely tekintetében a névjegyzékbe vétel feltételei a felvételkor sem álltak fenn vagy utóbb megszűntek.
 
-(4) Az (1) bekezdés e) és f) pontjai szerinti törlési ok fennállását a névjegyzéket vezető hatóság az 54. § szerinti eljárásban állapítja meg.
+(4) Az (1) bekezdés f) és g) pontja szerinti törlési ok fennállását a névjegyzéket vezető hatóság az 54. § szerinti eljárásban állapítja meg.
 
-(5) Az (1) bekezdés i) pontja esetén a névjegyzéket vezető hatóság a névjegyzékbe a halál tényét hivatalból bejegyzi, és ezzel egyidejűleg az igazságügyi szakértőt a névjegyzékből törli.
+(5) Az (1) bekezdés j) pontja esetén a névjegyzéket vezető hatóság a névjegyzékbe a halál tényét hivatalból bejegyzi, és ezzel egyidejűleg az igazságügyi szakértőt a névjegyzékből törli.
 
 14. § Ha az igazságügyi szakértő
 
-- a) a névjegyzékből – a 13. § (1) bekezdés i) pontja kivételével – törlésre kerül,
+- a) a névjegyzékből – a 13. § (1) bekezdés j) pontja kivételével – törlésre kerül,
 - b) kamarai tagságát felfüggesztették vagy
 - c) tevékenységét a Kamara engedélyével szünetelteti,
 
@@ -420,7 +421,7 @@ minősítést kap.
 
 (4) Ha az igazságügyi szakértő a kizáró okot maga jelentette be vagy a kizáráshoz maga is hozzájárult, az igazságügyi szakértői intézmény vezetője más igazságügyi szakértő kijelöléséről a saját hatáskörében gondoskodik, és erről a hatóságot haladéktalanul értesíti.
 
-(5) Ha a hatóság állapít meg az igazságügyi szakértőre nézve kizáró okot, az igazságügyi szakértői intézmény vezetője más igazságügyi szakértőt jelöl ki.
+(5) Ha a hatóság állapít meg az igazságügyi szakértőre nézve kizáró okot, az igazságügyi szakértői intézmény vezetője más igazságügyi szakértőt jelöl ki. Ha a szakértői intézménynek nincs olyan kijelölhető igazságügyi szakértője, akire nézve a hatóság nem állapított meg kizáró okot, illetve a 30. § (7) bekezdésének vagy a 32. § (2) bekezdésének alkalmazására nincs lehetőség, az igazságügyi intézmény vezetője a kirendelést visszautasítja.
 
 #### 15. Az igazságügyi szakértői intézetek
 
@@ -432,7 +433,7 @@ minősítést kap.
 
 (2) Ha az igazságügyi szakértői intézet nevében a szakvéleményt az igazságügyi szakértői intézet névjegyzékben nem szereplő, de az adott szakterületen szakmai jártassággal rendelkező alkalmazottja adja, eljárására az igazságügyi szakértőkre vonatkozó jogszabályokat kell alkalmazni.
 
-(3) Az igazságügyi szakértői intézet nevében eljáró igazságügyi szakértő, illetve az igazságügyi szakértői intézet kizárására a 32. § (3) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+(3) Az igazságügyi szakértői intézet nevében eljáró igazságügyi szakértő, illetve az igazságügyi szakértői intézet kizárására a 32. § (3)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
 (4) Az igazságügyi szakértői intézet alkalmazásában álló igazságügyi szakértői tevékenységet végző személyek igazságügyi szakértővé válására vonatkozóan a miniszter rendeletben eltérő szabályokat állapíthat meg.
 
@@ -444,13 +445,15 @@ minősítést kap.
 
 (3) Az igazságügyi szakértői testület jogi személy, amelyet a bíróság nyilvántartásba vesz. Nem jogi személy az igazságügyi szakértői testület akkor, ha a gazdálkodása a miniszter rendeletében vagy más jogszabályban szabályozott egyéb módon is biztosított.
 
+(4) Az igazságügyi szakértői testület nem alkalmazható a polgári perrendtartásról szóló törvény szerinti magánszakértőként.
+
 36. § (1) Az igazságügyi szakértői testület tagja olyan szakirányú egyetemi végzettséggel rendelkező személy lehet, aki
 
 - a) az adott szakterületen egyetemi doktori vagy tudományos fokozattal rendelkezik,
 - b) egyetemi doktori vagy tudományos fokozattal és az adott szakterületen legalább tízéves szakirányú szakmai gyakorlattal rendelkezik vagy
 - c) az adott szakterületen legalább tízéves igazságügyi szakértői gyakorlattal rendelkezik.
 
-(2) Az igazságügyi szakértői testület elnökét és tagjait a miniszter – a szakterületet felügyelő miniszter egyetértésével – öt évre nevezi ki. Az igazságügyi szakértői testület nem igazságügyi szakértő tagjaira e törvénynek az igazságügyi szakértőre vonatkozó rendelkezései nem alkalmazhatók.
+(2) Az igazságügyi szakértői testület elnökét és tagjait a miniszter – a szakterületet felügyelő miniszter egyetértésével – öt évre nevezi ki. Az igazságügyi szakértői testület tagjainak névsorát a miniszter a kormányzati portálon közzéteszi. Az igazságügyi szakértői testület nem igazságügyi szakértő tagjaira e törvénynek az igazságügyi szakértőre vonatkozó rendelkezései nem alkalmazhatók.
 
 (3) Az igazságügyi szakértői testület tagjai a miniszter vagy képviselője jelenlétében esküt tesznek. A szakértői eskü az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és annak első mondatát követően a következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
 
@@ -538,7 +541,7 @@ minősítést kap.
 (2) A kirendelésnek tartalmaznia kell:
 
 - a) a kirendelt szakértő megnevezését, a kirendelés ügyszámát és az ügy tárgyát, valamint a tényállás rövid ismertetését,
-- b) azokat a szakkérdéseket, amelyekre a szakértőnek választ kell adnia,
+- b) azokat a kérdéseket, amelyekre a szakértőnek választ kell adnia,
 - c) a szakértői feladat teljesítéséhez szükséges adatokat,
 - d) azt, hogy a szakértő díjjegyzékét a miniszter rendelete alapján vagy annak mellőzésével kell megállapítani; a szakértői díj fedezésére mekkora összeg áll rendelkezésre, – ha törvény alapján ez szükséges volt – mekkora összeg letétbe helyezését rendelték el, illetve mekkora összeg áll letétben rendelkezésre, valamint az arra vonatkozó figyelmeztetést, hogy ha a szakértő a nem elegendő fedezetre, letétre vonatkozó jelzést önhibájából elmulasztja, a fedezetet, illetve a már letétben lévő összeget meghaladó díjigényét nem érvényesítheti,
 - e) a szakértő részére átadandó iratok és tárgyak megjelölését, valamint az átadás időpontját, ha pedig az átadás nem lehetséges, annak meghatározását, hogy a szakértő az iratokat és tárgyakat hol és mikor tekintheti meg,
@@ -568,6 +571,8 @@ minősítést kap.
 - g) a szakértő díja a letétbe helyezett összeget előreláthatólag meghaladja, megjelölve egyidejűleg a még letétbe helyezendő összeget.
 
 (5) Ha a szakértő a (4) bekezdés szerinti kötelezettsége teljesítésében rajta kívül álló okból akadályoztatva van, a (4) bekezdés szerinti kötelezettségének az akadály megszűnésétől számított három napon belül köteles eleget tenni. Az akadályoztatás tényét a szakértőnek valószínűsítenie kell.
+
+(6) A nem természetes személy szakértő a kirendelő végzés kézhezvételétől számított tíz napon belül köteles a hatóságnak bejelenteni, hogy a nevében melyik tagja vagy alkalmazottja jár el.
 
 46. § A munkáltató vagy a megbízó a munkavégzésre irányuló jogviszonyban álló igazságügyi szakértőt a hatóság idézése alapján az eljárási cselekményeknél való megjelenéshez, a tárgyaláson való részvételhez és a szemle lefolytatásához, vizsgálat elvégzéséhez szükséges időre köteles a munkavégzés alól mentesíteni.
 
@@ -669,6 +674,8 @@ minősítést kap.
 (5) A szakértőt a magánszakértői vélemény szakmai tartalmával összefüggésben megbízója – a Polgári Törvénykönyv megbízási szerződésre vonatkozó szabályaitól eltérően – nem utasíthatja. A szakértő a magánszakértői vélemény elkészítése során a tevékenységére irányadó szakmai szabályok betartásával, a tevékenységével érintett személyek – különösen megbízója – érdekeitől függetlenül, pártatlanul köteles eljárni. A szakértő szakvéleményét a feltárt tények tárgyilagos értékelésével köteles kialakítani.
 
 (6) A szakértő a jogszabályba ütköző megbízást köteles megtagadni.
+
+(7) A polgári perrendtartásról szóló törvény szerint alkalmazott magánszakértő a megbízási díjról köteles a 49. § (2) bekezdése szerint díjjegyzéket kiállítani és azt a magánszakértői véleményhez csatolni.
 
 53. § (1) A szakértő a magánszakértői vélemény elkészítése során rendelkezésére bocsátott vagy tudomására jutott személyes adatokat a megbízás teljesítése céljából csak az érintett személy előzetes írásbeli hozzájárulásával jogosult kezelni. A hozzájárulás megadását vélelmezni vagy kiterjesztően értelmezni nem lehet.
 
@@ -916,7 +923,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 71. § (1) A Kamara legfőbb döntéshozó szerve a küldöttgyűlés.
 
-(2) A Kamara tagjai a küldöttgyűlésbe száznegyven küldöttet választanak. A küldöttgyűlésbe a szakmai tagozatok öt-öt küldöttet delegálnak, a további küldötteket a bejegyzett igazságügyi szakértők területi megoszlására figyelemmel kell megválasztani. A küldöttek megválasztásának részletes szabályait az alapszabály állapítja meg.
+(2) A Kamara tagjai a küldöttgyűlésbe legfeljebb száznegyven küldöttet választanak. A küldöttgyűlésbe a szakmai tagozatok öt-öt küldöttet delegálnak, a további küldötteket a bejegyzett igazságügyi szakértők területi megoszlására figyelemmel kell megválasztani. A küldöttek megválasztásának részletes szabályait az alapszabály állapítja meg.
 
 (3) A küldöttgyűlés
 
@@ -1087,7 +1094,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 #### 45. A hivatal
 
-85. § (1) A Kamara ügyviteli szerve a hivatal, amelynek vezetője a Kamara főtitkára.
+85. § (1) A Kamara ügyviteli szerve a hivatal, amelynek vezetője és képviselője a Kamara főtitkára. A hivatal jogi személy.
 
 (2) A főtitkár:
 
@@ -1132,20 +1139,20 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 #### 46. A tisztségviselők megválasztása
 
-87. § (1) A tisztségviselők megbízatásának leghosszabb időtartama négy év azzal, hogy a tisztségviselők tisztségükre ismételten megválaszthatók, illetve a főtitkár és a titkárok ismételten kinevezhetők. A Kamara elnöke és az elnökhelyettesek legfeljebb egy alkalommal választhatók újra.
+87. § (1) A tisztségviselők megbízatásának vagy kinevezésének leghosszabb időtartama négy év azzal, hogy a tisztségviselők tisztségükre ismételten megválaszthatók, illetve a főtitkár és a titkárok ismételten kinevezhetők. A Kamara elnöke és az elnökhelyettesek legfeljebb egy alkalommal választhatók újra.
 
 (2) A választást jelölés előzi meg, egy tisztségre több személy is jelölhető.
 
-(3) A tisztségviselők megbízatása az új tisztségviselők megválasztásának vagy kinevezésének napján szűnik meg. Ha a tisztségviselő megbízatása egyéb okból szűnik meg, a választására jogosult szerv a megbízatás megszűnésétől számított harminc napon belül megválasztja az új tisztségviselőt.
+(3) A tisztségviselők megbízatása vagy kinevezése az új tisztségviselők megválasztásának vagy kinevezésének napján szűnik meg. Ha a tisztségviselő megbízatása vagy kinevezése egyéb okból szűnik meg, a választására vagy kinevezésre jogosult szerv a megbízatás vagy kinevezés megszűnésétől számított harminc napon belül megválasztja vagy kinevezi az új tisztségviselőt.
 
-88. § (1) A tisztségviselő megbízatása megszűnik a tisztségviselő
+88. § (1) A tisztségviselő megbízatása vagy kinevezése megszűnik a tisztségviselő
 
 - a) lemondásával,
 - b) visszahívásával, illetve felmentésével,
 - c) kamarai tagságának megszűnésével, és
 - d) megbízatása idejének lejártával.
 
-(2) A tisztségviselő megbízatása akkor is megszűnik, ha az ellene indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
+(2) A tisztségviselő megbízatása vagy kinevezése akkor is megszűnik, ha az ellene indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
 
 (3) A tisztségviselő visszahívását a Kamara tagjainak legalább egytizede kezdeményezheti, a visszahívott tisztségviselő tisztségét betöltő új jelölt megjelölésével egyidejűleg. A tisztségviselő visszahívása kizárólag akkor sikeres, ha a küldöttgyűlés az új tisztségviselőnek ajánlott jelöltet egyidejűleg megválasztja.
 
@@ -1251,7 +1258,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 #### 53. Eljáró szervek
 
-98. § (1) A fegyelmi eljárást lefolytató fegyelmi tanács három tagból áll, amelyből egy fő kamarai tag, egy fő a szakvélemény tárgya szerinti szakterületen tapasztalattal rendelkező igazságügyi szakértő a 97. § szerinti fegyelmi tanácstagok listájáról, egy fő pedig – kirendelésen alapuló tevékenységgel összefüggő fegyelmi vétség elkövetésének gyanúja esetén – a hatóság képviseletében vesz részt. Kompetenciavétség gyanúja esetén a fegyelmi bizottság további egy taggal egészül ki a fegyelmi tanácstagok listájáról oly módon, hogy mind a vizsgálat alá vont igazságügyi szakértő, mind pedig az adott ügy szempontjából vélelmezett szakértői kompetenciaterület képviselete biztosított legyen.
+98. § (1) A fegyelmi eljárást lefolytató fegyelmi tanács három tagból áll, amelyből egy fő kamarai tag, egy fő a szakvélemény tárgya szerinti szakterületen tapasztalattal rendelkező igazságügyi szakértő a 97. § szerinti fegyelmi tanácstagok listájáról, egy fő pedig – kirendelésen alapuló tevékenységgel összefüggő fegyelmi vétség elkövetésének gyanúja esetén – a hatóság képviseletében vesz részt. Kompetenciavétség gyanúja esetén a fegyelmi tanács további egy taggal egészül ki a fegyelmi tanácstagok listájáról oly módon, hogy mind a vizsgálat alá vont igazságügyi szakértő, mind pedig az adott ügy szempontjából vélelmezett szakértői kompetenciaterület képviselete biztosított legyen.
 
 (2) Ha az igazságügyi szakértő felelősségre vonására nem kirendelésen alapuló tevékenységgel összefüggő fegyelmi vétség elkövetésének gyanúja miatt kerül sor, a fegyelmi tanács harmadik tagját a fegyelmi tanácstagok listájáról kell kijelölni. A fegyelmi tanács elnökét és tagjait a fegyelmi bizottság elnöke kéri fel.
 

@@ -4,23 +4,23 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 
 #### 1. A polgári perrendtartásról szóló 1952. évi III. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-2. §
+#### 2. §
 
 #### 3. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 4. A tulajdonviszonyok rendezése érdekében, az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló 1991. évi XXV. törvény módosítása
 
-4. §
+#### 4. §
 
 #### 5. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-5. §
+#### 5. §
 
 #### 6. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
@@ -39,13 +39,15 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 - a)–b)
 - c)
 
-#### 8. Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló1992. évi XXXII. törvény módosítása
+#### 8. Az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló
 
-8. §
+1992. évi XXXII. törvény módosítása
+
+#### 8. §
 
 #### 9. A nemzeti gondozásról szóló 1992. évi LII. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 10. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
@@ -97,11 +99,11 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 
 #### 11. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 12. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-12. §
+#### 12. §
 
 #### 13. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
@@ -115,67 +117,67 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 
 #### 14. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
-14. §
+#### 14. §
 
 #### 15. A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény módosítása
 
-15. §
+#### 15. §
 
 #### 16. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-16. §
+#### 16. §
 
 #### 17. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-17. §
+#### 17. §
 
 #### 18. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 19. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 20. A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény módosítása
 
-20. §
+#### 20. §
 
 #### 21. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-21. §
+#### 21. §
 
 #### 22. A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény módosítása
 
-22. §
+#### 22. §
 
 #### 23. A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény módosítása
 
-23. §
+#### 23. §
 
 #### 24. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-24. §
+#### 24. §
 
 #### 25. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 26. Az épített környezet alakításáról és védelméről 1997. évi LXXVIII. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 27. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-27. §
+#### 27. §
 
 #### 28. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-28. §
+#### 28. §
 
 #### 29. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-29. §
+#### 29. §
 
 #### 30. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
@@ -193,7 +195,7 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 
 #### 32. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-32. §
+#### 32. §
 
 #### 33. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
@@ -205,59 +207,59 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 
 #### 34. A szerzői jogról szóló 1999. évi LXXVI. törvény módosítása
 
-34. §
+#### 34. §
 
 #### 35. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
-35. §
+#### 35. §
 
 #### 36. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-36. §
+#### 36. §
 
 #### 37. A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény módosítása
 
-37. §
+#### 37. §
 
 #### 38. A számvitelről szóló 2000. évi C. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 39. A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény módosítása
 
-39. §
+#### 39. §
 
 #### 40. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-40. §
+#### 40. §
 
 #### 41. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 42. A sportról szóló 2004. évi I. törvény módosítása
 
-42. §
+#### 42. §
 
 #### 43. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosítása
 
-43. §
+#### 43. §
 
 #### 44. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 45. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-45. §
+#### 45. §
 
 #### 46. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
 
-46. §
+#### 46. §
 
 #### 47. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-47. §
+#### 47. §
 
 #### 48. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
@@ -272,91 +274,91 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 
 #### 49. Az életüktől és a szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvényben meghatározott határidők ismételt megnyitásáról és a kárpótlás lezárásáról szóló 2006. évi XLVII. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 50. Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény módosítása
 
-50. §
+#### 50. §
 
 #### 51. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-51. §
+#### 51. §
 
 #### 52. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-52. §
+#### 52. §
 
 #### 53. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-53. §
+#### 53. §
 
 #### 54. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-54. §
+#### 54. §
 
 #### 55. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-55. §
+#### 55. §
 
 #### 56. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-56. §
+#### 56. §
 
 #### 57. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-57. §
+#### 57. §
 
 #### 58. Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása
 
-58. §
+#### 58. §
 
 #### 59. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-59. §
+#### 59. §
 
 #### 60. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-60. §
+#### 60. §
 
 #### 61. A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény módosítása
 
-61. §
+#### 61. §
 
 #### 62. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
-62. §
+#### 62. §
 
 #### 63. A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény módosítása
 
-63. §
+#### 63. §
 
 #### 64. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-64. §
+#### 64. §
 
 #### 65. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-65. §
+#### 65. §
 
 #### 66. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása
 
-66. §
+#### 66. §
 
 #### 67. Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény módosítása
 
-67. §
+#### 67. §
 
 #### 68. Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény módosítása
 
-68. §
+#### 68. §
 
 #### 69. Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény módosítása
 
-69. §
+#### 69. §
 
 #### 70. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-70. §
+#### 70. §
 
 #### 71. Az ügyészségről szóló 2011. évi CLXIII. törvény módosítása
 
@@ -366,25 +368,7 @@ az egységes elektronikus ügyintézési rendszer kialakításához szükséges 
 
 #### 72. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása
 
-72. § (1) A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény (a továbbiakban: Cnytv.) 21. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Ha több kérelmező a kérelmet elektronikus úton nyújtja be, a kérelemhez csatolni kell valamennyi kérelmező nyilatkozatának másolatát arról, hogy
-
-a) hozzájárul ahhoz, hogy a kérelmet a benyújtó személy által elektronikus úton nyújtják be, és
-
-b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bírósági iratnak a benyújtó személy részére történő elektronikus kézbesítése.”
-
-(2) A Cnytv. 91. § (1) bekezdése a következő h) ponttal egészül ki:
-
-[A nyilvántartás valamennyi szervezet esetében tartalmazza:]
-
-„h) a polgári perrendtartásról szóló törvény szerint gazdálkodó szervezetnek minősülő szervezetnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét.”
-
-(3) A Cnytv. 91. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A bíróság az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt a szervezet oda jelentette be.
-
-(5) Ha a szervezet az (1) bekezdés h) pontja szerinti adatot a bíróság felé jelentette be, a bíróság azt a (4) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.”
+#### 72. §
 
 #### 73. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
@@ -402,71 +386,71 @@ b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bíróság
 
 #### 74. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-74. §
+#### 74. §
 
 #### 75. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-75. §
+#### 75. §
 
 #### 76. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-76. §
+#### 76. §
 
 #### 77. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-77. §
+#### 77. §
 
 #### 78. A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosítása
 
-78. §
+#### 78. §
 
 #### 79. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-79. §
+#### 79. §
 
 #### 80. A választási eljárásról szóló 2013. évi XXXVI. törvény módosítása
 
-80. §
+#### 80. §
 
 #### 81. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-81. §
+#### 81. §
 
 #### 82. A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény módosítása
 
-82. §
+#### 82. §
 
 #### 83. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-83. §
+#### 83. §
 
 #### 84. A fémkereskedelemről szóló 2013. évi CXL. törvény módosítása
 
-84. §
+#### 84. §
 
 #### 85. A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény módosítása
 
-85. §
+#### 85. §
 
 #### 86. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-86. §
+#### 86. §
 
 #### 87. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-87. §
+#### 87. §
 
 #### 88. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
 
-88. §
+#### 88. §
 
 #### 89. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 
-89. §
+#### 89. §
 
 #### 90. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-90. §
+#### 90. §
 
 #### 90. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
@@ -476,7 +460,7 @@ b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bíróság
 
 #### 92. A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény módosítása
 
-92. §
+#### 92. §
 
 #### 93. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
@@ -487,7 +471,9 @@ b) tudomásul veszi, hogy szabályszerű kézbesítésnek minősül a bíróság
 
 (2)
 
-#### 94. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló2015. évi CCXXII. törvény módosítása
+#### 94. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló
+
+2015. évi CCXXII. törvény módosítása
 
 94. § (1)–(2)
 
@@ -533,7 +519,7 @@ cg) a cb)–cf) pontok hatálya alá nem tartozó egyéb közigazgatási hatós�
 
 (6) Az E-ügyintézési tv. 14. §-a a következő (8) bekezdéssel kiegészülve lép hatályba:
 
-„(8) Ha a gazdálkodó szervezet ügyfél hivatalos elérhetőséggel nem rendelkezik, az elektronikus ügyintézést biztosító szerv az eljárást elektronikus kapcsolattartás nélkül is lefolytathatja azzal, hogy a gazdálkodó szervezet ezen kötelezettségének nem teljesítése miatt az elektronikus ügyintézést biztosító szerv kezdeményezi a gazdálkodó szervezettel szembeni, törvényben meghatározott törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását.”
+„(8) Ha a gazdálkodó szervezet ügyfél hivatalos elérhetőséggel nem rendelkezik, az elektronikus ügyintézést biztosító szerv az eljárást elektronikus kapcsolattartás nélkül is lefolytathatja azzal, hogy a gazdálkodó szervezet ezen kötelezettségének nem teljesítése miatt az elektronikus ügyintézést biztosító szerv kezdeményezi a gazdálkodó szervezettel szembeni, törvényben meghatározott törvényességi felügyeleti eljárás vagy hatósági ellenőrzés lefolytatását.
 
 (7) Az E-ügyintézési tv. 15. §-a a következő (7) bekezdéssel kiegészülve lép hatályba:
 
@@ -693,9 +679,9 @@ a) 105. § (1) bekezdés b) pontja,
 
 b) 113. § (7) bekezdése.
 
-95. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
+95. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása”
 
-95. §
+#### 95. §
 
 #### 96. Záró rendelkezések
 

@@ -2,15 +2,35 @@
 
 a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosításáról
 
-1–7. §
+#### 1. §
+
+#### 2. §
+
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
 
 8. § (1)
 
-(2) A Hvt. 61/B. § (6) bekezdése helyébe a következő rendelkezés lép:
+(2)
 
-„(6) A panasz elbírálásáról hozott döntés közigazgatási perben támadható meg.”
+#### 9. §
 
-9–14. §
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
 
 15. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő hónap első napján lép hatályba.
 

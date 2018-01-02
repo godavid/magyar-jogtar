@@ -1105,12 +1105,6 @@ vonatkozó részletszabályokat.
 
 #### 83–92. §
 
-93. § A 69. § a következő (8) bekezdéssel egészül ki:
-
-„(8) Az (1) bekezdés h) pontja szerint kiszabott pénzbírságot a közléstől számított harminc napon belül kell megfizetni. A szolgáltató kérelmére a felügyeletet ellátó szerv a pénzfizetési kötelezettség teljesítésére halasztást, illetve részletekben történő teljesítést (a továbbiakban: fizetési kedvezmény) is megállapíthat. A pénzbírság megfizetésére kötelezett szolgáltató a határozat közlésétől számított öt napon belül benyújtott kérelmében kérheti a fizetési kedvezmény engedélyezését abban az esetben, ha rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. A feltételek meglétét a szolgáltatónak hitelt érdemlően, dokumentumokkal alátámasztva igazolnia kell.”
-
-94. § (1) A 26. § (6) bekezdésében és 66. § (3) bekezdésében a „közigazgatási hatósági eljárásról szóló törvény” szövegrészek helyébe az „általános közigazgatási rendtartásról szóló törvény” szöveg lép.
-
-(2) A 71. § (1) bekezdésében a „jogerős” szövegrész helyébe a „véglegessé vált” szöveg lép.
+#### 93–94. §
 
 #### 95. §

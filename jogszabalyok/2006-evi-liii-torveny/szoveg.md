@@ -327,43 +327,27 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 ### Közigazgatási per
 
-7. § E törvény hatálya alá tartozó hatósági ügyekben hozott határozat ellen indított közigazgatási perekben a közigazgatási perrendtartásról szóló törvény rendelkezéseit az e törvény 8–10. §-ában meghatározott eltérésekkel kell alkalmazni.
+7. § (1) A perben a jogi képviselet kötelező.
 
-8. § (1) A perben a jogi képviselet kötelező.
+(2) A hatóság a keresetlevelet az ügy irataival és védiratával együtt három napon belül továbbítja a bírósághoz.
 
-(2) A hatóság az elektronikus úton benyújtott keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt elektronikus úton három napon belül továbbítja a bírósághoz.
+(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése elektronikus úton történik.
 
-(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben meghatározottak szerint, elektronikus úton történik.
+(4) Az ingatlanügyi hatóság eljárásával kapcsolatos perben a (2) és (3) bekezdést nem kell alkalmazni.
 
-(3a) Az ingatlanügyi hatóság eljárásával kapcsolatban a (2) és (3) bekezdésben foglaltakat nem kell alkalmazni.
+8. § (1) Perbeállítás csak a keresetlevélben, a védiratban, illetve a perbelépés bejelentésével egyidejűleg kérhető.
 
-(4) A bíróság a keresetlevelet legkésőbb annak beérkezését követő öt napon belül megvizsgálja, valamint ezen belül a jogszabálynak megfelelő keresetlevelet a közigazgatási szerv nyilatkozatával együtt megküldi a felperes jogi képviselője részére.
+(2) A perbelépést a perbelépés lehetőségéről való bírósági értesítés közlését követő nyolc napon belül kell bejelenteni. E határidő elmulasztása esetén igazolásnak nincs helye.
 
-(5) Ha a keresetlevél a határozat végrehajtásának felfüggesztésére irányuló kérelmet tartalmaz, a bíróság annak tárgyában az iratoknak a bírósághoz érkezését követő három munkanapon belül határoz, és határozatát haladéktalanul megküldi a feleknek.
+(3) A keresetet csak a perindításra nyitva álló határidőn belül lehet megváltoztatni, illetve kiterjeszteni.
 
-(6) Az alperes hatóság a szakhatóságot csak a keresetlevélben foglaltakra tett nyilatkozatában hívhatja perbe. A bíróság a perbe hívást haladéktalanul közli a szakhatósággal, mely a közlést követő három napon belül nyilatkozik a perbe hívás elfogadása tárgyában.
+9. § (1) A perben a beadványok hiányosságainak pótlására legfeljebb nyolcnapos határidő adható, amelyet indokolt esetben egyszer, további, legfeljebb nyolc nappal lehet meghosszabbítani.
 
-(7) Az ellenérdekű felet a bíróság a (4) bekezdésben meghatározott határidőig értesíti a beavatkozás lehetőségéről azzal, hogy a beavatkozást az értesítés kézhezvételét követő nyolc napon belül kell bejelenteni a bíróságnak, mely határidő elmulasztása esetén igazolásnak nincs helye.
+(2) Az első tárgyalást az iratoknak a bírósághoz való érkezését követő harminc napon belül kell megtartani, és ha nincs szükség bizonyítási eljárás lefolytatására, vagy tárgyaláson kívüli eljárás esetén, e határidőn belül elbírálni. A határidő számításakor a hiánypótlásra fordított idő nem vehető figyelembe.
 
-(8) A keresetet csak a perindításra nyitva álló határidőn belül lehet megváltoztatni, illetve kiterjeszteni. A Pp. 335/A. §-ának (2) bekezdését ebben az esetben is alkalmazni kell.
+(3) A bíróság határozatának közlése iránt a meghozatalától számított nyolc napon belül intézkedik.
 
-(9) Ha a keresetlevelet benyújtó félnek az általa megjelölt címre küldött iratot azért nem lehet kézbesíteni, mert a címzett a bejelentett címen ismeretlen vagy onnan ismeretlen helyre költözött, a bíróság hivatalból hirdetményi kézbesítést rendel el. Az érintett fél részére nem kell ügygondnokot rendelni.
-
-9. § (1) A perben a beadványok hiányosságainak pótlására legfeljebb nyolc napos határidő adható, melyet indokolt esetben egyszer, további, legfeljebb nyolc nappal lehet meghosszabbítani.
-
-(2) A perben szünetelésnek nincs helye.
-
-(3) A bíróság az ügy érdemében tárgyaláson kívül határoz, a felek bármelyikének kérelmére azonban tárgyalást tart. Tárgyalás tartását a felperes a keresetlevélben, az alperes pedig a keresetlevélre tett nyilatkozatában kérheti. Az ellenérdekű fél beavatkozó tárgyalás tartását a Pp. 338. §-ának (2) bekezdése szerint kérheti. A tárgyaláson kívüli elbírálásra a Pp. 338. §-ának (3), (5) és (6) bekezdését alkalmazni kell.
-
-(4) A Pp. 332/B. §-át azzal az eltéréssel kell alkalmazni, hogy az első tárgyalást az iratoknak a bírósághoz való érkezését követő 30 napon belül kell megtartani, és ha nincs szükség bizonyítási eljárás lefolytatására, vagy tárgyaláson kívüli eljárás esetén, e határidőn belül elbírálni. A határidő számításakor a hiánypótlásra fordított idő nem vehető figyelembe.
-
-(5)
-
-(6) Amennyiben a bíróság a keresettel megtámadott határozatot hatályon kívül helyezi és új eljárás lefolytatását rendeli el, határozatának tartalmaznia kell a hatóság megismételt eljárására vonatkozó utasításokat.
-
-(7) A bíróság határozatát a meghozatalától számított nyolc napon belül a felek részére kézbesíteni kell.
-
-10. § A Kúria a felülvizsgálati ellenkérelem előterjesztésére legfeljebb tizenöt napos határidőt állapít meg. A felülvizsgálati ellenkérelemnek (csatlakozó felülvizsgálati kérelemnek) a Kúriához való érkezését, illetve a felülvizsgálati ellenkérelem előterjesztésére megállapított határidő eredménytelen leteltét követő kilencven napon belül a Kúria az ügy érdemében dönt.
+10. § A Kúria a felülvizsgálati ellenkérelemnek (csatlakozó felülvizsgálati kérelemnek) a Kúriához való érkezését, illetve a felülvizsgálati ellenkérelem előterjesztésére megállapított határidő eredménytelen leteltét követő kilencven napon belül dönt.
 
 11. §
 

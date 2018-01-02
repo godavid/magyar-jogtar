@@ -552,7 +552,7 @@ alapján kell kiszámítania.
 - i) a felszíni vízből történő ökológiai célú vízhasználat vízmennyisége után,
 - j) ha a vízkészletjárulék tárgyévre vonatkozó összege nem haladja meg az 1000 forintot,
 - k) kármentesítés céljából történő vízkivétel esetén, ha az hatósági kötelezés vagy engedély alapján történt,
-- l) az öntözési célú vízhasználat esetében vízhasználónként az évi 400 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízhasználónként az évi 300 000 m3-t meg nem haladó vízmennyiség után,
+- l) az öntözési célú vízhasználat esetében vízjogi engedélyenként az évi 400 000 m3-t vagy vízhasználónként az általa öntözött terület után hektáronként az évi 4 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízjogi engedélyenként felszínalatti vizet használók esetében az évi 400 000 m3-t, felszíni vizet használók esetében hektáronként az évi 25 000 m3-t meg nem haladó vízmennyiség után,
 - m) a (9) bekezdés szerinti tartósan vízhiányos időszakban az öntözési, halgazdálkodási és rizstermelési vízhasználat vízmennyisége után,
 - n) a vízügyi hatósági jogkörben kiadott vízjogi engedélyben megadott vízmennyiségből a tél végi többletvizek – felszíni vizek, ár- és belvizek – visszatartásából és tározásából származó hasznosított vízkészlet után, amennyiben a vízügyi igazgatási szerv igazolja, hogy a vízkivételi ponton a többlet felszíni víz mennyisége rendelkezésre áll.
 
@@ -941,7 +941,7 @@ indokolja.
 33/B. § (1) A vízügyi hatóság a hatósági engedélyezési eljárások végleges lezárását követően a vízikönyv vezetése, a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a jogerős döntésével összefüggő jogorvoslat, az ügykövetés, valamint a döntés-felülvizsgálat céljából a következő adatokat kezelheti:
 
 - a) az ügyfél neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- b) az ügyfél adóazonosító jele vagy adószáma,
+- b)
 - c) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
 - d) a természetes személy ügyfél természetes személy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
 - e) a vízimunkával, a vízilétesítménnyel és a vízhasználattal érintett ingatlan tulajdonosának természetes személyazonosító adatai,

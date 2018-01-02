@@ -626,7 +626,7 @@ rendeltetések határozhatók meg.
 (2) Az erdészeti hatóság az erdő rendeltetését
 
 - a) országos jelentőségű védett természeti terület esetén a védetté nyilvánító jogszabály alapján,
-- b) erdei génrezervátum, árvízvédelmi, vadaspark és vadaskert rendeltetés esetén a hatáskörrel rendelkező hatóság határozata alapján,
+- b) erdészeti génrezervátum, árvízvédelmi, vadaspark és vadaskert rendeltetés esetén a hatáskörrel rendelkező hatóság határozata alapján,
 - c) honvédelmi rendeltetés esetén a honvédelemért felelős miniszter által vezetett minisztériummal kötött vagyonkezelői szerződés alapján,
 - d) határrendészeti rendeltetés esetén a rendészetért felelős miniszter kijelölése alapján,
 - e) Natura 2000 rendeltetés esetén az európai közösségi jelentőségű természetvédelmi rendeltetésű területekkel érintett földrészletekről szóló miniszteri rendelet, valamint az erdő elhelyezkedése és természetességi állapota alapján a közösségi jelentőségű és a kiemelt közösségi jelentőségű jelölő erdei élőhelyeken,
@@ -1112,7 +1112,7 @@ az erdőgazdálkodónak az e fejezetben foglaltak szerint az e törvény végreh
 
 52. § (1) Tarvágással érintett erdőben az erdőfelújítást az erdőgazdálkodónak legkésőbb az erdőfelújítási kötelezettség keletkezésének évétől számított második évben, az erdőfelújítás műszaki átvételéig meg kell kezdenie.
 
-(2) Az erdőfelújítás megkezdésének minősül, ha az erdőgazdálkodó az erdősítést az erdőtervben foglaltakkal, valamint az erdőgazdálkodás közérdekű korlátozásaival összhangban, szakszerűen végrehajtja, és az újulat ápolásáról megfelelően gondoskodik.
+(2) Az erdőfelújítás megkezdésének minősül, ha az erdőgazdálkodó az elsőkivitelt az erdőtervben foglaltakkal, valamint az erdőgazdálkodás közérdekű korlátozásaival összhangban, szakszerűen végrehajtja, és az újulat ápolásáról megfelelően gondoskodik.
 
 (3) Fokozatos felújító vágással vagy szálalóvágással érintett erdőben a véghasználatot és az erdőfelújítást úgy kell végrehajtani, hogy az idős faállomány és a sikeresen megtelepedett újulat együttes záródása ne csökkenjen hatvan százalék alá. Az újulat károsodása eredményeképpen bekövetkező eredménycsökkenést – ha a megfelelő fafajú és minőségű újulat természetes úton való megtelepedése nem biztosítható – legkésőbb a soron következő év április 15-ig mesterséges úton pótolni kell.
 
@@ -1598,7 +1598,7 @@ kerülhet sor.
 
 (5) A szabad rendelkezésű erdő erdővé történő átminősítése csereerdősítésnek minősül.
 
-(6) A csererdősítés tervezésére, engedélyezésére az erdőtelepítés, egyéb feltételeire az erdőfelújítás szabályai vonatkoznak azzal, hogy a csereerdősítési terv engedélyezése – a (6a) bekezdésben foglalt eset kivételével – az igénybevétel megkezdésének feltétele, a csereerdősítési kötelezettség keletkezése időpontjának pedig az igénybevétel megkezdése minősül.
+(6) A csereerdősítés tervezésére, engedélyezésére az erdőtelepítés, egyéb feltételeire az erdőfelújítás szabályai vonatkoznak azzal, hogy a csereerdősítési terv engedélyezése – a (6a) bekezdésben foglalt eset kivételével – az igénybevétel megkezdésének feltétele, a csereerdősítési kötelezettség keletkezése időpontjának pedig az igénybevétel megkezdése minősül.
 
 (6a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az igénybevétel megkezdésének feltétele az erdő igénybevételhez kapcsolódóan előírt csereerdősítési kötelezettség teljesítésének megfelelő területre szóló csereerdősítési terv engedélyezésre történő benyújtása.
 
@@ -2122,7 +2122,7 @@ irányuló eljárásban.
 
 (8) Erdőgazdálkodási bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
 
-(9) Az erdészeti hatóság végleges döntésében foglalt kötelezettség végrehajtását – a pénzügyi kötelezés kivételével – az erdészeti hatóság foganatosítja.
+(9)
 
 ### Nyilvántartásokkal kapcsolatos szabályok
 
@@ -2475,14 +2475,14 @@ ha jogszerűtlen fakitermelésre megbízást adott vagy ilyen fakitermelésről 
 
 (10)–(12)
 
-(13) Az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv alapján az erdőgazdálkodó kérelmére induló eljárásban az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság erdőtervben állapítja meg.
+(13) Az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv alapján az erdészeti hatóság az erdőgazdálkodó kérelmére induló eljárásban állapítja meg az erdőtervet.
 
 (14)–(16)
 
-(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül kiadásra, akkor az új erdőterv véglegessé válásáig
+(17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig
 
 - a) a korábbi erdőterv érvényessége fennmarad, vagy
-- b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság az erdőgazdálkodó kérelmére erdőtervben állapítja meg.
+- b) ha az erdőgazdálkodó nem rendelkezett erdőtervvel, az erdőtervet az erdészeti hatóság az erdőgazdálkodó kérelmére állapítja meg.
 
 (18) Ha az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2017. évi LVI. törvény (a továbbiakban: módosító törvény) hatálybalépése előtt e törvény alapján kiadott erdőterv lejártáig az új erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig a korábbi erdőterv érvényessége fennmarad.
 
@@ -2530,7 +2530,16 @@ minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron á
 
 fátlan állapotban tartott erdőnek minősül, amely változást az erdészeti hatóság az Adattáron átvezet.
 
-(30) A 33. § (1)–(6) bekezdésben foglalt rendelkezéseket a módosító törvény hatálybalépésekor folyamatban lévő körzeti erdőtervezésekre is alkalmazni kell. A módosító törvény hatálybalépése előtt lezárt körzeti erdőterv esetén az erdőgazdálkodó jogait és kötelezettségeit az erdészeti hatóság e törvénynek a módosító törvény hatálybalépését megelőző rendelkezései szerint állapítja meg.
+(30) A 33. § (1)–(6) bekezdésben foglalt rendelkezéseket az agrárium versenyképességének javítása érdekében egyes törvények módosításáról szóló 2017. évi CLXXXIII. törvény hatálybalépésekor folyamatban lévő körzeti erdőtervezésekre is alkalmazni kell.
+
+(31) Az erdészeti hatóság a módosító törvény hatálybalépését megelőzően az erdőtervekben meghatározott, illetve az Adattárba – a körzeti erdőtervek átvezetése, vagy más eljárás során – bejegyzett erdőgazdálkodási korlátozásokat
+
+- a) az erdőterv (13) bekezdés, a (17) bekezdés b) pontja, valamint a (30) bekezdés alapján történő kiadása során,
+- b) az erdőterv új erdőgazdálkodó részére történő kiadása során,
+- c) az erdőterv – akár kifejezetten e célból kezdeményezett – módosítása során, vagy
+- d) a soron következő körzeti erdőtervezés során
+
+felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 
 #### 114. §
 

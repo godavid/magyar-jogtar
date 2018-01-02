@@ -118,16 +118,9 @@ terjed ki.
 
 (2) Az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakörben foglalkoztatott a képzési rendeletben meghatározott időközönként, időszakos oktatáson vesz részt és időszakos vizsgát tesz.
 
-11. § (1) A közlekedési hatóság
+11. § (1) Az alapvizsgáztatást és az időszakos vizsgáztatást – a (2) bekezdésben meghatározott kivétellel – a külön jogszabályban kijelölt vasúti vizsgaközpont, mint tanúsító szerv a külön jogszabályban előírt feltételeknek megfelelő, a közlekedési hatóság vizsgabiztosi névjegyzékébe felvett és közlekedési hatóság által kinevezett vizsgabiztosok bevonásával szervezi és végzi. A közlekedési hatóság eljárása során a vizsgák eredménye alapján adja ki a hatósági bizonyítványokat.
 
-- a) az egyéb kötöttpályás közlekedési szakmai oktató és vizsgabiztos nyilvántartásával kapcsolatban megismert személyes adatokat a névjegyzékbe való felvétel iránti eljárás végleges döntéssel történő befejezéséig,
-- b) az egyéb kötöttpályás közlekedési szakmai oktatóra és vizsgabiztosra vonatkozó, büntetett előéletre vonatkozó személyes adatokat a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás végleges döntéssel történő befejezéséig
-
-kezeli.
-
-(2) Az alapképzést és az időszakos oktatást a közlekedési hatóság ellenőrzi.
-
-(3) Az alapvizsgáztatást és az időszakos vizsgáztatást a külön jogszabályban kijelölt vasúti vizsgaközpont mint tanúsító szerv a külön jogszabályban előírt feltételeknek megfelelő, a közlekedési hatóság vizsgabiztosi névjegyzékébe felvett és a közlekedési hatóság elnöke által kinevezett vizsgabiztosok bevonásával szervezi és végzi. A közlekedési hatóság eljárása során a vizsgák eredménye alapján adja ki a hatósági bizonyítványokat.
+(2) Az (1) bekezdéstől eltérően az alapvizsgáztatást és az időszakos vizsgáztatást a képzési rendeletben meghatározott esetben az egyéb kötöttpályás közlekedési rendszer üzemvezetője végzi.
 
 12. § Az alapvizsga és az időszakos vizsga megszerzéséhez előírt képesítéshez szükséges képzést végző szervezetek és a vizsgáztatást végző vasúti vizsgaközpont, valamint a vizsgabiztosok kötelesek biztosítani, hogy a képzés és a vizsgáztatás lehetősége valamennyi érintett számára megkülönböztetés nélkül, az egyenlő bánásmód követelményei szerint rendelkezésre álljon. A feltételek fennállását a közlekedési hatóság ellenőrzi.
 
@@ -189,7 +182,9 @@ ingatlan.
 
 (7) A közlekedési hatóság az egyéb kötöttpályás közlekedés biztonság körébe tartozó feladatait nem ruházhatja át, és annak elvégzésére más szervezetet – közigazgatási szerv kivételével – nem kérhet fel.
 
-17. § A 7. § (1) bekezdés a) pontjában meghatározott eljárásban fellebbbezésnek van helye.
+17. § (1) A közlekedési hatóság a 7. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról az ügyfeleket hirdetményi úton értesíti.
+
+(2) A 7. § (1) bekezdés a) pontjában meghatározott eljárásban fellebbezésnek van helye.
 
 18. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály vasúti közlekedési szakkérdésben szakértő igénybevételét írja elő, vagy az eljáró hatóság a szakértői vélemény alapján hozott döntésben jogkövetkezményt állapít meg, egyéb kötöttpályás szakértőként (a továbbiakban: szakértő) eljárhat
 
@@ -206,6 +201,30 @@ ingatlan.
 (4)–(5)
 
 (6) A (3) bekezdés szerinti személyes adatokat a közlekedési hatóság vagy a kamara a vasúti közlekedési szakértő nyilvántartásból való törléséről szóló döntés véglegessé válásáig kezeli.
+
+#### 12/A. A vasúti igazgatási szerv feladat- és hatásköre
+
+18/A. § (1) A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:
+
+- a) az 5. alcím szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének felfüggesztése, a bejelentésre vonatkozó követelményeket nem teljesítő személyre vagy szervezetre vonatkozóan bírság kiszabása, végső soron a tevékenységtől való eltiltás,
+- b) nyilvántartás vezetése az egyéb kötöttpályás tevékenységeket végző személyekről és szervezetekről,
+- c) az egyéb kötöttpályás tevékenységet végző személyekről és szervezetekről felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység felfüggesztése, megtiltása,
+- d) az egyéb kötöttpályás közlekedési tevékenységek piacának nyomon követése, elemzése, értékelése
+- e) jogszabályban meghatározott adatgyűjtési, adatszolgáltatási feladatok ellátása,
+- f) a miniszter részére a miniszter által előírt adatszolgáltatások teljesítése,
+- g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
+
+(2) A vasúti igazgatási szerv kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díjat pénzforgalmi számláról történő átutalással kell megfizetni.
+
+(3) Az egyéb kötöttpályás közlekedési tevékenységet végző személy vagy szervezet a vasúti igazgatási szerv feladatai ellátásához szükséges adatokat, iratokat átadja, a vasúti igazgatási szerv által meghatározott, ésszerű határidőn belül.
+
+(4) A vasúti igazgatási szerv jogosult a bejelentésre kötelezett tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni.
+
+(5) A vasúti igazgatási szerv hiánypótlási felhívást legfeljebb két ízben adhat ki.
+
+(6) Az ügyintézési határidő a vasúti igazgatási szerv eljárásában hat hét.
+
+(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatait a honlapján közhírré teszi.
 
 #### 13. A hatósági ellenőrzés, bírság
 

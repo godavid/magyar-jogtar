@@ -103,107 +103,47 @@ a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, vala
 
 #### 5. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-5. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 15. § (4) bekezdés a) és b) pontja helyébe a következő rendelkezések lépnek:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben)
-
-„a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket, és a katonai egészségügyi államigazgatási szervet,
-
-b) jelölje ki a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket, továbbá szabályozza az ezen szervek által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.”
+5. §
 
 #### 6. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-6. § (1) A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait.”
-
-(2) A munkavédelemről szóló 1993. évi XCIII. törvény 88. § (2) bekezdés e) pontjában a „hatóságot.” szövegrész helyébe a „hatóságot, továbbá szabályozza ezen hatóság által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.” szöveg lép.
-
-(3) Hatályát veszti a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (4) bekezdés a) pont aa) alpontja és az (5b) bekezdésében az „eljárási szabályokat,” szövegrész.
+6. §
 
 #### 7. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-7. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény 250. §-a a következő (6) és (7) bekezdéssel egészül ki:
-
-„(6) A minisztérium az igazolvány előállítását megelőzően lefolytatja a Nemzetbiztonsági Szakszolgálatnál a szükséges engedélyeztetési eljárást.
-
-(7) A Kar hivatali szerve e törvényben meghatározott feladatai ellátása céljából adatot kezel, ideértve az e törvényben meghatározott körben kezelt személyes adatokat is. A Kar hivatali szerve az általa kezelt adatokat az eljárás befejezésétől számított 10 évig kezeli, ezt követően gondoskodik az adatok törléséről.”
-
-(2) A bírósági végrehajtásról szóló 1994. évi LIII. törvény 239. § (3) bekezdés f) pontjában és 243. § (2) bekezdésében a „90” szövegrész helyébe a „30” szöveg lép.
+7. §
 
 #### 8. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
-8. § A természet védelméről szóló 1996. évi LIII. törvény 78. § (4) bekezdése helyébe a következő rendelkezés lép, és a § a következő (4a)–(4c) bekezdéssel egészül ki:
-
-„(4) A természetvédelmi hatóság a jogellenesen szerzett, illetve birtokban tartott védett, továbbá az Európai Közösségben természetvédelmi szempontból jelentős természeti értéket – ha az nem áll állami tulajdonban – zár alá veszi és elkobozza. Ha a természeti érték állami tulajdonban áll, akkor azt a természetvédelmi hatóság zár alá veszi és az állam tulajdonosi jogait gyakorló szerv döntéséig az igazgatóság gondoskodik a megőrzéséről.
-
-(4a) A (4) bekezdés hatálya alá nem tartozó, a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok hatálya alá tartozó természeti érték zár alá vételére és elkobzására a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló kormányrendelet szabályait kell alkalmazni.
-
-(4b) A (4) és (4a) bekezdés hatálya kiterjed az ott meghatározott fajok bármely hibridjére is.
-
-(4c) Az e törvény szerinti elkobzás esetén a közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény 4. § (2) bekezdése nem alkalmazható.”
+8. §
 
 #### 9. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-9. § (1) Az atomenergiáról szóló 1996. évi CXVI. törvény a következő 67/A. §-sal egészül ki:
-
-„67/A. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az atomenergia alkalmazásával összefüggő hatósági engedélyek kiadásához szükséges rendőrségi szakhatósági hozzájárulás szempontjait, valamint az atomenergia alkalmazása körében a rendőrség által végzett hatósági ellenőrzések különös és kiegészítő eljárási szabályait.”
-
-(2) Hatályát veszti az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (7) bekezdés a) pontjában az „a hatósági engedélyek kiadásához szükséges szakhatósági hozzájárulás szempontjait,” szövegrész.
+9. §
 
 #### 10. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-10. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdése a következő a) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„a) a fogyasztóvédelmi hatóság által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokra”
-
-(vonatkozó részletes szabályokat rendelettel meghatározza.)
+10. §
 
 #### 11. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló1997. évi CLIX. törvény módosítása
 
-11. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 30. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Felhatalmazást kap a Kormány, hogy az e törvény szerinti közigazgatási hatósági eljárások vonatkozásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseitől eltérő és azokat kiegészítő közigazgatási hatósági eljárási szabályokat rendeletben állapítsa meg.”
+11. §
 
 #### 12. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-12. § (1) A külföldre utazásról szóló 1998. évi XII. törvény 41. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza)
-
-„e) a külpolitikáért felelős miniszter által kiadott útlevelek kiadásának és kezelésének részletes szabályait.”
-
-(2) Hatályát veszti a külföldre utazásról szóló 1998. évi XII. törvény 41. § (3) bekezdése.
+12. §
 
 #### 13. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-13. § A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (3) bekezdés b) pontjában a „gépjármű-hajtóanyagok” szövegrész helyébe a „motorhajtó anyagok” szöveg lép.
+13. §
 
 #### 14. Az államhatárról szóló 2007. évi LXXXIX. törvény módosítása
 
-14. § (1) Az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (4) bekezdése a következő g) és h) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:)
-
-„g) a határvízen történő közlekedés engedélyezésének szabályait,
-
-h) a katonai alakulatok és szállítmányok államhatáron történő átléptetésével kapcsolatos közigazgatási hatósági eljárás különös és kiegészítő rendelkezéseit.”
-
-(2) Hatályát veszti az államhatárról szóló 2007. évi LXXXIX. törvény 16. § (7) bekezdése.
+14. §
 
 #### 15. A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény módosítása
 
-15. § A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény 18. §-a helyébe a következő rendelkezés lép:
-
-„18. § Felhatalmazást kap a Kormány, hogy rendeletben
-
-a) jelölje ki a családvédelmi koordinációért felelős szervet;
-
-b) állapítsa meg az ideiglenes megelőző távoltartó határozat meghozatalának részletes szabályait.”
+15. §
 
 #### 16. A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény módosítása
 
@@ -211,49 +151,27 @@ b) állapítsa meg az ideiglenes megelőző távoltartó határozat meghozatalá
 
 #### 17. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-17. § (1) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 28. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány arra, hogy)
-
-„k) a foglalkozási rehabilitációs szakértői tevékenység és a rehabilitációs orvosszakértői tevékenység folytatásának feltételeit, a szakértői tevékenység bejelentésének és a foglalkozási rehabilitációs szakértői névjegyzék, valamint a rehabilitációs orvosszakértői névjegyzék személyes adatnak nem minősülő adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó eljárási szabályokat, a foglalkozási rehabilitációs szakterületeket, a továbbképzésre vonatkozó szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági döntésben előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket”
-
-(rendeletben állapítsa meg.)
-
-(2) Hatályát veszti a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 28. § (4) és (4a) bekezdése.
+17. §
 
 #### 18. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-18. § Hatályát veszti a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 250. § (2) bekezdés c) pontjában a „valamint a szabálysértési nyilvántartásokban kezelt adatok igazolására kiállított hatósági bizonyítvány kiadásának részletes eljárási rendjének,” szövegrész.
+18. §
 
 #### 19. A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény módosítása
 
-19. § A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 30. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„g) a piacfelügyeleti hatóság által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokat”
-
-(rendeletben határozza meg.)
+19. §
 
 #### 20. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-20. § Hatályát veszti a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 72. § (1) bekezdés 11., 32. és 34. pontja.
+20. §
 
 #### 21. A nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény módosítása
 
-21. § A nemzeti köznevelés tankönyvellátásáról 2013. évi CCXXXII. törvény 5. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„f) a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felvétel feltételeit és eljárását, az iskolai terjesztési árat, a tankönyvjegyzékből való törlés rendjét és eljárását”
-
-(rendeletben határozza meg.)
+21. §
 
 #### 22. Az európai területi társulásról szóló 2014. évi LXXV. törvény módosítása
 
-22. § Az európai területi társulásról szóló 2014. évi LXXV. törvény 20. §-a helyébe a következő rendelkezés lép:
-
-„20. § Felhatalmazást kap a Kormány, hogy a jóváhagyási és nyilvántartásba-vételi eljárás, valamint az európai területi társulások megszüntetésével kapcsolatos kérdések részletes szabályait rendeletben állapítsa meg.”
+22. §
 
 #### 23. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
@@ -377,33 +295,19 @@ d) a közigazgatási cselekmény megváltoztatásának nincs helye.”
 
 #### 32. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 
-34. § (1) A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 54. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A 11. § (3) bekezdésében meghatározott fél a fellebbezését kizárólag elektronikus úton terjesztheti elő, kivéve, ha a fellebbezéshez mellékletet csatol.
-
-(3) A végrehajtási eljárás során előterjesztett fellebbezés esetén a közjegyző az iratok felterjesztése helyett a MOKK rendszerén keresztül előállított iratanyagot küldhet a bíróságnak a fellebbezés elbírálása szempontjából szükséges iratokról.”
-
-(2) A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény
-
-- a) 6. § (1) bekezdésében a „13. §-a (1) bekezdésének a)–d)” szövegrész helyébe a „12. § a)–e)” szöveg,
-- b) 30. § (2) bekezdésében a „38. §” szövegrész helyébe a „37. és 38. §” szöveg,
-- c) 40. § (2) bekezdésében az „aktanyomatot” szövegrész helyébe az „iratanyagot” szöveg
-
-lép.
+34. §
 
 #### 33. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-35. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A környezetvédelmi termékdíjjal, valamint – a hulladékgazdálkodásra vonatkozó jogszabályokban meghatározott hatósági eljárás kivételével – a termékdíjköteles termékből képződött hulladékokkal kapcsolatos eljárás, mint adó-, illetve vámigazgatási eljárás során – az e törvényben meghatározott eltérésekkel – az adóigazgatási rendtartásról szóló törvényt (a továbbiakban: Air.) és az adózás rendjéről szóló törvényt (a továbbiakban: Art.) kell alkalmazni.”
+35. §
 
 #### 34. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-36. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 2. § b) pontjának záró szövegrészében az „1952. évi III. törvény 396. §” szövegrész helyébe a „2016. évi CXXX. törvény 7. § (1) bekezdés 6. pontja” szöveg lép.
+36. §
 
 #### 35. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
-37. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 37. § (2) bekezdésében a „hiánypótlási felhívás nélkül elutasítja” szövegrész helyébe a „hiánypótlási felhívás kibocsátása nélkül visszautasítja” szöveg lép.
+37. §
 
 #### 36. A polgári perrendtartásról szóló 2016. évi CXXX. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXXX. törvény módosítása
 

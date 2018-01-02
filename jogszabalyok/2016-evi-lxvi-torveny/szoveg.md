@@ -188,24 +188,16 @@ szerint módosul.
 
 70–73. §
 
-74. § (1) Az Áfa tv. a következő 308. §-sal egészül ki:
-
-„308. § A 3. számú melléklet II. részének a Mód6 törvénnyel megállapított 3. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2018. január 1-jére vagy azt követő időpontra esik.”
-
-(2) Az Áfa tv. a következő 309. §-sal egészül ki:
-
-„309. § Az Áfa tv. 8/A. számú mellékletének a Mód6 törvénnyel megállapított 3. pontja alapján adó-visszatéríttetési jog azon ügyletek tekintetében gyakorolható utoljára, amelyek teljesítési időpontja nem későbbi, mint a viszonosság megszüntetéséről szóló, az adópolitikáért felelős miniszter által közzétett egyedi határozat kihirdetését követő 30. nap.”
+74. § (1)
 
 (2)
 
-75. § Az Áfa tv.
+75. §
 
 - a)
-- b) 3. számú melléklet II. része a 7. melléklet szerint,
+- b)
 - c)–e)
 - f)
-
-módosul.
 
 76. §
 
@@ -214,7 +206,7 @@ módosul.
 
 77. § Hatályát veszti
 
-- a) az Áfa tv. 3/A. számú melléklet II. rész 4. pontja;
+- a)
 - b)
 
 #### 6. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény módosítása
@@ -417,9 +409,9 @@ módosul.
 
 (2)
 
-200. § Az Art.
+200. §
 
-- 1. 6/B. § (4) bekezdésében az „a 37. § (4) bekezdése szerinti esetben 30 napon belül” szövegrész helyébe a „20 napon belül” szöveg,
+- 1.
 - 2–3.
 - 4–14.
 - 15–16.
@@ -433,8 +425,6 @@ módosul.
 - 31.
 - 32.
 - 33–34.
-
-lép.
 
 201. § (1)
 
@@ -579,14 +569,6 @@ az e célra rendszeresített elektronikus nyomtatványon, az állami adó- és v
 ### 4–6. melléklet a 2016. évi LXVI. törvényhez
 
 ### 7. melléklet a 2016. évi LXVI. törvényhez
-
-Az Áfa tv. 3. számú melléklet II. részében foglalt táblázat a következő 3. ponttal egészül ki:
-
-| (Sorszám | Megnevezés) |
-| --- | --- |
-
-| „3. | Étkezőhelyi vendéglátásban az étel- és a helyben készített, nem alkoholtartalmú italforgalom (SZJ 55.30.1-ből)” |
-| --- | --- |
 
 ### 8–10. melléklet a 2016. évi LXVI. törvényhez
 
