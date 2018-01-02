@@ -1664,7 +1664,7 @@ rendeletben állapítsa meg.
 
 76. § A 64. § (3) bekezdésében foglaltakat a légiközlekedésről szóló 1995. évi XCVII. törvény, valamint a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosításáról szóló 2014. évi LX. törvény hatálybalépésekor folyamatban lévő irat átadás-átvételi ügyekben is alkalmazni kell.
 
-77. § A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 61/A. § (3) bekezdés a) pont ac) pontja alkalmazásában első alkalommal a 2014 és 2015 évek statisztikai adatai alapján számított átlagos éves utasforgalmat kell figyelembe venni, azzal, hogy amennyiben az ily módon megállapított átlagos utasforgalom meghaladja az évi százezer főt, a Társaság a nemzetközi kereskedelmi repülőtér és légtere tekintetében a légiforgalmi irányító, a repüléstájékoztató és riasztó szolgálat ellátására legkorábban 2018. január 1-jétől köteles.
+#### 77. §
 
 78. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 

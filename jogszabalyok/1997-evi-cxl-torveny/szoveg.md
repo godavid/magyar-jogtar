@@ -1203,9 +1203,9 @@ esetében.
 
 (2)–(3)
 
-(4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben és szervezett képzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek és szervezett képzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben és szervezett képzésben való részvételéhez támogatás nyújtható.
+(4) Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek szakmai tudásuk megújítása érdekében továbbképzésben vehetnek részt. A miniszter rendeletben szabályozza a továbbképzésnek minősülő képzési formák körét, valamint – az adópolitikáért felelős miniszterrel egyetértésben – a fizetendő igazgatási szolgáltatási díjak körét és azok mértékét. Az e törvény hatálya alá tartozó intézményekben foglalkoztatott szakemberek továbbképzésben való részvételéhez támogatás nyújtható.
 
-(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről és szervezett képzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
+(4a) A miniszter a (4) bekezdés szerinti szakmai továbbképzésekről hatósági nyilvántartást vezet, mely az alábbi adatok tekintetében közhitelesnek minősül:
 
 - a) a szakmai továbbképzési programot készítő intézmény megnevezése, a felnőttképzést folytató intézmények nyilvántartásában szereplő száma,
 - b) a szakmai továbbképzési program megnevezése,
@@ -1243,7 +1243,7 @@ esetében.
 (10) A (3) bekezdés szerinti névjegyzék vonatkozásában bizonyítási eszközként
 
 - a) végzettséget, szakképzettséget igazoló okirat,
-- b) akkreditált szakértői tanfolyam jellegű szakmai továbbképzés elvégzéséről szóló tanúsítvány, valamint
+- b) kultúráért felelős miniszter által nyilvántartásba vett szakmai továbbképzési program elvégzéséről szóló tanúsítvány, valamint
 - c) a szakmai gyakorlatot igazoló irat
 
 vehető figyelembe.
@@ -1340,11 +1340,11 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket,
 - n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket,
 - o) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) adattartalmát és a kérelemhez csatolandó mellékletek körét, a kérelem elbírálásának rendjét, a működési engedély tartalmát, a működési engedély visszavonása esetén követendő eljárást, továbbá a muzeális intézmény elnevezésével kapcsolatos kérdéseket,
-- p) a tanfolyam jellegű szakmai továbbképzések akkreditálásának feltételeit és eljárási szabályait,
+- p) a tanfolyam jellegű szakmai továbbképzések nyilvántartásba vételének feltételeit és eljárási szabályait,
 - q) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - r) a muzeális intézmény alapleltárában szereplő, állami tulajdonban lévő kulturális javak őrzési vagy bemutatási helyének kijelölésére, valamint a kölcsönzési díj és a pénzügyi biztosíték megfizetése alóli mentességre vonatkozó részletes szabályokat,
 - s) a hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatokat ellátó szerv kijelölését, feladatai ellátásának részletes szabályait,
-- t) a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat.
+- t) a népművészeti és népi iparművészeti alkotások minősítési feltételeit, a minősítő címek körét, továbbá a népművészeti és népi iparművészeti alkotások minősítésére, minősítő címek adományozására irányuló eljárás rendjét, a nyilvántartásba vételre, a nyilvántartáshoz szükséges adatszolgáltatási kötelezettségre, valamint az igazolvány kiállítására vonatkozó szabályokat és a minősítés alapjául szolgáló foglalkozási ágakat.
 
 (2)
 

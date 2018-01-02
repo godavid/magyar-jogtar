@@ -1503,9 +1503,11 @@ biztosítható.
 
 76. § (1) A 69. § 1. és 2. pontja szerinti eljárásban a kérelmet a vasúti igazgatási szerv által erre rendszeresített formanyomtatványon kell benyújtani. A vasúti igazgatási szerv kérelemre induló eljárásáért a kérelmezőnek igazgatási szolgáltatási díjat kell fizetni.
 
-(2) A vasúti igazgatási szerv feladat- és hatáskörébe tartozó eljárásokban az ügyintézési határidő 45 nap.
+(2) A vasúti igazgatási szerv országos illetékességgel jár el. A vasúti igazgatási szerv feladat- és hatáskörébe tartozó eljárásokban az ügyintézési határidő 45 nap.
 
 (3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a vasúti igazgatási szerv a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
+
+(4) A vasúti igazgatási szerv függő hatályú döntéseiben nem rendelkezik arról, hogy a kérelmezett jog gyakorlása az ügyfelet megilleti.
 
 77. § (1) A vasúti igazgatási szerv jogosult a működési engedélyben meghatározott, valamint a bejelentésre kötelezett tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni.
 
