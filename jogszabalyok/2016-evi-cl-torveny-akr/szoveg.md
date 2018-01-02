@@ -1667,9 +1667,7 @@ vonatkozó szabályokat.
 
 Ez a törvény 2018. január 1. napján lép hatályba.
 
-#### 142. § [Hatályon kívül helyező rendelkezések]
-
-Hatályát veszti a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény.
+142. §
 
 #### 81. Átmeneti rendelkezések
 

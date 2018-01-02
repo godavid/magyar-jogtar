@@ -1505,9 +1505,7 @@ Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 Ez a törvény 2018. január 1-jén lép hatályba.
 
-#### 138. § [Hatályon kívül helyező rendelkezés]
-
-Hatályát veszti az adózás rendjéről szóló 2003. évi XCII. törvény.
+#### 138. §
 
 #### 56. Átmeneti rendelkezések
 

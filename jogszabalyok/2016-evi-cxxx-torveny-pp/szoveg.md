@@ -6517,6 +6517,4 @@ való megfelelést szolgálja.
 
 E törvény nem érinti a diplomáciai és egyéb mentesség hatályát, valamint a diplomáciai és egyéb mentességgel kapcsolatban fennálló különös eljárási szabályokat.
 
-#### 633. § [Hatályon kívül helyező rendelkezés]
-
-Hatályát veszti a polgári perrendtartásról szóló 1952. évi III. törvény.
+633. §
