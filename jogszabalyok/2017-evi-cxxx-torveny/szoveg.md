@@ -4,391 +4,427 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény hatálybalépé
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-1–7. §
+#### 1. §
+
+#### 2. §
+
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
 
 #### 3. A mikroelektronikai félvezető termékek topográfiájának oltalmáról szóló 1991. évi XXXIX. törvény módosítása
 
-8–9. §
+#### 8. §
+
+#### 9. §
 
 #### 4. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 5. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-11–15. §
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
 
 #### 6. A kárpótlási jegyek életjáradékra váltásáról szóló 1992. évi XXXI. törvény módosítása
 
-16–17. §
+#### 16. §
+
+#### 17. §
 
 #### 7. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 8. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 9. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-20–22. §
+#### 20. §
+
+#### 21. §
+
+#### 22. §
 
 #### 10. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
-23. §
+#### 23. §
 
 #### 11. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-24–27. §
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
 
 #### 12. A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény módosítása
 
-28–29. §
+#### 28. §
+
+#### 29. §
 
 #### 13. A közraktározásról szóló 1996. évi XLVIII. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 14. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-31. §
+#### 31. §
 
 #### 15. A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény módosítása
 
-32–35. §
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
 
 #### 16. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-36. §
+#### 36. §
 
 #### 17. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-37. §
+#### 37. §
 
 #### 18. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 19. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-39. §
+#### 39. §
 
 #### 20. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-40–41. §
+#### 40. §
+
+#### 41. §
 
 #### 21. A szerzői jogról szóló 1999. évi LXXVI. törvény módosítása
 
-42–44. §
+#### 42. §
+
+#### 43. §
+
+#### 44. §
 
 #### 22. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
-45. §
+#### 45. §
 
 #### 23. A formatervezési minták oltalmáról szóló 2001. évi XLVIII. törvény módosítása
 
-46–47. §
+#### 46. §
+
+#### 47. §
 
 #### 24. A jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény módosítása
 
-48. §
+#### 48. §
 
 #### 25. A közvetítői tevékenységről szóló 2002. évi LV. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 26. A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény módosítása
 
-50–52. §
+#### 50. §
+
+#### 51. §
+
+#### 52. §
 
 #### 27. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
 
-53. §
+#### 53. §
 
 #### 28. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
-54–55. §
+#### 54. §
+
+#### 55. §
 
 #### 29. Az igazságügyi szakértő nemperes eljárásban történő kirendeléséről és ezzel összefüggésben a Polgári Perrendtartásról szóló 1952. évi III. törvény módosításáról szóló 2005. évi XLVIII. törvény módosítása
 
-56. §
+#### 56. §
 
-#### 30. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló2005. évi CXXXV. törvény módosítása
+#### 30. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló
 
-57. §
+2005. évi CXXXV. törvény módosítása
+
+#### 57. §
 
 #### 31. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-58–62. §
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
 
 #### 32. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-63. § A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény „Közigazgatási per” című alcíme helyébe a következő alcím lép:
+#### 63. §
 
-„A közigazgatási per
+#### 33. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás,
 
-7. § (1) A perben a jogi képviselet kötelező.
+valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-(2) A hatóság a keresetlevelet az ügy irataival és védiratával együtt három napon belül továbbítja a bírósághoz.
-
-(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése elektronikus úton történik.
-
-(4) Az ingatlanügyi hatóság eljárásával kapcsolatos perben a (2) és (3) bekezdést nem kell alkalmazni.
-
-8. § (1) Perbeállítás csak a keresetlevélben, a védiratban, illetve a perbelépés bejelentésével egyidejűleg kérhető.
-
-(2) A perbelépést a perbelépés lehetőségéről való bírósági értesítés közlését követő nyolc napon belül kell bejelenteni. E határidő elmulasztása esetén igazolásnak nincs helye.
-
-(3) A keresetet csak a perindításra nyitva álló határidőn belül lehet megváltoztatni, illetve kiterjeszteni.
-
-9. § (1) A perben a beadványok hiányosságainak pótlására legfeljebb nyolcnapos határidő adható, amelyet indokolt esetben egyszer, további, legfeljebb nyolc nappal lehet meghosszabbítani.
-
-(2) Az első tárgyalást az iratoknak a bírósághoz való érkezését követő harminc napon belül kell megtartani, és ha nincs szükség bizonyítási eljárás lefolytatására, vagy tárgyaláson kívüli eljárás esetén, e határidőn belül elbírálni. A határidő számításakor a hiánypótlásra fordított idő nem vehető figyelembe.
-
-(3) A bíróság határozatának közlése iránt a meghozatalától számított nyolc napon belül intézkedik.
-
-10. § A Kúria a felülvizsgálati ellenkérelemnek (csatlakozó felülvizsgálati kérelemnek) a Kúriához való érkezését, illetve a felülvizsgálati ellenkérelem előterjesztésére megállapított határidő eredménytelen leteltét követő kilencven napon belül dönt.”
-
-#### 33. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás,valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
-
-64. §
+#### 64. §
 
 #### 34. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-65–66. §
+#### 65. §
+
+#### 66. §
 
 #### 35. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-67. §
+#### 67. §
 
 #### 36. Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása
 
-68–73. §
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
 
 #### 37. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 
-74–85. §
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
 
 #### 38. A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény módosítása
 
-86. §
+#### 86. §
 
 #### 39. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-87–88. §
+#### 87. §
+
+#### 88. §
 
 #### 40. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-89. §
+#### 89. §
 
-#### 41. A határon átnyúló tartási ügyekben a központi hatósági feladatok ellátásáról szóló2011. évi LXVII. törvény módosítása
+#### 41. A határon átnyúló tartási ügyekben a központi hatósági feladatok ellátásáról szóló
 
-90. §
+2011. évi LXVII. törvény módosítása
 
-#### 42. Az információs önrendelkezési jogról és az információszabadságról szóló2011. évi CXII. törvény módosítása
+#### 90. §
 
-91–92. §
+#### 42. Az információs önrendelkezési jogról és az információszabadságról szóló
+
+2011. évi CXII. törvény módosítása
+
+#### 91. §
+
+#### 92. §
 
 #### 43. A központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény módosítása
 
-93. §
+#### 93. §
 
 #### 44. A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény módosítása
 
-94–95. §
+#### 94. §
+
+#### 95. §
 
 #### 45. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-96. §
+#### 96. §
 
 #### 46. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-97–98. §
+#### 97. §
+
+#### 98. §
 
 #### 47. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása
 
-99–103. §
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
 
 #### 48. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-104. §
+#### 104. §
 
 #### 49. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-105–106. §
+#### 105. §
+
+#### 106. §
 
 #### 50. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-107. §
+#### 107. §
 
 #### 51. A honvédek jogállásáról szóló 2012. évi CCV. törvény módosítása
 
-108. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 8. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az olyan jognyilatkozattal kapcsolatban, amely tekintetében e törvény alapján bírósági eljárásnak van helye, a kézbesítési kifogás az eljárás kezdeményezésével egyidejűleg, a kézbesítési fikció beálltáról való tudomásszerzéstől számított 15 napon, de legkésőbb a fikció beálltától számított 3 hónapon belül terjeszthető elő a bíróságnál. A kézbesítési kifogásra egyebekben a polgári perrendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.”
+#### 108. §
 
 #### 52. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-109. §
+#### 109. §
 
 #### 53. Az építmények tervezésével és kivitelezésével kapcsolatos egyes viták rendezésében közreműködő szervezetről, és egyes törvényeknek az építésügyi lánctartozások megakadályozásával, valamint a késedelmes fizetésekkel összefüggő módosításáról szóló 2013. évi XXXIV. törvény módosítása
 
-110. §
+#### 110. §
 
 #### 54. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-111–112. §
+#### 111. §
+
+#### 112. §
 
 #### 55. A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény módosítása
 
-113–114. §
+#### 113. §
+
+#### 114. §
 
 #### 56. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
 
-115. §
+#### 115. §
 
 #### 57. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-116. §
+#### 116. §
 
 #### 58. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-117. §
+#### 117. §
 
 #### 59. A termőföld tulajdonjogának megszerzését vagy használatát korlátozó jogszabályi rendelkezések kijátszására irányuló jogügyletek feltárásáról és megakadályozásáról szóló 2014. évi VII. törvény módosítása
 
-118–119. §
+#### 118. §
+
+#### 119. §
 
 #### 60. A bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény módosítása
 
-120. §
+#### 120. §
 
 #### 61. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-121. §
+#### 121. §
 
 #### 62. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 
-122–123. §
+#### 122. §
+
+#### 123. §
 
 #### 63. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-124. §
+#### 124. §
 
 #### 64. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-125. §
+#### 125. §
 
 #### 65. Az energiahatékonyságról szóló 2015. évi LVII. törvény módosítása
 
-126. §
+#### 126. §
 
 #### 66. A 650/2012/EU európai parlamenti és tanácsi rendelet 31. cikke szerinti megfeleltetési nemperes eljárásról, valamint egyes igazságügyi tárgyú törvénymódosításokról szóló 2015. évi LXXI. törvény módosítása
 
-127–128. §
+#### 127. §
+
+#### 128. §
 
 #### 67. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
-129–131. §
+#### 129. §
 
-#### 68. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló2015. évi CCXXII. törvény módosítása
+#### 130. §
 
-132–133. §
+#### 131. §
+
+#### 68. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló
+
+2015. évi CCXXII. törvény módosítása
+
+#### 132. §
+
+#### 133. §
 
 #### 69. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
 
-134. § (1) Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény (a továbbiakban: Szaktv.) 4. § (5) bekezdése helyébe a következő rendelkezés lép:
+#### 134. §
 
-„(5) Eseti szakértőként csak az járhat el, aki a 45. § (2) bekezdés n) pontja szerinti felhívásnak megfelelően nyilatkozik arról, hogy az igazságügyi szakértőkre vonatkozó etikai és fegyelmi követelményeknek aláveti magát. Az eseti szakértő jogaira és kötelezettségeire e törvény rendelkezéseit kell megfelelően alkalmazni.”
+#### 135. §
 
-(2) A Szaktv. 13. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+#### 70. A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló
 
-„(1) Az igazságügyi szakértőt törölni kell a névjegyzékből, ha
+2016. évi XCIII. törvény módosítása
 
-a) azt az igazságügyi szakértő kéri,
+#### 136. §
 
-b) a névjegyzékbe való felvétel feltételei – ide nem értve az 5. § (3) bekezdés a) pontjában meghatározott feltételt – már a felvételkor sem álltak fenn, vagy utóbb megszűntek, illetve az igazságügyi szakértő a szakértői esküt a 10. § (1) bekezdésében foglaltak szerint nem teszi le,
-
-c) a névjegyzékben szereplő adatok változását, a Kormány rendeletében meghatározott módon, ismételt felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után, szándékosan nem jelenti be,
-
-d) az igazságügyi szakértő hatósági kirendelésre történő szakvélemény nyújtásával egy évet elérő késedelembe esett,
-
-e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének felhívás ellenére ismételten nem tesz eleget,
-
-f) azon statisztikai adatokat, amelyeket e törvény alapján a Kamara részére szolgáltatni köteles, két egymást követő negyedévben határidőben nem szolgáltatja,
-
-g) az igazságügyi szakértő negyedévente esedékes statisztikai adatszolgáltatást két éven belül három alkalommal elmulasztja, vagy az általa szolgáltatott adatok eltérnek a szakértő nyilvántartásában szereplő adatoktól,
-
-h) az e törvény alapján fennálló képzési kötelezettségének határidőben nem tett eleget,
-
-i) kamarai tagsága
-
-ia) kizárás útján,
-
-ib) a kamarai tagdíj fizetésének elmulasztása miatt, továbbá
-
-ic) egyéb okból
-
-megszűnt, vagy
-
-j) meghalt.
-
-(2) Ha a névjegyzékből történő törlésre
-
-a) az (1) bekezdés i) pont ia) alpontja alapján került sor, az igazságügyi szakértő a határozat véglegessé válásától vagy jogerőre emelkedésétől számított öt éven belül,
-
-b) az (1) bekezdés d), e) és g) pontja alapján kerül sor, az igazságügyi szakértő a határozat véglegessé válásától vagy jogerőre emelkedésétől számított két éven belül vagy
-
-c) az (1) bekezdés c), f) és h) pontja, vagy i) pontjának ib) és ic) alpontja alapján kerül sor, a határozat véglegessé válásától vagy jogerőre emelkedésétől számított egy éven belül
-
-a névjegyzékbe nem vehető fel.”
-
-(3) A Szaktv. 32. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha a hatóság állapít meg az igazságügyi szakértőre nézve kizáró okot, az igazságügyi szakértői intézmény vezetője más igazságügyi szakértőt jelöl ki. Ha a szakértői intézménynek nincs olyan kijelölhető igazságügyi szakértője, akire nézve a hatóság nem állapított meg kizáró okot, illetve a 30. § (7) bekezdésének vagy a 32. § (2) bekezdésének alkalmazására nincs lehetőség, az igazságügyi intézmény vezetője a kirendelést visszautasítja.”
-
-(4) A Szaktv. 35. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az igazságügyi szakértői testület nem alkalmazható a polgári perrendtartásról szóló törvény szerinti magánszakértőként.”
-
-(5) A Szaktv. 36. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az igazságügyi szakértői testület elnökét és tagjait a miniszter – a szakterületet felügyelő miniszter egyetértésével – öt évre nevezi ki. Az igazságügyi szakértői testület tagjainak névsorát a miniszter a kormányzati portálon közzéteszi. Az igazságügyi szakértői testület nem igazságügyi szakértő tagjaira e törvénynek az igazságügyi szakértőre vonatkozó rendelkezései nem alkalmazhatók.”
-
-(6) A Szaktv. 45. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A nem természetes személy szakértő a kirendelő végzés kézhezvételétől számított tíz napon belül köteles a hatóságnak bejelenteni, hogy a nevében melyik tagja vagy alkalmazottja jár el.”
-
-(7) A Szaktv. 52. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A polgári perrendtartásról szóló törvény szerint alkalmazott magánszakértő a megbízási díjról köteles a 49. § (2) bekezdése szerint díjjegyzéket kiállítani és azt a magánszakértői véleményhez csatolni.”
-
-(8) A Szaktv. 85. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Kamara ügyviteli szerve a hivatal, amelynek vezetője és képviselője a Kamara főtitkára. A hivatal jogi személy.”
-
-(9) A Szaktv. 87. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A tisztségviselők megbízatása vagy kinevezése az új tisztségviselők megválasztásának vagy kinevezésének napján szűnik meg. Ha a tisztségviselő megbízatása vagy kinevezése egyéb okból szűnik meg, a választására vagy kinevezésre jogosult szerv a megbízatás vagy kinevezés megszűnésétől számított harminc napon belül megválasztja vagy kinevezi az új tisztségviselőt.”
-
-135. § A Szaktv.
-
-- a) 12. §-ában a „g) pontjában és az” szövegrész helyébe az „a), c) és g) pontjában, valamint az” szöveg,
-- b) 13. § (4) bekezdésében az „e) és f) pontjai” szövegrész helyébe az „f) és g) pontja” szöveg,
-- c) 13. § (5) bekezdésében és 14. § a) pontjában az „i) pontja” szövegrész helyébe a „j) pontja” szöveg,
-- d) 34. § (3) bekezdésében a „(3) bekezdés” szövegrész helyébe a „(3)–(5) bekezdés” szöveg,
-- e) 45. § (2) bekezdés b) pontjában a „szakkérdéseket” szövegrész helyébe a „kérdéseket” szöveg,
-- f) 71. § (2) bekezdésében a „száznegyven” szövegrész helyébe a „legfeljebb száznegyven” szöveg,
-- g) 87. § (1) bekezdésében a „megbízatásának” szövegrész helyébe a „megbízatásának vagy kinevezésének” szöveg,
-- h) 88. § (1) és (2) bekezdésében a „megbízatása” szövegrész helyébe a „megbízatása vagy kinevezése” szöveg,
-- i) 98. § (1) bekezdésében a „bizottság” szövegrész helyébe a „tanács” szöveg
-
-lép.
-
-#### 70. A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló2016. évi XCIII. törvény módosítása
-
-136–137. §
+#### 137. §
 
 #### 71. A közigazgatási perrendtartásról szóló 2017. évi I. törvény módosítása
 
@@ -466,26 +502,45 @@ b) a közokiratban vagy teljes bizonyító erejű magánokiratban vállalt köte
 
 140. § A Kp.
 
-- 1. 4. § (7) bekezdés 1. pont e) alpontja a „törvény vagy kormányrendelet” szövegrész helyett „jogszabály” szöveggel,
-- 2. 4. § (7) bekezdés 3. pontja az „általa foglalkoztatott” szövegrész helyett az „állam nevében foglalkoztatott” szöveggel,
-- 3. 10. § (1) bekezdés a) pontja az „az aki” szövegrész helyett az „az, aki” szöveggel,
-- 4. 11. § (4) bekezdése a „meghatározott esetekben, önálló aláírási joggal, tárgyaláson kívül” szövegrész helyett a „vagy kormányrendeletben meghatározott esetekben, önálló aláírási joggal, tárgyaláson kívül – a bíró irányítása és felügyelete mellett –” szöveggel,
-- 5. 15. § (3) bekezdés a) pontja az „esetén” szövegrész helyett „esetén, valamint akkor, ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el” szöveggel,
-- 6. 17. § a) pontja az „az akinek” szövegrész helyett az „az, akinek” szöveggel,
-- 7. 17. § c) pontja a „szerződésben részes” szövegrész helyett a „közigazgatási szerződésben részes” szöveggel,
-- 8. 26. § (2) bekezdése a „jogi előadó” szövegrész helyett az „ügyvédi kamarai nyilvántartásba vett jogi előadó” szöveggel,
-- 9. 35. § (2) bekezdése az „az érdekeltre a félre, a perbeállított félre a perbevont félre” szövegrész helyett az „az érdekeltre és a perbeállított félre a félre” szöveggel,
-- 10. 49. § (1) bekezdése a „jogi hatályai fennmaradnak” szövegrész helyett a „joghatásai fennmaradnak” szöveggel,
-- 11. 49. § (2) bekezdése a „jogi hatályai fennmaradnak” szövegrész helyett a „joghatásai fennmaradnak” szöveggel,
-- 12. 58. § (4) bekezdése a „legalább nyolc nappal” szövegrész helyett a „legalább tizenöt nappal” szöveggel,
-- 13. 81. § (3) bekezdése a „jogi hatályai fennmaradnak” szövegrész helyett a „joghatásai fennmaradnak” szöveggel,
-- 14. 94. § (1) bekezdése az „érdekelt felek” szövegrész helyett az „érintettek” szöveggel,
-- 15. 113. § (3) bekezdése a „kézhezvételétől” szövegrész helyett a „közlésétől” szöveggel,
-- 16. 124. § (4) bekezdése az „elrendeli per” szövegrész helyett az „elrendeli a per” szöveggel,
-- 17. 132. § (3) bekezdése az „a fél” szövegrész helyett az „az alperes” szöveggel,
-- 18. 137. § (3) bekezdése a „törvényességi felügyeleti szerv” szövegrész helyett a „köztestület felett törvényességi felügyeletet gyakorló szerv” szöveggel,
-- 19. 138. § (5) bekezdése a „törvényességi ellenőrzést gyakorló” szövegrész helyett a „köztestület felett törvényességi felügyeletet gyakorló” szöveggel,
-- 20. 146. § (2) bekezdése az „Az Kúria” szövegrész helyett az „A Kúria” szöveggel
+1. 4. § (7) bekezdés 1. pont e) alpontja a „törvény vagy kormányrendelet” szövegrész helyett „jogszabály” szöveggel,
+
+2. 4. § (7) bekezdés 3. pontja az „általa foglalkoztatott” szövegrész helyett az „állam nevében foglalkoztatott” szöveggel,
+
+3. 10. § (1) bekezdés a) pontja az „az aki” szövegrész helyett az „az, aki” szöveggel,
+
+4. 11. § (4) bekezdése a „meghatározott esetekben, önálló aláírási joggal, tárgyaláson kívül” szövegrész helyett a „vagy kormányrendeletben meghatározott esetekben, önálló aláírási joggal, tárgyaláson kívül – a bíró irányítása és felügyelete mellett –” szöveggel,
+
+5. 15. § (3) bekezdés a) pontja az „esetén” szövegrész helyett „esetén, valamint akkor, ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el” szöveggel,
+
+6. 17. § a) pontja az „az akinek” szövegrész helyett az „az, akinek” szöveggel,
+
+7. 17. § c) pontja a „szerződésben részes” szövegrész helyett a „közigazgatási szerződésben részes” szöveggel,
+
+8. 26. § (2) bekezdése a „jogi előadó” szövegrész helyett az „ügyvédi kamarai nyilvántartásba vett jogi előadó” szöveggel,
+
+9. 35. § (2) bekezdése az „az érdekeltre a félre, a perbeállított félre a perbevont félre” szövegrész helyett az „az érdekeltre és a perbeállított félre a félre” szöveggel,
+
+10. 49. § (1) bekezdése a „jogi hatályai fennmaradnak” szövegrész helyett a „joghatásai fennmaradnak” szöveggel,
+
+11. 49. § (2) bekezdése a „jogi hatályai fennmaradnak” szövegrész helyett a „joghatásai fennmaradnak” szöveggel,
+
+12. 58. § (4) bekezdése a „legalább nyolc nappal” szövegrész helyett a „legalább tizenöt nappal” szöveggel,
+
+13. 81. § (3) bekezdése a „jogi hatályai fennmaradnak” szövegrész helyett a „joghatásai fennmaradnak” szöveggel,
+
+14. 94. § (1) bekezdése az „érdekelt felek” szövegrész helyett az „érintettek” szöveggel,
+
+15. 113. § (3) bekezdése a „kézhezvételétől” szövegrész helyett a „közlésétől” szöveggel,
+
+16. 124. § (4) bekezdése az „elrendeli per” szövegrész helyett az „elrendeli a per” szöveggel,
+
+17. 132. § (3) bekezdése az „a fél” szövegrész helyett az „az alperes” szöveggel,
+
+18. 137. § (3) bekezdése a „törvényességi felügyeleti szerv” szövegrész helyett a „köztestület felett törvényességi felügyeletet gyakorló szerv” szöveggel,
+
+19. 138. § (5) bekezdése a „törvényességi ellenőrzést gyakorló” szövegrész helyett a „köztestület felett törvényességi felügyeletet gyakorló” szöveggel,
+
+20. 146. § (2) bekezdése az „Az Kúria” szövegrész helyett az „A Kúria” szöveggel
 
 lép hatályba.
 
@@ -521,4 +576,4 @@ lép hatályba.
 
 145. § A 20. § (5) bekezdése és a 68. § (4) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés), és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és a tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-146. §
+#### 146. §

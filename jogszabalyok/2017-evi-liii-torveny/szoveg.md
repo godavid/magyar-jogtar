@@ -96,7 +96,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
   - j) a befektetési vállalkozás,
   - k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevékenysége tekintetében,
   - l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tekintetében,
-  - m)
+  - m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében;
 - 29. pénzügyi vállalkozás: a Hpt.-ben meghatározott pénzügyi vállalkozás;
 - 30. pénzváltó iroda: hitelintézettel kötött megbízási szerződés alapján pénzváltási tevékenységet folytató kiemelt közvetítő;
 - 31. stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország: az (EU) 2015/849 európai parlamenti és tanácsi irányelvnek a stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országok megállapítása tekintetében történő kiegészítéséről szóló, 2016. július 14-i (EU) 2016/1675 bizottsági felhatalmazáson alapuló rendeletben meghatározott országok;

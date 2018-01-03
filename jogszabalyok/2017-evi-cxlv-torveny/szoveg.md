@@ -6,7 +6,21 @@ egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizáci�
 
 1. §
 
-2–5. §
+2. § A Tpt. 315. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A tőzsde tájékoztatja a Felügyeletet arról a tagállamról, amelyben a tőzsde olyan eljárásokat kíván biztosítani, amelyek elősegítik abban a tagállamban székhellyel és távoli részvétellel rendelkező tőzsdei kereskedők hozzáférését a tőzsdéhez.”
+
+3. § A Tpt. a 404. §-t követően a következő alcím címmel egészül ki:
+
+„Együttműködés az Európai Unió más tagállamának hatáskörrel rendelkező felügyeleti hatóságaival”
+
+4. § A Tpt. 404/A. §-a a következő (3) és (4) bekezdéssel egészül ki:
+
+„(3) A Felügyelet a 315. § (7) bekezdésben meghatározott információt a tőzsde tájékoztatását követő harminc napon belül továbbítja azon tagállam (e § rendelkezéseinek alkalmazása során: fogadó tagállam) hatáskörrel rendelkező felügyeleti hatóságának, amelyben a tőzsde a 315. § (7) bekezdésében meghatározott eljárást kívánja biztosítani.
+
+(4) A Felügyelet a fogadó tagállamban távoli részvétellel rendelkező tőzsdei kereskedők személyéről, a fogadó tagállam hatáskörrel rendelkező felügyeleti hatóságát annak kérésére, indokolatlan késedelem nélkül tájékoztatja.”
+
+5. § A Tpt. 404/A. § (2) bekezdésében az „értékpapírra, illetőleg” szövegrész helyébe az „értékpapírra, a tőzsdei kereskedőkre, illetve” szöveg lép.
 
 6. §
 
@@ -14,7 +28,65 @@ egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizáci�
 
 #### 2. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-8–10. §
+8. § (1) A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. § (2) bekezdése a következő 23b. ponttal egészül ki:
+
+(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban)
+
+„23b. értékpapír-finanszírozási ügylet: az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 európai parlamenti és tanácsi rendelet 3. cikk 11. pontja szerint meghatározott fogalom,”
+
+(2) A Bszt. 4. § (2) bekezdése a következő 45a. ponttal egészül ki:
+
+(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban)
+
+„45a. másodlagos értékpapír: a Tpt.-ben meghatározott fogalom,”
+
+(3) A Bszt. 4. § (2) bekezdés 62. pont a) alpontja helyébe a következő rendelkezés lép:
+
+(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban
+
+62. székhely szerinti tagállam:)
+
+„a) ha a külföldi befektetési vállalkozás természetes személy, az az EGT-állam, amelyben a központi irodája található;”
+
+(4) A Bszt. 4. § (2) bekezdés 62. pontja a következő d)–f) alponttal egészül ki:
+
+(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban
+
+62. székhely szerinti tagállam:)
+
+„d) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM természetes személy, az az EGT-állam, amelyben a központi irodája található;
+
+e) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy, az az EGT-állam, ahol a létesítő okirat szerinti székhelye található;
+
+f) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy és nemzeti joga szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,”
+
+(5) A Bszt. 4. § (2) bekezdés 69a. pontja helyébe a következő rendelkezés lép:
+
+(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban)
+
+„69a. ügyvezető: a befektetési vállalkozással és az adatszolgáltatási tevékenységet végzővel munkaviszonyban álló, a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző irányításában részt vevő olyan további személy, akit a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,”
+
+(6) A Bszt. 4. § (2) bekezdés 99. pontja helyébe a következő rendelkezés lép:
+
+(E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban)
+
+„99. vezető testület: a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás és adatszolgáltatási tevékenységet végző vezető állású személyeit is,”
+
+9. § A Bszt. 24. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdésben meghatározottakon túl a 22. § (1) bekezdés alkalmazása szempontjából szakmai gyakorlatként vehető figyelembe
+
+a) kizárólag a 6. § l) pontjában meghatározott pénzügyi eszköz és az arra vonatkozó – a 6. §-ban meghatározott – származtatott pénzügyi eszköz tekintetében befektetési szolgáltatást nyújtó befektetési vállalkozás esetében az üvegházhatású gáz kibocsátási egység és légszennyező anyag kibocsátási jog kereskedelmében részt vevő vállalkozásnál,
+
+b) kizárólag a 6. § e)–g), valamint j) és k) pontban meghatározott, villamos energiára és földgázra vonatkozó pénzügyi eszköz tekintetében befektetési szolgáltatást nyújtó befektetési vállalkozás esetében villamosenergia-kereskedőnél, illetve földgázkereskedőnél
+
+tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.”
+
+10. § A Bszt. 27. § (4) bekezdése a következő d) ponttal egészül ki:
+
+(Az a befektetési vállalkozás, amely a Felügyelet befektetési szolgáltatási tevékenység végzésére, illetőleg kiegészítő szolgáltatás nyújtására jogosító engedélyével rendelkezik és más EGT-államban kíván határon átnyúló tevékenységet végezni, a tevékenység megkezdését megelőzően értesíti a Felügyeletet és az értesítésben megjelöli)
+
+„d) a 112. § (1) bekezdés a) pontja szerinti függő ügynök személyét, amennyiben függő ügynököt kíván igénybe venni.”
 
 11. § (1)
 
@@ -22,19 +94,39 @@ egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizáci�
 
 12. §
 
-13. §
+13. § A Bszt. 60. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés d) pontja alkalmazásában minősített pénzpiaci alap olyan, a Kbftv.-ben meghatározott ÁÉKBV, amely a székhelye szerinti tagállam hatáskörrel rendelkező felügyeleti hatósága által engedélyezett, és e hatóság felügyelete alatt áll, valamint
+
+a) a befektetési tevékenységének elsődleges célja, hogy a nettó eszközérték ne csökkenjen a befektetés értéke alá,
+
+b) a befektetési tevékenysége elsődleges céljának elérése érdekében kizárólag háromszázkilencvenhét napnál nem hosszabb futamidejű vagy hátralévő futamidejű magas minősítésű pénzpiaci eszközökbe fektethet be vagy az ilyen futamidőnek megfelelő, rendszeresen kiigazított hozammal és hatvan napos átlagos súlyozott futamidővel rendelkező magas minősítésű pénzpiaci eszközökbe fektethet be,
+
+c) a b) pontban foglalt elsődleges befektetési célja hitelintézeti letétekbe történő kiegészítő jellegű befektetésekkel is megvalósítható,
+
+d) az ÁÉKBV által kibocsátott kollektív befektetési értékpapír visszaváltása esetén a pénzügyi teljesítés a visszaváltás napján vagy az azt követő napon megtörténik.
+
+(3) A (2) bekezdés b) pontja alkalmazásában a pénzpiaci eszköz akkor tekinthető magas minősítésűnek, ha az ÁÉKBV-alapkezelő a pénzpiaci eszköz hitelminőségét illetően olyan dokumentált, saját értékelést végez, amelyre alapozva az adott pénzpiaci eszközt magas minőségűnek minősíti. Amennyiben az Európai Értékpapír-piaci Hatóság által nyilvántartásba vett és felügyelt, egy vagy több hitelminősítő intézet minősítette a pénzpiaci eszközt, az ÁÉKBV-alapkezelő saját belső értékelésének figyelemmel kell lennie többek között az ilyen hitelminősítésekre is.”
 
 14–16. §
 
 17. §
 
-18. §
+18. § A Bszt. 171. §-a a következő (6) és (7) bekezdéssel egészül ki:
+
+„(6) A Felügyelet csak abban az esetben tagadhatja meg a (3) bekezdésben előírt együttműködés iránti kérelem teljesítését, ha:
+
+a) azonos tevékenységek és személyek tekintetében már kezdeményeztek bírósági eljárást a magyar hatóságok előtt;
+
+b) azonos személyek és tevékenységek tekintetében Magyarországon már jogerős ítélet született.
+
+(7) Megtagadás esetén a Felügyelet ennek megfelelően értesíti a megkereső, más EGT-állam hatáskörrel rendelkező felügyeleti hatóságát és az Európai Értékpapír-piaci Hatóságot, a lehető legrészletesebb tájékoztatást nyújtva.”
 
 19. §
 
 20. §
 
-21. §
+21. § Hatályát veszti a Bszt. 77. §-a és a 105. § (5) bekezdése.
 
 #### 3. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 

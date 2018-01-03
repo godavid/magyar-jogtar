@@ -4,15 +4,19 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 #### 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-1–2. §
+#### 1. §
+
+#### 2. §
 
 3. § (1)–(2)
 
 (3)
 
-4–5. §
+#### 4. §
 
-6. §
+#### 5. §
+
+#### 6. §
 
 7. § (1)
 
@@ -22,109 +26,145 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 (6)
 
-8–16. §
+#### 8. §
 
-17. §
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
 
 18. § (1)–(2)
 
 (3)
 
-19–20. §
+#### 19. §
+
+#### 20. §
 
 #### 2. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-21–25. §
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
 
 #### 3. A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 4. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-27–33. §
+#### 27. §
 
-34. §
+#### 28. §
 
-35. §
+#### 29. §
 
-36. § A Vtv. 76. §-a helyébe a következő rendelkezés lép:
+#### 30. §
 
-„76. § (1) A 69. § 1. és 2. pontja szerinti eljárásban a kérelmet a vasúti igazgatási szerv által erre rendszeresített formanyomtatványon kell benyújtani. A vasúti igazgatási szerv kérelemre induló eljárásáért a kérelmezőnek igazgatási szolgáltatási díjat kell fizetni.
+#### 31. §
 
-(2) A vasúti igazgatási szerv országos illetékességgel jár el. A vasúti igazgatási szerv feladat- és hatáskörébe tartozó eljárásokban az ügyintézési határidő 45 nap.
+#### 32. §
 
-(3) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a vasúti igazgatási szerv a kérelem beérkezésétől számított tizenöt napon belül hiánypótlásra hívja fel.
+#### 33. §
 
-(4) A vasúti igazgatási szerv függő hatályú döntéseiben nem rendelkezik arról, hogy a kérelmezett jog gyakorlása az ügyfelet megilleti.”
+#### 34. §
 
-37–44. §
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
 
 #### 5. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-45–50. §
+#### 45. §
 
-#### 6. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló2013. évi LXVII. törvény módosítása
+#### 46. §
 
-51–52. §
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 6. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló
+
+2013. évi LXVII. törvény módosítása
+
+#### 51. §
+
+#### 52. §
 
 #### 7. A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény módosítása
 
-53–56. §
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
 
 57. § (1)
 
-(2) Az Ekpt. 11. §-a helyébe a következő rendelkezés lép:
-
-„11. § (1) Az alapvizsgáztatást és az időszakos vizsgáztatást – a (2) bekezdésben meghatározott kivétellel – a külön jogszabályban kijelölt vasúti vizsgaközpont, mint tanúsító szerv a külön jogszabályban előírt feltételeknek megfelelő, a közlekedési hatóság vizsgabiztosi névjegyzékébe felvett és közlekedési hatóság által kinevezett vizsgabiztosok bevonásával szervezi és végzi. A közlekedési hatóság eljárása során a vizsgák eredménye alapján adja ki a hatósági bizonyítványokat.
-
-(2) Az (1) bekezdéstől eltérően az alapvizsgáztatást és az időszakos vizsgáztatást a képzési rendeletben meghatározott esetben az egyéb kötöttpályás közlekedési rendszer üzemvezetője végzi.”
+(2)
 
 (3)
 
-58. §
+#### 58. §
 
 59. § (1)
 
-(2) Az Ekpt. 17. §-a helyébe a következő rendelkezés lép:
+(2)
 
-„17. § (1) A közlekedési hatóság a 7. § (1) bekezdés a) pontjában meghatározott eljárás megindításáról az ügyfeleket hirdetményi úton értesíti.
+#### 60. §
 
-(2) A 7. § (1) bekezdés a) pontjában meghatározott eljárásban fellebbezésnek van helye.”
+#### 61. §
 
-60. § Az Ekpt. a következő „12/A. A vasúti igazgatási szerv feladat- és hatásköre” alcímmel egészül ki:
+#### 62. §
 
-„12/A. A vasúti igazgatási szerv feladat- és hatásköre
+#### 63. §
 
-18/A. § (1) A vasúti igazgatási szerv feladat- és hatáskörébe tartozik:
+#### 64. §
 
-a) az 5. alcím szerinti bejelentések vizsgálata, hiánypótlásra felszólítás, a jogszabályszerű bejelentésre vonatkozó követelményeket nem teljesítő személy vagy szervezet tevékenységének felfüggesztése, a bejelentésre vonatkozó követelményeket nem teljesítő személyre vagy szervezetre vonatkozóan bírság kiszabása, végső soron a tevékenységtől való eltiltás,
+#### 65. §
 
-b) nyilvántartás vezetése az egyéb kötöttpályás tevékenységeket végző személyekről és szervezetekről,
-
-c) az egyéb kötöttpályás tevékenységet végző személyekről és szervezetekről felelősségi körébe tartozó baleseti károk megtérítésére való alkalmassággal kapcsolatos kormányrendeletben meghatározott részletes szabályoknak való folyamatos megfelelés ellenőrzése, a feltételek nem teljesítése esetén az érintett tevékenység felfüggesztése, megtiltása,
-
-d) az egyéb kötöttpályás közlekedési tevékenységek piacának nyomon követése, elemzése, értékelése
-
-e) jogszabályban meghatározott adatgyűjtési, adatszolgáltatási feladatok ellátása,
-
-f) a miniszter részére a miniszter által előírt adatszolgáltatások teljesítése,
-
-g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
-
-(2) A vasúti igazgatási szerv kérelemre induló eljárásáért igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díjat pénzforgalmi számláról történő átutalással kell megfizetni.
-
-(3) Az egyéb kötöttpályás közlekedési tevékenységet végző személy vagy szervezet a vasúti igazgatási szerv feladatai ellátásához szükséges adatokat, iratokat átadja, a vasúti igazgatási szerv által meghatározott, ésszerű határidőn belül.
-
-(4) A vasúti igazgatási szerv jogosult a bejelentésre kötelezett tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni.
-
-(5) A vasúti igazgatási szerv hiánypótlási felhívást legfeljebb két ízben adhat ki.
-
-(6) Az ügyintézési határidő a vasúti igazgatási szerv eljárásában hat hét.
-
-(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatait a honlapján közhírré teszi.”
-
-61–66. §
+#### 66. §
 
 #### 8. A hatályba nem lépésről szóló rendelkezések
 

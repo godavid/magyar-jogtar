@@ -18,7 +18,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - h) a Befektető-védelmi Alapra, illetőleg az Alap által nyújtott biztosításra,
 - i) a magyar hatóság által ellátott, e törvényben meghatározott felügyeleti tevékenységre,
 - j) a kiszervezett tevékenységet végző e törvény szerinti felügyeletére,
-- k)
+- k) tőzsdei kereskedő Magyarország területén székhellyel rendelkező tőzsdén végzett tőzsdei kereskedésével összefüggő tevékenységére,
 - l)
 - m) a Magyarország területén lakóhellyel vagy székhellyel rendelkező személy vagy szervezet által készített, illetve terjesztett befektetési ajánlásra,
 - n)–p)
@@ -43,13 +43,15 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 2. ajánlattevő:
   - a) e törvény IV., LIII. és LVI. fejezetei alkalmazásában az a személy, aki/amely a korábban zárt körben forgalomba hozott értékpapírt nyilvános értékesítésre felajánlja,
   - b) e törvény VII. fejezete alkalmazásában az a személy, aki/amely a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozóan nyilvános vételi ajánlatot tesz,
+- 2a. algoritmikus kereskedés: a Bszt.-ben meghatározott fogalom,
 - 3. allokáció: túljegyzés, illetve aukciós túlkereslet esetén a jegyzés, illetve az aukció lezárását követő eljárás, amely során a kibocsátó, illetve a forgalmazó az előre meghirdetett elvek alapján dönt az egyes jegyzések, illetve aukciós ajánlatok elfogadásának mértékéről,
 - 4. anyavállalat:
   - a) a b) pontban meghatározott kivétellel az Szmt.-ben meghatározott fogalom,
   - b) a XIX/A. és XIX/B. Fejezet alkalmazásában minden olyan vállalkozás, amely egy másik vállalkozás működésére ellenőrző befolyást gyakorol,
 - 5. aukció: a forgalomba hozatal azon módja, amely keretén belül a kibocsátó az általa meghatározott feltételek szerint lehetőséget biztosít ajánlattételre és a beérkezett vételi ajánlatok meghatározott szempont alapján versenyeznek,
-- 6. állampapír: a magyar vagy külföldi állam, az MNB, az Európai Központi Bank vagy az Európai Unió más tagállamának jegybankja által kibocsátott, hitelviszonyt megtestesítő értékpapír,
-- 7. áru: minden vagyoni értékkel bíró forgalomképes birtokba vehető dolog, vagy dolog módjára hasznosítható természeti erő, valamint az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jog, ide nem értve a pénzügyi eszközt,
+- 6. állampapír: a Bszt.-ben meghatározott fogalom,
+- 6a. állampapír-kibocsátó: a Bszt.-ben meghatározott fogalom,
+- 7. áru: a Bszt.-ben meghatározott fogalom,
 - 8.
 - 9. befektetési ajánlás: pénzügyi eszközre, tőzsdei termékre vagy annak kibocsátójára vonatkozó olyan elemzés, javaslat vagy más információ, amelynek nyilvánosságra hozatala vagy mások számára oly módon történő hozzáférhetővé tétele, amely alapján az nyilvánosságra kerülhet, befolyásolhatja, hogy a befektető saját vagy más pénzét, egyéb vagyontárgyát részben vagy egészben a tőkepiac hatásaitól tegye függővé,
 - 10. befektetési alap: Kbftv.-ben meghatározott fogalom,
@@ -87,6 +89,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
   - e) a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha a fióktelepet vámszabad területen létesítették, illetve ott működik,
 - 32. dotációs tőke: a fióktelep létesítéséhez és működéséhez az alapító által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke,
 - 33. egyedi kockázat: az értékpapír vagy származtatott ügylet esetén az ügylet alapját képező értékpapír egyedi jellemzőihez kapcsolható árfolyamváltozás kockázata,
+- 33a. egymásnak megfelelő ügyfélmegbízásokat párosító kereskedés (matched principal trading): a Bszt.-ben meghatározott fogalom,
 - 34. ellenőrző befolyás: a Hpt.-ben ilyenként meghatározott fogalom,
 - 35. ellenőrzött társaság: a Ptk. 3:324. § (1) bekezdésében meghatározott társaság,
 - 36. elszámolási rendszer: pénzügyi eszközre kötött ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására, illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
@@ -122,6 +125,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 64. jegyzett tőke: az Szmt.-ben meghatározott tőke, valamint a dotációs tőke,
 - 64a. jogsértésről szóló bejelentés: a bejelentő személy által a Felügyelethez eljuttatott bejelentés az 596/2014/EU rendelet tényleges vagy lehetséges megsértéséről,
 - 65. kapcsolt vállalkozás: a vállalkozás anyavállalata és leányvállalata, a vállalkozás anyavállalatának leányvállalata, a vállalkozásban minősített befolyással rendelkező tulajdonos vagy olyan vállalkozás, amelyben a vállalkozás vagy a vállalkozás tulajdonosa, felügyelőbizottsági tagja, vezető tisztségviselője, vagy ezek közeli hozzátartozója minősített befolyással rendelkezik,
+- 65a. kereskedési helyszín: a Bszt.-ben meghatározott fogalom,
 - 66. kibocsátási program: egy kibocsátótól származó, hitelviszonyt megtestesítő értékpapírok, illetve zártvégű befektetési alapra forgalomba hozott befektetési jegyek egymást követő nyilvános értékpapírkibocsátás-összessége, amelynek alapfeltételeit a kibocsátó, illetve az alapkezelő a program indításakor rögzíti, és az egyes részkibocsátások során a kibocsátó, illetve az alapkezelő meghatározza a kibocsátás egyedi adatait,
 - 67. kibocsátó: az a személy, aki az értékpapírban megtestesített kötelezettség teljesítését a maga nevében vállalja,
 - 68. kiszervezés: olyan megállapodás a tőzsde, a központi értéktár, a központi szerződő fél és egy más személy között, amelynek keretében a kiszervezett tevékenységet végző olyan tevékenységet folytat, amelyet egyébként a tőzsde, a központi értéktár, a központi szerződő fél maga végezne,
@@ -143,12 +147,14 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 83. központi szerződő fél tevékenység: a tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügylet elszámolása és az elszámolt ügylet teljesítéséhez kapcsolódóan tett kötelezettségvállalás, amelynél a központi szerződő fél a szerződésben érintett ügyfelek helyébe lépve vevőként lép fel valamennyi eladóval szemben és eladóként valamennyi vevővel szemben,
 - 84. közvetett tulajdon, illetve közvetett befolyás: egy vállalkozás tulajdoni hányadának, illetőleg szavazati jogának a vállalkozásban tulajdoni részesedéssel, illetőleg szavazati joggal rendelkező más vállalkozás (köztes vállalkozás) tulajdoni hányadán, szavazati jogán keresztül történő gyakorlása. A közvetett tulajdon, a közvetett befolyás arányának megállapításához a közvetett tulajdonnal, közvetett befolyással rendelkezőnek a köztes vállalkozásban fennálló szavazati jogát vagy tulajdoni hányadát meg kell szorozni a köztes vállalkozásnak a vállalkozásban fennálló szavazati vagy tulajdoni hányada közül azzal, amelyik a nagyobb. Ha a köztes vállalkozásban fennálló szavazati vagy tulajdoni hányad az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni,
 - 85. közvetlen befektetési ajánlás: olyan befektetési ajánlás, amely pénzügyi eszköz vagy tőzsdei termék vételére, eladására, tartására vagy ezekkel egyenértékű befektetői döntésre tesz kifejezett javaslatot,
+- 85a. közvetlen elektronikus hozzáférés: a Bszt.-ben meghatározott fogalom,
 - 86. külföldi befektetési vállalkozás: a székhely állam jogszabályi rendelkezéseinek megfelelően a Bszt. 5. §-ában meghatározott befektetési szolgáltatási tevékenységnek és kiegészítő szolgáltatásnak megfeleltethető tevékenység folytatására engedéllyel rendelkező külföldi székhelyű vállalkozás,
 - 87. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol. A leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni,
 - 88. letéti őrzés: a Bszt.-ben meghatározott szolgáltatás,
 - 89. letétkezelés: a Bszt.-ben meghatározott szolgáltatás,
 - 90. likvid eszköz: a pénz, hitelintézettel állampapírra kötött, felmondhatóságában nem korlátozott repó, az átruházhatóságában nem korlátozott, bármikor pénzzé tehető állampapír, továbbá a felmondhatóságában nem korlátozott bankbetét,
 - 91. másodlagos értékpapír: letétkezelő által a másodlagos értékpapír tulajdonosa (végső jogosult) részére kibocsátott, az elsődleges értékpapírra vonatkozó rendelkezési jogot, illetőleg az értékpapír által megtestesített jogok gyakorlását biztosító, sorozatban kibocsátott, névre szóló, átruházható értékpapír,
+- 91a. a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete: a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete,
 - 92. minősített befektető: a Bszt. 48–51. §-a szerint szakmai ügyfélnek vagy elfogadható partnernek tekintett befektető;
 - 93.
 - 94. nyilvános értékesítésre történő felajánlás: értékpapírra vonatkozó, egyedileg előre meg nem határozott befektetők részére közzétett értékesítési ajánlat, amely elegendő információt ad az ajánlat feltételeiről és az értékpapírról ahhoz, hogy lehetővé tegye a befektetőnek az értékpapír megvásárlására vonatkozó döntés meghozatalát,
@@ -158,10 +164,10 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 98. nyitva szállítás: olyan átruházható értékpapírral kapcsolatos ügylet, amelynek során az értékpapír és az ellenérték szolgáltatása (átutalása) nem azonos időpontban történik,
 - 99. nyílt végű befektetési alap: a Kbftv. szerinti befektetési alap,
 - 100. összehangoltan eljáró személyek: olyan természetes személyek, jogi személyek vagy egyéb szervezetek, akik vagy amelyek a céltársaságban történő befolyásszerzésre, a céltársaság irányításának megszerzésére vagy vételi ajánlat meghiúsítására irányuló megállapodás alapján működnek együtt,
-- 101. pénzpiaci eszköz: sorozatban kibocsátott, pénzkövetelésre szóló eszköz, amellyel a pénzpiacon kereskednek,
+- 101. pénzpiaci eszköz: a Bszt.-ben meghatározott fogalom,
 - 102.
 - 103. pénzügyi eszköz: a Bszt.-ben meghatározott eszköz,
-- 104.
+- 104. piacműködtető: a Bszt.-ben meghatározott fogalom,
 - 105. portfólió: a portfóliókezelési tevékenységet végző számára átadott eszközök, illetőleg ezen eszközökből a portfóliókezelési tevékenységet végző által összeállított, többféle vagyonelemet tartalmazó eszközök összessége,
 - 106. portfóliókezelés: a Bszt.-ben meghatározott tevékenység,
 - 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
@@ -215,7 +221,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 140. székhely szerinti tagállam:
   - a) szabályozott piac esetében az a tagállam, amelyben a szabályozott piac létesítő okirat szerinti székhelye található, vagy ha a nemzeti jog szerint nem rendelkezik létesítő okirat szerinti székhellyel, az a tagállam, amelyben a központi irodája található,
   - b) az V. Fejezetben foglaltak alkalmazásában ba) az 1000 eurónál, illetve a forgalomba hozatal napján az MNB által közzétett hivatalos devizaárfolyamon számítva ennek megfelelő összegnél kisebb egységnyi névértékű hitelviszonyt megtestesítő értékpapírok kibocsátója vagy részvények kibocsátója esetében: baa) az a tagállam, amelyben a kibocsátó létesítő okirat szerinti székhelye van, vagy bab) ha a kibocsátó egy harmadik országban székhellyel rendelkező vállalkozás, a kibocsátó által azon tagállamok közül kiválasztott tagállam, amelyekben értékpapírjait szabályozott piacra bevezették, bb) a ba) alpont hatálya alá nem tartozó bármely kibocsátó esetében a kibocsátó által azon tagállamok közül kiválasztott tagállam, amelyben a kibocsátónak a létesítő okirat szerinti székhelye van, vagy amelyekben értékpapírjait szabályozott piacra bevezették, bc) ha a kibocsátó értékpapírjaival a bab) alpont vagy a bb) alpont szerint meghatározott székhely szerinti tagállamában már nem, egy vagy több másik tagállamban viszont kereskednek, azon új székhely szerinti tagállam, amelyet a kibocsátó azon tagállamok közül választhat, amelyekben a kibocsátó értékpapírjai szabályozott piacon be vannak vezetve, vagy azon tagállam, amelyben a kibocsátó létesítő okirat szerinti székhelye van,
-- 141. kiemelt információ: a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, a felajánlott, illetve a szabályozott piacra bevezetett értékpapír lényeges jellemzőit és kockázatait rendszerezett formában tartalmazó azon információk összessége, amelynek célja, hogy elősegítse a befektető értékpapírra vonatkozó befektetési döntésének meghozatalát.
+- 141. kiemelt információ: a kibocsátó, az értékpapírban foglalt kötelezettség teljesítéséért kezességet (garanciát) vállaló személy, a felajánlott, illetve a szabályozott piacra bevezetett értékpapír lényeges jellemzőit és kockázatait rendszerezett formában tartalmazó azon információk összessége, amelynek célja, hogy elősegítse a befektető értékpapírra vonatkozó befektetési döntésének meghozatalát,
+- 142. vezető testület: a piacműködtető igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő piacműködtető vezető állású személyeit is,
+- 143. ügyvezető: a piacműködtetővel munkaviszonyban álló, a piacműködtető vezetésére kinevezett első számú vezető, valamint a piacműködtető irányításában résztvevő olyan további személy, akit a piacműködtető létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg.
 
 (2) E törvény alkalmazásában
 
@@ -439,6 +447,16 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 (5) A kibocsátó, az ajánlattevő, illetve az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy – ha az értékpapírt szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére nem vezették be – a regisztrációhoz tájékoztatót és hirdetményt köteles közzétenni akkor is, ha a multilaterális kereskedési rendszerbe regisztrált és regisztrálandó ugyanazon sorozatba tartozó értékpapír kibocsátási összértéke eléri vagy meghaladja az ötmillió eurót vagy az annak megfelelő összeget, és korábban a Felügyelet által engedélyezett tájékoztató és hirdetmény nem került közzétételre.
 
 (6) A (2) bekezdés d) pont da) alpontjában meghatározott esetben a kibocsátó, illetve az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kérő személy az értékpapír-sorozat regisztrációjának feltételeként a piacműködtető által meghatározott tartalmú és általa jóváhagyott információs dokumentumot készít és a Felügyelet által üzemeltetett információtárolási rendszeren és a Felügyelet által elfogadott nyelven tesz közzé.
+
+(7) Az információs dokumentum a piacműködtető általi jóváhagyást követő tizenkét hónapig hatályos. Az értékpapírt – a (8) és (9) bekezdésben foglaltak figyelembevételével – legkésőbb az információs dokumentum érvényességének időszaka alatt lehet multilaterális kereskedési rendszerbe regisztrálni.
+
+(8) Ha a piacműködtető általi jóváhagyás és a multilaterális kereskedési rendszerben való kereskedés megkezdése között olyan lényeges tény vagy körülmény jut a piacműködtető tudomására, ami az információs dokumentum kiegészítését teszi szükségessé, a piacműködtető a multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó meghallgatása után elrendeli az információs dokumentum kiegészítését.
+
+(9) A kibocsátó, az ajánlattevő, az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy és a forgalmazó köteles haladéktalanul az információs dokumentum kiegészítését kezdeményezni, ha a piacműködtető általi jóváhagyás és a multilaterális kereskedési rendszerben való kereskedés megkezdése között olyan lényeges tény vagy körülmény jut a tudomására, amely az információs dokumentum kiegészítését indokolttá teszi.
+
+(10) Az információs dokumentum kiegészítéséhez a piacműködtető jóváhagyása szükséges.
+
+(11) Nem kell információs dokumentumot közzétenni a részvény multilaterális kereskedési rendszerbe történő regisztrációjához, ha az azonos fajtájú, illetve azonos osztályba tartozó részvényeket ugyanabba a multilaterális kereskedési rendszerbe már korábban regisztrálták, és tizenkét hónapon belül a regisztrálandó részvények darabszáma nem haladja meg a korábban a multilaterális kereskedési rendszerbe regisztrált darabszám tíz százalékát.
 
 22. § (1) Nem kell tájékoztatót és hirdetményt közzétenni olyan nyilvános értékesítésre történő felajánlás esetén, amikor
 
@@ -971,9 +989,9 @@ gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
 
 (10) A részvényes mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha a tájékoztatási kötelezettséget az anyavállalata, vagy ha az anyavállalata is ellenőrzött vállalkozás, akkor annak anyavállalata teljesíti.
 
-(11) A hitelintézet és a befektetési vállalkozás a kereskedési könyvben nyilvántartott részesedés esetén mentesül az (1) bekezdés szerinti tájékoztatási kötelezettség alól, ha
+(11) A hitelintézetnek és a befektetési vállalkozásnak a kereskedési könyvében nyilvántartott részesedéshez kapcsolódó szavazati jogot nem kell számításba vennie az (1) bekezdés szerinti tájékoztatási kötelezettség teljesítésekor, ha
 
-- a) a szavazati jog nem gyakorolható
+- a) a szavazati jog nem gyakorolható,
 - b) a kibocsátó döntéshozó, ügyvezető szervei, felügyelőbizottsága vagy ezek testületi tagjainak kinevezésére, felmentésére vonatkozó döntések meghozatalában nem vesz részt, és
 - c) a kereskedési könyvben nyilvántartott részesedéshez kapcsolódó szavazati jogok nem haladják meg az 5%-ot.
 
@@ -2340,8 +2358,13 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 - a) tőzsdei tevékenységet,
 - b) tőzsdei tevékenységet segítő kiegészítő tevékenységet,
-- c) a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységet,
-- d) gazdasági társaságok tőkepiaci forrásbevonását elősegítő platformok működtetése tevékenységet folytathat.
+- c) a Bszt. 5. § (1) bekezdés h) és i) pontja szerinti kereskedési rendszer működtetése tevékenységet,
+- d) a Bszt. 6/A. §-a szerinti adatszolgáltatási tevékenységet,
+- e) gazdasági társaságok tőkepiaci forrásbevonását elősegítő platformok működtetése tevékenységet,
+- f) informatikai szolgáltatást,
+- g) piac működtetésével kapcsolatos szolgáltatást
+
+végezhet.
 
 (2) Tőzsdei tevékenységet segítő kiegészítő tevékenység különösen
 
@@ -2446,7 +2469,7 @@ tevékenység.
 
 304. § A tőzsdei tevékenység végzésére szóló engedély iránti kérelemhez mellékelni kell:
 
-- a)
+- a) az információk továbbítására használt eszközök biztonságát garantáló, az adatsérülést és a jogosulatlan hozzáférést megelőző megoldások, illetve az ehhez szükséges erőforrások és tartalékrendszerek bemutatását, amennyiben a tőzsde a befektetési vállalkozás és a befektetési szolgáltatás nyújtására engedéllyel rendelkező hitelintézet (a továbbiakban együtt e Rész vonatkozásában: befektetési szolgáltató) nevében ügyletbejelentést tesz a Felügyelet részére;
 - b) a végezni kívánt tőzsdei tevékenység részletes bemutatását, különösen a tőzsdei termékek felsorolását, az ügylettípusokat, a kereskedési technikákat, az módszereket, az adatrögzítési, adatmentési, adatvédelmi megoldásokat;
 - c) a 303. § (2) bekezdés b) és c) pontjai elbírálhatósága érdekében rendelkezésre álló vagy beszerezni kívánt tárgyi, technikai eszközök részletes leírását, számítógépes kereskedési rendszer esetén a próbafuttatások eredményeit, melyből megállapítható, hogy a kérelmező 1. által üzemeltetett kereskedési rendszer biztosítja, hogy a tőzsdei kereskedők a kereskedésben való részvétel során azonos szolgáltatásokat azonos feltételekkel vehessenek igénybe, 2. által üzemeltetett kereskedési rendszer biztosítja a tisztességes, rendezett, megbízható és átlátható ajánlattételi rendet és áralakulást, a piaci viszonyok folyamatos nyomon követhetőségét, lehetővé teszi a tőzsde vagy a Felügyelet 325–329. §-okban meghatározott intézkedéseinek végrehajtását, 3. biztosítja a tőzsdei ajánlatok és üzletkötések rögzítését, megőrzését, illetve a tőzsdei adatok nyilvánosságra hozatalát; 4. adatkezelése megfelel a biztonságos adatvédelem feltételeinek; 5.
 - d) szabályzatait;
@@ -2455,13 +2478,13 @@ tevékenység.
 - g) nyilatkozatot arra vonatkozóan, hogy a tevékenységét mikor kívánja megkezdeni;
 - h) a vezető állású személyek megnevezését, valamint – a 357. § (3a) bekezdésében foglaltak figyelembevételével – mindazon okiratokat, dokumentumokat, nyilatkozatokat, melyek alapján a 311. § és a 356. § előírásainak való megfelelésük megállapítható.
 
-305. § A pénzügyi eszközök valamelyikének kereskedésére engedéllyel rendelkező tőzsdét a Felügyelet szabályozott piacként tartja nyilván.
+305. § A pénzügyi eszközök valamelyikének kereskedésére engedéllyel rendelkező tőzsdét a Felügyelet szabályozott piacként tartja nyilván. A szabályozott piacként nyilvántartott tőzsdére a Kilencedik Rész rendelkezéseit megfelelően kell alkalmazni.
 
 306. § A tőzsdei tevékenységre kiadott engedélyt a Felügyelet visszavonja, ha
 
 - a) az engedélyt a Felügyelet megtévesztésével vagy más jogszabálysértő módon szerezték meg;
 - b) az engedély kiadásának feltételei már nem állnak fenn és azok megfelelő határidő elteltével nem pótolhatók;
-- c) a tőzsde az engedélyezett tevékenységet tizenkét hónapon belül nem kezdi meg, vagy tizenkét hónapot meghaladó időtartam alatt nem gyakorolja;
+- c) a tőzsde az engedélyezett tevékenységet tizenkét hónapon belül nem kezdi meg, vagy hat hónapot meghaladó időtartam alatt nem gyakorolja;
 - d) a tőzsde a tevékenység folytatásával felhagy;
 - e) a tőzsde a tevékenységre vonatkozó, e törvényben és más jogszabályokban meghatározott előírásokat ismétlődően vagy súlyosan megszegi;
 - f) olyan körülmény áll fenn, amely miatt a tőzsde működése súlyosan veszélyezteti vagy sérti a befektetők, illetve a tőzsdei kereskedők érdekeit, akadályozza a pénz- és tőkepiac megfelelő működését;
@@ -2530,6 +2553,55 @@ tevékenység.
 
 (5) Ha az engedély megadásának feltételei már nem állnak fenn, a Felügyelet a jogellenes állapot megszüntetéséig, illetve a feltételek meglétének ismételt igazolásáig a tulajdonos szavazati jogának gyakorlását felfüggeszti.
 
+### XXXIV/A. Fejezet — A PIACMŰKÖDTETŐ VEZETŐ TESTÜLETÉRE VONATKOZÓ SZABÁLYOK
+
+310/A. § (1) A piacműködtető vezető testülete minden tagjának mindenkor jó üzleti hírnévvel, a feladatai ellátásához és a piacműködtető tevékenységeinek, illetve a tevékenységeiben rejlő fő kockázatoknak a megértéséhez elegendő tudással, készséggel és széleskörű tapasztalattal kell rendelkeznie.
+
+(2) A piacműködtető megfelelő humán- és pénzügyi erőforrást biztosít a vezető testület tagjai képzésére.
+
+(3) A vezető testület tagjai megfelelő időt fordítanak a piacműködtetőnél vállalt funkciójuk ellátására. A vezető testület tagjai integritással és befolyástól mentesen cselekednek, hogy szükség esetén az ügyvezető vagy ügyvezetők döntéseit ténylegesen értékeljék és kifogásolják, valamint hatékonyan ellenőrizzék és felügyeljék a döntéshozatalt.
+
+(4) A vezető testület tagjai számára megfelelő hozzáférést kell biztosítani azokhoz az információkhoz és dokumentumokhoz, amelyekre szükségük van a vezetői döntéshozatal felügyeletéhez és ellenőrzéséhez.
+
+(5) A piacműködtető vezető testülete meghatározza és felügyeli azon irányítási rendszer működtetését, amely biztosítja a szervezet hatékony és körültekintő vezetését, beleértve a szervezeten belüli feladatok elkülönítését és az összeférhetetlenség megelőzését, olyan módon, amely előmozdítja a piac integritását.
+
+(6) A vezető testület figyelemmel kíséri, és rendszeres időközönként értékeli a piacműködtető irányítási rendszerének hatékonyságát, és megteszi az esetleges hiányosságok kezeléséhez szükséges intézkedéseket.
+
+(7) Ha a piacműködtető tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor a piacműködtetőnél a következő tisztségeket lehet együttesen betölteni:
+
+- a) egy ügyvezetői tisztség és vezető testületben betöltött, két nem ügyvezetői tisztség, vagy
+- b) vezető testületben betöltött, négy nem ügyvezetői tisztség.
+
+(8) A (7) bekezdés alkalmazásában egy ügyvezetői tisztségnek minősül
+
+- a) az ugyanazon csoporton belül betöltött ügyvezetői vagy vezető testületben betöltött, nem ügyvezetői tisztség,
+- b) együttesen azon ügyvezetői és vezető testületben betöltött nem ügyvezetői tisztség, amelyet olyan vállalkozásnál töltenek be, amelyben a (7) bekezdésben meghatározott piacműködtető befolyásoló részesedéssel rendelkezik.
+
+(9) A (7) bekezdésben meghatározott korlátozás nem terjed ki az olyan szervezetben betöltött ügyvezetői tisztségre, amely nem folytat üzleti jellegű tevékenységet.
+
+(10) A Felügyelet engedélyezheti a (7) bekezdésben meghatározott piacműködtető vezető testületének tagja számára, hogy a korlátozást meghaladóan további egy nem ügyvezetői tisztséget töltsön be.
+
+(11) A jelölőbizottság által a vezető testületi tagságra történő jelöléseket a vezető testületnek kell jóváhagynia.
+
+310/B. § (1) Ha a piacműködtetőnek a tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor a piacműködtető jelölőbizottságot állít fel a vezető testület olyan tagjaiból, akik nem látnak el ügyvezetői feladatokat a piacműködtető szervezetében.
+
+(2) A jelölőbizottság feladata:
+
+- a) a vezető testületi tagságra jelöltek állítása és ajánlása,
+- b) az adott vezető testületi tagsághoz szükséges képességek és feladatok meghatározása, és a feladatok ellátásához szükséges időráfordítás értékelése,
+- c) a vezető testületi tagok ismerete, készsége és tapasztalata közötti összhang értékelése,
+- d) a vezető testület egésze és tagjai ismeretének, készségének és tapasztalatának legalább évente történő értékelése, és a megállapításokról jelentés készítése a vezető testület számára,
+- e) a vezető testület méretének, összetételének és teljesítményének évente legalább egyszer történő értékelése, és ajánlás megfogalmazása a hiányosságok kezelésére,
+- f) a vezető testületen belül a nemek arányának meghatározása, és ennek eléréséhez szükséges stratégia kidolgozása,
+- g) a piacműködtető ügyvezetőjének kiválasztására és kinevezésére vonatkozó politikájának rendszeres felülvizsgálása, és a megállapítások alapján a vezető testület számára ajánlás megfogalmazása, valamint
+- h) a vezető testületi döntések befolyásolástól való mentességének rendszeres felülvizsgálása.
+
+(3) A jelölések során törekedni kell arra, hogy a vezető testületben minél szélesebb szakismerettel rendelkező tagok vegyenek részt, és ennek előmozdítására a piacműködtető belső politikát dolgoz ki.
+
+(4) Ha a piacműködtetőnek a tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor a piacműködtető közzéteszi a (2) bekezdés f) pontjában meghatározott nemek arányát, annak eléréséhez meghatározott stratégiáját és a stratégia végrehajtásának módját.
+
+(5) A jelölőbizottság számára a piacműködtető biztosítja a (2) bekezdésben meghatározott feladatai ellátásához szükséges megfelelő erőforrásokat, az adatokhoz és információkhoz való hozzáférést, és indokolt esetben külső tanácsadó igénybevételét.
+
 ### XXXV. Fejezet — ÖSSZEFÉRHETETLENSÉG
 
 311. § (1) A tőzsdével munkaviszonyban álló személy és vele közös háztartásban élő közeli hozzátartozója nem lehet a tőzsde tulajdonosánál, tőzsdei kereskedőnél vezető állású személy és érdemi ügyintéző.
@@ -2542,12 +2614,14 @@ tevékenység.
 
 ### A tőzsdei kereskedés
 
-312. § (1) Tőzsdei kereskedő az a személy lehet, aki
+312. § (1) Tőzsdei kereskedő befektetési szolgáltató lehet, valamint olyan személy, aki rendelkezik
 
-- a) legalább egy, az adott tőzsdén forgalmazott tőzsdei termék kereskedésének folytatásához szükséges felügyeleti, illetve más hatósági engedéllyel rendelkezik;
-- b) megfelel a tőzsde szabályzataiban foglalt feltételeknek;
-- c) a tőzsdével megköti a szerződést, melyben vállalja a tőzsde szabályzataiban előírt feltételek teljesítését, betartását;
-- d) a tőzsdei ügyletek elszámolására szerződést kötött központi szerződő féllel, illetve központi értéktárral vagy olyan klíringtaggal, melyen keresztül az elszámolás teljesíthető.
+- a) jó üzleti hírnévvel,
+- b) kereskedésre való alkalmassággal és tapasztalattal,
+- c) megfelelő szervezeti megoldásokkal és
+- d) tevékenységéhez elegendő erőforrással, figyelembe véve azokat a pénzügyi eljárásokat is, amelyeket a tőzsde adott esetben létrehozott az ügyletek megfelelő teljesítésének biztosítására,
+
+azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghatározza azon feltételeket, amelyek alapján az adott személy tőzsdei kereskedési joggal rendelkezhet.
 
 (2) A tőzsde a szerződéskötésre irányuló ajánlatot harminc napon belül elbírálja és a döntésének megfelelően a kérelmezővel szerződést köt.
 
@@ -2555,15 +2629,13 @@ tevékenység.
 
 (4) A tőzsdei kereskedők száma nem korlátozható.
 
-313. §
+(5) A nem befektetési szolgáltató tőzsdei kereskedő ügyfelei vonatkozásában alkalmazza a Bszt. ügyfélvédelemre, az ügyfélmegbízások kezelésére és a legkedvezőbb végrehajtásra vonatkozó szabályait, kivéve, ha ügyfele ugyanazon tőzsdén tőzsdei kereskedőnek minősül.
 
-314. § (1) A kereskedési jog tartalmát és gyakorlásának módját a tőzsde szabályzata határozza meg.
+(6) A tőzsde rendszeresen, de havonta legalább egy alkalommal továbbítja a tőzsdei kereskedők jegyzékét a Felügyelet részére.
 
-(2) A tőzsdei kereskedő a tőzsdén csak azon tőzsdei termék kereskedésében vehet részt, amely tőzsdei termék kereskedéséhez szükséges hatósági engedéllyel rendelkezik.
+313. § A szabályozott piacot működtető piacműködtető nem végezhet saját eszköz terhére ügyfélmegbízást, illetve egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést (matched principal trading).
 
-(3) A központi szerződő fél a szabályzatában meghatározott esetben jogosult korlátozni a tőzsdei kereskedő kereskedési jogának gyakorlását.
-
-(4) A 312. § (1) bekezdés a) pontjában, valamint a (2) bekezdésben megjelölt hatósági engedély alatt a Felügyelet által kiadott tevékenységi engedély, valamint, ha valamely tőzsdei termék kereskedéséhez jogszabály más magyar vagy külföldi hatóság engedélyét is előírja, ezen engedély értendő.
+314. § A kereskedési jog tartalmát és gyakorlásának módját – ideértve a befektetési szolgáltató közvetlen vagy távoli részvételére vonatkozó előírásokat – a tőzsde szabályzata határozza meg.
 
 315. § (1) A tőzsde jogosult a tőzsdei kereskedőktől azok tőzsdén folytatott tevékenységével kapcsolatos, illetve azt befolyásoló információk kérésére, gyűjtésére.
 
@@ -2577,6 +2649,8 @@ tevékenység.
 
 (6) Ha a tőzsde feladatkörében eljárva jogszabálysértést észlel, akkor haladéktalanul értesíti a Felügyeletet.
 
+(7) A tőzsde tájékoztatja a Felügyeletet arról a tagállamról, amelyben a tőzsde olyan eljárásokat kíván biztosítani, amelyek elősegítik abban a tagállamban székhellyel és távoli részvétellel rendelkező tőzsdei kereskedők hozzáférését a tőzsdéhez.
+
 ### A tőzsdei kereskedési jog megszűnése
 
 316. § (1) A tőzsdei kereskedési jog megszűnik
@@ -2588,16 +2662,85 @@ tevékenység.
 
 (2) A tőzsde a tőzsdei kereskedővel kötött szerződést felmondja, ha a tőzsdei kereskedő a tőzsde szabályzataiban előírt kötelezettségeit szankció alkalmazását követően sem teljesíti. A felmondással kapcsolatos döntés ellen a tőzsdei kereskedő, annak közlésétől számított harminc napon belül bírósághoz fordulhat; e határidő elmulasztása jogvesztéssel jár. A perindításnak a felmondásra nincs halasztó hatálya.
 
+### A rendszerek rugalmassága, szüneteltetési mechanizmusok és elektronikus kereskedés
+
+316/A. § (1) A tőzsde által alkalmazott eljárás és rendszer biztosítja, hogy kereskedési rendszerei rugalmasak, rendelkeznek elegendő kapacitással csúcsterhelések esetére a megbízások és az üzenetek volumenét illetően, valamint képesek a szabályos kereskedést biztosítani jelentős piaci stressz esetén. A kereskedési rendszereket megfelelően tesztelik ezen feltételek teljesítésének ellenőrzése érdekében. A kereskedési rendszer hatékony eljárásokkal rendelkezik meghibásodás esetére az üzletmenet folyamatosságának biztosítására.
+
+(2) A tőzsde biztosítja az alábbiakat:
+
+- a) írásbeli megállapodás megkötését a tőzsdén árjegyzési stratégiát követő összes befektetési szolgáltatóval és
+- b) olyan rendszerek fenntartását, amelyek biztosítják, hogy megfelelő számú befektetési szolgáltató vegyen részt az a) pont szerinti megállapodásokban, amelyek előírják számukra kötelező érvényű, rendszeres és előre tervezhető likviditási kínálatot biztosító jegyzések közzétételét versenyképes árakon, amennyiben ez a követelmény összhangban áll az adott tőzsdén történő kereskedés jellegével és méretével.
+
+(3) A (2) bekezdés a) pontja szerinti írásbeli megállapodás legalább az alábbiakat rögzíti:
+
+- a) a befektetési szolgáltató likviditás biztosítására vonatkozó kötelezettségeit, és adott esetben a (2) bekezdés b) pontjában meghatározott rendszerben való részvételből adódó bármely egyéb kötelezettséget és
+- b) a befektetési szolgáltatók számára kedvezményeken keresztül vagy más formában a tőzsde által kínált, a likviditás rendszeres és előre tervezhető biztosítására irányuló ösztönzőket, és adott esetben a (2) bekezdés b) pontjában meghatározott rendszerben való részvételből következően a befektetési szolgáltatót illető bármely jogot.
+
+(4) A tőzsde előírja és nyomon követi a (2) bekezdés a) pontja szerinti írásbeli megállapodások követelményeinek befektetési szolgáltatók általi teljesítését. A tőzsde értesíti a Felügyeletet a kötelező írásbeli megállapodás tartalmáról, és a Felügyelet kérésére minden további tájékoztatást megad a (3) bekezdésben és e bekezdésben foglalt követelmények ellenőrzése céljából.
+
+(5) A tőzsde által alkalmazott eljárás és rendszer biztosítja az olyan megbízások elutasítását, amelyek meghaladnak előre meghatározott volumeneket vagy árküszöböket, vagy egyértelműen tévesek.
+
+(6) A tőzsde rendszerei biztosítják a kereskedés ideiglenes leállításának vagy korlátozásának lehetőségét, ha egy tőzsdei termék árában az adott tőzsdén vagy egy kapcsolódó kereskedési helyszínen, illetve rendszeres internalizáló esetén rövid időn belül jelentős változás következett be, valamint – kivételes, a tőzsdei szabályzatban meghatározott esetekben és eljárás szerint – bármely ügylet törlését, megváltoztatását vagy korrigálását. A tőzsde a kereskedés leállítására vonatkozó paraméterek megállapítása során figyelembe veszi a különböző eszközosztályok és -alosztályok likviditását, a piaci modellek jellegét és a felhasználók típusait, és biztosítja a kereskedés szabályszerűségében bekövetkező jelentős zavarok elkerülését.
+
+(7) A tőzsde a kereskedés leállítására vonatkozó paramétereket és az azokban végrehajtott lényeges változásokat következetes és összehasonlítható módon jelenti a Felügyeletnek, és a Felügyelet jelenti azokat az Európai Értékpapír-piaci Hatóságnak.
+
+(8) Ha egy adott pénzügyi eszköz likviditása tekintetében lényeges szabályozott piacnak minősül a tőzsde, és a kereskedést leállítja, a tőzsde a megfelelő rendszerekkel és eljárásokkal rendelkezik arra vonatkozóan, hogy értesítse a Felügyeletet és az Európai Unió tagállamaiban hatáskörrel rendelkező érintett felügyeleti hatóságokat
+
+- a) az egész piacra kiterjedő válaszintézkedés összehangolása céljából és
+- b) annak eldöntése érdekében, hogy a pénzügyi eszközzel kereskedő más helyszíneken is célszerű-e leállítani a kereskedést mindaddig, amíg az eredeti piacon a kereskedés nem folytatódik.
+
+(9) A tőzsde által alkalmazott eljárás és rendszer – ideértve a tőzsdei kereskedők arra való kötelezését, hogy végezzék el az algoritmusok megfelelő tesztelését, és biztosítsanak megfelelő környezetet az ilyen tesztelés elvégzésének megkönnyítéséhez – hatékonyan biztosítja, hogy
+
+- a) az algoritmikus kereskedés rendszerei ne hozhassanak létre rendellenes kereskedési feltételeket a piacon vagy ne járuljanak hozzá ilyen feltételek kialakulásához, és
+- b) kezelni tudja az algoritmikus kereskedési rendszerek által előidézett rendellenes kereskedési feltételeket.
+
+(10) A (9) bekezdés szerinti algoritmikus kereskedési rendszer az olyan rendszert is magában foglalja, amely lehetővé teszi
+
+- a) a nem végrehajtott megbízások arányának korlátozását a rendszerben egy tőzsdei kereskedő által megkötött ügyletekhez képest,
+- b) a megbízások áramlásának korlátozását, ha fennáll a rendszer határkapacitása elérésének kockázata, valamint
+- c) a piacon végrehajtható legkisebb árlépésköz kialakítását és betartatását.
+
+(11) A tőzsde közvetlen elektronikus hozzáférés nyújtását befektetési szolgáltatónak engedélyezi. A tőzsde által alkalmazott eljárás és rendszer a tőzsde szabályzatában meghatározott feltételek szerint hatékonyan biztosítja
+
+- a) e szolgáltatást igénybe vevők alkalmasságának megállapításához megfelelő kritériumok megállapítását és alkalmazását, és
+- b) a befektetési szolgáltató felelősségvállalását az ilyen szolgáltatás felhasználásával végrehajtott megbízásokért és kötésekért e törvény és a kapcsolódó jogszabályok tekintetében.
+
+(12) A tőzsde a (11) bekezdés szerinti szabályzatában megfelelő kritériumokat állapít meg a közvetlen elektronikus hozzáférésekre vonatkozó kockázatellenőrzésekre és kereskedési küszöbértékekre, amely alapján a tőzsde képes megkülönböztetni, szükség esetén pedig leállítani a közvetlen elektronikus hozzáférést alkalmazó személy megbízásait vagy kereskedését, elkülönítve a befektetési szolgáltató egyéb megbízásaitól vagy kereskedésétől.
+
+(13) A tőzsde megfelelő eljárásokkal rendelkezik arra vonatkozóan, hogy a (11) és (12) bekezdés be nem tartása esetén a tőzsdei kereskedő által az ügyfél számára biztosított közvetlen elektronikus hozzáférést felfüggessze vagy beszüntesse.
+
+(14) A tőzsde gondoskodik a közös ügyintézési helyről végzett szolgáltatások (co-location services) szabályainak átláthatóságáról, tisztességességéről és megkülönböztetés-mentességéről.
+
+(15) A tőzsde – szabályzatában meghatározott módon – biztosítja a díjstruktúráinak átláthatóságát, tisztességességét és megkülönböztetés-mentességét, beleértve a végrehajtási díjakat, kiegészítő díjakat és kedvezményeket is. A díjstruktúrák nem ösztönözhetik a megbízások oly módon történő kiadását, módosítását vagy törlését, hogy az hozzájáruljon a rendellenes kereskedési feltételekhez vagy a piaci visszaéléshez. A tőzsde a megadott kedvezményekért cserébe árjegyzési kötelezettséget ír elő egyes részvényekre vagy arra alkalmas részvénycsomagokra.
+
+(16) A tőzsde a törölt megbízásokra vonatkozó díjait a megbízások fenntartásának időtartamához, valamint az érintett pénzügyi eszközökhöz igazíthatja. A tőzsde a végrehajtott megbízásokhoz képest magasabb díjat számíthat fel a későbbiekben törölt megbízások beadásáért, és a rendszer kapacitására nehezedő többletterhelés figyelembevétele érdekében magasabb díjat számíthat fel a végrehajtott megbízásokhoz képest nagyszámú törölt megbízást beadó tőzsdei kereskedők, valamint a nagysebességű algoritmikus kereskedési technikát alkalmazók számára.
+
+(17) A tőzsde a tőzsdei kereskedők által történő megjelölés révén képes azonosítani az algoritmikus kereskedés keretében létrejött megbízásokat, a megbízások létrehozásához használt különböző algoritmusokat és a megbízásokat kezdeményező személyeket. Ezt az információt kérésre elérhetővé teszi a Felügyelet számára.
+
+(18) A tőzsde a Felügyelet számára annak kérésére hozzáférhetővé teszi az ajánlati könyvet vagy az azzal kapcsolatos adatokat a kereskedés figyelemmel kísérése érdekében.
+
+### Árlépésközök
+
+316/B. § (1) A tőzsde a részvények, letéti igazolások, tőzsdei kereskedésben részt vevő alapok, certifikátok és más, hasonló pénzügyi eszközök vonatkozásában árlépésköz-rendszereket fogad el.
+
+(2) Az (1) bekezdésben említett árlépésköz-rendszer tükrözi a pénzügyi eszköz likviditási profilját a különböző piacokon, valamint az eladási és vételi ajánlatok átlagos különbségét (bid-ask spread), figyelembe véve az észszerűen stabil árak lehetővé tételét, a különbség további szűkülésének indokolatlan korlátozása nélkül azzal, hogy az egyes pénzügyi eszközök sajátosságainak megfelelően határozandó meg.
+
+### Az üzleti órák összehangolása
+
+316/C. § A tőzsde, valamint a tőzsdei kereskedők összehangolják valamennyi jelentendő esemény dátumának és idejének rögzítésére alkalmazott üzleti óráikat.
+
 ### A tőzsde szabályzatai
 
-317. § (1) A tőzsde – törvény által meghatározott keretek között – szabályzatban határozza meg a tevékenységére vonatkozó általános szabályokat, valamint a tőzsdei kereskedőkre és kibocsátókra vonatkozó jogokat és kötelezettségeket. A tőzsde által alkalmazott eljárásnak, rendszernek és megoldásnak biztosítania kell minden, a tőzsdére vonatkozó jogszabályban és a tőzsde szabályzatában foglalt előírás teljesülését, ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az ellenőrizhetőség biztosítását is.
+317. § (1) A tőzsde – törvény által meghatározott keretek között – szabályzatban határozza meg a tevékenységére vonatkozó általános szabályokat, valamint a tőzsdei kereskedőkre és kibocsátókra vonatkozó jogokat és kötelezettségeket. A tőzsde által alkalmazott eljárásnak, rendszernek és megoldásnak biztosítania kell minden, a tőzsdére vonatkozó jogszabályban és a tőzsde szabályzatában foglalt előírás teljesülését, ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az ellenőrizhetőség, valamint az ehhez szükséges források biztosítását is.
 
 (2) A tőzsde szabályzatainak elfogadására és módosítására kizárólag az igazgatóság jogosult. A (4) bekezdés c) és e) pontjaiban meghatározott szabályzatok elfogadása vagy módosítása előtt az igazgatóság köteles kikérni a tőzsdei kereskedők, illetve, ha a d) pontban meghatározott szabályzat értékpapírra vonatkozik, a tőzsdére bevezetett értékpapírok kibocsátóinak vagy azok szakmai szervezetének véleményét.
 
 (3) A tőzsdei szabályzatoknak biztosítaniuk kell, hogy
 
-- a) a tőzsde a működésével összefüggésben felmerülő kockázatok kezelésére, csökkentésére megfelelő rendszereket és megoldásokat alkalmazzon, valamint
-- b) a piac általános érdekeinek megfelelően a tőzsdei tevékenység, a kereskedés és az ezekről szóló információ átlátható és ellenőrizhető legyen, ezáltal teremtve meg a kereskedésben részt vevők esélyegyenlőségét, egyenlő elbírálását és a befektetők objektív piaci védelmét.
+- a) a tőzsde a működésével összefüggésben felmerülő kockázatok kezelésére, csökkentésére megfelelő rendszereket és megoldásokat alkalmazzon,
+- b) a piac általános érdekeinek megfelelően a tőzsdei tevékenység, a kereskedés és az ezekről szóló információ átlátható és ellenőrizhető legyen, ezáltal teremtve meg a kereskedésben részt vevők esélyegyenlőségét, egyenlő elbírálását és a befektetők objektív piaci védelmét,
+- c) a tőzsde hatékony mechanizmusokkal segítse elő a rendszereiben végrehajtott ügyletek hatékony és határidőben történő véglegesítését, valamint
+- d) a tőzsde figyelemmel kísérje a tőzsdei kereskedők által a rendszereik keretében elküldött megbízásokat és törléseket, illetve az általuk végrehajtott ügyleteket annak érdekében, hogy azonosítsák a szabályok megsértését, a szabálytalan kereskedési feltételeket, az 596/2014/EU rendelet által tiltott magatartásra utaló magatartást vagy a rendszer zavarait valamely tőzsdei termékkel kapcsolatban.
 
 (4) A tőzsde szabályzatában meg kell határozni:
 
@@ -2608,9 +2751,17 @@ tevékenység.
 - e) a kereskedés felfüggesztésének szabályait és eljárási rendjét;
 - f) az árfolyam és az egyéb tőzsdei információ nyilvánosságra hozatalának módját;
 - g) a tőzsdei kereskedők, a tőzsdére bevezetett értékpapírok kibocsátói adatszolgáltatásának tartalmát, módját és ellenőrzésének rendjét;
-- h)
+- h) a tőzsdei kereskedési rendszer technikai működésének megalapozott irányítására vonatkozó szabályokat, ideértve az előre nem látható események hatékony kezelésére vonatkozó megoldásokat is, annak érdekében, hogy a tőzsde csökkentse a rendszerleállás kockázatát,
 - i) a tőzsde, a tőzsde tulajdonosai vagy működtetője érdekei és a tőzsde stabil működése között potenciálisan felmerülő összeférhetetlenség kezelésére vonatkozó szabályokat, továbbá a tőzsde vezető állású személyeire és alkalmazottaira vonatkozó összeférhetetlenségi szabályokat;
 - j) a tőzsde által a szolgáltatást igénybe vevők részére felszámított díjakat.
+
+(4a) A tőzsdei kereskedési jogra vonatkozó szabályzatokban megjelölt kötelezettségek megállapítása során legalább a következőket kell figyelembe venni:
+
+- a) tőzsde létesítő okirata és működési rendje,
+- b) tőzsdei ügyletekre vonatkozó szabályok,
+- c) a tőzsdén működő befektetési szolgáltatók alkalmazottaira vonatkozó szakmai előírások,
+- d) a nem befektetési szolgáltatóként működő tőzsdei kereskedőkre a 312. § (1) bekezdés a)–d) pontjaiban megállapított követelmények,
+- e) tőzsdei ügylet elszámolásának és teljesítésének szabályai és eljárásai.
 
 (5) A (4) bekezdés c) pontjában meghatározott szabályoknak biztosítaniuk kell a tőzsdei kereskedők számára az elszámolási rendszer megválasztásának jogát, feltéve ha
 
@@ -2633,12 +2784,7 @@ tevékenység.
 
 (11) A tőzsde szabályzata – a tőzsdei kereskedő, a kibocsátó, a befektető által – bíróság előtt megtámadható, ha az e törvény vagy más jogszabály előírásaival ellentétes.
 
-(12) A szabályozott piacnak
-
-- a) a (4) bekezdés d) pontjában foglaltak szabályozása esetén alkalmaznia kell a Bizottság 1287/2006/EK rendeletének V. fejezetében,
-- b) a (4) bekezdés f) pontjában foglaltak szabályozása esetén alkalmaznia kell a Bizottság 1287/2006/EK rendeletének IV. fejezetében
-
-foglaltakat.
+(12)
 
 (13) A tőzsde szabályzatában előírhatja, hogy a tőzsdei termék bevezetésének és forgalomban tartásának feltétele, hogy a kibocsátó jó üzleti hírnévvel rendelkezzen; ennek előírása esetén a tőzsde köteles szabályzatában meghatározni, hogy a jó üzleti hírnév fennállása milyen módon igazolható azzal, hogy az MNBtv. 39. § (1) bekezdés c), i), l) és m) pontja szerinti törvények hatálya alá tartozó szervezetek esetében a vizsgálat és az igazolás nem szükséges, mivel az a Felügyelet eljárásának a részét képezi.
 
@@ -2648,15 +2794,57 @@ foglaltakat.
 
 (16) Ha a tőzsde a tőzsdei termék forgalomban tartásának ideje alatt megállapítja, hogy a kibocsátó esetében a (14) bekezdés szerinti feltételek már nem állnak fenn, felszólítja a kibocsátót, hogy 45 napon belül intézkedjen a (14) bekezdés szerinti feltételek helyreállításáról, a jogsértő állapot megszüntetéséről. A kibocsátónak a felszólítás kézhez vételétől számított 10 napon belül igazolnia kell, hogy a (14) bekezdés szerinti feltételek helyreállítása érdekében teendő intézkedéseket megkezdte. A (14) bekezdés szerinti feltételek helyreállítására vagy az igazolásra nyitva álló határidő eredménytelen eltelte esetén a jó üzleti hírnév hiányát állapíthatja meg a tőzsde.
 
+317/A. § (1) Ha a piacműködtető olyan szabályozott piacot működtet, amelyen árualapú származtatott termékekkel kereskednek, pozíciókezelési kontrollmechanizmust alkalmaz.
+
+(2) A pozíciókezelési kontrollmechanizmus legalább az alábbi hatásköröket foglalja magában:
+
+- a) a tőzsdei kereskedők és ügyfelek nyitott pozícióinak nyomon követése,
+- b) hozzáférés a tőzsdei kereskedőktől és ügyfelektől származó mindazon információkhoz – így többek között minden dokumentumhoz is –, amelyek a vállalt pozíció vagy kitettség nagyságára és rendeltetésére vonatkoznak, továbbá a tényleges tulajdonosokra, bármely együttes fellépéssel kapcsolatos megegyezésre, valamint az alapul szolgáló eszközök piacán meglévő bármely kapcsolódó eszközre vagy kötelezettségre vonatkozó információkhoz,
+- c) egy adott tőzsdei kereskedő, illetve ügyfél kötelezése arra, hogy – a konkrét esettől függően ideiglenesen vagy tartósan – lezárja vagy csökkentse pozícióját, és a megfelelő intézkedés egyoldalú megtétele a lezárás vagy a csökkentés biztosítása érdekében, amennyiben az adott tőzsdei kereskedő, illetve ügyfél nem tesz eleget a felszólításnak, valamint
+- d) adott esetben a tőzsdei kereskedő, illetve ügyfél kötelezése arra, hogy megállapodás szerinti áron és mértékben ideiglenesen, a jelentős vagy domináns pozíciójából fakadó hatások mérséklésének kifejezett szándékával irányítson vissza likviditást a piacra.
+
+(3) A pozíciókezelési kontrollmechanizmusnak átláthatónak és megkülönböztetés-mentesnek kell lennie, meghatározva, hogy hogyan alkalmazandó az érintett tőzsdei kereskedőkre és ügyfelekre, valamint figyelembe véve a piaci szereplők jellegét és összetételét és azt, hogy hogyan használják a kereskedésbe bevont ügyleteket.
+
+(4) A szabályozott piacot működtető piacműködtetőnek részletesen tájékoztatnia kell a Felügyeletet az általa alkalmazott pozíciókezelési kontrollmechanizmusról.
+
+317/B. § (1) Ha a piacműködtető olyan szabályozott piacot működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységekkel vagy azok származtatott eszközeivel kereskednek, heti jelentést hoz nyilvánosságra a szabályozott piacon kereskedett árualapú származtatott termékekre, kibocsátási egységekre vagy azok származtatott eszközeire vonatkozóan a személyek különböző kategóriái szerint összesített pozíciókról, megjelölve a hosszú és rövid pozíciók e kategóriák szerinti számát, az előző jelentés óta abban bekövetkezett változásokat, az összes nyitott pozíció százalékos arányát kategóriánként és a pozícióbirtokosok számát kategóriánként. A kategóriánkénti bontást a (4) bekezdésnek megfelelően kell értelmezni.
+
+(2) Az (1) bekezdés szerinti heti jelentésre vonatkozó kötelezettséget csak abban az esetben kell teljesíteni, ha a személyek száma és a nyitott pozícióik mértéke meghaladja a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletének 83. cikkében meghatározott minimális küszöbértékeket. Ez esetben a heti jelentést a Felügyeletnek és az Európai Értékpapír-piaci Hatóságnak is meg kell küldeni.
+
+(3) Ha a piacműködtető olyan szabályozott piacot működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységekkel vagy azok származtatott eszközeivel kereskednek, a Felügyeletnek legalább naponta egyszer átadja az adott szabályozott piacon jelen lévő összes személy – többek között a szabályozott piac tagjai és azok ügyfelei – pozícióinak teljes körű bontását.
+
+(4) A valamely árualapú származtatott termékben vagy kibocsátási egységben vagy annak származtatott eszközében pozícióval rendelkező személyeket a szabályozott piacot működtető piacműködtetőnek a főtevékenységük jellegének megfelelően és az esetleges vonatkozó engedélyeket figyelembe véve, az alábbiak szerint kell csoportosítania:
+
+- a) befektetési vállalkozások vagy hitelintézetek,
+- b) a Kbftv. szerinti befektetési alapok,
+- c) egyéb pénzügyi intézmények, ideértve a Bit. szerinti biztosítókat és viszontbiztosítókat és a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény szerinti foglalkoztatói nyugdíjszolgáltató intézményeket,
+- d) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló Európai Parlament és Tanács 2012. július 4-ei 648/2012/EU rendelet 2. cikk 8. pontjában meghatározott nem pénzügyi szerződő felek,
+- e) a kibocsátási egységek vagy azok származtatott termékei esetében az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti üzemeltetők.
+
+(5) Az (1) és a (3) bekezdésben említett bontásokban meg kell különböztetni:
+
+- a) az olyan pozíciókat, amelyekre vonatkozóan megállapították, hogy objektíven mérhető módon csökkentik a közvetlenül a kereskedelmi tevékenységekkel kapcsolatos kockázatokat, valamint
+- b) egyéb pozíciókat.
+
+(6) Az (1) és (3) bekezdésnek való megfelelés lehetővé tétele érdekében a szabályozott piac tagjai a piacműködtetőnek legalább naponta bejelentik saját maguk, valamint ügyfeleik által és azok ügyfelei által – a végső ügyfél eléréséig – az adott szabályozott piacon végrehajtott ügyletek révén tartott pozíciók adatait.
+
 318. § (1) A tőzsde szabályzatainak érvényességéhez – a 317. § (4) bekezdésének j) pontja szerinti szabályzat kivételével – a Felügyelet jóváhagyása szükséges.
 
 (2) A Felügyelet a jóváhagyást akkor tagadja meg, ha a szabályzat nem felel meg e törvény vagy más jogszabály, illetve más tőzsdei szabályzat rendelkezésének, vagy ellentétes a központi szerződő fél, illetve a központi értéktár szabályzatával.
 
 (3) A tőzsde szabályzatai, illetve azok módosításai a 317. § (10) bekezdése szerinti nyilvánosságra hozatalt követően alkalmazhatók.
 
+(4) A tőzsde a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 81. és 82. cikkében meghatározottak figyelembevételével haladéktalanul értesíti a Felügyeletet, ha szabályai jelentős megsértését, szabálytalan kereskedési feltételeket, az 596/2014/EU rendelet által tiltott magatartásra utaló magatartást vagy rendszerzavarokat tapasztal valamely tőzsdei termékkel kapcsolatban.
+
+(5) A Felügyelet haladéktalanul továbbítja a (4) bekezdésben meghatározott információt az Európai Értékpapír-piaci Hatóság és az Európai Unió más tagállamainak hatáskörrel rendelkező felügyeleti hatóságai számára. Az értesítés előtt a Felügyelet meggyőződik az 596/2014/EU rendelet által tiltott magatartásra utaló magatartás valódiságáról.
+
+(6) A tőzsde indokolatlan késedelem nélkül eljuttatja a vonatkozó információkat a piaci visszaélésekkel kapcsolatos vizsgálat és vádemelés tekintetében hatáskörrel rendelkező hatósághoz, és támogatja az erre vonatkozó hatósági eljárásokat.
+
 ### XXXVI/A. Fejezet — KISZERVEZÉS
 
 318/A. § (1) A tőzsde – a (2)–(5) bekezdésben, valamint a 318/B. és 318/C. §-ban foglaltakra figyelemmel – tőzsdei tevékenységét, tőzsdei tevékenységet segítő kiegészítő tevékenységét, a Bszt. 5. § (1) bekezdés h) pontja szerinti multilaterális kereskedési rendszer működtetése tevékenységét vagy bármely e törvény hatálya alá nem tartozó tevékenységét vagy szolgáltatását kiszervezheti.
+
+(1a) E Fejezet kiszervezést érintő rendelkezéseitől eltérően az algoritmikus kereskedést engedő vagy lehetővé tévő rendszerekkel összefüggésben történő kiszervezés során a 2014/65/EU európai parlamenti és tanácsi irányelvnek a kereskedési helyszínekre vonatkozó szervezeti követelményeket meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2017/584 felhatalmazáson alapuló rendelete alkalmazandó.
 
 (2) A kiszervezés
 
@@ -2742,33 +2930,25 @@ foglaltakat.
 
 ### XXXVIII. Fejezet — A TŐZSDEI FORGALOM ELSZÁMOLÁSA
 
-324. § (1) A tőzsde a tőzsdei ügylet elszámolása tekintetében központi értéktárral, illetve központi szerződő féllel köteles szerződést kötni.
+324. § (1) A tőzsde a tőzsdei ügylet elszámolása tekintetében a 648/2012/EU rendelet előírásainak figyelembevételével központi értéktárral, illetve központi szerződő féllel köteles szerződést kötni.
 
 (2) Ha a tőzsdei ügylet tárgya értékpapír, akkor a tőzsde köteles központi értéktárral az ügylet teljesítésére szerződést kötni.
 
-### A tőzsdei forgalmazás felfüggesztése
+### A tőzsdei termékkel való kereskedés felfüggesztése és a tőzsdei termék kereskedésből való törlése
 
-325. § (1) A tőzsde szabályzatában meghatározott személy legfeljebb tíz tőzsdenapra felfüggesztheti meghatározott tőzsdei termék forgalmazását, ha a további forgalmazás nem biztosítja a rendezett, áttekinthető és tisztességes kereskedelmet, ha gyanú merül fel, hogy a kibocsátó megsérti a tájékoztatásra vonatkozó előírásokat, illetve a tőzsdei kereskedés elszámolása nem biztosított. Értékpapír tőzsdei forgalmazásának felfüggesztése esetén a felfüggesztésről történő döntésről a kibocsátót értesíteni kell.
+325. § (1) A tőzsde felfüggesztheti a tőzsdei termékkel történő kereskedést vagy törölheti a kereskedésből azt a tőzsdei terméket, amely nem felel meg a tőzsde szabályzatainak, kivéve, ha ez a felfüggesztés vagy törlés jelentősen sértené a befektetők érdekeit vagy a piac szabályos működését.
 
-(2) A tőzsde szabályzatában meghatározott személy által elrendelt három tőzsdenapot meghaladó felfüggesztéshez a Felügyelet előzetes hozzájárulása szükséges.
+(2) A felfüggesztést vagy törlést elrendelő tőzsde adott esetben felfüggeszti vagy törli a kereskedésből az adott tőzsdei termékhez kapcsolódó vagy azon mint alapterméken alapuló, a Bszt. 6. § d)–k) pontjában meghatározott származtatott eszközt (a továbbiakban: kapcsolódó származtatott eszköz) is. A tőzsde nyilvánosságra hozza a felfüggesztésre vagy törlésre vonatkozó határozatát, és tájékoztatja erről a Felügyelet.
 
-326. § (1) Meghatározott tőzsdei termékcsoport tőzsdei forgalmazását vagy a teljes tőzsdei forgalmazást a tőzsde szabályzatában meghatározott személy – a Felügyelet azonnali tájékoztatása mellett – legfeljebb egy tőzsdenapra felfüggesztheti, ha a forgalmazás fenntartása a befektetők jogos érdekeit, a piac egyensúlyát vagy a tőzsde működését veszélyezteti.
+(3) A további, kereskedésben érintett magyarországi székhelyű tőzsde is felfüggesztést vagy törlést ír elő a Felügyelet rendelkezéseinek megfelelően ugyanazon tőzsdei termék vagy a kapcsolódó származtatott eszköz vonatkozásában.
 
-(2) A Felügyelet meghatározott tőzsdei termékcsoport tőzsdei forgalmazását vagy a teljes tőzsdei forgalmazást határozott időre felfüggesztheti, ha az általános pénzügyi, gazdasági, politikai helyzet nem teszi lehetővé, hogy a tőzsdei forgalom rendezett és áttekinthető legyen, és ezáltal nem tartható fenn a folyamatos és tisztességes tőzsdei forgalmazás.
+(4) A magyarországi székhelyű tőzsde is felfüggesztést vagy törlést ír elő a Felügyelet rendelkezéseinek megfelelően azon tőzsdei termékre vagy kapcsolódó származtatott eszközre, amelyre vonatkozóan más EU tagállam hatáskörrel rendelkező felügyeleti hatósága bármely kereskedési helyszínen vagy rendszeres internalizáló vonatkozásában felfüggesztést vagy törlést rendelt el.
 
-327. § (1) A tőzsde igazgatósága vagy a Felügyelet legfeljebb harminc napra felfüggesztheti meghatározott tőzsdei termék tőzsdei forgalmazását, ha a további forgalmazás nem biztosítja a rendezett, áttekinthető és tisztességes tőzsdei kereskedelmet, veszélyezteti a befektetők esélyegyenlőségét, jogos érdekeit, illetve a piac egyensúlyát, valamint ha a tőzsdei kereskedés elszámolása nem biztosított. A tőzsde igazgatósága által elrendelt felfüggesztéshez a Felügyelet jóváhagyása szükséges, ha az a három napot meghaladja.
+(5) E Fejezet rendelkezései megfelelően alkalmazandók a felfüggesztés visszavonása esetén.
 
-(2) A tőzsde igazgatósága vagy a Felügyelet az (1) bekezdésben meghatározott felfüggesztést ismételten, de legfeljebb két alkalommal, harminc-harminc napra is elrendelheti, ha a felfüggesztésre okot adó körülmény továbbra is fennáll.
+(6) A befektetők érdekeit vagy a piac szabályos működését jelentősen sértő körülmények meghatározása a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 80. cikkében foglaltak figyelembevételével történik.
 
-(3) A Felügyelet felfüggeszti valamely értékpapír tőzsdei forgalmazását a jogsértő állapot megszüntetéséig, ha a kibocsátó megsérti az értékpapírok nyilvános forgalomba hozatalára, illetve a tájékoztatásra vonatkozó előírásokat.
-
-(4) A Felügyelet a magyarországi székhelyű szabályozott piacon és multilaterális kereskedési rendszeren felfüggeszti a kereskedését vagy törli a kereskedésből az olyan pénzügyi eszközt, amely kereskedését felfüggesztette vagy amelyet a kereskedésből törölt másik tagállam illetékes hatósága, kivéve, ha ez jelentős mértékben sértené a befektetők érdekeit vagy a belső piac rendezett működését.
-
-328. § A teljes tőzsdei forgalmazást érintő, tíz tőzsdenapnál hosszabb időtartamú felfüggesztéshez a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter (a továbbiakban: miniszter) jóváhagyása szükséges.
-
-329. § (1) A tőzsde, illetve a Felügyelet a felfüggesztésre vagy a kereskedés visszaállítására vonatkozó döntéséről haladéktalanul értesíti a másik felet és döntését a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozza. A Felügyelet a felfüggesztésről vagy a kereskedés visszaállításáról értesíti a többi tagállam illetékes hatóságait és az Európai Értékpapír-piaci Hatóságot.
-
-(2) Ha a felfüggesztésre okot adó körülmény megszűnt, a felfüggesztést elrendelő haladéktalanul köteles intézkedni a forgalmazás visszaállítása iránt. Ha a felfüggesztést a tőzsde rendelte el és a forgalmazás visszaállítása iránt indokolatlanul nem intézkedik, a Felügyelet az intézkedést határozattal pótolja.
+326–329. §
 
 ### XXXIX. Fejezet — A TŐZSDE GAZDÁLKODÁSA, BEFEKTETÉSI KORLÁTOZÁSOK
 
@@ -2784,17 +2964,17 @@ foglaltakat.
 
 (6) A tőzsde nem szerezhet olyan részesedést, illetőleg nem létesíthet olyan tagsági viszonyt vállalkozásban, amely esetben a vállalkozás tartozásaiért a részesedés mértékére való tekintet nélkül korlátlanul felel.
 
+(7) A tőzsde saját tőkéje nem csökkenhet a jegyzett tőke alá a tőzsde alapításának engedélyezésétől számított második évtől kezdődően.
+
 ### XL. Fejezet — A TŐZSDE MŰKÖDÉSÉNEK NYILVÁNOSSÁGA
 
 331. § (1) A tőzsde a tőzsdei kereskedők és a befektetők tájékoztatása érdekében köteles biztosítani a tőzsdei adatok nyilvánosságát. A nyilvánossá tétel a tőzsde vagy vele szerződéses kapcsolatban álló más szervezet által történhet.
 
 (2) A tőzsde jogosult a tőzsdei adat – szabályzatában meghatározott időn, de legfeljebb húsz percen belüli – átadásáért ellenértéket kérni olyan módon, hogy az információért kért ár mértéke ne akadályozza meg a tőzsdei adathoz való hozzáférést (ésszerű üzleti alapon való közzététel követelménye). A szabályzatban meghatározott időt követően a tőzsdei adat bárki által szabadon felhasználható.
 
-(3) A szabályozott piacnak a kereskedés előtti és utáni átláthatóság biztosítása érdekében alkalmaznia kell a Bizottság 1287/2006/EK rendeletének IV. fejezetében foglaltakat.
+(3)
 
-(4) A Felügyelet felmentést adhat a tőzsde (1) bekezdésben említett – a tőzsdei adatok nyilvánosságra hozatalára vonatkozó – kötelezettsége vonatkozásában, ha a piaci modell vagy a megbízások típusa és nagyságrendje alapján a Bizottság 1287/2006/EK rendeletében foglalt feltételek indokolttá teszik.
-
-(5) A Felügyelet engedélyezheti a tőzsdére bevezetett részvényekkel folytatott ügyletek adatainak halasztott közzétételét, ha ezt az ügylet típusa vagy mérete alapján a Bizottság 1287/2006/EK rendeletében foglalt feltételek indokolttá teszik. Ezen engedély feltétele, hogy a tőzsde a halasztott közzétételre vonatkozó szabályait jóváhagyásra benyújtsa a Felügyeletnek, valamint a szabályokat saját honlapján nyilvánosságra hozza.
+(4)–(5)
 
 332. § (1) A tőzsde a Felügyeletnek köteles bejelenteni és a bejelentéssel egyidejűleg a Felügyelet által üzemeltetett honlapon és a saját honlapján nyilvánosságra hozni
 
@@ -3004,7 +3184,7 @@ foglaltakat.
 
 ### Könyvvizsgálat
 
-358. § (1) A tőzsde, a központi szerződő fél, illetve a központi értéktár által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló (könyvvizsgáló cég) részére adható megbízás, amely rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.
+358. § (1) A tőzsde, a nem befektetési szolgáltató tőzsdei kereskedő, a központi szerződő fél, illetve a központi értéktár által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálóra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező könyvvizsgáló (könyvvizsgáló cég) részére adható megbízás, amely rendelkezik pénzügyi intézményi vagy befektetési vállalkozási minősítéssel.
 
 (2) A szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálókra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég részére adható megbízás, amely rendelkezik kibocsátói minősítéssel.
 
@@ -3382,7 +3562,11 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - t) ha a forgalomba hozatali eljárás lezárásáig olyan tény vagy körülmény jut a tudomására, amely alapján a tájékoztató közzétételének engedélyezését meg kellett volna tagadni, vagy az a befektetői érdekeket súlyosan sérti, a Felügyelet a tájékoztató közzétételéhez adott engedélyét visszavonja és határidő kitűzésével kötelezi a kibocsátót, valamint a forgalmazót a forgalomba hozatali folyamat leállítására;
 - u) az e törvényben előírt tájékoztatási kötelezettség elmulasztása esetén a közzétenni elmulasztott információt a 34. §-ban foglaltak szerint, a mulasztó költségén nyilvánosságra hozza,
 - v) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 4. és 9-11. cikkében előírt kötelezettség megsértése esetén a kötelezettségének teljesítését elmulasztó személyt vagy szervezetet figyelmezteti, illetve – ha szükséges – a kötelezettségének való megfelelésre felszólítja,
-- w) az V. Fejezetben foglalt tájékoztatási kötelezettségek megsértése esetén a tájékoztatásra kötelezettel szemben 1. a jogsértés megállapítását követően a honlapján nyilvános közleményt tehet közzé a felelős tájékoztatásra kötelezett és a jogsértés jellegének megjelölésével, 2. megtilthatja a felelős tájékoztatásra kötelezett számára a jogsértést megvalósító magatartás folytatását vagy megismétlését, illetve 3. bírságot szabhat ki.
+- w) az V. Fejezetben foglalt tájékoztatási kötelezettségek megsértése esetén a tájékoztatásra kötelezettel szemben 1. a jogsértés megállapítását követően a honlapján nyilvános közleményt tehet közzé a felelős tájékoztatásra kötelezett és a jogsértés jellegének megjelölésével, 2. megtilthatja a felelős tájékoztatásra kötelezett számára a jogsértést megvalósító magatartás folytatását vagy megismétlését, illetve 3. bírságot szabhat ki,
+- x) bármely személytől kérheti, hogy tegyen lépéseket pozíciója vagy kitettsége nagyságának csökkentésére,
+- y) előírhatja valamely természetes személy elmozdítását a piacműködtető vezető testületéből,
+- z) közleményt ad ki, amelyben megjelöli a jogsértésért felelő személyt és a jogsértés természetét,
+- zs) határozattal megállapítja a jogsértés tényét, és egyben elrendeli a jogsértő állapot megszüntetését, vagy megtiltja a jogszabályba ütköző magatartás további folytatását.
 
 (2)
 
@@ -3404,7 +3588,14 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (8) A Felügyelet az (1) bekezdés r) pont 1. alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a tőzsde, a központi szerződő fél, illetve a központi értéktár előírt tőkekövetelményeknek való megfelelése nem biztosított.
 
-(9)
+(9) A Felügyelet a további, kereskedésben érintett magyarországi székhelyű tőzsdét is a kereskedés felfüggesztésére vagy törlésre kötelezi a Bszt. 149/B. § (1)–(2) bekezdésben meghatározott esetekben, illetve ha a tőzsde felfüggesztést vagy törlést ír elő meghatározott tőzsdei termék vagy kapcsolódó származtatott eszköz vonatkozásában e törvény rendelkezéseinek megfelelően. Erre piaci visszaélés gyanúja, nyilvános vételi ajánlat, illetve az 596/2014/EU rendelet 7. és 17. cikkét megsértő kibocsátóval vagy pénzügyi eszközzel kapcsolatos bennfentes információk közzétételének elmaradása miatt kerülhet sor, kivéve, ha a felfüggesztés vagy törlés jelentősen sértené a befektetők érdekeit vagy a piac szabályos működését. A Felügyelet haladéktalanul közzéteszi az erre vonatkozó határozatokat, valamint értesíti az Európai Értékpapír-piaci Hatóságot és más tagállam hatáskörrel rendelkező felügyeleti hatóságát.
+
+(10) A Felügyelet előírja a magyarországi székhelyű tőzsde részére azon pénzügyi eszköz vagy kapcsolódó származtatott eszköz kereskedésének felfüggesztését vagy kereskedésből való törlését, amelyre vonatkozóan más EU tagállam hatáskörrel rendelkező felügyeleti hatósága bármely kereskedési helyszínen vagy rendszeres internalizáló vonatkozásában felfüggesztést vagy törlést rendelt el a (9) bekezdésben meghatározott okok miatt, kivéve, ha ez jelentős mértékben sértené a befektetők érdekeit vagy a piac szabályos működését. A Felügyelet az erre vonatkozó határozatról értesíti az Európai Értékpapír-piaci Hatóságot és a más EU tagállam hatáskörrel rendelkező felügyeleti hatóságát. Ha a Felügyelet a további magyarországi székhelyű tőzsde esetében nem írja elő a felfüggesztést vagy a törlést, az értesítést a Felügyelet erre vonatkozó indokolással kiegészíti.
+
+(11) A (9) és (10) bekezdésben meghatározott rendelkezések megfelelően alkalmazandók:
+
+- a) a felfüggesztés visszavonása esetén és
+- b) az értesítési eljárás vonatkozásában a Felügyelet által alkalmazott, az (1) bekezdés h) és i) pontjai szerinti szankciókra vonatkozó határozatok esetén.
 
 ### A felügyeleti biztos
 
@@ -3466,6 +3657,8 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 
 (3) A Felügyelet közvetlenül is intézkedhet a Magyarországon hatályos előírások megsértése esetén, illetve abban az esetben, ha úgy ítéli meg, hogy a szabályellenes helyzet fennállása súlyosan veszélyezteti a tőkepiac stabilitását, illetve az ügyfelek érdekeit. Ezekről az intézkedésekről a Felügyelet tájékoztatja a Bizottságot és az érintett tagállamok hatáskörrel rendelkező felügyeleti hatóságait. A Felügyeletnek a prudenciális szabályok megsértése esetén tett közvetlen intézkedéseit az Európai Bizottság felülvizsgálja, és annak jogosságát utólagosan mérlegeli.
 
+### Együttműködés az Európai Unió más tagállamának hatáskörrel rendelkező felügyeleti hatóságaival
+
 404/A. § (1) A Felügyelet együttműködik más tagállam hatáskörrel rendelkező felügyeleti hatóságával. Az együttműködés különösen a következő esetekre terjed ki:
 
 - a) valamely Magyarországon nyilvánosan forgalomba hozott értékpapír kibocsátója más értékpapírfajtát más tagállam hatáskörrel rendelkező felügyeleti hatóságának engedélyével hozott forgalomba;
@@ -3474,7 +3667,11 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - d) új típusú vagy ritkán előforduló értékpapírra vonatkozó tájékoztató, illetőleg hirdetmény közzétételére vonatkozóan nyújtanak be hozzá engedélykérelmet;
 - e) a nyilvánosan forgalomba hozott értékpapírokkal kapcsolatos tájékoztatási kötelezettség teljesítésére.
 
-(2) Az (1) bekezdésben meghatározott esetekben a Felügyelet e törvényben meghatározott feladatai ellátása érdekében információt adhat át más tagállam hatáskörrel rendelkező felügyeleti hatóságának, illetőleg információt vehet át más tagállam hatáskörrel rendelkező felügyeleti hatóságától a kibocsátóra, az értékpapírra, illetőleg más tagállam piacának sajátosságaira vonatkozóan.
+(2) Az (1) bekezdésben meghatározott esetekben a Felügyelet e törvényben meghatározott feladatai ellátása érdekében információt adhat át más tagállam hatáskörrel rendelkező felügyeleti hatóságának, illetőleg információt vehet át más tagállam hatáskörrel rendelkező felügyeleti hatóságától a kibocsátóra, az értékpapírra, a tőzsdei kereskedőkre, illetve más tagállam piacának sajátosságaira vonatkozóan.
+
+(3) A Felügyelet a 315. § (7) bekezdésben meghatározott információt a tőzsde tájékoztatását követő harminc napon belül továbbítja azon tagállam (e § rendelkezéseinek alkalmazása során: fogadó tagállam) hatáskörrel rendelkező felügyeleti hatóságának, amelyben a tőzsde a 315. § (7) bekezdésében meghatározott eljárást kívánja biztosítani.
+
+(4) A Felügyelet a fogadó tagállamban távoli részvétellel rendelkező tőzsdei kereskedők személyéről, a fogadó tagállam hatáskörrel rendelkező felügyeleti hatóságát annak kérésére, indokolatlan késedelem nélkül tájékoztatja.
 
 ### A felügyeleti bírság
 
@@ -3662,6 +3859,8 @@ a 909/2014/EU rendelet szerinti központi értéktári tevékenység – szakos�
 450/D. § (1) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvény (a továbbiakban: Módtv.) 56. § (1) bekezdésével megállapított 62. § (2a)–(2d) bekezdését, (2) bekezdésével megállapított 62. § (3a) és (3b) bekezdését a Módtv. hatálybalépését követően induló üzleti évben kell először alkalmazni.
 
 (2) A Módtv. 59. §-ával hatályon kívül helyezett 358. § (5) bekezdését a 2016. június 17-ét megelőzően induló üzleti évre vonatkozó jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre még alkalmazni kell.
+
+450/E. § A 2018. január 3. napja előtt engedélyezett valamely szabályozott piac vezető testületének tagját és ügyvezetőjét úgy kell tekinteni, mint aki megfelel a pénzügyi piacok működését és a pénzügyi eszközök kereskedését szabályozó törvények jogharmonizációs célú módosításáról szóló 2017. évi LXIX. törvénnyel megállapított 310/A. § (1) bekezdésében megállapított követelményeknek.
 
 ### Felhatalmazások
 
@@ -4083,6 +4282,8 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 
 18. a Nemzetközi Valutaalap,
 
+19. Nemzetközi Beruházási Bank,
+
 20. az Ázsiai Infrastrukturális Beruházási Bank.
 
 ### 24. számú melléklet a 2001. évi CXX. törvényhez
@@ -4102,13 +4303,13 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 7. A Bizottság 2003. december 22-i 2003/124/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek a bennfentes információ meghatározása és közzététele, valamint a piaci manipuláció meghatározása tekintetében történő végrehajtásáról.
 - 8. A Bizottság 2003. december 22-i 2003/125/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek a befektetési ajánlások tisztességes ismertetése és az összeférhetetlenség közzététele tekintetében történő végrehajtásáról.
 - 9. Az Európai Parlament és a Tanács 2004. április 21-i 2004/25/EK irányelve a nyilvános vételi ajánlatról.
-- 10. Az Európai Parlament és a Tanács 2004. április 21-i 2004/39/EK irányelve a pénzügyi eszközök piacairól, a 85/611/EGK és a 93/6/EGK tanácsi irányelv és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 93/22/EGK tanácsi irányelv hatályon kívül helyezéséről.
+- 10. Az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról.
 - 11. A Bizottság 2004. április 29-i 2004/72/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek az elfogadott piaci gyakorlatok, az árualapú származtatott ügyletekre vonatkozó bennfentes információ fogalom meghatározása, a bennfentesek jegyzékének összeállítása, a vezetői ügyletek bejelentése és a gyanús ügyletek bejelentése tekintetében történő végrehajtásáról.
 - 12. Az Európai Parlament és a Tanács 2004. december 15-i 2004/109/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról és a 2001/34/EK irányelv módosításáról.
 - 13. Az Európai Parlament és a Tanács 2006. május 17-i 2006/43/EK irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről.
 - 14. Az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a hitelintézetek tevékenységének megkezdéséről és folytatásáról (átdolgozott szöveg).
 - 15. Az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg).
-- 16. A Bizottság 2006. augusztus 10-i 2006/73/EK irányelve a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról.
+- 16. A 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet.
 - 17. A Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról.
 - 18. A tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet.
 - 19. Az Európai Parlament és a Tanács 2007. szeptember 5-i 2007/44/EK irányelve a 97/49/EGK tanácsi irányelvnek és a 2002/83/EK, a 2004/39/EK, a 2005/68/EK és a 2006/48/EK irányelvnek a pénzügyi szektorbeli részesedésszerzések és részesedésnövelések prudenciális értékelésének eljárási szabályai és az értékelés kritériumai tekintetében történő módosításáról.
@@ -4122,5 +4323,6 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 27. A piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet.
 - 28. Az 596/2014/EU európai parlamenti és tanácsi rendelet tényleges vagy lehetséges megsértésének illetékes hatóságoknak történő bejelentéséről szóló, 2015. december 17-i 2015/2392 bizottsági végrehajtási irányelv.
 - 29. Az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
+- 30. Az Európai Parlament és a Tanács 600/2014/EU rendelete (2014. május 15.) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez

@@ -12,29 +12,21 @@ egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatás
 
 5. § (1)
 
-(2) Az Átv. 20. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az elismerési eljárásban
-
-a) a kapcsolattartás írásban történik, valamint
-
-b) az ügyintézési határidő 150 nap.”
+(2)
 
 (3)
 
 6–11. §
 
-12. § Az Átv.
+12. §
 
 - a)
-- b) 20. § (4) bekezdésében a „szükséges,” szövegrész helyébe a „szükséges, a tenyésztési hatóság kormányrendeletben meghatározott szakértő szakvéleményét kéri,” szöveg,
+- b)
 - c)
-
-lép.
 
 #### 3. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-13. § Hatályát veszti a vízgazdálkodásról szóló 1995. évi LVII. törvény 33/B. § (1) bekezdésének b) pontja.
+13. §
 
 #### 4. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
@@ -46,9 +38,7 @@ lép.
 
 19. § (1)–(2)
 
-(3) Az Inytv. 26. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A kérelem a szerződő feleknek – a bejegyzés alapjául szolgáló okirattal megegyező alakisággal rendelkező – közös nyilatkozatával, az ingatlanügyi hatóság határozatának véglegessé válásáig visszavonható vagy módosítható. Ha a bejegyzés folytán harmadik személy vált volna jogosulttá, a kérelem visszavonásához vagy módosításához az ő hozzájárulása is szükséges.”
+(3)
 
 20–42. §
 
@@ -64,29 +54,17 @@ lép.
 
 57–118. §
 
-119. § Hatályát veszti a Tv.
+119. §
 
 - a)–m)
-- n) 62. § (1) bekezdés a), b) és f) pontja, (2) és (4) bekezdése,
+- n)
 - o)–p)
 
 #### 9. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
 120–126. §
 
-127. § A Tfvt. 26. § (4a) bekezdése helyébe a következő rendelkezés lép és a § a következő (4b) bekezdéssel egészül ki:
-
-„(4a) A határidőben meg nem fizetett járuléknak és bírságnak a (4) bekezdés szerinti nyilvántartásból való törléséhez a földügyért felelős miniszter hozzájárulása szükséges. A törléshez az ingatlanügyi hatóságnak a kormányhivatal útján felterjesztett kérelme alapján a földügyért felelős miniszter akkor járulhat hozzá, ha
-
-a) a fizetésre kötelezett szervezet jogutód nélkül megszűnt, vagy
-
-b) az adóhatóság igazolása alapján a határidőre meg nem fizetett járulék- és bírságtartozás miatt a fizetésre kötelezettel szemben indult végrehajtási eljárás
-
-ba) nem vezetett eredményre, illetve
-
-bb) a végrehajtáshoz való jog elévült.
-
-(4b) Az ingatlanügyi hatóságnak a (4a) bekezdés szerinti kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.”
+127. §
 
 128–145. §
 
