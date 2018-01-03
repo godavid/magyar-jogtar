@@ -589,7 +589,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 40. § (1) Az MNB a 39. § (3) bekezdésében meghatározott feladatai során ellátja a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet végrehajtását.
 
-(2) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a 2004/39/EK európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet végrehajtását.
+(2) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
 (3) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet végrehajtását.
 
@@ -626,6 +626,10 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 (19) Az MNB a 39. § (1) bekezdés o) pontjában meghatározott feladatai során ellátja a kártyaalapú fizetési műveletek bankközi jutalékairól szóló, 2015. április 29-i 2015/751/EU parlamenti és tanácsi rendelet végrehajtásából származó feladatokat.
 
 (20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
+
+(21) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet végrehajtását.
+
+(22) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet végrehajtását.
 
 (23) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet végrehajtását.
 
@@ -1033,6 +1037,21 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 
 #### 53/A. §
 
+53/B. § (1) Azt követően, hogy a szankcióval sújtott személy értesítést kapott a 600/2014/EU rendelet, illetve a Bszt. megsértéséért kiszabott szankciót vagy intézkedést elrendelő határozatról, az MNB minden ilyen határozatot indokolatlan késedelem nélkül közzétesz hivatalos honlapján. A közzététel legalább a jogsértés típusára és jellegére, valamint a felelős személy kilétére vonatkozó információt tartalmazza. Ez a kötelezettség nem alkalmazandó a vizsgálati jellegű intézkedéseket kiszabó határozatokra.
+
+(2) Ha a jogi személyek kilétének vagy a természetes személyek személyes adatainak a közzététele – az említett adatok közzétételének arányosságát vizsgáló eseti értékelés alapján – aránytalan, vagy a közzététel a pénzügyi piacok stabilitását vagy egy folyamatban lévő büntetőeljárást veszélyeztetné, és az 53. § (4) és (5) bekezdésében foglalt lehetőségek nem elégségesek annak biztosításához, hogy
+
+- a) a pénzügyi piacok stabilitása ne kerüljön veszélybe;
+- b) a kisebb jelentőségűnek tartott intézkedésekről szóló határozatok közzététele arányos legyen,
+
+az MNB dönthet úgy, hogy nem teszi közzé a szankciót vagy intézkedést elrendelő határozatot.
+
+(3) Az MNB a (2) bekezdéssel összhangban tájékoztatja az Európai Értékpapír-piaci Hatóságot az összes kiszabott, de közzé nem tett szankcióról, beleértve a szankciókkal kapcsolatos jogorvoslatokat és azok kimenetelét.
+
+(4) Az MNB minden évben összesítő tájékoztatást bocsát az Európai Értékpapír-piaci Hatóság rendelkezésére az (1) és (2) bekezdéssel összhangban kivetett valamennyi szankcióról és intézkedésről, a vizsgálati jellegű intézkedések kivételével.
+
+(5) Az MNB a közigazgatási intézkedés, szankció vagy büntetőjogi szankció nyilvánosságra hozataláról a nyilvánosságra hozatallal egyidejűleg értesíti az Európai Értékpapír-piaci Hatóságot.
+
 54. § (1) A közigazgatási ügyekben eljáró bíróság döntésének kihirdetését megelőzően az MNB a döntését a teljesítési határidő tekintetében hivatalból akkor is módosíthatja, ha az jogszabályt nem sért és az 55. § (1) bekezdésében foglalt feltételek nem állnak fenn, azonban a döntés a módosítás következtében az ügyfélre terhesebbé nem válhat.
 
 (2) A döntés hivatalból történő módosítása esetén az MNB értesíti az eljáró bíróságot.
@@ -1170,7 +1189,7 @@ végez.
 - a) fizetési rendszer működtetése tevékenységet végző szervezetnél, legalább kétévente,
 - b) központi szerződő félnél, továbbá központi értéktárnál legalább évente,
 - c) a d) pontban foglaltakat ide nem értve
-  - ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, befektetési alapkezelőnél, tőzsdénél, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
+  - ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, befektetési alapkezelőnél, tőzsdénél, APA-ként, ARM-ként, CTP-ként adatszolgáltatási tevékenységet végzőnél, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
   - cb) hitelintézetnél, biztosítónál, viszontbiztosítónál, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, továbbá befektetési alapkezelőnél a tevékenységének megkezdését követő egy év elteltével,
 - d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben meghatározott Integrációs Szervezethez csatlakozott hitelintézeteknél kizárólag az összevont alapú megfelelés ellenőrzésére vonatkozóan a (3) bekezdés szerinti csoportvizsgálat keretében, a biztosítási tevékenységről szóló törvény hatodik részének hatálya alá tartozó kisbiztosítónál, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, továbbá foglalkoztatói nyugdíj szolgáltató intézménynél legalább ötévente
 
@@ -1345,9 +1364,9 @@ rendelhet ki.
 
 (4) A (3) bekezdés alkalmazása során – a 39. §-ban meghatározott törvények ekként meghatározott személyeken túl – vezető állású személynek minősül az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár vezető tisztségviselője, ügyvezetője és ügyvezető-helyettese is, továbbá a független biztosításközvetítői tevékenység irányítását végző személy.
 
-(5) A kiszabható bírság mértéke a Hpt. 184. §-ában meghatározott szabálysértés esetén és a Bszt. 164. § alapján az engedély nélkül befolyásoló részesedést szerző jogi személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszközt hitelintézeti engedély hiányában végző vállalkozás tekintetében a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) és d) pontja szerinti nettó árbevételének 10 százalékáig, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy egy anyavállalat leányvállalata, akkor a bruttó bevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
+(5) A kiszabható bírság mértéke a Hpt. 184. §-ában meghatározott szabálysértés esetén és a Bszt. 164. § alapján az engedély nélkül befolyásoló részesedést szerző jogi személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszközt hitelintézeti engedély hiányában végző vállalkozás tekintetében 1 555 850 000 Ft-ig vagy a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) és d) pontja szerinti nettó árbevételének 10 százalékáig, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy anyavállalat vagy egy anyavállalat leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont pénzügyi beszámolót kell készítenie, akkor a bruttó bevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
 
-(6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 467 550 000 Ft, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – ha meghatározható – kétszereséig terjed.
+(6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 555 850 000 Ft, de legfeljebb a jogsértésből származó haszon vagy – ha az meghatározható – az azzal elkerült veszteség kétszerese.
 
 (7) A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 14/A. §-ában, 36/A. § (1)–(3) bekezdésében és 36/B. §-ában a pénzforgalmi szolgáltató számára előírt kötelezettség megszegése, elkerülése, elmulasztása, késedelmes vagy hiányos teljesítése esetén az MNB a 88. §-ban meghatározott jogkövetkezményeket alkalmazza.
 
@@ -2322,6 +2341,9 @@ terjedhet.
   - ae) azokról a bíróságon kívüli panasztételi és jogorvoslati eljárásokról, amelyek a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek rendelkezésére állnak,
   - af) azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést, valamint
   - ag) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+  - ah) a Bszt. 26/A. § (4) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
+  - ai) a Tpt. 310/A. § (10) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
+  - aj) a Bszt. 154/H. §-a alapján hozott engedélyről és az abban bekövetkezett változásról,
   - ak) az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
   - ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.
 - b) az Európai Bankhatóságot
@@ -3088,7 +3110,16 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - z) az Európai Parlament és a Tanács 760/2015/EU rendelete (2015. április 29.) az európai hosszú távú befektetési alapokról.
 - zs) az Európai Parlament és a Tanács 2015/751/EU rendelete (2015. április 29.) a kártyaalapú fizetési műveletek bankközi jutalékairól.
 
-185/A. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja: az Európai Parlament és a Tanács 2014. július 23-i 2014/91/EU irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról.
+185/A. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+- a) az Európai Parlament és a Tanács 2014. július 23-i 2014/91/EU irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról,
+- b) az Európai Parlament és a Tanács 600/2014/EU rendelete (2014. május 15.) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról,
+- c) az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról,
+- d) az Európai Parlament és a Tanács (EU) 2016/1011 rendelete (2016. június 8.) a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról,
+- e) az Európai Parlament és a Tanács (EU) 2015/2365 rendelete (2015. november 25.) az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról,
+- f) a 2014/65/EU európai parlamenti és tanácsi irányelvnek az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelme, a termékirányítási kötelezettségek, valamint a díjak, jutalékok vagy pénzbeli és nem pénzbeli juttatások nyújtására vagy átvételére alkalmazandó szabályok tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 7-i 2017/593 felhatalmazáson alapuló bizottsági irányelv,
+- g) a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet,
+- h) a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet.
 
 186. § (1) A 24. § (1) bekezdés a) pontja a hamispénz-figyelő rendszerhez (CMS) való csatlakozás egyes feltételeiről szóló, 2001. november 8-i EKB/2001/11 európai központi banki határozatnak való megfelelést szolgálja.
 
@@ -3106,7 +3137,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 (5) A 40. §
 
 - a) (1) bekezdése a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 15. cikk (3) bekezdésének,
-- b) (2) bekezdése a 2004/39/EK európai parlamenti és tanácsi rendeletnek a befektetési vállalkozások nyilvántartás-vezetési kötelezettségei, az ügyletek bejelentése, a piac átláthatósága, a pénzügyi eszközök piaci bevezetése, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő végrehajtásáról szóló, 2006. augusztus 10-i 1287/2006/EK bizottsági rendelet,
+- b) (2) bekezdése a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet,
+- c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
 - c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
 - d) (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
 - e) (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése és 25a. cikke,
@@ -3115,6 +3147,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - h) (20) bekezdése a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet,
 - i) (24) bekezdése az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2365 európai parlamenti és tanácsi rendelet,
 - j) (23) bekezdése a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet,
+- k) (21) bekezdése a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet,
+- l) (22) bekezdése a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

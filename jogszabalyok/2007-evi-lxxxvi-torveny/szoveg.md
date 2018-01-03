@@ -118,7 +118,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 53. Rendszerszintű szolgáltatás: az átviteli rendszerirányító által a villamosenergia-rendszer mindenkori egyensúlyának és az átvitel megfelelő minőségének fenntartása érdekében biztosított szolgáltatások összessége;
 - 54. Szélerőmű: olyan erőmű, amely a villamos energiát szélenergia felhasználásával termeli;
 - 55. Szélerőmű park: ugyanazon ügyfél vagy egy engedélyes üzemeltetésében lévő azon szélerőművek összessége, amelyek az átviteli vagy elosztó hálózathoz ugyanazon csatlakozási ponton kapcsolódnak;
-- 56. Szervezett villamosenergia-piac: a szervezett villamosenergia-piaci engedélyes által működtetett, a regionális villamosenergia-forgalmat elősegítő kereskedési rendszer, amelyben az energiakereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik;
+- 56. Szervezett villamosenergia-piac: a szervezett villamosenergia-piaci engedélyes által működtetett, a regionális villamosenergia-forgalmat elősegítő kereskedési rendszer, amelyben a villamosenergia-kereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik;
 - 57. Termelés: a villamos energia előállítása;
 - 58. Termelő: aki villamos energiát termel;
 - 59. Termelői engedélyes: aki villamos energia termelői működési engedéllyel vagy kiserőművi összevont engedéllyel rendelkezik;
@@ -936,7 +936,7 @@ kiállított számla érvénytelen.
 
 (3) A szervezett villamosenergia-piacon forgalmazott termék, ügylettípus vagy kereskedési módszer bevezetésére, megváltoztatására, kivezetésére a kereskedelmi szabályzat, a nemzetközi üzemi és kereskedelmi szabályzat, valamint a szervezett villamosenergia-piaci szabályzat rendelkezései irányadók.
 
-(4) A szervezett villamosenergia-piacon végezhető származékos ügyletekre, továbbá más energiahordózónak, az energiaellátáshoz kapcsolódó egyéb terméktípusnak vagy vagyoni értékű jognak a szervezett villamosenergia-piacra történő bevezetésére, valamint az azokkal való kereskedelemre vonatkozó rendelkezéseket – az e törvényben meghatározottakkal összhangban – külön jogszabály tartalmazza.
+(4) A szervezett villamosenergia piacon kizárólag a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete 7. cikk (2) bekezdése szerinti azonnali ügylet köthető.
 
 (5) Külön jogszabály meghatározott mértékű és feltételek szerinti értékesítési kötelezettséget írhat elő a szervezett villamosenergia-piacon.
 
@@ -3511,6 +3511,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 (3) A 3. § 4. pontja, a 3. § 13a. pontja, a 3. § 45b. pontja és a 3. § 47. pontja, valamint a 6/A. §, a 7/A. §, a 12. § (1) bekezdése, a 170. § (1) bekezdés 24. pontja, a 170. § (2) bekezdés 9. és 10. pontja a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv 2. cikk e), j), k) pontjának, 4. cikk (1) bekezdésének, 13. cikk (2) és (6) bekezdésének, 14. cikk (1), (2), (5) és (6) bekezdésének, valamint 15. cikkének való megfelelést szolgálja.
 
 (3a) Ez a törvény az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének, 14. cikk (10) bekezdésének és 15. cikkének való megfelelést szolgálja.
+
+(3b) E törvény a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról szóló, 2014. május 15-i 2014/65/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (4) Ez a törvény
 

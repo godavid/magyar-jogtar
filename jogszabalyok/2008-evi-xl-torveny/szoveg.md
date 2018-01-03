@@ -121,7 +121,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
 - 53b. Szállítási rendszerirányító: az együttműködő földgázrendszer e törvényben meghatározott képviseleti, irányítási és koordinációs feladatainak ellátására a Hivatal által kijelölt szállítási rendszerüzemeltető.
 - 54. Szállítóvezeték: az a csővezeték a tartozékaival együtt, amelyen keresztül a földgáz továbbítása történik, és amelynek kezdőpontja a rendszer-összekötési pont, összekapcsolási pont, vagy a földgáztároló vagy a földgáztermelő üzem szállítói betáplálási pontja, végpontja pedig a rendszer-összekötési pont, összekapcsolási pont, a gázátadó állomás szállítói kiadási pontja, a szállítóvezetékről közvetlenül ellátott felhasználó telekhatára vagy a földgáztároló szállítói kiadási pontja.
 - 54a. Szállítóvezeték-létesítő: szállítási rendszerüzemeltetési engedéllyel nem rendelkező földgázipari vállalkozás, amely e törvény szerinti szállítóvezeték létesítési engedély alapján szállítóvezetéket létesíthet.
-- 55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben az energiakereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
+- 55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben a földgáz-kereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
 - 55a. Szigetüzem: olyan elszigetelt földgáz vezetékrendszer, amely csak termelői rendszerhez csatlakozik és a földgáz fizikai betáplálása az együttműködő földgázrendszerről nem biztosítható.
 - 55b. Tárolói év: a tárgyév április 1-jei gáznap kezdetétől a tárgyévet követő év március 31-ei gáznap végéig terjedő időszak.
 - 55c. Technikai kapacitás: a rendszeregyensúly fenntartásának és a rendszerüzemeltetési követelményeknek a figyelembevételével meghatározott maximális, nem megszakítható kapacitás, amelyet a rendszerüzemeltető fel tud ajánlani a rendszerhasználónak.
@@ -586,7 +586,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 ### Szervezett földgázpiac
 
-46. § (1) A szervezett földgázpiacon tárolói kapacitás és földgáz vételére és eladására irányuló ügylet köthető, függetlenül attól, hogy azokat pénzben kell kiegyenlíteni, vagy az ügyletben részt vevő felek valamelyikének választása szerint – a szervezett földgázpiaci szabályzattal és az Üzemi és Kereskedelmi Szabályzattal összhangban – fizikai leszállítással kell teljesíteni.
+46. § (1)
 
 (2) A szervezett földgázpiacon a kereskedési platform vagy egyensúlyozó platform azon tagja köthet ügyletet, aki
 
@@ -617,7 +617,7 @@ a tűrésére és együttműködésre vonatkozó kötelezettséget állapíthat 
 
 (3) A szervezett földgázpiaci engedélyes vagy a szervezett földgázpiaci engedélyesnek szolgáltatást nyújtó harmadik személy e törvény szerinti földgáz-kereskedelmi, földgáztárolási, földgázelosztási, egyablakos kapacitásértékesítői tevékenységet, valamint a harmadik személy e törvény szerinti szervezett földgázpiac működtetési tevékenységet nem folytathat.
 
-48/B. § A szervezett földgázpiacon azonnali és határidős ügylet, valamint ezek kombinációja köthető.
+48/B. § A szervezett földgázpiacon kizárólag a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete 7. cikk (2) bekezdése szerinti azonnali ügylet köthető.
 
 49. § Földgázellátási zavar és válsághelyzet esetén, legfeljebb annak időtartamára a Hivatal jogosult a szervezett földgázpiacon folyó kereskedést felfüggeszteni.
 
@@ -3164,7 +3164,8 @@ köteles annak létrejöttét követő 7 munkanapon belül megküldeni a Hivatal
 159. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) Az Európai Parlament és a Tanács 2009/73/EK irányelve (2009. július 13.) a földgáz belső piacára vonatkozó közös szabályokról és a 2003/55/EK irányelv hatályon kívül helyezéséről;
-- b) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikke.
+- b) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikke;
+- c) az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról.
 
 (2) Ez a törvény a földgázszállító-hálózatokhoz való hozzáférés feltételeiről és az 1775/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
