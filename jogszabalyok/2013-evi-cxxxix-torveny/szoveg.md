@@ -708,11 +708,12 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
   - od) a rendszerkockázati tőkepuffer képzésének kezdő időpontját, és
   - oe) azon EGT-államok és harmadik országok megnevezését, amelyek esetén az MNB elismeri az általuk meghatározott rendszerkockázati tőkepufferráta mértékét,
 - p) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmények nevének naprakész listáját és ez utóbbiak alkategóriákba való besorolását, valamint
-- q)
+- q) a Hpt. 289/A. § (1) és (4) bekezdése szerinti bejelentésben szereplő tevékenységek leírását,
+- r) könnyen hozzáférhető módon a Bizottság elektronikus tájékoztatóját, amely felsorolja a fogyasztóknak az Európai Parlament és a Tanács (EU) 2015/2366 irányelve szerinti jogait, valamint a kapcsolódó Európai Uniós jogszabályokat.
 
 (2a) Az MNB a (2) bekezdés szerinti közzétételi kötelezettségének
 
-- a) rendszeresen, de havonta legalább egyszer eleget tesz,
+- a) a (2) bekezdés a) és q) pont vonatkozásában haladéktalanul, egyebekben rendszeresen, de havonta legalább egyszer eleget tesz,
 - b) egységes elektronikus elérési helyen, átlátható módon tesz eleget.
 
 (3) Az MNB által, a (2) bekezdés c)–h) és j)–p) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
@@ -2347,7 +2348,7 @@ terjedhet.
   - ak) az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
   - ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.
 - b) az Európai Bankhatóságot
-  - ba) a hitelintézet számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról az indoklással együtt,
+  - ba) a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról az indoklással együtt,
   - bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
   - bc) a Hpt. 36. § (5) bekezdése szerinti határozatáról,
   - bd) a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
@@ -2393,6 +2394,19 @@ terjedhet.
   - ed) az egyéb rendszerszinten jelentős intézmény és a globálisan rendszerszinten jelentős intézmény nevéről és az alkategóriáról, amelyikbe a globálisan rendszerszinten jelentős intézmény tartozik,
   - ee) a 35. § (1) bekezdésben, a Hpt. 89. § (9) bekezdésében, valamint a Bszt. 110/D. § (9) bekezdésében meghatározott felülvizsgálatok eredményéről,
   - ef) a Szantv. 113. § (2) bekezdésében foglaltakról.
+
+(4a) Az MNB tájékoztatja
+
+- a) az Európai Bankhatóságot:
+  - aa) a pénzforgalmi intézmény, elektronikuspénz kibocsátó intézmény nyilvántartásba vett pénzforgalmi közvetítőiről,
+  - ab) a Hpt. 289/A. § (1) és (4) bekezdése szerinti bejelentésekről,
+  - ac) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett értesítés kézhezvételét követően haladéktalanul az eseménnyel kapcsolatos releváns információkról,
+  - ad) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról,
+- b) az EKB-t
+  - ba) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett értesítés kézhezvételét követően haladéktalanul az eseménnyel kapcsolatos releváns információkról,
+  - bb) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról.
+
+(4b) Ha a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett bejelentés mérlegelését követően az MNB azt állapítja meg, hogy az esemény releváns lehet a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek vagy személyek ellenőrzését ellátó más hatóságok vagy egyéb hatóságok számára, úgy ez utóbbiaknak is értesítést küld.
 
 (5) A (3) bekezdés a) pontja szerinti bejelentésben – az érintett csoport szerkezetének és a csoportfelügyelet terjedelmének egyidejű bemutatásával – jelezni kell azt is, ha a tevékenységi engedélyt olyan biztosítónak vagy viszontbiztosítónak adták ki vagy olyan biztosítótól vagy viszontbiztosítótól vonták vissza, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata.
 
@@ -3149,13 +3163,14 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - j) (23) bekezdése a pénzügyi eszközökben és pénzügyi ügyletekben referenciamutatóként vagy a befektetési alapok teljesítményének méréséhez felhasznált indexekről, valamint a 2008/48/EK és a 2014/17/EU irányelv, továbbá az 596/2014/EU rendelet módosításáról szóló, 2016. június 8-i (EU) 2016/1011 európai parlamenti és tanácsi rendelet,
 - k) (21) bekezdése a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet,
 - l) (22) bekezdése a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet
+- m) (25) bekezdése a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 
 (6) A pénzügyi fogyasztói jogvita tekintetében
 
 - a) az Európai Parlament és a Tanács 2002/65/EK irányelve (2002. szeptember 23.) a fogyasztói pénzügyi szolgáltatások távértékesítéssel történő forgalmazásáról, valamint a 90/619/EGK tanácsi irányelv, a 97/7/EK irányelv és a 98/27/EK irányelv módosításáról, 14. cikk,
-- b) az Európai Parlament és a Tanács 2007/64/EK irányelve (2007. november 13.) a belső piaci pénzforgalmi szolgáltatásokról és a 97/7/EK, a 2002/65/EK, a 2005/60/EK és a 2006/48/EK irányelv módosításáról és a 97/5/EK irányelv hatályon kívül helyezéséről, 83. cikk,
+- b) az Európai Parlament és a Tanács (EU) 2015/2366 irányelve (2015. november 25.) a belső piaci pénzforgalmi szolgáltatásokról és a 2002/65/EK, a 2009/110/EK és a 2013/36/EU irányelv és a 1093/2010/EU rendelet módosításáról, valamint a 2007/64/EK irányelv hatályon kívül helyezéséről, 102. cikk,
 - c) az Európai Parlament és a Tanács 2008/48/EK irányelve (2008. április 23.) a fogyasztói hitel-megállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk,
 - d) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről,
 - e) a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 11. és 12. cikke
