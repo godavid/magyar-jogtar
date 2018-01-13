@@ -89,7 +89,7 @@ végez befektetési szolgáltatási tevékenységet,
 
 3. § (1) A 8. §, a 13. §, a 17. § (3)–(5) bekezdése, a 20/A–20/B. §, a 22. §, a 24–24/G. §, a 26/A. §, a 27–31. §, a 37–39. §, a 97–107. §, a 110/A–110/Q. §, a 121. §, a 123. § (8)–(9) bekezdése, a 123/A. §, a 124–141. §, a 155–170. § és a 172–175. § kivételével a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni a Magyar Nemzeti Banknak (a továbbiakban: MNB) az MNB tv.-ben meghatározott alapvető feladatain kívül végzett befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
 
-(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, a 13. §, a 15–17. §, a 19/A–20/B. §, a 21/A. §, a 22. § (1)–(3) bekezdése, a 22/A. §, a 24/A–24/G. §, 25. § (1) bekezdése, a 26/A. §, a 37–39. §, a 60. §, a 78. § (2a) bekezdése, a 97–106. §, a XX/A. Fejezet, a 121. §, a 123. § (8) és (9) bekezdése, a 123/A. §, a 124–127. § (1) és (2) bekezdése, a 128–135. §, a 136. § (5) bekezdése, a 137–139. §, a 162–163/B. §, a 164. § (1) bekezdés v) pontja, a 164. § (7) és (8) bekezdése, valamint a 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni, azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet kell érteni.
+(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, a 13. §, a 15–17. §, a 19/A–20/B. §, a 21/A. §, a 22. § (1)–(3) bekezdése, a 22/A. §, a 24/A–24/G. §, 25. § (1) bekezdése, a 26/A. §, a 37. §, a 37/A. § (1)–(6) bekezdése, a 37/B–39. §, a 60. §, a 78. § (2a) bekezdése, a 97–106. §, a XX/A. Fejezet, a 121. §, a 123. § (8) és (9) bekezdése, a 123/A. §, a 124–127. § (1) és (2) bekezdése, a 128–135. §, a 136. § (5) bekezdése, a 137–139. §, a 162–163/B. §, a 164. § (1) bekezdés v) pontja, a 164. § (7) és (8) bekezdése, valamint a 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni, azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet is kell érteni.
 
 (3) A Kbftv. szerinti befektetési alapkezelő a Kbftv.-ben meghatározott körben befektetési szolgáltatási tevékenységet végezhet és kiegészítő szolgáltatást nyújthat, azzal, hogy e tevékenysége, illetve szolgáltatása tekintetében – a 28. § (1) bekezdés y) pontja kivételével – a VII. Fejezetben, – a 73–78. § kivételével – a Negyedik Részben, valamint – a 123/A. § kivételével – a XXI. Fejezetben, továbbá – a 124–139. § kivételével – a XXII. Fejezetben a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
 
@@ -115,7 +115,7 @@ szerint kell működtetni, valamint a pénzügyi eszközök piacairól és a 648
 
 4. § (1) Az e törvényben hivatkozott jogszabályok rövidítését az 1. melléklet tartalmazza.
 
-(2) E törvény és az e törvény felhatalmazása alapján kiadott jogszabályokban
+(2) E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályokban
 
 - 1. algoritmikus kereskedés: olyan, pénzügyi eszközökkel folytatott kereskedés, amelynek során a megbízások egyedi paramétereit – így különösen azt, hogy kezdeményezni kell-e egy megbízást, mi legyen a megbízás időzítése, ára vagy mennyisége, hogyan történjen a megbízás kezelése annak benyújtása után – egy számítógépes algoritmus automatikusan határozza meg – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 18. cikkében meghatározottaknak megfelelő – korlátozott emberi beavatkozással vagy emberi beavatkozás nélkül, és nem foglalja magában azokat a rendszereket, amelyeket csak
   - a) megbízások egy vagy több kereskedési helyszínre irányítására,
@@ -791,7 +791,7 @@ tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami
 
 tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 
-(2) Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha a szakirányú szakmai gyakorlat megszerzésére az (1) bekezdésben meghatározott szervezeteknek megfelelő intézménynél, illetve nemzetközi pénzügyi intézménynél került sor.
+(2) Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha a szakirányú szakmai gyakorlat megszerzésére az (1) és (1a) bekezdésben meghatározott szervezeteknek megfelelő intézménynél, illetve nemzetközi pénzügyi intézménynél került sor.
 
 24/A. § A 22. §-ban meghatározott követelményeken felül a befektetési vállalkozás irányítási jogkörrel rendelkező vezető testületi tagjainak jó üzleti hírnévvel is rendelkezniük kell.
 
@@ -1209,6 +1209,8 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 (6a) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja, ha a kérelmező minősített befolyás szerzésével kapcsolatban feltételezhető, hogy az erre vonatkozó jogszabályok alapján pénzmosást vagy terrorizmus-finanszírozást követnek vagy követtek el, vagy kísérelnek vagy kíséreltek meg elkövetni, vagy hogy a szándékolt befolyásoló részesedés szerzése növelheti ennek kockázatát.
 
+(6b) A Felügyelet a minősített befolyás megszerzésének vagy a minősített befolyás mértéke növelésének engedélyezését megtagadja akkor is, ha valamely harmadik országnak a kérelmezővel szoros kapcsolatban álló egy vagy több természetes vagy jogi személyre irányadó jogszabályai vagy közigazgatási rendelkezései, vagy azok érvényesítésének nehézségei akadályozzák a Felügyelet felügyeleti funkcióinak hatékony ellátását.
+
 (7) Egyesüléshez, minősített befolyás megszerzéséhez, valamint az alapszabálynak az igazgatóság jogkörét megváltoztató módosításához szükséges engedély megadása előtt, ha a befektetési vállalkozás összevont alapú felügyelet alá tartozik, illetve a befektetési vállalkozásra az összevont alapú felügyelet kiterjed, a Felügyelet – ha az összevont alapú felügyeleti feladatok ellátása miatt szükséges – a határozat meghozatala előtt egyeztet azon EGT-állam hatáskörrel rendelkező felügyeleti hatóságával, amelynek székhelyén olyan befektetési vállalkozás található, amelyre az engedélyezési kérelmet benyújtó befektetési vállalkozással együttesen az összevont alapú felügyelet kiterjed.
 
 (8) A Felügyelet sürgős esetben vagy ha az egyeztetés veszélyeztetheti a határozat végrehajtásának hatékonyságát, akkor dönthet úgy, hogy a (7) bekezdésben foglalt egyeztetést nem folytatja le. Ebben az esetben a döntést követően haladéktalanul tájékoztatja a többi érintett EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
@@ -1247,6 +1249,8 @@ a kérelmező, a kérelmező másik ellenőrzött vállalkozásának közvetlen,
 - b) a kérelmezőtől függetlenül
 
 gyakorolhatja az általa kezelt portfólióhoz kapcsolódó szavazati jogot.
+
+(7) A minősített befolyás mértékének meghatározásakor nem kell figyelembe venni azokat a szavazati jogokat vagy részvényeket, amelyekkel a befektetési vállalkozás az 5. § (1) bekezdés f) pontjában meghatározott tevékenysége révén rendelkezhet, feltéve, hogy az említett jogokat egyrészt nem gyakorolja vagy egyéb módon nem használja a kibocsátó vezetésébe való beavatkozásra, és másrészt azokat a részesedésszerzéstől számított egy éven belül elidegeníti.
 
 37/B. § (1) Ha a kérelmező a minősített befolyását úgy kívánja módosítani, hogy az meghaladja a húsz, harminchárom vagy ötven százalékos mértéket, a (2) bekezdésben foglaltak szerinti tartalommal kérelmet nyújt be a Felügyeletnek.
 
@@ -1884,7 +1888,7 @@ kell mérni.
 
 ### A befektetési elemzés
 
-76. § Ha a befektetési vállalkozás befektetési elemzést végez, a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 36. és 37 cikkében meghatározott rendelkezéseknek megfelelően jár el.
+76. § Ha a befektetési vállalkozás befektetési elemzést végez, a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 36. és 37. cikkében meghatározott rendelkezéseknek megfelelően jár el.
 
 77. §
 
@@ -3250,6 +3254,10 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 (2) A Felügyelet az (1) bekezdésben foglalt információkat kérésre az Európai Értékpapír-piaci Hatóság rendelkezésére bocsátja.
 
 (3) A Felügyelet értesíti az Európai Értékpapír-piaci Hatóságot az általa a befektetési vállalkozásnak vagy piacműködtetőnek kiadott MTF- vagy OTF-engedélyről.
+
+(4) Az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető tájékoztatja a Felügyeletet arról a tagállamról, amelyben az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető olyan eljárásokat kíván biztosítani, amelyek elősegítik abban a tagállamban székhellyel és távoli részvétellel rendelkező tagok, résztvevők, illetve felhasználók hozzáférését az MTF-hez, illetve OTF-hez.
+
+(5) A Felügyelet a (4) bekezdésben meghatározott információt az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető tájékoztatását követő egy hónapon belül továbbítja azon tagállam hatáskörrel rendelkező felügyeleti hatóságának, amelyben az MTF-et, illetve OTF-et működtető befektetési vállalkozás vagy piacműködtető a (4) bekezdésében meghatározott eljárást kívánja biztosítani.
 
 ### XXIV/A. Fejezet — A KERESKEDÉS FELFÜGGESZTÉSE VAGY A KERESKEDÉSBŐL VALÓ TÖRLÉS MTF-EN VAGY OTF-EN
 
