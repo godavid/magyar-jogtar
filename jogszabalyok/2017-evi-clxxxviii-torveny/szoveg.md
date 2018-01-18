@@ -44,13 +44,29 @@ lép.
 
 13. § (1)
 
-(2)
+(2) A Gytv. 1. §-a a következő 53. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
+
+„53. ex tempore előállított radioaktív gyógyszer: Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a kezelőorvos által megállapított egyedi betegellátási igény kielégítésére szolgáló, radioaktív gyógyszerkészítményt alkalmazó egészségügyi szolgáltató vagy radioaktív gyógyszer előállítására engedéllyel rendelkező gyógyszergyártó által a Gyógyszerkönyv 5.19 Radioaktív gyógyszerek ex tempore előállítása fejezetével összhangban előállított gyógyszer.”
 
 14–15. §
 
 16–18. §
 
-19. §
+19. § A Gytv. a következő 25/D. §-sal és azt megelőzően a következő alcímmel egészül ki:
+
+„Ex tempore előállított radioaktív gyógyszer alkalmazása
+
+25/D. § (1) Az ex tempore előállított radioaktív gyógyszert gyógyászati célra abban az esetben lehet alkalmazni, ha
+
+a) azt különös méltánylást érdemlő betegellátási érdek indokolja vagy annak előny-kockázat aránya kedvezőbb, mint az adott javallatban forgalomba hozatalra engedélyezett gyógyszeré és a beteg kezelése a 25. § (2) vagy (6) bekezdésében foglaltak szerint nem valósítható meg,
+
+b) előállítása orvosi rendelvényre, a kezelőorvos által meghatározott összetételben és minőségben, az általa kezelt beteg számára történik,
+
+c) alkalmazása a kezelőorvos kizárólagos felelősségére történik, és
+
+d) előállítását – jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte.”
 
 20. §
 
@@ -58,7 +74,7 @@ lép.
 
 (3)
 
-22. §
+22. § A Gytv. 1. számú melléklete az 1. melléklet szerint módosul.
 
 #### 7. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
@@ -118,5 +134,16 @@ végrehajtásához szükséges intézkedéseket állapít meg.
 (2) Ez a törvény a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről szóló, 2017. szeptember 15-ei (EU) 2017/1572 bizottsági irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2017. évi CLXXXVIII. törvényhez
+
+A Gytv. 1. számú melléklete a következő III.T.–III. Y. sorral egészül ki:
+
+|  |  | (Összeg) |
+| --- | --- | --- |
+| „III.T. | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése, első készítmény (első hatáserősség, első gyógyszerforma) | 750 000 |
+| III. U | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése további készítményenként (hatáserősségenként, gyógyszerformánként) | 600 000 |
+| III.V. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének módosítása (hatáserősségenként, gyógyszerformánként) | 200 000 |
+| III.W. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének megújítása (hatáserősségenként, gyógyszerformánként) | 200 000 |
+| III. X. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének éves fenntartása (hatáserősségenként, gyógyszerformánként) | 200 000 |
+| III.Y. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének visszavonása (hatáserősségenként, gyógyszerformánként) | 30 000” |
 
 ### 2. melléklet a 2017. évi CLXXXVIII. törvényhez
