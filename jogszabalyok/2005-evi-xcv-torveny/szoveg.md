@@ -76,6 +76,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 50. támogatási intenzitás: az Atr. szerinti intenzitás;
 - 51. támogatástartalom: az Atr. szerinti tartalom;
 - 52. folyamatos ellátás: a forgalomba hozatali engedély jogosultjával vagy abban az esetben, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval szerződött gyógyszer-nagykereskedők megrendeléseinek szokásos üzletmenet szerinti kielégítése,
+- 53. ex tempore előállított radioaktív gyógyszer: Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a kezelőorvos által megállapított egyedi betegellátási igény kielégítésére szolgáló, radioaktív gyógyszerkészítményt alkalmazó egészségügyi szolgáltató vagy radioaktív gyógyszer előállítására engedéllyel rendelkező gyógyszergyártó által a Gyógyszerkönyv 5.19 Radioaktív gyógyszerek ex tempore előállítása fejezetével összhangban előállított gyógyszer.
 
 ### A törvény hatálya
 
@@ -782,6 +783,15 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (6) Az engedélyezés előtti gyógyszerrendelés engedélyezési eljárása igazgatási szolgáltatási díjmentes.
 
+### Ex tempore előállított radioaktív gyógyszer alkalmazása
+
+25/D. § (1) Az ex tempore előállított radioaktív gyógyszert gyógyászati célra abban az esetben lehet alkalmazni, ha
+
+- a) azt különös méltánylást érdemlő betegellátási érdek indokolja vagy annak előny-kockázat aránya kedvezőbb, mint az adott javallatban forgalomba hozatalra engedélyezett gyógyszeré és a beteg kezelése a 25. § (2) vagy (6) bekezdésében foglaltak szerint nem valósítható meg,
+- b) előállítása orvosi rendelvényre, a kezelőorvos által meghatározott összetételben és minőségben, az általa kezelt beteg számára történik,
+- c) alkalmazása a kezelőorvos kizárólagos felelősségére történik, és
+- d) előállítását – jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte.
+
 ### Vegyes rendelkezések
 
 26. § (1) A gyógyszergyártó, a gyógyszer-nagykereskedő, illetve a gyógyszertár működtetője köteles a forgalomba már nem hozható (nem megfelelő minőségű, lejárt) gyógyszer környezetvédelmi jogszabályokban foglaltaknak megfelelő megsemmisítéséről gondoskodni, valamint részt venni – a külön jogszabályban foglaltak szerint – a lakosságnál keletkezett gyógyszerhulladék ártalmatlanításában. A kábítószerként vagy pszichotróp anyagként minősített gyógyszerek megsemmisítésére csak a külön jogszabályok betartása mellett kerülhet sor.
@@ -1169,6 +1179,12 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | III.Q.6. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként |  |  |  |  |  |  |  | 15 000 |
 | III.R. | Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP- megfelelőség igazolása céljából (telephelyenként) |  |  |  |  |  |  |  | 450 000 |
 | III.S. | Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről, illetve a belföldi forgalombahozatal céljára behozni kívánt gyógyszer engedélyéről |  |  |  |  |  |  |  | 22 500 |
+| III.T. | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése, első készítmény (első hatáserősség, első gyógyszerforma) |  |  |  |  |  |  |  | 750 000 |
+| III. U | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése további készítményenként (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 600 000 |
+| III.V. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének módosítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 200 000 |
+| III.W. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének megújítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 200 000 |
+| III. X. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének éves fenntartása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 200 000 |
+| III.Y. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének visszavonása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 30 000 |
 
 ### 2. számú melléklet a 2005. évi XCV. törvényhez
 
