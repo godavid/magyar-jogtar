@@ -1062,7 +1062,7 @@ kapcsolatos feladatok ellátását akadályozza.
 - g) a halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó és a 43. § (2) bekezdés a) pontja szerinti pótlást elmulasztó;
 - h) a törvényben foglalt tilalmakat és korlátozásokat megszegve halfogásra alkalmas állapotban lévő eszközzel halgazdálkodási vízterületen vagy annak partján tartózkodó;
 - i) a halászati engedély, állami horgászjegy, állami halászjegy igénylése során az e törvény végrehajtására kiadott rendeletben meghatározott nyilatkozatot valótlan tartalommal megtevő;
-- j)
+- j) halfogásra jogosító okmányok nélkül halfogásra alkalmas állapotban lévő horgászkészséggel haltermelési létesítményen vagy annak partján tartózkodó és a 43. § (2) bekezdés a) pontja szerinti pótlást elmulasztó;
 - k) a hal élőhelyén kialakult természeti egyensúly megbontására alkalmas szervezetet, táplálékanyagot, szennyezőanyagot halgazdálkodási vízterületre kijuttató;
 - l) méret- vagy mennyiségi korlátozással, vagy tilalmi idővel védett hal vagy más hasznos víziállat jogosulatlan kifogását megvalósító;
 - m) a nem nyilvántartott halgazdálkodási vízterületen őshonos hal kifogását megvalósító;

@@ -1262,13 +1262,15 @@ földgázrendszerhez való hozzáférés
 
 (5) A gázszerelő a nyilvántartásból törlésre kerül, ha a tevékenysége megszűnt, ha nem tesz eleget a külön jogszabályban meghatározott követelményeknek, illetve a gázszerelő ezt kéri.
 
-89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 8 munkanapon belül köteles elvégezni. A földgázelosztónak a kivitelezésre alkalmasságot megállapító nyilatkozata hiányában a létesítmény nem kivitelezhető. A felülvizsgálat díjmentes.
+89. § (1) A csatlakozóvezeték és a felhasználói berendezés kiviteli tervét a gázfogyasztó készülékcsere kivételével – a kivitelezés megkezdése előtt – műszaki-biztonsági szempontok szerinti felülvizsgálatra be kell nyújtani a földgázelosztóhoz. A felülvizsgálathoz szükséges engedélyek rendelkezésre állása esetén a földgázelosztó a felülvizsgálatot 8 munkanapon belül köteles elvégezni. A földgázelosztónak a kivitelezésre alkalmasságot megállapító nyilatkozata hiányában a létesítmény nem kivitelezhető. A felülvizsgálat díjmentes.
 
 (2) Ha a földgázelosztó a nyilatkozatával a tervet kivitelezésre alkalmatlannak minősítette, az ingatlan tulajdonosa a műszaki-biztonsági hatóságtól kérheti az alkalmassági nyilatkozat kiadását. A kivitelezésre való alkalmasság megállapítására indított eljárásra külön jogszabály rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem érkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
 
 (2a) A 67. § (1) bekezdése szerinti – a szállító-, illetve az elosztóvezetékhez való csatlakozás iránti – igény bejelentése esetén az igénybejelentő jogosult a Hivatal eljárását kezdeményezni a 67. § (3) bekezdése szerinti elutasítás közlésétől számított 30 napon belül, vagy ha a szállítási rendszerüzemeltető vagy a földgázelosztó az igénybejelentéstől számított 8 munkanapon belül nem nyilatkozik a csatlakozás iránti igényről, a mulasztás napjától számított 30 napon belül.
 
-(3) Az elkészült gázszerelést a földgázelosztó vagy megbízottja az üzembe helyezés előtt köteles – az egyetemes szolgáltatásra jogosult felhasználók esetében díjmentesen – műszaki-biztonsági szempontból ellenőrizni.
+(3) Az elkészült gázszerelést a gázfogyasztó készülékcsere kivételével a földgázelosztó vagy a megbízottja az üzembe helyezés előtt köteles – az egyetemes szolgáltatásra jogosult felhasználók esetében díjmentesen – műszaki-biztonsági szempontból ellenőrizni. Az elkészült gázszerelést készülékcsere esetén a tervező az üzembe helyezés előtt köteles műszaki-biztonsági szempontból ellenőrizni.
+
+(3a) Készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését olyan tervező mérnök végezheti, aki rendelkezik a kormány rendeletében meghatározott felelősségbiztosítással.
 
 (4) A csatlakozóvezeték és a fogyasztói vezeték üzembe helyezéséről a földgázelosztó köteles gondoskodni. A gázfogyasztó készülék és a gázfelhasználó technológia üzembe helyezésére a készülék gyártója vagy a gyártó feljogosított megbízottja is jogosult. A földgázelosztó a gázkészülék üzembe helyezése nélkül is köteles a fogyasztói vezeték üzembe helyezését elvégezni, ha a berendezés a műszaki-biztonsági előírásoknak és a kiviteli tervnek megfelel. A gázfogyasztó készülék nem helyezhető üzembe, ha nem felel meg a forgalmazására vonatkozó követelményeknek, megfelelőségértékelése nem a jogszabályban meghatározott módon történt meg, továbbá ha az üzemelés helye nem felel meg a használatba vétel műszaki-biztonsági követelményeinek.
 
@@ -2675,7 +2677,7 @@ tartalmazza.
 - 52. a földgázkereskedő által a földgáz biztonsági készletezéséről szóló törvény szerinti tagi hozzájárulás visszaigénylése és a 141/C. § alapján felajánlott földgázforrás felhasználása céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
 - 53. az e törvény szerinti, a PB-gáz tartályban vagy palackban történő forgalmazásának, valamint a turista használatú palackba történő PB-gáz-átfejtés szabályait és hatósági felügyeletét, az e tevékenységre jogosító engedély kiadásának rendjét, az e tevékenységet folytatókról vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a fogyasztóvédelmi előírásokat, továbbá az e tevékenységekre jogszabályban vagy hatósági határozatban előírt kötelezettségek megszegése esetén alkalmazandó jogkövetkezményeket,
 - 54. a fogyasztói vezeték üzembe helyezésének megtagadása esetén az eljáró műszaki biztonsági hatóságot, valamint a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait.
-- 55.
+- 55. készülékcsere gázszerelésének műszaki-biztonsági szempontú ellenőrzését végző tervező mérnök felelősségbiztosítására vonatkozó rendelkezéseket.
 
 132/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
