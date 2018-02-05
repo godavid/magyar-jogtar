@@ -1228,7 +1228,7 @@ alkalmazásával kell megállapítani.
 
 (2) E törvény hatálya nem érinti az atomenergia alkalmazásával kapcsolatos nemzetközi együttműködésre vonatkozó, Magyarország által elfogadott szerződésekből származó jogokat és kötelezettségeket.
 
-(3) Jelen törvény a Tanácsnak a munkavállalók és a lakosság egészségének az ionizáló sugárzásból származó veszélyekkel szembeni védelmét szolgáló alapvető biztonsági előírások megállapításáról szóló 96/29/Euratom irányelvével összeegyeztethető szabályozást tartalmaz.
+(3)
 
 (4) E törvény 12. § (4) bekezdése a radioaktív hulladékok és a kiégett fűtőelemek szállításának felügyeletéről és ellenőrzéséről szóló, 2006. november 20-i 2006/117/Euratom tanácsi irányelv 17. cikk (3) bekezdésének való megfelelést szolgálja.
 
