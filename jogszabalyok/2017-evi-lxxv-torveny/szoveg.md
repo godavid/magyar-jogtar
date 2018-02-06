@@ -16,7 +16,7 @@ energetikai tárgyú törvények módosításáról
 - b)
 - c)–e)
 
-17. § Hatályát veszti az Atv. 65. § (3) bekezdése.
+17. §
 
 #### 3. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
