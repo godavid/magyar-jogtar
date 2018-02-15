@@ -274,6 +274,8 @@ szabályokat.
 
 17. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+18. § Az állam, a helyi önkormányzat, költségvetési szerv és e szervezetek együtt, vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezetek kizárólag olyan reklámhordozón helyezhetnek vagy helyeztethetnek el reklámot, amely megfelel az e törvény – Módtv. által megállapított – és a végrehajtására kiadott jogszabályok rendelkezéseinek.
+
 ### 1. melléklet a 2016. évi LXXIV. törvényhez
 
 #### A településkép védelme szempontjából kiemelt területek

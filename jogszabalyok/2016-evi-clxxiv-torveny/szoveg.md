@@ -4,7 +4,9 @@ a településkép védelméről szóló 2016. évi LXXIV. törvény módosítás
 
 1–4. §
 
-5. §
+5. § A Tvtv. a következő 18. §-sal egészül ki:
+
+„18. § Az állam, a helyi önkormányzat, költségvetési szerv és e szervezetek együtt, vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezetek kizárólag olyan reklámhordozón helyezhetnek vagy helyeztethetnek el reklámot, amely megfelel az e törvény – Módtv. által megállapított – és a végrehajtására kiadott jogszabályok rendelkezéseinek.”
 
 6–7. §
 
