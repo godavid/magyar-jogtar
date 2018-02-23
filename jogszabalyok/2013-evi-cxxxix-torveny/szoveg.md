@@ -709,12 +709,16 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
   - oe) azon EGT-államok és harmadik országok megnevezését, amelyek esetén az MNB elismeri az általuk meghatározott rendszerkockázati tőkepufferráta mértékét,
 - p) az egyéb rendszerszinten jelentős intézmények és a globálisan rendszerszinten jelentős intézmények nevének naprakész listáját és ez utóbbiak alkategóriákba való besorolását, valamint
 - q) a Hpt. 289/A. § (1) és (4) bekezdése szerinti bejelentésben szereplő tevékenységek leírását,
-- r) könnyen hozzáférhető módon a Bizottság elektronikus tájékoztatóját, amely felsorolja a fogyasztóknak az Európai Parlament és a Tanács (EU) 2015/2366 irányelve szerinti jogait, valamint a kapcsolódó Európai Uniós jogszabályokat.
+- r) könnyen hozzáférhető módon a Bizottság elektronikus tájékoztatóját, amely felsorolja a fogyasztóknak az Európai Parlament és a Tanács (EU) 2015/2366 irányelve szerinti jogait, valamint a kapcsolódó Európai Uniós jogszabályokat,
+- s) azt a tájékoztatást, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést,
+- t) – jogi területek szerinti kategóriákba sorolva – a biztosítási és viszontbiztosítási értékesítési tevékenységre alkalmazandó hatályos jogszabályok naprakész elérhetőségére mutató internetes hivatkozásokat.
 
 (2a) Az MNB a (2) bekezdés szerinti közzétételi kötelezettségének
 
 - a) a (2) bekezdés a) és q) pont vonatkozásában haladéktalanul, egyebekben rendszeresen, de havonta legalább egyszer eleget tesz,
 - b) egységes elektronikus elérési helyen, átlátható módon tesz eleget.
+
+(2b) Az MNB – erre irányuló megkeresésre – köteles tájékoztatást nyújtani a (2) bekezdés t) pontja szerinti jogszabályokról.
 
 (3) Az MNB által, a (2) bekezdés c)–h) és j)–p) pontja alapján nyilvánosságra hozandó információt a más tagállamok pénzügyi felügyeleti hatóságai által alkalmazott elvekkel és módszerekkel összehasonlítható tartalommal és módon kell közzétenni.
 
@@ -1010,7 +1014,7 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 - d) a határozata ellen indított jogorvoslati eljárás tényét,
 - e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
 
-(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont, a Bszt. 164. §, és a Kbftv. 174/A. § alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. §-a és 189–192. §-a, a Tpt. 400. § (1) bekezdés o) pont 2. alpontja, a Tpt. 400. § (1) bekezdés w) pontja, a Bszt. 164. §-a, a Kbftv. 174/A. §-a, a Bit. 291. § és 431. §-a, az Fnytv. 64. § (1) bekezdése, az Mpt. 110. § (1) bekezdése, valamint az Öpt. 65. § (3) bekezdése alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
 
 (2) Az MNB az (1) bekezdés szerinti közzététel során tisztség betöltését engedélyező határozat esetén az (1) bekezdésben meghatározottakon túl a tisztségviselő családi- és utónevét is közzéteszi honlapján.
 
@@ -1024,7 +1028,7 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 - b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
 - c) veszélyezteti valamely folyamatban lévő büntetőeljárás sikerességét.
 
-(5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 60 napra elhalasztható, ha a jogsértő magatartás várhatóan rövid időn (legfeljebb 60 napon) belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
+(5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 60 napra elhalasztható, ha a jogsértő magatartás legfeljebb 60 napon belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
 
 (5a) Amennyiben az MNB úgy ítéli meg, hogy az 1286/2014/EU európai parlamenti és tanácsi rendelet szabályainak megsértése okán hozott, véglegessé vált határozatában megjelölt jogsértő nem természetes személy nevének és székhelyének, valamint a jogsértő természetes személy nevének közzététele – az ilyen adatok közzététele által okozott hátrány és az azáltal elérhető előny arányosságát vizsgáló eseti értékelés alapján – aránytalan, veszélyezteti a pénzügyi piacok stabilitását vagy valamely folyamatban lévő büntetőeljárás sikerességét, akkor az MNB köteles
 
@@ -1034,7 +1038,14 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 
 (5b) Amennyiben az MNB úgy dönt, hogy az (5a) bekezdés b) pontja alapján az anonimitás megőrzésével teszi közzé a határozatot, a közzététel észszerű ideig elhalasztható, amennyiben az említett időszak során az anonimitás megőrzésének indokai előre láthatólag meg fognak szűnni.
 
-(6) Az MNB a Hpt.-ben, a Tpt.-ben, a Bszt.-ben és a Kbftv.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.
+(5c) Amennyiben az MNB úgy ítéli meg, hogy a Bit. biztosítási, illetve viszontbiztosítási értékesítésre vonatkozó szabályainak megsértése miatt hozott, véglegessé vált határozatában megjelölt jogsértő nem természetes személy nevének és székhelyének, valamint a jogsértő természetes személy nevének közzététele
+
+- a) – az ilyen adatok közzététele által okozott hátrány és az azáltal elérhető előny arányosságát vizsgáló eseti értékelés alapján – aránytalan, vagy
+- b) veszélyezteti a pénzügyi piacok stabilitását, vagy valamely folyamatban lévő büntetőeljárás sikerességét,
+
+akkor határozhat úgy, hogy a közzétételt – az (5) bekezdéssel összhangban – elhalasztja, nem teszi közzé a határozatát, vagy az anonimitás megőrzésével teszi közzé azt.
+
+(6) Az MNB a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, a Bit.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.
 
 #### 53/A. §
 
@@ -1082,6 +1093,8 @@ az MNB dönthet úgy, hogy nem teszi közzé a szankciót vagy intézkedést elr
 - a) az alapítás és a tevékenység engedélyezésére vonatkozó kérelmek elbírálásához az engedélyben foglaltak ellenőrzéséhez, a szervezetek prudens működésének megítéléséhez, valamint az MNB határozatával kapcsolatos bírósági vagy büntetőeljáráshoz,
 - b) a pénzügyi felügyeleti és szanálási hatóság döntésének, az ahhoz kapcsolódó bírósági vagy büntetőeljárásnak, így különösen az alkalmazott intézkedések és kiszabott szankciók megalapozásához, valamint
 - c) a 140. § (1) bekezdés a) pontjában meghatározott szervezeteknek az Európai Unió jogi aktusa által meghatározott feladatainak az Európai Unió jogi aktusa által meghatározott körben történő ellátásához.
+
+(1a) Az (1) bekezdés a) pontja vonatkozásában ide értendőek különösen a biztosítás- és viszontbiztosítás-értékesítők jó hírnevével, képzettségi követelményeivel, valamint szakmai képzésével és továbbképzésével kapcsolatos adatok.
 
 (2) A felügyeleti együttműködés keretében nyújtott, illetve szerzett egyedi adatok harmadik fél részére – ha az adattovábbítás egyéb feltételei fennállnak – az adatszolgáltató hatóság előzetes írásos hozzájárulása alapján továbbíthatóak. Az adatszolgáltató hatóság előzetes írásos hozzájárulására nincs szükség, ha a kapott adatok továbbítása az MNB vagy a külföldi pénzügyi felügyeleti hatóság döntésével kapcsolatos bírósági vagy büntetőeljáráshoz közvetlenül szükséges.
 
@@ -1421,6 +1434,15 @@ rendelhet ki.
 - b) természetes személy esetében
   - ba) a jogsértésből származó nyereség vagy a jogsértés révén elkerült veszteség összegének legfeljebb kétszerese, amennyiben az meghatározható, amennyiben nem határozható meg, akkor
   - bb) 220 696 000 forint.
+
+(16) A Bit. biztosítási alapú befektetési termékek értékesítésére vonatkozó üzletviteli követelményeinek megsértése esetén – a Bit. 293/A. §-ában foglaltak figyelembevételével – kiszabható maximális bírság mértéke:
+
+- a) nem természetes személy esetében
+  - aa) a jogsértésből származó nyereség vagy a jogsértés révén elkerült veszteség összegének legfeljebb kétszerese, amennyiben az meghatározható, amennyiben nem határozható meg, akkor
+  - ab) az alábbi összegek közül az alacsonyabb: 1 541 450 000 forint vagy a legutolsó jóváhagyott, számviteli jogszabályok szerinti beszámolóban kimutatott megszolgált díjak viszontbiztosítás nélküli összegének vagy teljes éves árbevételének legfeljebb 5%-a, azzal, hogy amennyiben a jogi személy olyan anyavállalat vagy egy anyavállalat olyan leányvállalata, amelynek a számviteli jogszabályok szerint összevont (konszolidált) éves beszámolót kell készítenie, a vonatkozó megszolgált díjak viszontbiztosítás nélküli összege alatt a legfelső szintű anyavállalat irányító testülete által jóváhagyott, legutolsó rendelkezésre álló összevont (konszolidált) éves beszámolóban feltüntetett megszolgált díjak viszontbiztosítás nélküli összege értendő;
+- b) természetes személy esetében
+  - ba) a jogsértésből származó nyereség vagy a jogsértés révén elkerült veszteség összegének legfeljebb kétszerese, amennyiben az meghatározható, amennyiben nem határozható meg, akkor
+  - bb) 215 803 000 forint.
 
 77. § (1) A bírságot a kiszabásáról hozott döntés véglegessé válásától számított harminc napon belül kell a döntésben megjelölt számlára befizetni.
 
@@ -2314,9 +2336,9 @@ terjedhet.
 - c) az olyan befektetési alapkezelő számára kiadott – átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások kezelésére vonatkozó – engedélyt, amely közvetlenül vagy közvetve valamely harmadik országbeli vállalkozás leányvállalata,
 - d) harmadik országban bejegyzett hitelintézet által Magyarországon bejegyzett hitelintézetben történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett hitelintézet harmadik országbeli hitelintézet leányvállalatává válik, illetve az ilyen részesedés megszűnését,
 - e) harmadik országban bejegyzett vállalkozás által Magyarországon bejegyzett biztosítóban vagy viszontbiztosítóban történő olyan részesedésszerzést, amelynek eredményeképpen a Magyarországon bejegyzett biztosító vagy viszontbiztosító harmadik országbeli vállalkozás leányvállalatává válik, illetve az ilyen részesedés megszűnését,
-- f) azokat az általános problémákat, amelyeket a Magyarországon működő biztosítók vagy viszontbiztosítók tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
+- f) azokat az általános problémákat, amelyeket a Magyarországon működő biztosítók, viszontbiztosítók, biztosításközvetítők, viszontbiztosítás-közvetítők vagy kiegészítő biztosításközvetítői tevékenységet végző személyek tapasztaltak harmadik országba történő letelepedésük és működésük vagy tevékenységük harmadik országban történő folytatása során,
 - g) pénzügyi holding társaság összevont alapú felügyelet alá tartozását, illetve annak megszűnését,
-- h)
+- h) azt, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést,
 - i) összevont alapú felügyelet során – a Hpt. 174. § (5)–(7) bekezdése tekintetében – alkalmazott eljárásokat,
 - j) a Tpt. 181/J. § (5) bekezdése szerinti megállapodást, ha a megállapodás eredményeként az MNB látja el az összevont alapú felügyeletet,
 - k)
@@ -2383,9 +2405,9 @@ terjedhet.
   - cf) a Bit. 279. § (5) bekezdésében és 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számáról és típusáról,
   - cg) a Bit. 310. § (4) és (5) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról;
   - ch) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti információkról, vizsgálatokról és határozatokról;
-  - ci) az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és az azok során hozott jogerős ítéletekről;
-  - cj)
-  - ck)
+  - ci) az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) és (5c) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
+  - cj) minden évben, összesített tájékoztatás keretében a Bit. biztosítási és viszontbiztosítási értékesítésre vonatkozó szabályainak megsértése okán hozott valamennyi határozatáról,
+  - ck) arról, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést;
 - d) az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről,
 - e) az Európai Rendszerkockázati Testületet
   - ea) a 33. § (4) bekezdése alapján meghatározott negyedéves anticiklikus pufferrátáról, és a 43. § (2) bekezdés m) pontja szerint nyilvánosságra hozott információkról,
@@ -3133,7 +3155,8 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - e) az Európai Parlament és a Tanács (EU) 2015/2365 rendelete (2015. november 25.) az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról,
 - f) a 2014/65/EU európai parlamenti és tanácsi irányelvnek az ügyfelek pénzügyi eszközeinek és pénzeszközeinek védelme, a termékirányítási kötelezettségek, valamint a díjak, jutalékok vagy pénzbeli és nem pénzbeli juttatások nyújtására vagy átvételére alkalmazandó szabályok tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 7-i 2017/593 felhatalmazáson alapuló bizottsági irányelv,
 - g) a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet,
-- h) a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet.
+- h) a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet,
+- i) a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelv.
 
 186. § (1) A 24. § (1) bekezdés a) pontja a hamispénz-figyelő rendszerhez (CMS) való csatlakozás egyes feltételeiről szóló, 2001. november 8-i EKB/2001/11 európai központi banki határozatnak való megfelelést szolgálja.
 

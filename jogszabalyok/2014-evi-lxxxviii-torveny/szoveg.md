@@ -13,14 +13,21 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - a) a Magyarország területén székhellyel rendelkező biztosító és viszontbiztosító által végzett biztosítási és viszontbiztosítási tevékenységre, továbbá e biztosítónak és viszontbiztosítónak a biztosítási és viszontbiztosítási tevékenységgel közvetlenül összefüggő tevékenységére, továbbá a tevékenységi engedély visszavonása után a biztosító és viszontbiztosító biztosítási és viszontbiztosítási szerződésekből eredő kötelezettségeinek teljesítésével kapcsolatos tevékenységére;
 - b) Magyarország területén kívül székhellyel rendelkező biztosító és viszontbiztosító Magyarország területén végzett – e törvényben meghatározott – biztosítási és viszontbiztosítási tevékenységre, továbbá a biztosítási és viszontbiztosítási tevékenységgel közvetlenül összefüggő tevékenységre;
 - c) az a) és a b) pontba nem tartozó, Magyarország területén végzett biztosítási tevékenységre;
-- d) a Magyarország területén székhellyel vagy lakcímmel rendelkező biztosításközvetítő biztosításközvetítői tevékenységére, továbbá a Magyarország területén kívül székhellyel vagy lakcímmel rendelkező biztosításközvetítő Magyarország területén végzett – e törvényben meghatározott – biztosításközvetítői tevékenységére;
+- d) a Magyarország területén székhellyel vagy lakcímmel rendelkező biztosításközvetítő, viszontbiztosítás-közvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy biztosításközvetítői, viszontbiztosítás-közvetítői vagy kiegészítő biztosításközvetítői tevékenységére, továbbá a Magyarország területén kívül székhellyel vagy lakcímmel rendelkező biztosításközvetítő, viszontbiztosítás-közvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy Magyarország területén végzett – e törvényben meghatározott – biztosításközvetítői, viszontbiztosítás-közvetítői vagy kiegészítő biztosításközvetítői tevékenységére;
 - e) a biztosító által kiszervezett tevékenységet végző kizárólag – az e törvény hatálya alá tartozó – kiszervezett tevékenységére;
 - f) a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) e törvényben meghatározott tevékenységére;
 - g) azon vállalkozások – e törvényben meghatározott – kötelezettségeire, amelyekre a csoportfelügyelet, illetőleg a kiegészítő felügyelet kiterjed;
 - h) a különleges célú gazdasági egységekre és azok működésére;
 - i) a biztosító és a viszontbiztosító könyvvizsgálójára.
 
-(2) E törvény rendelkezéseit Magyarország területén székhellyel rendelkező biztosító, viszontbiztosító, biztosításközvetítő külföldön végzett biztosítási, viszontbiztosítási, biztosításközvetítői tevékenységére kizárólag abban az esetben kell alkalmazni, ha nemzetközi szerződés, az Európai Unió közvetlen hatályú, közvetlenül alkalmazható kötelező jogi aktusa eltérően nem rendelkezik.
+(2) E törvény rendelkezéseit a Magyarország területén székhellyel vagy lakcímmel rendelkező biztosító, viszontbiztosító, biztosításközvetítő, viszontbiztosítás-közvetítő és kiegészítő biztosításközvetítői tevékenységet végző személy Európai Unióban végzett biztosítási, viszontbiztosítási, biztosításközvetítői, viszontbiztosítás-közvetítői és kiegészítő biztosításközvetítői tevékenységére kell alkalmazni, kivéve, ha e törvény, nemzetközi szerződés, illetve az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa eltérően rendelkezik.
+
+(3) E törvény rendelkezéseit a Magyarország területén székhellyel vagy lakcímmel rendelkező biztosító, viszontbiztosító, biztosításközvetítő, viszontbiztosítás-közvetítő és kiegészítő biztosításközvetítői tevékenységet végző személy azon biztosítási, viszontbiztosítási, biztosításközvetítői, viszontbiztosítás-közvetítői és kiegészítő biztosításközvetítői tevékenységére,
+
+- a) amelyet az Európai Unión kívül végez, illetve
+- b) amely az Európai Unión kívüli kockázatokra és kötelezettségvállalásokra vonatkozik,
+
+kizárólag abban az esetben kell alkalmazni, ha nemzetközi szerződés így rendelkezik.
 
 2. § (1) E törvény hatálya nem terjed ki:
 
@@ -31,7 +38,7 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - e) az önkéntes kölcsönös biztosító pénztárak, a magánnyugdíjpénztárak és a foglalkoztatói nyugdíjpénztárak tevékenységére;
 - f) azon szervezetek tevékenységére, amelyek kizárólag halál esetére vállalják szolgáltatás nyújtását, ha a szolgáltatás összege nem haladja meg az egy halálesetre jutó, helyben szokásos temetési költséget vagy a szolgáltatásokat természetben nyújtják;
 - g) a jogi személyiséggel nem rendelkező azon szervezetek tevékenységére, amelyek célja az, hogy tagjaik számára bárminemű díj fizetése vagy biztosítástechnikai tartalékok képzése nélkül kölcsönös védelmet nyújtsanak;
-- h)
+- h) a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbt.) 42. §-a szerinti határbiztosítással kapcsolatos feladatai ellátásával összefüggésben a Nemzeti Irodára, valamint annak megbízottjaira;
 - i) olyan szervezetek által nyújtott szolgáltatásokra, amelyek célja, hogy szolgáltatásokat nyújtsanak – gazdálkodó szervezethez, gazdálkodó szervezetek csoportjához, továbbá szakmához vagy szakmák csoportjához tartozó – alkalmazottaknak vagy önálló vállalkozó személyeknek elhalálozás, túlélés vagy a tevékenységgel való felhagyás vagy annak korlátozása esetén, függetlenül attól, hogy az ilyen tevékenységből származó kötelezettségvállalásokra a biztosítástechnikai tartalékok mindenkor teljes fedezetet biztosítanak-e;
 - j) az állami többségi részesedésű gazdasági társaság által folytatott vagy az állam által teljes egészében garantált viszontbiztosítási tevékenységre, ha az állam nyomós közérdek miatt folytat – jogszabályban meghatározott feltételekkel – nem piaci alapú, a tiltott állami támogatás szabályaival összeegyeztethető viszontbiztosítási tevékenységet, ideértve azt az esetet is, amikor e tevékenységét olyan piaci helyzet indokolja, amelyben nem lehetséges megfelelő piaci fedezetet találni.
 
@@ -67,12 +74,11 @@ Az Országgyűlés a biztosítottak érdekeinek védelme, az öngondoskodás ös
 - 11. biztosítási tevékenység: biztosítási szerződésen alapuló kötelezettségvállalás, amely során a tevékenységet végző megszervezi az azonos vagy hasonló kockázatoknak kitett személyek közösségét (veszélyközösség), matematikai és statisztikai eszközökkel felméri a biztosítható kockázatokat, megállapítja és beszedi a kötelezettségvállalás ellenértékét (díját), meghatározott tartalékokat képez, a létrejött jogviszony alapján a kockázatot átvállalja és teljesíti a szolgáltatásokat, ideértve az üzletszerűen végzett járadékszolgáltatás nyújtására irányuló tevékenységet is, függetlenül attól, hogy a kötelezettségvállalás ellenértéke meghatározott pénz fizetése (díj) vagy egyéb ellenszolgáltatás formájában valósul meg;
 - 12. biztosítási titok: minden olyan – minősített adatot nem tartalmazó –, a biztosító, a viszontbiztosító, a biztosításközvetítő rendelkezésére álló adat, amely a biztosító, a viszontbiztosító, a biztosításközvetítő ügyfeleinek – ideértve a károsultat is – személyi körülményeire, vagyoni helyzetére, illetve gazdálkodására vagy a biztosítóval, illetve a viszontbiztosítóval kötött szerződéseire vonatkozik;
 - 13. biztosítási üzletág: a biztosítástechnikai tartalékok képzésének, illetve a tőkeszükséglet számításának céljából, a kockázatok természete alapján történő minimálisan elvárt elkülönített kezelése szerinti, a biztosítási és viszontbiztosítási kockázatoknak a homogén csoportja, az Európai Bizottságnak (a továbbiakban: Bizottság) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelv (a továbbiakban: Szolvencia 2 irányelv) 86. cikk (1) bekezdés e) pontjában meghatározott tárgykörben kiadott rendeletének I. melléklete szerint;
-- 14. biztosításközvetítői tevékenység: a biztosítási szerződés létrehozására irányuló üzletszerű tevékenység, amely kiterjed a biztosítási szerződések megkötésének elősegítésére, biztosítási termékek ismertetésére, ajánlására, az ezzel kapcsolatos felvilágosításra, a biztosítási szerződések megkötésére, a biztosítási szerződések értékesítésének szervezésére, továbbá a biztosítási szerződések lebonyolításában és teljesítésében való közreműködésre. Nem minősül biztosításközvetítői tevékenységnek:
-  - a) a más szakmai tevékenység keretében nyújtott információszolgáltatás, amennyiben a tevékenység célja nem az, hogy az ügyfélnek segítséget nyújtson egy biztosítási szerződés megkötésében vagy teljesítésében,
-  - b) a követelések behajtásában való közreműködés,
-  - c) a kárfelmérési és értékbecslési tevékenység,
-  - d) a biztosítási szerződések lebonyolításában és teljesítésében való közreműködés, ha azt olyan személy végzi, aki a biztosítási igények felkutatásában és a biztosítási védelmet kereső ügyfelek igényének szerződéskötés céljából való kiközvetítésében egyébként nem vesz részt;
-- 15. biztosításközvetítő: az a természetes vagy jogi személy, aki biztosításközvetítői tevékenységet végez;
+- 14. biztosításközvetítői tevékenység: a biztosításközvetítő által végzett azon üzletszerű tevékenység, amely a biztosítási értékesítést, annak szervezését, valamint a független biztosításközvetítői szaktanácsadást foglalja magában, azzal, hogy nem minősülnek biztosításközvetítői tevékenységnek a 123. pont a)–d) alpontjai szerinti tevékenységek;
+- 15. biztosításközvetítő: az a természetes vagy jogi személy, aki javadalmazás ellenében biztosításközvetítői tevékenységet végez, ide nem értve
+  - a) a saját kockázatvállalásával összefüggő, saját jogú értékesítési tevékenységet végző biztosítót és a vele jogviszonyban álló, részére közvetlenül értékesítési tevékenységet végző, biztosításközvetítőnek nem minősülő természetes személyeket (a továbbiakban: biztosító közreműködői),
+  - b) a saját kockázatvállalásával összefüggő, saját jogú viszontbiztosítási értékesítési tevékenységet végző viszontbiztosítót és a vele jogviszonyban álló, részére közvetlenül értékesítési tevékenységet végző, viszontbiztosítás-közvetítőnek nem minősülő természetes személyeket (a továbbiakban: viszontbiztosító közreműködői),
+  - c) a kiegészítő biztosításközvetítői tevékenységet végző személyt (beleértve a 368. § (1) bekezdése szerinti személyt is);
 - 16. biztosítástechnikai kockázat: a veszteség vagy a biztosítási kötelezettség értékében bekövetkező kedvezőtlen változás kockázata, amely a nem megfelelő árazási, illetve tartalékolási feltevésekből ered;
 - 17. biztosítástechnikai tartalék: a biztosító – ide nem értve a hatodik rész hatálya alá tartozó biztosítót – és a viszontbiztosító esetében a biztosítástechnikai tartalékok értéke annak az aktuális összegnek felel meg, amelyet a biztosító vagy a viszontbiztosító fizetne, ha a biztosítási és viszontbiztosítási kötelezettségeit azonnal egy másik biztosítóra vagy viszontbiztosítóra ruházná át;
 - 18. biztosító: az a szervezet, amely a hatályos magyar jogi szabályozás vagy valamely hatályos tagállami szabályozás szerint biztosítási tevékenység végzésére jogosult;
@@ -99,28 +105,27 @@ kapcsán megvalósuló büntetlen előélet;
   - b) szerződéses rendelkezések azzal a céllal, hogy a felek gazdasági eredményei a szerződés teljes időtartama alatt egyensúlyban legyenek, és ezáltal megvalósuljon a célzott kockázatáthárítás;
 - 33. fogyasztó: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben meghatározott fogalom;
 - 34. függő biztosításközvetítő: az a biztosításközvetítő, aki biztosítóval fennálló jogviszony alapján
-  - a) egy biztosító biztosítási termékeit vagy több biztosító egymással nem versengő biztosítási termékeit közvetíti;
-  - b) a biztosításközvetítői tevékenységet – akár több biztosító egymással versengő biztosítási termékeit – a főtevékenységéhez kapcsolódó termékre vagy szolgáltatásra vonatkozóan, azt kiegészítő tevékenységként végzi, ha a biztosítótól az ügyfélnek járó összeget nem vesz át [az a)–b) pont a továbbiakban együtt: ügynök];
-  - c) egyidejűleg több biztosító egymással versengő biztosítási termékeit közvetíti (a továbbiakban: többes ügynök);
+  - a) egy biztosító biztosítási termékeit vagy több biztosító egymással nem versengő biztosítási termékeit közvetíti (a továbbiakban: ügynök),
+  - b) egyidejűleg több biztosító egymással versengő biztosítási termékeit közvetíti (a továbbiakban: többes ügynök);
 - 35. független biztosításközvetítő: az ügyfél megbízásából eljáró biztosításközvetítő;
 - 36. gazdálkodó szervezet: a polgári perrendtartásról szóló 2016. évi CXXX. törvényben meghatározott fogalom;
 - 37. harmadik ország: az az ország, amely nem tagja az Európai Uniónak;
 - 38. harmadik országbeli biztosító: az a harmadik országbeli szervezet, amely a székhely szerinti ország jogszabályai alapján biztosítási tevékenységre jogosult, és ezen tevékenysége e törvény szerint engedélyköteles lenne, ha a székhelye Magyarország területén lenne;
 - 39. harmadik országbeli viszontbiztosító: az a harmadik országbeli biztosítónak nem minősülő harmadik országbeli szervezet, amely a székhely szerinti ország jogszabályai alapján viszontbiztosítási tevékenységre jogosult és ezen tevékenysége e törvény szerint engedélyköteles lenne, ha a székhelye Magyarország területén lenne;
-- 40. határon átnyúló szolgáltatás: az a szolgáltatás, amely esetében a biztosító, a viszontbiztosító, és a biztosításközvetítő tevékenységéhez kapcsolódó kötelezettségvállalás tagállama nem azonos azzal a tagállammal, ahol a biztosító, a viszontbiztosító, és a biztosításközvetítő székhelye, központi ügyintézés helye (a továbbiakban: központi iroda) található;
+- 40. határon átnyúló szolgáltatás: az a szolgáltatás, amely esetében a biztosító vagy a viszontbiztosító tevékenységéhez kapcsolódó kötelezettségvállalás tagállama nem azonos azzal a tagállammal, ahol a biztosító vagy a viszontbiztosító székhelye, központi irodája található, biztosításközvetítő, viszontbiztosítás-közvetítő és kiegészítő biztosításközvetítői tevékenységet végző személy esetén pedig az a szolgáltatás, amelyet a biztosításközvetítő, a viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy fogadó tagállamban nyújt;
 - 41. illikvid eszköz: eszközalap olyan eszköze, amelynek értéke nem állapítható meg, ideértve különösen, ha az értékelésre alkalmas piaci árfolyam-információk az eszköz forgalmazásának, kereskedésének vagy nyilvános árjegyzésének felfüggesztése miatt nem állnak maradéktalanul rendelkezésre;
 - 42. illeszkedési kiigazítás: a vonatkozó kockázatmentes hozamgörbére vonatkozó kiigazítás, amely azon alapszik, hogy a lejáratig tartott kötvényekkel vagy más, hasonló pénzáramlási jellemzőkkel bíró eszközökkel rendelkező biztosítók vagy viszontbiztosítók nincsenek kitéve az ezen eszközök kamatrésének megváltozásából eredő kockázatnak;
 - 43. indulótőke: a kölcsönös biztosító egyesület alapításkori jegyzett tőkéje;
-- 44. Információs Központ: a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvényben (a továbbiakban: Gfbt.) meghatározott fogalom;
+- 44. Információs Központ: a Gfbt.-ben meghatározott fogalom;
 - 45. járadékszolgáltatás: a jogosult részére szerződés alapján meghatározott pénzösszeg időszakonként visszatérő szolgáltatása;
 - 46. jegyzett tőke és saját tőke: a számvitelről szóló törvényben (a továbbiakban: Szmt.) meghatározottak szerinti jegyzett tőke és saját tőke;
 - 47. jellemző kockázat: több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék ágazati, illetve alágazati besorolását meghatározó kockázat. A több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék abba az egy biztosítási ágazatba, illetve biztosítási alágazatba tartozik, amely megfelel az adott termék díjkalkulációja szerint a legnagyobb arányú díjrésszel fedezett kockázat ágazati, illetve alágazati besorolásának;
 - 48. jogvédelmi biztosítás: a jogi eljárási költségek viselésére és a biztosítási fedezetből fakadó más szolgáltatások nyújtására vonatkozó kötelezettség díj ellenében történő elvállalása, így különösen
   - a) a biztosított által elszenvedett kár és a részére járó sérelemdíj peren kívüli egyezséggel vagy polgári, illetve büntetőeljárás során történő megtérülésének biztosítása,
   - b) a biztosított polgári, büntető-, közigazgatási hatósági vagy egyéb eljárásban, illetve a biztosítottal szemben támasztott kártérítési és sérelemdíj iránti igény esetében való védelme vagy képviselete;
-- 49. jutalék: jogcímtől függetlenül a biztosítási díj meghatározott részét képező minden olyan pénzbeli vagy természetbeni előny, szolgáltatás, juttatás és ellentételezés, amelyben a biztosításközvetítő az általa közvetített biztosítási szerződés létrejöttéért, illetve az általa közvetített vagy fenntartott biztosítási szerződés teljesítéséért, meghatározott ideig való fenntartásáért az elvégzett biztosításközvetítői tevékenység díjazásaként a kockázatot elvállaló biztosítótól közvetve vagy közvetlenül részesül;
-- 50. jutalékjogosultság: a biztosításközvetítő által közvetített vagy fenntartott biztosítási szerződés tekintetében a biztosításközvetítői jogviszony alapján a közvetítőt megillető jogosultság a biztosítás tartama alatt a biztosításközvetítői tevékenység által érintett időszakra járó jutalék vonatkozásában, meghatározott esetekben és mértékben a biztosítási szerződés folyamatos fennállása esetén a közvetítői jogviszony megszűnését követő időszakot is beleértve;
-- 51. jutalék-visszatérítés: a biztosításközvetítőt a biztosításközvetítői jogviszonya alapján terhelő jutalék-visszatérítési kötelezettség, amely szerint a részére fizetett jutalékot meghatározott feltételek szerint – a jutalékfizetés alapjául szolgáló tényezők változásával arányosan – részben vagy egészben köteles visszafizetni, amennyiben a közvetített biztosítási szerződés idő előtt (biztosítási eseményhez nem köthetően) megszűnik vagy a biztosítási díj olyan mértékű változása következik be, amely nem fedezi a kifizetett jutalék összegét;
+- 49. jutalék: a biztosítási díj meghatározott részét képező minden olyan javadalmazási forma, amelyben a függő biztosításközvetítő az általa közvetített biztosítási szerződés létrejöttéért, illetve az általa közvetített vagy fenntartott biztosítási szerződés teljesítéséért, meghatározott ideig való fenntartásáért az elvégzett biztosításközvetítői tevékenység díjazásaként a kockázatot elvállaló biztosítótól közvetlenül részesül;
+- 50. jutalékjogosultság: a függő biztosításközvetítő által közvetített vagy fenntartott biztosítási szerződés tekintetében a biztosításközvetítői jogviszony alapján a közvetítőt megillető jogosultság a biztosítás tartama alatt a biztosításközvetítői tevékenység által érintett időszakra járó jutalék vonatkozásában, meghatározott esetekben és mértékben a biztosítási szerződés folyamatos fennállása esetén a közvetítői jogviszony megszűnését követő időszakot is beleértve;
+- 51. jutalék-visszatérítés: a függő biztosításközvetítőt a biztosításközvetítői jogviszonya alapján terhelő jutalék-visszatérítési kötelezettség, amely szerint a részére fizetett jutalékot meghatározott feltételek szerint – a jutalékfizetés alapjául szolgáló tényezők változásával arányosan – részben vagy egészben köteles visszafizetni, amennyiben a közvetített biztosítási szerződés idő előtt (biztosítási eseményhez nem köthetően) megszűnik vagy a biztosítási díj olyan mértékű változása következik be, amely nem fedezi a kifizetett jutalék összegét;
 - 52. kapcsolt vállalkozás: a leányvállalat vagy az a vállalkozás, amelyben egy másik vállalkozás részesedési viszonnyal rendelkezik, illetve az a vállalkozás, amelyet az alábbi kapcsolatok valamelyike fűz egy másik vállalkozáshoz, de nem jön létre ellenőrző befolyás közöttük
   - a) az adott vállalkozás és egy vagy több egyéb vállalkozás szerződés vagy alapító (létesítő) okirat alapján egységes alapú vezetés alá tartozik vagy
   - b) az adott vállalkozásnak és egy vagy több egyéb vállalkozásnak az ügyviteli, ügyvezető vagy felügyelő testülete többségében azonos személyekből áll;
@@ -195,16 +200,44 @@ kapcsán megvalósuló büntetlen előélet;
   - b) azok a biztosítási termékek, amelyek egy szerződés keretén belül több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedeznek, ha a jellemző kockázat szerinti ágazati vagy alágazati besorolásuk azonos; vagy
   - c) az ugyanazon biztosítási ágazatba vagy ugyanazon biztosítási ágazat valamely alágazatába tartozó biztosítási termék és az egy szerződés keretén belül több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék, ha ez utóbbi termék jellemző kockázat szerinti ágazati vagy alágazati besorolása megegyezik az előbbi termék ágazati vagy alágazati besorolásával;
 - 112. viszontbiztosítási tevékenység: a biztosító vagy viszontbiztosító, továbbá harmadik országbeli biztosító vagy viszontbiztosító által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása;
-- 113. viszontbiztosítás-közvetítői tevékenység: viszontbiztosítási szerződés létrehozására irányuló rendszeres, üzletszerű tevékenység, amely kiterjed a viszontbiztosítási szerződések megkötésének elősegítésére, viszontbiztosítási termékek ismertetésére, ajánlására, az ezzel kapcsolatos felvilágosításra, a viszontbiztosítási szerződések megkötésére, a viszontbiztosítási szerződések értékesítésének szervezésére, továbbá a viszontbiztosítási szerződések lebonyolításában és teljesítésében való közreműködésre;
-- 114. viszontbiztosítás-közvetítő: az a természetes vagy jogi személy, aki főtevékenységként viszontbiztosítás-közvetítői tevékenységet végez;
+- 113. viszontbiztosítás-közvetítői tevékenység: a viszontbiztosító által végzett azon üzletszerű tevékenység, amely a viszontbiztosítási értékesítést és annak szervezését foglalja magában, azzal, hogy nem minősülnek viszontbiztosítás-közvetítői tevékenységnek a 124. pont a)–d) alpontjai szerinti tevékenységek;
+- 114. viszontbiztosítás-közvetítő: az a természetes vagy jogi személy, aki javadalmazás ellenében viszontbiztosítás-közvetítői tevékenységet végez, ide nem értve a saját kockázatvállalásával összefüggő, saját jogú viszontbiztosítási értékesítési tevékenységet végző viszontbiztosítót és közreműködőit;
 - 115. viszontbiztosító: az a vállalkozás, amely a székhelye szerinti tagállamban kizárólag viszontbiztosítási és azzal közvetlenül összefüggő tevékenység végzésére kapott engedélyt;
 - 116. viszontbiztosítói holdingtársaság: olyan – vegyes pénzügyi holdingtársaságnak nem minősülő – anyavállalat, amelynek alapvető tevékenysége részesedés megszerzése és birtoklása olyan leányvállalatban, amely viszontbiztosító vagy harmadik országbeli biztosító, és közülük legalább egy leányvállalat tagállami viszontbiztosító;
 - 117. volatilitási kiigazítás: a vonatkozó kockázatmentes hozamgörbére vonatkozó kiigazítás, amely a hozamfelárak változékonyságának szavatoló tőkére gyakorolt hatását tompítja;
 - 118. zárt biztosító: olyan biztosító, amelynek célja biztosítási fedezet biztosítása kizárólag azon vállalkozás vagy vállalkozások kockázatai tekintetében, amelyeknek a zárt biztosító tulajdonát képezi, vagy azon csoport vállalkozása vagy vállalkozásainak kockázatai tekintetében, amelynek a zárt biztosító a tagja;
 - 119. zárt viszontbiztosító: olyan viszontbiztosító, amelynek célja viszontbiztosítási fedezet biztosítása kizárólag azon vállalkozás vagy vállalkozások kockázatai tekintetében, amelyeknek a zárt viszontbiztosító tulajdonát képezi, vagy azon csoport vállalkozása vagy vállalkozásainak kockázatai tekintetében, amelynek a zárt viszontbiztosító a tagja;
 - 120. külső hitelminősítő intézet: a Hpt.-ben meghatározott fogalom;
-- 121. tartós adathordozó: a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 2. § (1) bekezdés e) pontjában meghatározott fogalom;
-- 122. alapvető kamatkülönbözet: az eszközök nemteljesítési valószínűségének megfelelő hitelkockázati kamatkülönbözet és az eszközök leminősítéséből eredő várható veszteségeknek megfelelő hitelkockázati kamatkülönbözet összege.
+- 121. tartós adathordozó: a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 2. § (1) bekezdés e) pontjában meghatározott fogalom, azzal, hogy a tárolt adatoknak változatlan formában többszörözhetőknek is kell lenniük;
+- 122. alapvető kamatkülönbözet: az eszközök nemteljesítési valószínűségének megfelelő hitelkockázati kamatkülönbözet és az eszközök leminősítéséből eredő várható veszteségeknek megfelelő hitelkockázati kamatkülönbözet összege;
+- 123. biztosítási értékesítés: azon – a biztosítási szerződés létrehozására irányuló – üzletszerű értékesítési tevékenység, amely kiterjed a biztosítási szerződések megkötésének előkészítésére, illetve elősegítésére, az azokkal kapcsolatos tanácsadásra, ajánlattételre, az ilyen szerződések lebonyolításában és teljesítésében való közreműködésre (ideértve a kárigény érvényesítése kapcsán történő közreműködést is), valamint azon esetekben, amikor az ügyfélnek lehetősége van honlapon vagy más tájékoztatási eszközön keresztül közvetve vagy közvetlenül biztosítási szerződés megkötésére ajánlatot tenni és ennek alapján szerződést kötni, a biztosítási termékek, valamint azok árai (ideértve a nyújtott árkedvezményt is) különböző kritériumok alapján történő összehasonlítására és az azokról történő tájékoztatásra is, azzal, hogy nem minősül biztosítási értékesítésnek:
+  - a) a más szakmai tevékenység keretében esetileg nyújtott tájékoztatás, amennyiben a tájékoztatást nyújtó nem tesz további – a biztosítási szerződés megkötését vagy teljesítését elősegítő – lépést,
+  - b) a biztosítási károk szakmai alapon végzett kárügyintézése, valamint a kárrendezési és szakértői kárbecslési – szakmai alapon végzett – tevékenység,
+  - c) adat- és információszolgáltatás a lehetséges szerződőkről biztosításközvetítők vagy biztosítók számára, amennyiben az információt nyújtó nem tesz további – a biztosítási szerződés megkötését elősegítő – lépést,
+  - d) tájékoztatás nyújtása biztosítási termékekről, illetve biztosításközvetítőkről vagy biztosítókról a lehetséges szerződők számára, amennyiben a tájékoztatást nyújtó nem tesz további – a biztosítási szerződés megkötését elősegítő – lépést;
+- 124. viszontbiztosítási értékesítés: azon – a viszontbiztosítási szerződés létrehozására irányuló – üzletszerű értékesítési tevékenység, amely kiterjed a viszontbiztosítási szerződések megkötésének előkészítésére, illetve elősegítésére, az azokkal kapcsolatos tanácsadásra, ajánlattételre, az ilyen szerződések lebonyolításában és teljesítésében való közreműködésre (ideértve a kárigény érvényesítése kapcsán történő közreműködést is), azzal, hogy nem minősül viszontbiztosítási értékesítésnek:
+  - a) a más szakmai tevékenység keretében esetileg nyújtott tájékoztatás, amennyiben a tevékenység célja nem az, hogy az ügyfélnek segítséget nyújtson viszontbiztosítási szerződés megkötésében vagy teljesítésében,
+  - b) a viszontbiztosítási károk szakmai alapon végzett kárügyintézése, valamint a kárrendezési és szakértői kárbecslési tevékenység,
+  - c) adat- és információszolgáltatás a lehetséges szerződőkről viszontbiztosítás-közvetítők vagy viszontbiztosítók számára, amennyiben az információt nyújtó nem tesz további – a viszontbiztosítási szerződés megkötését elősegítő – lépést,
+  - d) tájékoztatás nyújtása viszontbiztosítási termékekről, illetve viszontbiztosítás-közvetítőkről vagy viszontbiztosítókról a lehetséges szerződők számára, amennyiben a tájékoztatást nyújtó nem tesz további – a viszontbiztosítási szerződés megkötését elősegítő – lépést;
+- 125. kiegészítő biztosításközvetítői tevékenységet végző személy: azon – az 575/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés 1. és 2. pontjában meghatározott hitelintézettől vagy befektetési vállalkozástól eltérő – természetes vagy jogi személy, aki – az őt megbízó biztosító, többes ügynök vagy alkusz felelősségvállalása mellett – javadalmazás ellenében a főtevékenységéhez kapcsolódóan kiegészítő jelleggel végez kiegészítő biztosításközvetítői tevékenységet, amennyiben az alábbi feltételek mindegyike teljesül:
+  - a) a személy fő szakmai tevékenysége nem a biztosítási értékesítés,
+  - b) a közvetített biztosítási szerződés kiegészítője valamely szolgáltató által kínált terméknek vagy nyújtott szolgáltatásnak,
+  - c) a közvetített biztosítási szerződés nem-életbiztosítási szerződés és nem tartalmaz felelősségi kockázatot, kivéve, ha az ilyen fedezet kiegészíti a személy által fő szakmai tevékenységeként kínált terméket vagy nyújtott szolgáltatást,
+  - d) a biztosítótól az ügyfélnek járó összeget előzetesen nem vesz át;
+- 126. biztosításértékesítő: bármely biztosításközvetítő, kiegészítő biztosításközvetítői tevékenységet végző személy vagy biztosító;
+- 127. javadalmazás: bármely jutalék, közvetítői díj, egyéb díj vagy más kifizetés, ideértve bármilyen jellegű gazdasági előnyt, vagy bármely egyéb pénzbeli vagy nem pénzbeli előnyt vagy ösztönzőt, amelyet a biztosítási értékesítési tevékenységre tekintettel kínálnak fel vagy nyújtanak;
+- 128. a biztosítás-, viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy székhely szerinti tagállama: természetes személy esetén a lakóhelye szerinti tagállam, jogi személy esetén a székhelye szerinti tagállam, vagy amennyiben a nemzeti joga szerint nincs székhelye, akkor a központi irodája szerinti tagállam;
+- 129. a biztosításközvetítő, a viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy fogadó tagállama: – a székhely szerinti tagállamtól eltérő – azon tagállam, ahol a biztosításközvetítő, a viszontbiztosítás-közvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy fióktelep formájában vagy határon átnyúló szolgáltatásként tevékenységet végez;
+- 130. tagállami fióktelep: a biztosító, a viszontbiztosító, a biztosításközvetítő, a viszontbiztosítás-közvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy – a székhelye szerinti tagállamon kívüli – tagállamban található képviselete vagy fióktelepe;
+- 131. központi iroda: az a hely, ahonnan a biztosító, viszontbiztosító, biztosításközvetítő, viszontbiztosítás-közvetítő és kiegészítő biztosításközvetítői tevékenységet végző személy fő tevékenységének irányítása történik;
+- 132. tanácsadás: a biztosításértékesítő – saját kezdeményezésére vagy az ügyfél kérésére megvalósuló – személyes ajánlása egy vagy több biztosítási termékre vonatkozóan;
+- 133. biztosítási alapú befektetési termék: olyan biztosítási termék, amely lejárati értékkel vagy visszavásárlási értékkel rendelkezik, és amelynek lejárati vagy visszavásárlási értéke részben vagy egészben, közvetlenül vagy közvetve ki van téve a piaci ingadozásoknak, azzal, hogy nem minősülnek biztosítási alapú befektetési terméknek
+  - a) az 1. melléklet szerinti nem-életbiztosítási ágazatokhoz kapcsolódó biztosítási termékek,
+  - b) azon életbiztosítási szerződések, amelyek tisztán kockázatiak (halálesetiek), illetve amelyek esetén biztosítási szolgáltatás kizárólag sérülésből, betegségből vagy fogyatékosságból eredő rokkantsággal összefüggésben nyújtható,
+  - c) olyan nyugdíj-előtakarékossági (nem biztosítási alapú) befektetési termékek, amelyek elsődleges céljukat tekintve a befektető számára nyugdíjjövedelmet biztosító és a befektetőt bizonyos szolgáltatásokra feljogosító termékként elismert termékek,
+  - d) a foglalkoztatói nyugdíjpénztári nyugdíjkonstrukciók,
+  - e) olyan egyéni nyugdíj-előtakarékossági termékek, amelyeknél a munkáltató pénzügyi hozzájárulásra kötelezett, és amelyek esetében a munkáltatónak vagy a munkavállalónak nincs választási lehetősége a nyugdíj-előtakarékossági termék vagy szolgáltatója tekintetében.
 
 (2) Az Európai Unió és az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget (a továbbiakban: EGT) és az EGT-államot is érteni kell, azzal, hogy a nem-életbiztosítási ág tekintetében a Svájci Államszövetségre az EGT-államra vonatkozó rendelkezéseket kell alkalmazni.
 
@@ -606,6 +639,28 @@ is kiállítható.
 
 48. § Magyarországi székhelyű biztosító vagy viszontbiztosító és a harmadik országbeli biztosító vagy viszontbiztosító magyarországi fióktelepe esetén a központi iroda is csak Magyarország területén lehet.
 
+#### 14/A. A biztosító vagy a viszontbiztosító közreműködőiről és értékesítési tevékenységért felelős vezetőjéről vezetett nyilvántartása
+
+48/A. § (1) A biztosító vagy a viszontbiztosító a közreműködőiről, valamint a biztosítási vagy viszontbiztosítási értékesítési tevékenységért felelős vezetőjéről – a biztosítási vagy viszontbiztosítási értékesítési tevékenységért felelős vezetőkkel, valamint a biztosítói és viszontbiztosítói közreműködőkkel kapcsolatos nyilvántartási és felügyeleti feladatok elősegítése céljából – köteles belső nyilvántartást vezetni.
+
+(2) Az (1) bekezdésben meghatározott belső nyilvántartás a biztosítási vagy viszontbiztosítási értékesítési tevékenységért felelős vezető belső nyilvántartásából, valamint a biztosítói vagy a viszontbiztosítói közreműködők belső nyilvántartásából áll.
+
+(3) A biztosítási vagy viszontbiztosítási értékesítési tevékenységért felelős vezetőről vezetett belső nyilvántartás – a vezető adataiban bekövetkezett változások nyomon követésével és dokumentálásával – a biztosítási vagy viszontbiztosítási értékesítési tevékenységért felelős vezető
+
+- a) nevét,
+- b) a 75/A. § (1) bekezdésében és a 134/A. §-ban meghatározott követelményeknek történő megfelelésének igazolását
+
+tartalmazza.
+
+(4) A biztosító vagy viszontbiztosító közreműködőiről vezetett belső nyilvántartás – a közreműködők adataiban bekövetkezett változások nyomon követésével és dokumentálásával – a közreműködők
+
+- a) nevét,
+- b) a 75/A. § (1) bekezdésében és a 134/A. §-ban meghatározott követelményeknek történő megfelelésének igazolását
+
+tartalmazza.
+
+(5) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő az adott belső nyilvántartást vezető biztosító vagy viszontbiztosító, amely az adatokat az adott személlyel fennálló jogviszonya megszűnését követő öt évig kezelheti.
+
 ## MÁSODIK RÉSZ — A BIZTOSÍTÓK ÉS A VISZONTBIZTOSÍTÓK MŰKÖDÉSÉRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
 ### III. Fejezet — A VEZETŐKRE ÉS ALKALMAZOTTAKRA VONATKOZÓ SZABÁLYOK
@@ -840,6 +895,13 @@ szerzett végzettség.
   - ca) a Felügyelet feladatkörébe tartozó törvények vagy e törvények felhatalmazása alapján kiadott jogszabályok előírásait, és emiatt vele szemben a Felügyelet öt évnél nem régebbi jogerős vagy végleges határozatában a legmagasabb összegű bírságot szabta ki vagy a felmentését kezdeményezte, vagy a bíróság öt évnél nem régebbi jogerős határozatában felelősségét e jogszabályok megsértése miatt megállapította,
   - cb) a tevékenységére vonatkozó külföldi jogszabályban meghatározott rendelkezéseket és emiatt az felügyelet öt évnél nem régebbi jogerős vagy végleges döntésében a legmagasabb összegű bírságot szabta ki vele szemben vagy a felmentését kezdeményezte, vagy a külföldi bíróság öt évnél nem régebbi jogerős döntésében felelősségét e jogszabályok megsértése miatt megállapította.
 
+#### 25/A. Jó hírnév
+
+69/A. § Nem lehet jó hírnévvel rendelkezőnek minősíteni azt a személyt, aki
+
+- a) nem büntetlen előéletű, vagy
+- b) vezető állású személy vagy vezető tisztségviselő volt olyan biztosítónál, viszontbiztosítónál vagy pénzügyi szervezetnél, illetve vezető állású személy vagy vezető tisztségviselő volt olyan gazdasági társaságnál, amely esetében a fizetőképtelenséget kizárólag az illetékes felügyeleti hatóság által alkalmazott intézkedéssel lehetett elkerülni, vagy amelyet felszámoltak vagy felszámolási eljárás alatt áll, vagy amelyet kényszertörlési eljárásban töröltek vagy kényszertörlési eljárás alatt áll, és akinek személyes felelősségét e helyzet kialakulásáért öt évnél nem régebbi, jogerős bírósági vagy végleges hatósági határozat megállapította.
+
 #### 26. A könyvvizsgáló
 
 70. § (1) A biztosítónak vagy a viszontbiztosítónak – a legfőbb szerv döntése alapján – könyvvizsgálót kell megbíznia.
@@ -913,6 +975,12 @@ szerzett végzettség.
 (3) A biztosító vagy a viszontbiztosító vezető állású személye, egyéb vezetője, továbbá a biztosítási tevékenységgel kapcsolatos feladatot ellátó alkalmazottja vagy megbízottja a munkaviszony vagy megbízatás fennállása alatt az (1) és (2) bekezdésben meghatározott tények keletkezésével vagy fennállásával kapcsolatos változásról két munkanapon belül írásbeli nyilatkozatot köteles tenni.
 
 (4) Az (1)–(3) bekezdés alapján tett bejelentésekről és nyilatkozatokról a biztosító vagy a viszontbiztosító köteles nyilvántartást vezetni.
+
+75/A. § (1) A biztosító vagy a viszontbiztosító értékesítési tevékenységért felelős vezetőjének, valamint a biztosító vagy a viszontbiztosító közreműködőinek a 69/A. § szerinti jó hírnévvel kell rendelkezniük,
+
+(2) A 69/A. § szerinti jó hírnév követelményének történő megfelelést a – velük jogviszonyban álló – személyek vonatkozásában, azok nyilvántartásba vételekor a biztosító vagy a viszontbiztosító köteles, míg a későbbiekben – a jogviszonyuk fennállása alatt – jogosult ellenőrizni.
+
+(3) Biztosító vagy viszontbiztosító közreműködőjeként csak olyan személy végezhet biztosítási vagy viszontbiztosítási értékesítési tevékenységet, aki a 48/A. § (4) bekezdése szerinti belső nyilvántartásban szerepel.
 
 ### IV. Fejezet — A BIZTOSÍTÓK ÉS VISZONTBIZTOSÍTÓK IRÁNYÍTÁSI RENDSZERE
 
@@ -1341,7 +1409,7 @@ az e szolgáltatások tekintetében képzett biztosítástechnikai tartalékokat
 - e) a biztosító az általa kezelt portfólió javára nem köthet ügyletet – a fél évnél rövidebb lejáratú állampapír és a nyilvános, nyíltvégű befektetési jegy kivételével – szabályozott piacra be nem vezetett pénzügyi eszközre olyan vállalkozással, amelyben minősített befolyással rendelkezik, vagy amely a biztosítóban minősített befolyással rendelkezik,
 - f) a befektetés az ügyfél számára a befektetési politikával összhangban, szakszerű végrehajtás mellett, tisztességesen, átláthatóan, kellő gondossággal és az ügyfél érdekében valósuljon meg, különös tekintettel az árra, a költségre – az alapkezelés során kapott visszatérítést elvonáscsökkentésként beszámítva – és az elvárható hozamra.
 
-(1a) A biztosító köteles az általa felszámított bármely díjat, költséget vagy jutalékot, továbbá a képzett tartalék arányában felszámított elvonást úgy megnevezni, hogy abból, illetve a kapcsolódó meghatározásból egyértelműen megállapítható legyen ezek célja és mögöttes tartalma.
+(1a) A biztosító köteles az általa felszámított bármely díjat, költséget vagy javadalmazást, továbbá a képzett tartalék arányában felszámított elvonást úgy megnevezni, hogy abból, illetve a kapcsolódó meghatározásból egyértelműen megállapítható legyen ezek célja és mögöttes tartalma.
 
 (2) A biztosító szabályzatban határozza meg az (1) bekezdés a) pontjában meghatározott eszközök értékelésének elveire, továbbá a szerződők tájékoztatásának módjára és gyakoriságára vonatkozó szabályokat.
 
@@ -1657,11 +1725,29 @@ azzal, hogy a díjrészhez kapcsolódó megképzett tartalékon arányosan felsz
 
 (2) Ha a biztosítási termék közvetítése során a közvetítés körülményeiben a biztosító jogszabálysértést – ideértve a biztosítási termék független biztosításközvetítő igénybevételével történő terjesztése során észlelt jogszabálysértést is – észlel, haladéktalanul köteles intézkedni a jogszabálysértés megszüntetése iránt.
 
+130/A. § (1) A biztosítóknak becsületesen, tisztességesen, szakszerűen, az ügyfeleik legjobb érdeke szerint kell eljárniuk.
+
+(2) A biztosítók nem hozhatnak olyan – különösen javadalmazással összefüggő – intézkedéseket, amelyek arra ösztönözhetik a biztosításértékesítőket, hogy bizonyos biztosítási terméket ajánljanak az ügyfélnek, amikor más, az ügyfél igényeinek jobban megfelelő biztosítási terméket is ajánlhatnának.
+
 131. § A biztosítási termék terjesztése során tilos olyan módszert alkalmazni:
 
 - a) amellyel más személyek terhére ígérnek különleges előnyöket arra az esetre, ha a biztosított vagy a szerződő fél más személyt azonos vagy hasonló biztosítási szerződés megkötésére bír rá, vagy
 - b) amely a biztosítottól vagy a szerződő féltől olyan befektetést igényelne, amelyet részben vagy egészben olyan más személyekre hárít át, akiket hasonló vagy azonos biztosítási szerződésre kell rábírni,
 - c) amely biztosítási termék megvásárlását díjazással járó terjesztésbe való bevonás feltételéül szabja.
+
+131/A. § (1) A biztosítónak az általa kidolgozott és értékesíteni kívánt biztosítási termékek vonatkozásában a termékek előzetes belső jóváhagyására, a már értékesített biztosítási termékek vonatkozásában pedig a termékek felülvizsgálatára vonatkozó belső eljárásrendet kell fenntartania és azt rendszeresen, de legalább évente felülvizsgálnia.
+
+(2) Az (1) bekezdés szerinti jóváhagyási folyamatnak a biztosítási termék jellegéhez mérten arányosnak és megfelelőnek kell lennie, és annak során meg kell határozni a termék értékesítési stratégiáját, valamint azonosított célpiacát, amelynek minden vonatkozó kockázatát is értékelni szükséges. Ezzel összhangban biztosítani szükséges, hogy a tervezett értékesítési stratégia az azonosított célpiacnak megfelelő legyen, és, hogy a biztosítási termék az azonosított célpiacon kerüljön értékesítésre.
+
+(3) Az (1) bekezdés szerinti felülvizsgálatot rendszeresen, de legalább évente kell elvégezni és ennek során olyan eseményekre kell figyelemmel lenni, amelyek lényegesen befolyásolhatják az azonosított célpiac lehetséges kockázatait, így legalább annak vizsgálata szükséges, hogy a termék továbbra is megfelel-e az azonosított célpiac igényeinek, és, hogy a tervezett értékesítési stratégia továbbra is megfelelő-e.
+
+(4) A biztosítási termékeket kidolgozó biztosítók az adott terméket értékesítő biztosításértékesítők rendelkezésére bocsátják a biztosítási termékre és a termék jóváhagyási, valamint felülvizsgálati folyamatára vonatkozó összes, a biztosítási értékesítési tevékenységhez szükséges információt, ideértve a biztosítási termék azonosított célpiacára vonatkozó információkat is.
+
+(5) Amennyiben a biztosításértékesítő a nem saját maga által kidolgozott biztosítási termékekkel kapcsolatban nyújt tanácsot vagy azokat ajánlja, akkor ezt csak a (4) bekezdés szerinti információkkal összhangban teheti meg, amely információkat beszerzi a biztosítótól.
+
+(6) E § a nagykockázatra létrejövő biztosítási termékekre nem alkalmazandó.
+
+(7) Az e §-ban foglaltakat az Európai Bizottságnak a 2016/97/EU európai parlamenti és tanácsi irányelv 25. cikk (2) bekezdésében meghatározott tárgykörben kiadott rendeletében foglaltakkal összhangban kell alkalmazni.
 
 #### 55. A termékterv
 
@@ -1696,6 +1782,24 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 - a) az olyan – nemi hovatartozáshoz is kapcsolható – közvetett különbségtétel esetén, amelynek tárgyilagos mérlegelés szerint az adott jogviszonnyal közvetlenül összefüggő, önállóan értékelhető és valós különbségen alapuló ésszerű indoka van,
 - b) a biztosító ügyfelére, ügyfélcsoportjára nézve az Ebktv. 30/A. §-ában foglaltakhoz képest kedvezőbb elbírálás alkalmazása, ha az nem jelent meg nem engedett különbségtételt az adott ügyféllel, ügyfélcsoporttal összehasonlítható helyzetben lévő más személlyel, személyekkel szemben,
 - c) az egyik nem tagjainak meghatározott termékhez való hozzáférése megtagadása, ha a biztosító az adott terméket objektíven igazolt céllal, kizárólag vagy elsősorban az egyik nem tagjainak nyújtja, és a biztosító által alkalmazott megoldások a cél eléréséhez megfelelőek és ahhoz szükségesek.
+
+#### 56/A. A biztosító és a viszontbiztosító értékesítési tevékenységért felelős vezetőjének, valamint közreműködőinek – az értékesített termékekhez igazodó – szakmai képzése és továbbképzése
+
+134/A. § (1) A biztosító és viszontbiztosító értékesítési tevékenységért felelős vezetője, valamint közreműködői kötelesek – az általuk végzett tevékenységhez és értékesített biztosítási termékekhez igazodó – szakmai ismeretekkel rendelkezni, a már megszerzett ismereteket naprakészen tartani, fejleszteni és a változásokból eredő követelményekkel összhangba hozni.
+
+(2) Az (1) bekezdésben meghatározott követelmény teljesítése érdekében, az ott meghatározott személyek kötelesek – az általuk (az értékesítésért felelős vezető esetén a biztosító vagy a viszontbiztosító által) értékesített vagy a jövőben értékesíteni szándékozott biztosítási termékek vonatkozásában – évente összesen legalább 15 órányi szakmai képzésen, illetve továbbképzésen részt venni, amely a 7. melléklet szerinti ismeretanyagra épül.
+
+(3) Azon személyeknek, akik az adott év második félévében lettek az (1) bekezdés szerinti közreműködők vagy vezetők, és az adott évben még nem teljesítették a (2) bekezdés szerinti követelményt, az adott évben összesen legalább 7,5 órányi szakmai képzésen, illetve továbbképzésen kell részt venniük.
+
+(4) A (2) bekezdés szerinti szakmai képzés, illetve továbbképzés elvégzése legalább két különböző továbbképzési forma együttes elvégzésével (helyszíni jelenléttel megvalósuló továbbképzés, e-learning, mentorálás vagy teljes napnyi időtartamú szakmai konferencián történő részvétel) valósítható meg, azzal, hogy egy teljes napnyi időtartamú szakmai konferencián történő részvétel 5 órányi továbbképzésnek számítható be.
+
+(5) A (2) bekezdés szerinti szakmai képzést, illetve továbbképzést az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító vagy viszontbiztosító saját maga is végezheti, valamint a szakmai továbbképzés lebonyolítására a 9. mellékletben meghatározott szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
+
+(6) A foglalkoztató vagy megbízó biztosító vagy viszontbiztosító köteles az (1) bekezdés szerinti – szakmai képzési, illetve továbbképzési kötelezettség alá eső – személyek továbbképzését oly módon megszervezni, hogy az adott személy vonatkozásában az új vagy módosult termék értékesítését szakmai képzés, illetve továbbképzés előzze meg.
+
+(7) A szakmai képzésen, illetve továbbképzésen történő részvételt az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító vagy viszontbiztosító köteles nyilvántartani, és a felügyeleti ellenőrzés során a Felügyelet részére – a nyilvántartásban szereplő dokumentumokkal – igazolni.
+
+(8) A biztosítók és a viszontbiztosítók az e §-ban, valamint a 75/A. § (1) bekezdésében foglalt követelmények végrehajtására vonatkozó megfelelő belső eljárásrendeket és – a kapcsolódó dokumentumok nyilvántartására – nyilvántartási rendet alakítanak ki, amelyeket rendszeresen, de legalább évente felülvizsgálnak és amelyek végrehajtására vonatkozóan feladatkört hoznak létre, valamint a Felügyeletnek – kérelmére – megnevezik az ezen feladatkör ellátásáért felelős személyt.
 
 ### X. Fejezet — TITOKVÉDELEMMEL KAPCSOLATOS SZABÁLYOK
 
@@ -1968,13 +2072,15 @@ van összefüggésben.
 
 #### 62. Az ügyfelek tájékoztatása
 
-152. § (1) A biztosítónak a kötelezettségvállalás tagállamának hivatalos nyelvén – ha törvény eltérően nem rendelkezik – a biztosítási szerződés megkötése előtt, bizonyítható és azonosítható módon, közérthető, egyértelmű és részletes írásbeli tájékoztatást kell adnia a szerződést kötni kívánó ügyfél részére
+152. § (1) A biztosítónak a kockázat helye szerinti vagy a kötelezettségvállalás tagállamának hivatalos nyelvén – ha törvény eltérően nem rendelkezik – a biztosítási szerződés megkötése előtt kellő időben, bizonyítható és azonosítható módon, világos, pontos, közérthető, egyértelmű, nem félrevezető, tisztességes, részletes és díjmentes írásbeli tájékoztatást kell adnia a szerződést kötni kívánó ügyfél részére
 
-- a) a biztosító elnevezéséről, székhelyéről, jogi formájáról,
+- a) a biztosító elnevezéséről, székhelyéről, jogi formájáról, valamint arról, hogy biztosítási tevékenységet végez,
 - b) fióktelep útján kötött biztosítási szerződés esetén a fióktelep székhelyéről (külföldön létesített fióktelep esetén a címéről), külföldi biztosító magyarországi fióktelepe útján kötött biztosítási szerződés esetén a külföldi biztosító székhelyéről, cégjegyzékszámáról vagy nyilvántartási számáról, valamint a nyilvántartását végző bíróság vagy hatóság nevéről,
 - c) a hatáskörrel rendelkező felügyeleti hatóságról,
-- d) a biztosítási szerződés 4. melléklet A) pontjában meghatározott egyes jellemzőiről, és
-- e) a 108. § (1) bekezdésében meghatározott jelentés közzétételéről.
+- d) a biztosítási szerződés 4. melléklet A) részében meghatározott jellemzőiről,
+- e) a 108. § (1) bekezdésében meghatározott jelentés közzétételéről,
+- f) arról, hogy nyújt-e tanácsadást az értékesített biztosítási termékre vonatkozóan, és
+- g) a biztosítási szerződéssel összefüggésben a közreműködő részére nyújtott javadalmazás jellegéről.
 
 (2) Az (1) bekezdésben meghatározott tájékoztatónak figyelemfelhívásra alkalmas módon kell tartalmaznia:
 
@@ -1983,11 +2089,26 @@ van összefüggésben.
 - c) a biztosítási szerződésben alkalmazott kizárásokat, valamint
 - d) minden, a szokásos szerződési gyakorlattól, a szerződésre vonatkozó rendelkezésektől lényegesen vagy valamely korábban a felek között alkalmazott kikötéstől eltérő feltételt, így különösen azt a körülményt, hogy a magyartól eltérő jog alkalmazása vagy a magyartól eltérő bíróság kizárólagos illetékessége került kikötésre.
 
-(3) Az (1) bekezdésben meghatározott tájékoztatás az ügyféllel történő megállapodásban kikötött más nyelven és az ügyfél ez irányú kifejezett hozzájárulása esetén tartós adathordozón is történhet.
+(3) Az (1) bekezdésben meghatározott tájékoztatás az ügyféllel történő megállapodásban kikötött más nyelven és – az adott esettől függően a (3a) vagy a (3b) bekezdésben meghatározott feltételek teljesülése esetén – tartós adathordozón vagy honlapon keresztül is történhet, azzal, hogy az ügyfél ez irányú kérésére a tájékoztatást díjmentesen, írásban is rendelkezésére kell bocsátani.
+
+(3a) A (3) bekezdés szerinti tartós adathordozón akkor történhet a tájékoztatás, ha az ügyfél kifejezetten ezt a tájékoztatási módot választotta, és a tájékoztatás, valamint a kapcsolattartás szempontjából ez a mód megfelelő a számára; ennek kell tekinteni különösen, ha rendszeres internet-hozzáféréssel rendelkezik, így különösen, ha a biztosító számára megadta az e-mail-címét.
+
+(3b) A (3) bekezdés szerinti honlapon keresztül történő tájékoztatás feltétele, hogy
+
+- a) azt személyesen az ügyfélnek címezzék, vagy
+- b) az ügyfelet elektronikus úton értesítsék a honlap címéről és a tájékoztatásnak a honlapon belüli elérhetőségéről; a tájékoztatás a honlapon az igényérvényesítési határidő lejártáig elérhető maradjon, valamint a (3a) bekezdés szerinti feltételek is fennálljanak.
+
+(3c) Telefonon történő értékesítés esetében az (1) bekezdés szerinti tájékoztatásnak (a biztosítási termékismertetőt is beleértve) összhangban kell lennie a távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvénnyel és a vonatkozó uniós szabályokkal. Mindezeken túlmenően az e § szerinti tájékoztatást a biztosítási szerződés megkötése után haladéktalanul meg kell adni az ügyfél részére, az ügyfél által választott módon, amely független az előzetes tájékoztatás választott módjától.
 
 (4) A (2) bekezdésben meghatározott kötelezettség megsértése az e törvényben meghatározott jogkövetkezményeket vonja maga után, és nem érinti az általános szerződési feltételek vagy azok egyes kikötései – a Ptk.-ban meghatározottak szerinti – szerződéses tartalommá válását.
 
-(5) A biztosító – a 4. melléklet A) pont 17. alpontjában foglaltakat kivéve – az (1) bekezdésben foglalt adatok változása esetén a szerződés módosításakor és megújításakor köteles az (1) bekezdésben meghatározott módon a szerződő fél részére a változásokról tájékoztatást nyújtani.
+(5) A biztosító – az (1) bekezdés g) pontjában, valamint a 4. melléklet A) pont 17. alpontjában foglaltakat kivéve – az (1) bekezdésben foglalt adatok változása esetén a szerződés módosításakor és megújításakor köteles a szerződéskötést megelőző tájékoztatás megadásával egyező módon a szerződő fél részére a változásokról tájékoztatást nyújtani.
+
+(6) Amennyiben az ügyfél a biztosítási szerződéssel összefüggésben annak megkötése után teljesít fizetést – a folyamatos biztosítási díjak és az ütemezett fizetések kivételével –, a biztosító minden ilyen fizetésre vonatkozóan megadja az (1) bekezdés g) pontja szerinti tájékoztatást.
+
+(7) Amennyiben a biztosító – a letelepedés és a szolgáltatásnyújtás szabadsága alapján – olyan ügyfél számára értékesít biztosítási terméket, amely ügyfél szokásos tartózkodási helye vagy székhelye szerinti tagállam az e törvényben foglaltaknál szigorúbb szabályokat alkalmaz a biztosítási termékek értékesítésével összefüggő követelmények vonatkozásában, akkor e szigorúbb szabályok az irányadók.
+
+152/A. § A 368. § (1) bekezdése szerinti személynek – az őt megbízó biztosító felelősségvállalása mellett – a 152. § szerinti módon – tájékoztatást kell adnia a szerződést kötni kívánó ügyfél részére az őt megbízó biztosító nevéről és címéről, valamint a 4. melléklet A) pont 11. alpontja szerinti információkról, továbbá biztosítania kell a 130/A. §-ban, a 158/A. §-ban, valamint a 158/C. § (3)–(5) bekezdésében foglaltak megfelelő érvényesülését, az ügyfél igényeinek és szükségleteinek – a szerződés megkötését megelőzően történő – megfelelő figyelembevételét, valamint a 158/B. § (5) bekezdése szerinti biztosítási termékismertető – szerződés megkötését megelőzően történő – ügyfél számára történő rendelkezésre bocsátását.
 
 153. § (1) Életbiztosítási szerződés megkötése előtt – az olyan megtakarítási elemet nem tartalmazó, tisztán kockázati életbiztosítások kivételével, amelyeket pénzügyi intézmény az általa nyújtott pénzügyi szolgáltatással összefüggésben javasolt, vagy amelyeknek a biztosítási összege nem haladja meg az egymillió forintot – a biztosító köteles felmérni, illetve legalább az ügyfél által megadott információk alapján pontosítani az ügyfél igényeit.
 
@@ -1998,9 +2119,9 @@ van összefüggésben.
 (3) A biztosítót a 152. §-ban, az (1)–(2) és (5) bekezdésben és a 155. § (1) bekezdésben meghatározott kötelezettség
 
 - a) nem terheli, ha a szerződés viszontbiztosítási szerződés, valamint a szerződés nagykockázatra létrejövő biztosítási szerződés,
-- b) az alkusszal szemben terheli, ha a biztosítási szerződés megkötése során alkusz működik közre.
+- b) nem terheli, ha a biztosítási szerződés megkötésében biztosításközvetítő működik közre.
 
-(4) Az (1) bekezdésben meghatározott igényfelmérés, illetve igénypontosítás céljából a biztosító által használható dokumentum (a továbbiakban: életbiztosítási igényfelmérő) tartalmi elemeit a Magyar Nemzeti Bank elnöke rendeletben határozza meg.
+(4)
 
 (5) A rendszeres vagy folyamatos és egyszeri díjas megtakarítási jellegű életbiztosítás esetén a biztosító a (2) bekezdésben meghatározott termékismertető átadásakor köteles tájékoztatni az ügyfelet az adott biztosítás teljes költségmutatójáról és annak internetes elérhetőségéről.
 
@@ -2026,11 +2147,65 @@ van összefüggésben.
 
 (2) Fogyasztó szerződő esetén a biztosító az (1) bekezdésben meghatározott tájékoztatásban köteles felhívni figyelmet a 122. §-ban foglaltakra.
 
-158. § A 368. §-ban meghatározott biztosításközvetítést végző természetes személy – ha törvény eltérően nem rendelkezik – csak a 152. § (1) bekezdésében meghatározott adatokról köteles tájékoztatást adni.
+158. § Amennyiben egy biztosító a kötelező foglalkoztatói nyugdíjrendszer szolgáltatásáért is felelős, és valamely munkavállaló anélkül válik egy ilyen rendszer tagjává, hogy a csatlakozásról egyéni döntést hozott volna, akkor a biztosítónak a 152. § szerinti tájékoztatást az adott nyugdíjrendszerhez való csatlakozást követően haladéktalanul biztosítania kell a munkavállaló számára.
+
+158/A. § A biztosítási termékekkel kapcsolatos marketingközleményeknek világosnak, pontosnak, közérthetőnek, egyértelműnek, nem félrevezetőnek és tisztességesnek kell lenniük, valamint a marketingközlemények marketingjellegének egyértelműen felismerhetőnek kell lennie.
+
+#### 62/A. A tanácsadással és a tanácsadás nélkül történő biztosítási értékesítésre vonatkozó előírások
+
+158/B. § (1) Az e törvényben foglalt tájékoztatási követelményeken túl, a biztosítási szerződés megkötése előtt – függetlenül attól, hogy a 158/C. § szerinti keresztértékesítés történik-e vagy sem – a biztosítónak meg kell határoznia az ügyféltől kapott tájékoztatás alapján az adott ügyfél konkrét igényeit és szükségleteit, és közérthető formában tárgyilagos tájékoztatást kell nyújtania az ügyfélnek a biztosítási termékekkel összefüggésben, annak érdekében, hogy az ügyfél megalapozott döntést hozhasson.
+
+(2) Az (1) bekezdés alapján bármely – a biztosító által az ügyfélnek javasolt – biztosítási terméknek összhangban kell állnia az ügyfélnek a tájékoztatása alapján megállapítható biztosítási igényeivel és szükségleteivel.
+
+(3) Amennyiben a biztosítási szerződés megkötése előtt tanácsadásra is sor kerül, az (1) és (2) bekezdésben foglaltakon túlmenően, a biztosító személyre szabott – bizonyos biztosítási termék vagy termékek választására irányuló – konkrét ajánlást is ad az ügyfél részére, ismertetve, hogy az adott termék miért felel meg leginkább az ügyfél igényeinek és szükségleteinek.
+
+(4) Az (1)–(3) bekezdés szerinti tájékoztatás és ajánlás az ajánlott biztosítási termék összetettségétől és az ügyfél típusától függően értelemszerűen módosulhat.
+
+(5) Az e § szerinti tájékoztatásokat az 1. melléklet szerinti nem-életbiztosítási termékek értékesítése esetén egy egységesített biztosítási termékismertető útján, papíron vagy tartós adathordozón kell nyújtani, amely biztosítási termékismertetőt a nem-életbiztosítási termék kidolgozója állítja össze.
+
+(6) Az (5) bekezdés szerinti biztosítási termékismertetőnek a következőknek kell megfelelnie:
+
+- a) rövid és önálló dokumentumnak kell lennie,
+- b) könnyen olvasható, egyértelmű megjelenítéssel és elrendezéssel, továbbá olvasható méretű betűkkel és egyéb karakterekkel kell készülnie,
+- c) ha eredetileg színesben készült, olvashatónak kell maradnia fekete-fehérben nyomtatott vagy fénymásolt formában is,
+- d) a biztosítási termék felkínálásának helye szerint használt hivatalos nyelveken vagy azok egyikén, vagy pedig a biztosításértékesítő és a fogyasztó megállapodása szerinti egyéb nyelven kell megfogalmazni,
+- e) pontosnak kell lennie, és nem lehet félrevezető,
+- f) az első oldal tetején tartalmaznia kell a „biztosítási termékismertető” címet,
+- g) tartalmaznia kell azt a nyilatkozatot, hogy a termékre vonatkozó teljes körű, szerződéskötés előtti és szerződéses tájékoztatás más dokumentumokban érhető el és meg kell neveznie ezen dokumentumokat.
+
+(7) Az (5) bekezdés szerinti biztosítási termékismertetőnek a következő információkat kell tartalmaznia:
+
+- a) tájékoztatás a biztosítási termék típusáról,
+- b) összefoglaló a biztosítási fedezetről, ideértve a fő biztosított kockázatokat, a biztosítási összeget és adott esetben a földrajzi hatályt és a kizárt kockázatok összefoglalását,
+- c) a biztosítási díj fizetésének módja és a fizetések ütemezése,
+- d) a fő kizárások, ahol kárigény bejelentésének nincs helye,
+- e) a szerződés kezdetekor jelentkező kötelezettségek,
+- f) a szerződés időtartama alatt fennálló kötelezettségek,
+- g) a kárigény bejelentése esetén jelentkező kötelezettségek,
+- h) a szerződés időtartama, beleértve a szerződés kezdetének és végének időpontját,
+- i) a szerződés megszűnésének esetei.
+
+(8) Az (5) bekezdés szerinti biztosítási termékismertetőt a 152. § (1) bekezdésében foglalt tájékoztatással egyidejűleg kell megadni, a (6) bekezdés szerinti követelmények érvényesülése mellett.
+
+(9) Az e §-ban foglaltakat a biztosítási termékismertető egységesített mintadokumentumának meghatározásáról szóló, 2017. augusztus 11-i 2017/1469 bizottsági (EU) végrehajtási rendeletben foglaltakkal összhangban kell alkalmazni.
+
+(10) E § a nagykockázatra létrejövő biztosítási termékekre nem alkalmazandó.
+
+#### 62/B. A keresztértékesítés és az azzal kapcsolatos ügyfél-tájékoztatás szabályai
+
+158/C. § (1) Amennyiben valamely biztosítási terméket – csomagban vagy ugyanazon megállapodás részeként – olyan kiegészítő termékkel vagy szolgáltatással együtt kínálnak, amely nem biztosítás, a biztosító tájékoztatja az ügyfelet arról, hogy van-e lehetőség a csomag vagy megállapodás különböző elemeinek külön történő megvásárlására, és amennyiben igen, megfelelő tájékoztatást ad a megállapodás vagy csomag különböző elemeiről, valamint az egyes elemek költségeiről és díjairól.
+
+(2) Az (1) bekezdés szerinti esetben, ha a megállapodásból vagy csomagból származó kockázat vagy biztosítási fedezet eltér az egyes elemekhez külön-külön kapcsolódó kockázatoktól vagy biztosítási fedezettől, a biztosító megfelelő tájékoztatást ad arról is, hogy az egyes elemek kölcsönhatása hogyan módosítja a kockázatot, illetve a biztosítási fedezetet.
+
+(3) Amennyiben a biztosítási termék egy csomag vagy ugyanazon megállapodás részeként olyan áru vagy szolgáltatás kiegészítője, amely nem biztosítás, a biztosító köteles tájékoztatni az ügyfelet az áru vagy szolgáltatás külön történő megvásárlásának lehetőségéről, kivéve, ha a biztosítási termék befektetési szolgáltatási tevékenységhez, lakáscélú hitel- vagy kölcsönszerződéshez vagy fizetési számlához kapcsolódó kiegészítő termék.
+
+(4) Az (1) és (3) bekezdésben említett esetekben a biztosító meghatározza az ügyfélnek a csomag vagy a megállapodás részét képező biztosítási termékkel összefüggő igényeit és szükségleteit.
+
+(5) Az e §-ban foglaltak nem érintik azon biztosítási termékek értékesítését, amelyek különböző típusú kockázatokra nyújtanak fedezetet.
 
 #### 63. Panaszkezelés
 
-159. § (1) A biztosító biztosítja, hogy az ügyfél a biztosító magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+159. § (1) A biztosító biztosítja, hogy az ügyfél és a fogyasztói érdekképviseleti szervek (a továbbiakban együtt e § alkalmazásában: ügyfél) a biztosító, az általa alkalmazott vagy megbízott ügynök vagy – adott termék kapcsán – általa megbízott kiegészítő biztosításközvetítői tevékenységet végző személy magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
 (2) Telefonon történő panaszkezelés esetén a biztosító és az ügyfél közötti telefonos kommunikációt a biztosító hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
@@ -2109,6 +2284,63 @@ van összefüggésben.
 166. § (1) Ha a jogvédelmi biztosítás más kockázatokat is fedező biztosítási szerződés részét képezi, akkor a jogvédelmi biztosításnak külön, az ügyfelek számára felismerhetően elkülönülő részt kell képeznie a biztosítási szerződésen belül.
 
 (2) A biztosító az ügyfeleinek átadásra kerülő valamennyi dokumentumon köteles felhívni a figyelmet a jogvédelmi biztosítási fedezet létére, továbbá a biztosító a biztosítási díj meghatározása során külön is köteles feltüntetni a jogvédelmi biztosítási fedezet díját, abban a pénznemben, amelyben a szerződő fél a biztosítási díj megfizetésére köteles.
+
+### XII/A. Fejezet — A BIZTOSÍTÁSI ALAPÚ BEFEKTETÉSI TERMÉKEK ÉRTÉKESÍTÉSÉVEL ÖSSZEFÜGGŐ KÜLÖNÖS RENDELKEZÉSEK
+
+#### 67/A. A fejezet alkalmazási köre
+
+166/A. § Az e fejezet szerinti többletkövetelményeket a biztosítók biztosítási alapú befektetési termékek értékesítésével összefüggő tevékenységére kell alkalmazni, a Bizottságnak a 2016/97/EU európai parlamenti és tanácsi irányelv 28. cikk (4) bekezdésében, 29. cikk (4) bekezdésében és 30. cikk (6) bekezdésében meghatározott tárgykörben kiadott rendeleteiben foglaltakkal összhangban.
+
+#### 67/B. A biztosítási alapú befektetési termékek értékesítésével összefüggő többletkövetelmények
+
+166/B. § Biztosítási alapú befektetési termék kizárólag tanácsadással értékesíthető.
+
+166/C. § (1) A biztosító – tevékenységéhez és az általa értékesített biztosítási alapú befektetési termékek jellegéhez igazodó, arányos – intézkedéseket tart fenn az ügyfelei érdekeit esetlegesen sértő azon összeférhetetlenség megelőzése és megállapítása érdekében, amely közötte – ideértve a vezetőit és közreműködőit vagy bármely, hozzá ellenőrzés révén közvetlenül vagy közvetetten kapcsolódó személyt – és ügyfelei között, vagy valamely ügyfele és egy másik ügyfele között a biztosítási értékesítési tevékenység folytatása során keletkezik.
+
+(2) Amennyiben az (1) bekezdés szerinti intézkedések nem elegendőek ahhoz, hogy biztosítsák az ügyfelek érdekeit sértő kockázatok megelőzését, akkor a biztosítónak a biztosítási szerződés megkötése előtt kellő időben egyértelműen tájékoztatnia kell az ügyfelet az összeférhetetlenség általános jellegéről vagy forrásairól.
+
+(3) A (2) bekezdés szerinti tájékoztatást
+
+- a) tartós adathordozón kell nyújtani, és
+- b) annak kellően részletesnek kell lennie ahhoz, hogy – figyelembe véve az ügyfél típusát – az ügyfél megalapozott döntést hozhasson azon biztosítási értékesítési tevékenységekkel kapcsolatban, amelyekre vonatkozóan az összeférhetetlenség fennáll.
+
+166/D. § (1) Az e törvényben meghatározott tájékoztatási kötelezettségeken túl a szerződés megkötését megelőzően a biztosítónak kellő időben, közérthetően tájékoztatnia kell az ügyfelet vagy a leendő ügyfelet a biztosítási alapú befektetési termék értékesítésével, valamint a kapcsolódó költségekkel és díjakkal összefüggésben is. A tájékoztatásnak legalább az alábbi információkat kell tartalmaznia:
+
+- a) a biztosító biztosítja-e az ügyfél számára a 166/E. § (7) bekezdése szerinti rendszeres értékelést a számára ajánlott biztosítási alapú befektetési termék alkalmasságáról;
+- b) a biztosítási alapú befektetési termékekről és ajánlott befektetési stratégiákról nyújtott tájékoztatás tekintetében megfelelő iránymutatásokat és figyelmeztetéseket a biztosítási alapú befektetési termékekkel kapcsolatos kockázatok, illetve a javasolt befektetési stratégiák kapcsán, a megalapozott befektetési döntés meghozatala érdekében;
+- c) a kapcsolódó költségekkel és díjakkal összefüggésben közlendő információk tekintetében a biztosítási alapú befektetési termék értékesítésére vonatkozó információkat, beleértve a tanácsadás költségét, az érintett biztosítási alapú befektetési termék vagy termékek költségét, valamint az ügyfél általi fizetés módját, beleértve az esetlegesen harmadik féltől származó fizetéseket is.
+
+(2) A kapcsolódó költségekről és díjakról szóló (1) bekezdés c) pontja szerinti tájékoztatást – a biztosítási alapú befektetési termék értékesítéséhez kapcsolódó azon költségeket és díjakat is beleértve, amelyeket nem az alapul szolgáló eszközök piacának kockázata okoz – összesített formában kell nyújtani annak érdekében, hogy az ügyfél megérthesse a teljes költséget és annak a befektetés hozamára gyakorolt összesített hatását. Amennyiben az ügyfél azt kéri, a költségeket és a díjakat tételes bontásban is be kell mutatni.
+
+(3) A (2) bekezdés szerinti tájékoztatást – amennyiben az abban foglalt adatok rendelkezésre állnak – a befektetés élettartama alatt rendszeresen, de legalább évente biztosítani kell az ügyfél számára, amely tájékoztatás a 166/E. § (4) bekezdése szerinti tájékoztatással összhangban is megtehető.
+
+(4) Az (1)–(3) bekezdés szerinti tájékoztatás egységesített formátumban is nyújtható.
+
+(5) Az e törvény szerinti – a biztosításértékesítők javadalmazásával összefüggő – rendelkezésekben foglaltakon túlmenően és a 130/A. § (1) bekezdésében, valamint a 166/C. §-ban foglaltak teljesítésének feltételeként a biztosítónak teljesítenie kell azon követelményt is, miszerint amennyiben az ügyfél vagy az ügyfél nevében eljáró személy kivételével bármely fél számára közvetítői díjat vagy jutalékot fizet, illetve nem pénzbeli előnyt nyújt, vagy az ügyfél vagy az ügyfél nevében eljáró személy kivételével bármely féltől közvetítői díjban, jutalékban vagy nem pénzbeli előnyben részesül a biztosítási alapú befektetési termék vagy az azt kiegészítő szolgáltatás értékesítésével kapcsolatban, akkor a kifizetés vagy az előny
+
+- a) nem gyakorolhat káros hatást az ügyfélnek nyújtott szolgáltatás minőségére, és
+- b) nem akadályozhatja a biztosítót abban, hogy teljesítse a 130/A. § (1) bekezdése szerinti kötelezettségét.
+
+(6) Amennyiben a biztosító – a letelepedés és a szolgáltatásnyújtás szabadsága alapján – olyan ügyfél számára értékesít biztosítási alapú befektetési terméket, amely ügyfél szokásos tartózkodási helye vagy székhelye szerinti tagállam az e törvényben foglaltaknál szigorúbb szabályokat alkalmaz a biztosítási alapú befektetési termékek értékesítésére vonatkozóan, akkor e szigorúbb szabályok az irányadóak.
+
+166/E. § (1) A 158/B. § (1)–(3) bekezdésében foglalt követelményeken túlmenően a biztosító köteles beszerezni a szükséges információkat az ügyfélnek vagy a leendő ügyfélnek az adott biztosítási termék típusának megfelelő befektetési területtel összefüggő ismereteiről, pénzügyi helyzetéről, veszteségviselési képességéről, befektetési céljairól és kockázattűréséről, annak érdekében, hogy számára alkalmas biztosítási alapú befektetési termékeket ajánlhasson.
+
+(2) A 158/C. §-ban foglalt – biztosítási alapú befektetési termékeket tartalmazó – keresztértékesítés esetén a csomagnak vagy a megállapodásnak összességében kell alkalmasnak lennie az ügyfél vagy a leendő ügyfél számára.
+
+(3) A biztosító belső nyilvántartást vezet, amely tartalmazza a biztosítási alapú befektetési termékek értékesítésével kapcsolatban a közte és az ügyfél között létrejött megállapodásokat, valamint az átadott termékismertetőket, tájékoztatókat. Ezen dokumentumokban meghatározott jogokat és kötelezettségeket más dokumentumokra vagy jogszabályhelyre történő hivatkozással is meg lehet határozni.
+
+(4) A biztosító tartós adathordozón rendszeresen, de legalább évente tájékoztatja az ügyfeleket az általa nyújtott szolgáltatásokról, az ügyfél nevében végrehajtott ügyletek és szolgáltatások költségeiről, figyelembe véve az érintett biztosítási alapú befektetési termékek típusát és összetettségét, valamint az ügyfélnek nyújtott szolgáltatás jellegét.
+
+(5) Biztosítási alapú befektetési termékkel kapcsolatos értékesítés esetében a biztosító a szerződés megkötése előtt – a 152. § (1) bekezdése szerinti módon, a 152. § (3a) bekezdésében foglaltak figyelembevételével – tartós adathordozón alkalmasságra vonatkozó nyilatkozatot bocsát az ügyfél rendelkezésére, amelyben részletezi a tanácsadás tartalmát és azt, hogy a tanácsadás milyen módon felel meg az ügyfél igényeinek és szükségleteinek.
+
+(6) Amennyiben a szerződést olyan távközlő eszköz igénybevételével kötik meg, amely nem teszi lehetővé az alkalmasságra vonatkozó nyilatkozat előzetes átadását, a biztosító az alkalmasságra vonatkozó nyilatkozatot tartós adathordozón közvetlenül a szerződés megkötését követően is átadhatja az ügyfél részére, feltéve, hogy az alábbi feltételek mindegyike teljesül:
+
+- a) az ügyfél beleegyezett, hogy az alkalmasságra vonatkozó nyilatkozatot közvetlenül a szerződés megkötése után vegye át, és
+- b) a biztosító biztosította az ügyfél számára annak lehetőségét, hogy a szerződés megkötését elhalassza az alkalmasságra vonatkozó nyilatkozat szerződés megkötése előtti kézhezvétele érdekében.
+
+(7) Amennyiben a biztosító tájékoztatta az ügyfelet arról, hogy rendszeres értékelést végez majd az alkalmasság tekintetében, úgy a (4) bekezdés szerinti rendszeres tájékoztatásnak tartalmaznia kell egy frissített nyilatkozatot arról, hogy a biztosítási alapú befektetési termék milyen módon felel meg az ügyfél igényeinek és szükségleteinek.
+
+166/F. § A 166/B., 166/D. és 166/E. §-okban foglaltak nem kell alkalmazni, amennyiben az ügyfél a Bszt. szerinti szakmai ügyfélnek minősül.
 
 ## NEGYEDIK RÉSZ — A BIZTOSÍTÓK REORGANIZÁCIÓJA ÉS FELSZÁMOLÁSA
 
@@ -2248,7 +2480,7 @@ van összefüggésben.
 
 #### 73. A hitelezői igények kielégítése
 
-183. § (1) A felszámolás során a felszámoló a biztosítónak a biztosítási szerződésből származó kötelezettségeit a Cstv. 57. § (1) bekezdés a) és b) pontjában meghatározott követelések kielégítése után a Cstv. 57. § (1) bekezdés c)–h) pontjában meghatározott követelések kielégítése előtt köteles kielégíteni.
+183. § (1) A felszámolás során a felszámoló a biztosítónak a biztosítási szerződésből származó kötelezettségeit a Cstv. 57. § (1) bekezdés a) és b) pontjában meghatározott követelések kielégítése után a Cstv. 57. § (1) bekezdés c)–h) pontjában meghatározott követelések kielégítése előtt köteles kielégíteni, ide nem értve a 185/A. §-ban foglalt esetet.
 
 (2) A biztosító biztosítási szerződésből eredő kötelezettségeit az alábbi sorrendben teljesíti:
 
@@ -2298,6 +2530,10 @@ kell fordítani.
 
 (2) A 184. §-ban meghatározott rendelkezések teljesítése során a járadékfizetési kötelezettségből adódó követelések vonatkozásában ezen megváltás összege alapján kell eljárni a biztosítónak.
 
+185/A. § (1) Ha a biztosító természetes személyekkel biztosítási alapú befektetési termékekhez tartozó biztosítási szerződéseket kötött, akkor a felszámolás során az e szerződései alapján képzett számviteli biztosítástechnikai tartalékainak fedezetéül szolgáló eszközök a felszámoló által külön kezelendők és az azokhoz kapcsolódó vagyon – a Cstv. 57. § (1) bekezdés a) pontjában meghatározott követelések kielégítése után – kizárólag az e biztosítási szerződésekből eredő kötelezettségek teljesítésére használható fel.
+
+(2) Az (1) bekezdés szerinti vagyon az (1) bekezdés szerinti kötelezettségek teljesítése után használható fel az egyéb kötelezettségek teljesítésére a 183–185. §-ban foglalt szabályok értelemszerű alkalmazásával, az egyéb kötelezettségek fedezetére rendelkezésre álló vagyonhoz hozzáadva.
+
 186. § (1) A biztosító felszámolása esetén azok a hitelezők, amelyeknek a biztosítási szerződésből eredő követelését a biztosító viszontbiztosította, az adott viszontbiztosítási szerződés vagy szerződések vonatkozásában megszerzik a felszámolás alatt álló biztosító viszontbiztosítóval szembeni jogait a felszámoló által elismert hitelezői igényük erejéig.
 
 (2) Az (1) bekezdésben meghatározott hitelező jogszerzése a hitelezői igénye elismert követelésként történő visszaigazolásával következik be, ezt követően a viszontbiztosítóval szembeni jogok az (1) bekezdésben meghatározott hitelezőt és a biztosítót egyetemlegesen illetik meg.
@@ -2340,7 +2576,7 @@ kell fordítani.
 - b) a biztosítási szerződések megszűnésének tényéről, annak időpontjáról és joghatásairól;
 - c) a felszámolásról szóló végzés tartalmáról;
 - d) az egyes felszámolással kapcsolatos határidőkhöz fűződő jogkövetkezményekről;
-- e) a 183–184. §-ban foglaltak szerint a kielégítés sorrendjéről;
+- e) a 183–184. §-ban, valamint a 185/A. §-ban foglaltak szerint a kielégítés sorrendjéről;
 - f) a 193. § (3) bekezdésében meghatározott tájékoztató elektronikus elérésének módjáról.
 
 (2) A felszámoló az (1) bekezdésben meghatározott tájékoztatót köteles két országos napilapban is megjelentetni.
@@ -2757,6 +2993,8 @@ kiszervezését.
 
 (3) A kisbiztosító-egyesület az 55. § (1) bekezdés d)–f) pontjában meghatározott egyéb vezetőket nem köteles alkalmazni.
 
+(3a) A kizárólag az 1. melléklet A) rész 8. és 9. pontja szerinti ágazatokat művelő kisbiztosító-egyesület egyéb vezetőt nem köteles alkalmazni.
+
 (4) A kisbiztosító-egyesületnek nem kell könyvvizsgálót választani.
 
 234. § (1) Kisbiztosító-egyesület esetén, ha a vezető állású személy megbízatásának megszűnésével ismételten ugyanaz a személy kerül kinevezésre vagy megválasztásra vezető állású személyként, a kisbiztosító egyesület köteles ennek tényét a Felügyeletnek bejelenteni.
@@ -2769,13 +3007,15 @@ kiszervezését.
 
 (3) A kisbiztosító-egyesület esetén a 26–30. § rendelkezései nem alkalmazhatók.
 
-(4) Kisbiztosító-egyesület nem köteles terméktervet készíteni.
+(4) Kisbiztosító-egyesület nem köteles terméktervet készíteni és esetében a 131/A. § rendelkezéseit nem kell alkalmazni.
 
 236. § (1) Kisbiztosító-egyesület esetén a Felügyelet részére teljesítendő adatszolgáltatási kötelezettségének teljesítése a kisbiztosító-egyesületek érdekvédelmi szervezetének közreműködésével is történhet.
 
 (2) Kisbiztosító-egyesület esetében a 94. § (1) bekezdés e) pontját és a (3)–(6) bekezdését nem kell alkalmazni.
 
 (3) Kisbiztosító-egyesület esetében a 159. § rendelkezéseit nem kell alkalmazni.
+
+(4) A kizárólag az 1. melléklet A) rész 8. és 9. pontja szerinti ágazatokat művelő kisbiztosító-egyesület esetében a 134/A. § rendelkezéseit nem kell alkalmazni.
 
 ## HETEDIK RÉSZ — A BIZTOSÍTÓK ÉS VISZONTBIZTOSÍTÓK FELÜGYELETE
 
@@ -3559,7 +3799,7 @@ köteles arról harminc napon belül írásban tájékoztatni a Felügyeletet.
 
 #### 114. A határon átnyúló tevékenységekre vonatkozó statisztikai tájékoztatás
 
-287. § (1) Magyarország területén székhellyel rendelkező biztosítónak évente egyszer – a Magyar Nemzeti Bank elnökének rendeletében meghatározottak szerint – tájékoztatni kell a Felügyeletet a más tagállamban létesített fióktelepe által, vagy határon átnyúló szolgáltatás keretében végzett tevékenységével kapcsolatban tagállamonként – a viszontbiztosítás levonása nélkül – a biztosítási díjbevételről, a kárkifizetések és a kifizetett jutalékok összegéről biztosítási üzletáganként, a nem-életbiztosítás és az életbiztosítás vonatkozásában elkülönítetten.
+287. § (1) Magyarország területén székhellyel rendelkező biztosítónak évente egyszer – a Magyar Nemzeti Bank elnökének rendeletében meghatározottak szerint – tájékoztatni kell a Felügyeletet a más tagállamban létesített fióktelepe által, vagy határon átnyúló szolgáltatás keretében végzett tevékenységével kapcsolatban tagállamonként – a viszontbiztosítás levonása nélkül – a biztosítási díjbevételről, a kárkifizetések és a kifizetett javadalmazások összegéről biztosítási üzletáganként, a nem-életbiztosítás és az életbiztosítás vonatkozásában elkülönítetten.
 
 (2) Az (1) bekezdésben meghatározottakon túl a kötelező gépjármű-felelősségbiztosítási tevékenység végzése esetén a biztosító a kárgyakoriságról és az egy káresetre jutó átlagos kárfelhasználásról is tájékoztatja a Felügyeletet.
 
@@ -3584,6 +3824,14 @@ köteles arról harminc napon belül írásban tájékoztatni a Felügyeletet.
 (6a) Ha másik tagállamban székhellyel rendelkező biztosító Magyarország területén határon átnyúló szolgáltatás vagy magyarországi fióktelepe útján végzi a tevékenységét és a tevékenységi engedélyét a székhely szerinti tagállam felügyeleti hatósága – részben vagy egészben – visszavonta, a Felügyelet – a tudomásszerzését követően – a honlapján tájékoztatót tesz közzé a tevékenységi engedélyt visszavonó döntésről.
 
 (7) A Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező viszontbiztosító esetében az (1), a (3)–(6) bekezdésben meghatározott szabályok alkalmazandók azzal, hogy az (1) bekezdésben meghatározott intézkedés meghozataláról és az intézkedés alapjául szolgáló felügyeleti eljárás megállapításairól a Felügyelet értesíti a székhely szerinti tagállam felügyeleti hatóságát.
+
+(8) Ha a másik tagállamban székhellyel rendelkező biztosító vagy viszontbiztosító
+
+- a) magyarországi fióktelepe vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenysége teljes egészében vagy elsődlegesen Magyarország területére irányul,
+- b) másik tagállamban történő székhely létesítésének kizárólagos célja, hogy mentesüljön a magyarországi jogszabályok betartása alól, és
+- c) magyarországi fióktelepe vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenysége súlyosan veszélyezteti a biztosítottak érdekeit,
+
+a Felügyelet – a másik tagállam illetékes hatóságának tájékoztatását követően – a 291. § (1) bekezdés a)–g), i) és q) pontjában foglalt intézkedéseket alkalmazhatja, vagy az EBFH-hoz utalhatja az ügyet, és az 1094/2010/EU rendelet 19. cikkével összhangban a segítségét kérheti.
 
 290. § (1) Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében biztosítási vagy viszontbiztosítási tevékenységet végző, másik tagállamban székhellyel rendelkező biztosító felügyeleti hatósága vagy az erre általa felhatalmazott személy jogosult, hogy – a Felügyelet előzetes értesítését követően – Magyarország területén a határon átnyúló szolgáltatást, a fióktelepet ellenőrizze.
 
@@ -3636,7 +3884,9 @@ benyújtását;
 - r) felügyeleti biztost rendelhet ki;
 - s) a kiadott tevékenységi engedélyt részben vagy egészben felfüggesztheti;
 - t) a kiadott alapítási vagy tevékenységi engedélyt visszavonhatja;
-- u) előírhatja a biztosító és a viszontbiztosító számára a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokról szóló rendeletben meghatározott információk közzétételét.
+- u) előírhatja a biztosító és a viszontbiztosító számára a biztosítási és a viszontbiztosítási tevékenységhez kapcsolódó fizetőképességről és pénzügyi helyzetről szóló jelentéssel összefüggő részletszabályokról szóló rendeletben meghatározott információk közzétételét;
+- v) a biztosítási alapú befektetési termékek értékesítésére vonatkozó üzletviteli jogszabályi követelmények megsértése esetén – a felügyelőbizottság tagjait ide nem értve – a vezető állású személyt határozott időre eltilthatja e feladatköre ellátásától,
+- w) kötelezheti a biztosítót, hogy a közreműködőjét, illetve az általa megbízott kiegészítő biztosításközvetítői tevékenységet végző személyt (ide értve a 368. § (1) bekezdése szerinti személyt is) törölje a belső nyilvántartásából.
 
 (2) Az (1) bekezdés q) pont qd)–qf) alpontjában meghatározott intézkedéseket a Felügyelet határozott időtartamra, de legfeljebb egy évre hozhatja meg. Ezt a határidőt a Felügyelet egy alkalommal, legfeljebb hat hónappal meghosszabbíthatja.
 
@@ -3661,6 +3911,13 @@ benyújtását;
 (3) A közgyűlés összehívásáról a cégbíróság nyolc napon belül határoz.
 
 293. § A Felügyelet a biztosító vagy a viszontbiztosító tulajdonosainak szavazati jogát meghatározott időre, de legfeljebb egy évre felfüggesztheti, ha a tag tevékenysége, illetve a biztosítóra, viszontbiztosítóra gyakorolt befolyása a rendelkezésre álló tények alapján veszélyezteti megbízható, biztonságos működést. Ilyen esetben a határozatképesség megállapításánál a korlátozással érintett szavazatokat figyelmen kívül kell hagyni.
+
+293/A. § Ha az MNB – a biztosítási vagy a viszontbiztosítási értékesítésre vonatkozó jogszabályi követelmények megsértése miatt hoz a 291. § (1) bekezdése szerinti intézkedést, akkor az adott intézkedés alkalmazásánál – amennyiben az adott körülmény értékelhető – az MNBtv. 75. § (4) bekezdés a), e)–g) és i) pontjában foglaltakra és az alábbiakra van tekintettel:
+
+- a) az intézkedéssel érintett személy felelősségének mértékére,
+- b) az intézkedéssel érintett természetes személy éves jövedelmében, nem természetes személy esetén a teljes árbevételében kifejezett pénzügyi erejére,
+- c) a szabályok megsértésének időtartamára, valamint az intézkedéssel érintett személy által a jogsértés megismétlődésének elkerülése érdekében tett intézkedésekre,
+- d) az intézkedéssel érintett személy által korábban elkövetett bármely jogsértésre.
 
 #### 117. A felügyeleti bírság
 
@@ -4130,46 +4387,46 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 #### 367. §
 
-## HARMADIK KÖNYV — A BIZTOSÍTÁSKÖZVETÍTŐK
+## HARMADIK KÖNYV — A BIZTOSÍTÁSKÖZVETÍTŐK ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEK
 
 #### 166. E könyv alkalmazási köre
 
-368. § (1) E könyv rendelkezéseit nem kell alkalmazni arra a személyre, akinek tevékenysége kizárólag olyan biztosítási szerződések közvetítésére terjed ki, amelyek az alábbi feltételeknek együttesen megfelelnek:
+368. § (1) Amennyiben e törvény eltérően nem rendelkezik, e könyv rendelkezéseit nem kell alkalmazni arra a kiegészítő biztosításközvetítői tevékenységet végző személyre, akinek tevékenysége kizárólag olyan biztosítási szerződések közvetítésére terjed ki, amelyek az alábbi feltételeknek együttesen megfelelnek:
 
-- a) a biztosítási szerződés kizárólag a közvetített szerződés feltételeinek ismeretét teszi szükségessé,
-- b) a biztosítási szerződés nem-életbiztosítási szerződés,
-- c) a biztosítási szerződés nem tartalmaz felelősségi kockázatot,
-- d) a személy fő szakmai tevékenysége nem biztosításközvetítés,
-- e) a biztosítási szerződés kizárólag kiegészítője valamely szolgáltató által kínált terméknek vagy nyújtott szolgáltatásnak és a következőkre nyújt fedezetet:
-  - ea) ezen szolgáltató által kínált termék törésének, elvesztésének vagy károsodásának kockázatára, vagy
-  - eb) ezen szolgáltatónál megrendelt utazáshoz, illetőleg utazási, üdülési szolgáltatáshoz kapcsolódva a poggyász elvesztésére vagy sérülésére és egyéb kockázatokra, akkor is, ha a biztosítás életbiztosítási vagy felelősségi kockázatokat fedez, feltéve, hogy a fedezet az utazással kapcsolatos kockázatok fő fedezetének kiegészítője,
-- f) a biztosítási szerződés éves biztosítási díja nem haladja meg a 125 ezer forintot, és a biztosítási szerződés teljes tartama, beleértve a megújításokat is, nem haladja meg az 5 évet.
+- a) a biztosítási szerződés kiegészítője valamely szolgáltató által kínált terméknek vagy nyújtott szolgáltatásnak és a következőkre nyújt fedezetet:
+  - aa) ezen szolgáltató által kínált termék meghibásodásának, törésének, elvesztésének vagy károsodásának kockázatára, vagy az e szolgáltató által kínált szolgáltatás igénybevétele elmaradásának kockázatára, vagy
+  - ab) ezen szolgáltatónál megrendelt utazáshoz kapcsolódva a poggyász elvesztésére vagy sérülésére és egyéb kapcsolódó kockázatokra, és
+- b) nem haladja meg
+  - ba) a biztosítási szerződés arányos éves biztosítási díja személyenként a hatszáz eurót, vagy
+  - bb) a személyenként fizetett biztosítási díj a kettőszáz eurót, és az a) pont szerinti szolgáltatás nyújtásának időtartama legfeljebb három hónap.
 
-(2) E könyv rendelkezéseit megfelelően alkalmazni kell a viszontbiztosítást közvetítőre.
+(2) E könyv rendelkezéseit megfelelően alkalmazni kell a viszontbiztosítás-közvetítőkre is, ennek kapcsán, ahol e könyv biztosítót említ, ott a viszontbiztosítóra is megfelelően alkalmazni kell.
 
 (3) Ha a biztosításközvetítői tevékenységet végző természetes személy munkaerőkölcsönzés alapján végzi a tevékenységét az őt kölcsönbe vevő biztosításközvetítő részére, akkor e könyv rendelkezései szempontjából úgy kell tekinteni, mintha a kölcsönbe vevő biztosításközvetítővel állna biztosításközvetítői tevékenységre végzésére irányuló munkaviszonyban.
 
-## NYOLCADIK RÉSZ — A BIZTOSÍTÁSKÖZVETÍTŐK MŰKÖDÉSÉRE VONATKOZÓ SZABÁLYOK
+## NYOLCADIK RÉSZ — A BIZTOSÍTÁSKÖZVETÍTŐK ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEK MŰKÖDÉSÉRE VONATKOZÓ SZABÁLYOK
 
-### XXVI. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐK MŰKÖDÉSÉRE VONATKOZÓ KÖZÖS SZABÁLYOK
+### XXVI. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐK ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEK MŰKÖDÉSÉRE VONATKOZÓ KÖZÖS SZABÁLYOK
 
-#### 167. A biztosításközvetítői tevékenység alapvető feltételei
+#### 167. A biztosításközvetítői és a kiegészítő biztosításközvetítői tevékenység alapvető feltételei
 
 369. § (1) Biztosításközvetítői tevékenységet függő biztosításközvetítő vagy független biztosításközvetítő végezhet.
 
-(2) Biztosításközvetítői tevékenységet Magyarország területén olyan biztosításközvetítő végezhet, aki – a 370–371. §-ban foglalt kivételekkel – aktív státuszban szerepel a Felügyelet által vezetett nyilvántartásban.
+(2) Biztosításközvetítői tevékenységet biztosító vagy biztosításközvetítő részére Magyarország területén olyan biztosításközvetítő végezhet, aki – a 370–371. §-ban foglalt kivételekkel – aktív státuszban szerepel a Felügyelet által vezetett nyilvántartásban.
 
-(3) Biztosításközvetítői tevékenységet csak olyan természetes személy végezhet – beleértve a biztosításközvetítői tevékenységet végző gazdálkodó szervezet, vagy e szervezettel megbízási jogviszonyban álló, biztosításközvetítői tevékenységet végző szervezet keretein belül végzett tevékenységet is –, aki
+(2a) Kiegészítő biztosításközvetítői tevékenységet végző személyként [ide értve a 368. § (1) bekezdése szerinti személyt is] csak olyan személy végezhet biztosítási értékesítési tevékenységet a biztosítók, az alkuszok, a többes ügynökök és a kiegészítő biztosításközvetítői tevékenységet végző személyek részére, aki – a személytől függően – a 407. § (6) bekezdése, a 412. § (5) bekezdése, illetve a 412. § (6) bekezdése szerinti nyilvántartásban szerepel.
 
-- a) büntetlen előéletű,
-- b) felsőfokú végzettséggel vagy a 9. mellékletben meghatározott szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik, és
-- c) a 376. § (2) bekezdésében meghatározott szakmai továbbképzési kötelezettségnek eleget tesz.
+(3) Biztosításközvetítői tevékenységet csak olyan természetes személy kezdhet, illetve végezhet – beleértve a biztosításközvetítői tevékenységet végző gazdálkodó szervezet, vagy e szervezettel megbízási jogviszonyban álló, biztosításközvetítői tevékenységet végző szervezet keretein belül végzett tevékenységet is –, aki
+
+- a) felsőfokú végzettséggel vagy a 9. mellékletben meghatározott szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik,
+- b) a 376. §-ban meghatározott szakmai továbbképzési kötelezettségnek eleget tesz, és
+- c) a 69/A. § szerinti jó hírnévvel rendelkezik.
 
 (4) A biztosító, többes ügynök és az alkusz köteles meggyőződni arról, hogy az általa alkalmazott vagy megbízott biztosításközvetítést végző természetes személy, vagy ha a közvetítői tevékenységgel gazdálkodó szervezetet bízott meg, ennél a szervezetnél közvetítői tevékenységet végző természetes személy aktív státuszúként szerepel-e a felügyeleti nyilvántartásban.
 
 (5) A (4) bekezdésben meghatározott kötelezettség a biztosítót nem terheli az általa megbízott többes ügynök által alkalmazott vagy megbízott biztosításközvetítést végző természetes személy, vagy ha a többes ügynök a közvetítői tevékenységgel gazdálkodó szervezetet bízott meg, ennél a szervezetnél közvetítői tevékenységet végző természetes személy vonatkozásában.
 
-(6) A (3) bekezdés b) pontjában meghatározott hatósági vizsga tekintetében
+(6) A (3) bekezdés a) pontjában meghatározott hatósági vizsga tekintetében
 
 - a) az ügynöki tevékenységet végző természetes személy függő vagy független biztosításközvetítői hatósági vizsga,
 - b) az alkuszi és többes ügynöki tevékenységet végző természetes személy független biztosításközvetítői hatósági vizsga
@@ -4180,23 +4437,17 @@ birtokában végezheti a biztosításközvetítői tevékenységét.
 
 (7) Az a természetes személy, aki a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsga birtokában biztosításközvetítői tevékenység végzésére jogosult lenne, de a felügyeleti nyilvántartásból történő törléstől vagy – nyilvántartásba vétel hiányában – a hatósági vizsga letételétől számított öt év már eltelt, abban az esetben vehető fel a felügyeleti nyilvántartásba, ha újból hatósági vizsgát tesz.
 
-370. § (1) A biztosításközvetítői tevékenység végzéséhez nem szükséges a Felügyelet által történő nyilvántartásba vétel, ha a biztosításközvetítői tevékenységet
+(8) A (3) bekezdés c) pontja szerinti feltételnek a biztosításközvetítői és a kiegészítő biztosításközvetítői tevékenységet végző személy értékesítési tevékenységért felelős vezetőjének is meg kell felelnie.
 
-- a) a biztosító a részére engedélyezett tevékenység vonatkozásában,
-- b) munkaviszonyával összefüggésben a biztosító munkavállalója a biztosító felelősségvállalása mellett,
-- c) a biztosításközvetítői tevékenységet kiegészítő tevékenységként, a gazdálkodó szervezettel munkavégzésre irányuló jogviszonyban álló, a gazdálkodó szervezet vezetőinek körébe nem tartozó természetes személy,
-- d) a Hpt.-ben meghatározott hitelintézettel vagy a postai szolgáltatásokról szóló törvényben meghatározott egyetemes postai szolgáltatóval és az egyetemes postai szolgáltató által megbízott közreműködővel munkaviszonyban álló természetes személy a munkáltatója utasításainak megfelelően, a munkáltató ügyfélfogadásra szolgáló helyiségében vagy mobilposta útján,
-- e) a Nemzeti Adó és Vámhivatallal hivatásos szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy – kizárólag a jogszabályban meghatározott külföldi telephelyű gépjármű üzemben tartója (vezetője) részére történő kötelező felelősségbiztosítási szerződés értékesítésével kapcsolatban –
+(9) A 75/A. § (2) bekezdésében foglalt, a jó hírnév fennállásának ellenőrzésére vonatkozó rendelkezéseket az alkuszoknak és a többes ügynököknek is megfelelően alkalmazniuk kell azon – velük jogviszonyban álló – személyek vonatkozásában, akikre vonatkozóan a 69/A. § szerinti jó hírnév követelménye fennáll.
 
-végzi.
+370. § (1) A biztosításközvetítői tevékenység végzéséhez nem szükséges a Felügyelet által történő nyilvántartásba vétel, ha a biztosításközvetítői tevékenységet a Hpt.-ben meghatározott hitelintézettel vagy a postai szolgáltatásokról szóló törvényben meghatározott egyetemes postai szolgáltatóval és az egyetemes postai szolgáltató által megbízott közreműködővel munkaviszonyban álló természetes személy a munkáltatója utasításainak megfelelően, a munkáltató ügyfélfogadásra szolgáló helyiségében vagy mobilposta útján végzi.
 
-(2) Az (1) bekezdésben meghatározott személy nem köteles eleget tenni a 369. § (3) bekezdésében foglalt követelményeknek.
+(2) Az (1) bekezdésben meghatározott személy nem köteles eleget tenni a 369. § (3) bekezdés a) pontjában foglalt követelményeknek, amennyiben pénzügyi szolgáltatás közvetítői vagy tőkepiaci üzletkötői tevékenység végzéséhez szükséges képzettséggel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti függő biztosításközvetítői hatósági vizsga 1. vizsgatárgya szerinti ismeretekre épülő, a munkáltatója vagy az általa értékesített termék biztosítója által szervezett belső vizsgával rendelkezik.
 
-(3) Az (1) bekezdés d) pontjában meghatározott feltételek szerint biztosításközvetítői tevékenységet végző hitelintézettel, egyetemes postai szolgáltatóval és az egyetemes postai szolgáltató által megbízott közreműködővel munkaviszonyban álló természetes személy kizárólag abban az esetben végezhet biztosításközvetítői tevékenységet, ha az általa közvetített termékekkel kapcsolatban megfelelő képzést kapott. A szakmai követelmények ellenőrzéséért a munkáltató és az a biztosító felelős, akinek a természetes személy a biztosítási termékét közvetíti.
+(3) Az (1) és (2) bekezdésben meghatározott feltételeknek megfelelő természetes személyt a munkáltatója köteles belső nyilvántartásba venni, amely nyilvántartásban fel kell tüntetni, hogy az adott személy a (2) bekezdésben meghatározott követelmények közül melyikkel rendelkezik.
 
-(4) Az (1) bekezdés d) pontjában meghatározott feltételek szerint biztosításközvetítői tevékenységet végző hitelintézettel, egyetemes postai szolgáltatóval és az egyetemes postai szolgáltató által megbízott közreműködővel munkaviszonyban álló, biztosításközvetítői tevékenységet végző, a (3) bekezdésben meghatározott képzettségi követelménynek megfelelő természetes személyt a munkáltatója köteles belső nyilvántartásba venni.
-
-(5) A munkáltató a (4) bekezdés szerinti nyilvántartást és az ahhoz kapcsolódó dokumentumokat köteles a megbízó biztosító rendelkezésére bocsátani, aki azt felügyeleti ellenőrzés során köteles a Felügyelet részére átadni.
+(4) A munkáltató a (3) bekezdés szerinti nyilvántartást és az ahhoz kapcsolódó dokumentumokat köteles a (2) bekezdés szerinti biztosító rendelkezésére bocsátani, aki azt felügyeleti ellenőrzés során köteles a Felügyelet részére átadni.
 
 371. § (1) A másik tagállamban lakóhellyel vagy székhellyel rendelkező biztosításközvetítő tevékenységét Magyarország területén határon átnyúló szolgáltatásként vagy magyarországi fióktelepe útján akkor végezheti, ha a saját tagállamában nyilvántartásba vételre került.
 
@@ -4213,7 +4464,7 @@ végzi.
 - c) legalább ötéves biztosítási, állami gazdálkodási, vagy az államigazgatás pénzügyi és gazdasági területén szerzett vezetői gyakorlattal rendelkezik, és
 - d) felsőfokú végzettséggel rendelkezik.
 
-373. § (1) A biztosításközvetítővel munkaviszonyban, megbízási vagy munkavégzésre irányuló egyéb jogviszonyban álló, biztosításközvetítői tevékenységet végző személy biztosításközvetítői tevékenység végzésére irányuló további munkaviszonyt, megbízási vagy munkavégzésre irányuló egyéb jogviszonyt másik biztosítóval vagy biztosításközvetítővel nem létesíthet.
+373. § (1) A biztosításközvetítővel jogviszonyban álló, biztosításközvetítői tevékenységet végző személy biztosításközvetítői tevékenység végzésére irányuló további jogviszonyt másik biztosítóval vagy biztosításközvetítővel nem létesíthet.
 
 (2) A biztosításközvetítővel munkaviszonyban, megbízási vagy munkavégzésre irányuló egyéb jogviszonyban álló, biztosításközvetítői tevékenységet végző személy biztosításközvetítői tevékenységének végzésére mással további megbízási vagy munkavégzésre irányuló – munkaviszonynak nem minősülő – egyéb jogviszonyt nem létesíthet.
 
@@ -4237,30 +4488,56 @@ végzi.
 
 (2) A független biztosításközvetítő és a többes ügynök esetében megfelelően alkalmazni kell a 108/A. §-ban meghatározott rendelkezéseket, azzal, hogy ahol a rendelkezés biztosítót említ, azon a független biztosításközvetítőt és a többes ügynököt kell érteni. Ha a független biztosításközvetítő vagy a többes ügynök nem rendelkezik honlappal, a közzétételi kötelezettségnek a székhelyén történő közzététellel is eleget tehet.
 
-#### 168. A biztosításközvetítők szakmai továbbképzése
+375/A. § A 131/A. §-ban foglaltak a biztosításközvetítőkre mint biztosítási terméket kidolgozókra is megfelelően alkalmazandóak.
 
-376. § (1) A biztosításközvetítői tevékenységet végző természetes személy köteles az általa közvetített biztosítási termékek alapos ismeretével rendelkezni, a már megszerzett ismereteket naprakészen tartani, fejleszteni és a változásokból eredő követelményekkel összhangba hozni.
+#### 167/A. A biztosításközvetítők és a kiegészítő biztosításközvetítői tevékenységet végző személyek javadalmazásával összefüggő szabályok
 
-(2) Az (1) bekezdésben meghatározott követelmény teljesítése érdekében a biztosításközvetítői tevékenységet végző természetes személy köteles az általa közvetített vagy a jövőben közvetíteni szándékozott biztosítási termék vonatkozásában szakmai továbbképzésen részt venni.
+375/B. § (1) A függő biztosításközvetítőt az e törvény szerinti jutalékjogosultság megilleti.
 
-(3) Ha a független biztosításközvetítői tevékenységet végző természetes személy a megbízás teljesítése által érintett biztosítási terméket illetően a (2) bekezdésben meghatározott szakmai továbbképzésen korábban nem vett részt, a foglalkoztató vagy megbízó független biztosításközvetítő a kielégítő mennyiségű, a piacon hozzáférhető biztosítási termék elemezéséhez kapcsolódóan – a megbízás teljesítését megelőzően – köteles meggyőződni arról, hogy a közvetítő az elemzés elvégzéséhez szükséges termékismerettel rendelkezik, és ennek tényét a (7) bekezdésben szereplő nyilvántartásba bejegyezni.
+(2) A független biztosításközvetítő a közvetítői tevékenységéért a megbízótól az erre irányuló megállapodás alapján közvetlenül részesül díjazásban, különösen abban az esetben, ha megbízása kizárólag szaktanácsadásra vagy olyan biztosítási szerződés közvetítésére vonatkozik, amelynek díja a biztosítótól származó közvetett díjazást nem vagy csak részben tartalmaz.
 
-(4) A (2) bekezdésben meghatározott szakmai továbbképzési kötelezettség nem áll fenn, ha
+(3) Ha a független biztosításközvetítő – az általa nyújtott tájékoztatással összhangban – a megbízóval úgy állapodott meg, hogy a (2) bekezdésben meghatározott közvetlen díjazásban a független közvetítő nem vagy csak részben részesül, a biztosítási díj meghatározott részét képező közvetett díjazásban részesülhet attól a biztosítótól, amely a közvetítésével létrejött szerződésben a biztosítási kockázatot elvállalja.
 
-- a) a függő biztosításközvetítői tevékenységet végző természetes személy által közvetített biztosítási termék feltétel- és teljesítési rendszerében,
-- b) a biztosításközvetítői tevékenységet végző természetes személy által közvetített termékek körében
+(4) A független biztosításközvetítőnek szabályzatában foglalt eljárásrend szerint gondoskodnia kell arról, hogy a díjazás módja ne vezessen érdekkonfliktus kialakulásához és ne veszélyeztesse a 398. § (5) és (6) bekezdésében foglaltak szerinti kötelezettségét.
 
-változás nem következett be.
+(5) A kiegészítő biztosításközvetítői tevékenységet végző személy (ideértve a 368. § (1) bekezdése szerinti személyt is) a megbízójától javadalmazásra jogosult.
 
-(5) A (2) bekezdésben meghatározott szakmai továbbképzést a biztosításközvetítői tevékenységet folytató természetes személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő végezheti, valamint a szakmai továbbképzés lebonyolítására a 9. mellékletben meghatározott szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
+#### 168. A biztosításközvetítést és a kiegészítő biztosításközvetítői tevékenységet illetően – az értékesített termékekhez igazodó – szakmai képzés és továbbképzés
 
-(6) A biztosításközvetítői tevékenységet folytató természetes személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő köteles a (2) bekezdésben meghatározott szakmai továbbképzési kötelezettség alá eső biztosításközvetítői tevékenységet folytató természetes személyek továbbképzését oly módon megszervezni, hogy az adott személy vonatkozásában az új vagy módosult termék értékesítését a szakmai továbbképzés előzze meg.
+376. § (1) A biztosításközvetítői tevékenységet végző természetes személy, valamint a biztosításközvetítői tevékenységet végző személy értékesítési tevékenységért felelős vezetője köteles – az általa végzett tevékenységhez és értékesített biztosítási termékekhez igazodó – szakmai ismeretekkel rendelkezni, a már megszerzett ismereteket naprakészen tartani, fejleszteni és a változásokból eredő követelményekkel összhangba hozni.
 
-(7) A (2) bekezdésben meghatározott szakmai továbbképzésen történő részvételt a biztosításközvetítői tevékenységet folytató természetes személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő köteles nyilvántartani, és a felügyeleti ellenőrzés során a Felügyelet részére – a nyilvántartásban szereplő dokumentumokkal – igazolni.
+(2) Az (1) bekezdésben meghatározott követelmény teljesítése érdekében az ott meghatározott személy köteles az általa (értékesítésért felelős vezető esetén a biztosításközvetítő által) értékesített vagy a jövőben értékesíteni szándékozott biztosítási termékek vonatkozásában évente összesen legalább 15 órányi szakmai képzésen, illetve továbbképzésen részt venni, amely a 7. melléklet szerinti ismeretanyagra épül.
 
-(8) A 370. § (1) bekezdése szerinti természetes személy e § szerinti szakmai továbbképzését a munkáltatója is elvégezheti, a megbízó biztosító által rendelkezésre bocsátott ismeretanyag alapján, a megbízó biztosító és a munkáltató együttes szakmai felelőssége mellett.
+(3) Azon személyeknek, akik az adott év második félévében lettek az (1) bekezdés szerinti biztosításközvetítők vagy vezetők, és az adott évben még nem teljesítették a (2) bekezdés szerinti követelményt, az adott évben összesen legalább 7,5 órányi szakmai képzésen, illetve továbbképzésen kell részt venniük.
 
-(9) A (8) bekezdés alkalmazása esetén a (7) bekezdés szerinti nyilvántartást a munkáltató köteles vezetni, azzal, hogy a nyilvántartást és az ahhoz kapcsolódó dokumentumokat köteles a megbízó biztosító rendelkezésére bocsátani, aki azt felügyeleti ellenőrzés során köteles a Felügyelet részére átadni.
+(4) A szakmai képzés, illetve továbbképzés elvégzése legalább két különböző képzési forma együttes elvégzésével (helyszíni jelenléttel megvalósuló továbbképzés, e-learning, mentorálás vagy teljes napnyi időtartamú szakmai konferencián történő részvétel) valósítható meg, azzal, hogy egy teljes napnyi időtartamú szakmai konferencián történő részvétel 5 órányi továbbképzésnek számítható be.
+
+(5) A foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő köteles az (1) bekezdés szerinti – szakmai képzési, illetve továbbképzési kötelezettség alá eső – személyek továbbképzését oly módon megszervezni, hogy az adott személy vonatkozásában az új vagy módosult termék értékesítését szakmai képzés, illetve továbbképzés előzze meg.
+
+(6) Amennyiben
+
+- a) a függő biztosításközvetítői tevékenységet végző természetes személy által értékesített biztosítási termék feltétel- és teljesítési rendszerében,
+- b) a biztosításközvetítői tevékenységet végző természetes személy által értékesített termékek körében
+
+változás következett be, akkor a (2) bekezdés szerinti szakmai képzés, illetve továbbképzés elvégzését követően, a biztosításközvetítői tevékenységet folytató természetes személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő köteles meggyőződni arról, hogy a közvetítő a szükséges termékismerettel rendelkezik, és ennek tényét a (9) bekezdésben szereplő nyilvántartásba bejegyezni.
+
+(7) Ha a független biztosításközvetítői tevékenységet végző természetes személy a megbízás teljesítése által érintett biztosítási terméket illetően a (2) bekezdés szerinti szakmai képzésen, illetve továbbképzésen korábban nem vett részt, akkor a foglalkoztató vagy megbízó független biztosításközvetítő az elegendő számú, a piacon hozzáférhető biztosítási termék elemezéséhez kapcsolódóan – a megbízás teljesítését megelőzően – köteles meggyőződni arról, hogy a közvetítő az elemzés elvégzéséhez szükséges termékismerettel rendelkezik, és ennek tényét a (9) bekezdésben szereplő nyilvántartásba bejegyezni.
+
+(8) A (2) bekezdésben meghatározott szakmai képzést, illetve továbbképzést az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő saját maga is végezheti, valamint a szakmai továbbképzés lebonyolítására a 9. mellékletben meghatározott szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
+
+(9) A (2) bekezdésben meghatározott szakmai képzésen, illetve továbbképzésen történő részvételt az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő köteles nyilvántartani, és a felügyeleti ellenőrzés során a Felügyelet részére – a nyilvántartásban szereplő dokumentumokkal – igazolni.
+
+(10) A 370. § (1) bekezdése szerinti természetes személy e § szerinti szakmai továbbképzését a munkáltatója is elvégezheti, az általa értékesített termék biztosítója által rendelkezésre bocsátott ismeretanyag alapján, e biztosító és a munkáltató együttes szakmai felelőssége mellett.
+
+(11) A (10) bekezdés alkalmazása esetén a (9) bekezdés szerinti nyilvántartást a munkáltató köteles vezetni, azzal, hogy a nyilvántartást és az ahhoz kapcsolódó dokumentumokat köteles a (10) bekezdés szerinti biztosító rendelkezésére bocsátani, aki azt felügyeleti ellenőrzés során köteles a Felügyelet részére átadni.
+
+(12) A kiegészítő biztosításközvetítői tevékenységet végző természetes személy és a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet – értékesítési helyszínenként kijelölendő – értékesítési tevékenységért felelős vezetői kötelesek – az általuk végzett tevékenységhez és értékesített biztosítási termékekhez igazodó – szakmai ismeretekkel rendelkezni és ismereteiket a változásokból eredő követelményekkel összhangba hozni.
+
+(13) A (12) bekezdésben meghatározott követelmény teljesítése érdekében az ott meghatározott személyek kötelesek az általuk (értékesítésért felelős vezető esetén a kiegészítő biztosításközvetítői tevékenységet végző személy által) értékesített vagy a jövőben értékesíteni szándékozott biztosítási termékek vonatkozásában szakmai képzésen, illetve továbbképzésen részt venni, amely a 7. melléklet szerinti ismeretanyagra épül.
+
+(14) Az (5), (8) és (9) bekezdésben foglaltak a (12) bekezdés szerinti személyek szakmai továbbképzése kapcsán is megfelelően alkalmazandóak, azzal, hogy a szakmai képzést, illetve továbbképzést az adott személyek munkáltatója vagy megbízója is elvégezheti, a megbízó biztosító, többes ügynök vagy független biztosításközvetítő által rendelkezésre bocsátott ismeretanyag alapján, a megbízó biztosító, többes ügynök vagy független biztosításközvetítő és adott személy munkáltatója vagy megbízója együttes szakmai felelőssége mellett.
+
+(15) A (14) bekezdés szerinti – munkáltató vagy megbízó által végzett – képzés, illetve továbbképzés esetén a (9) bekezdés szerinti nyilvántartást az adott személy munkáltatója vagy megbízója köteles vezetni, azzal, hogy a nyilvántartást és az ahhoz kapcsolódó dokumentumokat köteles a megbízó biztosító, többes ügynök vagy független biztosításközvetítő rendelkezésére bocsátani, aki azt felügyeleti ellenőrzés során köteles a Felügyelet részére átadni.
 
 #### 169. A megtakarítási jellegű életbiztosítások jutalékfizetési szabályai
 
@@ -4286,38 +4563,61 @@ változás nem következett be.
 
 (6) A biztosításközvetítőt a biztosításközvetítői tevékenységéért a kapott jutalékon kívül más juttatás nem illeti meg a biztosítótól. A biztosító a biztosításközvetítőt a jutalékon kívül, a biztosításközvetítői tevékenységtől eltérő szolgáltatás ellentételezéseként egyéb díjazásban, juttatásban részesítheti, a jogosultság pontos jogcímének feltüntetésével, ellenőrizhető és átlátható módon, dokumentált formában.
 
-#### 170. A biztosításközvetítő tájékoztatási kötelezettsége
+(7) Az (1)–(6) bekezdésben foglaltak a független biztosításközvetítők esetében is megfelelően alkalmazandóak azzal, hogy esetükben jutalékon a biztosítótól származó, a biztosítási díj meghatározott részét képező közvetett díjazást kell érteni.
 
-378. § (1) A biztosításközvetítő – ha törvény eltérően nem rendelkezik – a biztosítási szerződés megkötését megelőzően köteles az ügyfél részére a kötelezettségvállalás tagállamának hivatalos nyelvén vagy az ügyféllel történő megállapodásban kikötött más nyelven írásban tájékoztatást adni
+#### 170. A biztosításközvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy tájékoztatási kötelezettsége
 
-- a) a biztosításközvetítést végző természetes személy nevéről, valamint azon gazdálkodó szervezet cégnevéről, székhelyéről, amelynek keretében vagy megbízásából a biztosításközvetítést végzi és felügyeleti hatóságának megjelöléséről,
-- b) a felügyeleti nyilvántartásról, amelyben szerepel, és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
-- c) arról, hogy rendelkezik-e minősített befolyással az adott biztosítóban,
-- d) az adott biztosító vagy az adott biztosító anyavállalata rendelkezik-e minősített befolyással a biztosításközvetítőben,
-- e) a panasztétel lehetőségéről és annak elbírálására jogosult szervekről,
-- f) arról, hogy a szakmai tevékenysége során okozott kár vagy felmerült sérelemdíj megfizetéséért ki áll helyt,
-- g) arról, hogy függő vagy független biztosításközvetítőként jár-e el,
-- h) függő biztosításközvetítő esetén arról, hogy mely biztosítók nevében jár vagy járhat el,
-- i) arról, hogy milyen biztosítási termék terjesztésére van jogosultsága,
-- j) arról, hogy a biztosítási termék közvetítése során az ügyféltől díjat vagy díjelőleget átvehet-e,
-- k) független biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget átvehet-e, és ha igen, annak esetleges összegszerűségi korlátairól,
-- l) függő biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget előzetesen nem vehet át,
-- m) függő biztosításközvetítő esetén arról, hogy a biztosítóval kötött megállapodása alapján milyen képviseleti jogosultsággal rendelkezik, különös tekintettel arra vonatkozóan, hogy a biztosító nevében megkötheti-e a biztosítási szerződést.
+378. § (1) A biztosításközvetítőnek a kockázat helye szerinti vagy a kötelezettségvállalás tagállamának hivatalos nyelvén – ha törvény eltérően nem rendelkezik – a biztosítási szerződés megkötése előtt kellő időben, bizonyítható és azonosítható módon, világos, pontos, közérthető, egyértelmű, nem félrevezető, tisztességes, részletes és díjmentes írásbeli tájékoztatást kell adnia
 
-(2) Az (1) bekezdésben meghatározottakon túl a biztosításközvetítőnek a 152. §-ban, a 153. § (1)–(2) bekezdésében és a 155. §-ban meghatározottakról is tájékoztatást kell nyújtani.
+- a) arról, hogy biztosításközvetítői tevékenységet végez, valamint a biztosításközvetítést végző természetes személy nevéről, továbbá azon gazdálkodó szervezet cégnevéről, székhelyéről, amelynek keretében vagy megbízásából a biztosításközvetítést végzi és felügyeleti hatóságának megjelöléséről;
+- b) a felügyeleti nyilvántartásról, amelyben szerepel, és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet;
+- c) arról, hogy rendelkezik-e minősített befolyással az adott biztosítóban;
+- d) arról, hogy az adott biztosító vagy az adott biztosító anyavállalata rendelkezik-e minősített befolyással a biztosításközvetítőben;
+- e) ügynök esetén a 159. § (1) bekezdésében, többes ügynök és alkusz esetén pedig a 382. § (1) bekezdésében foglaltakról, továbbá a tevékenységével kapcsolatos panasz – annak jellege szerint – a Felügyelethez vagy a békéltető testületekhez való előterjesztésének lehetőségéről (a székhely, telefonos és internetes elérhetőség, valamint a levelezési cím feltüntetésével), illetve a bírói út igénybevételének lehetőségéről;
+- f) arról, hogy a szakmai tevékenysége során okozott kár vagy felmerült sérelemdíj megfizetéséért ki áll helyt;
+- g) arról, hogy függő vagy független biztosításközvetítőként jár-e el;
+- h) függő biztosításközvetítő esetén arról, hogy mely biztosítók nevében jár vagy járhat el;
+- i) arról, hogy milyen biztosítási termék terjesztésére van jogosultsága;
+- j) arról, hogy nyújt-e tanácsadást az értékesített biztosítási termékekre vonatkozóan;
+- k) arról, hogy a biztosítási termék közvetítése során az ügyféltől díjat vagy díjelőleget átvehet-e;
+- l) független biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget átvehet-e, és ha igen, annak esetleges összegszerűségi korlátairól;
+- m) függő biztosításközvetítő esetén arról, hogy a biztosítótól az ügyfélnek járó összeget előzetesen nem vehet át;
+- n) függő biztosításközvetítő esetén arról, hogy a biztosítóval kötött megállapodása alapján milyen képviseleti jogosultsággal rendelkezik, különös tekintettel arra vonatkozóan, hogy a biztosító nevében megkötheti-e a biztosítási szerződést;
+- o) független biztosításközvetítő esetén, azzal a biztosítási termékkel összefüggésben, amelyet ajánl vagy amellyel kapcsolatban tanácsot ad, arról, hogy alapos és személyre szabott elemzés alapján ad-e tanácsot;
+- p) független biztosításközvetítő esetén, amennyiben nem alapos és személyre szabott elemzés alapján nyújt tanácsot, azon biztosítókról, amelyek termékeit értékesítheti;
+- q) a biztosítási szerződéssel összefüggésben kapott javadalmazás jellegéről, így, hogy
+  - qa) közvetítői díj alapján dolgozik-e, vagyis a javadalmazást közvetlenül az ügyféltől kapja-e, ebben az esetben a tájékoztatásnak a közvetítői díj összegére, vagy, ha az nem határozható meg, akkor a közvetítői díj kiszámításának módjára is ki kell térnie,
+  - qb) bármely, biztosítótól kapott díjazás alapján dolgozik-e, vagyis a biztosítási díj magában foglalja-e a javadalmazást,
+  - qc) valamely más típusú javadalmazás alapján dolgozik-e, ideértve a biztosítási szerződéssel összefüggésben kínált vagy nyújtott bármilyen jellegű gazdasági előnyt is, vagy
+  - qd) a qa)–qc) alpontok szerinti javadalmazási formák kombinációja alapján dolgozik-e.
 
-(3) A tájékoztatást azon személyek részére kell teljesíteni, akik a biztosítási (viszontbiztosítási) szerződés létrejötte esetén a biztosított (viszontbiztosított) vagy a biztosítóval szerződő fél pozíciójába kerülnek.
+(2) Az (1) bekezdésben meghatározottakon túl a biztosításközvetítőnek a 152. § (1) és (2) bekezdésében foglaltakról – ide nem értve a 152. § (1) bekezdés e)–g) pontjában foglaltakat –, valamint a 153. § (1)–(2a) bekezdésében és a 155. §-ban meghatározottakról is tájékoztatást kell nyújtania.
 
-(4) Az (1) és (2) bekezdésben meghatározott tájékoztatás az ügyfél ez irányú kifejezett hozzájárulása esetén tartós adathordozón is történhet.
+(3) A biztosításközvetítő
 
-(5) A biztosításközvetítő
-
-- a) az (1) bekezdés a) pontja szerinti adatok változása esetén, a változástól számított tizenöt napon belül,
-- b) az (1) bekezdés b)–m) pontjában foglalt adatok változása esetén, a szerződés módosításakor és megújításakor
+- a) az (1) bekezdés a) pontja szerinti adatok változása esetén a változástól számított tizenöt napon belül,
+- b) az (1) bekezdés b)–p) pontjában foglalt adatok változása esetén a szerződés módosításakor és megújításakor
 
 köteles az (1) bekezdésben meghatározott módon az ügyfél részére a változásokról tájékoztatást nyújtani.
 
-#### 171. A biztosításközvetítőkkel kapcsolatos titokvédelmi szabályok
+(4) Amennyiben az ügyfél a biztosítási szerződéssel összefüggésben annak megkötése után teljesít fizetést – a folyamatos biztosítási díjak és az ütemezett fizetések kivételével –, a biztosításközvetítő minden ilyen kifizetésre vonatkozóan megadja az (1) bekezdés c), d), g), h), o), p) és q) pontja szerinti tájékoztatást.
+
+(5) A kiegészítő biztosításközvetítői tevékenységet végző személy – az (1) bekezdésben meghatározottak szerint – az ügyfél részére köteles tájékoztatást adni:
+
+- a) arról, hogy főtevékenységéhez kapcsolódóan kiegészítő jelleggel végez biztosításközvetítői tevékenységet, valamint a kiegészítő biztosításközvetítést végző természetes személy nevéről, továbbá azon gazdálkodó szervezet cégnevéről, székhelyéről, amelynek keretében vagy megbízásából a kiegészítő biztosításközvetítést végzi, és a gazdálkodó szervezet felügyeleti hatóságának megjelöléséről,
+- b) a felügyeleti nyilvántartásról, amelyben a gazdálkodó szervezet szerepel, és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
+- c) attól függően, hogy biztosító, alkusz vagy többes ügynök megbízásából jár-e el, a 159. § (1) bekezdésére vagy a 382. § (1) bekezdésére vonatkozó tájékoztatást (az adott biztosító, alkusz vagy többes ügynök nevével és címével együtt), továbbá a tevékenységével kapcsolatos panasz – annak jellege szerint – a Felügyelethez vagy a békéltető testületekhez való előterjesztésének lehetőségét (a székhely, telefonos és internetes elérhetőség, valamint a levelezési cím feltüntetésével), illetve tájékoztatást a bírói út igénybevételének lehetőségéről,
+- d) a biztosítási szerződéssel összefüggésben kapott javadalmazás jellegéről.
+
+(6) A 130/A. §-ban, a 152. § (3)–(3c) és (7) bekezdésében, valamint a 158–158/C. §-ban foglaltak a biztosításközvetítőkre és a kiegészítő biztosításközvetítői tevékenységet végző személyre is megfelelően alkalmazandóak.
+
+(7) A 166/A–166/F. §-ban foglaltak a biztosításközvetítőkre is megfelelően alkalmazandóak.
+
+(8) A biztosításközvetítőt és a kiegészítő biztosításközvetítői tevékenységet végző személyt az e §-ban meghatározott kötelezettség nem terheli, ha a szerződés nagykockázatra létrejövő biztosítási szerződés.
+
+378/A. § A 368. § (1) bekezdése szerinti személynek – az őt megbízó alkusz vagy többes ügynök felelősségvállalása mellett – a 152/A. §-ban meghatározottakról, az ott meghatározottak szerint kell tájékoztatást adnia az ügyfél számára, a megbízó biztosításközvetítőre vonatkoztatva.
+
+#### 171. A biztosításközvetítőkkel és a kiegészítő biztosításközvetítői tevékenységet végző személyekkel kapcsolatos titokvédelmi szabályok
 
 379. § (1) A biztosításközvetítő az ügyfelek azon biztosítási titkait jogosult kezelni, amelyek a biztosítási szerződéssel, annak létrejöttével, nyilvántartásával, a szolgáltatással összefüggnek. Az adatkezelés célja csak a biztosítási szerződés megkötéséhez, módosításához, a biztosítás fenntartásához, a biztosítási szerződésből származó követelések megítéléséhez szükséges, vagy az e törvény által meghatározott egyéb cél lehet.
 
@@ -4329,9 +4629,11 @@ köteles az (1) bekezdésben meghatározott módon az ügyfél részére a vált
 
 381. § A 137–143. §-ban, és a 145–147. §-ban meghatározott rendelkezéseket alkalmazni kell a biztosításközvetítők esetében is azzal, hogy ahol az adott rendelkezés biztosítót nevesít, azon a biztosításközvetítőt kell érteni.
 
-#### 172. A biztosításközvetítő panaszkezelése
+381/A. § A 379–381. § rendelkezéseit a kiegészítő biztosításközvetítői tevékenységet végző személyek esetében is megfelelően alkalmazni kell.
 
-382. § (1) A többes ügynök és az alkusz biztosítja, hogy az ügyfél a többes ügynök és az alkusz magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+#### 172. A biztosításközvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy panaszkezelése
+
+382. § (1) A többes ügynök és az alkusz biztosítja, hogy az ügyfél és a fogyasztói érdekképviseleti szervek (a továbbiakban együtt e § alkalmazásában: ügyfél) a többes ügynök, az alkusz és – adott termék kapcsán – az általuk megbízott kiegészítő biztosításközvetítői tevékenységet végző személy magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
 
 (2) A többes ügynök és az alkusz panaszkezelési eljárására egyebekben a 159. § (2)–(5) bekezdése rendelkezéseit kell alkalmazni azzal, hogy ahol a rendelkezés biztosítót nevesít, azon a többes ügynököt és az alkuszt kell érteni.
 
@@ -4354,7 +4656,9 @@ köteles az (1) bekezdésben meghatározott módon az ügyfél részére a vált
 
 (2) Az ügynök a biztosítási szerződést a biztosítóval fennálló munkaviszonya keretében vagy a biztosító megbízása alapján közvetíti.
 
-384. § Ha a szerződő fél a díjat – díjátvételre biztosítói meghatalmazással rendelkező – ügynöknek fizette, a díjat – legkésőbb a fizetés napjától számított negyedik napon – a biztosító számlájára, vagy pénztárába beérkezettnek kell tekinteni; a szerződő fél azonban bizonyíthatja, hogy a díj korábban érkezett be.
+384. § (1) Ha a szerződő fél a díjat – díjátvételre biztosítói meghatalmazással rendelkező – ügynöknek fizette, a díjat – legkésőbb a fizetés napjától számított negyedik napon – a biztosító számlájára vagy pénztárába beérkezettnek kell tekinteni; a szerződő fél azonban bizonyíthatja, hogy a díj korábban érkezett be.
+
+(2) Az ügynök a biztosítótól az ügyfélnek járó összeget előzetesen nem vehet át.
 
 385. § (1) Az ügynök a tevékenysége során a biztosítási szakmai szabályokat mindenkor megtartva köteles eljárni.
 
@@ -4364,6 +4668,8 @@ köteles az (1) bekezdésben meghatározott módon az ügyfél részére a vált
 
 386. § A Ptk. 6:298. §-ában meghatározott kártalanítás a biztosítóval fennálló jogviszony alapján biztosításközvetítői tevékenységet végző ügynököt kizárólag az erre irányuló, a biztosítóval írásban megkötött megállapodás esetében illeti meg, a megkötött megállapodás feltételei szerint.
 
+386/A. § A 383. § (1) bekezdés, a 384. § és a 385. § rendelkezéseit a kiegészítő biztosításközvetítői tevékenységet végző személyekre is megfelelően alkalmazni kell, azzal, hogy a 385. § esetében – amennyiben a megbízó biztosításközvetítő – biztosító alatt a megbízó biztosításközvetítőt kell érteni.
+
 #### 174. A többes ügynök
 
 387. § (1) A többes ügynök előkészíti a biztosítási szerződés megkötését, tevékenysége kiterjedhet
@@ -4371,11 +4677,17 @@ köteles az (1) bekezdésben meghatározott módon az ügyfél részére a vált
 - a) a biztosító ez irányú meghatalmazása esetén a szerződés biztosító képviseletében történő megkötésére és a biztosítási díj átvételére, továbbá
 - b) a biztosító szerződésből eredő jogainak gyakorlásában és kötelezettségeinek teljesítésében való közreműködésre és a szerződéskötés lebonyolításában való közreműködésre.
 
-(2) A többes ügynök független biztosításközvetítői tevékenységet – beleértve a termék kiválasztására irányuló tanács nyújtását – nem végezhet, ugyanakkor köteles felhívni az ügyfél figyelmét, hogy igényeinek és szükségleteinek megfelelő döntést hozzon a szerződés megkötését és a termék kiválasztását illetően.
+(2) A többes ügynök független biztosításközvetítői tevékenységet nem végezhet.
 
-(3) A biztosítási szerződés megkötése előtt a többes ügynök köteles az ügyféllel együttműködve az ügyfél igényeit és szükségleteit meghatározni és az ügyfél igényeihez igazodó termékcsoportban az általa közvetített versengő termékek közül kielégítő mennyiségű termékről az ügyfél befolyásolásától mentesen, részletes, a termékek összehasonlítására alkalmas tájékoztatást nyújtani, amely lehetővé teszi az ügyfél számára a legmegfelelőbb termék kiválasztását.
+(3) A többes ügynök tanácsadás nélküli értékesítés esetén – az e törvényben foglalt, tanácsadás nélküli értékesítésre vonatkozó követelményeken túlmenően és azokkal összhangban – a biztosítási szerződés megkötésének előkészítése során köteles az ügyfél igényeihez igazodó termékcsoportban összehasonlításra alkalmas elemzést végezni, amely lehetővé teszi az ügyfél számára a legmegfelelőbb termék kiválasztását.
 
-387/A. § Ha a szerződő fél a díjat – díjátvételre biztosítói meghatalmazással rendelkező – többes ügynöknek fizette, a díjat – legkésőbb a fizetés napjától számított negyedik napon – a biztosító számlájára vagy pénztárába beérkezettnek kell tekinteni; a szerződő fél azonban bizonyíthatja, hogy a díj korábban érkezett be.
+(4) A többes ügynök tanácsadással történő értékesítés esetén – az e törvényben foglalt, tanácsadással történő értékesítésre vonatkozó követelményeken túlmenően és azokkal összhangban – a biztosítási szerződés megkötésének előkészítése során köteles az ügyfél igényeihez igazodó termékcsoportban összehasonlításra alkalmas elemzést végezni, és az ügyfél tájékoztatása alapján megállapítható igényeihez és szükségleteihez igazodó elemzési szempontok alapján és azoktól függően az ügyfél részére személyre szabott – bizonyos biztosítási termék vagy termékek választására irányuló – konkrét ajánlást is adni, ismertetve, hogy az adott termék – az adott elemzési szempontot figyelembe véve – miért felel meg leginkább az ügyfél igényeinek és szükségleteinek.
+
+(5) A (3) és (4) bekezdés szerinti tájékoztatásban ki kell térni arra is, hogy az elemzés a többes ügynök által közvetített versengő termékek teljes körére vagy azok közül elegendő számú termékre terjed-e ki, és az elemzést igazolható módon át is kell adni az ügyfél részére.
+
+387/A. § (1) Ha a szerződő fél a díjat – díjátvételre biztosítói meghatalmazással rendelkező – többes ügynöknek fizette, a díjat – legkésőbb a fizetés napjától számított negyedik napon – a biztosító számlájára vagy pénztárába beérkezettnek kell tekinteni; a szerződő fél azonban bizonyíthatja, hogy a díj korábban érkezett be.
+
+(2) A többes ügynök a biztosítótól az ügyfélnek járó összeget előzetesen nem vehet át.
 
 388. § (1) Többes ügynök biztosításközvetítői tevékenységet a Felügyelet engedélye alapján
 
@@ -4426,8 +4738,8 @@ formájában végezhet.
 
 (6) A többes ügynök köteles tevékenységének felelősségbiztosítására mindenkor legalább
 
-- a) biztosítási eseményenkénti 1 251 000 euró, és évente együttesen legalább 1 876 000 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
-- b) 1 876 000 euró vagyoni biztosítékkal
+- a) biztosítási eseményenkénti 1 250 000 euró, és évente együttesen legalább 1 850 000 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
+- b) 1 850 000 euró vagyoni biztosítékkal
 
 rendelkezni.
 
@@ -4490,19 +4802,23 @@ rendelkezni.
 
 398. § (1) A független biztosításközvetítő (a továbbiakban: alkusz) az ügyféllel kötött szerződés alapján, az ügyfél megbízásából jár el, előkészíti a biztosítási szerződés megkötését, tevékenysége kiterjedhet – az ügyfél képviseletében – a szerződés megkötésére, a megbízó igényeinek érvényesítésében történő közreműködésre.
 
+(1a) Az alkusz tevékenysége kiterjedhet az ügyfél számára annak biztosítási kockázatai felmérésével, kezelésével, illetve biztosításaival összefüggő szaktanács adására is, termékértékesítéstől függetlenül.
+
 (2) A biztosító ez irányú hozzájárulása esetén, az ügyfél megbízásából az alkusz jogosult a biztosítási díj átvételére, valamint a biztosító hozzájárulása vagy az ügyfél felhatalmazása alapján a kockázat felmérésében, a szerződésből eredő jogok és kötelezettségek teljesítésében és lebonyolításában való közreműködésre.
 
 (3) Az alkusz ügynöki és többes ügynöki tevékenységet nem végezhet.
 
-(4) A (3) bekezdésben meghatározott szabályoktól eltérően az alkusz – az ügyfél megbízásából – jogosult a 368. § (1) bekezdés e) pont eb) alpontjában meghatározott tevékenység végzésére, feltéve, ha az alkuszi tevékenységéhez kapcsolódóan kerül sor biztosítási termék közvetítésére.
+(4) A (3) bekezdésben meghatározott szabályoktól eltérően az alkusz – az ügyfél megbízásából – jogosult a 368. § (1) bekezdés a) pont ab) alpontjában meghatározott tevékenység végzésére, feltéve, ha az alkuszi tevékenységéhez kapcsolódóan kerül sor biztosítási termék közvetítésére.
 
-(5) Az alkusz a biztosítási szerződés megkötésének előkészítése során köteles kielégítő mennyiségű, a piacon hozzáférhető biztosítást tárgyszerűen elemezni, és egyértelmű, szakszerű tájékoztatást nyújtani az ügyfél igényeinek és szükségleteinek megfelelően.
+(5) Az alkusz tanácsadás nélküli értékesítés esetén – az e törvényben foglalt, tanácsadás nélküli értékesítésre vonatkozó követelményeken túlmenően és azokkal összhangban – a biztosítási szerződés megkötésének előkészítése során köteles elegendő számú, a piacon hozzáférhető biztosítást tárgyszerűen elemezni és ezt az elemzést az ügyfél részére igazolható módon átadni.
 
-(6) A biztosítási szerződés megkötése előtt az alkusz köteles az ügyfél tájékoztatása alapján pontosítani az ügyfél igényeit és szükségleteit, valamint azokat az indokokat, amelyek a közvetítő által a biztosítási termékkel összefüggésben adott szaktanácsot alátámasztják.
+(6) Az alkusz tanácsadással történő értékesítés esetén – az e törvényben foglalt, tanácsadással történő értékesítésre vonatkozó követelményeken túlmenően és azokkal összhangban – köteles alapos és személyre szabott elemzés alapján tanácsot adni az ügyfélnek, ennek érdekében a biztosítási szerződés megkötésének előkészítése során köteles elegendő számú, a piacon hozzáférhető biztosítást tárgyszerűen elemezni, és az ügyfél tájékoztatása alapján megállapítható igényeihez és szükségleteihez igazodó elemzési szempontok alapján és azoktól függően az ügyfél részére személyre szabott – bizonyos biztosítási termék vagy termékek választására irányuló – konkrét ajánlást is adni, ismertetve, hogy az adott termék – az adott elemzési szempontot figyelembe véve – miért felel meg leginkább az ügyfél igényeinek és szükségleteinek.
 
-(7) A (4) bekezdésben meghatározott esetben az alkuszt nem terheli az (5) bekezdésben meghatározott kötelezettség, ugyanakkor igazolható módon, külön köteles az alkusz tájékoztatni ügyfelét arról, hogy
+(7) Az alkusz köteles a (6) bekezdés szerinti elemzést az ügyfél részére igazolható módon átadni.
 
-- a) az adott biztosítási szerződés közvetítése során nem került sor kielégítő mennyiségű, a piacon hozzáférhető biztosítás elemezésére, és
+(8) A (4) bekezdésben meghatározott esetben – az e törvényben foglalt biztosítási értékesítésre vonatkozó követelmények betartása mellett – az alkuszt nem terheli az (5) és (6) bekezdésben foglalt, a biztosítások elemzésére vonatkozó kötelezettség, ugyanakkor igazolható módon köteles tájékoztatni az ügyfelét arról, hogy
+
+- a) az adott biztosítási termék értékesítése során nem került sor elegendő számú, a piacon hozzáférhető biztosítás elemezésére, és
 - b) az adott biztosítási termékkel összefüggésben mely biztosítóval áll szerződéses kapcsolatban.
 
 399. § (1) Az alkusz biztosításközvetítői tevékenységet a Felügyelet alkuszi engedélye alapján
@@ -4550,8 +4866,8 @@ formájában végezhet.
 
 403. § (1) Az alkusz köteles tevékenységének felelősségbiztosítására mindenkor legalább
 
-- a) biztosítási eseményenkénti 1 251 000 euró, és évente együttesen legalább 1 876 000 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
-- b) 1 876 000 euró vagyoni biztosítékkal
+- a) biztosítási eseményenkénti 1 250 000 euró, és évente együttesen legalább 1 850 000 euró összegű, az Európai Unió egész területére kiterjedő hatályú felelősségbiztosítással, vagy
+- b) 1 850 000 euró vagyoni biztosítékkal
 
 rendelkezni.
 
@@ -4619,44 +4935,66 @@ rendelkezni.
 
 (12) Az alkuszi megbízási szerződésállomány átruházására a Ptk. 6:208–6:211. §-ának szerződésátruházásra vonatkozó szabályai nem alkalmazandók.
 
-## KILENCEDIK RÉSZ — A BIZTOSÍTÁSKÖZVETÍTŐK FELÜGYELETE
+## KILENCEDIK RÉSZ — A BIZTOSÍTÁSKÖZVETÍTŐK ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEK FELÜGYELETE
 
-### XXX. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐK NYILVÁNTARTÁSA
+### XXX. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐK ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEK NYILVÁNTARTÁSA
 
-#### 176. A biztosításközvetítők felügyeleti nyilvántartása
+#### 176. A biztosításközvetítők és a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetek nyilvántartása
 
-407. § (1) A Felügyelet az e törvény alapján bejelentett vagy engedélyezett biztosításközvetítőkről a biztosításközvetítőkkel kapcsolatos engedélyezési és felügyeleti feladatok ellátása céljából nyilvántartást vezet.
+407. § (1) A Felügyelet az e törvény alapján bejelentett vagy engedélyezett biztosításközvetítői tevékenységet végző személyekről, ezen személyek értékesítési tevékenységért felelős vezetőjéről, valamint a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetekről és ezen gazdálkodó szervezetek értékesítési tevékenységért felelős vezetőiről a velük kapcsolatos engedélyezési, illetve felügyeleti feladatok ellátása céljából nyilvántartást vezet.
 
-(2) Az (1) bekezdésben meghatározott nyilvántartás a biztosításközvetítést végző természetes személyek nyilvántartásából és a biztosításközvetítő gazdálkodó szervezetek nyilvántartásából és a törölt biztosításközvetítők nyilvántartásából áll.
+(2) Az (1) bekezdés szerinti nyilvántartásba vételhez kapcsolódó bejelentés űrlapjának a Felügyelet honlapján közvetlenül kitölthetőnek és benyújthatónak kell lennie.
 
-(3) A biztosításközvetítést végző természetes személyek nyilvántartása a biztosításközvetítő természetes személy alábbi adatait tartalmazza:
+(3) Az (1) bekezdés szerinti nyilvántartás a biztosításközvetítői tevékenységet végző természetes személyek nyilvántartásából, a biztosításközvetítői tevékenységet végző gazdálkodó szervezetek nyilvántartásából, a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetek nyilvántartásából és a törölt biztosításközvetítők nyilvántartásából áll.
 
-- a) neve és születési neve, születési helye, születési ideje, anyja neve, lakcíme,
-- b) nyilvántartási száma és annak kelte,
-- c) azon állam vagy államok neve, amelyekben a biztosításközvetítői tevékenységet folytatja,
+(4) A biztosításközvetítési tevékenységet végző természetes személyek nyilvántartása a természetes személy alábbi adatait tartalmazza:
+
+- a) neve, születési neve, születési helye, születési ideje, anyja neve, lakcíme;
+- b) nyilvántartási száma és annak kelte;
+- c) azon tagállam vagy tagállamok neve, amelyek tekintetében a biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette;
 - d) ha a biztosításközvetítő természetes személy tevékenységét gazdálkodó szervezet keretében végzi, akkor
   - da) ennek a gazdálkodó szervezetnek a neve (a változások nyomon követésével),
   - db) a gazdálkodó szervezet nyilvántartási száma,
-  - dc) a gazdálkodó szervezettel fennálló jogviszony kezdete és vége, a jogviszony megnevezése (a változások nyomon követésével),
-- e) a biztosításközvetítői tevékenység jellege (független, függő),
-- f) a biztosító vagy biztosítók, a többes ügynök, illetve az alkusz neve, amellyel közvetítésre irányuló jogviszonyban áll (a változások nyomon követésével),
-- g) az ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása biztosítónként,
-- h) a végzettség típusa (felsőfokú végzettség, szakképesítés vagy hatósági vizsga),
-- i) státusza (aktív, inaktív).
+  - dc) a gazdálkodó szervezettel fennálló, biztosításközvetítésre irányuló jogviszony kezdete és vége, a jogviszony megnevezése (a változások nyomon követésével);
+- e) a biztosításközvetítői tevékenység jellege (független, függő);
+- f) a biztosító vagy biztosítók, a többes ügynök, illetve az alkusz neve, amellyel közvetítésre irányuló jogviszonyban áll (a változások nyomon követésével), valamint a biztosításközvetítésre irányuló jogviszony kezdete és vége, a jogviszony megnevezése (a változások nyomon követésével);
+- g) ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása biztosítónként;
+- h) a végzettség típusa (felsőfokú végzettség, szakképesítés vagy hatósági vizsga);
+- i) státusza (aktív, inaktív);
+- j) a 376. § szerinti képzési, illetve továbbképzési követelmények teljesítésének ténye.
 
-(4) A biztosításközvetítő gazdálkodó szervezetek nyilvántartása a gazdálkodó szervezet alábbi adatait tartalmazza:
+(5) A biztosításközvetítési tevékenységet végző gazdálkodó szervezetek nyilvántartása a gazdálkodó szervezet alábbi adatait tartalmazza:
 
-- a) a biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, képviseletére jogosultak neve és beosztása,
-- b) nyilvántartási száma és annak kelte,
-- c) azon állam vagy államok neve, amelyekben a biztosításközvetítői tevékenységet folytatja,
-- d) a biztosításközvetítői tevékenység jellege (független, függő),
-- e) a biztosító, a többes ügynök, illetve az alkusz neve, amellyel közvetítésre irányuló jogviszonyban áll (a változások nyomon követésével),
-- f) az ügynök esetén a közvetített termékek 1. és 2. számú melléklet szerinti ágazati besorolása biztosítónként,
-- g) státusza (aktív, inaktív).
+- a) a gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési tevékenységért felelős vezető neve;
+- b) nyilvántartási száma és annak kelte;
+- c) azon tagállam vagy tagállamok neve, amelyek tekintetében a biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselőjének nevével együtt);
+- d) a biztosításközvetítői tevékenység jellege (független, függő);
+- e) a biztosító, a többes ügynök, illetve az alkusz neve, amellyel közvetítésre irányuló jogviszonyban áll (a változások nyomon követésével), valamint a biztosításközvetítésre irányuló jogviszony kezdete és vége, a jogviszony megnevezése (a változások nyomon követésével);
+- f) ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása biztosítónként;
+- g) státusza (aktív, inaktív);
+- h) a biztosításközvetítői tevékenységet végző gazdálkodó szervezetben minősített befolyással rendelkező részvényesek vagy tagok azonosító adatai és a befolyás mértéke;
+- i) a biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai.
 
-(5) A Felügyelet a (3) és (4) bekezdésben meghatározott adatokat biztosításközvetítői tevékenység megszűnését követő tíz évig kezelheti.
+(6) A kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetek nyilvántartása az alábbi adatokat tartalmazza:
 
-(6) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
+- a) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős vezető neve;
+- b) nyilvántartási száma és annak kelte;
+- c) azon tagállam vagy tagállamok neve, amelyek tekintetében a kiegészítő biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselőjének nevével együtt);
+- d) a biztosító, a többes ügynök, illetve az alkusz neve, amellyel közvetítésre irányuló jogviszonyban áll (a változások nyomon követésével), valamint a kiegészítő biztosításközvetítésre irányuló jogviszony kezdete és vége, a jogviszony megnevezése (a változások nyomon követésével);
+- e) az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős vezetőnek a 376. §-ban meghatározott követelményeknek történő megfelelésének ténye;
+- f) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetben minősített befolyással rendelkező részvényesek vagy tagok azonosító adatai és a befolyás mértéke;
+- g) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai.
+
+(7) Az (5) és (6) bekezdésben meghatározott azonosító adatok
+
+- a) természetes személy esetén: neve és születési neve, születési helye, születési ideje, anyja neve, lakcíme;
+- b) gazdálkodó szervezet esetén: neve, rövidített neve, székhelye, adószáma, képviseletére jogosultak neve és beosztása.
+
+(8) A Felügyelet a (4)–(6) bekezdésben meghatározott adatokat a biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység megszűnését követő tíz évig kezelheti.
+
+(9) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
+
+(10) A Felügyelet megtagadja az e § szerinti nyilvántartásba vételt vagy a 431. § (1) bekezdés d) pontja szerinti intézkedést alkalmazza, amennyiben a 412. § szerinti nyilvántartásokban feltüntetett szoros kapcsolat olyan harmadik ország természetes személyével vagy gazdálkodó szervezetével áll fenn, amelynek jogszabályai megakadályozzák a Felügyeletet felügyeleti jogköreinek tényleges gyakorlásában.
 
 408. § (1) A Felügyelet a biztosításközvetítő természetes személy természetes személyazonosító adatait (név, születési hely, születési idő, anyja neve) és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartó szerv részére. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartó kapcsolati kódot képez, amelyet azonosítás céljából megküld a Felügyelet részére.
 
@@ -4664,64 +5002,91 @@ rendelkezni.
 
 (3) Az (1) és (2) bekezdés szerinti adategyeztetés díjmentes.
 
-409. § A 407. § (1) bekezdésében meghatározott nyilvántartás az e törvény alapján engedélyezett vagy bejelentett biztosításközvetítési tevékenységet végző természetes vagy jogi személy vonatkozásában
+409. § A 407. § (1) bekezdésében meghatározott nyilvántartás az e törvény alapján engedélyezett vagy bejelentett biztosításközvetítési tevékenységet végző természetes vagy jogi személy, valamint kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet vonatkozásában
 
-- a) a biztosításközvetítő természetes személy vagy gazdálkodó szervezet neve,
+- a) a természetes személy vagy gazdálkodó szervezet neve,
 - b) a nyilvántartási szám és annak kelte, valamint
-- c) a függő vagy független biztosításközvetítői tevékenység végzésére való jogosultság tekintetében közhiteles nyilvántartásnak minősül.
+- c) a függő, független vagy kiegészítő biztosításközvetítői tevékenység végzésére való jogosultság
 
-410. § (1) A felügyeleti nyilvántartásba vétel során a Felügyelet a biztosításközvetítő természetes személy és gazdálkodó szervezet számára nyilvántartási számot állapít meg.
+tekintetében közhiteles nyilvántartásnak minősül.
 
-(2) Ugyanazon aktív státuszú biztosításközvetítő részére újabb nyilvántartási szám nem állapítható meg és az aktív státuszú biztosításközvetítő nyilvántartási számát újabb biztosításközvetítő nem kaphatja meg.
+410. § (1) A felügyeleti nyilvántartásba vétel során a Felügyelet a biztosításközvetítő természetes személy és gazdálkodó szervezet, valamint a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet számára nyilvántartási számot állapít meg.
 
-(3) A biztosításközvetítői tevékenységet végző természetes személy nevét, gazdálkodó szervezet nevét és székhelyét, valamint a 407. § (3) bekezdés b)–g) és i) pontjában és a 407. § (4) bekezdés b–g) pontjában szereplő adatokat a Felügyelet a honlapján folyamatosan közzéteszi.
+(2) Ugyanazon aktív státuszú biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet részére újabb nyilvántartási szám nem állapítható meg, és az aktív státuszú biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet nyilvántartási számát újabb biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet nem kaphatja meg.
 
-411. § (1) A biztosításközvetítő annak a biztosítónak, többes ügynöknek vagy alkusznak a – Magyar Nemzeti Bank elnöke által kiadott rendeletben meghatározott módon történő – bejelentése alapján kerül nyilvántartásba vételre, amely részére biztosításközvetítői tevékenységet végez. Az alkusz 398. § (4) bekezdésében meghatározott tevékenysége vonatkozásában nyilvántartásba vételre nincs szükség.
+(3) A biztosításközvetítői tevékenységet végző természetes személy nevét, a biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet nevét és székhelyét, valamint a 407. § (4) bekezdés b)–g) és i) pontjában, a 407. § (5) bekezdés b–g) pontjában és a 407. § (6) bekezdés b)–d) pontjában szereplő adatokat a Felügyelet a honlapján folyamatosan közzéteszi.
 
-(2) A biztosításközvetítő természetes személy az adott biztosításközvetítői tevékenységre vonatkozó nyilvántartásba vételekor köteles megfelelni a 369. § (3) bekezdés a) és b) pontjában meghatározott feltételeknek.
+411. § (1) A biztosításközvetítő és a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet annak a biztosítónak, többes ügynöknek vagy alkusznak a – Magyar Nemzeti Bank elnöke által kiadott rendeletben meghatározott módon történő – bejelentése alapján kerül nyilvántartásba vételre, amely részére biztosításközvetítői tevékenységet végez. Az alkusz 398. § (4) bekezdésében meghatározott tevékenysége vonatkozásában nyilvántartásba vételre nincs szükség.
 
-(3) A biztosításközvetítő természetes személy, gazdálkodó szervezet és a vele jogviszonyban álló biztosításközvetítő természetes személy köteles a 412. §-ban meghatározott nyilvántartást vezető biztosítónak, többes ügynöknek vagy alkusznak a nyilvántartásba-vételi feltételek teljesítését igazolni.
+(2) A biztosításközvetítő természetes személy az adott biztosításközvetítői tevékenységre vonatkozó nyilvántartásba vételekor köteles megfelelni a 369. § (3) bekezdésében meghatározott feltételeknek.
 
-#### 177. A biztosításközvetítők belső nyilvántartása
+(3) A biztosításközvetítői és a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet értékesítési tevékenységért felelős vezetői – a nyilvántartásba vételkor – kötelesek megfelelni a 369. § (8) bekezdésében meghatározott feltételnek.
 
-412. § (1) A biztosító, a többes ügynök és az alkusz az általa alkalmazott vagy megbízott biztosításközvetítést végző természetes személyekről, vagy ha a közvetítői tevékenységgel gazdálkodó szervezetet bízott meg, akkor erről a gazdálkodó szervezetről és az ennél a szervezetnél közvetítő tevékenységet végző természetes személyről biztosításközvetítőkkel kapcsolatos nyilvántartási és felügyeleti feladatok elősegítése céljából köteles belső nyilvántartást vezetni.
+(4) A biztosításközvetítő természetes személy, gazdálkodó szervezet és a vele jogviszonyban álló biztosításközvetítő természetes személy, valamint a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet köteles a 412. §-ban meghatározott nyilvántartást vezető biztosítónak, többes ügynöknek vagy alkusznak a nyilvántartásba-vételi feltételek teljesítését igazolni.
 
-(2) Az (1) bekezdésben meghatározott belső nyilvántartás a biztosításközvetítést végző természetes személyek belső nyilvántartásából és a biztosításközvetítő gazdálkodó szervezetek belső nyilvántartásából áll.
+#### 177. A biztosításközvetítőkről, a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetekről és a 368. § (1) bekezdése szerinti személyekről vezetett belső nyilvántartás
 
-(3) A biztosításközvetítést végző természetes személyek belső nyilvántartása – a biztosításközvetítő adataiban a közvetítői jogviszony tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
+412. § (1) A biztosító, a többes ügynök és az alkusz az általa alkalmazott vagy megbízott biztosításközvetítést végző természetes személyekről, vagy ha a közvetítői tevékenységgel gazdálkodó szervezetet bízott meg, akkor erről a gazdálkodó szervezetről és az ennél a szervezetnél közvetítői tevékenységet végző természetes személyekről, továbbá az általa megbízott kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetről és az ennél a szervezetnél kiegészítő biztosításközvetítői tevékenységet végző természetes személyekről, valamint az általa megbízott 368. § (1) bekezdése szerinti személyekről – a biztosításközvetítőkkel, a kiegészítő biztosításközvetítői tevékenységet végző személyekkel és a 368. § (1) bekezdése szerinti személyekkel kapcsolatos nyilvántartási és felügyeleti feladatok elősegítése céljából – köteles belső nyilvántartást vezetni.
 
-- a) a biztosításközvetítői tevékenységet végző természetes személy neve, születési helye, születési ideje, anyja neve, lakcíme,
-- b) nyilvántartási száma és annak kelte,
-- c) azon állam vagy államok neve, amelyekben a biztosításközvetítői tevékenységet folytatja,
-- d) ha a biztosításközvetítő természetes személy tevékenységét egy függő biztosításközvetítő gazdálkodó szervezet keretében végzi, akkor
+(2) Az (1) bekezdésben meghatározott belső nyilvántartás a biztosításközvetítést végző természetes személyek belső nyilvántartásából, a biztosításközvetítő gazdálkodó szervezetek belső nyilvántartásából, a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetek belső nyilvántartásából, valamint a 368. § (1) bekezdése szerinti személyek belső nyilvántartásából áll.
+
+(3) A biztosításközvetítést végző természetes személyekről vezetett belső nyilvántartás – a biztosításközvetítő adataiban a közvetítői jogviszony tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
+
+- a) a biztosításközvetítői tevékenységet végző természetes személy neve, születési helye, születési ideje, anyja neve, lakcíme;
+- b) nyilvántartási száma és annak kelte;
+- c) azon tagállam vagy tagállamok neve, amelyek tekintetében a biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette;
+- d) ha a biztosításközvetítő természetes személy tevékenységét egy biztosításközvetítő gazdálkodó szervezet keretében végzi, akkor
   - da) ennek a gazdálkodó szervezetnek a neve,
   - db) a gazdálkodó szervezet nyilvántartási száma,
-  - dc) a gazdálkodó szervezettel fennálló jogviszony kezdete és vége, a jogviszony megnevezése,
-- e) a biztosításközvetítői tevékenység jellege (független, függő),
+  - dc) a gazdálkodó szervezettel fennálló, biztosításközvetítésre irányuló jogviszony kezdete és vége, a jogviszony megnevezése;
+- e) a biztosításközvetítői tevékenység jellege (független, függő);
 - f) a biztosítóval, a többes ügynökkel vagy az alkusszal
   - fa) fennálló jogviszony kezdete és vége, a jogviszony megnevezése,
   - fb) fennálló jogviszony keretében a biztosítónak, a többes ügynöknek vagy az alkusznak végzett tevékenység részletes meghatározása,
-  - fc) fennállott jogviszony esetleges korlátozása, a jogviszony megszüntetésének oka, körülményei,
-- g) az ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása,
-- h) a végzettség típusa (felsőfokú végzettség, szakképesítés vagy hatósági vizsga), az ezt igazoló dokumentum másolata,
-- i) a biztosítótól, többes ügynöktől vagy alkusztól kilépett biztosításközvetítő természetes személy közvetítői igazolványa bevonásának tényét,
-- j) bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány.
+  - fc) fennállott jogviszony esetleges korlátozása, a jogviszony megszüntetésének oka, körülményei;
+- g) ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása;
+- h) a végzettség típusa (felsőfokú végzettség, szakképesítés vagy hatósági vizsga), az ezt igazoló dokumentum másolata;
+- i) a biztosítótól, többes ügynöktől vagy alkusztól kilépett biztosításközvetítő természetes személy közvetítői igazolványa bevonásának ténye;
+- j) a 376. § szerinti képzési, illetve továbbképzési követelmények teljesítésének igazolása;
+- k) a 69/A. § szerinti jó hírnév követelményének történő megfelelés igazolása.
 
-(4) A biztosításközvetítő gazdálkodó szervezetek belső nyilvántartása – a biztosításközvetítő adataiban a közvetítői jogviszony tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
+(4) A biztosításközvetítő gazdálkodó szervezetekről vezetett belső nyilvántartás – a biztosításközvetítő adataiban a közvetítői jogviszony tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
 
-- a) a biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, képviseletére jogosultak neve és beosztása,
-- b) nyilvántartási száma és annak kelte,
-- c) azon állam vagy államok neve, amelyekben a biztosításközvetítői tevékenységet folytatja,
-- d) a biztosításközvetítői tevékenység jellege (független, függő),
-- e) az ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása.
+- a) a biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési tevékenységért felelős vezető neve;
+- b) nyilvántartási száma és annak kelte;
+- c) azon tagállam vagy tagállamok neve, amelyek tekintetében a biztosításközvetítői tevékenység folytatására vonatkozó szándékát a 422. § szerint a Felügyeletnek bejelentette (fióktelep létesítése esetén a fióktelep általános képviselőjének nevével együtt);
+- d) a biztosításközvetítői tevékenység jellege (független, függő);
+- e) biztosítóval, a többes ügynökkel vagy az alkusszal fennálló, közvetítésre irányuló jogviszony kezdete és vége;
+- f) ügynök esetén a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása;
+- g) az értékesítési tevékenységért felelős vezetőnek a 69/A. §-ban és a 376. §-ban meghatározott követelményeknek történő megfelelésének igazolása;
+- h) a biztosításközvetítői tevékenységet végző gazdálkodó szervezetben minősített befolyással rendelkező részvényesek vagy tagok azonosító adatai és a befolyás mértéke;
+- i) a biztosításközvetítői tevékenységet végző gazdálkodó szervezettel szoros kapcsolatban álló személyek azonosító adatai;
+- j) biztosításközvetítő gazdálkodó szervezet nyilatkozata arra vonatkozóan, hogy a h) és i) pontokban említett tulajdoni részesedés vagy szoros kapcsolat nem akadályozza meg a Felügyelet felügyeleti jogkörének tényleges gyakorlását.
 
-(5) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő az adott belső nyilvántartást vezető biztosító, a többes ügynök vagy alkusz.
+(5) A kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezetekről vezetett belső nyilvántartás – a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet adataiban a közvetítői jogviszony tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
 
-(6) Az (1) bekezdésben meghatározott adatokban bekövetkezett változásokat – ide nem értve a (3) bekezdés b) és f) pontjában, valamint a (4) bekezdés b) pontjában meghatározott adatokat – az adott belső nyilvántartást vezető biztosító, a többes ügynök vagy alkusz köteles – Magyar Nemzeti Bank elnöke által kiadott rendeletben meghatározott módon – a Felügyeletnek harminc napon belül bejelenteni.
+- a) a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet neve, rövidített neve, székhelye, telephelye és fióktelepe címe, adószáma, az értékesítési helyszínenként kijelölendő értékesítési tevékenységért felelős vezető neve;
+- b) értelemszerűen a (4) bekezdés b)–c) és g)–i) pontjában foglalt adatok;
+- c) az általa közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása (amennyiben a kiegészítő biztosításközvetítő tevékenységet végző gazdálkodó szervezet nem alkusz vagy többes ügynök számára végez tevékenységet);
+- d) az általa alkalmazott vagy megbízott kiegészítő biztosításközvetítői tevékenységet végző természetes személyek neve;
+- e) a biztosítóval, a többes ügynökkel vagy az alkusszal fennálló, kiegészítő biztosításközvetítésre irányuló jogviszony kezdete és vége.
 
-(7) A biztosító, a többes ügynök és az alkusz köteles a (3) bekezdés f) pont fa) alpontjában meghatározott adatokban bekövetkezett változást a Felügyeletnek két munkanapon belül bejelenteni.
+(6) A 368. § (1) bekezdése szerinti személyekről vezetett belső nyilvántartás – a 368. § (1) bekezdése szerinti személy adataiban a jogviszonya tartama alatt bekövetkezett változások nyomon követésével és dokumentálásával – az alábbi adatokat tartalmazza:
 
-(8) A biztosító, a többes ügynök és az alkusz a (3) és (4) bekezdésben meghatározott adatokat a biztosításközvetítő természetes személlyel fennálló jogviszonya megszűnését követően, vagy ha a közvetítői tevékenységgel gazdálkodó szervezetet bízott meg, akkor ezzel a gazdálkodó szervezettel fennálló jogviszonya megszűnését követő öt évig kezelheti.
+- a) értelemszerűen a (4) bekezdés a) pontjában foglalt adatok, ide nem értve az értékesítési tevékenységért felelős vezető nevét;
+- b) az általa közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása (amennyiben a kiegészítő biztosításközvetítő tevékenységet végző gazdálkodó szervezet nem alkusz vagy többes ügynök számára végez tevékenységet); valamint
+- c) értékesítési helyszínenként legalább egy személy neve, aki biztosítási értékesítéssel foglalkozik.
+
+(7) A (4) és (5) bekezdésben meghatározott azonosító adatok
+
+- a) természetes személy esetén: neve és születési neve, születési helye, születési ideje, anyja neve, lakcíme;
+- b) gazdálkodó szervezet esetén: neve, rövidített neve, székhelye, adószáma, képviseletére jogosultak neve és beosztása.
+
+(8) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő az adott belső nyilvántartást vezető biztosító, többes ügynök vagy alkusz, amely az adatokat az adott személlyel vagy szervezettel fennálló jogviszonya megszűnését követő öt évig kezelheti.
+
+(9) A (3)–(6) bekezdésben meghatározott adatokban bekövetkezett változásokat – ide nem értve a (3) bekezdés b) pontjában, d) pont dc) alpontjában és f) pontjában, a (4) bekezdés b) pontjában meghatározott adatokat, valamint a kiegészítő biztosításközvetítői tevékenységet végző gazdálkodó szervezet nyilvántartási számát és annak keltét – az adott belső nyilvántartást vezető biztosító, a többes ügynök vagy alkusz köteles – a Magyar Nemzeti Bank elnöke által kiadott rendeletben meghatározott módon – a Felügyeletnek harminc napon belül bejelenteni.
+
+(10) A biztosító, a többes ügynök és az alkusz köteles a (3) bekezdés d) pont dc) alpontjában és f) pont fa) alpontjában, a (4) bekezdés e) pontjában és az (5) bekezdés e) pontjában meghatározott adatokban bekövetkezett változást a Felügyeletnek két munkanapon belül bejelenteni.
 
 ### XXXI. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐKKEL KAPCSOLATOS ENGEDÉLYEZÉSI SZABÁLYOK
 
@@ -4836,23 +5201,60 @@ tevékenység engedélyezését kérelmezi, akkor a 420. § (1) és (2) bekezdé
 
 (6) A tevékenység megkezdéséhez előírt feltételek fennállásának igazolása esetén a Felügyelet határozatban állapítja meg a felfüggesztés megszűnését, és e határozat kiadásával egyidejűleg a többes ügynököt, illetve az alkuszt valamint tevékenység irányítót a felügyeleti nyilvántartásban aktív státuszba helyezi.
 
-### XXXII. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐK FELÜGYELETÉVEL KAPCSOLATOS ELLENŐRZÉSI, BEJELENTÉSI ÉS TÁJÉKOZTATÁSI SZABÁLYOK
+### XXXII. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐK ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEK FELÜGYELETÉVEL KAPCSOLATOS ELLENŐRZÉSI, BEJELENTÉSI ÉS TÁJÉKOZTATÁSI SZABÁLYOK
 
-#### 183. A biztosításközvetítő által másik tagállamban fióktelep létesítésének, valamint határon átnyúló szolgáltatás keretében végzett tevékenység megkezdésének szabályai
+#### 183. A biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy által másik tagállamban fióktelep létesítésének, valamint határon átnyúló szolgáltatás keretében végzett tevékenység megkezdésének szabályai
 
-422. § (1) Ha a biztosításközvetítő fióktelepen keresztül vagy határon átnyúló szolgáltatásként, első alkalommal másik tagállamban biztosításközvetítői tevékenység végzését tervezi, köteles azt a Felügyeletnek előzetesen bejelenteni.
+422. § (1) Ha a biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy fióktelepen keresztül, illetve állandó jelenlét formájában, vagy első alkalommal határon átnyúló szolgáltatásként másik tagállamban biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység végzését, fióktelep vagy állandó jelenlét létrehozását tervezi, köteles azt a Felügyeletnek előzetesen bejelenteni.
 
-(2) A Felügyelet az (1) bekezdésben foglalt bejelentés kézhezvételétől számított egy hónapon belül tájékoztatja a másik tagállam felügyeleti hatóságát a biztosításközvetítő tervezett tevékenységéről.
+(2) A biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy más tagállamban fenntartott, fiókteleppel egyenértékű állandó jelenlétére – kivéve, ha az állandó jelenlét a másik tagállam jogának megfelelő más jogi formában valósul meg – a fióktelepre vonatkozó szabályokat kell alkalmazni. Ilyen állandó jelenlétnek minősül különösen a biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy saját alkalmazottai vagy egy olyan személy által működtetett iroda, amely független, de állandó felhatalmazással rendelkezik arra, hogy a biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy érdekében úgy léphessen fel, ahogy azt egy fióktelep tenné.
 
-(3) A (2) bekezdésben meghatározott tájékoztatás megtételéről a Felügyelet egyidejűleg értesíti a bejelentő biztosításközvetítőt.
+(3) Határon átnyúló szolgáltatás esetén az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
 
-(4) A Felügyelet a másik tagállam felügyeleti hatósága által rendelkezésre bocsátott, az érintett tagállamban a biztosításközvetítésre vonatkozó szabályokról köteles a bejelentőt tájékoztatni.
+- a) a biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy neve, székhelye vagy lakcíme és adott esetben a nyilvántartási száma;
+- b) azon tagállam vagy tagállamok neve, ahol a biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy tevékenykedni szándékozik;
+- c) a biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy kategóriája és, adott esetben, a képviselt biztosító vagy viszontbiztosító neve;
+- d) adott esetben a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása.
 
-(5) A biztosításközvetítő tevékenységét a másik tagállamban a Felügyelet a (3) bekezdésben foglalt tájékoztatásának kézhezvételét követően, vagy ennek hiányában a tájékoztatásra rendelkezésre álló egy hónapos időtartam lejártát követően kezdheti meg.
+(4) Fióktelep létesítése esetén az (1) bekezdés szerinti bejelentésnek tartalmaznia kell
 
-#### 184. Másik tagállamban székhellyel rendelkező biztosításközvetítő magyarországi tevékenységének megkezdésére vonatkozó szabályok
+- a) a biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy neve, székhelye vagy lakcíme és adott esetben a nyilvántartási száma;
+- b) azon tagállam neve, ahol a biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy fióktelepet kíván létesíteni;
+- c) a biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy kategóriája és, adott esetben, a képviselt biztosító vagy viszontbiztosító neve;
+- d) adott esetben a közvetített termékek 1. és 2. melléklet szerinti ágazati besorolása;
+- e) a fióktelep vagy állandó jelenlét címe, ahonnan a fogadó tagállamban az iratok beszerezhetők;
+- f) az általános képviselő vagy vezetésért felelős személy neve.
 
-423. § Ha a Felügyeletet másik tagállam felügyeleti hatósága arról tájékoztatja, hogy a tagállam területén biztosításközvetítői tevékenységre jogosult első alkalommal kíván Magyarország területén biztosításközvetítői fióktelepet létesíteni, vagy határon átnyúló szolgáltatás keretében tevékenységet végezni, a Felügyelet a felügyeleti tájékoztatás kézhezvételétől számított egy hónapon belül tájékoztatja a biztosításközvetítőt a tevékenységvégzésre vonatkozó magyar szabályozásról.
+(5) A Felügyelet az (1) bekezdésben foglalt bejelentés kézhezvételétől számított egy hónapon belül megküldi a (3) és (4) bekezdésben foglalt adatokat a másik tagállam felügyeleti hatóságának.
+
+(6) A Felügyelet haladéktalanul tájékoztatja az EBFH-t azon biztosításközvetítők, valamint kiegészítő biztosításközvetítői tevékenységet végző személyek (3) és (4) bekezdésben meghatározott adatairól – ideértve az adatok internetes elérhetőségére vonatkozó információt, valamint ezen adatok változásáról szóló tájékoztatást is –, amelyek bejelentették a Felügyeletnek, hogy másik tagállamban terveznek határon átnyúló szolgáltatás keretében tevékenységet végezni, illetve fióktelepet létesíteni.
+
+(7) Ha a Felügyelet úgy ítéli meg, hogy a biztosításközvetítő vagy a kiegészítő biztosításközvetítő tevékenységet végző személy szervezeti felépítése vagy pénzügyi helyzete nem megfelelő, így különösen megalapozottan feltehető, hogy nem képes eleget tenni a jogszabályi követelményeknek, illetve a rendelkezésére álló személyi és tárgyi feltételek nem elegendőek, akkor a (4) bekezdés szerinti bejelentés beérkezését követő egy hónapon belül határozatot hoz arról, hogy megtagadja az adatok továbbítását a fogadó tagállam illetékes hatósága részére, és tájékoztatja a bejelentőt, hogy fióktelepi formában nem kezdheti meg a tevékenységet.
+
+(8) Határon átnyúló szolgáltatás esetén a Felügyelet írásban tájékoztatja a biztosításközvetítőt vagy kiegészítő biztosításközvetítői tevékenységet végző személyt
+
+- a) a Felügyelet által továbbított bejelentés másik tagállam illetékes hatósága által történt kézhezvételnek visszaigazolásáról,
+- b) arról, hogy a másik tagállamban megkezdheti a tevékenységet,
+- c) adott esetben arról, hogy a másik tagállamban a biztosítási értékesítési tevékenységre alkalmazandó hatályos jogszabályok a másik tagállam illetékes hatóságánál, illetve az EBFH honlapján milyen módon érhetők el, valamint arról, hogy a bejelentő köteles megfelelni ezen szabályoknak.
+
+(9) Fióktelep létesítése esetén a Felügyelet írásban tájékoztatja a bejelentő biztosításközvetítőt vagy kiegészítő biztosításközvetítői tevékenységet végző személyt a Felügyelet által továbbított bejelentés másik tagállam illetékes hatósága által történt kézhezvételnek visszaigazolásáról. Ha a másik tagállam illetékes hatósága a Felügyelet által továbbított bejelentés kézhezvételét követő egy hónapon belül tájékoztatja a Felügyeletet a biztosítási értékesítési tevékenységre a területén alkalmazandó hatályos jogszabályokról, a Felügyelet írásban tájékoztatja a biztosításközvetítőt vagy kiegészítő biztosításközvetítői tevékenységet végző személyt
+
+- a) a másik tagállam illetékes hatósága által közölt, a biztosítási értékesítési tevékenységre alkalmazandó hatályos jogszabályokról, és
+- b) arról, hogy megkezdheti tevékenységét a másik tagállamban azzal, hogy az a) pontban megjelölt rendelkezéseket betartja.
+
+Ha a másik tagállam illetékes hatóságától a Felügyelet által továbbított bejelentés kézhezvételét követő egy hónap elteltével sem érkezik értesítés, a Felügyelet írásban tájékoztatja a bejelentő biztosításközvetítőt vagy kiegészítő biztosításközvetítői tevékenységet végző személyt arról, hogy a fióktelepet létrehozhatja és megkezdheti tevékenységét.
+
+(10) A biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy a (3) és (4) bekezdésben meghatározott adatokban történő változás előtt legkésőbb egy hónappal tájékoztatja a Felügyeletet az adatokban történő változásról.
+
+(11) A Felügyelet a (10) bekezdésben meghatározott bejelentés kézhezvételétől számított egy hónapon belül tájékoztatja a másik tagállam felügyeleti hatóságát az adatokban történő változásról.
+
+#### 184. Másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelep létesítésére, valamint határon átnyúló szolgáltatás keretében végzett tevékenységének megkezdésére vonatkozó szabályok
+
+423. § (1) Ha a Felügyeletet másik tagállam felügyeleti hatósága arról tájékoztatja, hogy a tagállam területén biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység végzésére jogosult személy Magyarországon biztosításközvetítői vagy kiegészítő biztosításközvetítői fióktelepet kíván létesíteni vagy állandó jelenlétet létrehozni, vagy első alkalommal kíván határon átnyúló szolgáltatás keretében biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenységet végezni, a Felügyelet a tájékoztatás kézhezvételét követően haladéktalanul visszaigazolja annak kézhezvételét.
+
+(2) Ha a másik tagállam területén biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység végzésére jogosult személy Magyarországon biztosításközvetítői vagy kiegészítő biztosításközvetítői fióktelepet kíván létesíteni, állandó jelenlétet létrehozni, a Felügyelet az (1) bekezdés szerinti tájékoztatás kézhezvételétől számított egy hónapon belül tájékoztatja a másik tagállam felügyeleti hatóságát az MNBtv. 43. § (2) bekezdés t) pontjában meghatározott jogszabályokról.
+
+(3) A másik tagállamban biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenység végzésére jogosult személy fiókteleppel egyenértékű magyarországi állandó jelenlétére – kivéve, ha az állandó jelenlét a hazai jognak megfelelő más jogi formában valósul meg – a fióktelepre vonatkozó szabályokat kell alkalmazni. Ilyen állandó jelenlétnek minősül különösen a biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy saját alkalmazottai vagy egy olyan személy által működtetett iroda, amely független, de állandó felhatalmazással rendelkezik arra, hogy a biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy érdekében úgy léphessen fel, ahogy azt egy fióktelep tenné.
 
 #### 185. A biztosításközvetítők egyéb bejelentési kötelezettsége
 
@@ -4873,25 +5275,53 @@ tevékenység engedélyezését kérelmezi, akkor a 420. § (1) és (2) bekezdé
 
 (5) Az alkusz köteles a Felügyeletnek a biztosításközvetítésre irányuló megbízási szerződései állományának átruházását az átadás-átvétel napját legalább hatvan nappal megelőzően bejelenteni.
 
-#### 186. A másik tagállamban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepének, vagy Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységének felügyeletével kapcsolatos szabályok
+#### 186. A másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelepének, illetve Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységének felügyeletével kapcsolatos szabályok
 
-425. § A Felügyelet nem rendszeres tájékoztatást kérhet a másik tagállamban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepétől vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységével összefüggésben a másik tagállamban székhellyel rendelkező biztosításközvetítőtől a biztosításközvetítői tevékenységével kapcsolatban annak igazolására, hogy a tevékenysége megfelel a biztosításközvetítői tevékenységre vonatkozó magyarországi jogszabályoknak.
+425. § A Felügyelet nem rendszeres tájékoztatást kérhet a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelepétől vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységével összefüggésben a másik tagállamban székhellyel rendelkező biztosításközvetítőtől vagy kiegészítő biztosításközvetítői tevékenységet végző személytől a biztosításközvetítői, illetve kiegészítő biztosításközvetítői tevékenységével kapcsolatban annak igazolására, hogy a tevékenysége megfelel az MNBtv. 43. § (2) bekezdés t) pontjában meghatározott jogszabályoknak.
 
-426. § (1) Ha a Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező biztosításközvetítő megsérti a Magyarország területén hatályos, a tevékenységére vonatkozó előírásokat, vagy működésében a Felügyelet hiányosságokat észlel, a Felügyelet kötelezi a biztosításközvetítőt a jogszabályellenes helyzet megszüntetésére.
+426. § (1) Ha a Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében tevékenységet végző, másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy megsérti a Magyarország területén hatályos, a tevékenységére vonatkozó előírásokat, vagy működésében a Felügyelet hiányosságokat észlel – ide nem értve a (6) bekezdésben meghatározott esetet –, a Felügyelet értesíti a székhely szerinti tagállam felügyeleti hatóságát és kezdeményezheti a szükséges intézkedések megtételét.
 
-(2) Ha a biztosításközvetítő a Felügyelet határozatában foglalt kötelezésnek határidőben nem tesz eleget, a Felügyelet értesíti a székhely szerinti tagállam felügyeleti hatóságát és kezdeményezi a szükséges intézkedések megtételét.
+(2) Ha a székhely szerinti tagállam felügyeleti hatósága által tett intézkedések ellenére, illetve ezen intézkedések elmaradása vagy elégtelen volta miatt a jogszabálysértés továbbra is fennáll, továbbá a jogszabálysértés nagyszámú fogyasztó érdekét, vagy a biztosítási vagy viszontbiztosítási piac működését hátrányosan érinti, a Felügyelet – a székhely szerinti tagállam felügyeleti hatóságának értesítését követően – a 431. § (1) bekezdés a)–c), k) és m) pontjában foglalt intézkedéseket alkalmazhatja, vagy az EBFH-hoz utalhatja az ügyet, és az 1094/2010/EU rendelet 19. cikkével összhangban a segítségét kérheti.
 
-(3) Ha a székhely szerinti tagállam felügyeleti hatósága által tett intézkedések ellenére a jogszabálysértés továbbra is fennáll, a Felügyelet – a székhely szerinti tagállam előzetes értesítését követően – a 431. § (1) bekezdés a)–c) és f) pontjában foglalt intézkedéseket alkalmazhatja.
+(3) Ha a fogyasztók jogainak védelme érdekében haladéktalan intézkedés szükséges, a Felügyelet a jogsértés megszüntetése céljából – az (1) és (2) bekezdés mellőzésével – alkalmazhatja a 431. § (1) bekezdés a)–c), k) és m) pontjában foglalt intézkedéseket azzal, hogy fióktelep esetében ennek feltétele, hogy a székhely szerinti tagállam egyenértékű intézkedései nem megfelelőek vagy hiányoznak.
 
-(4) A Felügyelet a biztosításközvetítő ügyfelei érdekeinek a megóvása érdekében a magyar jogszabályok megsértése esetén – az (1)–(3) bekezdések mellőzésével – közvetlenül is intézkedhet, ha a jogszabálysértő helyzet fennállása súlyosan veszélyezteti a biztosításközvetítő ügyfeleinek érdekeit.
+(4) Ha a Felügyelet a (2) és (3) bekezdés alapján intézkedik, a határozatról haladéktalanul értesíti a másik tagállam felügyeleti hatóságát, az EBFH-t, valamint a Bizottságot.
 
-(5) Ha a másik tagállamban székhellyel rendelkező biztosításközvetítő székhely szerinti felügyeleti hatósága a biztosításközvetítőt törölte a nyilvántartásából és erről a Felügyeletet értesítette, a Felügyelet köteles megtenni a szükséges intézkedéseket, hogy megakadályozza az érintett biztosításközvetítőt a további tevékenység folytatásában.
+(5) Ha a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy székhely szerinti felügyeleti hatósága a biztosításközvetítőt vagy kiegészítő biztosításközvetítői tevékenységet végző személyt törölte a nyilvántartásából és erről a Felügyeletet értesítette, a Felügyelet köteles megtenni a szükséges intézkedéseket, hogy megakadályozza az érintett biztosításközvetítőt vagy kiegészítő biztosításközvetítői tevékenységet végző személyt a további tevékenység folytatásában.
 
-427. § (1) Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében biztosításközvetítői tevékenységet végző, másik tagállamban székhellyel rendelkező biztosításközvetítő felügyeleti hatósága vagy az erre általa felhatalmazott személy jogosult, hogy – a Felügyelet előzetes értesítését követően – Magyarország területén a határon átnyúló szolgáltatást, a fióktelepet ellenőrizze.
+(6) A 130/A. §-ban, a 131/A. §-ban, a 152. §-ban, a 153. §-ban, a 158/A–158/C. §-ban, a 166/A–166/F. §-ban, valamint a 378. §-ban foglalt jogszabályi követelmények betartása érdekében a Felügyelet jogosult a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelepét ellenőrizni, valamint ezen rendelkezések megsértése esetén a 431. § (1) bekezdés a–c), k) és m) pontjában foglalt intézkedéseket alkalmazhatja.
+
+427. § (1) Magyarországon fióktelep útján, illetve határon átnyúló szolgáltatás keretében biztosításközvetítői vagy kiegészítő biztosításközvetítői tevékenységet végző, másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy felügyeleti hatósága vagy az erre általa felhatalmazott személy jogosult, hogy – a Felügyelet előzetes értesítését követően – Magyarországon a határon átnyúló szolgáltatást, illetve a fióktelepet ellenőrizze.
 
 (2) Az (1) bekezdés szerinti ellenőrzésben a Felügyelet is részt vehet.
 
-(3) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező biztosításközvetítő Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint adatszolgáltatást kérni.
+(3) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy Magyarországon fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint adatszolgáltatást kérni.
+
+(4) Ha a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy központi irodája Magyarországon van, a Felügyelet megállapodhat a székhely szerinti illetékes hatósággal abban, hogy a Felügyelet lép fel illetékes hatóságként a biztosítási értékesítésre vonatkozó szervezeti követelmények, tájékoztatási követelmények és üzletviteli szabályok – ide értve a biztosítási alapú befektetési termékekkel kapcsolatos további követelményeket is –, valamint a biztosításértékesítés kapcsán alkalmazandó szankciók és egyéb intézkedésekre vonatkozó rendelkezések tekintetében.
+
+427/A. § (1) Ha a Felügyelet azt észleli, hogy a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelepe vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenységével összefüggésben megszegi az MNBtv. 43. § (2) bekezdés t) pontjában meghatározott jogszabályokat, a 431. § (1) bekezdés a)–c), k) és m) pontjában foglalt intézkedéseket alkalmazhatja.
+
+(2) Ha a másik tagállamban székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy magyarországi fióktelepe vagy a Magyarországon határon átnyúló szolgáltatás keretében végzett tevékenysége
+
+- a) teljes egészében vagy elsődlegesen Magyarország területére irányul,
+- b) a másik tagállamban a székhely létesítésének kizárólagos célja, hogy mentesüljön a magyarországi jogszabályok betartása alól, és
+- c) tevékenysége súlyosan veszélyezteti a fogyasztók érdekeit,
+
+a Felügyelet – a másik tagállam illetékes hatóságának tájékoztatását követően – a 431. § (1) bekezdés a)–c), k) és m) pontjában foglalt intézkedéseket alkalmazhatja, vagy az EBFH-hoz utalhatja az ügyet, és az 1094/2010/EU rendelet 19. cikkével összhangban a segítségét kérheti.
+
+#### 186/A. A biztosításközvetítő vagy a kiegészítő biztosításközvetítői tevékenységet végző személy által másik tagállamban fióktelepen keresztül, valamint határon átnyúló szolgáltatás keretében végzett tevékenység felügyeletével kapcsolatos szabályok
+
+427/B. § (1) Ha biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy másik tagállamban létesített fióktelepen keresztül vagy határon átnyúló szolgáltatás keretében végzett tevékenysége kapcsán a másik tagállam felügyeleti hatósága a tevékenység végzésére vonatkozó jogszabályok megsértéséről tájékoztatja a Felügyeletet, a Felügyelet a 431. § (1) bekezdés a)–c), k) és m) pontjában foglalt intézkedéseket alkalmazhatja a biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személlyel szemben a jogszabálysértés megszüntetése érdekében.
+
+(2) A Felügyelet az (1) bekezdés szerint hozott intézkedésekről – azok megtételével egyidejűleg – tájékoztatja a másik tagállam felügyeleti hatóságát.
+
+(3) Ha a másik tagállam felügyeleti hatósága közvetlenül intézkedik vagy az (1) bekezdés alapján hozott intézkedések ellenére további intézkedéseket hoz, a Felügyelet az EBFH-hoz utalhatja az ügyet, és az 1094/2010/EU rendelet 19. cikkével összhangban a segítségét kérheti.
+
+427/C. § (1) Ha a Magyarországon székhellyel rendelkező biztosításközvetítő vagy kiegészítő biztosításközvetítői tevékenységet végző személy központi irodája másik tagállamban van, a Felügyelet a másik tagállam illetékes hatóságával megállapodhat abban, hogy a másik tagállam illetékes hatósága lép fel illetékes hatóságként a biztosítási értékesítésre vonatkozó szervezeti követelmények, tájékoztatási követelmények és üzletviteli szabályok – ide értve a biztosítási alapú befektetési termékekkel kapcsolatos további követelményeket is –, valamint a biztosításértékesítés kapcsán alkalmazandó szankciók és egyéb intézkedésekre vonatkozó rendelkezések tekintetében.
+
+(2) A Felügyelet az (1) bekezdésben meghatározott megállapodásról haladéktalanul tájékoztatja a biztosításközvetítőt vagy kiegészítő biztosításközvetítői tevékenységet végző személyt, valamint az EBFH-t.
+
+(3) A másik tagállamban a biztosítási értékesítésre vonatkozó tájékoztatási követelmények és üzletviteli szabályok – ide értve a biztosítási alapú befektetési termékekkel kapcsolatos további követelményeket is – betartása érdekében a másik tagállam illetékes hatósága jogosult a Magyarországon székhellyel rendelkező biztosításközvetítőnek vagy kiegészítő biztosításközvetítői tevékenységet végző személynek a másik tagállamban lévő fióktelepét ellenőrizni, valamint ezen rendelkezések megsértése esetén a megfelelő intézkedéseket alkalmazni.
 
 #### 187. Harmadik országban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepének felügyeletével kapcsolatos szabályok
 
@@ -4944,7 +5374,7 @@ tevékenység engedélyezését kérelmezi, akkor a 420. § (1) és (2) bekezdé
 
 (12) A hatósági képzés és vizsgáztatás során a Felügyelet jogosult ellenőrizni a hatósági képzést, illetve vizsgáztatást végző, a hatósági képzésben és vizsgáztatásban részt vevő szervezeteket és személyeket.
 
-### XXXIII. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐKKEL KAPCSOLATOS INTÉZKEDÉSEK
+### XXXIII. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐKKEL ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEKKEL KAPCSOLATOS INTÉZKEDÉSEK
 
 431. § (1) A Felügyelet a biztosításközvetítő kötelezettségének teljesítése, az ügyfelek érdekeinek megóvása, valamint annak érdekében, hogy a biztosításközvetítői tevékenység e törvénynek, valamint az ezen tevékenységekre vonatkozó más jogszabályoknak és a Felügyelet határozatainak megfeleljen, a következő intézkedéseket hozhatja:
 
@@ -4957,9 +5387,18 @@ tevékenység engedélyezését kérelmezi, akkor a 420. § (1) és (2) bekezdé
 - g) kezdeményezheti a biztosításközvetítői tevékenység irányítójának, vagy a harmadik országban székhellyel rendelkező biztosításközvetítő által létesített fióktelep általános képviselőjének a felmentését,
 - h) a kiadott alkuszi vagy többes ügynöki tevékenységi engedélyt felfüggesztheti,
 - i) a kiadott alkuszi vagy többes ügynöki tevékenységi engedélyt visszavonhatja,
-- j) megtilthatja az alkusz biztosításközvetítésre irányuló megbízási szerződései állományának átruházását.
+- j) megtilthatja az alkusz biztosításközvetítésre irányuló megbízási szerződései állományának átruházását,
+- k) elrendelheti a jogsértő állapot megszüntetését vagy megtilthatja a jogszabályba ütköző magatartás további folytatását,
+- l) a biztosítási alapú befektetési termékek értékesítésére vonatkozó üzletviteli jogszabályi követelmények megsértése esetén a biztosításközvetítő vállalkozás ügyvezető tisztségviselőjét határozott időre eltilthatja e feladatköre ellátásától,
+- m) felfüggesztheti vagy megtilthatja egyes biztosítási termékek vagy az összes biztosítási termék közvetítő általi értékesítését,
+- n) kötelezheti az alkuszt vagy a többes ügynököt, hogy az általa megbízott kiegészítő biztosításközvetítői tevékenységet végző személyt [ide értve a 368. § (1) bekezdés szerinti személyt is] törölje a belső nyilvántartásából,
+- o) megtagadhatja a 407. § szerinti nyilvántartásba vételt, amennyiben a 412. § szerinti nyilvántartásokban feltüntetett szoros kapcsolat olyan harmadik ország természetes személyével vagy gazdálkodó szervezetével áll fenn, amelynek jogszabályai megakadályozzák a Felügyeletet felügyeleti jogköreinek tényleges gyakorlásában.
+
+(1a) A Felügyelet a kiegészítő biztosításközvetítői tevékenységet végző személy kötelezettségének teljesítése, az ügyfelek érdekeinek megóvása, valamint annak érdekében, hogy a kiegészítő biztosításközvetítői tevékenység e törvénynek, valamint az ezen tevékenységekre vonatkozó más jogszabályoknak és a Felügyelet határozatainak megfeleljen, a kiegészítő biztosításközvetítői tevékenységet végző személy vonatkozásában az (1) bekezdés a), b), c), d), k, m), n) és o) pontja szerinti intézkedéseket hozhatja.
 
 (2) A Felügyelet az e törvényben, a biztosításközvetítői tevékenységre vonatkozó más jogszabályban, továbbá a felügyeleti határozatokban meghatározott feltételeknek való megfelelés teljesítése érdekében, határozott időtartamra szóló intézkedési terv kidolgozására, valamint – jóváhagyás esetén – az abban foglaltak végrehajtására kötelezheti a biztosításközvetítőt.
+
+(3) A 293/A. §-ban foglaltak – a biztosítási értékesítésére vonatkozó jogszabályi követelmények megsértése miatt hozott – e §-ban meghatározott intézkedések alkalmazása esetén is irányadóak.
 
 #### 189. A felügyeleti bírság
 
@@ -4977,7 +5416,8 @@ tevékenység engedélyezését kérelmezi, akkor a 420. § (1) és (2) bekezdé
 - b) ellenőrzése során bebizonyosodik, hogy működése súlyosan vagy ismétlődően sértette a biztosítottak érdekeit,
 - c) megállapítja, hogy a biztosításközvetítő tevékenységi engedély nélkül vagy bejelentés hiányában végez pénzügyi szervezet által végezhető tevékenységet és
   - ca) e tevékenységével előidézett jogsértés súlya indokolja, vagy
-  - cb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tevékenységet végezte.
+  - cb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tevékenységet végezte,
+- d) megállapítja, hogy a természetes személy biztosításközvetítő tevékenysége súlyosan vagy ismételten jogszabálysértő.
 
 (2) A harmadik országbeli biztosításközvetítő fióktelep biztosításközvetítő nyilvántartásban szereplő státusza inaktív szerepeltetéséről a Felügyelet – az (1) bekezdésben foglaltakon túlmenően – akkor is dönt, ha a biztosításközvetítő székhelye szerinti ország jogszabályai alapján már nem jogosult biztosításközvetítői tevékenység végzésére.
 
@@ -5043,7 +5483,7 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 - d) a többes ügynök és az alkusz jelentésének szabályaira,
 - e) a biztosításközvetítő – biztosító, többes ügynök vagy alkusz általi – nyilvántartásba történő, a 411. § (1) bekezdésében és a 412. § (6)–(7) bekezdésében meghatározott bejelentésére,
 - f) a gépjármű-felelősségbiztosítási termék adatszolgáltatásának szabályaira,
-- g) az életbiztosítási igényfelmérő tartalmi elemeire,
+- g)
 - h) a teljes költségmutató számítására és közzétételére,
 - i) a technikai kamatláb maximális mértékére,
 - j) a 269. § (2) bekezdés a) pontjában meghatározott felügyeleti jelentéstételi kötelezettség rendjére és tartalmára
@@ -5308,6 +5748,28 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 
 (2) A 147/A. § (2) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet ellenőrző befolyása alatt működő biztosító az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződéssel rendelkező ügyfelét legkésőbb harminc nappal a Hpt. 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általa működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesz közzé. A Hpt. 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.
 
+452/I. § (1) A 2018. február 22-én felügyeleti nyilvántartásban szereplő biztosításközvetítőknek és viszontbiztosítás-közvetítőknek az e törvénynek – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – 376. § (2) bekezdésében foglalt, 2018-as évre vonatkozó kötelezettségüknek legkésőbb 2019. február 23-áig kell megfelelniük.
+
+(2) A 134/A. § – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – rendelkezéseinek a biztosítók és viszontbiztosítók azon közreműködőinek, valamint azon értékesítési tevékenységért felelős vezetőjének, aki 2018. február 22-én a biztosítóval vagy a viszontbiztosítóval jogviszonyban áll, első alkalommal 2018. december 31-ig kell megfelelnie, ide nem értve a 134/A. § (6) bekezdése szerinti esetet.
+
+(3) A 376. § – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – rendelkezéseinek a biztosításközvetítői tevékenységet végző személy azon értékesítési tevékenységért felelős vezetőinek, akik 2018. február 22-én a biztosításközvetítői tevékenységet végző személlyel jogviszonyban állnak, első alkalommal 2018. december 31-ig kell megfelelniük, ide nem értve a 376. § (5) bekezdése szerinti esetet.
+
+(4) A 376. § – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – rendelkezéseinek a kiegészítő biztosításközvetítői tevékenységet végző személy azon értékesítési tevékenységért felelős vezetőinek, akik 2018. február 22-én a kiegészítő biztosításközvetítői tevékenységet végző személlyel jogviszonyban állnak, első alkalommal 2018. december 31-ig kell megfelelniük, ide nem értve a 376. § (5) bekezdése szerinti esetet.
+
+452/J. § (1) A 131/A. § (2) bekezdésének – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – a biztosítási termékek előzetes belső jóváhagyására vonatkozó rendelkezései a 2018. február 23-át követően először értékesített biztosítási termékekre alkalmazandóak.
+
+(2) A 131/A. § (3) bekezdésének – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – a biztosítási termékek felülvizsgálatára vonatkozó rendelkezései a 2018. február 23-án már értékesített biztosítási termékekre vonatkoznak, azzal, hogy e termékek vonatkozásában 2019. február 23-ig kell a célpiacot, annak igényeit és lehetséges kockázatait azonosítani, valamint az értékesítési stratégiát meghatározni, majd ezt követően kell a rendszeres, de legalább évenkénti felülvizsgálatot elvégezni.
+
+(3) A 131/A. § (4) és (5) bekezdésének – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – az információk rendelkezésre bocsátására és beszerzésére vonatkozó kötelezettséget előíró rendelkezései az (1) és (2) bekezdésben foglaltak figyelembevételével alkalmazandóak.
+
+452/K. § (1) A 370. § (1) bekezdés d) pontja – 2018. február 22-én hatályos – rendelkezései hatálya alá tartozó természetes személyeknek a 370. § (2) bekezdése – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – rendelkezéseinek legkésőbb 2019. február 23-áig kell megfelelniük.
+
+(2) Nem minősül biztosításközvetítői, kiegészítő biztosításközvetítői tevékenységnek az e törvény 2018. február 22-én hatályos 4. § (1) bekezdés 34. pont b) alpontja szerinti személynek az általa 2018. február 22. napjáig közvetített biztosítási szerződések lebonyolításában és teljesítésében – biztosítóval közvetlenül vagy közvetve fennálló jogviszony alapján, annak fennállásáig – történő közreműködése, így különösen az érintett szerződésekkel kapcsolatos tájékoztatási, változás bejelentési és egyéb adminisztrációs feladatok elvégzése, a biztosítónak járó pénzösszegek továbbításában és a kárigények kezelésében történő közreműködés.
+
+(3) A (2) bekezdés szerinti személy a (2) bekezdés szerinti tevékenységet az e törvény 2018. február 22-én hatályos – 4. § (1) bekezdés 34. pont b) alpontja szerinti személy és annak tevékenysége vonatkozásában alkalmazandó – rendelkezéseinek megfelelően végezheti.
+
+452/L. § A 375/B. §, a 377. § és a 377/A. § – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – rendelkezéseit a 2018. december 31-én fennálló, valamint azt követően kötött jutalékfizetésre vonatkozó, valamint az alkusz és a biztosító közti megállapodásokra kell alkalmazni.
+
 #### 196. Az Európai Unió jogának való megfelelés
 
 453. § Ez a törvény
@@ -5321,7 +5783,8 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 - 7. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II) szóló 2009. november 25-i 2009/138/EK európai parlamenti és tanácsi irányelvnek,
 - 8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek,
 - 9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
-- 10. az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek
+- 10. az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek,
+- 11. a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -5601,6 +6064,72 @@ D) egyéb követelések
 p) különleges célú gazdasági eszközökből származó követelések.
 
 ### 7. melléklet a 2014. évi LXXXVIII. törvényhez
+
+Az általános szakmai továbbképzés ismeretanyagának minimumkövetelményei
+
+I. Az 1. melléklet A) része szerinti nem-életbiztosítási ágazatok szerinti biztosítási kockázatok:
+
+a) a kínált biztosítások, ezen belül – amennyiben ezek a biztosítások ezeket lefedik – a kiegészítő kockázatok feltételeinek minimálisan szükséges ismerete;
+
+b) a biztosítási termékek értékesítését szabályozó alkalmazandó jogszabályok, így például a fogyasztóvédelmi jog, a vonatkozó adóügyi jogszabályok és a vonatkozó szociális és munkaügyi jogszabályok minimálisan szükséges ismerete;
+
+c) a kárigények kezelésével kapcsolatos minimálisan szükséges ismeretek;
+
+d) a panaszok kezelésével kapcsolatos minimálisan szükséges ismeretek;
+
+e) az ügyfelek igényeinek felmérésével kapcsolatos minimálisan szükséges ismeretek;
+
+f) a biztosítási piac minimálisan szükséges ismerete;
+
+g) az üzleti etikai normák minimálisan szükséges ismerete; és
+
+h) minimálisan szükséges pénzügyi szakértelem.
+
+II. Biztosítási alapú befektetési termékek:
+
+a) a biztosítási alapú befektetési termékek minimálisan szükséges ismerete, beleértve azok feltételeit és nettó biztosítási díjait, valamint adott esetben a garantált és nem garantált szolgáltatásokat;
+
+b) a szerződők rendelkezésére álló különböző befektetési lehetőségek előnyeinek és hátrányainak minimálisan szükséges ismerete;
+
+c) a szerződők által viselt pénzügyi kockázatok minimálisan szükséges ismerete;
+
+d) az életbiztosítási kockázatokra fedezetet nyújtó biztosítások és egyéb megtakarítási termékek minimálisan szükséges ismerete;
+
+e) a nyugdíjrendszer felépítésével és az általa garantált szolgáltatásokkal kapcsolatos minimálisan szükséges ismeretek;
+
+f) a biztosítási termékek értékesítését szabályozó alkalmazandó jogszabályok, például a fogyasztóvédelmi jog és a vonatkozó adóügyi jogszabályok minimálisan szükséges ismerete;
+
+g) a biztosítási piaccal és a megtakarítási termékek piacával kapcsolatos minimálisan szükséges ismeretek;
+
+h) a panaszok kezelésével kapcsolatos minimálisan szükséges ismeretek;
+
+i) az ügyfelek igényeinek felmérésével kapcsolatos minimálisan szükséges ismeretek;
+
+j) az összeférhetetlenségek kezelése;
+
+k) az üzleti etikai normák minimálisan szükséges ismerete; és
+
+l) minimálisan szükséges pénzügyi szakértelem.
+
+III. A 2. melléklet szerinti életbiztosítási ágazatok szerinti biztosítási kockázatok:
+
+a) a biztosítások, ezen belül feltételeik, a garantált szolgáltatások és adott esetben a kiegészítő kockázatok minimálisan szükséges ismerete;
+
+b) Magyarország nyugdíjrendszerének felépítésével és az általa garantált szolgáltatásokkal kapcsolatos minimálisan szükséges ismeretek;
+
+c) a biztosítási szerződésekre alkalmazandó jogszabályok, a fogyasztóvédelmi jog, az adatvédelmi jogszabályok, a pénzmosás elleni jogszabályok, továbbá adott esetben a vonatkozó adóügyi jogszabályok, valamint a vonatkozó szociális és munkaügyi jogszabályok ismerete;
+
+d) a biztosítási piac és egyéb vonatkozó pénzügyi szolgáltatási piacok minimálisan szükséges ismerete;
+
+e) a panaszok kezelésével kapcsolatos minimálisan szükséges ismeretek;
+
+f) a fogyasztó igényeinek felmérésével kapcsolatos minimálisan szükséges ismeretek;
+
+g) az összeférhetetlenségek kezelése;
+
+h) az üzleti etikai normák minimálisan szükséges ismerete; és
+
+i) minimálisan szükséges pénzügyi szakértelem.
 
 ### 8. melléklet a 2014. évi LXXXVIII. törvényhez
 
