@@ -227,11 +227,13 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 12. § (1) A hulladéktermelő az ingatlanon képződött hulladék gyűjtését az ingatlan területén hulladékgazdálkodási engedély nélkül legfeljebb 1 évig végezheti.
 
-(2) A gyűjtő – a (2a) bekezdésben és a 28. § (5) bekezdésében meghatározott kivétellel – tevékenységét gyűjtésre vonatkozó hulladékgazdálkodási engedéllyel végzi.
+(2) A gyűjtő – a (2a) és (2c) bekezdésben, valamint a 28. § (5) bekezdésében meghatározott kivétellel – tevékenységét gyűjtésre vonatkozó hulladékgazdálkodási engedéllyel végzi.
 
 (2a) A nemzeti köznevelésről szóló 2011. évi CXC törvény 7. § (1) bekezdés a)–h) pontja szerinti nevelési-oktatási intézmény papírhulladék gyűjtése céljából évente legfeljebb 2 alkalommal, és alkalmanként legfeljebb 5 nap időtartamban papírhulladék-gyűjtési kampányt szervezhet, amelynek során a papírhulladékot a vele jogviszonyban álló gyermektől, tanulótól gyűjtésre vonatkozó hulladékgazdálkodási engedély nélkül, a területén kialakított átvételi helyen átveheti. Az átvett papírhulladék kezeléséről a nevelési-oktatási intézmény a 31. § (2) bekezdése szerint gondoskodik.
 
 (2b) A legalább 300 m2 alapterületű üzlettel rendelkező forgalmazó a forgalmazás helyén köteles az általa forgalmazott termékcsoportból származó termékből, és a termék csomagolásából származó szennyeződésmentes, nem veszélyes, elkülönítetten gyűjtött csomagolási üveghulladék hulladékbirtokostól történő átvételére, elkülönített gyűjtésére.
+
+(2c) A lakosságnál képződő, 17 06 05* azonosító kódú, azbesztet tartalmazó építőanyag megnevezésű veszélyes hulladék az annak gyűjtése céljából üzemeltetett hulladékgyűjtő ponton, az erre vonatkozó külön hulladékgazdálkodási engedély nélkül átvehető.
 
 (3) A gyűjtő által gyűjtött hulladék előzetes válogatása, előzetes tárolása – kormányrendeletben vagy miniszteri rendeletben meghatározott kivétellel – összesen legfeljebb 1 évig végezhető. Ezt követően a hulladék kezeléséről haladéktalanul gondoskodni kell.
 
@@ -253,17 +255,38 @@ meghatározott hasznosítási és újrafeldolgozási célok alkalmazásában is 
 
 (6) A kereskedő, a közvetítő, a közszolgáltató és a közszolgáltatói alvállalkozó – a 39. § (3) bekezdésében foglaltakra figyelemmel – a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot kizárólag a 32/A. § (2) bekezdés alapján létrehozott szervezet nevében eljárva vásárolhatja meg, adhatja el, gyűjtheti, szállíthatja és közvetítheti.
 
-14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában vagy nyilvántartásba vétel alapján lehet szállítani, kivéve ha
+14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában vagy nyilvántartásba vétel alapján lehet szállítani, kivéve, ha
 
-- a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja, valamint
+- a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja,
 - b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe szállítja,
-- c) a gazdálkodó szervezet nem üzletszerűen, alkalmilag, az elkülönítetten gyűjtött hulladékát saját járművével, másik telephelyén levő üzemi gyűjtőhelyre vagy átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő udvarba, valamint hulladékkezelőhöz szállítja.
+- c) a gazdálkodó szervezet nem üzletszerűen, alkalmilag, az elkülönítetten gyűjtött hulladékát saját járművével, másik telephelyén levő üzemi gyűjtőhelyre vagy átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő udvarba, valamint hulladékkezelőhöz szállítja, vagy
+- d) a természetes személy ingatlantulajdonos vagy ingatlanbirtokos által használt ingatlanon képződő, elkülönítetten gyűjtött 17 06 05* azonosító kódú, azbesztet tartalmazó építőanyag megnevezésű veszélyes hulladékot az annak szállítására és tárolására alkalmas gyűjtőedényben, környezetveszélyeztetést kizáró módon – nem üzletszerű szállítás keretében – az (5)–(8) bekezdésben foglaltak betartásával hulladékgyűjtő pontra vagy hulladékkezelő létesítménybe szállítja.
 
 (2) A hulladék szállítója felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért.
 
 (3) Szállításból eredő szennyezés esetén a hulladék szállítója gondoskodik az eredeti környezeti állapot helyreállításáról, így különösen a terület szennyezésmentesítéséről és a hulladék elszállításáról.
 
 (4) Ha a hulladék szállításáról a kereskedő és a közvetítő saját maga gondoskodik, akkor a kereskedőre és a közvetítőre a szállítóra vonatkozó szabályokat is megfelelően alkalmazni kell.
+
+(5) Az (1) bekezdés d) pontja szerinti szállításról az átadó
+
+- a) elektronikus tájékoztatás esetén legkésőbb a szállítás megkezdése előtt közvetlenül,
+- b) papíralapú tájékoztatás esetén legkésőbb a szállítás megkezdése előtt 48 órával
+
+igazolható módon tájékoztatja az átvevőt.
+
+(6) Az (5) bekezdés szerinti tájékoztatás tartalmazza
+
+- a) a hulladékbirtokos vagy -tulajdonos természetes személy 65. § (2) bekezdés szerinti adatait,
+- b) a hulladék képződése szerinti ingatlan azonosításához szükséges adatokat, a képződött hulladék becsült mennyiségét,
+- c) a szállításhoz felhasználni tervezett gyűjtőedény megnevezését, méretét, darabszámát,
+- d) a szállítás várható időpontját,
+- e) a gépjármű rendszámát, és
+- f) amennyiben van, az építési (bontási) engedély számát.
+
+(7) Az (1) bekezdés d) pontja szerinti szállítás ellenőrzése során a (6) bekezdés szerinti tájékoztatás megtörténtét az átadónak – elektronikusan vagy papíralapon – kétséget kizáróan bizonyítani kell tudni.
+
+(8) Az (1) bekezdés d) pontja szerinti szállítás esetén a hulladék átvevője az átvett hulladékról igazolást ad.
 
 #### 11. A hulladék hasznosítása
 
@@ -845,6 +868,8 @@ az ügyfélszolgálatán és a honlapján mindenki számára ingyenesen hozzáf�
 (3) Ha a hulladék termelője vagy birtokosa besorolási kötelezettségének azért nem tesz eleget, mert az adott anyag vagy tárgy a hulladékjegyzékről szóló miniszteri rendelet szerinti hulladékjegyzékben nem szerepel, a hulladék termelője vagy birtokosa erről a környezetvédelmi hatóságot haladéktalanul tájékoztatja. A hulladékjegyzékben nem veszélyes hulladékként szereplő hulladékot a környezetvédelmi hatóság a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendeletben meghatározottak szerint minősíti, majd – ha a besorolás feltételei fennállnak – a hulladék termelőjének vagy birtokosának költségén gondoskodik annak besorolásáról.
 
 (4) A hulladékjegyzékben felsorolt anyag vagy tárgy akkor minősül hulladéknak, ha megfelel a 2. § (1) bekezdésének 23. pontjában foglaltaknak.
+
+(5) A kitermelt szennyezetlen talaj vagy más, természetes állapotában meglévő anyag termelőjének, vagy – ha az nem állapítható meg – birtokosának kifejezett, kormányrendelet szerinti nyilatkozata esetén a 2. § (4) bekezdés szerinti talaj vagy anyag nem minősül hulladéknak. A kitermelésre kerülő vagy kiszoruló talaj mennyiségét és környezeti jellemzőit előzetesen meg kell állapítani, további felhasználására a felmérés eredményétől függően kerülhet sor. Az előzetes felmérésre, a felhasználás feltételeire, a tervezett felhasználás előzetes, illetve a megtörtént felhasználás utólagos igazolására vonatkozó előírásokat kormányrendelet tartalmazza.
 
 64. § (1) Ha valamely gazdálkodó szervezet mellékterméket állít elő vagy tevékenysége során melléktermék képződik, és azt melléktermékként tárolja, használja fel vagy forgalmazza, akkor – a (2) bekezdésben foglalt kivétellel – a 8. § szerinti melléktermékre vonatkozó feltételeknek való megfelelésről a környezetvédelmi hatóságnak nyilatkozik. A környezetvédelmi hatóság a megfelelés tényét igazolja.
 
