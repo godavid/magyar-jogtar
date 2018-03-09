@@ -211,7 +211,7 @@ megfelelő összeg.
 - c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
 - d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 30%-ának megfelelő összeg.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 34,04%-ának megfelelő összeg.
 
 ### Hadigondozott családtag járadéka
 
@@ -230,7 +230,7 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 - c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
 - d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 30%-ának megfelelő összeg.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 34,04%-ának megfelelő összeg.
 
 ### Temetési hozzájárulás
 
@@ -384,4 +384,8 @@ részletes szabályait rendeletben állapítsa meg.
 
 30. § E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2016. évi CLXXXIV. törvénnyel megállapított 11. § (2) és (4) bekezdését, 12. § (2) bekezdését, 13. § (1) bekezdését, 14. § (2) bekezdését, 14/A. §-át, 15. § (1) bekezdését, valamint a 15/A. §-át a 2018. január 1-jét megelőzően megállapított ellátásokra is alkalmazni kell.
 
-#### 31–32. §
+31. § (1) E törvénynek a hadigondozásról szóló 1994. évi XLV. törvény módosításáról szóló 2018. évi III. törvénnyel (a továbbiakban: Módtv.) megállapított 14/A. §-át, valamint 15/A. §-át a Módtv. hatálybalépését megelőzően megállapított ellátásokra is alkalmazni kell.
+
+(2) E törvénynek a Módtv.-vel megállapított 14/A. §-ában, valamint 15/A. §-ában megállapított mértékű járadék (a továbbiakban: emelt összeg) 2018. január 1-től illeti meg a jogosultat. A 2018. január 1-jét követően kifizetett járadék és az emelt összeg közötti különbözet kifizetéséről a Módtv. hatálybalépését követő hónapban kell gondoskodni.
+
+#### 32. §
