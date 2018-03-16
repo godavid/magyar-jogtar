@@ -89,7 +89,7 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 34. Kisfeszültségű hálózat: az 1 kV-nál nem nagyobb névleges feszültségű hálózat;
 - 34a. Kijelölt villamosenergiapiac-üzemeltető: a 2015/1222/EU bizottsági rendelet 2. cikk 23. pontjában meghatározott fogalom;
 - 35. Kiszervezés: az e törvény szerinti engedélyköteles tevékenység egy részének az engedélyestől eltérő más személlyel történő elvégeztetése;
-- 36. Közcélú hálózat: olyan átviteli vagy elosztó hálózat, amely szükséges a villamosenergia-rendszer biztonságos és hatékony működéséhez;
+- 36. Közcélú hálózat: olyan átviteli, elosztó vagy termelői elosztó hálózat, amely szükséges a villamosenergia-rendszer biztonságos és hatékony működéséhez, illetve a megújuló energiát termelő erőművek csatlakoztatásához;
 - 37.
 - 38. Közvetlen vezeték: közcélúnak, magán- és termelői vezetéknek nem minősülő, Magyarország államhatárát nem keresztező vezeték, hálózati elem vagy átalakító- és kapcsolóberendezés, amely közcélú hálózatra csatlakozó erőművet köt össze vételezővel;
 - 39. Közvilágítás: a külön jogszabályban meghatározott területnek a közlekedés-, köz- és vagyonbiztonság érdekében szükséges összefüggő, rendszeres, meghatározott időtartamú, villamos üzemű megvilágítása;
@@ -136,12 +136,13 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 - 69. Villamosenergia-kereskedelem: az a tevékenység, amely a villamos energia és a hozzá tartozó teljesítmény üzletszerű, nem saját felhasználási célra történő vásárlásából és értékesítéséből áll;
 - 70. Villamosenergia-rendszer: az átviteli rendszerirányító által – törvényben meghatározott körben az elosztó közreműködésével – a villamosenergia-ellátási szabályzatokban rögzített elvek szerint irányított erőművek és hálózatok összessége;
 - 70a. Villamosenergia-tároló: villamos energia fizikai vagy kémiai technológiával történő tárolására szolgáló berendezés, amely a betáplált villamos energiát átalakítja, eltárolja és annak műszaki veszteséggel csökkentett részét a villamosenergia-rendszerbe visszatáplálja;
-- 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
+- 71. Villamosmű: az erőmű, az átviteli, az elosztó és a termelői elosztó hálózat;
 - 72. Zöld bizonyítvány: olyan forgalomképes okirat, amely igazolja a megújuló energiaforrásból nyert energiával előállított villamos energia mennyiségét a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználására előírt minimális kötelezettség teljesítésére vonatkozó támogatási rendszer esetén;
 - 74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény;
 - 75. Prémium típusú támogatás: a prémium típusú támogatási rendszer keretében nyújtott ártámogatás;
 - 76. Prémium típusú támogatási rendszer: olyan támogatási rendszer, amelyben a megújuló energiaforrásból származó villamos energiát a termelő piaci körülmények között értékesíti és emellett az általa termelt villamos energiával arányosan ártámogatásban (prémiumban) részesül;
-- 77. Demonstrációs projekt: egy technológiát az Európai Unióban elsőként bemutató, és jelentős, a technika aktuális állását meghaladó újítást képviselő projekt.
+- 77. Demonstrációs projekt: egy technológiát az Európai Unióban elsőként bemutató, és jelentős, a technika aktuális állását meghaladó újítást képviselő projekt;
+- 78. Termelői elosztó hálózat: az elosztó tulajdonában lévő olyan hálózat, amely több, a Kormány rendeletében nemzetgazdasági szempontból kiemelt jelentőségű beruházássá minősített, nem engedélyköteles kiserőmű által megtermelt villamos energiát juttatja el az elosztó hálózathoz. A termelői elosztó hálózathoz felhasználó és vételező abban az esetben csatlakozhat, ha tudomásul veszi, hogy az elosztónak nem kell betartania a villamosenergia-szolgáltatás általános minőségi kritériumai közül azokat, amelyek a termelői elosztó hálózaton szállítható, a vezetékek terhelhetősége alapján számított maximális teljesítményt korlátozzák.
 
 ### II. Fejezet — A VILLAMOS ENERGIA TERMELÉSE
 
@@ -268,7 +269,12 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 (9) A (2) bekezdés b) pontja szerinti prémium típusú támogatás mértékének meghatározásakor – a (7) és (8) bekezdéstől eltérően – csak a működési jellegű állami támogatásokat kell figyelembe venni, beleértve a működés fenntartásához szükséges beruházásokhoz kapott támogatásokat is.
 
-(10) A kötelező átvételi, illetve (2) bekezdés a) pontja szerinti prémium típusú támogatási jogosultságok csak a (7) és (8) bekezdés szerint figyelembe vett támogatás változása esetén, e változással arányosan módosíthatóak.
+(10) A kötelező átvételi, illetve a (2) bekezdés a) pontja szerinti prémium típusú támogatási jogosultságok csak
+
+- a) a telephely változása tekintetében vagy
+- b) a (7) és a (8) bekezdés szerint figyelembe vett támogatás változása esetén, e változással arányosan
+
+módosíthatóak.
 
 (11) A prémium típusú támogatás elnyerésére kiírt pályázatokat a Hivatal bonyolítja le.
 
@@ -486,6 +492,10 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 (7) Ha a hálózati csatlakozást az igénybejelentő saját beruházásban valósítja meg, a hálózati csatlakozás átvételéről és üzembe helyezéséről a hálózati engedélyes köteles gondoskodni. A hálózati engedélyes köteles a hálózati csatlakozást átvenni és üzembe helyezni, ha az a kiviteli tervnek megfelelően készült el.
 
 (8) A hálózati engedélyes a hálózati csatlakozás üzembe helyezéséről a kivitelezés befejezésének a hálózati engedélyeshez történt bejelentésétől számított 8 munkanapon belül köteles nyilatkozni, továbbá köteles a hálózati csatlakozást üzembe helyezni. Amennyiben a hálózati engedélyes a 8 munkanapos határidőn belül nem nyilatkozik, úgy az üzembe helyezés nem tagadható meg, a hálózati engedélyes köteles a hálózati csatlakozást haladéktalanul üzembe helyezni. Ha a hálózati engedélyes határidőn belüli nyilatkozatával a hálózati csatlakozás üzembe helyezését megtagadja, az igénybejelentő a műszaki biztonsági hatóságtól kérheti az üzembe helyezés elrendelését. A műszaki biztonsági hatóság eljárására az e törvény végrehajtására kiadott kormányrendelet rendelkezéseit kell alkalmazni azzal, hogy a műszaki-biztonsági hatóság az alkalmassági nyilatkozat kiadására irányuló kérelmet a kérelem érkezésétől számított 8 munkanapon belül köteles elbírálni és döntéséről a kérelmezőt értesíteni. A műszaki-biztonsági hatóság eljárása díjmentes.
+
+27/A. § (1) Az elosztó a nem engedélyköteles kiserőmű esetében a csatlakozást igénylő kérésére köteles középfeszültségű csatlakozási pontot biztosítani az erőmű elhelyezésére szolgáló telek határán. A csatlakozási pont biztosításának határidejét és a megvalósításának részletes szabályait a kormány rendeletben állapítja meg.
+
+(2) Az (1) bekezdés szerinti csatlakozási pont biztosításához szükséges, az elosztó hálózathoz kapcsolódó átalakító- és kapcsolóberendezés létesítését vagy fejlesztését az elosztó köteles a saját költségén megvalósítani.
 
 28. § Az összekötő berendezéssel csatlakoztatott felhasználók ellátásának biztonsága érdekében az összekötő berendezés üzemeltetésére és az üzemzavar elhárítására az elosztó hálózati engedélyesek az összekötő berendezés üzemeltetőjének kezdeményezésére kötelesek az üzletszabályzatban meghatározott feltételek szerint szerződést kötni.
 
@@ -2739,6 +2749,8 @@ díjmentes.
 
 (11) Az elosztó a csatlakozási igény befogadását nem tagadhatja meg, ha a csatlakozás valamennyi jogszabályi feltétele teljesül.
 
+(12) A nem engedélyköteles kiserőmű esetében rendszerhasználónként mind szabadvezeték, mind földkábel esetén összesen legfeljebb 3000 méter hosszúságú, termelői elosztó hálózathoz tartozó vezeték és közcélú hálózathoz tartozó vezeték létesítése, továbbá a csatlakozási pont biztosításához szükséges, az elosztó hálózathoz tartozó átalakító- és kapcsolóberendezés létesítése vagy fejlesztése díjmentes.
+
 146/B. § Az 500 MW-ot meghaladó névleges teljesítőképességű gépegységgel rendelkező erőmű közcélú hálózathoz történő csatlakozása esetén a villamosenergia-rendszer szabályozási költségei növekedésének kompenzálására a gépegység névleges teljesítőképességének 500 MW-ot meghaladó része után MW-onként az átviteli rendszerirányító részére a külön jogszabályban meghatározott módon és mértékben rendszerszabályozási hozzájárulást fizet. Ezen díjfizetési kötelezettség nem érinti a 146/A. § alapján teljesítendő díjfizetési kötelezettséget. A rendszerszabályozási hozzájárulás meghatározásakor figyelembe kell venni a hálózatra később csatlakozott, 500 MW-ot meghaladó névleges teljesítőképességű gépegységgel rendelkező erőmű csatlakozásának hatásait.
 
 ### XVII. Fejezet — EGYÉB PÉNZÜGYI RENDELKEZÉSEK
@@ -3180,7 +3192,8 @@ nem változtathatja meg.
 - 51. a szélerőművek, illetve szélerőmű parkok építésére és használatbavételére kiadható hatósági engedélyek számát és az engedélyezhető szélerőművek, illetve szélerőmű parkok teljesítményét,
 - 52. a bejelentett és jogosult villanyszerelők nyilvántartására, regisztrációjára vonatkozó részletes szabályokat, valamint a nyilvántartást vezető műszaki biztonsági hatóságot,
 - 53. a hálózati csatlakozással összefüggő tervek kivitelezésre való alkalmasságának megállapítása iránt az eljáró műszaki-biztonsági hatóságot, és a műszaki biztonsági hatóság előtt indított eljárás szabályait, valamint a hálózati csatlakozás üzembe helyezésének hálózati engedélyes általi megtagadása esetén az eljáró műszaki biztonsági hatóságot, és a műszaki biztonsági hatóságnak az üzembe helyezés elrendelésével kapcsolatos eljárása szabályait,
-- 54. a kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét
+- 54. a kizárólag a bejelentett és jogosult villanyszerelők nyilvántartásában szereplő villanyszerelők által végezhető tevékenységek körét,
+- 55. a nem engedélyköteles kiserőművek középfeszültségű csatlakozási pontja elosztó általi biztosításának határidejét és megvalósításának részletes szabályait,
 
 rendeletben állapítsa meg.
 
