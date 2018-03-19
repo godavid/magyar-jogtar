@@ -1066,7 +1066,7 @@ A légiközlekedési szakszemélyzet szakszolgálati engedélyeinek a polgári r
 
 Alkalmazandó rendelkezések: 1–8. cikk és a melléklet ”
 
-4. § Az Országgyűlés jóváhagyja a Megállapodásnak az e törvény hatálybalépése napjától kezdődően történő ideiglenes alkalmazását.
+4. §
 
 5. § (1) E törvény a kihirdetését követő napon lép hatályba.
 
