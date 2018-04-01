@@ -459,7 +459,7 @@ nyújtható.
 
 21. § (1) A köznevelési intézmény e törvényben meghatározott köznevelési feladatok ellátására létesített intézmény. A köznevelési intézmény jogi személy, amely – a tankerületi központ, valamint az állami felsőoktatási intézmény által fenntartott intézmény kivételével – a fenntartójától elkülönült, önálló költségvetéssel rendelkezik. A köznevelési intézmény a nyilvántartásba való bejegyzéssel, a bejegyzés napján jön létre.
 
-(2) A köznevelési intézmény alapítását az alapító okirat, a tankerületi központ által fenntartott köznevelési intézmény esetében a szakmai alapdokumentum, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, a tankerületi központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a hivatalnál, más esetben a köznevelési intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnál kell teljesíteni. A nem állami szerv által alapított intézmény csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.
+(2) A köznevelési intézmény alapítását az alapító okirat, a tankerületi központ által fenntartott köznevelési intézmény esetében a szakmai alapdokumentum, továbbá – ha a fenntartó a tevékenységet nem jogszabály felhatalmazása alapján látja el – a köznevelési közszolgálati tevékenység folytatására jogosító okirat, a köznevelési intézmény képviseletére jogosult személy nevének és képviseletének jogosultságát igazoló dokumentum, az állandó székhely meglétét igazoló okirat megküldésével, nyilvántartásba vétel céljából be kell jelenteni. A bejelentést költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervnél, a tankerületi központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a hivatalnál, más esetben a köznevelési intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnál kell teljesíteni. A nem állami szerv által alapított intézmény nyilvántartásba vétele során figyelembe kell venni a 75. § (1) bekezdés szerinti jelentésben foglaltakat.
 
 (3) A köznevelési intézmény alapító okirata, szakmai alapdokumentuma tartalmazza
 
@@ -559,7 +559,7 @@ rendelkezik.
 - a) pedagógiai programja az e törvényben, szakmai programja a szakképzésről szóló törvényben meghatározottaknak nem felel meg,
 - b) nem rendelkezik – az e törvényben foglaltaknak megfelelő – a működéséhez szükséges személyi és tárgyi feltételekkel,
 - c) újonnan induló nevelési-oktatási forma esetében a feltételek megteremtésének ütemtervében foglaltak nem megalapozottak, a költségvetésből nem állapítható meg, hogy a feladata ellátásához szükséges költségeket milyen forrásból biztosítják,
-- d) működése nincs összhangban a köznevelés-fejlesztési tervben foglaltakkal.
+- d)
 
 (8) Pedagógiai szakszolgálati intézmény, pedagógiai-szakmai szolgáltatást nyújtó intézmény esetében a köznevelési feladatokat ellátó hatóság az engedély kiadását akkor tagadhatja meg, ha
 
@@ -713,7 +713,7 @@ rendkívüli szünetet rendel el.
 - i) a nevelési-oktatási intézmény SZMSZ-e, házirendje, valamint a nevelési-oktatási intézmény pedagógiai programja a fenntartó jóváhagyásával válik érvényessé,
 - j) az etika tantárgy hittan tantárggyal kiváltható, amennyiben az iskola pedagógiai programja a hittan tantárgy vonatkozásában tartalmazza a Nat-ban az etikára meghatározott fejlesztési követelményeket és tartalmakat.
 
-(2) Ha a vallási közösség a Kormánnyal a köznevelési feladatok ellátására is kiterjedő megállapodást kötött, a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóság, óvoda esetén a települési önkormányzat részére megküldött egyoldalú nyilatkozatával vállalja az állami, önkormányzati feladatellátásban való közreműködést, valamint kötelezettséget vállal a tanulók felzárkóztatására vonatkozó feladatok ellátására. Az egyoldalú nyilatkozat alapján a köznevelési feladatokat ellátó hatóság a nevelési-oktatási intézményt felveszi a köznevelés-fejlesztési tervbe. A Magyar Katolikus Egyház az egyoldalú nyilatkozat megtételére nemzetközi szerződés alapján jogosult. Az egyoldalú nyilatkozat megtételére a belső egyházi jogi személy is jogosult.
+(2) Ha a vallási közösség a Kormánnyal a köznevelési feladatok ellátására is kiterjedő megállapodást kötött, a nevelési-oktatási intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóság, óvoda esetén a települési önkormányzat részére megküldött egyoldalú nyilatkozatával vállalja az állami, önkormányzati feladatellátásban való közreműködést, valamint kötelezettséget vállal a tanulók felzárkóztatására vonatkozó feladatok ellátására. A Magyar Katolikus Egyház az egyoldalú nyilatkozat megtételére nemzetközi szerződés alapján jogosult. Az egyoldalú nyilatkozat megtételére a belső egyházi jogi személy is jogosult.
 
 (3) A nyilatkozatnak az alábbiakat kell tartalmaznia:
 
@@ -1277,7 +1277,7 @@ dönt.
 
 (7) Az iskolába a tanköteles tanulókat az első évfolyamra - a területileg illetékes tankerületi központ véleményének kikérésével – a köznevelési feladatokat ellátó hatóság által meghatározott időszakban kell beíratni. A beiratkozásra meghatározott időt a helyben szokásos módon közzé kell tenni.
 
-(8) A köznevelési feladatokat ellátó hatóság meghatározza és közzéteszi az iskolák felvételi körzetét, továbbá – a köznevelés-fejlesztési tervvel összhangban – a pedagógiai szakszolgálatot ellátó intézmény működési körzetét. A felvételi körzetek megállapításához a köznevelési feladatokat ellátó hatóságnak be kell szereznie az érdekelt települési önkormányzatok véleményét és az illetékes tankerületi központ egyetértését. Ha az illetékes tankerületi központ nem ért egyet a köznevelési feladatot ellátó hatóság döntésével, illetve a köznevelési feladatot ellátó hatóság megkeresése kézhezvételét követő 15 napon belül az egyetértés tárgyában nem nyilatkozik, az oktatásért felelős miniszter állapítja meg a felvételi körzethatárokat.
+(8) A köznevelési feladatokat ellátó hatóság meghatározza és közzéteszi az iskolák felvételi körzetét, továbbá a pedagógiai szakszolgálatot ellátó intézmény működési körzetét. A felvételi körzetek megállapításához a köznevelési feladatokat ellátó hatóságnak be kell szereznie az érdekelt települési önkormányzatok véleményét és az illetékes tankerületi központ egyetértését. Ha az illetékes tankerületi központ nem ért egyet a köznevelési feladatot ellátó hatóság döntésével, illetve a köznevelési feladatot ellátó hatóság megkeresése kézhezvételét követő 15 napon belül az egyetértés tárgyában nem nyilatkozik, az oktatásért felelős miniszter állapítja meg a felvételi körzethatárokat.
 
 (9) A sajátos nevelési igényű tanulók nevelés-oktatását több megyére, országrészre kiterjedően ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt az intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóságnak be kell szereznie az érdekelt köznevelési feladatokat ellátó hatóságok véleményét.
 
@@ -2123,13 +2123,9 @@ dönt.
 
 (7) A nemzetiségi önkormányzat a nemzetiség által lakott településen a nemzetiséghez tartozók óvodai nevelésére és iskolai nevelés-oktatására létrehozott intézmény fenntartói jogát átveheti a települési önkormányzattól, az államtól.
 
-75. § (1) Az oktatásért felelős miniszter a köznevelési feladatok megszervezéséhez szükséges döntései előkészítése céljából a hivatal előterjesztése alapján a köznevelési feladatokat ellátó hatóságok közreműködésével, valamint a helyi önkormányzatok véleményének kikérésével és közreműködésével megyei szintű bontásban feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervet készít, amelynek része a megyei szakképzési terv. A települési önkormányzat a köznevelés-fejlesztési tervhez adott véleményéhez beszerzi a településen működő köznevelési intézmények nevelőtestületei, a köznevelési intézményben közalkalmazotti jogviszony, munkaviszony keretében foglalkoztatottak közössége (a továbbiakban: alkalmazotti közösség), szülői és diákszervezeteinek véleményét. A hivatal a megyei szakképzési terv elkészítéséhez beszerzi a szakképzésért és felnőttképzésért felelős miniszter véleményét.
+75. § (1) Az oktatásért felelős miniszternek a köznevelési közszolgálati feladatok megszervezéséhez szükséges döntései előkészítése céljából a hivatal tankerületi központ illetékességi területe szerinti bontásban, fenntartó típusonként évente jelentést készít az oktatásért felelős miniszter számára a KIR-ben rendelkezésre álló adatok felhasználásával a nevelési-oktatási intézményi férőhelyek és a nevelésben-oktatásban részt vevő gyermekek, tanulók létszámának alakulásáról. A jelentést az oktatásért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
-(2) A miniszter a köznevelés-fejlesztési tervet legalább ötévente értékeli és szükség szerint módosítja.
-
-(3) Az állami fenntartású gyakorló nevelési-oktatási intézmény, gyakorló szakszolgálati intézmény köznevelés-fejlesztési tervbe való felvételéről az oktatásért felelős miniszter a felsőoktatási intézmény javaslata alapján dönt.
-
-(4) A hivatal a köznevelés-fejlesztési terv elkészítésekor beszerzi – a nemzetiséget érintő kérdésekben – az érintett települési, területi és országos nemzetiségi önkormányzat egyetértését.
+(2)–(4)
 
 76. § A tankerületi központ, valamint a szakképzési centrum fenntartója együttműködik a települési önkormányzattal a helyi közösségi és kulturális élet feltételeinek biztosítása érdekében oly módon, hogy a vagyonkezelésében lévő önkormányzati tulajdonú ingatlan használatát tanítási időn kívül és a pedagógiai programban, továbbá egyéb jogszabályban meghatározott feladatok végrehajtásának biztosítása mellett külön megállapodás alapján ingyenesen biztosítja a tulajdonos települési önkormányzat számára. A megállapodás megkötéséhez szükség van az érintett köznevelési intézmény vezetőjének előzetes véleményére.
 
@@ -2188,7 +2184,7 @@ illeti meg.
 - b) az országos vizsgarendszer létrehozása, működtetése, fejlesztése és korszerűsítése, ennek keretében rendkívüli intézkedés meghozatala az érettségi vizsga megszervezésével, megtartásával összefüggésben, ha az intézkedés megtétele nélkül országos szinten veszélybe kerül az érettségi vizsga jogszabályok szerinti lebonyolítása,
 - c) a köznevelésben jelentkező pedagógiai problémák vizsgálata, pedagógiai megoldások és eljárások kifejlesztése,
 - d) a pedagógusok, a köznevelési intézményvezetők ismereteinek megújításához szükséges továbbképzés feltételeinek megteremtése, továbbá a köznevelés állami és önkormányzati irányítási feladataiban közreműködők továbbképzésének segítése,
-- e) a köznevelés-fejlesztési tervek előkészítéséhez szakmai segítség nyújtása,
+- e)
 - f) működteti az országos pedagógiai-szakmai ellenőrzés rendszerét, gondoskodik az ebben részt vevő szakértők képzéséről és továbbképzéséről, az ellenőrzés általános tapasztalatainak feldolgozásáról és nyilvánosságra hozataláról,
 - g) nevelési-oktatási programok kidolgozása, kiadása,
 - h) az érettségi vizsgaelnöki és szakértői tevékenység szakmai feltételeinek megteremtése, fejlesztése,
@@ -2640,7 +2636,7 @@ egyetértésben gyakorolja.
 - i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának és kezelésének szabályait,
 - j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
 - k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
-- l) a kijelölje a köznevelési feladatokat ellátó hatóságot, a köznevelési feladatokat ellátó hatóság hatósági ellenőrzésének tárgyköreit, a köznevelés-fejlesztési terv részletes tartalmát és elkészítésének eljárásrendjét,
+- l) a kijelölje a köznevelési feladatokat ellátó hatóságot, a köznevelési feladatokat ellátó hatóság hatósági ellenőrzésének tárgyköreit,,
 - m) az érettségiben részt vevő pedagógusok díjazásával kapcsolatos kérdéseket, az érettségi vizsgán való részvétellel összefüggő – a hivatal által megállapítható – vizsgadíj megállapításának elveit, a köznevelés információs rendszerével összefüggő igazgatási szolgáltatási díj megállapításának és befizetésének rendjét, a befolyt összeg felhasználásának rendjét, a pedagógus-továbbképzéssel kapcsolatos akkreditációs eljárással összefüggő igazgatási szolgáltatási díj, egyes szolgáltató tevékenységgel összefüggő díjazás megállapításának rendjét, a befolyt összeg felhasználását, illetőleg a befizetés rendjét, a pedagógus-ösztöndíj alapítását,
 - n) az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervek feladatait, valamint az oktatási központ mint az oktatásért felelős miniszter egyes köznevelési fenntartói feladatkörébe tartozó feladatainak ellátására kijelölt szervet és feladatait
 - o)
