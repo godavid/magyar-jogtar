@@ -319,7 +319,12 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (4) A víziközmű tulajdonosának – a tulajdonában álló víziközmű tekintetében – a víziközmű térképi nyilvántartás adataihoz való hozzáférését korlátozás- és díjmentesen kell biztosítani.
 
-(5) A víziközmű-szolgáltató a bíróság, az ügyészség, az ellátott területen működő települési önkormányzat és az illetékes közigazgatási hatóságok részére a víziközművel kapcsolatos hatósági feladataik ellátásához, az ahhoz szükséges mértékben, díjmentesen biztosítja a víziközmű térképi nyilvántartás tartalmának megismerését.
+(5) A víziközmű-szolgáltató
+
+- a) a víziközművel kapcsolatos hatósági feladataik ellátásához, a bíróság, az ügyészség, az ellátott területen működő települési önkormányzat és az illetékes közigazgatási hatóságok részére, továbbá
+- b) üzemeltetői feladatai ellátásához, az ahhoz szükséges mértékben az Integrált Közcélú Víziközmű Adatbázis (a továbbiakban: IKVA Adatbázis) üzemeltetője részére
+
+díjmentesen biztosítja az e törvény végrehajtására kiadott kormányrendeletben meghatározott víziközmű térképi nyilvántartás tartalmának megismerését.
 
 (6) A víziközmű-szolgáltató díjmentesen szolgáltatja az egységes elektronikus közműnyilvántartást üzemeltető szervezet részére a vízellátási, illetve vízelvezetési szakág feladatkörébe tartozó publikálandó objektumokat.
 
@@ -1024,7 +1029,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (3) A Hivatal adatkezelésére a villamos energiáról szóló törvényben a Hivatal adatkezelésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(4) A Hivatal adatbekérése megvalósulhat az általa külön e célra működtetett, a helyszínre vagy a hatósági nyilvántartáshoz telepített, illetve a folyamatba beépített ellenőrző rendszerből történő táv-adatszolgáltatás útján is.
+(4) A Hivatal az e törvényben rögzített feladatai ellátása során figyelembe veszi és felhasználja az IKVA Adatbázis adatait.
 
 61. § (1) A víziközmű-szolgáltató és az ellátásért felelős
 
@@ -1139,6 +1144,12 @@ alapján lehet.
 
 (4) A jogszabályok hatásvizsgálata, a jogalkotási, valamint az ágazatpolitikai döntések megalapozása érdekében a miniszter és a vízgazdálkodásért felelős miniszter számára a Hivatal biztosítja a Nyilvántartás adataiba történő korlátlan, díjmentes és közvetlen betekintést.
 
+61/E. § (1) A víziközmű-szolgáltatási ágazat szakpolitikai, stratégiai és fejlesztéspolitikai megalapozása, valamint a Hivatal 65. § (2) bekezdés szerinti javaslata kidolgozásának támogatása érdekében a miniszter közcélú IKVA Adatbázist működtet.
+
+(2) Az IKVA Adatbázis a víziközmű-szolgáltatók és az ellátásért felelősök víziközmű-szolgáltatásra vonatkozó, a Nyilvántartásban rögzített gazdasági és szervezeti, valamint a víziközmű-rendszerek műszaki adatait tartalmazza.
+
+(3) A miniszter a víziközmű-szolgáltatók, az ellátásért felelősök, a Hivatal, továbbá az ágazati irányításért felelős központi szervek részére az IKVA Adatbázishoz közvetlen hozzáférést biztosít.
+
 ### VIII. Fejezet — A VÍZIKÖZMŰ-SZOLGÁLTATÁS DÍJAI
 
 #### 19. A víziközmű-szolgáltatás díjainak tartalma, szerkezete, megállapítása
@@ -1207,7 +1218,7 @@ kiállított számla érvénytelen.
 
 (3) A hatósági díjat a miniszter a (2) bekezdés szerinti javaslat hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy kilencven napon belül tegye meg javaslatát.
 
-(4) A víziközmű-szolgáltató, az ellátásért felelős, valamint a víziközmű tulajdonosa a Hivatalnak minden olyan tájékoztatást és adatot megad, amely a Hivatal hatósági díjelőkészítő és díjfelügyeleti tevékenységéhez szükséges. A víziközmű-szolgáltató, az ellátásért felelős, valamint a víziközmű tulajdonosa a Hivatal által megjelölt tartalommal, formában és határidőn belül tesz eleget tájékoztatási és adatszolgáltatási kötelezettségének.
+(4) A víziközmű-szolgáltató és az ellátásért felelős, valamint a víziközmű tulajdonosa a Hivatalnak minden olyan tájékoztatást és adatot megad, amely a Hivatal hatósági díjelőkészítő és díjfelügyeleti tevékenységéhez szükséges. A víziközmű-szolgáltató és az ellátásért felelős, valamint a víziközmű tulajdonosa a miniszter számára az e törvény felhatalmazása alapján kiadott kormányrendeletben megjelölt tartalommal, formában és határidőn belül az IKVA Adatbázis elektronikus rendszeren keresztül tesz eleget tájékoztatási és adatszolgáltatási kötelezettségének.
 
 (5) Ha a víziközmű-szolgáltató, az ellátásért felelős vagy a víziközmű tulajdonosa a Hivatal (4) bekezdés szerinti határozatában vagy az e törvény végrehajtására kiadott miniszteri rendeletben foglalt határidőn belül nem nyújt tájékoztatást vagy szolgáltat adatot, a Hivatal a tájékoztatás, adatszolgáltatás hiányában is javaslatot tehet a miniszter részére.
 
