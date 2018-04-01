@@ -56,7 +56,9 @@ A kulturális örökséghez tartozó javak múltunk és jelenünk megismerésén
 
 6. § Az e törvény alkalmazásában szereplő fogalmakat a törvény 1. számú melléklete tartalmazza.
 
-6/A. § A muzeális intézmények, a nyilvános könyvtárak és a könyvtári tevékenység, valamint a közművelődési intézmények tevékenységének ágazati irányítását a kultúráért felelős miniszter (a továbbiakban: miniszter) látja el. E feladatának ellátásában – közreműködőként – szakfelügyelői és szakmai testületeket működtethet.
+6/A. § (1) A muzeális intézmények, a nyilvános könyvtárak és a könyvtári tevékenység, valamint a közművelődési intézmények tevékenységének ágazati irányítását a kultúráért felelős miniszter (a továbbiakban: miniszter) látja el. E feladatának ellátásában – közreműködőként – szakfelügyelői és szakmai testületeket működtethet.
+
+(2) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 20. § (4) bekezdése szerinti, régészeti feltárásra jogosult múzeumok régészeti feltárási tevékenységének ágazati irányításában a kulturális örökség védelméért felelős miniszter a miniszterrel közösen jár el.
 
 ## II. RÉSZ — A MUZEÁLIS INTÉZMÉNYEK
 
@@ -484,7 +486,7 @@ esetében.
 
 - a) meghatározza és jóváhagyja a muzeális intézmény éves és középtávú feladatait, így különösen stratégiai tervét, munkatervét és beszámolóját, fejlesztési és beruházási feladatait,
 - b) költségvetési szervként működő muzeális intézmény esetén kiadja annak alapító okiratát, jóváhagyja szervezeti és működési szabályzatát,
-- c) biztosítja a muzeális intézmény működési engedélyében meghatározott szakmai besorolása szerinti feladatai ellátásához szükséges személyi és infrastrukturális feltételeket,
+- c) biztosítja a muzeális intézmény működési engedélyében meghatározott szakmai besorolása szerinti feladatai, valamint a kulturális örökség védelméről szóló törvényben meghatározott feladatai ellátásához szükséges személyi és infrastrukturális feltételeket,
 - d) ellátja a muzeális intézmény fenntartásával, irányításával kapcsolatos, jogszabályokban meghatározott feladatokat,
 - e) a költségvetési szervként működő muzeális intézmény vezetője felett gyakorolja a munkáltatói jogokat.
 
