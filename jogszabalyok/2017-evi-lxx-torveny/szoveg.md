@@ -20,9 +20,7 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 10–14. §
 
-15. § Az Nkt. 75. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az oktatásért felelős miniszternek a köznevelési közszolgálati feladatok megszervezéséhez szükséges döntései előkészítése céljából a hivatal tankerületi központ illetékességi területe szerinti bontásban, fenntartó típusonként évente jelentést készít az oktatásért felelős miniszter számára a KIR-ben rendelkezésre álló adatok felhasználásával a nevelési-oktatási intézményi férőhelyek és a nevelésben-oktatásban részt vevő gyermekek, tanulók létszámának alakulásáról. A jelentést az oktatásért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.”
+15. §
 
 16. §
 
@@ -37,7 +35,7 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 21. § Az Nkt.
 
 - 1.
-- 2. 21. § (2) bekezdésében a „csak akkor vehető nyilvántartásba, ha működése összhangban van a fővárosi, megyei feladatellátási, intézményhálózat-működtetési és köznevelés-fejlesztési tervben (a továbbiakban: köznevelés-fejlesztési terv) foglaltakkal.” szövegrész helyébe a „nyilvántartásba vétele során figyelembe kell venni a 75. § (1) bekezdés szerinti jelentésben foglaltakat.”,
+- 2.
 - 3.
 - 4.
 - 5–10.
@@ -48,16 +46,13 @@ szöveg lép.
 
 - 1.
 - 2.
-- 3. 23. § (7) bekezdés d) pontja,
-- 4. 32. § (2) bekezdésében az „Az egyoldalú nyilatkozat alapján a köznevelési feladatokat ellátó hatóság a nevelési-oktatási intézményt felveszi a köznevelés-fejlesztési tervbe.” szövegrész,
-- 5. 50. § (8) bekezdésében az „– a köznevelés-fejlesztési tervvel összhangban –” szövegrész,
+- 3–5.
 - 6.
-- 7. 75. § (2)–(4) bekezdése,
-- 8. 78. § (1) bekezdés e) pontja,
+- 7–8.
 - 9.
-- 10. 94. §
+- 10.
   - a)
-  - b) (4) bekezdés l) pontjában az „a köznevelés-fejlesztési terv részletes tartalmát és elkészítésének eljárásrendjét” szövegrész,
+  - b)
 - 11–12.
 
 #### 4. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
