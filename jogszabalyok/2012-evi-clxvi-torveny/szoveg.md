@@ -15,7 +15,13 @@ Az Országgyűlés az élet és az anyagi javak védelmének, az alapvető szolg
 - e) létfontosságú rendszerelem védelme: a létfontosságú rendszerelem funkciójának, folyamatos működésének és sértetlenségének biztosítását célzó, a fenyegetettség, a kockázat, a sebezhetőség enyhítésére vagy semlegesítésére irányuló valamennyi tevékenység,
 - f) létfontosságú rendszerelem: az 1–3. mellékletben meghatározott ágazatok valamelyikébe tartozó eszköz, létesítmény vagy rendszer olyan rendszereleme, amely elengedhetetlen a létfontosságú társadalmi feladatok ellátásához – így különösen az egészségügyhöz, a lakosság személy- és vagyonbiztonságához, a gazdasági és szociális közszolgáltatások biztosításához –, és amelynek kiesése e feladatok folyamatos ellátásának hiánya miatt jelentős következményekkel járna,
 - g) nemzeti létfontosságú rendszerelem: e törvény alapján kijelölt olyan létfontosságú rendszerelem, amelynek kiesése a létfontosságú társadalmi feladatok folyamatos ellátásának hiánya miatt jelentős hatása lenne Magyarországon,
-- h) üzemeltető: az a természetes, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az eszköz, létesítmény, rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy napi működéséért felelős.
+- h) üzemeltető: az a természetes, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az eszköz, létesítmény, rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy napi működéséért felelős,
+- i) hálózati és információs rendszer:
+  - ia) az elektronikus hírközlő hálózat,
+  - ib) minden olyan eszköz vagy egymással összekapcsolt vagy kapcsolatban álló eszközök csoportja, amelyek közül egy vagy több valamely program alapján digitális adatok automatizált kezelését végzi, vagy
+  - ic) az ia) és ib) alpontban szereplő elemek által működésük, használatuk, védelmük és karbantartásuk céljából tárolt, kezelt, visszakeresett vagy továbbított digitális adatok,
+- j) biztonsági esemény: minden olyan esemény, amely ténylegesen kedvezőtlen hatást gyakorol a hálózati és információs rendszerek biztonságára,
+- k) biztonsági esemény kezelése: a biztonsági események észlelését, elemzését és elszigetelését, valamint a rájuk való reagálást támogató eljárások.
 
 #### 2. A nemzeti létfontosságú rendszerelemek kijelölése
 
@@ -34,6 +40,24 @@ dönthet.
 (3) Az ágazati kijelölő hatóság az ágazati és horizontális kritériumok alapján a közigazgatási hatósági eljárás szabályainak megfelelően határozatban dönt a nemzeti létfontosságú rendszerelem kijelöléséről vagy a kijelölés visszavonásáról, meghatározza az üzemeltetői biztonsági terv kidolgozásának határidejét, valamint a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket írhat elő az üzemeltető részére.
 
 (4) Az ágazati kijelölő hatóság a (3) bekezdés szerinti döntését az azonosítási jelentés kézhezvételétől számított 70 napon belül hozza meg.
+
+#### 2/A. Az alapvető szolgáltatásokat nyújtó szereplők kijelölése és nyilvántartása
+
+2/A. § (1) Az ágazati kijelölő hatóság a 2. § szerinti eljárás során jelöli ki az alapvető szolgáltatást nyújtó szereplőket.
+
+(2) A kijelölt nemzeti létfontosságú rendszerelem üzemeltetője alapvető szolgáltatásokat nyújtó szereplőnek minősül, ha
+
+- a) az 1–3. melléklet alapján meghatározott alágazata a 4. melléklet alapján megfeleltethető a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i (EU) 2016/1148 európai parlamenti és tanácsi irányelv szerinti valamely ágazatnak vagy alágazatnak,
+- b) az általa nyújtott szolgáltatás nyújtása hálózati és információs rendszerektől függ, és
+- c) az általa nyújtott szolgáltatást érintő biztonsági esemény jelentős zavart okozna az általa nyújtott szolgáltatás biztosításában.
+
+(3) Az ágazati kijelölő hatóság a nemzeti létfontosságú rendszerelemmé kijelölő határozatban rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.
+
+(4) A nyilvántartó hatóság vezeti az alapvető szolgáltatásokat nyújtó szereplők jegyzékét.
+
+(5) A nyilvántartó hatóság törli az alapvető szolgáltatásokat nyújtó szereplők jegyzékéből az üzemeltetőt, ha az ágazati kijelölő hatóság dönt a nemzeti létfontosságú rendszerelemmé kijelölés visszavonásáról.
+
+(6) A nyilvántartó hatóság kétévente, az Európai Bizottságnak történő jelentést megelőzően felülvizsgálja és szükség szerint pontosítja az alapvető szolgáltatásokat nyújtó szereplők jegyzékét.
 
 #### 3. Az európai létfontosságú rendszerelemek kijelölése
 
@@ -210,7 +234,15 @@ kezeli.
 
 (3) A 3. melléklet 2014. január 1-jén lép hatályba.
 
+15/A. § (1) Az üzemeltető a belügyi feladatokat érintő és más kapcsolódó törvények módosításáról szóló 2017. évi CXXXIV. törvény (a továbbiakban: Tv1.) hatálybalépésekor már kijelölt nemzeti létfontosságú rendszereleme tekintetében a Tv1. hatálybalépését követő hatvan napon belül kiegészítést nyújt be az ágazati kijelölő hatóságnak az azonosítási jelentéséhez, amelyben nyilatkozik a 2/A. § (2) bekezdés b) és c) pontja szerinti kritériumoknak történő megfelelésről.
+
+(2) Az üzemeltető mentesül az (1) bekezdés szerinti azonosítási jelentés kiegészítés alól, ha az alágazata tekintetében a 4. melléklet nem mutat ki megfeleltetést.
+
+(3) Az ágazati kijelölő hatóság az (1) bekezdés szerinti azonosítási jelentés kiegészítés és a rendelkezésére álló üzemeltetői biztonsági terv alapján az azonosítási jelentés kiegészítés benyújtását követő 30 napon belül dönt az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.
+
 16. § Ez a törvény az európai kritikus infrastruktúrák azonosításáról és kijelöléséről, valamint védelmük javítása szükségességének értékeléséről szóló, 2008. december 8-i 2008/114/EK tanácsi irányelvnek való megfelelést szolgálja.
+
+17. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2012. évi CLXVI. törvényhez
 
@@ -267,3 +299,48 @@ kezeli.
 | 40 | igazságszolgáltatás |
 | 41 | Közbiztonság – Védelem | rendvédelmi szervek infrastruktúrái |
 | 42 | Honvédelem | honvédelmi rendszerek és létesítmények |
+
+### 4. melléklet a 2012. évi CLXVI. törvényhez
+
+#### A törvény szerinti és a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i (EU) 2016/1148 európai parlamenti és tanácsi irányelv szerinti ágazatok, illetve alágazatok megfeleltetése
+
+|  | ÁGAZAT | ALÁGAZAT | A 2016/1148 EURÓPAI PARLAMENTI ÉS TANÁCSI IRÁNYELV SZERINTI ÁGAZAT VAGY ALÁGAZAT | MEGFELEL- TETÉS |
+| --- | --- | --- | --- | --- |
+| 1 | Energia | villamosenergia-rendszer létesítményei (kivéve az atomerőmű nukleáris biztonságára és sugárvédelmére, fizikai védelmére valamint biztosítéki felügyeletére vonatkozó szabályozás hatálya alá tartozó rendszerek és rendszerelemek) | Villamos energia | igen |
+| 2 |  | kőolajipar | Kőolaj | igen |
+| 3 |  | földgázipar | Földgáz | igen |
+| 4 | Közlekedés | közúti közlekedés | Közúti közlekedés | igen |
+| 5 |  | vasúti közlekedés | Vasúti közlekedés | igen |
+| 6 |  | légi közlekedés | Légi közlekedés | igen |
+| 7 |  | vízi közlekedés | Vízi közlekedés | igen |
+| 8 |  | logisztikai központok |  |  |
+| 9 | Agrárgazdaság | mezőgazdaság |  |  |
+| 10 |  | élelmiszeripar |  |  |
+| 11 |  | elosztó hálózatok |  |  |
+| 12 | Egészségügy | aktív fekvőbeteg-ellátás | Egészségügyi ellátó létesítmények (beleértve a kórházakat és a magánklinikákat is) | igen |
+| 13 |  | mentésirányítás | igen |
+| 14 |  | egészségügyi tartalékok és vérkészletek | igen |
+| 15 |  | magas biztonsági szintű biológiai laboratóriumok |  |  |
+| 16 |  |  |  |  |
+| 16a |  | gyógyszer-nagykereskedelem |  |  |
+| 16b | Társadalombiztosítás | társadalombiztosítási ellátások igénybevételéhez kapcsolódó informatikai rendszerek és nyilvántartások |  |  |
+| 17 | Pénzügy | pénzügyi eszközök kereskedelmi, fizetési, valamint klíring- és elszámolási infrastruktúrái és rendszerei | Pénzügyi piaci infrastruktúrák | igen |
+| 18 |  | bank- és hitelintézeti biztonság | Banki szolgáltatások | igen |
+| 19 |  | készpénzellátás |  |  |
+| 26 | Infokommunikációs technológiák | internet-infrastruktúra és internet hozzáférés szolgáltatás | Digitális infrastruktúra | igen |
+| 27 |  | vezetékes és vezeték nélküli elektronikus hírközlési szolgáltatások, vezetékes és vezeték nélküli hírközlő hálózatok |  |  |
+| 28 |  | rádiós távközlés |  |  |
+| 29 |  | űrtávközlés |  |  |
+| 30 |  | műsorszórás |  |  |
+| 31 |  | postai szolgáltatások |  |  |
+| 32 |  | kormányzati informatikai, elektronikus hálózatok |  |  |
+| 33 | Víz | ivóvíz-szolgáltatás | Ivóvízellátás és -elosztás | igen |
+| 34 |  | felszíni és felszín alatti vizek minőségének ellenőrzése |  |  |
+| 35 |  | szennyvízelvezetés és -tisztítás |  |  |
+| 36 |  | vízbázisok védelme |  |  |
+| 37 |  | árvízi védművek, gátak |  |  |
+| 38 | Jogrend – Kormányzat | kormányzati rendszerek, létesítmények, eszközök |  |  |
+| 39 |  | közigazgatási szolgáltatások |  |  |
+| 40 |  | igazságszolgáltatás |  |  |
+| 41 | Közbiztonság – Védelem | rendvédelmi szervek infrastruktúrái |  |  |
+| 42 | Honvédelem | honvédelmi rendszerek és létesítmények |  |  |
