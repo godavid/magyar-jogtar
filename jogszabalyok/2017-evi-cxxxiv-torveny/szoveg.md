@@ -46,67 +46,7 @@ a belügyi feladatokat érintő és más kapcsolódó törvények módosításá
 
 #### 8. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
-15. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ekertv.) 2. §-a a következő j) ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„j) bejelentés-köteles szolgáltatás: olyan információs társadalommal összefüggő szolgáltatás – ide nem értve az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 2. § (2) bekezdésének a) és b) pontja hatálya alá tartozók által nyújtott szolgáltatásokat –, amely
-
-ja) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv 4. cikke (1) bekezdés a) és b) pontjában meghatározott fogyasztók, illetve kereskedők számára lehetővé teszi, hogy az online piactér weboldalán vagy valamely kereskedőnek az online piactér által nyújtott számítástechnikai szolgáltatásokat felhasználó weboldalán keresztül online adásvételi vagy szolgáltatási szerződéseket kössenek (online piactér),
-
-jb) az l) pont ld) alpontja szerinti szolgáltatás,
-
-jc) távoli hozzáférést tesz lehetővé a többek között hálózati funkciókat, adattárolást, alkalmazások, szolgáltatások futtatását biztosító számítástechnikai megoldásokhoz (felhőalapú számítástechnikai szolgáltatás).”
-
-16. § Az Ekertv. a 6. §-t követően a következő alcímmel és 6/A–6/D. §-sal egészül ki:
-
-„A bejelentés-köteles szolgáltatásokra vonatkozó különös szabályok
-
-6/A. § (1) A bejelentés-köteles szolgáltatások nyújtói megteszik a megfelelő intézkedéseket arra, hogy az általuk használt hálózati és információs rendszerekkel összefüggésben a biztonsági események bekövetkezését megelőzzék, hatásukat csökkentsék, illetve bekövetkezés esetén azokat kezeljék.
-
-(2) A Kormány rendeletben állapítja meg a bejelentés-köteles szolgáltatások hálózati és információs rendszereinek biztonságára vonatkozó alapvető követelményeket.
-
-(3) A bejelentés-köteles szolgáltatások nyújtóiról a Kormány által rendeletben kijelölt hatóság nyilvántartást vezet.
-
-6/B. § (1) A bejelentés-köteles szolgáltatást nyújtók haladéktalanul bejelentik a Kormány által rendeletben kijelölt eseménykezelő központ (a továbbiakban: eseménykezelő központ) részére az olyan biztonsági eseményeket, amelyek jelentős hatást gyakorolnak szolgáltatásuk nyújtására.
-
-(2) A Kormány a bejelentés-köteles jelentős biztonsági eseményekre vonatkozóan, valamint a bejelentéssel és a bejelentést fogadó eseménykezelő központ eljárásával kapcsolatban rendeletben részletes szabályokat állapít meg.
-
-(3) A bejelentés-köteles szolgáltatások nyújtói számára előírt követelmények teljesülését a Kormány által rendeletben kijelölt hatóság ellenőrzi.
-
-6/C. § A Kormány által rendeletben kijelölt hatóság a kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a bejelentés-köteles szolgáltatást nyújtó elmulasztja
-
-a) a Kormány által rendeletben kijelölt hatóság által vezetett nyilvántartásába történő regisztrációt,
-
-b) a Kormány által rendeletben kijelölt hatóság részére a hálózati és információs rendszereit érintő biztonsági események bejelentését,
-
-c) a Kormány által rendeletben megállapított alapvető követelmények teljesítését,
-
-d) a b) pont szerint bejelentett esemény kezelését lezáró hatósági döntésben foglaltak teljesítését.
-
-6/D. § A 6/A–6/C. §-ban szereplő rendelkezéseket nem kell alkalmazni az olyan bejelentés-köteles szolgáltatások esetében, amelyeket mikro- és kisvállalkozásként nyújtanak.”
-
-17. § Az Ekertv. 17. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Felhatalmazást kap a Kormány, hogy
-
-a) rendeletben állapítsa meg a bejelentés-köteles szolgáltatások hálózati és információs rendszereinek biztonságára vonatkozó alapvető követelményeket,
-
-b) rendeletben jelölje ki a 6/B. § (1) bekezdése szerinti bejelentést fogadó eseménykezelő központot és állapítsa meg hatáskörét, feladatait, eljárásrendjét,
-
-c) rendeletben állapítsa meg a 6/B. § szerinti jelentős biztonsági eseményekre vonatkozó, valamint a 6/B. § szerinti bejelentéssel összefüggő részletes szabályokat,
-
-d) rendeletben jelölje ki a 6/B. § (3) bekezdése szerinti hatóságot és állapítsa meg hatáskörét, feladatait, eljárásrendjét,
-
-e) rendeletben jelölje ki a nyilvántartó hatóságot, állapítsa meg a nyilvántartás vezetésére, a nyilvántartásba veendő adatok körére, az adatok törlésére vonatkozó részletes eljárási szabályokat,
-
-f) rendeletben határozza meg a 6/C. § szerint kiszabható közigazgatási bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.”
-
-18. § Az Ekertv. 18. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
-
-„e) az Európai Parlament és a Tanács (EU) 2016/1148 irányelve (2016. július 6.) a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről.”
+15–18. §
 
 #### 9. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
@@ -142,63 +82,11 @@ f) rendeletben határozza meg a 6/C. § szerint kiszabható közigazgatási bír
 
 #### 17. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
 
-41. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 1. §-a a következő i)–k) ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„i) hálózati és információs rendszer:
-
-ia) az elektronikus hírközlő hálózat,
-
-ib) minden olyan eszköz vagy egymással összekapcsolt vagy kapcsolatban álló eszközök csoportja, amelyek közül egy vagy több valamely program alapján digitális adatok automatizált kezelését végzi, vagy
-
-ic) az ia) és ib) alpontban szereplő elemek által működésük, használatuk, védelmük és karbantartásuk céljából tárolt, kezelt, visszakeresett vagy továbbított digitális adatok,
-
-j) biztonsági esemény: minden olyan esemény, amely ténylegesen kedvezőtlen hatást gyakorol a hálózati és információs rendszerek biztonságára,
-
-k) biztonsági esemény kezelése: a biztonsági események észlelését, elemzését és elszigetelését, valamint a rájuk való reagálást támogató eljárások.”
-
-42. § Az Lrtv. a következő 2/A. alcímmel egészül ki:
-
-„2/A. Az alapvető szolgáltatásokat nyújtó szereplők kijelölése és nyilvántartása
-
-2/A. § (1) Az ágazati kijelölő hatóság a 2. § szerinti eljárás során jelöli ki az alapvető szolgáltatást nyújtó szereplőket.
-
-(2) A kijelölt nemzeti létfontosságú rendszerelem üzemeltetője alapvető szolgáltatásokat nyújtó szereplőnek minősül, ha
-
-a) az 1–3. melléklet alapján meghatározott alágazata a 4. melléklet alapján megfeleltethető a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i (EU) 2016/1148 európai parlamenti és tanácsi irányelv szerinti valamely ágazatnak vagy alágazatnak,
-
-b) az általa nyújtott szolgáltatás nyújtása hálózati és információs rendszerektől függ, és
-
-c) az általa nyújtott szolgáltatást érintő biztonsági esemény jelentős zavart okozna az általa nyújtott szolgáltatás biztosításában.
-
-(3) Az ágazati kijelölő hatóság a nemzeti létfontosságú rendszerelemmé kijelölő határozatban rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.
-
-(4) A nyilvántartó hatóság vezeti az alapvető szolgáltatásokat nyújtó szereplők jegyzékét.
-
-(5) A nyilvántartó hatóság törli az alapvető szolgáltatásokat nyújtó szereplők jegyzékéből az üzemeltetőt, ha az ágazati kijelölő hatóság dönt a nemzeti létfontosságú rendszerelemmé kijelölés visszavonásáról.
-
-(6) A nyilvántartó hatóság kétévente, az Európai Bizottságnak történő jelentést megelőzően felülvizsgálja és szükség szerint pontosítja az alapvető szolgáltatásokat nyújtó szereplők jegyzékét.”
-
-43. § Az Lrtv. a következő 15/A. §-sal egészül ki:
-
-„15/A. § (1) Az üzemeltető a belügyi feladatokat érintő és más kapcsolódó törvények módosításáról szóló 2017. évi CXXXIV. törvény (a továbbiakban: Tv1.) hatálybalépésekor már kijelölt nemzeti létfontosságú rendszereleme tekintetében a Tv1. hatálybalépését követő hatvan napon belül kiegészítést nyújt be az ágazati kijelölő hatóságnak az azonosítási jelentéséhez, amelyben nyilatkozik a 2/A. § (2) bekezdés b) és c) pontja szerinti kritériumoknak történő megfelelésről.
-
-(2) Az üzemeltető mentesül az (1) bekezdés szerinti azonosítási jelentés kiegészítés alól, ha az alágazata tekintetében a 4. melléklet nem mutat ki megfeleltetést.
-
-(3) Az ágazati kijelölő hatóság az (1) bekezdés szerinti azonosítási jelentés kiegészítés és a rendelkezésére álló üzemeltetői biztonsági terv alapján az azonosítási jelentés kiegészítés benyújtását követő 30 napon belül dönt az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.”
-
-44. § Az Lrtv. a következő 17. §-sal egészül ki:
-
-„17. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
-
-45. § Az Lrtv. az 1. melléklet szerinti 4. melléklettel egészül ki.
+41–45. §
 
 #### 18. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló2013. évi L. törvény módosítása
 
-46. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény a következő 29. §-sal egészül ki:
-
-„29. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+46. §
 
 #### 19. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
@@ -403,50 +291,3 @@ b) a vízkivételt biztosító vízilétesítmények engedélyezési eljárása 
 94. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2017. évi CXXXIV. törvényhez
-
-„4. melléklet a 2012. évi CLXVI. törvényhez
-
-A törvény szerinti és a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i (EU) 2016/1148 európai parlamenti és tanácsi irányelv szerinti ágazatok, illetve alágazatok megfeleltetése
-
-|  | ÁGAZAT | ALÁGAZAT | A 2016/1148 EURÓPAI PARLAMENTI ÉS TANÁCSI IRÁNYELV SZERINTI ÁGAZAT VAGY ALÁGAZAT | MEGFELEL- TETÉS |
-| --- | --- | --- | --- | --- |
-| 1 | Energia | villamosenergia-rendszer létesítményei (kivéve az atomerőmű nukleáris biztonságára és sugárvédelmére, fizikai védelmére valamint biztosítéki felügyeletére vonatkozó szabályozás hatálya alá tartozó rendszerek és rendszerelemek) | Villamos energia | igen |
-| 2 |  | kőolajipar | Kőolaj | igen |
-| 3 |  | földgázipar | Földgáz | igen |
-| 4 | Közlekedés | közúti közlekedés | Közúti közlekedés | igen |
-| 5 |  | vasúti közlekedés | Vasúti közlekedés | igen |
-| 6 |  | légi közlekedés | Légi közlekedés | igen |
-| 7 |  | vízi közlekedés | Vízi közlekedés | igen |
-| 8 |  | logisztikai központok |  |  |
-| 9 | Agrárgazdaság | mezőgazdaság |  |  |
-| 10 |  | élelmiszeripar |  |  |
-| 11 |  | elosztó hálózatok |  |  |
-| 12 | Egészségügy | aktív fekvőbeteg-ellátás | Egészségügyi ellátó létesítmények (beleértve a kórházakat és a magánklinikákat is) | igen |
-| 13 |  | mentésirányítás | igen |
-| 14 |  | egészségügyi tartalékok és vérkészletek | igen |
-| 15 |  | magas biztonsági szintű biológiai laboratóriumok |  |  |
-| 16 |  |  |  |  |
-| 16a |  | gyógyszer-nagykereskedelem |  |  |
-| 16b | Társadalombiztosítás | társadalombiztosítási ellátások igénybevételéhez kapcsolódó informatikai rendszerek és nyilvántartások |  |  |
-| 17 | Pénzügy | pénzügyi eszközök kereskedelmi, fizetési, valamint klíring- és elszámolási infrastruktúrái és rendszerei | Pénzügyi piaci infrastruktúrák | igen |
-| 18 |  | bank- és hitelintézeti biztonság | Banki szolgáltatások | igen |
-| 19 |  | készpénzellátás |  |  |
-| 26 | Infokommunikációs technológiák | internet-infrastruktúra és internet hozzáférés szolgáltatás | Digitális infrastruktúra | igen |
-| 27 |  | vezetékes és vezeték nélküli elektronikus hírközlési szolgáltatások, vezetékes és vezeték nélküli hírközlő hálózatok |  |  |
-| 28 |  | rádiós távközlés |  |  |
-| 29 |  | űrtávközlés |  |  |
-| 30 |  | műsorszórás |  |  |
-| 31 |  | postai szolgáltatások |  |  |
-| 32 |  | kormányzati informatikai, elektronikus hálózatok |  |  |
-| 33 | Víz | ivóvíz-szolgáltatás | Ivóvízellátás és -elosztás | igen |
-| 34 |  | felszíni és felszín alatti vizek minőségének ellenőrzése |  |  |
-| 35 |  | szennyvízelvezetés és -tisztítás |  |  |
-| 36 |  | vízbázisok védelme |  |  |
-| 37 |  | árvízi védművek, gátak |  |  |
-| 38 | Jogrend – Kormányzat | kormányzati rendszerek, létesítmények, eszközök |  |  |
-| 39 |  | közigazgatási szolgáltatások |  |  |
-| 40 |  | igazságszolgáltatás |  |  |
-| 41 | Közbiztonság – Védelem | rendvédelmi szervek infrastruktúrái |  |  |
-| 42 | Honvédelem | honvédelmi rendszerek és létesítmények |  |  |
-
-”
