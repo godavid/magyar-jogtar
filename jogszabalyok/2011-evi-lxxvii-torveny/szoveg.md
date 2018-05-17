@@ -235,7 +235,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 | --- | --- | --- |
 | 1 | Világörökségi helyszín | Egyetértő miniszter |
 | 2 | Budapest – a Duna-partok, a Budai Várnegyed és az Andrássy út | állami vagyon felügyeletéért felelős miniszter |
-| 3 | építésügyért felelős miniszter |
+| 3 | építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter |
 | 4 | európai uniós források felhasználásáért felelős miniszter |
 | 5 | közigazgatás-szervezésért felelős miniszter |
 | 6 | természetvédelemért felelős miniszter |
@@ -243,7 +243,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 | 8 | településfejlesztésért és településrendezésért felelős miniszter |
 | 9 | turizmusért felelős miniszter |
 | 10 | Hollókő ófalu és környezete | agrárpolitikáért felelős miniszter |
-| 11 | építésügyért felelős miniszter |
+| 11 | építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter |
 | 12 | európai uniós források felhasználásáért felelős miniszter |
 | 13 | közigazgatás-szervezésért felelős miniszter |
 | 14 | természetvédelemért felelős miniszter |
@@ -256,7 +256,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 | 21 | területrendezésért felelős miniszter |
 | 22 | településfejlesztésért és településrendezésért felelős miniszter |
 | 23 | turizmusért felelős miniszter |
-| 24 | Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete | építésügyért felelős miniszter |
+| 24 | Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete | építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter |
 | 25 | európai uniós források felhasználásáért felelős miniszter |
 | 26 | közigazgatás-szervezésért felelős miniszter |
 | 27 | természetvédelemért felelős miniszter |
@@ -264,21 +264,21 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 | 29 | településfejlesztésért és településrendezésért felelős miniszter |
 | 30 | turizmusért felelős miniszter |
 | 31 | Hortobágyi Nemzeti Park – a Puszta | agrárpolitikáért felelős miniszter |
-| 32 | építésügyért felelős miniszter |
+| 32 | építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter |
 | 33 | európai uniós források felhasználásáért felelős miniszter |
 | 34 | közigazgatás-szervezésért felelős miniszter |
 | 35 | természetvédelemért felelős miniszter |
 | 36 | területrendezésért felelős miniszter |
 | 37 | településfejlesztésért és településrendezésért felelős miniszter |
 | 38 | turizmusért felelős miniszter |
-| 39 | Pécs (Sopianae) ókeresztény temetője | építésügyért felelős miniszter |
+| 39 | Pécs (Sopianae) ókeresztény temetője | építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter |
 | 40 | európai uniós források felhasználásáért felelős miniszter |
 | 41 | közigazgatás-szervezésért felelős miniszter |
 | 42 | területrendezésért felelős miniszter |
 | 43 | településfejlesztésért és településrendezésért felelős miniszter |
 | 44 | turizmusért felelős miniszter |
 | 45 | Fertő/Neusiedlersee kultúrtáj (röviden: Fertő-táj) | agrárpolitikáért felelős miniszter |
-| 46 | építésügyért felelős miniszter |
+| 46 | építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter |
 | 47 | európai uniós források felhasználásáért felelős miniszter |
 | 48 | közigazgatás-szervezésért felelős miniszter |
 | 49 | természetvédelemért felelős miniszter |
@@ -286,7 +286,7 @@ Az Országgyűlés az Egyesült Nemzetek Oktatási, Tudományos és Kulturális 
 | 51 | településfejlesztésért és településrendezésért felelős miniszter |
 | 52 | turizmusért felelős miniszter |
 | 53 | Tokaj-hegyaljai történelmi borvidék kultúrtáj | agrárpolitikáért felelős miniszter |
-| 54 | építésügyért felelős miniszter |
+| 54 | építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter |
 | 55 | európai uniós források felhasználásáért felelős miniszter |
 | 56 | közigazgatás-szervezésért felelős miniszter |
 | 57 | természetvédelemért felelős miniszter |
