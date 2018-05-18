@@ -401,7 +401,7 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a jogszabályszerkesztés részletes szabályait.
 
-(3) Felhatalmazást kap a kormányzati tevékenység összehangolásáért felelős miniszter, hogy rendeletben határozza meg az előzetes és az utólagos hatásvizsgálat részletes szabályait.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg az előzetes és az utólagos hatásvizsgálat részletes szabályait.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 

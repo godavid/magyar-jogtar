@@ -168,7 +168,7 @@ minősítési szintű.
 
 (4) A minősítésre jogosult személy az általa minősítői jogkörrel felruházott személyek minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
-(5) A legfőbb ügyész az ügyészség vezetője, a miniszterelnök a miniszterelnöki biztos, a kormányzati tevékenység összehangolásáért felelős miniszter a kormánybiztos, a Kormány tagja – felügyeleti jogkörében – a kormányhivatal vezetője minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
+(5) A legfőbb ügyész az ügyészség vezetője, a miniszterelnök a miniszterelnöki biztos és a kormánybiztos, a Kormány tagja – felügyeleti jogkörében – a kormányhivatal vezetője minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
 (6) A felülvizsgálat és a felülbírálat során a minősítési eljárás szabályai szerint kell eljárni.
 

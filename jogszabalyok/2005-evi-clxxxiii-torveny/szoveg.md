@@ -1324,7 +1324,7 @@ biztosítható.
 
 67/U. § (1) A VPSZ egyszemélyes gazdasági társaság, kizárólagos tulajdonosa a magyar állam.
 
-(2) A tulajdonosi jogokat a magyar állam nevében a miniszter gyakorolja.
+(2) A tulajdonosi jogokat a magyar állam nevében az állami vagyon felügyeletéért felelős miniszter gyakorolja.
 
 (3) A VPSZ működési engedélyt nem szerezhet és vasúti társaságban sem közvetlen, sem közvetett módon nem szerezhet tulajdonrészt, továbbá vasúti társasággal és annak kapcsolt vállalkozásával jogviszonyt – az e törvényben meghatározott feladatainak teljesítésével összefüggő jogviszonyok kivételével – csak a vasúti igazgatási szerv előzetes hozzájárulásával létesíthet.
 
@@ -2422,7 +2422,7 @@ rendeletben állapítsa meg.
 - 21. a vasúti igazgatási szerv részére fizetendő felügyeleti díj megfizetésének módját és feltételeit tartalmazó anyagi jogi szabályokat,
 - 22. a vasúti közlekedés biztonságára és a biztonsági szabályzatokra, valamint azok hatósági jóváhagyására vonatkozó anyagi jogi szabályokat,
 - 23. a vasúti járművezetői engedély és tanúsítvány kiadására, megszerzésére, és alkalmazására vonatkozó anyagi jogi szabályokat,
-- 24. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben,
+- 24. a vasúti pálya más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben,
 - 25. az átjárhatósági műszaki előírások keretében alkalmazandó megfelelőségértékelési, alkalmazhatósági és EK-hitelesítési eljárások moduljaira vonatkozó részletes szabályokat,
 - 26. a vasútépítési projektek, illetve a 44. § szerinti létesítési, felújítási, fejlesztési tevékenységek során létrejövő állami vagyon átadásával, elszámolásával, az ezzel kapcsolatos adatszolgáltatással, valamint építtetői feladatokkal kapcsolatos részletes szabályokat,
 - 27. a vasúti pálya és tartozékai tervezésének, kivitelezésének, üzembe helyezésének és üzemeltetésének részletes műszaki szabályait,

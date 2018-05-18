@@ -343,7 +343,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - c) előzetesen véleményezi az országos, valamint a kiemelt térséget érintő ágazati fejlesztési koncepciókat és programokat, és
 - d) figyelemmel kíséri az operatív programok kiemelt térségben jelentkező feladatainak végrehajtását, külön döntés alapján közreműködik azok végrehajtásában.
 
-(16) A Tokaj Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaj Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter egy-egy képviselője.
+(16) A Tokaj Borvidék Fejlesztési Tanács tagjai a tanács illetékességi területén működő megyei közgyűlés elnöke, az érintett megyei közgyűlés egy képviselője, Tokaj Borvidék Hegyközségi Tanácsa elnöke, Tokaj Kereskedőház Felügyelő Bizottságának elnöke továbbá a területfejlesztés stratégiai tervezéséért felelős miniszter és az általános politikai koordinációért felelős miniszter egy-egy képviselője.
 
 15/A. §
 

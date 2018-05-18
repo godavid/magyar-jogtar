@@ -78,7 +78,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 - c) jóváhagyja az engedélyezési hatáskörébe tartozó engedélyes átalakulását, valamint az engedélyesekben történő befolyásszerzés, illetőleg a jegyzett tőke értékének változását;
 - d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat;
 - e) ellátja a távhőszolgáltatási támogatással összefüggő, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatokat; és
-- f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a kormányzati tevékenység összehangolásáért felelős minisztert a hatósági ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról;
+- f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a közigazgatás-szervezésért felelős minisztert a hatósági ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról;
 - g) elvégzi a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
 
 (2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
