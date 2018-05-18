@@ -127,10 +127,14 @@ irányul.
 
 4/A. § (1) Az OKJ-ban meghatározott szakképesítésben és az ezeket megalapozó ágazati szakgimnáziumi képzésben államilag támogatott iskolai rendszerű szakképzés
 
-- a) – a (2) bekezdés szerinti miniszter, a honvédelemért felelős miniszter vagy a rendészetért felelős miniszter által alapított és fenntartott szakképző iskola, valamint a tankerületi központ által fenntartott szakképző iskola kivételével – kizárólag a szakképzésért és felnőttképzésért felelős miniszter által alapított és fenntartott köznevelési intézményben,
+- a) – a (2) és (2b) bekezdés szerinti miniszter, a honvédelemért felelős miniszter vagy a rendészetért felelős miniszter által alapított és fenntartott szakképző iskola, az állami felsőoktatási intézmény, valamint a tankerületi központ által fenntartott szakképző iskola kivételével – kizárólag a szakképzésért és felnőttképzésért felelős miniszter által alapított és fenntartott köznevelési intézményben,
 - b) nem állami fenntartó által fenntartott köznevelési intézményben folyhat.
 
 (2) Az OKJ-ban az agrárágazatba sorolt szakképesítésben és az ezeket megalapozó ágazati szakgimnáziumi képzésben államilag támogatott iskolai rendszerű szakképzés az agrárpolitikáért felelős miniszter, az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszeriparért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a földügyért felelős miniszter, a halgazdálkodásért felelős miniszter, az ingatlan-nyilvántartásért felelős miniszter, a környezetvédelemért felelős miniszter, a természetvédelemért felelős miniszter, a térképészetért felelős miniszter vagy a vadgazdálkodásért felelős miniszter hozzájárulása nélkül kizárólag az általa alapított és fenntartott szakképző iskolában folyhat. Az e bekezdés szerinti miniszter által fenntartott szakképző iskola az e bekezdés szerinti miniszter jogszabályban meghatározott feladatkörébe tartozó szakképesítés megszerzésére irányuló képzésen és az ezeket megalapozó ágazati szakgimnáziumi képzésen túli szakképzést csak az állami szakképzési és felnőttképzési szerv hozzájárulásával indíthat.
+
+(2a) Az OKJ-ban az Előadóművészet, a Képző- és iparművészet, valamint a Hang-, film és színháztechnika ágazatba sorolt szakképesítésben és az ezeket megalapozó ágazati képzésben államilag támogatott iskolai rendszerű szakképzés – az oktatásért felelős miniszter hozzájárulása nélkül – kizárólag az általa alapított és fenntartott szakképző iskolában folyhat.
+
+(2b) Az OKJ-ban az Egészségügy és az Egészségügyi technika ágazatba sorolt szakképesítésben és az ezeket megalapozó ágazati képzésben államilag támogatott, és egyéb iskolai rendszerű szakképzés, és vizsgáztatás kizárólag az egészségügyért felelős miniszter szakmai irányításával, egyetértésével, és hozzájárulásával folyhat. Az Egészségügy és az Egészségügyi technika ágazatban a szakképzések szakmai és módszertani fejlesztéséért az egészségügyért felelős miniszter felel.
 
 (3) Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a szakképesítésért felelős miniszter hozzájárulásával folytathat államilag támogatott iskolai rendszerű szakképzést, ha a 2014/2015. tanévben az OKJ-ban az agrárágazatba sorolt szakképzést indított.
 
@@ -673,7 +677,7 @@ kezeli.
 
 (3) A (2) bekezdés szerinti együttműködési megállapodást megkötő gyakorlati képzést folytató szervezet költségeinek megtérítésére a 84. § (4) bekezdésének szabályait kell alkalmazni.
 
-34/A. § (1) A 4/A. § (2) bekezdése szerinti miniszter – a 4/A. § (1) bekezdés b) pontjában meghatározott kivétellel –, a honvédelemért felelős miniszter és a rendészetért felelős miniszter által fenntartott szakképző iskola a nappali rendszerben kizárólag általuk oktatható szakképesítések és azokat megalapozó szakgimnáziumi ágazatok tekintetében kizárólagos jogosultsággal végezhet felnőttoktatást.
+34/A. § (1) A 4/A. § (2) és (2b) bekezdése szerinti miniszter – a 4/A. § (1) bekezdés b) pontjában meghatározott kivétellel –, a honvédelemért felelős miniszter, a rendészetért felelős miniszter, valamint az Egészségügy és az Egészségügyi technika ágazat tekintetében az állami felsőoktatási intézmény által fenntartott szakképző iskola a nappali rendszerben kizárólag általuk oktatható szakképesítések és azokat megalapozó szakgimnáziumi ágazatok tekintetében kizárólagos jogosultsággal végezhet felnőttoktatást.
 
 (2) A nem állami fenntartó által fenntartott szakképző iskolában folyó felnőttoktatásban részt vevők létszáma nem haladhatja meg a nappali rendszerű oktatásban részt vevő tanulók – hivatalos októberi statisztikai létszám alapján három tanítási év átlagában számított – létszámát. A felnőttoktatásban részt vevők létszámába nem számít bele a 84. § (5) bekezdés szerinti döntésben foglaltakat meghaladó, állami intézményfenntartótól kizárólag felnőttoktatás céljára átvett keretszámmal megegyező létszám.
 
@@ -1456,7 +1460,7 @@ köteles fizetni.
 
 (5d) A Kormány (5) bekezdés c) pontja szerinti, a keretszámok fenntartónkénti elosztására vonatkozóan megyénként és a fővárosra tekintettel hozott döntését az iskolai rendszerű szakképzés tekintetében az (5a)–(5c) bekezdés alapján tett javaslatok alapján hozza meg az érintett tanévet megelőző év szeptember utolsó munkanapjáig. A Kormány (5) bekezdés szerinti döntése nem terjed ki a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre.
 
-(6) A nem állami fenntartó a szakképzésért és felnőttképzésért felelős miniszterrel – az OKJ-ban meghatározott, agrárágazathoz tartozó szakképesítések és az azokat megalapozó szakgimnáziumi ágazatok esetében a 4/A. § (2) bekezdése szerinti miniszter egyetértésével – kötött szakképzési megállapodás alapján vehet részt az iskolai rendszerű szakképzési állami feladatok megvalósításában.
+(6) A nem állami fenntartó a szakképzésért és felnőttképzésért felelős miniszterrel – az OKJ-ban meghatározott, Agrár-, az Egészségügy és az Egészségügyi technika ágazathoz tartozó szakképesítések és az azokat megalapozó szakgimnáziumi ágazatok esetében a 4/A. § (2) és (2b) bekezdése szerinti miniszter egyetértésével – kötött szakképzési megállapodás alapján vehet részt az iskolai rendszerű szakképzési állami feladatok megvalósításában.
 
 (7) Az iskolai rendszerű szakképzésben ellátott feladatok után a szakképző iskola nem állami fenntartója akkor jogosult költségvetési hozzájárulásra, ha az adott feladatra szakképzési megállapodást kötött, vagy ha a fővárosban vagy a megyében e törvény vagy a nemzeti köznevelésről szóló törvény alapján szakképzési feladatellátási kötelezettsége van.
 
@@ -1713,7 +1717,7 @@ kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
 
 (36) A 4/A. § (1) bekezdés b) pontjában meghatározott szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket és a 2013/2014-es tanévre 2013. szeptember 1-je előtt beiskolázott tanulókat érintő képzéseket a szakképző iskola fenntartói jogainak az agrárpolitikáért felelős miniszternek történő átadása és szakképzési megállapodás megkötése nélkül is befejezheti.
 
-(37)
+(37) E törvénynek a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvénnyel megállapított 4/A. § (1), (2a) és (2b) bekezdését, 34/A. §-át, 84. § (6) bekezdését a 2018/2019. tanévtől kell alkalmazni.
 
 92/A. § (1) A Kt. és az Szt. szabályai szerint induló szakiskolai képzésben szervezett szintvizsgát az e törvény hatálybalépése előtti szabályok és a képzésre vonatkozó szakmai és vizsgakövetelményben meghatározottak szerint kell megszervezni. Az e bekezdésben meghatározott szakiskolai képzésben részt vevő tanuló a tizedik évfolyamtól az e bekezdésben meghatározott szakmai és vizsgakövetelményben előírt szintvizsga teljesítését megelőzően is részt vehet – tanulószerződés vagy együttműködési megállapodás keretében folyó – gyakorlati képzésben olyan gyakorlati képzőhelyen is, amely nem minősül kizárólag gyakorlati képzési célt szolgáló tanműhelynek. Az e bekezdésben meghatározott szakiskolai képzésben részt vevő kilencedik évfolyamos tanulóra alkalmazni kell a 26. § (1) bekezdésében foglaltakat.
 

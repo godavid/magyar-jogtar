@@ -865,7 +865,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 - a) az egészségügyért felelős miniszter, hogy rendeletben hirdesse ki a képzés sikeres elvégzését tanúsító okiratok feltétel nélküli elismerésének szabályai alá tartozó általános orvosi, szakorvosi, ápolói, szülésznői, fogorvosi, fogszakorvosi és gyógyszerészi oklevelek és bizonyítványok megnevezését, az ezen okiratok birtokosaival azonos jogállású személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait,
 - b) az élelmiszerlánc-felügyeletért felelős miniszter, hogy rendeletben hirdesse ki az állatorvosi oklevelek megnevezését, az ezen okiratok birtokosaival azonos jogállású személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait,
-- c) az építésügyért felelős miniszter, hogy rendeletben hirdesse ki az okleveles építészmérnöki oklevelek megnevezését, az előző okirat birtokosaival azonos jogállás alá tartozó személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait.
+- c) az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, hogy rendeletben hirdesse ki az okleveles építészmérnöki oklevelek megnevezését, az előző okirat birtokosaival azonos jogállás alá tartozó személyek körét, valamint rendeletben állapítsa meg az elismerési eljárás részletes szabályait.
 
 (4) A hatáskörébe tartozó szabályozott szakmák esetében felhatalmazást kap a miniszter, hogy meghatározza az elismerhető vagy figyelembe vehető szakmai gyakornoki időszak időtartamát és az elismerés vagy figyelembevétel feltételeit.
 

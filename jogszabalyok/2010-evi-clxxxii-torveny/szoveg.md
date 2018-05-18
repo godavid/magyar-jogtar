@@ -56,7 +56,7 @@ a következő törvényt alkotja:
 
 #### 3. Az Alap pénzügyi forrásai
 
-4. § (1) Az Alappal – az e törvényben foglaltak figyelembevételével – négytagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt személy, az államháztartásért felelős miniszter által kijelölt személy, valamint a nemzetpolitikáért felelős államtitkár.
+4. § (1) Az Alappal – az e törvényben foglaltak figyelembevételével – négytagú bizottság (a továbbiakban: Bizottság) rendelkezik. A Bizottság tagja a nemzetpolitikáért felelős miniszter, a közigazgatás-szervezésért felelős miniszter által kijelölt személy, az államháztartásért felelős miniszter által kijelölt személy, valamint a nemzetpolitikáért felelős államtitkár.
 
 (2) Az Alap bevételei:
 
@@ -125,7 +125,7 @@ a következő törvényt alkotja:
 
 (1a) Ha az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve, a támogatás felhasználásának ellenőrzésével kapcsolatos feladatokat a Bizottság látja el.
 
-(2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a kormányzati tevékenység összehangolásáért felelős miniszter gyakorolja.
+(2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a nemzetpolitikáért felelős miniszter gyakorolja.
 
 (3) Az Alap kezelő szerve feladatainak hatékony ellátása érdekében a pályáztatási feladatok vagy azok egy részének ellátása érdekében más szervezetet is létrehozhat vagy megbízhat.
 

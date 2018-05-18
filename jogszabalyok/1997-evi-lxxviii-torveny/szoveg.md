@@ -94,25 +94,33 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 
 (3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait.
 
-(4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is – az építésügyért felelős miniszter (a továbbiakban: miniszter) útján gyakorolja.
+(4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is –
 
-5. § (1) A miniszter a központi szakmai irányítási, összehangolási és ellenőrzési feladatkörében:
+- a) a szabályozás, valamint a hatósági ügyek kapcsán az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter,
+- b) az építőipar fejlődésének elősegítése és támogatása érdekében az építésgazdaságért felelős miniszter útján gyakorolja.
+
+5. § (1) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a központi szakmai irányítási, összehangolási és ellenőrzési feladatkörében:
 
 - a) a nemzetgazdasági szempontból kiemelt jelentőségű építési beruházások megvalósításának elősegítése érdekében összehangolja az érintett közigazgatási szervek tevékenységét,
 - b) külön jogszabályok szerint
   - ba) összehangolja az építésügyi és az építésfelügyeleti hatóságok tevékenységét,
   - bb) ellátja az építésügyi és az építésfelügyeleti hatóságok, valamint az egyéb építésügyi igazgatási feladatot ellátó szervezet építésügyi igazgatási feladatainak szakmai irányítását, ennek keretében rendszeresen gondoskodik e szervezetek szakmai munkájának és a vonatkozó jogszabályok érvényesülésének helyszíni ellenőrzéséről,
-- c) ellátja az Országos Építésügyi Nyilvántartás (a továbbiakban: Nyilvántartás), valamint az Építésügyi Dokumentációs és Információs Központ (a továbbiakban: Dokumentációs Központ) szakmai irányítását és felügyeletét,
-- d) elősegíti – a kulturális örökség védelméért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
-- e) részt vesz az építésügyet érintő felsőoktatási, szakirányú továbbképzési, oktatási képzési és szakképzési célok meghatározásában, azok tartalmának és képesítési követelményeinek kidolgozásában, továbbá kezdeményezési, véleményezési és egyetértési jogot gyakorol az erre vonatkozó jogszabályok előkészítésében,
-- f) a műemlékek és a sajátos építményfajtákért felelős miniszterek és önálló szabályozó szervek, valamint az építésügy területén érintett szakmai kamarák és az érintett felsőfokú oktatási és szakképzéssel foglalkozó intézmények javaslata alapján koordinálja, összefogja és irányítja az építésüggyel kapcsolatos szakmák gyakorlására vonatkozó szabályozás kialakítását,
-- g) ellátja a területi építész és mérnöki kamarák által vezetett, építésüggyel összefüggő szakmagyakorlási jogosultságokhoz kapcsolódó eljárások és nyilvántartások, valamint a vállalkozó építőipari kivitelezői nyilvántartás szakmai felügyeletét,
-- h) érvényre juttatja az építésügyi ágazati és foglalkoztatási elvárásokat a képzési követelményekben az alap-, közép- és felsőfokú, valamint az iskolarendszeren kívüli oktatási, képzési intézményeknél és a társadalom más érintett szervezeteinél,
-- i) elősegíti – a természetvédelméért felelős miniszter bevonásával – a települési zöldfelületek megőrzését, fejlesztését és védelmét.
+- c) elősegíti – a kulturális örökség védelméért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
+- d) elősegíti – a természetvédelméért felelős miniszter bevonásával – a települési zöldfelületek megőrzését, fejlesztését és védelmét.
+
+(1a) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a központi szakmai irányítási, összehangolási és ellenőrzési feladatkörében ellátja az Országos Építésügyi Nyilvántartás (a továbbiakban: Nyilvántartás), valamint az Építésügyi Dokumentációs és Információs Központ (a továbbiakban: Dokumentációs Központ) szakmai irányítását és felügyeletét, azzal, hogy a Nyilvántartás és a Dokumentációs Központ igénybevételére az építésgazdaságért felelős miniszter is jogosult.
+
+(1b) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter a központi szakmai irányítási, összehangolási és ellenőrzési feladatkörében részt vesz az építésügyet érintő felsőoktatási, szakirányú továbbképzési, oktatási képzési és szakképzési célok meghatározásában, azok tartalmának és képesítési követelményeinek kidolgozásában, továbbá kezdeményezési, véleményezési és egyetértési jogot gyakorol az erre vonatkozó jogszabályok előkészítésében.
+
+(1c) Az építésgazdaságért felelős miniszter a központi szakmai irányítási, összehangolási és ellenőrzési feladatkörében:
+
+- a) a műemlékek és a sajátos építményfajtákért felelős miniszterek és önálló szabályozó szervek, valamint az építésügy területén érintett szakmai kamarák és az érintett felsőfokú oktatási és szakképzéssel foglalkozó intézmények javaslata alapján koordinálja, összefogja és irányítja az építésüggyel kapcsolatos szakmák gyakorlására vonatkozó szabályozás kialakítását,
+- b) ellátja a területi építész és mérnöki kamarák által vezetett, építésüggyel összefüggő szakmagyakorlási jogosultságokhoz kapcsolódó eljárások és nyilvántartások, valamint a vállalkozó építőipari kivitelezői nyilvántartás szakmai felügyeletét,
+- c) érvényre juttatja az építésügyi ágazati és foglalkoztatási elvárásokat a képzési követelményekben az alap-, közép- és felsőfokú, valamint az iskolarendszeren kívüli oktatási, képzési intézményeknél és a társadalom más érintett szervezeteinél.
 
 (2) Az építésügyi hatóság az építményekkel – beleértve a hatáskörébe tartozó sajátos építményfajtákkal és a műemléki védelem alatt álló építményekkel – kapcsolatos építési tevékenységgel összefüggő engedélyezési, kötelezési és ellenőrzési feladatai során az építményekre vonatkozó általános érvényű településrendezési és építési követelményeket juttatja érvényre. A sajátos építményfajtákkal és a műemléki védelem alatt álló építményekkel kapcsolatos építési tevékenység esetén a hatáskörrel rendelkező építésügyi hatóság a sajátos építményfajtákra és a műemlékekre vonatkozó jogszabályi követelményeket is érvényesíti.
 
-(3) A miniszter az (1) bekezdés és a 4. § (4) bekezdése szerinti feladatainak ellátása, az egységes és következetes szakmapolitikai irányítás megvalósítása érdekében az építésügyi szakmai érdek-képviseletek és az építésügyben érdekelt kormányzati szervek részvételével közreműködő, építésügyi konzultatív, javaslattevő és véleményező testületet működtet. A sajátos építményfajták és a műemlékek tekintetében illetékes miniszterek együttműködnek a miniszterrel az építésügyet közvetlenül érintő döntések előkészítésében.
+(3) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter az (1)–(1c) bekezdés és a 4. § (4) bekezdése szerinti feladatainak ellátása, az egységes és következetes szakmapolitikai irányítás megvalósítása érdekében az építésügyi szakmai érdekképviseletek és az építésügyben érdekelt kormányzati szervek részvételével közreműködő, építésügyi konzultatív, javaslattevő és véleményező testületet működtet. A sajátos építményfajták és a műemlékek tekintetében illetékes miniszterek együttműködnek az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel, valamint az építésgazdaságért felelős miniszterrel az építésügyet közvetlenül érintő döntések előkészítésében.
 
 (4) Az építészeti értékvédelem és az (5) bekezdésben felsorolt feladatok ellátása érdekében – e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – szakmai tanácsadó testületként településrendezési és építészeti-műszaki tervtanácsok működhetnek.
 
@@ -1048,7 +1056,7 @@ végzik.
 
 (5) Veszélyes állapotú építmények, épületszerkezetek jogszerűtlen építési tevékenységgel történő veszélyelhárítása vagy részleges elbontása esetén kiadott fennmaradási engedéllyel vagy bontás tudomásulvételével egyidejűleg az építésügyi hatóság a veszély elhárításához szükséges mértékű építési tevékenységre építésügyi bírságot nem szab ki.
 
-50. § (1) A miniszter által vezetett minisztérium költségvetési fejezetében az épített környezet alakításának és védelmének pénzügyi eszközökkel történő támogatására külön előirányzat szolgál.
+50. § (1) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter által vezetett minisztérium költségvetési fejezetében az épített környezet alakításának és védelmének pénzügyi eszközökkel történő támogatására külön előirányzat szolgál.
 
 (2) Az (1) bekezdésben meghatározott pénzügyi eszközök – jogszabályban meghatározott módon és mértékben – az alábbi építésügyi feladatok támogatására és finanszírozására használhatók fel:
 
@@ -1224,7 +1232,7 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (2) Az épített környezet alakításával és védelmével kapcsolatos feladatok ellátása során az állami és a helyi önkormányzati szervek együttműködnek az érintett szakmai kamarákkal és a társadalom más szervezeteivel.
 
-(3) A miniszter – jogszabályban felsorolt és részletezett – szakmai díjakat adományoz különösen az alábbi területeken:
+(3) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter – jogszabályban felsorolt és részletezett – szakmai díjakat adományoz különösen az alábbi területeken:
 
 - a) a kiemelkedő építészeti-műszaki alkotótevékenység, továbbá
 - b) az épített környezet alakításában, védelmében és fejlesztésében, a települési és építészeti értékek feltárásában, megőrzésében kifejtett eredményes és kiemelkedő munka, valamint
@@ -1232,7 +1240,7 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (4) A kulturális örökség védelméért felelős miniszter, valamint a sajátos építményfajták szerinti miniszterek külön jogszabályban meghatározott szakmai díjakat adományoznak.
 
-(5) Az e törvényben megállapított szakmagyakorlási tevékenységeket érintő feladatok ellátása során a miniszter együttműködik a felsőoktatásban folyó képzési és fejlesztési kérdésekben az állami hatáskörök ellátásában közreműködő testületekkel – különösen a Magyar Felsőoktatási Akkreditációs Bizottsággal, a Felsőoktatási Tervezési Testülettel, a Magyar Rektori Konferenciával –, az egyéb civil vagy érdekképviseleti szervezetekkel és a műszaki tudományos egyesületekkel.
+(5) Az e törvényben megállapított szakmagyakorlási tevékenységeket érintő feladatok ellátása során az építésgazdaságért felelős miniszter az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter bevonásával együttműködik a felsőoktatásban folyó képzési és fejlesztési kérdésekben az állami hatáskörök ellátásában közreműködő testületekkel – különösen a Magyar Felsőoktatási Akkreditációs Bizottsággal, a Felsőoktatási Tervezési Testülettel, a Magyar Rektori Konferenciával –, az egyéb civil vagy érdekképviseleti szervezetekkel és a műszaki tudományos egyesületekkel.
 
 (6) A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló 1996. évi LVIII. törvény (a továbbiakban: Kamtv.) 11. § (2) bekezdés j) pontjában meghatározott eseteken túl a Magyar Építész Kamara, illetve a Magyar Mérnöki Kamara jogosult a Kamtv. 1. § (1) bekezdésében meghatározott körben, valamint az építésügyi és építésfelügyeleti hatósági feladatot ellátó köztisztviselők és kormánytisztviselők, valamint állami tisztviselők esetében a külön kormányrendeletben meghatározott módon a felsőfokú végzettséget igazoló oklevél szakirányú kredittartalmának a megállapítására, ha az oklevélből a külön kormányrendeletben meghatározott munkakört megalapozó képzettségi szint – a kormányrendelet alapján – nem állapítható meg.
 
@@ -1252,9 +1260,9 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (5) Az olyan építési engedélyezési eljárásokban, amelyekben a Kormányhivatal e fejezet szerint szakhatóságként működött közre, másodfokú építésügyi hatósági hatáskörben nem járhat el, ilyen ügyekben e hatáskört a Heves Megyei Kormányhivatal látja el.
 
-57/D. § (1) A szakhatósági eljárás során a Kormányhivatal – az építési engedély iránti kérelem és mellékletei, illetve az előzetes szakhatósági hozzájárulás iránti kérelem megküldése mellett – beszerzi a miniszter, a kereskedelemért, a településfejlesztésért és településrendezésért, a környezetvédelemért, valamint a közlekedésért felelős miniszterek képviselőinek részvételével működő bizottság (a továbbiakban: Bizottság) véleményét. A Kormányhivatal a szakhatósági állásfoglalás kiadása során mérlegeli a Bizottságtól beszerzett véleményt.
+57/D. § (1) A szakhatósági eljárás során a Kormányhivatal – az építési engedély iránti kérelem és mellékletei, illetve az előzetes szakhatósági hozzájárulás iránti kérelem megküldése mellett – beszerzi az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, a kereskedelemért, a településfejlesztésért és településrendezésért, a környezetvédelemért, valamint a közlekedésért felelős miniszterek képviselőinek részvételével működő bizottság (a továbbiakban: Bizottság) véleményét. A Kormányhivatal a szakhatósági állásfoglalás kiadása során mérlegeli a Bizottságtól beszerzett véleményt.
 
-(2) A Bizottság öt tagból áll. A Bizottság tagja az (1) bekezdésben megjelölt miniszterek által kijelölt egy-egy személy, elnöke a miniszter által kijelölt személy.
+(2) A Bizottság öt tagból áll. A Bizottság tagja az (1) bekezdésben megjelölt miniszterek által kijelölt egy-egy személy, elnöke az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter által kijelölt személy.
 
 (3) A Bizottság a véleménye kialakítása során – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott részletes szempontok szerint – vizsgálja a tervezett kereskedelmi építménynek a létesítés helye szerinti településre és vonzáskörzetére gyakorolt környezeti, közlekedési és településfejlesztési hatásait, valamint az esetlegesen várható kedvezőtlen hatások megszüntetésére, elkerülésére, csökkentésére vonatkozóan a kérelmező által tervezett intézkedések megvalósíthatóságát.
 
@@ -1307,7 +1315,7 @@ kérelmező személy,
 
 (5)
 
-(6) A miniszter – kormányrendeletben meghatározott módon – a Nyilvántartás keretében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottak szerint építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (ÉTDR) működtet. A miniszter a szabálytalan építési tevékenység feltárására irányuló építésfelügyeleti tevékenységet támogató elektronikus építésügyi monitoring rendszert (ÉMO) működtet.
+(6) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter – kormányrendeletben meghatározott módon – a Nyilvántartás keretében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvényben meghatározottak szerint építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (ÉTDR) működtet, azzal, hogy annak igénybevételére az építésgazdaságért felelős miniszter is jogosult. Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter a szabálytalan építési tevékenység feltárására irányuló építésfelügyeleti tevékenységet támogató elektronikus építésügyi monitoring rendszert (ÉMO) működtet, azzal, hogy annak igénybevételére az építésgazdaságért felelős miniszter is jogosult.
 
 (7) A Nyilvántartás adatai megismerhetők és hozzáférhetők a külön törvényekben foglaltak figyelembevételével.
 
@@ -1317,7 +1325,7 @@ kérelmező személy,
 - b) az építmények és telkek állapotának, az építési folyamat végzésének, az építési folyamat résztvevői tevékenységének, szerződéses kötelezettsége teljesítésének ellenőrizhetősége, elmulasztásának (11) bekezdés szerinti szankcionálhatósága,,
 - c) az egyéb szakmai feladatok ellátásához, kötelezettségek teljesítéséhez, építésügyi érdekérvényesítéshez szükséges adatok és információk szolgáltatása.
 
-(9) Az építésügyért felelős állami vezető mint adatkezelő, kormányrendeletben meghatározottak szerint a Nyilvántartás keretein belül az építési folyamat alábbi résztvevőinek személyes adatait kezeli:
+(9) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter mint adatkezelő, kormányrendeletben meghatározottak szerint a Nyilvántartás keretein belül az építési folyamat alábbi résztvevőinek személyes adatait kezeli, azzal, hogy a Nyilvántartás igénybevételére az építésgazdaságért felelős miniszter is jogosult:
 
 - a) építtető, kötelezett,
 - b)
@@ -1365,7 +1373,7 @@ tartalmazza.
 - c) a települési önkormányzat, a fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a szakmai kamara és a (4) bekezdés szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
 - d) a szakmagyakorlók és az a)–c) pontba nem tartozó egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával ismerhetik meg.
 
-(3) A miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint
+(3) Az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter e törvényben és a felhatalmazása alapján kiadott kormányrendeletben meghatározottak szerint
 
 - a) a településfejlesztési, -rendezési és építésügyi dokumentációk országos központi tervtárának működtetéséről, fenntartásáról, fejlesztéséről, valamint a dokumentációk megőrzéséről és közérdekű hasznosításáról,
 - b) a Nyilvántartás működtetéséről, fenntartásáról és fejlesztéséről, valamint a fenntartást biztosító, a Nyilvántartás elektronikus alkalmazásai jogszabályban előírt kötelező használatának – a rendszerhasználattal arányos díj ellenében történő – biztosításáról,
@@ -1520,25 +1528,28 @@ rendeletben állapítsa meg.
 
 (1e) Felhatalmazást kap a Kormány arra, hogy a kötelező tervezői művezetés részletes szabályait, ennek keretében a tevékenységre vonatkozó szerződés egyes kötelező tartalmi elemeit (különös tekintettel a szerződés ellenértékére) rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter arra, hogy
+(2) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy
 
 - 1. a telekalakítás, a telekalakítási és építési tilalom elrendelése, továbbá a cseretelekadás részletes szakmai szabályait,
-- 2. az épületek energetikai jellemzőinek meghatározására vonatkozó szabályokat,
-- 3.
-- 4. a területek biológiai aktivitás értékének számítására vonatkozó részletes szabályokat – a környezetvédelemért felelős miniszterrel egyetértésben –,
-- 5. az igazgatási eljárásokban alkalmazandó telekár számításának szabályait,
-- 6. az Építőipari Ágazati Párbeszéd Bizottság ajánlásában a tárgyévre megállapított minimális építőipari rezsióradíj, vagy az ajánlás hiányában az előző évi minimális építőipari rezsióradíjnak a KSH által közzétett inflációs rátával növelt mértékét,
-- 7. az építésügyi műszaki irányelvek kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat rendelettel állapítsa meg.
+- 2. a területek biológiai aktivitás értékének számítására vonatkozó részletes szabályokat – a környezetvédelemért felelős miniszterrel egyetértésben –,
+- 3. az igazgatási eljárásokban alkalmazandó telekár számításának szabályait rendelettel állapítsa meg.
 
-(3) Felhatalmazást kap a miniszter arra, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg
+(2a) Felhatalmazást kap az építésgazdaságért felelős miniszter arra, hogy
 
-- 1. a szakmagyakorlási jogosultságok megállapításával, névjegyzékek vezetésével kapcsolatos igazgatási szolgáltatási díjak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
-- 2. az építésügyi és az építésfelügyeleti hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
-- 3. az építésügyi hatóságot szakkérdés vizsgálatáért megillető eljárási költségek körét, mértékét, annak beszedésével, kezelésével, nyilvántartásával kapcsolatos részletes szabályokat.
+- 1. az épületek energetikai jellemzőinek meghatározására vonatkozó szabályokat,
+- 2. az Építőipari Ágazati Párbeszéd Bizottság ajánlásában a tárgyévre megállapított minimális építőipari rezsióradíj, vagy az ajánlás hiányában az előző évi minimális építőipari rezsióradíjnak a KSH által közzétett inflációs rátával növelt mértékét,
+- 3. az építésügyi műszaki irányelvek kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat rendelettel állapítsa meg.
+
+(3) Felhatalmazást kap az építésgazdaságért felelős miniszter arra, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg a szakmagyakorlási jogosultságok megállapításával, névjegyzékek vezetésével kapcsolatos igazgatási szolgáltatási díjak beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat.
+
+(3a) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendelettel állapítsa meg
+
+- 1. az építésügyi és az építésfelügyeleti hatóság által nyújtott szolgáltatás díjának mértékét és a díjfizetés részletes szabályait,
+- 2. az építésügyi hatóságot szakkérdés vizsgálatáért megillető eljárási költségek körét, mértékét, annak beszedésével, kezelésével, nyilvántartásával kapcsolatos részletes szabályokat.
 
 (4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az illetékekről szóló törvény szerinti termőföld birtokösszevonási célú telekcsoport-újraosztására és telekegyesítésére irányuló eljárás kivételével a telekalakítási eljárásért fizetendő igazgatási szolgáltatási díj mértékét és a díjfizetés részletes szabályait az adópolitikáért felelős miniszterrel egyetértésben, rendelettel állapítsa meg.
 
-(5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az építmények létesítésének közegészségügyi és egészségvédelmi követelményeit a miniszterrel, valamint a sajátos építmények esetén a sajátos építményfajták szerint illetékes miniszterrel egyetértésben, rendeletben állapítsa meg.
+(5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az építmények létesítésének közegészségügyi és egészségvédelmi követelményeit az építésgazdaságért felelős miniszterrel, valamint a sajátos építmények esetén a sajátos építményfajták szerint illetékes miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) arra, hogy rendeletben állapítsa meg
 

@@ -665,6 +665,8 @@ kötelezettség (a katonai szolgálati kötelezettség és a járulékos kötele
 
 40/A. § A közszolgálat halottjává minősített kormánytisztviselővel, kormányzati ügykezelővel vagy a honvédelmi szervezet saját halottjává minősített közalkalmazottal szemben a volt munkáltató által nyilvántartott követelést az elhunyt örököse kérelmére a honvédelemért felelős miniszter részben vagy egészben elengedheti. A kérelemben foglaltak mérlegelése során a miniszter az elhunyt életútjának, illetve a kérelmező szociális helyzetének figyelembevételével dönt. A kérelmet a miniszterhez történő felterjesztés céljából az elhunyt volt munkáltatójánál kell előterjeszteni.
 
+40/B. § A honvédelemért felelős miniszter által vezetett minisztériumban honvédelmi államtitkár működik.
+
 #### 26. A Honvédség tartalékos állománya
 
 41. § (1) A Honvédség tartalékos rendszere önkéntesség és jogszabályi kötelezettség alapján szervezett tartalék elemekből áll.

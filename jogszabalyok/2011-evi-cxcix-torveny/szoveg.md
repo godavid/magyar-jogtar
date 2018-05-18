@@ -121,7 +121,7 @@ terjed ki.
 - c) a feladat a megbízott, vállalkozó saját anyagainak, illetve eszközeinek felhasználásával teljesíthető, és
 - d) a feladat teljesítésének helye nem szükséges, hogy a közigazgatási szerv székhelyén, telephelyén legyen, azt a megbízott, illetve a vállalkozó maga választhatja meg, illetve az a feladat ellátásához igazítható.
 
-(4) A közigazgatási szervnél a tárgyévben munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát. E korlát nem vonatkozik az általános politikai koordinációért felelős miniszter által vezetett minisztériumban foglalkoztatott személyekre. A tíz százalékos mérték alól egyéb esetben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolt esetben mentesítést adhat.
+(4) A közigazgatási szervnél a tárgyévben munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát. E korlát nem vonatkozik az általános politikai koordinációért felelős miniszter által vezetett minisztériumban, valamint a Miniszterelnöki Kormányirodán foglalkoztatott személyekre. A tíz százalékos mérték alól egyéb esetben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolt esetben mentesítést adhat.
 
 (5) A közszolgálati tisztviselő besorolásánál (116. §) a munkavégzésre irányuló jogviszonyban, különösen a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a 47. §-ban meghatározott ösztöndíjas jogviszonyban, bedolgozói munkaviszonyban, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszonyban, a szakcsoporti tagsági viszonyban, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenységre irányuló jogviszonyban, továbbá az ügyvédi és az egyéni vállalkozói tevékenységre irányuló jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
 
@@ -364,7 +364,7 @@ kézbesítettnek kell tekinteni.
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Közszolgálati Döntőbizottság elnökét és helyettesét, valamint tagjait.
 
-(8) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter dönt az 55. §-ban meghatározott kormányzati kirendelés elrendeléséről.
+(8)
 
 (9) A közszolgálati életpálya kidolgozásáért felelős miniszter irányítja a kormányzati szolgálati, illetve közszolgálati jogviszonyban állók képzését, továbbképzését, átképzését, ellátja a közigazgatási vezetőképzéssel kapcsolatos feladatokat.
 
@@ -1011,7 +1011,7 @@ kell érteni.
 
 ### Kormányzati érdekből történő kirendelés
 
-55. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter döntése alapján – az érintett hivatali szervezet vezetője véleményének kikérését követően – kormányzati érdekből a központi államigazgatási szerv kormánytisztviselője határozott időre kirendelhető másik központi államigazgatási szervhez.
+55. § (1) A miniszterelnök, az általa kijelölt miniszter vagy miniszterek, vagy a Miniszterelnöki Kormányiroda közigazgatási államtitkára döntése alapján – az érintett hivatali szervezet vezetője véleményének kikérését követően – kormányzati érdekből a központi államigazgatási szerv kormánytisztviselője határozott időre kirendelhető másik központi államigazgatási szervhez.
 
 (2) A kormányzati érdekből történő kirendelés időtartama nem haladhatja meg az egy évet. A kirendelés ugyanarra a feladatra egy alkalommal, legfeljebb egy évvel meghosszabbítható. A kirendelés lejártát követően a kormánytisztviselőt a kinevezése szerinti központi államigazgatási szerv köteles eredeti munkakörében továbbfoglalkoztatni.
 
@@ -1262,7 +1262,7 @@ eltöltött idő is.
 
 Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorolása szerinti illetményt kell figyelembe venni, ha besorolása szerinti illetményénél magasabb illetményben, címadományozásban részesült, főtanácsadói, tanácsadói munkakört töltött be.
 
-(8) A végkielégítést a felmentési idő utolsó napján kell kifizetni.
+(8) A végkielégítést a felmentési idő utolsó napján kell kifizetni. Amennyiben a kormánytisztviselő a jogviszonya megszűnését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít, a kormányzati szolgálati jogviszonyt folyamatosnak kell tekinteni, és a végkielégítés összegének az új jogviszony létesítéséig a 30 napból hátralévő idővel arányos mértékét vissza kell fizetnie. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
 
 (9) Végkielégítésre nem jogosult a kormánytisztviselő, ha
 
@@ -1353,7 +1353,7 @@ alakul át.
 
 74. § (1) A kormánytisztviselő jogviszonya megszüntetésekor (megszűnésekor) munkakörét az előírt rendben köteles átadni és a munkáltatóval elszámolni. A munkakör-átadás és az elszámolás feltételeit a munkáltató köteles biztosítani.
 
-(2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a kormánytisztviselő részére ki kell fizetni az illetményét, egyéb járandóságait, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+(2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a kormánytisztviselő részére ki kell fizetni az illetményét, egyéb járandóságait – a 107. § (2)–(2a) bekezdésében foglaltak kivételével –, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
 
 ### Kormányzati szolgálati jogviszony tartalma
 
@@ -1879,7 +1879,14 @@ adja ki, ha az esedékesség éve eltelt.
 
 107. § (1) A szabadságot – a (2) bekezdést kivéve – megváltani nem lehet.
 
-(2) A kormányzati szolgálati jogviszony megszűnésekor, ha a munkáltató az arányos szabadságot nem adta ki, azt meg kell váltani. A gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően, ha a kormánytisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani.
+(2) A kormányzati szolgálati jogviszony megszűnése esetén, ha a munkáltató az arányos szabadságot nem adta ki, az arányos szabadságot (ha a kormánytisztviselőnek van fennmaradó szabadsága) úgy kell megváltani, hogy ha a kormányzati szolgálati jogviszony megszűnését – ideértve a végleges áthelyezést is – követő 30 napon belül a kormánytisztviselő új kormányzati szolgálati jogviszonyt létesít, akkor a kormányzati szolgálati jogviszonyt folyamatosnak kell tekinteni, azzal, hogy a megváltással érintett arányos szabadságból a korábbi kormányzati szolgálati jogviszony megszűnése és az új kormányzati szolgálati jogviszony létesítése közötti időtartamra eső szabadságot meg kell váltani, és a fennmaradó szabadságot a létrejövő kormányzati szolgálati jogviszony alapján a kormánytisztviselőt megillető szabadsághoz hozzá kell számítani. Ha a kormányzati szolgálati jogviszony megszűnését követő 30 napon belül a kormánytisztviselő új kormányzati szolgálati jogviszonyt nem létesít, akkor az arányos szabadságot a jogviszony megszűnését követő 40. napon kell megváltani.
+
+(2a) Amennyiben a kormánytisztviselő a kormányzati szolgálati jogviszony megszűnésétől számított 30 napon belül új kormányzati szolgálati jogviszonyt
+
+- a) létesít, erről haladéktalanul,
+- b) nem létesít, akkor erről a kormányzati szolgálati jogviszony megszűnésétől számított 31. naptól számított 3 munkanapon belül értesíti a munkáltatót.
+
+(2b) A gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően, ha a kormánytisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani.
 
 (3) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami az államigazgatási szervnél töltött időre megilletné, a különbözetre kifizetett illetményt köteles visszafizetni.
 
@@ -2046,7 +2053,7 @@ besorolást kap.
 
 ### A címek
 
-125. § (1) A kormányzati tevékenység összehangolásáért felelős miniszter az általa vezetett minisztériumban kormány-főtanácsadói, kormánytanácsadói, az általános politikai koordinációért felelős miniszter az általa vezetett minisztériumban miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, a miniszter a miniszteri kabinetben miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
+125. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter az általa vezetett minisztériumban, a Miniszterelnöki Kormányiroda közigazgatási államtitkára a Miniszterelnöki Kormányirodán kormány-főtanácsadói, kormánytanácsadói, az általános politikai koordinációért felelős miniszter az általa vezetett minisztériumban, a Miniszterelnöki Kormányiroda közigazgatási államtitkára a Miniszterelnöki Kormányirodán miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, a miniszter a miniszteri kabinetben miniszteri főtanácsadói, miniszteri tanácsadói (a továbbiakban együtt: főtanácsadó, tanácsadó) munkaköröket létesíthet.
 
 (2) A főtanácsadói, tanácsadói munkakör betöltésére szóló kinevezés határozatlan időre szól. A főtanácsadói vagy tanácsadói munkakörben foglalkoztatott kormánytisztviselő – tekintet nélkül a kormányzati szolgálati jogviszonyban eltöltött idejére – vezető-főtanácsosi vagy főtanácsosi besorolást kap. A vezető-főtanácsosi besorolású kormánytisztviselő főosztályvezetői, a főtanácsosi besorolású kormánytisztviselő főosztályvezető-helyettesi illetményre jogosult.
 
@@ -3097,11 +3104,11 @@ kapcsolatos ügyekben. A Közszolgálati Döntőbizottság döntésével szemben
 
 ### Politikai tanácsadó, politikai főtanácsadó
 
-203. § (1) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+203. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
 (1a) Az általános politikai koordinációért felelős miniszter miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet a miniszterelnök tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
-(2) A kormányzati tevékenység összehangolásáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
+(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter kormány-főtanácsadói és kormánytanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
 
 (2a) Az általános politikai koordinációért felelős miniszter miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói munkakört politikai főtanácsadói, politikai tanácsadói munkakörré minősíthet az általa vezetett minisztériumban a Kormány döntéseinek előkészítéséhez közvetlenül kapcsolódó feladatok ellátására.
 
@@ -3119,9 +3126,9 @@ kapcsolatos ügyekben. A Közszolgálati Döntőbizottság döntésével szemben
 
 (9) A politikai főtanácsadó, politikai tanácsadó felett a munkáltatói jogokat
 
-- a) az (1) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
+- a) az (1) bekezdés esetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
 - b) az (1a) bekezdés esetében az általános politikai koordinációért felelős miniszter,
-- c) a (2) bekezdés esetében a kormányzati tevékenység összehangolásáért felelős miniszter,
+- c) a (2) bekezdés esetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
 - d) a (2a) bekezdés esetében az általános politikai koordinációért felelős miniszter,
 - e) a (3) bekezdés esetében a miniszter,
 - f) a (4) bekezdés esetében az államtitkár
@@ -3253,7 +3260,7 @@ munkanapra emelkedik.
 
 214. § (1) A szakmai vezető végkielégítésre nem jogosult.
 
-(2) A szakmai vezetőt minden naptári évben negyven munkanap szabadság illeti meg. A szabadság igénybevételét a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárának előzetesen be kell jelenteni. A 103. § (4) bekezdését azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni a szakmai vezető által kért időpontban. A 108. § szerint kiadott, illetve kivett szabadságot azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy az nem haladhatja meg a huszonnégy munkanapot.
+(2) A szakmai vezetőt minden naptári évben negyven munkanap szabadság illeti meg. A szabadság igénybevételét a Miniszterelnöki Kormányiroda közigazgatási államtitkárának előzetesen be kell jelenteni. A 103. § (4) bekezdését azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni a szakmai vezető által kért időpontban. A 108. § szerint kiadott, illetve kivett szabadságot azzal az eltéréssel kell alkalmazni a szakmai vezetőre, hogy az nem haladhatja meg a huszonnégy munkanapot.
 
 (3) A fegyelmi vétséget elkövető szakmai vezetővel szemben kiszabható fegyelmi büntetések:
 
@@ -3266,7 +3273,7 @@ munkanapra emelkedik.
 
 215. § (1) Közigazgatási államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki jogász mesterképzési szakon szerzett szakképzettséggel vagy közigazgatási mesterképzési szakon szerzett okleveles közigazgatási szakértő vagy okleveles közigazgatási menedzser szakképzettséggel vagy gazdaságtudományok képzési területen alap- vagy mesterképzésben szerzett közgazdász szakképzettséggel vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
 
-(2) A közigazgatási államtitkárt a miniszterelnök javaslatára a köztársasági elnök határozatlan időre nevezi ki. A miniszterelnök kinevezésre vonatkozó javaslatát a miniszternek a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter útján tett kezdeményezése alapján teszi meg. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a kezdeményezésre észrevételt tehet.
+(2) A közigazgatási államtitkárt a miniszterelnök javaslatára a köztársasági elnök határozatlan időre nevezi ki. A miniszterelnök a kinevezésre vonatkozó javaslatát a miniszter kezdeményezése alapján teszi meg.
 
 (3) A közigazgatási államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
@@ -3292,15 +3299,17 @@ munkanapra emelkedik.
 
 (4) A fegyelmi tanács hivatalvesztés büntetés kiszabására irányuló javaslatát – amely együtt jár a közigazgatási államtitkár állásából való felfüggesztésével – a közigazgatási államtitkárral közölni kell. A közigazgatási államtitkár a javaslattal szemben a közléstől számított tizenöt napon belül bírósághoz fordulhat. A kereset jogerős elbírálásáig a javaslat nem terjeszthető a miniszterelnök elé.
 
-217. § (1) A közigazgatási államtitkár e tisztségéről a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat. A nyilatkozatot a közigazgatási államtitkár a miniszterhez juttatja el, aki azt haladéktalanul továbbítja a miniszterelnöknek.
+217. § (1) A közigazgatási államtitkár e tisztségéről a miniszterelnök útján a köztársasági elnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat. A nyilatkozatot a minisztérium közigazgatási államtitkára a miniszterhez juttatja el, aki azt haladéktalanul továbbítja a miniszterelnöknek. A Miniszterelnöki Kormányiroda közigazgatási államtitkára e nyilatkozatát közvetlenül juttatja el a miniszterelnök számára.
 
 (2) A közigazgatási államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a köztársasági elnökkel történő közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
 
 (3) Ha a közigazgatási államtitkár e tisztségét legalább három évig betöltötte, a lemondási idő a megbízatás megszűnésétől számított három hónap, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, a lemondási idő negyvenöt nap, ha e tisztségét egy évnél rövidebb ideig töltötte be, a lemondási idő tizenöt nap. A lemondási idő időtartama alatt a közigazgatási államtitkár a munkavégzési kötelezettség alól mentesül.
 
-218. § (1) A közigazgatási államtitkárt e tisztségéből a köztársasági elnök menti fel a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára. A felmentést nem kell megindokolni.
+218. § (1) A minisztérium közigazgatási államtitkárát e tisztségéből a köztársasági elnök menti fel a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára. A Miniszterelnöki Kormányiroda közigazgatási államtitkárát e tisztségéből a köztársasági elnök menti fel a miniszterelnök javaslatára. A felmentést nem kell megindokolni.
 
 (2) A közigazgatási államtitkár számára e tisztségéből történő felmentését megelőzően – kivéve, ha arra nyugdíjjogosultság miatti kérelem alapján kerül sor vagy a közigazgatási államtitkár a felmentés közlésének időpontjában nyugdíjasnak minősül – végzettségének és szakképzettségének, szakképesítésének megfelelő vezetői munkakört kell felajánlani a miniszter felügyelete vagy irányítása alatt álló valamely központi államigazgatási szervnél. A közigazgatási államtitkár a felajánlott munkakör elfogadásáról öt munkanapon belül írásban nyilatkozik a miniszternek.
+
+(2a) A (2) bekezdéstől eltérően a Miniszterelnöki Kormányiroda közigazgatási államtitkára számára e tisztségéből történő felmentését megelőzően – kivéve, ha arra nyugdíjjogosultság miatti kérelem alapján kerül sor vagy a Miniszterelnöki Kormányiroda közigazgatási államtitkára a felmentés közlésének időpontjában nyugdíjasnak minősül – végzettségének és szakképzettségének, szakképesítésének megfelelő vezetői munkakört kell felajánlani a miniszterelnök felügyelete vagy irányítása alatt álló valamely központi államigazgatási szervnél. A Miniszterelnöki Kormányiroda közigazgatási államtitkára a felajánlott munkakör elfogadásáról öt munkanapon belül írásban nyilatkozik a miniszterelnöknek.
 
 (3) Ha a közigazgatási államtitkár a felajánlott vezetői munkakört elfogadja, át kell helyezni. Ha a közigazgatási államtitkár e tisztségét legalább három évig betöltötte az áthelyezésétől számított hat hónapon át, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, akkor három hónapon át megilleti a korábbi illetménye és az új illetménye különbségének összege, ha az előbbi magasabb volt.
 
@@ -3328,19 +3337,19 @@ munkanapra emelkedik.
 
 (4) A közigazgatási államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti.
 
-(5) A közigazgatási államtitkár jutalmazásáról a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján a miniszterelnök dönt.
+(5) A közigazgatási államtitkár jutalmazásáról a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján, a Miniszterelnöki Kormányiroda közigazgatási államtitkára esetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter véleményének kikérésével és egyetértésével a miniszterelnök dönt.
 
-(6) A közigazgatási államtitkár részére a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján a miniszterelnök célprémiumot állapíthat meg.
+(6) A közigazgatási államtitkár részére a tevékenységét irányító miniszter és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter együttes javaslata alapján, a Miniszterelnöki Kormányiroda közigazgatási államtitkára esetében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter véleményének kikérésével és egyetértésével a miniszterelnök célprémiumot állapíthat meg.
 
 ### A helyettes államtitkár
 
 220. § (1) Helyettes államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető, aki jogász mesterképzési szakon szerzett szakképzettséggel vagy közigazgatási mesterképzési szakon szerzett okleveles közigazgatási szakértő vagy okleveles közigazgatási menedzser szakképzettséggel vagy gazdaságtudományok képzési területen alap- vagy mesterképzésben szerzett közgazdász szakképzettséggel, vagy felsőfokú végzettséggel és a feladat- és hatáskörének megfelelő szakirányú szakképzettséggel rendelkezik.
 
-(2) A helyettes államtitkárt a miniszter javaslatára a miniszterelnök határozatlan időre nevezi ki.
+(2) A minisztérium helyettes államtitkárát a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkárát a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a miniszterelnök határozatlan időre nevezi ki.
 
-(3) A miniszter javaslatát – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter kivételével – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára útján terjeszti a miniszterelnök elé.
+(3) A miniszter a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára véleményének kikérését követően a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján terjeszti javaslatát a miniszterelnök elé. A Miniszterelnöki Kormányiroda közigazgatási államtitkára – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára véleményének kikérését követően – közvetlenül terjeszti javaslatát a miniszterelnök elé.
 
-(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára a javaslat megküldésétől számított tizenöt napon belül kifogással élhet vagy továbbítja azt a miniszterelnöknek.
+(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára – a miniszter és a Miniszterelnöki Kormányiroda közigazgatási államtitkára javaslatának megküldésétől számított – tizenöt napon belül kifogással élhet. A kifogás tényéről és a kifogásolt személyről a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára a miniszterelnököt a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján tájékoztatja.
 
 (5)
 
@@ -3364,21 +3373,21 @@ munkanapra emelkedik.
 - b) tisztségéről történő lemondással,
 - c) tisztségéből történő felmentéssel.
 
-222. § (1) A helyettes államtitkár e tisztségéről a miniszter útján a miniszterelnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat.
+222. § (1) A minisztérium helyettes államtitkára e tisztségéről a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján a miniszterelnökhöz intézett írásbeli nyilatkozatával bármikor lemondhat.
 
-(2) A helyettes államtitkár lemondása esetén a megbízatás megszűnésének időpontját a miniszter javaslatára a miniszterelnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a miniszterelnökkel való közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
+(2) A minisztérium helyettes államtitkára lemondása esetén a megbízatás megszűnésének időpontját a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára esetén a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára a miniszterelnök határozza meg azzal, hogy az nem lehet későbbi a lemondásnak a miniszterelnökkel való közlését követő harmincadik napnál. A lemondási idő a megbízatás megszűnését követő napon kezdődik.
 
 (3) Ha a helyettes államtitkár e tisztségét legalább három évig betöltötte, a lemondási idő a megbízatás megszűnésétől számított három hónap, ha e tisztsége három évnél hamarabb szűnt meg, de azt legalább egy évig betöltötte, a lemondási idő negyvenöt nap, ha e tisztségét egy évnél rövidebb ideig töltötte be, a lemondási idő tizenöt nap. A lemondási idő időtartama alatt a helyettes államtitkár a munkavégzési kötelezettség alól mentesül.
 
-223. § (1) A miniszter bármikor javaslatot tehet a miniszterelnöknek a helyettes államtitkár e tisztségéből történő felmentésére. A felmentést nem kell megindokolni. A helyettes államtitkár felmentésére egyebekben a 218. § (2)–(5) bekezdését kell alkalmazni.
+223. § (1) Minisztérium helyettes államtitkára esetében a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkára bármikor javaslatot tehet a miniszterelnöknek a helyettes államtitkár e tisztségéből történő felmentésére. A felmentést nem kell megindokolni. A helyettes államtitkár felmentésére egyebekben a 218. § (2)–(5) bekezdését kell alkalmazni.
 
-(2) Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a miniszterelnök a miniszter javaslatára az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség kérdésében.
+(2) Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől számított harminc napon belül nem szünteti meg, vagy a tisztsége gyakorlása során vele szemben összeférhetetlenségi ok merül fel, a miniszterelnök a minisztérium helyettes államtitkára esetében a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkárának javaslatára az indítvány kézhezvételétől számított harminc napon belül dönt az összeférhetetlenség kérdésében.
 
-(3) Ha a helyettes államtitkár kormányzati szolgálati jogviszonya a 221. § (1) bekezdés a)–b) vagy d) pontja, illetve (2) bekezdés a)–b) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a miniszter előterjesztésére a miniszterelnök állapítja meg.
+(3) Ha a helyettes államtitkár kormányzati szolgálati jogviszonya a 221. § (1) bekezdés a)–b) vagy d) pontja, illetve (2) bekezdés a)–b) pontja alapján szűnik meg, a megbízatás megszűnésének tényét a minisztérium helyettes államtitkára esetében a miniszter, a Miniszterelnöki Kormányiroda helyettes államtitkára esetében a Miniszterelnöki Kormányiroda közigazgatási államtitkárának előterjesztésére a miniszterelnök állapítja meg.
 
 (4) A helyettes államtitkár kormányzati szolgálati jogviszonyának megszűnésével vagy megszüntetésével kapcsolatos munkáltatói intézkedéseket a miniszterelnök határozata alapján a közigazgatási államtitkár teszi meg.
 
-(5) A miniszter köteles kezdeményezni a miniszterelnöknél a helyettes államtitkár felmentését, ha a helyettes államtitkár az öregségi nyugdíjkorhatárt betöltötte, és rendelkezik az öregségi teljes nyugdíjhoz szükséges szolgálati idővel.
+(5) Minisztériumban a miniszter, a Miniszterelnöki Kormányirodán a Miniszterelnöki Kormányiroda közigazgatási államtitkára köteles kezdeményezni a miniszterelnöknél a helyettes államtitkár felmentését, ha a helyettes államtitkár az öregségi nyugdíjkorhatárt betöltötte, és rendelkezik az öregségi teljes nyugdíjhoz szükséges szolgálati idővel.
 
 (6) Nem kell alkalmazni az (5) bekezdést, ha a helyettes államtitkár a kinevezésekor betöltötte az öregségi nyugdíjkorhatárt, és rendelkezett az öregségi teljes nyugdíjhoz szükséges szolgálati idővel.
 
@@ -4050,6 +4059,8 @@ részletes szabályokat.
 260/A. § A 2017. április 30-án kormányzati szolgálati jogviszonyban álló kormánytisztviselő a 21. § (2) bekezdés szerinti szolgáltatással 2017. május 1-jétől köteles rendelkezni.
 
 260/B. § A központi nyugdíjbiztosítási szervnél foglalkoztatott kormánytisztviselők illetménykiegészítésének mértékét e törvénynek a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes törvények módosításáról, valamint egyes költségvetési szervek feladatainak átadásáról szóló 2016. évi CIV. törvénnyel megállapított 134. § (1) bekezdés 13. pontja hatálybalépésétől 2017. november 1-jéig az e törvény 2017. március 31-én hatályos 134. § (1) bekezdés 13. pontja alapján kell megállapítani.
+
+260/C. § E törvénynek a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvénnyel megállapított 69. § (8) bekezdését, 74. § (2) bekezdését, 107. § (2) és (2a) bekezdését a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény hatálybalépését követő jogviszony-megszüntetésekre, illetve megszűnésekre kell alkalmazni.
 
 ### Az Európai Unió jogi aktusainak való megfelelés
 

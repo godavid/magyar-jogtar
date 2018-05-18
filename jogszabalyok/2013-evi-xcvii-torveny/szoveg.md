@@ -260,7 +260,7 @@ tart.
 
 (4) Az érdekvédelmi nyilvántartásban történő adatkezelés célja
 
-- a) a nyugállományú katonának,
+- a) a nyugállományú katonának, a köztársasági elnök által szolgálaton kívüli állományba felvett személynek,
 - b) a hivatásos, a szerződéses és az önkéntes tartalékos, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés vagy haláleset miatt társadalombiztosítási és szociális ellátásra jogosultaknak,
 - c) a korábban hadkötelezettség alapján katonai szolgálatot teljesítetteknek, és
 - d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak

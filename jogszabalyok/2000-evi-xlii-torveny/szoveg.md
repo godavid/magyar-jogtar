@@ -1239,7 +1239,7 @@ rendeletben történő megállapítására.
 - 21. az utasnyilvántartás vezetése részletes szabályainak,
 - 22. a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
 - 23. a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak,
-- 24. a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyért felelős miniszterrel egyetértésben kiadott,
+- 24. a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben kiadott,
 - 25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott
 
 rendeletben történő megállapítására.

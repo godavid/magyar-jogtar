@@ -847,11 +847,15 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 
 (3) A szerződéses állomány tagjának szolgálati viszonya megszűnik, ha a szünetelés időtartama alatt a szerződésben vállalt szolgálati ideje letelik.
 
-58/A. § (1) Szünetel az állomány tagjának szolgálati viszonya, ha a miniszter által vezetett minisztériumba szakmai vezetővé nevezik ki. A szünetelés a szakmai vezetővé való kinevezéstől a szakmai vezetői megbízatás megszűnéséig tart.
+58/A. § (1) Szünetel az állomány tagjának szolgálati viszonya, ha a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerinti szakmai vezetővé vagy államtitkárrá nevezik ki. A szünetelés a szakmai vezetővé vagy államtitkárrá való kinevezéstől a megbízatás megszűnéséig tart.
 
-(2) A 46. § (1) bekezdésében meghatározott eseteken túl a szünetelés időtartamára rendelkezési állományba tartozik az állomány (1) bekezdés alá tartozó tagja.
+(2) A 46. § (1) bekezdésében meghatározott eseteken túl, a szünetelés időtartamára – további külön munkáltatói döntés nélkül – rendelkezési állományba tartozik az állomány (1) bekezdés alá tartozó tagja.
 
-(3) A szünetelés időtartama alatt az állomány tagja illetményre nem, egyéb pénzbeli, illetve természetbeni ellátásra miniszteri rendeletben meghatározottak szerint jogosult, jogszabály eltérő rendelkezése hiányában szolgálati viszonyból származó jogait nem gyakorolhatja, az azzal kapcsolatos kötelezettségek őt nem terhelik.
+(3) Ha törvény eltérően nem rendelkezik, a szünetelés időtartama alatt az állomány tagja a szolgálati viszonyból származó jogait nem gyakorolhatja, részére e törvény alapján illetmény nem folyósítható, a szolgálati viszonyával kapcsolatos kötelezettségek őt nem terhelik. Ha a szünetelésre a próbaidő alatt kerül sor, a szünetelés tartama a próbaidőbe nem számít be.
+
+(4) Az állomány (2) bekezdés szerinti rendelkezési állományba tartozó tagja esetén a mérlegelést nem igénylő munkáltatói döntések meghozatalára a központi személyügyi szerv jogosult.
+
+58/B. § A szolgálati viszony 58–58/A. § szerinti szünetelésének időtartama alatt az állomány tagját – a lakbértámogatás (kiegészítés), a lakásüzemeltetési hozzájárulás és az albérletidíj-hozzájárulás, továbbá a szállóbérlet kivételével – a már megszerzett lakhatási támogatás továbbra is megilleti.
 
 ### VII. Fejezet — SZOLGÁLATI VISZONY MEGSZŰNÉSE, MEGSZÜNTETÉSE
 
@@ -1009,7 +1013,7 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 - a) a szolgálat felső korhatárának elérésekor,
 - b) a jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése esetén,
 - c) országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
-- d) politikai vezetővé történő kinevezésével,
+- d) – az 58/A. §-ban foglaltak kivételével – állami vezetővé történő kinevezésével,
 - e) a magyar állampolgárság megszűnésével,
 - f) a más állam állampolgárságának megszerzésével akkor, ha az állampolgárság megszerzésére az állomány tagjának közrehatására, vagy kifejezett beleegyezésével került sor, és az befolyásolja közreműködését a Honvédség feladatainak ellátásában,
 - g) az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvényben meghatározott, jogviszony megszűnését eredményező esetekben,
@@ -1187,6 +1191,8 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 (2) A szolgálati viszony megszűnésekor, megszüntetésekor az utolsó munkában töltött napon, de legkésőbb 15 napon belül az állomány tagja részére ki kell fizetni az illetményét, egyéb járandóságait, valamint ki kell adni a miniszteri rendeletben előírt igazolásokat.
 
+(2a) A 4/A. § (2) bekezdés b) és c) pontja esetén a (2) bekezdés szerinti járandóságok megállapítására – ha jogszabály eltérően nem rendelkezik – a központi személyügyi szerv vezetője jogosult.
+
 (3) A szolgálati viszony megszűnésekor, megszüntetésekor miniszteri rendeletben meghatározott esetekben és feltételekkel az állomány tagja megtérítési kötelezettséggel tartozik, és elhelyezkedésének elősegítése érdekében szakmai át-, vagy továbbképzési támogatásban részesíthető.
 
 #### 44. A végkielégítés
@@ -1316,6 +1322,8 @@ távolléti díjnak megfelelő összeg.
 - d) hivatásos állományba való visszavétele esetén szolgálati viszonyát folyamatosnak kell tekinteni,
 - e) hivatásos állományba való visszavétele esetén rendfokozata az előmeneteli feltételek teljesítése esetén legfeljebb egy rendfokozattal lehet magasabb, mint az a rendfokozat, amelyet szolgálati viszonya megszűnését közvetlenül megelőzően viselt, és
 - f) hivatásos állományba való visszavétele esetén próbaidőt nem kell kikötni.
+
+(4) A köztársasági elnök által szolgálaton kívüli állományba felvett személy a Honvédség szociális gondoskodási körébe tartozik, valamint a 132. § szerint jubileumi jutalomra jogosult. Nem jogosult jubileumi jutalomra az a szolgálaton kívüli állományba felvett személy, aki azt másik foglalkoztatási jogviszonyban már megkapta, illetve akinek szolgálaton kívüli jogállása megszűnt vagy megszüntetésre került. A jubileumi jutalomra való jogosultságra jogosító szolgálati időkre alkalmazni kell a 92. §-t. A jubileumi jutalmat a szolgálati viszony megszűnését megelőző napon érvényes távolléti díj alapján a központi személyügyi szerv vezetője állapítja meg.
 
 ### VIII. Fejezet — A SZOLGÁLATI VISZONY TARTALMA
 
@@ -1587,7 +1595,7 @@ az állomány tagját mentesíti a szolgálatteljesítési kötelezettsége aló
 
 92. § (1) A tényleges szolgálati viszonyban töltött idő az állományba vétel napjától a szolgálati viszony megszűnésének, megszüntetésének napjáig tart. A szolgálati viszony szünetelésének időtartama a tényleges szolgálati viszonyban töltött időbe nem számítható be.
 
-(2) A felmentési idő, a végkielégítés, a nyugdíj előtti rendelkezési állomány, a pótszabadság mértéke, a jubileumi jutalom és a 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba helyezés szempontjából
+(2) A felmentési idő, a végkielégítés, a nyugdíj előtti rendelkezési állomány, a pótszabadság mértéke, a jubileumi jutalom és a 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba helyezés, valamint a Hvt. 40/B. §-a szempontjából
 
 - a) a 2002. január 1-je előtt a fegyveres szervek állományában szolgálati viszonyban eltöltött, és a korábbi szabályok szerint beszámítható szolgálati időt, és
 - b) a 2012. január 1-je előtt hatályos szabályok szerint rögzített szolgálati időt
@@ -2191,6 +2199,8 @@ távolléti díjnak megfelelő összeg.
 (2) A jubileumi jutalmat az arra jogosító szolgálati viszonyban töltött idő elérésének napján érvényes, a 122. § (4) bekezdése szerinti illetmény figyelembevételével számított távolléti díj, illetve a 47. § (1a) bekezdése szerinti esetben az ott meghatározott összeg alapján kell megállapítani és a jubileumi jutalomra jogosító szolgálati viszonyban töltött idő elérését követő hónap 5. napjáig kell folyósítani.
 
 (2a) A (2) bekezdést az állomány azon tagja esetében, aki a jubileumi jutalomra jogosító szolgálati viszonyban töltött idő elérésének napján illetmény nélküli szabadságát tölti, azzal az eltéréssel kell alkalmazni, hogy részére a jubileumi jutalmat az illetmény nélküli szabadság utolsó napját követő második hónap ötödik napjáig kell folyósítani.
+
+(2b) Az állomány 58/A. § (2) bekezdése alapján rendelkezési állományba tartozó tagja esetében is alkalmazni kell a (2) bekezdést azzal az eltéréssel, hogy ha az állomány érintett tagja esetében az (1) bekezdés szerinti jubileumi jutalomra jogosító szolgálati viszonyban töltött idő elérésének napja a szolgálati viszony szünetelése időszakára esik, és a jubileumi jutalom alapját képező szolgálati idő alapján az adott időszakra vonatkozóan jubileumi jutalomban nem részesült, a Hjt. szerinti jubileumi jutalmat – egyéb kizáró ok hiányában – részére utólag, legkésőbb a szolgálati viszony szünetelésének utolsó napját követő második hónap 5. napjáig, vagy ha szolgálati viszonya ennél korábbi időpontban megszűnik, a szolgálati viszony megszűnése napjáig kell folyósítani.
 
 (3) Az állomány azon tagja részére, aki alapilletményre az 5. melléklet VII. besorolási osztály alapján jogosult, és a tartós külföldi szolgálata alatt válik jogosulttá jubileumi jutalomra, a jubileumi jutalmat a külföldi szolgálatot megelőző napon érvényes illetménye figyelembevételével számított távolléti díj alapján kell megállapítani.
 
@@ -3640,7 +3650,7 @@ jogosult.
 
 (3) A 8. mellékletet a 2013. július 1-jén szolgálatot teljesítő honvéd tisztjelöltekre és honvéd altiszt-jelöltekre is alkalmazni kell.
 
-247/A. §
+247/A. § E törvénynek a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvénnyel megállapított 76. § (4) bekezdését a hatálybalépésekor a köztársasági elnök által szolgálaton kívüli állományba helyezett személyekre is alkalmazni kell.
 
 247/B. § A 2015. január 1. és 2017. december 31. közötti időszakban az általános előmeneteli rendbe tartozó szolgálati beosztásokban szolgálatot teljesítő főhadnagyok a kötelező várakozási idő letelte előtt 2 évvel magasabb beosztásba kinevezhetők. Ebben az esetben
 

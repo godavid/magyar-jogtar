@@ -14,8 +14,8 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 - a) a Kormány,
 - b) a kormánybizottság,
-- c)
-- d) a minisztérium,
+- c) a minisztérium,
+- d) a Miniszterelnöki Kormányiroda,
 - e) az autonóm államigazgatási szerv,
 - f) a kormányhivatal,
 - g) a központi hivatal,
@@ -128,7 +128,7 @@ ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár e
 
 (3) A szakmai vezető kormányzati szolgálati jogviszonyban áll.
 
-(4) Az állami vezetők személyi anyagának nyilvántartását a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vezeti.
+(4) Az állami vezetők személyi anyagának nyilvántartását a Miniszterelnöki Kormányiroda vezeti.
 
 (5)
 
@@ -163,7 +163,8 @@ miatt szűnt meg.
 - b) elkülönített állami pénzalappal való rendelkezésre jogosult és felhasználásért felelős testület tagja, elkülönített állami pénzalappal összefüggésben elvi, irányító és koordináló döntések meghozataláért felelős testület tagja vagy az elkülönített állami pénzalappal való rendelkezésre jogosult és felhasználásért felelős miniszter vagy testület részére döntés-előkészítő, véleményező tevékenységet végző testület tagja legyen, illetve
 - c) tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenységet végezzen,
 - d) nevelőszülői foglalkoztatási jogviszonyt létesítsen,
-- e) sportszövetség vagy sportegyesület tisztségviselője legyen.
+- e) sportszövetség vagy sportegyesület tisztségviselője legyen,
+- f) hivatásos szolgálati jogviszonya az állami vezetői kinevezés időtartamára a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
 
 (3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vonatkozásában a Magyar Nemzeti Bank felügyelő bizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelő bizottságának tagjaira nem kell alkalmazni.
 
@@ -177,9 +178,9 @@ miatt szűnt meg.
 
 12. § (1) Az országgyűlési képviselői megbízatással nem rendelkező politikai vezető megbízatása keletkezését követő harminc napon belül, majd azt követően évente, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
-(2) A vagyonnyilatkozatokat a kormányzati tevékenység összehangolásáért felelős miniszter kezeli.
+(2) A vagyonnyilatkozatokat a Miniszterelnöki Kormányiroda kezeli.
 
-(3) A családtag vagyonnyilatkozata kivételével az országgyűlési képviselői megbízatással nem rendelkező politikai vezető vagyonnyilatkozata nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a kormányzati tevékenység összehangolásáért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi. A vagyonnyilatkozat a honlapról az országgyűlési képviselői megbízatással nem rendelkező politikai vezető megbízatásának megszűnését követő egy év elteltével távolítható el.
+(3) A családtag vagyonnyilatkozata kivételével az országgyűlési képviselői megbízatással nem rendelkező politikai vezető vagyonnyilatkozata nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Miniszterelnöki Kormányiroda a honlapján közzéteszi. A vagyonnyilatkozat a honlapról az országgyűlési képviselői megbízatással nem rendelkező politikai vezető megbízatásának megszűnését követő egy év elteltével távolítható el.
 
 (4) A családtag vagyonnyilatkozatába az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának (a továbbiakban: összeférhetetlenségi bizottság) tagjai tekinthetnek be az országgyűlési képviselői megbízatással nem rendelkező politikai vezető vagyonnyilatkozatával kapcsolatos eljárás során.
 
@@ -187,7 +188,7 @@ miatt szűnt meg.
 
 (2) A vagyonnyilatkozattal kapcsolatos eljárás során az összeférhetetlenségi bizottság felhívására az országgyűlési képviselői megbízatással nem rendelkező politikai vezető köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az igazoló adatokba az összeférhetetlenségi bizottság tagjai tekinthetnek be. Az ellenőrzés eredményéről az összeférhetetlenségi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az összeférhetetlenségi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 
-(3) Az országgyűlési képviselői megbízatással nem rendelkező politikai vezető által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A kormányzati tevékenység összehangolásáért felelős miniszter az országgyűlési képviselői megbízatással nem rendelkező politikai vezető valamint családtagja vagyonnyilatkozatát az országgyűlési képviselői megbízatással nem rendelkező politikai vezető megbízatásának a megszűnését követő egy évig őrzi.
+(3) Az országgyűlési képviselői megbízatással nem rendelkező politikai vezető által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Miniszterelnöki Kormányiroda az országgyűlési képviselői megbízatással nem rendelkező politikai vezető valamint családtagja vagyonnyilatkozatát az országgyűlési képviselői megbízatással nem rendelkező politikai vezető megbízatásának a megszűnését követő egy évig őrzi.
 
 12/B. § (1) Az országgyűlési képviselői megbízatással rendelkező politikai vezető az országgyűlési képviselőkre vonatkozó szabályok szerint tesz vagyonnyilatkozatot, a vagyonnyilatkozatával kapcsolatos eljárásra az országgyűlési képviselőkre vonatkozó szabályok az irányadók.
 
@@ -231,9 +232,9 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 - a) a ki nem adott szabadságát nem lehet pénzben megváltani, és
 - b) a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett állami vezetői szolgálati jogviszony vagy állami vezetőként betöltött jogviszony alapján járó szabadsághoz hozzá kell számítani.
 
-14. § (1) A minisztert és az államtitkárt minden naptári évben húsz munkanap szabadság illeti meg, valamint a miniszterelnök által meghatározott összegű jutalomban részesülhet. A miniszter jutalmára a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot. Az államtitkár jutalmára a tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
+14. § (1) A minisztert és az államtitkárt minden naptári évben húsz munkanap szabadság illeti meg, valamint a miniszterelnök által meghatározott összegű jutalomban részesülhet. Az államtitkár jutalmára a tevékenységét irányító miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tesz javaslatot.
 
-(2) A szabadság igénybevételét a kormányzati tevékenység összehangolásáért felelős miniszternek előzetesen be kell jelenteni.
+(2) A szabadság igénybevételét a Miniszterelnöki Kormányirodának előzetesen be kell jelenteni.
 
 (2a) A miniszterelnököt minden évben negyven munkanap szabadság illeti meg.
 
@@ -241,13 +242,13 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (4) A politikai vezetőt rendkívüli munkavégzése után külön szabadidő nem illeti meg.
 
-(5) Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra az államtitkár tevékenységét irányító miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter együttesen tesz javaslatot.
+(5) Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra az államtitkár tevékenységét irányító miniszter tesz javaslatot.
 
 (6) A politikai vezető jubileumi jutalomra nem jogosult.
 
-15. § (1) A politikai vezető személyijövedelemadó-bevallásából az összevont adóalap összege, az összevont adóalap adójának összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege nyilvános. Ezen adatokat a politikai vezető a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium honlapján való közzététel céljából az adóbevallás benyújtására nyitva álló határidő lejártát követő tizenöt napon belül a kormányzati tevékenység összehangolásáért felelős miniszternek megküldi.
+15. § (1) A politikai vezető személyijövedelemadó-bevallásából az összevont adóalap összege, az összevont adóalap adójának összege, az összevont adóalap adóját csökkentő adókedvezmények összege, a külön adózó jövedelmek összege és a külön adózó jövedelmek adójának összege nyilvános. Ezen adatokat a politikai vezető a Miniszterelnöki Kormányiroda honlapján való közzététel céljából az adóbevallás benyújtására nyitva álló határidő lejártát követő tizenöt napon belül a Miniszterelnöki Kormányirodának megküldi.
 
-(2) A politikai vezető illetményére, a részére kifizetett jutalomra és célprémiumra, az országgyűlési képviselői megbízatással rendelkező politikai vezető országgyűlési képviselői javadalmazására, illetve a politikai vezető részére e megbízatására tekintettel juttatott egyéb juttatásokra vonatkozó adatokat a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
+(2) A politikai vezető illetményére, a részére kifizetett jutalomra és célprémiumra, az országgyűlési képviselői megbízatással rendelkező politikai vezető országgyűlési képviselői javadalmazására, illetve a politikai vezető részére e megbízatására tekintettel juttatott egyéb juttatásokra vonatkozó adatokat a Miniszterelnöki Kormányiroda honlapján közzé kell tenni.
 
 (3) A (2) bekezdésben meghatározott adatok változása esetén a megváltozott adatokat – a korábbi adat eltávolítása nélkül – a változástól számított tizenöt napon belül kell közzétenni.
 
@@ -267,15 +268,21 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (4) Az összefoglaló tartalmazza a kormányülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére a kormányülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, a jelentést, valamint a kormányrendeletek, kormányhatározatok, továbbá a Kormány által meghatározott egyéb iratok eredeti aláírással ellátott egy-egy példányát.
 
-(5) Az ülésről készült összefoglaló eredeti példányát és mellékleteit, valamint az ülésről készült hangfelvételt a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium őrzi. Az ülésről készült dokumentáció anyaga nem selejtezhető, maradandó értékű iratnak minősül; kezelésére és megismerésére a köziratok védelméről, a minősített adat védelméről, továbbá a közérdekű adatok nyilvánosságáról szóló rendelkezéseket kell alkalmazni.
+(5) Az ülésről készült összefoglaló eredeti példányát és mellékleteit, valamint az ülésről készült hangfelvételt a Miniszterelnöki Kormányiroda őrzi. Az ülésről készült dokumentáció anyaga nem selejtezhető, maradandó értékű iratnak minősül; kezelésére és megismerésére a köziratok védelméről, a minősített adat védelméről, továbbá a közérdekű adatok nyilvánosságáról szóló rendelkezéseket kell alkalmazni.
 
 (6) Az összefoglaló és a hangfelvétel készítésének, valamint belső kormányzati felhasználásának részletes szabályait, feltételeit a Kormány határozza meg.
 
 ### A miniszterelnök feladatköre
 
-18. § A miniszterelnök az Alaptörvényben meghatározott feladatkörében eljárva a Kormány irányítása alatt álló, illetve a miniszter irányítása vagy felügyelete alá tartozó szervek vezetői számára feladatokat határozhat meg, továbbá tőlük tájékoztatást kérhet. A feladatmeghatározásról, illetve a tájékoztatáskérésről a szerv vezetője az irányító vagy felügyelő minisztert tájékoztatja.
+18. § (1) A miniszterelnök az Alaptörvényben meghatározott feladatkörében eljárva a Kormány irányítása alatt álló, illetve a miniszter irányítása vagy felügyelete alá tartozó szervek vezetői számára feladatokat határozhat meg, továbbá tőlük tájékoztatást kérhet. A feladatmeghatározásról, illetve a tájékoztatáskérésről a szerv vezetője az irányító vagy felügyelő minisztert tájékoztatja.
 
-19. § A Kormány eredeti jogalkotói hatáskörben kiadott rendeletében az államigazgatás egyes ágazatai, illetve egyes központi államigazgatási szervek irányítására a miniszterelnököt is kijelölheti.
+(2) A miniszterelnök az Alaptörvényben meghatározott feladatkörében eljárva az állami vezető számára feladatot határozhat meg, valamint az állami vezetőt a feladat- és hatáskörébe tartozó kérdésekről jelentéstételre vagy beszámolóra kötelezheti. Az állami vezető ezekről az őt e törvény szerint irányító személyt tájékoztatja.
+
+19. § (1) A Kormány eredeti jogalkotói hatáskörben kiadott rendeletében az államigazgatás egyes ágazatai, illetve egyes központi államigazgatási szervek vagy vezetői irányítására a miniszterelnököt is kijelölheti.
+
+(2) A miniszterelnök részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg.
+
+(3) A (2) bekezdésben meghatározott kormányrendelet alapján a miniszterelnökhöz átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört korábban ellátó miniszter által vezetett minisztérium jogutódja – ha a (2) bekezdésben meghatározott kormányrendelet eltérően nem rendelkezik – a Miniszterelnöki Kormányiroda.
 
 ### A miniszterelnök megbízatásának keletkezése és megszűnése
 
@@ -318,7 +325,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 - d) rádiótelefon- és internethasználatra, valamint kormányzati célú hírközlő hálózat használatára,
 - e) hivatalos külföldi kiküldetése idején kíséretre, az állami vezetők tekintetében irányadó napidíjra és költségtérítésre, valamint – szükség esetén – különjáratú légi utazásra,
 - f) külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára,
-- g) – a szolgáltatást nyújtó egészségügyi intézmény és a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére
+- g) – a szolgáltatást nyújtó egészségügyi intézmény és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium megállapodása szerint – valamennyi egészségügyi ellátás térítésmentes igénybevételére
 - h)
 
 jogosult.
@@ -331,7 +338,7 @@ jogosult.
 
 25/C. § A miniszterelnök a részére járó juttatások és szolgáltatások igénybevételéhez szükséges adatokat, valamint az adatok megváltozását haladéktalanul közli az érintett szervvel.
 
-25/D. § (1) A miniszterelnök közcélú felajánlásai, adományai költségeinek fedezetéül a központi költségvetésről szóló törvényben a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium és az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül külön előirányzat szolgálhat, amely felett a miniszterelnök rendelkezik.
+25/D. § (1) A miniszterelnök közcélú felajánlásai, adományai költségeinek fedezetéül a központi költségvetésről szóló törvényben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium és az általános politikai koordinációért felelős miniszter által vezetett minisztérium költségvetési fejezetén belül külön előirányzat szolgálhat, amely felett a miniszterelnök rendelkezik.
 
 (2) Az (1) bekezdés szerinti előirányzatból pályázat útján vagy pályáztatás nélkül, egyedi döntés alapján nyújtható közcélú felajánlás, adomány.
 
@@ -361,7 +368,7 @@ jogosult.
 
 (2) A volt miniszterelnököt – a megbízatása megszűnését követően annyi ideig, ameddig e tisztségét betöltötte – személyes gépkocsihasználat illeti meg, amelyhez személygépkocsit és gépjárművezetőt a rendőrség biztosít.
 
-(3) A volt miniszterelnököt – a megbízatása megszűnését követően annyi időnek a felére, ameddig e tisztségét betöltötte – kétfős titkárság alkalmazása illeti meg, amelyhez a kormányzati tevékenység összehangolásáért felelős miniszter helyiséget biztosít. A titkárság alkalmazásának személyi és dologi feltételeit a kormányzati tevékenység összehangolásáért felelős miniszter biztosítja.
+(3) A volt miniszterelnököt – a megbízatása megszűnését követően annyi időnek a felére, ameddig e tisztségét betöltötte – kétfős titkárság alkalmazása illeti meg, amelyhez a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter helyiséget biztosít. A titkárság alkalmazásának személyi és dologi feltételeit a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter biztosítja.
 
 (4) A volt miniszterelnök e szakaszban meghatározott juttatásaira a 8. § (2) bekezdésében, a 12/C. § (2) bekezdésében, a 25/C. §-ban foglaltakat alkalmazni kell. A volt miniszterelnököt a (2) és (3) bekezdésben meghatározott juttatások nem illetik meg, ha megbízatása az Alaptörvény 20. cikk (2) bekezdés f) és g) pontjában meghatározott okból szűnt meg.
 
@@ -390,7 +397,7 @@ jogosult.
 
 ### A kormánybiztos
 
-31. § (1) A Kormány – normatív határozatával – miniszter vagy kormányhivatal feladatkörébe nem tartozó vagy kiemelt fontosságú feladat ellátására kormánybiztost nevezhet ki. A kormánybiztos személyére a kormányzati tevékenység összehangolásáért felelős miniszter tesz javaslatot.
+31. § (1) A Kormány – normatív határozatával – miniszter vagy kormányhivatal feladatkörébe nem tartozó vagy kiemelt fontosságú feladat ellátására kormánybiztost nevezhet ki. A kormánybiztos személyére a miniszterelnök tesz javaslatot.
 
 (2) Kormánybiztossá
 
@@ -407,9 +414,12 @@ jogosult.
 
 (7) A (2) bekezdés b) pontjában meghatározott kormánybiztos államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
-(8) A kormánybiztost tevékenységének ellátásában a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
+(8) A kormánybiztost tevékenységének ellátásában a Kormány (1) bekezdés szerinti normatív határozatában meghatározottak szerint kijelölt minisztériumban vagy a Miniszterelnöki Kormányirodán működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
-(8a) A (8) bekezdéstől eltérően a kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben a kinevezése szerinti minisztériumban, miniszter irányítása alatt, illetve ha a kormánybiztos tevékenységét – a feladattól függően – a miniszterelnök és a miniszter is irányítja, az irányítást ellátó miniszter irányítása alatt álló minisztériumban működő titkárság segíti, amelyre mindkét esetben az államtitkár titkárságának szabályai az irányadóak.
+(8a) A kormánybiztost tevékenységének ellátásában a (2) bekezdés a) pontjában meghatározott esetben – a (8) bekezdéstől eltérően –
+
+- a) a kinevezése szerinti minisztériumban, a miniszter irányítása alatt működő titkárság, vagy
+- b) a kinevezése szerinti Miniszterelnöki Kormányirodán működő titkárság segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (9) A Kormány az (1) bekezdés szerinti normatív határozatában
 
@@ -428,13 +438,45 @@ jogosult.
 
 (5) A miniszterelnöki biztos tevékenységét a miniszterelnök irányítja.
 
-(6) A miniszterelnöki biztost tevékenységének ellátásában – a miniszterelnök normatív utasításában foglaltak szerint – a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztériumban vagy az általános politikai koordinációért felelős miniszter által vezetett minisztériumban működő titkárság segíti. A miniszterelnöki biztost tevékenységének ellátásában segítő titkárságra az államtitkár titkárságának szabályai az irányadóak.
+(6) A miniszterelnöki biztost tevékenységének ellátásában – a miniszterelnök normatív utasításában foglaltak szerint – a miniszterelnök által kijelölt minisztériumban vagy a Miniszterelnöki Kormányirodán működő titkárság segíti. A miniszterelnöki biztost tevékenységének ellátásában segítő titkárságra az államtitkár titkárságának szabályai az irányadóak.
 
 33. § (1) Ha a kormánybiztost vagy a miniszterelnöki biztost megbízatási ideje alatt állami vezetőnek is kinevezik, juttatásaira az állami vezetőre vonatkozó szabályok alkalmazandók azzal, hogy kormánybiztosi vagy miniszterelnöki biztosi megbízatására tekintettel akkor kaphat díjazást, ha e tevékenysége állami vezetői feladatkörével nem függ össze.
 
 (2) E törvényben nem szereplő megbízatás kormányzati feladatok teljesítésére nem adható.
 
 (3) A (2) bekezdésben meghatározott tilalom nem akadálya annak, hogy a miniszterelnök diplomáciai, személyes tanácsadói vagy egyéb eseti jellegű feladat miniszterelnöki megbízottként történő ellátására megbízást adjon. A megbízás díjazásaként a miniszterelnöki megbízott részére legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki. A miniszterelnök a miniszterelnöki megbízottat feljogosíthatja a miniszterelnöki főtanácsadói megnevezés használatára.
+
+### II/A. Fejezet — MINISZTERELNÖKI KORMÁNYIRODA
+
+33/A. § (1) A Miniszterelnöki Kormányiroda a miniszterelnök kormányzati igazgatási munkaszervezeteként működő különös hatáskörű központi államigazgatási szerv.
+
+(2) A Miniszterelnöki Kormányirodát a miniszterelnök közvetlenül irányítja.
+
+(3) A Miniszterelnöki Kormányiroda önálló költségvetési fejezettel rendelkező központi költségvetési szerv.
+
+(4) A Miniszterelnöki Kormányiroda esetében
+
+- a) a minisztériumokra vonatkozó jogszabályi rendelkezéseket megfelelően alkalmazni kell,
+- b) a minisztert a minisztérium és annak személyi állománya tekintetében megillető feladat- és hatáskörökre vonatkozó jogszabályi rendelkezéseket a miniszterelnökre megfelelően alkalmazni kell.
+
+33/B. § (1) A Miniszterelnöki Kormányirodát közigazgatási államtitkár vezeti, a miniszterelnök közvetlen irányítása alatt, a jogszabályoknak és a szakmai követelményeknek megfelelően.
+
+(2) A Miniszterelnöki Kormányiroda közigazgatási államtitkára tekintetében a közigazgatási államtitkárokra vonatkozó jogszabályi rendelkezéseket megfelelően alkalmazni kell.
+
+33/C. § A Kormány eredeti jogalkotói hatáskörben kiadott rendelete meghatározhatja, hogy a miniszterelnök mely feladat- és hatáskörét gyakorolja a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján, azzal, hogy egyebekben a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján történő feladat- és hatáskörgyakorlás rendjét a Miniszterelnöki Kormányiroda szervezeti és működési szabályzata állapítja meg.
+
+33/D. § (1) A Miniszterelnöki Kormányiroda szervezetében államtitkár működhet.
+
+(2) A Miniszterelnöki Kormányiroda szervezetében működő államtitkár tekintetében az államtitkárokra vonatkozó jogszabályi rendelkezéseket megfelelően alkalmazni kell, azzal, hogy
+
+- a) az államtitkár a miniszterelnököt nem helyettesítheti,
+- b) az 52. § (2) bekezdése, az 54. § (1) bekezdése és az 55. § (1) bekezdése esetében a miniszterre vonatkozó rendelkezéseket nem kell alkalmazni.
+
+33/E. § (1) A Miniszterelnöki Kormányiroda szervezetében működő helyettes államtitkár a jogszabályoknak és a szakmai követelményeknek megfelelően irányítja a miniszterelnök feladat- és hatáskörének a Miniszterelnöki Kormányiroda szervezeti és működési szabályzatában meghatározott része tekintetében a szakmai munkát, valamint dönt a hatáskörébe utalt ügyekben.
+
+(2) A Miniszterelnöki Kormányiroda szervezetében működő helyettes államtitkár tekintetében a helyettes államtitkárokra vonatkozó jogszabályi rendelkezéseket megfelelően alkalmazni kell.
+
+33/F. § A Miniszterelnöki Kormányiroda szervezeti és működési szabályzatát a miniszterelnök normatív utasításban adja ki.
 
 ### III. Fejezet — A MINISZTER ÉS MUNKASZERVE
 
@@ -444,21 +486,25 @@ jogosult.
 
 (1a) Az általános politikai koordinációt ellátó Miniszterelnöki Kabinetirodát a miniszterelnök kabinetfőnöke mint miniszter vezeti.
 
-(2) A miniszter vezeti a minisztériumot, e feladatkörében irányítja az államtitkár és a közigazgatási államtitkár tevékenységét.
+(2) A miniszter vezeti a minisztériumot, e feladatkörében irányítja az államtitkár és a közigazgatási államtitkár tevékenységét. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, valamint az általános politikai koordinációért felelős miniszter közvetlenül irányíthatja az általa vezetett minisztérium helyettes államtitkárának tevékenységét.
 
 (3) A miniszter részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg.
 
-(4) A (3) bekezdésben meghatározott kormányrendelet alapján a miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört korábban ellátó miniszter által vezetett minisztérium jogutódja, ha a (3) bekezdésben meghatározott kormányrendelet eltérően nem rendelkezik, a feladat- és hatáskört átvevő miniszter által vezetett minisztérium.
+(4) A (3) bekezdésben meghatározott kormányrendelet alapján a miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört korábban ellátó miniszter által vezetett minisztérium vagy a Miniszterelnöki Kormányiroda jogutódja, ha a (3) bekezdésben meghatározott kormányrendelet eltérően nem rendelkezik, a feladat- és hatáskört átvevő miniszter által vezetett minisztérium.
 
 35. § (1) A tárca nélküli miniszter feladatköreként az egy miniszter feladatkörébe sem tartozó feladatok ellátása határozható meg.
 
-(2) A tárca nélküli miniszter részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg. A tárca nélküli miniszter tevékenységét e törvényben meghatározottak szerint a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium vagy a Kormány által rendeletben meghatározott más minisztérium segíti.
+(2) A tárca nélküli miniszter részletes feladat- és hatáskörét a Kormány eredeti jogalkotói hatáskörben kiadott rendeletben állapítja meg. A tárca nélküli miniszter tevékenységét e törvényben meghatározottak szerint a Kormány által rendeletben meghatározott minisztérium vagy a Miniszterelnöki Kormányiroda segíti.
 
-(3) A tárca nélküli minisztert tevékenységének ellátásában a (2) bekezdés szerinti minisztériumban működő kabinet segíti. A (2) bekezdés szerinti minisztérium szervezeti és működési szabályzatában a tárca nélküli miniszter tevékenységének segítésére a (2) bekezdés szerinti minisztérium államtitkára, helyettes államtitkára, illetve egyéb szervezeti egységének vezetője is kijelölhető.
+(3) A tárca nélküli minisztert tevékenységének ellátásában a (2) bekezdés szerinti minisztériumban vagy a Miniszterelnöki Kormányirodán működő kabinet segíti. A (2) bekezdés szerinti minisztérium vagy a Miniszterelnöki Kormányiroda szervezeti és működési szabályzatában a tárca nélküli miniszter tevékenységének segítésére a (2) bekezdés szerinti minisztérium vagy a Miniszterelnöki Kormányiroda államtitkára, helyettes államtitkára, illetve egyéb szervezeti egységének vezetője is kijelölhető.
 
-(4) A tárca nélküli miniszter a feladatkörében egyedi utasítást adhat a (2) bekezdés szerinti minisztérium közigazgatási államtitkárának, valamint azon államtitkárának, helyettes államtitkárának és szervezeti egysége vezetőjének, aki a tárca nélküli miniszter tevékenységét segíti.
+(4) A tárca nélküli miniszter a feladatkörében egyedi utasítást adhat a (2) bekezdés szerinti minisztérium vagy a Miniszterelnöki Kormányiroda közigazgatási államtitkárának, valamint azon államtitkárának, helyettes államtitkárának és szervezeti egysége vezetőjének, aki a tárca nélküli miniszter tevékenységét segíti.
 
-(5) A (2) bekezdésben meghatározott kormányrendelet alapján a tárca nélküli miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört korábban ellátó miniszter által vezetett minisztérium jogutódja, ha a (2) bekezdésben meghatározott kormányrendelet eltérően nem rendelkezik, a (2) bekezdés szerinti minisztérium.
+(5) Ha a (2) bekezdésben meghatározott kormányrendelet eltérően nem rendelkezik, a (2) bekezdésben meghatározott kormányrendelet alapján a tárca nélküli miniszterhez átkerülő feladat- és hatáskörök tekintetében – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a feladat- és hatáskört korábban ellátó miniszter által vezetett minisztérium vagy a Miniszterelnöki Kormányiroda jogutódja a (2) bekezdés szerinti minisztérium vagy a Miniszterelnöki Kormányiroda.
+
+(6) A (2) bekezdésben meghatározott kormányrendelet alapján a tárca nélküli miniszter tevékenységét – ha a tárca nélküli miniszter a miniszterelnök általános helyettese – több (2) bekezdés szerinti szerv is segítheti.
+
+(7) A (6) bekezdés szerinti esetben a tárca nélküli miniszter tevékenységének ellátását egy, a (2) bekezdésben meghatározott kormányrendeletben meghatározott kabinet segítheti.
 
 36. §
 
@@ -491,11 +537,11 @@ helyettesíti.
 
 (2) Miniszteri biztos a miniszter feladatkörébe tartozó feladat ellátására nevezhető ki.
 
-(3) A miniszteri biztos kinevezését megelőzően a javasolt személyről a miniszter tájékoztatja a kormányzati tevékenység összehangolásáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javaslattal szemben, a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki miniszteri biztossá.
+(3) A miniszteri biztos kinevezését megelőzően a javasolt személyről a miniszter tájékoztatja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javaslattal szemben, a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki miniszteri biztossá. A kifogás tényéről és a kifogásolt személyről a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára a miniszterelnököt a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján tájékoztatja.
 
 (4) A miniszteri biztos tevékenységét az őt kinevező miniszter irányítja.
 
-(5) A miniszteri biztos megbízatása meghatározott időre, de legfeljebb hat hónapra szól. A miniszteri biztos e megbízatása visszavonással vagy az őt kinevező miniszter hatáskörgyakorlása megszűnésével is megszűnik.
+(5) A miniszteri biztos megbízatása meghatározott időre, de legfeljebb két évre szól. A miniszteri biztos e megbízatása visszavonással vagy az őt kinevező miniszter hatáskörgyakorlása megszűnésével is megszűnik.
 
 (6) A miniszteri biztos helyettes államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A díjazás nem önálló tevékenységből származó jövedelemnek minősül.
 
@@ -606,7 +652,7 @@ helyettesíti.
 
 52. § (1) Államtitkárrá minden büntetlen előéletű, az országgyűlési képviselők választásán választható személy kinevezhető.
 
-(2) Az államtitkárt a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára a köztársasági elnök nevezi ki. A miniszter véleményét a kormányzati tevékenység összehangolásáért felelős miniszter útján terjeszti a miniszterelnök elé. A kormányzati tevékenység összehangolásáért felelős miniszter a véleményre észrevételt tehet.
+(2) Az államtitkárt a miniszterelnöknek a miniszter véleménye kikérését követően tett javaslatára a köztársasági elnök nevezi ki.
 
 (3) Az államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
@@ -650,7 +696,7 @@ helyettesíti.
 
 60. § (1)
 
-(2) A minisztérium szervezeti és működési szabályzatát, illetve annak módosítását e törvény keretei között a miniszter – a miniszterelnök és a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban adja ki.
+(2) A minisztérium szervezeti és működési szabályzatát, illetve annak módosítását e törvény keretei között a miniszter – a miniszterelnök jóváhagyását követően – normatív utasításban adja ki.
 
 (3)
 
@@ -694,6 +740,14 @@ helyettesíti.
 
 (3) Vezetői kinevezés a szervezeti és működési szabályzatban meghatározott szervezeti egység tekintetében, törvény rendelkezései szerint adható.
 
+63/A. § (1) A honvédelemért felelős miniszter a Magyar Honvédség irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban, valamint a rendvédelmi szervet irányító miniszter a rendvédelmi szervek irányításával összefüggő jogainak gyakorlására az általa vezetett minisztériumban a 63. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységet is létesíthet.
+
+(2) Az (1) bekezdés szerinti szervezeti egység
+
+- a) vezetésére hivatásos szolgálati jogviszonyban álló, a minisztériumba vezényelt személy nevezhető ki,
+- b) vezetőjét a miniszter javaslatára a miniszterelnök nevezi ki és menti fel,
+- c) vezetője a Magyar Honvédség vezetőjére vagy rendvédelmi szerv esetében az országos parancsnokra vonatkozó rendelkezések szerinti juttatásban részesül.
+
 64. § (1) A miniszter normatív utasításával – vagy a feladatkörükben érintett miniszterek együttes normatív utasításukkal – több közigazgatási államtitkár, helyettes államtitkár vagy főosztály feladatkörét érintő, eseti feladat elvégzésére a feladatkörükben érintett közigazgatási államtitkárokból, helyettes államtitkárokból, főosztályvezetőkből vagy vezetői munkakört betöltő kormánytisztviselőkből álló munkacsoportot hozhat vagy hozhatnak létre.
 
 (2) Az utasításban meg kell határozni a munkacsoport feladatát, vezetőjét, tagjait és működésének idejét.
@@ -702,7 +756,7 @@ helyettesíti.
 
 65. § (1) A Miniszterelnöki Programirodát államtitkár vezeti, akinek a tevékenységét a miniszterelnök közvetlenül irányítja. A Miniszterelnöki Programiroda e törvény keretei között – a Miniszterelnöki Kabinetiroda szervezeti és működési szabályzatában meghatározottak szerint – főosztályokra és osztályokra tagozódik.
 
-(2) A miniszteri kabinetet főosztályvezetőként a kabinetfőnök közvetlenül vezeti, akinek a tevékenységét a miniszter irányítja. Ha a kormányzati tevékenység összehangolásáért felelős miniszter egyben miniszterelnök-helyettes is, kabinetfőnöke helyettes államtitkár.
+(2) A miniszteri kabinetet főosztályvezetőként a kabinetfőnök közvetlenül vezeti, akinek a tevékenységét a miniszter irányítja.
 
 (3) A kabinetfőnököt a kabinet általa kijelölt kormánytisztviselője helyettesíti.
 
@@ -718,17 +772,17 @@ helyettesíti.
 
 (3) A főosztályon – ha a szervezeti és működési szabályzat ezt lehetővé teszi – a főosztályvezető általános helyettesítésére egy, osztályt nem vezető főosztályvezető-helyettes működhet.
 
-(4) A főosztályvezetői, főosztályvezető-helyettesi és osztályvezetői megbízásra javasolt személyről – a külképviselet vezetői megbízásra javasolt személyek kivételével – a közigazgatási államtitkár tájékoztatja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javasolt személlyel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakörbe.
+(4) A főosztályvezetői, főosztályvezető-helyettesi és osztályvezetői megbízásra javasolt személyről – a külképviselet vezetői megbízásra javasolt személyek kivételével – a közigazgatási államtitkár tájékoztatja a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkárát, aki a javasolt személlyel szemben a tájékoztatást követő tizenöt napon belül kifogással élhet. A kifogásolt személy nem nevezhető ki főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakörbe. A kifogás tényéről és a kifogásolt személyről a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által vezetett minisztérium közigazgatási államtitkára a miniszterelnököt a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján tájékoztatja.
 
 68. § (1) Az állami vezető tevékenységének ellátását – ha a szervezeti és működési szabályzat így rendelkezik – titkárság segítheti.
 
-(2) A miniszter titkárságát osztályvezető vezeti. Ha a kormányzati tevékenység összehangolásáért felelős miniszter egyben miniszterelnök-helyettes is, titkárságát főosztályvezető vezeti. A miniszter titkárságát vezető osztályvezető, illetve főosztályvezető tevékenységét a miniszter kabinetfőnöke irányítja. A tárca nélküli miniszter titkárságát a tárca nélküli miniszter kabinetfőnöke vezeti.
+(2) A miniszter titkárságát osztályvezető vezeti. A miniszter titkárságát vezető osztályvezető tevékenységét a miniszter kabinetfőnöke irányítja. A tárca nélküli miniszter titkárságát a tárca nélküli miniszter kabinetfőnöke vezeti.
 
 (3) Az államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét az államtitkár irányítja. Ha az államtitkár munkáját kabinet segíti az államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét az államtitkár kabinetfőnöke irányítja.
 
 (4) A közigazgatási államtitkár titkárságát főosztályvezető vezeti, akinek a tevékenységét a közigazgatási államtitkár irányítja.
 
-(5) A helyettes államtitkár titkárságát – ha törvény eltérően nem rendelkezik – főosztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja. A 65. § (2) bekezdése szerinti helyettes államtitkár titkárságát osztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja.
+(5) A helyettes államtitkár titkárságát – ha törvény eltérően nem rendelkezik – főosztályvezető vezeti, akinek a tevékenységét a helyettes államtitkár irányítja.
 
 (6)
 
@@ -751,7 +805,7 @@ helyettesíti.
 
 (5) A kormányhivatal tevékenységéről – a (2) bekezdés b) pontjában meghatározottak szerint – beszámol a Kormánynak, valamint tájékoztatja az Országgyűlés feladatkörében érintett bizottságát. A tájékoztatást a kormányhivatal honlapján közzé kell tenni.
 
-71. § (1) A kormányhivatal szervezeti és működési szabályzatát a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a kormányzati tevékenység összehangolásáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
+71. § (1) A kormányhivatal szervezeti és működési szabályzatát a kormányhivatal vezetője készít elő, és a kormányhivatalt felügyelő miniszter – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jóváhagyását követően – normatív utasításban ad ki.
 
 (2)
 
