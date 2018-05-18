@@ -3769,7 +3769,7 @@ rendeletben megállapítsa.
 - c) az oktatásért felelős miniszterrel egyetértésben az egészségnevelés szakmai tartalmára, továbbá az illetékes miniszterrel egyetértésben egyes népegészségügyi ellátások szakmai tartalmára vonatkozó részletes szabályokat,
 - d) a népegészségügyi feladatok végrehajtása érdekében
   - da) az egyes szolgáltató tevékenységek folytatásának feltételei, valamint az ezek során felhasználásra kerülő anyagok és termékek gyártásával, forgalmazásával és felhasználásával kapcsolatos közegészségügyi követelményeket,
-  - db) az építésügyért felelős, valamint a sajátos építményfajták szerint illetékes miniszterrel egyetértésben az építmények, egyéb létesítmények létesítésének, üzemeltetésének közegészségügyi és egészségvédelmi követelményeit,
+  - db) az építésgazdaságért felelős, valamint a sajátos építményfajták szerint illetékes miniszterrel egyetértésben az építmények, egyéb létesítmények létesítésének, üzemeltetésének közegészségügyi és egészségvédelmi követelményeit,
   - dc) a lakosság egészségvédelmét biztosító egészségügyi határértékeket,
   - dd) járványügyi érdekből, a nemzetközi ajánlásoknak megfelelő védőeszköz használatának szabályait,
   - de) a nem szervezett keretben történő munkavégzés és munkakörülmények közegészségügyi követelményeit,

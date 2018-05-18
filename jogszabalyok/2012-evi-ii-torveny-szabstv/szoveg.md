@@ -455,7 +455,7 @@ van helye.
 (5) Ha vitás, hogy több szabálysértési hatóság közül melyik köteles eljárni, a hatáskörrel, illetékességgel rendelkező szabálysértési hatóságot
 
 - a) járási hivatal esetén a fővárosi és megyei kormányhivatal, rendőrkapitányság esetén a megyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
-- b) fővárosi és megyei, vagy több megyei kormányhivatal illetékességi területe esetén a kormányzati tevékenység összehangolásáért felelős miniszter, több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
+- b) fővárosi és megyei, vagy több megyei kormányhivatal illetékességi területe esetén a közigazgatás-szervezésért felelős miniszter, több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
 - c) az a) és b) pontban foglaltak hiányában a szabálysértési szabályozásért felelős miniszter
 
 jelöli ki.
@@ -3628,7 +3628,7 @@ szabálysértést követ el.
 - a) a törvény végrehajtásával összefüggő feladatok ellátásának rendjét, a szabálysértési eljárás, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben a közérdekű munka végrehajtásának,
 - b) a szabálysértési nyilvántartások részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének,
 - c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltatás rendjének,
-- d) az adópolitikáért felelős miniszter, a kormányzati tevékenység összehangolásáért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
+- d) az adópolitikáért felelős miniszter, a közigazgatás-szervezésért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
 - e)
 - f) az igazságügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárásban elrendelt elővezetés, valamint az előállítás végrehajtásával felmerült költség megtérítésének,
 - g) az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelésének és értékesítésének,

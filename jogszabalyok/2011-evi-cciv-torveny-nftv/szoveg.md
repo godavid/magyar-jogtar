@@ -62,7 +62,7 @@ alapíthat.
 
 (3) Költségvetési szervként működik a felsőoktatási intézmény, ha az (1) bekezdés a) pontjában meghatározottak tartják fenn. Az (1) bekezdés a) pontjában felsoroltak közösen, illetve az (1) bekezdés b–d) pontjában meghatározottak közösen is gyakorolhatják a fenntartói jogokat.
 
-(4) Az állam nevében a fenntartói jogokat – ha törvény másként nem rendelkezik – az oktatásért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
+(4) Az állam nevében a fenntartói jogokat – ha törvény másként nem rendelkezik – az oktatásért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter a fenntartói jogot megállapodással a tudománypolitika koordinációjáért felelős miniszterre ruházhatja.
 
 5. § (1) A felsőoktatási intézmény jogi személy.
 
@@ -279,7 +279,7 @@ jogosult folytatni.
 
 rendelkezik.
 
-(4) A kancellár a felsőoktatási intézménnyel áll közalkalmazotti jogviszonyban, felette a munkáltatói jogokat a miniszter gyakorolja.
+(4) A kancellár a felsőoktatási intézménnyel áll közalkalmazotti jogviszonyban, felette a munkáltatói jogokat a fenntartó gyakorolja.
 
 (5) A kancellár a (2) bekezdés b), d) és e) pontjában meghatározott jogkörét esetenként vagy az ügyek meghatározott körében az intézmény magasabb vezető, vezető beosztású alkalmazottjára átruházhatja. A kancellár a (2) bekezdés e) pontjában meghatározott hatáskör átruházása során biztosítja a felsőoktatási intézmény magasabb vezetője, vezetője számára a vezetői feladatok ellátásához szükséges hatáskörök gyakorlását. Az átruházott hatáskör gyakorlója a hatáskört nem adhatja tovább.
 
@@ -287,11 +287,11 @@ rendelkezik.
 
 13/B. § (1) Állami felsőoktatási intézményben az intézmény stratégiai döntéseinek megalapozása, valamint a gazdálkodási tevékenység szakmai támogatása és ellenőrzése céljából konzisztórium működik.
 
-(2) A konzisztóriumnak öt tagja van, amelybe három tagot delegál a miniszter. A tagok személyére a miniszternek javaslatot tesznek a felsőoktatási intézmény gazdasági-társadalmi környezete meghatározó szervezetei és az érintett felsőoktatási intézmény, valamint a felsőoktatási intézmény hallgatói önkormányzata. A személyi javaslat a tagjelölt – személyes adatai kezelésére, valamint jelen bekezdésben megjelölt személyes adatai nyilvánosságra hozatalára is kiterjedő – elfogadó nyilatkozatával válik érvényessé. A javasolt tagok névsorát és szakmai önéletrajzát nyilvánosságra kell hozni.
+(2) A konzisztóriumnak öt tagja van, amelybe három tagot delegál a fenntartó. A tagok személyére a fenntartónak javaslatot tesznek a felsőoktatási intézmény gazdasági-társadalmi környezete meghatározó szervezetei és az érintett felsőoktatási intézmény, valamint a felsőoktatási intézmény hallgatói önkormányzata. A személyi javaslat a tagjelölt – személyes adatai kezelésére, valamint jelen bekezdésben megjelölt személyes adatai nyilvánosságra hozatalára is kiterjedő – elfogadó nyilatkozatával válik érvényessé. A javasolt tagok névsorát és szakmai önéletrajzát nyilvánosságra kell hozni.
 
 (3) A konzisztóriumnak hivatalból tagja a rektor és a kancellár.
 
-(4) A konzisztórium delegált tagjait a miniszter bízza meg. A rektor és a kancellár konzisztóriumi tagsága magasabb vezetői megbízatása idejére, a delegált tagok megbízatása öt évre szól.
+(4) A konzisztórium delegált tagjait a fenntartó bízza meg. A rektor és a kancellár konzisztóriumi tagsága magasabb vezetői megbízatása idejére, a delegált tagok megbízatása öt évre szól.
 
 (5) A konzisztórium delegált tagjai tevékenységükért díjazásra nem jogosultak.
 
@@ -315,7 +315,7 @@ rendelkezik.
 - a) a megismételt ülés napirendjén szereplő kérdések tekintetében, ha a konzisztórium tizenöt napon belül összehívott megismételt ülése a jelenlévők létszámára tekintettel ismételten határozatképtelen,
 - b) ha a konzisztórium létszáma olyan mértékben lecsökken, hogy a 13/B. § (6) bekezdés c) pontja szerinti határozatképesség nem biztosítható.
 
-13/D. § A konzisztóriumi tagság megszűnik a megbízatás lejártával, a tag halálával, lemondásával, illetve visszahívásával. A miniszter jogosult a delegált tagot – a visszahívás okának megjelölésével – visszahívni. A lemondás elfogadása, illetve a visszahívás a miniszter hatáskörébe tartozik.
+13/D. § A konzisztóriumi tagság megszűnik a megbízatás lejártával, a tag halálával, lemondásával, illetve visszahívásával. A fenntartó jogosult a delegált tagot – a visszahívás okának megjelölésével – visszahívni. A lemondás elfogadása, illetve a visszahívás a fenntartó hatáskörébe tartozik.
 
 14. § (1) A felsőoktatási intézményben informatikai, szociális, sport, könyvtári, levéltári, múzeumi, egészségügyi szolgáltató – kormányrendeletben meghatározottak szerint kollégiumi – és egyéb – így különösen tanműhely, tanszálloda, tangazdaság, művészeti gyakorlóhely, botanikus kert, valamint termelő feladatot ellátó – szervezeti egység hozható létre. Egy szak képzéséért több telephely esetén is csak egy oktatási szervezeti egység lehet a felelős. A felelős megnevezését a képzési program tartalmazza.
 
@@ -1419,7 +1419,7 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 - e) hallgatói kompetenciamérést rendel el,
 - f) a külföldi magyar nyelvű felsőoktatás támogatása céljából felsőoktatási együttműködési programot hirdet meg.
 
-(3) A miniszter felsőoktatás-fejlesztéssel kapcsolatos feladatai:
+(3) A miniszter felsőoktatás-fejlesztéssel kapcsolatos – a tudománypolitika koordinációjáért felelős miniszter közreműködésével ellátott – feladatai:
 
 - a) a felsőoktatás rendszere fejlesztési terveinek elkészíttetése, beleértve a középtávú fejlesztési tervet,
 - b) a felsőoktatásban jelentkező képzési, oktatási problémák vizsgálata, megoldások kidolgoztatása, az országos hallgatói kompetenciamérés szakmai feltételeinek megteremtése,
@@ -1644,7 +1644,8 @@ irányuló eljárásban.
   - ha) hatáskörében történő rendszeres pénzjuttatással járó cím, elismerés alapításához; elismerés, cím alapján rendszeres pénzjuttatás folyósításához,
   - hb) éves képzési tevékenységének – különösen az indított szakok, a képzés megszervezésének módozatai, a tervezett szakos hallgatói kapacitás – kialakításához;
 - i) a felsőoktatási intézmény működése, gazdálkodása ellenőrzése céljából jogosult az intézmény tanulmányi, gazdálkodási, illetve egyéb nyilvántartási adataihoz való hozzáférésre a 3. mellékletben foglaltak szerint;
-- j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét.
+- j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét;
+- k) gyakorolja az állami felsőoktatási intézményben a konzisztórium tagjainak delegálásával, megbízásával, visszahívásával, a megbízás megszüntetésével kapcsolatos döntési hatásköröket.
 
 (4) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 
@@ -1654,7 +1655,7 @@ irányuló eljárásban.
 
 (2) A fenntartó a szakmai munka eredményességét és az intézmény működésének hatékonyságát a felsőoktatási intézmény által az éves gazdálkodásáról – a számviteli rendelkezések szerint – készített beszámoló alapján értékeli és indokolt esetben – megfelelő határidő tűzésével – intézkedést kezdeményez.
 
-(3) A felsőoktatási intézmény a szervezeti és működési szabályzatát, intézményfejlesztési tervét, költségvetését, valamint ezek módosítását a szenátus döntésétől számított tizenöt napon belül megküldi a fenntartónak. Ha a felsőoktatási intézmény a költségvetésétől eltérő döntést kíván hozni, azt előzetesen meg kell küldenie a fenntartónak. A fenntartó a szenátus által hozott egyéb döntések megküldését is kérheti. Az állami felsőoktatási intézmény esetén az intézményfejlesztési tervet, költségvetést, valamint ezek módosítását tájékoztatás céljából az állami vagyon felügyeletéért felelős miniszternek, valamint az államháztartásért felelős miniszternek is meg kell küldeni.
+(3) A felsőoktatási intézmény a szervezeti és működési szabályzatát, intézményfejlesztési tervét, költségvetését, valamint ezek módosítását a szenátus döntésétől számított tizenöt napon belül megküldi a fenntartónak. Ha a felsőoktatási intézmény a költségvetésétől eltérő döntést kíván hozni, azt előzetesen meg kell küldenie a fenntartónak. A fenntartó a szenátus által hozott egyéb döntések megküldését is kérheti. Az állami felsőoktatási intézmény esetén az intézményfejlesztési tervet, költségvetést, valamint ezek módosítását tájékoztatás céljából az állami vagyon felügyeletéért felelős miniszternek, valamint az államháztartásért felelős miniszternek, továbbá a 4. § (4) bekezdés alapján a tudománypolitika koordinációjáért felelős miniszter fenntartásába átadott intézmény esetén a miniszternek is meg kell küldeni.
 
 (4) A fenntartó a felsőoktatási intézmény költségvetésével, a költségvetés végrehajtásának ütemtervével kapcsolatos észrevételeit a megküldéstől számított harminc napon belül, a szervezeti és működési szabályzattal kapcsolatos észrevételeit a megküldéstől számított hatvan napon belül, az intézményfejlesztési tervvel kapcsolatos észrevételeit kilencven napon belül közölheti a felsőoktatási intézménnyel. Ez a határidő egy alkalommal, legfeljebb harminc nappal meghosszabbítható. Ha a fenntartó a felsőoktatási intézmény költségvetésével, vagy a szervezeti és működési szabályzatban, illetve az intézményfejlesztési tervben foglaltakkal nem ért egyet – megfelelő határidő tűzésével – visszaküldi azt a felsőoktatási intézménynek, kezdeményezve annak átdolgozását.
 
@@ -1875,7 +1876,7 @@ nyújtott támogatás.
 
 (6) A (4) bekezdésben szabályozott támogatások feltételeit és rendjét a Kormány határozza meg, azzal a megkötéssel, hogy a kis létszámú szakokra járó hallgatók együttes létszáma nem haladhatja meg a felsőoktatási intézmények hallgatói létszámának öt százalékát.
 
-(7) A (4) bekezdésben meghatározott hozzájárulások, támogatások fedezetét a miniszter által vezetett minisztérium fejezetében kell megtervezni.
+(7) A (4) bekezdésben meghatározott hozzájárulások, támogatások fedezetét – a (4) bekezdés e) pontjában meghatározott hozzájárulás, támogatás fedezetét ide nem értve – a miniszter által vezetett minisztérium fejezetében kell megtervezni.
 
 (8) A (2) bekezdésben meghatározott jogcímek – az a) és f) pontban meghatározott jogcímek kivételével – nem jelentenek felhasználási kötöttséget.
 
@@ -2010,7 +2011,7 @@ a felsőoktatási intézménynek a 85/A. § szerint nyújtott költségvetési f
   - aa) az állami vagyon értékesítésére vonatkozó szabályok betartásával,
   - ab) a vagyon valós piaci értékének megfelelő ellenérték fejében,
   - ac) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulásával,
-  - ad) a miniszter előzetes értesítése mellett,
+  - ad) a fenntartó előzetes értesítése mellett,
   - ae) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi – önkormányzat elővásárlási jogának biztosításával, vagy
 - b) jogszabályban meghatározott esetben elektronikus árverési rendszer útján
 
@@ -2338,7 +2339,7 @@ gyakorolja.
 
 ### XXX. Fejezet — VEGYES RENDELKEZÉSEK
 
-#### 63. Az államtudományi és közigazgatási, rendészeti, katonai felsőoktatás, illetve egyes intézmények sajátos szabályozása
+#### 63. Az államtudományi és közigazgatási, rendészeti, katonai felsőoktatás, valamint az agrár- és gazdasági, informatikai, műszaki felsőoktatás, illetve egyes intézmények sajátos szabályozása
 
 104. § (1) E törvény rendelkezéseit a Nemzeti Közszolgálati Egyetemre és az általa folytatott államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, továbbá nemzetközi és európai közszolgálati felsőoktatásra, valamint az intézményben foglalkoztatottakra, hallgatókra vonatkozóan a Nemzeti Közszolgálati Egyetemről szóló törvényben meghatározott eltéréssel kell alkalmazni. A Nemzeti Közszolgálati Egyetem tekintetében:
 
@@ -2386,6 +2387,8 @@ foglalt eltérésekkel együtt kell alkalmazni.
 104/D. § A Magyar Táncművészeti Egyetem egyetemként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – eltérhet a 6. § (2) bekezdésében, a 9. § (3) bekezdésében foglalt a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
 
 104/E. § A Semmelweis Egyetem egyetemként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – eltérhet a 9. § (3) bekezdésében a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania.
+
+104/F. § A miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban az agrártudományok és a műszaki tudományok tudományterületen, valamint az agrár, gazdaságtudományok, informatika, műszaki képzési területen folytatott felsőoktatási tevékenység vonatkozásában a tudománypolitika koordinációjáért felelős miniszter közreműködésével dönt.
 
 #### 64. Rendelkezés korábban szerzett és egyéb külföldi címekről
 
