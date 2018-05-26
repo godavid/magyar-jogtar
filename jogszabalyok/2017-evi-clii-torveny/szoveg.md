@@ -3082,6 +3082,6 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (1)–(3)
 
-(4) Hatályát veszti a 29. § (5) és (6) bekezdése.
+(4)
 
 (5)
