@@ -1079,7 +1079,7 @@ nemzetbiztonsági ellenőrzését.
 - b) a 70. § (2) bekezdés g) pontjában meghatározott személy esetén az Országgyűlés elnöke,
 - c) a 70. § § (2) bekezdés c), d) és e) pontjában meghatározott személy esetében a miniszterelnök,
 - d) a 70. § (2) bekezdés f) pontjában meghatározott személy esetében az állomány szerint illetékes főigazgató által vezetett nemzetbiztonsági szolgálatot irányító miniszter,
-- e) bíró, igazságügyi alkalmazott esetében a munkáltatói jogkör gyakorlója feletti kinevezési jogkört gyakorló bírósági vezető, ennek hiányában az Országos Bírósági Hivatal elnöke,
+- e) igazságügyi alkalmazott esetében a munkáltatói jogkör gyakorlója feletti kinevezési jogkört gyakorló bírósági vezető, ennek hiányában az Országos Bírósági Hivatal elnöke,
 - f) ügyészségi szolgálati viszonyban álló személyek esetében a legfőbb ügyész
 
 azt jóváhagyta.
@@ -1178,7 +1178,7 @@ azt jóváhagyta.
 - b) az érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyba jelölik,
 - c) a 71/D. § alapján a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy ezt kéri,
 - d) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy a nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettsége teljesítését elmulasztotta vagy a bejelentett változás jellege ezt indokolja,
-- e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult vagy a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója nemzetbiztonsági kockázatra utaló körülményről, így különösen az alábbiakról szerez tudomást:
+- e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult nemzetbiztonsági kockázatra utaló körülményről, az alábbiakról szerez tudomást:
   - ea) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója ellen indult büntetőeljárás vagy elzárással büntethető szabálysértés miatt indult szabálysértési eljárás,
   - eb) az ellenőrzött személynek vagy a Polgári Törvénykönyv szerinti közeli hozzátartozójának a külföldi személyekkel, szervezetekkel, külföldi érdekeltségeivel kapcsolatos körülményeiben bekövetkezett lényeges változás,
   - ec) idegen állampolgárság, külföldi útlevél megszerzése,
@@ -1284,7 +1284,7 @@ azt jóváhagyta.
 - d) lakás: a nyilvános vagy a közönség részére nyitva álló helyen kívüli minden egyéb helyiség vagy terület;
 - e) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a jegyes, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa;
 - f) cégellenőrzés: az illetékes nemzetbiztonsági szolgálat által végzett ellenőrzés, amelynek célja annak megállapítása, hogy a gazdálkodó szervezet minősített adat felhasználásával járó közreműködése jelent-e nemzetbiztonsági kockázatot;
-- g) foglalkoztatási jogviszony: a bírói szolgálati jogviszony, az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, az állami szolgálati jogviszony, a közalkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
+- g) foglalkoztatási jogviszony: az igazságügyi szolgálati jogviszony, az ügyészségi szolgálati jogviszony, a hivatásos szolgálati viszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, az állami szolgálati jogviszony, a közalkalmazotti jogviszony, a munkajogviszony és a munkavégzésre irányuló egyéb jogviszony;
 - h)
 - i) nemzetbiztonsági ellenőrzés alá eső személy:
   - ia) a nagykövet és az önálló külképviseletet irányító főkonzul;
