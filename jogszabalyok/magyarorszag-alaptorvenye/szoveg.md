@@ -42,6 +42,8 @@ Valljuk, hogy népuralom csak ott van, ahol az állam szolgálja polgárait, üg
 
 Tiszteletben tartjuk történeti alkotmányunk vívmányait és a Szent Koronát, amely megtestesíti Magyarország alkotmányos állami folytonosságát és a nemzet egységét.
 
+Valljuk, hogy a történeti alkotmányunkban gyökerező önazonosságunk védelmezése az állam alapvető kötelessége.
+
 Nem ismerjük el történeti alkotmányunk idegen megszállások miatt bekövetkezett felfüggesztését. Tagadjuk a magyar nemzet és polgárai ellen a nemzetiszocialista és a kommunista diktatúra uralma alatt elkövetett embertelen bűnök elévülését.
 
 Nem ismerjük el az 1949. évi kommunista alkotmányt, mert egy zsarnoki uralom alapja volt, ezért kinyilvánítjuk érvénytelenségét.
@@ -90,7 +92,7 @@ Magyarország az egységes magyar nemzet összetartozását szem előtt tartva f
 
 (1) Magyarország az európai népek szabadságának, jólétének és biztonságának kiteljesedése érdekében közreműködik az európai egység megteremtésében.
 
-(2) Magyarország az Európai Unióban tagállamként való részvétele érdekében nemzetközi szerződés alapján – az alapító szerződésekből fakadó jogok gyakorlásához és kötelezettségek teljesítéséhez szükséges mértékig – az Alaptörvényből eredő egyes hatásköreit a többi tagállammal közösen, az Európai Unió intézményei útján gyakorolhatja.
+(2) Magyarország az Európai Unióban tagállamként való részvétele érdekében nemzetközi szerződés alapján – az alapító szerződésekből fakadó jogok gyakorlásához és kötelezettségek teljesítéséhez szükséges mértékig – az Alaptörvényből eredő egyes hatásköreit a többi tagállammal közösen, az Európai Unió intézményei útján gyakorolhatja. Az e bekezdés szerinti hatáskörgyakorlásnak összhangban kell állnia az Alaptörvényben foglalt alapvető jogokkal és szabadságokkal, továbbá nem korlátozhatja Magyarország területi egységére, népességére, államformájára és állami berendezkedésére vonatkozó elidegeníthetetlen rendelkezési jogát.
 
 (3) Az Európai Unió joga – a (2) bekezdés keretei között – megállapíthat általánosan kötelező magatartási szabályt.
 
@@ -194,6 +196,8 @@ Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles 
 
 (3) Az Alaptörvény rendelkezéseit azok céljával, a benne foglalt Nemzeti hitvallással és történeti alkotmányunk vívmányaival összhangban kell értelmezni.
 
+(4) Magyarország alkotmányos önazonosságának és keresztény kultúrájának védelme az állam minden szervének kötelessége.
+
 #### S) cikk
 
 (1) Alaptörvény elfogadására vagy az Alaptörvény módosítására irányuló javaslatot a köztársasági elnök, a Kormány, országgyűlési bizottság vagy országgyűlési képviselő terjeszthet elő.
@@ -296,11 +300,13 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 #### VI. cikk
 
-(1) Mindenkinek joga van ahhoz, hogy magán- és családi életét, otthonát, kapcsolattartását és jó hírnevét tiszteletben tartsák.
+(1) Mindenkinek joga van ahhoz, hogy magán- és családi életét, otthonát, kapcsolattartását és jó hírnevét tiszteletben tartsák. A véleménynyilvánítás szabadsága és a gyülekezési jog gyakorlása nem járhat mások magán- és családi életének, valamint otthonának sérelmével.
 
-(2) Mindenkinek joga van személyes adatai védelméhez, valamint a közérdekű adatok megismeréséhez és terjesztéséhez.
+(2) Az állam jogi védelemben részesíti az otthon nyugalmát.
 
-(3) A személyes adatok védelméhez és a közérdekű adatok megismeréséhez való jog érvényesülését sarkalatos törvénnyel létrehozott, független hatóság ellenőrzi.
+(3) Mindenkinek joga van személyes adatai védelméhez, valamint a közérdekű adatok megismeréséhez és terjesztéséhez.
+
+(4) A személyes adatok védelméhez és a közérdekű adatok megismeréséhez való jog érvényesülését sarkalatos törvénnyel létrehozott, független hatóság ellenőrzi.
 
 #### VII. cikk
 
@@ -370,11 +376,15 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 #### XIV. cikk
 
-(1) Magyar állampolgár Magyarország területéről nem utasítható ki, és külföldről bármikor hazatérhet. Magyarország területén tartózkodó külföldit csak törvényes határozat alapján lehet kiutasítani. Tilos a csoportos kiutasítás.
+(1) Magyarországra idegen népesség nem telepíthető be. Idegen állampolgár – ide nem értve a szabad mozgás és tartózkodás jogával rendelkező személyeket – Magyarország területén a magyar hatóságok által egyedileg elbírált kérelme alapján élhet. A kérelem előterjesztése és elbírálása feltételeinek alapvető szabályait sarkalatos törvény határozza meg.
 
-(2) Senki nem utasítható ki olyan államba, vagy nem adható ki olyan államnak, ahol az a veszély fenyegeti, hogy halálra ítélik, kínozzák vagy más embertelen bánásmódnak, büntetésnek vetik alá.
+(2) Magyar állampolgár Magyarország területéről nem utasítható ki, és külföldről bármikor hazatérhet. Magyarország területén tartózkodó külföldit csak törvényes határozat alapján lehet kiutasítani. Tilos a csoportos kiutasítás.
 
-(3) Magyarország – ha sem származási országuk, sem más ország nem nyújt védelmet – kérelemre menedékjogot biztosít azoknak a nem magyar állampolgároknak, akiket hazájukban vagy a szokásos tartózkodási helyük szerinti országban faji, nemzeti hovatartozásuk, meghatározott társadalmi csoporthoz tartozásuk, vallási, illetve politikai meggyőződésük miatt üldöznek, vagy az üldöztetéstől való félelmük megalapozott.
+(3) Senki nem utasítható ki olyan államba, vagy nem adható ki olyan államnak, ahol az a veszély fenyegeti, hogy halálra ítélik, kínozzák vagy más embertelen bánásmódnak, büntetésnek vetik alá.
+
+(4) Magyarország – ha sem származási országuk, sem más ország nem nyújt védelmet – kérelemre menedékjogot biztosít azoknak a nem magyar állampolgároknak, akiket hazájukban vagy a szokásos tartózkodási helyük szerinti országban faji, nemzeti hovatartozásuk, meghatározott társadalmi csoporthoz tartozásuk, vallási, illetve politikai meggyőződésük miatt üldöznek, vagy a közvetlen üldöztetéstől való félelmük megalapozott. Nem jogosult menedékjogra az a nem magyar állampolgár, aki Magyarország területére olyan országon keresztül érkezett, ahol üldöztetésnek vagy üldöztetés közvetlen veszélyének nem volt kitéve.
+
+(5) A menedékjog biztosításának alapvető szabályait sarkalatos törvény határozza meg.
 
 #### XV. cikk
 
@@ -440,7 +450,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 #### XXII. cikk
 
-(1) Magyarország törekszik arra, hogy az emberhez méltó lakhatás feltételeit és a közszolgáltatásokhoz való hozzáférést mindenki számára biztosítsa.
+(1) Az állam jogi védelemben részesíti az otthont. Magyarország törekszik arra, hogy az emberhez méltó lakhatás feltételeit és a közszolgáltatásokhoz való hozzáférést mindenki számára biztosítsa.
 
 (2) Az emberhez méltó lakhatás feltételeinek a megteremtését az állam és a helyi önkormányzatok azzal is segítik, hogy törekszenek valamennyi hajlék nélkül élő személy számára szállást biztosítani.
 
@@ -546,7 +556,7 @@ c) elfogadja a központi költségvetést, és jóváhagyja annak végrehajtás�
 
 d) felhatalmazást ad a feladat- és hatáskörébe tartozó nemzetközi szerződés kötelező hatályának elismerésére;
 
-e) megválasztja a köztársasági elnököt, az Alkotmánybíróság tagjait és elnökét, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;
+e) megválasztja a köztársasági elnököt, az Alkotmánybíróság tagjait és elnökét, a Kúria elnökét, a Közigazgatási Felsőbíróság elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;
 
 f) megválasztja a miniszterelnököt, dönt a Kormánnyal kapcsolatos bizalmi kérdésről;
 
@@ -718,7 +728,7 @@ h) feloszlathatja az Országgyűlést;
 
 i) az elfogadott Alaptörvényt és az Alaptörvény módosítását a megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelményekkel való összhangjának vizsgálatára megküldheti az Alkotmánybíróságnak, az elfogadott törvényt az Alaptörvénnyel való összhangjának vizsgálatára megküldheti az Alkotmánybíróságnak, vagy megfontolásra visszaküldheti az Országgyűlésnek;
 
-j) javaslatot tesz a miniszterelnök, a Kúria elnöke, az Országos Bírósági Hivatal elnöke, a legfőbb ügyész és az alapvető jogok biztosa személyére;
+j) javaslatot tesz a miniszterelnök, a Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, az Országos Bírósági Hivatal elnöke, a legfőbb ügyész és az alapvető jogok biztosa személyére;
 
 k) kinevezi a hivatásos bírákat és a Költségvetési Tanács elnökét;
 
@@ -970,7 +980,7 @@ c) alkotmányjogi panasz alapján felülvizsgálja az egyedi ügyben alkalmazott
 
 d) alkotmányjogi panasz alapján felülvizsgálja a bírói döntésnek az Alaptörvénnyel való összhangját;
 
-e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;
+e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;
 
 f) vizsgálja a jogszabályok nemzetközi szerződésbe ütközését;
 
@@ -992,7 +1002,7 @@ illetve sarkalatos törvényben meghatározott jogkövetkezményt állapít meg.
 
 a) az elfogadott, de még ki nem hirdetett Alaptörvény és Alaptörvény-módosítás tekintetében a köztársasági elnök,
 
-b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa
+b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a Közigazgatási Felsőbíróság elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa
 
 kezdeményezheti.
 
@@ -1012,23 +1022,15 @@ b) az (5) bekezdés b) pontja szerinti esetben az Alkotmánybíróság megsemmis
 
 #### 25. cikk
 
-(1) A bíróságok igazságszolgáltatási tevékenységet látnak el. A legfőbb bírósági szerv a Kúria.
+(1) A bíróságok igazságszolgáltatási tevékenységet látnak el. Bíróság a rendes és a közigazgatási bíróság.
 
-(2) A bíróság dönt
+(2) A rendes bíróságok döntenek büntetőügyben, magánjogi jogvitában és törvényben meghatározott egyéb ügyben. A rendes bírósági szervezet legfőbb szerve a Kúria, amely biztosítja a rendes bíróságok jogalkalmazásának egységét, a rendes bíróságokra kötelező jogegységi határozatot hoz.
 
-a) büntetőügyben, magánjogi jogvitában, törvényben meghatározott egyéb ügyben;
-
-b) a közigazgatási határozatok törvényességéről;
-
-c) az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről;
-
-d) a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról.
-
-(3) A Kúria a (2) bekezdésben meghatározottak mellett biztosítja a bíróságok jogalkalmazásának egységét, a bíróságokra kötelező jogegységi határozatot hoz.
+(3) A közigazgatási bíróságok döntenek közigazgatási jogvitákban és törvényben meghatározott egyéb ügyben. A közigazgatási bírósági szervezet legfőbb szerve a Közigazgatási Felsőbíróság, amely biztosítja a közigazgatási bíróságok jogalkalmazásának egységét, a közigazgatási bíróságokra kötelező jogegységi határozatot hoz.
 
 (4) A bírósági szervezet többszintű. Az ügyek meghatározott csoportjaira külön bíróságok létesíthetők.
 
-(5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
+(5) A rendes bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a rendes bíróságok központi igazgatását. Az Országos Bírói Tanács, illetve más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
 
 (6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.
 
@@ -1040,9 +1042,9 @@ d) a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elm
 
 (1) A bírák függetlenek, és csak a törvénynek vannak alárendelve, ítélkezési tevékenységükben nem utasíthatóak. A bírákat tisztségükből csak sarkalatos törvényben meghatározott okból és eljárás keretében lehet elmozdítani. A bírák nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.
 
-(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincadik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
+(2) A hivatásos bírákat – sarkalatos törvényben meghatározottak szerint – a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincadik életévét betöltötte. A Kúria elnöke, a Közigazgatási Felsőbíróság elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
 
-(3) A Kúria elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
+(3) A Kúria elnökét és a Közigazgatási Felsőbíróság elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének és a Közigazgatási Felsőbíróság elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
 #### 27. cikk
 
@@ -1292,7 +1294,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 #### 46. cikk
 
-(1) A rendőrség alapvető feladata a bűncselekmények megakadályozása, felderítése, a közbiztonság, a közrend és az államhatár rendjének védelme.
+(1) A rendőrség alapvető feladata a bűncselekmények megakadályozása, felderítése, a közbiztonság, a közrend és az államhatár rendjének védelme. A rendőrség részt vesz a jogellenes bevándorlás megakadályozásában.
 
 (2) A rendőrség működését a Kormány irányítja.
 
@@ -1635,5 +1637,21 @@ n) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvénynek 
 o) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CXLVI. törvény, és
 
 p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CLIX. törvény.
+
+#### 27.
+
+A közigazgatási bírósági szervezet felállításáról szóló sarkalatos törvény hatálybalépéséig a bíróság dönt
+
+a) büntetőügyben, magánjogi jogvitában, törvényben meghatározott egyéb ügyben;
+
+b) a közigazgatási határozatok törvényességéről;
+
+c) az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről;
+
+d) a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról.
+
+#### 28.
+
+A közigazgatási bírósági szervezet felállításáról szóló sarkalatos törvény hatálybalépéséig a bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
 
 *Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
