@@ -705,11 +705,473 @@ terheli.”
 
 #### 164. A büntetőeljárásról szóló 2017. évi XC. törvény eltérő tartalommal hatályba lépő rendelkezései
 
-508–522. §
+508. § A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: új Be.) 4. §-a a következő (7)–(9) bekezdéssel kiegészülve lép hatályba:
+
+„(7) Büntetőeljárás nem indítható, illetve a megindult büntetőeljárást meg kell szüntetni, ha az elkövető cselekményét az Európai Unió tagállamában (a továbbiakban: tagállam) jogerősen elbírálták, vagy egy tagállamban a cselekmény érdeméről olyan határozatot hoztak, amely azonos cselekmény vonatkozásában – a határozatot hozó tagállam joga alapján – akadályát képezi újabb büntetőeljárás megindításának, vagy annak, hogy a büntetőeljárást hivatalból vagy rendes jogorvoslat alapján tovább folytassák.
+
+(8) A (7) bekezdés nem akadálya a büntetőeljárás megindításának és lefolytatásának, ha
+
+a) a tagállam bírósága által hozott jogerős ítélet (a továbbiakban: tagállami ítélet) nem vehető figyelembe, vagy
+
+b) a cselekményt egészében Magyarország területén követték el, kivéve, ha az elkövető elítélése esetén a tagállami ítélettel kiszabott büntetést végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre.
+
+(9) A (8) bekezdésben meghatározott esetben a büntetőeljárás megindításáról a legfőbb ügyész dönt. Az így lefolytatott eljárásban történt elítélés esetén a külföldön végrehajtott büntetést, intézkedést vagy személyi szabadságot érintő kényszerintézkedést a magyar bíróság által kiszabott büntetésbe vagy intézkedésbe be kell számítani.”
+
+509. § Az új Be. 45. §-a a következő szöveggel lép hatályba:
+
+„45. § (1) A védelem ellátására meghatalmazást a terhelt, a terhelt törvényes képviselője vagy nagykorú hozzátartozója, külföldi állampolgár terhelt esetén hazája konzuli tisztviselője is adhat.
+
+(2) A meghatalmazott ügyvéd védőként akkor járhat el, ha – a (3) bekezdésben foglalt kivétellel – eredeti meghatalmazását vagy annak hitelesített másolatát az eljáró bírósághoz, ügyészséghez vagy nyomozó hatósághoz benyújtották.
+
+(3) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) a védői meghatalmazásra vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett védői meghatalmazás az eljáró bíróságnak, ügyészségnek, illetve nyomozó hatóságnak történő bejelentéstől hatályos.
+
+(4) A terhelt mind az általa, mind az (1) bekezdésben meghatározott segítő által meghatalmazott védő meghatalmazását bármikor visszavonhatja.
+
+(5) A meghatalmazás hatálya – ha a meghatalmazásból más nem tűnik ki – a büntetőeljárás jogerős befejezéséig tart, és kiterjed a perújításra, a felülvizsgálatra, az egyszerűsített felülvizsgálatra, a bűncselekménnyel összefüggő vagyon vagy dolog elvonására, adat hozzáférhetetlenné tételére irányuló eljárásra, valamint a különleges eljárásokra is.”
+
+510. § Az új Be. 56. § (1) és (2) bekezdése a következő szöveggel lép hatályba:
+
+„(1) A büntetőeljárásban polgári jogi igényként az a
+
+a) kártérítésre, vagy
+
+b) dolog kiadására vagy pénz fizetésére
+
+irányuló követelés érvényesíthető, amely a vád tárgyává tett cselekmény közvetlen következtében keletkezett.
+
+(2) A polgári jogi igényre a polgári perrendtartásról szóló törvénynek a kereseti kérelem fajtáira vonatkozó rendelkezéseit is alkalmazni kell. Ha a sértett az (1) bekezdésben foglalt követeléseket vagylagosan érvényesíti, a polgári perrendtartásról szóló törvénynek a keresethalmazatra vonatkozó rendelkezéseit is alkalmazni kell.”
+
+511. § Az új Be. 62. §-a a következő szöveggel lép hatályba:
+
+„62. § (1) A meghatalmazást írásba kell foglalni vagy jegyzőkönyvbe kell mondani. A meghatalmazott képviselő – a (3) bekezdésben foglalt kivétellel – köteles az eredeti meghatalmazását vagy annak hitelesített másolatát az első beadványához mellékelni, vagy ha erre előbb kerül sor, első jelentkezése alkalmával az ügyiratokhoz csatolás végett az eljáró bíróságnak, ügyészségnek vagy nyomozó hatóságnak átadni.
+
+(2) A meghatalmazást – a (3) és (4) bekezdésben foglalt kivétellel – közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
+
+(3) A rendelkezési nyilvántartásban a meghatalmazásra vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás az eljáró bíróságnak, ügyészségnek, illetve nyomozó hatóságnak történő bejelentéstől hatályos.
+
+(4) Az ügyvédnek adott meghatalmazás igazolásáról jogszabály eltérően rendelkezhet.
+
+(5) A meghatalmazás korlátozása csak annyiban hatályos, amennyiben az magából a meghatalmazásból kitűnik.”
+
+512. § Az új Be. 72. §-a a következő (4) bekezdéssel kiegészülve lép hatályba:
+
+„(4) Ha a sértett, a vagyoni érdekelt vagy az egyéb érdekelt a 69. § alapján büntetőeljárási cselekvőképességgel rendelkezik, de a polgári jog szabályai szerint teljes cselekvőképességgel nem rendelkezik, a törvényes képviselője a jelenléti, az ügyirat megismerési és a tájékoztatáshoz való jogát azokban az ügykörökben történő képviselet megfelelő biztosítása érdekében gyakorolhatja, amelyekre a polgári jog szabályai szerint a képviselt személy cselekvőképessége nem terjed ki.”
+
+513. § Az új Be. 115. §-a a következő (3) bekezdéssel kiegészülve lép hatályba:
+
+„(3) A kiskorú kivételével a 69. § (5) bekezdés a) és b) pontjában meghatározott személyt a törvényes képviselője útján kell idézni, illetve értesíteni. A polgári jog szabályai szerint teljes cselekvőképességgel nem rendelkező személy idézését és értesítését a törvényes képviselővel is közölni kell.”
+
+514. § (1) Az új Be. 130. § (1) bekezdés b) pontja a következő szöveggel lép hatályba:
+
+(A bíróság, az ügyészség és a nyomozó hatóság az ügyiratát)
+
+„b) elektronikus úton az E-ügyintézési törvény szerinti hivatalos elérhetőségre, illetve biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre,”
+
+(kézbesíti a címzett részére.)
+
+(2) Az új Be. 131. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A 69. § (5) bekezdésében meghatározott esetben, ha a sértettnek, a vagyoni érdekeltnek, vagy az egyéb érdekeltnek nincs meghatalmazott képviselője, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratát a törvényes képviselő részére kézbesíti. Ha a sértett, a vagyoni érdekelt vagy az egyéb érdekelt a 69. § alapján büntetőeljárási cselekvőképességgel rendelkezik, azonban a polgári jog szabályai szerint teljes cselekvőképességgel nem rendelkezik, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratát a törvényes képviselő részére is kézbesíti.”
+
+(3) Az új Be. 149. § (3) és (4) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Az elektronikus kapcsolattartás vállalása esetében az eljárás folyamán a büntetőeljárásban részt vevő személy, illetve jogi képviselőnek nem minősülő képviselője köteles a bírósággal, az ügyészséggel és a nyomozó hatósággal a kapcsolatot a 148. § (2) bekezdése szerint, elektronikus úton tartani és a bíróság, az ügyészség és a nyomozó hatóság is valamennyi ügyiratot elektronikus úton kézbesít a részére.
+
+(4) Ha az elektronikus kapcsolattartásra nem köteles büntetőeljárásban részt vevő személy vagy a jogi képviselőnek nem minősülő képviselője az eljárásban még nem vállalta az elektronikus kapcsolattartást, a bíróság, az ügyészség és a nyomozó hatóság a részére papíralapon történő első kézbesítéssel egyidejűleg tájékoztatja arról, hogy a továbbiakban e törvény rendelkezései szerint vállalhatja az elektronikus kapcsolattartást.”
+
+(4) Az új Be. 150. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) Mentesül a kötelező elektronikus kapcsolattartás alól a büntetőeljárásban részt vevő személy, ha elektronikus ügyintézéshez való joga szünetel.”
+
+515. § Az új Be. 151. §-a a következő szöveggel lép hatályba:
+
+„151. § (1) Az elektronikus kapcsolattartásra nem köteles szakértő az igazságügyi szakértői névjegyzékbe történő bejelentéssel, az igazságügyi szakértői névjegyzékben nem szereplő, szakértői tevékenységre jogszabályban feljogosított szakértő a bíróság, az ügyészség és a nyomozó hatóság részére történő nyilatkozattal vállalhatja az elektronikus kapcsolattartást.
+
+(2) Ha a szakértő elektronikus kapcsolattartásra köteles vagy azt az (1) bekezdés szerint vállalja, a szakvéleményét és egyéb beadványát elektronikus úton nyújtja be a bírósághoz, az ügyészséghez és a nyomozó hatósághoz és a bíróság, az ügyészség és a nyomozó hatóság is valamennyi ügyiratot elektronikus úton kézbesít a részére.
+
+(3) A bíróság, az ügyészség és a nyomozó hatóság felhívhatja a nem elektronikus úton kapcsolatot tartó szakértőt, hogy a szakvéleményt adathordozón is nyújtsa be, ha azt elektronikus úton kell kézbesítenie vagy továbbítania. A szakértő felel azért, hogy a papíralapú szakvélemény tartalma megegyezzen az adathordozón benyújtott szakvélemény tartalmával.”
+
+516. § Az új Be. 152. §-át megelőző alcíme és 152. §-a a következő szöveggel lép hatályba:
+
+„Az elektronikus ügyintézést biztosító szervek egymás közötti és más szervekkel történő elektronikus kapcsolattartása
+
+152. § A büntetőeljárás során az elektronikus ügyintézést biztosító szervek, továbbá a Kormány által kijelölt közfeladatot ellátó szervek elektronikus úton tartják a kapcsolatot egymással.”
+
+517. § Az új Be. 153. §-a a következő szöveggel lép hatályba:
+
+„153. § (1) A meghatalmazás alapján eljáró védő és jogi képviselő a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak benyújtott első beadványa mellékleteként csatolja az elektronikus okiratként rendelkezésre álló vagy az általa digitalizált meghatalmazást, ha a meghatalmazás rendelkezési nyilvántartásba vételét még nem jelentették be. A bíróság, az ügyészség, illetve a nyomozó hatóság – ha e tekintetben alapos kétsége merül fel – digitalizált meghatalmazás esetén az eredeti meghatalmazás bemutatására hívja fel a védőt és a jogi képviselőt az egyezőség megállapítása érdekében.
+
+(2) A meghatalmazott védővel vagy jogi képviselővel eljáró, de saját személyében elektronikus útra nem köteles büntetőeljárásban részt vevő személy a meghatalmazás visszavonására irányuló nyilatkozatát papíralapon is benyújthatja. A meghatalmazás visszavonásával egyidejűleg a büntetőeljárásban részt vevő személy nyilatkozik arról, hogy a nyilatkozat benyújtását követően jogi képviselővel, illetve meghatalmazott védővel vagy anélkül kíván-e eljárni.
+
+(3) Ha a büntetőeljárásban részt vevő személy a meghatalmazás visszavonását követően meghatalmazott védővel, illetve jogi képviselővel jár el, a meghatalmazás visszavonásával egyidejűleg csatolja az eljáró új védő, illetve jogi képviselő meghatalmazását.”
+
+518. § Az új Be. 155–159. §-a a következő szöveggel lép hatályba:
+
+„155. § (1) Ha a beadvány melléklete nem elektronikus okiratként áll rendelkezésre, az elektronikus kapcsolattartást vállaló és az elektronikus kapcsolattartásra köteles büntetőeljárásban részt vevő személy (a továbbiakban: az elektronikus úton kapcsolatot tartó) köteles gondoskodni a papíralapú melléklet digitalizálásáról és a papíralapú irat megőrzéséről.
+
+(2) Ha a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak eredetileg papíralapú ügyiratot elektronikus úton kell kézbesítenie vagy továbbítania, tíz munkanap áll rendelkezésére, hogy azt digitalizálja. Az ügyirat digitalizálásához szükséges időt – legfeljebb azonban öt munkanapot – a határidő számítása szempontjából figyelmen kívül kell hagyni.
+
+(3) Kivételt képez az elektronikus kapcsolattartás alól, ha a kézbesítendő, illetve továbbítandó beadvány, ügyirat, vagy bizonyítási eszköz papíralapú vagy egyéb adathordozó útján történő bemutatása, megtekintése szükséges, erre különösen akkor kerülhet sor, ha annak nagy mennyisége, sajátos alakja miatt vagy jellegéből adódóan a digitalizálás aránytalan nehézséggel járna vagy lehetetlen, továbbá ha a valódisága vitás. A papíralapú vagy adathordozón történő benyújtást, illetve továbbítást a bíróság, az ügyészség és a nyomozó hatóság hivatalból és indítványra is elrendelheti.
+
+(4) Nem kell alkalmazni az elektronikus kapcsolattartás szabályait a személyes jelenléttel járó eljárási cselekmény során benyújtott beadvány vagy bizonyítási eszköz esetén, ideértve a védő és a jogi képviselő részére az eljárási cselekmény helyszínén, valamint az eljárási cselekmény során adott eredeti meghatalmazás azonnali benyújtását is.
+
+156. § (1) A nem elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy papíralapú beadványát – feltéve, hogy azt elektronikusan kell kézbesíteni – a bíróság, az ügyészség és a nyomozó hatóság a 155. § (2) bekezdésének megfelelően digitalizálja és azt elektronikus úton kézbesíti a büntetőeljárásban részt vevő, az ügyirat megismerésére jogosult másik személy számára.
+
+(2) A bíróság, az ügyészség és a nyomozó hatóság a nem elektronikus úton kapcsolatot tartó büntetőeljárásban részt vevő személy részére papíralapon kézbesíti az ügyiratot, ha az eljárásban jogi képviselője vagy elektronikus kapcsolattartást vállaló egyéb képviselője útján jár el, de az ügyiratot nem a képviselő, hanem a büntetőeljárásban részt vevő személy részére kell kézbesíteni, vagy a képviselő részére nem lehet kézbesíteni.
+
+157. § A büntetőeljárás során az Országos Bírósági Hivatal és az egyéb elektronikus ügyintézést biztosító szervek jogosultak az elektronikus úton kapcsolatot tartóknak az elektronikus kapcsolattartás biztosítása céljából hozzájuk érkezett adatainak kezelésére.
+
+158. § (1) A bíróság, az ügyészség és a nyomozó hatóság az elektronikus úton kézbesített ügyiratot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel látja el.
+
+(2) A bíróság, az ügyészség és a nyomozó hatóság által készített, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel ellátott ügyirat közokirat.
+
+(3) E törvény alkalmazásában aláírás alatt a bíróság, az ügyész és a nyomozó hatóság minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását vagy elektronikus bélyegzőjét is érteni kell.
+
+159. § (1) A büntetőeljárásban részt vevő személy, valamint a bírósági eljárásban az ügyészség indítványozhatja, hogy a bíróság, az ügyészség, illetve a nyomozó hatóság az általa megismerhető ügyirat másolatát elektronikus formában adathordozón vagy az általa megjelölt elektronikus levelezési címre továbbítsa, ha az ügyirat
+
+a) elektronikus formában,
+
+b) elektronikus okiratként, vagy
+
+c) a papíralapú okirat elektronikus másolataként
+
+az eljáró bíróságnál, ügyészségnél, illetve nyomozó hatóságnál rendelkezésre áll.
+
+(2) Az ügyirat akkor áll elektronikus formában rendelkezésre, ha a bíróság, az ügyészség, illetve a nyomozó hatóság a papíralapú ügyiratot információs rendszer alkalmazásával szerkesztette meg. Az elektronikus formában rendelkezésre álló, az (1) bekezdés szerint továbbított ügyirat nem hiteles másolat.
+
+(3) Ha az ügyirat másolatának (1) bekezdés szerinti továbbítása nem teljesíthető, a bíróság, az ügyészség, illetve a nyomozó hatóság a másolatot adathordozón adja ki vagy az indítványozót tájékoztatja arról, hogy az ügyiratot a 100. § szerint ismerheti meg.”
+
+519. § (1) Az új Be. 162. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Ha az elektronikus kapcsolattartásra nem köteles büntetőeljárásban részt vevő személy vagy jogi képviselőnek nem minősülő képviselője vállalta, hogy a kapcsolatot elektronikus úton tartja, utóbb, beadványának papíralapú benyújtásával egyidejűleg indítványozhatja az eljáró bíróságnál, ügyészségnél, vagy nyomozó hatóságnál a papíralapú kapcsolattartásra való áttérés engedélyezését. Az indítványban valószínűsíteni kell, hogy az indítványozó körülményeiben olyan változás következett be, amely miatt az elektronikus úton történő kapcsolattartás a továbbiakban számára aránytalan megterhelést jelentene.”
+
+(2) Az új Be. 177. § (5) bekezdése a következő szöveggel lép hatályba:
+
+„(5) Ha a tanút az ügyben korábban vagy más ügyben terheltként hallgatták ki, a terheltként tett vallomása bizonyítási eszközként akkor használható fel, ha a vallomásról készült jegyzőkönyvből a terhelti figyelmeztetés és az erre adott válasz egyértelműen kitűnik. Ebben az esetben a tanú korábban terheltként tett vallomása akkor is felhasználható, ha a tanú a vallomástételt a későbbiekben megtagadja.”
+
+(3) Az új Be. 299. §-a a következő (4) bekezdéssel kiegészülve lép hatályba:
+
+„(4) A bíróság a terhelt indítványára a terhelt és gyermeke együttes elhelyezést biztosító részlegen történő elhelyezéséről rendelkezik, ha a terhelt egyévesnél fiatalabb gyermekét gondozó nő és nem áll fenn törvényben meghatározott kizáró ok.”
+
+(4) Az új Be. 316. § (5) bekezdése a következő szöveggel lép hatályba:
+
+„(5) A megőrzésre kötelezést elrendelő a megőrzéssel érintett elektronikus adatot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel láthatja el.”
+
+(5) Az új Be. 332. §-a a következő szöveggel lép hatályba:
+
+„332. § (1) A zár alá vételt a vádemelés előtt az elrendelő, azt követően a bíróság oldhatja fel. A nyomozó hatóság által elrendelt zár alá vételt a vádemelés előtt az ügyészség vagy a bíróság is feloldhatja. A bíróság által elrendelt zár alá vételt a vádemelés előtt az ügyészség is feloldhatja.
+
+(2) Ha a zár alá vétel tárgyát képező ingatlant a bírósági végrehajtásról szóló törvény alapján értékesítették, az értékesítésből befolyt összegnek a bírósági végrehajtásról szóló törvényben meghatározottak szerinti része az értékesített ingatlan helyébe lép, amelyre a zár alá vétel külön határozat nélkül kiterjed.”
+
+(6) Az új Be. 342. § (3) bekezdése a következő 24–26. ponttal kiegészülve lép hatályba:
+
+(Az előkészítő eljárás során a leplezett eszközök alkalmazására feljogosított szerv adatkérés keretében adatszolgáltatást kizárólag)
+
+„24. a lőfegyverek központi nyilvántartásából,
+
+25. az autópályák, autóutak és főutak használatának megtett úttal arányos díjáról szóló törvény szerinti adatbázisból,
+
+26. a központi közlekedési közigazgatási és ellenőrzési bírság nyilvántartásból”
+
+(kérhet.)
+
+(7) Az új Be. 365. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) A kijavítást a határozatra fel kell jegyezni vagy arról új határozatot kell készíteni. A kijavító határozattal egyidejűleg a kijavított határozatot is kézbesíteni kell.”
+
+(8) Az új Be. 394. § (4) bekezdése a következő f) ponttal kiegészülve lép hatályba:
+
+(Az ügyészség felfüggesztheti az eljárást, ha)
+
+„f) a külföldi ítélet elismerését vagy a tagállami megfeleltetését kezdeményezte, és további, Magyarországon elvégzendő eljárási cselekmény már nincs, valamint az eljárás a külföldi ítélet elismerése vagy a tagállami ítélet megfeleltetése nélkül nem folytatható.”
+
+(9) Az új Be. 453. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A kijavítást a határozatra fel kell jegyezni vagy arról új határozatot kell készíteni. Ha a határozatot a kijavítását megelőzően már kézbesítették, a kijavító végzést azoknak kell kézbesíteni, akiknek a részére a bíróság a kijavítással érintett határozatot megküldte.”
+
+(10) Az új Be. 476. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Ha az indítványt az ügyészség terjesztette elő, az indítvány megküldésével egyidejűleg átadja a bíróságnak a nyomozás ügyiratait. Ha az indítvány tárgya a letartóztatás meghosszabbítása, az indítvány megküldését követően a gyanúsított és a védő számára biztosítani kell azoknak az ügyiratoknak a megismerését is, amelyekre az indítványban hivatkoznak és amelyek a letartóztatás tárgyában hozott legutóbbi döntést követően keletkeztek.”
+
+(11) Az új Be. 488. § (1) bekezdése a következő h) és i) ponttal kiegészülve lép hatályba:
+
+(A bíróság felfüggesztheti az eljárást, ha)
+
+„h) ha a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését kezdeményezte, vagy
+
+i) a külföldi igazságügyi hatóság a vádlott kiadatásának vagy átadásának a végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta.”
+
+(12) Az új Be. 498. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) A bíróság beszerzi a vádlott bűnügyi előéletére vonatkozó adatokat és a szabálysértési nyilvántartási rendszer vádlottra vonatkozó adatait, valamint hivatalból beszerezheti a jogszabállyal rendszeresített egyéb közhiteles nyilvántartásnak a vádlottra, illetve a vád tárgyára vonatkozó adatait. A bíróság gondoskodik a vádlottra vonatkozó, az eljárásban figyelembe vehető tagállami ítélet megfeleltetéséről vagy külföldi ítélet érvényének az elismeréséről.”
+
+520. § (1) Az új Be. 555. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A polgári jogi igény érvényesítésére és elintézésére a polgári perrendtartásról szóló törvény következő rendelkezéseit kell alkalmazni:
+
+a) értelmező rendelkezések,
+
+b) a pertárgy értékére vonatkozó rendelkezések,
+
+c) a felek személyében történő változásra vonatkozó rendelkezések az 55. § (2) bekezdésében meghatározott eltéréssel a magánfélre vonatkozóan, ha a sértett jogutódja a büntetőeljárásban magánfélként lép fel,
+
+d) a perbeli jogutódlásra vonatkozó rendelkezések a terheltre vonatkozóan, ha a polgári jogi igény újonnan megjelölt kötelezettje is a büntetőeljárás terheltje,
+
+e) a költségekre vonatkozó rendelkezések a polgári jogi igény érvényesítésével okozati összefüggésben felmerült azon költségre, amely e törvény alapján nem bűnügyi költség.”
+
+(2) Az új Be. 556. § (1) és (2) bekezdése a következő szöveggel lép hatályba:
+
+„(1) A sértett a polgári jogi igényt az elsőfokú bíróságnál legkésőbb azon az eljárási cselekményen terjesztheti elő, amelyen e törvény rendelkezései szerint először jelen lehetett. A határidő elmulasztása esetén igazolásnak nincs helye.
+
+(2) A polgári jogi igénynek tartalmaznia kell
+
+a) azon terhelt megjelölését, akivel szemben a sértett polgári jogi igényt érvényesít,
+
+b) a bíróság ítéleti rendelkezésére irányuló határozott kérelmet, különösen a követelés összegét vagy mennyiségét,
+
+c) a polgári jogi igénnyel érvényesíteni kívánt jogot,
+
+d) az érvényesíteni kívánt jogot és az ítéleti rendelkezésre irányuló kérelmet megalapozó tényeket és
+
+e) a polgári jogi igény érdemi elbírálása esetére a teljesítés módját és helyét.”
+
+(3) Az új Be. 560. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) A bíróság a polgári jogi igény érvényesítését egyéb törvényes útra utasítja, ha
+
+a) az eljárást megszünteti,
+
+b) a vádlottat felmenti és szabálysértési felelősségét sem állapítja meg,
+
+c) a polgári jogi igény érvényesítését e törvény kizárja,
+
+d) a magánfél a polgári jogi igényt elkésetten terjesztette elő,
+
+e) a polgári jogi igényt az 557. § szerint, ideiglenes intézkedés iránti kérelemmel együtt terjesztették elő,
+
+f) a magánfél az eljáró bíróval vagy bírósággal szemben a polgári perrendtartásról szóló törvényben meghatározott és e törvényben nem nevesített kizárási okot jelentett be, illetve a más által bejelentett kizárás alapján a bíróság a polgári perrendtartásról szóló törvényben meghatározott és e törvényben nem nevesített kizárási ok fennállását megállapította,
+
+g) a magánfél és a terhelt között ugyanabból a ténybeli alapból származó ugyanazon jog iránt indított más perben a perindítás joghatása már beállt vagy annak tárgyát már jogerősen elbírálták,
+
+h) a magánfélnek vagy a terheltnek nincs polgári perbeli jogképessége,
+
+i) az igény – a polgári jog szerinti elévülés esetét kivéve – bírósági úton nem érvényesíthető,
+
+j) a polgári jogi igényt nem a sértett terjesztette elő,
+
+k) a magánfél és a terhelt a polgári perrendtartásról szóló törvényben meghatározott egyezség jóváhagyását kéri,
+
+l) a polgári jogi igény érdemi elbírálása jelentősen késleltetné az eljárás befejezését,
+
+m) a polgári jogi igénynek a büntetőeljárásban való érdemi elbírálását más körülmény kizárja,
+
+n) a polgári jogi igény nem tartalmazza az 556. § (2) bekezdés a)–c) pontjában foglaltakat, vagy
+
+o) a polgári jogi igény érdeméről azért nem lehet határozni, mert a bíróság a magánfél személyes adatainak zárt kezelését rendelte el, és a polgári jogi igény nem tartalmazza az 556. § (2) bekezdés e) pontjában foglaltakat.”
+
+(4) Az új Be. 566. § (1) bekezdés d) pontja a következő szöveggel lép hatályba:
+
+(A bíróság a vádlottat a vád alól felmenti, ha)
+
+„d) a vádlott büntethetőségét, illetve a cselekmény büntetendőségét kizáró ok állapítható meg.”
+
+(5) Az új Be. 571. §-a a következő szöveggel lép hatályba:
+
+„571. § (1) A bíróság a polgári jogi igény érdemében ítélettel határoz, annak helyt ad vagy azt elutasítja.
+
+(2) Ha a bíróság az ítéletében megállapítja a bűncselekménnyel okozott kár vagy vagyoni hátrány összegét, illetve a bűncselekmény elkövetési értékét, ezen összeg mértékéig az előterjesztett polgári jogi igényt érdemben el kell bírálni.
+
+(3) A polgári jogi igény elbírálására a polgári perrendtartásról szóló törvénynek az érdemi döntés korlátaira, a teljesítési határidőre és annak számítására vonatkozó rendelkezéseit kell alkalmazni.
+
+(4) A bíróság az ítéletnek a polgári jogi igényre vonatkozó rendelkezését a polgári perrendtartásról szóló törvénynek az előzetes végrehajthatóságra vonatkozó rendelkezései szerint előzetesen végrehajthatónak nyilváníthatja.”
+
+(6) Az új Be. 627. § (1) bekezdése a következő d) ponttal kiegészülve lép hatályba:
+
+(A másodfokú bíróságnak az elsőfokú bíróság ítéletét hatályon kívül helyező és az elsőfokú bíróságot új eljárásra utasító végzése, valamint a harmadfokú bíróságnak a másodfokú bíróság ítéletét vagy a másodfokú bíróság ítéletét és az elsőfokú bíróság ítéletét hatályon kívül helyező és a másodfokú bíróságot vagy az elsőfokú bíróságot új eljárásra utasító végzése ellen fellebbezésnek van helye, ha a hatályon kívül helyezésre)
+
+„d) a 625. § (4) bekezdésében meghatározott ok”
+
+(miatt kerül sor.)
+
+(7) Az új Be. 650. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) Nincs helye felülvizsgálatnak
+
+a) a büntető anyagi jog szabályainak megsértése miatt a harmadfokú bíróság jogerős ügydöntő határozatának rendelkezése, illetve része ellen,
+
+b) a Kúria jogegységi eljárása alapján, felülvizsgálat során vagy a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozata ellen,
+
+c) ha a törvénysértés egyszerűsített felülvizsgálati eljárás lefolytatása útján orvosolható.”
+
+(8) Az új Be. 653. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A felülvizsgálati indítvány az alapügyben elsőfokon eljárt bíróságnál, vagy annál a bíróságnál terjeszthető elő, amelynek az eljárását a felülvizsgálati indítvány sérelmezi.”
+
+(9) Az új Be. 672. § (4) bekezdése a következő szöveggel lép hatályba:
+
+„(4) A terhelt, a vagyoni érdekelt vagy az egyéb érdekelt hátrányára egyszerűsített felülvizsgálati eljárásra indítvány az ügydöntő határozat közlésétől számított hat hónapon belül terjeszthető elő, illetve a terhelt, a vagyoni érdekelt vagy az egyéb érdekelt hátrányára egyszerűsített felülvizsgálati eljárás hivatalból – az ügydöntő határozat közlésétől számított – hat hónapon belül indítható.”
+
+(10) Az új Be. 688. § (4) bekezdése a következő szöveggel lép hatályba:
+
+„(4) A fiatalkorú törvényben meghatározottak szerinti ideiglenes elhelyezéséről az ügyészség indítványára a bíróság dönt, e határozat ellen fellebbezésnek helye nincs. A tizennegyedik életévét be nem töltött fiatalkorú ideiglenesen nem helyezhető el.”
+
+(11) Az új Be. 787. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) Pótmagánvádlóként történő fellépésnek nincs helye, ha
+
+a) a feljelentett vagy a terhelt fiatalkorú,
+
+b) az elkövető büntethetőségét, illetve a cselekmény büntetendőségét gyermekkor vagy kóros elmeállapot zárja ki,
+
+c) a bűncselekmény a sértett jogát vagy jogos érdekét közvetlenül nem sértette vagy veszélyeztette,
+
+d) a sértett az állam vagy közhatalmat gyakorló szerv,
+
+e) a bűncselekmény elkövetésével fedett nyomozó, a leplezett eszközök alkalmazására feljogosított szerv tagja vagy titkosan együttműködő személy gyanúsítható megalapozottan, és az ügyészség a 224. § (1) bekezdése alapján a feljelentést elutasította vagy az eljárást megszüntette,
+
+f) az ügyészség a feljelentést a 382. § (1) bekezdése alapján utasította el, vagy az eljárást a 399. § (1) bekezdése alapján szüntette meg, vagy
+
+g) az ügyészség a 398. § (2) bekezdés e) pontja alapján az eljárást azért szüntette meg, mert a terhelttel a 411. § (3) bekezdése szerint egyezséget kötött.”
+
+(12) Az új Be. 842. § (2) bekezdése a következő szöveggel lép hatályba:
+
+„(2) A bíróság az (1) bekezdés a) pontja esetén ítélettel, b) pontja esetén nem ügydöntő végzéssel, c) pontja esetén ügydöntő végzéssel határoz.”
+
+(13) Az új Be. 860. § (2) bekezdése a következő f) ponttal kiegészülve lép hatályba:
+
+(A legfőbb ügyész vagy az igazságügyért felelős miniszter a kegyelmi eljárásban törvényben meghatározott adatkörben adatokat igényelhet a következő nyilvántartásokból:)
+
+„f) körözési nyilvántartási rendszer.”
+
+(14) Az új Be. 864. §-a a következő (4) bekezdéssel kiegészülve lép hatályba:
+
+„(4) A rendbírság mérséklése vagy elengedése iránti kérelem esetén a bíróság az igazságügyért felelős miniszter döntéséig elrendelheti a rendbírság végrehajtásának a felfüggesztését, illetve annak átváltoztatása esetén a rendbírság helyébe lépő elzárás végrehajtásának az elhalasztását vagy a félbeszakítását.”
+
+(15) Az új Be. 866. § (4) bekezdése a következő szöveggel lép hatályba:
+
+„(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
+
+a) a parancsnoki nyomozásra jogosult vezetőket, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
+
+b) a katonával szemben elrendelt bűnügyi felügyelet ellenőrzésének szabályait
+
+az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke véleményének kikérésével, rendeletben megállapítsa.”
+
+(16) Az új Be. 870. §-a a következő (6) és (7) bekezdéssel kiegészülve lép hatályba:
+
+„(6) E törvény elektronikus kapcsolattartásra vonatkozó rendelkezéseit – a (7) bekezdésben meghatározott kivétellel – a 2018. január 1-jét követően indult büntetőeljárásokban kell alkalmazni.
+
+(7) Az összbüntetési eljárás iránti indítványt, valamint ezen indítvány visszavonását az elítélt védője a 2018. január 1-je előtt indult büntetőeljárások esetében is benyújthatja elektronikus úton a bírósághoz.”
+
+521. § Az új Be.
+
+- 1. 13. § (3) bekezdése az „ügyszakának kijelölt bírája” szövegrész helyett az „ügyszakának bírája” szöveggel,
+- 2. 13. § (6) bekezdése a „tanács elnöke helyett bírósági titkár is eljárhat” szövegrész helyett a „tanács elnöke helyett önálló aláírási joggal bírósági titkár is eljárhat” szöveggel,
+- 3. 14. § (1) bekezdés b) pontja, 27. § (1) bekezdés b) pontja és 32. § (1) bekezdés b) pontja a „személy” szövegrészek helyett a „személyek” szöveggel,
+- 4. 20. § (1) bekezdés 13. pontja a „terrorizmus finanszírozása” szövegrész helyett a „terrorizmus finanszírozása, a háborús uszítás” szöveggel,
+- 5. 27. § (1) bekezdés b) pontja az „ezek” szövegrész helyett az „e személyek” szöveggel,
+- 6. 36. § (2) bekezdése az „(a továbbiakban együtt: bűnügyi vagyon) kezelésében” szövegrész helyett az „(a továbbiakban együtt: bűnügyi vagyon), illetve a lefoglalt bizonyítási eszköz kezelésében” szöveggel,
+- 7. 43. § (1) bekezdés e) pontja a „bekezdésének” szövegrész helyett a „bekezdés” szöveggel,
+- 8. 56. § (4) bekezdése az „amely” szövegrész helyett az „amelynek” szöveggel,
+- 9. 84. § (3) bekezdése az „esetén az indítvány elutasításáról haladéktalanul” szövegrész helyett az „esetén haladéktalanul” szöveggel,
+- 10. 104. § (1) bekezdése az „illetve rendelkezésére bocsátott” szövegrész helyett a „továbbá a rendelkezésére bocsátott” szöveggel,
+- 11. 104. § (2) bekezdés c) pontja a „minősítés megismétlésére” szövegrész helyett a „minősítési jelölés megismétlésére” szöveggel,
+- 12. 123. § (1) bekezdés e) pontja az „esetében a terhelt őrzését” szövegrész helyett az „esetében az őrzését” szöveggel,
+- 13. 131. § (5) bekezdése a „sértett és” szövegrész helyett a „sértett, vagyoni érdekelt és” szöveggel,
+- 14. 135. § (3) bekezdés a) pontja a „honlapján, és” szövegrész helyett a „honlapján, illetve hirdetőtábláján és” szöveggel,
+- 15. 149. § (5) bekezdése a „nyilatkozat (2) bekezdés” szövegrész helyett a „nyilatkozat 148. § (2) bekezdés” szöveggel,
+- 16. 150. § (1) bekezdése az „Az E-ügyintézési törvény alapján elektronikus kapcsolattartásra kötelezett” szövegrész helyett az „Az elektronikus kapcsolattartásra köteles” szöveggel,
+- 17. 153. §-át megelőző alcíme az „esetén” szövegrész helyett a „során” szöveggel,
+- 18. 160. §-a a „megismerésére és a másolat kiadására vonatkozó” szövegrész helyett a „megismerésére vonatkozó” szöveggel,
+- 19. 172. § (3) bekezdése az „a feljelentés elutasításának, a nyomozás, illetve az eljárás megszüntetésének” szövegrész helyett az „a feljelentés elutasításának, illetve az eljárás megszüntetésének” szöveggel,
+- 20. 181. § (2) bekezdés b) pontja a „vagy legalább minősített” szövegrész helyett a „vagy minősített” szöveggel,
+- 21. 268. § (3) bekezdése a „visszavonásról” szövegrész helyett a „visszavonásáról” szöveggel,
+- 22. 295. § (2) bekezdése a „bíróság az ügyészség indítványára a terhelt” szövegrész helyett a „bíróság – a vádemelés előtt az ügyészség indítványára – a terhelt” szöveggel,
+- 23. 299. § (2) bekezdése az „a nyomozási cselekmények” szövegrész helyett az „az eljárási cselekmények” szöveggel,
+- 24. 331. § (3) bekezdése az „a nyomozást megszüntető” szövegrész helyett az „az eljárást megszüntető” szöveggel,
+- 25. 337. § (1) bekezdése a „terrorcselekmény vagy terrorizmus finanszírozása miatt” szövegrész helyett a „terrorcselekmény, terrorizmus finanszírozása vagy háborús uszítás miatt” szöveggel,
+- 26. 337. § (6) bekezdése az „a nyomozást megszüntették” szövegrész helyett az „az eljárást megszüntették” szöveggel,
+- 27. 342. § (3) bekezdése az „a leplezett eszközök alkalmazására feljogosított szerv adatkérés keretében adatszolgáltatást” szövegrész helyett az „adatkérés keretében adatszolgáltatás” szöveggel, a „kérhet” szövegrész helyett a „kérhető” szöveggel,
+- 28. 360. § (5) bekezdése az „ügyiratok közé kell csatolni” szövegrész helyett az „ügyiratok között kell kezelni” szöveggel,
+- 29. 360. § (6) bekezdése az „az ügyiratok közé a torzított egyedi tulajdonságokat tartalmazó másolatot kell csatolni” szövegrész helyett az „az ügyiratok között a torzított egyedi tulajdonságokat tartalmazó másolatot kell kezelni” szöveggel,
+- 30. 360. § (11) bekezdése a „fel kell jegyezni, vagy” szövegrész helyett a „fel kell jegyezni, arról új jegyzőkönyvet kell készíteni, vagy” szöveggel,
+- 31. 363. § (5) bekezdése a „kiadmányozásra jogosult ügyész, illetve a nyomozó hatóság kiadmányozásra jogosult” szövegrész helyett az „az ügyész, illetve a nyomozó hatóság” szöveggel,
+- 32. 374. § (1) bekezdés e) pont ea) alpontja a „házkutatás” szövegrész helyett a „kutatás” szöveggel,
+- 33. 374. § (2) bekezdése a „kell két példányban előterjeszteni” szövegrész helyett a „kell előterjeszteni” szöveggel,
+- 34. 374. § (5) bekezdése az „indítvány egy példányának kézbesítésével” szövegrész helyett az „indítvány kézbesítésével” szöveggel,
+- 35. 380. § (3) bekezdése az „a Btk. 3. § (3) bekezdése alapján” szövegrész helyett a „a 4. § (9) bekezdése vagy a Btk. 3. § (3) bekezdése alapján” szöveggel,
+- 36. 381. § (1) bekezdés f) pontja, a 398. § (1) bekezdés g) pontja, a 492. § (2) bekezdés a) pontja, az 567. § (2) bekezdés a) pontja, a 649. § (2) bekezdés b) pontja, a 845. § (2) bekezdés c) pont ca) alpontja az „a Btk. 3. § (3) bekezdésében meghatározott” szövegrészek helyett a „a 4. § (9) bekezdésében vagy a Btk. 3. § (3) bekezdésében meghatározott” szöveggel,
+- 37. 387. § (1), (2), (3) és (5) bekezdése a „magalapozottan” szövegrészek helyett a „megalapozottan” szöveggel,
+- 38. 387. § (3) bekezdés b) pontja az „a gyanúsított a védővel” szövegrész helyett az „a gyanúsított vagy a megalapozottan gyanúsítható személy a védővel” szöveggel,
+- 39. 389. §-a az „az elismeréséről.” szövegrész helyett az „az elismeréséről vagy tagállami ítélet megfeleltetéséről.” szöveggel,
+- 40. 394. § (4) bekezdés d) pontja az „elhalasztotta, vagy” szövegrész helyett az „elhalasztotta,” szöveggel,
+- 41. 410. § (4) bekezdése a „Btk. 83. §-a és 84. §-a figyelembevételével” szövegrész helyett a „Btk. 83. §-a figyelembevételével” szöveggel,
+- 42. 446. § (9) bekezdése a „fel kell jegyezni, vagy” szövegrész helyett a „fel kell jegyezni, arról új jegyzőkönyvet kell készíteni, vagy” szöveggel,
+- 43. 451. § (7) bekezdése a „b), továbbá” szövegrész helyett a „b) pontjában, továbbá” szöveggel,
+- 44. 452. § (1) bekezdése a „határozat eredeti példányán fel kell” szövegrész helyett a „határozaton fel kell” szöveggel,
+- 45. 455. § (4) bekezdése az „ügydöntő határozat indokolást is tartalmazó kiadmányát” szövegrész helyett az „indokolást is tartalmazó ügydöntő határozatot” szöveggel és az „a határozat indokolást is tartalmazó kiadmányát” szövegrész helyett az „az indokolást is tartalmazó határozatot” szöveggel,
+- 46. 459. § (1) bekezdése és 461. § (1) bekezdése a „határozat eredeti példányára vezetett” szövegrész helyett a „határozatra vezetett” szöveggel,
+- 47. 462. §-a a „hibás kiadmányt” szövegrész helyett a „kijavítással érintett határozatot” szöveggel,
+- 48. 488. § (1) bekezdés f) pontja az „elhalasztotta, vagy” szövegrész helyett az „elhalasztotta,” szöveggel,
+- 49. 488. § (3) bekezdés b) pontja a „416. § (3)” szövegrész helyett a „417. § (2)” szöveggel,
+- 50. 506. § (5) bekezdése a „vádlott és a védő” szövegrész helyett a „vádlottnak és a védőnek” szöveggel, illetve a „jelölni” szövegrész helyett a „jelölnie” szöveggel,
+- 51. 524. § (1) bekezdése az „a 504. §” szövegrész helyett az „az 504. §” szöveggel,
+- 52. 542. § (2) bekezdése a „mértékére nem” szövegrész helyett a „mértékére, illetve tartamára nem” szöveggel,
+- 53. 549. § (2) bekezdése a „rendelkező részének eredeti példányát a tárgyalási jegyzőkönyvhöz kell fűzni” szövegrész helyett a „rendelkező részét a tárgyalási jegyzőkönyvvel együtt kell kezelni” szöveggel,
+- 54. 551. § (1) bekezdése az „ítélet” szövegrész helyett az „ügydöntő határozat” szöveggel,
+- 55. 551. § (1) bekezdés a) pontja az „ítéletet” szövegrész helyett az „ügydöntő határozatot” szöveggel,
+- 56. 555. § (1) bekezdés b) pontja a „kiszabásának nincs helye” szövegrész helyett a „kiszabásának a magánfél esetében sincs helye” szöveggel,
+- 57. 558. § (1) bekezdése az „a polgári perrendtartásról szóló törvénynek a kereset közlésére vonatkozó rendelkezéseit kell alkalmazni” szövegrész helyett az „azt a terhelttel közölni kell” szöveggel,
+- 58. 559. § (1) bekezdése az „ítélet meghozatalát megelőző tárgyalás berekesztéséig” szövegrész helyett az „ügydöntő határozat meghozataláig” szöveggel,
+- 59. 559. § (1) bekezdés b) pontja a „jogállítás, illetve kérelem megváltoztatása” szövegrész helyett az „az érvényesíteni kívánt jog, illetve az ítéleti rendelkezésre irányuló kérelem megváltoztatása” szöveggel és az „a megváltoztatott jogállítással” szövegrész helyett az „az érvényesíteni kívánt joggal” szöveggel,
+- 60. 560. § (2) bekezdése a „c)–j) pontjában” szövegrész helyett a „c)–e), f)–k) és n)–o) pontjában” szöveggel,
+- 61. 569. § (1) bekezdése a „bíróság elkobzást” szövegrész helyett a „bíróság ügydöntő végzésben elkobzást” szöveggel,
+- 62. 576. § (1) bekezdés b) pontja a „regionális vagy nemzetiségi nyelvét” szövegrész helyett a „nemzetiségi anyanyelvét” szöveggel,
+- 63. 590. § (5) bekezdése az „a fellebbezéssel nem érintett bűncselekmény vonatkozásában” szövegrész helyett az „az ítélet fellebbezéssel nem érintett része tekintetében” szöveggel,
+- 64. 603. § (1) bekezdése a „határozatának kiadmányait” szövegrész helyett a „határozatát” szöveggel,
+- 65. 603. § (3) bekezdése a „határozatának kiadmányaival” szövegrész helyett a „határozatával” szöveggel,
+- 66. 612. § (1) bekezdése a „(3) bekezdésében” szövegrész helyett a „(4) bekezdésében” szöveggel,
+- 67. 615. § (4) bekezdése az „ellen fellebbezésnek kizárólag a (3) bekezdés b) pontja alapján van helye, ha” szövegrész helyett az „elleni fellebbezésben az ellentétes döntés alapját képező tényállás nem támadható, ha” szöveggel,
+- 68. 618. § (3) bekezdése az „a fellebbezéssel nem érintett bűncselekmény tekintetében” szövegrész helyett az „az ítélet fellebbezéssel nem érintett része tekintetében” szöveggel,
+- 69. 619. § (4) bekezdése a „b) pontja alapján” szövegrész helyett a „b) pontja vagy a 615. § (4) bekezdése alapján” szöveggel,
+- 70. 621. § (3) bekezdése a „tájékoztatatás” szövegrész helyett a „tájékoztatás” szöveggel,
+- 71. 622. § (2) bekezdése a „határozata kiadmányainak” szövegrész helyett a „határozatának” szöveggel, illetve a „határozatának kiadmányával” szövegrész helyett az „a határozatával” szöveggel,
+- 72. 661. § (2) bekezdése a „terheltet, illetve a 651. § (2) bekezdés c)–f) pontjában” szövegrész helyett a „terheltet és a 651. § (2) bekezdés d)–f) pontjában” szöveggel,
+- 73. 662. § (2) bekezdés c) pontja a „86. §-ában” szövegrész helyett a „86. § (1) bekezdésében” szöveggel,
+- 74. 664. § (2) bekezdése a „határozatának kiadmányait” szövegrész helyett a „határozatát” szöveggel, illetve a „határozatának kiadmányával” szövegrész helyett a „határozatával” szöveggel,
+- 75. 674. § (5) bekezdése az „a különleges eljárásban hozott határozat” szövegrész helyett az „a határozat” szöveggel,
+- 76. 682. § (3) bekezdése a „jelen.” szövegrész helyett a „jelen, és értesítésére sem került sor.” szöveggel,
+- 77. 700. § (2) bekezdés b) pontja az „a más szervnél szolgálatot teljesítő katona” szövegrész helyett az „a más szervnél szolgálatot teljesítő katona – a 696. § (1) bekezdés b) pontjában felsorolt szerveken kívüli más szervek között vezényelt vagy átrendelt katona kivételével –” szöveggel,
+- 78. 700. § (4) bekezdése a „366. §” szövegrész helyett a „375. §” szöveggel,
+- 79. 702. § (3) bekezdése a „vagy az illetékes” szövegrész helyett a „vagy a hatáskörrel rendelkező” szöveggel,
+- 80. 705. § (1) bekezdése az „őrizetbe vételét” szövegrész helyett az „őrizetét” szöveggel,
+- 81. 711. § (2) bekezdése az „a területileg illetékes” szövegrész helyett az „az illetékes” szöveggel,
+- 82. 718. §-a az „az erre illetékes” szövegrész helyett „a jogszabály alapján a parancsnoki nyomozásra jogosult” szöveggel,
+- 83. 726. § (5) bekezdése a „feljegyzés egy-egy kiadmányát” szövegrész helyett a „feljegyzést” szöveggel,
+- 84. 727. § (1) bekezdése az „a LXXV. és a LXXVII. Fejezet” szövegrész helyett az „a LXXV–LXXVII. Fejezet” szöveggel,
+- 85. 763. § (1) bekezdése a „kérheti” szövegrész helyett az „indítványozhatja” szöveggel,
+- 86. 786. § (4) bekezdés c) pontja és 817. § (3) bekezdés b) pontja a „XCVIII. Fejezet” szövegrész helyett a „C. Fejezet” szöveggel,
+- 87. 796. § (1) bekezdése az „a)–e) pontjában” szövegrész helyett az „a)–d) pontjában” szöveggel,
+- 88. 820. § (2) bekezdés a) pontja a „vagyonvisszaszerzés” szövegrész helyett a „vagyon visszaszerzése” szöveggel,
+- 89. 828. § (3) bekezdése az „(1) bekezdés” szövegrész helyett a „(2) bekezdés” szöveggel,
+- 90. 873. § (1) bekezdése a „tilalomtárgyában” szövegrész helyett a „tilalom tárgyában” szöveggel,
+- 91. 874. § (7) bekezdés b) pontja a „feltételes ügyészi felfüggesztés” szövegrész helyett a „vádemelés elhalasztásának” szöveggel és
+- 92. 874. § (8) bekezdése a „benyújtott a vádirat” szövegrész helyett a „benyújtott vádirat” szöveggel
+
+lép hatályba.
+
+522. § Nem lép hatályba az új Be.
+
+- a) 342. § (3) bekezdés 22. pontjában az „és” szövegrész,
+- b) 555. § (5) bekezdésében a „Hiánypótlásnak kizárólag az eljárás ügyirataiból nem pótolható hiányok esetén van helye.” szövegrész,
+- c) 556. § (3) bekezdésében az „, a terhelt hozzájárulása nélkül is” szövegrész és
+- d) 866. § (2) bekezdés 11. pontjában az „a szakértő és” szövegrész.
 
 #### 165. A titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról szóló 2017. évi XCIII. törvény eltérő tartalommal hatályba lépő rendelkezései
 
-523–524. §
+523. § A titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról szóló 2017. évi XCIII. törvény (a továbbiakban: TIGYtv.) 11. § (1) bekezdésének az Rtv. 77. § (1) bekezdés f) pontját módosító rendelkezése a „személybiztosítási és létesítményvédelmi” szövegrész helyett a „személyvédelmi és létesítménybiztosítási” szöveggel lép hatályba.
+
+524. § Nem lép hatályba a TIGYtv. 13. § j) pontja.
 
 #### 166. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 

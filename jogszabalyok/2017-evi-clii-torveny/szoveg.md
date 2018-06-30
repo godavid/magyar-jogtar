@@ -2988,7 +2988,7 @@ rendeletben állapítsa meg.
 - 17. az export-visszatérítésre vonatkozó részletes szabályokat,
 - 18. az átmeneti megőrzési létesítmény üzemeltetője által küldendő garanciajelentésben szereplő adatok körét,
 - 19. a vámmentes vámeljárás végrehajtásának részletes szabályait,
-- 20. a vámtanácsadói és vámügynöki nyilvántartásba történő felvétel és törlés végrehajtását, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a nyilvántartásba vett személyek kötelező továbbképzésére, valamint a kreditpont minősítési eljárásra és az eljárásért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes szabályokat, és
+- 20.
 - 21. a vámjogi szakértői hatósági képzés és hatósági vizsga részletszabályait, továbbá a vámjogi szakértői hatósági képzést lebonyolító képző szervek, és a hatósági vizsga lebonyolítására megbízással foglalkoztatható vizsgabiztosok nyilvántartásba-vételi eljárásának szabályait, valamint a hatósági vizsga és a vizsgabizottság díjának mértékére és megfizetésére vonatkozó szabályokat
 
 rendeletben állapítsa meg.
@@ -3084,4 +3084,4 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4)
 
-(5)
+(5) Hatályát veszti a 213. § (1) bekezdés 20. pontja.
