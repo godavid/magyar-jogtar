@@ -525,9 +525,11 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 38. § (1) A Hatóság autonóm államigazgatási szerv.
 
-(2) A Hatóság feladata a személyes adatok védelméhez, valamint a közérdekű és a közérdekből nyilvános adatok megismeréséhez való jog érvényesülésének ellenőrzése és elősegítése.
+(2) A Hatóság feladata a személyes adatok védelméhez, valamint a közérdekű és a közérdekből nyilvános adatok megismeréséhez való jog érvényesülésének ellenőrzése és elősegítése, továbbá a személyes adatok Európai Unión belüli szabad áramlásának elősegítése.
 
-(3) A Hatóság a (2) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint
+(2a) Az (EU) 2016/679 európai parlamenti és tanácsi rendeletben (a továbbiakban: általános adatvédelmi rendelet) a felügyeleti hatóság részére megállapított feladat- és hatásköröket a Magyarország joghatósága alá tartozó jogalanyok tekintetében az általános adatvédelmi rendeletben, valamint az e fejezetben és a VI. Fejezetben meghatározottak szerint a Hatóság gyakorolja.
+
+(3) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint különösen
 
 - a) bejelentés alapján vizsgálatot folytat;
 - b) hivatalból adatvédelmi hatósági eljárást folytathat;
@@ -536,7 +538,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - e) a más által indított perbe beavatkozhat;
 - f) adatvédelmi nyilvántartást vezet.
 
-(4) A Hatóság a (2) bekezdés szerinti feladatkörében
+(4) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében különösen
 
 - a) javaslatot tehet a személyes adatok kezelését, valamint a közérdekű adatok és a közérdekből nyilvános adatok megismerését érintő jogszabályok megalkotására, illetve módosítására, véleményezi a feladatkörét érintő jogszabályok tervezetét;
 - b) tevékenységéről minden évben március 31-éig beszámolót hoz nyilvánosságra és a beszámolót benyújtja az Országgyűlésnek;
@@ -1038,6 +1040,8 @@ szükséges.
 
 (3) A 2012. január 1-jét megelőzően megkezdett, de az adatvédelmi nyilvántartásba 2012. január 1-jét megelőzően be nem jelentett, az e törvény szerinti adatvédelmi nyilvántartás hatálya alá eső adatkezelés nyilvántartásba vételét e törvény szabályai szerint 2012. június 30-ig kérelmezni kell a Hatóságnál, ennek hiányában az adatkezelés 2012. június 30-át követően nem folytatható. Nem folytatható az e bekezdés szerinti adatkezelés akkor sem, ha a nyilvántartásba vételére irányuló, 2011. december 31-ét követően benyújtott kérelem alapján a Hatóság a nyilvántartásba vételt elutasította.
 
+75/A. § A Hatóság az általános adatvédelmi rendelet 83. cikk (2)–(6) bekezdésében foglalt hatásköreit az arányosság elvének figyelembevételével gyakorolja, különösen azzal, hogy a személyes adatok kezelésére vonatkozó – jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott – előírások első alkalommal történő megsértése esetén a jogsértés orvoslása iránt – az általános adatvédelmi rendelet 58. cikkével összhangban – elsősorban az adatkezelő vagy adatfeldolgozó figyelmeztetésével intézkedik.
+
 76. § E törvény V. Fejezete az Alaptörvény VI. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 77. § Ez a törvény
@@ -1049,6 +1053,8 @@ szükséges.
 - e) a közszféra információinak további felhasználásáról szóló 2003/98/EK irányelv módosításáról szóló, 2013. június 26-i 2013/37/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
+
+77/A. § Az V–VI. Fejezet a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
 
 78. § (1)–(2)
 
