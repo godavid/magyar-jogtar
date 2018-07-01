@@ -8,14 +8,14 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 
 2. § E törvény alkalmazásában:
 
-- 1. magyar bűnüldöző szerv: a rendőrség, a Vám- és Pénzügyőrség bűnmegelőzési és bűnüldözési feladatot ellátó szervei, valamint törvény alapján bűnmegelőzési és bűnüldözési feladatok végzésére feljogosított, nemzetközi együttműködésre is felhatalmazott más szerv;
+- 1. magyar bűnüldöző szerv: a rendőrség, a Nemzeti Adó- és Vámhivatal bűnmegelőzési és bűnüldözési feladatot ellátó szervei, valamint törvény alapján bűnmegelőzési és bűnüldözési feladatok végzésére feljogosított, nemzetközi együttműködésre is felhatalmazott más szerv;
 - 2. bűnüldözés: a bűnüldöző szerveknek a törvény célja megvalósulását szolgáló, az igazságügyi jogsegély körén kívül eső, nemzetközi együttműködés keretében folytatott bűnfelderítő és bűnmegelőző tevékenysége;
 - 3. az Európai Unió tagállamának bűnüldöző szerve: a nemzetbiztonsági feladatokat ellátó szervek kivételével az Európai Unió tagállamának olyan hatósága, amely a nemzeti jog alapján bűncselekmények felderítésére és megelőzésére jogosult;
 - 4. külföldi hatóság: az Európai Unió tagállamának bűnüldöző szerve, valamint az Európai Unió tagállamán kívül más külföldi államnak a bűnüldözésben való nemzetközi kapcsolattartásra és együttműködésre feljogosított szerve;
 - 5. közös bűnfelderítő-csoport kihelyezett tagja: a Magyarország területén működő közös bűnfelderítő-csoportnak a külföldi hatóságot képviselő tagja, illetve a más állam területén működő közös bűnfelderítő-csoportnak a magyar bűnüldöző szervet képviselő magyar tagja;
 - 6. a bűnüldöző szervvel együttműködő személy: a bűnüldöző szerv részére titkos együttműködés keretében információt szolgáltató személy;
 - 7. közös kapcsolattartási szolgálati hely: nemzetközi szerződéssel a szerződő felek államhatárán létrehozott szolgálati hely, amely a nemzetközi szerződésben megjelölt szervek közvetlen információcseréjét és kapcsolattartását szolgálja;
-- 8. titkos lehallgatás: a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 69. § (1) bekezdés c) pontja szerint a telefonvezetéken vagy azt helyettesítő távközlési rendszerek útján továbbított közlés tartalmának megismerése, illetőleg annak technikai eszközzel történő rögzítése.
+- 8.
 - 9. különleges intervenciós egység: az Európai Unió tagállamának olyan bűnüldöző egysége, amelynek szakterülete a válsághelyzetek kezelése;
 - 10. válsághelyzet: bármely olyan helyzet, amikor az Európai Unió tagállamának illetékes hatósága joggal feltételezi, hogy egy bűncselekmény súlyos, közvetlen fizikai fenyegetést jelent az érintett tagállamban tartózkodó személyekre, az ott található vagyontárgyakra, infrastruktúrára vagy intézményekre, ideértve különösen a büntető törvénykönyvben meghatározott terrorcselekményt.
 
@@ -41,9 +41,9 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 
 5. § (1) Ha e törvény eltérően nem rendelkezik, a magyar bűnüldöző szerv megkeresését a külföldi hatósághoz a Nemzetközi Bűnügyi Együttműködési Központ (a továbbiakban: NEBEK) továbbítja, illetve a külföldi hatóság megkeresését a NEBEK fogadja.
 
-(2) Ha a megkeresés teljesítéséhez a magyar jogszabályok szerint bírói engedély vagy az ügyész engedélye, jóváhagyása, hozzájárulása, illetve egyetértése szükséges, azt külön törvényben meghatározott eljárási rend szerint a megkeresést teljesítő magyar bűnüldöző szervnek be kell szereznie.
+(2) Ha a megkeresés teljesítéséhez a magyar jogszabályok szerint bírói engedély vagy az ügyészség engedélye, jóváhagyása, hozzájárulása, illetve egyetértése szükséges, azt külön törvényben meghatározott eljárási rend szerint a megkeresést teljesítő magyar bűnüldöző szervnek be kell szereznie.
 
-(3) A megkeresés teljesítése a (2) bekezdésben meghatározott engedély, jóváhagyás, hozzájárulás, illetve egyetértés hiányában – a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 68. §-a (2) bekezdésének kivételével – nem kezdhető meg.
+(3) A megkeresés teljesítése a (2) bekezdésben meghatározott engedély, jóváhagyás, hozzájárulás, illetve egyetértés hiányában – a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 69. § (3) bekezdése, illetve a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: NAV tv.) 58. § (3) bekezdése kivételével – nem kezdhető meg.
 
 6. § (1) A NEBEK a külföldi hatóságtól érkező megkeresést – a (2) bekezdés kivételével – haladéktalanul a végrehajtásra hatáskörrel és illetékességgel rendelkező magyar bűnüldöző szervhez továbbítja.
 
@@ -59,7 +59,7 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 
 - a) a közvetlen információcsere,
 - b) az Európai Unió tagállamának bűnüldöző szervével történő információcsere,
-- c) az ellenőrzött szállítás,
+- c)
 - d) a közös bűnfelderítő-csoport létrehozása,
 - e) a bűnüldöző szervvel együttműködő személy igénybevétele,
 - f) a fedett nyomozó alkalmazása,
@@ -67,7 +67,7 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 - h) a forrónyomon üldözés,
 - i) az összekötő tisztviselő alkalmazása,
 - j) a titkos információgyűjtés nemzetközi együttműködés alapján,
-- k) a Tanúvédelmi Program alkalmazása nemzetközi együttműködés alapján, valamint
+- k)
 - l) az Európai Unió tagállamának különleges intervenciós egységével való együttműködés.
 
 (2) A magyar bűnüldöző szervek az (1) bekezdés g) és j) pontja szerinti együttműködés során – a vonatkozó magyar jogszabályok rendelkezései alapján – jogosultak a Nemzetbiztonsági Szakszolgálatot igénybe venni.
@@ -130,14 +130,14 @@ a bűnüldöző szervek nemzetközi együttműködéséről
 
 - a) a különleges szakértelemmel rendelkező személy felkutatására,
 - b) a bűnügyi nyilvántartási rendszerben, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő adatok szolgáltatására,
-- c) az Rtv. 68. §-ának (1) bekezdésében meghatározott adatok szolgáltatására,
+- c) az Rtv. 69. § (1) bekezdésében meghatározott adatok szolgáltatására,
 - d) gépjármű esetében az egyedi azonosító adatok szolgáltatására (rendszám, alvázszám, motorszám),
 - e) jármű, szállítóeszköz üzembentartójának megállapítására,
 - f) közúti, vízi és légi jármű vezetője személyazonosságának megállapítására, illetőleg felkutatására,
 - g) vezetői engedély, hajózási és repülési engedély meglétének, érvényességének, illetőleg korlátozásainak vizsgálatára,
 - h) lőfegyvertartási-engedély meglétének, érvényességének, illetőleg korlátozásainak vizsgálatára,
 - i) a személyazonosság, tartózkodási hely és lakcím megállapítására, illetőleg igazolására,
-- j) távközlési eszköz tulajdonosának, előfizetőjének, illetőleg használójának megállapítására,
+- j) az elektronikus hírközlési eszköz tulajdonosának, előfizetőjének, illetőleg használójának megállapítására,
 - k) tárgyak, minták utáni tudakozódásra
 
 irányulhat.
@@ -150,7 +150,7 @@ irányulhat.
 
 (2) Az 1. melléklet szerinti formanyomtatványban foglaltaknak megfelelően a magyar bűnüldöző szerv az információcsere iránti megkeresés teljesítése végett az Európai Unió tagállamának bűnüldöző szerve számára tizennégy napos határidőt határoz meg.
 
-(3) Az 1. melléklet szerinti formanyomtatványban foglaltaknak megfelelően, ha az információcsere iránti megkeresés az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény (a továbbiakban: 2003. évi CXXX. törvény) 1. számú mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresés teljesítése végett
+(3) Az 1. melléklet szerinti formanyomtatványban foglaltaknak megfelelően, ha az információcsere iránti megkeresés az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény (a továbbiakban: EUtv.) 1. számú mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresés teljesítése végett
 
 - a) hét napos,
 - b) sürgősségi megkeresés esetén nyolc órás
@@ -161,7 +161,7 @@ határidőt határozhat meg.
 
 (2) Az információcsere iránti megkeresést a megkeresésnek a magyar bűnüldöző szervhez érkezésétől számított tizennégy napon belül kell teljesíteni.
 
-(3) Ha az információcsere iránti megkeresés a 2003. évi CXXX. törvény 1. számú mellékletében meghatározott bűncselekményfajták valamelyikére vonatkozik, és a kért információ a magyar bűnüldöző szerv számára közvetlenül hozzáférhető nyilvántartásban megtalálható, a megkeresést – a magyar bűnüldöző szervhez érkezésétől számítva – hét napon belül teljesíteni kell.
+(3) Ha az információcsere iránti megkeresés az EUtv. 1. számú mellékletében meghatározott bűncselekményfajták valamelyikére vonatkozik, és a kért információ a magyar bűnüldöző szerv számára közvetlenül hozzáférhető nyilvántartásban megtalálható, a megkeresést – a magyar bűnüldöző szervhez érkezésétől számítva – hét napon belül teljesíteni kell.
 
 (4) A (3) bekezdés szerinti feltételek fennállása esetén, ha a megkeresés sürgős, azt a magyar bűnüldöző szervhez érkezéstől számított nyolc órán belül teljesíteni kell.
 
@@ -173,14 +173,14 @@ határidőt határozhat meg.
 
 - a) a teljesítés
   - aa) Magyarország alapvető nemzetbiztonsági érdekét sérti, vagy
-  - ab) folyamatban lévő nyomozást vagy bűnüldözési, bűnmegelőzési feladatok ellátását, illetve a természetes személyek biztonságát veszélyezteti, vagy
+  - ab) folyamatban lévő büntetőeljárást vagy bűnüldözési, bűnmegelőzési feladatok ellátását, illetve a természetes személyek biztonságát veszélyezteti, vagy
 - b) a kért információ
   - ba) jelentősége nyilvánvalóan nem áll arányban a megkeresésben foglalt céllal, illetve a cél szempontjából lényegtelen, vagy
   - bb) csak más tagállam vagy harmadik ország hozzájárulásával adható át, és e hozzájárulás hiányzik.
 
 (8) Ha az Európai Unió tagállama bűnüldöző szervének információcsere iránti megkeresése egy évnél rövidebb időtartamú szabadságvesztéssel büntetendő bűncselekményre vonatkozik, a magyar bűnüldöző szerv megtagadhatja a kért információ átadását.
 
-16/C. § (1) Ha a magyar bűnüldöző szerv olyan információ, tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a birtokába jutott információ, tény vagy adat a 2003. évi CXXX. törvény 1. számú mellékletében meghatározott bűncselekmények valamelyike megelőzésének vagy felderítésének elősegítése céljából az Európai Unió tagállama bűnüldöző szervének a feladata ellátásához szükséges, erről a 16/B. § (1) bekezdésében meghatározott megkeresés nélkül is tájékoztatást adhat.
+16/C. § (1) Ha a magyar bűnüldöző szerv olyan információ, tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a birtokába jutott információ, tény vagy adat az EUtv. 1. számú mellékletében meghatározott bűncselekmények valamelyike megelőzésének vagy felderítésének elősegítése céljából az Európai Unió tagállama bűnüldöző szervének a feladata ellátásához szükséges, erről a 16/B. § (1) bekezdésében meghatározott megkeresés nélkül is tájékoztatást adhat.
 
 (2) A magyar bűnüldöző szerv az (1) bekezdésben foglalt feltételek fennállása esetén sem adhat tájékoztatást az Európai Unió tagállama bűnüldöző szervének, ha az információ, tény vagy adat átadása – erre irányuló megkeresés esetén – az 5. § (3) bekezdése, illetve a 16/B. § (7) bekezdés a) pontja vagy b) pontjának bb) alpontja alapján nem lenne teljesíthető.
 
@@ -190,36 +190,17 @@ határidőt határozhat meg.
 
 16/E. § Ha a 16/A. § szerinti információcsere iránti megkeresés a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (EUROPOL), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016/794/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott bűncselekmények valamelyikére vonatkozik, a magyar bűnüldöző szerv az információcsere iránti megkeresést megküldi a rendőrségnek a Bűnüldözési Együttműködés Európai Uniós Ügynökségével (a továbbiakban: EUROPOL) való együttműködésért felelős szervezeti egységének is.
 
-16/F. § (1) A külön jogszabályban meghatározott nyomozó hatóság a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése érdekében az Európai Unió más tagállamának erre a feladatra kijelölt közigazgatási, bűnüldözési vagy igazságügyi hatóságától közvetlenül tájékoztatást kérhet, illetve annak tájékoztatást adhat.
+16/F. § (1) A nyomozó hatóság vagyonvisszaszerzési szerve (a továbbiakban: vagyonvisszaszerzési szerv) a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó más vagyon felkutatásának és azonosításának elősegítése érdekében az Európai Unió más tagállamának erre a feladatra kijelölt közigazgatási, bűnüldözési vagy igazságügyi hatóságától közvetlenül tájékoztatást kérhet, illetve annak tájékoztatást adhat.
 
-(2) A külön jogszabályban meghatározott nyomozó hatóság által előterjesztett tájékoztatás-kérésre a 16/A. § és a 16/D–16/E. §, az általa történő tájékoztatás-adásra a 16/B. § és a 16/D–16/E. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az 1. mellékletben meghatározott formanyomtatványon előterjesztett kérelemben meg kell jelölni a megkereséssel érintett vagyonnal, illetve a vélhetően érintett természetes vagy jogi személyekkel összefüggő ismert adatokat is, valamint utalni kell az együttműködés iránti kérelemnek az (1) bekezdés szerinti céljára.
+(2) A vagyonvisszaszerzési szerv által előterjesztett tájékoztatás-kérésre a 16/A. § és a 16/D–16/E. §, az általa történő tájékoztatás-adásra a 16/B. § és a 16/D–16/E. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az 1. mellékletben meghatározott formanyomtatványon előterjesztett kérelemben meg kell jelölni a megkereséssel érintett vagyonnal, illetve a vélhetően érintett természetes vagy jogi személyekkel összefüggő ismert adatokat is, valamint utalni kell az együttműködés iránti kérelemnek az (1) bekezdés szerinti céljára.
 
-16/G. § (1) Ha a külön jogszabályban meghatározott nyomozó hatóság olyan információ, tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a birtokába jutott információ, tény vagy adat a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb vagyon felkutatásának és azonosíthatóságának elősegítése érdekében az Európai Unió más tagállamának erre a feladatra kijelölt közigazgatási, bűnüldözési vagy igazságügyi hatóságának a feladata ellátásához szükséges, erről a 16/F. § (1) bekezdésében meghatározott kérelem nélkül is tájékoztatást adhat.
+16/G. § (1) Ha a vagyonvisszaszerzési szerv olyan információ, tény vagy adat birtokába jut, amely alapján megalapozottan feltehető, hogy a birtokába jutott információ, tény vagy adat a bűncselekményből származó jövedelmek és bűncselekményekhez kapcsolódó egyéb vagyon felkutatásának és azonosíthatóságának elősegítése érdekében az Európai Unió más tagállamának erre a feladatra kijelölt közigazgatási, bűnüldözési vagy igazságügyi hatóságának a feladata ellátásához szükséges, erről a 16/F. § (1) bekezdésében meghatározott kérelem nélkül is tájékoztatást adhat.
 
-(2) A külön jogszabályban meghatározott nyomozó hatóság az (1) bekezdésben foglalt feltételek fennállása esetén sem adhat tájékoztatást, ha az információ, tény vagy adat átadása – erre irányuló kérelem esetén – az 5. § (3) bekezdése, illetve a 16/B. § (7) bekezdés a) pontja vagy b) pontjának bb) alpontja alapján nem lenne teljesíthető.
+(2) A vagyonvisszaszerzési szerv az (1) bekezdésben foglalt feltételek fennállása esetén sem adhat tájékoztatást, ha az információ, tény vagy adat átadása – erre irányuló kérelem esetén – az 5. § (3) bekezdése, illetve a 16/B. § (7) bekezdés a) pontja vagy b) pontjának bb) alpontja alapján nem lenne teljesíthető.
 
 16/H. § Az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes más állammal történő információcserére a 16/A–16/E. § rendelkezéseit megfelelően alkalmazni kell.
 
-### Ellenőrzött szállítás
-
-17. § (1) A NEBEK-hez megküldött megkeresés alapján a magyar központi bűnüldöző szerv és a külföldi hatóság eseti megállapodása szerint Magyarország területén ellenőrzött szállítás hajtható végre.
-
-(2) Ha a késedelem a bűnüldözés érdekeit veszélyezteti, a külföldi állam illetékes szervének megkeresését a magyar bűnüldöző szerv közvetlenül fogadhatja, illetve a magyar bűnüldöző szerv – ha azt nemzetközi szerződés lehetővé teszi – a külföldi állam azonos hatáskörrel rendelkező szervéhez közvetlenül is fordulhat. A közvetlen megkeresésről a magyar bűnüldöző szerv köteles a 19. § (1) bekezdésében meghatározott szervet vagy a NEBEK-et haladéktalanul értesíteni.
-
-18. § Az ellenőrzött szállításról szóló eseti megállapodás során rendelkezni kell:
-
-- a) a szállítmány tartalmáról, várható útvonaláról és időtartamáról, a szállítás módjáról, a szállítóeszköz azonosítására alkalmas adatokról;
-- b) az ellenőrzött szállítást irányító személyről;
-- c) a résztvevők kapcsolattartásának módjáról;
-- d) a kísérés módjáról;
-- e) a kísérésben résztvevő személyek számáról;
-- f) a szállítmány átadásának, átvételének körülményeiről;
-- g) az elfogás esetén alkalmazandó intézkedésekről;
-- h) váratlan esemény esetén alkalmazandó intézkedésekről.
-
-19. § (1) A Magyarország területén alkalmazott ellenőrzött szállítás során a művelet irányítására és ellenőrzésére a hatáskörrel és illetékességgel rendelkező magyar bűnüldöző szerv jogosult.
-
-(2) Az ellenőrzött szállítmány kísérésében – a 17. § (1) bekezdésében meghatározott eseti megállapodás szerint – a külföldi hatóság tagja is részt vehet. Az ellenőrzött szállítás kísérésében fedett nyomozó – az Rtv. 64. §-ának (4) bekezdése alapján – az ügyész engedélyével vehet részt.
+17–19. §
 
 ### Közös bűnfelderítő-csoport létrehozása
 
@@ -253,7 +234,7 @@ határidőt határozhat meg.
 
 22. § (1) A Magyarországon működő közös bűnfelderítő-csoportot a magyar bűnüldöző szerv kijelölt tagja vezeti.
 
-(2) Ha a Magyarországon működő közös bűnfelderítő-csoport ügyészi, vagy bírói engedélyhez kötött titkos információgyűjtést folytat, ebben a közös bűnfelderítő-csoport kihelyezett tagja akkor lehet jelen, ha az ügyész, illetve a bíró a közös bűnfelderítő-csoport kihelyezett tagjának a jelenlétét engedélyezte.
+(2)
 
 (3) A közös bűnfelderítő-csoport kihelyezett tagja a minősített adat tartalmát a minősített adat védelméről szóló törvényben meghatározottak szerint ismerheti meg.
 
@@ -273,7 +254,7 @@ határidőt határozhat meg.
 
 25. § (1) Ha a Magyarországon folytatott bűnüldözés eredményessége érdekében külföldi állam területén magyar fedett nyomozó, illetve Magyarországon külföldi fedett nyomozó alkalmazása szükséges, ezt a NEBEK a külföldi hatóságánál kezdeményezheti.
 
-(2) Ha a külföldi állam bűnüldöző szerve által folytatott bűnüldözés eredményessége érdekében külföldi fedett nyomozó magyarországi, illetve magyar fedett nyomozó külföldi alkalmazása szükséges, a külföldi hatóság kérésére – az Rtv. 64. §-a (1) bekezdésének f) pontja esetében az ügyész engedélyével – külföldi fedett nyomozó Magyarországon, illetve magyar fedett nyomozó külföldön alkalmazható.
+(2) Ha a külföldi állam bűnüldöző szerve által folytatott bűnüldözés eredményessége érdekében külföldi fedett nyomozó magyarországi, illetve magyar fedett nyomozó külföldi alkalmazása szükséges, a külföldi hatóság kérésére külföldi fedett nyomozó Magyarországon, illetve magyar fedett nyomozó külföldön alkalmazható.
 
 (3) A magyar bűnüldöző szerv vagy a NEBEK haladéktalanul értesíti a külföldi hatóságot, ha a külföldi fedett nyomozó saját államának joga szerint büntetendő cselekményt követett el.
 
@@ -318,7 +299,7 @@ határidőt határozhat meg.
 31. § (1) A külföldi hatóság tagja Magyarország területén előzetes jóváhagyás nélkül folytathatja azon személy üldözését, aki
 
 - a) azzal gyanúsítható, hogy a külföldi állam területén a 29. §-ban meghatározott bűncselekményt követett el vagy kísérelt meg, és e cselekménye közben tetten érték,
-- b) őrizetből, előzetes letartóztatásból vagy szabadságvesztés büntetés végrehajtása elől megszökött,
+- b) őrizetből, letartóztatásból vagy szabadságvesztés büntetés végrehajtása elől megszökött,
 
 és a magyar bűnüldöző szerv értesítésével járó késedelem az elkövető elfogását jelentősen megnehezítené, illetve a külföldi állam bűnüldözési érdekeit súlyosan veszélyeztetné, és valószínűsíthető, hogy a magyar bűnüldöző szerv az üldözést megfelelő időben nem tudja átvenni.
 
@@ -342,76 +323,39 @@ határidőt határozhat meg.
 
 ### Titkos információgyűjtés nemzetközi együttműködés alapján
 
-35. § (1) A magyar bűnüldöző szerv – a külföldi hatóságtól érkezett megkeresés alapján – bírói engedéllyel az Rtv. 69. §-ának (1) bekezdése szerinti titkos információgyűjtést az arra vonatkozó jogszabályok szerint végezhet.
+35. § (1) A magyar bűnüldöző szerv – a külföldi hatóságtól érkezett megkeresés alapján – bírói engedéllyel az Rtv. 71. §-a, illetve a NAV tv. 60. §-a szerinti titkos információgyűjtést az arra vonatkozó jogszabályok szerint végezhet.
 
-(2) A magyar bűnüldöző szerv – az Rtv. 69. §-ának (1) bekezdése szerinti – titkos információgyűjtés iránti megkeresést kizárólag a magyar jogszabályok szerinti bírói engedély beszerzését követően kezdeményezhet.
+(2) A magyar bűnüldöző szerv – az Rtv. 71. §-a, illetve a NAV tv. 60. §-a szerinti – titkos információgyűjtés iránti megkeresést kizárólag a magyar jogszabályok szerinti bírói engedély beszerzését követően kezdeményezhet.
 
 36. § (1) A 35. § (1) bekezdésében foglalt titkos információgyűjtésre irányuló megkeresés alapján a magyar bűnüldöző szerv a megfigyelt, illetve rögzített adatot a megkereső külföldi hatóságnak továbbítja.
 
-(2) A titkos információgyűjtésre irányuló megkeresés alapján a magyar bűnüldöző szerv – az (1) bekezdésben foglalt intézkedésen túl – a távközlési hálózaton és távközlő eszközökkel továbbított közleményt
+(2) A titkos információgyűjtésre irányuló megkeresés alapján a magyar bűnüldöző szerv – az (1) bekezdésben foglalt intézkedésen túl – az elektronikus hírközlési eszközön vagy az információs rendszeren továbbított közleményt
 
 - a) átirányíthatja (közvetlen továbbítás) a megkereső külföldi hatóság lehallgató eszközére,
 - b) a kísérő és járulékos adatokat rögzítheti, illetőleg továbbíthatja,
 - c) más államban folytatott titkos információgyűjtéshez technikai segítséget nyújthat.
 
-37. § (1) Külföldi hatóságtól érkező megkeresés akkor teljesíthető, ha a külföldi hatóság a saját államának joga szerinti engedéllyel és a titkos információgyűjtést végző magyar bűnüldöző szerv az Rtv.-ben meghatározott bírói engedéllyel rendelkezik.
-
-(2) A titkos lehallgatásra irányuló megkeresés – az (1) bekezdésben foglaltakon felül – akkor teljesíthető, ha a titkos lehallgatás célszemélye Magyarország területén tartózkodik, továbbá, ha a célszemély harmadik állam területén tartózkodik, azonban a titkos lehallgatás Magyarország területén működő távközlési szolgáltató közreműködését igényli, vagy a titkos lehallgatást lehetővé tevő technikai eszköz Magyarország területén található.
+37. §
 
 38. § (1) A titkos információgyűjtésre irányuló megkeresésnek tartalmaznia kell:
 
 - a) a megkereső hatóság megnevezését,
 - b) annak megerősítését, hogy a titkos információgyűjtést a megkereső államban folyamatban levő bűnügyi felderítéshez kapcsolódóan szabályszerűen engedélyezték,
 - c) a titkos információgyűjtés célszemélyének és tárgyának azonosítására szolgáló adatokat,
-- d) a bűnügyi felderítés alapjául szolgáló bűncselekmény megnevezését,
+- d) a titkos információgyűjtés folytatása törvényi feltételeinek fennállását megalapozó részletes indokolást és
 - e) a titkos információgyűjtés végrehajtásához elengedhetetlenül szükséges technikai és adminisztrációs adatokat.
 
-(2) A titkos lehallgatásra irányuló megkeresésnek – az (1) bekezdésben foglaltakon kívül – tartalmaznia kell
+(2) Az Rtv. 71. § d) és e) pontjában, illetve a NAV tv. 60. § d) és e) pontjában meghatározott bírói engedélyhez kötött eszköz alkalmazására irányuló megkeresésnek – az (1) bekezdésben foglaltakon kívül – tartalmaznia kell
 
-- a) a titkos lehallgatással érintett távközlési eszköz vagy módszer megnevezését,
-- b) a továbbítandó adatok körét,
-- c) a titkos lehallgatás időtartamát.
+- a) az alkalmazni kívánt eszköz vagy módszer megnevezését,
+- b) a továbbítandó adatok körét és
+- c) az alkalmazás időtartamát.
 
-(3) Ha a titkos lehallgatás célszemélye nem Magyarország területén tartózkodik, de lehallgatásához, vagy az érintett távközléshez kötődő járulékos és kísérő adatok rögzítéséhez, továbbításához a magyar hatóságok közreműködése szükséges, a megkeresésnek – az (1)–(2) bekezdésben foglaltak mellett – tartalmaznia kell a tényállás rövid ismertetését is.
+(3)
 
 ### Tanúvédelmi Program alkalmazása nemzetközi együttműködés alapján
 
-39. § (1) A külön törvényben meghatározott Tanúvédelmi Szolgálat (a továbbiakban: Szolgálat) a külföldi hatóságtól kérheti a Magyarországon Védelmi Program hatálya alatt álló a tanú, sértett és terhelt, illetve rá tekintettel más személy (jelen cím alkalmazásában a továbbiakban: érintett) külföldi állam területére költöztetését és védelmét. Az intézkedés a Magyarországon folyamatban lévő büntetőeljárást nem akadályozhatja.
-
-(2) Ha az érintett Magyarországon előzetes letartóztatásban van, a rendelkezési jogkör gyakorlójának, ha pedig szabadságvesztés büntetését tölti, az igazságügyért felelős miniszter hozzájárulása szükséges az (1) bekezdésben meghatározott kérelem előterjesztéséhez.
-
-(3) A külföldi hatóság megkeresésére a Szolgálat a külföldön védelem alatt álló érintettet Magyarországra költöztetheti és elláthatja a védelmét.
-
-(4) A 39–42. §-ok alkalmazásában külföldi hatóságnak kell tekinteni a kihirdetett nemzetközi szerződéssel, továbbá az Egyesült Nemzetek Biztonsági Tanácsa kötelező határozatával létrehozott nemzetközi büntetőbíróságot is.
-
-(5) A (4) bekezdésben meghatározott külföldi hatóság megkeresésének fogadására a nemzetközi szerződést, vagy az Egyesült Nemzetek Biztonsági Tanácsának határozatát kihirdető törvényben megjelölt magyar hatóság jogosult.
-
-40. § (1) A külföldi hatóságnak az érintett Magyarországra költöztetésére, valamint a Magyarországon biztosított védelmére irányuló megkeresése akkor teljesíthető, ha az legalább az alábbiakat tartalmazza:
-
-- a) a megkereső hatóság nevét,
-- b) a titoktartási kötelezettségre vonatkozó igényt,
-- c) az átköltöztetni kívánt érintett és a vele együtt költöztetendő személy nevét, születési idejét és helyét, állampolgárságát, foglalkozását, (ha van) munkahelyét, nyelvtudását, illetve egyéb – a védelem ellátása szempontjából fontos – adatait,
-- d) az érintettnek a büntetőeljárásban betöltött szerepét,
-- e) a megkereséshez kapcsolódó büntetőeljárás rövid leírását,
-- f) a fennálló fenyegetettségre, valamint annak súlyosságára vonatkozó adatokat,
-- g) az érintett Magyarországra költöztetésének okát,
-- h) a védelem javasolt formáját, mértékét,
-- i) a Magyarország területén való elhelyezés szükséges időtartamát, és meghosszabbításának lehetőségét,
-- j) az érintett tartózkodási helyére vonatkozó javaslatot, illetőleg a védelem ellátásához szükséges egyéb iratokat.
-
-(2) A Szolgálatnak az érintett átköltöztetésére irányuló megkeresése a 40. § (1) bekezdésében foglaltakat tartalmazza.
-
-41. § (1) A védelem átadásáról, illetve átvételéről, valamint a kapcsolattartás módjáról a Szolgálat a külföldi államban az érintett védelmének ellátására hatáskörrel rendelkező hatósággal állapodik meg.
-
-(2) A Magyarországra költöztetett érintett kizárólag a tanúvédelemről szóló jogszabályokban meghatározott védelmi formákban részesíthető.
-
-(3) Ha a védelem az átköltöztetést követően már nem biztosítható, a Szolgálat – a további intézkedések megtétele érdekében – a külföldi hatósággal haladéktalanul egyeztet. A 39. § (4) bekezdésében meghatározott külföldi hatósággal a nemzetközi szerződést, vagy az Egyesült Nemzetek Biztonsági Tanácsának határozatát kihirdető törvényben megjelölt magyar hatóság útján kell egyeztetni.
-
-42. § (1) Ha a Magyarországra átköltöztetett érintett megsérti a magyar jogszabályokat vagy nem tartja be a számára megállapított magatartási szabályokat, erről a Szolgálat haladéktalanul tájékoztatja a külföldi hatóságot.
-
-(2) A 39. § (4) bekezdésében meghatározott külföldi hatóságot a nemzetközi szerződést, vagy az Egyesült Nemzetek Biztonsági Tanácsának határozatát kihirdető törvényben megjelölt magyar hatóság útján kell tájékoztatni.
-
-(3) Az érintettnek a védelem érdekeit vagy a Szolgálat személyi állományát indokolatlanul és súlyosan veszélyeztető cselekménye esetén haladéktalanul kezdeményezni kell az érintett visszaköltöztetését.
+39–42. §
 
 ### Az Európai Unió tagállamának különleges intervenciós egységével való együttműködés
 
@@ -474,7 +418,7 @@ határidőt határozhat meg.
 
 ### Jogharmonizációs záradék
 
-52. § (1) E törvény – az a)–d) pont tekintetében a 2003. évi CXXX. törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
+52. § (1) E törvény – az a)–d) pont tekintetében az EUtv.-nyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a Tanács 2002/465/IB kerethatározata (2002. június 13.) a közös nyomozócsoportokról;
 - b) a Tanács 2006/960/IB kerethatározata (2006. december 18.) az Európai Unió tagállamainak bűnüldöző hatóságai közötti, információ és bűnüldözési operatív információ cseréjének leegyszerűsítéséről (e törvény 4. § (1) bekezdése, 11/A. §-a, 16/A–16/F. §-a, 1. és 2. melléklete);

@@ -8,7 +8,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 1. § (1) Magyarország területét minden magyar állampolgár és az országban jogszerűen tartózkodó külföldi szabadon elhagyhatja, ide értve a külföldi letelepedés szándékával történő kiutazást is. A külföldre utazás joga törvényben meghatározottak szerint gyakorolható, illetve korlátozható.
 
-(2) A magyar állampolgárt az Alaptörvény XIV. cikk (1) bekezdése alapján megillető hazatérés joga nem tagadható meg, nem korlátozható, feltételhez nem köthető.
+(2) A magyar állampolgárt az Alaptörvény XIV. cikk (2) bekezdése alapján megillető hazatérés joga nem tagadható meg, nem korlátozható, feltételhez nem köthető.
 
 (3) A külföldre utazás joga érvényes úti okmánnyal gyakorolható. A magyar állampolgár érvényes személyazonosító igazolvánnyal is gyakorolhatja a külföldre utazás jogát EGT-állam területére történő beutazáskor, valamint nemzetközi szerződés alapján, illetve ha azt EGT-államnak nem minősülő állam belső joga biztosítja, amely tényt, illetve annak megszűnését az adott állam értesítését követően a külpolitikáért felelős miniszter a Hivatalos Értesítőben és honlapján haladéktalanul közzétesz.
 
@@ -173,8 +173,8 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 16. § (1) Nem utazhat külföldre
 
-- a) aki előzetes letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy ideiglenes kényszergyógykezelés alatt áll,
-- b) aki lakhelyelhagyási tilalom, illetve házi őrizet hatálya alatt áll,
+- a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, vagy előzetes kényszergyógykezelés alatt áll,
+- b) az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
 - c) akit végrehajtandó szabadságvesztésre ítéltek, illetve akinek felfüggesztett vagy részben felfüggesztett szabadságvesztése végrehajtását utóbb elrendelték, az ítélet jogerőre emelkedésétől
   - ca) a szabadságvesztés végrehajtásának utolsó napjáig, vagy
   - cb) a szabadságvesztés büntetés végrehajthatóságának megszűnéséig,
@@ -185,15 +185,15 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 (2) Az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén
 
 - a) az ügyész vagy
-- b) ha nincs ügyész jelen, illetve az (1) bekezdés f) pontjában meghatározott esetben a bíró elveszi az úti okmányt annak visszatartása érdekében.
+- b) ha nincs ügyész jelen, illetve az (1) bekezdés f) pontjában meghatározott esetben a bíróság elveszi az úti okmányt annak visszatartása érdekében.
 
-(3) Amennyiben az úti okmányt az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelésekor vagy kiszabásakor nem lehetett elvenni, az ügyész a büntetőeljárás során gondoskodik annak későbbi elvételéről.
+(3) Amennyiben az úti okmányt az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelésekor vagy kiszabásakor nem lehetett elvenni, az ügyészség a büntetőeljárás során gondoskodik annak későbbi elvételéről.
 
-(4) Az elvett úti okmányt az ügyész vagy bíró továbbítja az (5) bekezdésben meghatározott, az úti okmány visszatartását végrehajtó szervnek.
+(4) Az elvett úti okmányt az ügyészség vagy bíróság továbbítja az (5) bekezdésben meghatározott, az úti okmány visszatartását végrehajtó szervnek.
 
 (5) Külföldre utazási korlátozás esetén az úti okmány visszatartását
 
-- a) az (1) bekezdés a), b) pontjában meghatározott esetben a személyi szabadságot elvonó vagy korlátozó kényszerintézkedést vagy egyéb korlátozást foganatosító vagy annak ellenőrzését végrehajtó szerv,
+- a) az (1) bekezdés a), b) pontjában meghatározott esetben a személyi szabadságot érintő kényszerintézkedést vagy egyéb korlátozást foganatosító vagy annak ellenőrzését végrehajtó szerv,
 - b) az (1) bekezdés c), d) és e) pontjában meghatározott esetben a szabadságvesztést foganatosító büntetés-végrehajtási intézet, a kényszergyógykezelést foganatosító igazságügyi megfigyelő és elmeorvosi intézet, vagy a javítóintézeti nevelést végrehajtó szerv,
 - c) az (1) bekezdés f) pontjában meghatározott esetben a tiltást elrendelő bíróság,
 - d) külföldi állam által kiállított úti okmány esetében az idegenrendészeti hatóság
@@ -210,11 +210,11 @@ hajtja végre.
 
 (2) A külföldre utazási korlátozás tényét azon érintett személyek esetében, akik – a bevándorolt, letelepedett, menekült, oltalmazott, menedékes és hontalan úti okmánya kivételével – magyar hatóság által kiállított érvényes úti okmánnyal rendelkeznek, az útiokmány-nyilvántartásban kell nyilvántartani.
 
-16/B. § (1) A 16. § (1) bekezdésében meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése, kiszabása, illetve megszüntetése esetén a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére teljesítendő adatközlési kötelezettségének teljesítése előtt ellenőrzi az útiokmány-nyilvántartásban, hogy a érintett személy érvényes úti okmánnyal rendelkezik-e.
+16/B. § (1) A 16. § (1) bekezdésében meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése, kiszabása, illetve megszüntetése esetén a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére teljesítendő adatközlési kötelezettségének teljesítése előtt ellenőrzi az útiokmány-nyilvántartásban, hogy a érintett személy érvényes úti okmánnyal rendelkezik-e.
 
-(2) Ha az érintett személy érvényes úti okmánnyal rendelkezik, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész a döntés meghozatalától számított huszonnégy órán belül értesíti az útlevélhatóságot a külföldre utazási korlátozásnak az útiokmány-nyilvántartásba történő bejegyzése, illetve a nyilvántartásból történő törlése érdekében.
+(2) Ha az érintett személy érvényes úti okmánnyal rendelkezik, a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség a döntés meghozatalától számított huszonnégy órán belül értesíti az útlevélhatóságot a külföldre utazási korlátozásnak az útiokmány-nyilvántartásba történő bejegyzése, illetve a nyilvántartásból történő törlése érdekében.
 
-(3) A bíróság, illetve az ügyész a következő adatokat közli az útlevélhatósággal:
+(3) A bíróság, illetve az ügyészség a következő adatokat közli az útlevélhatósággal:
 
 - a) az érintett személy családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét,
 - b) úti okmányának típusát, számát, valamint
@@ -222,13 +222,13 @@ hajtja végre.
 
 (4) A 16. § (1) bekezdés a)–e) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás miatt elrendelt külföldre utazási korlátozás megszűnéséről a bűnügyi nyilvántartó szerv értesíti az útlevélhatóságot.
 
-(5) Az útlevélhatóság a bíróság, illetve az ügyész, valamint a bűnügyi nyilvántartó szerv értesítése alapján az útiokmány-nyilvántartásba történő bejegyzést vagy az abból törlést haladéktalanul elvégzi.
+(5) Az útlevélhatóság a bíróság, illetve az ügyészség, valamint a bűnügyi nyilvántartó szerv értesítése alapján az útiokmány-nyilvántartásba történő bejegyzést vagy az abból törlést haladéktalanul elvégzi.
 
-16/C. § (1) Ha az érintett személy külföldi – a (2) és (3) bekezdésben foglaltak figyelembevételével – a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész az idegenrendészeti hatóságot értesíti a külföldi érintett személy külföldi állam által kiállított úti okmányának visszatartása érdekében.
+16/C. § (1) Ha az érintett személy külföldi – a (2) és (3) bekezdésben foglaltak figyelembevételével – a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy külföldi állam által kiállított úti okmányának visszatartása érdekében.
 
-(2) Ha az érintett személy bevándorolt vagy letelepedett jogállású, valamint hontalan külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész az idegenrendészeti hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
+(2) Ha az érintett személy bevándorolt vagy letelepedett jogállású, valamint hontalan külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 
-(3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyész a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
+(3) Ha az érintett személy menekültként, oltalmazottként vagy menedékesként elismert külföldi terhelt esetében a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség a menekültügyi hatóságot értesíti a külföldi érintett személy magyar hatóság által kiállított úti okmányának visszavonása érdekében.
 
 16/D. § (1) A 16. § (1) bekezdés a) és b) pontja szerinti kényszerintézkedésről a bíróság adatot szolgáltat a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal (a továbbiakban: kijelölt kormányhivatal) részére akkor, ha a kényszerintézkedés elrendelésére
 
@@ -262,7 +262,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 20. § (1) Érvénytelen az úti okmány, ha
 
-- a) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, valamint ha azt a hatóság elvette, illetve bevonta vagy szabálysértési, illetve büntetőeljárásban tárgyi bizonyítási eszközként lefoglalta,
+- a) elvesztését, megsemmisülését vagy eltulajdonítását bejelentették, valamint ha azt elvették, illetve bevonták vagy szabálysértési, illetve büntetőeljárásban lefoglalták,
 - b) személyazonosság megállapítására alkalmatlan, betelt, megrongálódott,
 - c) hamis vagy meghamisították,
 - d) jogosulatlanul használták fel vagy jogosulatlan felhasználás gyanúja alapján szabálysértési vagy büntetőeljárás indult,
@@ -313,7 +313,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (3) Az útlevélhatóság határozatának felülvizsgálatáról a bíróság soron kívül dönt.
 
-23. § (1) Az érvénytelen úti okmányt – a 20. § (1) bekezdés a) pontjában meghatározott kivétellel – az útlevélhatóság, továbbá a bíróság, az ügyészség és a rendőrség, a Nemzeti Adó- és Vámhivatal vámszerve és nyomozó hatósága, a büntetés-végrehajtási intézet intézkedésre feljogosított tagja, továbbá a magyar külképviselet intézkedésre feljogosított konzuli tisztviselője vagy tiszteletbeli konzuli tisztviselője hivatalos eljárása során elveszi.
+23. § (1) Az érvénytelen úti okmányt – a 20. § (1) bekezdés a) pontjában meghatározott kivétellel – az útlevélhatóság, továbbá a bíróság, az ügyészség a nyomozó hatóság, a rendőrség, a Nemzeti Adó- és Vámhivatal vámszerve, a büntetés-végrehajtási intézet intézkedésre feljogosított tagja, továbbá a magyar külképviselet intézkedésre feljogosított konzuli tisztviselője vagy tiszteletbeli konzuli tisztviselője hivatalos eljárása során elveszi.
 
 (2) Az elvett úti okmányt haladéktalanul meg kell küldeni az útlevélhatóságnak.
 
@@ -479,7 +479,7 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 29. § (1) Az útlevélhatóság és az adatkezelő szerv köteles biztosítani, hogy az állampolgár megismerhesse, hogy mely adatszolgáltatás alanya volt.
 
-(2) Az (1) bekezdésben meghatározott tájékoztatás a bíróság, az ügyészség, a nyomozó hatóságok és a nemzetbiztonsági szolgálatok részére teljesített adatszolgáltatás körében – külön törvényben meghatározottak szerint – korlátozható, vagy kizárható.
+(2) Az (1) bekezdésben meghatározott tájékoztatás a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és a nemzetbiztonsági szolgálatok részére teljesített adatszolgáltatás esetén – külön törvényben meghatározottak szerint – korlátozható, vagy kizárható.
 
 (3) Az útlevélhatóság, valamint az adatkezelő szerv az e törvény alapján teljesített adatszolgáltatásról nyilvántartást vezet, amelyet az adatszolgáltatástól számított öt évig köteles megőrizni.
 

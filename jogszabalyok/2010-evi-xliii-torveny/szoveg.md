@@ -319,7 +319,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 25/B. § (1) A miniszterelnök
 
-- a) – hivatalos és magánprogramokra is kiterjedően – személyi védelemre,
+- a) – hivatalos és magánprogramokra is kiterjedően – személyvédelemre,
 - b) rezidencia használatára,
 - c) – személyi és hivatali célra – két személygépkocsi használatára,
 - d) rádiótelefon- és internethasználatra, valamint kormányzati célú hírközlő hálózat használatára,

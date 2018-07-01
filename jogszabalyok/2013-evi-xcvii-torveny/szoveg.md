@@ -260,7 +260,7 @@ tart.
 
 (4) Az érdekvédelmi nyilvántartásban történő adatkezelés célja
 
-- a) a nyugállományú katonának, a köztársasági elnök által szolgálaton kívüli állományba felvett személynek,
+- a) a nyugállományú katonának,
 - b) a hivatásos, a szerződéses és az önkéntes tartalékos, vagy a hadkötelezettség alapján történő katonai szolgálatteljesítéssel összefüggő baleset, betegség, sebesülés vagy haláleset miatt társadalombiztosítási és szociális ellátásra jogosultaknak,
 - c) a korábban hadkötelezettség alapján katonai szolgálatot teljesítetteknek, és
 - d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak
@@ -404,7 +404,7 @@ szerinti időtartamot tartalmazza.
 
 (5) A rögzített képfelvétel a rögzítéstől számított 60 napig tárolható, azt követően haladéktalanul törölni kell.
 
-(6) Az (5) bekezdés szerinti időtartamon belül a rögzített képfelvétel a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási és fegyelmi eljárás lefolytatása céljából a nyomozó hatóság, a szabálysértési hatóság, a fegyelmi ügyben eljáró szerv, az ügyészség, a bíróság, a törvényben meghatározott nemzetbiztonsági feladatok ellátása céljából a nemzetbiztonsági szolgálatok valamint az érintett jogainak gyakorlása céljából, az érintett részére továbbítható.
+(6) Az (5) bekezdés szerinti időtartamon belül a rögzített képfelvétel a jogszabályban meghatározott szabálysértési, igazságszolgáltatási és fegyelmi eljárás vagy büntetőeljárás lefolytatása céljából az előkészítő eljárást folytató szerv, a nyomozó hatóság, a szabálysértési hatóság, a fegyelmi ügyben eljáró szerv, az ügyészség, a bíróság, a törvényben meghatározott nemzetbiztonsági feladatok ellátása céljából a nemzetbiztonsági szolgálatok valamint az érintett jogainak gyakorlása céljából, az érintett részére továbbítható.
 
 (7) Az, akinek jogát vagy jogos érdekét a képfelvétel rögzítése érinti, a (6) bekezdésben megjelölt eljárás lefolytatásához kérheti, hogy az adatot annak kezelője az adat továbbításáig ne törölje. A kérelem benyújtására a képfelvétel rögzítésétől számított 60 napon belül van lehetőség. Bíróság vagy más hatóság megkeresésére a rögzített képfelvételt haladéktalanul meg kell küldeni. Ha a kérelem benyújtásától számított 60 napon belül nem kerül sor megkeresésre, a rögzített képfelvételt törölni kell.
 
@@ -1409,7 +1409,7 @@ c) a fegyelmi, a szabálysértési és a büntetőeljárást elrendelő, felfüg
 
 d) a fegyelemsértés, a szabályszegés, a szabálysértés, a bűncselekmény megnevezése, minősítése,
 
-e) a jogerős határozatban megállapított tényállás rövid leírása,
+e) a jogerős határozatban, illetve ügydöntő határozatban megállapított tényállás rövid leírása,
 
 f) a jogkövetkezmény neme és mértéke, a jogkövetkezmény alkalmazásának mellőzése esetén annak oka,
 
@@ -1493,7 +1493,7 @@ h) testi, szellemi fogyatékossága, személyiségzavara,
 
 i) szenvedélybetegsége,
 
-j) az előzetes letartóztatás, házi őrizet, illetőleg lakhelyelhagyási tilalom elrendelésének, valamint e kényszerintézkedések megszüntetésének időpontja,
+j) a letartóztatás, a bíróság által a terhelt számára előírt meghatározott terület, lakás, egyéb helyiség, intézmény, vagy ahhoz tartozó bekerített hely engedély nélküli el nem hagyására vonatkozó bűnügyi felügyelet elrendelésének, valamint e kényszerintézkedések megszüntetésének időpontja,
 
 k) a vele szemben folyamatban lévő büntetőeljárás, a kiszabott fő- és mellékbüntetés,
 

@@ -289,7 +289,7 @@ tevékenységét.
 - b) a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, azokról másolatot, kivonatot készíthet, és
 - c) a vizsgált hatóság bármely munkatársát meghallgathatja.
 
-(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak a NAV nyomozóhatósági feladatokat ellátó területi szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter határozza meg.
+(2) Az alapvető jogok biztosának vagy a felhatalmazása alapján a vizsgálatot végző munkatársának a helyszíni ellenőrzés során a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szervei, valamint bűnügyi főigazgatósága és annak a NAV nyomozó hatósági feladatokat ellátó területi szervei működésére szolgáló területekre történő belépésének, tartózkodásnak és kilépésének rendjét a honvédelemért felelős miniszter, a rendvédelmi szerv irányításáért felelős miniszter, illetve a Nemzeti Adó- és Vámhivatalt irányító miniszter határozza meg.
 
 (3) A vizsgált hatóság helyiségébe való belépést szabályozó jogszabály a helyszíni ellenőrzést érdemben nem akadályozhatja.
 
@@ -327,9 +327,9 @@ tevékenységét.
 - c) a nemzetbiztonsági szolgálatoknak a rendőrséggel történő együttműködésével kapcsolatos, és az abból származó vagy arra vonatkozó minden, a (2) bekezdésben meghatározott adatot tartalmazó iratba,
 - d) a rendőrség által védett objektumok, valamint a rendőrség által védett személyek őrzés-védelmi terveibe, a védelmi berendezésekre, őrségekre, őrhelyekre vonatkozó dokumentációkba, leírásokba,
 - e) a rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő iratba, kivéve ha a jogsérelem az együttműködő személyt érte, és a kivizsgálást maga kéri,
-- f) a rendőrség által titkos információgyűjtésre használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő dokumentumba,
+- f) a rendőrség által titkos információgyűjtés folytatása vagy leplezett eszközök alkalmazása érdekében használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő dokumentumba,
 - g) a rendőrség rejtjeles híradásával kapcsolatos iratba, valamint a kormányzati célú frekvencia nyilvántartásával kapcsolatos összesített adatokat tartalmazó iratba,
-- h) a tanú személyi adataiba, ha azok zárt kezelését a büntetőeljárásról szóló törvény alapján elrendelték, valamint
+- h) a büntetőeljárásról szóló törvény alapján zártan kezelt ügyiratokba, valamint
 - i) a Magyar Honvédséggel, a nemzetbiztonsági szolgálatokkal kötött együttműködési megállapodásba, amelyet a felek „Szigorúan titkos!” minősítési szintű adatnak minősítettek.
 
 (4) Az alapvető jogok biztosa a Nemzeti Adó- és Vámhivatal vámhatósági feladatokat ellátó szerveit és bűnügyi főigazgatóságát érintő vizsgálata során nem tekinthet be
@@ -340,15 +340,15 @@ tevékenységét.
 - d) a Nemzeti Adó- és Vámhivatal által védett objektumok és személyek őrzésvédelmi terveibe, a védelmi berendezésekre, őrségekre, őrhelyekre vonatkozó dokumentációkba, leírásokba,
 - e) a rejtjeles híradással kapcsolatos iratba, valamint a kormányzati célú frekvencia nyilvántartásával kapcsolatos összesített adatot tartalmazó iratba,
 - f) a Nemzeti Adó- és Vámhivatal érintett szervével titkosan együttműködő magánszemélyek azonosítását lehetővé tevő iratba, kivéve, ha a jogsérelem az együttműködő személyt érte, és a kivizsgálást maga kéri,
-- g) a Nemzeti Adó- és Vámhivatal érintett szerve által titkos információgyűjtésre használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő iratba,
+- g) a Nemzeti Adó- és Vámhivatal érintett szerve által titkos információgyűjtés folytatása vagy leplezett eszközök alkalmazása érdekében használt eszközök és módszerek működésének és működtetésének műszaki-technikai adatait tartalmazó vagy az azokat alkalmazó személyek azonosítását lehetővé tevő iratba,
 - h) a Nemzeti Adó- és Vámhivatal érintett szerve által végzett felderítés eszközeire, működésére vonatkozó összesített adatokat tartalmazó iratba, valamint
 - i) az adóügyi jelzések védelmével kapcsolatban a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve által alkalmazott módszerek adataiba, valamint a nemzetközileg ellenőrzött termékek és technológiák forgalmára, az ellenőrzési tervekre, a megfigyelésekre és a körözések elrendelésére, illetve a katonai ügyekre vonatkozó adatokat tartalmazó iratba.
 
 (5) Az alapvető jogok biztosa az ügyészség nyomozást végző szervét érintő vizsgálata során nem tekinthet be
 
-- a) a tanú személyi adataiba, ha azok zárt kezelését a büntetőeljárásról szóló törvény alapján elrendelték,
+- a) a büntetőeljárásról szóló törvény alapján zártan kezelt ügyiratokba,
 - b) az ügyészség nyomozást végző szervének titkos információgyűjtése során keletkezett iratba,
-- c) az ügyészség nyomozást végző szervének a titkos információgyűjtést végző szervekkel történő együttműködésével kapcsolatos, és az abból származó vagy arra vonatkozó minden, a (2)–(4) bekezdésben a titkos információgyűjtést végző szervekkel kapcsolatban meghatározott iratba,
+- c) az ügyészség nyomozást végző szervének a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervekkel történő együttműködésével kapcsolatos, és az abból származó vagy arra vonatkozó minden, a (2)–(4) bekezdésben a titkos információgyűjtést folytató, illetve leplezett eszközt alkalmazó szervekkel kapcsolatban meghatározott iratba,
 - d) a rendőrséggel titkosan együttműködő magánszemélyek azonosítását lehetővé tevő iratba, kivéve, ha a jogsérelem az együttműködő személyt érte, és a kivizsgálást maga kéri.
 
 (6) Az alapvető jogok biztosa a Nemzeti Biztonsági Felügyeletnek a minősített adat védelméről szóló törvényben meghatározott feladatait érintő vizsgálata során nem tekinthet be a rejtjeltevékenység szakirányításával és hatósági engedélyezésével, felügyeletével kapcsolatos iratba.
@@ -357,7 +357,7 @@ tevékenységét.
 
 24. § (1) Ha alappal tehető fel, hogy az alapvető jogok biztosa intézkedésének késedelme esetén természetes személyek nagyobb csoportjának alapvető jogai súlyosan sérülnének, az alapvető jogok biztosának a felhatalmazása alapján vizsgálatot végző munkatársa a jogsérelem veszélyét a vizsgált hatóság vezetőjének jelezheti, egyidejűleg az alapvető jogok biztosának az intézkedését kezdeményezi. A jelzést az ügyiraton rögzíteni kell.
 
-(2) Ha az alapvető jogok biztosa vizsgálata során olyan körülményt észlel, amelyből a kényszerintézkedés elrendelésének jogszerűtlenségére lehet következtetni, erről a legfőbb ügyész útján haladéktalanul értesíti az illetékes ügyészt. Ha a kényszerintézkedést az ügyészség rendelte el, az alapvető jogok biztosa a bíróságot is értesíti.
+(2) Ha az alapvető jogok biztosa vizsgálata során olyan körülményt észlel, amelyből a kényszerintézkedés elrendelésének jogszerűtlenségére lehet következtetni, erről a legfőbb ügyész útján haladéktalanul értesíti az ügyészséget. Ha a kényszerintézkedést az ügyészség rendelte el, az alapvető jogok biztosa a bíróságot is értesíti.
 
 25. § (1) Az alapvető jogok biztosa vizsgálatainak lefolytatása, illetve a vizsgálat megtervezése érdekében a vizsgált hatóság, a vizsgált hatóság vezetője, a vizsgált hatóság felügyeleti szervének vezetője, a kért vizsgálat lefolytatására jogszabály által egyébként feljogosított szerv vezetője, valamint a vizsgált hatóság munkatársa a 21. § (1) bekezdésében meghatározott esetekben az alapvető jogok biztosával együttműködik.
 
@@ -381,7 +381,7 @@ tevékenységét.
 
 (2) Az alapvető jogok biztosának a jelentése nyilvános. A nyilvánosságra hozott jelentés nem tartalmazhat személyes adatot, minősített adatot, a törvény által védett titkot és hivatás gyakorlásához kötött titkot.
 
-(3) Az alapvető jogok biztosának a titkosszolgálati eszközök és módszerek alkalmazására jogosult szervek e tevékenységével kapcsolatos vizsgálatáról készült jelentése nem tartalmazhat olyan adatot, amelyből a szerv adott ügyben folytatott titkos információgyűjtő tevékenységére lehetne következtetni.
+(3) Az alapvető jogok biztosának a titkos információgyűjtés folytatására vagy a leplezett eszközök alkalmazására feljogosított szervek e tevékenységével kapcsolatos vizsgálatáról készült jelentése nem tartalmazhat olyan adatot, amelyből az adott ügyben folytatott titkos információgyűjtésre vagy a leplezett eszközök alkalmazására lehetne következtetni.
 
 (4) Az alapvető jogok biztosának a beadványt elutasító döntésével, valamint a jelentésével szemben jogorvoslatnak nincs helye.
 
@@ -409,7 +409,7 @@ tevékenységét.
 
 33. § (1) Az alapvető jogok biztosa a feltárt alapvető joggal összefüggő visszásság orvoslása érdekében a legfőbb ügyész útján kezdeményezheti az ügyész fellépését. Az ügyész a fellépés kezdeményezésével kapcsolatos álláspontjáról, esetleges intézkedéséről hatvan napon belül értesíti az alapvető jogok biztosát.
 
-(2) Ha az alapvető jogok biztosa vizsgálata során alapvető joggal összefüggő visszásságot nem állapít meg, de jogszabálysértésre utaló körülményt észlel, a beadványt a legfőbb ügyész útján megküldheti az illetékes ügyésznek.
+(2) Ha az alapvető jogok biztosa vizsgálata során alapvető joggal összefüggő visszásságot nem állapít meg, de jogszabálysértésre utaló körülményt észlel, a beadványt a legfőbb ügyész útján megküldheti az ügyésznek.
 
 (3) Az alapvető jogok biztosa a környezet állapotával összefüggő közigazgatási döntés elleni közigazgatási per során a perben beavatkozóként részt vehet.
 
@@ -424,7 +424,7 @@ tevékenységét.
 - c) azon jogszabályi rendelkezés megjelölését, amelyet az önkormányzati rendelet sért,
 - d) annak okát, hogy az alapvető jogok biztosa az adott rendelkezést miért tartja jogszabálysértőnek.
 
-35. § (1) Ha az alapvető jogok biztosa vizsgálata során bűncselekmény elkövetésének alapos gyanúját észleli, büntetőeljárást kezdeményez az annak megindítására jogosult szervnél. Ha az alapvető jogok biztosa vizsgálata során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, szabálysértési, illetve fegyelmi eljárást kezdeményez a szabálysértési, illetve a fegyelmi eljárás lefolytatására jogosult szervnél.
+35. § (1) Ha az alapvető jogok biztosa vizsgálata során bűncselekmény gyanúját észleli, büntetőeljárást kezdeményez az annak megindítására jogosult szervnél. Ha az alapvető jogok biztosa vizsgálata során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, szabálysértési, illetve fegyelmi eljárást kezdeményez a szabálysértési, illetve a fegyelmi eljárás lefolytatására jogosult szervnél.
 
 (2) Az (1) bekezdésben meghatározott szerv az eljárás megindításával kapcsolatos álláspontjáról – törvény eltérő rendelkezése hiányában – harminc napon belül, az eljárás eredményéről pedig az annak befejezését követő harminc napon belül tájékoztatja az alapvető jogok biztosát.
 

@@ -130,7 +130,7 @@ gyakorolja.
   - ah) gondatlan bűncselekmény miatt kiszabott közérdekű munka esetén a mentesítés beálltától számított három évig,
 - b) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - c) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
-- d) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig.
+- d) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll.
 
 11/A. § (1) Az igazságügyi alkalmazottként szolgálati jogviszonyt létesíteni szándékozó személy a munkáltatói jogkör gyakorlójának felhívására
 
@@ -814,14 +814,16 @@ nem haladhatja meg.
 
 56. § (1) Fegyelmi vétség elkövetésének alapos gyanúja esetén a munkáltató a fegyelmi eljárást indokolt határozattal rendeli el. A határozatot a fegyelmi eljárás alá vont igazságügyi alkalmazott részére kézbesíteni kell, ellene fellebbezésnek nincs helye.
 
-(2) A fegyelmi vétség elkövetésének alapos gyanúja fennáll, ha az igazságügyi alkalmazottal szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – indult.
+(2) A fegyelmi vétség elkövetésének alapos gyanúja fennáll, ha az igazságügyi alkalmazottal szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – indult.
 
 (3) Ha a vétkesség enyhébb fokú és a kötelezettségszegés nem vagy csak csekély mértékben járt hátrányos következménnyel, a munkáltató az igazságügyi alkalmazottat – fegyelmi eljárás elrendelése nélkül – írásbeli figyelmeztetésben részesítheti. Figyelmeztetés esetén az igazságügyi alkalmazott a munkáltatótól 15 napon belül kérheti a fegyelmi eljárás elrendelését, ami nem tagadható meg.
 
 (4) Fegyelmi eljárás nem rendelhető el, ha
 
 - a) a munkáltatónak a kötelezettségszegésről már legalább 3 hónapja tudomása volt, vagy a kötelezettségszegést jelentő magatartás elkövetésétől számítva 3 év már eltelt,
-- b) az igazságügyi alkalmazott ellen a kötelezettségszegés miatt büntetőeljárás vagy szabálysértési eljárás indult és az a felelősséget megállapító határozattal fejeződött be, a jogerős határozatnak a munkáltatóval való közlésétől számított 3 hónapon túl; illetve, ha az eljárás 3 éven túl fejeződött be, a jogerős határozat meghozatalától számított 1 év elteltével.
+- b) az igazságügyi alkalmazottal szemben a kötelezettségszegés miatt büntetőeljárás vagy szabálysértési eljárás indult,
+  - ba) szabálysértési eljárásban a felelősséget megállapító vagy eljárást megszüntető jogerős határozat, büntetőeljárásban a bíróság jogerős ügydöntő határozata vagy véglegessé vált eljárást megszüntető határozata, valamint a nyomozás során hozott, további jogorvoslattal nem támadható eljárást megszüntető határozat munkáltatóval való közlésétől számított három hónapon túl; vagy
+  - bb) ha az eljárás az a) pontban említett hároméves határidőn túl fejeződött be, a ba) pont szerinti határozat meghozatalától számított egy év elteltével.
 
 57. § A fegyelmi eljárást az elrendelésétől számított 60 napon belül határozattal kell befejezni.
 
@@ -833,7 +835,7 @@ nem haladhatja meg.
 
 (2) A felfüggesztés a felfüggesztésre okot adó körülmény megszűnéséig tarthat. A felfüggesztés tartama a fegyelmi eljárás lefolytatására nyitva álló határidőbe nem számít be.
 
-59. § (1) A fegyelmi eljárás alá vont a munkaköréből felfüggeszthető, ha a szolgálati helyén való jelenléte a tényállás megállapítását gátolná, ha büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – hatálya alatt áll, a büntetőeljárás jogerős bejezéséig, továbbá ha a fegyelemsértés jellege egyébként azt indokolja.
+59. § (1) A fegyelmi eljárás alá vont a munkaköréből felfüggeszthető, ha a szolgálati helyén való jelenléte a tényállás megállapítását gátolná, ha büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll, továbbá ha a fegyelemsértés jellege egyébként azt indokolja.
 
 (2) A felfüggesztés legfeljebb a fegyelmi határozat jogerőre emelkedéséig tarthat. A hivatalvesztés, illetve az elbocsátás fegyelmi büntetéssel – az erről szóló határozat jogerőre emelkedéséig – a felfüggesztés együtt jár. A felfüggesztést haladéktalanul meg kell szüntetni, ha annak indoka már nem áll fenn.
 
@@ -973,7 +975,7 @@ okozta.
 
 (2) Nem kell megtéríteni a kárnak azt a részét, amely a munkáltató közrehatása következtében keletkezett.
 
-82. § (1) Az igazságügyi alkalmazott kártérítési felelősségéről, illetve sérelemdíj megfizetésére kötelezéséről a munkáltató a kár, illetve a személyiségi jogsértés tudomására jutásától számított 60 napon belül határozattal dönt. Ha a károkozóval, illetve a jogsértővel szemben a kárigénnyel, illetve a személyiségi jogsértéssel összefüggően büntetőeljárás indult, a határidő a büntetőeljárás jogerős befejezésekor veszi kezdetét.
+82. § (1) Az igazságügyi alkalmazott kártérítési felelősségéről, illetve sérelemdíj megfizetésére kötelezéséről a munkáltató a kár, illetve a személyiségi jogsértés tudomására jutásától számított 60 napon belül határozattal dönt. Ha a károkozóval, illetve a jogsértővel szemben a kárigénnyel, illetve a személyiségi jogsértéssel összefüggően büntetőeljárás indult, a határidő a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor veszi kezdetét.
 
 (2) A kártérítési, illetve a sérelemdíj megfizetése iránti eljárásra a fegyelmi eljárás szabályait megfelelően alkalmazni kell.
 

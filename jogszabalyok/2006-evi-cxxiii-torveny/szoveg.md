@@ -4,124 +4,134 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 ### A törvény hatálya
 
-1. § Ezt a törvényt azokban az ügyekben kell alkalmazni, amelyeket a büntetőeljárásról szóló 1998. évi XIX. törvény (Be.) alapján az ügyész, illetőleg a bíróság közvetítői eljárásra utalt.
+1. § Ezt a törvényt azokban az ügyekben kell alkalmazni, amelyekben a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) alapján az ügyészség a büntetőeljárást közvetítői eljárás céljából felfüggesztette.
 
 ### A közvetítői eljárás fogalma és célja
 
-2. § (1) A közvetítői eljárás a bűncselekmény elkövetésével kiváltott konfliktust kezelő eljárás, amelynek célja, hogy a büntetőeljárást lefolytató bíróságtól, illetőleg ügyésztől független, harmadik személy (közvetítő) bevonásával – a sértett és a terhelt közötti konfliktus rendezésének megoldását tartalmazó, a bűncselekmény következményeinek jóvátételét és a terhelt jövőbeni jogkövető magatartását elősegítő – írásbeli megállapodás jöjjön létre.
+2. § (1) A közvetítői eljárás a bűncselekmény elkövetésével kiváltott konfliktust kezelő eljárás, amelynek célja, hogy a büntetőeljárást lefolytató nyomozó hatóságtól, illetve ügyésztől független közvetítő bevonásával – a sértett és a gyanúsított közötti konfliktus rendezésének megoldását tartalmazó, a bűncselekmény következményeinek jóvátételét és a terhelt jövőbeni jogkövető magatartását elősegítő – írásbeli megállapodás jöjjön létre.
 
-(2) A közvetítői eljárásban arra kell törekedni, hogy a sértett és a terhelt között – a terhelt tevékeny megbánását megalapozó – megállapodás jöjjön létre.
+(2) A közvetítői eljárásban arra kell törekedni, hogy a sértett és a terhelt között megállapodás jöjjön létre.
 
 ### A közvetítő
 
-3. § (1) A közvetítői eljárást a büntető ügyekben eljáró bíróság, illetőleg ügyész székhelye szerint illetékes pártfogó felügyelői szolgálat közvetítői tevékenységet végző pártfogó felügyelője, vagy a pártfogó felügyelői szolgálatként kijelölt szervvel – pályázat útján – közvetítői tevékenység végzésére szerződésben álló ügyvéd (a továbbiakban együtt: közvetítő) folytatja le.
+3. § (1) A közvetítői eljárást a büntetőügyben eljáró ügyészség székhelye szerint illetékes pártfogó felügyelői szolgálat közvetítői tevékenységet végző pártfogó felügyelője, vagy a pártfogó felügyelői szolgálatként kijelölt szervvel – pályázat útján – közvetítői tevékenység végzésére szerződésben álló ügyvéd (a továbbiakban együtt: közvetítő) folytatja le.
 
-(2) Ha a közvetítői eljárásra utalt ügy körülményei ezt indokolják, egy ügyben több közvetítő is kijelölhető. Ez esetben a vezető közvetítőként kijelölt közvetítő teljesíti az e törvényben előírt feladatokat.
+(2) Ha a büntetőeljárás vagy a közvetítői eljárás adatai ezt indokolják, egy ügyben több közvetítő is kijelölhető. Ez esetben a vezető közvetítőként kijelölt közvetítő teljesíti az e törvényben előírt feladatokat.
 
 (3) A közvetítő feladata, hogy a közvetítői eljárás során pártatlanul, lelkiismeretesen, a szakmai követelmények szerint közreműködjön a megállapodás létrehozásában. A közvetítőnek tiszteletben kell tartania az eljárásban résztvevők méltóságát, és biztosítania kell, hogy a résztvevők egymással szemben is tisztelettel járjanak el.
 
-(4) A közvetítő jogosult és köteles mindazokat az adatokat megismerni, amelyek a feladatának ellátásához szükségesek. Az ügyész a közvetítői eljárásra utalásról szóló határozat, illetve a bíróság az eljárást felfüggesztő végzés kézbesítésével egyidejűleg a közvetítő rendelkezésére bocsátja – az e törvényben meghatározott feladatai ellátásához szükséges mértékben és időtartamban – az iratokat. A Be. 96. §-ának (2) bekezdése szerint kezelt azon adatok, amelyek nem a tanúként kihallgatott sértettre vonatkoznak, nem bocsáthatók a közvetítő rendelkezésére.
+(4) A közvetítő jogosult és köteles mindazokat az adatokat megismerni, amelyek a feladatának ellátásához szükségesek, e célból
 
-(5) A közvetítőt – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli minden olyan tényre, adatra és körülményre vonatkozóan, amelyről közvetítői tevékenységével összefüggésben szerzett tudomást.
+- a) az eljárás ügyiratait – a törvényben meghatározott kivételekkel – megismerheti,
+- b) a gyanúsítottól és a sértettől felvilágosítást kérhet,
+- c) az ügyészségtől újabb ügyiratokat és felvilágosítást kérhet.
 
-(6) A közvetítő titoktartási kötelezettsége a közvetítői tevékenység megszűnése után is fennáll.
+(5) Az ügyészség a büntetőeljárás közvetítői eljárás céljából történő felfüggesztéséről rendelkező határozat (a továbbiakban: felfüggesztő határozat) kézbesítésével egyidejűleg a közvetítő rendelkezésére bocsátja – az e törvényben meghatározott feladatai ellátásához szükséges mértékben és időtartamban – az ügyiratokat. A büntetőeljárásban részt vevő személynek a Be. 99. §-a alapján zártan kezelt személyes adatait a közvetítő a feladatának teljesítéséhez elengedhetetlenül szükséges mértékben ismerheti meg.
+
+(6) A közvetítőt – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli minden olyan tényre, adatra és körülményre vonatkozóan, amelyről közvetítői tevékenységével összefüggésben szerzett tudomást. A közvetítő titoktartási kötelezettsége a közvetítői tevékenység megszűnése után is fennáll.
+
+(7) A közvetítő biztosítja, hogy az általa megismert, zártan kezelt személyes adat az eljárás egyéb adataiból csak az érintett beleegyezésével váljon megismerhetővé.
 
 4. § (1) Közvetítőként nem járhat el,
 
-- a) aki az ügyben mint bíró, ügyész vagy a nyomozó hatóság tagja járt el, valamint az ügyben eljárt vagy eljáró bíró, ügyész, illetőleg a nyomozó hatóság tagjának hozzátartozója [Büntető Törvénykönyvről szóló 2012. évi C. törvény (Btk.) 459. § (1) bekezdés 14. pont],
-- b) aki az ügyben mint terhelt, védő, továbbá sértett, magánfél, feljelentő vagy mint ezek képviselője vesz vagy vett részt, valamint aki ezek hozzátartozója,
-- c) aki az ügyben mint tanú, szakértő, illetőleg szaktanácsadó vesz vagy vett részt,
-- d) az a pártfogó felügyelő, aki pártfogó felügyelőként a terhelt vagy a sértett ügyében három éven belül eljárt, vagy bármelyikük folyamatban lévő ügyében eljár, kivéve a közvetítői eljárás alkalmazásáról szóló döntés meghozatala előtt kért pártfogó felügyelői véleményt készítő pártfogó felügyelőt,
-- e) az az ügyvéd, aki a terhelt vagy a sértett ügyében három éven belül eljárt, vagy bármelyikük folyamatban lévő ügyében eljár,
+- a) aki a büntetőeljárásban gyanúsítottként, védőként, továbbá sértettként, feljelentőként vagy ezek segítőjeként vesz vagy vett részt, valamint ezeknek a Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 14. pontjában meghatározott hozzátartozója (a továbbiakban: hozzátartozó),
+- b) aki a büntetőeljárásban bíróként, ügyészként vagy a nyomozó hatóság nyomozási tevékenységet ellátó állományának tagjaként járt el, valamint ezek hozzátartozója,
+- c) aki a büntetőeljárásban tanúként, a tanú segítőjeként, szakértőként, illetve szaktanácsadóként vesz vagy vett részt,
+- d) az a pártfogó felügyelő, aki pártfogó felügyelőként a gyanúsított vagy a sértett ügyében három éven belül eljárt, vagy bármelyikük folyamatban lévő ügyében eljár, kivéve a felfüggesztő határozat meghozatala előtt kért pártfogó felügyelői véleményt készítő pártfogó felügyelőt,
+- e) az az ügyvéd, aki a gyanúsított vagy a sértett ügyében három éven belül eljárt, vagy bármelyikük folyamatban lévő ügyében eljár,
 - f) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
 (2) A közvetítő a vele szemben felmerült kizárási okot köteles a pártfogó felügyelői szolgálat vezetőjének haladéktalanul bejelenteni.
 
-(3) A kizárási okot a sértett, a terhelt, valamint ezek képviselője is bejelentheti és indítványozhatja a közvetítő kizárását.
+(3) A kizárási okot az ügyészség, a sértett és a gyanúsított is bejelentheti és indítványozhatja a közvetítő kizárását.
 
-(4) A (3) bekezdésben megjelölt személy az (1) bekezdés f) pontjában szabályozott kizárási okot a meghallgatás megkezdése után csak akkor érvényesítheti, ha valószínűsíti, hogy a bejelentés alapjául szolgáló tényről a meghallgatás megkezdése után szerzett tudomást, és ha azt nyomban bejelenti.
+(4) A (3) bekezdésben megjelölt személy az (1) bekezdés f) pontjában szabályozott kizárási okot a meghallgatás megkezdése után csak akkor érvényesítheti, ha valószínűsíti, hogy a bejelentés alapjául szolgáló tényről a meghallgatás megkezdése után szerzett tudomást, és azt három napon belül bejelenti.
 
-5. § (1) A pártfogó felügyelői szolgálat vezetője a tudomására jutott kizárási ok miatt a közvetítő kizárásáról, és új közvetítő kijelöléséről a tudomásszerzést követően nyomban, hivatalból határoz.
+5. § (1) A pártfogó felügyelői szolgálat vezetője a közvetítő kizárásáról, és szükség esetén új közvetítő kijelöléséről a tudomásszerzést követően három napon belül határoz.
 
-(2) A közvetítő kizárásáról a pártfogó felügyelői szolgálat vezetője a kizárásra vonatkozó bejelentés kézhezvételétől számított három munkanapon belül határoz, és szükség esetén új közvetítőt jelöl ki. A kizárást kimondó határozat ellen jogorvoslatnak nincs helye, a kizárás megtagadása ellen a sértett, a terhelt, valamint képviselőjük a vádemelést megelőzően a közvetítői eljárásra utalásról határozó ügyészhez panasszal élhet, a vádemelést követően a büntetőeljárást a közvetítői eljárás érdekében felfüggesztő bírósághoz fellebbezhet.
+(2) A kizárást kimondó határozat ellen jogorvoslatnak nincs helye, a kizárás megtagadása ellen a sértett és a gyanúsított az ügyészséghez panasszal élhet.
 
 (3) A kizárásra vonatkozó bejelentés elintézéséig a közvetítő az ügyben nem járhat el.
 
 5/A. § Ha a közvetítői eljárásban ügyvéd vett részt közvetítőként,
 
 - a) az eljárás során létrejött, írásba foglalt megállapodáson túl joghatás kiváltására alkalmas okiratot nem készíthet, és ügyvédként annak ellenjegyzésére nem jogosult,
-- b) a büntetőeljárás folytatása, a közvetítői eljárást követő vádemelés elhalasztása, a polgári jogi igény érvényesítése, továbbá egyéb, a bűncselekménnyel okozott kár megtérítése, illetve a bűncselekménnyel összefüggésben keletkezett jog- vagy érdeksérelem elhárítása érdekében büntetőeljáráson kívül indított eljárás során egyik fél érdekében, képviseletében sem járhat el.
+- b) a büntetőeljárás további menetében, különösen a büntetőeljárás felfüggesztésének meghosszabbítása vagy ismételt felfüggesztése, a polgári jogi igény érvényesítése, illetve egyéb, a bűncselekménnyel okozott kár megtérítése, valamint a bűncselekménnyel összefüggésben keletkezett jog- vagy érdeksérelem elhárítása érdekében büntetőeljáráson kívül indított eljárás során egyik fél érdekében, képviseletében sem járhat el.
 
 ### A közvetítői eljárás megindításának alapja
 
-6. § A közvetítői eljárás
-
-- a) az ügyésznek az ügy közvetítői eljárásra utalásáról hozott határozatával [Be. 221/A. § (3) bek.], vagy
-- b) a bíróságnak a büntetőeljárást – a közvetítői eljárás lefolytatása érdekében hozott – felfüggesztő végzésével [Be. 266. § (3) bek. c) pont]
-
-indul meg.
+6. § A közvetítői eljárás a felfüggesztő határozattal indul meg.
 
 ### Az eljárás általános szabályai
 
-7. § (1) A közvetítői eljárás csak a sértett és a terhelt önkéntes hozzájárulásával folytatható le. Az eljárásban a sértett és a terhelt egyenrangú felek, az eljárás során bármikor visszavonhatják a részvételre vonatkozó hozzájárulásukat, és minden egyezségre önként kell jutniuk.
+7. § (1) A közvetítői eljárás csak a sértett és a gyanúsított önkéntes hozzájárulásával folytatható le. Az eljárásban a sértett és a gyanúsított egyenrangú felek, az eljárás során bármikor visszavonhatják a részvételre vonatkozó hozzájárulásukat, és minden egyezségre önként kell jutniuk.
 
-(2) A sértett és a terhelt jogosult arra, hogy jogi képviselőt hatalmazzon meg, aki az eljárásban részt vehet és az általa képviselt érdekében felszólalhat. A sértett jogi képviselője és a terhelt védője jogi képviselőként eljárhat. A büntető ügyben adott meghatalmazás – ha a meghatalmazásból más nem tűnik ki – és a kirendelés hatálya kiterjed a közvetítői eljárásra is.
+(2) A sértett és a gyanúsított Be. 59. § (1) bekezdés a), c), e)–h) és m) pontjában meghatározott segítője, valamint a védő a közvetítői eljárásban részt vehet.
 
-(3) A sértett és a terhelt indítványozhatja, hogy az általa megnevezett – legfeljebb két-két – személy a közvetítői megbeszélésen jelen lehessen, és érdekében felszólalhasson. A közvetítő az indítvány teljesítését csak akkor tagadhatja meg, ha a megnevezett személy jelenléte a közvetítői eljárás céljával ellentétes. A közvetítő döntése ellen nincs helye jogorvoslatnak.
+(3) A sértett meghatalmazott képviselője, valamint a gyanúsított védője a közvetítői eljárásban jogi képviselőként vesz részt. A büntetőügyben a képviseletre adott meghatalmazás – ha a meghatalmazásból más nem tűnik ki – és a kirendelés hatálya kiterjed a közvetítői eljárásra is.
 
-(4) Ha a közvetítői eljárásra utalt ügy körülményei indokolják, a közvetítő bevonhat a közvetítői eljárásba olyan személyt, aki a megállapodás létrejöttét a szakértelmével elősegítheti.
+(4) A közvetítői eljárásban a sértett és a terhelt törvényes képviselőjének részvétele kötelező. A terhelt törvényes képviselője jogait a polgári jog szabályai szerint gyakorolja. A cselekvőképtelen sértett a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el. A korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében részlegesen korlátozott nagykorú sértett a közvetítői eljárásban részt vehet, de jognyilatkozat tételére, valamint a sértett és a törvényes képviselő közötti érdekellentétre a polgári jog szabályai irányadóak.
 
-(5) Ha a sértett diplomáciai vagy a nemzetközi jogon alapuló más mentességet élvező személy, az ügyész, illetve a bíróság a 6. § a), illetve b) pontja szerinti határozat meghozatala előtt a külpolitikáért felelős miniszter útján szerzi be a sértett közvetítői eljárást megalapozó nyilatkozatát.
+(5) Ha a sértett nem természetes személy, helyette törvényes vagy meghatalmazott képviselője jár el abban az esetben is, ha e törvény szerint a közvetítői megbeszélés vagy a megállapodás megkötése a sértett személyes jelenlétében folytatható le.
 
-8. § (1) A közvetítői eljárásban a törvényes képviselő részvétele kötelező, ha a sértett korlátozottan cselekvőképes kiskorú vagy a személyes, illetve a vagyoni ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú. Ha a sértett cselekvőképtelen, a közvetítői eljárásban nem vehet részt, helyette törvényes képviselője jár el. Érdekellentét esetén a Polgári Törvénykönyv rendelkezései az irányadók.
+(6) A törvényes képviselő, és a jogi képviselő – ha törvény eltérően nem rendelkezik – a sértett, illetve a gyanúsított e törvény szerinti jogait gyakorolja.
 
-(2) Ha a büntetőeljárásban a nyomozó hatóság, az ügyész, illetőleg a bíróság elrendelte, hogy a tanúként kihallgatott sértett személyi adatait [Be. 85. § (2) bek.] az iratok között elkülönítve, zártan kezeljék, a Be. 96. §-ának rendelkezései a közvetítői eljárásban is irányadók.
+(7) A sértett és a gyanúsított indítványozhatja, hogy a (2)–(4) bekezdésben írt személyek közül az általa megnevezett legfeljebb két-két személy a közvetítői megbeszélésen jelen lehessen, és érdekében a közvetítő által meghatározott rendben felszólalhasson. A közvetítő az indítvány teljesítését csak akkor tagadhatja meg, ha a megnevezett személy jelenléte a közvetítői eljárás céljával ellentétes. A közvetítő döntése ellen nincs helye jogorvoslatnak.
 
-(3) A közvetítői eljárás nyelve a magyar. Az anyanyelv használatára és a tolmács igénybevételére a Be. rendelkezései az irányadók.
+(8) Ha a büntetőeljárás vagy a közvetítői eljárás adatai indokolják, a közvetítő bevonhat a közvetítői eljárásba olyan személyt, aki a megállapodás létrejöttét elősegítheti.
 
-(4) Ha a közvetítői eljárás során a közvetítő az ügyész vagy a bíróság hatáskörébe tartozó intézkedés vagy eljárási cselekmény elvégzésének szükségességét észleli, erről az ügyészt, illetőleg a bíróságot tájékoztatja.
+8. § (1)–(2)
+
+(3) A közvetítői eljárás nyelve a magyar. Az anyanyelv használatára és a tolmács igénybevételére a Be. rendelkezései az irányadók azzal, hogy a közvetítő rendbírság kiszabására nem jogosult.
+
+(4) Ha a közvetítői eljárás során a közvetítő az ügyészség hatáskörébe tartozó intézkedés vagy eljárási cselekmény elvégzésének szükségességét észleli, erről az ügyészséget tájékoztatja.
 
 ### A közvetítői megbeszélés kitűzése
 
-9. § (1) A közvetítő a 6. § szerinti határozatnak a pártfogó felügyelői szolgálathoz, illetőleg, ha közvetítőként ügyvéd jár el, a hozzá történt érkezésétől számított tizenöt napon belül kitűzi az első közvetítői megbeszélés időpontját.
+9. § (1) A közvetítő a felfüggesztő határozatnak a pártfogó felügyelői szolgálathoz, illetőleg, ha közvetítőként ügyvéd jár el, a hozzá történt érkezésétől számított tizenöt napon belül kitűzi az első közvetítői megbeszélés időpontját.
 
 (2) A közvetítői megbeszélést rendszerint a pártfogó felügyelői szolgálat hivatali helyiségében kell megtartani. Ha a közvetítő indokoltnak tartja, ettől eltérően dönthet.
 
-(3) Az első közvetítői megbeszélésre történő idézésben a sértettet és a terheltet röviden tájékoztatni kell a közvetítői eljárás lényegéről, jogkövetkezményeiről, valamint jogaikról és kötelezettségeikről.
+(3) Az első közvetítői megbeszélésre történő értesítésben a sértettet és a gyanúsítottat röviden tájékoztatni kell a közvetítői eljárás lényegéről, jogkövetkezményeiről, valamint jogaikról és kötelezettségeikről. A közvetítői megbeszélésről a törvényes képviselőt, illetve a jogi képviselőt is értesíteni kell.
 
-(4) A közvetítői eljárást úgy kell megszervezni, hogy azt az első közvetítői megbeszéléstől számított három hónapon belül be lehessen fejezni, és a jelentés, továbbá a megállapodásról szóló okirat a büntetőeljárás felfüggesztése határidejének letelte előtt megérkezzen az ügyészhez, illetve a bírósághoz.
+(4) A közvetítői eljárást úgy kell megszervezni, hogy azt az első közvetítői megbeszéléstől számított három hónapon belül be lehessen fejezni, és a jelentés, továbbá a megállapodásról szóló okirat a büntetőeljárás felfüggesztése határidejének letelte előtt megérkezzen az ügyészséghez.
 
-10. § (1) Ha a sértett vagy a terhelt a szabályszerűen kézbesített idézés ellenére nem jelenik meg, és a mulasztását nem igazolta, a közvetítő – szükség esetén a mulasztó megkeresésével – tisztázza a mulasztás körülményeit, továbbá azt, hogy a közvetítői eljárás lefolytatásának – a hozzájárulás visszavonása miatt – nincs-e akadálya. Ha a közvetítői eljárás lefolytatásának nincs akadálya, a közvetítő a megbeszélésre újabb időpontot tűz ki.
+10. § (1) Ha a sértett vagy a gyanúsított a szabályszerűen kézbesített értesítés ellenére nem jelenik meg, a közvetítő – szükség esetén az értesített személy megkeresésével – tisztázza a távolmaradás körülményeit, továbbá azt, hogy a közvetítői eljárás lefolytatásának – a hozzájárulás visszavonása miatt – nincs-e akadálya. Ha a közvetítői eljárás lefolytatásának nincs akadálya, a közvetítő a megbeszélésre újabb időpontot tűz ki.
 
-(2) Ha a sértett vagy a terhelt az (1) bekezdés esetét követően kitűzött közvetítői megbeszélésen ismételten nem jelenik meg, és ezt előzetesen, mihelyt az akadály tudomására jut, haladéktalanul vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, alapos okkal nem igazolja, úgy kell tekinteni, mint aki a hozzájárulását visszavonta.
+(2) Ha a sértett vagy a gyanúsított az (1) bekezdés esetét követően kitűzött közvetítői megbeszélésen ismételten nem jelenik meg, és ezt előzetesen, mihelyt az akadály tudomására jut, haladéktalanul, vagy ha ez már nem lehetséges, az akadály megszűnése után nyomban, alapos okkal nem igazolja, úgy kell tekinteni, mint aki a hozzájárulását visszavonta.
 
-(3) Az idézésre, a kézbesítésre és a mulasztás igazolására a Be. rendelkezéseit megfelelően alkalmazni kell azzal, hogy három hónapon túl igazolási kérelmet nem lehet előterjeszteni, hirdetményi kézbesítés nem alkalmazható, rendbírság nem szabható ki, és elővezetés sem rendelhető el.
+(3) Az értesítésre, a kézbesítésre és az igazolásra a Be. rendelkezéseit megfelelően alkalmazni kell azzal, hogy két hónapon túl igazolási kérelmet nem lehet előterjeszteni és hirdetményi kézbesítés nem alkalmazható.
 
-(4) Az igazolási kérelemről a közvetítő határoz. Az igazolási kérelemnek helyt adó határozat ellen jogorvoslatnak nincs helye, az igazolási kérelem elutasítása ellen a kérelem előterjesztője és képviselője a vádemelést megelőzően a közvetítői eljárásra utalásról határozó ügyészhez panasszal élhet, a vádemelést követően a büntetőeljárást a közvetítői eljárás érdekében felfüggesztő bírósághoz fellebbezhet.
+(4) Az igazolási kérelemről a közvetítő határoz. Az igazolási kérelemnek helyt adó határozat ellen jogorvoslatnak nincs helye, az igazolási kérelem elutasítása ellen a kérelem előterjesztője és képviselője az ügyészséghez panasszal élhet.
 
 10/A. § (1) Az eljárásban a Be. elektronikus kapcsolattartásra vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (2) Az eljárásban a közvetítőként eljáró ügyvéd elektronikus kapcsolattartásra nem köteles, és nem minősül elektronikus ügyintézést biztosító szervnek.
 
-(3) A közvetítő a közvetítői eljárás során előterjesztett, a Be. 74/D. § (2) bekezdése szerinti, az elektronikus kapcsolattartás vállalására vonatkozó nyilatkozatot a 16. § (1) bekezdésében meghatározott iratokkal együtt megküldi az ügyésznek.
+(3) A közvetítő a közvetítői eljárás során előterjesztett, a Be. 149. § (2) bekezdése szerinti, az elektronikus kapcsolattartás vállalására vonatkozó nyilatkozatot a 16. § (1) bekezdésében meghatározott iratokkal együtt megküldi az ügyésznek.
 
-(4) A közvetítői eljárásban a Be. 74/N. § (5) bekezdése alapján rendbírság nem szabható ki.
+(4) A közvetítői eljárásban a Be. 161. § (5) bekezdése alapján rendbírság nem szabható ki.
 
-(5) A közvetítői eljárásban előterjesztett, a Be. 74/O. § (1) bekezdése szerinti indítványt a közvetítő nem utasíthatja el, de a papíralapú kapcsolattartásra való áttérés csak a közvetítői eljárásra vonatkozik.
+(5) A közvetítői eljárásban előterjesztett, a Be. 162. § (1) bekezdése szerinti indítványt a közvetítő nem utasíthatja el, de a papíralapú kapcsolattartásra való áttérés csak a közvetítői eljárásra vonatkozik.
 
 ### A közvetítői megbeszélés
 
-11. § (1) A közvetítői megbeszélés kezdetekor a közvetítő megállapítja a sértett és a terhelt személyazonosságát, és megkérdezi őket, hogy a közvetítői eljárás lényegére, jogkövetkezményeire, a jogaikra és kötelezettségeikre történt írásbeli tájékoztatást megértették-e, nemleges válasz esetén a meg nem értett részt megmagyarázza.
+11. § (1) A közvetítői megbeszélés a sértett és a gyanúsított egyidejű személyes jelenlétével folytatható le.
 
-(2) A közvetítői megbeszélésen a közvetítő a sértettet és a terheltet a szükséges részletességgel meghallgatja. A közvetítő a sértettet és a terheltet egymás jelenlétében is, és egymás távollétében is meghallgathatja. A sértett és a terhelt az üggyel kapcsolatos álláspontját szóban kifejtheti, és a rendelkezésére álló iratokat is bemutathatja.
+(2) A közvetítői megbeszélés kezdetekor a közvetítő megállapítja a sértett, a gyanúsított és az egyéb jelenlevők személyazonosságát, majd megkérdezi őket, hogy a közvetítői eljárás lényegére, jogkövetkezményeire, a jogaikra és kötelezettségeikre történt írásbeli tájékoztatást megértették-e, nemleges válasz esetén a meg nem értett részt megmagyarázza. A közvetítő hivatalból vizsgálja a jelen lévő segítők eljárási jogosultságát.
 
-(3) Ha a sértett és a terhelt meghallgatására egymás távollétében kerül sor, és lakóhelyük eltérő megyében van, az ügyben eljáró pártfogó felügyelői szolgálat vezetője megkereséssel élhet a lakóhely szerint illetékes más megye pártfogó felügyelői szolgálatához a meghallgatás lefolytatása érdekében.
+(3) A közvetítői megbeszélésen a közvetítő a sértettet és a gyanúsítottat a szükséges részletességgel meghallgatja. A sértett és a gyanúsított az üggyel kapcsolatos álláspontját szóban kifejtheti, és a rendelkezésére álló iratokat is bemutathatja.
 
-(4) Ha a közvetítő a sértettet és a terheltet egymás távollétében hallgatja meg, az így kapott tájékoztatást közölheti a közvetítői eljárásban részt vevő más sértettel, terhelttel, ezek képviselőjével, azért, hogy az így tájékoztatást kapó sértett vagy terhelt ennek figyelembevételével álláspontját kialakíthassa, előadhassa, kivéve, ha a tájékoztatást adó sértett vagy terhelt akként nyilatkozik, hogy a tájékoztatás nem hozható más sértett, terhelt vagy képviselő tudomására.
+(4) A megbeszélésre a sértett és a gyanúsított egyidejű személyes jelenlétével, de egymás távollétében kerül sor, ha eltérő tartózkodási helyük miatt indokolt. Ebben az esetben a pártfogó felügyelői szolgálat vezetője megkereséssel élhet a tartózkodási hely szerint illetékes más megye pártfogó felügyelői szolgálatához a megbeszélés lefolytatása érdekében.
 
-(5) Ha a sértett korlátozottan cselekvőképes kiskorú vagy a személyes, illetve a vagyoni ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú, őt a közvetítő meghallgatja, és a terhelt a nyilatkozatát ebben az esetben is közvetlenül a sértetthez intézi. A korlátozottan cselekvőképes kiskorú vagy a személyes, illetve a vagyoni ügyei vitelében vagy a bíróság, hatóság előtti eljárás jogának gyakorlása vonatkozásában cselekvőképességében részlegesen korlátozott nagykorú sértett meghallgatásánál a törvényes képviselőnek jelen kell lennie.
+(5) A közvetítő meghallgatja a korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében részlegesen korlátozott nagykorú sértettet, és a gyanúsított a nyilatkozatát ebben az esetben is közvetlenül a sértetthez intézi. A sértett meghallgatásánál a törvényes képviselőnek jelen kell lennie. E rendelkezés nem érinti a sértett 7. § (4) bekezdésében meghatározott jogait.
 
-(6) A sértettnek – ha a törvényes képviselet kötelező, a törvényes képviselőnek is – és a terheltnek, nem természetes személy sértett esetében pedig a képviseletére feljogosított személynek a megállapodás megkötésekor és aláírásakor személyesen, együttesen meg kell jelenniük. A jogi képviselő távolmaradása a közvetítői megbeszélés megtartásának nem akadálya, de a sértett, illetve a terhelt kérelmére a megbeszélést más időpontra kell kitűzni.
+(6) A megállapodás megkötésekor és aláírásakor személyesen meg kell jelennie
+
+- a) a gyanúsítottnak,
+- b) a sértettnek,
+- c) a gyanúsított törvényes képviselőjének,
+- d) a korlátozottan cselekvőképes kiskorú vagy a cselekvőképességében részlegesen korlátozott nagykorú sértett törvényes képviselőjének.
 
 ### A feljegyzés
 
@@ -129,12 +139,12 @@ indul meg.
 
 (2) A feljegyzésben fel kell tüntetni
 
-- a) pártfogó felügyelő közvetítő esetén a közvetítői eljárást végző pártfogó felügyelői szolgálat megnevezését, ügyvéd közvetítő esetén a közvetítői tevékenység végzésére kötött szerződés számát, az ügy számát és a terhelt nevét,
-- b) annak a bíróságnak, illetve ügyészségnek a megnevezését és ügyszámát, amely az ügyet közvetítői eljárásra utalta,
+- a) pártfogó felügyelő közvetítő esetén a közvetítői eljárást végző pártfogó felügyelői szolgálat megnevezését, ügyvéd közvetítő esetén a közvetítői tevékenység végzésére kötött szerződés számát, az ügy számát és a gyanúsított nevét,
+- b) az ügyészség megnevezését és ügyszámát,
 - c) a közvetítői megbeszélés helyét, megkezdésének és befejezésének időpontját,
-- d) az eljáró közvetítő, a sértett, a terhelt, a képviselők, illetve a közvetítői megbeszélésen részt vett más személyek nevét, valamint az első megjelenéskor a sértettnek és a terheltnek azt a lakcímét, ahonnan idézhető.
+- d) az eljáró közvetítő, a sértett, a gyanúsított, a segítők, illetve a közvetítői megbeszélésen részt vett más személyek nevét.
 
-(3) A feljegyzésben röviden ismertetni kell az eljárás menetét akként, hogy a jogok gyakorlása és a kötelezettségek teljesítése, valamint az eljárási szabályok megtartása nyomon követhető legyen.
+(3) A feljegyzésben röviden ismertetni kell az eljárás menetét akként, hogy a feljegyzés alapján azt is meg lehessen állapítani, hogy az eljárási szabályokat megtartották-e.
 
 ### A megállapodás
 
@@ -142,63 +152,81 @@ indul meg.
 
 (2) A megállapodásnak tartalmaznia kell, hogy
 
-- a) a terhelt a bűncselekménnyel okozott kárt a büntetőeljárás felfüggesztésének tartama alatt vagy a vádemelés elhalasztása tartamának lejártáig egy összegben, illetőleg meghatározott rendszerességgel, részletekben fizeti meg vagy más módon nyújt jóvátételt,
+- a) a gyanúsított a bűncselekménnyel okozott kárt a büntetőeljárás felfüggesztésének tartama alatt vagy a felfüggesztés kezdő időpontjától számított két éven belül egy összegben, illetve meghatározott rendszerességgel, részletekben fizeti meg, vagy más módon nyújt jóvátételt,
 - b) az eljárás költségeit ki viseli.
 
-(3) A megállapodásban vállalt kötelezettségeknek meg kell felelniük a jogszabályoknak, ésszerűnek kell lenniük, és nem ütközhetnek a jó erkölcsbe.
+(3) A megállapodásban vállalt kötelezettségek más jogait és jogos érdekeit nem sérthetik, a kötelezettségeknek meg kell felelniük a jogszabályoknak, és nem ütközhetnek a jó erkölcsbe.
 
-(4) A közvetítő a sértett és terhelt között létrejött – az (1)–(3) bekezdésben írottaknak megfelelő – megállapodásról okiratot állít ki, amelyet a sértett – ha a törvényes képviselet kötelező, a törvényes képviselő is – és a terhelt is aláír. A közvetítő az okiratot a sértettnek, a terheltnek, és a jelen lévő képviselőjüknek átadja, ha a képviselő nincs jelen, részére az okiratot kézbesíti. A megállapodásról kiállított okirat közokirat.
+(4) A közvetítő a sértett és gyanúsított között létrejött – az (1)–(3) bekezdésben írtaknak megfelelő – megállapodásról okiratot állít ki, amelyet a sértett és a gyanúsított is aláír. A közvetítő az okiratot haladéktalanul kézbesíti a sértettnek, a gyanúsítottnak, és az ügyészségnek. A megállapodásról kiállított okirat közokirat.
 
-(5) A közvetítői eljárásban keletkezett iratok abban a büntetőeljárásban, amelyben a közvetítői eljárásra sor került, bizonyítékként nem használhatók fel, kivéve a közvetítés eredményeként létrejött megállapodást tartalmazó okiratot és a közvetítő jelentését.
+(5) A közvetítői eljárásban keletkezett iratok abban a büntetőeljárásban, amelyben a közvetítői eljárásra sor került, bizonyítékként nem használhatók fel, kivéve a megállapodást tartalmazó okiratot és a közvetítő jelentését.
 
-14. § (1) A közvetítői eljárásban létrejött, írásba foglalt megállapodás a közvetítői eljárás célján túlmenően joghatás kiváltására nem alkalmas.
+14. § (1) Az írásba foglalt megállapodás a közvetítői eljárás célján túlmenően joghatás kiváltására nem alkalmas.
 
-(2) A közvetítői eljárásban létrejött megállapodás nem érinti a sértettnek azt a jogát, hogy a büntetőeljáráson kívül a bűncselekményből származó igényét bírósági, választottbírósági vagy egyéb eljárás keretében érvényesítse.
+(2) A megállapodás nem érinti a sértettnek azt a jogát, hogy a büntetőeljáráson kívül a bűncselekményből származó igényét bírósági, választottbírósági vagy egyéb eljárás keretében érvényesítse.
 
-(3) Az e törvény szerinti közvetítői eljárás befejezését követően indult bírósági, választottbírósági vagy egyéb eljárásban a felek nem hivatkozhatnak
+(3) A közvetítői eljárás befejezését követően indult bírósági, választottbírósági vagy egyéb eljárásban a felek nem hivatkozhatnak
 
-- a) a másik fél által, a vita lehetséges megoldásával összefüggésben az e törvény szerinti közvetítői eljárásban kifejtett álláspontra, javaslatra, és
-- b) a másik félnek az e törvény szerinti közvetítői eljárásban tett elismerő, joglemondó nyilatkozatára.
+- a) a másik fél által, a vita lehetséges megoldásával összefüggésben a közvetítői eljárásban kifejtett álláspontra, javaslatra, és
+- b) a másik félnek a közvetítői eljárásban tett elismerő, joglemondó nyilatkozatára.
+
+### A megállapodás felülvizsgálata és hatályon kívül helyezése
+
+14/A. § Ha az ügyészség hatályon kívül helyezi a közvetítői eljárásban létrejött megállapodást, a közvetítő a már teljesített kötelezettségekre is figyelemmel, a szükséges terjedelemben ismét lefolytatja a közvetítői eljárást.
 
 ### A közvetítői eljárás befejezése
 
 15. § (1) A közvetítői eljárás azon a napon fejeződik be, amikor
 
-- a) a megállapodás alapján, vagy a közvetítői eljárás megindítását megelőzően, de a megállapodásban jóváhagyott módon a terhelt a bűncselekménnyel okozott kárt a sértettnek megtérítette vagy a bűncselekmény káros következményeit egyéb módon jóvátette,
-- b) a terhelt a megállapodás alapján a kár megtérítését részletekben történő fizetéssel vagy egyéb módon nyújtandó jóvátétellel az első részlet tekintetében teljesítette, ha a megállapodás értelmében a teljesítés a felfüggesztés határidején belül nem fejeződhet be,
-- c) a terhelt a megállapodás alapján a részletekben történő fizetés vagy más módon nyújtandó jóvátétel utolsó részletét a felfüggesztés határidején belül teljesítette,
-- d) a sértett vagy a terhelt részére küldött idézés kézbesítésének abból eredő eredménytelenségéről szerez tudomást a közvetítő, hogy a címzett ismeretlen helyen tartózkodik,
-- e) a sértett vagy a terhelt haláláról a közvetítő hivatalos tudomást szerez,
-- f) a sértett vagy a terhelt kijelenti a közvetítő előtt, hogy kéri a közvetítői eljárás befejezését,
-- g) a sértett vagy a terhelt a hozzájárulását visszavonta, vagy mulasztását e törvény értelmében a hozzájárulás visszavonásának kell tekinteni,
-- h) a terhelt nyilatkozatából vagy magatartásából egyértelműen megállapítható, hogy a Be. 221/A. § (3) bekezdésének b) vagy c) pontjában írt feltételek nem állnak fenn,
-- i) az első közvetítői megbeszéléstől számított három hónap eredménytelenül eltelt.
+- a) a gyanúsított a bűncselekménnyel okozott kárt a sértettnek a megállapodásban jóváhagyott módon megtérítette vagy a bűncselekmény káros következményeit a megállapodásban jóváhagyott módon jóvátette,
+- b) a közvetítő igazolt módon tudomást szerez arról, hogy a gyanúsított a megállapodásban foglaltakat nem teljesítette,
+- c) a sértett vagy a gyanúsított részére küldött értesítés kézbesítésének abból eredő eredménytelenségéről szerez tudomást a közvetítő, hogy a címzett ismeretlen helyen tartózkodik,
+- d) a sértett vagy a gyanúsított haláláról a közvetítő hivatalos tudomást szerez,
+- e) a sértett vagy a gyanúsított kijelenti a közvetítő előtt, hogy kéri a közvetítői eljárás befejezését,
+- f) a sértett vagy a gyanúsított a hozzájárulását visszavonta, vagy távolmaradását e törvény értelmében a hozzájárulás visszavonásának kell tekinteni,
+- g) a gyanúsított nyilatkozatából vagy magatartásából egyértelműen megállapítható, hogy a Be. 412. § (2) bekezdés a), b) pontjában vagy c) pont ca) alpontjában írt feltételek nem állnak fenn,
+- h) az első közvetítői megbeszéléstől számított három hónap eredménytelenül eltelt.
 
-(2) A megállapodás teljesítését a közvetítői eljárásban a közvetítő, azt követően a pártfogó felügyelői szolgálat ellenőrzi.
+(2) A megállapodás teljesítését a közvetítő ellenőrzi.
 
-(3) Ha a terhelt nem teljesít, vagy a megállapodás a sértett magatartása miatt nem teljesíthető, az eljáró közvetítő erről tájékoztatja az ügyészt, illetve a bíróságot.
+(3) Ha a gyanúsított a megállapodásban vállalt kötelezettségeinek teljesítését megkezdte, de a közvetítői eljárás a büntetőeljárás felfüggesztésének eredeti tartama alatt nem fejezhető be, a közvetítő tájékoztatja az ügyészséget a befejezés várható idejéről.
 
 ### A jelentés
 
-16. § (1) A közvetítői eljárás befejezését követő tizenöt napon belül a közvetítő a közvetítői eljárásról jelentést készít, amelyet az eljárás befejezésére alapot adó okirattal együtt megküld az ügyésznek, illetve a bíróságnak, s ezzel egyidejűleg a megküldés tényéről írásban tájékoztatja a sértettet, a terheltet és képviselőiket.
+16. § (1) A közvetítői eljárás befejezését követő tizenöt napon belül a közvetítő a közvetítői eljárásról jelentést készít, amelyet az eljárás befejezésére alapot adó okirattal együtt megküld az ügyészségnek, és ezzel egyidejűleg a megküldés tényéről írásban tájékoztatja a sértettet és a gyanúsítottat.
 
 (2) A jelentés tartalmazza
 
-- a) pártfogó felügyelő közvetítő esetén a közvetítői eljárást végző pártfogó felügyelői szolgálat megnevezését, ügyvéd közvetítő esetén a közvetítői tevékenység végzésére kötött szerződés számát, az ügy számát, a terhelt és a sértett nevét,
-- b) annak a bíróságnak, illetve ügyészségnek a megnevezését és ügyszámát, amely az ügyet közvetítői eljárásra utalta,
+- a) pártfogó felügyelő közvetítő esetén a közvetítői eljárást végző pártfogó felügyelői szolgálat megnevezését, ügyvéd közvetítő esetén a közvetítői tevékenység végzésére kötött szerződés számát, az ügy számát, a gyanúsított és a sértett nevét,
+- b) az ügyészség megnevezését és ügyszámát,
 - c) a közvetítő eljárás megindulásának és befejezésének időpontját,
-- d) a közvetítői eljárás eredményét, és
+- d) a közvetítői eljárás eredményét és
 - e) a közvetítő nevét.
 
 (3) A közvetítői eljárás során rögzített személyes adatok – személyazonosításra alkalmatlan módon – statisztikai célra felhasználhatók.
 
 ### Költségek viselése
 
-17. § (1) A közvetítői eljárás során felmerült költség nem bűnügyi költség, azt eltérő megállapodás hiányában a terhelt viseli. A sértett viseli a saját érdekkörében felmerült költségeket [meghatalmazott jogi képviselő, útiköltség, a 7. § (3) bekezdése szerint megnevezett személy költsége], kivéve, ha erről a sértett és a terhelt másképp állapodik meg.
+17. § (1) A közvetítői eljárás során felmerült költség (e § alkalmazásában a továbbiakban: költség) nem bűnügyi költség.
 
-(2) Ha a terhelt részére a bíróság, illetve az ügyész az ügy közvetítői eljárásra utalása előtt költségmentességet engedélyezett, a kirendelt védő díját és költségét az állam viseli. Az állam viseli azt a költséget is, amely annak kapcsán merült fel, hogy a terhelt vagy a sértett hallássérült, beszédfogyatékos, vak, vagy a magyar nyelvet nem ismeri, vagy az eljárás során regionális vagy kisebbségi nyelvét használta. A közvetítői eljárás során – az eljárásban kötött eltérő megállapodás hiányában – minden egyéb, a sértettnél felmerült indokolt költséget az állam előlegez meg.
+(2) Az állam előlegezi
 
-18–23. §
+- a) a sértett és a törvényes képviselője indítványára a megjelenésükkel felmerült költséget,
+- b) a kirendelt védő költségét,
+- c) azt a költséget, amely annak kapcsán merült fel, hogy a sértett, a gyanúsított vagy a törvényes képviselő hallássérült, siketvak, beszédfogyatékos, más okból nem képes kommunikálni vagy abban súlyos fokban korlátozott, illetve a magyar nyelvet nem ismeri vagy az eljárás során nemzetiségi anyanyelvét használta.
+
+(3) A költséget a (4) és az (5) bekezdésben foglaltak kivételével a gyanúsított viseli.
+
+(4) A sértett viseli azt a költséget, amiről a sértett és a gyanúsított ekként állapodott meg.
+
+(5) Az állam viseli
+
+- a) a kirendelt védő költségét, ha a jogi segítségnyújtó szolgálat a gyanúsított részére a büntetőeljárás közvetítői eljárás céljából történő felfüggesztése előtt költségkedvezményt engedélyezett, és
+- b) azt a költséget, amely annak kapcsán merült fel, hogy a gyanúsított hallássérült, siketvak, beszédfogyatékos, más okból nem képes kommunikálni vagy abban súlyos fokban korlátozott, illetve a magyar nyelvet nem ismeri vagy az eljárás során nemzetiségi anyanyelvét használta.
+
+18. § A közvetítő megállapítja azt a költséget, amelynek megfizetésére a közvetítői eljárás befejezéséig nem került sor, és a költség végrehajtása iránt intézkedik.
+
+19–23. §
 
 ### Hatálybalépés
 
@@ -212,4 +240,4 @@ indul meg.
 
 ### Az Európai Unió jogának való megfelelés
 
-25. § Ez a törvény a büntetőeljárásban a sértett jogállásáról szóló, 2001. március 15-i 2001/220/IB tanácsi kerethatározat 2. cikke (1) bekezdésének, 9. cikke (2) bekezdésének és 10. cikkének való megfelelést szolgálja.
+25. § Ez a törvény a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló 2012. október 25-i 2012/29/EU európai parlamenti és a tanács irányelv 12., 16. és 18. cikkének való megfelelést szolgálja.

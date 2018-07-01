@@ -1211,7 +1211,7 @@ részére adhatók át.
 
 - a) a környezetvédelmi hatóság előtti eljárásban a hatóság hulladékgazdálkodási bírságot nem szabott ki;
 - b) a környezetvédelmi hatóság előtti eljárásban az (1) bekezdésben meghatározott tényállással kapcsolatban hulladékgazdálkodási bírságot szabtak ki, és a bírságot, valamint egyéb költséget az eljárás alá vont személy a környezetvédelmi hatóságnak az előírt határidőn belül maradéktalanul megfizette, vagy arra a hatóság – elidegenítési tilalom bejegyzése mellett – részletfizetést vagy fizetési halasztást engedélyezett;
-- c) a jogsértéssel kapcsolatban indult büntetőeljárásban a bíróság, az ügyész vagy a nyomozó hatóság a lefoglalásról határozatot hozott;
+- c) a jogsértéssel kapcsolatban indult büntetőeljárásban a bíróság, az ügyészség vagy a nyomozó hatóság a lefoglalásról határozatot hozott;
 - d) a hulladék, illetve a hulladék szállítására használt jármű tulajdonosa írásban nyilatkozik arról – és ezzel bizonyítja –, hogy a jogsértés időpontjában nem volt tudomása arról, hogy a hulladékot szállító, illetve jogszerűtlenül elhagyó vagy elhelyező személy az eszközt, dolgot vagy járművet jogsértés céljából használja fel;
 - e) elrendelésének oka megszűnt;
 - f) a hatóság az eljárást megszüntette.

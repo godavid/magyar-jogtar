@@ -34,11 +34,11 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 (2) Ha a bírót a bíróságra az ügyelosztási rend meghatározását követően rendelik ki, az ügyelosztási rendet ennek megfelelően ki kell egészíteni.
 
-10. § (1) Az ügyelosztási rend tartalmazza, hogy az adott bíróságon milyen összetételű és számú tanácsok működnek, a bírák, a tanácsok – ideértve a kirendeléssel foglalkoztatott bírákat is – és a törvényben meghatározott ügyben az egyesbíró hatáskörében eljáró bírósági titkárok melyik ügycsoportba tartozó ügyeket intézik, akadályoztatásuk esetén ki jár el helyettük, az ügyek elosztására melyik bírósági vezető jogosult, továbbá, hogy az ügyek elosztása milyen módon történik. Az ügyelosztási rend a tárgyalási tevékenységet folytató bírósági vezetők által tárgyalt ügyek körét és az ezekre vonatkozó elosztási módot is magában foglalja. Az ügyelosztási rend rögzíti mely tanácsok, bírák járnak el a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) szerinti kiemelt jelentőségű ügyekben.
+10. § (1) Az ügyelosztási rend tartalmazza, hogy az adott bíróságon milyen összetételű és számú tanácsok működnek, a bírák, a tanácsok – ideértve a kirendeléssel foglalkoztatott bírákat is – és a törvényben meghatározott ügyben az egyesbíró hatáskörében eljáró bírósági titkárok melyik ügycsoportba tartozó ügyeket intézik, akadályoztatásuk esetén ki jár el helyettük, az ügyek elosztására melyik bírósági vezető jogosult, továbbá, hogy az ügyek elosztása milyen módon történik. Az ügyelosztási rend a tárgyalási tevékenységet folytató bírósági vezetők által tárgyalt ügyek körét és az ezekre vonatkozó elosztási módot is magában foglalja. Az ügyelosztási rend rögzíti mely tanácsok, bírák járnak el a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) szerinti gazdálkodással összefüggő kiemelt bűncselekmények miatt indult ügyekben.
 
 (2) A Kúria ügyelosztási rendjében meg kell jelölni azt is, hogy az önkormányzati tanács és az elvi közzétételi tanács tagjaként mely bírák járnak el, továbbá azt, hogy az egyes bírák melyik szakágú jogegységi tanácsban járhatnak el.
 
-(3) Az ügyelosztási rend kialakítása során figyelembe kell venni az ügyek jelentőségét, munkaigényességét – különös tekintettel a kiemelt jelentőségű ügyekre –, az ügyérkezés statisztikai adatait, emellett törekedni kell az arányos munkateher megvalósítására is.
+(3) Az ügyelosztási rend kialakítása során figyelembe kell venni az ügyek jelentőségét, munkaigényességét – különös tekintettel a gazdálkodással összefüggő kiemelt bűncselekmények miatt indult ügyekre –, az ügyérkezés statisztikai adatait, emellett törekedni kell az arányos munkateher megvalósítására is.
 
 11. § (1) Az ügyelosztási rendet és annak módosítását, kiegészítését az érintettekkel haladéktalanul ismertetni kell és a bíróságon, a felek által is hozzáférhető helyen ki kell függeszteni, továbbá a bíróságok központi internetes honlapján (a továbbiakban: központi honlap), valamint – ha a bíróság azzal rendelkezik – az érintett bíróság honlapján közzé kell tenni.
 
@@ -1207,7 +1207,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 164. § (1) A határozatot az azt meghozó bíróság elnöke a határozat írásba foglalásától számított harminc napon belül teszi közzé a Bírósági Határozatok Gyűjteményében.
 
-(2) Ha a már közzétett határozatot kijavítják, vagy annak tartalma kiegészítés folytán megváltozik, a kijavítást, kiegészítést annak jelzésével a jogerőre emelkedésétől számított öt munkanapon belül át kell vezetni a Bírósági Határozatok Gyűjteményében.
+(2) Ha a már közzétett határozatot kijavítják, vagy annak tartalma kiegészítés folytán megváltozik, a kijavítást, kiegészítést annak jelzésével a jogerőre emelkedésétől vagy véglegessé válásától számított öt munkanapon belül át kell vezetni a Bírósági Határozatok Gyűjteményében.
 
 165. § (1) A közzétett határozatok megjelölésében fel kell tüntetni a bíróság és a jogterület megnevezését, a határozat meghozatalának évét, valamint sorszámát.
 

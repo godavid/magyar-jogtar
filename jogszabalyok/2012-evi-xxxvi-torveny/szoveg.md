@@ -1836,7 +1836,7 @@ töltött időt kell figyelembe venni.
 
 133. § (1) Az Országgyűlési Őrség – az e törvényben meghatározott eltérésekkel – a feladatai ellátására és az utasítás teljesítésének kötelezettségére, az intézkedési kötelezettségre, az arányosság követelményére, a kényszerítő eszközök alkalmazásának követelményeire, az intézkedések és a kényszerítő eszközök alkalmazásának közös elveire és szabályaira, a titoktartási kötelezettségre, a fegyverviselési jogra, a segítségnyújtási kötelezettségre, a közreműködő igénybevételére, a segítség és eszközök igénybevételére a Rendőrségről szóló törvény rendelkezéseit alkalmazza.
 
-(2) Az országgyűlési őr az e törvényben szabályozott intézkedéseken túl a Rendőrségről szóló törvényben meghatározottak szerint fokozott ellenőrzést hajthat végre, ruházatot, csomagot és járművet átvizsgálhat, felvilágosítást kérhet, biztonsági intézkedést foganatosíthat, magánlakásban és közterületnek nem minősülő egyéb helyen intézkedhet, helyszínt biztosíthat, valamint személy- és létesítménybiztosítási intézkedést alkalmazhat.
+(2) Az országgyűlési őr az e törvényben szabályozott intézkedéseken túl a Rendőrségről szóló törvényben meghatározottak szerint fokozott ellenőrzést hajthat végre, ruházatot, csomagot és járművet átvizsgálhat, felvilágosítást kérhet, biztonsági intézkedést foganatosíthat, magánlakásban és közterületnek nem minősülő egyéb helyen intézkedhet, helyszínt biztosíthat, valamint személyvédelmi és létesítménybiztosítási intézkedést alkalmazhat.
 
 (2a) Az országgyűlési őr az Országgyűlési Őrség 125. § (2) bekezdésében meghatározott feladatainak ellátásával összefüggésben képfelvételt, illetve hangfelvételt, továbbá kép- és hangfelvételt (a továbbiakban együtt: felvétel) készíthet, amelyre a Rendőrségről szóló törvénynek a rendőri intézkedéssel, illetve az ellátott szolgálati feladattal összefüggő képfelvétel készítésére vonatkozó szabályai az alkalmazandók.
 
@@ -1850,7 +1850,7 @@ töltött időt kell figyelembe venni.
 
 (4) Az országgyűlési őr a tárgyalási rend fenntartásával kapcsolatos feladatok ellátása során kényszerítő eszközként kizárólag testi kényszert alkalmazhat.
 
-134. § (1) Az Országgyűlési Őrség nyomozóhatósági jogkört nem gyakorol. Ha tevékenysége során bűncselekmény elkövetésének gyanúját észleli, haladéktalanul feljelentést tesz a nyomozás teljesítésére a külön jogszabály alapján hatáskörrel és illetékességgel rendelkező nyomozóhatóságnál vagy ügyésznél. Ha az országgyűlési őr tevékenysége során szabálysértés elkövetésének gyanúját észleli, – a rendelkezésére álló bizonyítási eszközök átadásával egyidejűleg – feljelentést tehet az eljárásra jogosult szabálysértési hatóságnál.
+134. § (1) Az Országgyűlési Őrség nyomozóhatósági jogkört nem gyakorol. Ha tevékenysége során bűncselekmény gyanúját észleli, haladéktalanul feljelentést tesz a nyomozó hatóságnál vagy az ügyészségnél. Ha az országgyűlési őr tevékenysége során szabálysértés elkövetésének gyanúját észleli, – a rendelkezésére álló bizonyítási eszközök átadásával egyidejűleg – feljelentést tehet az eljárásra jogosult szabálysértési hatóságnál.
 
 (2) A házelnök az Országgyűlési Őrség parancsnokán keresztül az Országgyűlési Őrségnek egyedi utasítást adhat feladat elvégzésére vagy mulasztás pótlására.
 
@@ -1895,7 +1895,7 @@ töltött időt kell figyelembe venni.
 
 (2) Az elfogásról az országgyűlési őr haladéktalanul értesíti a rendőrséget, az elfogott személyt az országgyűlési őr a rendőr helyszínre érkezéséig tarthatja vissza. Az elfogott személyt előállítás céljából a rendőrségnek adja át. Az előállítás tartamát ilyen esetben az Országgyűlési Őrség intézkedésének a kezdetétől kell számítani.
 
-(3) Az elfogás törvényességéért az Országgyűlési Őrség, az előállítás törvényességéért a rendőrség felel. Az elfogás okának törvényességét a rendőrség nem vizsgálhatja, ha jogsértést állapít meg, tájékoztatja az Országgyűlési Őrség parancsnokát, bűncselekmény esetén feljelentést tesz az ügyésznél.
+(3) Az elfogás törvényességéért az Országgyűlési Őrség, az előállítás törvényességéért a rendőrség felel. Az elfogás okának törvényességét a rendőrség nem vizsgálhatja, ha jogsértést állapít meg, tájékoztatja az Országgyűlési Őrség parancsnokát, bűncselekmény esetén feljelentést tesz az ügyészségnél.
 
 #### 46. Közlekedésrendészeti intézkedés
 

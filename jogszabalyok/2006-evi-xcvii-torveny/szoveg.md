@@ -370,7 +370,7 @@ adja ki.
 17. § (1) A területi szervezet írásbeli indokolt határozattal felfüggeszti a tagsági viszonyát annak,
 
 - a)
-- b) akit a kamarai tagságának alapjául szolgáló foglalkozástól jogerős ítélettel határozott időre eltiltottak, az eltiltás időtartamára, ha a kamarából a 25. § (1) bekezdés e) pontjában szereplő etikai büntetésként nem zárták ki,
+- b) akit a kamarai tagságának alapjául szolgáló foglalkozástól jogerős ügydöntő határozattal határozott időre eltiltottak, az eltiltás időtartamára, ha a kamarából a 25. § (1) bekezdés e) pontjában szereplő etikai büntetésként nem zárták ki,
 - c)
 
 (2) A felfüggesztés ideje alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel.
@@ -441,11 +441,13 @@ adja ki.
 
 (2) Nem indítható meg az etikai eljárás, ha a cselekménynek a területi szervezet etikai bizottságának tudomására jutásától 6 hónap, vagy a cselekmény elkövetése óta 3 év eltelt.
 
-(3) Ha az etikai vétségnek is minősülő ügyben büntető- vagy szabálysértési eljárás indult, az eljárás jogerős befejezésétől számított 3 hónapon belül az etikai eljárás akkor is megindítható, ha a (2) bekezdésben meghatározott határidő eltelt. A 3 hónapos határidőt a területi szervezet etikai bizottságának a jogerős határozatról való tudomásszerzésétől kell számítani.
+(3) Ha az etikai vétségnek is minősülő ügyben büntető- vagy szabálysértési eljárás indult, szabálysértési eljárás esetén az eljárás jogerős befejezésétől, büntetőeljárás esetén a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számított 3 hónapon belül az etikai eljárás akkor is megindítható, ha a (2) bekezdésben meghatározott határidő eltelt. A 3 hónapos határidőt a területi szervezet etikai bizottságának a határozatról való tudomásszerzésétől kell számítani.
 
 (4) Az etikai eljárást a (2) bekezdésben meghatározott időpont bekövetkezésén túl is meg kell indítani, ha annak lefolytatását az egészségügyi dolgozó maga ellen kéri.
 
-(5) A bíróság vagy a szabálysértési hatóság határozatát a kamara kérelmére, vagy – amennyiben az érintett személy kamarai tagsága a bíróság, eljáró hatóság előtt ismert – hivatalból, a jogerőre emelkedést követő 30 napon belül megküldi az illetékes kamarai szervnek.
+(5) A bíróság vagy a szabálysértési hatóság határozatát a kamara kérelmére, vagy – amennyiben az érintett személy kamarai tagsága a bíróság, eljáró hatóság előtt ismert – hivatalból, a jogerőre emelkedést vagy a véglegessé válást követő 30 napon belül megküldi az illetékes kamarai szervnek.
+
+(5a) Az ügyészség vagy a nyomozó hatóság a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve a további jogorvoslattal nem támadható eljárást megszüntető határozatát az (5) bekezdés szerint a határozathozatalt követő 30 napon belül küldi meg az illetékes kamarai szervnek.
 
 23. § (1) A területi szervezet etikai bizottsága az etikai felelősség tárgyában hozott határozatát – ha az eljárás panaszbejelentés alapján indult – közli a panaszossal is.
 
@@ -504,11 +506,11 @@ is közli.
 
 25/A. § (1) A 25. § (1) bekezdés f) pontja szerinti kizárás etikai büntetés csak az etikai kódexben meghatározott esetekben alkalmazható.
 
-(2) Ha az etikai bizottság a 25. § (1) bekezdés f) pontja szerinti kizárás etikai büntetés alkalmazásáról döntött, azonban a kizárás alapjául szolgáló magatartás miatt büntetőeljárás is folyamatban van, a döntés határozatba foglalására nem kerül sor, hanem az etikai eljárást a büntetőeljárás jogerős lezárásáig fel kell függeszteni. A folyamatban lévő büntetőeljárás egyéb etikai szankció kiszabásának lehetőségét nem érinti.
+(2) Ha az etikai bizottság a 25. § (1) bekezdés f) pontja szerinti kizárás etikai büntetés alkalmazásáról döntött, azonban a kizárás alapjául szolgáló magatartás miatt büntetőeljárás is folyamatban van, a döntés határozatba foglalására nem kerül sor, hanem az etikai eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig fel kell függeszteni. A folyamatban lévő büntetőeljárás egyéb etikai szankció kiszabásának lehetőségét nem érinti.
 
-(3) Ha a bíróság a (2) bekezdés szerinti eljárásában a taggal szemben a 18. § (2) bekezdésében meghatározott szankciót alkalmazza, a bírósági döntés jogerőre emelkedését követő 15 napon belül az (1) bekezdés szerinti etikai bizottság a kizárásról szóló döntését a 25. § (1) bekezdés e) pontja alapján hozza meg.
+(3) Ha a bíróság a (2) bekezdés szerinti eljárásában a taggal szemben a 18. § (2) bekezdésében meghatározott szankciót alkalmazza, a bíróság ügydöntő határozatának jogerőre emelkedését követő 15 napon belül az (1) bekezdés szerinti etikai bizottság a kizárásról szóló döntését a 25. § (1) bekezdés e) pontja alapján hozza meg.
 
-(4) Ha az etikai eljárást büntetőeljárás miatt függesztették fel, a bíróság jogerős döntésében foglalt ténybeli és jogi megállapításokhoz a lefolytatott etikai eljárásban az etikai bizottság kötve van.
+(4) Ha az etikai eljárást büntetőeljárás miatt függesztették fel, a bíróság jogerős ügydöntő határozatában foglalt ténybeli és jogi megállapításokhoz a lefolytatott etikai eljárásban az etikai bizottság kötve van.
 
 26. § A 25. § (1) bekezdés e) pontjában szereplő kizárás büntetés alkalmazásáról az etikai bizottság hivatalból – meghallgatás és tárgyalás tartása nélkül – határoz.
 

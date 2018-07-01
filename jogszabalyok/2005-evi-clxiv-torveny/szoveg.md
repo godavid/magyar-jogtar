@@ -40,8 +40,8 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 23. szálláshely-szolgáltatás: üzletszerű gazdasági tevékenység keretében rendszerint nem huzamos jellegű, éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szálláshely nyújtása és az ezzel közvetlenül összefüggő szolgáltatások nyújtása;
 - 23a. szeszes ital: minden alkohol tartalmú ital, kivéve a gyógynövények gyógyászati jellegű szeszes kivonatát és az ezek felhasználásával készült terméket, továbbá az 1,2%-nál kevesebb alkoholtartalmú üdítőitalokat;
 - 24. tartós szálláshasználati szolgáltatási tevékenység: üzletszerű gazdasági tevékenység keretében éjszakai ott-tartózkodást, pihenést is magában foglaló tartózkodás céljára szolgáló szállás rendszeres időközönként ismétlődő, meghatározott, nem huzamos időtartamra történő használata jogának (üdülési jog) biztosítása;
-- 25. utazásszervezői tevékenység: üzletszerű gazdasági tevékenység keretében személyszállítási, szállás- és egyéb turisztikai szolgáltatások (így különösen étkezés, idegenvezetés, szórakoztató, illetve kulturális program) közül legalább kettőnek az együttesét tartalmazó szolgáltatás (a továbbiakban: utazási szolgáltatás) összeállítása és nyújtása;
-- 26. utazásközvetítői tevékenység: üzletszerű gazdasági tevékenység keretében utazási szolgáltatás nyújtására az utazásszervező megbízása alapján, annak nevében szerződések kötése;
+- 25. utazásszervezői tevékenység: az utazó részére nyújtott, olyan kereskedelmi tevékenység, amelynek során az utazásszervezői tevékenységet végző közvetlenül vagy másik kereskedő közreműködésével üzletszerű gazdasági tevékenység keretében, személyszállítási, szállás- és egyéb turisztikai szolgáltatásokat (így különösen étkezés, idegenvezetés, szórakoztató, illetve kulturális program) állít össze, és értékesít, vagy kínál értékesítésre, valamint az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendelet szerint adatokat továbbít más kereskedőnek;
+- 26. utazásközvetítői tevékenység: olyan üzletszerű gazdasági tevékenység, amelynek keretében az utazásközvetítő az utazásszervezői tevékenységet végző megbízása alapján az utazó részére utazási szolgáltatást kínál, valamint az utazásszervező nevében szerződést köt;
 - 27. üzlet: kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 - 28. üzleten kívüli kereskedés: a kereskedő vagy a nevében, illetve javára eljáró személy által a termék forgalmazása céljából a vásárlónak – annak kifejezett kérése nélkül – a lakásán, munkahelyén vagy más tartózkodási helyén való felkeresésével vagy az e célból szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység;
 - 28a. árubemutatóval egybekötött termékértékesítés: a kereskedő vagy a nevében, illetve javára eljáró személy által a termék bemutatása, illetve forgalmazása céljából szervezett utazás vagy rendezvény alkalmával folytatott kiskereskedelmi tevékenység;
@@ -54,7 +54,9 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 33. nagyméretű szupermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 2500–5000 négyzetméter közötti bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
 - 34. szupermarket: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400–2500 négyzetméter közötti bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet;
 - 35. diszkont: kiskereskedelmi tevékenységet, vagy kis- és nagykereskedelmi tevékenységet azonos helyen és időben folytató 400 négyzetméternél nagyobb bruttó alapterülettel rendelkező, napi fogyasztási cikket értékesítő üzlet, amely nem rendelkezik friss hús, húskészítmény és tejtermékek kimérésére szolgáló pulttal;
-- 36. fogyasztó: a fogyasztóvédelemről szóló törvény szerinti fogyasztó.
+- 36. fogyasztó: a fogyasztóvédelemről szóló törvény szerinti fogyasztó;
+- 37. utazó: az utazásszervezői, -közvetítői, valamint az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység vonatkozásában, minden olyan személy, akinek szándékában áll utazási szolgáltatásra, vagy azok összeállítására vonatkozó szerződés megkötése, vagy ilyen szerződés alapján utazásra jogosult;
+- 38. utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység: olyan tevékenység, amelynek keretében az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendeletben meghatározott utazási szolgáltatást kínál, értékesít.
 
 ### A kereskedelmi tevékenységek folytatásának általános feltételei
 
@@ -128,6 +130,8 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 - b) elektronikusan és telefonon keresztül is lehetővé tenni a fogyasztók számára a személyes ügyintézés időpontjának előzetes lefoglalását.
 
 5/D. § Az árubemutatóval egybekötött termékértékesítést végző kereskedő az értékesítés helyszínéről való visszaszállítást – különösen a személyi kör és a díjazás tekintetében – ugyanolyan feltételekkel, ugyanarra a helyszínre köteles biztosítani, mint az árubemutató, illetve termékértékesítés helyszínére való szállítást.
+
+5/E. § A jogszabályban meghatározott utazási csomagot tilos a fogyasztó részére részekre bontva értékesíteni.
 
 ### Az üzletek üzemeltetésének és nyitva tartásának rendje
 
@@ -215,7 +219,11 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a határon átnyúló szolgáltatásnyújtás keretében történő utazásszervezői vagy utazásközvetítői tevékenység folytatására irányuló szándékát köteles a kereskedelmi hatóságnak bejelenteni.
 
-(4)–(6)
+(4) Az utazásszervezői tevékenységet végző köteles egy biztosítóval, az olyan utazási szolgáltatások összeállítása esetében, amely személyszállítást is tartalmaz, az utazásszervező és -közvetítő tevékenységről szóló kormányrendeletben meghatározott feltételeknek megfelelő biztosítást kötni az utazó javára.
+
+(5) Az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazásszervező és -közvetítő tevékenységről szóló kormányrendeletben meghatározottak szerinti vagyoni biztosítékkal rendelkezik.
+
+(6)
 
 ### Kereskedelmi nyilvántartások
 
@@ -272,7 +280,7 @@ nyilvántartást vezet.
 
 9. § (1) A kereskedelmi tevékenységre, a kereskedelmet kiszolgáló szolgáltató tevékenységekre, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységekre vonatkozó jogszabályi és hatósági előírások megtartását a kereskedelmi hatóság ellenőrzi, és – a (2) és a (3) bekezdésben foglalt kivétellel, továbbá törvény vagy kormányrendelet eltérő rendelkezése hiányában – eljár ezek megsértése esetén.
 
-(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C. §-ban, a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C.–5/E. §-ban, valamint a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
 (3) A 7. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 21. §-ának megsértése esetén irányadó rendelkezések szerint.
 
@@ -336,7 +344,7 @@ nyilvántartást vezet.
 - d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a vásár és a piac üzemeltetésének részletes feltételeit, valamint a bevásárlóközpont és a helyi termelői piac bejelentésének, illetve a vásár- és a piacüzemeltetési engedély kiadásának részletes szabályait, valamint a kereskedelmet kiszolgáló szolgáltató tevékenységet végzők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - e) a tartós szálláshasználati szolgáltatási tevékenység folytatásának részletes feltételeit, a tartós szálláshasználati szolgáltatási tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban, illetve hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit és a szálláshely-üzemeltetési bejelentésnek rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szállásadók tájékoztatási és adatszolgáltatási kötelezettségeit, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó bejelentés rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó bejelentés rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint a kötelező biztosításra vonatkozó részletszabályokat,
 - h) a kereskedelmi hatóság vagy hatóságok kijelölését,
 - i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait,
 - j) a nemesfémből készült ékszerek, díszműáruk és egyéb tárgyak forgalmazására irányuló kereskedelmi tevékenység gyakorlásának feltételeit, az e tevékenységre vonatkozó bejelentés rendjét és feltételeit, az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
@@ -383,5 +391,7 @@ rendeletben állapítsa meg.
 13. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló 2006/123/EK (2006. december 12.) európai parlamenti és tanácsi irányelv 5. és 9. cikkének való megfelelést szolgálja.
 
 (2) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(3) Ez a törvény az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i 2015/2302/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 14. § Az 5/C. § és 5/D. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.

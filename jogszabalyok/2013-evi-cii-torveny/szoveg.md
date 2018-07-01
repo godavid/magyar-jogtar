@@ -357,20 +357,29 @@ követő napon.
 
 32. § A halgazdálkodási jog haszonbérletére egyebekben a Polgári Törvénykönyv mezőgazdasági haszonbérletre vonatkozó rendelkezéseit kell alkalmazni.
 
-#### 9. Halgazdálkodásra jogosultak nyilvántartása
+#### 9. Halgazdálkodási vízterületek és halgazdálkodásra jogosultak nyilvántartása
 
-33. § (1) A halgazdálkodási hatóság a halgazdálkodási jog jogosultjáról – a nemzeti vagyonnal való felelős gazdálkodás átláthatósága céljából – nyilvántartást vezet. A nyilvántartás tartalmazza
+33. § (1) A halgazdálkodási hatóság a halgazdálkodási jog jogosultjáról és a halgazdálkodási vízterületekről – a nemzeti vagyonnal való felelős gazdálkodás átláthatósága és a nyilvántartott halgazdálkodási vízterületekre vonatkozó előírások érvényre juttatása céljából – nyilvántartást vezet. A nyilvántartás tartalmazza
 
-- a) a halgazdálkodási vízterület megnevezését,
+- a) a nyilvántartott halgazdálkodási vízterület megnevezését;
 - b) a halgazdálkodásra jogosult
-  - ba) nevét, lakcímét, születési helyét, születési idejét és anyja leánykori családi és utónevét, vagy
-  - bb) cégnevét, székhelyét és adószámát,
-- c) a halgazdálkodási jog haszonbérlet vagy alhaszonbérlet útján történő hasznosítása esetén a haszonbérlet időtartamát,
-- d) a halgazdálkodási vízterületté nyilvánítást megállapító hatósági határozat számát,
-- e) a halgazdálkodási jog gyakorlásának, illetve hasznosításának módját,
-- f) a korábbi halászati jog átengedésére vonatkozó határozat számát.
+  - ba) természetes személy nevét, lakcímét, születési helyét, születési idejét és anyja leánykori családi és utónevét, vagy
+  - bb) cég cégnevét és cégjegyzékszámát, a cégjegyzékben nem szereplő szervezet nevét, székhelyét és nyilvántartási számát;
+- c) a halgazdálkodási jog haszonbérlet vagy alhaszonbérlet útján történő hasznosítása esetén a haszonbérlet időtartamát;
+- d) a halgazdálkodási vízterületté nyilvánítást megállapító hatósági határozat számát;
+- e) a halgazdálkodási jog gyakorlásának, illetve hasznosításának módját;
+- f) a korábbi halászati jog átengedésére vonatkozó határozat számát;
+- g) a nyilvántartott halgazdálkodási vízterülettel érintett ingatlan vagy ingatlanok helyrajzi számát;
+- h) a nyilvántartott halgazdálkodási vízterület medrének az ingatlan-nyilvántartásban szereplő művelési ágát;
+- i) a meder tulajdonosának vagy tulajdonosainak nevét, lakcímét (székhelyét), tulajdoni hányadát;
+- j) a nyilvántartott halgazdálkodási vízterület típusát;
+- k) a nyilvántartott halgazdálkodási vízterület nagyságát, folyóvizek esetében annak hosszát;
+- l) az Országos Halgazdálkodási Adattár szerinti víztérkódot;
+- m) az Európai Unió Víz Keretirányelve szerinti víztestkódot;
+- n) a különleges rendeltetésűvé nyilvánítást;
+- o) a halgazdálkodási kíméleti területek kijelölését.
 
-(2) A halgazdálkodási jog jogosultjáról vezetett nyilvántartás az (1) bekezdésben meghatározott adatok vonatkozásában – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti nyilvántartás az ott meghatározott adatok vonatkozásában – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (3) A halgazdálkodásra jogosult jogosultsága időpontjától kezdődő hatállyal, illetve az adataiban történt változást követő 15 napon belül köteles az (1) bekezdés szerinti adatait, illetve az adatváltozást bejelenteni a halgazdálkodási hatóságnak.
 
@@ -378,30 +387,17 @@ követő napon.
 
 (4) Az (1) bekezdés szerinti nyilvántartásban szereplő személyes adatok a jogosultság megszűnésétől számított tíz évig kezelhetők.
 
-#### 10. Halgazdálkodási vízterületek és nyilvántartásuk
+#### 10. Halgazdálkodási vízterületek
 
 34. § (1) Azt a halgazdálkodási vízterületet, ahol halgazdálkodási tevékenységet folytatnak vagy a jövőben folytatni kívánnak, a halgazdálkodási hatósághoz be kell jelenteni.
 
-(2) A halgazdálkodási vízterületet a halgazdálkodási hatóság hivatalból, vagy a halgazdálkodási vízterület fekvése szerinti ingatlan tulajdonosának (1) bekezdés szerinti bejelentésére – az e törvénynek a nyilvántartott halgazdálkodási vízterületekre vonatkozó előírásainak érvényre juttatása céljából – nyilvántartásba veszi.
+(2) A halgazdálkodási vízterületet a halgazdálkodási hatóság hivatalból, vagy a halgazdálkodási vízterület fekvése szerinti ingatlan tulajdonosának (1) bekezdés szerinti bejelentésére – az e törvénynek a nyilvántartott halgazdálkodási vízterületekre vonatkozó előírásainak érvényre juttatása céljából – veszi nyilvántartásba.
 
-(3) A nyilvántartott halgazdálkodási vízterületek nyilvántartása tartalmazza
+(3)–(4)
 
-- a) a vízterület megnevezését;
-- b) a vízterülettel érintett ingatlan vagy ingatlanok helyrajzi számát;
-- c) a vízterület medrének az ingatlan-nyilvántartásban szereplő művelési ágát;
-- d) a meder tulajdonosának vagy tulajdonosainak nevét, lakcímét (székhelyét), tulajdoni hányadát;
-- e) a vízterület típusát;
-- f) a vízterület nagyságát, folyóvizek esetében annak hosszát;
-- g) az Országos Halgazdálkodási Adattár szerinti víztérkódot;
-- h) az Európai Unió Víz Keretirányelve szerinti víztestkódot;
-- i) a különleges rendeltetésűvé nyilvánítást;
-- j) a halgazdálkodási kíméleti területek kijelölését.
+(5)
 
-(4) A (3) bekezdés szerinti nyilvántartás az ott meghatározott adatok vonatkozásában – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
-
-(5) A (2) bekezdés szerinti nyilvántartásban szereplő személyes adatok a jogosultság megszűnésétől számított tíz évig kezelhetők.
-
-(6) A halgazdálkodási vízterületek nyilvántartásában szereplő adatokat a halgazdálkodási hatóság a tulajdonviszonyok és a szakmai szempontok figyelembevételével hivatalból eljárva vagy a halgazdálkodásra jogosult kérelmére módosíthatja.
+(6) A halgazdálkodási vízterületek és jogosultak nyilvántartásában szereplő adatokat a halgazdálkodási hatóság a tulajdonviszonyok és a szakmai szempontok figyelembevételével hivatalból eljárva vagy a halgazdálkodásra jogosult kérelmére módosíthatja.
 
 35. § (1) A nem nyilvántartott halgazdálkodási vízterületeken horgászati tevékenység kizárólag a 45. § (5) bekezdésében foglalt feltételek szerint végezhető. E vízterületeken – a (2) bekezdésben foglalt kivétellel – halászati tevékenység nem végezhető.
 
@@ -513,6 +509,8 @@ személy.
 
 (3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés h) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
+(3a) A halgazdálkodási hatóság az (1) bekezdés szerinti nyilvántartás adatai alapján a halfogási tevékenységet végző jogosult adatairól, kérelmére, hatósági bizonyítványt állít ki automatikus döntéshozatal keretében.
+
 (4) A halgazdálkodási hatóság országos illetékességű szerve a területi szervek által bejegyzett adatokat – a halfogási tevékenységek országos nyomon követhetősége céljából – összesíti.
 
 (5) A (2) bekezdésben meghatározott adatok a halászati engedély, a halászjegy, a horgászjegy, turista állami horgászjegy hatályának lejáratától számított öt évig kezelhetők.
@@ -564,7 +562,7 @@ együtt jogosít halászatra vagy horgászatra.
 
 (4) A területi jegyen a halgazdálkodásra jogosultnak fel kell tüntetnie a halgazdálkodási tervében a hatóság által jóváhagyott korlátozásokat, amelyek betartása a feljogosított személy számára kötelező. A területi jegy részletes tartalmi követelményeit az e törvény végrehajtására kiadott rendelet határozza meg.
 
-(5) A halgazdálkodásra jogosult a feljogosított személytől a halászati őr intézkedésével összefüggésben átadott területi jegyet a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési vagy büntetőeljárás végleges, illetve jogerős befejezéséig visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja.
+(5) A halgazdálkodásra jogosult a feljogosított személytől a halászati őr intézkedésével összefüggésben átadott területi jegyet a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési eljárás végleges, illetve jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja.
 
 (6) A halgazdálkodásra jogosult köteles nyilvántartást vezetni az általa kiadott területi jegyekről, továbbá köteles
 
@@ -740,7 +738,7 @@ e törvény végrehajtására kiadott rendeletben meghatározott rendelkezéseke
 
 (3) Az Adattár részét képezik
 
-- a) a 33. és 34. §-ban meghatározott nyilvántartások,
+- a) a halgazdálkodási vízterületek és a halgazdálkodásra jogosultak nyilvántartása,
 - b) a halászati őrök és társadalmi halőrök nyilvántartása,
 - c) a halgazdálkodási terv kötelező telepítési mennyiségeire vonatkozó adatok,
 - d) a halgazdálkodási terv szerint, valamint az azon felül felett telepített halmennyiség adatai,

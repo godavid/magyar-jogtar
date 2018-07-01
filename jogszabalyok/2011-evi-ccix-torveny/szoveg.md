@@ -1054,7 +1054,7 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 - g) a fogyasztóvédelmi hatóságnak,
 - h) a járási hivatalnak,
 - i) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
-- j) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságnak, ügyésznek, valamint bíróságnak.
+- j) a nemzetbiztonság, a honvédelem és a közbiztonság védelme céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, valamint büntetőeljárás lefolytatása céljából a bíróságnak, az ügyészségnek és a nyomozó hatóságnak.
 
 (3a) Az 55. § alkalmazása érdekében az ingatlan helyrajzi száma és címe átadható a járási hivatalnak.
 

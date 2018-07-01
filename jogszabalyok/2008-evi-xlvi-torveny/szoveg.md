@@ -956,7 +956,7 @@ elrendelő határozata fellebbezésre való tekintet nélkül végrehajtható.
 
 határozatát a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. A határozat közlése időpontjának az első közzététel időpontja minősül.
 
-43. § Az élelmiszerlánc-felügyeleti szerv e törvény szerinti hatósági eljárásához és tájékoztatási kötelezettségének teljesítéséhez – ha az emberek, illetve állatok egészsége veszélyeztetésének fennállása miatt szükséges – a nyomozó hatóságot, az ügyészséget, valamint a bíróságot a büntetőeljárásról szóló 1998. évi XIX. törvény 71/B. § (1) bekezdésében meghatározott célból megkeresheti. A megkeresés irányulhat a lefoglalt dologból történő minta szolgáltatására.
+43. § Az élelmiszerlánc-felügyeleti szerv e törvény szerinti hatósági eljárásához és tájékoztatási kötelezettségének teljesítéséhez – ha az emberek, illetve állatok egészsége veszélyeztetésének fennállása miatt szükséges – a büntetőeljárásról szóló 2017. évi XC. törvény 101. § (1) bekezdésében foglaltak szerint megismerheti az eljárás ügyiratait. A megkeresés irányulhat a lefoglalt dologból történő minta szolgáltatására.
 
 44. § (1) Az élelmiszerlánc-felügyeleti szerv helyszíni ellenőrzésre feljogosított állami tisztviselője, kormánytisztviselője, valamint jelenlétében az Európai Bizottság szakértője és az általa kijelölt szakértő az e törvény végrehajtására kiadott jogszabály, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusai szerinti ellenőrzés során jogosult
 

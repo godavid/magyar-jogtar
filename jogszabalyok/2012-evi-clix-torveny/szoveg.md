@@ -168,7 +168,7 @@ nyújtja.
 - b) amennyiben a bejelentő az általános szerződési feltételekben olyan többletszolgáltatás nyújtását is vállalja, amely más hatóság engedélyéhez vagy nyilvántartásba vételéhez is kötött, úgy az engedélyt vagy a bejelentőre vonatkozó harminc napnál nem régebbi okirati igazolást arról, hogy nyilvántartásba vétele megtörtént;
 - c) bejelentő által alkalmazandó – a postai szolgáltató azonosítására alkalmas – jelzés mintáját;
 - d) annak a központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám és internet), ahol a felhasználók a szolgáltatásokkal kapcsolatosan érdeklődhetnek, panaszt tehetnek, és ahol kártérítési igényüket bejelenthetik;
-- e) a titkos információgyűjtésre, illetve titkos adatszerzésre felhatalmazott szervezetekkel való együttműködés teljesítésére vonatkozó nyilatkozatot;
+- e) a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetekkel való együttműködés teljesítésére vonatkozó nyilatkozatot;
 - f) a postai szolgáltatás normál üzemmenetéhez szükséges technológiai folyamatok leírását, különös tekintettel a bejelentő által nyújtani kívánt szolgáltatások –értelmező rendelkezésekben foglalt technológiai elemek részletes bemutatására;
 - g) a 8. § (3) bekezdés f) pontja szerinti szolgáltatás nyújtása esetén az egyedi szerződés tervezetét és a 8. § (4) bekezdésében foglalt körülmények fennállásával kapcsolatos jogi álláspontját;
 - h) a bejelentő által igénybe venni kívánt közreműködők nevét, elnevezését, vállalkozás esetén azok cégjegyzékszámát, más hivatalos nyilvántartási vagy azonosító számát és székhelyét annak feltüntetésével, hogy a közreműködő a postai küldemények felvétele, gyűjtése, szállítása, feldolgozása vagy kézbesítése körében jár el;
@@ -550,7 +550,7 @@ igénybevétele útján végezheti. A postai küldemények kézbesítését vég
 
 (3) A postai szolgáltatóhelyen kívül postai kézbesítést végző személy ruházatán a postai szolgáltatóra utaló egyértelműen azonosítható jelzést köteles viselni, és nem közterületen történő kézbesítés esetén a terület tulajdonosának, használójának vagy a postai küldemény átvevőjének kérésére, továbbá a Hatóság postai hatósági ellenőrzést vagy piacfelügyeletet ellátó alkalmazottjának az eljárás során köteles felmutatni a nevét vagy azonosító számát, és a postai szolgáltató megnevezését tartalmazó igazolást.
 
-38. § A postai szolgáltatók és a postai közreműködői tevékenységet végző személyek, szervezetek kötelesek együttműködni a bűncselekmények megelőzésére és felderítésére, valamint a titkos információgyűjtésre és a titkos adatszerzésre külön törvényben felhatalmazott szervezetekkel, valamint tevékenységük megkezdésével egyidejűleg kötelesek biztosítani a titkos információgyűjtés, illetve a titkos adatszerzés eszközeinek és módszereinek alkalmazási feltételeit. Az e körben történő adatszolgáltatás, valamint az 55. § (6) bekezdése szerinti tevékenység díj-, költség- és térítésmentes.
+38. § A postai szolgáltatók és a postai közreműködői tevékenységet végző személyek, szervezetek kötelesek együttműködni a büntetőeljárás során a bírósággal, az ügyészséggel és a nyomozó hatósággal, továbbá a bűncselekmények megelőzésére, valamint a titkos információgyűjtés folytatására és a leplezett eszközök alkalmazására feljogosított szervezetekkel, valamint tevékenységük megkezdésével egyidejűleg kötelesek biztosítani a titkos információgyűjtés folytatásának, illetve a leplezett eszközök alkalmazásának feltételeit. Az e körben történő adatszolgáltatás, valamint az 55. § (6) bekezdése szerinti tevékenység díj-, költség- és térítésmentes.
 
 #### 23. A postai szolgáltatási szerződés általános szabályai
 
@@ -1171,7 +1171,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - d) Egyetemes Postai szolgáltatást Támogató Számla működtetésének részletes szabályait és bevételeinek számítási módját;
 - e) a postai szolgáltatások különleges jogrend időszaki felkészítésének rendszerét, feladatait, működési feltételeit;
 - f) a postai szolgáltatót, alkalmazottját, tagját, megbízottját és a postai közreműködőt terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket;
-- g) a postai szolgáltatók, a postai közreműködők és a titkos információ gyűjtésére, illetve a titkos adatszerzésre felhatalmazott szervezetek együttműködésének részletes szabályait.
+- g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg:
 

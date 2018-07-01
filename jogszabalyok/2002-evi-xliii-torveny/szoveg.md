@@ -302,7 +302,7 @@ mutatott ki.
 
 (8) Az általános forgalmi adó alanya az adóalanyként lezárt adóévben beszerzett termék, igénybevett szolgáltatás tekintetében előzetesen felszámított adólevonási jogot nem gyakorolhat.
 
-(9) Az adóalany az általa kibocsátott számlák tekintetében az általános forgalmi adóról szóló törvényben meghatározott adatszolgáltatásra vonatkozó rendelkezéseknek megfelelően, arról az adóévről benyújtott adóbevallásában – a 11. § (5) bekezdés alkalmazása esetén a becslésre irányuló adóhatósági eljárás során – nyilatkozik, amelyben a számlát kiállította.
+(9) Az adóalany az általa kibocsátott számlák tekintetében az adatszolgáltatási kötelezettséget az általános forgalmi adóról szóló törvényben meghatározott rendelkezéseknek megfelelően teljesíti.
 
 ### Szakképzési hozzájárulás
 

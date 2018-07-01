@@ -23,7 +23,9 @@ az államhatárról
 - c) határátlépési pont: személyforgalmat lebonyolító, határátkelőhelynek nem minősülő hely, amelyen az államhatáron átnyúló vagy annak közvetlen közelében levő területen található műemlék, természeti érték vagy más turisztikai látványosság megtekintése vagy rendezvény látogatása céljából lehet az államhatárt átlépni,
 - d) szomszédos állam: az az állam, amelynek államhatára Magyarország államhatárával részben megegyezik.
 
-### Az államhatár rendjének fenntartását biztosítószabályok
+### Az államhatár rendjének fenntartását biztosító
+
+szabályok
 
 3. § (1) A határvonaltól, valamint a határjeltől számított egy méter távolságon belül építmény nem létesíthető, kivéve
 
@@ -43,9 +45,13 @@ az államhatárról
 
 5. § (1) Magyarország területének a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 60 méteres sávja az államhatár rendjének védelmét biztosító létesítmények – ideértve a 15/A. § szerinti létesítményeket is – építése, telepítése és üzemeltetése, valamint a honvédelmi, nemzetbiztonsági, katasztrófavédelmi, határőrizeti, menekültügyi és idegenrendészeti feladatok ellátása céljából e törvény szerint igénybe vehető.
 
-(1a) A rendőr Magyarország területének a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belül feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény elkövetésének gyanúja merül fel.
+(1a) A rendőr Magyarország területének a Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonaltól, illetve a határjeltől számított 8 km-es sávon belül feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény gyanúja merül fel.
 
-(1b) Tömeges bevándorlás okozta válsághelyzet idején a rendőr Magyarország területén feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény elkövetésének gyanúja merül fel.
+(1b) Tömeges bevándorlás okozta válsághelyzet idején a rendőr Magyarország területén feltartóztathatja a Magyarország területén jogellenesen tartózkodó külföldit, és az (1) bekezdés szerinti létesítmény legközelebbi kapuján átkísérheti, kivéve, ha bűncselekmény gyanúja merül fel.
+
+(1c) Aki a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti a határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), az embercsempészés (Btk. 353. §), a jogellenes tartózkodás elősegítése (Btk. 354. §), a jogellenes bevándorlás elősegítése, támogatása (Btk. 353/A. §) bűncselekmény miatt indult büntetőeljárás hatálya alatt áll, – az (1d) bekezdésben foglalt kivétellel – nem tartózkodhat az (1a) bekezdés szerinti területen.
+
+(1d) Az (1c) bekezdésben meghatározott tilalom nem vonatkozik arra, akinek az (1a) bekezdés szerinti területen található – e rendelkezés hatálybalépését legalább öt évvel megelőzően létesített – érvényes lakcíme.
 
 (2) Az (1) bekezdés szerinti területen található ingatlan (a továbbiakban: ingatlan) tekintetében e törvény erejénél fogva az államot az (1) bekezdés szerinti feladatok ellátása céljából határozatlan időre szóló közérdekű használati jog illeti meg.
 
@@ -192,7 +198,9 @@ az (1) bekezdésben foglaltak szerint kell kiadni.
 (8) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a közbiztonság védelme érdekében
 
 - a) nemzetbiztonsági érdekből a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel és a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben
-- b) járványveszély megelőzése érdekében vagy az Egészségügyi Világszervezet 2009. évi XCI. törvénnyel kihirdetett Nemzetközi Egészségügyi Rendszabályainak végrehajtása érdekében nemzetközi horderejű közegészségügyi- járványügyi szükséghelyzet, illetőleg a közegészségügyi-járványügyi kockázat kezelése, elhárítása érdekében – ezek jellegétől függően – az egészségügyért felelős miniszterrel vagy az élelmiszerlánc- felügyeletért felelős miniszterrel egyetértésben rendeletében részleges határzárat rendelhet el.
+- b) járványveszély megelőzése érdekében vagy az Egészségügyi Világszervezet 2009. évi XCI. törvénnyel kihirdetett Nemzetközi Egészségügyi Rendszabályainak végrehajtása érdekében nemzetközi horderejű közegészségügyi- járványügyi szükséghelyzet, illetőleg a közegészségügyi-járványügyi kockázat kezelése, elhárítása érdekében – ezek jellegétől függően – az egészségügyért felelős miniszterrel vagy az élelmiszerlánc- felügyeletért felelős miniszterrel egyetértésben
+
+rendeletében részleges határzárat rendelhet el.
 
 (9) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a belső határon – a Schengeni határ-ellenőrzési kódex 28. cikkében megjelölt valamely feltétel fennállása esetén – a határátlépés ellenőrzésének azonnali visszaállítását rendeletben hirdesse ki.
 

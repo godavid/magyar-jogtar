@@ -46,7 +46,7 @@ Tbj. 4. § E törvény alkalmazásában:
 - d) Társas vállalkozó: 1. a betéti társaság bel- és kültagja, a közkereseti társaság tagja, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, valamint az európai gazdasági egyesülés tagja, ha a társaság (ideértve ezen társaságok előtársaságként történő működésének időtartamát is) tevékenységében ténylegesen és személyesen közreműködik, és ez nem munkaviszony vagy megbízási jogviszony keretében történik (tagsági jogviszony), 2. a szabadalmi ügyvivői társaság, a szabadalmi ügyvivői iroda tagja, ha a társaság tevékenységében személyesen közreműködik, 3. az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, a gépjárművezető-képző munkaközösség, az oktatói munkaközösség tagja, 4. az egyéni cég tagja, 5. a betéti társaság, a közkereseti társaság és a korlátolt felelősségű társaság olyan természetes személy tagja, aki a társaság ügyvezetését nem munkaviszony alapján látja el, kivéve, ha az 1. alpont szerint társas vállalkozónak minősül.
 - e) Kiegészítő tevékenységet folytató: az az egyéni, illetve társas vállalkozó, aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat, továbbá az az özvegyi nyugdíjban részesülő személy, aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte.
 - f) Saját jogú nyugdíjas: az a természetes személy, aki 1. a társadalombiztosítási nyugellátásról szóló törvény, illetve nemzetközi egyezmény alkalmazásával a 14. § (3) bekezdés a) és c) pontjában meghatározott saját jogú nyugellátásban, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi, rokkantsági nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől nyugdíjban vagy növelt összegű öregségi, munkaképtelenségi járadékban részesül, 2. a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, illetve az EGT-állam jogszabályai alkalmazásával saját jogú öregségi nyugdíjban részesül, 3. az egyéni vagy társas vállalkozó e) pont szerinti jogállását nem érinti, ha az 1–2. alpontokban említett nyugdíj folyósítása szünetel.
-- g) Fogvatartott: az őrizetbe vett, házi őrizetbe rendelt, előzetesen letartóztatott, elzárásra utalt, szabadságvesztés, vagy elzárás büntetést töltő személy, a kényszergyógykezelés, ideiglenes kényszergyógykezelés alatt álló személy.
+- g) Fogvatartott: akinek őrizetét rendelték el; az a személy, aki olyan bűnügyi felügyelet alatt áll, amelynek során a bíróság előírta számára, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el; a letartóztatott; a szabadságvesztést, vagy elzárást töltő; valamint a kényszergyógykezelés vagy előzetes kényszergyógykezelés alatt álló személy.
 - h) Megbízási jogviszony, munkaviszony: a magyar jog hatálya alá tartozó megbízási jogviszony és munkaviszony, továbbá a külföldi jog hatálya alá tartozó olyan megbízási jogviszony és munkaviszony, amely alapján a munkát Magyarország vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
 - i) Foglalkoztatott: aki nem minősül egyéni, illetve társas vállalkozónak és foglalkoztatója biztosítással járó jogviszony keretében foglalkoztatja.
 - j) Külföldi: az a természetes személy, aki nem minősül belföldinek.
@@ -105,7 +105,7 @@ Tbj. 8. § Szünetel a biztosítás:
   - ac) azt önkéntes tartalékos katonai szolgálat teljesítése céljából veszik igénybe.
 - b) az igazolatlan távollét időtartama alatt,
 - c) a munkavégzési (szolgálatteljesítési) kötelezettség alóli mentesítés ideje alatt, kivéve, ha a munkavégzés alóli mentesítés idejére a munkaviszonyra vonatkozó szabály szerint átlagkereset jár, vagy munkabér (illetmény), átlagkereset (távolléti díj), táppénzfizetés történt,
-- d) az előzetes letartóztatás, szabadságvesztés tartama alatt, kivéve, ha a letartóztatottat az ellene emelt vád alól jogerősen felmentették, vagy a büntetőeljárást megszüntették, továbbá, ha az elítéltet utóbb a bíróság jogerősen felmentette,
+- d) a letartóztatás tartama alatt, kivéve, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette; továbbá a szabadságvesztés tartama alatt, kivéve, ha az elítéltet utóbb a bíróság jogerősen felmentette,
 - e) az ügyvédi tevékenység szünetelésének ideje alatt, a közjegyző, a szabadalmi ügyvivő kamarai tagságának szüneteltetése alatt,
 - f) az egyéni vállalkozói tevékenység szünetelésének ideje alatt,
 - g) az állat-egészségügyi szolgáltató tevékenységet végző állatorvos tevékenységének szünetelése alatt,
@@ -207,7 +207,7 @@ Tbj. 15. § (1) Baleseti ellátásra, baleseti hozzátartozói nyugellátásra j
 
 - a) nevelési-oktatási és felsőoktatási intézmény, iskola, iskolarendszeren kívüli oktatásban gyakorlati képzésben részesülő tanulója, hallgatója, ide nem értve a külföldi állampolgárt,
 - b) szocioterápiás intézetben gyógykezelt elmebeteg, illetőleg szenvedélybeteg,
-- c) őrizetbe vett, előzetesen letartóztatott, elzárásra utalt, szabadságvesztés büntetést töltő személy,
+- c) letartóztatott, szabadságvesztést, elzárást, tölt, továbbá akinek őrizetét rendelték el,
 - d) közcélú munkát végez, különösen, aki életmentés, baleset-, illetőleg katasztrófa-elhárítás vagy véradás során szenved, balesetet vagy egészségkárosodást.
 - e) közérdekű munkát végez,
 - f) külön törvény alapján közérdekű önkéntes tevékenységet végez.
@@ -644,7 +644,7 @@ Tbj. 42. § (1) Az igazgatási szervek a nyilvántartási rendszerben az alábbi
 
 (3) Az igazgatási szerv, valamint a társadalombiztosítási feladatokat ellátó foglalkoztatók és egyéb szervek nem társadalombiztosítási szerv és természetes személy részére adatot csak törvény, illetve törvény felhatalmazása alapján – a felhasználás céljának és jogalapjának egyidejű megjelölése mellett – jogszabályban meghatározott módon szolgáltathatnak.
 
-(4) A bíróságok, az ügyészségek, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
+(4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
 (5) A szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek, valamint a Magyarország által kötött nemzetközi egyezmények alapján egészségbiztosítási jogosultságokat igazoló nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 

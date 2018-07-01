@@ -548,7 +548,7 @@ a szolgáltatást korlátozni. A korlátozás általános feltételeit a kormán
 - a) a számlázási és forgalmazási jogviták rendezésére jogszabály alapján jogosult szervezetek részére;
 - b) az engedélyes megbízása alapján a számlázást, a követelések kezelését, a forgalmazás kezelését, a felhasználási helyek műszaki felülvizsgálatát, illetőleg az ügyfélszolgálati tájékoztatást végző természetes személynek és gazdálkodó szervezetnek;
 - c) a Hivatalnak;
-- d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, nyomozó hatóságoknak, az ügyésznek, valamint a bíróságnak;
+- d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas bűncselekmények üldözése céljából az arra hatáskörrel rendelkező nemzetbiztonsági szerveknek, bíróságnak, ügyészségnek, nyomozó hatóságnak;
 - e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak;
 - f) az energiafelhasználási támogatás megállapításával, illetőleg jogszerű igénybevételének ellenőrzésével összefüggő feladatokat külön jogszabály alapján ellátó szervnek. Az a)–c) és e)–f) pontok esetében az átadásról, illetőleg az átadott adatokról az érintettet egyidejűleg tájékoztatni kell.
 

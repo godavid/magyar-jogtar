@@ -143,6 +143,8 @@ indokolás nélkül felmondhatja.
 
 8. § (1) A járműnyilvántartásban szereplő gépjárművek vonatkozásában a fennálló biztosítás által érintett biztosítót az e törvényben előírt feladatainak ellátása céljából, a gépjármű forgalomból történő kivonásának, a gépjármű első és ismételt forgalomba helyezésének, valamint a gépjármű tulajdonjogát érintő változásnak – ideértve a régi tulajdonos (átruházó) külön jogszabályban meghatározott, tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettsége teljesítésének időpontját is – járműnyilvántartásba történő bejegyzéséről, továbbá az üzemben tartó és a járműnyilvántartásba bejegyzett üzemben tartó személyét érintő változás járműnyilvántartásba történő bejegyzéséről – e tény járműnyilvántartásba történő bejegyzésével egyidejűleg – a kötvénynyilvántartó szerv elektronikus úton értesíti, amely értesítést a biztosító a feladatai ellátása során figyelembe veszi.
 
+(1a) Az ideiglenes rendszámtáblák nyilvántartásában szereplő gépjárművek vagy rendszámok vonatkozásában a fennálló biztosítás által érintett biztosítót az e törvényben előírt feladatainak ellátása céljából az ideiglenes rendszámtáblák kiadásának, érvényességi ideje kezdetének és végének, továbbá a visszavonásának a nyilvántartásába történő bejegyzéséről a kötvénynyilvántartó szerv elektronikus úton értesíti, amely értesítést a biztosító a feladatai ellátása során figyelembe vesz.
+
 (2) A járműnyilvántartásban nem szereplő gépjármű üzemben tartója a hatósági engedély visszavonását, a tulajdonjog átruházását, illetve az üzemben tartó változását igazoló okiratot, a forgalomban történő részvétel végleges megszüntetését tanúsító nyilatkozatát köteles a biztosítónál 15 napon belül bemutatni.
 
 (3) A biztosító köteles – a díjnemfizetéssel történő megszűnés esetének kivételével – a biztosítási szerződés megszűnésének tényéről és a megszűnt szerződés külön rendeletben meghatározott bonus-malus besorolásáról a megszűnést, illetve az arról történt tudomásszerzést követő 30 napon belül az üzemben tartót írásban tájékoztatni.
@@ -596,7 +598,7 @@ változás következik be.
 
 (1a) A biztosítási fedezet fennállásának az ellenőrzésre jogosult hatóság – a 44. §-ban meghatározott, azonban az (1) bekezdésben nem említett – eljárása során történő tanúsítására a gépjárművek kötelező gépjármű-felelősségbiztosítási fedezetének fennállását tanúsító igazolóeszközökre vonatkozó szabályokról szóló miniszteri rendeletben meghatározott igazolóeszköz szolgál.
 
-(2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi negyedéves összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes járási hivatal a külön jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – a gépjárművet kivonja a forgalomból.
+(2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes járási hivatal a külön jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – a gépjárművet kivonja a forgalomból.
 
 (2a) A járási hivatal kötelezi a biztosítót, hogy a gépjármű forgalomba történő visszahelyezésének költségeit az üzemben tartó részére térítse meg, ha a (2) bekezdés szerinti eljárás lefolytatására azért került sor, mert a biztosító a kötvénynyilvántartó szervet határidőn belül nem, vagy – a biztosító érdekkörében felmerült okból – tévesen értesítette.
 
@@ -606,12 +608,12 @@ változás következik be.
 
 ### Kötvénynyilvántartás
 
-46. § (1) A kötvénynyilvántartó szerv a biztosítási fedezet meglétének ellenőrzése, a káresettel kapcsolatos igények, megtérítési követelések érvényesítéséhez szükséges adatok szolgáltatása, a gépjárművekkel kapcsolatban e törvényben előírt feladatok ellátása céljából nyilvántartást vezet a járműnyilvántartásban szereplő gépjárművekre megkötött biztosítás igazoló okirataiban szereplő adatokról és a kockázatviselésnek a (2) bekezdés e) pontjában meghatározott adatairól (kötvénynyilvántartás).
+46. § (1) A kötvénynyilvántartó szerv a biztosítási fedezet meglétének ellenőrzése, a káresettel kapcsolatos igények, megtérítési követelések érvényesítéséhez szükséges adatok szolgáltatása, a gépjárművekkel kapcsolatban e törvényben előírt feladatok ellátása céljából nyilvántartást vezet a járműnyilvántartásban szereplő gépjárművekre, valamint az ideiglenes rendszámtáblák nyilvántartásában szereplő gépjárművekre vagy rendszámokra megkötött biztosítás igazoló okirataiban szereplő adatokról és a kockázatviselésnek a (2) bekezdés e) pontjában meghatározott adatairól (kötvénynyilvántartás).
 
-(2) A kötvénynyilvántartás tartalmazza a szerződő üzemben tartó, a gépjármű és a szerződés alább felsorolt adatait:
+(2) A kötvénynyilvántartás tartalmazza a szerződő üzemben tartó, a gépjármű, a rendszám és a szerződés következő adatait:
 
 - a) a szerződő üzemben tartó nevét (jogi személy vagy egyéni vállalkozó, egyéni cég nevét, továbbá cégjegyzékszámát, illetve nyilvántartási számát), születési helyét, születési idejét, anyja nevét és lakcímét (székhelyét, telephelyét);
-- b) a gépjármű hatósági jelzését (rendszámát) és alvázszámát;
+- b) a gépjármű rendszámát és alvázszámát, egy adott gépjárműhöz nem köthető ideiglenes rendszámra kötött biztosítási szerződés esetén a rendszámot, valamint az ideiglenes rendszám kiadásának évét;
 - c) rendszámváltozás esetén annak időpontját és a korábbi rendszámot;
 - d) a biztosító nevét, a biztosítást igazoló okirat számát;
 - e) a kockázatviselés – ha a biztosítás szünetelés idején jön létre, úgy a biztosítási időszak – kezdetének időpontját, megszűnése esetén annak dátumát és a megszűnés okát.
@@ -633,7 +635,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - f) a 46. § (2) bekezdésében foglalt adatok tekintetében – törvényben meghatározott pénzügyi felügyeleti, ellenőrzési eljárások lefolytatása céljából – a Felügyelet, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - g) a 46. § (2) bekezdésében foglalt adatok tekintetében – törvényben meghatározott igazságszolgáltatási eljárások lefolytatása céljából – a bíróság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - h) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása, törvényességi felügyeleti eljárásának lefolytatása céljából – az ügyészség, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
-- i) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
+- i) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság és az előkészítő eljárást folytató szerv, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - j) a 46. § (2) bekezdésében foglalt adatok tekintetében – nemzetbiztonsági védelem, felderítés vagy elhárítás, információszerzés, illetve a nemzetbiztonsági vagy iparbiztonsági ellenőrzés céljából – a nemzetbiztonsági szolgálatok, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - k) a 46. § (2) bekezdésében foglalt adatok tekintetében – törvényben meghatározott szabálysértési hatósági eljárások lefolytatása, illetve közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a rendőrség, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 - l) a 46. § (2) bekezdésében foglalt adatok tekintetében közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából
@@ -652,7 +654,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 
 (5) Az (1) bekezdés b)–m) pontjaiban meghatározott adatigénylők részére történő adatszolgáltatás díjmentes.
 
-48. § (1) A kötvénynyilvántartó szerv negyedévenként köteles a járműnyilvántartás és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzemben tartók adatait tartalmazó listát, majd a 45. § (2) és (3) bekezdésében meghatározott eljárás lefolytatása érdekében az üzemben tartó lakóhelye (székhelye, telephelye) szerinti illetékes járási hivatal részére továbbítani.
+48. § (1) A kötvénynyilvántartó szerv legalább havonta köteles a járműnyilvántartás, az ideiglenes rendszámtáblák nyilvántartása és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzemben tartók adatait tartalmazó listát, és azt a 45. § (2) bekezdésében meghatározott eljárás lefolytatása érdekében az üzemben tartó lakóhelye (székhelye, telephelye) szerinti illetékes járási hivatal részére továbbítani.
 
 (2) Az (1) bekezdésben meghatározottak szerinti összekapcsolás útján létrejött adatállomány más célra nem használható fel és azt az eljárási feladatok elvégzése után 90 nappal törölni kell.
 
@@ -666,7 +668,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 
 (2) A kötvénynyilvántartásból nem vagy csak részlegesen szolgáltatható adat, ha az arra jogosult az adatszolgáltatást az állam külső és belső biztonsága, így különösen honvédelmi, nemzetbiztonsági, bűnmegelőzési, bűnüldözési érdekből törvény rendelkezése alapján korlátozta vagy megtiltotta. A korlátozásról, tiltásról, illetve azok feloldásáról a nyilvántartó szervet értesíteni kell.
 
-(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség vagy nyomozó hatóság, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kötvénynyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
+(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kötvénynyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
 
 50/A. § A kötvénynyilvántartó szerv által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
 
@@ -708,7 +710,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - c) a (4) bekezdésben foglalt adatok tekintetében – törvényben meghatározott pénzügyi felügyeleti, ellenőrzési feladatok ellátása céljából – a Felügyelet;
 - d) a (4) bekezdésben foglalt adatok tekintetében – törvényben meghatározott igazságszolgáltatási feladatok ellátása céljából – a bíróság;
 - e) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása, törvényességi felügyeleti eljárásának lefolytatása céljából – az ügyészség;
-- f) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság;
+- f) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság és az előkészítő eljárást folytató szerv;
 - g) a (4) bekezdésben foglalt adatok tekintetében – nemzetbiztonsági védelem, felderítés vagy elhárítás, információszerzés, illetve a nemzetbiztonsági vagy iparbiztonsági ellenőrzés céljából – a nemzetbiztonsági szolgálatok;
 - h) a (4) bekezdésben foglalt adatok tekintetében – törvényben meghatározott szabálysértési hatósági eljárások lefolytatása, illetve közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a rendőrség;
 - i) a (4) bekezdésben foglalt adatok tekintetében – közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a közlekedési igazgatási hatóság
@@ -735,7 +737,7 @@ részére.
 
 (2) A kártörténeti nyilvántartásból nem vagy csak részlegesen szolgáltatható adat, ha az arra jogosult az adatszolgáltatást az állam külső és belső biztonsága, így különösen honvédelmi, nemzetbiztonsági, bűnmegelőzési, bűnüldözési érdekből törvény rendelkezése alapján korlátozta vagy megtiltotta. A korlátozásról, tiltásról, illetve azok feloldásáról a nyilvántartó szervet értesíteni kell.
 
-(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség vagy nyomozó hatóság, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kárnyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
+(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kárnyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
 
 ### Az Információs Központ feladatai
 

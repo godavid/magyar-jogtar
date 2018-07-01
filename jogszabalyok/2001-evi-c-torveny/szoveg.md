@@ -121,7 +121,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (3)
 
-11/A. § Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
+11/A. § Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
 
 11/B. § Az e törvény hatálya alá tartozó hatósági eljárásokban a döntés akkor is módosítható vagy visszavonható, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
 
@@ -317,7 +317,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (8)–(9)
 
-(10) Megalapozott kétség esetén az eljáró hatóság megkeresi a származási tagállam illetékes hatóságát annak tisztázása érdekében, hogy a kérelmezővel szemben a szakmagyakorlásával összefüggésben fegyelmi büntetést szabtak-e ki, hoztak-e rá nézve a büntetőjogi felelősségét megállapító jogerős ítéletet, vagy hogy tudomást szerezzen bármely egyéb olyan körülményről, amely az e törvény alapján gyakorolt tevékenységek tekintetében következményekkel járhat.
+(10) Megalapozott kétség esetén az eljáró hatóság megkeresi a származási tagállam illetékes hatóságát annak tisztázása érdekében, hogy a kérelmezővel szemben a szakmagyakorlásával összefüggésben fegyelmi büntetést szabtak-e ki, hoztak-e rá nézve a büntetőjogi felelősségét megállapító jogerős ügydöntő határozatot, vagy hogy tudomást szerezzen bármely egyéb olyan körülményről, amely az e törvény alapján gyakorolt tevékenységek tekintetében következményekkel járhat.
 
 ### A szakmai cím és a képzés sikeres elvégzését tanúsító okirat által tanúsított cím használata
 
@@ -672,7 +672,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 ### X/B. Fejezet — KÖZIGAZGATÁSI EGYÜTTMŰKÖDÉS
 
-54. § (1) Az a hazai eljáró hatóság, amelynek a határon átnyúló szolgáltatási tevékenységet a szolgáltatásnyújtónak be kell jelentenie, megalapozott kétség esetén megkeresheti a származási tagállam illetékes hatóságát határon átnyúló szolgáltatásnyújtás esetében, tájékoztatást kérve a szolgáltatásnyújtó letelepedésének jogszerűségére és megfelelő szakmagyakorlására vonatkozóan. A megkeresés azzal a céllal is történhet, hogy az eljáró hatóság információt szerezzen arról, hogy a határon átnyúló szolgáltatást nyújtóval szemben nem szabtak-e ki a szakmagyakorlásával összefüggésben fegyelmi büntetést, vagy nem hoztak-e a büntetőjogi felelősségét megállapító jogerős ítéletet, amennyiben a megkeresett hatóság rendelkezik ezekről információval.
+54. § (1) Az a hazai eljáró hatóság, amelynek a határon átnyúló szolgáltatási tevékenységet a szolgáltatásnyújtónak be kell jelentenie, megalapozott kétség esetén megkeresheti a származási tagállam illetékes hatóságát határon átnyúló szolgáltatásnyújtás esetében, tájékoztatást kérve a szolgáltatásnyújtó letelepedésének jogszerűségére és megfelelő szakmagyakorlására vonatkozóan. A megkeresés azzal a céllal is történhet, hogy az eljáró hatóság információt szerezzen arról, hogy a határon átnyúló szolgáltatást nyújtóval szemben nem szabtak-e ki a szakmagyakorlásával összefüggésben fegyelmi büntetést, vagy nem hoztak-e a büntetőjogi felelősségét megállapító jogerős ügydöntő határozatot, amennyiben a megkeresett hatóság rendelkezik ezekről információval.
 
 (2) Az (1) bekezdésben foglalt rendelkezések mellett az előzetes ellenőrzést végző hatóság a megkeresés keretében a közegészségre vagy a közbiztonságra nézve veszélyt jelentő lényeges eltérések felmérése céljából tájékoztatást kérhet a szolgáltatásnyújtó által elvégzett képzés tartalmáról.
 
@@ -691,7 +691,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 - c) a felfüggesztő vagy eltiltó döntést meghozó hazai hatóság vagy bíróság adatait és
 - d) a felfüggesztés vagy eltiltás időbeli hatályát.
 
-(4) A külön jogszabályban kijelölt hatóság azon személy természetes személyazonosító adatait, akiről bíróság megállapította, hogy e törvény szerinti elismerési eljárás során közokirat-hamisítás bűncselekményét követte el, a belső piaci információs rendszeren keresztül a közokirat-hamisítást megállapító ítélet jogerőre emelkedésétől számított három napon belül megküldi a többi tagállam illetékes hatóságának.
+(4) A külön jogszabályban kijelölt hatóság azon személy természetes személyazonosító adatait, akiről bíróság megállapította, hogy e törvény szerinti elismerési eljárás során közokirat-hamisítás bűncselekményét követte el, a belső piaci információs rendszeren keresztül a közokirat-hamisítást megállapító ügydöntő határozat jogerőre emelkedésétől számított három napon belül megküldi a többi tagállam illetékes hatóságának.
 
 (5) A riasztási mechanizmusban közreműködő hatóság a (3) bekezdés szerinti adatok megadásával a belső piaci információs rendszeren keresztül a többi tagállam illetékes hatóságát haladéktalanul tájékoztatja arról, ha a szakma gyakorlásától eltiltó vagy a szakmagyakorlási jogot felfüggesztő döntés időtartama letelt, vagy ha a felfüggesztő döntés időtartama megváltozott.
 
@@ -881,7 +881,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 68/A. § E törvénynek az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított 67. § (7) bekezdésében meghatározott tájékoztatást első alkalommal 2016. január 18-ig kell az Európai Bizottságnak megadni.
 
-68/B. § Ha a bíróság, illetve az ügyész az eljárása során megállapítja, hogy az Ákr. 123. § (1) bekezdés d) és e) pontja alapján a közigazgatási határozat megsemmisítésének van helye, a bűncselekmény elkövetését megállapító jogerős bírósági ítéletről vagy ügyészi határozatról a közigazgatási határozatot meghozó eljáró hatóságot haladéktalanul tájékoztatja.
+68/B. § Ha a bíróság, illetve az ügyész az eljárása során megállapítja, hogy az Ákr. 123. § (1) bekezdés d) és e) pontja alapján a közigazgatási határozat megsemmisítésének van helye, a bíróság a jogerős ügydöntő határozatról, illetve az ügyészség a feltételes ügyészi felfüggesztésről szóló határozatról a közigazgatási határozatot meghozó eljáró hatóságot haladéktalanul tájékoztatja.
 
 68/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 

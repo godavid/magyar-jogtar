@@ -321,7 +321,7 @@ kerülhet sor.
 - h) az utógondozói ellátás elrendelése,
 - i) a megelőző pártfogás elrendelése.
 
-(5) A gyermekvédelmi rendszer része a bíróság által javítóintézeti nevelésre utalt, illetve előzetes letartóztatásba helyezett fiatalkorúak javítóintézeti ellátása. A fiatalkorúak javítóintézeti neveléséről külön törvény rendelkezik.
+(5) A gyermekvédelmi rendszer része a bíróság által javítóintézeti nevelésre utalt, illetve letartóztatásba helyezett fiatalkorúak javítóintézeti ellátása. A fiatalkorúak javítóintézeti neveléséről külön törvény rendelkezik.
 
 (6) A gyermekjóléti és gyermekvédelmi rendszerben foglalkoztatottakat – a külön jogszabályban meghatározott munkakörükkel összefüggésben – megilleti az a jog, hogy személyüket megbecsüljék, emberi méltóságukat és személyiségi jogaikat tiszteletben tartsák, tevékenységüket értékeljék és elismerjék.
 
@@ -2018,7 +2018,7 @@ a nevelőszülőnek a végkielégítés megállapítását megelőző három év
 (2) A VII/A. Fejezet, a 135. és a 139/A. § alkalmazásában
 
 - a) javítóintézetben nevelt fiatalkorú: a bíróság ítélete alapján javítóintézeti nevelés intézkedés hatálya alatt álló fiatalkorú,
-- b) javítóintézetben ellátott fiatalkorú: az a) pont szerinti, valamint az előzetes letartóztatás végrehajtása érdekében javítóintézetben elhelyezett fiatalkorú.
+- b) javítóintézetben ellátott fiatalkorú: az a) pont szerinti, valamint a letartóztatás végrehajtása érdekében javítóintézetben elhelyezett fiatalkorú.
 
 (3) A javítóintézetben a fiatalkorúak nevelését, ellátását legfeljebb tizenkettő fős csoportokban kell biztosítani. Az értelmi fogyatékossággal élő, szenvedélybeteg vagy súlyos beilleszkedési zavarokkal, személyiségzavarokkal küzdő fiatalkorúak számára létrehozott speciális csoportokban legfeljebb nyolc fő helyezhető el.
 
@@ -2183,7 +2183,7 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 ### A megelőző pártfogás elrendelése
 
-68/D. § (1) A gyámhatóság a bűncselekmény vagy az elzárással is sújtható szabálysértés elkövetése miatt indult védelembe vétel iránti eljárásban, vagy a már fennálló védelembe vétel mellett a nyomozó hatóságnak a bűncselekmény vagy a szabálysértési hatóságnak a szabálysértés elkövetéséről tájékoztató, a gyámhatóság felé tett jelzését követően megkeresi a pártfogó felügyelői szolgálatot környezettanulmány és a gyermek veszélyeztetettségének bűnmegelőzési szempontú kockázatértékelése (a továbbiakban: kockázatértékelés) beszerzése céljából.
+68/D. § (1) A gyámhatóság a bűncselekmény vagy az elzárással is sújtható szabálysértés elkövetése miatt indult védelembe vétel iránti eljárásban, vagy a már fennálló védelembe vétel mellett az ügyészségnek, a nyomozó hatóságnak a bűncselekmény vagy a szabálysértési hatóságnak a szabálysértés elkövetéséről tájékoztató, a gyámhatóság felé tett jelzését követően megkeresi a pártfogó felügyelői szolgálatot környezettanulmány és a gyermek veszélyeztetettségének bűnmegelőzési szempontú kockázatértékelése (a továbbiakban: kockázatértékelés) beszerzése céljából.
 
 (2) A gyámhatóság a megkereséssel egyidejűleg megküldi a pártfogó felügyelői szolgálatnak a már fennálló védelembe vétel elrendeléséről szóló határozatot és a gyermekjóléti központ megelőző pártfogás elrendelésére vonatkozó javaslatát.
 
@@ -2211,7 +2211,7 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 - a) a pártfogó felügyelői szolgálatnak a megelőző pártfogó felügyelő kijelölése végett,
 - b) tájékoztatásul
-  - ba) a bűncselekmény elkövetése miatt a fiatalkorúval szemben indult büntetőeljárásban eljáró és jelzést tevő nyomozó hatóságnak, vagy
+  - ba) a bűncselekmény elkövetése miatt a büntetőeljárásban eljáró és jelzést tevő ügyészségnek, nyomozó hatóságnak, vagy
   - bb) az elzárással is sújtható szabálysértés elkövetéséről jelzést tevő szabálysértési hatóságnak.
 
 (9) A gyámhatóság – kérelemre és a megelőző pártfogó felügyelő vagy a gyermekjóléti központ javaslatára bármikor, hivatalból legalább évente – felülvizsgálja a megelőző pártfogás alatt álló gyermek védelembe vétele és megelőző pártfogása fenntartásának indokoltságát. A megelőző pártfogó felügyelő akkor javasolhatja a megelőző pártfogás megszüntetését, ha a gyermek legalább fél éve fennálló megelőző pártfogása eredményesen eltelt, célja megvalósult és a gyermek magatartása kedvező irányba változott. A megelőző pártfogás megszüntetésére a gyermek magatartásának kedvező irányú változása esetén a gyermekjóléti központ is tehet javaslatot.
@@ -2368,7 +2368,7 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 - a) felügyelet nélkül marad, vagy testi, értelmi, érzelmi és erkölcsi fejlődését családi környezete vagy önmaga súlyosan veszélyezteti, és emiatt azonnali elhelyezése szükséges, a gyámhatóság, valamint a rendőrség, az idegenrendészeti hatóság, a menekültügyi hatóság, az ügyészség, a bíróság, a büntetés-végrehajtási intézet parancsnoksága (a továbbiakban: beutaló szerv) a gyermeket azonnal végrehajtható határozatával ideiglenesen
   - aa) a nevelésére alkalmas, azt vállaló különélő szülőnél, más hozzátartozónál, illetve személynél helyezi el, vagy
   - ab) ha az aa) alpontban foglaltak alkalmazására nincs lehetőség, 1. a tizenkettedik életévét be nem töltött gyermek esetén minden esetben a legközelebbi ideiglenes hatállyal elhelyezett gyermekek ellátását is biztosító nevelőszülőnél helyezi el, kivéve, ha egészségi vagy személyiségállapota, ön- és közveszélyes magatartása ezt nem teszi lehetővé vagy más okból szükséges az intézményes elhelyezés biztosítása, 2. a tizenkettedik életévét betöltött gyermek esetén lehetőség szerint a legközelebbi ideiglenes hatállyal elhelyezett gyermekek ellátását is biztosító nevelőszülőnél, vagy ha erre nincs lehetőség vagy azt a gyermek egészségi vagy személyiségállapota, ön- és közveszélyes magatartása indokolja vagy más okból szükséges az intézményes elhelyezés biztosítása, – az ideiglenes hatályú elhelyezés biztosítására is kijelölt – gyermekotthonban, gyermekotthon speciális csoportjában, speciális lakásotthonban, fogyatékos személyek vagy pszichiátriai betegek otthonában helyezi el; vagy
-- b) érdekében áll az anya előzetes letartóztatásának elrendelése esetén az anyával történő együttes elhelyezése, az előzetes letartóztatás elrendeléséről szóló határozat meghozatalakor a bíróság a gyermeket azonnal végrehajtható határozatával, ideiglenesen, az anya fogvatartásának helye szerint a büntetés-végrehajtási intézet anya-gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén helyezi el.
+- b) érdekében áll az anya letartóztatásának elrendelése esetén az anyával történő együttes elhelyezése, a letartóztatás elrendeléséről szóló határozat meghozatalakor a bíróság a gyermeket ideiglenesen, az anya fogvatartásának helye szerint a büntetés-végrehajtási intézet anya-gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén helyezi el.
 
 (1a) A beutaló szerv a gyermek ideiglenes hatályú elhelyezéséről haladéktalanul értesíti a gyámhatóságot vagy külföldi állampolgárságú gyermek esetében – ide nem értve a 4. § (1) bekezdés b) pontja szerinti személyt – a Kormány által kijelölt gyámhatóságot.
 
@@ -2591,7 +2591,7 @@ egy eljárás keretében, negyvenöt napon belül, azonnal végrehajthatóvá ny
 - a) kórházi kezelés alatt áll,
 - b) kollégiumban van,
 - c) tanulmányai folytatása, illetve üdülés céljából harminc napot meghaladóan külföldön tartózkodik,
-- d) előzetes letartóztatásban van, illetve szabadságvesztését vagy egyéb büntetését tölti, vagy
+- d) letartóztatásban van, illetve szabadságvesztését vagy egyéb büntetését tölti, vagy
 - e) a gyermek örökbefogadásának előkészítése során a szülő-gyermek kapcsolat kialakulása érdekében a kötelező gondozásba kihelyezést megelőzően az örökbe fogadni szándékozóknál tartózkodik.
 
 (6) A gyermek tartózkodási helyét, illetve annak megváltoztatását – az (5) bekezdés a) és d) pontjának kivételével – a gyermekvédelmi gyám bejelenti a gyámhatóságnak, és kéri annak jóváhagyását. Az (5) bekezdés a) és d) pontjában meghatározott esetekben a gyermekvédelmi gyám értesíti a gyámhatóságot a gyermek tartózkodási helye megváltozásáról.
@@ -3031,7 +3031,7 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 - e) az ellátásra köteles helyi önkormányzat és az állam fenntartói feladatait ellátó szerv ellátásszervezési feladataik ellátása céljából,
 - f) a kincstár és az állami támogatást megállapító, folyósító vagy ellenőrző más szerv az állami támogatás megállapítása és ellenőrzése céljából,
 - g) a minisztérium a gyermekvédelmi ágazati irányítási tevékenység ellátása céljából,
-- h) a rendőrség, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
+- h) a rendőrség, a nyomozó hatóság, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
 
 (8)
 
@@ -3158,7 +3158,7 @@ feltéve, ha – az országos gyermekvédelmi szakértői bizottság véleménye
 
 (4) A miniszter a Kormány rendeletében kijelölt szerv útján megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – a Kormány rendeletében kijelölt szerv gyermekotthont, kizárólag menekültként, oltalmazottként vagy menedékesként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthont, ideiglenes befogadó férőhelyet, tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhelyet tart fenn, vagy a feladat biztosítása érdekében ellátási szerződést köt.
 
-(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda előzetes letartóztatásba helyezett fiatalkorú bűnelkövetők nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
+(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
 (6)
 
@@ -3624,7 +3624,7 @@ adatainak a kezelésére.
 
 (4) A gyermekjóléti központ, a gyámhatóság, a pártfogó felügyelői szolgálat, a megelőző pártfogó felügyelő a 15. § (2)–(4) bekezdésében meghatározott ellátások nyújtása vagy intézkedések alkalmazása során a (2) bekezdésben meghatározott adatokon túl
 
-- a) a gyermek által megvalósított, a fiatalkorú által elkövetett bűncselekményre és szabálysértésre,
+- a) a gyermek, a fiatalkorú által elkövetett bűncselekményre és szabálysértésre,
 - b) a szülő vagy más törvényes képviselő által a gyermek sérelmére elkövetett bűncselekményre,
 - c) a Polgári Törvénykönyv szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra
 
@@ -3788,7 +3788,7 @@ vonatkozó adatokat kezelhet.
 (2) A gyermek személyazonosító adatai, továbbá az egészségi állapotára és vagyoni viszonyaira vonatkozó adatok továbbíthatók
 
 - a) a szociális hatáskört gyakorló szervnek a szociális ellátás megállapítása,
-- b) a rendőrségnek, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
+- b) a rendőrségnek, a nyomozó hatóságnak, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
 - c) a külföldi hatóságnak, illetve bíróságnak családi jogállás, gyermektartás, kapcsolattartás, gyámság, örökbefogadás, a gyermek érdekében tett ideiglenes intézkedés, valamint a gyermek jogellenes külföldre vitelének megszüntetése céljából,
 - d) a minisztériumnak, a gyermekvédelmi ágazati irányítási tevékenység és a külön jogszabályban meghatározott központi hatósági feladatok ellátása
 
@@ -3803,7 +3803,7 @@ vonatkozó adatokat kezelhet.
 
 (5) A gyámhatóság és a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi szolgáltató tevékenységet végző szervezet alkalmazottja és vezetője, a gyermek és az őt nevelő szülő vagy a gyermek törvényes képviselője tartózkodási helyére vonatkozóan megtagadhatja a szülő tájékoztatását, illetve korlátozhatja a szülő iratbetekintési jogát, ha
 
-- a) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett bűncselekmény miatt büntetőeljárás van folyamatban, annak jogerős befejezéséig,
+- a) a szülő a gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 - b) a szülő ellen gyermeke vagy a gyermeket nevelő másik szülő sérelmére elkövetett külön törvényben meghatározott hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozat vagy megelőző távoltartó határozat iránti eljárás van folyamatban, a távoltartás időtartamáig.
 
 (6) Az (5) bekezdés szerinti korlátozást a büntetőeljárás befejezésekor felül kell vizsgálni.
@@ -3916,7 +3916,7 @@ vonatkozó adatokat kezelhet.
 - c) a fiatalkorú és a vele együttesen elhelyezett gyermeke ügyében eljáró gyámhatóságnak, és
 - d) a kincstár részére, a finanszírozásának ellenőrzése céljából.
 
-(3a) A bíróság vagy az ügyész értesítése alapján a javítóintézet nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 1998. évi XIX. törvény 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben, a javítóintézetben ellátott fiatalkorú szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
+(3a) A bíróság vagy az ügyészség értesítése alapján a javítóintézet nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 2017. évi XC. törvény 52. §-a alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben, a javítóintézetben ellátott fiatalkorú szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
 
 (3b) A (3a) bekezdés alapján a következő személyes adatokat kell nyilvántartani:
 
@@ -4570,7 +4570,7 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 168. §
 
-169. § A gyámhatóság a megelőző pártfogást a 2014. december 31-ét követően a nyomozó hatóságnak a bűncselekmény vagy a szabálysértési hatóságnak az elzárással is sújtható szabálysértés elkövetéséről beérkezett jelzése alapján rendeli el.
+169. § A gyámhatóság a megelőző pártfogást a 2014. december 31-ét követően az ügyészségnek, illetve a nyomozó hatóságnak a bűncselekmény vagy a szabálysértési hatóságnak az elzárással is sújtható szabálysértés elkövetéséről beérkezett jelzése alapján rendeli el.
 
 170. § (1) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 22. § (3) bekezdését és 24. § (9) bekezdését a 2015. január 1-jén folyamatban lévő ügyben is alkalmazni kell.
 

@@ -174,7 +174,7 @@ a közjegyzőkről
 
 - a) aki büntetett előéletű,
 - b) aki jogi képesítéshez kötött foglalkozástól eltiltás hatálya alatt áll,
-- c) akinek a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította, függetlenül attól, hogy mentesült-e az elítéléshez fűződő hátrányos jogkövetkezmények alól,
+- c) akinek a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ügydöntő határozatban megállapította, függetlenül attól, hogy mentesült-e az elítéléshez fűződő hátrányos jogkövetkezmények alól,
   - ca) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
   - cb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - cc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
@@ -294,7 +294,7 @@ a közjegyzőkről
 
 - a) a 22. § (1) bekezdés a) és c) pontjában meghatározott esetekben, valamint ha a közjegyzői szolgálat megszűnésére azért kerül sor, mert a közjegyző betölti a megszűnési okként megjelölt kort, a közjegyzői szolgálat megszűnésének időpontjától kezdődően,
 - b) attól az időponttól kezdődően, amelytől a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
-- c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ítélet jogerőre emelkedésének napjától kezdődően,
+- c) a 17. § (3) bekezdés b), c) vagy d) pontjában meghatározott körülmény bekövetkezését megállapító bírósági ügydöntő határozat jogerőre emelkedésének napjától kezdődően,
 - d) az azt követő naptól kezdődően, amelyen az összeférhetetlenség megszüntetésére irányuló kötelezettségét még – a mulasztás jogkövetkezményeinek alkalmazása nélkül – teljesíthette volna és
 - e) a 21. §-ban meghatározott eskütételt megelőzően.
 
@@ -656,7 +656,7 @@ foglalt kötelezettségek teljesítését.
 
 - a) a közjegyzőnél fennálló munkaviszonya megszűnt,
 - b) a 17. § (1) bekezdés a) vagy b) pontjában foglalt feltételeknek már nem felel meg,
-- c) a jogi képesítéshez kötött foglalkozás gyakorlásától a bíróság jogerős ítélettel eltiltotta,
+- c) a jogi képesítéshez kötött foglalkozás gyakorlásától a bíróság jogerős ügydöntő határozattal eltiltotta,
 - d) vele szemben a 17. § (3) bekezdés b)–d) pontjában meghatározott körülmény fennáll,
 - e) a hivatás gyakorlására érdemtelenné vagy alkalmatlanná nyilvánították,
 - f) a névjegyzékbe történő bejegyzés időpontjától számított 30 napon belül az összeférhetetlenséget nem szüntette meg, illetőleg ha a bejegyzést követően vele kapcsolatban összeférhetetlenségi ok keletkezett,
@@ -981,7 +981,7 @@ foglalt kötelezettségek teljesítését.
 
 81. § Fegyelmi bíróként vagy vizsgálóbiztosként nem járhat el
 
-- a) a közjegyző, ha ellene fegyelmi vagy büntetőeljárás van folyamatban, ennek jogerős befejezéséig, ha pedig az említett eljárás során a közjegyzőt elmarasztalják, fegyelmi bírói vagy vizsgálóbiztosi tisztsége megszűnik,
+- a) a közjegyző, ha fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll,, ha pedig az említett eljárás során a közjegyzőt elmarasztalják, fegyelmi bírói vagy vizsgálóbiztosi tisztsége megszűnik,
 - b) az a közjegyző, akire nézve a 4. §-ban vagy a 43. § (3) bekezdésében meghatározott kizáró ok áll fenn,
 - c) az a közjegyző, akinek tanúkénti meghallgatása szükségessé válhat,
 - d) az eljárás alá vont személy képviselője,
@@ -1140,11 +1140,11 @@ foglalt kötelezettségek teljesítését.
 
 ### A büntetőeljárással kapcsolatos rendelkezések
 
-105. § (1) A fegyelmi bíróságot bűncselekmény alapos gyanúja esetén feljelentési kötelezettség terheli.
+105. § (1) A fegyelmi bíróságot bűncselekmény gyanúja esetén feljelentési kötelezettség terheli.
 
-(2) A büntetőeljárás jogerős befejezéséig a fegyelmi eljárást fel kell függeszteni.
+(2) A büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig a fegyelmi eljárást fel kell függeszteni.
 
-(3) A büntető ügyben eljáró hatóság a közjegyző, a közjegyzőjelölt és a közjegyzőhelyettes ellen indított büntetőeljárásról és letartóztatásukról a területi elnökséget és a törvényszék elnökét értesíti. Az eljárást befejező jogerős határozatot kézbesíteni kell a területi elnökség, a törvényszék elnöke, a vizsgálóbiztos és a miniszter képviselője részére.
+(3) A büntetőügyben eljáró hatóság a közjegyző, a közjegyzőjelölt és a közjegyzőhelyettes ellen indított büntetőeljárásról és letartóztatásukról a területi elnökséget és a törvényszék elnökét értesíti. A bíróság jogerős ügydöntő határozatát vagy véglegessé vált nem ügydöntő végzését, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozatát kézbesíteni kell a területi elnökség, a törvényszék elnöke, a vizsgálóbiztos és a miniszter képviselője részére.
 
 ### Új eljárás kezdeményezése
 
@@ -1311,7 +1311,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 - a) a fél személyazonosság megállapításához adatot nem szolgáltatott,
 - b) ha a nyilvántartás adatai nem egyeznek meg a rendelkezésre bocsátott adatokkal vagy az igazolvány érvénytelen és a személyazonosság igazolása az (1) bekezdésben írt más módon sem lehetséges.
 
-(7) A közjegyző az ellenőrzés során megismert adatok papír alapú másolatát megőrizheti. A közjegyző a másolatot vagy külön jogszabály szerint őrzi meg, vagy az iratokhoz csatolja és elkülönítve zártan kezeli; a másolatot az ügy irattárba helyezésétől számított 5 évig tárolhatja, ezt követően megsemmisíti. Az adatokat a közjegyző csak a bíróság, az ügyész, a büntetőügyben eljáró hatóság és a közjegyző tevékenységét ellenőrző területi kamara részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést.
+(7) A közjegyző az ellenőrzés során megismert adatok papír alapú másolatát megőrizheti. A közjegyző a másolatot vagy külön jogszabály szerint őrzi meg, vagy az iratokhoz csatolja és elkülönítve zártan kezeli; a másolatot az ügy irattárba helyezésétől számított 5 évig tárolhatja, ezt követően megsemmisíti. Az adatokat a közjegyző csak a bíróság, az ügyészség, a nyomozó hatóság és a közjegyző tevékenységét ellenőrző területi kamara részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést.
 
 (8) Ha az ellenőrzés során a közjegyző azt állapítja meg, hogy az igazolvány elvesztését, ellopását vagy megsemmisülését bejelentették és megtalálásának vagy megkerülésének ténye nincs nyilvántartva, az igazolvány jogosulatlan felhasználásának megakadályozása céljából haladéktalanul értesíti az illetékes rendőrkapitányságot. A közjegyző bejelentési kötelezettségének teljesítése nem tekinthető a titoktartási kötelezettsége megsértésének.
 

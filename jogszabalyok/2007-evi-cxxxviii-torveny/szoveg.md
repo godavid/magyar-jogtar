@@ -2688,7 +2688,7 @@ rendelkezhet.
 116. § (1) Természetes személy függő ügynök az lehet, aki
 
 - a) a 22. § (6) bekezdésében foglaltak figyelembevételével igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű,
-- b) nem áll tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt,
+- b) nem áll tevékenységének megfelelő foglalkozástól eltiltó jogerős ügydöntő határozat hatálya alatt,
 - c) ellen a Felügyelet vagy más EGT-állam felügyeleti hatósága az elmúlt három évben, határozatában nem állapította meg a befektetési szolgáltatási tevékenységre vagy a kiegészítő szolgáltatásra, illetőleg az árutőzsdei szolgáltatásra vonatkozó jogszabályokban vagy jogszabály szerinti szabályzatokban foglaltak megsértését.
 
 (2) Gazdasági társaságként működő függő ügynökkel befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, illetőleg árutőzsdei szolgáltatás közvetítésére irányuló szerződés akkor köthető, ha ellene a Felügyelet vagy más EGT-állam felügyeleti hatósága az elmúlt három évben, határozatában nem állapította meg a befektetési szolgáltatási tevékenységre vagy a kiegészítő befektetési szolgáltatásra, illetőleg az árutőzsdei szolgáltatásra vonatkozó jogszabályokban vagy jogszabály szerinti szabályzatokban foglaltak megsértését.
@@ -2697,7 +2697,7 @@ rendelkezhet.
 
 (2) Az (1) bekezdés szerinti személyekről vezetett belső nyilvántartásba a befektetési vállalkozás, az árutőzsdei szolgáltató vagy a közvetítő azt a személyt jegyzi be, aki
 
-- a) büntetlen előéletű; és nem áll foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt,
+- a) büntetlen előéletű; és nem áll foglalkozástól eltiltó jogerős ügydöntő határozat hatálya alatt,
 - b) ellene a Felügyelet öt éven belül nem alkalmazott végleges nyilvános határozatban megállapított, figyelmeztetésnél súlyosabb szankciót;
 - c) rendelkezik az e törvényben meghatározott szakmai képesítéssel, illetve az e törvény felhatalmazása alapján kiadott MNB rendeletben meghatározott szakmai képességekkel és kompetenciákkal.
 
@@ -2730,9 +2730,9 @@ szemben.
 
 (2a) Nem jelenti az (1) bekezdésben foglalt titoktartási kötelezettség sérelmét a Hpt. 164/B. §-a szerinti adattovábbítás.
 
-(3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a hatáskörében eljáró,
+(3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn
 
-- a) a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
+- a) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 - b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal és
 - c) az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF)
 
@@ -2766,9 +2766,9 @@ szemben.
 - b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, központi szerződő féllel, központi értéktárral, az Áht. 63. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
-- e) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését folytató nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
+- e) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 - f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
-- g) külön törvényben meghatározott feltételek teljesülése esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+- g) külön törvényben meghatározott feltételek teljesülése esetén a titkos információgyűjtés folytatására feljogosított szervvel,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal,
 - j) a feladatkörében eljáró alapvető jogok biztosával, valamint
@@ -2776,7 +2776,7 @@ szemben.
 - l) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 - m) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
 
-szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett írásbeli megkeresése esetén.
+szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsdei szolgáltatóhoz intézett adatkérése vagy írásbeli megkeresése esetén.
 
 (4) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha
 
@@ -2808,7 +2808,7 @@ szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsde
 
 (11) A titoktartási kötelezettség alapján az értékpapírtitok körébe tartozó tény, információ, megoldás vagy adat, az e törvényben meghatározott körön kívül a befektetési vállalkozás, illetve az ügyfél felhatalmazása nélkül nem adható ki harmadik személynek, és feladatkörön kívül nem használható fel.
 
-119. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
+119. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a nemzetbiztonsági szolgálat, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére vagy írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
 
 - a) kábítószerrel való visszaéléssel,
 - b) terrorcselekménnyel,

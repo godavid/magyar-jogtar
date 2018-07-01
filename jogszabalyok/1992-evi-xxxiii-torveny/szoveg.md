@@ -176,9 +176,9 @@ személlyel létesíthető.
 
 (2d) Közalkalmazotti jogviszony nem létesíthető
 
-- a) a büntetőeljárás jogerős befejezéséig azzal, aki
+- a) azzal, aki
   - aa) a 2013. június 30-ig hatályban volt emberölés [1978. évi IV. törvény 166. § (2) bekezdés i) pont], öngyilkosságban való közreműködés [1978. évi IV. törvény 168. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (3) bekezdés e) pont], emberkereskedelem [1978. évi IV. törvény 175/B. § (2) bekezdés a) pont és (5) bekezdés], családi állás megváltoztatása [1978. évi IV. törvény 193. § (2) bekezdés b) pont], kiskorú veszélyeztetése [1978. évi IV. törvény 195. § (1)–(3) bekezdés], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás (1978. évi IV. törvény 201–202/A. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont], visszaélés kábítószerrel [1978. évi IV. törvény 282/B. § (1) bekezdés, (2) bekezdés a) és c) pont, 282/B. § (5) bekezdés és (7) bekezdés a) pont],
-  - ab) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem [Btk. 192. § (4) bekezdés a) pont, (5) és (6) bekezdés], kényszermunka [Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll,
+  - ab) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem [Btk. 192. § (4) bekezdés a) pont, (5) és (6) bekezdés], kényszermunka [Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] miatt büntetőeljárás hatálya alatt áll,
 - b) azzal, aki a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll, vagy
 - c) azzal, aki az a) pontban meghatározott bűncselekmények elkövetése miatt kényszergyógykezelés alatt áll.
 
@@ -1218,7 +1218,7 @@ megfelelő összeg illeti meg.
 - b) legalább hároméves közalkalmazotti jogviszonnyal rendelkezik;
 - c) felmentési vagy lemondási idejét nem tölti;
 - d)
-- e) nem áll – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás hatálya alatt, és
+- e) nem áll – a magánvádas vagy pótmagánvádas eljárás kivételével – büntetőeljárás hatálya alatt, és
 - f) az (1) bekezdés szerinti kezességvállalással biztosított hitelrészt a hitelintézetnek kiegyenlítette, illetve a vele közös háztartásban élő házas vagy élettárs – az igénylés időpontjában – állami kezességvállalással biztosított lakáscélú hitel törlesztésére nem kötelezett;
 - g) a kölcsönt nyújtó hitelintézet belső szabályai szerint – saját, illetve adóstársa jövedelmi helyzetét is figyelembe véve – a kölcsön teljes összegére vonatkozóan hitelképesnek bizonyul.
 
@@ -1336,7 +1336,7 @@ magasabb fizetési fokozatba kell besorolni.
 - c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
 - d)
 - e) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
-- f) a közalkalmazott ellen indult büntetőeljárásban a nyomozó hatóság, az ügyész és a bíróság,
+- f) a közalkalmazott ellen indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
 - g) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
 - h) az adóhatóság, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az üzemi baleseteket kivizsgáló szerv és a munkavédelmi szerv
 
@@ -1572,7 +1572,7 @@ eltöltött időt.
 
 (3) A Módtv. 1. § (13) bekezdésével megállapított – 80. § (2)–(4) bekezdésében foglaltakat a Módtv. hatálybalépése után esedékessé váló távolléti díjra kell alkalmazni.
 
-91/B. § E törvénynek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor fennálló közalkalmazotti jogviszonyra akkor kell alkalmazni, ha az 1. módosító törvény hatálybalépése után indul büntetőeljárás a 20. § (2d) bekezdés a) pontjában meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt.
+91/B. § E törvénynek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor fennálló közalkalmazotti jogviszonyra akkor kell alkalmazni, ha a gyanúsított kihallgatására az 1. módosító törvény hatálybalépését követően kerül sor.
 
 91/C. § (1) A pedagógiai szakszolgálati intézményben foglalkoztatott – külön jogszabályban meghatározott munkakört betöltő – közalkalmazottat az 57. § (3) bekezdése alkalmazásakor a 2014. július 1. és 2014. december 31. napja közti időszakra 15 munkanap pótszabadság illeti meg.
 
@@ -1580,7 +1580,7 @@ eltöltött időt.
 
 91/D. § Az egyes jogállási törvények módosításáról szóló 2014. évi LXXXV. törvény 1. §-ával megállapított 25/A–25/C. §-t a folyamatban lévő ügyekben is alkalmazni kell.
 
-91/E. § (1) E törvénynek az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvénnyel megállapított, a jogviszony létesítésére és fenntartására vonatkozó szabályait az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépésekor fennálló közalkalmazotti jogviszonyra akkor kell alkalmazni, ha az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után indul büntetőeljárás a 20. § (2) bekezdés d) pontjában meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt.
+91/E. § (1) E törvénynek az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvénnyel megállapított, a jogviszony létesítésére és fenntartására vonatkozó szabályait az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépésekor fennálló közalkalmazotti jogviszonyra akkor kell alkalmazni, ha a gyanúsított kihallgatására a 2015. évi XXXII. törvény hatálybalépését követően kerül sor.
 
 (2) Az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény szerinti tájékoztatási kötelezettség az egyes jogállási tárgyú törvények módosításáról szóló 2015. évi XXXII. törvény hatálybalépése után közölt megalapozott gyanú esetében áll fenn.
 

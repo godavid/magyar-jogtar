@@ -248,7 +248,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 (5) A közjegyző a végzés jogerőre emelkedését követően intézkedik a szakértői díjnak a szakértő részére történő kifizetése iránt. A szakértői díj kifizetésére a szakértői díj kifizetését szabályozó jogszabály rendelkezései megfelelően irányadóak. A szakértő a szakértői díj megfizetéséről a számlát a kérelmező nevére állítja ki.
 
-27/A. § A közjegyző a szakértői véleményt a kérelmezőn kívül kizárólag bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére küldheti meg, ha a megkereső törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére és megjelölte annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult. Ezek a szabályok alkalmazandók a szakértői véleménybe való betekintés engedélyezésére is.
+27/A. § A közjegyző a szakértői véleményt a kérelmezőn kívül kizárólag bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére vagy adatkérésére küldheti meg, ha a megkereső vagy az adatszolgáltatást kérő törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére és megjelölte annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult. Ezek a szabályok alkalmazandók a szakértői véleménybe való betekintés engedélyezésére is.
 
 ### A közgyűjteményben elhelyezett dologra vonatkozó valószínű öröklési jogcím igazolására irányuló eljárás
 
@@ -542,7 +542,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (2) Az országos kamara az élettársi nyilvántartásból az adatigénylésre jogosult részére szolgáltathat adatokat.
 
-(3) Az élettársi nyilvántartásból annak a közigazgatási hatóságnak, közigazgatási szervnek, bíróságnak, ügyésznek, nyomozó hatóságnak, nemzetbiztonsági szolgálatnak, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szervnek továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+(3) Az élettársi nyilvántartásból annak a közigazgatási hatóságnak, közigazgatási szervnek, bíróságnak, ügyészségnek, nyomozó hatóságnak, előkészítő eljárást folytató szervnek, nemzetbiztonsági szolgálatnak, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szervnek továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 
 (4) Az élettársi nyilvántartásban szereplő adatok kezelésére szolgáló informatikai alkalmazás működtetője naplót készít
 
@@ -555,7 +555,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (6) A napló adatait az országos kamara a 36/G. § (3) bekezdése szerint eljárva továbbíthatja.
 
-(7) Ha a büntetőeljárásban eljáró bíróság, ügyész és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, az országos kamara nem tájékoztathatja az érintettet az adattovábbításról.
+(7) Ha a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, az országos kamara nem tájékoztathatja az érintettet az adattovábbításról.
 
 (8) A közjegyző a Stt.-ben meghatározott népmozgalmi adatgyűjtéssel kapcsolatos feladatai teljesítése céljából a közjegyzői eljárás során kezeli a nyilvántartott élettársi kapcsolatokra vonatkozó, népmozgalmi adatszolgáltatás körébe tartozó, a hivatalos statisztikáról szóló törvényben és annak végrehajtásáról szóló rendeletben meghatározott, a közjegyző által szolgáltatandó adatokat.
 
@@ -609,7 +609,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 - d) a közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a bejegyzés időpontját,
 - e) a szerződés megszüntetése vagy megszűnése esetében ennek tényét és a bejegyző közjegyző nevét, székhelyét és a bejegyzés ügyszámát, továbbá a bejegyzés időpontját.
 
-(2) A nyilvántartás adatairól közigazgatási hatóság, közigazgatási szerv, bíróság, bírósági végrehajtó, ügyész, nyomozó hatóság, terrorizmust elhárító szerv, nemzetbiztonsági szolgálat, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szerv az országos kamarától közvetlen hozzáféréssel adatot igényelhet. Az adatigénylés megkezdésekor az annak alapjául szolgáló eljárás tárgyát és ügyszámát, az igényelt adat tekintetében az adatigénylőt az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adatkezelésre feljogosító törvényi rendelkezést, valamint az adott személy beazonosításához szükséges valamennyi adatot elektronikus úton az országos kamara rendszere számára rendelkezésre kell bocsátani.
+(2) A nyilvántartás adatairól közigazgatási hatóság, közigazgatási szerv, bíróság, bírósági végrehajtó, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, terrorizmust elhárító szerv, nemzetbiztonsági szolgálat, továbbá a közjegyző tevékenységének szakmai felügyeletét ellátó szerv az országos kamarától közvetlen hozzáféréssel adatot igényelhet. Az adatigénylés megkezdésekor az annak alapjául szolgáló eljárás tárgyát és ügyszámát, az igényelt adat tekintetében az adatigénylőt az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez az adatkezelésre feljogosító törvényi rendelkezést, valamint az adott személy beazonosításához szükséges valamennyi adatot elektronikus úton az országos kamara rendszere számára rendelkezésre kell bocsátani.
 
 (2a) Az (1) bekezdés szerinti nyilvántartásában kezelt adatokat a Központi Statisztikai Hivatal részére – a: Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
@@ -626,7 +626,7 @@ a nyilvántartás vezetésére és az abból történő adatszolgáltatásra von
 - c) a nyilvántartásból történő adatigénylés teljesítéséről, az adattovábbítás időpontjáról, az adatigénylő nevének és címének, valamint az adatigényléshez megadott és szolgáltatott adatoknak a megjelölésével,
 - d) a naplóból történt adatszolgáltatásról, a szolgáltatott adatok körének, a betekintő nevének és címének, a betekintési jogalapnak, valamint az adatszolgáltatás időpontjának, továbbá az adatszolgáltatást végző azonosító adatainak feltüntetésével.
 
-(7) Ha a büntetőeljárásban eljáró bíróság, ügyész és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, az országos kamara nem tájékoztathatja az érintettet az adattovábbításról.
+(7) Ha a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, az országos kamara nem tájékoztathatja az érintettet az adattovábbításról.
 
 (8) A (6) bekezdés c) és d) pontja szerinti adatokat azok keletkezésétől számított öt évig kell megőrizni. A nyilvántartás adatait az országos kamara a vagyonjogi szerződés bejegyzésének időpontjától számított 100 évig kezeli, ezt követően gondoskodik azok megsemmisítéséről.
 

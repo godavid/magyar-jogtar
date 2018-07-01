@@ -721,7 +721,7 @@ kíván Magyarország területén tartózkodni.
 - b) akit Magyarország befogadottként ismert el;
 - c) törvényben foglaltak alapján azt a harmadik országbeli állampolgárt, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
 - d) azt a harmadik országbeli állampolgárt, aki Magyarország területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
-- e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből az ügyész, a bíróság, illetve a rendvédelmi és nemzetbiztonsági szerv, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik;
+- e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből a bíróság, az ügyészség, illetve a rendvédelmi és nemzetbiztonsági szerv, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon – együttműködik;
 - f) a bíróság indítványára azt a harmadik országbeli állampolgárt, akit különösen kizsákmányoló foglalkoztatási feltételek mellett, illetve azt a kiskorú, harmadik országbeli állampolgárt, akit érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély nélkül foglalkoztattak.
 
 (1a) Az idegenrendészeti hatóság a harmadik országbeli állampolgárt a vele szemben elrendelt idegenrendészeti kiutasítás, valamint beutazási és tartózkodási tilalom 47. § (10) bekezdésében foglalt visszavonása esetén az e törvényben foglalt tartózkodási feltételek hiányában humanitárius célból tartózkodási engedéllyel látja el, ha
@@ -1253,7 +1253,7 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 - a) a nemzetbiztonság vagy a közbiztonság súlyos és tényleges megsértése vagy veszélyeztetése,
 - b) a határozatot hozó állam törvénye alapján legalább egyévi szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetéséért kiszabott bírósági ítélet,
-- c) súlyos bűncselekmény elkövetésének gyanúja, vagy
+- c) súlyos bűncselekmény gyanúja, vagy
 - d) a külföldiek beutazására vagy tartózkodására vonatkozó jogszabályok súlyos megsértése
 
 miatt utasított ki.
@@ -1375,7 +1375,7 @@ miatt utasított ki.
 
 ### A visszairányítás és a kiutasítás elrendelésére,illetve végrehajtására vonatkozó tilalom
 
-51. § (1) A visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre olyan ország területére, amely az érintett tekintetében nem minősül biztonságos származási vagy biztonságos harmadik országnak, így különösen, ahol a harmadik országbeli állampolgár faji, vallási, nemzeti hovatartozása, egy meghatározott társadalmi csoporthoz tartozása vagy politikai véleménye miatt üldöztetés veszélyének lenne kitéve, továbbá olyan állam területére vagy olyan terület határára sem, ahol nyomós oknál fogva tartani lehet attól, hogy a visszairányított, illetve a kiutasított harmadik országbeli állampolgár az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve (non-refoulement).
+51. § (1) A visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre olyan ország területére, amely az érintett tekintetében nem minősül biztonságos származási vagy biztonságos harmadik országnak, így különösen, ahol a harmadik országbeli állampolgár faji, vallási, nemzeti hovatartozása, egy meghatározott társadalmi csoporthoz tartozása vagy politikai véleménye miatt üldöztetés veszélyének lenne kitéve, továbbá olyan állam területére vagy olyan terület határára sem, ahol nyomós oknál fogva tartani lehet attól, hogy a visszairányított, illetve a kiutasított harmadik országbeli állampolgár az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve (non-refoulement).
 
 (2) Ha a harmadik országbeli állampolgár menekültügyi eljárás alatt áll, a visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre, ha a harmadik országbeli állampolgár külön törvényben meghatározottak szerint jogosult Magyarország területén való tartózkodásra.
 
@@ -1639,13 +1639,13 @@ származó jövedelemmel rendelkezik.
 
 ### Külföldre utazási korlátozás
 
-66. § (1) Az idegenrendészeti hatóság külföldre utazási korlátozást rendel el azzal a harmadik országbeli állampolgárral szemben, akinek úti okmánya visszatartása érdekében a bíróság, illetve az ügyész az idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette.
+66. § (1) Az idegenrendészeti hatóság külföldre utazási korlátozást rendel el azzal a harmadik országbeli állampolgárral szemben, akinek úti okmánya visszatartása érdekében a bíróság, illetve az ügyészség az idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette.
 
 (2) Az (1) bekezdés szerinti értesítés alapján az idegenrendészeti hatóság külföldre utazási korlátozást elrendelő határozatában a harmadik országbeli állampolgár úti okmányát visszatartja.
 
 (3) A határozat ellen nincs helye jogorvoslatnak.
 
-(4) Az idegenrendészeti hatóság a bíróság, az ügyész, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján a külföldre utazási korlátozást haladéktalanul törli és a harmadik országbeli állampolgár visszatartott úti okmányát visszaadja.
+(4) Az idegenrendészeti hatóság a bíróság, az ügyészség, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján a külföldre utazási korlátozást haladéktalanul törli és a harmadik országbeli állampolgár visszatartott úti okmányát visszaadja.
 
 ### A harmadik országbeli állampolgárok ellenőrzése
 
@@ -1872,7 +1872,7 @@ szerinti állam vonatkozásában.
 
 (2) Az úti okmány a kiállítástól számított egy évig érvényes.
 
-86. § Ha az idegenrendészeti hatóság által kiadott úti okmánnyal rendelkező harmadik országbeli állampolgár vagy a Magyarország területén élő hontalan úti okmánya visszatartása érdekében a bíróság, illetve az ügyész az idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette, az idegenrendészeti hatóság az úti okmányt visszavonja.
+86. § Ha az idegenrendészeti hatóság által kiadott úti okmánnyal rendelkező harmadik országbeli állampolgár vagy a Magyarország területén élő hontalan úti okmánya visszatartása érdekében a bíróság, illetve az ügyészség az idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette, az idegenrendészeti hatóság az úti okmányt visszavonja.
 
 ### IX. Fejezet — ELJÁRÁSI SZABÁLYOK
 
@@ -2766,7 +2766,7 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság a korlátozás megszűnéséig kezeli.
 
-104. § (1) Az idegenrendészeti hatóság a nemzetközi szerződésekben vállalt kötelezettségek teljesítése céljából a Magyarországon őrizetbe vett, előzetesen letartóztatott vagy személyi szabadságában bármely más módon korlátozott, továbbá a rendkívüli eseményekben (haláleset, súlyos sérüléssel járó baleset stb.) érintett harmadik országbeli állampolgár következő adatait kezeli:
+104. § (1) Az idegenrendészeti hatóság a nemzetközi szerződésekben vállalt kötelezettségek teljesítése céljából a Magyarországon őrizetbe vett, letartóztatott vagy személyi szabadságában bármely más módon korlátozott, továbbá a rendkívüli eseményekben (haláleset, súlyos sérüléssel járó baleset stb.) érintett harmadik országbeli állampolgár következő adatait kezeli:
 
 - a) a természetes személyazonosító adatok;
 - b) a szálláshely címe, lakcím;
@@ -2780,7 +2780,7 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 106. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból jogszabályban meghatározott feladataik ellátása céljából – törvényben meghatározott adatkörben –
 
 - a) az igazságszolgáltatási szervek,
-- b) a nyomozó hatóságok,
+- b) a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 - c) a nemzetbiztonsági szolgálatok,
 - d) a menekültügyi hatóság,
 - e) az adóhatóságok,
@@ -2796,7 +2796,8 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 - o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 - p) a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok,
 - q) a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a büntetés-végrehajtási intézet,
-- r) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet 27. cikkéből következően, a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendeletben meghatározott Felelős Hatóság (a továbbiakban: Felelős Hatóság)
+- r) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet 27. cikkéből következően, a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendeletben meghatározott Felelős Hatóság (a továbbiakban: Felelős Hatóság),
+- s) a cégnyilvántartásban szereplő személyek személyazonosságának ellenőrzéséhez a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat
 
 részére továbbíthat adatot.
 
@@ -2804,7 +2805,9 @@ részére továbbíthat adatot.
 
 (1b) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 102. § (1) bekezdés a), c) és d) pontja, valamint a 104. § (1) bekezdése szerinti résznyilvántartásokból igényelhet adatokat.
 
-(2) Az (1)–(1b) bekezdésben meghatározott adattovábbításról az idegenrendészeti hatóság adattovábbítási nyilvántartást vezet, amely tartalmazza, hogy mely szervnek, milyen célból továbbított adatokat. Az idegenrendészeti hatóság az adattovábbítási nyilvántartásban az adatokat az adat továbbításától számított öt évig kezeli.
+(1c) Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a kiutasításra, a beutazási és tartózkodási tilalom fennállására, valamint a bevándorolt vagy letelepedett jogállás fennállására vonatkozó adatok tekintetében közvetlen hozzáférést biztosít.
+
+(2) Az (1)–(1c) bekezdésben meghatározott adattovábbításról az idegenrendészeti hatóság adattovábbítási nyilvántartást vezet, amely tartalmazza, hogy mely szervnek, milyen célból továbbított adatokat. Az idegenrendészeti hatóság az adattovábbítási nyilvántartásban az adatokat az adat továbbításától számított öt évig kezeli.
 
 (3) Az adattovábbítási nyilvántartásban szereplő adatokkal kapcsolatos tájékoztatás nemzetbiztonsági és bűnüldözési érdekből megtagadható.
 
@@ -3115,7 +3118,20 @@ végrehajtási eljárásokra is alkalmazni kell.
 
 (10) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a 108/B. § (1) bekezdésben meghatározott személyek és szervezetek magyarországi jogállását, adatait és jogosultságait tanúsító igazolvány, okirat formájára és kibocsátásának eljárásrendjére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
-112. §
+### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+112. § 112. § E törvény
+
+- a) 86/A. §-a,
+- b) 86/E. §-a,
+- c) 86/I. §-a,
+- d) 86/J. §-a,
+- e) 86/L–86/M. §-a,
+- f) 87. §-a,
+- g) 87/L–87/M. §-a,
+- h) 87/N. § (1) bekezdése
+
+az Alaptörvény XIV. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 113. §
 

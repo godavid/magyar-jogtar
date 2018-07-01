@@ -589,7 +589,7 @@ kezelheti, továbbíthatja, ha az adattovábbítás törvényi feltételei az ad
 - b) a légiközlekedés védelméért felelős szerveknek;
 - c) az idegenrendészeti hatóságnak;
 - d) a vámhatóságnak;
-- e) a nyomozó hatóságoknak;
+- e) a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, illetve az előkészítő eljárást folytató szervnek;
 - f) a nemzetbiztonsági szerveknek;
 - g) ha annak külön törvényben meghatározott feltételei egyébként fennállnak és a személyes adatok megfelelő szintű védelme biztosított, az adat kezelésére feljogosított, a határforgalom-ellenőrzésért, illetve a légiközlekedés és az utasok védelméért, valamint a terrorizmus és a határon átnyúló bűnözés megelőzéséért és az ezek elleni küzdelemért felelős külföldi szerveknek.
 
@@ -1357,7 +1357,7 @@ folytatja le.
 
 - a) aki büntetett előéletű,
 - b) az a külföldi állampolgár, aki a magyarországi tartózkodás szabályait megszegi, magyarországi tartózkodásának jogszerűségét hitelt érdemlően nem tudja igazolni, illetve aki a schengeni információs rendszerben körözés hatálya alatt áll,
-- c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség elkövetésének megalapozott gyanúja miatt büntetőeljárás alatt áll, a büntetőeljárás jogerős befejezéséig,
+- c) aki bűntett vagy háromévi vagy ennél súlyosabb szabadságvesztés büntetéssel büntetendő vétség miatt büntetőeljárás hatálya alatt áll,,
 - d) aki ezzel nemzetbiztonsági érdeket sért,
 - e) aki esetében a védelmi háttérellenőrzést 5 évre visszamenőleg a hatóságok nem tudják végrehajtani.
 
@@ -1550,7 +1550,7 @@ rendeletben állapítsa meg.
 - b) a miniszter, hogy a légiközlekedés biztonságos és zavartalan végrehajtását biztosító léginavigációs, távközlő, meteorológiai és egyéb berendezések létesítésének, megváltoztatásának, megszüntetésének, üzemben tartásának a részletes szabályait, valamint hatósági felügyeletének szabályait és rendjét,
 - c) a miniszter, hogy a légijármű parancsnoka kijelölésének módját, valamint a légijármű parancsnokának a repülés megkezdésével összefüggő általános feladatait,
 - d) az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben az ország területére légiközlekedési úton bejutó fertőző betegségek megelőzése érdekében történő ideiglenes korlátozások szabályait,
-- e)
+- e) a miniszter, hogy a műszer szerinti polgári repülési eljárások tervezésének, validációjának és felülvizsgálatának részletes szabályait, valamint a műszer szerinti polgári repülési eljárásokat tervező szolgálat személyi, tárgyi és működési feltételeit, továbbá annak irányítási és feladatrendszerét,
 - f)
 - g) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel és a miniszterrel egyetértésben a közegészségügyi légi beavatkozás szabályait,
 - h) az agrárpolitikáért felelős miniszter, hogy a miniszterrel egyetértésben a légi személyszállítással és a légi árufuvarozással összefüggő növény-egészségügyi szabályokat,

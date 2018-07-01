@@ -920,7 +920,7 @@ tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem v�
 - e) a jelzálogjoggal biztosított követelés vagy az önálló zálogjog – ideértve az átalakításos önálló zálogjogot is – alapján fennálló kielégítési jog érvényesítésére irányuló, valamint
 - f) az ingatlan határvonalával és területével kapcsolatos kiigazítási per megindítása tényének feljegyzése iránt.
 
-(1a) A büntetőeljárásról szóló 1998. évi XIX. törvény 214. § (1a) bekezdése vagy 284. § (3) bekezdése alapján a bíróságnak megküldött polgári jogi igény esetén, ha az (1) bekezdés a) vagy b) pontjában foglalt feltételek fennállnak, a bíróság az (1) bekezdés szerinti végzést hivatalból hozza meg.
+(1a) A büntetőeljárásról szóló 2017. évi XC. törvény 464. § (4) bekezdése vagy 560. § (1) bekezdés e) pontja alapján a bíróságnak megküldött polgári jogi igény esetén, ha az (1) bekezdés a) vagy b) pontjában foglalt feltételek fennállnak, a bíróság az (1) bekezdés szerinti végzést hivatalból hozza meg.
 
 (2) A bejegyzéssel vagy az alapjául szolgáló okirattal kapcsolatban elkövetett bűncselekmény miatt indult büntetőeljárásról a bíróság e tény feljegyzése végett értesíti az ingatlanügyi hatóságot.
 
@@ -1021,7 +1021,7 @@ tájékoztatja arról, hogy a döntés fellebbezés benyújtása folytán nem v�
 
 (2) Az (1) bekezdés szerinti rendelkezés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról
 
-- a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat vagy a nyomozó hatóság törvényben meghatározott feladatai ellátása céljából,
+- a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság vagy az előkészítő eljárást folytató szerv törvényben meghatározott feladatai ellátása céljából,
 - b) az ügyészség a közérdekvédelmi feladatai ellátásához,
 - c) a jegyző a hagyatéki leltár elkészítéséhez, a közjegyző a hagyatéki eljárás lefolytatásához,
 - d) a mezőgazdasági igazgatási szerv, valamint az ingatlanügyi hatóság az Fftv. szerinti hatósági eljárásaihoz,

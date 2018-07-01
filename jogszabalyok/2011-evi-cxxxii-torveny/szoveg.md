@@ -175,7 +175,7 @@ tölthet be.
 
 22. § A honvédtiszti alap- és mesterképzésben, valamint a rendészeti képzésben nem létesíthető hallgatói jogviszony azzal,
 
-- a) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította,
+- a) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ügydöntő határozatban megállapította,
   - aa) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
   - ab) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - ac) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett vagy részben felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
@@ -185,7 +185,7 @@ tölthet be.
   - ag) gondatlan bűncselekmény miatt kiszabott, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig, valamint
 - b) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - c) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
-- d) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig.
+- d) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll.
 
 23. § (1) Azt a tényt, hogy a 21. és 22. §-ban meghatározott kizáró ok nem áll fenn,
 
@@ -226,7 +226,7 @@ kezeli.
 
 27. § (1) A hallgató köteles a beiratkozást megelőzően fogadalmat tenni és a hallgatói jogviszonya alatt fogadalmához méltó magatartást tanúsítani.
 
-(2) A hallgató az (1) bekezdésben foglalt kötelezettségének megtartása érdekében,, vélt vagy valós jogsérelméről az ezzel kapcsolatos jogorvoslati, hatósági eljárás végleges, illetve a bírósági eljárás jogerős lezárását követően tájékoztathatja a nyilvánosságot.
+(2) A hallgató az (1) bekezdésben foglalt kötelezettségének megtartása érdekében, vélt vagy valós jogsérelméről az ezzel kapcsolatos jogorvoslati, hatósági eljárás végleges befejezését, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát, továbbá a más bírósági eljárás jogerős lezárását követően tájékoztathatja a nyilvánosságot.
 
 (3) A (2) bekezdés szerinti korlátozás a hallgató jogorvoslati jogának tiszteletben tartása érdekében az Egyetemet is terheli.
 

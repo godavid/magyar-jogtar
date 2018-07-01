@@ -8,74 +8,87 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
 
 1. § E törvény alkalmazásában
 
-- 1. Védelmi Program: a büntetőeljárásban résztvevő tanú, sértett, terhelt, illetve ezen személyek hozzátartozója, továbbá az érintettre tekintettel fenyegetett helyzetben lévő más személy védelmének a személyi védelem keretében nem biztosítható olyan szervezett formája,
+- 1. Védelmi Program: a büntetőeljárásban résztvevő tanú, sértett, terhelt, illetve ezen személyek hozzátartozója, továbbá a felsoroltak személyére tekintettel fenyegetett helyzetben lévő más személy védelmének a jogszabályban meghatározott személyi védelem (a továbbiakban: személyi védelem) keretében nem biztosítható olyan szervezett formája,
   - a) amelyet a rendőrség – polgári jogi jogviszony keretében – a fenyegetett helyzetben lévő személlyel megkötött megállapodás szerint végez, és
   - b) amelynek során különleges intézkedések alkalmazása (16. §), illetve – az érintett társadalmi beilleszkedésének elősegítése érdekében – mentális, szociális, gazdasági, humán és jogi támogatás nyújtása szükséges;
 - 2. megállapodás: a rendőrség és a fenyegetett helyzetben lévő személy által – polgári jogi jogviszony keretében – megkötött, a Védelmi Programba való felvételről, az abban való együttműködésről, a Védelmi Programban résztvevők jogairól és kötelezettségeiről szóló megállapodás;
-- 3. személyi védelem: a rendőrségnek, a Nemzeti Adó- és Vámhivatalnak, valamint a büntetés-végrehajtási szervnek a büntetőeljárásban résztvevők, valamint az eljárást folytató hatóság tagjai személyi védelme elrendelésének feltételeiről és végrehajtási szabályairól szóló külön jogszabály (a továbbiakban: a személyi védelemről szóló jogszabály) szerint folytatott intézkedése;
-- 4. büntetőeljárásban résztvevő: a terhelt, a védő, a sértett, az egyéb érdekeltek, a sértett és az egyéb érdekeltek képviselői, a tanú, a tanú ügyvédje, a szakértő, szaktanácsadó, a tolmács, a hatósági tanú;
-- 5. nyomozó szerv: a büntetőeljárásról szóló törvényben meghatározott nyomozó hatóság nyomozást folytató szerve;
-- 6. védelmet ellátó szerv: a Védelmi Program keretében igénybe vehető intézkedések ellátására jogosult szerv;
-- 7. kiemelkedő súlyú bűncselekmény: különösen az a bűncselekmény, amelynél felismerhetők a szervezett bűnözés vagy a nemzetközi bűnözés ismérvei, vagy amelynek tárgya a terrorizmussal, zsarolással, pénzmosással, kábítószer- vagy fegyverkereskedelemmel, prostitúcióval, pedofíliával, valamint az ezekkel összefüggésben elkövetett élet és testi épség elleni bűntettel kapcsolatos;
-- 8. fenyegetett helyzetben lévő személy: az a személy, akinek – a büntetőeljárásban való részvétele, illetve a büntetőeljárás során jogai érvényesítésének, kötelezettségei teljesítésének akadályozása, illetve meghiúsítása végett elkövetett vagy kilátásba helyezett személy elleni erőszakos avagy közveszélyt okozó bűncselekmény miatt – a Védelmi Programba való felvétele indokoltnak látszik, valamint – a törvényben meghatározott esetekben – a büntetőeljárás résztvevőjéhez fűződő kapcsolatára tekintettel az a személy is, akivel szemben ilyen bűncselekményt követtek el, illetve valószínűsíthető, hogy ilyen bűncselekményt fognak elkövetni és védelme indokoltnak látszik;
+- 3.
+- 4. büntetőeljárásban részt vevő: a terhelt, a védő, a sértett, a magánvádló, a pótmagánvádló, a magánfél, a vagyoni érdekelt, az egyéb érdekelt;
+- 5.
+- 6. c védelmet ellátó szerv: a Védelmi Program keretében igénybe vehető intézkedések, különleges óvintézkedések foganatosítására jogosult szerv;
+- 7.
+- 8. fenyegetett helyzetben lévő személy:
+  - a) az a személy, akinek a sérelmére a büntetőeljárás során jogai érvényesítésének, kötelezettségei teljesítésének akadályozása, meghiúsítása végett, illetve a büntetőeljárásban való részvétele vagy korábbi részvétele miatt személy elleni erőszakos vagy közveszélyt okozó cselekményt kíséreltek meg, követettek el vagy helyeztek kilátásba, valamint
+  - b) az e törvényben meghatározott esetekben – a büntetőeljárás résztvevőjéhez fűződő kapcsolatára tekintettel – az a személy, akivel szemben személy elleni erőszakos vagy közveszélyt okozó cselekményt követtek el, illetve valószínűsíthető, hogy ilyen cselekményt fognak elkövetni;
 - 9. érintett: a Védelmi Program hatálya alatt álló személy, továbbá az, akinek a személyazonossága megváltoztatását rendelték el;
-- 10. hozzátartozó: a védelem alatt álló személlyel közös háztartásban – kivételesen a közös háztartáson kívül – élő házastárs, továbbá az élettárs, a jegyes, a leszármazó – ideértve az örökbe fogadott és a nevelt gyermeket is –, valamint kiskorú érintett esetén a szülő – ideértve az örökbefogadót vagy nevelőszülőt is – és a gyermek állandó felügyeletével megbízott személy;
+- 10. hozzátartozó: a védelem alatt álló személlyel közös háztartásban – kivételesen közös háztartáson kívül – élő egyeneságbeli rokon és ennek házastársa vagy élettársa, az örökbefogadó és a nevelőszülő (ideértve az együtt élő mostohaszülőt is), az örökbe fogadott és a nevelt gyermek (ideértve az együtt élő mostohagyermeket is), a testvér és a testvér házastársa vagy élettársa, a házastárs, az élettárs, a házastárs vagy az élettárs egyeneságbeli rokona és testvére;
 - 11. Tanúvédelmi Szolgálat: a rendőrségen belül a Védelmi Program ellátására létrehozott szervezeti egység;
-- 12. harmadik személy: az állam, valamint azon egyéb jogi személyek, jogi személyiség nélküli társaságok és természetes személyek, akikkel a Védelmi Program tartama alatt az érintett jogviszonyban áll;
+- 12.
 - 13. ügyvivő: az érintett által a Védelmi Programba való felvételkor megjelölt azon személy, aki a Tanúvédelmi Szolgálat egyetértésével, az érintett érdekében, annak polgári jogi jogviszonyaiban, illetve egyéb ügyeiben eljár és – ha jogszabály lehetővé teszi – az érintettet képviseli;
 - 14. adatzárlat: a Tanúvédelmi Szolgálatnak az adatkezelő szervek részére előírt, az érintettre vonatkozó adatoknak harmadik személy részére történő szolgáltatását megtiltó vagy korlátozó rendelkezése;
-- 15. a nyilvántartott adatokkal kapcsolatos megkeresés jelzésének előírása: a Tanúvédelmi Szolgálat által az adatkezelő szerv részére előírt, harmadik személynek az érintett eredeti vagy fedő-, illetve új adatai szerint nyilvántartott adatokkal kapcsolatos megkeresésről való értesítési kötelezettsége;
+- 15. a nyilvántartott adatokkal kapcsolatos megkeresés vagy adatkérés jelzésének előírása: a Tanúvédelmi Szolgálat által az adatkezelő szerv részére előírt, az érintettről nyilvántartott személyazonosító adatokkal kapcsolatos megkeresésről vagy adatkérésről való értesítési kötelezettség;
 - 16. személyazonosító adat: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerint meghatározott természetes személyazonosító adat;
 - 17. új személyazonosító adat: a megváltoztatott személyazonossághoz, az érintett új életviteléhez, életkörülményeihez, valamint az érintett hatékony védelméhez elengedhetetlenül szükséges, megváltoztatott tartalmú adatok.
+- 18. védelmet ellátó személy: a különleges óvintézkedések előkészítése, végrehajtása, ellenőrzése és az ehhez kapcsolódó feladatok ellátása során e törvény rendelkezései szerint eljáró, a Tanúvédelmi Szolgálat személyi állományában szolgálatot teljesítő hivatásos állományú rendőr.
 
 ### A Védelmi Program hatálya, a megállapodás kezdeményezése, megkötése, feltételei
 
 2. § (1) Védelmi Program (a továbbiakban: Program) a büntetőeljárás tartama alatt, illetve a büntetőeljárás befejezését követően alkalmazható.
 
-(2) Megállapodás a kiemelkedő súlyú bűncselekménnyel összefüggő büntetőeljárásban résztvevő, a hatósággal együttműködő tanúval, sértettel vagy terhelttel köthető, feltéve, ha
+(2) Megállapodás a kiemelkedő súlyú bűncselekménnyel összefüggő büntetőeljárásban résztvevő, együttműködő tanúval, sértettel vagy terhelttel köthető, feltéve, ha
 
 - a) olyan vallomást tett vagy kíván tenni, amely kiemelkedő súlyú bűncselekmény lényeges körülményeire, bűnszervezet összetételére, tevékenységére, bűnszervezettel fenntartott kapcsolatára, bűnszervezet által tervezett vagy elkövetett bűncselekményekre vonatkozik;
-- b) a vallomása a tényállás felderítését, bizonyítását, az elkövető kilétének megállapítását és felelősségre vonását jelentősen segítette vagy segítheti, és ha megalapozottan feltehető, hogy más módon a bizonyíték beszerzése kilátástalan vagy aránytalanul nagy nehézséggel járna, és a megállapodás megkötésével a bizonyíték beszerzése valószínűsíthető,
-- c) a büntetőeljárásban való részvétele miatt, illetve a büntetőeljárási jogai érvényesítésének, kötelezettségei teljesítésének akadályozása, illetve meghiúsítása végett ellene személy elleni erőszakos vagy közveszélyt okozó bűncselekményt követtek el vagy valószínűsíthető, hogy ellene ilyen bűncselekményt követnek el, és
-- d) a fenyegetett helyzetben lévő személy, illetve az érintett védelme a személyi védelem keretében nem biztosítható, ezért különleges óvintézkedések (16. §) alkalmazása szükséges.
+- b) a vallomása a tényállás felderítését, bizonyítását, az elkövető kilétének megállapítását és felelősségre vonását jelentősen segítette vagy segítheti és megalapozottan feltehető, hogy más módon a bizonyíték beszerzése kilátástalan vagy aránytalanul nagy nehézséggel járna, és a megállapodás megkötésével a bizonyíték beszerzése valószínűsíthető,
+- c) a fenyegetett helyzete a büntetőeljárásban való részvételével függ össze és
+- d) a fenyegetett helyzetben lévő személy, illetve az érintett védelme a személyi védelem keretében nem biztosítható, .
+
+2/A. § Fedett nyomozóval akkor is köthető megállapodás, ha a büntetőeljárásban vallomást nem tett, de az abban való közreműködése megfelel a 2. § (2) bekezdés a)–d) pontjában meghatározott követelményeknek, és hivatásos szolgálati jogviszonya a megállapodás megkötéséig megszűnt.
 
 3. § Megállapodás a 2. §-ban meghatározottak személyére tekintettel azok hozzátartozójával, továbbá – kivételesen – más személlyel is köthető, ha azt a fenyegetett helyzetben lévő személy vagy az érintett méltányolható helyzete indokolja és a védelem céljával összeegyeztethető.
 
-4. § (1) A megállapodás megkötésének kezdeményezését a fenyegetett helyzetben lévő személy kérheti, illetve a megállapodás megkötését – hivatalból, a fenyegetett helyzetben lévő személy hozzájárulásával – az 5. § (1) és (2) bekezdésében meghatározott nyomozó szerv, ügyész vagy az eljáró tanács elnöke (egyes bíró) önállóan is kezdeményezheti.
+4. § (1) A megállapodás megkötésének kezdeményezését a fenyegetett helyzetben lévő személy indítványozhatja, illetve a megállapodás megkötését – hivatalból, a fenyegetett helyzetben lévő személy hozzájárulásával – az 5. § (1) és (2) bekezdésében meghatározott bíróság, ügyészség vagy nyomozó hatóság önállóan is kezdeményezheti.
 
-(2) A fenyegetett helyzetben lévő személy a megállapodás megkötésének kezdeményezése iránti kérelmét a büntetőeljárás alatt, valamint azt követően a megállapodás megkötésének kezdeményezésére az 5. § (1) és (2) bekezdésében meghatározott jogosultnál terjesztheti elő.
+(2) A fenyegetett helyzetben lévő személy a megállapodás megkötésének kezdeményezése iránti indítványát a büntetőeljárás alatt, valamint azt követően a megállapodás megkötésének kezdeményezésére az 5. § (1)–(2a) bekezdésében meghatározott jogosultnál terjesztheti elő.
 
-(3) A fenyegetett helyzetben lévő személy kérelme esetén megállapodás kizárólag akkor köthető, ha a megállapodást az 5. § (1) és (2) bekezdésében meghatározott jogosult kezdeményezi. A megállapodás kezdeményezésére jogosult a kérelem tárgyában annak előterjesztésétől számított három napon belül dönt.
+(3) A fenyegetett helyzetben lévő személy indítványa esetén megállapodás kizárólag akkor köthető, ha a megállapodást az 5. § (1)–(2a) bekezdésében meghatározott jogosult kezdeményezi. A megállapodás kezdeményezésére jogosult a kérelem tárgyában annak előterjesztésétől számított három napon belül dönt.
 
-5. § (1) A megállapodás megkötését a büntetőeljárás tartama alatt az ügyész egyetértésével az a nyomozó szerv, továbbá ügyész vagy az eljáró tanács elnöke (egyes bíró) kezdeményezheti, amely előtt a büntetőeljárás folyik.
+(4) A Programmal kapcsolatos eljárásban a törvényes képviselő jár el, ha a fenyegetett helyzetben lévő személy cselekvőképtelen vagy korlátozottan cselekvőképes.
 
-(2) A büntetőeljárás befejezését követően az (1) bekezdésben meghatározott megállapodás megkötését az a nyomozó szerv kezdeményezheti, amely előtt a büntetőeljárás folyt. A büntetés-végrehajtási intézetben fogvatartott esetében a megállapodás megkötését a büntetés-végrehajtási intézet, az ügyész, illetve a büntetés-végrehajtási bíró is kezdeményezheti.
+(5) A megállapodás megkötéséig – a sürgősségi intézkedés alkalmazásának kivételével – a fenyegetett helyzetben lévő személy biztonságáért a kezdeményező szerv felel.
 
-(3) A megállapodás megkötését a Tanúvédelmi Szolgálatnál (a továbbiakban: Szolgálat) kell kezdeményezni, amely tizenöt napon belül
+5. § (1) A megállapodás megkötését a büntetőeljárást folytató bíróság, ügyészség vagy az ügyészség egyetértésével a nyomozó hatóság kezdeményezheti.
+
+(2) A büntetőeljárás befejezését követően az (1) bekezdésben meghatározott megállapodás megkötését az a nyomozó hatóság kezdeményezheti, amely előtt a büntetőeljárás folyt. A büntetés-végrehajtási intézetben fogvatartott esetében a megállapodás megkötését a büntetés-végrehajtási intézet, az ügyészség, illetve a büntetés-végrehajtási bíró is kezdeményezheti.
+
+(2a) Fedett nyomozó esetén a megállapodás megkötését a fedett nyomozót foglalkoztató szerv vezetője kezdeményezheti az eljáró vagy eljárt nyomozó hatóság vezetőjének egyetértésével.
+
+(3) A megállapodás megkötését a Tanúvédelmi Szolgálatnál (a továbbiakban: Szolgálat) kell kezdeményezni, amely harminc napon belül
 
 - a) a kezdeményezést elutasítja, ha az előzetes pszichológiai és a biztonsági kockázatot felmérő vizsgálat alapján a fenyegetett helyzetben lévő személy a védelemre alkalmatlan;
 - b) egyetértése esetén a megállapodás megkötésére irányuló megindokolt javaslatát az országos rendőrfőkapitányhoz állásfoglalásra felterjeszti.
 
+(4) A kezdeményezés elutasítása tárgyában hozott döntést a Szolgálat – mások és a Szolgálat érdekeinek sérelme nélkül – indokolni köteles, de ellene jogorvoslatnak nincs helye.
+
 6. § (1) Az országos rendőrfőkapitány a Szolgálatnak az 5. § (3) bekezdés b) pontja szerint tett javaslata alapján a kezdeményezés elutasítása tárgyában vagy megállapodás megkötése iránti szándékáról a megállapodás kezdeményezésétől számított három napon belül foglal állást.
 
-(2) A Szolgálat az országos rendőrfőkapitány (1) bekezdés szerint kialakított állásfoglalásáról értesíti a megállapodás megkötését kezdeményezőt, valamint – a megállapodás megkötését kezdeményező útján – a megállapodás kezdeményezése iránti kérelmet előterjesztőt, illetve – ha a fenyegetett helyzetben lévő személy kiskorú, korlátozottan cselekvőképes vagy cselekvőképtelen – a törvényes képviselőt, a gondnokot vagy a gyámot.
+(2) A Szolgálat az országos rendőrfőkapitány (1) bekezdés szerint kialakított állásfoglalásáról értesíti a megállapodás megkötését kezdeményezőt, valamint – a megállapodás megkötését kezdeményező útján – a megállapodás kezdeményezése iránti kérelmet előterjesztőt, .
+
+(3) Az országos rendőrfőkapitány a megállapodás megkötésére irányuló kezdeményezés elutasítása esetén döntését – mások és a Szolgálat érdekeinek sérelme nélkül – indokolni köteles, azonban döntése ellen nincs helye jogorvoslatnak.
 
 7. § (1) Ha az országos rendőrfőkapitány a megállapodás megkötésével egyetért, a fenyegetett helyzetben lévő személlyel a Szolgálat önállóan köt megállapodást, feltéve, ha
 
 - a) az 1. számú mellékletben foglalt nyilatkozatot megteszi;
 - b) a 11. § (1) bekezdésében foglalt kötelezettségeit – e törvényben meghatározott kivétellel – teljesíti, illetve követeléseit, igényeit érvényesíti.
 
-(2) A 3. §-ban meghatározott hozzátartozóval vagy más személlyel az (1) bekezdés a) pontjában meghatározott kezdeményezés hiányában akkor köthető megállapodás, ha a 2. §-ban meghatározott személyt a Programba már felvették.
+(2) A 3. §-ban meghatározott hozzátartozóval vagy más személlyel az (1) bekezdés a) pontjában meghatározott kezdeményezés hiányában akkor köthető megállapodás, ha a 2. § (2) bekezdésében vagy 2/A. §-ban meghatározott személyt a Programba már felvették.
 
 (3) A Program a megállapodás megkötésével kezdődik. A megállapodásban a 2. számú mellékletben meghatározottakról rendelkezni kell.
 
-(4) A megállapodásból származó viták rendezése érdekében a felek egyeztetést kötelesek folytatni. Amennyiben az egyeztetés keretében három napon belül a vitás kérdést nem sikerül rendezni, a felek bármelyike bírósághoz fordulhat. Az eljárás lefolytatására kizárólag a Fővárosi Törvényszék az illetékes, amely a felek közötti jogvitát peren kívüli eljárásban bírálja el. Szükség esetén a bíróság a feleket személyesen is meghallgathatja.
+(4) A megállapodásból származó viták rendezése érdekében a felek egyeztetést kötelesek folytatni. Amennyiben az egyeztetés keretében tizenöt napon belül a vitás kérdést nem sikerül rendezni, a felek bármelyike bírósághoz fordulhat. Az eljárás lefolytatására kizárólag a Fővárosi Törvényszék rendelkezik hatáskörrel, amely a polgári perrendtartásról szóló 2016. évi CXXX. törvény X. fejezete alapján jár el.
 
 (5) A megállapodás egy hiteles másolatát bírósági eljárás kezdeményezése esetén a Szolgálatnak az eljáró bíróságnál letétbe kell helyeznie.
 
-8. § (1) Ha az 5. § (1)–(2) bekezdésében meghatározott jogosult a megállapodás megkötését kiskorú, korlátozottan cselekvőképes vagy cselekvőképtelen személy Programba való felvétele érdekében kezdeményezi, a Szolgálat a törvényes képviselővel, a gondnokkal, illetve a gyámmal köt megállapodást.
-
-(2) Ha a védelemre a törvényes képviselő, a gondnok, illetve a gyám cselekménye szolgáltatott okot, vagy egyébként a fenyegetett helyzetben lévő és a törvényes képviselője, a gondnoka, illetve a gyámja között érdekellentét áll fenn, a megállapodást – ha erre lehetőség van – más törvényes képviselővel, gondnokkal vagy gyámmal kell megkötni. Más törvényes képviselő, gondnok, gyám hiányában eseti gondnok kirendelése iránt kell intézkedni.
+8. §
 
 ### A védelmet ellátó szerv
 
@@ -126,18 +139,19 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 ### Különleges óvintézkedések, a Szolgálat megkeresései
 
-16. § (1) A Szolgálat az érintett élete, testi épsége, személyi szabadsága elleni jogellenes cselekmény megelőzése érdekében a következő különleges óvintézkedéseket (a továbbiakban: óvintézkedés) alkalmazhatja:
+16. § (1) A Szolgálat a Program keretében a következő különleges óvintézkedéseket (a továbbiakban: óvintézkedés) alkalmazhatja:
 
-- a) lakóhely, tartózkodási hely megváltoztatásával az érintett biztonságos helyen való elhelyezése (elköltöztetése), illetve a Programba bevont fogvatartottnak az elhelyezéséül szolgáló büntetés-végrehajtási intézetből másik büntetés-végrehajtási intézetbe történő átszállítása;
+- a) a tartózkodási hely megváltoztatásával az érintett biztonságos helyen való elhelyezése (elköltöztetése), illetve a Programba bevont fogvatartottnak az elhelyezéséül szolgáló büntetés-végrehajtási intézetből másik büntetés-végrehajtási intézetbe történő átszállítása;
 - b) személyi védelem igénybevétele;
-- c) nyilvántartásokban adatzárlat elrendelése, illetve a nyilvántartott adatokkal kapcsolatos megkeresések jelzésének előírása;
-- d) névváltoztatás;
-- e) a személyazonosság megváltoztatása;
-- f) a nemzetközi együttműködésben való részvétel.
+- c) nyilvántartásokban adatzárlat elrendelése;
+- d) a nyilvántartott adatokkal kapcsolatos megkeresés vagy adatkérés jelzésének előírása;
+- e) névváltoztatás;
+- f) a személyazonosság megváltoztatása;
+- g) a nemzetközi együttműködésben való részvétel.
 
 (2) A Szolgálat a veszélyhelyzet fokát mérlegelve – a védelem kezdeményezésére jogosult véleményét is figyelembe véve – az érintettel kötött megállapodás során határozza meg a védelem módját. A védelem módjai közül egyidejűleg több is alkalmazható.
 
-(3) Az érintett biztonságát közvetlenül fenyegető és másként el nem hárítható veszély esetét kivéve nem alkalmazható a védelem olyan módja, amelyet az érintett a megállapodásban kizár vagy az ellen egyébként tiltakozik.
+(3) Az érintett biztonságát közvetlenül fenyegető és másként el nem hárítható veszély esetét kivéve nem alkalmazható a védelem olyan módja, amelyet az érintett a megállapodásban kizár vagy amely ellen egyébként tiltakozik.
 
 (4) A Program hatálya alatt álló személy esetében a személyi védelem elrendelésére a Szolgálat vezetője jogosult.
 
@@ -145,9 +159,9 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 (2) A Szolgálat feladatai teljesítése érdekében bármely adatkezelési rendszerből – az adatkérés céljának megjelölésével – adatokat kérhet.
 
-(3) Az (1)–(2) bekezdés szerint kell eljárni akkor is, ha az óvintézkedés keretében, közokirat valótlan adatokon alapuló megváltoztatása, módosítása vagy új közokirat kiállítása érdekében ilyen okiratok kiállítására jogosult hatóság, illetve szerv megkeresése szükséges.
+(3) Az (1)–(2) bekezdés szerint kell eljárni akkor is, ha az óvintézkedés keretében okirat vagy közokirat valótlan adaton, tényen vagy nyilatkozaton alapuló megváltoztatása, módosítása vagy új közokirat kiállítása, illetve valótlan adat közhiteles nyilvántartásba vétele érdekében az arra jogosult hatóság, illetve szerv megkeresése szükséges.
 
-(4) Az (1)–(2) bekezdésben meghatározott esetekben a Szolgálat megkeresésének teljesítése nem tagadható meg. A költségvetési szervek a Szolgálat megkeresését térítésmentesen kötelesek teljesíteni.
+(4) Az (1)–(3) bekezdésben meghatározott esetekben a Szolgálat megkeresésének teljesítése nem tagadható meg. A költségvetési szervek a Szolgálat megkeresését térítésmentesen kötelesek teljesíteni.
 
 (5) A Program végrehajtása keretében alkalmazott különleges óvintézkedések (16. §) körében folytatott hatósági eljárási cselekményekért, szolgáltatásokért az érintett illeték, illetve díj megfizetésére nem kötelezhető.
 
@@ -159,27 +173,33 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 (2) Az érintett tájékoztatása a sürgősségi intézkedések megtételét nem késleltetheti.
 
-(3) Ha az érintett kiskorú, illetve korlátozottan cselekvőképes vagy cselekvőképtelen személy, a Szolgálat az érintetten kívül a törvényes képviselőt, illetve a gondnokot vagy gyámot is köteles értesíteni az (1) bekezdésben írt körülményekről.
+(3)
 
-20. § (1) Az érintett a Szolgálatot köteles haladéktalanul tájékoztatni a saját vagy a reá tekintettel más személy biztonságát érintő, a védelem folytatása szempontjából lényeges körülményekről, továbbá arról, hogy a megállapodásban foglaltaktól, különösen a követendő magatartásra vonatkozó ajánlásoktól eltért vagy el kíván térni.
+20. § (1) Az érintett a Szolgálatot köteles haladéktalanul tájékoztatni a saját vagy a reá tekintettel más személy biztonságát érintő lényeges körülményekről, továbbá arról, hogy a megállapodásban foglaltaktól, különösen a követendő magatartásra vonatkozó ajánlásoktól eltért vagy el kíván térni.
 
-(2) Az érintett javaslatot tehet a védelem módjára. Ha az érintett kiskorú, illetve korlátozottan cselekvőképes vagy cselekvőképtelen személy, a védelem módjára a törvényes képviselője, illetve a gondozója vagy gyámja is javaslatot tehet.
+(2) Az érintett javaslatot tehet a védelem módjára.
 
-### Adatzárlat, a nyilvántartott adatokkal kapcsolatos megkeresések jelzése
+### Adatzárlat
 
-21. § (1) A Szolgálat megkeresésére az adatkezelő szerv – így különösen a személyiadat- és lakcím-, a személyi igazolvány-, az anyakönyvi, az útiokmány-, bűnügyi, idegenrendészeti, a gépjárművezetői engedély és gépjármű-, az ingatlan-, a cég-, társadalombiztosítási, adó-, szociális és egészségügyi, katonai nyilvántartásokat kezelő szerv – köteles az érintett személyes adatait zárolni és az adatszolgáltatást az azt igénylő számára megtagadni. Az adatszolgáltatás – a Szolgálat engedélyével és annak közreműködésével – nyomós közérdek érvényesítése érdekében teljesíthető.
+21. § (1) A Szolgálat megkeresésére az adatkezelő szerv – így különösen a személyiadat- és lakcím-, a személyi igazolvány-, az anyakönyvi, az útiokmány-, bűnügyi, idegenrendészeti, a gépjárművezetői engedély és gépjármű-, az ingatlan-, a cég-, társadalombiztosítási, adó-, szociális és egészségügyi, katonai nyilvántartásokat kezelő szerv – köteles az érintett személyes adatait a Szolgálat által meghatározott körben zárolni és az adatszolgáltatást megtagadni. Az adatszolgáltatás – a Szolgálat engedélyével és annak közreműködésével – nyomós közérdek érvényesítése érdekében teljesíthető.
 
 (2) Az adatkezelő szerv közli a zárolt adatok szolgáltatását igénylővel az adatzárlat elrendelésének tényét. Ezzel egyidejűleg az adatkezelő szerv a megkeresésről a Szolgálatot haladéktalanul értesíti.
 
 (3) Az adatzárlatot végrehajtó szervnek biztosítania kell a zárolt adatok biztonságát. Az adatkezelő szerv az adatzárlat időtartama alatt keletkezett változásokat az adatzárlat megszűnése után – indokolt esetben annak tartama alatt – a Szolgálat közlése alapján köteles haladéktalanul átvezetni. Az adatkezelő szerv az adatzárlatot kizárólag a Szolgálat engedélyével oldhatja fel.
 
-(4) Az adatkezelő szerv a zárolt adatokban bekövetkezett változásról haladéktalanul, de legfeljebb három napon belül értesíti a Szolgálatot. A Szolgálat – ha a védelem érdekeivel ez nem áll ellentétben – az adatzárlat tartama alatt is engedélyezheti a változások átvezetését.
+(4)
 
-22. § (1) Ha a személyazonosság megváltoztatását nem rendelték el, az érintett személyére vonatkozó adatokra az adatzárlatot haladéktalanul el kell rendelni.
+22. § (1) Ha a személyazonosság megváltoztatását elrendelték, az érintett eredeti személyazonosító adataira az adatzárlatot haladéktalanul el kell rendelni.
 
-(2) A Szolgálat – az érintett biztonsága érdekében – a személyére vonatkozó adatok szolgáltatását megtagadhatja, kivéve, ha az adatszolgáltatást a védelem elrendelésére okot adó büntetőeljárás során az azt folytató hatóság igényli.
+(2) A Szolgálat – az érintett biztonsága érdekében – a személyére vonatkozó adatok szolgáltatását megtagadhatja, kivéve, ha az adatszolgáltatást a védelem elrendelésére okot adó büntetőeljárás során az azt folytató nyomozó hatóság, bíróság vagy ügyészség igényli.
 
 (3) A Szolgálat az adatzárlat megszüntetéséről – a 21. §-ban foglalt intézkedések megszüntetése érdekében – haladéktalanul értesíti az azt végrehajtó adatkezelő szervet.
+
+### A nyilvántartott adatokkal kapcsolatos megkeresés vagy adatkérés jelzésének előírása
+
+22/A. § (1) Az adatkezelő szerv a Szolgálat megkeresésére az adatszolgáltatás teljesítését követően köteles az érintett – Szolgálat által meghatározott – személyes adataira irányuló megkeresésről vagy adatkérésről – a megkereső vagy adatkérő értesítésének mellőzésével – a Szolgálatot haladéktalanul tájékoztatni.
+
+(2) A Szolgálat a 16. § (1) bekezdés d) pontja szerinti óvintézkedés megszüntetéséről haladéktalanul értesíti az azt végrehajtó adatkezelő szervet.
 
 ### A névváltoztatás
 
@@ -195,20 +215,18 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 ### A személyazonosság megváltoztatásával kapcsolatos szabályok
 
-24. § (1) Ha az érintett biztonsága a 16. § a)–d) pontjaiban meghatározott különleges intézkedések bevezetésével nem biztosítható, a Szolgálat a személyazonosság megváltoztatását az országos rendőrfőkapitány engedélyével kezdeményezi. A Szolgálat a személyazonosság megváltoztatását a legfőbb ügyész által kijelölt ügyész előzetes jóváhagyásával rendeli el.
+24. § (1) Ha az érintett biztonsága a 16. § (1) bekezdés a)–e) pontjaiban meghatározott óvintézkedések bevezetésével nem biztosítható, a Szolgálat a személyazonosság megváltoztatását az országos rendőrfőkapitány engedélyével kezdeményezi. A Szolgálat a személyazonosság megváltoztatását a legfőbb ügyész által kijelölt ügyész előzetes jóváhagyásával rendeli el.
 
 (2) A személyazonosság megváltoztatására irányuló intézkedés a védelem alatt álló valamennyi személyes adatára kiterjedhet; annak keretében az eredeti személyazonosító adatot rögzítő közokirat helyébe – részben vagy egészben, ideiglenesen vagy véglegesen – megváltoztatott tartalmú adatot tartalmazó olyan okirat állítható ki, amely alkalmas az új személyazonosság bizonyítására (új okirat). Az új okiratban rögzített, megváltoztatott tartalmú adatok nem egyezhetnek meg más természetes személy ugyanolyan, a két személy azonosságát kifejező adataival.
 
-(3) A megváltoztatott személyazonosság érvénye, illetve fenntartása kérdésében a felek állapodnak meg.
-
-(4) Nem állítható vissza az érintett eredeti személyazonossága, ha az életkörülményeiben utóbb bekövetkezett változás más természetes személy személyállapotát érinti.
+(3)–(4)
 
 25. § (1) Ha a Szolgálat a személyazonosság megváltoztatását elrendelte,
 
 - a) felszólítja az érintettet, hogy legkésőbb a személyazonosság megváltoztatásáig a harmadik személyekkel szemben fennálló, egyszeri jogügylettel teljesíthető kötelezettségének tegyen eleget, illetve a harmadik személyt a vele szemben fennálló kötelezettség teljesítésére hívja fel;
-- b) intézkedik az adatkezelő szervek felé annak érdekében, hogy – a személyes adatok kezelésére vonatkozó jogszabályok szerint – az érintett eredeti személyazonosító adatainak kezelését szüntessék meg, és azokat a Szolgálat részére nyilvántartás céljából küldjék meg.
+- b) intézkedik az adatkezelő szervek felé a 22. § (1) bekezdése szerinti adatzárlat elrendelésére.
 
-(2) Az adatkezelésre, illetve az okirat kiállítására jogosult szerv a Szolgálat megkeresésére, a Szolgálat által közölt adatok alapján – az érintett személyes adatai kezelésének megszüntetését követően haladéktalanul, legfeljebb 15 napon belül – az érintett részére új okiratot állít ki. A Szolgálat ezzel egyidejűleg intézkedik az eredeti okirat bevonásáról. Az adatkezelésre, illetve az okirat kiállítására jogosult szerv az új okiratban foglalt adatokat köteles haladéktalanul, de legfeljebb az okirat kiállításától számított 3 napon belül az általa kezelt nyilvántartásban rögzíteni.
+(2) Az adatkezelésre, illetve az okirat kiállítására jogosult szerv a Szolgálat megkeresésére, a Szolgálat által közölt adatok alapján – az érintett személyes adatai zárolását követően haladéktalanul, legfeljebb 15 napon belül – az érintett részére új okiratot állít ki. A Szolgálat ezzel egyidejűleg intézkedik az eredeti okirat bevonásáról. Az adatkezelésre, illetve az okirat kiállítására jogosult szerv az új okiratban foglalt adatokat köteles haladéktalanul, de legfeljebb az okirat kiállításától számított 3 napon belül az általa kezelt nyilvántartásban rögzíteni.
 
 26. § (1) Ha az adatkezelésre, illetve az okirat kiállítására jogosult szerv tudomása szerint a 25. § (2) bekezdésében meghatározott új okirat kiállítása nyomós közérdeket sért, illetve sérthet, e körülményről – mérlegelés végett – a Szolgálatot haladéktalanul értesíti. Ha a Szolgálat az eredeti megkeresését továbbra is megalapozottnak tartja, a megkeresést a megkeresett szerv köteles végrehajtani.
 
@@ -223,11 +241,11 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 28. § (1) Az érintett a személyazonosságának megváltoztatását követően is fennálló, a 25. § (1) bekezdésének a) pontja szerinti kötelezettségének teljesítése, illetve jogainak érvényesítése érdekében megnevezheti azt a személyt, aki a tartozását átvállalja, illetve akire jogait engedményezi.
 
-(2) Ha az engedményezésre, illetve a tartozásátvállalásra nincs lehetőség és az érintett – a személyazonosságának megváltoztatása folytán – az eredeti személyazonosságához kapcsolódó jogait nem képes érvényesíteni, illetve kötelezettségeit nem tudja teljesíteni, az érintett indokolt kérelmére – a jogainak érvényesítése, illetve kötelezettségeinek teljesítése érdekében – a Szolgálat engedélyezheti az általa a 25. § (1) bekezdés b) pontjában foglaltak szerint nyilvántartott eredeti személyazonosító adatainak felhasználását. Ha a Szolgálat megállapítása szerint a személyes eljárás az érintett biztonságát veszélyezteti, a teljesítés, illetve érvényesítés a Szolgálat útján történik. A teljesítés (érvényesítés) e módjáról a Szolgálat a harmadik személyt értesíti.
+(2) Ha az engedményezésre, illetve a tartozásátvállalásra nincs lehetőség és az érintett – a személyazonosságának megváltoztatása folytán – az eredeti személyazonosságához kapcsolódó jogait nem képes érvényesíteni, illetve kötelezettségeit nem tudja teljesíteni, az érintett indokolt kérelmére – a jogainak érvényesítése, illetve kötelezettségeinek teljesítése érdekében – a Szolgálat engedélyezheti az általa nyilvántartott eredeti személyazonosító adatainak használatát. Ha a Szolgálat megállapítása szerint a személyes eljárás az érintett biztonságát veszélyezteti, a teljesítés, illetve érvényesítés a Szolgálat útján történik. A teljesítés (érvényesítés) e módjáról a Szolgálat a harmadik személyt értesíti.
 
 (3) Ha a Szolgálat a személyazonosság megváltoztatását követően az érintett olyan, korábban keletkezett kötelezettségéről szerez tudomást, amelyet az nem hozott a tudomására, a Szolgálat felszólítja az érintettet a kötelezettsége teljesítésére, amelyre az (1)–(2) bekezdésben foglaltak az irányadók.
 
-29. § (1) Kiskorú, illetve korlátozottan cselekvőképes vagy cselekvőképtelen személy személyazonosságának megváltoztatásához a törvényes képviselő, illetve a gondnok vagy a gyám hozzájárulása szükséges.
+29. § (1)
 
 (2) A védelem alatt álló külföldi számára magyar állampolgárságot igazoló okirat nem állítható ki, tartózkodására nézve a külföldiek beutazásáról és tartózkodásáról szóló törvény rendelkezéseit – e törvény rendelkezéseit figyelembe véve – kell alkalmazni.
 
@@ -235,9 +253,9 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 30. § (1) Visszaesés szempontjából figyelembe kell venni a megváltozott személyazonosságú érintett által elkövetett szándékos bűncselekmény esetén a személyazonosság-csere előtt általa elkövetett szándékos bűncselekményt.
 
-(2) Ha a megváltozott személyazonosságú érintett az eredeti személyazonosító adataival a bűnügyi nyilvántartásban szerepel, a 25. § (2) bekezdés szerint a nyilvántartásban elhelyezett új adatokkal kapcsolatos megkeresésről az adatkezelő szerv a Szolgálatot haladéktalanul értesíti.
+(2) Ha a megváltozott személyazonosságú érintett az eredeti személyazonosító adataival a bűnügyi nyilvántartási rendszerben szerepel, a 25. § (2) bekezdés szerint a nyilvántartási rendszerben elhelyezett új adatokkal kapcsolatos megkeresésről az adatkezelő szerv a Szolgálatot haladéktalanul értesíti.
 
-(3) A személyazonosság megváltoztatása esetén a bűnügyi nyilvántartó az érintett új személyazonosító adatait az érintett eredeti személyazonosító adatai szerint rögzített adatok nyilvántartási időtartamáig tartja nyilván.
+(3) A személyazonosság megváltoztatása esetén a bűnügyi nyilvántartó szerv az érintett új személyazonosító adatait az érintett eredeti személyazonosító adatai alapján rögzített adatok nyilvántartási időtartamáig tartja nyilván.
 
 31. § (1) Azokban a hatósági eljárásokban, amelyekben az eredeti személyazonosító adatok felhasználása nem mellőzhető, az érintett – a Szolgálat engedélyével, a Szolgálat által meghatározott biztonsági előírások betartásával – eredeti személyazonosító adataival is részt vehet.
 
@@ -247,81 +265,132 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 (4) Az (1)–(3) bekezdésben meghatározott esetekben a Szolgálat a 27. § (1) bekezdés a) pontja szerint bevont, a hatósági eljárásban szükséges eredeti okiratot – felhasználásának időtartamáig – az érintett rendelkezésére bocsátja. Amennyiben a bevont eredeti okirat érvényessége időközben lejárt, a Szolgálat intézkedik a megfelelő érvényes okirat kiállítása iránt.
 
-32. § (1) A Szolgálat az érintett személyazonossága megváltoztatásának megszüntetéséről dönt, ha megállapítása szerint az érintett biztonsága a 16. § a)–d) pontjaiban meghatározott különleges óvintézkedések bármelyikének bevezetésével már biztosítható vagy az érintett – a 24. § (4) bekezdésében foglalt kivételtől eltekintve – ezt kéri.
+32. § (1) A Szolgálat az érintett személyazonossága megváltoztatásának megszüntetéséről dönt, ha az érintett biztonsága a 16. § (1) bekezdés a)–e) pontjaiban meghatározott óvintézkedések bármelyikének bevezetésével a továbbiakban biztosítható vagy az érintett – a (3) bekezdésben foglalt kivételtől eltekintve – ezt kéri.
 
 (2) Ha a Szolgálat az érintett személyazonossága megváltoztatására irányuló intézkedését megszüntette,
 
-- a) haladéktalanul intézkedik az eredeti okirat visszaadásáról, illetve az új okirat bevonása, valamint annak a Szolgálat által kezelt nyilvántartásban való elhelyezése iránt;
+- a) haladéktalanul intézkedik az eredeti okirat visszaadásáról, illetve az új okirat bevonásáról, valamint elrendeli a visszavont új személyazonosító adatok (5)–(6) bekezdés szerinti zárolását;
 - b) az intézkedés megszüntetéséről értesíti az adatkezelésre, illetve az okirat kiállítására jogszabály szerint jogosult szervet;
-- c) haladéktalanul intézkedik az elrendelt adatzárlat feloldása iránt.
+- c)
 
-33. § (1) Ha az érintett személyazonosságának ideiglenes megváltoztatását rendelték el, a 25. § (2) bekezdésében írt szabály alkalmazása keretében, az intézkedés tartama alatt az érintett személyes adatainak kezelését nem kell megszüntetni.
+(3) Nem állítható vissza az érintett eredeti személyazonossága, ha az életkörülményeiben utóbb bekövetkezett változás más természetes személy személyállapotát érinti.
 
-(2) A személyazonosság ideiglenes megváltoztatása esetén az érintett eredeti személyazonosító adataira adatzárlat rendelhető el.
+(4) A Szolgálat az érintett kérelmére – különös méltánylást érdemlő esetben – mellőzi az eredeti személyazonosság visszaállítását.
 
-(3) A személyazonosság ideiglenes megváltoztatása esetén a 25. § (1) bekezdésben, a 26. § (2) bekezdésében, illetve a 28. §-ban írt rendelkezést nem kell alkalmazni.
+(5) A (3)–(4) bekezdésben meghatározott esetben a Szolgálat intézkedik az eredeti személyazonosító adatokra elrendelt adatzárlat véglegesítése iránt.
 
-(4) Az adatkezelő szerv – a 28. § (2) bekezdésében foglalt kivétellel – az általa kezelt fedőadatot a személyazonosság ideiglenes megváltoztatásának megszűnése közlésétől számított 10 évig kezeli.
+(6) A végleges adatzárlattal érintett adatok vonatkozásban az adatkezelő szerv köteles az adatszolgáltatást megtagadni, és közölni az adatigénylővel a személyazonosság megváltoztatásának tényét.
+
+33. § (1) A 32. § (4) bekezdése alkalmazásában különös méltánylást érdemlő eset, ha az eredeti személyazonosság visszaállítása a Programban részt vevő személy számára az életvitelét aránytalanul megnehezítené, így különösen, ha
+
+- a) az érintett az új személyazonosító adatot legalább két éve használja,
+- b) betartotta a Szolgálat által meghatározott magatartási szabályokat és biztonsági ajánlásokat,
+- c) az új személyazonosító adataival tanulói vagy munkavégzésre irányuló jogviszonyt létesített vagy törekedett arra, és
+- d) olyan mértékben beilleszkedett a környezetébe, hogy eredeti személyazonosságának visszaállítása számára aránytalan hátrányt okozna.
+
+(2) A 32. § (4) bekezdése alapján nem mellőzhető az eredeti személyazonosság visszaállítása azzal az érintettel szemben, akivel a megállapodást a Szolgálat a 36. § (2) bekezdésében foglalt okból mondta fel.
 
 ### Nemzetközi együttműködés
 
-34. § (1) A külföldi hatóság megkeresésére, külön törvényben meghatározott eljárási jogsegély végrehajtása során a Szolgálat ellátja annak az érintettnek a védelmét, aki Magyarországon folyó büntető- vagy más hatósági eljárásban vesz részt és a védelmét a megkeresett igényelte.
+34. § (1) A külföldi hatóság megkeresésére a Szolgálat ellátja annak a személynek a védelmét, aki külföldön folyó büntetőeljárásban vesz részt és védelmét a megkereső kérte.
 
-(2) Nemzetközi szerződés vagy külön törvény alapján, az azokban foglalt feltételek szerint a Szolgálat
+(2) Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény alapján a Szolgálat megkereshet külföldi államot és
 
-- a) kezdeményezheti az érintett külföldre költöztetését, ha Magyarországon a védelme már nem biztosítható;
-- b) a Program keretében ellátja a külföldről Magyarországra költöztetett személy védelmét;
-- c) sürgősségi intézkedés keretében a külföldi hatóság megkeresésére ideiglenesen, a megkeresésben foglalt időtartamra biztosíthatja az érintett Magyarország területén való elhelyezését, illetve kezdeményezheti az érintett külföldön való ideiglenes elhelyezését.
+- a) kezdeményezheti a Program alatt álló fenyegetett helyzetben lévő személy külföldre költöztetését, ha Magyarországon a védelme már nem biztosítható, és az intézkedés a Magyarországon folyamatban lévő büntetőeljárást nem akadályozza;
+- b) sürgősségi intézkedés keretében, a megkeresésében foglalt időtartamra kezdeményezheti az érintett külföldön való ideiglenes elhelyezését;
+- c) kérheti nem magyar állampolgár érintett személyazonosságának megváltoztatásában való közreműködését, amennyiben a 24. § (1) bekezdésében foglalt feltételek fennállnak.
 
-(3) A (2) bekezdés vonatkozásában, nemzetközi szerződés hiányában a miniszter külföldi államtól viszonossági nyilatkozatot kérhet és külföldi állam felé viszonossági nyilatkozatot tehet.
+(3) Ha nemzetközi szerződés eltérően nem rendelkezik, e törvény alapján a Szolgálat külföldi hatóság megkeresésére
 
-(4) A Szolgálat a (2) bekezdés c) pontjában foglalt sürgősségi intézkedés biztosítása érdekében, azzal egyidejűleg az ideiglenesen Magyarországon elhelyezett érintett védelmében a 16. § (1) bekezdés a) pontjában meghatározott intézkedést alkalmazhatja, illetve az érintett személyi védelmét rendelheti el.
+- a) sürgősségi intézkedés keretében ideiglenesen, a megkeresésben foglalt időtartamra biztosíthatja az érintett Magyarország területén való elhelyezését;
+- b) a Program keretében ellátja a külföldről Magyarországra költöztetett személy, valamint a külföldön megindított büntetőeljárásban részt vevő, de Magyarországon élő magyar vagy letelepedett külföldi állampolgár védelmét;
+- c) közreműködhet a megkereső hatóság védelmi programjában részt vevő magyar állampolgár érintett személyazonosságának megváltoztatásában.
+
+(4) Törvény vagy nemzetközi szerződés alapján a Szolgálat a (2)–(3) bekezdéstől eltérő más módon is együttműködhet a külföldi államban az érintett védelmére jogosult hatósággal.
+
+(5) Nemzetközi szerződés hiányában a (2)–(3) bekezdés alkalmazása érdekében az igazságügyért felelős miniszter külföldi államtól viszonossági nyilatkozatot kérhet és külföldi állam felé viszonossági nyilatkozatot tehet.
+
+(6) Ha az érintett Magyarországon letartóztatásban van, a rendelkezési jogkör gyakorlójának, ha szabadságvesztés, elzárás büntetését tölti, az igazságügyért felelős miniszter előzetes hozzájárulása szükséges a (2) bekezdés a) pontjában meghatározott intézkedéshez.
+
+34/A. § (1) A külföldi hatóságnak az érintett Magyarországra költöztetésére, valamint a Magyarországon biztosított védelmére irányuló megkeresése akkor teljesíthető, ha az tartalmazza legalább:
+
+- a) a megkereső hatóság megnevezését,
+- b) rendelkezést a védelem végrehajtása során keletkező adatok kezeléséről,
+- c) az érintett és a vele együtt költöztetendő személy nevét, születési idejét és helyét, állampolgárságát, foglalkozását, munkahelyét, nyelvtudását, illetve egyéb – a védelem ellátása szempontjából fontos – adatait,
+- d) az érintett büntetőeljárásban betöltött szerepét,
+- e) a külföldi büntetőeljárás rövid leírását,
+- f) a fenyegetettségre, valamint annak súlyosságára vonatkozó adatokat,
+- g) az érintett Magyarországra költöztetésének okát az érintett javasolt tartózkodási helyének megjelölésével,
+- h) a Magyarországon biztosítandó védelem szükséges időtartamát és meghosszabbításának lehetőségét,
+- i) a védelem javasolt formáját, valamint
+- j) a védelem ellátásához szükséges egyéb iratokat.
+
+(2) A Szolgálat az érintett védelmének külföldi államban történő ellátására irányuló megkeresése az (1) bekezdés szerinti tartalommal terjeszthető elő.
+
+34/B. § (1) A Szolgálat a Programmal összefüggő feladatok ellátása során a védelem ellátásáért felelős külföldi hatósággal közvetlenül tart kapcsolatot, megkereséseit közvetlenül fogadja.
+
+(2) A 34. § alkalmazásában külföldi hatóságnak kell tekinteni a nemzetközi szerződéssel vagy a nemzetközi szerződés által létrehozott szerv döntésével létrehozott büntetőbíróságot, továbbá a Nemzetközi Büntetőbíróságot is.
+
+(3) A nemzetközi szerződéssel vagy a nemzetközi szerződés által létrehozott szerv döntésével létrehozott büntetőbíróság, továbbá a Nemzetközi Büntetőbíróság megkeresésének fogadására a nemzetközi szerződésben vagy a nemzetközi szerződést, illetve az Egyesült Nemzetek Biztonsági Tanácsának határozatát kihirdető törvényben kijelölt magyar hatóság jogosult.
+
+34/C. § (1) A védelem átadására vagy átvételére a Szolgálat és a külföldi államban az érintett védelmére jogosult hatóság eseti megállapodást (a továbbiakban: eseti megállapodás) köt. Az eseti megállapodásban rendelkezni kell a védelem ellátása szempontjából lényeges körülményekről, így különösen
+
+- a) a védelem formájáról, tartamáról,
+- b) a költségviselésről, valamint
+- c) a kapcsolattartás módjáról.
+
+(2) Az eseti megállapodás végrehajtása során a felek folyamatosan közvetlenül – a 34/A. § (2) bekezdésében meghatározott esetben a nemzetközi szerződést vagy az Egyesült Nemzetek Biztonsági Tanácsának határozatát kihirdető törvényben megjelölt magyar hatóság útján – egyeztetnek.
+
+(3) Magyarországon az érintett kizárólag az e törvényben meghatározott védelmi formákban részesíthető.
+
+(4) A Szolgálat a 34. § (3) bekezdés a) pontjában foglalt sürgősségi intézkedés biztosítása érdekében az ideiglenesen Magyarországon elhelyezett érintett védelmében a 16. § (1) bekezdés a) pontjában meghatározott intézkedést alkalmazhatja, illetve az érintett személyi védelmét rendelheti el.
+
+34/D. § (1) Ha a Magyarországra átköltöztetett érintett megsérti a magyar jogszabályokat vagy nem tartja be a számára megállapított magatartási szabályokat, erről a Szolgálat haladéktalanul tájékoztatja a külföldi hatóságot.
+
+(2) A 34/A. § (2) bekezdésében meghatározott esetben a külföldi hatóságot a nemzetközi szerződést vagy az Egyesült Nemzetek Biztonsági Tanácsának határozatát kihirdető törvényben kijelölt magyar hatóság útján kell tájékoztatni.
+
+(3) Az érintettnek a védelem érdekeit vagy a Szolgálat személyi állományát indokolatlanul és súlyosan veszélyeztető cselekménye esetén haladéktalanul kezdeményezni kell az érintett visszaköltöztetését.
 
 ### Az érintett támogatása
 
 35. § (1) A Szolgálat az érintett társadalmi beilleszkedésének elősegítése érdekében – ha arra más jogszabály szerint nem jogosult – az áldozatokat segítő egyesületekkel együttműködve gondoskodik a védelem alatt álló mentális, szociális, gazdasági, humán támogatásáról, a jogi segítségnyújtás biztosításáról. A Szolgálat által nyújtott ellátások és támogatások biztosításának szabályait a Kormány rendeletben állapítja meg.
 
-(2) Az érintett szociális és gazdasági támogatása a vagyoni gyarapodását nem szolgálhatja, az csak a létfenntartásához, társadalmi beilleszkedéséhez elengedhetetlenül szükséges mértékig terjedhet.
+(2) A Szolgálat a szociális és gazdasági támogatást az érintett – megállapodás megkötését megelőző két évben elért, munkavégzésre irányuló jogviszonyból, illetve egyéb jövedelemszerző tevékenységéből származó – adózott bevételének átlagára is figyelemmel állapítja meg azzal, hogy a támogatás az érintett vagyoni gyarapodását nem szolgálhatja. Adózott bevétel hiányában a támogatásnak el kell érnie a létfenntartáshoz, társadalmi beilleszkedéshez elengedhetetlenül szükséges mértéket.
 
-(3) Az (1) bekezdésben meghatározott támogatásban az érintett hozzátartozója – a 11. § (4) bekezdésében írt kivétellel – akkor részesülhet, ha őt a 3. § szerint a Programba felvették.
-
-(4) Az érintettnek munkavégzésre irányuló jogviszonyból, illetve más jövedelemszerző tevékenység folytatásából, továbbá más forrásból származó bevételét a Program által nyújtandó szociális és gazdasági támogatás mértékének megállapításánál figyelembe kell venni.
+(3)–(4)
 
 ### A program megszűnése
 
-36. § (1) A program megszűnik, ha
+36. § (1) A Program megszűnik, ha
 
-- a) a védelem feltételei már nem állnak fenn;
-- b) az érintett, vagy – kiskorú, illetve korlátozottan cselekvőképes vagy cselekvőképtelen érintett esetében – a megállapodás megkötésére a 8. § (1) bekezdés szerint jogosult személy a védelemről lemond;
-- c) a Szolgálat a megállapodást felmondja.
+- a) a védelem feltételei már nem állnak fenn,
+- b) az érintett a védelemről lemond,
+- c) az érintett a Szolgálattal való együttműködést megtagadja,
+- d) a Szolgálat a megállapodást felmondja, vagy
+- e) az érintett védelmét a megkereső állam megszünteti, és erről a Szolgálatot értesíti.
 
-(2) A Szolgálat a megállapodást felmondja, ha
+(2) A Szolgálat a megállapodást felmondhatja, ha
 
-- a) a tanú (sértett) nem tesz vallomást vagy korábbi vallomását visszavonja;
-- b) a terhelt nem tesz vallomást vagy korábbi vallomását visszavonja;
-- c) a védelem tartama alatt az érintettel szemben szándékos bűncselekmény elkövetése miatt indított büntetőeljárás a védelem további fenntartását súlyosan veszélyezteti vagy azt lehetetlenné teszi;
-- d) az érintett – a védelem további fenntartását súlyosan veszélyeztetve vagy azt lehetetlenné téve – indokolatlanul eltért a követendő, a megállapodásban rögzített magatartási szabályoktól, vagy tájékoztatási kötelezettségét önhibájából megszegte.
-
-(3) A Szolgálat a megállapodást felmondhatja, ha
-
-- a) a védelem tartama alatt az érintettel szemben olyan szándékos bűncselekmény elkövetése miatt indul büntetőeljárás, amely a védelem érdekeit – a (2) bekezdés c) pontjában érintett eset kivételével – sérti;
-- b) az érintett – a (2) bekezdés d) pontjában érintett eset kivételével – a követendő, a megállapodásban rögzített magatartási szabályoktól indokolatlanul eltért, vagy tájékoztatási kötelezettségét a védelem további fenntartását veszélyeztető módon önhibájából megszegi;
-- c) az érintett indokolatlanul megtagadja a részére a Program által biztosított munkavégzésre irányuló jogviszonyban való részvételt, illetve más jövedelemszerző tevékenység folytatását;
-- d) az érintett védelmét a megkereső állam megszünteti, és erről a védelmet Magyarországon ellátó Szolgálatot értesíti;
+- a) a sértett, a tanú vagy a terhelt büntetőeljárási kötelezettségeit nem teljesíti,
+- b) a védelem tartama alatt az érintettel szemben szándékos bűncselekmény elkövetése miatt indított büntetőeljárás a védelem további fenntartását veszélyezteti,
+- c) az érintett indokolatlanul eltért a megállapodásban rögzített követendő magatartási szabályoktól, vagy tájékoztatási kötelezettségét önhibájából megszegte,
+- d) az érintett indokolatlanul megtagadta a részére a Program keretében biztosított, munkavégzésre irányuló jogviszonyban való részvételt, illetve más jövedelemszerző tevékenység végzését, vagy
 - e) az érintett a 11. § (2) bekezdésében meghatározott kötelezettségének nem tesz eleget.
 
-### Titok és adatvédelmi rendelkezések
+36/A. § (1) Ha a 2. § (2) bekezdésében megjelölt személlyel megkötött megállapodás a 36. § (1) bekezdés b) pontja vagy (2) bekezdés b)–e) pontja alapján szűnik meg, úgy a rá tekintettel védelemben részesített személy vonatkozásában – kérelmére – a Szolgálat 60 napon belül új biztonsági kockázatot felmérő vizsgálatot folytat le. A vizsgálat alapján a Szolgálat dönt arról, hogy a program fenntartása az érintett személy vonatkozásában – a megszűnt megállapodásra tekintet nélkül – lehetséges-e.
 
-37. § A Szolgálat a minősített adatokra vonatkozó védelmi szabályok betartásával kezeli a Program elrendelése, valamint a végrehajtása során keletkezett, minősített adatnak nem minősülő adatokat, továbbá az adathordozókat is.
+(2) Az (1) bekezdés szerinti biztonsági kockázatot felmérő vizsgálat időtartama alatt a program kizárólag a 36. § (1) bekezdése alapján szűnhet meg.
 
-38. § (1) A Szolgálat az érintett védelmének biztosítása céljából a Program elrendelése esetén
+### Adatvédelmi rendelkezések
 
-- a) a Programba felvett személy személyazonosító adatairól, valamint a tartózkodási helyére, a személyazonosság megváltoztatásának tényére vonatkozó, továbbá e törvényben foglalt rendelkezések végrehajtása során keletkezett adatokról, illetve
-- b) az 1. számú melléklet szerinti adattartalommal
+37. § A Szolgálat a minősített adatokra vonatkozó védelmi szabályok betartásával kezeli a Program elrendelése, végrehajtása, továbbá a külföldi állam megkeresése alapján végrehajtott védelem ellátása során keletkezett, minősített adatnak nem minősülő adatokat.
 
-nyilvántartást vezet.
+38. § (1) A Szolgálat az érintett védelmének biztosítása céljából a Program elrendelése esetén jogosult kezelni
 
-(2) A bíróság, az ügyészség, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
+- a) a Programba felvett személy személyazonosító adatait, valamint a tartózkodási helyére, a személyazonosság megváltoztatásának tényére vonatkozó, továbbá e törvényben foglalt rendelkezések végrehajtása során keletkezett adatokat, illetve
+- b) az 1. számú melléklet szerinti adatokat.
+
+(2) A bíróság, az ügyészség, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a – törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
 
 (3) A Szolgálat adatközlése nem sértheti a védelem érdekeit. Az érintett védelme érdekében az átadott adat felhasználására vonatkozóan a Szolgálat korlátokat határozhat meg.
 
@@ -331,20 +400,20 @@ nyilvántartást vezet.
 
 - a) az adatigénylési kérelmet;
 - b) az adatkérő nyilvántartási azonosítóját;
-- c) az adattovábbítás idejét;
+- c) az adattovábbítás időpontját;
 - d) az adatszolgáltatást tartalmazó iratok és egyéb dokumentumok másodpéldányát.
 
-(6) Az (1) bekezdésben meghatározott adatok a büntetőeljárásban résztvevők védelme tárgyában létrehozott nemzetközi szerződés, vagy a 34. § (3) bekezdésében meghatározott esetben viszonosság alapján – ha a továbbítás súlyos és közvetlen veszély elhárításához vagy súlyos bűncselekmény megelőzéséhez szükséges – nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhatók, amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek.
+(6) Az (1) bekezdésben meghatározott adatok a büntetőeljárásban résztvevők védelme tárgyában létrehozott nemzetközi szerződés, vagy a 34. § (5) bekezdésében meghatározott esetben viszonosság alapján – ha a továbbítás súlyos és közvetlen veszély elhárításához vagy súlyos bűncselekmény megelőzéséhez szükséges – nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhatók, amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek.
 
 (7) A (6) bekezdésben meghatározott adattovábbítás esetén – amennyiben az minősített adatot érint – a minősített adat védelmére vonatkozó jogszabályok előírásai szerint kell eljárni.
 
-(8) A hatósági adatkezelést végző, illetve közokirat kiállítására jogosult szerv a 17. § szerinti megkeresések teljesítésére kizárólagosan jogosult személyt köteles kijelölni. A minősített adatot érintő megkereséseket a titokvédelemre vonatkozó jogszabályok által meghatározott, a titkos ügykezelőkre vonatkozó követelményeknek megfelelő személy teljesítheti.
+(8) Az adatkezelést végző, illetve közokirat kiállítására jogosult szerv a 17. § szerinti megkeresések teljesítésére kizárólagosan jogosult személyt köteles kijelölni.
 
-(9) A védelmet ellátó szerv az (1) és az (5) bekezdés szerinti nyilvántartásban
+(9) A védelmet ellátó szerv
 
-- a) a Program elrendelése esetén e törvényben foglalt rendelkezések végrehajtása során keletkezett adatokat, a Programba felvett személy személyazonosító adatait, valamint a fedő-, valamint új adatait a személyazonosság megváltoztatása esetén annak időtartamáig, de legkésőbb az érintett élete végéig, illetőleg harmadik személyeknek a vele szemben fennálló hagyatéki igényének érvényesíthetőségéig,
+- a) a Program végrehajtása során keletkezett adatokat, a Programba felvett személy személyazonosító adatait, valamint új személyazonosító adatait a személyazonosság megváltoztatása esetén annak időtartama alatt, de legkésőbb az érintett élete végéig, illetve harmadik személyeknek a vele szemben fennálló hagyatéki igényének érvényesíthetőségéig,
 - b) az érintett egyéb adatait és harmadik személyek adatait a védelem megszűnéséig,
-- c) az adatszolgáltatást kérő más szerv részére továbbított személyes adatokat érintően az (5) bekezdés szerint nyilvántartott adatokat a védelem megszűnéséig
+- c) az adattovábbítási nyilvántartásban kezelt adatokat a védelem megszűnéséig
 
 kezelheti.
 
@@ -426,7 +495,7 @@ B) a 18. életévét be nem töltött gyermek(ek) (örökbe fogadott és nevelt 
 - 2. neve: foglalkozása: életkora: lakóhelye (tartózkodási helye): munkahelye (iskolája):
 - 3. neve: foglalkozása: életkora: lakóhelye (tartózkodási helye): munkahelye (iskolája):
 - 4. neve: foglalkozása: életkora: lakóhelye (tartózkodási helye): munkahelye (iskolája):
-- 5. neve: foglalkozása: életkora: lakóhelye (tartózkodási helye): munkahelye (iskolája): C) más olyan személyek adatai, akivel a tanú együtt költözne (pl. jegyes, barát, barátnő, elvált házastárs, külön háztartásban élő gyermek): neve: életkora: lakóhelye (tartózkodási helye): foglalkozása: iskolai végzettsége: szakképzettsége: D) Kiskorú érintett esetén a szülő (örökbefogadó, nevelő szülő vagy a gyermek állandó felügyeletével megbízott személy adatai: neve: életkora: lakóhelye (tartózkodási helye): foglalkozása: iskolai végzettsége: szakképzettsége: neve: életkora: lakóhelye (tartózkodási helye): foglalkozása: iskolai végzettsége: szakképzettsége:
+- 5. neve: foglalkozása: életkora: lakóhelye (tartózkodási helye): munkahelye (iskolája): C) más olyan személyek adatai, akivel a tanú együtt költözne (pl. jegyes, barát, barátnő, elvált házastárs, külön háztartásban élő gyermek): neve: életkora: lakóhelye (tartózkodási helye): foglalkozása: iskolai végzettsége: szakképzettsége: D) Kiskorú érintett esetén a szülő (örökbefogadó, nevelő szülő adatai: neve: életkora: lakóhelye (tartózkodási helye): foglalkozása: iskolai végzettsége: szakképzettsége: neve: életkora: lakóhelye (tartózkodási helye): foglalkozása: iskolai végzettsége: szakképzettsége:
 
 #### III. Az érintett és hozzátartozójának vagyoni helyzetére vonatkozó adatok
 
@@ -714,7 +783,7 @@ az érintett aláírása
 
 ....................
 
-kiskorú, valamint korlátozottan cselekvőképesvagy cselekvőképtelen érintett esetén a törvényes képviselő, gondnok vagy gyám aláírása
+korlátozottan cselekvőképesvagy cselekvőképtelen érintett esetén a törvényes képviselő, vagy ha ügygondnok jár el, az ügygondnok aláírása
 
 ### 2. számú melléklet a 2001. évi LXXXV. törvényhez
 
@@ -729,10 +798,7 @@ kiskorú, valamint korlátozottan cselekvőképesvagy cselekvőképtelen érinte
   - b) a védelem ellátása során az érintett életének, testi épségének, biztonságának védelme érdekében a veszélyhelyzet fokához igazodó intézkedéseket alkalmazza,
   - c) az érintettet a védelemhez szükséges utasításokkal, ajánlásokkal és felszereléssel ellátja,
   - d) az érintett szociális, gazdasági, mentális támogatásáról, valamint a jogi segítségnyújtásról a törvényben meghatározott, illetve a törvény felhatalmazása alapján a rendőrség és az érintett szervek között megkötött együttműködési megállapodásokban szabályozott módon gondoskodik;
-- 6. rendelkezést arról, hogy a Szolgálat jogosult
-  - a) az érintett személyes kapcsolatait ellenőrizni, azokkal kapcsolatban – a védelem céljai érdekében – korlátozásokat elrendelni,
-  - b) bűnmegelőzési célzattal, illetve a Program biztonsága érdekében az érintett biztonsági ellenőrzését elvégezni,
-  - c) az érintett vagyoni helyzetét ellenőrizni;
+- 6.
 - 7. az érintett kötelezettségei körében rendelkezést arról, hogy
   - a) a büntetőeljárást lefolytató hatóságokkal köteles együttműködni,
   - b) a Szolgálat által előírt magatartási szabályokat betartja és általában minden olyan magatartástól tartózkodik, amellyel önmaga vagy a rá tekintettel a Programba felvett más személy, illetve a Szolgálat munkatársainak életét, testi épségét vagy biztonságát veszélyezteti,
