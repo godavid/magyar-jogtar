@@ -2919,7 +2919,7 @@ személynél végezhető el.
 
 188. § E fejezet alkalmazásában
 
-- a) pszichiátriai intézet: minden olyan egészségügyi szolgáltatást vagy azt is nyújtó ellátóhely, amely pszichiátriai betegek pszichiátriai betegségükből eredő ellátását, továbbá felügyeletét, gondozását napi 24 órán át biztosítja, függetlenül az intézmény által nyújtott egyéb szolgáltatásoktól, fenntartójától és elnevezésétől, ideértve a külön jogszabály szerinti közösségi pszichiátriai ellátást nyújtó intézetet is. A 189–195. § tekintetében pszichiátriai intézetnek minősül a pszichiátriai betegek járóbeteg-szakellátását végző pszichiátriai intézmény, a pszichiátriai betegek otthona, valamint rehabilitációs intézete, ideértve az átmeneti intézményt is. A pszichiátriai betegek otthonára és rehabilitációs intézetére vonatkozó eltérő szabályokat külön jogszabály állapítja meg. Külön jogszabály tartalmazza a büntetőeljárás során elrendelt kényszergyógykezelést, ideiglenes kényszergyógykezelést és elmemegfigyelést végző szervre vonatkozó eltérő szabályokat;
+- a) pszichiátriai intézet: minden olyan egészségügyi szolgáltatást vagy azt is nyújtó ellátóhely, amely pszichiátriai betegek pszichiátriai betegségükből eredő ellátását, továbbá felügyeletét, gondozását napi 24 órán át biztosítja, függetlenül az intézmény által nyújtott egyéb szolgáltatásoktól, fenntartójától és elnevezésétől, ideértve a külön jogszabály szerinti közösségi pszichiátriai ellátást nyújtó intézetet is. A 189–195. § tekintetében pszichiátriai intézetnek minősül a pszichiátriai betegek járóbeteg-szakellátását végző pszichiátriai intézmény, a pszichiátriai betegek otthona, valamint rehabilitációs intézete, ideértve az átmeneti intézményt is. A pszichiátriai betegek otthonára és rehabilitációs intézetére vonatkozó eltérő szabályokat külön jogszabály állapítja meg. Külön jogszabály tartalmazza a kényszergyógykezelést, előzetes kényszergyógykezelést és a büntetőeljárás során az elmeállapot megfigyelést végző szervre vonatkozó eltérő szabályokat;
 - b) veszélyeztető magatartás: a beteg – mentális zavara következtében – saját vagy mások életére, testi épségére, egészségére jelentős veszélyt jelenthet, és a kezelés hiánya állapotának további romlását eredményezné, amely a 196. § c) pontja szerinti gyógykezeléssel hárítható el, de a megbetegedés jellegére tekintettel a sürgős intézeti gyógykezelésbe vétel nem indokolt;
 - c) közvetlen veszélyeztető magatartás: a beteg – akut mentális zavara következtében – saját vagy mások életére, testi épségére, egészségére közvetlen és súlyos veszélyt jelent, és az azonnali kezelés hiánya állapotának további romlását eredményezné, amely a 196. § b) pontja szerinti azonnali intézeti gyógykezeléssel hárítható el;
 - d) pszichiátriai beteg: az a beteg, akinél a kezelőorvos a Betegségek Nemzetközi Osztályozása X. Revíziója szerinti Mentális és Viselkedészavar (F00-F99), illetve szándékos önártalom (X60-X84) diagnózisát állítja fel.
@@ -3215,7 +3215,7 @@ van helye.
 
 213. § A halottból transzplantáció céljára eltávolított, de fel nem használt szerveket, szöveteket kórszövettani vizsgálatnak kell alávetni.
 
-214. § Szerv- és szövetátültetés céljára – jogszabály eltérő rendelkezése hiányában, a 211. §-ban foglalt keretek között – bűncselekmény áldozatából is sor kerülhet szerv és szövet eltávolítására, amennyiben a nyomozó hatóság ahhoz előzetesen írásban hozzájárulását adta. Ebben az esetben a beavatkozás során okozott elváltozásokat részletesen dokumentálni kell.
+214. § Szerv- és szövetátültetés céljára – jogszabály eltérő rendelkezése hiányában, a 211. §-ban foglalt keretek között – bűncselekmény áldozatából is sor kerülhet szerv és szövet eltávolítására, amennyiben a bíróság, az ügyészség, illetve a nyomozó hatóság ahhoz előzetesen írásban hozzájárulását adta. Ebben az esetben a beavatkozás során okozott elváltozásokat részletesen dokumentálni kell.
 
 ### Szerv és szövet beültetése
 
@@ -3279,7 +3279,7 @@ megítéléséhez szükséges.
 
 - a) büntetlen előéletű,
 - b) nem áll egészségügyi tevékenységet kizáró foglalkozástól eltiltás alatt,
-- c) nem áll büntetőeljárás hatálya alatt, a magánvádas és a pótmagánvádló vádindítványa alapján indult eljárást kivéve,
+- c) nem áll büntetőeljárás hatálya alatt, a magánvádas és a pótmagánvádas eljárást kivéve,
 - d) megfelel a halottvizsgálati szaktanácsadókról, valamint a halottvizsgálati szaktanácsadói névjegyzékről szóló miniszteri rendeletben meghatározott egyéb feltételeknek.
 
 (12) A (11) bekezdés a)–c) pontjaiban szereplő adatokat a névjegyzékbe felvételét kérő a 31/A. § szerint igazolja.
@@ -3295,7 +3295,7 @@ megítéléséhez szükséges.
 
 (2) A személyazonosság megállapításáig a rendkívüli halál esetén követendő eljárást kell alkalmazni, ha az elhunyt személyazonossága ismeretlen.
 
-(3) Ha a halál oka és körülményei vizsgálatánál bűncselekmény elkövetésének gyanúja merül fel, a büntetőeljárás szabályai szerint igazságügyi orvosi boncolást kell elrendelni.
+(3) Ha a halál oka és körülményei vizsgálatánál bűncselekmény gyanúja merül fel, a büntetőeljárás szabályai szerint igazságügyi orvosi boncolást kell elrendelni.
 
 (4) Rendkívüli halál esetén rendkívüli halállal kapcsolatos hatósági eljárást kell lefolytatni, kormányrendeletben meghatározottak szerint hatósági boncolást kell elrendelni.
 

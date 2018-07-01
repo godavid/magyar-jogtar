@@ -834,7 +834,7 @@ követő hat hónapig kezeli.
 
 - a) a 20. § (11) bekezdésében, valamint a 21. § (4) bekezdésében meghatározott ellenőrző hatóságok a hatáskörükbe tartozó ügyeket érintően,
 - b) a rendőrség,
-- c) az ügyészség,
+- c) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 - d) a bíróság.
 
 (2) Az (1) bekezdésben felsoroltakon kívül a közigazgatási bírságnyilvántartásból adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít a közigazgatási bírságnyilvántartás adatainak megismerésére.
@@ -871,12 +871,12 @@ követő hat hónapig kezeli.
 
 (4) A szolgáltatott adatok nem képezik az adattovábbítási nyilvántartás részét.
 
-(5) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a rendőrség és a nemzetbiztonsági szolgálatok részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
+(5) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a rendőrség és a nemzetbiztonsági szolgálatok, valamint a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
 
 (6) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
 - a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- b) bűncselekmény gyanúja esetén az eljáró nyomozó hatóság vagy ügyészség,
+- b) büntetőeljárás során a bíróság, az ügyészség, a nyomozó hatóság, illetve az előkészítő eljárást folytató szerv,
 - c) az adattovábbításban érintett szabálysértési hatóság vezetője,
 - d) a nemzetbiztonsági szolgálatok.
 
@@ -951,7 +951,7 @@ követő hat hónapig kezeli.
 
 - a) a bíróság, a közigazgatási bírság bírósági felülvizsgálatával kapcsolatos eljárás lefolytatása céljából,
 - b) az ügyészség, az ügyész közigazgatási eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
-- c) a nyomozó hatóságok, a hatáskörükbe tartozó bűncselekmények nyomozásával összefüggő feladatok ellátása érdekében,
+- c) a bíróság, az ügyészség és a nyomozó hatóság büntetőeljárás lefolytatása érdekében,
 - d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
 - e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
 - f) a terrorizmust elhárító szerv.

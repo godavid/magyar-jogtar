@@ -1463,8 +1463,8 @@ Ha az ügyész az ügyészségről szóló törvény alapján felhívással él,
 - a) – az ideiglenes intézkedést kivéve – az ügy nem tartozik az eljáró hatóság hatáskörébe,
 - b) azt a szakhatóság kötelező megkeresése nélkül vagy a szakhatóság állásfoglalásának figyelmen kívül hagyásával hozták meg,
 - c) a döntést hozó testületi szerv nem volt jogszabályszerűen megalakítva, nem volt határozatképes, vagy nem volt meg a döntéshez szükséges szavazati arány,
-- d) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ítélet megállapította, vagy ilyen ítélet meghozatalát nem a bizonyítottság hiánya zárja ki,
-- e) az ügyész a vádemelést elhalasztotta és annak tartama eredményesen telt el,
+- d) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította, vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
+- e) az ügyészség feltételes ügyészi felfüggesztést alkalmazott és annak tartama eredményesen telt el,
 - f) a tartalma a közigazgatási bíróság adott ügyben hozott határozatával ellentétes,
 - g) az eljárásba további ügyfél bevonásának lett volna helye, vagy
 - h) valamely súlyos eljárási jogszabálysértést törvény semmisségi oknak minősít.

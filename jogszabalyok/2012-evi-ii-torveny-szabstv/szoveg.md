@@ -56,7 +56,7 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 (3) Ha a szabálysértés jogellenes állapot előidézésével, illetve fenntartásával vagy kötelesség teljesítésének elmulasztásával valósul meg, az elévülési határidő mindaddig nem kezdődik el, amíg ez az állapot fennáll, illetve amíg a kötelesség jogszerűen teljesíthető lett volna.
 
-(4) Ha az elkövetéstől számított hat hónapon belül a cselekmény miatt büntetőeljárás indul, de a nyomozó hatóság, az ügyész vagy a bíróság a szabálysértési eljárás lefolytatása céljából az ügyet átteszi a szabálysértési hatósághoz vagy a szabálysértés miatt eljáró bírósághoz, az (1) bekezdés szerinti elévülés az áttételt elrendelő határozatnak a szabálysértési hatósághoz, illetve a szabálysértés miatt eljáró bírósághoz érkezése napjával újrakezdődik.
+(4) Ha az elkövetéstől számított hat hónapon belül a cselekmény miatt büntetőeljárás indul, de a nyomozó hatóság, az ügyészség vagy a bíróság a szabálysértési eljárás lefolytatása céljából az ügyet átteszi a szabálysértési hatósághoz vagy a szabálysértés miatt eljáró bírósághoz, az (1) bekezdés szerinti elévülés az áttételt elrendelő határozatnak a szabálysértési hatósághoz, illetve a szabálysértés miatt eljáró bírósághoz érkezése napjával újrakezdődik.
 
 (5) A szabálysértés miatt az eljárás alá vont személy ellen a szabálysértési hatóság, a fegyelmi jogkör gyakorlója, az ügyészség és a bíróság által foganatosított eljárási cselekmények az elévülést félbeszakítják. A félbeszakítás napjával az elévülési idő újrakezdődik.
 
@@ -1647,7 +1647,7 @@ téríti meg.
 
 (3) Ha a bizonyítás felvétele a tárgyaláson jelentős nehézségbe ütközne, a bíróság kiküldött bíró vagy megkeresett bíróság útján jár el.
 
-(4) Amennyiben a tárgyalás adataiból bűncselekmény elkövetésének gyanújára lehet következtetni, a bíróság az ügyet haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező ügyészséghez.
+(4) Amennyiben a tárgyalás adataiból bűncselekmény gyanújára lehet következtetni, a bíróság az ügyet haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező ügyészséghez.
 
 114. § (1) A bíróság az ügyet lehetőleg egy tárgyalási napon befejezi.
 
@@ -2470,7 +2470,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
   - ge) hozzáférési jogosultságának terjedelmét és körét, keletkezésének és törlésének tényét és időpontját,
   - gf) egyedi azonosítóit.
 
-(3) Az adatkezelés jogszerűségének ellenőrzése céljából a szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatok teljes körét a szabálysértési nyilvántartó szerv, a törvényességi felügyeletet ellátó ügyész, az Alkotmányvédelmi Hivatal, valamint a nyomozó hatóság közvetlen adathozzáféréssel történő adatátvétellel jogosult átvenni.
+(3) Az adatkezelés jogszerűségének ellenőrzése céljából a szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatok teljes körét a szabálysértési nyilvántartó szerv, a törvényességi felügyeletet ellátó ügyész, az Alkotmányvédelmi Hivatal, a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv közvetlen adathozzáféréssel történő adatátvétellel jogosult átvenni.
 
 (4) A szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatokat a jogosultság törlésétől számított öt évig kell megőrizni.
 
@@ -2494,7 +2494,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - b) az ügyészség, az ügyész szabálysértési eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
 - c) a rendőrség, az e törvényben foglalt feladatai ellátása, valamint törvényben meghatározott engedélyezési eljárás során az engedély kiadása feltételeinek a megállapítása, továbbá a megbízhatósági vizsgálat lefolytatása céljából,
 - d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, a büntetés-végrehajtási szerv, valamint a szabálysértési szabályozásért felelős miniszter a szabálysértési méltányossági eljárás során az e törvényben foglalt feladataik ellátása céljából,
-- e) a nyomozó hatóság, az ügyészség és a bíróság büntetőeljárás lefolytatása céljából,
+- e) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából,
 - f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából, valamint
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából.
 
@@ -2620,7 +2620,7 @@ előírja.
 (5) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
 - a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- b) bűncselekmény gyanúja esetén az eljárásra hatáskörrel rendelkező nyomozó hatóság és az ügyész,
+- b) büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 - c) az adattovábbításban érintett szabálysértési hatóság vezetője,
 - d) a nemzetbiztonsági szolgálatok,
 - e)
@@ -3070,7 +3070,9 @@ szabálysértést követ el.
 
 (3) Aki olyan sportrendezvényen vagy sportlétesítményben tartózkodik, ahonnan a sportról szóló törvényben, a sportrendezvényen történő részvételből kizárták, szabálysértést követ el.
 
-(4) Az (1)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+(4) Aki az államhatárról szóló törvény 5. § (1c) bekezdése szerinti tartózkodás szabályait megszegi, szabálysértést követ el.
+
+(5) Az (1)–(4) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
 #### 156. Jégen tartózkodás szabályainak megszegése
 
@@ -3256,7 +3258,7 @@ szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 
 helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának helyszín biztosítására vonatkozó jogszerű intézkedésének, illetve a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű utasításának nem tesz eleget, szabálysértést követ el.
 
-(2) Aki a Rendőrségről szóló törvényben meghatározott személy- és létesítménybiztosítási intézkedés helyszínén a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű rendőri utasításának nem tesz eleget, szabálysértést követ el.
+(2) Aki a Rendőrségről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási intézkedés helyszínén a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű rendőri utasításának nem tesz eleget, szabálysértést követ el.
 
 (3) Aki a gyülekezésről szóló törvény hatálya alá tartozó rendezvény feloszlatását követően a helyszínt nem hagyja el, szabálysértést követ el.
 
@@ -3666,7 +3668,7 @@ részletes szabályait rendeletben szabályozza.
 
 (4a) Azokat a 2012. április 15-e előtt elkövetett cselekményeket, amelyek a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 138/A. §-ának a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartásról szóló 2012. évi II. törvény 253. § (2) bekezdésével megállapított a) pontja alapján nem minősülnek bűncselekménynek, e törvény szerint szabálysértésként kell elbírálni.
 
-(5) A (4) bekezdésben meghatározott cselekmény miatt 2012. április 15. napján folyamatban lévő nyomozás, illetve büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy – ha a cselekmény miatt szabálysértési elzárás büntetés nem szabható ki – a szabálysértési hatósághoz kell áttenni. Ilyen esetben az előkészítő eljárást lefolytató szerv, illetve a szabálysértési hatóság, valamint a bíróság felhasználhatja mindazokat a bizonyítékokat, amelyeket a nyomozó hatóság, az ügyész vagy a büntető ügyben eljárt bíróság a büntetőeljárás során szerzett be.
+(5) A (4) bekezdésben meghatározott cselekmény miatt 2012. április 15. napján folyamatban lévő büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy – ha a cselekmény miatt szabálysértési elzárás büntetés nem szabható ki – a szabálysértési hatósághoz kell áttenni. Ilyen esetben az előkészítő eljárást lefolytató szerv, illetve a szabálysértési hatóság, valamint a bíróság felhasználhatja mindazokat a bizonyítékokat, amelyeket a nyomozó hatóság, az ügyészség vagy a büntető ügyben eljárt bíróság a büntetőeljárás során szerzett be.
 
 (5a) E törvény szerint – a 2. § (5) bekezdése figyelmen kívül hagyásával – szabálysértésként kell elbírálni azokat a 2013. július 1-je előtt elkövetett cselekményeket, amelyek a Büntető Törvénykönyvről szóló 2012. évi C. törvény alapján 2013. július 1-jét követően már nem bűncselekménynek, hanem szabálysértésnek minősülnek, az ezek miatt folytatott büntetőeljárás megszüntetésével egyidejűleg az ügyet a szabálysértési eljárás lefolytatása céljából az előkészítő eljárást lefolytató szervhez vagy a szabálysértési hatósághoz áttették, és a szabálysértési eljárás megszüntetésére 2014. január 1-je előtt nem került sor.
 

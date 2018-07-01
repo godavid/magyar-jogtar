@@ -1189,7 +1189,7 @@ vehessen fel.
 
 52/A. § (1) A felsőoktatási intézmény az általa vagy jogelődje által kiállított oklevelet és oklevélmellékletet az oklevél kiállításától számított öt éven belül visszavonja, ha az oklevelet jogellenesen szerezték meg. A visszavonásra egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta, a bűncselekmény elkövetését jogerős bírói vagy ügyészi határozat megállapította, és a vádemelés elhalasztásának tartama eredményesen telt el, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta, és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy az ügyészség a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (3) A visszavont, megsemmisített oklevelet a felsőoktatási intézmény bevonja. A határozatot – indokolás nélkül – a miniszter által vezetett minisztérium hivatalos lapjában, valamint az oktatási hivatal honlapján közzé kell tenni.
 
@@ -1197,7 +1197,7 @@ vehessen fel.
 
 (5) Ha az oklevelet kiállító felsőoktatási intézmény jogutód nélkül szűnt meg az (1) és (2) bekezdés szerinti eljárásban az oktatási hivatal jár el.
 
-(6) A (2) bekezdés szerinti jogerős határozatot hozó szerv a határozatról haladéktalanul értesíti az oklevél kibocsátóját, valamint az oktatási hivatalt.
+(6) A (2) bekezdés szerinti jogerős, illetve további jogorvoslattal nem támadható határozatot hozó bíróság vagy ügyészség a határozatról haladéktalanul értesíti az oklevél kibocsátóját, valamint az oktatási hivatalt.
 
 ### XIV. Fejezet — A TEHETSÉGGONDOZÁSRA, A DOKTORI KÉPZÉSRE VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -1530,7 +1530,7 @@ kapcsolatos ügyekben.
 
 (6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára és a diákotthon működési feltételeinek felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
 
-(7) Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
+(7) Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
 
 (8) Az oktatási hivatal 67. § (3) bekezdés c), e) és f) pontja szerinti eljárásában első fokon hozott döntésével szemben – kormányrendeletben meghatározott hatósághoz – fellebbezésnek van helye.
 
@@ -2451,7 +2451,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 107/A. § (1) A 107. § (3) bekezdése szerinti államilag elismert nyelvvizsga-bizonyítványt a kiállításától számított öt éven belül – kormányrendeletben meghatározott eljárásban – a kiállító vizsgaközpont határozattal visszavonja, ha megállapítja, hogy a kiállítás feltételei nem álltak fenn. A visszavont nyelvvizsga-bizonyítványt az oktatási hivatalnak kell megküldeni, amely gondoskodik annak megsemmisítéséről. A visszavonásra egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha a nyelvvizsga-bizonyítvány kiállítását bűncselekmény befolyásolta, a bűncselekmény elkövetését jogerős bírói vagy ügyészi határozat megállapította, és a vádemelés elhalasztásának tartama eredményesen telt el, a kiállító vizsgaközpont a nyelvvizsga-bizonyítványt időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. Ha a kiállító vizsgaközpont jogutód nélkül megszűnt, a nyelvvizsga-bizonyítványt az oktatási hivatal semmisíti meg. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha a nyelvvizsga-bizonyítvány kiállítását bűncselekmény befolyásolta, és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy az ügyészség a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el, a kiállító vizsgaközpont a nyelvvizsga-bizonyítványt időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. Ha a kiállító vizsgaközpont jogutód nélkül megszűnt, a nyelvvizsga-bizonyítványt az oktatási hivatal semmisíti meg. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (3)
 
@@ -2459,7 +2459,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 (5) Ha a nyelvvizsga-bizonyítványt kiállító vizsgaközpont jogutód nélkül szűnt meg, az (1) és (2) bekezdés szerinti eljárásban az oktatási hivatal jár el.
 
-(6) A (2) bekezdés szerinti jogerős határozatot hozó szerv a határozatról haladéktalanul értesíti a nyelvvizsga-bizonyítvány kibocsátóját, valamint az oktatási hivatalt.
+(6) A (2) bekezdés szerinti jogerős, illetve további jogorvoslattal nem támadható határozatot hozó bíróság vagy ügyészség a határozatról haladéktalanul értesíti a nyelvvizsga-bizonyítvány kibocsátóját, valamint az oktatási hivatalt.
 
 (7) A vizsgaközpont által hozott döntés ellen fellebbezésnek van helye.
 

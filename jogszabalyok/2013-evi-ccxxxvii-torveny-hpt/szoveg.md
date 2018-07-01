@@ -2411,9 +2411,9 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
 - a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében vagy
 - b) a Btk. XXVII. vagy XXXV–XLIII. Fejezetében
 
-meghatározott bűncselekmény miatt az ügyész vádat emelt, illetve külföldön vagyon elleni vagy gazdasági bűncselekmény miatt az illetékes hatóság vádat emelt, ezt a tényt a vádemelésről való tudomásszerzését követően haladéktalanul bejelenti a Felügyeletnek. A bejelentéshez mellékelni kell a vádemelésről szóló okiratot és a vádemelés alapjául szolgáló cselekmény leírását.
+meghatározott bűncselekmény miatt az ügyészség vádat emelt, illetve külföldön vagyon elleni vagy gazdasági bűncselekmény miatt az illetékes hatóság vádat emelt, ezt a tényt a vádemelésről való tudomásszerzését követően haladéktalanul bejelenti a Felügyeletnek. A bejelentéshez mellékelni kell a vádemelésről szóló okiratot és a vádemelés alapjául szolgáló cselekmény leírását.
 
-(7) Ha az ügyész vádat emelt vagy az illetékes hatóság külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt emelt vádat, amely a magyar jog szerint is büntetendő, a Felügyelet a (6) bekezdés szerinti bejelentés alapján mérlegeli, hogy a vezető állású személy ellen emelt vád alkalmas-e a pénzügyi intézmény iránti bizalom vagy a pénzügyi közvetítőrendszer iránti közbizalom megingatására.
+(7) Ha az ügyészség vádat emelt vagy az illetékes hatóság külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt emelt vádat, amely a magyar jog szerint is büntetendő, a Felügyelet a (6) bekezdés szerinti bejelentés alapján mérlegeli, hogy a vezető állású személy ellen emelt vád alkalmas-e a pénzügyi intézmény iránti bizalom vagy a pénzügyi közvetítőrendszer iránti közbizalom megingatására.
 
 (8) Amennyiben a Felügyelet a (7) bekezdés szerinti mérlegelési jogkörében úgy ítéli meg, hogy a (6) bekezdésben említett vádemeléssel érintett cselekmény a pénzügyi intézmény iránti bizalom vagy a pénzügyi közvetítőrendszer iránti közbizalom megingatására alkalmas, a kinevezésre, illetve a megválasztásra irányuló engedélyt a büntetőeljárás befejezéséig felfüggeszti.
 
@@ -2722,11 +2722,11 @@ szemben.
 
 (4) A (2) bekezdésben előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró
 
-- a) nyomozó hatósággal, ügyészséggel szemben a folyamatban lévő büntetőeljárás, valamint a feljelentés kiegészítése keretében,
+- a) nyomozó hatósággal, ügyészséggel szemben,
 - b) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben,
-- c) a törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel szemben.
+- c) a törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel szemben.
 
-(5) A pénzügyi intézmény a nyomozó hatóságot, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a „halaszthatatlan intézkedés” jelzéssel ellátott, önálló jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak minősülő adatokról.
+(5)
 
 (6) Nem jelenti az üzleti titok sérelmét az MNB által a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
 
@@ -2765,9 +2765,9 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a szövetkezeti hitelintézeti integráció feladatkörében eljáró központi bankjával, kötelező intézményvédelmi szervezettel, valamint az Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
-- d) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
+- d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 - e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
-- f) a külön törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+- f) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 - g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - h) az adó-, vám- és egészségbiztosítási, nyugdíjbiztosítási igazgatási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása, továbbá a jogalap nélkül felvett ellátás összegének megtérülése érdekében eljáró adóhatósággal, vámhatósággal, illetve egészségbiztosítási szervvel, nyugdíjbiztosítási igazgatási szervvel,
 - i) bírósági végrehajtási eljárásban és a bírósági végrehajtó által lefolytatott közigazgatási végrehajtási eljárásban – ideértve a bírósági végrehajtásról szóló 1994. évi LIII. törvény 79/C. § (2) bekezdése alapján a közös számla nem adós tulajdonosának nevére és címére vonatkozó megkeresést is – eljáró végrehajtóval, valamint a bírósági végrehajtási eljárásba a lakáscélú állami támogatásokról szóló kormányrendeletek alapján bekapcsolódni szándékozó lakáscélú állami támogatások ügyében eljáró szervvel,
@@ -2782,7 +2782,7 @@ az államháztartásért felelős miniszter és a pénz-, tőke- és biztosítá
 - r) a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatával összefüggő feladatkörében eljáró, szociális hatáskört gyakorló szervvel
 - s) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
 
-szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.
+szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve írásbeli megkeresése esetén.
 
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
@@ -2796,7 +2796,9 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 (4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
 
-(4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény a nyomozó hatóság és az ügyészség írásbeli megkeresésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
+(4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény rendőrség és a Nemzeti Adó- és Vámhivatal titkos információgyűjtés folytatására feljogosított szerve, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
+
+(4b) A pénzügyi intézmény a büntetőeljárásról szóló törvényben meghatározott fizetési műveletek megfigyelésének elrendelése esetén az elrendelésről szóló határozatban megjelölt adatokat az abban meghatározott módon és határidőben köteles rögzíteni és továbbítani.
 
 (5) Nem kell a (4) bekezdés szerinti adatokat az írásbeli megkeresésében megjelölni, ha a Gazdasági Versenyhivatal előzetes értesítés nélkül helyszíni szemlét vagy helyszíni kutatást tart. Ezekben az esetekben a Gazdasági Versenyhivatal megkeresését a helyszínen közli.
 
@@ -2808,7 +2810,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresé
 
 (9) Az adóhatóság a FATCA-törvényből, valamint a pénzügyi számlákkal kapcsolatos egyéb adatszolgáltatási kötelezettség teljesítése céljából az Aktv. 43/B. és 43/C., továbbá 43/H. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.
 
-162. § (1) A pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
+162. § (1) A pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
 - a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–79. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §) vagy új pszichoaktív anyaggal visszaéléssel [1978. évi IV. törvény 283/B. §, illetve Btk. 184. § (1) bekezdés b) pont],
 - b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318–318/A. §) vagy háborús uszítással (Btk. 331. §),
@@ -2825,9 +2827,11 @@ van összefüggésben.
 
 (3) A pénzügyi intézmény a megkeresések teljesítése során a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával jár el.
 
-(4) Ha a pénzügyi intézmény a nyomozó hatóság, a nemzetbiztonsági szolgálat vagy az ügyészség írásbeli megkeresésére határidőn belül az adatszolgáltatást nem teljesíti és a mulasztását a megkereső szerv felé írásban sem menti ki, a megkereső szerv erről tájékoztatja a Felügyeletet.
+(4) Ha a pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség vagy a bíróság adatkérésére, illetve írásbeli megkeresésére határidőn belül az adatszolgáltatást nem teljesíti és a mulasztását a megkereső szerv felé írásban sem menti ki, a megkereső szerv erről tájékoztatja a Felügyeletet.
 
-163. § (1) A 161. § (2) bekezdés d), f), g) és o) pontja, a 161. § (3) bekezdés e)–g) pontja, a 162. §, valamint az 164. § p) pontja alapján történő adatátadásról a pénzügyi intézmény az érintett ügyfelet nem tájékoztathatja.
+(5) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a pénzügyi intézmény az ügyészség engedélye nélkül is köteles az általa kezelt, banktitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+
+163. § (1) A 161. § (2) bekezdés d), f), g) és o) pontja, a 161. § (3) bekezdés e)–g) pontja, a 162. §, valamint az 164. § p) pontja alapján történő adatátadásról a pénzügyi intézmény az érintett ügyfelet nem tájékoztathatja. Ebben az esetben az érintett személy személyes adataihoz való hozzáférési jogának gyakorlása iránti kérelme esetén olyan tájékoztatást kell adni, amelyből nem derül ki, hogy a személyes adatainak továbbítására milyen célból került sor.
 
 (2) Az adatkérő az (1) bekezdésben említett esetek kivételével az ügyfelet az adatkérésről tájékoztatja.
 
@@ -3808,7 +3812,7 @@ betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
 (10) A hitelintézetek egyesülése vagy fiókteleppé alakulása, valamint a betétállomány átruházása esetén az (1)–(3) bekezdés szerinti összeghatár szempontjából 3 hónapig külön betétnek minősülnek egyazon betétesnek az egyesülés, átruházás, illetve a fiókteleppé alakulás előtt az összeolvadó, beolvadó, átadó, átvevő vagy átalakuló hitelintézetnél elhelyezett betétei.
 
-(11) Az olyan betétre, amellyel kapcsolatban pénzmosás alapos gyanúja miatt büntetőeljárás van folyamatban, az eljárás jogerős befejezéséig kártalanítás nem fizethető ki.
+(11) Az olyan betétre, amellyel kapcsolatban pénzmosás miatt büntetőeljárás van folyamatban, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig kártalanítás nem fizethető ki.
 
 (12)
 

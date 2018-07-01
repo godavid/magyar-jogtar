@@ -789,7 +789,7 @@ dönt.
 
 (3) A Hatóság jelentése nyilvános. A minősített adatot tartalmazó jelentést a Hatóság elnöke minősíti, vagy a minősítési jelölést megismétli. A minősített adatot vagy törvény által védett titkot tartalmazó jelentést úgy kell nyilvánosságra hozni, hogy a minősített adat vagy a törvény által védett egyéb titok ne legyen megismerhető.
 
-(4) A Hatóságnak a titkosszolgálati eszközök és módszerek alkalmazására jogosult szervek e tevékenységével kapcsolatos vizsgálatáról készült jelentése nem tartalmazhat olyan adatot, amelyből a szerv adott ügyben folytatott titkos információgyűjtő tevékenységére lehetne következtetni.
+(4) A Hatóságnak a titkos információgyűjtés folytatására vagy a leplezett eszközök alkalmazására feljogosított szervek e tevékenységével kapcsolatos vizsgálatáról készült jelentése nem tartalmazhat olyan adatot, amelyből az adott ügyben folytatott titkos információgyűjtésre vagy a leplezett eszközök alkalmazására lehetne következtetni.
 
 (5) A Hatóság jelentése bíróság vagy más hatóság előtt nem támadható meg.
 
@@ -968,7 +968,7 @@ dönt.
 
 #### 37. Büntető-, szabálysértési és fegyelmi eljárás kezdeményezése
 
-70. § (1) Ha a Hatóság az eljárása során bűncselekmény elkövetésének alapos gyanúját észleli, büntetőeljárást kezdeményez az annak megindítására jogosult szervnél. Ha a Hatóság az eljárása során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, szabálysértési, illetve fegyelmi eljárást kezdeményez a szabálysértési, illetve a fegyelmi eljárás lefolytatására jogosult szervnél.
+70. § (1) Ha a Hatóság az eljárása során bűncselekmény gyanúját észleli, büntetőeljárást kezdeményez az annak megindítására jogosult szervnél. Ha a Hatóság az eljárása során szabálysértés vagy fegyelmi vétség elkövetésének alapos gyanúját észleli, szabálysértési, illetve fegyelmi eljárást kezdeményez a szabálysértési, illetve a fegyelmi eljárás lefolytatására jogosult szervnél.
 
 (2) Az (1) bekezdésben meghatározott szerv az eljárás megindításával kapcsolatos álláspontjáról – törvény eltérő rendelkezése hiányában – harminc napon belül, az eljárás eredményéről pedig az annak befejezését követő harminc napon belül tájékoztatja a Hatóságot.
 
@@ -990,7 +990,7 @@ dönt.
 
 szükséges.
 
-(3b) A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés f) pontjában és (4) bekezdés g) pontjában meghatározott, a titkos információgyűjtésre használt eszközöket és módszereket alkalmazó személyek azonosítását lehetővé tevő adatot, ha az e személyek személyes adatainak védelmével kapcsolatban indult
+(3b) A Hatóság a (3) bekezdésre tekintet nélkül megismerheti az Ajbtv. 23. § (3) bekezdés f) pontjában és (4) bekezdés g) pontjában meghatározott, a titkos információgyűjtés folytatása vagy a leplezett eszközök alkalmazása érdekében használt eszközöket és módszereket alkalmazó személyek azonosítását lehetővé tevő adatot, ha az e személyek személyes adatainak védelmével kapcsolatban indult
 
 - a) vizsgálati eljárásban,
 - b) adatvédelmi hatósági eljárásban vagy
@@ -1060,7 +1060,27 @@ való megfelelést szolgálja.
 
 (3)–(9)
 
-#### 79–89. §
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
 
 ### 1. melléklet a 2011. évi CXII. törvényhez
 

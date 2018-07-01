@@ -282,7 +282,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
   - ab) a gyermekgondozást segítő ellátásra való jogosultság esetében a társadalombiztosítási nyugellátást, a társadalombiztosítási nyugellátásról szóló törvény szerint társadalombiztosítási nyugellátással egy tekintet alá eső ellátást, a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított ellátást, az egyházi jogi személy által folyósított egyházi, felekezeti nyugdíjat, a korhatár előtti ellátást, a szolgálati járandóságot, a táncművészeti életjáradékot, az átmeneti bányászjáradékot, a nem ugyanazon gyermek után folyósított csecsemőgondozási díjat valamint a gyermekgondozási díjat, továbbá a rehabilitációs járadékot, rokkantsági járadékot, a megváltozott munkaképességű személyek ellátásait, a bányászok egészségkárosodási járadékát, a tartós ápolást végzők időskori támogatását;
 - b) olyan gyermek után igényli a támogatást, akit a Gyvt. alapján ideiglenes hatállyal elhelyeztek, nevelésbe vettek, továbbá az Szt. alapján 30 napot meghaladóan szociális intézményben helyeztek el;
 - c)
-- d) előzetes letartóztatásban van, illetve szabadságvesztés büntetését tölti.
+- d) letartóztatásban van, illetve szabadságvesztést tölt.
 
 (2)
 
@@ -416,7 +416,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 42. § (1) A jogalap nélkül felvett családtámogatási ellátás visszafizetéséről, az igényelbíráló szerv vagy az egyéb szerv részére előírt megtérítési kötelezettségről határozatban kell rendelkezni.
 
-(2) Az igényelbíráló szerv a követelést a jogalap nélkül felvett ellátás utolsó kifizetésétől számított három éven belül érvényesítheti. Ha a követelésre alapot adó magatartás a bíróság jogerős ítélete szerint bűncselekmény, úgy a követelés három éven túl is érvényesíthető mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
+(2) Az igényelbíráló szerv a követelést a jogalap nélkül felvett ellátás utolsó kifizetésétől számított három éven belül érvényesítheti. Ha a követelésre alapot adó magatartás a bíróság jogerős ügydöntő határozata szerint bűncselekmény, úgy a követelés három éven túl is érvényesíthető mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
 
 43. § (1) A jogalap nélkül felvett ellátás visszafizetésére kötelező határozatot az ellátás jogosulatlan igénybevételét megállapító szerv hozza meg.
 

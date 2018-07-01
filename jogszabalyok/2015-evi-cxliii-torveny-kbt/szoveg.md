@@ -2691,7 +2691,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (2) A Közbeszerzési Döntőbizottság a kérelem visszavonása esetén az eljárást folytatja, ha a rendelkezésre álló adatok alapján súlyos jogsértés valószínűsíthető.
 
-(3) Ha a Közbeszerzési Döntőbizottság az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező szervnek, így különösen a nyomozó hatóságnak, az Állami Számvevőszéknek, a kormányzati ellenőrzési szervnek vagy a Gazdasági Versenyhivatalnak.
+(3) Ha a Közbeszerzési Döntőbizottság az eljárás során más jogszabály megsértésére utaló körülményt észlel, köteles azt jelezni a hatáskörrel rendelkező szervnek, így különösen a nyomozó hatóságnak, az ügyészségnek, az Állami Számvevőszéknek, a kormányzati ellenőrzési szervnek vagy a Gazdasági Versenyhivatalnak.
 
 (4) A Közbeszerzési Döntőbizottság az eljárását felfüggesztheti, ha az előkérdés eldöntése más szerv hatáskörébe tartozik.
 

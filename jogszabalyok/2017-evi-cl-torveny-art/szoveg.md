@@ -131,7 +131,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
   - g) az adóköteles társadalombiztosítási ellátás tekintetében, aki az ellátást a jogosultnak ténylegesen kifizette,
   - h) az adóköteles nyeremény szempontjából a szerencsejáték szervezője, függetlenül attól, hogy az adóköteles nyereményt közvetlenül vagy közvetítő útján juttatja a természetes személynek,
   - i) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 4. § a) pontja szerinti foglalkoztató, kivéve a Tbj. 56/A. §-a szerinti külföldi vállalkozást,
-  - j) letétből történő kifizetés esetén nem lehet a hatóság, nyomozó hatóság, bíróság, ügyvéd, közjegyző és a bírósági végrehajtó,
+  - j) letétből történő kifizetés esetén nem lehet a hatóság, nyomozó hatóság, ügyészség, bíróság, ügyvéd, közjegyző és a bírósági végrehajtó,
 - 32. következő időszakra átvihető követelés különbözete: az Áfa tv. 153/A. § (2) bekezdés a) pontja alapján a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként bevallott és az adóhatóság által utólag, a soron következő adómegállapítási időszakban fizetendő adót csökkentő tételként figyelembe vehető összegként megállapított, az adószámlát nem érintő összeg különbözete,
 - 33. közeli hozzátartozó: a Ptk. szerinti közeli hozzátartozóként megjelölt személy,
 - 34. köztartozás:
@@ -853,7 +853,7 @@ kell számítani.
 
 (2) Az állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni az 1978. évi IV. törvény 2011. december 31-ig hatályos 310. §-a szerinti adócsalás, valamint a munkáltatással összefüggésben elkövetett adócsalás bűncselekmények elkövetője által teljesített, a bűncselekménnyel okozott bevételcsökkenés összegével megegyező – büntethetőséget megszüntető okot eredményező – összeget.
 
-(3) Az állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni az állami adó- és vámhatóság hatáskörébe tartozó adóval, költségvetési támogatással kapcsolatban elkövetett költségvetési csalás – Btk. 396. §-a, illetve a 2013. június 30-ig hatályos 1978. évi IV. törvény 310. §-a – miatt indított büntetőeljárásban a nyomozás elrendelésétől a büntetőeljárás jogerős befejezéséig a vagyoni hátrány megtérítése érdekében – a büntetés enyhítése érdekében – megfizetett összeget.
+(3) Az állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni az állami adó- és vámhatóság hatáskörébe tartozó adóval, költségvetési támogatással kapcsolatban elkövetett költségvetési csalás – Btk. 396. §-a, illetve a 2013. június 30-ig hatályos 1978. évi IV. törvény 310. §-a – miatt indított büntetőeljárásban a nyomozás elrendelésétől a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig a vagyoni hátrány megtérítése érdekében – a büntetés enyhítése érdekében – megfizetett összeget.
 
 #### 68. § [Elszámolás bűncselekmény esetén]
 
@@ -1149,7 +1149,7 @@ Az idegenrendészeti, menekültügyi, állampolgársági ügyekben eljáró hat�
 
 #### 104. § [Pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás adatszolgáltatása]
 
-(1) Ha az állami adó- és vámhatóság ellenőrzési eljárás, végrehajtási eljárás megindításához, lefolytatásához vagy bűnüldözési, nyomozóhatósági tevékenysége végzéséhez, továbbá a pénzügyi információs egységként működő hatóság feladatainak végzéséhez szükséges adatok iránti megkeresést elektronikus úton juttatja el az általa e célra működtetett elektronikus rendszeren keresztül a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás részére, a megkeresést a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban köteles teljesíteni.
+(1) Ha az állami adó- és vámhatóság ellenőrzési eljárás, végrehajtási eljárás megindításához, lefolytatásához vagy bűnüldözési, nyomozó hatósági tevékenysége végzéséhez, továbbá a pénzügyi információs egységként működő hatóság feladatainak végzéséhez szükséges adatok iránti megkeresést vagy adatkérést elektronikus úton juttatja el az általa e célra működtetett elektronikus rendszeren keresztül a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás részére, a megkeresést vagy az adatkérést a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban köteles teljesíteni.
 
 (2) Az (1) bekezdés szerinti megkeresések teljesítésére nyitva álló határidő a végrehajtási eljáráshoz szükséges megkeresések tekintetében nyolc nap, az ellenőrzési eljáráshoz szükséges megkeresések tekintetében tizenöt nap.
 
@@ -1657,12 +1657,12 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 
 (13) Az örökös kérelmére, az örökös tájékoztatása érdekében az elhunyt adózó hagyatéki ügyében eljáró közjegyző a hagyatéki ügyben való eljárásának igazolása esetén tájékoztatást kérhet az adóhatóságtól az elhunyt adózó adóhatóságnál nyilvántartott adótartozásának vagy túlfizetésének mértékéről. Az adóhatóság a tájékoztatást a tájékoztatás kiadmányozásának napján fennálló állapotnak megfelelő adattartalommal adja meg.
 
-(14) Az adóhatóság megkeresésre tájékoztatja az adótitokról
+(14) Az adóhatóság megkeresésre vagy adatkérésre tájékoztatja az adótitokról
 
 - a) a bíróságot;
-- b) a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
+- b) az ügyészséget, a nyomozó hatóságot és az előkészítő eljárást folytató szervet, ha a tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges;
 - c) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
-- d) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervet a törvényben meghatározott feladatai ellátása érdekében, az abban kapott felhatalmazás körében;
+- d) a rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés elrendelése vagy folytatása érdekében szükséges;
 - e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet, az Európai Csalás Elleni Hivatalt, az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezetet, valamint az Európai Támogatásokat Auditáló Főigazgatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
 - f) az adópolitikáért felelős minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
 - g) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az államháztartásról szóló törvény szerinti belső ellenőrzéshez szükséges;
@@ -1673,7 +1673,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - l) az online pénztárgép forgalmazót, valamint a mobilszolgáltatót, ha a tájékoztatás az online pénztárgép és az állami adó- és vámhatóság szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
 - m) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 
-(15) Az állami adó- és vámhatóság tájékoztatja az állami adó- és vámhatóság nyomozó hatóságát az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntető eljárás megindítása vagy lefolytatása céljából.
+(15) Az állami adó- és vámhatóság tájékoztatja az állami adó- és vámhatóság nyomozó hatóságát az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntetőeljárás megindítása vagy lefolytatása céljából.
 
 (16) Az állami adó- és vámhatóság az államháztartásról szóló törvény felhatalmazása alapján az államháztartási szervek és a közvállalkozások közötti pénzügyi kapcsolatok átláthatóságáról, valamint az egyes vállalkozásokon belüli pénzügyi átláthatóságról szóló kormányrendeletben meghatározott adatokat, dokumentumokat az Európai Bizottságnak megküldi, illetve az Európai Bizottság rendelkezésére bocsátja.
 
@@ -2518,10 +2518,10 @@ esetén, ha azt adóra, járulékra vagy költségvetési támogatásra követik
 
 (5) A (4) bekezdésben foglaltakat kell alkalmazni akkor is, ha
 
-- a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíthető, mert tartozását a vádirat benyújtásáig az adóhatóság által megjelölt számlára kiegyenlítette, és vele szemben az eljárást ez okból megszüntették, vagy
+- a) az elkövető azért nem büntethető, vagy büntetése korlátlanul enyhíthető, mert tartozását a vádemelés előtt az adóhatóság által megjelölt számlára kiegyenlítette, és vele szemben az eljárást ez okból megszüntették, vagy
 - b) az eljárást az elkövetővel szemben a Btk. 64. §-ában, illetve a 2013. június 30-ig hatályban volt 1978. évi IV. törvény 71. §-ában meghatározott megrovás alkalmazásával szüntették meg.
 
-(6) Az adó megállapításához való jog elévülése a (4) és az (5) bekezdés szerinti büntetőeljárás esetében a büntetőeljárás kezdő időpontjától annak jogerős befejezéséig nyugszik.
+(6) Az adó megállapításához való jog elévülése a (4) és az (5) bekezdés szerinti büntetőeljárás esetében a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nyugszik.
 
 (7) Az adó megállapításához való jog elévülése egy alkalommal tizenkettő hónappal meghosszabbodik, ha
 
@@ -2762,7 +2762,9 @@ az állami adó- és vámhatóság az adózó terhére a be nem jelentett, illet
 
 (3) Ha az adózó iratmegőrzési kötelezettségének a nyomdai úton előállított számla, nyugta megőrzésének elmulasztásával nem tesz eleget, függetlenül attól, hogy a számla, illetve nyugta felhasználása ténylegesen megtörtént-e, a kiszabható mulasztási bírság összege természetes személy esetén kettőszázezer forint, nem természetes személy adózó esetében 500 ezer forint és a hiányzó számlák, illetve nyugták számának szorzata által meghatározott összegig terjedhet.
 
-#### 229. §
+#### 229. § [Általános forgalmi adó összesítő jelentés nem előírásszerű teljesítése]
+
+Az általános forgalmi adó összesítő jelentés szerinti adatszolgáltatási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén a kiszabható mulasztási bírság felső határa az érintett számlák, illetve számlával egy tekintet alá eső okiratok számának és az általános bírságszabály szerinti bírság adózóra egyébként vonatkozó legmagasabb mértékének szorzata.
 
 #### 230. § [Nyilvántartási, iratmegőrzési kötelezettség megszegése szokásos piaci ár meghatározása, valamint ellenőrzött külföldi társaságokkal folytatott ügyletek esetén]
 

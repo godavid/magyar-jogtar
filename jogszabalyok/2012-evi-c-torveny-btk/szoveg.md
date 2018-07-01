@@ -231,15 +231,15 @@ történő jogtalan behatolás, vagy
 - c) olyan bűncselekmény esetén, amely kizárólag kötelesség teljesítésének elmulasztásával valósul meg, az a nap, amikor az elkövető még az e törvényben megállapított következmény nélkül eleget tehetne kötelességének,
 - d) olyan bűncselekmény esetén, amely jogellenes állapot fenntartásában áll, az a nap, amikor ez az állapot megszűnik.
 
-28. § (1) Az elévülést félbeszakítja a bíróságnak, az ügyésznek, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.
+28. § (1) Az elévülést félbeszakítja a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.
 
 (1a) Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem, a személyi szabadság megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti vagy be nem töltötte volna.
 
-(2) Ha a büntetőeljárást felfüggesztik, a felfüggesztés tartama az elévülés határidejébe nem számít be. Ez a rendelkezés nem alkalmazható, ha a büntetőeljárást azért függesztik fel, mert az elkövető kiléte a nyomozásban nem volt megállapítható, ismeretlen helyen tartózkodik, vagy kóros elmeállapotú lett.
+(2) Ha a büntetőeljárást felfüggesztik, a felfüggesztés tartama az elévülés határidejébe nem számít be. Ez a rendelkezés nem alkalmazható, ha a büntetőeljárást azért függesztik fel, mert az elkövető kiléte a nyomozásban nem volt megállapítható, ismeretlen helyen tartózkodik, vagy kóros elmeállapotú lett, továbbá ha a szabadlábon lévő terhelt külföldön ismert helyen tartózkodik és a büntetőeljárás a távollétében nem folytatható le.
 
-(3) Az elévülés határidejébe nem számít be az a tartam, amely alatt közjogi tisztség betöltésén alapuló mentesség folytán a büntetőeljárás azért nem volt megindítható vagy folytatható, mert a törvényben biztosított mentelmi jogot a döntésre jogosult nem függesztette fel. Ez a rendelkezés nem alkalmazható olyan magánindítványra büntetendő bűncselekmény esetén, amely miatt a vádat a magánvádló képviseli.
+(3) Az elévülés határidejébe nem számít be az a tartam, amely alatt a mentelmi jogon alapuló mentesség folytán a büntetőeljárás azért nem volt megindítható vagy folytatható, mert a törvényben biztosított mentelmi jogot a döntésre jogosult nem függesztette fel. Ez a rendelkezés nem alkalmazható olyan magánindítványra büntetendő bűncselekmény esetén, amely miatt a vádat a magánvádló képviseli.
 
-(4) A vádemelés elhalasztásának tartama, próbára bocsátás esetén a próbaidő tartama és a jóvátételi munka tartama az elévülés határidejébe nem számít be.
+(4) Próbára bocsátás esetén a próbaidő tartama és a jóvátételi munka tartama az elévülés határidejébe nem számít be.
 
 ### A tevékeny megbánás
 
@@ -252,8 +252,8 @@ történő jogtalan behatolás, vagy
 - a) többszörös vagy különös visszaeső,
 - b) a bűncselekményt bűnszervezetben követte el,
 - c) bűncselekménye halált okozott,
-- d) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetve próbára bocsátás vagy vádemelés elhalasztásának tartama alatt követte el, vagy
-- e) korábban szándékos bűncselekménye miatt közvetítői eljárásban vett részt, és ennek eredményeként vele szemben az (1) vagy (2) bekezdést alkalmazták, feltéve, hogy az ügydöntő határozat jogerőre emelkedésétől az újabb szándékos bűncselekmény elkövetéséig két év még nem telt el.
+- d) a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetve próbára bocsátás vagy feltételes ügyészi felfüggesztés tartama alatt követte el, vagy
+- e) korábban szándékos bűncselekménye miatt közvetítői eljárásban vett részt, és ennek eredményeként vele szemben az (1) vagy (2) bekezdést alkalmazták, feltéve, hogy a határozat véglegessé válásától az újabb szándékos bűncselekmény elkövetéséig két év még nem telt el.
 
 ### VI. Fejezet — A BÜNTETŐJOGI FELELŐSSÉGRE VONÁS EGYÉB AKADÁLYAI
 
@@ -270,7 +270,7 @@ hiánya.
 
 (2) A magánindítvány előterjesztésére a sértett jogosult.
 
-(3) Ha a sértett cselekvőképtelen, a magánindítványt törvényes képviselője terjesztheti elő. A magánindítványt a korlátozottan cselekvőképes kiskorú sértett önállóan is előterjesztheti, és erre törvényes képviselője is jogosult. Ha a sértett a személyes ügyei vitelében vagy a bírósághoz, hatósághoz fordulás joga tekintetében cselekvőképességében részlegesen korlátozott nagykorú, a magánindítvány előterjesztéséhez a törvényes képviselő hozzájárulása szükséges. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult. Érdekellentét esetén a Polgári Törvénykönyv szabályai az irányadók.
+(3) A büntetőeljárásról szóló 2017. évi XC. törvény 69. § (5) bekezdésében meghatározott esetekben a magánindítványt a sértett törvényes képviselője terjesztheti elő. A magánindítványt a korlátozottan cselekvőképes kiskorú sértett önállóan is előterjesztheti, és erre törvényes képviselője is jogosult. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult. Érdekellentét esetén a Polgári Törvénykönyv szabályai az irányadók.
 
 (4) Ha a magánindítvány előterjesztésére jogosult sértett meghal, a hozzátartozója jogosult a magánindítvány előterjesztésére.
 
@@ -345,7 +345,7 @@ miatt szabták ki, vagy
 
 ### Feltételes szabadságra bocsátás a határozott ideig tartó szabadságvesztésből
 
-38. § (1) Határozott ideig tartó szabadságvesztés kiszabása esetén a bíróság az ítéletében megállapítja a feltételes szabadságra bocsátás legkorábbi időpontját, vagy – a (4) bekezdésben meghatározott esetekben – azt, hogy a feltételes szabadságra bocsátás lehetősége kizárt.
+38. § (1) Határozott ideig tartó szabadságvesztés kiszabása esetén a bíróság az ügydöntő határozatában megállapítja a feltételes szabadságra bocsátás legkorábbi időpontját, vagy – a (4) bekezdésben meghatározott esetekben – azt, hogy a feltételes szabadságra bocsátás lehetősége kizárt.
 
 (2) Ha a feltételes szabadságra bocsátás lehetősége nem kizárt, annak legkorábbi időpontja
 
@@ -354,7 +354,7 @@ miatt szabták ki, vagy
 
 részének, de legkevesebb három hónapnak a kitöltését követő nap.
 
-(3) Öt évet meg nem haladó szabadságvesztés kiszabása esetén – különös méltánylást érdemlő esetben – a bíróság ítéletében akként rendelkezhet, hogy az elítélt a büntetés fele részének letöltése után feltételes szabadságra bocsátható. Ez a rendelkezés nem alkalmazható, ha az elítélt többszörös visszaeső.
+(3) Öt évet meg nem haladó szabadságvesztés kiszabása esetén – különös méltánylást érdemlő esetben – a bíróság az ügydöntő határozatában akként rendelkezhet, hogy az elítélt a büntetés fele részének letöltése után feltételes szabadságra bocsátható. Ez a rendelkezés nem alkalmazható, ha az elítélt többszörös visszaeső.
 
 (4) Nem bocsátható feltételes szabadságra
 
@@ -363,13 +363,13 @@ részének, de legkevesebb három hónapnak a kitöltését követő nap.
 - c) aki a bűncselekményt bűnszervezetben követte el,
 - d) akit olyan szándékos bűncselekmény miatt ítéltek szabadságvesztésre, amelyet korábbi, határozott ideig tartó végrehajtandó szabadságvesztésre ítélése után, a végrehajtás befejezése vagy a végrehajthatóság megszűnése előtt követett el.
 
-39. § (1) Határozott ideig tartó szabadságvesztés esetén a feltételes szabadság tartama azonos a szabadságvesztés hátralevő részével, de legalább egy év. A 38. § (3) bekezdés alkalmazása esetén a bíróság ítéletében rendelkezhet úgy, hogy a feltételes szabadság tartama legalább egy, legfeljebb három évvel meghosszabbodik.
+39. § (1) Határozott ideig tartó szabadságvesztés esetén a feltételes szabadság tartama azonos a szabadságvesztés hátralevő részével, de legalább egy év. A 38. § (3) bekezdés alkalmazása esetén a bíróság az ügydöntő határozatában rendelkezhet úgy, hogy a feltételes szabadság tartama legalább egy, legfeljebb három évvel meghosszabbodik.
 
 (2) Ha a szabadságvesztés hátralevő része egy évnél rövidebb, és végrehajtását nem rendelték el, a büntetést – a feltételes szabadság letelte után – a hátralevő rész utolsó napjával kell kitöltöttnek tekinteni.
 
 40. § (1) A bíróság a feltételes szabadságot megszünteti, ha az elítéltet
 
-- a) az ítélet jogerőre emelkedését követően elkövetett bűncselekmény miatt a feltételes szabadság tartama alatt, vagy
+- a) az ügydöntő határozat jogerőre emelkedését követően elkövetett bűncselekmény miatt a feltételes szabadság tartama alatt, vagy
 - b) a feltételes szabadság tartama alatt elkövetett bűncselekmény miatt
 
 végrehajtandó szabadságvesztésre ítélik.
@@ -378,7 +378,7 @@ végrehajtandó szabadságvesztésre ítélik.
 
 (3) A feltételes szabadság megszüntetése esetén a feltételes szabadságon eltöltött idő a szabadságvesztésbe nem számít be.
 
-(4) Ha a feltételes szabadság tartama alatt az elítélten olyan bűncselekmény miatt kiszabott szabadságvesztést kell végrehajtani, amelyet a korábbi ítélet jogerőre emelkedése előtt követett el, a szabadságvesztés végrehajtása a feltételes szabadságot félbeszakítja, és a bíróság a feltételes szabadság folytatásának legkorábbi időpontját
+(4) Ha a feltételes szabadság tartama alatt az elítélten olyan bűncselekmény miatt kiszabott szabadságvesztést kell végrehajtani, amelyet a korábbi ügydöntő határozat jogerőre emelkedése előtt követett el, a szabadságvesztés végrehajtása a feltételes szabadságot félbeszakítja, és a bíróság a feltételes szabadság folytatásának legkorábbi időpontját
 
 - a) az utóbb kiszabott szabadságvesztésből engedélyezett feltételes szabadság időpontjáig, vagy
 - b) – ha az utóbb kiszabott szabadságvesztés esetén a feltételes szabadságra bocsátás lehetősége kizárt – a szabadságvesztés végrehajtásának időtartamáig
@@ -393,7 +393,7 @@ elhalasztja.
 
 ### Feltételes szabadságra bocsátás az életfogytig tartó szabadságvesztésből
 
-42. § Életfogytig tartó szabadságvesztés kiszabása esetén a bíróság az ítéletében meghatározza a feltételes szabadságra bocsátás legkorábbi időpontját, vagy a feltételes szabadságra bocsátás lehetőségét kizárja.
+42. § Életfogytig tartó szabadságvesztés kiszabása esetén a bíróság az ügydöntő határozatában meghatározza a feltételes szabadságra bocsátás legkorábbi időpontját, vagy a feltételes szabadságra bocsátás lehetőségét kizárja.
 
 43. § (1) Ha a bíróság életfogytig tartó szabadságvesztés kiszabása esetén a feltételes szabadságra bocsátás lehetőségét nem zárja ki, annak legkorábbi időpontját legalább huszonöt, legfeljebb negyven évben állapítja meg. A feltételes szabadságra bocsátás legkorábbi időpontját években kell meghatározni.
 
@@ -437,7 +437,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (5) Ha az elítéltet az életfogytig tartó szabadságvesztésből történt feltételes szabadságra bocsátás alatt elkövetett bűncselekmény miatt határozott tartamú szabadságvesztésre ítélik, a bíróság a feltételes szabadságot megszünteti, és a feltételes szabadságra bocsátás legkorábbi időpontját a határozott tartamú szabadságvesztés tartamáig, de legalább öt és legfeljebb húsz év közötti időtartamra elhalasztja.
 
-(6) Ha az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás legkorábbi időpontjának elhalasztására az (1), (2), (4) és (5) bekezdés szerinti határozott tartamú szabadságvesztés miatt kerül sor, a feltételes szabadságra bocsátás legkorábbi időpontját a határozott tartamú szabadságvesztésbe beszámított előzetes fogva tartás, valamint házi őrizet idejének figyelembevételével kell megállapítani.
+(6) Ha az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás legkorábbi időpontjának elhalasztására az (1), (2), (4) és (5) bekezdés szerinti határozott tartamú szabadságvesztés miatt kerül sor, a feltételes szabadságra bocsátás legkorábbi időpontját a határozott tartamú szabadságvesztésbe beszámított előzetes fogva tartás, valamint bűnügyi felügyelet idejének figyelembevételével kell megállapítani.
 
 (7) Nem bocsátható feltételes szabadságra az elítélt, ha ismételten életfogytig tartó szabadságvesztésre ítélik. Ha a korábbi életfogytig tartó szabadságvesztést még nem hajtották végre, az ismételten kiszabott életfogytig tartó szabadságvesztés nem hajtható végre.
 
@@ -455,7 +455,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (2) A közérdekű munkát az elítélt, ha törvény eltérően nem rendelkezik, hetente legalább egy napon – a heti pihenőnapon vagy a szabadidejében –, díjazás nélkül végzi.
 
-(3) A bíróság ítéletében a közérdekű munka jellegéről rendelkezik.
+(3) A bíróság az ügydöntő határozatában a közérdekű munka jellegéről rendelkezik.
 
 (4) A közérdekű munkára ítélt köteles a számára meghatározott munkát elvégezni. Az elkövető olyan munka végzésére kötelezhető, amelyet – figyelemmel egészségi állapotára és képzettségére – előreláthatóan képes elvégezni.
 
@@ -475,7 +475,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (3) A pénzbüntetés legkisebb mértéke harminc, legnagyobb mértéke ötszáznegyven napi tétel. Egynapi tétel összegét legalább ezer, legfeljebb ötszázezer forintban kell meghatározni.
 
-(4) A bíróság ítéletében – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.
+(4) A bíróság az ügydöntő határozatában – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.
 
 51. § (1) Ha az elítélt a pénzbüntetést nem fizeti meg, illetve részletfizetés engedélyezése esetén egyhavi részlet megfizetését elmulasztja, a pénzbüntetést vagy annak meg nem fizetett részét szabadságvesztésre kell átváltoztatni.
 
@@ -500,7 +500,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (2) A határozott ideig tartó eltiltás legrövidebb tartama egy év, leghosszabb tartama tíz év. Végleges hatállyal az tiltható el, aki a foglalkozás gyakorlására alkalmatlan vagy arra méltatlan.
 
-(3) A foglalkozástól eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a foglalkozástól eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a foglalkozástól eltiltás tartamába be kell számítani.
+(3) A foglalkozástól eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a foglalkozástól eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a foglalkozástól eltiltás tartamába be kell számítani.
 
 (4) A végleges hatályú eltiltás alól a bíróság az eltiltottat kérelemre mentesítheti, ha az eltiltás óta tíz év eltelt, és az eltiltott a foglalkozás gyakorlására alkalmassá, vagy – ha az eltiltást méltatlanság miatt alkalmazták – érdemessé vált. Ez utóbbi esetben sem mentesíthető az, aki a bűncselekményt bűnszervezetben követte el.
 
@@ -529,7 +529,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (3) A határozott ideig tartó eltiltás legrövidebb tartama egy hónap, leghosszabb tartama tíz év. A járművezetéstől eltiltást hónapokban vagy években, illetve években és hónapokban kell meghatározni.
 
-(4) A járművezetéstől eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a járművezetéstől eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a járművezetéstől eltiltás tartamába be kell számítani.
+(4) A járművezetéstől eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a járművezetéstől eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a járművezetéstől eltiltás tartamába be kell számítani.
 
 (5) Végleges hatállyal az tiltható el, aki a járművezetésre alkalmatlan. A végleges hatályú eltiltás alól a bíróság az eltiltottat kérelemre mentesítheti, ha az eltiltás óta tíz év eltelt, és az eltiltott a járművezetésre alkalmassá vált.
 
@@ -539,7 +539,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (2) A kitiltás legrövidebb tartama egy év, leghosszabb tartama öt év.
 
-(3) A kitiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a kitiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a kitiltás tartamába be kell számítani.
+(3) A kitiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a kitiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a kitiltás tartamába be kell számítani.
 
 ### A sportrendezvények látogatásától való eltiltás
 
@@ -550,7 +550,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (2) Az eltiltás legrövidebb tartama egy év, leghosszabb tartama öt év.
 
-(3) Az eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a sportrendezvények látogatásától való eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a sportrendezvények látogatásától való eltiltás tartamába be kell számítani.
+(3) Az eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a sportrendezvények látogatásától való eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a sportrendezvények látogatásától való eltiltás tartamába be kell számítani.
 
 ### A kiutasítás
 
@@ -575,7 +575,7 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 
 (3) Végleges hatállyal az utasítható ki, akit tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélnek, és – figyelemmel a bűncselekmény kiemelkedő súlyára, az elkövetés jellegére, és az elkövető kapcsolataira – az országban tartózkodása a közbiztonságot jelentősen veszélyeztetné. A szabad mozgás és tartózkodás jogával rendelkező személy végleges hatállyal nem utasítható ki.
 
-(4) A kiutasítás tartama az ítélet jogerőre emelkedésével kezdődik. A kiutasítás tartamába nem számít bele az az idő, amely alatt az elítélt szabadságvesztés büntetést tölt.
+(4) A kiutasítás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. A kiutasítás tartamába nem számít bele az az idő, amely alatt az elítélt szabadságvesztés büntetést tölt.
 
 (5) A végleges hatályú kiutasítás alól a bíróság a kiutasítottat kérelmére mentesítheti, ha a kiutasítás óta tíz év eltelt, és a kiutasított arra érdemes.
 
@@ -595,11 +595,11 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 - h) nem viselhet tisztséget köztestületben, közalapítványban, és
 - i) nem lehet civil szervezetnek a civil szervezetekről szóló törvényben megjelölt vezető tisztségviselője.
 
-(3) A közügyektől eltiltott az ítélet jogerőre emelkedésével elveszti mindazon tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és kitüntetését, amelynek elnyerését a (2) bekezdés kizárja, valamint címzetes rendfokozatát.
+(3) A közügyektől eltiltott az ügydöntő határozat jogerőre emelkedésével elveszti mindazon tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és kitüntetését, amelynek elnyerését a (2) bekezdés kizárja, valamint címzetes rendfokozatát.
 
 62. § (1) A közügyektől eltiltás határozott ideig tart, annak legrövidebb tartama egy év, leghosszabb tartama tíz év.
 
-(2) A közügyektől eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. A közügyektől eltiltás tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, vagy amely alatt kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a közügyektől eltiltás tartamába be kell számítani.
+(2) A közügyektől eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. A közügyektől eltiltás tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, vagy amely alatt kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a közügyektől eltiltás tartamába be kell számítani.
 
 ### VIII. Fejezet — AZ INTÉZKEDÉSEK
 
@@ -625,7 +625,7 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 
 64. § (1) Megrovásban kell részesíteni azt, akinek cselekménye az elbíráláskor már nem veszélyes, vagy olyan csekély fokban veszélyes a társadalomra, hogy az e törvény szerint alkalmazható legkisebb büntetés kiszabása vagy más intézkedés alkalmazása – ide nem értve az elkobzást, a vagyonelkobzást és az elektronikus adat végleges hozzáférhetetlenné tételét – szükségtelen.
 
-(2) A megrovással a bíróság vagy az ügyész helytelenítését fejezi ki a jogellenes cselekmény miatt, és felszólítja az elkövetőt, hogy a jövőben tartózkodjon bűncselekmény elkövetésétől.
+(2) A megrovással a bíróság vagy az ügyészség helytelenítését fejezi ki a jogellenes cselekmény miatt, és felszólítja az elkövetőt, hogy a jövőben tartózkodjon bűncselekmény elkövetésétől.
 
 ### A próbára bocsátás
 
@@ -673,7 +673,7 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 
 69. § (1) Pártfogó felügyelet rendelhető el
 
-- a) a vádemelés elhalasztásának tartamára,
+- a) a feltételes ügyészi felfüggesztés tartamára,
 - b) a feltételes szabadság tartamára,
 - c) a próbára bocsátás próbaidejére,
 - d) a jóvátételi munka előírása mellett,
@@ -691,7 +691,7 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 - a) a feltételes szabadság tartamával,
 - b) a próbára bocsátás próbaidejével,
 - c) a szabadságvesztés felfüggesztésének próbaidejével,
-- d) a vádemelés elhalasztásának tartamával,
+- d) a feltételes ügyészi felfüggesztés tartamával,
 
 de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett feltételes szabadság esetén legfeljebb tizenöt év.
 
@@ -705,7 +705,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 - b) a pártfogó felügyelővel rendszeres kapcsolatot tartani, és
 - c) a pártfogó felügyelő részére az ellenőrzéshez szükséges felvilágosítást megadni.
 
-(2) A bíróság, illetve vádemelés elhalasztása esetén az ügyész a határozatában a pártfogó felügyelet céljának elősegítése érdekében külön magatartási szabályként kötelezettségeket és tilalmakat írhat elő. A bíróság, illetve az ügyész elrendelheti, hogy a pártfogolt
+(2) A bíróság, illetve feltételes ügyészi felfüggesztés esetén az ügyészség a határozatában a pártfogó felügyelet céljának elősegítése érdekében külön magatartási szabályként kötelezettségeket és tilalmakat írhat elő. A bíróság, illetve az ügyészség elrendelheti, hogy a pártfogolt
 
 - a) a bűncselekmény elkövetésében részt vett, meghatározott személlyel ne tartson kapcsolatot,
 - b) a bűncselekmény sértettjétől, illetve annak lakásától, munkahelyétől, vagy attól a nevelési-oktatási intézménytől, ahová a sértett jár, továbbá a sértett által rendszeresen látogatott helytől tartsa távol magát,
@@ -717,7 +717,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 - h) – beleegyezése esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát,
 - i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkozáson vagy a pártfogó felügyelői szolgálat közösségi foglalkoztatójának programja szerinti más foglalkozáson.
 
-(3) A bíróság, illetve az ügyész a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.
+(3) A bíróság, illetve az ügyészség a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.
 
 ### Az elkobzás
 
@@ -883,23 +883,15 @@ szabadságvesztést lehet kiszabni.
 
 (5) Ha e törvény korlátlan enyhítést enged, bármely büntetési nem legkisebb mértéke is kiszabható.
 
-### A büntetés kiszabása tárgyalásról lemondás esetén
+### A büntetés kiszabása egyezség esetén
 
-83. § (1) Tárgyalásról lemondás esetén – a (2) bekezdésben meghatározottak kivételével – a büntetés kiszabásakor a 82. § (2) bekezdésében meghatározott enyhébb büntetési tételek alsó határát kell alapul venni.
+83. § (1) A büntetőeljárásról szóló 2017. évi XC. törvény XCIX. Fejezete szerinti eljárásban az egyezség (a továbbiakban: egyezség) jóváhagyása esetén a büntetés kiszabásakor a 82. § (2) bekezdésében meghatározott enyhébb büntetési tételek alsó határát kell alapul venni.
 
-(2) Együttműködő terhelt tárgyalásról lemondása esetén a szabadságvesztés mértéke
+(2) Ha az egyezség jóváhagyására olyan terhelt esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a büntetést a 82. § (2) bekezdés soron következő pontja alapján is ki lehet szabni.
 
-- a) nyolc évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a három évet,
-- b) öt évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a két évet,
-- c) három évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a hat hónapot
+(3)
 
-nem haladhatja meg.
-
-(3) Ha a tárgyalásról lemondásnak nyolcévi szabadságvesztésnél súlyosabban büntetendő bűncselekmény miatt van helye, a bűnszervezetben elkövetett bűncselekményre előírt szigorúbb rendelkezések nem alkalmazhatóak, a büntetést a bűncselekményre az e törvény által előírt büntetési tételkeretek között kell kiszabni.
-
-84. § (1) Tárgyalásról lemondás esetén a bűnhalmazatban lévő bűncselekményekre a halmazati büntetésre vonatkozó rendelkezések az irányadók azzal, hogy a bűnhalmazatban lévő bűncselekmények büntetési tételeinek felső határát a 83. § (1)–(2) bekezdése alapján kiszabható büntetések közül a legsúlyosabbnak az alapulvételével kell kiszabni.
-
-(2) Ha e törvény a bűnhalmazatban lévő bűncselekmények közül legalább kettőre határozott ideig tartó szabadságvesztést rendel, a 83. § (1)–(2) bekezdése alapján kiszabható legsúlyosabb büntetési tétel felső határa a legmagasabb büntetési tétel középmértékével emelkedik, de nem érheti el az egyes bűncselekményekre a 83. § (1)–(2) bekezdés alapján kiszabható büntetések együttes tartamát.
+#### 84. §
 
 ### A szabadságvesztés végrehajtásának felfüggesztése
 
@@ -938,7 +930,7 @@ nem haladhatja meg.
 
 ### A különös, a többszörös és az erőszakos többszörös visszaesőkre vonatkozó rendelkezések
 
-89. § (1) A különös és a többszörös visszaesővel szemben az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a huszonöt évet. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a felével emelni.
+89. § (1) A különös és a többszörös visszaesővel szemben az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a huszonöt évet.
 
 (2) A különös és a többszörös visszaesővel szemben a büntetés a 82. § (1) bekezdése alapján csak különös méltánylást érdemlő esetben enyhíthető.
 
@@ -946,7 +938,7 @@ nem haladhatja meg.
 
 90. § (1) Erőszakos többszörös visszaesővel szemben a 33. § (4) bekezdése nem alkalmazható.
 
-(2) Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a kétszeresére emelni.
+(2) Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni.
 
 (3) Az erőszakos többszörös visszaesővel szemben a büntetés
 
@@ -955,28 +947,28 @@ nem haladhatja meg.
 
 ### A bűnszervezetben történő elkövetésre vonatkozó rendelkezések
 
-91. § (1) Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de a huszonöt évet nem haladhatja meg. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell alapul venni.
+91. § (1) Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de a huszonöt évet nem haladhatja meg.
 
 (2) Azzal szemben, aki a bűncselekményt bűnszervezetben követte el, kitiltásnak is helye van.
 
 (3) A bűncselekmény bűnszervezetben történő elkövetésének megállapítása esetén az e törvényben a bűncselekmény bűnszövetségben történő elkövetésének esetére megállapított jogkövetkezmények nem alkalmazhatók.
 
-### Az előzetes fogvatartás, a házi őrizet és a szabálysértési büntetések beszámítása
+### Az előzetes fogvatartás, a bűnügyi felügyelet és a szabálysértési büntetések beszámítása
 
-92. § (1) Az előzetes fogvatartás és a házi őrizet teljes idejét be kell számítani a kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába és pénzbüntetésbe.
+92. § (1) A kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába és pénzbüntetésbe be kell számítani az előzetes fogvatartás és az olyan bűnügyi felügyelet teljes idejét, amelynek során a bíróság a terhelt számára előírta, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el.
 
 (2) A beszámításnál egynapi előzetes fogvatartás egynapi szabadságvesztésnek, egynapi elzárásnak, egynapi tétel pénzbüntetésnek, illetve négy óra közérdekű munkának felel meg.
 
-(3) Házi őrizet beszámítása esetén
+(3) A beszámításnál
 
 - a) egynapi szabadságvesztésnek fegyház fokozat esetén öt nap, börtön fokozat esetén négy nap, fogház fokozat esetén három nap,
 - b) egynapi elzárásnak két nap,
 - c) négy óra közérdekű munkának egy nap,
 - d) egynapi tétel pénzbüntetésnek egy nap
 
-házi őrizetben töltött idő felel meg.
+az (1) bekezdésben meghatározott bűnügyi felügyeletben töltött idő felel meg.
 
-(4) A (2) és (3) bekezdés szerinti beszámítás után fennmaradó előzetes fogvatartás vagy házi őrizet tartamát egynapi szabadságvesztésként kell beszámítani.
+(4) A (2) és (3) bekezdés szerinti beszámítás után fennmaradó tartamot egynapi szabadságvesztésként kell beszámítani.
 
 92/A. § (1) A szabálysértési eljárásban kiszabott és végrehajtott elzárás és közérdekű munka teljes időtartamát, valamint a pénzbírságot be kell számítani – a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 127. § (1) bekezdés e) pontja szerint lefolytatott perújítási eljárást követően, a perújítással érintett cselekmény miatt – a büntetőeljárásban kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába, pénzbüntetésbe és javítóintézeti nevelésbe.
 
@@ -1003,7 +995,7 @@ felel meg.
 
 ### Összbüntetés
 
-93. § (1) Ha az elkövetőt több, határozott ideig tartó szabadságvesztésre ítélik, a jogerősen kiszabott büntetéseket – törvényben meghatározottak szerint – összbüntetésbe kell foglalni, ha az elkövető valamennyi bűncselekményt a legkorábbi elsőfokú ítélet kihirdetését megelőzően követte el.
+93. § (1) Ha az elkövetőt több, határozott ideig tartó szabadságvesztésre ítélik, a jogerősen kiszabott büntetéseket – törvényben meghatározottak szerint – összbüntetésbe kell foglalni, ha az elkövető valamennyi bűncselekményt a legkorábbi elsőfokú ügydöntő határozat kihirdetését megelőzően követte el.
 
 (2) Összbüntetésbe csak olyan végrehajtandó szabadságvesztések foglalhatók, amelyeket az összbüntetésbe foglaláskor még nem hajtottak végre, vagy amelyeket folyamatosan hajtanak végre.
 
@@ -1034,7 +1026,7 @@ felel meg.
 
 97. § (1) A büntetőjogi felelősség megállapításához, büntetés kiszabásához vagy intézkedés alkalmazásához fűződő hátrányos jogkövetkezményt törvény állapíthat meg.
 
-(2) A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 1998. évi XIX. törvény 178/A. § (2) bekezdése szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.
+(2) A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 2017. évi XC. törvény 389. §-a szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.
 
 ### A mentesítés hatálya
 
@@ -1056,8 +1048,8 @@ felel meg.
 
 100. § (1) E törvény erejénél fogva áll be a mentesítés
 
-- a) elzárás, pénzbüntetés és közérdekű munka esetén az ítélet jogerőre emelkedésének napján,
-- b) foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás és sportrendezvények látogatásától való eltiltás esetén az ítélet jogerőre emelkedése napján,
+- a) elzárás, pénzbüntetés és közérdekű munka esetén az ügydöntő határozat jogerőre emelkedésének napján,
+- b) foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás és sportrendezvények látogatásától való eltiltás esetén az ügydöntő határozat jogerőre emelkedése napján,
 - c) kiutasítás esetén a büntetés végrehajtásának befejezése vagy végrehajthatóságának megszűnése napján,
 - d) felfüggesztett szabadságvesztés esetén a próbaidő leteltének napján,
 - e) gondatlan vétség miatt kiszabott szabadságvesztés esetén a büntetés kitöltésének vagy végrehajthatósága megszűnésének napján,
@@ -1083,11 +1075,11 @@ jogára.
 
 (2) Felfüggesztett szabadságvesztés esetén a bíróság az elítéltet kérelemre utólag mentesítésben részesítheti, ha erre érdemes, és a próbaidő fele része, de legalább egy év már eltelt.
 
-(3) Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés kitöltése, felfüggesztett szabadságvesztés esetén az ítélet jogerőre emelkedése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt – jóvátette-e a bűncselekménnyel okozott sérelmet.
+(3) Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés kitöltése, felfüggesztett szabadságvesztés esetén az ügydöntő határozat jogerőre emelkedése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt – jóvátette-e a bűncselekménnyel okozott sérelmet.
 
 (4) Felfüggesztett szabadságvesztés esetén az utólagos mentesítés hatályát veszti, ha a felfüggesztett szabadságvesztés végrehajtását elrendelik.
 
-102. § (1) A szabadságvesztés végrehajtásának felfüggesztése esetén a bíróság ítéletében előzetes mentesítésben részesítheti az elítéltet, ha arra érdemes.
+102. § (1) A szabadságvesztés végrehajtásának felfüggesztése esetén a bíróság az ügydöntő határozatban előzetes mentesítésben részesítheti az elítéltet, ha arra érdemes.
 
 (2) Az előzetes mentesítés hatályát veszti, ha a felfüggesztett szabadságvesztés végrehajtását elrendelik.
 
@@ -1156,7 +1148,7 @@ jogára.
 
 ### A közérdekű munka
 
-112. § Fiatalkorúval szemben közérdekű munkát akkor lehet kiszabni, ha az ítélet meghozatalakor tizenhatodik életévét betöltötte.
+112. § Fiatalkorúval szemben közérdekű munkát akkor lehet kiszabni, ha az ügydöntő határozat meghozatalakor tizenhatodik életévét betöltötte.
 
 ### A pénzbüntetés
 
@@ -1197,7 +1189,7 @@ kell átváltoztatni.
 
 ### A jóvátételi munka
 
-117. § Fiatalkorúval szemben jóvátételi munkavégzés akkor írható elő, ha az ítélet meghozatalakor tizenhatodik életévét betöltötte.
+117. § Fiatalkorúval szemben jóvátételi munkavégzés akkor írható elő, ha az ügydöntő határozat meghozatalakor tizenhatodik életévét betöltötte.
 
 ### A kitiltás
 
@@ -1211,7 +1203,7 @@ kell átváltoztatni.
 - b) a próbára bocsátás próbaideje,
 - c) a szabadságvesztés felfüggesztésének próbaideje,
 - d) a javítóintézetből történő ideiglenes elbocsátás tartama,
-- e) a vádemelés elhalasztásának tartama
+- e) a feltételes ügyészi felfüggesztés tartama
 
 alatt pártfogó felügyelet alatt áll.
 
@@ -1219,7 +1211,7 @@ alatt pártfogó felügyelet alatt áll.
 
 ### A javítóintézeti nevelés
 
-120. § (1) Javítóintézeti nevelést a bíróság akkor rendel el, ha a fiatalkorú eredményes nevelése érdekében intézeti elhelyezése szükséges. Javítóintézeti nevelés nem rendelhető el azzal szemben, aki az ítélet meghozatalakor huszadik életévét betöltötte.
+120. § (1) Javítóintézeti nevelést a bíróság akkor rendel el, ha a fiatalkorú eredményes nevelése érdekében intézeti elhelyezése szükséges. Javítóintézeti nevelés nem rendelhető el azzal szemben, aki az ügydöntő határozat meghozatalakor huszadik életévét betöltötte.
 
 (2) A javítóintézeti nevelés tartama egy évtől négy évig terjedhet.
 
@@ -1256,17 +1248,53 @@ szabadságvesztést.
 
 (2) Az egységes intézkedésként elrendelt javítóintézeti nevelés tartamát úgy kell megállapítani, hogy az ne legyen rövidebb a leghosszabb tartamú javítóintézeti nevelésnél, de ne haladja meg az elrendelt javítóintézeti nevelések együttes tartamát, illetve a négy évet.
 
-### Az előzetes fogvatartás és házi őrizet beszámítása
+### A büntetés kiszabása egyezség esetén
 
-125. § (1) Az elrendelt javítóintézeti nevelésbe az előzetes fogvatartás és házi őrizet teljes idejét be kell számítani.
+124/A. § (1) Ha az egyezség jóváhagyására olyan a bűncselekmény elkövetésekor tizenhatodik életévét be nem töltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
 
-(2) A beszámításnál egynapi javítóintézeti nevelésnek egynapi előzetes fogvatartás, illetve három nap házi őrizet felel meg. A beszámítás után fennmaradó házi őrizet tartamát egynapi javítóintézeti nevelésként kell beszámítani.
+- a) életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény elkövetése esetén a nyolc évet,
+- b) öt évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a három évet,
+- c) a három évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a két évet,
+- d) a három évet meg nem haladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a hat hónapot
+
+nem haladhatja meg.
+
+(2) Ha az egyezség jóváhagyására olyan a bűncselekmény elkövetésekor tizenhatodik életévét betöltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke
+
+- a) életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény elkövetése esetén a tíz évet,
+- b) a tíz évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a nyolc évet,
+- c) öt évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a három évet,
+- d) a három évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a két évet,
+- e) a három évet meg nem haladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a hat hónapot
+
+nem haladhatja meg.
+
+(3) A büntetés kiszabása során
+
+- a) bűnhalmazat esetén,
+- b) a különös, többszörös, illetve erőszakos többszörös visszaesővel szemben, illetve
+- c) bűncselekmény bűnszervezetben történő elkövetése esetén
+
+az (1) és (2) bekezdés szerinti büntetési tételt kell alapul venni.
+
+### Az előzetes fogvatartás és a bűnügyi felügyelet beszámítása
+
+125. § (1) Az elrendelt javítóintézeti nevelésbe be kell számítani az előzetes fogvatartás és az olyan bűnügyi felügyelet teljes idejét, amelynek során a bíróság a terhelt számára előírta, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el.
+
+(2) A beszámításnál egynapi javítóintézeti nevelésnek
+
+- a) egynapi előzetes fogvatartás és
+- b) három nap az (1) bekezdésben meghatározott bűnügyi felügyelet
+
+felel meg.
+
+(3) A beszámítás után fennmaradó tartamot egynapi javítóintézeti nevelésként kell beszámítani.
 
 ### A mentesítés
 
 126. § (1) A fiatalkorú elítélt a törvény erejénél fogva mentesül
 
-- a) az ítélet jogerőre emelkedésének napján, ha a kiszabott szabadságvesztés végrehajtását felfüggesztik,
+- a) az ügydöntő határozat jogerőre emelkedésének napján, ha a kiszabott szabadságvesztés végrehajtását felfüggesztik,
 - b) a büntetés kitöltésének vagy végrehajthatósága megszűnésének napján, ha szándékos bűncselekmény miatt egy évet meg nem haladó tartamú szabadságvesztésre ítélték,
 - c) a büntetés kitöltésének vagy végrehajthatósága megszűnésének napjától számított három év elteltével, ha szándékos bűncselekmény miatt egy évet meghaladó, de öt évnél nem hosszabb tartamú végrehajtandó szabadságvesztésre ítélték.
 
@@ -1376,9 +1404,9 @@ büntetés mellett szabható ki.
 
 ### Mentesítés a büntetett előélethez fűződő hátrányok alól
 
-141. § (1) A törvény erejénél fogva áll be a mentesítés a lefokozás és a szolgálati viszony megszüntetése esetén az ítélet jogerőre emelkedésének napján.
+141. § (1) A törvény erejénél fogva áll be a mentesítés a lefokozás és a szolgálati viszony megszüntetése esetén az ügydöntő határozat jogerőre emelkedésének napján.
 
-(2) A bíróság ítéletében az elítéltet a büntetett előélethez fűződő hátrányok alól előzetes mentesítésben részesítheti, ha a szabadságvesztést katonai fogdában rendeli végrehajtani. Ez a mentesítés a büntetés kiállásának, illetve végrehajthatósága megszűnésének napján áll be.
+(2) A bíróság az ügydöntő határozatban az elítéltet a büntetett előélethez fűződő hátrányok alól előzetes mentesítésben részesítheti, ha a szabadságvesztést katonai fogdában rendeli végrehajtani. Ez a mentesítés a büntetés kiállásának, illetve végrehajthatósága megszűnésének napján áll be.
 
 (3) Katonai mellékbüntetés alkalmazása az elítélt mentesítését nem akadályozza.
 
@@ -1904,11 +1932,11 @@ követik el a bűncselekményt.
 
 terjedő szabadságvesztés.
 
-180. § (1) Nem büntethető, aki csekély mennyiségű kábítószert saját használatra termeszt, előállít, megszerez vagy tart, illetve aki kábítószert fogyaszt, ha a bűncselekmény elkövetését beismeri, és az elsőfokú ítélet meghozataláig okirattal igazolja, hogy legalább hat hónapig folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült, vagy megelőző-felvilágosító szolgáltatáson vett részt.
+180. § (1) Nem büntethető, aki csekély mennyiségű kábítószert saját használatra termeszt, előállít, megszerez vagy tart, illetve aki kábítószert fogyaszt, ha a bűncselekmény elkövetését beismeri, és az elsőfokú ügydöntő határozat meghozataláig okirattal igazolja, hogy legalább hat hónapig folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült, vagy megelőző-felvilágosító szolgáltatáson vett részt.
 
-(2) Az (1) bekezdés nem alkalmazható, ha a bűncselekmény elkövetését megelőzően két éven belül
+(2) Az (1) bekezdés nem alkalmazható, ha a bűncselekmény elkövetését megelőző két éven belül
 
-- a) az elkövetővel szemben a vádemelést azért halasztották el, illetve a nyomozást vagy az eljárást azért függesztették fel, mert vállalta a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételt, vagy
+- a) az elkövetővel szemben az eljárást az (1) bekezdésben meghatározott büntethetőséget megszüntető okra figyelemmel függesztették fel, vagy
 - b) az elkövető büntetőjogi felelősségét kábítószer-kereskedelem vagy kábítószer birtoklása miatt megállapították.
 
 (3) A 178. § (1) és (5)–(6) bekezdés, illetve a 179. § (1)–(2) és (6) bekezdés esetén – ha az (1) bekezdés nem alkalmazható – a büntetés korlátlanul enyhíthető, ha az elkövető a vádemelésig lehetővé teszi a kábítószert értékesítő személy kilétének megállapítását.
@@ -2485,7 +2513,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 210. § (1) Aki a hatósági határozat alapján nála elhelyezett kiskorú és a kiskorúval kapcsolattartásra jogosult személy közötti kapcsolat kialakítását vagy fenntartását a kapcsolattartás kikényszerítése érdekében alkalmazott bírság kiszabását követően is önhibájából akadályozza, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Nem büntethető az elkövető, ha a kapcsolattartást az elsőfokú ítélet meghozataláig megfelelően biztosítja, és az elmaradt kapcsolattartási formák pótlását megkezdi.
+(2) Nem büntethető az elkövető, ha a kapcsolattartást az elsőfokú ügydöntő határozat meghozataláig megfelelően biztosítja, és az elmaradt kapcsolattartási formák pótlását megkezdi.
 
 ### Kiskorú elhelyezésének megváltoztatása
 
@@ -2499,7 +2527,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Aki jogszabályon alapuló és végrehajtható hatósági határozatban előírt tartási kötelezettségét önhibájából nem teljesíti, és ezzel a jogosultat súlyos nélkülözésnek teszi ki, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) Az (1) bekezdés alapján az elkövető nem büntethető, a (2) bekezdés esetén büntetése korlátlanul enyhíthető, ha kötelezettségének az elsőfokú ítélet meghozataláig eleget tesz.
+(3) Az (1) bekezdés alapján az elkövető nem büntethető, a (2) bekezdés esetén büntetése korlátlanul enyhíthető, ha kötelezettségének az elsőfokú ügydöntő határozat meghozataláig eleget tesz.
 
 ### Kapcsolati erőszak
 
@@ -2665,7 +2693,7 @@ követi el, az (1) bekezdésben meghatározott esetben két évig, a (2) bekezd�
 224. § (1) Aki
 
 - a) másnak közlést tartalmazó zárt küldeményét megsemmisíti, a tartalmának megismerése végett felbontja, megszerzi, vagy ilyen célból illetéktelen személynek átadja, illetve
-- b) elektronikus hírközlő hálózat útján másnak továbbított közleményt kifürkész,
+- b) elektronikus hírközlő hálózat – ideértve az információs rendszert is – útján másnak továbbított közleményt kifürkész,
 
 ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.
 
@@ -2880,7 +2908,7 @@ bűntett miatt az a) pontban meghatározott esetben három évig, a b) pontban m
 
 (2) Aki a környezetkárosítást gondatlanságból követi el, vétség miatt az (1) bekezdés a) pontja esetén egy évig, b) pontja esetén két évig, c) pontja esetén három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) Az (1) bekezdés a) pontjában, és a (2) bekezdés első és második fordulatában meghatározott esetben az elkövető nem büntethető, az (1) bekezdés b) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az elsőfokú ítélet meghozataláig a bűncselekmény által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezet eredeti állapotát helyreállítja.
+(3) Az (1) bekezdés a) pontjában, és a (2) bekezdés első és második fordulatában meghatározott esetben az elkövető nem büntethető, az (1) bekezdés b) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az elsőfokú ügydöntő határozat meghozataláig a bűncselekmény által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezet eredeti állapotát helyreállítja.
 
 (4) E § alkalmazásában szennyezés: a föld, a levegő, a víz, az élővilág, valamint azok összetevői jogszabályban vagy hatósági határozatban megállapított kibocsátási határértéket meghaladó terhelése.
 
@@ -3199,9 +3227,9 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 - b) mint tolmács vagy fordító hamisan fordít,
 - c) a 268. § (1) bekezdésének b) pontja esetén kívül büntető- vagy polgári ügyben hamis okiratot vagy hamis tárgyi bizonyítási eszközt szolgáltat.
 
-(3) A (2) bekezdés c) pontja alapján nem büntethető a büntető ügy terheltje.
+(3) A (2) bekezdés c) pontja alapján nem büntethető a büntetőügy terheltje.
 
-(4) Aki a hamis tanúzást büntető ügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a hamis tanúzás olyan bűncselekményre vonatkozik, amely életfogytig tartó szabadságvesztéssel is büntethető, a büntetés két évtől nyolc évig terjedő szabadságvesztés.
+(4) Aki a hamis tanúzást büntetőügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a hamis tanúzás olyan bűncselekményre vonatkozik, amely életfogytig tartó szabadságvesztéssel is büntethető, a büntetés két évtől nyolc évig terjedő szabadságvesztés.
 
 (5) Aki a hamis tanúzást polgári ügyben követi el, három évig terjedő szabadságvesztéssel büntetendő. Ha a polgári ügy tárgya különösen nagy vagyoni érték vagy különösen jelentős egyéb érdek, a büntetés egy évtől öt évig terjedő szabadságvesztés.
 
@@ -3221,19 +3249,19 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 ### Hamis tanúzásra felhívás
 
-276. § (1) Aki mást hamis tanúzásra rábírni törekszik, büntető ügyben történő elkövetés esetén bűntett miatt három évig terjedő szabadságvesztéssel, polgári ügyben történő elkövetés esetén vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+276. § (1) Aki mást hamis tanúzásra rábírni törekszik, büntetőügyben történő elkövetés esetén bűntett miatt három évig terjedő szabadságvesztéssel, polgári ügyben történő elkövetés esetén vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Aki az (1) bekezdésben meghatározott bűncselekményt szabálysértési vagy egyéb hatóság, illetve a fegyelmi jogkör gyakorlója előtt folyamatban lévő ügyben követi el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 ### Tanúvallomás jogosulatlan megtagadása
 
-277. § A tanú, aki büntetőügyben a bíróság előtti vallomástételt a következményekre történt figyelmeztetés után jogosulatlanul megtagadja, vétség miatt elzárással büntetendő.
+277. § A tanú, aki büntetőügyben a bíróság előtti vallomástételt a tanúzási figyelmeztetés után jogosulatlanul megtagadja, vétség miatt elzárással büntetendő.
 
 ### Kényszerítés hatósági eljárásban
 
 278. § (1) Aki mást erőszakkal vagy fenyegetéssel arra kényszerít, hogy hatósági eljárásban a törvényes jogait ne gyakorolja, vagy a kötelezettségeit ne teljesítse, a kényszerítés hatósági eljárásban bűncselekményt követi el.
 
-(2) Aki a bűncselekményt büntető ügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a bűncselekményt olyan büntető ügyben követik el, amely életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt folyik, a büntetés két évtől nyolc évig terjedő szabadságvesztés.
+(2) Aki a bűncselekményt büntetőügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a bűncselekményt olyan büntetőügyben követik el, amely életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt folyik, a büntetés két évtől nyolc évig terjedő szabadságvesztés.
 
 (3) Aki a bűncselekményt polgári ügyben követi el, három évig terjedő szabadságvesztéssel büntetendő. Ha a polgári ügy tárgya különösen nagy vagyoni érték vagy különösen jelentős egyéb érdek, a büntetés egy évtől öt évig terjedő szabadságvesztés.
 
@@ -3299,14 +3327,9 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 283. § (1) Aki a büntetőeljárás alatt, illetve a szabadságvesztés vagy az elzárás végrehajtása során a hatóság őrizetéből megszökik, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja magát, a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(2) Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja magát, a bűnügyi felügyelet tartama alatt a számára meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2a) A (2) bekezdés szerint büntetendő, aki abból a célból, hogy az ellene folytatott kiadatási vagy átadási eljárás alól kivonja magát,
-
-- a) az ideiglenes kiadatási lakhelyelhagyási tilalom, illetve az ideiglenes átadási lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet, vagy
-- b) az ideiglenes kiadatási házi őrizet, illetve az ideiglenes átadási házi őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet
-
-a kényszerintézkedés szabályainak megszegésével elhagyja.
+(2a) A (2) bekezdés szerint büntetendő, aki abból a célból, hogy az ellene folytatott kiadatási vagy átadási eljárás alól kivonja magát, az ideiglenes kiadatási, illetve az ideiglenes átadási bűnügyi felügyelet tartama alatt a számára meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja.
 
 (3) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a szabadságvesztés végrehajtása során a részére engedélyezett büntetés félbeszakítás, eltávozás, rövid tartamú eltávozás vagy kimaradás tartamának elteltével abból a célból nem tér vissza, hogy a büntetés végrehajtása alól kivonja magát.
 
@@ -3351,20 +3374,20 @@ a kényszerintézkedés szabályainak megszegésével elhagyja.
 
 - a) a hatósági eljárás során elrendelt lefoglalásnál, zárlatnál vagy zár alá vételnél alkalmazott pecsétet eltávolítja vagy megsérti,
 - b) a lefoglalt, zárolt vagy zár alá vett dolog megőrzésére szolgáló, lezárt helyiséget felnyitja,
-- c) az információs rendszerben tárolt adatok megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
-- d) a büntetőeljárás során hozzáférhetetlenné tett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
+- c) az elektronikus adat megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
+- d) a büntetőeljárás során ideiglenesen hozzáférhetetlenné tett elektronikus adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,
 
 vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Aki a hatósági eljárás során lefoglalt, zárolt vagy zár alá vett dolgot a végrehajtás alól elvonja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) A (2) bekezdésben meghatározott zártörés miatt nem büntethető az elkövető, ha a vádirat benyújtásáig a dolgot – állagának sérelme nélkül – az eljáró hatóságnak visszaszolgáltatja.
+(3) A (2) bekezdésben meghatározott zártörés miatt nem büntethető az elkövető, ha a vádemelés előtt a dolgot – állagának sérelme nélkül – az eljáró hatóságnak visszaszolgáltatja.
 
 ### A bírósági végrehajtás akadályozása
 
 288. § (1) Aki a bírósági végrehajtás során, azt követően, hogy vele szemben a bíróság jogerősen rendbírságot szabott ki, a rendbírság kiszabására okot adó magatartást tovább folytatja, vagy a végrehajtásból eredő, jogszabályban foglalt kötelezettségének – ide nem értve a végrehajtható okiratban foglalt kötelezettséget – továbbra sem tesz eleget, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Nem büntethető az elkövető, ha a vádirat benyújtásáig a végrehajtásból eredő, jogszabályban foglalt kötelezettségének eleget tesz.
+(2) Nem büntethető az elkövető, ha a vádemelés előtt a végrehajtásból eredő, jogszabályban foglalt kötelezettségének eleget tesz.
 
 ### Nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény
 
@@ -3521,7 +3544,7 @@ előnyt ad vagy ígér, bűntett miatt három évig terjedő szabadságvesztéss
 
 (3) Aki bántalmazás hivatalos eljárásban bűncselekményre irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(4) Korlátlanul enyhíthető annak a büntetése, aki a (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádirat benyújtásáig a hatóság előtt feltárja.
+(4) Korlátlanul enyhíthető annak a büntetése, aki a (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádemelés előtt a hatóság előtt feltárja.
 
 ### Bántalmazás közfeladatot ellátó személy eljárásában
 
@@ -3531,7 +3554,7 @@ előnyt ad vagy ígér, bűntett miatt három évig terjedő szabadságvesztéss
 
 (3) Aki bántalmazás közfeladatot ellátó személy eljárásában bűncselekményre irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(4) Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádirat benyújtásáig a hatóság előtt feltárja.
+(4) Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádemelés előtt a hatóság előtt feltárja.
 
 ### Kényszervallatás
 
@@ -3541,7 +3564,7 @@ előnyt ad vagy ígér, bűntett miatt három évig terjedő szabadságvesztéss
 
 (3) Aki a kényszervallatásra irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(4) Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádirat benyújtásáig a hatóság előtt feltárja.
+(4) Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádemelés előtt a hatóság előtt feltárja.
 
 ### Jogellenes fogvatartás
 
@@ -3575,16 +3598,16 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-### Jogosulatlan titkos információgyűjtés vagy adatszerzés
+### Jogosulatlan titkos információgyűjtés vagy leplezett eszköz jogosulatlan alkalmazása
 
-307. § (1) Az a hivatalos személy, aki bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést, illetve titkos adatszerzést
+307. § (1) Az a hivatalos személy, aki
 
-- a) engedély nélkül végez, vagy az engedély kereteit túllépi,
-- b) jogosulatlanul elrendel vagy engedélyez,
+- a) bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést engedély nélkül végez, illetve bírói engedélyhez kötött leplezett eszközt engedély nélkül alkalmaz vagy az ezekre vonatkozó engedély kereteit túllépi,
+- b) bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést, illetve bírói engedélyhez kötött leplezett eszköz alkalmazását jogosulatlanul elrendeli vagy engedélyezi,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő az a hivatalos személy, akinek valótlan tényállítása alapján bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést, illetve titkos adatszerzést az arra jogosult elrendeli vagy engedélyezi.
+(2) Az (1) bekezdés szerint büntetendő az a hivatalos személy, akinek valótlan tényállítása alapján a bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést, illetve a bírói engedélyhez kötött leplezett eszköz alkalmazását elrendelik vagy engedélyezik.
 
 (3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1)–(2) bekezdésben meghatározott bűncselekmény jelentős érdeksérelmet okoz.
 
@@ -3592,7 +3615,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 308. § (1) Az a hivatalos személy, aki megbízhatósági vizsgálatot
 
-- a) ügyészi jóváhagyás nélkül végez, vagy a jóváhagyás kereteit túllépi,
+- a) ügyészségi jóváhagyás nélkül végez, vagy a jóváhagyás kereteit túllépi,
 - b) jogosulatlanul jóváhagy,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
@@ -4275,6 +4298,33 @@ követik el.
 
 (6) Aki embercsempészésre irányuló előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.
 
+### Jogellenes bevándorlás elősegítése, támogatása
+
+353/A. § (1) Aki szervező tevékenységet folytat annak érdekében, hogy
+
+- a) Magyarországon menedékjogi eljárás kezdeményezését tegye lehetővé olyan személy részére, aki hazájában vagy a szokásos tartózkodási helye szerinti országban vagy olyan más országban, amelyen keresztül érkezett, nincs faji, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, vallási, illetve politikai meggyőződése miatt üldözésnek kitéve, vagy a közvetlen üldöztetéstől való félelme nem megalapozott, vagy
+- b) a Magyarországra jogellenesen belépő vagy jogszerűtlenül tartózkodó személy tartózkodási jogcímet szerezzen,
+
+ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.
+
+(2) Egy évig terjedő szabadságvesztéssel büntetendő, aki az (1) bekezdésben meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat vagy a szervező tevékenységet rendszeresen folytatja.
+
+(3) A (2) bekezdés szerint büntetendő, aki az (1) bekezdésben meghatározott bűncselekményt
+
+- a) vagyoni haszonszerzés végett,
+- b) több személynek segítséget nyújtva, vagy
+- c) a személyek határátlépésére irányadó szabályok uniós kódexéről szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 2. pontjának megfelelő Magyarország külső határának határvonalától, illetve a határjeltől számított 8 km-es sávon belül
+
+követi el.
+
+(4) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha az elkövető a vádemelésig az elkövetés körülményeit feltárja.
+
+(5) E § alkalmazásában szervező tevékenységnek minősül különösen, ha az (1) bekezdésben meghatározott célból
+
+- a) Magyarország területének Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonalán, illetve határjelénél határmegfigyelést szervez,
+- b) információs anyagot készít, terjeszt vagy ilyenre megbízást ad,
+- c) hálózatot épít vagy működtet.
+
 ### Jogellenes tartózkodás elősegítése
 
 354. § (1) Aki
@@ -4396,7 +4446,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 ### Kitiltás
 
-364. § Az embercsempészés és a tiltott szerencsejáték szervezése elkövetőjével szemben kitiltásnak is helye van.
+364. § Az embercsempészés, a határzár tiltott átlépése, a határzár megrongálása, a határzárral kapcsolatos építési munka akadályozása, a jogellenes tartózkodás elősegítése, a jogellenes bevándorlás elősegítése, támogatása és a tiltott szerencsejáték szervezése elkövetőjével szemben kitiltásnak is helye van.
 
 ### XXXV. Fejezet — A VAGYON ELLENI ERŐSZAKOS BŰNCSELEKMÉNYEK
 
@@ -5061,7 +5111,7 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 395. § (1) Aki társadalombiztosítási ellátás, vagy az államháztartás alrendszereiből jogszabály alapján természetes személy részére nyújtható pénzbeli vagy természetbeni juttatás megszerzése vagy megtartása céljából mást tévedésbe ejt, tévedésben tart, vagy a valós tényt elhallgatja, és ezzel kárt okoz, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Korlátlanul enyhíthető annak a büntetése, aki társadalombiztosítási, szociális vagy más jóléti juttatással visszaéléssel okozott kárt a vádirat benyújtásáig megtéríti.
+(2) Korlátlanul enyhíthető annak a büntetése, aki társadalombiztosítási, szociális vagy más jóléti juttatással visszaéléssel okozott kárt a vádemelés előtt megtéríti.
 
 ### Költségvetési csalás
 
@@ -5095,7 +5145,7 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 (7) Aki költségvetésből származó pénzeszközökkel kapcsolatban előírt elszámolási, számadási, vagy az előírt tájékoztatási kötelezettségének nem vagy hiányosan tesz eleget, valótlan tartalmú nyilatkozatot tesz, vagy valótlan tartalmú, hamis vagy hamisított okiratot használ fel, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(8) Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádirat benyújtásáig megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.
+(8) Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádemelés előtt megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.
 
 (9) E § alkalmazásában
 
@@ -5260,7 +5310,7 @@ a hitelező vagy a hitelezők kielégítését részben vagy egészben meghiús�
 
 (3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha (2) bekezdésben meghatározott bűncselekményt különösen nagy vagy azt meghaladó értékre követik el.
 
-(4) Tartozás fedezetének elvonása miatt az elkövető nem büntethető, ha a tartozást a vádirat benyújtásáig kiegyenlíti.
+(4) Tartozás fedezetének elvonása miatt az elkövető nem büntethető, ha a tartozást a vádemelés előtt kiegyenlíti.
 
 ### Engedély nélküli nemzetközi kereskedelmi tevékenység
 
@@ -5441,7 +5491,7 @@ követik el.
 
 (3) A büntetés vétség miatt két évig terjedő szabadságvesztés, ha az (1) vagy (2) bekezdésben meghatározott bűncselekményt jelentős értéket meg nem haladó közbeszerzési értékre követik el.
 
-(4) Nem büntethető az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője, ha a cselekményt, mielőtt az a büntető ügyekben eljáró hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
+(4) Nem büntethető az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője, ha a cselekményt, mielőtt az a büntetőügyekben eljáró hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
 
 (5) Nem büntethető az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője, ha a cselekmény elkövetésekor olyan vállalkozás vezető tisztségviselője, tagja, felügyelő bizottságának tagja, alkalmazottja vagy ezek megbízottja, amely – mielőtt a versenyfelügyeleti ügyekben eljáró hatóság az ügyben vizsgálatot indított volna – a cselekményre kiterjedően a versenykorlátozás tilalmáról szóló törvény szerinti bírság mellőzésére alapot adó kérelmet nyújtott be, és az elkövetés körülményeit feltárja.
 
@@ -5461,18 +5511,19 @@ követik el.
 422. § (1) Aki személyes adat, magántitok, gazdasági titok vagy üzleti titok jogosulatlan megismerése céljából
 
 - a) más lakását, ahhoz tartozó egyéb helyiségét vagy az azokhoz tartozó bekerített helyet titokban átkutatja,
-- b) más lakásában, ahhoz tartozó egyéb helyiségében vagy az azokhoz tartozó bekerített helyen történteket technikai eszköz alkalmazásával megfigyeli vagy rögzíti,
-- c) más közlést tartalmazó zárt küldeményét felbontja vagy megszerzi, és annak tartalmát technikai eszközzel rögzíti,
-- d) elektronikus hírközlő hálózat – ideértve az információs rendszert is – útján másnak továbbított vagy azon tárolt adatot kifürkész, és az észlelteket technikai eszközzel rögzíti,
+- b) más lakásában, ahhoz tartozó egyéb helyiségében vagy az azokhoz tartozó bekerített helyen történteket technikai eszköz alkalmazásával titokban megfigyeli vagy rögzíti,
+- c) más postai küldeményét vagy egyéb zárt küldeményét titokban felbontja vagy megszerzi, és annak tartalmát technikai eszközzel rögzíti,
+- d) elektronikus hírközlő hálózat vagy eszköz útján, illetve információs rendszeren folytatott kommunikáció tartalmát titokban kifürkészi, és az észlelteket technikai eszközzel rögzíti,
+- e) információs rendszerben kezelt adatokat titokban kifürkész, és az észlelteket technikai eszközzel rögzíti,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (1a) Az (1) bekezdés szerint büntetendő, aki személyes adat, magántitok, gazdasági titok vagy üzleti titok jogosulatlan megismerése céljából
 
-- a) nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiséget vagy területet, továbbá – a közösségi közlekedési eszköz kivételével – járművet titokban átkutat,
+- a) nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiséget vagy területet, – a közösségi közlekedési eszköz kivételével – járművet, továbbá más használatában levő tárgyat titokban átkutat,
 - b) nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiségben vagy területen, továbbá – a közösségi közlekedési eszköz kivételével – járművön történteket titokban technikai eszköz alkalmazásával megfigyeli vagy rögzíti.
 
-(2) Az (1) bekezdés szerint büntetendő, aki fedett nyomozó vagy a bűnüldöző hatósággal, illetve titkosszolgálattal titkosan együttműködő személy kilétének vagy tevékenységének megállapítása céljából az (1) bekezdésben meghatározottakon kívül információt gyűjt.
+(2) Az (1) bekezdés szerint büntetendő, aki fedett nyomozó, illetve titkos információgyűjtés folytatására vagy leplezett eszközök alkalmazására feljogosított szervvel titkosan együttműködő személy kilétének vagy tevékenységének megállapítása céljából az (1) bekezdésben meghatározottakon kívül információt gyűjt.
 
 (3) Az (1) bekezdés szerint büntetendő, aki az (1)–(2) bekezdésben meghatározott módon megismert személyes adatot, magántitkot, gazdasági titkot vagy üzleti titkot továbbít vagy felhasznál.
 
@@ -5511,7 +5562,7 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Nem büntethető az (1) bekezdés a) pontjában meghatározott bűncselekmény elkövetője, ha – mielőtt a bűncselekmény elkövetéséhez szükséges vagy ezt megkönnyítő jelszó vagy számítástechnikai program készítése a büntető ügyekben eljáró hatóság tudomására jutott volna – tevékenységét a hatóság előtt felfedi, az elkészített dolgot a hatóságnak átadja, és lehetővé teszi a készítésben részt vevő más személy kilétének megállapítását.
+(2) Nem büntethető az (1) bekezdés a) pontjában meghatározott bűncselekmény elkövetője, ha – mielőtt a bűncselekmény elkövetéséhez szükséges vagy ezt megkönnyítő jelszó vagy számítástechnikai program készítése a büntetőügyekben eljáró hatóság tudomására jutott volna – tevékenységét a hatóság előtt felfedi, az elkészített dolgot a hatóságnak átadja, és lehetővé teszi a készítésben részt vevő más személy kilétének megállapítását.
 
 (3) E § alkalmazásában jelszó: az információs rendszerbe vagy annak egy részébe való belépést lehetővé tevő, számokból, betűkből, jelekből, biometrikus adatokból vagy ezek kombinációjából álló bármely azonosító.
 
@@ -5903,7 +5954,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 6. felfegyverkezve követi el a bűncselekményt, aki az ellenállás leküzdése vagy megakadályozása érdekében az élet kioltására alkalmas eszközt tart magánál;
 - 7. fenyegetés: eltérő rendelkezés hiányában súlyos hátrány kilátásba helyezése, amely alkalmas arra, hogy a megfenyegetettben komoly félelmet keltsen;
 - 8. gazdálkodó szervezet: a polgári perrendtartás szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a polgári perrendtartás szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;
-- 9. hatóság a bíróság és az ügyész is;
+- 9. hatóság a bíróság és az ügyészség is;
 - 10. háború:
   - a) a háború áldozatainak védelmére vonatkozóan Genfben, az 1949. évi augusztus hó 12. napján kelt nemzetközi egyezmények közös 2. és 3. Cikkében, valamint ezen egyezmények I. Kiegészítő Jegyzőkönyve 1. Cikkének 4. bekezdésében meghatározott helyzetek,
   - b) az a) pontban említett egyezmények II. Kiegészítő Jegyzőkönyvének 1. Cikkében meghatározott helyzetek,
@@ -5996,7 +6047,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - a) különös visszaeső az a visszaeső, aki mindkét alkalommal ugyanolyan vagy hasonló jellegű bűncselekményt követ el;
   - b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el;
   - c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
-- 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló egyéb mentességet élvez.
+- 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 

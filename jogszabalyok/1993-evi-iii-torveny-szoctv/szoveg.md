@@ -361,7 +361,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (5) Az eljáró hatóság a 18. § és 18/A. § szerinti nyilvántartás-vezetési kötelezettségét az országos nyilvántartásban szereplő ellátások tekintetében kizárólag az országos nyilvántartásba való bejegyzéssel is teljesítheti.
 
-19. § (1) A 18–18/B. §-ban szabályozott nyilvántartásokból – a 18/B. § (2) bekezdés d) pontja szerinti adatok kivételével – a szociális hatáskört gyakorló szervek, a gyámügyi feladatokat ellátó szervek, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, a kincstár, a bíróság, az ügyészség, a nyomozó hatóság, a katonai igazgatási szervek, valamint a személyes gondoskodást nyújtó szociális intézmények (a továbbiakban együtt: adatigénylésre jogosult szervek) részére, eseti megkeresésük alapján, törvényben meghatározott feladataik ellátása céljából továbbíthatók az általuk törvény alapján kezelhető adatok.
+19. § (1) A 18–18/B. §-ban szabályozott nyilvántartásokból – a 18/B. § (2) bekezdés d) pontja szerinti adatok kivételével – a szociális hatáskört gyakorló szervek, a gyámügyi feladatokat ellátó szervek, a nyugdíjbiztosítási igazgatási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, a kincstár, a bíróság, az ügyészség, a nyomozó hatóság, a katonai igazgatási szervek, valamint a személyes gondoskodást nyújtó szociális intézmények (a továbbiakban együtt: adatigénylésre jogosult szervek) részére, eseti megkeresésük vagy adatkérésük alapján, törvényben meghatározott feladataik ellátása céljából továbbíthatók az általuk törvény alapján kezelhető adatok.
 
 (1a) A 18/B. § (1) bekezdése szerinti országos nyilvántartásból a 18/B. § (2) bekezdés d) pontja szerinti adatkör tekintetében a Gyvt. 134. § (6) bekezdése szerinti szerveknek szolgáltatható adat.
 
@@ -584,7 +584,7 @@ kell előterjeszteni.
 
 (4) Nem állapítható meg az időskorúak járadéka, illetve az ellátásra való jogosultságot meg kell szüntetni, ha a személy
 
-- a) előzetes letartóztatásban van, elzárás büntetését vagy szabadságvesztés büntetését tölti,
+- a) letartóztatásban van, vagy szabadságvesztést, illetve elzárást tölt,
 - b) 3 hónapot meghaladó időtartamban külföldön tartózkodik,
 - c) a 3. § (3) vagy (4) bekezdésének hatálya alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott, vagy
 - d) az időskorúak járadékára való jogosultság feltételeinek felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza.
@@ -660,7 +660,7 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 34. § (1) Nem állapítható meg az aktív korúak ellátására való jogosultság annak a személynek, aki
 
-- a) előzetes letartóztatásban van, elzárás büntetését, illetve szabadságvesztés büntetését tölti,
+- a) letartóztatásban van, vagy szabadságvesztést, illetve elzárást tölt,
 - b) a 3. § (3) bekezdése alá tartozik, és – a határ menti ingázó munkavállalókat kivéve – tartózkodási joga megszűnt vagy tartózkodási jogának gyakorlásával felhagyott,
 - c) gyermekgondozási segélyben, gyermekgondozást segítő ellátásban, illetve gyermeknevelési támogatásban részesül,
 - d) gyermekgondozást segítő ellátásra jogosult, a gyermek fél éves korának betöltéséig,

@@ -367,12 +367,13 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 53/A. § (1) Közérdekben okozott sérelem megszüntetése érdekében az ügyész a Ptk. hatálybalépését megelőzően kötött szerződések tekintetében is a Ptk. 6:88. § (4) bekezdésében biztosított keresetindítási jogával élhet.
 
-(2) A Ptk. 6:88. § (4) bekezdése szerinti keresetindítási jog a közérdekben olyan szerződés megkötésével okozott sérelmek esetén is alkalmazható, amely szerződéssel a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 159/A. § (1) bekezdésében meghatározott értékre elkövetett, illetve ilyen mértékű kárt, vagyoni hátrányt vagy vagyoncsökkenést (ezek együttes összegét számítva is) okozó bűncselekmény
+(2) A Ptk. 6:88. § (4) bekezdése szerinti keresetindítási jog a közérdekben olyan szerződés megkötésével okozott sérelmek esetén is alkalmazható, amely szerződéssel ötvenmillió forintot meghaladó értékre elkövetett, illetve ilyen mértékű kárt, vagyoni hátrányt vagy vagyoncsökkenést (ezek együttes összegét számítva is) okozó bűncselekmény
 
 - a) miatt indult büntetőeljárás terheltjének vagyontárgyát,
-- b) elkövetéséhez felhasznált szervezet vagy olyan szervezet vagyontárgyát, amely szervezet javára a bűncselekmény elkövetése előny szerzését eredményezte, továbbá e szervezet vonatkozásában a Be. 159/A. § (3)–(5) bekezdés alapján és a (7) bekezdésben foglaltak figyelembevételével érintett vagyontárgyat
+- b) elkövetéséhez felhasznált szervezet vagyontárgyát, vagy
+- c) elkövetésével összefüggésben előnyt szerző szervezet vagyontárgyát
 
-[az a)–b) pont szerinti vagyontárgy a továbbiakban együtt: érintett vagyontárgy] a büntetőeljárás vagy a büntetőeljárás megindításának alapjául szolgáló hatósági eljárás megindulását megelőző egy éven belül feltűnő értékaránytalansággal, ingyenesen, vagy hozzátartozó javára ruházták át.
+[az a)–c) pont szerinti vagyontárgy a továbbiakban együtt: érintett vagyontárgy] a büntetőeljárás vagy a büntetőeljárás megindításának alapjául szolgáló hatósági eljárás megindulását megelőző egy éven belül feltűnő értékaránytalansággal, ingyenesen, vagy hozzátartozó javára ruházták át.
 
 (3) A (2) bekezdés olyan szerződések esetében is irányadó, amellyel az érintett vagyontárgy feletti rendelkezési vagy hasznosítási jogot a (2) bekezdés szerinti módon, illetve személy javára a vagyontárgy értékének jelentős csökkenését eredményező módon korlátozták.
 
@@ -475,7 +476,7 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 - c) a zálogjog bírósági végrehajtáson kívüli érvényesítésének, a kielégítési jog gyakorlása felfüggesztésének és korlátozásának részletes eljárási szabályait;
 - d) a fogyasztó és vállalkozás közötti szerződések részletes szabályait;
 - e) azokat a szerződéseket, amelyek esetén a jótállás kötelező, valamint az ilyen jótállás feltételeit;
-- f) az utazási szerződések kötelező tartalmi elemeit, a díj megfizetésének, emelésének és az utazásban való részvétel jogának engedményezésére vonatkozó szabályokat, az elállás szabályait, az utazási szerződésben vállalt kötelezettségek teljesítéséért való felelősségre vonatkozó különös rendelkezéseket, továbbá egyes utazási szerződések tekintetében a szerződéskötést megelőző tájékoztatás kötelező tartalmi elemeit és formáját, valamint a szerződés teljesítése keretében alkalmazandó különös tájékoztatási szabályokat;
+- f) az utazási szolgáltatásokra, valamint az utazási csomagra vonatkozó szerződések kötelező tartalmi elemeit, a szerződés teljesítésére, ideértve a díj megfizetésére vonatkozó szabályokat, az egyoldalú szerződésmódosításra, a szerződés egyoldalú jognyilatkozattal történő megszüntetésére, a szerződésátruházásra, valamint – az utazási szolgáltatásegyüttesre vonatkozó szerződések tekintetében is – a szerződésben vállalt kötelezettségek teljesítéséért való felelősségre, illetve az utazási vállalkozók fizetésképtelenséggel szembeni védelmét szolgáló vagyoni biztosítékokra vonatkozó különös rendelkezéseket, továbbá az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződések tekintetében a szerződéskötést megelőző tájékoztatás kötelező tartalmi elemeit és formáját.
 - g) a részvénytársaságok részvénykönyvének vezetésével megbízható személyek körét, a részvénykönyvbe történő bejelentés módját, határidejét, a bejelentő személyét és a részvényesi minőség igazolásának eljárására és határidejére vonatkozó szabályokat;
 - h) a közvetítőnek járó díjazás körében a jutalék számításának módját, a jutalékköteles ügyleteket, a külön jutalékra jogosító szolgáltatásokat, a jutalék megfizetésének (visszafizetésének) feltételeit és a jutalékkal való elszámolás módját (az elszámolással kapcsolatos jogokat és kötelezettségeket).
 

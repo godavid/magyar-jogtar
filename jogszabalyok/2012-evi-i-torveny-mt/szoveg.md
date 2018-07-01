@@ -364,7 +364,7 @@ foglaltak nem alkalmazhatók.
 
 bűncselekmény elkövetése miatt szerepel,
 
-- b) az a) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, a büntetőeljárás jogerős befejezéséig,
+- b) az a) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 - c) a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll, vagy
 - d) az a) pontban meghatározott bűncselekmények elkövetése miatt kényszergyógykezelés alatt áll.
 
@@ -1967,7 +1967,7 @@ különbözetének megtérítése iránti igényt.
 
 187. § A felelősség vagy a kártérítés mértékének megállapításánál figyelembe kell venni az eset összes körülményeit, így különösen azokat, amelyek a munkavállaló felelősségére kihatnak, vagy amelyek a biztonságos és előírásszerű kezelést befolyásolhatták, ezen belül a biztonságos őrzésre vonatkozó munkáltatói kötelezettségek teljesítését, továbbá a munkavállaló esetleges távollétének tartamát.
 
-188. § A munkáltató a leltárhiánnyal kapcsolatos kártérítési igényét a leltárfelvétel befejezését követő hatvannapos jogvesztő határidő alatt érvényesítheti. Büntetőeljárás esetén e határidő harminc nap és a nyomozó hatóság vagy a bíróság jogerős határozatának közlését követő napon kezdődik.
+188. § A munkáltató a leltárhiánnyal kapcsolatos kártérítési igényét a leltárfelvétel befejezését követő hatvannapos jogvesztő határidő alatt érvényesítheti. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának közlését követő napon kezdődik.
 
 #### 80. A munkavállalói biztosíték
 

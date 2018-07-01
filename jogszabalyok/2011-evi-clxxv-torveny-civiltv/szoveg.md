@@ -387,7 +387,7 @@ kell érteni.
 - d) összeolvadás esetében az új civil szervezet létesítő okiratának tervezetét,
 - e) amit az egyesülésben részt vevő civil szervezetek döntéshozó szervei szükségesnek tartanak.
 
-(3) Nem egyesülhet más egyesülettel az az egyesület, illetve nem egyesíthető más alapítvánnyal az az alapítvány, amely felszámolás, jogutód nélküli megszüntetési eljárás alatt áll, vagy ha a büntetőügyben eljáró bíróság vagy ügyész az egyesületet, illetve alapítványt vagy a bíróságot arról értesíti, hogy az egyesülettel, illetve alapítvánnyal szemben a külön törvényben meghatározott büntetőjogi intézkedés alkalmazására kerülhet sor. Az egyesület más egyesülettel való egyesülését csak akkor határozhatja el, illetve az alapítvány más alapítvánnyal való egyesítése csak akkor rendelhető el, ha a létesítő okirat szerinti induló tőkét teljes egészében az egyesület, illetve az alapítvány rendelkezésére bocsátották.
+(3) Nem egyesülhet más egyesülettel az az egyesület, illetve nem egyesíthető más alapítvánnyal az az alapítvány, amely felszámolás, jogutód nélküli megszüntetési eljárás alatt áll, vagy ha a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság az egyesületet, illetve alapítványt vagy a bíróságot arról értesíti, hogy az egyesülettel, illetve alapítvánnyal szemben a külön törvényben meghatározott büntetőjogi intézkedés alkalmazására kerülhet sor. Az egyesület más egyesülettel való egyesülését csak akkor határozhatja el, illetve az alapítvány más alapítvánnyal való egyesítése csak akkor rendelhető el, ha a létesítő okirat szerinti induló tőkét teljes egészében az egyesület, illetve az alapítvány rendelkezésére bocsátották.
 
 10/F. § (1) A civil szervezetek szétválása során a jogelőd civil szervezet tagja, alapítója akár valamennyi jogutódban tagként, alapítóként vehet részt.
 
@@ -912,7 +912,7 @@ vonatkozó szabályokat.
 - e) civil szférával kapcsolatos tudományos kutatások, monitoringtevékenység és nyilvántartási feladatok támogatása;
 - f) civil szférával kapcsolatos szolgáltató, tanácsadó, oktatási, fejlesztő, segítő, illetve esélyegyenlőséget és akadálymentességet elősegítő tevékenység és intézmények támogatása;
 - g) civil szférát bemutató kiadványok, elektronikus és írott szakmai sajtó támogatása;
-- h) civil szervezetek pályázati önrészeinek támogatása;
+- h) helyi vagy területi hatókörű civil szervezetek egyszerűsített támogatása, amelyet a civil szervezet alapcél szerinti tevékenységéhez kapcsolódó költségeinek fedezésére fordít.
 - i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési Alap Tanácsa (továbbiakban: Tanács), illetve a kollégiumok egységes elvek mentén meghatározott, forrásautomatizmus biztosításáról szóló döntései alapján;
 - j) civil érdek-képviseleti tevékenység támogatása;
 - k) az Alap működtetésével kapcsolatos költségek fedezete;

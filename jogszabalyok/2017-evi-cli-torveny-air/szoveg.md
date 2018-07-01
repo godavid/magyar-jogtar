@@ -1002,7 +1002,7 @@ valósítja meg.
 - c) vizsgálhatja a gazdasági események valódiságát;
 - d) adatokat gyűjthet az ellenőrzési tevékenysége támogatása érdekében, így különösen becslési adatbázis létrehozásához, karbantartásához.
 
-(2) Az adóhatóság az állami adó- és vámhatóság nyomozóhatósági hatáskörrel felruházott szerve által feltárt adatok és bizonyítékok alapján bűncselekmény elkövetési értékének megállapítása céljából is vizsgálhatja gazdasági események valódiságát jogkövetési vizsgálat keretében.
+(2) Az adóhatóság az állami adó- és vámhatóság nyomozó hatósági hatáskörrel felruházott szerve által feltárt adatok és bizonyítékok alapján bűncselekmény elkövetési értékének megállapítása céljából is vizsgálhatja gazdasági események valódiságát jogkövetési vizsgálat keretében.
 
 #### 92. § [Ismételt ellenőrzés]
 
@@ -1270,8 +1270,8 @@ Az adóhatóság határozata ellen önálló jogorvoslatnak van helye. Az adóha
 
 (4) Az (1)–(2) bekezdésben foglalt, az adózó terhére történő módosítás korlátozása nem érvényesül, ha
 
-- a) a bíróság a büntetőügyben hozott jogerős ítéletével megállapította, hogy az adózó adókötelezettsége teljesítésével összefüggésben csalást, költségvetési csalást, adócsalást, illetve munkáltatással összefüggésben elkövetett adócsalást követett el,
-- b) a döntést hozó adóhatóság dolgozója a kötelességét a büntetőtörvénybe ütköző módon szegte meg úgy, hogy ez a döntés meghozatalát befolyásolta, és ezt a bíróság büntetőügyben hozott jogerős ítélete megállapította vagy
+- a) a bíróság a büntetőügyben hozott jogerős ügydöntő határozatával megállapította, hogy az adózó adókötelezettsége teljesítésével összefüggésben csalást, költségvetési csalást, adócsalást, illetve munkáltatással összefüggésben elkövetett adócsalást követett el,
+- b) a döntést hozó adóhatóság dolgozója a kötelességét a büntetőtörvénybe ütköző módon szegte meg úgy, hogy ez a döntés meghozatalát befolyásolta, és ezt a bíróság büntetőügyben hozott jogerős ügydöntő határozata megállapította vagy
 - c) az adózó rosszhiszemű volt.
 
 (5) A rosszhiszeműséget az adóhatóságnak kell bizonyítania.
@@ -1436,8 +1436,8 @@ Ha az ügyész az ügyészségről szóló törvény alapján felhívással él,
 (1) Az adóhatóság döntését meg kell semmisíteni, illetve vissza kell vonni, és szükség esetén új eljárást kell lefolytatni, ha
 
 - a) – az ideiglenes intézkedést kivéve – az ügy nem tartozik az eljáró adóhatóság hatáskörébe,
-- b) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ítélet megállapította, vagy ilyen ítélet meghozatalát nem a bizonyítottság hiánya zárja ki,
-- c) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy az ügyész a vádemelést elhalasztotta és annak tartama eredményesen telt el,
+- b) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította, vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
+- c) annak tartalmát bűncselekmény befolyásolta, feltéve, hogy az ügyészség feltételes ügyészi felfüggesztést alkalmazott, és annak tartama eredményesen telt el,
 - d) a tartalma a közigazgatási bíróság adott ügyben hozott jogerős határozatával ellentétes, vagy
 - e) annak meghozatala során törvényben semmisségi oknak minősített súlyos eljárási jogszabálysértést követtek el.
 
@@ -1454,7 +1454,7 @@ Ha az ügyész az ügyészségről szóló törvény alapján felhívással él,
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni
 
-- a) a bíróság jogerős ítéletében megállapított költségvetési csalás, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás esetén,
+- a) a bíróság jogerős ügydöntő határozatában megállapított költségvetési csalás, adócsalás, munkáltatással összefüggésben elkövetett adócsalás, illetve az adókötelezettség teljesítésével összefüggésben elkövetett csalás esetén,
 - b) a bíróság által elrendelt új eljárás esetén,
 - c) ha az ellenőrzést az adópolitikáért felelős miniszter vagy az Állami Számvevőszék elnöke – önkormányzati adóhatóság hatáskörébe tartozó adó esetében az önkormányzati képviselő-testület határozata – rendelte el,
 - d) ha az ismételt ellenőrzés eredménye ellátási jogosultságot teremt,
