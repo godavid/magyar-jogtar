@@ -543,7 +543,7 @@ kézbesítettnek kell tekinteni.
   - cg) gondatlan bűncselekmény miatt kiszabott elzárás, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig,
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
-- f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig,
+- f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
 - g) aki korábban már állt szolgálati viszonyban és szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg, a szolgálati viszony megszűnését, továbbá – ha az később telik le – a büntetőjogi jogkövetkezmények megszűnését követő öt évig.
 
 (2) Az (1) bekezdés c) pont cc)–cg) alpontjában és az (1) bekezdés e) pontjában foglalt kizáró októl az állományilletékes parancsnok eltekinthet, ha a mentesítés már bekövetkezett.
@@ -580,7 +580,7 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (7) A (4) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi. A polgári nemzetbiztonsági szolgálatok a saját munkatársaikra vonatkozóan végzett, a nemzetbiztonsági szolgálatokról szóló törvény szerinti biztonsági ellenőrzés alkalmával adatszolgáltatás végett e szervet megkeresik. A megkeresett szerv a biztonsági ellenőrzéssel érintett körben adatszolgáltatásra köteles.
 
-(8) A (4) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős döntést hozó bíróság haladéktalanul értesíti az állományilletékes parancsnokot, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ítéletének jogerőre emelkedését követő nappal megállapítja, hogy a hivatásos állomány tagjának életvitele kifogásolható, és e törvény szerint intézkedik a szolgálati viszony megszüntetése érdekében.
+(8) A (4) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős ügydöntő határozatot hozó bíróság haladéktalanul értesíti az állományilletékes parancsnokot, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ügydöntő határozatának jogerőre emelkedését követő nappal megállapítja, hogy a hivatásos állomány tagjának életvitele kifogásolható, és e törvény szerint intézkedik a szolgálati viszony megszüntetése érdekében.
 
 (9) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv annak ellenőrzése érdekében, hogy a (4) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
 
@@ -1654,7 +1654,7 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, á
 
 (5) Az állományilletékes parancsnoknak és a személyügyi szervnek kizárólag az alkalmasság minősítésére vonatkozó adat továbbítható. Ha az alkalmassági vizsgálatot az állományilletékes parancsnok kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi adatot is jogosult kezelni, és az egészségügyi adatot az eljárásban részt vevő orvos és pszichológus, valamint orvosi bizottság részére továbbíthatja.
 
-(6) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, valamint büntetőügyben az eljáró bíróság, ügyész, valamint nyomozó hatóság részére, megkeresésére, továbbá a szolgálati viszonnyal összefüggő jogvitában vagy büntetőeljárásban hivatalból – a tényállás tisztázásához szükséges mértékig – továbbítható.
+(6) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, valamint büntetőügyben az eljáró bíróság, ügyészség, valamint nyomozó hatóság részére, megkeresésére, illetve adatkérésére, továbbá a szolgálati viszonnyal összefüggő jogvitában vagy büntetőeljárásban hivatalból – a tényállás tisztázásához szükséges mértékig – továbbítható.
 
 (7) Az (1) bekezdésben meghatározott célból az egészségi, pszichikai vagy fizikai állapotra vonatkozó vizsgálati adat, egészségügyi adat a szolgálati viszony létesítését célzó alkalmassági vizsgálatot vagy a szolgálati viszony megszűnését követő tizedik év december 31-ig kezelhető. Ha a szolgálati viszony létesítésére nem kerül sor, a szolgálati viszony létesítését célzó alkalmassági vizsgálat során az egészségi, pszichikai és fizikai állapotra vonatkozóan keletkezett vizsgálati adatot vagy egészségügyi adatot a vizsgálattól számított két éven belül meg kell semmisíteni.
 
@@ -1845,7 +1845,7 @@ besorolási kategóriába kell besorolni.
 - a) a rendfokozatot érintő fegyelmi fenyítés vagy bírósági ítélet végrehajtásának tartama alatt, vagy
 - b) ha ellene büntető-, méltatlansági vagy fegyelmi eljárás van folyamatban.
 
-(2) Ha a hivatásos állomány tagját az (1) bekezdés b) pontja miatt nem léptették elő és az eljárás nem végződött rendfokozatot érintő büntetés, fenyítés kiszabásával vagy a szolgálati viszony megszüntetésével, a hivatásos állomány tagja az eljárás jogerős befejezésekor léptethető elő, a feltételek teljesítésének idejére visszamenőleges hatállyal.
+(2) Ha a hivatásos állomány tagját az (1) bekezdés b) pontja miatt nem léptették elő és az eljárás nem végződött rendfokozatot érintő büntetés, fenyítés kiszabásával vagy a szolgálati viszony megszüntetésével, a hivatásos állomány tagja büntetőeljárás esetén a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor vagy a fegyelmi, méltatlansági eljárás jogerős befejezésekor léptethető elő, a feltételek teljesítésének idejére visszamenőleges hatállyal.
 
 124. § (1) Az állományilletékes parancsnok a szervezeti egységénél betölthető szolgálati beosztás esetén kiválasztási eljárás vagy pályáztatás keretében köteles megvizsgálni, hogy a szervezeti egységnél a szolgálati beosztás betöltésére van-e alkalmas személy.
 
@@ -2339,15 +2339,14 @@ kell figyelembe venni.
 165. § (1) A hivatásos állomány
 
 - a) szolgálati beosztásából felfüggesztett,
-- b) előzetes letartóztatásban lévő,
-- c) házi őrizetben lévő,
-- d) lakhelyelhagyási tilalom alatt lévő,
-- e) ideiglenes kényszergyógykezelés alatt álló, vagy
-- f) szabadságvesztés-büntetését katonai fogházban töltő
+- b) letartóztatásban lévő,
+- c) bíróság által a terhelt számára előírt terület, lakás, egyéb helyiség, intézmény, vagy ahhoz tartozó bekerített hely engedély nélküli el nem hagyására vonatkozó bűnügyi felügyelet alatt álló,
+- d) előzetes kényszergyógykezelés alatt álló, vagy
+- e) szabadságvesztés büntetését katonai fogházban töltő
 
-tagja távolléti díjra jogosult, melynek 50%-át vissza kell tartani úgy, hogy a folyósított összeg nem lehet kevesebb a mindenkori minimálbér összegénél. A teljes illetményt vissza kell tartani a szolgálati viszony megszüntetés fegyelmi fenyítés kiszabásáról szóló munkáltatói intézkedés végrehajtásáig.
+tagja távolléti díjra jogosult, amelynek 50%-át vissza kell tartani úgy, hogy a folyósított összeg nem lehet kevesebb a mindenkori minimálbér összegénél. A teljes illetményt vissza kell tartani a szolgálati viszony megszüntetés fegyelmi fenyítés kiszabásáról szóló munkáltatói intézkedés végrehajtásáig.
 
-(2) Az (1) bekezdés a)–d) pontjában meghatározott okból visszatartott távolléti díjat a kamataival utólag ki kell fizetni, ha a fegyelmi vagy büntetőeljárás felmentéssel zárul.
+(2) Az (1) bekezdés a)–c) pontjában meghatározott okból visszatartott távolléti díjat a kamataival utólag ki kell fizetni, ha a fegyelmi vagy büntetőeljárás felmentéssel zárul.
 
 #### 86. Jubileumi jutalom
 
@@ -2438,7 +2437,7 @@ költséget.
 - a) akinek a szolgálati viszonyban töltött ideje meghaladta a három évet,
 - b) akinek nincs folyamatban a szolgálati viszonyának megszüntetése,
 - c) aki ellen nem folyik fegyelmi eljárás,
-- d) aki ellen nem folyik – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás, és
+- d) akivel szemben nem folyik – a magánvádas vagy pótmagánvádas eljárás kivételével – büntetőeljárás, és
 - e) aki az (1) bekezdés szerinti kezességvállalással biztosított hitelrész kiegyenlítésére kötelezettséget vállal, továbbá a vele közös háztartásban élő házas- vagy élettársa – az igénylés időpontjában – állami kezességvállalással biztosított lakáscélú hitel törlesztésére nem kötelezett.
 
 (3) A (2) bekezdés a)–c) pontjában foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló szolgálati viszony fennállását az állományilletékes parancsnok igazolja.
@@ -2564,9 +2563,9 @@ megfelelő címpótlékot kell folyósítani.
 
 (2) Fegyelmi eljárás keretében kell elbírálni a hivatásos állomány tagjának azt a szabálysértését – a szabálysértési elzárással is büntethető szabálysértés kivételével –, amelyet szolgálati helyen vagy a szolgálattal összefüggésben követett el.
 
-(3) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 485/A. §-ában meghatározott esetben a hivatásos állomány azon tagjának, aki a büntető jogszabályok alkalmazása szempontjából a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 127. § (1) bekezdése alapján katonának tekintendő, katonai vétségét fegyelmi eljárásban kell elbírálni.
+(3) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 710. §-ában meghatározott esetben a hivatásos állomány azon tagjának, aki a büntető jogszabályok alkalmazása szempontjából a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 127. § (1) bekezdése alapján katonának tekintendő, katonai vétségét fegyelmi eljárásban kell elbírálni.
 
-(4) Ha a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész határozata ellen nem jelentettek be panaszt, – a Be. 485/A. §-ának szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni, és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
+(4) Ha a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész határozata ellen nem jelentettek be panaszt, – a Be. 710. §-ának szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni, és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
 
 182. § (1) A fenyítés célja a szolgálati rend és fegyelem védelme, az eljárás alá vont személynek és másoknak a fegyelemsértéstől való visszatartása.
 
@@ -2590,7 +2589,7 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelke
 
 (2) Nem indítható fegyelmi eljárás abban az esetben sem, ha a fegyelmi jogkör gyakorlójának a fegyelemsértésről, szabálysértésről való tudomásszerzésétől számított három hónap eltelt.
 
-(3) Ha a fegyelemsértést megvalósító magatartás egyben bűncselekménynek is minősül, a fegyelemsértés elévülési ideje – eltérően az (1) bekezdésben foglaltaktól – megegyezik a bűncselekménynek a Btk. 26. §-ában vagy a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 33. §-ában meghatározott elévülési idejével. Ha a vétkes kötelezettségszegésről a fegyelmi jogkör gyakorlója az (1) bekezdésben meghatározott határidőn túl szerez tudomást, a fegyelmi eljárást csak a hivatásos állomány tagjának a büntetőeljárásba gyanúsítottként történő bevonását követően, az erről való tudomásszerzéstől számított három hónapon belül lehet megindítani.
+(3) Ha a fegyelemsértést megvalósító magatartás egyben bűncselekménynek is minősül, a fegyelemsértés elévülési ideje – eltérően az (1) bekezdésben foglaltaktól – megegyezik a bűncselekménynek a Btk. 26. §-ában vagy a Büntető Törvénykönyvről szóló 1978. évi IV. törvény 33. §-ában meghatározott elévülési idejével. Ha a vétkes kötelezettségszegésről a fegyelmi jogkör gyakorlója az (1) bekezdésben meghatározott határidőn túl szerez tudomást, a fegyelmi eljárást csak a hivatásos állomány tagjának a gyanúsítotti kihallgatását követően, az erről való tudomásszerzéstől számított három hónapon belül lehet megindítani.
 
 (4) Szabálysértés fegyelmi eljárásban történő elbírálásakor a szabálysértésekről szóló jogszabályokban meghatározott elévülési szabályokat kell alkalmazni azzal, hogy ha az ügyben szabálysértési hatóság járt el, és az ügyet fegyelmi eljárásra átteszi, az állományilletékes parancsnoknak a fegyelmi eljárást az áttételt követő három hónapon belül meg kell indítania.
 
@@ -2853,7 +2852,7 @@ követte el. A fenyíthetőséget kizáró okok értelmezésére a Btk. rendelke
 
 (4) Fegyelemsértésnek minősül, ha a hivatásos állomány tagja az (1) bekezdés szerinti bejelentési kötelezettségét elmulasztja, mulasztása miatt igazolással nem élt, és a munkáltatói jogkört gyakorló elöljárója tudomására jut, hogy a hivatásos állomány tagja ellen büntetőeljárás indult és a megalapozott gyanú közlése is megtörtént.
 
-220. § (1) Ha a munkáltatói jogkört gyakorló elöljáró a Be. 63/A. § (2a) bekezdése alapján tájékoztatást kap arról, hogy a hivatásos állomány tagjával szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint a 219. § (1) bekezdése szerinti bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
+220. § (1) Ha a munkáltatói jogkört gyakorló elöljáró a Be. Be. 111. §-a alapján tájékoztatást kap arról, hogy a hivatásos állomány tagjával szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint a 219. § (1) bekezdése szerinti bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
 
 (2) A munkáltatói jogkört gyakorló elöljáró a 219. § (1) bekezdése szerinti bejelentés során tudomására jutott személyes adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
 
@@ -3000,7 +2999,7 @@ rendfokozati állománycsoportok vonatkozásában összevontan is vezetheti. Ebb
 
 (4) A raktáros a leltározással kapcsolatban a leltárfelvétel során és azt követően is észrevételt tehet.
 
-(5) A leltárhiányért való felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni, és a határozatot a raktárossal írásban közölni kell. Büntetőeljárás esetén a határidő a nyomozó hatóság vagy az ügyész eljárást befejező érdemi határozatának vagy a bíróság jogerős határozatának kézbesítését követő nappal kezdődik. A határidő eltelte után a raktárost kártérítésre nem lehet kötelezni.
+(5) A leltárhiányért való felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni, és a határozatot a raktárossal írásban közölni kell. Büntetőeljárás esetén a határidő a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának kézbesítését követő nappal kezdődik. A határidő eltelte után a raktárost kártérítésre nem lehet kötelezni.
 
 233. § (1) A leltárhiány a kezelésre átvett anyagban, áruban, leltári készletben ismeretlen okból keletkezett, a természetes mennyiségi csökkenés és a kezeléssel járó veszteség mértékét meghaladó hiány.
 
@@ -3048,7 +3047,7 @@ kell – a számvitelről szóló törvény szerinti értékcsökkenésre is tek
 
 (6) A hivatásos állomány tagja a kártérítési eljárásban érdekeinek védelmével megbízhatja az érdek-képviseleti szervét, valamint ügyvédet hatalmazhat meg.
 
-238. § (1) A kártérítési eljárás megindítását követő hatvan napon belül az állományilletékes parancsnok indokolt határozattal dönt a kártérítésre kötelezésről vagy annak mellőzéséről. A határidőbe a kártérítési eljárás felfüggesztésének időtartama nem számít be. Ha a károkozóval szemben a kárigénnyel összefüggően büntetőeljárás, szabálysértési vagy fegyelmi eljárás indult, a határidő az eljárás jogerős befejezésekor veszi kezdetét.
+238. § (1) A kártérítési eljárás megindítását követő hatvan napon belül az állományilletékes parancsnok indokolt határozattal dönt a kártérítésre kötelezésről vagy annak mellőzéséről. A határidőbe a kártérítési eljárás felfüggesztésének időtartama nem számít be. Ha a károkozóval szemben a kárigénnyel összefüggően büntetőeljárás, szabálysértési vagy fegyelmi eljárás indult, a határidő az eljárás jogerős befejezésekor, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor veszi kezdetét.
 
 (2) Az állományilletékes parancsnok a kártérítési eljárás megindításának mellőzésével kiadott határozatban rendelkezhet a kár megtérítéséről, ha a keletkezett kár összege a rendvédelmi illetményalap kétszeresét nem haladta meg, a károkozó a felelősségét írásban elismerte és kötelezettséget vállalt a kár harminc napon belüli megtérítésére.
 
@@ -3367,7 +3366,7 @@ kezdődik.
 - e) a szervezeti egység, az országos parancsnokság, valamint a miniszter által vezetett minisztérium személyügyi szervének vezetője és az arra feljogosított beosztottja, valamint a fegyelmi ügyben eljáró személy,
 - f) a teljesítményértékelést vagy minősítést végző személy,
 - g) a törvényességi ellenőrzéssel megbízott személy,
-- h) a feladatkörében eljárva az ügyész és a nyomozó hatóság tagja, valamint
+- h) a bíróság, az ügyészség és a nyomozó hatóság, valamint
 - i) az illetmény-számfejtést végző szerv az illetményszámfejtéshez szükséges mértékig.
 
 276. § (1) A személyügyi alapnyilvántartás vezetéséhez az érintett személy köteles adatot szolgáltatni, és a változást nyolc napon belül bejelenteni az illetékes személyügyi szervnek.
@@ -3442,7 +3441,7 @@ kezdődik.
 
 a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapítani, feltéve, hogy az kedvezőbb, mint az (1) vagy (2) bekezdés alapján megállapított hivatásos szolgálati idő, illetve tényleges szolgálati idő.
 
-281. § (1) A szolgálati idő számításánál nem lehet figyelembe venni a szolgálati beosztásból történő felfüggesztés, az előzetes letartóztatás, a házi őrizet, az ideiglenes kényszergyógykezelés, valamint a katonai fogdában végrehajtott szabadságvesztés időtartamát.
+281. § (1) A szolgálati idő számításánál nem lehet figyelembe venni a szolgálati beosztásból történő felfüggesztés, a letartóztatás, az olyan bűnügyi felügyelet, amelynek során a bíróság a terhelt számára előírta, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, az előzetes kényszergyógykezelés, valamint a katonai fogdában végrehajtott szabadságvesztés időtartamát.
 
 (2) Az (1) bekezdés – a katonai fogdában végrehajtott szabadságvesztés esetét kivéve – nem alkalmazható, ha az érintett személyt az ellene emelt vád alól utóbb jogerősen felmentették, a büntetőeljárást megszüntették, vagy a fegyelmi eljárást a 210. § (1) bekezdés a)–c) pontja alapján megszüntették.
 
@@ -4570,7 +4569,7 @@ való megfelelést szolgálja.
   - a) folyamatban levő fegyelmi eljárások adatai,
   - b) hatályos fenyítés neme, hatálya, mentesülés időpontja,
   - c) korábbi fenyítések neme, mentesülés időpontja,
-  - d) folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben hozott jogerős döntések adatai,
+  - d) folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
   - e) kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok,
   - f) a személyiségi jogsértés miatt alkalmazott szankciók, a sérelemdíj mértéke, a teljesítésre vonatkozó adatok. XII. A szolgálati nyugdíjasokra vonatkozó adatok
   - a) a nyugállományba helyezés, nyugállományba vonulás ideje,
@@ -4683,7 +4682,7 @@ a hivatásos szolgálati viszonyt létesítő személy kifogástalan életvitele
 | 2. Áll-e jelenleg büntetőeljárás alatt? |  | igen – nem |  |
 | Az eljárás alapjául szolgáló bűncselekmény megnevezése és az elkövetés ideje: |  |  |  |
 | Eljáró bíróság, ügyészség, nyomozó hatóság, ügyszám: |  |  |  |
-| Az eljárás jelentkezéskori szakasza: |  | nyomozati – ügyészi – bírói szak |  |
+| Az eljárás jelentkezéskori szakasza: |  | nyomozás-bírósági eljárás |  |
 | Az eljárás során hozott érdemi határozat, végzés, ítélet tartalma, kelte: |  |  |  |
 | 3. A jelentkezést megelőző két éven belül szabálysértés miatt marasztalták-e el? (büntetés vagy intézkedés) |  | igen – nem |  |
 | Az elkövetett szabálysértés: |  |  |  |

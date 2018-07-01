@@ -159,7 +159,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 14. § (1) Az EGT-állampolgár vagy a családtag tartózkodási joga megszűnik, ha
 
 - a) a tartózkodási jog gyakorlásának feltételeit már nem teljesíti,
-- b) a tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét jogerős bírósági ítélet megállapította, vagy
+- b) a tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét a bíróság jogerős ügydöntő határozata megállapította, vagy
 - c) beutazási és tartózkodási tilalom elrendelése esetén.
 
 (2) A harmadik országbeli állampolgár családtag tartózkodási joga megszűnik akkor is, ha a családi kapcsolat létesítése a tartózkodási jog megszerzése érdekében történt.
@@ -236,7 +236,7 @@ Az Országgyűlés az Európai Közösséget létrehozó szerződésben biztosí
 - a) két év folyamatos távolléttel;
 - b) beutazási és tartózkodási tilalom elrendelése esetén;
 - c) ha a családi kapcsolat létesítése a tartózkodási jog megszerzése érdekében történt, vagy
-- d) ha az állandó tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét jogerős bírósági ítélet megállapította.
+- d) ha az állandó tartózkodási jogot igazoló okmány megszerzése érdekében olyan hamis adatot, valótlan tényt közölt, amelyre vonatkozóan a büntetőjogi felelősségét a bíróság jogerős ügydöntő határozata megállapította.
 
 (2) Az (1) és az (1a) bekezdésben foglalt esetekben az állandó tartózkodási jog megszűnését az eljáró idegenrendészeti hatóság határozattal állapítja meg.
 
@@ -351,7 +351,7 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 
 33. § Az e törvény hatálya alá tartozó személyek beutazáshoz és tartózkodáshoz való joga az arányosság elvének betartásával és az érintettnek kizárólag olyan személyes magatartása alapján korlátozható, amely valódi, közvetlen és súlyos veszélyt jelent a közrendre, a közbiztonságra, a nemzetbiztonságra vagy a közegészségügyre.
 
-34. § (1) A visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre olyan ország területére, amely az érintett tekintetében nem minősül biztonságos származási vagy biztonságos harmadik országnak, így különösen, ahol faji, vallási, nemzeti hovatartozása, egy meghatározott társadalmi csoporthoz tartozása vagy politikai véleménye miatt üldöztetés veszélyének lenne kitéve, továbbá olyan állam területére vagy olyan terület határára sem, ahol nyomós oknál fogva tartani lehet attól, hogy a visszairányított, illetve a kiutasított személy az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve (non-refoulement).
+34. § (1) A visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre olyan ország területére, amely az érintett tekintetében nem minősül biztonságos származási vagy biztonságos harmadik országnak, így különösen, ahol faji, vallási, nemzeti hovatartozása, egy meghatározott társadalmi csoporthoz tartozása vagy politikai véleménye miatt üldöztetés veszélyének lenne kitéve, továbbá olyan állam területére vagy olyan terület határára sem, ahol nyomós oknál fogva tartani lehet attól, hogy a visszairányított, illetve a kiutasított személy az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve (non-refoulement).
 
 (2) Ha az érintett menekültügyi eljárás alatt áll, a visszairányítás és a kiutasítás csak a menekültügyi hatóság kérelmet elutasító véglegessé vált és végrehajtható határozata alapján hajtható végre.
 
@@ -428,7 +428,7 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 
 (3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek.
 
-(4) Büntetőeljárás során hozott jogerős ítélet önmagában nem képezheti a (2) bekezdés c) pontja alapján elrendelt kiutasító döntés meghozatalának alapját.
+(4) Büntetőeljárás során hozott jogerős ügydöntő határozat önmagában nem képezheti a (2) bekezdés c) pontja alapján elrendelt kiutasító döntés meghozatalának alapját.
 
 (5) Az állandó tartózkodási joggal rendelkező EGT-állampolgár vagy családtag – a (2) bekezdés c) pontjában meghatározott eset kivételével – nem utasítható ki Magyarország területéről.
 
@@ -658,13 +658,13 @@ meghosszabbítása
 
 ### Külföldre utazási korlátozás
 
-64. § (1) Az eljáró idegenrendészeti hatóság külföldre utazási korlátozást rendel el azzal az EGT-állampolgárral vagy családtaggal szemben, akinek úti okmánya visszatartása érdekében a bíróság, illetve az ügyész az eljáró idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette.
+64. § (1) Az eljáró idegenrendészeti hatóság külföldre utazási korlátozást rendel el azzal az EGT-állampolgárral vagy családtaggal szemben, akinek úti okmánya visszatartása érdekében a bíróság, illetve az ügyészség az eljáró idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette.
 
 (2) Az (1) bekezdés szerinti értesítés alapján az eljáró idegenrendészeti hatóság külföldre utazási korlátozást elrendelő határozatában az EGT-állampolgár vagy családtag úti okmányát visszatartja.
 
 (3) A határozat ellen nincs helye jogorvoslatnak.
 
-(4) Az eljáró idegenrendészeti hatóság a bíróság, az ügyész, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján a külföldre utazási korlátozást haladéktalanul törli és az EGT-állampolgár vagy családtag visszatartott úti okmányát visszaadja.
+(4) Az eljáró idegenrendészeti hatóság a bíróság, az ügyészség, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján a külföldre utazási korlátozást haladéktalanul törli és az EGT-állampolgár vagy családtag visszatartott úti okmányát visszaadja.
 
 ### Felelősségi szabályok
 
@@ -819,7 +819,7 @@ meghosszabbítása
 
 (2) Az idegenrendészeti hatóság az (1) bekezdésben meghatározott adatokat az okmány megtalálásáig, ennek hiányában az adatrögzítéstől számított legfeljebb 10 évig kezeli.
 
-81. § (1) Az eljáró idegenrendészeti hatóság a törvényben meghatározott feladata ellátása céljából és adatkörben a 75. § (1) bekezdésében meghatározott résznyilvántartásokból – a (2) bekezdésben foglalt kivétellel – az igazságszolgáltatási és a bűnüldöző szervek, a nemzetbiztonsági szolgálatok, az adóhatóság, az állampolgársági ügyekben eljáró szerv, az állampolgársági ügyekért felelős miniszter, a menekültügyi hatóság, a munkaügyi hatóság, a 75. § (1) bekezdés a)–c) pontjában foglalt résznyilvántartásokból a szabálysértési hatóság, a szabálysértési előkészítő eljárást folytató hatóság a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez, valamint a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, a helyi önkormányzat hatósági feladatot ellátó szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.
+81. § (1) Az eljáró idegenrendészeti hatóság a törvényben meghatározott feladata ellátása céljából és adatkörben a 75. § (1) bekezdésében meghatározott résznyilvántartásokból – a (2) bekezdésben foglalt kivétellel – az igazságszolgáltatási és a bűnüldöző szervek, a nemzetbiztonsági szolgálatok, az adóhatóság, az állampolgársági ügyekben eljáró szerv, az állampolgársági ügyekért felelős miniszter, a menekültügyi hatóság, a munkaügyi hatóság, a 75. § (1) bekezdés a)–c) pontjában foglalt résznyilvántartásokból a szabálysértési hatóság, a szabálysértési előkészítő eljárást folytató hatóság a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez, a céginformációs és az elektronikus cégeljárásban közreműködő szolgálatnak a cégnyilvántartásban szereplő személyek személyazonosságának ellenőrzéséhez, valamint a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, a helyi önkormányzat hatósági feladatot ellátó szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.
 
 (2) A munkaügyi hatóság csak arra a személyre vonatkozó adatot igényelhet a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból, akit Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló 1612/68/EGK rendelet 1–6. cikke előír.
 

@@ -1723,7 +1723,7 @@ alapulvételével kell meghatározni.
 
 (4) A lefoglalt dolog annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja vagy annak, akitől azt az állami adó- és vámhatóság lefoglalta feltéve, hogy az illető a jogszerű birtoklás tényét igazolta. Ha a lefoglalás megszüntetéséről rendelkező végzés közlését követő 3 munkanapon belül nem történt meg a kiadni rendelt dolog átvétele, a kiadás feltétele, hogy a lefoglalás megszüntetéséről rendelkező végzés közlésének napját követő nap és a kiadni rendelt termék, dolog és eszköz kiadásának napja közötti időtartamra eső tárolási költséget az állami adó- és vámhatóság részére igazoltan megtérítsék.
 
-(5) Az (4) bekezdéstől eltérően, ha a jövedéki kötelezettségszegéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye és ennek érdekében a büntetőügyben eljáró hatóság az állami adó- és vámhatóságot megkereste, a lefoglalt dolgot a büntetőeljárást lefolytató hatóságnak kell kiadni.
+(5) A (4) bekezdéstől eltérően, ha a jövedéki kötelezettségszegéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye és ennek érdekében a bíróság, ügyészség vagy nyomozó hatóság az állami adó- és vámhatóságot megkereste, a lefoglalt dolgot a bíróságnak, ügyészségnek vagy nyomozó hatóságnak kell kiadni.
 
 (6) Ha a kiadni rendelt dolgot a lefoglalás megszüntetéséről rendelkező végzés közlését követő 60 napon belül a (4) bekezdésben meghatározott személy nem veszi át, azt az állami adó- és vámhatóság értékesítheti. Az értékesítésből befolyt ellenérték a kiadni rendelt, de át nem vett dolog helyébe lép. Az értékesítés meghiúsulása esetén az állami adó- és vámhatóság a kiadni rendelt dolgot megsemmisítheti.
 
@@ -1750,7 +1750,7 @@ alapulvételével kell meghatározni.
 (3) Az elkobzott termékre nem kell az adót kivetni, kivéve ha
 
 - a) a jövedéki jogsértés elkövetője az adó kivetését kifejezetten kéri, vagy
-- b) a jövedéki jogsértést megvalósító személy ezzel a magatartásával a Btk. 396. §-a szerinti költségvetési csalás bűncselekményt követett el és – a büntetés korlátlan enyhítése érdekében – a bűncselekménnyel okozott vagyoni hátrány összegével megegyező összeget az Art. szerinti elkülönített számlára fizetett meg vagy a nyomozás elrendelésétől a büntetőeljárás jogerős befejezéséig a vagyoni hátrány megtérítése érdekében – a büntetés enyhítését eredményezően – az Art. szerinti elkülönített számlára befizetést teljesített.
+- b) a jövedéki jogsértést megvalósító személy ezzel a magatartásával a Btk. 396. §-a szerinti költségvetési csalás bűncselekményt követett el és – a büntetés korlátlan enyhítése érdekében – a bűncselekménnyel okozott vagyoni hátrány összegével megegyező összeget az Art. szerinti elkülönített számlára fizetett meg vagy a büntetőeljárás során a vagyoni hátrány megtérítése érdekében – a büntetés enyhítését eredményezően – az Art. szerinti elkülönített számlára befizetést teljesített.
 
 (4) Ha a lefoglalt dolog nem uniós áru, elkobzására is e törvényt kell alkalmazni.
 
@@ -1786,7 +1786,7 @@ a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki ala
 
 104. § (1) Az e Fejezetben meghatározott jogkövetkezmények együttesen is megállapíthatók. E jogkövetkezmények nem érintik az adó megfizetésének kötelezettségét, továbbá a vámjogszabályok és az Art. szerint megállapítható pótlékokat.
 
-(2) Jövedéki jogsértés miatt nem alkalmazhatóak az e Fejezetben meghatározott jogkövetkezmények a Rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálatot lefolytató személlyel szemben, ha a jogsértést meghatározott feladata ellátása során, ügyész előzetes jóváhagyásával követi el és a jogsértés elkövetése bűnfelderítési érdeket szolgál.
+(2) Jövedéki jogsértés miatt nem alkalmazhatóak az e Fejezetben meghatározott jogkövetkezmények a Rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálatot lefolytató személlyel szemben, ha a jogsértést meghatározott feladata ellátása során, ügyész előzetes jóváhagyásával követi el.
 
 105. § (1) A magánfőzés szabályainak betartását ellenőrző önkormányzati adóhatóság eljárása során a tényállás tisztázása, továbbá az e törvény szerinti elkobzás érvényesítése érdekében lefoglalást rendelhet el, továbbá a desztillálóberendezés és az azon előállított termék jogszabályi követelményeknek való megfelelősége tárgyában díjmentesen szakvéleményt kérhet az állami adó- és vámhatóságtól.
 

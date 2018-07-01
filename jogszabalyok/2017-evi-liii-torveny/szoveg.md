@@ -637,7 +637,7 @@ alapján indul meg.
 (4) A (2) bekezdés alapján megkeresett szerv vezetője kivételesen megtagadhatja az adatszolgáltatást, illetve kizárhatja a (3) bekezdés alapján biztosított közvetlen hozzáférést, ha
 
 - a) az adatszolgáltatás vagy közvetlen hozzáférés biztosítása;
-  - aa) folyamatban lévő nyomozás, titkos információgyűjtés vagy titkos adatszerzés érdekét sérti;
+  - aa) folyamatban lévő büntetőeljárás vagy titkos információgyűjtés érdekét sérti;
   - ab) nemzetbiztonsági érdeket sért;
 - b) az adatátadás nemzetközi egyezménybe ütközik;
 - c) külföldi titkosszolgálattól származó adat vonatkozásában az adatot szolgáltató külföldi titkosszolgálat az adat átadásához nem járul hozzá; vagy
@@ -681,7 +681,7 @@ részére.
 
 (4) A pénzügyi információs egység adatkezelési rendszeréből az (1) bekezdésben meghatározott hatóságok törvényben meghatározott feladataik teljesítése érdekében, azok teljesítéséhez szükséges mértékben a cél megjelölésével megkeresést küldhetnek.
 
-(5) Az (1) és (2) bekezdésben meghatározott hatóságok visszajelzést küldenek a pénzügyi információs egységnek az operatív elemzés eredményének hasznosulásáról, és az említett eredmény alapján a lefolytatott eljárás befejezésének módjáról, valamint – amennyiben ez értelmezhető – a büntetendő alapcselekmény megnevezéséről.
+(5) Az (1) és (2) bekezdésben meghatározott szervek visszajelzést küldenek a pénzügyi információs egységnek az operatív elemzés eredményének hasznosulásáról, és az említett eredmény alapján a lefolytatott eljárás befejezésének módjáról, valamint – amennyiben ez értelmezhető – a büntetendő alapcselekmény megnevezéséről.
 
 (6) A pénzügyi információs egység az 49. § (1) bekezdése alapján tudomására jutott és az (1) bekezdés alapján továbbított információ felhasználását az 53. § (1) bekezdésében meghatározottak biztosítása céljából
 
@@ -792,14 +792,14 @@ részére.
 - c) terrorizmus finanszírozása tárgyában az EU és az ENSZ BT által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény alapján elrendelhető zárlat kezdeményezésének számát és a bíróság által elrendelt zárlatok számát, a bíróság által elrendelt zárlat alá vont pénzeszköz vagy gazdasági erőforrás forintban és euróban meghatározott értékét;
 - d) azoknak a bejelentéseknek a számát valamint az összes pénzügyi információs egységhez beérkezett bejelentéshez viszonyított arányát, amelyeket a pénzügyi információs egység a 48. § (1) bekezdése és a 49. § (1) bekezdése alapján továbbított;
 - e) a pénzügyi információs egység által a 49. § alapján külföldi pénzügyi információs egységnek küldött megkeresések és tájékoztatások számára és a külföldi pénzügyi információs egység megkeresésének teljesítésére vonatkozó adatokat;
-- f) a pénzmosás, az 1978. évi IV. törvény 261. §-a szerinti terrorcselekmény, illetve a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318. §) bűncselekmények gyanúja alapján indult büntetőeljárások számát, külön feltüntetve a pénzügyi információs egység által küldött információtovábbítások alapján indított büntetőeljárások számát, valamint azon büntetőeljárások számát, amelyekben a pénzügyi információs egység által továbbított információ hasznosult, a büntetendő alapcselekmények megnevezését, valamint a nyomozás befejezésének módját;
+- f) a pénzmosás, az 1978. évi IV. törvény 261. §-a szerinti terrorcselekmény, illetve a terrorcselekmény (Btk. 314–316. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318. §) bűncselekmények gyanúja alapján indult büntetőeljárások számát, külön feltüntetve a pénzügyi információs egység által küldött információtovábbítások alapján indított büntetőeljárások számát, valamint azon büntetőeljárások számát, amelyekben a pénzügyi információs egység által továbbított információ hasznosult, a büntetendő alapcselekmények megnevezését, valamint az eljárás befejezésének módját;
 - g) az f) pontban meghatározott büntetőeljárásokban
   - ga) a vádemelések és a vádlottak számát;
-  - gb) a jogerős ítéletek és a jogerősen elítéltek számát;
+  - gb) a jogerős ügydöntő határozatok és a jogerősen elítéltek számát;
 - h) az f) pontban meghatározott büntetőeljárások során alkalmazott lefoglalások számát, a lefoglalt tárgy értékét, továbbá a lefoglalt vagyon forintban és euróban meghatározott értékét, a zár alá vételek számát és a zár alá vett vagyon forintban és euróban meghatározott értékét, illetve az elkobzások, a vagyonelkobzások számát, az elkobzott tárgy értékét, továbbá az elkobzott vagyon forintban és euróban meghatározott értékét, valamint a vagyonelkobzás alá vont vagyon forintban és euróban meghatározott értékét;
 - i) az e törvény hatálya alá tartozó ágazatok méretére és gazdasági jelentőségére vonatkozó, az 5. §-ban meghatározott felügyeletet ellátó szervek által nyilvántartott adatokat.
 
-(3) A nyomozó hatóság a (2) bekezdés f) és h) pontjában, a Legfőbb Ügyészség a (2) bekezdés f) pontjában, g) pont ga) alpontjában és h) pontjában meghatározott adatot, az Országos Bírósági Hivatal a jogerős bírósági határozatoknak a (2) bekezdés c) pontjában meghatározott elrendelt zárlatok számára, az elrendelt zárlat alá vont pénzeszköz vagy gazdasági erőforrás forintban meghatározott értékére vonatkozó adatait és a (2) bekezdés g) pont gb) alpontjában meghatározott adatait, valamint az 5. §-ban meghatározott felügyeletet ellátó szerv a (2) bekezdés i) pontjában meghatározott adatokat negyedévente megküldi a pénzügyi információs egységnek. Az adatközlést a nyomozó hatóság, a Legfőbb Ügyészség, az Országos Bírósági Hivatal és az 5. §-ban meghatározott felügyeletet ellátó szerv elektronikus úton is teljesítheti.
+(3) A nyomozó hatóság a (2) bekezdés f) és h) pontjában, a Legfőbb Ügyészség a (2) bekezdés f) pontjában, g) pont ga) alpontjában és h) pontjában meghatározott adatot, az Országos Bírósági Hivatal a jogerős vagy véglegessé vált bírósági határozatoknak a (2) bekezdés c) pontjában meghatározott elrendelt zárlatok számára, az elrendelt zárlat alá vont pénzeszköz vagy gazdasági erőforrás forintban meghatározott értékére vonatkozó adatait és a (2) bekezdés g) pont gb) alpontjában meghatározott adatait, valamint az 5. §-ban meghatározott felügyeletet ellátó szerv a (2) bekezdés i) pontjában meghatározott adatokat negyedévente megküldi a pénzügyi információs egységnek. Az adatközlést a nyomozó hatóság, a Legfőbb Ügyészség, az Országos Bírósági Hivatal és az 5. §-ban meghatározott felügyeletet ellátó szerv elektronikus úton is teljesítheti.
 
 (4) A (2) bekezdés – i) pontjában meghatározott adatokat szakma szerinti bontásban kell nyilvántartani.
 
@@ -835,7 +835,7 @@ részére.
 
 63. § (1) A szolgáltató – az e törvény szerinti tevékenységének ellátásában részt vevő foglalkoztatottjai vonatkozásában – köteles a pénzmosást vagy a terrorizmus finanszírozását lehetővé tevő, illetve megvalósító üzleti kapcsolat, ügylet megakadályozása érdekében az ügyfél-átvilágítást, a bejelentés teljesítését és a nyilvántartás vezetését elősegítő belső ellenőrző és információs rendszer működtetéséről gondoskodni.
 
-(2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnüldöző szervektől érkező megkereséseket.
+(2) Az (1) bekezdésben meghatározott rendszernek biztosítania kell, hogy a szolgáltató teljeskörűen és gyorsan teljesíthesse a pénzügyi információs egységtől, az 5. §-ban meghatározott felügyeletet ellátó szervtől vagy bűnmegelőzési, bűnüldözési feladatot ellátó szervektől érkező megkereséseket vagy adatkéréseket.
 
 (3) Az (1) bekezdésben előírt belső ellenőrzési és információs rendszer ezenfelül kiterjed a szolgáltató vezetője, foglalkoztatottja és segítő családtagja által az e törvény rendelkezéseinek a szolgáltató általi megsértése esetén küldhető értesítés teljesítése érdekében – a szolgáltató típusára és méretére tekintettel – kialakított és névtelenséget biztosító belső rendszer működtetésére is.
 

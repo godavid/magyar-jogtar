@@ -105,7 +105,7 @@ a szabadalmi ügyvivőkről
 5. § (1) A szabadalmi ügyvivő kamarai tagsága megszűnik, ha
 
 - a) arról írásban lemondott;
-- b) a közügyektől vagy a szabadalmi ügyvivői foglalkozástól a bíróság jogerős ítéletével eltiltja;
+- b) a közügyektől vagy a szabadalmi ügyvivői foglalkozástól a bíróság jogerős ügydöntő határozatával eltiltja;
 - c) büntetett előéletű,
 - d) jogerős határozattal a Kamarából való kizárás fegyelmi büntetéssel sújtják;
 - e) kamarai tagdíjfizetési kötelezettségének felszólítás ellenére sem tett eleget;
@@ -459,7 +459,7 @@ a szabadalmi ügyvivőkről
 - b) aki a panaszt előterjesztette, valamint annak képviselője és volt képviselője, továbbá Polgári Törvénykönyv szerinti hozzátartozója;
 - c) a Kamara elnöke, alelnöke, elnökségi tagja;
 - d) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat;
-- e) aki ellen fegyelmi vagy büntetőeljárás van folyamatban, ennek jogerős befejezéséig;
+- e) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll;
 - f) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
 (3) Akivel szemben kizárási ok áll fenn, köteles azt a Kamara fegyelmi bizottsága elnökének haladéktalanul bejelenteni.
@@ -564,7 +564,7 @@ a szabadalmi ügyvivőkről
 
 (5) A felfüggesztés tartama alatt az eljárás alá vont szabadalmi ügyvivővel szemben folytatott eljárásbeli jogok és kötelezettségek kivételével a kamarai tagságból, illetve a kamarai nyilvántartásba vételből fakadó jogok és kötelezettségek szünetelnek.
 
-24/F. § (1) Ha a fegyelmi eljárás alá vont szabadalmi ügyvivő cselekménye miatt büntetőeljárás is indult, a fegyelmi eljárást a büntetőeljárás jogerős befejezéséig fel lehet függeszteni.
+24/F. § (1) Ha a fegyelmi eljárás alá vont szabadalmi ügyvivő cselekménye miatt büntetőeljárás is indult, a fegyelmi eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig fel lehet függeszteni.
 
 (2)
 

@@ -222,7 +222,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 9/H. § Nem adható meg az 9/G. § (1) bekezdés szerinti igazolás, annak a természetes személynek,
 
 - a) aki büntetett előéletű,
-- b) aki büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította,
+- b) aki büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ügydöntő határozatában megállapította,
   - ba) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tizenkét évig,
   - bb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - bc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított nyolc évig,
@@ -251,7 +251,7 @@ feltéve, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevé
 
 9/K. § (1) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti eljárást felfüggeszti, ha tudomására jut, hogy a kérelmező ellen közvádra üldözendő bűncselekmény elkövetése miatt indult eljárás.
 
-(2) A felfüggesztés a büntetőeljárás jogerős befejezéséig tart.
+(2) A felfüggesztés a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tart.
 
 9/L. § (1) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolást visszavonja, amennyiben a természetes személy nem felel meg a 9/G. § (1) bekezdésében vagy a 9/J. § (1) bekezdésében meghatározott feltételeknek, vagy a kamarai tagsága megszűnik.
 
@@ -1569,7 +1569,7 @@ szerezte.
 - c) fegyelmi eljárásokban első fokon eljár,
 - d) szükség szerint, de évente legalább egyszer beszámol tevékenységéről az elnökségnek.
 
-(2) Nem lehet a fegyelmi bizottság tagja, aki ellen fegyelmi vagy büntetőeljárás van folyamatban, annak jogerős befejezéséig.
+(2) Nem lehet a fegyelmi bizottság tagja, aki ellen fegyelmi vagy büntetőeljárás van folyamatban, a fegyelmi eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig.
 
 (3) Ha fegyelmi vagy büntetőeljárás során a fegyelmi bizottság tagjának felelősségét jogerősen megállapították, a fegyelmi bizottsági tagsága megszűnik.
 
@@ -2120,7 +2120,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (3) A fegyelmi eljárás alá vont az eljárás során a bizonyítékokat megismerheti, az eljárásra, valamint a bizonyítékokra nyilatkozatot tehet, az eljárási cselekményeken részt vehet, a fegyelmi eljárásban eljáró személyekkel szemben kifogást terjeszthet elő, az eljárás résztvevőihez kérdést intézhet, bizonyítási indítványt terjeszthet elő, az eljárás alatt keletkezett iratokba betekinthet és azokról kérésre – költségtérítéssel – másolatot kaphat.
 
-(4) A büntetőeljárás alatt indult fegyelmi eljárást – az ítélet jogerőre emelkedéséig – a fegyelmi bizottság felfüggesztheti.
+(4) A büntetőeljárás alatt indult fegyelmi eljárást – az ügydöntő határozat jogerőre emelkedéséig – a fegyelmi bizottság felfüggesztheti.
 
 176/A. § A 174. § (2) bekezdésének a) pontjában foglalt fegyelmi vétség elkövetése esetén elrendelt fegyelmi eljárás során a fegyelmi eljárás alá vont az eljárást elrendelő határozat kézhezvételétől számított nyolc napon belül írásban védekezést terjeszthet elő, illetve tárgyalás tartását kérheti. Amennyiben az eljárás alá vont tárgyalás tartása iránti kérelmet nem terjeszt elő, a fegyelmi bizottság a határozatát a rendelkezésre álló iratok alapján tárgyaláson kívül is meghozhatja. Az eljárás alá vontat a fegyelmi eljárás elrendeléséről szóló értesítésben minderről tájékoztatni kell.
 

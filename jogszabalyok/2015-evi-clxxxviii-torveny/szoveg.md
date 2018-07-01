@@ -46,7 +46,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - b) a büntetés-végrehajtási intézetbe történő befogadás során az elítélt és az egyéb jogcímen fogvatartott személy azonosítása,
 - c) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény (a továbbiakban: Körtv.) 8. § (1) bekezdésében meghatározott személyek azonosítása és az eltűnt személyek felkutatása,
 - d) a személyazonosság igazolására alkalmas hatósági igazolvány kiadására irányuló közigazgatási hatósági eljárásokban a kérelmező azonosítása,
-- e) a nemzetbiztonsági szolgálatok, valamint törvényben meghatározott titkos információgyűjtő, valamint titkos adatszerző tevékenység folytatására feljogosított szervek titkos információgyűjtő és titkos adatszerző tevékenységének támogatása,
+- e) a nemzetbiztonsági szolgálatok, illetve a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek ezen tevékenységének támogatása,
 - f) a nemzetbiztonsági szolgálatok által végzett nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladataik támogatása és az objektumok műveleti védelme,
 - g) törvényben meghatározott személyvédelmi feladatok ellátása,
 - h) jogszabályban meghatározott központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények biztonsági védelme,
@@ -163,7 +163,7 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
 
 (2) A 3. § (3) bekezdés a) pontjában meghatározott célból jogosult
 
-- a) az általa folytatott büntetőeljárásban a nyomozó hatóság, az ügyészség a feltételezett elkövetőről,
+- a) az általa folytatott büntetőeljárásban az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség a feltételezett elkövetőről,
 - b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7. § (1) bekezdés c) pontjában meghatározott feladatának ellátása során,
 - c) a terrorizmust elhárító szerv az Rtv. 7/E. § (1) bekezdés a) pontjában foglalt feladatainak ellátása során
 
@@ -178,7 +178,7 @@ az általa kezelt arcképmás felhasználásával az arcképelemző tevékenysé
 (6) A 3. § (3) bekezdés e) pontjában meghatározott célból jogosult
 
 - a) a nemzetbiztonsági szolgálat titkos információgyűjtő tevékenységének,
-- b) a törvényben meghatározott titkos információgyűjtő, valamint titkos adatszerző tevékenység folytatására feljogosított szervek titkos információgyűjtő és titkos adatszerző tevékenységének
+- b) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek ezen tevékenységének
 
 támogatása során a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
 

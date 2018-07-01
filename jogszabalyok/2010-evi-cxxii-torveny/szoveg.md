@@ -26,10 +26,10 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 - a) a megyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: megyei igazgatóságok),
 - b) a Fellebbviteli Igazgatóság,
-- c) a NAV nyomozóhatósági feladatait ellátó területi szervei és
+- c) a NAV nyomozó hatósági feladatait ellátó területi szervei és
 - d) a Kormány rendeletében meghatározott igazgatóságok, illetve intézetek.
 
-(3) A NAV nyomozóhatósági feladatait a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szervei látják el.
+(3) A NAV nyomozó hatósági feladatait a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szervei látják el.
 
 (4) A megyei igazgatóságok kirendeltségeket működtethetnek.
 
@@ -77,7 +77,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 12. § (1) A területi szerv felettes szerve – a (2) és (3) bekezdésben meghatározottak kivételével – a Központi Irányítás.
 
-(2) A NAV nyomozóhatósági feladatait ellátó területi szervének felettes szerve a Bűnügyi Főigazgatóság.
+(2) A NAV nyomozó hatósági feladatait ellátó területi szervének felettes szerve a Bűnügyi Főigazgatóság.
 
 (3) A Kormány rendeletében megjelölt területi szervek által első fokon hozott döntésekkel (intézkedésekkel) szemben induló jogorvoslati eljárásokban felettes szervként a Fellebbviteli Igazgatóság jár el.
 
@@ -85,9 +85,9 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 (5) A Bűnügyi Főigazgatóság felettes szerve – a (6) bekezdésben meghatározott kivétellel – a Központi Irányítás.
 
-(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős szakmai helyettese.
+(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese.
 
-(7) A kijelölt miniszter és az állami adó- és vámhatóság vezetője az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatainak ellátásáért felelős szakmai helyettesét, valamint a kijelölt miniszter, az állami adó- és vámhatóság vezetője és az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatainak ellátásáért felelős szakmai helyettese a Bűnügyi Főigazgatóság főigazgatóját a NAV bűnüldözési és nyomozóhatósági feladatainak ellátása körében, egyedi ügyben nem utasíthatja.
+(7) A kijelölt miniszter és az állami adó- és vámhatóság vezetője az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatainak ellátásáért felelős szakmai helyettesét, valamint a kijelölt miniszter, az állami adó- és vámhatóság vezetője és az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatainak ellátásáért felelős szakmai helyettese a Bűnügyi Főigazgatóság főigazgatóját a NAV bűnmegelőzési és bűnüldözési feladatainak ellátása körében, egyedi ügyben nem utasíthatja.
 
 ### A Nemzeti Adó- és Vámhivatal feladatai
 
@@ -156,12 +156,17 @@ megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítés
 
 kapcsolatos feladatokat.
 
-(7) A NAV a bűnüldözési és nyomozóhatósági jogkörében végzi a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) által hatáskörébe utalt bűncselekmények megelőzését, felderítését, megszakítását és nyomozását, valamint nem nyomozóhatósági jogkörében eljárva ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
+(7) A NAV bűnmegelőzési és bűnüldözési jogkörében
+
+- a) a büntetőeljárásról szóló törvény által hatáskörébe utalt bűncselekmények vonatkozásában
+  - aa) végzi a bűncselekmények megelőzését, amelynek során figyelemmel kíséri Magyarország bűnügyi helyzetét, feltárja a bűncselekmények elkövetésének kockázatait, a bűncselekmények elkövetésére irányuló törekvéseket, továbbá megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a bűnözéshez kapcsolódó, a bűncselekmények megelőzése, illetve megakadályozása céljából szükséges információkat,
+  - ab) nyomozó hatósági jogkört gyakorol, a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekmények felderítését, valamint a bűncselekményből származó vagyon visszaszerzését,
+- b) ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
 
 (8) A NAV rendészeti és igazgatási jogkörében
 
 - a) végzi a külön jogszabály által hatáskörébe utalt szabálysértések felderítését és elbírálását,
-- b) ellátja a NAV nyomozó hatósága által elrendelt személyi védelmet a vonatkozó jogszabályok keretei között,
+- b) ellátja a NAV nyomozó hatósága által elrendelt, a büntetőeljárással összefüggésben a jogszabályban meghatározott személyi kört érintő személyi védelmi feladatokat (a továbbiakban: személyi védelem),
 - c) végzi meghatározott körben anyagi javak, értékek őrzését, kísérését,
 - d) végzi az elfogott, előállított, őrizetbe vett, valamint fogva tartott személyek őrzését, kísérését,
 - e) jogszabályban meghatározott ellenőrzési kötelezettségeinek és jogosultságainak végrehajtása egyik formájaként mozgó egységekkel végzi Magyarország területén – az EU külső határán működő határátkelőhelyek kivételével – a mélységi ellenőrzési tevékenységet,
@@ -233,7 +238,7 @@ kapcsolatos feladatokat.
 
 (5) Az (1) bekezdés, illetve a (4) bekezdés szerinti esetben nincs helye a Kttv. 83. § (3) bekezdése, illetve a Hszt. 297. § (3) bekezdése szerinti etikai eljárás lefolytatásának.
 
-(6) Ha a munkáltató a büntetőeljárásról szóló 1998. évi XIX. törvény 63/A. § (2a) bekezdése alapján tájékoztatást kap arról, hogy a kormánytisztviselővel, pénzügyőrrel, ügykezelővel szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint az (1) bekezdés szerinti bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő 15 napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig, illetve ha a méltatlanság megállapításra kerül, vagy fegyelmi eljárás kerül lefolytatásra, az ezen eljárások eredményeképpen hozott munkáltatói intézkedés jogerőre emelkedéséig, per esetén a per jogerős lezárásáig jogosult kezelni. Ezt követően az adatokat törölni kell.
+(6) Ha a munkáltató a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 111. §-a alapján tájékoztatást kap arról, hogy a kormánytisztviselővel, pénzügyőrrel, ügykezelővel szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint az (1) bekezdés szerinti bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő 15 napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig, illetve ha a méltatlanság megállapításra kerül, vagy fegyelmi eljárás kerül lefolytatásra, az ezen eljárások eredményeképpen hozott munkáltatói intézkedés jogerőre emelkedéséig, per esetén a per jogerős lezárásáig jogosult kezelni. Ezt követően az adatokat törölni kell.
 
 (7) A munkáltató az (1) bekezdés szerinti bejelentés során tudomására jutott személyes adatot a bejelentést követő 15 napig, ha a bejelentés alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig, illetve ha a méltatlanság megállapításra kerül, vagy fegyelmi eljárás kerül lefolytatásra, az ezen eljárások eredményeképpen hozott munkáltatói intézkedés jogerőre emelkedéséig, per esetén a per jogerős lezárásáig jogosult kezelni. Ezt követően az adatokat törölni kell.
 
@@ -947,9 +952,9 @@ kell megállapítani.
 (2) E § alkalmazásában szolgálati jogviszonyban eltöltött időnek kell tekinteni:
 
 - a) a NAV-nál és jogelődeinél kormányzati szolgálati, hivatásos szolgálati, közszolgálati, közalkalmazotti jogviszonyban és munkaviszonyban töltött időt,
-- b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, igazságügyi alkalmazotti, bírói vagy ügyészi szolgálati viszonyban töltött időt, ha a NAV-nál a kormányzati szolgálati jogviszony vagy a hivatásos szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
+- b) más költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban, közszolgálati jogviszonyban, továbbá közalkalmazotti, igazságügyi alkalmazotti, bírói vagy ügyészségi szolgálati viszonyban töltött időt, ha a NAV-nál a kormányzati szolgálati jogviszony vagy a hivatásos szolgálati jogviszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlen kinevezéssel jött létre.
 
-(3) E § alkalmazásában nem minősül szolgálati jogviszonyban eltöltött időnek az állásból történő felfüggesztésnek, a jogviszony szünetelésének, az előzetes letartóztatásnak, a lakhelyelhagyási tilalomnak, az ideiglenes kényszergyógykezelésnek az időtartama, illetve az illetmény nélküli szabadságnak a 3 évet meghaladó időtartama.
+(3) E § alkalmazásában nem minősül szolgálati jogviszonyban eltöltött időnek az állásból történő felfüggesztésnek, a jogviszony szünetelésének, a letartóztatásnak, az előzetes kényszergyógykezelésnek, illetve az olyan bűnügyi felügyeletnek az időtartama, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet engedély nélkül nem hagyhat el, továbbá az illetmény nélküli szabadságnak a 3 évet meghaladó időtartama.
 
 (4) A (3) bekezdés szempontjából állásból történő felfüggesztésnek kell tekinteni a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény rendelkezései alapján végrehajtott beosztásból felfüggesztést is.
 
@@ -1185,7 +1190,7 @@ illetményének megfelelő összeg.
 - b) legalább hároméves közigazgatási gyakorlattal rendelkezik, illetve hivatásos szolgálati jogviszonyban töltött ideje meghaladta a három évet,
 - c) felmentési vagy lemondási idejét nem tölti, illetve akinek nincs folyamatban a hivatásos szolgálati jogviszonyának megszüntetése,
 - d) ellen nem folyik fegyelmi eljárás, vagy
-- e) nem áll – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás hatálya alatt, és
+- e) nem áll – a magánvádas vagy a pótmagánvádas eljárás kivételével – büntetőeljárás hatálya alatt, és
 - f) az (1) bekezdés szerinti kezességvállalással biztosított hitelrészt a hitelintézetnek kiegyenlítette, illetve a vele közös háztartásban élő házas- vagy élettárs – az igénylés időpontjában – állami kezességvállalással biztosított lakáscélú hitel törlesztésére nem kötelezett.
 
 (3) A (2) bekezdés a)–d) pontjában foglalt feltételek teljesülését, valamint a kezességvállalás alapjául szolgáló kormányzati szolgálati jogviszony, illetve hivatásos szolgálati jogviszony fennállását a munkáltató igazolja.
@@ -1863,7 +1868,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 - a) ha szakértői vizsgálat szükséges, a szakvélemény elkészítéséig;
 - b) ha az eljárás alá vont külföldön tartózkodik, a 33/P. § (4) bekezdésben meghatározott időpontig;
-- c) ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult – legfeljebb az eljárás jogerős befejezéséig;
+- c) ha a kötelezettségszegés miatt szabálysértési eljárás indult, az eljárás jogerős befejezéséig, illetve ha büntetőeljárás indult, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig;
 - d) ha a cselekmény elbírálása olyan előzetes kérdéstől függ, amelynek eldöntése bíróság vagy más hatóság hatáskörébe tartozik, annak a jogerős vagy végleges döntéséig. Ha a felfüggesztés indoka megszűnik, a vizsgálóbiztos javaslatára a fegyelmi jogkör gyakorlója haladéktalanul elrendeli az eljárás folytatását.
 
 (5) A fegyelmi tanács elnöke a fegyelmi eljárás tárgyalási szakaszában a fegyelmi eljárást felfüggesztheti
@@ -1878,7 +1883,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 33/P. § (1) Fegyelmi vétség elkövetésének alapos gyanúja esetén – ide nem értve a méltatlanság, illetve a bizalomvesztés miatti felmentést, valamint a hivatásetikai elvek megsértését – a fegyelmi jogkör gyakorlója – a 33/Q. § szerinti esetet kivéve – köteles az eljárást megindítani. Nem lehet fegyelmi eljárást indítani, ha a kötelezettségszegés felfedezése óta 3 hónap, illetve a fegyelmi vétség elkövetése óta 3 év eltelt.
 
-(2) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a kormánytisztviselő, a pénzügyőr, az ügykezelő felelősségét, a 3 hónapos határidőt az eljárás jogerős befejezéséről való NAV általi tudomásszerzést követő naptól, a 3 éves határidőt az eljárás jogerős befejezésétől kell számítani.
+(2) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a kormánytisztviselő, a pénzügyőr, az ügykezelő felelősségét, a 3 hónapos határidőt szabálysértési eljárásban az eljárás jogerős befejezéséről, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséről, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláról való NAV általi tudomásszerzést követő naptól, a 3 éves határidőt szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
 
 (3) A 3 éves határidő kezdő napja:
 
@@ -1888,7 +1893,7 @@ követte el. Az a)–e) pont szerinti kizáró okok értelmezésére a Büntető
 
 (4) Külföldön elkövetett kötelezettségszegés esetén – amennyiben a külföldi munkavégzési helyen, illetve szolgálatteljesítési helyen fegyelmi felelősségre vonásra nincs lehetőség – a határidőket a belföldre történő visszaérkezés után a munkáltatónál történő jelentkezés, illetve ennek elmulasztása esetén a jelentkezés elmulasztása megállapításának időpontjától kell számítani.
 
-(5) Amennyiben a kormánytisztviselővel, a pénzügyőrrel, az ügykezelővel szemben a kormányzati szolgálati jogviszonyból, hivatásos szolgálati jogviszonyból eredő kötelezettségeivel összefüggő bűncselekmény miatt büntetőeljárás indult, de a cselekmény miatt fegyelmi eljárás még nem indult meg, és a rendelkezésre álló adatok az érintett méltatlanná válásának a megállapítását megalapozzák, a kormánytisztviselő, az ügykezelő Kttv. 63. § (2) bekezdés a) pontja szerinti méltatlanná válását, a pénzügyőr Hszt. 86. § (2) bekezdés d) pontja szerinti méltatlanná válását fegyelmi eljárás megindítása nélkül, a Kttv., illetve a Hszt. méltatlanságra vonatkozó szabályai szerint, a büntetőeljárás jogerős befejezése előtt is meg lehet állapítani.
+(5) Amennyiben a kormánytisztviselővel, a pénzügyőrrel, az ügykezelővel szemben a kormányzati szolgálati jogviszonyból, hivatásos szolgálati jogviszonyból eredő kötelezettségeivel összefüggő bűncselekmény miatt büntetőeljárás indult, de a cselekmény miatt fegyelmi eljárás még nem indult meg, és a rendelkezésre álló adatok az érintett méltatlanná válásának a megállapítását megalapozzák, a kormánytisztviselő, az ügykezelő Kttv. 63. § (2) bekezdés a) pontja szerinti méltatlanná válását, a pénzügyőr Hszt. 86. § (2) bekezdés d) pontja szerinti méltatlanná válását fegyelmi eljárás megindítása nélkül, a Kttv., illetve a Hszt. méltatlanságra vonatkozó szabályai szerint, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezése, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatala előtt is meg lehet állapítani.
 
 (6) Az (5) bekezdés szerinti eljárást az okról való tudomásszerzést követően haladéktalanul meg kell indítani.
 
@@ -2133,11 +2138,11 @@ az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását g
 
 34/E. § (1) Amennyiben a kormánytisztviselővel, a pénzügyőrrel, az ügykezelővel szemben a kormányzati szolgálati jogviszonyból, hivatásos szolgálati jogviszonyból eredő kötelezettségeivel össze nem függő bűncselekmény miatt büntetőeljárás indul, a munkáltatói jogkör gyakorlója – fegyelmi eljárás megindítása nélkül – az érintettet az állásából az eljárás befejezéséig felfüggesztheti. A munkáltatói jogkör gyakorlója a felfüggesztésről határozatban rendelkezik. Az érintett a határozat ellen közvetlenül bírósághoz fordulhat.
 
-(2) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani, kivéve, ha az így folyósítandó összeg nem érné el a mindenkori minimálbért. Ilyen esetben a visszatartást úgy kell alkalmazni, hogy a folyósított összeg nem lehet kevesebb a mindenkori minimálbér összegénél. A visszatartott illetményt a visszatartás időpontjától számított, a Ptk. szerinti kamatával növelten utólag ki kell fizetni, ha a büntetőeljárás jogerősen felmentéssel, illetve a büntetőeljárás bármely szakaszában megszüntetéssel zárul. A kifizetést a jogerős felmentést, illetve a büntetőeljárás jogerős megszüntetését tartalmazó irat NAV általi tudomásszerzését követő 15 napon belül kell teljesíteni.
+(2) A felfüggesztés idejére illetmény jár, ennek azonban 50%-át a felfüggesztés megszüntetéséig vissza kell tartani, kivéve, ha az így folyósítandó összeg nem érné el a mindenkori minimálbért. Ilyen esetben a visszatartást úgy kell alkalmazni, hogy a folyósított összeg nem lehet kevesebb a mindenkori minimálbér összegénél. A visszatartott illetményt a visszatartás időpontjától számított, a Ptk. szerinti kamatával növelten utólag ki kell fizetni, ha a büntetőeljárás jogerősen felmentéssel vagy a bíróság jogerős vagy véglegessé vált, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával zárul. A kifizetést a jogerős felmentésről, a büntetőeljárás bíróság általi jogerős vagy véglegessé vált megszüntetéséről, illetve az ügyészségnek vagy a nyomozó hatóságnak további jogorvoslattal nem támadható eljárást megszüntető határozatáról történő NAV általi tudomásszerzést követő 15 napon belül kell teljesíteni.
 
-(3) Az (1) bekezdés szerinti felfüggesztésnek akkor van helye, ha az a bűncselekmény, amely miatt az érintett ellen a büntetőeljárás indult, az érintett által betöltött munkakör, illetve a NAV tekintélyét, jó hírnevét, a működésébe vetett közbizalmat súlyosan veszélyezteti, vagy a büntetőeljárás miatt az érintettnek a munkahelytől való távoltartása indokolt.
+(3) Az (1) bekezdés szerinti felfüggesztésnek akkor van helye, ha az a bűncselekmény, amely miatt az érintettel szemben büntetőeljárás indult, az érintett által betöltött munkakör, illetve a NAV tekintélyét, jó hírnevét, a működésébe vetett közbizalmat súlyosan veszélyezteti, vagy a büntetőeljárás miatt az érintettnek a munkahelytől való távoltartása indokolt.
 
-(4) Ha az (5) bekezdés körébe nem tartozó bűncselekmény tekintetében a rendelkezésre álló adatok az érintett méltatlanná válásának a megállapítását megalapozzák, a kormánytisztviselő, az ügykezelő Kttv. 63. § (2) bekezdés a) pontja szerinti méltatlanná válását, a pénzügyőr Hszt. 86. § (2) bekezdés d) pontja szerinti méltatlanná válását a büntetőeljárás jogerős befejezése előtt is meg lehet állapítani.
+(4) Ha az (5) bekezdés körébe nem tartozó bűncselekmény tekintetében a rendelkezésre álló adatok az érintett méltatlanná válásának a megállapítását megalapozzák, a kormánytisztviselő, az ügykezelő Kttv. 63. § (2) bekezdés a) pontja szerinti méltatlanná válását, a pénzügyőr Hszt. 86. § (2) bekezdés d) pontja szerinti méltatlanná válását a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezése, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatala előtt is meg lehet állapítani.
 
 (5) Ha a munkáltatói jogkör gyakorlója a kormánytisztviselő, pénzügyőr, ügykezelő 15/E. § (1) bekezdése szerinti bejelentése alapján értesült arról, hogy vele szemben közvádra üldözendő – a kormányzati szolgálati jogviszonyból, hivatásos szolgálati jogviszonyból eredő kötelezettségeivel össze nem függő – bűntett megalapozott gyanúját közölték, akkor köteles méltatlansági eljárást indítani.
 
@@ -2243,7 +2248,7 @@ az állásából felfüggesztheti, ha jelenléte a tényállás tisztázását g
 
 (4) Ha a munkáltatói jogkör gyakorlója a tényállás további tisztázását tartja indokoltnak, úgy kártérítési póteljárást rendel el, amiről a vizsgálóbiztost és a károkozót értesíti. A vizsgálóbiztos a kártérítési póteljárás során a vizsgálatra vonatkozó szabályok szerint jár el, és az annak befejezését követő 3 munkanapon belül a kártérítési póteljárás során keletkezett iratokat és a kiegészítő jelentését köteles megküldeni a munkáltatói jogkör gyakorlójának és a károkozónak. Kártérítési póteljárás esetén a határozat meghozatalára nyitva álló határidő 30 nappal meghosszabbodik.
 
-(5) A leltárhiányért fennálló felelősség megállapítására a (2)–(4) bekezdésben foglaltak azzal az eltéréssel irányadók, hogy a felelősséget a leltárfelvétel befejezését követő 60 napon belül el kell bírálni. Büntetőeljárás esetén e határidő a nyomozóhatóság, illetve az ügyész eljárást befejező érdemi határozatáról vagy a bíróság jogerős határozatáról való, NAV általi tudomásszerzést követő nappal kezdődik. A határidő eltelte után a leltárhiányért a 34/H. § (2) bekezdés szerinti okirat alapján felelőst kártérítésre nem lehet kötelezni.
+(5) A leltárhiányért fennálló felelősség megállapítására a (2)–(4) bekezdésben foglaltak azzal az eltéréssel irányadók, hogy a felelősséget a leltárfelvétel befejezését követő 60 napon belül el kell bírálni. Büntetőeljárás esetén e határidő a bíróság jogerős vagy véglegessé vált határozatáról, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatáról való NAV általi tudomásszerzést követő nappal kezdődik. A határidő eltelte után a leltárhiányért a 34/H. § (2) bekezdés szerinti okirat alapján felelőst kártérítésre nem lehet kötelezni.
 
 (6) A (2)–(5) bekezdéstől eltérően, ha a foglalkoztatott kormányzati szolgálati jogviszonya, hivatásos szolgálati jogviszonya, munkaviszonya megszűnik vagy megszüntetésre kerül, a munkáltató a kártérítési felelősség megállapítása érdekében közvetlenül bírósághoz fordulhat. A leltárhiányért fennálló felelősség megállapítása érdekében ilyenkor az (5) bekezdésben meghatározott határidőn belül lehet bírósághoz fordulni.
 
@@ -2549,7 +2554,7 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 ### Általános rendelkezések
 
-35. § (1) A NAV-nak a határátkelőhelyeken végzett feladatait ellátó, a bűnüldözési, bűnmegelőzési, felderítési és nyomozási, a szabálysértési, a vám- és jövedéki ellenőrzési, mélységi ellenőrzési, az őrzésvédelmi, a hatósági, a végrehajtási eljárási feladatai ellátását végző, valamint mindezen tevékenységek irányítását, felügyeletét és ellenőrzését ellátó pénzügyőrök rendvédelmi tevékenységet folytatnak, egyenruha és szolgálati fegyver viselésére jogosultak.
+35. § (1) A NAV-nak a határátkelőhelyeken végzett feladatait ellátó, a bűnüldözési, bűnmegelőzési, a szabálysértési, a vám- és jövedéki ellenőrzési, mélységi ellenőrzési, az őrzésvédelmi, a hatósági, a végrehajtási eljárási feladatai ellátását végző, valamint mindezen tevékenységek irányítását, felügyeletét és ellenőrzését ellátó pénzügyőrök rendvédelmi tevékenységet folytatnak, egyenruha és szolgálati fegyver viselésére jogosultak.
 
 (2) A pénzügyőr az (1) bekezdés szerinti feladatának (e fejezet alkalmazásában a továbbiakban: szolgálati feladat) teljesítése során – a vámhatóság, illetve a NAV nyomozó hatóságának feladatait meghatározó jogszabályokban meghatározott intézkedéseken, eljárásokon túl – jogosult a 36–37/B. §-ban meghatározott pénzügyőri intézkedéseket (e fejezet alkalmazásában a továbbiakban: intézkedés) foganatosítani, illetve kényszerítő eszközöket alkalmazni. A kényszerítő eszközök alkalmazásának célja az e fejezet szerinti jogszerű intézkedés biztosítása. Az NAV-nál alkalmazásra kerülő kényszerítő eszközöket a kijelölt miniszter rendszeresíti.
 
@@ -2633,9 +2638,9 @@ kérheti fel.
 
 36/B. § (1) Akivel szemben személyi szabadságot korlátozó intézkedést foganatosítanak – ideértve a 36/D. § (7) bekezdés szerinti esetet is –, annak ruházatát, járművét a pénzügyőr a támadásra vagy az önveszély okozására alkalmas tárgy, illetve tárgyi bizonyíték előtalálása végett, előzetes figyelmeztetés után átvizsgálhatja.
 
-(2) A pénzügyőr a 36/A. § szerinti igazoltatás során az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása vagy bűncselekmény elkövetésének gyanúja szükségessé teszi.
+(2) A pénzügyőr a 36/A. § szerinti igazoltatás során az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása vagy bűncselekmény gyanúja szükségessé teszi.
 
-(3) A pénzügyőr a (2) bekezdésen alapuló átvizsgálást abban az esetben is alkalmazhatja, ha az átvizsgálást nem a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény elkövetésének gyanúja teszi szükségessé.
+(3) A pénzügyőr a (2) bekezdésen alapuló átvizsgálást abban az esetben is alkalmazhatja, ha az átvizsgálást nem a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény gyanúja teszi szükségessé.
 
 (4) A ruházat átvizsgálását – halaszthatatlan eset kivételével – az intézkedés alá vonttal azonos nemű személy végezheti. Az intézkedés nem történhet szeméremsértő módon.
 
@@ -2659,8 +2664,8 @@ kérheti fel.
 
 - a) akit szándékos bűncselekmény elkövetésén tetten értek,
 - b) aki ellen elfogatóparancsot, nemzetközi elfogatóparancsot, illetve európai elfogatóparancsot adtak ki,
-- c) akinek őrizetbe vételét rendelték el,
-- d) aki az őrizetbe vétel végrehajtása során megszökött.
+- c) akinek őrizetét rendelték el,
+- d) aki az őrizet végrehajtása során megszökött.
 
 (2) A pénzügyőr a hatáskörrel és illetékességgel rendelkező hatóság elé állíthatja azt,
 
@@ -2721,7 +2726,7 @@ kérheti fel.
 
 (2) A dolog birtokosa köteles az elrendelésnek eleget tenni, és amennyiben vele szemben az eljárás során jogsértést nem állapítanak meg, kérheti igazolt költségeinek megtérítését.
 
-36/L. § (1) Bűncselekmény gyanúja esetén a pénzügyőr jogosult halaszthatatlan nyomozási cselekményként lefoglalás foganatosítására és a hatáskörrel és illetékességgel rendelkező nyomozó hatóság felé a szükséges intézkedések megtételére.
+36/L. § (1) Bűncselekmény gyanúja esetén a pénzügyőr halasztást nem tűrő esetben jogosult lefoglalás elrendelésére, és a hatáskörrel és illetékességgel rendelkező nyomozó hatóság felé a szükséges intézkedéseket megteszi.
 
 (2) A (1) bekezdést a pénzügyőr abban az esetben is alkalmazhatja, ha a szolgálati feladata végrehajtása során nem a NAV nyomozó hatósága hatáskörébe tartozó bűncselekmény gyanúját észleli.
 
@@ -2737,11 +2742,11 @@ kérheti fel.
 
 36/N. § (1) Ha gyanú merül fel arra, hogy az ellenőrzés alá vont személy testében, testüregében kábítószert vagy kábítószernek minősülő anyagot szállít, a pénzügyőr jogosult az ilyen személy beleegyezésével vizeletvétel és orvosi vizsgálat elrendelésére.
 
-(2) A beleegyezés megtagadása esetén a NAV feladat- és hatáskörrel rendelkező szervének vezetője felhatalmazó kérelmet terjeszt elő az illetékes ügyészséghez azzal, hogy a kérelemben vizeletvétel helyett vérvételre való kötelezés indítványozható. Ilyen esetben a vérvétel és az orvosi vizsgálat csak az ügyész felhatalmazásával rendelhető el.
+(2) A beleegyezés megtagadása esetén a NAV feladat- és hatáskörrel rendelkező szervének vezetője felhatalmazó kérelmet terjeszt elő az ügyészséghez azzal, hogy a kérelemben vizeletvétel helyett vérvételre való kötelezés indítványozható. Ilyen esetben a vérvétel és az orvosi vizsgálat csak az ügyészség felhatalmazásával rendelhető el.
 
 (3) A feltartóztatás és az orvosi vizsgálat időtartama a 8 órát nem haladhatja meg.
 
-(4) Az intézkedés alkalmazása ellen csak amiatt van helye a 35/F. § szerinti panasznak, ha az érintett beleegyezése megtagadása ellenére ügyészi felhatalmazás nélkül rendelték el a vérvételt és az orvosi vizsgálatot, illetve akkor, ha a feltartóztatás és az orvosi vizsgálat időtartama a 8 órát meghaladta.
+(4) Az intézkedés alkalmazása ellen csak amiatt van helye a 35/F. § szerinti panasznak, ha az érintett beleegyezése megtagadása ellenére ügyészségi felhatalmazás nélkül rendelték el a vérvételt és az orvosi vizsgálatot, illetve akkor, ha a feltartóztatás és az orvosi vizsgálat időtartama a 8 órát meghaladta.
 
 ### Képfelvétel, hangfelvétel, kép- és hangfelvétel készítése
 
@@ -2751,10 +2756,11 @@ kérheti fel.
 
 (3) Az (1) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat kizárólag
 
-- a) a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés, továbbá a vámhatóság feladatait meghatározó jogszabályok vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, vagy
-- b) körözött személy vagy tárgy azonosítása céljából, vagy
-- c) az intézkedés, illetve kényszerítő eszköz alkalmazása jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, vagy
-- d) az érintett személy jogainak gyakorlása érdekében
+- a) a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés, továbbá a vámhatóság feladatait meghatározó jogszabályok vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során,
+- b) a rendőrség, illetve a Nemzeti Adó- és Vámhivatal olyan feladatellátása során, amely céljából titkos információgyűjtésnek van helye, illetve a nemzetbiztonsági szolgálatok törvényben meghatározott feladatainak ellátása érdekében,
+- c) körözött személy vagy tárgy azonosítása céljából,
+- d) az intézkedés, illetve kényszerítő eszköz alkalmazása jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, vagy
+- e) az érintett személy jogainak gyakorlása érdekében
 
 használható fel.
 
@@ -2762,7 +2768,7 @@ használható fel.
 
 (5) Ha a felvétel felhasználására a (3) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 
-36/P. § (1) A 36/O. § (4) bekezdésében meghatározott határidőn belül a 36/O. § (1) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a nyomozó hatóságok, a szabálysértési hatóságok, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a rendőrség terrorizmust elhárító szerve, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+36/P. § (1) A 36/O. § (4) bekezdésében meghatározott határidőn belül a 36/O. § (1) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóságok, a nemzetbiztonsági szolgálatok, a rendőrség terrorizmust elhárító szerve, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
 
 (2) A NAV a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
@@ -2770,7 +2776,7 @@ használható fel.
 
 (4) A (3) bekezdés szerinti kérelem benyújtására a felvétel rögzítésétől számított, a 36/O. § (4) bekezdésében meghatározottak szerinti 30 napon belül, a jog vagy jogos érdek valószínűsítésével van lehetőség.
 
-(5) Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított 30 napon belül nem kerül sor megkeresésre, a rögzített felvételt haladéktalanul törölni kell.
+(5) Bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv vagy más hatóság megkeresésére vagy adatkérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított 30 napon belül nem kerül sor megkeresésre vagy adatkérésre, a rögzített felvételt haladéktalanul törölni kell.
 
 ### Létesítmény őrzés-védelmi intézkedés
 
@@ -2780,7 +2786,7 @@ használható fel.
 
 ### Rejtett ellenőrzés elrendelése
 
-37/A. § A NAV nyomozó hatósága a 13. § (7) bekezdésében meghatározott célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
+37/A. § A NAV nyomozó hatósága a 13. § (7) bekezdés a) pont aa) alpontjában meghatározott célból, illetve a büntetőeljárásról szóló törvény alapján rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
 
 - a) arra a személyre, akiről
   - aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
@@ -2862,7 +2868,7 @@ használható fel.
 - b) a NAV nyomozó hatósága hatáskörébe tartozó, súlyos bűncselekmény elkövetésével megalapozottan gyanúsítható személy elfogására,
 - c) a személye ellen intézett támadás vagy az életét, testi épségét közvetlenül fenyegető magatartás elhárítására.
 
-(4) A (3) bekezdés b) pontjának alkalmazásában súlyos bűncselekmény az a NAV nyomozóhatósági hatáskörébe tartozó bűntett, amelyet a törvény ötévi vagy ennél súlyosabb szabadságvesztéssel fenyeget.
+(4) A (3) bekezdés b) pontjának alkalmazásában súlyos bűncselekmény az a NAV nyomozó hatósági hatáskörébe tartozó bűntett, amelyet a törvény ötévi vagy ennél súlyosabb szabadságvesztéssel fenyeget.
 
 ### Útzár telepítése, megállásra kényszerítés
 
@@ -2897,7 +2903,7 @@ használható fel.
 
 - a) az élet elleni közvetlen fenyegetés vagy támadás elhárítására,
 - b) a testi épséget súlyosan veszélyeztető közvetlen támadás elhárítására,
-- c) a Be. által a NAV nyomozóhatósági hatáskörébe utalt bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének megakadályozására,
+- c) a Be. által a NAV nyomozó hatósági hatáskörébe utalt bűncselekmény lőfegyverrel, robbanóanyaggal vagy az élet kioltására alkalmas más eszközzel való elkövetésének megakadályozására,
 - d) lőfegyver, illetve robbanóanyag jogosulatlan, erőszakos megszerzésére irányuló cselekmény megakadályozására,
 - e) az emberi élet kioltását szándékosan elkövető elfogására, szökésének megakadályozására,
 - f) azzal szemben, aki a nála lévő fegyver vagy élet kioltására alkalmas más eszköz letételére irányuló pénzügyőri felszólításnak nem tesz eleget, és magatartása a fegyver vagy a más, az élet kioltására alkalmas eszköz ember elleni közvetlen felhasználására utal,
@@ -2937,170 +2943,331 @@ használható fel.
 
 ### Általános rendelkezések
 
-51. § (1) A NAV bűnügyi főigazgatósága és a bűnügyi főigazgatóság középfokú szervei (a továbbiakban: felhatalmazott szervek) – e törvény keretei között – a Be. által a NAV nyomozóhatósági hatáskörébe utalt bűncselekmény elkövetésének megelőzésére, megakadályozására, felderítésére, megszakítására, az elkövető kilétének megállapítására, elfogására, tartózkodási helyének megállapítására, bizonyítékok megszerzésére, büntetőeljárás alól magát kivonni kívánó terhelt büntetőeljárásban történő részvételének biztosítására, továbbá a büntetőeljárásban részt vevők és az eljárást folytató hatóság tagjainak, a fedett nyomozók és fedőintézmények, a titkosan együttműködő személyek védelme, valamint a titkosan együttműködő személyek bevonása, ellenőrzése érdekében titokban információt gyűjthetnek. A titkosan együttműködő személyek bevonása, ellenőrzése céljából bírói engedélyhez nem kötött titkos információgyűjtés végezhető.
+51. § (1) Az e törvény alapján végzett titkos információgyűjtés olyan, a magánlakás sérthetetlenségéhez, valamint a magántitok, a levéltitok és a személyes adatok védelméhez fűződő alapvető jogok korlátozásával járó, a NAV által végzett különleges tevékenység, amelyet a NAV erre feljogosított szervei az érintett tudta nélkül végeznek.
 
-(2) Az (1) bekezdés alapján tett intézkedések, az abban érintett természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek adatai nem hozhatók nyilvánosságra.
+(2) A NAV a titkos információgyűjtés során az e törvényben meghatározott
 
-(3) A felhatalmazott szervek, valamint a beszerzett adat és az információgyűjtés ténye tekintetében az ügyész és a bíró a titkos információgyűjtés során – külön engedély nélkül – megismerhetik a minősített adat tartalmát.
+- a) bírói engedélyhez nem kötött eszközöket és
+- b) bírói engedélyhez kötött eszközöket
 
-52. § E fejezet alkalmazásában:
+alkalmazhatja.
 
-- 1. álvásárlás: a fedett nyomozó színlelt vételi szándékán alapuló, a bűncselekmény elkövetőjének elfogása, továbbá a bűncselekmény tárgyi bizonyítékának biztosítása érdekében e dolog vételére irányuló leplezett megállapodás, és annak teljesítése;
-- 2. bizalmi vásárlás: a fedett nyomozónak jogellenes kereskedelmi ügyletként megjelenő olyan leplezett tevékenysége, amelynek során a bűncselekmény tárgyi bizonyítási eszközét képező dolgot vásárol az eladó bizalmának erősítése, a későbbi álvásárlás elősegítése érdekében;
-- 3. ellenőrzött szállítás: a felhatalmazott szervek olyan leplezett tevékenysége, amelynek során – a nemzetközi együttműködés keretében, folyamatos és fokozott ellenőrzés mellett – lehetővé teszik a megfigyelés alatt álló elkövető számára az általa birtokolt, a bűncselekménye tárgyi bizonyítási eszközét képező dolognak az ország területére történő behozatalát, más ország területére irányuló kivitelét, az ország területén történő átszállítását annak érdekében, hogy a bűncselekmény elkövetői a lehető legszélesebb körben felderíthetők legyenek, a nemzetközi bűncselekmény tényállása megállapíthatóvá váljék;
-- 4. fedett nyomozó: a titkos információgyűjtés keretében eljáró – kilétét leplező – pénzügyi nyomozó;
-- 5. mintavásárlás: az informátor, a bizalmi személy, a felhatalmazott szervekkel titkosan együttműködő más személy vagy a fedett nyomozó által végrehajtott olyan leplezett ügylet, amelynek célja, hogy a bűncselekmény felderítése érdekében a bűncselekménnyel összefüggésbe hozható anyagok, tárgyak, eszközök vagy ezek mintái, alkatrészei további vizsgálat céljából a felhatalmazott szervek birtokába kerüljenek, illetve a bűncselekmény történeti tényállása megismerhető legyen;
-- 6. súlyos bűncselekmény: az a NAV nyomozóhatósági hatáskörébe tartozó bűntett, amelyet a törvény ötévi, vagy ennél súlyosabb szabadságvesztéssel fenyeget.
+(3) A titkos információgyűjtés során a 35/B. § (2) és (3) bekezdésben meghatározott arányosság követelményét fokozott körültekintéssel kell érvényesíteni.
 
-### Bírói engedélyhez nem kötött titkos információgyűjtés
+(4) A NAV bűncselekmény felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, bizonyítékok megszerzése, illetve a bűncselekményből származó vagyon visszaszerzése érdekében kizárólag a büntetőeljárásról szóló törvényben meghatározottak szerint alkalmazhat a büntetőeljárásról szóló törvényben meghatározott leplezett eszközöket (a továbbiakban: leplezett eszközök).
 
-53. § (1) A felhatalmazott szervek a bűnmegelőzési, bűnüldözési, felderítési és nyomozási (a továbbiakban: bűnüldözési) feladataik teljesítése érdekében
+(5) Titkos információgyűjtést a NAV Bűnügyi Főigazgatósága és a NAV nyomozóhatósági feladatait ellátó területi szervei folytathatnak.
 
-- a) informátort, bizalmi személyt vagy a NAV-val titkosan együttműködő más személyt vehetnek igénybe,
-- b) az eljárás céljának leplezésével (puhatolás) vagy a kilétét leplező fedett nyomozó igénybevételével információt gyűjthetnek, adatot ellenőrizhetnek,
-- c) saját személyi állományuk, valamint a velük együttműködő személy és a pénzügyi nyomozói jelleg leplezésére, védelmére fedőokiratot állíthatnak ki, használhatnak fel, fedőintézményt hozhatnak létre, és tarthatnak fenn,
-- d) a bűncselekmény elkövetésével gyanúsítható és vele kapcsolatban lévő személyt, valamint a bűncselekménnyel kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhetnek, arról információt gyűjthetnek, az észlelteket hang, kép, egyéb jel vagy nyom rögzítésére szolgáló technikai eszközzel (a továbbiakban: technikai eszköz) rögzíthetik,
-- e) a bűncselekmény elkövetőjének leleplezésére vagy a bizonyítás érdekében, indokolt esetben – sérülést vagy egészségkárosodást nem okozó – csapdát alkalmazhatnak,
-- f) mintavásárlás végzése érdekében informátort, bizalmi személyt, a felhatalmazott szervekkel titkosan együttműködő más személyt vagy fedett nyomozót, továbbá – az ügyész engedélyével – álvásárlás, bizalmi vásárlás, bűnszervezetbe való beépülés, illetve – a 37. § rendelkezéseinek figyelembevételével – ellenőrzött szállítás folytatása érdekében fedett nyomozót alkalmazhatnak,
-- g) ha a bűncselekmény megelőzésére, megakadályozására, felderítésére, az elkövető elfogására, kilétének megállapítására nincs más lehetőség, a sértettet szerepkörében – életének, testi épségének megóvása érdekében – pénzügyi nyomozó – ide nem értve a nem hivatásos pénzügyi nyomozót – igénybevételével helyettesíthetik.
-- h) hírközlési rendszerekből és egyéb adattároló eszközökből információt gyűjthetnek.
+(6) E törvény alkalmazásában információs rendszer az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége.
 
-(2) Az (1) bekezdésben foglaltak teljesítésére a NAV a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a NAV kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, kormányzati szolgálati jogviszony, állami szolgálati jogviszony, közszolgálati jogviszony, illetve munkaviszony létesítését.
+52. § A NAV titkos információgyűjtés folytatására feljogosított szerve
 
-(3) Az e törvényben meghatározott feladatok ellátása érdekében a NAV – külön megállapodás alapján meghatározott időtartamra – a (2) bekezdés szerinti jogviszony létesítését kezdeményezheti a (2) bekezdés hatálya alá tartozó szervezeteknél.
+- a) a NAV nyomozó hatósági jogkörébe tartozó bűncselekmények elkövetésének megelőzése céljából,
+- b) a személyi védelem ellátása során,
+- c) az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés keretében,
+- d) bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében,
+- e) a NAV-hoz tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen feladat ellátása érdekében foglalkoztatott pénzügyi nyomozó (a továbbiakban: fedett nyomozó), illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében, valamint
+- f) a NAV-val titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében
 
-(4) A NAV nem kezdeményezheti a (2) bekezdés szerinti jogviszony létesítését bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosának Hivatalánál, a Köztársasági Elnöki Hivatalnál és az Országgyűlés Hivatalánál.
+az e törvényben meghatározott szabályok alapján folytathat titkos információgyűjtést.
 
-(5) A foglalkoztatás pénzügyi nyomozói jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a NAV és az érintett szervezet külön megállapodása tartalmazza.
+53. § (1) Bűncselekmény elkövetésének megelőzése céljából akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a bűnözésre vonatkozó olyan információk megszerzése várható, amelyek elemzése és értékelése révén feltárhatók a bűncselekmények elkövetésére irányuló törekvések és lehetővé válik a bűncselekmények megelőzése, illetve megakadályozása.
 
-(6) Rendvédelmi szerv és nemzetbiztonsági szolgálat fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
+(2) A személyi védelem ellátása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a fenyegetett helyzetben lévő személy veszélyeztetettségére vonatkozó, illetve az ellene irányuló személy elleni erőszakos vagy közveszélyt okozó bűncselekmény megelőzését szolgáló információ várható.
 
-(7) A felhatalmazott szervek az informátor, a bizalmi személy, a NAV-val titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvben, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhetnek el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
+(3) Az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés érdekében az Európai Unió tagállama vagy harmadik ország megkeresése alapján akkor folytatható titkos információgyűjtés, ha a megkeresésben megjelölt bírói engedélyhez kötött vagy bírói engedélyhez nem kötött eszköz alkalmazását törvény lehetővé teszi.
 
-(8) Az informátor, a bizalmi személy, a NAV-val titkosan együttműködő más személy által a titkos információgyűjtés keretében másnak okozott kár megtérítésére, valamint személyiségi jogsértés esetén a sérelemdíj érvényesítésére az 57. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+(4) A bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében akkor folytatható titkos információgyűjtés, ha a technikai eszköz vagy elektronikus adat leplezett elhelyezéséhez vagy eltávolításához elengedhetetlenül szükséges.
 
-### Leplezett figyelés elrendelése
+(5) A fedett nyomozó, illetve a fedőintézmény védelme érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól
 
-#### 54. §
+- a) a fedett nyomozó lelepleződésének megelőzését, vagy az ellene irányuló személy elleni erőszakos bűncselekmény megelőzését, vagy
+- b) a fedőintézmény lelepleződésének megelőzését
 
-### A Schengeni Információs Rendszerben elhelyezett leplezett figyelésre irányuló jelzés
+szolgáló információ várható.
 
-végrehajtása
+(6) A NAV-val titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az attól várt információk
 
-#### 55. §
+- a) a NAV-val titkosan együttműködő személy lelepleződésének megelőzése, vagy az ellene irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében,
+- b) az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez, vagy
+- c) a NAV-val titkosan együttműködő személyre vonatkozó információ ellenőrzése érdekében
 
-### Az együttműködők díjazása
+szükségesek.
 
-56. § A felhatalmazott szervek a velük együttműködők tevékenységéért indokolt mértékű anyagi ellenszolgáltatást nyújthatnak.
+53/A. § A NAV-val titkosan együttműködő személy védelme, bevonása és ellenőrzése céljából bírói engedélyhez kötött eszköz nem alkalmazható.
 
-### A feljelentés elutasításának, vagy a nyomozás megszüntetésének
+### Bírói engedélyhez nem kötött eszközök
 
-kilátásba helyezése
+54. § A NAV titkos információgyűjtés folytatására feljogosított szerve az 52. §-ban meghatározott célból
 
-57. § (1) A felhatalmazott szervek az ügyész hozzájárulásával a Be. 175. §-ának (1) bekezdése alapján a feljelentés elutasításának, vagy a Be. 192. §-ának (1) bekezdése alapján a nyomozás megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhatnak meg a bűncselekmény elkövetőjével, ha a megállapodással elérhető bűnüldözési célhoz fűződő érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
+- a) információk megszerzése érdekében a NAV-val titkosan együttműködő személyt vehet igénybe;
+- b) az eljárás valódi céljának titokban tartásával, kilétét leplező pénzügyi nyomozó vagy fedett nyomozó igénybevételével információt gyűjthet, ellenőrizhet;
+- c) személyt, lakást, egyéb helyiséget, bekerített helyet, nyilvános vagy a közönség részére nyitva álló helyet, illetve járművet titokban megfigyelhet, a történtekről információt gyűjthet, valamint az észlelteket technikai eszközzel rögzítheti;
+- d) valamely személyt – ha életének, testi épségének megóvása érdekében szükséges – pénzügyi nyomozóval – ide nem értve a nem hivatásos pénzügyi nyomozót – helyettesítheti; illetve
+- e) elektronikus hírközlési eszközön vagy információs rendszeren folytatott kommunikáció tényének a megállapításához, az elektronikus hírközlési eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatokat megszerezheti.
 
-(2) Az (1) bekezdés szerinti megállapodás létrejötte esetén a Be. 175. §-ának (3)–(4) bekezdése alapján a NAV az elkövető által a sértettnek okozott kárt megtéríti, illetve személyiségi jogsértés esetén a sérelemdíjat megfizeti, az ehhez szükséges fedőokiratot elkészítheti, illetve titoktartási megállapodás megkötését kezdeményezheti.
+55. § (1) Nem büntethető a fedett nyomozó az alkalmazása során elkövetett bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, ha annak elkövetése
 
-(3) Nem köthető a Be. 175. §-ának (6), valamint a 192. §-ának (3) bekezdése alapján megállapodás azzal a személlyel, aki más életének szándékos kioltásával járó bűncselekmény elkövetésével megalapozottan gyanúsítható.
+- a) a fedett nyomozó alkalmazásának eredményességéhez, az alkalmazással elérni kívánt, az 52. § szerinti célhoz szükséges, és az alkalmazással elérni kívánt érdek jelentősebb, mint a fedett nyomozó felelősségre vonásához fűződő érdek,
+- b) a fedett nyomozó biztonságának biztosítása, lelepleződésének megakadályozása érdekében szükséges, és a fedett nyomozó biztonságával, lelepleződésének megakadályozásával kapcsolatos érdek jelentősebb, mint a fedett nyomozó felelősségre vonásához fűződő érdek, illetve
+- c) más bűncselekmény elkövetésének megelőzése vagy megszakítása érdekében szükséges, és a bűncselekmény megelőzéséhez vagy megszakításához fűződő érdek jelentősebb, mint a fedett nyomozó felelősségre vonásához fűződő érdek.
 
-### A feljelentés elutasítása vagy a nyomozás megszüntetése
+(2) A fedett nyomozó nem követhet el más életének szándékos kioltásával járó, illetve maradandó fogyatékosságot vagy súlyos egészségromlást szándékosan okozó bűncselekményt.
 
-a fedett nyomozóval szemben
+(3) A fedett nyomozó mást bűncselekmény elkövetésére nem bírhat rá és nem terelheti az érintett személyt annál súlyosabb bűncselekmény elkövetése felé, mint amelyet eredetileg elkövetni tervezett.
 
-58. § (1) Bűncselekmény megalapozott gyanúja esetén az ügyész a Be. 175. §-ának (2) bekezdése alapján a feljelentést határozattal elutasítja, vagy a Be. 192. §-ának (2) bekezdése alapján a nyomozást megszünteti, ha az 53. § (1) bekezdésének f) pontja szerint a fedett nyomozó által a szolgálati feladata teljesítése közben elkövetett bűncselekmény bűnüldözési érdeket szolgál, és az jelentősen meghaladja az állam büntetőjogi igényének érvényesítéséhez fűződő érdeket.
+(4) Ha a fedett nyomozó az általa elkövetett bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt az (1) bekezdés alapján nem büntethető, az állam téríti meg azt a kárt, illetve sérelemdíjat, amelynek megtérítésére a fedett nyomozó a polgári jog szerint köteles. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a NAV titkos információgyűjtés folytatására feljogosított szerve a sérelmet szenvedett személlyel titoktartási megállapodás megkötését kezdeményezheti, illetve az ehhez szükséges iratokat elkészítheti.
 
-(2) A Be. 175. §-ának (3) és (4) bekezdése alapján a fedett nyomozó által a sértettnek okozott kár megtérítésére, illetve a személyiségi jogsértésért járó sérelemdíj megfizetésére, az ehhez szükséges fedőokirat elkészítésére, illetve a titoktartási megállapodás megkötésének kezdeményezésére az 57. § (2) bekezdésében írt rendelkezést kell alkalmazni.
+(5) Ha a kártérítésről, illetve a sérelemdíj megfizetéséről polgári perben kell határozni, az ezek iránti igény jogalapját vélelmezni kell. A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a NAV titkos információgyűjtés folytatására feljogosított szervének nyilatkozatát a felperes sérelmére elkövetett cselekményről, a cselekménnyel okozott kárról, illetve személyiségi jogsértésről. A nyilatkozat nem terjedhet ki olyan tényre, amelynek alapján a fedett nyomozó személyére lehet következtetni.
 
-(3) A Be. 175. §-ának (6), valamint a 192. §-ának (3) bekezdése alapján az (1) bekezdésben foglaltak nem alkalmazhatók, ha a fedett nyomozó más életének szándékos kioltásával járó bűncselekmény elkövetésével megalapozottan gyanúsítható.
+56. § (1) Az 54. §-ban és az 57. §-ban foglaltak teljesítése érdekében a NAV természetes személlyel, jogi személlyel vagy jogi személyiséggel nem rendelkező szervezettel titkos együttműködési megállapodást köthet. Ennek keretében a NAV kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti, állami szolgálati jogviszony, illetve munkajogviszony (a továbbiakban: munkaviszony) létesítését.
 
-### Adatkérés
+(2) Az e törvényben meghatározott feladatok ellátása érdekében a NAV – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet az (1) bekezdés hatálya alá tartozó szervezeteknél.
 
-59. § (1) A felhatalmazott szervek vezetői az ügyész jóváhagyásával a kétévi vagy ennél súlyosabb szabadságvesztéssel büntetendő, szándékos bűncselekmény felderítése érdekében az üggyel összefüggő adatok szolgáltatását igényelhetik az önkormányzati adóhatóságtól, a szolgáltatást nyújtó postai szolgáltatótól, elektronikus hírközlési szolgáltatótól, az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől, továbbá a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak, biztosítási titoknak és egyéb üzleti titoknak minősülő adatot kezelő szervtől. A felhatalmazott szervek az adatszolgáltatás teljesítésére határidőt jelölhetnek meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megkeresésben megjelölt célra használható fel.
+(3) A NAV nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
 
-(2) A felhatalmazott szervek vezetői az (1) bekezdés szerinti bűncselekmény felderítése érdekében az ügyész jóváhagyásával vehetnek át adatot a NAV adóztatási szerveitől, illetve vámszerveitől.
+(4) A foglalkoztatás pénzügyi nyomozói jellegével kapcsolatos speciális szabályokat a titkos együttműködési megállapodásban kell rögzíteni.
 
-(3) A „halaszthatatlan intézkedés” jelzéssel ellátott, előzetes ügyészi jóváhagyást nélkülöző megkeresést haladéktalanul teljesíteni kell. „Halaszthatatlan intézkedés” jelzéssel ellátott megkeresés abban az esetben bocsátható ki, ha a késedelem veszéllyel jár és az ügy szervezett bűnözéssel függ össze. Az ügyész jóváhagyása iránt a megkereséssel egyidejűleg intézkedni kell. Ha az ügyész a jóváhagyását megtagadja, a felhatalmazott szervek az így beszerzett adatokat haladéktalanul megsemmisítik.
+(5) A NAV a vele titkosan együttműködők tevékenységéért indokolt mértékű anyagi ellenszolgáltatást nyújthat.
 
-### A titkos információgyűjtéssel kapcsolatos sajátos gazdálkodási szabályok
+(6) Az állam téríti meg azt a NAV-val titkosan együttműködő személy által a titkos információgyűjtés során ellátott feladatával összefüggésben okozott kárt, illetve sérelemdíjat, amelynek megtérítésére a NAV-val titkosan együttműködő személy a polgári jog szerint köteles. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a NAV titkos információgyűjtés folytatására feljogosított szerve a sérelmet szenvedett személlyel titoktartási megállapodás megkötését kezdeményezheti, illetve az ehhez szükséges iratokat elkészítheti.
 
-60. § (1) A NAV bűnügyi főigazgatósága a költségvetésében az alaptevékenységgel összefüggő speciális működési kiadásainak fedezésére elkülönített előirányzatot szerepeltethet. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
+(7) Ha a kártérítésről, illetve a sérelemdíj megfizetéséről polgári perben kell határozni, az ezek iránti igény jogalapját vélelmezni kell. A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a NAV titkos információgyűjtés folytatására feljogosított szervének nyilatkozatát a felperes sérelmére elkövetett cselekményről, a cselekménnyel okozott kárról, illetve személyiségi jogsértésről. A nyilatkozat nem terjedhet ki olyan tényre, amelynek alapján a NAV-val titkosan együttműködő személyre lehet következtetni.
 
-(2) Speciális működési kiadásnak minősülnek a NAV titkos információgyűjtő tevékenységéhez, a titkos információgyűjtés eszközeinek és módszereinek alkalmazásához közvetlenül kötődő személyi és tárgyi vonatkozású kiadások.
+(8) Az (1)–(7) bekezdést alkalmazni kell a NAV-val a büntetőeljárásról szóló törvény alapján titkosan együttműködő személyek esetében is.
 
-(3) A felhatalmazott szervek fedőintézményben szolgálatot teljesítő hivatásos állományú tagjának a hivatásos szolgálati jogviszonya alapján, illetve a nem hivatásos pénzügyi nyomozónak a kormányzati szolgálati jogviszonya alapján kifizetett jövedelméből az adott évi adótábla legmagasabb adókulcsa alkalmazásával kell az adót levonni és befizetni az adóhatóságnak. Az érintettnek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetve az érintett részére igazolást kiadnia.
+57. § (1) A NAV az 52. §-ban meghatározott célból, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a pénzügyi nyomozói jelleg leplezése érdekében
 
-(4) A NAV nyomozó hatósága által az 56. §-ban meghatározott együttműködő magánszemély részére nyújtott díjazás esetén a személyi jövedelemadó-levonási és befizetési kötelezettséget a NAV bűnügyi főigazgatósága teljesíti. A kifizetett összegből 20%-os forrásadót kell levonni és befizetni az adóhatóságnak. E jövedelemnek az összevont adóalapba történő beszámítására, a jövedelem bevallására, a kifizető adatszolgáltatására, az igazolás kiadására a (3) bekezdésben foglalt rendelkezést kell alkalmazni.
+- a) valótlan adatot, tényt vagy nyilatkozatot tartalmazó okiratot vagy közokiratot (a továbbiakban: fedőokirat) készíthet vagy használhat fel, illetve
+- b) fedőintézményt hozhat létre és tarthat fenn.
 
-61. § (1) A NAV feladatai teljesítése érdekében – a fedésül szolgáló intézmény típusára vonatkozó jogszabályok előírásai szerint – fedőintézményt hozhat létre, és tarthat fenn. Fedőintézményként költségvetési szerv nem hozható létre.
+(2) A NAV a titkos információgyűjtés, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a pénzügyi nyomozói jelleg leplezése érdekében, valamint a fedőokirat és a fedőintézmény védelme érdekében a közhiteles nyilvántartásokba valótlan adatot (a továbbiakban: fedőadat) jegyeztethet be.
 
-(2) A fedőintézmény létrehozása és – szükség esetén – fenntartása a NAV bűnügyi főigazgatósága költségvetéséből történik. Az ehhez szükséges kiadások speciális működési kiadásnak minősülnek. A szükséges pénzügyi eszközök forrását a titkosság megtartása mellett kell biztosítani.
+(3) Fedőintézményként költségvetési szerv nem hozható létre. Rendvédelmi szerv, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak a szervet irányító miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
 
-(3) Ha a fedőintézmény megszűnik, vagyona a NAV bűnügyi főigazgatóságát illeti.
+(4) A fedőokiratot meg kell semmisíteni, illetve a közhiteles nyilvántartásokból a fedőadatot törölni kell, ha arra a továbbiakban már nincs szükség.
 
-(4) Az államháztartásról szóló törvény rendelkezései a fedőintézményre nem vonatkoznak.
+58. § (1) A NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője az 52. §-ban meghatározott célból az ügyészség jóváhagyásával
 
-(5) A felhatalmazott szervek a 60. § (2) bekezdésében meghatározott körben külön korlátozás nélkül valutát kezelhetnek.
+- a) átvehet adatot a NAV adóztatási és vámszerveitől, illetve
+- b) adatok szolgáltatását igényelheti
+  - ba) az elektronikus hírközlési szolgáltatótól,
+  - bb) a postai szolgáltatótól, illetve a postai közreműködői tevékenységet végző személytől vagy szervezettől,
+  - bc) a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak vagy biztosítási titoknak minősülő adatot kezelő szervezettől,
+  - bd) az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott egészségügyi és személyes adatot kezelő szervezettől, illetve
+  - be) az önkormányzati adóhatóságtól.
 
-62. § (1) A speciális működési kiadás felhasználásának külső szerv által történő ellenőrzése kizárólag törvényességi szempontból történhet. E körben célszerűségi és eredményességi szempont szerinti ellenőrzés nem végezhető.
+(2) A NAV titkos információgyűjtés folytatására feljogosított szerve az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
 
-(2) A NAV, illetve a NAV nyomozó hatósága gazdálkodásának külső szerv által történő ellenőrzése során az ellenőrzést végző szerv birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, annak forrására, illetve az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
+(3) Ha az adatkérés engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség engedélye nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás nem tagadható meg az ügyészségi engedély hiánya miatt. Ilyen esetben az ügyészség engedélyét utólag haladéktalanul be kell szerezni. Ha az adatkérést az ügyészség nem engedélyezi, az így beszerzett adatokat haladéktalanul törölni kell.
 
-(3) A Bűnügyi Főigazgatóság a biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adó-elszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó értékű irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valuta-felhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – az illetékes szervezetekkel külön megállapodásban rögzíti.
+### Bírói engedélyhez kötött eszközök
 
-### Bírói engedélyhez kötött titkos információgyűjtés
+59. § (1) Bírói engedélyhez kötött eszköz akkor alkalmazható, ha
 
-63. § (1) A felhatalmazott szervek bírói engedéllyel az 51. § (1) bekezdésében meghatározott bűnüldözési célból a súlyos bűncselekmények esetében, valamint a (3) bekezdésben meghatározott esetekben a nyomozás elrendeléséig
+- a) megalapozottan feltehető, hogy a megszerezni kívánt információ az 52. §-ban meghatározott cél eléréséhez elengedhetetlenül szükséges és más módon nem szerezhető meg,
+- b) annak alkalmazása nem jár az azzal érintett vagy más személy alapvető jogának az elérendő célhoz képest aránytalan korlátozásával, és
+- c) annak alkalmazásával az 52. §-ban meghatározott cél eléréséhez szükséges információ megszerzése valószínűsíthető.
 
-- a) magánlakást és telephelyet titokban átkutathatnak, az észlelteket technikai eszközökkel rögzíthetik,
-- b) a magánlakásban és telephelyen történteket technikai eszközök segítségével megfigyelhetik és rögzíthetik,
-- c) postai küldeményt, valamint beazonosítható személyhez kötött zárt küldeményt felbonthatnak, ellenőrizhetik, és azok tartalmát technikai eszközökkel rögzíthetik,
-- d) elektronikus hírközlési szolgáltatás útján továbbított kommunikáció tartalmát megismerhetik, az észlelteket technikai eszközzel rögzíthetik, valamint
-- e) számítástechnikai eszköz vagy rendszer útján továbbított vagy azon tárolt adatokat megismerheti, rögzítheti és felhasználhatja.
+(2) A titkos információgyűjtés során a következő bírói engedélyhez kötött eszközök alkalmazhatók:
 
-(2) Az (1) bekezdés c)–e) pontjában meghatározott eszközök alkalmazása során gyűjtött, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyekre vonatkozó adatokat haladéktalanul meg kell semmisíteni, azok a továbbiakban nem kezelhetők és nem használhatók fel.
+- a) titkos kutatás,
+- b) hely titkos megfigyelése,
+- c) küldemény titkos megismerése,
+- d) lehallgatás,
+- e) információs rendszer titkos megfigyelése.
 
-(3) A felhatalmazott szervek az (1) bekezdésben felsorolt titkos információgyűjtésre szolgáló eszközöket és módszereket (a továbbiakban: különleges eszközök) az ott meghatározottak szerint alkalmazhatják
+60. § A NAV titkos információgyűjtés folytatására feljogosított szerve bírói engedéllyel az 52. §-ban meghatározott célból
 
-- a) az (1) bekezdésben nem említett, a NAV nyomozóhatósági hatáskörébe utalt, üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
-- b) az (1) bekezdésben vagy az a) pontban meghatározott bűncselekmény kísérlete, illetve – ha az előkészületet a törvény büntetni rendeli – előkészülete esetén.
+- a) titkos kutatás során a nyilvános vagy a közönség részére nyitva álló hely kivételével lakást, egyéb helyiséget, bekerített helyet, illetve a közösségi közlekedési eszköz kivételével járművet, továbbá az érintett személy használatában lévő tárgyat titokban átkutathatja, az észlelteket technikai eszközzel rögzítheti;
+- b) hely titkos megfigyelése során a nyilvános vagy a közönség részére nyitva álló hely kivételével a lakásban, egyéb helyiségben, bekerített helyen, illetve a közösségi közlekedési eszköz kivételével járművön történteket titokban technikai eszközzel megfigyelheti és rögzítheti, illetve az ehhez szükséges technikai eszközt az alkalmazás helyén elhelyezheti;
+- c) küldemény titkos megismerése során postai küldeményt vagy beazonosítható személyhez kötött egyéb zárt küldeményt titokban felbonthat, annak tartalmát megismerheti, ellenőrizheti és rögzítheti;
+- d) lehallgatás során az elektronikus hírközlési szolgáltatás keretében elektronikus hírközlő hálózat vagy eszköz útján, illetve információs rendszeren folytatott kommunikáció tartalmát titokban megismerheti és rögzítheti;
+- e) információs rendszer titkos megfigyelése során információs rendszerben kezelt adatokat titokban megismerhet, az észlelteket technikai eszközzel rögzítheti, illetve az ehhez szükséges elektronikus adatot az információs rendszerben, illetve a szükséges technikai eszközt – a nyilvános vagy a közönség részére nyitva álló hely kivételével – lakásban, egyéb helyiségben, bekerített helyen, illetve – a közösségi közlekedési eszköz kivételével – járműben, továbbá az érintett személy használatában lévő tárgyban elhelyezheti.
 
-(4) Az (1) bekezdés c)–e) pontjaiban foglaltak teljesítéséhez a hírközlési, illetve a távközlési szolgáltató, valamint a postai szervezet köteles a feladatkörébe tartozó esetben a segítséget megadni.
+61. § (1) Bűncselekmény elkövetésének megelőzése céljából akkor lehet bírói engedélyhez kötött titkos információgyűjtést folytatni, ha megalapozottan feltehető, hogy attól a szervezett bűnözéssel kapcsolatos, illetve szervezett bűnözői csoportok azonosítását lehetővé tevő információk megszerzése várható.
 
-(4a) Az (1) bekezdés a)–b) pontjának alkalmazása során magánlakásnak minősül a lakás (üdülő, nyaraló vagy a lakás céljára használt egyéb helyiség, létesítmény, tárgy), az ahhoz tartozó nem lakás céljára szolgáló helyiség, létesítmény, bekerített terület, a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület, továbbá – a közösségi közlekedési eszköz kivételével – a jármű is.
+(2) Az 52. § c) pontjában meghatározott célból bírói engedélyhez kötött eszköz akkor alkalmazható, ha a külföldi hatóság igazolja, hogy a megkeresésben megjelölt bírói engedélyhez kötött eszköz alkalmazása a külföldi hatóság saját államának joga szerint törvényes.
 
-(5) A NAV felhatalmazott szervei a bírói engedélyhez kötött titkos információgyűjtő eszközök alkalmazását a Nemzetbiztonsági Szakszolgálattól rendelik meg.
+(3) Az 52. § c) pontjában meghatározott célból a 60. § d) és e) pontjában meghatározott bírói engedélyhez kötött eszköz akkor alkalmazható, ha a külföldi hatóság megkeresésében megjelölt személy
 
-64. § (1) A különleges eszköz alkalmazása iránti kérelmet a hatáskörrel és illetékességgel rendelkező felhatalmazott szervek vezetői terjesztik elő.
+- a) Magyarország területén tartózkodik, vagy
+- b) harmadik állam területén tartózkodik, azonban
+  - ba) a titkos lehallgatás Magyarország területén működő elektronikus hírközlési szolgáltatást végző szervezet, illetve az információs rendszerben tárolt adatok továbbítását, feldolgozását, kezelését végző szervezet közreműködését igényli, vagy
+  - bb) a bírói engedélyhez kötött eszköz alkalmazásához szükséges technikai eszköz Magyarország területén található.
 
-(2) A kérelemnek tartalmaznia kell:
+### A bírói engedélyhez kötött eszközök engedélyezése
 
-- a) a különleges eszköz alkalmazásának helyét, az alkalmazással érintett nevét, illetve az azonosításra alkalmas – rendelkezésre álló – adatot,
-- b) az alkalmazni kívánt különleges eszköz megnevezését,
-- c) az alkalmazás tervezett kezdetét és végét napban és órában meghatározva,
-- d) az alkalmazás törvényi feltételeinek meglétére vonatkozó indokolást.
+62. § (1) A bírói engedélyhez kötött eszközök a bíróság engedélye alapján, az abban meghatározott keretek között alkalmazhatók.
 
-(3) A különleges eszköz alkalmazását a felhatalmazott szerv székhelye szerint illetékes járásbíróságnak a törvényszék elnöke által kijelölt bírája (a továbbiakban: bíró) engedélyezi.
+(2) A bírói engedélyhez kötött eszközök alkalmazásával kapcsolatban a bíróság feladatait a NAV titkos információgyűjtés folytatására feljogosított szervének a székhelye szerint illetékes járásbíróságnak a törvényszék elnöke által kijelölt bírája látja el.
 
-(4) A bíró a különleges eszköz engedélyezése iránti kérelem benyújtásától számított 72 órán belül indokolt végzéssel határoz, a kérelemnek helyt ad, vagy azt a törvényi feltételek hiánya miatt elutasítja.
+63. § (1) A bírói engedélyhez kötött eszköz alkalmazása iránti kérelmet a NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője terjeszti elő.
 
-(5) A bíró a különleges eszköz alkalmazását, illetve az eszköz igénybevételét esetenként legfeljebb 90 napra engedélyezheti, illetve – a (2) bekezdés szerinti kérelemre – 90 nappal ismételten meghosszabbíthatja.
+(2) A kérelemnek tartalmaznia kell
 
-65. § (1) Ha a különleges eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely az adott ügyben nyilvánvalóan sértené a bűnüldözés eredményességéhez fűződő érdeket, a felhatalmazott szervek vezetői legfeljebb a bírói döntésig engedélyezhetik a különleges eszköz alkalmazását (sürgősségi elrendelés).
+- a) a NAV titkos információgyűjtés folytatására feljogosított szervének a megnevezését, a titkos információgyűjtés elrendelésének időpontját, az ügy számát,
+- b) a rendelkezésre álló, az alkalmazással érintett személy azonosítására szolgáló adatokat,
+- c) a bírói engedélyhez kötött eszköz alkalmazásának tervezett kezdő és befejező időpontját napban és órában meghatározva,
+- d) a bírói engedélyhez kötött eszköz alkalmazása törvényi feltételeinek fennállását megalapozó részletes indokolást, így
+  - da) az 53. §-ra figyelemmel a bírói engedélyhez kötött eszköz alkalmazásának célját, és
+  - db) az 59. § (1) bekezdésében meghatározott feltételek teljesülését megalapozó adatokat,
+- e) az alkalmazni kívánt bírói engedélyhez kötött eszköz megnevezését, és
+- f) a bírói engedélyhez kötött eszköz alkalmazására vonatkozó adatokat, így
+  - fa) a megfigyelni kívánt információs rendszer,
+  - fb) a megfigyelni kívánt helyiség, jármű vagy tárgy,
+  - fc) az átvizsgálni kívánt küldemény feladásának vagy átvételének helye, illetve a feladó vagy a címzett, illetve
+  - fd) a megfigyelni kívánt elektronikus hírközlési szolgáltatás vagy eszköz, illetve információs rendszer
 
-(2) A sürgősségi elrendelés esetén az engedélyezés iránti kérelmet egyidejűleg be kell nyújtani. A kérelem elutasítása esetén sürgősségi elrendelésnek ugyanabból a célból, változatlan indok vagy tényállás alapján ismételten nincs helye.
+egyértelmű azonosítására szolgáló adatokat.
 
-(3) A felhatalmazott szerv vezetője haladéktalanul elrendeli a különleges eszköz alkalmazásának megszüntetését, ha:
+(3) A kérelemhez csatolni kell a kérelemben foglaltakat megalapozó iratokat.
 
-- a) az engedélyben meghatározott célját elérte,
-- b) az engedélyben megállapított határidő lejárt,
-- c) nyilvánvaló, hogy további alkalmazásától nem várható eredmény,
-- d) a sürgősséggel elrendelt alkalmazást a bíró nem engedélyezte.
+64. § (1) A bíróság a kérelem benyújtásától számított hetvenkét órán belül indokolt végzéssel határoz. A bíróság a kérelem alapján az engedélyt megadja, vagy a kérelmet a törvényi feltételek hiánya miatt elutasítja.
 
-(4) A (3) bekezdés d) pontja esetében a különleges eszköz alkalmazásával rögzített információt haladéktalanul meg kell semmisíteni.
+(2) Ha a bíróság a bírói engedélyhez kötött eszköz alkalmazását engedélyezi, az erről szóló végzésben meg kell jelölni
 
-(5) A különleges eszközzel végzett megfigyelés befejezését követő 8 napon belül meg kell semmisíteni a megfigyelés célja szempontjából érdektelen rögzített információt vagy az ügyben nem érintett személy adatait.
+- a) a rendelkezésre álló, az érintett személy azonosítására szolgáló adatokat,
+- b) a bírói engedélyhez kötött eszköz alkalmazásának kezdő és befejező időpontját napban és órában meghatározva,
+- c) az 53. §-ra figyelemmel a bírói engedélyhez kötött eszköz alkalmazásának célját,
+- d) a bírói engedélyhez kötött eszköz megnevezését és
+- e) a 63. § (2) bekezdés f) pontjában meghatározott adatokat.
 
-(6) A külön engedélyhez kötött titkos információgyűjtés során szerzett és rögzített adatokat az engedélyező bíró bármikor megismerheti.
+65. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely a titkos információgyűjtéssel elérni kívánt célt nyilvánvalóan veszélyeztetné, a NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője elrendelheti a titkos kutatást, illetve a bíróság döntéséig, de legfeljebb hetvenkét órára más bírói engedélyhez kötött eszköz alkalmazását.
+
+(2) A bírói engedélyhez kötött eszköz (1) bekezdés alapján elrendelt alkalmazásának esetén a NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője az elrendeléssel egyidejűleg előterjeszti a kérelmet a bíróságnak az utólagos engedélyezés érdekében.
+
+(3) A (2) bekezdésben meghatározott kérelem tartalmazza az (1) bekezdésben meghatározott feltételek fennállását megalapozó körülményeket is, továbbá az elrendelés időpontját órában meghatározva.
+
+(4) A bíróság a kérelmet akkor is elutasítja, ha
+
+- a) a kérelem elkésett, vagy
+- b) az engedély az alkalmazás (1) bekezdés alapján történő elrendelése előtt is beszerezhető lett volna.
+
+(5) Ha a bíróság a (2) bekezdésben meghatározott kérelmet elutasítja, ugyanabból a célból, változatlan indok alapján bírói engedélyhez kötött eszköz alkalmazása az (1) bekezdés alapján ismételten nem rendelhető el.
+
+(6) A bírói engedélyhez kötött eszköz alkalmazásának engedélyezése esetén az alkalmazás kezdő időpontját az (1) bekezdés szerinti elrendelés időpontjától kell számítani.
+
+65/A. § (1) A bírói engedélyhez kötött eszközök alkalmazása esetenként legfeljebb kilencven napra engedélyezhető, amely újabb kérelem előterjesztése esetén, a (2), (4) és (5) bekezdésben meghatározottak szerint alkalmanként legfeljebb kilencven nappal meghosszabbítható.
+
+(2) Egy adott bűnmegelőzési feladat ellátása során az 52. § a) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb háromszázhatvan napig engedélyezhető.
+
+(3) Egy adott leplezett eszköz alkalmazásához szükséges technikai eszköz vagy adat elhelyezése vagy eltávolítása érdekében az 52. § d) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb kilencven napig engedélyezhető.
+
+(4) Ugyanazon személlyel szemben az 52. § b) és e) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb háromszázhatvan napig engedélyezhető. Ha ezalatt az idő alatt az alkalmazás nem érte el a célját, a további engedélyezésnek akkor van helye, ha új tény vagy körülmény ezt megalapozza.
+
+(5) A bírói engedélyhez kötött eszközök alkalmazása az 52. § c) pontja alapján a külföldi hatóság megkeresésében megjelölt céltól függően, a (2)–(4) bekezdésben meghatározottak szerint engedélyezhető.
+
+(6) A bírói engedélyhez kötött eszközök alkalmazásának meghosszabbítására irányuló kérelmet az alkalmazás engedélyezett tartamának lejárta előtt legkésőbb öt nappal kell a bíróhoz előterjeszteni. A meghosszabbításra irányuló kérelemmel egyidejűleg a korábbi engedélyezés óta keletkezett iratokat is csatolni kell.
+
+65/B. § (1) A bíróság az alkalmazás során vizsgálhatja a bírói engedélyhez kötött eszközök alkalmazásának törvényességét. A bíróság felhívására a titkos információgyűjtést folytató szerv köteles a bírói engedélyhez kötött eszköz alkalmazása során megszerzett, a felhívás időpontjáig rendelkezésére álló adatokat nyolc napon belül bemutatni.
+
+(2) A bíróság a bírói engedélyhez kötött eszköz alkalmazásának engedélyét visszavonja, ha
+
+- a) a titkos információgyűjtést folytató szerv az adatokat az (1) bekezdésben meghatározott határidőn belül nem mutatja be,
+- b) az engedély kereteit túllépték, vagy
+- c) a bírói engedélyhez kötött eszközt az alkalmazásra vonatkozó, az e törvényben meghatározott rendelkezés megsértésével alkalmazták.
+
+### A titkos információgyűjtés megszüntetése
+
+65/C. § (1) A NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője haladéktalanul megszünteti a bírói engedélyhez kötött, illetve a bírói engedélyhez nem kötött eszköz alkalmazását, ha
+
+- a) a célját elérte, vagy
+- b) nyilvánvaló, hogy további alkalmazásától nem várható eredmény.
+
+(2) Az (1) bekezdésben meghatározott eseteken kívül a NAV titkos információgyűjtés folytatására feljogosított szervének a vezetője haladéktalanul megszünteti a bírói engedélyhez kötött eszköz alkalmazását akkor is, ha
+
+- a) az engedélyben megállapított határidő lejárt,
+- b) nyilvánvaló, hogy az engedélyben meghatározott keretek között a bírói engedélyhez kötött eszköz nem alkalmazható tovább,
+- c) a bírói engedélyhez kötött eszköz 65. § (1) bekezdés alapján elrendelt alkalmazását a bíróság utólag nem engedélyezte, vagy
+- d) a bíróság a 65/B. § (2) bekezdése alapján az engedélyt visszavonta.
+
+(3) A NAV titkos információgyűjtés folytatására feljogosított szerve a bírói engedélyhez kötött eszköz alkalmazásának megszüntetéséről tájékoztatja a bíróságot.
+
+(4) A bírói engedélyhez kötött eszköz alkalmazásának megszüntetését követően az engedélyben szereplő személyt az alkalmazás tényéről tájékoztatni kell, feltéve, hogy a tájékoztatás az e törvény, az ügyészségről szóló törvény, a rendőrségről szóló törvény vagy a nemzetbiztonsági szolgálatokról szóló törvény alapján végzett titkos információgyűjtés érdekét, továbbá folyamatban lévő büntetőeljárás eredményességét nem veszélyezteti.
+
+65/D. § A bírói engedélyhez kötött eszköz alkalmazása során igénybe vett technikai eszközt vagy információs rendszerben elhelyezett elektronikus adatot az alkalmazás befejezését követően haladéktalanul el kell távolítani. Ha az eltávolítás akadályba ütközik, a technikai eszközt vagy elektronikus adatot az akadály megszűnését követően kell haladéktalanul eltávolítani.
+
+### A titkos információgyűjtés végrehajtása
+
+65/E. § (1) A NAV titkos információgyűjtés folytatására feljogosított szerve a titkos információgyűjtést maga hajtja végre, a titkos információgyűjtés végrehajtásában való közreműködésre kijelölt szerv közreműködésével hajtja végre, vagy a végrehajtáshoz a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálatot veszi igénybe.
+
+(2) Ha a titkos információgyűjtés a nemzetbiztonsági szolgálatok vagy a rendőrség terrorizmust elhárító szervének működését érinti, felkérésre az érintett nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve közreműködik a titkos információgyűjtés végrehajtásában.
+
+(3) Az elektronikus hírközlési szolgáltatást végző szervezetek, valamint a postai küldemények, vagy az egyéb zárt küldemények, továbbá az információs rendszerben tárolt adatok továbbítását, feldolgozását, kezelését végző szervezetek kötelesek a 60. § c)–e) pontjában meghatározott eszközök alkalmazását biztosítani és a titkos információgyűjtés folytatására feljogosított szervekkel együttműködni.
+
+### A titkos információgyűjtés során megszerzett adatok bizalmassága és törlése
+
+65/F. § (1) A titkos információgyűjtés elrendelése, engedélyezése, végrehajtása és az annak eredményeként keletkezett adatok felhasználása során gondoskodni kell arról, hogy az intézkedések és az adatok illetéktelen személy számára ne váljanak hozzáférhetővé vagy megismerhetővé.
+
+(2) Az (1) bekezdésben meghatározott követelmény érvényesítése érdekében a titkos információgyűjtés folytatásával összefüggő adatok – ha annak feltételei fennállnak – a minősített adat védelméről szóló törvényben meghatározott szabályok szerint minősítéssel védhetők.
+
+(3) A NAV erre felhatalmazott szerve a titkos információgyűjtéssel összefüggő valamennyi adatot megismerheti.
+
+(4) A titkos információgyűjtés tényét és a titkos információgyűjtés során beszerzett adatot az az ügyész, ügyészségi vezető, illetve az a bíró, bírósági vezető ismerheti meg, aki a titkos információgyűjtéssel összefüggésben eljár.
+
+(5) A titkos információgyűjtés tényét és a titkos információgyűjtés során beszerzett adatot törvényben meghatározott feladataik ellátása érdekében a nemzetbiztonsági szolgálatok is megismerhetik.
+
+(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett, illetve rendelkezésére bocsátott minősített adatot.
+
+(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy rendelkezési jogosultsága az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben kiterjed
+
+- a) a minősített adattal kapcsolatos ügyintézésre, a minősített adat feldolgozására,
+- b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre,
+- c) a minősítés megismétlésére,
+- d) a minősített adat birtokban tartására,
+- e) a minősített adat másolására, sokszorosítására,
+- f) kivonat készítésére,
+- g) a minősített adat fordítására,
+- h) a minősített adat szerven belüli átadására,
+- i) a minősített adat szerven kívülre történő továbbítására, szállítására.
+
+(8) A felhasználói engedély kiadására jogosult a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére további, a minősített adat védelméről szóló törvényben meghatározott rendelkezési jogosultságot is biztosíthat.
+
+65/G. § (1) A bírói engedélyhez kötött eszközök alkalmazása során beszerzett, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyre vonatkozó adatot haladéktalanul törölni kell, az a továbbiakban nem használható fel.
+
+(2) A bírói engedélyhez kötött eszköz alkalmazásának befejezését követő nyolc napon belül törölni kell a bírói engedélyhez kötött eszköz alkalmazásának célja szempontjából érdektelen adatot vagy az ügyben nem érintett személy adatait.
+
+(3) Ha a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat a büntetőeljárásban bizonyítékként kívánják felhasználni, az (1) és (2) bekezdés alapján a bizonyítékként történő felhasználásról szóló döntést követően kell az adatokat törölni.
+
+(4) A 65/C. § (2) bekezdés c) és d) pontja esetén a bírói engedélyhez kötött eszköz alkalmazása során beszerzett adatot haladéktalanul törölni kell, az ilyen adat a továbbiakban nem használható fel.
+
+### A titkos információgyűjtés és a büntetőeljárás kapcsolata
+
+65/H. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül kezdeményezi a büntetőeljárás megindítását.
+
+(2) Ha a bírói engedélyhez kötött eszköz alkalmazását nem maga a titkos információgyűjtést folytató szerv hajtotta végre, az (1) bekezdésben meghatározott határidőt attól a naptól kell számítani, amikor a titkos információgyűjtésnek az (1) bekezdés szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a titkos információgyűjtést folytató szervhez megérkezett.
+
+(3) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a Be. 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három napon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.
+
+### A titkos információgyűjtéssel és a leplezett eszközök alkalmazásával kapcsolatos sajátos gazdálkodási szabályok
+
+65/I. § (1) A NAV költségvetésében a NAV Bűnügyi Főigazgatósága részére biztosított, az alaptevékenységgel összefüggő speciális működési kiadásainak fedezésére elkülönített előirányzatot szerepeltethet. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
+
+(2) Speciális működési kiadásnak minősülnek
+
+- a) a NAV titkos információgyűjtő tevékenységéhez, a titkos információgyűjtés eszközeinek és módszereinek az alkalmazásához, valamint
+- b) a leplezett eszközök alkalmazásához
+
+közvetlenül kötődő személyi és tárgyi vonatkozású kiadások.
+
+(3) A NAV titkos információgyűjtés folytatására feljogosított szerve a speciális működési kiadásai során külön korlátozás nélkül valutát kezelhet.
+
+(4) Ha ez a lelepleződésének megelőzése érdekében szükséges, a NAV titkos információgyűjtés folytatására feljogosított szervének a fedőintézményben szolgálatot teljesítő hivatásos állományú tagjának a hivatásos szolgálati jogviszonya alapján, illetve a nem hivatásos pénzügyi nyomozónak a kormányzati szolgálati jogviszonya alapján kifizetett jövedelméből az adott évi adótábla legmagasabb adókulcsa alkalmazásával kell az adót levonni és befizetni az adóhatóságnak. Az érintettnek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetve az érintett részére igazolást kiadnia.
+
+(5) A NAV-val titkosan együttműködő magánszemély részére nyújtott díjazás esetén a személyijövedelemadó-levonási és -befizetési kötelezettséget a NAV teljesíti. A kifizetett összegből 20%-os forrásadót kell levonni és befizetni az adóhatóságnak. Az érintettnek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetve az érintett részére igazolást kiadnia.
+
+65/J. § (1) A fedőintézmény létrehozása és – szükség esetén – fenntartása a NAV költségvetésében a NAV Bűnügyi Főigazgatósága részére biztosított, az alaptevékenységgel összefüggő speciális működési kiadásainak fedezésére elkülönített előirányzatból történik. Az ehhez szükséges kiadások speciális működési kiadásnak minősülnek. A szükséges pénzügyi eszközök forrását a titkosság megtartása mellett kell biztosítani.
+
+(2) Ha a fedőintézmény megszűnik, vagyona a NAV-ot illeti.
+
+(3) Az államháztartásról szóló törvény rendelkezéseit a fedőintézményre nem kell alkalmazni.
+
+65/K. § (1) A NAV speciális működési kiadása felhasználásának külső szerv által történő ellenőrzése kizárólag törvényességi szempontból történhet. E körben célszerűségi és eredményességi szempont szerinti ellenőrzés nem végezhető.
+
+(2) A NAV gazdálkodásának külső szerv által történő ellenőrzése során az ellenőrzést végző szerv birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, annak forrására, illetve az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
+
+(3) A NAV a biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó értékű irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési kiadások körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – az érintett szervezetekkel külön megállapodásban rögzíti.
 
 ### V. Fejezet — AZ ADATKEZELÉSRE, NYILVÁNTARTÁSRA, ADATSZOLGÁLTATÁSRA,
 
@@ -3110,7 +3277,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 66. § (1) A NAV 13. § (1) bekezdésben meghatározott feladatainak, bűnüldözési feladatainak, az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.), az adózás rendjéről szóló törvény (a továbbiakban: Art.), az uniós vámjog végrehajtásáról szóló törvény (a továbbiakban: Vtv.) és az egyéb adó- és vám jogszabályok alapján hatáskörébe tartozó feladatainak, szabálysértési, valamint rendészeti és az egyéb államigazgatási feladatainak ellátásához a bűncselekmény elkövetésével gyanúsítottak, a büntetőeljárás alá vontak, a sértettek és egyéb közreműködők, az adóigazgatási és vámigazgatási eljárás, az egyéb közigazgatási, rendészeti, szabálysértési eljárásban az adózók, ügyfelek, egyéb érintettek, eljárás alá vontak, egyéb közreműködők személyes adatait kezeli, továbbá más adatokat kezel.
 
-(2) A bűnüldözési feladatokhoz kapcsolódó adatokat, valamint a 78. § szerint egyéb adatkezelés alá vont adatokat elkülönítetten kell kezelni, és – ha törvény eltérően nem rendelkezik – kizárólag a kezelésük alapjául szolgáló célra lehet felhasználni.
+(2) A bűnmegelőzési és bűnüldözési feladatokhoz kapcsolódó adatokat, valamint a 78. § szerint egyéb adatkezelés alá vont adatokat elkülönítetten kell kezelni, és – ha törvény eltérően nem rendelkezik – kizárólag a kezelésük alapjául szolgáló célra lehet felhasználni.
 
 (3) A NAV az (1) bekezdésben meghatározottak szerint kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól a NAV felügyeletére kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
 
@@ -3122,7 +3289,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 ### Bűnügyi adatkezelés
 
-69. § (1) A NAV által bűnüldözési célból gyűjtött és tárolt adatokat, továbbá a különleges adatokat – ha törvény eltérően nem rendelkezik – csak bűnüldözési célra lehet felhasználni.
+69. § (1) A NAV által a 13. § (7) bekezdés a) pontja alapján bűnüldözési célból (a továbbiakban: bűnüldözési cél) gyűjtött és tárolt adatokat, továbbá a különleges adatokat – ha törvény eltérően nem rendelkezik – csak bűnüldözési célra lehet felhasználni.
 
 (2) A NAV bűnüldözési feladatainak ellátásához szükséges bűnüldözési adatokat a NAV nyomozó hatósága kezeli.
 
@@ -3136,7 +3303,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 - a) állampolgár bejelentése, kérelme, valamint feljelentés, panasz,
 - b) DNS- és ujjnyomat minta elemzése,
-- c) bíróság, ügyészség, más hatóság vagy egyéb szerv értesítése,
+- c) bíróság, ügyészség, nyomozó hatóság, más hatóság vagy egyéb szerv értesítése,
 - d) törvény alapján más szervek által vagy külföldről továbbított adatok átvétele,
 - e) titkos információgyűjtés,
 - f) a jogszerűen, nyilvánosságra hozatal céljából készített és nyilvánosságra hozott adatállományban, név- és címjegyzékben – így különösen telefonkönyv, szaknévsor, statisztikai névjegyzék – szereplő adat,
@@ -3174,22 +3341,50 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 - a) a felderítetlenül maradt bűncselekmény kriminalisztikai szempontból fontos jellemzőit a bűncselekmény elkövetőjének felderítéséig, vagy ennek hiányában a büntethetőség elévüléséig,
 - b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, eszközöket, szagmintákat a c) pontban meghatározott ideig,
-- c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, ujjlenyomatát, személyleírását, fényképét, hang- és szagmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől, vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított húsz évig,
+- c) a szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott személy adatait, ujjlenyomatát, személyleírását, fényképét, hang- és szagmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől, vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítéstől számított húsz évig,
 - d) szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott, illetve ilyen bűncselekmény elkövetése miatt elítélt személy cselekményének kriminalisztikai szempontból fontos jellemzőit a büntethetőség elévüléséig, vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig,
 - e) a szervezett bűnözésre utaló cselekményekben érintett, illetve a bűnözői csoportban résztvevő vagy azzal együttműködő személyek, valamint kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozóan keletkezett utolsó adatot követő húsz évig,
 - f) olyan személyek adatait, akikkel szemben nemzetközi kötelezettségvállalás alapján nemzetközi bűnüldözési intézkedéseket kell foganatosítani, valamint e személyek kapcsolatainak adatait és kriminalisztikai szempontból fontos jellemzőit a büntethetőség elévüléséig, vagy a nemzetközi kötelezettségvállalásban meghatározott ideig,
-- g) az egyes bűncselekmények nyomozása során a felderítéssel és bizonyítással kapcsolatban keletkezett iratokban szereplő személyek és kapcsolataik adatait, illetve az eljárási helyzetükre vonatkozó adatokat, valamint a hozzájuk fűződő nyomozási adatokat az ügyben hozott jogerős ítéletig, vagy a nyomozás megszüntetése esetén a bűncselekmény büntethetőségének elévüléséig,
-- h) a titkos információgyűjtés alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat, ha büntetőeljárás nem indul, a titkos információgyűjtés lezárását követő legfeljebb két évig, büntetőeljárás lefolytatása esetén a büntethetőség elévüléséig, elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésig, illetve legfeljebb húsz évig, együttműködők, valamint fedett nyomozók esetén az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig.
+- g) az egyes bűncselekmények nyomozása során a felderítéssel és bizonyítással kapcsolatban keletkezett ügyiratokban szereplő személyek és kapcsolataik adatait, illetve az eljárási helyzetükre vonatkozó adatokat, valamint a hozzájuk fűződő nyomozási adatokat az ügyben hozott jogerős ügydöntő határozatig, vagy az eljárás megszüntetése esetén a bűncselekmény büntethetőségének elévüléséig,
+- h) az e törvény vagy a büntetőeljárásról szóló törvény alapján a NAV-val titkosan együttműködő személyek, valamint a fedett nyomozók személyes adatait és az alkalmazás eredményét az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig.
 
-(2) A NAV adott nyomozóhatósági eljárást lefolytató szervének vezetője az (1) bekezdés b)–h) pontjaiban meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jogának gyakorlását – írásban, a bírósági jogorvoslat, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulás lehetőségére vonatkozó tájékoztatást is tartalmazó indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a NAV bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 19. §-ában foglalt rendelkezés mellett e §-ra kell hivatkozni. Az adat-hozzáférési, helyesbítési és törlési jog korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogai gyakorlását.
+(1a) Azon adatok kivételével, amelyeket e törvény alapján rövidebb határidőn belül törölni kell, a NAV nyomozó hatósága a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat
+
+- a) az 52. § a) pontjában meghatározott célból folytatott titkos információgyűjtés esetén az adott bűnmegelőzési feladat során folytatott titkos információgyűjtés megszüntetését követő két évig;
+- b) az 52. § b) pontjában meghatározott célból folytatott titkos információgyűjtés esetén a személyi védelem jogerős megszűnését követő tizenöt napig;
+- c) az 52. § c) pontjában meghatározott célból folytatott titkos információgyűjtés esetén a külföldi hatóság megkeresésének a teljesítését követő tizenöt napig;
+- d) az 52. § d) pontjában meghatározott célból folytatott titkos információgyűjtés esetén a bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat eltávolítását követő tizenöt napig;
+- e) az 52. § e) pontjában meghatározott célból folytatott titkos információgyűjtés esetén
+  - ea) ha a titkos információgyűjtés során fenyegetettségre vagy a lelepleződés veszélyére vonatkozó információ nem keletkezett, akkor az adatok NAV általi kezelésének kezdetétől számított egy évig,
+  - eb) ha a titkos információgyűjtés során fenyegetettségre vagy a lelepleződés veszélyére vonatkozó információ keletkezett, akkor az adatok NAV általi kezelésének kezdetétől számított harminc évig;
+- f) az 52. § f) pontjában meghatározott célból folytatott titkos információgyűjtés esetén
+  - fa) ha az érintettel nem jön létre titkos együttműködési megállapodás, akkor az erről szóló döntést követő egy évig,
+  - fb) ha az érintettel titkos együttműködési megállapodást köt a NAV, a titkos együttműködési megállapodás megszüntetését követő harminc évig kezelheti.
+
+(1b) Azon adatok kivételével, amelyeket a büntetőeljárásról szóló törvény alapján rövidebb határidőn belül törölni kell, a NAV nyomozó hatósága az e törvényben meghatározott bűnüldözési feladatok ellátása céljából a leplezett eszközök alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat
+
+- a) ha a büntetőeljárásról szóló törvény szerinti előkészítő eljárást követően nyomozás nem indul, a leplezett eszközök alkalmazásának megszüntetését követő két évig;
+- b) ha a nyomozás megindítását követően a terhelt büntetőjogi felelősségét nem állapítják meg,
+  - ba) a büntethetőség elévülésétől számított tíz évig,
+  - bb) ha a büntethetőség elévülése kizárt, az adatok NAV általi kezelésének kezdetétől számított ötven évig;
+- c) ha a büntetőeljárás során a terhelt büntetőjogi felelősségét megállapítják,
+  - ca) a büntetett előélethez fűződő hátrányok alóli mentesülésről való hivatalos tudomásszerzés esetén a mentesüléstől számított tíz évig,
+  - cb) a büntetett előélethez fűződő hátrányok alóli mentesülésről való hivatalos tudomásszerzés hiányában az adatok NAV általi kezelésének kezdetétől számított harminc évig;
+- d) ha a Be. 820. § (6) bekezdése alapján, a büntetőeljárás során hozott jogerős ügydöntő határozat jogerőre emelkedését követően elrendelt vagyonkutatási eljárás során alkalmaznak leplezett eszközt, a vagyonkutatási eljárás befejezésétől számított tizenöt napig
+
+kezelheti.
+
+(1c) Ha a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat a büntetőeljárásban bizonyítékként használják fel, ideértve a Be. 259. § (3) bekezdése szerinti adatokat is, az adatkezelésre az (1b) bekezdésben foglaltak irányadók.
+
+(2) A NAV adott büntetőeljárást lefolytató szervének vezetője az (1) bekezdés b)–h) pontjában, illetve az (1a) és (1b) bekezdésében meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jogának gyakorlását – írásban, a bírósági jogorvoslat, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulás lehetőségére vonatkozó tájékoztatást is tartalmazó indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a NAV bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 19. §-ában foglalt rendelkezés mellett e §-ra kell hivatkozni. Az adat-hozzáférési, helyesbítési és törlési jog korlátozása nem érinti a büntetőeljárásban részt vevő személyeknek a büntetőeljárásról szóló törvényben biztosított jogai gyakorlását.
 
 73. § (1) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során, illetve a 77. § szerinti feladatok ellátása érdekében – a (3) bekezdés szerinti eltéréssel – adótitoknak, vámtitoknak minősülő adatot, iratot vehet át az adóztatási, illetve vámigazgatási feladatainak ellátása céljából vezetett nyilvántartásból.
 
 (2) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében az adott bűncselekmény felderítése és nyomozása során, illetve a 77. § szerinti feladatok ellátása érdekében a bűnüldözési rendszereit és a NAV egyéb rendszereit – a (4) bekezdés szerinti eltéréssel – egymással összekapcsolva egyedi adatkezelést végezhet.
 
-(3) Az 59. § (2) bekezdés szerinti esetben az adóztatási, illetve vámigazgatási feladatainak ellátása céljából vezetett nyilvántartásból csak ügyészi jóváhagyással vehető át adótitoknak, vámtitoknak minősülő adat, irat.
+(3) Az 58. § (1) bekezdés a) pontja szerinti esetben az adóztatási, illetve vámigazgatási feladatainak ellátása céljából vezetett nyilvántartásból csak ügyészségi jóváhagyással vehető át adótitoknak, vámtitoknak minősülő adat, irat.
 
-(4) Az 59. § (2) bekezdés szerinti esetben a NAV egyéb rendszereiből csak ügyészi jóváhagyással vehető át adat, illetve végezhető összekapcsolt egyedi adatkezelés.
+(4) Az 58. § (1) bekezdés a) pontja szerinti esetben a NAV egyéb rendszereiből csak ügyészségi jóváhagyással vehető át adat, illetve végezhető összekapcsolt egyedi adatkezelés.
 
 (5) A NAV nyomozó hatósága a bűnüldözési feladatok teljesítése érdekében – ha az adatvédelem feltételei biztosítottak – az adott bűncselekmény felderítése, nyomozása során a bűnüldözési adatkezelési rendszereket más nyomozó hatóság adatkezelési rendszerével összekapcsolva egyedi adatkezelést végezhet.
 
@@ -3199,7 +3394,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 (2) A NAV által kezelt adatokat személyazonosításra alkalmatlan módon, történelmi kutatási, statisztikai vagy tudományos célra lehet felhasználni.
 
-(3) A kijelölt miniszter, az állami adó- és vámhatóság vezetője, az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős szakmai helyettese, továbbá a Bűnügyi Főigazgatóság vezetője a NAV által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
+(3) A kijelölt miniszter, az állami adó- és vámhatóság vezetője, az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese, továbbá a Bűnügyi Főigazgatóság vezetője a NAV által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
 
 75. § (1) A NAV a Vízuminformációs Rendszerhez a törvény szerint hatáskörébe tartozó, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése, és nyomozása céljából, meghatározott egyedi ügyben betekintés céljából történő hozzáférést kezdeményezhet. A kezdeményezést a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az EUROPOL számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat (a továbbiakban: 2008/633/IB tanácsi határozat) szerinti kijelölt nemzeti központi hozzáférési ponthoz kell megtenni.
 
@@ -3239,11 +3434,11 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 76. § (1) A NAV bűnüldözési célú adatkezelési rendszereibe csak
 
-- a) az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős szakmai helyettese,
-- b) a Központi Irányítás állományába tartozó, az állami adó- és vámhatóság vezetőjének a NAV bűnüldözési és nyomozóhatósági feladatai ellátásáért felelős szakmai helyettese által erre eseti jelleggel vagy tartósan felhatalmazott személy,
-- c) a Bűnügyi Főigazgatóság és a NAV nyomozóhatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői,
+- a) az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese,
+- b) a Központi Irányítás állományába tartozó, az állami adó- és vámhatóság vezetőjének a NAV bűnmegelőzési és bűnüldözési feladatai ellátásáért felelős szakmai helyettese által erre eseti jelleggel vagy tartósan felhatalmazott személy,
+- c) a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői,
 - d) a pénzügyi nyomozók,
-- e) a Bűnügyi Főigazgatóság és a NAV nyomozóhatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői által kijelölt, e szervek állományába tartozó más személy,
+- e) a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői által kijelölt, e szervek állományába tartozó más személy,
 - f)
 - g)
 - h) a NAV bűnüldözési feladatokat ellátó szerveinek működését ellenőrző szerv tagja,
@@ -3257,7 +3452,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 - a) a bíróság,
 - b) az ügyészség,
-- c) más nyomozó hatóság,
+- c) más nyomozó hatóság és az általános rendőrségi feladatot ellátó szerv, mint előkészítő eljárást folytató szerv,
 - d) a nemzetbiztonsági szolgálatok,
 - e) a külpolitikáért felelős miniszter által irányított minisztérium illetékes szerve,
 - f) a honvédelmi igazgatás illetékes szerve,
@@ -3284,7 +3479,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - c) az áruk szállításában, a jövedéki törvény hatálya alá tartozó termékek ellenőrzésében, valamint az utasok csomagjainak törvényben meghatározott ellenőrzésében érintett személyek természetes személyazonosító adatait, lakcímét, illetve az ellenőrzés eredményét az ellenőrzés alá vont személyek nyilvántartási rendszerében az ellenőrzéstől számított legfeljebb két évig,
 - d) a NAV kezelésében lévő létesítménybe be- és kilépő személyek, illetve a 37. § (1) bekezdés alapján igazoltatott személyek személyes adatait, továbbá a beléptető rendszer működtetése során keletkezett adatokat az adat keletkezésétől számított legfeljebb egy évig.
 
-(1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés alapján a nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
+(1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés vagy adatkérés alapján a bíróságnak, ügyészségnek, nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 
 (2) Az (1) bekezdés b–c) pontjának rendelkezései nem alkalmazandók az elővezetés, az igazoltatás és az ellenőrzési eljárás zavartalanságának biztosítása, továbbá a helyszín, helyiség, jármű átvizsgálása, rakomány ellenőrzésének Air. szerinti szabályai alapján tett intézkedésekre.
 
@@ -3310,7 +3505,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - b) az elkövetett jogsértés megnevezését,
 - c) alkalmazott szankciót.
 
-(3) Az EU váminformációs rendszeréből a nemzeti hatóság által rögzített személyes adatokat a 72. § (1) bekezdésében meghatározott törlési határidők alapján, de legfeljebb húsz év elteltével törölni kell.
+(3) Az EU váminformációs rendszeréből a nemzeti hatóság által rögzített személyes adatokat a 72 § (1)–(1b) bekezdésében meghatározott törlési határidők alapján, de legfeljebb húsz év elteltével törölni kell.
 
 80/A. § (1) A NAV a jogszabályban meghatározott adókedvezményre, adóalap-kedvezményre vagy adómentességre való jogosultságra vonatkozó kormányzati tájékoztatás céljából jogosult az adókedvezményre, adóalap-kedvezményre vagy adómentességre jogosult személy nevére, lakcímére, valamint az adókedvezményére, adóalap-kedvezményére vagy adómentességére vonatkozó adatainak kezelésére.
 
@@ -3334,7 +3529,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 - a) a Központi Irányítást és a területi szerveket,
 - b)–c)
-- d) a Bűnügyi Főigazgatóságot és a NAV nyomozóhatósági feladatait ellátó területi szerveit,
+- d) a Bűnügyi Főigazgatóságot és a NAV nyomozó hatósági feladatait ellátó területi szerveit,
 - e)
 - f)
 - g) a hozzáadottérték-adó területén történő közigazgatási együttműködésről és csalás elleni küzdelemről szóló 2010. október 7-i 904/2010/EU tanácsi rendelet 2. cikk (1) bekezdés a) pontja szerinti központi kapcsolattartó irodát és szükség esetén e rendelet 2. cikk (1) bekezdés b) pontja szerinti kapcsolattartó szervet,
@@ -3350,7 +3545,8 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - d) a rendészetért felelős miniszterrel egyetértésben a NAV-nál alkalmazásra kerülő kényszerítő eszközök rendszeresítésére vonatkozó eljárási szabályokat és a NAV-nál rendszeresíthető kényszerítő eszközök típusait és fajtáit,
 - e) a rendészetért felelős miniszterrel egyetértésben az elfogott, előállított, őrizetbe vett és fogva tartott személyek őrzésének, kísérésének részletes eljárási szabályait,
 - f) a kormányzati szolgálati jogviszony létesítése pszichikai alkalmassághoz kötésének szempontjait, a kormánytisztviselők, ügykezelők tekintetében az egészségi, pszichikai alkalmasság követelményeit, az egészségi, pszichikai alkalmassági követelmények felmérésének szabályait, az alkalmassági vizsgálatok fajtáit, a felmérést végző szervek, szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, az egészségi, pszichikai alkalmassági követelményeknek való meg nem feleléssel kapcsolatos eljárást,
-- g) a NAV bűnmegelőzési, bűnüldözési, valamint szabálysértési tevékenységével összefüggésben keletkezett adatok kezelésére jogosult szerveit és az adatok kezelésének technikai szabályait.
+- g) a NAV bűnmegelőzési, bűnüldözési, valamint szabálysértési tevékenységével összefüggésben keletkezett adatok kezelésére jogosult szerveit és az adatok kezelésének technikai szabályait,
+- h) a bírói engedélyhez kötött eszközök alkalmazása indítványozásával, engedélyezésével, illetve igénybevételével kapcsolatos szabályokat.
 
 82/A. § (1) Felhatalmazást kap a kijelölt miniszter, hogy rendeletben állapítsa meg:
 
@@ -3371,7 +3567,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (2)
 
-83. § A kijelölt miniszter utasításban állapítja meg a NAV felhatalmazott szervei által végzett titkos információgyűjtés eszközei, módszerei alkalmazásának szabályait.
+83. § A kijelölt miniszter utasításban állapítja meg a IV. Fejezet szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök NAV általi alkalmazásának, valamint a speciális kiadások felhasználásának részletes szabályait.
 
 #### 84. §
 
@@ -3435,7 +3631,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (6) Ahol jogszabály vámhatóságot említ, azon – a (7) bekezdés kivételével – 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal – mint állami adó- és vámhatóság – vámszervét kell érteni.
 
-(7) Ahol jogszabály vámhatóságot a bűnmegelőzési, bűnüldözési, bűnfelderítési, nyomozóhatósági feladatokkal összefüggésben említ, azon 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal bűnügyi főigazgatóságát és a bűnügyi főigazgatóság középfokú szerveit valamint a Nemzeti Adó- és Vámhivatal vámszerveinek az Európai Unió külső vámhatárán működő, nyomozóhatósági hatáskörrel felruházott, e jogkörükben eljáró kirendeltségeit kell érteni.
+(7) Ahol jogszabály vámhatóságot a bűnmegelőzési, bűnüldözési, bűnfelderítési, nyomozó hatósági feladatokkal összefüggésben említ, azon 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal bűnügyi főigazgatóságát és a bűnügyi főigazgatóság középfokú szerveit valamint a Nemzeti Adó- és Vámhivatal vámszerveinek az Európai Unió külső vámhatárán működő, nyomozó hatósági hatáskörrel felruházott, e jogkörükben eljáró kirendeltségeit kell érteni.
 
 #### 91–93. §
 
@@ -3445,13 +3641,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 96. § Az Adó- és Pénzügyi Ellenőrzési Hivatalnál, illetve a Vám- és Pénzügyőrségnél 2010. december 31-én folyamatban lévő hatósági ügyeket 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal hatáskörrel és illetékességgel rendelkező szerve (kirendeltsége) folytatja le.
 
-97. § (1) A Vám- és Pénzügyőrségnél 2010. december 31-én folyamatban lévő, a Be. e törvénnyel megállapított 36. § (2) bekezdése szerint 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal hatáskörébe utalt bűncselekmények nyomozását a Nemzeti Adó- és Vámhivatal nyomozó hatósága folytatja le.
-
-(2) A Be. e törvénnyel megállapított 36. § (2) bekezdése alapján 2011. január 1-jétől a rendőrség hatáskörébe kerülő bűncselekmények tekintetében a rendőrség a 2010. december 31-ét követően indult büntetőügyekben végzi a nyomozást. A 2010. december 31-én a Vám- és Pénzügyőrségnél folyamatban lévő, a Be. e törvénnyel megállapított 36. § (2) bekezdése alapján 2011. január 1-jével egyébként a rendőrség hatáskörébe kerülő bűncselekmények nyomozását a Nemzeti Adó- és Vámhivatal nyomozó hatósága folytatja le.
-
-(3) A Vám- és Pénzügyőrség hivatásos állományú tagja, továbbá a pénzügyi nyomozó által elkövetett bármilyen bűncselekmény miatt 2011. január 1-je előtt indult büntetőeljárásban, illetve akkor is, ha a bűncselekmény elkövetési időpontja 2011. január 1-jét megelőző időpont, de a büntetőeljárás 2010. december 31-ig még nem indult meg, a Be. 29. § e) pontjának 2010. december 31-ig hatályos rendelkezését 2010. december 31-ét követően is alkalmazni kell.
-
-(4) A Vám- és Pénzügyőrség hivatásos állományú tagja vonatkozásában 2010. december 31-ig elkövetett, három évig terjedő szabadságvesztéssel büntetendő közélet tisztasága elleni bűncselekmények tekintetében a Be. 201. § (2) bekezdés b) pontjának 2010. december 31-ig hatályos rendelkezését 2010. december 31-ét követően is alkalmazni kell.
+#### 97. §
 
 #### 98. §
 
@@ -3706,9 +3896,13 @@ esetén.
 
 103. § E törvénynek a NAV Mód. V. törvénnyel megállapított 15/E. § szerinti bejelentési kötelezettségre és adatkezelésre vonatkozó rendelkezése a NAV Mód. V. törvény hatálybalépése után közölt megalapozott gyanú esetében áll fenn, illetve alkalmazandó.
 
+103/A. § (1) E törvénynek a titkos információgyűjtésre vonatkozó 2018. június 30-ig hatályban volt rendelkezéseit a folyamatban lévő titkos információgyűjtésekre 2019. január 1-ig alkalmazni kell.
+
+(2) A titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról szóló 2017. évi XCIII. törvény hatálybalépésekor folyamatban lévő, az e törvény 2018. június 30-ig hatályban volt rendelkezései alapján végzett titkos információgyűjtés esetén a NAV titkos információgyűjtést folytató szerve 2019. január 1-ig döntést hoz arról, hogy a büntetőeljárásról szóló törvény szerinti előkészítő eljárást kezdeményez-e vagy feljelentést tesz-e.
+
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-104. § E törvény IV. fejezete az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+104. § E törvény IV. Fejezete és 103/A. §-a az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

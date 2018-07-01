@@ -1210,7 +1210,7 @@ köteles fizetni.
 (2) A szakképzésért és felnőttképzésért felelős miniszter
 
 - a) ellátja a képzési alaprésszel kapcsolatban a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott feladatokat,
-- b) létrehozza és működteti a Nemzeti Képesítési Bizottságot,
+- b)
 - c) az állami szakképzési és felnőttképzési szerv vezetője útján összeállíttatja a szakképesítésért felelős miniszter ágazatába tartozó szakképesítések modultérképei alapján az országos modultérképet (a továbbiakban: országos modultérkép) és gondoskodik annak nyilvánosságra hozataláról,
 - d) létrehozza a megyei önkormányzatokkal, a főváros érintettsége esetén Budapest Főváros Önkormányzatával együttműködő, a fővárosi, megyei szakképzési feladatellátást koordináló, a szakképzés minőségi fejlesztését segítő – a 81. §-ban meghatározott – fővárosi, megyei fejlesztési és képzési bizottságokat (a továbbiakban: megyei fejlesztési és képzési bizottság), és a gazdasági kamarával együtt gondoskodik működési feltételeiknek biztosításáról,
 - e) kidolgoztatja és kiadja
@@ -1235,7 +1235,7 @@ köteles fizetni.
 
 73. § (1) A szakképesítésért felelős miniszter az ágazatába tartozó szakképesítések tekintetében meghatározza
 
-- a) a szakképesítés szakmai és vizsgakövetelményeit,
+- a) a szakképesítés szakmai és vizsgakövetelményeit az illetékes ágazati készségtanács véleményének kikérésével,
 - b) a szakmai vizsgáztatás és a komplex szakmai vizsga szakmai ellenőrzésének részletes szabályait,
 - c) a 3. § (3) bekezdés a) pontja szerinti mestervizsga követelményeit,
 - d) a vizsgaszervezési engedély megszerzésének és a szakmai vizsgaszervezési tevékenység folytatásának speciális szakmai, tárgyi és személyi feltételeit, valamint
@@ -1361,14 +1361,14 @@ köteles fizetni.
 
 79. § (1) A Tanács tagjainak megbízatása hároméves időtartamra szól.
 
-(2) A Tanács huszonegy tagból áll.
+(2)
 
 (3) A Tanács
 
 - a) a szakképzésért és felnőttképzésért felelős miniszter képviselőjéből,
 - b) az ágazati készségtanácsok elnökeiből,
-- c) a szakképzés, a felnőttképzés és a felsőoktatás területén elismert egy-egy (összesen három) szakértőből,
-- d) a szakképzés és felnőttképzés területén működő szakmai társadalmi és érdek-képviseleti szervezetek összesen hat képviselőjéből,
+- c)
+- d) a szakképzés és felnőttképzés területén működő szakmai társadalmi és érdek-képviseleti szervezetek összesen két képviselőjéből,
 - e) az NGTT-ben képviselettel rendelkező országos munkaadói és munkavállalói szövetségek egy-egy (összesen kettő) képviselőjéből,
 - f) az országos gazdasági kamarák egy-egy (összesen kettő) képviselőjéből,
 - g) a nem állami intézményfenntartók kettő, valamint állami intézményfenntartóként a 4/A. § (2) bekezdése szerinti miniszter, a honvédelemért felelős miniszter, a rendészetért felelős miniszter és az oktatásért felelős miniszter egy-egy (összesen négy) képviselőjéből
@@ -1383,15 +1383,27 @@ köteles fizetni.
 
 (7)
 
-#### 48. A Nemzeti Képesítési Bizottság
+#### 48. Az ágazati készségtanács
 
-80. § (1) A Nemzeti Képesítési Bizottság a szakképzés tartalmi szerkezetének folyamatos fejlesztését és korszerűsítését szolgáló szakmai javaslattevő, véleményező testület.
+80. § (1) Az egyes gazdasági ágazatok gazdálkodó szervezeteinek a szakképzés és felnőttképzés tartalmi szerkezetének folyamatos fejlesztését és korszerűsítését, a munkaerő-piaci igények és a képzési kínálat összehangolását szolgáló szakmai javaslatait a Kormány rendeletében meghatározott ágazati készségtanácsok képviselik.
 
-(2) A Nemzeti Képesítési Bizottság folyamatosan figyelemmel kíséri a szakképzési szerkezet fejlesztését, a gazdasági, munkaerő-piaci, technikai-technológiai folyamatokat, és ennek alapján javaslatot tehet – az OKJ módosításának rendjéről szóló kormányrendeletben foglaltaknak megfelelően – az OKJ módosítására.
+(2) Az ágazati készségtanács taglétszáma – beleértve az elnököt – legalább hét, legfeljebb tizenkilenc fő.
 
-(3) A Nemzeti Képesítési Bizottság létszáma harminc fő, tagjai a szakképzésért és felnőttképzésért felelős miniszter, az oktatásért felelős miniszter, a gazdasági kamara, az országos gazdasági érdek-képviseleti szervezetek, valamint az ágazat egészében érdekelt szakmai kamarák által delegált képviselők. A Nemzeti Képesítési Bizottság szakmacsoportonként albizottságokat hoz létre.
+(3) Az ágazati készségtanács tagjait és elnökét – a (4) bekezdés szerinti kivétellel – az ágazat gazdasági szereplői választják két évre az ágazati készségtanács saját ügyrendje szerint. Az ágazati készségtanács ügyrendjét egyszerű szótöbbséggel maga határozza meg, amely a szakképzésért és felnőttképzésért felelős miniszter jóváhagyását követően válik hatályossá.
 
-(4) A Nemzeti Képesítési Bizottság működtetéséről az állami szakképzési és felnőttképzési szerv gondoskodik.
+(4) Az ágazati készségtanács tagjai közé összesen egy főt a munkavállalói érdekképviseletek delegálnak.
+
+(5) Az ágazati készségtanács működésének koordinálását és a működés feltételeinek biztosítását az országos kereskedelmi és iparkamara – az agrárpolitikáért, az erdőgazdálkodásért, az élelmiszeriparért, a halgazdálkodásért felelős miniszter hatáskörébe tartozó ágazatok esetében az agrárkamara bevonásával – látja el.
+
+(6) Az országos kereskedelmi és iparkamara az egyes ágazati készségtanácsok szakmai munkájának, a gazdasági szereplők széles köre szakmai véleménye közvetítésének, kölcsönös megismerésének elősegítése céljából elektronikus felületen, az érintett ágazatok gazdasági szereplői részére hozzáférhető szakmai fórumot működtet.
+
+(7) Az ágazati készségtanács folyamatosan figyelemmel kíséri a saját ágazatában a szakképzési szerkezet fejlesztését, a gazdasági, munkaerő-piaci, technikai-technológiai folyamatokat, és ennek alapján
+
+- a) javaslatot tehet
+  - aa) – az OKJ módosításának rendjéről szóló kormányrendeletben foglaltaknak megfelelően – az OKJ módosítására,
+  - ab) az OKJ-ban szereplő szakképesítések képzési tartalmainak korszerűsítésére,
+  - ac) az iskolai rendszerű szakképzés képzési rendszerének működtetésére, valamint
+- b) előrejelzést készít a rövid- és középtávú képzésfejlesztés irányainak, céljainak tervezése, meghatározása érdekében.
 
 #### 49. A megyei fejlesztési és képzési bizottság
 
@@ -1572,6 +1584,7 @@ vonatkozó adatokat, valamint
 - g) a pályaorientációval és az egész életen át tartó életpálya-tanácsadással kapcsolatos szolgáltatások részletes szabályait, valamint a pályaorientációval és az egész életen át tartó életpálya-tanácsadással kapcsolatos szolgáltatásokat koordináló szervezetet, továbbá az életpálya-tanácsadást nyújtó szervezetek feladatait,
 - h) a pályakövetési rendszer működtetésének részletes szabályait, a pályakövetési rendszer részére történő adatszolgáltatás eljárási rendjét, továbbá kijelöli a pályakövetési rendszer működtetéséért felelős szervet,
 - i) a szakmai vizsgaszabályzatnak a választható mellék-szakképesítés megszerzésével összefüggő speciális szabályait,
+- j) az ágazati készségtanácsok számát, az általuk képviselt ágazatokat, valamint működésük szabályait.
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
@@ -1763,6 +1776,8 @@ szerezhetnek.
 (3) A gyakorlati képzést folytató szervezetnél folyó gyakorlati képzésben gyakorlati oktatóként – azon szakképesítések tekintetében, amelyekben a mestervizsga követelményeit a szakképesítésért felelős miniszter nem adta ki – 2019. szeptember 1-jéig olyan személy is részt vehet, aki kamarai gyakorlati oktatói vizsgával nem rendelkezik, de a 31. § (1) bekezdésében foglalt egyéb követelményeknek megfelel.
 
 (4) A 22/A. § (1) bekezdése szerinti írásbeli nyilatkozattételi kötelezettség a szakgimnáziumi tanulmányokat a 2016/2017. tanévben kilencedik évfolyamon, valamint a 2017/2018. tanévben 9. évfolyamon megkezdett tanulókra is kiterjed.
+
+(5) Az ágazati készségtanács tagjait és elnökét első alkalommal az országos kereskedelmi és iparkamara javaslatára a szakképzésért és felnőttképzésért miniszter jelöli ki.
 
 #### 56. Az Európai Unióra vonatkozó és nemzetközi vonatkozású rendelkezések
 

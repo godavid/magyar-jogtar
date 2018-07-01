@@ -9,11 +9,11 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 1. § E törvény alkalmazásában
 
 - a) dolog: a számokból, betűkből, írásjelekből, matematikai műveleti jelekből, ezek kombinációjából, valamint elektronikus azonosítóból álló jelsorozattal megjelölt vagy egyéb egyedi ismérvei alapján ezek hiányában is kétséget kizáróan azonosítható tárgy, állat, növény,
-- b) európai elfogatóparancs: olyan igazságügyi hatósági határozat, amelyet az Európai Unió egy tagállamában bocsátanak ki, és azt a célt szolgálja, hogy egy másik európai uniós tagállam büntetőeljárás, szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából a keresett személyt elfogja és átadja, vagy a keresett tárgyat felkutassa, lefoglalja és átadja,
+- b) európai elfogatóparancs: olyan igazságügyi hatósági határozat, amelyet az Európai Unió egy tagállamában bocsátanak ki, és azt a célt szolgálja, hogy egy másik európai uniós tagállam büntetőeljárás lefolytatása, szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából a keresett személyt elfogja és átadja, vagy a keresett tárgyat felkutassa, lefoglalja és átadja,
 - c) kapcsolatba hozható személy: a körözési eljárás során a körözést elrendelő vagy a körözési eljárást lefolytató szerv által megjelölt, a körözött személy felkutatását elősegítő információval rendelkező személy, személyazonossággal visszaélés esetén a személyazonossággal visszaélés áldozata,
-- d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, a Rendőrségről szóló törvény szerinti rejtett ellenőrzés, valamint az elfogatóparancs, az európai elfogatóparancs és a nemzetközi körözés,
-- e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, ismeretlen eredetű dolgok azonosítására irányuló eljárás, valamint a Rendőrségről szóló törvény szerinti rejtett ellenőrzéssel kapcsolatos intézkedések összessége,
-- f) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar hatóság kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által Magyarország területén végzett körözési eljárás, kivéve az európai elfogatóparancs alapján végzett körözési eljárást.
+- d) körözés: személy esetén törvényben, holttest és dolog esetén jogszabályban meghatározottak szerinti döntés, a Schengeni Információs Rendszerben rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezése, valamint az elfogatóparancs, az európai elfogatóparancs és a nemzetközi körözés,
+- e) körözési eljárás: az ismeretlen helyen lévő személyek és dolgok hollétének megállapítására, ismeretlen személyek, holttestek, ismeretlen eredetű dolgok azonosítására irányuló eljárás, valamint a Schengeni Információs Rendszerben rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezésével kapcsolatos intézkedések összessége,
+- f) nemzetközi körözés: nemzetközi szerződés, valamint viszonossági gyakorlat alapján büntető-, polgári vagy közigazgatási ügyben magyar szerv kezdeményezésére más állam hatósága által az adott állam területén, illetve külföldi állam hatósága kezdeményezésére magyar hatóság által Magyarország területén végzett körözési eljárás, kivéve az európai elfogatóparancs alapján végzett körözési eljárást.
 
 ### II. Fejezet — A KÖRÖZÉSI NYILVÁNTARTÁSI RENDSZER
 
@@ -193,7 +193,8 @@ vonatkozó adatokat,
 - b) állatok esetén – ha a körözés visszavonására nem került sor – a körözés elrendelésétől számított 20 évig,
 - c) a körözött közokirat érvényességi idejének lejártától számított 10 évig,
 - d) az a)–c) pontok alá nem tartozó olyan esetben, amikor a körözés elrendelésének oka elvesztés, 5 évig,
-- e) lőfegyver esetén a körözés elrendelésétől számított 90 évig
+- e) lőfegyver esetén a körözés elrendelésétől számított 90 évig,
+- f) olyan dolog esetén, amely elkobozható, vagy amelyre vagyonelkobzás rendelhető el, a körözés elrendelésétől számított 90 évig
 
 kezeli.
 
@@ -218,15 +219,19 @@ kezeli.
   - bb) idejét,
   - bc) körülményeire vonatkozó adatokat,
 - c) az 3. § (2) bekezdés j) pontjában meghatározott adatokat,
-- d) a körözési eljárás során megtett intézkedés
-  - da) megnevezését,
-  - db) elrendelésének időpontját,
-  - dc) befejezésének időpontját, valamint
-  - dd) tartalmi leírását.
+- d) a körözés elrendelésének
+  - da) okát,
+  - db) jogalapját a jogszabályhely megjelölésével, a bűncselekménnyel összefüggésben elrendelt körözés esetén a bűncselekmény megnevezését, a Büntető Törvénykönyv szerinti minősítését,
+  - dc) időpontját,
+- e) a körözési eljárás során megtett intézkedés
+  - ea) megnevezését,
+  - eb) elrendelésének időpontját,
+  - ec) befejezésének időpontját, valamint
+  - ed) tartalmi leírását.
 
-(3) Az ismeretlen holttestek, holttestrészek nyilvántartásában a (2) bekezdés a)–c) pontjában foglalt adatot a körözést elrendelő rögzíti.
+(3) Az ismeretlen holttestek, holttestrészek nyilvántartásában a (2) bekezdés a)–d) pontjában foglalt adatot a körözést elrendelő rögzíti.
 
-(4) Az ismeretlen holttestek, holttestrészek nyilvántartásában a körözési eljárás során ismertté vált, a (2) bekezdés a) pont ad) alpontjában, b) pont bc) alpontjában c) pontjában és d) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti.
+(4) Az ismeretlen holttestek, holttestrészek nyilvántartásában a körözési eljárás során ismertté vált, a (2) bekezdés a) pont ad) alpontjában, b) pont bc) alpontjában c) pontjában és e) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti.
 
 (5) Az ismeretlen holttestek, holttestrészek nyilvántartásában található adatokat a nyilvántartó
 
@@ -285,9 +290,9 @@ törli.
 
 #### 8. A nyilvántartás közérdekből nyilvános adattartalma
 
-8. § (1) Elfogatóparancs, európai elfogatóparancs alapján elrendelt körözési eljárás esetén, amely a körözött személy őrizetbe vételére, előállítására irányul, a 3. § (2) bekezdés a) pont aa)–ad), ag) és aj) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
+8. § (1) Elfogatóparancs, európai elfogatóparancs alapján elrendelt körözési eljárás esetén a 3. § (2) bekezdés a) pont aa)–ad), ag) és aj) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
 
-(2) A bíróság, ügyész vagy nyomozó hatóság döntése alapján – tárgyi bizonyítási eszköz megtalálása érdekében elrendelt dolog körözése esetén – a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
+(2) A bíróság, ügyészség vagy nyomozó hatóság döntése alapján a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
 
 (3) A nyilvántartásban szereplő adatok közül közérdekből nyilvános adatnak minősül
 
@@ -335,17 +340,18 @@ meghatározott adat.
 - e) az ügyészség a törvényességi felügyelet gyakorlása céljából,
 - f) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv a rendőrségről szóló törvényben meghatározott határrendészeti feladatainak ellátása céljából, továbbá az ezzel kapcsolatos személyazonosság megállapítása céljából,
 - g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv bűnüldözési feladatai ellátása céljából,
-- h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
+- h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 - i) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából,
-- j) a Nemzeti Adó- és Vámhivatal nyomozó hatósági és vámellenőrzési feladatai ellátása céljából.
+- j) a Nemzeti Adó- és Vámhivatal vámellenőrzési feladatai ellátása céljából,
+- k) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából.
 
-(2) Az igazságügyért felelős miniszter a kegyelmi ügyek intézése céljából, valamint az igazságügyért felelős miniszter és az ügyészség a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
+(2) Az igazságügyért felelős miniszter és az ügyészség a kegyelmi ügyek intézése és a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
 
 (3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.
 
-(4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
-(4a) A rendőrségről szóló törvényben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv a törvényben meghatározott személy- és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(4a) A rendőrségről szóló törvényben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv a törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
 (5) A bíróság a holttá nyilvánítási eljárása során közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
@@ -431,7 +437,7 @@ előírja.
 - a) az adatkezelés jogszerűségének ellenőrzése céljából a nyilvántartó irányításáért felelős szerv,
 - b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából az ügyészség,
 - c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
+- d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá
 - e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
 #### 14/A. Az érintettek jogai és ezek érvényesítése
@@ -578,7 +584,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (2) Akinek az (1) bekezdés szerinti eljárási cselekmény végrehajtása alapvető jogát sértette, a végrehajtástól számított nyolc napon belül panasszal fordulhat a végrehajtást elrendelő rendőri szerv vezetőjéhez.
 
-(3) A körözési eljárást lefolytató szerv az eltűnt személy felkutatása céljából – a tizennyolcadik életévét meg nem haladott tanú kivételével – a tanúként kihallgatott személy által elmondottak valóságtartalmának ellenőrzése érdekében az érintett előzetes, írásos hozzájárulásával poligráfot alkalmazhat.
+(3) A körözési eljárást lefolytató szerv az eltűnt személy felkutatása céljából – a tizennyolcadik életévét meg nem haladott tanú kivételével – a tanúként kihallgatott személy által elmondottak valóságtartalmának ellenőrzése érdekében az érintett előzetes, írásos hozzájárulásával műszeres vallomásellenőrzést alkalmazhat.
 
 20/B. § (1) A 20. § szerint folytatott körözési eljárás során a hatóság határozatot hoz
 
@@ -696,86 +702,94 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (6) A körözési eljárást lefolytató szerv a (4) bekezdés alapján átvett személyes adatokat kizárólag az adatok átvételének az (1) bekezdés szerint meghatározott célja érdekében kezelheti. Bármilyen más célból való felhasználás csak az állományt kezelő tagállam előzetes engedélyével lehetséges. Ilyen engedély abban az esetben adható, ha az egyéb célokat szolgáló adatkezelés az adatátadással érintett adatállományt kezelő tagállam nemzeti joga szerint megengedett.
 
-26. § (1) A körözési eljárást lefolytató szerv a bűncselekménnyel összefüggésben elrendelt körözés végrehajtása során
+26. § (1) A körözési eljárást lefolytató szerv a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 268. § (1) bekezdés c) és d) pontja alapján bűncselekmény elkövetésével gyanúsítható, illetve megalapozottan gyanúsítható személlyel összefüggésben elrendelt, valamint a Be. alapján kibocsátott elfogatóparancs alapján elrendelt körözés végrehajtása során
 
-- a) az Rtv. 27. §, 29–34. §, 35/A. §, 35/B. §, 38. §, 39. §, 41. §, 42. § (1) bekezdése, 46/B. §, 46/C. §, 58. § (1) bekezdés e) pontja, 63–74. §, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést,
-- b) a nemzetközi körözés elrendelését
+- a) az Rtv. 27. §-a, 29–30. §-a, 32–33. §-a, 35/A. §-a, 38–41. §-a, 42. § (1) bekezdése, 46/B. §-a, 46/C. §-a, 58. § (1) bekezdés e) pontja, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja,
+- b) az Rtv. szerinti titkos információgyűjtést folytathat, illetve
+- c) nemzetközi körözést rendelhet el.
 
-alkalmazhatja.
+(2) A körözési eljárást lefolytató szerv a Be. 268. § (1) bekezdés c) és d) pontja alapján tanúval összefüggésben elrendelt körözés végrehajtása során
 
-(2) A körözési eljárást lefolytató szerv a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 73. § (6) bekezdése, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 19. §-a, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 117. és 139. §-a alapján elrendelt körözés végrehajtása során
+- a) az Rtv. 29–30. §-a, 32. §-a, 35/A. §-a, 39–41. §-a, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja,
+- b) az Rtv. szerinti titkos információgyűjtés során bírói engedélyhez nem kötött eszközt alkalmazhat, illetve
+- c) nemzetközi körözést rendelhet el.
 
-- a) az Rtv. 29. §, 30. §, 32. §, 33. §, 35/A. §, 35/B. §, 40. §, 41. §, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése,
-- b) a 26. § (1) bekezdés b) pontja
+(3) A körözési eljárást lefolytató szerv a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 19. §-a alapján elrendelt körözés végrehajtása során
 
-szerinti intézkedést alkalmazhatja.
+- a) az Rtv. 46/B. §-a kivételével a 26. § (1) bekezdés a) pontja szerinti intézkedést alkalmazhatja,
+- b) az Rtv. szerinti titkos információgyűjtést folytathat, illetve
+- c) nemzetközi körözést rendelhet el.
 
-(3) A körözési eljárást lefolytató szerv az európai elfogató parancs vagy büntető ügyben elrendelt nemzetközi körözés végrehajtása során a 26. § (1) bekezdés a) pontjában meghatározott intézkedést alkalmazhatja.
+(4) A körözési eljárást lefolytató szerv a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 117. és 139. §-a alapján elrendelt körözés végrehajtása során
+
+- a) az Rtv. 29–30. §-a, 32–33. §-a, 35/A. §-a, 38–41. §-a, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja, illetve
+- b) nemzetközi körözést rendelhet el.
+
+(5) A körözési eljárást lefolytató szerv az európai vagy nemzetközi elfogatóparancs végrehajtása során
+
+- a) a 26. § (1) bekezdés a) pontja szerinti intézkedést alkalmazhatja, illetve
+- b) a körözött személy személyazonosságának, illetve elérhetőségének megállapítása céljából az Rtv. szerinti titkos információgyűjtést folytathat.
 
 27. § (1) A körözési eljárást lefolytató szerv az idegenrendészeti hatóság által elrendelt körözés végrehajtása során
 
-- a) az Rtv. 29. §, 30. §, 32. §, 33. §, 35/A. §, 35/B. §, 38. §, 39–41. §, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, 63–74. §, valamint 91/C. § (1) és (2) bekezdése,
-- b) a 26. § (1) bekezdés b) pontja
-
-szerinti intézkedést alkalmazhatja.
+- a) az Rtv. 29. §-a, 30. §-a, 32–33. §-a, 35/A. §-a, 35/B. §-a, 38–41. §-a, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja,
+- b) az Rtv. szerinti titkos információgyűjtést folytathat, illetve
+- c) nemzetközi körözést rendelhet el.
 
 (2) A körözési eljárást lefolytató szerv az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 70/A. § (1) bekezdése alapján elrendelt körözés végrehajtása során
 
-- a) az Rtv. 29. §, 30. §, 32. §,
-- b) a 26. § (2) bekezdés b) pontja
-
-szerinti intézkedést alkalmazhatja.
+- a) az Rtv. 29. §-a, 30. §-a és 32. §-a szerinti intézkedést alkalmazhatja, illetve
+- b) nemzetközi körözést rendelhet el.
 
 (3) A körözési eljárást lefolytató szerv az Eütv. 70/A. § (2) bekezdése, valamint 201/B. §-a alapján elrendelt körözés végrehajtása során
 
-- a) a 27. § (2) bekezdése,
-- b) az Rtv. 33. §, 34. §, 39. § és 40. §, valamint 58. § (1) bekezdés e) pontja,
+- a) az Rtv. 29. §-a, 30. §-a, 32–34. §-a, 39–40. §-a, valamint 58. § (1) bekezdés e) pontja szerinti intézkedést alkalmazhatja, illetve
+- b) nemzetközi körözést rendelhet el.
 
-szerinti intézkedést alkalmazhatja.
+(4) A körözési eljárást lefolytató szerv a bírósági végrehajtásról szóló 1994. évi LIII. törvény 180/A. § (6) bekezdése alapján elrendelt körözés végrehajtása során
 
-(4) A körözési eljárást lefolytató szerv a bírósági végrehajtásról szóló 1994. évi LIII. törvény 180/A. § (6) bekezdése alapján elrendelt körözés végrehajtása során a 26. § (2) bekezdésében meghatározott intézkedést alkalmazhatja.
+- a) az Rtv. 29–30. §-a, 32. §-a, 35/A. §-a, 39–41. §-a, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja, illetve
+- b) nemzetközi körözést rendelhet el.
 
-(5) A körözési eljárást lefolytató szerv a nem a 26. § (3) bekezdése szerinti nemzetközi körözés végrehajtása során az (1) bekezdés a) pontjában, a (2) bekezdés a) pontjában, a (3) bekezdés b) pontjában, valamint a (4) bekezdésben meghatározott intézkedést alkalmazhatja.
+(5) A körözési eljárást lefolytató szerv a nem a 26. § (5) bekezdése szerinti nemzetközi körözés végrehajtása során
 
-28. § (1) A körözési eljárást lefolytató szerv az eltűnt személy bejelentés alapján, valamint az Eütv. 9/A. § alapján elrendelt körözés végrehajtása során
+- a) az Rtv. 29–30. §-a, 32–33. §-a, 35/A. §-a, 35/B. §-a, 38–41. §-a, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja,
+- b) nemzetközi körözést rendelhet el.
 
-- a) az Rtv. 27. §, 29. §, 30. §, 32. §, 35/A. §, 35/B. §, 41. §, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, 63–74. §, valamint a 91/C. § (1)–(2) bekezdése,
-- b) a 26. § (1) bekezdés b) pontja
+28. § (1) A körözési eljárást lefolytató szerv az eltűnt személy bejelentés alapján, valamint az Eütv. 9/A. §-a alapján elrendelt körözés végrehajtása során
 
-szerinti intézkedést alkalmazhatja.
+- a) az Rtv. 27. §-a, 29–30. §-a, 32. §-a, 35/A. §-a, 35/B. §-a, 41. §-a, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, valamint a 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja,
+- b) az Rtv. szerinti titkos információgyűjtést folytathat, illetve
+- c) nemzetközi körözést rendelhet el.
 
 (2) A körözési eljárást lefolytató szerv az ismeretlen személyazonosságú holttest, holttestrész azonosítása érdekében elrendelt körözés végrehajtása során
 
-- a) az Rtv. 30. §, 32. §, 39–41. §, 42. § (1) bekezdése,
-- b) az 26. § (1) bekezdés b) pontja
+- a) az Rtv. 30. §-a, 32. §-a, 39–41. §-a és 42. § (1) bekezdése szerinti intézkedést alkalmazhatja, illetve
+- b) nemzetközi körözést rendelhet el.
 
-szerinti intézkedést alkalmazhatja.
+(3) Az ismeretlen személyazonosságú holttest, holttestrész nemzetközi körözése végrehajtása során a körözési eljárást lefolytató szerv az Rtv. 27. §-a, 29–30. §-a, 32. §-a, 35/A. §-a, 35/B. §-a, 39–41. §-a, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, valamint a 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja.
 
-(3) Az ismeretlen személyazonosságú holttest, holttestrész nemzetközi körözése végrehajtása során körözési eljárást lefolytató szerv az (1) bekezdés a) pontjában, valamint a (2) bekezdés a) pontjában meghatározott intézkedést alkalmazhatja.
+29. § (1) A körözési eljárást lefolytató szerv a Be. 268. § (1) bekezdés a) és b) pontja, valamint a Szabs. tv. 68. § (3) bekezdése alapján elrendelt dolgok körözésének végrehajtása során
 
-29. § (1) A körözési eljárást lefolytató szerv a Be. 73. § (7) bekezdése, valamint a Szabs. tv. 68. § (3) bekezdése alapján elrendelt dolgok körözése végrehajtása során
+- a) az Rtv. 29–30. §-a, 32. §-a, 42. § (1) bekezdése és 58. § (1) bekezdés e) pontja szerinti intézkedést alkalmazhatja,
+- b) az Rtv. 91/C. §-ában meghatározottakon kívül – az ott meghatározott rendelkezések alapulvételével – az ismeretlen helyen lévő járművek – beleértve az ismeretlen helyen lévő személyek által használt járműveket is –felkutatása érdekében a polgárőr szervezet, továbbá bűnmegelőzési, illetve vagyonvédelmi célú szervezet által üzemeltetett rendszámfelismerő – és azonosító rendszerekben együttműködési megállapodásban foglaltak szerint jelzés elhelyezését rendelheti el, amelyben a jármű észlelése esetén értesítés adását kérheti, illetve
+- c) nemzetközi körözést rendelhet el.
 
-- a) az Rtv. 29. §, 30. §, 32. §, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja szerinti intézkedést alkalmazhatja,
-- b) az Rtv. 91/C. §-ban meghatározottakon kívül – az ott meghatározott rendelkezések alapulvételével – az ismeretlen helyen lévő járművek – beleértve az ismeretlen helyen lévő személyek által használt járműveket is – felkutatása érdekében a polgárőr szervezet, továbbá bűnmegelőzési, illetve vagyonvédelmi célú szervezet által üzemeltetett rendszámfelismerő – és azonosító rendszerekben együttműködési megállapodásban foglaltak szerint jelzés elhelyezését rendelheti el, amelyben a jármű észlelése esetén értesítés adását kérheti,
-- c) a 26. § (1) bekezdés b) pontja szerinti intézkedést alkalmazhatja.
-
-(2) A dolgok nemzetközi körözése végrehajtása során a körözési eljárást lefolytató szerv az (1) bekezdés a) és b) pontjában meghatározott intézkedést alkalmazhatja.
+(2) A körözési eljárást lefolytató szerv a dolgok nemzetközi körözésének végrehajtása során az (1) bekezdés a) és b) pontjában meghatározott intézkedést alkalmazhatja.
 
 (3) A körözési eljárást lefolytató szerv a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 53/A. §-a alapján elrendelt dolgok körözésének végrehajtása során
 
-- a) az Rtv. 29. §-a, 30. §-a, 32. §-a, 39. §-a és 42. § (1) bekezdése, valamint
-- b) a 26. § (1) bekezdés b) pontja
-
-szerinti intézkedést alkalmazhatja.
+- a) az Rtv. 29–30. §-a, 32. §-a, 39. §-a és 42. § (1) bekezdése szerinti intézkedést alkalmazhatja, valamint
+- b) nemzetközi körözést rendelhet el.
 
 (3a) A körözési eljárást lefolytató szerv a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 33. § (1a) bekezdése alapján elrendelt dolgok körözésének végrehajtása során az Rtv. 29. §-a, 30. §-a, 32. §-a, 39. §-a és 42. § (1) bekezdése szerinti intézkedést alkalmazhatja.
 
-(4) A találatot elérő szerv a rejtett ellenőrzés végrehajtása során az Rtv. 46/C. §-ban foglalt intézkedést foganatosítja.
+(4) A találatot elérő szerv a rejtett ellenőrzés végrehajtása során az Rtv. 46/C. §-ában, illetve a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 37/B. §-ában foglalt intézkedést foganatosítja.
 
 (5) A körözési eljárást lefolytató szerv az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján elrendelt dolgok körözése végrehajtása során
 
-- a) az Rtv. 29. §, 32. §, 42. § (1) bekezdése szerinti intézkedéseket alkalmazhatja,
-- b) az Rtv. 91/C. §-ban meghatározottakon kívül – az ott meghatározott rendelkezések alapulvételével – az ismeretlen helyen lévő járművek – beleértve az ismeretlen helyen lévő személyek által használt járműveket is – felkutatása érdekében a polgárőr szervezet, továbbá bűnmegelőzési, illetve vagyonvédelmi célú szervezet által üzemeltetett rendszámfelismerő- és azonosító rendszerekben együttműködési megállapodásban foglaltak szerint jelzés elhelyezését rendelheti el, amelyben a jármű észlelése esetén értesítés adását kérheti.
+- a) az Rtv. 29. §-a, 32. §-a, 42. § (1) bekezdése szerinti intézkedéseket alkalmazhatja,
+- b) az Rtv. 91/C. §-ában meghatározottakon kívül – az ott meghatározott rendelkezések alapulvételével – az ismeretlen helyen lévő járművek – beleértve az ismeretlen helyen lévő személyek által használt járműveket is – felkutatása érdekében a polgárőr szervezet, továbbá bűnmegelőzési, illetve vagyonvédelmi célú szervezet által üzemeltetett rendszámfelismerő- és azonosító rendszerekben együttműködési megállapodásban foglaltak szerint jelzés elhelyezését rendelheti el, amelyben a jármű észlelése esetén értesítés adását kérheti.
 
 29/A. § A körözési eljárást lefolytató szerv jogosult az általa kezelt arcképmás adat felhasználásával a 8. § (1) bekezdésében meghatározott körözött személyek azonosítása és az eltűnt személyek felkutatása érdekében az arckép profil nyilvántartást kezelő szerv arcképelemző tevékenységét igénybe venni.
 

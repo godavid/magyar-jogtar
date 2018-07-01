@@ -429,7 +429,7 @@ egyes rendelkezések
 
 140/C. § (1) A nemzeti külkereskedelmi államigazgatási szerv a törvény által kihirdetett nemzetközi szerződésben és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiben meghatározott hatósági feladatai ellátásával összefüggésben birtokába került személyes adatok kezelésére – ha a törvény által kihirdetett nemzetközi szerződés vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik – legfeljebb az érintettnek a tevékenysége folytatására vonatkozó jogosultsága megszűnésétől számított hat hónapig jogosult.
 
-(2) A nemzeti külkereskedelmi államigazgatási szerv az általa kezelt vagy nyilvántartott adatokat – ha törvény eltérően nem rendelkezik – az alábbi szervek részére, azok megkeresése alapján átadja:
+(2) A nemzeti külkereskedelmi államigazgatási szerv az általa kezelt vagy nyilvántartott adatokat – ha törvény eltérően nem rendelkezik – az alábbi szervek részére, azok megkeresése vagy adatkérése alapján átadja:
 
 - a) az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa rendelkezéseiből következő kötelezettségek teljesítése érdekében az Európai Unió Bizottsága, illetve az Európai Unió tagországainak az egyes kereskedelmi korlátozások vonatkozásában hatáskörrel rendelkező szervei részére,
 - b) a vámhatóságnak a vámeljáráshoz,

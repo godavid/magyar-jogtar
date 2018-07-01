@@ -413,7 +413,7 @@ miatt kerül sor.
 - c) a beteg gyermek ápolására igénybe vett táppénzes állomány,
 - d) a terhességi-gyermekágyi segély, csecsemőgondozási díj, a gyermekgondozási díj, a gyermekgondozási segély, gyermekgondozást segítő ellátás folyósítása,
 - e) a megváltozott munkaképességű személyek ellátásai, a rokkantsági és a baleseti rokkantsági nyugdíj, a rendszeres szociális járadék, az átmeneti járadék, a bányászok egészségkárosodási járadéka folyósításának,
-- f) az előzetes letartóztatás, valamint a szabadságvesztés- és az elzárásbüntetés,
+- f) a letartóztatás, a szabadságvesztés, valamint az elzárás,
 - g) az ápolási díj és a gyermeknevelési támogatás folyósítása,
 - h) a nappali tagozaton történő tanulmányok folytatásának
 
@@ -467,7 +467,7 @@ időtartamával.
 29. § (1) Szünetel az álláskeresési járadék folyósítása, ha az álláskereső
 
 - a) terhességi-gyermekágyi segélyre, csecsemőgondozási díjra, gyermekgondozási díjra vagy gyermekgondozási segélyre, gyermekgondozást segítő ellátásra való jogosultságának megállapítását jelenti be, terhességi-gyermekágyi segély, csecsemőgondozási díj és gyermekgondozási díj esetén a jogosultság megállapítását követő naptól, gyermekgondozási segély, gyermekgondozást segítő ellátás esetén a jogosultság megállapításának napjától,
-- b) előzetes letartóztatásban van, szabadságvesztés, elzárás büntetését tölti, kivéve, ha a szabadságvesztés-büntetést pénzbüntetés átváltoztatása miatt állapították meg, a büntetés megkezdésének napjától,
+- b) letartóztatásban van, szabadságvesztést – kivéve, ha a szabadságvesztés büntetést pénzbüntetés átváltoztatása miatt állapították meg –, valamint elzárást tölt, a kényszerintézkedés vagy büntetés megkezdésének napjától,
 - c) a 25. § (5) bekezdésében meghatározott közfoglalkoztatás alatt, a közfoglalkoztatási jogviszony kezdő napjától,
 - d) rövid időtartamú, legfeljebb 120 napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével, feltéve, hogy bejelentési kötelezettségének eleget tett – a kereső tevékenységet megalapozó jogviszony kezdő napjától,
 - e) a 14. § (6) bekezdésében meghatározott keresetpótló juttatásban részesül, a keresetpótló juttatás kezdőnapjától, vagy olyan képzésben vesz részt, amelynek keretében felzárkózást elősegítő megélhetési támogatásban részesül, a felzárkózást elősegítő megélhetési támogatás folyósítása alatt,
@@ -1183,7 +1183,7 @@ szükséges hozzáférést.
   - ib) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül, vagy
   - ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől egyházi, felekezeti nyugdíjban, öregségi járadékban vagy növelt összegű öregségi járadékban részesül,
 - j) munkaközvetítő tevékenység: olyan szolgáltatás, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
-- k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha álláskeresési járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban részesül, 2. előzetes letartóztatásban van, szabadságvesztés, illetve elzárás büntetését tölti, 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
+- k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha álláskeresési járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban részesül, 2. letartóztatásban van, szabadságvesztést, valamint elzárást tölt, 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
 - l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 120 napot nem haladja meg,
 - m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahely-megtartási esélyei testi vagy szellemi károsodása miatt csökkennek,
 - n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,

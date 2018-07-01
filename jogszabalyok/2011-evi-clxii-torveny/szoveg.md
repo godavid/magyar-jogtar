@@ -1756,7 +1756,9 @@ jelölik.
 
 (4) Az ülnök megválasztására jogosult képviselő-testület a (2) bekezdésben meghatározott személyes adatokat a jelölt ülnökké történő megválasztásáról meghozott döntésig kezeli.
 
-(5) Egy jelölt kizárólag egy bírósághoz választható meg ülnökké.
+(5) Egy jelölt – a (6) bekezdésben meghatározott kivétellel – kizárólag egy bírósághoz választható meg ülnökké.
+
+(6) A tábornoki rendfokozatú katonai ülnökjelölt, függetlenül attól, hogy hol van a szolgálati helye, több bírósághoz is megválasztható katonai ülnökké.
 
 215. § (1) A járásbíróság ülnökeit a bíróság székhelye szerint illetékes helyi önkormányzat, illetve települési nemzetiségi önkormányzat képviselő-testülete, a törvényszék, valamint a közigazgatási és munkaügyi bíróság ülnökeit a megyei (fővárosi), illetve megyei jogú városi képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg. A Budapest területén működő járásbíróságok ülnökeit a bíróság illetékességi területe szerinti helyi önkormányzatok és települési nemzetiségi önkormányzatok képviselő-testületei választják meg. Olyan járásbíróság esetén, amelynek székhelye nem az illetékességi területén helyezkedik el, az ülnököket az illetékességi terület szerinti megyei képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg.
 

@@ -151,7 +151,7 @@ ha tudott vagy kellő gondosság mellett tudhatott volna arról, hogy a foglalko
 
 (3) Az (1) bekezdés alkalmazásában – az ellenkező bizonyításig – a foglalkoztatásra irányuló jogviszony fennállását legalább három hónap időtartamban vélelmezni kell.
 
-19/A. § Az Mt.-nek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor fennálló munkaviszonyra akkor kell alkalmazni, ha az 1. módosító törvény hatálybalépése után indul büntetőeljárás a foglalkoztatottal szemben az Mt. 44/A. § (1) bekezdés a) pontjában meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt.
+19/A. § Az Mt.-nek az egyes törvényeknek a gyermekek védelme érdekében történő módosításáról szóló 2013. évi CCXLV. törvénnyel (a továbbiakban: 1. módosító törvény) megállapított rendelkezéseit az 1. módosító törvény hatálybalépésekor fennálló munkaviszonyra akkor kell alkalmazni, ha az 1. módosító törvény hatálybalépése után indul büntetőeljárás a foglalkoztatottal szemben az Mt. 44/A. § (1) bekezdés a) pontjában meghatározott bűncselekmény miatt.
 
 19/B. § Az Mt.-nek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 65. § (5) és (6) bekezdését a Módtv2. hatálybalépését követően közölt, munkaviszonyt megszüntető jognyilatkozatra kell alkalmazni.
 

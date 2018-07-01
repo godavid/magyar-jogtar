@@ -335,7 +335,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 (8) Az MNB a hiányos, sérült bankjegyet akkor váltja át, ha a bankjegynek több mint 50%-át bemutatják. Az MNB térítés nélkül bevonja a forgalomból, és megsemmisíti azokat a hiányos sérült bankjegyeket, amelyek felülete nem haladja meg az 50%-ot. A hitelintézet és a posta azokat a hiányos sérült bankjegyeket, amelyek felülete nem haladja meg az 50%-ot, az ügyféltől térítésmentesen átveszi, és az MNB-nek továbbítja bevonás és megsemmisítés céljából.
 
-(9) A pénz jogellenes eltulajdonításának megelőzésére használt biztonsági eszközök működésbe hozatala miatt sérült bankjegyekkel kapcsolatban, amennyiben bűncselekmény gyanúja merül fel, akkor a bűnüldöző szervek vizsgálatának lezárultáig az MNB, a hitelintézet és a posta visszatarthatja a bankjegyek ellenértékének térítését és jogosult a pénz jogellenes eltulajdonításának megelőzésére használt biztonsági eszközök működésbe hozatala miatt sérült bankjegyek természetes személy befizetőjének (birtokosának) személyes adatait (családi és utónév, lakcím, azonosító okmány megnevezése és száma) kezelni, és ennek keretében az említett adatokat a büntetőeljárást lefolytató, illetve bűnüldözési feladatokat ellátó szervek részére továbbítani. Az MNB a pénz jogellenes eltulajdonításának megelőzésére használt biztonsági eszközök működésbe hozatala miatt sérült bankjegyek törvényes fizetőeszközre való átváltásáért díjat számíthat fel, kivéve, ha az átváltást kezdeményező személy – az eljáró hatóság által kiállított dokumentummal – igazolja, hogy a sérülés rablás vagy lopás miatt következett be.
+(9) A pénz jogellenes eltulajdonításának megelőzésére használt biztonsági eszközök működésbe hozatala miatt sérült bankjegyekkel kapcsolatban, amennyiben bűncselekmény gyanúja merül fel, akkor a büntetőeljárás befejezéséig az MNB, a hitelintézet és a posta visszatarthatja a bankjegyek ellenértékének térítését és jogosult a pénz jogellenes eltulajdonításának megelőzésére használt biztonsági eszközök működésbe hozatala miatt sérült bankjegyek természetes személy befizetőjének (birtokosának) személyes adatait (családi és utónév, lakcím, azonosító okmány megnevezése és száma) kezelni, és ennek keretében az említett adatokat a büntetőeljárás során eljáró szervek részére továbbítani. Az MNB a pénz jogellenes eltulajdonításának megelőzésére használt biztonsági eszközök működésbe hozatala miatt sérült bankjegyek törvényes fizetőeszközre való átváltásáért díjat számíthat fel, kivéve, ha az átváltást kezdeményező személy – az eljáró hatóság által kiállított dokumentummal – igazolja, hogy a sérülés rablás vagy lopás miatt következett be.
 
 (10) Megsemmisült bankjegy vagy érme ellenértékét az MNB nem téríti meg. Bankjegy vagy érme tekintetében megsemmisítési eljárás nem indítható. A nehezen felismerhető, valamint a sérült törvényes fizetőeszköznek minősülő érme – ide nem értve az MNB által kibocsátott emlékérmét –, továbbá az MNB által már bevont érme alapanyagként való értékesítésének, illetve az ezen érmékből nyert alapanyagok értékesítésének kizárólagos joga az MNB-t illeti meg, azzal, hogy az értékesítés piaci feltételek mellett történik.
 
@@ -1770,7 +1770,7 @@ számított 5 évig kezelheti.
 93. § (1) Engedély nélkül végzett tevékenység megállapítása esetén az MNB
 
 - a) megtiltja a tevékenység végzését,
-- b) büntetőeljárást kezdeményez az illetékes nyomozó hatóságnál, ha megítélése szerint a tevékenység a Büntető Törvénykönyvről szóló törvény alapján bűncselekménynek minősül,
+- b) büntetőeljárást kezdeményez, ha megítélése szerint a tevékenység a Büntető Törvénykönyvről szóló törvény alapján bűncselekménynek minősül,
 - c) intézkedést, kivételes intézkedést alkalmaz, illetve
 - d) piacfelügyeleti bírságot szab ki.
 
@@ -2677,7 +2677,7 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 
 (3) Az MNB a 4. § (1) és (7) bekezdésében meghatározott feladata ellátása során a Bszt. szerinti befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásként pénzügyi eszköz letéti őrzését és nyilvántartását láthatja el, ehhez kapcsolódóan ügyfélszámlát vezethet, továbbá letétet kezelhet és ehhez kapcsolódóan értékpapírszámlát vezethet, valamint nyomdai úton előállított értékpapír esetén azt nyilvántarthatja és ügyfélszámlát vezethet.
 
-(4) Az MNB a nyomozó hatóság és az ügyészség tevékenységének támogatása céljából, a monetáris finanszírozás 146. § szerinti tilalmának betartásával jogosult forint és külföldi bankjegyeket biztosítani e szervek részére a nyomozati tevékenységhez.
+(4) Az MNB az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség tevékenységének támogatása céljából, a monetáris finanszírozás 146. § szerinti tilalmának betartásával jogosult forint és külföldi bankjegyeket biztosítani e szervek részére a büntetőeljárás lefolytatásához.
 
 160. § (1) Az MNB-t a 4. § (1)–(7) bekezdésben meghatározott feladatainak ellátásával összefüggésben keletkező követelése alapján belföldi adósának bármilyen címen birtokába jutott vagyona felett törvényes zálogjog illeti meg. Az MNB követelését törvényes zálogjoga alapján a zálogtárgyakból bírósági eljárás nélkül, a legalkalmasabbnak talált módon elégítheti ki. E rendelkezéseket értelemszerűen alkalmazni kell az MNB rendelkezésére bocsátott óvadékból történő kielégítésre is.
 

@@ -567,7 +567,7 @@ folytatja le.
 
 (3) A panasz visszavonása a fegyelmi eljárás lefolytatását nem akadályozza.
 
-(4) A fegyelmi eljárás megindításának nincs helye, ha azt a területi kamara a kötelezettségszegésről szóló panasz beérkezésétől, hivatalból megindított eljárás esetén a jegyzőkönyv felvételétől számított három hónapon belül nem indította meg vagy az elkövetéstől számított két év eltelt. Ha a cselekmény miatt büntetőeljárás indult, és az nem végződött felmentéssel, a három hónapos határidőt a jogerős határozatnak a kamarával való közlésétől, a kétéves határidőt pedig az eljárás jogerős befejezésétől kell számítani.
+(4) A fegyelmi eljárás megindításának nincs helye, ha azt a területi kamara a kötelezettségszegésről szóló panasz beérkezésétől, hivatalból megindított eljárás esetén a jegyzőkönyv felvételétől számított három hónapon belül nem indította meg vagy az elkövetéstől számított két év eltelt. Ha a cselekmény miatt büntetőeljárás indult, és az nem végződött felmentéssel, a három hónapos határidőt a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészségnek, illetve a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható határozatának a kamarával való közlésétől kell számítani. A kétéves határidőt a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
 
 (5) A fegyelmi eljárást annak megindításától számított 90 napon belül be kell fejezni.
 
@@ -609,7 +609,7 @@ folytatja le.
 
 (3) Ha más hatóság eljárása érintheti a fegyelmi ügy eldöntését, a fegyelmi tanács elrendelheti az eljárás felfüggesztését a bíróság vagy más hatóság előtt folyamatban lévő ügy jogerős vagy végleges befejezéséig.
 
-36/D. § (1) Ha az eljárás alá vont személlyel szemben szándékos vagy olyan gondatlan bűncselekmény elkövetése miatt emelt vádat az ügyész, amelynek büntetési tétele háromévi szabadságvesztésnél súlyosabb, a fegyelmi tanács ideiglenes intézkedéssel az eljárás alá vont személy kamarai tagságát azonnali hatállyal felfüggeszti és a tevékenységének végzésére való jogosultságának felfüggesztését kezdeményezi a jogosultságról névjegyzéket vezető szervnél.
+36/D. § (1) Ha az eljárás alá vont személlyel szemben szándékos vagy olyan gondatlan bűncselekmény elkövetése miatt emelt vádat az ügyészség, amelynek büntetési tétele háromévi szabadságvesztésnél súlyosabb, a fegyelmi tanács ideiglenes intézkedéssel az eljárás alá vont személy kamarai tagságát azonnali hatállyal felfüggeszti és a tevékenységének végzésére való jogosultságának felfüggesztését kezdeményezi a jogosultságról névjegyzéket vezető szervnél.
 
 (2) A felfüggesztésről szóló határozatot 5 napon belül az eljárás alá vont személynek kézbesíteni kell, aki a határozat ellen 8 napon belül fellebbezést terjeszthet elő a másodfokú fegyelmi tanácshoz.
 

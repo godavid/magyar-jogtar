@@ -38,7 +38,13 @@ a közlekedéssel összefüggő egyes törvények módosításáról
 
 19–20. §
 
-21. § (1)
+21. § (1) Az Lt. 74. § (1) bekezdése a következő e) ponttal egészül ki:
+
+(Felhatalmazást kap)
+
+„e) a miniszter, hogy a műszer szerinti polgári repülési eljárások tervezésének, validációjának és felülvizsgálatának részletes szabályait, valamint a műszer szerinti polgári repülési eljárásokat tervező szolgálat személyi, tárgyi és működési feltételeit, továbbá annak irányítási és feladatrendszerét,”
+
+(rendeletben állapítsa meg.)
 
 (2)–(5)
 
@@ -48,7 +54,21 @@ a közlekedéssel összefüggő egyes törvények módosításáról
 
 25. §
 
-26. § (1)–(2)
+26. § (1) A Kknyt. 19. § (1) bekezdés r) pontja helyébe a következő rendelkezés lép:
+
+[A nyilvántartásból igényelheti(k):]
+
+„r) az országos közutak kezelői a Kkt. 15. § (1) bekezdésében meghatározott közútkezelői hozzájárulás kiadására és a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésben, a (2) bekezdés a)–b) és d)–e) pontjában, a (3) bekezdésében, a 9/C. § (1) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;”
+
+(2) A Kknyt. 19. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A nyilvántartásból adatot igényelhetnek:)
+
+„c) a közlekedési hatóság a 9/A–9/B. §-ban meghatározott nyilvántartási adatok kivételével
+
+ca) a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához a 8. §-ban meghatározott adatokat,
+
+cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat;”
 
 (3)
 

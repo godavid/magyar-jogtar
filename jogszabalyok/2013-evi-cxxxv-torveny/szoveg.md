@@ -185,7 +185,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 - a) pénzügyi intézménynél igazgatósági taggá, felügyelőbizottsági taggá, vezető tisztségviselővé választják, vagy ilyen tisztségét megszünteti;
 - b) vállalkozásban befolyásoló részesedést szerez, vagy az ilyen befolyását megszünteti;
-- c) ellene a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, illetve külföldön vagyon elleni vagy gazdasági bűncselekmény miatt az illetékes hatóság vádat emelt.
+- c) ellene a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt az ügyészség vádat emelt, illetve külföldön vagyon elleni vagy gazdasági bűncselekmény miatt az illetékes hatóság vádat emelt.
 
 (7) A (6) bekezdés szerinti bejelentésről az Integrációs Szervezet igazgatósága a közgyűlést annak soron következő ülésén tájékoztatja.
 
@@ -540,7 +540,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (2) Amennyiben a szövetkezeti hitelintézet könyvvizsgálója tudomást szerez arról, hogy a szervezet vagyonának jelentős csökkenése várható, vagy olyan tényről szerez tudomást, amely a vezető tisztségviselők, vagy a felügyelőbizottság tagjainak törvényben meghatározott felelősségét vonja maga után, köteles erről a Központi Bankot és Integrációs Szervezetet haladéktalanul tájékoztatni.
 
-15/C. § (1) A szövetkezeti hitelintézet és a Központi Bank köteles az Integrációs Szervezetet az Integrációs Szervezet igazgatósága által elfogadott szabályzatban előírt határidőben, tartalommal és módon értesíteni, ha a szövetkezeti hitelintézet peres, nemperes vagy hatósági eljárást indított, vagy ellene ilyen eljárást vagy pénzügyi békéltető testületi eljárást indítottak, valamint ha a szövetkezeti hitelintézet, illetve a Központi Bank büntető feljelentést tett, vagy a szövetkezeti hitelintézetet, illetve a Központi Bankot érintően büntetőeljárás indult. A büntető feljelentésről és a büntető eljárás megindulásáról az Integrációs Szervezet köteles a tudomásszerzésétől számított 8 napon belül értesíteni a Felügyeletet.
+15/C. § (1) A szövetkezeti hitelintézet és a Központi Bank köteles az Integrációs Szervezetet az Integrációs Szervezet igazgatósága által elfogadott szabályzatban előírt határidőben, tartalommal és módon értesíteni, ha a szövetkezeti hitelintézet peres, nemperes vagy hatósági eljárást indított, vagy ellene ilyen eljárást vagy pénzügyi békéltető testületi eljárást indítottak, valamint ha a szövetkezeti hitelintézet, illetve a Központi Bank büntető feljelentést tett, vagy a szövetkezeti hitelintézetet, illetve a Központi Bankot érintően büntetőeljárás indult. A büntető feljelentésről és a büntetőeljárás megindulásáról az Integrációs Szervezet köteles a tudomásszerzésétől számított 8 napon belül értesíteni a Felügyeletet.
 
 (2) Az egyetemleges felelősséget érintő eljárások kezelésére és az azokkal kapcsolatos tájékoztatási kötelezettségre vonatkozóan az Integrációs Szervezet igazgatósága szabályzatot alkot.
 

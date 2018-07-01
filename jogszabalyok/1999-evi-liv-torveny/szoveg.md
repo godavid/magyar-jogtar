@@ -41,7 +41,7 @@ történő hozzáférést lehetővé tevő hálózati adatbázis.
 
 (6) A NEBEK az egyes európai uniós jogi aktusokban rögzített bűnügyi, illetve rendészeti tárgyú együttműködés keretében történő információcsere során a biometrikus azonosítók egyértelmű egyezést eredményező automatikus találati adathozzáférése nyomán követendő eljárásban központi kapcsolattartó pontként jár el a nyomozó hatóság, a terrorizmust elhárító szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv által kezdeményezett, személyazonossággal kapcsolatos adatok beszerzése iránti megkereséseinek az együttműködő tagállam felé való továbbításában, illetve az együttműködő tagállam ilyen megkereséseinek a bűnügyi és rendészeti biometrikus adatok nyilvántartásának vezetéséért felelős szakértői nyilvántartó szerv felé való továbbításában.
 
-4. § (1) A NEBEK jogosult annak a személyes és bűnüldözési adatnak – beleértve a titkos információgyűjtéssel érintett adatot és információt is – a kezelésére, átvételére és továbbítására, amely a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei hatáskörébe tartozik, illetve amelyre a bűnüldöző szervek nemzetközi együttműködését szabályozó nemzetközi szerződés, külön törvény vagy az Európai Unió jogi aktusának hatálya kiterjed, különösen, ha az adat a szervezett bűnözéssel, terrorizmussal, kábítószer-bűnözéssel, nukleáris és radioaktív anyaggal, embercsempészettel, emberkereskedelemmel, gépjárművekkel, illetve az euróval kapcsolatos bűncselekményekkel, továbbá az Európai Unió határainak őrizetével és az illegális migráció elleni küzdelemmel függ össze.
+4. § (1) A NEBEK jogosult annak a személyes és bűnüldözési adatnak – beleértve a titkos információgyűjtéssel, illetve a leplezett eszközök alkalmazásával érintett adatot és információt is – a kezelésére, átvételére és továbbítására, amely a nemzetközi bűnügyi együttműködés céljából létrehozott szervezet és nemzeti egységei hatáskörébe tartozik, illetve amelyre a bűnüldöző szervek nemzetközi együttműködését szabályozó nemzetközi szerződés, külön törvény vagy az Európai Unió jogi aktusának hatálya kiterjed, különösen, ha az adat a szervezett bűnözéssel, terrorizmussal, kábítószer-bűnözéssel, nukleáris és radioaktív anyaggal, embercsempészettel, emberkereskedelemmel, gépjárművekkel, illetve az euróval kapcsolatos bűncselekményekkel, továbbá az Európai Unió határainak őrizetével és az illegális migráció elleni küzdelemmel függ össze.
 
 (1a) A NEBEK az EUROPOL-nak az alábbi személyekre vonatkozó személyes adatokat továbbíthatja:
 
@@ -64,7 +64,7 @@ történő hozzáférést lehetővé tevő hálózati adatbázis.
 
 (3) Az adatátvételi igényt a megkeresett adatkezelő haladéktalanul köteles a leggyorsabb adattovábbítási úton teljesíteni. Az adattovábbítás tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
 
-5. § (1) A NEBEK a nemzetközi megkeresés alapján köteles és jogosult az általa beszerzett adatot – beleértve a titkos információgyűjtéssel érintett személyes adatot és információt is – külön törvényben, az Európai Unió jogi aktusában vagy a nemzetközi szerződésben meghatározottak szerinti biztonsági előírásoknak megfelelő távadat-átviteli hálózat igénybevételével vagy a külföldre telepített összekötője útján továbbítani a megkereső nemzetközi szervezethez.
+5. § (1) A NEBEK a nemzetközi megkeresés alapján köteles és jogosult az általa beszerzett adatot – beleértve a titkos információgyűjtéssel, illetve a leplezett eszközök alkalmazásával érintett személyes adatot és információt is – külön törvényben, az Európai Unió jogi aktusában vagy a nemzetközi szerződésben meghatározottak szerinti biztonsági előírásoknak megfelelő távadat-átviteli hálózat igénybevételével vagy a külföldre telepített összekötője útján továbbítani a megkereső nemzetközi szervezethez.
 
 (2) A NEBEK köteles az (1) bekezdés alapján továbbított adatot adatvédelmi ellenőrzés céljából rögzíteni és azt hat hónapig megőrizni. Az így tárolt adatot az ellenőrzés lefolytatása után legkésőbb 30 nap elteltével törölni kell.
 
@@ -72,7 +72,7 @@ történő hozzáférést lehetővé tevő hálózati adatbázis.
 
 (2) A magyar együttműködő szervnek a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszerhez (a továbbiakban: Vízuminformációs Rendszer) betekintés céljából történő hozzáférésre irányuló, a NEBEK útján történő adatszolgáltatást kezdeményező indokolt írásos vagy elektronikus úton továbbított kezdeményezésében az (1) bekezdésben foglaltak mellett fel kell tüntetnie
 
-- a) a konkrét ügy ügyiratszámát, amelyben szükséges a Büntető Törvénykönyvben meghatározott terrorcselekmény vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése és nyomozása érdekében az adatszolgáltatás;
+- a) a konkrét ügy ügyiratszámát, amelyben szükséges a Büntető Törvénykönyvben meghatározott terrorcselekmény vagy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése és nyomozása érdekében az adatszolgáltatás;
 - b) azokat a körülményeket, amelyek alapján valószínűsíthető, hogy a Vízuminformációs Rendszerből történő adatszolgáltatás jelentősen hozzájárulhat az adott bűncselekmények megelőzéséhez, felderítéséhez vagy nyomozásához;
 - c) azokat a körülményeket, amelyek megalapozzák a Vízuminformációs Rendszerből történő adatszolgáltatás szükségességét;
 - d) az a) pont szerinti bűncselekmény minősítését;
@@ -260,10 +260,10 @@ iránt kell intézkedni.
 
 (5) A találat érvényességének megerősítése esetén találatot elérő szerv a jármű lefoglalásáról, a NEBEK útján azzal tájékoztatja az adatokat elhelyező ország külföldi központi hatóságát, hogy a jármű lefoglalására, illetve a további eljárási cselekményekre irányuló eljárási jogsegély iránti megkeresés előterjesztésére hatvan nap áll rendelkezésére.
 
-(6) Ha nemzetközi szerződés lehetővé teszi a találatot elérő szerv a nemzetközi bűnügyi együttműködésről szóló 1996. évi XXXVIII. törvény 73. §-ában foglaltak alapján a lefoglalást megszünteti, ha az adatokat elhelyező ország külföldi központi hatósága által rendelkezésre bocsátott adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 155. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
+(6) Ha nemzetközi szerződés lehetővé teszi a találatot elérő szerv a nemzetközi bűnügyi együttműködésről szóló 1996. évi XXXVIII. törvény 73. §-ában foglaltak alapján a lefoglalást megszünteti, ha az adatokat elhelyező ország külföldi központi hatósága által rendelkezésre bocsátott adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 320. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
 
-- a) a Be. 155. § (2) bekezdése alapján a dolog tulajdonosának, vagy
-- b) külföldi hatóság rendelkezése szerint, a Be. 155. § (3) bekezdése alapján a dolog kiadása iránt alapos igényt bejelentő részére
+- a) a Be. 321. § (1) bekezdése alapján a dolog tulajdonosának, vagy
+- b) külföldi hatóság rendelkezése szerint, a Be. 321. § (2) bekezdése alapján a dolog kiadása iránt alapos igényt bejelentő részére
 
 kiadható.
 

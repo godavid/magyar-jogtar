@@ -50,7 +50,7 @@ Az Országgyűlés a termőföldek tulajdonjogának megszerzését vagy használ
 
 (5) Ha a (2)–(4) bekezdés másként nem rendelkezik, az ügyész az átvett és az adatlekérdezés, illetve adatfeldolgozás során keletkezett adatokat az Ütv. ügyészségi adatkezelésre irányadó szabályai szerint kezeli.
 
-(6) Az 1. § szerinti semmis jogügylettel összefüggő büntetőeljárásban keletkezett iratokat a büntetőeljárásról szóló 1998. évi XIX. törvény 71/B. § (1) bekezdése alapján az ott megjelölt szervek az ügyész megkeresésére szolgáltatják. Az ügyész az így beszerzett adatokat az 5. § szerinti perben bizonyítékként felhasználhatja.
+(6) Az 1. § szerinti semmis jogügylettel összefüggő büntetőeljárásban keletkezett ügyiratok megismerését a büntetőeljárásról szóló 2017. évi XC. törvény 101. § (1) bekezdése alapján az ott megjelölt szervek az ügyész számára biztosítják. Az ügyész az így beszerzett adatokat az 5. § szerinti perben bizonyítékként felhasználhatja.
 
 5. § (1) Az ügyész az 1. § szerinti jogügylet semmisségének megállapítása iránt indított perben indítványozza, hogy a bíróság a jogügylettel érintett termőföld tulajdonjogát az állam javára ítélje meg, ha megállapítható, hogy a jogügylet a termőföld tulajdonjogának megszerzését korlátozó jogszabályi rendelkezések kijátszására irányult, a termőföldet annak tulajdonosa a rendelkezési jogának fenntartása nélkül a tulajdonjogot szerezni kívánó fél birtokába bocsátotta, és az ezért kapott ellenszolgáltatás fejében tulajdonosi jogainak gyakorlásáról a tulajdonjogot szerezni kívánó fél javára véglegesen lemondott.
 
@@ -66,7 +66,9 @@ Az Országgyűlés a termőföldek tulajdonjogának megszerzését vagy használ
 
 (3) A perben viszontkereset indításának nincs helye.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) Az ítélet ellen perújításnak nincs helye.
 
@@ -80,6 +82,6 @@ Az Országgyűlés a termőföldek tulajdonjogának megszerzését vagy használ
 
 9. § E törvény alkalmazásában termőföld: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti mező- és erdőgazdasági hasznosítású föld.
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §

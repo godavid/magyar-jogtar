@@ -143,8 +143,8 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 8. § (1) Ha a körözés tényét a nyilvántartásba bejegyezték, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést, valamint a kiegészítő adatot a CS.SIS-ben arról a személyről,
 
 - a) akit eltűnés miatt köröznek,
-- b) akit a büntetőeljárásban terheltként vagy tanúként kívánnak idézni, vagy akinek büntetőeljárásban okiratot kívánnak kézbesíteni, de lakó- vagy tartózkodási helye ismeretlen, vagy
-- c) aki szabadságvesztés büntetésének letöltését vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg és emiatt tartózkodási helyének megállapítása érdekében körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn.
+- b) akit a büntetőeljárásban elérhetőségének megállapítása érdekében tanúként vagy bűncselekmény elkövetésével megalapozottan gyanúsítható személyként köröznek, vagy
+- c) aki szabadságvesztés vagy elzárás büntetésének, illetve javítóintézeti nevelésének letöltését vagy a vele szemben elrendelt kényszergyógykezelés végrehajtását nem kezdte meg és emiatt körözését rendelték el, de az európai elfogatóparancs vagy a nemzetközi elfogatóparancs kibocsátásának törvényi feltételei nem állnak fenn.
 
 (2) Az (1) bekezdés a) pontja szerinti figyelmeztető jelzés elhelyezésekor azt is jelezni kell, hogy megtalálása esetén
 
@@ -329,10 +329,10 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 28. § (1) A büntetőeljárásban történő lefoglalás vagy büntetőeljárásban történő bizonyítékként való felhasználás céljából körözött tárgyra elhelyezett figyelmeztető jelzés alapján elért találat esetén a megtalált tárgyat az általános rendőrségi feladatok ellátására létrehozott szerv, vagy a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatot ellátó szervezeti egysége és vámszerve (e § alkalmazásában a továbbiakban együtt: hatóság) a büntetőeljárásról szóló törvény alapján lefoglalja. Ebben az esetben a figyelmeztető jelzést a tárgy lefoglalására irányuló eljárási jogsegély iránti megkeresésnek kell tekinteni, és a lefoglalásról értesíteni kell a jogsegély teljesítésére jogosult ügyészséget.
 
-(2) Az (1) bekezdés alapján a 10. § (1) bekezdés a)–c) pontjában meghatározott tárgy lefoglalása esetén a lefoglalást elrendelő hatóság az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 71/E. §-ában foglaltak alapján a lefoglalást megszünteti, ha a rendelkezésre álló vagy a 27. § (3) bekezdése alapján beszerzett adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 155. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
+(2) Az (1) bekezdés alapján a 10. § (1) bekezdés a)–c) pontjában meghatározott tárgy lefoglalása esetén a lefoglalást elrendelő hatóság az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 71/E. §-ában foglaltak alapján a lefoglalást megszünteti, ha a rendelkezésre álló vagy a 27. § (3) bekezdése alapján beszerzett adatok alapján megállapítható, hogy a lefoglalás a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 320. § (1) bekezdése alapján megszüntethető és a lefoglalt dolog
 
-- a) a Be. 155. § (2) bekezdése alapján a dolog tulajdonosának, vagy
-- b) tagállami hatóság rendelkezése szerint, a Be. 155. § (3) bekezdés alapján a dolog kiadása iránt alapos igényt bejelentő részére
+- a) a Be. 321. § (1) bekezdése alapján a dolog tulajdonosának, vagy
+- b) tagállami hatóság rendelkezése szerint, a Be. 321. § (2) bekezdése alapján a dolog kiadása iránt alapos igényt bejelentő részére
 
 kiadható.
 

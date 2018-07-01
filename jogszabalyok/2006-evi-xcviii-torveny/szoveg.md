@@ -1249,6 +1249,17 @@ a befizetést követően haladéktalanul átutalja.
 
 (3) A meglévő és az újonnan létesített közforgalmú gyógyszertárak közötti legkisebb távolságon, a közúton vagy közterületen történő megközelítéshez szükséges legrövidebb utat kell érteni.
 
+49/B. § (1) Azon a településen vagy településrészen, ahol fiókgyógyszertár működik, az egészségügyi államigazgatási szerv új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírását megelőzően a fiókgyógyszertárat működtető közforgalmú gyógyszertár működtetőjét 30 napos határidővel nyilatkozattételre hívja fel, hogy az adott településen vagy településrészen kíván-e közforgalmú gyógyszertárat működtetni.
+
+(2) Ha az egészségügyi államigazgatási szerv (1) bekezdés szerinti megkeresésére a fiókgyógyszertárat működtető közforgalmú gyógyszertár működtetője úgy nyilatkozik, hogy az adott településen vagy településrészen
+
+- a) közforgalmú gyógyszertárat kíván működtetni, akkor nyilatkozata megtételével egyidejűleg köteles a közforgalmú gyógyszertár létesítésére irányuló kérelmét az egészségügyi államigazgatási szervnek benyújtani, azzal, hogy a 62. § (2a) bekezdésében foglalt előírást mindkét közforgalmú gyógyszertár tekintetében alkalmazni kell,
+- b) közforgalmú gyógyszertárat nem kíván működtetni vagy a megkeresésre 30 napon belül nem nyilatkozik, akkor az egészségügyi államigazgatási szerv az új közforgalmú gyógyszertár létesítésére irányuló pályázatot kiírja.
+
+(3) Az egészségügyi államigazgatási szerv az új közforgalmú gyógyszertár létesítésére irányuló pályázatot – a (2) bekezdés b) pontjában foglaltakon túl – akkor is kiírja, ha a (2) bekezdés a) pontja szerinti esetben a kérelmező a közforgalmú gyógyszertár létesítésére előírt feltételeknek nem felel meg.
+
+(4) Az (1)–(3) bekezdés szerinti eljárás részletes szabályait a Kormány rendeletben állapítja meg.
+
 ### A fiókgyógyszertár létesítése
 
 50. § (1) Azon a településen vagy önálló településrészi önkormányzattal (részönkormányzattal) rendelkező településrészen, ahol közforgalmú vagy fiókgyógyszertár nem működik, kérelemre fiókgyógyszertár létesítését és működtetését engedélyezi az egészségügyi államigazgatási szerv, amennyiben a kérelmező megfelel e törvényben előírt feltételeknek. A fiókgyógyszertár épületben, illetve mozgó egységként működtethető. A fiókgyógyszertár működése az ügyfél kérelmére – amennyiben annak e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott feltételei fennállnak – meghatározott időszakra (idényre) is engedélyezhető. Erről a működtetést engedélyező határozatban rendelkezni kell.
@@ -1417,7 +1428,7 @@ vonatkozó előírásokat ismételten és súlyosan megsérti.
 (2) A működési engedélyt az (1) bekezdésben foglaltakon túl – a (3) bekezdésben és az 58. § (2) bekezdésében foglalt kivétellel – a létesítési engedéllyel egyidejűleg a működési engedély visszavonására okot adó körülményekről való tudomásszerzéstől számított tizenöt napon belül vissza kell vonni akkor is, ha
 
 - a) fiókgyógyszertár esetén
-  - aa) a működési engedélyében megjelölt településen közforgalmú gyógyszertár kezdi meg működését,
+  - aa) a működési engedélyében megjelölt településen vagy településrészen közforgalmú gyógyszertár kezdi meg működését,
   - ab) a létesítési engedélye jogerőre emelkedését követő 6 hónapon belül nem kezdte meg működését;
 - b) a kézigyógyszertár
   - ba) működési engedélyében megjelölt településen közforgalmú vagy fiókgyógyszertár kezdi meg működését,
@@ -1747,7 +1758,7 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 - f) a támogatásvolumen-szerződésekre vonatkozó részletes szabályokat,
 - g) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógussal kapcsolatos bírság összegét és befizetésének szabályait,
 - h) a gyógyszertárak részére nyújtandó szolgáltatási díj folyósítására és mértékére vonatkozó részletes szabályokat,
-- i) gyógyszertár-létesítési és működési engedélyezési eljárásra, új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírására, pályázat elbírálására vonatkozó részletes szabályokat,
+- i) a gyógyszertár-létesítési és működési engedélyezési eljárásra, valamint az új közforgalmú gyógyszertár létesítésére irányuló pályázat kiírására és elbírálására vonatkozó részletes szabályokat, továbbá a 49/B. § (1)–(3) bekezdése szerinti eljárás részletes szabályait,
 - j) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének eljárási szabályait,
 - k) a gyógyászatisegédeszköz-szállítójegyzékre és a szállító-előminősítésre vonatkozó részletes eljárási szabályokat,
 - l) az egyedi méretvétel alapján készített gyógyászati segédeszközök támogatásával kapcsolatos eljárások szabályait

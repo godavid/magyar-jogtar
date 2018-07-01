@@ -32,11 +32,14 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (2) Az (1) bekezdés szerinti intézkedések alkalmazhatók abban az esetben is, ha a bűncselekmény elkövetése a jogi személy javára előny szerzését célozta vagy eredményezte, vagy a bűncselekményt a jogi személy felhasználásával követték el, feltéve, hogy
 
-- a) az elkövető kiléte a nyomozásban nem volt megállapítható, ezért a nyomozó hatóság vagy az ügyész a nyomozást felfüggesztette,
-- b) az ügyész a nyomozást azért szüntette meg, mert nem a gyanúsított követte el a bűncselekményt, vagy a nyomozás adatai alapján nem volt megállapítható, hogy a bűncselekményt a gyanúsított követte el,
-- c) a bíróság a felmentő ítéletében megállapította, hogy nem a vádlott követte el a bűncselekményt, vagy az eljárás adatai alapján nem volt megállapítható, hogy a bűncselekményt a vádlott követte el,
-- d) az elkövető a halála, kóros elmeállapota, tevékeny megbánása, illetve kényszer vagy fenyegetés miatt nem büntethető, vagy
-- e) az elkövető ismeretlen helyen tartózkodása, illetve tartós, súlyos betegsége vagy a bűncselekmény elkövetése után bekövetkezett elmebetegsége miatt vele szemben az eljárást felfüggesztették.
+- a) az elkövető kiléte a nyomozásban nem volt megállapítható, ezért a nyomozó hatóság vagy az ügyészség az eljárást felfüggesztette,
+- b) az elkövetővel szemben tartós, súlyos betegsége, a bűncselekmény elkövetése után bekövetkezett elmebetegsége, illetve ismeretlen helyen vagy külföldön tartózkodása miatt az eljárást felfüggesztették,
+- c) a nyomozó hatóság vagy az ügyészség azért szüntette meg az eljárást, mert nem a gyanúsított követte el a bűncselekményt,
+- d) az ügyészség azért szüntette meg az eljárást, mert a rendelkezésre álló adatok, illetve bizonyítási eszközök alapján nem volt megállapítható, hogy a bűncselekményt a gyanúsított követte el,
+- e) a büntetőjogi felelősségre vonás elkerülésének kilátásba helyezéséről szóló megállapodás teljesítésére tekintettel a bűncselekmény elkövetőjével szemben nem indult büntetőeljárás vagy azt megszüntették,
+- f) az elkövetővel szemben azért szüntették meg a bűncselekmény miatt indult eljárást, mert a vád tárgyává tett jelentősebb tárgyi súlyú bűncselekmény mellett a felelősségre vonás szempontjából nem volt jelentősége,
+- g) a bíróság a felmentő ítéletében megállapította, hogy a bűncselekményt nem a vádlott követte el, vagy nem volt bizonyítható, hogy a bűncselekményt a vádlott követte el,
+- h) az elkövető halál, kegyelem, kóros elmeállapot, tevékeny megbánás, a feltételes ügyészi felfüggesztés keretében előírt magatartás tanúsítása vagy a feltételes ügyészi felfüggesztés tartamának eredményes letelte miatt, vagy a Btk. 25. § e) pontja alapján nem büntethető.
 
 (3) Az (1) bekezdés a) pontjában meghatározott intézkedés kizárólag önállóan alkalmazható, a b) és c) pontjában meghatározott intézkedések önállóan és egymás mellett alkalmazhatók.
 
@@ -57,7 +60,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 ### A jogi személy tevékenységének korlátozása
 
-5. § (1) A bíróság a jogi személy tevékenységét egy évtől három évig terjedő időre a (2) bekezdésben meghatározott körben korlátozhatja; a tartamot években kell megállapítani. A korlátozás kiterjedhet valamennyi felsorolt tevékenység vagy egyes tevékenységek gyakorlására.
+5. § (1) A bíróság a jogi személy tevékenységét a (2) bekezdésben meghatározott körben egy évtől három évig terjedő időtartamra korlátozhatja; a tartamot években kell meghatározni. A korlátozás kiterjedhet a (2) bekezdésben felsorolt valamennyi tevékenység vagy egyes tevékenységek gyakorlására.
 
 (2) Az eltiltás ideje alatt a jogi személy
 
@@ -69,7 +72,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 - f)
 - g) nem folytathat egyéb olyan tevékenységet, amelynek gyakorlásától a bíróság eltiltotta.
 
-(3) A tevékenység korlátozása esetén a bíróság határozatának jogerőre emelkedése napján a bíróság rendelkezésétől függően
+(3) A jogi személy tevékenységének korlátozása esetén a bíróság határozatának jogerőre emelkedésekor a bíróság rendelkezésétől függően
 
 - a) beállnak a jogi személlyel a közbeszerzési eljárás alapján megkötött szerződés azonnali hatályú felmondásának jogkövetkezményei,
 - b) beállnak a jogi személlyel kötött koncessziós szerződés azonnali hatályú felmondásának jogkövetkezményei,
@@ -92,266 +95,300 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 7. § (1) Ha a jogi személlyel szemben a büntetőeljárás során intézkedés alkalmazásának lehet helye, az intézkedés alkalmazásáról – ha e törvény másként nem rendelkezik – a terhelt ellen indított büntetőeljárásban kell határozni.
 
-(2) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a büntetőeljárásról szóló 1998. évi XIX. törvény (Be.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(2) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell értelemszerűen alkalmazni.
 
 (3)
 
 ### A bíróság hatásköre és illetékessége
 
-8. § Ha az ügyész a vádiratban a jogi személlyel szemben intézkedés alkalmazását indítványozza, az a bíróság jár el, amelyik a terhelt bűncselekményének elbírálására hatáskörrel és illetékességgel rendelkezik.
+8. § Ha az ügyészség a vádiratban a jogi személlyel szemben intézkedés alkalmazását indítványozza, az a bíróság jár el, amelyik a terhelt bűncselekményének elbírálására hatáskörrel és illetékességgel rendelkezik.
 
-### A jogi személy képviselője
+### A jogi személy érdekében eljáró ügyvéd
 
-9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében – annak képviselőjeként – meghatalmazás vagy kirendelés alapján ügyvéd vagy meghatalmazás alapján kamarai jogtanácsos jár el. A bíróság, az ügyész, illetve a nyomozó hatóság ügyvédet rendel ki, ha a jogi személynek nincs meghatalmazott képviselője.
+9. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, a jogi személy érdekében meghatalmazás vagy kirendelés alapján ügyvéd vagy meghatalmazás alapján kamarai jogtanácsos (a továbbiakban együtt: jogi személy érdekében eljáró ügyvéd) jár el.
 
-(2) A jogi személy (1) bekezdés szerinti képviseletére – a (3) bekezdésben foglalt kivétellel – meghatalmazást a jogi személy törvényes képviselője adhat.
+(2) Ha a jogi személy nem hatalmaz meg jogi személy érdekében eljáró ügyvédet, akkor a bíróság, az ügyészség, vagy a nyomozó hatóság rendel ki jogi személy érdekében eljáró ügyvédet. Ebben az esetben a jogi személy érdekében eljáró ügyvéd kijelölése az eljáró bíróság, ügyészség vagy nyomozó hatóság székhelye szerint illetékes területi ügyvédi kamara feladata.
 
-(3) A terhelt, a terhelt hozzátartozója, illetve védője a jogi személynek az (1) bekezdés szerinti képviseletére meghatalmazást nem adhat. A terhelt védője nem lehet a jogi személy (1) bekezdés szerinti képviselője.
+(3) A jogi személy érdekében eljáró ügyvéd részére meghatalmazást – a (4) bekezdésben foglalt kivétellel – a jogi személy törvényes képviselője adhat.
 
-(4) A jogi személynek az (1) bekezdés szerinti képviselőjére – az (5) bekezdésben meghatározott eltérésekkel – a védőre vonatkozó szabályok irányadók.
+(4) A terhelt, a terhelt hozzátartozója, illetve védője a jogi személy érdekében eljáró ügyvéd részére meghatalmazást nem adhat. A terhelt védője nem lehet a jogi személy érdekében eljáró ügyvéd.
 
-(5) A jogi személy (1) bekezdés szerinti képviselője
+(5) A jogi személy érdekében eljáró ügyvédre – a (6) bekezdésben meghatározott eltérésekkel – a védőre vonatkozó szabályok értelemszerűen irányadók.
 
-- a) a nyomozási cselekményeknél akkor lehet jelen, ha a tanú kihallgatása, a szakértő meghallgatása, a szemle, a bizonyítási kísérlet vagy a felismerésre bemutatás a jogi személy üggyel összefüggő kapcsolatának a tisztázására irányul, vagy a házkutatást a jogi személy használatában lévő területen foganatosítják,
-- b) a jogi személyt érintő iratokat a nyomozás elvégzése után tekintheti meg,
-- c) a tárgyaláson jelen lehet, a jogi személyt érintő körben indítványokat és észrevételeket tehet, a kihallgatottakhoz kérdést intézhet és felszólalhat.
+(6) A jogi személy érdekében eljáró ügyvéd
 
-(6) Az (5) bekezdés b)–c) pontjában meghatározott jogokat a jogi személynek a reá irányadó jogszabályok szerinti törvényes képviselője is gyakorolhatja.
+- a) a vádemelés előtt jelen lehet
+  - aa) az általa, illetve a jogi személy törvényes képviselője által indítványozott tanú kihallgatásán, és az ilyen tanú részvételével tartott bizonyítási cselekményen, valamint a szakértő meghallgatásán, a szemlén, a helyszíni kihallgatáson, a bizonyítási kísérleten, a felismerésre bemutatáson, és szembesítésen, ha az a jogi személy üggyel összefüggő kapcsolatának a tisztázására irányul,
+  - ab) a kutatáson, ha azt a jogi személy használatában lévő területen foganatosítják,
+- b) az eljárás jogi személyt érintő ügyiratait megismerheti,
+- c) a jogi személyt érintő körben bizonyítékot terjeszthet elő, indítványokat és észrevételeket tehet, és a bírósági eljárásban felszólalhat.
 
-(7) A jogi személy az egyéb érdekelt (Be. 55. §) jogait az e törvény alapján folytatott büntetőeljárásban nem gyakorolhatja.
+(7) A jogi személy törvényes képviselője a tárgyaláson jelen lehet, valamint gyakorolhatja a (6) bekezdés b) és c) pontjában meghatározott jogokat.
 
-### Értesítés a büntetőeljárásról
+(8) A jogi személy törvényes képviselője személyesen vagy – ha törvény személyes eljárási kötelezettséget nem ír elő – meghatalmazott képviselője útján is eljárhat.
 
-10. § (1) Ha a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, az ügyész
-
-- a) a nyomozás elrendeléséről, illetve folytatásáról,
-- b) a nyomozás megszüntetéséről, felfüggesztéséről, illetve ha a megszüntetés vagy felfüggesztés mellett a jogi személlyel szemben intézkedés alkalmazását indítványozta, akkor erről a tényről is,
-- c) arról, ha azt állapítja meg, hogy az intézkedés alkalmazásának 2. § szerinti feltételei nem állnak fenn,
-- d) a vádemelés esetén arról, hogy a jogi személlyel szemben intézkedés alkalmazását indítványozta,
-
-haladéktalanul értesíti azt a bíróságot, amely a jogi személyt nyilvántartásba vette.
-
-(2) Az eljárás jogerős befejezéséről, valamint az alkalmazott intézkedésről a bíróság haladéktalanul értesíti a nyilvántartást vezető bíróságot.
-
-(3) A nyilvántartást vezető bíróság az értesítést felveszi a jogi személyről vezetett nyilvántartásba.
-
-(4) Az (1) és (2) bekezdésben meghatározott eseményekről értesíteni kell a jogi személy felett törvényességi, illetve szakmai felügyeletet gyakorló szervet is, amennyiben ez nem azonos a jogi személy nyilvántartását vezető bírósággal.
+10. §
 
 ### A zár alá vétel
 
-11. § (1) Ha a jogi személlyel szemben intézkedés alkalmazásának szükségessége merül fel, a zár alá vételt a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtásához szükséges dologra, vagyoni értékű jogra, követelésre vagy szerződés alapján kezelt pénzeszközre kell elrendelni.
+11. § (1) Ha a jogi személlyel szemben intézkedés alkalmazásának szükségessége merül fel, a jogi személlyel szemben zár alá vételt akkor lehet elrendelni, ha megalapozottan lehet tartani attól, hogy a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtását meghiúsítják. A vádemelés előtt a bíróság jogosult a jogi személlyel szembeni zár alá vétel elrendelésére.
 
-(2) A jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtásához szükséges dologra, vagyoni értékű jogra, követelésre vagy szerződés alapján kezelt pénzeszközre a zár alá vételt el kell rendelni, ha a bíróság vagy az ügyész engedélyezi, hogy a jogi személlyel szemben a felszámolási eljárást folytassák. A határozatban számszerűleg meg kell jelölni, hogy a zár alá vétel milyen összeg biztosítására szolgál.
+(2) A jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtásához szükséges zár alá vételt el kell rendelni, ha a bíróság vagy az ügyészség engedélyezi, hogy a jogi személlyel szemben a felszámolási eljárást folytassák.
 
-(3) A (2) bekezdés alapján történő zár alá vételt a bíróság az engedélyezésről szóló határozatban is elrendelheti. Az ügyész a határozat meghozatala előtt indítványozza a zár alá vételnek a (2) bekezdés alapján történő elrendelését, ha a felszámolási eljárás folytatásához az engedélyt megadja.
+(3) A zár alá vételt elrendelő határozatban meg kell jelölni, hogy a zár alá vétel mekkora összeg biztosítására szolgál.
 
-(4) Ha a felszámoló kérelmére a büntetőügyben eljáró bíróság vagy a vádirat benyújtása előtt az ügyész a zár alá vett dolog, vagyoni értékű jog, követelés vagy szerződés alapján kezelt pénzeszköz értékesítését engedélyezi, az erről szóló határozatban a zár alá vételt arra az összegre korlátozza, ami a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtását fedezni fogja. A zár alá vett dolog, vagyoni értékű jog, követelés vagy szerződés alapján kezelt pénzeszköz helyébe a bíróság, illetve az ügyész által meghatározott összeg lép. A határozatot meg kell küldeni a zár alá vételt foganatosító bírósági végrehajtónak.
+(4) A (2) bekezdés alapján történő zár alá vételt a bíróság a felszámolási eljárás engedélyezéséről szóló határozatban is elrendelheti. Az ügyészség a határozat meghozatala előtt indítványozza a zár alá vételnek a (2) bekezdés alapján történő elrendelését, ha a felszámolási eljárás folytatásához az engedélyt megadja.
+
+(5) Ha a felszámoló kérelmére a büntetőügyben eljáró bíróság vagy a vádirat benyújtása előtt az ügyészség a zár alá vétel tárgyának értékesítését engedélyezi, az erről szóló határozatban a zár alá vételt arra az összegre korlátozza, ami a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtását fedezni fogja. A zár alá vétel tárgya helyébe a bíróság, illetve az ügyészség által meghatározott összeg lép. A határozatot meg kell küldeni a zár alá vételt foganatosító bírósági végrehajtónak.
 
 ### A nyomozás
 
-12. § (1) Ha a nyomozás során adat merül fel arra, hogy a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye, a nyomozó hatóság a nyomozást kiterjeszti az eljárás alapjául szolgáló bűncselekmény és a jogi személy kapcsolatának felderítésére. A nyomozó hatóság erről haladéktalanul tájékoztatja az ügyészt.
+12. § (1) Ha a feljelentés alapján vagy a nyomozás során adat merül fel arra, hogy a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye, az ügyészség vagy a nyomozó hatóság a nyomozást kiterjeszti az eljárás alapjául szolgáló bűncselekmény és a jogi személy kapcsolatának felderítésére. Ha a nyomozás kiterjesztéséről a nyomozó hatóság döntött, erről három munkanapon belül tájékoztatja az ügyészséget.
 
-(2) A nyomozó hatóság legkésőbb a nyomozás iratai megismerésének (Be. 193. §) határnapja előtt nyolc nappal értesíti a jogi személyt arról, hogy a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és egyben felhívja, hogy a 9. § (1) bekezdés szerinti képviseletéről gondoskodjék. A 9. § (3) bekezdése esetén a nyomozó hatóság hivatalból rendel ki képviselőt.
+(2) Ha a nyomozó hatóság az eljárása során megállapítja, hogy az eljárás tárgyát képező bűncselekmény vonatkozásában fennállnak a jogi személlyel szemben alkalmazható intézkedések 2. § szerinti feltételei – az ügyészség egyidejű tájékoztatása mellett – nyolc napon belül értesíti a jogi személyt. Az értesítésben arra is fel kell hívni a jogi személy figyelmét, hogy ha nem hatalmaz meg jogi személy érdekében eljáró ügyvédet, akkor az ügyészség, vagy a nyomozó hatóság rendel ki jogi személy érdekében eljáró ügyvédet.
 
-(3) Ha a nyomozás adatai alapján az állapítható meg, hogy a jogi személlyel szemben az intézkedés alkalmazásának feltételei nem állnak fenn, a nyomozó hatóság erről haladéktalanul értesíti a jogi személyt és azt a bíróságot, amelyik a jogi személyt nyilvántartásba vette.
+(3) A (2) bekezdésben meghatározott értesítést követően a döntést hozó nyomozó hatóság vagy ügyészség nyolc napon belül értesíti a jogi személyt és a jogi személy érdekében eljáró ügyvédet
 
-(4) Az ügyész teszi meg az (1)–(3) bekezdés szerinti intézkedéseket, ha a nyomozást az ügyész végzi, illetve a (2) vagy a (3) bekezdés szerinti intézkedéseket, ha azokat a nyomozó hatóság elmulasztotta megtenni.
+- a) arról, ha azt állapítja meg, hogy a jogi személlyel szemben alkalmazható intézkedések 2. § szerinti feltételei már nem állnak fenn,
+- b) az eljárás felfüggesztéséről, megszüntetéséről, folytatásáról, illetve ha az eljárás megszüntetése, vagy felfüggesztése mellett, a jogi személlyel szemben intézkedés alkalmazását indítványozta, illetve
+- c) a jogi személlyel szemben alkalmazott zár alá vétel elrendeléséről és annak feloldásáról.
 
-(5) A gyanúsított és a védője nem lehet jelen azon a nyomozási cselekményen, amely a jogi személynek az ügyben betöltött szerepével kapcsolatos adatok felderítésére irányul.
-
-(6) A nyomozás elvégzése után az iratok megismerésének határnapjáról a jogi személy 9. § (1) bekezdés szerinti képviselőjét értesíteni kell. A nyomozás iratainak megismerésére a Be. 193. §-át kell megfelelően alkalmazni.
+(4) A (2) és (3) bekezdésben meghatározott eseményekről értesíteni kell a jogi személyt nyilvántartó bíróságot, valamint a jogi személy felett törvényességi, illetve szakmai felügyeletet gyakorló szervet is, amennyiben ez nem azonos a jogi személyt nyilvántartó bírósággal.
 
 12/A. §
 
-### Intézkedés az iratok ismertetése után
+### A vádemelés
 
-13. § (1) Ha a nyomozás adatai alapján a jogi személlyel szemben e törvény szerint intézkedés alkalmazásának lehet helye, az ügyész a jogi személlyel szemben intézkedés alkalmazását – ha e törvény másként nem rendelkezik – a vádiratban indítványozza.
+13. § (1) Ha a nyomozás adatai alapján a jogi személlyel szemben e törvény szerint intézkedés alkalmazásának lehet helye, az ügyészség a jogi személlyel szemben intézkedés alkalmazását – ha e törvény másként nem rendelkezik – a vádiratban indítványozza.
 
 (2) A vádiratnak tartalmaznia kell
 
 - a) a jogi személynek a bírósági nyilvántartásban történő azonosítására alkalmas adatait,
-- b) a jogi személy 9. § (1) bekezdés szerinti, valamint a törvényes képviselőjének adatait,
-- c) az indítványt arra, hogy a bíróság a jogi személlyel szemben alkalmazzon az e törvény szerinti intézkedést.
+- b) a jogi személy érdekében eljáró ügyvéd, valamint a törvényes képviselő adatait,
+- c) a vád tárgyát képező bűncselekmény és a jogi személlyel szembeni intézkedés alkalmazhatóságát alátámasztó körülmények pontos leírását, valamint
+- d) indítványt arra, hogy a bíróság a jogi személlyel szemben – e törvény szerinti – intézkedést alkalmazzon.
 
-(3)
-
-(4) A vádiratot annyi példányban kell benyújtani, hogy a jogi személy 9. § (1) bekezdés szerinti képviselőjének is jusson egy példány.
+(3) Ha az ügyészség a vádiratban a jogi személlyel szemben intézkedés alkalmazását indítványozza, erről értesíti a jogi személyt, a jogi személy érdekében eljáró ügyvédet, a jogi személyt nyilvántartó bíróságot, valamint a jogi személy felett törvényességi, illetve szakmai felügyeletet gyakorló szervet is, amennyiben ez nem azonos a jogi személyt nyilvántartó bírósággal.
 
 ### A pótmagánvádló fellépésének kizárása
 
-14. § Az ügyésznek az e törvényben meghatározott jogait a pótmagánvádló nem gyakorolhatja.
+14. § Az ügyészségnek az e törvényben meghatározott jogait a pótmagánvádló nem gyakorolhatja.
 
 ### A bírósági eljárás általános szabályai
 
-15. § (1) A bírósági tárgyaláson az ügyész részvétele kötelező.
+15. § (1) Az ítélet és az ügydöntő végzés
 
-(2) Az ítélet és az ügydöntő végzés rendelkező része tartalmazza
+- a) rendelkező része
+  - aa) a jogi személynek a bírósági nyilvántartásban történő azonosítására alkalmas adatait,
+  - ab) a jogi személlyel szemben alkalmazott intézkedést, az erre irányuló indítvány elutasítását, az intézkedés alkalmazásának mellőzését, vagy – ha e törvény másként nem rendelkezik – az eljárás jogi személlyel kapcsolatos részének megszüntetését,
+- b) indokolása az eljárás tárgyát képező bűncselekmény és a jogi személy kapcsolatának bíróság által megállapított, a döntés alapjául szolgáló tényét és körülményeit is tartalmazza.
 
-- a) a jogi személynek a bírósági nyilvántartásban történő azonosítására alkalmas adatait,
-- b) a jogi személlyel szemben alkalmazott intézkedést, az erre irányuló indítvány elutasítását, vagy az intézkedés alkalmazásának mellőzését.
+(2) A bíróság az ügydöntő határozat jogerőre emelkedésétől számított nyolc napon belül értesíti a jogi személyt nyilvántartó bíróságot, valamint a jogi személy felett törvényességi, illetve szakmai felügyeletet gyakorló szervet is, amennyiben ez nem azonos a jogi személyt nyilvántartó bírósággal az eljárás befejezéséről, valamint a jogi személlyel szemben alkalmazott intézkedésről.
 
-### Az eljárás megszüntetése a tárgyalás előkészítése során
+### Az eljárás megszüntetése
 
-16. § (1) A bíróság az eljárásnak a jogi személlyel kapcsolatos részét a tárgyalás előkészítése során megszünteti, ha
+16. § (1) A bíróság az eljárás jogi személlyel kapcsolatos részét megszünteti, ha
 
-- a) az ügyész az indítványát visszavonta,
-- b) a jogi személy megszűnt.
+- a) az ügyészség a jogi személlyel szembeni intézkedés alkalmazására irányuló indítványát visszavonta, vagy
+- b) a jogi személy a vádemelés vagy az ügyészség jogi személlyel szembeni intézkedés alkalmazására irányuló indítványának előterjesztése után megszűnt.
 
-(2) A bíróság az (1) bekezdés szerint jár el akkor is, ha azzal a vádlottal szemben, akire tekintettel az ügyész a jogi személlyel szemben intézkedés alkalmazását indítványozta, az eljárást megszünteti. Ez a rendelkezés nem alkalmazható, ha a jogi személlyel szemben intézkedés alkalmazásának a 3. § (2) bekezdés d) pontja alapján helye van.
+(2) A bíróság az (1) bekezdés szerint jár el akkor is, ha azt a vádlottat, akire tekintettel az ügyészség a jogi személlyel szemben intézkedés alkalmazását indítványozta, felmenti, vagy vele szemben az eljárást megszünteti. Ez a rendelkezés nem alkalmazható, ha a jogi személlyel szemben intézkedés alkalmazásának a 3. § (2) bekezdés f), g) vagy h) pontjában meghatározott okból helye van.
 
 ### Az eljárás felfüggesztése
 
-16/A. § Ha a bíróság az eljárást a 3. § (2) bekezdés e) pontja alapján a tárgyalás előkészítése vagy a tárgyalás megkezdése után függesztette fel, a jogi személlyel szemben az ügyész indítványára a 3. § (1) bekezdésében meghatározott intézkedéseket alkalmazhatja.
+16/A. § Ha a bíróság az eljárást a 3. § (2) bekezdés b) pontjában meghatározott okból függesztette fel, az ügyészség indítványára a 3. § (1) bekezdésében meghatározott intézkedéseket alkalmazhatja a jogi személlyel szemben.
+
+### Az előkészítő ülés
+
+16/B. § (1) Ha az ügyészség a vádiratban a jogi személlyel szemben intézkedés alkalmazását indítványozza, az előkészítő ülésen a jogi személy érdekében eljáró ügyvéd jelenléte kötelező.
+
+(2) Az előkészítő ülésre szóló idézésben, illetve értesítésben a bíróság arra is figyelmezteti a jogi személy érdekében eljáró ügyvédet és a törvényes képviselőt, hogy az előkészítő ülésen kifejthetik az álláspontjukat a jogi személyt érintő ügyészségi indítvánnyal kapcsolatban, előadhatják a jogi személyt érintő tényeket és ezek bizonyítékait, illetve bizonyítás lefolytatását és bizonyíték kirekesztését indítványozhatják. A jogi személy törvényes képviselője részére szóló figyelmeztetésnek ki kell terjednie továbbá a Be. 500. § (2) bekezdés d) pontjában foglaltakra.
+
+(3) A jogi személy érdekében eljáró ügyvéd és a törvényes képviselő a védőt követően a vádlotthoz és a polgári jogi igény tekintetében a magánfélhez kérdést intézhetnek.
+
+(4) Az ügy előkészítő ülésen történő befejezésének önmagában nem akadálya, ha az ügyészség a vádiratban a jogi személlyel szemben intézkedés alkalmazását indítványozta.
+
+(5) Ha az eljárás jogi személlyel szembeni intézkedés alkalmazására irányuló része nem intézhető el, akkor a bíróság a vádról – a 2. §-ban meghatározott bűncselekményt érintően elfogadott bűnösséget beismerő nyilatkozat vonatkozásában a Be. 521. §-ának korlátai között – egységesen, tárgyalás alapján határoz.
 
 ### Az első fokú bírósági tárgyalás
 
-17. § (1) A bizonyítási eljárás során a jogi személy 9. § (1) bekezdés szerinti, valamint a törvényes képviselője a védőt követően terjeszthet elő indítványokat és észrevételeket, és a kihallgatottakhoz a védőt követően jogosult kérdéseket feltenni.
+17. § (1) A bizonyítási eljárás során a jogi személy érdekében eljáró ügyvéd, valamint a törvényes képviselő a védőt követően terjeszthet elő indítványokat és észrevételeket, és a kihallgatottakhoz a védőt követően jogosult kérdéseket feltenni.
 
-(2) Ha az ügyész a jogi személlyel szemben az intézkedés alkalmazását a tárgyaláson indítványozza, a bíróság a tárgyalást elnapolja, és a jogi személyt az ügyész indítványáról a tárgyalási jegyzőkönyv másolatával értesíti.
+(2) Ha az ügyész a tárgyalás eredményéhez képest úgy látja, hogy a jogi személlyel szemben alkalmazható intézkedés feltételei fennállnak, a vádirati tényállást módosítja és a jogi személlyel szemben intézkedés alkalmazását indítványozza. A bíróság az ügyészi indítványra figyelemmel a tárgyalást elnapolja, és a jogi személyt a tárgyalási jegyzőkönyv másolatának megküldésével értesíti. Az értesítésnek a 12. § (2) bekezdése szerinti felhívást is tartalmaznia kell.
 
-(3) A (2) bekezdés alapján elnapolt tárgyaláson – ha azon csak a jogi személlyel kapcsolatos ügyészi indítványra vesznek fel bizonyítást – a tárgyalás legutóbbi részéről készült jegyzőkönyvet nem kell ismertetni akkor sem, ha a tárgyalás megszakítása óta nyolc napnál hosszabb idő telt el.
+(3) A (2) bekezdés alapján elnapolt tárgyaláson nem kell ismertetni a tárgyalás korábbi anyagának lényegét, ha azon csak a jogi személlyel szemben alkalmazható intézkedésre irányuló ügyészi indítványra vesznek fel bizonyítást.
 
-(4) Az ügyész a vádbeszédben indokolt indítványt terjeszt elő arra, hogy a bíróság a jogi személlyel szemben milyen intézkedést alkalmazzon, de az intézkedés meghatározott mértékére nem tehet indítványt.
+(4) A Be. 520. § (1)–(7) bekezdésének rendelkezéseit a jogi személy törvényes képviselőjének indítványára is megfelelően alkalmazni kell az első olyan tárgyalási határnapot követően, amelyen jelen volt, vagy jelen lehetett.
 
-(5) A védőbeszéd után a jogi személy 9. § (1) bekezdés szerinti képviselője felszólalhat, és a jogi személyt érintő körben indítványokat és észrevételeket tehet.
+(5) Az ügyész a perbeszédben indokolt indítványt terjeszt elő arra, hogy a bíróság a jogi személlyel szemben milyen intézkedést alkalmazzon, de az intézkedés meghatározott mértékére nem tehet indítványt.
 
-(6) A jogi személy 9. § (1) bekezdés szerinti, valamint a törvényes képviselője a fellebbezési nyilatkozatot a védő nyilatkozata után teheti meg.
+(6) A védő perbeszéde után a jogi személy érdekében eljáró ügyvéd felszólalhat, és a jogi személyt érintő körben indítványokat és észrevételeket tehet.
 
-(7) Ha az ügydöntő határozat a kihirdetésekor nem emelkedik jogerőre, a zár alá vétel tárgyában határozni kell.
+(7) A jogi személy érdekében eljáró ügyvéd, valamint a törvényes képviselő a jogorvoslati nyilatkozatot a védő jogorvoslati nyilatkozata után teheti meg.
 
 ### Az első fokú bíróság ügydöntő határozata
 
-18. § (1) Ha az ügyész a jogi személlyel szemben intézkedés alkalmazását indítványozza, a bíróság ítéletében
+18. § (1) Ha az ügyészség a jogi személlyel szemben intézkedés alkalmazását indítványozza, a bíróság ítéletében
 
 - a) a jogi személlyel szemben intézkedést alkalmaz,
-- b) az indítványt elutasítja,
+- b) az indítványt elutasítja, vagy
 - c) az intézkedés alkalmazását mellőzi, ha az a jogi személyre nézve méltánytalan hátrányt jelentene.
 
-(2) Ha a bíróság azt a vádlottat, akire tekintettel az ügyész a jogi személlyel szemben intézkedés alkalmazását indítványozta, felmenti, vagy vele szemben az eljárást megszünteti, az eljárásnak a jogi személlyel kapcsolatos része megszüntetéséről külön határozatot nem kell hoznia, illetve az ítéletben vagy az eljárást megszüntető végzésben erről nem kell rendelkeznie.
-
-(3) Az eljárásnak a jogi személlyel kapcsolatos része a (2) bekezdés alkalmazásával nem szüntethető meg, ha a jogi személlyel szemben intézkedés alkalmazásának a 3. § (2) bekezdés c) vagy d) pontja alapján helye van.
-
-(4) Az (1) bekezdés c) pontja alkalmazásának nincs helye az e törvény 4. §-a (1) bekezdésének a) és b) pontjában meghatározott esetekben.
+(2) Az (1) bekezdés c) pontja nem alkalmazható a 4. § (1) bekezdés a) és b) pontjában meghatározott esetekben.
 
 ### A bűnügyi költség viselése
 
-19. § A bíróság a jogi személyt – ha vele szemben intézkedést alkalmazott – a felmerült bűnügyi költség azon részének viselésére kötelezi, amely annak folytán merült fel, hogy az eljárás során a jogi személlyel szemben alkalmazható intézkedés szükségességét kellett vizsgálni.
+19. § (1) A bíróság a jogi személyt – ha vele szemben intézkedést alkalmazott – a felmerült bűnügyi költség azon részének viselésére kötelezi, amely annak folytán merült fel, hogy az eljárás során a jogi személlyel szemben alkalmazható intézkedés szükségességét kellett vizsgálni.
+
+(2) A jogi személyt nem lehet kötelezni annak a bűnügyi költségnek a viselésére, amely szükségtelenül merült fel, vagy amelynek viselésére törvény alapján mást kell kötelezni.
+
+(3) Az államot az (1) bekezdés alapján megillető bűnügyi költség megfizetésére halasztás, illetve részletfizetés nem engedélyezhető.
+
+(4) Ha a bíróság a jogi személlyel szembeni intézkedés alkalmazására irányuló indítványt elutasítja, az intézkedés alkalmazását mellőzi, vagy az eljárás jogi személlyel kapcsolatos részét megszünteti, az állam viseli a bűnügyi költséget.
+
+(5) Ha a bíróság azért szüntette meg az eljárás jogi személlyel kapcsolatos részét, mert az ügyészség a jogi személlyel szembeni intézkedés alkalmazására irányuló indítványát visszavonta, az állam az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a jogi személy költségét, továbbá meghatalmazással a jogi személy érdekében eljáró ügyvéd díját és költségét.
 
 ### A másodfokú bírósági eljárás
 
-20. § (1) Az ítéletnek a jogi személyre vonatkozó rendelkezése ellen fellebbezésre az ügyész és a jogi személy 9. § (1) bekezdés szerinti, valamint a törvényes képviselője jogosult, ez utóbbiak csak a jogi személlyel szemben alkalmazott intézkedéssel kapcsolatos ítéleti rendelkezés vagy az ítélet indokolása ellen. A jogi személy terhére az ügyész fellebbezhet.
+20. § (1) Az elsőfokú bíróság ítéletének jogi személyre vonatkozó rendelkezése ellen fellebbezésre az ügyészség, valamint a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő jogosult, ez utóbbiak csak a jogi személlyel szemben alkalmazott intézkedéssel kapcsolatos ítéleti rendelkezés vagy az ítélet indokolása ellen. A jogi személy terhére az ügyészség fellebbezhet.
 
 (2) Ha a fellebbezés kizárólag az ítéletnek a jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezése ellen irányul, a másodfokú bíróság az ítéletnek csak ezt a részét bírálja felül.
 
-(3) Megalapozatlanság [Be. 351. § (2) bek.] esetén a másodfokú bíróság az első fokú bíróságtól eltérő tényállást állapíthat meg, ha a felvett bizonyítás alapján a jogi személlyel szemben alkalmazott intézkedés mellőzésének van helye.
+(3) A másodfokú bíróság a (2) bekezdésben meghatározott esetben is felülbírálja a fellebbezéssel nem érintett 2. §-ban meghatározott bűncselekmény és annak vádlottja vonatkozásában a Be. 590. § (5) bekezdésében foglaltakat.
 
-(4) A másodfokú bírósági eljárásban a jogi személlyel szemben intézkedést alkalmazni, illetve az alkalmazott intézkedést súlyosítani, vagy az első fokú eljárás során alkalmazott intézkedés mellett más intézkedést alkalmazni csak akkor lehet, ha az ügyész a jogi személy terhére fellebbezést jelentett be. A jogi személy terhére bejelentett fellebbezésnek azt kell tekinteni, ami a jogi személlyel szemben intézkedés vagy súlyosabb intézkedés alkalmazására irányul.
+(4) Ha a fellebbezés a 2. §-ban meghatározott bűncselekmény vádlottját érinti, a másodfokú bíróság hivatalból dönt az ítélet jogi személyre vonatkozó rendelkezéséről is.
+
+(5) Nem bírálható felül az ítéletnek a jogi személlyel szembeni intézkedés alkalmazására irányuló indítványt elutasító, az intézkedés alkalmazását mellőző, vagy az eljárás jogi személlyel kapcsolatos részének megszüntetésére vonatkozó rendelkezése, amely ellen nem fellebbeztek.
+
+(6) Ha az elsőfokú bíróság ítélete a jogi személyt érintően részben megalapozatlan, a másodfokú bíróság az elsőfokú bíróságtól eltérő tényállást állapíthat meg, feltéve, hogy a felvett bizonyítás alapján a jogi személlyel szemben intézkedés alkalmazására irányuló indítvány elutasításának, alkalmazott intézkedés mellőzésének, az eljárás jogi személlyel kapcsolatos része megszüntetésének, vagy intézkedés alkalmazásának van helye.
+
+(7) A másodfokú bíróság csak azokkal a tényekkel kapcsolatban értékelheti az elsőfokú bíróságtól eltérően a bizonyítékokat, amelyekre bizonyítást vett fel, kivéve, ha az elsőfokú bíróság által lefolytatott bizonyítást érintő ügyiratok tartalma, vagy ténybeli következtetés alapján a jogi személlyel szemben intézkedés alkalmazására irányuló indítványt elutasítja, az intézkedés alkalmazását mellőzi, vagy az eljárás jogi személlyel kapcsolatos részét megszünteti.
+
+(8) A másodfokú bíróság mellőzi a bizonyítás felvételét olyan tényre nézve, amely a jogi személlyel szemben intézkedés alkalmazására irányuló indítvány elutasítását, alkalmazott intézkedés mellőzését, az eljárás jogi személlyel kapcsolatos részének megszüntetését, vagy intézkedés alkalmazását nem befolyásolta.
+
+(9) A másodfokú bírósági eljárásban a jogi személlyel szemben intézkedést alkalmazni, illetve az alkalmazott intézkedést súlyosítani, vagy az elsőfokú eljárás során alkalmazott intézkedés mellett más intézkedést alkalmazni csak akkor lehet, ha az ügyészség a jogi személy terhére fellebbezést jelentett be. A jogi személy terhére bejelentett fellebbezésnek azt kell tekinteni, ami a jogi személlyel szemben intézkedés vagy súlyosabb intézkedés alkalmazására irányul.
 
 ### A másodfokú bíróság határozatai
 
 21. § (1) Az első fokú bíróság ítéletének a jogi személyre vonatkozó rendelkezése megváltoztatása esetén a másodfokú bíróság a jogi személlyel szemben – ha ilyen rendelkezés nem volt – intézkedést, illetve több vagy más intézkedést is alkalmazhat, továbbá az intézkedés alkalmazását mellőzheti.
 
-(2) A másodfokú bíróság az első fokú bíróság ítéletét hatályon kívül helyezi,
-
-- a) ha az első fokú bíróság a jogi személlyel szemben ügyészi indítvány hiányában alkalmazott intézkedést,
-- b) és az első fokú bíróságot új eljárásra utasítja, ha a Be. 352. §-a alapján ki nem küszöbölhető megalapozatlanság az ítéletnek a jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezését lényegesen befolyásolta.
+(2) A másodfokú bíróság az elsőfokú bíróság ítéletét hatályon kívül helyezi, és az eljárás jogi személlyel kapcsolatos részét nem ügydöntő végzéssel megszünteti, ha az elsőfokú bíróság a jogi személlyel szemben ügyészi indítvány hiányában alkalmazott intézkedést.
 
 (3) Ha a másodfokú bíróság azt a vádlottat, akire tekintettel az első fokú bíróság a jogi személlyel szemben intézkedést alkalmazott, felmenti, vagy az első fokú bíróság ítéletének reá vonatkozó részét hatályon kívül helyezi, és vele szemben az eljárást megszünteti, illetve az első fokú bíróságot új eljárásra utasítja, a másodfokú bíróság az ítéletnek a jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezését is hatályon kívül helyezi, és szükség esetén az első fokú bíróságot új eljárásra utasítja.
 
-(4) A (3) bekezdés esetén az ítéletnek a jogi személyre vonatkozó rendelkezése nem helyezhető hatályon kívül, ha a felmentésre, illetve az eljárás megszüntetésére a 3. § (2) bekezdés c) vagy d) pontja miatt került sor. Ebben az esetben a másodfokú bíróság az elsőfokú bíróság ítéletének jogi személyre vonatkozó rendelkezését hatályában tartja vagy megváltoztatja.
+(4) A (3) bekezdés esetén az ítéletnek a jogi személyre vonatkozó rendelkezése nem helyezhető hatályon kívül, ha a felmentésre, illetve az eljárás megszüntetésére a 3. § (2) bekezdés f)–h) pontjában meghatározott okból került sor. Ebben az esetben a másodfokú bíróság az elsőfokú bíróság ítéletének jogi személyre vonatkozó rendelkezését hatályában tartja vagy megváltoztatja.
 
-(5) Az első fokú ítélet jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezésének hatályon kívül helyezése és az első fokú bíróság új eljárásra utasítása esetén a zár alá vétel elrendeléséről, fenntartásáról vagy megszüntetéséről a másodfokú bíróság határoz. A másodfokú bíróság által elrendelt vagy fenntartott zár alá vétel a megismételt eljárás során hozott ügydöntő határozat kihirdetéséig tart.
+(5)
 
 ### A harmadfokú bírósági eljárás
 
-21/A. § (1) Ha a másodfokú bíróság ítélete ellen a Be. 386. §-ának (1) bekezdése szerint fellebbeztek, a harmadfokú bíróság a megtámadott másodfokú ítéletnek a jogi személyre vonatkozó rendelkezését hivatalból felülbírálja.
+21/A. § (1) Ha a másodfokú bíróság ítélete ellen a Be. 615. §-a szerint fellebbeztek, a harmadfokú bíróság a megtámadott másodfokú ítéletnek a jogi személyre vonatkozó rendelkezését hivatalból felülbírálja, ha a 2. §-ban meghatározott bűncselekményre vonatkozó rendelkezést is felülbírálja.
 
-(2) A harmadfokú bírósági eljárásban a jogi személlyel szemben intézkedést alkalmazni, illetve az alkalmazott intézkedést súlyosítani, vagy a másodfokú eljárás során alkalmazott intézkedés mellett más intézkedést alkalmazni csak akkor lehet, ha az ügyész a jogi személy terhére fellebbezést jelentett be. A jogi személy terhére bejelentett fellebbezésnek azt kell tekinteni, ami a jogi személlyel szemben intézkedés vagy súlyosabb intézkedés alkalmazására irányul.
+(2) A másodfokú bíróság ítéletének kizárólag a jogi személyre vonatkozó rendelkezése ellen akkor van helye fellebbezésnek a harmadfokú bírósághoz, ha a másodfokú bíróság
+
+- a) olyan jogi személlyel szemben alkalmazott intézkedést, akivel szemben az elsőfokú bíróság az ügyészség intézkedés alkalmazására irányuló indítványát elutasította, az intézkedés alkalmazását mellőzte, vagy az eljárás jogi személlyel kapcsolatos részét megszüntette,
+- b) olyan jogi személlyel szemben utasította el az ügyészség intézkedés alkalmazására irányuló indítványát, mellőzte az intézkedés alkalmazását, vagy szüntette meg az eljárás jogi személlyel kapcsolatos részét, amellyel szemben az elsőfokú bíróság intézkedést alkalmazott,
+- c) olyan jogi személlyel szemben alkalmazott intézkedést, akivel szemben az elsőfokú bíróság ítélete nem tartalmazott rendelkezést.
 
 ### A harmadfokú bíróság határozatai
 
 21/B. § (1) Ha a másodfokú bíróság az ítélet jogi személyre vonatkozó rendelkezését megváltoztatja, a harmadfokú bíróság a jogi személlyel szemben – ha ilyen rendelkezés nem volt – intézkedést, illetve több vagy más intézkedést is alkalmazhat, továbbá az intézkedés alkalmazását mellőzheti.
 
-(2) A harmadfokú bíróság a másodfokú bíróság ítéletét hatályon kívül helyezi,
+(2) A harmadfokú bíróság a másodfokú bíróság és az elsőfokú bíróság ítéletét hatályon kívül helyezi, és az eljárás jogi személlyel kapcsolatos részét nem ügydöntő végzéssel megszünteti a 21. § (2) bekezdésében meghatározott esetben.
 
-- a) ha a másodfokú bíróság a jogi személlyel szemben ügyészi indítvány hiányában alkalmazott intézkedést,
-- b) és a másodfokú bíróságot új eljárásra utasítja, ha a Be. 388. §-ának (2) bekezdése alapján ki nem küszöbölhető megalapozatlanság az ítéletnek a jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezését lényegesen befolyásolta.
-
-(3) A harmadfokú bíróság a másodfokú bíróság ítéletének hatályon kívül helyezése mellett az első fokú bíróság ítéletét is hatályon kívül helyezi, ha a (2) bekezdés a) pontjában meghatározott eljárási szabálysértést az elsőfokú bíróság követte el, és a másodfokú bíróság azt nem észlelte.
-
-(4) A (2) bekezdés b) pontja esetén a harmadfokú bíróság szükség esetén az első fokú bíróság ítéletét is hatályon kívül helyezi, és az első fokú bíróságot utasítja új eljárásra.
-
-(5) Ha a harmadfokú bíróság azt a vádlottat, akire tekintettel a másodfokú bíróság a jogi személlyel szemben intézkedést alkalmazott, felmenti, vagy a másodfokú bíróság ítéletének reá vonatkozó részét hatályon kívül helyezi, és vele szemben az eljárást megszünteti, illetve a másodfokú bíróságot új eljárásra utasítja, a harmadfokú bíróság az ítéletnek a jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezését is hatályon kívül helyezi, és szükség esetén a másodfokú bíróságot új eljárásra utasítja.
-
-(6) Az (5) bekezdés esetén az ítéletnek a jogi személyre vonatkozó rendelkezése nem helyezhető hatályon kívül, ha a felmentésre vagy az eljárás megszüntetésére a 3. § (2) bekezdés c) vagy d) pontja miatt került sor. Ebben az esetben a harmadfokú bíróság a másodfokú bíróság ítéletének jogi személyre vonatkozó rendelkezését hatályában tartja vagy megváltoztatja.
-
-(7) A másodfokú ítélet jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezésének hatályon kívül helyezése és a másodfokú bíróság új eljárásra utasítása esetén a zár alá vétel elrendeléséről, fenntartásáról vagy megszüntetéséről a harmadfokú bíróság határoz. A harmadfokú bíróság által elrendelt vagy fenntartott zár alá vétel a megismételt eljárás során hozott ügydöntő határozat kihirdetéséig tart. Ugyanígy jár el a harmadfokú bíróság, ha az első fokú ítélet jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezését is hatályon kívül helyezi.
+(3) A harmadfokú bíróság a másodfokú bíróság, és szükség szerint az elsőfokú bíróság ítéletét hatályon kívül helyezi, és a másodfokú bíróságot vagy az elsőfokú bíróságot új eljárásra utasítja, ha a Be. 619. § (3) bekezdése alapján nem küszöbölhető ki a részleges megalapozatlanság és az az ítéletnek a jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezését lényegesen befolyásolta.
 
 ### A megismételt eljárás
 
 22. § (1) Ha a jogi személy terhére nem jelentettek be fellebbezést, a megismételt eljárásban nem lehet a jogi személlyel szemben intézkedést alkalmazni, ha erre a hatályon kívül helyezett ítéletben sem került sor, illetve nem lehet a hatályon kívül helyezett ítéletben alkalmazott intézkedésnél súlyosabb intézkedést, vagy az alkalmazott intézkedés mellett más intézkedést is alkalmazni.
 
+(1a) Ha az Alkotmánybíróság az ítéletet megsemmisíti, a megismételt eljárásban nem lehet a jogi személlyel szemben intézkedést alkalmazni, ha erre a hatályon kívül helyezett ítéletben sem került sor, illetve nem lehet a hatályon kívül helyezett ítéletben alkalmazott intézkedésnél súlyosabb intézkedést, vagy az alkalmazott intézkedés mellett más intézkedést is alkalmazni.
+
 (2) Az (1) bekezdés nem alkalmazható, ha
 
 - a) az első fokú bíróság ítéletének hatályon kívül helyezésére a 21. § (2) bekezdésében meghatározott okok miatt került sor,
-- b) a másodfokú bíróság ítéletének hatályon kívül helyezésére a 21/B. § (2) bekezdésében meghatározott okok miatt került sor,
-- c) a megismételt eljárásban felmerült új bizonyíték alapján a bíróság olyan új tényt állapít meg, amelynek folytán a jogi személlyel szemben intézkedést, súlyosabb intézkedést, vagy az alkalmazott intézkedés mellett más intézkedést is kell alkalmazni, feltéve, hogy az ügyész ezt indítványozza,
-- d) az ügyész vádkiterjesztése folytán a vádlott bűnösségét más bűncselekményben is meg kell állapítani, és a jogi személlyel szemben ezért kell intézkedést alkalmazni,
+- b) a másodfokú bíróság ítéletének hatályon kívül helyezésére a 21/B. § (2) és (3) bekezdésében meghatározott okok miatt került sor,
+- c) a megismételt eljárásban felmerült új bizonyíték alapján a bíróság olyan új tényt állapít meg, amelynek folytán a jogi személlyel szemben intézkedést, súlyosabb intézkedést, vagy az alkalmazott intézkedés mellett más intézkedést is kell alkalmazni, feltéve, hogy az ügyészség ezt indítványozza,
+- d) az ügyészség vádkiterjesztése folytán a vádlott bűnösségét más bűncselekményben is meg kell állapítani, és a jogi személlyel szemben ezért kell intézkedést alkalmazni,
 - e) az első fokú, illetve a másodfokú bíróság ítéletének hatályon kívül helyezésére a felülvizsgálati eljárásban a terhelt terhére bejelentett felülvizsgálati indítvány folytán került sor, és a jogi személlyel szemben ezért kell intézkedést alkalmazni.
 
 ### A perújítás
 
-23. § (1) Perújításnak az ítélet jogi személyre vonatkozó rendelkezése ellen a Be. 408. §-a (1) bekezdésének c)–e) pontjában meghatározott eseteken kívül akkor van helye, ha
+23. § (1) Perújításnak az ítélet jogi személyre vonatkozó rendelkezése ellen a Be. 637. § (1) bekezdés d), e) és g) pontjában meghatározott eseteken kívül akkor van helye, ha
 
-- a) az alapügyben akár felmerült, akár fel nem merült tényre vonatkozó olyan új bizonyítékot hoznak fel, amely valószínűvé teszi, hogy 1. a jogi személlyel szemben alkalmazott intézkedést mellőzni kell, vagy enyhébb intézkedést kell alkalmazni, 2. a jogi személlyel szemben intézkedést, vagy súlyosabb intézkedést kell alkalmazni,
-- b) a jogi személlyel szemben ugyanazon terhelt cselekményével összefüggésben több ítélet alkalmazott intézkedést.
+- a) az alapügyben akár felmerült, akár fel nem merült tényre vonatkozó olyan új bizonyítékot hoznak fel, amely valószínűvé teszi, hogy
+  - aa) a jogi személlyel szemben alkalmazott intézkedést mellőzni kell, lényegesen enyhébb intézkedést kell alkalmazni, az ügyészség intézkedés alkalmazására irányuló indítványát el kell utasítani, vagy az eljárás jogi személlyel kapcsolatos részét meg kell szüntetni, vagy
+  - ab) a jogi személlyel szemben intézkedést, más intézkedést is vagy lényegesen súlyosabb intézkedést kell alkalmazni,
+- b) a jogi személlyel szemben ugyanazon terhelt cselekményével összefüggésben több ítélet alkalmazott intézkedést,
+- c) a jogi személy az ügydöntő határozatban nem a bírósági nyilvántartásban szereplő valódi adatokkal szerepel és ez a határozat kijavításával nem orvosolható.
 
 (2) Ha a perújítást azon vádlott vonatkozásában rendelték el, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a perújítás elrendelése az ítélet jogi személyre vonatkozó rendelkezésére is kihat. Ha a bíróság megállapítja, hogy a perújítás alapos, és új ítéletet hoz, a 3. § rendelkezései az új ítélet kapcsán is alkalmazandók.
 
-(3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen perújítási indítványt az ügyész és a jogi személy képviselője terjeszthet elő.
+(3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen perújítási indítványt az ügyészség, a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő terjeszthet elő.
 
 ### A felülvizsgálat
 
-24. § (1) Felülvizsgálatnak az ítélet jogi személyre vonatkozó rendelkezése ellen a Be. 416. §-a (1) bekezdésének c) pontjában meghatározott eseten kívül akkor van helye, ha a jogi személlyel szemben az intézkedés alkalmazására vagy annak mellőzésére a büntető anyagi jog, vagy e törvény szabályainak megsértése miatt került sor.
+24. § (1) Felülvizsgálatnak az ítélet jogi személyre vonatkozó rendelkezése ellen a Be. 649. § (2)–(5) bekezdésében meghatározott eseten kívül akkor van helye, ha a jogi személlyel szemben az intézkedés alkalmazására, annak mellőzésére, az intézkedés alkalmazására irányuló indítvány elutasítására vagy az eljárás jogi személlyel kapcsolatos részének megszüntetésére a büntető anyagi jog, vagy e törvény szabályainak megsértése miatt került sor.
 
 (2) Ha a felülvizsgálatnak azon vádlott vonatkozásában van helye, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a felülvizsgálat kiterjed az ítélet jogi személyre vonatkozó rendelkezésére is. A 3. § rendelkezései a felülvizsgálati eljárás során, illetve a megismételt eljárás során hozott határozat kapcsán is alkalmazandók.
 
-(3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen felülvizsgálati indítvány benyújtására az ügyész – a jogi személlyel szemben intézkedés alkalmazása érdekében hat hónapon belül – és a jogi személy képviselője jogosult.
+(3) Az ítéletnek kizárólag a jogi személyre vonatkozó rendelkezése ellen felülvizsgálati indítvány benyújtására az ügyészség – a jogi személlyel szemben intézkedés alkalmazása érdekében hat hónapon belül – valamint a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő jogosult.
 
 (4) A Kúria a megtámadott határozat jogi személyre vonatkozó rendelkezését hatályon kívül helyezi, és a korábban eljárt bíróságot új eljárásra utasítja, ha
 
-- a) a másodfokú bíróság ügydöntő határozatát az (1) bekezdésben írt jogszabálysértéssel hozta,
-- b) a (2) bekezdés alapján azon vádlott esetében, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, hatályon kívül helyező rendelkezést hozott.
+- a) az elsőfokú, vagy másodfokú bíróság ügydöntő határozatát az (1) bekezdésben meghatározott módon hozta,
+- b) a harmadfokú bíróság az ügydöntő határozatát az (1) bekezdésben meghatározott eljárási szabálysértéssel hozta,
+- c) a (2) bekezdés alapján azon vádlott esetében, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, hatályon kívül helyező rendelkezést hozott.
 
-(5) A Kúria maga is hozhat a törvénynek megfelelő határozatot, ha a jogi személlyel szemben alkalmazott intézkedés mellőzésének van helye.
+(5) A Kúria maga is hozhat a törvénynek megfelelő határozatot, ha a jogi személlyel szemben alkalmazott intézkedés mellőzésének, az intézkedés alkalmazására irányuló indítvány elutasításának vagy az eljárás jogi személlyel kapcsolatos része megszüntetésének van helye.
 
-(6) A (4) bekezdés b) pontja esetén az ítélet jogi személyre vonatkozó rendelkezését nem kell hatályon kívül helyezni, ha a Be. 427. §-ának (1) bekezdése alapján a Kúria maga hoz a törvénynek megfelelő határozatot.
+(6) A (4) bekezdés c) pontja esetén az ítélet jogi személyre vonatkozó rendelkezését nem kell hatályon kívül helyezni, ha az (5) bekezdés vagy a Be. 662. § (2) bekezdése alapján a Kúria maga hoz a törvénynek megfelelő határozatot.
 
-(7) Nincs helye felülvizsgálatnak az (1) bekezdés esetén, ha az ügyben harmadfokú bíróság hozott ügydöntő határozatot.
+(7) Nincs helye felülvizsgálatnak a büntető anyagi jog szabályainak megsértése miatt a harmadfokú bíróság jogerős ügydöntő határozatának a jogi személyre vonatkozó rendelkezése ellen.
 
 ### Jogorvoslat a törvényesség érdekében, a jogegységi eljárás
 
 25. § (1) Ha a legfőbb ügyész azon vádlott vonatkozásában jelent be a törvényesség érdekében jogorvoslatot, akire tekintettel a jogi személlyel szemben intézkedést alkalmaztak, a jogorvoslati eljárás kiterjed az ítélet jogi személyre vonatkozó rendelkezésére is. A 3. § rendelkezései azonban a törvényesség érdekében bejelentett jogorvoslat alapján hozott határozat kapcsán is alkalmazandók.
 
-(2) Ha az elvi kérdésben adott iránymutatásból következően a jogegységi határozattal érintett jogerős bírósági határozatnak a jogi személlyel szemben alkalmazott intézkedése törvénysértő, a jogegységi tanács a törvénysértő rendelkezést hatályon kívül helyezi, és a jogi személlyel szemben alkalmazott intézkedést mellőzi.
+(2) A Kúria a törvénysértés megállapítása esetén a jogi személlyel szemben alkalmazott intézkedést mellőzheti, vagy az eljárás jogi személlyel kapcsolatos részét megszüntetheti, illetve ilyen határozat meghozatala érdekében a sérelmezett határozatot hatályon kívül helyezheti, és szükség esetén az eljárt bíróságot új eljárásra utasíthatja.
+
+(3) A (2) bekezdésben meghatározott eseteken kívül a Kúria határozata csak a törvénysértést állapíthatja meg.
+
+(4) Ha az elvi kérdésben adott iránymutatásból következően a jogegységi határozattal érintett jogerős bírósági határozatnak a jogi személlyel szemben alkalmazott intézkedése törvénysértő, a jogegységi tanács a törvénysértő rendelkezést hatályon kívül helyezi, és a jogi személlyel szemben alkalmazott intézkedést mellőzi, vagy az eljárás jogi személlyel kapcsolatos részét megszünteti.
 
 ### A bíróság elé állítás
 
 25/A. § Az ügyész a terheltet nem állíthatja bíróság elé, ha a rendelkezésre álló bizonyítékok alapján adat merült fel arra, hogy a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye.
 
-### Eljárás a távollévő terhelttel szemben
+25/B. §
 
-25/B. § (1) Távollévő terhelttel szembeni eljárás esetén is a 12. § rendelkezéseit kell alkalmazni.
+### Eljárás egyezség esetén
 
-(2) Ha a nyomozás adatai alapján a jogi személlyel szemben e törvény szerint intézkedés alkalmazásának lehet helye, az ügyész a vádiratban a jogi személlyel szemben intézkedés alkalmazását is indítványozza.
+25/C. § (1) A Be. LXV. Fejezete szerinti egyezség megkötésének önmagában nem akadálya, ha a rendelkezésre álló bizonyítékok alapján adat merült fel arra, hogy a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye, de a jogi személlyel szemben alkalmazható intézkedés nem képezheti az egyezség tárgyát.
 
-### Lemondás a tárgyalásról
+(2) Ha a Be. XCIX. Fejezete szerint folytatott bírósági eljárásban a vádirat előterjesztése után a bíróság azon vádlott vonatkozásában tagadja meg az egyezség jóváhagyását, akire tekintettel az ügyészség a jogi személlyel szembeni intézkedés alkalmazására tett indítványt, akkor a bíróság rendelkezése kiterjed az eljárás jogi személlyel kapcsolatos részére is.
 
-25/C. § Az ügyész nem indítványozhatja, hogy a büntetőeljárást a tárgyalásról lemondás szabályai alapján folytassák le, ha a rendelkezésre álló bizonyítékok alapján adat merült fel arra, hogy a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye.
+(3) Ha a bíróság – azon vádlott vonatkozásában, akire tekintettel az ügyészség a jogi személlyel szembeni intézkedés alkalmazására tett indítványt – jóváhagyja az egyezséget, akkor az ügy előkészítő ülésen történő befejezésének önmagában nem akadálya, hogy az ügyészség a vádiratban a jogi személlyel szemben intézkedés alkalmazását indítványozta.
 
-### A tárgyalás mellőzése
+(4) Ha az eljárás jogi személlyel szembeni intézkedés alkalmazására irányuló része az előkészítő ülésen nem intézhető el, a bíróság a vádról – a 2. §-ban meghatározott bűncselekményt érintően jóváhagyott egyezség vonatkozásában a Be. 736. § (2)–(5) bekezdésében meghatározott korlátok között – egységesen, tárgyalás alapján határoz.
 
-25/D. § Az ügyész nem indítványozhatja a tárgyalás mellőzését, ha a rendelkezésre álló bizonyítékok alapján adat merült fel arra, hogy a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye.
+### A büntetővégzés meghozatalára irányuló eljárás
+
+25/D. § (1) Ha a rendelkezésre álló bizonyítékok alapján adat merült fel arra, hogy a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye, az ügyészség a büntetővégzés meghozatalára irányuló eljárásban is indítványozhatja az intézkedés alkalmazását, feltéve, hogy az eljárás jogi személlyel kapcsolatos részének megítélése is egyszerű.
+
+(2) A bíróság a büntetővégzésben a jogi személlyel szemben alkalmazható intézkedésekről is rendelkezhet.
+
+(3) A büntetővégzés rendelkező része a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő felé is megfelelően tartalmazza a Be. 742. és 744. §-ában foglaltakra való figyelmeztetést.
+
+(4) A büntetővégzés kézbesítésétől számított nyolc napon belül a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő is kérheti tárgyalás tartását, a jogi személyre vonatkozó rendelkezés vagy e rendelkezés indokolása miatt.
+
+(5) Az előkészítő ülésre és a tárgyalásra a Be. C. Fejezetének rendelkezéseit a (6)–(8) bekezdésben meghatározott eltéréssel kell megfelelően alkalmazni.
+
+(6) Ha a tárgyalás tartása iránti indítvány kizárólag a büntetővégzésnek a jogi személlyel szemben alkalmazott intézkedésre vonatkozó rendelkezését sérelmezte, a bíróság csak ebben a kérdésben határoz.
+
+(7) A bíróság a jogi személy terhére szóló indítvány hiányában akkor alkalmazhat hátrányosabb intézkedést, ha a tárgyaláson új bizonyíték merül fel, és ennek alapján a bíróság olyan új tényt állapít meg, amelynek folytán súlyosabb minősítést kell alkalmazni, vagy jelentős mértékben súlyosabb intézkedést kell alkalmazni.
+
+(8) A tárgyaláson hozott ügydöntő határozat ellen a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő is fellebbezhet, a jogi személyre vonatkozó rendelkezés vagy e rendelkezés indokolása miatt.
 
 ### A bíróság feladatai a határozatok végrehajtása során
 
@@ -361,27 +398,27 @@ haladéktalanul értesíti azt a bíróságot, amely a jogi személyt nyilvánta
 
 (3) A jogi személy vagyonát érintően végrehajtott vagyonelkobzás esetén is irányadó a Polgári Törvénykönyvnek az állam határozattal, kártalanítás nélküli tulajdonszerzésére vonatkozó felelősségi szabálya.
 
-(4) A nyilvántartást vezető bíróság megszűntnek nyilvánítás esetén törli a jogi személyt a nyilvántartásból és abban feltünteti, hogy a törlésre hivatalból került sor. A tevékenység korlátozása esetén a nyilvántartást vezető bíróság a nyilvántartásban a határozat szerinti tevékenység korlátozását tünteti fel.
+(4)
 
 (5) Ha a jogi személlyel szemben alkalmazott pénzbírság behajtására bírósági végrehajtási eljárás indult, és annak megindulásától számított hat hónapon belül a végrehajtás nem vezetett eredményre, a bírósági végrehajtó erről írásban értesíti az intézkedést alkalmazó bíróságot. A bíróság haladéktalanul kezdeményezi a jogi személlyel szemben a felszámolási eljárást.
 
-(6) Ha a 11. § (4) bekezdése alapján zár alá vett dolog, vagyoni értékű jog, követelés vagy szerződés alapján kezelt pénzeszköz helyébe meghatározott összeg lépett, az eljárás megszüntetésekor vagy az ügydöntő határozatban rendelkezni kell a letéti számlán elhelyezett összegnek – a jogi személy ellen elrendelt felszámolási eljárásban kirendelt felszámoló értesítésével – a jogi személy számlájára történő átutalásáról.
+(6) Ha a 11. § (5) bekezdése alapján került sor a zár alá vételre és a zár alá vétel tárgya helyébe meghatározott összeg lépett, az eljárás megszüntetésekor vagy az ügydöntő határozatban rendelkezni kell a letéti számlán elhelyezett összegnek – a jogi személy ellen elrendelt felszámolási eljárásban kirendelt felszámoló értesítésével – a jogi személy számlájára történő átutalásáról.
 
-### Eljárás a nyomozás felfüggesztése, megszüntetése esetén
+### Eljárás a büntetőeljárás felfüggesztése, megszüntetése esetén
 
-26/A. § (1) Ha a nyomozást az ügyész vagy a nyomozó hatóság a 3. § (2) bekezdésében foglalt valamely ok miatt függeszti fel vagy szünteti meg, de a nyomozás során adat merült fel arra vonatkozóan, hogy a jogi személlyel szemben intézkedés alkalmazásának lehet helye, az ügyész indítványára az intézkedés alkalmazásáról az a bíróság határoz, amely az elkövetett bűncselekmény elbírálására hatáskörrel és illetékességgel rendelkezik. Ha ez nem állapítható meg, az intézkedés alkalmazásáról az a bíróság határoz, amelynek illetékességi területén a jogi személy székhelye található.
+26/A. § (1) Ha az ügyészség vagy a nyomozó hatóság a 3. § (2) bekezdésében foglalt valamely ok miatt függeszti fel vagy szünteti meg az eljárást, de a nyomozás során adat merült fel arra vonatkozóan, hogy a jogi személlyel szemben intézkedés alkalmazásának lehet helye, az ügyészség indítványára az intézkedés alkalmazásáról az a bíróság határoz, amely az elkövetett bűncselekmény elbírálására hatáskörrel és illetékességgel rendelkezik. Ha ez nem állapítható meg, az intézkedés alkalmazásáról az a bíróság határoz, amelynek illetékességi területén a jogi személy székhelye található.
 
-(2) Ha a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye, az eljárást a 2. §-ban meghatározott személlyel szemben folytatott nyomozás megszüntetését vagy felfüggesztését követően – szükség szerint – az annak alapjául szolgáló bűncselekmény és a jogi személy kapcsolatának felderítése vonatkozásában kell folytatni.
+(2) Ha a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye, az eljárást a 2. §-ban meghatározott személlyel szemben folytatott eljárás megszüntetését vagy felfüggesztését követően – szükség szerint – az annak alapjául szolgáló bűncselekmény és a jogi személy kapcsolatának felderítése vonatkozásában kell folytatni.
 
-(3) Az ügyész vagy a nyomozó hatóság legkésőbb a (2) bekezdésben említett nyomozás megszüntetéséig vagy felfüggesztéséig értesíti a jogi személyt arról, hogy a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és egyben felhívja, hogy a 9. § (1) bekezdése szerinti képviseletéről gondoskodjon. A 9. § (3) bekezdése esetén az ügyész vagy a nyomozó hatóság hivatalból rendel ki képviselőt.
+(3) A döntést hozó ügyészség vagy a nyomozó hatóság legkésőbb a (2) bekezdés szerinti eljárás megszüntetésétől vagy felfüggesztésétől számított nyolc napon belül értesíti a jogi személyt arról, hogy a büntetőeljárás során a jogi személlyel szemben intézkedés alkalmazásának lehet helye. Az értesítésben arra is fel kell hívni a jogi személy figyelmét, hogy ha nem hatalmaz meg a jogi személy érdekében eljáró ügyvédet, akkor a nyomozó hatóság vagy az ügyészség rendel ki jogi személy érdekében eljáró ügyvédet.
 
-(4) A bíróság határozata ellen fellebbezésnek nincs helye, de az ügyész, a jogi személy képviselője és az, akire a határozat rendelkezést tartalmaz, a végzés kézbesítésétől számított nyolc napon belül tárgyalás tartását kérheti.
+(4) A bíróság a jogi személlyel szemben a 3. § (1) bekezdése alapján alkalmazható intézkedésről tárgyalás mellőzésével, az ügyiratok alapján határoz. A bíróság határozata ügydöntő határozat.
 
-(5) A tárgyalásról értesíteni kell az ügyészt és a jogi személy képviselőjét.
+(5) A határozat rendelkező része a jogi személy érdekében eljáró ügyvéd és a törvényes képviselő felé megfelelően tartalmazza a Be. 742. és 744. §-ában foglaltakra való figyelmeztetést.
 
-(6) A tárgyalásra a Be. XXVII. Fejezet rendelkezései értelemszerűen irányadók. A tárgyaláson hozott határozat ellen a jogi személy 9. § (1) bekezdés szerinti, valamint törvényes képviselője is fellebbezhet; a fellebbezésnek halasztó hatálya van.
+(6) A határozat ellen fellebbezésnek nincs helye, de az ügyészség, a jogi személy érdekében eljáró ügyvéd és törvényes képviselő a végzés kézbesítésétől számított nyolc napon belül tárgyalás tartását kérheti.
 
-(7) A nyomozás felfüggesztése, megszüntetése esetére irányadó bírósági eljárással kapcsolatban a Be. 555. § (2) bekezdés c)–f) pontjában foglalt szabályok megfelelően irányadók.
+(7) Az előkészítő ülésre és a tárgyalásra a Be. C. Fejezetét a 25/D. § (7) és (8) bekezdésében meghatározott eltéréssel kell megfelelően alkalmazni.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

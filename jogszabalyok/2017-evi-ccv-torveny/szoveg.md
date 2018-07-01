@@ -72,12 +72,14 @@ egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatás
 
 146–147. §
 
-148. §
+148. § Az Evt. 108. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az erdészeti hatóság erdővédelmi bírságot szab ki arra, aki jogszabályban vagy közvetlenül alkalmazandó közösségi jogi aktusban megállapított faanyag-kereskedelmi lánchoz tartozó tevékenységgel kapcsolatos előírást, illetve az erdészeti hatóság zárlati intézkedést elrendelő döntését megszegi.”
 
 149. § Hatályát veszti az Evt.
 
 - a)
-- b)
+- b) 108. § (5) és (6) bekezdése.
 
 #### 11. A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló2011. évi CLXVIII. törvény módosítása
 

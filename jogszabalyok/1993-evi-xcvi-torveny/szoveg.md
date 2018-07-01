@@ -419,7 +419,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
   - aa) nem pénztártag és nem töltötte be 18. életévét,
   - ab) büntetett előéletű,
   - ac) büntetlen előéletű, de büntetőjogi felelősségét a bíróság 1. a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezet III. címében meghatározott visszaélés minősített adattal, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, a XV. fejezet VII. címében meghatározott közélet tisztasága elleni bűncselekmény, VIII. címében meghatározott nemzetközi közélet tisztasága elleni bűncselekmény, bűnszervezetben részvétel, önbíráskodás, a XVI. fejezet III. címében meghatározott közbizalom elleni bűncselekmény, a XVII. fejezetben meghatározott gazdasági bűncselekmény, a XVIII. fejezetben meghatározott vagyon elleni bűncselekmény, 2. a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XXVII. Fejezetében meghatározott korrupciós bűncselekmény, bűnszervezetben részvétel, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, amíg az e tényre vonatkozó adat kezelését a bűnügyi nyilvántartási rendszerben a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény elrendeli,
-  - ad) az ac) alpontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll, valamint
+  - ad) az ac) alpontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll, valamint
   - ae) gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll;
 - b) az ellenőrző bizottság tagja pénztártagként vagy a munkáltató(k) képviselőjeként az a személy lehet, akivel szemben az a) pontban meghatározott kizáró ok nem áll fenn;
 - c) nem lehet vezető tisztségviselő, valamint a pénztár ügyvezetője (helyettes ügyvezetője) az a személy sem,
@@ -842,7 +842,7 @@ kell helyezni.
 - a) Felügyelettel,
 - b) az Állami Számvevőszékkel,
 - c) a pénztárak működése törvényességének ellenőrzésére jogosult ügyészséggel,
-- d) a folyamatban levő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését végző nyomozó hatósággal, ügyészséggel,
+- d) a folyamatban levő büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal és pénztártitok esetén az előkészítő eljárást folytató szervvel,
 - e) külön törvényben meghatározott feltételek megléte esetén a titkos információ gyűjtésre felhatalmazott szervvel,
 - f) a hagyatéki ügyben eljáró közjegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
@@ -854,7 +854,7 @@ kell helyezni.
 - m) alapvető jogok biztosával,
 - n) a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 
-szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
+szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megkeresése esetén.
 
 (2) A pénztártitok csak akkor adható ki harmadik személynek, ha
 
@@ -863,7 +863,7 @@ szemben, e szerveknek a pénztárhoz intézett írásbeli megkeresése esetén.
 
 (3) Aki üzleti titok vagy pénztártitok birtokába jut, nem használhatja fel arra, hogy annak révén saját maga vagy más személy részére közvetlen vagy közvetett módon előnyt szerezzen, továbbá, hogy a pénztárnak vagy a pénztártagoknak hátrányt okozzon.
 
-(4) A pénztár a nyomozó hatóságot a ,,halaszthatatlan intézkedés'' jelzéssel ellátott, külön jogszabályban előírt ügyészi jóváhagyást nélkülöző megkeresésére is köteles tájékoztatni az általa kezelt, az adott üggyel összefüggő, üzleti titoknak vagy pénztártitoknak minősülő adatokról.
+(4) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a pénztár az ügyészség engedélye nélkül is köteles az általa kezelt, pénztártitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 (5)–(7)
 

@@ -44,9 +44,9 @@ Az Országgyűlés az Alaptörvény végrehajtására, az Alaptörvény 12. cikk
 
 (9) A köztársasági elnök által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Hivatal gazdasági ügyekért felelős vezetője a volt köztársasági elnök és családtagja vagyonnyilatkozatát a köztársasági elnök megbízatásának megszűnését követő egy évig őrzi.
 
-#### 3. A köztársasági elnök személyi védelme
+#### 3. A köztársasági elnök személyvédelme
 
-7. § A köztársasági elnök – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyi védelemre jogosult.
+7. § A köztársasági elnök – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.
 
 #### 4. A köztársasági elnök tiszteletdíja
 

@@ -77,7 +77,7 @@ azonosítása.
 
 (4)–(5)
 
-4/A. § (1) Ha a bűnügyi nyilvántartási rendszer részére történő adatközlés alapján megállapítható, hogy olyan bűncselekmény miatt indult vagy folyik az érintettel szemben eljárás, illetve olyan jogerős ítéletet hoztak vele szemben, amely miatt ujj- és tenyérnyomat, illetve DNS-profil nyilvántartásba vétele érdekében mintavételnek van helye, a bűnügyi nyilvántartó szerv
+4/A. § (1) Ha a bűnügyi nyilvántartási rendszer részére történő adatközlés alapján megállapítható, hogy olyan bűncselekmény miatt indult vagy folyik az érintettel szemben eljárás, illetve olyan jogerős ügydöntő határozatot hoztak vele szemben, amely miatt ujj- és tenyérnyomat, illetve DNS-profil nyilvántartásba vétele érdekében mintavételnek van helye, a bűnügyi nyilvántartó szerv
 
 - a) az ujj- és tenyérnyomat, illetve a DNS-profil nyilvántartásba vétele szükségességének tényéről,
 - b) az érintett
@@ -88,7 +88,7 @@ azonosítása.
   - be) anyja születési családi és utónevéről, továbbá annak megváltoztatása esetén anyja előző születési családi és utónevéről,
 - c) a büntetőüggyel kapcsolatban
   - ca) folyamatban lévő büntetőeljárás esetén az eljáró bíróság, ügyészség, nyomozó hatóság megnevezéséről, a büntetőeljárás alapjául szolgáló bűncselekmény megalapozott gyanú szerinti megnevezéséről és a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) vagy a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti minősítéséről, a megalapozott gyanú közlésének időpontjáról, valamint a büntetőügy iktatószámáról, vagy
-  - cb) jogerős, bűnösséget megállapító ítélet esetén az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezéséről, határozatának számáról és keltéről, a határozat jogerőre emelkedésének napjáról, a jogerős ítéletben a bíróság által megállapított bűncselekmény megnevezéséről és a bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítéséről,
+  - cb) jogerős, bűnösséget megállapító ügydöntő határozat esetén az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezéséről, határozatának számáról és keltéről, a határozat jogerőre emelkedésének napjáról, a jogerős ügydöntő határozatban a bíróság által megállapított bűncselekmény megnevezéséről és a bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítéséről,
 - d) a kapcsolati kódról, és
 - e) ha rendelkezésre áll, a belső azonosító kódról
 
@@ -123,16 +123,16 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 6. § (1) A személyazonosító adatok és fényképek nyilvántartásában az érintett arcképmását nyilván kell tartani, ha
 
-- a) bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás alá vonták, vagy
-- b) a bíróság vele szemben bűnösséget megállapító jogerős ítéletet hozott.
+- a) bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vonták, vagy
+- b) a bíróság vele szemben bűnösséget megállapító jogerős ügydöntő határozatot hozott.
 
 (2) Nem kell nyilvántartani annak az arcképmását,
 
-- a) akivel szemben magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján indult eljárás, függetlenül attól, hogy az ügyész átvette-e a vád képviseletét,
-- b) akivel szemben pótmagánvádló vádindítványa alapján indult eljárás, továbbá
-- c) akinek katonai bűncselekménye miatt a katonai ügyész a feljelentést elutasította, és az elbírálást fegyelmi eljárásra utalta.
+- a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
+- b) akivel szemben pótmagánvádas eljárás indult, továbbá
+- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
 
-(3) Az érintett arcképmását az a nyomozó hatóság vagy ügyészség küldi meg a bűnügyi nyilvántartó szervnek, amelyik a gyanúsítottat büntetőeljárás alá vonta.
+(3) Az érintett arcképmását az a nyomozó hatóság vagy ügyészség küldi meg a bűnügyi nyilvántartó szervnek, amelyik a megalapozott gyanút a gyanúsítottal közölte.
 
 (4) A bűncselekmény miatt jogerősen végrehajtandó szabadságvesztés büntetésre ítélt személy arcképmását az elítéltet befogadó büntetés-végrehajtási intézet az érintett befogadását követően megküldi a bűnügyi nyilvántartó szervnek.
 
@@ -156,7 +156,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 9. § A bűntettesek nyilvántartásában szereplő adatok kezelésének célja:
 
-- a) a büntetőügyben eljáró bíróság ítéletében foglalt büntetés és intézkedés végrehajtásának elősegítése,
+- a) a büntetőügyben eljáró bíróság ügydöntő határozatában foglalt büntetés és intézkedés végrehajtásának elősegítése,
 - b) a büntetett előélet tényének igazolása
   - ba) bűnmegelőzési, bűnüldözési, igazságszolgáltatási és nemzetbiztonsági érdekek védelme,
   - bb) az érintett jogai gyakorlásának elősegítése, valamint
@@ -164,20 +164,20 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 érdekében.
 
-10. § A bűntettesek nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és az ítélet jogerőre emelkedése napján az 1978. évi IV. törvény vagy a Btk. alapján nem mentesült.
+10. § A bűntettesek nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben a bíróság bűnösséget megállapító jogerős ügydöntő határozatot hozott, és annak jogerőre emelkedése napján az 1978. évi IV. törvény vagy a Btk. alapján nem mentesült.
 
 11. § (1) A bűntettesek nyilvántartása tartalmazza
 
 - a) a kapcsolati kódot;
 - b)
-- c) bűnösséget megállapító jogerős ítéletben a bíróság által megállapított
+- c) bűnösséget megállapító jogerős ügydöntő határozatban a bíróság által megállapított
   - ca) bűncselekmény megnevezését,
   - cb) bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
   - cc) elkövetői és elkövetési alakzatot,
   - cd) bűncselekmény elkövetésének helyét, idejét,
   - ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszörös visszaeső vagy erőszakos többszörös visszaeső,
   - cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
-- d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
+- d) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
 - e) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás vagy tevékenység megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését); a kiszabott mellékbüntetés nemét és mértékét; a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját; a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját; a korábbi felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetés próbaideje meghosszabbodása esetén ennek tényét, a meghosszabbodott próbaidő tartamát és leteltének napját, a felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját; a javítóintézeti nevelés hátralévő részének szabadságvesztésre történő átváltoztatása esetén a javítóintézeti nevelést alkalmazó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - f) a büntetés mellett alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, jóvátételi munka helyett büntetés kiszabása esetén a jóvátételi munkát elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - g) összbüntetésbe foglalás esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
@@ -192,7 +192,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
   - ke) a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartamát, továbbá a külföldön történt büntetés-végrehajtással kapcsolatos adatok közül a foganatba vétel időpontját, a feltételes szabadságra bocsátás napját, a büntetés vagy intézkedés kitöltésének időpontját, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját, a korábbi felfüggesztett vagy részben felfüggesztett büntetés végrehajtásának elrendelése esetén a felfüggesztett vagy részben felfüggesztett büntetést kiszabó külföldi bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját,
   - kf) a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén ennek tényét, az elismert vagy megfeleltetett és átvett szabadságvesztés időtartamát,
   - kg) a törvényi mentesítés várható időpontját;
-- l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
+- l) a nyilvántartásba vételt követően lefolytatott egyszerűsített felülvizsgálati eljárás, különleges eljárás vagy a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) szerinti bírósági eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
 - m)
 
 (2) A büntetés-végrehajtási adatok közül a bűntettesek nyilvántartása tartalmazza
@@ -209,11 +209,11 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 (1b) Ha a 11. § (1) bekezdés k) pont ke) alpontjában meghatározott, a külföldi ítéletben vagy a tagállami ítéletben kiszabott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adat nem áll az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság rendelkezésére, a bűnügyi nyilvántartó szerv a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését követően a külföldi hatóságtól adatközlés útján megkapott, illetve a külföldi hatóságtól származó, hiteles irattal igazolt végrehajtási adatokat bejegyzi a nyilvántartásba. Ha a foganatba vétel időpontja nem ismert, a külföldi ítélet vagy a tagállami ítélet jogerőre emelkedésének a napját kell a foganatba vétel időpontjának tekinteni.
 
-(2) A 11. § (1) bekezdés h) pontjában meghatározott adatokat az alapügyben első fokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel.
+(2) A 11. § (1) bekezdés h) pontjában meghatározott adatokat az alapügyben elsőfokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (2a) A 11. § (1) bekezdés i) pontjában, valamint, ha az elítélt beszámítással kitöltötte a feltételes szabadságra bocsátáshoz szükséges időtartamot, feltételes szabadságra bocsátás esetén a 11. § (2) bekezdés b) pontjában meghatározott adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
-(3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
+(3) A 11. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját az egyszerűsített felülvizsgálati eljárásban, különleges eljárásban vagy a Bv. tv. szerinti bírósági eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (4) A 11. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint ha a bíróság a bűnügyi nyilvántartó szervvel korábban nem közölte, a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
 
@@ -229,7 +229,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 14. § A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyekre vonatkozó adatok nyilvántartásának célja:
 
-- a) a büntetőügyben eljáró bíróság ítéletében foglalt büntetés és intézkedés végrehajtásának elősegítése;
+- a) a büntetőügyben eljáró bíróság ügydöntő határozatában foglalt büntetés és intézkedés végrehajtásának elősegítése;
 - b) a hátrányos jogkövetkezmények végrehajtásának biztosítása
   - ba) bűnmegelőzési, bűnüldözési, igazságszolgáltatási és nemzetbiztonsági érdekek védelme,
   - bb) az érintett jogai gyakorlásának elősegítése, valamint
@@ -240,10 +240,10 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 15. § A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában annak az adatait kell nyilvántartani,
 
 - a) akinek az adatait a bűntettesek nyilvántartásából a mentesítés folytán törölték,
-- b) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, és az ítélet jogerőre emelkedésének napján mentesült,
-- c) akivel szemben a bíróság bűnösséget megállapító jogerős ítéletet hozott, de büntetés kiszabását mellőzte,
+- b) akivel szemben a bíróság bűnösséget megállapító jogerős ügydöntő határozatot hozott, és annak jogerőre emelkedésének napján mentesült,
+- c) akivel szemben a bíróság bűnösséget megállapító jogerős ügydöntő határozatot hozott, de büntetés kiszabását mellőzte,
 - d) akivel szemben a bíróság megrovás, próbára bocsátás, jóvátételi munka vagy kényszergyógykezelés intézkedést, illetve akivel szemben a bíróság terheltként elkobzás, vagyonelkobzás vagy elektronikus adat végleges hozzáférhetetlenné tétele intézkedést alkalmazott, valamint
-- e) akit az ügyész megrovásban részesített.
+- e) akivel szemben az ügyészség megrovást alkalmazott.
 - f)
 - g)
 
@@ -251,7 +251,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 - a) a kapcsolati kódot;
 - b)
-- c) a jogerős ítéletben a bíróság által megállapított
+- c) a jogerős ügydöntő határozatban a bíróság által megállapított
   - ca) bűncselekmény megnevezését,
   - cb) bűncselekménynek az 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
   - cc) elkövetői és elkövetési alakzat megjelölését,
@@ -259,7 +259,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
   - ce) azt a tényt, hogy az elítélt visszaeső, különös visszaeső, többszörös visszaeső vagy erőszakos többszörös visszaeső,
   - cf) azt a tényt, hogy a bűncselekményt az elítélt bűnszervezet tagjaként követte el;
 - d) a megrovást alkalmazó ügyészség megnevezését, határozatának számát és keltét;
-- e) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
+- e) az első-, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját;
 - f) a kiszabott büntetés nemét, mértékét és végrehajtási fokozatát (foglalkozástól eltiltás esetén a foglalkozás vagy tevékenység megnevezését, járművezetéstől eltiltás esetén a járművezetői kategóriát, kitiltás esetén a település, országrész megnevezését, sportrendezvények látogatásától való eltiltás esetén a sportrendezvény, valamint a sportlétesítmény megnevezését), a kiszabott mellékbüntetés nemét és mértékét, a büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját; a korábbi felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetés próbaideje meghosszabbodása esetén ennek tényét, a meghosszabbodott próbaidő tartamát és leteltének napját, a felfüggesztett vagy részben felfüggesztett szabadságvesztés büntetést kiszabó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - g) az alkalmazott intézkedés nemét és mértékét, a korábban alkalmazott próbára bocsátás megszüntetése vagy meghosszabbítása esetén a próbára bocsátást elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját, a próbára bocsátás meghosszabbítása esetén a meghosszabbított próbaidő lejáratának napját, jóvátételi munka helyett büntetés kiszabása esetén a jóvátételi munkát elrendelő bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - h) összbüntetésbe foglalás, valamint egységes intézkedés elrendelése esetén az alapügyben eljárt bíróságok megnevezését, határozatuk számát, az összbüntetésként megállapított szabadságvesztés végrehajtási fokozatát és mértékét;
@@ -272,7 +272,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
   - je) a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott büntetés vagy intézkedés tartamát, a büntetés vagy intézkedés kitöltésének időpontját, továbbá a szabadságvesztés esetében a külföldön történt büntetés-végrehajtással kapcsolatos adatok közül a foganatba vétel időpontját, a feltételes szabadságra bocsátás napját, a kitöltés időpontját, a szabadságvesztés büntetés végrehajtásának felfüggesztése vagy részbeni felfüggesztése esetén a próbaidő tartamát és a felfüggesztés leteltének időpontját,
   - jf) a kiszabott büntetés vagy intézkedés végrehajtásának átvétele esetén ennek tényét, az elismert vagy megfeleltetett és átvett büntetés vagy intézkedés időtartamát;
 - k) a mentesítés, a nyilvántartásba felvétel időpontját, valamint a nyilvántartásból való törlés várható időpontját;
-- l) a nyilvántartásba vételt követően lefolytatott különleges eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját;
+- l) a nyilvántartásba vételt követően lefolytatott egyszerűsített felülvizsgálati eljárás, különleges eljárás vagy a Bv.tv. szerinti bírósági eljárás során hozott határozat tárgyát, számát és keltét, a határozat jogerőre emelkedésének napját.
 - m)
 
 (2) A büntetés-végrehajtási adatok közül a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartása tartalmazza
@@ -301,7 +301,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 (3b) Ha a 16. § (1) bekezdés j) pont je) alpontjában meghatározott, a magyar bíróság által elismert vagy megfeleltetett ítéletben meghatározott szabadságvesztés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó adat nem áll az elismerő vagy a tagállami ítélet megfeleltetéséről szóló határozatot hozó magyar bíróság rendelkezésére, a bűnügyi nyilvántartó szerv a külföldi ítélet elismerését vagy a tagállami ítélet megfeleltetését követően a külföldi hatóságtól adatközlés útján megkapott, illetve a külföldi hatóságtól származó, hiteles iratban található végrehajtási adatokat bejegyzi a nyilvántartásba. Ha a foganatba vétel időpontja nem ismert, a külföldi ítélet vagy a tagállami ítélet jogerőre emelkedésének a napját kell a foganatba vétel időpontjának tekinteni.
 
-(4) A 16. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a különleges eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
+(4) A 16. § (1) bekezdés l) pontjában meghatározott adatokat, valamint a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját az egyszerűsített felülvizsgálati eljárásban, különleges eljárásban vagy a Bv.tv. szerinti bírósági eljárásban jogerős határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
 (5) A 16. § (2) bekezdés a)–d) pontjában meghatározott adatokat, valamint ha a bíróság a bűnügyi nyilvántartó szervvel korábban nem közölte, a 11. § (2) bekezdés b) pontjában meghatározott adatok közül a feltételes szabadság megszüntetésének tényét, napját, a határozat számát, keltét és jogerőre emelkedésének napját a büntetés-végrehajtási intézet közli a bűnügyi nyilvántartó szervvel.
 
@@ -309,11 +309,11 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 (6a) A 16. § (2) bekezdés h) pontjában meghatározott adatokat a pártfogó felügyelő közli a bűnügyi nyilvántartó szervvel.
 
-(7) A 16. § (2) bekezdés i) és j) pontja szerinti adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
+(7) A 16. § (2) bekezdés i) pontja szerinti adatot a bíróság, a 16. § (2) bekezdés j) pontja szerinti adatokat a büntetés-végrehajtási bíró közli a bűnügyi nyilvántartó szervvel.
 
 (7a) A 16. § (2) bekezdés k) pontja szerinti járművezetéstől eltiltás leteltének napját, a végrehajtást befolyásoló tényeket és ezek fennállásának időtartamát az első fokon eljárt közlekedési hatóság közli a bűnügyi nyilvántartó szervvel, ha a vezetői engedély visszavonásáról az első fokon eljárt közlekedési igazgatási hatóság intézkedett.
 
-(7b) A 16. § (2) bekezdés l) pontjában meghatározott adatokat az alapügyben első fokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel,
+(7b) A 16. § (2) bekezdés l) pontjában meghatározott adatokat az alapügyben elsőfokon eljárt bíróság közli a bűnügyi nyilvántartó szervvel,
 
 (8) A 16. § (2) bekezdés m) pontjában meghatározott adatot az igazságügyi megfigyelő és elmegyógyító intézet közli a bűnügyi nyilvántartó szervvel.
 
@@ -358,12 +358,12 @@ számított három évig kell nyilvántartani.
 
 20. § A hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett adatokat
 
-- a) megrovás alkalmazása esetén az ítélet jogerőre emelkedésétől, ügyészi megrovás esetén a határozat kihirdetésétől,
+- a) megrovás alkalmazása esetén az ügydöntő határozat jogerőre emelkedésétől, ügyészi megrovás esetén a határozat kihirdetésétől,
 - b) próbára bocsátás alkalmazása esetén a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől,
 - c) jóvátételi munka alkalmazása esetén a jóvátételi munka elvégzésének igazolásától,
 - d) kényszergyógykezelést megszüntető végzés, elkobzás, vagyonelkobzás, elektronikus adat végleges hozzáférhetetlenné tételének elrendelése esetén a jogerőre emelkedéstől,
 - e) javítóintézeti nevelés esetén az intézkedés végrehajtásának befejezésétől,
-- f) büntetés kiszabásának mellőzésével hozott, bűnösséget megállapító jogerős ítélet esetén az ítélet jogerőre emelkedésétől
+- f) büntetés kiszabásának mellőzésével hozott, bűnösséget megállapító jogerős ügydöntő határozat esetén annak jogerőre emelkedésétől
 
 számított három évig kell nyilvántartani.
 
@@ -373,13 +373,13 @@ számított három évig kell nyilvántartani.
 
 21. § A büntetőeljárás hatálya alatt állók nyilvántartásában szereplő adatok kezelésének célja a büntetőeljárások gyors és hatékony lefolytatásának elősegítése, törvényességének biztosítása, továbbá az érintett és mások jogainak, biztonságának védelme.
 
-22. § (1) A büntetőeljárás hatálya alatt állók nyilvántartásában annak adatait kell nyilvántartani, akivel szemben büntetőeljárás indult.
+22. § (1) A büntetőeljárás hatálya alatt állók nyilvántartásában annak adatait kell nyilvántartani, akivel a büntetőeljárásban megalapozott gyanút közöltek.
 
 (2) Nem kell nyilvántartani annak az adatait,
 
-- a) akivel szemben a büntetőeljárás magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján indult, függetlenül attól, hogy az ügyész átvette-e a vád képviseletét,
+- a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
 - b) akivel szemben pótmagánvádló vádindítványa alapján indult eljárás, továbbá
-- c) akinek katonai bűncselekménye miatt a katonai ügyész a feljelentést elutasította, és az elbírálást fegyelmi eljárásra utalta.
+- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
 
 23. § A büntetőeljárás hatálya alatt állók nyilvántartása tartalmazza
 
@@ -390,19 +390,19 @@ számított három évig kell nyilvántartani.
   - cb) elkövetési helyét, idejét;
 - d) a megalapozott gyanú közlésének időpontját;
 - e) a vádemelés időpontját, a vád tárgyává tett bűncselekmény megnevezését, az 1978. évi IV. törvény vagy a Btk. szerinti minősítését, a vádirat számát és keltét;
-- f) vádemelés elhalasztása esetén az elhalasztás tényét, okát, időtartamát, az erről szóló határozat számát és keltét;
-- g) a nyomozás vagy az eljárás felfüggesztése esetén a felfüggesztés tényét, okát, időtartamát, az erről szóló határozat számát és keltét, valamint a nyomozás vagy az eljárás továbbfolytatásának időpontját;
-- h) az előzetes letartóztatás, a lakhelyelhagyási tilalom, a házi őrizet, a távoltartás, az ideiglenes kényszergyógykezelés elrendelésének tényét, valamint azt a tényt, hogy az előzetes letartóztatás óvadék letétele miatt szűnt meg, a kényszerintézkedés időtartamát, megszűnése vagy megszüntetése tényét, a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, megszüntetéséről határozatot hozó bíróság megnevezését, határozatának számát és keltét, a kényszerintézkedés megszüntetéséről határozatot hozó ügyészség megnevezését, határozatának számát és keltét;
+- f) feltételes ügyészi felfüggesztés esetén a felfüggesztés tényét, okát, időtartamát, az erről szóló határozat számát és keltét;
+- g) az eljárás felfüggesztése esetén a felfüggesztés tényét, okát, időtartamát, az erről szóló határozat számát és keltét, valamint a felfüggesztett eljárás folytatásának időpontját;
+- h) a letartóztatás, a bűnügyi felügyelet, a távoltartás, az előzetes kényszergyógykezelés elrendelésének tényét, valamint azt a tényt, hogy a bíróság által megállapított óvadékot tettek le, bűnügyi felügyelet elrendelése esetén annak megjelölését, hogy a bíróság a büntetőeljárásról szóló 2017. évi XC. törvény 281. §-ában meghatározott mely magatartási szabályt írta elő, továbbá a kényszerintézkedés időtartamát, megszűnése vagy megszüntetése tényét, a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, megszüntetéséről határozatot hozó bíróság megnevezését, határozatának számát és keltét, illetve a kényszerintézkedés megszüntetéséről határozatot hozó ügyészség megnevezését, határozatának számát és keltét;
 - i) a büntetőügy iktatószámát;
 - j) a büntetőügyek egyesítésének, elkülönítésének, áttételének tényét, az erről szóló határozat számát és keltét;
 - k) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
 - l)
 
-24. § (1) A személyazonosító adatokat, valamint a 23. § c)–e) és i) pontjában meghatározott adatokat az a nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel, amelyik az érintettel szemben eljár.
+24. § (1) A személyazonosító adatokat, valamint a 23. § c)–e) és i) pontjában meghatározott adatokat az a nyomozó hatóság vagy ügyészség közli a bűnügyi nyilvántartó szervvel, amelyik az érintettel szemben eljár.
 
 (2) A 23. § f) pontjában meghatározott adatokat a határozatot hozó ügyészség közli a bűnügyi nyilvántartó szervvel.
 
-(3) A 23. § g) pontjában meghatározott adatokat a nyomozás felfüggesztése esetén a határozatot hozó nyomozó hatóság, ügyészség, az eljárás felfüggesztése esetén a határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
+(3) A 23. § g) pontjában meghatározott adatokat az eljárás felfüggesztése esetén a határozatot hozó bíróság, ügyészség vagy nyomozó hatóság közli a bűnügyi nyilvántartó szervvel.
 
 (4) A személyazonosító adatokat, valamint a 23. § c), h) és i) pontjában meghatározott adatokat a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, valamint megszüntetéséről határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
@@ -410,13 +410,13 @@ számított három évig kell nyilvántartani.
 
 (6) A 23. § j) pontjában meghatározott adatokat a büntetőügyek egyesítéséről, elkülönítéséről vagy áttételéről határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a bűnügyi nyilvántartó szervvel.
 
-(7) A büntetőeljárás jogerős befejezésének időpontját a bíróság, a nyomozás megszüntetésének időpontját a határozatot hozó nyomozó hatóság, ügyészség közli a bűnügyi nyilvántartó szervvel.
+(7) A büntetőeljárás jogerős ügydöntő határozattal vagy véglegessé vált nem ügydöntő végzéssel történő befejezésének időpontját a bíróság, az eljárás további jogorvoslattal nem támadható határozattal történő megszüntetésének időpontját a határozatot hozó nyomozó hatóság vagy ügyészség közli a bűnügyi nyilvántartó szervvel.
 
 25. § A büntetőeljárás hatálya alatt állók nyilvántartásába felvett adatokat
 
-- a) a büntetőeljárás jogerős befejezéséig,
-- b) a nyomozás megszüntetéséig vagy
-- c) a közvetítői eljárásban való részvételre, illetve kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételre tekintettel történő vádemelés elhalasztása, nyomozás vagy eljárás felfüggesztése esetén a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvétel sikeres igazolására, illetve a tevékeny megbánásra tekintettel a nyomozás vagy az eljárás megszüntetését követő három évig
+- a) a büntetőeljárás jogerős ügydöntő határozattal vagy véglegessé vált nem ügydöntő végzéssel történő befejezéséig,
+- b) az eljárás további jogorvoslattal nem támadható határozattal történő megszüntetéséig vagy
+- c) az eljárás közvetítői eljárás céljából történő felfüggesztése, illetve kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételre tekintettel történő felfüggesztése esetén a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvétel sikeres igazolására, illetve a tevékeny megbánásra tekintettel az eljárás további jogorvoslattal nem támadható határozattal történő megszüntetését követő három évig
 
 kell nyilvántartani.
 
@@ -428,8 +428,8 @@ kell nyilvántartani.
 
 30/B. § A külföldre utazási korlátozás hatálya alatt állók nyilvántartásában annak az adatait kell nyilvántartani,
 
-- a) aki előzetes letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, valamint aki ideiglenes kényszergyógykezelés alatt áll,
-- b) akivel szemben lakhelyelhagyási tilalmat vagy házi őrizetet rendeltek el,
+- a) aki letartóztatásban, kiadatási letartóztatásban, ideiglenes kiadatási letartóztatásban, átadási letartóztatásban, ideiglenes átadási letartóztatásban, ideiglenes végrehajtási letartóztatásban van, valamint aki előzetes kényszergyógykezelés alatt áll,
+- b) akivel szemben olyan bűnügyi felügyeletet rendeltek el, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
 - c) akit végrehajtandó szabadságvesztésre ítéltek, illetve akinek felfüggesztett vagy részben felfüggesztett szabadságvesztése végrehajtását utóbb elrendelték,
 - d) akivel szemben a bíróság felmentő ítélet mellett kényszergyógykezelést alkalmazott,
 - e) akinek a bíróság a javítóintézeti nevelését rendelte el, illetve akit javítóintézetből ideiglenesen elbocsátottak, valamint
@@ -449,12 +449,12 @@ kell nyilvántartani.
   - hb) 1978. évi IV. törvény vagy a Btk. szerinti minősítését,
 - i) a határozattal és a határozatot hozó bírósággal kapcsolatban:
   - ia) a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról határozatot hozó, valamint az egyéb korlátozás elrendeléséről és az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi határozatot hozó bíróság megnevezését, határozatának számát és keltét,
-  - ib) a szabadságvesztés büntetést kiszabó, a felfüggesztett vagy részben felfüggesztett szabadságvesztés végrehajtását elrendelő, illetve a kényszergyógykezelést, valamint a javítóintézeti nevelést és a javítóintézetből történő ideiglenes elbocsátást elrendelő első, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében emelt jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
+  - ib) a szabadságvesztés büntetést kiszabó, a felfüggesztett vagy részben felfüggesztett szabadságvesztés végrehajtását elrendelő, illetve a kényszergyógykezelést, valamint a javítóintézeti nevelést és a javítóintézetből történő ideiglenes elbocsátást elrendelő első, másod- és harmadfokon, valamint a perújítás, a felülvizsgálat, továbbá a törvényesség érdekében bejelentett jogorvoslat során eljárt bíróság megnevezését, határozatának számát és keltét, a határozat jogerőre emelkedésének napját,
   - ic) a szabadságvesztés büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját,
   - id) a 30/B. § f) pontjában meghatározott esetben az egyéb korlátozás elrendeléséről és az egyéb korlátozás elrendelésekor meghatározott időtartamot befolyásoló későbbi határozatot hozó bíróság megnevezését, határozatának számát és keltét,
 - j) a szabadságvesztés előjegyzett utolsó napját,
 - k) a javítóintézeti nevelésből elbocsátás napját, a javítóintézetből történő ideiglenes elbocsátás napját, az ideiglenes elbocsátás leteltének napját, valamint
-- l) a 30/B. § a), b), c), d) és e) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén annak tényét, hogy a terhelt vagy az elítélt a jogerős ítélet vagy határozat meghozatalakor érvényes úti okmánnyal rendelkezett.
+- l) a 30/B. § a), b), c), d) és e) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén annak tényét, hogy a terhelt vagy az elítélt a jogerős ügydöntő határozat vagy a véglegessé vált nem ügydöntő végzés meghozatalakor érvényes úti okmánnyal rendelkezett.
 
 30/D. § (1) A személyazonosító adatokat, valamint a 30/C. § b), c), d), e), f), h) pontjában, i) pont ia)–ic) alpontjában és l) pontjában meghatározott adatokat az a bíróság közli a bűnügyi nyilvántartó szervvel, amely e törvény rendelkezései szerint
 
@@ -466,7 +466,7 @@ teljesítendő adatközlésre köteles.
 
 (2) A kiadatási letartóztatás, ideiglenes kiadatási letartóztatás, átadási letartóztatás, ideiglenes átadási letartóztatás, valamint ideiglenes végrehajtási letartóztatás elrendelésével kapcsolatos adatokat a határozatot hozó bíróság közli a bűnügyi nyilvántartó szervvel.
 
-(3) A kényszerintézkedés és egyéb korlátozás megszüntetését – a (3a) bekezdésében meghatározott kivétellel – a határozatot hozó bíróság vagy ügyész közli a bűnügyi nyilvántartó szervvel.
+(3) A kényszerintézkedés és egyéb korlátozás megszüntetését – a (3a) bekezdésében meghatározott kivétellel – a határozatot hozó bíróság vagy ügyészség közli a bűnügyi nyilvántartó szervvel.
 
 (3a) Ha a kiadatási letartóztatás, az ideiglenes kiadatási letartóztatás, az átadási letartóztatás vagy az ideiglenes átadási letartóztatás azért szűnik meg, mert az érintettet Magyarország kiadta vagy átadta, az átadás időpontját a Nemzetközi Bűnügyi Együttműködési Központ közli a bűnügyi nyilvántartó szervvel.
 
@@ -497,7 +497,7 @@ kell nyilvántartani, és – amennyiben ilyen adattovábbítást kell teljesít
 31. § Az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásában (a továbbiakban: tagállami ítéletek nyilvántartása) szereplő adatok kezelésének célja a tagállami ítéletekben foglalt adatoknak:
 
 - a) a tagállamok közötti – az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében folytatott – kölcsönös cseréjének elősegítése,
-- b) az elítélttel szemben más bűncselekmény elkövetésének megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele, illetve
+- b) az elítélttel szemben más bűncselekmény megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele, illetve
 - c) a büntetett előélet igazolásának, illetve a hátrányos jogkövetkezmények végrehajtásának az elősegítése.
 
 32. § A tagállami ítéletek nyilvántartásában annak a magyar állampolgárnak az adatait kell nyilvántartani, akinek bűnösségét az Európai Unió más tagállamának bírósága jogerősen megállapította.
@@ -588,7 +588,7 @@ személy azonosítása.
 - a) az (1) bekezdés szerint ujj- és tenyérnyomat nyilvántartásba vételét kezdeményező szervvel, valamint
 - b) azzal a szervvel, amelynek kezdeményezésére azt az ujj- és tenyérnyomatot, amellyel az azonosságot megállapították, a 38. § szerinti nyilvántartások valamelyikébe korábban felvették.
 
-(3) Ha a nyomozó hatóság vagy az ügyész olyan személy ujj- és tenyérnyomatának a nyilvántartásba vételét kezdeményezi, akivel kapcsolatban fennállnak a DNS-profil nyilvántartásba vételének az 59. §-ban meghatározott feltételei, de azt a 61. § (2) bekezdésére tekintettel nem kezdeményezték, az (1) bekezdés szerinti összehasonlítás kiterjed annak megállapítására is, hogy az ujj- és tenyérnyomat azonos-e az érintettnek a 38. § szerinti nyilvántartásokban kezelt ujj- és tenyérnyomataival.
+(3) Ha a nyomozó hatóság vagy az ügyészség olyan személy ujj- és tenyérnyomatának a nyilvántartásba vételét kezdeményezi, akivel kapcsolatban fennállnak a DNS-profil nyilvántartásba vételének az 59. §-ban meghatározott feltételei, de azt a 61. § (2) bekezdésére tekintettel nem kezdeményezték, az (1) bekezdés szerinti összehasonlítás kiterjed annak megállapítására is, hogy az ujj- és tenyérnyomat azonos-e az érintettnek a 38. § szerinti nyilvántartásokban kezelt ujj- és tenyérnyomataival.
 
 40. § A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásában annak az adatait kell nyilvántartani, akinek ujj- és tenyérnyomatát bűncselekmény elkövetésének helyszínén vagy a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzítették, ha ezen adatokhoz személyazonosító adat nem kapcsolható.
 
@@ -604,7 +604,7 @@ személy azonosítása.
 
 42. § (1) A 41. § a)–d) pontjában meghatározott adatokat a nyilvántartásba vétel alapjául szolgáló bűncselekmény miatt büntetőeljárást folytató nyomozó hatóság vagy ügyészség – a nyilvántartásba vétel kezdeményezésével egyidejűleg – küldi meg a szakértői nyilvántartó szervnek.
 
-(2) Ha a nyomozás megszüntetésére vagy a büntetőeljárás jogerős befejezésére azért került sor, mert a nyilvántartásba vétel alapjául szolgáló cselekmény nem bűncselekmény vagy a nyomozás adatai alapján nem állapítható meg bűncselekmény elkövetése, és az eljárás folytatásától sem várható eredmény, ennek tényét a határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.
+(2) Ha az eljárás további jogorvoslattal nem támadható eljárást megszüntető határozattal történő megszüntetésére vagy a büntetőeljárás jogerős ügydöntő határozattal történő befejezésére azért került sor, mert a nyilvántartásba vétel alapjául szolgáló cselekmény nem bűncselekmény vagy a rendelkezésre álló adatok, illetve bizonyítási eszközök alapján nem volt megállapítható bűncselekmény elkövetése, és az eljárás folytatásától sem várható eredmény, ennek tényét a határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.
 
 (3) Ha a büntetőeljárásban a tények tisztázása során megállapítható, hogy a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített ujj- és tenyérnyomatok nyilvántartásába korábban nyilvántartásba vett ujj- és tenyérnyomat olyan személytől származik, aki nem hozható összefüggésbe a nyilvántartásba vétel alapjául szolgáló bűncselekmény elkövetésével, ennek tényét a büntetőeljárást folytató nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.
 
@@ -626,17 +626,17 @@ kezelt ujj- és tenyérnyomattal állapítja meg.
 
 44. § (1) A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában annak a büntetőeljárás alá vont személynek az ujj- és tenyérnyomatát kell nyilvántartani, akit
 
-- a) ötévi vagy ezt meghaladó szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény elkövetésének megalapozott gyanúja vagy
+- a) ötévi vagy ezt meghaladó szabadságvesztés büntetéssel fenyegetett szándékos bűncselekmény megalapozott gyanúja vagy
 - b) öt évet el nem érő szabadságvesztés büntetéssel fenyegetett szándékos
   - ba) 2011. december 31-ig hatályban volt adócsalás és csempészet,
-  - bb) a 2013. június 30-ig hatályban volt testi sértés (1978. évi IV. törvény 170. §), segítségnyújtás elmulasztása (1978. évi IV. törvény 172. §), személyi szabadság megsértése (1978. évi IV. törvény 175. §), emberkereskedelem (1978. évi IV. törvény 175/B. §), magánlaksértés (1978. évi IV. törvény 176. §), közlekedés biztonsága elleni bűncselekmény (1978. évi IV. törvény 184. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (1978. évi IV. törvény 185. §), közúti veszélyeztetés (1978. évi IV. törvény 186. §), cserbenhagyás (1978. évi IV. törvény 190. §), megrontás (1978. évi IV. törvény 201. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése (1978. évi IV. törvény 205. §), kitartottság (1978. évi IV. törvény 206. §), kerítés (1978. évi IV. törvény 207. §), beutazási és tartózkodási tilalom megsértése (1978. évi IV. törvény 214. §), embercsempészés (1978. évi IV. törvény 218. §), hivatali visszaélés (1978. évi IV. törvény 225. §), bántalmazás hivatalos eljárásban (1978. évi IV. törvény 226. §), hivatalos személy elleni erőszak (1978. évi IV. törvény 229. §), közfeladatot ellátó személy elleni erőszak (1978. évi IV. törvény 230. §), hamis vád (1978. évi IV. törvény 233. §), bűnpártolás (1978. évi IV. törvény 244. §), vesztegetés (1978. évi IV. törvény 250. §), befolyással üzérkedés (1978. évi IV. törvény 256. §), befolyás vásárlása (1978. évi IV. törvény 256/A. §), közveszélyokozás (1978. évi IV. törvény 259. §), terrorcselekmény (1978. évi IV. törvény 261. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §), garázdaság (1978. évi IV. törvény 271. §), rendbontás (1978. évi IV. törvény 271/A. §), közokirat-hamisítás (1978. évi IV. törvény 274. §), magánokirat-hamisítás (1978. évi IV. törvény 276. §), egyedi azonosító jel meghamisítása (1978. évi IV. törvény 277/A. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), számítástechnikai rendszer és adatok elleni bűncselekmény (1978. évi IV. törvény 300/C. §), pénzhamisítás (1978. évi IV. törvény 304. §), költségvetési csalás (1978. évi IV. törvény 310. §), készpénz-helyettesítő fizetőeszközzel visszaélés (1978. évi IV. törvény 313/C. §), lopás (1978. évi IV. törvény 316. §), sikkasztás (1978. évi IV. törvény 317. §), csalás (1978. évi IV. törvény 318. §), rongálás (1978. évi IV. törvény 324. §), jármű önkényes elvétele (1978. évi IV. törvény 327. §) bűncselekmény elkövetésének megalapozott gyanúja vagy
-  - bc) testi sértés (Btk. 164. §), segítségnyújtás elmulasztása (Btk. 166. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178. és 179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), teljesítményfokozó szerrel visszaélés (Btk. 185. §), egészségügyi termék hamisítása (Btk. 186. §), emberkereskedelem (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), magánlaksértés (Btk. 221. §), közlekedés biztonsága elleni bűncselekmény (Btk. 232. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 233. §), közúti veszélyeztetés (Btk. 234. §), cserbenhagyás (Btk. 239. §), hamis vád (Btk. 268. §), bűnpártolás (Btk. 282. §), vesztegetés (Btk. 290. §), vesztegetés elfogadása (Btk. 291. §), hivatali vesztegetés (Btk. 293. §), hivatali vesztegetés elfogadása (Btk. 294. §), vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), befolyás vásárlása (Btk. 298. §), befolyással üzérkedés (Btk. 299. §), bántalmazás hivatalos eljárásban (Btk. 301. §), bántalmazás közfeladatot ellátó személy eljárásában (Btk. 302. §), hivatali visszaélés (Btk. 305. §), közfeladati helyzettel visszaélés (Btk. 306. §), hivatalos személy elleni erőszak (Btk. 310. §), közfeladatot ellátó személy elleni erőszak (Btk. 311. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), közveszély okozása (Btk. 322. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), közveszéllyel fenyegetés (Btk. 338. §), garázdaság (Btk. 339. §), rendbontás (Btk. 340. §), közokirat-hamisítás (Btk. 342. §), biztonsági okmány hamisítása (Btk. 344. §) hamis magánokirat felhasználása (Btk. 345. §), egyedi azonosító jellel visszaélés (Btk. 347. §), embercsempészés (Btk. 353. §), lopás (Btk. 370. §), rongálás (Btk. 371. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), jármű önkényes elvétele (Btk. 380. §), pénzhamisítás (Btk. 389. §), készpénz-helyettesítő fizetőeszközzel visszaélés (Btk. 393. §), költségvetési csalás (Btk. 396. §), tiltott adatszerzés (Btk. 422. §), információs rendszer vagy adat megsértése (Btk. 423. §) bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás alá vontak.
+  - bb) a 2013. június 30-ig hatályban volt testi sértés (1978. évi IV. törvény 170. §), segítségnyújtás elmulasztása (1978. évi IV. törvény 172. §), személyi szabadság megsértése (1978. évi IV. törvény 175. §), emberkereskedelem (1978. évi IV. törvény 175/B. §), magánlaksértés (1978. évi IV. törvény 176. §), közlekedés biztonsága elleni bűncselekmény (1978. évi IV. törvény 184. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (1978. évi IV. törvény 185. §), közúti veszélyeztetés (1978. évi IV. törvény 186. §), cserbenhagyás (1978. évi IV. törvény 190. §), megrontás (1978. évi IV. törvény 201. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése (1978. évi IV. törvény 205. §), kitartottság (1978. évi IV. törvény 206. §), kerítés (1978. évi IV. törvény 207. §), beutazási és tartózkodási tilalom megsértése (1978. évi IV. törvény 214. §), embercsempészés (1978. évi IV. törvény 218. §), hivatali visszaélés (1978. évi IV. törvény 225. §), bántalmazás hivatalos eljárásban (1978. évi IV. törvény 226. §), hivatalos személy elleni erőszak (1978. évi IV. törvény 229. §), közfeladatot ellátó személy elleni erőszak (1978. évi IV. törvény 230. §), hamis vád (1978. évi IV. törvény 233. §), bűnpártolás (1978. évi IV. törvény 244. §), vesztegetés (1978. évi IV. törvény 250. §), befolyással üzérkedés (1978. évi IV. törvény 256. §), befolyás vásárlása (1978. évi IV. törvény 256/A. §), közveszélyokozás (1978. évi IV. törvény 259. §), terrorcselekmény (1978. évi IV. törvény 261. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), közveszéllyel fenyegetés (1978. évi IV. törvény 270/A. §), garázdaság (1978. évi IV. törvény 271. §), rendbontás (1978. évi IV. törvény 271/A. §), közokirat-hamisítás (1978. évi IV. törvény 274. §), magánokirat-hamisítás (1978. évi IV. törvény 276. §), egyedi azonosító jel meghamisítása (1978. évi IV. törvény 277/A. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), számítástechnikai rendszer és adatok elleni bűncselekmény (1978. évi IV. törvény 300/C. §), pénzhamisítás (1978. évi IV. törvény 304. §), költségvetési csalás (1978. évi IV. törvény 310. §), készpénz-helyettesítő fizetőeszközzel visszaélés (1978. évi IV. törvény 313/C. §), lopás (1978. évi IV. törvény 316. §), sikkasztás (1978. évi IV. törvény 317. §), csalás (1978. évi IV. törvény 318. §), rongálás (1978. évi IV. törvény 324. §), jármű önkényes elvétele (1978. évi IV. törvény 327. §) bűncselekmény megalapozott gyanúja vagy
+  - bc) testi sértés (Btk. 164. §), segítségnyújtás elmulasztása (Btk. 166. §), kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178. és 179. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), új pszichoaktív anyaggal visszaélés (Btk. 184. §), teljesítményfokozó szerrel visszaélés (Btk. 185. §), egészségügyi termék hamisítása (Btk. 186. §), emberkereskedelem (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), szexuális visszaélés (Btk. 198. §), kerítés (Btk. 200. §), prostitúció elősegítése (Btk. 201. §), kitartottság (Btk. 202. §), gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), magánlaksértés (Btk. 221. §), közlekedés biztonsága elleni bűncselekmény (Btk. 232. §), vasúti, légi vagy vízi közlekedés veszélyeztetése (Btk. 233. §), közúti veszélyeztetés (Btk. 234. §), cserbenhagyás (Btk. 239. §), hamis vád (Btk. 268. §), bűnpártolás (Btk. 282. §), vesztegetés (Btk. 290. §), vesztegetés elfogadása (Btk. 291. §), hivatali vesztegetés (Btk. 293. §), hivatali vesztegetés elfogadása (Btk. 294. §), vesztegetés bírósági vagy hatósági eljárásban (Btk. 295. §), vesztegetés elfogadása bírósági vagy hatósági eljárásban (Btk. 296. §), befolyás vásárlása (Btk. 298. §), befolyással üzérkedés (Btk. 299. §), bántalmazás hivatalos eljárásban (Btk. 301. §), bántalmazás közfeladatot ellátó személy eljárásában (Btk. 302. §), hivatali visszaélés (Btk. 305. §), közfeladati helyzettel visszaélés (Btk. 306. §), hivatalos személy elleni erőszak (Btk. 310. §), közfeladatot ellátó személy elleni erőszak (Btk. 311. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), közveszély okozása (Btk. 322. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), közveszéllyel fenyegetés (Btk. 338. §), garázdaság (Btk. 339. §), rendbontás (Btk. 340. §), közokirat-hamisítás (Btk. 342. §), biztonsági okmány hamisítása (Btk. 344. §) hamis magánokirat felhasználása (Btk. 345. §), egyedi azonosító jellel visszaélés (Btk. 347. §), határzár tiltott átlépése (Btk. 352/A. § (1) bekezdés), határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), lopás (Btk. 370. §), rongálás (Btk. 371. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), jármű önkényes elvétele (Btk. 380. §), pénzhamisítás (Btk. 389. §), készpénz-helyettesítő fizetőeszközzel visszaélés (Btk. 393. §), költségvetési csalás (Btk. 396. §), tiltott adatszerzés (Btk. 422. §), információs rendszer vagy adat megsértése (Btk. 423. §) bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vontak.
 
 (2) Nem kell nyilvántartani annak az adatait,
 
-- a) akivel szemben magánvádas bűncselekmény miatt előterjesztett magánindítvány alapján indult eljárás, függetlenül attól, hogy az ügyész átvette-e a vád képviseletét,
-- b) akivel szemben pótmagánvádló vádindítványa alapján indult eljárás, továbbá
-- c) akinek katonai bűncselekménye miatt a katonai ügyész a feljelentést elutasította, és az elbírálást fegyelmi eljárásra utalta.
+- a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
+- b) akivel szemben pótmagánvádas eljárás indult, továbbá
+- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
 
 45. § A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartása tartalmazza
 
@@ -645,7 +645,7 @@ kezelt ujj- és tenyérnyomattal állapítja meg.
 - c) a szakrendszeri azonosító kódot, valamint
 - d) a belső azonosító kódot.
 
-46. § A büntetőeljárás alá vont személy ujj- és tenyérnyomatát – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terheltet büntetőeljárás alá vonta.
+46. § A büntetőeljárás alá vont személy ujj- és tenyérnyomatát – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte.
 
 46/A. § Ha a büntetőeljárás alá vont személynek már szerepel ujj- és tenyérnyomata a daktiloszkópiai nyilvántartásban, akkor valamennyi korábban nyilvántartásba vett ujj- és tenyérnyomatát nyilván kell tartani a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában.
 
@@ -655,7 +655,7 @@ kezelt ujj- és tenyérnyomattal állapítja meg.
 
 48. § A bűncselekmény elkövetése miatt jogerősen elítélt személyek ujj- és tenyérnyomatainak nyilvántartásában annak a bűncselekmény elkövetése miatt jogerősen elítélt személynek az ujj- és tenyérnyomatát kell nyilvántartani,
 
-- a) akinek adatai a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában szerepeltek, és a nyilvántartásba vétel alapjául szolgáló büntetőeljárásban a 44. § (1) bekezdésében meghatározott bűncselekmény miatt a bíróság vele szemben jogerős, bűnösséget megállapító ítéletet hozott, vagy
+- a) akinek adatai a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában szerepeltek, és a nyilvántartásba vétel alapjául szolgáló büntetőeljárásban a 44. § (1) bekezdésében meghatározott bűncselekmény miatt a bíróság vele szemben jogerős, bűnösséget megállapító ügydöntő határozatot hozott, vagy
 - b) akit jogerősen végrehajtandó szabadságvesztés büntetésre ítéltek.
 
 49. § A bűncselekmény elkövetése miatt jogerősen elítélt személyek ujj- és tenyérnyomatainak nyilvántartása tartalmazza
@@ -665,7 +665,7 @@ kezelt ujj- és tenyérnyomattal állapítja meg.
 - c) a szakrendszeri azonosító kódot, valamint
 - d) a belső azonosító kódot.
 
-50. § (1) Ha az ujj- és tenyérnyomatot e törvény alapján a büntetőeljárás során nyilvántartásba vették, és a büntetőeljárás alapjául szolgáló ügyben a 44. § (1) bekezdésében meghatározott bűncselekmény miatt a bíróság jogerős, bűnösséget megállapító ítéletet hozott, a szakértői nyilvántartó szerv az ujj- és tenyérnyomatot az ítélet jogerőre emelkedését követően haladéktalanul
+50. § (1) Ha az ujj- és tenyérnyomatot e törvény alapján a büntetőeljárás során nyilvántartásba vették, és a büntetőeljárás alapjául szolgáló ügyben a 44. § (1) bekezdésében meghatározott bűncselekmény miatt a bíróság jogerős, bűnösséget megállapító ügydöntő határozatot hozott, a szakértői nyilvántartó szerv az ujj- és tenyérnyomatot az ügydöntő határozat jogerőre emelkedését követően haladéktalanul
 
 - a) nyilvántartásba veszi a bűncselekmény elkövetése miatt jogerősen elítélt személyek ujj- és tenyérnyomatainak nyilvántartásában, és ezzel egyidejűleg
 - b) törli a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásából, ha a büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartásában való további nyilvántartásának a feltételei nem állnak fenn.
@@ -721,7 +721,7 @@ személy azonosítása.
 
 (2) A DNS-profilt a bűncselekmény helyszínén vagy a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból a szakkérdés vizsgálatára kirendelt szerv meghatározza, és az 56. § a)–c) pontjában meghatározott adatokat, a DNS-profilt, valamint az annak meghatározására alkalmas anyagmaradványt a szakértői nyilvántartó szerv részére – a DNS-profil meghatározását követően haladéktalanul – megküldi.
 
-(3) Ha a nyomozás megszüntetésére vagy a büntetőeljárás jogerős befejezésére azért került sor, mert a nyilvántartásba vétel alapjául szolgáló cselekmény nem bűncselekmény vagy a nyomozás adatai alapján nem állapítható meg bűncselekmény elkövetése, és az eljárás folytatásától sem várható eredmény, ennek tényét a határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.
+(3) Ha az eljárás további jogorvoslattal nem támadható eljárást megszüntető határozattal történő megszüntetésére vagy a büntetőeljárás jogerős ügydöntő határozattal történő befejezésére azért került sor, mert a nyilvántartásba vétel alapjául szolgáló cselekmény nem bűncselekmény vagy a rendelkezésre álló adatok, illetve bizonyítási eszközök alapján nem volt megállapítható bűncselekmény elkövetése, és az eljárás folytatásától sem várható eredmény, ennek tényét a határozatot hozó nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.
 
 (4) Ha a büntetőeljárásban a tények tisztázása során megállapítható, hogy a bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített DNS-profilok nyilvántartásába korábban nyilvántartásba vett DNS-profil olyan személytől származik, aki nem hozható összefüggésbe a nyilvántartásba vétel alapjául szolgáló bűncselekmény elkövetésével, ennek tényét a büntetőeljárást folytató nyomozó hatóság, ügyészség vagy bíróság közli a szakértői nyilvántartó szervvel.
 
@@ -754,7 +754,7 @@ kezelt DNS-profillal állapítja meg.
 - g) a 2013. június 30-ig hatályban volt állam elleni bűncselekményekkel (1978. évi IV. törvény X. fejezet), terrorcselekménnyel (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegésével (1978. évi IV. törvény 261/A. §), visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), pénzmosással (1978. évi IV. törvény 303. §), valamint szolgálati bűncselekményekkel (1978. évi IV. törvény XX. Fejezet I. cím) kapcsolatban fennálló feljelentési kötelezettség elmulasztása,
 - h) atomenergia alkalmazásával visszaélés (Btk. 252. §), állam elleni bűncselekmények (Btk. XXIV. fejezet), terrorcselekmény (Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), lopás [Btk. 370. § (2) bekezdés b) pont bc) és bf)–bi) alpont, (3) bekezdés a) pont, b) pont ba) alpont, ha a kisebb értékre elkövetett lopást dolog elleni erőszakkal követik el, bb)–be) alpont és c) pont], rongálás [Btk. 371. § (3) bekezdés], sikkasztás [Btk. 371. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a), c) pont, és b) pont, ha a kisebb értékre elkövetett sikkasztást közveszély színhelyén követik el], csalás [Btk. 373. § (2) bekezdés b) pont bb) alpont, (3) bekezdés a) és b) pont, ha a kisebb kárt okozó csalást közveszély színhelyén követik el], jármű önkényes elvétele [Btk. 380. § (1) bekezdés], pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §)
 
-miatt indítottak büntetőeljárást.
+miatt megalapozott gyanút közöltek.
 
 60. § A büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartása tartalmazza
 
@@ -763,7 +763,7 @@ miatt indítottak büntetőeljárást.
 - c) a szakrendszeri azonosító kódot,
 - d) a belső azonosító kódot.
 
-61. § (1) A DNS-profil meghatározására alkalmas szájnyálkahártya-törletet – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terheltet büntetőeljárás alá vonta.
+61. § (1) A DNS-profil meghatározására alkalmas szájnyálkahártya-törletet – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte.
 
 (2) Nem kell a nyilvántartásba vételt kezdeményezni, ha a DNS-profil-nyilvántartás az érintett személynek kettő darab, a jogszabályban meghatározott feltételeknek megfelelő DNS-profilját már tartalmazza.
 
@@ -779,7 +779,7 @@ miatt indítottak büntetőeljárást.
 
 63. § A bűncselekmény elkövetése miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartásában annak az adatait kell nyilvántartani,
 
-- a) akinek adatai a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásában szerepeltek, és a nyilvántartásba vétel alapjául szolgáló büntetőeljárásban az 59. §-ban meghatározott bűncselekmény miatt a bíróság vele szemben jogerős, bűnösséget megállapító ítéletet hozott, vagy
+- a) akinek adatai a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásában szerepeltek, és a nyilvántartásba vétel alapjául szolgáló büntetőeljárásban az 59. §-ban meghatározott bűncselekmény miatt a bíróság vele szemben jogerős, bűnösséget megállapító ügydöntő határozatot hozott, vagy
 - b) akit jogerősen háromévi vagy azt meghaladó tartamú, végrehajtandó szabadságvesztés büntetésre ítéltek.
 
 64. § A bűncselekmény elkövetése miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartása tartalmazza
@@ -789,7 +789,7 @@ miatt indítottak büntetőeljárást.
 - c) a szakrendszeri azonosító kódot,
 - d) a belső azonosító kódot.
 
-65. § (1) Ha az elítélthez tartozó DNS-profilnak és a szájnyálkahártya-törletnek a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásában történő nyilvántartásának a feltételei fennálltak, és a büntetőeljárás alapjául szolgáló ügyben az 59. §-ban meghatározott bűncselekmény miatt a bíróság jogerős, bűnösséget megállapító ítéletet hozott, a szakértői nyilvántartó szerv a DNS-profilt és a szájnyálkahártya-törletet az ítélet jogerőre emelkedését követően haladéktalanul
+65. § (1) Ha az elítélthez tartozó DNS-profilnak és a szájnyálkahártya-törletnek a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásában történő nyilvántartásának a feltételei fennálltak, és a büntetőeljárás alapjául szolgáló ügyben az 59. §-ban meghatározott bűncselekmény miatt a bíróság jogerős, bűnösséget megállapító ügydöntő határozatot hozott, a szakértői nyilvántartó szerv a DNS-profilt és a szájnyálkahártya-törletet az ügydöntő határozat jogerőre emelkedését követően haladéktalanul
 
 - a) nyilvántartásba veszi a bűncselekmény elkövetése miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartásában, és ezzel egyidejűleg
 - b) törli a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásából, ha a büntetőeljárás alá vont személyek DNS-profiljainak nyilvántartásában való további nyilvántartásának a feltételei nem állnak fenn.
@@ -830,10 +830,10 @@ miatt indítottak büntetőeljárást.
 68. § (1) Elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) a bűnügyi nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni
 
 - a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
-- b) a nyomozó hatóság és az ügyészség bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
+- b) az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 - c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
-- d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
-- e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
+- d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi feladatai ellátása céljából,
+- e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
 - f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
 - g) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából,
 - h) az általános rendőri feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személy- és létesítményvédelmi feladatainak ellátása céljából.
@@ -847,7 +847,9 @@ miatt indítottak büntetőeljárást.
 - b) a közúti közlekedésrendészeti feladatai ellátása során a gépjárművezetéstől eltiltás hatálya alatt állás ellenőrzése céljából
   - ba) a 11. § (1) bekezdés c), e), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, valamint
   - bb) a 16. § (1) bekezdés c), f), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
-- c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § c) és h) pontjában meghatározott adatok;
+- c) a közrendvédelmi, valamint határrendészeti feladatainak ellátása során
+  - ca) a kényszerintézkedések végrehajtása ellenőrzése céljából a 23. § c) és h) pontjában meghatározott adatok,
+  - cb) a határbiztosítási távoltartás szabályai betartásának ellenőrzése céljából a 23. § c) pontjában meghatározott adatok, amennyiben az érintettet a határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), jogellenes tartózkodás elősegítése (Btk. 354. §), jogellenes bevándorlás elősegítése, támogatása (Btk. 353/A. §) bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vontak;
 - d) a vagyonvédelmi rendszert tervező és szerelő tevékenység, valamint a magánnyomozói tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
   - da) a 11. § (1) bekezdés ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
   - db) a 16. § (1) bekezdés ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
@@ -918,19 +920,19 @@ miatt indítottak büntetőeljárást.
 - c) a büntetés-végrehajtási pártfogó felügyelő által a pártfogó felügyelet végrehajtása céljából közvetlen hozzáféréssel átvenni a pártfogó felügyelet hatálya alatt álló személy következő adatait:
   - ca) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatározott adatok,
   - cb) ha az érintett személlyel szemben kényszergyógykezelést rendeltek el, a 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatok,
-  - cc) ha az érintett személlyel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet vagy ideiglenes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
+  - cc) ha az érintett személlyel szemben letartóztatást, bűnügyi felügyeletet, távoltartást vagy előzetes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
 
 (8a) A pártfogó felügyelői szolgálat a közérdekű munka és a pártfogó felügyelet végrehajtása céljából jogosult közvetlen hozzáféréssel átvenni a közérdekű munka, illetve pártfogó felügyelet hatálya alatt álló személy következő adatait:
 
 - a) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatározott adatok,
 - b) ha az érintett személlyel szemben kényszergyógykezelést rendeltek el, a 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatok,
-- c) ha az érintett személlyel szemben előzetes letartóztatást, lakhelyelhagyási tilalmat, házi őrizetet vagy ideiglenes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
+- c) ha az érintett személlyel szemben letartóztatást, bűnügyi felügyeletet, távoltartást vagy előzetes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
 
 (9) Az útlevélhatóság a külföldre utazás jogát korlátozó feltételek fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult átvenni a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat.
 
 (10) A szakértői nyilvántartó szerv az e törvényben meghatározott találati adattovábbítás és automatikus találati adathozzáférést követő adattovábbítás teljesítése, valamint szakvélemény elkészítése céljából közvetlen hozzáféréssel jogosult a 4. § (2) bekezdés a) pontjában foglalt adatokat átvenni.
 
-(11) Az Országgyűlési Őrség törvényben meghatározott személy- és létesítményvédelmi feladatainak ellátásához közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
+(11) Az Országgyűlési Őrség törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátásához közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
 - a) a 11. § (1) bekezdés c), e), f), h) és i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 - b) a 16. § (1) bekezdés c), f), g) és i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
@@ -1012,7 +1014,7 @@ előírja.
   - ab) a szakértői nyilvántartó szerv irányításáért felelős szerv,
   - ac) a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH),
   - ad) a törvényességi felügyelet gyakorlása során a legfőbb ügyész;
-- b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság;
+- b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, illetve az előkészítő eljárást lefolytató szerv;
 - c) törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
 (4) A bűnügyi nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatokat a jogosultság törlésétől számított öt évig kell kezelni.
@@ -1169,7 +1171,7 @@ közvetlen hozzáféréssel adatokat kíván átvenni a bűnügyi nyilvántartá
 
 76/D. § A tagállami ítéletek nyilvántartásának adatállományából közvetlen hozzáféréssel jogosult átvenni
 
-- a) a nyomozó hatóság, az ügyészség vagy a bíróság arra a magyar állampolgárságú, bűncselekmény elkövetésével megalapozottan gyanúsítható személyre, illetve
+- a) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség vagy a bíróság arra a magyar állampolgárságú, bűncselekménnyel megalapozottan gyanúsítható személyre, illetve
 - b) a nemzetbiztonsági szolgálatok arra a felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladata ellátása során érintett magyar állampolgárságú személyre
 
 vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ítéletet hozott és az ítélet esetében magyar bíróság a nemzetközi bűnügyi jogsegélyről szóló törvény szerinti, a külföldi ítélet elismerésére irányuló eljárást, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti megfeleltetési eljárást még nem folytatott le.
@@ -1182,11 +1184,11 @@ vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ít�
 
 77. § A bűnügyi nyilvántartó szerv központi hatóságként végzi a bűnügyi nyilvántartási rendszerben kezelt adatoknak az Európai Unió más tagállamával való cseréjével összefüggő adatfogadási, adatátadási és egyéb adatkezelési feladatokat.
 
-78. § (1) A bűnügyi nyilvántartó szerv késedelem nélkül tájékoztatja az Európai Unió más tagállama központi hatóságát a bűntettesek nyilvántartásába, valamint – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, az érintett tagállam állampolgáraira vonatkozó bűnösséget megállapító jogerős ítéletben szereplő alábbi adatokról és azok későbbi változásáról vagy módosulásáról:
+78. § (1) A bűnügyi nyilvántartó szerv késedelem nélkül tájékoztatja az Európai Unió más tagállama központi hatóságát a bűntettesek nyilvántartásába, valamint – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába felvett, az érintett tagállam állampolgáraira vonatkozó bűnösséget megállapító jogerős ügydöntő határozatban szereplő alábbi adatokról és azok későbbi változásáról vagy módosulásáról:
 
 - a) az elítélt személyazonosító adatai,
-- b) az ítélet kelte, jogerőre emelkedésének időpontja, az ítéletet hozó bíróság megnevezése,
-- c) az ítélet alapjául szolgáló bűncselekmény elkövetésének helye, időpontja, a bűncselekmény megnevezése vagy jogi minősítése, valamint azokra a rendelkezésekre való hivatkozás, amelyeken a bűncselekmény elbírálása alapult,
+- b) az ügydöntő határozat kelte, jogerőre emelkedésének időpontja, az azt meghozó bíróság megnevezése,
+- c) az ügydöntő határozat alapjául szolgáló bűncselekmény elkövetésének helye, időpontja, a bűncselekmény megnevezése vagy jogi minősítése, valamint azokra a rendelkezésekre való hivatkozás, amelyeken a bűncselekmény elbírálása alapult,
 - d) a büntetésekre, az intézkedésekre és azok végrehajtására vonatkozó adatok.
 
 (2) Az átvevő tagállamot tájékoztatni kell
@@ -1264,12 +1266,12 @@ meghatározott adatokat a kérelmet benyújtó központi hatóság részére.
 
 (4) Az (1) bekezdés szerinti összehasonlítás kezdeményezésére és adatátvételre
 
-- a) a nyomozó hatóság és az ügyészség a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása,
+- a) az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség a bűncselekmények felderítése, illetve büntetőeljárás lefolytatása,
 - b) a nemzetbiztonsági szolgálatok a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés,
-- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv felderítés, elhárítás és információszerzés,
+- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, továbbá elhárítás és információszerzés,
 - d) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
 - e) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása,
-- f) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése és felderítése
+- f) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése
 
 céljából jogosult.
 
@@ -1283,7 +1285,7 @@ céljából jogosult.
 
 ### Igénylés alapján történő adattovábbítás
 
-83. § (1) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a bűncselekmények felderítése, a büntetőeljárás lefolytatása, valamint bűnügyi jogsegélykérelem teljesítése céljából a nyomozó hatóság vagy az ügyészség, a bűnügyi jogsegélykérelem teljesítése céljából a bíróság, továbbá bűnügyi jogsegélykérelem teljesítése, valamint a bűnüldöző szervek nemzetközi együttműködése keretében végzett információcsere céljából a rendőrség és a Nemzeti Adó- és Vámhivatal bűnmegelőzési és bűnüldözési feladatot ellátó szervei (a továbbiakban: bűnüldözési feladatot ellátó szerv) részére
+83. § (1) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a bűncselekmények felderítése, a büntetőeljárás lefolytatása, valamint bűnügyi jogsegélykérelem teljesítése céljából az előkészítő eljárást folytató szerv, a nyomozó hatóság vagy az ügyészség, a bűnügyi jogsegélykérelem teljesítése céljából a bíróság, továbbá bűnügyi jogsegélykérelem teljesítése, valamint a bűnüldöző szervek nemzetközi együttműködése keretében végzett információcsere céljából a rendőrség és a Nemzeti Adó- és Vámhivatal bűnmegelőzési feladatot ellátó szervei (a továbbiakban: bűnüldözési feladatot ellátó szerv) részére
 
 - a) a daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomat azonos másolatát,
 - b) a DNS-profil-nyilvántartásban kezelt DNS-profilt,
@@ -1315,7 +1317,7 @@ továbbítja.
 
 (3) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil nem egyezik meg az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállam nemzeti kapcsolattartó pontjával ezt a tényt automatikusan közli.
 
-(4) A szakértői nyilvántartó szerv a nyomozó hatóság, az ügyészség vagy a bíróság rendelkezésére, egyedi ügyben büntetőeljárás lefolytatása céljából
+(4) A szakértői nyilvántartó szerv az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség vagy a bíróság rendelkezésére, egyedi ügyben büntetőeljárás lefolytatása céljából
 
 - a) a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot,
 - b) a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett DNS-profilt, vagy
@@ -1325,18 +1327,18 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 
 (4a) A szakértői nyilvántartó szerv egyedi ügyben kizárólag bűncselekmények megelőzése vagy felderítése céljából
 
-- a) a nyomozó hatóság vagy az ügyészség rendelkezésére a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot vagy a 82. § (4) bekezdés a) pontja alapján megküldött ujj- és tenyérnyomatot,
+- a) az előkészítő eljárást folytató szerv, a nyomozó hatóság vagy az ügyészség rendelkezésére a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot vagy a 82. § (4) bekezdés a) pontja alapján megküldött ujj- és tenyérnyomatot,
 - b) a bűnüldözési feladatot ellátó szerv rendelkezésére a bűnügyi és rendészeti biometrikus adatok nyilvántartásába felvett ujj- és tenyérnyomatot, illetve a 82. § (4) bekezdés c) vagy f) pontja alapján megküldött ujj- és tenyérnyomatot
 
 automatikus találati adathozzáférés útján összehasonlítja az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomatokkal.
 
-(5) Ha az ujj- és tenyérnyomat vagy DNS-profil (4) vagy (4a) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomattal vagy DNS-profillal, az egyezés tényéről a szakértői nyilvántartó szerv haladéktalanul értesíti azt a bűnüldözési feladatot ellátó szervet, nyomozó hatóságot, ügyészséget vagy bíróságot, amely az összehasonlítást elrendelte. Az értesítés tartalmazza az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot, valamint az érintett együttműködő tagállam megjelölését.
+(5) Ha az ujj- és tenyérnyomat vagy DNS-profil (4) vagy (4a) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomattal vagy DNS-profillal, az egyezés tényéről a szakértői nyilvántartó szerv haladéktalanul értesíti azt a bűnüldözési feladatot ellátó szervet, előkészítő eljárást folytató szervet, nyomozó hatóságot, ügyészséget vagy bíróságot, amely az összehasonlítást elrendelte. Az értesítés tartalmazza az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot, valamint az érintett együttműködő tagállam megjelölését.
 
-(6) Ha a (4) vagy (4a) bekezdés szerinti összehasonlítás eredményeként a szakértői nyilvántartó szerv azt állapítja meg, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomattal vagy DNS-profillal azonos ujj- és tenyérnyomat vagy DNS-profil nem található, ennek tényét haladéktalanul közli azzal a bűnüldözési feladatot ellátó szervvel, nyomozó hatósággal, ügyészséggel vagy bírósággal, amely az összehasonlítást elrendelte.
+(6) Ha a (4) vagy (4a) bekezdés szerinti összehasonlítás eredményeként a szakértői nyilvántartó szerv azt állapítja meg, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomattal vagy DNS-profillal azonos ujj- és tenyérnyomat vagy DNS-profil nem található, ennek tényét haladéktalanul közli azzal a bűnüldözési feladatot ellátó szervvel, előkészítő eljárást folytató szervvel, nyomozó hatósággal, ügyészséggel vagy bírósággal, amely az összehasonlítást elrendelte.
 
 (7) A bűncselekmény helyszínén és a bűncselekmény elkövetésének nyomait hordozó tárgyon rögzített anyagmaradványból meghatározott DNS-profilt a szakértői nyilvántartó szerv az együttműködő tagállammal egyeztetett időpontban automatizált módon összehasonlítja e tagállam nyilvántartásában kezelt DNS-profilokkal.
 
-(8) Ha a DNS-profiloknak a (7) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez, a szakértői nyilvántartó szerv az egyezés tényéről, az összehasonlítás során az Európai Unió tagállamaitól átvett szakrendszeri azonosító kódról, valamint az érintett együttműködő tagállamról haladéktalanul értesíti azt a nyomozó hatóságot, ügyészséget vagy bíróságot, amelynek eljárásában a DNS-profil meghatározásának alapjául szolgáló anyagmaradvány rögzítésére sor került.
+(8) Ha a DNS-profiloknak a (7) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez, a szakértői nyilvántartó szerv az egyezés tényéről, az összehasonlítás során az Európai Unió tagállamaitól átvett szakrendszeri azonosító kódról, valamint az érintett együttműködő tagállamról haladéktalanul értesíti azt az előkészítő eljárást folytató szervet, nyomozó hatóságot, ügyészséget vagy bíróságot, amelynek eljárásában a DNS-profil meghatározásának alapjául szolgáló anyagmaradvány rögzítésére sor került.
 
 86. § (1) A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a bűncselekmények megelőzése és az ellenük való küzdelem terén folytatott együttműködés fokozásáról szóló, a 2008. évi LXVI. törvénnyel kihirdetett Megállapodáson (a továbbiakban: Megállapodás) alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja a Megállapodás alapján kijelölt nemzeti kapcsolattartó pont részére az ujj- és tenyérnyomat, valamint a DNS-profil elektronikus úton történő összehasonlítását a bűncselekmény elkövetése miatt jogerősen elítélt személyek ujj- és tenyérnyomatainak nyilvántartásában, valamint a bűncselekmény elkövetése miatt jogerősen elítélt személyek DNS-profiljainak nyilvántartásában kezelt adatokkal.
 
@@ -1354,13 +1356,13 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 
 (4) Ha az együttműködő tagállam a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok birtokában a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében további, a bűnügyi nyilvántartási rendszerben kezelt adatok továbbítását kéri, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság közvetlen hozzáféréssel átveszi a bűnügyi nyilvántartási rendszerből azokat a személyes adatokat, amelyeket az együttműködő tagállam a kérelmében kifejezetten megjelölt.
 
-86/B. § (1) Ha a szakértői nyilvántartó szerv a 85. § (5) bekezdése alapján szakrendszeri azonosító kódot küldött az összehasonlítást kérő bűnüldözési feladatot ellátó szervnek, nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv és a nyomozó hatóság a kérelmét a Nemzetközi Bűnügyi Együttműködési Központon keresztül továbbítja az együttműködő tagállamnak.
+86/B. § (1) Ha a szakértői nyilvántartó szerv a 85. § (5) bekezdése alapján szakrendszeri azonosító kódot küldött az összehasonlítást kérő bűnüldözési feladatot ellátó szervnek, előkészítő eljárást folytató szervnek, nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv, az ügyészség kivételével az előkészítő eljárást folytató szerv és a nyomozó hatóság a kérelmét a Nemzetközi Bűnügyi Együttműködési Központon keresztül továbbítja az együttműködő tagállamnak.
 
-(2) Ha ez a bűnmegelőzés vagy a büntetőeljárás lefolytatása céljából szükséges, a személyazonosító adatok birtokában az összehasonlítást kérő bűnüldözési feladatot ellátó szerv, a nyomozó hatóság, az ügyészség vagy a bíróság az együttműködő tagállamtól kérheti az érintett személlyel kapcsolatos további bűnügyi személyes adatok továbbítását. A bűnügyi személyes adatokat a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében vagy a 79. § alapján a bűnügyi nyilvántartó szerv útján lehet igényelni.
+(2) Ha ez a bűnmegelőzés vagy a büntetőeljárás lefolytatása céljából szükséges, a személyazonosító adatok birtokában az összehasonlítást kérő bűnüldözési feladatot ellátó szerv, az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség vagy a bíróság az együttműködő tagállamtól kérheti az érintett személlyel kapcsolatos további bűnügyi személyes adatok továbbítását. A bűnügyi személyes adatokat a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében vagy a 79. § alapján a bűnügyi nyilvántartó szerv útján lehet igényelni.
 
-86/C. § (1) Ha a szakértői nyilvántartó szerv a 85. § (8) bekezdése alapján szakrendszeri azonosító kódot küldött valamely nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv és a nyomozó hatóság a kérelmét a Nemzetközi Bűnügyi Együttműködési Központon keresztül továbbítja az együttműködő tagállamnak.
+86/C. § (1) Ha a szakértői nyilvántartó szerv a 85. § (8) bekezdése alapján szakrendszeri azonosító kódot küldött valamely előkészítő eljárást folytató szervnek, nyomozó hatóságnak, ügyészségnek vagy bíróságnak, az értesített szerv a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében az együttműködő tagállamhoz fordulhat a szakrendszeri azonosító kódhoz tartozó személyazonosító adatok továbbítása érdekében. A bűnüldözési feladatot ellátó szerv, az ügyészség kivételével az előkészítő eljárást folytató szerv és a nyomozó hatóság a kérelmét a Nemzetközi Bűnügyi Együttműködési Központon keresztül továbbítja az együttműködő tagállamnak.
 
-(2) A személyazonosító adatok birtokában az a nyomozó hatóság, ügyészség vagy bíróság, amelynek eljárásában a DNS-profil meghatározásának alapjául szolgáló anyagmaradvány rögzítésére sor került, az együttműködő tagállamtól kérheti az érintett személlyel kapcsolatos további bűnügyi személyes adatok továbbítását. A bűnügyi személyes adatokat a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében vagy a 79. § alapján a bűnügyi nyilvántartó szerv útján lehet igényelni.
+(2) A személyazonosító adatok birtokában az az előkészítő eljárást folytató szerv, nyomozó hatóság, ügyészség vagy bíróság, amelynek eljárásában a DNS-profil meghatározásának alapjául szolgáló anyagmaradvány rögzítésére sor került, az együttműködő tagállamtól kérheti az érintett személlyel kapcsolatos további bűnügyi személyes adatok továbbítását. A bűnügyi személyes adatokat a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében vagy a 79. § alapján a bűnügyi nyilvántartó szerv útján lehet igényelni.
 
 86/D. § (1) Ha a szakértői nyilvántartó szerv a 86. § (2) bekezdése alapján szakrendszeri azonosító kódot küldött a Megállapodás alapján kijelölt nemzeti kapcsolattartó pont részére, és az Amerikai Egyesült Államok hatáskörrel rendelkező szerve ezt követően a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében kérelemmel fordult a magyar szervekhez a szakrendszeri azonosító kódhoz tartozó további személyes adatok továbbítása érdekében, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság megkeresi a szakértői nyilvántartó szervet a megkapott szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok továbbítása érdekében.
 
@@ -1385,7 +1387,7 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 
 88. § (1) Ha a bűnügyi nyilvántartó szerv vagy a szakértői nyilvántartó szerv megállapítja, hogy a nyilvántartott adatok helytelenek vagy pontatlanok, az adatokat helyesbíti.
 
-(2) A bűnügyi nyilvántartó szerv a személyes adatok kezelésére vonatkozó törvényi rendelkezések betartásának ellenőrzésére vonatkozó jogkörében eljáró NAIH, valamint az e törvény hatálya alá tartozó nyilvántartások feletti törvényességi felügyeleti jogkörében eljáró ügyész részére a nyilvántartásokba való betekintést biztosítja.
+(2) A bűnügyi nyilvántartó szerv a személyes adatok kezelésére vonatkozó törvényi rendelkezések betartásának ellenőrzésére vonatkozó jogkörében eljáró NAIH, valamint az e törvény hatálya alá tartozó nyilvántartások feletti törvényességi felügyeleti jogkörében eljáró ügyészség részére a nyilvántartásokba való betekintést biztosítja.
 
 (3) A (2) bekezdés szerinti betekintés tényéről, valamint a betekintés eredményeként tett megállapításokról jegyzőkönyvet kell felvenni.
 
@@ -1412,7 +1414,7 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 - a) az adatkezelés jogszerűségének ellenőrzése céljából a bűnügyi nyilvántartó szerv irányításáért felelős szerv vagy a szakértői nyilvántartó szerv irányításáért felelős szerv,
 - b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából a legfőbb ügyész,
 - c) a NAIH,
-- d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság, továbbá
+- d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá
 - e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
 (2) Az Európai Unió más tagállama számára a tagállami ítéletek nyilvántartásából történő adattovábbításról az (1) bekezdés a)–c) pontja szerinti szervek igényelhetnek adatot.
@@ -1479,7 +1481,7 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 
 erre feljogosított tagja jogosult.
 
-(4) A testi kényszer alkalmazására egyebekben a Rendőrségről szóló 1994. évi XXXIV. törvény rendelkezéseit kell megfelelően alkalmazni.
+(4) A testi kényszer alkalmazására egyebekben a Rendőrségről szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (5) Az (1)–(4) bekezdésben meghatározott mintavételi szabályokat az arcképmás rögzítésére is megfelelően alkalmazni kell.
 

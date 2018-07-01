@@ -139,7 +139,7 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 - a) tisztségére méltatlanná vált,
 - b) munkaköri feladatait egészségi okból 90 napon túl folyamatosan nem tudja ellátni.
 
-(8) Tisztségére méltatlannak kell tekinteni a főigazgatót (főigazgató-helyettest), ha a bíróság jogerős ítéletével szándékos bűncselekmény elkövetésében bűnösségét megállapította, illetőleg feladatainak neki felróható okból nem tesz eleget.
+(8) Tisztségére méltatlannak kell tekinteni a főigazgatót (főigazgató-helyettest), ha a bíróság jogerős ügydöntő határozatával szándékos bűncselekmény elkövetésében bűnösségét megállapította, illetőleg feladatainak neki felróható okból nem tesz eleget.
 
 9. § (1) Nem lehet a Levéltár főigazgatója (főigazgató-helyettese) az, aki a kinevezés időpontját megelőző tíz évben a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, párt országos szervének tisztségviselője vagy alkalmazottja volt. Nem lehet a Levéltár főigazgatója (főigazgató-helyettese) az sem, aki a volt BM III. Főcsoportfőnökség és elődei alkalmazásában állt, vagy azok jelentéseit megkapta, illetve e szervekkel kapcsolatban álló hálózati személy vagy operatív kapcsolat volt.
 

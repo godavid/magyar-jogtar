@@ -275,7 +275,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 
 18. § (1) Az állomány tagja a parancsadásra jogosult személy, vagy a katonai rendész járőr felszólítására személyazonosságát igazolni köteles.
 
-(2) A katonai rendész járőr korlátozhatja az állomány tagjának személyes szabadságát, továbbá az állomány tagját igazoltathatja és előállíthatja, ha az állomány tagját bűncselekmény, szabálysértés, vagy súlyos fegyelemsértés elkövetésének megalapozott gyanúja terhel, vagy ilyen cselekmény elkövetése közben tetten érték. A személyes szabadság korlátozásának eljárási szabályait miniszteri rendelet határozza meg azzal, hogy az előállítás és az ideiglenes őrizet legfeljebb 6 órán át tarthat.
+(2) A katonai rendész járőr korlátozhatja az állomány tagjának személyes szabadságát, továbbá az állomány tagját igazoltathatja és előállíthatja, ha az állomány tagját bűncselekmény, szabálysértés, vagy súlyos fegyelemsértés gyanúja terheli, vagy ilyen cselekmény elkövetése közben tetten érték. A személyes szabadság korlátozásának eljárási szabályait miniszteri rendelet határozza meg azzal, hogy az előállítás és az ideiglenes őrizet legfeljebb 6 órán át tarthat.
 
 (3) A Hvt. szerinti szükséges és arányos mértékű kényszerítő eszköz alkalmazható az állomány tagjával szemben az előállítás helyszínének önkényes elhagyása, vagy ennek megkísérlése, továbbá a katonai rendész járőr jogos intézkedésének való ellenszegülés esetén.
 
@@ -414,7 +414,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 - d) aki a betöltendő munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 - e) aki próbára bocsátás intézkedés hatálya alatt áll,
 - f) akinek lefokozására vagy szolgálati viszonyának megszüntetésére fegyelmi fenyítésként vagy méltatlanság megállapítása miatt került sor, a jogerőre emelkedéstől számított 5 évig, vagy
-- g) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig.
+- g) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll.
 
 (3) Az öregségi nyugdíjban, korhatár előtti ellátásban vagy szolgálati járandóságban részesülő személy állományba vételéről a munkáltatói jogkört gyakorló – az öregségi nyugdíjnak, korhatár előtti ellátásnak vagy a szolgálati járandóságnak a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.) 83/C. § (1) bekezdése, illetve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény (a továbbiakban: Kenytv.) 11. § (1) bekezdése szerint történő szüneteltetés érdekében, az érintett személy nevének és társadalombiztosítási azonosító jelének megküldésével – haladéktalanul értesíti a nyugdíjfolyósító szervet.
 
@@ -1021,7 +1021,7 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 - i) a 31. § (2) bekezdése szerinti követelmények igazolásának ismételt szabályszerű felhívást követő elmulasztása esetén, ha az állomány tagja nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye,
 - j) a katonai szolgálatra fizikai okból alkalmatlansága esetén,
 - k) a 147. § (1) bekezdés f) vagy g) pontja szerinti fenyítést kiszabó határozat jogerőre emelkedésével,
-- l) a 162. § (1) bekezdés a) vagy b) pontja szerinti bírósági ítélet jogerőre emelkedésével, a 162. § (2) bekezdése kivételével,
+- l) a 162. § (1) bekezdés a) vagy b) pontja szerinti bírósági ügydöntő határozat jogerőre emelkedésével, a 162. § (2) bekezdése kivételével,
 - m) a 162. § (1) bekezdés c) pontja szerinti katonai szolgálatra méltatlanság megállapítása esetén,
 - n) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően honvédelmi egészségkárosodási járadékra való jogosultságát állapítják meg,
 - o) ha az egészségi okból katonai szolgálatra való alkalmatlansága megállapítását követően a honvédségi szervezetnél történő munkaviszony létesítésére tekintettel részére honvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
@@ -1620,8 +1620,8 @@ tényleges szolgálati viszonyban töltött időnek kell elismerni. A jubileumi 
 
 - a) a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állomány,
 - b) a szolgálati beosztásból való felfüggesztés,
-- c) az előzetes letartóztatás,
-- d) az ideiglenes kényszergyógykezelés,
+- c) a letartóztatás,
+- d) az előzetes kényszergyógykezelés,
 - e) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 132. § (1) bekezdése szerinti szabadságvesztés, és
 - f) a jogellenes távollét
 
@@ -1808,7 +1808,7 @@ valósul-e meg.
 108. § (1) Mentesül az állomány tagja a szolgálatteljesítési kötelezettsége alól
 
 - a) az állampolgári kötelezettsége teljesítésének idejére,
-- b) a bíróság vagy a hatóság idézésére, értesítésére, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
+- b) a bíróság, ügyészség, nyomozó hatóság vagy más hatóság idézésére, értesítésére, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 - c) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára,
 - d) közeli hozzátartozója vagy élettársa halálakor, esetenként legalább 2, legfeljebb 5 munkanapra,
 - e) az orvosi vizsgálat teljes időtartamára, továbbá az egészségügyi szabadságot nem igénylő egészségügyi kezelések időtartamára,
@@ -1870,8 +1870,8 @@ munkanap pótszabadság jár. A pótszabadság fogyatékos gyermekenként 2 munk
 
 - a) a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állományba tartozás,
 - b) a szolgálati beosztásból történő felfüggesztés,
-- c) az előzetes letartóztatás, a lakhelyelhagyási tilalom,
-- d) az ideiglenes kényszergyógykezelés, valamint
+- c) az olyan bűnügyi felügyelet időtartamát, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, illetve a letartóztatás
+- d) az előzetes kényszergyógykezelés, valamint
 - e) a katonai fogdán végrehajtani rendelt szabadságvesztés büntetés
 
 időtartamát.
@@ -2155,15 +2155,15 @@ szerinti mértékben kerül megállapításra.
 
 - a) a 46. § (1) bekezdés n) vagy o) pontja szerinti rendelkezési állományba tartozás,
 - b) a szolgálati beosztásból történő felfüggesztés,
-- c) az előzetes letartóztatás, a lakhelyelhagyási tilalom,
-- d) az ideiglenes kényszergyógykezelés, valamint
+- c) az olyan bűnügyi felügyelet időtartama alatt, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, illetve a letartóztatás
+- d) az előzetes kényszergyógykezelés, valamint
 - e) a katonai fogdán végrehajtani rendelt szabadságvesztés büntetés
 
 időtartama alatt.
 
 (2) A munkáltatói jogkört gyakorló az (1) bekezdésben meghatározott esetekben az illetmény 50%-ot meghaladó mértékű, de legfeljebb az öregségi nyugdíj jogszabályban meghatározott mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum) meghaladó részének visszatartásáról is dönthet, ha
 
-- a) az állomány tagjának előzetes letartóztatását, lakhelyelhagyási tilalmát vagy ideiglenes kényszergyógykezelését a bíróság meghosszabbítja,
+- a) az állomány tagjának letartóztatását, olyan bűnügyi felügyeletét, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el vagy előzetes kényszergyógykezelését a bíróság meghosszabbítja,
 - b) az állomány tagjával szemben vádemelésre kerül sor,
 - c) az állomány tagja vezető beosztást tölt be, vagy
 - d) az állomány tagjának az illetmény visszatartását megalapozó magatartása ismétlődő jellegű vagy a szolgálati beosztásával közvetlenül összefügg.
@@ -2172,7 +2172,7 @@ időtartama alatt.
 
 - a) a szolgálatra méltatlanság megállapítását megalapozó határozat kézbesítésétől,
 - b) a szolgálati viszony megszüntetését vagy lefokozást kimondó fegyelmi határozat kézbesítésétől vagy
-- c) a szolgálati viszony megszüntetését, a közügyektől eltiltást vagy a lefokozást kimondó bírósági ítélet kihirdetésétől.
+- c) a szolgálati viszony megszüntetését, a közügyektől eltiltást vagy a lefokozást kimondó bírósági ügydöntő határozat kihirdetésétől.
 
 (4) Az (1)–(3) bekezdésben meghatározott időtartamok alatt az állomány tagja nem jogosult a 73. § (1) bekezdése szerinti szerződés-hosszabbítási díjra.
 
@@ -2283,7 +2283,7 @@ valósul meg. A legénységi állomány tagja, továbbá az állomány próbaid�
 
 - a) akinek a szolgálati viszonyban töltött ideje meghaladta a 3 évet,
 - b) akivel szemben nem folyik fegyelmi eljárás,
-- c) akivel szemben nem folyik – a magánindítvány vagy pótmagánvádló vádindítványa alapján indult eljárás kivételével – büntetőeljárás,
+- c) akivel szemben nem folyik – a magánvádas vagy pótmagánvádas eljárás kivételével – büntetőeljárás,
 - d) akinek nincs folyamatban a hivatásos szolgálati viszonyának megszűnése vagy megszüntetése,
 - e) aki a (2) bekezdés szerinti kezességvállalással biztosított hitelrészt a hitelintézetnek kiegyenlítette, illetve a vele közös háztartásban élő házastársa vagy élettársa – az igénylés időpontjában – az állami kezességvállalással biztosított lakáscélú hitel törlesztésére nem kötelezett.
 
@@ -2443,7 +2443,7 @@ valósul meg. A legénységi állomány tagja, továbbá az állomány próbaid�
 - b) a kötelezettség elmulasztása, vagy nem teljesítése esetén az a nap, amikor a kötelezettség teljesítésére rendelkezésre álló határidő eltelt, vagy
 - c) jogellenes állapot fenntartásában megvalósuló kötelezettségszegés esetén az a nap, amikor a jogellenes állapot megszűnt.
 
-(4) Amennyiben a kötelezettségszegés miatt először büntető- vagy szabálysértési eljárás indul, a fegyelmi eljárás megindítására nyitva álló 30 napos határidőt a jogerős határozatnak a munkáltatói jogkört gyakorlóval történt közlésétől, az egyéves határidőt az eljárás jogerős befejezésétől kell számítani.
+(4) Amennyiben a kötelezettségszegés miatt először büntető- vagy szabálysértési eljárás indul, a fegyelmi eljárás megindítására nyitva álló 30 napos határidőt a szabálysértési eljárásban hozott jogerős határozatnak, illetve a büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészségnek, illetve a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható határozatának a munkáltatói jogkört gyakorlóval történt közlésétől, az egyéves határidőt a szabálysértési eljárás jogerős befejezésétől, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
 
 147. § (1) A szolgálati rend és fegyelem védelme, az elkövető nevelése, valamint másoknak a fegyelemsértéstől történő visszatartása érdekében
 
@@ -2606,7 +2606,7 @@ tart. A szolgálati beosztásból való felfüggesztést haladéktalanul meg kel
 
 160. § (1) Ha a katonai vétség miatt a büntetőeljárásról szóló törvény szerint a büntetés célja fenyítéssel is elérhető, a fegyelmi eljárást a (2)–(4) bekezdés szerinti eltérésekkel kell lefolytatni.
 
-(2) Bűncselekményt megvalósító fegyelemsértés esetén nem indítható eljárás, ha az a Btk. szerint elévült, vagy ha az állomány tagjának büntetőeljárásba gyanúsítottkénti bevonásáról történő munkáltatói tudomásszerzést követően 3 hónap eltelt.
+(2) Bűncselekményt megvalósító fegyelemsértés esetén nem indítható eljárás, ha az a Btk. szerint elévült, vagy ha az állomány tagjának gyanúsítotti kihallgatásáról történő munkáltatói tudomásszerzést követően 3 hónap eltelt.
 
 (3) Fenyítésként határozatban a 147. § (1) bekezdés szerinti fenyítés vagy pénzbüntetés szabható ki. A pénzbüntetés legalacsonyabb összege ötezer forint, legmagasabb összege kétszázezer forint. A pénzbüntetés végrehajtása legfeljebb 1 év próbaidőre felfüggeszthető. A pénzbüntetés végrehajtásáig, és azt követő 1 év időtartamban az állomány tagja fenyítés hatálya alatt áll.
 
@@ -2614,21 +2614,21 @@ tart. A szolgálati beosztásból való felfüggesztést haladéktalanul meg kel
 
 #### 92. A büntetőeljáráshoz kapcsolódó rendelkezések
 
-160/A. § (1) Az állomány tagja a munkáltatói jogkört gyakorló részére köteles írásban bejelenteni azt a tényt, ha vele szemben közvádra üldözendő bűntett megalapozott gyanúját közölték.
+160/A. § (1) Az állomány tagja a munkáltatói jogkört gyakorló részére köteles írásban bejelenteni azt a tényt, ha közvádra üldözendő bűntett miatt gyanúsítottként hallgatták ki.
 
-(2) Az állomány tagja a megalapozott gyanú közlését követő tizenöt napon belül köteles az (1) bekezdés szerinti kötelezettségének eleget tenni, e határidő elmulasztása esetén az állomány tagja igazolással élhet.
+(2) Az állomány tagja a gyanúsítotti kihallgatást követő tizenöt napon belül köteles az (1) bekezdés szerinti kötelezettségének eleget tenni, e határidő elmulasztása esetén az állomány tagja igazolással élhet.
 
 (3) Igazolásnak nincs helye akkor, ha a büntetőeljárásról a munkáltató tudomást szerzett, kivéve ha az állomány tagja a tájékoztatási kötelezettségének önhibáján kívül nem tud eleget tenni, ez esetben az (1) bekezdésben foglalt határidőt az akadály elhárultát követő naptól kell számítani.
 
-(4) Fegyelmi vétségnek minősül, ha az állomány tagja az (1) bekezdés szerinti bejelentési kötelezettségét elmulasztja, mulasztása miatt igazolással nem élt, és a munkáltatói jogkört gyakorló tudomására jut, hogy az állomány tagja ellen büntetőeljárás indult és a megalapozott gyanú közlése is megtörtént.
+(4) Fegyelmi vétségnek minősül, ha az állomány tagja az (1) bekezdés szerinti bejelentési kötelezettségét elmulasztja, mulasztása miatt igazolással nem élt, és a munkáltatói jogkört gyakorló tudomására jut, hogy az állomány tagjával szemben büntetőeljárás indult és a gyanúsítotti kihallgatás is megtörtént.
 
-160/B. § (1) Ha a munkáltatói jogkört gyakorló a büntetőeljárásról szóló törvény 63/A. § (2a) bekezdése alapján tájékoztatást kap arról, hogy az állomány tagjával szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint a 160/A. § (1) bekezdése szerinti bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
+160/B. § (1) Ha a munkáltatói jogkört gyakorló a büntetőeljárásról szóló 2017. évi XC. törvény 111. §-a alapján tájékoztatást kap arról, hogy az állomány tagjával szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint a 160/A. § (1) bekezdése szerinti bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
 
 (2) A munkáltatói jogkört gyakorló a 160/A. § (1) bekezdése szerinti bejelentés során tudomására jutott személyes adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni.
 
-161. § (1) A munkáltatói jogkört gyakorló az állomány tagját szolgálati beosztásából határozattal felfüggeszti, ha az állomány tagja ellen büntetőeljárás indul, és a terhére rótt bűncselekmény a Honvédség tekintélyét, működésébe vetett közbizalmat súlyosan sérti vagy veszélyezteti, vagy a szolgálattól való távol tartása indokolt.
+161. § (1) A munkáltatói jogkört gyakorló az állomány tagját szolgálati beosztásából határozattal felfüggeszti, ha az állomány tagjával szemben büntetőeljárás indul, és a bűncselekmény a Honvédség tekintélyét, működésébe vetett közbizalmat súlyosan sérti vagy veszélyezteti, vagy a szolgálattól való távol tartása indokolt.
 
-(2) A szolgálati beosztásból történő felfüggesztés legfeljebb az első fokú határozat kihirdetéséig, a Btk. 135. §-a szerinti katonai büntetés kiszabása esetén az eljárás jogerős befejezéséig tart.
+(2) A szolgálati beosztásból történő felfüggesztés legfeljebb az első fokú ügydöntő határozat kihirdetéséig, a Btk. 135. §-a szerinti katonai büntetés kiszabása esetén az eljárás jogerős ügydöntő határozattal történő befejezéséig tart.
 
 (3) Az állomány szolgálati beosztásból felfüggesztett tagjára a 152. § (2) bekezdését alkalmazni kell.
 

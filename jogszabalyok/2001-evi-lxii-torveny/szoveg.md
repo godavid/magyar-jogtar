@@ -254,12 +254,14 @@ Ezek az információk szolgálják
 
 (6c) A nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
+(6d) A nyilvántartó szerv a (6b) bekezdés szerinti adatszolgáltatást az idegenrendészeti hatóság, valamint a menekültügyi hatóság részére az adatokhoz való közvetlen hozzáférés útján biztosítja.
+
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
-- a) a központi idegenrendészeti nyilvántartásból a kiutasításról, illetőleg a beutazási és tartózkodási tilalom fennállásáról, valamint a magyarországi tartózkodásra jogosító engedély adatairól;
+- a) a központi idegenrendészeti nyilvántartásból a kiutasításról, a beutazási és tartózkodási tilalom fennállásáról, a letelepedett vagy bevándorolt jogállás fennállásáról közvetlen hozzáféréssel;
 - b) a személyiadat- és lakcímnyilvántartásból;
 - c) az állampolgársági ügyekben eljáró szervtől a magyar állampolgárság tekintetében;
-- d) a központi menekültügyi nyilvántartásból a menekültkénti vagy menedékeskénti elismerésről.
+- d) a menekültügyi nyilvántartásból a menekült vagy menedékes jogállás fennállásáról közvetlen hozzáféréssel.
 
 (7a) Az idegenrendészeti hatóság a kiutasításról szóló végleges határozata közlésével, illetve a beutazási és tartózkodási tilalom elrendelésével, a menekültügyi hatóság a menekültkénti, menedékeskénti elismerésről szóló végleges határozata közlésével, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a magyarországi bejelentett lakóhely címét tartalmazó, a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadásával egyidejűleg – ha az idegenrendészeti hatóság, a menekültügyi hatóság vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv a (6) bekezdés szerinti adatigénylés során megállapítja, hogy az eljárásával érintett személy szerepel a (6) bekezdés szerinti nyilvántartásban – az igazolvány visszavonása érdekében haladéktalanul értesíti az elbíráló hatóságot.
 

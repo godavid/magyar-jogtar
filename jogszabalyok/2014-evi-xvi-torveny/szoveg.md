@@ -2824,7 +2824,7 @@ szemben.
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a hatáskörében eljáró,
 
-- a) a folyamatban lévő büntetőeljárás, a feljelentés kiegészítése keretében a nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
+- a) nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
 - b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 - c) az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (a továbbiakban: OLAF)
 
@@ -2850,15 +2850,15 @@ szemben.
 - b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, a központi szerződő féllel, a központi értéktárral, a Kormány által kijelölt kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző OLAF-fal,
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
-- e) a folyamatban lévő büntetőeljárás keretében eljáró, valamint a feljelentés kiegészítését folytató nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
+- e) a büntetőeljárás során az előkészítő eljárást folytató szervvel és a nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
 - f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
-- g) külön törvényben meghatározott feltételek teljesülése esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+- g) külön törvényben meghatározott feltételek teljesülése esetén a titkos információgyűjtésre felhatalmazott szervvel,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
 - i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal,
 - j) a feladatkörében eljáró országgyűlési biztossal,
 - k) a Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
-szemben, e szerveknek a befektetési alapkezelőhöz intézett írásbeli megkeresése esetén.
+szemben, e szerveknek a befektetési alapkezelőhöz intézett adatkérése, illetve írásbeli megkeresése esetén.
 
 (2) A 198. § (1) bekezdésében meghatározott titoktartási kötelezettség nem áll fenn abban az esetben sem, ha
 
@@ -2883,7 +2883,7 @@ szemben, e szerveknek a befektetési alapkezelőhöz intézett írásbeli megker
 
 (8) Befektetési alapkezelő jogutód nélküli megszűnése esetén az általuk kezelt értékpapírtitkot tartalmazó irat a keletkezésétől számított 60 év múlva a levéltári kutatások céljára felhasználható.
 
-200. § (1) A befektetési alapkezelő a nyomozó hatóság, a nemzetbiztonsági szolgálat és az ügyészség írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
+200. § (1) A befektetési alapkezelő az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
 
 - a) kábítószerrel való visszaéléssel,
 - b) terrorcselekménnyel,

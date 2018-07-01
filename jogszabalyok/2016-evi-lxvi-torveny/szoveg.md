@@ -367,7 +367,9 @@ szerint módosul.
 
 157–160. §
 
-161. §
+161. § Az Art. 31/B. § a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az általános forgalmi adó alanya külön jogszabályban meghatározott elektronikus módon adatszolgáltatást teljesít az állami adó- és vámhatóság részére azon számlázási funkcióval rendelkező programmal kibocsátott számlák külön jogszabályban meghatározott adattartalmáról, amelyekben egy másik, belföldön nyilvántartásba vett adóalanyra áthárított adó összege a 100 000 forintot eléri vagy meghaladja. Az adóalany ezen számlákat érintő módosításról vagy érvénytelenítésről is külön jogszabályban meghatározott módon elektronikus adatszolgáltatást teljesít.”
 
 162. §
 
@@ -414,7 +416,8 @@ szerint módosul.
 - 1.
 - 2–3.
 - 4–14.
-- 15–16.
+- 15. 31/B. § (1), (2), (3), (4) és (5) bekezdésében az „1 000 000 forintot” szövegrész helyébe a „100 000 forintot” szöveg,
+- 16. 31/B. § (2) bekezdésében az „azon számlákról” szövegrész helyébe az „azon nyomdai úton előállított nyomtatvány használatával kibocsátott számlákról” szöveg,
 - 17–19.
 - 20.
 - 21–22.

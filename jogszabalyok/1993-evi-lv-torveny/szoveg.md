@@ -185,7 +185,7 @@ igazolható.
 
 (5) Az állampolgársági bizonyítvány kiadására irányuló eljárásban újrafelvételi kérelem nem nyújtható be.
 
-12. § Az igazságszolgáltatási, a bűnüldöző, az idegenrendészeti, a nemzetbiztonsági, a katonai igazgatási szervek, a jegyző (főjegyző), a közjegyző, valamint a konzuli és külföldi hatóság, továbbá más hatóság, illetve állami szerv megkeresésére az állampolgársági ügyekben eljáró szerv megállapítja az ügyfél magyar állampolgárságának fennállását, megszűnését vagy azt, hogy az ügyfél nem magyar állampolgár.
+12. § Az igazságszolgáltatási, a bűnüldöző, az idegenrendészeti, a nemzetbiztonsági, a katonai igazgatási szervek, a jegyző (főjegyző), a közjegyző, valamint a konzuli és külföldi hatóság, továbbá más hatóság, illetve állami szerv megkeresésére vagy adatkérésére az állampolgársági ügyekben eljáró szerv megállapítja az ügyfél magyar állampolgárságának fennállását, megszűnését vagy azt, hogy az ügyfél nem magyar állampolgár.
 
 ### Az állampolgársági eljárás
 

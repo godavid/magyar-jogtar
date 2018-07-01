@@ -162,7 +162,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 (4) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
 - a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- b) nyomozó hatóság és az ügyész,
+- b) a bíróság, az ügyészség és a nyomozó hatóság,
 - c) a nemzetbiztonsági szolgálatok.
 
 (5) Az adattovábbítási nyilvántartás adatait az adattovábbítástól számított öt évig meg kell őrizni.

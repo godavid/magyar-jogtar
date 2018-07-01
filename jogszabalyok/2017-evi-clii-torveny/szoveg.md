@@ -242,7 +242,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 - a) az elrendelésének oka megszűnt,
 - b) a vámhatóság a vámigazgatási eljárást megszüntette,
 - c) a vámigazgatási ügy érdemében döntést hozott, vagy
-- d) a vámjogszabályok megsértésével összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a büntetőügyben eljáró hatóság a vámhatóságot megkereste.
+- d) a vámjogszabályok megsértésével összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a bíróság, ügyészség, vagy nyomozó hatóság a vámhatóságot megkereste.
 
 (2) Eltérő rendelkezés hiányában a tényállás tisztázásához a továbbiakban már nem szükséges lefoglalt árut és eszközt a lefoglalás megszüntetéséről rendelkező döntés közlését követő 30 napon belül ki kell adni annak, akitől azt lefoglalták, feltéve, hogy a lefoglalással kapcsolatos költségeket megfizeti. Ha a vámhatóság más szerv hatáskörébe tartozó eljárást kezdeményez, az eljárás lefolytatásához szükséges lefoglalt iratokat és tárgyi bizonyítékokat át kell adni a megkeresett szervnek.
 
@@ -401,7 +401,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 - a) a személy azonosítása érdekében a polgárok személyiadat- és lakcímnyilvántartásából, útlevélszám alapján az útlevél-nyilvántartásból, a cégbírósági nyilvántartásból és az egyéni vállalkozói nyilvántartásból,
 - b) az áru és gépjármű azonosításához a gépjármű-nyilvántartásból,
 - c) a Vámkódex 39. cikk a) pontjában meghatározott feltételek ellenőrzése céljából, a 82. § (2) bekezdésében meghatározott gazdasági tevékenységgel összefüggő súlyos bűncselekmény kérelmező általi elkövetésének ténye vonatkozásában (időpont, bűncselekmény megjelölése, kiszabott büntetés és mellékbüntetés) a bűntettesek nyilvántartásából a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti rendszerből,
-- d) a Vámkódex 39. cikk a) pontjában meghatározott feltételek ellenőrzésével összefüggésben az FJA 28. cikk (2) bekezdésében meghatározottak végrehajtásának biztosítása céljából, a 82. § (2) bekezdésében meghatározott gazdasági tevékenységgel összefüggő súlyos bűncselekmény elkövetésének gyanúja miatt a kérelmezővel szemben indult büntetőeljárás vonatkozásában (eljáró szerv megjelölése, tagállam, az eljárás kezdő időpontja) a büntetőeljárás alatt állók nyilvántartásából, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti rendszerből, vagy
+- d) a Vámkódex 39. cikk a) pontjában meghatározott feltételek ellenőrzésével összefüggésben az FJA 28. cikk (2) bekezdésében meghatározottak végrehajtásának biztosítása céljából, a 82. § (2) bekezdésében meghatározott gazdasági tevékenységgel összefüggő súlyos bűncselekmény miatt a kérelmezővel szemben indult büntetőeljárás vonatkozásában (eljáró szerv megjelölése, tagállam, az eljárás kezdő időpontja) a büntetőeljárás alatt állók nyilvántartásából, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti rendszerből, vagy
 - e) jogszabályi felhatalmazás alapján az abban meghatározott nyilvántartásokból.
 
 (2) A vámhatóság megkeresésére a hitelintézet a vámérték valódiságának, a vámtartozás, valamint az egyéb terhek befizetésének ellenőrzéséhez pénzforgalmi adatokat térítésmentesen szolgáltat.
@@ -412,11 +412,11 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 
 #### 29. § [Tájékoztatás vámtitokról és összesített adatokról]
 
-(1) E § alkalmazásában a vámhatóság megkeresés esetén annak beérkezésétől számított 30 napon belül, illetve hivatalból tájékoztatja a vámtitokról
+(1) E § alkalmazásában a vámhatóság megkeresés, illetve adatkérés esetén annak beérkezésétől számított 30 napon belül, illetve hivatalból tájékoztatja a vámtitokról
 
 - a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából,
 - b) a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet és a terrorizmust elhárító szervet törvényben meghatározott feladatai ellátása érdekében,
-- c) az ügyészt, valamint a nyomozó hatóságot törvényben meghatározott feladatai ellátása céljából,
+- c) az ügyészséget, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet törvényben meghatározott feladatai ellátása céljából,
 - d) a bíróságot az igazságszolgáltatási tevékenysége ellátása céljából,
 - e) engedélyezési, ellenőrzési, felügyeleti, nyilvántartási, hitelesítési és piacfelügyeleti feladataik ellátása céljából,
   - ea) a nemzeti külkereskedelmi államigazgatási szervet,
@@ -1378,7 +1378,7 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 - a) a vámigazgatási ügyben közölt vámok és egyéb terhek összegét, továbbá a végleges döntéssel megállapított vámigazgatási bírságot megfizették, vagy
 - b) a lefoglalt, szállításra használt eszköz nem a jogsértést elkövető tulajdona, és a tulajdonos írásban nyilatkozik arról, hogy a szóban forgó jogsértés időpontjában nem volt tudomása arról, hogy az eszközt vámjogszabályok megsértése céljából használják fel, és ezt követően a tényállás a lefoglalás fenntartása nélkül is tisztázható.
 
-(6) A 20. § (1) bekezdés d) pontja szerinti eset kivételével a gyorsított eljárás esetén a lefoglalt áru és eszköz kiadása kapcsán a 20. § (3) bekezdését alkalmazni kell. A lefoglalt áru és eszköz visszaadásának feltétele az, hogy az e törvény végrehajtási rendelete alapján megállapított raktárdíjat megfizetik. A 20. § (1) bekezdés d) pontja szerinti esetben a lefoglalt dolgot a büntetőeljárást lefolytató hatóságnak kell átadni a lefoglalás megszüntetésével egyidejűleg.
+(6) A 20. § (1) bekezdés d) pontja szerinti eset kivételével a gyorsított eljárás esetén a lefoglalt áru és eszköz kiadása kapcsán a 20. § (3) bekezdését alkalmazni kell. A lefoglalt áru és eszköz visszaadásának feltétele az, hogy az e törvény végrehajtási rendelete alapján megállapított raktárdíjat megfizetik. A 20. § (1) bekezdés d) pontja szerinti esetben a lefoglalt dolgot a bíróságnak, ügyészségnek vagy nyomozó hatóságnak kell átadni a lefoglalás megszüntetésével egyidejűleg.
 
 (7) A 20. § (3) bekezdés szerinti személyek részére visszaadni rendelt, nem uniós árut és eszközt a lefoglalás megszüntetéséről rendelkező döntés közlését követő 30 napon belül vámeljárás alá kell vonni, vagy ki kell szállítani az Európai Unió vámterületéről.
 
@@ -2961,7 +2961,7 @@ Felhatalmazást kap a Kormány, hogy
 - a) a Magyarország területén lévő vámhivatalok székhelyét és illetékességét,
 - b) a tranzitterület létesítését vámellenőrzési szempontból engedélyező vámszervet,
 - c) az EMGA felülellenőrzés végrehajtására kijelölt vámszervet,
-- d)
+- d) a vámtanácsadói és vámügynöki nyilvántartásba történő felvétel és törlés végrehajtását, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a nyilvántartásba vett személyek kötelező továbbképzésére, valamint a kreditpont minősítési eljárásra és az eljárásért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
@@ -3084,4 +3084,4 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (4)
 
-(5) Hatályát veszti a 213. § (1) bekezdés 20. pontja.
+(5)

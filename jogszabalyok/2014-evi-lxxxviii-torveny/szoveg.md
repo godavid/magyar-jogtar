@@ -708,9 +708,9 @@ tartalmazza.
 - a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, XVII. és XVIII. fejezetében, vagy
 - b) a Btk. XXVII. vagy XXXV–XLIII. Fejezetében
 
-meghatározott bűncselekmény miatt vádemelésre került sor, vagy külföldön az illetékes hatóság részéről vádemelésre került sor olyan bűncselekmény miatt, amely az 1978. évi IV. törvény XVII. vagy XVIII. fejezete szerint 2013. június 30-ig büntetendő volt, vagy a Btk. XXXV–XLIII. Fejezetében foglaltak szerint büntetendő a büntetőeljárás jogerős befejezéséig vezető állású tisztségéhez kapcsolódó feladatai általa történő ellátását fel kell függeszteni.
+meghatározott bűncselekmény miatt vádemelésre került sor, vagy külföldön az illetékes hatóság részéről vádemelésre került sor olyan bűncselekmény miatt, amely az 1978. évi IV. törvény XVII. vagy XVIII. fejezete szerint 2013. június 30-ig büntetendő volt, vagy a Btk. XXXV–XLIII. Fejezetében foglaltak szerint büntetendő a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig vezető állású tisztségéhez kapcsolódó feladatai általa történő ellátását fel kell függeszteni.
 
-(5) Az a személy, akivel szemben a (4) bekezdésben meghatározott bűncselekmény miatt vádemelésre került sor, a büntetőeljárás jogerős befejezéséig vezető állású személynek nem nevezhető ki és nem választható meg.
+(5) Az a személy, akivel szemben a (4) bekezdésben meghatározott bűncselekmény miatt vádemelésre került sor, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig vezető állású személynek nem nevezhető ki és nem választható meg.
 
 (6) Ha a vezető állású személy megsérti a működésére vonatkozó jogszabályok előírásait, a Felügyelet a kötelezettségszegés súlyának figyelembevételével kezdeményezheti a vezető állású személy felmentését. A biztosító és a viszontbiztosító a kezdeményezés alapján köteles megtenni a felmentéshez szükséges intézkedéseket.
 
@@ -1618,7 +1618,7 @@ kell érteni.
 
 124. § (1) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a biztosítási esemény bekövetkezése esetén milyen szolgáltatásokat és költségeket milyen okiratok bemutatása ellenében teljesít.
 
-(2) A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett biztosítási esemény tekintetében indult büntető- vagy szabálysértési eljárás jogerős befejezéséhez nem kötheti.
+(2) A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett biztosítási esemény tekintetében indult szabálysértési eljárás jogerős befejezéséhez, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséhez, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalához nem kötheti.
 
 #### 48/A. A megtakarítási jellegű életbiztosítások különös szabályai
 
@@ -1822,7 +1822,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 138. § (1) A biztosítási titok megtartásának kötelezettsége nem áll fenn
 
 - a) a feladatkörében eljáró Felügyelettel,
-- b) a nyomozás elrendelését követően a nyomozó hatósággal és az ügyészséggel,
+- b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal és az ügyészséggel,
 - c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 - d) a hagyatéki ügyben eljáró közjegyzővel, továbbá az általa kirendelt szakértővel,
 - e) a (2) bekezdésben foglalt esetekben az adóhatósággal,
@@ -1830,7 +1830,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 - g) a feladatkörében eljáró Gazdasági Versenyhivatallal,
 - h) a feladatkörében eljáró gyámhatósággal,
 - i) az egészségügyről szóló 1997. évi CLIV. törvény 108. § (2) bekezdésében foglalt esetben az egészségügyi államigazgatási szervvel,
-- j) törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
+- j) törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 - k) a viszontbiztosítóval, a csoport másik vállalkozásával, valamint együttbiztosítás esetén a kockázatvállaló biztosítókkal,
 - l) törvényben szabályozott adattovábbítások során átadott adatok tekintetében a kötvénynyilvántartást vezető kötvénynyilvántartó szervvel, a kártörténeti nyilvántartást vezető kárnyilvántartó szervvel, továbbá a járműnyilvántartásban nem szereplő gépjárművekkel kapcsolatos közúti közlekedési igazgatási feladatokkal összefüggő hatósági ügyekben a közlekedési igazgatási hatósággal, valamint a közúti közlekedési nyilvántartási szervével,
 - m) az állományátruházás keretében átadásra kerülő biztosítási szerződési állomány tekintetében – az erre irányuló megállapodás rendelkezései szerint – az átvevő biztosítóval,
@@ -1843,7 +1843,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 - t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel,
 - u) a felszámoló szervezeteket nyilvántartó hatósággal,
 
-szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
+szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy adatkéréssel, illetve írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, vagy ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
@@ -1857,7 +1857,7 @@ szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy
 
 (5) A biztosítási titoktartási kötelezettség az eljárás keretén kívül az (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
 
-(6) A biztosító vagy a viszontbiztosító a nemzetbiztonsági szolgálat, az ügyészség, továbbá az ügyész jóváhagyásával a nyomozó hatóság írásbeli megkeresésére akkor is köteles haladéktalanul, írásban tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
+(6) A biztosító vagy a viszontbiztosító a nemzetbiztonsági szolgálat, az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, továbbá a bíróság adatkérésére, illetve írásbeli megkeresésére akkor is köteles haladéktalanul, írásban tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
 
 - a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben foglaltak szerinti kábítószerrel visszaéléssel, új pszichoaktív anyaggal visszaéléssel, terrorcselekménnyel, robbanóanyaggal vagy robbantószerrel visszaéléssel, lőfegyverrel vagy lőszerrel visszaéléssel, pénzmosással, bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel,
 - b) a Btk. szerinti kábítószer-kereskedelemmel, kábítószer birtoklásával, kóros szenvedélykeltéssel vagy kábítószer készítésének elősegítésével, új pszichoaktív anyaggal visszaéléssel, terrorcselekménnyel, terrorcselekmény feljelentésének elmulasztásával, terrorizmus finanszírozásával, robbanóanyaggal vagy robbantószerrel visszaéléssel, lőfegyverrel vagy lőszerrel visszaéléssel, pénzmosással, bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel
@@ -1918,7 +1918,9 @@ van összefüggésben.
 - e) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző Kormány által kijelölt belső ellenőrzési szervvel,
 - f) vagyonellenőrrel,
 - g) Információs Központtal,
-- h) – a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében – az agrárkár-megállapító szervvel, agrárkár-enyhítési szervvel, mezőgazdasági igazgatási szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel szemben.
+- h) – a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében – az agrárkár-megállapító szervvel, agrárkár-enyhítési szervvel, mezőgazdasági igazgatási szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel
+
+szemben.
 
 (2) Nem jelenti az üzleti titok sérelmét a biztosító által az adóhatóság felé történő adatszolgáltatás a FATCA-törvény alapján az Aktv. 43/B–43/C. §-ában foglalt kötelezettség teljesítéséhez.
 
@@ -1926,7 +1928,7 @@ van összefüggésben.
 
 (4) A 144. §-ban előírt titoktartási kötelezettség nem áll fenn
 
-- a) a nyomozás elrendelését követően a nyomozó hatósággal és ügyészséggel,
+- a) a nyomozó hatósággal és ügyészséggel,
 - b) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, valamint az önkormányzati adósságrendezési eljárás keretében a bírósággal szemben.
 
 (5) Nem jelenti az üzleti titok sérelmét a Felügyelet által a biztosítókról és a viszontbiztosítókról egyedi azonosításra alkalmas adatok szolgáltatása a jogalkotás megalapozása és hatásvizsgálatok elvégzése céljából a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter részére.
@@ -4564,6 +4566,10 @@ változás következett be, akkor a (2) bekezdés szerinti szakmai képzés, ill
 (6) A biztosításközvetítőt a biztosításközvetítői tevékenységéért a kapott jutalékon kívül más juttatás nem illeti meg a biztosítótól. A biztosító a biztosításközvetítőt a jutalékon kívül, a biztosításközvetítői tevékenységtől eltérő szolgáltatás ellentételezéseként egyéb díjazásban, juttatásban részesítheti, a jogosultság pontos jogcímének feltüntetésével, ellenőrizhető és átlátható módon, dokumentált formában.
 
 (7) Az (1)–(6) bekezdésben foglaltak a független biztosításközvetítők esetében is megfelelően alkalmazandóak azzal, hogy esetükben jutalékon a biztosítótól származó, a biztosítási díj meghatározott részét képező közvetett díjazást kell érteni.
+
+#### 169/A. A biztosítási szerződések általános javadalmazási szabályai
+
+377/A. § A 377. § (3)–(6) bekezdésében foglaltak minden, biztosításközvetítő által közvetített biztosítási szerződésre vonatkozóan alkalmazandóak azzal, hogy független biztosításközvetítő esetén jutalékon a biztosítótól származó, a biztosítási díj meghatározott részét képező közvetett díjazást kell érteni.
 
 #### 170. A biztosításközvetítő és a kiegészítő biztosításközvetítői tevékenységet végző személy tájékoztatási kötelezettsége
 

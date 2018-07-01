@@ -12,17 +12,19 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (2) A rendőrség az az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:
 
-- 1. általános bűnügyi nyomozó hatósági jogkört gyakorol, végzi a bűncselekmények megelőzését, megakadályozását és felderítését, valamint a bűncselekményből származó vagyon visszaszerzését,
+- 1. végzi a bűncselekmények megelőzését, amelynek során figyelemmel kíséri Magyarország bűnügyi helyzetét, feltárja a bűncselekmények elkövetésének kockázatait, a bűncselekmények elkövetésére irányuló törekvéseket, továbbá megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a bűnözéshez kapcsolódó, a bűncselekmények megelőzése, illetve megakadályozása céljából szükséges információkat,
+- 1a. általános nyomozó hatósági jogkört gyakorol, a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekmények felderítését, valamint a bűncselekményből származó vagyon visszaszerzését,
 - 2. szabálysértési hatósági jogkört gyakorol, közreműködik a szabálysértések megelőzésében és felderítésében,
 - 3. ellátja a közbiztonságra veszélyes egyes eszközök és anyagok előállításával, forgalmazásával és felhasználásával kapcsolatos hatósági feladatokat,
 - 4. közlekedési hatósági és rendészeti feladatokat lát el,
 - 5. ellátja a közterület rendjének fenntartásával kapcsolatos rendészeti feladatokat,
-- 6. gondoskodik a büntetőeljárásban részt vevők és az eljárást folytató hatóság tagjainak személyi védelméről, valamint a büntetőeljárásban részt vevők, az igazságszolgáltatást segítők Védelmi Programjának (a továbbiakban: Védelmi Program) végrehajtásáról, továbbá védi a Magyarország szempontjából – külön jogszabályban meghatározott – különösen fontos személyek (a továbbiakban: védett személy) életét, testi épségét, őrzi a kijelölt létesítményeket,
+- 6. gondoskodik a büntetőeljárással összefüggésben a jogszabályban meghatározott személyi kört érintő személyi védelmi feladatok (a továbbiakban: személyi védelem) ellátásáról, továbbá a büntetőeljárásban részt vevők Védelmi Programjának (a továbbiakban: Védelmi Program) a végrehajtásáról,
+- 6a. védi a jogszabályban meghatározott, Magyarország szempontjából különösen fontos személyek (a továbbiakban: védett személy) életét, testi épségét; őrzi a jogszabályban meghatározott létesítményeket és értékeket (a továbbiakban együtt: személybiztosítási és létesítményvédelmi feladatok),
 - 7. engedélyezi és felügyeli a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységet,
 - 7a. engedélyezi – nemzetközi megállapodás eltérő rendelkezése hiányában – a szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitelét és az együttműködő, külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalát,
 - 8. büntetés-végrehajtási feladatokat lát el,
 - 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet, a váratlan támadás és a veszélyhelyzet esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
-- 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat,
+- 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat, részt vesz a jogellenes bevándorlás megakadályozásában.
 - 11. ellenőrzi az államhatáron áthaladó személy- és járműforgalmat, a szállítmányokat – ide nem értve a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendeletben meghatározott vámellenőrzést –, valamint végzi a határátléptetést, továbbá biztosítja a határátkelőhelyek rendjét, valamint végzi a közúti határátkelőhelyek üzemeltetését, és a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását,
 - 12. irányítja a határesemények kivizsgálásával megbízott magyar szervek tevékenységét, felügyeli az államhatár felmérésével, megjelölésével, a határjelek felújításával kapcsolatos munkák végzését,
 - 13. megteszi az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedéseket, továbbá elhárítja az államhatár rendje ellen irányuló erőszakos cselekményeket,
@@ -50,7 +52,10 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (5) A rendőrség határrendészeti, bűnüldözési és bűnmegelőzési célból a nemzetbiztonsági szolgálatokkal együttműködve külföldön felderítő tevékenységet végezhet, amely során információkat gyűjt az államhatár rendjét veszélyeztető cselekmények, valamint a terrorizmussal összefüggő cselekmények felderítése és a tömeges méretű migráció kezeléséhez szükséges intézkedések végrehajtása érdekében.
 
-#### 2/A. §
+2/A. § A hatáskörrel rendelkező nemzetbiztonsági szolgálat jár el az alábbi bűncselekmények esetében a büntetőeljárás megindításáig:
+
+- a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), továbbá a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
+- b) az emberiesség elleni bűncselekmények [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XIII. Fejezet], a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet), továbbá a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §).
 
 #### 3. §
 
@@ -198,7 +203,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
   - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, közalkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai,
   - bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai, továbbá
   - be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
-- c) felderíti a b) pontban megjelölt védett állománnyal összefüggő, külön jogszabályban meghatározott bűncselekményeket.
+- c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
 
 (1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő, továbbá állami tisztviselő és állami ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
 
@@ -211,9 +216,18 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
-(3) Ha a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatai ellátása során bűncselekmény elkövetésének gyanúját észleli, haladéktalanul feljelentést tesz a nyomozás teljesítésére hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy az ügyésznél és átadja az általa összegyűjtött adatokat.
+(3) Ha a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a feladatai ellátása során
 
-(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv az általa tett feljelentés miatt indított büntetőeljárás során felkérésre – a rendelkezésre álló erőkkel és eszközökkel – közreműködik a büntetőeljárásról szóló törvény rendelkezései alapján a bíró által engedélyezett, a nyomozás teljesítésére hatáskörrel és illetékességgel rendelkező nyomozó hatóság vagy az ügyész által végzett titkos adatszerzésben.
+- a) bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, haladéktalanul feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy ügyészségnél és átadja az általa összegyűjtött adatokat;
+- b) olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye,
+  - ba) a hatáskörébe tartozó bűncselekmény esetén előkészítő eljárást indíthat, illetve
+  - bb) a nem a hatáskörébe tartozó bűncselekmény esetén előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, nyomozó hatóságnál, illetve a terrorizmust elhárító szervnél, és átadja az általa összegyűjtött adatokat.
+
+(4) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a büntetőeljárásról szóló törvényben meghatározottak szerint
+
+- a) előkészítő eljárást folytathat,
+- b) a rendelkezésre álló erőkkel és eszközökkel közreműködhet a büntetőeljárásról szóló törvényben meghatározott leplezett eszközök (a továbbiakban: leplezett eszközök) alkalmazásának végrehajtásában, illetve
+- c) közreműködhet eljárási cselekmény végrehajtásában.
 
 ### Megbízhatósági vizsgálat
 
@@ -231,32 +245,24 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (6) A megbízhatósági vizsgálat időtartama alkalmanként legfeljebb tizenöt nap, amelyet a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője egy alkalommal tizenöt nappal meghosszabbíthat. A megbízhatósági vizsgálat során végzett tevékenységeket dokumentálni kell.
 
-7/B. § (1) A megbízhatósági vizsgálat során a VII. Fejezetben írt módon – a bírói engedélyhez kötött információgyűjtés kivételével, az elrendelő határozat indokolásában írt cél megtartásával – titokban információ gyűjthető. Az alkalmazni kívánt titkos információgyűjtő eszközt az elrendelő határozatnak és a részletes tervnek tartalmaznia kell. Ha a titkos információgyűjtés alkalmazni kívánt eszközéhez ügyészi engedély szükséges, a megbízhatósági vizsgálat csak az erre vonatkozó ügyészi engedély birtokában végezhető.
+7/B. § (1) A megbízhatósági vizsgálat során a VII. Fejezetben meghatározott módon titkos információgyűjtés folytatható. A titkos információgyűjtés során alkalmazni kívánt eszközt az elrendelő határozatnak és a részletes tervnek tartalmaznia kell.
 
 (2) A megbízhatósági vizsgálatot a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagja a következők szerint végezheti:
 
 - a) polgári felhasználású robbanóanyaggal és pirotechnikai termékkel kapcsolatos szabálysértést, valótlan bejelentés szabálysértést, vámszabálysértést, vámszabálysértés elkövetőjének segítése szabálysértést, vámorgazdaság szabálysértést, minősített adat biztonságának megsértése szabálysértést, külföldiek rendészetével kapcsolatos szabálysértést, közúti közlekedési igazgatási szabályok megsértése szabálysértést, közúti közlekedési szabályok kisebb fokú megsértése szabálysértést, víziközlekedési szabályok megsértése szabálysértést, köztisztasági szabálysértést, határrendészeti szabálysértést, valamint olyan szabályszegést követhet el, amelynek esetén közigazgatási bírság kiszabásának van helye,
 - b) nem követhet el
-  - ba) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés (1978. évi IV. törvény 176. §) kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés (1978. évi IV. törvény 225. §), a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése (1978. évi IV. törvény 296. §), valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (1978. évi IV. törvény 329/A. §) kivételével –, XIX. fejezetében és XX. fejezetében meghatározott bűncselekményt,
-  - bb) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben (a továbbiakban: Btk.) meghatározott bűncselekményt, a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hivatali visszaélés (Btk. 305. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
+  - ba) az 1978. évi IV. törvény X. fejezetében, XI. fejezetében, XII. fejezetében – a magánlaksértés (1978. évi IV. törvény 176. §) kivételével –, XIII. fejezetében, XIV. fejezetében, XV. fejezetében – a hivatali visszaélés (1978. évi IV. törvény 225. §), a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), valamint a III. címben és a VII. címben foglaltak kivételével –, XVI. fejezetében – a III. címben foglaltak kivételével –, XVII. fejezetében – az áru hamis megjelölése (1978. évi IV. törvény 296. §), valamint a III. címben foglaltak kivételével –, XVIII. fejezetében – a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (1978. évi IV. törvény 329/A. §) kivételével –, XIX. fejezetében és XX. fejezetében meghatározott bűncselekményt,
+  - bb) a Btk.-ban meghatározott bűncselekményt, a személyes adattal visszaélés (Btk. 219. §), a magánlaksértés (Btk. 221. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése [Btk. 271. § (1) bekezdés], a hivatali visszaélés (Btk. 305. §), az információs rendszer felhasználásával elkövetett csalás (Btk. 375. §), a szerzői vagy szerzői joghoz kapcsolódó jogok megsértése (Btk. 385. §), a készpénz-helyettesítő fizetési eszköz hamisítása (Btk. 392. §), a készpénz-helyettesítő fizetési eszközzel visszaélés (Btk. 393. §), a készpénz-helyettesítő fizetési eszköz hamisításának elősegítése (Btk. 394. §), a versenytárs utánzása (Btk. 419. §), illetve a Btk. XXVII., XXXIII. és XXXIX. Fejezetében felsorolt bűncselekmények kivételével,
 - c) elkövetheti a jövedéki adóról szóló törvény szerinti szabálytalanságot, illetve megsértheti a jövedéki adóról szóló törvény szerinti kötelezettséget,
 - d) elkövetheti a környezetvédelmi termékdíj-kötelezettségi szabályok megsértését, a fémkereskedő fémkereskedelmi tevékenységével, fémkereskedelmi engedélyköteles anyagok más személy általi értékesítésével, szállításával, fuvarozásával, raktározásával, tárolásával, hasznosításával összefüggő szabályok megsértését, az elektronikus közúti áruforgalom ellenőrző rendszerbe a közúti fuvarozáshoz kapcsolódó bejelentési kötelezettséghez kötődő szabályok megsértését, költségvetési vagy egyéb pénzeszközök, állami támogatások felhasználásával összefüggésben adózási bejelentési, bevallási, megfizetési kötelezettségek, számviteli renddel kapcsolatos kötelezettségek megsértését.
 
-(3) A belső bűnmegelőzési és bűnfelderítési szerv megbízhatósági vizsgálatot végző tagja technikai eszközök segítségével titokban rögzítheti
-
-- a) az ügyész által jóváhagyott végrehajtási tervben szereplő mesterségesen létrehozott helyszínen, valamint a védett szervek hivatali helyiségeiben, gépjárműveiben történteket, továbbá
-- b) a 7/A. § (1) bekezdésében meghatározott célból létrehozott mesterséges élethelyzetben résztvevő, valamint a megbízhatósági vizsgálat alá vont személy vagy személyek tevékenységét, magatartását, előadását.
-
-(4) A rögzítést haladéktalanul meg kell szüntetni, ha
-
-- a) a célját elérte, vagy
-- b) az ügyész által jóváhagyott végrehajtási tervben a mesterséges élethelyzet végrehajtására meghatározott határidő lejárt.
+(3)–(4)
 
 (5) A megbízhatósági vizsgálat célja szempontjából érdektelen adatot, valamint az ügyben nem érintett személy adatait a rögzítést követő 3 napon belül törölni kell.
 
-7/C. § (1) Ha a megbízhatósági vizsgálat során bűncselekmény gyanújára utaló adat merül fel, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a megbízhatósági vizsgálat befejezését követően haladéktalanul feljelentést tesz a hatáskörrel rendelkező szervnél.
+7/C. § (1)
 
-(2) Ha a megbízhatósági vizsgálat során nem merül fel az (1) bekezdésben meghatározott adat, akkor a megbízhatósági vizsgálattal összefüggésben keletkezett iratokat, ideértve a 7/B. § (3) bekezdése alapján technikai eszközzel rögzítetteket is – a megbízhatósági vizsgálat elrendeléséről és befejezéséről szóló irat kivételével – a megbízhatósági vizsgálat befejezését követő 30 napon belül meg kell semmisíteni.
+(2) Ha a megbízhatósági vizsgálat alapján a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nem kezdeményez vagy indít büntetőeljárást, akkor a megbízhatósági vizsgálattal összefüggésben keletkezett adatokat, ideértve a 66. § (2) bekezdése alapján technikai eszközzel rögzítetteket is – a megbízhatósági vizsgálat elrendeléséről és befejezéséről szóló irat kivételével – a megbízhatósági vizsgálat befejezését követő harminc napon belül törölni kell.
 
 (3) A megbízhatósági vizsgálat befejezéséről szóló határozatot annak meghozatalát követő 2 év elteltével kell selejtezni. A megbízhatósági vizsgálat befejezéséről szóló határozat tartalmazza a vizsgálat minden lényeges adatát, így különösen az ügyész törvényességi felügyelet gyakorlásához, valamint az eljárás alá vont érdekeinek védelme szempontjából jelentőséggel bíró adatot.
 
@@ -264,42 +270,56 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (5) A megbízhatósági vizsgálatra vonatozó részletes eljárási szabályokat a Kormány rendeletben szabályozza.
 
-### A feljelentés elutasítása vagy a nyomozás megszüntetése a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv tagjával szemben
+7/D. § Nem büntethető a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv 7/B. § (2) bekezdése szerint eljáró tagja
 
-7/D. § Bűncselekmény megalapozott gyanúja esetén az ügyész a feljelentést határozattal elutasítja, vagy a nyomozást megszünteti, ha a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv 7/B. § szerint eljáró tagja által elkövetett bűncselekmény bűnmegelőzési, bűnfelderítési érdeket szolgál.
+- a) a megbízhatósági vizsgálatra vonatkozó részletes tervben rögzített bűncselekmény vagy szabálysértés miatt, ha az elkövetés bűnmegelőzési, bűnfelderítési érdeket szolgált,
+- b) a biztonságának biztosítása és lelepleződésének megakadályozása érdekében elkövetett bűncselekmény vagy szabálysértés miatt, ha a biztonságának vagy lelepleződésének megakadályozásával kapcsolatos érdek jelentősebb, mint a felelősségre vonásához fűződő érdek, illetve
+- c) olyan bűncselekmény vagy szabálysértés miatt, amely más bűncselekmény elkövetésének megelőzése vagy megszakítása érdekében szükséges, és a bűncselekmény megelőzéséhez vagy megszakításához fűződő érdek jelentősebb, mint a felelősségre vonáshoz fűződő érdek.
 
 ### A terrorizmust elhárító szerv
 
-7/E. § (1) A terrorizmust elhárító szerv nem gyakorol nyomozóhatósági jogkört. A terrorizmust elhárító szerv
+7/E. § (1) A terrorizmust elhárító szerv
 
 - a) ellátja az 1. § (2) bekezdés 15. pontjában meghatározott feladatot, amelynek keretében
-  - aa) jogszabályban meghatározottak szerint végzi 1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti terrorcselekmény (1978. évi IV. törvény 261. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), 2. a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), a jármű hatalomba kerítése (Btk. 320. §), valamint az azokkal összefüggésben elkövetett más bűncselekmények megelőzését, felderítését, megszakítását, az elkövetők elfogását,
-  - ab) végzi 1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti emberrablás (1978. évi IV. törvény 175/A. §), valamint az azzal összefüggésben elkövetett, 2. az emberrablás (Btk. 190. §), az emberrablás feljelentésének elmulasztása (Btk. 191. §), valamint az azokkal összefüggésben elkövetett más bűncselekmények megszakítását, az elkövetők elfogását,
-  - ac) végzi 1. a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti emberrablással (1978. évi IV. törvény 175/A. §), 2. az emberrablással (Btk. 190. §) összefüggésben elkövetett bűncselekményeket elkövető személyekkel, csoportokkal, szervezetekkel szembeni megelőzési, felderítési feladatokat,
+  - aa) végzi 1. az 1978. évi IV. törvény szerinti terrorcselekmény (1978. évi IV. törvény 261. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), 2. a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), a jármű hatalomba kerítése (Btk. 320. §), 3. az 1978. évi IV. törvény szerinti emberrablás (1978. évi IV. törvény 175/A. §), 4. az emberrablás (Btk. 190. §), az emberrablás feljelentésének elmulasztása (Btk. 191. §), valamint 5. az 1–4. alpontban meghatározott bűncselekménnyel összefüggő más bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését,
+  - ab)–ac)
   - ad) megelőzi, felderíti és elhárítja azokat a törekvéseket, amelyek Magyarország területén terrorcselekmény elkövetésére irányulnak, továbbá részt vesz az aa) alpontban foglalt bűncselekmények közvetlen következményeinek elhárításához szükséges, e törvényben meghatározott intézkedések végrehajtásában,
-- b) a jogszabályban meghatározottak szerint kizárólagos hatáskörrel – a Nemzeti Adó- és Vámhivatal esetében annak felkérésére – végzi egyes veszélyes személyek elfogását,
+- b) végzi
+  - ba) az a) pont aa) alpontjában meghatározott bűncselekmények megszakítását és az elkövetők elfogását,
+  - bb) a jogszabályban meghatározottak szerint kizárólagos hatáskörrel – a Nemzeti Adó- és Vámhivatal esetében annak felkérésére – egyes veszélyes személyek elfogását,
 - c) jogszabályban meghatározottak szerint egyes védett személyek tekintetében személyvédelmi feladatokat lát el és egyes kijelölt létesítmények tekintetében létesítményvédelmet gyakorol,
 - d) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok, valamint terrorista és túszejtő akciók esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában, e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival, valamint
-- e) megszerzi, elemzi, értékeli és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat.
+- e) megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat.
 - f) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntésében meghatározott időtartamra – a hatályos nemzetközi normák betartásával – ellátja a kijelölt
   - fa) magyar külképviseletek és azok diplomáciai személyzete, valamint
   - fb) a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek (intézmények) és létesítmények személy- és létesítményvédelmét, e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
 
-(2) A terrorizmust elhárító szerv az (1) bekezdés a) pont aa)–ac) alpontjában, valamint c) pontjában meghatározott feladatai ellátása érdekében a VII. fejezetben szabályozott módon titokban információt gyűjthet.
+(2) A terrorizmust elhárító szerv nyomozó hatósági jogkört nem gyakorol.
 
-(3) A terrorizmust elhárító szerv az (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátása érdekében a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 53–60. §-ának megfelelő alkalmazásával titokban információt gyűjthet, amelynek ellátása során az Nbtv. 38–52. §-a szerint jogosult adatok igénylésére és kezelésére. Az Nbtv. 56. § a)–e) pontjában meghatározott titkos információgyűjtést az igazságügyért felelős miniszter engedélyezi.
+(3) Ha a terrorizmust elhárító szerv a feladatai ellátása során
 
-(4) A terrorizmust elhárító szerv, ha bűnüldözési tevékenysége során bűncselekmény elkövetésének gyanúját észleli, haladéktalanul feljelentést tesz a nyomozás teljesítésére külön jogszabály alapján hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy az ügyésznél, és átadja az általa összegyűjtött adatokat. Nem köteles feljelentést tenni és átadni az adatokat, ha azzal veszélyeztetné az (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
+- a) bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, haladéktalanul feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy ügyészségnél és átadja az általa összegyűjtött adatokat;
+- b) olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye,
+  - ba) a hatáskörébe tartozó bűncselekmény esetén előkészítő eljárást indíthat, illetve
+  - bb) a nem a hatáskörébe tartozó bűncselekmény esetén előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, nyomozó hatóságnál, illetve a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél, és átadja az általa összegyűjtött adatokat.
 
-(5) A terrorizmust elhárító szerv (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott tevékenységére az Nbtv. 11. § (5) bekezdését, 14. § (1)–(2) bekezdését, (4) bekezdés a)–f) pontját, (5) bekezdését, 15. § (3) bekezdését, 16. §-át, 18. §-át, valamint 27. § (4) bekezdését megfelelően alkalmazni kell.
+(4) A terrorizmust elhárító szerv nem köteles büntetőeljárás megindítását kezdeményezni és átadni az adatokat, ha azzal veszélyeztetné az (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
 
-(6) A terrorizmust elhárító szerv (1) bekezdés f) pontjában meghatározott tevékenységében, a Kormány döntése alapján meghatározott időtartamra – a hatályos nemzetközi normák betartásával – a Magyar Honvédség közreműködhet.
+(5) A terrorizmust elhárító szerv a büntetőeljárásról szóló törvényben meghatározottak szerint
+
+- a) előkészítő eljárást folytathat,
+- b) a rendelkezésre álló erőkkel és eszközökkel közreműködik a leplezett eszközök alkalmazásának végrehajtásában, illetve
+- c) közreműködhet eljárási cselekmény végrehajtásában.
+
+(6) A terrorizmust elhárító szerv (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott tevékenységére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 11. § (5) bekezdését, 14. § (1) és (2) bekezdését, 14. § (4) bekezdés a)–f) pontját, 14. § (5) bekezdését, 15. § (3) bekezdését, 16. §-át, 18. §-át, valamint 27. § (4) bekezdését megfelelően alkalmazni kell.
+
+(7) A terrorizmust elhárító szerv (1) bekezdés f) pontjában meghatározott tevékenységében, a Kormány döntése alapján meghatározott időtartamra – a hatályos nemzetközi normák betartásával – a Magyar Honvédség közreműködhet.
 
 ### Az együttműködés
 
 7/F. § (1) Az általános rendőri feladatok ellátására létrehozott szerv nyilvántartásaiból a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó és a terrorizmust elhárító szerv – feladatainak teljesítéséhez – a VIII. Fejezet szerint kérhet adatot. Az adattovábbítás jogszerűségéért és pontosságáért az a szerv felel, amelyik az adatot továbbította.
 
-(2) Ha az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatellátása során hatáskörébe nem tartozó bűncselekményre utaló információ birtokába jut, azt haladéktalanul köteles átadni a hatáskörrel rendelkező szervnek. A terrorizmust elhárító szerv nem köteles az információt átadni, ha azzal veszélyeztetné a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
+(2) Ha az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatellátása során hatáskörébe nem tartozó bűncselekményre utaló, vagy személyi védelem ellátásával, Védelmi Program előkészítésével és végrehajtásával, illetve személybiztosítási és létesítményvédelmi feladattal összefüggő információ birtokába jut, azt haladéktalanul köteles átadni a hatáskörrel rendelkező szervnek. A terrorizmust elhárító szerv nem köteles az információt átadni, ha azzal veszélyeztetné a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
 
 (3) A terrorizmust elhárító szerv részére a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátásával összefüggésben a külföldi titkosszolgálatok által továbbított adatok, információk kizárólag azon külföldi titkosszolgálat előzetes hozzájárulásával továbbíthatók más adatkezelő részére, amelytől az információ származik.
 
@@ -512,7 +532,7 @@ igazolja.
 
 (5) A igazoltatás vagy a személyazonosság megállapításának sikertelensége esetén az előállítás csak a személyazonosság megállapításához szükséges ideig tarthat.
 
-(6) A rendőr az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása, a közrendet, a közbiztonságot fenyegető veszély elhárítása, bűncselekmény vagy szabálysértés elkövetésének gyanúja szükségessé teszi.
+(6) A rendőr az igazoltatott személy ruházatát, járművét átvizsgálhatja, ha azt a személyazonosság megállapítása, a közrendet, a közbiztonságot fenyegető veszély elhárítása, bűncselekmény vagy szabálysértés gyanúja szükségessé teszi.
 
 (7) Az igazoltatás során rögzített adatokat – kivéve, ha ezek büntető- vagy szabálysértési eljárásban kerülnek felhasználásra – az intézkedés befejezését követő száznyolcvanadik napon meg kell semmisíteni. Ez a rendelkezés nem vonatkozik a 24. § (4) bekezdése szerinti igazoltatás során rögzített adatok 24. § (5) bekezdésében meghatározott törlési idejére.
 
@@ -727,7 +747,7 @@ készítése
 
 - a) (1), (2), (5) és (5e) bekezdésben foglaltak alapján készített felvétel, illetve az abban szereplő személyes adat
   - aa) bűncselekmény, szabálysértés vagy a közlekedés szabályainak megsértése miatt indult büntető-, szabálysértési vagy más hatósági eljárás során,
-  - ab) titkos információgyűjtés keretében,
+  - ab) a rendőrség, illetve a Nemzeti Adó- és Vámhivatal olyan feladatellátása során, amely céljából titkos információgyűjtésnek van helye, illetve a nemzetbiztonsági szolgálatok törvényben meghatározott feladatainak ellátása érdekében,
   - ac) körözött személy vagy tárgy azonosítása érdekében,
   - ad) a rendőri intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, vagy
   - ae) az érintett személy jogainak gyakorlása érdekében,
@@ -778,7 +798,7 @@ igényelhet adatot.
 
 - a) a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti;
 - b) a közlekedési rendszabályok megtartását, a járműhasználat szabályszerűségét, az okmányokra és a felszerelésekre vonatkozó előírások megtartását, a jármű birtoklásának jogszerűségét, az üzemben tartó, illetőleg a használó személyazonosító adatait, a jármű közlekedésbiztonsági állapotát és adatait a forgalomban és a telephelyen — a jogszabályban meghatározottak alapján — ellenőrizheti;
-- c) a jármű vezetőjét a rendszeresített eszközzel légzésminta, ha nála a vezetési képességére hátrányosan ható szer befolyása vagy alkoholfogyasztás miatt bűncselekmény vagy szabálysértés, illetve a közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés elkövetésének gyanúja merül fel, az egészségügyi szolgálat igénybevételével vér-, vizelet- és műtétnek nem minősülő módon egyéb minta adására kötelezheti;
+- c) a jármű vezetőjét a rendszeresített eszközzel légzésminta, ha nála a vezetési képességére hátrányosan ható szer befolyása vagy alkoholfogyasztás miatt bűncselekmény vagy szabálysértés, illetve a közúti közlekedéssel kapcsolatban kiszabható, közigazgatási bírsággal sújtandó szabályszegés gyanúja merül fel, az egészségügyi szolgálat igénybevételével vér-, vizelet- és műtétnek nem minősülő módon egyéb minta adására kötelezheti;
 - d) a járművezetésre jogosító engedélyt (okmányt), a jármű üzemben tartására vonatkozó hatósági engedélyt (okmányt), a rakományhoz tartozó okmányokat, valamint a jármű hatósági jelzését – a külön jogszabályban meghatározottak szerint – a helyszínen elveheti;
 - e) a forgalomban való részvételt megtilthatja, ha a jármű vagy vezetőjének állapota a közúti forgalom biztonságát veszélyezteti, és a további jogellenes járműhasználat megakadályozása céljából a jármű kulcsait elveheti, illetőleg a járművet más módon mozgásában korlátozhatja vagy elszállíttathatja.
 
@@ -786,7 +806,7 @@ igényelhet adatot.
 
 45. § (1) A rendőrség, valamint a rendőr a feladata ellátása során jogosult — a külön jogszabályban meghatározott módon — a közterületen szabálytalanul elhelyezett járművet elszállíttatni vagy egyéb módon eltávolíttatni, ha az a közúti forgalom biztonságát vagy a közbiztonságot veszélyezteti. Ha a tulajdonos (üzemben tartó) nem állapítható meg, vagy a felszólítás ellenére az elszállított, eltávolított járművet nem veszi birtokba, és a tárolás költsége aránytalanul magas, a rendőrség a járművet értékesítheti, vagy más módon hasznosíthatja. Ha az elszállított, eltávolított jármű ismeretlen tulajdonosa a jármű értékesítése után 60 napon belül jelentkezik, részére az értékesítésből befolyt, a tárolási költséggel csökkentett ellenértéket ki kell fizetni.
 
-(2) Ha a közterületen szabálytalanul elhelyezett jármű baleseti veszélyt nem jelent, illetőleg, ha az a jármű biztonsága vagy bűncselekmény elkövetésének gyanúja miatt szükséges, rögzítésére a jármű elszállításáig vagy további intézkedésig kerékbilincs alkalmazható.
+(2) Ha a közterületen szabálytalanul elhelyezett jármű baleseti veszélyt nem jelent, illetőleg, ha az a jármű biztonsága vagy bűncselekmény gyanúja miatt szükséges, rögzítésére a jármű elszállításáig vagy további intézkedésig kerékbilincs alkalmazható.
 
 (3) Az elszállítás és a kerékbilincs alkalmazásának költsége a jármű tulajdonosát, vagy az üzemben tartóját, vagy a használóját terheli. A jármű elszállítása vagy a kerékbilincs alkalmazása során a járműhasználat akadályoztatása folytán keletkezett kárért a rendőrséget nem terheli kártalanítási kötelezettség.
 
@@ -819,11 +839,11 @@ igényelhet adatot.
 
 ### A személyi védelemmel, illetve Védelmi Programmal kapcsolatos intézkedés
 
-46/A. § A rendőrség a büntetőeljárásban résztvevők és az eljárást folytató hatóság tagjainak személyi védelmét, valamint a Védelmi Program végrehajtásával összefüggő feladatokat külön jogszabály szerint látja el. A Védelmi Program végrehajtásához közvetlenül kötődő személyi és tárgyi vonatkozású kiadások speciális működési kiadásoknak tekintendők. Az ilyen kiadások fedezésére szolgáló elkülönített előirányzatra, annak kezelésére a 68/A. § (1) bekezdésében meghatározott rendelkezést kell alkalmazni.
+46/A. § A rendőrség a büntetőeljárásban résztvevők és az eljárást folytató hatóság tagjainak személyi védelmét, valamint a Védelmi Program végrehajtásával összefüggő feladatokat külön jogszabály szerint látja el. A Védelmi Program végrehajtásához közvetlenül kötődő személyi és tárgyi vonatkozású kiadások speciális működési kiadásoknak tekintendők. Az ilyen kiadások fedezésére szolgáló elkülönített előirányzatra, annak kezelésére a 75/J. § (1) bekezdésében meghatározott rendelkezést kell alkalmazni.
 
 ### Rejtett ellenőrzés elrendelése
 
-46/B. § A rendőrség bűnmegelőzési, bűnüldözési és bűnfelderítési célból rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
+46/B. § A rendőrség e törvényben meghatározott bűnmegelőzési feladatai ellátása céljából, illetve a büntetőeljárásról szóló törvény alapján rejtett ellenőrzésre irányuló figyelmeztető jelzés elhelyezését rendelheti el a Schengeni Információs Rendszerben
 
 - a) arra a személyre, akiről
   - aa) megalapozottan feltehető, hogy az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. melléklete által meghatározott súlyos bűncselekményt fog elkövetni (készít elő),
@@ -868,6 +888,10 @@ igényelhet adatot.
 - c) lehetséges mértékben szakértők küldésével, valamint felszerelés biztosításával azon tagállam kérelmére, amelynek területén az esemény bekövetkezett.
 
 (2) A 46/D. § és e § alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
+
+### Határbiztosítási távoltartás
+
+46/F. § A rendőr az államhatár rendjének és a határőrizeti tevékenység zavartalanságának biztosítása érdekében megakadályozza, hogy Magyarország területének a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjának megfelelő külső határ szerinti határvonalától, illetve a határjeltől számított 8 km-es sávon belülre olyan személy lépjen be, valamint az ott tartózkodó olyan személyt távozásra kötelezi, akivel szemben a határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), jogellenes tartózkodás elősegítése (Btk. 354. §), jogellenes bevándorlás elősegítése, támogatása (Btk. 353/A. §) bűncselekmény miatt büntetőeljárás van folyamatban.
 
 ### VI. Fejezet — A KÉNYSZERÍTŐ ESZKÖZÖK
 
@@ -1089,204 +1113,364 @@ igényelhet adatot.
 
 ### VII. Fejezet — TITKOS INFORMÁCIÓGYŰJTÉS
 
-63. § (1) A rendőrség bűncselekmény elkövetésének megelőzése, megakadályozása, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése, a bűncselekményből származó vagyon visszaszerzése, valamint a büntetőeljárásban részt vevők és az eljárást folytató hatóság tagjainak, az igazságszolgáltatással együttműködő személyek védelme, valamint az e törvényben meghatározott költségvetési szervek bűnmegelőzési, bűnfelderítési célú ellenőrzése érdekében – törvény keretei között – titokban információt gyűjthet.
+### Általános rendelkezések
 
-(2)
+63. § (1) Az e törvény alapján végzett titkos információgyűjtés olyan, a magánlakás sérthetetlenségéhez, valamint a magántitok, a levéltitok és a személyes adatok védelméhez fűződő alapvető jogok korlátozásával járó, a rendőrség által végzett különleges tevékenység, amelyet a rendőrség erre feljogosított szervei az érintett tudta nélkül végeznek.
 
-(3) Az (1)—(2) bekezdés alapján tett intézkedések, az abban érintett természetes és jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek adatai nem hozhatók nyilvánosságra.
+(2) A rendőrség a titkos információgyűjtés során az e törvényben meghatározott
 
-(4)
+- a) bírói engedélyhez nem kötött eszközöket és
+- b) bírói engedélyhez kötött eszközöket
 
-(5) A rendőrség erre felhatalmazott szerve, valamint a beszerzett adat és az információgyűjtés ténye tekintetében az ügyész és a bíró a titkos információgyűjtés során külön engedély nélkül megismerheti a minősített adat tartalmát. A (2) bekezdésben meghatározott adatok és információk nemzetközi egyezmény, nemzetközi szerződés vagy megállapodás, ennek hiányában viszonosság alapján, ha a továbbítás súlyos és közvetlen veszély elhárításához, vagy súlyos bűncselekmény megelőzéséhez szükséges – amennyiben a személyes adatok kezelésének feltételei a külföldi adatkezelőnél minden egyes adat tekintetében teljesülnek – nemzetközi és külföldi bűnüldöző, igazságszolgáltatási szervek részére átadhatók.
+alkalmazhatja.
 
-### Bírói engedélyhez nem kötött titkos információgyűjtés
+(3) A titkos információgyűjtés során a 15. §-ban meghatározott arányosság követelményét fokozott körültekintéssel kell érvényesíteni.
 
-64. § (1) A rendőrség a 63. § (1) bekezdésében meghatározott bűnüldözési feladatának teljesítése érdekében
+(4) A rendőrség bűncselekmény felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, bizonyítékok megszerzése, illetve a bűncselekményből származó vagyon visszaszerzése érdekében kizárólag a büntetőeljárásról szóló törvényben meghatározottak szerint alkalmazhat leplezett eszközöket.
 
-- a) informátort, bizalmi személyt vagy a rendőrséggel titkosan együttműködő más személyt vehet igénybe;
-- b) az eljárás céljának leplezésével (puhatolás) vagy a kilétét leplező fedett nyomozó igénybevételével információt gyűjthet, adatot ellenőrizhet;
-- c) saját személyi állománya, valamint a vele együttműködő személy és rendőri jelleg leplezésére, védelmére fedőokiratot állíthat ki, használhat fel, fedőintézményt hozhat létre, és tarthat fenn;
-- d) a bűncselekmény elkövetésével gyanúsítható és vele kapcsolatban lévő személyt, valamint a bűncselekménnyel kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhet, arról információt gyűjthet, az észlelteket hang, kép, egyéb jel vagy nyom rögzítésére szolgáló technikai eszközzel (a továbbiakban: technikai eszköz) rögzítheti;
-- e) a bűncselekmény elkövetőjének leleplezésére vagy a bizonyítás érdekében — sérülést vagy egészségkárosodást nem okozó — csapdát alkalmazhat;
-- f) mintavásárlás végzése érdekében informátort, bizalmi személyt, a rendőrséggel titkosan együttműködő más személyt vagy fedett nyomozót, továbbá – az ügyész engedélyével – álvásárlás, bizalmi vásárlás, bűnszervezetbe való beépülés, illetve – a 2. § (4) bekezdésére is figyelemmel – ellenőrzött szállítás folytatása érdekében fedett nyomozót alkalmazhat;
-- g) ha a bűncselekmény megelőzésére, magakadályozására, felderítésére, az elkövető elfogására, kilétének megállapítására nincs más lehetőség, a sértettet szerepkörében – életének, testi épségének megóvása érdekében – rendőr igénybevételével helyettesítheti;
-- h) hírközlési rendszerekből és egyéb adattároló eszközökből információt gyűjthet.
+(5) Az általános rendőrségi feladatok ellátására létrehozott szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a 64. §-ban meghatározott célokból titkos információgyűjtést kizárólag az e törvényben meghatározott szabályok alapján folytathat.
 
-(1a) A rendőrség a vagyon-visszaszerzési eljárás során a bűncselekményből származó vagyon felderítése érdekében
+(6) A terrorizmust elhárító szerv a 7/E. § (1) bekezdés a) pont aa) alpontjában meghatározott, bűncselekmények megelőzésével kapcsolatos feladatai, illetve a 7/E. § (1) bekezdés b) pont ba) alpontjában, valamint c) pontjában meghatározott feladatai ellátása érdekében titkos információgyűjtést kizárólag az e törvényben meghatározott szabályok alapján folytathat.
 
-- a) a 64. § (1) bekezdés a)–c) és f)–g) pontjában foglaltakat alkalmazhatja;
-- b) a bűncselekményből származó vagyonnal kapcsolatban lévő személyt, valamint a bűncselekményből származó vagyonnal kapcsolatba hozható helyiséget, épületet és más objektumot, terep- és útvonalszakaszt, járművet, eseményt megfigyelhet, arról információt gyűjthet, az észlelteket technikai eszközzel rögzítheti;
-- c) sérülést vagy egészségkárosodást nem okozó csapdát alkalmazhat.
+(7) A terrorizmust elhárító szerv a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátása érdekében az Nbtv. 53–60. §-ának megfelelő alkalmazásával folytathat titkos információgyűjtést, amelynek ellátása során az Nbtv. 38–52. §-a szerint jogosult adatok igénylésére és kezelésére. Az Nbtv. 56. § a)–e) pontjában meghatározott titkos információgyűjtést az igazságügyért felelős miniszter engedélyezi.
 
-(2) Az (1)–(1a) bekezdésben foglaltak teljesítésére a rendőrség a természetes személyekkel, a jogi személyekkel vagy a jogi személyiséggel nem rendelkező szervezetekkel titkos együttműködési megállapodást köthet. Ennek keretében a rendőrség kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti, állami szolgálati jogviszony, illetve munkajogviszony (a továbbiakban: munkaviszony) létesítését.
+64. § A rendőrség
 
-(3) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet a (2) bekezdés hatálya alá tartozó szervezeteknél.
+- a) bűncselekmény elkövetésének megelőzése céljából, illetve a 7/E. § (1) bekezdés a) pont aa) alpontjában meghatározott, bűncselekmények megelőzésével kapcsolatos feladatai, illetve a 7/E. § (1) bekezdés b) pont ba) alpontjában meghatározott feladatai ellátása céljából,
+- b) megbízhatósági vizsgálat során,
+- c) törvényben meghatározottak szerint a körözési eljárás során,
+- d) a személyi védelem ellátása, illetve a Védelmi Program előkészítése és végrehajtása során,
+- e) személybiztosítási és létesítményvédelmi feladatai ellátása során,
+- f) az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés keretében,
+- g) bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében,
+- h) fedett nyomozó, illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében, valamint
+- i) a rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében
 
-(4) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Köztársasági Elnök Hivatalánál és az Országgyűlés Hivatalánál.
+az e törvényben meghatározott szabályok alapján folytathat titkos információgyűjtést.
 
-(5) A foglalkoztatás rendőri jellegével kapcsolatos speciális szabályokat – a hatályos jogszabályok keretei között – a rendőrség és az érintett szervezet külön megállapodása tartalmazza.
+65. § (1) Bűncselekmény elkövetésének megelőzése céljából akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a bűnözésre vonatkozó olyan információk megszerzése várható, amelyek elemzése és értékelése révén feltárhatók a bűncselekmények elkövetésére irányuló törekvések és lehetővé válik a bűncselekmények megelőzése, illetve megakadályozása.
 
-(6) Az életet, a testi épséget, a vagyont veszélyeztető fenyegetés, zsarolás, bűncselekményre való felbujtás esetén a rendőrség a használó írásbeli kérelmére a használatában lévő készüléken folytatott telefonbeszélgetés útján továbbított közlés tartalmát a kérelemben foglalt időhatáron belül megismerheti, azt technikai eszközzel rögzítheti. Az ügyben keletkezett és rögzített érdektelen információt haladéktalanul meg kell semmisíteni.
+(2) A rendőrség terrorizmust elhárító szerve akkor folytathat titkos információgyűjtést a 7/E. § (1) bekezdés b) pont ba) alpontjában meghatározott feladata ellátása céljából, ha attól a hatáskörébe tartozó bűncselekmény megszakításához vagy az elkövető elfogásához szükséges információk megszerzése várható.
 
-(7) Rendvédelmi szerv és nemzetbiztonsági szolgálat fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
+(3) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve akkor folytathat titkos információgyűjtést a megbízhatósági vizsgálat során, ha az alkalmazni kívánt bírói engedélyhez nem kötött eszköz a megbízhatósági vizsgálatot elrendelő határozatban és a részletes tervben szerepel, és az elrendelést az ügyészség jóváhagyta.
 
-(8) A rendőrség az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy, a fedett nyomozó, valamint a fedőokirat és a fedőintézmény védelme érdekében a közigazgatási nyilvántartásokban, így különösen a személyiadat- és lakcímnyilvántartásban, a személyi igazolvány nyilvántartásban, az anyakönyvben, az úti okmány nyilvántartásban, a gépjárművezetői engedély és gépjármű nyilvántartásban, az ingatlan-nyilvántartásban, a cégnyilvántartásban fedőadatokat helyezhet el. A fedőadatokat törölni kell, ha az elhelyezés alapjául szolgáló bűnüldözési érdek megszűnt.
+(4) A körözött személy személyazonosságának, illetve elérhetőségének megállapítása céljából
 
-(9) Az informátor, a bizalmi személy, a rendőrséggel titkosan együttműködő más személy által a titkos információgyűjtés keretében harmadik személynek okozott kár megtérítésére, valamint személyiségi jogsértés esetén a sérelemdíj érvényesítésére a 67. § (2) bekezdésében foglalt rendelkezéseket kell megfelelően alkalmazni.
+- a) a büntetőeljárásról szóló törvény, illetve a Bv. tv. alapján elrendelt körözés végrehajtása során,
+- b) az európai elfogatóparancs végrehajtása során,
+- c) törvényben meghatározott esetekben nemzetközi körözés végrehajtása során,
+- d) az idegenrendészeti hatóság által elrendelt körözés végrehajtása során,
+- e) az eltűnt személy bejelentés alapján elrendelt körözésének végrehajtása során, valamint
+- f) az egészségügyről szóló 1997. évi CLIV. törvény 9/A. § alapján elrendelt körözés végrehajtása során
 
-### Fedővállalkozás létrehozása, fenntartása
+akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a körözött személy hollétére vagy személyazonosságára vonatkozó információ megszerzése várható.
 
-és megszüntetése
+(5) A személyi védelem ellátása, illetve a Védelmi Program előkészítése és végrehajtása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a fenyegetett helyzetben lévő személy veszélyeztetettségére vonatkozó, illetve az ellene irányuló személy elleni erőszakos vagy közveszélyt okozó bűncselekmény megelőzését szolgáló, a végrehajtás szempontjából lényeges információ várható.
 
-#### 65. §
+(6) A személybiztosítási és létesítményvédelmi feladatok ellátása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a védett személy, a kijelölt létesítmény veszélyeztetettségére vonatkozó, valamint az ezek ellen irányuló erőszakos bűncselekmény megelőzését szolgáló információ várható.
 
-### Az együttműködők díjazása
+(7) Az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés érdekében az Európai Unió tagállama vagy harmadik ország megkeresése alapján akkor folytatható titkos információgyűjtés, ha a megkeresésben megjelölt bírói engedélyhez kötött vagy bírói engedélyhez nem kötött eszköz alkalmazását törvény lehetővé teszi.
 
-66. § (1) A rendőrség a vele együttműködők tevékenységéért anyagi ellenszolgáltatást nyújthat.
+(8) A bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében akkor folytatható titkos információgyűjtés, ha a technikai eszköz vagy elektronikus adat leplezett elhelyezéséhez vagy eltávolításához elengedhetetlenül szükséges.
 
-(2)
+(9) A fedett nyomozó, illetve a fedőintézmény védelme érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól
 
-### A feljelentés elutasításának vagy a nyomozás megszüntetésének kilátásba helyezése
+- a) a fedett nyomozó lelepleződésének megelőzését, vagy az ellene irányuló személy elleni erőszakos bűncselekmény megelőzését, vagy
+- b) a fedőintézmény lelepleződésének megelőzését
 
-67. § (1) A rendőrség az ügyész hozzájárulásával a feljelentés elutasításának vagy a nyomozás megszüntetésének kilátásba helyezésével információszolgáltatásban állapodhat meg a bűncselekmény elkövetőjével, ha a megállapodással elérhető bűnüldözési célhoz fűződő érdek jelentősebb, mint az állam büntetőjogi igényének érvényesítéséhez fűződő érdek.
+szolgáló információ várható.
 
-(2) Az (1) bekezdés szerinti megállapodás létrejötte esetén a rendőrség az elkövető által a sértettnek okozott kárt megtéríti, illetve a személyiségi jogsértés esetén a sérelemdíjat megfizeti, az ehhez szükséges fedőokiratot elkészítheti, illetve titoktartási megállapodás megkötését kezdeményezheti.
+(10) A rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése érdekében akkor folytatható titkos információgyűjtés, ha az attól várt információk
 
-(3) Nem köthető megállapodás azzal a személlyel, aki olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta.
+- a) a rendőrséggel titkosan együttműködő személy lelepleződésének megelőzése, vagy az ellene irányuló személy elleni erőszakos bűncselekmény megelőzése érdekében,
+- b) az együttműködés lehetősége, az együttműködés fenntartása, illetve a titkos együttműködési megállapodás megkötésének kérdésében való döntéshez, vagy
+- c) a rendőrséggel titkosan együttműködő személyre vonatkozó információ ellenőrzése érdekében
 
-### A feljelentés elutasítása vagy a nyomozás
+szükségesek.
 
-megszüntetése a fedett nyomozóval szemben
+65/A. § (1) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a megbízhatósági vizsgálat során bírói engedélyhez kötött eszközt nem alkalmazhat.
 
-67/A. § (1) Bűncselekmény megalapozott gyanúja esetén az ügyész a feljelentést határozattal elutasítja, vagy a nyomozást megszünteti, ha a 64. § (1) bekezdésének f) pontja szerint a bűnszervezetbe beépült fedett nyomozó által a szolgálati feladata teljesítése közben elkövetett bűncselekmény bűnüldözési érdeket szolgál, és az jelentősen meghaladja az állam büntetőjogi igényének érvényesítéséhez fűződő érdeket.
+(2) A büntetőeljárásról szóló törvény alapján a tanú személyazonossága vagy elérhetőségének megállapítása érdekében elrendelt körözés végrehajtása során bírói engedélyhez kötött eszköz nem alkalmazható.
 
-(2) A fedett nyomozó által a sértettnek okozott kár megtérítésére, illetve a személyiségi jogsértésért járó sérelemdíj megfizetésére, az ehhez szükséges fedőokirat elkészítésére, illetve a titoktartási megállapodás megkötésének kezdeményezésére a 67. § (2) bekezdésében írt rendelkezést kell alkalmazni.
+(3) A rendőrséggel titkosan együttműködő személy védelme, bevonása és ellenőrzése céljából bírói engedélyhez kötött eszköz nem alkalmazható.
 
-(3) Az (1) bekezdésben foglaltak nem alkalmazhatók, ha a fedett nyomozó olyan bűncselekményt követett el, amellyel más életét szándékosan kioltotta
+### Bírói engedélyhez nem kötött eszközök
 
-### Adatkérés
+66. § (1) A rendőrség a 64. §-ban meghatározott célból
 
-68. § (1) A rendőrség titkos információgyűjtésre felhatalmazott nyomozó szervének vezetője az ügyész jóváhagyásával a kétévi vagy ennél súlyosabb szabadságvesztéssel büntetendő, szándékos bűncselekmény felderítése, valamint a bűncselekményből származó vagyon visszaszerzése érdekében az üggyel összefüggő adatok szolgáltatását igényelheti az adóhatóságtól, valamint a vámhatóságtól; a szolgáltatást nyújtó postai szolgáltatótól, elektronikus hírközlési szolgáltatótól; az egészségügyi és a hozzá kapcsolódó adatot kezelő szervtől; továbbá a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak, a biztosítási titoknak és az üzleti titoknak minősülő adatot kezelő szervtől. A nyomozó szerv az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
+- a) információk megszerzése érdekében a rendőrséggel titkosan együttműködő személyt vehet igénybe;
+- b) az eljárás valódi céljának titokban tartásával, kilétét leplező rendőr vagy fedett nyomozó igénybevételével információt gyűjthet, ellenőrizhet;
+- c) személyt, lakást, egyéb helyiséget, bekerített helyet, nyilvános vagy a közönség részére nyitva álló helyet, illetve járművet titokban megfigyelhet, a történtekről információt gyűjthet, valamint az észlelteket technikai eszközzel rögzítheti;
+- d) valamely személyt – ha életének, testi épségének megóvása érdekében szükséges – rendőrrel helyettesítheti; illetve
+- e) elektronikus hírközlési eszközön vagy információs rendszeren folytatott kommunikáció tényének a megállapításához, az elektronikus hírközlési eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatokat megszerezheti.
 
-(1a) A rendőrség
+(2) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a megbízhatósági vizsgálat folytatása során a védett állomány tagját foglalkoztató szerv hivatali helyiségében, gépjárművében és a megbízhatósági vizsgálat helyszínén történteket, illetve a mesterséges élethelyzetben résztvevő, valamint a megbízhatósági vizsgálat alá vont személy tevékenységét és előadását titokban technikai eszközzel megfigyelheti és rögzítheti, illetve az ehhez szükséges technikai eszközt a felsorolt helyeken elhelyezheti.
 
-- a) belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a 7. § (1) bekezdés c) pontjában, valamint
-- b) terrorizmust elhárító szerve a 7/E. § (1) bekezdés a) pont aa)-ac) alpontjában és c) pontjában meghatározott feladatai ellátása során, a kétévi, vagy ennél súlyosabb szabadságvesztéssel büntetendő, szándékos bűncselekmény felderítése érdekében az ügyész jóváhagyásával adatok szolgáltatását igényelheti az (1) bekezdésben meghatározott adatkezelő szervektől.
+66/A. § (1) Nem büntethető a fedett nyomozó az alkalmazása során elkövetett bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, ha annak elkövetése
 
-(1b) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a terrorizmust elhárító szerv az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
+- a) a fedett nyomozó alkalmazásának eredményességéhez, az alkalmazással elérni kívánt, a 64. § szerinti célhoz szükséges, és az alkalmazással elérni kívánt érdek jelentősebb, mint a fedett nyomozó felelősségre vonásához fűződő érdek,
+- b) a fedett nyomozó biztonságának biztosítása, lelepleződésének megakadályozása érdekében szükséges, és a fedett nyomozó biztonságával, lelepleződésének megakadályozásával kapcsolatos érdek jelentősebb, mint a fedett nyomozó felelősségre vonásához fűződő érdek, illetve
+- c) más bűncselekmény elkövetésének megelőzése vagy megszakítása érdekében szükséges, és a bűncselekmény megelőzéséhez vagy megszakításához fűződő érdek jelentősebb, mint a fedett nyomozó felelősségre vonásához fűződő érdek.
 
-(2) Halaszthatatlan intézkedésként, ha a késedelem veszéllyel jár és az ügy kábítószer-kereskedelemmel, terrorizmussal, illegális fegyverkereskedelemmel, pénzmosással vagy szervezett bűnözéssel függ össze, az adatigényléshez az ügyész előzetes jóváhagyása nem kell, és azt haladéktalanul teljesíteni kell. Ez esetben a megkeresést ,,halaszthatatlan intézkedés'' jelzéssel kell ellátni. Az ügyész jóváhagyása iránt a megkereséssel egyidejűleg intézkedni kell. Ha az ügyész a jóváhagyását megtagadja, a rendőrség az így beszerzett adatokat haladéktalanul megsemmisíti.
+(2) A fedett nyomozó nem követhet el más életének szándékos kioltásával járó, illetve maradandó fogyatékosságot vagy súlyos egészségromlást szándékosan okozó bűncselekményt.
 
-(3) A biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – a rendőrség és a tárgykör szerint illetékes szervezetek külön megállapodásban rögzíthetik.
+(3) A fedett nyomozó mást bűncselekmény elkövetésére nem bírhat rá és nem terelheti az érintett személyt annál súlyosabb bűncselekmény elkövetése felé, mint amelyet eredetileg elkövetni tervezett.
 
-### A titkos információgyűjtéssel kapcsolatos
+(4) Ha a fedett nyomozó az általa elkövetett bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt az (1) bekezdés alapján nem büntethető, az állam téríti meg azt a kárt, illetve sérelemdíjat, amelynek megtérítésére a fedett nyomozó a polgári jog szerint köteles. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a rendőrség titkos információgyűjtés folytatására feljogosított szerve a sérelmet szenvedett személlyel titoktartási megállapodás megkötését kezdeményezheti, illetve az ehhez szükséges iratokat elkészítheti.
 
-sajátos gazdálkodási szabályok
+(5) Ha a kártérítésről, illetve a sérelemdíj megfizetéséről polgári perben kell határozni, az ezek iránti igény jogalapját vélelmezni kell. A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a rendőrség titkos információgyűjtés folytatására feljogosított szervének a nyilatkozatát a felperes sérelmére elkövetett cselekményről, a cselekménnyel okozott kárról, illetve személyiségi jogsértésről. A nyilatkozat nem terjedhet ki olyan tényre, amelynek alapján a fedett nyomozó személyére lehet következtetni.
 
-68/A. § (1) A rendőrség költségvetésében az alaptevékenységgel összefüggő speciális működési kiadásaik fedezésére elkülönített előirányzatot szerepeltethetnek. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
+67. § (1) A 66. §-ban és a 68. §-ban foglaltak teljesítése érdekében a rendőrség természetes személlyel, jogi személlyel vagy jogi személyiséggel nem rendelkező szervezettel titkos együttműködési megállapodást köthet. Ennek keretében a rendőrség kezdeményezheti a bűnüldözés szempontjából különleges fontosságú ilyen szervezetek munkatársával hivatásos szolgálati, közszolgálati, közalkalmazotti, állami szolgálati jogviszony, illetve munkajogviszony (a továbbiakban: munkaviszony) létesítését.
 
-(2) Speciális működési kiadásnak minősülnek a rendőrség titkos információgyűjtő tevékenységéhez, a titkos információgyűjtés eszközeinek és módszereinek alkalmazásához közvetlenül kötődő személyi és tárgyi vonatkozású kiadások.
+(2) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet az (1) bekezdés hatálya alá tartozó szervezeteknél.
 
-(3) A rendőrségnek a fedőintézményben szolgálatot teljesítő hivatásos állományú tagjának a szolgálati jogviszonya alapján kifizetett jövedelméből az adott évi adótábla legmagasabb adókulcsa alkalmazásával kell az adót levonni és befizetni az adóhatóságnak. Az érintettnek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetőleg az érintett részére igazolást kiadnia.
+(3) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
 
-(4) A rendőrség által az együttműködő (66. §) magánszemély részére nyújtott díjazás esetén a személyi jövedelemadó-levonási és -befizetési kötelezettséget az anyagi előnyt nyújtó rendőri szerv teljesíti. A kifizetett összegből 20%-os forrásadót kell levonni és befizetni az adóhatóságnak. E jövedelemnek az összevont adóalapba történő beszámítására, a jövedelem bevallására, a kifizető adatszolgáltatására, az igazolás kiadására a (3) bekezdésben foglalt rendelkezést kell alkalmazni.
+(4) A foglalkoztatás rendőri jellegével kapcsolatos speciális szabályokat a titkos együttműködési megállapodásban kell rögzíteni.
 
-68/B. § (1) A rendőrség feladatai teljesítése érdekében – a fedésül szolgáló intézmény típusára vonatkozó jogszabályok előírásai szerint – fedőintézményt hozhat létre, és tarthat fenn. Fedőintézményként költségvetési szerv nem hozható létre.
+(5) A rendőrség a vele titkosan együttműködők tevékenységéért indokolt mértékű anyagi ellenszolgáltatást nyújthat.
 
-(2) A fedőintézmény létrehozása és – szükség esetén – fenntartása a rendőrség költségvetéséből történik. Az ehhez szükséges kiadások speciális működési kiadásnak minősülnek. A szükséges pénzügyi eszközök forrását a titkosság megtartása mellett kell biztosítani.
+(6) Az állam téríti meg azt a rendőrséggel titkosan együttműködő személy által a titkos információgyűjtés során ellátott feladatával összefüggésben okozott kárt, illetve sérelemdíjat, amelynek megtérítésére a rendőrséggel titkosan együttműködő személy a polgári jog szerint köteles. A kár megtérítése, illetve a sérelemdíj megfizetése érdekében a rendőrség titkos információgyűjtés folytatására feljogosított szerve a sérelmet szenvedett személlyel titoktartási megállapodás megkötését kezdeményezheti, illetve az ehhez szükséges iratokat elkészítheti.
 
-(3) Ha a fedőintézmény megszűnik, vagyona a rendőrséget illeti.
+(7) Ha a kártérítésről, illetve a sérelemdíj megfizetéséről polgári perben kell határozni, az ezek iránti igény jogalapját vélelmezni kell. A polgári perben az államot az igazságügyért felelős miniszter képviseli. A polgári perben eljáró bíróság a kereset elbírálása előtt beszerzi a rendőrség titkos információgyűjtés folytatására feljogosított szervének a nyilatkozatát a felperes sérelmére elkövetett cselekményről, a cselekménnyel okozott kárról, illetve személyiségi jogsértésről. A nyilatkozat nem terjedhet ki olyan tényre, amelynek alapján a rendőrséggel titkosan együttműködő személyre lehet következtetni.
 
-(4) Az államháztartásról szóló 2011. évi CXCV. törvény rendelkezései a fedőintézményre nem vonatkoznak.
+(8) Az (1)–(7) bekezdést alkalmazni kell a rendőrséggel a büntetőeljárásról szóló törvény alapján titkosan együttműködő személyek esetében is.
 
-68/C. § A rendőrség a 68/A. § (2) bekezdésében meghatározott körben külön korlátozás nélkül valutát kezelhet.
+68. § (1) A rendőrség a 64. §-ban meghatározott célból, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a rendőri jelleg leplezése érdekében
 
-68/D. § (1) A rendőrség speciális működési kiadása felhasználásának külső szerv által történő ellenőrzése kizárólag törvényességi szempontból történhet. E körben célszerűségi és eredményességi szempont szerinti ellenőrzés – az 5. § (1) bekezdése c) pontját kivéve – nem végezhető.
+- a) valótlan adatot, tényt vagy nyilatkozatot tartalmazó okiratot vagy közokiratot (a továbbiakban: fedőokirat) készíthet vagy használhat fel, illetve
+- b) fedőintézményt hozhat létre és tarthat fenn.
 
-(2) A rendőrség gazdálkodásának külső szerv által történő ellenőrzése során az ellenőrzést végző szerv birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, forrására, illetve az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
+(2) A rendőrség a titkos információgyűjtés, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a rendőri jelleg leplezése érdekében, valamint a fedőokirat és a fedőintézmény védelme érdekében a közhiteles nyilvántartásokba valótlan adatot (a továbbiakban: fedőadat) jegyeztethet be.
 
-(3) A rendőrség a biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó értékű irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – az illetékes szervezetekkel külön megállapodásban rögzítik.
+(3) Fedőintézményként költségvetési szerv nem hozható létre. Rendvédelmi szerv, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak a szervet irányító miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
 
-#### 68/E. §
+(4) A fedőokiratot meg kell semmisíteni, illetve a közhiteles nyilvántartásokból a fedőadatot törölni kell, ha arra a továbbiakban már nincs szükség.
 
-### Értelmező rendelkezések
+69. § (1) A rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője az ügyészség jóváhagyásával a 64. § a) és e) pontjában meghatározott célból adatok szolgáltatását igényelheti
 
-68/F. § A 64. § (1) bekezdése b) pontjának alkalmazása szempontjából
+- a) az adóhatóságtól,
+- b) a vámhatóságtól,
+- c) az elektronikus hírközlési szolgáltatótól,
+- d) a postai szolgáltatótól, illetve a postai közreműködői tevékenységet végző személytől vagy szervezettől,
+- e) a banktitoknak, fizetési titoknak, értékpapírtitoknak, pénztártitoknak vagy biztosítási titoknak minősülő adatot kezelő szervezettől és
+- f) az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvényben meghatározott egészségügyi és személyes adatot kezelő szervezettől.
 
-- a) mintavásárlás: az informátor, a bizalmi személy, a Rendőrséggel titkosan együttműködő más személy vagy a fedett nyomozó által végrehajtott olyan leplezett ügylet, amelynek célja, hogy a bűncselekmény felderítése érdekében a bűncselekménnyel összefüggésbe hozható anyagok, tárgyak, eszközök vagy ezek mintái, alkatrészei további vizsgálat céljából a Rendőrség birtokába kerüljenek, illetve a bűncselekmény történeti tényállása megismerhető legyen;
-- b) álvásárlás: a fedett nyomozó színlelt vételi szándékán alapuló, a bűncselekmény elkövetőjének elfogása, továbbá a bűncselekmény tárgyi bizonyítékának biztosítása érdekében e dolog vételére irányuló leplezett megállapodás, és annak teljesítése;
-- c) bizalmi vásárlás: a fedett nyomozónak jogellenes kereskedelmi ügyletként megjelenő olyan leplezett tevékenysége, amelynek során a bűncselekmény tárgyi bizonyítási eszközét képező dolgot vásárol az eladó bizalmának erősítése, a későbbi álvásárlás elősegítése érdekében;
-- d) ellenőrzött szállítás: a nyomozó hatóság olyan leplezett tevékenysége, amelynek során – a nemzetközi együttműködés keretében, folyamatos és fokozott ellenőrzés mellett – lehetővé teszi a megfigyelés alatt álló elkövető számára az általa birtokolt, a bűncselekménye tárgyi bizonyítási eszközét képező dolognak az ország területére történő behozatalát, más ország területére irányuló kivitelét, az ország területén történő átszállítását annak érdekében, hogy a bűncselekmény elkövetői a lehető legszélesebb körben felderíthetők legyenek, a nemzetközi bűncselekmény tényállása megállapíthatóvá váljék.
-- e) fedett nyomozó: a titkos információgyűjtés keretében eljáró, a kilétét leplező rendőr.
+(2) A rendőri szerv az adatszolgáltatás teljesítésére határidőt jelölhet meg. Az adatszolgáltatás ingyenes és nem tagadható meg. Az így kapott információ csak a megjelölt célra használható fel.
 
-### Bírói engedélyhez kötött titkos információgyűjtés
+(3) Ha az adatkérés engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség engedélye nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás nem tagadható meg az ügyészségi engedély hiánya miatt. Ilyen esetben az ügyészség engedélyét utólag haladéktalanul be kell szerezni. Ha az adatkérést az ügyészség nem engedélyezi, az így beszerzett adatokat haladéktalanul törölni kell.
 
-69. § (1) A rendőrség bírói engedéllyel a 63. § (1) bekezdésében meghatározott bűnüldözési célból a súlyos bűncselekmények esetében, valamint a (3) bekezdésben felsorolt esetekben a nyomozás elrendeléséig
+### Bírói engedélyhez kötött eszközök
 
-- a) magánlakást titokban átkutathat, az észlelteket technikai eszközökkel rögzítheti,
-- b) a magánlakásban történteket technikai eszközök segítségével megfigyelheti és rögzítheti,
-- c) postai küldeményt, valamint beazonosítható személyhez kötött zárt küldeményt felbonthat, ellenőrizheti, és azok tartalmát technikai eszközzel rögzítheti,
-- d) elektronikus hírközlési szolgáltatás útján továbbított kommunikáció tartalmát megismerheti, az észlelteket technikai eszközzel rögzítheti, valamint
-- e) számítástechnikai eszköz vagy rendszer útján továbbított, vagy azon tárolt adatokat megismerheti, rögzítheti és felhasználhatja.
+70. § (1) Bírói engedélyhez kötött eszköz akkor alkalmazható, ha
 
-(2) Az (1) bekezdés c)–e) pontjában meghatározott eszközök alkalmazása során gyűjtött, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyekre vonatkozó adatokat haladéktalanul meg kell semmisíteni, azok a továbbiakban nem kezelhetők és nem használhatók fel.
+- a) megalapozottan feltehető, hogy a megszerezni kívánt információ a 64. §-ban meghatározott cél eléréséhez elengedhetetlenül szükséges és más módon nem szerezhető meg,
+- b) annak alkalmazása nem jár az azzal érintett vagy más személy alapvető jogának az elérendő célhoz képest aránytalan korlátozásával, és
+- c) annak alkalmazásával a 64. §-ban meghatározott cél eléréséhez szükséges információ megszerzése valószínűsíthető.
 
-(3) A rendőrség az (1) bekezdésben felsorolt titkos információgyűjtésre szolgáló eszközöket és módszereket (a továbbiakban: különleges eszközök) az ott meghatározottak szerint alkalmazhatja a bűncselekmény gyanúja miatt körözött személy felkutatására, továbbá
+(2) A titkos információgyűjtés során a következő bírói engedélyhez kötött eszközök alkalmazhatók:
 
-- a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti lelkiismereti és vallásszabadság megsértése (1978. évi IV. törvény 174/A. §), kitartottság (1978. évi IV. törvény 206. §), hivatali visszaélés (1978. évi IV. törvény 225. §), visszaélés új pszichoaktív anyaggal (1978. évi IV. törvény 283/B. §), illetve az új pszichoaktív anyaggal visszaélés (Btk. 184. §), a kitartottság (Btk. 202. §), a gyermekprostitúció kihasználása [Btk. 203. § (3) bekezdés], a lelkiismereti és vallásszabadság megsértése (Btk. 215. §), a hivatali visszaélés (Btk. 305. §),
-- b) az (1) bekezdésben nem említett, üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
-- c) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti emberkereskedelem (1978. évi IV. törvény 175/B. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), kerítés (1978. évi IV. törvény 207. §), embercsempészés (1978. évi IV. törvény 218. §), bűnpártolás (1978. évi IV. törvény 244. §), visszaélés szigorúan titkos és titkos minősítésű adattal (1978. évi IV. törvény 221. §), visszaélés bizalmas minősítésű adattal (1978. évi IV. törvény 222. §), visszaélés korlátozott terjesztésű minősítésű adattal (1978. évi IV. törvény 222/A. §), vesztegetés (1978. évi IV. törvény 250. §), vesztegetés nemzetközi kapcsolatban (1978. évi IV. törvény 255/B. §), környezetkárosítás (1978. évi IV. törvény 280. §), természetkárosítás (1978. évi IV. törvény 281. §) és hulladékgazdálkodás rendjének megsértése (1978. évi IV. törvény 281/A. §) bűncselekmények három évig terjedő szabadságvesztéssel fenyegetett alakzata, illetve az egészségügyi termék hamisítása (Btk. 186. §), az emberkereskedelem (Btk. 192. §), a kerítés (Btk. 200. §), a gyermekpornográfia (Btk. 204. §), a környezetkárosítás (Btk. 241. §), a természetkárosítás (Btk. 242–243. §), a hulladékgazdálkodás rendjének megsértése (Btk. 248. §), az ózonréteget lebontó anyaggal visszaélés (Btk. 249. §), a minősített adattal visszaélés (Btk. 265. §), a bűnpártolás (Btk. 282. §), a hivatali vesztegetés elfogadása (Btk. 294. §), az embercsempészés (Btk. 353. §) bűncselekmények három évig terjedő szabadságvesztéssel fenyegetett alakzata,
-- d) az (1) bekezdésben vagy az a)–c) pontban meghatározott bűncselekmény kísérlete, valamint – ha az előkészületet a törvény büntetni rendeli – előkészülete
+- a) titkos kutatás,
+- b) hely titkos megfigyelése,
+- c) küldemény titkos megismerése,
+- d) lehallgatás,
+- e) információs rendszer titkos megfigyelése.
 
-felderítése során.
+71. § A rendőrség bírói engedéllyel a 64. §-ban meghatározott célból:
 
-(4) Az alábbi bűncselekmények esetében a bűncselekmény felderítése a nyomozás elrendeléséig a nemzetbiztonsági szolgálatok hatáskörébe tartozik:
+- a) titkos kutatás során a nyilvános vagy a közönség részére nyitva álló hely kivételével lakást, egyéb helyiséget, bekerített helyet, illetve a közösségi közlekedési eszköz kivételével járművet, továbbá az érintett személy használatában lévő tárgyat titokban átkutathatja, az észlelteket technikai eszközzel rögzítheti;
+- b) hely titkos megfigyelése során a nyilvános vagy a közönség részére nyitva álló hely kivételével a lakásban, egyéb helyiségben, bekerített helyen, illetve a közösségi közlekedési eszköz kivételével járművön történteket titokban technikai eszközzel megfigyelheti és rögzítheti, illetve az ehhez szükséges technikai eszközt az alkalmazás helyén elhelyezheti;
+- c) küldemény titkos megismerése során postai küldeményt vagy beazonosítható személyhez kötött egyéb zárt küldeményt titokban felbonthat, annak tartalmát megismerheti, ellenőrizheti és rögzítheti;
+- d) lehallgatás során az elektronikus hírközlési szolgáltatás keretében elektronikus hírközlő hálózat vagy eszköz útján, illetve információs rendszeren folytatott kommunikáció tartalmát titokban megismerheti és rögzítheti;
+- e) információs rendszer titkos megfigyelése során információs rendszerben kezelt adatokat titokban megismerhet, az észlelteket technikai eszközzel rögzítheti, illetve az ehhez szükséges elektronikus adatot az információs rendszerben, illetve a szükséges technikai eszközt – a nyilvános vagy a közönség részére nyitva álló hely kivételével – lakásban, egyéb helyiségben, bekerített helyen, illetve – a közösségi közlekedési eszköz kivételével – járműben, továbbá az érintett személy használatában lévő tárgyban elhelyezheti.
 
-- a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti állam elleni bűncselekmények (1978. évi IV. törvény X. fejezet), az emberiség elleni bűncselekmények (1978. évi IV. törvény XI. fejezet), továbbá a külföldre szökés (1978. évi IV. törvény 343. §), a zendülés (1978. évi IV. törvény 352. §) és a harckészültség veszélyeztetése (1978. évi IV. törvény 363. §),
-- b) az emberiesség elleni bűncselekmények (Btk. XIII. Fejezet), a háborús bűncselekmények (Btk. XIV. Fejezet), az állam elleni bűncselekmények (Btk. XXIV. Fejezet) továbbá a külföldre szökés (Btk. 434. §), a zendülés (Btk. 442. §) és a készenlét fokozásának veszélyeztetése (Btk. 454. §).
+72. § (1) Bűncselekmény elkövetésének megelőzése céljából akkor lehet bírói engedélyhez kötött titkos információgyűjtést folytatni, ha megalapozottan feltehető, hogy attól a szervezett bűnözéssel kapcsolatos, illetve szervezett bűnözői csoportok azonosítását lehetővé tevő információk megszerzése várható.
 
-(5) Az alábbi bűncselekmények felderítése a rendőrség hatáskörébe tartozik:
+(2) A 64. § f) pontjában meghatározott célból bírói engedélyhez kötött eszköz akkor alkalmazható, ha a külföldi hatóság igazolja, hogy a megkeresésben megjelölt bírói engedélyhez kötött eszköz alkalmazása a külföldi hatóság saját államának joga szerint törvényes.
 
-- a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény szerinti rombolás (1978. évi IV. törvény 142. §) és terrorcselekmény (1978. évi IV. törvény 261. §),
-- b) a rombolás (Btk. 257. §), a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §) és a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §).
+(3) A 64. § f) pontjában meghatározott célból a 71. § d) és e) pontjában meghatározott bírói engedélyhez kötött eszköz akkor alkalmazható, ha a külföldi hatóság megkeresésében megjelölt személy
 
-(6) Az (1) bekezdés c) pontjában foglaltak teljesítéséhez a távközlési, illetőleg postai szervezet köteles a feladatkörébe tartozó esetben a segítséget megadni.
+- a) Magyarország területén tartózkodik, vagy
+- b) harmadik állam területén tartózkodik, azonban
+  - ba) a titkos lehallgatás Magyarország területén működő elektronikus hírközlési szolgáltatást végző szervezet, illetve az információs rendszerben tárolt adatok továbbítását, feldolgozását, kezelését végző szervezet közreműködését igényli, vagy
+  - bb) a bírói engedélyhez kötött eszköz alkalmazásához szükséges technikai eszköz Magyarország területén található.
 
-(7) Az (1) bekezdés a)–b) pontjának alkalmazása során magánlakásnak minősül – a 97. § (1) bekezdés c) pontján túl – a nyilvános vagy a közönség részére nyitva álló helyen kívül minden más helyiség vagy terület, továbbá – a közösségi közlekedési eszköz kivételével – a jármű is. Az (1) bekezdés b) pontjának a 7/A. § (1) bekezdésében meghatározott megbízhatósági vizsgálat keretében történő alkalmazása során nem minősül magánlakásnak a védett állomány tagját foglalkoztató szerv hivatali helyisége, gépjárműve, továbbá a megbízhatósági vizsgálat végrehajtása során létrehozott mesterséges helyszín.
+### A bírói engedélyhez kötött eszközök engedélyezése
 
-70. § (1) A különleges eszköz alkalmazása iránti kérelmet a rendőrség hatáskörrel és illetékességgel rendelkező felderítő szervének vagy nyomozó hatóságának vezetője (a továbbiakban: nyomozó hatóság) terjeszti elő.
+73. § (1) A bírói engedélyhez kötött eszközök a bíróság engedélye alapján, az abban meghatározott keretek között alkalmazhatók.
+
+(2) A bírói engedélyhez kötött eszközök alkalmazásával kapcsolatban a bíróság feladatait a rendőrség titkos információgyűjtés folytatására feljogosított szervének a székhelye szerint illetékes járásbíróságnak a törvényszék elnöke által kijelölt bírája látja el.
+
+74. § (1) A bírói engedélyhez kötött eszköz alkalmazása iránti kérelmet a rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője terjeszti elő.
 
 (2) A kérelemnek tartalmaznia kell
 
-- a) a különleges eszköz alkalmazásának helyét, az alkalmazással érintett nevét, illetőleg az azonosításra alkalmas — rendelkezésre álló — adatot,
-- b) az alkalmazni kívánt különleges eszköz megnevezését,
-- c) az alkalmazás tervezett kezdetét és végét napban és órában meghatározva,
-- d) az alkalmazás törvényi feltételeinek meglétére vonatkozó indokolást.
+- a) a rendőrség titkos információgyűjtés folytatására feljogosított szervének a megnevezését, az ügy számát,
+- b) a rendelkezésre álló, az alkalmazással érintett személy azonosítására szolgáló adatokat,
+- c) a bírói engedélyhez kötött eszköz alkalmazásának tervezett kezdő és befejező időpontját napban és órában meghatározva,
+- d) a bírói engedélyhez kötött eszköz alkalmazása törvényi feltételeinek fennállását megalapozó részletes indokolást, így
+  - da) a 65. §-ra figyelemmel a bírói engedélyhez kötött eszköz alkalmazásának célját, és
+  - db) a 70. § (1) bekezdésében meghatározott feltételek teljesülését megalapozó adatokat,
+- e) az alkalmazni kívánt bírói engedélyhez kötött eszköz megnevezését, és
+- f) a bírói engedélyhez kötött eszköz alkalmazására vonatkozó adatokat, így
+  - fa) a megfigyelni kívánt információs rendszer,
+  - fb) a megfigyelni kívánt helyiség, jármű vagy tárgy,
+  - fc) az átvizsgálni kívánt küldemény feladásának vagy átvételének helye, illetve a feladó vagy a címzett, illetve
+  - fd) a megfigyelni kívánt elektronikus hírközlési szolgáltatás vagy eszköz, illetve információs rendszer
 
-71. § (1) A különleges eszköz alkalmazását az engedélyt kérő nyomozó hatóság székhelye szerint illetékes járásbíróságnak a törvényszék elnöke által kijelölt bírája (a továbbiakban: bíró) engedélyezi.
+egyértelmű azonosítására szolgáló adatokat.
 
-(2) A bíró a különleges eszköz engedélyezése iránti kérelem benyújtásától számított 72 órán belül indokolt végzéssel határoz, a kérelemnek helyt ad, vagy azt a törvényi feltételek hiánya miatt elutasítja.
+(3) A kérelemhez csatolni kell a kérelemben foglaltakat megalapozó iratokat.
 
-(3) A bíró a különleges eszköz alkalmazását, illetve az eszköz igénybevételét esetenként legfeljebb 90 napra engedélyezheti, illetőleg — a 70. § (2) bekezdése szerinti kérelemre — 90 nappal ismételten meghosszabbíthatja.
+75. § (1) A bíróság a kérelem benyújtásától számított hetvenkét órán belül indokolt végzéssel határoz. A bíróság a kérelem alapján az engedélyt megadja, vagy a kérelmet a törvényi feltételek hiánya miatt elutasítja.
 
-72. § (1) Ha a különleges eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely az adott ügyben nyilvánvalóan sértené a bűnüldözés eredményességéhez fűződő érdeket, a nyomozó hatóság vezetője elrendelheti a titkos kutatást, illetőleg 72 óra időtartamra a különleges eszköz alkalmazását (sürgősségi elrendelés).
+(2) Ha a bíróság a bírói engedélyhez kötött eszköz alkalmazását engedélyezi, az erről szóló végzésben meg kell jelölni
 
-(2) A sürgősségi elrendelés esetén az engedélyezés iránti kérelmet egyidejűleg be kell nyújtani. A kérelem elutasítása esetén sürgősségi elrendelésnek ugyanabból a célból, változatlan indok vagy tényállás alapján ismételten nincs helye.
+- a) a rendelkezésre álló, az érintett személy azonosítására szolgáló adatokat,
+- b) a bírói engedélyhez kötött eszköz alkalmazásának kezdő és befejező időpontját napban és órában meghatározva,
+- c) a 65. §-ra figyelemmel a bírói engedélyhez kötött eszköz alkalmazásának célját,
+- d) a bírói engedélyhez kötött eszköz megnevezését és
+- e) a 74. § (2) bekezdés f) pontjában meghatározott adatokat.
 
-73. § (1) A nyomozó hatóság vezetője haladéktalanul elrendeli a különleges eszköz alkalmazásának megszüntetését, ha
+75/A. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazásának engedélyezése olyan késedelemmel járna, amely a titkos információgyűjtéssel elérni kívánt célt nyilvánvalóan veszélyeztetné, a rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője elrendelheti a titkos kutatást, illetve a bíróság döntéséig, de legfeljebb hetvenkét órára más bírói engedélyhez kötött eszköz alkalmazását.
 
-- a) az engedélyben meghatározott célját elérte,
-- b) az engedélyben megállapított határidő lejárt,
-- c) nyilvánvaló, hogy további alkalmazásától nem várható eredmény,
-- d) a sürgősséggel elrendelt alkalmazást a bíró nem engedélyezte.
+(2) A bírói engedélyhez kötött eszköz (1) bekezdés alapján elrendelt alkalmazásának esetén a rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője az elrendeléssel egyidejűleg előterjeszti a kérelmet a bíróságnak az utólagos engedélyezés érdekében.
 
-(2) Az (1) bekezdés d) pontja esetében a különleges eszköz alkalmazásával rögzített információt haladéktalanul meg kell semmisíteni.
+(3) A (2) bekezdésben meghatározott kérelem tartalmazza az (1) bekezdésben meghatározott feltételek fennállását megalapozó körülményeket is, továbbá az elrendelés időpontját órában meghatározva.
 
-(3) A különleges eszközzel végzett megfigyelés befejezését követő 8 napon belül meg kell semmisíteni a megfigyelés célja szempontjából érdektelen rögzített információt vagy az ügyben nem érintett személy adatait.
+(4) A bíróság a kérelmet akkor is elutasítja, ha
 
-74. § A külön engedélyhez kötött titkos információgyűjtés során szerzett és rögzített adatokat az engedélyező bíró bármikor megismerheti.
+- a) a kérelem elkésett, vagy
+- b) az engedély az alkalmazás (1) bekezdés alapján történő elrendelése előtt is beszerezhető lett volna.
 
-#### 75. §
+(5) Ha a bíróság a (2) bekezdésben meghatározott kérelmet elutasítja, ugyanabból a célból, változatlan indok alapján bírói engedélyhez kötött eszköz alkalmazása az (1) bekezdés alapján ismételten nem rendelhető el.
+
+(6) A bírói engedélyhez kötött eszköz alkalmazásának engedélyezése esetén az alkalmazás kezdő időpontját az (1) bekezdés szerinti elrendelés időpontjától kell számítani.
+
+75/B. § (1) A bírói engedélyhez kötött eszközök alkalmazása esetenként legfeljebb kilencven napra engedélyezhető, amely újabb kérelem előterjesztése esetén, a (2), (3), (5) és (6) bekezdésben meghatározottak szerint alkalmanként legfeljebb kilencven nappal meghosszabbítható.
+
+(2) Egy adott bűnmegelőzési feladat ellátása során a 64. § a) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb háromszázhatvan napig engedélyezhető.
+
+(3) Egy adott feladat ellátása során a 65. § (2) bekezdése alapján bírói engedélyhez kötött eszközök alkalmazása legfeljebb száznyolcvan napig engedélyezhető.
+
+(4) Egy adott leplezett eszköz alkalmazásához szükséges technikai eszköz vagy adat elhelyezése vagy eltávolítása érdekében a 64. § g) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb kilencven napig engedélyezhető.
+
+(5) Ugyanazon személlyel szemben a 64. § c)–e) és h) pontja alapján a bírói engedélyhez kötött eszközök alkalmazása legfeljebb háromszázhatvan napig engedélyezhető. Ha ezalatt az idő alatt az alkalmazás nem érte el a célját, a további engedélyezésnek akkor van helye, ha új tény vagy körülmény ezt megalapozza.
+
+(6) A bírói engedélyhez kötött eszközök alkalmazása a 64. § f) pontja alapján a külföldi hatóság megkeresésében megjelölt céltól függően, a (2)–(5) bekezdésben meghatározottak szerint engedélyezhető.
+
+(7) A bírói engedélyhez kötött eszközök alkalmazásának meghosszabbítására irányuló kérelmet az alkalmazás engedélyezett tartamának lejárta előtt legkésőbb öt nappal kell a bíróhoz előterjeszteni. A meghosszabbításra irányuló kérelemmel egyidejűleg a korábbi engedélyezés óta keletkezett iratokat is csatolni kell.
+
+75/C. § (1) A bíróság az alkalmazás során vizsgálhatja a bírói engedélyhez kötött eszközök alkalmazásának törvényességét. A bíróság felhívására a titkos információgyűjtést folytató szerv köteles a bírói engedélyhez kötött eszköz alkalmazása során megszerzett, a felhívás időpontjáig rendelkezésére álló adatokat nyolc napon belül bemutatni.
+
+(2) A bíróság a bírói engedélyhez kötött eszköz alkalmazásának engedélyét visszavonja, ha
+
+- a) a titkos információgyűjtést folytató szerv az adatokat az (1) bekezdésben meghatározott határidőn belül nem mutatja be,
+- b) az engedély kereteit túllépték, vagy
+- c) a bírói engedélyhez kötött eszközt az alkalmazásra vonatkozó, az e törvényben meghatározott rendelkezés megsértésével alkalmazták.
+
+### A titkos információgyűjtés megszüntetése
+
+75/D. § (1) A rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője haladéktalanul megszünteti a bírói engedélyhez kötött, illetve a bírói engedélyhez nem kötött eszköz alkalmazását, ha
+
+- a) a célját elérte, vagy
+- b) nyilvánvaló, hogy további alkalmazásától nem várható eredmény.
+
+(2) Az (1) bekezdésben meghatározott eseteken kívül a rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője haladéktalanul megszünteti a bírói engedélyhez kötött eszköz alkalmazását akkor is, ha
+
+- a) az engedélyben megállapított határidő lejárt,
+- b) nyilvánvaló, hogy az engedélyben meghatározott keretek között a bírói engedélyhez kötött eszköz nem alkalmazható tovább,
+- c) a bírói engedélyhez kötött eszköz 75/A. § (1) bekezdés alapján elrendelt alkalmazását a bíróság utólag nem engedélyezte, vagy
+- d) a bíróság a 75/C. § (2) bekezdése alapján az engedélyt visszavonta.
+
+(3) Az (1) bekezdésben meghatározott eseteken kívül a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervének vezetője haladéktalanul megszünteti a megbízhatósági vizsgálat során igénybe vett bírói engedélyhez nem kötött eszköz alkalmazását akkor is, ha az ügyészség által jóváhagyott végrehajtási tervben a mesterséges élethelyzet végrehajtására meghatározott határidő lejárt.
+
+(4) A rendőrség titkos információgyűjtés folytatására feljogosított szerve a bírói engedélyhez kötött eszköz alkalmazásának megszüntetéséről tájékoztatja a bíróságot.
+
+(5) A bírói engedélyhez kötött eszköz alkalmazásának megszüntetését követően az engedélyben szereplő személyt az alkalmazás tényéről tájékoztatni kell, feltéve, hogy a tájékoztatás az e törvény, az ügyészségről szóló törvény, a Nemzeti Adó- és Vámhivatalról szóló törvény vagy az Nbtv. alapján végzett titkos információgyűjtés érdekét, továbbá folyamatban lévő büntetőeljárás eredményességét nem veszélyezteti.
+
+75/E. § A bírói engedélyhez kötött eszköz, illetve a 66. § (2) bekezdésében meghatározott eszköz alkalmazása során igénybe vett technikai eszközt vagy információs rendszerben elhelyezett elektronikus adatot az alkalmazás befejezését követően haladéktalanul el kell távolítani. Ha az eltávolítás akadályba ütközik, a technikai eszközt vagy elektronikus adatot az akadály megszűnését követően kell haladéktalanul eltávolítani.
+
+### A titkos információgyűjtés végrehajtása
+
+75/F. § (1) A rendőrség titkos információgyűjtés folytatására feljogosított szerve a titkos információgyűjtést maga hajtja végre, a titkos információgyűjtés végrehajtásában való közreműködésre kijelölt rendőri szerv közreműködésével hajtja végre, vagy a végrehajtáshoz az Nbtv. által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálatot veszi igénybe.
+
+(2) Ha a titkos információgyűjtés a nemzetbiztonsági szolgálatok vagy a rendőrség terrorizmust elhárító szervének működését érinti, felkérésre az érintett nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve közreműködik a titkos információgyűjtés végrehajtásában.
+
+(3) Az elektronikus hírközlési szolgáltatást végző szervezetek, valamint a postai küldemények, vagy az egyéb zárt küldemények, továbbá az információs rendszerben tárolt adatok továbbítását, feldolgozását, kezelését végző szervezetek kötelesek a 71. § c)–e) pontjában meghatározott eszközök alkalmazását biztosítani és a titkos információgyűjtés folytatására feljogosított szervekkel együttműködni.
+
+### A titkos információgyűjtés során megszerzett adatok bizalmassága és törlése
+
+75/G. § (1) A titkos információgyűjtés elrendelése, engedélyezése, végrehajtása és az annak eredményeként keletkezett adatok felhasználása során gondoskodni kell arról, hogy az intézkedések és az adatok illetéktelen személy számára ne váljanak hozzáférhetővé vagy megismerhetővé.
+
+(2) Az (1) bekezdésben meghatározott követelmény érvényesítése érdekében a titkos információgyűjtés folytatásával összefüggő adatok – ha annak feltételei fennállnak – a minősített adat védelméről szóló törvényben meghatározott szabályok szerint minősítéssel védhetők.
+
+(3) A rendőrség erre felhatalmazott szerve a titkos információgyűjtéssel összefüggő valamennyi adatot megismerheti.
+
+(4) A titkos információgyűjtés tényét és a titkos információgyűjtés során beszerzett adatot az az ügyész, ügyészségi vezető, illetve az a bíró, bírósági vezető ismerheti meg, aki a titkos információgyűjtéssel összefüggésben eljár.
+
+(5) A titkos információgyűjtés tényét és a titkos információgyűjtés során beszerzett adatot törvényben meghatározott feladataik ellátása érdekében a nemzetbiztonsági szolgálatok is megismerhetik.
+
+(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett, illetve rendelkezésére bocsátott minősített adatot.
+
+(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy rendelkezési jogosultsága az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben kiterjed
+
+- a) a minősített adattal kapcsolatos ügyintézésre, a minősített adat feldolgozására,
+- b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre,
+- c) a minősítés megismétlésére,
+- d) a minősített adat birtokban tartására,
+- e) a minősített adat másolására, sokszorosítására,
+- f) kivonat készítésére,
+- g) a minősített adat fordítására,
+- h) a minősített adat szerven belüli átadására,
+- i) a minősített adat szerven kívülre történő továbbítására, szállítására.
+
+(8) A felhasználói engedély kiadására jogosult a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére további, a minősített adat védelméről szóló törvényben meghatározott rendelkezési jogosultságot is biztosíthat.
+
+75/H. § (1) A bírói engedélyhez kötött eszközök alkalmazása során beszerzett, a titkos információgyűjtés alapjául szolgáló eljárásban nyilvánvalóan nem érintett személyre vonatkozó adatot haladéktalanul törölni kell, az a továbbiakban nem használható fel.
+
+(2) A bírói engedélyhez kötött eszköz alkalmazásának befejezését követő nyolc napon belül törölni kell a bírói engedélyhez kötött eszköz alkalmazásának célja szempontjából érdektelen adatot vagy az ügyben nem érintett személy adatait.
+
+(3) Ha a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat a büntetőeljárásban bizonyítékként kívánják felhasználni, az (1) és (2) bekezdés alapján a bizonyítékként történő felhasználásról szóló döntést követően kell az adatokat törölni.
+
+(4) A 75/D. § (2) bekezdés c) és d) pontja esetén a bírói engedélyhez kötött eszköz alkalmazása során beszerzett adatot haladéktalanul törölni kell, az ilyen adat a továbbiakban nem használható fel.
+
+### A titkos információgyűjtés és a büntetőeljárás kapcsolata
+
+75/I. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül kezdeményezi a büntetőeljárás megindítását.
+
+(2) Ha a bírói engedélyhez kötött eszköz alkalmazását nem maga a titkos információgyűjtést folytató szerv hajtotta végre, az (1) bekezdésben meghatározott határidőt attól a naptól kell számítani, amikor a titkos információgyűjtésnek az (1) bekezdés szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a titkos információgyűjtést folytató szervhez megérkezett.
+
+(3) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három napon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.
+
+### A titkos információgyűjtéssel és a leplezett eszközök alkalmazásával kapcsolatos sajátos gazdálkodási szabályok
+
+75/J. § (1) A rendőrség a költségvetésében az alaptevékenységgel összefüggő speciális működési kiadásainak fedezésére elkülönített előirányzatot szerepeltethet. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
+
+(2) Speciális működési kiadásnak minősülnek
+
+- a) a rendőrség titkos információgyűjtő tevékenységéhez, a titkos információgyűjtés eszközeinek és módszereinek az alkalmazásához, valamint
+- b) a leplezett eszközök alkalmazásához
+
+közvetlenül kötődő személyi és tárgyi vonatkozású kiadások.
+
+(3) A rendőrség a speciális működési kiadásai során külön korlátozás nélkül valutát kezelhet.
+
+(4) A rendőrség fedőintézményben szolgálatot teljesítő hivatásos állományú tagjának – ha ez a lelepleződésének megelőzése érdekében szükséges – a szolgálati jogviszonya alapján kifizetett jövedelméből az adott évi adótábla legmagasabb adókulcsa alkalmazásával kell az adót levonni és befizetni az adóhatóságnak. Az érintettnek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetve az érintett részére igazolást kiadnia.
+
+(5) A rendőrséggel titkosan együttműködő magánszemély részére nyújtott díjazás esetén a személyijövedelemadó-levonási és -befizetési kötelezettséget az anyagi előnyt nyújtó rendőri szerv teljesíti. A kifizetett összegből 20%-os forrásadót kell levonni és befizetni az adóhatóságnak. Az érintettnek ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek pedig nem kell erről személyre szólóan adatot szolgáltatnia, illetve az érintett részére igazolást kiadnia.
+
+75/K. § (1) A fedőintézmény létrehozása és szükség esetén fenntartása a rendőrség költségvetéséből történik. Az ehhez szükséges kiadások speciális működési kiadásnak minősülnek. A szükséges pénzügyi eszközök forrását a titkosság megtartása mellett kell biztosítani.
+
+(2) Ha a fedőintézmény megszűnik, vagyona a rendőrséget illeti.
+
+(3) Az államháztartásról szóló törvény rendelkezéseit a fedőintézményre nem kell alkalmazni.
+
+75/L. § (1) A rendőrség speciális működési kiadása felhasználásának külső szerv által történő ellenőrzése kizárólag törvényességi szempontból történhet. E körben célszerűségi és eredményességi szempont szerinti ellenőrzés – az 5. § c) pontját kivéve – nem végezhető.
+
+(2) A rendőrség gazdálkodásának külső szerv által történő ellenőrzése során az ellenőrzést végző szerv birtokába nem kerülhet olyan adat, amely a titkos információgyűjtés során keletkezett információra, annak forrására, illetve az alkalmazott titkos információgyűjtő módszer konkrét jellegére utal.
+
+(3) A rendőrség a biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó értékű irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési kiadások körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – az érintett szervezetekkel külön megállapodásban rögzíti.
 
 ### VIII. Fejezet — A RENDŐRSÉG ADATKEZELÉSE
 
@@ -1303,11 +1487,12 @@ felderítése során.
 
 77. § (1) A rendőrség feladatai ellátása során
 
-- a) bűnmegelőzési, felderítési, bűnüldözési (a továbbiakban együtt: bűnüldözési) feladatai ellátásához szükséges személyes adatokat,
+- a) bűnmegelőzési és bűnüldözési (a továbbiakban együtt: bűnüldözési) feladatai ellátásához szükséges személyes adatokat,
 - b) rendészeti és határrendészeti feladatainak ellátásához szükséges személyes adatokat,
 - c) az általa lefolytatott közigazgatási eljárásban részt vevők személyes adatait,
 - d) a segélyhívások fogadása keretében megismert személyes adatokat,
-- e) a körözési eljárás lefolytatásához szükséges adatokat
+- e) a körözési eljárás lefolytatásához szükséges adatokat,
+- f) a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat
 
 kezeli.
 
@@ -1323,7 +1508,7 @@ kezeli.
 
 (2) A kirendeltség adatait a kirendeltség vezetője, a megyei (fővárosi) rendőr-főkapitányság adatait a rendőrfőkapitány, a rendőrkapitányság, határrendészeti kirendeltség adatait a rendőrkapitány, valamint a határrendészeti kirendeltség vezetője által kijelölt szervezeti egység kezeli és dolgozza fel.
 
-(3) A rendőrség szervei a hatáskörükbe és illetékességükbe tartozó bűnfelderítési, bűnüldözési, rendészeti, határrendészeti és közigazgatási ügyekben adatkezelést végeznek.
+(3) A rendőrség szervei a hatáskörükbe és illetékességükbe tartozó bűnüldözési, rendészeti, határrendészeti és közigazgatási ügyekben adatkezelést végeznek.
 
 79. § A bűnüldözési, a rendészeti, a határrendészeti és a közigazgatási, valamint a belső igazgatási feladatokhoz kapcsolódó adatokat elkülönítetten kell kezelni, illetőleg feldolgozni.
 
@@ -1413,11 +1598,11 @@ adatok köre
 
 (4) A rendőrség által történő adatátvétel, valamint adatfelhasználás jogszerűségéért az átvevő rendőri szerv vezetője tartozik felelősséggel. Az adattovábbítás tényét mind az adatátadó, mind az adatátvevő szervnél dokumentálni kell.
 
-85. § (1) A rendőrségnek a bűnügyi és egyéb rendőrségi statisztika készítésére felhatalmazott szerve a rendőrségi adatokat – kivéve a titkos információgyűjtésben érintett személyek, a fedett nyomozók, a védett tanúk és egyéb közreműködők adatait – statisztikai célra felhasználhatja. A személyazonosításra alkalmas adatokat a statisztikai feldolgozás befejezésekor, az adatok teljességének és összefüggésének ellenőrzését követően, de legkésőbb a tárgyidőszakot követő egy éven belül törölni kell.
+85. § (1) A rendőrségnek a bűnügyi és egyéb rendőrségi statisztika készítésére felhatalmazott szerve a rendőrségi adatokat – kivéve a leplezett eszközök alkalmazásával, illetve a titkos információgyűjtéssel érintett személyek, a fedett nyomozók, a rendőrséggel titkosan együttműködő személyek, a védett tanúk és egyéb közreműködők adatait – statisztikai célra felhasználhatja. A személyazonosításra alkalmas adatokat a statisztikai feldolgozás befejezésekor, az adatok teljességének és összefüggésének ellenőrzését követően, de legkésőbb a tárgyidőszakot követő egy éven belül törölni kell.
 
 (2) A rendőrség a Központi Statisztikai Hivatal részére az (1) bekezdésben meghatározott adatokat statisztikai célra személyazonosításra alkalmatlan módon átadhatja.
 
-(3) A rendőrségnek a bűnügyi és egyéb rendőrségi kriminalisztikai tudományos kutatás végzésére felhatalmazott szerve a rendőrségi adatokat – kivéve a titkos információgyűjtésben érintett személyek, a fedett nyomozók, a védett tanúk és egyéb közreműködők adatait – tudományos kutatási célra a személyes adatok tudományos kutatás céljára való kezelésére vonatkozó törvényi előírások figyelembevételével felhasználhatja. A személyazonosításra alkalmas adatokat a kriminalisztikai kutatás befejezésekor törölni kell.
+(3) A rendőrségnek a bűnügyi és egyéb rendőrségi kriminalisztikai tudományos kutatás végzésére felhatalmazott szerve a rendőrségi adatokat – kivéve leplezett eszközök alkalmazásával, illetve a titkos információgyűjtésben érintett személyek, a fedett nyomozók, a rendőrséggel titkosan együttműködő személyek, a védett tanúk és egyéb közreműködők adatait – tudományos kutatási célra a személyes adatok tudományos kutatás céljára való kezelésére vonatkozó törvényi előírások figyelembevételével felhasználhatja. A személyazonosításra alkalmas adatokat a kriminalisztikai kutatás befejezésekor törölni kell.
 
 86. § (1) Rendőrségi adat az Európai Unió tagállamai, valamint az Európai Unió által létrehozott nemzetközi bűnüldöző szervezetek részére az Európai Unió jogi aktusának végrehajtását szolgáló törvény, illetve két- vagy többoldalú nemzetközi szerződés alapján az e törvényben meghatározott célból adható át.
 
@@ -1428,7 +1613,7 @@ adatok köre
 - a) vonatkozásában fennálló, a tájékoztatáshoz, a helyesbítéshez, a törléshez és a zároláshoz való jog korlátozására, valamint
 - b) kezelésének a rendőrségi adatkezelő szerv által meghatározott lehetséges időtartamára.
 
-87. § (1) A (2) bekezdésben meghatározott körbe nem tartozó rendőrségi adat harmadik ország, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli nemzetközi szervezet részére nemzetközi szerződés alapján az e törvényben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott feltételek fennállása esetén is csak akkor továbbítható, ha a harmadik ország átvevő hatósága vagy az átvevő nemzetközi szerv feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása.
+87. § (1) A (2) bekezdésben meghatározott körbe nem tartozó rendőrségi adat harmadik ország, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli nemzetközi szervezet részére nemzetközi szerződés alapján az e törvényben meghatározott célból az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott feltételek fennállása esetén is csak akkor továbbítható, ha a harmadik ország átvevő hatósága vagy az átvevő nemzetközi szerv feladata bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása.
 
 (2) Az Európai Unió tagállamának illetékes hatósága, az Európai Unió által létrehozott nemzetközi bűnüldöző szervezet, illetve harmadik ország illetékes hatóságai, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli más nemzetközi szervezet által továbbított vagy hozzáférhetővé tett rendőrségi adat harmadik ország, valamint a 86. § (1) bekezdése szerinti nemzetközi szervezeteken kívüli nemzetközi szervezet részére az (1) bekezdésben meghatározott feltételek megléte esetén akkor továbbítható, ha az adatot átadó hatóság, szervezet – nemzeti jogának, illetve nemzetközi szerződésben foglaltaknak megfelelően – hozzájárult az adat átadásához.
 
@@ -1484,10 +1669,10 @@ adatok köre
 
 - a) a felderítetlenül maradt bűncselekmény kriminalisztikai szempontból fontos jellemzőit a bűncselekmény elkövetőjének felderítéséig vagy – ennek hiányában – a bűncselekmény büntethetőségének elévüléséig, ha pedig a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig;
 - b) a bűncselekmény helyszínén rögzített nyomokat, anyagmaradványokat, eszközöket a c) pontban meghatározott ideig;
-- c) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, hangmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől számított húsz évig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig – vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés időpontjától számított húsz évig, ennek hiányában az adatok bűnüldözési adatállományba történt bekerülésétől számított harminc évig;
-- d) a rendőrségen fogvatartott, a házi őrizet, illetve a lakhelyelhagyási tilalom alá helyezett és azon személyek adatait, akikkel szemben távoltartást rendeltek el, valamint akiknek óvadék vagy biztosíték letétbe helyezését engedélyezték, a bűncselekmény büntethetőségének elévüléséig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig – vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés időpontjáig, ennek hiányában az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
+- c) a szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott személy adatait, személyleírását, fényképét, különös ismertetőjegyeit, hangmintáját, valamint az elvégzett kriminalisztikai szakértői vizsgálatok adatait a bűncselekmény büntethetőségének elévülésétől számított húsz évig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésétől számított ötven évig – vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés időpontjától számított húsz évig, ennek hiányában az adatok bűnüldözési adatállományba történt bekerülésétől számított harminc évig;
+- d) a rendőrségen fogvatartott, a Be. szerinti személyi szabadságot érintő bírói engedélyes kényszerintézkedés hatálya alatt állók a bűncselekmény büntethetőségének elévüléséig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig – vagy elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés időpontjáig, ennek hiányában az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
 - e) súlyos bűncselekmény esetén, vagy ha a bűncselekmény
-  - ea) élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az emberkereskedelem és az embercsempészet három évig terjedő szabadságvesztéssel büntetendő alakzata,
+  - ea) élet, testi épség, emberi szabadság és vagyon elleni erőszakos bűntett, illetve az emberkereskedelem és az embercsempészés három évig terjedő szabadságvesztéssel büntetendő alakzata,
   - eb) nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény három évig terjedő szabadságvesztéssel büntetendő alakzata,
   - ec) gyermekkorú személy sérelmére elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűntett,
   - ed) üzletszerűen vagy bűnszövetségben elkövetett, három évig terjedő szabadságvesztéssel büntetendő bűncselekmény,
@@ -1495,21 +1680,56 @@ adatok köre
   - ef) pénzhamisítás elősegítése, készpénz-helyettesítő fizetési eszköz hamisítása, készpénz-helyettesítő fizetési eszközzel visszaélés, pénzmosás, információs rendszer felhasználásával elkövetett csalás, a korrupciós bűncselekmények öt évet el nem érő szabadságvesztéssel büntetendő alakzata, a bűncselekmény elkövetésével gyanúsított személyek és kapcsolataik adatait, kriminalisztikai szempontból fontos jellemzőit a bűncselekmény büntethetőségének elévülésétől számított húsz évig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig – vagy a nemzetközi kötelezettségvállalásban meghatározott ideig;
 - f) a nemzetközi kötelezettségvállalás alapján mindazon személyek, cselekményeik, valamint kapcsolataik adatait, akikkel szemben nemzetközi bűnüldözési vagy egyéb nyomozási intézkedéseket kell foganatosítani, a bűncselekmény büntethetőségének elévüléséig – ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig – vagy nemzetközi kötelezettségvállalásban meghatározott ideig;
 - g) a szervezett bűnözésre utaló cselekményekben érintett, illetve a bűnözői csoportban résztvevő vagy azzal együttműködő személyek, valamint kapcsolataik adatait és kriminalisztikai szempontból fontos jellemzőit az érintett személyre vonatkozó utolsó adatnak a bűnüldözési adatállományba történt bekerülése időpontjától számított harminc évig;
-- h) az egyes bűncselekmények nyomozása során a felderítés és a bizonyítás kapcsán keletkező iratokban szereplő személyekről, azok kapcsolatairól, eljárási helyzetéről, a hozzá fűződő nyomozási adatokról az ügyben hozott jogerős ítéletig, a nyomozás megszüntetése vagy a büntetőeljárás egyéb módon történt jogerős befejezése esetén a bűncselekmény büntethetőségének elévüléséig, ha pedig a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig;
-- i) a 73. § (3) bekezdése alá tartozók kivételével a titkos információgyűjtés alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat,
-  - ia) ha büntetőeljárás nem indul, a titkos információgyűjtés lezárását követő legfeljebb két évig,
-  - ib) büntetőeljárás lefolytatása esetén a büntethetőség elévülésétől számított 10 évig, ha pedig a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig,
-  - ic) elítélés esetén a büntetett előélethez fűződő hátrányok alóli mentesítésről való hivatalos rendőrségi tudomásszerzés esetén a mentesítéstől számított 10 évig, a hivatalos tudomásszerzés hiányában az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
-- j) a rendőrséggel titkosan együttműködő személyek, valamint a fedett nyomozók személyes adatait és az alkalmazás eredményét az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig;
-- k) a szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt kihallgatott személy szagmintáját, valamint az ismeretlen tettes által elkövetett bűncselekmény ügyében lefolytatott büntetőeljárás során rögzített helyszíni szagmaradványokat a rögzítésüktől számított három évig.
+- h) az egyes bűncselekmények nyomozása során a felderítés és a bizonyítás kapcsán keletkező ügyiratokban szereplő személyekről, azok kapcsolatairól, eljárási helyzetéről, a hozzá fűződő nyomozási adatokról az ügyben hozott ügydöntő határozatig, a bíróság véglegessé vált nem ügydöntő végzésével történő befejezése, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozatala esetén a bűncselekmény büntethetőségének elévüléséig, ha pedig a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig;
+- i)
+- j) az e törvény vagy a büntetőeljárásról szóló törvény alapján a rendőrséggel titkosan együttműködő személyek, valamint a fedett nyomozók személyes adatait és az alkalmazás eredményét az együttműködés, illetve a fedett nyomozói tevékenység megszűnésétől számított húsz évig;
+- k) a szándékos bűncselekmény megalapozott gyanúja miatt kihallgatott személy szagmintáját, valamint az ismeretlen tettes által elkövetett bűncselekmény ügyében lefolytatott büntetőeljárás során rögzített helyszíni szagmaradványokat a rögzítésüktől számított három évig.
 
-(2) Az (1) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel köthető megbízási szerződés.
+(1a) Azon adatok kivételével, amelyeket e törvény alapján rövidebb határidőn belül törölni kell, a rendőrségi adatkezelő szerv a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat
+
+- a) a 64. § a) pontjában meghatározott célból folytatott titkos információgyűjtés esetén az adott bűnmegelőzési feladat során folytatott titkos információgyűjtés megszüntetését követő két évig;
+- b) a 65. § (2) bekezdésében meghatározott célból folytatott titkos információgyűjtés esetén a bűncselekmény megszakítását vagy az elkövető elfogását követő tizenöt napig;
+- c) a 64. § b) pontjában meghatározott célból folytatott titkos információgyűjtés esetén
+  - ca) a 7/C. § (2) bekezdésében meghatározott esetben a megbízhatósági vizsgálat befejezését követő harminc napig,
+  - cb) ha a megbízhatósági vizsgálat eredményeként büntetőeljárás indul, az (1b) bekezdésben meghatározottak szerint;
+- d) a 64. § c) pontjában meghatározott célból folytatott titkos információgyűjtés esetén a körözési eljárás befejezését követő tizenöt napig;
+- e) a 64. § d) pontjában meghatározott célból folytatott titkos információgyűjtés esetén a személyi védelem, illetve a Védelmi Program jogerős megszűnését követő tizenöt napig;
+- f) a 64. § e) pontjában meghatározott célból folytatott titkos információgyűjtés esetén
+  - fa) ha a titkos információgyűjtés során veszélyeztetettségre vagy fenyegetettségre vonatkozó információ nem keletkezett, akkor az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított egy évig,
+  - fb) ha a titkos információgyűjtés során veszélyeztetettségre vagy fenyegetettségre vonatkozó információ keletkezett, akkor az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
+- g) a 64. § f) pontjában meghatározott célból folytatott titkos információgyűjtés esetén a külföldi hatóság megkeresésének a teljesítését követő tizenöt napig;
+- h) a 64. § g) pontjában meghatározott célból folytatott titkos információgyűjtés esetén a bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat eltávolítását követő tizenöt napig;
+- i) a 64. § h) pontjában meghatározott célból folytatott titkos információgyűjtés esetén
+  - ia) ha a titkos információgyűjtés során fenyegetettségre vagy a lelepleződés veszélyére vonatkozó információ nem keletkezett, akkor az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított egy évig,
+  - ib) ha a titkos információgyűjtés során fenyegetettségre vagy a lelepleződés veszélyére vonatkozó információ keletkezett, akkor az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
+- j) a 64. § i) pontjában meghatározott célból folytatott titkos információgyűjtés esetén
+  - ja) ha az érintettel nem jön létre titkos együttműködési megállapodás, akkor az erről szóló döntést követő egy évig,
+  - jb) ha az érintettel titkos együttműködési megállapodást köt a rendőrség, a titkos együttműködési megállapodás megszüntetését követő harminc évig
+
+bűnüldözési adatállományban kezelheti.
+
+(1b) Azon adatok kivételével, amelyeket a büntetőeljárásról szóló törvény alapján rövidebb határidőn belül törölni kell, a rendőrségi adatkezelő szerv az e törvényben meghatározott bűnüldözési feladatok ellátása céljából a leplezett eszközök alkalmazásával érintett személyek adatait és az alkalmazás eredményeként keletkezett adatokat
+
+- a) ha a büntetőeljárásról szóló törvény szerinti előkészítő eljárást követően nyomozás nem indul, a leplezett eszközök alkalmazásának megszüntetését követő két évig;
+- b) ha a nyomozás megindítását követően a terhelt büntetőjogi felelősségét nem állapítják meg,
+  - ba) a büntethetőség elévülésétől számított tíz évig,
+  - bb) ha a büntethetőség elévülése kizárt, az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított ötven évig;
+- c) ha a büntetőeljárás során a terhelt büntetőjogi felelősségét megállapítják,
+  - ca) a büntetett előélethez fűződő hátrányok alóli mentesülésről való hivatalos tudomásszerzés esetén a mentesüléstől számított tíz évig,
+  - cb) a büntetett előélethez fűződő hátrányok alóli mentesülésről való hivatalos tudomásszerzés hiányában az adatok bűnüldözési adatállományba történt bekerülésének időpontjától számított harminc évig;
+- d) ha a Be. 820. § (6) bekezdése alapján, a büntetőeljárás során hozott jogerős ügydöntő határozat jogerőre emelkedését követően elrendelt vagyonkutatási eljárás során alkalmaznak leplezett eszközt, a vagyonkutatási eljárás befejezésétől számított tizenöt napig
+
+bűnüldözési adatállományban kezelheti.
+
+(1c) Ha a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat a büntetőeljárásban bizonyítékként használják fel, ideértve a Be. 259. § (3) bekezdése szerinti adatokat is, az adatkezelésre az (1b) bekezdésben foglaltak irányadók.
+
+(2) Az (1)–(1b) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel köthető megbízási szerződés.
 
 91/B. § A rendőrségi adatkezelő szerv vezetője a 91/A. § (1) bekezdés e)–h) pontjában meghatározott adatok tekintetében – ha bűnüldözési célból elengedhetetlen, továbbá ha az érintett vagy mások jogainak védelme érdekében szükséges – az érintett személy tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jogának gyakorlását – írásban, a bírósági jogorvoslat, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulás lehetőségére vonatkozó tájékoztatást is tartalmazó indokolással ellátva – megtagadhatja vagy korlátozhatja. Az indokolás mellőzhető, ha az a rendőrség bűnüldözési feladatának ellátását akadályozza, vagy mások jogainak sérelmével jár. Az indokolás mellőzése esetén a megtagadás okaként az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 19. §-ában foglalt rendelkezés mellett e §-ra kell hivatkozni. A tájékoztatáshoz, helyesbítéshez, törléshez és zároláshoz való jog korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogainak gyakorlását.
 
 91/C. § (1) A rendőrség bűnüldözési célból és körözési eljárás során jogosult átvenni és az egyedi ügyhöz kapcsolódóan kezelni a 84. § (2) bekezdés h) pontja szerinti nyilvántartásban szereplő adatokat, valamint a hatáskörébe tartozó üggyel összefüggésben a 84. § (2) bekezdésében foglaltakon túlmenően egyéb, általa jogszerűen kezelhető adatot igényelhet bármely adatkezelő szervtől. A rendőrség az adatszolgáltatás teljesítésére határidőt jelölhet meg. A megkeresett adatkezelő szerv – ha törvény eltérően nem rendelkezik – köteles a rendőrség jogszerű adatszolgáltatás iránti igényét teljesíteni.
 
-(2) A rendőrség a bűnüldözési feladatai ellátása céljából – körözési eljárás során, illetőleg lakhelyelhagyási tilalom, házi őrizet elrendelése vagy biztosíték letétbe helyezésének engedélyezése esetén, továbbá nemzetközi kötelezettségvállalás alapján – jelzés elhelyezését rendelheti el az alábbi nyilvántartásokban:
+(2) A rendőrség a körözési eljárás során, illetve az olyan bűnügyi felügyelet elrendelése esetén, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, vagy biztosíték letétbe helyezésével folyó eljárás során, továbbá nemzetközi kötelezettségvállalás alapján jelzés elhelyezését rendelheti el az alábbi nyilvántartásokban:
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartása,
 - b) az országos gépjármű- és gépjárművezetői nyilvántartás,
@@ -1519,6 +1739,8 @@ adatok köre
 - g)
 - h) az ingatlan-nyilvántartás, és
 - i) a cégnyilvántartás.
+
+(2a) A rendőrség a 68. § (2) bekezdése alapján bejegyezett fedőadat esetén jelzés elhelyezését rendelheti el a közhiteles nyilvántartásban és értesítést kérhet a fedőadatra vagy az eredeti adatra vonatkozó adattovábbítási vagy adathozzáférési kérelemről.
 
 (3) A jelzés elrendelésekor a kért intézkedés vagy adatszolgáltatás célját meg kell jelölni. A jelzésben a rendőri szerv az érintett feltartóztatását vagy adatváltozás esetén értesítés adását kérheti. A jelzéssel érintett nyilvántartást kezelő szerv a rendőrség megkeresésében foglaltakat köteles teljesíteni.
 
@@ -1669,9 +1891,9 @@ részére.
 - c) a Magyarország területére történő beutazási határátkelőhelyet,
 - d) a tervezett indulási és a célállomásra történő érkezési időt.
 
-(3) A rendőrség a (2) bekezdésben felsorolt adatokat a határforgalom-ellenőrzés végrehajtásának céljából nyilvántartja. A nyilvántartott adatot az utas beléptetését vagy beléptetésének megtagadását követően, de legkésőbb az adatok átvételétől számított huszonnégy órán belül törli, kivéve, ha arra határrendészeti feladatainak végrehajtásához, illetve büntető- vagy szabálysértési eljárás lefolytatásához szüksége van. A határrendészeti feladat végrehajtását követően, illetve a büntető- vagy szabálysértési eljárás jogerős befejezésekor a nyilvántartott adatot haladéktalanul törölni kell.
+(3) A rendőrség a (2) bekezdésben felsorolt adatokat a határforgalom-ellenőrzés végrehajtásának céljából nyilvántartja. A nyilvántartott adatot az utas beléptetését vagy beléptetésének megtagadását követően, de legkésőbb az adatok átvételétől számított huszonnégy órán belül törli, kivéve, ha arra határrendészeti feladatainak végrehajtásához, illetve büntető- vagy szabálysértési eljárás lefolytatásához szüksége van. A határrendészeti feladat végrehajtását követően, illetve a szabálysértési eljárás jogerős befejezésekor, valamint a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor a nyilvántartott adatot haladéktalanul törölni kell.
 
-(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekmény elkövetésének lehetséges gyanúja esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
+(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekményre vonatkozó információ feltárása esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
 
 (4) A hajó felelős vezetője vagy annak hiányában az úszólétesítmény üzembentartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklete 4.3. pontja szerinti előzetes tájékoztatást ad a rendőrségnek a vízi közlekedésben részt vevő azon utasok (6) bekezdésben meghatározott adatairól, akik csoportosan szándékoznak átlépni Magyarország schengeni külső határait.
 
@@ -1703,6 +1925,8 @@ részére.
 (4) A technikai másolat alkalmazásának tényét az (1) bekezdésben meghatározott nyilvántartások központi adatkezelő szervénél, illetve a technikai másolatot alkalmazó rendőrségi szervnél is dokumentálni kell.
 
 (5) A másolatból lekérdezést végző szerv a technikai másolat naplóadatait, illetve a (4) bekezdés szerinti egyedi lekérdezést végző szerv az erre vonatkozó naplóadatokat naponta köteles a központi nyilvántartást vezető szervnek átadni.
+
+(6) A rendőrség a határbiztosítási távoltartás szabályai betartásának ellenőrzése céljából a határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §), embercsempészés (Btk. 353. §), jogellenes tartózkodás elősegítése (Btk. 354. §), jogellenes bevándorlás elősegítése, támogatása (Btk. 353/A. §) bűncselekmény elkövetése miatt a megalapozottan gyanúsított személy személyazonosító adatait, állampolgárságát, lakcímét, értesítési címét, az üggyel összefüggő adatait, továbbá a bűnüldözési célú adatkezelésekben a bűncselekményhez kapcsolódó kriminalisztikai jellegű adatokat a büntetőeljárással kapcsolatban a megalapozott gyanú közlésének napjától a bűnügyi nyilvántartási rendszerben kezelendő adatok nyilvántartásba vételéig kezeli.
 
 ### A közlekedési adatkezelés
 
@@ -1816,8 +2040,8 @@ bírálja el.
 - c) magánlakás: a lakás (üdülő, nyaraló vagy a lakás céljára használt egyéb helyiség, létesítmény, tárgy), az ahhoz tartozó nem lakás céljára szolgáló helyiség, létesítmény, bekerített terület;
 - d) csoportosulás: 3—10 főből álló, egységes akaratelhatározással fellépő csoport;
 - e) tömeg: 10 főt meghaladó csoportosulás;
-- f) automatizált keresés: másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely során a válasz is teljesen automatizált módon érkezik.
-- g)
+- f) automatizált keresés: másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely során a válasz is teljesen automatizált módon érkezik;
+- g) fedett nyomozó: a rendőrséghez tartozását, illetve kilétét tartósan leplező, kifejezetten ilyen feladat ellátása érdekében foglalkoztatott rendőr;
 - h) fogvatartott: akit törvény, illetőleg törvény alapján kiadott hatósági határozat alapján a szabad mozgáshoz és a tartózkodási hely szabad megválasztásához való jogában korlátoznak (őrizetbe vett, előzetesen letartóztatott, közbiztonsági őrizetben lévő, elfogott és előállított, elővezetett);
 - i) súlyos bűncselekmény: az a bűntett, amelyet a törvény 5 évi, vagy ennél súlyosabb szabadságvesztéssel fenyeget;
 - j) határterület: a határvonaltól számított az a területsáv, amelyet a Kormány rendeletében meghatározott települések közigazgatási területe alkot, továbbá a nemzetközi forgalom számára megnyitott repülőtér, vasútállomás és kikötő (kikötőhely) külön-külön meghatározott területe;
@@ -1826,7 +2050,8 @@ bírálja el.
 - m) határőrizet: a rendőrségnek a Közösségi Kódex 2. cikk 11. pontjában meghatározott tevékenysége;
 - n) tömeges méretű migráció: a szomszéd állam területéről személyek tömeges menekülése, amely közvetlenül veszélyezteti az államhatár rendjét, és rendkívüli intézkedés bevezetését teszi szükségessé;
 - o) tranzitterület: egyes nemzetközi határátkelőhelyen az üzemeltető által – a rendőrség, valamint a vámhatóság egyetértésével – kijelölt terület, amely a személyek várakozására szolgál;
-- p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatározott gazdasági célú légi közlekedési tevékenység végzésére jogosult.
+- p) légifuvarozó: az, aki a légiközlekedésről szóló törvényben meghatározott gazdasági célú légi közlekedési tevékenység végzésére jogosult;
+- q) információs rendszer: az adatok automatikus feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés, vagy az egymással kapcsolatban lévő ilyen berendezések összessége.
 
 (2)
 
@@ -1851,11 +2076,12 @@ bírálja el.
 - k) állapítsa meg a kényszerítő eszközök rendszeresítésére vonatkozó szakmai követelményeket és eljárási szabályokat,
 - l) állapítsa meg a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat,
 - m) állapítsa meg a belső bűnmegelőzési célú ellenőrzés és a megbízhatósági vizsgálat részletes szabályait,
-- n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, feladatai ellátásának részletes szabályait, továbbá kijelölje azon szerveket, szervezeteket, gazdasági társaságokat, amelyek együttműködésre kötelezettek a segélyhívásokat fogadó szervvel vagy a készenléti szervekkel és megállapítsa ezen együttműködés rendjét.
+- n) megállapítsa a segélyhívásokat fogadó szerv hatáskörét, feladatait, feladatai ellátásának részletes szabályait, továbbá kijelölje azon szerveket, szervezeteket, gazdasági társaságokat, amelyek együttműködésre kötelezettek a segélyhívásokat fogadó szervvel vagy a készenléti szervekkel és megállapítsa ezen együttműködés rendjét,
+- o) meghatározza a személyi védelemben részesíthető személyek körét és a személyi védelem ellátásának szabályait.
 
 (2)
 
-(3) Felhatalmazást kap a Kormány, hogy megállapítsa a rendőrség fedőintézmény létrehozásával, fenntartásával kapcsolatos eljárásának részletes szabályait.
+(3)
 
 101. § (1) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
@@ -1866,7 +2092,7 @@ bírálja el.
 - e) a rendőrség szolgálati szabályzatát, ennek részeként a határrendészeti feladatok, a rendőri intézkedések, a kényszerítő eszközök, a lőfegyverhasználat és a csapaterő alkalmazásának részletes eljárási szabályait, a szolgálati lőfegyverek és lőszerek 1. § (2) bekezdés 7a. pontja szerinti külföldre vitelének szabályait és a rendőrséggel együttműködő külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalának engedélyezési szabályait, a rendőrségnek a terrorcselekmények elhárításával, személy- és objektumvédelemmel, a polgári repülés biztonságával összefüggő feladatait, a szolgálati formákat, az elöljárói és feljebbvalói viszonyt, a rendőri magatartás szabályait, az egyenruha viselésének rendjét,
 - f) a rendőrség feladatait a polgárőrséggel és más önvédelmi szervezetekkel történő együttműködésben,
 - g) a rendőrségi adatok kezelésére jogosult szervek feladatait, az adatok kezelésének és feldolgozásának technikai szabályait, valamint a bűnüldözési adatok helyessége, megbízhatósága és felhasználhatósága jelölésének módját,
-- h) a különleges eszközök és módszerek engedélyezésével, igénybevételével kapcsolatos szabályokat,
+- h) a bírói engedélyhez kötött eszközök alkalmazása indítványozásával, engedélyezésével, illetve igénybevételével kapcsolatos szabályokat,
 - i) az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények körét,
 - j)
 - k) a rendőrség feladatai ellátásának rendjét a fontosabb közúti, vasút, vízi- és légiszállításokkal kapcsolatban, valamint a rendőrség légi közlekedésrendészeti és repülésbiztonsági, repülésvédelmi feladatait,
@@ -1886,9 +2112,9 @@ bírálja el.
 - f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényekkel összefüggő rendőrségi eljárás és a rendezvények biztosításával kapcsolatos rendőrségi feladatok végrehajtásának részletes szabályait,
 - g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel és a szabálysértési szabályozásért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével, rendeletben állapítsa meg a törvény alapján rendőrségi fogdán végrehajtható fogvatartások végrehajtásának részletes szabályait, valamint a rendőrségi fogdák rendjét.
 
-(3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei alkalmazásának részletes szabályait a miniszter utasításban állapítja meg.
+(3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök rendőrség általi alkalmazásának, valamint a speciális kiadások felhasználásának részletes szabályait a miniszter utasításban állapítja meg.
 
-(4) A terrorizmust elhárító szerv főigazgatója a miniszter jóváhagyásával utasításban meghatározza a 7/E. § (3) bekezdése szerinti titkos információgyűjtés belső eljárási és engedélyezési szabályait.
+(4) A terrorizmust elhárító szerv főigazgatója a miniszter jóváhagyásával utasításban meghatározza a 63. § (7) bekezdése szerinti titkos információgyűjtés belső eljárási és engedélyezési szabályait.
 
 #### 102. §
 
@@ -1906,16 +2132,23 @@ bírálja el.
 
 (3) E törvénynek a Mód. törvénnyel megállapított 80/A. §-át a Mód. törvény hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Mód. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
+(4) E törvénynek a titkos információgyűjtésre vonatkozó 2018. június 30-ig hatályban volt rendelkezéseit a folyamatban lévő titkos információgyűjtésekre 2019. január 1-ig alkalmazni kell.
+
+(5) A titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról szóló 2017. évi XCIII. törvény hatálybalépésekor folyamatban lévő, az e törvény 2018. június 30-ig hatályban volt rendelkezései alapján végzett titkos információgyűjtés esetén a rendőrség titkos információgyűjtést folytató szerve 2019. január 1-ig döntést hoz arról, hogy a büntetőeljárásról szóló törvény szerinti előkészítő eljárást kezdeményez-e vagy feljelentést tesz-e.
+
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
 103/A. § E törvény
 
-- a) 1–2. §-a,
+- a) 1–2/A. §-a,
 - b) 4. §-a,
 - c) 4/A. § (1) és (2) bekezdése,
 - d) 5–6. §-a,
-- e) 7–74. §-a, valamint
-- f) 92–101. §-a az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
+- e) 7–75/L. §-a,
+- f) 92–101. §-a, valamint
+- g) 103. § (4)–(5) bekezdése
+
+az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

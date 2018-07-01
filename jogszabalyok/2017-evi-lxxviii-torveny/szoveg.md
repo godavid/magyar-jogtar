@@ -545,7 +545,15 @@ alapján folytatható.
 
 (7) Az eseti gondnok, az eseti gyám és az ügygondnok részére a meghatalmazást a hatóság kirendelő határozata pótolja.
 
-#### 37. §
+37. § (1) Törvényben meghatározott esetben a hatóság kirendelő határozata alapján a területi kamara jelöli ki a kirendelés alapján kirendelt védőként eljáró ügyvédet.
+
+(2) A kirendelt védő a kirendelhető ügyvédek jegyzékéből jelölhető ki.
+
+(3) A területi kamara a kirendelés alapján kirendelt védőként eljáró ügyvédet elektronikus, véletlenszerű kiválasztás segítségével, kamarai szabályzatban meghatározott eljárási szabályokban rögzített módon jelöli ki.
+
+(4) A kijelöléskor biztosítani kell a kirendelt védőként kirendelhető ügyvédek arányos munkaterhelését, valamint figyelembe kell venni a kijelölésre kerülő ügyvéd és a kirendelő hatóság földrajzi elhelyezkedését.
+
+(5) A kirendelt védő részére a meghatalmazást a hatóság kirendelő határozata és a kijelölés pótolja.
 
 38. § (1) A területi kamara a kirendelt védőként kirendelhető ügyvédekről jegyzéket vezet.
 
@@ -1527,7 +1535,7 @@ terheli.
 
 117. § (1) A fegyelmi tanács tagjaként, fegyelmi biztosként és országos fegyelmi főbiztosként nem járhat el,
 
-- a) aki ellen fegyelmi vagy közvádra üldözendő bűncselekmény miatt büntetőeljárás van folyamatban, ennek jogerős befejezéséig,
+- a) aki fegyelmi eljárás vagy közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 - b) aki a bejelentő vagy az eljárás alá vont személy Polgári Törvénykönyv szerinti hozzátartozója,
 - c) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat,
 - d) aki kamarai elnöki, elnökhelyettesi, elnökségi tagi, főtitkári, titkári tisztséget tölt be,
@@ -1658,7 +1666,7 @@ terheli.
 
 130. § (1) Az elsőfokú fegyelmi tanács az ügyvédi tevékenység gyakorlását felfüggesztheti, ha
 
-- a) az ügyvédi tevékenységet gyakorló személy szándékos bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult büntetőeljárást – hatálya alatt áll, vagy
+- a) az ügyvédi tevékenységet gyakorló személy szándékos bűncselekmény miatt büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll, vagy
 - b) az ügyvédi tevékenység folytatása az ügyfelek jogai, jogos érdekei vagy az ügyvédségbe vetett közbizalom olyan mértékű sérelmével vagy veszélyeztetésével járna, amely meghaladja az ügyvédi tevékenység gyakorlása felfüggesztéséből fakadó egyéni érdeksérelmet.
 
 (2) Ha az elsőfokú fegyelmi tanács kizárást alkalmazott, és annak végrehajtását nem függesztette fel, a határozatban az ügyvédi tevékenységet a fegyelmi eljárás jogerős befejezéséig fel kell függeszteni. E rendelkezés ellen külön fellebbezésnek van helye, amelynek nincs halasztó hatálya.
@@ -1782,7 +1790,7 @@ terheli.
 
 #### 62. Az eljárás felfüggesztése
 
-140. § (1) Az eljárás alá vont személy elleni büntetőeljárás jogerős befejezéséig a fegyelmi eljárást fel lehet függeszteni.
+140. § (1) A fegyelmi eljárást fel lehet függeszteni az eljárás alá vont személy elleni büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig.
 
 (2) A büntetőeljárást folytató bíróság, ügyészség vagy nyomozó hatóság az ügyvédi tevékenységet gyakorló személy elleni büntetőeljárásról, a vádemelésről és a büntetőeljárás befejezéséről tájékoztatja a területi kamara elnökét.
 
@@ -1871,7 +1879,7 @@ való adatigénylés útján ellenőrzi.
 
 (5) A kérelmező az 58. § (2) bekezdés a) és b) pontja és a 67. § (2) bekezdés a) és b) pontja szerinti feltételek fennállását az általa ellátott ügyek számára és jellegére vonatkozó iratokkal, nyelvvizsgával, illetve a területi kamara előtti személyes meghallgatáson igazolja.
 
-147. § Az ügyvédi kamara az eljárást a büntetőeljárás jogerős befejezéséig felfüggeszti, ha a kérelmező ellen – közvádra üldözendő – szándékos bűncselekmény elkövetése miatt indult büntetőeljárás.
+147. § Ha a kérelmező ellen – közvádra üldözendő – szándékos bűncselekmény elkövetése miatt indult büntetőeljárás, az ügyvédi kamara az eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti.
 
 #### 68. Az ügyvédi kamarai tagság megszűnése és megszüntetése
 
@@ -2344,7 +2352,7 @@ való adatigénylés útján ellenőrzi.
 
 (4) Ha a kérelmező más területi kamara működési területén fiókirodát kíván fenntartani, az eljáró területi kamara, abban a kérdésben, hogy a fiókiroda megfelel-e az e törvényben, valamint a kamarai szabályzatban meghatározott feltételeknek, a fiókiroda címe szerint illetékes területi kamarát szakhatóságként keresi meg.
 
-(5) A kamara az eljárást a büntetőeljárás jogerős befejezéséig felfüggeszti, ha a kérelmező ellen – közvádra üldözendő – szándékos bűncselekmény elkövetése miatt indult büntetőeljárás.
+(5) Ha a kérelmező ellen – közvádra üldözendő – szándékos bűncselekmény elkövetése miatt indult büntetőeljárás, a kamara az eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti.
 
 #### 80. Az európai közösségi jogász és az alkalmazott európai közösségi jogász nyilvántartásba-vételi eljárásának sajátos szabályai
 
@@ -2712,7 +2720,7 @@ ellenőrzésével gondoskodik.
 - c) az európai közösségi jogászok szakmai megnevezéseit, amelyek alatt az ügyvédi szakmai tevékenységet az Európai Közösségek Tanácsának 77/249/EGK irányelve és az Európai Parlament és a Tanács 98/5/EK irányelve szerint jogosultak folytatni,
 - d) az arcképes igazolványra vonatkozó részletes szabályokat,
 - e) az adópolitikáért felelős miniszterrel egyetértésben, a kérelemre induló kamarai hatósági eljárásokért fizetendő igazgatási szolgáltatási díj összegére, befizetésére, visszatérítésére és nyilvántartására, valamint az igazgatási szolgáltatási díj alóli kedvezményekre és mentességekre vonatkozó szabályokat,
-- f) a kamarai jogtanácsos és a jogi előadó által fizetendő regisztrációs díj mértékét
+- f)
 
 rendeletben szabályozza.
 
@@ -2827,7 +2835,7 @@ való megfelelést szolgálja.
 210. § Hatályát veszti
 
 - a)–c)
-- d)
+- d) e törvény 206. § f) pontja.
 
 ### 1. melléklet a 2017. évi LXXVIII. törvényhez
 

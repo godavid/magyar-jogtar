@@ -639,7 +639,7 @@ minősítést kap.
 
 (4) Ha a szakértő költségelőleget kért és az eljárásban külön jogszabály alapján a szakértői díj letétjének kiegészítése volt szükséges, a hatóság a költségelőleget a kiegészítés teljesítését követő nyolc napon belül megfizeti.
 
-(5) Ha a szakértő költségelőleget kért és a költségelőleget a (3) vagy (4) bekezdésben meghatározott határidőben nem kapta meg, – törvényben meghatározott kiemelt jelentőségű ügyek vagy peres eljárások kivételével – a kirendelés alóli felmentését kérheti.
+(5) Ha a szakértő költségelőleget kért és a költségelőleget a (3) vagy (4) bekezdésben meghatározott határidőben nem kapta meg, – törvényben meghatározott kiemelt jelentőségű peres eljárások kivételével – a kirendelés alóli felmentését kérheti.
 
 (6) Ha a szakértőt a hatóság a kirendelés alól bármely okból felmenti, az erről szóló döntésben – ha a költségelőleg megfizetésre került – a szakértőt a költségelőleg visszafizetésére is kötelezi.
 
@@ -884,7 +884,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 69. § (1) Az igazságügyi szakértő kamarai tagságát fel kell függeszteni, ha
 
-- a) az igazságügyi szakértő ellen közvádra üldözendő szándékos bűncselekmény miatt emel vádat az ügyész vagy
+- a) az igazságügyi szakértő ellen közvádra üldözendő szándékos bűncselekmény miatt emel vádat az ügyészség vagy
 - b) a kötelező szakmai kamarai tagsággal rendelkező igazságügyi szakértő szakmai kamarai tagsága felfüggesztésre került.
 
 (2) Az (1) bekezdés a) pontja szerinti vádemelésről az ügyész értesíti a Kamarát és a névjegyzéket vezető hatóságot.
@@ -1152,7 +1152,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 - c) kamarai tagságának megszűnésével, és
 - d) megbízatása idejének lejártával.
 
-(2) A tisztségviselő megbízatása vagy kinevezése akkor is megszűnik, ha az ellene indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
+(2) A tisztségviselő megbízatása vagy kinevezése akkor is megszűnik, ha a vele szemben indult fegyelmi vagy büntetőeljárás során jogerősen elmarasztalták.
 
 (3) A tisztségviselő visszahívását a Kamara tagjainak legalább egytizede kezdeményezheti, a visszahívott tisztségviselő tisztségét betöltő új jelölt megjelölésével egyidejűleg. A tisztségviselő visszahívása kizárólag akkor sikeres, ha a küldöttgyűlés az új tisztségviselőnek ajánlott jelöltet egyidejűleg megválasztja.
 
@@ -1246,7 +1246,7 @@ miatti szüneteléséhez. Ezen esetekben a szünetelés időtartama a megbízat�
 
 (3) A bűncselekmény törvényi tényállását megvalósító fegyelmi vétség a bűncselekménnyel együtt évül el.
 
-(4) Ha a fegyelmi vétségnek is minősülő cselekmény miatt büntető, szabálysértési vagy szakmai kamara hatáskörébe tartozó fegyelmi eljárás indult, az eljárás jogerős befejezésétől számított három hónapon belül a fegyelmi eljárás akkor is megindítható, ha a (3) bekezdésben meghatározott határidő eltelt.
+(4) Ha a fegyelmi vétségnek is minősülő cselekmény miatt büntető, szabálysértési vagy szakmai kamara hatáskörébe tartozó fegyelmi eljárás indult, az eljárás jogerős befejezésétől, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától számított három hónapon belül a fegyelmi eljárás akkor is megindítható, ha a (3) bekezdésben meghatározott határidő eltelt.
 
 #### 52. A fegyelmi tanácstagok listája
 
@@ -1525,11 +1525,11 @@ csökkennek.
 
 #### 65. A büntetőeljárással kapcsolatos intézkedések
 
-118. § (1) Ha a fegyelmi eljárás során rendelkezésre álló adatok alapján közvádra üldözendő bűncselekmény elkövetésének gyanúja merül fel, a fegyelmi tanács elnökét jelzési kötelezettség terheli a főtitkár felé. A főtitkárt – a fegyelmi tanács elnökével való egyetértés esetén – feljelentési kötelezettség terheli.
+118. § (1) Ha a fegyelmi eljárás során rendelkezésre álló adatok alapján közvádra üldözendő bűncselekmény gyanúja merül fel, a fegyelmi tanács elnökét jelzési kötelezettség terheli a főtitkár felé. A főtitkárt – a fegyelmi tanács elnökével való egyetértés esetén – feljelentési kötelezettség terheli.
 
-(2) A büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság az igazságügyi szakértő ellen indított büntetőeljárás megindításáról és befejezéséről értesíti a Kamarát.
+(2) A büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság az igazságügyi szakértővel szemben indított büntetőeljárás megindításáról és befejezéséről értesíti a Kamarát.
 
-(3) A büntetőeljárás jogerős befejezéséig a fegyelmi eljárást a fegyelmi tanácsnak határozattal fel kell függesztenie, a határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek és a Kamara elnökének.
+(3) A büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig a fegyelmi eljárást a fegyelmi tanácsnak határozattal fel kell függesztenie, a határozatot kézbesíteni kell a fegyelmi eljárás alá vont igazságügyi szakértőnek és a Kamara elnökének.
 
 #### 66. A határozatok meghozatala
 

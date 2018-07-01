@@ -177,7 +177,7 @@ a büntetés-végrehajtási szervezetről
 
 (8) A bv. szervek területére való belépés, a tartózkodás és a kilépés részletes szabályait, továbbá a bv. szerv területén hivatali (szolgálati) tevékenységet végző személyekre vonatkozó sajátos rendelkezéseket külön jogszabály tartalmazza.
 
-14/A. § (1) Az előzetes letartóztatást foganatosító és a szabadságvesztés büntetést végrehajtó szerv – különösen a külön jogszabály szerinti, a büntetés-végrehajtási intézetbe történő befogadás során – ujjnyomatot vehet a befogadott személytől.
+14/A. § (1) A letartóztatást foganatosító és a szabadságvesztés büntetést végrehajtó szerv – különösen a külön jogszabály szerinti, a büntetés-végrehajtási intézetbe történő befogadás során – ujjnyomatot vehet a befogadott személytől.
 
 (2) Az (1) bekezdés szerinti ujjnyomat vétele kizárólag abból a célból történhet, hogy a befogadott személy ujjnyomata a – külön törvény szerinti – daktiloszkópiai nyilvántartásból igényelt adatokkal, a személyazonosítás érdekében összevetésre kerüljön. A bv. szerv által vett ujjnyomatot a személyazonosítást követően haladéktalanul törölni kell.
 
@@ -199,7 +199,7 @@ a büntetés-végrehajtási szervezetről
 
 (2a) Az intézkedésnek passzívan ellenszegülő személlyel szemben csak testi kényszer alkalmazható.
 
-(3) Csak korlátozott testi kényszer (megfogás, lefogás) alkalmazható a kényszergyógykezelttel, az ideiglenes kényszergyógykezelttel és a kóros elmeállapotúvá vált fogvatartottal szemben.
+(3) Csak korlátozott testi kényszer (megfogás, lefogás) alkalmazható a kényszergyógykezelttel, az előzetes kényszergyógykezelttel és a kóros elmeállapotúvá vált fogvatartottal szemben.
 
 (4) Nincs helye kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört vagy az intézkedés eredményessége enélkül is biztosítható.
 
@@ -209,7 +209,7 @@ a büntetés-végrehajtási szervezetről
 
 (7) A jogszerűtlennek minősített kényszerítő eszköz használatáról az ügyészt nyolc napon belül, ha pedig a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
 
-(8) Ha a kényszerítő eszközt kényszergyógykezelttel vagy ideiglenes kényszergyógykezelttel szemben alkalmazták, a 16. § (6) bekezdés szerint kialakított állásfoglalásról az érintett személyen kívül értesíteni kell a betegjogi képviselőt, a beteg törvényes vagy meghatalmazott képviselőjét és a törvényességi felügyeletet ellátó ügyészt is.
+(8) Ha a kényszerítő eszközt kényszergyógykezelttel vagy előzetes kényszergyógykezelttel szemben alkalmazták, a 16. § (6) bekezdés szerint kialakított állásfoglalásról az érintett személyen kívül értesíteni kell a betegjogi képviselőt, a beteg törvényes vagy meghatalmazott képviselőjét és a törvényességi felügyeletet ellátó ügyészt is.
 
 16/A. § A kényszerítő eszköz alkalmazását a szolgálati elöljárónak haladéktalanul szóban, a szolgálat befejezése után két órán belül írásban is jelenteni kell.
 
@@ -227,7 +227,7 @@ a büntetés-végrehajtási szervezetről
 - d) a bv. szerv vagyonát rongálja, és azt felhívás ellenére sem hagyja abba;
 - e) a 13. § (4) bekezdésében meghatározott magatartást tanúsít.
 
-(3) Az intézkedéssel érintett személynek, továbbá ha az intézkedést kényszergyógykezelttel, ideiglenes kényszergyógykezelttel szemben alkalmazták, a betegjogi képviselőnek, a beteg törvényes vagy meghatalmazott képviselőjének – függetlenül a 16. § (6) bekezdése szerinti állásfoglalástól – joga van az intézkedéssel kapcsolatban feljelentést, keresetet, bejelentést vagy panaszt tenni az illetékes hatóságnál vagy szervnél.
+(3) Az intézkedéssel érintett személynek, továbbá ha az intézkedést kényszergyógykezelttel, előzetes kényszergyógykezelttel szemben alkalmazták, a betegjogi képviselőnek, a beteg törvényes vagy meghatalmazott képviselőjének – függetlenül a 16. § (6) bekezdése szerinti állásfoglalástól – joga van az intézkedéssel kapcsolatban feljelentést, keresetet, bejelentést vagy panaszt tenni az illetékes hatóságnál vagy szervnél.
 
 17/A. § A kényszerítő eszközök alkalmazása szempontjából a bv. szerv elleni támadásnak vagy rongálásnak minősül az olyan magatartás, amely a területén lévő vagy az üzemeltetését (működését) biztosító létesítmények, tárgyak, berendezések, járművek, egyéb eszközök megszerzésére, használhatatlanná tételére, megrongálására vagy megsemmisítésére irányul.
 
@@ -394,7 +394,7 @@ alkalmazható.
 - e) kapcsolattartói minőségét, és
 - f) a hivatalos kapcsolatot megalapozó, azt igazoló okmány megnevezését és számát.
 
-28/B. § (1) A bíróság vagy az ügyész értesítése alapján a fogva tartó bv. szerv nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 1998. évi XIX. törvény 51. § (3) vagy (3a) bekezdése alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben a fogvatartott szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
+28/B. § (1) A bíróság vagy az ügyészség értesítése alapján a fogva tartó bv. szerv nyilvántartja a sértettnek, illetve a büntetőeljárásról szóló 2017. évi XC. törvény 52. §-a alapján a sértett jogait gyakorló személynek a sértettet érintő bűncselekménnyel összefüggésben a fogvatartott szabadulásáról vagy szökéséről történő értesítésre vonatkozó kérelmével kapcsolatos adatokat.
 
 (2) Az (1) bekezdés alapján a következő személyes adatokat kell nyilvántartani:
 
@@ -406,7 +406,7 @@ alkalmazható.
 - a) a miniszter,
 - b) a bíróság,
 - c) az ügyészség,
-- d) a rendőrség és az egyéb nyomozó hatóságok,
+- d) a rendőrség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 - e) a nemzetbiztonsági szolgálatok,
 - f) a Nemzeti Adatvédelmi és Információszabadság Hatóság
 

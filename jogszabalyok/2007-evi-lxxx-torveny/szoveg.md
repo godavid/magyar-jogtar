@@ -29,7 +29,7 @@ a menedékjogról a következő törvényt alkotja:
 - i) biztonságos harmadik ország: az az ország, amelyre vonatkozóan a menekültügyi hatóság meggyőződött arról, hogy a kérelmező az alábbi elvekkel összhangban lévő bánásmódban részesül:
   - ia) az életét és a szabadságát nem fenyegeti veszély faji, vallási okból, nemzeti hovatartozása, valamely társadalmi csoporthoz való tartozása vagy politikai meggyőződés miatt, illetve nincs kitéve súlyos sérelem veszélyének;
   - ib) a genfi egyezménnyel összhangban tiszteletben tartják a visszaküldés tilalmának elvét;
-  - ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve; és
+  - ic) elismerik és alkalmazzák a nemzetközi jog azon szabályát, amely szerint a kérelmező olyan ország területére nem utasítható ki, ahol az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve; és
   - id) a menekültkénti elismerés kérelmezésének lehetősége biztosított, és a menekültkénti elismerés esetén biztosított a genfi egyezménnyel összhangban álló védelem;
 - j) családtag: a külföldi
   - ja) kiskorú gyermeke (ideértve az örökbefogadott és a nevelt gyermeket is),
@@ -81,7 +81,7 @@ rendelkezik;
 
 ### III. Fejezet — A MENEKÜLT
 
-6. § (1) Magyarország menekültként ismeri el azt a külföldit, akinek az esetében az Alaptörvény XIV. cikk (3) bekezdésében meghatározott feltételek fennállnak.
+6. § (1) Magyarország menekültként ismeri el azt a külföldit, akinek az esetében az Alaptörvény XIV. cikk (4) bekezdés első mondatában meghatározott feltételek fennállnak.
 
 (2) Az üldözéstől való megalapozott félelem alapulhat olyan eseményeken is, amelyek azt követően következtek be, hogy a külföldi a származási országát elhagyta, vagy a külföldi olyan tevékenységén, amelyet a származási országa elhagyását követően fejtett ki.
 
@@ -172,7 +172,7 @@ rendelkezik;
 - h) elismerésének feltételei már az elismerő határozat meghozatalakor sem álltak fenn;
 - i) a menekültügyi eljárás során lényeges tényt vagy tényeket elhallgatott, vagy ilyen tényre vagy tényekre vonatkozó valótlan nyilatkozatot tett, illetve hamis vagy hamisított dokumentumokat használt fel, feltéve, hogy ez a menekültkénti elismerését érdemben befolyásolta.
 
-(3) A menekültügyi hatóság az elismerést visszavonja, ha a menekültet bíróság jogerős határozatában olyan bűncselekmény elkövetése miatt ítéli el, amelyre a törvény ötévi vagy azt meghaladó szabadságvesztés büntetést rendel.
+(3) A menekültügyi hatóság az elismerést visszavonja, ha a menekültet bíróság jogerős ügydöntő határozatában olyan bűncselekmény elkövetése miatt ítéli el, amelyre a törvény ötévi vagy azt meghaladó szabadságvesztés büntetést rendel.
 
 (4) A (2) bekezdés e) pontja nem alkalmazható arra a menekültre, aki korábbi üldöztetéséből fakadó alapos okot tud felhozni származási országa védelmének elutasítására.
 
@@ -269,7 +269,7 @@ rendelkezik;
   - ab) a menedékeskénti elismerés iránti kérelem benyújtását megelőzően, Magyarország területén kívül súlyos, nem politikai bűncselekményt követett el;
   - ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
 - b) akinek Magyarország területén való tartózkodása nemzetbiztonsági érdeket sért;
-- c) akiről jogerős bírói ítélet megállapította, hogy olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
+- c) akiről a bíróság jogerős ügydöntő határozata megállapította, hogy olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
 
 (2) Az (1) bekezdés a) pont ab) alpontja alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest, és amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
 
@@ -322,7 +322,7 @@ rendelkezik;
 
 ### V/A. Fejezet — A BEFOGADOTT
 
-25/A. § Magyarország befogadottként védelemben részesíti azt a külföldit, aki nem felel meg a menekültként vagy oltalmazottként való elismerés feltételeinek, de fennáll annak a veszélye, hogy származási országába történő visszatérése esetén faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, vagy politikai meggyőződése miatt üldöztetés veszélyének vagy az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja.
+25/A. § Magyarország befogadottként védelemben részesíti azt a külföldit, aki nem felel meg a menekültként vagy oltalmazottként való elismerés feltételeinek, de fennáll annak a veszélye, hogy származási országába történő visszatérése esetén faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, vagy politikai meggyőződése miatt üldöztetés veszélyének vagy az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja.
 
 25/B. § (1) A menekültügyi hatóság befogadottként ismeri el azt a személyt, akinek esetében a menekültügyi hatóság
 
@@ -1017,7 +1017,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 ### A visszaküldési tilalom vizsgálata és a menekültügyi hatóság által elrendelt kiutasítás
 
-45. § (1) A visszaküldés tilalma fennáll, ha az elismerését kérő származási országában faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, avagy politikai meggyőződése miatt üldöztetés veszélyének vagy az Alaptörvény XIV. cikk (2) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja.
+45. § (1) A visszaküldés tilalma fennáll, ha az elismerését kérő származási országában faji, illetve vallási okok, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, avagy politikai meggyőződése miatt üldöztetés veszélyének vagy az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve, és nincs olyan biztonságos harmadik ország, amely befogadja.
 
 (2) A kísérő nélküli kiskorú esetében a visszaküldés tilalma akkor is fennáll, ha a család egyesítése, illetve az állami vagy más intézményi gondoskodás sem a származási országában, sem az őt befogadó más államban nem biztosított.
 
@@ -1053,7 +1053,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldi (e fejezet alkalmazásában a továbbiakban: kérelmező) részére a jogorvoslattal tovább nem támadható döntés vagy a 49. § (4) bekezdése alapján a kérelmező átadásáról hozott végzés végrehajthatóvá válásáig szálláshelyként vagy a feltételek fennállása esetében kijelölt tartózkodási helyként – kérelmére – magánszálláshelyet, ennek hiányában befogadó állomást, közösségi szállást, szerződés alapján fenntartott más szálláshelyet vagy meghatározott megye közigazgatási területét jelöli ki, kivéve, ha
 
-- a) a kérelmező személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll,
+- a) a kérelmező személyi szabadságot érintő kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll,
 - b) fennállnak a menekültügyi őrizet elrendelésének feltételei, vagy
 - c) a kérelmező jogszerűen tartózkodik Magyarország területén és nem kéri befogadó állomáson történő elhelyezését.
 
@@ -1095,7 +1095,8 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - b) a kérelmezőt más tagállam menekültként ismerte el, vagy kiegészítő védelemben részesítette;
 - c) a kérelmezőt valamely harmadik ország menekültként ismerte el, feltéve, hogy ez a védelem a kérelem elbírálásakor is fennáll, és a szóban forgó harmadik ország a kérelmezőt visszafogadja;
 - d) a kérelem ismételt, és nem merült fel olyan új körülmény vagy tény, amely arra utalna, hogy a kérelmező menekültkénti vagy oltalmazottkénti elismerésének lenne helye; vagy
-- e) a kérelmező vonatkozásában van olyan harmadik ország, amely rá nézve biztonságos harmadik országnak minősül.
+- e) a kérelmező vonatkozásában van olyan harmadik ország, amely rá nézve biztonságos harmadik országnak minősül,
+- f) a kérelmező olyan országon keresztül érkezett, ahol a 6. § (1) bekezdése szerinti üldözésnek vagy a 12. § (1) bekezdése szerinti súlyos sérelem veszélyének nincs kitéve, vagy ha abban az országban, amin keresztül Magyarországra érkezett, a megfelelő szintű védelem biztosított.
 
 (3) A (2) bekezdés d) pontjának alkalmazása során azok a körülmények vagy tények számítanak újnak, amiket a kérelmező az előző eljárása során rajta kívül álló ok miatt nem tudott igazolni vagy valószínűsíteni.
 
@@ -1133,6 +1134,8 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 (10) Amennyiben a kérelem alapját részben vagy egészében a 6. § (2) bekezdésében vagy a 12. § (2) bekezdésében foglalt körülmények jelentik, a (7) bekezdés h) pontjában foglalt ésszerű időt e körülmények beálltától kell számolni.
 
 (11) A (2) bekezdés e) pontjának vagy a (7) bekezdés b) pontjának alkalmazása esetében a kérelmező az e tény vele való közlését követően haladéktalanul, de legkésőbb a közlést követő 3 napon belül nyilatkozhat arra vonatkozóan, hogy az ő egyéni esetében adott ország miért nem minősül biztonságos származási,- vagy biztonságos harmadik országnak.
+
+(12) A (2) bekezdés f) pontjának alkalmazása esetén a kérelmező az e tény vele való közlését követően haladéktalanul, de legkésőbb a közlést követő 3 napon belül nyilatkozhat arra vonatkozóan, hogy az ő egyéni esetében adott ország vonatkozásában a (2) bekezdés f) pontja szerinti feltételek nem álltak fenn.
 
 51/A. § Amennyiben a biztonságos származási ország, vagy a biztonságos harmadik ország a kérelmezőt nem veszi át, vagy nem veszi vissza, a menekültügyi hatóság döntését visszavonja és az eljárást folytatja.
 
@@ -1570,7 +1573,7 @@ meghaladja,
 
 80/J. § (1) Menedékjog iránti kérelmet a menekültügyi hatóság előtt személyesen, kizárólag a tranzitzónában lehet benyújtani, kivéve, ha az elismerését kérő
 
-- a) személyi szabadságot korlátozó kényszerintézkedés, intézkedés vagy büntetés, hatálya alatt áll,
+- a) személyi szabadságot érintő kényszerintézkedés, intézkedés vagy büntetés, hatálya alatt áll,
 - b) a menekültügyi hatóság által elrendelt menekültügyi őrizet hatálya alatt áll, vagy
 - c) jogszerűen tartózkodik Magyarország területén és nem kéri befogadó állomáson történő elhelyezését.
 
@@ -1769,7 +1772,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 - a) a bíróság,
 - b) az ügyészség,
-- c) a nyomozó hatóság,
+- c) a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 - d) a nemzetbiztonsági szolgálat,
 - e) az idegenrendészeti hatóság,
 - f) az adó- és vámhatóság,
@@ -1788,6 +1791,8 @@ igényelhetnek adatot.
 
 (1a) Az e fejezetben meghatározott nyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából igényelhet adatot.
 
+(1b) A menekültügyi hatóság a menekültügyi nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a menekült vagy menedékes jogállás fennállására vonatkozó adatok tekintetében az eljáró hatóság részére közvetlen hozzáférést biztosít.
+
 (2) A menekültügyi hatóság – a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
 
 (3) Az e törvény alapján kezelt adatok statisztikai célra felhasználhatók, és az azokat tartalmazó nyilvántartásokból személyazonosításra alkalmatlan módon statisztikai célra adatok szolgáltathatók.
@@ -1797,7 +1802,7 @@ igényelhetnek adatot.
 - a) a 83. § (1) bekezdés a) pontjában meghatározott adatok közül az e törvény hatálya alá tartozó személy családi és utóneve vagy -nevei, születési családi és utóneve vagy -nevei, előző családi és utóneve vagy -nevei, születési helye és ideje, neme, anyja születési családi és utóneve vagy -nevei, a jelenlegi és korábbi állampolgárságára vagy hontalan státuszára vonatkozó adatok, továbbá
 - b) a 83. § (1) bekezdés f), valamint j)–l) pontjában meghatározott adatok.
 
-(5) A 83. § (1) bekezdés m) pontjában meghatározott adat csak a nyomozó hatóság és az ügyészség, továbbá törvényben meghatározottak szerint a bíróság és a nemzetbiztonsági szolgálat részére adható át.
+(5) A 83. § (1) bekezdés m) pontjában meghatározott adat csak az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá törvényben meghatározottak szerint a bíróság és a nemzetbiztonsági szolgálat részére adható át.
 
 (6) A menekültügyi hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a menekültügyi nyilvántartás hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
 
@@ -1961,7 +1966,26 @@ igényelhetnek adatot.
 
 (4) Felhatalmazást kap a miniszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben, tömeges bevándorlás okozta válsághelyzetben a többségi állami tulajdonban vagy önkormányzati tulajdonban álló gazdasági társaságok számára, a tevékenységi körükbe tartozó szolgáltatások nyújtására szerződéskötési kötelezettséget írjon elő.
 
-94. §
+### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+94. § E törvény
+
+- a) 1. § (2) bekezdése,
+- b) 3. §-a,
+- c) 5. §-a,
+- d) III–V/A. Fejezete,
+- e) 31/A–31/F. §-a,
+- f) 31/I. §-a,
+- g) 32/C. § a) pontja,
+- h) 32/D–32/F. §-a,
+- i) 32/G. § (1) bekezdése,
+- j) 32/Q. § (1)–(3) és (7)–(8) bekezdése,
+- k) 32/R. §-a,
+- l) 32/S. §-a,
+- m) 33. §-a,
+- n) 45. §-a
+
+az Alaptörvény XIV. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogának való megfelelés
 

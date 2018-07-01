@@ -224,7 +224,7 @@ rendelkezik.
 - a) aki nem töltötte be 18. életévét,
 - b) aki büntetett előéletű,
 - c) aki büntetlen előéletű, de büntetőjogi felelősségét a bíróság a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés, hamis vád, hatóság félrevezetése, hamis tanúzás, hamis tanúzásra felhívás, mentő körülmény elhallgatása, bűnpártolás, XXVII. Fejezetében meghatározott korrupciós bűncselekmény, bűnszervezetben részvétel, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény vagy XXXV–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt jogerős ítéletben megállapította, addig az időpontig, amíg az e tényre vonatkozó adat kezelését a bűnügyi nyilvántartási rendszerben a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény elrendeli,
-- d) aki a c) pontban meghatározott bűncselekmény elkövetésének megalapozott gyanúja miatt büntetőeljárás hatálya alatt áll,
+- d) aki a c) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll,
 - e) aki gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll,
 - f) aki vezető tisztségviselő volt olyan szervezetben,
   - fa) amely öt éven belül fizetésképtelenné vált, illetve amelynek tevékenységi engedélyét a Hatóság jogsértés miatt visszavonta, vagy amelynek a felszámolását a bíróság jogerősen elrendelte,

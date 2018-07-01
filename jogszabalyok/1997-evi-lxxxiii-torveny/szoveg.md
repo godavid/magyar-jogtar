@@ -1205,7 +1205,7 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 - b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra vagy a gyermekgondozási díjra való jogosultság kezdő napján pénzbeli egészségbiztosítási járulék fizetésére kötelezett;
 - c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
 - d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, mini bölcsőde, munkahelyi bölcsőde, családi bölcsőde, napközbeni gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
-- e) a jogosult előzetes letartóztatásban van vagy szabadságvesztés-, elzárásbüntetését tölti;
+- e) a jogosult letartóztatásban van, vagy szabadságvesztést, elzárást tölt;
 - f)
 - g) a gyermek a gyermekgondozási díjra való jogosultság ideje alatt meghal, az elhalálozás időpontját követő hónap első napjától, vagy ha addig a halál időpontjától számítva 15 napnál kevesebb van hátra, akkor az elhalálozást követő 16. naptól;
 - h) ikergyermekek esetében valamelyik gyermek
@@ -1347,7 +1347,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 - a) a keresőképtelenségnek arra az időtartamára, amely alatt a biztosítás szünetel, munkavégzési kötelezettség hiányában keresetveszteség nincs, továbbá a betegszabadság lejártát követő szabadnapra és heti pihenőnapra, ha az azt követő munkanapon (munkaszüneti napon) a keresőképtelenség már nem áll fenn,
 - b) a keresőképtelenségnek arra a tartamára, amelyre a biztosított a teljes keresetét megkapja, illetve, ha a keresetét részben kapja meg, a részben megkapott kereset után,
 - c) a gyermekgondozást segítő ellátás folyósításának az idejére, ide nem értve a segély mellett végzett munka alapján járó táppénzt,
-- d) az előzetes letartóztatás és a szabadságvesztés tartamára.
+- d) a letartóztatás és a szabadságvesztés tartamára,
 - e) a saját jogú nyugdíj folyósításának időtartamára.
 - f) a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék és az átmeneti bányászjáradék folyósításának az idejére, ide nem értve a korhatár előtti ellátás, a szolgálati járandóság, a táncművészeti életjáradék, illetve az átmeneti bányászjáradék mellett végzett munka alapján járó táppénzt.
 

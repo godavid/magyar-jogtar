@@ -125,7 +125,7 @@ ideértve azt is, ha más kiadvány mellékletét képezik, kivéve az ISBN-szá
 számára meghatározott díjfizetési kötelezettség;
 
 - 30a. termékdíjhiány: a kötelezett terhére megállapított termékdíj-különbözet, ha a termékdíj-különbözetet az esedékesség időpontjáig nem fizették meg. Az eredeti esedékesség napján fennálló túlfizetést a termékdíj-fizetési kötelezettség teljesítéseként csak akkor lehet figyelembe venni, ha a túlfizetés az ellenőrzés megkezdésének napján is fennáll.
-- 30b. termékdíj-különbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott és az adó- és vámhatóság által utólag megállapított termékdíj különbözete vagy a büntetőeljárás során jogerősen megállapított – és a bíróság vagy az ügyészség jogerős határozata alapján az adóhatóság által határozattal megfizetni rendelt – termékdíjbevétel-csökkenés, vagyoni hátrány, ide nem értve a következő időszakra átvihető követelés különbözetét,
+- 30b. termékdíj-különbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott és az adó- és vámhatóság által utólag megállapított termékdíj különbözete vagy a büntetőeljárás során a bíróság által jogerősen vagy az ügyészség határozata alapján megállapított és az adóhatóság által határozattal megfizetni rendelt termékdíjbevétel-csökkenés, vagyoni hátrány, ide nem értve a következő időszakra átvihető követelés különbözetét;
 - 30c. termékdíj-tartozás: az esedékességkor meg nem fizetett termékdíj;
 - 31. újrahasználható csomagolószer: olyan csomagolószer, amely az MSZ EN 13429:2004 Csomagolás – Újrahasználat szerinti szabvány, vagy azzal egyenértékű megoldás alapján alkalmas csomagolásként történő többszöri felhasználásra;
 - 32. újbóli felhasználásra előkészítés: a hulladékká nem vált termékdíjköteles termék, illetve alkotórészének vagy tartozékának ellenőrzése, tisztítása, valamint javítása az eredeti felhasználási célra való alkalmassá tétel érdekében;
@@ -325,7 +325,7 @@ keletkezik.
 - f) amely termékdíj ügyintéző szakképesítéssel rendelkezik vagy ilyen szakképesítéssel rendelkező ügyintézőt foglalkoztat, képviselőt alkalmaz a termékdíj raktár ügyeinek intézésére, és
 - g) amelynek vezetője, vezető tisztségviselője, egyéni vállalkozó esetében az egyéni vállalkozó
   - ga) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) szerinti gazdasági vagy a közélet tisztasága elleni,
-  - gb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt nem áll jogerős ítélet hatálya alatt vagy mentesült a büntetett előélethez fűződő hátrányos következmények alól.
+  - gb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. vagy XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény elkövetése miatt nem áll jogerős ügydöntő határozat hatálya alatt vagy mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
 (2) Az engedély legfeljebb öt évre adható, amely az engedélyezés feltételeinek fennállása esetén újabb öt évre meghosszabbítható.
 
@@ -933,7 +933,7 @@ a termékdíjköteles terméket lefoglalja.
 - a) ha a lefoglalt környezetvédelmi termékdíjköteles termékre az eljárás eredményes lefolytatása érdekében már nincs szükség;
 - b) ha környezetvédelmi termékdíj és termékdíjbírság vagy mulasztási bírság nem kerül megállapításra;
 - c) ha a lefoglalt termékre a tényállás tisztázása során a kiszabott környezetvédelmi termékdíjat és termékdíjbírságot mulasztási bírságot és termék elszállításával, tárolásával, őrzésével kapcsolatos költségeket befizették vagy arra – elidegenítési tilalom alkalmazása mellett – fizetéskönnyítést engedélyeztek;
-- d) ha a termékdíjas szabályok megsértésével kapcsolatban indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a büntetőügyben eljáró hatóság az állami adó- és vámhatóságot megkereste.
+- d) ha a termékdíjas szabályok megsértésével kapcsolatban indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a bíróság, az ügyészség vagy a nyomozó hatóság az állami adó- és vámhatóságot megkereste.
 
 35. § (1) A lefoglalt termék annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja, vagy annak, akitől azt (azokat) az állami adó- és vámhatóság lefoglalta, feltéve, hogy a jogszerű birtoklás tényét igazolta.
 

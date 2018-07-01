@@ -194,7 +194,7 @@ minősítési szintű.
 
 10. § (1) Minősített adatot kezelni csak a Nemzeti Biztonsági Felügyelet által kiadott engedély alapján lehet, akkor, ha az állami vagy közfeladat ellátásához nélkülözhetetlen.
 
-(2) A minősített adathoz – az e törvényben meghatározott kivételekkel – kizárólag személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező jogosult felhasználó a felhasználói engedélyben meghatározott rendelkezési jogosultságokkal férhet hozzá.
+(2) A minősített adathoz – törvényben meghatározott kivételekkel – személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező felhasználó kizárólag a számára kiadott felhasználói engedélyben meghatározott rendelkezési jogosultságokkal férhet hozzá.
 
 (3) A személyi biztonsági tanúsítvány kiadásához az érintett – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel. A személyi biztonsági tanúsítvány a nemzetbiztonsági ellenőrzésről készült kockázatmentes biztonsági szakvélemény kiállításától számított 5 évig érvényes. A gazdálkodó szervezetnél a minősített adatot felhasználó külföldi állampolgárságú személy részére a személyi biztonsági tanúsítvány – törvényben kihirdetett nemzetközi szerződés alapján – abban az esetben is kiadható, ha rendelkezik az állampolgársága szerinti ország nemzeti feladat- és hatáskörrel rendelkező hatósága által kiállított érvényes személyi biztonsági tanúsítvánnyal.
 
@@ -262,7 +262,7 @@ biztonsági feltételeket.
 
 14. § (1) Nemzeti minősített adatnak büntetőeljárásban történő felhasználására a büntetőeljárásról szóló törvény rendelkezéseit kell alkalmazni.
 
-(2) A büntetőeljárás során – ha törvény másként nem rendelkezik – az eljárást folytató, illetve az eljárásban részt vevő ügyész, a büntetőeljárásban kirendelt vagy bevont igazságügyi szakértő nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül használhatja fel a rendelkezésére bocsátott nemzeti minősített adatot.
+(2)
 
 (3) A büntetőeljárásban fel nem használt nemzeti minősített adat felhasználására a minősítő adhat felhasználói engedélyt.
 
@@ -414,7 +414,7 @@ ad ki.
 
 (3) Ha az érintett személy részére személyi biztonsági tanúsítvány kiadására nem kerül sor, a Nemzeti Biztonsági Felügyelet az (1) bekezdés a) pontjában meghatározott adatokat az eljárás befejezését követően köteles törölni.
 
-(4) A nyomozó hatóságok, a bíróság, az ügyészség és a nemzetbiztonsági szolgálatok megkeresésére – a rájuk vonatkozó törvényben meghatározott feladataik ellátásához, az ott meghatározott körben – a Nemzeti Biztonsági Felügyelet adatot szolgáltat.
+(4) A bíróság, az ügyészség, a nyomozó hatóság és a nemzetbiztonsági szolgálatok megkeresésére vagy adatkérésére – a rájuk vonatkozó törvényben meghatározott feladataik ellátásához, az ott meghatározott körben – a Nemzeti Biztonsági Felügyelet adatot szolgáltat.
 
 (5) A Nemzeti Biztonsági Felügyelet az (1) bekezdés a) pont aa)–ad) alpontjában és b) pontjában szereplő adatokat – a nemzetközi kötelezettségvállalások alapján – továbbíthatja a külföldi adatkezelők részére.
 
