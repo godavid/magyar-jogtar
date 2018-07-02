@@ -4,11 +4,15 @@ egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatás
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-1–2. §
+#### 1. §
+
+#### 2. §
 
 #### 2. Az állattenyésztésről szóló 1993. évi CXIV. törvény módosítása
 
-3–4. §
+#### 3. §
+
+#### 4. §
 
 5. § (1)
 
@@ -16,94 +20,375 @@ egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatás
 
 (3)
 
-6–11. §
+#### 6. §
 
-12. §
+#### 7. §
 
-- a)
-- b)
-- c)
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+a)
+
+b)
+
+c)
 
 #### 3. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 4. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-14. §
+#### 14. §
 
 #### 5. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-15–18. §
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
 
 19. § (1)–(2)
 
 (3)
 
-20–42. §
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
 
 #### 6. A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény módosítása
 
-43. §
+#### 43. §
 
 #### 7. A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény módosítása
 
-44–56. §
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
 
 #### 8. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-57–118. §
+#### 57. §
 
-119. §
+#### 58. §
 
-- a)–m)
-- n)
-- o)–p)
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
+
+#### 95. §
+
+#### 96. §
+
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
+
+#### 108. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+a)–m)
+
+n)
+
+o)–p)
 
 #### 9. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-120–126. §
+#### 120. §
 
-127. §
+#### 121. §
 
-128–145. §
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
+
+#### 129. §
+
+#### 130. §
+
+#### 131. §
+
+#### 132. §
+
+#### 133. §
+
+#### 134. §
+
+#### 135. §
+
+#### 136. §
+
+#### 137. §
+
+#### 138. §
+
+#### 139. §
+
+#### 140. §
+
+#### 141. §
+
+#### 142. §
+
+#### 143. §
+
+#### 144. §
+
+#### 145. §
 
 #### 10. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-146–147. §
+#### 146. §
 
-148. § Az Evt. 108. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 147. §
 
-„(4) Az erdészeti hatóság erdővédelmi bírságot szab ki arra, aki jogszabályban vagy közvetlenül alkalmazandó közösségi jogi aktusban megállapított faanyag-kereskedelmi lánchoz tartozó tevékenységgel kapcsolatos előírást, illetve az erdészeti hatóság zárlati intézkedést elrendelő döntését megszegi.”
+#### 148. §
 
-149. § Hatályát veszti az Evt.
+#### 149. §
 
-- a)
-- b) 108. § (5) és (6) bekezdése.
+a)
 
-#### 11. A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló2011. évi CLXVIII. törvény módosítása
+b)
 
-150–153. §
+#### 11. A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló
+
+2011. évi CLXVIII. törvény módosítása
+
+#### 150. §
+
+#### 151. §
+
+#### 152. §
+
+#### 153. §
 
 #### 12. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-154. §
+#### 154. §
 
 #### 13. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 
-155–156. §
+#### 155. §
+
+#### 156. §
 
 #### 14. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-157–159. §
+#### 157. §
 
-160. §
+#### 158. §
 
-161. §
+#### 159. §
+
+#### 160. §
+
+#### 161. §
 
 #### 15. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-162–167. §
+#### 162. §
+
+#### 163. §
+
+#### 164. §
+
+#### 165. §
+
+#### 166. §
+
+#### 167. §
 
 #### 16. Az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvény módosítása
 

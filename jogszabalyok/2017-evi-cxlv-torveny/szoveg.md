@@ -40,15 +40,13 @@ egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizáci�
 
 22–26. §
 
-27. § A Gfbt. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kötvénynyilvántartó szerv legalább havonta köteles a járműnyilvántartás, az ideiglenes rendszámtáblák nyilvántartása és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzemben tartók adatait tartalmazó listát, és azt a 45. § (2) bekezdésében meghatározott eljárás lefolytatása érdekében az üzemben tartó lakóhelye (székhelye, telephelye) szerinti illetékes járási hivatal részére továbbítani.”
+27. §
 
 28. §
 
 29. §
 
-30. § Hatályát veszti a Gfbt. 45. § (2) bekezdésében a „negyedéves” szövegrész.
+30. §
 
 #### 4. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
@@ -220,11 +218,7 @@ lép.
 
 171–181. §
 
-182. § A Bit. a következő 169/A. alcímmel egészül ki:
-
-„169/A. A biztosítási szerződések általános javadalmazási szabályai
-
-377/A. § A 377. § (3)–(6) bekezdésében foglaltak minden, biztosításközvetítő által közvetített biztosítási szerződésre vonatkozóan alkalmazandóak azzal, hogy független biztosításközvetítő esetén jutalékon a biztosítótól származó, a biztosítási díj meghatározott részét képező közvetett díjazást kell érteni.”
+182. §
 
 183–193. §
 

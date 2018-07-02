@@ -6,48 +6,73 @@ az egyes adótörvények és más kapcsolódó törvények módosításáról
 
 #### 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-1. §
+#### 1. §
 
 2. § (1)
 
 (2)
 
-3–6. §
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
 
 7. § (1)
 
 (2)–(3)
 
-8. §
+#### 8. §
 
-9–11. §
+#### 9. §
 
-12. §
+#### 10. §
+
+#### 11. §
+
+#### 12. §
 
 13. § Az Szja tv.
 
-- 1–3.
-- 4–6.
-- 7–8.
-- 9–10.
-- 11–12.
-- 13–17.
-- 18–19.
-- 20.
-- 21–22.
-- 23–30.
+1–3.
+
+4–6.
+
+7–8.
+
+9–10.
+
+11–12.
+
+13–17.
+
+18–19.
+
+20.
+
+21–22.
+
+23–30.
 
 lép.
 
-14. §
+#### 14. §
 
 #### 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-15–18. §
+#### 15. §
 
-19. §
+#### 16. §
 
-20. §
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
 
 21. § (1)–(3)
 
@@ -55,126 +80,173 @@ lép.
 
 (5)–(11)
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26–28. §
+#### 26. §
 
-29. §
+#### 27. §
+
+#### 28. §
+
+#### 29. §
 
 30. § (1)–(2)
 
 (3)
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
 33. § A Tao. törvény
 
-- 1.
-- 2.
-- 3.
+1.
+
+2.
+
+3.
 
 módosul.
 
 34. § A Tao. törvény
 
-- 1–8.
-- 9–16.
-- 17.
-- 18–22.
+1–8.
+
+9–16.
+
+17.
+
+18–22.
 
 lép.
 
-35. §
+#### 35. §
 
 #### 3. Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény módosítása
 
-36. §
+#### 36. §
 
 37. § Az Eva. tv.
 
-- 1.
-- 2.
+1.
+
+2.
 
 lép.
 
-38. §
+#### 38. §
 
 #### 4. Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény módosítása
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
 #### 5. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-44–45. §
+#### 44. §
+
+#### 45. §
 
 #### 6. A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény módosítása
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
 #### 7. Az egyes gazdasági és pénzügyi tárgyú törvények megalkotásáról, illetve módosításáról szóló 2010. évi XC. törvény módosítása
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
 #### 8. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-55–58. §
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
 
 59. § A Katv.
 
-- 1.
-- 2–5.
+1.
+
+2–5.
 
 lép.
 
 #### 9. A tudományos kutatásról, fejlesztésről és az innovációról szóló 2014. évi LXXVI. törvény módosítása
 
-60. §
+#### 60. §
 
 ### II. Fejezet — A KÖZVETETT ADÓZÁST ÉRINTŐ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 10. Az energiaadóról szóló 2003. évi LXXXVIII. törvény módosítása
 
-61. §
+#### 61. §
 
 #### 11. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény módosítása
 
-62–76. §
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
 
 #### 12. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
 #### 13. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
@@ -274,7 +346,7 @@ d) az importáló,
 
 e) a másik tagállamban szabadforgalomba bocsátott terméket kereskedelmi céllal belföldre szállító személy.”
 
-87. §
+#### 87. §
 
 88. § A Jöt. 78. § (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -342,37 +414,101 @@ b) – ha az adóraktár engedélyese a Magyar Honvédség vagy a rendőrség �
 
 „(4) A kisüzemi bortermelői feltételeknek megfelelő egyszerűsített adóraktári engedélyes az állami adó- és vámhatóságnak a végrehajtási rendelet szerinti adattartalommal megtett nyilatkozata alapján mentesül az adóraktári követelmények teljesítése alól. A nyilatkozat megtételekor az állami adó- és vámhatóság a rendelkezésére álló adatok alapján a nyilatkozattevő jogi és gazdasági függetlenségét, a 3. § (3) bekezdés 16. pont a) alpontja szerinti feltétel teljesülését, valamint azt vizsgálja, hogy a 3. § (3) bekezdés 16. pont c) alpontja szerint a borászati üzemben tárolható terméken túl a nyilatkozattevő tárol-e más jövedéki terméket az egyszerűsített adóraktárban. Ha a nyilatkozattevő a tárgy borpiaci évre vonatkozóan még nem teljesített a (2) bekezdés szerinti adatszolgáltatást, a nyilatkozatban meg kell adni a tárgy borpiaci évben a nyilatkozattétel időpontjáig az egyszerűsített adóraktárban előállított csendes bor mennyiségét. Ha a nyilatkozattevő a nyilatkozat megtételekor tevékenységét nem végzi három átlagolható borpiaci éve, akkor a megkezdett borpiaci évek előállított mennyiségének átlagát kell figyelembe venni a 3. § (3) bekezdés 16. pont a) alpontja szerinti feltétel teljesülésének vizsgálatakor. A kisüzemi bortermelői szabályok alkalmazására vonatkozó nyilatkozat alapján az állami adó- és vámhatóság – a kisüzemi bortermelői jogszabályi feltételek teljesülése esetén – az egyszerűsített adóraktári engedélyt visszavonja. A kisüzemi bortermelőként végzett tevékenység az adóraktári engedély visszavonásakor kezdhető meg, a tevékenységről vezetett gazdálkodói nyilvántartás változatlan tartalommal, készletfelvétel végzése nélkül vezethető tovább.”
 
-98–101. §
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
 
 #### 14. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-102. §
+#### 102. §
 
 ### III. Fejezet — A HELYI ADÓZÁST ÉS A GÉPJÁRMŰVEK ADÓZÁSÁT ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 15. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-103–118. §
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
+
+#### 108. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
 
 #### 16. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-119–120. §
+#### 119. §
+
+#### 120. §
 
 ### IV. Fejezet — REKLÁMADÓ
 
 #### 17. A reklámadóról szóló 2014. évi XXII. törvény módosítása
 
-121–123. §
+#### 121. §
+
+#### 122. §
+
+#### 123. §
 
 ### V. Fejezet — ILLETÉKEK
 
 #### 18. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-124–132. §
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
+
+#### 129. §
+
+#### 130. §
+
+#### 131. §
+
+#### 132. §
 
 #### 19. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
-133–136. §
+#### 133. §
+
+#### 134. §
+
+#### 135. §
+
+#### 136. §
 
 ### VI. Fejezet — A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIT MEGILLETŐ EGYES BEFIZETÉSEKET ÉRINTŐ MÓDOSÍTÁSOK
 
@@ -382,23 +518,39 @@ b) – ha az adóraktár engedélyese a Magyar Honvédség vagy a rendőrség �
 
 (2)
 
-138–142. §
+#### 138. §
 
-143–144. §
+#### 139. §
+
+#### 140. §
+
+#### 141. §
+
+#### 142. §
+
+#### 143. §
+
+#### 144. §
 
 145. § A Tbj.
 
-- 1–4.
-- 5.
-- 6–8.
+1–4.
+
+5.
+
+6–8.
 
 lép.
 
-146. §
+#### 146. §
 
 #### 21. Az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény módosítása
 
-147–149. §
+#### 147. §
+
+#### 148. §
+
+#### 149. §
 
 150. § Hatályát veszti az Eho tv.
 
@@ -412,21 +564,23 @@ lép.
 
 (2)
 
-152. §
+#### 152. §
 
-153. §
+#### 153. §
 
-154. §
+#### 154. §
 
-155. §
+#### 155. §
 
-156. §
+#### 156. §
 
 157. § Az Eat.
 
-- 1.
-- 2.
-- 3.
+1.
+
+2.
+
+3.
 
 lép.
 
@@ -434,65 +588,139 @@ lép.
 
 #### 23. A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény módosítása
 
-158–162. §
+#### 158. §
+
+#### 159. §
+
+#### 160. §
+
+#### 161. §
+
+#### 162. §
 
 #### 24. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-163–166. §
+#### 163. §
 
-167. §
+#### 164. §
 
-168. §
+#### 165. §
 
-169. §
+#### 166. §
 
-170. §
+#### 167. §
 
-171. §
+#### 168. §
 
-172–186. §
+#### 169. §
 
-187. § Az Art. 172. §-a a következő (5a) bekezdéssel egészül ki:
+#### 170. §
 
-„(5a) A 31/B. § (2a) bekezdésében előírt adatszolgáltatási kötelezettség elmulasztása, késedelmes, hiányos, hibás vagy valótlan adattartalmú teljesítése esetén a kiszabható mulasztási bírság felső határa az érintett számlák, számlával egy tekintet alá eső okiratok számának és a bírság adózóra egyébként vonatkozó, törvényben rögzített legmagasabb mértékének szorzata.”
+#### 171. §
 
-188. §
+#### 172. §
 
-189. §
+#### 173. §
 
-190. §
+#### 174. §
 
-191. §
+#### 175. §
 
-192–194. §
+#### 176. §
 
-195. §
+#### 177. §
 
-196. §
+#### 178. §
 
-197. §
+#### 179. §
 
-198–200. §
+#### 180. §
 
-201. §
+#### 181. §
 
-202–204. §
+#### 182. §
 
-205. §
+#### 183. §
 
-- 1–6.
-- 7.
-- 8–37.
+#### 184. §
 
-206. §
+#### 185. §
 
-- 1.
-- 2.
-- 3–10.
+#### 186. §
+
+#### 187. §
+
+#### 188. §
+
+#### 189. §
+
+#### 190. §
+
+#### 191. §
+
+#### 192. §
+
+#### 193. §
+
+#### 194. §
+
+#### 195. §
+
+#### 196. §
+
+#### 197. §
+
+#### 198. §
+
+#### 199. §
+
+#### 200. §
+
+#### 201. §
+
+#### 202. §
+
+#### 203. §
+
+#### 204. §
+
+#### 205. §
+
+1–6.
+
+7.
+
+8–37.
+
+#### 206. §
+
+1.
+
+2.
+
+3–10.
 
 #### 25. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény módosítása
 
-207–216. §
+#### 207. §
+
+#### 208. §
+
+#### 209. §
+
+#### 210. §
+
+#### 211. §
+
+#### 212. §
+
+#### 213. §
+
+#### 214. §
+
+#### 215. §
+
+#### 216. §
 
 #### 26. Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvény egyes rendelkezései hatálybalépésének elmaradásáról
 
@@ -502,17 +730,27 @@ lép.
 
 218. § Az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvény (a továbbiakban: Módtv.)
 
-- 1. 28. § (6) bekezdésének a Katv. 2. § 23. pontját megállapító rendelkezése az „a 2016. év nyitó” szövegrész helyett az „a 2017. év nyitó” szöveggel;
-- 2. 32. §-ának a Katv. 20. § (6) bekezdését megállapító rendelkezése a „negatív, ezzel az összeggel az adózó a következő adóévekben – a (7) bekezdésben foglaltakat figyelembe véve – csökkentheti a (3)–(5) bekezdés szerint megállapított pozitív egyenleget a kisvállalati adó alapja meghatározásakor, feltéve, hogy a (3)–(5) bekezdés szerint” szövegrész helyett a „negatív, ez az összeg a következő adóévekben – a (7) bekezdésben foglaltakat figyelembe véve – csökkenti a (3)–(5) bekezdés szerint megállapított pozitív egyenleget a kisvállalati adó alapja meghatározásakor, feltéve, hogy a (3)–(5) bekezdés szerint” szöveggel;
-- 3. 32. §-ában a Katv. 20. § (7) bekezdését megállapító rendelkezése az „adóévi kifizetések összegével az adózó döntése szerint, az (1) bekezdéstől függetlenül, teljes mértékben csökkentheti a tárgyév és a következő adóévek adóalapját – függetlenül attól, hogy az érintett eszközöket rendeltetésszerűen használatba vették-e az adóévben –, legfeljebb az elhatárolt veszteségnek a (3)–(5) bekezdés szerinti tárgyévi negatív egyenleggel növelt összegéig. Az adózó” szövegrész helyett az „adóévi kifizetések összegéig, a korábbi évek elhatárolt veszteségének a (3)–(5) bekezdés szerinti tárgyévi negatív egyenleggel növelt összege, az (1) bekezdéstől függetlenül, a személyi jellegű kifizetések terhére is csökkenti a tárgyév és a következő adóévek adóalapját – függetlenül attól, hogy az érintett eszközöket rendeltetésszerűen használatba vették-e az adóévben. Az adózó” szöveggel;
-- 4. 33. §-ának a Katv. 23. § (2) bekezdés a) pontját megállapító rendelkezése a „20. § (2) bekezdése szerint meghatározott személyi jellegű kifizetések összege, csökkentve a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel, és” szövegrész helyett a „20. § (2) bekezdése szerint meghatározott személyi jellegű kifizetések összege, és” szöveggel;
-- 5. 34 § (2) bekezdésének a Katv. 28. § (4b) bekezdését megállapító rendelkezése az „alanya – a keletkezést követő 5 adóéven belül – elhatárolt veszteségként” szövegrész helyett az „alanya – a visszatérést követő 5 adóéven belül – elhatárolt veszteségként” szöveggel;
-- 6. 55. §-ában a Tao. törvény 30/D. §-át megállapító rendelkezése a „7. § (26), (27) és (28) bekezdése” szövegrész helyett a „7. § (26)–(29) bekezdése” szöveggel;
-- 7. 106. § (2) bekezdésének a népegészségügyi termékadóról szóló 2011. évi CIII. törvény (a továbbiakban: Neta tv.) 1. § 22. pontját megállapító rendelkezése az „a jövedéki adóról szóló törvény” szövegrész helyett az „a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló – 2016. december 31-én hatályos – 2003. évi CXXVII. törvény” szöveggel;
-- 8. 107. § (2) bekezdésének a Neta tv. 2. § i) pontját megállapító rendelkezése az „a Jöt. 133. § (1) bekezdés e)–i) pontja” szövegrész helyett az „a Jöt. 68. § (1) bekezdése” szöveggel;
-- 9. 133. §-ában a Tbj. 56/K. § (1) bekezdés a) pontját megállapító rendelkezés az „ami alapján a magyarországi munkavégzése” szövegrész helyett az „ami alapján a munkavállaló magyarországi munkavégzése” szöveggel
-- 10. 6. mellékletben foglalt táblázat 52. sorában a „húsa, frissen,” szövegrész helyett a „húsa, vágási mellékterméke és belsősége frissen,” szöveggel
-- 11. 6. mellékletben foglalt táblázat 52. sorában a „0207-ből” szövegrész helyett a „0207” szöveggel
+1. 28. § (6) bekezdésének a Katv. 2. § 23. pontját megállapító rendelkezése az „a 2016. év nyitó” szövegrész helyett az „a 2017. év nyitó” szöveggel;
+
+2. 32. §-ának a Katv. 20. § (6) bekezdését megállapító rendelkezése a „negatív, ezzel az összeggel az adózó a következő adóévekben – a (7) bekezdésben foglaltakat figyelembe véve – csökkentheti a (3)–(5) bekezdés szerint megállapított pozitív egyenleget a kisvállalati adó alapja meghatározásakor, feltéve, hogy a (3)–(5) bekezdés szerint” szövegrész helyett a „negatív, ez az összeg a következő adóévekben – a (7) bekezdésben foglaltakat figyelembe véve – csökkenti a (3)–(5) bekezdés szerint megállapított pozitív egyenleget a kisvállalati adó alapja meghatározásakor, feltéve, hogy a (3)–(5) bekezdés szerint” szöveggel;
+
+3. 32. §-ában a Katv. 20. § (7) bekezdését megállapító rendelkezése az „adóévi kifizetések összegével az adózó döntése szerint, az (1) bekezdéstől függetlenül, teljes mértékben csökkentheti a tárgyév és a következő adóévek adóalapját – függetlenül attól, hogy az érintett eszközöket rendeltetésszerűen használatba vették-e az adóévben –, legfeljebb az elhatárolt veszteségnek a (3)–(5) bekezdés szerinti tárgyévi negatív egyenleggel növelt összegéig. Az adózó” szövegrész helyett az „adóévi kifizetések összegéig, a korábbi évek elhatárolt veszteségének a (3)–(5) bekezdés szerinti tárgyévi negatív egyenleggel növelt összege, az (1) bekezdéstől függetlenül, a személyi jellegű kifizetések terhére is csökkenti a tárgyév és a következő adóévek adóalapját – függetlenül attól, hogy az érintett eszközöket rendeltetésszerűen használatba vették-e az adóévben. Az adózó” szöveggel;
+
+4. 33. §-ának a Katv. 23. § (2) bekezdés a) pontját megállapító rendelkezése a „20. § (2) bekezdése szerint meghatározott személyi jellegű kifizetések összege, csökkentve a kedvezményezett foglalkoztatott után érvényesíthető kedvezménnyel, és” szövegrész helyett a „20. § (2) bekezdése szerint meghatározott személyi jellegű kifizetések összege, és” szöveggel;
+
+5. 34 § (2) bekezdésének a Katv. 28. § (4b) bekezdését megállapító rendelkezése az „alanya – a keletkezést követő 5 adóéven belül – elhatárolt veszteségként” szövegrész helyett az „alanya – a visszatérést követő 5 adóéven belül – elhatárolt veszteségként” szöveggel;
+
+6. 55. §-ában a Tao. törvény 30/D. §-át megállapító rendelkezése a „7. § (26), (27) és (28) bekezdése” szövegrész helyett a „7. § (26)–(29) bekezdése” szöveggel;
+
+7. 106. § (2) bekezdésének a népegészségügyi termékadóról szóló 2011. évi CIII. törvény (a továbbiakban: Neta tv.) 1. § 22. pontját megállapító rendelkezése az „a jövedéki adóról szóló törvény” szövegrész helyett az „a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló – 2016. december 31-én hatályos – 2003. évi CXXVII. törvény” szöveggel;
+
+8. 107. § (2) bekezdésének a Neta tv. 2. § i) pontját megállapító rendelkezése az „a Jöt. 133. § (1) bekezdés e)–i) pontja” szövegrész helyett az „a Jöt. 68. § (1) bekezdése” szöveggel;
+
+9. 133. §-ában a Tbj. 56/K. § (1) bekezdés a) pontját megállapító rendelkezés az „ami alapján a magyarországi munkavégzése” szövegrész helyett az „ami alapján a munkavállaló magyarországi munkavégzése” szöveggel
+
+10. 6. mellékletben foglalt táblázat 52. sorában a „húsa, frissen,” szövegrész helyett a „húsa, vágási mellékterméke és belsősége frissen,” szöveggel
+
+11. 6. mellékletben foglalt táblázat 52. sorában a „0207-ből” szövegrész helyett a „0207” szöveggel
 
 lép hatályba.
 
@@ -534,40 +772,183 @@ lép hatályba.
 
 #### 28. A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény módosítása
 
-220–225. §
+#### 220. §
+
+#### 221. §
+
+#### 222. §
+
+#### 223. §
+
+#### 224. §
+
+#### 225. §
 
 #### 29. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-226–260. §
+#### 226. §
+
+#### 227. §
+
+#### 228. §
+
+#### 229. §
+
+#### 230. §
+
+#### 231. §
+
+#### 232. §
+
+#### 233. §
+
+#### 234. §
+
+#### 235. §
+
+#### 236. §
+
+#### 237. §
+
+#### 238. §
+
+#### 239. §
+
+#### 240. §
+
+#### 241. §
+
+#### 242. §
+
+#### 243. §
+
+#### 244. §
+
+#### 245. §
+
+#### 246. §
+
+#### 247. §
+
+#### 248. §
+
+#### 249. §
+
+#### 250. §
+
+#### 251. §
+
+#### 252. §
+
+#### 253. §
+
+#### 254. §
+
+#### 255. §
+
+#### 256. §
+
+#### 257. §
+
+#### 258. §
+
+#### 259. §
+
+#### 260. §
 
 #### 30. Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény módosítása
 
-261–272. §
+#### 261. §
 
-273. §
+#### 262. §
 
-274–277. §
+#### 263. §
+
+#### 264. §
+
+#### 265. §
+
+#### 266. §
+
+#### 267. §
+
+#### 268. §
+
+#### 269. §
+
+#### 270. §
+
+#### 271. §
+
+#### 272. §
+
+#### 273. §
+
+#### 274. §
+
+#### 275. §
+
+#### 276. §
+
+#### 277. §
 
 278. § (1)
 
 (2)
 
-279–280. §
+#### 279. §
+
+#### 280. §
 
 ### IX. Fejezet — SZÁMVITELT ÉS KÖNYVVIZSGÁLATOT ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 31. A számvitelről szóló 2000. évi C. törvény módosítása
 
-281–295. §
+#### 281. §
 
-296–298. §
+#### 282. §
+
+#### 283. §
+
+#### 284. §
+
+#### 285. §
+
+#### 286. §
+
+#### 287. §
+
+#### 288. §
+
+#### 289. §
+
+#### 290. §
+
+#### 291. §
+
+#### 292. §
+
+#### 293. §
+
+#### 294. §
+
+#### 295. §
+
+#### 296. §
+
+#### 297. §
+
+#### 298. §
 
 299. § Az Szt.
 
-- 1–9.
-- 10.
-- 11.
-- 12.
+1–9.
+
+10.
+
+11.
+
+12.
 
 lép.
 
@@ -578,7 +959,17 @@ lép.
 
 #### 32. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-301–306. §
+#### 301. §
+
+#### 302. §
+
+#### 303. §
+
+#### 304. §
+
+#### 305. §
+
+#### 306. §
 
 #### 33. Az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény módosítása
 
@@ -586,31 +977,45 @@ lép.
 
 „(1) A Tpt. 358. §-a a következő (2) bekezdéssel egészül ki:
 
-„(2) A szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálókra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég részére adható megbízás, amely rendelkezik kibocsátói minősítéssel.””
+„(2) A szabályozott piacra bevezetett nyilvánosan forgalomba hozott értékpapír-kibocsátó által – a Ptk. jogi személyekre vonatkozó rendelkezései által a könyvvizsgálókra vonatkozóan meghatározott feltételein túlmenően – könyvvizsgálói feladatok ellátására csak olyan, érvényes könyvvizsgálói engedéllyel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég részére adható megbízás, amely rendelkezik kibocsátói minősítéssel.”
 
 X. FEJEZET
 
 NEMZETKÖZI SZERZŐDÉSEKHEZ KAPCSOLÓDÓ MÓDOSÍTÁSOK
 
-34. A Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény módosítása
+34. A Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény módosítása”
 
-308. §
+#### 308. §
 
 #### 35. A pénzügyi számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás kihirdetéséről szóló 2015. évi CXC. törvény módosítása
 
-309. §
+#### 309. §
 
 ### XI. Fejezet — A SZERENCSEJÁTÉK SZERVEZÉST ÉRINTŐ SZABÁLYOZÁS MÓDOSÍTÁSA
 
 #### 36. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-310–316. §
+#### 310. §
+
+#### 311. §
+
+#### 312. §
+
+#### 313. §
+
+#### 314. §
+
+#### 315. §
+
+#### 316. §
 
 ### XII. Fejezet — EGYÉB TÖRVÉNYEK MÓDOSÍTÁSA
 
-#### 37. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló2011. évi CLV. törvény módosítása
+#### 37. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló
 
-317. §
+2011. évi CLV. törvény módosítása
+
+#### 317. §
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -647,4 +1052,16 @@ NEMZETKÖZI SZERZŐDÉSEKHEZ KAPCSOLÓDÓ MÓDOSÍTÁSOK
 
 ### 2. melléklet a 2016. évi CXXV. törvényhez
 
-### 3–9. melléklet a 2016. évi CXXV. törvényhez
+### 3. melléklet a 2016. évi CXXV. törvényhez
+
+### 4. melléklet a 2016. évi CXXV. törvényhez
+
+### 5. melléklet a 2016. évi CXXV. törvényhez
+
+### 6. melléklet a 2016. évi CXXV. törvényhez
+
+### 7. melléklet a 2016. évi CXXV. törvényhez
+
+### 8. melléklet a 2016. évi CXXV. törvényhez
+
+### 9. melléklet a 2016. évi CXXV. törvényhez

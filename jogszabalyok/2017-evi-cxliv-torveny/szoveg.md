@@ -4,105 +4,289 @@ a büntetőeljárásról szóló 1998. évi XIX. törvény, egyes büntető tár
 
 #### 1. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-2. §
+#### 2. §
 
 #### 3. A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény módosítása
 
-3–12. §
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
 
 #### 4. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
-13–36. §
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
 
 #### 5. Az Európai Unió bűnüldözési információs rendszere és a Nemzetközi Bűnügyi Rendőrség Szervezete keretében megvalósuló együttműködésről és információcseréről szóló 1999. évi LIV. törvény módosítása
 
-37. §
+#### 37. §
 
 #### 6. A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 7. A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény módosítása
 
-39. §
+#### 39. §
 
 #### 8. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-40. §
+#### 40. §
 
 #### 9. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 10. A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény módosítása
 
-42. §
+#### 42. §
 
 #### 11. A szabálysértési jogsegélyről szóló 2007. évi XXXVI. törvény módosítása
 
-43–48. §
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
 
 #### 12. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-49–50. §
+#### 49. §
+
+#### 50. §
 
 #### 13. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-51–58. §
+#### 51. §
 
-59. §
+#### 52. §
 
-60. §
+#### 53. §
 
-- a)–c)
-- d)–g)
-- h)–i)
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+a)–c)
+
+d)–g)
+
+h)–i)
 
 #### 14. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény módosítása
 
-61–84. §
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
 
 #### 15. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-85. §
+#### 85. §
 
 #### 16. A Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépéséhez kapcsolódó átmeneti rendelkezésekről és egyes törvények módosításáról szóló 2012. évi CCXXIII. törvény módosítása
 
-86. §
+#### 86. §
 
 #### 17. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-87. §
+#### 87. §
 
 #### 18. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-88–105. §
+#### 88. §
 
-106. § A Bv. tv. 176. §-a helyébe a következő rendelkezés lép:
+#### 89. §
 
-„176. § (1) Az elítélt jogszabályban meghatározott módon csomagot fogadhat és küldhet. A csomagküldés lehetőségéről, módjáról és a költségek viseléséről a bv. intézet az elítélt útján küld értesítést.
+#### 90. §
 
-(2) Az elítélt havonta fogadhat és küldhet csomagot.
+#### 91. §
 
-(3) A csomag a bv. intézet, valamint a fogvatartás biztonsága érdekében ellenőrizhető, ennek lehetőségéről az elítéltet tájékoztatni kell.
+#### 92. §
 
-(4) A bv. szerv területén kívülről érkező csomagban élelmiszer, tisztálkodási szer, dohánytermék, valamint – a (7) bekezdésben meghatározott kivétellel – gyógyszer, gyógyászati segédeszköz vagy gyógyhatású készítmény nem küldhető, erre az elítélt és a kapcsolattartásra jogosult figyelmét fel kell hívni. Egyebekben a csomag mindazokat a tárgyakat tartalmazhatja, amelyeket az elítélt engedéllyel magánál tarthat.
+#### 93. §
 
-(5) Az elítélt kapcsolattartója az élelmiszert, tisztálkodási szert, dohányterméket tartalmazó csomagot ellenérték megfizetése mellett a bv. intézet területén működő, a személyes szükségletekre fordítható összeg levásárlására kijelölt üzletben állíttathatja össze jogszabályban meghatározott módon. Az ilyen csomag fogadása beleszámít a (2) bekezdésben meghatározott gyakoriságba.
+#### 94. §
 
-(6) Ha az elítélt nem kap csomagot, a bv. intézet parancsnoka engedélyezheti, hogy az elítélt a letéti pénzéből – a személyes szükségleteire egyébként fordítható összegen felül – a csomag tartalmára vonatkozó szabályok figyelembevételével vásároljon.
+#### 95. §
 
-(7) Ha a bv. intézet a 156. § (4) bekezdése szerint az elítélt számára a meghatározott gyógyszert, gyógyászati segédeszközt vagy gyógyhatású készítményt nem tudja biztosítani vagy beszerezni, az elítélt hozzátartozója vagy – kapcsolattartóként nyilvántartásba vett – harmadik személy – a bv. orvos javaslatára, a bv. intézet parancsnokának előzetes engedélyével – azokat csomagban beküldheti. Az ilyen tartalmú csomag fogadása nem számít bele a (2) bekezdésben meghatározott gyakoriságba.
+#### 96. §
 
-(8) Az elítélt a (2) bekezdésben meghatározott gyakoriságon felül negyedévente egy alkalommal kizárólag ruhaneműt, illetve lábbelit tartalmazó csomagot is fogadhat.
+#### 97. §
 
-(9) A bv. intézet parancsnoka engedélyezheti, hogy a kapcsolattartó a (4) és (7)–(8) bekezdés szerinti csomagot közvetlenül a bv. intézetben adja át.”
+#### 98. §
 
-107–122. §
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
+
+#### 108. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+#### 120. §
+
+#### 121. §
+
+#### 122. §
 
 #### 19. Az európai uniós és a nemzetközi bűnügyi együttműködést szabályozó törvények, és ehhez kapcsolódóan más törvények jogharmonizációs célú módosításáról szóló 2017. évi XXXIX. törvény módosítása
 
@@ -224,15 +408,24 @@ b) az érintett személy megfelelő tájékoztatást kapott az eljárásról és
 
 139. § E törvény
 
-- 1. 43–48. és 127. §-a a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB tanácsi kerethatározatnak,
-- 2. 58. §-a a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
-- 3. 58. §-a a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletnek,
-- 4. 39. és 41. §-a a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek,
-- 5. 61. §-a az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló, 2002. június 13-i 2002/584/IB tanácsi kerethatározatnak,
-- 6. 62–67. §-a a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek,
-- 7. 73. §-a a kölcsönös elismerés elvének az Európai Unió tagállamai közötti, az előzetes letartóztatás alternatívájaként felügyeleti intézkedéseket elrendelő határozatokra történő alkalmazásáról szóló, 2009. október 23-i 2009/829/IB tanácsi kerethatározatnak,
-- 8. 74–77. §-a a vagyonnal vagy bizonyítékkal kapcsolatos biztosítási intézkedést elrendelő határozatoknak az Európai Unióban történő végrehajtásáról szóló, 2003. július 22-i 2003/577/IB tanácsi kerethatározatnak
-- 9. 78–80. §-a a joghatóság gyakorlásával kapcsolatos, büntetőeljárások során felmerülő összeütközések megelőzéséről és rendezéséről szóló, 2009. november 30-i 2009/948/IB tanácsi kerethatározatnak,
-- 10. 130. §-a a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározatnak
+1. 43–48. és 127. §-a a kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló, 2005. február 24-i 2005/214/IB tanácsi kerethatározatnak,
+
+2. 58. §-a a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
+
+3. 58. §-a a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletnek,
+
+4. 39. és 41. §-a a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek,
+
+5. 61. §-a az európai elfogatóparancsról és a tagállamok közötti átadási eljárásokról szóló, 2002. június 13-i 2002/584/IB tanácsi kerethatározatnak,
+
+6. 62–67. §-a a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek,
+
+7. 73. §-a a kölcsönös elismerés elvének az Európai Unió tagállamai közötti, az előzetes letartóztatás alternatívájaként felügyeleti intézkedéseket elrendelő határozatokra történő alkalmazásáról szóló, 2009. október 23-i 2009/829/IB tanácsi kerethatározatnak,
+
+8. 74–77. §-a a vagyonnal vagy bizonyítékkal kapcsolatos biztosítási intézkedést elrendelő határozatoknak az Európai Unióban történő végrehajtásáról szóló, 2003. július 22-i 2003/577/IB tanácsi kerethatározatnak
+
+9. 78–80. §-a a joghatóság gyakorlásával kapcsolatos, büntetőeljárások során felmerülő összeütközések megelőzéséről és rendezéséről szóló, 2009. november 30-i 2009/948/IB tanácsi kerethatározatnak,
+
+10. 130. §-a a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározatnak
 
 való megfelelést szolgálja.

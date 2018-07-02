@@ -2832,10 +2832,7 @@ való megfelelést szolgálja.
 
 #### 93. Hatályon kívül helyező rendelkezések
 
-210. § Hatályát veszti
-
-- a)–c)
-- d) e törvény 206. § f) pontja.
+#### 210. §
 
 ### 1. melléklet a 2017. évi LXXVIII. törvényhez
 
