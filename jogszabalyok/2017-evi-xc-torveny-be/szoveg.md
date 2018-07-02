@@ -10984,4 +10984,4 @@ való megfelelést szolgálja.
 
 ### Hatályon kívül helyező rendelkezés
 
-879. § Hatályát veszti a büntetőeljárásról szóló 1998. évi XIX. törvény.
+#### 879. §
