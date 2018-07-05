@@ -1501,6 +1501,7 @@ való megfelelést szolgálja.
 
 - a) az 1013/2006/EK európai parlamenti és tanácsi rendelet,
 - b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről szóló 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének felváltásáról szóló, 2014. december 18-i 1357/2014/EU bizottsági rendelet
+- c) a 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének a HP 14 „környezetre veszélyes (ökotoxikus)” veszélyességi tulajdonság tekintetében történő módosításáról szóló, 2017. június 8-i 2017/997/EU tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -1556,7 +1557,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. táblázat
 
-5K22888_0
+7K34096M_0
 
 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: |
 | --- | --- |
@@ -1578,7 +1579,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 2. táblázat
 
-5K22888_1
+7K34096M_1
 
 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: |
 | --- | --- |
@@ -1610,7 +1611,7 @@ f) egyéb tűzveszélyes hulladék: tűzveszélyes aeroszolok, tűzveszélyes ö
 
 3. táblázat
 
-5K22888_2
+7K34096M_2
 
 | Veszélyességi osztályok és kategóriák kódjai: | Figyelmeztető mondatok kódjai: |
 | --- | --- |
@@ -1659,7 +1660,7 @@ f) egyéb tűzveszélyes hulladék: tűzveszélyes aeroszolok, tűzveszélyes ö
 
 4. táblázat
 
-5K22888_3
+7K34096M_3
 
 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek |
 | --- | --- | --- |
@@ -1684,7 +1685,7 @@ b) az Acute tox. 4 (H 302, H 312, H 332) kategória esetében: 1%.
 
 5. táblázat
 
-5K22888_4
+7K34096M_4
 
 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek |
 | --- | --- | --- |
@@ -1709,7 +1710,7 @@ b) az Acute tox. 4 (H 302, H 312, H 332) kategória esetében: 1%.
 
 6. táblázat
 
-5K22888_5
+7K34096M_5
 
 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek |
 | --- | --- | --- |
@@ -1735,7 +1736,7 @@ b) az Acute tox. 4 (H 302, H 312, H 332) kategória esetében: 1%.
 
 7. táblázat
 
-5K22888_6
+7K34096M_6
 
 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek |
 | --- | --- | --- |
@@ -1751,7 +1752,7 @@ b) az Acute tox. 4 (H 302, H 312, H 332) kategória esetében: 1%.
 
 8. táblázat
 
-5K22888_7
+7K34096M_7
 
 | Veszélyességi osztályok és kategóriák kódjai | Figyelmeztető mondatok kódjai | Koncentrációs határértékek |
 | --- | --- | --- |
@@ -1767,7 +1768,27 @@ b) az Acute tox. 4 (H 302, H 312, H 332) kategória esetében: 1%.
 
 13.1. Ha a hulladék allergén besorolású anyagot tartalmaz, amelyhez hozzárendelték a H 317 vagy H 334 figyelmeztető mondatok egyikének kódját, és valamely anyag koncentrációja eléri vagy túllépi a 10%-os koncentrációs határértéket, a hulladékot a HP 13 veszélyességi kategóriába kell sorolni.
 
-14. HP 14 „Környezetre veszélyes (ökotoxikus)”: Olyan hulladék, amely közvetlenül vagy közvetve veszélyt jelent vagy jelenthet egy vagy több környezeti elemre.
+14. HP 14 »környezetre veszélyes (ökotoxikus)«: olyan hulladék, amely azonnal vagy késleltetve veszélyt jelent vagy jelenthet egy vagy több környezeti elemre.
+
+Az alábbi feltételek bármelyikének megfelelő hulladékot a HP 14 veszélyességi kategóriába kell sorolni:
+
+14.1. a hulladék »ózonkárosító« besorolású anyagot tartalmaz, amelyhez az anyagok és keverékek osztályozásáról, címkézéséről és csomagolásáról, a 67/548/EGK és az 1999/45/EK irányelv módosításáról és hatályon kívül helyezéséről, valamint az 1907/2006/EK rendelet módosításáról szóló 2008. december 16-i 1272/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1272/2008/EK rendelet) értelmében a H420 figyelmeztető mondat van hozzárendelve, és ezen anyag koncentrációja eléri vagy túllépi a 0,1%-os koncentrációs határértéket.
+
+[c(H420) ≥ 0,1%];
+
+14.2. a hulladék egy vagy több »vízi, akut« besorolású anyagot tartalmaz, amelyhez az 1272/2008/EK rendelet értelmében a H400 figyelmeztető mondat van hozzárendelve, és ezen anyag koncentrációja eléri vagy túllépi a 25%-os koncentrációs határértéket. Az ilyen anyagokra 0,1%-os küszöbértéket kell figyelembe venni.
+
+[Σ c (H400) ≥ 25%];
+
+14.3. a hulladék egy vagy több »vízi, krónikus 1«, »vízi, krónikus 2« vagy »vízi, krónikus 3« besorolású anyagot tartalmaz, amelyekhez az 1272/2008/EK rendelet értelmében a H410, H411, illetve H412 figyelmeztető mondat van hozzárendelve, és az összes »vízi, krónikus 1« (H410) besorolású anyag koncentrációjának összegét százzal szorozva, hozzáadva az összes »vízi, krónikus 2« (H411) besorolású anyag koncentrációjának tízzel szorzott összegét, valamint az összes »vízi, krónikus 3« (H412) besorolású anyag koncentrációjának összegét, az eredmény eléri vagy túllépi a 25%-os koncentrációs határértéket. A H410 besorolású anyagokra 0,1%-os küszöbértéket, a H411 vagy H412 besorolású anyagokra pedig 1%-os küszöbértéket kell figyelembe venni.
+
+[100 × Σc (H410) + 10 × Σc (H411) + Σc (H412) ) ≥ 25%];
+
+14.4. a hulladék egy vagy több »vízi, krónikus 1«, »vízi, krónikus 2«, »vízi, krónikus 3« vagy »vízi, krónikus 4« besorolású anyagot tartalmaz, amelyekhez az 1272/2008/EK rendelet értelmében a H410, H411, H412, illetve H413 figyelmeztető mondat van hozzárendelve, és az összes »vízi, krónikus« besorolású anyag koncentrációjának összege eléri vagy túllépi a 25%-os koncentrációs határértéket. A H410 besorolású anyagokra 0,1%-os küszöbértéket, a H411, H412, illetve H413 besorolású anyagokra pedig 1%-os küszöbértéket kell figyelembe venni.
+
+[Σ c H410 + Σ c H411 + Σ c H412 + Σ c H413 ≥ 25%].
+
+ahol: Σ = az összeg és c = az anyagok koncentrációja.
 
 15. HP 15 „Olyan hulladék, amely képes a HP 1–14-ben felsorolt olyan veszélyességi tulajdonságot mutatni, amellyel az eredeti hulladék nem rendelkezik”:
 
@@ -1777,7 +1798,7 @@ Ha a hulladékra egy vagy több, a 9. táblázatban szereplő figyelmeztető mon
 
 9. táblázat
 
-5K22888_8
+7K34096M_8
 
 | Figyelmeztető mondatok/kiegészítő figyelmeztetések: |  |
 | --- | --- |
@@ -1788,9 +1809,7 @@ Ha a hulladékra egy vagy több, a 9. táblázatban szereplő figyelmeztető mon
 
 15.2. A hulladék más alkalmazható kritérium alapján is a HP 15 veszélyességi kategóriába sorolható, mint például a csurgalékvíz értékelése alapján.
 
-16. Megjegyzés:
-
-A HP 14 veszélyességi tulajdonságúnak minősítés a veszélyes anyagok osztályozására, csomagolására és címkézésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 1967. június 27-i 67/548/EGK tanácsi irányelv VI. mellékletében meghatározott feltételeknek megfelelően történik.
+16.
 
 17. Vizsgálati módszerek:
 
