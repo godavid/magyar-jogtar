@@ -12,9 +12,15 @@ a hulladékról szóló 2012. évi CLXXXV. törvény módosításáról
 
 11–15. §
 
-16. §
+16. § A Ht. 93. § (2) bekezdése a következő c) ponttal egészül ki:
 
-17. §
+(Ez a törvény)
+
+„c) a 2008/98/EK európai parlamenti és tanácsi irányelv III. mellékletének a HP 14 „környezetre veszélyes (ökotoxikus)” veszélyességi tulajdonság tekintetében történő módosításáról szóló, 2017. június 8-i 2017/997/EU tanácsi rendelet”
+
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
+
+17. § A Ht. 1. melléklete az 1. melléklet szerint módosul.
 
 18. § (1)
 
@@ -26,7 +32,7 @@ a hulladékról szóló 2012. évi CLXXXV. törvény módosításáról
 
 19. § (1)
 
-(2)
+(2) Hatályát veszti a Ht. 1. melléklet 16. pontja.
 
 20. § Nem lép hatályba a hulladékról szóló 2012. évi CLXXXV. törvény módosításáról szóló 2017. évi LXVI. törvény 12. §-a.
 
