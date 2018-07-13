@@ -67,6 +67,7 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - 37. Fővárosi településrendezési terv: a fővárosi településszerkezeti terv.
 - 38. Duna-parti építési szabályzat: a Duna főmedrével közvetlenül határos telkek és a Margitsziget területének építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
 - 39. Városligeti építési szabályzat: a Városliget megújításáról és fejlesztéséről szóló törvény hatálya alá tartozó terület építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
+- 40. Toronyház: olyan épület, amelynek a terepcsatlakozásához, lejtős terepen a lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja – beleértve minden építményrészt, a kupolát, saroktornyot, tetőfelépítményt, az épület tetőzetén elhelyezett antennát, kéményt, szellőzőt, egyéb tartozékot és műszaki berendezést – a 90 métert meghaladja.
 
 ### Általános követelmények
 
@@ -92,7 +93,9 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - c) a nemzetközi egyezményekből adódó állami feladatok ellátásáról,
 - d) az országos kutatási, műszaki fejlesztési programok kialakításáról és érvényre juttatásáról.
 
-(3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait.
+(3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű beruházás során építési tevékenységgel érintett telekre, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait, az egyedi építési követelményeket és a területrendezési szabályokat.
+
+(3b) A (3a) bekezdésben meghatározott beruházásokkal összefüggő különös hatósági eljárási szabályokat a Kormány rendeletben állapíthatja meg.
 
 (4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is –
 
@@ -387,6 +390,12 @@ kell figyelembe venni.
 - f) közösségi építmény vagy köztárgy,
 - g) tömeges bevándorlás okozta válsághelyzet esetén nemzetbiztonsági célt szolgál.
 
+(3) Magyarország épített környezetének rendezett kialakítása és településképi védelme érdekében beépítésre szánt és beépítésre nem szánt területen – kivéve azon 4. § (3a) bekezdés szerinti telket, amelyre vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait – toronyház nem helyezhető el, toronyháznak nem minősülő építmény toronyházzá nem alakítható át, nem bővíthető.
+
+(4) Olyan épület esetében, amelynek a terepcsatlakozásához, lejtős terepen a lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja – beleértve minden építményrészt, a kupolát, saroktornyot, tetőfelépítményt, az épület tetőzetén elhelyezett antennát, kéményt, szellőzőt, egyéb tartozékot és műszaki berendezést – a 65 métert meghaladja, a jogszabályban meghatározott építési, összevont és fennmaradási engedélyezési eljárást, valamint az összevont telepítési eljárást a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben meghatározott tervtanácsi véleményezés előzi meg.
+
+(5) Az építésügyi hatóság a (4) bekezdés szerinti eljárásokban az engedély iránti kérelmet elutasítja, ha a (4) bekezdésben meghatározott tervtanács szakmai véleményében az építészeti-műszaki tervdokumentációt engedélyezésre nem ajánlotta.
+
 ### Tilalmak
 
 20. § (1) Az érintett területre
@@ -533,7 +542,7 @@ kivételével más építési munkát végezni nem szabad.
 
 (4) Ha az ingatlan rendeltetését a helyi építési szabályzat valamely később megvalósítandó – jogszabályban megállapított – olyan közérdekű célban határozza meg, amelynek megvalósítása a tulajdonostól nem várható el, és ez a tulajdonosi és építési jogokat korlátozza, a tulajdonos attól követelheti az ingatlan megvételét, akinek érdekében állt a közérdekű célt szolgáló korlátozás előírása (a továbbiakban: érdekelt). Ha az érdekelt nem állapítható meg, vagy jogutód nélkül megszűnt, a tulajdonos a települési önkormányzattól követelheti az ingatlan megvételét. Ha az ingatlan megvételére vonatkozó megállapodás az erre irányuló kérelemtől számított öt éven belül nem jön létre, a tulajdonos kezdeményezheti a kisajátításról szóló törvény szerinti eljárást.
 
-(5) Nem jár kártalanítás a természeti veszélyeztetettségből eredő kár megelőzésére, a tulajdonos érdekeinek védelme céljából elrendelt tilalom, továbbá a 21. § szerinti változtatási tilalom, valamint a szabálytalan építmény, építményrész és használat esetében. Védett terület, építmény vagy egyedi érték védelme érdekében elrendelt tilalom esetén a fizetési kötelezettségre az erre vonatkozó külön jogszabályok az irányadók.
+(5) Nem jár kártalanítás a természeti veszélyeztetettségből eredő kár megelőzésére, a tulajdonos érdekeinek védelme céljából elrendelt tilalom, továbbá a 21. § szerinti változtatási tilalom, a 19. § (3) bekezdésében elrendelt tilalom, valamint a szabálytalan építmény, építményrész és használat esetében. Védett terület, építmény vagy egyedi érték védelme érdekében elrendelt tilalom esetén a fizetési kötelezettségre az erre vonatkozó külön jogszabályok az irányadók.
 
 (6) A kártalanítást az köteles megfizetni, akinek az érdekében a korlátozás történt. Ha nem határozzák meg azt, akinek az érdekében a korlátozás történt, a kártalanítási kötelezettség a települési önkormányzatot terheli. A fővárosban a kártalanítás a fővárosi, illetőleg a kerületi önkormányzatot érdekeltségük arányában terheli. Ha az, akinek az érdekében a kártalanítási kötelezettséggel járó előírás szükségessé vált, a tilalom vagy a korlátozás elrendelése után jogutód nélkül megszűnt, és a települési önkormányzat az előírást fenntartja, a kártalanítási kötelezettség szintén az önkormányzatot terheli.
 
@@ -1436,9 +1445,9 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 
 (7b) A Városligeti építési szabályzat hatálybalépését követően a 14/C. §-ban meghatározott területekre vonatkozóan a Budapest Főváros XIV. kerület Zugló Önkormányzata által elfogadott településrendezési eszközöket nem kell alkalmazni.
 
-(8) A településrendezési eszközök 2013. január 1-je és 2018. december 31-e közötti készítésére és módosítására a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet átmeneti rendelkezéseit kell alkalmazni.
+(8) A településrendezési eszközök 2013. január 1-je és 2019. december 31-e közötti készítésére és módosítására a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet átmeneti rendelkezéseit kell alkalmazni.
 
-(9) 2018. december 31-ét követően a településrendezési eszköz készítése és módosítása során nem alkalmazhatók
+(9) 2019. december 31-ét követően a településrendezési eszköz készítése és módosítása során nem alkalmazhatók
 
 - a) e törvény 2012. december 31-én, és
 - b) az országos településrendezési és építési követelményekről szóló kormányrendelet 2012. augusztus 6-án
@@ -1465,6 +1474,12 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 60/D. § Az egyszerű bejelentés körének bővítésére és az építésügy területén érvényesítendő további bürokráciacsökkentésre vonatkozóan az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosításáról szóló 2016. évi CLXXIII. törvénnyel megállapított 57/E. §-t a folyamatban lévő másodfokú eljárásokban is alkalmazni kell.
 
 60/E. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek az egyszerű bejelentés 300 négyzetméternél nagyobb lakóingatlan nem kereskedelmi célú építésére történő kiterjesztésével összefüggő módosításáról szóló 2017. évi XXIV. törvény hatálybalépése előtt indult építésügyi engedélyezési eljárások esetében az építési engedélyezési eljárást a kérelem benyújtása napján hatályos rendelkezések szerint kell lefolytatni.
+
+60/F. § (1) E törvénynek az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek a magasházak építésének szabályozásával kapcsolatos módosításáról szóló 2018. évi XXVI. törvénnyel (a továbbiakban: Mód. tv.) megállapított 19. § (3)–(5) bekezdését – a (2) bekezdésben meghatározott kivétellel – a hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Mód. tv.-nyel megállapított 19. § (3)–(5) bekezdését alkalmazni kell a hatálybalépését megelőzően indult folyamatban lévő építésügyi hatósági eljárásokban.
+
+(3) E törvénynek a Mód. tv.-nyel megállapított 19. § (3)–(5) bekezdését nem kell alkalmazni, ha a Mód. tv. hatálybalépését megelőzően került sor a végleges építési vagy fennmaradási engedély kiadására, vagy az elvi építési keretengedély megadására.
 
 61. § (1) Ahol jogszabály
 
@@ -1504,7 +1519,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 - 24. a közterület-alakításra, valamint a településrendezési kötelezettségek teljesítésére vonatkozó részletes szabályokat, továbbá a telepítési tanulmányterv és a beépítési terv előkészítésére és tartalmára vonatkozó szabályokat,
 - 25. az összevont telepítési eljárás szabályait,
 - 26. a 6. § (2) bekezdése szerinti határidőt,
-- 27. a magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint az országos jelentőségű kulturális és sport rendeltetésű épületek telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan, továbbá a nemzetbiztonsági célú építmények telkére vonatkozóan a beépítés szabályait,
+- 27. a magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű beruházás során építési tevékenységgel érintett telekre, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a beépítés szabályait, és a beruházásokkal összefüggő különös hatósági eljárási szabályokat,
 - 28. az építésügyi monitoringrendszer létrehozásáról, az adatforgalom rendjéről, a monitoringrendszer működtetéséről és a működés finanszírozásának pénzügyi rendjéről szóló szabályokat,
 - 29. a telekalakítási eljárás lefolytatására hatáskörrel rendelkező hatóságok kijelölését, feladat- és hatáskörét, valamint az illetékességi területük lehatárolását, a telekalakítási eljárás és dokumentáció elkészítésének részletes szabályait és az ezzel kapcsolatos ingatlan-nyilvántartási eljárás rendjét,
 - 30. az egyes – nem hatósági – építésügyi igazgatási és települési műszaki feladatokat ellátó települési önkormányzatok körét, a feladatellátás feltételeit, illetékességi területük lehatárolását, a tevékenységet ellátók képesítési és foglalkoztatási feltételeit
