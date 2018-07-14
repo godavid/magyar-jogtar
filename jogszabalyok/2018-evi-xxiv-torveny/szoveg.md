@@ -246,4 +246,4 @@ b. он должен быть выпущен в течение предыдущ�
 
 7. § A Megállapodás a Jegyzőkönyvben foglalt módosításokkal egységes szerkezetbe foglalt hiteles szövegének a hatálybalépést követő haladéktalan közzétételéről a külpolitikáért felelős miniszter gondoskodik.
 
-8. § Hatályát veszti a Magyar Köztársaság Kormánya és a Kazak Köztársaság Kormánya között a diplomata és szolgálati útlevéllel rendelkező állampolgáraik kölcsönös vízummentességéről szóló megállapodás kihirdetéséről szóló 236/1996. (XII. 26.) Korm. rendelet.
+8. §
