@@ -29,7 +29,7 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 2/A. § Ha a közérdekű munka büntetés tartama az 1978. évi IV. törvény alapján napokban került meghatározásra, a Btk. 92/B. § (2) bekezdése szerinti beszámításnál négy óra közérdekű munka alatt egynapi közérdekű munkát kell érteni.
 
-3. § Ha az összbüntetésbe foglalandó ítéletek közül legalább egy a Btk. hatálybalépését követően emelkedett jogerőre, a Btk. 93–96. §-át kell alkalmazni.
+#### 3. §
 
 4. § (1) A Btk. 459. § (1) bekezdés 31. pont a) alpontja alkalmazásában, ha az elkövető a korábbi bűncselekményt a Btk. hatálybalépését megelőzően követte el, figyelembe kell venni az 1978. évi IV. törvény szerinti ugyanolyan vagy hasonló jellegű bűncselekményeket is.
 
