@@ -10,13 +10,13 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 
 (2) A nemzetközi szerződés előírását kell alkalmazni, amennyiben kihirdetett nemzetközi szerződés e törvénytől eltérő előírást tartalmaz. E törvénytől viszonosság alapján is helye van eltérésnek, de a viszonosság alkalmazása az adózó számára nem eredményezhet a törvényben meghatározottakhoz képest kiterjesztő adókötelezettséget. A viszonosság kérdésében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
 
-(3) A kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő hatósági ügyben az eljárás az állami adóhatóság hatáskörébe tartozik.
+(3) A kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő hatósági ügyben az eljárás az állami adó- és vámhatóság hatáskörébe tartozik.
 
 (4) Az adózó a kisadózó vállalkozások tételes adójával és a kisvállalati adóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
 
 (5) A kisadózó vállalkozások tételes adója és a kisvállalati adó a központi költségvetés bevétele.
 
-(6) Az állami adóhatóság által a kisvállalati adóalanyiságot, illetve a kisadózó vállalkozások tételes adóját választó adózókról, továbbá a kisadózókról vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
+(6) Az állami adó- és vámhatóság által a kisvállalati adóalanyiságot, illetve a kisadózó vállalkozások tételes adóját választó adózókról, továbbá a kisadózókról vezetett nyilvántartás – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
 2. § E törvény alkalmazásában
 
@@ -114,9 +114,9 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 - e) a gazdasági társaság, az ügyvédi iroda bejelentett kisadózó tagjának halálát követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és 90 napon belül más kisadózó nem kerül bejelentésre;
 - f) a gazdasági társaság, az ügyvédi iroda bejelentett kisadózó tagjának a gazdasági társaságból, az ügyvédi irodából való kilépését követő nappal, ha a kisadózó vállalkozás tevékenységében más bejelentett kisadózó nem működik közre, és a kisadózó tag kilépését követő napig más kisadózó nem kerül bejelentésre;
 - g) a tagsági jogviszony keletkezésének napjával, ha a betéti társaság vagy közkereseti társaság kisadózó vállalkozásnak nem magánszemély tagja lesz;
-- h) a mulasztási bírságot megállapító határozat véglegessé válása hónapjának utolsó napjával, ha az adóalanyiság időszakában elkövetett jogsértés miatt a kisadózó vállalkozás terhére az adó- vagy vámhatóság számla- vagy nyugtaadás elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért mulasztási bírságot, jövedéki bírságot állapít meg;
-- i) az adószám alkalmazását felfüggesztő vagy törlő határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt jogerősen felfüggeszti vagy törli;
-- j) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha a kisadózó vállalkozás az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti és a tartozás megfizetését igazolja;
+- h) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha az adóalanyiság időszakában elkövetett jogsértés miatt a kisadózó vállalkozás terhére az adó- vagy vámhatóság számla- vagy nyugtaadás elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért mulasztási bírságot, jövedéki bírságot állapít meg;
+- i) az adószám alkalmazását törlő határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás adószámának alkalmazását az adóhatóság az adóalanyiság ideje alatt véglegessé vált döntéssel törli;
+- j) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válása hónapjának utolsó napjával, ha a kisadózó vállalkozás állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja a 100 ezer forintot, azzal, hogy az állami adóhatóság visszavonja az adóalanyiság megszűnéséről rendelkező határozatát, ha a kisadózó vállalkozás az adótartozását az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásáig megfizeti;
 - k) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő időpontját megelőző nappal;
 - l) a 4. § (4) bekezdése szerinti tevékenységből származó bevétel megszerzése esetén a bevétel megszerzését megelőző nappal;
 - m) az átalakulást, egyesülést, szétválást megelőző nappal, ha az átalakulás, egyesülés, szétválás következtében a vállalkozás már nem felel meg a 3. §-ban foglalt feltételeknek.
@@ -173,7 +173,7 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 - d) egyéni vállalkozói tevékenységét szüneteltette,
 - e) a Tbj. szerinti kiegészítő tevékenységet folytatóként keresőképtelen kivéve ha a kisadózóként folytatott tevékenységébe tartozó munkát végez.
 
-(10) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan sem, amelyben a (9) bekezdés a)–c) pontjai szerinti állapot megszűnik akkor, ha ez az állapot legalább 30 napig fennállt. A 30 nap számítása szempontjából figyelmen kívül kell hagyni azt az időszakot, amelyre vonatkozóan a (9) bekezdés szerint a kisadózó után az adót nem kell megfizetni.
+(10) Nem kell megfizetni a kisadózó után az (1), a (2), valamint a (4a) bekezdés szerinti adót azon hónapokra vonatkozóan sem, amelyben a (9) bekezdés a)–c) és e) pontjai szerinti állapot megszűnik akkor, ha ez az állapot legalább 30 napig fennállt. A 30 nap számítása szempontjából figyelmen kívül kell hagyni azt az időszakot, amelyre vonatkozóan a (9) bekezdés szerint a kisadózó után az adót nem kell megfizetni.
 
 (11) A kisadózó vállalkozás a tárgyhónapot követő hónap 12. napjáig köteles bejelenteni az állami adóhatósághoz azt, ha a tárgyhónapra vonatkozóan a (9)–(10) bekezdés szerint a kisadózó után nem keletkezik tételesadó-fizetési kötelezettsége. Nem kell a bejelentést havonta megismételni a (9) bekezdés d) pont szerinti esetben, azzal, hogy az említett esetben az adóhatóság – figyelemmel a (10) bekezdés rendelkezésére is – a kötelezettség módosítását a rendelkezésére álló adatok alapján hivatalból végzi el.
 
@@ -280,7 +280,7 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 - a) az átlagos statisztikai állományi létszáma az adóévet megelőző adóévben várhatóan nem haladja meg az 50 főt;
 - b) az adóévet megelőző adóévben elszámolandó bevétele várhatóan nem haladja meg az 500 millió forintot, 12 hónapnál rövidebb adóév esetén az 500 millió forint időarányos részét;
-- c) az adóévet megelőző két naptári évben adószámát állami adó- és vámhatóság véglegesen nem törölte vagy függesztette fel;
+- c) az adóévet megelőző két naptári évben adószámát állami adó- és vámhatóság véglegesen nem törölte;
 - d) üzleti évének mérlegforduló napja december 31.;
 - e) az adóévet megelőző adóévéről készítendő beszámolójában a mérlegfőösszege várhatóan nem haladja meg az 500 millió forintot.
 
@@ -294,13 +294,13 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 
 #### 13. Az adóalanyiság keletkezése és megszűnése
 
-19. § (1) A kisvállalati adó szerinti adóalanyiság a választás állami adóhatósághoz történő bejelentését követő hónap első napjával jön létre. A bejelentést az erre a célra rendszeresített nyomtatványon, elektronikus úton lehet megtenni. A kisvállalati adóalanyiság keletkezése napjával önálló üzleti év kezdődik. Az üzleti év kezdetét megelőző nappal mint mérlegfordulónappal üzleti év zárul, mely üzleti évről az adóalanynak az Szt. általános szabályai szerint beszámolót kell készítenie, és az elkészített beszámolót letétbe kell helyeznie, közzé kell tennie.
+19. § (1) A kisvállalati adó szerinti adóalanyiság a választás állami adó- és vámhatósághoz történő bejelentését követő hónap első napjával jön létre. A bejelentést az erre a célra rendszeresített nyomtatványon, elektronikus úton lehet megtenni. A kisvállalati adóalanyiság keletkezése napjával önálló üzleti év kezdődik. Az üzleti év kezdetét megelőző nappal mint mérlegfordulónappal üzleti év zárul, mely üzleti évről az adóalanynak az Szt. általános szabályai szerint beszámolót kell készítenie, és az elkészített beszámolót letétbe kell helyeznie, közzé kell tennie.
 
-(2) A kisvállalati adó szerinti adóalanyiság – a (4) bekezdésben foglaltak kivételével – azon adóév utolsó napjáig áll fenn, amely adóévben az adóalany az erre a célra rendszeresített nyomtatványon, elektronikus úton bejelenti az állami adóhatósághoz, hogy adókötelezettségeit nem e törvény szabályai szerint teljesíti. A bejelentést legkorábban az adóév december 1-jétől, legkésőbb az adóév december 20-áig lehet megtenni. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+(2) A kisvállalati adó szerinti adóalanyiság – a (4) bekezdésben foglaltak kivételével – azon adóév utolsó napjáig áll fenn, amely adóévben az adóalany az erre a célra rendszeresített nyomtatványon, elektronikus úton bejelenti az állami adó- és vámhatósághoz, hogy adókötelezettségeit nem e törvény szabályai szerint teljesíti. A bejelentést legkorábban az adóév december 1-jétől, legkésőbb az adóév december 20-áig lehet megtenni. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(3) Az (1) bekezdés szerinti választás állami adóhatósághoz történő bejelentése a bejelentés megtételének napjától számított 30 napon belül az erre a célra rendszeresített nyomtatványon, elektronikus úton visszavonható, azzal, hogy a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A bejelentés visszavonása esetén a kisvállalati adóalanyiság nem jön létre.
+(3) Az (1) bekezdés szerinti választás állami adó- és vámhatósághoz történő bejelentése a bejelentés megtételének napjától számított 30 napon belül az erre a célra rendszeresített nyomtatványon, elektronikus úton visszavonható, azzal, hogy a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A bejelentés visszavonása esetén a kisvállalati adóalanyiság nem jön létre.
 
-(4) Nem jogszerű az (1) bekezdés szerinti bejelentés, ha a bejelentés napján az adózónak az állami adó- és vámhatóság által nyilvántartott, végrehajtható adó- és vámtartozása meghaladja az 1 millió forintot.
+(4) Nem jogszerű az (1) bekezdés szerinti bejelentés, ha a bejelentés napján az adózónak az állami adó- és vámhatóság által nyilvántartott, végrehajtható, nettó módon számított adótartozása meghaladja az 1 millió forintot.
 
 (5) A kisvállalati adóalanyiság megszűnik
 
@@ -309,17 +309,17 @@ amely megfelel az e törvényben meghatározott valamennyi feltételnek, és az 
 - c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szűnik meg, a megszűnés napjával;
 - d) az adóalany egyesülését, szétválását megelőző nappal;
 - e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
-- f) az adóalany adószámának alkalmazását felfüggesztő vagy törlő határozat véglegessé válásának hónapját megelőző hónap utolsó napjával;
+- f) az adóalany adószámának alkalmazását törlő határozat véglegessé válásának hónapját megelőző hónap utolsó napjával;
 - g) az adóalanyiság megszűnéséről rendelkező határozat véglegessé válásának napját magában foglaló negyedév utolsó napjával, ha az adóalany állami adó- és vámhatóságnál nyilvántartott, végrehajtható, nettó módon számított adótartozása a naptári év utolsó napján meghaladja az 1 millió forintot;
 - h) a létszámváltozás hónapjának utolsó napjával, ha a létszámnövekedés miatt az adóalany átlagos statisztikai állományi létszáma meghaladta a 100 főt.
 
-(6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az adóhatóságnak.
+(6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az állami adó- és vámhatóságnak.
 
 (7) Az adóalanyiság (5) bekezdésben meghatározott megszűnése napjával mint mérlegfordulónappal önálló üzleti év végződik. Az üzleti évről az Szt. általános szabályai szerint beszámolót kell készítenie, és az elkészített beszámolót letétbe kell helyezni, közzé kell tenni.
 
 (8) Az adóalanyiság megszűnésétől számított 24 hónapban az adóalanyiság ismételten nem választható.
 
-(9) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adóhatósághoz való bejelentkezéssel egyidejűleg teljesíti. Az (1) bekezdéstől eltérően a tevékenységét év közben kezdő vállalkozás adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben az állami adóhatósághoz történő bejelentkezése napjával. Amennyiben a tevékenységét év közben kezdő vállalkozás az állami adóhatósághoz való bejelentkezését nem elektronikus úton teljesíti, úgy az (1) bekezdés szerinti bejelentését is azonos formában teheti meg.
+(9) A tevékenységét év közben kezdő vállalkozás bejelentését az állami adó- és vámhatósághoz való bejelentkezéssel egyidejűleg teljesíti. Az (1) bekezdéstől eltérően a tevékenységét év közben kezdő vállalkozás adóalanyisága a létesítő okirata közokiratba foglalásának, ellenjegyzésének napján kezdődik, ha vállalkozási tevékenységét a cégnyilvántartásba történő bejegyzése előtt megkezdheti, az első jognyilatkozat megtételének napján, ha belföldi illetősége az üzletvezetés helyére tekintettel keletkezik, más esetben az állami adó- és vámhatósághoz történő bejelentkezése napjával. Amennyiben a tevékenységét év közben kezdő vállalkozás az állami adó- és vámhatósághoz való bejelentkezését nem elektronikus úton teljesíti, úgy az (1) bekezdés szerinti bejelentését is azonos formában teheti meg.
 
 #### 14. A kisvállalati adó alapja
 
@@ -353,7 +353,7 @@ azzal, hogy a tagra jutó személyi jellegű kifizetés meghatározása során n
 - c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
 - d) a 2017. január 1-je előtt a kisvállalati adó hatálya alá tartozó vállalkozásnál e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (4) bekezdés e) és f) pontjai szerint elszámolt csökkentés, e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (5) bekezdés e) és f) pontja és 20. § (6)–(8) bekezdése szerint elszámolt növelés összegével csökkentett, a 2013–2016. adóévek pénzforgalmi szemléletű eredményével növelt pozitív összegét.
 
-(5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében (megállapodásában) olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül, és függetlenül attól, hogy az ügylet az adózó pénzeszközeinek változásával jár-e – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést (megállapodást), feltéve, hogy a szerződés (megállapodás) alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
+(5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében (megállapodásában) olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést (megállapodást), feltéve, hogy a szerződés (megállapodás) alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
 
 (6) Ha a (3)–(5) bekezdés szerint megállapított egyenleg bármely adóévben negatív, ez az összeg a következő adóévekben – a (6a) és a (7) bekezdésben foglaltakat figyelembe véve – csökkenti a (3)–(5) bekezdés szerint megállapított pozitív egyenleget a kisvállalati adó alapja meghatározásakor, feltéve, hogy a (3)–(5) bekezdés szerint megállapított negatív egyenleg a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség).
 

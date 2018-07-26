@@ -112,7 +112,7 @@ A piacgazdaság működéséhez nélkülözhetetlen, hogy a piac szereplői szá
 
 - 1. mérlegkészítés időpontja: a mérleg egyes tételeihez kapcsolódóan meghatározott azon – az üzleti év mérlegfordulónapját követő – időpont, amely időpontig a megbízható és valós vagyoni helyzet bemutatásához szükséges értékelési feladatokat el lehet és el kell végezni;
 - 2. hitelviszonyt megtestesítő értékpapír: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó (adós) meghatározott pénzösszeg rendelkezésére bocsátását elismerve arra kötelezi magát, hogy a pénz (kölcsön) összegét, valamint annak meghatározott módon számított kamatát vagy egyéb hozamát, és az általa esetleg vállalt egyéb szolgáltatásokat az értékpapír birtokosának (a hitelezőnek) a megjelölt időben és módon megfizeti, illetve teljesíti. Ide tartozik különösen: a kötvény, a kincstárjegy, a letéti jegy, a pénztárjegy, a célrészjegy, a takaréklevél, a jelzáloglevél, a hajóraklevél, a közraktárjegy, az árujegy, a zálogjegy, a kárpótlási jegy, a határozott idejű befektetési alap által kibocsátott befektetési jegy;
-- 3. tulajdoni részesedést jelentő befektetés: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzértékben meghatározott nem pénzbeli vagyoni érték tulajdonba- vagy használatbavételét elismerve arra kötelezi magát, hogy ezen értékpapír, okirat birtokosának meghatározott vagyoni és egyéb jogokat biztosít. Ide tartozik különösen: a részvény, az üzletrész, a szövetkezeti részesedés, a vagyonjegy, az egyéb társasági részesedés, a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy, a kockázati tőkejegy, a kockázati tőkerészvény;
+- 3. tulajdoni részesedést jelentő befektetés: minden olyan nyomdai úton előállított (előállíttatható) vagy dematerializált értékpapír, illetve e törvény által értékpapírnak minősített, jogot megtestesítő okirat, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzértékben meghatározott nem pénzbeli vagyoni érték tulajdonba- vagy használatbavételét elismerve arra kötelezi magát, hogy ezen értékpapír, okirat birtokosának meghatározott vagyoni és egyéb jogokat biztosít. Ide tartozik különösen: a részvény, az üzletrész, a szövetkezeti részesedés, a vagyonjegy, az egyéb társasági részesedés, a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy, a kockázati tőkerészvény;
 - 4. diszkont értékpapír: olyan hitelviszonyt megtestesítő, nem kamatozó értékpapír, amelyet névérték alatt bocsátottak ki, és a lejáratkor névértéken váltanak be;
 - 5. vásárolt készletek: az anyagok [alap-, segéd-, üzem- és fűtőanyag, alkatrészek, a 28. § (3) bekezdésének a) pontja szerinti eszközök], az áruk (kereskedelmi készletek, betétdíjas göngyölegek, a közvetített szolgáltatások), a készletre adott előlegek;
 - 6. saját termelésű készletek: a befejezetlen termelés, a félkész termékek, a késztermékek, a növendék-, hízó- és egyéb állatok;
@@ -338,7 +338,7 @@ Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európ
 (6) Az (5) bekezdés szerinti gazdálkodó a 151. § (1) bekezdésének alkalmazása során köteles gondoskodni arról, hogy a könyvviteli szolgáltatás körébe tartozó feladatok irányítását, vezetését, az éves beszámoló, az összevont (konszolidált) éves beszámoló elkészítését olyan személy végezze, aki
 
 - a) IFRS regisztrálási szakterületen szerepel a könyvviteli szolgáltatást végzők nyilvántartásában, vagy
-- b) IFRS minősítéssel rendelkező kamarai tag könyvvizsgáló.
+- b) a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló törvény szerinti IFRS minősítéssel, IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolással, vagy IFRS mérlegképes könyvelői szakképesítés-ráépüléssel rendelkező kamarai tag könyvvizsgáló.
 
 ### Üzleti év
 
@@ -2504,12 +2504,12 @@ kell elszámolni, és annak megfelelően kell az eredménylevezetés tételeiben
 
 (5) A leányvállalati viszony létrejöttét az anyavállalat állapítja meg és egyidejűleg köteles ezt a minősítést a leányvállalattal közölni.
 
-116. § (1) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak az anyavállalatnak (a továbbiakban: mentesíthető anyavállalat), amely maga is leányvállalata egy vállalatnak (a továbbiakban: fölérendelt anyavállalat), ha a fölérendelt anyavállalat az Európai Gazdasági Térség valamely államában rendelkezik székhellyel, e törvény vagy a Tanács 1983. június 13-i 83/349/EGK irányelve, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendelete szerint készít és hoz nyilvánosságra összevont (konszolidált) éves beszámolót, valamint összevont (konszolidált) üzleti jelentést, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem vonatkozik a mentesíthető anyavállalatra a 119. §, és ha
+116. § (1) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak az anyavállalatnak (a továbbiakban: mentesíthető anyavállalat), amely maga is leányvállalata egy vállalatnak (a továbbiakban: fölérendelt anyavállalat), ha a fölérendelt anyavállalat az Európai Gazdasági Térség valamely államában rendelkezik székhellyel, e törvény vagy az Európai Parlament és a Tanács 2013. június 26-i 2013/34/EU irányelve, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendelete szerint készít és hoz nyilvánosságra összevont (konszolidált) éves beszámolót, valamint összevont (konszolidált) üzleti jelentést, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem vonatkozik a mentesíthető anyavállalatra a 119. §, és ha
 
 - a) a fölérendelt anyavállalat 100%-os tulajdoni hányaddal rendelkezik a mentesíthető anyavállalatban (ide nem értve a mentesíthető anyavállalat vezető tisztségviselői, vagy felügyelőbizottsága tagjai által jogszabály, vagy létesítő okirat szerint megszerzett tulajdoni hányadot), vagy legalább 90%-os tulajdoni hányaddal rendelkezik és a kisebbségi tulajdonosok elfogadták a mentesítést, vagy
 - b) az a) ponton kívüli esetekben, a kisebbségi tulajdonosok vagy azok egy része – akiknek részvénytársaságnál, illetve európai részvénytársaságnál összesen legalább 10%-os (egyéb vállalkozónál legalább 20%-os) mentesíthető anyavállalati részesedés van a birtokukban – legalább hat hónappal az összevont (konszolidált) éves beszámoló készítésének mérlegfordulónapja előtt nem kérték a mentesíthető anyavállalattól az összevont (konszolidált) éves beszámoló összeállítását.
 
-(2) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak a mentesíthető anyavállalatnak, amely maga is leányvállalata egy fölérendelt anyavállalatnak, ha a fölérendelt anyavállalat e törvénnyel vagy a Tanács 1983. június 13-i 83/349/EGK irányelvével, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendeletével összhangban vagy azokkal egyenértékű módon, illetve azoknak megfelelően készíti el és hozza nyilvánosságra összevont (konszolidált) éves beszámolóját, valamint összevont (konszolidált) üzleti jelentését, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem alkalmazzák a mentesíthető anyavállalatra a 119. § előírásait, és ha teljesülnek az (1) bekezdés a) és b) pontjában foglaltak.
+(2) Nem kötelező összevont (konszolidált) éves beszámolót és összevont (konszolidált) üzleti jelentést készítenie annak a mentesíthető anyavállalatnak, amely maga is leányvállalata egy fölérendelt anyavállalatnak, ha a fölérendelt anyavállalat e törvénnyel vagy az Európai Parlament és a Tanács 2013. június 26-i 2013/34/EU irányelvével, illetve az Európai Parlament és a Tanács 2002. július 19-i 1606/2002/EK rendeletével összhangban vagy azokkal egyenértékű módon, illetve azoknak megfelelően készíti el és hozza nyilvánosságra összevont (konszolidált) éves beszámolóját, valamint összevont (konszolidált) üzleti jelentését, amelyben a mentesíthető anyavállalat és annak leányvállalatai beszámolóit is konszolidálják, továbbá nem alkalmazzák a mentesíthető anyavállalatra a 119. § előírásait, és ha teljesülnek az (1) bekezdés a) és b) pontjában foglaltak.
 
 (3) Az (1)–(2) bekezdés alkalmazása esetén a mentesíthető anyavállalat éves beszámolója kiegészítő mellékletének a következőket is kell tartalmaznia:
 
@@ -2907,7 +2907,7 @@ kivéve, ha valamely konszolidálásba bevont vállalkozása közérdeklődésre
 
 (2) Az (1) bekezdés szerinti vagyonmérleget és vagyonleltárt az átalakulás során két alkalommal kell elkészíteni: először az átalakulásról szóló döntés megalapozásához, a cégbírósági eljárás alátámasztására – a gazdasági társaság legfőbb szerve által meghatározott mérlegfordulónapra (vagyonmérleg-tervezet és vagyonleltár-tervezet) –, majd az átalakulás napjával (végleges vagyonmérleg és végleges vagyonleltár).
 
-(3) A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e törvény szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a (4)–(9) bekezdésben és a 137–143. §-ban foglaltak figyelembevételével.
+(3) A vagyonmérleget (a vagyonmérleg-tervezetet és a végleges vagyonmérleget), a vagyonleltárt (a vagyonleltár-tervezetet és a végleges vagyonleltárt) az e törvény szerinti beszámoló mérlegére és az azt alátámasztó leltárra vonatkozó előírások szerint kell elkészíteni a (4)–(9) bekezdésben és a 137–141. §-ban foglaltak figyelembevételével.
 
 (4) A (3) bekezdés szerinti vagyonmérleget – ha törvény másként nem rendelkezik – háromoszlopos formában kell elkészíteni oly módon, hogy
 
@@ -2977,7 +2977,15 @@ tartalmazza.
 
 (3) A kiválással létrejövő gazdasági társaságnak – ha élt az átértékelés lehetőségével – a vagyonmérleg-tervezete ,,különbözetek'' oszlopában elkülönítetten kell kimutatnia az átértékelési különbözetet, a 138. § (4) bekezdésében foglaltak szerint.
 
-(4) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetének ,,különbözetek'' oszlopában kell kimutatni egyesülés esetén a jogutód gazdasági társaság jegyzett tőkéjének meghatározása során figyelembe nem vehető részesedések (részvények, törzsbetétek) jogelőd gazdasági társaság vagyonmérleg-tervezete szerinti értékét az eszközök, illetve a saját tőke csökkenéseként (a névértéknek megfelelő összeget a jegyzett tőke csökkenéseként, a névérték és a vagyonmérleg-tervezet szerinti eszközérték különbözetét az eredménytartalék változásaként). A ,,különbözetek'' oszlop szolgál a törvényben külön nem nevesített egyéb tételek rendezésére is.
+(4) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetének „különbözetek” oszlopában kell kimutatni – a (4a) és a (4b) bekezdésben foglaltak figyelembevételével – egyesülés esetén a jogutód gazdasági társaság jegyzett tőkéjének meghatározása során figyelembe nem vehető részesedések (részvények, törzsbetétek) jogelőd gazdasági társaság vagyonmérleg-tervezete szerinti értékét az eszközök, illetve a saját tőke csökkenéseként (a névértéknek megfelelő összeget a jegyzett tőke csökkenéseként, a névérték és a vagyonmérleg-tervezet szerinti eszközérték különbözetét az eredménytartalék változásaként). A „különbözetek” oszlop szolgál a törvényben külön nem nevesített egyéb tételek rendezésére is.
+
+(4a) Beolvadás esetén az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében az átvevő (beolvasztó) gazdasági társaság beolvadó (megszűnő) gazdasági társaságban lévő részesedése könyv szerinti értékének a beolvadó (megszűnő) gazdasági társaság 137. § (3) bekezdés szerinti vagyonmérleg-tervezete szerinti saját tőke összegét meghaladó része üzleti vagy cégértékként is kimutatható (a beolvadó gazdasági társaságban lévő részesedés ugyanilyen értékben történő kivezetésével szemben), feltéve, hogy
+
+- a) a beolvadó (megszűnő) gazdasági társaságban lévő részesedés bekerülési értékét a megszerzéskor az üzleti értékelés, a jövedelemtermelő képesség módszerével határozták meg,
+- b) a beolvadó (megszűnő) gazdasági társaság élt a vagyonátértékelés 137. § szerinti lehetőségével és
+- c) az üzleti vagy cégérték a jövőben a bevételekben várhatóan megtérül. Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében így kimutatásra kerülő üzleti vagy cégérték összege nem haladhatja meg a beolvadó (megszűnő) gazdasági társaságban lévő részesedés megszerzésekor a bekerülési értékben érvényesített üzleti vagy cégértéket.
+
+(4b) Összeolvadás esetén az átalakulással létrejövő gazdasági társaság vagyommérleg-tervezetében a megszűnő gazdasági társaság(ok)ban lévő részesedések kiszűrése során is kimutatható üzleti vagy cégérték a (4a) bekezdésben foglaltak megfelelő alkalmazásával.
 
 (5) Egyesülés esetén az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében a ,,különbözetek'' oszlopban kell kiszűrni az egyesülő (jogelőd) gazdasági társaságok vagyonmérleg-tervezeteiben szereplő, egymással szemben fennálló követelések-kötelezettségek tételeit a követelések és a kötelezettségek, céltartalékok, illetve az időbeli elhatárolások csökkentésével, valamint ezen követelések és kötelezettségek, céltartalékok, illetve az időbeli elhatárolások értékeinek különbözetével a saját tőkét kell (az eredménytartalék változásaként) módosítani.
 
@@ -3017,7 +3025,7 @@ tartalmazza.
 
 (8) Ha a cégbíróság az átalakulás cégbejegyzését elutasítja (megtagadja), vagy a bejegyzési kérelem visszavonása miatt a cégbejegyzési eljárást megszünteti, az átalakulni kívánó gazdasági társaság a korábbi formájában működik tovább, végleges vagyonmérleget nem kell készítenie, az e törvény szerinti könyvviteli nyilvántartásában a meghiúsult átalakulással kapcsolatosan tételek nem szerepelhetnek.
 
-(9) Gazdasági társaság beolvadása esetén az átvevő (beolvasztó) gazdasági társaságnál a beolvadás során az átvett eszközök és az átvállalt kötelezettségek (ideértve az időbeli elhatárolások, céltartalékok összegeit is) állományba vett – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – értékének különbözetével a saját tőkét kell a létesítő okiratnak megfelelően módosítani. A saját tőke módosítása során – az előbbieken túlmenően – a 139. § (4) bekezdése szerinti, a jegyzett tőke meghatározásánál figyelembe nem vehető részesedések értékét, valamint a 139. § (5) bekezdése szerinti, az egymással szemben fennálló követelések és kötelezettségek, céltartalékok, időbeli elhatárolások értékeinek különbözetét a saját tőkével szemben kell kivezetni.
+(9) Gazdasági társaság beolvadása esetén az átvevő (beolvasztó) gazdasági társaságnál a beolvadás során az átvett eszközök és az átvállalt kötelezettségek (ideértve az időbeli elhatárolások, céltartalékok összegeit is) állományba vett – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – értékének különbözetével a saját tőkét kell a létesítő okiratnak megfelelően módosítani. A saját tőke módosítása során – az előbbieken túlmenően – a 139. § (4) bekezdése szerinti, a jegyzett tőke meghatározásánál figyelembe nem vehető részesedések 139. § (4a)–(4b) bekezdés szerinti üzleti vagy cégértékkel csökkentett értékét, valamint a 139. § (5) bekezdése szerinti, az egymással szemben fennálló követelések és kötelezettségek, céltartalékok, időbeli elhatárolások értékeinek különbözetét a saját tőkével szemben kell kivezetni.
 
 142–143. §
 
@@ -3225,23 +3233,40 @@ kezeli.
 
 - a) nem az Európai Gazdasági Térség államában vagy a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) tagállamban, vagy nem olyan államban rendelkezik adóilletőséggel, amellyel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van,
 - b) az (1) bekezdés szerinti továbbképzések szervezésével és lebonyolításával kapcsolatban megszerzett jövedelme az Európai Gazdasági Térség államán kívüli adóilletősége szerinti országban kedvezményesebben adózna (a jövedelemre kifizetett végleges, adó-visszatérítések után kifizetett adót figyelembe véve), mint ahogy a gazdasági szereplő az adott országból származó belföldi forrású jövedelme után adózna, vagy
-- c) olyan nem szabályozott tőzsdén jegyzett társaság, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény 3. § r) pontja szerinti tényleges tulajdonosa nem megismerhető.
+- c) olyan nem szabályozott tőzsdén jegyzett társaság, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pontja szerinti tényleges tulajdonosa nem megismerhető.
 
 (2b) E törvény alkalmazásában nem lehet akkreditált szervezet az a gazdasági szereplő, amelyben közvetetten vagy közvetlenül több, mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik olyan jogi személy vagy jogi személyiség nélküli szervezet, amelynek tekintetében a (2a) bekezdésben meghatározott feltételek fennállnak. Amennyiben a több, mint 25%-os tulajdoni résszel vagy szavazati hányaddal rendelkező gazdasági társaság társulásként adózik, akkor az ilyen társulás tulajdonos társaságaira vonatkozóan kell a (2a) bekezdés a) pontja szerinti feltételt megfelelően alkalmazni.
 
+(2c) A (2) bekezdés szerinti akkreditált szervezetet a nyilvántartásba vételt végző szervezet a könyvviteli szolgáltatást végzők továbbképzésében közreműködő szervezetként nyilvántartásba veszi. Az akkreditált továbbképző szervezetek nyilvántartása tartalmazza a szervezet:
+
+- a) nevét, adószámát,
+- b) cégnyilvántartási vagy bírósági nyilvántartási számát,
+- c) képviselőjének nevét,
+- d) székhelyét, levelezési címét,
+- e) telefonszámát, elektronikus elérhetőségét,
+- f) nyilvántartásba vételi sorszámát (akkreditációs sorszámát),
+- g) nyilvántartásba vételének (akkreditációjának) időpontját,
+- h) továbbképzési tevékenységével összefüggésben a nyilvántartásba vételt végző szervezet által lefolytatott ellenőrzések eredményét,
+- i) nyilvántartásból való törlésének (akkreditáció visszavonásának) időpontját és indokát.
+
+(2d) A nyilvántartásba vételt végző szervezet az akkreditált továbbképző szervezetek nyilvántartásában szereplő adatokat a továbbképzésen résztvevők ellenőrzése, valamint egyéb hatósági és bírósági eljárásban történő felhasználás céljából az akkreditált továbbképző szervezet nyilvántartásból való törlését követően 6 évig megőrzi.
+
 (3) Az (1) bekezdés szerinti továbbképzési kötelezettség a 151. § (4) bekezdés szerinti kormányrendeletben meghatározott egyéb módon is teljesíthető.
 
-(4) A továbbképzésen résztvevőkről a (2) bekezdés szerinti akkreditált szervezet nyilvántartást vezet, amely alapján a 151. § (4) bekezdésben hivatkozott kormányrendeletben meghatározott módon és az alábbi adattartalommal megküldi a továbbképzési kötelezettség igazolásához szükséges adatokat a nyilvántartásba vételt végző szervezetnek:
+(4) A megvalósított továbbképzésekről és a továbbképzésen résztvevőkről a (2) bekezdés szerinti akkreditált szervezet köteles nyilvántartást vezetni és a továbbképzéssel összefüggő dokumentumokat 6 évig megőrizni. A nyilvántartás tartalmazza:
 
-- a) az akkreditált szervezet sorszáma, neve, címe,
-- b) a résztvevők adatai:
-  - ba) regisztrálási szám,
-  - bb) családi és utónév,
-  - bc) születési családi és utónév,
-  - bd) születési hely, idő,
-  - be) anyja születési családi és utóneve,
-  - bf) nyilvántartásban szereplő címe (irányítószám, helység, utca, házszám),
-- c) a képzés azonosítója és kreditpontértéke.
+- a) az akkreditált szervezet sorszámát, nevét, címét,
+- b) a résztvevők adatait:
+  - ba) regisztrálási számát,
+  - bb) családi és utónevét,
+  - bc) születési családi és utónevét,
+  - bd) születési helyét, idejét,
+  - be) anyja születési családi és utónevét,
+  - bf) lakcímét (irányítószám, helység, utca, házszám),
+- c) a továbbképzés azonosító adatait és kreditpontértékét,
+- d) a teljesítésről kiállított igazolás sorszámát.
+
+(5) A (2) bekezdés szerinti akkreditált szervezet a résztvevők továbbképzési kötelezettsége teljesítésének igazolásához szükséges adatokat, a (4) bekezdés b) és c) pontja szerinti adattartalommal, megküldi a nyilvántartásba vételt végző szervezetnek a 151. § (4) bekezdése szerinti kormányrendeletben meghatározott módon.
 
 152/A. § Az engedélyezési és nyilvántartásba vételi eljárásért, a nyilvántartásból való törlésért, a hatósági igazolvány pótlásával, cseréjével, és a nyilvántartásban szereplő adatok módosításával összefüggő eljárásért, valamint a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért, továbbá a továbbképző szervezetek akkreditációs eljárásáért, a kreditpont-minősítési eljárásért, valamint szakmai szervezetként történő elismerésért igazgatási szolgáltatási díjat kell fizetni.
 
@@ -3793,11 +3818,17 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 
 (66) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 3. § (9) bekezdés 11. pontját, 19. § (3a) bekezdését, 45. § (2) bekezdését, 47. § (12) bekezdését, 59/B. § (14) és (15) bekezdését, 84. § (7) bekezdés j) pontját, 85. § (3) bekezdés j) pontját a 2017. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
-(67) A szövetkezeti hitelintézet és a szövetkezeti hitelintézetek integrációjában résztvevő egyéb hitelintézet – függetlenül attól, hogy értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák –, továbbá a Diákhitel Központ Zrt. és a Magyar Export-Import Bank Zrt. e törvény 9/A. §-át először a 2019. évben induló üzleti évről készített beszámolóra alkalmazza azzal, hogy a 2018. évben induló üzleti évről készített beszámolóra történő alkalmazás is megengedett.
+(67) A szövetkezeti hitelintézet és a szövetkezeti hitelintézetek integrációjában résztvevő egyéb hitelintézet – függetlenül attól, hogy értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák –, továbbá a Magyar Export-Import Bank Zrt. e törvény 9/A. §-át először a 2019. évben induló üzleti évről készített beszámolóra alkalmazza azzal, hogy a 2018. évben induló üzleti évről készített beszámolóra történő alkalmazás is megengedett.
 
 (68) Az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő törvények és egyes egyéb törvények módosításáról szóló 2017. évi CLIX. törvénnyel megállapított 72. § (5) bekezdését, 84. § (7) bekezdés w) pontját, 85. § (3) bekezdés w) pontját először a 2018. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 
 (69) Az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő törvények és egyes egyéb törvények módosításáról szóló 2017. évi CLIX. törvénnyel megállapított 72. § (5) bekezdését, 84. § (7) bekezdés w) pontját, 85. § (3) bekezdés w) pontját a 2017. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(70) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 139. § (4), (4a) és (4b) bekezdését, 141. § (9) bekezdését az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény hatálybalépését követően indult beolvadásokra, összeolvadásokra lehet alkalmazni.
+
+(71) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 2/A. § (1)–(5) bekezdését, 3. § (3) bekezdés 3. és 4. pontját, 11. § (3) bekezdését, 16. § (4) bekezdését, 20. § (4) és (5b) bekezdését, 33. § (7) bekezdését, 77. § (3) bekezdés d) és k) pontját, 78. § (4) bekezdését, 81. § (2) bekezdés k) pontját, 81. § (3) bekezdés f) pontját, 84. § (1) bekezdését, 84. § (3) bekezdés g) pontját, 84. § (7) bekezdés m) pontját, 85. § (1a) bekezdés e) pontját, 85. § (3) bekezdés n) pontját, 88. § (7) bekezdését, 95/B. § (3) bekezdését, 96. § (4) bekezdését, 114. § (1) bekezdését, 114/A. § 9. és 17. pontját, 114/B. § (4) bekezdés e) és f) pontját, 114/I. §-át, 116. § (1)–(2) bekezdését, 130. § (5) bekezdés b) és c) pontját, 134. § (2) és (5) bekezdését, 134/B. § (6a) bekezdését, 136. § (3) bekezdését, 153. § (1) és (5) bekezdését, 154. § (8) bekezdését, 178. § (1) bekezdés f) pontját, 6. mellékletét és 7. mellékletét először a 2019. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(72) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 2/A. § (1)–(5) bekezdését, 3. § (3) bekezdés 3. és 4. pontját, 11. § (3) bekezdését, 16. § (4) bekezdését, 20. § (4) és (5b) bekezdését, 33. § (7) bekezdését, 77. § (3) bekezdés d) és k) pontját, 78. § (4) bekezdését, 81. § (2) bekezdés k) pontját, 81. § (3) bekezdés f) pontját, 84. § (1) bekezdését, 84. § (3) bekezdés g) pontját, 84. § (7) bekezdés m) pontját, 85. § (1a) bekezdés e) pontját, 85. § (3) bekezdés n) pontját, 88. § (7) bekezdését, 95/B. § (3) bekezdését, 96. § (4) bekezdését, 114. § (1) bekezdését, 114/A. § 9. és 17. pontját, 114/B. § (4) bekezdés e) és f) pontját, 114/I. §-át, 116. § (1)–(2) bekezdését, 130. § (5) bekezdés b) és c) pontját, 134. § (2) és (5) bekezdését, 134/B. § (6a) bekezdését, 136. § (3) bekezdését, 153. § (1) és (5) bekezdését, 154. § (8) bekezdését, 178. § (1) bekezdés f) pontját, 6. mellékletét és 7. mellékletét a 2018. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
 ### Felhatalmazás
 
@@ -3808,7 +3839,7 @@ a képesítés megszerzését megelőző számviteli, pénzügyi, ellenőrzési 
 - c) a 3. § (1) bekezdésének 4. pontja szerinti – a b) pont alá nem tartozó – egyéb szervezetek beszámoló készítésének és könyvvezetésének sajátosságait;
 - d) a mérlegképes könyvelői szakképesítéssel rendelkezők, valamint az okleveles könyvvizsgálói szakképesítéssel rendelkező nem kamarai tagok könyvviteli szolgáltatási tevékenysége engedélyezésének és az engedély visszavonásának, a könyvviteli szolgáltatás végzésére jogosultak nyilvántartásba vételének és a nyilvántartásból való törlésének, a 152/B. § szerinti bejelentésnek és a határon átnyúló könyvviteli szolgáltatást végzők nyilvántartásba vételének és a nyilvántartásból való törlésének részletes szabályait, a nyilvántartásba vételt végző szervezet kijelölését, a nyilvántartás vezetésének, valamint a nyilvántartásba vett személyek kötelező szakmai továbbképzésének és a szakmai továbbképzés ellenőrzésének, a továbbképzés szervezésére és lebonyolítására jelentkező szervezetek akkreditációs eljárásának és a továbbképzési programok és szakmai kiadványok kreditpont-minősítési eljárásának a részletes szabályait;
 - e) a nemzeti számviteli standardok készítésének, kidolgozásának feltételeit, a standardok elfogadásának, bevezetésének, hatályba léptetésének követelményeit;
-- f) a végelszámolás számviteli feladatait;
+- f) a végelszámolás, valamint a felszámolás számviteli feladatait;
 - g) az egyes pénz- és tőkepiaci szolgáltatásokat is végző egyéb vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságait;
 - h) a mikrogazdálkodói egyszerűsített éves beszámoló készítésének sajátosságait.
 

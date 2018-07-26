@@ -1043,7 +1043,7 @@ szerinti támogatás esetén.
 
 #### 21. Az Alap működése
 
-64. § Az Alapot a miniszter felügyelete vagy irányítása alá tartozó, miniszteri rendeletben kijelölt központi költségvetési szerv (a továbbiakban: Alapkezelő) kezeli. Az Alapkezelő felel a kollégiumi döntések előkészítésének és végrehajtásának törvényességéért.
+64. § Az Alapot a miniszter által miniszteri rendeletben kijelölt szervezet (a továbbiakban: Alapkezelő) kezeli. Az Alapkezelő felel a kollégiumi döntések előkészítésének és végrehajtásának törvényességéért.
 
 65. § (1) A Tanács és a kollégiumok tagjait – a kijelölésüket, illetve megválasztásukat követő harminc napon belül – a miniszter bízza meg. A Tanács és a kollégiumok tagjainak megbízatása négy évre szól.
 

@@ -1112,7 +1112,7 @@ részletfizetést engedélyez.
 
 (2) Az állami adóhatóság a visszatérítési kötelezettség érvényesítésére folytatott végrehajtási eljárásában a végrehajtási jogot az ingatlan-nyilvántartásba a Magyar Állam javára jegyezteti be.
 
-48/S. § A 48/A. § c) és d) pontja alapján teljesített befizetés a Felsőoktatási Struktúraátalakítási Alap bevételét képezi.
+48/S. § A 48/A. § c) és d) pontja alapján teljesített befizetés a miniszter által vezetett minisztérium fejezetének bevételét képezi, amely bevételt a miniszter a felsőoktatás fejlesztésére fordítja.
 
 ### XIII. Fejezet — A TANULMÁNYI KÖTELEZETTSÉGEK TELJESÍTÉSE
 

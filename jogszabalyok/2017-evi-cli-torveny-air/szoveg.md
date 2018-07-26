@@ -1301,8 +1301,9 @@ Fellebbezés benyújtására az jogosult, akire a döntés rendelkezést tartalm
 - g) az eljárási bírságot kiszabó,
 - h) a többletköltségek megtérítésére kötelező,
 - i) az eljárási költség viselésével kapcsolatos, a költségmentességi kérelmet elutasító,
-- j) a kézbesítési kifogás tárgyában hozott elutasító, valamint
-- k) az áru hatósági felügyelet alá vonását elrendelő
+- j) a kézbesítési kifogás tárgyában hozott elutasító,
+- k) az áru hatósági felügyelet alá vonását elrendelő, valamint
+- l) a visszatartási jog gyakorlásáról rendelkező
 
 végzés ellen.
 
@@ -1497,7 +1498,9 @@ Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 - a) az állami adó- és vámhatóság hatáskörébe tartozó ügyek elektronikus intézésének részletszabályait;
 - b) az állami adó- és vámhatóság hatáskörének és illetékességének szabályait;
 - c) az ellenőrzésre vonatkozó részletes szabályokat;
-- d) a hatósági zár alkalmazásának részletes szabályait.
+- d) a hatósági zár alkalmazásának részletes szabályait;
+- e) az adóigazgatási eljárásban kirendelt ügygondok tevékenységének részletes szabályait,
+- f) az adóigazgatási eljárásban az eljárási költségek, az iratbetekintéssel összefüggő költségtérítés, a költségek megfizetése, valamint a költségmentesség részletes szabályait.
 
 #### 55. Hatálybalépés
 
@@ -1520,6 +1523,10 @@ Ez a törvény 2018. január 1-jén lép hatályba.
 (4) E törvény rendelkezései nem érintik a 2017. december 31-ig hatályos rendelkezések alapján hozott, e törvény hatálybalépésekor jogerős határozatokat.
 
 (5) E törvény alkalmazásában a törvénnyel kihirdetett nemzetközi szerződéssel (egyezménnyel) esik egy tekintet alá a hatálybalépést megelőzően más jogszabállyal kihirdetett nemzetközi szerződés (egyezmény) is.
+
+#### 139/A. § [Átmeneti rendelkezés az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított rendelkezésekhez]
+
+E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 122. § (3) bekezdés l) pontját a hatálybalépését követően meghozott, visszatartás gyakorlásáról rendelkező végzésekre kell alkalmazni.
 
 #### 57. Az Európai Unió jogának való megfelelés
 

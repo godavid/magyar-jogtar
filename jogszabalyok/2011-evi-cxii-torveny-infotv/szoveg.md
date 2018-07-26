@@ -8,58 +8,81 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 #### 1. A törvény célja
 
-1. § E törvény célja az adatok kezelésére vonatkozó alapvető szabályok meghatározása annak érdekében, hogy a természetes személyek magánszféráját az adatkezelők tiszteletben tartsák, valamint a közügyek átláthatósága a közérdekű és a közérdekből nyilvános adatok megismeréséhez és terjesztéséhez fűződő jog érvényesítésével megvalósuljon.
+1. § E törvény célja a hatálya alá tartozó tárgykörökben az adatok kezelésére vonatkozó alapvető szabályok meghatározása annak érdekében, hogy a természetes személyek magánszféráját az adatkezelők tiszteletben tartsák, valamint a közügyek átláthatósága a közérdekű és a közérdekből nyilvános adatok megismeréséhez és terjesztéséhez fűződő jog érvényesítésével megvalósuljon.
 
 #### 2. A törvény hatálya
 
-2. § (1) E törvény hatálya a Magyarország területén folytatott minden olyan adatkezelésre és adatfeldolgozásra kiterjed, amely természetes személy adataira, valamint közérdekű adatra vagy közérdekből nyilvános adatra vonatkozik.
+2. § (1) E törvény hatálya – személyes adatok tekintetében a (2)–(6) bekezdésben meghatározottak szerint – minden olyan adatkezelésre kiterjed, amely személyes adatra, valamint közérdekű adatra vagy közérdekből nyilvános adatra vonatkozik.
 
-(2) E törvényt a teljesen vagy részben automatizált eszközzel, valamint a manuális módon végzett adatkezelésre és adatfeldolgozásra egyaránt alkalmazni kell.
+(2) Személyes adatoknak az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) hatálya alá tartozó kezelésére az általános adatvédelmi rendeletet a III-V. és a VI/A. Fejezetben, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1) és (2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében és az 1. mellékletben meghatározott kiegészítésekkel kell alkalmazni.
 
-(3) E törvényben foglaltakat kell alkalmazni, ha az Európai Unió területén kívül személyes adatok kezelését folytató adatkezelő az adatfeldolgozással Magyarország területén székhellyel, telephellyel, fiókteleppel vagy lakóhellyel, tartózkodási hellyel rendelkező adatfeldolgozót bíz meg, vagy itt lévő eszközt használ fel, kivéve, ha ez az eszköz csak az Európai Unió területén átmenő adatforgalom célját szolgálja. Az ilyen adatkezelőnek Magyarország területén képviselőt kell kineveznie.
+(3) Személyes adatok bűnüldözési, nemzetbiztonsági és honvédelmi célú kezelésére e törvényt kell alkalmazni.
 
-(4) Nem kell alkalmazni e törvény rendelkezéseit a természetes személynek a kizárólag saját személyes céljait szolgáló adatkezeléseire.
+(4) Személyes adatoknak a (2) és (3) bekezdés hatálya alá nem tartozó kezelésére
 
-(5) A közszféra információinak további felhasználására vonatkozóan törvény az adatszolgáltatás módjára és feltételeire, az azért fizetendő ellenértékre, valamint a jogorvoslatra vonatkozóan e törvénytől eltérő szabályokat állapíthat meg.
+- a) az általános adatvédelmi rendelet 4. cikkében, II–VI., és VIII–IX. fejezetében, valamint
+- b) az e törvény III–V. és VI/A. Fejezetében, továbbá a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1) és (2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében és az 1. mellékletben meghatározott rendelkezéseket kell alkalmazni.
+
+(5) Személyes adatoknak az általános adatvédelmi rendelet hatálya alá tartozó kezelésére e törvény a (2) bekezdésben meghatározott rendelkezéseit, valamint más, törvényben meghatározott, a személyes adatok védelmére és a személyes adatok kezelésének feltételeire vonatkozó előírásokat – ha törvény vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – akkor kell alkalmazni, ha
+
+- a) az adatkezelőnek az általános adatvédelmi rendelet 4. cikk 16. pontjában meghatározott tevékenységi központja vagy az Európai Unión belüli egyetlen tevékenységi helye Magyarországon van, vagy
+- b) ha az adatkezelőnek az általános adatvédelmi rendelet 4. cikk 16. pontjában meghatározott tevékenységi központja vagy az Európai Unión belüli egyetlen tevékenységi helye nem Magyarországon van, de az adatkezelő vagy az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési művelet
+  - ba) áruknak vagy szolgáltatásoknak a Magyarországon tartózkodó érintettek számára történő nyújtásához kapcsolódik, függetlenül attól, hogy az érintettnek fizetnie kell-e azokért, vagy
+  - bb) az érintett Magyarország területén belül tanúsított viselkedésének megfigyeléséhez kapcsolódik.
+
+(6) Nem kell alkalmazni e törvény rendelkezéseit a természetes személynek a kizárólag saját személyes céljait szolgáló adatkezeléseire.
+
+(7) A közszféra információinak további felhasználására vonatkozóan törvény az adatszolgáltatás módjára és feltételeire, az azért fizetendő ellenértékre, valamint a jogorvoslatra vonatkozóan e törvénytől eltérő szabályokat állapíthat meg.
 
 #### 3. Értelmező rendelkezések
 
 3. § E törvény alkalmazása során:
 
-- 1. érintett: bármely meghatározott, személyes adat alapján azonosított vagy – közvetlenül vagy közvetve – azonosítható természetes személy;
-- 2. személyes adat: az érintettel kapcsolatba hozható adat – különösen az érintett neve, azonosító jele, valamint egy vagy több fizikai, fiziológiai, mentális, gazdasági, kulturális vagy szociális azonosságára jellemző ismeret –, valamint az adatból levonható, az érintettre vonatkozó következtetés;
-- 3. különleges adat:
-  - a) a faji eredetre, a nemzetiséghez tartozásra, a politikai véleményre vagy pártállásra, a vallásos vagy más világnézeti meggyőződésre, az érdek-képviseleti szervezeti tagságra, a szexuális életre vonatkozó személyes adat,
-  - b) az egészségi állapotra, a kóros szenvedélyre vonatkozó személyes adat, valamint a bűnügyi személyes adat;
+- 1. érintett: bármely információ alapján azonosított vagy azonosítható természetes személy;
+- 1a. azonosítható természetes személy: az a természetes személy, aki közvetlen vagy közvetett módon, különösen valamely azonosító, például név, azonosító szám, helymeghatározó adat, online azonosító vagy a természetes személy fizikai, fiziológiai, genetikai, szellemi, gazdasági, kulturális vagy szociális azonosságára vonatkozó egy vagy több tényező alapján azonosítható;
+- 2. személyes adat: az érintettre vonatkozó bármely információ;
+- 3. különleges adat: a személyes adatok különleges kategóriáiba tartozó minden adat, azaz a faji vagy etnikai származásra, politikai véleményre, vallási vagy világnézeti meggyőződésre vagy szakszervezeti tagságra utaló személyes adatok, valamint a genetikai adatok, a természetes személyek egyedi azonosítását célzó biometrikus adatok, az egészségügyi adatok és a természetes személyek szexuális életére vagy szexuális irányultságára vonatkozó személyes adatok,
+- 3a. genetikai adat: egy természetes személy örökölt vagy szerzett genetikai jellemzőire vonatkozó minden olyan személyes adat, amely az adott személy fiziológiájára vagy egészségi állapotára vonatkozó egyedi információt hordoz, és amely elsősorban az adott természetes személyből vett biológiai minta elemzéséből ered;
+- 3b. biometrikus adat: egy természetes személy fizikai, fiziológiai vagy viselkedési jellemzőire vonatkozó olyan, sajátos technikai eljárásokkal nyert személyes adat, amely lehetővé teszi vagy megerősíti a természetes személy egyedi azonosítását, mint például az arckép vagy a daktiloszkópiai adat;
+- 3c. egészségügyi adat: egy természetes személy testi vagy szellemi egészségi állapotára vonatkozó személyes adat, ideértve a természetes személy számára nyújtott egészségügyi szolgáltatásokra vonatkozó olyan adatot is, amely információt hordoz a természetes személy egészségi állapotáról;
 - 4. bűnügyi személyes adat: a büntetőeljárás során vagy azt megelőzően a bűncselekménnyel vagy a büntetőeljárással összefüggésben, a büntetőeljárás lefolytatására, illetve a bűncselekmények felderítésére jogosult szerveknél, továbbá a büntetés-végrehajtás szervezeténél keletkezett, az érintettel kapcsolatba hozható, valamint a büntetett előéletre vonatkozó személyes adat;
 - 5. közérdekű adat: az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv vagy személy kezelésében lévő és tevékenységére vonatkozó vagy közfeladatának ellátásával összefüggésben keletkezett, a személyes adat fogalma alá nem eső, bármilyen módon vagy formában rögzített információ vagy ismeret, függetlenül kezelésének módjától, önálló vagy gyűjteményes jellegétől, így különösen a hatáskörre, illetékességre, szervezeti felépítésre, szakmai tevékenységre, annak eredményességére is kiterjedő értékelésére, a birtokolt adatfajtákra és a működést szabályozó jogszabályokra, valamint a gazdálkodásra, a megkötött szerződésekre vonatkozó adat;
 - 6. közérdekből nyilvános adat: a közérdekű adat fogalma alá nem tartozó minden olyan adat, amelynek nyilvánosságra hozatalát, megismerhetőségét vagy hozzáférhetővé tételét törvény közérdekből elrendeli;
-- 7. hozzájárulás: az érintett akaratának önkéntes és határozott kinyilvánítása, amely megfelelő tájékoztatáson alapul, és amellyel félreérthetetlen beleegyezését adja a rá vonatkozó személyes adat – teljes körű vagy egyes műveletekre kiterjedő – kezeléséhez;
-- 8. tiltakozás: az érintett nyilatkozata, amellyel személyes adatának kezelését kifogásolja, és az adatkezelés megszüntetését, illetve a kezelt adat törlését kéri;
-- 9. adatkezelő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely önállóan vagy másokkal együtt az adat kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az adatfeldolgozóval végrehajtatja;
+- 7. hozzájárulás: az érintett akaratának önkéntes, határozott és megfelelő tájékoztatáson alapuló egyértelmű kinyilvánítása, amellyel az érintett nyilatkozat vagy az akaratát félreérthetetlenül kifejező más magatartás útján jelzi, hogy beleegyezését adja a rá vonatkozó személyes adatok kezeléséhez;
+- 8.
+- 9. adatkezelő: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely – törvényben vagy az Európai Unió kötelező jogi aktusában meghatározott keretek között – önállóan vagy másokkal együtt az adat kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az adatfeldolgozóval végrehajtatja;
+- 9a. közös adatkezelő: az az adatkezelő, aki vagy amely – törvényben vagy az Európai Unió kötelező jogi aktusában meghatározott keretek között – az adatkezelés céljait és eszközeit egy vagy több másik adatkezelővel közösen határozza meg, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket egy vagy több másik adatkezelővel közösen hozza meg és hajtja végre vagy hajtatja végre az adatfeldolgozóval;
 - 10. adatkezelés: az alkalmazott eljárástól függetlenül az adaton végzett bármely művelet vagy a műveletek összessége, így különösen gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adat további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők (pl. ujj- vagy tenyérnyomat, DNS-minta, íriszkép) rögzítése;
+- 10a. bűnüldözési célú adatkezelés: a jogszabályban meghatározott feladat- és hatáskörében a közrendet vagy a közbiztonságot fenyegető veszélyek megelőzésére vagy elhárítására, a bűnmegelőzésre, a bűnfelderítésre, a büntetőeljárás lefolytatására vagy ezen eljárásban való közreműködésre, a szabálysértések megelőzésére és felderítésére, valamint a szabálysértési eljárás lefolytatására vagy ezen eljárásban való közreműködésre, továbbá a büntetőeljárásban vagy szabálysértési eljárásban megállapított jogkövetkezmények végrehajtására irányuló tevékenységet folytató szerv vagy személy (a továbbiakban együtt: bűnüldözési adatkezelést folytató szerv) ezen tevékenység keretei között és céljából – ideértve az ezen tevékenységhez kapcsolódó személyes adatok levéltári, tudományos, statisztikai vagy történelmi célból történő kezelését is – (a továbbiakban együtt: bűnüldözési cél) végzett adatkezelése;
+- 10b. nemzetbiztonsági célú adatkezelés: a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladat- és hatáskörében végzett adatkezelése, valamint a rendőrség terrorizmust elhárító szervének jogszabályban meghatározott feladat- és hatáskörében végzett, a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó adatkezelése;
+- 10c. honvédelmi célú adatkezelés: a honvédségi adatkezelésről szóló törvény és a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyarország területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról szóló törvény hatálya alá tartozó adatkezelés;
 - 11. adattovábbítás: az adat meghatározott harmadik személy számára történő hozzáférhetővé tétele;
+- 11a. közvetett adattovábbítás: személyes adatnak valamely harmadik országban vagy nemzetközi szervezet keretében adatkezelést folytató adatkezelő vagy adatfeldolgozó részére továbbítása útján valamely más harmadik országban vagy nemzetközi szervezet keretében adatkezelést folytató adatkezelő vagy adatfeldolgozó részére történő továbbítása;
+- 11b. nemzetközi szervezet: a nemzetközi közjog hatálya alá tartozó szervezet és annak alárendelt szervei, továbbá olyan egyéb szerv, amelyet két vagy több állam közötti megállapodás hozott létre vagy amely ilyen megállapodás alapján jött létre;
 - 12. nyilvánosságra hozatal: az adat bárki számára történő hozzáférhetővé tétele;
 - 13. adattörlés: az adat felismerhetetlenné tétele oly módon, hogy a helyreállítása többé nem lehetséges;
-- 14. adatmegjelölés: az adat azonosító jelzéssel ellátása annak megkülönböztetése céljából;
-- 15. adatzárolás: az adat azonosító jelzéssel ellátása további kezelésének végleges vagy meghatározott időre történő korlátozása céljából;
+- 14.
+- 15. adatkezelés korlátozása: a tárolt adat zárolása az adat további kezelésének korlátozása céljából történő megjelölése útján;
 - 16. adatmegsemmisítés: az adatot tartalmazó adathordozó teljes fizikai megsemmisítése;
-- 17. adatfeldolgozás: az adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése, függetlenül a műveletek végrehajtásához alkalmazott módszertől és eszköztől, valamint az alkalmazás helyétől, feltéve hogy a technikai feladatot az adaton végzik;
-- 18. adatfeldolgozó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely szerződés alapján – beleértve a jogszabály rendelkezése alapján kötött szerződést is – adatok feldolgozását végzi;
+- 17. adatfeldolgozás: az adatkezelő megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési műveletek összessége;
+- 18. adatfeldolgozó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely – törvényben vagy az Európai Unió kötelező jogi aktusában meghatározott keretek között és feltételekkel – az adatkezelő megbízásából vagy rendelkezése alapján személyes adatokat kezel;
 - 19. adatfelelős: az a közfeladatot ellátó szerv, amely az elektronikus úton kötelezően közzéteendő közérdekű adatot előállította, illetve amelynek a működése során ez az adat keletkezett;
 - 20. adatközlő: az a közfeladatot ellátó szerv, amely – ha az adatfelelős nem maga teszi közzé az adatot – az adatfelelős által hozzá eljuttatott adatot honlapon közzéteszi;
 - 21. adatállomány: az egy nyilvántartásban kezelt adatok összessége;
-- 22. harmadik személy: olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely nem azonos az érintettel, az adatkezelővel vagy az adatfeldolgozóval;
+- 22. harmadik személy: olyan természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely nem azonos az érintettel, az adatkezelővel, az adatfeldolgozóval vagy azokkal a személyekkel, akik az adatkezelő vagy adatfeldolgozó közvetlen irányítása alatt a személyes adatok kezelésére irányuló műveleteket végeznek;
 - 23. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - 24. harmadik ország: minden olyan állam, amely nem EGT-állam.
-- 25. kötelező szervezeti szabályozás: több országban, de köztük legalább egy EGT-államban is tevékenységet folytató adatkezelő vagy adatkezelők csoportja által elfogadott és a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: Hatóság) által jóváhagyott, az adatkezelőre vagy adatkezelők csoportjára nézve kötelező belső adatvédelmi szabályzat, amely a harmadik országba történő adattovábbítás esetén a személyes adatok védelmét az adatkezelő vagy adatkezelők csoportjának egyoldalú kötelezettségvállalása útján biztosítja;
-- 26. adatvédelmi incidens: személyes adat jogellenes kezelése vagy feldolgozása, így különösen a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés vagy megsemmisítés, valamint a véletlen megsemmisülés és sérülés.
+- 25.
+- 26. adatvédelmi incidens: az adatbiztonság olyan sérelme, amely a továbbított, tárolt vagy más módon kezelt személyes adatok véletlen vagy jogellenes megsemmisülését, elvesztését, módosulását, jogosulatlan továbbítását vagy nyilvánosságra hozatalát, vagy az azokhoz való jogosulatlan hozzáférést eredményezi;
+- 27. profilalkotás: személyes adat bármely olyan – automatizált módon történő – kezelése, amely az érintett személyes jellemzőinek, különösen a munkahelyi teljesítményéhez, gazdasági helyzetéhez, egészségi állapotához, személyes preferenciáihoz vagy érdeklődéséhez, megbízhatóságához, viselkedéséhez, tartózkodási helyéhez vagy mozgásához kapcsolódó jellemzőinek értékelésére, elemzésére vagy előrejelzésére irányul;
+- 28. címzett: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki vagy amely részére személyes adatot az adatkezelő, illetve az adatfeldolgozó hozzáférhetővé tesz;
+- 29. álnevesítés: személyes adat olyan módon történő kezelése, amely – a személyes adattól elkülönítve tárolt – további információ felhasználása nélkül megállapíthatatlanná teszi, hogy a személyes adat mely érintettre vonatkozik, valamint műszaki és szervezési intézkedések megtételével biztosítja, hogy azt azonosított vagy azonosítható természetes személyhez ne lehessen kapcsolni;
 
-### II. Fejezet — A SZEMÉLYES ADATOK VÉDELME
+### II. Fejezet — A SZEMÉLYES ADATOK VÉDELMÉRE VONATKOZÓ KÖVETELMÉNYEK
 
-#### 4. Az adatkezelés elvei
+#### 4. A személyes adatok kezelésének alapelvei
 
-4. § (1) Személyes adat kizárólag meghatározott célból, jog gyakorlása és kötelezettség teljesítése érdekében kezelhető. Az adatkezelésnek minden szakaszában meg kell felelnie az adatkezelés céljának, az adatok felvételének és kezelésének tisztességesnek és törvényesnek kell lennie.
+4. § (1) Személyes adat kizárólag egyértelműen meghatározott, jogszerű célból, jog gyakorlása és kötelezettség teljesítése érdekében kezelhető. Az adatkezelésnek minden szakaszában meg kell felelnie az adatkezelés céljának, az adatok gyűjtésének és kezelésének tisztességesnek és törvényesnek kell lennie.
 
 (2) Csak olyan személyes adat kezelhető, amely az adatkezelés céljának megvalósulásához elengedhetetlen, a cél elérésére alkalmas. A személyes adat csak a cél megvalósulásához szükséges mértékben és ideig kezelhető.
 
@@ -67,287 +90,528 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (4) Az adatkezelés során biztosítani kell az adatok pontosságát, teljességét és – ha az adatkezelés céljára tekintettel szükséges – naprakészségét, valamint azt, hogy az érintettet csak az adatkezelés céljához szükséges ideig lehessen azonosítani.
 
+(4a) Az adatkezelés során arra alkalmas műszaki vagy szervezési – így különösen az adatok jogosulatlan vagy jogellenes kezelésével, véletlen elvesztésével, megsemmisülésével vagy károsodásával szembeni védelmet kialakító – intézkedések alkalmazásával biztosítani kell a személyes adatok megfelelő biztonságát.
+
 (5) A személyes adatok kezelését tisztességesnek és törvényesnek kell tekinteni, ha az érintett véleménynyilvánítási szabadságának biztosítása érdekében az érintett véleményét megismerni kívánó személy az érintett lakóhelyén vagy tartózkodási helyén felkeresi, feltéve, hogy az érintett személyes adatait e törvény rendelkezéseinek megfelelően kezelik és a személyes megkeresés nem üzleti célra irányul. A személyes megkeresésre a munka törvénykönyve szerinti munkaszüneti napon nem kerülhet sor.
 
-#### 5. Az adatkezelés jogalapja
+#### 5. Az adatkezelés jogalapja és általános feltételei
 
 5. § (1) Személyes adat akkor kezelhető, ha
 
-- a) ahhoz az érintett hozzájárul, vagy
-- b) azt törvény vagy – törvény felhatalmazása alapján, az abban meghatározott körben – helyi önkormányzat rendelete közérdeken alapuló célból elrendeli (a továbbiakban: kötelező adatkezelés).
+- a) azt törvény vagy – törvény felhatalmazása alapján, az abban meghatározott körben, különleges adatnak vagy bűnügyi személyes adatnak nem minősülő adat esetén – helyi önkormányzat rendelete közérdeken alapuló célból elrendeli,
+- b) az a) pontban meghatározottak hiányában az az adatkezelő törvényben meghatározott feladatainak ellátásához feltétlenül szükséges és az érintett a személyes adatok kezeléséhez kifejezetten hozzájárult,
+- c) az a) pontban meghatározottak hiányában az az érintett vagy más személy létfontosságú érdekeinek védelméhez, valamint a személyek életét, testi épségét vagy javait fenyegető közvetlen veszély elhárításához vagy megelőzéséhez szükséges és azzal arányos, vagy
+- d) az a) pontban meghatározottak hiányában a személyes adatot az érintett kifejezetten nyilvánosságra hozta és az az adatkezelés céljának megvalósulásához szükséges és azzal arányos.
 
-(2) Különleges adat a 6. §-ban meghatározott esetekben, valamint akkor kezelhető, ha
+(2) Különleges adat
 
-- a) az adatkezeléshez az érintett írásban hozzájárul,
-- b) a 3. § 3. pont a) alpontjában foglalt adatok esetében az törvényben kihirdetett nemzetközi szerződés végrehajtásához szükséges, vagy azt az Alaptörvényben biztosított alapvető jog érvényesítése, továbbá a nemzetbiztonság, a bűncselekmények megelőzése vagy üldözése érdekében vagy honvédelmi érdekből törvény elrendeli, vagy
-- c) a 3. § 3. pont b) alpontjában foglalt adatok esetében törvény közérdeken alapuló célból elrendeli.
+- a) az (1) bekezdés c)–d) pontjában meghatározottak szerint, vagy
+- b) akkor kezelhető, ha az törvényben kihirdetett nemzetközi szerződés végrehajtásához feltétlenül szükséges és azzal arányos, vagy azt az Alaptörvényben biztosított alapvető jog érvényesítése, továbbá a nemzetbiztonság, a bűncselekmények megelőzése, felderítése vagy üldözése érdekében vagy honvédelmi érdekből törvény elrendeli.
 
-(3) Kötelező adatkezelés esetén a kezelendő adatok fajtáit, az adatkezelés célját és feltételeit, az adatok megismerhetőségét, az adatkezelés időtartamát, valamint az adatkezelő személyét az adatkezelést elrendelő törvény, illetve önkormányzati rendelet határozza meg.
+(3) Az (1) bekezdés a) pontjában, a (2) bekezdés b) pontjában, valamint az általános adatvédelmi rendelet 6. cikk (1) bekezdés c) és e) pontjában meghatározott adatkezelés (a továbbiakban: kötelező adatkezelés) esetén a kezelendő adatok fajtáit, az adatkezelés célját és feltételeit, az adatok megismerhetőségét, az adatkezelő személyét, valamint az adatkezelés időtartamát vagy szükségessége időszakos felülvizsgálatát az adatkezelést elrendelő törvény, illetve önkormányzati rendelet határozza meg.
 
-(4) Kizárólag állami vagy önkormányzati szerv kezelheti az állam bűncselekmények megelőzésére és üldözésére irányuló, valamint közigazgatási és igazságszolgáltatási feladatainak ellátása céljából kezelt bűnügyi személyes adatokat, valamint a szabálysértési, a polgári peres és nemperes ügyekre vonatkozó adatokat tartalmazó nyilvántartásokat.
+(4) Kizárólag állami vagy önkormányzati szerv kezelheti az állam bűncselekmények megelőzésére, felderítésére és üldözésére irányuló, valamint közigazgatási és igazságszolgáltatási feladatainak ellátása céljából kezelt bűnügyi személyes adatokat, valamint a szabálysértési, a polgári peres és nemperes ügyekre, valamint a közigazgatási peres és nemperes ügyekre vonatkozó adatokat tartalmazó nyilvántartásokat.
 
-6. § (1) Személyes adat kezelhető akkor is, ha az érintett hozzájárulásának beszerzése lehetetlen vagy aránytalan költséggel járna, és a személyes adat kezelése
+(5) Ha a kötelező adatkezelés időtartamát vagy szükségessége időszakos felülvizsgálatát törvény, helyi önkormányzat rendelete vagy az Európai Unió kötelező jogi aktusa nem határozza meg, az adatkezelő az adatkezelés megkezdésétől legalább háromévente felülvizsgálja, hogy az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adat kezelése az adatkezelés céljának megvalósulásához szükséges-e. Ezen felülvizsgálat körülményeit és eredményét az adatkezelő dokumentálja, e dokumentációt a felülvizsgálat elvégzését követő tíz évig megőrzi és azt a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: Hatóság) kérésére a Hatóság rendelkezésére bocsátja.
 
-- a) az adatkezelőre vonatkozó jogi kötelezettség teljesítése céljából szükséges, vagy
-- b) az adatkezelő vagy harmadik személy jogos érdekének érvényesítése céljából szükséges, és ezen érdek érvényesítése a személyes adatok védelméhez fűződő jog korlátozásával arányban áll.
+(6) Különleges adatok kezelése esetén az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó megfelelő műszaki és szervezési intézkedésekkel biztosítja, hogy az adatkezelési műveletek végzése során a különleges adatokhoz kizárólag az rendelkezzen hozzáféréssel, akinek az adatkezelési művelettel összefüggő feladatának ellátásához feltétlenül szükséges.
 
-(2) Ha az érintett cselekvőképtelensége folytán vagy más elháríthatatlan okból nem képes hozzájárulását megadni, akkor a saját vagy más személy létfontosságú érdekeinek védelméhez, valamint a személyek életét, testi épségét vagy javait fenyegető közvetlen veszély elhárításához vagy megelőzéséhez szükséges mértékben a hozzájárulás akadályainak fennállása alatt az érintett személyes adatai kezelhetőek.
+(7) Bűnügyi személyes adatok kezelése esetén – ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa ettől eltérően nem rendelkezik – a különleges adatok kezelésének feltételeire vonatkozó szabályokat kell alkalmazni.
 
-(3) A 16. életévét betöltött kiskorú érintett hozzájárulását tartalmazó jognyilatkozatának érvényességéhez törvényes képviselőjének beleegyezése vagy utólagos jóváhagyása nem szükséges.
+(8) A tudományos kutatást végző szerv vagy személy személyes adatot nyilvánosságra hozhat, ha az a történelmi eseményekről folytatott kutatások eredményeinek bemutatásához szükséges.
 
-(4) Ha a hozzájáruláson alapuló adatkezelés célja az adatkezelővel írásban kötött szerződés végrehajtása, a szerződésnek tartalmaznia kell minden olyan információt, amelyet a személyes adatok kezelése szempontjából – e törvény alapján – az érintettnek ismernie kell, így különösen a kezelendő adatok meghatározását, az adatkezelés időtartamát, a felhasználás célját, az adatok továbbításának tényét, címzettjeit, adatfeldolgozó igénybevételének tényét. A szerződésnek félreérthetetlen módon tartalmaznia kell, hogy az érintett aláírásával hozzájárul adatainak a szerződésben meghatározottak szerinti kezeléséhez.
+6. § Kizárólag automatizált adatkezelésen – így különösen profilalkotáson – alapuló, az érintett személyére vagy jogos érdekeire hátrányos vagy az érintettet jelentős mértékben érintő jogkövetkezményekkel járó döntés meghozatalára kizárólag akkor kerülhet sor, ha azt törvény vagy az Európai Unió kötelező jogi aktusa kifejezetten lehetővé teszi és
 
-(5) Ha a személyes adat felvételére az érintett hozzájárulásával került sor, az adatkezelő a felvett adatokat törvény eltérő rendelkezésének hiányában
+- a) az nem sérti az egyenlő bánásmód követelményét,
+- b) az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó az
+  - ba) érintettet – kérelmére – tájékoztatja a döntéshozatali mechanizmus során alkalmazott módszerről és szempontokról,
+  - bb) érintett kérelmére a döntés eredményét emberi közreműködés alkalmazásával felülvizsgálja, valamint
+- c) arra – törvény vagy az Európai Unió kötelező jogi aktusának eltérő rendelkezése hiányában – nem különleges adatok felhasználásával kerül sor.
 
-- a) a rá vonatkozó jogi kötelezettség teljesítése céljából, vagy
-- b) az adatkezelő vagy harmadik személy jogos érdekének érvényesítése céljából, ha ezen érdek érvényesítése a személyes adatok védelméhez fűződő jog korlátozásával arányban áll további külön hozzájárulás nélkül, valamint az érintett hozzájárulásának visszavonását követően is kezelheti.
+7. § (1) Bűnüldözési célú adatkezelés esetén az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó – ha az aránytalan nehézséggel vagy költséggel nem jár – az általa kezelt személyes adatokat annak alapján rendszerezi, hogy azok azon érintettek személyes adatai
 
-(6) Az érintett kérelmére, kezdeményezésére indult bírósági vagy hatósági eljárásban az eljárás lefolytatásához szükséges személyes adatok tekintetében, az érintett kérelmére indult más ügyben az általa megadott személyes adatok tekintetében az érintett hozzájárulását vélelmezni kell.
+- a) akik tekintetében alapos okkal feltételezhető, hogy bűncselekményt vagy szabálysértést követtek el vagy bűncselekményt készülnek elkövetni,
+- b) akik büntetőjogi vagy szabálysértési felelősségét jogerősen megállapították,
+- c) akik bűncselekmény vagy szabálysértés sértettjei voltak, vagy akikről megalapozottan feltételezhető, hogy bűncselekmény vagy szabálysértés sértettjei lehetnek, vagy
+- d) akik az a)–c) pontban meghatározottakon túl bűncselekménnyel vagy szabálysértéssel, vagy azok elkövetőivel kapcsolatba hozhatóak, így különösen, akik a büntetőeljárás során tanúként meghallgathatóak, a bűncselekményről vagy a szabálysértésről információval szolgálhatnak, vagy az a) és b) pontban meghatározott érintettekkel kapcsolatban állnak vagy velük összefüggésbe hozhatóak.
 
-(7) Az érintett hozzájárulását megadottnak kell tekinteni az érintett közszereplése során általa közölt vagy nyilvánosságra hozatalra általa átadott személyes adatok tekintetében.
+(2) Bűnüldözési célú adatkezelés esetén az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó – ha az aránytalan nehézséggel vagy költséggel nem jár – egyértelműen megkülönbözteti az érintettel kapcsolatba hozható tényeket és az érintettel kapcsolatba hozható szubjektív értékeléseket.
 
-(8) Kétség esetén azt kell vélelmezni, hogy az érintett a hozzájárulását nem adta meg.
+#### 6. Az adattovábbítás feltételei
 
-#### 6. Az adatbiztonság követelménye
+8. § (1) Az adattovábbítást megelőzően az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó megvizsgálja a továbbítandó személyes adatok pontosságát, teljességét és naprakészségét.
 
-7. § (1) Az adatkezelő köteles az adatkezelési műveleteket úgy megtervezni és végrehajtani, hogy az e törvény és az adatkezelésre vonatkozó más szabályok alkalmazása során biztosítsa az érintettek magánszférájának védelmét.
+(2) Ha az (1) bekezdésben meghatározott vizsgálat eredményeként az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó azt állapítja meg, hogy a továbbítandó adatok pontatlanok, hiányosak vagy már nem naprakészek, azokat kizárólag abban az esetben továbbíthatja, ha
 
-(2) Az adatkezelő, illetve tevékenységi körében az adatfeldolgozó köteles gondoskodni az adatok biztonságáról, köteles továbbá megtenni azokat a technikai és szervezési intézkedéseket és kialakítani azokat az eljárási szabályokat, amelyek e törvény, valamint az egyéb adat- és titokvédelmi szabályok érvényre juttatásához szükségesek.
+- a) az az adattovábbítás céljának megvalósulásához elengedhetetlenül szükséges, és
+- b) az adattovábbítással egyidejűleg tájékoztatja a címzettet az adatok pontosságával, teljességével és naprakészségével összefüggésben rendelkezésére álló információkról.
 
-(3) Az adatokat megfelelő intézkedésekkel védeni kell különösen a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés vagy megsemmisítés, valamint a véletlen megsemmisülés és sérülés, továbbá az alkalmazott technika megváltozásából fakadó hozzáférhetetlenné válás ellen.
+(3) Ha az adattovábbítást követően jut az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó tudomására, hogy az adattovábbítás törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott feltételei nem teljesültek, arról a címzettet haladéktalanul értesíti.
 
-(4) A különböző nyilvántartásokban elektronikusan kezelt adatállományok védelme érdekében megfelelő technikai megoldással biztosítani kell, hogy a nyilvántartásokban tárolt adatok – kivéve ha azt törvény lehetővé teszi – közvetlenül ne legyenek összekapcsolhatók és az érintetthez rendelhetők.
-
-(5) A személyes adatok automatizált feldolgozása során az adatkezelő és az adatfeldolgozó további intézkedésekkel biztosítja
-
-- a) a jogosulatlan adatbevitel megakadályozását;
-- b) az automatikus adatfeldolgozó rendszerek jogosulatlan személyek általi, adatátviteli berendezés segítségével történő használatának megakadályozását;
-- c) annak ellenőrizhetőségét és megállapíthatóságát, hogy a személyes adatokat adatátviteli berendezés alkalmazásával mely szerveknek továbbították vagy továbbíthatják;
-- d) annak ellenőrizhetőségét és megállapíthatóságát, hogy mely személyes adatokat, mikor és ki vitte be az automatikus adatfeldolgozó rendszerekbe;
-- e) a telepített rendszerek üzemzavar esetén történő helyreállíthatóságát és
-- f) azt, hogy az automatizált feldolgozás során fellépő hibákról jelentés készüljön.
-
-(6) Az adatkezelőnek és az adatfeldolgozónak az adatok biztonságát szolgáló intézkedések meghatározásakor és alkalmazásakor tekintettel kell lenni a technika mindenkori fejlettségére. Több lehetséges adatkezelési megoldás közül azt kell választani, amely a személyes adatok magasabb szintű védelmét biztosítja, kivéve, ha az aránytalan nehézséget jelentene az adatkezelőnek.
-
-#### 7. Adattovábbítás külföldre
-
-8. § (1) Személyes adatot e törvény hatálya alá tartozó adatkezelő vagy adatfeldolgozó harmadik országban adatkezelést folytató adatkezelő részére akkor továbbíthat, vagy harmadik országban adatfeldolgozást végző adatfeldolgozó részére akkor adhat át, ha
-
-- a) ahhoz az érintett kifejezetten hozzájárult, vagy
-- b) az adatkezelésnek az 5. §-ban, illetve a 6. §-ban előírt feltételei teljesülnek, és – a 6. § (2) bekezdésében foglalt esetet kivéve – a harmadik országban az átadott adatok kezelése, valamint feldolgozása során biztosított a személyes adatok megfelelő szintű védelme.
-
-(2) A személyes adatok megfelelő szintű védelme akkor biztosított, ha
-
-- a) az Európai Unió kötelező jogi aktusa azt megállapítja,
-- b) a harmadik ország és Magyarország között az érintetteknek a 14. §-ban foglalt jogai érvényesítésére, a jogorvoslati jog biztosítására, valamint az adatkezelés, illetve az adatfeldolgozás független ellenőrzésére vonatkozó garanciális szabályokat tartalmazó nemzetközi szerződés van hatályban, vagy
-- c) az adatkezelés, illetve az adatfeldolgozás kötelező szervezeti szabályozásnak megfelelően történik.
-
-(3) Személyes adatok a nemzetközi jogsegélyről, az adóügyi információcseréről, valamint a kettős adóztatás elkerüléséről szóló nemzetközi szerződés végrehajtása érdekében, a nemzetközi szerződésben meghatározott célból, feltételekkel és adatkörben – a (2) bekezdésben meghatározott feltételek hiányában is – továbbíthatók harmadik országba.
-
-(4) Az EGT-államba irányuló adattovábbítást úgy kell tekinteni, mintha Magyarország területén belüli adattovábbításra kerülne sor.
-
-#### 8. Az adatkezelés korlátai
-
-9. § (1) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusának rendelkezése alapján az adatkezelő személyes adatot akként vesz át, hogy az adattovábbító adatkezelő az adattovábbítással egyidejűleg jelzi a személyes adat
+9. § (1) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusának rendelkezése alapján az adatkezelő vagy az adatfeldolgozó személyes adatot akként vesz át, hogy az adattovábbító adatkezelő vagy adatfeldolgozó az adattovábbítással egyidejűleg jelzi a személyes adat
 
 - a) kezelésének lehetséges célját,
 - b) kezelésének lehetséges időtartamát,
 - c) továbbításának lehetséges címzettjeit,
 - d) érintettje e törvényben biztosított jogainak korlátozását, vagy
-- e) kezelésének egyéb korlátozását
+- e) kezelésének egyéb feltételeit
 
-(a továbbiakban együtt: adatkezelési korlátozás), a személyes adatokat átvevő adatkezelő (a továbbiakban: adatátvevő) a személyes adatot az adatkezelési korlátozásnak megfelelő terjedelemben és módon kezeli, az érintett jogait az adatkezelési korlátozásnak megfelelően biztosítja.
+[az a)–e) pont a továbbiakban együtt: adatkezelési feltételek], a személyes adatokat átvevő adatkezelő és adatfeldolgozó (a továbbiakban: adatátvevő) a személyes adatot az adatkezelési feltételeknek megfelelő terjedelemben és módon kezeli, az érintett jogait az adatkezelési feltételeknek megfelelően biztosítja.
 
-(2) Az adatátvevő az adatkezelési korlátozásra tekintet nélkül is kezelheti a személyes adatot és biztosíthatja az érintett jogait, ha ahhoz az adattovábbító adatkezelő előzetes hozzájárulását adta.
+(2) Az adatátvevő az adatkezelési feltételekre tekintet nélkül is kezelheti a személyes adatot és biztosíthatja az érintett jogait, ha ahhoz az adattovábbító adatkezelő előzetes jóváhagyását adta.
 
-(3) Törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusának rendelkezése alapján az adatkezelő a személyes adat továbbításával egyidejűleg a címzettet tájékoztatja az alkalmazandó adatkezelési korlátozásról.
+(3) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusának rendelkezése alapján az adatkezelő vagy az adatfeldolgozó adatkezelési feltételek alkalmazásának kötelezettségével kezel személyes adatot, annak továbbításával egyidejűleg tájékoztatja a címzettet az adatkezelési feltételekről és az azok alkalmazására vonatkozó jogi kötelezettségről.
 
-(4) A (2) bekezdésben meghatározott hozzájárulást az adatkezelő akkor adhatja meg, ha az nem ütközik a Magyarország joghatósága alatt álló jogalanyok tekintetében alkalmazandó jogi rendelkezésbe.
+(4) Ha a (2) bekezdésben, továbbá a 10. § (2) bekezdés c) pont ca) alpontjában meghatározott előzetes jóváhagyás megadására az e törvény hatálya alá tartozó adatkezelő jogosult, ezen előzetes jóváhagyást az adatkezelő akkor jogosult megadni, ha az az adattovábbítás körülményeit – ideértve az adattovábbítás szükségességét és célját – figyelembe véve nem ütközik a Magyarország joghatósága alatt álló jogalanyok tekintetében alkalmazandó jogi rendelkezésbe, így különösen, ha az adattovábbítás – ideértve a közvetett adattovábbítást is – címzettje tekintetében a személyes adatok megfelelő szintű védelme a 10. § (4) bekezdés a)–c) pontjában foglaltak alapján vélelmezhető.
 
 (5) Az adattovábbító adatkezelőt – kérelmére – az adatátvevő tájékoztatja az átvett személyes adatok felhasználásáról.
 
-#### 9. Adatfeldolgozás
+10. § (1) Személyes adatot az e törvény hatálya alá tartozó adatkezelő vagy adatfeldolgozó harmadik országban, továbbá nemzetközi szervezet keretein belül adatkezelést folytató adatkezelő vagy adatfeldolgozó részére – a közvetett adattovábbítást is ideértve – akkor továbbíthat (a továbbiakban együtt: nemzetközi adattovábbítás), ha
 
-10. § (1) Az adatfeldolgozónak a személyes adatok feldolgozásával kapcsolatos jogait és kötelezettségeit e törvény, valamint az adatkezelésre vonatkozó külön törvények keretei között az adatkezelő határozza meg. Az általa adott utasítások jogszerűségéért az adatkezelő felel.
+- a) a nemzetközi adattovábbításhoz az érintett kifejezetten hozzájárult, vagy
+- b) a nemzetközi adattovábbítás az adatkezelés céljának eléréséhez szükséges, valamint
+  - ba) annak során az adatkezelésnek az 5. §-ban előírt feltételei teljesülnek, és
+  - bb) a harmadik országban, illetve a nemzetközi szervezet keretein belül adatkezelést folytató adatkezelő vagy adatfeldolgozó tekintetében a továbbított személyes adatok megfelelő szintű védelme biztosított, vagy
+- c) a nemzetközi adattovábbítás a 11. §-ban meghatározott kivételes esetekben szükséges.
 
-(2) Az adatfeldolgozó az adatkezelő rendelkezése szerint vehet igénybe további adatfeldolgozót.
+(2) Bűnüldözési célú adatkezelés esetén nemzetközi adattovábbításra az (1) bekezdésben meghatározott feltételek teljesülése esetén is csak akkor kerülhet sor, ha
 
-(3) Az adatfeldolgozó az adatkezelést érintő érdemi döntést nem hozhat, a tudomására jutott személyes adatokat kizárólag az adatkezelő rendelkezései szerint dolgozhatja fel, saját céljára adatfeldolgozást nem végezhet, továbbá a személyes adatokat az adatkezelő rendelkezései szerint köteles tárolni és megőrizni.
+- a) az bűnüldözési célból szükséges,
+- b) annak címzettje
+  - ba) bűnüldözési adatkezelést folytató szerv, vagy
+  - bb) nem bűnüldözési adatkezelést folytató szerv és a 11. § (3) bekezdésében meghatározott feltételek teljesülnek, és
+- c) nemzetközi adattovábbítással érintett személyes adatnak valamely EGT-állam adatkezelőjétől történő átvétele esetén,
+  - ca) a nemzetközi adattovábbítást ezen személyes adatok tekintetében az EGT-állam adatkezelője vagy képviseletében eljáró más szerv vagy személy előzetesen jóváhagyta, vagy
+  - cb) – a közvetett adattovábbítás kivételével – a nemzetközi adattovábbítás Magyarország vagy valamely más EGT-állam alapvető érdekeit vagy ezen államok vagy harmadik ország közbiztonságát fenyegető súlyos és közvetlen veszély megelőzése érdekében szükséges és a ca) alpont szerinti előzetes jóváhagyás beszerzése ezen érdekek sérelme nélkül a nemzetközi adattovábbítást megelőzően nem lehetséges.
 
-(4) Az adatfeldolgozásra vonatkozó szerződést írásba kell foglalni. Az adatfeldolgozással nem bízható meg olyan szervezet, amely a feldolgozandó személyes adatokat felhasználó üzleti tevékenységben érdekelt.
+(3) Az adatkezelő a (2) bekezdés c) pont cb) alpontjában meghatározott nemzetközi adattovábbítást követően arról haladéktalanul tájékoztatja a (2) bekezdés c) pont ca) alpontja szerinti előzetes jóváhagyásra jogosult szervet vagy személyt.
 
-#### 10. Automatizált adatfeldolgozással hozott döntés
+(4) A személyes adatok megfelelő szintű védelmét – az ellenkező bizonyításáig – biztosítottnak kell tekinteni, ha
 
-11. § (1) Kizárólag automatizált adatfeldolgozással az érintett személyes jellemzőinek értékelésén alapuló döntés meghozatalára csak akkor kerülhet sor, ha a döntést
+- a) az Európai Unió kötelező jogi aktusa azt megállapítja,
+- b) az a) pont szerinti jogi aktus hiányában vagy alkalmazásának felfüggesztése esetén az érintetteknek a 14. §-ban, a 22. §-ban és a 23. §-ban foglalt jogai érvényesítésére vonatkozó garanciális szabályokat tartalmazó nemzetközi szerződés alkalmazandó Magyarország és azon harmadik ország, illetve nemzetközi szervezet között, amelynek joghatósága kiterjed a nemzetközi adattovábbítás címzettjére, vagy
+- c) az a)–b) pontban meghatározott jogi aktus hiányában vagy alkalmazásának felfüggesztése esetén a nemzetközi adattovábbítást megelőzően az adatkezelő a személyes adatok továbbításának valamennyi körülményét megvizsgálta és megállapította, hogy a személyes adatok megfelelő szintű védelme tekintetében megfelelő garanciák állnak fenn.
 
-- a) valamely szerződés megkötése vagy teljesítése során hozták, feltéve hogy azt az érintett kezdeményezte, vagy
-- b) olyan törvény teszi lehetővé, amely az érintett jogos érdekeit biztosító intézkedéseket is megállapítja.
+11. § (1) Ha a személyes adatok megfelelő szintű védelme a 10. § (4) bekezdés a)–c) pontjában foglaltak alapján nem vélelmezhető, nemzetközi adattovábbítás az érintett kifejezett hozzájárulásának hiányában kizárólag abban az esetben lehetséges, ha az
 
-(2) Az automatizált adatfeldolgozással hozott döntés esetén az érintettet – kérelmére – tájékoztatni kell az alkalmazott módszerről és annak lényegéről, valamint az érintettnek álláspontja kifejtésére lehetőséget kell biztosítani.
+- a) az érintett vagy más személy létfontosságú érdekeinek védelme érdekében szükséges,
+- b) valamely EGT-állam vagy harmadik ország közbiztonságát közvetlenül és súlyosan fenyegető veszély elhárítása érdekében szükséges,
+- c) egyedi ügyben, eseti jelleggel az adatkezelő által végzett vizsgálatok vagy eljárások hatékony és eredményes lefolytatása érdekében szükséges, és az nem jár az érintett alapvető jogainak aránytalan korlátozásával, vagy
+- d) egyedi ügyben, eseti jelleggel az érintett vagy más jogi igényeinek előterjesztése, érvényesítése, illetve védelme érdekében szükséges, és az nem jár az érintett alapvető jogainak aránytalan korlátozásával.
 
-#### 11. Személyes adatok kezelése tudományos kutatás során
+(2) Bűnüldözési célú adatkezelés esetén, ha a nemzetközi adattovábbítás címzettje bűnüldözési adatkezelést folytató szerv és a személyes adatok megfelelő szintű védelme a 10. § (4) bekezdés a)–c) pontjában foglaltak alapján nem vélelmezhető, nemzetközi adattovábbítás az érintett kifejezett hozzájárulásának hiányában kizárólag abban az esetben lehetséges, ha az
 
-12. § (1) Tudományos kutatás céljára felvett személyes adat csak tudományos kutatás céljára használható fel.
+- a) az (1) bekezdés a) és b) pontjában meghatározott valamely célból szükséges,
+- b) az érintett jogos érdekének érvényesítéséhez szükséges,
+- c) valamely bűnüldözési célból egyedi ügyben, eseti jelleggel szükséges, és az nem jár az érintett alapvető jogainak aránytalan korlátozásával, vagy
+- d) valamely bűnüldözési célhoz kapcsolódó jogi igények előterjesztésére, érvényesítésére, illetve védelmére irányuló egyedi ügyben, eseti jelleggel szükséges, és az nem jár az érintett alapvető jogainak aránytalan korlátozásával.
 
-(2) A személyes adat érintettel való kapcsolatának megállapítását – mihelyt a kutatási cél megengedi – véglegesen lehetetlenné kell tenni. Ennek megtörténtéig is külön kell tárolni azokat az adatokat, amelyek meghatározott vagy meghatározható természetes személy azonosítására alkalmasak. Ezek az adatok egyéb adatokkal csak akkor kapcsolhatók össze, ha az a kutatás céljára szükséges.
+(3) Bűnüldözési célú adatkezelés esetén, ha a nemzetközi adattovábbítás címzettje nem bűnüldözési adatkezelést folytató szerv, nemzetközi adattovábbítás az érintett kifejezett hozzájárulásának hiányában kizárólag egyedi ügyben, eseti jelleggel, abban az esetben lehetséges, ha
 
-(3) A tudományos kutatást végző szerv vagy személy személyes adatot csak akkor hozhat nyilvánosságra, ha
+- a) az a nemzetközi adattovábbítást végző adatkezelő feladat- és hatáskörébe tartozó bűnüldözési célból feltétlenül szükséges,
+- b) az nem jár az érintett alapvető jogainak aránytalan korlátozásával,
+- c) bűnüldözési adatkezelést folytató szerv részére történő nemzetközi adattovábbítás útján a nemzetközi adattovábbítás célja hatékonyan nem érhető el,
+- d) a nemzetközi adattovábbítást végző adatkezelő a nemzetközi adattovábbítás tekintetében joghatósággal rendelkező harmadik országbeli vagy nemzetközi szervezet keretében bűnüldözési adatkezelést folytató szervet a nemzetközi adattovábbításról haladéktalanul tájékoztatja, kivéve, ha ezen tájékoztatás esetén a nemzetközi adattovábbítás célja hatékonyan nem érhető el, és
+- e) a nemzetközi adattovábbítást végző adatkezelő tájékoztatja a címzettet a továbbított adatok kezelésének lehetséges céljáról.
 
-- a) az érintett ahhoz hozzájárult, vagy
-- b) az a történelmi eseményekről folytatott kutatások eredményeinek bemutatásához szükséges.
+12. § (1) Ha az adatkezelő vagy az adatfeldolgozó a nemzetközi adattovábbítást
 
-#### 12. Személyes adatok felhasználása statisztikai célra
+- a) a 10. § (4) bekezdés c) pontjában foglalt vélelemre alapítja, vagy
+- b) bűnüldözési célú adatkezelés esetén nem bűnüldözési adatkezelést folytató szerv címzett részére végzi,
 
-13. § (1) A kötelező adatkezelés keretében kezelt személyes adatokat – ha törvény eltérően nem rendelkezik – a Központi Statisztikai Hivatal statisztikai célból egyedi azonosításra alkalmas módon átveheti és törvényben meghatározottak szerint kezelheti.
+az adatkezelő az azonos célból, azonos címzett részére, első alkalommal történő nemzetközi adattovábbítást követően haladéktalanul tájékoztatja a Hatóságot a nemzetközi adattovábbítás céljáról, a továbbított adatok címzettjéről és köréről, valamint – az a) pontban meghatározott esetben – a nemzetközi adattovábbítás rendszerességéről.
 
-(2) A statisztikai célra felvett, átvett vagy feldolgozott személyes adatok – ha törvény eltérően nem rendelkezik – csak statisztikai célra kezelhetők. A személyes adatok statisztikai célra történő kezelésének részletes szabályait külön törvény határozza meg.
+(2) Ha az adatkezelő vagy az adatfeldolgozó a nemzetközi adattovábbítást
 
-#### 13. Az érintettek jogai és érvényesítésük
+- a) a 10. § (4) bekezdés c) pontjában foglalt vélelemre alapítja, vagy
+- b) bűnüldözési célú adatkezelés esetén
+  - ba) bűnüldözési adatkezelést folytató szerv részére a 11. § (2) bekezdésben meghatározottak szerint végzi, vagy
+  - bb) nem bűnüldözési adatkezelést folytató szerv címzett részére végzi,
 
-14. § Az érintett kérelmezheti az adatkezelőnél
+az adatkezelő a nemzetközi adattovábbítás körülményeit, így különösen az (1) bekezdésben meghatározott adatokat, továbbá a nemzetközi adattovábbítás időpontját, a továbbított személyes adatokat, valamint – az a) pontban meghatározott esetben – az adatkezelő által vizsgált és megfelelően azonosított garanciák megnevezését dokumentálja, e dokumentációt a 25/F. § (4) bekezdésében meghatározott ideig megőrzi és azt a Hatóság kérésére rendelkezésére bocsátja.
 
-- a) tájékoztatását személyes adatai kezeléséről,
-- b) személyes adatainak helyesbítését, valamint
-- c) személyes adatainak – a kötelező adatkezelés kivételével – törlését vagy zárolását.
+13. § (1) Az EGT-államba, valamint az Európai Unió működéséről szóló szerződés V. címének 4. és 5. fejezete szerint létrehozott ügynökségek, hivatalok és szervek részére irányuló adattovábbítást úgy kell tekinteni, mintha Magyarország területén belüli adattovábbításra kerülne sor.
 
-15. § (1) Az érintett kérelmére az adatkezelő tájékoztatást ad az érintett általa kezelt, illetve az általa vagy rendelkezése szerint megbízott adatfeldolgozó által feldolgozott adatairól, azok forrásáról, az adatkezelés céljáról, jogalapjáról, időtartamáról, az adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységéről, az adatvédelmi incidens körülményeiről, hatásairól és az elhárítására megtett intézkedésekről, továbbá – az érintett személyes adatainak továbbítása esetén – az adattovábbítás jogalapjáról és címzettjéről.
+(2) Nemzetközi adattovábbítás az általános adatvédelmi rendelet 96. cikkében, valamint a 2016/680 (EU) irányelv 61. cikkében meghatározott nemzetközi szerződések alapján az azokban meghatározott célokból, feltételekkel és adatkörben – azok módosításáig, megszüntetéséig, megszűnéséig vagy alkalmazásuk felfüggesztéséig – az e törvényben meghatározott feltételek hiányában is végezhető.
 
-(1a) Az adatkezelő – ha belső adatvédelmi felelőssel rendelkezik, a belső adatvédelmi felelős útján – az adatvédelmi incidenssel kapcsolatos intézkedések ellenőrzése, valamint az érintett tájékoztatása céljából nyilvántartást vezet, amely tartalmazza az érintett személyes adatok körét, az adatvédelmi incidenssel érintettek körét és számát, az adatvédelmi incidens időpontját, körülményeit, hatásait és az elhárítására megtett intézkedéseket, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat.
+### II/A. Fejezet — AZ ÉRINTETT JOGAI
 
-(1b) Az elektronikus hírközlésről szóló törvény hatálya alá tartozó adatkezelő az (1a) bekezdésben meghatározott kötelezettségét az elektronikus hírközlésről szóló törvényben meghatározott, a személyes adatok megsértésének eseteit tartalmazó nyilvántartás vezetésével is teljesítheti.
+#### 7. Az érintettet megillető jogosultságok
 
-(2) Az adatkezelő az adattovábbítás jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából adattovábbítási nyilvántartást vezet, amely tartalmazza az általa kezelt személyes adatok továbbításának időpontját, az adattovábbítás jogalapját és címzettjét, a továbbított személyes adatok körének meghatározását, valamint az adatkezelést előíró jogszabályban meghatározott egyéb adatokat.
+14. § Az érintett jogosult arra, hogy az adatkezelő és az annak megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatai vonatkozásában az e törvényben meghatározott feltételek szerint
 
-(3) Az (1a) és a (2) bekezdés szerinti adatok nyilvántartásban való megőrzésére irányuló – és ennek alapján a tájékoztatási – kötelezettség időtartamát az adatkezelést előíró jogszabály korlátozhatja. E korlátozás körében személyes adatok esetében öt évnél, különleges adatok esetében pedig húsz évnél rövidebb időtartam nem állapítható meg.
+- a) az adatkezeléssel összefüggő tényekről az adatkezelés megkezdését megelőzően tájékoztatást kapjon (a továbbiakban: előzetes tájékozódáshoz való jog),
+- b) kérelmére személyes adatait és az azok kezelésével összefüggő információkat az adatkezelő a rendelkezésére bocsássa (a továbbiakban: hozzáféréshez való jog),
+- c) kérelmére, valamint az e fejezetben meghatározott további esetekben személyes adatait az adatkezelő helyesbítse, illetve kiegészítse (a továbbiakban: helyesbítéshez való jog),
+- d) kérelmére, valamint az e fejezetben meghatározott további esetekben személyes adatai kezelését az adatkezelő korlátozza (a továbbiakban: az adatkezelés korlátozásához való jog),
+- e) kérelmére, valamint az e fejezetben meghatározott további esetekben személyes adatait az adatkezelő törölje (a továbbiakban: törléshez való jog).
 
-(4) Az adatkezelő köteles a kérelem benyújtásától számított legrövidebb idő alatt, legfeljebb azonban 25 napon belül, közérthető formában, az érintett erre irányuló kérelmére írásban megadni a tájékoztatást.
+#### 8. Az érintett jogai érvényesülésének biztosítása
 
-(5) A (4) bekezdésben foglalt tájékoztatás ingyenes, ha a tájékoztatást kérő a folyó évben azonos adatkörre vonatkozóan tájékoztatási kérelmet az adatkezelőhöz még nem nyújtott be. Egyéb esetekben költségtérítés állapítható meg. A költségtérítés mértékét a felek között létrejött szerződés is rögzítheti. A már megfizetett költségtérítést vissza kell téríteni, ha az adatokat jogellenesen kezelték, vagy a tájékoztatás kérése helyesbítéshez vezetett.
+15. § (1) Az adatkezelő az érintett jogai érvényesülésének elősegítése érdekében megfelelő műszaki és szervezési intézkedéseket tesz, így különösen
 
-16. § (1) Az érintett tájékoztatását az adatkezelő csak a 9. § (1) bekezdésében, valamint a 19. §-ban meghatározott esetekben tagadhatja meg.
+- a) az érintett részére az e törvényben meghatározott esetekben nyújtandó bármely értesítést és tájékoztatást könnyen hozzáférhető és olvasható formában, lényegre törő, világos és közérthetően megfogalmazott tartalommal teljesíti, és
+- b) az érintett által benyújtott, az őt megillető jogosultságok érvényesítésére irányuló kérelmet annak benyújtásától számított legrövidebb idő alatt, de legfeljebb huszonöt napon belül elbírálja és döntéséről az érintettet írásban vagy ha az érintett a kérelmet elektronikus úton nyújtotta be, elektronikus úton értesíti.
 
-(2) A tájékoztatás megtagadása esetén az adatkezelő írásban közli az érintettel, hogy a felvilágosítás megtagadására e törvény mely rendelkezése alapján került sor. A felvilágosítás megtagadása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.
+(2) Az adatkezelő a 14. §-ban meghatározott jogok érvényesülésével kapcsolatban az e törvényben meghatározott feladatait – a (3) bekezdésben meghatározott kivétellel – ingyenesen látja el.
 
-(3) Az elutasított kérelmekről az adatkezelő a Hatóságot évente a tárgyévet követő év január 31-éig értesíti.
+(3) Ha az érintett
 
-17. § (1) Ha a személyes adat a valóságnak nem felel meg, és a valóságnak megfelelő személyes adat az adatkezelő rendelkezésére áll, a személyes adatot az adatkezelő helyesbíti.
+- a) a folyó évben, azonos adatkörre vonatkozóan a 14. § b)–e) pontjaiban meghatározott jogai érvényesítése iránt ismételten kérelmet nyújt be, és
+- b) e kérelme alapján az adatkezelő vagy az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatainak helyesbítését, törlését vagy az adatkezelés korlátozását az adatkezelő jogszerűen mellőzi,
 
-(2) A személyes adatot törölni kell, ha
+az adatkezelő az érintett jogainak az a) és b) pontban foglaltak szerinti ismételt és megalapozatlan érvényesítésével összefüggésben közvetlenül felmerült költségeinek megtérítését követelheti az érintettől.
 
-- a) kezelése jogellenes;
-- b) az érintett – a 14. § c) pontjában foglaltak szerint – kéri;
-- c) az hiányos vagy téves – és ez az állapot jogszerűen nem orvosolható –, feltéve, hogy a törlést törvény nem zárja ki;
-- d) az adatkezelés célja megszűnt, vagy az adatok tárolásának törvényben meghatározott határideje lejárt;
-- e) azt a bíróság vagy a Hatóság elrendelte.
+(4) Ha megalapozottan feltehető, hogy a 14. § b)–e) pontjában meghatározott jogok érvényesítése iránt kérelmet benyújtó személy az érintettel nem azonos személy, az adatkezelő a kérelmet az azt benyújtó személy személyazonosságának hitelt érdemlő igazolását követően teljesíti.
 
-(3) A (2) bekezdés d) pontjában meghatározott esetben a törlési kötelezettség nem vonatkozik azon személyes adatra, amelynek adathordozóját a levéltári anyag védelmére vonatkozó jogszabály értelmében levéltári őrizetbe kell adni.
+16. § (1) Az előzetes tájékozódáshoz való jog érvényesülése érdekében az adatkezelő az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési műveletek megkezdését megelőzően vagy legkésőbb az első adatkezelési művelet megkezdését követően haladéktalanul az érintett rendelkezésére bocsátja
 
-(4) Törlés helyett az adatkezelő zárolja a személyes adatot, ha az érintett ezt kéri, vagy ha a rendelkezésére álló információk alapján feltételezhető, hogy a törlés sértené az érintett jogos érdekeit. Az így zárolt személyes adat kizárólag addig kezelhető, ameddig fennáll az az adatkezelési cél, amely a személyes adat törlését kizárta.
+- a) az adatkezelő és – ha valamely adatkezelési műveletet adatfeldolgozó végez, az adatfeldolgozó – megnevezését és elérhetőségeit,
+- b) az adatvédelmi tisztviselő nevét és elérhetőségeit,
+- c) a tervezett adatkezelés célját és
+- d) az érintettet e törvény alapján megillető jogok, valamint azok érvényesítése módjának ismertetését.
 
-(5) Az adatkezelő megjelöli az általa kezelt személyes adatot, ha az érintett vitatja annak helyességét vagy pontosságát, de a vitatott személyes adat helytelensége vagy pontatlansága nem állapítható meg egyértelműen.
+(2) Az (1) bekezdésben foglaltakkal egyidejűleg, azzal azonos módon vagy az érintettnek címzetten az adatkezelő az érintett számára tájékoztatást nyújt
 
-18. § (1) A helyesbítésről, a zárolásról, a megjelölésről és a törlésről az érintettet, továbbá mindazokat értesíteni kell, akiknek korábban az adatot adatkezelés céljára továbbították. Az értesítés mellőzhető, ha ez az adatkezelés céljára való tekintettel az érintett jogos érdekét nem sérti.
+- a) az adatkezelés jogalapjáról,
+- b) a kezelt személyes adatok megőrzésének időtartamáról, ezen időtartam meghatározásának szempontjairól,
+- c) a kezelt személyes adatok továbbítása vagy tervezett továbbítása esetén az adattovábbítás címzettjeinek – ideértve a harmadik országbeli címzetteket és nemzetközi szervezeteket – köréről,
+- d) a kezelt személyes adatok gyűjtésének forrásáról és
+- e) az adatkezelés körülményeivel összefüggő minden további érdemi tényről.
 
-(2) Ha az adatkezelő az érintett helyesbítés, zárolás vagy törlés iránti kérelmét nem teljesíti, a kérelem kézhezvételét követő 25 napon belül írásban vagy az érintett hozzájárulásával elektronikus úton közli a helyesbítés, zárolás vagy törlés iránti kérelem elutasításának ténybeli és jogi indokait. A helyesbítés, törlés vagy zárolás iránti kérelem elutasítása esetén az adatkezelő tájékoztatja az érintettet a bírósági jogorvoslat, továbbá a Hatósághoz fordulás lehetőségéről.
+(3) A (2) bekezdésben foglaltak szerinti tájékoztatás teljesítését az elérni kívánt céllal arányosan az adatkezelő késleltetheti, a tájékoztatás tartalmát korlátozhatja vagy a tájékoztatást mellőzheti, ha ezen intézkedése elengedhetetlenül szükséges
 
-19. § Az érintettnek a 14–18. §-ban meghatározott jogait törvény korlátozhatja az állam külső és belső biztonsága, így a honvédelem, a nemzetbiztonság, a bűncselekmények megelőzése vagy üldözése, a büntetés-végrehajtás biztonsága érdekében, továbbá állami vagy önkormányzati gazdasági vagy pénzügyi érdekből, az Európai Unió jelentős gazdasági vagy pénzügyi érdekéből, valamint a foglalkozások gyakorlásával összefüggő fegyelmi és etikai vétségek, a munkajogi és munkavédelmi kötelezettségszegések megelőzése és feltárása céljából – beleértve minden esetben az ellenőrzést és a felügyeletet is –, továbbá az érintett vagy mások jogainak védelme érdekében.
+- a) az általa vagy részvételével végzett vizsgálatok vagy eljárások – így különösen a büntetőeljárás – hatékony és eredményes lefolytatásának,
+- b) a bűncselekmények hatékony és eredményes megelőzésének és felderítésének,
+- c) a bűncselekmények elkövetőivel szemben alkalmazott büntetések és intézkedések végrehajtásának,
+- d) a közbiztonság hatékony és eredményes védelmének,
+- e) az állam külső és belső biztonsága hatékony és eredményes védelmének, így különösen a honvédelem és a nemzetbiztonság vagy
+- f) harmadik személyek alapvető jogai védelmének
 
-#### 14. Az érintett előzetes tájékoztatásának követelménye
+biztosításához.
 
-20. § (1) Az érintettel az adatkezelés megkezdése előtt közölni kell, hogy az adatkezelés hozzájáruláson alapul vagy kötelező.
+17. § (1) A hozzáféréshez való jog érvényesülése érdekében az érintettet kérelmére az adatkezelő tájékoztatja arról, hogy személyes adatait maga az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó kezeli-e.
 
-(2) Az érintettet az adatkezelés megkezdése előtt egyértelműen és részletesen tájékoztatni kell az adatai kezelésével kapcsolatos minden tényről, így különösen az adatkezelés céljáról és jogalapjáról, az adatkezelésre és az adatfeldolgozásra jogosult személyéről, az adatkezelés időtartamáról, arról, ha az érintett személyes adatait az adatkezelő a 6. § (5) bekezdése alapján kezeli, illetve arról, hogy kik ismerhetik meg az adatokat. A tájékoztatásnak ki kell terjednie az érintett adatkezeléssel kapcsolatos jogaira és jogorvoslati lehetőségeire is.
+(2) Ha az érintett személyes adatait az adatkezelő vagy a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó kezeli, az adatkezelő az (1) bekezdésben meghatározottakon túl az érintett rendelkezésére bocsátja az érintett általa és a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatait, és közli vele
 
-(3) Kötelező adatkezelés esetén a tájékoztatás megtörténhet a (2) bekezdés szerinti információkat tartalmazó jogszabályi rendelkezésekre való utalás nyilvánosságra hozatalával is.
+- a) a kezelt személyes adatok forrását,
+- b) az adatkezelés célját és jogalapját,
+- c) a kezelt személyes adatok körét,
+- d) a kezelt személyes adatok továbbítása esetén az adattovábbítás címzettjeinek – ideértve a harmadik országbeli címzetteket és nemzetközi szervezeteket – körét,
+- e) a kezelt személyes adatok megőrzésének időtartamát, ezen időtartam meghatározásának szempontjait,
+- f) az érintettet e törvény alapján megillető jogok, valamint azok érvényesítése módjának ismertetését,
+- g) profilalkotás alkalmazásának esetén annak tényét és
+- h) az érintett személyes adatainak kezelésével összefüggésben felmerült adatvédelmi incidensek bekövetkezésének körülményeit, azok hatásait és az azok kezelésére tett intézkedéseket.
 
-(4) Ha az érintettek személyes tájékoztatása lehetetlen vagy aránytalan költséggel járna, a tájékoztatás megtörténhet az alábbi információk nyilvánosságra hozatalával is:
+(3) Az érintett hozzáféréshez való jogának érvényesítését az adatkezelő az elérni kívánt céllal arányosan korlátozhatja vagy megtagadhatja, ha ezen intézkedés elengedhetetlenül szükséges a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek biztosításához.
 
-- a) az adatgyűjtés ténye,
-- b) az érintettek köre,
-- c) az adatgyűjtés célja,
-- d) az adatkezelés időtartama,
-- e) az adatok megismerésére jogosult lehetséges adatkezelők személye,
-- f) az érintettek adatkezeléssel kapcsolatos jogainak és jogorvoslati lehetőségeinek ismertetése, valamint
-- g) ha az adatkezelés adatvédelmi nyilvántartásba vételének van helye, az adatkezelés nyilvántartási száma, kivéve a 68. § (2) bekezdésében foglalt esetet.
+(4) A (3) bekezdésben foglaltak szerinti intézkedés alkalmazása esetén az adatkezelő írásban, haladéktalanul tájékoztatja az érintettet
 
-#### 15. Tiltakozás személyes adat kezelése ellen
+- a) a hozzáférés korlátozásának vagy megtagadásának tényéről, továbbá jogi és ténybeli indokairól, ha ezeknek az érintett rendelkezésére bocsátása a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek érvényesülését nem veszélyezteti, valamint
+- b) az érintettet e törvény alapján megillető jogokról, valamint azok érvényesítésének módjáról, így különösen arról, hogy az érintett a hozzáféréshez való jogát a Hatóság közreműködésével is gyakorolhatja.
 
-21. § (1) Az érintett tiltakozhat személyes adatának kezelése ellen,
+18. § (1) A helyesbítéshez való jog érvényesülése érdekében az adatkezelő, ha az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok pontatlanok, helytelenek vagy hiányosak, azokat – különösen az érintett kérelmére – haladéktalanul pontosítja vagy helyesbíti, illetve ha az az adatkezelés céljával összeegyeztethető, az érintett által rendelkezésére bocsátott további személyes adatokkal vagy az érintett által a kezelt személyes adatokhoz fűzött nyilatkozattal kiegészíti (a továbbiakban együtt: helyesbítés).
 
-- a) ha a személyes adatok kezelése vagy továbbítása kizárólag az adatkezelőre vonatkozó jogi kötelezettség teljesítéséhez vagy az adatkezelő, adatátvevő vagy harmadik személy jogos érdekének érvényesítéséhez szükséges, kivéve kötelező adatkezelés esetén;
-- b) ha a személyes adat felhasználása vagy továbbítása közvetlen üzletszerzés, közvélemény-kutatás vagy tudományos kutatás céljára történik; valamint
-- c) törvényben meghatározott egyéb esetben.
+(2) Mentesül az (1) bekezdésben meghatározott kötelezettség alól az adatkezelő, ha
 
-(2) Az adatkezelő a tiltakozást a kérelem benyújtásától számított legrövidebb időn belül, de legfeljebb 15 napon belül megvizsgálja, annak megalapozottsága kérdésében döntést hoz, és döntéséről a kérelmezőt írásban tájékoztatja.
+- a) a pontos, helytálló, illetve hiánytalan személyes adatok nem állnak rendelkezésére és azokat az érintett sem bocsátja a rendelkezésére, vagy
+- b) az érintett által rendelkezésére bocsátott személyes adatok valódisága kétséget kizáróan nem állapítható meg.
 
-(3) Ha az adatkezelő az érintett tiltakozásának megalapozottságát megállapítja, az adatkezelést – beleértve a további adatfelvételt és adattovábbítást is – megszünteti, és az adatokat zárolja, valamint a tiltakozásról, továbbá az annak alapján tett intézkedésekről értesíti mindazokat, akik részére a tiltakozással érintett személyes adatot korábban továbbította, és akik kötelesek intézkedni a tiltakozási jog érvényesítése érdekében.
+(3) Ha az adatkezelő az (1) bekezdésben meghatározottak szerint az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatokat helyesbíti, annak tényéről és a helyesbített személyes adatról tájékoztatja azt az adatkezelőt, amely részére a helyesbítéssel érintett személyes adatot továbbította.
 
-(4) Ha az érintett az adatkezelőnek a (2) bekezdés alapján meghozott döntésével nem ért egyet, illetve ha az adatkezelő a (2) bekezdés szerinti határidőt elmulasztja, az érintett – a döntés közlésétől, illetve a határidő utolsó napjától számított 30 napon belül – a 22. §-ban meghatározott módon bírósághoz fordulhat.
+19. § (1) Az adatkezelés korlátozásához való jog érvényesülése érdekében az adatkezelő a (2) bekezdésben meghatározott adatkezelési műveletekre korlátozza az adatkezelést,
 
-(5) Ha az adatátvevő jogának érvényesítéséhez szükséges adatokat az érintett tiltakozása miatt nem kapja meg, a (3) bekezdés alapján történő értesítés közlésétől számított 15 napon belül, az adatokhoz való hozzájutás érdekében – a 22. §-ban meghatározott módon – bírósághoz fordulhat az adatkezelő ellen. Az adatkezelő az érintettet is perbe hívhatja.
+- a) ha az érintett vitatja az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok pontosságát, helytállóságát vagy hiánytalanságát, és a kezelt személyes adatok pontossága, helytállósága vagy hiánytalansága kétséget kizáróan nem állapítható meg, a fennálló kétség tisztázásának időtartamára,
+- b) ha a 20. § a) pontjában meghatározottak szerint az adatok törlésének lenne helye, de az érintett írásbeli nyilatkozata vagy az adatkezelő rendelkezésére álló információk alapján megalapozottan feltételezhető, hogy az adatok törlése sértené az érintett jogos érdekeit, a törlés mellőzését megalapozó jogos érdek fennállásának időtartamára,
+- c) ha a 20. § a) pontjában meghatározottak szerint az adatok törlésének lenne helye, de az adatkezelő vagy más közfeladatot ellátó szerv által vagy részvételével végzett, jogszabályban meghatározott vizsgálatok vagy eljárások – így különösen büntetőeljárás – során az adatok bizonyítékként való megőrzése szükséges, ezen vizsgálat vagy eljárás végleges, illetve jogerős lezárásáig,
+- d) ha a 20. § a) pontjában meghatározottak szerint az adatok törlésének lenne helye, de a 12. § (2) bekezdésében foglalt dokumentációs kötelezettség teljesítése céljából az adatok megőrzése szükséges, a 25/F. § (4) bekezdésben meghatározott időpontig.
 
-(6) Ha az adatkezelő a (3) bekezdés szerinti értesítést elmulasztja, az adatátvevő felvilágosítást kérhet az adatátadás meghiúsulásával kapcsolatos körülményekről az adatkezelőtől, amely felvilágosítást az adatkezelő az adatátvevő erre irányuló kérelmének kézbesítését követő 8 napon belül köteles megadni. Felvilágosítás kérése esetén az adatátvevő a felvilágosítás megadásától, de legkésőbb az arra nyitva álló határidőtől számított 15 napon belül fordulhat bírósághoz az adatkezelő ellen. Az adatkezelő az érintettet is perbe hívhatja.
+(2) Az adatkezelés korlátozásának időtartama alatt a korlátozással érintett személyes adatokkal az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a tároláson túl egyéb adatkezelési műveletet kizárólag az érintett jogos érdekének érvényesítése céljából vagy törvényben, nemzetközi szerződésben, illetve az Európai Unió kötelező jogi aktusában meghatározottak szerint végezhet.
 
-(7) Az adatkezelő az érintett adatát nem törölheti, ha az adatkezelést törvény rendelte el. Az adat azonban nem továbbítható az adatátvevő részére, ha az adatkezelő egyetértett a tiltakozással, vagy a bíróság a tiltakozás jogosságát megállapította.
+(3) Az (1) bekezdés a) pontjában meghatározott adatkezelési korlátozás megszüntetése esetén az adatkezelő az adatkezelés korlátozásának feloldásáról az érintettet előzetesen tájékoztatja.
 
-#### 16. Bírósági jogérvényesítés
+20. § A törléshez való jog érvényesítése érdekében az adatkezelő haladéktalanul törli az érintett személyes adatait, ha
 
-22. § (1) Az érintett a jogainak megsértése esetén, valamint a 21. §-ban meghatározott esetekben az adatátvevő az adatkezelő ellen bírósághoz fordulhat. A bíróság az ügyben soron kívül jár el.
+- a) az adatkezelés jogellenes, így különösen, ha az adatkezelés
+  - aa) a 4. §-ban rögzített alapelvekkel ellentétes,
+  - ab) célja megszűnt, vagy az adatok további kezelése már nem szükséges az adatkezelés céljának megvalósulásához,
+  - ac) törvényben, nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott időtartama eltelt, vagy
+  - ad) jogalapja megszűnt és az adatok kezelésének nincs másik jogalapja,
+- b) az érintett az adatkezeléshez adott hozzájárulását visszavonja vagy személyes adatainak törlését kérelmezi, kivéve, ha az adatok kezelése az 5. § (1) bekezdés a) vagy c) pontján vagy (2) bekezdés b) pontján alapul,
+- c) az adatok törlését jogszabály, az Európai Unió jogi aktusa, a Hatóság vagy a bíróság elrendelte, vagy
+- d) a 19. § (1) bekezdés b)–d) pontjában meghatározott időtartam eltelt.
 
-(2) Azt, hogy az adatkezelés a jogszabályban foglaltaknak megfelel, az adatkezelő köteles bizonyítani. A 21. § (5) és (6) bekezdése szerinti esetben a részére történő adattovábbítás jogszerűségét az adatátvevő köteles bizonyítani.
+21. § (1) Ha az érintett kérelmét az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok helyesbítésére, törlésére vagy ezen adatok kezelésének korlátozására az adatkezelő elutasítja, az érintettet írásban, haladéktalanul tájékoztatja
+
+- a) az elutasítás tényéről, annak jogi és ténybeli indokairól, valamint
+- b) az érintettet e törvény alapján megillető jogokról, valamint azok érvényesítésének módjáról, így különösen arról, hogy az adatkezelő, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt személyes adatok helyesbítésére, törlésére vagy ezen adatok kezelésének korlátozására vonatkozó jogát a Hatóság közreműködésével is gyakorolhatja.
+
+(2) Az (1) bekezdés a) pontjában foglaltak szerinti tájékoztatás teljesítését az adatkezelő az elérni kívánt céllal arányosan késleltetheti, a tájékoztatás tartalmát korlátozhatja vagy a tájékoztatást mellőzheti, ha ezen intézkedése elengedhetetlenül szükséges a 16. § (3) bekezdés a)–f) pontjában meghatározott valamely érdek biztosításához.
+
+(3) Ha az adatkezelő az általa, illetve a megbízásából vagy rendelkezése szerint eljáró adatfeldolgozó által kezelt személyes adatokat helyesbíti, törli vagy ezen adatok kezelését korlátozza, az adatkezelő ezen intézkedés tényéről és annak tartalmáról értesíti azon adatkezelőket és adatfeldolgozókat, amelyek részére az adatot ezen intézkedését megelőzően továbbította, annak érdekében, hogy azok a helyesbítést, törlést vagy az adatok kezelésének korlátozását a saját adatkezelésük tekintetében végrehajtsák.
+
+22. § Jogainak érvényesítése érdekében az érintett a VI. Fejezetben meghatározottak szerint
+
+- a) a Hatóság vizsgálatát kezdeményezheti az adatkezelő intézkedése jogszerűségének vizsgálata céljából, ha az adatkezelő a 14. §-ban meghatározott jogainak érvényesítését korlátozza vagy ezen jogainak érvényesítésére irányuló kérelmét elutasítja, valamint
+- b) a Hatóság adatvédelmi hatósági eljárásának lefolytatását kérelmezheti, ha megítélése szerint személyes adatainak kezelése során az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó megsérti a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat.
+
+23. § (1) Az érintett az adatkezelő, illetve – az adatfeldolgozó tevékenységi körébe tartozó adatkezelési műveletekkel összefüggésben – az adatfeldolgozó ellen bírósághoz fordulhat, ha megítélése szerint az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatait a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírások megsértésével kezeli.
+
+(2) Azt, hogy az adatkezelés a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásoknak – így különösen a 2. § (3) bekezdésének hatálya alá tartozó adatkezelések esetén a 4. § (1)–(4a) bekezdésben meghatározott alapvető követelményeknek – megfelel, az adatkezelő, illetve az adatfeldolgozó köteles bizonyítani.
 
 (3) A pert az érintett – választása szerint – a lakóhelye vagy tartózkodási helye szerint illetékes törvényszék előtt is megindíthatja.
 
 (4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az érintett pernyertessége érdekében beavatkozhat.
 
-(5) Ha a bíróság a kérelemnek helyt ad, az adatkezelőt a tájékoztatás megadására, az adat helyesbítésére, zárolására, törlésére, az automatizált adatfeldolgozással hozott döntés megsemmisítésére, az érintett tiltakozási jogának figyelembevételére, illetve a 21. §-ban meghatározott adatátvevő által kért adat kiadására kötelezi.
+(5) Ha a bíróság a keresetnek helyt ad, a jogsértés tényét megállapítja és az adatkezelőt, illetve az adatfeldolgozót
 
-(6) Ha a bíróság a 21. §-ban meghatározott esetekben az adatátvevő kérelmét elutasítja, az adatkezelő köteles az érintett személyes adatát az ítélet közlésétől számított 3 napon belül törölni. Az adatkezelő köteles az adatokat akkor is törölni, ha az adatátvevő a 21. § (5), illetve (6) bekezdésében meghatározott határidőn belül nem fordul bírósághoz.
+- a) a jogellenes adatkezelési művelet megszüntetésére,
+- b) az adatkezelés jogszerűségének helyreállítására, illetve
+- c) az érintett jogai érvényesülésének biztosítására pontosan meghatározott magatartás tanúsítására
 
-(7) A bíróság elrendelheti ítéletének – az adatkezelő azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha azt az adatvédelem érdekei és nagyobb számú érintett e törvényben védett jogai megkövetelik.
+kötelezi, és szükség esetén egyúttal határoz a kártérítés, sérelemdíj iránti igényről is.
 
-#### 17. Kártérítés és sérelemdíj
+(6) A bíróság elrendelheti ítéletének – az adatkezelő, illetve adatfeldolgozó azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha az ítélet személyek széles körét érinti, ha az alperes adatkezelő, illetve adatfeldolgozó közfeladatot ellátó szerv, vagy ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
 
-23. § (1) Ha az adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével másnak kárt okoz, köteles azt megtéríteni.
+24. § (1) Ha az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat megsérti és ezzel másnak kárt okoz, köteles azt megtéríteni.
 
-(2) Ha az adatkezelő az érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével az érintett személyiségi jogát megsérti, az érintett az adatkezelőtől sérelemdíjat követelhet.
+(2) Ha az adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat megsérti és ezzel más személyiségi jogát megsérti, az, akinek személyiségi joga sérelmet szenvedett, az adatkezelőtől, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozótól sérelemdíjat követelhet.
 
-(3) Az érintettel szemben az adatkezelő felel az adatfeldolgozó által okozott kárért és az adatkezelő köteles megfizetni az érintettnek az adatfeldolgozó által okozott személyiségi jogsértés esetén járó sérelemdíjat is. Az adatkezelő mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy a kárt vagy az érintett személyiségi jogának sérelmét az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.
+(3) Az adatkezelő mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy a kárt vagy a személyiségi jog megsértésével okozott jogsérelmet az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.
 
-(4) Nem kell megtéríteni a kárt és nem követelhető a sérelemdíj annyiban, amennyiben a kár a károsult vagy a személyiségi jog megsértésével okozott jogsérelem az érintett szándékos vagy súlyosan gondatlan magatartásából származott.
+(4) Az adatfeldolgozó mentesül az okozott kárért való felelősség és a sérelemdíj megfizetésének kötelezettsége alól, ha bizonyítja, hogy az általa végzett adatkezelési műveletek során a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott, kifejezetten az adatfeldolgozókat terhelő kötelezettségek, valamint az adatkezelő jogszerű utasításainak betartásával járt el.
 
-#### 18. Belső adatvédelmi felelős és adatvédelmi szabályzat
+(5) Az adatkezelő és az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó, továbbá a közös adatkezelők és az általuk megbízott vagy rendelkezésük alapján eljáró adatfeldolgozók a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírások megsértésével okozott
 
-24. § (1) Az adatkezelő, illetve az adatfeldolgozó szervezetén belül, közvetlenül a szerv vezetőjének felügyelete alá tartozó – jogi, közigazgatási, informatikai vagy ezeknek megfelelő, felsőfokú végzettséggel rendelkező – belső adatvédelmi felelőst kell kinevezni vagy megbízni
+- a) kárért az érintettel szemben egyetemlegesen felelnek, valamint
+- b) személyiségi jogsértés esetén járó sérelemdíjat egyetemlegesen kötelesek megfizetni az érintettnek.
 
-- a) az országos hatósági, munkaügyi vagy bűnügyi adatállományt kezelő, illetve feldolgozó adatkezelőnél és adatfeldolgozónál;
-- b) a pénzügyi szervezetnél;
-- c) az elektronikus hírközlési és közüzemi szolgáltatónál.
+(6) Nem kell megtéríteni a kárt és nem követelhető a sérelemdíj annyiban, amennyiben a kár a károsult vagy a személyiségi jog megsértésével okozott jogsérelem a személyiségi jogi jogsérelmet szenvedő személy szándékos vagy súlyosan gondatlan magatartásából származott.
 
-(2) A belső adatvédelmi felelős
+#### 9. A személyes adatokkal összefüggő jogok érvényesítése az érintett halálát követően
 
-- a) közreműködik, illetve segítséget nyújt az adatkezeléssel összefüggő döntések meghozatalában, valamint az érintettek jogainak biztosításában;
-- b) ellenőrzi e törvény és az adatkezelésre vonatkozó más jogszabályok, valamint a belső adatvédelmi és adatbiztonsági szabályzatok rendelkezéseinek és az adatbiztonsági követelményeknek a megtartását;
-- c) kivizsgálja a hozzá érkezett bejelentéseket, jogosulatlan adatkezelés észlelése esetén annak megszüntetésére hívja fel az adatkezelőt vagy az adatfeldolgozót;
-- d) elkészíti a belső adatvédelmi és adatbiztonsági szabályzatot;
-- e) vezeti a belső adatvédelmi nyilvántartást;
-- f) gondoskodik az adatvédelmi ismeretek oktatásáról.
+25. § (1) Az érintett halálát követő öt éven belül a 14. § b)–e) pontjában, illetve – az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén – az általános adatvédelmi rendelet 15–18. és 21. cikkében meghatározott, az elhaltat életében megillető jogokat az érintett által arra ügyintézési rendelkezéssel, illetve közokiratban vagy teljes bizonyító erejű magánokiratban foglalt, az adatkezelőnél tett nyilatkozattal – ha az érintett egy adatkezelőnél több nyilatkozatot tett, a későbbi időpontban tett nyilatkozattal – meghatalmazott személy jogosult érvényesíteni.
 
-(3) Az (1) bekezdésben meghatározott adatkezelőknek, valamint – az adatvédelmi nyilvántartásba bejelentési kötelezettség alá nem eső adatkezelők kivételével – egyéb állami és önkormányzati adatkezelőknek e törvény végrehajtása érdekében adatvédelmi és adatbiztonsági szabályzatot kell készíteniük.
+(2) Ha az érintett nem tett az (1) bekezdésnek megfelelő jognyilatkozatot, a Polgári Törvénykönyv szerinti közeli hozzátartozója annak hiányában is jogosult a 14. § c) pontjában, az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén az általános adatvédelmi rendelet 16. és 21. cikkében, valamint – ha az adatkezelés már az érintett életében is jogellenes volt vagy az adatkezelés célja az érintett halálával megszűnt – a 14. § d) és e) pontjában, az általános adatvédelmi rendelet hatálya alá tartozó adatkezelési műveletek esetén az általános adatvédelmi rendelet 17. és 18. cikkében meghatározott, az elhaltat életében megillető jogokat érvényesíteni az érintett halálát követő öt éven belül. Az érintett jogainak e bekezdés szerinti érvényesítésére az a közeli hozzátartozó jogosult, aki ezen jogosultságát elsőként gyakorolja.
 
-#### 19. A belső adatvédelmi felelősök konferenciája
+(3) Az érintett jogait az (1) vagy (2) bekezdés alapján érvényesítő személyt e jogok érvényesítése – így különösen az adatkezelővel szembeni, valamint a Hatóság, illetve bíróság előtti eljárás – során az e törvény által az érintett részére megállapított jogok illetik meg és kötelezettségek terhelik.
 
-25. § (1) A belső adatvédelmi felelősök konferenciája (a továbbiakban: konferencia) a Hatóság és a belső adatvédelmi felelősök rendszeres szakmai kapcsolattartását szolgálja, célja a személyes adatok védelmére és a közérdekű adatok megismerésére vonatkozó jogszabályok alkalmazása során az egységes joggyakorlat kialakítása.
+(4) Az érintett jogait az (1) vagy (2) bekezdés alapján érvényesítő személy az érintett halálának tényét és idejét halotti anyakönyvi kivonattal vagy bírósági határozattal, valamint saját személyazonosságát – és a (2) bekezdés szerinti esetben közeli hozzátartozói minőségét – közokirattal igazolja.
+
+(5) Az adatkezelő kérelemre tájékoztatja az érintett Polgári Törvénykönyv szerinti közeli hozzátartozóját az (1), illetve (2) bekezdés alapján megtett intézkedésekről, kivéve, ha azt az érintett az (1) bekezdésben meghatározott nyilatkozatában megtiltotta.
+
+### II/B. Fejezet — AZ ADATKEZELŐ ÉS AZ ADATFELDOLGOZÓ KÖTELEZETTSÉGEI
+
+#### 10. Az adatkezelő általános feladatai
+
+25/A. § (1) Az adatkezelő az adatkezelés jogszerűségének biztosítása érdekében az adatkezelés összes körülményéhez, így különösen céljához, valamint az érintettek alapvető jogainak érvényesülését az adatkezelés által fenyegető kockázatokhoz igazodó műszaki és szervezési intézkedéseket tesz, ideértve indokolt esetben az álnevesítés alkalmazását. Ezeket az intézkedéseket az adatkezelő rendszeresen felülvizsgálja és szükség esetén megfelelően módosítja.
+
+(2) Az (1) bekezdésben meghatározott intézkedéseket úgy kell kialakítani, hogy azok
+
+- a) a tudomány és technológia mindenkori állásának és az intézkedések megvalósítása költségeinek figyelembevételével észszerűen elérhető módon a személyes adatok kezelésére vonatkozó követelmények, így különösen az adatkezelés alapelvei és az érintettek jogai hatékony érvényesülését szolgálják, valamint
+- b) alkalmasak és megfelelőek legyenek annak biztosítására, hogy alapértelmezés szerint
+  - ba) kizárólag olyan és annyi személyes adat kezelésére kerüljön sor, olyan mértékben és időtartamban, amely az adatkezelés célja szempontjából szükséges, és
+  - bb) az adatkezelő által kezelt személyes adatok az érintett erre irányuló kifejezett akarata hiányában ne válhassanak nyilvánosan hozzáférhetővé.
+
+(3) Ha az adatkezelő adatvédelmi tisztviselő kijelölésére köteles, az (1) bekezdésben meghatározott intézkedések részeként az adatkezelő belső adatvédelmi és adatbiztonsági szabályzatot alkot meg és alkalmaz.
+
+(4) Aki az adatkezelő tevékenységi körében kezelt személyes adatokhoz adatfeldolgozóként vagy az adatkezelő irányítása alatt más módon jogszerűen hozzáférhet – ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa ettől eltérően nem rendelkezik – a hozzáféréssel érintett személyes adatokkal kizárólag az adatkezelő utasításában meghatározott műveletek végzésére jogosult.
+
+(5) Az adatkezelő és az adatfeldolgozó az általa végzett adatkezelési műveletek jogszerűségével kapcsolatos eljárások lefolytatására jogosult szervek és személyek tevékenységét köteles elősegíteni, részükre az eljárásuk lefolytatásához szükséges tájékoztatást köteles megadni.
+
+25/B. § (1) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa a közös adatkezelők által végzett adatkezeléssel összefüggő kötelezettségek teljesítésével, így különösen az érintett jogainak érvényesítésével, valamint ezen kötelezettségek teljesítésének elmulasztásával kapcsolatos felelősségük megoszlását nem, vagy nem teljeskörűen határozza meg, azt – a rájuk irányadó jogi kötelezettségek által nem szabályozott mértékben – a közös adatkezelők a közöttük írásban létrejött és nyilvánosságra hozott megállapodásban határozzák meg.
+
+(2) Ha törvény, nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa azt nem határozza meg, az (1) bekezdés szerinti megállapodásban ki kell jelölni azt a kapcsolattartásra köteles közös adatkezelőt, akihez az érintett az e törvényben meghatározott jogainak érvényesítése érdekében fordulni jogosult. Kapcsolattartó közös adatkezelő meghatározása vagy kijelölése hiányában az érintett az e törvény szerinti jogait bármely, közös adatkezelők által végzett adatkezelési művelet vonatkozásában bármelyik közös adatkezelővel szemben gyakorolhatja.
+
+#### 11. Az adatfeldolgozó
+
+25/C. § (1) Adatfeldolgozóként kizárólag olyan személy vagy szervezet járhat el, aki vagy amely megfelelő garanciákat nyújt az adatkezelés jogszerűségének és az érintettek jogai védelmének biztosítására alkalmas műszaki és szervezési intézkedések végrehajtására. Ezen garanciákat az adatkezelés megkezdését megelőzően az adatfeldolgozó igazolja az adatkezelő számára.
+
+(2) Az adatfeldolgozó további adatfeldolgozót kizárólag abban az esetben vehet igénybe, ha azt jogszabály nem zárja ki, továbbá ha az adatkezelő további adatfeldolgozó igénybevételéhez előzetesen közokiratban vagy teljes bizonyító erejű magánokiratban eseti vagy általános felhatalmazást adott.
+
+(3) Ha az adatfeldolgozó a további adatfeldolgozót az adatkezelő általános felhatalmazása alapján veszi igénybe, az adatfeldolgozó a további adatfeldolgozó igénybevételét megelőzően tájékoztatja az adatkezelőt a további adatfeldolgozó személyéről, valamint a további adatfeldolgozó által végzendő tervezett feladatokról. Ha az adatkezelő ezen tájékoztatás alapján a további adatfeldolgozó igénybevételével szemben kifogást emel, a további adatfeldolgozó igénybevételére az adatfeldolgozó kizárólag a kifogásban megjelölt feltételek teljesítése esetén jogosult.
+
+25/D. § (1) Az adatkezelő és az adatfeldolgozó közötti jogviszony részletes tartalmát az e törvényben, valamint az Európai Unió kötelező jogi aktusában meghatározott keretek között jogszabály vagy az adatkezelő és az adatfeldolgozó között írásban létrehozott szerződés – ideértve az elektronikus úton létrehozott szerződést is – határozza meg. Az adatkezelő által az adatfeldolgozónak adott utasítások jogszerűségéért az adatkezelő felel.
+
+(2) Az (1) bekezdésben meghatározott jogszabálynak vagy szerződésnek tartalmaznia kell az adatkezelés tárgyát, időtartamát, jellegét és célját, az érintett személyes adatok típusát, az érintettek körét, valamint az adatfeldolgozó és az adatkezelő e törvényben, valamint az Európai Unió kötelező jogi aktusában nem szabályozott jogait és kötelezettségeit.
+
+(3) Az (1) bekezdésben meghatározott jogszabályban vagy szerződésben rendelkezni kell különösen az adatfeldolgozó azon kötelezettségéről, hogy
+
+- a) tevékenysége során kizárólag az adatkezelő írásbeli utasítása alapján jár el,
+- b) tevékenysége során biztosítja azt, hogy az érintett személyes adatokhoz való hozzáférésre feljogosított személyek – ha jogszabályon alapuló megfelelő titoktartási kötelezettség hatálya alatt egyébként nem állnak – az általuk megismert személyes adatok vonatkozásában titoktartási kötelezettséget vállaljanak,
+- c) tevékenysége során minden megfelelő eszközzel segíti az adatkezelőt az érintettek jogai érvényesítésének elősegítése, ezzel kapcsolatos kötelezettségei teljesítése érdekében,
+- d) az adatkezelő választása szerint az általa végzett adatkezelési műveletek befejezését követően – ha törvény másként nem rendelkezik – vagy haladéktalanul törli a tevékenysége során megismert személyes adatokat, vagy továbbítja azokat az adatkezelőnek és azt követően törli a meglévő másolatokat,
+- e) az adatkezelő rendelkezésére bocsát minden olyan információt, amely az adatfeldolgozó igénybevételére vonatkozó jogi rendelkezéseknek való megfelelés igazolásához szükséges, és
+- f) további adatfeldolgozót csak az e törvényben meghatározott feltételek teljesítése mellett vesz igénybe.
+
+(4) Ha egy adatfeldolgozó e törvény rendelkezéseitől eltérve maga határozza meg az adatkezelés céljait és eszközeit, akkor azt az érintett adatkezelés tekintetében adatkezelőnek kell tekinteni.
+
+#### 12. Az adatkezelői és az adatfeldolgozói nyilvántartás és az elektronikus napló
+
+25/E. § (1) Az adatkezelő a kezelésében lévő személyes adatokkal kapcsolatos adatkezeléseiről, az adatvédelmi incidensekről és az érintett hozzáférési jogával kapcsolatos intézkedésekről nyilvántartást vezet (a továbbiakban együtt: adatkezelői nyilvántartás). Az adatkezelői nyilvántartásban az adatkezelő rögzíti
+
+- a) az adatkezelő, ideértve minden egyes közös adatkezelőt is, valamint az adatvédelmi tisztviselő nevét és elérhetőségeit,
+- b) az adatkezelés célját vagy céljait,
+- c) személyes adatok továbbítása vagy tervezett továbbítása esetén az adattovábbítás címzettjeinek – ideértve a harmadik országbeli címzetteket és nemzetközi szervezeteket – körét,
+- d) az érintettek, valamint a kezelt adatok körét,
+- e) profilalkotás alkalmazása esetén annak tényét,
+- f) nemzetközi adattovábbítás esetén a továbbított adatok körét,
+- g) az adatkezelési műveletek – ideértve az adattovábbítást is – jogalapjait,
+- h) ha az ismert, a kezelt személyes adatok törlésének időpontját,
+- i) az e törvény szerint végrehajtott műszaki és szervezési biztonsági intézkedések általános leírását,
+- j) az általa kezelt adatokkal összefüggésben felmerült adatvédelmi incidensek bekövetkezésének körülményeit, azok hatásait és a kezelésükre tett intézkedéseket,
+- k) az érintett hozzáférési jogának érvényesítését e törvény szerint korlátozó vagy megtagadó intézkedésének jogi és ténybeli indokait.
+
+(2) Az adatfeldolgozó az általa az egyes adatkezelők megbízásából vagy rendelkezése szerint végzett adatkezeléseiről nyilvántartást vezet (a továbbiakban: adatfeldolgozói nyilvántartás). Az adatfeldolgozói nyilvántartásban az adatfeldolgozó rögzíti:
+
+- a) az adatkezelő, az adatfeldolgozó, a további adatfeldolgozók, valamint az adatfeldolgozó adatvédelmi tisztviselőjének nevét és elérhetőségeit;
+- b) az adatkezelő megbízásából vagy rendelkezése szerint végzett adatkezelések típusait;
+- c) az adatkezelő kifejezett utasítására történő nemzetközi adattovábbítás esetén a nemzetközi adattovábbítás tényét, valamint a címzett harmadik ország vagy nemzetközi szervezet megjelölését;
+- d) az e törvény szerint végrehajtott műszaki és szervezési biztonsági intézkedések általános leírását.
+
+(3) Az adatkezelői és az adatfeldolgozói nyilvántartást írásban vagy elektronikus úton rögzített formában kell vezetni és azt – kérésére – a Hatóság rendelkezésére kell bocsátani.
+
+(4) Az adatkezelői nyilvántartás vezetésére irányuló kötelezettséget a nemzetbiztonsági célú adatkezelést végző szervek a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nyilvántartási és dokumentációs kötelezettségek – a 23. § (2) bekezdésében és a 25/A. § (5) bekezdésében meghatározott előírások teljesítésére alkalmas módon történő – elvégzése útján is teljesíthetik.
+
+25/F. § (1) A személyes adatokkal elektronikus úton végzett adatkezelési műveletek jogszerűségének ellenőrizhetősége céljából az adatkezelő és az adatfeldolgozó automatizált adatkezelési rendszerben (a továbbiakban: elektronikus napló) rögzíti
+
+- a) az adatkezelési művelettel érintett személyes adatok körének meghatározását,
+- b) az adatkezelési művelet célját és indokát,
+- c) az adatkezelési művelet elvégzésének pontos időpontját,
+- d) az adatkezelési műveletet végrehajtó személy megjelölését,
+- e) a személyes adatok továbbítása esetén az adattovábbítás címzettjét.
+
+(2) Az elektronikus naplóban rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, továbbá büntetőeljárás lefolytatása céljából ismerhetőek meg és használhatóak fel.
+
+(3) Az elektronikus naplóhoz a Hatóság, továbbá a (2) bekezdésben meghatározott célból jogszabályban meghatározott tevékenységet folytató személy és szervezet részére – azok erre irányuló kérelmére – az adatkezelő és az adatfeldolgozó hozzáférést biztosít, abból részükre adatot továbbít.
+
+(4) Az adatkezelői és az adatfeldolgozói nyilvántartásban, valamint az elektronikus naplóban rögzített adatokat a kezelt adat törlését követő tíz évig kell megőrizni.
+
+(5) Az elektronikus napló vezetésére irányuló kötelezettséget a nemzetbiztonsági célú adatkezelést végző szervek a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nyilvántartási és dokumentációs kötelezettségek – a 23. § (2) bekezdésében és a 25/A. § (5) bekezdésében meghatározott előírások teljesítésére alkalmas módon történő – elvégzése útján is teljesíthetik.
+
+#### 13. Az adatvédelmi hatásvizsgálat és az előzetes konzultáció
+
+25/G. § (1) Az adatkezelő a tervezett adatkezelés megkezdését megelőzően felméri, hogy a tervezett adatkezelés annak körülményeire, így különösen céljára, az érintettek körére, az adatkezelési műveletek során alkalmazott technológiára tekintettel várhatóan milyen hatásokat fog gyakorolni az érintetteket megillető alapvető jogok érvényesülésére.
+
+(2) Ha az (1) bekezdés alapján elvégzett kockázatbecslés alapján a tervezett adatkezelés valószínűsíthetően az érintetteket megillető, valamely alapvető jog érvényesülését lényegesen befolyásolja (a továbbiakban: magas kockázatú adatkezelés), az adatkezelő – a (6) bekezdésben meghatározott eset kivételével – az adatkezelés megkezdését megelőzően írásban elemzést készít arról, hogy a tervezett adatkezelés az érintetteket megillető alapvető jogok érvényesülésére milyen várható hatásokat fog gyakorolni (a továbbiakban: adatvédelmi hatásvizsgálat).
+
+(3) Ha a Hatóság valamely meghatározott adatkezelés-típust magas kockázatú adatkezelésnek minősít és e megállapítását közzéteszi, valamint a tervezett adatkezelés e megállapítással érintett adatkezelés-típus során alkalmazottal azonos vagy ahhoz hasonló típusú művelet vagy műveletsorozat alkalmazásával jár, a tervezett adatkezelés tekintetében annak magas kockázatát vélelmezni kell.
+
+(4) Ha a Hatóság valamely meghatározott adatkezelés-típus tekintetében azt állapítja meg, hogy az nem minősül magas kockázatú adatkezelésnek és e megállapítását közzéteszi, valamint a tervezett adatkezelés kizárólag e megállapítással érintett adatkezelés-típus során alkalmazottal azonos vagy ahhoz hasonló típusú művelet vagy műveletsorozat alkalmazásával jár, a tervezett adatkezelés tekintetében azt kell vélelmezni, hogy az nem minősül magas kockázatú adatkezelésnek.
+
+(5) Az adatvédelmi hatásvizsgálat tartalmazza legalább a tervezett adatkezelési műveletek általános leírását, az érintettek alapvető jogainak érvényesülését fenyegető, az adatkezelő által azonosított kockázatok leírását és jellegét, az e kockázatok kezelése céljából tervezett, valamint a személyes adatokhoz fűződő jog érvényesülésének biztosítására irányuló, az adatkezelő által alkalmazott intézkedéseket.
+
+(6) Kötelező adatkezelés esetén – ideértve különösen a 2. § (3) bekezdésében meghatározott célokból folytatott kötelező adatkezeléseket – az (5) bekezdésben meghatározott tartalmú adatvédelmi hatásvizsgálatot az adatkezelést előíró jogszabály előkészítője folytatja le.
+
+25/H. § (1) Ha a tervezett adatkezelés
+
+- a) vonatkozásában lefolytatott adatvédelmi hatásvizsgálat eredménye alapján megállapítható, hogy a tervezett adatkezelés – az adatkezelő által az adatkezeléssel járó kockázatok mérsékléséhez szükséges intézkedések megtételének hiányában – magas kockázatú lenne, vagy
+- b) magas kockázatát a 25/G. § (3) bekezdése szerint vélelmezni kell,
+
+az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2) bekezdésben meghatározott kivétellel – az adatkezelés megkezdését megelőzően konzultációt kezdeményez a Hatósággal (a továbbiakban: előzetes konzultáció).
+
+(2) Kötelező adatkezelés esetén – ideértve különösen a 2. § (3) bekezdésében meghatározott célokból folytatott kötelező adatkezeléseket – az előzetes konzultációt az adatkezelést előíró jogszabály előkészítője a jogszabály-előkészítési eljárás keretei között kezdeményezi és folytatja le.
+
+(3) Az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó az előzetes konzultáció kezdeményezésével egyidejűleg a Hatóság rendelkezésére bocsátja az adatvédelmi hatásvizsgálat eredményét, továbbá felvilágosítást nyújt a Hatóság részére minden olyan körülményről, amelynek tisztázását a Hatóság az előzetes konzultáció eredményes lefolytatása érdekében szükségesnek tartja.
+
+(4) Ha a Hatóság az előzetes konzultáció során arra a megállapításra jut, hogy a tervezett adatkezelés vonatkozásában az arra irányadó jogszabályban meghatározott előírások nem érvényesülnek maradéktalanul – különösen, ha álláspontja szerint az adatkezelő az adatkezeléssel járó kockázatokat nem megfelelően azonosította vagy nem megfelelően mérsékelte –, a feladat- és hatáskörébe tartozó bármely egyéb intézkedés megtétele mellett vagy helyett a feltárt hiányosságok megszüntetésére alkalmas lépéseket határoz meg és azok végrehajtására tesz javaslatot az adatkezelő, illetve – annak tevékenységi körére korlátozva – az adatfeldolgozó részére.
+
+(5) A (4) bekezdésben meghatározott javaslatot a Hatóság az előzetes konzultáció kezdeményezésétől számított hat héten belül, írásban teszi meg. E határidőt a Hatóság legfeljebb egy hónappal meghosszabbíthatja, ebben az esetben a meghosszabbítás tényéről és indokairól az előzetes konzultáció kezdeményezésétől számított egy hónapon belül tájékoztatja az adatkezelőt, illetve az adatfeldolgozót.
+
+#### 14. Adatbiztonsági intézkedések
+
+25/I. § (1) Az adatkezelő és az adatfeldolgozó a kezelt személyes adatok megfelelő szintű biztonságának biztosítása érdekében az érintettek alapvető jogainak érvényesülését az adatkezelés által fenyegető – így különösen az érintettek különleges adatainak kezelésével járó – kockázatok mértékéhez igazodó műszaki és szervezési intézkedéseket tesz.
+
+(2) Az (1) bekezdésben meghatározott intézkedések kialakítása és végrehajtása során az adatkezelő és az adatfeldolgozó figyelembe veszi az adatkezelés összes körülményét, így különösen a tudomány és a technológia mindenkori állását, az intézkedések megvalósításának költségeit, az adatkezelés jellegét, hatókörét és céljait, továbbá az érintettek jogainak érvényesülésére az adatkezelés által jelentett változó valószínűségű és súlyosságú kockázatokat.
+
+(3) Az adatkezelő és tevékenységi körében az adatfeldolgozó az (1) bekezdésben meghatározott intézkedésekkel biztosítja
+
+- a) az adatkezeléshez használt eszközök (a továbbiakban: adatkezelő rendszer) jogosulatlan személyek általi hozzáférésének megtagadását,
+- b) az adathordozók jogosulatlan olvasásának, másolásának, módosításának vagy eltávolításának megakadályozását,
+- c) az adatkezelő rendszerbe a személyes adatok jogosulatlan bevitelének, valamint az abban tárolt személyes adatok jogosulatlan megismerésének, módosításának vagy törlésének megakadályozását,
+- d) az adatkezelő rendszerek jogosulatlan személyek általi, adatátviteli berendezés útján történő használatának megakadályozását,
+- e) azt, hogy az adatkezelő rendszer használatára jogosult személyek kizárólag a hozzáférési engedélyben meghatározott személyes adatokhoz férjenek hozzá,
+- f) azt, hogy ellenőrizhető és megállapítható legyen, hogy a személyes adatokat adatátviteli berendezés útján mely címzettnek továbbították vagy továbbíthatják, illetve bocsátották vagy bocsáthatják rendelkezésére,
+- g) azt, hogy utólag ellenőrizhető és megállapítható legyen, hogy mely személyes adatokat, mely időpontban, ki vitt be az adatkezelő rendszerbe,
+- h) a személyes adatoknak azok továbbítása során vagy az adathordozó szállítása közben történő jogosulatlan megismerésének, másolásának, módosításának vagy törlésének megakadályozását,
+- i) azt, hogy üzemzavar esetén az adatkezelő rendszer helyreállítható legyen, valamint
+- j) azt, hogy az adatkezelő rendszer működőképes legyen, a működése során fellépő hibákról jelentés készüljön, továbbá a tárolt személyes adatokat a rendszer hibás működtetésével se lehessen megváltoztatni.
+
+(4) A különböző nyilvántartásokban elektronikusan kezelt adatállományok védelme érdekében az adatkezelő, illetve tevékenységi körében az adatfeldolgozó megfelelő műszaki megoldással biztosítja, hogy a nyilvántartásokban tárolt adatok – kivéve, ha azt törvény lehetővé teszi – közvetlenül ne legyenek összekapcsolhatók és az érintetthez rendelhetők.
+
+#### 15. Az adatvédelmi incidensek kezelése
+
+25/J. § (1) Az adatkezelő az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által kezelt adatokkal összefüggésben felmerült adatvédelmi incidens kapcsán rögzíti az (5) bekezdés a), c) és d) pontja szerinti adatokat, valamint az adatvédelmi incidenst haladéktalanul, de legfeljebb az adatvédelmi incidensről való tudomásszerzését követő hetvenkét órán belül bejelenti a Hatóságnak.
+
+(2) Az adatvédelmi incidenst nem kell bejelenteni, ha valószínűsíthető, hogy az nem jár kockázattal az érintettek jogainak érvényesülésére.
+
+(3) Ha az adatkezelő az (1) bekezdésben meghatározott bejelentési kötelezettséget akadályoztatása miatt határidőben nem teljesíti, azt az akadály megszűnését követően haladéktalanul teljesíti, és a bejelentéshez mellékeli a késedelem okait feltáró nyilatkozatát is.
+
+(4) Ha az adatvédelmi incidens az adatfeldolgozó tevékenységével összefüggésben merült fel vagy azt egyébként az adatfeldolgozó észleli, arról – az adatvédelmi incidensről való tudomásszerzését követően – haladéktalanul tájékoztatja az adatkezelőt.
+
+(5) Az (1) bekezdésben meghatározott bejelentési kötelezettség keretei között az adatkezelő
+
+- a) ismerteti az adatvédelmi incidens jellegét, beleértve – ha lehetséges – az érintettek körét és hozzávetőleges számát, valamint az incidenssel érintett adatok körét és hozzávetőleges mennyiségét,
+- b) tájékoztatást nyújt az adatvédelmi tisztviselő vagy a további tájékoztatás nyújtására kijelölt más kapcsolattartó nevéről és elérhetőségi adatairól,
+- c) ismerteti az adatvédelmi incidensből eredő, valószínűsíthető következményeket, és
+- d) ismerteti az adatkezelő által az adatvédelmi incidens kezelésére tett vagy tervezett – az adatvédelmi incidensből eredő esetleges hátrányos következmények mérséklését célzó és egyéb – intézkedéseket.
+
+(6) Ha az (5) bekezdés a)–d) pontjában foglalt valamely információ a bejelentés időpontjában nem áll az adatkezelő rendelkezésére, azzal az adatkezelő a bejelentést annak benyújtását követően utólag – az információ rendelkezésre állásáról való tudomásszerzését követően haladéktalanul – kiegészíti.
+
+(7) Ha az adatvédelmi incidens során olyan adat érintett, amelyet valamely más EGT-állam adatkezelője továbbított az adatkezelő részére, vagy amelyet az adatkezelő más EGT-állam adatkezelője részére továbbított, az (5) bekezdésben meghatározott információkat az adatkezelő ezen EGT-állam adatkezelőjével haladéktalanul közli.
+
+(8) Az (1) bekezdésben meghatározott bejelentési kötelezettséget az adatkezelő – a minősített adatot tartalmazó bejelentés kivételével – a Hatóság által e célra biztosított elektronikus felületen teljesíti.
+
+(9) Nemzetbiztonsági célú adatkezelés esetén az (1)–(8) bekezdésben meghatározottakat azzal az eltéréssel kell alkalmazni, hogy ha az adatkezelőt az (1) bekezdés alapján terhelő bejelentési kötelezettség, valamint a (7) bekezdés alapján terhelő közlési kötelezettség teljesítése nemzetbiztonsági érdekbe ütközne, azt e nemzetbiztonsági érdek megszűnését követően kell teljesíteni.
+
+25/K. § (1) Ha az adatvédelmi incidens valószínűsíthetően az érintettet megillető valamely alapvető jog érvényesülését lényegesen befolyásoló következményekkel járhat (a továbbiakban: magas kockázatú adatvédelmi incidens), a nemzetbiztonsági célú adatkezelés kivételével az adatkezelő az érintettet az adatvédelmi incidensről haladéktalanul tájékoztatja.
+
+(2) Az adatkezelő mentesül az érintett (1) bekezdésben foglaltak szerinti tájékoztatásának kötelezettsége alól, ha
+
+- a) az adatkezelő az adatvédelmi incidenssel érintett adatok tekintetében az adatvédelmi incidenst megelőzően megfelelő – így különösen az adatokat a jogosulatlan személy általi hozzáférés esetére értelmezhetetlenné alakító, azok titkosítását eredményező – műszaki és szervezési védelmi intézkedéseket alkalmazott,
+- b) az adatkezelő az adatvédelmi incidensről való tudomásszerzését követően alkalmazott intézkedésekkel biztosította, hogy az adatvédelmi incidens folytán az érintettet megillető valamely alapvető jog érvényesülését lényegesen befolyásoló következmények valószínűsíthetően nem következnek be,
+- c) az érintett (1) bekezdés szerinti közvetlen tájékoztatása csak az adatkezelő aránytalan erőfeszítésével lenne teljesíthető, ezért az adatkezelő az érintettek részére az adatvédelmi incidenssel összefüggő megfelelő tájékoztatást bárki által hozzáférhető módon közzétett információk útján biztosítja, vagy
+- d) törvény – a (6) bekezdésben meghatározottak szerint – a tájékoztatást kizárja.
+
+(3) Az (1) bekezdésben meghatározott tájékoztatási kötelezettség keretei között az adatkezelő világosan és közérthetően ismerteti az adatvédelmi incidens jellegét, valamint az érintett rendelkezésére bocsátja a 25/J. § (5) bekezdés b), c) és d) pontjában meghatározott információkat.
+
+(4) Ha a Hatóság a 25/J. § (1) bekezdésében foglaltak szerint teljesített bejelentés alapján azt állapítja meg, hogy az adatvédelmi incidens magas kockázata miatt az érintett tájékoztatása szükséges, az adatkezelő az általa még nem teljesített, az (1) bekezdésben foglalt tájékoztatási kötelezettségét e megállapítást követően haladéktalanul teljesíti.
+
+(5) Nem köteles az adatkezelő az (1) bekezdésben foglalt tájékoztatási kötelezettség teljesítésére, ha a Hatóság a 25/J. § (1) bekezdésében foglaltak szerint teljesített bejelentés alapján a (2) bekezdés a)–d) pontjában meghatározott körülmény fennállását állapítja meg.
+
+(6) Az (1)–(5) bekezdésben meghatározottaktól eltérően törvény az érintett tájékoztatását a 16. § (3) bekezdésben foglalt feltételekkel és okokból kizárhatja, korlátozhatja vagy a tájékoztatás késleltetett teljesítését írhatja elő.
+
+#### 16. Az adatvédelmi tisztviselő
+
+25/L. § (1) Az adatkezelő és az adatfeldolgozó a személyes adatok kezelésére vonatkozó jogi előírások teljesítésének és az érintettek jogai érvényesülésének elősegítése érdekében adatvédelmi tisztviselőt alkalmaz,
+
+- a) ha az adatkezelő, illetve az adatfeldolgozó állami feladatot vagy jogszabályban meghatározott egyéb közfeladatot lát el – kivéve a bíróságokat –, vagy
+- b) ha törvény vagy az Európai Unió jogi aktusa azt előírja.
+
+(2) Adatvédelmi tisztviselőnek az jelölhető ki, aki a személyes adatok védelmére vonatkozó jogi előírások és jogalkalmazási gyakorlat megfelelő szintű ismeretével rendelkezik és alkalmas a 25/M. § (1) bekezdésében meghatározott feladatok ellátására.
+
+(3) Az adatvédelmi tisztviselő egyidejűleg több adatkezelő, illetve adatfeldolgozó tekintetében is elláthatja a 25/M. § (1) bekezdésében meghatározott feladatokat, ha az feladatainak szakszerű és hatékony ellátását nem veszélyezteti. Az adatvédelmi tisztviselő tájékoztatja az adatkezelőt, illetve adatfeldolgozót arról, hogy mely más adatkezelőnél vagy adatfeldolgozónál lát el adatvédelmi tisztviselői feladatokat.
+
+(4) Az adatkezelő, illetve az adatfeldolgozó tájékoztatja a Hatóságot az adatvédelmi tisztviselő nevéről, postai és elektronikus levélcíméről, ezen adatok változásáról, valamint ezen adatokat nyilvánosságra hozza.
+
+(5) Az adatkezelő és az adatfeldolgozó kellő időben bevonja az adatvédelmi tisztviselőt valamennyi, a személyes adatok védelmét érintő döntés előkészítésébe, továbbá biztosítja az adatvédelmi tisztviselő számára mindazon feltételeket, jogosultságokat és erőforrásokat, továbbá hozzáférést biztosít mindazon adatokhoz és információkhoz, amelyek az adatvédelmi tisztviselő által ellátandó feladatok végrehajtásához, valamint az adatvédelmi tisztviselő szakmai ismereteinek naprakészen tartásához szükségesek.
+
+25/M. § (1) Az adatvédelmi tisztviselő elősegíti az adatkezelő, illetve az adatfeldolgozó – a személyes adatok kezelésére vonatkozó jogi előírásokban meghatározott – kötelezettségeinek teljesítését, így különösen
+
+- a) a személyes adatok kezelésére vonatkozó jogi előírásokról naprakész tájékoztatást nyújt és azok érvényesítésének módjaival kapcsolatban tanácsot ad az adatkezelő, az adatfeldolgozó és az azok által foglalkoztatott, az adatkezelési műveleteket végző személyek részére;
+- b) folyamatosan figyelemmel kíséri és ellenőrzi a személyes adatok kezelésére vonatkozó jogi előírások, így különösen a jogszabályok és belső adatvédelmi és adatbiztonsági szabályzatok érvényesülését, ennek keretei között az egyes adatkezelési műveletekhez kapcsolódó egyértelmű feladatmeghatározás, az adatkezelési műveletekben közreműködő foglalkoztatottak adatvédelmi ismereteinek bővítése és tudatosságnövelése, valamint a rendszeres időközönként lefolytatandó vizsgálatok megvalósulását;
+- c) elősegíti az érintettet megillető jogok gyakorlását, így különösen kivizsgálja az érintettek panaszait és kezdeményezi az adatkezelőnél, illetve az adatfeldolgozónál a panasz orvoslásához szükséges intézkedések megtételét,
+- d) szakmai tanácsadással elősegíti és figyelemmel kíséri az adatvédelmi hatásvizsgálat lefolytatását,
+- e) együttműködik az adatkezelés jogszerűségével kapcsolatos eljárások lefolytatására jogosult szervekkel és személyekkel, így különösen kapcsolatot tart a Hatósággal az előzetes konzultáció és a Hatóság által lefolytatott eljárások elősegítése érdekében,
+- f) közreműködik a belső adatvédelmi és adatbiztonsági szabályzat megalkotásában.
+
+(2) Az adatvédelmi tisztviselő jogviszonyának fennállása alatt és annak megszűnését követően is titokként megőrzi a tevékenységével, annak ellátásával kapcsolatban tudomására jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet az őt alkalmazó adatkezelő vagy adatfeldolgozó nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
+
+25/N. § (1) Az adatvédelmi tisztviselők konferenciája (a továbbiakban: konferencia) a Hatóság és az adatvédelmi tisztviselők rendszeres szakmai kapcsolattartását szolgálja, célja a személyes adatok védelmére és a közérdekű adatok megismerésére vonatkozó jogszabályok alkalmazása során az egységes joggyakorlat kialakítása.
 
 (2) A konferenciát a Hatóság elnöke szükség szerint, de évente legalább egyszer hívja össze, és meghatározza napirendjét.
 
-(3) A konferencia tagja minden olyan adatkezelő vagy adatfeldolgozó belső adatvédelmi felelőse, amelynél a felelős kinevezése törvény alapján kötelező.
-
-(4) A konferencia tagjai lehetnek azon adatkezelők és adatfeldolgozók belső adatvédelmi felelősei, amelyek esetében a kinevezés nem kötelező. E célból a Hatóság által vezetett belső adatvédelmi felelősi nyilvántartásba bejelentkezhetnek.
-
-(5) A Hatóság a kapcsolattartás céljából belső adatvédelmi felelősi nyilvántartást vezet a konferencia tagjairól. A nyilvántartás tartalmazza a belső adatvédelmi felelős nevét, postai és elektronikus levélcímét, továbbá a képviselt adatkezelő vagy adatfeldolgozó megnevezését.
-
-(6) A nyilvántartásban a Hatóság az (5) bekezdés szerinti adatokat a belső adatvédelmi felelős e megbízatásának megszűnéséről való tudomásszerzéséig tartja nyilván.
+### 17–19.
 
 ### III. Fejezet — A KÖZÉRDEKŰ ADATOK MEGISMERÉSE
 
@@ -527,16 +791,19 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (2) A Hatóság feladata a személyes adatok védelméhez, valamint a közérdekű és a közérdekből nyilvános adatok megismeréséhez való jog érvényesülésének ellenőrzése és elősegítése, továbbá a személyes adatok Európai Unión belüli szabad áramlásának elősegítése.
 
-(2a) Az (EU) 2016/679 európai parlamenti és tanácsi rendeletben (a továbbiakban: általános adatvédelmi rendelet) a felügyeleti hatóság részére megállapított feladat- és hatásköröket a Magyarország joghatósága alá tartozó jogalanyok tekintetében az általános adatvédelmi rendeletben, valamint az e fejezetben és a VI. Fejezetben meghatározottak szerint a Hatóság gyakorolja.
+(2a) Az általános adatvédelmi rendeletben a felügyeleti hatóság részére megállapított feladat- és hatásköröket a Magyarország joghatósága alá tartozó jogalanyok tekintetében az általános adatvédelmi rendeletben és e törvényben meghatározottak szerint a Hatóság gyakorolja.
+
+(2b) A Hatóságnak a (2) bekezdésben a személyes adatok tekintetében meghatározott feladatköre a bírósági döntés meghozatalára irányuló peres és nemperes eljárásokban, az azokra vonatkozó előírások alapján a bíróság által végzett adatkezelési műveletek vonatkozásában nem terjed ki a (3) bekezdésben meghatározott hatáskörök gyakorlására.
 
 (3) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint különösen
 
-- a) bejelentés alapján vizsgálatot folytat;
-- b) hivatalból adatvédelmi hatósági eljárást folytathat;
-- c) hivatalból titokfelügyeleti hatósági eljárást folytathat;
+- a) bejelentés alapján és hivatalból vizsgálatot folytat;
+- b) az érintett kérelmére és hivatalból adatvédelmi hatósági eljárást folytat;
+- c) hivatalból titokfelügyeleti hatósági eljárást folytat;
 - d) a közérdekű adatokkal és a közérdekből nyilvános adatokkal kapcsolatos jogsértéssel összefüggésben bírósághoz fordulhat;
 - e) a más által indított perbe beavatkozhat;
-- f) adatvédelmi nyilvántartást vezet.
+- f)
+- h) ellátja az Európai Unió kötelező jogi aktusában, így különösen az általános adatvédelmi rendeletben és a 2016/680 (EU) irányelvben a tagállami felügyeleti hatóság részére megállapított, továbbá a törvényben meghatározott egyéb feladatokat.
 
 (4) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében különösen
 
@@ -545,9 +812,9 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 - c) általános jelleggel vagy meghatározott adatkezelő részére ajánlást bocsát ki;
 - d) véleményezi a közfeladatot ellátó szerv tevékenységével kapcsolatosan az e törvény szerint közzéteendő adatokra vonatkozó különös, illetve egyedi közzétételi listákat;
 - e) törvényben meghatározott szervekkel vagy személyekkel együttműködve képviseli Magyarországot az Európai Unió közös adatvédelmi felügyelő testületeiben;
-- f) megszervezi a belső adatvédelmi felelősök konferenciáját;
-- g) meghatározza az adatvédelmi auditálás szakmai szempontjait;
-- h) az adatkezelő kérelmére adatvédelmi auditot folytathat le.
+- f) megszervezi az adatvédelmi tisztviselők konferenciáját;
+- g)
+- h)
 
 (5) A Hatóság független, csak a törvénynek van alárendelve, feladatkörében nem utasítható, a feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el. A Hatóság számára feladatot csak törvény állapíthat meg.
 
@@ -567,7 +834,7 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (2) A Hatóság elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben országgyűlési képviselő, nemzetiségi szószóló, európai parlamenti képviselő, köztársasági elnök, a Kormány tagja, államtitkár, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnöke, nemzetiségi önkormányzat tagja, illetve párt tisztségviselője vagy alkalmazottja volt.
 
-(3) A köztársasági elnök a Hatóság elnökét kilenc évre nevezi ki.
+(3) A köztársasági elnök a Hatóság elnökét kilenc évre nevezi ki. A Hatóság elnöke a megbízatásának megszűnését követően a Hatóság elnökének egy alkalommal újra kinevezhető.
 
 (4) A Hatóság elnöke a kinevezését követően a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti tartalommal esküt tesz.
 
@@ -619,14 +886,14 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 (6a) A miniszterelnök a (3) és (6) bekezdés alapján megtett indítványát a köztársasági elnök és a Hatóság elnöke részére egyidejűleg megküldi.
 
-(6b) A Hatóság elnöke az indítvány megalapozatlanságának megállapítása iránt az indítvány kézhezvételét követő harminc napon belül bírósághoz fordulhat, mely határidő elmulasztása esetén igazolásnak nincs helye. A pert a miniszterelnök ellen kell megindítani. A bíróság eljárására a polgári perrendtartásról szóló törvénynek a munkaviszonyból és a munkaviszony jellegű jogviszonyból származó perekre vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy az ügyben a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagos illetékességgel, soron kívül jár el, és a keresetet, valamint az ügy érdemében hozott jogerős döntését a bíróság a köztársasági elnökkel is közli.
+(6b) A Hatóság elnöke az indítvány megalapozatlanságának megállapítása iránt közigazgatási pert indíthat. A keresetindítási határidő elmulasztása esetén igazolásnak nincs helye. A bíróság a közszolgálati jogviszonnyal kapcsolatos per szabályai szerint jár el azzal, hogy a pert a miniszterelnök ellen kell megindítani, és a perre a munkavégzés helye szerinti bíróság kizárólagosan illetékes. A bíróság a keresetlevelet, valamint az ügy érdemében hozott jogerős határozatát a köztársasági elnökkel is közli.
 
 (6c) Ha a Hatóság elnökének a (6b) bekezdés alapján benyújtott keresete alapján a bíróság jogerős ítéletében azt állapítja meg, hogy a miniszterelnök a (3) és (6) bekezdés alapján megtett indítványa megalapozatlan, a köztársasági elnök a Hatóság elnöke megbízatásának megszűnését nem állapítja meg.
 
-(6d) A köztársasági elnök a miniszterelnök a (3) és (6) bekezdés alapján megtett indítványáról
+(6d) A köztársasági elnök a miniszterelnök által a (3) és (6) bekezdés alapján megtett indítványról
 
-- a) ha a Hatóság elnöke a (6b) bekezdés szerinti határidőben nem fordul bírósághoz, a határidő lejártát követő tizenöt napon belül,
-- b) ha a Hatóság elnöke a (6b) bekezdés szerinti határidőben bírósághoz fordul, az ügy érdemében hozott jogerős döntés kézhezvételét követő tizenöt napon belül
+- a) ha a Hatóság elnöke nem indít közigazgatási pert, a keresetindításra nyitva álló határidő lejártát követő tizenöt napon belül,
+- b) ha a Hatóság elnöke közigazgatási pert indít, az ügy érdemében hozott jogerős határozat kézhezvételét követő tizenöt napon belül
 
 dönt.
 
@@ -693,6 +960,10 @@ dönt.
 
 #### 30. A Hatóság vizsgálata
 
+51/A. § (1) Ha hatósági eljárás megindítása e törvény szerint nem kötelező, a Hatóság hivatalból vizsgálatot indíthat.
+
+(2) A Hatóságnál az érintett bejelentéssel vizsgálatot kezdeményezhet a 22. § a) pontjában meghatározott esetben. A bejelentésben az érintett feltünteti az annak alátámasztására szolgáló adatokat, hogy a 14. §-ban meghatározott jogainak az adatkezelőnél történő érvényesítését megkísérelte.
+
 52. § (1) A Hatóságnál bejelentéssel bárki vizsgálatot kezdeményezhet arra hivatkozással, hogy személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye fennáll.
 
 (1a) A Hatóság vizsgálata a 31. § (1) bekezdésében meghatározott indokok valamelyikén alapuló bejelentés esetén az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított egy éven belül kezdeményezhető.
@@ -716,7 +987,9 @@ dönt.
 - b) az 52. § (3) bekezdése szerinti tájékoztatás ellenére a bejelentő továbbra is kéri, hogy a kilétét ne fedjék fel,
 - c) a bejelentés nyilvánvalóan alaptalan,
 - d) az ismételten előterjesztett bejelentés érdemben új tényt, adatot nem tartalmaz,
-- e) a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be.
+- e) a bejelentést az 52. § (1a) bekezdésében meghatározott határidőn túl nyújtották be,
+- f) a bejelentés az 51/A. § (2) bekezdésében meghatározott feltételeknek nem felel meg, vagy
+- g) a bejelentés tárgyában hatósági ellenőrzést végez vagy hatósági eljárást folytat.
 
 (4) Ha a bejelentést az alapvető jogok biztosa tette, a Hatóság a bejelentést érdemi vizsgálat nélkül csak abban az esetben utasíthatja el, ha az adott ügyben bírósági eljárás van folyamatban, vagy az ügyben korábban jogerős bírósági határozat született.
 
@@ -729,12 +1002,14 @@ dönt.
 
 (7) A Hatóság a hatáskörébe nem tartozó ügyre vonatkozó bejelentést – a bejelentő egyidejű értesítése mellett – a bejelentésben foglaltak tekintetében eljárásra hatáskörrel rendelkező szervhez átteszi, ha a rendelkezésre álló adatok alapján a hatáskörrel rendelkező szerv kiléte megállapítható. Ha a Hatóság hatáskörébe nem tartozó ügyre vonatkozó bejelentés alapján a Hatóság azt állapítja meg, hogy az ügyben bírósági eljárás kezdeményezésének van helye, erről a bejelentőt értesíti.
 
+(8) Ha a vizsgálatban részt vett, a Hatóság az áttételről a vizsgált adatkezelőt, illetve adatfeldolgozót is értesíti.
+
 54. § (1) A Hatóság a vizsgálat során
 
-- a) a vizsgált adatkezelő kezelésében levő, a vizsgált üggyel összefüggésbe hozható összes iratba betekinthet, illetve azokról másolatot kérhet,
-- b) a vizsgált üggyel összefüggésbe hozható adatkezelést megismerheti, az adatkezelés helyszínéül szolgáló helyiségbe beléphet,
+- a) a vizsgált adatkezelő kezelésében levő, a vizsgált üggyel összefüggésbe hozható összes adatot megismerheti, arról másolatot készíthet, és az összes ilyen iratba – ideértve az elektronikus adathordozón tárolt iratokat is – betekinthet, illetve azokról másolatot kérhet,
+- b) a vizsgált üggyel összefüggésbe hozható adatkezelést megismerheti, az adatkezelés helyszínéül szolgáló helyiségbe beléphet, az adatkezelési műveletek végzéséhez használt eszközökhöz hozzáférhet,
 - c) a vizsgált adatkezelőtől, illetve az adatkezelő bármely munkatársától írásbeli és szóbeli felvilágosítást kérhet,
-- d) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást, illetve a vizsgált üggyel összefüggésbe hozható iratról másolatot kérhet, és
+- d) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást, illetve a vizsgált üggyel összefüggésbe hozható adatról, iratról – ideértve az elektronikus adathordozón tárolt iratokat is – másolatot kérhet, és
 - e) az adatkezelő hatóság felügyeleti szervének vezetőjét vizsgálat lefolytatására kérheti fel.
 
 (2) A Hatóság (1) bekezdés szerinti kérésének a vizsgált adatkezelő, illetve az eljárási cselekménnyel érintett más szervezet vagy személy a Hatóság által megállapított határidőn belül köteles eleget tenni. A Hatóság által megállapított határidő az (1) bekezdés d) és e) pontja szerinti esetben tizenöt napnál rövidebb nem lehet.
@@ -744,13 +1019,13 @@ dönt.
 - a) az a személy, akit a Hatóság vizsgálatának alapját képező bejelentés érint, a Polgári Törvénykönyv szerinti hozzátartozója vagy volt házastársa;
 - b) a felvilágosítás során magát vagy a Polgári Törvénykönyv szerinti hozzátartozóját, illetve volt házastársát bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben.
 
-55. § (1) A Hatóság a bejelentés érkezésétől számított két hónapon belül,
+55. § (1) A Hatóság a vizsgálat hivatalból történő megindításától vagy a bejelentés érkezését követő naptól számított két hónapon belül
 
-- a) ha a bejelentésben foglaltakat megalapozottnak tartja,
+- a) megállapítja, hogy az általános adatvédelmi rendeletben és az e törvényben meghatározott jogok gyakorlásával kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye áll fenn, és
   - aa) az 56. §-ban, illetve az 57. §-ban meghatározott intézkedést tesz,
   - ab) a vizsgálatot lezárja, és a 60. § szerinti adatvédelmi hatósági eljárást indít, vagy
   - ac) a vizsgálatot lezárja, és a 62. § szerinti titokfelügyeleti hatósági eljárást indít;
-- b) ha a bejelentésben foglaltakat nem tartja megalapozottnak, a vizsgálatot lezárja.
+- b) megállapítja, hogy jogsérelem nem következett be, illetve annak közvetlen veszélye nem áll fenn, és a vizsgálatot lezárja.
 
 (1a) Az (1) bekezdésben meghatározott határidőbe nem számít bele:
 
@@ -758,9 +1033,11 @@ dönt.
 - b) a vizsgálattal összefüggő irat fordításához szükséges idő, valamint
 - c) a Hatóság működését legalább egy teljes napra akadályozó körülmény, ellehetetlenítő üzemzavar vagy más elháríthatatlan esemény időtartama.
 
-(2) A vizsgálat eredményéről, a vizsgálat lezárásának indokáról, esetleges intézkedéséről, illetve hatósági eljárás megindításáról a Hatóság a bejelentőt értesíti.
+(2) A vizsgálat eredményéről, a vizsgálat lezárásának indokáról, esetleges intézkedéséről, illetve hatósági eljárás megindításáról a Hatóság a bejelentőt és – ha a vizsgálatban részt vett – a vizsgálat alá vont adatkezelőt, illetve adatfeldolgozót értesíti.
 
-56. § (1) Ha a Hatóság a személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatos jogsérelem vagy annak közvetlen veszélye fennállását megalapozottnak tartja, az adatkezelőt a jogsérelem orvoslására, illetve annak közvetlen veszélye megszüntetésére szólítja fel.
+(3) Ha a Hatóság az 51/A. § (2) bekezdése szerint tett bejelentés alapján lefolytatott vizsgálatát az (1) bekezdés b) pontja alapján lezárja, a (2) bekezdésben meghatározott értesítéssel egyidejűleg a bejelentőt tájékoztatja az őt megillető bírósági jogorvoslathoz való jog gyakorlásának lehetőségéről is.
+
+56. § (1) Ha a Hatóság a személyes adatok kezelésével, illetve a közérdekű adatok vagy a közérdekből nyilvános adatok megismeréséhez fűződő jogok gyakorlásával kapcsolatos jogsérelem vagy annak közvetlen veszélye fennállását állapítja meg, az adatkezelőt a jogsérelem orvoslására, illetve annak közvetlen veszélye megszüntetésére szólítja fel.
 
 (2) Az adatkezelő – egyetértése esetén – haladéktalanul megteszi az (1) bekezdés szerinti felszólításban megjelölt szükséges intézkedéseket, és a megtett intézkedéseiről, illetve – egyet nem értése esetén – álláspontjáról a felszólítás kézhezvételétől számított harminc napon belül írásban tájékoztatja a Hatóságot.
 
@@ -774,8 +1051,8 @@ dönt.
 
 (2) Az (1) bekezdés szerinti esetben szükséges további intézkedésként a Hatóság
 
-- a) a 60. §-ban foglaltak szerint adatvédelmi hatósági eljárást indíthat,
-- b) a 62. §-ban foglaltak szerint titokfelügyeleti hatósági eljárást indíthat,
+- a) a 60. §-ban foglaltak szerint adatvédelmi hatósági eljárást indít, illetve indíthat,
+- b) a 62. §-ban foglaltak szerint titokfelügyeleti hatósági eljárást indít, illetve indíthat,
 - c) a 64. §-ban foglaltak szerint bírósági eljárást indíthat, vagy
 - d) az 59. §-ban foglaltak szerint jelentést készíthet.
 
@@ -795,37 +1072,83 @@ dönt.
 
 #### 32. Adatvédelmi hatósági eljárás
 
-60. § (1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság adatvédelmi hatósági eljárást indíthat, a (4) bekezdésben meghatározott esetben adatvédelmi hatósági eljárást indít.
+60. § (1) A személyes adatok védelméhez való jog érvényesülése érdekében a Hatóság az érintett erre irányuló kérelmére adatvédelmi hatósági eljárást indít és hivatalból adatvédelmi hatósági eljárást indíthat.
 
-(2)
+(2) Az adatvédelmi hatósági eljárás megindítása iránti kérelem az általános adatvédelmi rendelet 77. cikk (1) bekezdésében, valamint a 22. § b) pontjában meghatározott esetben nyújtható be.
 
-(3) Az adatvédelmi hatósági eljárás kizárólag hivatalból indítható, az akkor sem minősül kérelemre indult eljárásnak, ha az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg. Ha azonban az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt az adatvédelmi hatósági eljárás megindításáról, illetve befejezéséről értesíteni kell.
+(3) A Hatóság hivatalból adatvédelmi hatósági eljárást indít, ha
 
-(4) A Hatóság adatvédelmi hatósági eljárást indít, ha a bejelentésen alapuló vizsgálat alapján vagy egyébként valószínűsíthető a személyes adatok jogellenes kezelése, és a jogellenes adatkezelés
+- a) vizsgálata alapján megállapítja, hogy a személyes adatok kezelésével kapcsolatban jogsérelem következett be vagy annak közvetlen veszélye áll fenn, és az 56. § szerinti felszólítás vagy ajánlás alapján a jogsérelem orvoslására, illetve a jogsérelem közvetlen veszélyének megszüntetésére a Hatóság által meghatározott határidőben nem került sor,
+- b) vizsgálata alapján megállapítja, hogy a személyes adatok kezelésével kapcsolatban jogsérelem következett be vagy annak közvetlen veszélye áll fenn és az általános adatvédelmi rendelet rendelkezései alapján bírság kiszabásának van helye.
 
-- a) személyek széles körét érinti, vagy
-- b)
-- c) nagy érdeksérelmet vagy kárveszélyt idézhet elő.
+(4) Ha az adatvédelmi hatósági eljárást a Hatóság bejelentésen alapuló vizsgálata előzte meg, a bejelentőt az adatvédelmi hatósági eljárás megindításáról, illetve befejezéséről a Hatóság értesíti.
 
-(5) Az adatvédelmi hatósági eljárásban az ügyintézési határidő kilencven nap.
+(5) A (2) bekezdésben meghatározott esetben a kérelem az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl tartalmazza
+
+- a) a feltételezett jogsértés megjelölését,
+- b) a feltételezett jogsértést megvalósító konkrét magatartás vagy állapot leírását,
+- c) a feltételezett jogsértést megvalósító adatkezelő, illetve adatfeldolgozó azonosításához szükséges, a kérelmező rendelkezésére álló adatokat,
+- d) a feltételezett jogsértéssel kapcsolatos állításokat alátámasztó tényeket és azok bizonyítékait, továbbá
+- e) a megjelölt jogsértés orvoslása iránti döntésre vonatkozó határozott kérelmet.
+
+(6) Az adatvédelmi hatósági eljárásban a kérelmezőt költségmentesség illeti meg, a Hatóság előlegezi az olyan eljárási költséget, amelynek előlegezése a kérelmezőt terhelné.
+
+60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százhúsz nap.
+
+(2) A Hatóság az adatvédelmi hatósági eljárást az általános adatvédelmi rendelet
+
+- a) 60. cikk (3)–(5) bekezdésben meghatározott együttműködési eljárás és
+- b) 63–66. cikkében meghatározott egységességi mechanizmus
+
+alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüggesztés időtartama alatt is elvégzi az együttműködési eljárásban és az egységességi mechanizmusban szükséges eljárási cselekményeket.
+
+(3) Ha a Hatóság a kérelemre indult eljárás bármely szakaszában megállapítja joghatóságának hiányát, a kérelmet visszautasítja vagy az eljárást megszünteti.
+
+(4) Ha kétséget kizáróan megállapítható, hogy az ügyben mely más EGT-állam felügyeleti hatósága rendelkezik joghatósággal, a Hatóság a kérelmet megküldi a joghatósággal rendelkező felügyeleti hatóságnak. Ebben az esetben a kérelmet visszautasító vagy az eljárást megszüntető végzés tartalmazza e felügyeleti hatóság megnevezését is.
+
+(5) A (4) bekezdésben meghatározottak szerint a kérelemnek a joghatósággal rendelkező felügyeleti hatóság részére történő megküldését követően – az érintett kérésére – a Hatóság tájékoztatást nyújt az érintett részére a joghatósággal rendelkező felügyeleti hatóság előtt történő jogérvényesítés módjáról.
+
+(6) Ha a Hatóság az adatvédelmi hatósági eljárást a kérelem benyújtását követő kilencven napon belül nem szüntette meg vagy az ügy érdemében nem döntött, a kérelmezőt értesíti az értesítés időpontjáig megtett eljárási cselekményekről.
 
 61. § (1) Az adatvédelmi hatósági eljárásban hozott határozatában a Hatóság
 
-- a) megállapíthatja a személyes adatok jogellenes kezelésének vagy feldolgozásának tényét,
-- b) elrendelheti a valóságnak nem megfelelő személyes adat helyesbítését,
-- c) elrendelheti a jogellenesen kezelt vagy feldolgozott személyes adatok zárolását, törlését vagy megsemmisítését,
-- d) megtilthatja a személyes adatok jogellenes kezelését vagy feldolgozását,
-- e) megtilthatja a személyes adatok külföldre történő továbbítását vagy átadását,
-- f) elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen tagadta meg, valamint
-- g) bírságot szabhat ki.
+- a) a 2. § (2) és (4) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben az általános adatvédelmi rendeletben meghatározott jogkövetkezményeket alkalmazhatja,
+- b) a 2. § (3) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben
+  - ba) megállapíthatja a személyes adatok jogellenes kezelésének tényét,
+  - bb) elrendelheti a valóságnak nem megfelelő személyes adat helyesbítését,
+  - bc) elrendelheti a jogellenesen kezelt személyes adatok zárolását, törlését vagy megsemmisítését,
+  - bd) megtilthatja a személyes adatok jogellenes kezelését,
+  - be) megtilthatja a személyes adatok külföldre történő továbbítását vagy átadását,
+  - bf) elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen tagadta meg, valamint
+  - bg) bírságot szabhat ki,
+- c) az általános adatvédelmi rendelet 41. cikk (1) bekezdésében meghatározott ellenőrzési tevékenységet végző szervezettel szemben az általános adatvédelmi rendelet 41. cikk (5) bekezdésében meghatározott jogkövetkezményeket alkalmazhatja.
 
-(2) A Hatóság elrendelheti határozatának – az adatkezelő azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha a határozat személyek széles körét érinti, ha azt közfeladatot ellátó szerv tevékenységével összefüggésben hozta, vagy ha a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
+(2) A Hatóság elrendelheti határozatának – az adatkezelő, illetve az adatfeldolgozó azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha
 
-(3) Az (1) bekezdés g) pontja szerint kiszabott bírság mértéke százezertől húszmillió forintig terjedhet.
+- a) a határozat személyek széles körét érinti,
+- b) azt közfeladatot ellátó szerv tevékenységével összefüggésben hozta, vagy
+- c) a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
 
-(4) A Hatóság annak eldöntésében, hogy indokolt-e a bírság kiszabása, illetve a bírság mértékének megállapításában az eset összes körülményeit – így különösen a jogsértéssel érintettek körének nagyságát, a jogsértés súlyát és a jogsértés ismétlődő jellegét – veszi figyelembe.
+(3) A Hatóság eljárásában figyelmeztetés és óvadék alkalmazása kizárt, ha a Hatóság a mérlegelésére vonatkozó előírások alapján bírság kiszabásának szükségességét állapítja meg.
 
-(5) A határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+(4) A bírság mértéke százezertől húszmillió forintig terjedhet
+
+- a) az (1) bekezdés b) pont bg) alpontja, valamint
+- b) ha az adatvédelmi hatósági eljárásban hozott határozatban kiszabott bírság megfizetésére kötelezett költségvetési szerv, az általános adatvédelmi rendelet 83. cikke
+
+szerint kiszabott bírság esetén.
+
+(5) A Hatóság annak eldöntésében, hogy indokolt-e az (1) bekezdés b) pont bg) alpontja szerinti bírság kiszabása, illetve a bírság mértékének megállapítása során az eset összes körülményeit figyelembe veszi, így különösen a jogsértéssel érintettek körének nagyságát, a jogsértés súlyát, a magatartás felróhatóságát, valamint azt, hogy a jogsértővel szemben korábban állapítottak-e meg a személyes adatok kezelésével kapcsolatos jogsértést.
+
+(6) A határozat megtámadására nyitva álló keresetindítási határidő lejártáig, illetve közigazgatási per indítása esetén a bíróság jogerős határozatáig a vitatott adatkezeléssel érintett adatok nem törölhetők, illetve nem semmisíthetők meg.
+
+(7) A Hatóság döntésének végrehajtását a döntésben foglalt, meghatározott cselekmény elvégzésére, meghatározott magatartásra, tűrésre vagy abbahagyásra irányuló kötelezés vonatkozásában a Hatóság foganatosítja.
+
+(8) A Hatóság döntésében megállapított fizetési kötelezettség mérséklésének (a továbbiakban: mérséklés) a kötelezett kérelmére nincs helye. A kötelezett kérheti a fizetési kötelezettség, valamint a (7) bekezdésben meghatározott kötelezettség teljesítésére halasztás vagy részletekben történő teljesítés (a továbbiakban együtt: teljesítési kedvezmény) engedélyezését. A kérelemben a kötelezett igazolja, hogy rajta kívül álló ok lehetetlenné teszi a határidőben való teljesítést vagy az számára aránytalan nehézséget jelentene.
+
+(9) Ha a (8) bekezdés szerinti kérelmet a kötelezett a Hatóság döntése végrehajtásának elrendelését követően terjeszti elő, a Hatóság teljesítési kedvezményt csak akkor engedélyezhet, ha a kötelezettség határidőben való teljesítését a kötelezetten kívül álló ok tette lehetetlenné.
+
+(10) A Hatóság döntésében megállapított fizetési kötelezettség tekintetében benyújtott mérséklés, továbbá teljesítési kedvezmény iránti kérelem elbírálása során az állami adó- és vámhatóság az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 110. §-ának alkalmazásával jár el.
 
 #### 33. Titokfelügyeleti hatósági eljárás
 
@@ -895,76 +1218,44 @@ dönt.
 
 (2) A Hatóság az érintettek tájékoztatásának elősegítése érdekében honlapján közzéteszi a kötelező szervezeti szabályozást alkalmazó adatkezelő megnevezését.
 
-#### 35. Adatvédelmi nyilvántartás
+#### 35. Nemzetközi együttműködés
 
-65. § (1) Az adatkezelő személyes adatokra vonatkozó adatkezeléseiről, az érintettek tájékozódásának elősegítése érdekében a Hatóság hatósági nyilvántartást (a továbbiakban: adatvédelmi nyilvántartás) vezet, amely – a (2) bekezdésben meghatározott kivételekkel – tartalmazza
+65. § (1) Harmadik országok hatóságaival és nemzetközi szervezetekkel a Hatóság – különösen az általános adatvédelmi rendelet 50. cikkében és a 2016/680 (EU) irányelv 40. cikkében meghatározottak szerint, az ott előírt módon – együttműködik.
 
-- a) az adatkezelés célját,
-- b) az adatkezelés jogalapját,
-- c) az érintettek körét,
-- d) az érintettekre vonatkozó adatok leírását,
-- e) az adatok forrását,
-- f) az adatok kezelésének időtartamát,
-- g) a továbbított adatok fajtáját, címzettjét és a továbbítás jogalapját, ideértve a harmadik országokba irányuló adattovábbításokat is,
-- h) az adatkezelő, valamint az adatfeldolgozó nevét és címét, a tényleges adatkezelés, illetve az adatfeldolgozás helyét és az adatfeldolgozónak az adatkezeléssel összefüggő tevékenységét,
-- i) az alkalmazott adatfeldolgozási technológia jellegét,
-- j) a belső adatvédelmi felelős alkalmazása esetén annak nevét és elérhetőségi adatait.
+(2) Az (1) bekezdésben foglalt együttműködés keretében a Hatóság jogsegély érdekében harmadik ország hatóságához vagy nemzetközi szervezethez fordulhat, és – a 67. §-ban foglalt kivétellel – teljesíti a harmadik ország hatóságától vagy nemzetközi szervezettől érkező jogsegélykérelmet, ha a harmadik ország vagy nemzetközi szervezet és Magyarország közötti közigazgatási jogsegélyegyezmény, más nemzetközi szerződés, jogszabály vagy az Európai Unió jogi aktusa ezt lehetővé teszi.
 
-(2) Az adatvédelmi nyilvántartás a nemzetbiztonsági szervek adatkezelései tekintetében a nemzetbiztonsági szerv nevét és címét, az adatkezelés célját és jogalapját tartalmazza.
+66. § A Hatóság megtagadja a harmadik ország hatóságától vagy nemzetközi szervezettől érkező jogsegélykérelem teljesítését és a megtagadás indokairól tájékoztatja a harmadik ország hatóságát, illetve a nemzetközi szervezetet, ha a jogsegélykérelem teljesítése
 
-(3) Nem vezet adatvédelmi nyilvántartást a Hatóság arról az adatkezelésről, amely
+- a) nem tartozik a feladat- és hatáskörébe,
+- b) sértené Magyarország nemzetbiztonsági érdekeit vagy a közbiztonságot,
+- c) sértené az ügyben érintett személy alapvető jogát, vagy
+- d) jogszabályba ütközne.
 
-- a) az adatkezelővel munkaviszonyban, tagsági viszonyban, óvodai nevelésben való részvételre irányuló, tanulói vagy tanulószerződéses jogviszonyban, kollégiumi tagsági viszonyban vagy – a pénzügyi szervezetek, közüzemi szolgáltatók, elektronikus hírközlési szolgáltatók ügyfelei kivételével – ügyfélkapcsolatban álló személyek adataira vonatkozik;
-- b) a bevett egyház belső szabálya szerint történik;
-- c) az egészségügyi ellátásban kezelt személy betegségével, egészségi állapotával kapcsolatos személyes adatokra vonatkozik gyógykezelés vagy az egészség megőrzése, társadalombiztosítási igény érvényesítése céljából;
-- d) az érintett anyagi és egyéb szociális támogatása céljából nyilvántartott személyes adatokra vonatkozik;
-- e) a hatósági, az ügyészségi és a bírósági eljárás által érintett személyeknek az eljárás lefolytatásával kapcsolatos személyes adataira, vagy a büntetés-végrehajtás során a büntetés-végrehajtással összefüggésben kezelt személyes adatokra vonatkozik;
-- f) a hivatalos statisztika célját szolgáló személyes adatokat tartalmaz, feltéve hogy – törvényben meghatározottak szerint – az adatok érintettel való kapcsolatának megállapítását véglegesen lehetetlenné teszik;
-- g) a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény szerinti médiatartalom-szolgáltató olyan adatait tartalmazza, amelyek kizárólag saját tájékoztatási tevékenységét szolgálják;
-- h) a tudományos kutatás céljait szolgálja, ha az adatokat nem hozzák nyilvánosságra,
-- i) a levéltári őrizetbe vett iratokkal összefüggésben valósul meg.
+67. § (1) EGT-állam felügyeleti hatóságaival a Hatóság az Európai Unió kötelező jogi aktusában meghatározott módokon, így különösen az általános adatvédelmi rendelet 61. cikkében és a 2016/680 (EU) irányelv 50. cikkében meghatározott kölcsönös segítségnyújtás keretei között, az ott előírt módon együttműködik.
 
-(4) Az adatvédelmi nyilvántartás nyilvános, abba bárki betekinthet, az abban foglaltakról feljegyzést készíthet.
+(2) Az általános adatvédelmi rendelet 62. cikkében meghatározott módon, az EGT-állam felügyeleti hatóságával közösen végzett műveletek során
 
-66. § (1) A személyes adatok kezelésének nyilvántartásba vételét az adatkezelő – a kötelező adatkezelés kivételével az adatkezelés megkezdése előtt – kérelmezi a Hatóságnál. A kötelező adatkezelés, valamint a 68. § (2) bekezdésben foglalt eset kivételével az adatkezelés a nyilvántartásba vételt megelőzően nem kezdhető meg.
+- a) a Hatóság személyi állományába tartozó, a Hatóság elnöke által a közös műveletben való közreműködésre kijelölt köztisztviselő a más EGT-állam területén, a más EGT-állam felügyeleti hatósága által átruházott feladat- és hatáskörök,
+- b) a más EGT-állam felügyeleti hatósága feladat- és hatáskörében eljáró és e felügyeleti hatóság által kijelölt személy Magyarország területén a Hatóság elnöke által írásban meghatározott terjedelemben a Hatóság feladat- és hatáskörének
 
-(2) A kötelező adatkezelés nyilvántartásba vételét az adatkezelő az adatkezelést elrendelő jogszabály hatálybalépését követő húsz napon belül kérelmezi a Hatóságnál.
+gyakorlásában közreműködik.
 
-(3) A nyilvántartásba vétel szempontjából az eltérő célú adatkezelések önálló adatkezelésnek minősülnek, abban az esetben is, ha a kezelt adatok köre azonos.
+(3) A (2) bekezdés b) pontjában meghatározott személy eljárására a magyar jog az irányadó.
 
-(4) A nyilvántartásba vétel iránti kérelemnek tartalmaznia kell a 65. § (1), illetve (2) bekezdése szerinti adatokat.
+68. § Ha a harmadik ország vagy más EGT-állam hatóságától, illetve nemzetközi szervezettől érkező – a Hatóság folyamatban lévő eljárásához közvetlenül nem kapcsolódó – megkeresés teljesítéséhez adatok, iratok beszerzése, vagy más eljárási cselekmény lefolytatása szükséges, a Hatóság e célból hatósági ellenőrzést végez. Ilyen esetben az ellenőrzés a Hatóságnak a beszerzett bizonyítékok átadásáról szóló végzésével zárul.
 
-67. § Az adatvédelmi nyilvántartásba vételért a kötelező adatkezelés nyilvántartásba vétele kivételével a miniszteri rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni.
+#### 36. Tanúsítás
 
-68. § (1) A (3) bekezdésben foglalt kivétellel a Hatóság az adatkezelést a kérelem megérkezésétől számított nyolc napon belül nyilvántartásba veszi, ha a kérelem tartalmazza a 65. § (1), illetve (2) bekezdése szerinti adatokat.
+69. § (1) Az általános adatvédelmi rendelet 42. cikkében meghatározott tanúsítást a Hatóság az adatkezelő, illetve az adatfeldolgozó kezdeményezésére az adatkezelővel, illetve az adatfeldolgozóval kötött megállapodás alapján folytatja le.
 
-(2) A (3) bekezdésben foglalt kivétellel ha a Hatóság a nyilvántartásba vétel iránti kérelmet határidőben nem bírálja el, az adatkezelő az adatkezelést a kérelemben foglaltak szerint megkezdheti.
+(2) A tanúsítás lefolytatására vonatkozó megállapodás megkötésének feltételeit, a tanúsításért nyújtandó ellenszolgáltatást, valamint a tanúsítás lefolytatásának menetét és a tanúsítási szempontokat a Hatóság közzéteszi.
 
-(3) A (4) és (5) bekezdés szerinti adatkezelést a Hatóság a kérelem megérkezésétől számított negyven napon belül nyilvántartásba veszi, ha a kérelem tartalmazza a 65. § (1), illetve (2) bekezdése szerinti adatokat és az adatkezelőnél a jogszerű adatkezelés feltételei biztosíthatók.
+(3) A tanúsítás lefolytatására vonatkozó megállapodás megkötésének feltételeit, a tanúsításért nyújtandó ellenszolgáltatást – az elvégzendő tevékenység mértékével arányosan – a Hatóság állapítja meg. A tanúsítási eljárás lefolytatásáért nyújtandó ellenszolgáltatás a Hatóság bevétele.
 
-(4) Ha a kérelem olyan – az (5) bekezdésben meghatározott – adatkezelés nyilvántartásba vételére irányul, amely az adatkezelő korábban nyilvántartásba vett adatkezelésével nem érintett adatállományra vonatkozik, illetve amely az adatkezelő korábban nyilvántartásba vett adatkezelésénél nem alkalmazott, új adatfeldolgozási technológia alkalmazását teszi szükségessé, a nyilvántartásba vétel feltétele, hogy az adatkezelőnél a jogszerű adatkezelés feltételei biztosíthatók legyenek.
+(4) Ha a Hatóság a tanúsításról tanúsítványt vagy európai adatvédelmi bélyegzőt állít ki, közzéteszi
 
-(5) A (4) bekezdésben foglalt nyilvántartásba vételi feltétel, az abban meghatározottak szerint
-
-- a) az országos hatósági, munkaügyi és bűnügyi adatállományok kezelésére;
-- b) a pénzügyi szervezetek és közüzemi szolgáltatók ügyfelekre vonatkozó adatkezelésére;
-- c) az elektronikus hírközlési szolgáltatóknak a szolgáltatást igénybe vevőkre vonatkozó adatkezelésére vonatkozik.
-
-(6) A Hatóság az adatvédelmi nyilvántartásba vételi kérelemnek helyt adó határozatának tartalmaznia kell az adatkezelés nyilvántartási számát, amelyet az adatkezelőnek az adatok minden továbbításánál, nyilvánosságra hozásánál és az érintettnek való kiadásakor fel kell tüntetni. A nyilvántartási szám az adatkezelés azonosítására szolgál, és nem tanúsítja a nyilvántartásba vett adatkezelés jogszerűségét.
-
-(7) A 65. § (1) bekezdés b)–j) pontja szerinti adatok megváltozása esetén az adatkezelő a változás bekövetkezésétől számított nyolc napon belül változásbejegyzési kérelmet nyújt be a Hatóságnak. A változásbejegyzési eljárásra az (1), (3) és (5) bekezdésben foglalt szabályokat megfelelően alkalmazni kell, azzal, hogy a kérelemnek csak a megváltozott adatokat kell tartalmaznia.
-
-#### 36. Adatvédelmi audit
-
-69. § (1) Az adatvédelmi audit a Hatóság olyan szolgáltatása, amelynek célja a végzett vagy tervezett adatkezelési műveletek a Hatóság által meghatározott és közzétett szakmai szempontok szerinti értékelésén keresztül a magas szintű adatvédelem és adatbiztonság megvalósítása. Tervezett adatkezelési műveletek akkor vonhatók audit alá, ha az adatkezelésre vonatkozó koncepció kidolgozottsága ezt lehetővé teszi.
-
-(2) Adatvédelmi auditot a Hatóság az adatkezelő kérelmére folytathat le. Az adatvédelmi audit lefolytatása iránti kérelem benyújtását követő tizenöt napon belül az adatvédelmi audit lefolytatásáért fizetendő ellenérték mértékét és az adatvédelmi audit elvégzésének várható időpontját a Hatóság közli az adatkezelővel. A Hatóság az adatvédelmi auditot abban az esetben folytatja le, ha a Hatóság közlését követő tizenöt napon belül az adatkezelő nyilatkozik arról, hogy a Hatóság közlésében megállapított feltételek ismeretében az adatvédelmi audit lefolytatása iránti kérelmét fenntartja.
-
-(3) Az adatvédelmi audit lefolytatásáért fizetendő ellenérték mértékét – az elvégzendő tevékenység mértékével arányosan – a Hatóság állapítja meg, az azonban nem haladhatja meg az ötmillió forintot. Az adatvédelmi audit lefolytatásáért fizetendő ellenérték a Hatóság bevétele.
-
-(4) Az adatvédelmi audit eredményét a Hatóság az auditról készített értékelésben rögzíti. Az értékelés javaslatokat fogalmazhat meg az adatkezelő számára. Az értékelés tartalma az üzleti titokra alkalmazandó szabályok szerint ismerhető meg, az adatkezelő erre irányuló kérelmére azonban a Hatóság honlapján – a kérelemnek megfelelően – az értékelést vagy az értékelés összegző megállapításait közzéteszi.
-
-(5) Az adatvédelmi audit a Hatóság e törvényben rögzített egyéb hatásköreinek gyakorlását nem korlátozza.
+- a) az annak használatára jogosult adatkezelő, adatfeldolgozó megnevezését, valamint
+- b) azon adatkezelési műveleteket, amelyekre a tanúsítvány vagy az európai adatvédelmi bélyegző kiterjed.
 
 #### 37. Büntető-, szabálysértési és fegyelmi eljárás kezdeményezése
 
@@ -972,13 +1263,55 @@ dönt.
 
 (2) Az (1) bekezdésben meghatározott szerv az eljárás megindításával kapcsolatos álláspontjáról – törvény eltérő rendelkezése hiányában – harminc napon belül, az eljárás eredményéről pedig az annak befejezését követő harminc napon belül tájékoztatja a Hatóságot.
 
-#### 38. Adatkezelés és titoktartás
+#### 38. A Hatóság eljárásaira vonatkozó egyéb szabályok, adatkezelés és titoktartás
+
+70/A. § (1) Az adatkezelő vagy az adatfeldolgozó kérelmére hatósági ellenőrzés lefolytatásának nincs helye.
+
+(2) Azt, hogy az adatkezelés a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásoknak – így különösen a 2. § (3) bekezdésének hatálya alá tartozó adatkezelések esetén a 4. § (1)–(4a) bekezdésben meghatározott alapvető követelményeknek – megfelel, az adatkezelő, illetve az adatfeldolgozó köteles bizonyítani.
+
+70/B. § (1) Az érintettek és az adatkezelők tájékozódásának elősegítése érdekében a Hatóság közzéteszi
+
+- a) a 61. § (2) bekezdése alapján közzétett határozatokban foglaltak szerint
+  - aa) az adatkezelő, illetve az adatfeldolgozó azonosító adatait,
+  - ab) a jogsértés megjelölését,
+  - ac) az alkalmazott jogkövetkezmény megjelölését,
+- b) a 64/D. § a) pontjában meghatározott határozatokban foglaltak szerint
+  - ba) a kérelmező azonosító adatait,
+  - bb) a Hatóság döntése tárgyának megjelölését,
+  - bc) ha a Hatóság döntése meghatározott időtartamra hatályos, a határozat időbeli hatályának megjelölését,
+- c) a Hatóság részére bejelentett adatvédelmi tisztviselő
+  - ca) nevét,
+  - cb) postai és elektronikus levélcímét,
+  - cc) által képviselt adatkezelő vagy adatfeldolgozó megnevezését.
+
+(2) Az (1) bekezdés szerinti adatok közérdekből nyilvános adatok.
+
+(3) A Hatóság
+
+- a) az (1) bekezdés a) pontjában meghatározott adatokat a határozat
+  - aa) hatályvesztésének időpontjáig vagy
+  - ab) kiadmányozását követő tíz év elteltéig,
+- b) az (1) bekezdés b) pontjában meghatározott adatokat a határozat hatályvesztésének időpontjáig,
+- c) az (1) bekezdés c) pontjában meghatározott adatokat az adatok változásának bejelentéséig
+
+teszi közzé.
+
+70/C. § Az Európai Unió kötelező jogi aktusa, valamint e törvény alapján a Hatóság által közzéteendő vagy nyilvánosságra hozni rendelt adatokat a Hatóság saját honlapján, digitális formában, bárki számára, személyazonosítás nélkül, korlátozástól mentesen, kinyomtatható és részleteiben is adatvesztés és -torzulás nélkül kimásolható módon, a betekintés, a letöltés, a nyomtatás, a kimásolás és a hálózati adatátvitel szempontjából is díjmentesen teszi hozzáférhetővé.
 
 71. § (1) A Hatóság eljárása során – az annak lefolytatásához szükséges mértékben és ideig – kezelheti mindazon személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek az eljárással összefüggnek, illetve amelyek kezelése az eljárás eredményes lefolytatása érdekében szükséges.
 
-(2) A Hatóság a vizsgálata során beszerzett adatokat hatósági eljárásában felhasználhatja.
+(1a) Ha az adatkezelő az érintettet az általános adatvédelmi rendelet 13–18. és 21. cikkében, illetve a 14. §-ban meghatározottak szerint megillető jogokat törvény vagy az Európai Unió kötelező jogi aktusa alapján jogszerűen korlátozta vagy azok korlátozására jogosult, a Hatóság az eljárásaival összefüggésben
+
+- a) az érintett jogait oly módon és olyan időpontban biztosítja, valamint
+- b) az e törvényben a Hatóság részére előírt, az érintett számára teljesítendő értesítési kötelezettségeket oly módon és és olyan időpontban teljesíti,
+
+hogy azon érdekek, amelyek az érintettet megillető jogok jogszerű korlátozásának alapjául szolgálhatnak, ne szenvedjenek sérelmet.
+
+(2) A Hatóság az eljárásai során jogszerűen megszerzett iratot, adatot vagy egyéb bizonyítási eszközt más eljárásában felhasználhatja.
 
 (2a) Védekezés céljából készült irat esetén az (1) és (2) bekezdésben foglaltakat az ügyvédi tevékenységről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
+
+(2b) A vizsgálat lezárását, illetve a hatósági eljárást befejező döntés véglegessé válását követően a Hatóság által a vizsgálat, illetve az eljárás során kezelt személyes adatot és védett adatot zárolni kell. A zárolt adatok az eljárás tárgyát képező ügy iratainak selejtezéséig vagy levéltári őrizetbe adásáig tárolhatók, azok – a (2) bekezdés szerinti felhasználás kivételével – kizárólag a véglegessé vált döntés végrehajtása, a véglegessé vált döntésben foglaltak ellenőrzése, a véglegessé vált döntéssel összefüggő jogorvoslat vagy döntés-felülvizsgálat céljából kezelhetők, és kizárólag az ezen adatok kezelésére vagy megismerésére – törvényben meghatározott módon és körben – jogosult bíróság, más szerv vagy személy részére tehetők megismerhetővé.
 
 (3) A Hatóság az e törvényben meghatározott eljárásai során az alapvető jogok biztosáról szóló 2011. évi CXI. törvény (a továbbiakban: Ajbtv.) 23. § (1) bekezdés a)–f) és i) pontjában, (2) bekezdésében, (3) bekezdés c)–f) pontjában, (4) bekezdés c)–g) pontjában, valamint (5) bekezdés d) pontjában meghatározott adatokat az Ajbtv. 23. § (7) bekezdésében meghatározottak szerint ismerheti meg.
 
@@ -1005,6 +1338,60 @@ szükséges.
 (5) A Hatóság elnöke, elnökhelyettese és a Hatósággal közszolgálati jogviszonyban, valamint munkavégzésre irányuló egyéb jogviszonyban álló, illetve állt személyek – a más szervezet számára jogszabályban előírt adatszolgáltatást kivéve – e jogviszony fennállása alatt, és annak megszűnését követően is kötelesek megőrizni a Hatóság tevékenységével, annak ellátásával kapcsolatban tudomásukra jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a Hatóság nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
 
 (6) Az (5) bekezdésben felsorolt személyek megőrzési kötelezettsége arra terjed ki, hogy a feladataik ellátásával kapcsolatban tudomásukra jutott adatokat, tényt vagy körülményt jogosulatlanul nem tehetik közzé, nem hasznosíthatják, és nem hozhatják harmadik személy tudomására.
+
+### VI/A. Fejezet — A BÍRÓSÁGI ADATKEZELÉSI MŰVELETEK ELLENŐRZÉSE
+
+71/A. § (1) A bírósági döntés meghozatalára irányuló peres és nemperes eljárásokban (a továbbiakban: alapügy), az azokra vonatkozó előírások alapján a bíróságok által végzett adatkezelési műveletekkel kapcsolatban a személyes adatok védelméhez való jog érvényesülésének ellenőrzésére adatvédelmi kifogás (a továbbiakban: kifogás) útján kerül sor.
+
+(2) A kifogás elbírálására – az alapügyre vonatkozó eljárási szabályokkal összhangban –
+
+- a) ha az alapügyre a büntető- vagy a szabálysértési eljárás szabályait kell alkalmazni, a büntetőeljárásról szóló 2017. évi XC. törvény 143. § (3) bekezdését, valamint 144. § (3) bekezdését és (8) bekezdés a) pontját,
+- b) ha az alapügyre a közigazgatási perrendtartás szabályait kell alkalmazni, a polgári perrendtartásról szóló 2016. évi CXXX. törvény 157. § (3) bekezdése, valamint 158. § (3) és (6) bekezdése vonatkozásában a közigazgatási perrendtartásról szóló 2017. évi I. törvény 36. § (2) bekezdését,
+- c) az a) és b) pont hatálya alá nem tartozó esetekben a polgári perrendtartásról szóló 2016. évi CXXX. törvény 157. § (3) bekezdését és 158. § (3) és (6) bekezdését vagy – ha az alapügyben a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: 1952-es Pp.) alkalmazandó – az 1952-es Pp. 114/A. § (4) bekezdését és 114/B. § (3) és (6) bekezdését
+
+az e fejezetben meghatározott eltérésekkel kell alkalmazni.
+
+(3) A kifogást az alapügyben eljáró bíróságnál írásban lehet előterjeszteni, a kifogás elbírálására hatáskörrel rendelkező bírósághoz címezve.
+
+(4) A kifogás előterjesztésére a fél, a vádlott és az eljárás egyéb résztvevője – különösen a sértett, a magánfél, a tanú és a szakértő – és az jogosult, aki jogi érdekét a kifogás előterjesztésével egyidejűleg valószínűsíti.
+
+71/B. § (1) A kifogás alapján a bíróság azt vizsgálja, hogy az eljáró bíró, ülnök vagy igazságügyi alkalmazott az adatkezelési tevékenysége során a személyes adatok védelmére vonatkozó jogszabályi és uniós jogi előírásoknak megfelelően járt-e el.
+
+(2) A kifogást az érintett arra hivatkozással terjesztheti elő, hogy
+
+- a) személyes adatai kezelésével kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye áll fenn, illetve hogy
+- b) az általános adatvédelmi rendeletben, illetve a 14. §-ban meghatározott érintetti jogainak érvényesítése során az adatkezelő jogszerűtlenül járt el.
+
+(3) A (2) bekezdés b) pontja szerinti kifogásban az érintettnek fel kell tüntetnie az annak alátámasztására szolgáló adatokat, hogy az érintetti jogainak az adatkezelőnél történő érvényesítését megkísérelte.
+
+(4) Az alapügyben eljáró bíróság a kifogás alapján, ha azt alaposnak tartja, nyolc napon belül megteszi a jogsérelem következményeinek enyhítése, illetve a jogsérelem veszélyének megszüntetése érdekében szükséges intézkedéseket, valamint erről és a megtett intézkedéseiről a kifogás előterjesztőjét egyidejűleg értesíti, továbbá tájékoztatja arról, hogy ha a megtett intézkedések ellenére is fenntartja a kifogását, az erre vonatkozó nyilatkozatát az értesítés kézhezvételétől számított nyolc napon belül, írásban terjesztheti elő.
+
+(5) Ha az alapügyben eljáró bíróság nem tett a (4) bekezdésben meghatározott intézkedést, vagy az érintett a (4) bekezdésben meghatározott nyilatkozatot terjesztett elő, az alapügyben eljáró bíróság a szükséges iratokat a kifogás elbírálása céljából nyolc napon belül, a kifogásra vonatkozó nyilatkozatával együtt felterjeszti a kifogás elbírálására jogosult bírósághoz.
+
+(6) Az eljárás során előterjesztett kifogást érdemben kell elbírálni akkor is, ha a peres vagy nemperes eljárás időközben már befejeződött.
+
+71/C. § (1) A kifogást elbíráló bíróság indokolt határozattal
+
+- a) a kifogást visszautasítja az 53. § (2) bekezdése, az 53. § (3) bekezdés a)–d) pontja, valamint (4) bekezdése szerinti esetekben,
+- b) a kifogást elutasítja, ha az a) pont alapján a kifogás visszautasításának lett volna helye, a visszautasítási ok azonban az érdemi vizsgálat megkezdését követően jutott a tudomására.
+
+(2) A kifogást elbíráló bíróság – ha a kifogást nem utasította vissza vagy nem utasította el az (1) bekezdés szerint – a kifogás és az ügy szükséges iratanyagának hozzá történt felterjesztésétől számított két hónapon belül indokolt határozattal
+
+- a) megállapítja a személyes adatok jogellenes kezelésének tényét, illetve azt, hogy az általános adatvédelmi rendeletben vagy az e törvényben meghatározott érintetti jogok gyakorlásával kapcsolatban jogsérelem következett be,
+- b) megállapítja az a) pontban foglaltak fennállását, vagy annak közvetlen veszélyét és
+  - ba) elrendeli a jogellenes adatkezelési művelet megszüntetését, vagy a jogellenes adatkezelés közvetlen veszélyének elhárítását, illetve az adatkezelés jogszerűségének helyreállítását,
+  - bb) elrendeli az általános adatvédelmi rendeletben, illetve az e törvényben biztosított érintetti jogok érvényesülését szolgáló adatkezelői intézkedések megtételét, vagy
+- c) megállapítja, hogy jogsérelem nem következett be, vagy annak közvetlen veszélye nem áll fenn, és a kifogást elutasítja.
+
+(3) Az alapügyben eljáró és a kifogást elbíráló bíróság a kifogással kapcsolatos eljárásában a személyes adatok védelmére vonatkozó rendelkezések alkalmazásának egységessége érdekében kikérheti a Hatóság véleményét.
+
+(4) A bíróság számára a kifogás elintézésére nyitva álló határidőbe nem számít bele
+
+- a) a tényállás tisztázásához szükséges adatok közlésére, valamint a Hatóság (3) bekezdés szerint megkeresésére irányuló felhívástól az annak teljesítéséig terjedő idő,
+- b) az eljárással összefüggő irat fordításához szükséges idő, valamint
+- c) az a nap, amelyen a bíróság működését legalább négy órán át tartóan akadályozó körülmény, ellehetetlenítő üzemzavar vagy más elháríthatatlan esemény állt fenn.
+
+(5) A kifogást elbíráló bíróság eljárására az e fejezetben nem szabályozott kérdésekben az 52. § (3) és (4) bekezdésében, az 53. § (1) és (7) bekezdésében, valamint az 54. § (1) bekezdés a)–d) pontjában, (2) és (3) bekezdésében foglaltakat alkalmazni kell.
 
 ### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1038,7 +1425,13 @@ szükséges.
 
 (2) Az adatvédelmi biztos feladatkörében 2012. január 1-jét megelőzően kezelt adatokat 2012. január 1-jétől a Hatóság kezeli.
 
-(3) A 2012. január 1-jét megelőzően megkezdett, de az adatvédelmi nyilvántartásba 2012. január 1-jét megelőzően be nem jelentett, az e törvény szerinti adatvédelmi nyilvántartás hatálya alá eső adatkezelés nyilvántartásba vételét e törvény szabályai szerint 2012. június 30-ig kérelmezni kell a Hatóságnál, ennek hiányában az adatkezelés 2012. június 30-át követően nem folytatható. Nem folytatható az e bekezdés szerinti adatkezelés akkor sem, ha a nyilvántartásba vételére irányuló, 2011. december 31-ét követően benyújtott kérelem alapján a Hatóság a nyilvántartásba vételt elutasította.
+(3) A 2018. május 25-ét megelőzően megkezdett adatkezelések vonatkozásában az 5. § (5) bekezdésében meghatározott felülvizsgálatot 2021. május 25-ig kell elvégezni.
+
+(4) Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvénynek az Európai Unió adatvédelmi reformjával összefüggő módosításáról, valamint más kapcsolódó törvények módosításáról szóló 2018. évi XXXVIII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően a Hatóság által megindított vizsgálatot és adatvédelmi hatósági eljárást a Hatóság a VI. Fejezet a Módtv. hatálybalépését megelőző napon hatályos rendelkezéseinek alkalmazásával folytatja le.
+
+(5) A Módtv. hatálybalépését megelőzően az adatvédelmi nyilvántartásban kezelt adatokat a Hatóság zárolja és azokat kizárólag a Módtv. hatálybalépését megelőzően végzett adatkezelési műveletekkel kapcsolatban indult eljárásban használhatja fel.
+
+(6) Ha az adatkezelő valószínűsíti, hogy a 25/F. § (1) bekezdésében meghatározott előírások alkalmazása az általa, illetve a megbízásából vagy rendelkezése alapján eljáró adatfeldolgozó által végzett adatkezelési műveletekhez felhasznált, a 2016/680 (EU) irányelv 63. cikk (2) bekezdésében meghatározottaknak megfelelő automatizált adatkezelési rendszerek vonatkozásában aránytalan nehézséggel vagy költséggel járna, a 25/F. § (1) bekezdésében meghatározott előírások alkalmazása alól 2022. december 31-ig mentesül.
 
 75/A. § A Hatóság az általános adatvédelmi rendelet 83. cikk (2)–(6) bekezdésében foglalt hatásköreit az arányosság elvének figyelembevételével gyakorolja, különösen azzal, hogy a személyes adatok kezelésére vonatkozó – jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott – előírások első alkalommal történő megsértése esetén a jogsértés orvoslása iránt – az általános adatvédelmi rendelet 58. cikkével összhangban – elsősorban az adatkezelő vagy adatfeldolgozó figyelmeztetésével intézkedik.
 
@@ -1046,15 +1439,15 @@ szükséges.
 
 77. § Ez a törvény
 
-- a) a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról szóló, 1995. október 24-i 95/46/EK európai parlamenti és tanácsi irányelvnek,
+- a)
 - b) a környezeti információkhoz való nyilvános hozzáférésről és a 90/313/EGK irányelv hatályon kívül helyezéséről szóló, 2003. január 28-i 2003/4/EK európai parlamenti és tanácsi irányelvnek,
 - c) a közszféra információinak további felhasználásáról szóló, 2003. november 17-i 2003/98/EK európai parlamenti és tanácsi irányelvnek,
-- d) a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i 2008/977/IB tanácsi kerethatározatnak
+- d) a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
 - e) a közszféra információinak további felhasználásáról szóló 2003/98/EK irányelv módosításáról szóló, 2013. június 26-i 2013/37/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
-77/A. § Az V–VI. Fejezet a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
+77/A. § A III–V. és a VI/A. Fejezet, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontja, a 4. § (5) bekezdése, az 5. § (3)–(5), (7) és (8) bekezdése, a 13. § (2) bekezdése, a 23. §, a 25. §, a 25/G. § (3), (4) és (6) bekezdése, a 25/H. § (2) bekezdése, a 25/M. § (2) bekezdése, a 25/N. §, az 51/A. § (1) bekezdése, az 52–54. §, az 55. § (1) és (2) bekezdése, az 56–60. §, a 60/A. § (1)–(3) és (6) bekezdése, a 61. § (1) bekezdés a) és c) pontja, a 61. § (2) és (3) bekezdése, (4) bekezdés b) pontja és (6)–(10) bekezdése, a 62–71. §, a 72. §, a 75. § (1)–(5) bekezdése és az 1. melléklet a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.
 
 78. § (1)–(2)
 
@@ -1118,7 +1511,7 @@ való megfelelést szolgálja.
 | 10. | A közfeladatot ellátó szerv által közzétett hirdetmények, közlemények | Folyamatosan | Legalább 1 évig archívumban tartásával |
 | 11. | A közfeladatot ellátó szerv által kiírt pályázatok szakmai leírása, azok eredményei és indokolásuk | Folyamatosan | Az előző állapot 1 évig archívumban tartásával |
 | 12. | A közfeladatot ellátó szervnél végzett alaptevékenységgel kapcsolatos vizsgálatok, ellenőrzések nyilvános megállapításai | A vizsgálatról szóló jelentés megismerését követően haladéktalanul | Az előző állapot 1 évig archívumban tartásával |
-| 13. | A közérdekű adatok megismerésére irányuló igények intézésének rendje, az illetékes szervezeti egység neve, elérhetősége, s ahol kijelölésre kerül, az adatvédelmi felelős, vagy az információs jogokkal foglalkozó személy neve | Negyedévente | Az előző állapot törlendő |
+| 13. | A közérdekű adatok megismerésére irányuló igények intézésének rendje, az illetékes szervezeti egység neve, elérhetősége, az információs jogokkal foglalkozó személy neve | Negyedévente | Az előző állapot törlendő |
 | 14. | A közfeladatot ellátó szerv tevékenységére vonatkozó, jogszabályon alapuló statisztikai adatgyűjtés eredményei, időbeli változásuk | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
 | 15. | A közérdekű adatokkal kapcsolatos kötelező statisztikai adatszolgáltatás adott szervre vonatkozó adatai | Negyedévente | Az előző állapot 1 évig archívumban tartásával |
 | 16. | Azon közérdekű adatok hasznosítására irányuló szerződések listája, amelyekben a közfeladatot ellátó szerv az egyik szerződő fél | Negyedévente | Az előző állapot 1 évig archívumban tartásával |

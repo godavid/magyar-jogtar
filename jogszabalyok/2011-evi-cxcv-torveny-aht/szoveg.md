@@ -244,7 +244,7 @@ látja el.
 
 9. § Ha törvény eltérően nem rendelkezik, a költségvetési szerv irányítása a következő hatáskörök gyakorlását jelenti:
 
-- a) a költségvetési szerv alapítása, átalakítása és megszüntetése, ideértve az alapító okirat és annak módosítása, valamint a megszüntető okirat kiadására vonatkozó hatáskör gyakorlását,
+- a) a költségvetési szerv alapítása, átalakítása és megszüntetése, ideértve az alapító okirat és annak módosítása, valamint a megszüntető okirat kiadására vonatkozó hatáskör (a továbbiakban együtt: alapítói jogok) gyakorlását,
 - b) a költségvetési szerv szervezeti és működési szabályzatának jóváhagyása,
 - c) a költségvetési szerv vezetésére kinevezés vagy megbízás adása, a költségvetési szerv vezetőjének felmentése vagy a vezetői megbízás visszavonása, és – ha törvény vagy kormányrendelet másként nem rendelkezik – a költségvetési szerv vezetőjével kapcsolatos egyéb munkáltatói jogok gyakorlása,
 - d) a költségvetési szerv gazdasági vezetőjének kinevezése vagy megbízása, felmentése vagy megbízásának visszavonása,
@@ -326,43 +326,38 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 (7) A költségvetési szerv megszüntetéséről jogszabállyal alapított költségvetési szerv esetén jogszabályban, a nem jogszabállyal alapított költségvetési szerv esetén megszüntető okiratban kell rendelkezni. A jogszabály és a megszüntető okirat kiadására, valamint az államháztartásért felelős miniszter előzetes egyetértésére a 8/A. §-t kell alkalmazni.
 
-#### 9/A. Az állami tulajdonú gazdasági társaságok állami feladatellátásának központi költségvetési szerv által történő átvétele
+#### 9/A. Az állami, valamint önkormányzati tulajdonú gazdasági társaságok állami, valamint önkormányzati feladatellátásának költségvetési szerv által történő átvétele
 
-11/A. § (1) A Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, vagy más személy vagy szervezet tulajdonosi joggyakorlása alatt álló,
-
-- a) az állam 100%-os tulajdonában lévő gazdasági társaság, vagy
-- b) az a) pont szerinti gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság
-
-(ezen alcím alkalmazásában a továbbiakban együtt: társaság) által ellátott feladat, illetve végzett egyéb tevékenység (ezen alcím alkalmazásában a továbbiakban együtt: állami feladat) központi költségvetési szerv által történő átvételére, a társaság megszüntetésére, a megszüntetéssel összefüggő eljárások lefolytatására, a társaság jogainak és kötelezettségeinek rendezésére, a társaság tagjának helytállási kötelezettségére az ebben az alcímben foglaltakat kell alkalmazni.
+11/A. § (1) A Kormány tagja, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, vagy más személy vagy szervezet tulajdonosi joggyakorlása alatt álló, az állam 100%-os tulajdonában lévő gazdasági társaság, vagy ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság, továbbá a helyi önkormányzat 100%-os tulajdonában lévő gazdasági társaság, vagy ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság (ezen alcím alkalmazásában a továbbiakban együtt: társaság) által ellátott állami vagy önkormányzati feladat, illetve végzett egyéb tevékenység (ezen alcím alkalmazásában a továbbiakban együtt: feladat) költségvetési szerv által történő átvételére, a társaság megszüntetésére, a megszüntetéssel összefüggő eljárások lefolytatására, a társaság jogainak és kötelezettségeinek rendezésére, a társaság tagjának helytállási kötelezettségére az ebben az alcímben foglaltakat kell alkalmazni.
 
 (1a) A társaság e törvény alapján történő megszüntetésekor a megszűnő társaságot terhelő kötelezettségekből származó követeléssel összefüggésben a Polgári Törvénykönyv szerinti tagi helytállási kötelezettség nem áll fenn.
 
-(2) A Kormány az állami feladat központi költségvetési szerv általi átvételéről és a társaság e törvény alapján történő megszüntetéséről kormányrendelettel dönt. Az átvétel időpontjának, illetve a kormányrendelet kihirdetésének és hatálybalépésének megállapításakor figyelemmel kell lenni az állami feladat átvételéhez, valamint az ebben az alcímben és törvényben meghatározottak teljesítéséhez szükséges időigényre.
+(2) A Kormány az állami feladat központi költségvetési szerv általi átvételéről és a társaság e törvény alapján történő megszüntetéséről kormányrendelettel, a helyi önkormányzat képviselő-testülete az önkormányzati feladat költségvetési szerv általi átvételéről és a társaság e törvény alapján történő megszüntetéséről önkormányzati rendelettel dönt. Az átvétel időpontjának, a kormányrendelet, illetve az önkormányzati rendelet kihirdetésének és hatálybalépésének megállapításakor figyelemmel kell lenni az állami, illetve az önkormányzati feladat átvételéhez, valamint az ebben az alcímben és törvényben meghatározottak teljesítéséhez szükséges időigényre.
 
-(3) A (2) bekezdés szerinti kormányrendeletben meg kell határozni:
+(3) A (2) bekezdés szerinti kormányrendeletben, illetve önkormányzati rendeletben meg kell határozni:
 
 - a) a társaságot cégneve, székhelye, cégjegyzékszáma, főtevékenysége, adószáma feltüntetésével,
-- b) azt a központi költségvetési szervet, amely az állami feladatot alaptevékenységként a továbbiakban ellátja, ideértve az e célból a kormányrendelet alapján vagy azzal összhangban alapításra kerülő költségvetési szervet is (a továbbiakban együtt: átvevő költségvetési szerv),
-- c) azt a személyt, aki a 11/C. § (2) bekezdése szerinti esetben az államot képviseli,
-- d) azt a személyt, aki a szervezeti átalakítással, az átadás-átvétellel összefüggő feladatok végrehajtásáért felelős (a továbbiakban: átvételi felelős), vagy az átvételi felelős kijelölésére jogosult minisztert,
-- e) az állami feladat átvételének időpontját.
+- b) azt a költségvetési szervet, amely az állami feladatot alaptevékenységként a továbbiakban ellátja, ideértve az e célból a kormányrendelet, illetve önkormányzati rendelet alapján vagy azzal összhangban alapításra kerülő költségvetési szervet is (a továbbiakban együtt: átvevő költségvetési szerv),
+- c) azt a személyt, aki a 11/C. § (2) bekezdése szerinti esetben az államot, illetve az önkormányzatot képviseli,
+- d) azt a személyt, aki a szervezeti átalakítással, az átadás-átvétellel összefüggő feladatok végrehajtásáért felelős (a továbbiakban: átvételi felelős), vagy állami feladat átvétele esetén az átvételi felelős kijelölésére jogosult minisztert,
+- e) a feladat átvételének időpontját.
 
-(4) Az állami feladat átvételének időpontját megelőzően a társaság ügyvezetése
+(4) A feladat átvételének időpontját megelőzően a társaság ügyvezetése
 
 - a) felméri a társaságot megillető jogokat, követeléseket és a társaságot terhelő kötelezettségeket,
 - b) előkészíti a társaság szerződéseinek az átvevő költségvetési szerv által történő átvételét, ezen belül előkészíti az eszközök és a források leltározását, a tevékenységet lezáró számviteli beszámoló és a záró adóbevallás elkészítését,
-- c) írásban tájékoztatja a társasággal szerződéses jogviszonyban álló feleket az állami feladat átvételéről, így értesíti különösen a társaság fizetési számláját, értékpapírszámláját és ügyfélszámláját vezető pénz-, tőke- és biztosítási piaci szolgáltatókat az átvevő költségvetési szervnek vagy a 11/C. § (2) bekezdése szerinti esetben az államnak a társaság jogviszonyaiba történő belépéséről,
+- c) írásban tájékoztatja a társasággal szerződéses jogviszonyban álló feleket a feladat átvételéről, így értesíti különösen a társaság fizetési számláját, értékpapírszámláját és ügyfélszámláját vezető pénz-, tőke- és biztosítási piaci szolgáltatókat az átvevő költségvetési szervnek vagy a 11/C. § (2) bekezdése szerinti esetben az államnak, illetve az önkormányzatnak a társaság jogviszonyaiba történő belépéséről,
 - d) teljesíti a társaság megszűnésével összefüggő bejelentéseket és adatszolgáltatásokat mindazon hatóságok, állami és önkormányzati szervek felé, amelyeknek nyilvántartásában a társaság szerepel, vagy amely által kiadott hatósági engedély engedélyese, és
-- e) gondoskodik a társaságnál foglalkoztatottakkal kapcsolatos munkáltatói intézkedések előkészítéséről, az átvevő költségvetési szervnél történő továbbfoglalkoztatásról szóló tájékoztatásról, ezen belül tájékoztatja különösen az átvevő költségvetési szervet az átvétellel érintett munkaviszonyokból származó jogokról és kötelezettségekről azzal, hogy a tájékoztatás elmaradása nem érinti az átvevő költségvetési szervvel vagy a 11/C. § (2) bekezdése szerinti esetben az állammal szemben e jogviszonyokból származó igények érvényesíthetőségét.
+- e) gondoskodik a társaságnál foglalkoztatottakkal kapcsolatos munkáltatói intézkedések előkészítéséről, az átvevő költségvetési szervnél történő továbbfoglalkoztatásról szóló tájékoztatásról, ezen belül tájékoztatja különösen az átvevő költségvetési szervet az átvétellel érintett munkaviszonyokból származó jogokról és kötelezettségekről azzal, hogy a tájékoztatás elmaradása nem érinti az átvevő költségvetési szervvel vagy a 11/C. § (2) bekezdése szerinti esetben az állammal, illetve az önkormányzattal szemben e jogviszonyokból származó igények érvényesíthetőségét.
 
-(5) A (4) bekezdésben foglaltak elvégzését követően a társaság és az átvevő költségvetési szerv – a (3) bekezdés c) pontja szerinti esetben az állam képviselője – jegyzőkönyvet vesz fel arról, hogy a társaság vagyonát, iratait, számviteli és adóbizonylatait, a bíróságokkal, hatóságokkal fennálló, illetve megszüntetett jogviszonyokra vonatkozó iratokat az átvevő költségvetési szerv – a (3) bekezdés c) pontja szerinti esetben az állam képviselője – átvette, a szükséges tájékoztatást megkapta. A jegyzőkönyvnek tartalmaznia kell az átvevő költségvetési szerv irat- és bizonylat-megőrzési kötelezettségét.
+(5) A (4) bekezdésben foglaltak elvégzését követően a társaság és az átvevő költségvetési szerv – a (3) bekezdés c) pontja szerinti esetben az állam, illetve az önkormányzat képviselője – jegyzőkönyvet vesz fel arról, hogy a társaság vagyonát, iratait, számviteli és adóbizonylatait, a bíróságokkal, hatóságokkal fennálló, illetve megszüntetett jogviszonyokra vonatkozó iratokat az átvevő költségvetési szerv – a (3) bekezdés c) pontja szerinti esetben az állam, illetve az önkormányzat képviselője – átvette, a szükséges tájékoztatást megkapta. A jegyzőkönyvnek tartalmaznia kell az átvevő költségvetési szerv irat- és bizonylat-megőrzési kötelezettségét.
 
 (6) A társaság vezető tisztségviselői az (5) bekezdés szerinti jegyzőkönyvben nyilatkoznak
 
 - a) az átadott vagyontárgyak és iratok teljességéről,
 - b) a társaság fennálló jogviszonyaira vonatkozó tájékoztatás teljességéről,
 - c) a társaság vagyonára vonatkozóan a közhiteles nyilvántartásokba való bejegyzéshez szükséges okiratok kiállításáról és azok átadásáról, és
-- d) a társaság részvételével működő szervezetekben az állam tagként történő bejegyzéséhez szükséges okiratok kiállításáról és azok átadásáról.
+- d) a társaság részvételével működő szervezetekben az állam, illetve az önkormányzat tagként történő bejegyzéséhez szükséges okiratok kiállításáról és azok átadásáról.
 
 (7) A társaság vezető tisztségviselői korlátlanul és egyetemlegesen felelnek azért a kárért, amely abból keletkezik, hogy a vagyonátadással, az iratátadással és a jogszabályban meghatározott nyilatkozattétellel összefüggő kötelezettségeiket nem vagy nem teljeskörűen teljesítették, vagy valótlan tartalmú nyilatkozatot tettek.
 
@@ -371,59 +366,61 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 - a) végelszámolás alatt áll, vagy vonatkozásában csődeljárás elrendeléséről szóló bírósági végzést közzétettek, vagy az ellene indított felszámolási eljárást jogerősen elrendelték, vagy ha a külföldi székhelyű társaság személyes joga szerinti hasonló eljárás van folyamatban, vagy aki személyes joga szerint hasonló helyzetben van, vagy
 - b) egy évnél régebben lejárt adó-, illeték-, vámfizetési vagy társadalombiztosítási járulékfizetési kötelezettségének nem tett eleget, kivéve, ha annak megfizetésére halasztást kapott.
 
-(9) Ezen alcím alkalmazásában 100%-os állami tulajdonban lévő gazdasági társaságnak, illetve ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaságnak minősül az a gazdasági társaság is, amelyben az állam, az állam 100%-os tulajdonában lévő gazdasági társaság mellett kizárólag maga a gazdasági társaság rendelkezik saját üzletrésszel vagy részvénnyel.
+(8a) A (8) bekezdésben foglaltakon túl azon önkormányzati tulajdonú gazdasági társaság ezen alcím alapján történő megszüntetése kizárt, amely a Gst. 3. § (1) bekezdése szerinti adósságot keletkeztető ügylettel rendelkezik.
 
-11/B. § (1) A társaság legkésőbb az állami feladat átvételének időpontját megelőzően átutalja valamennyi pénzforgalmi számláján lévő pénzeszközét az átvevő költségvetési szerv fizetési számlájára, valamint a készpénzállományát átadja az átvevő költségvetési szerv részére. A pénzeszközök átadását a társaság saját tőkéjével (ezen belül az eredménytartalékával) szemben kell elszámolni.
+(9) Ezen alcím alkalmazásában 100%-os állami, illetve önkormányzati tulajdonban gazdasági társaságnak, illetve ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaságnak minősül az a gazdasági társaság is, amelyben az állam, illetve önkormányzat, az állam, illetve önkormányzat 100%-os tulajdonában lévő gazdasági társaság mellett kizárólag maga a gazdasági társaság rendelkezik saját üzletrésszel vagy részvénnyel.
 
-(2) Az állami feladat átvételének időpontjában a társaság tulajdonában álló vagyon e törvény erejénél fogva ingyenesen az államra száll. Az állam tulajdonába került vagyon tekintetében a vagyonkezelői jog e törvény erejénél fogva ingyenesen az átvevő költségvetési szervet illeti meg.
+11/B. § (1) A társaság legkésőbb a feladat átvételének időpontját megelőzően átutalja valamennyi pénzforgalmi számláján lévő pénzeszközét az átvevő költségvetési szerv fizetési számlájára, valamint a készpénzállományát átadja az átvevő költségvetési szerv részére. A pénzeszközök átadását a társaság saját tőkéjével (ezen belül az eredménytartalékával) szemben kell elszámolni.
+
+(2) A feladat átvételének időpontjában a társaság tulajdonában álló vagyon e törvény erejénél fogva ingyenesen az államra, illetve az önkormányzatra száll. Az állam tulajdonába került vagyon tekintetében a vagyonkezelői jog e törvény erejénél fogva ingyenesen az átvevő költségvetési szervet illeti meg. Az önkormányzat tulajdonába került vagyon tekintetében az önkormányzati feladat átvételének időpontjával vagyonkezelési szerződést kell kötni.
 
 (3) A (2) bekezdés alkalmazásában vagyonon a társaság számviteli beszámolójában szereplő eszközöket kell érteni az Nvt. 2. §-a szerinti vagyonelemek kivételével.
 
-(4) Az állami tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az eszköznek a társaság könyveiben szereplő bruttó értékével. Az átvételt követően nyilvántartásba kell venni az adott vagyonelemhez kapcsolódóan a társaság által korábban elszámolt értékcsökkenést és értékvesztést.
+(4) Az állami, illetve önkormányzati tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az eszköznek a társaság könyveiben szereplő bruttó értékével. Az átvételt követően nyilvántartásba kell venni az adott vagyonelemhez kapcsolódóan a társaság által korábban elszámolt értékcsökkenést és értékvesztést.
 
 (5) A (2) bekezdésben meghatározottak az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (3) bekezdés h) pontjában foglalt átalakítással esnek egy tekintet alá.
 
-(6) Az átvevő költségvetési szerv az állami feladat átvételének időpontjától számított harminc napon belül gondoskodik a társaság – az állami feladat átvételét megelőző napra, mint mérlegfordulónapra vonatkozó, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti – tevékenységet lezáró számviteli beszámolójának elkészítéséről, könyvvizsgálatáról, letétbe helyezéséről és közzétételéről, valamint a záró adóbevallások elkészítéséről és azok illetékes adóhatóságnak történő benyújtásáról.
+(6) Az átvevő költségvetési szerv a feladat átvételének időpontjától számított harminc napon belül gondoskodik a társaság – a feladat átvételét megelőző napra, mint mérlegfordulónapra vonatkozó, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) szerinti – tevékenységet lezáró számviteli beszámolójának elkészítéséről, könyvvizsgálatáról, letétbe helyezéséről és közzétételéről, valamint a záró adóbevallások elkészítéséről és azok illetékes adóhatóságnak történő benyújtásáról.
 
 (7) A társaság számviteli beszámolójának elkészítésére az e törvényben meghatározott eltérésekkel az Szt. 178. § (1) bekezdés f) pontja felhatalmazása alapján kiadott kormányrendeletben foglalt előírásokat kell alkalmazni azzal az eltéréssel, hogy a záróleltár és a tevékenységet lezáró beszámoló mérlege értékhelyesbítést, értékelési tartalékot, időbeli elhatárolást, közvetített szolgáltatás nem tartalmazhat.
 
-11/C. § (1) Az állami feladat átvételének időpontjában – a (2) bekezdésben foglaltak kivételével – a társaság valamennyi jogának és kötelezettségének jogutódja az átvevő költségvetési szerv.
+11/C. § (1) A feladat átvételének időpontjában – a (2) bekezdésben foglaltak kivételével – a társaság valamennyi jogának és kötelezettségének jogutódja az átvevő költségvetési szerv.
 
-(2) A társaságnak a 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyaiból, a 41. § (4) bekezdése szerinti ügyleteiből és a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 3. § (1) bekezdése szerinti adósságot keletkeztető ügyleteiből származó valamennyi joga és kötelezettsége az állami feladat átvételének időpontjában e törvény erejénél fogva az államra száll. A 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyokat a 11/A. § (2) bekezdése szerinti kormányrendeletben meghatározottak szerint a feladat átvételének időpontját követő kilencven napon belül felül kell vizsgálni.
+(2) A társaságnak a 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyaiból, a 41. § (4) bekezdés szerinti ügyleteiből és – az önkormányzati tulajdonú gazdasági társaságok kivételével – a Gst. 3. § (1) bekezdése szerinti adósságot keletkeztető ügyleteiből származó valamennyi joga és kötelezettsége a feladat átvételének időpontjában e törvény erejénél fogva az államra száll. A 41. § (1) bekezdése szerinti tagsági, részesedési jogviszonyokat a 11/A. § (2) bekezdése szerinti kormányrendeletben, illetve önkormányzati rendeletben meghatározottak szerint a feladat átvételének időpontját követő kilencven napon belül felül kell vizsgálni.
 
-(3) Azon (1) és (2) bekezdés szerinti jogviszony, amelynek kizárólagos jogosultjává az átvevő költségvetési szerv és kizárólagos kötelezettjévé az állam válik, a közfeladat átvételének időpontjában e törvény erejénél fogva megszűnik.
+(3) Azon (1) és (2) bekezdés szerinti jogviszony, amelynek kizárólagos jogosultjává az átvevő költségvetési szerv és kizárólagos kötelezettjévé az állam, illetve az önkormányzat válik, a közfeladat átvételének időpontjában e törvény erejénél fogva megszűnik.
 
 (4) Az (1) és (2) bekezdés szerinti jogutódlás a társasággal szemben fennálló követeléseket nem teszi lejárttá, és a jogutódlásra hivatkozással szerződésszegési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
 
-(5) Az állami feladat átvételekor folyamatban lévő közigazgatási hatósági eljárásokban, valamint polgári peres és nemperes eljárásokban a társaság jogutódjának az átvevő költségvetési szerv – a (2) bekezdés szerinti ügyletekkel kapcsolatban az állam – tekintendő, és ezen eljárásokban hozott határozatban megállapított kötelezettség vagy jogosultság az átvevő költségvetési szervet, illetve az államot terheli vagy illeti meg. Az átvételi felelős gondoskodik arról, hogy a fél személyében történő változás az állami feladat átvételekor folyamatban lévő eljárásokban bejelentésre kerüljön.
+(5) A feladat átvételekor folyamatban lévő közigazgatási hatósági eljárásokban, valamint polgári peres és nemperes eljárásokban a társaság jogutódjának az átvevő költségvetési szerv – a (2) bekezdés szerinti ügyletekkel kapcsolatban az állam, illetve önkormányzat – tekintendő, és ezen eljárásokban hozott határozatban megállapított kötelezettség vagy jogosultság az átvevő költségvetési szervet, illetve az államot, illetve önkormányzatot terheli vagy illeti meg. Az átvételi felelős gondoskodik arról, hogy a fél személyében történő változás a feladat átvételekor folyamatban lévő eljárásokban bejelentésre kerüljön.
 
-(6) Az állami feladat ellátásával összefüggő hatósági engedélyek jogosultjának az állami feladat átvételének időpontjától az átvevő költségvetési szerv tekintendő. A hatósági engedélyek ennek megfelelő módosítását az átvevő költségvetési szerv az állami feladat átvételének időpontját követően haladéktalanul kezdeményezi.
+(6) A feladat ellátásával összefüggő hatósági engedélyek jogosultjának a feladat átvételének időpontjától az átvevő költségvetési szerv tekintendő. A hatósági engedélyek ennek megfelelő módosítását az átvevő költségvetési szerv a feladat átvételének időpontját követően haladéktalanul kezdeményezi.
 
-(7) Az európai uniós társfinanszírozású projektek tekintetében az állami feladat átvételének időpontjában a kedvezményezett társaság helyébe az átvevő költségvetési szerv lép. A jogutódlás miatti szerződésmódosítást az átvevő költségvetési szerv az állami feladat átvételének időpontjától számított tíz napon belül kezdeményezi. A támogató, illetve a közreműködő szervezet a szerződésmódosításokat a kezdeményezéstől számított harminc napon belül hajtja végre.
+(7) Az európai uniós társfinanszírozású projektek tekintetében a feladat átvételének időpontjában a kedvezményezett társaság helyébe az átvevő költségvetési szerv lép. A jogutódlás miatti szerződésmódosítást az átvevő költségvetési szerv a feladat átvételének időpontjától számított tíz napon belül kezdeményezi. A támogató, illetve a közreműködő szervezet a szerződésmódosításokat a kezdeményezéstől számított harminc napon belül hajtja végre.
 
-(8) Az európai uniós társfinanszírozású pályázati konstrukciók tekintetében az állami feladat átvételének időpontjában a pályázó társaság helyébe az átvevő költségvetési szerv lép.
+(8) Az európai uniós társfinanszírozású pályázati konstrukciók tekintetében a feladat átvételének időpontjában a pályázó társaság helyébe az átvevő költségvetési szerv lép.
 
-(9) Az állami feladat átvételekor folyamatban lévő közbeszerzési eljárásokban az állami feladat átvételének időpontjában a társaság helyébe az átvevő költségvetési szerv lép.
+(9) A feladat átvételekor folyamatban lévő közbeszerzési eljárásokban a feladat átvételének időpontjában a társaság helyébe az átvevő költségvetési szerv lép.
 
 11/D. § (1) A társaság ezen alcím alapján történő megszűnésére a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény (a továbbiakban: Ctv.) végelszámolásra vonatkozó szabályait – ideértve a jogutód nélküli megszűnés bejegyzése iránti eljárás szabályait is – nem kell alkalmazni.
 
-(2) Az átvételi felelős a 11/A. § (2) bekezdése szerinti kormányrendelet kihirdetését követően haladéktalanul kezdeményezi a felhívás egyszeri közzétételét a Cégközlönyben. A felhívásban tájékoztatást kell adni arról, hogy a társaság megszűnésére e törvény rendelkezései alapján kerül sor, továbbá hivatkozni kell a kormányrendeletre, és meg kell jelölni a törzskönyvi nyilvántartásba már bejegyzett átvevő költségvetési szervet, illetve a 11/A. § (3) bekezdés c) pontja szerinti képviselőt. A felhívásnak tartalmaznia kell, hogy a még le nem járt követelések megtérítését a hitelező nem követelheti, az e törvény szerinti feladatátvételre hivatkozással a szerződést nem mondhatja fel. Ha az állami feladatot újonnan alapított költségvetési szerv veszi át, az átvételi felelős a költségvetési szerv törzskönyvi nyilvántartásba való bejegyzését követően haladéktalanul a Cégközlönyben második felhívás közzétételét kezdeményezi, amelyben az első felhívásban foglaltakon túlmenően meg kell jelölni az átvevő költségvetési szervet.
+(2) Az átvételi felelős a 11/A. § (2) bekezdése szerinti kormányrendelet, illetve önkormányzati rendelet kihirdetését követően haladéktalanul kezdeményezi a felhívás egyszeri közzétételét a Cégközlönyben. A felhívásban tájékoztatást kell adni arról, hogy a társaság megszűnésére e törvény rendelkezései alapján kerül sor, továbbá hivatkozni kell a kormányrendeletre, illetve az önkormányzati rendeletre, és meg kell jelölni a törzskönyvi nyilvántartásba már bejegyzett átvevő költségvetési szervet, illetve a 11/A. § (3) bekezdés c) pontja szerinti képviselőt. A felhívásnak tartalmaznia kell, hogy a még le nem járt követelések megtérítését a hitelező nem követelheti, az e törvény szerinti feladatátvételre hivatkozással a szerződést nem mondhatja fel. Ha a feladatot újonnan alapított költségvetési szerv veszi át, az átvételi felelős a költségvetési szerv törzskönyvi nyilvántartásba való bejegyzését követően haladéktalanul a Cégközlönyben második felhívás közzétételét kezdeményezi, amelyben az első felhívásban foglaltakon túlmenően meg kell jelölni az átvevő költségvetési szervet.
 
-(3) Az átvételi felelősnek az állami feladat átvételének napját követően haladéktalanul, elektronikus úton benyújtott kérelmére a cégbíróság jogutód feltüntetése nélkül, öt munkanapon belül az állami feladat átvételének napjától megszűntnek nyilvánítja és törli a társaságot a cégjegyzékből. Az e bekezdés szerinti cégeljárásban a jogi képviselet kötelező. A kérelemben fel kell tüntetni, hogy a törlést e törvény, valamint a 11/A. § (2) bekezdése szerinti kormányrendelet alapján kérik. A kérelemhez csatolni kell a társaság vezető tisztségviselőjének nyilatkozatát arról, hogy nem áll fenn a 11/A. § (8) bekezdése szerinti kizáró ok.
+(3) Az átvételi felelősnek a feladat átvételének napját követően haladéktalanul, elektronikus úton benyújtott kérelmére a cégbíróság jogutód feltüntetése nélkül, öt munkanapon belül a feladat átvételének napjától megszűntnek nyilvánítja és törli a társaságot a cégjegyzékből. Az e bekezdés szerinti cégeljárásban a jogi képviselet kötelező. A kérelemben fel kell tüntetni, hogy a törlést e törvény, valamint a 11/A. § (2) bekezdése szerinti kormányrendelet, illetve önkormányzati rendelet alapján kérik. A kérelemhez csatolni kell a társaság vezető tisztségviselőjének nyilatkozatát arról, hogy nem áll fenn a 11/A. § (8) és (8a) bekezdése szerinti kizáró ok.
 
 (4) A (3) bekezdés szerinti eljárásban a cégbíróság a társaság cégjegyzékből történő törlése során a Ctv.-ben előírt feltételek fennállását nem vizsgálja, azzal, hogy a törléshez az állami adóhatóságnak az adózás rendjéről szóló törvény szerinti, a cégbíróság részére a társaság megszűnésével összefüggően nyújtott tájékoztatására kizárólag a 11/A. § (8) bekezdés b) pontjában foglaltak tekintetében, soron kívül kerül sor.
 
-(5) A 11/A. § (8) bekezdésében foglaltak fennállása esetén a társaság ezen alcímben foglaltak alapján nem törölhető a cégjegyzékből.
+(5) A 11/A. § (8) és (8a) bekezdésében foglaltak fennállása esetén a társaság ezen alcímben foglaltak alapján nem törölhető a cégjegyzékből.
 
 (6)
 
-11/E. § (1) Ha az állami feladatot újonnan alapított központi költségvetési szerv veszi át, az új központi költségvetési szerv nyilvántartásba vétel iránti kérelem benyújtásának annyival kell megelőznie az állami feladat átvételének időpontját, hogy az állami feladat folyamatos ellátása biztosított legyen, és az átvevő költségvetési szerv legkésőbb az állami feladat átvételének időpontjától megkezdhesse a működését, továbbá hogy a foglalkoztatottak jogviszonyával kapcsolatos intézkedések kellő időben megtörténjenek.
+11/E. § (1) Ha a feladatot újonnan alapított költségvetési szerv veszi át, az új költségvetési szerv nyilvántartásba vétel iránti kérelem benyújtásának annyival kell megelőznie a feladat átvételének időpontját, hogy a feladat folyamatos ellátása biztosított legyen, és az átvevő költségvetési szerv legkésőbb a feladat átvételének időpontjától megkezdhesse a működését, továbbá hogy a foglalkoztatottak jogviszonyával kapcsolatos intézkedések kellő időben megtörténjenek.
 
-(2) Ha átvevő költségvetési szervként már működő központi költségvetési szerv kerül kijelölésre, az alapító okirat módosítására az (1) bekezdést kell alkalmazni.
+(2) Ha átvevő költségvetési szervként már működő költségvetési szerv kerül kijelölésre, az alapító okirat módosítására az (1) bekezdést kell alkalmazni.
 
 (3) Az (1) és (2) bekezdés szerinti esetekben a kincstár törzskönyvi nyilvántartás vezetésével kapcsolatos eljárása során az ügyintézési határidő tíz nap. Ha a kincstár hiánypótlási felhívást bocsát ki, annak teljesítésére legfeljebb ötnapos határidőt állapíthat meg. A kincstár eljárására egyebekben az e törvényben foglaltakat kell alkalmazni.
 
-11/F. § (1) Az állami feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – az állami feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, kormányzati szolgálati, állami szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
+11/F. § (1) a feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – a feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, állami szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
 
 (2) Az (1) bekezdés szerinti jogállásváltozásról az érintetteket az átvevő költségvetési szerv a jogállásváltozás időpontját megelőző tizenöt napon belül tájékoztatja. Ha eddig a határidőig az átvevő költségvetési szerv még nincs nyilvántartásba véve, abban az esetben az átvételi felelős tájékoztatja az érintetteket.
 
@@ -435,9 +432,9 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 (6) A munkavállaló a kinevezési okmány átvételét követő tizenöt napon belül aláírja a kinevezési okmányt, vagy nyilatkozik arról, hogy továbbfoglalkoztatásához nem járul hozzá, ebben az esetben munkaviszonya jogállásváltozás nélkül a jogállásváltozás időpontját követő harmincadik napon megszűnik. E rendelkezést megfelelően alkalmazni kell akkor is, ha a munkavállaló a kinevezési okmány átvételét követő tizenöt napon belül nem tesz nyilatkozatot vagy nem írja alá a kinevezési okiratot.
 
-(7) Határozatlan időtartamú munkaviszony határozatlan időtartamú közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Részmunkaidőben történő foglalkoztatás esetén a jogviszony részmunkaidős közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
+(7) Határozatlan időtartamú munkaviszony határozatlan időtartamú közalkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős közalkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át. Részmunkaidőben történő foglalkoztatás esetén a jogviszony részmunkaidős közalkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.
 
-(8) A munkavállaló munkaviszonyát a jogállásváltozást követően a rá irányadó jogállási törvény szerint közalkalmazotti, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyban töltött időként kell elismerni.
+(8) A munkavállaló munkaviszonyát a jogállásváltozást követően a rá irányadó jogállási törvény szerint közalkalmazotti, közszolgálati tisztségviselői, kormányzati szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonyban töltött időként kell elismerni.
 
 (9) A munkaviszonyban álló vezető jogviszonyának átalakulását követően – a jogállási törvény figyelembevételével – kell a vezetői munkakör szintjét és megnevezését megállapítani.
 
@@ -445,9 +442,9 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 
 (11) Az átvevő költségvetési szerv a (3)–(4), (6) és (10) bekezdés esetén köteles a megszűnés napjával a munkavállaló számára a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 77. § (1) bekezdés c) pontja szerinti végkielégítést és az Mt. 63. § (2) bekezdés szerinti távolléti díjat megfizetni.
 
-(12) A társaságnál hatályos kollektív szerződés az állami feladat átvételének időpontjában hatályát veszti.
+(12) A társaságnál hatályos kollektív szerződés a feladat átvételének időpontjában hatályát veszti.
 
-(13) A társaságnál működő üzemi tanács az állami feladat átvételének időpontjában megszűnik.
+(13) A társaságnál működő üzemi tanács a feladat átvételének időpontjában megszűnik.
 
 ### III. Fejezet — A KÖLTSÉGVETÉS ELŐKÉSZÍTÉSE ÉS ELFOGADÁSA
 
@@ -1011,6 +1008,8 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (3) A központi költségvetésről szóló törvény alapján nem állami intézmény fenntartójának az általa vagy intézménye útján ellátott köznevelési, szociális, gyermekjóléti, gyermekvédelmi közfeladatra tekintettel biztosított költségvetési támogatás esetében a (2) bekezdést a nem állami intézmény fenntartója és az általa fenntartott intézmény köztartozására is alkalmazni kell.
 
+(4) A Kormány rendeletben előírhatja, hogy a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság kedvezményezett esetén az európai uniós forrásból, valamint a Kormány rendeletében meghatározott fejlesztési célú, nem európai uniós forrásból nyújtott költségvetési támogatások kizárólag a kincstárnál vezetett fizetési számlára folyósíthatók. A kedvezményezett a költségvetési támogatás célja szerinti kiadásokat kizárólag a kincstárnál vezetett fizetési számláról teljesíthet, azokat más célra – így különösen értékpapír-vásárlásra, kamatbevétel realizálására – még átmenetileg sem veheti igénybe.
+
 52. § (1) A költségvetési támogatások felhasználását – ha ennek a közbeszerzésekről szóló törvény szerinti feltételei fennállnak – közbeszerzés alkalmazásához kell kötni.
 
 (2) A költségvetési támogatás nem köthető olyan feltételhez, hogy a közbeszerzési eljárás ajánlattevőjét előzetesen válasszák ki. Ez a rendelkezés nem zárja ki, hogy a támogatási igény elbírálását megelőzően közbeszerzési eljárás kerüljön megindításra, vagy a támogató annak megindítását határozza meg a költségvetési támogatás feltételeként.
@@ -1123,11 +1122,13 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (7) A kincstár (3) bekezdés szerinti határozata elleni keresetlevelet a döntés közlésétől számított 15 napon belül kell benyújtani.
 
+### VII. Fejezet — A HELYI ÖNKORMÁNYZATOK ÁLTALÁNOS MŰKÖDÉSÉNEK ÉS ÁGAZATI FELADATAINAK TÁMOGATÁSA
+
 #### 41. A helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások elszámolása és felülvizsgálata
 
 58. § (1) A helyi önkormányzat az éves költségvetési beszámolójában számol el a számára a költségvetési évben folyósított támogatásokkal.
 
-(2) A helyi önkormányzat az éves költségvetési beszámolójában a költségvetési évben folyósított támogatások felhasználásával kapcsolatos önellenőrzést a költségvetési beszámoló teljesítésének határidejét követő második hónaptól a Kormány rendeletében meghatározott mértékű – a 14. § (4) bekezdés d) pontja szerinti fejezetben elszámolandó – önellenőrzési pótlék megfizetésével egyidejűleg kezdeményezhet, legkésőbb annak az évnek az utolsó napjáig, amely évben az éves költségvetési beszámolót el kellett készítenie.
+(2) A helyi önkormányzat az éves költségvetési beszámolójában a költségvetési évben folyósított támogatások felhasználásával kapcsolatos önellenőrzést a költségvetési beszámoló teljesítésének határidejét követő második hónaptól a hatodik hónapig a Kormány rendeletében meghatározott mértékű – a 14. § (4) bekezdés d) pontja szerinti fejezetben elszámolandó – önellenőrzési pótlék megfizetésével egyidejűleg kezdeményezhet, legkésőbb annak az évnek az utolsó napjáig, amely évben az éves költségvetési beszámolót el kellett készítenie.
 
 59. § (1) A kincstár a helyi önkormányzat éves költségvetési beszámolója alapján az Ákr. szerinti hatósági ellenőrzés keretében felülvizsgálja a támogatások elszámolását, felhasználását. A hatósági ellenőrzés tekintetében alkalmazandó kiegészítő rendelkezéseket kormányrendelet határozza meg. A felülvizsgálat során a kincstár az Állami Számvevőszék jelentéseiben foglalt megállapításokat is figyelembe veszi.
 
@@ -1162,7 +1163,7 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (5) Az ügyfél a nyilatkozatával nem pótolhatja a hiányzó bizonyítékot.
 
-60/B. § A helyi önkormányzat kérelme alapján a kincstár által e törvény alapján benyújtott beszedési megbízást a kincstár nem nyújtja be vagy a már benyújtott beszedési megbízást visszavonja, ha a kérelmező igazolja, hogy az általa fizetendő munkabérek, illetmények és ellátások kifizetését a beszedési megbízás érvényesítése veszélyeztetné.
+60/B. § A helyi önkormányzat kérelme alapján a kincstár által e törvény alapján benyújtott beszedési megbízás benyújtását a kincstár legfeljebb egy alkalommal, legfeljebb négy hónapra elhalasztja, vagy a már benyújtott beszedési megbízást visszavonja és legfeljebb négy hónappal később nyújtja csak be ismételten, ha a kérelmező igazolja, hogy az általa fizetendő munkabérek, illetmények és ellátások kifizetését a beszedési megbízás érvényesítése veszélyeztetné.
 
 ### VIII. Fejezet — AZ ÁLLAMHÁZTARTÁS ELLENŐRZÉSI RENDSZERE
 
@@ -1380,7 +1381,7 @@ vizsgálatára terjed ki.
 - d) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 - e) az MNV Zrt.,
 - f) a Diákhitel Központ Zrt.,
-- g)
+- g) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
 - h) a Nemzeti Eszközkezelő Zrt.,
 - i) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
 - j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik, és
@@ -1710,7 +1711,7 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 
 (3) A nem költségvetési szerv törzskönyvi jogi személyre vonatkozó bejegyzés módosítása a bejegyzés napjától alkalmazandó, kivéve ha törvény más időpontot, vagy az adatmódosításra irányuló kérelem későbbi időpontot állapít meg.
 
-105/B. § (1) A bejelentési, adatszolgáltatási vagy nyilatkozattételi kötelezettségét késedelmesen, hibásan vagy valótlan adattartalommal teljesítő szerv a Kormány rendeletében meghatározott mértékű bírsággal sújtható.
+105/B. § (1) A bejelentési vagy adatszolgáltatási kötelezettségét késedelmesen, hibásan vagy valótlan adattartalommal teljesítő szerv a Kormány rendeletében meghatározott mértékű bírsággal sújtható.
 
 (2) A kincstár jogosult az államháztartás központi alrendszerébe tartozó költségvetési szerv, a törvény által az államháztartás központi alrendszerébe sorolt köztestület, valamint az államháztartás központi alrendszerébe tartozó jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy fizetési számláját a bírság összegével megterhelni.
 
@@ -1731,6 +1732,8 @@ kezelésére.
 (2) A kincstár az (1) bekezdés szerinti személyes adatokat az érintett jogviszonya befejezését követő öt évig, vagy – ha az későbbi – a jogviszonyra vonatkozóan benyújtott keresetet elbíráló peres eljárásban hozott határozat jogerőre emelkedésének napjáig kezelheti.
 
 (3) Ha a központi költségvetésről szóló törvény alapján a szociális, gyermekjóléti és gyermekvédelmi közfeladatot ellátó intézmény nem állami fenntartója részére olyan támogatás nyújtására kerül sor, amelynek alapján munkabér, illetmény, tiszteletdíj, költségtérítés vagy egyéb pénzbeli juttatás kifizetése történik, annak kifizetése és ellenőrzése céljából a kincstár jogosult annak az érintettnek az (1) bekezdésében meghatározott adatait a (2) bekezdésben meghatározott időtartamban kezelni, akire tekintettel a nem állami intézmény fenntartójának a költségvetési támogatás kifizetésre kerül.
+
+(4) A kincstár a törzskönyvi nyilvántartás vezetése során jogosult a törzskönyvi jogi személy vezetőjének elektronikus azonosítása és képviseleti jogosultságának igazolása céljából a Korm. rendeletben meghatározott adatokon túl az adóazonosító jelének nyilvántartására és kezelésére. A kincstár a törzskönyvi jogi személy vezetőjének adóazonosító jelét harmadik személy részére, jogszabályi felhatalmazás kivételével, nem teszi megismerhetővé.
 
 106/B. § A kincstár a belföldi gépjárművek után beszedett adó törvény alapján a központi költségvetést megillető hányadának a 83/A. § (1) bekezdése szerinti ellenőrzése céljából betekinthet a települési önkormányzatnál a gépjárműadóval összefüggésben kezelt dokumentumokba, az azokban szereplő adótitkot és egyéb, a felméréshez szükséges adatokat megismerheti és kezelheti legkésőbb az adatkezelés megkezdésének napjától számított öt évig.
 
@@ -1803,7 +1806,7 @@ a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a k
 - 3. a központi költségvetés tervezéséhez kapcsolódóan a központi költségvetésről szóló törvény fejezeteinek tervezett kiadási főösszegei megállapításának módját, a középtávú tervezéshez szükséges adatszolgáltatás módját,
 - 4. az elfogadott központi költségvetésről szóló törvény alapján fejezetenként a fejezetet irányító szervet, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervét, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok esetén a kezelő szerv kijelölésének módját, feltételeit, a kezelő szerv által ellátható feladatokat, a központi és fejezeti kezelésű előirányzat, elkülönített állami pénzalap nem költségvetési szervi formában működő kezelő szervének szabályzataira, szervezeti felépítésére, pénzügyi feladatokat ellátó alkalmazottaira vonatkozó sajátos követelményeket, az államháztartás önkormányzati alrendszerében az irányító szervet,
 - 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék és a fejezeti stabilitási tartalék felhasználásának rendjét,
-- 6.
+- 6. az 51. § (4) bekezdése szerinti költségvetési támogatásokat, valamint e költségvetési támogatásoknak a kincstárnál vezetett fizetési számlára történő folyósításával és felhasználásával kapcsolatos részletes szabályokat,
 - 7. a fejezetet irányító szerv által az adott költségvetési évre az államháztartásért felelős miniszter egyetértésével kiadott rendelet, szabályzat tartalmi követelményeit,
 - 8. az elemi költségvetés készítésével kapcsolatos tartalmi és formai követelményeket, a bevételi kiemelt előirányzatokat, az egységes rovatrendet,
 - 9. a költségvetési szerv és a fejezeti kezelésű előirányzat többletbevétele felhasználása engedélyezésének eseteit, az engedélyezés szempontjait, eljárási szabályait, az engedélyezők körét, az engedély megadása, megtagadása esetén a többletbevétel további rendeltetését, valamint az előirányzatok módosításának és az előirányzatok átcsoportosításának módját, az előirányzat-csoportok közötti és a kiemelt előirányzatok közötti átcsoportosítás eseteit, módját és az arra jogosultak körét
@@ -1847,7 +1850,7 @@ részletes szabályait,
 - 36. a letéti pénzkezeléshez kapcsolódóan a letéti számla megnyitásának, a letéti számlán lévő pénzeszközzel való pénzügyi műveletek végzésének és a letéti számla vezetésének szabályait,
 - 37. a helyi önkormányzatok vis maior támogatása igénylésének, döntési rendszerének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
 - 38. a gépjárműadó központi költségvetést megillető hányadával kapcsolatos átutalás, adatszolgáltatás, ellenőrzés és kamatfizetés részletes szabályait, valamint az eljárások során kiróható bírság mértékét és kiszabásának elveit,
-- 39. a törzskönyvi nyilvántartásba bejegyzendő adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait, a törzskönyvi nyilvántartással kapcsolatos bejelentési, adatszolgáltatási vagy nyilatkozattételi kötelezettség elmulasztása, késedelmes, hibás vagy valótlan adattartalommal történő teljesítése esetén kiszabható bírság mértékét és kiszabásának elveit,
+- 39. a törzskönyvi nyilvántartásba bejegyzendő adatok körét, a nyilvántartásba vétel, a nyilvántartás vezetésének, a nyilvántartásból történő adatlekérdezés és adatszolgáltatás, a nyilvántartáshoz gépi adatfeldolgozási eszközzel történő csatlakozás szabályait, a törzskönyvi nyilvántartással kapcsolatos bejelentési vagy adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás vagy valótlan adattartalommal történő teljesítése esetén kiszabható bírság mértékét és kiszabásának elveit,
 - 40. a 11/A. § (1) bekezdése szerinti társaság
   - a) által ellátott állami feladat központi költségvetési szerv részére történő átadását és a feladatátvétellel összefüggésben szükséges intézkedéseket,
   - b) átvevő költségvetési szerv részére történő vagyonátadásával, iratátadásával összefüggő részletes feladatokat,
@@ -1897,6 +1900,8 @@ rendeletben szabályozza.
 
 (6) Felhatalmazást kap a helyi önkormányzat, hogy rendeletben állapítsa meg a kiadások készpénzben történő teljesítésének eseteit.
 
+(6a) Felhatalmazást kap a helyi önkormányzat arra, hogy rendeletben állapítsa meg az önkormányzati tulajdonú gazdasági társaságok feladatellátásának önkormányzati fenntartású költségvetési szerv által történő átvételének és a társaság e törvény alapján történő megszüntetésének részletes szabályait.
+
 (7) Az (1) bekezdés 15. pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben meghatározott nyilvántartásokkal kapcsolatos adatfeldolgozási feladatok ellátásával az adatkezelő csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
 (8) A kormányzati szektorba sorolt egyéb szervezetek és a besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személyek megnevezését az államháztartásért felelős miniszter a Hivatalos Értesítőben és a Kormány honlapján közzéteszi.
@@ -1919,11 +1924,15 @@ rendeletben szabályozza.
 
 (2) Az 1993. január 1-jét megelőzően jogszabály által biztosított, jogszabályi felhatalmazás alapján vállalt állami kezességre, garanciára, helytállásra – a kezességvállalás érintetlenül hagyásával – e törvény rendelkezéseit kell alkalmazni.
 
-(3)
+(3) A helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás, valamint a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság, amennyiben a részére megítélt európai uniós forrásból nyújtott támogatás összege meghaladja az ötvenmillió forintot, az európai uniós forrásból származó költségvetési támogatások kincstáron kívüli fizetési számlán kezelt, még fel nem használt összegét a kincstárnál vezetett fizetési számlájára 2018. szeptember 30-ig átutalja. Ezt követően a kedvezményezett a költségvetési támogatás célja szerinti kiadásokat kizárólag a kincstárnál vezetett fizetési számláról teljesítheti. A támogató ellenőrzi az átutalási kötelezettség teljesítését, annak felszólítás ellenére történő elmaradása esetén a jogosulatlanul igénybe vett támogatás jogkövetkezményeit alkalmazza. E rendelkezést a 2018. október 31. napjáig lezáruló európai uniós projektek esetében nem kell alkalmazni
 
 (4) A 92. § (9) bekezdését az e törvény hatálybalépését megelőzően létrejött állami kezességgel biztosított alapjogviszony e törvény hatálybalépését követően történő módosítása során is alkalmazni kell.
 
-(5)–(7)
+(5) Az állami adó- és vámhatóság 2018. október 1-jével a közhiteles törzskönyvi nyilvántartás részére egy egyszeri adatátadás keretében elektronikusan átadja a törzskönyvi jogi személy adószámát, valamint – a nyilvántartást vezető szerv adatszolgáltatása alapján azonosított – vezetője vagy a vezetői jogok gyakorlására ideiglenesen jogosult személy nevét és adóazonosító jelét nyilvántartásba vétel céljából. Az átadást követő naptól a törzskönyvi nyilvántartásba bejegyzett törzskönyvi jogi személy által bejelentett vezető adóazonosító jele, átadásra kerül az „Egyablakos rendszer” keretében az állami adó – és vámhatóság részére.
+
+(6) Az (5) bekezdésben meghatározott azonosítás sikertelensége esetén a hiányzó személyes adatok feltöltését a kincstár hibakezelési eljárás keretében egyedileg hajtja végre a rendelkezésre álló adatok, illetve iratok alapján.
+
+(7)
 
 (8)
 
@@ -1933,7 +1942,7 @@ rendeletben szabályozza.
 
 (11) Ahol jogszabály Kormány által kijelölt belső ellenőrzési szervet említ, azon a 63. § (1) bekezdésében meghatározott kormányzati ellenőrzési szervet kell érteni.
 
-(12) A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépését megelőző napon hatályos 111. § (13) bekezdése szerint adott vagy 111. § (15) bekezdése alapján meghosszabbított felmentés a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépésének napjával határozatlan időre szóló felmentéssé alakul át.
+(12)
 
 (13)–(15)
 
@@ -1963,7 +1972,7 @@ rendeletben szabályozza.
 
 (31)
 
-(32) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 79. § (3a) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvény hatálybalépésekor meglévő értékpapírszámláikat legkésőbb 2016. december 31-éig kötelesek megszüntetni.
+(32)
 
 (33) A nemzetiségi önkormányzatok és az általuk irányított költségvetési szervek esetében a Magyarország 2018. évi központi költségvetésének megalapozásáról szóló 2017. évi LXXII. törvénnyel megállapított 44. § (1) bekezdése szerinti, a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos, az állami adóhatóság felé teljesítendő bevallási kötelezettségeknek a kincstár által működtetett központosított illetményszámfejtés útján történő teljesítése 2018. január 1-jétől valósul meg.
 

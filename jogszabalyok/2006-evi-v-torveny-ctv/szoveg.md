@@ -753,6 +753,8 @@ is fel kell tüntetni a cégjegyzékben.
 
 (4a) A cégjegyzék vezetéséhez és a cégnyilvántartás közhitelessége biztosításához kapcsolódó adatigénylés, továbbá az adóregisztrációs eljáráshoz kapcsolódó adatszolgáltatás érdekében a bejegyzési (változásbejegyzési) kérelemben fel kell tüntetni a cégjegyzékbe bejegyzett (bejegyezni kívánt) személy (külföldi vállalkozás magyarországi fióktelepe és külföldiek magyarországi közvetlen kereskedelmi képviselete esetében a külföldi vállalkozás) adóazonosító számát. Ha a külföldi nem rendelkezik az illetősége szerinti állam által megállapított közteherviselési azonosítóval sem, erre a körülményre utalni kell. Az adóazonosító szám a 24. § (1) bekezdés h) pontja szerinti személyek esetében szerepel a cégjegyzékben.
 
+(4b) Az állami adó- és vámhatóság a céginformációs szolgálat, továbbá a cégbíróság megkeresésére átadja a cégnyilvántartásban kezelt adóazonosító jelhez tartozó titkosított összerendelési kapcsolati kódot a (4a) bekezdés, a 23. § (4) bekezdés és a 38. § szerinti feladatellátás céljából.
+
 (5) Ha törvény a cégirat cégbírósághoz történő benyújtására közvetlenül valamely személyt kötelez, e személy a kötelezettségét elektronikus okiratként készített cégirat esetén legalább fokozott biztonságú elektronikus aláírás alkalmazásával elektronikus úton maga is teljesítheti. Ha a cégiratot elektronikus okirati formába kell alakítani, erre, és az elektronikus okirat cégbírósághoz való benyújtására a jogi képviselő vagy a cégirat benyújtására kötelezett személy jogosult. A jogi képviselő eljárására egyebekben a 37. és 38. § rendelkezéseit megfelelően alkalmazni kell.
 
 (6) A 36–40. § rendelkezéseit a jogorvoslati eljárásokban megfelelően alkalmazni kell.
@@ -1690,7 +1692,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 - a) a céget megszűntnek nyilvánítja,
 - b) a cég a végelszámolást három éven belül nem fejezte be és törlése iránt kérelmet nem terjesztett elő,
-- c) a cég a végelszámolás általános szabályaira történő áttérést nem hajtotta végre, vagy
+- c)
 - d) a cég jogutód nélküli megszűnését előidéző ok következett be, és végelszámolási eljárás lefolytatásának nincs helye. A kényszertörlési eljárás megindítását elrendelő végzés ellen fellebbezésnek és felülvizsgálatnak van helye.
 
 (2) Nincs helye kényszertörlési eljárás elrendelésének a cég fizetésképtelenségét megállapító végzés meghozatalát követően, valamint abban az esetben, ha a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság a cégbíróságot arról értesíti, hogy a céggel szemben büntetőjogi intézkedés alkalmazására kerülhet sor. Ha a kényszertörlés elrendelésére a fizetésképtelenséget megállapító végzés meghozatalát követően, de annak jogerőre emelkedését megelőzően került sor, a felszámolást elrendelő bíróság elektronikus értesítése alapján a kényszertörlési eljárás megszüntetésének van helye. Kényszertörlési eljárás alatt fizetésképtelenség megállapítása iránti eljárás – e törvényben foglalt kivétellel – nem kezdeményezhető.
@@ -2211,15 +2213,11 @@ c)
 
 d) nyilatkozat arról, hogy a munkavállalói érdekképviseletet a végelszámolás megindításáról az ügyvezetés tájékoztatta,
 
-e) a nyugdíj-biztosítási igazgatási szerv és az állami adóhatóság igazolása a cég biztosítottjai adatainak átadásáról,
+e)
 
 f)
 
-2. egyszerűsített végelszámolás esetén:
-
-a) az 1. pont alatti okiratok,
-
-b) a végelszámoló által közzétett hirdetmény.
+2.
 
 ### 2. számú melléklet a 2006. évi V. törvényhez
 
@@ -2445,7 +2443,7 @@ IV. Végelszámolás esetén szükséges okiratok:
 
 a) a legfőbb szervnek a végelszámolás befejezésével kapcsolatos határozatai, ideértve a felügyelőbizottság (ellenőrző bizottság), illetve a cég könyvvizsgálójának jelentését is,
 
-b) az elfogadott zárójelentés, az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat,
+b) az az utolsó üzleti év számviteli törvény szerinti beszámolója, a vagyonfelosztási határozat,
 
 c) engedményezéssel, tartozásátvállalással kapcsolatos okiratok,
 

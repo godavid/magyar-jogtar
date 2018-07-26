@@ -408,7 +408,9 @@ belül döntést hoz.
 
 (5) Ha a mezőgazdasági igazgatási szerv a tulajdonszerzést jóváhagyja, a döntése meghozatalával egyidejűleg a 30. § (1) és (2) bekezdésében meghatározottak szerint az árverési jegyzőkönyvet záradékolja, majd megküldi a végrehajtónak, illetve a felszámolónak. A mezőgazdasági igazgatási szerv az árverési jegyzőkönyv szerinti teljes vételárat átutalja a végrehajtónak, illetve a felszámolónak.
 
-(6) Ha a mezőgazdasági igazgatási szerv megtagadja az árverési vevő javára a tulajdonszerzés jóváhagyását, vagy az árverés sikertelen, a föld az állam tulajdonába és a Nemzeti Földalapba kerül. A mezőgazdasági igazgatási szerv a jóváhagyás megtagadásáról szóló döntését, illetve az árverés sikertelenségéről felvett jegyzőkönyvet közli a földalapkezelő szervvel is. A földalapkezelő szerv a jogerős döntés, illetve az árverés sikertelenségéről felvett jegyzőkönyv közlését követő 30 napon belül köteles a becsértéket a végrehajtó, illetve a felszámoló részére átutalni.
+(6) Felszámolási, vagy önkormányzati adósságrendezési eljárás esetében, ha a mezőgazdasági igazgatási szerv megtagadja az árverési vevő javára a tulajdonszerzés jóváhagyását, vagy az árverés sikertelen, a föld az állam tulajdonába és a Nemzeti Földalapba kerül. A mezőgazdasági igazgatási szerv a jóváhagyás megtagadásáról szóló döntését, illetve az árverés sikertelenségéről felvett jegyzőkönyvet közli a földalapkezelő szervvel is. A földalapkezelő szerv a jogerős döntés, illetve az árverés sikertelenségéről felvett jegyzőkönyv közlését követő 60 napon belül köteles a becsértéket a végrehajtó, illetve a felszámoló részére átutalni.
+
+(7) Végrehajtási eljárás esetében, ha a mezőgazdasági igazgatási szerv megtagadja az árverési vevő javára a tulajdonszerzés jóváhagyását, vagy az árverés sikertelen, az árverést lefolytató mezőgazdasági igazgatási szerv megkeresi a végrehajtót a bírósági végrehajtásról szóló törvény szerinti folyamatos árverezési hirdetmény közzététele érdekében. Ha a föld tulajdonjogára vételi ajánlat érkezik, a végrehajtó árverés lefolytatása érdekében ismételten megkeresi a mezőgazdasági igazgatási szervet.
 
 #### 9. Hatósági jóváhagyáshoz nem kötött tulajdonjog átruházásról szóló szerződések
 
@@ -793,6 +795,10 @@ ténylegesen és igazoltan felmerülő költségek megtérítése a kötelezette
 (9) E törvény rendelkezéseit föld végrehajtási vagy felszámolási eljárás keretében árverés útján történő értékesítése estében 2014. április 30-át követően megtartott árverések esetében kell alkalmazni.
 
 70/A. § E törvény egyes átmeneti szabályairól és más rendelkezéseinek alkalmazásáról külön törvény rendelkezik.
+
+70/B. § (1) E törvénynek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított rendelkezéseit a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépése napján folyamatban lévő azon végrehajtási eljárásokban is alkalmazni kell, amelyekben a földárverések kitűzésére még nem került sor.
+
+(2) Ha a mezőgazdasági igazgatási szerv a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépése napjáig már kitűzte árverésre a földet, a mezőgazdasági igazgatási szerv a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 35. § (6) és (7) bekezdésének megfelelően folytatja le a földek árverését.
 
 71. § E törvény az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 

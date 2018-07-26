@@ -94,7 +94,7 @@ Az adóbevételek biztosítása érdekében, az állampolgárok közterhekhez va
   - c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó letelepedett jogállású, illetve hontalan személy; továbbá
   - d) az a)–c) pontban nem említett természetes személy, akinek da) kizárólag belföldön van állandó lakóhelye; db) létérdekei központja belföld, ha egyáltalán nem vagy nem csak belföldön rendelkezik állandó lakóhellyel; dc) szokásos tartózkodási helye belföldön található, ha egyáltalán nem vagy nem csak belföldön rendelkezik állandó lakóhellyel, és létérdekei központja sem állapítható meg;
 
-azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a legszorosabb személyes, családi és gazdasági kapcsolatok fűzik.
+azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a legszorosabb személyes, családi és gazdasági kapcsolatok fűzik, továbbá az állandó lakóhely az olyan lakóhely, ahol a magánszemély tartós ottlakásra rendezkedett be és ténylegesen ott lakik. Nem változik az állandó lakóhely, ha a magánszemély ideiglenes jelleggel huzamosabb ideig külföldön tartózkodik.
 
 - 3. Külföldi illetőségű magánszemély: a belföldi illetőségű magánszemélynek nem minősülő természetes személy, valamint – a 2. pont c) alpontjában foglaltaktól eltérően – a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 35. § (1) bekezdésének e) pontja hatálya alá tartozó letelepedett jogállású személy, feltéve, hogy bármely 12 hónapos időszakban – a ki- és beutazás napját is egész napnak tekintve – kevesebb, mint 183 napot tartózkodik Magyarország területén.
 - 4. Jövedelemszerzés helye:
@@ -465,8 +465,8 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 - a) megnevezés;
 - b) sorszám vagy más azonosító;
-- c) a magánszemély neve, állandó lakóhelye (székhelye, telephelye), valamint adóazonosító száma;
-- d) a kiállító neve (elnevezése), állandó lakóhelye (székhelye, telephelye), valamint – ha rendelkezik ilyennel – adóazonosító jele, adószáma, ha a kiállító nem azonos a magánszeméllyel;
+- c) a magánszemély neve, lakóhelye (székhelye, telephelye), valamint adóazonosító száma;
+- d) a kiállító neve (elnevezése), lakóhelye (székhelye, telephelye), valamint – ha rendelkezik ilyennel – adóazonosító jele, adószáma, ha a kiállító nem azonos a magánszeméllyel;
 - e) a kiállítás időpontja;
 - f) a gazdasági esemény leírása, megjelölése (így különösen a bevétel vagy a kiadás összege, megszerzésének, illetve teljesítésének jogcíme);
 - g) a nyilvántartásban való rögzítés időpontja;
@@ -1239,7 +1239,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 ### Az egyéni vállalkozó adózása
 
-49/A. § (1) Az egyéni vállalkozó a 49/B. § rendelkezései szerint megállapított vállalkozói adóalapja után vállalkozói személyi jövedelemadót, vállalkozói osztalékalapja után az e törvény szerint előírt adót fizet (a továbbiakban: vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó), vagy az e törvényben és az adózás rendjéről szóló törvényben meghatározott feltételekkel átalányadózást választhat.
+49/A. § (1) Az egyéni vállalkozó a 49/B. § rendelkezései szerint megállapított vállalkozói adóalapja után vállalkozói személyi jövedelemadót, vállalkozói osztalékalapja után az e törvény szerint előírt adót fizet (a továbbiakban: vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó), vagy az e törvényben meghatározott feltételekkel átalányadózást választhat.
 
 (2) Egyéni cég alapítása esetén, tevékenysége megszűnésére tekintettel az egyéni vállalkozó a cégbejegyző határozat jogerőre emelkedésének napját megelőző napra vonatkozóan
 
@@ -1547,7 +1547,7 @@ akkor, ha az egyéni vállalkozó a társadalombiztosítás ellátásaira és a 
 
 (3) Az átalányadózás választását megelőzően érvényesített kisvállalkozói kedvezményre, nyilvántartásba vett fejlesztési tartalékra, foglalkoztatási kedvezményre, nyilvántartott adókülönbözetre, valamint a kisvállalkozások adókedvezményére a 49/B. §, illetve a 13. számú melléklet rendelkezéseit az átalányadózás időszakában is alkalmazni kell.
 
-55. § Az átalányadózásra való jogosultság a határozat jogerőre emelkedésének napjával megszűnik, ha az egyéni vállalkozó terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért jogerősen mulasztási bírságot állapított meg.
+55. § Az átalányadózásra való jogosultság a határozat véglegessé válásának napjával megszűnik, ha az egyéni vállalkozó terhére az adó- vagy vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért véglegesen mulasztási bírságot állapított meg.
 
 56. § (1) Az átalányadózás szerint adózó egyéni vállalkozó, mezőgazdasági őstermelő a bevétel megszerzése érdekében felmerült kiadásairól szóló számlákat és más bizonylatokat az adó utólagos megállapításához való jog elévüléséig megőrzi.
 
@@ -1799,10 +1799,10 @@ azzal, hogy az e) pontban említett esetben az ott meghatározott kamatmértéke
 
 (2) A kamatjövedelem után az adót – amennyiben a kamatjövedelem
 
-- a) kifizetőtől [e § alkalmazásában az (1) bekezdés a)–c) pontja szerinti esetben ideértve a kifizető helyett a kamatjövedelmet kifizető/juttató hitelintézetet, befektetési szolgáltatót is] származik – a megszerzés időpontjára a kifizető állapítja meg, vonja le, fizeti meg és vallja be, azzal, hogy az (1) bekezdés bb) pontjában említett esetben a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában vagy önellenőrzéssel érvényesítheti az értékpapír megszerzésére fordított értéknek és az értékpapírhoz kapcsolódó járulékos költségnek azt a részét, amelyet a kifizető a jövedelem megállapításánál nem vett figyelembe
+- a) kifizetőtől [e § alkalmazásában az (1) bekezdés a)–c) pontja szerinti esetben ideértve a kifizető helyett a kamatjövedelmet kifizető/juttató hitelintézetet, befektetési szolgáltatót is] származik – a megszerzés időpontjára a kifizető állapítja meg, vonja le, fizeti meg és vallja be, azzal, hogy az (1) bekezdés bb) pontjában említett esetben a magánszemély bevallásában vagy önellenőrzéssel érvényesítheti az értékpapír megszerzésére fordított értéknek és az értékpapírhoz kapcsolódó járulékos költségnek azt a részét, amelyet a kifizető a jövedelem megállapításánál nem vett figyelembe
   - aa) a kifizető által kiadott olyan igazolás alapján, amelyen a kifizető a magánszemély kérelmére feltünteti, hogy azt az említett célból adta ki,
   - ab) feltéve, hogy a magánszemély a kamatjövedelmet és a levont adót az aa) pont szerinti igazolás alapján bevallja (bevallotta),
-- b) nem kifizetőtől származik – a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg,
+- b) nem kifizetőtől származik – a magánszemély bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg,
 
 a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről szóló törvény rendelkezéseit figyelembe véve, azzal az eltéréssel, hogy a kifizető az aa) pontban említett igazolás tartalmáról az adóévet követő év január 31-éig adatot szolgáltat az állami adó- és vámhatóság részére.
 
@@ -1906,7 +1906,7 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
 - a) e § alkalmazásában ideértve a belföldi illetőségű hitelintézetet, befektetési szolgáltatót is, ha a magánszemély nála vezetett értékpapír (értékpapír-letéti) számláján elhelyezett értékpapírra tekintettel külföldről származó osztalékot (osztalékelőleget) fizet ki (ír jóvá),
 - b) figyelemmel a 15. § (4) bekezdés és a 7. számú melléklet rendelkezéseire is
 
-– a kifizetés időpontjában állapítja meg és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg. Kifizető hiányában az adót a magánszemély az adóhatósági közreműködés nélkül elkészített bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg. Az osztalékelőleget és annak adóját a kifizetés évéről szóló adóbevallásban tájékoztató adatként kell feltüntetni, a jóváhagyott kifizetett osztalékot, a levont, megfizetett adót az osztalékot megállapító beszámoló elfogadásának évéről szóló adóbevallásban – az osztalékelőlegből levont, megfizetett adót levont adóként figyelembe véve – kell bevallani.
+– a kifizetés időpontjában állapítja meg és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg. Kifizető hiányában az adót a magánszemély bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg. Az osztalékelőleget és annak adóját a kifizetés évéről szóló adóbevallásban tájékoztató adatként kell feltüntetni, a jóváhagyott kifizetett osztalékot, a levont, megfizetett adót az osztalékot megállapító beszámoló elfogadásának évéről szóló adóbevallásban – az osztalékelőlegből levont, megfizetett adót levont adóként figyelembe véve – kell bevallani.
 
 (4) Nem alkalmazható az (1) bekezdés a) pont ae) alpontja, ha a bizalmi vagyonkezelési szerződésben megjelölt kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte.
 
@@ -1927,7 +1927,7 @@ a napjára kell megállapítani.
 
 (4) Az (1) és (3) bekezdés rendelkezése szerint megállapított jövedelem után az adókötelezettség a bevétel megszerzésének napján keletkezik. Ha a bevétel megszerzése több részletben történik, azt kell feltételezni, hogy a magánszemély a jövedelmet a részletnek a teljes várható bevételhez viszonyított arányában szerzi meg.
 
-(5) A kifizető az (1)–(4) bekezdés alapján a bevételből a jövedelmet, a jövedelem jogcíme szerinti adót, adóelőleget a kifizetés időpontjában a rendelkezésére álló vagy általa megállapítható, illetőleg a magánszemély által igazolt szerzési érték- és járulékos költség-adatok figyelembevételével állapítja meg, és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg. Ha a jövedelem nem kifizetőtől származik, a magánszemély az (1)–(4) bekezdés előírásai szerint az adót az adóhatósági közreműködés nélkül elkészített bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg.
+(5) A kifizető az (1)–(4) bekezdés alapján a bevételből a jövedelmet, a jövedelem jogcíme szerinti adót, adóelőleget a kifizetés időpontjában a rendelkezésére álló vagy általa megállapítható, illetőleg a magánszemély által igazolt szerzési érték- és járulékos költség-adatok figyelembevételével állapítja meg, és az adózás rendjéről szóló törvényben meghatározottak szerint vallja be és fizeti meg. Ha a jövedelem nem kifizetőtől származik, a magánszemély az (1)–(4) bekezdés előírásai szerint az adót bevallásában állapítja meg, és a bevallás benyújtására előírt határidőig fizeti meg.
 
 (6) A magánszemély az adóbevallásában az összes adóévi árfolyamnyereségből származó jövedelme megállapításánál, vagy adóbevallása önellenőrzésével érvényesítheti az értékpapír megszerzésére fordított értéknek és az értékpapírhoz kapcsolódó járulékos költségnek azt a részét, amelyet a kifizető a jövedelem megállapításánál nem vett figyelembe.
 
@@ -2565,7 +2565,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 - c) az erdei melléktermékek gyűjtése esetén rendelkezik a terület feletti rendelkezési jogot gyakorlótól a gyűjtésre vonatkozóan beszerzett hozzájárulással;
 - d) folyamatosan részt vesz a gazdaság, a termelési eszközök működtetésében, amennyiben más őstermelővel együtt olyan őstermelői tevékenységet folytat, beleértve a (2) bekezdés szerinti közös őstermelői tevékenységet is, amellyel kapcsolatban mindannyian ugyanazon gazdaságra, termelési eszközökre vonatkozóan nyilatkoztak az b) és c) pont tekintetében.
 
-(2) A magánszemély az (1) bekezdésben említett nyilatkozat kiegészítéseként, a vele közös háztartásban élő családtagjával (családtagjaival) együttes nyilatkozatot tehet arról, hogy a 6. számú melléklet 2. pontjában meghatározott módon és feltételekkel közös őstermelői igazolvány (a továbbiakban: közös igazolvány) kiváltásával kívánja folytatni az őstermelői tevékenységét (a továbbiakban: közös őstermelői tevékenység). Ebben az esetben minden egyes családtagnak az őstermelői jövedelmére ugyanazon adózási módot kell választania, továbbá a közös őstermelői tevékenység időszakában egymással munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban nem állhatnak, a segítő családtagra vonatkozó rendelkezéseket egymásra vonatkozóan nem alkalmazhatják. Az együttes nyilatkozat feltétele, hogy az azt tevők az általános forgalmi adózás tekintetében is ugyanazon adózási módot alkalmazzák.
+(2) A magánszemély az (1) bekezdésben említett nyilatkozat kiegészítéseként, a vele közös háztartásban élő családtagjával (családtagjaival) együttes nyilatkozatot tehet arról, hogy a 6. számú melléklet III. fejezetében meghatározott módon és feltételekkel közös őstermelői igazolvány (a továbbiakban: közös igazolvány) kiváltásával kívánja folytatni az őstermelői tevékenységét (a továbbiakban: közös őstermelői tevékenység). Ebben az esetben minden egyes családtagnak az őstermelői jövedelmére ugyanazon adózási módot kell választania, továbbá a közös őstermelői tevékenység időszakában egymással munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban nem állhatnak, a segítő családtagra vonatkozó rendelkezéseket egymásra vonatkozóan nem alkalmazhatják. Az együttes nyilatkozat feltétele, hogy az azt tevők az általános forgalmi adózás tekintetében is ugyanazon adózási módot alkalmazzák.
 
 (2a) A (2) bekezdés alkalmazásában
 
@@ -2993,13 +2993,27 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (2) Az állami adó- és vámhatóság a mezőgazdasági őstermelők, az általános forgalmi adó fizetésére kötelezett magánszemélyek számára első alkalommal a 2017. évre vonatkozóan készít bevallási tervezetet.
 
+95. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított rendelkezéseit – a (2)–(3) bekezdésben foglaltak figyelembevételével – a hatálybalépés napjától megszerzett jövedelemre és keletkezett adókötelezettségre kell alkalmazni.
+
+(2) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 65. § (2) bekezdés a) és b) pontja, 66. § (3) bekezdése, 67. § (5) bekezdése a hatálybalépését megelőzően megszerzett jövedelemre is alkalmazható.
+
+(3) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 3. § 2. pontja, 1. számú melléklet 3. pont 3.5. alpontja, 9. pont 9.8. alpontja és 9. pont 9.8. alpont 9.8.1. alpontja a 2018. január 1-jétől keletkezett adókötelezettségre is alkalmazható.
+
+(4) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 1. számú melléklet 7. pont 7.40. alpontja a 2018. július 1-jét követően teljesített kifizetésekre is alkalmazható.
+
+(5) A 2019. január 1-jét megelőzően nyújtott lakáscélú munkáltatói támogatással összefüggésben az e törvény 2018. december 31-én hatályos szabályait alkalmazni kell.
+
+(6) Az Szja tv. 70. § (1) bekezdés c) pontjának és 1. számú melléklet 6.pont 6.3. alpontjának 2018. december 31-én hatályos rendelkezését a 2018-ban kezdődő biztosítási évre – de legfeljebb 2019. december 31-éig – megfizetett biztosítási díjakra lehet alkalmazni.
+
+(7) Az állami adó- és vámhatóság az egyéni vállalkozók számára első alkalommal a 2018. évre vonatkozóan készít bevallási tervezetet.
+
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
 #### Az adómentes bevételekről
 
 1. A szociális és más ellátások közül adómentes:
 
-1.1. az állami szociális vagy társadalombiztosítási rendszer keretében nyújtott jövedelempótlék (kivéve az ösztöndíjhoz kapcsolódó jövedelemkiegészítő pótlékot), árvaellátás, házastársi pótlék, házastárs után járó jövedelempótlék, a kárpótlási jegyek életjáradékra váltásáról szóló törvény alapján folyósított életjáradék, az özvegyi nyugdíjra való jogosultság megszűnésére tekintettel kapott végkielégítés, szociális támogatás, lakbér-hozzájárulás, az árvaellátásra jogosult gyermekre tekintettel kapott özvegyi nyugdíj, a megváltozott munkaképességű személyek ellátásai;
+1.1. az állami szociális vagy társadalombiztosítási rendszer keretében nyújtott jövedelempótlék (kivéve az ösztöndíjhoz kapcsolódó jövedelemkiegészítő pótlékot), árvaellátás, házastársi pótlék, házastárs után járó jövedelempótlék, a kárpótlási jegyek életjáradékra váltásáról szóló törvény alapján folyósított életjáradék, az özvegyi nyugdíjra való jogosultság megszűnésére tekintettel kapott végkielégítés, szociális támogatás, lakbér-hozzájárulás, az árvaellátásra jogosult gyermekre tekintettel kapott özvegyi nyugdíj;
 
 1.2. a nyugdíj, a nyugdíjban részesülő magánszemélyt megillető
 
@@ -3007,7 +3021,7 @@ a) baleseti járadék,
 
 b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó öregségi nyugdíjkorhatárt betöltötte;
 
-1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyházi jogi személy által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a helyi önkormányzat által a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott átmeneti segély, temetési segély, önkormányzati segély, lakásfenntartási támogatás, adósságkezelési szolgáltatás, időskorúak járadéka, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, települési támogatás, a vakok személyi járadéka, a rokkantsági járadék, a súlyosan mozgáskorlátozott magánszemély részére jogszabály alapján nyújtott közlekedési támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló egyesület, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
+1.3. az állami szociális rendszer keretében, illetőleg a helyi önkormányzat, továbbá az egyházi jogi személy által nyújtott szociális segély, a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott pénzbeli ellátások, a nevelési díj és a nevelőszülőt a nevelési díj mellett megillető külön ellátmány, valamint az utógondozói ellátás, a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nyújtott pénzbeli és természetbeni ellátások, ideértve a települési támogatást is, a vakok személyi járadéka, a rokkantsági járadék, a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló jogszabály alapján adható támogatás, a fogyatékossági támogatás, a hadigondozási pénzellátások, a nemzeti gondozásról szóló törvény alapján folyósított nemzeti gondozási díj, valamint a munkáltatótól, az érdekvédelmi szervezettől az elhunyt házastársa vagy egyeneságbeli rokona részére folyósított temetési segély, továbbá az önsegélyező feladatot is vállaló egyesület, önsegélyező egyesület által nyújtott szociális segély azzal, hogy e rendelkezés alkalmazásában önsegélyező feladat ellátásának minősül a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvényben felsorolt ellátásokat kiegészítő juttatások nyújtása;
 
 1.4. az intézeti vagy állami nevelésbe vett kiskorú családban való gondozásáért, neveléséért, valamint a gyógyintézet által ápolásra kihelyezett beteg gondozásáért a gyógyintézettől kapott díj, illetve térítés;
 
@@ -3017,7 +3031,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.7. a családok támogatásáról szóló törvényben meghatározott gyermekgondozást segítő ellátás, gyermekgondozási segély, anyasági támogatás és gyermeknevelési támogatás;
 
-1.8. a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott ápolási díj és a tartós ápolást végzők időskori támogatása;
+1.8.
 
 1.9. a szociális gondozói díj évi 180 ezer forintot meg nem haladó része.
 
@@ -3115,7 +3129,7 @@ bc) jog alapításának, joggyakorlás átengedésének, jogról való lemondás
 
 illeti meg.
 
-3.5. a hivatali idejét kitöltött volt köztársasági elnök, az Országgyűlés elnöke által a számára biztosított előirányzat terhére közcélú felajánlás, adomány, vállalás címén közvetlenül magánszemélynek juttatott vagyoni érték.
+3.5. a köztársasági elnök, a volt köztársasági elnök, az Országgyűlés elnöke által a számára biztosított előirányzat terhére közcélú felajánlás, adomány, vállalás címén közvetlenül magánszemélynek juttatott vagyoni érték;
 
 3.6. az a tevékenység ellenértékének nem minősülő pénzbeli juttatás, amelyet
 
@@ -3155,7 +3169,7 @@ c) a két- és többoldalú nemzetközi megállapodások alapján, valamint eur�
 
 d) a határon túli magyarok részére felajánlott képzési és kutatási lehetőségek keretében ösztöndíjban részesülő külföldi oktatók, kutatók részére folyósított juttatás, nyújtott kedvezmény,
 
-e) az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan juttatás, amelyet az Európai Unió finanszíroz, melynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
+e) az Európai Unió bővítési és partnerségi politikájának intézményfejlesztési eszközei keretében, így különösen az ikerintézményi (Twinning) program keretében a magánszemély számára adott olyan, az Európai Unió által finanszírozott juttatás, amelynek mértékét az Európai Unió rendelkezése szerint állapítják meg, és amely a magánszemély külföldre történő kiutazásának és külföldi tartózkodásának költségei fedezetére szolgál (ideértve különösen az utazási költségtérítést és a napidíjat, de ide nem értve a szakértői díjat) azzal, hogy az adómentesség alkalmazása esetén a magánszemély a külföldre történő kiutazással és a külföldi tartózkodással kapcsolatban felmerülő költségeit semmilyen tevékenységéből származó bevételével szemben nem számolhatja el,
 
 f) a Balassi Bálint-ösztöndíjprogram keretében folyósított ösztöndíjak és juttatások,
 
@@ -3169,7 +3183,7 @@ a) juttatott olyan vagyoni érték (így különösen a perselypénz, az egyház
 
 b) a központi költségvetésből jövedelempótlék vagy annak megfelelő jogcímen nyújtott támogatás;
 
-4.9. a jótékony célú rendezvény bevételéből a munkabérként, honoráriumként vagy tiszteletdíjként számfejtett összeg, ha azt a magánszemély nem veszi fel, hanem valamely közérdekű célra felajánlja, azzal, hogy ez nem minősül az adócsökkentésre jogosító közcélú adománynak;
+4.9. a jótékony célú rendezvény bevételéből a munkabérként, honoráriumként vagy tiszteletdíjként számfejtett összeg, ha azt a magánszemély nem veszi fel, hanem valamely közérdekű célra felajánlja;
 
 4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési foglalkoztatási díj;
 
@@ -3337,7 +3351,7 @@ b) a költségtérítést és a jövedelmet helyettesítő kártérítést is ta
 
 c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szolgáltatás összegéből (ideértve a szerződéses feltételek szerint az eltelt napok száma alapján járó napi térítésként vagy az eltelt napok száma alapján meghatározott biztosítási összeget is) a jövedelem-kiesés időszakára napi 15 ezer forintot meg nem haladó rész azzal, hogy az összeghatárt biztosítási szerződésenként (a hozzá kapcsolódó kiegészítő biztosításokkal együtt) kell vizsgálni;
 
-6.8. a 6.6. pont alkalmazásában biztosító a biztosítóintézetekről és a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
+6.8. a 6.6. pont alkalmazásában biztosító a biztosítási tevékenységről szóló törvényben meghatározott, belföldön székhellyel vagy fiókteleppel rendelkező biztosító, továbbá az olyan államban székhellyel rendelkező, ezen állam joga szerinti biztosító, amely állammal Magyarországnak hatályos egyezménye van a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén.
 
 6.9.
 
@@ -3455,7 +3469,11 @@ a) alapján a gyermekvállaláshoz kapcsolódóan elengedett hallgatói hiteltar
 
 b) szerinti hallgatói hitelszerződés alapján fennálló tartozás törlesztéséhez a munkavállaló számárakifizetett juttatás, a munkaviszony fennállásának időtartama alatt a munkavállalót terhelő előírt kötelező diákhitel törlesztő részlet erejéig, de havonta legfeljebb a minimálbér 20 százalékáig terjedő összegig;
 
-7.39. a nyugellátásban és egyes más ellátásban részesülő magánszemélyt kormányrendelet alapján megillető egyszeri juttatás a juttatás időpontjától függetlenül.
+7.39. a nyugellátásban és egyes más ellátásban részesülő magánszemélyt kormányrendelet alapján megillető egyszeri juttatás a juttatás időpontjától függetlenül;
+
+7.40. a közlekedési alapismeretek tanfolyam és vizsga díjából jogszabály alapján visszatérített összeg;
+
+7.41. a Kormány egyedi döntésével a központi költségvetés által biztosított forrás terhére, a lakosság széles köre részére a helyi önkormányzat közreműködésével természetben biztosított juttatás vagy ennek pénzbeli térítése révén megszerzett bevétel.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -3475,7 +3493,7 @@ a) a gyermeknek vagy rá tekintettel más magánszemélynek a köznevelésről s
 
 b) a köznevelésről szóló törvény szerinti nevelési-oktatási intézmény által az intézmény tanulói számára adott, a helyi vagy helyközi tömegközlekedési eszköz igénybevételét szolgáló bérlet, jegy;
 
-c) bölcsődei, óvodai szolgáltatás, bölcsődei, óvodai ellátás;
+c) bölcsődei, óvodai szolgáltatás, bölcsődei, óvodai ellátás, ideértve azt is, ha a kifizető a bölcsődei, óvodai szolgáltatás térítési díját a magánszemély nevére kiállított számla alapján téríti meg;
 
 d) a foglalkozás-egészségügyi ellátás;
 
@@ -3545,7 +3563,7 @@ c) az a)–b) pontokban említett rendezvényeken a gyermekek, tanulók felügye
 
 8.26. a büntetés-végrehajtási intézetekből szabaduló magánszemély részére kiadott, évszaknak megfelelő öltözet;
 
-8.27. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény rendelkezései szerint természetbeni ellátás formájában nyújtott rendkívüli gyermekvédelmi támogatás, továbbá a rendszeres gyermekvédelmi kedvezményre jogosult gyermeknek, fiatal felnőttnek a települési önkormányzat jegyzője által fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható, az Erzsébet-programról szóló törvény szerinti Erzsébet-utalvány formájában nyújtott természetbeni támogatás;
+8.27. a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény rendelkezései szerint rendszeres gyermekvédelmi kedvezményre jogosult gyermeknek, fiatal felnőttnek a települési önkormányzat jegyzője által fogyasztásra kész étel, ruházat, valamint tanszer vásárlására felhasználható, az Erzsébet-programról szóló törvény szerinti Erzsébet-utalvány formájában nyújtott természetbeni támogatás;
 
 8.28. az ingyenesen vagy kedvezményesen
 
@@ -3711,9 +3729,9 @@ c) nem tekinthető munkavállalónak az a magánszemély, akivel a munkáltató 
 
 9.7.6. A munkáltató az adóévet követő év január 31-ig munkavállalónként adatot szolgáltat az adómentes támogatásban részesített magánszemélyek nevéről, adóazonosító jeléről, a munkavállaló által bérelt lakás címéről.
 
-9.8. Az erdőnek minősülő termőföld haszonbérbe adásából származó jövedelem adómentességére vonatkozó szabályok
+9.8. Az erdőnek minősülő termőföld haszonbérbe adásából, valamint az erdőnek minősülő termőföldön folytatott társult erdőgazdálkodásból származó jövedelem adómentességére vonatkozó szabályok
 
-9.8.1. Adómentes az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint erdőnek vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő föld (a továbbiakban: erdőnek minősülő föld) használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosult állami adó- és vámhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
+9.8.1. Adómentes az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény szerint erdőnek vagy erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő föld (a továbbiakban: erdőnek minősülő föld) használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosultnak az erdőnek minősülő föld fekvése szerint illetékes önkormányzati adóhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
 
 9.8.2. A magánszemély köteles a 9.8.1 pont szerinti mentesség alapján korábban meg nem fizetett adót késedelmi pótlékkal növelt összegben a szerződés megszűnése éve kötelezettségeként megállapítani, bevallani és megfizetni, ha a mentesség alapjául szolgáló szerződés az adómentesség feltételéül szabott időtartamon belül bármely okból (ide nem értve a szerződő feleken kívül álló okot, valamint a haszonbérleti szerződés azonnali hatályú felmondását) megszűnik.
 
@@ -3783,7 +3801,7 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 4. a mezőgazdasági őstermelőnél a 16. életévét betöltött segítő családtag részére kifizetett – de legfeljebb a mindenkori minimálbért meg nem haladó – összeg és annak közterhei, feltéve, hogy a segítő családtag legalább heti 40 órában közreműködik (főállású segítő családtag) vagy, ha a közreműködés ideje ennél kevesebb, akkor ezzel arányos rész, azzal, hogy egyebekben a főállású segítő családtag kizárólag a 3. pont vonatkozásában alkalmazottnak minősül;
 
-5. a nem megállapodás alapján befizetett saját szociális hozzájárulási adó;
+5. a befizetett saját szociális hozzájárulási adó;
 
 6. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az önálló tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
@@ -4024,7 +4042,7 @@ A magánszemély a részletező nyilvántartások közül csak azokat köteles v
   - a) A magánszemély a tulajdonában vagy birtokában lévő összes értékpapírról, valamint az ilyen értékpapírra vonatkozó, őt megillető vételi, jegyzési, eladási vagy más hasonló jogról nyilvántartást vezet. A magánszemély e nyilvántartási kötelezettségét a befektetési szolgáltató által kiállított bizonylat megőrzésével teljesíti, amennyiben az értékpapírt befektetési szolgáltatónál helyezte el (vagy az értékpapírt számára befektetési szolgáltató tartja nyilván), és a bizonylaton minden, az adókötelezettség teljesítéséhez, a teljesítés ellenőrzéséhez szükséges adat megtalálható.
   - b) Az értékpapírok nyilvántartása a következő adatokat tartalmazza: – az értékpapírkód; – az értékpapír megnevezése (így különösen befektetési jegy és más kollektív befektetési értékpapír, kötvény, részvény, üzletrész, vagyoni betét); – az értékpapír típusa (bemutatóra, vagy névre szóló); – az értékpapír fajtája (így különösen ideiglenes részvény, törzsrészvény, osztalékelsőbbséget biztosító részvény, dolgozói részvény, dolgozói üzletrész, kamatozó részvény, átváltoztatható kötvény, jegyzési jogot biztosító kötvény); – a kibocsátó neve (cégneve, elnevezése), székhelye; – a kibocsátás időpontja; – az értékpapír névértéke; – az értékpapír megszerzésének időpontja; – az értékpapírra vonatkozó jogra történő utalás, ha a megszerzés, vagy az átruházás értékpapírra vonatkozó vételi, jegyzési, illetve eladási jog (más hasonló jog) gyakorlása révén történt; – az értékpapír megszerzésére fordított érték = bizonylatának sorszáma vagy más azonosítója, = teljesítésének időpontja, = összege; – az értékpapírra fizetett hozam (így különösen kamat, osztalék) = megszerzésének időpontja, = összege; – az átruházás (ideértve a bevonást, az átalakítást, a kicserélést, a felülbélyegzést, a lebélyegzést is) időpontja; – az átruházásra tekintettel megszerzett bevétel = megszerzésének időpontja, = összege; – az átruházásból származó jövedelem összege.
   - c) Ha e törvény előírása szerint az értékpapír átruházása, átalakítása révén megszerzett értékpapír megszerzésére fordított értéket az átruházott, átalakított értékpapír megszerzésére fordított érték alapulvételével, annak megfelelően kell meghatározni, akkor az átruházott, átalakított értékpapírra és a megszerzett értékpapírra vonatkozó nyilvántartás lezárásakor, illetve megnyitásakor e tényt fel kell tüntetni.
-  - d) Az értékpapírra vonatkozó jogok nyilvántartása a következő adatokat tartalmazza: – a jog megnevezése; – az értékpapírkód, ha az ismert; – az értékpapír megnevezése; – az értékpapír típusa; – az értékpapír fajtája; – a kibocsátó neve (cégneve, elnevezése), székhelye; – a kibocsátás időpontja, ha az ismert; – a jog megszerzésének időpontja; – a jog alapítójának neve (cégneve, elnevezése), állandó lakóhelye (székhelye); – a jog megszerzésére fordított érték; – bizonylatának sorszáma vagy más azonosítója; – teljesítésének időpontja; – összege; – a jog átruházásának (ideértve az átengedést, a megszüntetést, a gyakorlás átengedését és a jogról való lemondást is) időpontja; – a jog átruházásra tekintettel megszerzett bevétel; – jog átruházása révén megszerzett jövedelem összege; – megszerzésének időpontja; – összege; – a jog gyakorlásának időpontja.
+  - d) Az értékpapírra vonatkozó jogok nyilvántartása a következő adatokat tartalmazza: – a jog megnevezése; – az értékpapírkód, ha az ismert; – az értékpapír megnevezése; – az értékpapír típusa; – az értékpapír fajtája; – a kibocsátó neve (cégneve, elnevezése), székhelye; – a kibocsátás időpontja, ha az ismert; – a jog megszerzésének időpontja; – a jog alapítójának neve (cégneve, elnevezése), lakóhelye (székhelye); – a jog megszerzésére fordított érték; – bizonylatának sorszáma vagy más azonosítója; – teljesítésének időpontja; – összege; – a jog átruházásának (ideértve az átengedést, a megszüntetést, a gyakorlás átengedését és a jogról való lemondást is) időpontja; – a jog átruházásra tekintettel megszerzett bevétel; – jog átruházása révén megszerzett jövedelem összege; – megszerzésének időpontja; – összege; – a jog gyakorlásának időpontja.
 - 6. Munkabérek, más személyi jellegű kifizetések és a vállalkozói kivét nyilvántartása A magánszemélynek az alkalmazott, a segítő családtag, más magánszemély számára kifizetett összegekről, tartozásokról és követelésekről személyenkénti nyilvántartást kell vezetnie. A nyilvántartásnak – az érintett magánszemélyek adóazonosító adatainak feltüntetése mellett – tartalmaznia kell levonások nélkül a részükre különféle jogcímeken elszámolt személyi jövedelemadó-köteles összegeket, a levont személyi jövedelemadó előleget, nyugdíjjárulékot, munkavállalói járulékot, az egyéb levonásokat, a kifizetett összeget, továbbá a kifizetés keltét, valamint minden olyan adatot, amely a személyi jövedelemadó előleg, illetve – amennyiben erre a magánszemély köteles – év végén a személyi jövedelemadó tényleges összegének a megállapításához szükséges. Az egyéni vállalkozónak az előzőek értelemszerű alkalmazásával kell nyilvántartania a vállalkozói kivéttel kapcsolatos adatokat.
 - 7. Gépjármű-használati nyilvántartás (útnyilvántartás) A magánszemély a jövedelemszerző tevékenységéhez használt gépjármű költségelszámolásához útnyilvántartás vezetésére kötelezett. Erre a célra a menetlevél vezetése is megfelel, ha tartalmazza a továbbiakban részletezett adatokat. Minden gépjármű esetében külön útnyilvántartást kell vezetni. Az útnyilvántartásban fel kell tüntetni a gépjármű típusát, forgalmi rendszámát, továbbá a fogyasztási normát. Az útnyilvántartásban fel kell tüntetni az év első és utolsó napján a kilométeróra állását, továbbá, ha a költségelszámoláshoz ez szükséges, akkor ezt az adatot havonta kell bejegyezni. Az útnyilvántartásnak tartalmaznia kell – az utazás időpontját, – az utazás célját (honnan-hova történt az utazás), – a felkeresett üzleti partner(ek) megnevezését, – a közforgalmú útvonalon megtett kilométerek számát. Az útnyilvántartás tartalmazhatja az előzőekkel kapcsolatos üzemanyag-vásárlás időpontját és költségeit is. Ha az útnyilvántartásra kötelezett magánszemélynek jogszabály alapján titoktartási kötelezettséggel járó tevékenysége (pl. orvosi tevékenység) során az útnyilvántartásban olyan magánszemély adatait kell feltüntetnie, akire nézve a titoktartásra kötelezett, az ilyen felkeresett személy(ek)hez megtett utakról köteles külön útnyilvántartást vezetni. Ezen külön útnyilvántartás tekintetében a vezetésére kötelezettnek gondoskodnia kell arról, hogy annak tartalmát az állami adó- és vámhatóság ellenőrzést végző tisztviselője kivételével harmadik személy ne ismerhesse meg. Az állami adó- és vámhatóság az ilyen útnyilvántartásban foglalt adatok rögzítésére csak akkor jogosult, ha az adóhatósági eljárás során tett megállapításban az adatrögzítés jogszabálysértés bizonyításának alátámasztására szolgál.
 - 8. Hitelbe vagy bizományba történő értékesítésre átadott, átvett áruk nyilvántartása A hitelbe vagy bizományba történő értékesítésre átadott árukról mind az átadó, mind az átvevő nyilvántartást vezet. A nyilvántartásba az adatokat az áru átadásáról-átvételéről kiállított bizonylat alapján kell bejegyezni. Az áru átadásáról-átvételéről kiállított bizonylatnak legalább a következő adatokat kell tartalmaznia: – az „Átvételi elismervény bizományba (hitelbe) átadott árukról” megnevezést, – az átadó nevét, címét, adóigazgatási azonosító számát, – az átvevő nevét, címét, adóigazgatási azonosító számát, – az átadott áru megnevezését, vámtarifaszámát (legalább az áfa megállapításához szükséges mélységig), mennyiségét, egységárát, értékét, – az átadás-átvétel keltét, – az elszámolás időpontját, – az átadó és átvevő aláírását. Az áru átvevője – tekintettel az áfa-fizetési kötelezettségre – minden hónap utolsó napjával elszámol az átadóval a ténylegesen eladott árukról. Az átadó az eladott áruról számlát állít ki, és a számla alapján módosítja mind az átadó, mind az átvevő a hitelbe vagy bizományba átadott-átvett áruk nyilvántartását. A nem értékesített és a megbízónak visszaadott áruról átadás-átvételi bizonylatot kell kiállítani, és a bizonylat adataival a nyilvántartást mind az átadó, mind az átvevő módosítja. Az átadás-átvételi bizonylatot az „Átvételi elismervény bizományba (hitelbe) átadott áruról” című bizonylattal értelemszerűen azonos adattartalommal kell elkészíteni.
@@ -4056,123 +4074,51 @@ Vámtarifa azonosító
 
 A) Állat, állati termék
 
-1. Élő állat (ideértve a méhcsaládot, a méhanyát, a méhbábot, a méhrajt is) 0101–0106-ból, 0301-ből, 0306-ból, 0307-ből
-
-kivéve:
-
-a sportló, a versenyló, a kutya, a macska, a laboratóriumi állat, a vírus- és szérum-állat, a dísz- és állatkerti állat, a vadon élő, a vadasparkban és a vadaskertben élő fajok, a természetvédelmi oltalom alatt álló, gyűjtési tilalom alá eső állatfajok
-
-2. Tej és tejipari termék 0401–0406
-
-3. Madártojás héjában 0407
-
-kivéve:
-
-a gyógyászati tenyésztojás, a vadon élő madár tojása
-
-4. Természetes méz (ideértve a lépes-, a termelői és az egyéb természetes mézet is) 0409
-
-5. Állati eredetű termék: nyers állati szőr nem textilipari célra, nyers toll legfeljebb tisztítva, nyers gyapjú, nyers finom vagy durva állati szőr 0502–0503, a 0505-ből, az 5101-ből, 5102
-
-6. Nyers méhviasz és feldolgozási maradék termék 152190 91 00-ből, 152200 99 00-ből
-
-7. Propolisz (méhszurok), 130190 90 99-ből
-
-továbbá
-
-Méhpempő 0410-ből
-
-nyers virágpor 121299 80 00-ből
-
-Méhméreg 300190 99 00-ből
-
-máshova nem sorolt méhészeti termék 210690 98 99-ből
+| Sorszám | Megnevezés | Vámtarifaszám |
+| --- | --- | --- |
+| 1. | Élő állat (ideértve a méhcsaládot, a méhanyát, a méhbábot, a méhrajt is) kivéve: a sportló, a versenyló, a kutya, a macska, a laboratóriumi állat, a vírus- és szérum-állat, a dísz- és állatkerti állat, a vadon élő, a vadasparkban és a vadaskertben élő fajok, a természetvédelmi oltalom alatt álló, gyűjtési tilalom alá eső állatfajok | 0101-0106-ból, 0301-ből, 0306-ból, 0307-ből |
+| 2. | Tej és tejipari termék | 0401-0406 |
+| 3. | Madártojás héjában kivéve a gyógyászati tenyésztojás, a vadon élő madár tojása | 0407 |
+| 4. | Természetes méz (ideértve a lépes-, a termelői és más természetes mézet is) | 0409 |
+| 5. | Állati eredetű termék: nyers állati szőr nem textilipari célra, nyers toll legfeljebb tisztítva, nyers gyapjú, nyers finom vagy durva állati szőr | 0502, 0511 99 85-ből, a 0505-ből, az 5101-ből, 5102 |
+| 6. | Nyers méhviasz és feldolgozási maradék termék | 152190 91-ből 152200 99-ből |
+| 7. | Propolisz (méhszurok), továbbá Méhpempő nyers virágpor Méhméreg máshova nem sorolt méhészeti termék | 130190-ből 0410-ből 121299 95-ből 300190 98-ból 210690 98-ból |
 
 B) Növény, növényi termék
 
-8. Élő növény a 0601-ből,
-
-kivéve: a hínár, az alga a 0602-ből
-
-9. Díszítés vagy csokorkészítés céljára szolgáló vágott virág, bimbó, lombozat, ág és más növényi rész 0603, a 0604-ből
-
-kivéve:
-
-a moha, a zuzmó, a tűlevelű ág
-
-10. Zöldségfélék, étkezésre alkalmas gyökerek és gumók frissen, hűtve, fagyasztva, ideiglenesen tartósítva vagy szárítva, továbbá tisztított, koptatott, hámozott, darabolt, csumázott zöldség, burgonya 0701–0714
-
-11. Gyümölcs és dió, valamint citrus- és dinnyefélék héja étkezésre alkalmas állapotban, frissen, hűtve, fagyasztva, ideiglenesen tartósítva vagy szárítva, továbbá tisztított, hámozott, negyedelt, felezett gyümölcs 0801–0814
-
-12. Fűszernövények és fűszerek:
-
-Fűszerpaprika 0904 20-ból
-
-Borókabogyó 0909 50-ből
-
-Sáfrány 0910 20
-
-Kakukkfű 0910 40-ből
-
-Ánizsmag 0909 1000
-
-Köménymag 0909 30
-
-Kapormag 0910 99-ből
-
-egyéb hazai fűszernövények 0709 90-ből, 1211 90-ből
-
-13. Gabonafélék szemtermése, búza, kétszeres, rozs, árpa, zab, kukorica, rizs, cirokmag, hajdina, köles, kanárimag, triticale és más hibrid 1001–1005, 100610, 1007–1008
-
-kivéve: a malomiparban megmunkáltakat
-
-14. Olajos magvak és olajtartalmú gyümölcsök:
-
-szójabab, földimogyoró, lenmag, repce, napraforgó, ricinus, mustármag, sáfránymag, mákszem, kendermag 1201–1207
-
-15. Vetőmag, gyümölcs vagy spóra vetési célra 1209
-
-16. Ipari növények:
-
-– komlótoboz és lupulin, 1210,
-
-– növény és növényrész, ha az illatszer-, gyógyszer-, növényvédőszer- és hasonló iparban alapanyaga (angelikagyökér és -mag, anyarozs, bazsalikom, birsmag, bojtorján, borágófű, csillagvirág-hagyma, diólevél, fehér és fekete üröm, fekete bodza, fenyőrügy, galangagyökér, gyermekláncfű, gyűszűvirág, hársfavirág és -levél, hunyor, imola, izsóp, kamillavirág, kökörcsin, macskagyökér, mákgubó, maszlag, menta, morzsika, nadragulya, nőszirom, orvosi pemetefű, ökörfark-kóró, papsajt, rozmaring, rózsaszirom, rutalevél, sártök, szagos müge, szárcsagyökér, tárnics, útifű, vadmajoranna, vasfű, veronikafű, vidrafű, zsálya stb.), hazai gyógynövények 1211-ből
-
-– szentjánoskenyér, cukorrépa, cukornád, barack- és szilvamag, pörköletlen cikóriagyökér 1212-ből
-
-– gabonaszalma és -pelyva 1213
-
-– takarmánynövény: karórépa, marharépa, takarmányrépa, takarmánygyökér, széna, lucerna, lóhere, baltacim, takarmánykáposzta, csillagfürt, bükköny 1214
-
-17. Növényi eredetű nyersanyag fonásra, illetve seprű vagy ecset készítésére: nád, sás, fűzfavessző 1401, 1403
-
-18. Feldolgozott (véglegesen tartósított vagy konzervált, illetve közvetlenül fogyasztható) zöldség, gyümölcs és dió 2001–2009
-
-19. Szőlőbor 220421-ből, kivéve a 22042199
-
-220429-ből, kivéve a 22042999
-
-20. Szőlőmust 2204 30
-
-21. Állatok etetésére szolgáló növényi eredetű termék: makk, vadgesztenye, kukoricacsutka, -szár, -csuhé, -levél, répafej, zöldségfélék héja, gyümölcshulladék stb. 2308 00 40, 2308 00 90-ből
-
-22. Nyers dohány, szárítva is, de nem pácolva vagy fermentálva, dohányhulladék 2401-ből
-
-23. Szerves trágya 3101
-
-24. Szőlővenyige, fás szárú energetikai ültetvényről lekerülő tűzifa, faforgács, fűrészpor és fahulladék 4401-ből
-
-25. Fából kizárólag hasítással készített karó, cölöp, cövek, pózna, bot stb. 4404-ből
-
-26. Len és valódi kender
-
-(Cannabis sativa L), nyersen 5301-ből, 5302-ből
-
-27. Karácsonyfa 0604-ből
-
-28. Borseprő, borkő 2307-ből
-
-29. Szőlőtörköly 2308-ból
+| 8. | Élő növény kivéve: a hínár, az alga | 0601-ből, a 0602-ből |
+| --- | --- | --- |
+| 9. | Díszítés vagy csokorkészítés céljára szolgáló vágott virág, bimbó, lombozat, ág és más növényi rész kivéve: a moha, a zuzmó, a tűlevelű ág | 0603, a 0604-ből |
+| 10. | Zöldségfélék, étkezésre alkalmas gyökerek és gumók frissen, hűtve, fagyasztva, ideiglenesen tartósítva vagy szárítva, továbbá tisztított, koptatott, hámozott, darabolt, csumázott zöldség, burgonya | 0701-0714 |
+| 11. | Gyümölcs és dió, valamint citrus- és dinnyefélék héja étkezésre alkalmas állapotban, frissen, hűtve, fagyasztva, ideiglenesen tartósítva vagy szárítva, továbbá tisztított, hámozott, negyedelt, felezett gyümölcs | 0801-0814 |
+| 12. | Fűszernövények és fűszerek: |  |
+| Fűszerpaprika | 0904 21-ből 0904 22-ből |
+| Borókabogyó | 0909 61-ből 0909 62-ből |
+| Sáfrány | 0910 20 |
+| Kakukkfű | 0910 99 31, 0910 99 33, 0910 99 39 |
+| Ánizsmag | 0909 61-ből 0909 62-ből |
+| Köménymag | 0909 31, 0909 32 |
+| Kapormag | 0910 99 91-ből és 0910 99 99-ből |
+| Más hazai fűszernövények | 0709 99-ből 1211 90-ből |
+| 13. | Gabonafélék szemtermése, búza, kétszeres rozs, árpa, zab, kukorica, rizs, cirokmag, hajdina, köles, kanárimag, triticale és más hibrid kivéve: a malomiparban megmunkáltakat | 1001-1005, 100610, 1007-1008 |
+| 14. | Olajos magvak és olajtartalmú gyümölcsök: szójabab, földimogyoró, lenmag, repce, napraforgó, ricinus, mustármag, sáfránymag, mákszem, kendermag | 1201-1207 |
+| 15. | Mag, gyümölcs vagy spóra vetési célra | 1209 |
+| 16. | Ipari növények: – Komlótoboz frissen vagy szárítva, őrölve, porítva vagy labdacs (pellet) alakban is; lupulin, – növény és növényrész, ha az illatszer-, gyógyszer-, növényvédőszer- és hasonló iparban alapanyaga (angelikagyökér és -mag, anyarozs, bazsalikom, birsmag, bojtorján, borágófű, csillagvirág-hagyma, diólevél, fehér és fekete üröm, fekete bodza, fenyőrügy, galangagyökér, gyermekláncfű, gyűszűvirág, hársfavirág és -levél, hunyor, imola, izsóp, kamillavirág, kökörcsin, macskagyökér, mákgubó, maszlag, menta, morzsika, nadragulya, nőszirom, orvosi pemetefű, ökörfark-kóró, papsajt, rozmaring, rózsaszirom, rutalevél, sártök, szagos müge, szárcsagyökér, tárnics, útifű, vadmajoranna, vasfű, veronikafű, vidrafű, zsálya stb.), hazai gyógynövények | 1210 1211-ből |
+| – szentjánoskenyér, cukorrépa, cukornád, barack- és szilvamag, pörköletlen cikóriagyökér | 1212-ből 1213 |
+| – gabonaszalma és -pelyva nyersen, vágva, őrölve, sajtolva vagy labdacs (pellet) alakban is – takarmánynövény: karórépa, marharépa, takarmányrépa, takarmánygyökér, széna, lucerna (alfalfa), lóhere, baltacim, takarmánykáposzta, csillagfürt, bükköny és hasonló takarmánynövény labdacs (pellet) alakban is | 1214-ből |
+| 17. | Növényi eredetű nyersanyag fonásra, illetve seprű vagy ecset készítésére: nád, sás, fűzfavessző | 1401-ből, 1404 90-ből |
+| 18. | Feldolgozott (véglegesen tartósított vagy konzervált, illetve közvetlenül fogyasztható) zöldség, gyümölcs és dió hazai termékből | 2001-2009-ből |
+| 19. | Szőlőbor (tényleges alkoholtartalma legfeljebb 22 térfogatszázalék) | 220421-ből, 2204 22-97-ből, 2204-22-98-ból 2204 29-ből, |
+| 20. | Más szőlőmust | 2204 30 |
+| 21. | Állatok etetésére szolgáló növényi eredetű termék: makk, vadgesztenye, kukoricacsutka, -szár, -csuhé, -levél, répafej, zöldségfélék héja, gyümölcshulladék stb | 2308 00 40-ből, 2308 00 90-ből |
+| 22. | Nyers dohány, szárítva is, de nem pácolva vagy fermentálva, dohányhulladék | 2401-ből |
+| 23. | Szerves trágya | 3101 |
+| 24. | Szőlővenyige, fás szárú energetikai ültetvényről lekerülő tűzifa, faforgács, fűrészpor és fahulladék | 4401-ből |
+| 25. | Fából kizárólag hasítással készített karó, cölöp, cövek, pózna, bot stb. | 4404-ből |
+| 26. | Len és valódi kender (Cannabis sativa L), nyersen | 5301-ből 5302-ből |
+| 27. | Karácsonyfa | 0604-ből |
+| 28. | Borseprő, nyers borkő | 2307 |
+| 29. | Szőlőtörköly | 2308 00 11 2308 00 19 |
 
 C) Tevékenységek
 
@@ -4354,7 +4300,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 5. az olyan személybiztosítás díja, amelynek biztosítottja az alkalmazott (adóköteles biztosítási díj esetében feltéve, hogy a biztosítói szolgáltatás kedvezményezettje nem az egyéni vállalkozó), továbbá az egyéni vállalkozó által az alkalmazott javára az önkéntes kölcsönös biztosító pénztárba történő munkáltatói hozzájárulás és annak közterhei;
 
-6. a nem megállapodás alapján befizetett saját szociális hozzájárulási adó, egészségügyi szolgáltatási járulék;
+6. a befizetett saját szociális hozzájárulási adó, egészségügyi szolgáltatási járulék;
 
 7. a köztestület számára tagdíj vagy annak megfelelő jogcímen fizetett összeg, továbbá az egyéni vállalkozói tevékenységgel kapcsolatos érdekképviseleti feladatot is ellátó egyesület számára tagdíj címén fizetett összeg;
 
@@ -4380,7 +4326,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 18. az egyéni vállalkozói tevékenységhez jogszabály vagy nemzetközi szerződés rendelkezése alapján kapott támogatás jogszerű felhasználásával teljesített kiadás alapján meghatározott költség, akkor is, ha a kiadás részben a magánszemély személyes vagy családi szükségletét szolgálja (ha azonban a támogatás csak részben nyújt fedezetet a kiadásra, akkor e rendelkezés alapján a kiadásnak csak a támogatásból fedezett része alapján számolható el költség);
 
-19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, a külföldi kiküldetéshez kapcsolódó elismert költségekről szóló kormányrendelet és a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
+19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, a külföldi kiküldetéshez kapcsolódó elismert költségekről szóló kormányrendelet és a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e rendelkezés alkalmazásában az engedélyhez kötött belföldi, nemzetközi közúti közlekedési szolgáltatással esik egy tekintet alá az a saját célra folytatott (saját számlás) áruszállítási, személyszállítási tevékenység is, amely más személy részére jogszerűen csak engedélyhez kötött belföldi közúti közlekedési szolgáltatásként vagy engedélyhez kötött nemzetközi közúti szolgáltatásként lenne nyújtható; e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
 
 20. ha az egyéni vállalkozó alkalmazottat foglalkoztat, akkor annak hivatali üzleti utazására is a 19. pont rendelkezései szerint kell eljárni;
 
@@ -4494,15 +4440,15 @@ f) A bányaművelésre, a hulladéktárolásra igénybe vett földterület, tele
 
 g) A kétszázezer forint egyedi beszerzési, előállítási értéket meg nem haladó, valamint a 33 százalékos norma alá besorolt tárgyi eszközök esetében választható, hogy a leírási évek száma két adóév és a leírás mértéke 50-50 százalék.
 
-h) Az 1995. december 31-e után üzembe helyezett, korábban még használatba nem vett, a Harmonizált Rendszer szerint (a továbbiakban: HR) 8401 vámtarifaszám (a továbbiakban: vtsz.), a HR 8405–8408, 8410–8430, 8432–8447, 8449–8465, 8467, 8468, 8474–8485, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504–8507, 8511–8513, 8530, 8531, 8535–8537, 8539, 8543–8548, 9006, 9405 vtsz.-ok alá tartozó villamos készülékek, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető, kivéve, ha az adózó az e fejezet alapján érvényesíthető magasabb kulcs alkalmazását választja.
+h) Az 1995. december 31-e után üzembe helyezett, korábban még használatba nem vett, a Harmonizált Rendszer szerint (a továbbiakban: HR) 8401 vámtarifaszám (a továbbiakban: vtsz.), a HR 8405-8408, 8410-8430, 8432-8447, 8449-8465, 8467, 8468, 8474-8484, 8487, 8508, 8515, 8701, 8709, 8716 vtsz.-ok alá tartozó gépek, gépi berendezések, a HR 8501, 8502, 8504-8507, 8511-8513, 8530, 8531, 8535-8537, 8539, 8543-8548, 9006, 9405 vtsz.-ok alá tartozó elektromos berendezések, a HR 8403 vtsz. alá tartozó kazán és a HR 8402 vtsz. alá tartozó gőzfejlesztő berendezés esetében évi 30 százalék értékcsökkenési leírás érvényesíthető, kivéve, ha az adózó az e fejezet alapján érvényesíthető magasabb kulcs alkalmazását választja.
 
-i) A vállalkozási övezetben telephellyel rendelkező egyéni vállalkozó a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett tárgyi eszközök – kivéve a közúti gépjárművet (HR 8701–8705, 8710, 8711 vtsz.-ok), az épületet és az építményt – esetében egyösszegű, valamint a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett épület, építmény esetében évi 10 százalék mértékű értékcsökkenési leírást érvényesíthet. E rendelkezés alkalmazásában vállalkozási övezetnek minősül a jogszabályban ilyenként meghatározott közigazgatási egység.
+i) A vállalkozási övezetben telephellyel rendelkező egyéni vállalkozó a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett tárgyi eszközök – kivéve a közúti gépjárművet (HR 8701-8705, 8710, 8711 vtsz.-ok), az épületet és az építményt – esetében egyösszegű, valamint a vállalkozási övezetté minősítést követően, de legkésőbb 2002. december 31-én ott üzembe helyezett és korábban még használatba nem vett épület, építmény esetében évi 10 százalék mértékű értékcsökkenési leírást érvényesíthet. E rendelkezés alkalmazásában vállalkozási övezetnek minősül a jogszabályban ilyenként meghatározott közigazgatási egység.
 
 j) Tárgyi eszköz, nem anyagi javak 1996. december 31-ét követő részletfizetéssel történő vásárlása esetén – amennyiben a szerződés szerint a vevő legkésőbb az utolsó részlet törlesztésével vagy azt követően egy meghatározott időtartamon belül tulajdonossá válik –, a vevő egyéni vállalkozó a tárgyi eszköz, nem anyagi javak beszerzési árának egészére alkalmazhatja az e melléklet szerinti értékcsökkenési leírást, függetlenül a vételár kiegyenlítésének módjától. Ha az egyéni vállalkozó az előzőek szerinti módon adja el tárgyi eszközét, nem anyagi javait, akkor adóévi bevételként az adott évben e címen kapott törlesztő részlet összegét kell figyelembe vennie. A részletfizetéshez kapcsolódó kamat nem része a beszerzési árnak, a kifizetés évében költségként elszámolható.
 
 k) A szálláshely-szolgáltató és vendéglátó tevékenységet végző egyéni vállalkozó a kizárólag e célból üzemeltetett hosszú élettartamú szerkezetű épület esetében 3 százalék értékcsökkenési leírást érvényesíthet.
 
-l) A HR 8471 vtsz. alá tartozó általános rendeltetésű számítástechnikai gép, berendezés esetében az egyéni vállalkozó 50 százalék értékcsökkenési leírást érvényesíthet.
+l) A HR 8443 31, 8443 32, 8471 8528 42; 8528 52, vtsz. alá tartozó általános rendeltetésű számítástechnikai gép, berendezés esetében az egyéni vállalkozó 50 százalék értékcsökkenési leírást érvényesíthet.
 
 m) Az egyéni vállalkozó a 33 vagy a 14,5 százalékos norma alá besorolt, korábban még használatba nem vett tárgyi eszközökre, valamint a szellemi termékre, a kísérleti fejlesztés aktivált értékére 50 százalék értékcsökkenési leírást érvényesíthet.
 
@@ -4599,21 +4545,21 @@ d) Gépek, berendezések, felszerelések, járművek
 
 da) 33 százalékos kulcs alá tartozó tárgyi eszközök:
 
-1. a HR 8456–8465, 8479 vtsz.-okból a programvezérlésű, számvezérlésű gépek, berendezések;
+1. a HR 8456-8465, 8479 vtsz.-okból a programvezérlésű, számvezérlésű gépek, berendezések;
 
-2. a HR 8471, 8530, 8537 vtsz.-okból az irányítástechnikai és általános rendeltetésű számítástechnikai gépek, berendezések;
+2. a HR 8443 31, 8443 32, 8471 8528 42; 8528 52, 8530, 8537 vtsz.-okból az irányítástechnikai és általános rendeltetésű számítástechnikai gépek, berendezések;
 
 3. a HR 84. és 85. Árucsoportból az ipari robotok;
 
-4. a HR 9012, 9014–9017, 9024–9032 vtsz.-okból az átviteltechnikai, az ipari különleges vizsgálóműszerek és a komplex elven működő különleges mérő és vizsgáló berendezések;
+4. a HR 9012, 9014-9017, 9024-9032 vtsz.-okból az átviteltechnikai, az ipari különleges vizsgálóműszerek és a komplex elven működő különleges mérő és vizsgáló berendezések;
 
-5. a HR 8469, 8470, 8472, 9009 vtsz.-ok, valamint a HR 8443 5100 00 vtsz.-alszám;
+5. a HR, 8470, 8472, vtsz.-ok, valamint a HR 8443 39 vtsz.-alszám alól a nyomtatók;
 
-6. a HR 8419 11 00 00, 8541 40 90 00 vtsz.-alszámok;
+6. a HR 8419 11 00, 8541 40 90 vtsz.-alszámok;
 
 7. a HR 8402, 8403, 8416, 8417 vtsz.-okból a fluidágyas szénportüzelésű berendezések, valamint a mezőgazdasági és erdőgazdasági nedves melléktermékek elégetésével üzemelő hőfejlesztő berendezések;
 
-8. a HR 8417 80 10 00 vtsz.-alszám, valamint a 8514 vtsz.-ból a hulladékmegsemmisítő, -feldolgozó, -hatástalanító és -hasznosító berendezések;
+8. a HR 8417 80 70 vtsz.-ből, valamint a 8514 vtsz.-ból a hulladékmegsemmisítő, -feldolgozó, -hatástalanító és -hasznosító berendezések;
 
 9. a HR 8421 21 vtsz.-alszámok;
 
@@ -4621,15 +4567,15 @@ da) 33 százalékos kulcs alá tartozó tárgyi eszközök:
 
 11. a HR 8421 31 és a 8421 39 vtsz.-alszámok;
 
-12. a HR 8419 20 00 00 vtsz.-alszám, továbbá a HR 9018–9022 vtsz.-okból az orvosi gyógyászati laboratóriumi eszközök.
+12. a HR 8419 20 00 vtsz.-alszám, továbbá a HR 9018-9022 vtsz.-okból az orvosi gyógyászati laboratóriumi eszközök.
 
 db) 20 százalékos kulcs alá tartozó tárgyi eszközök:
 
-a HR 8701 vtsz.-ból a járművek, valamint a HR 8702–8705, valamint a HR 8710, 8711 vtsz.-ok.
+a HR 8701 vtsz.-ból a járművek, valamint a HR 8702-8705, valamint a HR 8710, 8711 vtsz.-ok.
 
 dc) 14,5 százalékos kulcs alá tartozó tárgyi eszközök:
 
-Minden egyéb – a da)–db) pontban fel nem sorolt – tárgyi eszköz.
+Minden más – a da)–db) pontban fel nem sorolt – tárgyi eszköz.
 
 e) Kortárs képzőművészeti alkotást 5 évi vagy annál hosszabb idő alatt lehet leírni.
 

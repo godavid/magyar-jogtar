@@ -146,13 +146,9 @@ megállapításra kerülő öregségi nyugdíj esetében
 (2) Öregségi teljes nyugdíjra az jogosult, aki
 
 - a) a születési évének megfelelő – az (1) bekezdésben meghatározott – öregségi nyugdíjkorhatárt (a továbbiakban: öregségi nyugdíjkorhatár) betöltötte, és
-- b) legalább húsz év szolgálati idővel rendelkezik, valamint
-- c) azon a napon, amelytől kezdődően az öregségi teljes nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
+- b) legalább húsz év szolgálati idővel rendelkezik.
 
-(2a) Öregségi teljes nyugdíjra életkorától függetlenül jogosult az a nő is, aki
-
-- a) legalább negyven év jogosultsági idővel rendelkezik, és
-- b) azon a napon, amelytől kezdődően az öregségi teljes nyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
+(2a) Öregségi teljes nyugdíjra életkorától függetlenül jogosult az a nő is, aki legalább negyven év jogosultsági idővel rendelkezik.
 
 (2b) A (2a) bekezdés tekintetében jogosultsági időnek minősül a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal, valamint a terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban és a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel megállapított ápolási díjban eltöltött idővel, vagy ezekkel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati idő.
 
@@ -163,15 +159,9 @@ megállapításra kerülő öregségi nyugdíj esetében
 (3) Öregségi résznyugdíjra az jogosult, aki
 
 - a) az öregségi nyugdíjkorhatárt betöltötte, és
-- b) legalább tizenöt év szolgálati idővel rendelkezik, valamint
-- c) azon a napon, amelytől kezdődően az öregségi résznyugdíjat megállapítják, a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonyban nem áll.
+- b) legalább tizenöt év szolgálati idővel rendelkezik.
 
-(4) Nem jogosult öregségi teljes, illetve résznyugdíjra
-
-- a) az a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek (a továbbiakban: uniós rendeletek) hatálya alá tartozó személy, aki EGT-államban,
-- b) az a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy – ha az egyezmény eltérően nem rendelkezik –, aki a szerződő államban
-
-– az igénylő nyilatkozata, illetve az ügyben hatáskörrel rendelkező külföldi szerv adatszolgáltatása alapján – azon a napon, amelytől kezdődően az öregségi nyugdíjat megállapítják, a Tbj. 5. §-a (1) bekezdésének a)–b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszonyban áll.
+(4)
 
 #### 18/A. §
 
@@ -688,7 +678,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 67. § A véglegessé vált határozattal megállapított szolgálati idő és a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartama a nyugellátás megállapítása iránti eljárásban a nyugellátásra való jogosultság megállapítása során – a 80. §-ban foglaltaktól eltérően – csak akkor csökkenthető, ha
 
 - a) a szolgálati idő, illetve a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamának jogalap nélküli megállapítása az igénylőnek felróható, vagy
-- b) az adott időtartamot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendelet vagy szociális biztonsági, szociálpolitikai egyezmény alapján külföldi szerv szolgálati időként figyelembe veszi.
+- b) az adott időtartamot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek (a továbbiakban: uniós rendeletek) vagy szociális biztonsági, szociálpolitikai egyezmény alapján külföldi szerv szolgálati időként figyelembe veszi.
 
 #### 68. §
 
@@ -1234,7 +1224,7 @@ kell megállapítani.
 
 (2) Azt a rokkantsági, baleseti rokkantsági nyugdíjat, amelyet a 2011. december 31-én hatályos 87. vagy 88. § alapján meg kellett téríteni, és 2012. január 1-jétől a megváltozott munkaképességű személyek ellátásairól szóló törvény rendelkezése alapján öregségi nyugdíjként kell továbbfolyósítani, továbbra is meg kell téríteni a 2011. december 31-én hatályos rendelkezések alapján azzal, hogy ahol e rendelkezések rokkantsági, baleseti rokkantsági nyugdíjat említettek, azon öregségi nyugdíjat kell érteni.
 
-102/E. § Aki 2009. december 31-éig az öregségi teljes, illetve résznyugdíjhoz szükséges életkort betöltötte és az előírt szolgálati időt megszerezte, e jogosultságát a Tbj. 5. § (1) bekezdés a)–b) és e)–g) pontja szerinti biztosítással járó jogviszony, illetve a 18. § (4) bekezdése szerinti jogviszony fennállása esetén is érvényesítheti. Ebben az esetben öregségi nyugdíjkorhatárnak e törvény 2009. december 31-én hatályos rendelkezései szerinti életkort kell tekinteni.
+#### 102/E. §
 
 #### 102/E. §
 
