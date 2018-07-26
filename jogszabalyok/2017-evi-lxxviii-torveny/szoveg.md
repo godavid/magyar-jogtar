@@ -545,6 +545,8 @@ alapján folytatható.
 
 (7) Az eseti gondnok, az eseti gyám és az ügygondnok részére a meghatalmazást a hatóság kirendelő határozata pótolja.
 
+(8) A kirendelt ügyvéd óradíját a központi költségvetésről szóló törvényben az Országgyűlés állapítja meg úgy, hogy annak összege az előző évi összegnél nem lehet alacsonyabb.
+
 37. § (1) Törvényben meghatározott esetben a hatóság kirendelő határozata alapján a területi kamara jelöli ki a kirendelés alapján kirendelt védőként eljáró ügyvédet.
 
 (2) A kirendelt védő a kirendelhető ügyvédek jegyzékéből jelölhető ki.

@@ -1017,14 +1017,14 @@ felhasználásához.
 
 (2) Az (1) bekezdés szerinti karbantartást végző személy a karbantartási céllal eltávolított repülőgép-üzemanyagról a végrehajtási rendelet szerinti nyilvántartást vezet.
 
-51. § (1) A 2008. december 16-i 2008/118/EK tanácsi irányelv 40. cikke szerinti, másik tagállambeli személy által adófelfüggesztési eljárás keretében feladott csendes bor átvételét – az 55. §-tól eltérően –
+51. § (1) A 2008. december 16-i 2008/118/EK tanácsi irányelv 40. cikke szerinti, másik tagállambeli személy által adófelfüggesztési eljárás keretében feladott csendes és habzóbor átvételét – az 55. §-tól eltérően –
 
 - a) az adóraktár engedélyese a 24. § szerinti adatszolgáltatás keretében,
 - b) a bejegyzett kereskedő 5 munkanapon belül
 
 jelenti be az állami adó- és vámhatóságnak.
 
-(2) Az (1) bekezdés szerinti bejelentés tartalmazza az átvett csendes bor mennyiségére vonatkozó, valamint a végrehajtási rendeletben meghatározott további adatokat.
+(2) Az (1) bekezdés szerinti bejelentés tartalmazza az átvett csendes és habzóbor mennyiségére vonatkozó, valamint a végrehajtási rendeletben meghatározott további adatokat.
 
 52. § A lakossági energiafogyasztó a saját háztartása céljára vásárolt földgáz közúti jármű üzemanyagaként történő felhasználásának szándékát az előállítás tervezett megkezdési időpontjának megjelölésével, az azt megelőző 3. napig bejelenti az állami adó- és vámhatósághoz.
 
@@ -2143,6 +2143,8 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 (5) A 21. §-tól eltérően a (3) bekezdés második fordulata szerinti terméket előállító, tároló, az Art. szerinti kockázatos adózónak nem minősülő egyszerűsített adóraktár engedélyesének nem kell jövedéki biztosítékot nyújtania. Az Art. szerinti kockázatos adózónak minősülő egyszerűsített adóraktár engedélyese által nyújtandó jövedéki biztosíték összege 250 ezer forint.
 
 (6) A szőlőterületet művelő azon Ptk. szerinti közeli hozzátartozók, valamint az élettársak (a továbbiakban: családtagok közössége), akik a saját művelésükben lévő szőlőterületen termelt szőlőből a csendes bor és a (3) bekezdés szerinti termék előállítását, tárolását ugyanazon a közösen használt, adóraktárnak minősíthető helyen végzik, e tevékenységüket egy egyszerűsített adóraktári engedéllyel folytathatják. Adóalanynak a családtagok közössége minősül. Az adóalanyisághoz fűződő kötelezettségeket és jogokat a családtagok közössége – a családtagok egyetemleges felelőssége mellett – az általa kijelölt képviselő útján gyakorolja.
+
+(7) Az egyszerűsített adóraktári engedélyesre nem alkalmazandó a 17. § (1) bekezdés a) pontja szerinti rendelkezés.
 
 135. § A csendes bor, az egyszerűsített adóraktárban előállítható palackos erjesztésű habzóbor és a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital egyszerűsített adóraktárból induló belföldi szállításakor az 54. § (1) bekezdésétől és a 64. §-tól eltérően borkísérő okmány alkalmazandó vagy a szállítmány az agrárpolitikáért felelős miniszter rendeletében meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
 

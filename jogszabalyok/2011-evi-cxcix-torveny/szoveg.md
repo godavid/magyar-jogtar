@@ -123,7 +123,7 @@ terjed ki.
 
 (4) A közigazgatási szervnél a tárgyévben munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát. E korlát nem vonatkozik az általános politikai koordinációért felelős miniszter által vezetett minisztériumban, valamint a Miniszterelnöki Kormányirodán foglalkoztatott személyekre. A tíz százalékos mérték alól egyéb esetben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolt esetben mentesítést adhat.
 
-(5) A közszolgálati tisztviselő besorolásánál (116. §) a munkavégzésre irányuló jogviszonyban, különösen a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a 47. §-ban meghatározott ösztöndíjas jogviszonyban, bedolgozói munkaviszonyban, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszonyban, a szakcsoporti tagsági viszonyban, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenységre irányuló jogviszonyban, továbbá az ügyvédi és az egyéni vállalkozói tevékenységre irányuló jogviszonyban töltött időt kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
+(5) A közszolgálati tisztviselő besorolásánál (116. §) a munkavégzésre irányuló jogviszonyban, különösen a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a 47. §-ban meghatározott ösztöndíjas jogviszonyban, bedolgozói munkaviszonyban, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszonyban, a szakcsoporti tagsági viszonyban, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenységre irányuló jogviszonyban, továbbá az ügyvédi és az egyéni vállalkozói tevékenységre irányuló jogviszonyban töltött időt, valamint a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
 
 (6) Az (5) bekezdés alkalmazása szempontjából az 1992. július 1-jét megelőzően munkaviszonyban töltött időként jogszabály alapján elismert időtartamból – tekintet nélkül arra, hogy annak ideje alatt munkavégzésre irányuló jogviszony fennállt-e, vagy ilyen jogviszony fennállása esetén érvényesült-e munkavégzési kötelezettség – hat hónapot be kell számítani.
 
@@ -807,7 +807,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 - a) – a Kormány rendeletében meghatározottak szerint – előnyben lehet részesíteni azt a személyt, aki több gyermeket nevel, valamint
 - b) előnyben kell részesíteni az önkéntes tartalékos szolgálati viszonyban állókat.
 
-46. § (1) A kinevezésben – a 41. § (1) bekezdés b) pontjában, a 47. § (4) bekezdésében, az 59. §-ban meghatározott eset, valamint a (4) bekezdés kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
+46. § (1) A kinevezésben – a 41. § (1) bekezdés b) pontjában, a 47. § (4) bekezdésében, az 59. §-ban és a 62/A. §-ban meghatározott eset, valamint a (4) bekezdés kivételével – a kormányzati szolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
 
 (2) A próbaidő nem hosszabbítható meg. A próbaidő tartamát a pályakezdőnél a gyakornoki időbe be kell számítani.
 
@@ -1120,6 +1120,8 @@ kell érteni.
 
 jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont szerinti jogviszony kezdete előtti napon megszűnik. A megszűnés időpontját a felek ettől eltérően is meghatározhatják.
 
+62/A. § Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya megszűnését vagy megszüntetését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít, kormányzati szolgálati jogviszonyát folyamatosnak kell tekinteni.
+
 ### A megszüntetés
 
 63. § (1) A kormányzati szolgálati jogviszony felmentéssel akkor szüntethető meg, ha
@@ -1136,7 +1138,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 - c) a kormánytisztviselő egészségügyi okból feladatai ellátására alkalmatlan;
 - d) az 48. § (2) bekezdés d) pontjában, valamint az 58. § (6) bekezdésében meghatározott kinevezés-módosítás esetén a kormánytisztviselő azt kérelmezi;
 - e) a kormánytisztviselő vezetőjének bizalmát elveszti;
-- f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi;
+- f) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt a felmentési idő leteltekor teljesítő kormánytisztviselő kérelmezi;
 - g) a foglalkoztatást kizáró ok jut a munkáltató tudomására;
 - h) azt a kormánytisztviselő a 64/A. § (2) bekezdése vagy a 155/A. § (2) bekezdése alapján kéri.
 
@@ -1155,7 +1157,7 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 
 (5) Ha az államigazgatási szerv jogutód nélkül szűnik meg, akkor a kormányzati szolgálati jogviszony megszűnésével, valamint a 73. §-ban meghatározott feladatokkal kapcsolatos munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – az államigazgatási szerv felügyeleti szerve hozza meg.
 
-(6) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
+(6) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv külön jogszabály szerinti határozatával kell igazolni.
 
 (7) A munkáltató a határozatlan időtartamú jogviszony felmentéssel történő megszüntetését nem köteles indokolni, ha a kormánytisztviselő nyugdíjasnak minősül.
 
@@ -1262,7 +1264,7 @@ eltöltött idő is.
 
 Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorolása szerinti illetményt kell figyelembe venni, ha besorolása szerinti illetményénél magasabb illetményben, címadományozásban részesült, főtanácsadói, tanácsadói munkakört töltött be.
 
-(8) A végkielégítést a felmentési idő utolsó napján kell kifizetni. Amennyiben a kormánytisztviselő a jogviszonya megszűnését követő 30 napon belül újabb kormányzati szolgálati jogviszonyt létesít, a kormányzati szolgálati jogviszonyt folyamatosnak kell tekinteni, és a végkielégítés összegének az új jogviszony létesítéséig a 30 napból hátralévő idővel arányos mértékét vissza kell fizetnie. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
+(8) A végkielégítést a felmentési idő utolsó napján kell kifizetni.
 
 (9) Végkielégítésre nem jogosult a kormánytisztviselő, ha
 
@@ -1277,6 +1279,11 @@ Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorol�
 - a) ezt a tényt korábbi munkáltatójának haladéktalanul köteles írásban bejelenteni,
 - b) a felmentési időből hátralevő idő tekintetében illetményre nem jogosult,
 - c) végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét is számításba kell venni.
+
+(11) Ha a kormánytisztviselő a 62/A. § szerint új kormányzati szolgálati jogviszonyt létesít,
+
+- a) amennyiben végkielégítés illeti meg, egyhavi végkielégítésre jogosult, és a részére kifizetett végkielégítés összegének az egyhavi mértéken felüli részét az új jogviszony létesítésétől számított 30 napon belül a korábbi munkáltató részére köteles visszafizetni,
+- b) új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a korábbi jogviszony alapján végkielégítésre jogosító idejét három év jogviszonyban töltött idővel csökkentett mértékben figyelembe kell venni.
 
 ### Felmentési védelem
 
@@ -1353,7 +1360,7 @@ alakul át.
 
 74. § (1) A kormánytisztviselő jogviszonya megszüntetésekor (megszűnésekor) munkakörét az előírt rendben köteles átadni és a munkáltatóval elszámolni. A munkakör-átadás és az elszámolás feltételeit a munkáltató köteles biztosítani.
 
-(2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a kormánytisztviselő részére ki kell fizetni az illetményét, egyéb járandóságait – a 107. § (2)–(2a) bekezdésében foglaltak kivételével –, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+(2) A jogviszony megszüntetésekor, illetve megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül, a kormánytisztviselő részére ki kell fizetni az illetményét, egyéb járandóságait – a 107. § (2) bekezdésében foglaltak kivételével –, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
 
 ### Kormányzati szolgálati jogviszony tartalma
 
@@ -1879,12 +1886,12 @@ adja ki, ha az esedékesség éve eltelt.
 
 107. § (1) A szabadságot – a (2) bekezdést kivéve – megváltani nem lehet.
 
-(2) A kormányzati szolgálati jogviszony megszűnése esetén, ha a munkáltató az arányos szabadságot nem adta ki, az arányos szabadságot (ha a kormánytisztviselőnek van fennmaradó szabadsága) úgy kell megváltani, hogy ha a kormányzati szolgálati jogviszony megszűnését – ideértve a végleges áthelyezést is – követő 30 napon belül a kormánytisztviselő új kormányzati szolgálati jogviszonyt létesít, akkor a kormányzati szolgálati jogviszonyt folyamatosnak kell tekinteni, azzal, hogy a megváltással érintett arányos szabadságból a korábbi kormányzati szolgálati jogviszony megszűnése és az új kormányzati szolgálati jogviszony létesítése közötti időtartamra eső szabadságot meg kell váltani, és a fennmaradó szabadságot a létrejövő kormányzati szolgálati jogviszony alapján a kormánytisztviselőt megillető szabadsághoz hozzá kell számítani. Ha a kormányzati szolgálati jogviszony megszűnését követő 30 napon belül a kormánytisztviselő új kormányzati szolgálati jogviszonyt nem létesít, akkor az arányos szabadságot a jogviszony megszűnését követő 40. napon kell megváltani.
+(2) A kormányzati szolgálati jogviszony megszűnése esetén, ha a munkáltató az arányos szabadságot nem adta ki, az arányos szabadságot (ha a kormánytisztviselőnek van fennmaradó szabadsága) úgy kell megváltani, hogy ha a kormánytisztviselő
 
-(2a) Amennyiben a kormánytisztviselő a kormányzati szolgálati jogviszony megszűnésétől számított 30 napon belül új kormányzati szolgálati jogviszonyt
+- a) a 62/A. § szerint új kormányzati szolgálati jogviszonyt létesít, a megváltással érintett arányos szabadságból a korábbi kormányzati szolgálati jogviszony megszűnése és az új kormányzati szolgálati jogviszony létesítése közötti időtartamra eső szabadságot – a közszolgálati tisztviselők és az állami tisztviselők jogviszonyának megszűnésével és megszüntetésével összefüggő egyes eljárási részletkérdésekről szóló kormányrendelet szerinti munkáltatói értesítés kézhezvételét követő 15 napon belül – meg kell váltani, és a fennmaradó szabadságot a létrejövő kormányzati szolgálati jogviszony alapján a kormánytisztviselőt megillető szabadsághoz hozzá kell számítani,
+- b) a 62/A. § szerint új kormányzati szolgálati jogviszonyt nem létesít, az arányos szabadságot a jogviszony megszűnését követő 40. napon kell megváltani.
 
-- a) létesít, erről haladéktalanul,
-- b) nem létesít, akkor erről a kormányzati szolgálati jogviszony megszűnésétől számított 31. naptól számított 3 munkanapon belül értesíti a munkáltatót.
+(2a)
 
 (2b) A gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően, ha a kormánytisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani.
 
@@ -2180,7 +2187,7 @@ kell megállapítani.
 
 (7) A kormánytisztviselő év közben történő végleges áthelyezése esetén – eltérő megállapodás hiányában – a korábbi munkáltató által megállapított eltérítés mértékére jogosult az áthelyezést kérő szervnél is.
 
-(8)
+(8) Ha a kormánytisztviselő a 62/A. § szerint év közben létesít új jogviszonyt, a korábbi munkáltató által tárgyévre megállapított eltérítés mértékére az új munkáltatónál a tárgyévben akkor jogosult, ha az új munkáltató a kormánytisztviselő jogviszony létesítését követő legalább 45, legfeljebb 60 napon belüli, soron kívüli teljesítményértékelése alapján azt részére megállapítja.
 
 (9) Az illetmény-összetevők – ide nem értve az illetménypótlékokat – változása esetén, így különösen az illetményalap emelkedése, a besorolási vagy fizetési fokozat változása során a kormánytisztviselő illetményét újra meg kell állapítani.
 
@@ -2400,13 +2407,16 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 - d) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban, valamint
 - e) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 - f) az e törvény, a Ktv., Ktjv., illetőleg a Kjt. hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
-- g) az állami vezetői szolgálati jogviszonyban töltött időt kell figyelembe venni.
+- g) a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot, és
+- h) az állami vezetői szolgálati jogviszonyban töltött időt kell figyelembe venni.
 
 (4) A kormánytisztviselő nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta.
 
 151. § (1) A kormánytisztviselő cafetériajuttatásként – választása szerint – a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 71. § (1) bekezdésében felsorolt juttatásokra, legfeljebb az ott meghatározott mértékig és feltételekkel a Kormány által meghatározott rendben jogosult. A kormánytisztviselőt megillető cafetériajuttatás éves összege nem lehet alacsonyabb az illetményalap ötszörösénél. A cafetériajuttatás éves összege biztosít fedezetet az egyes juttatásokhoz kapcsolódó, a juttatást teljesítő munkáltatót terhelő közterhek megfizetésére is.
 
 (2) Nem jogosult cafetéria-juttatásra a tartós külszolgálaton lévő, az 57. § (1) és (2) bekezdés szerinti szakértői tevékenységet ellátó kormánytisztviselő, továbbá a kormánytisztviselő azon időtartam vonatkozásában, amelyre illetményre nem jogosult, feltéve, hogy a távollét időtartama meghaladja a harminc napot. A harminc napot meghaladó távollét esetében a kormánytisztviselőt a távollét első napjától kezdve nem illeti meg a juttatás. A távollétek időtartamát – a jogosultság szempontjából – nem lehet összeszámítani.
+
+(2a) Nem jogosult cafetéria-juttatásra a kormánytisztviselő a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamra.
 
 (3) A hivatali szervezet vezetője a közszolgálati szabályzatban rendelkezik a cafetéria-juttatás igénybevételének részletes szabályairól, elszámolásának rendjéről és visszatérítésének szabályairól.
 
@@ -2419,6 +2429,8 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 - e) illetményelőleg,
 - f) tanulmányi ösztöndíj, képzési, továbbképzési, nyelvtanulási támogatás,
 - g) üdülési támogatás.
+
+(1a) Az (1) bekezdés szerinti juttatás nem illeti meg a kormánytisztviselőt a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamra.
 
 (2) Az (1) bekezdés a)–f) pontjaiban foglalt juttatás mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait a hivatali szervezet vezetője állapítja meg.
 
@@ -4060,7 +4072,7 @@ részletes szabályokat.
 
 260/B. § A központi nyugdíjbiztosítási szervnél foglalkoztatott kormánytisztviselők illetménykiegészítésének mértékét e törvénynek a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes törvények módosításáról, valamint egyes költségvetési szervek feladatainak átadásáról szóló 2016. évi CIV. törvénnyel megállapított 134. § (1) bekezdés 13. pontja hatálybalépésétől 2017. november 1-jéig az e törvény 2017. március 31-én hatályos 134. § (1) bekezdés 13. pontja alapján kell megállapítani.
 
-260/C. § E törvénynek a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvénnyel megállapított 69. § (8) bekezdését, 74. § (2) bekezdését, 107. § (2) és (2a) bekezdését a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény hatálybalépését követő jogviszony-megszüntetésekre, illetve megszűnésekre kell alkalmazni.
+260/C. § E törvénynek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 8. § (5) bekezdését, 46. § (1) bekezdését, 62/A. §-át, 69. § (8) és (11) bekezdését, 74. § (2) bekezdését, 107. § (2) bekezdését, 133. § (8) bekezdését, 150. § (3) bekezdés g) pontját, 151. § (2a) bekezdését és 152. § (1a) bekezdését a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépését követő jogviszony-megszüntetésekre, illetve megszűnésekre kell alkalmazni.
 
 ### Az Európai Unió jogi aktusainak való megfelelés
 

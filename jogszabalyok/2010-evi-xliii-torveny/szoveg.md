@@ -134,6 +134,8 @@ ruházhatja, aki a döntés meghozatala során a szerv vezetője nevében jár e
 
 (6) Az állami vezető, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, valamint a kormányhivatal és a központi hivatal vezetője és helyettese a tárgyév március 1-jétől a következő év február utolsó napjáig terjedő időszakra vonatkozó havi illetménye, valamint a miniszterelnöki megbízott havi vagy egyszeri díjazása nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
+(7) A (6) bekezdés nem alkalmazható, ha a miniszterelnök a miniszternek személyi illetményt állapít meg a 39/A. § szerint.
+
 7/A. § (1) A miniszter részére a köztársasági elnök a közjogi tisztség betöltésének igazolása céljából igazolványt állít ki. Az igazolvány a Kormány tagja nevét, arcképmását és a betöltött közjogi tisztség megnevezését tartalmazza.
 
 (2) Az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár részére az állami vezetői tisztség betöltésének igazolása céljából a miniszterelnök igazolványt állít ki. Az igazolvány az állami vezető nevét, arcképmását és a betöltött állami vezetői tisztség megnevezését tartalmazza.
@@ -262,15 +264,15 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 17. § (1) A Kormány ülései – a miniszterelnök eltérő rendelkezése hiányában – nem nyilvánosak.
 
-(2) A Kormány üléseiről hangfelvétel készül, mely – a miniszterelnök eltérő rendelkezése hiányában – nem nyilvános.
+(2)
 
 (3) A kormányülésen elhangzottakat összefoglalóban kell rögzíteni.
 
 (4) Az összefoglaló tartalmazza a kormányülés helyét és időpontját, az ülésen résztvevők nevét, a tárgyalt írásbeli anyagok címét és az előterjesztő megjelölését, a napirenden kívül szóba került ügyek tárgy szerinti ismertetését, a hozzászólók nevét, szavazás esetén annak tárgyát és számszerű arányát, a testületi döntés lényegét. Kérelmére a kormányülésen résztvevő nyilatkozatát, egyet nem értését szó szerint kell rögzíteni. Az összefoglaló mellékleteként meg kell őrizni az előterjesztést, a jelentést, valamint a kormányrendeletek, kormányhatározatok, továbbá a Kormány által meghatározott egyéb iratok eredeti aláírással ellátott egy-egy példányát.
 
-(5) Az ülésről készült összefoglaló eredeti példányát és mellékleteit, valamint az ülésről készült hangfelvételt a Miniszterelnöki Kormányiroda őrzi. Az ülésről készült dokumentáció anyaga nem selejtezhető, maradandó értékű iratnak minősül; kezelésére és megismerésére a köziratok védelméről, a minősített adat védelméről, továbbá a közérdekű adatok nyilvánosságáról szóló rendelkezéseket kell alkalmazni.
+(5) Az ülésről készült összefoglaló eredeti példányát és mellékleteit a Miniszterelnöki Kormányiroda őrzi. Az ülésről készült dokumentáció anyaga nem selejtezhető, maradandó értékű iratnak minősül; kezelésére és megismerésére a köziratok védelméről, a minősített adat védelméről, továbbá a közérdekű adatok nyilvánosságáról szóló rendelkezéseket kell alkalmazni.
 
-(6) Az összefoglaló és a hangfelvétel készítésének, valamint belső kormányzati felhasználásának részletes szabályait, feltételeit a Kormány határozza meg.
+(6) Az összefoglaló készítésének, valamint belső kormányzati felhasználásának részletes szabályait, feltételeit a Kormány normatív határozatban határozza meg.
 
 ### A miniszterelnök feladatköre
 
@@ -563,6 +565,14 @@ helyettesíti.
 (3) A miniszter vezetői illetménypótléka az alapilletmény 65%-a.
 
 (4) A miniszter alapilletményét a miniszterelnök át nem ruházható hatáskörében legfeljebb 20%-kal csökkentheti.
+
+39/A. § (1) A miniszterelnök a miniszter részére az e törvényben meghatározott javadalmazásra vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg.
+
+(2) A személyi illetmény a tárgyév március 1-jétől a következő év február végéig terjedő időszakra állapítható meg.
+
+(3) A személyi illetmény havi összege nem haladhatja meg a miniszter által irányított vagy felügyelt központi államigazgatási szerv, központi államigazgatási szervnek nem minősülő költségvetési szerv, illetve a miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaság által ugyanazon személynek a tárgyévet megelőző évben kifizetett, a személyi jövedelemadóról szóló törvény szerint munkaviszonyból származó jövedelemnek minősülő, legnagyobb éves jövedelem egytizenkettedét.
+
+(4) A miniszter részére személyi illetmény alkalmazása esetén illetménykiegészítés, pótlék nem fizethető.
 
 ### A miniszter megbízatásának keletkezése és megszűnése
 
@@ -960,3 +970,5 @@ helyettesíti.
 (5) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény e törvénnyel megállapított 5. § (1) bekezdés b) pontját és ezzel összefüggésben 8. § (4) bekezdését, 12. § (1) és (3) bekezdését, valamint 14. § (1)–(6) bekezdését azokra a vagyonnyilatkozat-tételre kötelezettekre kell alkalmazni, akiknek a kötelezettséget megalapozó jogviszonya, beosztása, munka- vagy feladatköre e törvény hatálybalépését követően szűnt meg.
 
 (6) Ha törvény úgy rendelkezik, hogy valamely tisztséget meghatározott időszakban helyettes államtitkárként szakmai vezetői jogviszonyban állt személy nem tölthet be, akkor az ugyanebben az időszakban szakállamtitkárként állami vezetői jogviszonyban állt személy sem töltheti be ezt a tisztséget.
+
+92. § A Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 39/A. § (2) bekezdését a 2018. évben azzal az eltéréssel kell alkalmazni, hogy a személyi illetmény 2018. augusztus 1-jétől 2019. február végéig terjedő időszakra állapítható meg.

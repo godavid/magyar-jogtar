@@ -65,7 +65,7 @@ jogszabályban meghatározott módon biztosítja.
 
 - a) az önkormányzat tájékoztatást ad és szakmai konzultációt biztosít a településképi követelményekről, ennek keretében javaslatot tehet a településképi követelmények érvényesítésének módjára,
 - b) az önkormányzat polgármestere (főpolgármester) az építésügyi engedélyezési eljárást megelőzően véleményt adhat a jogszabályban meghatározott építésügyi hatósági engedélykérelemhez (a továbbiakban: településképi véleményezési eljárás),
-- c) az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, valamint a rendeltetésmódosítások tekintetében, továbbá településképi bejelentési eljárást folytat le a reklámok és reklámhordozók elhelyezése tekintetében,
+- c) az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást folytathat le az Étv. 57/F. § hatálya alá nem tartozó, az építésügyi hatósági engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek sem minősülő építési tevékenységek, valamint az Étv. 57/F. § hatálya alá nem tartozó rendeltetésmódosítások tekintetében, továbbá településképi bejelentési eljárást folytat le a reklámok és reklámhordozók elhelyezése tekintetében,
 - d) az önkormányzat polgármestere (főpolgármester) településképi kötelezést adhat ki és bírságot szabhat ki, ide nem értve a reklámhordozók és reklámok jogellenes elhelyezésével kapcsolatos, valamint a településképi bírságot.
 
 (3) A (2) bekezdés b)–d) pontjában szereplő településkép-érvényesítési eszközök alkalmazásának általános szabályait kormányrendelet, részletes szabályait az egyes önkormányzatok településképi rendelete tartalmazza.
@@ -85,7 +85,7 @@ jogszabályban meghatározott módon biztosítja.
 
 10. § (1) Az önkormányzat polgármestere (főpolgármester) településképi bejelentési eljárást
 
-- a) folytathat le – a 8. § (3) bekezdése szerinti kormányrendelet keretei között, településképi rendeletben meghatározott esetekben és módon – hatósági engedélyhez és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött építési tevékenységek és a rendeltetésmódosítások,
+- a) folytathat le – a 8. § (3) bekezdése szerinti kormányrendelet keretei között, településképi rendeletben meghatározott esetekben és módon – az Étv. 57/F. § hatálya alá nem tartozó, hatósági engedélyhez és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött építési tevékenységek és az Étv. 57/F. § hatálya alá nem tartozó rendeltetésmódosítások,
 - b) folytat le a reklámok és reklámhordozók elhelyezése
 
 tekintetében.

@@ -766,6 +766,8 @@ folytatható le.
 
 (3a) A felszámolási eljárás iránti kérelemtől az ellenérdekű fél hozzájárulása nélkül el lehet állni a felszámolás kezdő időpontjáig. Az eljárás megszüntetéséről az a bíróság rendelkezik, amely előtt az eljárás az elállás bejelentésekor folyamatban van. Az eljárást megszüntető végzésben rendelkezni kell az eljárásban hozott, a felszámolást elrendelő, illetve az ideiglenes vagyonfelügyelőt kirendelő korábbi végzések hatályon kívül helyezéséről is.
 
+(3b) A bíróság a 22. § (1) bekezdés b) pontja szerint, a hitelező kérelmére indult eljárásokban a hitelező hozzájárulása nélkül megszünteti az eljárást, ha az adós a felszámolás kezdő időpontjáig igazolja, hogy a felszámolást elrendelő jogerős végzés alapjául szolgáló teljes követelést (tőke, kamatok, a hitelező eljárással felmerült költségei) megfizette a hitelezőnek. Az eljárás megszüntetéséről az a bíróság intézkedik, amelynél az igazolás benyújtásakor az eljárás folyamatban van. Az eljárást megszüntető végzésben a (3a) bekezdés szerinti tartalmi elemekről is rendelkezni kell.
+
 (4) Szünetelésnek kizárólag az adós és a felszámolási eljárás lefolytatását kérő hitelezők együttes kérelmére, a felszámolás elrendeléséről szóló végzés jogerőre emelkedéséig van helye.
 
 (5) Az adós – a felszámolást elrendelő elsőfokú végzés kézhezvételét követően, a végzés jogerőre emelkedéséig – köteles céltartalékot képezni
@@ -1987,6 +1989,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 (2) A Tanács fizetésképtelenségi eljárásokról szóló 1346/2000/EK rendelete alapján kezdeményezett eljárásokban akkor kell e törvénynek a 2017. évi CXXVI. törvénnyel megállapított rendelkezéseit alkalmazni, ha a főeljárást vagy a főeljárást követően megindított területi másodlagos fizetésképtelenségi eljárást megindító határozat a 2015/848 EU rendelet 3. cikkére hivatkozik.
 
 83/T. § E törvénynek a büntetőeljárásról szóló 1998. évi XIX. törvény, egyes büntető tárgyú törvények, valamint az európai uniós és a nemzetközi bűnügyi együttműködést szabályozó törvények módosításáról szóló 2017. évi CXLIV. törvénnyel (a továbbiakban: 2017. évi CXLIV. törvény) módosított 33. § (1a) bekezdését és 33. § (2) bekezdését a 2017. évi CXLIV. törvény hatálybalépését követően elrendelt felszámolási eljárásokban kell alkalmazni.
+
+83/U. § A Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 26. § (3b) bekezdést a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépésekor folyamatban lévő – ideértve a hatálybalépéskor már elrendelt azon felszámolási eljárásokat is, amelyek esetében a felszámolást elrendelő jogerős végzés még nem került közzétételre – ügyekben is alkalmazni kell, akkor is, ha a megszüntetés tárgyában az elsőfokú határozatot már meghozták.
 
 84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
 

@@ -6,17 +6,47 @@ az egyes pénzügyi tárgyú törvények módosításáról
 
 #### 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-1–3. §
+#### 1. §
+
+#### 2. §
+
+#### 3. §
 
 #### 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-4–8. §
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
 
 ### II. Fejezet — KÖZVETETT ADÓT ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 3. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-9–18. §
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
 
 19. § Hatályát veszti az Áfa tv.
 
@@ -29,19 +59,25 @@ az egyes pénzügyi tárgyú törvények módosításáról
 
 #### 4. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
-20. §
+#### 20. §
 
 ### IV. Fejezet — ADÓIGAZGATÁST ÉRINTŐ MÓDOSÍTÁSOK
 
 #### 5. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-21–22. §
+#### 21. §
 
-23. §
+#### 22. §
 
-24–26. §
+#### 23. §
 
-27. §
+#### 24. §
+
+#### 25. §
+
+#### 26. §
+
+#### 27. §
 
 28. § (1)
 
@@ -52,19 +88,31 @@ az egyes pénzügyi tárgyú törvények módosításáról
 - 1.
 - 2.
 
-30. §
+#### 30. §
 
 ### V. Fejezet — EGYÉB KAPCSOLÓDÓ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 6. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-31–34. §
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
 
 ### VI. Fejezet — EGYES PÉNZÜGYI TÁRGYÚ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 7. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-35–38. §
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
 
 39. § (1) A Kbftv. 281. § (4) bekezdése a következő szöveggel lép hatályba:
 
@@ -190,7 +238,7 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 (5) A nyilatkozattevő írásban (postai úton, telefaxon, elektronikus levélben) a Központi Nyilvántartást kezelő pénzügyi vállalkozástól is tájékoztatást igényelhet a róla kezelt nyilatkozatadatokról.
 
-(6) A nyilatkozattevő a nyilatkozatadat-szolgáltatónál a (3) bekezdés szerint, vagy a Központi Nyilvántartást kezelő pénzügyi vállalkozásnál az (5) bekezdés szerint kérheti a nyilatkozatadatok helyesbítését, valamint – ha azok kezelésének jogalapja nem áll fenn – a törlését.””
+(6) A nyilatkozattevő a nyilatkozatadat-szolgáltatónál a (3) bekezdés szerint, vagy a Központi Nyilvántartást kezelő pénzügyi vállalkozásnál az (5) bekezdés szerint kérheti a nyilatkozatadatok helyesbítését, valamint – ha azok kezelésének jogalapja nem áll fenn – a törlését.”
 
 (2) A Kbftv. 281. § (6) bekezdése a következő szöveggel lép hatálya:
 
@@ -202,9 +250,11 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 (3) A 2014. december 1-jét megelőzően beérkezett nyilatkozatok tekintetében a Központi Nyilvántartást kezelő pénzügyi vállalkozás a korábban tett nyilatkozatot tekinti hatályosnak és ennek megfelelően értesíti az érintett nyilatkozatadat-szolgáltatókat.
 
-(4) Az azonos nyilatkozattevő által több nyilatkozatadat-szolgáltatónál tett nyilatkozat vagy visszavonó rendelkezés esetén a Központi Nyilvántartást kezelő pénzügyi vállalkozás az (1) bekezdés szerinti adatok tekintetében 2014. december 1-jéig biztosítja a 62/G. § (4) bekezdésében foglaltak teljesülését.””
+(4) Az azonos nyilatkozattevő által több nyilatkozatadat-szolgáltatónál tett nyilatkozat vagy visszavonó rendelkezés esetén a Központi Nyilvántartást kezelő pénzügyi vállalkozás az (1) bekezdés szerinti adatok tekintetében 2014. december 1-jéig biztosítja a 62/G. § (4) bekezdésében foglaltak teljesülését.”
 
-40–41. §
+#### 40. §
+
+#### 41. §
 
 42. § A Kbftv. 18. melléklete a 7. melléklet szerinti szöveggel lép hatályba.
 
@@ -218,7 +268,7 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 (3) A 9–18. §, a 19. § a)–c) és f) pontjai, a 23. §, 44. § és a 3. melléklet 2015. január 1-jén lép hatályba.
 
-(4) A 19. § d)–e) és g) pontjai és a 29. § 1. pontja 2019. január 1-jén lép hatályba.
+(4)
 
 #### 9. Jogharmonizációs záradék
 
@@ -227,13 +277,17 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 - a) a Tanács 2008/8/EK irányelve (2008. február 12.) a 2006/112/EK irányelvnek a szolgáltatásnyújtás teljesítési helye tekintetében történő módosításról;
 - b) a Tanács 2013/43/EU irányelve (2013. július 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózás bizonyos, csalásra alkalmas termékek és szolgáltatások értékesítésére vonatkozó fakultatív és ideiglenes alkalmazása tekintetében történő módosításáról.
 
-### 1–2. melléklet a 2014. évi XXXIII. törvényhez
+### 1. melléklet a 2014. évi XXXIII. törvényhez
+
+### 2. melléklet a 2014. évi XXXIII. törvényhez
 
 ### 3. melléklet a 2014. évi XXXIII. törvényhez
 
 ### 4. melléklet a 2014. évi XXXIII. törvényhez
 
-### 5–6. melléklet a 2014. évi XXXIII. törvényhez
+### 5. melléklet a 2014. évi XXXIII. törvényhez
+
+### 6. melléklet a 2014. évi XXXIII. törvényhez
 
 ### 7. melléklet a 2014. évi XXXIII. törvényhez
 
@@ -243,7 +297,7 @@ haladéktalanul, de legkésőbb két munkanapon belül.
 
 1. A 62/G. § (1) bekezdés szerinti visszaigazolás
 
-„A NYILATKOZATTÉTEL MEGFELEL A PFT. 36/A. § (7) BEKEZDÉSÉBEN FOGLALTAKNAK, AZT A NYILVÁNTARTÁSBA FELVEZETTEM.”
+„A NYILATKOZATTÉTEL MEGFELEL A PFT. 36/A. § (7) BEKEZDÉSÉBEN FOGLALTAKNAK, AZT A NYILVÁNTARTÁSBA FELVEZETTEM.
 
 2. A 62/G. § (2) bekezdés szerinti visszaigazolás
 

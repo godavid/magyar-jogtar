@@ -710,6 +710,8 @@ feltéve, ha az az IFRS-ek alkalmazásával az (1) bekezdés szerint bevételnek
 
 (8) A közös őstermelői igazolvánnyal rendelkező adóalanyok az adóévi iparűzési adókötelezettségüket úgy is teljesíthetik, hogy az adószámmal rendelkező adóalany a közös őstermelői tevékenységvégzésből származó teljes iparűzési adóalap alapulvételével állapítja meg, vallja be és fizeti meg az adót. Az adómegállapítás ezen módjának választásáról a közös őstermelői igazolványban feltüntetett valamennyi adóalany az adószámmal rendelkező adóalany adóévi adóbevallásában nyilatkozik. A családi gazdálkodó a családi gazdaság tekintetében az adóévi iparűzési adókötelezettséget a közös őstermelői igazolvánnyal rendelkező adóalanyokra irányadó szabályozás szerint is teljesítheti.
 
+(9) A társasági adóelőleg-kiegészítésre kötelezett iparűzési adóalany köteles az adóévre megfizetett iparűzési adóelőleget a várható éves fizetendő adó összegére kiegészíteni.
+
 41/A. § (1) Az adóalany a jövőben esedékessé váló adójára tekintettel előrehozott adót fizethet.
 
 (2) Az előrehozott adóról annak megfizetésével egyidejűleg bevallást kell benyújtani.
@@ -845,6 +847,8 @@ Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címze
 (3) A 41. § (8) bekezdésének a Mód. törvénnyel megállapított rendelkezését a 2016. évben kezdődő adóévi helyi iparűzési adókötelezettség teljesítése során is alkalmazni lehet.
 
 (4) Az 52. § 22. pont b) alpontjának az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított rendelkezését a 2015. és 2016. évben kezdődő adóévek helyi iparűzési adójának megállapítása során is alkalmazni lehet.
+
+51/D. § A naptári évtől eltérő üzleti évet választó adózónak a 41. § (9) bekezdésének az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel (a továbbiakban: Adómód. törvény) megállapított rendelkezését a hatályba lépését magában foglaló – 2018. január 1-jét követően kezdődő – adóévben fennálló iparűzési adóelőleg-kiegészítési kötelezettsége kapcsán is alkalmaznia kell.
 
 ### VII. Fejezet — Értelmező rendelkezések
 

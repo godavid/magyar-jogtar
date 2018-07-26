@@ -54,7 +54,7 @@ kell érteni.
 - 9. gépjármű: olyan jármű, amelyet beépített erőgép hajt;
 - 10. hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti hozzátartozó;
 - 11. jármű: közúti szállító- vagy vontató eszköz, ideértve az önjáró vagy vontatott munkagépet is;
-- 12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás;
+- 12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
 - 13. költségvetési támogatás: az államháztartásról szóló törvény (a továbbiakban: Áht.) szerinti támogatás és az Art. szerinti azon költségvetési támogatások, amelyek az Áht. alapján nem minősülnek támogatásnak;
 - 14. közeli hozzátartozó: a Ptk. szerinti közeli hozzátartozó;
 - 15. közeli lejáratú termék:
@@ -198,7 +198,7 @@ különös elszámolási szabályok alkalmazandóak.
 
 #### 12. A végrehajtáshoz való jog elévülése
 
-19. § (1) A tartozás végrehajtásához való jog az esedékesség naptári évének az utolsó napjától számított 4 év elteltével évül el. Ha az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik.
+19. § (1) A tartozás és a meghatározott cselekmény végrehajtásához való jog az esedékesség naptári évének az utolsó napjától számított 4 év elteltével évül el. Ha az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik.
 
 (2) Az adóbevallás késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése az adóbevallás benyújtásának időpontjával megszakad, és az elévülés az adóbevallás benyújtását követő napon újból megkezdődik.
 
@@ -213,6 +213,8 @@ különös elszámolási szabályok alkalmazandóak.
 (7) Ha a gazdálkodó szervezet, a polgári jogi társaság adótartozásának a tag (részvényes), vezető tisztségviselő által történő megfizetésére kötelezését meg kell előznie a korlátlan felelősség megállapítása iránti polgári peres eljárásnak, a polgári peres eljárás kezdő időpontjától annak jogerős befejezéséig nyugszik a végrehajtáshoz való jog elévülése.
 
 (8) Nyugszik a végrehajtáshoz való jog elévülése az adózó halálának napjától az adómegállapításról szóló döntés, illetve az örököst az örökhagyó tartozásának megfizetésére kötelező döntés véglegessé válásáig.
+
+(9) A meghatározott cselekmény végrehajtásához való jog elévülését bármely végrehajtási cselekmény megszakítja.
 
 #### 13. Behajthatatlan tartozás
 
@@ -442,9 +444,9 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 47. § (1) Az adóhatóság a járművet a járműnyilvántartásban szereplő adatok alapján is lefoglalhatja, ha az adós a jármű tulajdonosaként van a nyilvántartásba bejegyezve, illetve ennek hiányában is, ha a jármű a házastársi közös vagyonba tartozik. A végrehajtó a foglalási jegyzőkönyv másolatának megküldése mellett az elidegenítési és terhelési tilalom bejegyzése érdekében megkeresi a közlekedési igazgatási hatóságot. A hatóság köteles e felhívásnak haladéktalanul eleget tenni. Az adóhatóság a lefoglalt jármű forgalomból történő kivonása iránt legkésőbb az árverési hirdetmény kitűzésével egyidejűleg intézkedik.
 
-(2) A vállalkozási tevékenységet végző adós üzemi, illetve üzleti tevékenységéhez szükséges gépjárművére folytatott végrehajtást, az adóvégrehajtó a gépjármű lefoglalás foglalási jegyzőkönyvben történő feltüntetésével foganatosítja. Ha ez lehetséges, a gépjármű törzskönyvét is le kell foglalni. Ha a gépjármű lefoglalását követő 6 hónapon belül az adózó az adótartozását nem fizeti meg, az adóvégrehajtó a gépjármű forgalmi engedélyét is lefoglalja.
+(2) A vállalkozási tevékenységet végző adós üzemi, illetve üzleti tevékenységéhez szükséges járművére folytatott végrehajtást, a végrehajtó a jármű lefoglalás foglalási jegyzőkönyvben történő feltüntetésével foganatosítja. Ha ez lehetséges, a jármű törzskönyvét is le kell foglalni. Ha a jármű lefoglalását követő 6 hónapon belül az adós a tartozását nem fizeti meg, a végrehajtó a jármű forgalmi engedélyét is lefoglalja.
 
-(3) Ha a lefoglalt járművet az adós az adóhatóság felhívására nem adja át, és az adós lakóhelyén (tartózkodási helyén) vagy székhelyén, telephelyén, fióktelepén az nem fellelhető, az adóhatóság az ismeretlen helyen lévő gépjármű feltalálási helyének megállapítása érdekében végzéssel tárgykörözést rendelhet el.
+(3) Ha a lefoglalt járművet az adós az adóhatóság felhívására nem adja át, és az adós lakóhelyén (tartózkodási helyén) vagy székhelyén, telephelyén, fióktelepén az nem fellelhető, az adóhatóság az ismeretlen helyen lévő jármű feltalálási helyének megállapítása érdekében végzéssel tárgykörözést rendelhet el.
 
 (4) A (3) bekezdésben foglalt intézkedések költségét az adóvégrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló rendelet készkiadásra vonatkozó szabályai szerint számítja fel az adóhatóság.
 
@@ -456,7 +458,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 (3) Ha a Vht. 110. § (1) bekezdése szerinti harmadik személy az általánosforgalmiadó-összesítő jelentés benyújtására kötelezett, nyilatkozata szerint az adóstól számlát befogadó adóalany, aki az állami adó- és vámhatóságnak a Vht. 111. §-a alapján megküldött nyilatkozatában a követelést vagy annak egy részét annak teljesítése miatt nem ismeri el, köteles a követelés létrejöttét, illetve megszűnését az állami adó- és vámhatóság részére hitelt érdemlően igazolni.
 
-(4) Ha az általánosforgalmiadó-összesítő jelentés benyújtására kötelezett adóalany a (3) bekezdés szerinti kötelezettségét nem teljesíti vagy a Vht. által előírt nyilatkozattételt elmulasztja, az adóhatóság az adó megfizetésére kötelezettre irányadó szabályok szerint kötelezheti őt a követelés összege erejéig a tartozás megfizetésére.
+(4) Ha az általánosforgalmiadó-összesítő jelentés benyújtására kötelezett adóalany a (3) bekezdés szerinti kötelezettségét nem teljesíti vagy a Vht. által előírt nyilatkozattételt elmulasztja, az állami adó- és vámhatóság az adó megfizetésére kötelezettre irányadó szabályok szerint kötelezheti őt a követelés összege erejéig a tartozás megfizetésére.
 
 #### 31. Zálogjoggal terhelt ingóság lefoglalása
 
@@ -538,7 +540,7 @@ kell értékesíteni.
 
 (3) A (2) bekezdéstől eltérően az állami adó- és vámhatóság árverésen értékesíti
 
-- a) azt a vagyontárgyat, amely helyhez kötött, nem szállítható, vagy szétszerelése speciális szakértelmet igényel, illetve tárolása különleges körülmények biztosítását igényli,
+- a) azt az ingóságot, amely helyhez kötött, nem szállítható, vagy szétszerelése speciális szakértelmet igényel, illetve tárolása különleges körülmények biztosítását igényli,
 - b) azt a vagyontárgyat, amelynek beszállítási költsége nem áll arányban a vagyontárgy értékével és nincs mód zárgondnok kirendelésére,
 - c) az élő állatot,
 - d) a 10 ezer forintot el nem érő becsértékű ingó vagyontárgyakat és
@@ -925,7 +927,7 @@ kell értékesíteni.
 
 100. § Fel kell oldani a lefoglalt vagyontárgyakat, ha a biztosítási intézkedést megszüntették.
 
-101. § A biztosítási intézkedés végrehajtása során felmerült költségek végrehajtási költségként történő felszámítása a kielégítési végrehajtás hatályának beálltát követően 8 napon belül történik. Végrehajtási eljárás hiányában a felmerült költségek felszámítására és érvényesítésére nem kerül sor, azokat az adóhatóság viseli.
+101. § A biztosítási intézkedés végrehajtása során felmerült költségek végrehajtási költségként történő felszámítása a kielégítési végrehajtás hatályának beálltát követően 8 napon belül történik. Végrehajtási eljárás hiányában a felmerült költségek felszámítására és érvényesítésére nem kerül sor, azokat az adóhatóság, illetve megkeresésre folytatott végrehajtás esetében – a 121. §-ban foglalt kivétellel – a behajtást kérő, illetve a behajtást kérő hatóság viseli.
 
 ### XI. Fejezet — HELYTÁLLÁSI KÖTELEZETTSÉG A TARTOZÁS MEGFIZETÉSÉÉRT
 
@@ -1010,7 +1012,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (2) Az adóhatóság a végrehajtás eredménytelensége esetén a kötelezettséget nem minősíti behajthatatlannak, a behajtási eljárást megszünteti. Az eredménytelenség miatt megszüntetett végrehajtási eljárás alapjául szolgáló adók módjára behajtandó köztartozás behajtása az eljárás megszüntetésétől számított egy év elteltével ismételten kezdeményezhető.
 
-(3) Az adóhatóság a végrehajtás eredménytelenségéről és az eljárás megszüntetéséről a behajtást kérőt tájékoztatja. A végrehajtás során felmerült ki nem egyenlített költségeket az adóhatóság állapítja meg, amelyet – a 121. §-ban foglalt kivétellel – az adóhatóság és a behajtást kérők követelésarányosan viselnek. Az adóhatóság az értesítésben a költség megfizetésére a behajtást kérőt felszólítja, ennek eredménytelensége esetén – a behajtást kérőt terhelő, 2 ezer forintot elérő költségtartozás esetén – végzéssel kötelezi a behajtást kérőt a költségek megfizetésére. A végzés a végrehajtási eljárásban végrehajtható okirat.
+(3) Az adóhatóság a végrehajtás eredménytelenségéről és az eljárás megszüntetéséről a behajtást kérőt tájékoztatja. A végrehajtás során felmerült ki nem egyenlített költségeket az adóhatóság állapítja meg, amelyet – a 121. §-ban foglalt kivétellel – az adóhatóság és a behajtást kérők követelésarányosan viselnek. Az adóhatóság az értesítésben a költség megfizetésére a behajtást kérőt felszólítja, ennek eredménytelensége esetén – a behajtást kérőt terhelő, 2 ezer forintot elérő költségtartozás esetén – határozattal kötelezi a behajtást kérőt a költségek megfizetésére. A határozat a végrehajtási eljárásban végrehajtható okirat.
 
 114. § Ha törvény másként nem rendelkezik, az adók módjára behajtandó köztartozás végrehajtásához való jog elévülésére a 12. alcímben foglaltakat kell alkalmazni.
 
@@ -1054,6 +1056,8 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (3) A hallgatói hiteltartozás behajtása kapcsán benyújtott fizetési kedvezmények során a 110. §-ban foglaltak szerint kell eljárni.
 
+(4) A hallgatói hitelszerződés alapján fennálló tartozás végrehajtásához való jog a végrehajtandó követeléssel együtt évül el, a végrehajtáshoz való jog elévülését bármely végrehajtási cselekmény megszakítja.
+
 #### 56. Végrehajtás az általános közigazgatási rendtartás alapján átadott fizetési kötelezettségek esetén
 
 119. § (1) Az általános közigazgatási rendtartás szerinti behajtást kérő hatóság döntése kapcsán lefolytatandó végrehajtási eljárás során az 53. alcím szabályai szerint kell eljárni azzal, hogy a megkeresés időpontjára és a tartozás összegére vonatkozó előírás nem alkalmazható.
@@ -1079,6 +1083,8 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 #### 57. Az általános közigazgatási rendtartás alapján hozott döntésen alapuló meghatározott cselekmény végrehajtásának szabályai
 
 122. § (1) Ha a döntés meghatározott cselekmény elvégzésére vagy meghatározott magatartásra, tűrésre, abbahagyásra (a továbbiakban: meghatározott cselekményre) irányul, és az adós a meghatározott cselekményt önként nem teljesítette, a behajtást kérő hatóság a végrehajtás érdekében megkeresi az állami adó- és vámhatóságot.
+
+(1a) Az általános közigazgatási rendtartás alapján hozott döntésen alapuló meghatározott cselekmény végrehajtása során az I–V. Fejezet rendelkezéseit a jelen alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) Az állami adó- és vámhatóság – a (3) bekezdés szerinti eljárási bírság kilátásba helyezése mellett – felhívja az adóst a meghatározott cselekmény önkéntes teljesítésére, továbbá tájékoztatja a teljesítés elmaradásának következményeiről.
 
@@ -1136,6 +1142,10 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 128. § (1) Ezt a törvényt – a (2) bekezdésben foglalt kivétellel – a hatálybalépésekor folyamatban lévő végrehajtási eljárásokra is alkalmazni kell.
 
 (2) Ezt a törvényt nem kell alkalmazni a 2017. december 31-ig foganatosított végrehajtási cselekmények ellen benyújtott jogorvoslati kérelmek elbírálása során.
+
+(3) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 19. § (1) bekezdését és (9) bekezdését a 2018. január 1-jén folyamatban lévő végrehajtási eljárásokra is alkalmazni kell.
+
+(4) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 118. § (4) bekezdését a folyamatban lévő végrehajtási eljárásokra is alkalmazni kell.
 
 129. § Az 56. alcímben foglaltak alapján kell eljárni azon tartozások végrehajtása során is, amelyek az általános közigazgatási rendtartás alapján hozott döntésen alapuló fizetési kötelezettségnek minősülnek és egyben törvény az adók módjára való behajtásukat rendeli el.
 

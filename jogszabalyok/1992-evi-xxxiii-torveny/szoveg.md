@@ -582,9 +582,9 @@ alakul át.
 
 (3) Ha az (1) bekezdés c) pontjában meghatározott alkalmatlanság a közalkalmazott munkavégzésével vagy magatartásával függ össze, a felmentés előtt lehetőséget kell adni számára a vele szemben felhozott kifogások elleni védekezésre, kivéve, ha az eset összes körülményeiből következően ez a munkáltatótól nem várható el.
 
-(4) A közalkalmazotti jogviszonyt felmentéssel meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő közalkalmazott kérelmezi.
+(4) A közalkalmazotti jogviszonyt felmentéssel meg kell szüntetni, ha a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő közalkalmazott kérelmezi.
 
-(5) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdés a) pontjában foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
+(5) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
 
 30/A. § (1) A 30. § (1) bekezdés a) és b) pontjában meghatározott esetben, valamint, ha a 30. § (1) bekezdés c) pontjában foglalt alkalmatlanság egészségügyi ok következménye – feltéve, hogy a közalkalmazott e törvény alkalmazása szempontjából nem minősül nyugdíjasnak –, a munkáltató a közalkalmazottat írásban tájékoztatja
 

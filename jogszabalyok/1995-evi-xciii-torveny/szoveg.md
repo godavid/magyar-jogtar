@@ -21,7 +21,7 @@ Az Országgyűlés a környezethez való alkotmányos alapjog maradéktalan bizt
 
 3. § A törvény hatálya alá tartozó és a részarány-földtulajdonosok földjének kiadása, valamint a tagok és alkalmazottak földhöz juttatása céljára szolgáló földalapba kijelölt az a földterület, amelynek – magántulajdonba kerülése esetén – a kisajátítása mellőzhető lenne [4. § (2)–(3) bekezdés], e törvény hatálybalépése után magántulajdonba kerülhet, ha a kisajátítás mellőzésének törvényes feltételei fennállnak, és a tulajdont szerző a földterület fekvése szerint illetékes természetvédelmi hatóság által megállapított korlátozást írásbeli nyilatkozatával tudomásul veszi, illetőleg a hatósági előírások betartására írásbeli kötelezettséget vállal.
 
-4. § (1) A törvény hatálya alá tartozó és törvény alapján már magántulajdonba került földterületeket – a (2) és (3) bekezdésben foglalt kivétellel – 2018. december 31-ig az állam javára – az irányadó jogszabályok szerint – ki kell sajátítani. A kisajátítást a védett természeti területek természetvédelmi kezeléséért felelős szerv köteles kezdeményezni, illetve kérni.
+4. § (1) A törvény hatálya alá tartozó és törvény alapján már magántulajdonba került földterületeket – a (2) és (3) bekezdésben foglalt kivétellel – 2022. december 31-ig az állam javára – az irányadó jogszabályok szerint – ki kell sajátítani. A kisajátítást a védett természeti területek természetvédelmi kezeléséért felelős szerv köteles kezdeményezni, illetve kérni.
 
 (2) A természetvédelemért felelős miniszter hozzájárulásával a kisajátítás kérése mellőzhető a tájidegen fafajú, mesterséges vagy rontott erdők, továbbá fokozott védettség alatt nem álló növény- és állatfaj élőhelyéül szolgáló szántó, kert, szőlő és gyümölcsös művelési ágú, továbbá – elhelyezkedésénél fogva – csekélyebb jelentőségű természeti értékkel rendelkező földterületek (pl. szántó közé ékelődött erdőfolt, periférikus, erősen zavart területek) esetén, amelyekre a természetvédelmi hatóság az érintett földterületre egyébként irányadó védelmi szabályoknál szigorúbb – a természeti károk bekövetkezésének megelőzésére alkalmas – korlátozást állapíthat meg.
 
@@ -31,7 +31,7 @@ Az Országgyűlés a környezethez való alkotmányos alapjog maradéktalan bizt
 
 5. § (1) Az 1. § (1) bekezdésének b) pontjában és a 2. § (1) bekezdésében meghatározott földterületek vonatkozásában — a (2) bekezdés szerinti eltéréssel és a 4. § (2) bekezdésének kivételével — a 4. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(2) A kisajátítást a 4. § (1) bekezdésében foglaltak teljesítését megelőzően, legkésőbb azonban 2018. december 31-ig kell végrehajtani.
+(2) A kisajátítást a 4. § (1) bekezdésében foglaltak teljesítését megelőzően, legkésőbb azonban 2022. december 31-ig kell végrehajtani.
 
 6. § (1) A 4. és 5. §-ban előírt kisajátítás pénzügyi fedezetéről az éves költségvetési törvényekben kell rendelkezni.
 

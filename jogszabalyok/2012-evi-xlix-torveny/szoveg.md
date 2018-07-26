@@ -18,7 +18,7 @@ a fordított adózás mezőgazdasági szektorra történő kiterjesztésével ka
 
 8. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2012. július 1-jén lép hatályba.
 
-(2) A 4. § és a 7. § 2019. január 1-jén lép hatályba.
+(2)
 
 (3) Ez a törvény 2019. január 2-án hatályát veszti.
 

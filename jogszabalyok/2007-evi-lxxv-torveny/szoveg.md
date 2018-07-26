@@ -121,7 +121,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 ### Kamarai hatósági eljárások
 
-5. § A közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni – az e törvényben foglaltak figyelembevételével – a következő ügyekben:
+5. § Az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni – az e törvényben foglaltak figyelembevételével – a következő ügyekben:
 
 - a) felvétel a kamarába, valamint a kamarai tagság megszűnésének megállapítása,
 - b) felvétel a könyvvizsgáló cégek nyilvántartásába, valamint az abból való törlés,
@@ -205,7 +205,8 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 - a) a 9/G. § (1) bekezdés szerinti igazolás kiadásáért, visszavonásáért,
 - b) a 35. § szerinti engedélyezési eljárásért, engedély visszavonásáért,
 - c) a 49. § szerinti minősítés visszavonására irányuló kérelem elbírálásáért, és
-- d) a 68. § (1) bekezdés szerinti engedély kiadásáért, visszavonásáért.
+- d) a 68. § (1) bekezdés szerinti engedély kiadásáért, visszavonásáért,
+- e) az 50. § (2c) bekezdés szerinti igazolás kiadásáért.
 
 ### II. Fejezet — A KAMARAI TAG KÖNYVVIZSGÁLÓ
 
@@ -467,7 +468,9 @@ Isten engem úgy segéljen!”
 - l) fegyelmi büntetések, valamint az azok alóli mentesítések időpontja,
 - m) a szakmai továbbképzéssel, a minőségbiztosítással, valamint a tagdíjfizetéssel kapcsolatos adatok, továbbá
 - n) nyilvántartási szám és a nyilvántartásba vételt végző hatóság neve, ha az Európai Gazdasági Térség más államában is nyilvántartásba vették jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására jogosult könyvvizsgálóként,
-- o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilvántartási szám, amennyiben harmadik országban könyvvizsgálóként nyilvántartásba vették.
+- o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilvántartási szám, amennyiben harmadik országban könyvvizsgálóként nyilvántartásba vették,
+- p) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, illetve érvényességének időtartama,
+- q) az IFRS minősítéshez kapcsolódó szakmai minősítő vizsga követelményeinek való megfelelésre vonatkozó igazolás, valamint a számvitelről szóló 2000. évi C. törvény 10. § (6) bekezdés b) pontja szerinti IFRS mérlegképes könyvelői szakképesítés-ráépülést igazoló bizonyítvány száma, kelte és a kiállító intézmény neve.
 
 (2) A kamarai tag könyvvizsgálók nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
@@ -547,7 +550,7 @@ Isten engem úgy segéljen!”
 41. § (1) A közfelügyeleti hatóság a könyvvizsgáló cég 35. § szerinti engedélyét visszavonja
 
 - a) a könyvvizsgáló cég kérésére,
-- b) a könyvvizsgáló cég fegyelmi eljárás keretében nyilvántartásból való törlésével,
+- b)
 - c) ha a könyvvizsgáló cég a 35. §-ban foglalt feltételeknek a továbbiakban már nem felel meg,
 - d) a könyvvizsgáló cég megszűnésével,
 - e) a közfelügyeleti hatóság vagy a kamara minőségellenőrzési bizottsága által hozott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló jogerős határozat alapján,
@@ -559,7 +562,8 @@ Isten engem úgy segéljen!”
 
 - a) a könyvvizsgáló cég kérésére,
 - b) ha a közfelügyeleti hatóság a könyvvizsgáló cég 35. § szerinti engedélyét véglegesen visszavonta,
-- c) ha a könyvvizsgáló cég a 36/A. §-ban foglalt feltételeknek a továbbiakban már nem felel meg.
+- c) ha a könyvvizsgáló cég a 36/A. §-ban foglalt feltételeknek a továbbiakban már nem felel meg,
+- d) a könyvvizsgáló cég nyilvántartásból való törlése fegyelmi eljárás során kiszabott fegyelmi büntetés alkalmazása esetén.
 
 (4) A (3) bekezdés b) pontja alapján a kamara a könyvvizsgáló céget a nyilvántartásból az engedély visszavonásáról szóló döntés véglegessé válásának napjára visszamenőleg törli.
 
@@ -594,11 +598,12 @@ Isten engem úgy segéljen!”
 - m) a minőségbiztosítással, valamint a hozzájárulási díj fizetésével kapcsolatos adatok,
 - n) nyilvántartási szám és a nyilvántartásba vételt végző hatóság neve, ha az Európai Gazdasági Térség más államában is nyilvántartásba vették könyvvizsgáló cégként,
 - o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilvántartási szám, amennyiben harmadik országban könyvvizsgáló gazdálkodóként nyilvántartásba vették,
-- p) a kérelemben megjelölt Európai Gazdasági Térség államának illetékes hatóságának neve és – ha van – a könyvvizsgáló cég kérelemben megjelölt nyilvántartási száma, ha a könyvvizsgáló céget a 35/A. § alapján vették nyilvántartásba.
+- p) a kérelemben megjelölt Európai Gazdasági Térség államának illetékes hatóságának neve és – ha van – a könyvvizsgáló cég kérelemben megjelölt nyilvántartási száma, ha a könyvvizsgáló céget a 35/A. § alapján vették nyilvántartásba,
+- q) az 50. § (2c) bekezdése szerinti igazolás megszerzésének időpontja, illetve érvényességének időtartama.
 
 (2) A könyvvizsgáló cégek nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
-(3) Az (1) bekezdés l) és m) pontjában foglalt adatok kivételével az (1) és (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
+(3) Az (1) bekezdés l), m) és q) pontjában foglalt adatok kivételével az (1) és (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
 
 (4) A könyvvizsgáló cégek nyilvántartására megfelelően alkalmazni kell a 33. § (3) és (5) bekezdését is.
 
@@ -663,15 +668,17 @@ Isten engem úgy segéljen!”
 - b) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és a kérelmezett minősítéssel egyező minősítéssel rendelkező minősítésű kamarai tag könyvvizsgáló mellett legalább két évig vagy két üzleti éven át közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály a kérelmezett minősítés meglétét előírja, vagy
 - c) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven vagy három üzleti éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és sikeresen teljesítette a kérelmezett minősítésre előírt szakmai minősítő vizsgát.
 
-(2a) A kamarai tag könyvvizsgáló a Hpt. 8. § (4) bekezdése szerinti hitelintézetnél (a továbbiakban: bank) pénzügyi intézményi minősítés birtokában is csak akkor végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha rendelkezik a közfelügyeleti hatóság által elismert, a feltételek teljesülésének igazolása iránti kérelem benyújtását megelőző 5 éven belüli
+(2a) A kamarai tag könyvvizsgáló a Hpt. 8. § (4) bekezdése szerinti hitelintézetnél (a továbbiakban: bank) pénzügyi intézményi minősítés birtokában is csak akkor végezhet a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha rendelkezik a közfelügyeleti hatóság által elismert, a feltételek teljesülésének igazolása iránti kérelem benyújtását megelőző 5 éven belüli:
 
-- a) a (2) bekezdés a) pontja szerinti banknál végzett számviteli, ellenőrzési gyakorlattal,
+- a) a (2) bekezdés a) pontja szerinti banknál végzett számviteli, ellenőrzési gyakorlattal, vagy
 - b) legalább egy üzleti évre kiterjedően banknál végzett 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói gyakorlattal, vagy
-- c) a (2) bekezdés b) pontja szerint a pénzügyi intézményi minősítésű kamarai tag könyvvizsgáló mellett legalább két évig banknál végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában való közreműködéssel.
+- c) a (2) bekezdés b) pontja szerint a pénzügyi intézményi minősítésű kamarai tag könyvvizsgáló mellett banknál végzett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában való közreműködéssel.
 
-(2b) Könyvvizsgáló cég banknál pénzügyi intézményi minősítés birtokában is csak akkor végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha van legalább egy olyan kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és megfelel a (2a) bekezdésben foglalt feltételeknek.
+(2b) Könyvvizsgáló cég banknál pénzügyi intézményi minősítés birtokában is csak akkor végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha van legalább egy olyan kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és rendelkezik a (2a) bekezdés szerinti feltételek teljesülésének elismeréséről szóló igazolással.
 
-(2c) A (2a) és (2b) bekezdés szerinti feltételek teljesülésének elismeréséről a közfelügyeleti hatóság értesíti a kamarát. A feltételek teljesülésének elismerését a kamara rögzíti a kamarai nyilvántartásokban, és közzéteszi a honlapján.
+(2c) A (2a) és (2b) bekezdés szerinti feltételek teljesülésének elismeréséről a közfelügyeleti hatóság igazolást állít ki, és az igazolásról szóló döntés véglegessé válásával egyidejűleg értesíti a kamarát. A feltételek teljesülésének elismerését a kamara rögzíti a kamarai nyilvántartásokban, és közzéteszi a honlapján.
+
+(2d) A (2c) bekezdés szerinti igazolás, a kiállításának naptári évét követő naptári év utolsó napjáig jogosít banknál a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálatra vonatkozó megbízás elfogadására.
 
 (3) Kérelem alapján minősítést a könyvvizsgáló cég akkor kaphat, ha megfelel az alábbi feltételeknek:
 
@@ -712,7 +719,7 @@ Isten engem úgy segéljen!”
 
 (2b) A (2a) bekezdés szerinti felfüggesztésről és a minősítés visszavonásáról a közfelügyeleti hatóság értesíti a kamarát.
 
-(3) A minősítés visszavonása esetén a kamarai nyilvántartásokban szereplő adatokat megfelelően módosítani kell, egyidejűleg vissza kell vonni az 50. § (6) bekezdése szerinti igazolást is.
+(3) A minősítés visszavonása esetén a kamarai nyilvántartásokban szereplő adatokat megfelelően módosítani kell,.
 
 ### A könyvvizsgálói feladatkörrel (hivatással) összeegyeztethetetlen tevékenységek
 
@@ -873,7 +880,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (2) A Rendelet 5. cikk (1) bekezdésében foglaltaktól eltérően az 5. cikk (3) bekezdésben meghatározott szolgáltatások az abban foglalt feltételek fennállása esetén nyújthatóak.
 
-(3) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a Rendelet 11. cikk szerinti, audit bizottsághoz címzett kiegészítő jelentést meg kell küldenie a vizsgált gazdálkodó igazgató tanácsa és felügyelő testülete részére.
+(3) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a Rendelet 11. cikk szerinti, audit bizottsághoz címzett kiegészítő jelentést meg kell küldenie a vizsgált gazdálkodó igazgató tanácsa, felügyelő testülete részére, valamint a közfelügyeleti hatóság elektronikus elérhetőségére.
 
 (4) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló vagy a könyvvizsgáló cég évente december 31-ig tájékoztatja a közfelügyeleti hatóságot a december 31-én hatályban lévő, közérdeklődésre számot tartó gazdálkodóval kötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó megbízásairól.
 
@@ -1051,15 +1058,15 @@ tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi
 
 (4) Az (1) bekezdés szerinti engedély legfeljebb öt évre adható meg.
 
-82. § A szakképző hely a felnőttképzésről szóló törvényben előírtak figyelembevételével
+82. § A szakképző hely a
 
 - a) az okleveles könyvvizsgálói képzést a kamara által meghatározott képzési program alapján köteles szervezni,
 - b) a képzési programban meghatározott tantárgyak oktatását kizárólag a 87. § szerinti minősített oktatók közreműködésével végezheti,
 - c) a kamara által meghatározott formában és tartalommal adatokat szolgáltat a kamara részére.
 
-83. § (1) A szakképző hely az okleveles könyvvizsgálói képzési programba felvett természetes személlyel – a felnőttképzésről szóló törvény szerinti – képzési szerződést köt.
+83. § (1) A szakképző hely az okleveles könyvvizsgálói képzési programba felvett természetes személlyel képzési szerződést köt.
 
-(2) A képzési szerződésben – a felnőttképzésről szóló törvényben előírtak figyelembevételével – meg kell határozni az alábbiakat:
+(2) A képzési szerződésben meg kell határozni az alábbiakat:
 
 - a) a képzéssel megszerezhető szakképesítést, az elsajátítandó ismereteket,
 - b) a képzés szervezésének formáját,
@@ -1101,9 +1108,11 @@ tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi
 
 ### Képzési idő
 
-89. § (1) Az okleveles könyvvizsgálói képzés képzési ideje legfeljebb 5 naptári év, az összes vizsga teljesítését is beleértve. A képzési idő kezdő napjának az okleveles könyvvizsgálói képzési program keretében szervezett tanfolyami képzés indításának napja minősül.
+89. § (1) Az okleveles könyvvizsgálói képzés képzési ideje legfeljebb a képzési idő kezdő napjától számított 5. év utolsó napjáig tart, az összes vizsga teljesítését is beleértve. A képzési idő kezdő napjának az okleveles könyvvizsgálói képzési program keretében szervezett tanfolyami képzés indításának napja minősül.
 
 (2) A képzési idő kérelemre egy alkalommal – 1 év időtartammal – meghosszabbítható. A kérelem tekintetében a kamara oktatási bizottsága jár el.
+
+(3) Az okleveles könyvvizsgálói képzést az okleveles könyvvizsgálói képzési programba való felvételtől számított 3 éven belül meg kell kezdeni.
 
 ### A képzés főbb tanulmányi területei
 
@@ -1114,8 +1123,8 @@ tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi
 - c) közgazdaságtan és pénzügyek,
 - d) szervezeti és vezetési ismeretek,
 - e) számvitel és elemzés,
-- f) számviteli információs rendszerek,
-- g) könyvvizsgálat és ellenőrzés.
+- f) könyvvizsgálat és ellenőrzés,
+- g) pénzügyi és számviteli információs rendszerek.
 
 ### Felvétel az okleveles könyvvizsgálói képzési programba
 
@@ -1125,7 +1134,7 @@ tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi
 
 - a) a felsőoktatásról szóló törvény szerint Magyarországon államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
 - b) mérlegképes könyvelői vagy azzal egyenértékű szakképesítéssel rendelkezik és szakképesítését oklevéllel, bizonyítvánnyal igazolja,
-- c) számviteli, pénzügyi, ellenőrzési szakterületen az a) pont szerinti végzettség megszerzését követően, de a felvételi kérelmének benyújtását megelőző három éven belül teljesített, legalább egy éves, igazolt szakmai gyakorlattal rendelkezik,
+- c)
 - d) nem áll fenn vele szemben a 9/H. § a) pontjában meghatározott kizáró ok,
 - e) az előírt igazgatási szolgáltatási díjat megfizette.
 
@@ -1197,6 +1206,8 @@ szerezte.
 
 (4) Ha a könyvvizsgáló jelölt a (2) bekezdés szerinti gyakorlati időt megszakítja, az a könyvvizsgáló jelölt kérelmére és a kamara, vagy a 98. § (1) bekezdésének c) pontja szerinti kamarai tag könyvvizsgáló, könyvvizsgáló cég hozzájárulásával meghosszabbítható, de nem lehet hosszabb hat évnél.
 
+(4a) A gyakorlati időbe kérelemre beszámítható a könyvvizsgáló jelölt által az okleveles könyvvizsgálói képzés számvitel és elemzés moduljának teljesítése és a könyvvizsgáló jelölti névjegyzékbe vétele közötti időben a (3) bekezdés szerinti, a kamara alapszabályában és mentori szabályzatában meghatározott módon szerzett, legalább 1 éves gyakorlat.
+
 (5) Könyvvizsgáló jelöltként tevékenységet az folytathat, akit a kamara a könyvvizsgáló jelöltek névjegyzékébe felvett.
 
 (6) A kamara a könyvvizsgáló jelöltnek a névjegyzékbe való felvételről igazolást ad. Az igazolás jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására nem jogosít.
@@ -1205,7 +1216,7 @@ szerezte.
 
 98. § (1) A könyvvizsgáló jelöltek névjegyzékébe – kérelmére – fel kell venni azt, aki teljesíti az alábbiakat:
 
-- a) megfelel a 11. § (1) bekezdésének b) pontjában meghatározott feltételeknek,
+- a) rendelkezik okleveles könyvvizsgálói szakképesítéssel,
 - b) nem esik a 9/H. §-ban meghatározott kizáró ok alá,
 - c) vállalja, hogy Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
 - d) magára nézve kötelezőnek ismeri el a kamara vonatkozó szabályzatának rendelkezéseit,
@@ -1365,7 +1376,7 @@ szerezte.
 112. § A küldöttgyűlés a 111. § e) pontja alapján szabályzatot alkot
 
 - a) a kamarai tagfelvételről és a kamarai tagság megszűnéséről, a kamarai tag könyvvizsgálók nyilvántartásába történő bejegyzésről és a nyilvántartásból történő törlésről,
-- b) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gazdálkodó szervezetek (szervezetek) számára történő engedélyezéséről és az engedély megszűnéséről, a könyvvizsgáló cégek nyilvántartásába történő felvételről és a nyilvántartásból történő törlésről,
+- b) a könyvvizsgáló cégek nyilvántartásába történő felvételről és a nyilvántartásból történő törlésről,
 - c) a küldöttgyűlésben és a kamara elnökségében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását szüneteltető kamarai tag könyvvizsgálókat képviselő személyek választásáról, illetve visszahívásáról,
 - d) a kamara elnökségében a könyvvizsgáló cégeket képviselő személy választásáról, illetve visszahívásáról,
 - e) a könyvvizsgálói hivatás magatartási (etikai) szabályairól és a fegyelmi eljárásról,
@@ -1714,6 +1725,26 @@ szerezte.
 
 146. § A területi szervezetek vezetőit az illetékességi területhez tartozó kamarai tag könyvvizsgálók legalább 3, legfeljebb 5 évre választják. Megválasztásuk és visszahívásuk a kamara alapszabályában és választási szabályzatában meghatározott módon történik.
 
+### Pártoló személy, pártoló szervezet és szenior könyvvizsgáló
+
+146/A. § (1) A kamara az alapszabályában és egyéb önkormányzati szabályzatában meghatározott feltételekkel pártoló személyi, pártoló szervezeti és szenior könyvvizsgálói jogviszonyt létesíthet.
+
+(2) A pártoló személy, a pártoló szervezet és a szenior könyvvizsgáló kamarai nyilvántartásba vétele és a nyilvántartásból való törlése tekintetében a kamara felvételi bizottsága jár el, amely a pártoló személyi, a pártoló szervezeti és a szenior könyvvizsgálói jogviszony fennállásáról igazolást ad.
+
+(3) A pártoló személyt, a pártoló szervezetet és a szenior könyvvizsgálót az (5) és (6) bekezdésben foglaltak kivételével nem illetik meg a kamarai tagságból eredő jogok és nem terhelik az abból fakadó kötelezettségek.
+
+(4) A pártoló személyi, a pártoló szervezeti és a szenior könyvvizsgálói jogviszony Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére és a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységen kívüli egyéb szakmai szolgáltatás nyújtására nem jogosít.
+
+(5) A pártoló személy, a pártoló szervezet és a szenior könyvvizsgáló jogosult:
+
+- a) tanácskozási joggal részt venni a lakóhelye szerint illetékes területi szervezet és meghívás alapján a kamara egyéb szerveinek tevékenységében,
+- b) igénybe venni a kamara által nyújtott – a kamara alapszabálya és egyéb önkormányzati szabályzata által meghatározott körű – szolgáltatásokat.
+
+(6) A pártoló személy, a pártoló szervezet és a szenior könyvvizsgáló köteles:
+
+- a) megtartani a kamara alapszabálya és egyéb önkormányzati szabályzatai rá vonatkozó előírásait,
+- b) a kamara alapszabálya által megállapított éves díjat megfizetni.
+
 ### A kamara működésének finanszírozása
 
 147. § (1) A kamara működését
@@ -1749,7 +1780,7 @@ finanszírozzák.
 
 149. § (1) A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásának biztosítása céljából a kamara a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek könyvvizsgálói tevékenységét minőségbiztosítási rendszer keretében folyamatosan ellenőrzi (kamarai minőségellenőrzés).
 
-(2) A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek tevékenységét a közfelügyeleti hatóság minőségbiztosítási rendszer keretében folyamatosan ellenőrzi (a továbbiakban: minőségellenőrzés). A minőségellenőrzés lefolytatására az itt nem szabályozott kérdésekben a közigazgatási hatósági eljárás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(2) A közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgálók, könyvvizsgáló cégek tevékenységét a közfelügyeleti hatóság minőségbiztosítási rendszer keretében folyamatosan ellenőrzi (a továbbiakban: minőségellenőrzés). A minőségellenőrzés lefolytatására az itt nem szabályozott kérdésekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 (3)
 
@@ -1827,7 +1858,7 @@ finanszírozzák.
 
 (2) A minőségellenőrnek rendelkeznie kell a 49. § szerinti megfelelő minősítéssel is, ha olyan gazdálkodó tekintetében ellátott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó kamarai minőségellenőrzésben vesz részt, amely esetében csak minősített kamarai tag könyvvizsgáló vagy könyvvizsgáló cég végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet. Ilyen esetben a minősítés megszerzése és a kamarai minőségellenőrzésben való részvétel között legalább három évnek kell eltelnie.
 
-(3) A minőségellenőrnek az érintett gazdálkodó tevékenységéhez igazodó szakmai képesítéssel és ennek megfelelő, a kamarai minőségellenőrzésben való részvételt megelőzően megszerzett legalább hatéves szakmai gyakorlattal kell rendelkeznie, ha a (2) bekezdés hatálya alá nem tartozó egyéb, sajátos feladatokat végző gazdálkodó tekintetében ellátott jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó kamarai minőségellenőrzésben vesz részt.
+(3) A minőségellenőrnek az érintett gazdálkodó tevékenységéhez igazodó, legalább hároméves szakmai gyakorlattal kell rendelkeznie, ha a (2) bekezdés hatálya alá nem tartozó egyéb, sajátos tevékenységet végző gazdálkodó tekintetében ellátott, jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységre vonatkozó kamarai minőségellenőrzésben vesz részt.
 
 (4) A bizottság tagjai és a minőségellenőrök nem lehetnek egymásnak közeli hozzátartozói.
 
@@ -1841,7 +1872,7 @@ finanszírozzák.
 
 (3) A pályázati felhívást, valamint a nyilvántartásba vett minőségellenőrök nevét a kamara a honlapján és a lapjában közzé teszi.
 
-(4) A bizottság a minőségellenőrök számára igazolást állít ki a nyilvántartásba vételről.
+(4) A bizottság a minőségellenőrök számára 5 évre szóló igazolást állít ki a nyilvántartásba vételről.
 
 162. § A minőségellenőröket az e feladatkörükben végzett tevékenységükért a bizottság szervezeti és működési szabályzatában meghatározott díjazás illeti meg. A díjakat a kamara pénzügyi tervében elkülönített Minőségbiztosítási Alap terhére kell elszámolni.
 
@@ -1850,11 +1881,12 @@ finanszírozzák.
 - a) azt a minőségellenőr kéri,
 - b) a minőségellenőr a nyilvántartásba vételi követelményeknek a továbbiakban már nem felel meg,
 - c) a minőségellenőrt a bizottság felmenti e feladatköréből,
-- d) a minőségellenőr elhalálozott.
+- d) a 161. § (4) bekezdése szerinti igazolás 5 éves időtartama lejár,
+- e) a minőségellenőr elhalálozott.
 
 164. § (1) A minőségellenőr bármikor kérheti a nyilvántartásból való törlését.
 
-(2) A bizottság felmenti a minőségellenőrt e feladatköréből, ha az a megbízatásának tartósan nem tesz eleget.
+(2) A bizottság felmenti a minőségellenőrt e feladatköréből, ha megbízatásának tartósan nem, vagy nem megfelelően tesz eleget.
 
 164/A. §
 
@@ -1910,9 +1942,11 @@ finanszírozzák.
 
 (3) A záró jelentést az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek, valamint a bizottságnak meg kell küldeni.
 
-(4) A záró jelentésre az átvételétől számított tizenöt napon belül az ellenőrzés alá vont írásban észrevételt tehet, amelyet a bizottsághoz kell benyújtani.
+(4) A záró jelentésre az átvételétől számított 8 napon belül az ellenőrzés alá vont írásban észrevételt tehet, amelyet a bizottsághoz kell benyújtani.
 
 (5) A bizottság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a kamarai minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
+
+(6) Minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 90 nap.
 
 171. § A kamarai minőségellenőrzés során hozott végleges határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
 
@@ -1957,7 +1991,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (4) A bizottság a vizsgálat befejezéséről határozattal dönt.
 
-(5)
+(5) A vizsgálat során a határozat meghozatalára nyitva álló határidő a vizsgálat megindításától számított 90 nap.
 
 (6) Ha a vizsgálat eredményeként az állapítható meg, hogy a kamarai tag könyvvizsgáló, a könyvvizsgáló cég megszegte a (2) bekezdés szerinti törvényekben vagy az annak végrehajtására kiadott útmutatóban foglalt kötelezettségeit, a bizottság a (2) bekezdés szerinti törvényekben foglalt intézkedések alkalmazásáról dönt. Ha a bizottság intézkedésként eltiltást alkalmaz, az eltiltás időtartama 3 évig terjedhet.
 
@@ -2026,7 +2060,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (14) A kamara a minőségellenőrzés lefolytatásához szükséges dokumentumokat, nyilvántartásokat a közfelügyeleti hatóság kérelmére tizenöt napon belül átadja a közfelügyeleti hatóságnak.
 
-(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 60 nap.
+(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 90 nap.
 
 173/C. § (1) A minőségellenőrzésről az ellenőr záró jelentést készít.
 
@@ -2283,7 +2317,7 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 
 (3) A közfelügyeleti hatóság évente nyilvánosságra hozza az éves munkatervének végrehajtásáról szóló beszámolót.
 
-(4) A közfelügyeleti hatóság közfelügyeleti feladataival kapcsolatos éves munkatervét a tárgyévet megelőző év december 31-éig, az éves munkaterv végrehajtásáról szóló beszámolót a tárgyévet követő év március 31-éig az Egységes Kormányzati Portálon hozza nyilvánosságra.
+(4) A közfelügyeleti hatóság közfelügyeleti feladataival kapcsolatos éves munkatervét a tárgyévet megelőző év december 31-éig, az éves munkaterv végrehajtásáról szóló beszámolót a tárgyévet követő év április 30-áig az Egységes Kormányzati Portálon hozza nyilvánosságra.
 
 (5)
 
@@ -2479,6 +2513,10 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 (5) A Mód2 törvény hatálybalépésekor érvényben lévő kamarai tagsági felvételről szóló döntés ugyanazon joghatás kiváltására alkalmas, mint a Mód2 törvény hatálybalépését követően a 9/G. § szerinti közfelügyeleti hatóság által kiállított igazolás.
 
 208/M. § Az általános közigazgatási rendtartásról szóló törvény hatálybalépésével összefüggő törvények és egyes egyéb törvények módosításáról szóló 2017. évi CLIX. törvénnyel megállapított 50. § (2a) és (2b) bekezdését a 2018. évi üzleti év könyvvizsgálatára kell először alkalmazni.
+
+208/N. § (1) Azoknak a 159. § (1) bekezdése szerinti minőségellenőröknek, akiket a kamara az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 161. § (4) bekezdése hatálybalépését megelőzően nyilvántartásba vett, a nyilvántartásba vételről kiállított igazolásuk a 161. § (4) bekezdése hatálybalépését követő 5 évig érvényes.
+
+(2) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 170. § (4) és (6) bekezdését, 173/A. § (5) bekezdését, valamint a 173/B. § (15) bekezdését az azok hatálybalépését követően indult eljárásokra kell először alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 
