@@ -369,7 +369,7 @@ mutatott ki.
 
 (7) A számvitelről szóló törvény hatálya alá tartozó jogi személy és egyéni cég adóalany – a (4)–(6) bekezdésben foglaltaktól eltérően, a juttatás jogcímének megfelelően – a személyi jövedelemadóról szóló törvénynek és az adózás rendjéről szóló törvénynek az osztalékból (osztalékelőlegből) származó jövedelemre vagy a vállalkozásból kivont jövedelemre vonatkozó rendelkezéseit alkalmazza, ha adóalanyisága időszaka alatt az adóalanyisága első üzleti évének nyitó adatai között kimutatott saját tőke terhére juttat bevételt tagja, volt tagja (örököse) részére. E rendelkezés alkalmazásában a saját tőke terhére juttatott bevétellel esik egy tekintet alá az adóalany által a jóváhagyott osztalék, részesedés, a jegyzett tőke leszállítása vagy a tagi jogviszony megszűnésére tekintettel tagjával, volt tagjával (örökösével) szemben az adóalanyisága első üzleti évének nyitó adatai között kimutatott kötelezettség is.
 
-(8) A (7) bekezdésben említett forrásokat és a források változását az adózó elkülönítetten tartja nyilván. E nyilvántartásban az adóalany az adóalanyiság időszaka alatt keletkezett mérleg szerinti veszteséget az adóalanyiság időszaka alatt keletkezett eredménytartalék terhére, ha az erre már nem nyújt fedezetet, akkor a korábban keletkezett eredménytartalék terhére számolja el. Ha az adóalany tagja, volt tagja (örököse) részére tagi jogviszonyára tekintettel juttat bevételt (ide nem értve a tag személyes közreműködésének és a tag által teljesített mellékszolgáltatásnak a díját) a külön nyilvántartott források megszűnéséig azt kell feltételezni, hogy az adóalany azt e források terhére juttatta. Az adóalanyiság időszaka előtt keletkezett eredménytartalékot csak akkor kell figyelembe venni, ha annak a tárgyévi adózott eredmény kiegészítéseként osztalékra, részesedésre történő igénybevételéről az adóalany döntött.
+(8) A (7) bekezdésben említett forrásokat és a források változását az adózó elkülönítetten tartja nyilván. E nyilvántartásban az adóalany az adóalanyiság időszaka alatt az adózott eredményt, ha az veszteség, az adóalanyiság időszaka alatt keletkezett eredménytartalék terhére, ha az erre már nem nyújt fedezetet, akkor a korábban keletkezett eredménytartalék terhére számolja el. Ha az adóalany tagja, volt tagja (örököse) részére tagi jogviszonyára tekintettel juttat bevételt (ide nem értve a tag személyes közreműködésének és a tag által teljesített mellékszolgáltatásnak a díját), akkor az adózó választhat, hogy azt az adóalanyiság időszaka alatt keletkezett eredménytartalék terhére, vagy a korábban keletkezett eredménytartalék terhére számolja el.
 
 (9) A számvitelről szóló törvény hatálya alól kikerülő betéti társaság, közkereseti társaság és egyéni cég adóalany utolsó üzleti éve beszámolójának mérlegében kimutatott, tagi jogviszony megszűnésére tekintettel fennálló kötelezettség alapján a volt tagnak (örökösének) juttatott bevételre – az (5) bekezdésben foglaltaktól eltérően – a személyi jövedelemadóról szóló törvénynek és az adózás rendjéről szóló törvénynek a vállalkozásból kivont jövedelemre vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -487,7 +487,19 @@ mutatott ki.
 
 (6) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 18. § (2) bekezdését a 2017-ben kezdődő adóévben is alkalmazni kell.
 
-24–29. §
+(7) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 18. § (8) bekezdését az adózó a 2018-ban kezdődő adóévben választása szerint alkalmazza.
+
+24. §
+
+25. §
+
+26. §
+
+27. §
+
+28. §
+
+29. §
 
 ### Melléklet a 2002. évi XLIII. törvényhez
 

@@ -23,7 +23,7 @@ Az egészségügyi szolgáltatásokra szolidaritási elv alapján jogosultak ell
 
 után.
 
-(2) Az (1) bekezdésben meghatározott jövedelem után az egészségügyi hozzájárulást nem pénzbeli juttatás esetén is meg kell fizetni.
+(2)
 
 (3) A magánszemély az adóévben megszerzett
 
@@ -34,6 +34,8 @@ után.
 - e)
 
 után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddig, amíg a biztosítási jogviszonyában a Tbj. 19. § (3) bekezdése alapján megfizetett természetbeni és pénzbeli egészségbiztosítási járulék, az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 9. § (1) bekezdése alapján megfizetett egészségbiztosítási járulék, a Tbj. 36–37. §-a és 39. § (2) bekezdése alapján megfizetett egészségügyi szolgáltatási járulék (a továbbiakban együtt: egészségbiztosítási járulék), valamint az a)–e) pontban meghatározott jövedelmek után megfizetett százalékos mértékű egészségügyi hozzájárulás együttes összege a tárgyévben el nem éri a négyszázötvenezer forintot (a továbbiakban: hozzájárulás-fizetési felső határ).
+
+(3a) Az (1) és (3) bekezdésben meghatározott jövedelem után az egészségügyi hozzájárulást nem pénzbeli juttatás esetén is meg kell fizetni.
 
 (4) A kifizető az Szja tv. 71. § szerint biztosított béren kívüli juttatások alapján megállapított jövedelem adóalapként meghatározott összege után – figyelemmel az Szja tv. 70. § (4) bekezdésére – 14 százalékos mértékű egészségügyi hozzájárulást fizet.
 
@@ -79,7 +81,7 @@ után 14 százalékos mértékű egészségügyi hozzájárulást fizet mindaddi
 
 (2) A kifizetőt és a bérbeadó természetes személyt nem terheli a 3. § (1) bekezdésében meghatározott egészségügyihozzájárulás-fizetési kötelezettség az ingatlan bérbeadásból származó jövedelem után.
 
-(3) A Tbj. 13. §-ában említett közösségi rendelet hatálya alá tartozó, másik tagállamban biztosított személy jövedelme után nem kell egészségügyi hozzájárulást fizetni. Az egészségügyihozzájárulás-fizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított, a másik tagállamban fennálló biztosítást tanúsító igazolással igazolja.
+(3) A Tbj. 13. §-ában említett közösségi rendelet hatálya alá tartozó, másik tagállamban vagy az Európai Unió intézményei által biztosított személy jövedelme után nem kell egészségügyi hozzájárulást fizetni. Az egészségügyihozzájárulás-fizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított, a másik tagállamban vagy az Európai Unió intézményénél fennálló biztosítást tanúsító igazolással igazolja.
 
 6–9. §
 

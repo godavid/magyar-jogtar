@@ -106,6 +106,22 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
 - b) az adósságot keletkeztető ügylet a kormányzati szektorba sorolt egyéb szervezet jogszabályban meghatározott kötelező feladata ellátásához szükséges fejlesztéshez vagy működési költséghez szükséges, és
 - c) a hitel felhasználásával megvalósítandó fejlesztés esetében a fejlesztés kiadásainak megtérülése valószínűsíti a hitel visszafizetését, és a hitel felhasználásának átfogó közgazdasági elemzése a hitel visszafizetése szempontjából megnyugtató eredményre vezet.
 
+(3) Az (1) és (2) bekezdésben foglaltaktól eltérően a kormányzati szektorba sorolt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi intézmény (a továbbiakban: kormányzati szektorba sorolt pénzügyi intézmény) adósságot keletkeztető ügyletet érvényesen a (4)–(10) bekezdésben foglaltak figyelembevételével köthet. E rendelkezést nem kell alkalmazni a naptári éven belül lejáró adósságot keletkeztető ügyletekre.
+
+(4) A Kormány legkésőbb a költségvetési évre vonatkozó költségvetési törvényjavaslat Költségvetési Tanács számára, a 24. § (1) bekezdés a) pontja szerint történő benyújtásáig meghatározza azt az összeget (a továbbiakban: keretszám), amelyet a kormányzati szektorba sorolt pénzügyi intézmény költségvetési év utolsó napján fennálló, a 2. § (1) bekezdés a) pontja szerinti konszolidált adósságállománya nem haladhat meg. A Kormány a költségvetési év során – az államháztartásért felelős miniszter kezdeményezésére – az államadósság-mutató e törvény szerint meghatározott alakulásának veszélyeztetése nélkül módosíthatja az előző évben meghatározott értéket.
+
+(5) A Kormány a (4) bekezdés szerinti keretszámot a kormányzati szektorba sorolt pénzügyi intézmény 3. § (1) bekezdés a)–e) pontjai szerinti adósságállománya, és a pénzügyi intézmény által elfogadott betétekből eredő adósságállománya együttes összegére határozza meg.
+
+(6) A Kormány (4) bekezdés szerinti döntéseit az államháztartásért felelős miniszter kezdeményezi, állami tulajdonú kormányzati szektorba sorolt pénzügyi intézmény esetén annak tulajdonosi joggyakorlását ellátó szerv véleményének kikérésével. A Kormány döntései a kormányzati szektorba sorolt pénzügyi intézmény legalább hároméves középtávú üzleti stratégiájának bemutatásával kezdeményezhetők.
+
+(7) Állami tulajdonú kormányzati szektorba sorolt pénzügyi intézmény esetén annak tulajdonosi joggyakorlását ellátó szerv gondoskodik a középtávú üzleti stratégiának, az éves üzleti tervnek, valamint az éves forrásbevonási tervnek a Kormány (4) bekezdés szerinti döntésével való összhangjáról. Egyéb esetben az államháztartásért felelős miniszter gondoskodik a keretszám kormányzati szektorba sorolt pénzügyi intézménnyel történő megismertetéséről.
+
+(8) A kormányzati szektorba sorolt pénzügyi intézmény a keretszám betartásának alakulásáról évente legalább négy alkalommal a Kormány rendeletében meghatározott tartalommal adatot szolgáltat az államháztartásért felelős miniszternek. Amennyiben az egyes adatszolgáltatások közötti időszakban a keretszám betartását befolyásoló esemény következik be, vagy kockázat merül fel, arról a kormányzati szektorba sorolt pénzügyi intézmény haladéktalanul értesíti az államháztartásért felelős minisztert és tulajdonosi joggyakorlóját.
+
+(9) Amennyiben a (8) bekezdés szerinti adatok alapján az államháztartásért felelős miniszter az államadósság-mutató e törvény szerint meghatározott alakulásának veszélyeztetését jelzi előre, a Kormánynál az államadósságra vonatkozó követelmények betartásához szükséges intézkedést kezdeményezhet.
+
+(10) Az államháztartásért felelős miniszter a kormányzati szektorba sorolt pénzügyi intézmény vagy a pénzügyi közvetítőrendszer stabilitásának megőrzése érdekében a keretszámtól eltérő adósságot keletkeztető ügyletet is engedélyezhet. A döntés során a miniszter mérlegeli az államadósság-mutató alakulását, a mutatóra vonatkozó követelmény veszélyeztetéséből vagy be nem tartásából eredő hatás összevetését a pénzügyi intézmény vagy a pénzügyi közvetítőrendszer stabilitása megőrzésének hatásával, a pénzügyi intézmény által a működőképessége tekintetében jelzett kockázatok mértékét.
+
 10. § (1) Az önkormányzat érvényesen kizárólag a Kormány előzetes hozzájárulásával vállalhat a Polgári Törvénykönyv szerinti kezességet és garanciát, valamint köthet adósságot keletkeztető ügyletet.
 
 (2) Települési önkormányzat adósságot keletkeztető ügyletet csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette. E rendelkezést nem kell alkalmazni a települési önkormányzat olyan adósságot keletkeztető ügyletére, amelyhez nincs szükség a Kormány hozzájárulására, illetve amelynek célja meglévő adósság visszafizetése, ha annak összege nem haladja meg az adósság összegét.
@@ -130,11 +146,15 @@ egybe kell számítani.
 
 (5) Az önkormányzat adósságot keletkeztető ügyletből származó tárgyévi összes fizetési kötelezettsége az adósságot keletkeztető ügylet futamidejének végéig egyik évben sem haladhatja meg az önkormányzat adott évi saját bevételeinek 50%-át.
 
-(6) Az (5) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítható be a naptári éven belül lejáró futamidejű adósságot keletkeztető ügylet, az európai uniós vagy nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó fizetési kötelezettségek összege, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettség összege.
+(6) Az (5) bekezdés szerint megállapítandó fizetési kötelezettség mértékébe nem számítható be a naptári éven belül keletkeztetett és lejáró futamidejű adósságot keletkeztető ügylet, az európai uniós vagy nemzetközi szervezettől elnyert támogatás előfinanszírozásának biztosítására szolgáló adósságot keletkeztető ügyletből, a víziközmű-társulattól annak megszűnése miatt átvett hitelből és az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelből származó fizetési kötelezettségek összege, de beleszámítandó a kezesség-, illetve garanciavállalásból eredő, jogosult által érvényesített fizetési kötelezettség összege.
 
 (7) Az önkormányzat – uniós jogi aktusból következő vagy nemzetközi szervezettel szemben vállalt kötelezettségből eredő fejlesztés kivételével – nem indíthat új fejlesztést, ha adósságot keletkeztető ügyletéhez kapcsolódó tárgyévi összes fizetési kötelezettsége eléri vagy meghaladja az (5) bekezdés szerinti mértéket.
 
 (8) Az önkormányzati társulás adósságot keletkeztető ügylethez kapcsolódó kötelezettségeinek teljesítését a társulásban részt vevő önkormányzatok kezességvállalása biztosítja.
+
+(9) Az önkormányzat az Áht. 96. § (1) bekezdésében és a 10/B.–10/D. §-ban foglaltaktól eltérően is vállalhat a Kormány előzetes hozzájárulásával kezességet és garanciát a többségi tulajdonában álló gazdasági társaság által vállalt kötelezettségek biztosítására, amennyiben e kötelezettségek nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához kapcsolódnak és nem minősülnek a 3. § (1) bekezdés a) és b) pontja szerinti adósságot keletkeztető ügyletnek. A Kormány előzetes hozzájárulása során a beruházás nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánításának indokait és annak az önkormányzat gazdálkodási helyzetére gyakorolt várható hatásait vizsgálja.
+
+(10) Az önkormányzatnak a (9) bekezdés szerinti kezesség-, illetve garanciavállalására vonatkozó kérelmét a helyi önkormányzatokért felelős miniszterhez és az államháztartásért felelős miniszterhez kell benyújtania.
 
 10/A. § Az önkormányzat a Kormány előzetes hozzájárulásával kizárólag
 
@@ -166,8 +186,8 @@ köthet naptári éven túli futamidejű működési célú adósságot keletkez
 
 (2) Az önkormányzat a hozzájárulás iránti kérelméhez
 
-- a) hitel felvételének szándéka esetén a hitelt folyósító pénzügyi szolgáltató és az önkormányzat közötti hitelszerződés tervezetét,
-- b) kötvény nyilvános kibocsátásának szándéka esetén a Magyar Nemzeti Bank, illetve az egyes törvényeknek a Magyar Nemzeti Bankról szóló törvénnyel összefüggő, valamint egyéb célú módosításáról szóló 2013. évi CXLIII. törvény hatálybalépése előtt a Pénzügyi Szervezetek Állami Felügyelete részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
+- a) hitel felvételének szándéka esetén a pénzügyi szolgáltató és az önkormányzat közötti hitelszerződés tervezetét,
+- b) kötvény nyilvános kibocsátásának szándéka esetén a Magyar Nemzeti Bank részére jóváhagyásra benyújtandó tájékoztatót, illetve a jóváhagyott engedélyt,
 - c) kötvény zártkörű kibocsátásának szándéka esetén a befektető és az önkormányzat közötti, a kötvény lejegyzéséről vagy megvásárlásáról szóló megállapodás tervezetét,
 - d) kezesség-, illetve garanciavállalás esetén a kezesi szerződés, illetve a garanciaszerződés és a kezességgel, illetve garanciával biztosított ügyletről szóló szerződés tervezetét és az adósnak az ügylet futamidejének végéig tartó időszakra vonatkozó pénzügyi információit,
 - e) egyéb adósságot keletkeztető ügylet esetén az ügyletet alátámasztó dokumentumokat
@@ -177,7 +197,7 @@ mellékeli.
 10/D. § (1) A megkötött adósságot keletkeztető ügyletekre, a kezesség-, illetve garanciavállalásra vonatkozó szerződésmódosításokhoz, valamint az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező, illetve annál kisebb összegű meglévő adósság visszafizetése, akkor kell a Kormány engedélyét kérni, ha
 
 - a) a szerződésmódosítást vagy adósságmegújítást követően előálló kondíciók mellett az ügylet a szerződésmódosítás vagy adósságmegújítás időpontjában engedélykötelesnek minősül, és
-- b) a módosított vagy az új szerződés az eredetihez képest hosszabb futamidejű, megváltozik az adósságot keletkeztető ügylet célja, az önkormányzatot terhelő fizetési kötelezettség az új futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, a módosított szerződés az eredetihez képest nagyobb ügyletértékű vagy a kezesség, illetve garancia összege nő.
+- b) a módosított vagy az új szerződés az eredetihez képest hosszabb futamidejű, megváltozik az adósságot keletkeztető ügylet célja, az önkormányzatot terhelő fizetési kötelezettség a futamidő lejártáig valamely évben meghaladja az eredeti szerződés szerinti értéket, a módosított szerződés az eredetihez képest nagyobb ügyletértékű vagy a kezesség, illetve garancia összege nő.
 
 (2) A szerződésmódosításra vonatkozó, az (1) bekezdés szerinti ügyletekre a 10/B. § (3) bekezdése szerinti ügyletekre vonatkozó szabályokat kell alkalmazni.
 
@@ -192,6 +212,8 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 - a) fejlesztési célú ügylet esetében – különösen a megvalósított fejlesztésből származó bevételek révén – biztosított,
 - b) működési célú ügylet esetében a gazdasági társaságot tulajdonoló önkormányzat támogatása nélkül biztosított.
+
+(3) A Kormány eltekinthet a (2) bekezdésben foglaltak alkalmazásától, amennyiben a szerződés-módosítás vagy az adósságmegújítás során keletkező ügylet az eredetivel megegyező, vagy kedvezőbb kondíciót tartalmaz az ügyletet keletkeztető, kormányzati szektorba sorolt egyéb szervezetnek nem minősülő, 100%-os önkormányzati tulajdonban álló gazdasági társaság vagy az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság számára.
 
 ### III. Fejezet — AZ ÁLLAMADÓSSÁG KEZELŐ KÖZPONT
 
@@ -350,7 +372,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 23. § (1) A Tanács
 
-- a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről,
+- a) az Alaptörvény 44. cikk (2) bekezdésében foglaltakkal összhangban véleményt nyilvánít a központi költségvetésről szóló törvény tervezetéről, ennek keretében külön is vizsgálja a költségvetési hiány mértékét, valamint a 3/A. § (2) bekezdésének való megfelelést,
 - b) dönt az Alaptörvény 44. cikk (3) bekezdése szerinti előzetes hozzájárulásról,
 - c) félévente véleményt nyilvánít a központi költségvetésről szóló törvény végrehajtásának helyzetéről és az államadósság várható alakulásáról,
 - d) véleményt nyilváníthat a központi költségvetésről szóló törvényjavaslatban foglaltak megalapozásához szükséges törvénymódosításokat tartalmazó törvényjavaslatokról, ideértve a 28. § szerinti fizetési kötelezettségre vonatkozó törvényjavaslatot is,
@@ -370,7 +392,7 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (3) A Kormány a tervezetet a Tanács észrevételének kézhezvételét vagy a (2) bekezdésben meghatározott határidő eredménytelen elteltét követően nyújthatja be az Országgyűlésnek.
 
-(4) Ha a Tanács a (2) bekezdésben meghatározott határidőig a tervezettel kapcsolatos egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és azt követően nyújtja be az Országgyűlésnek.
+(4) Ha a Tanács a (2) bekezdésben meghatározott határidőig a tervezettel kapcsolatos egyet nem értését jelezte, a Kormány a tervezetet ismételten megtárgyalja, és azt követően nyújtja be az Országgyűlésnek. A Kormány a benyújtással egyidejűleg, a törvényjavaslat indokolásában tájékoztatja az Országgyűlést arról, hogy a Tanács észrevételei alapján milyen módosításokat hajtott végre a törvénytervezetben, illetve indokolja a Tanács észrevételeinek esetleges elutasítását. Ha a Tanács véleményében azt állapította meg, hogy a törvénytervezet szerinti kormányzati szektor egyenlege nem felel meg a 3/A. § (2) bekezdése szerinti követelményeknek, akkor a Kormány a törvényjavaslat indokolásában köteles értékelni a 3/A. § (2) bekezdése szerinti követelmények teljesítését.
 
 (5) Az Országgyűlésnek benyújtott központi költségvetésről szóló törvényjavaslatra a Tanács észrevételt tehet.
 
@@ -632,6 +654,7 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 - c) az egyedi állami kezességvállalás, garanciavállalás mellett nyújtott hitelek és kibocsátott kötvények feltételei ÁKK Zrt. általi véleményezésének szempontjait, valamint az ÁKK Zrt. e feladatáért járó díj megállapításának feltételeit,
 - d) a 10/E. § (1) bekezdése szerinti gazdasági társaság adósságot keletkeztető ügyletéhez történő kormányzati hozzájárulás, valamint az erről benyújtandó önkormányzati kérelem részletszabályait,
 - e) a 3/A. § szerinti feladatok végrehajtásának, valamint a makrogazdasági és költségvetési előrejelzések részletes szabályait és azok közzétételének módját.
+- f) a kormányzati szektorba sorolt pénzügyi intézmény részére megállapított keretszám betartásának alakulásáról szóló adatszolgáltatás részletes szabályait.
 
 (2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a jogalanyok szélesebb körét érintő rendkívüli esemény, elemi csapás esetén indokolt esetben – rendeletben a fizetési kötelezettség megállapítására és teljesítésére vonatkozó kötelezettség mellőzését és az ehhez kapcsolódó eljárási szabályokat meghatározhassa.
 
@@ -657,7 +680,9 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 47. § A közteherviselést és az állami szervek feladatellátását érintő egyes törvények módosításáról szóló 2016. évi CLXXI. törvény kihirdetését követő 30. napig megnyitott Stabilitás Megtakarítási Számlán teljesített befizetéssel összefüggő adókötelezettségekre a 8/C. alcímnek a közteherviselést és az állami szervek feladatellátását érintő egyes törvények módosításáról szóló 2016. évi CLXXI. törvény kihirdetését követő 30. napot megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
-#### 48. §
+48. § (1) 2018. december 31-ig a 9. §-ban meghatározottaktól eltérően a kormányzati szektorba sorolt pénzügyi intézmény háromszázhatvanöt napon túli futamidejű adósságot keletkeztető ügyletet érvényesen az államháztartásért felelős miniszter előzetes hozzájárulásával köthet. A döntés során a miniszter mérlegeli az államadósság-mutató alakulását, a pénzügyi intézmény működőképességéhez szükséges és az intézmény fennálló kötelezettségeiből eredő forrásigény mértékét és ütemezését.
+
+(2) A 9. § (4) bekezdése alapján a 2019. évre meghatározandó értéket a Kormány legkésőbb 2018. október 31-ig hagyja jóvá.
 
 #### 49. §
 

@@ -776,7 +776,7 @@ foglaltakat kell alkalmazni.
 
 (5) A tulajdonos köteles a (4) bekezdés szerinti feladatok elvégzésére vonatkozó – a tájrendezés végrehajtásának ütemezését is magában foglaló – tájrendezési tervet készíteni, és a bányafelügyelethez jóváhagyásra benyújtani.
 
-(5a) A tulajdonosnak a tájrendezést úgy kell ütemezni, hogy 2019. évtől kezdődően, minden évben a használaton kívüli bányászati célú mélyfúrások tájrendezési kötelezettségének legalább 1/13 részét teljesíteni kell. A tulajdonos köteles a tulajdonában lévő összes használaton kívüli bányászati célú mélyfúrás tájrendezését 2031. december 31-ig befejezni.
+(5a) A tulajdonosnak a tájrendezést úgy kell ütemezni, hogy 2020. évtől kezdődően, minden évben a használaton kívüli bányászati célú mélyfúrások tájrendezési kötelezettségének legalább 1/13 részét teljesíteni kell. A tulajdonos köteles a tulajdonában lévő összes használaton kívüli bányászati célú mélyfúrás tájrendezését 2032. december 31-ig befejezni.
 
 (6) Nem kell elvégezni azoknak a bányászati célú mélyfúrásoknak a tájrendezését, amelyek nem bányászati célú hasznosításra kerülnek. A bányafelügyelet dönt arról, hogy a használaton kívüli bányászati célú mélyfúrás bányászati célra már nem alkalmas. A bányafelügyelet döntése nem jogosít a nem bányászati célú hasznosítás megkezdésére, ahhoz meg kell szerezni a hatáskörrel rendelkező hatóság engedélyét.
 
@@ -1606,13 +1606,10 @@ bányahatósági felügyelete
 - 43. „Bányászati hulladék”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék, a nem közvetlenül ezen tevékenységekből származó hulladékok kivételével.
 - 44. „Gázüzemi tevékenység”: a földgázszállító-, elosztó vezeték és föld alatti földgáztároló tervezése, építése, üzembe helyezése, üzemeltetése ennek során ellenőrzése, karbantartása, üzemzavar elhárítása, javítása, valamint felhagyása és elbontása, és ezek engedélyes általi felügyelete.
 - 45. „energetikai és ipari eredetű szén-dioxid föld alatti tárolóhely”: egy földtani szerkezetnek az energetikai és ipari eredetű szén-dioxid föld alatti tárolására használt, meghatározott kiterjedésű térrésze, az ehhez kapcsolódó felszíni és besajtoló berendezésekkel együtt.
-- 46. Biztosítással járó jogviszony:
-  - a) a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszony,
-  - b) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá tartozó személy esetén EGT-államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony,
-  - c) a szociálpolitikai (szociális biztonsági) egyezmény hatálya alá tartozó személy esetén – ha az egyezmény eltérően nem rendelkezik – a szerződő államban fennálló, a Tbj. 5. § (1) bekezdés a), b) és e)–g) pontja szerinti biztosítással járó jogviszonynak megfelelő jogviszony.
+- 46.
 - 46.
 - 47. „Bányászati hulladékkezelés”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék – kivéve a nem közvetlenül e tevékenységekből származó hulladék – hulladékkezelő létesítményben történő gyűjtése és tárolása, valamint a hulladék keletkezési helyétől a hulladékkezelő létesítményig történő szállítása.
-- 48. „EGT-állam”: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Unió és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
+- 48.
 - 49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül, a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a negyedét eléri.
 - 50. Használaton kívüli bányászati célú mélyfúrás, kút: a meddő szénhidrogén kutatófúrás, kút, illetve a termelésből kivont, a mező termeltetéséhez már nem szükséges vagy műszakilag alkalmatlanná vált szénhidrogénkút.
 - 51. Meddő szénhidrogén kutatófúrás, kút: olyan kutatófúrás (kút), amely szénhidrogén-indikációt nem eredményezett vagy olyan mértékben eredményezett, amely alapján a szénhidrogén nem termelhető ki gazdaságosan.
@@ -1635,8 +1632,8 @@ bányahatósági felügyelete
 - a) Magyarországon bányavállalkozónál föld alatti munkakörben
   - aa) legalább huszonöt év, a társadalombiztosítási nyugellátásról szóló törvény szerint figyelembe vehető szolgálati időt szerzett, vagy
   - ab) legalább 5000 – a társadalombiztosítási nyugellátásról szóló törvény szerint szolgálati időként figyelembe vehető – műszakot töltött el azzal, hogy a mecseki ércbányászatban elért műszakszámnak az 1,67-szeresét, a mecseki szénbányászatban elért műszakszámnak pedig az 1,25-szörösét kell a műszakszám meghatározása során figyelembe venni,
-- b) az öregségi nyugdíjkorhatárt nem töltötte be,
-- c) azon a napon, amelytől kezdődően az átmeneti bányászjáradékot megállapítják, biztosítással járó jogviszonyban nem áll, és
+- b) az öregségi nyugdíjkorhatárt nem töltötte be, és
+- c)
 - d) azon a napon, amelytől kezdődően az átmeneti bányászjáradékot megállapítják, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontja szerinti rendszeres pénzellátásban – az özvegyi nyugdíj, a baleseti hozzátartozói nyugellátások, a hadigondozottak és nemzeti gondozottak pénzbeli ellátásai, a nemzeti helytállásért elnevezésű pótlék, valamint az uniós rendeletek alapján külföldi szerv által folyósított, ezekkel azonos típusú ellátások kivételével – nem részesül.
 
 (2) 2012. január 1-jétől – a 2012. januári nyugdíjemelés mértékével növelt összegben – átmeneti bányászjáradékként kell továbbfolyósítani annak az 1950. évben vagy azt követően született, bányásznyugdíjban részesülő, a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 3. § (2) bekezdés c) pontjának hatálya alá nem tartozó személynek a bányásznyugdíját, aki 2011. december 31-én rendelkezik az (1) bekezdésben meghatározott szolgálati idővel vagy műszakszámmal, az átmeneti bányászjáradék szüneteltetésére vonatkozó szabályok figyelembevételével.

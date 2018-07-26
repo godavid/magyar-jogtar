@@ -227,7 +227,7 @@ az állami adóhatóságtól – a 9. § (1), (4) és (5) bekezdése szerinti el
 - j) az állami fenntartású szakképző iskolák működési költségéhez való hozzájárulásra biztosítható keretösszeget,
 - k) a szakképzésről szóló törvény 24/A. § (6) bekezdése alapján a Szakképzési Hídprogramban részt vevő tanuló részére ösztöndíj formájában nyújtott támogatás, a pedagóguspótlék és az ezekkel összefüggésben felmerülő költségek biztosítására szolgáló keretösszeget.
 
-13. § (1) Az alaprész feletti rendelkezési jogot a szakképzésért és felnőttképzésért felelős miniszter gyakorolja.
+13. § (1) Az alaprész feletti rendelkezési jogot a foglalkoztatás elősegítéséről és a munkanélküliek ellátásról szóló 1991. évi IV. törvény 39/A. § (1) bekezdése határozza meg.
 
 (2) A 12. § szerinti keretösszegek mértékét a szakképzésért és felnőttképzésért felelős miniszter határozza meg.
 
@@ -317,7 +317,7 @@ használható fel.
 
 (4)–(6)
 
-20. § (1) Az alaprészből nyújtott támogatások részletes feltételeiről – ha jogszabály másként nem rendelkezik – szerződésben kell megállapodni. A szerződést – a (2) bekezdésben meghatározott kivétellel, az alaprész kezelésére vonatkozó eljárásrendben meghatározottak szerint – az állami szakképzési és felnőttképzési szerv köti meg.
+20. § (1) Az alaprészből nyújtott támogatások részletes feltételeiről támogatási szerződésben – az állami szakképzési és felnőttképzési szerv részére nyújtott támogatások esetében támogatói okiratban – kell rendelkezni. A szerződést az alaprész kezelésére vonatkozó eljárásrendben meghatározottak szerint az állami szakképzési és felnőttképzési szerv köti meg.
 
 (2) A szakképzésért és felnőttképzésért felelős miniszter felügyelete, irányítása alá tartozó költségvetési szerveknek nyújtott támogatásra vonatkozóan – a szakképzésért és felnőttképzésért felelős miniszter döntése alapján – a szakképzésért és felnőttképzésért felelős miniszter által vezetett minisztérium vagy az állami szakképzési és felnőttképzési szerv köti meg a szerződést.
 

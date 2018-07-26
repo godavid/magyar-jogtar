@@ -555,7 +555,8 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 - g) a késedelmes teljesítéshez kapcsolódó kamat;
 - h) az olyan személynek juttatott bevétel, akire a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény 11. §-a, 11/B. §-a, és 13. §-a szerint a biztosítási kötelezettség nem terjed ki,
 - i) az ingatlan bérbeadásából származó jövedelem;
-- j) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 11. §-a, 11/A. §-a, 11/B. §-a vagy 13. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától.
+- j) az a jövedelem, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 11. §-a, 11/A. §-a, 11/B. §-a vagy 13. §-a alapján nem áll fenn biztosítási jogviszony, függetlenül a kifizetés (juttatás) időpontjától;
+- k) a jövedelmet pótló kártérítés, keresetpótló járadék, ide nem értve a munkavégzés ellenértékeként (különösen elmaradt munkabér, végkielégítés címén) kapott, juttatott adóalapot képező jövedelmet.
 
 ### A kifizetőnek nem minősülő személy által fizetendő adó alapja
 
@@ -618,7 +619,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 
 ### Az adó mértéke és fizetendő összege
 
-459. § (1) Az adó mértéke 19,5 százalék. A fizetendő adó az adóalap után számított adó (számított adó), csökkentve az adó fizetésére kötelezettet törvény rendelkezése alapján megillető adókedvezmények összegével.
+459. § (1) Az adó mértéke 19,5 százalék. A fizetendő adó az adóalap után a kifizetéskor érvényes adómértékkel számított adó (számított adó), csökkentve az adó fizetésére kötelezettet törvény rendelkezése alapján megillető adókedvezmények összegével.
 
 (2) A fizetendő adó megállapításánál a számított adót – e törvény külön rendelkezése alapján akár a számított adót meghaladó mértékben – a következő adókedvezmények csökkentik:
 
@@ -665,7 +666,7 @@ Az Országgyűlés a pénzügyi stabilitás és a gazdasági növekedés feltét
 462/A. § (1) A szociális hozzájárulási adóból részkedvezmény illeti meg
 
 - a) az egyéni vállalkozót a saját maga után fizetendő adóból,
-- b) a közkereseti társaságot, a betéti társaságot, a korlátolt felelősségű társaságot, a közös vállalatot, az egyesülést, az európai gazdasági egyesülést, a szabadalmi ügyvivői irodát, a szabadalmi ügyvivői társaságot, az ügyvédi irodát, a közjegyzői irodát, a végrehajtói irodát, az egyéni céget a tagjával fennálló adófizetési kötelezettséget eredményező jogviszonyára tekintettel terhelő adóból, ha az egyéni vállalkozó, illetve a tag 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül, vagy ha az egyéni vállalkozó, illetve a tag rokkantsági ellátásban részesül és egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50 százalékos vagy kisebb mértékű.
+- b) a közkereseti társaságot, a betéti társaságot, a korlátolt felelősségű társaságot, a közös vállalatot, az egyesülést, az európai gazdasági egyesülést, a szabadalmi ügyvivői irodát, a szabadalmi ügyvivői társaságot, az ügyvédi irodát, a közjegyzői irodát, a végrehajtói irodát, az egyéni céget a tagjával fennálló adófizetési kötelezettséget eredményező jogviszonyára tekintettel terhelő adóból, ha az egyéni vállalkozó, illetve a tag 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül, vagy ha az egyéni vállalkozó, illetve a tag komplex minősítése alapján egészségi állapota 60 százalékos, vagy ennél kisebb mértékű.
 
 (2) A részkedvezmény egyenlő az adómegállapítási időszakra az egyéni vállalkozó által saját maga után megállapított, illetve a tag után a kifizető által megállapított adóalap, de legfeljebb a minimálbér kétszerese után a 459. § (1) bekezdés szerinti adómértékkel megállapított összeggel.
 
@@ -823,13 +824,13 @@ a részmunkaidő és a teljes munkaidő arányában csökkentett része után il
 
 ### Eljárási szabályok
 
-464. § (1) Az adót az adóalany az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint havonta megállapítja, és a tárgyhónapot követő hónap 12-éig bevallja és megfizeti. Az adó összegét természetes személy részére kiállított igazoláson nem tünteti fel. Amennyiben az adóalany természetes személy foglalkoztatására tekintettel kedvezményt vagy támogatást vesz igénybe, az Art. 31. § (2) bekezdése szerinti bevallási kötelezettségét úgy kell teljesítenie, hogy a bevallás adataiból a kedvezmény vagy támogatás jogcíme, alapja és a kedvezmény vagy támogatás összege személyenként megállapítható legyen.
+464. § (1) Az adót az adóalany az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint havonta megállapítja, és a tárgyhónapot követő hónap 12-éig bevallja és megfizeti. Az adó összegét természetes személy részére kiállított igazoláson nem tünteti fel. Amennyiben az adóalany természetes személy foglalkoztatására tekintettel kedvezményt vagy támogatást vesz igénybe, akkor az Art. rendelkezései szerinti bevallási kötelezettségét úgy kell teljesítenie, hogy a bevallás adataiból a kedvezmény vagy támogatás jogcíme, alapja és a kedvezmény vagy támogatás összege személyenként megállapítható legyen.
 
 (2) Az egyéni vállalkozó az adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg.
 
 (3) Az egyéni vállalkozó az egyszerűsített vállalkozói adó alapja figyelembevételével fizetett adót az Art. rendelkezései szerint havonta állapítja meg, és a tárgyhónapot követő hónap 12-éig vallja be és fizeti meg. Ettől eltérően a legalább heti 36 órás foglalkoztatással járó munkaviszonnyal rendelkező, vagy közép- vagy felsőfokú oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató eva adózó egyéni vállalkozó az adót negyedévente állapítja meg, és a tárgynegyedévet követő hónap 12-éig vallja be és fizeti meg.
 
-(4) A külföldi kifizető az adóval összefüggő adókötelezettséget az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) szerinti pénzügyi képviselő, valamint adózási ügyvivő képviselő útján, ennek hiányában közvetlenül személyesen teljesíti. A külföldi kifizető az adókötelezettségeit személyesen csak akkor teljesítheti, ha bejelentkezése alapján az állami adóhatóság adózóként nyilvántartásba vette.
+(4) A külföldi kifizető az adóval összefüggő adókötelezettséget az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) szerinti pénzügyi képviselő, valamint adózási ügyvivő útján, ennek hiányában közvetlenül személyesen teljesíti. A külföldi kifizető az adókötelezettségeit személyesen csak akkor teljesítheti, ha bejelentkezése alapján az állami adóhatóság adózóként nyilvántartásba vette.
 
 (5) Ha a külföldi kifizető az adókötelezettségek teljesítésére nem rendelkezik Art. szerinti képviselővel, és a (4) bekezdésben foglalt bejelentkezést is elmulasztja, az adóval összefüggő adókötelezettségek teljesítésére a vele adófizetési kötelezettséget eredményező jogviszonyban álló természetes személy kötelezett, és ő viseli az adókötelezettségek elmulasztása miatti jogkövetkezményeket (ide nem értve a mulasztási bírságot és az adóbírságot).
 
@@ -879,9 +880,11 @@ a részmunkaidő és a teljes munkaidő arányában csökkentett része után il
 
 tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvány érvényességi idején belül, az e) pont szerinti esetben a tanévet követő október 31-éig.
 
-464/E. § A 454. § (4) bekezdés d) pontjában foglaltaktól eltérően, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti kiküldetés meghosszabbításának bejelentése esetén a szociális hozzájárulási adófizetési kötelezettség a kiküldetés kezdetét követő második év végétől áll fenn.
+464/E. § A 455. § (4) bekezdés d) pontjában foglaltaktól eltérően, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény szerinti kiküldetés meghosszabbításának bejelentése esetén a szociális hozzájárulási adófizetési kötelezettség a kiküldetés kezdetét követő második év végétől áll fenn.
 
-464/E. § A 462/D. §-ban meghatározott kedvezmény esetében a kedvezményre jogosító feltételeknek a kedvezményezett foglalkoztatás kezdetének időpontjában kell fennállniuk. Amennyiben a 462/D. § (3) bekezdés szerinti kedvezmény igénybevételére való jogosultság már a 462/D. § (2) bekezdés szerinti kedvezmény érvényesítése során keletkezik, a 462/D. § (3) bekezdés szerinti kedvezmény teljes egészében érvényesíthető.
+464/F. § A 462/D. §-ban meghatározott kedvezmény esetében a kedvezményre jogosító feltételeknek a kedvezményezett foglalkoztatás kezdetének időpontjában kell fennállniuk. Amennyiben a 462/D. § (3) bekezdés szerinti kedvezmény igénybevételére való jogosultság már a 462/D. § (2) bekezdés szerinti kedvezmény érvényesítése során keletkezik, a 462/D. § (3) bekezdés szerinti kedvezmény teljes egészében érvényesíthető.
+
+464/G. § A külföldi pénznemben megszerzett jövedelem utáni adó megállapítására az Szja tv. külföldi pénznemről forintra történő átszámításra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 ### Más jogszabályok alkalmazása
 
