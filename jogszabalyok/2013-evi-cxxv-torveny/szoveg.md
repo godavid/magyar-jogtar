@@ -249,7 +249,7 @@ foglalt felhívásnak határidőn belül nem tesz eleget.
 
 #### 14. Záró rendelkezések
 
-20. § Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítsa meg az e törvényben meghatározott eljárásokért és az igazgatási jellegű szolgáltatás (konzultáció) igénybevételéért fizetendő igazgatási szolgáltatási díjak mértékére, kezelésére, felhasználására, nyilvántartására, visszafizetésére vonatkozó részletes szabályokat.
+20. § Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítsa meg az e törvényben meghatározott eljárásokért és az igazgatási jellegű szolgáltatás (konzultáció) igénybevételéért fizetendő igazgatási szolgáltatási díjak mértékére, kezelésére, felhasználására, nyilvántartására, visszafizetésére vonatkozó részletes szabályokat.
 
 21. § (1) Ez a törvény – a (2)–(4) bekezdésben meghatározott kivétellel – a kihirdetését követő 8. napon lép hatályba.
 

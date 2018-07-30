@@ -70,7 +70,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 5. § (1) A kiotói egységek kiadásának, átruházásának és törlésének nyilvántartása közhiteles és nyilvános forgalmi jegyzékben történik, amelynek kezelője a klímavédelemért felelős hatóság.
 
-(2) A kincstári vagyonba tartozó kiotói egységeket a forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot az államháztartásért felelős miniszter – a miniszterrel együttműködésben – gyakorolja.
+(2) A kincstári vagyonba tartozó kiotói egységeket a forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot az iparügyekért felelős miniszter gyakorolja.
 
 (3) A kiotói egységek átruházásához a forgalmi jegyzékben vezetett számlán történő nyilvántartásba vétel is szükséges.
 
@@ -90,7 +90,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 8. § (1) A Jegyzőkönyv alapján keletkező kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
 
-(2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. Az államháztartásért felelős miniszter a miniszterrel együttműködésben az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik az adott kötelezettségvállalási időszakra vonatkozóan kibocsátott a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
+(2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. Az iparügyekért felelős miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik az adott kötelezettségvállalási időszakra vonatkozóan kibocsátott a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
 
 (3) A kiotói egység csak az e törvény és külön jogszabály rendelkezéseinek megfelelően szerezhető meg, illetve ruházható át.
 
@@ -98,7 +98,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 9. § (1) A nemzeti vagyon részét képező kibocsátási jogosultságok értékesítési eljárása során az állami vagyonról szóló törvény (a továbbiakban: Vtv.), a nemzeti vagyonról szóló 2011. évi CXCVI. törvény, az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény, valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A nemzeti vagyon részét képező kibocsátási jogosultságok tekintetében a tulajdonosi jogokat és kötelezettségeket az államháztartásért felelős miniszter a miniszterrel együttműködésben gyakorolja, illetve teljesíti.
+(2) A nemzeti vagyon részét képező kibocsátási jogosultságok tekintetében a tulajdonosi jogokat és kötelezettségeket az iparügyekért felelős miniszter gyakorolja, illetve teljesíti.
 
 (3) A kiotói egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
@@ -108,25 +108,20 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (6) A kibocsátható mennyiséget, illetve a kibocsátható mennyiségi egységeknek a Jegyzőkönyvnek és az azt követő döntéseknek megfelelően megállapított számát, megállapításukat követően a miniszter közleményben teszi közzé.
 
-(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről és azok teljes mennyiségéről a forgalmi jegyzékbe való bejegyzésüket követő 21 napon belül az államháztartásért felelős miniszter tájékoztatja a minisztert és a kincstári vagyon kezeléséért felelős szervet.
+(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről és azok teljes mennyiségéről a forgalmi jegyzékbe való bejegyzésüket követő 21 napon belül az iparügyekért felelős miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
 
-(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről és törléséről az államháztartásért felelős miniszter évente tájékoztatja a minisztert és a kincstári vagyon kezeléséért felelős szervet.
+(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről és törléséről az iparügyekért felelős miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
 
 10. § (1) A kibocsátási jogosultságok a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
 
 - a) Magyarországnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
 - b) Magyarország mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
 
-(2) A nemzetközi és európai kibocsátás-kereskedelem keretében az államháztartásért felelős miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
+(2) A nemzetközi és európai kibocsátás-kereskedelem keretében az iparügyekért felelős miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
 (3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
-(4) A (3) bekezdés szerinti kiotói egységek átruházásából 2015. január 1-jét követően keletkezett bevétel
-
-- a) 50%-ának felhasználásáról a miniszter a Zöld Beruházási Rendszer keretében,
-- b) 50%-ának felhasználásáról az államháztartásért felelős miniszter a Gazdasági Zöldítési Rendszer keretében
-
-az Éghajlatváltozási Stratégiával összhangban gondoskodik.
+(4) A (3) bekezdés szerinti kiotói egységek átruházásából keletkezett bevételek felhasználásáról a miniszter a Zöld Beruházási Rendszer keretében az Éghajlatváltozási Stratégiával összhangban gondoskodik.
 
 (4a)
 
@@ -184,7 +179,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 - d) HR-III és MR-III kategória, gyártó, ártalmatlanító, regeneráló esetén 16 000 forint, valamint
 - e) tulajdonos és üzemeltető esetében hűtőkörönként 30 Ft/F-ÜHG tCO2 egyenérték, de legalább 2000 forint.
 
-(6) A felügyeleti díj megfizetésére kötelezettek a felügyeleti díjat két egyenlő részletben, utólag, minden év július 31. napjáig és január 31. napjáig kötelesek megfizetni. A január 1. és június 30., valamint július 1. és december 31. közötti időszakra vonatkozó felügyeleti díj összegéről az energiapolitikáért felelős miniszter felügyelete alatt álló klímavédelemért felelős hatóság az adatbázison keresztül, egyenlegértesítő megküldése útján, június 30. és december 31. napját követő 5 munkanapon belül tájékoztatja a felügyeleti díj megfizetésére kötelezetteket. A tevékenység tárgyév január 1. és június 30. napja vagy július 1. és december 31. napja között történő megkezdése esetén a felügyeleti díjat a tevékenység megkezdésétől időarányosan kell megfizetni. A (3) bekezdés szerinti kötelezettek az (5) bekezdés e) pontja szerinti felügyeleti díjat a hűtőkörben megtalálható F-ÜHG töltet tCO2 egyenértéke után az üzemeltetés időszakára vonatkozóan időarányosan fizetik meg.
+(6) A felügyeleti díj megfizetésére kötelezettek a felügyeleti díjat két egyenlő részletben, utólag, minden év július 31. napjáig és január 31. napjáig kötelesek megfizetni. A január 1. és június 30., valamint július 1. és december 31. közötti időszakra vonatkozó felügyeleti díj összegéről a miniszter felügyelete alatt álló klímavédelemért felelős hatóság az adatbázison keresztül, egyenlegértesítő megküldése útján, június 30. és december 31. napját követő 5 munkanapon belül tájékoztatja a felügyeleti díj megfizetésére kötelezetteket. A tevékenység tárgyév január 1. és június 30. napja vagy július 1. és december 31. napja között történő megkezdése esetén a felügyeleti díjat a tevékenység megkezdésétől időarányosan kell megfizetni. A (3) bekezdés szerinti kötelezettek az (5) bekezdés e) pontja szerinti felügyeleti díjat a hűtőkörben megtalálható F-ÜHG töltet tCO2 egyenértéke után az üzemeltetés időszakára vonatkozóan időarányosan fizetik meg.
 
 (7) A klímavédelemért felelős hatóság a (2) és (3) bekezdés szerinti díjakat az adatbázis üzemeltetésére és fejlesztésére, valamint a működésére fordítja.
 
@@ -315,7 +310,7 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (5a) A klímavédelemért felelős hatóság hivatalból törli azokat az F-Gáz azonosítóhoz tartozó adatokat, amelyek a cégnyilvántartás – egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartása – szerint jogutód nélkül megszűnt vállalkozáshoz vagy a személy- és lakcímnyilvántartást vezető hatóság nyilvántartása szerint elhunyt személyhez tartoztak.
 
-(6) Az energiapolitikáért felelős miniszter felügyelete alatt álló klímavédelemért felelős hatóság döntése ellen fellebbezésnek helye nincs.
+(6) A miniszter felügyelete alatt álló klímavédelemért felelős hatóság döntése ellen fellebbezésnek helye nincs.
 
 10/H. § (1) Aki tevékenységével vagy mulasztásával a fluortartalmú üvegházhatású gázokkal kapcsolatos jogszabály, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy a klímavédelemért felelős hatóság határozatában foglalt előírásait megsérti, az azokban foglalt kötelezettségeit nem vagy nem megfelelően teljesíti, vagy a tevékenységet nyilvántartásba vétel nélkül vagy attól eltérően végzi, azt a klímavédelemért felelős hatóság klímavédelmi bírság megfizetésére kötelezi.
 
@@ -404,9 +399,9 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (4) Magyarország nemzetközi klímafinanszírozási vállalásának forrását az üvegházhatású gázok európai kibocsátási egységeinek értékesítéséből származó bevételekből kell biztosítani.
 
-(5) A Montreali Jegyzőkönyvvel kapcsolatos nemzetközi és hazai feladatok ellátásáról a miniszter gondoskodik, együttműködésben a környezetvédelemért felelős miniszterrel.
+(5) A Montreali Jegyzőkönyvvel és a sztratoszferikus ózonréteg védelméről szóló, Bécsben 1985. március 22. napján aláírt egyezmény kihirdetéséről szóló 31/1990. (II. 16.) MT rendelettel kapcsolatos nemzetközi és hazai feladatok ellátásáról a miniszter gondoskodik, együttműködésben a környezetvédelemért felelős miniszterrel.
 
-(6) A fluortartalmú üvegházhatású gázokkal kapcsolatos nemzetközi és hazai feladatok ellátásáról a miniszter gondoskodik.
+(6) A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos nemzetközi és hazai feladatok ellátásáról a miniszter gondoskodik.
 
 ### Záró rendelkezések
 
