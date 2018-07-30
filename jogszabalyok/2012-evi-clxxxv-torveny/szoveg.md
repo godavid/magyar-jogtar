@@ -476,13 +476,15 @@ kötheti.
 - b) közszolgáltatási területek szerinti lehatárolására, és
 - c) szabályozására.
 
+(3a) A Koordináló szerv az állami hulladékgazdálkodási, jogszabályban meghatározott feladatainak ellátása érdekében jogosult az Országos Környezetvédelmi Információs Rendszer (a továbbiakban: OKIR) a 78. § (4) bekezdése szerinti hulladékgazdálkodással kapcsolatos önálló részének adataihoz való közvetlen hozzáférésre és azok kezelésére.
+
 (4) A közszolgáltató, a települési önkormányzat, az önkormányzati társulás, a hulladékgazdálkodási létesítmény tulajdonosa, a közszolgáltató részére támogatást nyújtó szerv, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti, és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
 
 (5) A (4) bekezdésben meghatározott adatok közül a személyes adatokat a Koordináló szerv – és az ügyfélszolgálati, elszámolási, számlázási és kintlevőség-kezelési feladatai ellátásában igénybevett gazdálkodó szervezet, – az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti, nyilvántarthatja. A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlevőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére is kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás szerveitől. Az átvett személyes adatokat a Koordináló szerv és az ügyfélszolgálati, elszámolási, számlázási és kintlevőség-kezelési feladatai ellátásában igénybevett gazdálkodó szervezet az érintettnek a közszolgáltatás igénybevételére vonatkozó kötelezettsége megszűnéséig, a közszolgáltatással összefüggő díjhátralék esetén annak kifizetéséig (behajtásáig) vagy törléséig kezelheti.
 
 (5a) A közszolgáltató a 38. § (3) bekezdésében meghatározott adatokat az általa ellátandó hulladékgazdálkodási közszolgáltatás ellátása, illetve jogszabályban foglalt kötelezettségei teljesítése érdekében kezelheti és tarthatja nyilván. A közszolgáltató a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az e bekezdésben meghatározott célból történt, vagy az adatkezelés célja megszűnt.
 
-(6) A Koordináló szervvel kapcsolatos állami irányítási és tulajdonosi feladatokat a miniszter látja el.
+(6)
 
 (7) A Koordináló szerv kijelöléséről, részletes feladatairól, valamint a (4) bekezdésben meghatározott adatszolgáltatás – személyes adatokat nem tartalmazó – tartalmáról és rendjéről e törvény felhatalmazása alapján kiadott kormányrendelet rendelkezik. A közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa az e törvény végrehajtására kiadott rendeletben foglaltak szerint a Koordináló szerv által megjelölt tartalommal, formában és határidőn belül eleget tesz adatszolgáltatási kötelezettségének. Ha a közszolgáltató a szolgáltatási díj meghatározásához szükséges adatszolgáltatási kötelezettséget nem vagy nem megfelelően teljesíti, a Koordináló szerv a szolgáltatási díjat a megfelelő adatszolgáltatásig nem fizeti ki.
 
@@ -904,7 +906,7 @@ tarthatja nyilván.
 
 (5) A hatóság vagy a hulladék előző birtokosának kérésére a kezelést igazoló dokumentumokat be kell mutatni.
 
-67. § A hulladékgazdálkodással kapcsolatos egységes információs rendszert az Országos Környezetvédelmi Információs Rendszer önálló részeként a környezetvédelemért felelős miniszter alakítja ki és működteti.
+#### 67. §
 
 #### 29. Hulladéklerakási járulék
 
@@ -1029,7 +1031,7 @@ részére adhatók át.
 
 (2) Az OHT és az OMP kidolgozásakor a környezetvédelmi igazgatási szerv, a környezetvédelmi hatóság, valamint a helyi önkormányzatok – szükség esetén – együttműködnek az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
 
-(3) Az OHT-t és az OMP-t a környezetvédelemért felelős miniszter terjeszti a Kormány elé.
+(3) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter terjeszti a Kormány elé.
 
 (4) Az OHT és az OMP elfogadásáról a Kormány határozatban dönt.
 
@@ -1045,7 +1047,7 @@ részére adhatók át.
 
 (3) Az OHT és az OMP kidolgozását, egyeztetését, elfogadását a hulladékgazdálkodási tervre és a megelőzési programra vonatkozó részletes szabályokról szóló kormányrendelet szerint kell elvégezni.
 
-(4) A környezetvédelmi igazgatási szerv az OHT-t és az OMP-t a tervezési időszak negyedik évében felülvizsgálja, a felülvizsgálat eredményéről beszámolót készít, és azt a környezetvédelemért felelős miniszter elé terjeszti.
+(4) A környezetvédelmi igazgatási szerv az OHT-t és az OMP-t a tervezési időszak negyedik évében felülvizsgálja, a felülvizsgálat eredményéről beszámolót készít, és azt a hulladékgazdálkodásért felelős miniszter elé terjeszti.
 
 (5) A beszámolóban a környezetvédelmi igazgatási szerv bemutatja a képződő hulladék mennyiségére, a hulladékgazdálkodás helyzetére, a hulladékkezelő létesítmények állapotára, a kezelési kapacitásokra, a kezelés végzésére és az ezek környezeti hatásaira vonatkozó információkat, valamint ezek alapján ismerteti a tervezett intézkedések előrehaladását, az OHT és az OMP esetleges módosításának szükségességét.
 
@@ -1086,7 +1088,7 @@ részére adhatók át.
   - cc) a termékek hulladékká válásának késleltetése, veszélyesanyag-tartalmuk csökkentése – különös tekintettel a tartós, újrahasználható és újrafeldolgozható termékekre, valamint az ezek előállítását szolgáló technológiákra –, valamint
 - d) a meglévő és tervezett megelőzési intézkedések eredményeit és hatékonyságát, a hulladékképződés, valamint a veszélyes anyagok hulladékban való jelenlétének alakulását a jelentősebb hulladékáramok és a meghatározó gazdasági ágazatok vonatkozásában.
 
-77. § (1) Az OHT-t és az OMP-t a környezetvédelemért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi, és elérhetőségét folyamatosan biztosítja.
+77. § (1) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi, és elérhetőségét folyamatosan biztosítja.
 
 (2) A Kormány az OHT és az OMP végrehajtásának feltételeit biztosítja.
 
@@ -1094,7 +1096,21 @@ részére adhatók át.
 
 #### 34.
 
-#### 78. §
+### IX/A. Fejezet — A HULLADÉKGAZDÁLKODÁSI ÁGAZAT ÁLLAMI IRÁNYÍTÁSA
+
+78. § (1) A hulladékgazdálkodásért felelős miniszter
+
+- a) irányítja
+  - aa) a törvényben vagy kormányrendeletben feladatkörébe utalt hulladékgazdálkodási tevékenységeket,
+  - ab) a nemzetközi szerződésekből adódó hulladékgazdálkodási feladatok végrehajtását,
+  - ac) a feladat- és hatáskörébe tartozó hulladékgazdálkodási igazgatást;
+- b) közreműködik a hulladékgazdálkodási szakképesítési rendszer kialakításában és működtetésében.
+
+(2) A hulladékgazdálkodás környezet állapotára gyakorolt hatásának megismerésére és a hulladékgazdálkodás fejlesztésére irányuló kutatások összehangolása, támogatása, értékelése és állami hulladékgazdálkodással összefüggő kutatási célok teljesítésének biztosítása – a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével együttműködésben – a hulladékgazdálkodásért felelős miniszter feladata.
+
+(3) A hulladékgazdálkodási ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása az oktatásért felelős miniszter, valamint a hulladékgazdálkodásért felelős miniszter közös feladata, a hulladékgazdálkodási szakterületet érintő szakképzés tekintetében a hulladékgazdálkodásért felelős miniszter gyakorolja a szakképesítésért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányba tartozó felsőoktatási intézmények oktató munkáját.
+
+(4) A hulladékgazdálkodással kapcsolatos egységes információs rendszert az OKIR önálló részeként a környezetvédelemért felelős miniszter alakítja ki és működteti azzal, hogy annak szakmai tartalma tekintetében a hulladékgazdálkodásért felelős miniszter egyetértése szükséges.
 
 ### X. Fejezet — A HULLADÉKGAZDÁLKODÁSSAL KAPCSOLATOS EGYES HATÓSÁGI TEVÉKENYSÉGEK
 
@@ -1263,9 +1279,9 @@ jogsértés esetén nem mérsékelhető.
 
 #### 37. Jelentéstétel az Európai Bizottság felé
 
-87. § (1) A hulladéklerakókról szóló, 1999. április 26-i 1999/31/EK tanácsi irányelv 15. cikke szerinti jelentési kötelezettséget a környezetvédelemért felelős miniszter teljesíti.
+87. § (1) A hulladéklerakókról szóló, 1999. április 26-i 1999/31/EK tanácsi irányelv 15. cikke szerinti jelentési kötelezettséget a hulladékgazdálkodásért felelős miniszter teljesíti.
 
-(2) A környezetvédelemért felelős miniszter tájékoztatja az Európai Bizottságot a 2008/98/EK európai parlamenti és tanácsi irányelv
+(2) A hulladékgazdálkodásért felelős miniszter tájékoztatja az Európai Bizottságot a 2008/98/EK európai parlamenti és tanácsi irányelv
 
 - a) 6. cikk (4) bekezdése alapján a 10. § (2) bekezdése szerinti miniszteri rendeletről az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló kormányrendelettel összhangban;
 - b) 7. cikk (2) és (3) bekezdésének megfelelően az 55. § (2) bekezdésében foglalt eset megvalósulásáról, és az Európai Bizottság rendelkezésére bocsát minden vonatkozó információt, bizonyítékot;
@@ -1309,7 +1325,7 @@ jogsértés esetén nem mérsékelhető.
 - 26. a közterület tisztántartásával kapcsolatos hulladékgazdálkodási szabályokat;
 - 27. a melléktermék státusznak való megfelelés igazolására, valamint a melléktermék tárolására és nyilvántartására vonatkozó részletes szabályokat;
 - 28. a biológiailag lebomló hulladék képződésének megelőzésére vonatkozó tevékenységek, valamint a biológiailag lebomló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait, valamint a biohulladékból előállított komposzt osztályozásának szabályait;
-- 29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
+- 29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, műszaki és felhasználási feltételeket, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;
 - 30. a hulladéklerakási járulékból befolyt összeg felhasználásának céljait és szabályait;
 - 31. az elkülönített hulladékgyűjtésre vonatkozó részletes szabályokat;
 - 32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
@@ -1318,10 +1334,10 @@ jogsértés esetén nem mérsékelhető.
 - 35. a Koordináló szerv adatkezelésének részletes szabályait, továbbá a közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa adatszolgáltatási kötelezettségének részletes szabályait.
 - 36. a kitermelt talaj és más, építési tevékenység során kitermelt természetes állapotában meglévő anyag kitermelés helyén kívüli felhasználásának részletes szabályait.
 
-(2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg:
+(2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg:
 
 - 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
-- 2. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes műszaki feltételeket;
+- 2.
 - 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait;
 - 4. a hulladék termikus kezelésének technikai követelményeit és részletes szabályait;
 - 5. a hulladékolajjal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
@@ -1333,11 +1349,11 @@ jogsértés esetén nem mérsékelhető.
 
 (3) Felhatalmazást kap:
 
-- a) az egészségügyért felelős miniszter a környezetvédelemért felelős miniszterrel és a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszterrel egyetértésben, hogy
+- a) az egészségügyért felelős miniszter a hulladékgazdálkodásért felelős miniszterrel egyetértésben, hogy
   - aa) a humán gyógyszer hulladékká válását megelőző tevékenységek és a gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének szabályait, valamint a gyógyszergyártók biztosítékadására és tájékoztatási kötelezettségére vonatkozó részletes szabályokat,
   - ab) az egészségügyi intézményekben képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének részletes szabályait,
   - ac) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos közegészségügyi követelményeket;
-- b) a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter, hogy
+- b) miniszter, hogy
   - ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
   - bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
   - bc) a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
@@ -1346,7 +1362,8 @@ jogsértés esetén nem mérsékelhető.
   - bf) a Koordináló szerv részére történő adatszolgáltatás tartalmát és rendjét,
   - bg) a díjhátralék kezelésére vonatkozó részletszabályokat,
   - bh) a szolgáltatási díjat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét, a közszolgáltatási díj felosztásának elvét,
-  - bi) a vegyes települési hulladékból előállított éghető hulladék esetében a hulladékstátusz megszűnésének megállapítására vonatkozó részletes műszaki, és felhasználási feltételeket
+  - bi)
+- c) a hulladékgazdálkodásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.
 

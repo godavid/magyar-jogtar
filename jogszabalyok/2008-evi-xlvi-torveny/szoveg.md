@@ -1637,7 +1637,7 @@ vonatkozó előírásokat;
 - c) a kereskedelemért felelős miniszterrel egyetértésben az élelmiszerek forgalomba hozatalának szabályait;
 - d) a vendéglátásért, valamint a kereskedelemért felelős miniszterrel egyetértésben a vendéglátó-ipari termékek forgalomba hozatalának szabályait;
 - e) a fogyasztóvédelemért felelős miniszterrel egyetértésben a hagyományos különleges terméknek minősülő mezőgazdasági termékek és élelmiszerek elismerésének és ellenőrzésének rendjét;
-- f) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
+- f) a hulladékgazdálkodásért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
 - g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, biocid termékek, valamint termésnövelő anyagok légi kijuttatásának részletes szabályait;
 - h) a környezetvédelemért felelős miniszterrel egyetértésben az állati melléktermékből készített komposztok mezőgazdasági területen történő felhasználásának feltételeit;
 - i) az adópolitikáért felelős miniszterrel egyetértésben az e törvény hatálya alá tartozó eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét;

@@ -612,7 +612,7 @@ elsőként belföldi forgalomba hozott, saját célra felhasznált vagy készlet
 
 (6) Az ellenőrzés részletes szabályait e törvény és végrehajtására kiadott jogszabály és az állami hulladékgazdálkodást közvetítő szervezet, valamint az ellenőrzött közötti egyedi szerződés, illetve a szerződési feltételek tartalmazzák.
 
-(7) Az állami hulladékgazdálkodást közvetítő szervezet a környezetvédelmi termékdíjakkal kapcsolatos előírások érvényesítése érdekében vizsgálati (így különösen mérési, értékelési) módszereket, eljárásokat dolgoz ki. A kötelezően alkalmazandó módszereket, eljárásokat a környezetvédelemért felelős miniszter rendeletben kihirdeti.
+(7) Az állami hulladékgazdálkodást közvetítő szervezet a környezetvédelmi termékdíjakkal kapcsolatos előírások érvényesítése érdekében vizsgálati (így különösen mérési, értékelési) módszereket, eljárásokat dolgoz ki. A kötelezően alkalmazandó módszereket, eljárásokat a hulladékgazdálkodásért felelős miniszter rendeletben kihirdeti.
 
 21. § (1) Az OGyHT
 
@@ -621,9 +621,9 @@ elsőként belföldi forgalomba hozott, saját célra felhasznált vagy készlet
 - c)
 - d) az állami hulladékgazdálkodást közvetítő szervezet által tárgyév során a fenti célok elérését szolgáló prioritási sorrendet és az ezekhez rendelt eszközrendszert tartalmazza.
 
-(2) Az OGyHT tervezetét – a rendelkezésére álló saját és hatósági nyilvántartás adatai alapján, a külön jogszabályban meghatározottak szerint – az állami hulladékgazdálkodást közvetítő szervezet a tárgyévet megelőző év szeptember 20-ig készíti elő, és az állami hulladékgazdálkodást közvetítő szervezet javaslatára a környezetvédelemért felelős miniszter hagyja jóvá. Az OGyHT-t – a (3) bekezdésben foglalt eltéréssel – az állami hulladékgazdálkodást közvetítő szervezet javaslatára a környezetvédelemért felelős miniszter a tárgyévben módosíthatja.
+(2) Az OGyHT tervezetét – a rendelkezésére álló saját és hatósági nyilvántartás adatai alapján, a külön jogszabályban meghatározottak szerint – az állami hulladékgazdálkodást közvetítő szervezet a tárgyévet megelőző év szeptember 20-ig készíti elő, és az állami hulladékgazdálkodást közvetítő szervezet javaslatára a hulladékgazdálkodásért felelős miniszter hagyja jóvá. Az OGyHT-t – a (3) bekezdésben foglalt eltéréssel – az állami hulladékgazdálkodást közvetítő szervezet javaslatára a hulladékgazdálkodásért felelős miniszter a tárgyévben módosíthatja.
 
-(3) Az OGyHT-ben meghatározott célértéket a tárgyév október 31-ig az állami hulladékgazdálkodást közvetítő szervezet a környezetvédelemért felelős miniszter jóváhagyása nélkül az induló érték egyharmadával módosíthatja.
+(3) Az OGyHT-ben meghatározott célértéket a tárgyév október 31-ig az állami hulladékgazdálkodást közvetítő szervezet a hulladékgazdálkodásért felelős miniszter jóváhagyása nélkül az induló érték egyharmadával módosíthatja.
 
 (4) Az OGyHT-t, illetve az OGyHT módosítását a módosítások megjelölésével a kormányzati portálon közzé kell tenni.
 
@@ -631,7 +631,7 @@ elsőként belföldi forgalomba hozott, saját célra felhasznált vagy készlet
 
 (2)
 
-(3) Az állami hulladékgazdálkodást közvetítő szervezet a tárgyévre vonatkozó OGyHT-ben meghatározott feladatok végrehajtása érdekében szükséges közbeszerzési eljárásokat előkészíti, és a tárgyévet megelőző év november 15-ig a környezetvédelemért felelős miniszter részére jóváhagyás céljából megküldi.
+(3) Az állami hulladékgazdálkodást közvetítő szervezet a tárgyévre vonatkozó OGyHT-ben meghatározott feladatok végrehajtása érdekében szükséges közbeszerzési eljárásokat előkészíti, és a tárgyévet megelőző év november 15-ig a hulladékgazdálkodásért felelős miniszter részére jóváhagyás céljából megküldi.
 
 (4) Az állami hulladékgazdálkodást közvetítő szervezet – az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter állásfoglalásának kézhezvételét követően – a közbeszerzési eljárások eredményéről szóló írásbeli összegezést tárgyév március 31-ig küldi meg az ajánlattevőknek.
 
@@ -988,7 +988,7 @@ a termékdíjköteles terméket lefoglalja.
 
 (1a) Felhatalmazást kap a Kormány, hogy az állami hulladékgazdálkodást közvetítő szervezetet rendeletben jelölje ki.
 
-(2) Felhatalmazást kap a környezetvédelemért felelős miniszter, hogy rendeletben állapítsa meg
+(2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg
 
 - a) a hulladékkezelési teljesítmény megállapításának részletes szakmai feltételeit és elfogadásának rendjét,
 - b) a környezetvédelmi termékdíjakkal kapcsolatos előírások érvényesítése érdekében kötelezően alkalmazandó vizsgálati, mérési, értékelési módszereket, eljárásokat, továbbá az anyagmérleg készítésének és elfogadásának részletes szabályait rendeletben állapítsa meg,
