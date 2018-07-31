@@ -1185,7 +1185,9 @@ rendeletben szabályozza.
 
 (3) A 8. § (1) bekezdésben meghatározott jogok, amelyekkel e törvény hatálybalépésének időpontjában a 8. § rendelkezéseivel ellentétesen más személy rendelkezik, e törvény hatálybalépésével kártalanítás ellenében a törvény erejénél fogva az egyesületre szállnak vissza. A kártalanítás összegét a felek megállapodása hiányában az egyesület székhelye szerint illetékes bíróság állapítja meg a jogoknak azok visszaszállása időpontjában képviselt valós piaci értéke alapján.
 
-(4)–(5)
+(4) A (3) bekezdésből eredő kártalanítási igény – ha a Ptk. alapján egyéb okból még nem évült el – 2018. december 30. napján elévül. Az elévülést kizárólag a (3) bekezdés szerinti bírósági eljárást megindító kereset benyújtása szakítja meg, az elévülés egyéb okból való megszakításának vagy nyugvásának helye nincs.
+
+(5)
 
 (5a)–(5b)
 
