@@ -12,7 +12,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (2) Sporttevékenységnek minősül a meghatározott szabályok szerint, a szabadidő eltöltéseként kötetlenül vagy szervezett formában, illetve versenyszerűen végzett testedzés vagy szellemi sportágban kifejtett tevékenység, amely a fizikai erőnlét és a szellemi teljesítőképesség megtartását, fejlesztését szolgálja.
 
-(3) Versenyszerűen sportoló (a továbbiakban: versenyző) az a természetes személy, aki a sportszövetség által kiírt, szervezett vagy engedélyezett versenyeken, vagy versenyrendszerben vesz részt. A versenyző vagy amatőr, vagy hivatásos sportoló.
+(3) Versenyszerűen sportoló (a továbbiakban: versenyző) az a természetes személy, aki a sportszövetség által kiírt, szervezett vagy engedélyezett versenyeken, vagy versenyrendszerben vesz részt. A versenyző vagy amatőr vagy hivatásos sportoló.
 
 (4) Hivatásos sportoló az a versenyző, aki jövedelemszerzési céllal foglalkozásszerűen folytat sporttevékenységet. Minden más versenyző amatőr sportolónak minősül.
 
@@ -62,7 +62,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (2) A versenyző köteles alávetni magát a doppingtilalom betartásának ellenőrzésére irányuló vizsgálatnak (a továbbiakban: doppingvizsgálat). A doppingvizsgálat eredményeként megállapított pozitív vizsgálati eredményt vagy a doppingvétséget megalapozó egyéb magatartás tanúsítását, valamint a doppingeljárás eredményeként meghozott jogerős doppingbüntetést a versenyző nevének és sportágának megjelölésével a doppingeljárás befejezésétől számított 3 munkanapon belül a jogerős döntést meghozó doppingbizottság nyilvánosságra hozza.
 
-(3) A doppingtilalomra és a doppingvizsgálatra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+(3) A doppingtilalomra, valamint a doppingvizsgálatra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
 ### Az amatőr sportolókra vonatkozó rendelkezések
 
@@ -1081,6 +1081,8 @@ kezeli.
 
 (7) A Sport Állandó Választottbíróság eljárási szabályzatát maga állapítja meg. A szabályzat hatálybalépéséhez a MOB elnökének előzetes jóváhagyása szükséges.
 
+(8) A választottbíráskodásról szóló törvénytől eltérően sportszervezetek jogvitáiban a Sport Állandó Választottbíróságot és a svájci székhelyű Court of Arbitration for Sport választottbírósági intézményt kivéve állandó vagy eseti választottbíróság nem járhat el.
+
 48. §
 
 48/A. §
@@ -1121,7 +1123,7 @@ kezeli.
 - d) a sportpolitikáért felelős miniszter javaslata alapján a nemzetközi sportszervezetek (jogtulajdonosok) által megkívánt garanciát vállal a kiemelt nemzetközi sportrendezvények (különösen olimpia, Paralimpia, Siketlimpia és speciális világjátékok, világbajnokság, Európa-bajnokság) és sportdiplomáciai események magyarországi megrendezéséhez,
 - e) a sportkultúra fenntartásával és fejlesztésével kapcsolatos feladatok ellátása során támogatja a határon túli magyar sportkapcsolatok fejlesztését.
 
-51. § (1) A sport irányításával, szabályozásával és ellenőrzésével kapcsolatos, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a sportpolitikáért felelős miniszter gondoskodik.
+51. § (1) A sport irányításával, szabályozásával és ellenőrzésével összefüggő, e törvényben és külön jogszabályokban meghatározott feladatok ellátásáról a sportpolitikáért felelős miniszter gondoskodik.
 
 (2) A sportpolitikáért felelős miniszter:
 
@@ -1399,7 +1401,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (5)
 
-64. § (1) A Kormány által külön jogszabályban olimpiai központnak minősített, állami tulajdonban lévő ingatlanok vagyonkezelője köteles az olimpiai központokat elsődlegesen sportcélokra használni, ezt a célt az olimpiai központok másodlagos használata során sem veszélyeztetheti.
+64. § (1) A Kormány által külön jogszabályban olimpiai központnak minősített, állami tulajdonban lévő ingatlanok vagyonkezelője köteles e központokat elsődlegesen sportcélokra használni, ezt a célt az olimpiai központok másodlagos használata során sem veszélyeztetheti.
 
 (2) Az olimpiai központok sportszakmai felügyeletét a MOB és a Magyar Paralimpiai Bizottság közreműködésével a sportpolitikáért felelős miniszter, a vagyongazdálkodási és létesítményfejlesztési szakmai felügyeletét az állami vagyon felügyeletéért felelős miniszter látja el.
 
@@ -1746,13 +1748,13 @@ adatokat továbbítja.
 
 (2) A nemzeti sportinformációs rendszert a sportpolitikáért felelős miniszter működteti. A sportpolitikáért felelős miniszter e feladatkörében biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását.
 
-(3) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmát az e törvényben meghatározott esetben kezelheti.
+(3) A sportpolitikáért felelős miniszter a nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmát az e törvényben meghatározott esetben kezeli.
 
 (4) A nemzeti sportinformációs rendszer személyes adatokra vonatkozó adattartalmából – ha törvény eltérően nem rendelkezik – adattovábbítás nem teljesíthető.
 
 (5) A nemzeti sportinformációs rendszerben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel tagsági, szerződéses vagy tanulói jogviszonyban álló sportolókról. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra terjed ki.
+76/E. § (1) A sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe a sportszervezettel tagsági, szerződéses vagy tanulói jogviszonyban álló sportolókról. Az adatszolgáltatás a 3. § (3) bekezdés a) pontja szerinti személyes adatokra terjed ki.
 
 (2) A sportszövetség a versenyengedélyeket a nemzeti sportinformációs rendszerben tartja nyilván. A sportszövetség ennek keretében adatot szolgáltat a nemzeti sportinformációs rendszer részére az általa kiadott versenyengedélyekről, a versenyengedéllyel rendelkezők versenyeken vagy versenyrendszerben való tényleges részvételéről. Az adatszolgáltatás a 3. § (3) bekezdés a) pontjában meghatározott személyes adatokra is kiterjed.
 
@@ -1766,7 +1768,7 @@ a versenyengedély érvényességi ideje alatt kezelheti.
 
 76/F. § (1) A sportszövetség és a sportszervezet adatot szolgáltat a nemzeti sportinformációs rendszerbe az általa foglalkoztatott sportszakemberekről. Az adatszolgáltatás a sportszakember nevét, születési helyét és idejét, képmását, valamint a sport területén képesítéshez kötött tevékenységek jegyzékéről rendelkező kormányrendeletben meghatározott képesítések, szakképzettség megnevezését tartalmazza.
 
-(2) A nemzeti sportinformációs rendszerben szereplő, (1) bekezdés szerinti személyes adatokat
+(2) A nemzeti sportinformációs rendszerben szereplő, (1) bekezdésében meghatározott személyes adatokat
 
 - a) a sportszövetség és a sportszervezet a sportszakember jogviszonyának fennállása alatt,
 - b) a sportpolitikáért felelős miniszter az adatszolgáltatás validitásának ellenőrzése céljából a sportszakember jogviszonyának fennállása alatt
@@ -1777,7 +1779,7 @@ kezelheti.
 
 - a) a sportszervezetek,
 - b) a sportszövetségek,
-- c) a sportköztestületek,
+- c) a sportköztestületek és
 - d) a sportlétesítmény tulajdonosa, illetve üzemeltetője vagy használója.
 
 ### XI. Fejezet — ÉRTELMEZŐ ÉS ZÁRÓ RENDELKEZÉSEK
@@ -1801,7 +1803,7 @@ kezelheti.
 - m) sportiskola: az a köznevelési intézmény, jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány, amely az alábbiak szerint utánpótlás-nevelési feladatokat lát el vagy közreműködik azok ellátásában:
   - ma) köznevelési típusú sportiskola: az a köznevelésről szóló törvény hatálya alá tartozó, évfolyamos vagy korcsoportos sportági képzést biztosító köznevelési intézmény, amely a helyi pedagógiai programját – az országos sportági szakszövetség, illetve országos sportági szövetség vagy fogyatékosok országos sportszövetségének szakmai javaslata alapján, az országos sportági szakszövetség, az országos sportági szövetség, vagy a fogyatékosok országos sportszövetsége és a köznevelési típusú sportiskola közötti együttműködési megállapodásban foglaltakra is figyelemmel – sportiskolai kerettanterv alapján készíti el, és biztosítja a testnevelés tantárgy emelt szintű oktatását, valamint a helyi pedagógiai programja összeállítása során figyelemmel van a sportolók felkészítési és versenyeztetési tevékenységére, továbbá a sportági programok megvalósításával kapcsolatos felkészítéssel és versenyeztetéssel összefüggő feladatait jogi személy nonprofit gazdasági társasággal, sportegyesülettel, sportvállalkozással vagy utánpótlás-nevelés fejlesztését végző alapítvánnyal fennálló együttműködési megállapodás alapján végzi,
   - mb) egyesületi jellegű sportiskola: az a korcsoportos sportági képzést biztosító jogi személy nonprofit gazdasági társaság, sportegyesület, sportvállalkozás, vagy utánpótlás-nevelés fejlesztését végző alapítvány (utánpótlás akadémia), amely köznevelési intézménnyel, a sportköztestülettel, országos sportági szakszövetséggel, országos sportági szövetséggel, vagy fogyatékosok országos sportszövetségével kötött együttműködési megállapodás alapján vesz részt az utánpótlás-nevelési feladatok ellátásban, sportolók magas szintű felkészítésében és versenyeztetésében, vagy közreműködik az utánpótlás-nevelési feladat-ellátás feltételeinek biztosításában.
-- n) sportrendezvény helyszíne: az a nyilvános hely vagy a közterület meghatározott része, ahol a sportrendezvényt megtartják, és ahol néző tartózkodhat,
+- n) sportrendezvény helyszíne: az a nyilvános hely vagy a közterület meghatározott része, ahol a sportrendezvényt megtartják és ahol néző tartózkodhat,
 - o) sportrendezvény résztvevője: az a természetes személy, aki a sportrendezvény helyszínén annak időtartama alatt, valamint a sportrendezvényt megelőzően vagy követően másfél órával tartózkodik. A néző (szurkoló) résztvevőnek minősül,
 - p) sportszakember: az a természetes személy, aki a KSH elnökének a Foglalkozások Egységes Osztályozási Rendszeréről (FEOR) szóló 7/2010. (IV. 23.) KSH közleménye szerinti sport-foglalkozást folytat, vagy a sportszervezettel, sportszövetséggel munkaviszonyban vagy polgári jogi jogviszonyban sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, sportszakembernek minősül továbbá a sportszervezet és a sportszövetség ügyintéző és képviseleti szervének vezetője. Sportszakember különösen a versenyző felkészítését végző vagy azzal kapcsolatba hozható edző, a csapatvezető, a mérkőzésvezető, a versenybíró, a sportegészségügyi szakember (pl. sportorvos, sportpszichológus, gyúró, masszőr). A sportszövetség szabályzatában határozza meg, hogy az adott sportágban kik minősülnek további sportszakembernek.
 - q) versenyrendszer: a sportág nemzetközi szövetsége és a hazai szakszövetség, illetve országos sportági szövetség – kivéve a szabadidősport szövetség – által meghatározott szabályok szerint szervezett fizikai vagy szellemi sportteljesítményt mérő erőpróba. A bajnokság versenyrendszernek minősül. A versenyrendszer hivatásos, amatőr és vegyes (nyílt) rendszerű lehet,
@@ -1820,7 +1822,7 @@ kezelheti.
 
 (2)
 
-(3) Hivatásos sportoló sportszervezettel e törvény hatálybalépése után egyéni vállalkozóként hivatásos sportolói tevékenysége körében polgári jogi szerződést nem köthet. A már megkötött polgári jogi szerződések a szerződésben meghatározott időtartam végéig, de legfeljebb 2006. december 31-ig hatályosak.
+(3) Hivatásos sportoló sportszervezettel e törvény hatálybalépése után egyéni vállalkozóként hivatásos sportolói tevékenysége körében polgári jogi szerződést nem köthet. A már megkötött polgári jogi szerződések a szerződéses időtartam végéig, de legfeljebb 2006. december 31-ig hatályosak.
 
 (4)–(5)
 
@@ -1870,6 +1872,15 @@ kezelheti.
 
 78/H. § E törvénynek a sportról szóló 2004. évi I. törvény módosításáról szóló 2017. évi CLXII. törvénnyel megállapított 78/G. §-át a folyamatban lévő ügyekben, az olimpiai járadék iránti kérelem tárgyában hozott közigazgatási határozat bírósági felülvizsgálata iránti perekben és a megismételt eljárásokban is alkalmazni kell.
 
+78/I. § (1) A sportszövetség által a 37. § alapján el nem vont vagy nem elvonható labdarúgó
+
+- a) sporttevékenység,
+- b) sportversenyek (mérkőzések)
+
+televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (pl. internet) történő közvetítésével (e § alkalmazásában a továbbiakban együtt: közvetítések) kapcsolatos szerződések hatálya 2018. szeptember 30. napjával megszűnik, és ha e napon a közvetítésekkel kapcsolatos szerződésekből eredő vagyoni értékű jogokkal a sportszervezeten vagy sportszövetségen kívül más személy vagy szervezet rendelkezik, akkor a közvetítésekkel kapcsolatos jogok 2018. szeptember 30. napján kártalanítás ellenében a törvény erejénél fogva a sportszervezetre szállnak vissza. A kártalanítás megállapítására, összegére, a bírósági hatáskörre és az igény érvényesítésére a Civil tv. 75. §-ának rendelkezései az irányadóak.
+
+(2) E törvénynek a sportról szóló 2004. évi I. törvény és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosításáról szóló 2018. évi XLVI. törvénnyel (a továbbiakban: Módtv4.) megállapított 47. § (8) bekezdését a Módtv4. hatálybalépése előtt kötött szerződésekből eredő jogviták esetében is alkalmazni kell.
+
 ### Felhatalmazó rendelkezések
 
 79. § (1) Felhatalmazást kap a Kormány, hogy
@@ -1883,7 +1894,7 @@ kezelheti.
   - be) az olimpiai járadékra és a Nemzet Sportolója címre vonatkozó részletes szabályokat,
   - bf) a sport területén képesítéshez kötött tevékenységek gyakorlására vonatkozó részletes szabályokat,
   - bg) a sportorvoslás szabályaira és a sportegészségügyi hálózatra vonatkozó részletes szabályokat,
-  - bh) a nemzeti sportinformációs rendszerre vonatkozó részletes szabályokat és
+  - bh) a nemzeti sportinformációs rendszerre vonatkozó részletes szabályokat,
   - bi) a Magyarország területén rendezett gépjárműversenyen vagy edzésen részt vevő gépjárművekre kötött felelősségbiztosítási szerződésekre vonatkozó részletes szabályokat,
   - bj) az 57/A. § szerinti támogatás mértékét, a támogatásban részesíthető személyek körét és feltételeit, valamint a támogatás nyújtásának eljárásrendjét,
   - bk) a sportrendezvény térítés ellenében végzett biztosítására vonatkozó részletes szabályokat,

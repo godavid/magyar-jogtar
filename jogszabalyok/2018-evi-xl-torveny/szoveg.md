@@ -98,28 +98,13 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 #### 15. Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény módosítása
 
-33. § Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 10. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 33. §
 
-„(4) A (3) bekezdés szerinti kiotói egységek átruházásából keletkezett bevételek felhasználásáról a miniszter a Zöld Beruházási Rendszer keretében az Éghajlatváltozási Stratégiával összhangban gondoskodik.”
-
-34. § Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény
-
-- 1. 5. § (2) bekezdésében az „az államháztartásért felelős miniszter – a miniszterrel együttműködésben –” szövegrész helyébe az „az iparügyekért felelős miniszter” szöveg,
-- 2. 8. § (2) bekezdésében az „Az államháztartásért felelős miniszter a miniszterrel együttműködésben” szövegrész helyébe az „Az iparügyekért felelős miniszter” szöveg,
-- 3. 9. § (2) bekezdésében az „az államháztartásért felelős miniszter a miniszterrel együttműködésben” szövegrész helyébe az „az iparügyekért felelős miniszter” szöveg,
-- 4. 9. § (7) bekezdésében az „az államháztartásért felelős miniszter tájékoztatja a minisztert és” szövegrész helyébe az „az iparügyekért felelős miniszter tájékoztatja” szöveg,
-- 5. 9. § (8) bekezdésében az „az államháztartásért felelős miniszter évente tájékoztatja a minisztert és” szövegrész helyébe az „az iparügyekért felelős miniszter tájékoztatja” szöveg,
-- 6. 10. § (2) bekezdésében az „az államháztartásért felelős miniszter” szövegrész helyébe az „az iparügyekért felelős miniszter” szöveg,
-- 7. 10/C. § (6) bekezdésében az „az energiapolitikáért felelős” szövegrész helyébe az „a” szöveg,
-- 8. 10/G. § (6) bekezdésében az „Az energiapolitikáért felelős” szövegrész helyébe az „A” szöveg,
-- 9. 13/F. § (5) bekezdésében a „Jegyzőkönyvvel kapcsolatos” szövegrész helyébe a „Jegyzőkönyvvel és a sztratoszferikus ózonréteg védelméről szóló, Bécsben 1985. március 22. napján aláírt egyezmény kihirdetéséről szóló 31/1990. (II. 16.) MT rendelettel kapcsolatos” szöveg, és
-- 10. 13/F. § (6) bekezdésében a „gázokkal kapcsolatos” szövegrész helyébe a „gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos” szöveg
-
-lép.
+#### 34. §
 
 #### 16. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-35. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (5) bekezdés f) pontjában a „környezetvédelemért felelős” szövegrész helyébe a „hulladékgazdálkodásért felelős” szöveg lép.
+#### 35. §
 
 #### 17. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosítása
 
@@ -145,12 +130,7 @@ lép.
 
 #### 20. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-44. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény
-
-- 1. 20. § (7) bekezdésében, 21. § (3) bekezdésében, 22. § (3) bekezdésében és 38. § (2) bekezdésében a „környezetvédelemért felelős” szövegrész helyébe a „hulladékgazdálkodásért felelős” szöveg, és
-- 2. 21. § (2) bekezdésében a „környezetvédelemért felelős” szövegrészek helyébe a „hulladékgazdálkodásért felelős” szöveg
-
-lép.
+#### 44. §
 
 #### 21. A világörökségről szóló 2011. évi LXXVII. törvény módosítása
 
@@ -387,106 +367,35 @@ lép.
 
 #### 33. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-112. § A hulladékról szóló 2012. évi CLXXXV. törvény 32/A. §-a a következő (3a) bekezdéssel egészül ki:
+#### 112. §
 
-„(3a) A Koordináló szerv az állami hulladékgazdálkodási, jogszabályban meghatározott feladatainak ellátása érdekében jogosult az Országos Környezetvédelmi Információs Rendszer (a továbbiakban: OKIR) a 78. § (4) bekezdése szerinti hulladékgazdálkodással kapcsolatos önálló részének adataihoz való közvetlen hozzáférésre és azok kezelésére.”
+#### 113. §
 
-113. § A hulladékról szóló 2012. évi CLXXXV. törvény a következő IX/A. Fejezettel egészül ki:
+#### 114. §
 
-„IX/A. FEJEZET
+#### 115. §
 
-A HULLADÉKGAZDÁLKODÁSI ÁGAZAT ÁLLAMI IRÁNYÍTÁSA
+#### 116. §
 
-78. § (1) A hulladékgazdálkodásért felelős miniszter
-
-a) irányítja
-
-aa) a törvényben vagy kormányrendeletben feladatkörébe utalt hulladékgazdálkodási tevékenységeket,
-
-ab) a nemzetközi szerződésekből adódó hulladékgazdálkodási feladatok végrehajtását,
-
-ac) a feladat- és hatáskörébe tartozó hulladékgazdálkodási igazgatást;
-
-b) közreműködik a hulladékgazdálkodási szakképesítési rendszer kialakításában és működtetésében.
-
-(2) A hulladékgazdálkodás környezet állapotára gyakorolt hatásának megismerésére és a hulladékgazdálkodás fejlesztésére irányuló kutatások összehangolása, támogatása, értékelése és állami hulladékgazdálkodással összefüggő kutatási célok teljesítésének biztosítása – a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökével együttműködésben – a hulladékgazdálkodásért felelős miniszter feladata.
-
-(3) A hulladékgazdálkodási ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása az oktatásért felelős miniszter, valamint a hulladékgazdálkodásért felelős miniszter közös feladata, a hulladékgazdálkodási szakterületet érintő szakképzés tekintetében a hulladékgazdálkodásért felelős miniszter gyakorolja a szakképesítésért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányba tartozó felsőoktatási intézmények oktató munkáját.
-
-(4) A hulladékgazdálkodással kapcsolatos egységes információs rendszert az OKIR önálló részeként a környezetvédelemért felelős miniszter alakítja ki és működteti azzal, hogy annak szakmai tartalma tekintetében a hulladékgazdálkodásért felelős miniszter egyetértése szükséges.”
-
-114. § A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdése 29. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben szabályozza:)
-
-„29. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes kritériumokat, műszaki és felhasználási feltételeket, valamint a hulladékstátusz megszűnésével kapcsolatos tanúsítás rendjét, a tanúsításra jogosult szervezetekre vonatkozó szabályokat;”
-
-115. § A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdése a következő c) ponttal egészül ki:
-
-(Felhatalmazást kap:)
-
-„c) a hulladékgazdálkodásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat”
-
-(rendeletben állapítsa meg.)
-
-116. § A hulladékról szóló 2012. évi CLXXXV. törvény
-
-- 1. 73. § (3) bekezdésében, 75. § (4) bekezdésében, 77. § (1) bekezdésében, 87. § (1) és (2) bekezdésében, 88. § (2) bekezdésében a „környezetvédelemért felelős” szövegrész helyébe a „hulladékgazdálkodásért felelős” szöveg,
-- 2. 88. § (3) bekezdés a) pontjában a „környezetvédelemért felelős miniszterrel és a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős” szövegrész helyébe a „hulladékgazdálkodásért felelős” szöveg, és
-- 3. 88. § (3) bekezdés b) pontjában az „a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter” szövegrész helyébe a „miniszter” szöveg
-
-lép.
-
-117. § Hatályát veszti a hulladékról szóló 2012. évi CLXXXV. törvény
-
-- 1. 32/A. § (6) bekezdése,
-- 2. 67. §-a,
-- 3. 88. § (2) bekezdés 2. pontja, és
-- 4. 88. § (3) bekezdés b) pont bi) alpontja.
+#### 117. §
 
 #### 34. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
-118. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 4. § (3a) és (3b) bekezdése helyébe a következő rendelkezés lép:
+#### 118. §
 
-„(3a) A kibocsátási engedély kiadásáról, módosításáról, illetve visszavonásáról, valamint a légi jármű üzembentartó nyomonkövetési tervének jóváhagyásáról, módosításáról a hatóság tájékoztatja az iparügyekért felelős minisztert (a továbbiakban: miniszter).
+#### 119. §
 
-(3b) A miniszter a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát hatósági ellenőrzés keretében végezheti.”
+#### 120. §
 
-119. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 18/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 121. §
 
-„(4) A (3) bekezdésben meghatározott fizetési kötelezettség teljesítéséig a miniszter zároltatja a villamosenergia-termelő forgalmi jegyzékbeli számláját. A fizetési kötelezettség villamosenergia-termelő általi hiánytalan teljesítésétől számított 30 napon belül a miniszter gondoskodik a villamosenergia-termelő forgalmi jegyzékbeli számlája zárolásának feloldásáról.”
+#### 122. §
 
-120. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 18/F. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 123. §
 
-„(1) A hatóság évente jelentést készít az Európai Bizottság részére a beruházások megvalósításáról és a központi számlán rendelkezésre álló összeg felhasználásáról. A hatóság az utolsó jelentését a (2) bekezdés szerinti zárójelentés benyújtását követő év január 31-ig készíti el.”
+#### 124. §
 
-121. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 18/G. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A miniszter gondoskodik a derogációs kérelem üzleti titkot nem tartalmazó változatának és annak az Európai Bizottság által jóváhagyott esetleges jövőbeni módosításainak az általa vezetett minisztérium honlapján történő közzétételéről.”
-
-122. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 22. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A bejelentés tartalmazza a bejelentés alapjául szolgáló esemény bekövetkezésének időpontját és az annak igazolására alkalmas dokumentumokat. A miniszter a bejelentésről értesíti az Európai Bizottságot és a központi tisztviselőt.”
-
-123. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § A miniszter a légiközlekedési kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 100%-ának, valamint a kibocsátási egységek állam általi, árverés útján való értékesítéséből származó bevétel 50%-ának a 2003/87/EK európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésében meghatározott célok egyikére vagy közülük többre fordított, a Zöldgazdaság Finanszírozási Rendszer előirányzat keretében való felhasználásáról a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.”
-
-124. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény
-
-- 1. 18/A. § (2a) és (3) bekezdésében, 18/C. § (3) bekezdésében, 37. § (5) bekezdésében, 39. § (2) és (3) bekezdésében az „az energiapolitikáért felelős” szövegrész helyébe az „a” szöveg,
-- 2. 22. § (1) bekezdésében a „hatóságnak” szövegrész helyébe a „miniszternek” szöveg, és
-- 3. 36. § (3) bekezdésében a „30” szövegrész helyébe a „10” szöveg
-
-lép.
-
-125. § (1) Hatályát veszti az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 14/A. §-a.
-
-(2) Hatályát veszti az az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény
-
-- 1. 30. § (3) bekezdésében az „és a 29. § tekintetében az energiapolitikáért felelős miniszter” szövegrész,
-- 2. 34. § (6) bekezdésében az „ , és arról tájékoztatást nyújt a miniszter részére a zárolást és a zárolás feloldását követő 8 napon belül” szövegrész, és
-- 3. 38. § (4) bekezdésében az „– az energiapolitikáért felelős miniszterrel együttműködésben –” szövegrész.
+#### 125. §
 
 #### 35. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló
 
@@ -502,7 +411,7 @@ lép.
 
 #### 37. A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény módosítása
 
-129. § A hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény 20. §-ában a „környezetvédelemért felelős” szövegrész helyébe a „hulladékgazdálkodásért felelős” szöveg lép.
+#### 129. §
 
 #### 38. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosításáról szóló
 
