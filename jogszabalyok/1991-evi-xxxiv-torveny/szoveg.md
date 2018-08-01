@@ -155,19 +155,19 @@ végezheti.
 
 (1b) Online kaszinójáték szervezésére kizárólag a Magyarország területén található játékkaszinó üzemeltetésére szóló koncesszió jogosultja jogosult, amely az online kaszinójáték szervezését a kaszinójáték szervezésére létrehozott koncessziós társaság útján végezheti.
 
-(2) Az adópolitikáért felelős miniszter képviseli a Magyar Államot a szerencsejáték-szervezéssel kapcsolatos pályázati és pályázat nélküli ajánlattételi eljárásban, valamint a koncessziós szerződések megkötése és végrehajtása során. Az adópolitikáért felelős miniszter e hatásköre gyakorlásához kapcsolódóan a szerencsejáték-szervezés állami felügyeletéért felelős minisztertől adatszolgáltatást, tájékoztatást kérhet.
+(2) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter képviseli a Magyar Államot a szerencsejáték-szervezéssel kapcsolatos pályázati és pályázat nélküli ajánlattételi eljárásban, valamint a koncessziós szerződések megkötése és végrehajtása során.
 
-(2a) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter ellátja a szerencsejáték-szervezés felügyeletét és a szerencsejáték-felügyeleti hatóság irányítását. Az adópolitikáért felelős miniszter a szerencsejáték-szabályozási hatáskör gyakorlása érdekében a szerencsejáték-szervezés állami felügyeletéért felelős minisztertől a szerencsejáték-szervezés felügyeletéről tájékoztatást kérhet.
+(2a) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter ellátja a szerencsejáték-szervezés felügyeletét és a szerencsejáték-felügyeleti hatóság irányítását.
 
-(2b) A szerencsejáték-szervezéshez kapcsolódó nemzetközi szerződés esetén – a nemzetközi szerződés tárgyától függően – az adópolitikáért felelős miniszter vagy a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, az egyéb, szerencsejáték-szervezéshez kapcsolódó két- vagy többoldalú szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter vagy a szerencsejáték-felügyeleti hatóság vezetője jár el a szerződés előkészítése, megkötése, módosítása, megszüntetése során és felel a szerződésből eredő kötelezettségek teljesítéséért.
+(2b) A szerencsejáték-szervezéshez kapcsolódó nemzetközi szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, az egyéb, szerencsejáték-szervezéshez kapcsolódó két- vagy többoldalú szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter vagy a szerencsejáték-felügyeleti hatóság vezetője jár el a szerződés előkészítése, megkötése, módosítása, megszüntetése során és felel a szerződésből eredő kötelezettségek teljesítéséért.
 
 (3) A számsorsjáték és – a lóversenyfogadás, a távszerencsejáték és a bukmékeri rendszerű fogadás kivételével – a fogadás szervezésére kizárólag az állami játékszervező jogosult.
 
-4. § (1) A koncessziós szerződés megkötésére a Ktv. 5. § (1) bekezdése szerinti nyilvános pályázatot az adópolitikáért felelős miniszter írja ki. A koncessziós pályázat kiírásához – országos pályázat kivételével – az érintett települési önkormányzat képviselő-testületének, Budapesten a fővárosi önkormányzat közgyűlésnek egyetértése is szükséges. Országos pályázattal elnyert koncessziós jog tekintetében a szerencsejáték-felügyeleti hatóság az engedélyt azokra a településekre adja ki, amelyek önkormányzatának képviselő-testülete – Budapesten a fővárosi önkormányzat közgyűlése is – hozzájárult a tevékenység területén történő gyakorlásához.
+4. § (1) A koncessziós szerződés megkötésére a Ktv. 5. § (1) bekezdése szerinti nyilvános pályázatot a szerencsejáték-szervezés állami felügyeletéért felelős miniszter írja ki. A koncessziós pályázat kiírásához – országos pályázat kivételével – az érintett települési önkormányzat képviselő-testületének, Budapesten a fővárosi önkormányzat közgyűlésnek egyetértése is szükséges. Országos pályázattal elnyert koncessziós jog tekintetében a szerencsejáték-felügyeleti hatóság az engedélyt azokra a településekre adja ki, amelyek önkormányzatának képviselő-testülete – Budapesten a fővárosi önkormányzat közgyűlése is – hozzájárult a tevékenység területén történő gyakorlásához.
 
 (2) A pályázat eredményeit ugyanazokban az országos napilapokban közzé kell tenni, amelyekben a pályázati kiírás megjelenik.
 
-(3) Az adópolitikáért felelős miniszter külön pályázat kiírása nélkül a koncessziós szerződést egy alkalommal — eredeti időtartamának legfeljebb felével — meghosszabbíthatja.
+(3) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter külön pályázat kiírása nélkül a koncessziós szerződést egy alkalommal — eredeti időtartamának legfeljebb felével — meghosszabbíthatja.
 
 (4) A Ktv. 8. §-ában foglaltakon kívűl a pályázati kiírásoknak tartalmazniuk kell,
 
@@ -177,9 +177,9 @@ végezheti.
 
 (5) A pályázati kiírásnak szükség esetén tartalmaznia kell a szerencsejáték szervező tevékenységre alapított gazdasági társaságra vonatkozó különös előírásokat (pl. a kibocsátott részvények, illetőleg üzletrészek korlátozott forgalomképességét).
 
-(6) A koncessziós szerződést az adópolitikáért felelős miniszter a Ktv. 10/C. § (2) bekezdése alapján az e törvény szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül is megkötheti.
+(6) A koncessziós szerződést a szerencsejáték-szervezés állami felügyeletéért felelős miniszter a Ktv. 10/C. § (2) bekezdése alapján az e törvény szerinti megbízható szerencsejáték-szervezővel nyilvános pályázat kiírása nélkül is megkötheti.
 
-5. § (1) A Ktv. 5. § (1) bekezdése szerinti nyilvános pályázat kiírása esetén az adópolitikáért felelős miniszter a pályázat nyertesével kötheti meg a koncessziós szerződést.
+5. § (1) A Ktv. 5. § (1) bekezdése szerinti nyilvános pályázat kiírása esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter a pályázat nyertesével kötheti meg a koncessziós szerződést.
 
 (2) Koncessziós szerződés e törvény különös rendelkezéseiben meghatározott határozott időtartamra köthető.
 
@@ -420,7 +420,7 @@ esetén.
 
 A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sorsjegy azonosítására alkalmas más módszernek (a továbbiakban: sorsolás) az eredményétől függ.
 
-(2) Az adópolitikáért felelős miniszter a szerencsejáték-szervezés állami felügyeletéért felelős miniszter egyetértésével a sorsolások lebonyolítását, ellenőrzését, közhitelű tanusítását, a nyereményekre vonatkozó rendelkezéseket valamint a végelszámolás rendszerét külön szabályozza.
+(2) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter a sorsolások lebonyolítását, ellenőrzését, közhitelű tanúsítását, a nyereményekre vonatkozó rendelkezéseket, valamint a végelszámolás rendszerét külön szabályozza.
 
 (3) A sorsolásos játék szervezésére irányuló kérelemhez játéktervet, részvételi szabályzatot, költségvetést és a jogszabály által előírt okiratokat kell mellékelni.
 
@@ -579,7 +579,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (7) A koncesszió időtartama I. kategóriájú játékkaszinó esetében legfeljebb 20 év, II. kategóriájú játékkaszinó esetében legfeljebb 10 év.
 
-(8) Az adópolitikáért felelős miniszter a szerencsejáték-szervezés állami felügyeletéért felelős miniszter egyetértésével a játékkaszinónak a játékban érdemi feladatot ellátó alkalmazottai (a továbbiakban: a játékkaszinó alkalmazottai) összetételére, a képesítés feltételeire, az egyes játékok játékszabályaira, a látogatás feltételeire, a játékkaszinó biztonságának, valamint pénzkezelésének ellenőrzésére külön szabályokat állapít meg.
+(8) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter a játékkaszinónak a játékban érdemi feladatot ellátó alkalmazottai (a továbbiakban: a játékkaszinó alkalmazottai) összetételére, a képesítés feltételeire, az egyes játékok játékszabályaira, a látogatás feltételeire, a játékkaszinó biztonságának, valamint pénzkezelésének ellenőrzésére külön szabályokat állapít meg.
 
 (9) A szerencsejáték-szervezők közül kizárólag – az e törvényben előírtaknak megfelelően – a játékkaszinó üzemeltetésére szóló koncessziós joggal rendelkező szerencsejáték-szervező, illetve koncessziós társaság és állami játékszervező jogosult a kereskedelmi kommunikációjában a kaszinó elnevezést, e fogalom összetételeit, jelzős alakját, továbbá rokon értelmű vagy idegen nyelvű megfelelőjét szerepeltetni. E korlátozás nem vonatkozik a szerencsejáték-szervezők szakmai és érdek-képviseleti szervezeteire.
 
@@ -587,7 +587,7 @@ A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sors
 
 (11) A játékkaszinót 18 éven aluliak nem látogathatják.
 
-(12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban az adópolitikáért felelős miniszter egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
+(12) Az Országos Területfejlesztési Koncepcióban meghatározott egyes tervezési-statisztikai régiókban a szerencsejáték-szervezés állami felügyeletéért felelős miniszter egyidejűleg egy koncesszióba vevőnek, az állam többségi részesedésével működő gazdálkodó szervezetnek vagy az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaságnak engedheti át az I. kategóriába sorolt játékkaszinó működtetésének jogát.
 
 (13) 500 000 lakosonként legfeljebb egy játékkaszinó üzemeltethető azzal, hogy a fővárosban és Pest megyében együtt legfeljebb öt, Baranya, Fejér, Győr-Moson-Sopron, Komárom-Esztergom, Somogy, Tolna, Vas, Veszprém és Zala megyében együtt legfeljebb három és Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok, Nógrád és Szabolcs-Szatmár-Bereg megyében együtt legfeljebb három játékkaszinó üzemeltethető.
 
@@ -611,7 +611,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 - d) a kaszinóban működtetni kívánt szerencsejáték-eszközök hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, valamint azok jogszerű birtoklását igazoló okiratot, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a játékkaszinó minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet,
 - e) a bevezetni kívánt értékzsetonok és érmék valamennyi fajtájából egy-egy érvénytelenített példányt,
 - f) az igazgatási-szolgáltatási díj megfizetését igazoló okiratot,
-- g) a 3. § (1) bekezdésének a) pontja szerinti kérelmező esetén a miniszter nyilatkozatát arról, hogy a játékkaszinó üzemeltetéséhez – az abban meghatározott időszakra, helyszínre, valamint egyéb feltételekkel – hozzájárul,
+- g) a 3. § (1) bekezdésének a) pontja szerinti kérelmező esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter nyilatkozatát arról, hogy a játékkaszinó üzemeltetéséhez – az abban meghatározott időszakra, helyszínre, valamint egyéb feltételekkel – hozzájárul,
 - h) a 3. § (1) bekezdés b) pontja szerinti kérelmező esetén a koncessziós szerződés egy eredeti példányát és az esedékes koncessziós díj befizetéséről szóló igazolást,
 - i) a számítógépes elszámolási rendszer leírását (amennyiben a szervező elszámolásai elkészítése során használ ilyen rendszert).
 
@@ -1181,13 +1181,13 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 
 36/J. § A szerencsejáték-felügyeleti hatóság a jogkövető magatartás elősegítése, valamint a játékosok és a pénzforgalmi szolgáltatók tájékoztatása érdekében honlapján az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a végleges döntéssel elrendelt ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését, valamint – amennyiben az megállapítható – az ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlapon tiltott szerencsejáték-szervezést megvalósító szervezet vagy személy elnevezését, és a tiltott szerencsejáték szervezéséhez használt fizetési számla számát.
 
-36/K. § Az adópolitikáért felelős miniszter a szerencsejáték-szervezés állami felügyeletéért felelős miniszterrel negyedéves gyakorisággal – a tárgyév április 20., július 20., október 20. és a tárgyévet követő január 20. napjáig – beszámol a Kormánynak a 13/A–13/B. §-ok és a IV. fejezet szerinti feladatok végrehajtásáról.
+36/K. § A szerencsejáték-szervezés állami felügyeletéért felelős miniszter féléves gyakorisággal – a tárgyév július 20. és a tárgyévet követő január 20. napjáig – beszámol a Kormánynak a 13/A-13/B. §-ok és a IV. fejezet szerinti feladatok végrehajtásáról.
 
 ### Nemzetközi közigazgatási együttműködés
 
 36/L. § (1) Az EGT államok szerencsejáték szabályozó és felügyeleti hatóságai közötti, az online szerencsejátékkal összefüggő Együttműködési Megállapodás (a továbbiakban: Megállapodás) végrehajtása során az általános közigazgatási rendtartásról szóló törvény megkeresésre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A Megállapodás végrehajtása során hatáskörrel rendelkező hatóság (a továbbiakban: magyar hatóság) az adópolitikáért felelős miniszter. A magyar hatóság a Megállapodás végrehajtása során a szerencsejáték-szervezés állami felügyeletéért felelős miniszterrel együttműködve jár el, és a Megállapodás végrehajtásával kapcsolatos eljárási cselekményeket a szerencsejáték-felügyeleti hatóság útján is teljesítheti.
+(2) A Megállapodás végrehajtása során hatáskörrel rendelkező hatóság (a továbbiakban: magyar hatóság) a szerencsejáték-szervezés állami felügyeletéért felelős miniszter. A magyar hatóság a Megállapodás végrehajtásával kapcsolatos eljárási cselekményeket a szerencsejáték-felügyeleti hatóság útján is teljesítheti. A szerencsejáték-szervezés állami felügyeletéért felelős miniszter e hatásköre gyakorlásához kapcsolódóan az adópolitikáért felelős minisztertől adatszolgáltatást, tájékoztatást kérhet.
 
 (3) A másik EGT állam hatáskörrel rendelkező hatósága (a továbbiakban: EGT társhatóság) megkeresésének teljesítését a magyar hatóság megtagadhatja abban az esetben is, ha a megkeresés teljesítése
 
@@ -1285,19 +1285,18 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
 
 (1b) Felhatalmazást kap a Kormány, hogy a szerencsejáték-felügyeleti hatóságot rendeletben kijelölje és e hatóság törvényben meghatározott feladatai végrehajtási szabályait rendeletben meghatározza.
 
-(2) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a szerencsejáték-szervezés állami felügyeletéért felelős miniszterrel egyetértésben
+(2) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy
 
 - a) a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel,
 - b) az egyes szerencsejátékok lebonyolításával, ellenőrzésével,
 - c) a játéktervvel,
 - d) a sorsolásos játékokkal és a fogadásokkal,
 - e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével,
-- f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével
-- g)
-- h)
-- i) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és a szerencsejáték-felügyeleti hatóság feladataival,
-- j)
-- k) a pénzforgalmi szolgáltató 13/A. § (1) bekezdés szerinti eljárásával és ezen eljárás ellenőrzésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+- f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével,
+- g) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és a szerencsejáték-felügyeleti hatóság feladataival,
+- h) az adópolitikáért felelős miniszterrel egyetértésben a pénzforgalmi szolgáltató 13/A. § (1) bekezdés szerinti eljárásával és ezen eljárás ellenőrzésével
+
+kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
