@@ -2789,6 +2789,15 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 megnevezéssel működik.
 
+(23) 2018. augusztus 1-jétől
+
+- a) az Edutus Főiskola Edutus Egyetem,
+- b) a Kodolányi János Főiskola Kodolányi János Egyetem,
+- c) a Szent Atanáz Görög Katolikus Hittudományi Főiskola Szent Atanáz Görögkatolikus Hittudományi Főiskola,
+- d) a Zsigmond Király Egyetem Milton Friedman Egyetem
+
+megnevezéssel működik.
+
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
 (2) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3a) bekezdésére tekintettel az oktatási hivatal 2017. szeptember 1-jéig jelentést készít az oktatásért felelős miniszter számára, hogy az 1. melléklet szerinti főiskolák közül melyek felelnek meg az alkalmazott tudományok egyetemére előírt feltételeknek.
@@ -2926,19 +2935,19 @@ kell érteni.
 | 39. |  |  | Neumann János Egyetem, Kecskemét |
 | 40. |  | II/B. Nem állami alkalmazott tudományok egyetemei |  |
 | 41. |  |  | Budapesti Metropolitan Egyetem, Budapest |
-| 42. |  |  | Zsigmond Király Egyetem, Budapest |
-| 43. | III. FŐISKOLÁK |  |  |
-| 44. |  | III/A. Állami főiskolák |  |
-| 45. |  |  | Eötvös József Főiskola, Baja |
-| 46. |  |  |  |
-| 47. |  | III/B. Nem állami főiskolák |  |
-| 48. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 49. |  |  | Adventista Teológiai Főiskola, Pécel |
-| 50. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 51. |  |  | Baptista Teológiai Akadémia, Budapest |
-| 52. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 53. |  |  | Budapest Kortárstánc Főiskola, Budapest |
-| 54. |  |  | Edutus Főiskola, Tatabánya |
+| 42. |  |  | Edutus Egyetem, Tatabánya |
+| 43. |  |  | Kodolányi János Egyetem, Orosháza |
+| 44. |  |  | Milton Friedman Egyetem, Budapest |
+| 45. | III. FŐISKOLÁK |  |  |
+| 46. |  | III/A. Állami főiskolák |  |
+| 47. |  |  | Eötvös József Főiskola, Baja |
+| 48. |  | III/B. Nem állami főiskolák |  |
+| 49. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
+| 50. |  |  | Adventista Teológiai Főiskola, Pécel |
+| 51. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
+| 52. |  |  | Baptista Teológiai Akadémia, Budapest |
+| 53. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
+| 54. |  |  | Budapest Kortárstánc Főiskola, Budapest |
 | 55. |  |  | Egri Hittudományi Főiskola, Eger |
 | 56. |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
 | 57. |  |  | Gábor Dénes Főiskola, Budapest |
@@ -2946,20 +2955,19 @@ kell érteni.
 | 59. |  |  | Golgota Teológiai Főiskola, Vajta |
 | 60. |  |  | Győri Hittudományi Főiskola, Győr |
 | 61. |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 62. |  |  | Kodolányi János Főiskola, Orosháza |
-| 63. |  |  | Pápai Református Teológiai Akadémia, Pápa |
-| 64. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
-| 65. |  |  | Pünkösdi Teológiai Főiskola, Budapest |
-| 66. |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
-| 67. |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
-| 68. |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
-| 69. |  |  | Szent Atanáz Görög Katolikus Hittudományi Főiskola, Nyíregyháza |
-| 70. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
-| 71. |  |  | Szent Pál Akadémia, Budapest |
-| 72. |  |  | Tomori Pál Főiskola, Budapest |
-| 73. |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
-| 74. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
-| 75. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
+| 62. |  |  | Pápai Református Teológiai Akadémia, Pápa |
+| 63. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
+| 64. |  |  | Pünkösdi Teológiai Főiskola, Budapest |
+| 65. |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
+| 66. |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
+| 67. |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
+| 68. |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
+| 69. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
+| 70. |  |  | Szent Pál Akadémia, Budapest |
+| 71. |  |  | Tomori Pál Főiskola, Budapest |
+| 72. |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
+| 73. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
+| 74. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
 
 ### 2. melléklet a 2011. évi CCIV. törvényhez
 

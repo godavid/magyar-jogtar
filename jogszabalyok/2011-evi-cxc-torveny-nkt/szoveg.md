@@ -217,7 +217,9 @@ tagozat,
 
 (7) A gimnáziumban az ötödik, hetedik és kilencedik, szakgimnáziumban a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakgimnázium a külön jogszabályokban meghatározott feltételeknek megfelel.
 
-(8) Az alternatív óvodák, iskolák az általuk készített és az oktatásért felelős miniszter által jóváhagyott óvodapedagógiai programban, kerettantervben meghatározottak szerint készítik el pedagógiai programjukat. Az alternatív óvodapedagógiai programban, az alternatív iskolai kerettantervben lehet meghatározni az általános szabályoktól eltérő, sajátos, az adott intézményben
+(7a) A szakközépiskolában a szakképzésért és felnőttképzésért felelős miniszter engedélyével a kilencedik évfolyamot a szakközépiskola pedagógiai programjában meghatározott tartalmú, szakképzést előkészítő évfolyam előzheti meg.
+
+(8) Az alternatív óvodák, iskolák az általuk készített és az oktatásért felelős miniszter által jóváhagyott óvodapedagógiai programban, kerettantervben, tantervi programban meghatározottak szerint készítik el pedagógiai programjukat. Az alternatív óvodapedagógiai programban, az alternatív iskolai kerettantervben, az alternatív alapfokú művészeti iskolák tantervi programjában lehet meghatározni az általános szabályoktól eltérő, sajátos, az adott intézményben
 
 - a) folyó óvodai nevelés és az óvodai élet megtervezésének elveit, a nevelés tevékenységi formáit és az óvodapedagógus feladatait,
 - b) az iskolában oktatott tananyagot, követelményeket,
@@ -228,7 +230,7 @@ tagozat,
 - g) működő vezetési modellt, nevelés- és oktatásszervezést,
 - h) elfogadott pedagógus végzettséget és szakképzettséget.
 
-(9) Az óvodapedagógiai program, kerettanterv a (8) bekezdésben meghatározott körben eltérhet az e törvényben, valamint az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározottaktól.
+(9) Az óvodapedagógiai program, kerettanterv, tantervi program a (8) bekezdésben meghatározott körben eltérhet az e törvényben, valamint az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározottaktól.
 
 (10) A (8) bekezdés alkalmazásában alternatív óvoda, alternatív iskola az az óvoda, iskola, amely nem hagyományos pedagógiai módszerekkel végzi nevelő és oktató munkáját. Az engedély iránti kérelmet, ha van olyan hálózat, szervezet, amelyik az alternatív óvodát, iskolát képviseli, a hálózat, szervezet, ha nincs ilyen hálózat, szervezet, az intézmény fenntartója jogosult benyújtani.
 
@@ -260,7 +262,7 @@ tagozat,
 
 #### 11. A szakközépiskola
 
-13. § (1) A szakközépiskolának öt évfolyama van, amelyből
+13. § (1) A szakközépiskolának – a 9. § (7a) bekezdésében meghatározott esetben a szakképzést előkészítő évfolyamon túl – öt évfolyama van, amelyből
 
 - a) három, az adott szakképesítés megszerzéséhez szükséges közismereti képzést és szakmai elméleti és gyakorlati oktatást magában foglaló szakképzési évfolyam, valamint
 - b) további kettő, érettségi vizsgára felkészítő évfolyam.
@@ -2621,7 +2623,8 @@ egyetértésben gyakorolja.
 (3) Felhatalmazást kap
 
 - a) a rendvédelmi szerv irányításáért felelős miniszter, hogy a rendvédelmi szerv működésének sajátosságaira tekintettel – az oktatásért felelős miniszter egyetértésével – a tanulók jogaira és kötelességeire, a pedagógusok végzettségére és szakképzettségére, jogaira és kötelességeire, az intézményvezető megbízására vonatkozó eltérő rendelkezéseket, a tanulói jogviszony létesítéséhez szükséges alkalmassági követelményeket, valamint ezek megállapításának rendjét, a fenntartói irányítási jog ellátásával való megbízást,
-- b) az egészségügyért felelős miniszter, hogy az oktatásért felelős miniszter egyetértésével a tanulók rendszeres egészségügyi vizsgálatának megszervezését, ennek keretében különösen az óvodába járó gyermek, valamint a tankötelezettség végéig az általános iskolába, középfokú iskolába járó tanuló évenkénti legalább egyszeri fogászati, szemészeti és általános szűrővizsgálaton való részvételének részletes szabályait rendeletben állapítsa meg.
+- b) az egészségügyért felelős miniszter, hogy az oktatásért felelős miniszter egyetértésével a tanulók rendszeres egészségügyi vizsgálatának megszervezését, ennek keretében különösen az óvodába járó gyermek, valamint a tankötelezettség végéig az általános iskolába, középfokú iskolába járó tanuló évenkénti legalább egyszeri fogászati, szemészeti és általános szűrővizsgálaton való részvételének részletes szabályait,
+- c) a szakképzésért és felnőttképzésért felelős miniszter, hogy az oktatásért felelős miniszter egyetértésével a 9. § (7a) bekezdése szerinti engedély kiadásának feltételeit, részletes eljárási szabályait rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a Kormány, hogy
 
