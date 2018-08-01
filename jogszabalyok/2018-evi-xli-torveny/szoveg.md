@@ -385,15 +385,53 @@ egészül ki.
 
 #### 14. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-#### 100. §
+100. § A jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 3. § (1) bekezdés 44. pontja helyébe a következő rendelkezés lép:
 
-#### 101. §
+[E törvény alkalmazásában]
 
-#### 102. §
+„44. szabálytalanság: ha
+
+a) az adófelfüggesztési eljárás keretében végzett szállítás nem az 53. § (3) bekezdése szerint fejeződik be, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
+
+b) az adófelfüggesztési eljárás keretében végzett szállítás során a fuvarszervezési okból megvalósuló szállítójármű-váltás az 54. § (8) bekezdés rendelkezéseinek megsértésével történik,
+
+c) a szabadforgalomba bocsátott jövedéki termék tagállamok közötti kereskedelmi célú és csomagküldő kereskedelem keretében végzett szállítása során a szállítmány egésze vagy annak egy része nem érkezik meg a címzetthez, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
+
+d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék és a 24. § (2) bekezdés e) pontja szerint bejelentett hiány kivételével,
+
+e) az adózatlan jövedéki terméket adóraktáron kívül birtokolják,
+
+f) a jövedéki terméket a 19. § megsértésével állítják elő,
+
+g) a jövedéki terméket harmadik országból a vámjogszabályok megsértésével hozzák be belföldre;”
+
+101. § A Jöt. 7. § (2) bekezdés g)–h) pontja helyébe a következő rendelkezés lép és a bekezdés a következő i) ponttal egészül ki:
+
+[A szabadforgalomba bocsátás időpontja az az időpont, amikor]
+
+„g) az adóraktári engedély végelszámolási eljárás miatti hatályvesztése esetén a jövedéki termék – az adófelfüggesztési eljárás keretében végzett szállítás kivételével – elhagyja az adóraktár területét, vagy a végelszámolás kezdő időpontjától számított 180. nap, ha a jövedéki termék az adóraktár területét korábban nem hagyta el,
+
+h) a 3. § (1) bekezdés 44. pont a)–b) és d)–g) alpontja szerinti szabálytalanság az állami adó- és vámhatóság tudomására jut, illetve
+
+i) a 24. § (2) bekezdés e) pontja szerinti bejelentés megtörténik.”
+
+102. § A Jöt. 8. § (1) bekezdése a következő p) ponttal egészül ki:
+
+[Az adófizetési kötelezettség a]
+
+„p) 7. § (2) bekezdés i) pontja szerinti esetben a bejelentőt”
+
+[terheli.]
 
 #### 103. §
 
-#### 104. §
+104. § (1) A Jöt. 17. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés szerinti készletfelvételre az állami adó- és vámhatóság döntése alapján az állami adó- és vámhatóság jelenlétében és ellenőrzése mellett kerülhet sor.”
+
+(2) A Jöt. 17. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az (1) bekezdés a) pontja szerinti készletfelvétel a tárgyév utolsó napját és az üzleti év mérlegfordulónapját megelőző vagy követő 15 napon belül tartható meg, ilyen esetben a tárgyév utolsó napjának vagy az üzleti év mérlegfordulónapjának készletét az akkortól a készletfelvétel tényleges napjáig történt nyilvántartás szerinti készletváltozások figyelembevételével, számítással kell meghatározni.”
 
 #### 105. §
 
@@ -824,7 +862,59 @@ lép.
 
 #### 33. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-#### 252. §
+252. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 3. § (2)–(2b) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter képviseli a Magyar Államot a szerencsejáték-szervezéssel kapcsolatos pályázati és pályázat nélküli ajánlattételi eljárásban, valamint a koncessziós szerződések megkötése és végrehajtása során.
+
+(2a) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter ellátja a szerencsejáték-szervezés felügyeletét és a szerencsejáték-felügyeleti hatóság irányítását.
+
+(2b) A szerencsejáték-szervezéshez kapcsolódó nemzetközi szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, az egyéb, szerencsejáték-szervezéshez kapcsolódó két- vagy többoldalú szerződés esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter vagy a szerencsejáték-felügyeleti hatóság vezetője jár el a szerződés előkészítése, megkötése, módosítása, megszüntetése során és felel a szerződésből eredő kötelezettségek teljesítéséért.”
+
+(2) Az Szjtv. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter a sorsolások lebonyolítását, ellenőrzését, közhitelű tanúsítását, a nyereményekre vonatkozó rendelkezéseket, valamint a végelszámolás rendszerét külön szabályozza.”
+
+(3) Az Szjtv. 27. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter a játékkaszinónak a játékban érdemi feladatot ellátó alkalmazottai (a továbbiakban: a játékkaszinó alkalmazottai) összetételére, a képesítés feltételeire, az egyes játékok játékszabályaira, a látogatás feltételeire, a játékkaszinó biztonságának, valamint pénzkezelésének ellenőrzésére külön szabályokat állapít meg.”
+
+(4) Az Szjtv. 36/K. §-a helyébe a következő rendelkezés lép:
+
+„36/K. § A szerencsejáték-szervezés állami felügyeletéért felelős miniszter féléves gyakorisággal – a tárgyév július 20. és a tárgyévet követő január 20. napjáig – beszámol a Kormánynak a 13/A-13/B. §-ok és a IV. fejezet szerinti feladatok végrehajtásáról.”
+
+(5) Az Szjtv. 36/L. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Megállapodás végrehajtása során hatáskörrel rendelkező hatóság (a továbbiakban: magyar hatóság) a szerencsejáték-szervezés állami felügyeletéért felelős miniszter. A magyar hatóság a Megállapodás végrehajtásával kapcsolatos eljárási cselekményeket a szerencsejáték-felügyeleti hatóság útján is teljesítheti. A szerencsejáték-szervezés állami felügyeletéért felelős miniszter e hatásköre gyakorlásához kapcsolódóan az adópolitikáért felelős minisztertől adatszolgáltatást, tájékoztatást kérhet.”
+
+(6) Az Szjtv. 38. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Felhatalmazást kap a szerencsejáték-szervezés állami felügyeletéért felelős miniszter, hogy
+
+a) a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel,
+
+b) az egyes szerencsejátékok lebonyolításával, ellenőrzésével,
+
+c) a játéktervvel,
+
+d) a sorsolásos játékokkal és a fogadásokkal,
+
+e) a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével,
+
+f) a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével,
+
+g) a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és a szerencsejáték-felügyeleti hatóság feladataival,
+
+h) az adópolitikáért felelős miniszterrel egyetértésben a pénzforgalmi szolgáltató 13/A. § (1) bekezdés szerinti eljárásával és ezen eljárás ellenőrzésével
+
+kapcsolatos részletes szabályokat rendeletben határozza meg.”
+
+(7) Az Szjtv.
+
+- a) 4. § (1) és (6) bekezdésében, 5. § (1) bekezdésében és 27. § (12) bekezdésében az „az adópolitikáért felelős miniszter” szövegrész helyébe az „a szerencsejáték-szervezés állami felügyeletéért felelős miniszter” szöveg,
+- b) 4. § (3) bekezdésében az „Az adópolitikáért felelős miniszter” szövegrész helyébe az „A szerencsejáték-szervezés állami felügyeletéért felelős miniszter” szöveg,
+- c) 27/B. § (2) bekezdés g) pontjában az „a miniszter” szövegrész helyébe az „a szerencsejáték-szervezés állami felügyeletéért felelős miniszter” szöveg
+
+lép.”
 
 ### X. Fejezet — A BEVÁNDORLÁSI KÜLÖNADÓRÓL
 

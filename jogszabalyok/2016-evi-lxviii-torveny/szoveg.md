@@ -100,8 +100,8 @@ jogosult személy;
   - a) az adófelfüggesztési eljárás keretében végzett szállítás nem az 53. § (3) bekezdése szerint fejeződik be, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
   - b) az adófelfüggesztési eljárás keretében végzett szállítás során a fuvarszervezési okból megvalósuló szállítójármű-váltás az 54. § (8) bekezdés rendelkezéseinek megsértésével történik,
   - c) a szabadforgalomba bocsátott jövedéki termék tagállamok közötti kereskedelmi célú és csomagküldő kereskedelem keretében végzett szállítása során a szállítmány egésze vagy annak egy része nem érkezik meg a címzetthez, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
-  - d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék kivételével,
-  - e) az adózatlan jövedéki terméket adóraktáron kívül tárolják,
+  - d) az adófelfüggesztési eljárás keretében az adóraktárban tárolt jövedéki termék mennyiségében hiány mutatkozik, a teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék és a 24. § (2) bekezdés e) pontja szerint bejelentett hiány kivételével,
+  - e) az adózatlan jövedéki terméket adóraktáron kívül birtokolják,
   - f) a jövedéki terméket a 19. § megsértésével állítják elő,
   - g) a jövedéki terméket harmadik országból a vámjogszabályok megsértésével hozzák be belföldre;
 - 45. teljesen megsemmisült vagy helyrehozhatatlanul károsodott jövedéki termék:
@@ -322,8 +322,9 @@ használnak fel;
 - d) a jövedéki termék importálása révén a jövedéki termék vámjogi szabadforgalomba bocsátásra kerül, kivéve ha a jövedéki termék adófelfüggesztési eljárás alá kerül,
 - e) az adóraktári engedély hatályvesztését, visszavonását követően a jövedéki termék – az adófelfüggesztési eljárás keretében végzett szállítás kivételével – elhagyja az adóraktár területét, vagy az adóraktári engedély hatályvesztését, visszavonását követő 30. nap, ha a jövedéki termék az adóraktár területét korábban nem hagyta el,
 - f) az adóraktári engedély felszámolási eljárás miatti hatályvesztése esetén a jövedéki termék elhagyja az adóraktár területét, kivéve ha a jövedéki terméket adófelfüggesztési eljárás keretében feladják,
-- g) az adóraktári engedély végelszámolási eljárás miatti hatályvesztése esetén a jövedéki termék – az adófelfüggesztési eljárás keretében végzett szállítás kivételével – elhagyja az adóraktár területét, vagy a végelszámolás kezdő időpontjától számított 180. nap, ha a jövedéki termék az adóraktár területét korábban nem hagyta el, illetve
-- h) a 3. § (1) bekezdés 44. pont a)–b) és d)–g) alpontja szerinti szabálytalanság az állami adó- és vámhatóság tudomására jut.
+- g) az adóraktári engedély végelszámolási eljárás miatti hatályvesztése esetén a jövedéki termék – az adófelfüggesztési eljárás keretében végzett szállítás kivételével – elhagyja az adóraktár területét, vagy a végelszámolás kezdő időpontjától számított 180. nap, ha a jövedéki termék az adóraktár területét korábban nem hagyta el,
+- h) a 3. § (1) bekezdés 44. pont a)–b) és d)–g) alpontja szerinti szabálytalanság az állami adó- és vámhatóság tudomására jut, illetve
+- i) a 24. § (2) bekezdés e) pontja szerinti bejelentés megtörténik.
 
 (3) Az adófizetési kötelezettség keletkezésének időpontja
 
@@ -359,7 +360,8 @@ használnak fel;
   - ob) a 3. § (1) bekezdés 44. pont d) alpontjában meghatározott szabálytalanság esetében az adóraktár engedélyesét,
   - oc) a 3. § (1) bekezdés 44. pont e) alpontjában meghatározott szabálytalanság esetében a jövedéki termék birtokosát és minden olyan személyt, aki a szabálytalan tárolásban részt vesz,
   - od) a 3. § (1) bekezdés 44. pont f) alpontjában meghatározott szabálytalanság esetében a jövedéki termék előállítóját és minden olyan személyt, aki a szabálytalan előállításban részt vesz,
-  - oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan importálásban résztvevő személyt
+  - oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan importálásban résztvevő személyt,
+- p) 7. § (2) bekezdés i) pontja szerinti esetben a bejelentőt
 
 terheli.
 
@@ -543,14 +545,11 @@ a tényleges készletet.
 
 (2) Az (1) bekezdés a)–b) és d) pontja szerinti készletfelvételt az adóraktár engedélyese, a felhasználói engedélyes és a jövedéki engedélyes kereskedő az azt megelőző 3. napig bejelenti az állami adó- és vámhatóságnak.
 
-(3) Az (1) bekezdés szerinti készletfelvételre
-
-- a) adóraktár engedélyese esetében – az (1) bekezdés d) pontja szerinti eset kivételével – az állami adó- és vámhatóság jelenlétében és ellenőrzése mellett,
-- b) egyéb esetben az állami adó- és vámhatóság döntése alapján az állami adó- és vámhatóság jelenlétében és ellenőrzése mellett
-
-kerülhet sor.
+(3) Az (1) bekezdés szerinti készletfelvételre az állami adó- és vámhatóság döntése alapján az állami adó- és vámhatóság jelenlétében és ellenőrzése mellett kerülhet sor.
 
 (4) A készletfelvétellel megállapított tényleges készlet és a nyilvántartás szerinti készlet különbözetével az elszámolási időszak zárókészletét módosítani kell.
+
+(5) Az (1) bekezdés a) pontja szerinti készletfelvétel a tárgyév utolsó napját és az üzleti év mérlegfordulónapját megelőző vagy követő 15 napon belül tartható meg, ilyen esetben a tárgyév utolsó napjának vagy az üzleti év mérlegfordulónapjának készletét az akkortól a készletfelvétel tényleges napjáig történt nyilvántartás szerinti készletváltozások figyelembevételével, számítással kell meghatározni.
 
 #### 13. Jövedéki biztosíték
 

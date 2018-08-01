@@ -39,6 +39,8 @@ Az Országgyűlés a társadalom széles körét érintő egyes ipari, közmű-s
 
 (3) A Hivatal látja el a (2) bekezdésben meghatározott feladatkörében az általános hatályú közvetlenül alkalmazandó uniós jogi aktusban, az uniós jogi rendelkezésben, az ezek alapján kiadott kötelező erejű határozatban foglaltak végrehajtását.
 
+(4) A Hivatal a hivatalos statisztikáról szóló törvényben foglaltak szerint látja el az energiastatisztika előállításával kapcsolatos feladatokat, valamint az ahhoz kapcsolódó nemzetközi adatszolgáltatási tevékenységet.
+
 3/A. § A Hivatal ellenőrzi a felügyelete alá tartozó szolgáltatóknak az egységes elektronikus közműnyilvántartásról szóló kormányrendeletben meghatározott adatszolgáltatási és a közműegyeztetés során nyilatkozattételi kötelezettségének az egységes elektronikus közműnyilvántartási rendszer felé történő teljesítését. Az adatszolgáltatás vagy a nyilatkozattétel nem vagy nem megfelelő teljesítése esetén a Hivatal kötelezi a szolgáltatókat az adatszolgáltatási vagy nyilatkozattételi kötelezettség teljesítésére. A Hatóság által kiszabott bírság összegére tekintettel a szolgáltató a szolgáltatásért megállapított díjat nem emelheti.
 
 4. § (1) A Hivatal nyilvános elektronikus információs rendszert működtet annak érdekében, hogy a 3. § (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó személyek és szervezetek által a nyilvánosság felé a Hivatal közreműködése által nyújtandó információk nyilvánosan elérhetők legyenek.
@@ -101,7 +103,7 @@ Az Országgyűlés a társadalom széles körét érintő egyes ipari, közmű-s
 (3) A Hivatal hatáskörébe tartozó hatósági eljárásokban – törvény vagy az Európai Unió közvetlenül alkalmazanadó jogi aktusának eltértő rendelkezése hiányában – közvetlenül érintett:
 
 - a) a Hivatal felügyelete alá tartozó ternmészetes személy, jogi személy vagy egyéb szervezet, akire vagy amelyre nézve a Hivatal jogot vagy kötelezettséget állapít meg,
-- b) akit a Hivatal ellneőrzése során vagy panaszeljárásban vizsgálat alá von, illetve adatszolgáltatásra kötelez,
+- b) akit a Hivatal ellenőrzése során vagy panaszeljárásban vizsgálat alá von, illetve adatszolgáltatásra kötelez,
 - c) aki jogszabály alapján arra jogosultként kérelmet nyújt be.
 
 (4) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a Hivatal eljárásában az ügyintézési határidő hetvenöt nap.
@@ -144,6 +146,26 @@ kezelésére.
 
 (2) A Hivatal a döntéseit egybefoglalhatja. Az egy okiratba foglalt döntések rendelkező részét és indokolását döntésenként önállóan kell megszövegezni. Az egybefoglalás az egyes döntések meghozatalára vonatkozó határidőket és a jogorvoslati szabályok alkalmazását nem érinti.
 
+(3) A Hivatal az eljárást felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy a Hivatalnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
+
+#### 3/B. Közérdekű igényérvényesítés
+
+5/I. § (1) A Hivatal a 3. § (2) bekezdés a)–e) pontja szerinti törvényekben meghatározott feladatkörében pert indíthat a felhasználók polgári jogi igényeinek érvényesítése iránt az ellen, akinek tevékenysége a 3. § (2) bekezdés a)–e) pontja szerinti törvények vagy az azok végrehajtására kiadott jogszabályok rendelkezéseibe ütközik és a jogsértő tevékenység a felhasználók széles, a jogsértés körülményei alapján meghatározható körét érinti.
+
+(2) A jogsértés bekövetkezésétől számított három év eltelte után perindításnak nincs helye. E határidő elmulasztása jogvesztéssel jár. Ha a jogsértő magatartás folyamatos, a határidő a magatartás abbahagyásakor kezdődik. Ha a jogsértő magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidő mindaddig nem kezdődik el, amíg ez a helyzet vagy állapot fennáll.
+
+(3) Ha a jogsértéssel érintett felhasználók tekintetében az érvényesített igény jogalapja és az igényben megjelölt kár összege, illetve egyéb követelés esetén a követelés tartalma – a jogsértéssel érintett egyes felhasználók egyedi körülményeire tekintet nélkül – egyértelműen megállapítható, a Hivatal kérheti, hogy a bíróság ítéletében kötelezze a 3. § (2) bekezdés a)–e) pontja szerinti törvények hatálya alá tartozó engedélyest, illetve szolgáltatót az ilyen követelés teljesítésére, ellenkező esetben kérheti, hogy a bíróság állapítsa meg a jogsértés tényét a keresetben meghatározott valamennyi felhasználóra kiterjedő hatállyal. Ha a bíróság a jogsértés tényét a keresetben meghatározott valamennyi felhasználóra kiterjedő hatállyal állapította meg, a jogsértéssel érintett felhasználó az általa a 3. § (2) bekezdés a)–e) pontja szerinti törvények hatálya alá tartozó engedélyes, illetve szolgáltató ellen indított perben – kártérítési igény esetén – kizárólag a kárának összegét, valamint a jogsértés és a kára közötti okozati összefüggést köteles bizonyítani.
+
+(4) A bíróság ítéletében meghatározza azoknak a jogosult felhasználóknak a körét és az azonosíthatóságukhoz szükséges adatokat, amelyek tekintetében a jogsértés tényét megállapította, illetve amelyek jogosultak az ítéletbeli kötelezés teljesítésének követelésére.
+
+(5) A bíróság az ítéletben feljogosíthatja a Hivatalt, hogy a jogsértő költségére az ítéletet országos napilapban közzétegye, illetve egyéb, a jogsértés jellege által indokolt formában nyilvánosságra hozza.
+
+(6) Ha a bíróság ítéletében a jogsértés tényének megállapításán túl a 3. § (2) bekezdés a)–e) pontja szerinti törvények hatálya alá tartozó engedélyest, illetve szolgáltatót meghatározott követelés teljesítésére is kötelezte, a jogsértő köteles a (4) bekezdés szerint meghatározott jogosult felhasználó igényét az ítéletnek megfelelően kielégíteni. Önkéntes teljesítés hiányában a jogosult felhasználó kérheti az ítélet bírósági végrehajtását. A felhasználó jogosultságát a bíróság az ítéletben meghatározott feltételek alapján a végrehajtási lap kiállítására irányuló eljárásában vizsgálja.
+
+(7) Az e § szerinti, a Hivatal általi igényérvényesítés nem érinti a felhasználónak azt a jogát, hogy a jogsértővel szemben a polgári jog szabályai szerint igényét önállóan érvényesítse.
+
+(8) Az e § szerinti pert a polgári perrendtartásról szóló 2016. évi CXXX. törvény közérdekből indított perre vonatkozó rendelkezései alapján kell lefolytatni.
+
 ### II. Fejezet — A HIVATAL SZERVEZETE ÉS GAZDÁLKODÁSA
 
 #### 4. A Hivatal elnöke és elnökhelyettesei
@@ -163,9 +185,9 @@ kezelésére.
 
 (2) A Hivatal elnöke és elnökhelyettese a kinevezésében megjelölt időpontban lép munkába, ennek hiányában a munkába lépés napja a kinevezés közlését követő nap.
 
-(3) A Hivatal elnökének tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszerese.
+(3) A Hivatal elnökének tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetménye a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszerese.
 
-(4) A Hivatal elnökhelyettesének tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset kilencszerese.
+(4) A Hivatal elnökhelyettesének tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetménye a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset kilencszerese.
 
 (5) A Hivatal elnökét a miniszterrel, az elnökhelyettesét a közigazgatási államtitkárral azonos juttatások illetik meg. A Hivatal elnökét és elnökhelyettesét naptári évenként negyven-negyven munkanap szabadság illeti meg.
 
@@ -214,7 +236,7 @@ amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűn
 
 (3) Tekintettel a (2) bekezdés szerinti működési szektort érintő elhelyezkedési tilalomra, az elnök, illetve az elnökhelyettes megbízatásának megszűnésével egyidejűleg a megelőző 12 havi, a Hivataltól származó nettó – azaz személyi jövedelemadóval csökkentett – jövedelmének megfelelő mértékű kártalanításra jogosult. A kártalanítást a Hivatal költségvetése terhére kell megfizetni. Az ily módon megállapított kárátalány a károk megtérülése körében adómentes.
 
-(4) Amennyiben az elnökhelyettes megbízatása a 9. § (1) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a közszolgálati jogviszonyban történő vezetői megbízás visszavonása esetére irányadó rendelkezéseket kell megfelelően alkalmazni.
+(4) Amennyiben az elnökhelyettes megbízatása a 9. § (1) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a közszolgálati jogviszonyban történő vezetői kinevezés módosítása esetére irányadó rendelkezéseket kell megfelelően alkalmazni.
 
 11. § (1) Az elnök, az elnökhelyettes nem lehet
 
@@ -233,8 +255,8 @@ amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűn
 
 12. § A Hivatal elnöke
 
-- a) rendeletben megállapítja az egyes villamos energia rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét, és a rendszerhasználati díjak alkalmazásának szabályait, a villamos energiáról szóló törvény szerinti elosztók közötti kiegyenlítő fizetések mértékét, a villamos energia csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint az elosztó által a felhasználó vagy az engedélyes igénye alapján, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és a villamosenergia-vásárlási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
-- b) rendeletben megállapítja a földgázellátásról szóló törvény szerinti rendszerüzemeltető által nyújtott szolgáltatás minőségének a földgáz rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható földgáz rendszerhasználati díjszabályozás kereteit, valamint a földgáz rendszerhasználati díjak alkalmazásának feltételeit, a földgáz rendszerhasználat árszabályozásának kereteit, a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait, a földgáz csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjak alkalmazásának szabályait, a rendszerüzemeltetők által a felhasználó vagy a rendszerhasználó igénye alapján, valamint felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
+- a) rendeletben megállapítja az egyes villamos energia rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét, és a rendszerhasználati díjak alkalmazásának szabályait, a villamos energiáról szóló törvény szerinti elosztók közötti kiegyenlítő fizetések mértékét, a villamos energia csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint az elosztó által a felhasználó vagy az engedélyes igénye alapján, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
+- b) rendeletben megállapítja a földgázellátásról szóló törvény szerinti rendszerüzemeltető által nyújtott szolgáltatás minőségének a földgáz rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható földgáz rendszerhasználati díjszabályozás kereteit, valamint a földgáz rendszerhasználati díjak alkalmazásának feltételeit, a földgáz rendszerhasználat árszabályozásának kereteit, a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait, a földgáz csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjak alkalmazásának szabályait, a rendszerüzemeltetők által a felhasználó vagy a rendszerhasználó igénye alapján, valamint felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
 - c) kiadja a Hivatal szervezeti és működési szabályzatát és egyéb szabályzatait,
 - d) irányítja a Hivatal munkaszervezetét, meghatározza létszámkeretét és a kiadmányozás rendjét,
 - e) képviseli a Hivatalt,
@@ -255,9 +277,11 @@ amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűn
 
 #### 5. A Hivatal állományába tartozó személyek foglalkoztatási jogviszonyára vonatkozó szabályok
 
-14. § (1) A Hatóság elnöke, elnökhelyettese, valamint a Hivatal alkalmazottai a Hivatal feladatainak ellátásához közvetlenül kapcsolódó tevékenységüket közszolgálati jogviszony keretében látják el.
+14. § (1) A Hivatal elnöke, elnökhelyettese, valamint a Hivatal alkalmazottai a Hivatal feladatainak ellátásához közvetlenül kapcsolódó tevékenységüket közszolgálati jogviszony keretében látják el.
 
-(2) A Hivatal elnöke meghatározza a Hivatal feladatainak ellátásához szükséges munkakörök rendszerét, a feladatok ellátásához szükséges erőforrások mennyiségét, illetve a Hatóság szervezeti és működési szabályzatában jelöli ki az (1) bekezdésbe nem tartozó azon munkaköröket, amelyek betöltői feladataikat munkaviszony keretében látják el.
+(2) A Hivatal elnöke meghatározza a Hivatal feladatainak ellátásához szükséges munkakörök rendszerét, a feladatok ellátásához szükséges erőforrások mennyiségét, illetve a Hivatal szervezeti és működési szabályzatában jelöli ki az (1) bekezdésbe nem tartozó azon munkaköröket, amelyek betöltői feladataikat munkaviszony keretében látják el.
+
+(3) A Hivatal elnökének közszolgálati jogviszonyával összefüggő, e törvényben nem nevesített munkáltatói intézkedéseket az általános elnökhelyettes teszi meg.
 
 15. § A Hivatal elnökére, elnökhelyettesére, valamint a Hivatallal közszolgálati jogviszonyban álló köztisztviselőkre és közszolgálati ügykezelőkre az e törvényben foglalt eltérésekkel a közszolgálati tisztviselőkről szóló törvény köztisztviselőkre vonatkozó rendelkezéseit kell alkalmazni.
 
@@ -271,7 +295,7 @@ amelynek jogát vagy jogos érdekét a Hivatal döntése a megbízatás megszűn
 
 (5) A Hivatal – a cafetéria juttatás kivételével – saját hatáskörben maga határozza meg béren kívüli juttatásait. A Hivatal elnöke által adható jutalom mértékét és a béren kívüli juttatásokat szabályzatban kell meghatározni.
 
-17. § (1) A Hivatal köztisztviselője – a közszolgálati tisztviselőkről szóló törvény szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a Hivatal feladat- és hatáskörébe tartozó tevékenységi területen működő szervezettel.
+17. § (1) A Hivatal köztisztviselője – a közszolgálati tisztviselőkről szóló törvény szerinti összeférhetetlenségi szabályokban foglaltakon túl – törvény eltérő rendelkezése hiányában nem létesíthet és nem tarthat fenn tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt a 3. § (2) bekezdése szerinti szervezettel.
 
 (2) A Hivatal köztisztviselője öröklés kivételével nem szerezhet tulajdoni részesedést a 3. § (2) bekezdésében meghatározott jogszabályok hatálya alá tartozó szervezetben.
 
@@ -305,14 +329,14 @@ rendelkezik.
 - c) az igazgatási szolgáltatási díj és
 - d) az egyéb bevételek.
 
-(3) A Hivatal által kiszabott bírságból származó bevétel a Hivatal feladat- és hatáskörébe tartozó
+(3) A Hivatal által kiszabott bírságból származó bevétel
 
-- a) tevékenységi területen működő szakemberek képzésére és tudományos-oktatási programok támogatására,
-- b) ágazatokban működő szervezetek ügyfeleinek tájékoztatására,
-- c) tevékenységekkel és döntésekkel kapcsolatos tájékoztatásra, tanulmányok és ismeretterjesztő anyagok készítésének és közzétételének támogatására,
-- d) tevékenységi területen működő civil fogyasztóvédelmi szervezetek támogatására
+- a) képzési és tudományos-oktatási programoknak,
+- b) tájékoztató, ismeretterjesztő anyagok készítésének és közzétételének,
+- c) kulturális, művészeti, sport- és egészségügyi programoknak, valamint
+- d) civil fogyasztóvédelmi szervezeteknek
 
-fordítható.
+a támogatására fordítható.
 
 (4) A tárgyévben a (3) bekezdés szerint rendelkezésre álló, de fel nem használt összeg a következő évre átvihető és azonos célokra felhasználható.
 
@@ -322,7 +346,7 @@ fordítható.
 
 (7) Törvényben, törvény felhatalmazása alapján kiadott jogszabályban vagy törvény alapján a Hivatal határozatában megállapított, a Hivatalnak fizetendő díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
 
-(8) A (2) bekezdés a)–c) pontja szerinti bevételek – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – 40%-a a központi költségvetést illeti meg.
+(8) A (2) bekezdés a)–c) pontja szerinti bevételek 30%-a a központi költségvetést illeti meg. A központi költségvetésről szóló törvény ennél alacsonyabb mértéket határozhat meg.
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
