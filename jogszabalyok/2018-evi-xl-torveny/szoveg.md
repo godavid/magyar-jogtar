@@ -74,13 +74,19 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 #### 13. A sportról szóló 2004. évi I. törvény módosítása
 
-#### 23. §
+23. § A sportról szóló 2004. évi I. törvény X/A. Fejezetének címe helyébe a következő cím lép:
 
-#### 24. §
+„X/A. FEJEZET
 
-#### 25. §
+EGYES ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK ÉS EGYÉB VAGYONELEMEK VAGYONKEZELŐINEK KIJELÖLÉSÉRŐL”
 
-#### 26. §
+24. § A sportról szóló 2004. évi I. törvény 76/B. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján a Budapest IV. kerület 76561/221 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) üzemeltetéséhez, valamint az Ingatlanon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként a Vasas Sport Clubot (székhely: Budapest 1139, Fáy utca 58.) jelöli ki.”
+
+25. § A sportról szóló 2004. évi I. törvény 76/B. § (2) bekezdésében az „(1)” szövegrész helyébe az „(1) és (1a)” szöveg lép.
+
+26. § A sportról szóló 2004. évi I. törvény 1. melléklete helyébe az 1. melléklet lép.
 
 #### 14. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
@@ -158,32 +164,13 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 #### 26. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-51. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 9. §-a a következő (7a) bekezdéssel egészül ki:
+#### 51. §
 
-„(7a) A szakközépiskolában a szakképzésért és felnőttképzésért felelős miniszter engedélyével a kilencedik évfolyamot a szakközépiskola pedagógiai programjában meghatározott tartalmú, szakképzést előkészítő évfolyam előzheti meg.”
+#### 52. §
 
-52. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 53. §
 
-„(1) A szakközépiskolának – a 9. § (7a) bekezdésében meghatározott esetben a szakképzést előkészítő évfolyamon túl – öt évfolyama van, amelyből
-
-a) három, az adott szakképesítés megszerzéséhez szükséges közismereti képzést és szakmai elméleti és gyakorlati oktatást magában foglaló szakképzési évfolyam, valamint
-
-b) további kettő, érettségi vizsgára felkészítő évfolyam.”
-
-53. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (3) bekezdése a következő c) ponttal egészül ki:
-
-(Felhatalmazást kap)
-
-„c) a szakképzésért és felnőttképzésért felelős miniszter, hogy az oktatásért felelős miniszter egyetértésével a 9. § (7a) bekezdése szerinti engedély kiadásának feltételeit, részletes eljárási szabályait”
-
-(rendeletben állapítsa meg.)
-
-54. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény
-
-- 1. 9. § (8) bekezdésében a „kerettantervben” szövegrész helyébe a „kerettantervben, tantervi programban” szöveg, az „alternatív iskolai kerettantervben” szövegrész helyébe az „alternatív iskolai kerettantervben, az alternatív alapfokú művészeti iskolák tantervi programjában” szöveg,
-- 2. 9. § (9) bekezdésében a „kerettanterv” szövegrész helyébe a „kerettanterv, tantervi program” szöveg
-
-lép.
+#### 54. §
 
 #### 27. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
@@ -342,181 +329,47 @@ lép.
 
 #### 91. §
 
-92. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 115. §-a a következő (23) bekezdéssel egészül ki:
+#### 92. §
 
-„(23) 2018. augusztus 1-jétől
-
-a) az Edutus Főiskola Edutus Egyetem,
-
-b) a Kodolányi János Főiskola Kodolányi János Egyetem,
-
-c) a Szent Atanáz Görög Katolikus Hittudományi Főiskola Szent Atanáz Görögkatolikus Hittudományi Főiskola,
-
-d) a Zsigmond Király Egyetem Milton Friedman Egyetem
-
-megnevezéssel működik.”
-
-93. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 1. melléklete helyébe a 3. melléklet lép.
+#### 93. §
 
 #### 32. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
-94. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 4. § (6a) bekezdése helyébe a következő rendelkezés lép:
+#### 94. §
 
-„(6a) A képviselői megbízatással nem rendelkező háznagy a 104. § (1) bekezdésében meghatározott összeg kétszeresének megfelelő összegű illetményre, továbbá a miniszter részére jogszabályban biztosított egyéb juttatásra jogosult. A képviselői megbízatással nem rendelkező háznagy jogállására – a megbízatás keletkezése és megszűnése, a vagyon-nyilatkozattételi kötelezettség teljesítése, valamint az összeférhetetlenség kivételével – a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.”
+#### 95. §
 
-95. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 97. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 96. §
 
-„(3) Ha a képviselő házelnöki, miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi megbízatással rendelkezik, a társadalombiztosítás ellátásaira való jogosultság szempontjából e megbízatását kell figyelembe venni.”
+#### 97. §
 
-96. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 98. §
 
-„(1) A képviselő havonta tiszteletdíjra jogosult. A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított képviselői tiszteletdíj havonta a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset háromszorosának megfelelő összeg.”
+#### 99. §
 
-97. § (1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. § (2)–(6) bekezdése helyébe a következő rendelkezések lépnek:
+#### 100. §
 
-„(2) Az (1) bekezdéstől eltérően, ha a képviselő
+#### 101. §
 
-a) egy állandó bizottság vagy a nemzetiségeket képviselő bizottság tagja, tiszteletdíja az (1) bekezdésben meghatározott összeg 1,2-szerese,
+#### 102. §
 
-b) a törvényalkotási bizottság vagy legalább kettő, a 14. § (1) bekezdés a) pontja szerinti bizottság tagja, tiszteletdíja az (1) bekezdésben meghatározott összeg 1,4-szerese.
+#### 103. §
 
-(3) Ha az (1) bekezdés szerinti nemzetgazdasági havi átlagos bruttó kereset alacsonyabb a tárgyévet megelőző második évre vonatkozó, hivatalosan közzétett nemzetgazdasági havi átlagos bruttó kereset összegénél, az (1) és (2) bekezdés szerinti tiszteletdíj összegét az utóbbi alapulvételével kell megállapítani.
+#### 104. §
 
-(4) A képviselő az (1) bekezdés szerinti tiszteletdíjra az eskütételétől a megbízatásának megszűnéséig, a (2) bekezdés szerinti tiszteletdíjra a bizottsági, illetve a további bizottsági tagsági megbízatás időtartamára jogosult.
+#### 105. §
 
-(5) A képviselőcsoport vezetője képviselőcsoportvezetői megbízatásának időtartamára az (1) bekezdésben meghatározott tiszteletdíj kétszeresének megfelelő összegű tiszteletdíjra jogosult.
+#### 106. §
 
-(6) A képviselőcsoport vezetőjének helyettese (a továbbiakban: képviselőcsoportvezető-helyettes) a képviselőcsoportvezető-helyettesi megbízatásának időtartamára az (1) bekezdésben meghatározott tiszteletdíj 1,7-szeresének megfelelő összegű tiszteletdíjra jogosult. Az e bekezdésben meghatározott tiszteletdíjra képviselőcsoportonként minden megkezdett huszonöt tag után egy-egy képviselőcsoportvezető-helyettes jogosult.”
+#### 107. §
 
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. §-a a következő (7)–(9) bekezdéssel egészül ki:
+#### 108. §
 
-„(7) A képviselőcsoport a 115. § (4) bekezdésében meghatározott keret terhére azoknak a képviselőcsoportvezető-helyetteseknek, akik nem részesülnek a (6) bekezdés szerinti tiszteletdíjban, az (1) vagy (2) bekezdésben meghatározott tiszteletdíjon felül külön juttatást állapíthat meg. Ebben az esetben a képviselőcsoportvezető-helyettest az (1) vagy (2) bekezdés alapján megillető képviselői tiszteletdíj, valamint a tiszteletdíjon felüli külön juttatás együttes összege nem haladhatja meg a (6) bekezdésben meghatározott összeget. Az e bekezdés szerinti juttatásban legfeljebb a (6) bekezdésben foglaltaknak megfelelő számú képviselőcsoportvezető-helyettes részesülhet.
+#### 109. §
 
-(8) A képviselőcsoportnak – a (6) és (7) bekezdés hatálya alá nem tartozó – további képviselőcsoportvezető-helyettesei külön juttatásban nem részesülhetnek, és számuk nem haladhatja meg a képviselőcsoport létszámának 20%-át.
+#### 110. §
 
-(9) A képviselőcsoport vezetője és a képviselőcsoportvezető-helyettes az (5)–(7) bekezdésben meghatározott tiszteletdíjra a megbízatás keletkezésének bejelentésétől a megbízatás megszűnésének bejelentéséig jogosult.”
-
-98. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 105. §-a helyébe a következő rendelkezés lép:
-
-„105. § (1) Az alelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg kétszerese.
-
-(2) A 14. § (1) bekezdés a) pontja szerinti bizottság elnöke, az Interparlamentáris Unió Magyar Nemzeti Csoportjának elnöke, valamint a jegyző tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 1,7-szerese.
-
-(3) A 14. § (1) bekezdés a) pontja szerinti bizottság alelnökének tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 1,5-szerese.
-
-(4) Az Interparlamentáris Unió Magyar Nemzeti Csoportjának alelnöke az Interparlamentáris Unió Magyar Nemzeti Csoportjának erre irányuló döntése esetén tiszteletdíjban részesíthető. Az alelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 1,4-szerese.
-
-(5) Az alelnök, a képviselői megbízatással rendelkező háznagy, a 14. § (1) bekezdés a) pontja szerinti bizottság elnöke és alelnöke, az Interparlamentáris Unió Magyar Nemzeti Csoportjának elnöke, valamint a jegyző az (1)–(3) bekezdésben meghatározott tiszteletdíjra a megbízatásának időtartamára jogosult. Az Interparlamentáris Unió Magyar Nemzeti Csoportjának alelnöke a (4) bekezdésben meghatározott tiszteletdíjra a (4) bekezdés szerinti döntés napjától az alelnök megbízatásának időtartamára jogosult.
-
-(6) Ha a képviselő egyidejűleg több, a 4. § (6) bekezdésében, a 104. §-ban, az e §-ban vagy a 120. §-ban meghatározott megbízatással rendelkezik, a magasabb összegű tiszteletdíjra jogosult.”
-
-99. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 109. §-a helyébe a következő rendelkezés lép:
-
-„109. § (1) A képviselő az általa – a saját vagy hozzátartozója használati jogát igazoló közokirat vagy teljes bizonyító erejű magánokirat alapján – megjelölt személygépkocsi forgalmi rendszámára szóló – egy, az Országgyűlés Hivatala által biztosított, másra át nem ruházható, készpénzre nem átváltható –, üzemanyagtöltő állomáson felhasználható üzemanyagkártya (a továbbiakban: üzemanyagkártya) használatára jogosult. Nem jogosult az Országgyűlés Hivatala által biztosított üzemanyagkártyára az a képviselő, aki e törvény, illetve az állami vezetői juttatásokra vonatkozó jogszabály vagy más jogszabály alapján személygépkocsi használatra jogosult.
-
-(2) Az üzemanyagkártya feltöltése első alkalommal a feltöltés időpontját alapul véve az adott tárgynegyedév végéig, a második alkalomtól kezdődően havonta történik az állami adóhatóság által közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárak figyelembevételével. Az üzemanyagkártyával felhasználható összeg kiszámításánál a közúti gépjárművek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabályban meghatározott, legfeljebb 2000 cm3 hengerűrtartalmú személygépkocsira vonatkozó üzemanyag-fogyasztási norma vehető figyelembe. Az autógázzal üzemelő tiszta gázüzemű, a kettős üzemű, valamint a hibrid hajtású személygépkocsi esetében a benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget kell alapul venni.
-
-(3) A (2) bekezdésben meghatározott összeg havonta – ha a képviselőnek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakóhelye
-
-a) Budapesten van – 2500 km-re,
-
-b) Budapesttől 1 és 100 km között van – 4000 km-re,
-
-c) Budapesttől 101 és 200 km között van – 5000 km-re,
-
-d) Budapesttől 201 és 300 km között van – 6000 km-re,
-
-e) Budapesttől 300 km-en túl van – 6500 km-re
-
-elegendő üzemanyag értéke.
-
-(4) Egyéni választókerületben megválasztott képviselő esetében a (3) bekezdésben meghatározott összeg – ha a képviselő egyéni választókerületének területnagysága
-
-a) 850 és 1150 km2 között van – 10%-kal,
-
-b) 1151 és 1400 km2 között van – 20%-kal,
-
-c) 1401 és 1650 km2 között van – 30%-kal,
-
-d) 1651 és 1900 km2 között van – 40%-kal,
-
-e) 1901 km2 fölött van – 50%-kal
-
-emelkedik.
-
-(5) A (3) bekezdés szerinti besorolásnál a Budapest és a számítás alapjául szolgáló település közötti – autópálya, illetve autóút, ennek hiányában egyéb főközlekedési útvonal igénybevételével számított – legrövidebb közúti távolságot kell figyelembe venni.
-
-(6) Az üzemanyagkártya felhasználható a közutak használatáért fizetendő használati díj, útdíj, valamint az üzemanyagtöltő állomáson az autó karbantartását biztosító szolgáltatás ellenértékének kiegyenlítésére is.
-
-(7) A képviselő az üzemanyagkártyával felhasználható összeg (keret) erejéig jogosult a teljesen elektromos meghajtású gépjármű töltésére fordított, valamint a belföldi közforgalmú közösségi közlekedési eszköz igénybevételére jogosító helyi és helyközi bérlet, valamint helyközi menetjegy – számlával igazolt – költségeinek megtérítésére is. Ha a képviselő az üzemanyagkártyára való jogosultságáról lemond, az e bekezdés szerinti költségtérítés összege nem haladhatja meg az (1)–(5) bekezdés alapján, egy 2000 cm3 hengerűrtartalmú, benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget.
-
-(8) Az alelnök és – a 113. § (1) bekezdésében foglalt keret terhére – a képviselőcsoport vezetője személyi, illetve hivatali célra személygépkocsi használatára jogosult. Az alelnök részére a személygépkocsit és használatának költségeit az Országgyűlés Hivatala biztosítja.
-
-(9) A képviselő ideiglenes külföldi kiküldetése idején a köztisztviselőkre irányadó napidíjra és költségtérítésre jogosult.”
-
-100. § (1) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 110. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A képviselő kérelmére az Országgyűlés Hivatala által biztosított budapesti lakóház vagy lakás használatára jogosult, kivéve, ha ő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan van. A képviselő akkor is jogosult lakóház vagy lakás használatára, ha a képviselő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában csak olyan budapesti lakóház vagy lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.”
-
-(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény 110. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) Ha a képviselő közjogi tisztségviselőként lakáshasználatra vagy budapesti lakhatásával összefüggésben támogatásra vagy egyéb juttatásra jogosult, az (1) bekezdés alapján kérheti az Országgyűlés Hivatala által biztosított budapesti lakóház vagy lakás használatát, amennyiben a közjogi tisztségviselőként őt megillető lakhatással kapcsolatos jogosultságairól lemond.”
-
-101. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 111. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A képviselő az Országgyűlés Hivatalán keresztül jogosult térítésmentesen igénybe venni a képviselői tevékenységének ellátásához szükséges postai és elektronikus hírközlési szolgáltatásokat. A képviselő az Országgyűlés Hivatalán keresztül jogosult havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 5%-ának megfelelő összeg erejéig mobiltelefon-szolgáltatás igénybevételére, amelyhez az Országgyűlés Hivatala biztosít megfelelő készüléket. A készülékkel – mobil fizetési rendszeren keresztül – megvalósuló, a közúti közlekedésről szóló törvény szerinti várakozás biztosítását célzó parkolási szolgáltatás igénybevételéhez az Országgyűlés Hivatala pénzügyi fedezetet nem biztosít. Az Országgyűlés Hivatala a képviselő számára biztosítja a minősített elektronikus aláírás használatának lehetőségét és feltételeit.”
-
-102. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 112. § (2)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A képviselő 111. § (1) bekezdése szerinti jogosultságai biztosítására az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 70 %-ának megfelelő összeget használhat fel.
-
-(3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj kétszeresének megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.”
-
-103. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 112. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) A 109. § (1) bekezdése, a 111. § (1) és (4) bekezdése szerinti juttatás képviselő által fel nem használt – tárgyév december 31-én vagy a képviselő megbízatásának megszűnésekor fennálló – keretmaradványa a tárgyévet követő év január 1-jei hatállyal, illetve a képviselői megbízatás megszűnésekor a képviselőcsoportjának a 113. § (1) bekezdése szerinti keretére kerül átcsoportosításra. Az e bekezdésben meghatározottakat a független képviselő esetében megfelelően alkalmazni kell.”
-
-104. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 112. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az ezen alcím alapján nyújtott juttatások és támogatások fedezetére biztosított keret összegének túllépése esetén a jogosulatlanul igénybevett összeg, valamint a 111. § (4) bekezdése szerinti parkolási szolgáltatás díja – a havi elszámolást követően – levonásra kerül a képviselő tiszteletdíjából, illetve a képviselő azt az Országgyűlés Hivatalának visszafizeti.”
-
-105. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 120. §-a helyébe a következő rendelkezés lép:
-
-„120. § A házelnök tiszteletdíja a 104. § (1) bekezdésében meghatározott összeg 2,7-szerese. A házelnök egyéb juttatásaira – a 122. §-ban foglalt eltérésekkel – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény a miniszterelnök javadalmazása és juttatásai alcímében foglalt szabályokat kell alkalmazni.”
-
-106. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény a következő 145/B. §-sal egészül ki:
-
-„145/B. § (1) A Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel (a továbbiakban: Módtv.4.) megállapított rendelkezéseket első alkalommal a 2018. augusztus hónapra járó illetmények, tiszteletdíjak, egyéb juttatások és támogatások tekintetében kell alkalmazni.
-
-(2) A Módtv. 4.-gyel megállapított 109. § szerinti juttatásokat első alkalommal 2018. augusztus 15-ig kell biztosítani.
-
-(3) A 111. § (1) bekezdése és a Módtv. 4.-gyel megállapított 110. § (2) bekezdése alapján az Országgyűlés Hivatala által a Módtv.4. hatályba lépését megelőzően megkötött szerződéseket – ha szükséges – legkésőbb 2018. szeptember 30-ig módosítani kell.”
-
-107. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 146. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A 4. § (6) bekezdése, a 48–52. §, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13) és (14) bekezdése, a 145/B. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.”
-
-108. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény
-
-- a) 87. § (1) bekezdésében a „mindenkori” szövegrész helyébe a „104. § (1) bekezdése szerinti”,
-- b) 87. § (1) bekezdésében az „A képviselői tiszteletdíj” szövegrész helyébe az „A 104. § (1) bekezdés szerinti képviselői tiszteletdíj”,
-- c) 110. § (2) bekezdésében az „az (1) bekezdésben” szövegrész helyébe az „az (1) és (1a) bekezdésben”,
-- d) 110. § (2) bekezdésében a „25%-ának” szövegrész helyébe a „35%-ának”,
-- e) 110. § (3) bekezdésében az „az (1) bekezdésben” szövegrész helyébe az „az (1) és (1a) bekezdésben”,
-- f) 110. § (3) bekezdésében a „25%-ának” szövegrész helyébe a „35%-ának”,
-
-szöveg lép.
-
-109. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény
-
-- a) 113. § (2) bekezdésében a „tiszteletdíj 40%-ának” szövegrész helyébe a „tiszteletdíjnak”,
-- b) 114. § (3) bekezdésében a „20%-ának” szövegrész helyébe az „50%-ának”
-
-szöveg lép.
-
-110. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 106. § (2) bekezdésében a „kizárólag a 104. § (1) bekezdésében meghatározott tiszteletdíj 30%-ára” szövegrész helyébe az „a 104. § (1) vagy (2) bekezdésében meghatározott tiszteletdíjra is” szöveg lép.
-
-111. § Hatályát veszti az Országgyűlésről szóló 2012. évi XXXVI. törvény 106. § (2) bekezdésében a „házelnök, a” szövegrész.
+#### 111. §
 
 #### 33. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
@@ -622,89 +475,36 @@ alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2018. évi XL. törvényhez
 
+„1. melléklet a 2004. évi I. törvényhez
+
+|  | A | B |
+| --- | --- | --- |
+|  | Az ingatlan helyrajzi száma | A kijelölt vagyonkezelő |
+| 1. | Budapest, 38440/52 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 2. | Budapest, 38440/53 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 3. | Budapest, 38440/54 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 4. | Budapest, 38442/12 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 5. | Budapest, 38442/13 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 6. | Budapest, 38442/14 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 7. | Budapest, 38442/15 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 8. | Budapest, 38293/78 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 9. | Budapest, 74333/1 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
+| 10. | Budapest, 74232 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
+| 11. | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
+| 12. | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
+| 13. | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
+| 14. | Budapest, 76561/221 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
+| 15. | Budapest, 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 16. | Budapest, 29834/12 | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 17. | Budapest, 29834/15 (81751/83751 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 18. | Budapest, 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 19. | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 20. | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 21. | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
+| 22. | Budapest, 38826 | Magyar Lovassport Szövetség |
+
+”
+
 ### 2. melléklet a 2018. évi XL. törvényhez
 
 ### 3. melléklet a 2018. évi XL. törvényhez
-
-„1. melléklet a 2011. évi CCIV. törvényhez
-
-Magyarország államilag elismert felsőoktatási intézményei
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1. | I. EGYETEMEK |  |  |
-| 2. |  | I/A. Állami egyetemek |  |
-| 3. |  |  | Állatorvostudományi Egyetem, Budapest |
-| 4. |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 5. |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
-| 6. |  |  | Debreceni Egyetem, Debrecen |
-| 7. |  |  | Eötvös Loránd Tudományegyetem, Budapest |
-| 8. |  |  | Kaposvári Egyetem, Kaposvár |
-| 9. |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
-| 10. |  |  | Magyar Képzőművészeti Egyetem, Budapest |
-| 11. |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 12. |  |  | Miskolci Egyetem, Miskolc |
-| 13. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 14. |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 15. |  |  | Óbudai Egyetem, Budapest |
-| 16. |  |  | Pannon Egyetem, Veszprém |
-| 17. |  |  | Pécsi Tudományegyetem, Pécs |
-| 18. |  |  | Semmelweis Egyetem, Budapest |
-| 19. |  |  | Soproni Egyetem, Sopron |
-| 20. |  |  | Szegedi Tudományegyetem, Szeged |
-| 21. |  |  | Szent István Egyetem, Gödöllő |
-| 22. |  |  | Széchenyi István Egyetem, Győr |
-| 23. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 24. |  |  | Testnevelési Egyetem, Budapest |
-| 25. |  | I/B. Nem állami egyetemek |  |
-| 26. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 27. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 28. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 29. |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 30. |  |  | Közép-európai Egyetem, Budapest |
-| 31. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 32. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 33. | II. ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
-| 34. |  | II/A. Állami alkalmazott tudományok egyetemei |  |
-| 35. |  |  | Budapesti Gazdasági Egyetem, Budapest |
-| 36. |  |  | Dunaújvárosi Egyetem, Dunaújváros |
-| 37. |  |  | Eszterházy Károly Egyetem, Eger |
-| 38. |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 39. |  |  | Neumann János Egyetem, Kecskemét |
-| 40. |  | II/B. Nem állami alkalmazott tudományok egyetemei |  |
-| 41. |  |  | Budapesti Metropolitan Egyetem, Budapest |
-| 42. |  |  | Edutus Egyetem, Tatabánya |
-| 43. |  |  | Kodolányi János Egyetem, Orosháza |
-| 44. |  |  | Milton Friedman Egyetem, Budapest |
-| 45. | III. FŐISKOLÁK |  |  |
-| 46. |  | III/A. Állami főiskolák |  |
-| 47. |  |  | Eötvös József Főiskola, Baja |
-| 48. |  | III/B. Nem állami főiskolák |  |
-| 49. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 50. |  |  | Adventista Teológiai Főiskola, Pécel |
-| 51. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 52. |  |  | Baptista Teológiai Akadémia, Budapest |
-| 53. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 54. |  |  | Budapest Kortárstánc Főiskola, Budapest |
-| 55. |  |  | Egri Hittudományi Főiskola, Eger |
-| 56. |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 57. |  |  | Gábor Dénes Főiskola, Budapest |
-| 58. |  |  | Gál Ferenc Főiskola, Szeged |
-| 59. |  |  | Golgota Teológiai Főiskola, Vajta |
-| 60. |  |  | Győri Hittudományi Főiskola, Győr |
-| 61. |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 62. |  |  | Pápai Református Teológiai Akadémia, Pápa |
-| 63. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
-| 64. |  |  | Pünkösdi Teológiai Főiskola, Budapest |
-| 65. |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
-| 66. |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
-| 67. |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
-| 68. |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
-| 69. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
-| 70. |  |  | Szent Pál Akadémia, Budapest |
-| 71. |  |  | Tomori Pál Főiskola, Budapest |
-| 72. |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
-| 73. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
-| 74. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
-
-”
