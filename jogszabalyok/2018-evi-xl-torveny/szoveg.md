@@ -74,19 +74,13 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 #### 13. A sportról szóló 2004. évi I. törvény módosítása
 
-23. § A sportról szóló 2004. évi I. törvény X/A. Fejezetének címe helyébe a következő cím lép:
+#### 23. §
 
-„X/A. FEJEZET
+#### 24. §
 
-EGYES ÁLLAMI TULAJDONÚ SPORTCÉLÚ INGATLANOK ÉS EGYÉB VAGYONELEMEK VAGYONKEZELŐINEK KIJELÖLÉSÉRŐL”
+#### 25. §
 
-24. § A sportról szóló 2004. évi I. törvény 76/B. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján a Budapest IV. kerület 76561/221 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) üzemeltetéséhez, valamint az Ingatlanon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként a Vasas Sport Clubot (székhely: Budapest 1139, Fáy utca 58.) jelöli ki.”
-
-25. § A sportról szóló 2004. évi I. törvény 76/B. § (2) bekezdésében az „(1)” szövegrész helyébe az „(1) és (1a)” szöveg lép.
-
-26. § A sportról szóló 2004. évi I. törvény 1. melléklete helyébe az 1. melléklet lép.
+#### 26. §
 
 #### 14. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
@@ -474,36 +468,6 @@ alapján sarkalatosnak minősül.
 (2) A 94. §-a az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
 
 ### 1. melléklet a 2018. évi XL. törvényhez
-
-„1. melléklet a 2004. évi I. törvényhez
-
-|  | A | B |
-| --- | --- | --- |
-|  | Az ingatlan helyrajzi száma | A kijelölt vagyonkezelő |
-| 1. | Budapest, 38440/52 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 2. | Budapest, 38440/53 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 3. | Budapest, 38440/54 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 4. | Budapest, 38442/12 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 5. | Budapest, 38442/13 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 6. | Budapest, 38442/14 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 7. | Budapest, 38442/15 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 8. | Budapest, 38293/78 | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
-| 9. | Budapest, 74333/1 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 10. | Budapest, 74232 | Újpesti Torna Egylet (székhely: Budapest 1044, Megyeri út 13.) |
-| 11. | Budapest, 38852/6 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
-| 12. | Budapest, 38821/4 | Magyar Testgyakorlók Köre (székhely: Budapest 1073, Erzsébet krt. 24. I. emelet) |
-| 13. | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
-| 14. | Budapest, 76561/221 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
-| 15. | Budapest, 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 16. | Budapest, 29834/12 | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 17. | Budapest, 29834/15 (81751/83751 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club - Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 18. | Budapest, 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 19. | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 20. | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 21. | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 22. | Budapest, 38826 | Magyar Lovassport Szövetség |
-
-”
 
 ### 2. melléklet a 2018. évi XL. törvényhez
 
