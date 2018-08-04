@@ -374,7 +374,7 @@ kell figyelembe venni.
 
 (2) Ha egy adott területre vonatkozóan nincs hatályban helyi építési szabályzat vagy az nem szabályoz teljeskörűen, építési munkát és egyéb építési tevékenységet végezni csak e törvény, valamint az építésügyi követelményekre vonatkozó egyéb jogszabályok megtartásával és csak akkor lehet, ha a célzott hasznosítás jellege, a kialakuló telek mérete, a tervezett beépítés mértéke – beépítettség és építménymagasság – valamint módja, rendeltetése (területfelhasználása) illeszkedik a meglévő környezethez.
 
-19. § (1) Beépítésre szánt területen – a 4. § (3a) bekezdés és a 6. § (3) bekezdés végrehajtására kiadott kormányrendelet eltérő rendelkezésének hiányában – épület csak építési telken helyezhető el.
+19. § (1) Beépítésre szánt területen – a 4. § (3a) bekezdés és a 6. § (3) bekezdés végrehajtására kiadott, illetve a kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozó beépítési szabályt megállapító kormányrendelet eltérő rendelkezésének hiányában – épület csak építési telken helyezhető el.
 
 (2) Beépítésre nem szánt területen új építményt építeni, meglévő építményt átalakítani, bővíteni, rendeltetését vagy használati módját megváltoztatni csak akkor szabad, ha az
 
@@ -753,7 +753,7 @@ eljárásokat folytat, és jogszabályban meghatározott esetben és módon ép�
 
 helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
-(6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra eltérő eljárási szabályok állapíthatók meg.
+(6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra, valamint a kiemelten közérdekű beruházásokra eltérő eljárási szabályok állapíthatók meg.
 
 35. § (1)–(3)
 
