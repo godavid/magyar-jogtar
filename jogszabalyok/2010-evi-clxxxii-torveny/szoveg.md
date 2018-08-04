@@ -12,20 +12,25 @@ a következő törvényt alkotja:
 
 #### 1. Az Alap célja, kedvezményezettjei
 
-1. § (1) A Bethlen Gábor Alap (a továbbiakban: Alap) elkülönített állami pénzalap. Célja a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében támogatások nyújtása.
+1. § (1) A Bethlen Gábor Alap (a továbbiakban: Alap) elkülönített állami pénzalap. Az Alap célja
 
-(1a) Az Alap fedezetet nyújt a Magyarország határain belül és kívül élő magyar közösségek kölcsönös megismerése, valamint a nemzeti teljesítmény legfontosabb példáinak bemutatása, továbbá a magyarságismereti és nemzetpolitikai kutatások elősegítése érdekében létrehozott Magyarság Háza működéséhez.
+- a) támogatások nyújtása
+  - aa) a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében,
+  - ab) Magyarország határain belül és kívül élő magyar közösségek kölcsönös megismerése, valamint a nemzeti teljesítmény legfontosabb példáinak bemutatása céljából, a magyarságismereti és nemzetpolitikai kutatások elősegítése érdekében létrehozott Magyarság Háza program működéséhez, valamint
+- b) a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása.
 
-(1b) Az Alap célja a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása.
+(1a)
 
-(2) A támogatás kedvezményezettje lehet az (1) bekezdésben foglalt célok megvalósítása érdekében tevékenykedő:
+(1b)
 
-- a) Magyarország területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
-- b) civil szervezet, nonprofit gazdasági társaság, állami fenntartású intézmény, települési, területi és nemzetiségi önkormányzat, és az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
-- c) gazdasági tevékenységet üzletszerűen végző jogi személy és jogi személyiséggel nem rendelkező gazdasági társaság (a továbbiakban: vállalkozás), ezen belül különösen mikro-, kis- és középvállalkozás, valamint
-- d) egyházi jogi személy, valamint a határon túli egyház és annak hitéleti, nevelési-oktatási, gyermekjóléti, kulturális vagy szociális tevékenységet ellátó intézménye.
+(2) Az (1) bekezdés szerinti célok kedvezményezettje lehet:
 
-(2a) Az (1a) bekezdésben meghatározott célra az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve.
+- a) a Magyarország területén lakóhellyel nem rendelkező, magát magyarnak valló természetes személy,
+- b) civil szervezet, nonprofit gazdasági társaság, állami fenntartású intézmény, települési, területi és nemzetiségi önkormányzat (a továbbiakban együtt: önkormányzat), és az általuk alapított, illetve fenntartott jogi személyiségű intézmény,
+- c) gazdasági tevékenységet üzletszerűen végző jogi személy (a továbbiakban: vállalkozás), ezen belül különösen mikro-, kis- és középvállalkozás, valamint
+- d) egyházi jogi személy, valamint a határon túli egyház és azok hitéleti, nevelési-oktatási, gyermekjóléti, kulturális vagy szociális tevékenységet ellátó intézménye.
+
+(2a) Az (1) bekezdésben meghatározott célok ellátásával, valamint az Alap kezelésével, működtetésével összefüggésben az Alapból nyújtott támogatás kedvezményezettje lehet az Alap kezelő szerve.
 
 (3) Ha nemzetközi szerződés másként nem rendelkezik, a (2) bekezdésben meghatározott természetes személlyel együtt élő házastárs és közös háztartásukban nevelt kiskorú gyermek akkor is lehet kedvezményezett, ha nem vallja magát magyar nemzetiségűnek.
 
@@ -37,22 +42,16 @@ a következő törvényt alkotja:
 
 #### 2. Az Alapból nyújtandó támogatások lehetséges céljai (a teljesíthető kiadások köre)
 
-3. § Az Alapból az 1. § (2) bekezdésében felsorolt alábbi kedvezményezettek a következő célok körébe tartozóan igényelhetnek támogatást:
+3. § Az Alapból a következő támogatási célokra igényelhető, illetve nyújtható támogatás:
 
-- a) magánszemély, egyéni vállalkozó
-  - aa) nevelés, oktatás, képzés, továbbképzés (ideértve a Szátv. 14. §-ában foglalt támogatásokat is), továbbá tankönyv- és taneszköz-támogatás, ösztöndíj és közösségi sporttevékenység céljára;
-  - ab) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapításával és megismerhetővé tételével, a hagyományos magyar kultúrtáj védelmével kapcsolatos célokra;
-  - ac) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
-- b) közoktatási és felsőoktatási, tudományos kutatást, fejlesztést végző intézmény és háttérintézmény; kulturális, nyomtatott és elektronikus sajtó útján megvalósuló tömegtájékoztatási, vallási, ifjúsági, szociális tevékenységet folytató, a társadalmi felzárkózást és a szociális integrációt elősegítő egészségügyi és egyéb szervezet (ideértve a Szátv. 18. §-ában meghatározott szervezetet is)
-  - ba) az alaptevékenységének (alapításának) megfelelő közfeladat ellátására;
-  - bb) az európai uniós tagsággal és az Európai Unió által biztosított támogatások felhasználásával kapcsolatos továbbképzési tevékenység ellátására;
-- c) önkormányzat, azok társulása, szövetsége
-  - ca) az Európai Unió által is támogatott határmenti program céljára;
-  - cb) magyarországi településsel közös infrastruktúra kialakítása, így különösen utak, hidak építése, kommunális és kommunikációs célú támogatások, természetes adottságok fokozott kihasználása, testvértelepülési kapcsolatok – különösen a kulturális- és sportkapcsolatok – kialakítása, erősítése, közös környezetvédelmi programok létrehozása, az Európai Unió külső határszakaszán a kishatárforgalom feltételeinek megteremtése céljára;
-- d) a vállalkozás, ezen belül különösen mikro-, kis- és középvállalkozás
-  - da) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapításával, megismerhetővé tételével kapcsolatos célokra;
-  - db) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátó-ipari, környezetvédelmi, energiahatékonysági célokra;
-  - dc) tömegtájékoztatási (nyomtatott és elektronikus sajtó) célokra.
+- a) nevelés, oktatás, képzés, továbbképzés (ideértve a Szátv. 14. §-ában foglalt támogatásokat is), továbbá tankönyv- és taneszköz-támogatás, ösztöndíj és közösségi sporttevékenység céljára;
+- b) a magyar kultúra és tudomány fejlesztésével, megőrzésével, gyarapításával és megismerhetővé tételével, a hagyományos magyar kultúrtáj védelmével kapcsolatos célokra;
+- c) gazdasági típusú, ezen belül kiemelten turisztikai, idegenforgalmi, vendéglátóipari, környezetvédelmi, energiahatékonysági célokra;
+- d) az európai uniós tagsággal és az Európai Unió által biztosított támogatások felhasználásával kapcsolatos továbbképzési tevékenység ellátására;
+- e) tömegtájékoztatási (nyomtatott és elektronikus sajtó) célokra;
+- f) önkormányzat, önkormányzatok társulása, önkormányzati szövetség, mint kedvezményezett részére
+  - fa) az Európai Unió által is támogatott határmenti program céljára;
+  - fb) magyarországi településsel közös infrastruktúra kialakítása, így különösen utak, hidak építése, kommunális és kommunikációs célú támogatások, természetes adottságok fokozott kihasználása, testvértelepülési kapcsolatok – ezen belül különösen a kulturális és sportkapcsolatok – kialakítása és erősítése, közös környezetvédelmi programok létrehozása, az Európai Unió külső határszakaszán a kishatárforgalom feltételeinek megteremtése céljára.
 
 #### 3. Az Alap pénzügyi forrásai
 
@@ -60,20 +59,24 @@ a következő törvényt alkotja:
 
 (2) Az Alap bevételei:
 
-- a) állampolgárságától, illetve lakhelyétől függetlenül bármely természetes személy, valamint honosságától függetlenül bármely jogi személy, jogi személyiség nélküli szervezet önkéntes befizetései, adományai,
-- b) költségvetési támogatások,
-- c) egyéb bevételek.
+- a) belföldi vagy külföldi természetes személyek és jogi személyek által teljesített önkéntes befizetések, adományok,
+- b) központi költségvetési támogatások,
+- c) az Alap tárgyévet megelőző évi, visszahagyott költségvetési maradványa,
+- d) egyéb bevételek.
 
 (3) A jogi személyek, a jogi személyiség nélküli szervezetek és természetes személyek Alap javára történő önkéntes befizetései alapján a társasági adóról és az osztalékadóról szóló törvényben, valamint a személyi jövedelemadóról szóló törvényben a kiemelkedően közhasznú szervezetek részére juttatott adományra vonatkozóan meghatározott kedvezmények vehetők igénybe.
 
 (4) A meghatározott céllal juttatott, vagy feltételhez kötött befizetések, adományok elfogadásáról a Bizottság dönt.
 
-(5) Költségvetési támogatásként
+(5) Központi költségvetési támogatásként
 
-- a) a (2) bekezdés a) pontja szerinti befizetések, adományok előző naptári évi összegével azonos rendszeres támogatás, amely nem lehet kevesebb, mint amennyi az Alap 1 milliárd forint összegre való kiegészítéséhez szükséges,
-- b) eseti támogatás illeti meg az Alapot.
+- a) a (2) bekezdés a) pontja szerinti befizetések, adományok előző naptári évi összegével azonos rendszeres, központi költségvetésből származó támogatás, amely nem lehet kevesebb, mint amennyi az Alap bevételeinek 1 milliárd forint összegre való kiegészítéséhez szükséges,
+- b) a központi költségvetésről szóló törvényben meghatározott, az a) pont alá nem tartozó támogatás,
+- c) eseti támogatás
 
-(6) Az Alap működtetésének kiadásait az Alap finanszírozza.
+illeti meg az Alapot.
+
+(6) Az Alap kezelése során felmerülő – így különösen a támogatási programok, pályázatok előkészítésével, elbírálásával, a támogatások lebonyolításával, valamint azok nyilvántartásával és ellenőrzésével kapcsolatos személyi és tárgyi feltételek biztosításához szükséges – alapkezelői működési kiadásokat az Alap finanszírozza.
 
 (7) A (6) bekezdésben meghatározott kiadásokra évente az Alap adott költségvetési évben teljesülő bevételének – ide nem értve a részben vagy egészben visszatérítendő támogatásokból és egyéb céltámogatásokból származó bevételt – legfeljebb tíz százaléka használható fel.
 
@@ -121,50 +124,60 @@ a következő törvényt alkotja:
 
 8. § A Kollégium tagjait és elnökét tevékenységükért díjazás nem illeti meg, viszont jogosultak az Alap tevékenységével közvetlenül összefüggő, igazolt költségeik megtérítésére.
 
-9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 2011. évi CXCV. törvény szerinti feladatokat az Alap kezelő szerveként a magyar állam tulajdonában lévő Bethlen Gábor Alapkezelő Nonprofit Zrt. látja el.
+#### 4/A. Az Alap kezelő szerve
 
-(1a) Ha az Alapból nyújtott támogatás kedvezményezettje az Alap kezelő szerve, a támogatás felhasználásának ellenőrzésével kapcsolatos feladatokat a Bizottság látja el.
+9. § (1) Az Alapból megítélt támogatások folyósításával, felhasználásának ellenőrzésével és nyilvántartásával összefüggő, illetve az államháztartásról szóló 2011. évi CXCV. törvény szerinti feladatokat az Alap kezelő szerveként az állam 100%-os tulajdonában álló Bethlen Gábor Alapkezelő Nonprofit Zrt. (a továbbiakban: Alapkezelő) látja el.
 
-(2) Az Alap kezelő szerve felett a tulajdonosi jogokat a magyar állam nevében a nemzetpolitikáért felelős miniszter gyakorolja.
+(1a) Ha az Alapból nyújtott támogatás kedvezményezettje az Alapkezelő, a támogatás felhasználásának ellenőrzésével kapcsolatos feladatokat a Bizottság látja el.
 
-(3) Az Alap kezelő szerve feladatainak hatékony ellátása érdekében a pályáztatási feladatok vagy azok egy részének ellátása érdekében más szervezetet is létrehozhat vagy megbízhat.
+(2) Az Alapkezelő felett a tulajdonosi jogokat a nemzetpolitikáért felelős miniszter gyakorolja. Az Alapkezelő ügyvezetői feladatait a vezérigazgató látja el. A vezérigazgatót a Bizottság javaslatára a nemzetpolitikáért felelős miniszter nevezi ki és menti fel. Az Alapkezelő egyéb foglalkoztatottjai felett a munkáltatói jogokat a vezérigazgató gyakorolja.
 
-(4) A határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítását és a támogatásközvetítési feladatok ellátásának összehangolását az Alap kezelő szerve végzi.
+(3) Az Alapkezelő – feladatainak hatékony ellátása céljából – az alapkezelői feladatok vagy azok egy részének ellátása érdekében más jogi személyt létrehozhat, abban alapítói jogokat, részesedést szerezhet, vagy közreműködő szervezetet megbízhat.
+
+(4) A határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítását és a támogatásközvetítési feladatok ellátásának összehangolását az Alapkezelő végzi.
 
 (5)
 
-9/A. § Az Alap kezelő szervének vezetője, illetve az Alap kezelő szervével munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
+9/A. § Az Alapkezelő vezérigazgatója, illetve az Alapkezelővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
 
 - a) politikai párt, vagy közvetlen politikai tevékenységet folytató szervezet tisztségviselője;
 - b) a MÁÉRT tagja, vagy annak közeli hozzátartozója;
 - c) a Kollégium elnöke, tagja, vagy azok közeli hozzátartozója;
 - d) a Bizottság tagja, vagy annak közeli hozzátartozója;
 - e) az Alapból támogatásban részesülő természetes személy, vagy annak közeli hozzátartozója;
-- f) a kezelő szervet ide nem értve, az Alapból támogatásban részesülő szervezet képviselője vagy annak közeli hozzátartozója.
+- f) az Alapkezelőt, valamint a 9. § (3) bekezdése szerinti jogi személyt, szervezetet ide nem értve, az Alapból támogatásban részesülő szervezet képviselője vagy annak közeli hozzátartozója.
 
-9/B. § (1) Az Alap kezelő szerve végzi az önkormányzatok, valamint a civil szervezetek közötti határon átnyúló magyar–magyar kapcsolatok regisztrációját és nyilvántartását.
+9/B. § (1) Az Alapkezelő végzi az önkormányzatok, valamint a civil szervezetek közötti határon átnyúló magyar–magyar kapcsolatok regisztrációját és nyilvántartását.
 
-(2) Az Alap feladatának teljesítése és céljainak elérése érdekében az Alap kezelő szerve az Alapból támogatásban részesülő kedvezményezettekről – a hozzájárulásuk alapján – nyilvántartást vezet, és azt a személyes adatok védelmére vonatkozó törvényi szabályok szerint kezeli.
+(2)
+
+9/C. § Az Alapkezelő ellátja a jogszabályban meghatározott elkülönített állami pénzalap és a jogszabályban meghatározott fejezeti kezelésű előirányzat, központi kezelésű előirányzat kezelésével és az azokból nyújtott támogatások lebonyolításával kapcsolatos egyes feladatokat.
+
+9/D. § Az Alapkezelő a Kormány rendeletében vagy nyilvános határozatában meghatározott nemzetpolitikai céllal összefüggésben jogosult ingatlan tulajdonjogát megszerezni, azt fenntartani, üzemeltetni, valamint az állam tulajdonában álló ingatlan tekintetében vagyonkezelői vagy használati jogot gyakorolni.
 
 #### 5. Az Alap működése
 
-10. § (1) A támogatások nyilvános pályázat vagy egyedi kérelem benyújtása keretében nyerhetők el. A Bizottság, figyelembe véve a MÁÉRT által az Alappal kapcsolatban meghozott elvi iránymutatásokat, a központi költségvetésről szóló törvény elfogadását követő két hónapon belül szakmai irányelvek szerint meghatározza a pályázati keretek között nyújtandó összeget. A fennmaradó támogatásrész a Bizottság egységes elvek alapján meghatározott támogatási döntései alapján nyerhető el.
+10. § (1) A támogatások nyilvános pályázat vagy egyedi kérelem alapján nyerhetők el. A Bizottság, figyelembe véve a MÁÉRT által az Alappal kapcsolatban meghozott elvi iránymutatásokat, a központi költségvetésről szóló törvény elfogadását követő két hónapon belül szakmai irányelvek szerint meghatározza a pályázati keretek között nyújtandó összeget. A fennmaradó támogatásrész a Bizottság egységes elvek alapján meghatározott támogatási döntései alapján nyerhető el.
 
-(2) A pályázati felhívásokat a 11. § (2) bekezdése szerinti internetes honlapon és egy országos napilapban közzé kell tenni.
+(2) A pályázati felhívásokat a 11. § (2) bekezdése szerinti internetes honlapon közzé kell tenni.
 
 (3) Az Alap terhére támogatás vissza nem térítendő, illetve részben vagy egészben visszatérítendő formában nyújtható, amiről a támogatást megállapító határozatban kell rendelkezni.
 
-(4) A támogatási rendszer egészének koordinálása, szabályszerű működése és nyilvánossága céljából a bevételekről, a támogatás iránt benyújtott pályázatokról és egyedi kérelmekről, a Bizottság Alappal kapcsolatos döntéseiről, a kiadásokról központi nyilvántartást kell vezetni.
+(4) Az Alap 1. § (1) bekezdésében meghatározott céljainak elérése, továbbá a támogatási rendszer egészének koordinálása és szabályszerű működése érdekében az Alapkezelő az Alapból támogatásban részesülő kedvezményezettekről, a támogatás iránt benyújtott pályázatokról és egyedi kérelmekről, a bevételekről és kiadásokról, valamint a Bizottság Alappal kapcsolatos döntéseiről nyilvántartást vezet, és azt a személyes adatok védelmére vonatkozó jogszabályok és európai uniós jogi aktusok szerint kezeli.
 
 (5) A nemzetpolitikáért felelős miniszter szükség szerint, de legalább évente egyszer, május 31-ig tájékoztatja a Kormányt, a Kormány ezt követően beszámol az Országgyűlésnek az Alap előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót az Alap honlapján nyilvánosságra kell hozni.
 
 11. § (1) A Kollégium ülései nyilvánosak, de a Kollégium zárt ülés tartását is elhatározhatja. A zárt ülésről készült jegyzőkönyvet is nyilvánosságra kell hozni.
 
-(2) Az Alap működésének nyilvánosságát az Alap internetes honlapja (a továbbiakban: honlap) is biztosítja. A honlapon közzé kell tenni a Bizottság Alappal kapcsolatos döntéseit, azok meghozatalától (elfogadásától) számított 15 napon belül. A honlapon hozzáférhetővé kell tenni továbbá az Alap működésével kapcsolatos legfontosabb jogszabályokat, az Alap és kezelő szervének működésére vonatkozó valamennyi rendelkezést, valamint a Bizottság és a Kollégium tagjainak nevét. A döntések nyilvánosságra hozataláról a Bizottság az Alap kezelő szerve útján gondoskodik.
+(2) Az Alap működésének nyilvánosságát az Alap – Alapkezelő által működtetett – internetes honlapja (a továbbiakban: honlap) is biztosítja. A honlapon közzé kell tenni
 
-11/A. § (1) A Bizottság – különös méltánylást érdemlő esetekben – eltekinthet a szerződésben rögzítettektől eltérően felhasznált támogatás visszafizetésével kapcsolatos kamat felszámításától, illetve dönthet a már megállapított kamat részben vagy egészben történő elengedéséről, kivéve, ha a támogatást gazdasági tevékenységhez kapták vagy használták fel.
+- a) a Bizottság Alappal kapcsolatos döntéseit, azok meghozatalától számított 15 napon belül,
+- b) az Alap működésére vonatkozó valamennyi jogszabályt, belső szabályozó eszközt és egyéb rendelkezést,
+- c) a Bizottság és a Kollégium tagjainak nevét.
 
-(2) A kamat felszámításának mellőzése, továbbá a kamat mérséklése és elengedése szempontjából különös méltánylást érdemlő esetként a Bizottság a következő tényezőket veszi figyelembe:
+11/A. § (1) A Bizottság – különös méltánylást érdemlő esetben – eltekinthet az ügyleti, illetve késedelmi kamat felszámításától, illetve dönthet a már megállapított kamat részben vagy egészben történő elengedéséről, kivéve, ha a támogatást gazdaságfejlesztési célra kapták vagy használták fel.
+
+(2) A kamat (1) bekezdés szerinti felszámításának mellőzése, továbbá a kamat mérséklése és elengedése szempontjából különös méltánylást érdemlő esetként a Bizottság a következő tényezőket veszi figyelembe:
 
 - a) természetes személy támogatott esetében a különösen kedvezőtlen szociális helyzetet, valamint azt, hogy a támogatás kamattal történő visszafizetése a kötelezett és a vele egy háztartásban élők megélhetését súlyosan veszélyeztetné,
 - b) nem természetes személy támogatott esetén azt, hogy a támogatás kamattal növelt összegben való visszafizetése a támogatott a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében kifejtett tevékenységét veszélyeztetné.
@@ -187,12 +200,12 @@ a következő törvényt alkotja:
 
 17. § A Bethlen Gábor Alap a Szülőföld Alap általános jogutódja.
 
-18. § (1) Felhatalmazást kap a Kormány arra, hogy
+18. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 - a) az Alap működésének, forrásai kezelésének és felhasználásának részletes szabályait, a nyújtható támogatások rendező elveit, valamint a támogatási szerződés kötelező tartalmi elemeit, a vezetendő nyilvántartások tartalmát,
-- b) az e törvény szerinti vállalkozások fejlesztési és más támogatásának céljait, feltételeit,
+- b) az e törvény szerinti vállalkozásfejlesztési és más támogatások részletes céljait, feltételeit,
 - c) az e törvény alapján nyújtott, az Európai Unió működéséről szóló szerződés 107. cikke szerint állami támogatásnak minősülő támogatások uniós joggal való összeegyeztethetőségét biztosító szabályokat,
-- d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alap kezelő szervének működésére és felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
+- d) az Alappal való rendelkezésre, a Kollégium feladataira és működésére, az Alapkezelő feladataira, működésére és szakmai felügyeletére, valamint az Alapból nyújtott támogatások nyilvántartására vonatkozó részletes szabályokat,
 - e)
 
 (2)
@@ -202,3 +215,63 @@ a következő törvényt alkotja:
 20. § A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosításáról szóló 2012. évi CC. törvénnyel (a továbbiakban: Mód.tv.) megállapított 11/A. §-t a Mód.tv. hatálybalépését megelőzően benyújtott nyilvános pályázatok és egyedi kérelmek alapján megkötött támogatási szerződések alapján nyújtott támogatások a Mód.tv. hatálybalépését követő visszakövetelése esetén felszámítandó kamat esetén is alkalmazni kell.
 
 21. § A Mód.tv. által megállapított 7. § (1) bekezdés g) pontját, illetve 7. § (2) bekezdés c) pontját a Mód.tv. hatálybalépését megelőzően a Kollégium elnökévé, illetve tagjává kinevezett személyek esetén is alkalmazni kell.
+
+22. § (1) Az Emberi Erőforrás Támogatáskezelő (a továbbiakban: EMET) által 2018. augusztus 31-én az egyházakkal való kapcsolattartás koordinációjáért és – a Kormány rendeletében meghatározott kivétellel – a nemzetiségpolitikáért felelős miniszter feladat- és hatáskörével összefüggésben végzett feladatokat 2018. szeptember 1-jétől az Alapkezelő látja el.
+
+(2) A feladatok átadás-átvétele az EMET-tel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással az Alapkezelővel szemben szerződésszegésre alapított igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
+
+(3) Az Alapkezelő az (1) bekezdés szerinti feladatokkal összefüggő jogviszonyok vonatkozásában jogosult
+
+- a) eljárni a jogtalanul igénybe vett vagy visszafizetésre meghatározott összegek beszedése érdekében,
+- b) belépni a folyamatban lévő peres és nemperes eljárásokba.
+
+(4) Az (1) bekezdésben meghatározott feladatokhoz kapcsolódó támogatási jogviszonyokban, valamint az ahhoz kapcsolódó biztosítéki szerződésekben, részletfizetési megállapodásokban 2018. szeptember 1-jétől az Alapkezelő az EMET jogutódja.
+
+23. § Az átadás-átvétel kiterjed különösen
+
+- a) a feladatok ellátásához használt ingó eszközállományra, az azokkal kapcsolatos jogokra és kötelezettségekre, valamint egyéb vagyoni jogokra és kötelezettségekre,
+- b) a feladatokat ellátó kormánytisztviselők, kormányzati ügykezelők, illetve munkavállalók feletti munkáltatói jogok gyakorlására és kötelezettségek teljesítésére, valamint kormányzati szolgálati jogviszonyukra, munkaviszonyukra,
+- c) a feladatok ellátását biztosító működési jellegű előirányzatok átcsoportosításának rendjére.
+
+24. § (1) Az átadás-átvétellel érintett feladatokat és az azokhoz kapcsolódó egyes segítő, támogató feladatokat ellátó foglalkoztatottak tekintetében a munkáltató 2018. szeptember 1-jétől az Alapkezelő, a munkáltatói jogok gyakorlója és a kötelezettségek teljesítője az Alapkezelő vezérigazgatója.
+
+(2) Az (1) bekezdés szerinti munkáltató személyében bekövetkező változás alapján a 2018. augusztus 31. napján
+
+- a) az EMET-nél fennálló, jogutódlással érintett kormányzati szolgálati jogviszony az Alapkezelővel fennálló munkaviszonnyá alakul át 2018. szeptember 1. napjával,
+- b) az EMET-nél fennálló, jogutódlással érintett munkaviszony az Alapkezelővel fennálló munkaviszonyként folytatódik 2018. szeptember 1. napjától.
+
+(3) A munkáltató személyében bekövetkező változás a foglalkoztatásra irányuló jogviszony időtartamának határozatlan vagy határozott idős, valamint a munkaidő teljes vagy részmunkaidős jellegén nem változtat.
+
+(4) Ha a munkáltató személyében bekövetkező változással érintett foglalkoztatásra irányuló jogviszony létesítésekor kikötött próbaidő időtartama 2018. augusztus 31. napjáig nem telik le, a próbaidő a jogviszony létesítésekor kikötött időtartamig áll fenn.
+
+(5) A munkáltató személyében bekövetkező változással érintett, az Alapkezelőnél továbbfoglalkoztatott személyek munkáltatói kölcsönei vonatkozásában az Alapkezelő az EMET jogutódja.
+
+(6) Az (1) bekezdésben meghatározott személyek tekintetében az Alapkezelő az állami adó- és vámhatóság felé fennálló, a munkáltató vagy kifizető által foglalkoztatott biztosítottak adataira vonatkozó jelentéstételi és változásbejelentési kötelezettségének 2018. szeptember 15-éig tehet eleget.
+
+(7) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 72. § (3) bekezdésében foglaltakat kell alkalmazni, ha az (1) bekezdés szerinti foglalkoztatott tekintetében a 9/A. § szerinti összeférhetetlenségi ok áll fenn.
+
+(8) Az (1)–(7) bekezdésben külön nem szabályozott kérdésekben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 72. §-ában foglaltakat kell alkalmazni.
+
+25. § (1) A 2018. augusztus 31-én folyamatban lévő, az átadás-átvétellel érintett feladatok ellátása érdekében indított közbeszerzési eljárásokban az EMET – mint ajánlatkérő – helyébe 2018. szeptember 1-jétől az Alapkezelő lép.
+
+(2) Az átadás-átvétellel érintett feladatok ellátásával összefüggő, az EMET javára kiadott, hatályban lévő hatósági engedélyek jogosultjának 2018. szeptember 1-jétől az Alapkezelő minősül. A hatósági engedélyek ennek megfelelő módosítását az Alapkezelő kezdeményezi.
+
+26. § (1) Az átadás-átvétellel érintett feladatokhoz használt tárgyi eszközökkel – ideértve az informatikai-telekommunikációs eszközöket is – kapcsolatos vagyonkezelői jogok és kötelezettségek jogosultja és kötelezettje 2018. szeptember 1-jétől az Alapkezelő.
+
+(2) A feladatok ellátásához szükséges vagyonelemeket az EMET az Alapkezelő részére köteles 2018. szeptember 1-jével átadni azzal, hogy az átadott vagyonelemek átadás napja szerinti állapotáról az EMET és az Alapkezelő mennyiségi és értékbeni leltárt vesz fel, és az Alapkezelő azt 2018. szeptember 30-éig a tulajdonosi joggyakorló részére megküldi. A leltár megküldését követően az Alapkezelő és a tulajdonosi joggyakorló az átvett vagyonra vonatkozó vagyonkezelési szerződést módosítja. Az EMET a könyvviteli, nyilvántartási számlái és részletező nyilvántartásai lezárása nélkül, a folyamatos könyvelés keretében a könyveiből 2018. augusztus 31. napjával kivezeti az átadott vagyonelemeket, és azokat a tulajdonosi joggyakorló ugyanezen napi állapotnak megfelelő értéken könyveiben nyilvántartásba veszi.
+
+27. § (1) Az EMET és az Alapkezelő átadás-átvételi eljárást folytat le. Az átadás-átvételi eljárás levezetője az Alapkezelő. Az átadás-átvételről jegyzőkönyvet kell felvenni, amelyben
+
+- a) tételesen meg kell határozni az átadás-átvétellel érintett feladatokat, feladatcsoportokat,
+- b) rendelkezni kell az átadás-átvétellel érintett feladatokhoz, feladatcsoportokhoz kapcsolódó szerződések, okiratok, szabályzatok és más dokumentumok eredeti és hiteles másolati példányainak átadásáról,
+- c) meg kell határozni a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 3. § (3) bekezdése és 72. § (1) és (10) bekezdése alapján az Alapkezelőhöz kerülő szakmai és az ahhoz kapcsolódó létszámarányos funkcionális létszámkeretet, a munkáltató személyében bekövetkező változással érintett személyek körét és személyi anyaguk átadás-átvételének módját és időpontját,
+- d) meg kell határozni az EMET elemi költségvetése módosított előirányzatainak az átadás-átvétellel érintett időarányos részét,
+- e) meg kell határozni az átadás-átvétellel érintett feladatok, feladatcsoportok végrehajtásához használt, leltári számon vagy más egyedi azonosító számon nyilvántartott ingó vagyon (így különösen informatikai, multifunkcionális tárgyi eszköz, gépjármű) és vagyoni értékű jog körét és átadásának napját.
+
+(2) Az (1) bekezdés szerinti átadás-átvételt, illetve a jegyzőkönyv elkészítését legkésőbb 2018. szeptember 15-éig végre kell hajtani. A jegyzőkönyv aláírására az érintett szervezetek vezetői jogosultak.
+
+(3) Az (1) bekezdés szerinti jegyzőkönyv felvétele mellett az EMET vezetője vagy általa meghatalmazott személy adja át az átadás-átvétellel érintett feladathoz kapcsolódóan az EMET, illetve általa ellátott és 2018. augusztus 31-én folyamatban lévő ügyeket az Alapkezelő vezérigazgatójának vagy az általa meghatalmazott személynek.
+
+(4) Az (1)–(3) bekezdésben meghatározott átadás-átvétel keretében az EMET tájékoztatást nyújt mindazon tényekről, átadja mindazon okiratokat az Alapkezelőnek, amelyek 2018. szeptember 1-jétől az Alapkezelőt megillető jogok és az Alapkezelőt terhelő kötelezettségek gyakorlásához, illetve érvényesítéséhez szükségesek.
+
+(5) Az (1)–(3) bekezdésben meghatározott átadás-átvétel keretében az EMET átadja az őrzésében lévő, a 24. § szerinti, 2018. augusztus 31-én az EMET által foglalkoztatott személyekre vonatkozó személyi anyagokat, vagyonnyilatkozatokat és a törvényben meghatározott nemzetbiztonsági ellenőrzés alapján készített szakvéleményeket.

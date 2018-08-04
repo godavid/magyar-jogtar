@@ -1,0 +1,440 @@
+# 2018. évi XLIX. törvény
+
+a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról
+
+Annak érdekében, hogy a központi költségvetési forrásból és európai uniós támogatásból finanszírozott, Budapesten, illetve az agglomerációban nem önkormányzati hatáskörben megvalósuló, állami-kormányzati kiemelt jelentőségű városépítészeti, ingatlan- és közlekedési infrastruktúra fejlesztések előkészítése gyorsabb, hatékonyabb és egységes eljárási rendben, a rendelkezésre álló források hatékonyabb felhasználásával történjék, valamint Magyarország kiemelt nemzetközi sportesemények házigazdája legyen magas színvonalú rendezés mellett,különös figyelemmel Budapestnek a nemzetgazdaságban és általában az ország életében betöltött kiemelkedő szerepére,a Budai Várnegyed, illetve annak részeként a Palotanegyed nemzet történelmében és emlékezetében betöltött kiemelkedő szerepének tudatában, a Budai Palotanegyed minőségi és egységes szempontú megújításának, fenntartható fejlesztésének érdekében, az egyedülálló építészeti, kulturális és történelmi értékek megóvását, valamint méltó bemutatását biztosítva,az Országgyűlés a következő törvényt alkotja:
+
+### I. Fejezet — A KIEMELT BUDAPESTI FEJLESZTÉSEK ÁLTALÁNOS SZABÁLYAI
+
+#### 1. Értelmező rendelkezések
+
+1. § E törvény alkalmazásában:
+
+- 1. agglomeráció: a Budapesti Agglomeráció Területrendezési Tervéről szóló törvény szerinti Budapesti Agglomerációhoz tartozó települések;
+- 2. Budapest Diákváros – Déli Városkapu Fejlesztési Program: a Kormány által rendeletben meghatározott területen megvalósuló, diákotthoni elhelyezést biztosító, szabadidős, közpark, sport, rekreációs és egyéb infrastrukturális és kiegészítő funkciót magában foglaló komplex városfejlesztés, amelynek részét képezik az 1. mellékletben meghatározott létesítményfejlesztési projektek;
+- 3. kiemelt budapesti fejlesztés: az államháztartás központi alrendszeréből, illetve az európai uniós forrásból finanszírozott, központi költségvetési szervek vagy 100%-ban közvetlen vagy közvetett állami tulajdonban álló gazdasági társaságok által Budapesten megvalósítandó azon közterület-, köztér-, illetve magasépítési ingatlanfejlesztések, valamint Budapesten, illetve az agglomerációban megvalósuló azon vonalas közlekedési infrastruktúrafejlesztések, amelyet a Kormány rendeletében kiemelt budapesti fejlesztéssé nyilvánított;
+- 4. kiemelt nemzetközi sportesemény: a Budapesten megvalósuló, kiemelt jelentőségű nemzetközi vagy nemzetközi érdeklődésre számot tartó, esetileg vagy ismétlődő jelleggel, részben vagy egészben központi költségvetési forrásból vagy egyéb állami támogatással lebonyolított sportesemények, különösen az olimpiai sportágak felnőtt Európa- és világbajnokságai, egyéb világversenyek, valamint a nemzetközi sportvilág ernyőszervezeteinek, a Nemzetközi Olimpiai Bizottságnak, a Nemzeti Olimpiai Bizottságok Szövetségének (ANOC), a nemzetközi sportági szakszövetségek közgyűlésének (GAISF), a téli és nyári olimpiai sportágak nemzetközi szövetségeinek (ASOIF, AIOWF), a SportAccord szövetségnek az éves eseményei és jelentős fórumai.
+
+#### 2. A kiemelt budapesti fejlesztésekkel kapcsolatos egyes állami feladatok
+
+2. § (1) A kiemelt budapesti fejlesztésekkel összefüggésben az állam feladata különösen
+
+- a) a kiemelt budapesti fejlesztések előkészítése, ezen belül a kormányzati döntéselőkészítés, a beruházás előkészítése, a tervezési program összeállítása, a terveztetés és az engedélyeztetés,
+- b) Budapest fejlesztésével összefüggésben a kiemelt nemzetközi sportesemények rendezési jogának megszerzésére irányuló pályázattal és szerződéskötéssel összefüggő feladatok ellátása.
+
+(2) A kiemelt budapesti fejlesztések előkészítése során e törvény rendelkezései szerint kell eljárni.
+
+(3) Az (1) bekezdésben meghatározott feladatok ellátása kiemelkedően fontos közérdekű tevékenység. Az (1) bekezdésben meghatározott feladatok ellátása, valamint a kiemelt budapesti fejlesztések keretében megvalósuló beruházási, felújítási, létesítmény-fejlesztési tevékenység ellátása közfeladatnak minősül.
+
+3. § (1) A Kormány a 2. § (1) bekezdésében meghatározott feladatokat az e feladatok ellátására létrehozott, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság (a továbbiakban: Társaság) útján látja el. A Társaság által ellátandó feladatokat, valamint az érintett szervezetek közötti együttműködés rendjét a Kormány rendeletben határozza meg.
+
+(2) A Társaság, illetve a kiemelt budapesti fejlesztések tekintetében építtetőként eljáró személy teljes személyes költség-, illeték- és igazgatási szolgáltatási díjmentességben részesül.
+
+4. § (1) A kiemelt budapesti fejlesztésekkel, valamint a kiemelt nemzetközi sporteseményekkel kapcsolatos feladatok ellátására a Kormány által – rendeletben vagy határozatban – kijelölt személy vagy szerv bármely hatóságtól, közigazgatási szervtől, közműszolgáltató, közműnyilvántartó és energiaszolgáltató társaságtól, az építtetőtől, egyéb állami tulajdonban álló társaságtól, a kiemelt budapesti fejlesztések megvalósításában közreműködő bármely szervezettől, továbbá Budapest Főváros Önkormányzatától, valamint egyéb érintett helyi önkormányzattól (a továbbiakban együtt: érintett szerv) a beruházással, illetve a kiemelt nemzetközi sporteseménnyel összefüggő ügyben tájékoztatást kérhet, illetve az érintett szerv részére intézkedés megtételét javasolhatja.
+
+(2) A tájékoztatáskérésre az érintett szerv tizenöt napon belül köteles érdemi választ adni. Ha az érintett szerv az intézkedési javaslattal nem ért egyet, akkor az érintett szerv első számú vezetője – önkormányzat esetén a főpolgármester, illetve a polgármester – részletes indokolással ellátott nyilatkozatban közli álláspontját az intézkedési javaslat kézhezvételétől számított tizenöt napon belül.
+
+(3) Ha az érintett szerv irányítását vagy felügyeletét valamely miniszter látja el, akkor az érintett szerv vezetője és az irányítást, illetve felügyeletet ellátó miniszter együttes, részletes indokolással ellátott nyilatkozatban közli álláspontját az intézkedési javaslat kézhezvételétől számított tizenöt napon belül.
+
+#### 3. A kiemelt budapesti fejlesztések előkészítése
+
+5. § (1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a vagyonkezelésében lévő ingatlanon a vagyonkezelési jog alapján beruházási és felújítási tevékenységet is végezhet.
+
+(2) Az (1) bekezdésben megjelölt beruházás során az építtető az állam nevében és javára jár el, a beruházás során létrehozott vagyon az állam tulajdonába kerül.
+
+(3) Amennyiben az (1) bekezdés szerinti beruházás nem az állam tulajdonában álló ingatlanon valósul meg, úgy az építtető köteles az ingatlan tulajdonosával a beruházási szerződés keretei között rendezni a beruházás eredményeképpen létrejövő vagyon vonatkozásában a tulajdoni hányadok megállapításának módját.
+
+6. § (1) Azokban az esetekben, amelyekben a kiemelt budapesti fejlesztések előkészítésével összefüggő feladatokat – ideértve a terveztetést és az engedélyeztetést is – a Társaság látja el, azonban az adott létesítmény kivitelezése tekintetében építtetőként nem a Társaság kerül kijelölésre, a kijelölt építtető a beruházás előkészítése keretében már megkötött szerződésekben – ideértve különösen, de nem kizárólag a tanácsadói, lebonyolítói, műszaki ellenőri, tervezési és egyéb szakértői szerződéseket – szerződés-átruházás útján a Társaság helyébe lép és a hatósági engedélyeket szintén át kell ruházni a kijelölt építtetőre. A szerződés-átruházás a Társaság és a kijelölt építtető közötti megállapodás útján történik, és az ilyen szerződés-átruházáshoz a szerződésben részes harmadik fél hozzájárulása nem szükséges, őt a szerződés átruházásról értesíteni kell. A hatósági engedélyek átruházására, illetve a jogutódlás tudomásulvételére a Társaság bejelentése alapján kerül sor.
+
+(2) Azon kiemelt budapesti fejlesztések esetében továbbá, amelyekben az adott létesítmény kivitelezése tekintetében építtetőként nem a Társaság kerül kijelölésre, a Társaság egyoldalúan jogosult az általa elkészíttetett tervekre vonatkozó felhasználási engedélyt, illetve a felhasználási szerződést a kijelölt építtetőre átruházni. Az ilyen átruházáshoz a tervező mint szerző hozzájárulása nem szükséges, de a Társaság a felhasználási engedély, illetve a szerződés átruházásáról értesíti a szerzőt.
+
+(3) A szerződés átruházása esetén az átvevő személyt további közbeszerzési kötelezettség nem terheli, és a tervek felhasználási jogának átruházása esetén az átvevő személyt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
+
+### II. Fejezet — A BUDAPEST DIÁKVÁROS – DÉLI VÁROSKAPU FEJLESZTÉSI PROGRAM
+
+#### 4. A Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósítása
+
+7. § (1) A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások e törvény erejénél fogva – a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) szerinti – kiemelten közérdekű beruházásnak, valamint kiemelt budapesti fejlesztésnek minősülnek.
+
+(2) A Budapest Diákváros – Déli Városkapu Fejlesztési Program tekintetében az I. Fejezetben foglalt rendelkezéseket, valamint az Ngtv. szerinti kiemelten közérdekű beruházásra vonatkozó szabályokat az e törvényben és a felhatalmazása alapján kiadott kormányrendeletekben meghatározott eltérésekkel kell alkalmazni. A Budapest Diákváros – Déli Városkapu Fejlesztési Program helyszínét, illetve szükség szerint közvetlen környezetét jelentő ingatlanok körét a Kormány rendeletben jelöli ki.
+
+8. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében a kivitelezés tekintetében az építtetőt a Kormány jelöli ki azzal, hogy építtetőként az egyes létesítmény-fejlesztési projektek tekintetében eltérő személyek is kijelölhetők.
+
+9. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházással érintett állami tulajdonú, illetve állami tulajdonba kerülő ingatlanokat a kivitelezés tekintetében a 8. § szerint kijelölt építtető vagyonkezelésébe kell adni. A vagyonkezelési szerződést az érintett ingatlanon történő kivitelezési tevékenység megkezdéséig, a munkaterület vállalkozó kivitelező részére történő átadásáig kell megkötni és az ingatlant eddig az időpontig kell a vagyonkezelő birtokába adni.
+
+#### 5. A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló építési tevékenység egyes szabályai
+
+10. § (1) A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások helyszíneként kijelölt ingatlanok tekintetében árvízvédelmi mű megvalósítása nem képezi az ingatlanokon a létesítendő épületre vonatkozó építési engedély kiadásának feltételét.
+
+(2) Az (1) bekezdés szerinti ingatlanokon létesítendő épületre vonatkozó építési engedély kiadása során árvízvédelmi szempontokat nem kell figyelembe venni, és az építési engedély kiadása árvízvédelemmel összefüggő ok miatt nem tagadható meg. A használatbavételi engedély feltétele a fejlesztési területen megvalósított, a mértékadó árvízszintre vonatkozó jogszabályban meghatározott biztonsági követelményeknek megfelelő árvízvédelmi mű sikeres műszaki átadás-átvételi eljárásának lefolytatása.
+
+(3) A Budapest Diákváros – Déli Városkapu Fejlesztési Program fejlesztési területét érintő árvízvédelmi műveknek – a Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások részeként történő – elkészültét követően, a fejlesztési terület árvízvédelméért felelős szervei intézkednek az árvízvédelmi vonalnak az árvízvédelmi mű megvalósításának tárgyát képező ingatlanokra történő áthelyezéséről. Az elkészült árvízvédelmi műveket az árvízi védekezésért felelős szervek részére ingyenesen tulajdonba vagy határozatlan időre a vagyonkezelésébe vagy a versenyeztetés mellőzésével ingyenesen üzemeltetésbe kell adni. Az árvízvédelmi mű árvízvédelmi fal vagy mobil árvízvédelmi rendszer formájában is létesíthető.
+
+(4) Az (1) bekezdés szerinti árvízvédelmi mű elkészültéig és az árvízvédelmi vonal (3) bekezdés szerinti áthelyezéséig árvíz esetén az árvízi védekezésért felelős személy a 2. mellékletben meghatározott terület vonalán védekezik. Az árvízi védekezés és helyreállítás összes költségét – az árhullám levonulását követő 90 napon belül – védekezési költség címén az árvízi védekezésért felelős személy részére meg kell téríteni. A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások tekintetében a folyók nagyvízi medrének használatára vonatkozó jogszabályi előírások és korlátozások nem alkalmazandók.
+
+11. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházásokkal összefüggő, közműszakasz bontására, kiváltására vagy fejlesztésére irányuló munkákat az Ngtv. 11/F. § (2)–(7) bekezdésében foglaltak alapján kell elvégezni és elszámolni.
+
+#### 6. A Budapest Diákváros – Déli Városkapu Fejlesztési Programmal összefüggő kisajátítások sajátos szabályai
+
+12. § (1) A Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításához szükséges, a Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások helyszíneként kijelölt ingatlanok állam javára polgári jogi úton való megszerzése sikertelenségét követően indult kisajátítási eljárásban a kisajátításról szóló 2007. évi CXXIII. törvény (a továbbiakban: Kstv.) rendelkezéseit a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+
+(2) Az ingatlan kisajátítására a Kstv.-nek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházásra vonatkozó szabályait kell alkalmazni.
+
+(3) Az ingatlanok tekintetében a Kstv. 4. § (1) bekezdés c) pontjában foglalt feltételeknek való megfelelést – az adott, illetve a más ingatlanon való megvalósításra vonatkozó feltétel kivételével – nem kell vizsgálni.
+
+### III. Fejezet — A BUDAI PALOTANEGYED MEGÚJÍTÁSA ÉS EGYSÉGES KEZELÉSE
+
+#### 7. A Budai Palotanegyeddel kapcsolatos közfeladatok
+
+13. § E törvény alkalmazása tekintetében a Budai Palotanegyeden a Kormány által e törvény felhatalmazása alapján kiadott rendeletében Budai Palotanegyed területébe tartozó ingatlanként meghatározott, a Budapest I. kerületben elhelyezkedő,
+
+- a) a Dísz tér 1–2. szám alatti ingatlant,
+- b) a Dísz tértől délre, a várfalon belül elhelyezkedő ingatlanokat, valamint
+- c) a várfalon túl, a várfal mellett elhelyezkedő, a Palota út–Váralja utca–Apród utca–Ybl Miklós tér–Lánchíd utca–Sikló utca–Hunyadi János út és Dísz tér által lehatárolt állami és önkormányzati tulajdonú ingatlanokat
+
+kell érteni.
+
+14. § (1) Magyarország kivételes és egyedi kulturális örökségeként, valamint a magyar nemzet történelmében és emlékezetében betöltött kiemelkedő helyszíneként a Budai Palotanegyed védelmét és fennmaradását szolgáló, annak méltóságát biztosító, értékőrző és fejlesztési célú használata és fenntartása közérdek, amelynek biztosítása – összhangban a világörökségről és a kulturális örökség védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségekkel – az állami és önkormányzati szervek, az egyházi jogi személyek, a civil és egyéb szervezetek, valamint a természetes személyek együttműködésével valósul meg.
+
+(2) A Budai Palotanegyed területét annak világörökségi, műemléki, történeti és nemzeti értékeit megőrizve, a Budai Palotanegyed – mint a Várnegyed nemzeti emlékhely részét képező ingatlanokat magában foglaló terület – méltóságát biztosítva, az (1) bekezdés szerinti közérdeket érvényesítve kell használni, fenntartani, bemutatni, hozzáférhetővé tenni, valamint fenntartható módon, történelmileg hiteles és egységes városképi arculatnak megfelelően fejleszteni, szükség esetén helyreállítani.
+
+(3) Az (1) és (2) bekezdésben foglalt közérdek és célok érvényesítése érdekében a Budai Palotanegyed értékmegőrző és méltó használatának, fenntartásának és bemutatásának, fenntartható fejlesztésének, valamint tervszerű és egységes szemléletű helyreállításának biztosítása kiemelt jelentőségű közfeladat, amelyet állami feladatként az e törvényben meghatározott szervek látnak el.
+
+15. § A 14. § (3) bekezdése alapján az állam által ellátandó közfeladatként
+
+- a) a Kormány Várnegyed rehabilitációs programot valósít meg, amely keretében a Budai Palotanegyed területén található ingatlanokon értékmegőrző, valamint értékteremtő fejlesztéseket és beruházásokat kell elvégezni,
+- b) a Kormány biztosítja – a világörökségre, valamint a kulturális örökség védelmére vonatkozó előírásokkal összhangban – az egységes településképi és építészeti követelmények érvényesítését, amely érdekében a Kormány rendeletben állapíthatja meg az egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat,
+- c) a Kormány rendeletben határozza meg a Budai Palotanegyed területe tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
+- d) a Budai Palotanegyedben található, a 3. és 4. mellékletben felsorolt közterületek fenntartása, fejlesztése és üzemeltetése körében a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztését és karbantartását az állam a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság útján, az erre a célra nevesített támogatások biztosítása mellett látja el.
+
+16. § (1) A Budai Palotanegyed területére vonatkozó települési önkormányzati településrendezési eszközöket, településképi rendeletet, valamint egyéb önkormányzati rendeletet a 15. § b) pontja szerinti kormányrendeletben meghatározott eltérésekkel kell alkalmazni. Amennyiben a településrendezési eszköz, településképi rendelet vagy egyéb önkormányzati rendelet a 15. § b) pontja alapján megalkotott kormányrendelettel ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor azt nem lehet alkalmazni, helyette a 15. § b) pontja szerinti kormányrendeletben foglaltakat kell alkalmazni.
+
+(2) A 15. § c) pontja szerinti kormányrendelet hatálybalépését követően a Budai Palotanegyed területe vonatkozásában a Budapest Főváros Önkormányzata, valamint a Budapest Főváros I. kerület Budavári Önkormányzat által elfogadott azonos tárgykörű rendeleteket – a kormányrendelet eltérő rendelkezésének hiányában – nem lehet alkalmazni.
+
+#### 8. A Budai Palotanegyeddel kapcsolatos különös vagyonkezelési szabályok
+
+17. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdése alapján a Budapest Főváros Önkormányzata, valamint a Budapest I. kerület Budavári Önkormányzat tulajdonában álló, a 3. mellékletben felsorolt ingatlanok a 14. § (3) bekezdése és 15. § szerinti közfeladatok ellátása érdekében 2019. január 1-jével e törvény erejénél fogva ingyenesen, nyilvántartási értéken való átvezetéssel a magyar állam tulajdonába kerülnek.
+
+(2) A Budai Palotanegyedben elhelyezkedő,
+
+- a) az 4. melléklet szerinti állami tulajdonban álló ingatlanok 2019. január 1. napján,
+- b) az (1) bekezdés alapján az állam tulajdonába kerülő ingatlanok az állam tulajdonjoga ingatlan-nyilvántartásba történő bejegyzésének időpontjában
+
+e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként ingyenesen, az e törvény hatálybalépésétől számított 99. év végéig a Kormány által rendeletben kijelölt, – a 14. § (3) bekezdése és a 15. § a) és d) pontja szerinti közfeladatok megvalósításában való közreműködés céljából, valamint a vagyonkezelési feladatok ellátása érdekében alapított, 100%-os állami tulajdonban álló – gazdasági társaság (a továbbiakban: Vagyonkezelő) vagyonkezelésébe kerülnek, a kormányrendelet hatálybalépésekor esetlegesen bejegyzett vagyonkezelők (a továbbiakban: bejegyzett vagyonkezelők) vagyonkezelői jogának egyidejű megszűnésével.
+
+(3) A (2) bekezdés a) pontja szerint a Vagyonkezelő vagyonkezelésébe került ingatlanokkal kapcsolatos, 2019. január 1-jén fennálló jogviszonyok tekintetében 2019. január 1-jével a bejegyzett vagyonkezelők helyébe általános és egyetemleges jogutódként a Vagyonkezelő lép.
+
+(4) Az (1) bekezdés alapján állami tulajdonba átvett ingatlanokkal kapcsolatos, az állami tulajdonba kerülés napján fennálló jogviszonyok tekintetében 2019. január 1-jével a Budapest Főváros Önkormányzata, valamint a Budapest I. kerület Budavári Önkormányzat helyébe általános és egyetemleges jogutódként a Vagyonkezelő lép.
+
+(5) A Vagyonkezelő az állami vagyonról szóló 2007. évi CVI. törvény 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül. A Vagyonkezelő által az e törvény alapján végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
+
+(6) A Vagyonkezelő által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával, vagy beszerzésével összefüggésben a feleknek egymással szemben megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek a Vagyonkezelő – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyon-nyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
+
+(7) A Vagyonkezelőt megilletik a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdése szerinti tulajdonos jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében az építési tevékenység megvalósítása céljából a Vagyonkezelő által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
+
+(8) A Vagyonkezelőre nézve a tulajdonosi joggyakorló mindenkor hatályos vagyon-nyilvántartási és tulajdonosi ellenőrzési szabályzata külön elfogadás nélkül is kötelező. A Vagyonkezelő köteles a vagyonkezelésében álló állami vagyont – az e törvény alapján történő vagyonkezelésbe adás jogcímén – nyilvántartásba venni, és arról a Vr. szerint adatot szolgáltatni a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részére.
+
+#### 9. A Budai Palotanegyed helyreállítása és fenntartható fejlesztése
+
+18. § A Várnegyed rehabilitációs programot, valamint a Budai Palotanegyedet érintően a 14. §-ban foglalt célok és közfeladatok megvalósítását szolgáló egyéb beruházások e törvény erejénél fogva az Ngtv. szerinti kiemelten közérdekű beruházásnak minősülnek, azzal, hogy a beruházások megnevezését, helyszínét és közvetlen környezetét kormányrendelet állapítja meg.
+
+19. § (1) A Vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez, amelyekkel összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a Vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyeremény anyagok értékesítéséből származó bevétel a Vagyonkezelőt illeti meg azzal, hogy a Vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon célszerinti fenntartására fordítani.
+
+(2) A Vagyonkezelő mint építtető az (1) bekezdés szerinti beruházások vonatkozásában különösen az alábbi feladatokat látja el:
+
+- a) teljes körűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, tanulmányokat,
+- b) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban,
+- c) a saját nevére megszerzi az építési és egyéb engedélyeket,
+- d) lefolytatja a közbeszerzési eljárásokat,
+- e) megköti a megvalósításra vonatkozó építési és egyéb szerződéseket,
+- f) elvégzi a teljesítések igazolását,
+- g) gondoskodik az építési műszaki ellenőri tevékenység ellátásáról,
+- h) gondoskodik a műszaki átadás-átvétel lebonyolításáról,
+- i) a feladatok elvégzéséhez beruházás-lebonyolítót vehet igénybe.
+
+(3) A Vagyonkezelő, mint építtető az (1) bekezdés szerinti beruházások tekintetében a feladatait az állam nevében és javára eljárva látja el.
+
+(4) A Vagyonkezelő által a vagyonkezelésében lévő ingatlanon az (1) bekezdés szerinti beruházások megvalósításával összefüggő beruházási és fejlesztési, továbbá az ezekkel összefüggő beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül.
+
+### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+#### 10. Felhatalmazó rendelkezések
+
+20. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+- a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét,
+- b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, valamint az érintett szervezetek közötti együttműködés rendjét,
+- c) a Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
+- d) a Budapest Diákváros – Déli Városkapu Fejlesztési Program esetében a kivitelezés tekintetében az építtető személyét.
+
+(2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+- a) a Budai Palotanegyed területébe tartozó ingatlanok felsorolását,
+- b) a Budai Palotanegyed területére vonatkozó egyedi településképi és építési követelményeket, valamint az ezekkel összefüggő sajátos beépítési és örökségvédelmi szabályokat,
+- c) a Budai Palotanegyed tekintetében a közterületek használati rendjét, a vonatkozó közterület-használati szabályokat, a forgalomszabályozásra vonatkozó sajátos előírásokat, továbbá a közterület-használati díjakat és az ellenőrzés rendjét,
+- d) a 18. § szerinti kiemelten közérdekű beruházások megnevezését, helyszínét, illetve szükség szerint közvetlen környezetét,
+- e) a Budai Palotanegyedben található zöldfelületek és egyéb közterületek fejlesztésére és karbantartására kijelölt, a 15. § d) pontja szerinti gazdasági társaságot,
+- f) a Budai Palotanegyedben található, állami tulajdonban lévő ingatlanok vagyonkezelési feladatainak ellátására kijelölt, a 17. § (2) bekezdése szerinti gazdasági társaságot.
+
+#### 11. Hatályba léptető és átmeneti rendelkezések
+
+21. § Ez a törvény a kihirdetését követő 5. napon lép hatályba.
+
+22. § (1) A Budai Palotanegyed területén szabálytalanul megépült építményre, építményrészre fennmaradási engedély csak akkor adható, ha az az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48/A. § (1) bekezdésében foglaltakon túlmenően e törvény, valamint a végrehajtására kiadott jogszabályok előírásainak is megfelel vagy szabályossá tehető.
+
+(2) A 15. § d) pontja szerinti közfeladatot 2019. január 1-től látja el állami feladatként a Kormány által rendeletben kijelölt, 100%-os állami tulajdonban álló gazdasági társaság.
+
+(3) A 23–25. §, a 30. § és a 33. § Magyarország filmszakmai támogatási programjáról szóló SA.36579 számú határozattal meghosszabbított N 202/2008. számú és az azt módosító SA.38425 számú és SA.50768 számú európai bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
+
+#### 12. Módosító rendelkezések
+
+23. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 29/Z. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) E törvénynek a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvénnyel módosított 22. § (3) bekezdését, valamint a 24/A. § (16) bekezdését a mozgóképszakmai hatósághoz 2018. június 11-ét követően benyújtott kérelemre induló, a támogatásra jogosultság megállapítására irányuló eljárás tárgyában hozott határozatok véglegessé válását követően indult költségellenőrzési eljárásokban és támogatási igazolási eljárásokban kell alkalmazni, kivéve a Médiaszolgáltatás-támogató és Vagyonkezelő Alappal támogatási szerződést kötött filmalkotásokra vonatkozó támogatásra jogosultság megállapítására irányuló eljárásokat.”
+
+24. § A mozgóképről szóló 2004. évi II. törvény (továbbiakban: Mktv.) V. Fejezet 1. Címe a következő 36/M. §-sal egészül ki:
+
+„36/M. § (1) E törvénynek a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvénnyel módosított 31/C. § (2b) bekezdését és 31/D. § (3) bekezdését a 2018. június 11. napját követően benyújtott kérelemre indult támogatásra jogosultság megállapítása iránti eljárások tárgyában hozott határozatok véglegessé válását követően indult költségellenőrzési eljárásokban és támogatási igazolási eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvénnyel módosított 31/D. § (4) bekezdését és 31/D. § (6) bekezdését 2018. június 11. napját követően benyújtott kérelemre indult támogatásra jogosultság megállapítása iránti eljárások tárgyában hozott határozatok véglegessé válását követően indult záró elszámolásokban kell alkalmazni.
+
+(3) E törvénynek a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvénnyel módosított 31/C. § (2b) bekezdését, 31/D. § (3) bekezdését, 31/D. § (4) bekezdését és 31/D. § (6) bekezdését a Médiaszolgáltatás-támogató és Vagyonkezelő Alap által támogatott filmalkotások esetében a törvény hatálybalépését követően kötött támogatási szerződések esetében kell alkalmazni.”
+
+25. § Az Mktv. 38/C. § b) pontja helyébe a következő rendelkezés lép:
+
+(Ez a törvény)
+
+„b) a Magyarország filmszakmai támogatási programjáról szóló SA.36579 számú határozattal meghosszabbított N 202/2008. számú és az azt módosító SA.38425 számú és SA.50768 számú európai bizottsági határozat”
+
+(hatálya alá tartozó támogatást tartalmaz.)
+
+26. § Az Ngtv. a Záró rendelkezések alcímet megelőzően a következő alcímmel egészül ki:
+
+„A kiemelten közérdekű beruházásra megvalósítására vonatkozó szabályok
+
+11. § (1) Törvény vagy kormányrendelet kiemelten közérdekű beruházássá nyilváníthat közfeladat ellátásával összefüggő, kiemelten fontos közérdekű cél, így különösen
+
+a) energetikai, közlekedésfejlesztési, környezetvédelmi, vízügyi és vízvédelmi, katasztrófavédelmi, honvédelmi, nemzetbiztonsági, közigazgatási, illetve
+
+b) oktatási, egészségügyi, kutatás-fejlesztési, kulturális, örökségvédelmi, sport, városfejlesztési
+
+cél megvalósítására irányuló beruházást.
+
+(2) A Kormány csak olyan beruházást nyilváníthat kiemelten közérdekű beruházássá, amely beruházással összefüggő közigazgatási hatósági ügyeket a Kormány rendeletben nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított.
+
+(3) Amennyiben a kiemelten közérdekű beruházássá nyilvánításról
+
+a) törvény rendelkezik, a kiemelt közérdekű beruházássá nyilvánításról rendelkező törvény vagy a felhatalmazása alapján kiadott kormányrendelet,
+
+b) kormányrendelet rendelkezik, e kormányrendelet
+
+állapítja meg a kiemelten közérdekű beruházás helyszínét és közvetlen környezetét.
+
+(4) Kiemelten közérdekű beruházás megvalósításával összefüggésben e törvényt és más jogszabályokat az ezen alcímben foglalt eltérésekkel kell alkalmazni, azzal, hogy a kiemelten közérdekű beruházásra az e törvényben és más jogszabályokban a nemzetgazdasági szempontból kiemelt jelentőségű beruházásra vonatkozó rendelkezéseket is alkalmazni kell.
+
+11/A. § Kiemelten közérdekű beruházás esetén törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és megyei kormányhivatal közigazgatási hatósági eljárást folytat le.
+
+11/B. § (1) Kiemelten közérdekű beruházás esetében a Kormány rendeletben állapíthatja meg a kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozóan
+
+a) a sajátos településrendezési és beépítési szabályokat, valamint a beruházással érintett építményekre vonatkozó egyedi építési követelményeket,
+
+b) a sajátos telekalakítási követelményeket,
+
+c) az egyedi településképi követelményeket,
+
+d) az egyedi örökségvédelmi szabályokat.
+
+(2) Az (1) bekezdés a) pontja szerinti településrendezési és beépítési szabály, valamint egyedi építési követelmény az Étv. 13. § (1) bekezdésével összefüggő követelményekre, valamint az országos településrendezési és építési követelményektől, az országos tűzvédelmi szabályoktól, valamint a településrendezési eszközökben foglaltaktól való eltérő rendelkezésekre vonatkozhat.
+
+(3) Az (1) bekezdés b) pontja szerinti sajátos telekalakítási követelmény az Étv. 23. §-ában foglaltakkal összefüggésben és összhangban állapítható meg.
+
+(4) Az (1) bekezdés c) pontja szerinti egyedi településképi követelmény a településkép védelméről szóló 2016. évi LXXIV. törvény 3. §-ában meghatározott követelményekre terjedhet ki, az Étv. szerinti helyi építészeti örökség védetté nyilvánítása és a védettség megszüntetése kivételével.
+
+(5) Az (1) bekezdés d) pontja szerinti egyedi örökségvédelmi követelmény – a kulturális örökség védelmére és a világörökségre vonatkozó követelményekkel összhangban – különösen a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 63. § (4) bekezdésében foglaltakra vonatkozhat.
+
+(6) Kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozó települési önkormányzati településrendezési eszközöket, településképi rendeletet, valamint egyéb önkormányzati rendeletet az (1) bekezdés szerinti kormányrendeletben meghatározott eltérésekkel kell alkalmazni. Amennyiben a településrendezési eszköz, településképi rendelet vagy egyéb önkormányzati rendelet az (1) bekezdés alapján megalkotott kormányrendelettel ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette az (1) bekezdés szerinti kormányrendeletben foglaltakat kell alkalmazni.
+
+11/C. § (1) Amennyiben a 11/B. § (1) bekezdés a) pontja szerinti beépítési szabály, építési követelmény meghatározásából a tulajdonosnak, haszonélvezőnek kára származik, a tulajdonost, haszonélvezőt – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott módon – egyösszegű, az Étv. 30. § (2) és (3) bekezdése szerinti kártalanítás illeti meg.
+
+(2) Nem jár kártalanítás az Étv. 30. § (5) bekezdésében rögzített esetekben.
+
+(3) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kártalanítási igényt támasztó kérelmének benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kisajátítási kártalanítás szabályai szerinti kártalanítási eljárás lefolytatásának van helye.
+
+(4) A kártalanítás tárgyában hozott közigazgatási határozat bírósági felülvizsgálatára az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.
+
+11/D. § (1) A Kormány a 11/B. § (1) bekezdése szerinti követelmények meghatározásával együtt rendeletben határozhatja meg
+
+a) az építésügyi hatósági eljárások – közműegyeztetésekre is kiterjedő –,
+
+b) a telekalakítási hatósági eljárás,
+
+c) a tűzvédelmi hatósági eljárások,
+
+d) a településképi véleményezési és bejelentési eljárás,
+
+e) az örökségvédelmi hatósági eljárások
+
+ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait.
+
+(2) A Kormány
+
+a) az (1) bekezdés a) és e) pontja keretében állapítja meg az építészeti-műszaki tervtanácsi véleményezésre, műemléki tanácsadó testület közreműködésére,
+
+b) az (1) bekezdés d) pontja keretében állapítja meg a településképi véleményezési és bejelentési eljárás alkalmazására
+
+vagy mellőzésére vonatkozó szabályokat.
+
+11/E. § Amennyiben kiemelten közérdekű beruházás esetében a beruházással érintett közművezeték-üzemeltető – a jogszabályban meghatározott határidőn belül – nem nyilatkozik az építtető által benyújtott tervek jóváhagyásáról, a nyilatkozatot – a megkeresésben foglalt tartalommal – megadottnak kell tekinteni.
+
+11/F. § (1) Kiemelten közérdekű beruházáshoz közvetlenül kapcsolódóan közműszakasz bontása, kiváltása vagy fejlesztése (a továbbiakban együtt: a közműszakaszt érintő munka) esetében a törvény vagy kormányrendelet rendelkezhet arról, hogy a közműszakaszt érintő munkát a (2)–(7) bekezdésben foglaltak alapján kell elvégezni és elszámolni.
+
+(2) Az egységes elektronikus közműnyilvántartásról szóló kormányrendelet szerinti közműegyeztetést követően a kiemelten közérdekű beruházás építtetője (e § tekintetében a továbbiakban: építtető) köteles írásban értesíteni a kiemelten közérdekű beruházással érintett közmű tulajdonosát és üzemeltetőjét arról, hogy a beruházás során mely közműszakasz bontása, kiváltása vagy fejlesztése szükséges.
+
+(3) Az építtető a közműszakaszt érintő munka elvégzésére vagy elvégeztetésére a körülmények és a műszaki szükségesség által indokolt mértékű – a közmű tulajdonosa számára biztosított, legalább 10 napos határidőn belül adott véleménye figyelembevételével –, 180 napnál nem rövidebb határidőt határoz meg. A közmű tulajdonosa az egyeztetett, egyetértés hiányában az építtető által meghatározott határidőn belül köteles a közműszakaszt érintő munkát elvégezni vagy elvégeztetni.
+
+(4) Ha a közmű tulajdonosa a közműszakaszt érintő munkát a (3) bekezdés szerinti véleménye szerint nem kívánja elvégezni vagy elvégeztetni, és az építtetővel másképp nem állapodik meg, akkor az építtető jogosult a közműszakaszt érintő munkát megfelelő szakmai képesítéssel rendelkező vállalkozóval elvégeztetni, amit a közmű tulajdonosa tűrni köteles. A közmű tulajdonosa jogosult a munkát ellenőrizni, erre külön szakfelügyeletet biztosíthat.
+
+(5) A közmű tulajdonosa által elvégzett, a közműszakaszt érintő munka indokolt költségeit az építtető a közmű tulajdonosának köteles megtéríteni. Ha a közműszakaszt érintő munkára a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, akkor a műszakilag feltétlenül szükséges mértéket meghaladó munkák költségét a közmű tulajdonosa köteles megtéríteni, illetve viselni. Az építtető által létrehozott közmű – a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, az építtető által nyilvántartott nyilvántartási értéken való átvezetéssel a (6) bekezdés szerinti közműtulajdonos tulajdonába – Budapesten a víziközmű az ellátásért felelős fővárosi önkormányzat tulajdonába – és a közmű üzemeltetőjének üzemeltetésébe kerül.
+
+(6) Kiemelten közérdekű beruházás megvalósításához közvetlenül kapcsolódó útépítési, közmű-csatlakozási, fejlesztési, bontási és kiváltási munkák elvégzésével érintett vagyonelemek értékének változásával az építtető a beruházások teljes megvalósítását követően, a teljes beruházás időszakát figyelembe véve köteles elszámolni a beruházással érintett közművagyon-elemek tulajdonosával, Budapesten a víziközművek esetén az ellátásért felelős fővárosi önkormányzattal.
+
+(7) A felek kötelesek a (2) bekezdés szerinti értesítést követően legkésőbb 90 napon belül megállapodást kötni – a teljes beruházási időszakban elvégzésre kerülő munkálatok figyelembevételével – az elszámolás feltételeiről, valamint a felmerülő terhek viselésének megosztásáról.
+
+11/G. § (1) A kiemelt közérdekű beruházással kapcsolatos feladatok ellátására, irányítására – törvényben vagy a Kormány által rendeletben vagy határozatban – kijelölt személy vagy szerv bármely hatóságtól, közigazgatási szervtől, közműszolgáltató, közműnyilvántartó és energiaszolgáltató társaságtól, az építtetőtől, egyéb állami tulajdonban álló társaságtól, a kiemelt közérdekű beruházás megvalósításában közreműködő bármely szervezettől, továbbá az érintett helyi önkormányzattól (a továbbiakban együtt: érintett szerv) a beruházással összefüggő ügyben tájékoztatást kérhet, illetve az érintett szerv részére intézkedés megtételét javasolhatja.
+
+(2) A tájékoztatáskérésre az érintett szerv tizenöt napon belül köteles érdemi választ adni. Ha az érintett szerv az intézkedési javaslattal nem ért egyet, akkor az érintett szerv első számú vezetője – önkormányzat esetén a főpolgármester, illetve a polgármester – részletes indokolással ellátott nyilatkozatban közli álláspontját az intézkedési javaslat kézhezvételétől számított tizenöt napon belül.
+
+(3) Ha az érintett szerv irányítását vagy felügyeletét valamely miniszter látja el, akkor az érintett szerv vezetője és az irányítást, illetve felügyeletet ellátó miniszter együttes, részletes indokolással ellátott nyilatkozatban közli álláspontját az intézkedési javaslat kézhezvételétől számított tizenöt napon belül.”
+
+27. § Az Ngtv. 12. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+a) a kiemelten közérdekű beruházást, a kiemelten közérdekű beruházás helyszínét és közvetlen környezetét,
+
+b) a kiemelten közérdekű beruházás megvalósításával összefüggő sajátos településrendezési és beépítési szabályokat, egyedi építési követelményeket, sajátos telekalakítási követelményeket, egyedi településképi követelményeket, egyedi örökségvédelmi szabályokat,
+
+c) a 11/D. § (1) bekezdése szerinti különös eljárás szabályokat,
+
+d) a kiemelten közérdekű beruházással kapcsolatos, a 11/C. § szerinti kártalanítás részletes szabályait,
+
+e) a kiemelten közérdekű beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő munka elvégezésére és elszámolására a 11/F. §-ban foglaltak alkalmazását.”
+
+28. § Az Ngtv. 1. § (1) bekezdésében a „nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő,” szövegrész helyébe a „nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósítására, valamint az azokkal összefüggő,” szöveg lép.
+
+29. § A Kstv. 2. § d) pontja helyébe a következő rendelkezés lép:
+
+(Ingatlant kisajátítani a 3. § szerinti feltételek fennállása esetén, a 4. és 5. § szerinti esetekben, az alábbi közérdekű célokra lehetséges:)
+
+„d) kötelező állami, illetve kötelező önkormányzati feladathoz kapcsolódó oktatási – ideértve a diákotthoni elhelyezést biztosító létesítményeket is –, egészségügyi, szociális létesítmény elhelyezése;”
+
+30. § A Tao. tv.
+
+- a) 22. § (3) bekezdésében a „25 százalékát” szövegrész helyébe a „30 százalékát” szöveg,
+- b) 24/A. § (16) bekezdésében a „25 százalékának” szövegrész helyébe a „30 százalékának” szöveg
+
+lép.
+
+31. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény
+
+- a) 19. § (1) bekezdésében a „kiadott kormányrendelet” szövegrész helyébe a „kiadott, illetve a kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozó beépítési szabályt megállapító kormányrendelet” szöveg,
+- b) 34. § (6) bekezdésében a „beruházásokra” szövegrész helyébe a „beruházásokra, valamint a kiemelten közérdekű beruházásokra” szöveg
+
+lép.
+
+32. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A közigazgatási szerv közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskörének gyakorlásával közvetlenül összefüggő, valamint ügyviteli feladat ellátására kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a közbeszerzések felügyeletével kapcsolatos feladatok ellátásáért felelős és az azt támogató foglalkoztatottak munkaszerződés keretében történő alkalmazását engedélyezheti.”
+
+33. § Az Mktv.
+
+- a) 31/C. § (2b) bekezdésében a „25%-áig” szövegrész helyébe a „30%-áig” szöveg,
+- b) 31/D. § (3) bekezdésében a „25%-áig” szövegrész helyébe a „30%-áig” szöveg,
+- c) 31/D. § (4) bekezdésében a „25%-os” szövegrész helyébe a „30%-os” szöveg,
+- d) 31/D. § (6) bekezdésében a „25%-os” szövegrész helyébe a „30%-os” szöveg
+
+lép.
+
+### 1. melléklet a 2018. évi XLIX. törvényhez
+
+#### A Budapest Diákváros – Déli Városkapu Fejlesztési Program részét képező létesítményfejlesztési projektek
+
+- 1. Budapesti Xtrém Szabadidő Park, amely magába foglalja a kajak-kenu szlalompályákat, a BMX pályákat, teniszpályákat, az ezekhez tartozó klubházat, valamint egyéb kapcsolódó létesítményt, infrastruktúrát, továbbá a környezetrendezést,
+- 2. Dunai Evezős Központ, amely magába foglalja az evezős pályát és klubházat, céltornyot, lelátót, hajótárolót, az ezekhez kapcsolódó gyalogos és kerékpáros hidat, illetve egyéb kapcsolódó létesítményt, infrastruktúrát, továbbá a környezetrendezést,
+- 3. Budapesti Atlétikai Stadion, szabadtéri edzőpályák, fedett pályás atlétikai edzőcsarnok, valamint az ezek összeköttetését biztosító gyalogos és kerékpáros hidak, illetve egyéb kapcsolódó létesítmény, infrastruktúra, valamint környezetrendezés,
+- 4. a Ráckevei (Soroksári) Duna-ág – a Kvassay Jenő út – a Soroksári út – a Galvani utca és Illatos út vonalában megépítendő Új Duna-híd által határolt területen, több ütemben megvalósuló, mintegy 8500 férőhelyes kollégiumi, sport, rekreációs, egyéb kapcsolódó infrastrukturális, valamint kiegészítő funkciókat, továbbá a műemléki védelem alatt álló Nagyvásárcsarnok épületegyüttesének felújítását és integrálását is magába foglaló új városnegyed (Budapest Diákváros).
+
+### 2. melléklet a 2018. évi XLIX. törvényhez
+
+#### A Budapest Diákváros – Déli Városkapu Fejlesztési Programmal összefüggő árvízvédelmi vonal
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 |  | Y (Keleti) | X (Északi) |
+| 2 | 1 | 651699.88 | 236046.28 |
+| 3 | 2 | 651699.00 | 236021.95 |
+| 4 | 3 | 651693.10 | 235966.05 |
+| 5 | 4 | 651711.21 | 235871.68 |
+| 6 | 5 | 651675.83 | 235836.50 |
+| 7 | 6 | 651619.64 | 235654.89 |
+| 8 | 7 | 651519.30 | 235436.90 |
+| 9 | 8 | 651465.59 | 235330.86 |
+| 10 | 9 | 651465.60 | 235322.16 |
+| 11 | 10 | 651469.79 | 235317.45 |
+| 12 | 11 | 651492.76 | 235314.49 |
+| 13 | 12 | 651513.36 | 235313.03 |
+| 14 | 13 | 651581.79 | 235308.19 |
+| 15 | 14 | 651642.96 | 235310.40 |
+| 16 | 15 | 651651.24 | 235208.52 |
+| 17 | 16 | 651618.12 | 235200.28 |
+| 18 | 17 | 651621.28 | 235187.41 |
+| 19 | 18 | 651623.22 | 235173.66 |
+| 20 | 19 | 651620.98 | 235156.91 |
+| 21 | 20 | 651607.66 | 235119.51 |
+| 22 | 21 | 651574.55 | 235050.52 |
+| 23 | 22 | 651537.77 | 235002.89 |
+| 24 | 23 | 651447.01 | 234880.50 |
+
+### 3. melléklet a 2018. évi XLIX. törvényhez
+
+#### A magyar állam tulajdonába kerülő, a Budai Palotanegyed területén elhelyezkedő önkormányzati tulajdonú ingatlanok
+
+A 17. § (1) bekezdése alapján a Budapest Főváros Önkormányzata, valamint a Budapest I. kerület Budavári Önkormányzat tulajdonában álló, e törvény erejénél fogva ingyenesen az állam tulajdonába kerülő ingatlanok azonosító adatai:
+
+| A | B | D |
+| --- | --- | --- |
+| Település | Helyrajzi szám | Tulajdonos |
+| Budapest I. kerület | 6455/1 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 6461 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 6464 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 6516 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 14371/1 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 14371/2 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 6453/1 | Budapesti Fővárosi Önkormányzat |
+| Budapest I. kerület | 6330 | Budapesti I. kerületi Önkormányzat |
+| Budapest I. kerület | 6331 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 14363/1 | Budapesti I. kerületi Önkormányzat |
+| Budapest I. kerület | 14359 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 14360 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 14361 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 14362 | Budapest I. kerület Budavári Önkormányzat |
+| Budapest I. kerület | 14369 | Budapest I. kerület Budavári Önkormányzat |
+
+### 4. melléklet a 2018. évi XLIX. törvényhez
+
+#### A Vagyonkezelő vagyonkezelésébe kerülő állami tulajdonú ingatlanok
+
+A 17. § alapján állami tulajdonban lévő, a Vagyonkezelő vagyonkezelésébe kerülő ingatlanok:
+
+| A | B |
+| --- | --- |
+| Település | Helyrajzi szám |
+| Budapest I. kerület | 6458 |
+| Budapest I. kerület | 6459 |
+| Budapest I. kerület | 6515 |
+| Budapest I. kerület | 6462 |
+| Budapest I. kerület | 6456/1 |
+| Budapest I. kerület | 6452/1 |
+| Budapest I. kerület | 6452/2 |
+| Budapest I. kerület | 6452/3 |
+| Budapest I. kerület | 6453/2 |

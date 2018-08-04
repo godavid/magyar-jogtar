@@ -110,7 +110,7 @@ terjed ki.
 
 (4) A 60. § (1) bekezdés j) pontja és 63. § (1) bekezdés d) pontja alkalmazása szempontjából a köztisztviselő öregségi nyugdíjra az (1) bekezdés a)–c) pontokban szabályozott esetben jogosult.
 
-8. § (1) A közigazgatási szerv közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskörének gyakorlásával közvetlenül összefüggő, valamint ügyviteli feladat ellátására kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető.
+8. § (1) A közigazgatási szerv közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskörének gyakorlásával közvetlenül összefüggő, valamint ügyviteli feladat ellátására kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a közbeszerzések felügyeletével kapcsolatos feladatok ellátásáért felelős és az azt támogató foglalkoztatottak munkaszerződés keretében történő alkalmazását engedélyezheti.
 
 (2) Megbízási, vállalkozási, illetve munkaszerződés nem köthető olyan feladat elvégzésére, amelyre csak kormánytisztviselői, köztisztviselői kinevezés adható.
 
