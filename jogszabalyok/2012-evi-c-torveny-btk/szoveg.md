@@ -2677,8 +2677,9 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 (3) Aki a zaklatást
 
 - a) házastársa, volt házastársa, élettársa vagy volt élettársa sérelmére,
-- b) nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve
-- c) hatalmi vagy befolyási helyzetével visszaélve
+- b) nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére,
+- c) hatalmi vagy befolyási helyzetével visszaélve, illetve
+- d) hivatalos személy sérelmére, hivatali tevékenységével össze nem egyeztethető helyen vagy időben
 
 követi el, az (1) bekezdésben meghatározott esetben két évig, a (2) bekezdésben meghatározott esetben bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
@@ -2885,6 +2886,14 @@ okoz.
 ### Cserbenhagyás
 
 239. § Ha a közlekedési balesettel érintett jármű vezetője a helyszínen nem áll meg, illetve onnan eltávozik, mielőtt meggyőződne arról, hogy valaki megsérült-e, illetve az életét vagy testi épségét közvetlenül fenyegető veszély miatt segítségnyújtásra szorul-e, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+### Jogellenesen átalakított személyszállítást végző jármű vezetése
+
+239/A. § (1) Aki közúton, illetve közforgalom elől el nem zárt magánúton engedély nélkül vagy az engedélytől eltérően átalakított, a személyszállítási szolgáltatásokról szóló törvényben meghatározott közúti járművet vagy különleges személyszállító szolgáltatást nyújtó járművet vezet, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés két évig terjedő szabadságvesztés, ha a bűncselekményt iskolabusszal vagy különleges igényű – így különösen mozgásában korlátozott, idős vagy beteg – személyek szállítására szolgáló közúti járművel követik el.
+
+(3) Aki az e §-ban meghatározott járművet engedély nélkül átalakít vagy átalakíttat, vétség miatt elzárással büntetendő.
 
 ### Értelmező rendelkezések
 
