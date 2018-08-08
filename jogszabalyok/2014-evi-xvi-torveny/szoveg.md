@@ -187,7 +187,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - 98. uniós ABAK: bármely olyan ABAK, amely létesítő okirat szerinti székhellyel rendelkezik egy EGT-államban;
 - 99. ügyfél: aki e törvény alapján a befektetési alapkezelőtől szolgáltatást vesz igénybe, ide nem értve a befektetőt;
 - 100. ügyvezető: a befektetési alapkezelő vezetésére kinevezett első számú vezető, valamint a befektetési alapkezelő irányításában résztvevő olyan további személy, akit a befektetési alapkezelő létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg;
-- 101. üzleti titok: a Ptk.-ban meghatározott fogalom;
+- 101. üzleti titok: az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalom;
 - 102. vezető állású személy: az ügyvezető, az igazgatóság elnöke, tagja és a felügyelőbizottság elnöke, tagja, a fióktelep vezetésére kinevezett személy és annak közvetlen helyettese, valamint minden olyan személy, akit a létesítő okirat vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg.
 
 (2) E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában az „Európai Unió”, a „tagállam” kifejezés alatt az Európai Unió tagállamán kívül az Európai Gazdasági Térségről szóló megállapodásban részes más államot is érteni kell.
@@ -2502,7 +2502,7 @@ kapja meg; valamint
 
 #### 72. Titoktartási kötelezettség a felügyeleti eljárás során
 
-174. § (1) A Felügyelet eljárása során a befektetési alapkezelőkkel, a befektetési alapokkal kapcsolatosan tudomására jutott minden, a Ptk. szerinti üzleti titkot – törvény eltérő rendelkezése hiányában – időbeli korlátozás nélkül köteles megtartani, azt csak az e törvényben meghatározott feladatának ellátása érdekében kezelheti, és a titokgazda felhatalmazása nélkül harmadik személynek az e törvényben meghatározott kivételekkel nem adhatja ki. A Felügyelet tartozik felelősséggel azért, hogy a munkavállalói, valamint megbízottjai eleget tegyenek az üzleti titok megtartására vonatkozó kötelezettségüknek.
+174. § (1) A Felügyelet eljárása során a befektetési alapkezelőkkel, a befektetési alapokkal kapcsolatosan tudomására jutott minden, az üzleti titok védelméről szóló 2018. évi LIV. törvény szerinti üzleti titkot – törvény eltérő rendelkezése hiányában – időbeli korlátozás nélkül köteles megtartani, azt csak az e törvényben meghatározott feladatának ellátása érdekében kezelheti, és a titokgazda felhatalmazása nélkül harmadik személynek az e törvényben meghatározott kivételekkel nem adhatja ki. A Felügyelet tartozik felelősséggel azért, hogy a munkavállalói, valamint megbízottjai eleget tegyenek az üzleti titok megtartására vonatkozó kötelezettségüknek.
 
 (2) A titoktartási kötelezettség nem akadályozza az EGT-államok illetékes hatóságait az alkalmazandó közösségi joggal összhangban folytatott információcserében vagy az információk az EÉPH és az Európai Rendszerkockázati Testület (a továbbiakban: ERKT) felé történő továbbításában azzal, hogy az így átadott információt az átvevő hatóság is üzleti titokként kezeli, azt nem lehet nyilvánosságra hozni az azt átadó illetékes hatóságok kifejezett hozzájárulása nélkül, és kizárólag feladataik teljesítése során, a következő célokra használhatják fel, amennyiben ehhez a felhasználáshoz az átadó hatóság hozzájárult:
 

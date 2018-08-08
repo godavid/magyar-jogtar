@@ -6,9 +6,9 @@ a választottbíráskodásról
 
 #### 1. A törvény hatálya
 
-1. § (1) E törvényt kell alkalmazni a választottbíráskodás során, ha az eljáró állandó választottbíróság székhelye vagy az eseti választottbíráskodás helye Magyarországon van.
+1. § (1) E törvény rendelkezéseit kell alkalmazni, ha a választottbíráskodás helye Magyarországon van.
 
-(2) Ha nemzetközi szerződés eltérően nem rendelkezik, a 9–10. §-t, a 28. §-t, a 40. §-t és az 53–54. §-t alkalmazni kell Magyarországon a nemzetközi választottbíráskodásra abban az esetben is, ha az eljáró állandó választottbíróság székhelye vagy az eseti választottbíráskodás helye Magyarországon kívül van.
+(2) Ha nemzetközi szerződés eltérően nem rendelkezik, a 9. §-t, a 10. §-t, a 26–28. §-t, a 40. §-t, az 53. §-t és az 54. §-t alkalmazni kell magyarországi székhelyű állandó választottbíróság eljárása esetén akkor is, ha a választottbíráskodás helye Magyarországon kívül van.
 
 (3) Nincs helye választottbírósági eljárásnak fogyasztói szerződésből eredő jogvita esetén, valamint a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) Hetedik Részében szabályozott különleges eljárásokban és a közigazgatási perrendtartásról szóló 2017. évi I. törvény hatálya alá tartozó eljárásokban elintézendő ügyekben.
 
@@ -21,14 +21,9 @@ a választottbíráskodásról
 3. § (1) E törvény alkalmazásában:
 
 - 1. választottbíráskodás: kereskedelmi jogviszonyokban felmerült jogvitáknak állami bírósági peres eljárás helyett a felek által választott eljárásban történő eldöntése, akár eseti, akár állandó választottbírósági intézmény folytatja le az eljárást;
-- 2. a választottbíráskodás nemzetközi, ha
-  - a) a választottbírósági szerződést kötő felek üzletvitelének helye a szerződés megkötésének időpontjában különböző államokban van;
-  - b) a következő helyek egyike azon az államon kívül van, amelyben a felek üzletvitelének helye van: ba) a választottbíráskodásnak a választottbírósági szerződésben vagy aszerint meghatározott helye; bb) az a hely, ahol a felek jogviszonyából eredő kereskedelmi kötelezettségek lényeges részét teljesíteni kell, vagy amelyhez a jogvita tárgya a legszorosabban kapcsolódik; vagy
-  - c) a felek kifejezetten megállapodtak abban, hogy a választottbírósági szerződés tárgya több, mint egy országhoz kapcsolódik;
-- 3. a 2. pont alkalmazásában:
-  - a) ha a fél üzletvitelének több helye van, az üzletvitel helye az, amely a legszorosabb viszonyban van a választottbírósági szerződéssel;
-  - b) ha a félnek nincs üzletviteli helye, az alatt a szokásos tartózkodási helyét kell érteni;
-- 4. a 2–3. pont alkalmazásában a fél üzletviteli hellyel rendelkezik azon államban, amelynek területén kereskedelmi tevékenység folytatására jogosult;
+- 2.
+- 3.
+- 4.
 - 5. választottbírósági tanács: mind az egyedül eljáró választottbíró, mind pedig a több választottbíróból álló tanács;
 - 6. bíróság: valamely állam igazságszolgáltatást gyakorló testülete vagy szervezete;
 - 7. a kereskedelmi kifejezés alatt minden kereskedelmi vagy gazdasági, szerződéses vagy szerződésen kívüli jogviszonyt érteni kell.
@@ -62,7 +57,7 @@ a választottbíráskodásról
 
 7. § (1) Az 53–54. § szerinti ügyekben a magyar végrehajtási szabályok szerint hatáskörrel és illetékességgel rendelkező bíróságok járnak el.
 
-(2) A 12. § (3) és (4) bekezdése, a 14. § (4) bekezdése, a 15. § (1) bekezdése, a 17. § (3) bekezdése, valamint a 47. § (2) bekezdése szerinti bírósági ügyekben a választottbíráskodás helye szerint, állandó választottbíróság eljárása esetén az annak székhelye szerint illetékes törvényszék jár el.
+(2) A 12. § (3) és (4) bekezdése, a 14. § (4) bekezdése, a 15. § (1) bekezdése, a 17. § (3) bekezdése, valamint a 47. § (2) bekezdése szerinti bírósági ügyekben a Fővárosi Törvényszék jár el.
 
 (3) A bíróság a 9. § (1) és (2) bekezdése, valamint a 47. § (2) bekezdése szerinti ügyekben peres eljárásban, minden más ügyben nemperes eljárásban jár el azzal, hogy a 17. § (3) bekezdése szerinti ügyben a felek szóbeli meghallgatása után határoz.
 
@@ -73,7 +68,7 @@ a választottbíráskodásról
 - a) annak fel nem függesztése valószínűsíthetően nem kiküszöbölhető hátrányt eredményez, és ez a hátrány meghaladja azt a hátrányt, amelyet a felfüggesztés esetén az azzal érintett fél feltételezhetően elszenved; és
 - b) fennáll az észszerű lehetősége annak, hogy a felfüggesztést kérő fél keresete érdemben sikerre fog vezetni. Ennek a lehetőségnek a mérlegelése a bíróságot bármely későbbi mérlegelése során nem köti.
 
-(6) A törvényszék és a Kúria a választottbírósági ügyben hozott határozatát az eljárt állandó választottbíróságnak, eseti választottbíráskodás esetén az eljárt választottbírónak vagy választottbíráknak a feleknek történő kézbesítéssel egyidejűleg megküldi.
+(6) A törvényszék – a 9. § (1) és (2) bekezdése szerinti ügyek kivételével – a hozzá választottbírósági ügyben érkezett, eljárást megindító iratot az eljáró, illetve eljárt állandó választottbíróságnak, eseti választottbíráskodás esetén az eljáró, illetve eljárt választottbírónak vagy választottbíráknak, a beérkezéstől számított harminc napon belül megküldi. A törvényszék és a Kúria a választottbírósági ügyben hozott határozatát az eljáró, illetve eljárt állandó választottbíróságnak, eseti választottbíráskodás esetén az eljáró, illetve eljárt választottbírónak vagy választottbíráknak a felek részére történő kézbesítéssel egyidejűleg megküldi.
 
 (7) A bíróság az e §-ban hivatkozott eljárásokban – a választottbírósági ítélet érvénytelenítése iránt indított per kivételével – soron kívül jár el.
 
@@ -131,7 +126,7 @@ a választottbíráskodásról
 
 bármely fél a 7. § (2) bekezdésében meghatározott bírósághoz fordulhat, kivéve, ha a kijelölési eljárásra vonatkozó megállapodás vagy a választottbírósági szerződésben meghatározott állandó választottbíróság szabályzata ilyen esetre a kijelölés más módját írja elő.
 
-(5) A hiányzó választottbíró kijelölése során figyelemmel kell lenni a felek megállapodásában a választottbírótól megkívánt szakképzettségre vagy más jellemzőre, valamint minden olyan szempontra, amely előreláthatóan biztosítja független és pártatlan választottbíró kijelölését. Nemzetközi választottbíráskodás esetén az egyesbíró, illetve az elnöklő bíró kijelölése során a felektől eltérő állampolgárságú bírót kell jelölni. Ha a Kereskedelmi Választottbíróság hatáskörébe tartozó ügyben a választottbíró-ajánlási listán nem szerepel a felek megállapodásában meghatározott szakképzettséggel vagy más jellemzővel rendelkező személy, egyesbírónak, illetve elnöklő bírónak a választottbíró-ajánlási listán nem szereplő személy is kijelölhető. Ha a Kereskedelmi Választottbíróság hatáskörébe tartozó nemzetközi ügyben a választottbíró-ajánlási listán nem szerepel a felektől eltérő állampolgárságú személy, egyesbírónak, illetve elnöklő bírónak a választottbíró-ajánlási listán nem szereplő személy is kijelölhető.
+(5) A hiányzó választottbíró kijelölése során figyelemmel kell lenni a felek megállapodásában a választottbírótól megkívánt szakképzettségre vagy más jellemzőre, valamint minden olyan szempontra, amely előreláthatóan biztosítja független és pártatlan választottbíró kijelölését. Ha a Kereskedelmi Választottbíróság hatáskörébe tartozó ügyben a választottbíró-ajánlási listán nem szerepel a felek megállapodásában meghatározott szakképzettséggel vagy más jellemzővel rendelkező személy, egyesbírónak, illetve elnöklő bírónak a választottbíró-ajánlási listán nem szereplő személy is kijelölhető.
 
 (6) Az e § szerint eljáró bíróságnak, más személynek vagy szervezetnek a (3) és (4) bekezdés alapján hozott döntése ellen jogorvoslatnak nincs helye.
 
@@ -503,7 +498,7 @@ bármely fél a 7. § (2) bekezdésében meghatározott bírósághoz fordulhat,
 
 61. § (1) Az elnökség a Kereskedelmi Választottbíróság általános döntéshozó szerve.
 
-(2) Az elnökségbe az elnököt és két tagot a Magyar Kereskedelmi és Iparkamara, egy-egy tagot pedig a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara delegál.
+(2) Az elnökségbe az elnököt és két tagot a Magyar Kereskedelmi és Iparkamara, egy-egy tagot pedig a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara delegál. A delegált tagot elnökségi feladatai ellátásával összefüggésben a delegáló szervezet nem utasíthatja.
 
 (3) Az alelnöki tisztséget a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara által delegált tag tölti be. Az alelnöki tisztségben a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara által delegált tagok – ebben a sorrendben – évente váltják egymást.
 
@@ -513,11 +508,13 @@ bármely fél a 7. § (2) bekezdésében meghatározott bírósághoz fordulhat,
 
 (6) Az elnök megbízatása három évre szól, és egyszer delegálható újra.
 
-(7) Az elnökség tagját és az elnököt az őt delegáló szervezet bármikor, indokolás nélkül visszahívhatja.
+(7) Az elnökség legalább négy tagja kezdeményezheti a tisztségére méltatlanná vált elnökségi tag visszahívását. A delegáló szervezet harminc napon belül dönt a visszahívás iránti indítványról. A delegáló szervezet az elnökségi tag visszahívása esetén, azzal egyidejűleg az elnökségbe új tagot delegál.
 
 (8) Az elnökség tagja nem járhat el választottbíróként és szakértőként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban, kivéve azokat az ügyeket, amelyekben a választottbírókénti kijelölését az elnökségi tagi megbízatása keletkezése előtt elfogadta, illetve amelyekben az elnökségi tagi megbízatása keletkezése előtt szakvéleményt adott. Az elnökség tagja nem járhat el jogi képviselőként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban.
 
 (9) A Kereskedelmi Választottbíróságot az elnök és az általános helyetteseként eljáró alelnök képviseli.
+
+(10) Az elnökség tagja az e törvényben meghatározott feladatait személyesen köteles ellátni.
 
 #### 44. Az elnökség és az elnök feladatai
 

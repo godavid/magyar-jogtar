@@ -793,7 +793,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (10) Üzleti titok megismerésére az engedélyesen és az eljáró bíróságon, hatóságon, illetve adatmegismerésre jogosult egyéb hatóságon kívül más nem jogosult.
 
-(11) Üzleti titoknak minősül e törvény alkalmazásában minden olyan, az engedélyezési eljárásban felmerült adat, tény, információ, amelynek nyilvánosságra hozatala az engedélyes jogos érdekét (így különösen pénzügyi, gazdasági vagy piaci érdekét), személyiségi jogát sértené vagy veszélyeztetné, így különösen az engedélyezési eljárással érintett know-how, szellemi alkotás, találmány, illetve szabadalom körébe tartozó jog sérelmét okozná.
+(11) Üzleti titoknak minősül e törvény alkalmazásában minden olyan, az engedélyezési eljárásban felmerült adat, tény, információ, amelynek nyilvánosságra hozatala az engedélyes jogos érdekét – így különösen pénzügyi, gazdasági vagy piaci érdekét – sértené vagy veszélyeztetné, így különösen az engedélyezési eljárással érintett know-how, szellemi alkotás, találmány, illetve szabadalom körébe tartozó jog sérelmét okozná.
 
 18. § A radioaktív anyagok, valamint az ionizáló sugárzást létrehozó berendezések, továbbá az üzemeltetésnek helyt adó létesítmény tulajdonjogának átruházására, a használat bármilyen jogcímen való átengedésére irányuló szerződést írásban kell megkötni.
 

@@ -474,7 +474,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 ### Az üzleti titok és a foglalkoztatói nyugdíjtitok
 
-25. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk. 2:47. § (1) bekezdésében meghatározott fogalmat kell érteni.
+25. § (1) E törvény alkalmazásában üzleti titok fogalma alatt az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalmat kell érteni.
 
 (2) A foglalkoztatói nyugdíjtitok minden olyan, a foglalkoztatói nyugdíjszolgáltató intézmény tagjáról és járadékosáról a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezésére álló, a tevékenysége során tudomására jutó tény, információ vagy adat, amely a foglalkoztatói nyugdíjszolgáltató intézmény tagjára és a járadékos személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, tulajdonosi, üzleti kapcsolataira, valamint tagi számlájára, a jogosultság nyilvántartásban szereplő adatokra, a részére megfizetett hozzájárulásra és az általa befizetett kiegészítésre, valamint a részére járó foglalkoztatói nyugdíjszolgáltatásra vonatkozik.
 

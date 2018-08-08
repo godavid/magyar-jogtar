@@ -1432,7 +1432,7 @@ sorolja be.
 
 ### Az üzleti titok és pénztártitok
 
-78. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk. 2:47. § (1) bekezdésében meghatározott fogalmat kell érteni.
+78. § (1) E törvény alkalmazásában üzleti titok fogalma alatt az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalmat kell érteni.
 
 (2) Pénztártitok minden olyan, a pénztártagról a pénztár vagy a pénztári szolgáltató szervezet rendelkezésére álló, a tevékenysége folytán tudomására jutó tény, információ vagy adat, amely a pénztártag személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, tulajdonosi, üzleti kapcsolataira, valamint egyéni számláján nyilvántartott összegre, járulékbefizetéseire és a részére járó nyugdíjszolgáltatásra vonatkozik. A pénztártagok nyilvántartható személyes adatainak körét a törvény 2. számú melléklete tartalmazza. A pénztár üzleti és pénztártitkot kizárólag a pénztári tevékenység folytatásával összefüggésben kezelhet.
 

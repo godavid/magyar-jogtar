@@ -1947,7 +1947,7 @@ szemben.
 
 (2) Nem lehet üzleti titokra vagy biztosítási titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó – az Infotv.-ben meghatározott – adatszolgáltatási kötelezettség esetén.
 
-(3) Az üzleti titokra és a biztosítási titokra egyebekben a Ptk.-ban foglaltakat kell megfelelően alkalmazni.
+(3) Az üzleti titokra és a biztosítási titokra egyebekben a Ptk.-ban és az üzleti titok védelméről szóló 2018. évi LIV. törvényben foglaltakat kell megfelelően alkalmazni.
 
 147/A. § (1) A Hpt. 164/B. §-a alapján átvett adatokat a biztosító tevékenységi köre ellátásával összefüggésben a szolgáltatásai nyújtásához szükséges mértékben megismerheti, és az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelheti, ha az ügyfél az adattovábbítást a (2) bekezdés szerint nem korlátozta vagy tiltotta meg.
 
