@@ -2703,7 +2703,7 @@ szerzett.
 
 #### 70. Üzleti titok
 
-159. § (1) E törvény alkalmazásában üzleti titok fogalma alatt a Ptk.-ban meghatározott fogalmat kell érteni.
+159. § (1) E törvény alkalmazásában üzleti titok fogalma alatt az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalmat kell érteni.
 
 (2) A pénzügyi intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás (ideértve a közvetítőt is) tulajdonosa, a pénzügyi intézményben befolyásoló részesedést szerezni kívánó személy, a vezető állású személy, valamint a pénzügyi intézmény és a pénzügyi, kiegészítő pénzügyi szolgáltatást nyújtó – pénzügyi intézménynek nem minősülő – vállalkozás alkalmazottja köteles a pénzügyi intézmény működésével kapcsolatban tudomására jutott üzleti titkot – időbeli korlátozás nélkül – megtartani.
 
@@ -4018,7 +4018,7 @@ vonatkozásában információt ad.
 
 229. § (1) Az OBA-val munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban, megbízási jogviszonyban álló személy, valamint az igazgatótanács tagja a feladata ellátásával kapcsolatban tudomására jutott banktitkot, üzleti titkot, továbbá minden olyan adatot, tényt vagy körülményt, amelyet törvény előírásai szerint az OBA nem köteles más hatóságok, illetve a nyilvánosság számára hozzáférhetővé tenni, az adat jellege szerinti titokként köteles megőrizni.
 
-(2) A Ptk. üzleti titokra vonatkozó szabályait kell alkalmazni különösen a 209. § (8) bekezdésében foglalt megállapodással, illetve együttműködéssel összefüggően keletkezett, a külföldi betétbiztosítási rendszer vagy külföldi felügyeleti hatóság – általa üzleti titokként kezelt – adatára, azzal, hogy ez nem veszélyeztetheti az OBA által ellátott közfeladatokkal kapcsolatos adatok nyilvánosságát.
+(2) Az üzleti titok védelméről szóló 2018. évi LIV. törvény üzleti titokra vonatkozó szabályait kell alkalmazni különösen a 209. § (8) bekezdésében foglalt megállapodással, illetve együttműködéssel összefüggően keletkezett, a külföldi betétbiztosítási rendszer vagy külföldi felügyeleti hatóság – általa üzleti titokként kezelt – adatára, azzal, hogy ez nem veszélyeztetheti az OBA által ellátott közfeladatokkal kapcsolatos adatok nyilvánosságát.
 
 230. § Kártérítési igény az OBA-val szemben a jogellenesen okozott kár miatt csak akkor érvényesíthető, ha megállapítható, hogy az OBA eljárása vagy mulasztása törvénysértő volt, és a bekövetkezett kárt ez idézte elő.
 
