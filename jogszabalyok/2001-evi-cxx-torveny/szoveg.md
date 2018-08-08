@@ -3238,7 +3238,7 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 ### Üzleti titok
 
-368. § (1) E törvény alkalmazásában üzleti titok alatt a Ptk.-ban meghatározott fogalmat kell érteni.
+368. § (1) E törvény alkalmazásában üzleti titok alatt az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalmat kell érteni.
 
 (2) A tőzsde, a központi értéktár, a központi szerződő fél tulajdonosa, az e szervezetekben részesedést szerezni kívánó személy, a vezető állású személy, valamint e szervezetek alkalmazottja köteles az e szervezetek működésével kapcsolatban tudomására jutott üzleti titkot időbeli korlátozás nélkül megtartani.
 

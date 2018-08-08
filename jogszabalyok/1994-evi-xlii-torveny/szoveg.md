@@ -300,7 +300,7 @@ szerzett.
 
 ### Titoktartás
 
-24. § A Ptk. 2:47. § (1) bekezdésében meghatározott üzleti titok és a Hpt.-ben meghatározott banktitok megtartására vonatkozó kötelezettség nem terjed ki – a Hpt.-ben meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint a Mehib Rt. részére továbbított, valamint a Központi Statisztikai Hivatal részére statisztikai célból egyedi azonosításra alkalmas módon továbbított adatokra sem.
+24. § Az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott üzleti titok és a Hpt.-ben meghatározott banktitok megtartására vonatkozó kötelezettség nem terjed ki – a Hpt.-ben meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint a Mehib Rt. részére továbbított, valamint a Központi Statisztikai Hivatal részére statisztikai célból egyedi azonosításra alkalmas módon továbbított adatokra sem.
 
 24/A. § (1) Az Eximbank és a Mehib Rt. jogosult az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.) 30. § (2)–(4) bekezdésében meghatározottak szerint, a Vtv. 29. § (1) bekezdés r) pontjában meghatározott célból megismerni az áruk, szolgáltatások és anyagi értékeket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosult
 
@@ -316,7 +316,7 @@ szerzett.
 
 25. § (1) A Mehib Rt. állam készfizető kezessége mellett végzett tevékenységére a Bit. és a viszontbiztosítókról szóló 2007. évi CLIX. törvény rendelkezéseit nem kell alkalmazni.
 
-(2) A Ptk. 2:47. § (1) bekezdésében meghatározott üzleti titok és a Bit.-ben meghatározott biztosítási titok megtartására vonatkozó kötelezettség nem terjed ki – a Bit. 138. § (1) bekezdésében meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint az Eximbank részére továbbított adatokra sem.
+(2) Az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott üzleti titok és a Bit.-ben meghatározott biztosítási titok megtartására vonatkozó kötelezettség nem terjed ki – a Bit. 138. § (1) bekezdésében meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint az Eximbank részére továbbított adatokra sem.
 
 (3) A Mehib Rt. kölcsönt csak biztosítási tevékenységéhez kapcsolódóan és az államháztartásért felelős miniszter előzetes hozzájárulásával vehet fel.
 

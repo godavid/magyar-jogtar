@@ -253,7 +253,7 @@ használnak,
 - 68.
 - 69. ügyfélszámla: a Tpt.-ben meghatározott fogalom,
 - 69a. ügyvezető: a befektetési vállalkozással és az adatszolgáltatási tevékenységet végzővel munkaviszonyban álló, a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző irányításában részt vevő olyan további személy, akit a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
-- 70. üzleti titok: a Ptk.-ban meghatározott fogalom,
+- 70. üzleti titok: az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalom,
 - 71. vezető állású személy:
   - a) a vezető tisztségviselő – ideértve az e törvény szerinti ügyvezetőt is – és a felügyelő bizottság tagja,
   - b) a fióktelep vezetésére a külföldi vállalkozás által kinevezett személy és annak közvetlen helyettese, és
