@@ -665,29 +665,83 @@ lép.
 
 #### 28. Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény
 
-#### 194. §
+194. § Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.) 26. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Az EORI szám érvénytelenítésére irányuló kérelemre vagy hivatalból indult eljárás során az EORI szám érvénytelenítésére vonatkozó határozat akkor hozható meg, ha az adott EORI számon nyilvántartott ügyfél vonatkozásában az FJA 7. cikk (1) bekezdés b) pontja szerinti tudomásra jutás vagy az érvénytelenítésre irányuló kérelem befogadása előtt indult vámigazgatási eljárások lezárulnak, a vámhatóság az esedékes vám és egyéb terhek, a Vámkódex 112. vagy 114. cikke szerinti kamat, valamint a vámhatósági eljárások után fizetendő díjak és költségek megfizetésére vonatkozó kötelezettségeket előírja a folyószámlán, és a lejárt tartozások beszedése iránti intézkedéseket végrehajtja.”
 
 #### 195. §
 
-#### 196. §
+196. § (1) A Vtv. 84. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-#### 197. §
+[(1) Az eljáró vámszerv vámigazgatási bírságot szab ki az alábbi tárgykörökbe tartozó, a vámjogszabályokban meghatározott]
 
-#### 198. §
+„b) vámfelügyelettel, vámigazgatási üggyel,”
 
-#### 199. §
+(2) A Vtv. 84. § (3) bekezdése a következő i) ponttal egészül ki:
 
-#### 200. §
+[(3) Az (1) bekezdés b) pontjában foglalt jogsértés valósul meg különösen, ha]
 
-#### 201. §
+„i) az érintett személy – tevékenységével vagy mulasztásával – a vámigazgatási ügy lefolytatását akadályozza.”
 
-#### 202. §
+197. § (1) A Vtv. 118. § szakaszcíme helyébe a következő cím lép:
 
-#### 203. §
+„118. § [Vámügyi segítségnyújtásra irányuló, valamint származás utólagos megerősítése iránti megkeresések]”
 
-#### 204. §
+(2) A Vtv. 118. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
 
-#### 205. §
+„(1) A közigazgatási hatóságok közötti vámügyi segítségnyújtásra irányuló és származás utólagos megerősítése iránti megkeresések teljesítése érdekében a vámhatóság a nyilvántartásában és az ügyfél nyilvántartásában szereplő adatok, és az azokhoz kapcsolódó tények, körülmények valóságtartalmának, illetőleg ezek hitelességének megállapítása érdekében adatokat gyűjthet, vagy a helyszínen ellenőrzést végezhet.
+
+(2) Ha a vámügyi segítségnyújtásra irányuló megkeresés megválaszolása a vámhatóság rendelkezésére álló adatok alapján teljesíthető, úgy az eljárásról az érintett ügyfelet értesíteni nem kell.
+
+(3) Ha a megkeresés megválaszolása érdekében szükséges az ügyfél bevonása, vagy a megkeresés származás utólagos megerősítése iránti megkeresés, akkor az (1) bekezdés szerinti eljárás során a vámellenőrzés szabályait kell alkalmazni.”
+
+198. §
+
+199. § A Vtv. 179. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az engedélyes – abban az esetben, ha a központi vámkezelésre irányuló engedély nem Magyarországon került kiadásra – köteles a szabad forgalomba bocsátás, meghatározott célra történő felhasználás, az általánosforgalmiadó-fizetési kötelezettséggel járó ideiglenes behozatal során megállapításra kerülő egyéb terhek megállapításához szükséges adónyilatkozatot az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, az engedélyben meghatározott időpontig benyújtani. Nem kell benyújtani az általános forgalmi adó fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az általános forgalmi adó önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.”
+
+200. § A Vtv. 180. §-a helyébe a következő rendelkezés lép:
+
+„180. § [Önértékelési engedély]
+
+Azon önértékelési engedéllyel rendelkező gazdálkodó, akinek a vámhatóság megengedi a VA 225. cikke szerint, hogy a kiegészítő árunyilatkozatai közvetlen elektronikus hozzáféréssel legyenek elérhetők rendszerében, köteles a tevékenysége során megállapításra kerülő egyéb terhek megállapításához szükséges, a 179. § (5) bekezdésében hivatkozott adónyilatkozatot benyújtani az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, az engedélyben meghatározott időpontig, amelyre vonatkozóan a 179. § (7) bekezdését is alkalmazni kell. Nem kell benyújtania az általánosforgalmiadó-fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az áfa önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.”
+
+201. § A Vtv. 185. §-a helyébe a következő rendelkezés lép:
+
+„185. § [Adónyilatkozat aktív feldolgozás során]
+
+Az aktív feldolgozás engedélyese köteles a VA 324. cikk (1) bekezdése alkalmazása során megállapításra kerülő egyéb terhek megállapításához szükséges, a 179. § (5) bekezdése szerinti adónyilatkozatot benyújtani az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, az engedélyben meghatározott időpontig. Nem kell benyújtania az általánosforgalmiadó-fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az áfa önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.”
+
+202. § A Vtv. 67. alcíme a következő 185/A. §-sal egészül ki:
+
+„185/A. § [Együttműködési megállapodás helyhez kötött szállítóberendezések kapcsán]
+
+A VA 321. cikk (3) bekezdése alapján a helyhez kötött szállítóberendezéssel szállított áruk feletti vámfelügyelet gyakorlásának módszereit a vámeljárás jogosultjának és a vámhivatalnak együttműködési megállapodás formájában, írásban kell rögzítenie.”
+
+203. § A Vtv. 215. §-a a következő (14) bekezdéssel egészül ki:
+
+„(14) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény hatálybalépése előtt indult vámigazgatási ügyekben kiszabott eljárási bírságok, valamint a származás utólagos megerősítése iránti megkeresések tekintetében az eljárás megindításakor hatályos rendelkezéseket kell alkalmazni.”
+
+204. § A Vtv.
+
+- a) 14. § (7) bekezdésében az „az ügyfél a kizárást megtagadó végzésben eljárási” szövegrész helyébe az „akkor az ügyfél vámigazgatási”,
+- b) 15. §-ában az „akkor a vámhatóság” szövegrész helyébe az „akkor a vámhatóság személyesen, postai úton vagy” szöveg,
+- c) 18. § (4) bekezdésében, a 32. § (5) bekezdésében, a 46. § (1) és (3) bekezdésében, a 49. § (3) bekezdésében, az 51. § (6) bekezdésben, az 56. § (2) bekezdésében, az 57. § (5) bekezdésében, az 59. § (6) bekezdésében és a 61. §-ában az „eljárási bírsággal” szövegrész helyébe a „vámigazgatási bírsággal” szöveg,
+- d) 31. § (1) bekezdésében a „díjfizetés ellenében” szövegrész helyébe a „díjfizetés ellenében jogosult” szöveg,
+- e) 84. § (3) bekezdés h) pontjában a „birtokolnak.” szövegrész helyébe a „birtokolnak,” szöveg,
+- f) 97. § (3) bekezdésében az „a lefoglalás megszüntetése iránti kérelmet elutasító, valamint a vámigazgatási eljárással kapcsolatos eljárási cselekmény megsértése miatt eljárási bírságot kiszabó” szövegrész helyébe a „valamint a lefoglalás megszüntetése iránti kérelmet elutasító” szöveg,
+- g) 101. § (4) bekezdésében az „eljárási bírságot” szövegrész helyébe a „vámigazgatási bírságot” szöveg,
+- h) 176. § (1) bekezdésében az „Egységes Vám-árunyilatkozatnak” szövegrész helyébe az „egységes vámokmány” szöveg
+
+lép.
+
+205. § Hatályát veszti a Vtv.
+
+- a) 46. § (2) bekezdése,
+- b) 92. §-a,
+- c) 95. § (2) bekezdés f) pontja,
+- d) 162. § (7) és (8) bekezdésében, valamint a 166. § (1) és (4) bekezdésben a „vagy eljárási” szövegrészek.
 
 #### 29. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 

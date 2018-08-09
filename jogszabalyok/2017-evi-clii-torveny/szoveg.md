@@ -150,7 +150,7 @@ az érdekelt vámszervek kötelesek egymás között azonnal, de legfeljebb 3 mu
 
 (6) A kizárás tárgyában a szerv kiadmányozási jogkörrel rendelkező vezetője dönt, szükség esetén más ügyintézőt jelöl ki és arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ügyintéző járt el. Ha a kizárási okot az ügyfél jelentette be, a kizárásról a vámhatóság végzésben dönt, és arról az ügyfelet is tájékoztatja.
 
-(7) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban az eljárásban ugyanazon ügyintéző ellen ismételten alaptalan bejelentést tesz, az ügyfél a kizárást megtagadó végzésben eljárási bírsággal sújtható.
+(7) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban az eljárásban ugyanazon ügyintéző ellen ismételten alaptalan bejelentést tesz, akkor az ügyfél vámigazgatási bírsággal sújtható.
 
 (8) Ha a kizárási ok a szerv kiadmányozási jogkörrel rendelkező vezetőjével szemben merül fel, akkor az ügyben a felettes szerv vezetője által kijelölt másik azonos hatáskörű szerv jár el. A kijelölésről a felettes szerv végzésben tájékoztatja az ügyfelet.
 
@@ -164,7 +164,7 @@ az érdekelt vámszervek kötelesek egymás között azonnal, de legfeljebb 3 mu
 
 #### 15. § [A kapcsolattartás általános szabályai]
 
-Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere és adattárolás elektronikus adatfeldolgozási eljárástól eltérő módon történik, valamint e törvény vagy uniós vámjogszabályok mást nem határoznak meg, akkor a vámhatóság az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott módon tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
+Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere és adattárolás elektronikus adatfeldolgozási eljárástól eltérő módon történik, valamint e törvény vagy uniós vámjogszabályok mást nem határoznak meg, akkor a vámhatóság személyesen, postai úton vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott módon tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 
 #### 16. § [Betekintés az eljárás irataiba]
 
@@ -219,7 +219,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 
 (3) Az 51. § (4) bekezdés c) pontja alapján a tanúvallomás megtagadására jogosult személynek az áru és eszköz átadása alóli mentessége az annak alapjául szolgáló jogviszony megszűnése után is fennmarad.
 
-(4) Ha az áru és eszköz átadására köteles személy nem adja át az árut és eszközt, a vámhatóság a lefoglalást foganatosítja, és az áru és eszköz átadására köteles személyt eljárási bírsággal sújthatja.
+(4) Ha az áru és eszköz átadására köteles személy nem adja át az árut és eszközt, a vámhatóság a lefoglalást foganatosítja, és az áru és eszköz átadására köteles személyt vámigazgatási bírsággal sújthatja.
 
 (5) A lefoglalás foganatosítására a szemle szabályai irányadóak azzal, hogy a szemletárgy birtokosára vonatkozó szabályokat a lefoglalt áru és eszköz birtokosára kell alkalmazni.
 
@@ -380,7 +380,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 - a) a felfüggesztés lezárásáról, ha az EORI szám érvénytelenítését elrendelő határozatot megsemmisítették,
 - b) az árunyilatkozat, értesítés és kérelem elutasításáról, ha az EORI szám érvénytelenítését helyben hagyták.
 
-(7) Az EORI szám érvénytelenítésére irányuló kérelemre vagy hivatalból indult eljárás során az EORI szám érvénytelenítésére vonatkozó határozat akkor hozható meg, ha az adott EORI számon nyilvántartott ügyfél vonatkozásában az FJA 7. cikk (1) bekezdés b) pontja szerinti tudomásra jutás vagy az érvénytelenítésre irányuló kérelem befogadása előtt indult vámigazgatási eljárások lezárulnak, a vámhatóság az esedékes vám és egyéb terhek megfizetésére vonatkozó kötelezettségeket előírja a folyószámlán, és a lejárt tartozások beszedése iránti intézkedéseket végrehajtja.
+(7) Az EORI szám érvénytelenítésére irányuló kérelemre vagy hivatalból indult eljárás során az EORI szám érvénytelenítésére vonatkozó határozat akkor hozható meg, ha az adott EORI számon nyilvántartott ügyfél vonatkozásában az FJA 7. cikk (1) bekezdés b) pontja szerinti tudomásra jutás vagy az érvénytelenítésre irányuló kérelem befogadása előtt indult vámigazgatási eljárások lezárulnak, a vámhatóság az esedékes vám és egyéb terhek, a Vámkódex 112. vagy 114. cikke szerinti kamat, valamint a vámhatósági eljárások után fizetendő díjak és költségek megfizetésére vonatkozó kötelezettségeket előírja a folyószámlán, és a lejárt tartozások beszedése iránti intézkedéseket végrehajtja.
 
 (8) Az EORI szám érvénytelenítése az adószabályok szerinti VPID számként való alkalmazást közvetlenül nem szünteti meg. A VPID számként való alkalmazás megszüntetését a NAV az adóigazgatási eljárások lezárását és az adótartozás beszedését követően végezheti el.
 
@@ -477,7 +477,7 @@ közös feladataik teljesítése érdekében – ha az adatvédelem technikai fe
 
 #### 31. § [Adatkérés]
 
-(1) Az ügyfél díjfizetés ellenében a NAV váminformatikai rendszerében levő, saját vámtevékenységéhez kapcsolódó forgalmi adatok lekérésére. A fizetendő díj mértékének meghatározó szempontjait a miniszter rendeletben állapítja meg.
+(1) Az ügyfél díjfizetés ellenében jogosult a NAV váminformatikai rendszerében levő, saját vámtevékenységéhez kapcsolódó forgalmi adatok lekérésére. A fizetendő díj mértékének meghatározó szempontjait a miniszter rendeletben állapítja meg.
 
 (2) Piackutatásra vagy egyéb célra díjfizetés ellenében adható át olyan forgalmi adat, amely személlyel nem azonosítható, azonban nem adható át adat stratégiai termékekről, így különösen az állami tartalék célú áruforgalomról, a nemzetbiztonsági és honvédelmi célú áruforgalomról, továbbá ha a forgalmazásban az exportőr, importőr vagy gyártó száma 3-nál kevesebb. A fizetendő díj mértékének meghatározó szempontjait a miniszter rendeletben állapítja meg.
 
@@ -495,7 +495,7 @@ közös feladataik teljesítése érdekében – ha az adatvédelem technikai fe
 
 (4) Ha a vámhatóság adatszolgáltatásra vonatkozó kérését elektronikus úton juttatja el az általa e céllal működtetett elektronikus rendszeren keresztül a pénzügyi intézmény, a pénzforgalmi intézmény és a befektetési vállalkozás részére, a megkeresés, illetve annak teljesítése tekintetében az adóigazgatási rendtartásról szóló törvény (a továbbiakban: Air.) rendelkezéseit kell alkalmazni.
 
-(5) Ha az ügyfél az adatszolgáltatási kötelezettségének a vámhatóság felhívására, a meghatározott időpontig nem tesz eleget, eljárási bírsággal sújtható, továbbá a vámhatóság a vámellenőrzést és az áruátengedést követő ellenőrzést felfüggesztheti és – az ellenőrzött ügyfél költségére – a nyilvántartásokat, elszámolásokat szakértővel elkészíttetheti.
+(5) Ha az ügyfél az adatszolgáltatási kötelezettségének a vámhatóság felhívására, a meghatározott időpontig nem tesz eleget, vámigazgatási bírsággal sújtható, továbbá a vámhatóság a vámellenőrzést és az áruátengedést követő ellenőrzést felfüggesztheti és – az ellenőrzött ügyfél költségére – a nyilvántartásokat, elszámolásokat szakértővel elkészíttetheti.
 
 (6) A vámhatóság a vámmentességek közösségi rendszerének létrehozásáról szóló, 2009. november 16-i 1186/2009/EK tanácsi rendelet (a továbbiakban: vámmentességi rendelet) 107. cikke alapján történő vámmentes üzemanyag-behozatal esetén a vámmentességi rendelet 110. cikk (1) bekezdése szerinti kötelezettség ellenőrzése, valamint a vámmentességi rendelet 110. cikk (2) bekezdése szerinti vámfizetési kötelezettség teljesítésének biztosítása érdekében a szabad forgalomba bocsátás vámeljárás alanyát kötelezheti a természetes személyazonosító adatai, továbbá a gépjármű belépésének és – ha történt ilyen – a kilépésének időpontjára, rendszámára, üzemmódjára vonatkozó adatok szolgáltatására.
 
@@ -661,11 +661,11 @@ A vámhatóság az eljárást megszünteti, ha
 - a) a szabályszerű idézésnek nem tesz eleget, vagy meghallgatása előtt az eljárás helyéről engedély nélkül eltávozik, és távolmaradását előzetesen alapos okkal nem menti ki, vagy utólag megfelelően nem igazolja, vagy
 - b) az idézésre meghallgatásra alkalmatlan állapotban jelenik meg, és ezt a körülményt nem menti ki,
 
-eljárási bírsággal sújtható.
+vámigazgatási bírsággal sújtható.
 
-(2) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, a vámhatóság visszavonja az eljárási bírságot megállapító végzést.
+(2)
 
-(3) Ha jogi személy vagy egyéb szervezet szervezeti képviselője nem jelent meg az idézésre, és a képviselő nevét a törvényes képviselő a vámhatóság felhívására nem közli, a felhívott törvényes képviselő, illetve a jogi személy vagy egyéb szervezet eljárási bírsággal sújtható.
+(3) Ha jogi személy vagy egyéb szervezet szervezeti képviselője nem jelent meg az idézésre, és a képviselő nevét a törvényes képviselő a vámhatóság felhívására nem közli, a felhívott törvényes képviselő, illetve a jogi személy vagy egyéb szervezet vámigazgatási bírsággal sújtható.
 
 #### 47. § [Értesítés eljárási cselekményről]
 
@@ -693,7 +693,7 @@ eljárási bírsággal sújtható.
 
 (2) Ha a tényállás tisztázása azt szükségessé teszi, a vámjogszabályok eltérő rendelkezése hiányában a vámhatóság az ügyfelet a kérelmére indult eljárásban nyilatkozattételre, adatszolgáltatásra hívhatja fel. Ha az ügyfél a kérelmére indult vámigazgatási eljárásban a vámhatóság felhívására nem nyilatkozik, vagy az adatszolgáltatást nem teljesíti, a vámhatóság a rendelkezésre álló adatok alapján dönt.
 
-(3) Ha az ügyfél más tudomása ellenére a vámigazgatási ügy szempontjából jelentős adatot, tényt valótlanul állít, illetve elhallgat, valótlan adatot szolgáltat, eljárási bírsággal sújtható.
+(3) Ha az ügyfél más tudomása ellenére a vámigazgatási ügy szempontjából jelentős adatot, tényt valótlanul állít, illetve elhallgat, valótlan adatot szolgáltat, vámigazgatási bírsággal sújtható.
 
 (4) A vámhatóság az (1) bekezdés szerinti esetben figyelmezteti az ügyfelet jogaira, kötelességeire és a hamis, hamisított vagy valótlan tartalmú bizonyíték szolgáltatásának jogkövetkezményeire.
 
@@ -727,7 +727,7 @@ eljárási bírsággal sújtható.
 
 (5) Nem használható fel bizonyítékként a (3) bekezdésben, valamint az 53. § (6) bekezdésében foglalt rendelkezés megsértésével felvett tanúvallomás, továbbá az olyan tanúvallomás, amelynek megtétele előtt a tanút nem figyelmeztették a (4) bekezdésben meghatározott jogára.
 
-(6) Ha a tanú a (2) bekezdés szerinti kötelezettségének a következményekre való figyelmeztetés ellenére nem tesz eleget, eljárási bírsággal sújtható.
+(6) Ha a tanú a (2) bekezdés szerinti kötelezettségének a következményekre való figyelmeztetés ellenére nem tesz eleget, vámigazgatási bírsággal sújtható.
 
 #### 52. § [A tanú meghallgatása]
 
@@ -797,7 +797,7 @@ eljárási bírsággal sújtható.
 
 (1) Ha a szemletárgy birtokosa a szemletárgyat a vámhatóság felhívására – a jogkövetkezményre való figyelmeztetés ellenére – nem mutatja fel, illetve annak helyszíni átvizsgálását akadályozza, a vámhatóság a szemletárgyat lefoglalhatja.
 
-(2) A szemle megtartását vagy eredményes lefolytatását akadályozó személy eljárási bírsággal sújtható.
+(2) A szemle megtartását vagy eredményes lefolytatását akadályozó személy vámigazgatási bírsággal sújtható.
 
 #### 57. § [Szakértő]
 
@@ -809,7 +809,7 @@ eljárási bírsággal sújtható.
 
 (4) Szakértőként nem járhat el az, aki tanúként nem hallgatható meg, vagy aki a tanúvallomást megtagadhatja.
 
-(5) A kirendelt szakértő eljárási bírsággal sújtható, ha anélkül, hogy a határidő meghosszabbítása iránti igényét vagy akadályoztatását előzetesen bejelentette volna, feladatait határidőre nem teljesíti.
+(5) A kirendelt szakértő vámigazgatási bírsággal sújtható, ha anélkül, hogy a határidő meghosszabbítása iránti igényét vagy akadályoztatását előzetesen bejelentette volna, feladatait határidőre nem teljesíti.
 
 (6) A vámhatóság a kirendelt szakértővel közli mindazokat az adatokat, amelyekre feladatának teljesítéséhez szüksége van. A kirendelt szakértő az ügy iratait az eljárási feladatainak ellátásához szükséges mértékben megtekintheti, az ügyfél és a tanú meghallgatásánál, a tárgyaláson és a szemlén jelen lehet, az ügyfélhez, a tanúhoz, a szemletárgy birtokosához kérdéseket intézhet.
 
@@ -851,7 +851,7 @@ eljárási bírsággal sújtható.
 
 (5) A tárgyaláson a (2) bekezdésben foglaltakon kívül bárki részt vehet, akinek a részvételét az ügyfelek nem kifogásolják. A vámhatóság a védett adat és zártan kezelt adatok védelme érdekében is kizárhatja a tárgyalásról a nyilvánosságot.
 
-(6) Azt, aki a tárgyalás rendjét zavarja, a tárgyalás vezetője rendreutasíthatja, ismételt vagy súlyosabb rendzavarás esetén a tárgyalásról kiutasíthatja, továbbá eljárási bírsággal sújthatja.
+(6) Azt, aki a tárgyalás rendjét zavarja, a tárgyalás vezetője rendreutasíthatja, ismételt vagy súlyosabb rendzavarás esetén a tárgyalásról kiutasíthatja, továbbá vámigazgatási bírsággal sújthatja.
 
 #### 60. § [A bizonyítékok ismertetése az ügyféllel]
 
@@ -859,7 +859,7 @@ Ha a vámhatóság az ügyben bizonyítási eljárást folytatott le, amelynek s
 
 #### 61. § [A vámigazgatási eljárás akadályozásának következményei]
 
-Azt, aki a vámigazgatási eljárásban a kötelezettségét önhibájából megszegi, a vámhatóság az okozott többletköltségek megtérítésére kötelezi, illetve akadályoztatás miatt eljárási bírsággal sújthatja.
+Azt, aki a vámigazgatási eljárásban a kötelezettségét önhibájából megszegi, a vámhatóság az okozott többletköltségek megtérítésére kötelezi, illetve akadályoztatás miatt vámigazgatási bírsággal sújthatja.
 
 #### 62. § [Az eljárási cselekmények rögzítése]
 
@@ -1210,7 +1210,7 @@ az a) és b) pont szerint keletkezett bírságok együttes összege meghaladja a
 (1) Az eljáró vámszerv vámigazgatási bírságot szab ki az alábbi tárgykörökbe tartozó, a vámjogszabályokban meghatározott
 
 - a) árunyilatkozat-adással, árunyilatkozat adatainak helytállóságával, értesítéssel, okmánymegőrzéssel,
-- b) vámfelügyelettel, vámellenőrzéssel,
+- b) vámfelügyelettel, vámigazgatási üggyel,
 - c) vámeljárásokkal,
 - d) vámjogszabályok alkalmazásához kapcsolódó határozatokkal,
 - e) vámmentességekkel,
@@ -1238,7 +1238,8 @@ az a) és b) pont szerint keletkezett bírságok együttes összege meghaladja a
 - e) az a személy, aki az Unió vámterületére árut szállít be, nem állítja azt vám elé a belépést követően,
 - f) az árut a Vámkódex 140. cikke szerint a vámhatóság engedélye nélkül vagy nem a vámhatóság által kijelölt vagy jóváhagyott helyeken rakják ki vagy átrakják az azt fuvarozó szállítóeszközről,
 - g) az a személy, aki az Unió vámterületérről árut szállít ki, nem állítja azt vám elé a kilépést megelőzően,
-- h) az Unió vámterületére jogellenesen bejuttatott nem uniós árut vagy az árutovábbítási eljárás alatt álló, a rendeltetési vámhivatalnál vám elé nem állított árut szereznek meg vagy birtokolnak.
+- h) az Unió vámterületére jogellenesen bejuttatott nem uniós árut vagy az árutovábbítási eljárás alatt álló, a rendeltetési vámhivatalnál vám elé nem állított árut szereznek meg vagy birtokolnak,
+- i) az érintett személy – tevékenységével vagy mulasztásával – a vámigazgatási ügy lefolytatását akadályozza.
 
 (4) Az (1) bekezdés c) pontjában foglalt jogsértés valósul meg különösen, ha
 
@@ -1418,24 +1419,7 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 
 (7) Az engedély (6) bekezdés szerinti módosítása esetén a visszavont könnyítésekre okot adó körülmények újbóli teljesítésének feltételeit a módosítás hatálybalépésétől kell vizsgálni.
 
-#### 92. § [Eljárási bírság]
-
-(1) Az eljáró vámszerv a vámigazgatási eljárás során az e törvényben meghatározott eljárási cselekmények megsértése miatt végzés útján eljárási bírságot szabhat ki.
-
-(2) Az eljárási bírság összegét természetes személy esetében 100 000 forintig, minden más személy esetében 1 millió forintig terjedő összegben kell megállapítani.
-
-(3) Az eljárási bírság kiszabásakor a vámhatóság figyelembe veszi:
-
-- a) hogy az ügyfél, illetve eljáró képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el,
-- b) a jogellenes magatartás súlyát és a felróhatóság mértékét,
-- c) az érintett vagyoni helyzetét és jövedelmi viszonyait, továbbá
-- d) az eljárási bírságnak ugyanabban az eljárásban történő ismételt kiszabása esetén az előző bírságolások számát és mértékét.
-
-(4) Az eljáró vámszerv az (1) bekezdés szerinti jogsértés esetén első ízben, egy alkalommal bírság kiszabása nélkül írásban figyelmeztetheti a jogsértőt, ha a jogsértés mértékéből úgy látja, hogy bírság kiszabása nem indokolt.
-
-(5) A bírság késedelmes megfizetése esetén a késedelem minden naptári napja után a felszámítás időpontjában érvényes jegybanki alapkamat 365-öd részének megfelelő mértékű késedelmi kamatot kell felszámítani, ha annak számított értéke meghaladja az 5000 forintot.
-
-(6) Az eljárási bírságra a 87. § (1)–(3) és (5) bekezdését megfelelően alkalmazni kell.
+#### 92. §
 
 ### XII. Fejezet — JOGORVOSLAT
 
@@ -1471,7 +1455,7 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 - b) az ügyféli jogállásról vagy jogutódlásról rendelkező,
 - d) az eljárást megszüntető,
 - e) az eljárás felfüggesztő,
-- f) a vámigazgatási eljárással kapcsolatos eljárási cselekmény megsértése miatt eljárási bírságot kiszabó,
+- f)
 - g) az igazolási kérelmet elutasító,
 - h) a 90. § (1) és (4) bekezdése kivételével a lefoglalást elrendelő, valamint az annak megszüntetésére irányuló kérelmet elutasító
 - i) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
@@ -1500,7 +1484,7 @@ elsőfokú végzés ellen.
 
 (2) Ha a vámhatóság a végzését nem nyilvánította azonnal végrehajthatónak, a fellebbezésnek – a (3) bekezdésben foglalt kivételekkel – a végzés végrehajtására halasztó hatálya van.
 
-(3) Az ideiglenes biztosítási intézkedésről szóló, az iratbetekintési jog korlátozása iránti kérelemnek helyt adó, a 90. § (6) bekezdése kivételével a lefoglalást elrendelő, a lefoglalás megszüntetése iránti kérelmet elutasító, valamint a vámigazgatási eljárással kapcsolatos eljárási cselekmény megsértése miatt eljárási bírságot kiszabó végzés elleni fellebbezésnek a végrehajtásra nincs halasztó hatálya.
+(3) Az ideiglenes biztosítási intézkedésről szóló, az iratbetekintési jog korlátozása iránti kérelemnek helyt adó, a 90. § (6) bekezdése kivételével a lefoglalást elrendelő, valamint a lefoglalás megszüntetése iránti kérelmet elutasító végzés elleni fellebbezésnek a végrehajtásra nincs halasztó hatálya.
 
 #### 98. § [Fellebbezés benyújtása]
 
@@ -1564,7 +1548,7 @@ elsőfokú végzés ellen.
 
 (3) Az elsőfokú vámhatóságot a felettes szerv döntésének rendelkező része és indokolása köti, a megismételt eljárás és a döntéshozatal során annak megfelelően jár el.
 
-(4) Az új eljárás során – semmisségi okon kívül – nem lehet olyan új tényt állítani, illetve olyan új bizonyítékot előadni, amelyről az eljárás alanyának a megelőző eljárásban hozott elsőfokú döntés meghozatala előtt tudomása volt, azonban azt a vámhatóság felhívása ellenére nem terjesztette elő. A vámhatóság felhívásának tartalmaznia kell a jogkövetkezményekre történő figyelmeztetést. Iratpótlás elmulasztása esetén további feltétel, hogy az elsőfokú vámszerv az ellenőrzés, kiegészítő ellenőrzés során az ellenőrzés akadályozása miatt eljárási bírságot szabjon ki.
+(4) Az új eljárás során – semmisségi okon kívül – nem lehet olyan új tényt állítani, illetve olyan új bizonyítékot előadni, amelyről az eljárás alanyának a megelőző eljárásban hozott elsőfokú döntés meghozatala előtt tudomása volt, azonban azt a vámhatóság felhívása ellenére nem terjesztette elő. A vámhatóság felhívásának tartalmaznia kell a jogkövetkezményekre történő figyelmeztetést. Iratpótlás elmulasztása esetén további feltétel, hogy az elsőfokú vámszerv az ellenőrzés, kiegészítő ellenőrzés során az ellenőrzés akadályozása miatt vámigazgatási bírságot szabjon ki.
 
 #### 102. § [Felügyeleti intézkedés]
 
@@ -1706,13 +1690,13 @@ A vámellenőrzés befejezésének formája lehet írásbeli vagy szóbeli közl
 
 Ha a vámellenőrzést lefolytató vámszerv nem azonos a további intézkedés megtételére jogosult vámszervvel, a vámellenőrzést lefolytató vámszerv a jegyzőkönyvet és a kiegészítő jegyzőkönyvet, valamint a megállapításokat alátámasztó bizonyítékokat a helyzet rendezése érdekében haladéktalanul megküldi az intézkedés megtételére jogosult vámszerv részére. Ez utóbbi szerv az ellenőrzést lefolytató vámszerv által indított vámellenőrzés ügyintézési határidején belül, a 115. §-ban meghatározottak szerint jár el.
 
-#### 118. § [Vámügyi segítségnyújtásra irányuló megkeresések]
+#### 118. § [Vámügyi segítségnyújtásra irányuló, valamint származás utólagos megerősítése iránti megkeresések]
 
-(1) A közigazgatási hatóságok közötti vámügyi segítségnyújtásra irányuló megkeresések teljesítése érdekében a vámhatóság a nyilvántartásában és az ügyfél nyilvántartásában szereplő adatok, és az azokhoz kapcsolódó tények, körülmények valóságtartalmának, illetőleg ezek hitelességének megállapítása érdekében adatokat gyűjthet, vagy a helyszínen ellenőrzést végezhet.
+(1) A közigazgatási hatóságok közötti vámügyi segítségnyújtásra irányuló és származás utólagos megerősítése iránti megkeresések teljesítése érdekében a vámhatóság a nyilvántartásában és az ügyfél nyilvántartásában szereplő adatok, és az azokhoz kapcsolódó tények, körülmények valóságtartalmának, illetőleg ezek hitelességének megállapítása érdekében adatokat gyűjthet, vagy a helyszínen ellenőrzést végezhet.
 
-(2) Ha a megkeresés megválaszolása a vámhatóság rendelkezésére álló adatok alapján teljesíthető, úgy az eljárásról az érintett ügyfelet értesíteni nem kell.
+(2) Ha a vámügyi segítségnyújtásra irányuló megkeresés megválaszolása a vámhatóság rendelkezésére álló adatok alapján teljesíthető, úgy az eljárásról az érintett ügyfelet értesíteni nem kell.
 
-(3) Ha a megkeresés megválaszolása érdekében szükséges az ügyfél bevonása, akkor az (1) bekezdés szerinti eljárás során a vámellenőrzés szabályait kell alkalmazni.
+(3) Ha a megkeresés megválaszolása érdekében szükséges az ügyfél bevonása, vagy a megkeresés származás utólagos megerősítése iránti megkeresés, akkor az (1) bekezdés szerinti eljárás során a vámellenőrzés szabályait kell alkalmazni.
 
 (4) Az (1) bekezdés alapján a vámhatóság különösen
 
@@ -2262,9 +2246,9 @@ Az egyéb terhek és a hitelkamat, továbbá a késedelmi kamat végrehajtásáh
 
 (6) A túlfizetésként vagy tartozatlan befizetésként nyilvántartott pénzösszeg visszafizetését az állami adó- és vámhatóság a kérelem benyújtásától számított 30 napon belül kamatmentesen teljesítheti.
 
-(7) A vámhatóság megkövetelheti, hogy a vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási vagy eljárási bírság megfizetését az adós – a pénzforgalmi bizonylat eredeti példányának bemutatásával – igazolja.
+(7) A vámhatóság megkövetelheti, hogy a vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási bírság megfizetését az adós – a pénzforgalmi bizonylat eredeti példányának bemutatásával – igazolja.
 
-(8) A vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási vagy eljárási bírság továbbá az e törvény alapján kiszabott díjak és költségek megfizetésére szolgáló és azt igazoló okmányoknak a pénzforgalom lebonyolításáról szóló MNB rendeletben meghatározott adatokon túl tartalmazniuk kell
+(8) A vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási bírság továbbá az e törvény alapján kiszabott díjak és költségek megfizetésére szolgáló és azt igazoló okmányoknak a pénzforgalom lebonyolításáról szóló MNB rendeletben meghatározott adatokon túl tartalmazniuk kell
 
 - a) a vámadós EORI számát, adószámát vagy adóazonosító jelét, külföldi személy esetében a személyi okmány számát,
 - b) a terhelendő számla számát,
@@ -2331,7 +2315,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 #### 166. § [Jogkövetkezmények vámtartozás meg nem fizetése esetén]
 
-(1) Ha az esedékes vám és egyéb terhek összegét, a hitelkamatot, a késedelmi kamatot, illetve a megállapított vámigazgatási vagy eljárási bírságot az előírt időtartamon belül nem fizették meg, illetve bármely tagállam vámhatósága a tartozás végrehajtása érdekében megkeresést küld, a vámhatóság haladéktalanul intézkedik a következők szerint:
+(1) Ha az esedékes vám és egyéb terhek összegét, a hitelkamatot, a késedelmi kamatot, illetve a megállapított vámigazgatási bírságot az előírt időtartamon belül nem fizették meg, illetve bármely tagállam vámhatósága a tartozás végrehajtása érdekében megkeresést küld, a vámhatóság haladéktalanul intézkedik a következők szerint:
 
 - a) ha a tartozást a vámigazgatási eljáráshoz nyújtott biztosíték teljes egészében fedezi, a vámhatóság azt érvényesíti,
 - b) ha a tartozást a vámigazgatási eljáráshoz nyújtott biztosíték teljes összegében nem fedezi, a rendelkezésre álló biztosítékot elszámolja, és a fennmaradó összeg vonatkozásában, továbbá, ha nem kellett biztosítékot nyújtani, a végrehajtási eljárás megindítása iránt haladéktalanul intézkedik.
@@ -2340,7 +2324,7 @@ a halasztott vámfizetés szabályai szerint fizesse meg.
 
 (3) A vámhatóság az adós számára visszatéríthető vámot és egyéb terheket az adós NAV által nyilvántartott tartozásának összegéig visszatarthatja.
 
-(4) Az egy határozattal megállapított vámtartozás és az egyéb terhek, a hitelkamat, késedelmi kamat, továbbá a vámigazgatási vagy eljárási bírság tartozás részbeni teljesülése esetén a befizetett összeget először a vámtartozásra kell elszámolni. Az így végzett elszámoláson felül fennmaradó összegnek legalább olyan arányú részét kell az egyéb terhek, hitelkamat, késedelmi kamat, továbbá a vámigazgatási vagy eljárási bírság tartozásra elszámolni, amilyen a megállapított egyéb terhek, a hitelkamat, késedelmi kamat, illetve vámigazgatási vagy eljárási bírság tartozás aránya az előírt fizetendő összegen belül. Az elszámolásról az adóst értesíteni kell.
+(4) Az egy határozattal megállapított vámtartozás és az egyéb terhek, a hitelkamat, késedelmi kamat, továbbá a vámigazgatási bírság tartozás részbeni teljesülése esetén a befizetett összeget először a vámtartozásra kell elszámolni. Az így végzett elszámoláson felül fennmaradó összegnek legalább olyan arányú részét kell az egyéb terhek, hitelkamat, késedelmi kamat, továbbá a vámigazgatási bírság tartozásra elszámolni, amilyen a megállapított egyéb terhek, a hitelkamat, késedelmi kamat, illetve vámigazgatási bírság tartozás aránya az előírt fizetendő összegen belül. Az elszámolásról az adóst értesíteni kell.
 
 #### 52. A Vámkódex 114. cikkéhez
 
@@ -2418,7 +2402,7 @@ Ha valamely szóban bejelentett árura vámtartozás vagy egyéb teherfizetési 
 
 #### 176. § [Az egységes vámokmánytól eltérő formátumú vám-árunyilatkozat]
 
-(1) A vámhatóság az Egységes Vám-árunyilatkozatnak (a továbbiakban: EV) adatfeldolgozó rendszerek segítségével történő kinyomtatását és benyújtását az általa jóváhagyott formában engedélyezheti. Az EV-től eltérő forma tekintetében, az EV alaki és tartalmi, továbbá technikai követelményeit a NAV vezetője tájékoztatásban teszi közzé.
+(1) A vámhatóság az egységes vámokmány (a továbbiakban: EV) adatfeldolgozó rendszerek segítségével történő kinyomtatását és benyújtását az általa jóváhagyott formában engedélyezheti. Az EV-től eltérő forma tekintetében, az EV alaki és tartalmi, továbbá technikai követelményeit a NAV vezetője tájékoztatásban teszi közzé.
 
 (2) Az adatfeldolgozó rendszerek segítségével kinyomtatott EV-n az engedély számát mindkét esetben fel kell tüntetni.
 
@@ -2448,7 +2432,7 @@ A Vámkódex 173. cikk (3) bekezdésében meghatározott eljárást a kérelemre
 
 (4) Szabad forgalomba bocsátásra, meghatározott célra történő felhasználásra, az általánosforgalmiadó-fizetési kötelezettséggel járó ideiglenes behozatalra vonatkozó engedélyhez beleegyezés, illetve ilyen, több tagállamra szóló engedély abban az esetben adható, ha az engedélyező vámhatóság szerinti tagállam és Magyarország között hatályos megállapodás van a visszatartott nemzeti beszedési költségek megosztásáról.
 
-(5) Az engedélyes – abban az esetben, ha a központi vámkezelésre irányuló engedély nem Magyarországon került kiadásra – minden naptári hónapot követő 10. napig köteles a szabad forgalomba bocsátás, meghatározott célra történő felhasználás, az általánosforgalmiadó-fizetési kötelezettséggel járó ideiglenes behozatal során megállapításra kerülő egyéb terhek megállapításához szükséges adónyilatkozatot az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál benyújtani. Nem kell benyújtani az általános forgalmi adó fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az általános forgalmi adó önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.
+(5) Az engedélyes – abban az esetben, ha a központi vámkezelésre irányuló engedély nem Magyarországon került kiadásra – köteles a szabad forgalomba bocsátás, meghatározott célra történő felhasználás, az általánosforgalmiadó-fizetési kötelezettséggel járó ideiglenes behozatal során megállapításra kerülő egyéb terhek megállapításához szükséges adónyilatkozatot az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, az engedélyben meghatározott időpontig benyújtani. Nem kell benyújtani az általános forgalmi adó fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az általános forgalmi adó önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.
 
 (6) A vámhatóság az egyéb terheket az adónyilatkozat alapján állapítja meg.
 
@@ -2460,7 +2444,7 @@ A Vámkódex 173. cikk (3) bekezdésében meghatározott eljárást a kérelemre
 
 #### 180. § [Önértékelési engedély]
 
-Azon önértékelési engedéllyel rendelkező gazdálkodó, akinek a vámhatóság megengedi a VA 225. cikke szerint, hogy a kiegészítő árunyilatkozatai közvetlen elektronikus hozzáféréssel legyenek elérhetők rendszerében, minden naptári hónapot követő 10. napig köteles a tevékenysége során megállapításra kerülő egyéb terhek megállapításához szükséges, a 179. § (5) bekezdésében hivatkozott adónyilatkozatot benyújtani az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, amelyre vonatkozóan a 179. § (7) bekezdését is alkalmazni kell. Nem kell benyújtania az általánosforgalmiadó-fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az áfa önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.
+Azon önértékelési engedéllyel rendelkező gazdálkodó, akinek a vámhatóság megengedi a VA 225. cikke szerint, hogy a kiegészítő árunyilatkozatai közvetlen elektronikus hozzáféréssel legyenek elérhetők rendszerében, köteles a tevékenysége során megállapításra kerülő egyéb terhek megállapításához szükséges, a 179. § (5) bekezdésében hivatkozott adónyilatkozatot benyújtani az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, az engedélyben meghatározott időpontig, amelyre vonatkozóan a 179. § (7) bekezdését is alkalmazni kell. Nem kell benyújtania az általánosforgalmiadó-fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az áfa önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.
 
 ### XXIV. Fejezet — ÁRUKRÓL TÖRTÉNŐ RENDELKEZÉS
 
@@ -2496,7 +2480,11 @@ Azon áru helyzetének rendezésére, amelynek tekintetében a vámjogszabályok
 
 #### 185. § [Adónyilatkozat aktív feldolgozás során]
 
-Az aktív feldolgozás engedélyese minden naptári hónapot követő 10. napig köteles a VA 324. cikk (1) bekezdése alkalmazása során megállapításra kerülő egyéb terhek megállapításához szükséges, a 179. § (5) bekezdése szerinti adónyilatkozatot benyújtani az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál. Nem kell benyújtania az általánosforgalmiadó-fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az áfa önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.
+Az aktív feldolgozás engedélyese köteles a VA 324. cikk (1) bekezdése alkalmazása során megállapításra kerülő egyéb terhek megállapításához szükséges, a 179. § (5) bekezdése szerinti adónyilatkozatot benyújtani az adófizetési kötelezettség keletkezésekor az engedélyben megjelölt vámhivatalnál, az engedélyben meghatározott időpontig. Nem kell benyújtania az általánosforgalmiadó-fizetési kötelezettség megállapításához szükséges adónyilatkozatot annak a gazdálkodónak, aki rendelkezik az áfa önadózással történő megállapítására jogosító engedéllyel és egyéb adófizetési kötelezettsége a vámhatóság felé nem keletkezik.
+
+#### 185/A. § [Együttműködési megállapodás helyhez kötött szállítóberendezések kapcsán]
+
+A VA 321. cikk (3) bekezdése alapján a helyhez kötött szállítóberendezéssel szállított áruk feletti vámfelügyelet gyakorlásának módszereit a vámeljárás jogosultjának és a vámhivatalnak együttműködési megállapodás formájában, írásban kell rögzítenie.
 
 ### XXVII. Fejezet — TÁROLÁS
 
@@ -3054,6 +3042,8 @@ rendeletben állapítsa meg.
 (12) Ha a (10) bekezdés szerinti átmeneti időszakban a határozott érvényességi idejű engedélyek érvényességi idejének meghosszabbításra vonatkozóan kérelmet terjesztenek elő, úgy azt az FJA. 251. cikk (1) bekezdés a) pontjára tekintettel elutasítja.
 
 (13) Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 26. és 26/A. alcímének hatályba lépése előtt kiadott bankgaranciák és biztosítói kötelezvények a lejáratukig vagy visszavonásukig, de legkésőbb 2019. április 30-ig érvényesek. Ha e biztosítékok alapján az adott áruk 2019. április 30-át követően átmeneti megőrzésben vannak vagy vámeljárás alatt állnak, úgy a biztosíték nyújtására kötelezett köteles az e törvényben foglaltaknak megfelelően új biztosítékot nyújtani.
+
+(14) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény hatálybalépése előtt indult vámigazgatási ügyekben kiszabott eljárási bírságok, valamint a származás utólagos megerősítése iránti megkeresések tekintetében az eljárás megindításakor hatályos rendelkezéseket kell alkalmazni.
 
 ### XXXVIII. Fejezet
 

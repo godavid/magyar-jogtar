@@ -220,172 +220,114 @@ az üzleti titok védelméről
 
 #### 13. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-18. § Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 40/A. § (1) bekezdésében az „a Ptk. 2:47. § (1) bekezdésében” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 18. §
 
 #### 14. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-19. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 24. §-ában az „A Ptk. 2:47. § (1) bekezdésében” szövegrész helyébe az „Az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 19. §
 
-20. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 25. § (2) bekezdésében az „A Ptk. 2:47. § (1) bekezdésében” szövegrész helyébe az „Az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 20. §
 
 #### 15. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-21. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 184/A. § (1) bekezdésében a „vagy szerzői jog” szövegrész helyébe a „ , szerzői jog vagy üzleti titokhoz fűződő jog” szöveg lép.
+#### 21. §
 
 #### 16. A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény módosítása
 
-22. § A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 1. § (2) bekezdés
-
-- a) g) pontjában az „a Polgári Törvénykönyv 2:47. §-a” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (2) bekezdése” szöveg;
-- b) h) pontjában „a Polgári Törvénykönyv 2:47. §-ának (2) bekezdése” szövegrész helyébe „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (2) bekezdése” szöveg
-
-lép.
+#### 22. §
 
 #### 17. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló
 
 1996. évi LVII. törvény módosítása
 
-23. § (1) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.)
-
-- a) 11. § (3) bekezdésében a „Ptk.-ban” szövegrész helyébe a „Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.)” szöveg,
-- b) 86. § (3) bekezdésében a „4. § vagy a 6. § rendelkezéseinek megsértése miatt indított perekben” szövegrész helyébe a „6. §-ban foglalt rendelkezés megsértése miatt indított perben” szöveg,
-- c) 88. § (4) és (5) bekezdésében a „4. § vagy a 6. § rendelkezéseinek” szövegrész helyébe a „6. §-ban foglalt rendelkezés” szöveg,
-- d) 88. § (4) bekezdésében a „4. §-ban vagy a 6. §-ban foglalt rendelkezéseket” szövegrész helyébe a „6. §-ban foglalt rendelkezést” szöveg,
-- e) 88. § (6) bekezdésében az „a 4. §-ba vagy a 6. §-ba” szövegrész helyébe az „a 6. §-ba” szöveg,
-- f) 88. § (7) bekezdésében a „4. §-ban, illetve a 6. §-ban foglalt rendelkezések” szövegrész helyébe a „6. §-ban foglalt rendelkezés” szöveg,
-- g) 88. § (7) és (9) bekezdésében a „4. §-ban vagy a 6. §-ban foglalt rendelkezések” szövegrész helyébe a „6. §-ban foglalt rendelkezés” szöveg
-
-lép.
-
-(2) Hatályát veszti a Tpvt. 4. §-a.
+#### 23. §
 
 #### 18. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-24. § Az atomenergiáról szóló 1996. évi CXVI. törvény 17. § (11) bekezdésében az „amelynek nyilvánosságra hozatala az engedélyes jogos érdekét (így különösen pénzügyi, gazdasági vagy piaci érdekét), személyiségi jogát sértené” szövegrész helyébe az „amelynek nyilvánosságra hozatala az engedélyes jogos érdekét – így különösen pénzügyi, gazdasági vagy piaci érdekét – sértené” szöveg lép.
+#### 24. §
 
 #### 19. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-25. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 78. § (1) bekezdésében az „a Ptk. 2:47. § (1) bekezdésében” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 25. §
 
 #### 20. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-26. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 31. § (9) bekezdésében az „a Ptk.” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 26. §
 
 #### 21. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-27. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 10/B. §-ában az „a Ptk. 2:47. § (1) bekezdése” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 27. §
 
 #### 22. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
-28. § A tőkepiacról szóló 2001. évi CXX. törvény 368. § (1) bekezdésében az „a Ptk.-ban” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 28. §
 
 #### 23. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-29. § Az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 109. pontjában az „a Ptk. 2:47. §-a” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 29. §
 
 #### 24. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-30. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (2) bekezdés 7. pontjában a „[Ptk. 2:47. § (1) bekezdés]” szövegrész helyébe az „[az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében]” szöveg lép.
+#### 30. §
 
 #### 25. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-31. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 25. § (1) bekezdésében az „a Ptk. 2:47. § (1) bekezdésében” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 31. §
 
 #### 26. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-32. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 4. § (2) bekezdés 70. pontjában „a Ptk.-ban” szövegrész helyébe „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 32. §
 
 #### 27. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-33. § A földgázellátásról szóló 2008. évi XL. törvény
-
-- a) 127. § s) pontjában az „a Ptk. 2:47. § (1) bekezdése” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése” szöveg,
-- b) 133. § (1) bekezdés 5. pontjában a „[Ptk. 2:47. § (1) bekezdése]” szövegrész helyébe az „[az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése]” szöveg
-
-lép.
+#### 33. §
 
 #### 28. A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló
 
 2009. évi CXXII. törvény módosítása
 
-34. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 7/H. §-ában az „a Ptk. 2:47. § (1) bekezdése” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése” szöveg lép.
+#### 34. §
 
 #### 29. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-35. § (1) A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.)
-
-- a) 2:46. § (1) bekezdésében az „a levéltitok, a hivatásbeli titok és az üzleti titok oltalmára” szövegrész helyébe az „a levéltitok és hivatásbeli titok oltalmára” szöveg,
-- b) 2:55. §-ában az „a szerzői jogról és az iparjogvédelemről” szövegrész helyébe az „a szerzői jogról és az iparjogvédelemről, valamint az üzleti titok védelméről” szöveg
-
-lép.
-
-(2) Hatályát veszti a Ptk. 2:47. §-a.
+#### 35. §
 
 #### 30. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény módosítása
 
-36. § Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 43/I. § (5) bekezdésében az „a Polgári Törvénykönyvről szóló 2013. évi V. törvény” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése” szöveg lép.
+#### 36. §
 
 #### 31. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-37. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 159. § (1) bekezdésében az „a Ptk.-ban” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 37. §
 
-38. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 229. § (2) bekezdésében az „A Ptk.” szövegrész helyébe az „Az üzleti titok védelméről szóló 2018. évi LIV. törvény” szöveg lép.
+#### 38. §
 
 #### 32. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-39. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 4. § (1) bekezdés 101. pontjában az „a Ptk.-ban” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében” szöveg lép.
+#### 39. §
 
-40. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 174. § (1) bekezdésében az „a Ptk.” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény” szöveg lép.
+#### 40. §
 
 #### 33. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-41. § A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 147. § (3) bekezdésében az „a Ptk.-ban” szövegrész helyébe „a Ptk.-ban és az üzleti titok védelméről szóló 2018. évi LIV. törvényben” szöveg lép.
+#### 41. §
 
 #### 34. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-42. § (1) A közbeszerzésekről szóló 2015. évi CXLIII. törvény 44. § (1) bekezdésében a „Ptk. 2:47. §” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. §” szöveg lép.
+42. § (1)
 
 (2) A közbeszerzésekről szóló 2015. évi CXLIII. törvény e törvény 42. §-ával módosított rendelkezéseit a hatálybalépése után megkezdett beszerzésekben, közbeszerzési eljárások alapján megkötött szerződésekben, tervpályázati eljárásokban és az azokkal kapcsolatban kérelmezett, kezdeményezett vagy hivatalból indított jogorvoslati eljárásokban és előzetes vitarendezési eljárásokban kell alkalmazni.
 
 #### 35. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-43. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 52. § (1) bekezdésében
-
-- a) az „a Ptk. 2:47. §-a” szövegrész helyébe az „az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. §-a” szöveg,
-- b) az „a Ptk. vonatkozó” szövegrész helyébe az „az üzleti titok védelméről szóló törvény” szöveg
-
-lép.
+#### 43. §
 
 #### 36. A választottbíráskodásról szóló 2017. évi LX. törvény módosítása
 
-44. § (1) A választottbíráskodásról szóló 2017. évi LX. törvény (a továbbiakban: Vbt.) 1. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+#### 44. §
 
-„(1) E törvény rendelkezéseit kell alkalmazni, ha a választottbíráskodás helye Magyarországon van.
+#### 45. §
 
-(2) Ha nemzetközi szerződés eltérően nem rendelkezik, a 9. §-t, a 10. §-t, a 26–28. §-t, a 40. §-t, az 53. §-t és az 54. §-t alkalmazni kell magyarországi székhelyű állandó választottbíróság eljárása esetén akkor is, ha a választottbíráskodás helye Magyarországon kívül van.”
+#### 46. §
 
-(2) A Vbt. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A 12. § (3) és (4) bekezdése, a 14. § (4) bekezdése, a 15. § (1) bekezdése, a 17. § (3) bekezdése, valamint a 47. § (2) bekezdése szerinti bírósági ügyekben a Fővárosi Törvényszék jár el.”
-
-(3) A Vbt. 7. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A törvényszék – a 9. § (1) és (2) bekezdése szerinti ügyek kivételével – a hozzá választottbírósági ügyben érkezett, eljárást megindító iratot az eljáró, illetve eljárt állandó választottbíróságnak, eseti választottbíráskodás esetén az eljáró, illetve eljárt választottbírónak vagy választottbíráknak, a beérkezéstől számított harminc napon belül megküldi. A törvényszék és a Kúria a választottbírósági ügyben hozott határozatát az eljáró, illetve eljárt állandó választottbíróságnak, eseti választottbíráskodás esetén az eljáró, illetve eljárt választottbírónak vagy választottbíráknak a felek részére történő kézbesítéssel egyidejűleg megküldi.”
-
-45. § A Vbt. 12. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A hiányzó választottbíró kijelölése során figyelemmel kell lenni a felek megállapodásában a választottbírótól megkívánt szakképzettségre vagy más jellemzőre, valamint minden olyan szempontra, amely előreláthatóan biztosítja független és pártatlan választottbíró kijelölését. Ha a Kereskedelmi Választottbíróság hatáskörébe tartozó ügyben a választottbíró-ajánlási listán nem szerepel a felek megállapodásában meghatározott szakképzettséggel vagy más jellemzővel rendelkező személy, egyesbírónak, illetve elnöklő bírónak a választottbíró-ajánlási listán nem szereplő személy is kijelölhető.”
-
-46. § (1) A Vbt. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az elnökségbe az elnököt és két tagot a Magyar Kereskedelmi és Iparkamara, egy-egy tagot pedig a Magyar Energetikai és Közmű-szabályozási Hivatal, a Budapesti Értéktőzsde Zrt., a Magyar Bankszövetség, valamint a Magyar Ügyvédi Kamara delegál. A delegált tagot elnökségi feladatai ellátásával összefüggésben a delegáló szervezet nem utasíthatja.”
-
-(2) A Vbt. 61. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Az elnökség legalább négy tagja kezdeményezheti a tisztségére méltatlanná vált elnökségi tag visszahívását. A delegáló szervezet harminc napon belül dönt a visszahívás iránti indítványról. A delegáló szervezet az elnökségi tag visszahívása esetén, azzal egyidejűleg az elnökségbe új tagot delegál.”
-
-(3) A Vbt. 61. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) Az elnökség tagja az e törvényben meghatározott feladatait személyesen köteles ellátni.”
-
-47. § Hatályát veszti a Vbt. 3. § (1) bekezdés 2., 3., és 4. pontja.
+#### 47. §
