@@ -509,9 +509,9 @@ tartalmazza.
 - h) az atomenergia-felügyeleti szerv által kiadott engedélyben előírt feltétel teljesítése határidejének módosítására irányuló eljárásban,
 - i) a hivatalból indított eljárásban.
 
-13. § (1) A nukleáris létesítménnyel összefüggő hatósági engedélyezési eljárás során biztosítani kell a szakértőként eljáró személyek vagy szervezetek függetlenségét. Az egyes eljárásokban kirendelt, illetve felkért szakértők vagy szakértő szervezetek egymással nem állhatnak semmilyen függőségi viszonyban, nem lehetnek az eljárásban érintett ügyfelek hozzátartozói, nem állhatnak semmilyen közvetlen vagy közvetett gazdasági kapcsolatban a kérelmezővel, továbbá a hatósági eljárásban megjelölt technológia-szállítójával vagy annak versenytársával.
+13. § (1) A nukleáris létesítménnyel összefüggő hatósági engedélyezési eljárás során biztosítani kell a szakértőként eljáró személy vagy szervezet függetlenségét. Az egyes eljárásokban kirendelt vagy felkért szakértő vagy szakértő szervezet nem lehet az eljárásban érintett ügyfelek egyikének sem a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Polgári Törvénykönyv) 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója, nem állhat semmilyen közvetlen vagy közvetett tulajdonosi kapcsolatban a kérelmezővel vagy annak vezető tisztségviselőivel, a hatósági eljárásban megjelölt technológiaszállítóval és nem vehet részt a szakvéleménnyel érintett dokumentumok, valamint azok kiegészítő és háttérdokumentumai kidolgozásában. Szakértő szervezet esetében a hozzátartozói kapcsolatot a szakértő szervezet vezető tisztségviselői és a 19/B. § (2a) bekezdése szerinti szakértői minősítéssel rendelkező személy tekintetében kell figyelembe venni.
 
-(2) A nukleáris létesítmény nukleáris biztonságára lényeges hatással levő tevékenység engedélyezése esetében a kérelmet megalapozó dokumentációt független szakértői értékelésnek kell alávetni. A független szakértői értékelést a kérelmező a hatósági eljárásban, az arra vonatkozó nukleáris biztonsági követelmények szerint nyújtja be az atomenergia-felügyeleti szervhez.
+(2) A nukleáris létesítmény nukleáris biztonságára lényeges hatással lévő tevékenység engedélyezése esetében a kérelmet megalapozó dokumentációt független műszaki szakértői értékelésnek kell alávetni. A független műszaki szakértői értékelést a kérelmező a hatósági eljárásban, az arra vonatkozó nukleáris biztonsági követelmények szerint nyújtja be az atomenergia-felügyeleti szervhez.
 
 (3) A (2) bekezdéstől eltérően új nukleáris létesítmény létesítési engedélyezési eljárásában a független műszaki szakértői véleményeztetés nem előfeltétele az engedélyezési eljárásnak. Ha a kérelmező nem vagy nem teljes körűen nyújt be független szakértői véleményt, akkor az atomenergia felügyeleti szerv azt hivatalból készítteti el, amelynek költsége a kérelmezőt terheli.
 
@@ -853,22 +853,24 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (7)
 
-### Az atomenergia alkalmazása körében eljáró független műszaki szakértő
+### Az atomenergia alkalmazása körében eljáró független műszaki szakértő és szakértő szervezet
 
-19/A. § (1) Atomenergia alkalmazása körében független műszaki szakértői tevékenységet az végezhet, aki e tevékenység végzésére a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara) által kiadott engedéllyel rendelkezik. Ha jogszabály atomenergia alkalmazása körében szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez külön jogkövetkezményt állapít meg, szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki a kamara által kiadott engedéllyel rendelkezik.
+19/A. § (1) Atomenergia alkalmazása körében független műszaki szakértői tevékenységet az a személy vagy szervezet végezhet, aki e tevékenység végzésére a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara) által kiadott engedéllyel rendelkezik. Ha jogszabály atomenergia alkalmazása körében szakkérdésben szakértő igénybevételét írja elő, vagy az ilyen szakértő igénybevételéhez külön jogkövetkezményt állapít meg, szakértőként kizárólag az a személy vagy szervezet vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki a kamara által kiadott engedéllyel rendelkezik.
 
-(2) Szakértőként kizárólag független és pártatlan személy járhat el, akit a követelményeknek való megfelelésről szóló döntés, a vélemény és a megállapítás közlésekor annak tartalmához személyes érdek nem fűz, kizárólag szakmai szempontjai vezetik, és munkájáért járó díja szakvéleménye tartalmától nem függ.
+(2) Szakértőként kizárólag független és pártatlan személy vagy szervezet járhat el, akit vagy amelyet a követelményeknek való megfelelésről szóló döntés, a vélemény és a megállapítás közlésekor annak tartalmához személyes érdek nem fűz, kizárólag szakmai szempontjai vezetik, és munkájáért járó díja szakvéleménye tartalmától nem függ.
 
 (3) A szakértői tevékenység engedélyezése, új szakterülettel való bővítésének engedélyezése iránti eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
-19/B. § (1) Szakértői tevékenység folytatását a kamara annak engedélyezi, aki
+19/B. § (1) Szakértői tevékenység folytatását a kamara annak a személynek engedélyezi, aki
 
 - a) büntetlen előéletű, nem áll az atomenergia alkalmazási körébe tartozó szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, és
 - b) rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakmai gyakorlattal, és megfelel az ott meghatározott egyéb feltételeknek.
 
 (2) Az engedély iránti kérelem tartalmazza a kérelmező természetes személyazonosító adatait, állampolgárságát, értesítési címét, szakirányú végzettségét, a szakmai gyakorlat leírását és idejét, valamint a kérelmezett szakértői szakterület megnevezését.
 
-(3) A Magyar Mérnöki Kamara (a továbbiakban: MMK) az engedéllyel rendelkező személyekről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvényben (a továbbiakban: Szolgtv.) meghatározott adatokon túl – tartalmazza
+(2a) A független műszaki szakértői tevékenység szakértő szervezet által történő ellátását a kamara kérelemre annak a szervezetnek engedélyezi, amely legalább egy, az általa végezni kívánt műszaki szakértői területen szakértői minősítéssel rendelkező személyt foglalkoztat, bármilyen munkavégzésre irányuló jogviszony keretében.
+
+(3) A Magyar Mérnöki Kamara (a továbbiakban: MMK) az engedéllyel rendelkező személyekről nyilvántartást vezet, amely – a Szolgtv. meghatározott adatokon túl – tartalmazza
 
 - a) a szakértő természetes személyazonosító adatait, állampolgárságát, értesítési címét,
 - b) a szakértő szakirányú végzettségét, az ezt igazoló oklevél (oklevelek) számát, keltét és a kiállító intézmény megjelölését,
@@ -882,17 +884,25 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (3a) A nyilvántartás a (3) bekezdés d)–i) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
+(3b) Az MMK az engedéllyel rendelkező független műszaki szakértő szervezetekről nyilvántartást vezet. A nyilvántartás a Szolgtv.-ben meghatározottakon túl tartalmazza mindazon személyeknek a (3) bekezdés a)–d) pontjaiban foglalt adatait, akiknek szakképzettségét és szakmai gyakorlatát az engedély megadásakor a kamara figyelembe veszi, továbbá a független műszaki szakértő szervezet szakterületét, a szakértői tevékenységet engedélyező határozat számát, kiállításának napját és a nyilvántartási számot. Amennyiben a kamara olyan természetes személy szakképzettségét, szakmai gyakorlatát veszi figyelembe, aki a (3) bekezdés alapján a szakértői nyilvántartásában is szerepel, akkor e személy vonatkozásában a szakértői státuszát és nyilvántartási számát, a szakértői tevékenységtől való eltiltás tényét, annak okát, időtartamát, az alapjául szolgáló határozat véglegessé válásának napját és a szakértői tevékenység szünetelésének tényét, kezdő napját és időtartamát is fel kell tüntetni a független műszaki szakértő szervezetek nyilvántartásban.
+
 (4) A nyilvántartás adatai közül a Szolgtv.-ben meghatározott adatokon túl nyilvános a szakértő szakmai gyakorlatának rövid leírása és ideje, a szakterület, a szakértő engedélye kiállításának napja, a szakértői tevékenységtől való eltiltás ténye, az alapjául szolgáló határozat véglegessé válásának napja, a szakértői tevékenység szünetelésének ténye, kezdő napja, időtartama, valamint a nyilvántartási szám. A Szolgtv. 30. § (2) bekezdésében nem szabályozott adatok vonatkozásában a nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolására szolgáltatható adat.
 
-(5)–(7)
+(4a) A független műszaki szakértő szervezetekre vonatkozó nyilvántartás adatai közül a Szolgtv.-ben meghatározott adatokon túl nyilvános mindazon természetes személyek neve, szakmai gyakorlatának rövid leírása és ideje, szakterülete, műszaki szakértők esetén a nyilvántartási száma, akik a (3b) bekezdés alapján a nyilvántartásban szerepelnek, továbbá a független műszaki szakértő szervezet engedélye kiállításának napja és a nyilvántartási száma. A nyilvántartás a független műszaki szakértő szervezet szakterülete, a szakértői tevékenységet engedélyező határozat száma, a kiállítás napja és a nyilvántartási szám tekintetében közhitelesnek minősül.
 
-(8) A kamara a szakértői tevékenység gyakorlásárával kapcsolatos határozata meghozatalával egyidejűleg továbbítja a nyilvántartásba vételhez szükséges valamennyi adatot az MMK számára, aki haladéktalanul gondoskodik a szakértő adatainak nyilvántartásba vételéről.
+(5)
+
+(6)
+
+(7)
+
+(8) A kamara a szakértői tevékenység, valamint a szakértő szervezet tevékenysége gyakorlásával kapcsolatos határozata meghozatalával egyidejűleg továbbítja a nyilvántartásba vételhez szükséges valamennyi adatot az MMK számára, amely haladéktalanul gondoskodik a szakértő vagy a szakértő szervezet adatainak nyilvántartásba vételéről.
 
 19/C. § (1) A Budapesti és Pest Megyei Mérnöki Kamara (a továbbiakban: BPMK) a szakértői tevékenység gyakorlására jogosító engedélyezési eljárásban közreműködő elsőfokú minősítő bizottságot hoz létre. A minősítő bizottság feladata annak megállapítása, hogy a kérelmező szakmai gyakorlata megfelelő-e a szakértői tevékenység folytatásához.
 
-(2) A minősítő bizottság tagjait az atomenergia-felügyeleti szerv főigazgatója és az MMK főtitkára közösen jelöli ki. A minősítő bizottságnak legalább öt, de legfeljebb tizenegy, páratlan számú tagja van, megbízatásuk négy évre szól. A tagok maguk közül elnököt választanak.
+(2) A minősítő bizottság tagjait az atomenergia-felügyeleti szerv főigazgatója és az MMK főtitkára közösen jelöli ki. A minősítő bizottságnak legalább öt, de legfeljebb tizenöt, páratlan számú tagja van, megbízatásuk négy évre szól. A tagok maguk közül elnököt választanak.
 
-(3) Az egyes engedélyezési eljárásokban a minősítő bizottság elnöke által kijelölt három tag jár el. Az eljáró bizottság a kérelmező által benyújtott, szakmai gyakorlatát igazoló dokumentumok (különösen a referenciák és a szakmai önéletrajz) alapján dönt.
+(3) Az egyes engedélyezési eljárásokban a minősítő bizottság elnöke által kijelölt legalább három tag jár el. Az eljáró bizottság a kérelmező által benyújtott, szakmai gyakorlatát igazoló dokumentumok (különösen a referenciák és a szakmai önéletrajz) alapján dönt.
 
 (4) A szakértői tevékenység gyakorlására jogosító engedély a kérelemben megjelölt szakterületek közül csak azokra adható ki, amelyekre nézve a bizottság megállapította a szakmai gyakorlat megfelelőségét. Ha a bizottság egyik megjelölt szakterületre vonatkozóan sem találja alkalmasnak a kérelmező szakmai gyakorlatát, a kérelmet el kell utasítani.
 
@@ -900,19 +910,15 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (6) Amennyiben a kamara az engedély iránti kérelmet részben vagy egészben a minősítő bizottság állásfoglalása miatt utasította el, a másodfokú eljárásban az MMK által működtetett, másodfokú minősítő bizottság jár el. A másodfokú minősítő bizottság feladatára és tagjaira az elsőfokú minősítő bizottság feladatára és tagjaira vonatkozó szabályokat kell alkalmazni azzal, hogy ugyanazon személy egy időben nem lehet mindkét bizottságban tag.
 
-(7) Ha a szakértő új szakterületet kíván tevékenységi körei közé felvenni, erre az engedélyezés szabályait kell alkalmazni azzal, hogy az eljárás tárgya kizárólag az új szakterület engedélyezése, a szakértő arra való alkalmassága lehet.
+(7) Ha a független műszaki szakértő személy vagy szervezet új szakterületet kíván tevékenységi körei közé felvenni, erre az engedélyezés szabályait kell alkalmazni azzal, hogy az eljárás tárgya kizárólag az új szakterület engedélyezése, a szakértő arra való alkalmassága lehet.
 
-19/D. § (1) Az atomenergia alkalmazása körében külföldi szakértő szakértői tevékenységet akkor végezhet, ha az atomenergia-felügyeleti szerv szakértői minőségét az adott szakkérdésben előzetesen eseti jelleggel elismeri.
+19/D. § (1) Az atomenergia alkalmazása körében külföldi szakértő vagy szakértő szervezet szakértői tevékenységet akkor végezhet, ha az atomenergia-felügyeleti szerv szakértői minőségét az adott szakkérdésben előzetesen eseti jelleggel elismeri.
 
-(2) Az atomenergia alkalmazása körében külföldi szakértő szakértői minőségének elismeréséről folyó eljárásban a kérelmező igazolja, hogy mely ország milyen szakértői névjegyzékébe, milyen szakterületen és szakképesítés alapján lett szakértőként bejegyezve. Az atomenergia-felügyeleti szerv a kérelmező által igazolt adatok, valamint az atomenergia alkalmazása körében szakértői tevékenységet végzőkre vonatkozó szabályok megfelelő alkalmazásával dönt.
+(2) Az atomenergia alkalmazása körében külföldi szakértő vagy szakértő szervezet szakértői minőségének elismeréséről folyó eljárásban a kérelmező igazolja, hogy mely ország milyen szakértői névjegyzékébe, milyen szakterületen és szakképesítés vagy referencia alapján lett szakértőként bejegyezve. Az atomenergia-felügyeleti szerv a kérelmező által igazolt adatok, valamint az atomenergia alkalmazása körében szakértői tevékenységet végzőkre vonatkozó szabályok megfelelő alkalmazásával dönt.
 
-(3) E § alkalmazása szempontjából külföldi az a személy, aki nem EGT-állam állampolgára.
+(3) E § alkalmazása szempontjából külföldi az a személy, aki nem EGT-állam állampolgára és az a szakértő szervezet, amely nem tartozik a Szolgtv. hatálya alá.
 
-### Az atomenergia alkalmazása körében eljáró műszaki szakértő szervezet
-
-19/E. § (1) Atomenergia alkalmazása körében eljáró műszaki szakértői tevékenységet az a szakértő szervezet végezhet, amely az adott szakterület vonatkozásában rendelkezik a 19/A.–19/D. §-ban meghatározott követelményeket kielégítő személyi állománnyal.
-
-(2) Az (1) bekezdés szerinti tevékenységet végző műszaki szakértő szervezetek minősítésére, nyilvántartására, működésére, illetve az alkalmazásukra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+19/E. §
 
 ### Az egészségügyért felelős miniszter hatásköre az egészségügyért felelős miniszter által szabályozott engedélyezési eljárásban
 
