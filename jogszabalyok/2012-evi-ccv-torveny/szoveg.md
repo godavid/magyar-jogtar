@@ -799,7 +799,7 @@ tart.
 
 (3) A vezénylés indokolás nélkül a rektor vagy az intézményvezető előzetes értesítése mellett megszüntethető. Meg kell szüntetni a vezénylést, ha az állomány tagja az oktatói, a tudományos kutatói vagy a pedagógus munkakörben nem foglalkoztatható tovább.
 
-(4) A vezénylésre alkalmazni kell az 50. § (3)–(6) bekezdését. Az NKE-nél rendszeresített szolgálati beosztásokat és azok besorolását az NKE Fenntartói Testület véleményének kikérésével a miniszter rendeletben határozza meg.
+(4) A vezénylésre alkalmazni kell az 50. § (3)–(6) bekezdését. Az NKE-nél rendszeresített szolgálati beosztásokat és azok besorolását az NKE Fenntartója véleményének kikérésével a miniszter rendeletben határozza meg.
 
 54. § (1) A vezénylésre e törvény rendelkezései az irányadóak azzal, hogy
 
