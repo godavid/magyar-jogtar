@@ -868,4 +868,4 @@ MEGJEGYZÉSEK:
 
 5. § E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a magyar–szingapúri légiközlekedési egyezmény kihirdetéséről szóló 28/1992. (II. 13.) Korm. rendelet.
+6. §
