@@ -1700,7 +1700,7 @@ alapulvételével kell meghatározni.
 
 (5) Ha a jövedéki engedélyes kereskedelmi tevékenységet folytató kereskedő kétséget kizáróan adózott termékeket forgalmaz, de nem rendelkezik jövedéki engedéllyel, a kivetendő jövedéki bírság alapja a kereskedő termékköre szerinti jövedéki engedélyhez e törvényben előírt jövedéki biztosíték összegének és azon napok számának szorzata, amely alatt a kereskedő a jövedéki bírság kivetéséig engedély nélkül folytatta tevékenységét. A jövedéki bírság mértéke a bírságalapnak és a jövedéki bírság kivetése időpontjában érvényes jegybanki alapkamat kétszerese 365-öd részének a szorzata, de legalább 500 ezer forint.
 
-(6) A (2), (5), (8) és (9) bekezdés alá nem tartozó kötelezettségszegések esetén a magánszemély 300 ezer forintig, a gazdálkodó szervezet 750 ezer forintig terjedő jövedéki bírsággal sújtható.
+(6) A (2), (5), (8) és (9) bekezdés alá nem tartozó kötelezettségszegések esetén a magánszemély 300 ezer forintig, a gazdálkodó szervezet és a jövedéki termékkel gazdasági tevékenységet folytató egyéni vállalkozó 750 ezer forintig terjedő jövedéki bírsággal sújtható.
 
 (7) A (2), az (5) és a (6) bekezdés szerinti jövedéki bírságra az Art.-nak a megbízható és a kockázatos adózói minősítésnek az adóbírság és a mulasztási bírság felső határát módosító és az ezek kiszabásával kapcsolatos szabályait alkalmazni kell.
 
@@ -1740,7 +1740,9 @@ alapulvételével kell meghatározni.
 
 103. § (1) El kell kobozni
 
-- a) a lefoglalt dolgot, amire a véglegessé vált döntésben megállapított jövedéki kötelezettségszegést elkövették és a jövedéki ügyben a 100. § (2), (3), (5), (8) és (9) bekezdése szerinti jövedéki bírság kerül kiszabásra vagy ha a jövedéki bírság kiszabását a 101. § alapján az állami adó- és vámhatóság mellőzte,
+- a) a lefoglalt dolgot,
+  - aa) amire a véglegessé vált döntésben megállapított jövedéki kötelezettségszegést elkövették és a jövedéki ügyben a 100. § (2), (3), (5), (8) és (9) bekezdése szerinti jövedéki bírság kerül kiszabásra vagy ha a jövedéki bírság kiszabását a 101. § alapján az állami adó- és vámhatóság mellőzte,
+  - ab) ha a jövedéki kötelezettségszegés elkövetésének véglegessé vált döntésben történő megállapítására az elkövető ismeretlen személye következtében nem került sor,
 - b) a lefoglalt dolgot, ha azon a jövedéki törvénysértés elkövetését célzó átalakítást végeztek,
 - c) a jogosulatlanul megszerzett és lefoglalt adóügyi jelzést.
 

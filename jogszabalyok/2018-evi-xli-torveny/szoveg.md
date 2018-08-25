@@ -107,7 +107,11 @@ lép.
 
 #### 2. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-19. § (1)
+19. § (1) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 4. § 5. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában)
+
+„5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett részesedés (a korábban már bejelentett részesedés értékének a növekedése) a határozatlan futamidejű befektetési alap által kibocsátott befektetési jegy kivételével, feltéve, hogy az adózó a szerzést (ide nem értve a korábban már bejelentett részesedés értékének a növekedését és a korábban már bejelentett részesedésre vonatkozóan az átalakulás, egyesülés, szétválás során a jogutódban történő vagy jogutód általi részesedésszerzést) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;”
 
 (2)
 
@@ -125,7 +129,17 @@ lép.
 
 #### 21. §
 
-#### 22. §
+22. § (1) A Tao. törvény 18/B. § (1) bekezdése a következő i) ponttal egészül ki:
+
+[A 18/A. § (1) bekezdése szerinti adózó adózás előtti eredményét csökkenti:]
+
+„i) a tőkeinstrumentumban fennálló befektetés kivezetésekor a befektetésen összességében (a tárgyévben és az azt megelőző években) elért, az egyéb átfogó jövedelemben elszámolt és az adóalapban korábban nem érvényesített veszteség összege, amennyiben az olyan tőkeinstrumentumban történő befektetéshez kapcsolódott, amelynek a valós értékében történő változást az adózó az IFRS 9 Pénzügyi instrumentumok standard szerint egyéb átfogó jövedelemként számolja el, azzal hogy e rendelkezés a bejelentett részesedésnek minősülő részesedés vonatkozásában nem alkalmazható.”
+
+(2) A Tao. törvény 18/B. § (2) bekezdése a következő h) ponttal egészül ki:
+
+[A 18/A. § (1) bekezdése szerinti adózó adózás előtti eredményét növeli:]
+
+„h) a tőkeinstrumentumban fennálló befektetés kivezetésekor a befektetésen összességében (a tárgyévben és az azt megelőző években) elért, az egyéb átfogó jövedelemben elszámolt és az adóalapban korábban el nem számolt nyereség összege, amennyiben az olyan tőkeinstrumentumban történő befektetéshez kapcsolódott, amelynek a valós értékében történő változást az adózó az IFRS 9 Pénzügyi instrumentumok standard szerint az egyéb átfogó jövedelemként számolja el, azzal, hogy e rendelkezés a bejelentett részesedésnek minősülő részesedés értékesítése, nem pénzbeli hozzájárulásként történő kivezetése vonatkozásában nem alkalmazható, feltéve, hogy a bejelentett részesedést a kivezetést megelőzően legalább egy évig folyamatosan eszközei között tartotta nyilván.”
 
 #### 23. §
 
@@ -133,7 +147,9 @@ lép.
 
 25. § (1)
 
-(2)
+(2) A Tao. törvény 29/A. §-a a következő (65) bekezdéssel egészül ki:
+
+„(65) Az adózó a 2018-ban kezdődő adóéve adókötelezettségére e törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 18/B. § (1) bekezdés i) pontját és 18/B. § (2) bekezdés h) pontját választása szerint alkalmazza.”
 
 26. § A Tao. törvény
 
@@ -163,7 +179,9 @@ lép.
 
 #### 30. §
 
-#### 31. §
+31. § Az Eva törvény a következő 24. §-sal egészül ki:
+
+„24. § Az e törvény szerinti adóalanyiság utoljára 2018. december 20-ig választható.”
 
 #### 32. §
 
@@ -231,7 +249,21 @@ lép.
 
 #### 52. §
 
-#### 53. §
+53. § (1) A Katv. 26. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) Az (1) bekezdés szerinti összeg a beszámoló
+
+a) mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény és – a jóváhagyott osztalék, részesedés alapján a taggal szemben fennálló – kötelezettség, ideértve a kisadózó vállalkozások tételes adója szerinti adóalanyiság létrejöttét megelőző üzleti év beszámolójához kapcsolódó mérlegben nem szereplő jóváhagyott osztalékot is együttes összegéből az a rész, amely meghaladja a mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök (ide nem értve az immateriális javak és a tárgyi eszközök értékhelyesbítését) együttes könyv szerinti értékét;
+
+b) egyszerűsített mérlegében kimutatott eredménytartalék, saját elhatározásból lekötött tartalék, adózott eredmény, tartalék és – a jóváhagyott osztalék, részesedés alapján tagjával szemben fennálló – kötelezettség ideértve a kisadózó vállalkozások tételes adója szerinti adóalanyiság létrejöttét megelőző üzleti év beszámolójához kapcsolódó mérlegben nem szereplő jóváhagyott osztalékot is együttes összegéből az a rész, amely meghaladja az egyszerűsített mérlegben kimutatott, nem vagyoni betétként megszerzett immateriális javak és tárgyi eszközök együttes könyv szerinti értékét;
+
+csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött tartalékkal, eredménytartalékból jóváhagyott osztalékfizetési kötelezettséggel, adózott eredmény terhére fizetett (jóváhagyott) osztalékfizetési kötelezettséggel, adózott eredménnyel, amely az adóalany egyszerűsített vállalkozói adó szerinti adóalanyiságának időtartama alatt keletkezett, csökkentve továbbá a mérlegben kimutatott, a társasági adóalanyiság időszakában keletkezett eredménytartaléka terhére felvett osztalékelőleg követelés könyv szerinti értékével, feltéve, hogy az előleget a beszámoló elfogadásakor osztalékként jóváhagyták.
+
+(3) A (2) bekezdés szerinti összeg után a közkereseti társaság, a betéti társaság, az egyéni cég és az ügyvédi iroda adót (a továbbiakban: az osztalék utáni adót kiváltó adó) fizet. Az osztalék utáni adót kiváltó adó a (2) bekezdés szerinti összeg 15 százaléka, amelyet az adózó az üzleti évre vonatkozó társaságiadó-bevallásában, vagy egyszerűsített vállalkozói adóról szóló bevallásában, vagy kisvállalatiadó-bevallásában elkülönítetten vall be. A bevallott összeget három egyenlő részletben, az üzleti évre vonatkozó társaságiadó-bevallás, egyszerűsített vállalkozói adóról szóló bevallás vagy kisvállalatiadó-bevallás benyújtására előírt határidőig és a bevallás benyújtását követő két adóévre – de legkésőbb a kisadózó vállalkozások tételes adója szerinti adóalanyisága megszűnése adóévére – vonatkozó társaságiadó-bevallás, egyszerűsített vállalkozói adóról szóló bevallás vagy kisvállalatiadó-bevallás Art. szerinti esedékességének időpontjában fizeti meg.”
+
+(2) A Katv. 26. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A (6) bekezdés alkalmazásakor a magánszemély adózott vagyonából a vállalkozásba befektetett összegnek kell tekinteni a kisadózó vállalkozások tételes adója szerinti adóalanyiság utolsó adóévét követő üzleti év nyitó mérlegében kimutatott saját tőkét, levonva belőle a nyitó mérlegben kimutatott értékelési tartalékot és a (2) bekezdés szerint az osztalék utáni adót kiváltó adó alapját csökkentő tételként elszámolt értékének egyes, a kifizetőt terhelő adó mellett adható juttatásként ingyenesen vagy kedvezményesen magánszemély részére átadott immateriális jószág és tárgyi eszköz (4) bekezdés szerinti adóalapot képező könyv szerinti értékét meghaladó részét, továbbá a 2018-ban kisadózó vállalkozások tételes adója szerinti adóalannyá váló ügyvédi iroda esetében a 26. § szerinti osztalék utáni adót kiváltó adó alapját nem képező összeget.”
 
 54. § A Katv.
 
@@ -244,7 +276,7 @@ lép.
 - 7.
 - 8.
 - 9.
-- 10.
+- 10. 26. § (1), (4), (5) és (6) bekezdésében az „a betéti társaság és az egyéni cég” szövegrészek helyébe az „a betéti társaság, az egyéni cég és az ügyvédi iroda” szöveg
 
 lép.
 
@@ -407,7 +439,15 @@ egészül ki.
 
 #### 110. §
 
-#### 111. §
+111. § A Jöt. 103. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[El kell kobozni]
+
+„a) a lefoglalt dolgot,
+
+aa) amire a véglegessé vált döntésben megállapított jövedéki kötelezettségszegést elkövették és a jövedéki ügyben a 100. § (2), (3), (5), (8) és (9) bekezdése szerinti jövedéki bírság kerül kiszabásra vagy ha a jövedéki bírság kiszabását a 101. § alapján az állami adó- és vámhatóság mellőzte,
+
+ab) ha a jövedéki kötelezettségszegés elkövetésének véglegessé vált döntésben történő megállapítására az elkövető ismeretlen személye következtében nem került sor,”
 
 #### 112. §
 
@@ -429,7 +469,7 @@ egészül ki.
 - 8.
 - 9.
 - 10.
-- 11.
+- 11. 100. § (6) bekezdésében a „gazdálkodó szervezet” szövegrész helyébe a „gazdálkodó szervezet és a jövedéki termékkel gazdasági tevékenységet folytató egyéni vállalkozó” szöveg,
 - 12.
 - 13.
 
@@ -667,13 +707,19 @@ lép.
 
 #### 194. §
 
-#### 195. §
+195. § A Vtv. 28. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A vámhatóság megkeresésére a hitelintézet a vámérték valódiságának, a vámtartozás, az egyéb terhek, a Vámkódex 112. vagy 114. cikke szerinti kamat, a vámigazgatási bírság, valamint a vámhatósági eljárások után fizetendő díjak és költségek befizetésének ellenőrzéséhez pénzforgalmi adatokat térítésmentesen szolgáltat.”
 
 #### 196. §
 
 #### 197. §
 
-#### 198. §
+198. § A Vtv. 159. §-a helyébe a következő rendelkezés lép:
+
+„159. § [Végrehajtási vagy visszaigénylési jog elévülése]
+
+Az egyéb terhek és a hitelkamat, a vámhatósági eljárások után fizetendő díjak és költségek, továbbá a késedelmi kamat végrehajtásához az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény, a túlfizetés, illetve a tartozatlanul megfizetett vám és egyéb terhek, valamint a hitelkamat, a vámhatósági eljárások után fizetendő díjak és költségek, továbbá a késedelmi kamat visszaigényléséhez való jog elévülésére az Art. rendelkezéseit kell alkalmazni.”
 
 #### 199. §
 
@@ -830,7 +876,44 @@ lép.
 
 #### 34. A bevándorlási különadóról
 
-#### 253. §
+253. § (1) Bevándorlási különadó-köteles a bevándorlást segítő tevékenység magyarországi végzésének anyagi támogatása vagy Magyarországon székhellyel rendelkező, bevándorlást segítő tevékenységet végző szervezet működésének anyagi támogatása.
+
+(2) Bevándorlást segítő tevékenységnek minősül minden olyan program, akció, tevékenység, amely közvetlenül vagy közvetve a bevándorlás [az emberek véglegesnek szánt áttelepülését lakóhelyük szerinti országból másik országba, ide nem értve a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 1. § (1) bekezdés szerinti eseteket] előmozdítására irányul, és
+
+- a) média kampányok, média szemináriumok folytatása, és az azokban való részvétel;
+- b) oktatásszervezés;
+- c) hálózatépítés és működtetés vagy
+- d) a bevándorlást pozitív színben feltüntető propaganda tevékenység
+
+keretében valósul meg.
+
+(3) A bevándorlási különadó alapja
+
+- a) az (5) bekezdés szerinti adóalany esetében az (1) bekezdés szerinti anyagi támogatás összege,
+- b) a (7) bekezdés szerinti adóalany esetében a (2) bekezdés szerinti tevékenység végzése során felmerült költség.
+
+(4) A bevándorlási különadó mértéke a bevándorlási különadó alapjának 25%-a.
+
+(5) A bevándorlási különadó alanya az (1) bekezdés szerinti tevékenységet végző szervezet, ide nem értve a pártot és a pártalapítványt, továbbá azt a szervezetet, amelynek mentességét nemzetközi szerződés vagy viszonosság biztosítja. A viszonosság kérdésében az adópolitikáért felelős miniszternek a külpolitikáért felelős miniszterrel egyetértésben kialakított állásfoglalása az irányadó.
+
+(6) A bevándorlási különadó (5) bekezdés szerinti alanya legkésőbb a (8) bekezdés a) pont szerinti időpontig köteles nyilatkozatot adni a (2) bekezdés szerinti tevékenységet végző magyarországi székhelyű szervezet számára arról, hogy a bevándorlási különadóját teljes körűen bevallotta.
+
+(7) A bevándorlási különadó alanya a (2) bekezdés szerinti tevékenységet végző magyarországi székhelyű szervezet, ha a (8) bekezdés b) pontja szerinti időpontig nem rendelkezik a (6) bekezdés szerinti nyilatkozattal.
+
+(8) A bevándorlási különadót
+
+- a) az (5) bekezdés szerinti adóalany esetében az (1) bekezdés szerinti anyagi támogatás nyújtását
+- b) a (7) bekezdés szerinti adóalany esetében az (1) bekezdés szerinti anyagi támogatás felhasználását
+
+követő hónap 15. napjáig kell megállapítani, bevallani és ezzel egyidejűleg megfizetni.
+
+(9) A (2) bekezdés szerinti tevékenységet végző magyarországi székhelyű szervezet a (6) bekezdés szerinti nyilatkozatot – az anyagi támogatást nyújtó nevének, levélcímének, más ismert azonosító adatának és az anyagi támogatás összegének egyidejű közlésével – a kézhezvételt követő hónap 15. napjáig benyújtja az állami adóhatósághoz.
+
+(10) Amennyiben az állami adóhatóság megállapítja, hogy a (6) bekezdés szerinti nyilatkozat valótlan, az (5) bekezdés szerinti adóalanyt határozatban kötelezi a be nem vallott adó, továbbá annak 50%-át kitevő adóbírság megfizetésére.
+
+(11) A bevándorlási különadóval kapcsolatos adóhatósági feladatokat az állami adó- és vámhatóság látja el.
+
+(12) A bevándorlási különadóból származó bevétel a központi költségvetés bevételét képezi és kizárólag határvédelmi feladatok ellátására szolgál.
 
 ### XI. Fejezet — KÖZCÉLÚ FELADAT ELLÁTÁSÁT ELŐSEGÍTŐ RENDELKEZÉSEK
 

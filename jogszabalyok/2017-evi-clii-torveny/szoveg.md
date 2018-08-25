@@ -404,7 +404,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 - d) a Vámkódex 39. cikk a) pontjában meghatározott feltételek ellenőrzésével összefüggésben az FJA 28. cikk (2) bekezdésében meghatározottak végrehajtásának biztosítása céljából, a 82. § (2) bekezdésében meghatározott gazdasági tevékenységgel összefüggő súlyos bűncselekmény miatt a kérelmezővel szemben indult büntetőeljárás vonatkozásában (eljáró szerv megjelölése, tagállam, az eljárás kezdő időpontja) a büntetőeljárás alatt állók nyilvántartásából, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti rendszerből, vagy
 - e) jogszabályi felhatalmazás alapján az abban meghatározott nyilvántartásokból.
 
-(2) A vámhatóság megkeresésére a hitelintézet a vámérték valódiságának, a vámtartozás, valamint az egyéb terhek befizetésének ellenőrzéséhez pénzforgalmi adatokat térítésmentesen szolgáltat.
+(2) A vámhatóság megkeresésére a hitelintézet a vámérték valódiságának, a vámtartozás, az egyéb terhek, a Vámkódex 112. vagy 114. cikke szerinti kamat, a vámigazgatási bírság, valamint a vámhatósági eljárások után fizetendő díjak és költségek befizetésének ellenőrzéséhez pénzforgalmi adatokat térítésmentesen szolgáltat.
 
 (3) A vámhatóság a személyiadat- és lakcímnyilvántartás szervétől természetes személyazonosító adatokkal vagy a személyiadat- és lakcímnyilvántartás szerve által képzett kapcsolati kóddal vehet át adatokat.
 
@@ -2196,7 +2196,7 @@ A Vámkódex 101. cikk (3) bekezdés harmadik albekezdése alkalmazásában a fi
 
 #### 159. § [Végrehajtási vagy visszaigénylési jog elévülése]
 
-Az egyéb terhek és a hitelkamat, továbbá a késedelmi kamat végrehajtásához az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény, a túlfizetés, illetve a tartozatlanul megfizetett vám és egyéb terhek, valamint a hitelkamat, továbbá a késedelmi kamat visszaigényléséhez való jog elévülésére az Art. rendelkezéseit kell alkalmazni.
+Az egyéb terhek és a hitelkamat, a vámhatósági eljárások után fizetendő díjak és költségek, továbbá a késedelmi kamat végrehajtásához az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény, a túlfizetés, illetve a tartozatlanul megfizetett vám és egyéb terhek, valamint a hitelkamat, a vámhatósági eljárások után fizetendő díjak és költségek, továbbá a késedelmi kamat visszaigényléséhez való jog elévülésére az Art. rendelkezéseit kell alkalmazni.
 
 #### 45. A Vámkódex 104. cikkéhez
 

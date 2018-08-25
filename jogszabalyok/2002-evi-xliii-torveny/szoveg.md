@@ -489,7 +489,7 @@ mutatott ki.
 
 (7) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 18. § (8) bekezdését az adózó a 2018-ban kezdődő adóévben választása szerint alkalmazza.
 
-24. §
+24. § Az e törvény szerinti adóalanyiság utoljára 2018. december 20-ig választható.
 
 25. §
 

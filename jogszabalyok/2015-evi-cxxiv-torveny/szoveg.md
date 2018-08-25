@@ -52,7 +52,8 @@ Az Országgyűlés annak érdekében, hogy biztosítsa az európai és a nemzetk
 - h) ellenőrző szervezet, a hatóságok kivételével,
 - i) referenciaanyag-gyártó szervezet,
 - j) a környezetvédelmi vezetési és hitelesítési rendszert hitelesítő szervezet vagy természetes személy,
-- k) az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti hitelesítő szervezet
+- k) az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti hitelesítő szervezet,
+- l) az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 43. cikke szerinti tanúsító szervezet (a továbbiakban: adatvédelmi tanúsító szervezet)
 
 nyújthat be az akkreditáló szervhez.
 
@@ -60,15 +61,21 @@ nyújthat be az akkreditáló szervhez.
 
 (3) Az akkreditálást az (1) bekezdés k) pontja szerinti azon hitelesítő szervezet kérheti, amely megfelel a tevékenységére vonatkozó jogszabályoknak és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusainak, különösen az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvényben, a 600/2012/EU bizottsági rendelet III. fejezetében és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott szervezeti, pénzügyi biztosítékra vonatkozó és személyi követelményeknek.
 
+(4) Az akkreditálást azon adatvédelmi tanúsító szervezet kérheti, amely megfelel az általános adatvédelmi rendeletben meghatározott szervezeti, személyi és működési követelményeknek.
+
 6. § (1) Az akkreditálási eljárás értékelési és döntéshozatali szakaszból áll.
 
 (2) Az értékelési szakasz során az akkreditáló szerv szakértőként minősítőkből és az akkreditálási kérelemmel érintett területen szakértelemmel rendelkező személyekből álló értékelő csoportot rendel ki.
+
+(2a) Adatvédelmi tanúsító szervezet akkreditálási eljárásában és az akkreditált státusz területének bővítési eljárásában az értékelési szakasz során az általános adatvédelmi rendelet 43. cikk (2) bekezdés a) és e) pontjában meghatározott követelményeknek való megfelelés és 43. cikk (3) bekezdése szerint meghatározott szempontok mint szakkérdések tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóságot szakhatóságként kell bevonni.
 
 (3) Az akkreditáló szerv az akkreditálási eljárás és a felügyeleti vizsgálat döntéshozatali szakaszában a nemzeti akkreditálás rendszerébe tartozó szakterületeken szakértőként az akkreditáló bizottságot rendeli ki.
 
 (4) Az értékelő csoport tagja nem lehet olyan személy, aki az akkreditáló bizottság tagja.
 
 (5) Az értékelési szakasz ügyintézési határideje száz nap.
+
+(5a) A Nemzeti Adatvédelmi és Információszabadság Hatóság szakhatósági eljárásának ügyintézési határideje ötven nap.
 
 (6) A döntéshozatali szakasz ügyintézési határideje harminc nap.
 
@@ -78,7 +85,9 @@ nyújthat be az akkreditáló szervhez.
 
 (9) Az akkreditált státuszra vonatkozó határozat mellékletét képezi a részletező okirat.
 
-7. § Az akkreditálási eljárásáért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, továbbá a külföldi akkreditált státusz elismerési eljárásáért igazgatási szolgáltatási díjat kell fizetni.
+7. § (1) Az akkreditálási eljárásért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, továbbá a külföldi akkreditált státusz elismerési eljárásáért igazgatási szolgáltatási díjat kell fizetni.
+
+(2) A Nemzeti Adatvédelmi és Információszabadság Hatóság mint szakhatóság eljárásáért az igazgatási szolgáltatási díjat az adatvédelmi tanúsító szervezet akkreditálási eljárásában, az akkreditált státusz területének bővítési eljárásában és a kérelemre indult felügyeleti vizsgálati eljárásban fizetett igazgatási szolgáltatási díj részeként, azzal együtt kell megfizetni.
 
 #### 4. Az akkreditált szervezet és természetes személy felügyeleti vizsgálata
 
@@ -87,6 +96,8 @@ nyújthat be az akkreditáló szervhez.
 (2) A felügyeleti vizsgálat az akkreditált szervezet vagy természetes személy kérelmére indul. Rendkívüli felügyeleti vizsgálatra panaszbejelentés, az akkreditálás alapjául szolgáló körülmények megváltozása, valamint – az 5. § (1) bekezdés k) pontja szerinti hitelesítő szervezetek esetében – a 600/2012/EU bizottsági rendelet 51. cikke szerint kerülhet sor. A rendkívüli felügyeleti vizsgálatra a felügyeleti vizsgálatra vonatkozó szabályokat kell alkalmazni.
 
 (3) A rendkívüli felügyeleti vizsgálat hivatalból indul.
+
+(3a) A kérelemre indult felügyeleti vizsgálati eljárásban a Nemzeti Adatvédelmi és Információszabadság Hatóság szakhatóságként való bevonására a 6. § (2a) és (5a) bekezdését kell alkalmazni.
 
 (4) Az akkreditált szervezet az első felügyeleti vizsgálat iránti kérelmet az akkreditált státusz első megadásától számított egy éven belül, azt követően legfeljebb kétévente köteles benyújtani úgy, hogy a helyszíni szemlék között két évnél hosszabb idő nem telhet el.
 
@@ -195,7 +206,12 @@ bekövetkezett változás.
 
 rendeletben határozza meg.
 
-(3) Felhatalmazást kap az iparügyekért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az akkreditálási eljárásért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, továbbá a külföldi akkreditált státusz elismerési eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedésének, kezelésének részletes szabályait rendeletben állapítsa meg.
+(3) Felhatalmazást kap az iparügyekért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
+
+- a) az akkreditálási eljárásért, az akkreditált státusz területének bővítési eljárásáért, a kérelemre indult felügyeleti vizsgálati eljárásért, továbbá a külföldi akkreditált státusz elismerési eljárásáért fizetendő és
+- b) a Nemzeti Adatvédelmi és Információszabadság Hatóságnak az adatvédelmi tanúsító szervezet akkreditálási eljárásában, az akkreditált státusz területének bővítési eljárásában és a kérelemre indult felügyeleti vizsgálati eljárásban szakhatóságként való eljárásáért fizetendő
+
+igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztásával, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat – a b) pontban meghatározottak tekintetében a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke véleményének kikérésével – rendeletben állapítsa meg.
 
 15. § A Nemzeti Akkreditáló Testület 2015. december 31-én megszűnik.
 
@@ -228,6 +244,8 @@ rendeletben határozza meg.
 (2) Az 1. §, a 2. § (2) bekezdése, az 5. §, a 11. § (2) bekezdés a) pontja és (3) bekezdése a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 10. és 12. pontja, 4. cikk (8) bekezdése, 6. cikk (1) bekezdése, 9. cikk (2) bekezdése, 10. cikk (1) bekezdése, 11. cikk (2) bekezdése és 12. cikk (3) bekezdése végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) Ez a törvény – a végrehajtására kiadott jogszabályokkal együtt – a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében a 600/2012/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) A 3. és 4. alcím a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) 43. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 18. §
 
