@@ -803,6 +803,7 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 - d) a közérdekű adatokkal és a közérdekből nyilvános adatokkal kapcsolatos jogsértéssel összefüggésben bírósághoz fordulhat;
 - e) a más által indított perbe beavatkozhat;
 - f)
+- g) kérelemre adatkezelési engedélyezési eljárást folytat;
 - h) ellátja az Európai Unió kötelező jogi aktusában, így különösen az általános adatvédelmi rendeletben és a 2016/680 (EU) irányelvben a tagállami felügyeleti hatóság részére megállapított, továbbá a törvényben meghatározott egyéb feladatokat.
 
 (4) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében különösen
@@ -1201,22 +1202,56 @@ szerint kiszabott bírság esetén.
 
 (5) A bíróság kérelemre elrendelheti ítéletének – az adatkezelő azonosító adatainak közzétételével történő – nyilvánosságra hozatalát, ha azt az adatvédelem, illetve az információszabadság érdekeinek és nagyobb számú érintett e törvényben védett jogainak védelme megköveteli.
 
-#### 34/A. A kötelező szervezeti szabályozás jóváhagyására irányuló eljárás
+#### 34/A. Az adatkezelési engedélyezési eljárás
 
-64/A. § (1) A kötelező szervezeti szabályozás jóváhagyását az adatkezelő kérelmezheti a Hatóságnál, azzal, hogy a kérelem kormányablaknál nem terjeszthető elő. Kötelező szervezeti szabályozás jóváhagyásának kérelmezésére nem jogosult az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó adatkezelő.
+64/A. § (1) A Hatóság az általános adatvédelmi rendelet
 
-(2) A kötelező szervezeti szabályozás jóváhagyása iránti kérelemnek tartalmaznia kell
+- a) 40. cikkében meghatározott magatartási kódexek tervezetének, kiegészítésének vagy módosításának jóváhagyása,
+- b) 41. cikkében meghatározott ellenőrzési tevékenység engedélyezése,
+- c) 42. cikk (5) bekezdésében meghatározott tanúsítási szempontok jóváhagyása,
+- d) 46. cikk (3) bekezdés a) pontjában meghatározott szerződéses rendelkezések engedélyezése,
+- e) 46. cikk (3) bekezdés b) pontjában meghatározott rendelkezések engedélyezése,
+- f) 47. cikkében meghatározott kötelező erejű vállalati szabályok jóváhagyása
 
-- a) az adatkezelő vagy adatkezelők csoportja által végzett adatkezelésre vonatkozóan a 65. § (1) bekezdés a)–j) pontjában meghatározott adatokat vagy az adatkezelés nyilvántartási számát,
-- b) a kötelező szervezeti szabályozás tervezetét,
-- c) a kötelező szervezeti szabályozás kötelező jellegének igazolására szolgáló adatokat,
-- d) ha a kötelező szervezeti szabályozást más EGT-állam adatvédelmi hatósága jóváhagyta, az ennek igazolására szolgáló adatokat.
+iránti kérelmek benyújtása esetén adatkezelési engedélyezési eljárást folytat le.
 
-64/B. § A kötelező szervezeti szabályozás jóváhagyása iránti eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(2) Az általános közigazgatási rendtartásról szóló törvényben meghatározottakon túl az (1) bekezdés
 
-64/C. § (1) A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelmet kilencven napon belül bírálja el. A Hatóság a kötelező szervezeti szabályozás jóváhagyása iránti kérelem elbírálásakor a kötelező szervezeti szabályozást jóváhagyja, módosítását javasolja vagy a kérelmet elutasítja.
+- a) a) pontjában meghatározott kérelem tartalmazza a magatartási kódex, illetve annak kiegészítése vagy módosítása tervezetét,
+- b) b) pontjában meghatározott kérelem tartalmazza az általános adatvédelmi rendelet 41. cikk (2) bekezdésében, valamint a Hatóság által közzétett engedélyezési követelményekben meghatározott feltételek fennállásának igazolására szolgáló adatokat,
+- c) c) pontjában meghatározott kérelem tartalmazza a tanúsítási mechanizmus általános leírását és a tanúsítási szempontok tervezetét,
+- d) d) pontjában meghatározott kérelem tartalmazza a szerződéses rendelkezések tervezetét,
+- e) e) pontjában meghatározott kérelem tartalmazza a rendelkezések tervezetét,
+- f) f) pontjában meghatározott kérelem tartalmazza a kötelező erejű vállalati szabályok kötelező jellegének igazolására szolgáló adatokat és a kötelező erejű vállalati szabályok tervezetét.
 
-(2) A Hatóság az érintettek tájékoztatásának elősegítése érdekében honlapján közzéteszi a kötelező szervezeti szabályozást alkalmazó adatkezelő megnevezését.
+64/B. § Az adatkezelési engedélyezési eljárásért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+
+64/C. § (1) Az adatkezelési engedélyezési eljárásban az ügyintézési határidő
+
+- a) a 64/A. § (1) bekezdés a)–c) és f) pontjában meghatározott kérelmek esetén száznyolcvan nap,
+- b) a 64/A. § (1) bekezdés d) és e) pontjában meghatározott kérelmek esetén kilencven nap.
+
+(2) A Hatóság az adatkezelési engedélyezési eljárást az általános adatvédelmi rendelet
+
+- a) 60. cikk (3)–(5) bekezdésben meghatározott együttműködési eljárás és
+- b) 63–66. cikkében meghatározott egységességi mechanizmus
+
+alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüggesztés időtartama alatt is elvégzi az együttműködési eljárásban és az egységességi mechanizmusban szükséges eljárási cselekményeket.
+
+(3) Az adatkezelési engedélyezési eljárásban a 64/A. § (1) bekezdés a)–c) és f) pontjában meghatározott kérelmek esetén a Hatóság a jóváhagyás, illetve az engedély megadhatósága érdekében szükség szerinti alkalommal a kérelem és az annak tárgyát képező tervezetek módosítása vagy kiegészítése vonatkozásában nyilatkozattételre hívhatja fel a kérelmezőt.
+
+(4) Az adatkezelési engedélyezési eljárásban nincs helye sommás eljárásnak.
+
+64/D. § Az adatkezelési engedélyezési eljárásban hozott határozatában a Hatóság
+
+- a) az általános adatvédelmi rendelet
+  - aa) 40. cikkében meghatározott magatartási kódexek tervezetét, kiegészítését vagy módosítását jóváhagyja,
+  - ab) 41. cikkében meghatározott ellenőrzési tevékenységet engedélyezi,
+  - ac) 42. cikk (5) bekezdésében meghatározott tanúsítási szempontokat jóváhagyja,
+  - ad) 46. cikk (3) bekezdés a) pontjában meghatározott szerződéses rendelkezések alkalmazását engedélyezi,
+  - ae) 46. cikk (3) bekezdés b) pontjában meghatározott rendelkezések alkalmazását engedélyezi,
+  - af) 47. cikkében meghatározott kötelező erejű vállalati szabályokat jóváhagyja, vagy
+- b) a kérelmet elutasítja.
 
 #### 35. Nemzetközi együttműködés
 
@@ -1409,7 +1444,7 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 - b) az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg a közzétételi listákon szereplő adatok közzétételéhez szükséges közzétételi mintákat,
 - c)
 
-(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben a kötelező szervezeti szabályozás jóváhagyásáért, az adatvédelmi nyilvántartásba vételért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatkezelési engedélyezési eljárás lefolytatásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
 
 73. § (1) E törvény – a (2) és (3) bekezdésben meghatározott kivételekkel – a kihirdetését követő napon lép hatályba.
 
