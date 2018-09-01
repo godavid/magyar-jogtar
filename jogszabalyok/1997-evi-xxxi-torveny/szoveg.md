@@ -1128,7 +1128,8 @@ a kérelmezővel, illetve törvényes képviselőjével írásban megállapodás
   - ac) – ha a helyi viszonyok azt indokolják – kórházi szociális munkát,
   - ad) gyermekvédelmi jelzőrendszeri készenléti szolgálatot,
   - ae) jogi tájékoztatásnyújtást és pszichológiai tanácsadást,
-  - af) családkonzultációt, családterápiát, családi döntéshozó konferenciát;
+  - af) családkonzultációt, családterápiát, családi döntéshozó konferenciát,
+  - ag) óvodai és iskolai szociális segítő tevékenységet;
 - b) a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedésekhez kapcsolódó, a gyermekek védelmére irányuló tevékenységet lát el, amelynek keretében
   - ba) kezdeményezi a gyermek védelembe vételét vagy súlyosabb fokú veszélyeztetettség esetén a gyermek ideiglenes hatályú elhelyezését, nevelésbe vételét,
   - bb) javaslatot készít a veszélyeztetettség mértékének megfelelően a gyermek védelembe vételére, illetve a családi pótlék természetbeni formában történő nyújtására, a gyermek tankötelezettsége teljesítésének előmozdítására, a gyermek családjából történő kiemelésére, a leendő gondozási helyére vagy annak megváltoztatására, valamint a gyermek megelőző pártfogásának mellőzésére, elrendelésére, fenntartására és megszüntetésére,

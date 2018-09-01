@@ -863,10 +863,10 @@ jogosult.
 
 64. § (1) Az ügyészt havonta beosztási pótlék illeti meg, amelynek összege az illetményalap
 
-- a) tíz százaléka a járási ügyészség ügyésze esetében,
-- b) húsz százaléka a főügyészség ügyésze esetében,
-- c) negyven százaléka a fellebbviteli főügyészség ügyésze esetében,
-- d) hatvan százaléka a Legfőbb Ügyészség ügyésze esetében.
+- a) húsz százaléka a járási ügyészség ügyésze esetében,
+- b) harmincöt százaléka a főügyészség ügyésze esetében,
+- c) ötven százaléka a fellebbviteli főügyészség ügyésze esetében,
+- d) nyolcvan százaléka a Legfőbb Ügyészség ügyésze esetében.
 
 (2) Kiváló, magasabb ügyészi beosztásra alkalmas, illetve kiválóan alkalmas minősítés esetén és az adott szintű ügyészségen, ügyészként eltöltött legalább hat év után – beszámítva a magasabb szintű ügyészségen ügyészként teljesített időt is –
 
@@ -884,12 +884,16 @@ jogosult.
 
 cím jár.
 
-(4) A (2)–(3) bekezdésben meghatározott cím adományozásával címpótlék jár havonta. A pótlék összege az illetményalap
+(4) A (2) bekezdés alapján adományozott vagy a (3) bekezdés alapján megállapított (a továbbiakban együtt: adományozott) címmel címpótlék jár havonta, amelynek összege az illetményalap
 
-- a) húsz százaléka a „Címzetes főügyészségi ügyész”,
-- b) harminc százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
-- c) ötven százaléka a „Címzetes legfőbb ügyészségi ügyész”,
-- d) hetven százaléka „Legfőbb ügyészségi tanácsos” cím adományozása esetén. A címpótlékban részesülő ügyészt beosztási pótlék nem illeti meg.
+- a) harminc százaléka a „Címzetes főügyészségi ügyész”,
+- b) negyvenöt százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
+- c) hatvan százaléka a „Címzetes legfőbb ügyészségi ügyész”,
+- d) kilencven százaléka a „Legfőbb ügyészségi tanácsos”
+
+cím esetén.
+
+(4a) A címpótlékban részesülő ügyészt beosztási pótlék nem illeti meg.
 
 (5) Ha az ügyészt ügyészségi érdekből alacsonyabb szintű ügyészséghez helyezik át, korábbi beosztási pótlékára, illetve címére és a címmel járó pótlékra továbbra is jogosult, valamint a korábbi szolgálati helye szintjének megfelelő munkaköri elnevezést a továbbiakban is használhatja. Ügyészségi érdeknek minősül, ha az ügyészt alacsonyabb szintű ügyészségen vezetőnek nevezik ki, valamint ha a 25. § (2) vagy (4) bekezdésében, illetve 36. § (1) bekezdés a)–b) pontjában vagy a 47. § (5) bekezdésében említett okból alacsonyabb szintű ügyészségre helyezik át.
 
@@ -2094,23 +2098,25 @@ Az illetményalap = 1
 
 ### 2. melléklet a 2011. évi CLXIV. törvényhez
 
-#### Az ügyész vezetői pótléka
+Az ügyész vezetői pótléka
 
 A vezetői pótlék az illetményalap százalékában
 
-| A vezetői munkakörök |  | % |
+A vezetői munkakörök %
+
+| 1. | A legfőbb ügyész | 400 |
 | --- | --- | --- |
-| 1. | A legfőbb ügyész | 100 |
-| 2. | A legfőbb ügyész helyettes | 80 |
-| 3. | A főosztályvezető ügyész A fellebbviteli főügyész A nagyobb főügyészségi főügyész Országos illetékességű főügyészség főügyésze | 60 |
-| 4. | A főosztályvezető-helyettes ügyész A fellebbviteli főügyészhelyettes A főügyész | 50 |
-| 5. | A legfőbb ügyészségi osztályvezető ügyész A nagyobb főügyészségi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 45 |
-| 6. | A fellebbviteli osztályvezető ügyész | 40 |
-| 7. | A főügyészhelyettes A kiemelt járási ügyészségi vezető ügyész | 35 |
-| 8. | A nagyobb főügyészségi osztályvezető ügyész Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt járási ügyészségi vezetőhelyettes ügyész A nagyobb járási ügyészségi vezető ügyész | 30 |
-| 9. | A főügyészségi osztályvezető ügyész A nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 25 |
-| 10. | A főügyészségi csoportvezető ügyész | 20 |
-| 11. | A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész A kisebb járási ügyészségi vezetőhelyettes ügyész | 15 |
+| 2. | A legfőbb ügyész helyettes | 300 |
+| 3. | A főosztályvezető ügyész A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
+| 4. | A főosztályvezető-helyettes ügyész A fellebbviteli főügyész A nagyobb főügyészségi főügyész | 150 |
+| 5. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető ügyész A fellebbviteli főügyészhelyettes A főügyész | 120 |
+| 6. | A legfőbb ügyészségi osztályvezető ügyész A fellebbviteli főügyészségi osztályvezető ügyész A nagyobb főügyészségi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 110 |
+| 7. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető helyettes ügyész A főügyészhelyettes | 100 |
+| 8. | A legfőbb ügyészségi csoportvezető ügyész A nagyobb főügyészségi osztályvezető ügyész Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt járási ügyészségi vezető ügyész | 80 |
+| 9. | A kiemelt járási ügyészségi vezetőhelyettes ügyész A nagyobb járási ügyészségi vezető ügyész | 60 |
+| 10. | A főügyészségi osztályvezető ügyész A nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 50 |
+| 11. | A főügyészségi csoportvezető ügyész A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész | 40 |
+| 12. | A kisebb járási ügyészségi vezetőhelyettes ügyész | 30 |
 
 ### 3. melléklet a 2011. évi CLXIV. törvényhez
 
