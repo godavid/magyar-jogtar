@@ -1340,6 +1340,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - k)
 - l) törvényességi felügyeleti bírságot szabhat ki a helyi önkormányzatra vagy a társulásra az e törvényben meghatározott esetekben.
 
+(1a) A kormányhivatal a Nemzeti Választási Iroda elnökének a választási eljárásról szóló 2013. évi XXXVI. törvény 69. § (6) bekezdése szerinti tájékoztatása alapján haladéktalanul fegyelmi eljárást kezdeményez a polgármesternél a jegyző ellen.
+
 (2) A kormányhivatal törvényességi felügyeleti eljárásának célja a helyi önkormányzat képviselő-testülete, bizottsága, részönkormányzata, polgármestere, főpolgármestere, megyei közgyűlés elnöke, társulása, jegyzője (a továbbiakban: érintett) működése jogszerűségének biztosítása.
 
 (3) A kormányhivatal törvényességi felügyeleti eljárásában vizsgálja az érintett

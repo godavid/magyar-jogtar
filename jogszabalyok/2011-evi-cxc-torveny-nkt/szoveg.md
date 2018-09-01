@@ -338,6 +338,8 @@ ellátja.
 
 15/A. § (1) Az utazó gyógypedagógusi, utazó konduktori hálózat feladata a sajátos nevelési igényű gyermek, tanuló többi gyermekkel, tanulóval részben vagy egészben együtt, azonos óvodai csoportban, iskolai osztályban történő óvodai nevelését, tanuló iskolai nevelés-oktatását végző nevelési-oktatási intézmények számára a sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember biztosítása, amennyiben a nevelési-oktatási intézmény a 47. §-ában meghatározottak szerint alkalmazandó gyógypedagógus, konduktor szakképzettségű szakemberrel nem rendelkezik.
 
+(1a) Az utazó gyógypedagógusi, utazó konduktori hálózat az egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény szervezeti és szakmai tekintetben önálló intézményegységeként működik.
+
 (2) Az utazó gyógypedagógusi, utazó konduktori hálózat megszervezése és működtetése az illetékes tankerületi központ feladata.
 
 (3) Az állami intézményfenntartó központ az e §-ban meghatározott feladatokra, állami felsőoktatási intézmény, továbbá egyházi jogi személy, vallási tevékenységet végző szervezet, vagy más nem állami, nem önkormányzati köznevelési intézményfenntartó által fenntartott utazó gyógypedagógusi, utazó konduktori hálózatot is felkérhet.
@@ -424,7 +426,7 @@ nyújtható.
 
 20. § (1) A többcélú intézmény lehet
 
-- a) egységes óvoda-bölcsőde,
+- a)
 - b) óvoda-bölcsőde,
 - c) egységes iskola vagy összetett iskola,
 - d) közös igazgatású köznevelési intézmény,
@@ -451,7 +453,7 @@ nyújtható.
 
 (9) EGYMI a sajátos nevelési igényű gyermekek, tanulók többi gyermekkel, tanulóval együtt történő nevelésének, oktatásának segítése céljából hozható létre. Az intézmény keretén belül működnie kell kizárólag sajátos nevelési igényű gyermekeket, tanulókat ellátó óvodai, általános iskolai, fejlesztő nevelés-oktatást végző iskolai vagy középfokú iskolai feladatot ellátó intézményegységnek, továbbá utazó gyógypedagógusi, utazó konduktori hálózatnak vagy – az országos és megyei szakértői bizottsági feladatok kivételével – pedagógiai szakszolgálati feladatokat ellátó intézményegységnek. Az EGYMI elláthatja továbbá a családsegítő szolgálat, az iskola-egészségügyi ellátás és a gyógypedagógiai, konduktív pedagógiai eszközök és segédanyagok kölcsönzésének feladatait, valamint kollégiumot működtethet. Az EGYMI-ben ellátott feladatokra – a családsegítő szolgálat, az iskola-egészségügyi ellátás és a gyógypedagógiai, konduktív pedagógiai eszközök és segédanyagok kölcsönzése kivételével – külön-külön szervezeti és szakmai tekintetben önálló intézményegységeket kell létrehozni.
 
-(10) Ha a települési önkormányzat a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerint nem köteles a bölcsődei ellátás megszervezésére és a gyermekek száma nem teszi lehetővé az óvodai és bölcsődei csoport külön-külön történő létrehozását, feltéve továbbá, hogy minden, a településen lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező gyermek óvodai felvételi kérelme teljesíthetővé válik, egységes óvoda-bölcsőde hozható létre a legalább második életévüket betöltött, továbbá az óvodai nevelésben ellátható gyermekek közös neveléséhez.
+(10)
 
 (11) A közös igazgatású köznevelési intézmény és az általános művelődési központ vezetését, az intézményegységek munkájának összehangolását – az egyes intézményegységek azonos számú képviselőiből álló – igazgatótanács segíti, amely – jogszabályban meghatározottak szerint – részt vesz a munkáltatói jogkör gyakorlásában.
 
@@ -889,7 +891,8 @@ tekintetében.
   - ef) a tankönyvellátással kapcsolatos adatok,
   - eg) évfolyamismétlésre vonatkozó adatok,
   - eh) a tanulói jogviszony megszűnésének időpontja és oka,
-- f) az országos mérés-értékelés adatai.
+- f) az országos mérés-értékelés adatai,
+- g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson.
 
 (4a) A pedagógiai szakszolgálati intézmény – az integrált nyomon követő rendszer (a továbbiakban: INYR) működtetése érdekében – a (4) bekezdésben meghatározott adatokon kívül
 
@@ -976,7 +979,8 @@ továbbítható.
 - o) nevelésének, oktatásának helyét,
 - p) felnőttoktatás esetében az oktatás munkarendjével kapcsolatos adatokat,
 - q) tanulmányai várható befejezésének idejét,
-- r) évfolyamát tartalmazza.
+- r) évfolyamát,
+- s) azon adatát, hogy melyik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson tartalmazza.
 
 (6) A tanulói nyilvántartásból személyes adat – az érintetten kívül – csak a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, valamint a személyiadat- és lakcímnyilvántartást kezelő szerv részére. A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartást kezelő szervnek. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartást kezelő szerv kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyiadat- és lakcímnyilvántartást kezelő szerv az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át. A tanulói nyilvántartásban adatot a tanulói jogviszony megszűnésére vonatkozó bejelentéstől számított harminc évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
 
@@ -1319,11 +1323,13 @@ dönt.
 - a) ha a tanulót másik iskola átvette, az átvétel napján,
 - b) az általános iskola utolsó évfolyamának elvégzéséről szóló bizonyítvány kiállításának napján,
 - c) gimnáziumi tanulmányok esetén az utolsó évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján,
-- d) szakközépiskolai tanulmányok esetén az utolsó középiskolai évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján, ha a tanuló a szakképzésben nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
-- e) szakképző iskolában folyó szakképzésben
-  - ea) ha a tanuló jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését követő első szakmai vizsgaidőszak utolsó napján,
-  - eb) ha a tanuló nem jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését igazoló bizonyítvány kiállítása napján,
-  - ec) ha a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő szakképzés, vagy a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
+- d) szakgimnáziumi tanulmányok esetén az utolsó középiskolai évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján, ha a tanuló a szakképzésben nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
+- e) szakképző iskolában, ha
+  - ea) a tanuló jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését követő első szakmai vizsgaidőszak utolsó napján,
+  - eb) a tanuló nem jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését igazoló bizonyítvány kiállítása napján,
+  - ec) az államilag elismert szakképesítést szerzett, szakközépiskolában tanuló arról döntött, hogy továbbtanul az érettségi vizsgára felkészítő tizenkettedik és tizenharmadik évfolyamon, az utolsó évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján,
+  - ed) a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő szakképzés, vagy a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
+  - ee) a Szakképzési Hídprogramban, ha a nem tanköteles tanuló a program követelményeit teljesítette, vagy a tanulmányait félbehagyta,
 - f) az alapfokú művészeti iskolában, ha kiskorú tanuló esetén a szülő vagy a nagykorú tanuló írásban bejelenti, hogy kimarad az iskolából, a bejelentésben megjelölt napon, továbbá az utolsó alapfokú évfolyam utolsó napján, ha a tanuló nem tesz művészeti alapvizsgát, valamint az utolsó továbbképző évfolyam záróvizsga letételének napján, ha a tanuló nem tesz záróvizsgát, az utolsó évfolyam elvégzését tanúsító bizonyítvány kiállításának napján és a h) pontban megjelölt esetben,
 - g) a tankötelezettség megszűnése után – ha a szülő a tanuló egyetértésével, nagykorú tanuló esetén a tanuló írásban bejelenti, hogy kimarad –, a bejelentés tudomásulvételének napján,
 - h) ha a tanuló tanulói jogviszonyát – a tanköteles tanuló kivételével – fizetési hátralék miatt az igazgató a szülő, nagykorú tanuló esetén a tanuló eredménytelen felszólítása és a tanuló szociális helyzetének vizsgálata után megszünteti, a megszüntetés tárgyában hozott döntés véglegessé válásának napján.
@@ -1380,7 +1386,7 @@ dönt.
 
 (3) Az, akit felmentettek a kötelező tanórai foglalkozásokon való részvétel alól, az igazgató által meghatározott időben, és a nevelőtestület által meghatározott módon ad számot tudásáról.
 
-56. § (1) A tanulót, ha egyéni adottsága, fejlettsége szükségessé teszi, a szakértői bizottság véleménye alapján az igazgató mentesíti
+56. § (1) A sajátos nevelési igényű tanulót, ha egyéni adottsága, fejlettsége szükségessé teszi, a szakértői bizottság szakértői véleménye alapján az igazgató mentesíti
 
 - a) az érdemjegyekkel és osztályzatokkal történő értékelés és minősítés alól, és ehelyett szöveges értékelés és minősítés alkalmazását írja elő,
 - b) a gyakorlati képzés kivételével egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól.
@@ -1918,7 +1924,7 @@ foglalkoztatott tekintetében is.
 - e) a távolléti díj tekintetében a 65. § (8a) bekezdésében foglaltaktól eltérően a közalkalmazottak jogállásáról szóló törvény 80. § (2)–(4) bekezdését kell alkalmazni; továbbá
 - f) a 65. § (10) és (11) bekezdését nem kell alkalmazni.
 
-(9b) Pedagógus-munkakörben foglalkoztatottnak minősülnek az egységes óvoda-bölcsődében felsőfokú végzettséggel kisgyermeknevelő munkakörben foglalkoztatottak is, és rájuk a 65. § (9) bekezdés c) pontjában és (9a) bekezdésében foglaltakat, továbbá a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben a bölcsődében pedagógus-munkakörben foglalkoztatott személyekre meghatározott rendelkezéseket kell alkalmazni.
+(9b)
 
 (9c) A pedagógus szakképzettséggel, szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott legfeljebb Pedagógus II. fokozatot érhet el. Ha a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottat korábban pedagógus-munkakörben alkalmazták és Pedagógus II. fokozatnál magasabb fokozatot ért el, illetményét, munkabérét a Pedagógus II. fokozatnak megfelelően kell megállapítani.
 
@@ -2729,6 +2735,8 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 (10)
 
 97. § (1) Azok a tanulók, akik tanulmányaikat az iskolai nevelés-oktatás kilencedik évfolyamán a 2011/2012. tanévben vagy azt megelőzően kezdték meg, tankötelezettségük azon tanítási év végéig tart, amelyben a tizennyolcadik életévüket betöltik vagy sikeres érettségi vizsgát vagy szakmai vizsgát tettek. Azon sajátos nevelési igényű tanulók tankötelezettsége, akik esetében a szakértői és rehabilitációs bizottság e törvény hatálybalépése előtt a tankötelezettség huszadik életévükig történő meghosszabbításáról döntött, annak a tanévnek a végéig tart, amelyben a huszadik életévüket betöltik.
+
+(1a) Az a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló, akit 2018. augusztus 31. napjáig a szakértői bizottság szakértői véleménye alapján egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól mentesítettek, a mentesítés időtartamának félbeszakadása nélkül, középfokú iskolai tanulmányainak befejezéséig egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól mentesülhet. Az e bekezdésben foglaltakra az 56. § (1) és (2) bekezdésben foglalt szabályok értelemszerűen alkalmazandóak.
 
 (2) Az érettségi bizonyítvány kiadásához a közösségi szolgálat végzésének igazolását először a 2016. január 1-je után megkezdett érettségi vizsga esetében kell megkövetelni.
 
