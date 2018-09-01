@@ -47,7 +47,7 @@ egyéni választókerületben jelöltet állított.
 
 (2) A közös pártlistát állító pártok az (1) bekezdés vonatkozásában egy pártnak tekintendők.
 
-3/A. § (1) A 3. § szerinti támogatás csak akkor folyósítható a pártlistát állító pártnak, ha a pártlistát állító párt – legkésőbb a pártlista nyilvántartásba vételének jogerőre emelkedését követő napon – nyilatkozik arról, hogy ha a 8/C. § (7) bekezdésében foglaltak szerinti visszafizetési kötelezettségét határidőben nem teljesíti, és az tőle nem hajtható be, a párt vezető tisztségviselői állnak helyt egyetemlegesen a támogatás visszafizetéséért. A nyilatkozatnak tartalmaznia kell a párt vezető tisztségviselőinek nevét, és a vezető tisztségviselői jogviszony kezdő időpontját.
+3/A. § (1) A 3. § szerinti támogatás csak akkor folyósítható a pártlistát állító pártnak, ha a pártlistát állító párt – legkésőbb a pártlista nyilvántartásba vételének jogerőre emelkedését követő napon – nyilatkozik arról, hogy ha a 8/C. § (7) bekezdésében foglaltak szerinti visszafizetési kötelezettségét határidőben nem teljesíti, és az tőle nem hajtható be, a párt vezető tisztségviselői és listán állított, valamint egyéni választókerületi jelöltjei állnak helyt egyetemlegesen a támogatás visszafizetéséért. A nyilatkozatnak tartalmaznia kell a párt vezető tisztségviselőinek nevét, és a vezető tisztségviselői jogviszony kezdő időpontját.
 
 (2) A kincstár az (1) bekezdés szerinti nyilatkozatban foglalt adatok hitelességét a párt nyilvántartását vezető bíróság által rendelkezésre bocsátott dokumentumok alapján ellenőrzi.
 
@@ -89,6 +89,19 @@ a kincstár folyósítja a párt részére.
 
 (8) A kincstár a 3. § és a 4. § szerinti támogatás folyósításáról nem hoz határozatot.
 
+6/A. § (1) Nem jogosult az 1. § szerinti támogatásra az a jelölt,
+
+- a) akinek korábban a 8. § (3) vagy (4) bekezdése szerinti visszafizetési kötelezettsége keletkezett, és azt nem teljesítette, valamint annak a 8. § (7) bekezdése szerinti behajtása sem vezetett eredményre,
+- b) aki olyan párt – a 8/C. § (8) bekezdése alapján a visszafizetésre egyetemlegesen köteles – jelöltje volt, amely a 8/C. § (1) vagy (2) bekezdése szerinti visszafizetési kötelezettségét nem teljesítette, valamint annak a 8/C. § (7) vagy (8) bekezdése szerinti behajtása sem vezetett eredményre.
+
+(2) Nem jogosult a 3. § szerinti támogatásra az a párt, amelynek
+
+- a) korábban a 8/A. § (3) vagy (4) bekezdése szerinti visszafizetési kötelezettsége keletkezett, és azt nem teljesítette, valamint annak a 8/A. § (7) bekezdése szerinti behajtása sem vezetett eredményre,
+- b) korábban a 8/C. § (1) vagy (2) bekezdése szerinti visszafizetési kötelezettsége keletkezett, és azt nem teljesítette, valamint annak a 8/C. § (7) vagy (8) bekezdése szerinti behajtása sem vezetett eredményre,
+- c) vezető tisztségviselője olyan párt – a 8/C. § (8) bekezdése alapján a visszafizetésre egyetemlegesen köteles – vezető tisztségviselője volt, amely a 8/C. § (1) vagy (2) bekezdése szerinti visszafizetési kötelezettségét nem teljesítette, valamint annak a 8/C. § (7) vagy (8) bekezdése szerinti behajtása sem vezetett eredményre.
+
+(3) Nem bocsátható a 2/A. § szerinti támogatás olyan párt rendelkezésére, amely a (2) bekezdés alapján nem jogosult támogatásra.
+
 #### 2. A választási kampány költségeinek korlátozása
 
 7. § (1) A választási kampányidőszak alatt, a választási kampánytevékenységgel összefüggő kiadások finanszírozására
@@ -124,7 +137,7 @@ kell alapul venni.
 
 - a) a kiadás az államháztartás szabályozása szerint a dologi kiadások körébe tartozik-e,
 - b) a kiadás bizonylatolása megfelel-e a számvitelről szóló törvény és az általános forgalmi adóról szóló törvény előírásainak,
-- c) a kiadás kifizetése a kampányidőszak alatt kincstári kártyával vagy átutalással történt-e.
+- c) a kiadás kifizetése a kampányidőszak alatt, de legkésőbb a kampányidőszak végét követő harmadik munkanapon kincstári kártyával vagy átutalással történt-e.
 
 (3) Az a jelölt, aki az 1. § szerinti támogatással az (1) bekezdés szerinti határidőben
 
@@ -152,7 +165,7 @@ az 1. § szerinti támogatást köteles a kincstárnak visszafizetni.
 
 - a) a kiadás az államháztartás szabályozása szerint a dologi kiadások körébe tartozik-e,
 - b) a kiadás bizonylatolása megfelel-e a számvitelről szóló törvény és az általános forgalmi adóról szóló törvény előírásainak,
-- c) a kiadás kifizetése a kampányidőszak alatt kincstári kártyával vagy átutalással történt-e.
+- c) a kiadás kifizetése a kampányidőszak alatt, de legkésőbb a kampányidőszak végét követő harmadik munkanapon kincstári kártyával vagy átutalással történt-e.
 
 (3) Az a pártlistát állító párt, amely a 2/A. § szerint folyósított 1. § szerinti támogatással a (2) bekezdés szerinti határidőben
 
@@ -199,7 +212,7 @@ akkor az őt jelölő párt köteles a 2/A. § szerint folyósított 1. § szeri
 
 (7) Ha a pártlistát állító párt a befizetési kötelezettségét a (6) bekezdésben foglalt határidőben nem teljesíti, a tartozást a kincstár megkeresésére a Nemzeti Adó- és Vámhivatal hajtja be.
 
-(8) Ha a pártlistát állító párttól a visszafizetési kötelezettség nem hajtható be, annak megfizetésére határozattal kötelezhetők a pártlistát állító párt 3/A. §-ban meghatározott vezető tisztségviselői. Ha a vezető tisztségviselő a visszafizetési kötelezettségét határidőben nem teljesíti, a kincstár megkeresésére a Nemzeti Adó- és Vámhivatal intézkedik a vezető tisztségviselővel szemben a tartozás behajtása iránt.
+(8) Ha a pártlistát állító párttól a visszafizetési kötelezettség nem hajtható be, annak megfizetésére határozattal kötelezhetők a pártlistát állító párt 3/A. §-ban meghatározott vezető tisztségviselői, a pártlistán állított jelöltjei, valamint a pártlistát állító párt által állított egyéni választókerületi jelöltek. Ha a vezető tisztségviselő vagy a jelölt a visszafizetési kötelezettségét határidőben nem teljesíti, a kincstár megkeresésére a Nemzeti Adó- és Vámhivatal intézkedik a vezető tisztségviselővel, illetve a jelölttel szemben a tartozás behajtása iránt.
 
 9. § (1) Minden jelöltnek és jelölő szervezetnek az országgyűlési választást követő 60 napon belül a Magyar Közlönyben nyilvánosságra kell hoznia a választásra fordított állami és más pénzeszközök, anyagi támogatások összegét, forrását és felhasználásának módját.
 
@@ -225,6 +238,8 @@ akkor az őt jelölő párt köteles a 2/A. § szerint folyósított 1. § szeri
 11. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) Az 1–9. §, a 13. §, a 14. §, az 1. és 2. melléklet 2014. január 1-jén lép hatályba.
+
+11/A. § E törvénynek az egyes választásokkal kapcsolatos törvények módosításáról szóló 2018. évi XXXVI. törvénnyel megállapított rendelkezéseit a hatálybalépését követően kitűzött választásokon kell alkalmazni.
 
 12. § E törvény
 

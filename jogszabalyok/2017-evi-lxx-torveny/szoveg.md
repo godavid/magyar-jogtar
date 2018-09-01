@@ -16,7 +16,19 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 7. §
 
-8–9. §
+8. § Az Nkt. 41. § (4) bekezdése a következő g) ponttal egészül ki:
+
+(A köznevelési intézmény a gyermek, tanuló alábbi adatait tartja nyilván:)
+
+„g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson.”
+
+9. § Az Nkt. 44. § (5) bekezdése a következő s) ponttal egészül ki:
+
+[A (3) bekezdés a)–b) pontja szerinti nyilvántartás (a továbbiakban: tanulói nyilvántartás) a gyermek, tanuló]
+
+„s) azon adatát, hogy melyik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson”
+
+(tartalmazza.)
 
 10–14. §
 
@@ -28,7 +40,9 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 18. §
 
-19. §
+19. § Az Nkt. 97. §-a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló, akit 2018. augusztus 31. napjáig a szakértői bizottság szakértői véleménye alapján egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól mentesítettek, a mentesítés időtartamának félbeszakadása nélkül, középfokú iskolai tanulmányainak befejezéséig egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól mentesülhet. Az e bekezdésben foglaltakra az 56. § (1) és (2) bekezdésben foglalt szabályok értelemszerűen alkalmazandóak.”
 
 20. §
 
@@ -37,7 +51,9 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 - 1.
 - 2.
 - 3.
-- 4.
+- 4. 56. § (1) bekezdésében
+  - a) a „tanulót” szövegrész helyébe a „sajátos nevelési igényű tanulót”,
+  - b) a „véleménye” szövegrész helyébe a „szakértői véleménye”,
 - 5–10.
 
 szöveg lép.
@@ -45,9 +61,9 @@ szöveg lép.
 22. § Hatályát veszti az Nkt.
 
 - 1.
-- 2.
+- 2. 20. § (1) bekezdés a) pontja és (10) bekezdése,
 - 3–5.
-- 6.
+- 6. 65. § (9b) bekezdése,
 - 7–8.
 - 9.
 - 10.
