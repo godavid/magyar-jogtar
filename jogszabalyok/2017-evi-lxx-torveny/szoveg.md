@@ -4,88 +4,117 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 #### 1. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-1–2. §
+#### 1. §
+
+#### 2. §
 
 #### 2. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-3–5. §
+#### 3. §
+
+#### 4. §
+
+#### 5. §
 
 #### 3. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
-8. § Az Nkt. 41. § (4) bekezdése a következő g) ponttal egészül ki:
+#### 8. §
 
-(A köznevelési intézmény a gyermek, tanuló alábbi adatait tartja nyilván:)
+#### 9. §
 
-„g) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson.”
+#### 10. §
 
-9. § Az Nkt. 44. § (5) bekezdése a következő s) ponttal egészül ki:
+#### 11. §
 
-[A (3) bekezdés a)–b) pontja szerinti nyilvántartás (a továbbiakban: tanulói nyilvántartás) a gyermek, tanuló]
+#### 12. §
 
-„s) azon adatát, hogy melyik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson”
+#### 13. §
 
-(tartalmazza.)
+#### 14. §
 
-10–14. §
+#### 15. §
 
-15. §
+#### 16. §
 
-16. §
+#### 17. §
 
-17. §
+#### 18. §
 
-18. §
+#### 19. §
 
-19. § Az Nkt. 97. §-a következő (1a) bekezdéssel egészül ki:
+#### 20. §
 
-„(1a) Az a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló, akit 2018. augusztus 31. napjáig a szakértői bizottság szakértői véleménye alapján egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól mentesítettek, a mentesítés időtartamának félbeszakadása nélkül, középfokú iskolai tanulmányainak befejezéséig egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól mentesülhet. Az e bekezdésben foglaltakra az 56. § (1) és (2) bekezdésben foglalt szabályok értelemszerűen alkalmazandóak.”
+#### 21. §
 
-20. §
+1.
 
-21. § Az Nkt.
+2.
 
-- 1.
-- 2.
-- 3.
-- 4. 56. § (1) bekezdésében
-  - a) a „tanulót” szövegrész helyébe a „sajátos nevelési igényű tanulót”,
-  - b) a „véleménye” szövegrész helyébe a „szakértői véleménye”,
-- 5–10.
+3.
 
-szöveg lép.
+4.
 
-22. § Hatályát veszti az Nkt.
+5–10.
 
-- 1.
-- 2. 20. § (1) bekezdés a) pontja és (10) bekezdése,
-- 3–5.
-- 6. 65. § (9b) bekezdése,
-- 7–8.
-- 9.
-- 10.
-  - a)
-  - b)
-- 11–12.
+#### 22. §
+
+1.
+
+2.
+
+3–5.
+
+6.
+
+7–8.
+
+9.
+
+10.
+
+a)
+
+b)
+
+11–12.
 
 #### 4. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-23. §
+#### 23. §
 
 #### 5. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-24–26. §
+#### 24. §
 
-27–30. §
+#### 25. §
 
-31. §
+#### 26. §
 
-32–33. §
+#### 27. §
 
-34–37. §
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
 
 38. § (1)
 
@@ -97,25 +126,35 @@ szöveg lép.
 
 (3)–(4)
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-- 1–2.
-- 3–10.
-- 11.
-- 12.
-- 13.
-- 14–16.
-- 17.
+1–2.
 
-42. §
+3–10.
 
-- a)
-- b)–f)
-- g)–h)
-- i)
-- j)
+11.
+
+12.
+
+13.
+
+14–16.
+
+17.
+
+#### 42. §
+
+a)
+
+b)–f)
+
+g)–h)
+
+i)
+
+j)
 
 #### 6. Az egyes szociális, gyermekvédelmi, családtámogatási tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2015. évi CCXXIII. törvény módosítása
 

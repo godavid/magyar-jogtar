@@ -138,37 +138,9 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 #### 22. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
-46. § (1) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 64. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 46. §
 
-„(1) Az ügyészt havonta beosztási pótlék illeti meg, amelynek összege az illetményalap
-
-a) húsz százaléka a járási ügyészség ügyésze esetében,
-
-b) harmincöt százaléka a főügyészség ügyésze esetében,
-
-c) ötven százaléka a fellebbviteli főügyészség ügyésze esetében,
-
-d) nyolcvan százaléka a Legfőbb Ügyészség ügyésze esetében.”
-
-(2) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 64. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (2) bekezdés alapján adományozott vagy a (3) bekezdés alapján megállapított (a továbbiakban együtt: adományozott) címmel címpótlék jár havonta, amelynek összege az illetményalap
-
-a) harminc százaléka a „Címzetes főügyészségi ügyész”,
-
-b) negyvenöt százaléka a „Címzetes fellebbviteli főügyészségi ügyész”,
-
-c) hatvan százaléka a „Címzetes legfőbb ügyészségi ügyész”,
-
-d) kilencven százaléka a „Legfőbb ügyészségi tanácsos”
-
-cím esetén.”
-
-(3) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 64. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A címpótlékban részesülő ügyészt beosztási pótlék nem illeti meg.”
-
-47. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 2. melléklete helyébe a 2. melléklet lép.
+#### 47. §
 
 #### 23. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló
 
@@ -498,29 +470,5 @@ alapján sarkalatosnak minősül.
 ### 1. melléklet a 2018. évi XL. törvényhez
 
 ### 2. melléklet a 2018. évi XL. törvényhez
-
-„2. melléklet a 2011. évi CLXIV. törvényhez
-
-Az ügyész vezetői pótléka
-
-A vezetői pótlék az illetményalap százalékában
-
-A vezetői munkakörök %
-
-| 1. | A legfőbb ügyész | 400 |
-| --- | --- | --- |
-| 2. | A legfőbb ügyész helyettes | 300 |
-| 3. | A főosztályvezető ügyész A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
-| 4. | A főosztályvezető-helyettes ügyész A fellebbviteli főügyész A nagyobb főügyészségi főügyész | 150 |
-| 5. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető ügyész A fellebbviteli főügyészhelyettes A főügyész | 120 |
-| 6. | A legfőbb ügyészségi osztályvezető ügyész A fellebbviteli főügyészségi osztályvezető ügyész A nagyobb főügyészségi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 110 |
-| 7. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető helyettes ügyész A főügyészhelyettes | 100 |
-| 8. | A legfőbb ügyészségi csoportvezető ügyész A nagyobb főügyészségi osztályvezető ügyész Országos illetékességű főügyészség osztályvezető ügyésze A kiemelt járási ügyészségi vezető ügyész | 80 |
-| 9. | A kiemelt járási ügyészségi vezetőhelyettes ügyész A nagyobb járási ügyészségi vezető ügyész | 60 |
-| 10. | A főügyészségi osztályvezető ügyész A nagyobb járási ügyészségi vezetőhelyettes ügyész A kisebb járási ügyészségi vezető ügyész | 50 |
-| 11. | A főügyészségi csoportvezető ügyész A kiemelt és a nagyobb járási ügyészségi csoportvezető ügyész | 40 |
-| 12. | A kisebb járási ügyészségi vezetőhelyettes ügyész | 30 |
-
-”
 
 ### 3. melléklet a 2018. évi XL. törvényhez

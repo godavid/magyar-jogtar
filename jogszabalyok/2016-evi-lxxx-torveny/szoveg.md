@@ -6,11 +6,37 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 #### 1. A szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. A szakképzésről szóló 2011. évi CLXXXVII. törvény módosítása
 
-2–15. §
+#### 2. §
+
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
 
 16. § Az Szt.
 
@@ -21,29 +47,39 @@ az oktatás szabályozására vonatkozó és egyes kapcsolódó törvények mód
 
 szöveg lép.
 
-17. §
+#### 17. §
 
 #### 3. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-18–20. §
+#### 18. §
 
-21–22. §
+#### 19. §
 
-23. §
+#### 20. §
 
-24. §
+#### 21. §
 
-25. §
+#### 22. §
 
-26. § Az Nkt. 15/A. §-a a következő (1a) bekezdéssel egészül ki:
+#### 23. §
 
-„(1a) Az utazó gyógypedagógusi, utazó konduktori hálózat az egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény szervezeti és szakmai tekintetben önálló intézményegységeként működik.”
+#### 24. §
 
-27. §
+#### 25. §
 
-28–31. §
+#### 26. §
 
-32. §
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
 
 33. § (1)–(2)
 
@@ -51,32 +87,53 @@ szöveg lép.
 
 (4)
 
-34. §
+#### 34. §
 
-35–39. §
+#### 35. §
 
-40–41. §
+#### 36. §
 
-42. §
+#### 37. §
 
-43. §
+#### 38. §
 
-44. §
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
 
 45. § Az Nkt.
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6–8.
-- 9.
-- 10.
-- 11.
-- 12–14.
-- 15.
-- 16–26.
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6–8.
+
+9.
+
+10.
+
+11.
+
+12–14.
+
+15.
+
+16–26.
 
 szöveg lép.
 
@@ -93,23 +150,47 @@ szöveg lép.
 
 #### 4. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-48. §
+#### 48. §
 
-49–50. §
+#### 49. §
 
-51. §
+#### 50. §
 
-52. §
+#### 51. §
 
-53–57. §
+#### 52. §
 
-58. §
+#### 53. §
 
-59–66. §
+#### 54. §
 
-67. §
+#### 55. §
 
-68. §
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
 
 69. § (1)
 
@@ -117,7 +198,7 @@ szöveg lép.
 
 (3)
 
-70. §
+#### 70. §
 
 71. § (1)
 
@@ -142,33 +223,33 @@ szöveg lép.
 
 #### 5. A köznevelési feladatot ellátó egyes önkormányzati fenntartású intézmények állami fenntartásba vételéről szóló 2012. évi CLXXXVIII. törvény módosítása
 
-74. §
+#### 74. §
 
 ### II. Fejezet — AZ OKTATÁS SZABÁLYOZÁSÁHOZ KAPCSOLÓDÓ EGYÉB TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 6. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-75. §
+#### 75. §
 
 #### 7. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-76. §
+#### 76. §
 
 #### 8. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-77. §
+#### 77. §
 
 #### 9. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-78. §
+#### 78. §
 
 #### 10. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-79. §
+#### 79. §
 
 #### 11. A felnőttképzésről szóló 2013. évi LXXVII. törvény módosítása
 
-80. §
+#### 80. §
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -188,8 +269,12 @@ szöveg lép.
 
 (8) A 26. § 2018. szeptember 1-jén lép hatályba.
 
-### 1–2. melléklet a 2016. évi LXXX. törvényhez
+### 1. melléklet a 2016. évi LXXX. törvényhez
+
+### 2. melléklet a 2016. évi LXXX. törvényhez
 
 ### 3. melléklet a 2016. évi LXXX. törvényhez
 
-### 4–5. melléklet a 2016. évi LXXX. törvényhez
+### 4. melléklet a 2016. évi LXXX. törvényhez
+
+### 5. melléklet a 2016. évi LXXX. törvényhez

@@ -2,65 +2,69 @@
 
 a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-5–7. §
+#### 5. §
 
-8. §
+#### 6. §
 
-9. §
+#### 7. §
 
-10. § Az Nkt. 53. § (2) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
+#### 8. §
 
-(Megszűnik a tanulói jogviszony)
+#### 9. §
 
-„d) szakgimnáziumi tanulmányok esetén az utolsó középiskolai évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján, ha a tanuló a szakképzésben nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
+#### 10. §
 
-e) szakképző iskolában, ha
+#### 11. §
 
-ea) a tanuló jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését követő első szakmai vizsgaidőszak utolsó napján,
+#### 12. §
 
-eb) a tanuló nem jelentkezik szakmai vizsgára, az utolsó évfolyam elvégzését igazoló bizonyítvány kiállítása napján,
+#### 13. §
 
-ec) az államilag elismert szakképesítést szerzett, szakközépiskolában tanuló arról döntött, hogy továbbtanul az érettségi vizsgára felkészítő tizenkettedik és tizenharmadik évfolyamon, az utolsó évfolyam elvégzését követő első érettségi vizsgaidőszak utolsó napján,
+#### 14. §
 
-ed) a tanuló tanulmányainak folytatására egészségileg alkalmatlanná vált és az iskolában nem folyik másik megfelelő szakképzés, vagy a tanuló nem kíván továbbtanulni, vagy a továbbtanuláshoz szükséges feltételek hiányában nem tanulhat tovább,
-
-ee) a Szakképzési Hídprogramban, ha a nem tanköteles tanuló a program követelményeit teljesítette, vagy a tanulmányait félbehagyta,”
-
-11–13. §
-
-14. §
-
-15. §
+#### 15. §
 
 16. § (1)–(2)
 
 (3)
 
-17. §
+#### 17. §
 
-- 1–3.
-- 4–8.
-- 9.
-- 10.
-- 11.
-- 12–13.
-- 14.
-- 15–17.
-- 18–19.
-- 20.
-- 21–27.
-- 28–29.
-- 30.
+1–3.
 
-18. §
+4–8.
+
+9.
+
+10.
+
+11.
+
+12–13.
+
+14.
+
+15–17.
+
+18–19.
+
+20.
+
+21–27.
+
+28–29.
+
+30.
+
+#### 18. §
 
 19. § Nem lép hatályba a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2014. évi CV. törvény 30. § 10. pontja.
 
@@ -74,6 +78,8 @@ ee) a Szakképzési Hídprogramban, ha a nem tanköteles tanuló a program köve
 
 (5) A 10. § 2018. szeptember 1-jén lép hatályba.
 
-### 1–2. melléklet a 2015. évi LXV. törvényhez
+### 1. melléklet a 2015. évi LXV. törvényhez
+
+### 2. melléklet a 2015. évi LXV. törvényhez
 
 ### 3. melléklet a 2015. évi LXV. törvényhez
