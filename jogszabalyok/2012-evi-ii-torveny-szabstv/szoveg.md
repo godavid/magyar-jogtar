@@ -350,7 +350,8 @@ a Btk. által – az a)–d), h) és i) pont esetén az általános részben, az
 - b) nyilvános hely a közterületnek nem tekinthető, mindenki számára nyitva álló hely,
 - c) helyszínről elmenekültnek minősül az a személy is, aki a szabálysértés helyszínét a rendőrség kiérkezése előtt elhagyja, feltéve, hogy a rendőrség által a szabálysértés helyszínén beszerzett bizonyítékok alapján a személyazonossága és a holléte valószínűsíthető,
 - d) médiatartalom-szolgáltató a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató.
-- e) nyilvános rendezvény a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett látogatható.
+- e) gyűlés a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés,
+- f) nyilvános rendezvény a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll.
 
 (3) E törvény
 
@@ -2655,7 +2656,7 @@ előírja.
 
 - a) verekszik, továbbá aki mást verekedésre felhív,
 - b) rendzavarás vagy garázdaság esetén a hatóság vagy az eljáró hivatalos személy intézkedésével szemben engedetlenséget tanúsít,
-- c) a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényen vagy a sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvényen az arcát olyan módon eltakarva jelenik meg vagy tartózkodik, amely alkalmas arra, hogy meghiúsítsa a személyének a hatóság vagy az eljáró hivatalos személy által történő azonosítását,
+- c) a sportrendezvények biztonságáról szóló kormányrendelet hatálya alá tartozó sportrendezvényen az arcát olyan módon eltakarva jelenik meg vagy tartózkodik, amely alkalmas arra, hogy meghiúsítsa a személyének a hatóság vagy az eljáró hivatalos személy által történő azonosítását,
 
 szabálysértést követ el.
 
@@ -2911,26 +2912,37 @@ is szabhat ki helyszíni bírságot.
 
 189. § (1) Aki
 
-- a) a gyülekezési jogról szóló törvény hatálya alá tartozó, szervezetten megvalósuló rendezvényt bejelentési kötelezettsége elmulasztásával szervez,
-- b) rendezvényt annak ellenére szervez, hogy a rendezvény megtartását a rendőrség a gyülekezési jogról szóló törvény alapján megtiltotta,
-- c) a rendőrség által tudomásul vett bejelentésben megjelölttől eltérő helyszínre, útvonalra vagy időpontra szervezi a rendezvényt, vagy a résztvevőket a bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre hívja fel, szabálysértést követ el.
+- a) a bejelentési kötelezettség alá eső gyűlést bejelentési kötelezettsége elmulasztásával szervez,
+- b)
+- c) a gyülekezési hatóság által tudomásul vett bejelentésben megjelölttől eltérő helyszínre, útvonalra vagy időpontra szervezi a rendezvényt, vagy a résztvevőket a bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre hívja fel,
+- d) közterületnek nem minősülő helyszínre, az ingatlan tulajdonosának vagy használójának hozzájárulása nélkül gyűlést szervez, szabálysértést követ el.
 
-(2) Aki a gyülekezési jogról szóló törvény erre vonatkozó rendelkezését megsértve a tervezett új időpontról való előzetes tájékoztatás nélkül szervez rendezvényt, szabálysértést követ el.
+(2) Aki a gyülekezési jogról szóló törvény erre vonatkozó rendelkezését megsértve a tervezett új időpontról való előzetes tájékoztatás nélkül szervez gyűlést, szabálysértést követ el.
 
 (3) Aki
 
-- a) a rendezvény szervezésével összefüggő bejelentési kötelezettségét a gyülekezési jogról szóló törvényben erre meghatározott határidő megsértésével teljesíti,
+- a) a gyűlés szervezésével összefüggő bejelentési kötelezettségét a gyülekezési jogról szóló törvényben erre meghatározott határidő megsértésével teljesíti,
 - b) a gyülekezési jogról szóló törvényben foglalt tájékoztatási kötelezettségét a határidő megsértésével teljesíti, szabálysértést követ el.
 
-(4) Nem valósul meg szabálysértés az (1) bekezdés c) pontja alapján, ha a rendőrség által tudomásul vett bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre a rendezvény megtartásától független külső ok miatt kerül sor.
+(3a) Aki
 
-(5) Nem valósul meg szabálysértés a (3) bekezdés a) pontja alapján, ha a gyülekezési jogról szóló törvényben meghatározott határidő megsértésével, de a rendezvény szervezésének megkezdését követően haladéktalanul olyan rendezvény szervezését jelentik be, amelynek célja a résztvevők véleményének egy, a bejelentéshez képest három napon belül, előre nem láthatóan bekövetkezett vagy nyilvánosságra került eseménnyel összefüggő kinyilvánítása.
+- a) a gyülekezési hatóság által megtiltott gyűlésen megjelenik,
+- b) a gyűlés szervezőjeként vagy vezetőjeként megakadályozza a rendőrség képviselőjének a gyűlésen való jelenlétét,
+- c) a gyűlés szervezőjeként vagy vezetőjeként a gyűlés vezetője vagy a rendezők előtt magát újságíróként igazolt személyt a gyűlésről kizár,
+- d) a gyűlést szervezőként vagy vezetőként – a spontán gyűlés esetét kivéve – bejelentés nélkül tartja meg,
+- e) a gyűlés szervezőjeként a nyilvános felhívásban nevét nem tünteti fel
 
-(6) Az (1)–(5) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+szabálysértést követ el.
 
-#### 144. Az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése
+(4) Nem valósul meg szabálysértés az (1) bekezdés c) pontja alapján, ha a gyülekezési hatóság által tudomásul vett bejelentésben megjelölt helyszíntől, útvonaltól vagy időponttól való eltérésre a gyűlés megtartásától független külső ok miatt kerül sor.
 
-190. § (1) Aki mást egyesülési vagy gyülekezési jogának gyakorlásában, valamint a választási gyűlésen való részvételében jogtalanul akadályoz, szabálysértést követ el.
+(5)
+
+(6) Az (1)–(4) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+
+#### 144. Az egyesülési, a gyülekezési szabadság megsértése
+
+190. § (1) Aki mást egyesülési vagy gyülekezési jogának gyakorlásában jogtalanul akadályoz, szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
@@ -3260,7 +3272,7 @@ helyszínén a rendőr vagy a Nemzeti Adó- és Vámhivatal hivatásos állomán
 
 (2) Aki a Rendőrségről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási intézkedés helyszínén a helyszín elhagyására vagy az ott tartózkodásra vonatkozó jogszerű rendőri utasításának nem tesz eleget, szabálysértést követ el.
 
-(3) Aki a gyülekezésről szóló törvény hatálya alá tartozó rendezvény feloszlatását követően a helyszínt nem hagyja el, szabálysértést követ el.
+(3) Aki a gyűlés feloszlatását követően a helyszínt nem hagyja el, szabálysértést követ el.
 
 (4) Az (1)–(3) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 

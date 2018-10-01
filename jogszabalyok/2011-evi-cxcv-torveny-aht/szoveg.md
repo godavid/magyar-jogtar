@@ -799,17 +799,17 @@ vállalható.
 
 (2) A teljesítés igazolására, utalványozásra, érvényesítésre jogosultakat, feladataikat, összeférhetetlenségük eseteit, és az érvényesítő képesítési követelményeit a Kormány rendeletben határozza meg.
 
-#### 27. A költségvetési főfelügyelő, felügyelő
+#### 27. A költségvetési felügyelő
 
-39. § (1) Az államháztartásért felelős miniszter a Kormány irányítása alá tartozó fejezetet irányító szervhez, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervhez, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervéhez, valamint az állam legalább többségi tulajdonában álló gazdasági társasághoz költségvetési főfelügyelőt, felügyelőt rendelhet ki. Az államháztartásért felelős miniszter a költségvetési főfelügyelő, felügyelő kirendeléséről az érintett fejezetet irányító szerv vezetőjét, – többségi állami tulajdonban álló gazdasági társasághoz történő kirendelés esetén – a tulajdonosi joggyakorlót előzetesen tájékoztatja.
+39. § (1) Az államháztartásért felelős miniszter a Kormány irányítása alá tartozó fejezetet irányító szervhez, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervhez, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervéhez, valamint az állam legalább többségi tulajdonában álló gazdasági társasághoz költségvetési felügyelőt rendelhet ki. Az államháztartásért felelős miniszter a költségvetési felügyelő kirendeléséről az érintett fejezetet irányító szerv vezetőjét, – többségi állami tulajdonban álló gazdasági társasághoz történő kirendelés esetén – a tulajdonosi joggyakorlót előzetesen tájékoztatja.
 
-(2) A költségvetési főfelügyelő, felügyelő a gazdálkodás költségvetés-politikával való összhangja és a takarékos, szabályszerű, eredményes működés érdekében a Kormány rendeletében meghatározott intézkedéseket tehet.
+(2) A költségvetési felügyelő a gazdálkodás költségvetés-politikával való összhangja és a takarékos, szabályszerű, eredményes működés érdekében a Kormány rendeletében meghatározott intézkedéseket tehet.
 
-(3) A költségvetési főfelügyelő, felügyelő határozott időtartamra szóló megbízásáról és a megbízás visszavonásáról az államháztartásért felelős miniszter gondoskodik. A költségvetési főfelügyelő, felügyelő tevékenységének szakmai irányítását az államháztartásért felelős miniszter végzi.
+(3) A költségvetési felügyelő határozott időtartamra szóló megbízásáról és a megbízás visszavonásáról az államháztartásért felelős miniszter gondoskodik. A költségvetési felügyelő tevékenységének szakmai irányítását az államháztartásért felelős miniszter végzi.
 
-(4) A költségvetési főfelügyelő, felügyelő felett a (3) bekezdésben foglaltakon felüli munkáltatói jogokat a kincstár vezetője gyakorolja. A kincstár elnöke e jogkörök gyakorlásában nem utasítható.
+(4) A költségvetési felügyelő felett a (3) bekezdésben foglaltakon felüli munkáltatói jogokat a kincstár vezetője gyakorolja. A kincstár elnöke e jogkörök gyakorlásában nem utasítható.
 
-(5) A költségvetési főfelügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezetői munkakörben, a költségvetési felügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(5) A költségvetési felügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezetői munkakörben, a költségvetési felügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
 #### 28. Rendkívüli intézkedések
 
@@ -1122,13 +1122,11 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (7) A kincstár (3) bekezdés szerinti határozata elleni keresetlevelet a döntés közlésétől számított 15 napon belül kell benyújtani.
 
-### VII. Fejezet — A HELYI ÖNKORMÁNYZATOK ÁLTALÁNOS MŰKÖDÉSÉNEK ÉS ÁGAZATI FELADATAINAK TÁMOGATÁSA
-
 #### 41. A helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások elszámolása és felülvizsgálata
 
 58. § (1) A helyi önkormányzat az éves költségvetési beszámolójában számol el a számára a költségvetési évben folyósított támogatásokkal.
 
-(2) A helyi önkormányzat az éves költségvetési beszámolójában a költségvetési évben folyósított támogatások felhasználásával kapcsolatos önellenőrzést a költségvetési beszámoló teljesítésének határidejét követő második hónaptól a hatodik hónapig a Kormány rendeletében meghatározott mértékű – a 14. § (4) bekezdés d) pontja szerinti fejezetben elszámolandó – önellenőrzési pótlék megfizetésével egyidejűleg kezdeményezhet, legkésőbb annak az évnek az utolsó napjáig, amely évben az éves költségvetési beszámolót el kellett készítenie.
+(2) A helyi önkormányzat az éves költségvetési beszámolójában a költségvetési évben folyósított támogatások felhasználásával kapcsolatos önellenőrzést a költségvetési beszámoló teljesítésének határidejét követő második hónaptól a hatodik hónapig a Kormány rendeletében meghatározott mértékű – a 14. § (4) bekezdés d) pontja szerinti fejezetben elszámolandó – önellenőrzési pótlék megfizetésével egyidejűleg kezdeményezhet.
 
 59. § (1) A kincstár a helyi önkormányzat éves költségvetési beszámolója alapján az Ákr. szerinti hatósági ellenőrzés keretében felülvizsgálja a támogatások elszámolását, felhasználását. A hatósági ellenőrzés tekintetében alkalmazandó kiegészítő rendelkezéseket kormányrendelet határozza meg. A felülvizsgálat során a kincstár az Állami Számvevőszék jelentéseiben foglalt megállapításokat is figyelembe veszi.
 
@@ -1391,19 +1389,24 @@ vizsgálatára terjed ki.
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter felmentést adhat.
 
-(3) A (2a) bekezdés szerinti felmentéssel nem rendelkező kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével – nem rendelkezhetnek.
+(3) A kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a (2a) bekezdés szerinti felmentéssel rendelkező kincstári körön kívüli számlatulajdonos kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével –, valamint értékpapírszámlával nem rendelkezhetnek, értékpapírt nem vásárolhatnak.
 
-(3a) A kincstári körön kívüli számlatulajdonosok – a (2) bekezdés e), f) és j) pontjában meghatározott kincstári körön kívüli számlatulajdonosok kivételével – értékpapírszámlával nem rendelkezhetnek. A (2) bekezdés f) és j) pontjában meghatározott kincstári körön kívüli számlatulajdonosok átmenetileg szabad pénzeszközeiket kizárólag a kincstár által értékesített, értékpapírszámlán, értékpapír-letéti számlán nyilvántartott állampapírok vásárlásával hasznosíthatják.
+(3a)
 
 (4) A kincstár vezeti a helyi önkormányzat megbízása esetén a helyi önkormányzat és költségvetési szervei, a nemzetiségi önkormányzat megbízása esetén a nemzetiségi önkormányzat és költségvetési szervei, a társulás megbízása esetén a társulás és költségvetési szervei, valamint az (1) bekezdésben meghatározotton kívüli, más köztestület megbízása esetén a köztestület fizetési számláját.
 
-(4a) A kincstár fizetési számlát vezet a bevett egyház megbízása esetén a bevett egyház számára, illetve a törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára.
+(4a) A kincstár fizetési számlát vezet
+
+- a) a bevett egyház megbízása esetén a bevett egyház számára,
+- b) törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén a gazdasági társaság számára,
+- c) a (4b)–(4d) bekezdés szerinti esetekben,
+- d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését a kincstárnál vezetett fizetési számlán írja elő.
 
 (4b) A kincstár a 4/A. § (5) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
 
-(4c) Ha a települési önkormányzat 84. § (1) bekezdése szerinti fizetési számláját nem a kincstár vezeti, a 84. § (1) bekezdése szerinti fizetési számlája mellett az európai uniós forrásból nyújtott költségvetési támogatások fogadására a kincstárnál fizetési számlát vezethet.
+(4c) Ha a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás 84. § (1) bekezdése szerinti fizetési számláját nem a kincstár vezeti, a 84. § (1) bekezdése szerinti fizetési számlája mellett az 51. § (4) bekezdése szerinti költségvetési támogatások fogadására a kincstárnál fizetési számlát vezethet.
 
-(4d) A kincstár fizetési számlát vezet a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára az európai uniós forrásból nyújtott költségvetési támogatások fogadására.
+(4d) A kincstár fizetési számlát vezet a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára 51. § (4) bekezdése szerinti költségvetési támogatások fogadására.
 
 (5) A kincstár az (1)–(4a) bekezdés szerinti tevékenysége és az általa nyújtott szolgáltatások után jutalékot, díjat számolhat fel, azonban – a felsőoktatási intézményekben állami részösztöndíjas és önköltséges tanulmányokat folytató hallgatók által fizetett önköltség és az államháztartáson kívülről érkező adományok elkülönített kezelésére a felsőoktatási intézmény számára jogszabályban foglaltak alapján vezetett fizetési számla pénzeszközei kivételével – kamatot nem fizethet. A kincstár jogosult az általa vezetett fizetési számlák megterhelésével továbbhárítani a pénzforgalmi szolgáltatások díját, továbbá jogszabályban meghatározott más esetben azokat megterhelni.
 
@@ -1772,14 +1775,21 @@ a kincstár számára.
 
 (2) A helyi önkormányzat, a nemzetiségi önkormányzat és a társulás (1) bekezdés szerinti adatszolgáltatása akkor tekinthető teljesítettnek, ha azt az általa irányított költségvetési szervek is teljesítették.
 
-(3) Ha az adatszolgáltatás kötelezettje, a (2) bekezdés szerinti esetben a helyi önkormányzat
+(3) Ha az adatszolgáltatás kötelezettje
 
 - a) adatszolgáltatása az adatszolgáltatás tárgyával kapcsolatos lényegesnek minősülő információt nem tartalmaz vagy tévesen mutat be, vagy
 - b) adatszolgáltatási kötelezettségét neki felróható okból nem vagy késedelmesen teljesíti,
 
-a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a kincstár határozatban szab ki.
+a kincstár határozatban a Kormány rendeletében meghatározott mértékű bírságot szab ki.
 
-(3a) Ha az adatszolgáltatás kötelezettje olyan helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, amely tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról közös önkormányzati hivatal gondoskodik, a bírságot a közös önkormányzati hivatal székhelye szerinti helyi önkormányzattal szemben kell kiszabni.
+(3a) A bírságot
+
+- a) ha az adatszolgáltatás kötelezettje olyan helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, amely tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról közös önkormányzati hivatal gondoskodik, a közös önkormányzati hivatal székhelye szerinti helyi önkormányzattal szemben,
+- b) ha az adatszolgáltatás kötelezettje az a) pont hatálya alá nem tartozó helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, a helyi önkormányzattal szemben,
+- c) ha az adatszolgáltatás kötelezettje társulás, nemzetiségi önkormányzat, valamint az ezek irányítása alá tartozó költségvetési szerv, a tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról gondoskodó költségvetési szerv irányító szervével szemben,
+- d) más esetben az adatszolgáltatás kötelezettjével szemben
+
+kell kiszabni.
 
 (4) A (3) bekezdés a) pontjának alkalmazásában lényegesnek minősül az adatszolgáltatás szempontjából minden olyan információ, amelynek elhagyása vagy téves bemutatása – közvetlenül és hátrányosan – befolyásolja az adatszolgáltatásban közölt adatokat felhasználók döntéseit.
 
@@ -1812,7 +1822,7 @@ a Kormány rendeletében meghatározott mértékű bírságot fizet, amelyet a k
 - 9. a költségvetési szerv és a fejezeti kezelésű előirányzat többletbevétele felhasználása engedélyezésének eseteit, az engedélyezés szempontjait, eljárási szabályait, az engedélyezők körét, az engedély megadása, megtagadása esetén a többletbevétel további rendeltetését, valamint az előirányzatok módosításának és az előirányzatok átcsoportosításának módját, az előirányzat-csoportok közötti és a kiemelt előirányzatok közötti átcsoportosítás eseteit, módját és az arra jogosultak körét
 - 10. a 32. § szerinti előirányzatoknál a jóváhagyott előirányzat túllépésének rendjét,
 - 11. a kötelezettségvállalás, pénzügyi ellenjegyzés, szakmai teljesítés igazolása, utalványozás, érvényesítés jogosultsági és összeférhetetlenségi szabályait, eljárásrendjét, a 36. § (3) bekezdése szerinti eseteket, a kötelezettségvállalás 36. § (6) bekezdése szerinti további feltételeit, a Kormány által egyedileg jóváhagyott többéves kiadási kötelezettséget jelentő fejlesztési programok kötelezettségvállalásának szabályait, a 36. § (1) bekezdése szerinti kivételeket, valamint a fedezet rendelkezésre állásának vizsgálatára és a kötelezettségek nyilvántartására vonatkozó előírásokat,
-- 12. a költségvetési főfelügyelő, felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, feladatait, intézkedéseit, a 39. § (2) bekezdés szerinti nagy összegű kötelezettségvállalás fogalmát, a költségvetési főfelügyelő, felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos szabályokat,
+- 12. a költségvetési felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, feladatait, intézkedéseit, a 39. § (2) bekezdés szerinti nagy összegű kötelezettségvállalás fogalmát, a költségvetési felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos szabályokat,
 - 13.
 - 14. a személyi juttatások felhasználásának korlátait, a kezelt állami vagyonnal való gazdálkodás államháztartási szempontú sajátos előírásait, valamint a költségvetési szervek vállalkozási tevékenysége végzésének és a vállalkozási maradvány megállapításának, felhasználásának részletszabályait,
 - 15. a költségvetési támogatások tekintetében
@@ -1932,7 +1942,7 @@ rendeletben szabályozza.
 
 (6) Az (5) bekezdésben meghatározott azonosítás sikertelensége esetén a hiányzó személyes adatok feltöltését a kincstár hibakezelési eljárás keretében egyedileg hajtja végre a rendelkezésre álló adatok, illetve iratok alapján.
 
-(7)
+(7) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 79. § (3) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépésekor meglévő értékpapírszámláikat azok lejáratáig fenntarthatják.
 
 (8)
 

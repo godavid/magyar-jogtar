@@ -709,7 +709,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 - a) a bűncselekmény elkövetésében részt vett, meghatározott személlyel ne tartson kapcsolatot,
 - b) a bűncselekmény sértettjétől, illetve annak lakásától, munkahelyétől, vagy attól a nevelési-oktatási intézménytől, ahová a sértett jár, továbbá a sértett által rendszeresen látogatott helytől tartsa távol magát,
-- c) meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket, meghatározott közterületeket ne látogasson,
+- c) meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket, valamint gyűléseket, meghatározott közterületeket ne látogasson,
 - d) nyilvános helyen ne fogyasszon szeszes italt,
 - e) meghatározott helyen és időközönként, meghatározott szervnél vagy személynél jelentkezzen,
 - f) vegye fel a kapcsolatot az állami foglalkoztatási szervvel, vagy a helyi önkormányzatnál közfoglalkoztatásra jelentkezzen,
@@ -2596,9 +2596,19 @@ követik el.
 
 (4) Aki a közösség tagja elleni erőszakra irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-### Az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése
+### Az egyesülési és a gyülekezési szabadság megsértése
 
-217. § Aki mást egyesülési vagy gyülekezési jogának gyakorlásában, valamint választási gyűlésen való részvételében erőszakkal vagy fenyegetéssel akadályoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+217. § (1) Aki mást egyesülési vagy gyülekezési jogának gyakorlásában erőszakkal vagy fenyegetéssel akadályoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Aki valamely gyűlést akadályoz, ellehetetlenít, vagy annak lebonyolítását egyébként meghiúsítja, illetve a gyűlést súlyosan megzavarja, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+217/A. § Aki a gyűlésen a gyűlés szervezőjének, vezetőjének vagy a rendezőknek rendezői feladataik jogszerű teljesítése során erőszakkal vagy fenyegetéssel ellenszegül, vagy őket rendezői feladataik ellátása alatt bántalmazza, ha más bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+217/B. § (1) Aki a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét biztosító korlátozásait megsérti, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Az (1) bekezdés szerint büntetendő a gyűlés vezetője, ha az általa alkalmazott rendező a gyűlés békés jellegét biztosító korlátozásokat megsérti és annak tudomására jutásától haladéktalanul nem intézkedik a rendező leváltásáról.
+
+217/C. § Aki megtiltott gyűlést szervez, vagy azon való részvételre a gyülekezési jogról szóló törvény szerint felhív, ha más bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 ### Egészségügyi önrendelkezési jog megsértése
 
@@ -4074,13 +4084,13 @@ ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással bün
 - b) a köznyugalmat súlyosan megzavarva,
 - c) fegyveresen,
 - d) felfegyverkezve vagy
-- e) nyilvános rendezvényen
+- e) nyilvános rendezvényen vagy gyűlésen
 
 követik el.
 
 ### Rendbontás
 
-340. § (1) Aki nyilvános rendezvény szervezőjének vagy rendezőjének a rend fenntartása érdekében tett jogszerű intézkedésével szemben erőszakkal vagy fenyegetéssel ellenállást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+340. § (1) Aki nyilvános rendezvény vagy gyűlés szervezőjének vagy rendezőjének a rend fenntartása érdekében tett jogszerű intézkedésével szemben erőszakkal vagy fenyegetéssel ellenállást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint büntetendő, aki sportrendezvényen a létesítménynek a nézőktől vagy a nézők meghatározott csoportjától elzárt területére jogosulatlanul belép, ott tartózkodik, vagy e területre a sportrendezvény megtartását vagy mások testi épségét veszélyeztető tárgyat bedob.
 
@@ -4089,7 +4099,8 @@ követik el.
 - a) csoportosan,
 - b) fegyveresen,
 - c) felfegyverkezve vagy
-- d) különös visszaesőként
+- d) különös visszaesőként,
+- e) a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét biztosító korlátozásokat megsértve
 
 követik el.
 
@@ -6033,7 +6044,8 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - d) az 1997. évi CIV. törvénnyel kihirdetett, a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény II. Cikk 1. és 7. pontjában meghatározott vegyifegyver vagy vegyi kényszerítő eszköz,
   - e) az 1998. évi X. törvénnyel kihirdetett Gyalogsági aknák alkalmazásának, felhalmozásának, gyártásának és átadásának betiltásáról, illetőleg megsemmisítéséről szóló, Oslóban, 1997. szeptember 18-án elfogadott egyezmény 2. Cikk 1. pontjában meghatározott gyalogsági akna,
   - f) a 2012. évi XI. törvénnyel kihirdetett, a Kazettás Lőszerekről szóló Egyezmény 2. Cikk 2. pontjában meghatározott kazettás lőszer, valamint 2. Cikk 13. pontjában meghatározott kisméretű ejtőlőszer;
-- 24. nyilvános rendezvény: a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll;
+- 24. gyűlés: a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés;
+- 24a. nyilvános rendezvény: a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll;
 - 25. prostitúció a rendszeres haszonszerzés céljából történő szexuális cselekmény végzése;
 - 26. személy elleni erőszakos bűncselekmény:
   - a) a népirtás [142. § (1) bekezdés], az emberiesség elleni bűncselekmény [143. § (1) bekezdés], az apartheid [144. § (1)–(3) bekezdés],
@@ -6041,7 +6053,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - c) az emberölés [160. § (1)–(3) és (5) bekezdés], az erős felindulásban elkövetett emberölés (161. §), a testi sértés [164. § (3)–(6) és (8) bekezdés],
   - d) az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem [192. § (1)–(6) bekezdés], a kényszermunka (193. §), a személyi szabadság megsértése (194. §), a kényszerítés (195. §),
   - e) a szexuális kényszerítés (196. §), a szexuális erőszak [197. § (1)–(4) bekezdés],
-  - f) a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (217. §),
+  - f) a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési és a gyülekezési szabadság megsértése [217. § (1) bekezdés];
   - g) az alkotmányos rend erőszakos megváltoztatása [254. § (1) bekezdés], a lázadás [256. § (1)–(2) bekezdés],
   - h) a bántalmazás hivatalos eljárásban [301. § (1)–(2) bekezdés], a bántalmazás közfeladatot ellátó személy eljárásában [302. § (1)–(2) bekezdés], a kényszervallatás [303. § (1)–(2) bekezdés], a jogellenes fogvatartás (304. §),
   - i) a hivatalos személy elleni erőszak [310. § (1)–(3) és (5) bekezdés], a közfeladatot ellátó személy elleni erőszak (311. §), a hivatalos személy vagy közfeladatot ellátó személy támogatója elleni erőszak (312. §), a nemzetközileg védett személy elleni erőszak [313. § (1) bekezdés],
