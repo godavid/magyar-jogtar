@@ -204,17 +204,53 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 70. § (1)
 
-(2)
+(2) Az államháztartásról szóló 2011. évi CXCV. törvény 79. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-(3)
+„(3) A kincstári körön kívüli számlatulajdonosok – a Médiaszolgáltatás-támogató és Vagyonkezelő Alap, valamint a (2a) bekezdés szerinti felmentéssel rendelkező kincstári körön kívüli számlatulajdonos kivételével – hitelintézetnél forintban vezetett fizetési számlával – az általuk foglalkoztatott személyek lakásépítésének, lakásvásárlásának munkáltatói támogatására szolgáló számla kivételével –, valamint értékpapírszámlával nem rendelkezhetnek, értékpapírt nem vásárolhatnak.”
 
-(4)
+(3) Az államháztartásról szóló 2011. évi CXCV. törvény 79. § (4a) bekezdése helyébe a következő rendelkezés lép:
+
+„(4a) A kincstár fizetési számlát vezet
+
+a) a bevett egyház megbízása esetén a bevett egyház számára,
+
+b) törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén a gazdasági társaság számára,
+
+c) a (4b)–(4d) bekezdés szerinti esetekben,
+
+d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését a kincstárnál vezetett fizetési számlán írja elő.”
+
+(4) Az államháztartásról szóló 2011. évi CXCV. törvény 79. § (4c) és (4d) bekezdése helyébe a következő rendelkezés lép:
+
+„(4c) Ha a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás 84. § (1) bekezdése szerinti fizetési számláját nem a kincstár vezeti, a 84. § (1) bekezdése szerinti fizetési számlája mellett az 51. § (4) bekezdése szerinti költségvetési támogatások fogadására a kincstárnál fizetési számlát vezethet.
+
+(4d) A kincstár fizetési számlát vezet a kincstári körön kívüli számlatulajdonosnak nem minősülő, az állam – közvetlen vagy közvetett – többségi tulajdonában álló gazdasági társaság megbízása esetén az ilyen gazdasági társaság számára 51. § (4) bekezdése szerinti költségvetési támogatások fogadására.”
 
 #### 71. §
 
 #### 72. §
 
-#### 73. §
+73. § Az államháztartásról szóló 2011. évi CXCV. törvény 108. § (3) és (3a) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha az adatszolgáltatás kötelezettje
+
+a) adatszolgáltatása az adatszolgáltatás tárgyával kapcsolatos lényegesnek minősülő információt nem tartalmaz vagy tévesen mutat be, vagy
+
+b) adatszolgáltatási kötelezettségét neki felróható okból nem vagy késedelmesen teljesíti,
+
+a kincstár határozatban a Kormány rendeletében meghatározott mértékű bírságot szab ki.
+
+(3a) A bírságot
+
+a) ha az adatszolgáltatás kötelezettje olyan helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, amely tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról közös önkormányzati hivatal gondoskodik, a közös önkormányzati hivatal székhelye szerinti helyi önkormányzattal szemben,
+
+b) ha az adatszolgáltatás kötelezettje az a) pont hatálya alá nem tartozó helyi önkormányzat vagy az irányítása alá tartozó költségvetési szerv, a helyi önkormányzattal szemben,
+
+c) ha az adatszolgáltatás kötelezettje társulás, nemzetiségi önkormányzat, valamint az ezek irányítása alá tartozó költségvetési szerv, a tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolgáltatási és beszámolási feladatai ellátásáról gondoskodó költségvetési szerv irányító szervével szemben,
+
+d) más esetben az adatszolgáltatás kötelezettjével szemben
+
+kell kiszabni.”
 
 #### 74. §
 
@@ -224,7 +260,9 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 (2)
 
-(3)
+(3) Az államháztartásról szóló 2011. évi CXCV. törvény 111. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 79. § (3) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépésekor meglévő értékpapírszámláikat azok lejáratáig fenntarthatják.”
 
 77. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
@@ -264,7 +302,7 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 - 34.
 - 35.
 - 36.
-- 37.
+- 37. 39. § (5) bekezdésében a „főfelügyelő” szövegrész helyébe a „felügyelő” szöveg,
 - 38.
 - 39.
 - 40.
@@ -274,7 +312,7 @@ lép.
 78. § (1) Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
 
 - 1.
-- 2.
+- 2. 79. § (3a) bekezdése, és
 - 3.
 
 (2) Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
@@ -283,13 +321,13 @@ lép.
 - 2.
 - 3.
 - 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
+- 5. 27. alcím címében és 39. § (1), (2) és (4) bekezdésében a „főfelügyelő,” szövegrész,
+- 6. 39. § (1) bekezdésében a „főfelügyelőt,” szövegrész,
+- 7. 39. § (3) bekezdésében a „főfelügyelő,” szövegrészek,
+- 8. 39. § (5) bekezdésében a „ , költségvetési felügyelő kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben” szövegrész,
+- 9. 58. § (2) bekezdésében a „ , legkésőbb annak az évnek az utolsó napjáig, amely évben az éves költségvetési beszámolót el kellett készítenie” szövegrész,
 - 10.
-- 11.
+- 11. 109. § (1) bekezdés 12. pontjában a „főfelügyelő,” szövegrészek.
 
 #### 29. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 

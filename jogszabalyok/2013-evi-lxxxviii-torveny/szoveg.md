@@ -294,6 +294,8 @@ törli.
 
 (2) A bíróság, ügyészség vagy nyomozó hatóság döntése alapján a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
 
+(2a) A kulturális javakra elrendelt körözés esetén – a (2) bekezdésben foglaltak kivételével – a 4. § (2) bekezdés a) pont aa), ab), ad) alpontjában és c) pont ca) alpontjában meghatározott adat közérdekből nyilvános adat.
+
 (3) A nyilvántartásban szereplő adatok közül közérdekből nyilvános adatnak minősül
 
 - a) az eltűnt személy 3. § (2) bekezdés a) pont aa)–ad) és aj) alpontjában, b) pont bc) alpontjában, j) pontjában, k) pont ka)–kc) alpontjában,
