@@ -251,7 +251,7 @@ a felmerülő költségeket megtéríteni.
 
 (1) Ez a törvény 2018. október 1. napján lép hatályba.
 
-(2) Hatályát veszti a gyülekezési jogról szóló 1989. évi III. törvény.
+(2)
 
 #### 23. § [Átmeneti rendelkezések]
 
@@ -263,112 +263,11 @@ a felmerülő költségeket megtéríteni.
 
 A 21. § (1) bekezdése szerinti közigazgatási bírság megállapításának és megfizetése módjának részletes szabályait a Kormány rendeletben határozza meg.
 
-#### 25. § [Módosító rendelkezések]
+25. §
 
-(1) A Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 217. §-a és az azt megelőző alcím helyébe a következő rendelkezés lép:
+26. §
 
-„Az egyesülési és a gyülekezési szabadság megsértése
-
-217. § (1) Aki mást egyesülési vagy gyülekezési jogának gyakorlásában erőszakkal vagy fenyegetéssel akadályoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Aki valamely gyűlést akadályoz, ellehetetlenít, vagy annak lebonyolítását egyébként meghiúsítja, illetve a gyűlést súlyosan megzavarja, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
-
-(2) A Btk. Az egyesülési és a gyülekezési szabadság megsértése alcíme a következő 217/A. §-sal egészül ki:
-
-„217/A. § Aki a gyűlésen a gyűlés szervezőjének, vezetőjének vagy a rendezőknek rendezői feladataik jogszerű teljesítése során erőszakkal vagy fenyegetéssel ellenszegül, vagy őket rendezői feladataik ellátása alatt bántalmazza, ha más bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.”
-
-(3) A Btk. a következő 217/B. §-sal egészül ki:
-
-„217/B. § (1) Aki a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét biztosító korlátozásait megsérti, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Az (1) bekezdés szerint büntetendő a gyűlés vezetője, ha az általa alkalmazott rendező a gyűlés békés jellegét biztosító korlátozásokat megsérti és annak tudomására jutásától haladéktalanul nem intézkedik a rendező leváltásáról.”
-
-(4) A Btk. a következő 217/C. §-sal egészül ki:
-
-„217/C. § Aki megtiltott gyűlést szervez, vagy azon való részvételre a gyülekezési jogról szóló törvény szerint felhív, ha más bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
-
-(5) A Btk. 340. § (3) bekezdése a következő e) ponttal egészül ki:
-
-[(3) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a rendbontást]
-
-„e) a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét biztosító korlátozásokat megsértve”
-
-[követik el.]
-
-(6) A Btk. 459. § (1) bekezdés 24. pontja helyébe a következő rendelkezés lép, valamint a 459. § (1) bekezdése a következő 24a. ponttal egészül ki:
-
-[(1) E törvény alkalmazásában]
-
-„24. gyűlés: a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés;
-
-24a. nyilvános rendezvény: a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll;”
-
-(7) A Btk. 459. § (1) bekezdés 26. pont f) alpontja helyébe a következő rendelkezés lép:
-
-[(1) E törvény alkalmazásában
-
-26. személy elleni erőszakos bűncselekmény:]
-
-„f) a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési és a gyülekezési szabadság megsértése [217. § (1) bekezdés];”
-
-(8) A Btk.
-
-- a) 71. § (2) bekezdés c) pontjában a „nyilvános rendezvényeket,” szövegrész helyébe a „nyilvános rendezvényeket, valamint gyűléseket,” szöveg,
-- b) 339. § (2) bekezdés e) pontjában a „nyilvános rendezvényen” szövegrész helyébe a „nyilvános rendezvényen vagy gyűlésen” szöveg,
-- c) 340. § (1) bekezdésében a „nyilvános rendezvény” szövegrész helyébe a „nyilvános rendezvény vagy gyűlés” szöveg
-
-lép.
-
-26. § (1) A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 29. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép és 29. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„e) gyűlés a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés,
-
-f) nyilvános rendezvény a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll.”
-
-(2) A Szabs. tv. 189. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(Aki)
-
-„d) közterületnek nem minősülő helyszínre, az ingatlan tulajdonosának vagy használójának hozzájárulása nélkül gyűlést szervez,”
-
-(szabálysértést követ el.)
-
-(3) A Szabs. tv. 189. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Aki
-
-a) a gyülekezési hatóság által megtiltott gyűlésen megjelenik,
-
-b) a gyűlés szervezőjeként vagy vezetőjeként megakadályozza a rendőrség képviselőjének a gyűlésen való jelenlétét,
-
-c) a gyűlés szervezőjeként vagy vezetőjeként a gyűlés vezetője vagy a rendezők előtt magát újságíróként igazolt személyt a gyűlésről kizár,
-
-d) a gyűlést szervezőként vagy vezetőként – a spontán gyűlés esetét kivéve – bejelentés nélkül tartja meg,
-
-e) a gyűlés szervezőjeként a nyilvános felhívásban nevét nem tünteti fel
-
-szabálysértést követ el.”
-
-(4) A Szabs. tv.
-
-- a) 189. § (1) bekezdés a) pontjában a „gyülekezési jogról szóló törvény hatálya alá tartozó, szervezetten megvalósuló rendezvényt” szövegrész helyébe a „bejelentési kötelezettség alá eső gyűlést”,
-- b) 189. § (1) bekezdés c) pontjában, valamint (4) bekezdésében a „rendőrség” szövegrész helyébe a „gyülekezési hatóság”,
-- c) 189. § (2) bekezdésében a „rendezvényt” szövegrész helyébe a „gyűlést”,
-- d) 189. § (3) bekezdés a) pontjában, valamint (4) bekezdésében a „rendezvény” szövegrész helyébe a „gyűlés”,
-- e) 189. § (6) bekezdésében az „(1)–(5) bekezdésben” szövegrész helyébe az „(1)–(4) bekezdésben”,
-- f) 216. § (3) bekezdésében a „gyülekezésről szóló törvény hatálya alá tartozó rendezvény” szövegrész helyébe a „gyűlés”
-
-szöveg lép.
-
-27. § Hatályát veszti a Szabs. tv.
-
-- a) 169. § (1) bekezdés c) pontjában az „a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényen vagy” szövegrész,
-- b) 189. § (1) bekezdés b) pontja,
-- c) 189. § (5) bekezdése,
-- d) 144. alcímében a „ , valamint a választási gyűlésen való részvétel jogának” szövegrész,
-- e) 190. § (1) bekezdésében a „ , valamint a választási gyűlésen való részvételében” szövegrész.
+27. §
 
 #### 1. Az Európai Unió jogának való megfelelés
 
