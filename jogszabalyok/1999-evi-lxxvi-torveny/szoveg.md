@@ -371,7 +371,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 - a) tudományos kutatáshoz vagy archiváláshoz szükséges,
 - b) nyilvános könyvtári ellátás vagy a 38. § (5) bekezdésében meghatározott felhasználás céljára készül,
-- c) megjelent mű kisebb részéről, illetve újság- vagy folyóiratcikkről belső intézményi célra készül, vagy
+- c) megjelent mű kisebb részéről, továbbá újság- vagy folyóiratcikkről belső intézményi célra készül, vagy
 - d)
 
 (5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy iskolai osztály létszámának megfelelő, illetve a köz- és felsőoktatási vizsgákhoz szükséges példányszámban többszörözhetők.
@@ -420,7 +420,24 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 40. § A szabad felhasználás keretében többszörözött példányok – a könyvtárközi kölcsönzés és a 36. § (5) bekezdésében foglalt eset kivételével – nem terjeszthetők a szerző engedélye nélkül.
 
-41. § (1) A mű nem üzletszerű felhasználása a szabad felhasználás körébe tartozik, ha az kizárólag a fogyatékos személyek – fogyatékosságukkal közvetlenül összefüggő – igényeinek kielégítését szolgálja, és nem haladja meg a cél által indokolt mértéket.
+41. § (1) A mű nem üzletszerű felhasználása a szabad felhasználás körébe tartozik, ha az kizárólag fogyatékossággal élő személyek javára, fogyatékosságukkal közvetlen összefüggésben történik, és nem haladja meg a fogyatékosság által indokolt mértéket.
+
+(1a) Az (1) bekezdés szerinti szabad felhasználásnak minősül különösen:
+
+- a) a mű hozzáférhető formátumú példányának az olvasási képességet érintő fogyatékossággal élő kedvezményezett személy kizárólagos használatára történő előállítása, akár a kedvezményezett személy, akár valamely, az ilyen személy nevében eljáró személy vagy jogosított szervezet által, feltéve, hogy a hozzáférhető formátumú példány alapjául szolgáló műhöz a hozzáférhető formátumú példány előállítója jogszerűen jutott hozzá;
+- b) a jogosított szervezet által az olvasási képességet érintő fogyatékossággal élő kedvezményezett személyek vagy más jogosított szervezetek számára hozzáférhető formátumú példányok terjesztése és nyilvánossághoz közvetítése, ideértve az oly módon történő hozzáférhetővé tételt is, amikor a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választják meg.
+
+(1b) A Magyarországon letelepedett jogosított szervezet az (1a) bekezdés b) pontjában meghatározott tevékenységet az Európai Unió bármely tagállamában letelepedett jogosított szervezet vagy az olvasási képességet érintő fogyatékossággal élő kedvezményezett személy számára szabadon végezheti.
+
+(1c) A Magyarországon letelepedett jogosított szervezet és az olvasási képességet érintő fogyatékossággal élő kedvezményezett személy a hozzáférhető formátumú példányt az Európai Unió más tagállamában letelepedett jogosított szervezettől szabadon megszerezheti.
+
+(1d) Az (1a)–(1c) bekezdésben meghatározott szabad felhasználás körében bármely nyilvánosságra hozott, írott vagy egyéb jelrendszer formájában rögzített [18. § (1) bekezdés a) pontja és (2) bekezdése] mű felhasználható annak illusztrációival együtt, ideértve ezek digitális és hanganyaggá alakított változatait is.
+
+(1e) Az (1)–(1d) bekezdés szerinti szabad felhasználást kizáró vagy korlátozó szerződéses rendelkezés semmis.
+
+(1f) A hozzáférhető formátumú példány előállításához és hozzáférhetővé tételéhez szükséges változtatások nem haladhatják meg a cél által indokolt mértéket.
+
+(1g) Az (1a)–(1c) bekezdés szerinti jogosított szervezet és az olvasási képességet érintő fogyatékossággal élő kedvezményezett személy meghatározását, a hozzáférhető formátumú művet érintő szabad felhasználásra vonatkozó részletes szabályokat, továbbá a jogosított szervezetek, a hozzáférhető formátumú művek és kapcsolódó jogi teljesítmények nyilvántartását vezető, valamint az Európai Bizottság számára információt nyújtó közreműködő szervezet kijelölését és feladatkörét kormányrendelet állapítja meg.
 
 (2) Bírósági, továbbá közigazgatási vagy más hatósági eljárásban a mű bizonyítás céljára, a célnak megfelelő módon és mértékben felhasználható.
 
@@ -470,8 +487,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (2) Az általános közigazgatási rendtartásról szóló törvényt a következő eltérésekkel és kiegészítésekkel kell alkalmazni:
 
-- a) a Hivatal a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja;
-- b) a kérelem a kormányabaknál nem terjeszthető elő;
+- a) a Hivatal a tényeket a kérelem keretei között, az ügyfél nyilatkozatai és állításai alapján vizsgálja azzal, hogy az ügyfél hiánypótlásra vagy nyilatkozattételre két alkalommal is felhívható;
+- b) a kérelem a kormányablaknál nem terjeszthető elő;
 - c) nem alkalmazható az általános közigazgatási rendtartásról szóló törvény 26. §-a;
 - d) nem alkalmazhatóak az általános közigazgatási rendtartásról szóló törvénynek a határozat közhírré tételére, az ügygondnokra, a sommás eljárásra, a költségmentességre és a végrehajtásra vonatkozó rendelkezései;
 - e) a Hivatal döntéseivel szemben nincs helye az ügyészségről szóló törvény szerinti ügyészi felhívásnak és fellépésnek, a Hivatal határozatát, valamint azokat a végzéseit, amelyekkel szemben az általános közigazgatási rendtartásról szóló törvény szerint önálló fellebbezésnek van helye, a bíróság – a 41/D. §-ban foglaltak szerint – nemperes eljárásban vizsgálja felül.
@@ -480,7 +497,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) A Hivatal által hozott határozat felülvizsgálatát az ügyész is kérheti, az eljárás megindítására a Fővárosi Főügyészség rendelkezik kizárólagos illetékességgel. A Hivatal a határozatát a Fővárosi Főügyészséggel is közli.
 
-41/D. § (1) A 41/C. § (1) bekezdés e) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Hivatalnál kell benyújtani, amely azt az ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz.
+41/D. § (1) A 41/C. § (2) bekezdés e) pontja szerinti nemperes eljárás megindítására irányuló kérelmet a döntés közlésétől számított harminc napon belül a Hivatalnál kell benyújtani, amely azt az ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz.
 
 (2) Ha a kérelem elvi jelentőségű jogkérdést vet fel, a Hivatal e kérdésben írásbeli nyilatkozatot tehet és azt a kérelemmel, valamint az ügy irataival együtt harminc napon belül továbbítja a bírósághoz.
 
@@ -1024,7 +1041,9 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (3) Bírósági, továbbá államigazgatási vagy más hatósági eljárásban bizonyítás céljára az adatbázis tartalmának jelentős része is kimásolható vagy újrahasznosítható, a célnak megfelelő módon és mértékig.
 
-(4) A szabad felhasználásnak az (1)–(3) bekezdésben szabályozott eseteire a 33. §-t megfelelően alkalmazni kell.
+(3a) Az adatbázis a 41. § (1a)–(1g) bekezdésében foglaltak megfelelő alkalmazásával nem üzletszerű célra szabadon kimásolható vagy újrahasznosítható, ha a kimásolás vagy újrahasznosítás kizárólag az ott meghatározott fogyatékossággal élő személyek javára, fogyatékosságukkal közvetlen összefüggésben történik, és az nem haladja meg a fogyatékosság által indokolt mértéket.
+
+(4) A szabad felhasználásnak az (1)–(3a) bekezdésben szabályozott eseteire a 33. §-t megfelelően alkalmazni kell.
 
 84/D. § (1) Az e fejezetben szabályozott jogok a következő időtartamban részesülnek védelemben: az adatbázis első nyilvánosságra hozatalát követő év első napjától számított tizenöt évig, illetve az adatbázis elkészítését követő év első napjától számított tizenöt évig, ha ezalatt nem hozták nyilvánosságra az adatbázist.
 
@@ -1186,7 +1205,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 95/A. § (1) A reprográfiával [21. § (1) bek.] történő magáncélú másolás [35. § (1) bek.], továbbá a 34. § (2) bekezdésében, a 35. § (4) és (7) bekezdésében és a 41. §-ban szabályozott szabad felhasználási esetek tekintetében a szabad felhasználás kedvezményezettje követelheti, hogy a jogosult a műszaki intézkedések megkerülésével szemben a 95. § alapján biztosított védelem ellenére tegye lehetővé számára a szabad felhasználást, feltéve, hogy a szabad felhasználás kedvezményezettje a műhöz jogszerűen férhet hozzá. Ha a felek között nem jön létre megállapodás a szabad felhasználás lehetővé tételének feltételeiről, a felek bármelyike kezdeményezheti a 105/A. § alapján történő eljárást.
 
-(2) Az (1) bekezdés nem alkalmazható, ha a művet szerződés alapján teszik úgy a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhassák meg [26. § (8) bek., 73. § (1) bek. e) pont, 76. § (1) bek. c) pont, 80. § (1) bek. d) pont, 82. § (1) bek. c) pont].
+(2) Az (1) bekezdés – a 41. § (1)–(1c) bekezdésében szabályozott szabad felhasználási esetek kivételével – nem alkalmazható, ha a művet szerződés alapján teszik úgy a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhassák meg, így különösen a 26. § (8) bekezdése, 73. § (1) bekezdés e) pontja, 76. § (1) bekezdés c) pontja, 80. § (1) bekezdés d) pontja, 82. § (1) bekezdés c) pontja szerinti esetekben.
 
 ### A jogkezelési adatok védelme
 
@@ -1380,31 +1399,31 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (4) Felhatalmazást kap a Kormány, hogy az árva mű felhasználásával kapcsolatos részletes szabályokat, a jogosultat megillető megfelelő díjazás feltételeit, a felhasználással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének, visszatérítésének módját, továbbá az árva művek felhasználására vonatkozóan kiadott engedélyek nyilvántartásának részletes szabályait rendeletben állapítsa meg.
 
-(4a)
-
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 - a) a Hivatal elnöke véleményének kikérésével, a kultúráért felelős miniszterrel egyetértésben a Hivatal által vezetett önkéntes műnyilvántartásra vonatkozó részletes szabályokat, valamint
 - b) a Hivatal elnöke véleményének kikérésével, az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Hivatal felett felügyeletet gyakorló miniszterrel egyetértésben az önkéntes műnyilvántartással összefüggő eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját rendelettel megállapítsa.
 
-(6)
-
 (6) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a közös jogkezelő szervezetek nyilvántartásával kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, beszedésének és visszatérítésének módját az adópolitikáért felelős miniszterrel, a kultúráért felelős miniszterrel és a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben, valamint a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével rendeletben szabályozza.
 
 (7) Felhatalmazást kap a kultúráért felelős miniszter, hogy – az igazságügyért felelős miniszterrel egyetértésben – az e törvény 23/A. §-ának (4) bekezdése alapján a nyilvános haszonkölcsönzésért a szerzőt megillető díj megállapításához és felosztásához szükséges adatok, valamint az adatszolgáltatásra kötelezett nyilvános könyvtárak körét rendelettel megállapítsa.
 
+(8) Felhatalmazást kap a Kormány, hogy az e törvény 41. § (1a)–(1f) bekezdésében foglalt szabad felhasználással összefüggő részletes szabályokat, illetve hogy az e törvény 41. § (1a)–(1c) bekezdése szerinti hozzáférhető formátumú példány, jogosított szervezet és az olvasási képességet érintő fogyatékossággal élő kedvezményezett személy meghatározását, a hozzáférhető formátumú művekkel és kapcsolódó jogi teljesítményekkel végezhető szabad felhasználásra vonatkozó részletes szabályokat, továbbá a jogosított szervezetek, a hozzáférhető formátumú művek és kapcsolódó jogi teljesítmények nyilvántartását vezető, valamint az Európai Bizottság számára információt nyújtó közreműködő szervezet kijelölését és feladatkörét rendeletben állapítsa meg.
+
 ### Az Európai Unió jogának való megfelelés
 
-113. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+113. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 2009/24/EK irányelve (2009. április 23.) a számítógépi programok jogi védelméről;
-- b) a Tanács 93/83/EGK irányelve (1993. szeptember 27.) a műholdas műsorsugárzásra és a vezeték útján történő továbbközvetítésre alkalmazandó szerzői jogra és a szerzői joghoz kapcsolódó jogokra vonatkozó egyes szabályok összehangolásáról;
+- b) a Tanács 93/83/EGK irányelve (1993. szeptember 27.) a műholdas műsorsugárzásra és a vezetékes továbbközvetítésre alkalmazandó egyes szerzői és szomszédos jogi szabályok összehangolásáról;
 - c) az Európai Parlament és a Tanács 96/9/EK irányelve (1996. március 11.) az adatbázisok jogi védelméről;
-- d) az Európai Parlament és a Tanács 2001/29/EK irányelve (2001. május 22.) az információs társadalomban érvényesülő szerzői és kapcsolódó jogok egyes kérdésekben történő összehangolásáról;
+- d) az Európai Parlament és a Tanács 2001/29/EK irányelve (2001. május 22.) az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról;
 - e) az Európai Parlament és a Tanács 2001/84/EK irányelve (2001. szeptember 27.) az eredeti műalkotás szerzőjét megillető követő jogról;
 - f) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.) a szellemi tulajdonjogok érvényesítéséről;
-- g) az Európai Parlament és a Tanács 2006/115/EK irányelve (2006. december 12.) a bérleti jogról és a haszonkölcsönzési jogról, valamint a szellemi tulajdon területén a szerzői joghoz kapcsolódó egyes jogokról;
+- g) az Európai Parlament és a Tanács 2006/115/EK irányelve (2006. december 12.) a bérleti jogról és a haszonkölcsönzési jogról, valamint a szellemi tulajdon területén a szerzői joggal szomszédos bizonyos jogokról;
 - h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12.) a szerzői jog és egyes szomszédos jogok védelmi idejéről és az azt módosító 2011/77/EU európai parlamenti és tanácsi irányelv;
-- i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetővé tételéről, valamint a digitális megőrzésről 6. (a) és (c) alpontja.
+- i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetőségéről, valamint a digitális megőrzésről 6. a) és c) alpontja;
 - j) az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól;
-- k) a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló (2014. február 26.) 2014/26/EU európai parlamenti és tanácsi irányelv.
+- k) a szerzői és szomszédos jogi védelemben részesülő egyes műveknek és más teljesítményeknek a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló egyes megengedett felhasználási módjairól, valamint az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról szóló 2001/29/EK irányelv módosításáról szóló, 2017. szeptember 13-i (EU) 2017/1564 európai parlamenti és tanácsi irányelv.
+
+(2) Ez a törvény a szerzői és szomszédos jogi védelemben részesülő egyes művek és más teljesítmények hozzáférhető formátumú példányainak a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló, határokon átnyúló, az Unió és harmadik országok közötti cseréjéről szóló 2017. szeptember 13-i (EU) 2017/1563 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
