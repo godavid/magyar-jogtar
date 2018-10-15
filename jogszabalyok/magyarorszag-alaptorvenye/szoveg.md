@@ -452,9 +452,9 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 (1) Az állam jogi védelemben részesíti az otthont. Magyarország törekszik arra, hogy az emberhez méltó lakhatás feltételeit és a közszolgáltatásokhoz való hozzáférést mindenki számára biztosítsa.
 
-(2) Az emberhez méltó lakhatás feltételeinek a megteremtését az állam és a helyi önkormányzatok azzal is segítik, hogy törekszenek valamennyi hajlék nélkül élő személy számára szállást biztosítani.
+(2) Az emberhez méltó lakhatás feltételeinek a megteremtését, továbbá a közterület közcélú használatának védelmét az állam és a helyi önkormányzatok azzal is segítik, hogy törekszenek valamennyi hajlék nélkül élő személy számára szállást biztosítani.
 
-(3) Törvény vagy helyi önkormányzat rendelete a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében, a közterület meghatározott részére vonatkozóan jogellenessé minősítheti az életvitelszerűen megvalósuló közterületi tartózkodást.
+(3) Tilos az életvitelszerű közterületen tartózkodás.
 
 #### XXIII. cikk
 

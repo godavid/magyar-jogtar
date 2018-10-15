@@ -80,7 +80,7 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 - a) a büntetés, intézkedés kiszabásának további törvényi feltételeit,
 - b) az egyes büntetések, valamint a helyszíni bírság kiszabásának kizártságát,
-- c) a helyszíni eljárásra, valamint a büntetés, intézkedés végrehajtására vonatkozó eltérő szabályokat.
+- c) az alkalmazható kényszerintézkedésekre, a helyszíni eljárásra, az előkészítő eljárásra, a bírósági eljárásra, valamint a büntetés, intézkedés végrehajtására vonatkozó eltérő szabályokat.
 
 8. § (1) A szabálysértés miatt alkalmazható intézkedések:
 
@@ -1212,7 +1212,8 @@ indul meg.
 - i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelősségre vonása nélkül,
 - j) a közvetítő a közvetítői eljárás eredményes lefolytatásáról tájékoztatta a szabálysértési hatóságot vagy a bíróságot.
 - k) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik és az már nem pótolható, illetve az illetékekről szóló törvényben meghatározott szabálysértési eljárási illeték megfizetésére felhívás ellenére nem került sor,
-- l) megállapítható, hogy e törvény rendelkezései szerint a feljelentés elutasításának lett volna helye.
+- l) megállapítható, hogy e törvény rendelkezései szerint a feljelentés elutasításának lett volna helye,
+- m) a 10. § szerinti elzárást kizáró ok kerül a 178/B. § (11) bekezdése tekintetében megállapításra.
 
 (2) Az elkobzás alkalmazásáról szóló megszüntető határozatban a szabálysértési hatóság szabálysértési költséget állapíthat meg.
 
@@ -2355,7 +2356,7 @@ vehető nyilvántartásba.
 
 - a) a szabálysértést elkövetettek és a helyszíni bírságoltak nyilvántartása,
 - b) a szabálysértési eljárás hatálya alatt állók nyilvántartása,
-- c)
+- c) helyszíni intézkedés alá vontak nyilvántartása.
 
 (2) A szabálysértési nyilvántartásokban kezelt adatok kezelésének a célja a szabálysértési eljárás gyors lefolytatása, a szabálysértési végrehajtási rendszer megerősítése, továbbá a nyilvántartásból történő adatszolgáltatás útján az érintett jogai gyakorlásának biztosítása, valamint mások jogainak és biztonságának védelme.
 
@@ -2441,9 +2442,11 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 
 (2) A szabálysértési nyilvántartó szerv a szabálysértési eljárás hatálya alatt állók nyilvántartásába felvett adatokat a szabálysértési eljárás jogerős befejezéséig kezeli.
 
-(2a) Ha az ügyben eredményes közvetítői eljárást folytattak le, a szabálysértési nyilvántartó szerv a 154. § (2) bekezdés c), d), f), h), i) és j) pontjában meghatározott adatokat az eredményes közvetítői eljárás befejezését követő egy évig kezeli.
+(2a) A szabálysértési nyilvántartó szerv a helyszíni intézkedés alá vontak nyilvántartásába felvett adatokat a helyszíni intézkedéstől számított 90 napig, vagy a szabálysértési eljárás megindításáig kezeli.
 
-(3) Törölni kell a szabálysértési nyilvántartásokból annak a személynek az adatait, akire vonatkozóan az (1) és (2) bekezdésben meghatározott nyilvántartási idő eltelt.
+(2b) Ha az ügyben eredményes közvetítői eljárást folytattak le, a szabálysértési nyilvántartó szerv a 154. § (2) bekezdés c), d), f), h), i) és j) pontjában meghatározott adatokat az eredményes közvetítői eljárás befejezését követő egy évig kezeli.
+
+(3) Törölni kell a szabálysértési nyilvántartásokból annak a személynek az adatait, akire vonatkozóan az (1)–(2b) bekezdésben meghatározott nyilvántartási idő eltelt.
 
 (4) A (3) bekezdésben meghatározott időpontban törölni kell az érintett adatait a személyazonosító adatok nyilvántartásából is.
 
@@ -2487,6 +2490,19 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - b) a közvetlen hozzáférésre jogosult szervet a hozzáférésre felhatalmazott személy egyedi azonosítóiról, valamint a közvetlen hozzáférés gyakorlásához szükséges technikai ismeretekről,
 - c) a közvetlen hozzáféréssel történő adatigénylésre jogosult szervet a hozzáférésre felhatalmazott személy egyedi azonosítóiról, valamint az elektronikus úton, egyedi informatikai alkalmazás igénybevételével történő adatigényléshez szükséges technikai ismeretekről.
 
+#### 115/C. A helyszíni intézkedés alá vontak nyilvántartása
+
+156/D. § (1) A helyszíni intézkedés alá vontak nyilvántartásában annak az adatait kell nyilvántartani, akivel szemben – a 178/B. § szerinti szabálysértés miatt – helyszíni intézkedésre került sor.
+
+(2) Az (1) bekezdés szerinti intézkedésről a szabálysértési eljárás megindítása esetén nem kell adatot közölni.
+
+(3) A helyszíni intézkedés alá vontak nyilvántartása tartalmazza
+
+- a) a kapcsolati kódot,
+- b) a szabálysértési eljárás alapjául szolgáló szabálysértés gyanú szerinti elkövetési helyét, a helyszíni intézkedés kezdő és befejező időpontját.
+
+(4) A helyszíni intézkedés alá vontak nyilvántartása számára, jogszabályban meghatározott formában és módon, adatot a rendőrség közöl.
+
 #### 116. Közvetlen hozzáféréssel történő adatátvétel a szabálysértési nyilvántartásokból
 
 157. § (1) A személyazonosító adatok nyilvántartásából és a szabálysértési nyilvántartásokból törvényben meghatározott feladataik ellátása céljából közvetlen hozzáféréssel a szabálysértési nyilvántartási rendszerben kezelt adatok teljes körét jogosult átvenni
@@ -2499,7 +2515,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából, valamint
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából.
 
-(1a) A bíróság, a szabálysértési hatóság a közvetítői eljárással összefüggésben a 82/A. § (5) bekezdésében foglalt feltétel megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a szabálysértési nyilvántartásokból a 155. § (2a) bekezdése szerint kezelt adatokat.
+(1a) A bíróság, a szabálysértési hatóság a közvetítői eljárással összefüggésben a 82/A. § (5) bekezdésében foglalt feltétel megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a szabálysértési nyilvántartásokból a 155. § (2b) bekezdése szerint kezelt adatokat.
 
 (2) A szabálysértési nyilvántartó szerv
 
@@ -2757,39 +2773,61 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 178/A. § Aki közterületen a tulajdonos vagy a rendelkezésre jogosult hozzájárulása nélkül építményt épít, szabálysértést követ el.
 
-#### 133/B. Közös szabályok a XXIII. Fejezetben foglalt szabálysértések tekintetében
+#### 133/B. Életvitelszerű közterületi tartózkodás szabályainak megsértése
+
+178/B. § (1) Aki életvitelszerűen közterületen tartózkodik, az szabálysértést követ el.
+
+(2) Mellőzni kell a szabálysértési eljárás megindítását és helyszíni figyelmeztetést kell alkalmazni, ha
+
+- a) az elkövető a rendőr felszólítására az elkövetés helyét elhagyja, vagy
+- b) az elkövető a jelenlévő hatóság vagy más szerv vagy szervezet felajánlott segítségét elfogadva együttműködik a hajléktalan személyek részére fenntartott ellátások igénybevétele érdekében.
+
+(3) A helyszíni figyelmeztetéssel egyidejűleg a rendőr az elkövetőt tájékoztatja a (4) bekezdésben foglalt jogkövetkezményekről.
+
+(4) Akit 90 napon belül 3 alkalommal a (2) bekezdés szerint a szabálysértés elkövetése miatt a helyszínen figyelmeztettek, azzal szemben az újabb elkövetéskor a szabálysértési eljárás megindítása nem mellőzhető.
+
+(5) Az (1) bekezdés alkalmazásában életvitelszerű tartózkodásnak tekinthető minden olyan magatartás, amely alapján megállapítható, hogy a közterületen való életvitelszerű tartózkodás a lakó- és tartózkodási hely, valamint egyéb szállásra való visszatérés szándéka nélkül, a közterületen való huzamos tartózkodás érdekében valósul meg, és a közterületen való tartózkodás körülményeiből, vagy a magatartásból arra lehet következtetni, hogy a jellemzően lakóhelyül szolgáló közterületen végzett tevékenységet – így különösen alvás, tisztálkodás, étkezés, öltözködés, állattartás – az elkövető a közterületen rövid időnként visszatérően és rendszeresen végzi.
+
+(6) Az (1) bekezdésben meghatározott szabálysértés
+
+- a) miatt pénzbírság nem szabható ki,
+- b) elkövetésén tetten ért személlyel szemben helyszíni bírság kiszabásának nincs helye.
+
+(7) A bíróság elé állítás érdekében az (1) bekezdésben meghatározott szabálysértés elkövetőjét a rendőrségre elő kell állítani, meg kell hallgatni és – a (11) bekezdésben meghatározott kivétellel – szabálysértési őrizetbe kell venni.
+
+(8) A rendőrség a szabálysértési őrizet ideje alatt gondoskodik az elkövető tisztálkodásáról és tiszta ruhával történő ellátásáról.
+
+(9) Az (1) bekezdés szerinti szabálysértés elkövetőjének előállítása során azon ingóságokat, amelyeket az elkövető nem vesz magához, de úgy nyilatkozik, hogy azokra igényt tart, valamint amelyek vonatkozásában a nyilatkozat a helyszíni intézkedés során nem szerezhető be, a Kormány rendeletében meghatározott szerv ideiglenes tárolásba veszi.
+
+(10) A Kormány rendeletében meghatározott szerv a (9) bekezdés szerinti ingóságot 6 hónapig őrzi meg. A megőrzési idő leteltét követően az általános szabálysértési hatóság intézkedik az ingóságok megsemmisítése iránt. Ha az ingóság gyorsan romló, bomló, tárolhatatlan dolog, akkor azt haladéktalanul meg kell semmisíteni.
+
+(11) Akivel szemben a 10. §-ban meghatározott elzárást kizáró ok áll fenn, azzal szemben az eljárást az előkészítő eljárást folytató szerv megszünteti.
+
+(12) Ha a meghallgatás során az elkövető úgy nyilatkozik, hogy a közérdekű munka végzését vállalja, akkor az előkészítő eljárást lefolytató szerv a szabálysértési őrizet ideje alatt intézkedik a foglalkoztathatósági szakvélemény beszerzése iránt.
+
+(13) Az (1) bekezdés szerinti szabálysértés elkövetőjével szemben a szabálysértési őrizet a bíróság jogerős döntéséig, de legfeljebb a nem jogerősen kiszabott szabálysértési elzárás tartamáig tart. Az elsőfokú bíróság által nem jogerősen kiszabott közérdekű munka büntetés esetén a szabálysértési őrizet a 14. § (2a) bekezdésében meghatározott beszámítás szerinti tartamig tart. Ha az elsőfokú bíróság figyelmeztetés intézkedést alkalmaz, az elkövetőt haladéktalanul szabadítani kell.
+
+(14) A bíróság az elsőfokú döntését az őrizetbe vételtől számított 72 órán belül hozza meg. Az elsőfokú döntés elleni fellebbezést a végzés kihirdetését követően a tárgyaláson be kell jelenteni, amelyet a bíróságnak írásba kell foglalnia. A bíróság az iratokat haladéktalanul felterjeszti a törvényszékhez.
+
+(15) A bíróság a másodfokú döntését az elsőfokú döntést követő 30 napon belül hozza meg.
+
+(16) Ha a technikai feltételek biztosítottak, akkor a bírósági eljárásban az elkövető jelenléte telekommunikációs eszköz útján is biztosítható.
+
+(17) Az (1) bekezdésben meghatározott szabálysértés miatt az e törvényben foglalt feltételek fennállása esetén figyelmeztetés intézkedés, közérdekű munka vagy elzárás szabható ki. Ha az elkövető a közérdekű munka elvégzését nem vállalja, elzárás szabható ki.
+
+(18) Ha a bíróság elzárás büntetést szab ki, ennek azonnali foganatba vételét rendeli el.
+
+(19) A (17) bekezdés szerint kiszabott közérdekű munka végrehajtására az elkövetés helye szerinti településen kerül sor.
+
+(20) Ha az eljárás alá vont személyt az (1) bekezdésben meghatározott szabálysértés elkövetésének időpontját megelőző hat hónapon belül már két ízben jogerősen felelősségre vonták az (1) bekezdésben meghatározott szabálysértés elkövetése miatt, az ismételten elkövetett (1) bekezdés szerinti szabálysértés miatt közérdekű munka büntetés nem szabható ki, valamint figyelmeztetés intézkedés nem alkalmazható.
 
 179. § E törvény XXIII. Fejezetében foglalt szabálysértések miatt szabálysértési elzárás büntetés kiszabásának is helye van.
 
 ### XXIII/A. Fejezet — KÖZÉRDEKŰ MUNKÁVAL BÜNTETHETŐ SZABÁLYSÉRTÉSEK
 
-#### 133/C. Életvitelszerű közterületi tartózkodás szabályainak megsértése
+#### 133/C.
 
-179/A. § (1) Aki
-
-- a) a világörökségről szóló törvény szerinti világörökségi területnek minősülő közterületen vagy a helyi önkormányzat (2) bekezdés szerinti rendeletében meghatározott közterületen (a továbbiakban: kijelölt terület) életvitelszerűen tartózkodik, és
-- b) a kijelölt területet a rendőrség, a 39. § (2) bekezdés a), e) és f) pontjában meghatározott személy, illetve – ha a 39. § (3) bekezdésében meghatározott feltételnek megfelel – a 39. § (2) bekezdés g)–i) pontjában meghatározott személy felkérése ellenére nem hagyja el,
-
-szabálysértést követ el.
-
-(2) A helyi önkormányzat, a főváros tekintetében a fővárosi önkormányzat, rendeletében kijelölheti a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében a közterület meghatározott azon részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
-
-(3) A kerületi önkormányzat tulajdonában álló közterület tekintetében a fővárosi önkormányzat rendeletében a kerületi önkormányzat
-
-- a) javaslatára kijelöli, valamint
-- b) véleményének kikérésével kijelölheti
-
-a kerületi önkormányzat tulajdonában álló közterület azon részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
-
-(4) Az (1) bekezdés alkalmazásában életvitelszerű tartózkodásnak tekinthető minden olyan magatartás, amely alapján megállapítható, hogy a kijelölt területen való életvitelszerű tartózkodás a lakó- és tartózkodási hely, valamint egyéb szállásra való visszatérés szándéka nélkül, a kijelölt területen való huzamos tartózkodás érdekében valósul meg, és a kijelölt területen való tartózkodás körülményeiből, vagy a magatartásból arra lehet következtetni, hogy a jellemzően lakóhelyül szolgáló kijelölt területen végzett tevékenységet – így különösen alvás, tisztálkodás, étkezés, öltözködés, állattartás – az elkövető a kijelölt területen rövid időnként visszatérően és rendszeresen végzi.
-
-(5) Az (1) bekezdésben meghatározott szabálysértés miatt az e törvényben foglalt feltételek fennállása esetén közérdekű munka szabható ki. Ha az elkövető a közérdekű munka elvégzését nem vállalja, pénzbírság szabható ki.
-
-(6) A közérdekű munka, valamint a meg nem fizetett pénzbírság végrehajtására az általános szabályokat kell alkalmazni azzal, hogy a pénzbírság közérdekű munkával történő megváltásának nincs helye.
-
-(7) Ha az eljárás alá vont személyt az (1) bekezdésben meghatározott szabálysértés elkövetésének időpontját megelőző hat hónapon belül már két ízben jogerősen felelősségre vonták az (1) bekezdésben meghatározott szabálysértés elkövetése miatt, az ismételten elkövetett (1) bekezdés szerinti szabálysértés miatt elzárás büntetés szabható ki.
-
-(8) Az (1) bekezdésben meghatározott szabálysértés elkövetésén tetten ért személlyel szemben helyszíni bírság kiszabásának nincs helye.
+#### 179/A. §
 
 ### XXIV. Fejezet — AZ EMBERI MÉLTÓSÁG, A SZEMÉLYI SZABADSÁG ÉS A KÖZREND ELLENI SZABÁLYSÉRTÉSEK
 
@@ -3636,6 +3674,8 @@ szabálysértést követ el.
 - c) meghatározza a XXVII. és a XXVIII. Fejezetben foglalt egyes szabálysértések esetén a pénzbírság, illetve a helyszíni bírság kötelező mértékét,
 - d) meghatározza a bírósági ügyintézők által szabálysértési eljárásban ellátható feladatokat,
 - e) meghatározza a szabálysértési nyilvántartás kezelésével, valamint az abból történő adatigényléssel kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat,
+- f) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés szerinti eljárásra jogosult más szerv vagy szervezetek körét és feladataikat,
+- g) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés elkövetőjének tulajdonában álló ingóságok ideiglenes tárolását végző szervet, illetve az ingóságok tárolására és megsemmisítésére vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy
 
@@ -3656,7 +3696,7 @@ részletes szabályait rendeletben szabályozza.
 
 (3a) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy a szabálysértési szabályozásért felelős miniszterrel egyetértésben a járási hivatal 40/A. § szerinti általánostól eltérő illetékességét, valamint a járási hivatal eltérő illetékességgel történő eljárásának végrehajtási feltételeit rendeletben meghatározza.
 
-(4) Felhatalmazást kapnak a helyi önkormányzatok, a főváros tekintetében a fővárosi önkormányzat a 179/A. § (2) és (3) bekezdésében meghatározottak szerint, hogy a közrend, a közbiztonság, a közegészség és a kulturális értékek védelme érdekében rendeletben kijelöljék a közterület meghatározott részeit, ahol az életvitelszerűen megvalósuló közterületi tartózkodás jogellenesnek minősül.
+(4)
 
 #### 205. Hatálybalépés
 
