@@ -2821,6 +2821,8 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (20) Ha az eljárás alá vont személyt az (1) bekezdésben meghatározott szabálysértés elkövetésének időpontját megelőző hat hónapon belül már két ízben jogerősen felelősségre vonták az (1) bekezdésben meghatározott szabálysértés elkövetése miatt, az ismételten elkövetett (1) bekezdés szerinti szabálysértés miatt közérdekű munka büntetés nem szabható ki, valamint figyelmeztetés intézkedés nem alkalmazható.
 
+#### 133/C. Közös szabályok a XXIII. Fejezetben foglalt szabálysértések tekintetében
+
 179. § E törvény XXIII. Fejezetében foglalt szabálysértések miatt szabálysértési elzárás büntetés kiszabásának is helye van.
 
 ### XXIII/A. Fejezet — KÖZÉRDEKŰ MUNKÁVAL BÜNTETHETŐ SZABÁLYSÉRTÉSEK
