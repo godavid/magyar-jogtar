@@ -231,7 +231,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (6) A (4) bekezdésben foglalt rendelkezés alkalmazásában a társasházi lakás tulajdonosa, illetve a lakásszövetkezet tagja által kötött szerződés esetén a lakásszövetkezet, illetve a társasház által kötött szerződés után igénybe vett állami támogatást nem kell figyelembe venni.
 
-22. § (1) Az állami támogatás éves mértéke a lakáselőtakarékoskodó által az adott megtakarítási évben a lakástakarékpénztárnál az adott szerződés alapján betétként elhelyezett összeg harminc százaléka, legfeljebb azonban megtakarítási évenként hetvenkétezer forint. A támogatás mértékének és felső határának módosítása a már megkötött szerződéseket nem érinti.
+22. § (1) Az állami támogatás éves mértéke a lakás-előtakarékoskodó által az adott megtakarítási évben a lakástakarékpénztárnál az adott szerződés alapján betétként elhelyezett összeg harminc százaléka, legfeljebb azonban megtakarítási évenként hetvenkétezer forint. A támogatás mértékének és felső határának módosítása a már megkötött szerződéseket – a lakás-előtakarékossági szerződés megtakarítási idejének 29. § szerinti meghosszabbítását kivéve – nem érinti.
 
 (2) Lakásszövetkezet, illetve a társasház által a közös tulajdonú részek felújítása céljából kötött szerződések esetében az állami támogatás éves mértéke épületenként az adott megtakarítási évben a lakás-takarékpénztárnál betétként elhelyezett összeg harminc százaléka, legfeljebb azonban
 
@@ -281,6 +281,8 @@ törvényt alkot a lakástakarékpénztárakról.
 - b) a lakáselőtakarékoskodó, házastársa vagy a szerződés kedvezményezettje munkaképességét 67%-ban elvesztette, illetve legalább 50%-os mértékű egészségkárosodást szenvedett és ebben az állapotban javulás egy évig nem várható, vagy
 - c) a lakáselőtakarékoskodó a szerződés megkötését követően munkanélkülivé válik, és a munkanélkülisége megszakítás nélkül legalább egy éve fennáll.
 
+24/A. § A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosításáról szóló 2018. évi LXIII. törvény hatálybalépését követően kötött lakás-előtakarékossági szerződés esetében a lakás-előtakarékoskodót a 21. § szerinti állami támogatás nem illeti meg.
+
 ### Záró és átmeneti rendelkezések
 
 25. § E törvény 1997. január 1-jén lép hatályba.
@@ -288,7 +290,8 @@ törvényt alkot a lakástakarékpénztárakról.
 26. § Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
 
 - a) az állami támogatás igénylésének, folyósításának, elszámolásának és a felhasználás ellenőrzésének rendjét,
-- b) a lakástakarékpénztár általános szerződési feltételeire vonatkozó részletes szabályokat.
+- b) a lakástakarékpénztár általános szerződési feltételeire vonatkozó részletes szabályokat,
+- c) az e törvény szerinti állami támogatásban részesülő lakás-előtakarékosságra vonatkozó hitelintézeti reklámok, hirdetések részletes szabályait.
 
 27. § Az állami támogatás mértéke az 1997. december 31-ig megkötött szerződések esetén a lakáselőtakarékoskodó által az első megtakarítási évben a lakástakarékpénztárnál betétként elhelyezett összeg negyven százaléka, legfeljebb azonban harminchatezer forint.
 
@@ -309,3 +312,5 @@ törvényt alkot a lakástakarékpénztárakról.
 27/D. § Az egyes pénzügyi tárgyú törvények módosításáról szóló 2013. évi CCXXXVI. törvény 18. §-ával megállapított 8. § (1) bekezdésében foglalt rendelkezéseket a 2014. január 1-jét megelőzően megkötött lakáselőtakarékossági szerződésekre is alkalmazni kell.
 
 28. § E törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Parlament és a Tanács 2000. március 20-i, a hitelintézeti tevékenység megkezdéséről és folytatásáról szóló 2000/12/EK irányelvével összeegyeztethető szabályozást tartalmaz.
+
+29. § A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosításáról szóló 2018. évi LXIII. törvény hatálybalépését megelőzően kötött lakás-előtakarékossági szerződés megtakarítási idejének meghosszabbítása esetén a 21. § szerinti állami támogatás a meghosszabbított megtakarítási időre nem illeti meg a lakás-előtakarékoskodót, az állami támogatás ezen meghosszabbított megtakarítási időre nem igényelhető.
