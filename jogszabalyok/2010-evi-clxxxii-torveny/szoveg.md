@@ -16,7 +16,8 @@ a következő törvényt alkotja:
 
 - a) támogatások nyújtása
   - aa) a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében,
-  - ab) Magyarország határain belül és kívül élő magyar közösségek kölcsönös megismerése, valamint a nemzeti teljesítmény legfontosabb példáinak bemutatása céljából, a magyarságismereti és nemzetpolitikai kutatások elősegítése érdekében létrehozott Magyarság Háza program működéséhez, valamint
+  - ab) Magyarország határain belül és kívül élő magyar közösségek kölcsönös megismerése, valamint a nemzeti teljesítmény legfontosabb példáinak bemutatása céljából, a magyarságismereti és nemzetpolitikai kutatások elősegítése érdekében létrehozott Magyarság Háza program működéséhez,
+  - ac) a magyar–magyar kapcsolatok építését célzó Határtalanul! program lebonyolításával összefüggésben, valamint
 - b) a határon túli magyarságot érintő gazdaságfejlesztési és vállalkozásösztönzési programok lebonyolítása és a támogatásközvetítési feladatok ellátásának összehangolása.
 
 (1a)
