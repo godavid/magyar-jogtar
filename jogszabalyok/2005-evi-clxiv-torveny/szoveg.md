@@ -336,6 +336,8 @@ nyilvántartást vezet.
 
 11/E. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+11/F. § E törvény 9/A. § (3) bekezdése alapján indult ellenőrzési eljárások 2018. december 31-én e törvény erejénél fogva megszűnnek.
+
 12. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) a kereskedelmi tevékenység folytatásának részletes feltételeit, e tevékenységek bejelentésének, valamint a kereskedők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
