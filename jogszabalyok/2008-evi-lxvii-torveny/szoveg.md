@@ -289,3 +289,5 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 (7) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 6. § (3) bekezdés j) és k) pontját első alkalommal a 2016. adóévi adókötelezettség megállapítása során kell alkalmazni.
 
 (8) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2017. évi LXXVII. törvénnyel megállapított 6. § (3) bekezdés l) pontját, (13)–(17) bekezdését és 10. § 12. pontját első alkalommal a 2017. június 30-át követően megkezdett beruházások tekintetében lehet alkalmazni.
+
+(9) Az adózás előtti eredményt csökkenti az e törvény szerinti adóalanyiságot megelőző adóévekben elszámolt terven felüli értékcsökkenés visszaírása miatt az adóévben bevételként elszámolt összeg. E rendelkezést az adózó első alkalommal a 2018-ban kezdődő adóév adókötelezettségének megállapítása során jogosult alkalmazni.
