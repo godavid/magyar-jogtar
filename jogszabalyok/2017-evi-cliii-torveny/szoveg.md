@@ -280,6 +280,8 @@ végzés ellen.
 - g) az általános közigazgatási rendtartáson alapuló végrehajtás esetén a behajtást kérő hatóság megkeresésének mellékletét képező, annak alapjául szolgáló döntés – ide értve a meghatározott cselekmény végrehajtását is –,
 - h) az adók módjára behajtandó köztartozás esetén a behajtást kérő megkeresése,
 - i)–p)
+- v) a termékdíjátalány fizetésére jogosult mezőgazdasági termelő termékdíj kötelezettségét tartalmazó bejelentés, és
+- w) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. § (1) bekezdése szerinti bejelentés, a 7. § (5) bekezdése szerinti változás bejelentés és a 8. § (11) bekezdése szerinti bejelentés.
 
 (2) Az okirat végrehajthatóságához külön intézkedésre nincs szükség.
 

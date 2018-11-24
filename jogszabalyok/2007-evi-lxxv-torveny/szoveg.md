@@ -434,7 +434,9 @@ Isten engem úgy segéljen!”
 
 (3) A tagsági viszony megszűnésének megállapítása tekintetében a kamara felvételi bizottsága jár el.
 
-(4) A 9/G. § (1) bekezdése szerinti igazolás visszavonása esetén a tagsági jogviszony az engedély visszavonásáról szóló döntés véglegessé válásának napján szűnik meg.
+(4) A 9/G. § (1) bekezdése szerinti igazolás visszavonása esetén a tagsági jogviszony az igazolás visszavonásáról szóló döntés véglegessé válásának napján szűnik meg.
+
+(5) A kamarai tagság megszűnésére irányuló eljárást – az (1) bekezdés e) pont kivételével – mindaddig fel kell függeszteni, ameddig a kamarai tag könyvvizsgálóval szemben az e törvény szerinti minőségellenőrzési eljárás, fegyelmi eljárás, illetve a 172/A. § és 178. § szerinti eljárás van folyamatban.
 
 31. § (1) A kamarai tagság megszűnését megállapító határozat véglegessé válása napjával a könyvvizsgálót törölni kell a kamarai tagok nyilvántartásából, egyidejűleg vissza kell vonni könyvvizsgálói igazolványát is, valamint a kamarai tagság megszűnéséről és a megszűnés okáról tájékoztatni kell azon államok illetékes hatóságait, amelyekben a könyvvizsgáló jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult.
 
@@ -476,7 +478,7 @@ Isten engem úgy segéljen!”
 
 (3) A nyilvántartás vezetésének célja annak hiteles dokumentálása, hogy a nyilvántartásban szereplő rendelkezik a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzéséhez előírt feltételekkel. A nyilvántartásban szereplők közérdekből nyilvános adatainak, az azokban bekövetkező változásoknak a közzététele az ellenőrzés lehetőségének a megteremtését, illetve az időszerű tájékoztatást szolgálja.
 
-(4) Az (1) bekezdés a), b), c), f), h), i), j), n) és o) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
+(4) Az (1) bekezdés a), b), c), f), h), i), j), n), o), p) és q) pontjában, valamint a (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
 
 (5) A kamara a tárgyévben nyilvántartásba vettek nyilvántartási számát, nevét, címét, valamint a korábban nyilvántartásba vettek ezen adataiban bekövetkezett változásokat a kamara lapjában évente közzéteszi, továbbá biztosítja, hogy a nyilvános adatok a kamara honlapján folyamatosan és bárki számára szabadon megtekinthetők legyenek.
 
@@ -571,6 +573,8 @@ Isten engem úgy segéljen!”
 
 (6) A nyilvántartásból való törlésről és annak okáról a kamara tájékoztatja azon államok illetékes hatóságait, amelyekben a gazdálkodó szervezet (szervezet) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésére jogosult.
 
+(7) A könyvvizsgáló cég nyilvántartásból való törlésére irányuló eljárást – az (1) bekezdés d) pont kivételével – mindaddig fel kell függeszteni, ameddig a könyvvizsgáló céggel szemben az e törvény szerinti minőségellenőrzési eljárás, fegyelmi eljárás, illetve a 172/A. § és 178. § szerinti eljárás van folyamatban.
+
 42. § (1) Az engedély megszűnésének 41. § (1) bekezdés, illetve a nyilvántartásból való törlés 41. § (3) bekezdés szerinti határozatban foglalt időpontjától kezdődően a gazdálkodó szervezet (szervezet) nem végezhet jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
 
 (2) A nyilvántartásból történő törlést követően az érintett gazdálkodó szervezet (szervezet) adatait a kamara 10 évig köteles megőrizni külön nyilvántartás keretében a nyilvántartásból való törlés e törvény szerinti okának és időpontjának megjelölésével.
@@ -603,7 +607,7 @@ Isten engem úgy segéljen!”
 
 (2) A könyvvizsgáló cégek nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 
-(3) Az (1) bekezdés l), m) és q) pontjában foglalt adatok kivételével az (1) és (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
+(3) Az (1) bekezdés l) és m) pontjában foglalt adatok kivételével az (1) és (2) bekezdésben foglaltak közérdekből nyilvános adatok, azokról bárki tájékoztatást kaphat.
 
 (4) A könyvvizsgáló cégek nyilvántartására megfelelően alkalmazni kell a 33. § (3) és (5) bekezdését is.
 
@@ -888,14 +892,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 
 (6) A közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgáló, könyvvizsgáló cég a Rendelet 15. cikk szerinti dokumentumokat a dokumentumok keletkezését követően legalább 8 évig köteles megőrizni.
 
-(7) A Rendelet 17. cikk (2) bekezdés b) pontja alapján
-
-- a) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti közérdeklődésre számot tartó hitelintézet,
-- b) a biztosítási tevékenységről szóló törvény szerinti közérdeklődésre számot tartó biztosító és viszontbiztosító,
-- c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti közérdeklődésre számot tartó befektetési vállalkozás, és
-- d) a tőkepiacról szóló törvény szerinti közérdeklődésre számot tartó kibocsátónak minősülő befektetési alapkezelő
-
-tekintetében a kamarai tag könyvvizsgáló, könyvvizsgáló cég jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására irányuló megbízása és a megújított megbízások együttesen legfeljebb 8 üzleti évre szólhatnak.
+(7)
 
 ### V. Fejezet — A HARMADIK ORSZÁGBELI KÖNYVVIZSGÁLÓRA ÉS A HARMADIK ORSZÁGBELI KÖNYVVIZSGÁLÓ GAZDÁLKODÓRA VONATKOZÓ SZABÁLYOK
 
@@ -2517,6 +2514,8 @@ foglalt kötelezettségeinek teljesítését (e §-ban a továbbiakban: ellenőr
 208/N. § (1) Azoknak a 159. § (1) bekezdése szerinti minőségellenőröknek, akiket a kamara az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 161. § (4) bekezdése hatálybalépését megelőzően nyilvántartásba vett, a nyilvántartásba vételről kiállított igazolásuk a 161. § (4) bekezdése hatálybalépését követő 5 évig érvényes.
 
 (2) E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 170. § (4) és (6) bekezdését, 173/A. § (5) bekezdését, valamint a 173/B. § (15) bekezdését az azok hatálybalépését követően indult eljárásokra kell először alkalmazni.
+
+208/O. § E törvénynek az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 30. § (5) bekezdését és 41. § (7) bekezdését a hatálybalépést követően indult eljárásokra kell alkalmazni.
 
 ### Az Európai Unió jogának való megfelelés
 
