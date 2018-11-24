@@ -3001,11 +3001,17 @@ a magánszemély tartós befektetési szerződése lekötési nyilvántartásáb
 
 (4) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 1. számú melléklet 7. pont 7.40. alpontja a 2018. július 1-jét követően teljesített kifizetésekre is alkalmazható.
 
-(5) A 2019. január 1-jét megelőzően nyújtott lakáscélú munkáltatói támogatással összefüggésben az e törvény 2018. december 31-én hatályos szabályait alkalmazni kell.
+(5) A 2019. január 1-jét megelőzően nyújtott lakáscélú munkáltatói támogatás elszámolásával, felhasználásának igazolásával összefüggésben e törvény 2018. december 31-én hatályos szabályait kell alkalmazni.
 
-(6) Az Szja tv. 70. § (1) bekezdés c) pontjának és 1. számú melléklet 6.pont 6.3. alpontjának 2018. december 31-én hatályos rendelkezését a 2018-ban kezdődő biztosítási évre – de legfeljebb 2019. december 31-éig – megfizetett biztosítási díjakra lehet alkalmazni.
+(6) E törvénynek az adóköteles díjú személybiztosításokra és a kockázati biztosításra vonatkozó, továbbá azzal összefüggő egyéb, 2018. december 31-én hatályos rendelkezéseit a 2018-ban kezdődő biztosítási évben – de legfeljebb 2019. december 31-éig – még alkalmazni kell, azzal, hogy amennyiben a biztosítási díj vagy annak egy része a díjfizetés időpontjában a 6.3. alpont szerint adómentes bevételnek minősült, úgy ezen biztosítás adómentes díjjal fedezett biztosítási időszakában bekövetkezett biztosítási esemény alapján nyújtott szolgáltatásra az 1. számú melléklet 2018. december 31-én hatályos 6.6. és 6.7. alpontját kell alkalmazni.
 
 (7) Az állami adó- és vámhatóság az egyéni vállalkozók számára első alkalommal a 2018. évre vonatkozóan készít bevallási tervezetet.
+
+96. § (1) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel módosított 3. § 42. pontja a 2016. január 1-jét követően keletkezett bevételre is alkalmazható.
+
+(2) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 72. § (4) bekezdés f) pontjában említett értékhatár megállapításához a 2019. január 1-jét követően nyújtott lakáscélú hiteleket kell figyelembe venni.
+
+(3) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 1. számú melléklet 4. pont 4.12. alpont 4.12.1 pontja a hatálybalépést megelőzően keletkezett adókötelezettségre is alkalmazható.
 
 ### 1. számú melléklet az 1995. évi CXVII. törvényhez
 
@@ -3193,7 +3199,7 @@ b) a központi költségvetésből jövedelempótlék vagy annak megfelelő jogc
 
 4.12.1. hallgató részére
 
-a) nappali tagozaton az őt megillető juttatásként kifizetett
+a) a teljes idejű, a részidős, a távoktatásban megvalósuló képzésben részt vevőt, ideértve a doktori képzésben részt vevőt megillető juttatásként kifizetett
 
 – ösztöndíj,
 
@@ -3201,9 +3207,11 @@ a) nappali tagozaton az őt megillető juttatásként kifizetett
 
 – diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
 
-b) nappali tagozaton a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
+b) a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
 
 c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
+
+d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályázat alapján nyújtott ösztöndíj;
 
 4.12.2. doktorjelölt részére a nemzeti felsőoktatási kiválóság ösztöndíj;
 
@@ -3282,6 +3290,8 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 4.42. a Magyar Művészeti Akadémiáról szóló törvényben meghatározott művészjáradék;
 
 4.43. az Országos Tudományos Diákköri Konferencián elért eredményért járó pénzjutalom.
+
+4.44. a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvényben meghatározott tudományos alkotói járadék.
 
 5.
 
@@ -3598,6 +3608,8 @@ b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ez
 8.41. a közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében nyújtott – a műsorterjesztés és a digitális átállás szabályairól szóló törvényben meghatározott – állami támogatás.
 
 8.42. az Európai Unió valamely pénzügyi alapja vagy az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatásból a Családbarát Ország projekt keretében nem pénzben biztosított juttatás, így különösen a babacsomag, a kelengyecsomag.
+
+8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 

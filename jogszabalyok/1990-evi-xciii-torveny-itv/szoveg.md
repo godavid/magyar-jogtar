@@ -737,7 +737,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - 20. széles körben fenyegető veszély elhárítása céljából a tulajdonos vagy kezelő, használó helyett viselt költség megtérítésére irányuló eljárás;
 - 21. az ellenőrzés, hitelesítés vagy hozzájárulás céljából — jogszabály rendelkezése alapján — iratra vezetett hivatalos záradék;
 - 22. a költségmentesség engedélyezése iránti eljárás, valamint a költségmentesség feltételei fennállásának igazolásához kiállított irat;
-- 23. az adó és járulék ügyben az adóhatóságnál, vámigazgatási ügyben a vámhatóságnál kezdeményezett első fokú eljárás – ideértve más hatóság adó, adó jellegű kötelezettség megállapításával kapcsolatos ilyen eljárását is –, kivéve az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
+- 23. az adó-, jövedéki- és járulékügyben, valamint a vámigazgatási ügyben kezdeményezett elsőfokú eljárás – ideértve a kizárólag ezen ügyek lefolytatása érdekében indított egyéb eljárásokat is –, kivéve az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
 - 24. a kárpótlási eljárás, a részaránytulajdonnal kapcsolatos eljárás és az ilyen eljárásokhoz szükséges irat, a kisajátítási eljárás, a kisajátítási járulékos költségek megtérítésére irányuló eljárás, valamint a kisajátítási kérelem benyújtására kötelezés iránti eljárás;
 - 25. a járványügyi intézkedésként kezdeményezett állategészségügyi eljárás;
 - 26. közigazgatási hatóságnál nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése;
@@ -1047,7 +1047,7 @@ esetében.
 
 57. § (1) Illetékmentes a polgári és közigazgatási ügyekben:
 
-- a) az eljárást megindító beadvány visszautasításáról – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélküli visszautasításáról –, valamint az eljárás megszüntetéséről rendelkező döntés elleni fellebbezés, illetve felülvizsgálat, ha a megszüntetésre az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt, a Pp. 259. §-ában foglalt okokból, vagy azért került sor, mert az eljárást megindító beadvány visszautasításának lett volna helye;
+- a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;
 - b) a költségkedvezmény tárgyában hozott határozat elleni jogorvoslati eljárás;
 - c) a bontóperben a házasság vonatkozásában indított viszontkereset;
 - d) a holtnak nyilvánítással és a halál tényének megállapításával kapcsolatos eljárás, ha az eltűnés vagy a halál háborús esemény vagy természeti katasztrófa folytán következett be;
@@ -1094,7 +1094,7 @@ esetében.
 (4) Illetékmentes a szabálysértési ügyekben:
 
 - a) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, illetve az írásban tett feljelentés megtételét igazoló irat másolatának egyszeri kiadása,
-- b) a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá a szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.
+- b) a sértett részére a kihallgatásáról, valamint a sértett lakcímén, tényleges tartózkodási helyén, továbbá a szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.
 
 ### Mérsékelt illeték
 
@@ -1106,9 +1106,9 @@ esetében.
   - ac) az alperes a követelést elismeri vagy a követelést teljesíti;
   - ad) a felek egyezséget kötnek;
   - ae) a felek az eljárás megszüntetését közösen kérik;
-- b) a bíróság az eljárást megindító beadványt visszautasítja – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül visszautasítja –, vagy az eljárást az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt, a Pp. 259. §-ában foglalt okokból, vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye.
+- b)
 
-(2) Az (1) bekezdés b) pontja szerinti esetben a megfizetett illeték mérsékelt összegén felüli része beszámít a keresetlevél előterjesztése és a perindítás joghatásainak a fenntartására irányadó szabályoknak megfelelően, ismételten benyújtott kérelem folytán keletkező eljárás illetékébe.
+(2)
 
 (3) Az illeték a peres eljárás illetékének 30%-a, ha a perfelvételt lezáró végzés meghozatalát – közigazgatási perben az első tárgyalást – követően az eljárás szüneteléssel vagy a felperes keresetétől való elállása folytán szűnik meg, illetve az eljárás megszüntetését a felek közösen kérik.
 
@@ -1116,7 +1116,7 @@ esetében.
 
 (5) Ha az illeték mérséklésének az oka a fellebbezési eljárásban vagy a felülvizsgálati eljárásban merül fel, a mérsékelt illeték kedvezménye csak a fellebbezési vagy a felülvizsgálati eljárás illetékére terjed ki.
 
-(6) Az (1) bekezdés b) pontja esetében a bíróság az eljárást kezdeményező felet kötelezi az illeték megfizetésére.
+(6)
 
 (7) Az (1) bekezdés a) pont aa) alpontjának rendelkezését a nemperes eljárásban, továbbá az egyéb közigazgatási bírósági eljárásban megfelelően alkalmazni kell, ha a fél a bíróság érdemi határozatának meghozatala előtt áll el a kérelmétől. A fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bekezdés] – amennyiben ennek feltételei egyébként fennállnak – a mérsékelt illeték kedvezménye csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
 
@@ -1283,11 +1283,11 @@ kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt
 
 (3a)
 
-(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni.
+(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni. Banki átutalással történő illetékfizetés esetén az átutalás közleményrovatában az ügyfél nevét, lakcímét vagy székhelyét, illetve – amennyiben az ismert – az ügyszámot kell feltüntetni.
 
 (4a) Az elektronikus úton kezdeményezett építésügyi hatósági, valamint az azokban szükséges szakhatósági eljárások illetékét készpénz átutalási megbízással, átutalási megbízással, bankkártyás átutalással vagy – ha erre lehetőség van – elektronikus fizetési és elszámolási rendszeren keresztül, az eljárás megindítását megelőzően vagy azt követően kell megfizetni. Az eljárási illeték megfizetését az átutalási megbízás elfogadásáról szóló nyilatkozat másolatával kell igazolni.
 
-(5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4)–(4a) bekezdésekben szabályozott esetekben pedig a készpénzátutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.
+(5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4a) bekezdés szerinti elektronikus eljárásban készpénz-átutalással történő illetékfizetés esetén a készpénz-átutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.
 
 (6) Az eljárási illetéket, ha azt elektronikusan kezdeményezett közigazgatási hatósági eljárás esetén az eljárás megindítását (kérelem előterjesztését) megelőzően nem fizették meg, legkésőbb az ügyazonosító ügyfél általi megismerését követő munkanapon kell megfizetni.
 
@@ -1439,7 +1439,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 (2) Az (1) bekezdésben, a 80. § (1) bekezdésében, valamint az 58. §-ban említett esetben, ha az illeték megfizetése illetékbélyeggel történt, vagy az illetéket a 74. § (2) bekezdésében foglaltak szerint pénzzel fizették meg, a bíróság a határozatát az adózó lakóhelye (székhelye) szerint illetékes állami adóhatóságnak küldi meg.
 
-(3) Ha a bíróság az illetéket az 58. § (1) bekezdés b) pontja alapján mérsékelte, a megfizetett illeték 80. § (1) bekezdés i) pontja szerinti visszatérítésének kizárólag akkor van helye, ha a keresetlevelet szabályszerűen, a Pp. alapján a joghatás fennmaradására előírt határidőn belül ismételten nem nyújtották be. E tényről a bíróság – annak bekövetkezésétől számított 30 napon belül – értesíti az illetékes állami adóhatóságot, vagy ennek elmulasztása esetén az adózó kérelmére igazolást állít ki.
+(3) Ha az eljárás az 57. § (1) bekezdés a) pontja alapján illetékmentes, a megfizetett illeték 80. § (1) bekezdés i) pontja szerinti visszatérítésének kizárólag akkor van helye, ha a keresetlevelet szabályszerűen, a Pp. alapján a joghatás fennmaradására előírt határidőn belül ismételten nem nyújtották be. E tényről a bíróság – annak bekövetkezésétől számított 30 napon belül – értesíti az illetékes állami adóhatóságot, vagy ennek elmulasztása esetén az adózó kérelmére igazolást állít ki.
 
 (4) Ha az adózó bírósági eljárás kezdeményezése nélkül fizetett a 74. § (1c) bekezdése szerint bírósági eljárási illetéket, a megfizetett illeték visszatérítésének kizárólag akkor van helye, ha a bevallásban feltüntetett bíróság igazolást állít ki arról, hogy az adózó nem nyújtott be keresetlevelet a 74. § (1b) bekezdése szerinti ügyszám feltüntetése mellett.
 

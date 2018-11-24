@@ -25,7 +25,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
 - 3. bevétel: e törvény III. Fejezetének alkalmazásában az értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei, vagy a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó egyszerűsített vállalkozói adóalany esetén az egyszerűsített vállalkozói adó alapja, a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó kisadózó vállalkozás esetén a 12. pont alapján meghatározott összeg;
 - 4. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvényben egyéni cégként meghatározott jogalany;
 - 5. egyéni vállalkozó: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti egyéni vállalkozó;
-- 6.
+- 6. ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 4. § 11. pontja szerinti társaság, azzal, hogy a feltételezett magyarországi adókötelezettség számításánál a kisvállalati adó szabályait kell alkalmazni;
 - 7. elszámolásra kiadott előleg: pénzeszközök átadása természetes személynek abból a célból, hogy a természetes személy az adózó nevében terméket szerezzen be vagy szolgáltatást vegyen igénybe, illetve ezek hiányában szolgáltassa vissza az adózónak az átvett pénzeszközt;
 - 8. főállású kisadózó: a kisadózó, kivéve azt a kisadózót, aki a tárgyhó egészében megfelel az alábbi feltételek bármelyikének:
   - a) legalább heti 36 órás foglalkoztatással járó munkaviszonyban áll, azzal, hogy a heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani,
@@ -36,7 +36,7 @@ Az Országgyűlés abból a meggyőződésből kiindulva, hogy a kiegyensúlyozo
   - f) rokkantsági ellátásban részesül és egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50 százalékos vagy kisebb mértékű,
   - g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő tevékenységet folytató egyéni vállalkozónak vagy társas vállalkozónak minősül, ideértve más kisadózó vállalkozásban fennálló főállású kisadózó jogállást is,
   - h) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti nevelőszülői foglalkoztatási jogviszonyban áll,
-  - i) a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat, vagy az előzőekben nem említett államokban folytat ez előbbieknek megfelelő tanulmányokat;
+  - i) a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat, vagy az előzőekben nem említett államokban folytat ez előbbieknek megfelelő tanulmányokat, azzal, hogy 25. éves életévének betöltéséig ide tartozik a tanulmányait szüneteltető kisadózó is;
 - 9. kapcsolt vállalkozás: a Tao. tv. 4. § 23. pontja szerinti vállalkozás;
 - 10. kisadózó vállalkozás: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó, egyéni cég, közkereseti társaság és betéti társaság, valamint ügyvédi iroda;
 - 11. kisadózó: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó esetében az egyéni vállalkozó mint magánszemély, egyéni cég esetén annak tagja, közkereseti társaság, betéti társaság, valamint ügyvédi iroda esetén a társaság, az ügyvédi iroda kisadózóként bejelentett tagja;
@@ -206,7 +206,7 @@ azzal, hogy a kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az 
 
 (3) Ha a kisadózó vállalkozás az adóévben megszerzett bevétel után a 8. § (6) bekezdése szerinti százalékos mértékű adó megfizetésére is köteles, az adóévet követő év február 25. napjáig, ha az adóalanyiság év közben szűnik meg, az adóalanyiság megszűnését követő 30 napon belül a százalékos mértékű adót bevallja és megfizeti.
 
-(4) A 7. § (1) bekezdés szerinti bejelentés, a 7. § (5) bekezdés szerinti változás bejelentés és a 8. § (11) bekezdés szerinti bejelentés végrehajtható okiratnak minősül. Az állami adóhatóság a kisadózó vállalkozás kisadózó vállalkozások tételes adófizetési kötelezettségét – kivéve a 8. § (6) bekezdése szerinti százalékos mértékű adót – ezen végrehajtható okiratok és az adóhatóság határozata alapján tartja nyilván.
+(4) Az állami adóhatóság a kisadózó vállalkozás kisadózó vállalkozások tételes adófizetési kötelezettségét – kivéve a 8. § (6) bekezdése szerinti százalékos mértékű adót – a 7. § (1) bekezdés szerinti bejelentés, a 7. § (5) bekezdés szerinti változás bejelentés, a 8. § (11) bekezdés szerinti bejelentés és az adóhatóság határozata alapján tartja nyilván.
 
 (5) A kisadózó vállalkozás az (1)–(3) bekezdés szerinti nyilatkozatban vagy bevallásban adatot szolgáltat bármely más személy (ide nem értve az egyéni vállalkozónak nem minősülő magánszemélyt) nevéről és címéről, a naptári évben megszerzett, a kisadózó vállalkozás bevételének minősülő összegről, ha az meghaladja az 1 millió forintot. Az adatszolgáltatás teljesítése során nem kell figyelembe venni a kisadózó vállalkozás olyan bevételét, melyről a kisadózó vállalkozás nem számlát állított ki.
 
@@ -485,6 +485,8 @@ csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött ta
 
 (10) Az adózó 27. § szerinti jogutód nélküli megszűnése esetén a bevallás benyújtásának határideje a megszűnés hónapját követő ötödik hónap utolsó napja.
 
+(11) A társasági adó hatálya alól a kisadózó vállalkozások tételes adójának hatálya alá bejelentkező adóalanyok esetében a 2. § 12. pontjában foglaltaktól eltérően nem kell a kisadózó vállalkozás bevételének tekinteni azt a bevételt, amelyet a Tao. tv. alapján a társasági adó alapjának kell tekinteni. E bevételeket a kisadózó vállalkozás bevételi nyilvántartásában fel kell tüntetni azzal a külön bejegyzéssel, hogy e bevételek a társasági adó alapját képezik.
+
 #### 20/A. Egyszerűsített vállalkozói adó
 
 28/A. § Az egyszerűsített vállalkozói adó hatálya alól a kisadózó vállalkozások tételes adójának hatálya alá bejelentkező adóalanyok esetében a 2. § 12. pontjában foglaltaktól eltérően nem kell a kisadózó vállalkozás bevételének tekinteni azt a bevételt, amelyet az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény alapján az egyszerűsített vállalkozói adó alapjának kell tekinteni. E bevételeket a kisadózó vállalkozás bevételi nyilvántartásában fel kell tüntetni azzal a külön bejegyzéssel, hogy e bevételek az egyszerűsített vállalkozói adó alapját képezik.
@@ -540,5 +542,7 @@ csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött ta
 32/B. § Ahol e törvény gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
 32/C. § E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított és az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 2. § 12. pontja és 22. pontja a 2013. január 1-jét követően keletkezett bevételre is alkalmazható.
+
+32/D. § Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel módosított 2. § 22. pontja a 2016. január 1-jét követően keletkezett bevételre is alkalmazható.
 
 #### 33–34. §

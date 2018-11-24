@@ -3096,7 +3096,7 @@ közösségi adószám birtokában végezhet.
 
 ### A végzett tevékenységre vonatkozó nyilatkozatok módosítása
 
-257/D. § Ha kizárólag a 85. §, 86. § vagy 87. § szerinti adómentes tevékenységet végző adóalany tevékenysége oly módon változik, hogy a továbbiakban nem vagy nem kizárólag a 85. §, 86. § vagy 87. § szerinti adómentes tevékenységet végez, köteles a kizárólag adómentes tevékenység végzéséről adott nyilatkozatát az Adóig. vhr. változásbejelentésre vonatkozó szabályai szerint megváltoztatni.
+257/D. § Ha kizárólag a 85. §, 86. § vagy 87. § szerinti adómentes tevékenységet végző adóalany tevékenysége oly módon változik, hogy a továbbiakban nem vagy nem kizárólag a 85. §, 86. § vagy 87. § szerinti adómentes tevékenységet végez, köteles a kizárólag adómentes tevékenység végzéséről adott nyilatkozatát az Art. változásbejelentésre vonatkozó szabályai szerint megváltoztatni.
 
 257/E. § Amennyiben az adóalany az e törvény szerinti bejelentését az e törvényben előírt feltételek hiánya miatt nem tehette volna meg, bejelentését az előző naptári évről vagy annak utolsó hónapjáról, negyedévéről adott bevallásával egyidejűleg, a naptári év első napjára visszamenően módosíthatja.
 
@@ -3550,6 +3550,15 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 (3) A 2018. július 1-jén vagy azt követően kezdődő adómegállapítási időszakokról teljesítendő bevallás tekintetében e törvénynek a bevallás benyújtására előírt határidő napján hatályos 10. számú melléklet 1–4. pontjait kell alkalmazni. Éves bevallásra kötelezett adóalany a 10. számú melléklet 2018. június 30-án hatályos szabályait köteles alkalmazni azon számlák tekintetében, amelyek alapján 2018. évben gyakorol levonási jogot.
 
 323. § E törvénynek a Mód9 törvénnyel megállapított 45/A. § (3)–(4) bekezdését azokban az esetekben kell először alkalmazni, amelyekben a teljesítés időpontja 2018. december 31-ét követi.
+
+324. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2019. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
+
+- a) sem a 2018. naptári évben ténylegesen,
+- b) sem a 2019. naptári évben észszerűen várhatóan, illetve ténylegesen
+
+nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
+
+(2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2019. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében rögzített időtartam még nem telt el.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
