@@ -24,19 +24,9 @@ az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egye
 
 9. §
 
-10. § Az Szja tv. 95. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+10. §
 
-„(5) A 2019. január 1-jét megelőzően nyújtott lakáscélú munkáltatói támogatás elszámolásával, felhasználásának igazolásával összefüggésben e törvény 2018. december 31-én hatályos szabályait kell alkalmazni.
-
-(6) E törvénynek az adóköteles díjú személybiztosításokra és a kockázati biztosításra vonatkozó, továbbá azzal összefüggő egyéb, 2018. december 31-én hatályos rendelkezéseit a 2018-ban kezdődő biztosítási évben – de legfeljebb 2019. december 31-éig – még alkalmazni kell, azzal, hogy amennyiben a biztosítási díj vagy annak egy része a díjfizetés időpontjában a 6.3. alpont szerint adómentes bevételnek minősült, úgy ezen biztosítás adómentes díjjal fedezett biztosítási időszakában bekövetkezett biztosítási esemény alapján nyújtott szolgáltatásra az 1. számú melléklet 2018. december 31-én hatályos 6.6. és 6.7. alpontját kell alkalmazni.”
-
-11. § Az Szja tv. a következő 96. §-sal egészül ki:
-
-„96. § (1) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel módosított 3. § 42. pontja a 2016. január 1-jét követően keletkezett bevételre is alkalmazható.
-
-(2) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 72. § (4) bekezdés f) pontjában említett értékhatár megállapításához a 2019. január 1-jét követően nyújtott lakáscélú hiteleket kell figyelembe venni.
-
-(3) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 1. számú melléklet 4. pont 4.12. alpont 4.12.1 pontja a hatálybalépést megelőzően keletkezett adókötelezettségre is alkalmazható.”
+11. §
 
 12. § Az Szja tv. 1. számú melléklete az 1. melléklet szerint módosul.
 
@@ -52,23 +42,9 @@ az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egye
 
 (2)
 
-(3) A Tao. törvény 4. § 44/a. pontja helyébe a következő rendelkezés lép:
+(3)
 
-(E törvény alkalmazásában)
-
-„44/a. általános képzés: olyan oktatást tartalmazó képzés, amely nem kizárólag vagy nem elsődlegesen a munkavállalónak a vállalkozásnál jelenleg betöltött vagy későbbiekben betöltendő állásában alkalmazható, hanem olyan képesítést ad, amely nagymértékben hasznosítható más vállalkozásoknál vagy munkaterületeken az Európai Közösséget létrehozó Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (a továbbiakban: 651/2014/EU bizottsági rendelet) 31. cikke szerinti támogatás;”
-
-(4) A Tao. törvény 4. §-a a következő 47–47c. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„47. sportcélú ingatlan üzemeltetésének költségei: az üzembe helyezett sportcélú ingatlan által nyújtott szolgáltatások működési költségei, ideértve különösen a személyi jellegű ráfordításokat, az anyagköltségeket, a szerződéses szolgáltatások, a távközlés, az energia és a karbantartás költségeit, a bérleti díjakat, az adminisztrációval kapcsolatos költségeket, az olyan értékcsökkenési és finanszírozási költségek kivételével, amelyeket a sportcélú ingatlanhoz nyújtott beruházási támogatásból már fedeztek;
-
-47a. működési veszteség: a sportcélú ingatlannak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet szerinti támogatási időszak alatt elért – észszerű nyereséggel növelt – bevételei, csökkentve a sportcélú ingatlan üzemeltetésének költségeivel, ha ezen számítás eredménye negatív;
-
-47b. észszerű nyereség: a 651/2014/EU bizottsági rendelet 2. cikk 142. pontja szerinti nyereség;
-
-47c. kizárólag helyi hatással bíró sportcélú ingatlan: az olyan sportcélú ingatlan, amely esetén igazolható, hogy korlátozott vonzáskörzettel rendelkezik, látogatóinak jelentős részét az adott államon belülről vonzza és támogatása marginális hatással van a határon átnyúló beruházásokra és letelepedésekre;”
+(4)
 
 (5)
 
@@ -98,11 +74,7 @@ az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egye
 
 (4)
 
-(5) A Tao. törvény 22/C. § (4a)–(4b) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(4a) A látvány-csapatsportban működő hivatásos sportszervezet, valamint az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a 30/I. § alkalmazandó, a (4) bekezdés c)–f) pontja szerinti mértékeket a támogatási igazolások összértékének támogatási szerződés keretében az (1) bekezdés a) pont ac) alpontjában, az (1) bekezdés b) pont bd) és bf)–bg) alpontjában, az (1) bekezdés c) pont cb), cd), ce) és cf) alpontjában, valamint az (1) bekezdés d) pont dc), de) és dg) alpontjában meghatározott jogcímekre nyújtott támogatáshoz kapcsolódó, a támogatott hivatásos sportszervezet vagy a 30/I. § szerinti szervezet részére azonos elszámolható költségekkel kapcsolatban megfizetett kiegészítő sportfejlesztési támogatással összevont értékére kell alkalmazni.
-
-(4b) Az (1) bekezdés c) pont cb), cd), ce) és cf) alpontja és az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a 30/I. § alkalmazandó, az (1) bekezdés a) pont ac) alpontja, az (1) bekezdés b) pont bd) és bf)–bg) alpontja, az (1) bekezdés c) pont cb), cd), ce) és cf) alpontja, az (1) bekezdés d) pont dc), de) és dg) alpontja szerinti támogatás, valamint más helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatás együttes összege azonos elszámolható költségek tekintetében jelenértéken nem haladhatja meg a (4) bekezdésben meghatározott mértékeket.”
+(5)
 
 (6)
 
@@ -120,33 +92,15 @@ az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egye
 
 33. §
 
-34. § (1) A Tao. törvény 29/A. §-a a következő (66)–(72) bekezdéssel egészül ki:
-
-„(66) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 22/C. § (4a) és (4b) bekezdését első alkalommal a 2018–2019-es támogatási időszakra benyújtott sportfejlesztési program jóváhagyására, valamint az igazolás, támogatási igazolás kiállítására irányuló kérelmek benyújtásával összefüggésben kell alkalmazni.
-
-(67) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénynek az előadó-művészeti szervezetek támogatásának adókedvezménye megszüntetésével összefüggő módosításaira tekintettel az előadó-művészeti szervezeteknek a 22. § szerint a 2018. adóév terhére, 2018. december 31-ig nyújtott támogatásra e törvénynek a támogatás tényleges teljesítésekor hatályos rendelkezéseit kell figyelembe venni.
-
-(68) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénynek az előadó-művészeti szervezetek részére történő, jóváírással járó adófelajánlás megszüntetésével összefüggő módosításaira tekintettel az előadó-művészeti szervezetek részére a 24/A. § szerint a 2018. adóévi adókötelezettség terhére, 2018. december 31-ig megtett felajánlásra a törvénynek a rendelkező nyilatkozat adóhatósági benyújtásakor hatályos rendelkezéseit kell figyelembe venni.
-
-(69) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénynek az előadó-művészeti szervezetek támogatásának adókedvezménye és a részükre történő, jóváírással járó adófelajánlás megszüntetésével összefüggő módosításaira tekintettel az adózó a 22. § (1) és (6) bekezdése szerinti támogatásra és kiegészítő támogatásra vonatkozó támogatási, szponzori szerződést 2018. december 31-ét követően nem köthet. Az említett összefüggésben 2019. január 1-jét megelőzően megkötött szerződések alapján a 22. § (1) és (6) bekezdése szerinti támogatást, kiegészítő támogatást legkésőbb 2018. december 31-én lehet ténylegesen teljesíteni.
-
-(70) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 4. § 47c. pontját és a 30/I. § (1) bekezdését a 2017–2018-as támogatási időszaktól jóváhagyott sportfejlesztési programokkal, valamint az igazolás, támogatási igazolás kiállítására irányuló kérelmekkel összefüggésben is alkalmazni kell.
-
-(71) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel módosított 22/C. § (5) bekezdés b) pontját a hatálybalépésekor folyamatban lévő igazolás, támogatási igazolás kiállítására irányuló kérelmek elbírálásakor is alkalmazni kell.
-
-(72) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 22/C. § (11) bekezdését a hatálybalépésekor folyamatban lévő sportfejlesztési programok jóváhagyására irányuló kérelmek elbírálása és a folyamatban lévő tárgyi eszköz beruházások, felújítások megvalósítása során is alkalmazni kell.”
+34. § (1)
 
 (2)
 
 (3)
 
-35. § A Tao. törvény 30. §-a a következő (14) bekezdéssel egészül ki:
+35. §
 
-„(14) Felhatalmazást kap a Kormány, hogy a filmalkotás és a látvány-csapatsportok támogatására nyújtható támogatási keretösszeget rendeletben állapítsa meg.”
-
-36. § (1) A Tao. törvény 30/I. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 22/C. § (1) bekezdés a) pont ac) alpontja, b) pont bd) alpontja és d) pont dc) alpontja alkalmazásában, amennyiben a támogatott részéről – a látvány-csapatsport országos sportági szakszövetsége kivételével – hivatásos sportoló alkalmazására kerül sor, vagy a támogatással érintett tárgyi eszköz beruházás, felújítás tekintetében nem teljesülnek a korlátozott mértékű gazdasági célú létesítmény, vagy a kizárólag helyi hatással bíró sportcélú ingatlan feltételei, az ilyen jogcímen nyújtott támogatás az Európai Bizottság SA.31722 (2011/N), SA.46615 (2016/N) és SA.48265 számú határozata hatálya alá tartozik.”
+36. § (1)
 
 (2)
 
@@ -160,9 +114,9 @@ az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egye
 - 4.
 - 5.
 - 6.
-- 7. 22/C. § (1) bekezdés c) pont cd) alpontjában az „az Európai Közösséget létrehozó Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet 5. szakaszával” szövegrész helyébe az „a 651/2014/EU bizottsági rendelet 31. cikkével” szöveg,
-- 8. 22/C. § (5) bekezdés b) pontjában az „állami támogatással” szövegrész helyébe az „állami támogatással, látvány-csapatsport támogatással” szöveg,
-- 9. 22/C. § (11) bekezdésében a „nyilvántartásba vett tárgyi eszköz a könyv szerinti érték leírásáig” szövegrész helyébe a „nyilvántartásba vett tárgyi eszköz – ide nem értve a 22/C. § (6a) bekezdés szerinti esetet – a jogszabály szerinti kötelező fenntartási időszak vége, vagy a könyv szerinti érték leírása közül a később bekövetkező időpontig” szöveg,
+- 7.
+- 8.
+- 9.
 - 10.
 - 11.
 - 12.
@@ -182,45 +136,25 @@ lép.
 
 42. §
 
-43. § A Távhő törvény 18. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az adózás előtti eredményt csökkenti az e törvény szerinti adóalanyiságot megelőző adóévekben elszámolt terven felüli értékcsökkenés visszaírása miatt az adóévben bevételként elszámolt összeg. E rendelkezést az adózó első alkalommal a 2018-ban kezdődő adóév adókötelezettségének megállapítása során jogosult alkalmazni.”
+43. §
 
 #### 5. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
 44. §
 
-45. § (1) A Katv. 2. §-a a következő 6. ponttal egészül ki:
+45. §
 
-(E törvény alkalmazásában)
-
-„6. ellenőrzött külföldi társaság: a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 4. § 11. pontja szerinti társaság, azzal, hogy a feltételezett magyarországi adókötelezettség számításánál a kisvállalati adó szabályait kell alkalmazni;”
-
-(2) A Katv. 2. § 8. pont i) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-8. főállású kisadózó:a kisadózó, kivéve azt a kisadózót, aki a tárgyhó egészében megfelel az alábbi feltételek bármelyikének:)
-
-„i) a nemzeti köznevelésről szóló törvény, valamint a nemzeti felsőoktatásról szóló törvény szerinti közép- vagy felsőfokú oktatási intézményben, az Európai Gazdasági Térség tagállamában vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat, vagy az előzőekben nem említett államokban folytat ez előbbieknek megfelelő tanulmányokat, azzal, hogy 25. éves életévének betöltéséig ide tartozik a tanulmányait szüneteltető kisadózó is;”
-
-46. § A Katv. 11. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az állami adóhatóság a kisadózó vállalkozás kisadózó vállalkozások tételes adófizetési kötelezettségét – kivéve a 8. § (6) bekezdése szerinti százalékos mértékű adót – a 7. § (1) bekezdés szerinti bejelentés, a 7. § (5) bekezdés szerinti változás bejelentés, a 8. § (11) bekezdés szerinti bejelentés és az adóhatóság határozata alapján tartja nyilván.”
+46. §
 
 47. §
 
 48. §
 
-49. § A Katv. 28. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) A társasági adó hatálya alól a kisadózó vállalkozások tételes adójának hatálya alá bejelentkező adóalanyok esetében a 2. § 12. pontjában foglaltaktól eltérően nem kell a kisadózó vállalkozás bevételének tekinteni azt a bevételt, amelyet a Tao. tv. alapján a társasági adó alapjának kell tekinteni. E bevételeket a kisadózó vállalkozás bevételi nyilvántartásában fel kell tüntetni azzal a külön bejegyzéssel, hogy e bevételek a társasági adó alapját képezik.”
+49. §
 
 50. §
 
-51. § A Katv. a következő 32/D. §-sal egészül ki:
-
-„32/D. § Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel módosított 2. § 22. pontja a 2016. január 1-jét követően keletkezett bevételre is alkalmazható.”
+51. §
 
 ### II. Fejezet — A KÖZVETETT ADÓZÁST ÉRINTŐ TÖRVÉNYEK MÓDOSÍTÁSA
 
@@ -242,17 +176,7 @@ lép.
 
 59. §
 
-60. § Az Áfa tv. a következő 324. §-sal egészül ki:
-
-„324. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2019. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
-
-a) sem a 2018. naptári évben ténylegesen,
-
-b) sem a 2019. naptári évben észszerűen várhatóan, illetve ténylegesen
-
-nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
-
-(2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2019. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében rögzített időtartam még nem telt el.”
+60. §
 
 61. §
 
@@ -263,7 +187,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 64. § Az Áfa tv.
 
 - 1.
-- 2. 257/D. §-ban az „Adóig. vhr.” helyébe az „Art.”
+- 2.
 
 szöveg lép.
 
@@ -326,40 +250,21 @@ lép.
 
 #### 9. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-78. § (1) Az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 33. § (2) bekezdés 23. pontja helyébe a következő rendelkezés lép:
-
-(Egyes alkotmányos jogok érvényesítése, illetőleg kötelezettségek teljesítése, valamint a társadalmi igazságosság előmozdítása érdekében a mellékletben és a külön jogszabályokban meghatározott illetékmentes eljárásokon felül tárgyuknál fogva illetékmentes eljárások:)
-
-„23. az adó-, jövedéki- és járulékügyben, valamint a vámigazgatási ügyben kezdeményezett elsőfokú eljárás – ideértve a kizárólag ezen ügyek lefolytatása érdekében indított egyéb eljárásokat is –, kivéve az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;”
+78. § (1)
 
 (2)
 
-79. § Az Itv. 57. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+79. §
 
-(Illetékmentes a polgári és közigazgatási ügyekben:)
+80. §
 
-„a) az eljárás, ha a bíróság az eljárást (ideértve a fellebbezési és a felülvizsgálati eljárást is) megindító beadványt – cégbírósági eljárás esetén hiánypótlási eljárás lefolytatása nélkül – visszautasítja, vagy az eljárást a Pp. 259. §-ában foglalt okokból, illetve az elektronikus kapcsolattartásra vonatkozó szabályok megszegése miatt vagy azért szünteti meg, mert az eljárást megindító beadvány visszautasításának lett volna helye, továbbá az ezen eljárásban hozott döntés elleni fellebbezés és felülvizsgálat;”
-
-80. § (1) Az Itv. 73. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Elektronikus úton kezdeményezett közigazgatási hatósági eljárás esetén az eljárási illetéket az eljárás megindítását megelőzően banki átutalással vagy – a technikai feltételek megléte esetén – az elektronikus fizetési és elszámolási rendszeren keresztül történő fizetéssel kell megfizetni. Banki átutalással történő illetékfizetés esetén az átutalás közleményrovatában az ügyfél nevét, lakcímét vagy székhelyét, illetve – amennyiben az ismert – az ügyszámot kell feltüntetni.”
-
-(2) Az Itv. 73. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az eljárási illeték előzetes megfizetését az eljárás megindításakor a (2) bekezdés a) pontjában szabályozott esetben a feladóvevénynek a kérelemhez csatolásával, a (4a) bekezdés szerinti elektronikus eljárásban készpénz-átutalással történő illetékfizetés esetén a készpénz-átutalási megbízás feladóvevényén szereplő azonosító szám (8 számjegyű azonosító), a megfizetett eljárási illeték összegének és a befizetés időpontjának feltüntetésével kell közölni az eljáró hatósággal.”
-
-81. § Az Itv. 81. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha az eljárás az 57. § (1) bekezdés a) pontja alapján illetékmentes, a megfizetett illeték 80. § (1) bekezdés i) pontja szerinti visszatérítésének kizárólag akkor van helye, ha a keresetlevelet szabályszerűen, a Pp. alapján a joghatás fennmaradására előírt határidőn belül ismételten nem nyújtották be. E tényről a bíróság – annak bekövetkezésétől számított 30 napon belül – értesíti az illetékes állami adóhatóságot, vagy ennek elmulasztása esetén az adózó kérelmére igazolást állít ki.”
+81. §
 
 82. §
 
-83. § Az Itv. 57. § (4) bekezdés b) pontjában a „lakóhelyén, tartózkodási helyén” szövegrész helyébe a „lakcímén, tényleges tartózkodási helyén” szöveg lép.
+83. §
 
-84. § Hatályát veszti az Itv.
-
-- a) 58. § (1) bekezdés b) pontja;
-- b) 58. § (2) és (6) bekezdése.
+84. §
 
 #### 10. A pénzügyi tranzakciós illetékről szóló 2012. évi CXVI. törvény módosítása
 
@@ -800,13 +705,7 @@ lép hatályba.
 
 (2)
 
-(3) Az Avt. 29. § (1) bekezdése a következő v) és w) ponttal egészül ki:
-
-(A végrehajtási eljárásban végrehajtható okirat:)
-
-„v) a termékdíjátalány fizetésére jogosult mezőgazdasági termelő termékdíj kötelezettségét tartalmazó bejelentés, és
-
-w) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. § (1) bekezdése szerinti bejelentés, a 7. § (5) bekezdése szerinti változás bejelentés és a 8. § (11) bekezdése szerinti bejelentés.”
+(3)
 
 170. §
 
@@ -932,27 +831,15 @@ w) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóró
 
 #### 21. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-225. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény (a továbbiakban: Kkt.) 30. §-a a következő (5) bekezdéssel egészül ki:
+225. §
 
-„(5) A kamarai tagság megszűnésére irányuló eljárást – az (1) bekezdés e) pont kivételével – mindaddig fel kell függeszteni, ameddig a kamarai tag könyvvizsgálóval szemben az e törvény szerinti minőségellenőrzési eljárás, fegyelmi eljárás, illetve a 172/A. § és 178. § szerinti eljárás van folyamatban.”
+226. §
 
-226. § A Kkt. 41. §-a a következő (7) bekezdéssel egészül ki:
+227. §
 
-„(7) A könyvvizsgáló cég nyilvántartásból való törlésére irányuló eljárást – az (1) bekezdés d) pont kivételével – mindaddig fel kell függeszteni, ameddig a könyvvizsgáló céggel szemben az e törvény szerinti minőségellenőrzési eljárás, fegyelmi eljárás, illetve a 172/A. § és 178. § szerinti eljárás van folyamatban.”
+228. §
 
-227. § A Kkt. a következő 208/O. §-sal egészül ki:
-
-„208/O. § E törvénynek az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 30. § (5) bekezdését és 41. § (7) bekezdését a hatálybalépést követően indult eljárásokra kell alkalmazni.”
-
-228. § A Kkt.
-
-- 1. 30. § (4) bekezdésében az „engedély” szövegrész helyébe az „igazolás” szöveg,
-- 2. 33. § (4) bekezdésében az „és o) pontjában” szövegrész helyébe az „, o), p) és q) pontjában” szöveg,
-- 3. 44. § (3) bekezdésében az „l), m) és q)” szövegrész helyébe az „l) és m)” szöveg
-
-lép.
-
-229. § Hatályát veszti a Kkt. 67/A. § (7) bekezdése.
+229. §
 
 ### VIII. Fejezet — NEMZETKÖZI SZERZŐDÉSEKHEZ KAPCSOLÓDÓ MÓDOSÍTÁSOK
 
@@ -1000,19 +887,7 @@ lép.
 
 #### 25. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-243. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 22. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A Kormány a központi költségvetésről szóló törvényjavaslat indokolásában
-
-a) tájékoztatást ad a több év költségvetési kiadási előirányzatait terhelő programok, beruházások és más fejlesztések későbbi évekre vonatkozó hatásairól,
-
-b) a 29. § (1) bekezdése szerinti tervszámokkal, mint változatlan szakpolitikát jelentő fiskális pályával összhangban, indokolással együtt bemutatja a tárgyévet követő négy év tervezett költségvetési bevételi előirányzatainak és költségvetési kiadási előirányzatainak keretszámait főbb csoportokban, valamint a 29. § (1) bekezdése szerinti tervszámoktól mint változatlan szakpolitikától történő eltérés esetén az eltérés indokait,
-
-c) ismerteti a középtávú költségvetési tervezés részeként a fő kormányzati politikák hosszú távú fenntarthatóságának felmérését, a közvetlen hosszú távú hatással rendelkező szakpolitikák bemutatásával, így különösen bemutatja az állami nyugdíj, egészségügyi, oktatási és egyéb korfüggő kiadások hosszú távú alakulását,
-
-d) ismerteti a kormányzati szektor Gst. 1. § c) pontja szerinti egyenlegére és a Gst. 1. § e) pontja szerinti strukturális egyenlegre vonatkozó tervezett mértékeket és azok indokait,
-
-e) mellékeli a Nyugdíjbiztosítási Alap bevételeire és kiadásaira vonatkozó demográfiai folyamatokat és az azok hatásait figyelembevevő ötven évre szóló előrejelzését.”
+243. §
 
 244. §
 
@@ -1024,16 +899,9 @@ e) mellékeli a Nyugdíjbiztosítási Alap bevételeire és kiadásaira vonatkoz
 
 (2) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény 13. §-ának az Szja tv. 70. § (9) bekezdés b) pontját megállapító rendelkezése a „bevétel, egyéni vállalkozónál az adóévi vállalkozói bevétel” szövegrész helyett a „bevétel” szöveggel lép hatályba.
 
-247. § (1) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény 255. § (8) bekezdésében a „2. §–14. §” szövegrész helyébe a „2–8. §, 10–14. §” szöveg lép.
+247. §
 
-(2) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény 255. §-a a következő (9a) bekezdéssel egészül ki:
-
-„(9a) A 9. § 2020. január 1-jén lép hatályba.”
-
-248. § Hatályát veszti az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény
-
-- a) 255. § (8) bekezdésében a „57. §,” szövegrész,
-- b) 255. § (10) bekezdése.
+248. §
 
 249. § Nem lép hatályba az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény
 
@@ -1098,28 +966,7 @@ e) mellékeli a Nyugdíjbiztosítási Alap bevételeire és kiadásaira vonatkoz
 ### 1. melléklet a 2018. évi LXXXII. törvényhez
 
 - 1.
-- 2. Az Szja tv. 1. számú melléklet 4. pont 4.12. alpont 4.12.1. pontja helyébe a következő rendelkezés lép:
-
-(Egyes tevékenységekhez kapcsolódóan adómentes:
-
-a nemzeti felsőoktatási törvény szerinti)
-
-„4.12.1. hallgató részére
-
-a) a teljes idejű, a részidős, a távoktatásban megvalósuló képzésben részt vevőt, ideértve a doktori képzésben részt vevőt megillető juttatásként kifizetett
-
-– ösztöndíj,
-
-– tankönyv- és jegyzettámogatás teljes összege,
-
-– diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
-
-b) a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
-
-c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
-
-d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályázat alapján nyújtott ösztöndíj;”
-
+- 2.
 - 3.
 - 4.
 - 5.
@@ -1127,11 +974,7 @@ d) a nemzetiségi pedagógusképzésben való részvételre tekintettel pályáz
 - 7.
 - 8.
 - 9.
-- 10. Az Szja tv. 1. számú melléklet 8. pontja a következő 8.43. alponttal egészül ki:
-
-(A nem pénzben kapott juttatások közül adómentes:)
-
-„8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.”
+- 10.
 
 ### 2. melléklet a 2018. évi LXXXII. törvényhez
 
