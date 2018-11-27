@@ -4,9 +4,9 @@ az egyrészről az Európai Unió, annak tagállamai, másrészről Izland köz�
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió, annak tagállamai, másrészről Izland között Izlandnak a Kiotói Jegyzőkönyv második kötelezettségvállalási időszakában az Európai Unióra, annak tagállamaira és Izlandra háruló kötelezettségek közös teljesítésében való részvételéről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
 
-2. §
+2. § Az Országgyűlés a Megállapodást e törvénnyel kihirdeti.
 
-3. §
+3. § A Megállapodás hiteles magyar nyelvű szövegét az 1. melléklet tartalmazza.
 
 4. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
