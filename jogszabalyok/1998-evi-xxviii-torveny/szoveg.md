@@ -42,7 +42,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
 - 6. állatmenhely: az elkobzott vagy ideiglenesen megfigyelés alatt tartott állatok kivételével a gazdátlan állatok ideiglenes vagy állandó, ellenszolgáltatás nélkül történő elhelyezésének céljából működtetett intézmény;
 - 7. beavatkozás az állaton: az állat fizikai, élettani vagy pszichikai állapotának megváltoztatása;
 - 8. jó gazda gondossága: az az emberi tevékenység, amely arra irányul, hogy az állat számára olyan életkörülményeket biztosítson, amely az annak fajára, fajtájára és nemére, korára jellemző fizikai, élettani, tenyésztési és etológiai sajátosságainak, egészségi állapotának megfelel, tartási, takarmányozási igényeit kielégíti (elhelyezés, táplálás, gyógykezelés, tisztán tartás, nyugalom, gondozás, kiképzés, nevelés, felügyelet).
-- 9. állatkísérlet: állat kísérleti, oktatási vagy egyéb tudományos célból való felhasználása, amely az állatnak a helyes állatorvosi gyakorlat szerint kivitelezett tűszúrás által okozottal egyenértékű vagy annál magasabb szintű fájdalmat, szenvedést, kínt vagy maradandó károsodást okozhat, beleértve bármely olyan tevékenységet, amely állat születését – beleértve a kikelést – eredményezi ilyen körülmények közé, valamint az ilyen állapotot eredményező géntechnológiailag módosított fajtavonalak létrehozását és fenntartását; az állat ilyen felhasználása akkor is kísérletnek minősül, ha a fájdalom, szenvedés, kín vagy maradandó károsodás kiküszöbölése céljából érzéstelenítést, fájdalomcsillapítást vagy egyéb módszert sikeresen alkalmaznak; nem minősül állatkísérletnek a nem kísérleti jellegű, mezőgazdasági vagy állatorvosi tevékenység, illetve az állatok leölésének vagy megjelölésének a természettudományok által elfogadott korszerű, kevéssé fájdalmasnak tartott módszereinek alkalmazása, valamint az állatnak kizárólag a szervei vagy szövetei felhasználása céljából történő leölése;
+- 9. állatkísérlet: állat kísérleti, oktatási vagy egyéb tudományos célból való – akár ismert, akár ismeretlen kimenetelű, akár invazív, akár nem invazív – felhasználása, amely az állatnak a helyes állatorvosi gyakorlat szerint kivitelezett tűszúrás által okozottal egyenértékű vagy annál magasabb szintű fájdalmat, szenvedést, kínt vagy maradandó károsodást okozhat, beleértve bármely olyan tevékenységet, amely állat születését – beleértve a kikelést – eredményezi ilyen körülmények közé, valamint az ilyen állapotot eredményező géntechnológiailag módosított fajtavonalak létrehozását és fenntartását; az állat ilyen felhasználása akkor is kísérletnek minősül, ha a fájdalom, szenvedés, kín vagy maradandó károsodás kiküszöbölése céljából érzéstelenítést, fájdalomcsillapítást vagy egyéb módszert sikeresen alkalmaznak; nem minősül állatkísérletnek a nem kísérleti jellegű, mezőgazdasági vagy állatorvosi tevékenység, illetve az állatok leölésének vagy megjelölésének a természettudományok által elfogadott korszerű, kevéssé fájdalmasnak tartott módszereinek alkalmazása, valamint az állatnak kizárólag a szervei vagy szövetei felhasználása céljából történő leölése;
 - 10. állat életének megengedett módon való kioltása: az állat életének a legkisebb szenvedés okozásával, valamint a faj adottságainak figyelembevételével történő szakszerű és gyors kioltása;
 - 11. cirkuszi menazséria: olyan, állatok tartására szolgáló létesítmény, amelyet cirkuszi előadásra, mutatványra betanított, illetve betanítandó állatokból álló állatsereglet tartására létesítettek, illetve tartanak fenn, és amely az állatok tartására a jogszabályi és a hatósági előírásoknak megfelelő létesítménnyel, berendezésekkel és eszközökkel, továbbá az állatok ellátására, betanítására, felügyeletére az ilyen előírásoknak megfelelő szakszemélyzettel rendelkezik.
 - 12. állat kábítása: minden olyan szándékos eljárás, amelynek alkalmazása a tudat és az érzékelés fájdalom nélkül történő elvesztését okozza, beleértve a közvetlen halált okozó eljárásokat is;
@@ -281,7 +281,7 @@ az állatok ésszerű védelmének és kíméletének biztosítása érdekében 
   - bb) emberek, állatok vagy növények élettani állapotának feltárása, értékelése, szabályozása vagy módosítása, vagy
   - bc) az állatok jóléte és a mezőgazdasági célból tartott állatok termelési feltételeinek javítása,
 - c) a b) pontban foglalt bármely célból gyógyszerek, élelmiszerek és takarmányok, valamint egyéb anyagok vagy termékek kifejlesztése vagy gyártása, azok minőségének, hatékonyságának és biztonságosságának ellenőrzése,
-- d) a természetes környezet védelme,
+- d) a természetes környezet védelme az emberek vagy állatok egészsége vagy jóléte,
 - e) a fajok megőrzésére irányuló kutatás,
 - f) felsőoktatás vagy a szakmai készségek megszerzése, fenntartása vagy fejlesztése céljából folyó képzés, vagy
 - g) igazságügyi orvostani vizsgálat elvégzése
@@ -294,7 +294,7 @@ teszi szükségessé.
 
 (2) Az állatkísérlet során felhasznált állatok számát a lehető legnagyobb – a kísérlet eredményességét még nem veszélyeztető – mértékben csökkenteni kell.
 
-(3) A tenyésztés, szaporítás, elhelyezés és gondozás, valamint a kísérlet során alkalmazott módszerek tökéletesítésére kell törekedni az állati fájdalom, szenvedés, kín vagy maradandó egészségkárosodás elkerülése vagy a lehető legkisebb mértékűre csökkentése érdekében.
+(3) A tenyésztés, szaporítás, elhelyezés és gondozás, valamint a kísérlet során alkalmazott módszereket a lehetséges mértékben tökéletesíteni kell az állati fájdalom, szenvedés, kín vagy maradandó egészségkárosodás elkerülése vagy a lehető legkisebb mértékűre csökkentése érdekében.
 
 28. § (1) Az állatot feltételezhetően érő fájdalom, szenvedés, kín vagy maradandó egészségkárosodás mértéke alapján – e törvény végrehajtására kiadott rendeletben meghatározott módon – minden kísérletet esetileg, e törvény végrehajtására kiadott rendeletben meghatározott kritériumok alapján a következő kategóriák valamelyikébe kell besorolni:
 
@@ -358,13 +358,23 @@ teszi szükségessé.
 - b) akinek a kísérlet engedélyezéséhez érdeke fűződik, vagy
 - c) aki az a) és b) pontban szereplő személlyel olyan viszonyban áll, amely a testületben való feladata ellátásához szükséges elfogulatlanságát veszélyezteti.
 
-33. § (1) Az állatvédelmi hatóság az állatkísérletek végzéséről szóló jogszabályok, illetve a kérelemben foglalt és jóváhagyott feltételek vagy az engedélyben előírtak meg nem tartása esetén a kísérlet végzését az észlelt hiányosság megszüntetéséig felfüggesztheti, illetve a kísérletre vonatkozó engedélyt visszavonhatja.
+### Az állatkísérlet végzésével, és a tenyésztők, beszállítók, felhasználók működésével kapcsolatos intézkedések és jogkövetkezmények
 
-(2) Az állatvédelmi hatóság a kísérleti állatok tartásának körülményeiről szóló jogszabályok megsértése, illetve a tartási, tenyésztési engedélyben előírtak meg nem tartása esetén kötelezi az állattartót az észlelt hiányosságok kijavítására, illetve a jogsértés súlyától, a jogsértő állapot időtartamától, ismétlődésétől, és különösen az állatnak okozott sérelem jellegétől függően visszavonhatja a tartási engedélyt, és kötelezi az állattartót az állatállomány megfelelő elhelyezésére. Az elhelyezés eredménytelensége esetén az állat életét megengedett módon ki lehet oltani.
+33. § (1) Az állatvédelmi hatóság az állatkísérletek végzéséről szóló jogszabályok vagy az engedélyben foglaltak megsértése esetén
 
-(3) Az állatvédelmi hatóság az állatkísérletek végzéséről szóló jogszabályok, illetve a kérelemben foglalt és jóváhagyott feltételek vagy az engedélyben előírtak két éven belül történő ismételt megsértése esetén a kísérletre vonatkozó engedély visszavonásával egyidejűleg a kísérletet folytató személyt, illetve felhasználó létesítményt – az elkövetett szabályszegés mértékére figyelemmel – a további kísérletek végzésétől határozott időre, de legalább hat hónapra és legfeljebb három évre eltilthatja.
+- a) a kísérletet folytató személyt vagy felhasználó létesítményt határidő megállapítása mellett kötelezi a hiányosság megszüntetésére, valamint a kísérlet végzését a hiányosság megszüntetéséig felfüggesztheti, vagy
+- b) a kísérletre vonatkozó engedélyt visszavonhatja, ha a hiányosság előírt módon és mértékben való megszüntetésére határidőben nem került sor.
 
-(4) Az (1)–(3) bekezdés szerinti jogkövetkezmény nem járhat hátrányos következményekkel az állatok jólétére nézve.
+(2) Az állatvédelmi hatóság az állatkísérletek végzéséről szóló jogszabályok vagy az engedély előírásainak két éven belül történő ismételt megsértése esetén a kísérletre vonatkozó engedély visszavonásával egyidejűleg a kísérletet folytató személyt, valamint a felhasználó létesítményt – a szabályszegés mértékére és súlyára figyelemmel – a további kísérletek végzésétől határozott időre, de legalább hat hónapra és legfeljebb három évre eltilthatja.
+
+(3) Az állatvédelmi hatóság a kísérleti állatok tartásának körülményeiről szóló jogszabályok, valamint a tartási, tenyésztési, beszállítói engedélyben foglaltak megsértése esetén a jogsértés súlyától, a jogsértő állapot időtartamától, ismétlődésétől, valamint az állatnak okozott sérelem jellegétől függően
+
+- a) az állattartót, a tenyésztőt, a beszállítót, valamint a tenyésztő és tartó létesítményt kötelezi az észlelt hiányosság megszüntetésére, és a tevékenység végzését, valamint a létesítmény működését a hiányosság pótlásáig felfüggesztheti, vagy
+- b) súlyos jogszabálysértés esetén a tartási, tenyésztési, beszállítói engedélyt, valamint a létesítmény engedélyét visszavonhatja.
+
+(4) Az (1)–(3) bekezdés szerinti jogkövetkezmény alkalmazása nem járhat az állatok jólétére nézve hátrányos következményekkel.
+
+(5) Az állatvédelmi hatóság az állatkísérlet végzésére vonatkozó, valamint a tartási, tenyésztési, beszállítói engedély felfüggesztése vagy visszavonása esetén kötelezi az engedélyest az állatállomány megfelelő elhelyezésére. Az elhelyezés eredménytelensége esetén az állat életét az e törvényben megengedett módon ki lehet oltani.
 
 34–35. §
 
