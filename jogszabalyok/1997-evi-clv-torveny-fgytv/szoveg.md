@@ -18,7 +18,7 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 2. § E törvény alkalmazásában:
 
-- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy, aki árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A békéltető testületre vonatkozó szabályok alkalmazásában – a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével – fogyasztónak minősül a fentieken túlmenően az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, mikro, kis- és középvállalkozás is, amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje.
+- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy, aki árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A békéltető testületre vonatkozó szabályok alkalmazásában – a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével – fogyasztónak minősül a fentieken túlmenően az önálló foglalkozásán és gazdasági tevékenységi körén kívül eső célok érdekében eljáró, külön törvény szerinti civil szervezet, egyházi jogi személy, társasház, lakásszövetkezet, mikro-, kis- és középvállalkozás is, amely árut vesz, rendel, kap, használ, igénybe vesz vagy az áruval kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje. A belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/302 rendelet] alkalmazásában fogyasztónak minősül a fentieken túlmenően az (EU) 2018/302 rendelet szerint vevőnek minősülő vállalkozás is,
 - b) vállalkozás: aki az 1. § szerinti tevékenységet önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében végzi,
 - c) gyártó:
   - ca) a terméknek az Európai Gazdasági Térségben letelepedett üzletszerű előállítója, termelője, helyreállítója vagy felújítója, illetve aki a terméken elhelyezett nevével, védjegyével vagy egyéb megkülönböztető jelzés alkalmazásával önmagát a termék gyártójaként tünteti fel; vagy
@@ -747,7 +747,7 @@ foglalt személyes adatait.
 
 ### Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 
-43/A. § (1) A fogyasztóvédelmi hatóság látja el a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Közösségen belüli jogsértések tekintetében:
+43/A. § (1) A fogyasztóvédelmi hatóság látja el a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Unión belüli jogsértések tekintetében:
 
 - a) az üzlethelyiségen kívül kötött szerződések esetén a fogyasztók védelméről szóló 85/577/EGK tanácsi irányelv,
 - b) a fogyasztói hitelre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló – a 90/88/EGK tanácsi irányelvvel, továbbá a 98/7/EK európai parlamenti és tanácsi irányelvvel módosított – 87/102/EGK tanácsi irányelv,
@@ -761,11 +761,13 @@ foglalt személyes adatait.
 - j) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv – 2004/27/EK európai parlamenti és tanácsi irányelvvel módosított – 86–100. cikke,
 - k) a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól szóló 2005/29/EK európai parlamenti és tanácsi irányelv.
 
-(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról szóló 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Közösségen belüli jogsértések tekintetében.
+(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról szóló 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
 
 (3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtásának összehangolását.
 
 (4) A kölcsönös jogsegély során a fogyasztóvédelmi hatóság a – 2008/282/EK bizottsági határozattal módosított – 2007/76/EK bizottsági határozatnak megfelelően jár el.
+
+(5) A fogyasztóvédelmi hatóság látja el a 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását az (EU) 2018/302 rendeletbe ütköző Európai Unión belüli jogsértések tekintetében abban az esetben, ha a vevő az (EU) 2018/302 rendelet szerinti fogyasztónak minősül.
 
 43/B. § A 2006/2004/EK európai parlamenti és tanácsi rendelet 5. cikkének (1) bekezdése, 16. cikkének (1) bekezdése, valamint 17. cikkének (1) bekezdése szerinti értesítési kötelezettségek, továbbá a 21. cikkének (2) bekezdése szerinti jelentéstételi kötelezettség végrehajtásáról a fogyasztóvédelemért felelős miniszter gondoskodik.
 
@@ -1135,6 +1137,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 43/A. § (4) bek.];
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 43/A. § (4) bek.];
 - d) az Európai Parlament és Tanács 2013. május 21-i 524/2013/EU rendelete a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói online vitarendezési irányelv) [2. § a),18. § (8) bekezdés, 29. § (11) bekezdés];
+- e) a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet.
 
 (3)
 
