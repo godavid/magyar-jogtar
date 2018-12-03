@@ -145,9 +145,13 @@ a szolgáltatás felügyeletét ellátó hatóság vagy a bíróság a szolgált
 - c) az intézkedés az elérni kívánt céllal arányos, és
 - d) a szolgáltató letelepedése szerinti EGT-állam illetékes hatósága nem tette meg a szükséges intézkedéseket vagy azok a sérelem, illetve a veszély elhárításához elégtelenek.
 
-11. § (1) A szolgáltatási tevékenység keretében nyújtott szolgáltatások igénybevétele tekintetében tilos bármilyen, az igénybe vevő állampolgársága, lakóhelye vagy székhelye szerinti megkülönböztetés, ide nem értve a szolgáltatás jellegével és az igénybevétel körülményeivel közvetlenül összefüggő, tárgyilagos mérlegelés szerint ésszerűen indokolt eltérő feltételeket.
+11. § (1) A szolgáltatási tevékenység keretében nyújtott szolgáltatások igénybevétele tekintetében tilos bármilyen, az igénybe vevő állampolgársága, lakóhelye vagy letelepedési helye szerinti megkülönböztetés, ide nem értve a szolgáltatás jellegével és az igénybevétel körülményeivel közvetlenül összefüggő, tárgyilagos mérlegelés szerint észszerűen indokolt eltérő feltételeket.
 
-(2) Semmis a szolgáltató által alkalmazott, a szolgáltatás igénybevételére vonatkozó olyan általános szerződési feltétel, amely az (1) bekezdés szerinti megkülönböztetést valósít meg.
+(2) A belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2018/302 rendelet] meghatározott esetekre vonatkozó, az (1) bekezdéstől eltérő tilalmakat és feltételeket az (EU) 2018/302 rendelet állapítja meg.
+
+(3) Semmis a szolgáltató által alkalmazott, a szolgáltatás igénybevételére vonatkozó olyan általános szerződési feltétel, amely az (1) bekezdés szerinti vagy az (EU) 2018/302 rendelet szerinti megkülönböztetést valósít meg.
+
+(4) A (2) bekezdésben meghatározott tilalmak és feltételek megsértése miatt a fogyasztóvédelmi hatóság kijelöléséről szóló kormányrendeletben kijelölt hatóság jár el a fogyasztóvédelemről szóló törvényben meghatározott eljárási szabályok szerint.
 
 ### II. Fejezet — A SZOLGÁLTATÁSI TEVÉKENYSÉG MEGKEZDÉSÉVEL ÉS FOLYTATÁSÁVAL ÖSSZEFÜGGŐ ELJÁRÁSOK
 
@@ -572,7 +576,11 @@ az Európai Bizottság részére történő bejelentéséről.
 
 ### Az Európai Unió jogának való megfelelés
 
-58. § E törvény a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosításáról szóló 2008. évi CXI. törvény hatálybalépésével és a belső piaci szolgáltatásokról szóló 2006/123/EK irányelv átültetésével összefüggő törvénymódosításokról szóló 2009. évi LVI. törvénnyel együtt:
+58. § (1) E törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-- a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, és
-- b) a belső piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat hatályon kívül helyezéséről szóló 1024/2012/EU európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) E törvény
+
+- a) a belső piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2012. október 25-i 1024/2012/EU európai parlamenti és tanácsi rendeletnek,
+- b) 11. § (2), (3) és (4) bekezdése a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendeletnek
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.
