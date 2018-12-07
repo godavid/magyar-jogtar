@@ -928,6 +928,8 @@ mint ügyfele számára gyakorolja.
 
 (3) A helyi önkormányzat polgármesteri hivatalának, a közös önkormányzati hivatalnak, a megyei önkormányzat hivatalának, a képviselő-testület szervének, valamint a nemzetiségi önkormányzat hivatalának, illetve szervének kamarai jogtanácsosa, az adott helyi önkormányzat, annak képviselő-testülete, közgyűlése, szerve, továbbá az adott nemzetiségi önkormányzat, annak szerve, valamint a helyi önkormányzattal, illetve a nemzetiségi önkormányzattal fenntartói viszonyban álló szerv számára, a szerv feladat- és hatáskörét érintő ügyben ügyvédi tevékenységet folytathat.
 
+(3a) A minisztérium és a Miniszterelnöki Kormányiroda kamarai jogtanácsosa ügyvédi tevékenységet folytathat annak a tárca nélküli miniszternek a feladat- és hatáskörét érintő ügyben, amelynek a munkáját a munkáltatója segíti.
+
 (4) A kamarai jogtanácsos területi kamara tagjaként az ügyvédi tevékenységek közül
 
 - a) jogi képviselet ellátását,
@@ -964,7 +966,7 @@ folytathatja.
 
 68. § (1) A kamarai jogtanácsos – kapcsolt vállalkozások kivételével – legfeljebb két nem természetes személy jogalannyal állhat ügyvédi tevékenység folytatására irányuló munkaviszonyban.
 
-(2) A kamarai jogtanácsos munkáltatóját, munkáltatója kapcsolt vállalkozását, valamint a munkáltatójával irányítási vagy fenntartói viszonyban álló szervet, általános vagy külön meghatalmazással képviseli. A meghatalmazásra alkalmazni kell az ügyvédi meghatalmazás szabályait.
+(2) A kamarai jogtanácsos munkáltatóját, munkáltatója kapcsolt vállalkozását, a munkáltatójával irányítási vagy fenntartói viszonyban álló, valamint a 66. § (3) és (3a) bekezdésében meghatározott szervet, általános vagy külön meghatalmazással képviseli. A meghatalmazásra alkalmazni kell az ügyvédi meghatalmazás szabályait.
 
 (3) A kamarai jogtanácsos ügyvédi tevékenység folytatására megbízást nem fogadhat el.
 

@@ -3697,7 +3697,7 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 
 (6) Az állomány miniszteri rendeletben meghatározott, 2015. július 1-jén rendelkezési állományban lévő tagja esetében a (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a honvédelmi szolgálati díjra való jogosultságot a rendelkezési állományba helyezés előtti utolsó szolgálati beosztáshoz rendszeresített rendfokozat figyelembevételével kell megállapítani.
 
-247/H. § (1) A Módtv.-vel megállapított 104. § helyett a 2018. december 31-ig elrendelt és teljesített túlszolgálatokra a (2)–(8) bekezdést kell alkalmazni.
+247/H. § (1) A Módtv.-vel megállapított 104. § helyett a 2022. december 31-ig elrendelt és teljesített túlszolgálatokra a (2)–(8) bekezdést kell alkalmazni.
 
 (2) Az állomány tagjának évi százötven óráig terjedő túlszolgálatáért annak időtartamával azonos mértékű szabadidő jár. A szabadidőt a túlszolgálatot követően nyomban, de legkésőbb harminc napon belül kell kiadni.
 
@@ -3716,15 +3716,15 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 
 (8) A túlszolgálat elrendelésének, nyilvántartásának és elszámolásának rendjét a miniszter rendeletben határozza meg.
 
-(9) A 2019. január 1-jét megelőző időpontban kezdődött és 2019. január 1-jén még folyamatban lévő szolgálatteljesítési időkeret elszámolására az elszámoláskor hatályos rendelkezéseket kell alkalmazni.
+(9) A 2023. január 1-jét megelőző időpontban kezdődött és 2023. január 1-jén még folyamatban lévő szolgálatteljesítési időkeret elszámolására az elszámoláskor hatályos rendelkezéseket kell alkalmazni.
 
 247/I. § (1) A Módtv.-vel megállapított 107. § (3) bekezdése helyett a 2018. december 31-ig elrendelt és teljesített őr-, ügyeleti és készenléti szolgálat teljesítésének ellentételezésére a (2) bekezdést kell alkalmazni.
 
 (2) A pihenőidőt a szolgálat leadása után nyomban, a szabadnapot pedig legkésőbb 90 napon belül kell kiadni. Amennyiben a szolgálati elfoglaltság miatt a szabadnapot igazoltan nem lehet kiadni, az arra járó, miniszteri rendeletben meghatározott díjazást legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt kell kifizetni.
 
-(3) A Módtv.-vel megállapított 107. § (1) bekezdése helyett a 2018. december 31-ig elrendelt és teljesített katasztrófavédelmi feladatok végrehajtásával összefüggésben elrendelt készenléti szolgálatokra a miniszter rendeletben határozhatja meg azokat az eseteket és körülményeket, amelyek bekövetkezése esetén – a feladatvégzés idejére – a 128. § (3) bekezdése szerinti pótlék helyett a 247/H. § túlszolgálat díjazására vonatkozó szabályait kell alkalmazni.
+(3) A Módtv.-vel megállapított 107. § (1) bekezdése helyett a 2022. december 31-ig elrendelt és teljesített katasztrófavédelmi feladatok végrehajtásával összefüggésben elrendelt készenléti szolgálatokra a miniszter rendeletben határozhatja meg azokat az eseteket és körülményeket, amelyek bekövetkezése esetén – a feladatvégzés idejére – a 128. § (3) bekezdése szerinti pótlék helyett a 247/H. § túlszolgálat díjazására vonatkozó szabályait kell alkalmazni.
 
-(4) Az egyes honvédelmi tárgyú törvények módosításáról szóló 2016. évi XXXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 98. § (3) bekezdése helyett a 2018. december 31-ig elrendelt és teljesített, az éves kiképzési tervben meghatározott gyakorlat esetén, ha a gyakorlat egyik napja vagy napjai pihenő- vagy munkaszüneti napra esnek, azokat azonos számú szabadnappal kell ellentételezni. A szabadnapot a gyakorlat befejeződését követő legkésőbb 90 napon belül kell kiadni. Ha a szolgálati elfoglaltság miatt a szabadnapot 90 napon belül igazoltan nem lehet kiadni, azt legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt meg kell váltani.
+(4) Az egyes honvédelmi tárgyú törvények módosításáról szóló 2016. évi XXXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 98. § (3) bekezdése helyett a 2022. december 31-ig elrendelt és teljesített, az éves kiképzési tervben meghatározott gyakorlat esetén, ha a gyakorlat egyik napja vagy napjai pihenő- vagy munkaszüneti napra esnek, azokat azonos számú szabadnappal kell ellentételezni. A szabadnapot a gyakorlat befejeződését követő legkésőbb 90 napon belül kell kiadni. Ha a szolgálati elfoglaltság miatt a szabadnapot 90 napon belül igazoltan nem lehet kiadni, azt legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt meg kell váltani.
 
 247/J. § (1) A legénységi állomány 2015. július 1-jén állományban lévő azon tagját, akinek a beosztásához 2015. július 1-jei hatállyal szakaszvezetőnél alacsonyabb rendszeresített rendfokozatot állapítanak meg, a beosztásában e törvény erejénél fogva – alacsonyabb beosztásba helyezés nélkül is – tovább kell foglalkoztatni.
 
