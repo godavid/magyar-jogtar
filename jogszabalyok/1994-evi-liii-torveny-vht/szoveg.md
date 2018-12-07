@@ -1125,6 +1125,8 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (3) Az egészségügyi szolgáltatót megillető, az Egészségbiztosítási Alapból az egészségügyi szolgáltatás finanszírozására folyósított, és e célra a kötelező egészségbiztosítás ellátásairól szóló törvény alapján elkülönítetten kezelt pénzösszeg csak a finanszírozási szerződésben foglalt feladatok ellátásából eredő követelések fejében vonható végrehajtás alá.
 
+(4) A Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendelet alapján nyitott korlátozott rendeltetésű fizetési számlán elhelyezett, az adóst megillető pénzösszeg harmadik személyekkel szemben fennálló tartozás fejében nem vonható végrehajtás alá.
+
 79/E. § (1) Ha a pénzforgalmi szolgáltató a végrehajtás alá vonandó pénzösszeget a végrehajtást foganatosító hatóság rendelkezése ellenére az adós vagy más javára teljesíti, a követelés összegéért felelős a végrehajtást kérőnek.
 
 (2) Ha a pénzforgalmi szolgáltató nem ismeri el, hogy az adóst megillető pénzösszeget kezeli, vagy a végrehajtást foganatosító hatóság rendelkezését nem teljesíti, a végrehajtást kérő pert indíthat ellene a követelés behajtása iránt. A követelés összegéért fennálló helytállási kötelezettség nem mentesíti a pénzforgalmi szolgáltatót a végrehajtásból eredő kötelezettségek nemteljesítése miatt e törvényben és más jogszabályokban meghatározott jogkövetkezmények alkalmazása alól.
@@ -4316,6 +4318,10 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 304/A. § A 182/A. § (1) bekezdésének a bírósági végrehajtásról szóló 1994. évi LIII. törvény módosításáról szóló 2017. évi CXXXV. törvénnyel (a továbbiakban e §-ban: Módtv.8.) megállapított rendelkezéseit azokban a Módtv.8. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a lakóingatlan kiürítésének foganatosítására még nem került sor.
 
 304/B. § E törvénynek a büntetőeljárásról szóló 2017. évi XC. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXCVII. törvénnyel (a továbbiakban e §-ban: Módtv.) megállapított rendelkezéseit azokban a Módtv. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben az ingatlanárverések kitűzésére még nem került sor.
+
+304/C. § (1) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2018. évi XCI. törvénnyel (a továbbiakban: Módtv.9.) megállapított 79/D. § (4) bekezdését a Módtv.9. hatálybalépésének napján, 159. § (3a) bekezdését a 2019. január 1-jén folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
+
+(2) E törvénynek a Módtv.9.-cel megállapított 239. § (3) bekezdés e) pontját a 2019. január 1-jét megelőzően kinevezett végrehajtók esetében is alkalmazni kell.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 
