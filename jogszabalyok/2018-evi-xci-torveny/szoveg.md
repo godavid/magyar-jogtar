@@ -18,9 +18,7 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 (3)
 
-(4) A Vht. 79/D. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendelet alapján nyitott korlátozott rendeltetésű fizetési számlán elhelyezett, az adóst megillető pénzösszeg harmadik személyekkel szemben fennálló tartozás fejében nem vonható végrehajtás alá.”
+(4)
 
 (5)
 
@@ -36,11 +34,7 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 (11)
 
-(12) A Vht. a következő 304/C. §-sal egészül ki:
-
-„304/C. § (1) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2018. évi XCI. törvénnyel (a továbbiakban: Módtv.9.) megállapított 79/D. § (4) bekezdését a Módtv.9. hatálybalépésének napján, 159. § (3a) bekezdését a 2019. január 1-jén folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
-
-(2) E törvénynek a Módtv.9.-cel megállapított 239. § (3) bekezdés e) pontját a 2019. január 1-jét megelőzően kinevezett végrehajtók esetében is alkalmazni kell.”
+(12)
 
 (13)
 
@@ -78,9 +72,7 @@ egyes igazságügyi tárgyú törvények módosításáról
 
 (4)
 
-(5) Az Üttv. 66. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A minisztérium és a Miniszterelnöki Kormányiroda kamarai jogtanácsosa ügyvédi tevékenységet folytathat annak a tárca nélküli miniszternek a feladat- és hatáskörét érintő ügyben, amelynek a munkáját a munkáltatója segíti.”
+(5)
 
 (6)
 
@@ -116,7 +108,7 @@ egyes igazságügyi tárgyú törvények módosításáról
 - b)
 - c)
 - d)
-- e) 68. § (2) bekezdésében a „valamint a munkáltatójával irányítási vagy fenntartói viszonyban álló szervet” szövegrész helyébe az „a munkáltatójával irányítási vagy fenntartói viszonyban álló, valamint a 66. § (3) és (3a) bekezdésében meghatározott szervet” szöveg,
+- e)
 - f)
 - g)
 - h)

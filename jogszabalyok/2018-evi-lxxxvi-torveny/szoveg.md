@@ -20,6 +20,6 @@ a Magyarország és a Szlovák Köztársaság között az államhatárról szól
 
 7. §
 
-8. § Hatályát veszti a Magyarország és a Szlovák Köztársaság között az államhatárról szóló Szerződés kihirdetéséről szóló 2018. évi LI. törvény.
+8. §
 
 ### 1. melléklet a 2018. évi LXXXV. törvényhez
