@@ -8,7 +8,7 @@ Annak érdekében, hogy az Európai Unió támogatásából vagy a központi kö
 
 #### 1. Hatály
 
-1. § E törvény hatálya az államháztartás központi alrendszeréből, valamint az európai uniós forrásokból nyújtott költségvetési támogatás igénybevételével megvalósuló turisztikai fejlesztésekre terjed ki.
+1. § E törvény hatálya az államháztartás központi alrendszeréből, valamint az európai uniós forrásokból nyújtott költségvetési támogatás igénybevételével megvalósuló turisztikai fejlesztésekre, továbbá a szálláshely-szolgáltatókra és szálláshely-szolgáltatást igénybevevő és a szálláshelyet vele együtt igénybe vevő személyekre (a továbbiakban együtt: igénybevevő) terjed ki.
 
 #### 2. Értelmező rendelkezések
 
@@ -36,9 +36,10 @@ annak egyedi természeti, táji, kulturális karakterét megőrizve, környezeti
 
 - a) a turisztikai fejlesztések szakpolitikai céljainak és irányelveinek kidolgozása,
 - b) a turisztikai térségen belüli turisztikai fejlesztés szakmai tervezése, a megvalósítás turisztikai térségen belüli és azok közötti szakmai összehangolása, valamint
-- c) szakmailag meghatározni, megtervezni és összehangolni az egyes turisztikai térségeken belül és azok között a turisztikai fejlesztések tekintetében a turisztikai térség megközelítését biztosító térségi és helyi infrastruktúrához, a kulturális örökség védelméhez, az épített és természeti környezet védelméhez, a társadalmi, környezeti fenntarthatósághoz, továbbá a turizmussal összefüggő marketingtevékenységhez szükséges turisztikai kapacitásokat és feladatokat, valamint szakmailag összehangolni azok végrehajtását.
+- c) szakmailag meghatározni, megtervezni és összehangolni az egyes turisztikai térségeken belül és azok között a turisztikai fejlesztések tekintetében a turisztikai térség megközelítését biztosító térségi és helyi infrastruktúrához, a kulturális örökség védelméhez, az épített és természeti környezet védelméhez, a társadalmi, környezeti fenntarthatósághoz, továbbá a turizmussal összefüggő marketingtevékenységhez szükséges turisztikai kapacitásokat és feladatokat, valamint szakmailag összehangolni azok végrehajtását,
+- d) a kiemelt állami turisztikai beruházások végrehajtása, valamint a kiemelt állami turisztikai beruházások során létrejött létesítmények üzemeltetése, fenntartása és hasznosítása.
 
-(5) Az állam a (4) bekezdésben foglalt feladatokat a Magyar Turisztikai Ügynökség Zrt. útján látja el.
+(5) Az állam a (4) bekezdés a)–c) pontjában foglalt feladatokat a Magyar Turisztikai Ügynökség Zrt., a (4) bekezdés d) pontjában foglalt feladatokat a 4. § (1) bekezdés szerint létrehozott gazdasági társaságok útján, a Kormány rendeletében meghatározottak szerint látja el.
 
 ### II. Fejezet — KIEMELT ÁLLAMI TURISZTIKAI BERUHÁZÁSOK
 
@@ -48,13 +49,17 @@ annak egyedi természeti, táji, kulturális karakterét megőrizve, környezeti
 
 (2) Az (1) bekezdés szerinti gazdasági társaságokban az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek gyakorlóját az állami vagyon felügyeletéért felelős miniszter rendeletben jelöli ki.
 
-(3) A Kormány turisztikai térségeket, valamint a kiemelt állami turisztikai beruházások helyszínét meghatározó rendeletében (a továbbiakban: rendelet) megállapított adott turisztikai térségben lévő, a rendeletben helyrajzi szám szerint megjelölt, 100%-ban az állam tulajdonában álló ingatlanokat a tulajdonosi jog gyakorlója, mint közfeladat ellátásához szükséges területet, ingyenesen, 30 éves időtartamra – kivéve ha a tulajdonosi jogyakorló és a vagyonkezelő a beruházás jellegére, az annak tervezett működtetéséhez szükséges észszerű időtartamra figyelemmel ettől eltérő időtartamban állapodnak meg – az (1) bekezdés szerinti gazdasági társaság (a továbbiakban: vagyonkezelő) vagyonkezelésébe adja.
+(3) A Kormány turisztikai térségeket, valamint a kiemelt állami turisztikai beruházások helyszínét meghatározó rendeletében (a továbbiakban: rendelet) megállapított adott turisztikai térségben lévő, a rendeletben helyrajzi szám szerint megjelölt, 100%-ban az állam tulajdonában álló ingatlanokat, ingatlanrészeket, ingatlan alrészleteket és ingatlanhányadokat (a továbbiakban együtt: ingatlan) a tulajdonosi jog gyakorlója, mint közfeladat ellátásához szükséges területet, ingyenesen, 30 éves időtartamra – kivéve ha a tulajdonosi jogyakorló és a vagyonkezelő a beruházás jellegére, az annak tervezett működtetéséhez szükséges észszerű időtartamra figyelemmel ettől eltérő időtartamban állapodnak meg – az (1) bekezdés szerinti gazdasági társaság (a továbbiakban: vagyonkezelő) vagyonkezelésébe adja.
 
 (4) A (3) bekezdés szerinti ingatlan (a továbbiakban: vagyonkezelésében lévő ingatlan) tekintetében a tulajdonosi jogokat gyakorló személy köteles a vagyonkezelővel a vagyonkezelési szerződést a rendelet hatálybalépését követő 45 napon belül megkötni.
 
-(5) A rendelet hatálybalépését megelőzően az ingatlan-nyilvántartásba bejegyzett vagyonkezelői és egyéb jogok fennállását a (3) bekezdés szerinti vagyonkezelői jog nem érinti, de az egyéb vagyonkezelői jog tartalmát a rendelet hatálybalépését követő 45 napon belül felül kell vizsgálni és amennyiben szükséges, a (3) bekezdés szerinti vagyonkezelői joggal való összhang megteremtése érdekében módosítani kell.
+(5) A vagyonkezelési szerződés megkötését megelőzően az ingatlan-nyilvántartásba bejegyzett vagyonkezelői és egyéb jogok fennállását a (3) bekezdés szerinti vagyonkezelői jog nem érinti, de az egyéb vagyonkezelői jog tartalmát a rendelet hatálybalépését követő 45 napon belül felül kell vizsgálni és amennyiben szükséges, a (3) bekezdés szerinti vagyonkezelői joggal való összhang megteremtése érdekében módosítani kell.
 
-(6) A rendelet hatálybalépésekor rendeletben megjelölt ingatlanon fennálló, más szervezeteket, szerveket terhelő kötelezettségek, feladatkörök (különösen a forgalomszervezési, közútkezelési és közösségi közlekedési infrastruktúra-fenntartási, településtisztasági és hulladékgazdálkodási, természet- és környezetvédelmi, vízgazdálkodási, vad- és halgazdálkodási, árvízvédelmi feladatok) változatlanul fennmaradnak.
+(6) A vagyonkezelési szerződés megkötésekor a rendeletben megjelölt ingatlanon fennálló, más szervezeteket, szerveket terhelő kötelezettségek, feladatkörök (különösen a forgalomszervezési, közútkezelési és közösségi közlekedési infrastruktúra-fenntartási, településtisztasági és hulladékgazdálkodási, természet- és környezetvédelmi, vízgazdálkodási, vad- és halgazdálkodási, árvízvédelmi feladatok) változatlanul fennmaradnak.
+
+(7) A vagyonkezelési szerződés megkötésekor fennálló jogviszonyok tekintetében a bejegyzett vagyonkezelő helyébe a bejegyzett vagyonkezelő vagyonkezelésében lévő ingatlanok vonatkozásában általános és egyetemleges jogutódként a vagyonkezelő lép. A rendelet szerinti ingatlanok vagyonkezelőjének megváltozása nem érinti az Európai Unió által támogatott, már megvalósított projektek fenntartási kötelezettségét.
+
+(8) A vagyonkezelési szerződés megkötésekor a rendeletben megjelölt, önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településszerkezeti tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
 
 #### 5. Turisztikai beruházások megvalósítása
 
@@ -68,7 +73,13 @@ annak egyedi természeti, táji, kulturális karakterét megőrizve, környezeti
 
 (3) A beruházások befejezését követően létrejövő új építmények e törvény erejénél fogva, mint közfeladat ellátásához szükséges építmények ingyenesen a vagyonkezelő vagyonkezelésébe kerülnek a 4. § (3) bekezdésében meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig. A vagyonkezelőnek az új építményekre e törvény alapján létrejövő vagyonkezelői jogára e törvényben meghatározott rendelkezéseket kell alkalmazni azzal, hogy az új építményekre vonatkozó vagyonkezelői szerződést a (2) bekezdés szerinti nyilvántartásba vétellel egyidejűleg kell megkötni.
 
+(3a) A vagyonkezelő által teljesített beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben a feleknek egymással szemben megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek a vagyonkezelő – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
+
+(3b) A vagyonkezelő, az általa végzett beruházásokkal összefüggésben e törvény erejénél fogva jogosult a bontással járó munkálatok elvégzésére a saját selejtezési szabályzata alapján azzal, hogy a vagyonkezelő köteles a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére, illetve jogosult a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére megbízási szerződést kötni a tulajdonosi joggyakorlóval. A vissznyeremény anyagok értékesítéséből származó bevétel a vagyonkezelőt illeti meg azzal, hogy a vagyonkezelő köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanok értékének megőrzésére, gyarapítására vagy a vagyon cél szerinti fenntartására fordítani.
+
 (4) A vagyonkezelő az állami vagyonról szóló 2007. évi CVI. törvény 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
+
+(5) A vagyonkezelőt megilletik a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (8) bekezdése szerinti tulajdonosi jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében az építési tevékenység megvalósítása céljából a vagyonkezelő által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
 
 7. § A vagyonkezelő, mint építtető (a továbbiakban: építtető) az 5. § (1) bekezdésében meghatározott beruházások vonatkozásában különösen az alábbi feladatokat látja el:
 
@@ -127,7 +138,8 @@ annak egyedi természeti, táji, kulturális karakterét megőrizve, környezeti
 
 - a) turisztikai térségek elnevezését, földrajzi kiterjedését és típusba sorolását,
 - b) turisztikai térségek közül a kiemelt turisztikai fejlesztési térségeket,
-- c) kiemelt állami turisztikai beruházások megvalósításának helyszíneit, a beruházással érintett ingatlanok helyrajzi számának megjelölésével
+- c) kiemelt állami turisztikai beruházások megvalósításának helyszíneit, a beruházással érintett ingatlanok helyrajzi számának megjelölésével,
+- d) 3. § (5) bekezdése szerinti feladatok ellátásának részletszabályait, valamint az egyes feladatok ellátására, a 4. § (1) bekezdés szerinti gazdasági társaságokat
 
 rendeletben határozza meg.
 
