@@ -1762,6 +1762,9 @@ A felsőoktatási intézményben oktatói, tanári munkakört, valamint a tudom�
 | 53. | Kollégiumi nevelőtanár | 3. | 47 |
 | 54. | Kollégiumi nevelőtanár | 2. | 42 |
 | 55. | Kollégiumi nevelőtanár | 1. | 37 |
+| 56. | Szakmódszertant oktató tanár | 3. | 47 |
+| 57. | Szakmódszertant oktató tanár | 2. | 42 |
+| 58. | Szakmódszertant oktató tanár | 1. | 37 |
 
 ### 3. számú melléklet az 1992. évi XXXIII. törvényhez
 
