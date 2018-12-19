@@ -44,11 +44,11 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 (4) Az e törvény által előírt földgáz biztonsági készlet elsősorban a lakossági fogyasztók biztonságos földgázellátását szolgálja, valamint azon felhasználók ellátását, akik (amelyek) gázfogyasztásukat más energiaforrásból nem tudják pótolni.
 
-4. § (1) A földgáz biztonsági készletet a miniszter által – a 4. § (7) bekezdésében foglaltak figyelembevételével – rendeletben meghatározott olyan biztonsági földgáztárolóban kell elhelyezni, amelynek kitárolási kapacitása legalább napi 20 millió m3 és amely ezt a napi kitárolási mennyiséget 600 millió m3 földgáz biztonsági készlet tárolása esetén legalább a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és a tanácsi rendelet (a továbbiakban: 994/2010 EU rendelet) 8. cikk (1) bekezdés c) pontjában meghatározott időtartamon belül biztosítani képes.
+4. § (1) A földgáz biztonsági készletet a miniszter által rendeletben meghatározott olyan biztonsági földgáztárolóban kell elhelyezni, amely a kitárolási kapacitást legalább a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés c) pontjában meghatározott időtartamon belül képes biztosítani.
 
 (2) A földgáz biztonsági készlet mértékét, valamint erre tekintettel a készletértékesítési vagy készletbeszerzési kötelezettség mértékét és feltételeit, a földgáz biztonsági készlet mértékéhez tartozó kötelező minimum betárolási és kitárolási kapacitásokat, továbbá az értékesítés módját, a visszapótlásra kötelezettet, a visszapótlás feltételeit és rendjét a miniszter rendeletben határozza meg.
 
-(3) A miniszter a biztonsági földgázkészlet mértékét az (1) bekezdésben meghatározott keretek között – az ellátás-biztonsági kockázatok mérlegelésével, a rendelkezésre álló földgázforrások alapján, valamint a 994/2010/EU rendeletben meghatározott Megelőzési Cselekvési Tervben és a Vészhelyzeti Tervben foglaltakkal összhangban – a Hivatal elnöke javaslatának figyelembevételével határozza meg. A Hivatal javaslatát a miniszter által meghatározott határidőn belül köteles megküldeni.
+(3) A miniszter a biztonsági földgázkészlet mértékét az (1) bekezdésben meghatározott keretek között – az ellátás-biztonsági kockázatok mérlegelésével, a rendelkezésre álló földgázforrások alapján, valamint a 2017/1938/EU európai parlamenti és tanácsi rendeletben meghatározott Megelőzési Cselekvési Tervben és a Vészhelyzeti Tervben foglaltakkal összhangban – a Hivatal elnöke javaslatának figyelembevételével határozza meg. A Hivatal javaslatát a miniszter által meghatározott határidőn belül köteles megküldeni.
 
 (4) Készletbeszerzési vagy készletértékesítési kötelezettség esetén a Szövetségnek a földgáz betárolását vagy kitárolását a miniszter rendeletében meghatározott ütemezéssel és határidővel kell végrehajtania.
 
@@ -56,7 +56,7 @@ Az Országgyűlés a földgázellátás biztonságának fokozása érdekében a 
 
 (6) Amennyiben a Szövetség által betárolt biztonsági készletet tároló földalatti gáztárolóban készletértékesítést követően szabad kapacitások állnak a Szövetség rendelkezésére, ezen szabad kapacitásokat a Szövetség másodlagos kapacitás-kereskedelemben értékesítheti. A szabad kapacitások értékesítésére vonatkozó szabályokat a miniszter rendeletben állapítja meg.
 
-(7) A készletezési kötelezettség kizárólag a Magyar Állam közvetlen vagy közvetett többségi tulajdonában álló biztonsági földgáztárolóban tárolt és a biztonsági földgáztároló engedélyessel kötött szerződés alapján tároltatott földgázzal teljesíthető.
+(7)
 
 (8) A földgáz biztonsági készlet a Szövetség tulajdonát képezi. A Szövetség jogosult a földgáz biztonsági készletezés céljára földgázt beszerezni (vásárolni), valamint a (3) bekezdés, illetve az 5. § (1) bekezdés szerinti felhasználás esetén földgázt értékesíteni. A Szövetség földgáz beszerzési, illetve földgáz értékesítési kötelezettsége nem minősül a földgázellátásról szóló 2008. évi XL. törvény szerint földgáz kereskedelemnek.
 
@@ -106,7 +106,7 @@ közül az eladáskori magasabb értéknek.
 - c) ellenőrzi az e törvényben meghatározott tagsági jogviszonnyal kapcsolatos kötelezettségek teljesítését;
 - d) gondoskodik a felhasznált földgáz biztonsági készlet e törvény szerinti visszapótlásáról;
 - e) vezeti a tagsági nyilvántartást;
-- f) meghatározza a tagi hozzájárulás mértékét – a Közgyűlés által – az éves költségvetés keretében a Szövetség Alapszabályában (a továbbiakban: Alapszabály) rögzített szabályok szerint, és közzétételre a miniszter elé terjeszti;
+- f) meghatározza a tagi hozzájárulás mértékét – a Közgyűlés által – az éves költségvetés keretében a Szövetség Alapszabályában (a továbbiakban: Alapszabály) rögzített szabályok szerint, és a miniszter részére tájékoztatásul megküldi;
 - g) gondoskodik a tagi hozzájárulás beszedéséről;
 - h) e törvény 10. §-ában foglalt rendelkezések szerint adatszolgáltatást végez.
 
@@ -120,7 +120,7 @@ közül az eladáskori magasabb értéknek.
 
 - a) a Hivatal által kiadott működési engedéllyel rendelkező
   - aa) földgáz egyetemes szolgáltató,
-  - ab) felhasználóknak földgázt értékesítő földgázkereskedő;
+  - ab) felhasználóknak földgázt értékesítő vagy saját célra földgázt felhasználó földgázkereskedő;
 - b) felhasználóknak földgázt értékesítő földgáztermelő;
 - c) az a felhasználó, aki földgázt határon keresztül történő beszállítással, illetve földgázt szervezett piacon vásárol.
 
@@ -148,18 +148,20 @@ jön létre.
 - c) a földgáztermelő a felhasználóknak földgázt értékesít,
 - d) a felhasználó földgázt hoz be harmadik országból,
 - e) a felhasználó földgázt hoz be az Európai Unió tagállamából,
-- f) a felhasználó a szervezett piacon földgázt vásárol.
+- f) a felhasználó a szervezett piacon földgázt vásárol,
+- g) a földgázkereskedő saját célra földgázt használ fel.
 
-(3) A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében a földgáz egyetemes szolgáltatót, b) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) pontjai esetében a felhasználót terheli.
+(3) A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében a földgáz egyetemes szolgáltatót, b) és g) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) pontjai esetében a felhasználót terheli.
 
-(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége kilowattórában mérve.
+(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége, a (2) bekezdés g) pontja esetén a felhasznált földgáz mennyisége kilowattórában mérve.
 
 (4a) A 4. § (5) bekezdés szerinti készletértékesítés esetén a tagi hozzájárulás mértékének a (4) bekezdés szerint történő megállapítása során az értékesített földgáz ellenértékeként befolyt pénzösszeget csökkentő tételként kell figyelembe venni.
 
 (5) A tagi hozzájárulás fizetési kötelezettség
 
 - a) a (2) bekezdés a)–c) és az e)–f) pontjai esetében az általános forgalmi adóról szóló törvény szerinti teljesítés időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre,
-- b) a (2) bekezdés d) pontja esetében a belföldi forgalom számára történő vámkezeléskor, a belföldi forgalom számára vámkezelt mennyiségre
+- b) a (2) bekezdés d) pontja esetében a belföldi forgalom számára történő vámkezeléskor, a belföldi forgalom számára vámkezelt mennyiségre,
+- c) a (2) bekezdés g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált mennyiségre
 
 vonatkozik.
 
@@ -232,9 +234,9 @@ vonatkozik.
 
 (4) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a készletbeszerzés mértékére és feltételeire, továbbá készletértékesítés esetén az értékesítendő földgáz mennyiségére, az értékesítés módjára, a földgáz értékének és a kedvezményezettek körére, a földgáz visszapótlásra kötelezettekre és a visszapótlás feltételeire, rendjére, valamint a szabad kapacitások értékesítésére vonatkozó szabályokat.
 
-14. §
+14. § Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet hatályon kívül helyezéséről szóló, 2017. október 25-i 2017/1938/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-14/A. § Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 2004/67/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 994/2010/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+14/A. §
 
 ### Módosuló jogszabályok
 

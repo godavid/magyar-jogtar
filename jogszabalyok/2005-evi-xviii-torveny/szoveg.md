@@ -75,17 +75,19 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 - a) kiadja, módosítja vagy visszavonja a távhőtermelő létesítmény létesítésére vonatkozó engedélyt és a távhőtermelői működési engedélyt, ha a létesítményben a hőenergiát – részben vagy egészben – távhő-szolgáltatási célra termelik, valamint a távhő-szolgáltatói működési engedélyt;
 - b) ellenőrzi a távhőtermelő és távhőszolgáltató működési engedélyében előírt követelmények, feltételek betartását, e tekintetben együttműködik a fogyasztóvédelmi hatósággal, továbbá a felhasználói érdekképviseletekkel;
-- c) jóváhagyja az engedélyezési hatáskörébe tartozó engedélyes átalakulását, valamint az engedélyesekben történő befolyásszerzés, illetőleg a jegyzett tőke értékének változását;
+- c) jóváhagyja az e törvény hatálya alá tartozó engedélyest érintő, a 19. § (1) bekezdése szerinti cégjogi eseményeket, valamint az engedélyesben történő befolyásszerzéseket;
 - d) ellátja az ármegállapítással összefüggő, e törvényben meghatározott feladatokat;
 - e) ellátja a távhőszolgáltatási támogatással összefüggő, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatokat; és
 - f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energiapolitikáért felelős minisztert (a továbbiakban: miniszter) és a közigazgatás-szervezésért felelős minisztert a hatósági ellenőrzés során tudomására jutott és az 57/D. § (5) bekezdés szerinti kötelező adatszolgáltatás révén rendelkezésére álló adatokról;
 - g) elvégzi a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
 
-(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
+(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
 (3) A Hivatal ellenőrzési feladatainak teljesítése érdekében, annak mértékéig jogosult a (2) bekezdésben meghatározottaktól eseti és rendszeres információt kérni, jogszabályban vagy hatósági döntésben előírt kötelezettségével, engedélyhez kötött tevékenységével vagy a távhőszolgáltatási támogatással kapcsolatos iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot tartalmazó iratokat is.
 
 (4) Közigazgatási perben nincs helye a keresetlevél halasztó hatálya elrendelésének, ha a Hivatal határozatában a távhőszolgáltatási támogatás igénybevételének jogszerűsége, engedélyes kijelölése vagy engedélyének visszavonása tárgyában döntött.
+
+(5) A Hivatal véglegessé vált határozatait – a személyes és védett adatok kivételével – a honlapján közzéteszi.
 
 5. § (1)
 
@@ -149,6 +151,12 @@ rendelkezéseivel összhangban kell alkalmazni.
 (2) A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló 1997. évi CLV. törvényt (a továbbiakban: Fgytv.) kell alkalmazni azzal, hogy az e törvény szerinti lakossági felhasználó az Fgytv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
 
 (3) Az (1) bekezdés b) pontjában említett rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
+
+(4) A fogyasztóvédelmi hatóság eljárása során az Fgytv.-ben foglalt jogkövetkezményeken kívül – jogsértés megállapítása esetén – az alábbi jogkövetkezményeket is alkalmazhatja:
+
+- a) a távhőszolgáltató az (1) bekezdés b) pontjában foglaltak betartására kötelezése,
+- b) a távhőszolgáltató az (1) bekezdés b) pontja szerinti kötelezettsége megsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása vagy a jogkövetkezmény alkalmazásának megtiltása, és
+- c) ha a felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
 
 9. § A Hivatal hatósági fogyasztóvédelmi feladatai ellátása során
 
@@ -240,27 +248,23 @@ működési engedély
 
 (2) Az engedélyes köteles olyan számviteli szétválasztási szabályokat kidolgozni, és az egyes tevékenységeire olyan elkülönült nyilvántartást vezetni, amely biztosítja az egyes tevékenységek átláthatóságát és a diszkriminációmentességet, kizárja a keresztfinanszírozást és a versenytorzítást.
 
-(3) Az engedélyes köteles
+(3) Az engedélyes
 
-- a) a kapcsolt villamos energia termelést és a távhőtermelést telephelyenkénti bontásban,
-- b) a távhőszolgáltató tevékenységet településenként szétválasztva,
-- c) az egyéb tevékenységeit a számviteli éves beszámolója kiegészítő mellékletében oly módon bemutatni, mintha azt önálló vállalkozás keretében végezte volna, amelynek esetében az engedélyes tevékenység elkülönült bemutatása az a) pont alá eső esetben telephelyenként, a b) pont alá eső esetben településenként önálló mérleget és eredmény-kimutatást jelent.
+- a) a villamosenergia-termelést és a távhőtermelést telephelyenkénti bontásban,
+- b) a távhőszolgáltató tevékenységet településenként szétválasztva, valamint
+- c) az egyéb tevékenységeit
 
-(4) A több tevékenységre engedéllyel rendelkező engedélyes számviteli éves beszámolója kiegészítő mellékletében köteles a (3) bekezdés szerint a különböző engedélyes tevékenységeit oly módon bemutatni, mintha azokat önálló vállalkozások keretében végezték volna, amelynek esetében az engedélyes tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását és önálló eredmény-kimutatást jelent.
+az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbiakban együtt: beszámoló) kiegészítő mellékletében oly módon mutatja be, mintha azt önálló vállalkozás keretében végezte volna, amely esetén az engedélyes tevékenység elkülönült bemutatása az a) pont szerinti esetben telephelyenként, a b) pont szerinti esetben településenként önálló mérleget és összköltség eljárással készült eredménykimutatást jelent. Az engedélyes köteles a beszámoló könyvvizsgálatát elvégeztetni.
 
-(5) Ha az engedélyes a számvitelről szóló törvény szerinti összevont (konszolidált) számviteli éves beszámoló készítésére kötelezett, az összevont (konszolidált) számviteli éves beszámolója kiegészítő mellékletében köteles az egyes engedélyes tevékenységeket önállóan is bemutatni. Az engedélyes tevékenységek elkülönült bemutatása halmozott önálló mérleget és halmozott eredmény-kimutatást jelent.
+(4) A több tevékenységre engedéllyel rendelkező engedélyes beszámolója kiegészítő mellékletében köteles a (3) bekezdés szerint a különböző engedélyes tevékenységeit oly módon bemutatni, mintha azokat önálló vállalkozások keretében végezték volna, amelynek esetében az engedélyes tevékenységek elkülönült bemutatása legalább az eszközök, kötelezettségek, időbeli elhatárolások szétválasztott bemutatását és önálló eredmény-kimutatást jelent.
+
+(5)
 
 (6) A Hivatal jogosult az engedélyes pénzügyi-számviteli kimutatásaiba, és az ahhoz kapcsolódó bizonylatokba és iratokba betekinteni.
 
-18/B. § (1) Az engedélyes könyvvizsgálója az éves beszámolóhoz, illetve az összevont (konszolidált) éves beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás tevékenységei közötti keresztfinanszírozás-mentességet.
+18/B. § Az engedélyes könyvvizsgálója a beszámolóhoz kiadott független könyvvizsgálói jelentésben köteles igazolni, hogy a vállalkozás által kidolgozott és alkalmazott számviteli szétválasztási szabályok, valamint az egyes tevékenységek közötti tranzakciók árazása biztosítják a vállalkozás tevékenységei közötti keresztfinanszírozás-mentességet.
 
-(2) Minden engedélyes köteles az auditált számviteli éves beszámolóját a könyvvizsgálói jelentéssel együtt a Hivatalnak a számvitelről szóló törvény szerinti letétbe helyezéssel egyidejűleg megküldeni.
-
-(3) A több engedéllyel rendelkező vállalkozás esetén a tevékenységekre szétválasztott beszámolókat is tartalmazó számviteli éves beszámolót csak egy példányban kell a Hivatalnak benyújtani.
-
-(4) Az engedélyes összevont (konszolidált) számviteli beszámolóját a vállalkozás konszolidációra kötelezett tagja küldi meg a Hivatalnak.
-
-18/C. § (1) Az értékesítő, valamint a távhőszolgáltató tárgyévi auditált éves számviteli beszámolójában szereplő, az e törvény hatálya alá tartozó tevékenységéből származó adózás előtti eredménye nem haladhatja meg az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott mértéket (a továbbiakban: nyereségkorlát).
+18/C. § (1) Az értékesítő, valamint a távhőszolgáltató tárgyévi auditált beszámolójában szereplő, az e törvény hatálya alá tartozó tevékenységéből származó adózás előtti eredménye nem haladhatja meg az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott mértéket (a továbbiakban: nyereségkorlát).
 
 (2) Ha a Hivatal ellenőrzése során megállapítja, hogy az értékesítő, valamint a távhőszolgáltató (1) bekezdés szerinti adózás előtti eredménye meghaladja a nyereségkorlátot, dönt a nyereségkorláton felüli összeg megosztásáról az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottak szerint.
 
@@ -308,10 +312,10 @@ a távhőellátás fenntartása
 
 21. § (1) Távhőtermelő létesítmény, távhővezeték-hálózat, illetve annak részét képező berendezés, vezeték, valamint hőközpont elhelyezéséhez és üzemeltetéséhez szükséges idegen ingatlan használatára az engedélyes
 
-- a) előmunkálati jogot,
+- a)
 - b) vezetékjogot,
-- c) használati jogot,
-- d) kisajátítást és
+- c) használati jogot és
+- d)
 - e) biztonsági övezet kijelölést
 
 kérhet.
@@ -332,19 +336,7 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 21/A. § A műszaki biztonsági szerv által lefolytatott hatósági eljárásokban a hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
 
-### Előmunkálati jog
-
-22. § (1) A távhőtermelő létesítmény, illetőleg a távhővezeték-hálózat, illetve annak részét képező berendezés és vezeték létesítésével kapcsolatban az engedélyes előmunkálati jog engedélyezését kérheti.
-
-(2) Az előmunkálati jog alapján, a jogosult vagy megbízottja az idegen ingatlanon véglegessé vált határozat felhatalmazása alapján, – a felhatalmazást követő egy éven belül – a szükséges jeleket elhelyeztetheti, méréseket, vizsgálatokat végezhet. Az ingatlan tulajdonosa e munkálatok végzését – kártalanítás ellenében – tűrni köteles.
-
-(3) Az előmunkálati jog iránti kérelemhez csatolandó műszaki leírásokat, helyszínrajzokat, ütemtervet a kormány rendeletében meghatározott tartalommal, méretben és példányszámban az engedélyesnek kell elkészítenie.
-
-(4) Az előmunkálati jog alapján végezhető munka megkezdéséről az ingatlan tulajdonosát, használóját és az ingatlan fekvése szerint illetékes önkormányzat jegyzőjét az előmunkálati jog jogosultja 15 nappal korábban értesíteni köteles.
-
-(5) Az előmunkálati jog időbeli hatálya egyszer, további egy évvel meghosszabbítható.
-
-(6) Az előmunkálati jogot a műszaki biztonsági szerv engedélyezi. Az eljárás részletes szabályait a Kormány rendeletben határozza meg.
+#### 22. §
 
 ### Vezetékjog
 
@@ -385,17 +377,7 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 30. § Ha a használati joggal terhelt idegen ingatlan tulajdonosa a saját felhasználási helyére vonatkozó közszolgáltatási szerződést felmondja, a használati jog az engedélyest továbbra is megilleti mindaddig, amíg a hőközpontból más felhasználót is ellát. Ebben az esetben a használati jog az érdekeltek megállapodásával szüntethető meg.
 
-### Kisajátítás
-
-31. § (1) Távhőtermelő létesítmény elhelyezése, szolgáltatói távhőközpont létesítése, valamint távhővezeték-hálózat, illetve annak részét képező vezeték építése és üzemeltetése céljából történő kisajátításra a kisajátításról szóló külön törvény rendelkezéseit kell alkalmazni.
-
-(2)
-
-(3) A kisajátított ingatlant a telephely szerinti önkormányzat tulajdonába, az általa kijelölt szervezet vagyonkezelésébe és az engedélyes használatába kell adni. A kisajátítással kapcsolatos költségeket – ideértve a kártalanítást is – az engedélyes köteles előlegezni, és viselni.
-
-(4)
-
-(5) A tulajdonos kérelmére indult kisajátítással kapcsolatos költségeket és az ingatlanért járó kártalanítást az engedélyes köteles megtéríteni.
+#### 31. §
 
 ### Biztonsági övezet
 
@@ -782,6 +764,8 @@ megállapodásokat.
 
 (7) Ha az engedélyes és az értékesítő az (5) bekezdésben foglalt határidőn belül nem nyújt tájékoztatást, szolgáltat adatot vagy foglal állást, a Hivatal a tájékoztatás, adatszolgáltatás, állásfoglalás hiányában is javaslatot tehet a miniszter részére.
 
+(8) Az adatszolgáltatásra kötelezett a tevékenységének megkezdése előtt vagy annak szüneteltetése alatt a Hivatal részére teljesítendő adatszolgáltatási kötelezettség alól a Hivatal elnökének rendeletében meghatározottak szerint mentességet kaphat.
+
 57/E. § (1) A hatósági árnál magasabb árat a szerződésben érvényesen kikötni nem lehet. A hatósági árat kell alkalmazni abban az esetben, ha a felek az árban nem állapodtak meg, vagy ha jogszabály megsértésével más árban állapodtak meg.
 
 (2) A hatósági ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon lehet eltérni.
@@ -829,7 +813,7 @@ megállapodásokat.
 - g) a távhőszolgáltató, a felhasználó, a felhasználó megbízottja és a díjfizető közötti jogviszony általános szabályait (52. §);
 - h) a távhő előállítására szolgáló megújuló energia hasznosításának szabályait [3. § m) pont];
 - i) a távhőszolgáltatás árképzése átláthatóságának biztosítása érdekében, a távhőszolgáltatók által közérdekből közzéteendő adatok – különösen a távhőszolgáltatással kapcsolatos árszabályozás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját;
-- j) az előmunkálati jog engedélyezésének részletes szabályait,
+- j)
 - k) a műszaki biztonsági szerv vagy szervek kijelölését,
 - l) a központi fűtés és melegvíz-szolgáltatás feltételeire, a jogviszonyban lévők jogaira, kötelezettségeire, a szolgáltatás díjának megállapítására vonatkozó szabályokat,
 - m) a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a hőmennyiségmérők és a költségmegosztók alkalmazására vonatkozó szabályokat;
@@ -852,7 +836,7 @@ megállapodásokat.
 
 (4)
 
-(5) A Hivatal elnöke rendeletben állapítja meg az engedélyes és az értékesítő által rendszeres és rendkívüli adatszolgáltatás keretében szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét.
+(5) A Hivatal elnöke rendeletben állapítja meg az engedélyes és az értékesítő által rendszeres és rendkívüli adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait.
 
 61. § (1) E törvény – a (2) bekezdésben foglaltak kivételével – 2005. július 1-jén lép hatályba.
 

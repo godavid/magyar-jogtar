@@ -135,7 +135,7 @@ figyelembevételével kell számítani.
 
 16. § A Szövetség az e törvényben és az Fbkt.-ben előírt földgáz biztonsági készletezési tevékenységen kívül, csak az azzal összefüggő – a Szövetség Alapszabályában (a továbbiakban: alapszabály) meghatározott – tevékenységek gyakorlására jogosult.
 
-17. § (1) A Szövetség a miniszter által jóváhagyott alapszabály alapján működik.
+17. § (1) A Szövetség a miniszter által közzétett alapszabály alapján működik.
 
 (2) Az alapszabályban meg kell határozni:
 
@@ -158,9 +158,9 @@ figyelembevételével kell számítani.
 - n)
 - o) mindazokat a kérdéseket, amelyeket e törvény és az Fbkt. kötelezően előír.
 
-(3) Az alapszabályt a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a Szövetség honlapján közzé kell tenni.
+(3) Az alapszabályt a Szövetség honlapján közzé kell tenni.
 
-(4) Az alapszabály és annak módosítása a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételtől kezdődően alkalmazandó.
+(4) Az alapszabály és annak módosítása a közzétételtől kezdődően alkalmazandó.
 
 18. § A Szövetség szervei a közgyűlés, az igazgatótanács, a felügyelő bizottság és az igazgatóság.
 
@@ -199,7 +199,7 @@ figyelembevételével kell számítani.
 - a) a közgyűlés elé terjeszti a Szövetség éves költségvetési tervét,
 - b) a közgyűlés elé terjeszti a Szövetség előző évi költségvetésének végrehajtásáról szóló beszámolót,
 - c) javaslatot tesz a közgyűlésnek a Szövetséget megillető, az éves költségvetésben elért bevételi többlet vagy kiadási megtakarítás felhasználására,
-- d) jóváhagyja a Szövetség üzletszabályzatát,
+- d)
 - e) javaslatot tesz a közgyűlésnek e törvényben meghatározott feladatainak ellátásához szükséges hitel felvételére,
 - f) felügyeli az igazgatóság tevékenységét,
 - g) megbízást adhat az e törvényben meghatározott ellenőrzés folytatására,
@@ -258,9 +258,9 @@ figyelembevételével kell számítani.
 31. § Az igazgató
 
 - a) ellátja a Szövetség ügyvezetését és gyakorolja a munkáltatói jogokat,
-- b) elkészíti a Szövetség éves költségvetésének, és annak végrehajtásáról szóló beszámoló tervezetét, és azt az igazgatótanács elé terjeszti,
+- b) elkészíti a Szövetség éves költségvetési tervét, valamint az éves beszámoló tervezetét, és azt az igazgatótanács elé terjeszti,
 - c) határoz a Szövetség azon ügyeiben, amelyek más szerv hatáskörébe nem tartoznak,
-- d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszternek és az államháztartásért felelős miniszternek a Szövetség éves költségvetését és annak végrehajtásáról szóló beszámolót,
+- d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszternek és az államháztartásért felelős miniszternek a Szövetség éves költségvetését, valamint az éves beszámolót,
 - e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget,
 - f) megbízást ad a tagvállalatok, valamint a készletek ellenőrzésére.
 
@@ -286,7 +286,7 @@ figyelembevételével kell számítani.
 
 (5) A Szövetség az éves költségvetés alapján meghatározza a termékcsoportonkénti egységnyi tagi hozzájárulás mértékét.
 
-(6) A termékcsoportonkénti tagi hozzájárulás mértékét a miniszter a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.
+(6) A termékcsoportonkénti tagi hozzájárulás mértékéről a Szövetség a minisztert tájékoztatja.
 
 34. § (1) A következő évi költségvetést az igazgatóság november 30-ig készíti el, amelyet a közgyűlés hagy jóvá.
 
@@ -320,7 +320,7 @@ figyelembevételével kell számítani.
 
 39. § (1) A nem teljesített fizetési kötelezettség esedékességének időpontjától számított nyolc napon belül a Szövetség nyolcnapos fizetési határidő kitűzésével fizetési felszólítást küld a tag részére.
 
-(2) A felszólítás eredménytelensége esetén a Szövetség – a felszólítás megtörténtének igazolása mellett – kezdeményezi a tagi hozzájárulás, továbbá a késedelmi kamata adók módjára történő behajtását az adó- és vámhatóságnál.
+(2) A felszólítás eredménytelensége esetén a Szövetség kezdeményezi a tagi hozzájárulás, továbbá a késedelmi kamata adók módjára történő behajtását az adó- és vámhatóságnál.
 
 (3) A Szövetséggel szemben fennálló tartozásra befizetett vagy behajtott összeget a késedelmi kamatra, a felmerült költségekre, ezt követően a tagi hozzájárulásra kell elszámolni.
 
@@ -332,7 +332,7 @@ figyelembevételével kell számítani.
 
 - a) az adóraktár engedélyese, a bejegyzett kereskedő, az eseti bejegyzett kereskedő, illetve az importáló a kőolajterméket a jövedéki adóról szóló törvény rendelkezései szerint szabad forgalomba bocsátja,
 - b) a jövedéki engedélyes kereskedő, illetve a felhasználói engedélyes az Európai Unió más tagállamában szabad forgalomba bocsátott kőolajterméket e tagállamból beszerez,
-- c) az adóraktár engedélyese a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék előállításához történő felhasználást,
+- c) az adóraktár engedélyese a kőolajterméket az adóraktáron belül felhasználja, kivéve a jövedéki termék előállításához és minőség-ellenőrzés céljára történő felhasználást,
 - d) az adóraktár engedélyese a kőolajterméket a víziközlekedésről szóló törvény szerinti gazdasági célú hajózási tevékenységet végző hajók (ideértve a kompot is) üzemanyagtartályába betölti,
 - e) az adóraktár engedélyese a kőolajterméket a légiközlekedési tevékenységet végző légi jármű üzemanyagtartályába betölti.
 
@@ -347,7 +347,7 @@ figyelembevételével kell számítani.
 41. § (1) Az alapszabályban meghatározott feltételekkel visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek után bevallott tagi hozzájárulásnak az a része, amelyet a tag igazoltan
 
 - a) katonai célra hoz be, használ fel vagy értékesít közvetlenül a végső felhasználó számára,
-- b) gazdasági célú légiközlekedési tevékenységet végző szervezet nemzetközi légiforgalomban részt vevő – külföldi vagy magyar lajstromjelű – légijárművek üzemeltetésére használ fel, vagy számára ilyen célra értékesítenek, vagy a légitársaság saját felhasználásra tartalékol,
+- b) nem magáncélú légiközlekedési tevékenységet végző szervezet nemzetközi légiforgalomban részt vevő – külföldi vagy magyar lajstromjelű – légijárművek üzemeltetésére használ fel, vagy számára ilyen célra értékesítenek, vagy a légitársaság saját felhasználásra tartalékol,
 - c) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
 
 (2) Az alapszabályban meghatározottak szerint, az ott rögzített feltételek fennállása esetén a tag évente kérelmet terjeszthet elő a Szövetséghez, amely alapján a Szövetség igazgatója engedélyezheti, hogy a tag az (1) bekezdés szerinti esetekben a kőolajtermékek után fizetendő tagi hozzájárulás összegét havonta csökkentse a visszaigényelhető tagi hozzájárulás összegével.
@@ -380,17 +380,19 @@ figyelembevételével kell számítani.
 
 #### 11. Együttműködés a NAV-val, a MEKH-hel és a Központi Statisztikai Hivatallal
 
-44. § (1) A Szövetség megkeresésére a NAV, a MEKH és a Központi Statisztikai Hivatal a rendelkezésére álló adatok alapján tájékoztatást ad
+44. § (1) A NAV a rendelkezésére álló adatok alapján havonta elektronikus úton tájékoztatást ad a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, hajók és légi járművek üzemanyagtartályba betöltött, kivitt, szabad forgalomból visszavont – a törvény hatálya alá tartozó termékkör vonatkozásában – kőolajtermékek mennyiségéről.
+
+(2) A Szövetség megkeresésére a NAV, a MEKH és a Központi Statisztikai Hivatal a rendelkezésre álló adatok alapján tájékoztatást ad
 
 - a) a biztonsági készlet mértékének meghatározásához,
-- b) a tagi hozzájárulás befizetésének ellenőrzéséhez,
+- b) a tagi hozzájárulás befizetésének, visszaigénylésének ellenőrzéséhez,
 - c) a Szövetség adatszolgáltatási kötelezettségének teljesítéséhez
 
-a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, hajók és légi járművek üzemanyag-tartályba betöltött, kivitt, szabad forgalomból visszavont – a törvény hatálya alá tartozó termékkörbe tartozó – kőolaj és kőolajtermékek mennyiségéről.
+az e törvény, valamint az Fbkt. hatálya alá tartozó termékkör vonatkozásában, a tagi hozzájárulás köteles termékek és a kőolaj mennyiségéről.
 
-(2) A Központi Statisztikai Hivatal adatszolgáltatása nem terjedhet ki a statisztikáról szóló törvény szerinti egyedi adatokra.
+(3) A Központi Statisztikai Hivatal adatszolgáltatása nem terjedhet ki a hivatalos statisztikáról szóló törvény szerinti egyedi adatokra.
 
-(3) A Szövetség az ellenőrzési tevékenysége során szerzett adatokat a NAV rendelkezésére bocsátja.
+(4) A Szövetség az ellenőrzési tevékenysége során szerzett adatokat a NAV és a MEKH megkeresésére rendelkezésükre bocsátja.
 
 #### 12. A Szövetség felügyelete, ellenőrzés
 
@@ -475,77 +477,19 @@ rendeletben állapítsa meg.
 
 ### 1. melléklet a 2013. évi XXIII. törvényhez
 
-A kőolaj és kőolajtermékek behozott mennyiségének számítása
+#### A kőolaj és kőolajtermékek behozott átlagos napi mennyiségének számítása
 
-1. A referencia évben behozott mennyiség számítása során figyelembe vehető finomítói alapanyagok és kőolajtermékek:
-
-1.1. Finomítói alapanyagok: nyersolaj, földgáz-kondenzátumok (NGL), finomítói nyersanyagok, adalékok, oxigenátok, egyéb szénhidrogének.
-
-1.2. Kőolajtermékek: finomítói gáz (nem cseppfolyósított), etán, cseppfolyós gáz (LPG), motorbenzin, repülőbenzin, benzin típusú sugárhajtómű-üzemanyag, kerozin típusú sugárhajtómű-üzemanyag, egyéb kerozin, motorikus gázolaj/dízelolaj, háztartási és egyéb tüzelőolaj, fűtőolaj – alacsony kéntartalmú (1%-nál alacsonyabb), fűtőolaj – magas kéntartalmú (1%-nál magasabb), lakkbenzin és más speciális benzin, kenőanyagok, bitumen, paraffinviaszok, petrolkoksz, egyéb finomítói termékek.
-
-2. Az átlagos napi nettó kőolaj- és kőolajtermék behozatal számítása kőolaj-egyenértékben
-
-| A = | (a – b + c) × g (d – e + f) × 1,065 |
-| --- | --- |
-| 365 |
-
-ahol:
-
-A = az átlagos napi nettó kőolaj és kőolajtermék behozatal kőolaj-egyenértékben kifejezve
-
-a = az 1.1. pont szerinti finomítói alapanyagok behozatalának mennyisége a referencia évben tonna mértékegységben
-
-b = az 1.1. pont szerinti finomítói alapanyagok kivitelének mennyisége a referencia évben tonna mértékegységben
-
-c = az 1.1. pont szerinti finomítói alapanyagok készleteiben bekövetkezett változások a referencia évben (nyitó készlet mínusz záró készlet) tonna mértékegységben (a kőolaj és kőolajtermékek készleteiben bekövetkezett változásoknál figyelembe kell venni a kereskedelmi és a biztonsági kőolajkészletek változását)
-
-d = az 1.2. pont szerinti kőolajtermékek behozatalának mennyisége a referencia évben tonna mértékegységben
-
-e = az 1.2. pont szerinti kőolajtermékek kivitelének mennyisége a referencia évben tonna mértékegységben
-
-f = az 1.2. pont szerinti kőolajtermékek készleteiben bekövetkezett változások a referencia évben (nyitó készlet mínusz záró készlet) tonna mértékegységben
-
-g = amennyiben a hazai vegyipari benzin feldolgozási nettó (a vegyipari termelésből a finomításba visszajövő anyagárammal csökkentett) hozam éves átlagos értéke („h”)
-
-– nem haladja meg a 7%-ot: 96%;
-
-– amennyiben meghaladja a 7%-ot: (100%-h).
-
-E rendelkezés alkalmazásában:
-
-a) belföldre behozott mennyiség
-
-1. az Európai Unió más tagállamából belföldi felhasználásra, forgalmazásra vagy raktározásra,
-
-2. a harmadik országból belföldi rendeltetéssel behozott és vámkezelt,
-
-b) külföldre kivitt mennyiség
-
-1. jogszabály rendelkezései szerint igazoltan az Európai Unió más tagállamába kiszállított,
-
-2. a NAV által igazoltan harmadik országba kiléptetett
-
-kőolaj és kőolajtermék mennyisége,
-
-c) kereskedelmi kőolajkészlet: azon kőolaj- és kőolajtermék készlet, amely nem minősül a 2009/119/EK tanácsi irányelv szerint kötelezően tárolandó kőolajkészletnek, kivéve a technológiai készlet;
-
-A közúti, vízi- vagy légi jármű, a kötöttpályás, illetve vasúti szerelvény vontatására alkalmas erőgép üzemanyag tartályába töltött üzemanyag mennyiség behozatala, illetve kivitele e törvény alkalmazásában nem minősül behozatalnak, illetve kivitelnek.
-
-3. A biztonsági kőolajkészlet referencia évre vonatkozó mennyiségének számítása során csak a kőolajtermékbe kevert bioüzemanyagok (ide értve a biomassszát) és adalékok vehetők figyelembe.
-
-E pont alkalmazásában:
-
-a) adalék: olyan szénhidrogént nem tartalmazó vegyület, amely egy kőolajtermékhez hozzáadva vagy azzal elvegyítve megváltoztatja a kőolajtermék tulajdonságait;
-
-b) bioüzemanyag: a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény (a továbbiakban: Büat.) 1. § 1. pontjában meghatározott termék;
-
-c) biomassza: a Büat. 1. § 3. pontjában meghatározott termék;
-
-d) technológiai készlet: olyan csővezetékben, finomítói technológiai üzemben található nyersolaj- vagy kőolajtermék készlet, amely a finomító rendeltetésszerű működését biztosítja.
-
-4. A biztonsági kőolajkészlet referencia évre vonatkozó mennyiségének számítása során a nemzetközi tartályhajókon szállított kőolaj- és kőolajtermék mennyiséget figyelmen kívül kell hagyni.
-
-E pont alkalmazásában „nemzetközi tartályhajón szállított mennyiség” az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet A. melléklet 2.1. pontjában meghatározott, a nemzetközi hajózásban részt vevő valamennyi lobogó alatt hajózó hajón szállított üzemanyag-mennyiség. A nemzetközi hajózás történhet tengeren, belföldi tavakon és vízi utakon, továbbá parti vizeken. Nem tartoznak ide a belföldi hajózásban részt vevő hajók.
+- 1. A behozott kőolaj és kőolajtermék mennyiségének meghatározása Qbehozott_napi = ((Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletváltozás – Qvegyipari_benzin_korrekció) + (Qkőolajtermék_nettó_import + Qkőolajtermék_készletváltozás) * 1,065) / T
+- 2. ahol:
+- 2.1. Qfinomítói_alapanyag_nettó_import: az energiastatisztikáról szóló 1099/2008/EK rendelet A. melléklete 3.4. pontjában meghatározott nyersolaj, földgáz-kondenzátumok, finomítói nyersanyagok, adalékok, oxigenátok és egyéb szénhidrogének referencia évi nettó behozatali mennyisége (toe);
+- 2.2. Qfinomítói_készletváltozás: a finomítói alapanyag kereskedelmi és biztonsági készletek évi nyitó és záró mennyiségének különbözete (toe), amely során nem számítható be az a technológiai készlet, amely a finomító rendeltetésszerű működését biztosítja;
+- 2.3. Qvegyipari_benzin_korrekció: a hazai átlagos vegyipari benzin kihozatalnak megfelelő korrekció, melynek értéke, ha a hazai átlagos vegyipari benzin kihozatal mértéke a felhasznált finomítói alapanyagokra vetítetten a 7%-ot
+- 2.3.1. nem haladja meg: a Qfinomítói_alapanyag_nettó_import + Qfinomítói_készletváltozás 4%-a,
+- 2.3.2. meghaladja: az Igazgatótanács – a 3. § (4) bekezdés figyelembevételével meghozott – döntése alapján a hazai vegyipari benzin fogyasztás tényleges mennyisége (toe) vagy a hazai vegyipari benzin kihozatal átlagos értéke (%);
+- 2.4. Qkőolajtermék_nettó_import: az energiastatisztikáról szóló 1099/2008/EK rendelet A. melléklete 3.4. pontjában meghatározott nem cseppfolyósított finomítói gáz, etán, propán-bután gázok, motorbenzin, repülőbenzin, benzin típusú sugárhajtó-üzemanyag, kerozin típusú sugárhajtó-üzemanyag, egyéb kerozin, gázolaj/dízelolaj, fűtőolaj, lakkbenzin és speciálbenzin, kenőanyagok, bitumen, paraffinviaszok, petrolkoksz, egyéb termékek referencia évi nettó behozatali mennyisége (toe);
+- 2.5. Qkőolajtermék_készletváltozás: a kőolajtermék kereskedelmi és biztonsági készletek referencia évi nyitó és záró mennyiségének különbözete (toe), amely során nem számítható be az a technológiai készlet, amely a finomító rendeltetésszerű működését biztosítja;
+- 2.6. T: a referencia év napjainak száma;
+- 2.7. nettó behozatali mennyiség: az Európai Unió más tagállamából belföldi felhasználásra, forgalmazásra, vagy raktározásra behozott, valamint a harmadik országból belföldi rendeltetéssel behozott és vámkezelt mennyiség és az Európai Unió más tagállamába kiszállított, valamint a NAV által igazoltan harmadik országba kiléptetett mennyiség különbözete; ide nem értve a közúti, vízi- vagy légi jármű, a kötöttpályás és vasúti szerelvény vontatására alkalmas erőgép üzemanyag tartályába töltött üzemanyag mennyiségeket.
 
 ### 2. melléklet a 2013. évi XXIII. törvényhez
 
@@ -567,7 +511,7 @@ E pont alkalmazásában „nemzetközi tartályhajón szállított mennyiség”
   - a) a kőolajtermékbe kevert, vagy
   - b) a Magyarországon tárolt, kőolajtermékhez kevert és a közlekedésben alkalmazott bioüzemanyagok (ide értve a biomassszát) és adalékok vehetők figyelembe. E pont alkalmazásában:
   - a) adalék: olyan szénhidrogént nem tartalmazó vegyület, amely egy kőolajtermékhez hozzáadva vagy azzal elvegyítve megváltoztatja a kőolajtermék tulajdonságait;
-  - b) bioüzemanyag: a Büat. 1. § 1. pontjában meghatározott termék;
+  - b) bioüzemanyag: a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény (a továbbiakban: Büat.) 1. § 1. pontjában meghatározott termék;
   - c) biomassza: a Büat. 1. § 3. pontjában meghatározott termék.
 - 4. A kőolajkészletezési kötelezettség nem teljesíthető olyan kőolaj, illetve kőolajtermék mennyiséggel,
   - a) amelynek kitermelésére még nem került sor,
