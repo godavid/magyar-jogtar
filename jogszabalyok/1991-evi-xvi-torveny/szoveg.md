@@ -20,9 +20,11 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 ### A koncessziós pályázat
 
-4. § (1) A koncessziós szerződés megkötésére – a szerződésnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (3) bekezdése szerinti meghosszabbítását, valamint a 10/C. §, továbbá a 10/D. § szerinti megkötését kivéve – az állam vagy az önkormányzat pályázatot köteles kiírni. A pályázat – kivéve, ha honvédelmi vagy nemzetbiztonsági érdek a pályázat zárkörű kiírását teszi szükségessé – nyilvános.
+4. § (1) A koncessziós szerződés megkötésére – a szerződésnek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. § (3) bekezdése szerinti meghosszabbítását, valamint a 10/C. §, továbbá a 10/D. § szerinti megkötését kivéve – az állam vagy az önkormányzat pályázatot köteles kiírni. A pályázat – kivéve, ha a (2) vagy a (3) bekezdésben meghatározott feltétel a pályázat zárkörű kiírását teszi szükségessé – nyilvános.
 
-(2) A zártkörű pályázat kiírását szükségessé tevő honvédelmi, illetőleg nemzetbiztonsági érdekekről az illetékes miniszter az Országgyűlés illetékes bizottságai véleményének meghallgatása után dönt.
+(2) Ha a honvédelmi vagy nemzetbiztonsági érdek a pályázat zárkörű kiírását teszi szükségessé, a zártkörű pályázat kiírását szükségessé tevő honvédelmi, illetve nemzetbiztonsági érdekekről az illetékes miniszter az Országgyűlés illetékes bizottságai véleményének meghallgatása után dönt.
+
+(3) Ha a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés alapján a tulajdonszerzésre még nem került sor, az önkormányzat a törzsvagyon részét képező tereken, parkokon és egyéb közterületeken létesített építmény tekintetében köteles zártkörű pályázatot kiírni. Zártkörű pályázat esetén érdekeltnek kell tekinteni a hatályos építésügyi hatósági engedély engedélyesét.
 
 5. § (1) Az állam nevében a pályázat kiírására, elbírálására és a koncessziós szerződés megkötésére – az állami vagyon felügyeletéért felelős miniszter egyetértésével – a tevékenység tárgya szerint illetékes ágazati miniszter jogosult.
 
@@ -141,7 +143,11 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 11. § Ha a koncessziós szerződés megkötésére nem a 10/C. §-ban vagy a 10/D. §-ban foglaltak szerint kerül sor, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv csak azzal a pályázóval köthet szerződést, aki a pályázatot megnyerte. A pályázat nyertese az, aki összességében az állam, illetőleg az önkormányzat számára a kiírásnak megfelelő legkedvezőbb ajánlatot tette.
 
-12. § (1)–(2)
+11/A. § Ha e törvény 4. § (3) bekezdése alapján lefolytatott pályázat eredményes, a koncessziós szerződés megkötésével egyidejűleg a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés megszűnik.
+
+12. § (1)
+
+(2)
 
 (3) A koncessziós szerződést a kikötött időpont előtt csak a 17. § (2) bekezdésben, a 20. § (1) bekezdésben és a 21. § (3) bekezdésben meghatározott esetben, valamint a szerződésben előre rögzített feltételek bekövetkezésekor lehet felmondani.
 
@@ -224,3 +230,5 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 (6) E törvény hatályba lépését megelőzően engedélyezett koncessziós vagy koncessziós jellegű tevékenységet a törvény hatályba lépésekor folytató személyek vagy szervezetek — amennyiben az ágazati törvény másként nem rendelkezik — változatlan feltételekkel folytathatják.
 
 30. § Felhatalmazást kap a Kormány, hogy a megbízható dohánykereskedővel vagy e személy legalább többségi tulajdonában álló gazdasági társasággal az ágazati törvényben meghatározott dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékét és fizetési ütemezését rendeletben meghatározza.
+
+31. § E törvény 11/A. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
