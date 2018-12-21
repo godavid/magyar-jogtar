@@ -286,7 +286,7 @@ b) a vízkivételt biztosító vízilétesítmények engedélyezési eljárása 
 
 (3) A 15–18. §, valamint az 41–46. § és az 1. melléklet 2018. május 10-én lép hatályba.
 
-(4) A 3. § (3) bekezdése, az 5. §, a 7. §, a 8. § (3) bekezdése és a 19. § 2019. január 1-jén lép hatályba.
+(4) A 3. § (3) bekezdése, az 5. § és a 19. § 2020. január 1-jén lép hatályba.
 
 94. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

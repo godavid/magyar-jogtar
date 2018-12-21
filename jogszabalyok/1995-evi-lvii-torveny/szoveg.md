@@ -886,10 +886,7 @@ csak írásban terjeszthető elő.
 - a) a kivitelező kétséget kizáróan bizonyítja, hogy a jogellenes létesítésért való felelősség nem őt terheli, vagy
 - b) a kivitelező személye nem ismert.
 
-(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő, aki 2018. január 1-jét megelőzően engedély nélkül vagy engedélytől eltérően létesített vízkivételt biztosító vízilétesítményt, ha
-
-- a) a vízjogi fennmaradási engedélyezési eljárást 2018. december 31-ig kérelmezi, és
-- b) az engedély megadásának feltételei fennállnak.
+(7) Mentesül a vízgazdálkodási bírság megfizetése alól az a létesítő vagy üzemeltető, aki az egyes belügyi tárgyú és más kapcsolódó törvények módosításáról szóló 2018. évi CXXI. törvény (a továbbiakban: Vgtv.mód2.) hatálybalépését megelőzően engedély nélkül vagy engedélytől eltérően létesített vagy üzemeltet felszín alatti vízkivételt biztosító vízilétesítményt, ha a vízjogi fennmaradási engedélyezési eljárást 2020. december 31-ig kérelmezi.
 
 (8) Nem szabható ki vízgazdálkodási bírság
 
@@ -1396,6 +1393,8 @@ való megfelelést szolgálja.
 (4) A közalkalmazott és a vezető Vgtv. mód.-dal megállapított 13/G. § rendelkezései szerinti szabadságát úgy kell megállapítani, hogy az nem lehet kevesebb a közalkalmazott 2017. évre járó szabadságánál.
 
 (5) A közalkalmazott és a vezető a Kjt. 39. § (3) és (4) bekezdése szerinti címek viselésére 2018. január 1-jét követően is jogosult.
+
+45/M. § E törvénynek a Vgtv.mód2.-vel megállapított 29. § (7) bekezdését a Vgtv.mód2. hatálybalépésekor első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell.
 
 ### 1. számú melléklet az 1995. évi LVII. törvényhez
 

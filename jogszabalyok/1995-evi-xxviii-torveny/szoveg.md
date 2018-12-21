@@ -65,11 +65,19 @@ Az Országgyűlés annak érdekében, hogy elősegítse a nemzetgazdaság szerep
 
 (4) A nemzeti szabványjelet a szabványnak való megfelelőség jelölésére, a jelhasználat rendjének betartása esetén, bárki alkalmazhatja.
 
+### A Műszaki Szabályozási Bizottság
+
+6/A. § (1) A Műszaki Szabályozási Bizottság (a továbbiakban: MSZB) a 8. § (1) bekezdés 16. pontjában foglalt feladatok ellátása céljából létrehozott bizottság.
+
+(2) Az MSZB legfeljebb öt tagból áll és tagjai közül öt év időtartamra választja meg az elnökét. Az MSZB tagjait a Magyar Szabványügyi Testület (a továbbiakban: MSZT) javaslatára öt év időtartamra az iparügyekért felelős miniszter (a továbbiakban: miniszter) bízza meg.
+
+(3) Az MSZB ügyrendjét egyszerű szótöbbséggel maga határozza meg, amely a miniszter jóváhagyását követően válik hatályossá.
+
 ### A Magyar Szabványügyi Testület
 
-7. § (1) Magyarország nemzeti szabványügyi szervezete a Magyar Szabványügyi Testület (a továbbiakban: MSZT).
+7. § (1) Magyarország nemzeti szabványügyi szervezete az MSZT.
 
-(2) Az MSZT köztestület (Ptk. 65. §), amely az alapszabályának megfelelően működik. Köztestületként a nemzeti szabványosítással összefüggő közfeladatokat kizárólagos jogkörrel látja el e törvény felhatalmazása alapján.
+(2) Az MSZT köztestület, amely az alapszabályának megfelelően működik. Köztestületként a nemzeti szabványosítással összefüggő közfeladatokat kizárólagos jogkörrel látja el e törvény felhatalmazása alapján.
 
 (3)
 
@@ -77,22 +85,23 @@ Az Országgyűlés annak érdekében, hogy elősegítse a nemzetgazdaság szerep
 
 8. § (1) Az MSZT feladatai:
 
-- a) a nemzeti szabványok kidolgozása, illetve kidolgoztatása, jóváhagyása és közzététele, módosítása és visszavonása,
-- b) az európai szabványok nemzeti szabványként való közzététele, összhangban a kapcsolódó jogharmonizációs feladatok teljesítésével, illetve az európai szabványügyi szervezetek tagszervezetei számára előírt határidőkkel,
-- c) a nemzetközi szabványok nemzeti szabványként való közzététele,
-- d) a nemzeti szabványosítás módszertanának kidolgozása és egyeztetése a szabványosításban érdekeltekkel,
-- e) részvétel és képviselet a nemzetközi és az európai szabványügyi szervezetek munkájában, illetőleg más érintett szervek részvételének összehangolása,
-- f) – külön jogszabályban foglaltaknak megfelelően – együttműködés az európai szabványügyi szervezetekkel és az Európai Unió tagállamai nemzeti szabványügyi testületeivel az európai közösségi szabályozásból eredő kötelezettségek végrehajtása érdekében,
-- g) szaktanácsadás és szakvélemény készítése nemzeti szabványügyi kérdésekben,
-- h) a nemzeti szabványosítással összefüggő kiadványok összeállítása és kiadása,
-- i) a nemzeti szabványjel használati rendjének kidolgozása és kiadása,
-- j) a nemzeti szabványosítással összefüggő nemzetközi és európai jelek használati rendjének honosítása és kiadása,
-- k) a termékek, szolgáltatások nemzeti szabványnak való megfelelőség tanúsítási rendszerének létrehozása és működtetése,
-- l) közreműködés a jogszabálynak vagy egyéb előírásnak való megfelelőség tanúsításában,
-- m) tanúsítási rendszer létrehozása a minőségbiztosítási rendszerek tanúsítására a vonatkozó szabványok szerint,
-- n) felkérésre közreműködik az Európai Unió irányelvein alapuló magyar jogszabályok előkészítésében,
-- o) a nemzeti szabványosítási programról a kijelölt miniszter útján folyamatos tájékoztatás a Kormány részére,
-- p) mindazon további feladatok ellátása, amelyeket külön törvény vagy törvény alapján az alapszabály a feladatkörébe utal,
+- 1. a nemzeti szabványok kidolgozása, illetve kidolgoztatása, jóváhagyása és közzététele, módosítása és visszavonása,
+- 2. az európai szabványok nemzeti szabványként való közzététele, összhangban a kapcsolódó jogharmonizációs feladatok teljesítésével, illetve az európai szabványügyi szervezetek tagszervezetei számára előírt határidőkkel,
+- 3. a nemzetközi szabványok nemzeti szabványként való közzététele,
+- 4. a nemzeti szabványosítás módszertanának kidolgozása és egyeztetése a szabványosításban érdekeltekkel,
+- 5. részvétel és képviselet a nemzetközi és az európai szabványügyi szervezetek munkájában, továbbá más érintett szervek részvételének összehangolása,
+- 6. jogszabályban foglaltaknak megfelelően együttműködés az európai szabványügyi szervezetekkel és az Európai Unió tagállamai nemzeti szabványügyi testületeivel az európai közösségi szabályozásból eredő kötelezettségek végrehajtása érdekében,
+- 7. szaktanácsadás és szakvélemény készítése nemzeti szabványügyi kérdésekben,
+- 8. a nemzeti szabványosítással összefüggő kiadványok összeállítása és kiadása,
+- 9. a nemzeti szabványjel használati rendjének kidolgozása és kiadása,
+- 10. a nemzeti szabványosítással összefüggő nemzetközi és európai jelek használati rendjének honosítása és kiadása,
+- 11. a termékek, szolgáltatások nemzeti szabványnak való megfelelőség tanúsítási rendszerének létrehozása és működtetése,
+- 12. közreműködés a jogszabálynak vagy egyéb előírásnak való megfelelőség tanúsításában,
+- 13. tanúsítási rendszer létrehozása a minőségbiztosítási rendszerek tanúsítására a vonatkozó szabványok szerint,
+- 14. az Európai Unió irányelvein alapuló magyar jogszabályok előkészítésében felkérés esetén közreműködés,
+- 15. a nemzeti szabványosítási programról a miniszter útján folyamatos tájékoztatás a Kormány részére,
+- 16. jogszabály által nem szabályozott műszaki előírások előkészítése, megalkotása, felülvizsgálata és az ezzel kapcsolatos feladatok ellátása, illetve koordinálása, valamint a működés és a feladatok ellátása egyéb feltételeinek biztosítása az MSZB útján a Műszaki Szabályozási Bizottságról szóló miniszteri rendeletben meghatározottak szerint,
+- 17. mindazon további feladatok ellátása, amelyeket törvény vagy törvény alapján az alapszabály a feladatkörébe utal.
 
 (2) Az (1) bekezdés a), b), c) pontjaiban foglalt feladatokat az MSZT a nemzeti szabványosító műszaki bizottságokon keresztül látja el.
 
@@ -126,7 +135,7 @@ Az Országgyűlés annak érdekében, hogy elősegítse a nemzetgazdaság szerep
 - c) a jogalkotáshoz kapcsolódó nemzeti szabványosítási igények kielégítését,
 - d) a jogszabály kiadására feljogosított szervek bevonását a 6. § (2) bekezdése szerinti nemzeti szabványok kidolgozásába,
 - e) a nemzeti szabványosítás területén a nemzetgazdasági érdekek képviseletének rendjét,
-- f) a nemzetközi, az európai szabványügyi szervezetekkel és az egyes tagországok nemzeti szabványügyi szervezeteivel való együttműködés rendjét, ide nem értve a 8. § (1) bekezdésének f) pontjában foglalt feladatok ellátását,
+- f) a nemzetközi, az európai szabványügyi szervezetekkel és az egyes tagországok nemzeti szabványügyi szervezeteivel való együttműködés rendjét, ide nem értve a 8. § (1) bekezdés 6. pontjában foglalt feladatok ellátását,
 - g) a nemzeti szabványok megalkotására, valamint jóváhagyására, módosítására és visszavonására vonatkozó eljárási rend kiadását,
 - h) ellentmondásmentes szabványrendszer kialakítását,
 - i) tanúsítási tevékenységében a nemzetközi és az európai tanúsítási szervezetek előírásainak érvényesülését,
@@ -324,6 +333,8 @@ Az MSZT a munkájáról szóló éves beszámolóját a Kormánynak is megküldi
 
 - a) a katonai szabványosításra vonatkozó sajátos szabályokat;
 - b) az európai szabványügyi szervezetekkel és az Európai Unió tagállamai nemzeti szabványügyi testületeivel való együttműködés részletes szabályait.
+
+40. § Felhatalmazást kap a miniszter, hogy rendeletben határozza meg az MSZB feladatkörére és működésére vonatkozó részletes szabályokat.
 
 ### 1. számú melléklet az 1995. évi XXVIII. törvényhez
 

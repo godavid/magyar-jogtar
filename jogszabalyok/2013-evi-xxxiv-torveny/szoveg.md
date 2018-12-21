@@ -141,7 +141,7 @@ egyetértésével nevezi ki.
 
 #### 5/A. A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per
 
-8/A. § A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított per a szerződés teljesítéséből eredő díjkövetelés érvényesítése iránt indított olyan per, amelyben a felperes az érvényesíteni kívánt jog alapjául a Teljesítésigazolási Szakértői Szerv szakvéleményére hivatkozik.
+8/A. § A Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben felperes az érvényesíteni kívánt jog alapjául a Teljesítésigazolási Szakértői Szerv szakvéleményére hivatkozik.
 
 8/B. § A polgári perrendtartásról szóló törvény rendelkezéseit a Teljesítésigazolási Szakértői Szerv szakvéleményére alapított perben a jelen alcímben meghatározott eltérésekkel kell alkalmazni.
 
