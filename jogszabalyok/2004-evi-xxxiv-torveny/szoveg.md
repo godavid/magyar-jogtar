@@ -44,7 +44,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 (3) Kapcsolódó vállalkozások azok, amelyek egymással az alábbiakban felsorolt valamely kapcsolatban állnak:
 
-- a) egy vállalkozás egy másik vállalkozás tulajdoni részesedésének (részvényeinek) vagy a szavazatának a többségével rendelkezik, vagy
+- a) egy vállalkozás egy másik vállalkozásban a szavazatok többségével rendelkezik, vagy
 - b) egy vállalkozás egy másik vállalkozásban jogosult arra, hogy a vezető tisztségviselők vagy a felügyelő bizottság tagjai többségét megválassza vagy visszahívja, vagy
 - c) egy vállalkozás egy másik vállalkozás felett a tulajdonosokkal (részvényesekkel) kötött szerződés vagy a létesítő okirat rendelkezése alapján – függetlenül a tulajdoni hányadtól, a szavazati aránytól, a megválasztási és visszahívási jogtól – döntő irányítást, ellenőrzést gyakorol, vagy
 - d) egy vállalkozás egy másik vállalkozásban – más tulajdonosokkal (részvényesekkel) kötött megállapodás alapján – a szavazatok többségét egyedül birtokolja.
@@ -126,7 +126,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 ### Kormányzati feladatok
 
-10. § A KKV-kkal kapcsolatos állami feladatokat a gazdaságpolitikáért felelős miniszter (a továbbiakban: miniszter) hangolja össze. Ennek körében
+10. § A KKV-kkal kapcsolatos állami feladatokat a gazdaságfejlesztésért felelős miniszter (a továbbiakban: miniszter) hangolja össze. Ennek körében
 
 - a) értékeli a KKV-k állami támogatásának hatékonyságát, valamint kidolgozza az értékelés módszertanát,
 - b) kidolgozza és jóváhagyásra a Kormány elé terjeszti a KKV-k fejlesztésének stratégiáját, a KKV-fejlesztési politika fő célkitűzéseit és javaslatokat tesz a KKV-k fejlesztését szolgáló intézkedésekre,
@@ -149,14 +149,9 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 - d) a jogsértésre a személyeknek koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportjához tartozó személlyel szemben került sor,
 - e) a vállalkozás megsérti a békéltető testületi eljárásban fennálló, a fogyasztóvédelemről szóló 1997. évi CLV. törvény 29. § (11) bekezdésében meghatározott együttműködési kötelezettségét.
 
-13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Magyar Nemzeti Bank elnöke, valamint a Közbeszerzési Hatóság elnöke minden év június 30-ig – az előző év adatai alapján – összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
+13. § Az elkülönített állami pénzalap és a központi költségvetésben meghatározott célelőirányzat kezelője, a Magyar Nemzeti Bank (a továbbiakban: MNB) elnöke, valamint a Közbeszerzési Hatóság elnöke összesített adatokat szolgáltat a miniszter részére a KKV-k részesedéséről a támogatásokból, a vállalkozói hitelekből és a közbeszerzésekből.
 
-14. § A Központi Statisztikai Hivatal (a továbbiakban: KSH) elnöke, az állami adóhatóság minden év szeptember 30-áig – az előző év adatai alapján – adatot szolgáltat a miniszter részére a KKV szektor helyzetéről és gazdálkodásáról a foglalkoztatottak létszáma szerinti alábbi bontásban:
-
-- a) 0–1 fő;
-- b) 2–9 fő;
-- c) 10–49 fő;
-- d) 50–249 fő.
+14. § A Központi Statisztikai Hivatal elnöke, az állami adóhatóság adatot szolgáltat a miniszter részére a KKV szektor helyzetéről és gazdálkodásáról.
 
 ### A Vállalkozásfejlesztési Tanács
 
@@ -175,13 +170,13 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 (2) A VfT tagja:
 
-- a) a Kormány által rendeletben kijelölt miniszterek egy-egy képviselője,
+- a) a Kormány tagjainak egy-egy képviselője,
 - b) az országos gazdasági kamarák elnökei vagy a helyettesítésükre meghatalmazott személy,
-- c) az Általános Fogyasztási Szövetkezetek és Kereskedelmi Társaságok Országos Szövetségének (ÁFEOSZ-COOP Szövetség), az Ipartestületek Országos Szövetségének (IPOSZ), a Kereskedők és Vendéglátók Országos Érdekképviseleti Szövetségének (KISOSZ), a Magyar Iparszövetségnek (OKISZ), a Munkaadók és Gyáriparosok Országos Szövetségének (MGYOSZ), a Vállalkozók és Munkáltatók Országos Szövetségének (VOSZ), a Fiatal Vállalkozók Országos Szövetségének (FIVOSZ), a Joint Venture Szövetségnek (JVSZ), a Magyar Vállalkozásfejlesztési Alapítványnak (MVA) és a Magyarok a Piacon Klubnak az elnöke vagy a helyettesítésére meghatalmazott személy.
+- c) az Általános Fogyasztási Szövetkezetek és Kereskedelmi Társaságok Országos Szövetségének (ÁFEOSZ-COOP Szövetség), az Ipartestületek Országos Szövetségének (IPOSZ), a Kereskedők és Vendéglátók Országos Érdekképviseleti Szövetségének (KISOSZ), a Magyar Iparszövetségnek (OKISZ), a Munkaadók és Gyáriparosok Országos Szövetségének (MGYOSZ), a Vállalkozók és Munkáltatók Országos Szövetségének (VOSZ), a Fiatal Vállalkozók Országos Szövetségének (FIVOSZ), a Joint Venture Szövetségnek (JVSZ), a Magyar Vállalkozásfejlesztési Alapítványnak (MVA), a Magyarok a Piacon Klubnak elnöke vagy a helyettesítésére meghatalmazott személy és a Kisvállalkozás-fejlesztési Alapítványnak (SEED) ügyvezető igazgatója vagy a helyettesítésére meghatalmazott személy.
 
 (3) Tanácskozási joggal vesznek részt a VfT munkájában:
 
-- a) a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke, a Magyar Bankszövetség elnöke, a Magyar Fejlesztési Bank vezérigazgatója, a Központi Statisztikai Hivatal elnöke, a Közbeszerzési Hatóság elnöke, a Magyar Innovációs Szövetség elnöke, a Magyar Gépipari és Energetikai Országos Szövetség (MAGEOSZ) és a Magyar Járműalkatrészgyártók Országos Szövetsége (MAJOSZ) elnöke vagy a helyettesítésére meghatalmazott személy,
+- a) a Magyar Bankszövetség elnöke, a Magyar Fejlesztési Bank vezérigazgatója, a Központi Statisztikai Hivatal elnöke, a Közbeszerzési Hatóság elnöke, a Magyar Innovációs Szövetség elnöke, a Magyar Gépipari és Energetikai Országos Szövetség (MAGEOSZ) és a Magyar Járműalkatrészgyártók Országos Szövetsége (MAJOSZ) elnöke vagy a helyettesítésére meghatalmazott személy,
 - b) a Nemzeti Gazdasági és Társadalmi Tanács Munkavállalói Oldalának két képviselője,
 - c) a miniszter által kijelölt vállalkozásfejlesztési szervezetek vezetői vagy a helyettesítésükre meghatalmazott személy,
 - d) a miniszter névre szóló felkérése alapján létrehozott szakmai tanácsadó testület tagjai,
@@ -197,7 +192,7 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 ### IV. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
-18. § Az e törvényben euróban meghatározott összegek forintra történő átszámításakor a Magyar Nemzeti Bank (a továbbiakban: MNB) által megállapított, a vállalkozás üzleti évének lezárásakor érvényes deviza középárfolyamot kell alkalmazni. Újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján érvényes, MNB által megállapított deviza középárfolyamot kell alkalmazni.
+18. § Az e törvényben euróban meghatározott összegek forintra történő átszámításakor az MNB által megállapított, a vállalkozás üzleti évének lezárásakor érvényes deviza középárfolyamot kell alkalmazni. Újonnan alapított vállalkozás esetén a tárgyévet megelőző év utolsó napján érvényes, MNB által megállapított deviza középárfolyamot kell alkalmazni.
 
 19. § E törvény alkalmazásában:
 
@@ -227,6 +222,6 @@ Az Országgyűlés a magyar gazdaság döntő részét kitevő, a foglalkoztatot
 
 (8) A 7. § (2) bekezdés u) pontja az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 8. cikk (2) bekezdésének való megfelelést szolgálja.
 
-21. § (1) Felhatalmazást kap a Kormány, hogy a támogatásokkal, a vállalkozói hitelekkel, a közbeszerzésekkel, a KKV szektor helyzetével, gazdálkodásával összefüggő, összesített adatokra vonatkozó adatszolgáltatás körét és rendjét rendeletben állapítsa meg és rendeletben jelölje ki a VfT-be képviselőt delegáló minisztereket.
+21. § (1) Felhatalmazást kap a Kormány, hogy a támogatásokkal, a vállalkozói hitelekkel, a közbeszerzésekkel, a KKV szektor helyzetével, gazdálkodásával összefüggő, összesített adatokra vonatkozó adatszolgáltatás körét és rendjét rendeletben állapítsa meg.
 
 (2)
