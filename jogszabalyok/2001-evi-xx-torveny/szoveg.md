@@ -204,7 +204,7 @@ kizárólag a 2. §-ban felsorolt feladataihoz kapcsolódóan, közvetlenül vag
 
 (1a) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 39. pontjától eltérően az (1) bekezdés alkalmazása során az MFB Zrt. tekintetében nem minősül ügyfélcsoportnak azoknak az ügyfeleknek a köre, amely ügyfelek kizárólag az MFB Zrt.-vel fennálló kapcsolatukra tekintettel képeznének egyetlen kockázati tényezőt.
 
-(2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 102. § (1) bekezdésében, 110. §, 112. § és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül.
+(2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül. Az MFB Zrt. esetében a Hpt. 100. § (1) bekezdésében foglaltakat nem kell alkalmazni, ha az MFB Zrt.-vel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogot megtestesítő értékpapír ügyfél általi megvásárlásával az MFB Zrt. és a vele szoros kapcsolatban álló vállalkozás között a szoros kapcsolat megszűnik.
 
 (2a) Az 575/2013/EU rendelet 114–134. cikkétől eltérően az MFB Zrt. esetében a hazai pénznemben denominált, uniós forrásokból alapok alapját végrehajtó szervezetként finanszírozott kitettségekhez 0%-os kockázati súlyt kell rendelni.
 
@@ -261,6 +261,10 @@ szerezhet.
 
 (3) Nem minősül banktitoknak a QUAESTOR Pénzügyi Tanácsadó Zártkörűen Működő Részvénytársaság, továbbá a közvetlen vagy közvetett részesedésével működő gazdasági társaságok 3. § (2) bekezdése szerinti ügyleteire vonatkozó szerződés, biztosítéki szerződés, az ügyletekhez kapcsolódó igényérvényesítési eljárások irata, valamint a döntés-előkészítés és a döntéshozatal során keletkezett irat és adat.
 
+(4) A végső kedvezményezett személyének és az ügylet összegének kivételével a banktitokkal azonos védelem alá esik az MFB Zrt. 2. § h) és q) pontja szerinti feladatköre, valamint a 3. § (3) bekezdése szerinti tevékenysége során a végső kedvezményezettről az MFB Zrt., valamint az általa megbízott pénzügyi közvetítő rendelkezésére álló minden tény, információ, megoldás vagy adat, amely a végső kedvezményezett adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, a benyújtott pályázatra, valamint az általa megvalósítandó projektre vonatkozik.
+
+(5) A (4) bekezdésben foglaltakat nem kell alkalmazni az MFB Zrt. európai uniós forrásból nyújtott pénzügyi eszközzel kapcsolatos és az Európai Unió szerveitől származó központi uniós forrásokból nyújtott támogatásokkal kapcsolatos adatok közzétételét előíró uniós jogi aktusok és jogszabályi rendelkezések által meghatározott adatok körére. Nem jelenti a (4) bekezdésben foglaltak sérelmét a 2. § h) és q) pontja szerinti tevékenységekkel összefüggésben ellenőrzésre jogosult szerv részére történő adatszolgáltatási kötelezettség teljesítése.
+
 10/B. § A Hpt. 159. §-a, 161. §-a és az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében szerinti titoktartási kötelezettség nem terjed ki – a Hpt. 159. § (3) bekezdésében és 161. § (2) bekezdésében meghatározottakon túlmenően – az MFB Zrt. és a Szövetkezeti Hitelintézetek Integrációs Szervezete (a továbbiakban: Integrációs Szervezet) által a miniszter által vezetett minisztérium részére, illetve az 1. mellékletben meghatározott és az MFB Zrt. közvetlen vagy közvetett tulajdoni részesedésével működő gazdálkodó szervezetek által, valamint az Integrációs Szervezet tagjai által az MFB Zrt. részére adott adatszolgáltatásra.
 
 ### V. Fejezet — AZ MFB ZRT. FELÜGYELETE
@@ -271,7 +275,7 @@ szerezhet.
 
 ### V/A. Fejezet — AZ MFB ZRT. EURÓPAI UNIÓS FORRÁSKEZELÉSI TEVÉKENYSÉGE
 
-11/A. § Az MFB Zrt. 2. § h) pontja szerinti feladatköre, valamint a 3. § (3) bekezdése szerinti tevékenysége esetében az európai strukturális és beruházási alapokból finanszírozott pénzügyi eszközök végrehajtása során az 1. § (7) bekezdése, valamint a 4. §, 8. §, 8/A. §, 9. §, 10/A. § és 11. § rendelkezései nem alkalmazandóak.
+11/A. § Az MFB Zrt. 2. § h) pontja szerinti feladatköre, valamint a 3. § (3) bekezdése szerinti tevékenysége esetében az európai strukturális és beruházási alapokból finanszírozott pénzügyi eszközök végrehajtása során az 1. § (7) bekezdése, valamint a 4. §, 8. §, 8/A. §, 9. § és 11. § rendelkezései nem alkalmazandóak.
 
 ### VI. Fejezet — AZ MFB ZRT. SZERVEZETE
 
@@ -392,7 +396,9 @@ szerezhet.
 
 22. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvénnyel megállapított 10/A. §-ban foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2014. évi LXXIX. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
 
-23. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvénnyel megállapított 10/A. § (3) bekezdésben foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
+23. § (1) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvénnyel megállapított 10/A. § (3) bekezdésben foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
+
+(2) Az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2018. évi CXXVIII. törvénnyel megállapított 10/A. § (4)–(5) bekezdésében foglaltakat az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2018. évi CXXVIII. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
 
 24. § E törvénynek az 1. mellékletben meghatározott gazdálkodó szervezetekre vonatkozó rendelkezéseit alkalmazni kell azon gazdálkodó szervezetekre is, amelyekben az MFB Zrt. az állami vagyonról szóló 2007. évi CVI. törvény felhatalmazása alapján kiadott miniszteri rendelet értelmében gyakorolja az állam nevében a tulajdonosi jogokat.
 
@@ -403,7 +409,7 @@ Az MFB Zrt. a 3. § (5) bekezdése alapján az állam nevében a következő gaz
 - 1. Garantiqa Hitelgarancia Zártkörűen Működő Részvénytársaság
 - 2. Diákhitel Központ Zártkörűen Működő Részvénytársaság
 - 3. Kisvállalkozás-fejlesztő Pénzügyi Zártkörűen Működő Részvénytársaság
-- 4. Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság
+- 4.
 - 5.
 - 6. Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 - 7. Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság
