@@ -165,7 +165,7 @@ lép.
 
 #### 31. §
 
-32. § Hatályát veszti az Eva törvény 10. § (1)–(2) bekezdése.
+#### 32. §
 
 #### 4. Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény módosítása
 
