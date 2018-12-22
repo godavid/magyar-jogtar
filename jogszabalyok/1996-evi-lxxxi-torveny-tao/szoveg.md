@@ -1689,7 +1689,7 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 (5) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 29/A. § (3)–(4) bekezdését a MÁV Magyar Államvasutak Zrt. és a MÁV-START Zrt. a 2014. évi adókötelezettségének megállapítása során is alkalmazhatja.
 
-(6) A 2014-ben kezdődő adóév utolsó napjáig keletkezett, és az adóalapnál még nem érvényesített elhatárolt veszteséget az adózó a 2014. december 31-én hatályos előírások szerint írhatja le azzal, hogy az elhatárolt veszteséget legkésőbb 2025. december 31. napját magában foglaló adóévben lehet az adózás előtti eredmény csökkentéseként érvényesíteni.
+(6) A 2014-ben kezdődő adóév utolsó napjáig keletkezett, és az adóalapnál még nem érvényesített elhatárolt veszteséget az adózó a 2014. december 31-én hatályos előírások szerint írhatja le azzal, hogy az elhatárolt veszteséget legkésőbb 2030. december 31. napját magában foglaló adóévben lehet az adózás előtti eredmény csökkentéseként érvényesíteni.
 
 (7) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 18. § (9) bekezdését első alkalommal a 2015. évben kezdődő adóévi adókötelezettség megállapítása során kell alkalmazni.
 

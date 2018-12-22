@@ -238,7 +238,7 @@ látja el.
 
 (2) Az alapító okiratot és annak módosítását az alapító szerv – az Országgyűlés vagy a Kormány által alapított költségvetési szerv alapító okiratát és annak módosítását az irányító szerv, minisztérium, a Miniszterelnöki Kormányiroda és a kormányhivatal alapító okiratát és annak módosítását a miniszterelnök – adja ki a kincstár által rendszeresített formanyomtatvány alkalmazásával. Az alapító okirat kiadására jogosult személy e tevékenységében nem helyettesíthető.
 
-(3) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv alapító okiratának kiadásához és módosításához – a miniszterelnök által kiadott alapító okirattal rendelkező költségvetési szerv és a honvédelemért felelős miniszter által alapított költségvetési szerv kivételével – az államháztartásért felelős miniszter előzetes egyetértése szükséges.
+(3) A Kormány irányítása vagy felügyelete alá tartozó, a miniszter által alapított költségvetési szerv – a miniszterelnök által kiadott alapító okirattal rendelkező költségvetési szerv és a honvédelemért felelős miniszter által alapított költségvetési szerv kivételével – alapító- és megszüntető okiratának kiadásához minden esetben, az alapító okirat módosításához a Kormány rendeletében meghatározott esetekben szükséges az államháztartásért felelős miniszter előzetes egyetértése.
 
 #### 7. A költségvetési szerv irányítása, felügyelete
 
@@ -632,7 +632,7 @@ szerinti bontásban,
 
 #### 19. A költségvetés elfogadását követő feladatok
 
-28. § (1) A fejezeti kezelésű előirányzatok, a központi kezelésű előirányzatok és az elkülönített állami pénzalapok költségvetési kiadási előirányzatai felhasználásának szabályait a fejezetet irányító szerv vezetője az államháztartásért felelős miniszter egyetértésével kiadott rendeletben, a központi költségvetés uniós fejlesztések fejezetébe sorolt fejezeti kezelésű előirányzatok felhasználási szabályait a Kormány rendeletben állapítja meg. Jogalkotási jog hiányában a fejezetet irányító szerv vezetője – az államháztartásért felelős miniszter egyetértésével – szabályzatot ad ki.
+28. § (1) A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok költségvetési kiadási előirányzatai felhasználásának szabályait a fejezetet irányító szerv vezetője az államháztartásért felelős miniszter egyetértésével kiadott rendeletben, a központi költségvetés uniós fejlesztések fejezetébe sorolt fejezeti kezelésű előirányzatok felhasználási szabályait a Kormány rendeletben állapítja meg. Jogalkotási jog hiányában a fejezetet irányító szerv vezetője – az államháztartásért felelős miniszter egyetértésével – szabályzatot ad ki.
 
 (2) Az (1) bekezdés szerinti rendeletben, belső szabályzatban a felhasználást – a költségvetési évre tekintet nélkül – mindaddig szabályozni kell, amíg annak eredeti vagy módosított kiadási előirányzatai terhére kifizetés teljesíthető.
 
@@ -713,6 +713,8 @@ a költségvetési évet követő három évre várható összegét.
   - be) az európai uniós források felhasználásához kapcsolódik vagy
   - bf) elkülönített állami pénzalap és fejezeti kezelésű előirányzat javára feladatátadással kapcsolatban szükséges.
 
+(3a) Az ugyanazon középirányító szerv irányítása alá tartozó költségvetési szervek közötti, a (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításról a középirányító szerv jogosult rendelkezni a fejezetet irányító szerv egyidejű tájékoztatása mellett.
+
 (4) A (3) bekezdés alapján
 
 - a) fejezeten belüli előirányzat-átcsoportosításra a fejezetet irányító szerv egyoldalú jognyilatkozata alapján,
@@ -720,7 +722,7 @@ a költségvetési évet követő három évre várható összegét.
 
 kerülhet sor.
 
-(5) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a (3) bekezdés a) pontja szerinti előirányzat-átcsoportosításhoz, ha az a Kormány irányítása alá tartozó fejezetek között történik, és a (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli és az ilyen fejezetek közötti előirányzat-átcsoportosításhoz.
+(5) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosításhoz. A Kormány irányítása alá tartozó fejezetek közötti, a (3) bekezdés a) pontja, valamint a (3) bekezdés b) pont ba) és bb) alpontja szerinti előirányzat-átcsoportosítás az államháztartásért felelős miniszter egyidejű tájékoztatása mellett történik.
 
 (6) A kincstár a központi költségvetésről szóló törvény szerinti szerkezetben és bontásban havonta közzéteszi a honlapján az államháztartás központi alrendszerébe tartozó költségvetési szervek, továbbá a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai eredeti előirányzatait, módosított előirányzatait, valamint teljesítési adatait.
 
@@ -968,7 +970,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 - b) az, aki a támogatási döntés időpontjában a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, megyei közgyűlés elnöke, főpolgármester, polgármester, regionális fejlesztési ügynökség vezető tisztségviselője,
 - c) az a) és b) pont szerinti személlyel közös háztartásban élő hozzátartozó,
 - d) – a nyilvánosan működő részvénytársaság kivételével – az a) és b) pont szerinti személy tulajdonában álló gazdasági társaság,
-- e) – az állam, a helyi önkormányzat, illetve a köztestület legalább 50%-os közvetlen vagy közvetett tulajdonában lévő gazdasági társaság, valamint a sportegyesület és a sportszövetség kivételével – az olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont szerinti személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
+- e) – az állam, a helyi önkormányzat, illetve a köztestület legalább 50%-os közvetlen vagy közvetett tulajdonában lévő gazdasági társaság, valamint a sportegyesület, a sportszövetség és a polgárőr szervezet kivételével – az olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont szerinti személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
 
 (2) Az (1) bekezdést nem kell alkalmazni
 
@@ -1017,7 +1019,11 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (3) A támogató a támogatási döntésre vonatkozó tájékoztatásban a támogatási szerződés megkötésének feltételeként előírhatja a támogatási szerződéskötést megelőzően közbeszerzési eljárás lefolytatását vagy a támogatási szerződésben a közbeszerzési eljárás megindításának előfeltételéül a közbeszerzési dokumentumok ellenőrzését és annak megindítását a támogató egyetértéséhez kötheti.
 
-52/A. § A 14. § (3) bekezdése szerinti fejezet terhére nyújtott költségvetési támogatást a folyósítását követő év december 31-éig lehet felhasználni. Ettől a Kormány egyedi határozata és a támogatási szerződés rövidebb határidőt, a központi költségvetésről szóló törvény eltérő időpontot is megállapíthat.
+52/A. § (1) A 14. § (3) bekezdése szerinti fejezet terhére nyújtott költségvetési támogatást a folyósítását követő év december 31-éig lehet felhasználni.
+
+(2) Az (1) bekezdésben meghatározott határidőtől a Kormány egyedi határozata rövidebb határidőt, a központi költségvetésről szóló törvény eltérő időpontot is megállapíthat.
+
+(3) A támogató a Kormány egyedi határozata alapján nyújtott támogatás esetében a határidőt egy alkalommal legfeljebb egy évvel meghosszabbíthatja.
 
 #### 36.
 
@@ -1946,7 +1952,7 @@ rendeletben szabályozza.
 
 (7) Azon kincstári körön kívüli számlatulajdonosok, amelyek a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 79. § (3) bekezdése értelmében értékpapírszámlával nem rendelkezhetnek, a Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvény hatálybalépésekor meglévő értékpapírszámláikat azok lejáratáig fenntarthatják.
 
-(8)
+(8) E törvénynek az államháztartásról szóló 2011. évi CXCV. törvény és egyéb törvények módosításáról szóló 2018. évi CXXVII. törvénnyel megállapított 52/A. § (3) bekezdését az államháztartásról szóló 2011. évi CXCV. törvény és egyéb törvények módosításáról szóló 2018. évi CXXVII. törvény hatálybalépését megelőzően meghozott támogatási döntések esetében is alkalmazni kell.
 
 (9) A VI. Fejezetet a 2012. január 1-jén vagy azt követően benyújtott támogatási igényekre, pályázati úton biztosított költségvetési támogatás esetén a 2012. január 1-jén vagy azt követően megjelentetett pályázati kiírásokra, valamint a 2012. január 1-jét megelőzően megjelentetett pályázati kiírások alapján 2014. január 1-jén vagy azt követően benyújtott pályázatokra és az azok alapján nyújtott költségvetési támogatásokra kell alkalmazni. Az e törvény alapján nyújtott támogatásra a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvényt nem kell alkalmazni.
 
