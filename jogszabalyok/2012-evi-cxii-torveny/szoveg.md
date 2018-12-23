@@ -49,6 +49,8 @@ a nyugdíjbiztosítási átutalással érintett időre nem jogosult.
 
 (6) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegét úgy kell meghatározni, hogy a (4) és (5) bekezdés szerinti összegeket össze kell adni.
 
+(7) Aki a nyugdíjbiztosítási átutalást követően a magyar nyugdíjrendszerben további jogosultságot szerez, a korábbi nyugdíjbiztosítási átutalással érintett időt követő naptól a kérelem benyújtásának napjáig terjedő időre kérheti az újabb nyugdíjbiztosítási átutalást. Az újabb nyugdíjbiztosítási átutalásra az (1)–(6) bekezdésben foglaltakat kell alkalmazni azzal, hogy ahol az (1) bekezdés a nyugdíjbiztosítási átutalásra jogosító jogviszony létrejöttének napját megelőző napig terjedő időt említi, azon a korábbi nyugdíjbiztosítási átutalással érintett időt követő naptól a kérelem benyújtásának napjáig terjedő időt kell érteni.
+
 4. § (1) A társadalombiztosítási nyugdíjrendszerből történő nyugdíjbiztosítási átutalás összegét a nyugdíjbiztosítási igazgatási szerv állapítja meg.
 
 (1a) A valorizációs szorzószámok alkalmazásával megállapításra kerülő nyugdíjbiztosítási átutalás esetén az ügyintézési határidő tárgyév április 15-én jár le, ha a nyugdíjbiztosítási átutalás iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be, és az általános ügyintézési határidő tárgyév április 15-ét megelőzően telne le.

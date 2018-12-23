@@ -3865,6 +3865,10 @@ vonatkozó adatokat kezelhet.
 
 (1b) Biztos Kezdet Gyerekház szolgáltatás esetén az (1) bekezdés szerinti nyilvántartás kizárólag a 138. § (1) bekezdés a)–c) és f) pontjában foglaltakat tartalmazza.
 
+(1c) Gyermekek napközbeni ellátása esetén az (1) bekezdés szerinti nyilvántartás kizárólag a gyermek személyazonosító adatait és társadalombiztosítási azonosító jelét, valamint a 138. § (1) bekezdés b)–e) pontjában és az (1) bekezdés b) és c) pontjában foglaltakat tartalmazza.
+
+(1d) Gyermekek napközbeni ellátása esetén az (1c) bekezdés szerinti nyilvántartásként kell elfogadni azt az ellátást nyújtó személy vagy az intézmény vezetője által vezetett más, a szolgáltatás nyújtásával kapcsolatos nyilvántartást is, amely az (1c) bekezdésben meghatározott adatokat tartalmazza.
+
 (2) A kincstár a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 - a) a személyes gondoskodásban részesülő személy
@@ -3882,11 +3886,12 @@ vonatkozó adatokat kezelhet.
   - ee) a gyermek, fiatal felnőtt ügyében eljárni illetékes területi gyermekvédelmi szakszolgálat nevét és KSH azonosító kódját,
 - f) a fiatal felnőtt hatósági döntéssel elrendelt utógondozása esetén
   - fa) a határozatot hozó szerv nevét, a határozat számát, keltét, véglegessé válásának napját,
-  - fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtési támogatás igénybevétele miatti utógondozás elrendelése).
+  - fb) a hatósági döntés jellegét (utógondozás elrendelése, otthonteremtési támogatás igénybevétele miatti utógondozás elrendelése),
+- g) családi bölcsőde és munkahelyi bölcsőde esetén a gyermek törvényes képviselőjének személyazonosító adatait, ha a törvényes képviselő a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban részesül.
 
 (3) Nem kell a (2) bekezdés szerinti nyilvántartásba venni az adatokat
 
-- a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül,
+- a) a gyermekek napközbeni ellátásánál, ha a fenntartó a központi költségvetésből támogatásban nem részesül, és a gyermek törvényes képviselője a kisgyermeket nevelők munkaerőpiaci visszatérésének támogatására irányuló Gazdaságfejlesztési és Innovációs Operatív Program keretében térítésidíj-támogatásban nem részesül,
 - b)
 - c)
 - d) a gyermekjóléti központ speciális szolgáltatásai közül az utcai és lakótelepi szociális munka, a kórházi szociális munka és a készenléti szolgálat esetén,
@@ -4617,7 +4622,7 @@ módosítja.
 
 (4) A napközbeni gyermekfelügyeletté átalakuló családi napközi a 2016. december 31-én hatályos, a családi napközi szolgáltatás finanszírozására vonatkozó szabályok szerint 2017. augusztus 31-éig elláthatja a gyermeket a kötelező óvodai nevelésben való részvétel ideje alatt is, ha a gyermek ellátásáról szóló megállapodást 2016. január 1-jét megelőzően megkötötték, és a szolgáltató megfelel az Nktv. 2015. december 31-én hatályos 8. § (5) bekezdésében foglalt feltételeknek. Ebben az esetben a gyermek 2017. augusztus 31-éig az óvodába járási kötelezettségét a napközbeni gyermekfelügyelet keretében is teljesítheti.
 
-(5) A települési önkormányzatnak 2018. december 31-éig kell eleget tennie az egyes szociális, gyermekvédelmi, családtámogatási tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2015. évi CCXXIII. törvénnyel megállapított 94. § (3a) bekezdésben foglalt kötelezettségének.
+(5) A települési önkormányzatnak 2020. december 31-éig kell eleget tennie az egyes szociális, gyermekvédelmi, családtámogatási tárgyú és egyéb kapcsolódó törvények módosításáról szóló 2015. évi CCXXIII. törvénnyel megállapított 94. § (3a) bekezdésben foglalt kötelezettségének.
 
 176. § (1) A 15. § (16) bekezdésében foglaltaktól eltérően a 2016. január 1-jén a szolgáltatói nyilvántartásban jogerősen bejegyzettként szereplő bölcsőde és fenntartója 98. § (2) bekezdés a) és b) pontja szerinti adatait, valamint hivatalos nevét, székhelyének címét, ágazati azonosítóját, telephelyének hivatalos nevét, címét és ágazati azonosítóját, költségvetési szerv esetén a törzskönyvi azonosító számát, továbbá az általa nyújtott szolgáltatás megnevezését a szolgáltatói nyilvántartást vezető szerv 2016. január 8-áig elektronikus úton adja át a köznevelés információs rendszerének adatkezelője részére a köznevelés információs rendszerében történő nyilvántartás céljából.
 
