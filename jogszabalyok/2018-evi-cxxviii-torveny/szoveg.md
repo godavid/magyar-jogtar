@@ -6,23 +6,13 @@ az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal �
 
 1–4. §
 
-5. § Az MFB tv. 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+5. §
 
-„(2) Az MFB Zrt. esetében a Hpt. 79. § (2) bekezdés b) pontjában, 102. § (1) bekezdésében, 110. §, 112. §, és 117–121. §-ában, valamint az 575/2013/EU rendelet 89–91., 102–106. és 411–428. cikkében foglaltakat nem kell alkalmazni. A Hpt. 172–176. §-a és az 575/2013/EU rendelet 11–24. cikkének alkalmazásában az MFB Zrt. pénzügyi vállalkozásnak minősül. Az MFB Zrt. esetében a Hpt. 100. § (1) bekezdésében foglaltakat nem kell alkalmazni, ha az MFB Zrt.-vel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogot megtestesítő értékpapír ügyfél általi megvásárlásával az MFB Zrt. és a vele szoros kapcsolatban álló vállalkozás között a szoros kapcsolat megszűnik.”
-
-6. § Az MFB tv. 10/A. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) A végső kedvezményezett személyének és az ügylet összegének kivételével a banktitokkal azonos védelem alá esik az MFB Zrt. 2. § h) és q) pontja szerinti feladatköre, valamint a 3. § (3) bekezdése szerinti tevékenysége során a végső kedvezményezettről az MFB Zrt., valamint az általa megbízott pénzügyi közvetítő rendelkezésére álló minden tény, információ, megoldás vagy adat, amely a végső kedvezményezett adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, a benyújtott pályázatra, valamint az általa megvalósítandó projektre vonatkozik.
-
-(5) A (4) bekezdésben foglaltakat nem kell alkalmazni az MFB Zrt. európai uniós forrásból nyújtott pénzügyi eszközzel kapcsolatos és az Európai Unió szerveitől származó központi uniós forrásokból nyújtott támogatásokkal kapcsolatos adatok közzétételét előíró uniós jogi aktusok és jogszabályi rendelkezések által meghatározott adatok körére. Nem jelenti a (4) bekezdésben foglaltak sérelmét a 2. § h) és q) pontja szerinti tevékenységekkel összefüggésben ellenőrzésre jogosult szerv részére történő adatszolgáltatási kötelezettség teljesítése.”
+6. §
 
 7. §
 
-8. § Az MFB törvény 23. §-a helyébe a következő rendelkezés lép:
-
-„23. § (1) A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvénnyel megállapított 10/A. § (3) bekezdésben foglaltakat a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosításáról szóló 2015. évi LXXXVIII. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.
-
-(2) Az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2018. évi CXXVIII. törvénnyel megállapított 10/A. § (4)–(5) bekezdésében foglaltakat az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal összefüggő egyes törvények módosításáról, valamint egyes vagyongazdálkodást érintő rendelkezésekről szóló 2018. évi CXXVIII. törvény hatálybalépésekor már megkötött ügyletekre is alkalmazni kell.”
+8. §
 
 9. § (1)
 
@@ -31,9 +21,9 @@ az állami vagyongazdálkodással és a nemzeti pénzügyi szolgáltatásokkal �
 10. § Hatályát veszti az MFB tv.
 
 - a)–e)
-- f) 11/A. §-ában a „ ,10/A. §” szöveg;
+- f)
 - g)
-- h) 1. melléklet 4. pontja;
+- h)
 - i)
 
 #### 2. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
