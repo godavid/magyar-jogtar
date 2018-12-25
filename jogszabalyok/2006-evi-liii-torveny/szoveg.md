@@ -329,6 +329,10 @@ ha azt előzetesen a közlekedési hatóság engedélyezte.
 
 (6) Az engedély alapján végzett engedélyes haditechnikai termék felkutatása esetén az engedélyes, ha a kutatás nem jelent az ingatlanban maradandó változást, a haditechnikai kutatás eredményessége érdekében bármely ingatlanra – a lakás és a nem lakás céljára szolgáló helyiségek kivételével – beléphet. Az engedélyesnek az ingatlan tulajdonosát (használóját, vagyonkezelőjét) a kutatási munkálatokról igazolható módon előzetesen értesítenie kell.
 
+6/S. § (1) A nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedésfejlesztési projektek megvalósításához szükséges homok, kavics és agyag ásványi nyersanyag – ideértve mindezek változatait és keverékeit is – (a továbbiakban együtt: töltésanyag) kitermelésére a 12. § (5) bekezdés h) pontjában kapott felhatalmazás alapján vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelőhely létesíthető.
+
+(2) A célkitermelőhely létesítésére, üzemeltetésére, megszüntetésére és hatósági felügyeletére vonatkozóan a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17/A. § (2)–(3) bekezdésében és a 17/B–17/E. §-ában foglalt rendelkezések az irányadóak.
+
 ### Közigazgatási per
 
 7. § (1) A perben a jogi képviselet kötelező.

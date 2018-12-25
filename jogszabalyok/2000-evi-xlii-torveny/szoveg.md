@@ -60,6 +60,8 @@ látja el.
 
 (3) A Kormány a rendeletében meghatározott összetétellel, feladat- és hatáskörrel Víziközlekedési Védelmi Bizottságot hoz létre.
 
+(4) A miniszter látja el – az általa kijelölt szervezet útján – a vízi közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
+
 ### Az önkormányzatok feladatai
 
 3. § (1) A települési, a fővárosban a fővárosi önkormányzat feladata
@@ -1240,7 +1242,8 @@ rendeletben történő megállapítására.
 - 22. a Belvízi Hajózási Alapprogram működtetése részletes szabályainak,
 - 23. a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadása részletes szabályainak,
 - 24. a víziút más nyomvonalas létesítmény által történő megközelítése, keresztezése részletes szabályainak az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben kiadott,
-- 25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott
+- 25. az úszólétesítményeken történő elsősegélynyújtás, valamint az egyes úszólétesítményeken az orvosi szolgálat rendszeresítése szabályainak és az ezekhez szükséges személyi és tárgyi feltételek biztosításának az egészségügyért felelős miniszterrel egyetértésben kiadott,
+- 26. a 2. § (4) bekezdésében meghatározott szervezet és a szervezet által ellátandó, vízi közlekedéssel összefüggő kutatási, fejlesztési és koordinációs feladatok
 
 rendeletben történő megállapítására.
 
