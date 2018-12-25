@@ -93,6 +93,8 @@ Az országos közúthálózat üzemeltetése, fenntartása és fejlesztése, a f
 - a) az úthasználat megkezdését megelőzően váltott viszonylati jegy alapján annak feltételei szerint, vagy
 - b) valamely útdíjszolgáltatóval az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó szerződés hatálya idején, ha bevallással és a díjfizetéssel összefüggő, e törvény felhatalmazása alapján kiadott rendeletben meghatározott kötelezettségének az úthasználó eleget tesz.
 
+(2a) A közlekedésért felelős miniszter (a továbbiakban: miniszter) rendeletben meghatározhatja azon útdíjköteles elemi útszakaszok körét, amelyek használata a (2) bekezdésben megjelölt feltételek fennállása hiányában sem keletkeztet jogosulatlan úthasználatot, amennyiben az ezen útdíjköteles elemi útszakaszokon az úthasználati jogosultság keletkezésének és fennállásának miniszteri rendeletben megállapított különös szabályai szerint keletkezik úthasználati jogosultság.
+
 (3) Nem alapozza meg az úthasználati jogosultságot, ha a fedélzeti eszközt az úthasználó nem az arra vonatkozó szabályoknak megfelelően használja, vagy olyan fedélzeti eszköz útján teljesít bevallást, amelyet a fedélzeti eszközt regisztráló útdíjszolgáltató az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételek szerint érvénytelenítette.
 
 (4) Az útdíjszedő megállapítja az útdíj összegét és beszedi az adott útdíjköteles elemi útszakasz vonatkozásában e törvény szerint bevallást benyújtó útdíjszolgáltatótól. Az útdíj útdíjszedő részére történő megfizetésnek nem lehet feltétele, hogy az annak megfelelő pénzösszeg az útdíjszolgáltatóhoz a díjfizetésre kötelezettől beérkezzen.
@@ -146,7 +148,7 @@ feladatokat lát el.
 - b) a Magyarországon szolgálati céllal tartózkodó vagy átvonuló külföldi fegyveres erőket és a Magyarországon felállított nemzetközi katonai parancsnokságokat hivatali vagy szolgálati gépjárműveik után, valamint az egyéb szervezeteket a nemzetközi szerződés, nemzetközi egyezmény és viszonosság alapján mentességet élvező gépjárműveik után,
 - c) útdíjköteles elemi útszakasz kezelői feladatait ellátó,
   - ca) a koncessziós közúton végzett üzemeltetői feladata ellátása érdekében a koncessziós társaság vagy az általa üzemeltetői feladatokkal megbízott gazdasági társaság által üzemeltetett gépjárműveket,
-  - cb) a ca) alpont alá nem tartozó országos közút esetében az országos közút kezelésére a közlekedésért felelős miniszter (a továbbiakban: miniszter) által kijelölt közútkezelő által a közútkezelői feladata ellátása érdekében üzemeltetett, valamint a téli időszakban az országos közút kezelőjével kötött szerződés szerint, az országos közút kezelőjének cégjegyzésre jogosult képviselője által igazoltan a téli úttisztítási-, síkosságmentesítési feladatokat végző gépjárműveket;
+  - cb) a ca) alpont alá nem tartozó országos közút esetében az országos közút kezelésére a miniszter által kijelölt közútkezelő által a közútkezelői feladata ellátása érdekében üzemeltetett, valamint a téli időszakban az országos közút kezelőjével kötött szerződés szerint, az országos közút kezelőjének cégjegyzésre jogosult képviselője által igazoltan a téli úttisztítási-, síkosságmentesítési feladatokat végző gépjárműveket;
 - d) az útdíjszedőt a feladatait ellátó gépjárművei után,
 - e) a megkülönböztető jelzés használatára jogosultat a Magyarországon kiadott forgalmi rendszámú gépjárművek után, függetlenül attól, hogy a megkülönböztető jelzést az útdíjköteles elemi útszakaszon való haladás közben használják-e,
 - f) a katasztrófavédelemről szóló törvény értelmében meghatározott katasztrófa által okozott károk megelőzésében vagy elhárításában részt vevő gépjárművek üzemeltetőit, ezen feladatok ellátása során, továbbá az önkéntes tűzoltó egyesületek, az önkormányzati és létesítményi tűzoltóságok, valamint az önkéntes vagy köteles polgári védelmi egységek tagjait az elrendelt gyakorlat során igénybe vett gépjárművek után,
@@ -156,7 +158,7 @@ feladatokat lát el.
 - j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladatait ellátó, a közút kezelésére létrehozott szervezetet az általa közútkezelési feladatai ellátása érdekében üzemben tartott gépjármű után, ha az a két érintett ország államhatártól számított legközelebbi két útdíjköteles elemi útszakaszt használja,
 - k) az államhatárról szóló törvényben meghatározott tömeges bevándorlás okozta válsághelyzetben elrendelt szállítási feladatok végrehajtásában részt vevők által üzemben tartott gépjárművet az ezen feladat ellátása során.
 
-(2) Nem kell díjat fizetni a közút lezárásának vagy forgalma korlátozásának, elterelésének időtartama alatt azon az egyébként útdíjköteles elemi útszakaszon, amelyet a közút lezárására, vagy forgalmának korlátozására, elterelésére jogosult szervek terelőútként jelöltek ki.
+(2)
 
 (3) A miniszter a közúti forgalom biztonságát veszélyeztető módon vesztegelő gépjárművek elszállításának szabályairól szóló miniszteri rendeletben a közlekedés biztonsága érdekében pihenőhelyre szállított autók vonatkozásában az (1) bekezdéstől eltérő szabályokat állapíthat meg az útdíjköteles gépjárművek vonatkozásában.
 
@@ -212,6 +214,8 @@ feladatokat lát el.
 - a) az útdíjköteles elemi útszakasz használatának megkezdése előtt az adott útdíjköteles gépjármű vonatkozásában – a c) pontban foglaltakat ide nem értve – nem keletkezett úthasználati jogosultság a 6. § (2) bekezdésében foglaltak szerint,
 - b) a díjfizetésre kötelezett az útdíjköteles elemi útszakaszt a díj- vagy környezetvédelmi kategóriájánál alacsonyabb díj- vagy környezetvédelmi kategóriához tartozó bevallás alapján használja, vagy
 - c) az útdíjköteles elemi útszakasz használatára az érintett gépjármű vonatkozásában van hatályos, az útdíjszolgáltatóval kötött – az e törvény szerinti bevallások útdíjszedőhöz történő benyújtására és útdíj megfizetésére vonatkozó – szerződése, amelynek keretében az e törvény szerinti bevallási kötelezettségének teljesítése érdekében fedélzeti eszköz használatára jogosult, de a fedélzeti eszköz az úthasználat időpontjában szerepel az érvénytelenített fedélzeti eszközök nyilvántartásában, vagy annak egyéb módon nem biztosított a külön jogszabályban meghatározottak szerinti szabályszerű működtetése, és az útdíjköteles elemi útszakasz használatának megkezdése előtt egyéb módon nem keletkezett a 6. § (2) bekezdésben meghatározott úthasználati jogosultság.
+
+14/A. § Nem minősül a 14. § szerinti jogosulatlan úthasználatnak a közút harmincegy napot meg nem haladó lezárásának, forgalma korlátozásának, elterelésének időtartama alatt azon egyébként útdíjköteles elemi útszakasz úthasználati jogosultság hiányában történő használata, amelyet a közút lezárására vagy forgalmának korlátozására, elterelésére jogosult szervek terelőútként jelöltek ki.
 
 15. § (1) A bírság mértékét úgy kell megállapítani, hogy az az előírt díj megfizetésére ösztönözze a díjfizetésre kötelezetteket.
 
@@ -442,7 +446,7 @@ jogosult kezelni.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-- a) rendeletben állapítsa meg a törvény hatálya alá tartozó, díjfizetési kötelezettséggel érintett utakat és díjköteles elemi útszakaszokat;
+- a) rendeletben állapítsa meg a törvény hatálya alá tartozó, díjfizetési kötelezettséggel érintett utakat és díjköteles elemi útszakaszokat, valamint a 6. § (2a) bekezdése szerinti útdíjköteles elemi útszakaszok körét, továbbá az ezen útdíjköteles elemi útszakaszokon az úthasználati jogosultság keletkezésének és fennállásának különös szabályait;
 - b) rendeletben állapítsa meg a Kormány által megállapított egyes díjkategóriákba tartozó gépjárművek díjszedési környezetvédelmi besorolását;
 - c) az adópolitikáért felelős miniszterrel egyetértésben rendeletben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján – meghatározza az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj – beleértve az infrastruktúra díjat és a külsőköltség-díjat – mértékét;
 - d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;

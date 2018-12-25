@@ -14,7 +14,7 @@ Az Európai Unió egészére kiterjedő közös közlekedési stratégia megval�
 
 2. § E törvény rendelkezéseit
 
-- a) az 1. számú melléklet szerinti autópályák, autóutak és gyorsutak, valamint azok csomóponti elemei (a továbbiakban együtt: gyorsforgalmi utak),
+- a) az 1. számú melléklet szerinti autópályák és autóutak, valamint azok csomóponti elemei (a továbbiakban együtt: gyorsforgalmi utak),
 - b) a gyorsforgalmi utakkal egy beruházásban megvalósuló közutak,
 - c) a gyorsforgalmi utak csomóponti elemeihez közvetlenül csatlakozó bekötő- és elkerülő utak, továbbá
 - d) a gyorsforgalmivá fejleszthető országos főutak tervezésével, előkészítésével és megvalósításával kapcsolatos feladatokra, valamint tevékenységekre kell alkalmazni.
@@ -70,7 +70,7 @@ Az Európai Unió egészére kiterjedő közös közlekedési stratégia megval�
 
 (5) A kiemelt közérdekre és a környezetvédelmi prioritásokra tekintettel a környezet és mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld), valamint a primer ásványvagyon védelme kiemelt hangsúlyt kell, hogy kapjon a tervezés, engedélyezés és a megvalósítás valamennyi fázisában. Ennek érdekében a másodlagos nyersanyagok – elsősorban a pernye, kohászati salak, bányameddők, építési és bontási hulladékok – felhasználása a közbeszerzési eljárásoknál az erre vonatkozó előzetes szakértői vizsgálatok figyelembevételével, továbbá a hasznosításban érintettek (a felhasználandó anyagok tulajdonosai és az út építtetője) gazdasági együttműködése esetén írható elő.
 
-6. § (1) A gyorsforgalmi útnak a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott és a gyorsforgalmi út számára legfeljebb két változatban kijelölt 500 méter szélességű területsávját (a továbbiakban: nyomvonal) a környezetvédelmi hatóságnak a környezetvédelmi eljárás során hozott határozatának véglegessé válását követően a Kormány rendeletben állapítja meg.
+6. § (1) A gyorsforgalmi útnak a vizsgálati dokumentáció és a területrendezési tervtanulmány alapján 1:10 000 méretarányú helyszínrajzon elfogadott és a gyorsforgalmi út számára legfeljebb két változatban kijelölt 500 méter szélességű területsávját (a továbbiakban: nyomvonal) a környezetvédelmi hatóságnak a környezetvédelmi eljárás során hozott határozatának véglegessé válását követően a Kormány rendeletben állapíthatja meg..
 
 (2) Az (1) bekezdés szerinti rendelet hatálybalépésétől az államot – föld esetében a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti más jogosultakat megelőzően – elővásárlási jog illeti meg az (1) bekezdés szerinti rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot az állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a gyorsforgalmi út létesítése érdekében kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Az állam javára adás-vétel vagy kisajátítás útján gyorsforgalmi út létesítése céljából megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
 

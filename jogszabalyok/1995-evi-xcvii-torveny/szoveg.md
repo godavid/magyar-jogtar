@@ -57,9 +57,11 @@ terjed ki.
 
 látja el.
 
+(3) A miniszter látja el – az általa kijelölt szervezet útján – a légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
+
 ### Hatósági jogkör
 
-3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi irányelv, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
+3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a 2018/1139/EU európai parlamenti és tanácsi rendeletben és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
 
 (1a) Az e §-ban meghatározott eljárások tekintetében sommás eljárásnak nincs helye.
 
@@ -89,7 +91,10 @@ látja el.
 - j) repülőtér üzembentartási engedélyének kiadása, módosítása,
 - k) a légiközlekedés védelmében közreműködő szervezetek védelmi programjának és azon alapuló belső minőségbiztosítási rendszerének és védelmi képzési tervének jóváhagyása,
 - l) a légiközlekedés-védelmi berendezések, eszközök és védelmi rendszerek üzembe helyezésének, működtetésének jóváhagyása,
-- m) repülésbiztonsági szervezet engedélyezése.
+- m) repülésbiztonsági szervezet engedélyezése,
+- n) az állami célú légiközlekedéssel összefüggő repülésbiztonsági szervezet engedélyezése,
+- o) az állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
+- p) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
 
 (2c) Az ügyintézési határidő 90 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
@@ -97,9 +102,14 @@ látja el.
 
 - a) a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló,
 - b) a repülőtér zajgátló védőövezetének kijelölésére irányuló,
-- c) a légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
+- c) a légiközlekedési szakszemélyzet szakirányú képzéséhez, vizsgáztatásához és értékeléséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
 - d) repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
-- e) a léginavigációs szolgálatok tanúsítására irányuló hatósági eljárásokban.
+- e) a léginavigációs szolgálatok tanúsítására irányuló, valamint hatósági eljárásokban,
+- f) a repülés-egészségügyi központok engedélyeinek kiadására és módosítására irányuló hatósági eljárásokban,
+- g) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a harmadik fél részére történő földi kiszolgálást végzők, valamint a saját kiszolgálásra jogosult repülőtér-használók kiválasztására irányuló hatósági eljárásokban,
+- h) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölésére irányuló hatósági eljárásokban,
+- i) az állami légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló hatósági eljárásokban,
+- j) állami légiközlekedési szakszemélyzet oktatására használt repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló hatósági eljárásokban.
 
 hatósági eljárásokban.
 
@@ -110,14 +120,17 @@ hatósági eljárásokban.
 - c) a légi járművek típusalkalmassági vizsgálatára irányuló,
 - d) a repülőtérrend jóváhagyására irányuló,
 - e) a légitársaság üzletszabályzatának és módosításának jóváhagyására irányuló, valamint
-- f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban.
+- f) légiközlekedés védelmi tiszt kijelölésének jóváhagyására irányuló hatósági eljárásokban,
+- g) az állami légijármű nyilvántartásba vételére irányuló hatósági eljárásokban,
+- h) az állami légijármű típusalkalmassági vizsgálatára irányuló hatósági eljárásokban,
+- i) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjének jóváhagyására irányuló hatósági eljárásokban.
 
 (2f) Az ügyintézési határidő 70 nap a katonai légügyi hatóság következő közigazgatási hatósági eljárásaiban:
 
 - a) állami légi jármű és légijármű-berendezés karbantartó szervezetek jóváhagyása,
-- b) az állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
-- c) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése, valamint
-- d) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölése.
+- b)
+- c)
+- d)
 
 (2g) Az ügyintézési határidő 4 hónap a katonai légügyi hatóság légi kutató-mentő tevékenység engedélyezésére vonatkozó közigazgatási hatósági eljárásában.
 
@@ -127,7 +140,7 @@ hatósági eljárásokban.
 
 (2j) A katonai légügyi hatóság eljárásaiban 21 napon belül kell az eljárási cselekményt teljesíteni és a végzést meghozni.
 
-(2k) A katonai légügyi hatóság eljárásai során a függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(2k)
 
 (2l) A külföldi állami légi jármű magyar légtérbe való be- és átrepülésének engedélyezésére irányuló eljárásban sommás eljárásnak nincs helye.
 
@@ -137,7 +150,7 @@ hatósági eljárásokban.
 
 (3) A légiközlekedési hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
-(3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség.
+(3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása alá tartozó, nem gazdasági társasági formában működő szervezet.
 
 (3b) A katonai légügyi hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
@@ -364,7 +377,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 ### A légijármű nyilvántartás
 
-17. § (1) A repülőeszközökről és a pilóta nélküli légijárművekről a légiközlekedési hatóság nyilvántartást vezet, amely nyilvános.
+17. § (1)
 
 (2)
 
@@ -396,7 +409,7 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 
 (5) Ha az üzemben tartó az engedélyben és a jogszabályban előírt feltételeket súlyosan vagy tartósan megszegi, akkor az üzemben tartási engedélyt a kiadó hatóság felfüggeszti, vagy visszavonja.
 
-(6) Az üzemben tartás feltételeit a Kormány rendeletben állapítja meg.
+(6) A polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának eljárásjogi szabályait, valamint az (1) bekezdés b) pontja tekintetében az üzemben tartás feltételeit a Kormány rendeletben állapítja meg.
 
 (7) A légiközlekedési hatóság a kiadott üzemben tartási engedélyekről nyilvántartást vezet, amely nyilvántartás tartalmazza:
 
@@ -409,6 +422,10 @@ a légiközlekedés biztonsága, a tevékenyég ellátásához szükséges alkal
 - g) az üzemben tartási engedély érvényességi idejét.
 
 (7a) Az üzemben tartási engedélyekről vezetett nyilvántartás a (7) bekezdésben meghatározott adatok vonatkozásában – a (7) bekezdés a) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(8) A polgári légiközlekedés tekintetében az üzemben tartás feltételeit az (1) bekezdés a) és c) pontjában és a (3) bekezdésben meghatározott esetekben a miniszter állapítja meg.
+
+(9) A (4) bekezdésben meghatározott esetben az üzemben tartás feltételeit a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben kiadott rendeletben állapítja meg.
 
 ### Különleges engedélyek
 
@@ -464,6 +481,8 @@ bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes szemé
 meghatározott tevékenység folytatásához.
 
 (3) Pilóta nélküli légijárművel légiközlekedési tevékenység – a 71. § 10. pont e) alpontjában meghatározott kivétellel – légiközlekedési hatósághoz tett, az e törvény végrehajtási rendeletében meghatározott előzetes bejelentést követően folytatható.
+
+(4) A 71. § 10. pont b) alpontjában szereplő légiközlekedési tevékenység a légiközlekedési hatósághoz tett, előzetes bejelentést követően folytatható. A 965/2012/EU bizottsági rendeletben meghatározott követelményrendszert a légiközlekedési hatóság ellenőrzi.
 
 23. § (1) A 22. §-ban meghatározott tevékenység végzésére engedélyt Magyarország területén székhellyel rendelkező vagy – a 20/B. § (2) bekezdése szerinti esetben – az Európai Gazdasági Térségről szóló megállapodásban részes államban letelepedett gazdálkodó szervezet kaphat, ha
 
@@ -680,19 +699,19 @@ kezelheti.
 
 ### A légijármű és a légiközlekedéssel kapcsolatos eszköz gyártása, javítása, karbantartása
 
-29. § (1) A polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi irányelv, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű gyártásához, valamint az ilyen légijárművet karbantartó szervezet működéséhez a légiközlekedési hatóság engedélye szükséges.
+29. § (1) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű és komponenseinek gyártásához, folyamatos légialkalmasság-irányításához,, valamint az ilyen légijárművet karbantartó szervezet működéséhez a légiközlekedési hatóság engedélye szükséges.
 
 (1a) Az állami légijármű és a pilóta nélküli állami légijármű gyártásához, javításához, karbantartásához és felújításához a katonai légügyi hatóság engedélye szükséges.
 
 (2) A légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság az (1) bekezdésben meghatározott tevékenység folytatásának szakszerűségét, a szakmai szabályok betartását bármikor ellenőrizheti.
 
-(3) A polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EGK tanácsi rendelet, az 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légi jármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait a Kormány rendeletben állapítja meg.
+(3) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, komponens és légiközlekedéssel kapcsolatos eszköz gyártásának, folyamatos légialkalmasság-irányításának,, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait a miniszter rendeletben állapítja meg.
 
 ### A hajózó személyzetre és a légiutas-kísérőre vonatkozó külön rendelkezések
 
 29/A. § (1) A munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit a 29/B–29/I. §-okban meghatározott eltérésekkel kell alkalmazni a lajstromba felvett, gazdasági célú légiközlekedési tevékenység céljából üzemben tartott légi jármű fedélzetén munkavállalóként szolgálatot teljesítő légijármű-vezető, fedélzeti navigátor, fedélzeti mérnök (a továbbiakban együtt: hajózó személyzet) és légiutas-kísérő tekintetében.
 
-(2) A 29/B–29/I. §-okban foglaltakat alkalmazni kell a munkavégzésre irányuló egyéb jogviszony alapján vagy egyéni vállalkozóként a gazdasági célú légiközlekedési tevékenység céljából üzemben tartott légi jármű fedélzetén szolgálatot teljesítő hajózó személyzet és légiutas-kísérő tekintetében is.
+(2) A 29/B–29/I. §-okban foglaltakat alkalmazni kell a munkavégzésre irányuló egyéb jogviszony alapján a gazdasági célú légiközlekedési tevékenység céljából üzemben tartott légi jármű fedélzetén szolgálatot teljesítő hajózó személyzet és légiutas-kísérő tekintetében is.
 
 (3) A hajózó személyzet és a légiutas-kísérő részére naptári hónaponként legalább hét, naptári évenként legalább kilencvenhat olyan pihenőnapot kell adni, amelyet lakóhelyén tölthet.
 
@@ -731,11 +750,11 @@ kezelheti.
 
 ### A légiközlekedési szakszemélyzet képzése
 
-30. § (1) A légiközlekedési szakszemélyzet képzésére a légiközlekedési hatóság, az állami célú légiközlekedés esetén a katonai légügyi hatóság ad engedélyt.
+30. § (1) A légiközlekedési szakszemélyzet képzésére – kivéve a 1178/2011/EU rendeletben meghatározott bejelentett képzési szervezeteket (a továbbiakban: DTO) – a légiközlekedési hatóság, az állami célú légiközlekedés esetén a katonai légügyi hatóság ad engedélyt.
 
 (2) Ha a jogosult az engedélyben foglalt feltételeket nem tartja meg, vagy ha a képzés színvonala vagy biztonsága nem éri el az előírt szintet, akkor az engedélyt a légiközlekedés biztonsága érdekében a légiközlekedési hatóság, illetve a katonai légügyi hatóság felfüggeszti vagy visszavonja.
 
-(3) A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légiközlekedési szakszemélyzet képzésének részletes szabályait – a 20. § (3) bekezdése szerinti kivétellel – a polgári légiközlekedés területén a miniszter, az állami célú légiközlekedés területén a rendészetért felelős miniszter egyetértésével a honvédelemért felelős miniszter rendeletben állapítja meg.
+(3) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légiközlekedési szakszemélyzet képzésének részletes szabályait – a 20. § (3) bekezdése szerinti kivétellel – a polgári légiközlekedés területén a miniszter, az állami célú légiközlekedés területén a rendészetért felelős miniszter egyetértésével a honvédelemért felelős miniszter rendeletben állapítja meg.
 
 31. § Az állami célú légiközlekedés esetén a katonai repülésirányító szolgálat ellátásához szükséges szakmai ismeretekre vonatkozó képzést a honvédelemért felelős miniszter által kijelölt szervezetek végzik. A képzés feltételeiről a honvédelemért felelős miniszter gondoskodik.
 
@@ -752,7 +771,7 @@ kezelheti.
 
 (4) A terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal a bejelentés beérkezésétől számított legfeljebb 48 órán belül megküldi a szakvéleményét az általános rendőrségi feladatokat ellátó szervnek.
 
-(5) Az általános rendőrségi feladatokat ellátó szerv közbiztonsági célból vagy a (4) bekezdésben meghatározott szakvélemények alapján a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárművek vagy repülőeszközök vezetésére irányuló, továbbá az ejtőernyős képzés végzését megtilthatja.
+(5) Az általános rendőrségi feladatokat ellátó szerv közbiztonsági célból vagy a (4) bekezdésben meghatározott szakvélemények alapján a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárművek vagy repülőeszközök vezetésére irányuló, továbbá az ejtőernyős képzés végzését megtilthatja.
 
 (6) Az általános rendőrségi feladatokat ellátó szerv az (5) bekezdés szerinti döntését legfeljebb a (4) bekezdés szerinti szakvélemények megérkezését követő 24 órán belül határozatban közli a bejelentővel.
 
@@ -768,7 +787,7 @@ kezelheti.
 
 ### Légijármű bérbeadása
 
-34. § Légijármű bérbeadása tevékenység folytatásához a légiközlekedési hatóság által kiadott engedély szükséges.
+34. § Légijármű bérbeadása tevékenység folytatásához a légiközlekedési hatóság által kiadott engedély szükséges, kivéve, ha a bérbeadás célja a légijármű sport-, valamint magáncélú alkalmazása, illetve gyakorlati repülőképzés.
 
 ### A nem gazdasági célú légiközlekedési
 
@@ -802,11 +821,13 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 (4) Az (1) bekezdés b) pont bb) és bc) alpontjaiban meghatározott repülőterek létesítésére, fejlesztésére és megszüntetésére – az illetékes települési önkormányzat véleményének megkérésével – a honvédelemért felelős miniszter ad engedélyt.
 
+(5) A 139/2014/EU bizottsági rendelet hatálya alá tartozó repülőterek, állami repülések céljára szolgáló repülőterek, valamint közös felhasználású repülőterek esetében legalább a repülőtér területét magába foglaló biztonsági és zajgátló védőövezetet, vagy fokozottan zajos területet kell kijelölni.
+
 37/A. § A leszállóhely nem nyilvános, a légijármű fel- és leszállására meghatározott ideig szolgáló terület, amelynek létesítésének engedélyezésére vonatkozó szabályokat a Kormány rendeletben állapítja meg.
 
 38. § (1) Repülőtér olyan helyen létesíthető, úgy kell megépíteni, és a légiközlekedés biztonságát szolgáló berendezésekkel ellátni, hogy megfeleljen azoknak a feltételeknek, amelyek lehetővé teszik az alkalmazás célja szerint meghatározott fajtájú légijárművek meghatározott körülmények közötti biztonságos fel- és leszállását, továbbá a repülőtéren való tartózkodását.
 
-(2) Legalább a repülőtér területét magába foglaló biztonsági és zajgátló védőövezetet, vagy fokozottan zajos területet kell kijelölni.
+(2)
 
 39. § (1) A Kormány rendeletben határozza meg a repülőtér létesítésének, fejlesztésének és megszüntetésének, továbbá a biztonsági, akadálymentes és a zajgátló védőövezet kijelölésének, hasznosításának és megszüntetésének a szabályait.
 
@@ -884,7 +905,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 ### A típusalkalmasság
 
-46. § (1) A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárműnek – a 12. § (1) bekezdésében meghatározott repülőeszköz, pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – rendelkeznie kell a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatáról szóló rendelet szerint a légiközlekedési hatóság által kiadott
+46. § (1) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárműnek – a 12. § (1) bekezdésében meghatározott repülőeszköz, pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – rendelkeznie kell a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatáról szóló rendelet szerint a légiközlekedési hatóság által kiadott
 
 - a) típusalkalmassági tanúsítvánnyal vagy
 - b) egyedi repülési engedéllyel.
@@ -897,20 +918,20 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 (5) Külföldön gyártott légijármű, pilóta nélküli állami légijármű, illetve légiközlekedéssel kapcsolatos eszköz típusvizsgálata során a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság elfogadhatja más állam hatóságának igazolását arról, hogy a típus a nemzetközi előírásoknak megfelel és a biztonságos repülésre, illetve rendeltetésszerű használatra alkalmas.
 
-47. § A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légi jármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának részletes szabályait a Kormány rendeletben határozza meg.
+47. § A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légi jármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának részletes szabályait a Kormány rendeletben határozza meg.
 
 ### A légialkalmasság
 
-48. § (1) A 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű – a 12. § (1) bekezdésében meghatározott repülőeszköz és 25 kg maximális felszálló tömeg alatti pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – akkor tartható üzemben, ha rendelkezik a légiközlekedési hatóságnak a polgári légijármű légialkalmassági követelményeiről, légialkalmassági vizsgálatáról és a légialkalmassági tanúsítványról szóló rendelet szerinti
+48. § (1) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű – a 12. § (1) bekezdésében meghatározott repülőeszköz és 25 kg maximális felszálló tömeg alatti pilóta nélküli légijármű, valamint a (2) bekezdésben meghatározott légijármű kivételével – akkor tartható üzemben, ha rendelkezik a légiközlekedési hatóságnak a polgári légijármű légialkalmassági követelményeiről, légialkalmassági vizsgálatáról és a légialkalmassági tanúsítványról szóló rendelet szerinti
 
-- a) légialkalmassági tanúsítványával vagy
+- a) légialkalmassági tanúsítványával és légialkalmassági felülvizsgálati tanúsítványával vagy
 - b) egyedi repülési engedélyével.
 
 (2) Amennyiben az állami célú légiközlekedésben a katonai légügyi hatóság a légijárművet az első üzembe helyezése előtt saját vizsgálata alapján is alkalmasnak találja a rendeltetésszerű használatra, és a légijármű megfelel a típusalkalmassági bizonyítványban előírt követelményeknek, akkor a légijárműre légialkalmassági bizonyítványt ad ki.
 
 (3) A légiközlekedési hatóság az európai uniós és a nemzeti előírásoknak való megfelelés esetén, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság az állami légijárművek nyilvántartásáról, gyártásáról és javításáról, valamint a típus- és légialkalmasságáról szóló miniszteri rendeletben foglalt feltételeknek való megfelelés esetén a légijármű légialkalmasságának vizsgálata során elfogadja más állam hatóságának a légialkalmasságot tanúsító igazolását.
 
-(4) A légialkalmassági tanúsítvány határozatlan időtartamig hatályos. Az állami célú légiközlekedésben a légialkalmassági bizonyítvány határozott időtartamig hatályos, időbeli hatályát a katonai légügyi hatóság időszakos alkalmassági vizsgálat után meghosszabbíthatja.
+(4) A légialkalmassági tanúsítvány határozatlan időtartamig érvényes. A légialkalmassági felülvizsgálati tanúsítvány egy évig érvényes, és a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott feltételek mellett két alkalommal meghosszabbítható alkalmanként további egy évvel. Az állami célú légiközlekedésben a légialkalmassági bizonyítvány határozott időtartamig érvényes, időbeli hatályát a katonai légügyi hatóság időszakos alkalmassági vizsgálat után meghosszabbíthatja.
 
 (5) A légialkalmassági tanúsítvány, valamint a katonai légügyi hatóság által kiadott légialkalmassági bizonyítvány hatályának fennállása alatt biztosítani kell a légijármű jogszabályban meghatározott folyamatos légialkalmasságának fenntartását. A légialkalmassági vizsgálatot soron kívül akkor is el kell végezni, ha a légijárművön a légialkalmasságot befolyásoló – külön jogszabályban meghatározott – javítást vagy módosítást végeztek.
 
@@ -964,9 +985,9 @@ köteles elhelyezni és karbantartani.
 - a) a honvédelmi célú repülések céljára szolgáló repülőterek 10 km sugarú környezetében és kormányrendeletben meghatározott további területre vonatkozóan a helyi átlagos terepszinthez viszonyítva legalább 25 m magasságú tereptárgyak adatait tartalmazó REP-25 adatbázis,
 - b) a Magyarország teljes területére vonatkozó, a helyi átlagos terepszinthez viszonyítva legalább 60 m magasságú tereptárgyak adatait tartalmazó REP-60 adatbázis,
 - c) a Magyarország teljes területére vonatkozó, a helyi átlagos terepszinthez viszonyítva legalább 100 m magasságú tereptárgyak adatait tartalmazó 1 Terület adatbázis,
-- d) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan miniszteri rendeletben meghatározott adattartalmú 2 Terület adatbázis,
-- e) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan miniszteri rendeletben meghatározott adattartalmú 3 Terület adatbázis,
-- f) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan miniszteri rendeletben meghatározott adattartalmú 4 Terület adatbázis,
+- d) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 2 Terület adatbázis,
+- e) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 3 Terület adatbázis,
+- f) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 4 Terület adatbázis,
 - g) a Magyarország teljes területére vonatkozó, legalább 10x10 méteres rácsháló méretű digitális domborzatmodell.
 
 (4) A (3) bekezdésben meghatározott részadatbázisok geometriai alapjainak biztosításához, térképi megalapozásához fel kell használni a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 3. § (1) bekezdés b)–f) pontjában meghatározott adatbázisokat.
@@ -979,7 +1000,7 @@ köteles elhelyezni és karbantartani.
 
 (8) A (6) bekezdésben foglaltaktól eltérően a Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat a Magyarország légiközlekedési terep és akadály adatbázisában szereplő, a feladatai ellátása érdekében szükséges adatokat, valamint a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának szabályairól és a Magyarország légiközlekedési terep és akadály adatbázisának adattartalmára vonatkozó szabályokról szóló miniszteri rendelet alapján a részére szolgáltatandó adatokat díj- és költségmentesen kapja meg.
 
-(9) A Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat az adatbázis adatait kizárólag saját feladatai ellátásához használhatja, az adatbázist és tartalmát harmadik fél részére nem adhatja át, de feladatai körében az adatbázisból a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának szabályairól és a Magyarország légiközlekedési terep és akadály adatbázisának adattartalmára vonatkozó szabályokról szóló miniszteri rendeletben meghatározott tájékoztató kiadványokban adatok közlésére jogosult.
+(9) A Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat az adatbázis adatait kizárólag saját feladatai ellátásához használhatja, az adatbázist és tartalmát harmadik fél részére nem adhatja át, de feladatai körében az adatbázisból a légiforgalmi tájékoztatás rendjéről, a légiforgalmi tájékoztató szolgálat ellátásának a szabályairól szóló miniszteri rendeletben és a repülőtér akadálykorlátozási felületeinek kijelöléséről, a légiközlekedési akadályok jelölésének részletes szabályairól, valamint Magyarország légiközlekedési terep és akadály adatbázisának létrehozásáról és fenntartásáról szóló kormányrendeletben, meghatározott tájékoztató kiadványokban adatok közlésére jogosult.
 
 ### III. Fejezet — A légiközlekedés szabályai
 
@@ -1037,6 +1058,12 @@ köteles elhelyezni és karbantartani.
 54. § (1) A légijármű parancsnoka (a továbbiakban: parancsnok) a szakszemélyzetnek az az előírt szakszolgálati engedéllyel rendelkező tagja, akit e feladat ellátására a légijármű üzemben tartója jelöl ki.
 
 (2) A repülőeszköz parancsnoka a légijármű vezetője.
+
+(3) A pilóta nélküli légijármű parancsnoka a légijármű vezetője.
+
+(4) A meghosszabbító vizsgák kivételével vizsgáztatóval együtt végzett vizsgarepülés során a légijármű parancsnoka a vizsgáztató, amennyiben kezelőszervekkel ellátott pilótaülésben foglal helyet. A meghosszabbító vizsgák során az 54. § (1) bekezdésében foglaltakat kell alkalmazni.
+
+(5) Vizsgáztatóval együtt végzett vizsgarepülés során a vizsgázó a légijármű parancsnoka, amennyiben a vizsgáztató nem kezelőszervekkel ellátott ülésben foglal helyet.
 
 55. § (1) Motor nélküli légijárműnek motoros légijárművel való vontatásakor az egész vontatmány parancsnoka a motoros légijármű vezetője.
 
@@ -1124,7 +1151,7 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 
 (5) A Társaság a főtevékenysége ellátását elősegítő szolgáltató tevékenységeket is elláthat.
 
-(6) A (2) bekezdésben megjelölt társaság a (3) bekezdésben meghatározott tevékenységével összefüggésben, hosszú távú üzleti érdekeinek elérése céljából gazdasági társaságban kisebbségi vagy többségi tulajdonrészt szerezhet, valamint gazdasági társaságot alapíthat.
+(6) A (2) bekezdésben megjelölt társaság üzleti érdekeinek elérése céljából gazdasági társaságban kisebbségi vagy többségi tulajdonrészt szerezhet, valamint gazdasági társaságot alapíthat.
 
 (7) A Társaság társadalmi közszükségletet kielégítő, rendeltetése folytán vasárnap és munkaszüneti napon is működő munkáltató.
 
@@ -1203,7 +1230,7 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 
 (3) A polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU rendelet (a továbbiakban: 376/2014/EU európai parlamenti és tanácsi rendelet) 4. cikk (2) bekezdésében és az 5. cikk (1) bekezdésében meghatározott kötelező és önkéntes jelentéstételi rendszer létrehozását, valamint a 6. cikk (1) bekezdésében meghatározott személyek kijelölését a repülésbiztonsági szervezeten belül kell végrehajtani.
 
-(3a) A 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű üzemben tartójának, az állami légijármű, és a pilóta nélküli állami légijármű üzemben tartójának és üzemeltetőjének, az állami repülések céljára szolgáló repülőtér üzemeltetőjének, az állami légiforgalmi szolgálatnak a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott események bejelentésére, elemzésére, nyomon követésére valamint a szükséges intézkedések meghozatalára a repülésbiztonsági szervezeten belül baleseti ügyeleti szolgálatot, továbbá a légiközlekedés biztonsága érdekében repülésbiztonsági szolgálatot kell fenntartani, vagy csatlakozni kell olyan szervezethez, amely a légiközlekedési hatóság, az állami légijármű, és a pilóta nélküli állami légijármű üzemben tartója és üzemeltetője, az állami repülések céljára szolgáló repülőtér üzemben tartója és üzemeltetője, és az állami légiforgalmi szolgálat esetén a katonai légügyi hatóság jóváhagyásával e szolgálatok feladatait átvállalja.
+(3a) A 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű üzemben tartójának, az állami légijármű, és a pilóta nélküli állami légijármű üzemben tartójának és üzemeltetőjének, az állami repülések céljára szolgáló repülőtér üzemeltetőjének, az állami légiforgalmi szolgálatnak a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott események bejelentésére, elemzésére, nyomon követésére valamint a szükséges intézkedések meghozatalára a repülésbiztonsági szervezeten belül baleseti ügyeleti szolgálatot, továbbá a légiközlekedés biztonsága érdekében repülésbiztonsági szolgálatot kell fenntartani, vagy csatlakozni kell olyan szervezethez, amely a légiközlekedési hatóság, az állami légijármű, és a pilóta nélküli állami légijármű üzemben tartója és üzemeltetője, az állami repülések céljára szolgáló repülőtér üzemben tartója és üzemeltetője, és az állami légiforgalmi szolgálat esetén a katonai légügyi hatóság jóváhagyásával e szolgálatok feladatait átvállalja.
 
 (4) A repülésbiztonsági szervezettel kapcsolatos részletes szabályokat a légiközlekedési balesetek, a repülőesemények szakmai vizsgálatának részletes szabályairól szóló, és a kizárólag állami légijárművel, pilóta nélküli állami légijárművel bekövetkezett légiközlekedési balesetek, repülőesemények szakmai vizsgálatának részletes szabályairól, valamint a kizárólag állami légijárművel, pilóta nélküli állami légijárművel összefüggő üzembentartói vizsgálat szabályairól szóló jogszabály határozza meg.
 
@@ -1312,7 +1339,7 @@ folytatja le.
 
 őrzi meg.
 
-66/C. § (1) A légiközlekedési hatóság által a 216/2008/EK európai parlamenti és tanácsi rendelet, valamint végrehajtási rendeletei alapján kiadott engedéllyel rendelkező szervezetek a légiközlekedési hatóságnak a 216/2008/EK európai parlamenti és tanácsi rendelet 10. cikke alapján ellátott felügyeleti feladatok ellátásért évente felügyeleti díjat fizetnek. A felügyeleti díjat évente január 31-ig kell a légiközlekedési hatóság számlájára átutalással megfizetni.
+66/C. § (1) A légiközlekedési hatóság által a 2018/1139/EU európai parlamenti és tanácsi rendelet, valamint végrehajtási rendeletei alapján kiadott engedéllyel rendelkező szervezetek a légiközlekedési hatóságnak a 2018/1139/EU európai parlamenti és tanácsi rendelet 62. cikke alapján, valamint a 29. § (1) bekezdése alapján engedéllyel rendelkező szervezetek felett ellátott felügyeleti feladatok ellátásért évente felügyeleti díjat fizetnek. A felügyeleti díjat évente január 31-ig kell a légiközlekedési hatóság számlájára átutalással megfizetni.
 
 (2) A felügyeleti díj a légiközlekedési hatóságot illeti meg, amelyet kizárólag a felügyeleti feladataival összefüggésben használhat fel. Amennyiben az engedéllyel rendelkező szervezet felügyeletét külföldön kell ellátni, a szervezet a felügyeleti díj megfizetésén felül köteles megtéríteni a légiközlekedési hatóság külföldi kiutazással kapcsolatos költségeit.
 
@@ -1469,6 +1496,8 @@ folytatja le.
 - 41. közös felhasználású repülőtér: olyan, elsősorban az általános légiforgalomtól eltérő légijármű-mozgásokat kiszolgáló nem nyilvános repülőtér, amely kialakítása folytán rendelkezik a polgári légiközlekedés szabályainak megfelelő, polgári légiközlekedési tevékenység céljára szolgáló területtel, és amelyre eltérő rendelkezés hiányában az állami repülések céljára szolgáló repülőterekre vonatkozó jogszabályokat kell alkalmazni.
 - 42. pilóta nélküli állami légijármű: a honvédelmi, a vámhatósági, a rendőrségi és határőrizeti szervek céljára szolgáló olyan légijármű, amelyet úgy terveztek és úgy tartanak üzemben, hogy vezetését nem a fedélzeten tartózkodó személy végzi.
 - 43. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény 2. § a) pontjában meghatározott személy.
+- 44. légialkalmassági tanúsítvány: típusalkalmassági tanúsítvánnyal rendelkező légijármű esetében az adott típushoz tartozó, gyártási számmal, lajstromjellel rendelkező egyedi légijármű esetében a típusalkalmasságra vonatkozó előírásoknak való megfelelést tanúsító, határozatlan időtartamig érvényes hatósági okmány;
+- 45. légialkalmassági felülvizsgálati tanúsítvány: a 44. pontban meghatározott légialkalmassági tanúsítvánnyal rendelkező légijárműhöz tartozó, a folyamatos légialkalmassági feltételeknek a kiadás napján való megfelelést igazoló, meghatározott ideig érvényes hatósági okmány.
 
 #### 71/A. §
 
@@ -1502,7 +1531,7 @@ folytatja le.
 - w) a kötelező felelősségbiztosítás szabályait,
 - x) a tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló, 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikke szerinti elosztási eljárás szabályait,
 - y) a bajba jutott vagy eltűnt légijárművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetét, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének a rendjét, e tevékenységek engedélyezésére vonatkozó szabályokat, valamint
-- z) a légiközlekedési terep és akadály adatbázis létrehozásának és működtetésének szabályait, valamint az adatbázist működtető szervezet kijelölését,
+- z) a légiközlekedési terep és akadály adatbázis létrehozásának, működtetésének és adattartalmának szabályait, valamint az adatbázist működtető szervezet kijelölését,
 - zs) a repülőtér akadálykorlátozási felületeinek kijelölésére és a légiközlekedési akadályok jelölésére vonatkozó szabályokat.
 - aa) a veszélyes áru szállítása bejelentésének részlet szabályait, a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok részletes szabályait,
 - bb)
@@ -1533,14 +1562,16 @@ folytatja le.
 
 73/B. § Felhatalmazást kap a Kormány, hogy
 
-- a) az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának részletes szabályait,
-- b) a szakszolgálati engedély kiadásának, felfüggesztésének, valamint helyszíni elvételük és visszavonásuk szabályait,
-- c) a légialkalmassági bizonyítvány kiadásának, felfüggesztésének a részletes szabályait, valamint helyszíni elvételének és visszavonásának a szabályait,
+- a) a polgári légiközlekedés tekintetében az üzembentartási engedély kiadásának, felfüggesztésének és visszavonásának részletes szabályait,
+- b) a polgári légiközlekedési szakszemélyzet tekintetében a szakszolgálati engedélyek kiadásának, felfüggesztésének, valamint helyszíni elvételük és visszavonásuk szabályait,
+- c) a polgári légiközlekedés tekintetében a légialkalmassági bizonyítvány kiadásának, felfüggesztésének a részletes szabályait, valamint helyszíni elvételének és visszavonásának a szabályait,
 - d) a pilóta nélküli légi járművek légialkalmassági vizsgálatának rendjének, a légialkalmassági tanúsítvány kiadásának, felfüggesztésének részletes szabályait,
 - e) a pilóta nélküli légi járművekkel kapcsolatos hatósági eljárás részletes szabályait,
 - f) az állami célú légiközlekedésben a földi kiszolgálás engedélyezésének rendjét,
 - g) az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légi járművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait,
-- h) az állami légi jármű jelzéseinek és nyilvántartásának részletes szabályait, az állami légi jármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait, az állami légi jármű, illetve a légiközlekedéssel kapcsolatos eszköz típus- és légialkalmassága feltételeinek, valamint a típus- és légialkalmassági vizsgálatának részletes szabályait
+- h) az állami légijármű nyilvántartásának, gyártásának és javításának, valamint annak típus- és légialkalmasságának részletes szabályait,
+- i) a pilóta nélküli állami légijárművek repülésének, a pilóta nélküli állami légijármű rendszerek üzemeltetésének, a kezelő személyzet képesítésének, egészségi alkalmasságának követelményeit, valamint a vonatkozó hatósági eljárás részletes szabályait,
+- j) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. Mellékletében szereplő Magyarországon regisztrált vagy nyilvántartott polgári légijárművek légijármű-komponens és légiközlekedéssel kapcsolatos eszköz tervezésével, gyártásával, építésével, típus- és légialkalmassági tanúsításával, egyedi repülési engedélyezésével, folyamatos légialkalmasságának fenntartásával, megfelelőségi tanúsításával összefüggő közigazgatási hatósági eljárás kiegészítő eljárásjogi szabályait.
 
 rendeletben állapítsa meg.
 
@@ -1551,7 +1582,7 @@ rendeletben állapítsa meg.
 - c) a miniszter, hogy a légijármű parancsnoka kijelölésének módját, valamint a légijármű parancsnokának a repülés megkezdésével összefüggő általános feladatait,
 - d) az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben az ország területére légiközlekedési úton bejutó fertőző betegségek megelőzése érdekében történő ideiglenes korlátozások szabályait,
 - e) a miniszter, hogy a műszer szerinti polgári repülési eljárások tervezésének, validációjának és felülvizsgálatának részletes szabályait, valamint a műszer szerinti polgári repülési eljárásokat tervező szolgálat személyi, tárgyi és működési feltételeit, továbbá annak irányítási és feladatrendszerét,
-- f)
+- f) a miniszter, hogy a polgári légijárművek üzemben tartásának szakmai feltételeit és engedélyezési eljárásának anyagi jogi szabályait,
 - g) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel és a miniszterrel egyetértésben a közegészségügyi légi beavatkozás szabályait,
 - h) az agrárpolitikáért felelős miniszter, hogy a miniszterrel egyetértésben a légi személyszállítással és a légi árufuvarozással összefüggő növény-egészségügyi szabályokat,
 - i) a környezetvédelemért felelős miniszter, hogy a miniszterrel és a honvédelemért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a repülésmeteorológiai tájékoztatások és előrejelzések szolgáltatásával, ellenőrzésével, ezek díjazása és költségei megosztásával összefüggő feladatok rendjét és szabályait,
@@ -1578,21 +1609,21 @@ rendeletben állapítsa meg.
 (2) Felhatalmazást kap
 
 - a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóság eljárási díjai fizetésének feltételeit, módját és a díj összegét,
-- b)
+- b) a miniszter, hogy a 19. § (1) bekezdésének a) és c) pontjában meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzembentartási engedély kiadásával, felfüggesztésével és visszavonásával összefüggő anyagi jogi szabályokat,
 - c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait,
-- d) a miniszter, hogy a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait,
+- d) a miniszter, hogy a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijármű, légijármű komponens és légiközlekedéssel kapcsolatos eszköz gyártásának és karbantartásának a légiközlekedéssel összefüggő részletes anyagi jogi szabályait,
 - e) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében – a rendészetért felelős miniszter és a 30. § (1) bekezdése szerinti engedélyezés tekintetében a miniszter egyetértésével – a légiközlekedési szakszemélyzet képzésének részletes szabályait, valamint a képzést végző intézetek kijelölését,
 - f) a miniszter, hogy a nyilvános és a polgári célú nem nyilvános repülőtér vonatkozásában – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
 - g) a honvédelemért felelős miniszter, hogy az állami repülések céljára szolgáló repülőtér esetében a miniszterrel és a tűzvédelmi feltételek tekintetében a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel is egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
-- h) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának részletes szabályait,
+- h) a miniszter, hogy a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának részletes anyagi jogi szabályait,
 - i)
-- j) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében a miniszterrel és a rendészetért felelős miniszterrel – a rádiószolgálatok állomáskezelőire vonatkozó szabályok vonatkozásában az elektronikus hírközlésért felelős miniszterrel is – egyetértésben a szakszolgálati engedélyek fajtáit, szakmai feltételeit,
+- j) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés szakszemélyzetei szakszolgálati engedélyeinek és képzéseinek részletes szabályait a miniszterrel és a rendészetért felelős miniszterrel egyetértésben;
 - k) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a szakszolgálati engedélyek és a légiutas-kísérői tanúsítvány kiadásának egészségügyi feltételeit, a repülőeszközök vezetőire vonatkozó egészségügyi feltételeket, valamint a légiközlekedési szakszemélyzet tagjai és a repülőeszközök vezetői egészségügyi alkalmasságának megállapítását végző szervek kijelölésének és tevékenységének szabályait,
-- l) a honvédelemért felelős miniszter, hogy egészségügyért felelős miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a szakszolgálati engedélyek kiadásának egészségügyi feltételeit,
+- l) a honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a repülőegészségi alkalmassági vizsgálatot végző szerv kijelölésének szabályait, az állami légiközlekedési személyzet repülőegészségi alkalmassági feltételeit, az állami légiközlekedési szakszemélyek repülőegészségi alkalmassági minősítésének és felügyeletének rendjét,
 - m) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami repülések céljára kijelölt légterekben végrehajtott repülések részletes szabályait,
 - n) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben a Magyar Honvédség légvédelmi készenléti repüléseinek a részletes szabályait,
-- o) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó polgári légijármű légialkalmassági követelményeinek, légialkalmassági vizsgálatának szabályait, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kötelező tartalmi elemeit, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kiadására, helyszíni elvételére és visszavonására vonatkozó szabályokat, továbbá a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatokat és a feladat végrehajtásának felelősét,
-- p) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű légialkalmassági feltételeinek, a légialkalmassági vizsgálat rendjének a szabályait,
+- o) a miniszter, hogy a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó polgári légijármű légialkalmassági követelményeinek, légialkalmassági vizsgálatának szabályait, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kötelező tartalmi elemeit, továbbá a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatokat és a feladat végrehajtásának felelősét,
+- p)
 - q) a rendészetért felelős miniszter, hogy a miniszterrel egyetértésben a szakszolgálati engedély, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány rendőr által történő helyszíni elvételének a szabályait,
 - r) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a nyilvános repülőrendezvény szabályait,
 - s) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben – a légiközlekedés védelme tekintetében a rendészetért felelős miniszter egyetértésével is – és a légiközlekedési hatóság által kijelölt zajgátló védőövezet által érintett települési önkormányzatokkal egyeztetve a légiközlekedési bírság kivetésének a részletes szabályait,
@@ -1611,12 +1642,13 @@ rendeletben állapítsa meg,
 - a) a miniszter, hogy a veszélyes áruk biztonságos légiszállításáról szóló műszaki utasításokat,
 - b) a honvédelemért felelős miniszter, hogy a miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben Magyarország Légiközlekedési Terep és Akadály Adatbázisából történő adatszolgáltatással kapcsolatos igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával, felhasználásával és visszatérítésével kapcsolatos részletes szabályokat,
 - c) a miniszter, hogy a lajstromba vétel feltételeit, a bejegyzés tartalmának, módosításának és törlésének a szabályait,
-- d) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légiközlekedési terep és akadály adatbázisa adattartalmára vonatkozó szabályokat,
+- d)
 - e) a miniszter, hogy a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli légijárművekkel végrehajtott repülések szabályait, a nyilvántartás részletes szabályait, a pilóta nélküli légijárművet vezetők képzésének részletes szabályait, a képzést végző szervezetek kijelölésének szabályait, a pilóta nélküli légijárművel végzett tevékenység részletes szabályait és az üzemben tartásának szabályait,
-- f) a honvédelemért felelős miniszter, hogy a miniszterrel, az adópolitikáért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli állami légijárművek repülésének, illetve légijármű rendszerek üzemeltetésének, a vezetőik képesítésének és az egészségügyért felelős miniszterrel egyetértésben a vezetőik egészségügyi alkalmasságának szabályait,
+- f)
 - g) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az egyes védett személyek állami légijárművel történő szállításának részletes szabályait,
 - h) a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állami célú légiközlekedésben a földi kiszolgálás feltételeit,
 - i) a miniszter, hogy a repülőeszköz azonosító jelzéseinek és nyilvántartásának részletes szabályait,
+- j) a miniszter, hogy a 2. § (3) bekezdésében meghatározott szervezet kijelölését és a szervezet által ellátandó légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat
 
 rendeletben állapítsa meg.
 
@@ -1637,7 +1669,7 @@ rendeletben állapítsa meg.
 - m) a Bizottság 691/2010/EU rendelete (2010. július 29.) a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének megállapításáról, valamint a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról szóló 2096/2005/EK rendelet módosításáról, 12. cikk;
 - n) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet;
 - o) az Európai Parlament és a Tanács 1070/2009/EK rendelete (2009. október 21.) az 549/2004/EK, az 550/2004/EK, az 551/2004/EK és az 552/2004/EK rendeletnek az európai légiközlekedési rendszer teljesítményének és fenntarthatóságának javítását célzó módosításáról;
-- p)
+- p) a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i 2018/1139/EU európai parlamenti és tanácsi rendelet és az 1178/2011/EU rendelet bejelentett képzési szervezetek tekintetében történő módosításáról szóló 2018/1119/EU bizottsági rendelet;
 - q) a légiforgalmi adatok és légiforgalmi tájékoztatások minőségével kapcsolatos követelményeknek az egységes európai égbolt keretében történő meghatározásáról szóló, 2010. január 26-ai 73/2010/EU bizottsági rendelet,
 - r) a légi járművek és kapcsolódó termékek, alkatrészek és berendezések légialkalmassági és környezetvédelmi tanúsítása, valamint a tervező és gyártó szervezetek tanúsítása végrehajtási szabályainak megállapításáról szóló, 2012. augusztus 3-ai 748/2012/EU bizottsági végrehajtási rendelet,
 - s) a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet,

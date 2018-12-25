@@ -21,14 +21,14 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (2) A polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: EU-rendelet) 1. cikkét, 2. cikkének 1–9. és 11–17. pontját, 4. cikkét, 6. cikkét, 9. cikk (1) bekezdését, 11–14. cikkét, 15. cikkének (1) bekezdését, 16. cikkének (1)–(5) bekezdését, 17. cikkét, 18. cikkének (1)–(4) bekezdését és a Mellékletét a kizárólag állami légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel összefüggésben megfelelően kell alkalmazni azzal, hogy az Európai Repülésbiztonsági Ügynökség (EASA) részére teljesítendő értesítési és tájékoztatási kötelezettséget nem kell teljesíteni.
 
-(3) Az EU-rendelet 1. cikkét, 2. cikkét, 4. cikkét, 6. cikkét, 9. cikk (1) bekezdését, 11–14. cikkét, 15. cikk (1) bekezdését, 16. cikk (1)–(7) bekezdését és 16. cikk (8) bekezdés b) pontját, 17. cikkét, 18. cikk (1)–(4) bekezdését és a Mellékletét a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 216/2008/EK európai parlamenti és tanácsi rendelet)
+(3) Az EU-rendelet 1. cikkét, 2. cikkét, 4. cikkét, 6. cikkét, 9. cikk (1) bekezdését, 11–14. cikkét, 15. cikk (1) bekezdését, 16. cikk (1)–(7) bekezdését és 16. cikk (8) bekezdés b) pontját, 17. cikkét, 18. cikk (1)–(4) bekezdését és a Mellékletét a polgári repülés területén közös szabályokról és a 2018/1139/EU európai parlamenti és tanácsi rendeletben
 
 - a) II. mellékletében meghatározottaktól eltérő légijárművel bekövetkezett repülőeseménnyel,
 - b) II. mellékletében szereplő légijárművel bekövetkezett légiközlekedési balesettel, súlyos repülőeseménnyel, repülőeseménnyel
 
 összefüggésben megfelelően kell alkalmazni.
 
-(4) A polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU rendelet (a továbbiakban: 376/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk 1–7., 9., 12. pontját, 4. cikk (1), (2) és (5) bekezdését, 15–16. cikkét és I. mellékletét a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében szereplő légijárművel, valamint állami légijárművel bekövetkezett eseményekkel összefüggésben megfelelően kell alkalmazni.
+(4) A polgári légi közlekedési események jelentéséről, elemzéséről és nyomon követéséről, valamint a 996/2010/EU európai parlamenti és tanácsi rendelet módosításáról és a 2003/42/EK európai parlamenti és tanácsi irányelv, valamint az 1321/2007/EK bizottsági rendelet és az 1330/2007/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2014. április 3-i 376/2014/EU rendelet (a továbbiakban: 376/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk 1–7., 9., 12. pontját, 4. cikk (1), (2) és (5) bekezdését, 15–16. cikkét és I. mellékletét a 2018/1139/EU európai parlamenti és tanácsi rendelet I. mellékletében szereplő légijárművel, valamint állami légijárművel bekövetkezett eseményekkel összefüggésben megfelelően kell alkalmazni.
 
 ### Értelmező rendelkezések
 
@@ -99,7 +99,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - a) elvégzi
   - aa) a vasúti balesettel és súlyos vasúti balesettel, a váratlan vasúti eseménnyel, valamint a nagyon súlyos víziközlekedési balesettel és víziközlekedési balesettel, valamint a víziközlekedési eseménnyel,
   - ab) a 376/2014/EU európai parlamenti és tanácsi rendeletben meghatározott, illetékességébe tartozó eseménnyel,
-  - ac) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében szereplő légijárművel bekövetkezett, jelentős légiközlekedés-biztonsági kockázatot magában hordozó, illetékességébe tartozó eseménnyel kapcsolatos bejelentések gyűjtését és elemzését,
+  - ac) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. mellékletében szereplő légijárművel bekövetkezett, jelentős légiközlekedés-biztonsági kockázatot magában hordozó, illetékességébe tartozó eseménnyel kapcsolatos bejelentések gyűjtését és elemzését,
   - ad)
 - b) a légiközlekedési hatósággal együttműködve elvégzi az EU rendelet 13. cikk (1) bekezdésében meghatározott elemzések nyomon követését;
 - c) lefolytatja az illetékességébe tartozó közlekedési balesetek és az egyéb közlekedési események független szakmai és tematikus vizsgálatát és
@@ -111,7 +111,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (4) A közlekedésbiztonsági szerv évente beszámol a Kormánynak az előző évben vizsgált balesetek okainak feltárása során szerzett tapasztalatokról, a közlekedés biztonságát érintő folyamatokról, és a közlekedésbiztonság állapotáról, és ezt követően – legkésőbb szeptember 30-áig – a honlapján közzéteszi az előző évben végzett vizsgálatokról, a kiadott biztonsági ajánlásokról és a korábban kiadott biztonsági ajánlásokkal összhangban végrehajtott intézkedésekről készített beszámolóját, és azt az Európai Bizottság, valamint az Európai Vasúti Ügynökség részére megküldi.
 
-(5) A közlekedésbiztonsági szerv vezetője és a helyettesítésére jogosult kormánytisztviselő felmenthető, ha a tisztségével való összeférhetetlenségét 30 napon belül nem szüntette meg, illetve tisztségének ellátására tartósan alkalmatlanná vált.
+(5) A közlekedésbiztonsági szerv vezetője és a helyettesítésére jogosult foglalkoztatott felmenthető, ha a tisztségével való összeférhetetlenségét 30 napon belül nem szüntette meg, illetve tisztségének ellátására tartósan alkalmatlanná vált.
 
 (6)
 
@@ -127,7 +127,7 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 - h) a biztonsági hatóságtól,
 - i) a többi vasúti szabályozó szervezettől.
 
-(8) A közlekedésbiztonsági szervvel közszolgálati jogviszonyban álló személy (a továbbiakban: kormánytisztviselő) a (7) bekezdésben meghatározott szervekkel, vagy gazdálkodó szervezetekkel, a közszolgálati tisztviselőkről szóló törvényben meghatározottak figyelembevételével
+(8) A közlekedésbiztonsági szerv foglalkoztatottja a (7) bekezdésben meghatározott szervekkel
 
 - a) további jogviszonyt a jártasságának, tapasztalatának, gyakorlatának fenntartásához szükséges mértékben vagy hatósági vizsgáztatói tevékenység kivételével oktatói tevékenység végzésére,
 - b) gyakorolható tevékenység végzésére irányuló jogviszonyt a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet.
@@ -182,11 +182,11 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 7. § (1) A közlekedésbiztonsági szerv:
 
 - a) kivizsgálja
-  - aa) a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
+  - aa) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. melléklete hatálya alá nem tartozó polgári légijárművel belföldön bekövetkezett légiközlekedési balesteket és súlyos repülőeseményeket,
   - ab) a lajstromozásra kötelezett úszólétesítményekkel bekövetkezett nagyon súlyos víziközlekedési baleseteket és a lajstromozásra nem kötelezett úszólétesítményekkel bekövetkezett halált okozó nagyon súlyos víziközlekedési baleseteket,
   - ac) a súlyos vasúti baleseteket,
-  - ad) az 1. § (2) bekezdésben meghatározott, a 216/2008/EK európai parlamenti és tanácsi rendelet II. melléklete hatálya alá nem tartozó polgári légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
-- b) kivizsgálhatja – az állami légijármű kivételével – azokat a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletének hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, valamint az egyéb közlekedési eseményeket, amelyek megítélése szerint
+  - ad) az 1. § (2) bekezdésben meghatározott, a 2018/1139/EU európai parlamenti és tanácsi rendelet I. melléklete hatálya alá nem tartozó polgári légijárművel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, ha a légiközlekedési baleset, súlyos repülőesemény helyszíne szerint illetékes kivizsgáló szerv nem folytat vizsgálatot;
+- b) kivizsgálhatja – az állami légijármű kivételével – azokat a 2018/1139/EU európai parlamenti és tanácsi rendelet I. mellékletének hatálya alá tartozó légijárművekkel bekövetkezett légiközlekedési baleseteket és súlyos repülőeseményeket, a lajstromozásra nem kötelezett úszólétesítménnyel bekövetkezett – az (1) bekezdés a) pont ab) alpontjában nem szereplő – nagyon súlyos víziközlekedési baleseteket, valamint az egyéb közlekedési eseményeket, amelyek megítélése szerint
   - ba) más körülmények között közlekedési balesethez vezethettek volna,
   - bb) a közlekedési rendszer egésze szempontjából jelentőséggel bíró eseménysorozat részét képezik,
   - bc) a közlekedésbiztonságra európai közösségi szinten gyakorolnak hatást,
@@ -272,8 +272,8 @@ Az Országgyűlés a légi-, a vasúti és a víziközlekedés biztonságának j
 
 (3) A 376/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésében meghatározott eseményeket
 
-- a) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű – az állami légijármű kivételével – parancsnoka, vagy ha a parancsnoknak nem áll módjában, a személyzet egyéb tagja,
-- b) a 216/2008/EK európai parlamenti és tanácsi rendelet II. mellékletében meghatározott légijármű – az állami légijármű kivételével –, vagy annak alkatrésze, berendezése tervezésében, gyártásában, karbantartásában, üzembe helyezésében, üzemben tartásában, üzemeltetésében, műszaki alkalmasságának megállapításában részt vevő személy
+- a) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott légijármű – az állami légijármű kivételével – parancsnoka, vagy ha a parancsnoknak nem áll módjában, a személyzet egyéb tagja,
+- b) a 2018/1139/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott légijármű – az állami légijármű kivételével –, vagy annak alkatrésze, berendezése tervezésében, gyártásában, karbantartásában, üzembe helyezésében, üzemben tartásában, üzemeltetésében, műszaki alkalmasságának megállapításában részt vevő személy
 
 köteles a tudomásszerzést követően haladéktalanul személyesen vagy a légiközlekedésről szóló törvényben meghatározott baleseti ügyeleti szolgálat útján jelenteni a közlekedésbiztonsági szervnek a 376/2014/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott adattartalommal.
 
@@ -301,11 +301,11 @@ köteles a tudomásszerzést követően haladéktalanul személyesen vagy a lég
 
 (2) A vizsgálóbizottság legalább két tagból áll. A vizsgálóbizottság tagjait a közlekedésbiztonsági szerv vezetője írásban jelöli ki a szakmai vizsgálat lefolytatására, egyidejűleg kijelöli a szakmai vizsgálat megszervezésével, végrehajtásával és felügyeletével megbízott vizsgálóbizottság vezetőjét.
 
-(3) A vizsgálóbizottság munkájában való részvételre a közlekedésbiztonsági szerv kormánytisztviselőin kívül más, a szakmai vizsgálat lefolytatására – a 22. § (1) bekezdés a)–c) pontja szerinti felhatalmazás alapján kiadott miniszteri rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető.
+(3) A vizsgálóbizottság munkájában való részvételre a közlekedésbiztonsági szerv foglalkoztatottain kívül más, a szakmai vizsgálat lefolytatására – a 22. § (1) bekezdés a)–c) pontja szerinti felhatalmazás alapján kiadott miniszteri rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető.
 
 (3a) A vizsgálóbizottság munkájában történő részvételre az állami közlekedésbiztonsági szerv hivatásos, szerződéses szolgálati jogviszonyban álló tagján, kormánytisztviselőjén kívül más, a szakmai vizsgálat lefolytatására – a kizárólag állami légijárművel bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatának részletes szabályairól, valamint a kizárólag állami légijárművel összefüggő üzembentartói vizsgálat szabályairól szóló miniszteri rendeletben meghatározott – szakértelemmel rendelkező személy is igénybe vehető.
 
-(4) A szakmai vizsgálat vezetője a közlekedésbiztonsági szerv kormánytisztviselője. A súlyos repülőesemény kivételével az egyéb közlekedési esemény vizsgálatára a közlekedésbiztonsági szerv kormánytisztviselői közül – vizsgálóbizottság helyett – szakmai kivizsgáló is kijelölhető. A szakmai kivizsgáló a vizsgálóbizottság feladatait látja el és gyakorolja jogait.
+(4) A szakmai vizsgálat vezetője a közlekedésbiztonsági szerv foglalkoztatottja. A súlyos repülőesemény kivételével az egyéb közlekedési esemény vizsgálatára a közlekedésbiztonsági szerv foglalkoztatottai közül – vizsgálóbizottság helyett – szakmai kivizsgáló is kijelölhető. A szakmai kivizsgáló a vizsgálóbizottság feladatait látja el és gyakorolja jogait.
 
 (4a) A kizárólag állami légijárművel bekövetkezett légiközlekedési baleset, súlyos repülőesemény és repülőesemény szakmai vizsgálatának vezetője az állami közlekedésbiztonsági szervnél hivatásos vagy szerződéses szolgálati jogviszonyban álló személy.
 
@@ -410,7 +410,7 @@ látja el.
 - d) akitől a közlekedési baleset vagy az egyéb közlekedési esemény tárgyilagos vizsgálata egyéb okból nem várható el,
 - e) a vizsgálat által érintett szerv (gazdálkodó szervezet) vezető tisztségviselőjének vagy tulajdonosának közeli hozzátartozója.
 
-(2) A közlekedésbiztonsági szerv vizsgálóbizottsága vezetőjének és kormánytisztviselő tagjainak a következő végzettséggel és képesítéssel kell rendelkezniük:
+(2) A közlekedésbiztonsági szerv vizsgálóbizottsága vezetőjének és foglalkoztatott tagjainak a következő végzettséggel és képesítéssel kell rendelkezniük:
 
 - a) szakirányú felsőfokú iskolai végzettség és az érintett szakterületen legalább öt év szakmai gyakorlat, valamint
 - b) a közlekedésbiztonsági szervnél elvégzett, vagy más közlekedésbiztonsági szervnél, képző szervnél, illetve nemzetközi szervezetnél elvégzett és a közlekedésbiztonsági szerv által elfogadott közlekedési balesetvizsgáló tanfolyam elvégzését igazoló irat.
@@ -734,7 +734,7 @@ rendeletben állapítsa meg.
 
 23. § (1) Ez a törvény a következő uniós aktusoknak való megfelelést szolgálja:
 
-- a)
+- a) a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i 2018/1139/EU európai parlamenti és tanácsi rendelet;
 - b)
 - c) az Európai Parlament és a Tanács 2004/49/EK irányelve (2004. április 29.) a közösségi vasutak biztonságáról, valamint a vasúttársaságok engedélyezéséről szóló 95/18/EK tanácsi irányelv és a vasúti infrastruktúra-kapacitás elosztásáról, továbbá a vasúti infrastruktúra használati díjának felszámításáról és a biztonsági tanúsítványról szóló 2001/14/EK irányelv módosításáról, 3. cikk j)–o) pont, 19–25. cikk;
 - d) a víziközlekedésről szóló 2000. évi XLII. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével.
