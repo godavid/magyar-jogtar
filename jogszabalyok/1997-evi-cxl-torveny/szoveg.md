@@ -606,7 +606,7 @@ esetében.
 
 (4) A (2) bekezdésben felsoroltakon kívüli szolgáltatások a könyvtárba való beiratkozással vehetők igénybe. A beiratkozásért a fenntartó döntése alapján beiratkozási díj szedhető.
 
-(5) A beiratkozott olvasó ingyenesen kölcsönözheti a nyomtatott könyvtári dokumentumokat.
+(5) A beiratkozott olvasó ingyenesen kölcsönözheti a nyomtatott és elektronikus könyvtári dokumentumokat.
 
 (6) A 16 éven aluliak és a 70 éven felüliek mentesülnek a beiratkozási díj megfizetése alól. A pedagógusok és a diákok más jogszabályban megállapítottak szerinti kedvezményekben részesülnek.
 
@@ -944,9 +944,9 @@ esetében.
 
 78/B. § (1) A kulturális központ a közművelődési alapszolgáltatások teljes körét biztosító közművelődési intézmény. Tevékenysége feladatai települési, kerületi szintű biztosítása mellett több egymással határos járásra, egy megyére vagy több egymással határos megyére terjed ki.
 
-(2) A kulturális központ vezetője mesterfokozattal és szakirányú szakképzettséggel rendelkezik.
+(2) A kulturális központ vezetője szakirányú mesterfokozatú szakképzettséggel rendelkezik.
 
-(2a) A kulturális központban közművelődési szakmai munkakörben foglalkoztatottak legalább 30%-ának mesterfokozattal és szakirányú szakképzettséggel kell rendelkeznie.
+(2a) A kulturális központban közművelődési szakmai munkakörben foglalkoztatottak legalább 30%-ának szakirányú mesterfokozatú szakképzettséggel kell rendelkeznie.
 
 (3) A kulturális központ elnevezésében szerepelnie kell a „kulturális központ” vagy az „agóra” kifejezés valamelyikének.
 
@@ -1004,7 +1004,7 @@ esetében.
 - c) biztosítja a feladatok ellátásához és a közösségi színtér, illetve közművelődési intézmény fenntartásához szükséges, e törvény szerinti szervezeti, személyi, szakképzettségi és tárgyi feltételeket,
 - d) kijelöli a közösen létesített vagy önkormányzatok közötti társulásban fenntartott közösségi színtér, illetve közművelődési intézmény esetében a működtetői jogok gyakorlóját.
 
-78/J. § (1) Közművelődési intézmény létesítése, átszervezése, megszüntetése, valamint tevékenységének 2 hónapon túli szüneteltetése esetén a testületi döntés meghozatala előtt 30 nappal a miniszter és a 82. § szerinti Közművelődési Kerekasztal véleményét be kell szerezni, és annak tartalmát a képviselőtestülettel ismertetni kell.
+78/J. § (1) Közművelődési intézmény – ideértve a közművelődési megállapodás keretében működtetett intézményt is – létesítése, átszervezése, megszüntetése, valamint tevékenységének 2 hónapon túli szüneteltetése esetén a testületi döntés meghozatala előtt 30 nappal a miniszter és a 82. § szerinti Közművelődési Kerekasztal véleményét be kell szerezni, és annak tartalmát a képviselőtestülettel ismertetni kell.
 
 (2) Ha a miniszter és a Közművelődési Kerekasztal a megkereséstől számított 30 napon belül nem nyilvánít véleményt, úgy kell tekinteni, hogy a megkeresésben foglaltakkal egyetért. A miniszter és a Közművelődési Kerekasztal véleménye a képviselőtestületet nem köti döntése meghozatalában.
 
@@ -1103,9 +1103,9 @@ esetében.
 
 87/A. § (1) Az országos és a területi szintű közművelődési szakmai szolgáltató szervezet feladatait közszolgáltatási szerződés keretei között, ha a jogszabályi feltételeknek egyebekben megfelel államháztartáson kívüli szervezet is elláthatja, ha a feladat szerepel a létesítő okiratában.
 
-(2) Az országos és a területi szintű közművelődési szakmai szolgáltató szervezet vezetője mesterfokozattal és szakirányú szakképzettséggel rendelkezik.
+(2) Az országos és a területi szintű közművelődési szakmai szolgáltató szervezet vezetője szakirányú mesterfokozatú szakképzettséggel rendelkezik.
 
-(3) Az országos és a területi szintű közművelődési szakmai szolgáltató szervezetben közművelődési szakmai munkakörben foglalkoztatottak legalább 50%-ának mesterfokozattal és szakirányú szakképzettséggel kell rendelkeznie.
+(3) Az országos és a területi szintű közművelődési szakmai szolgáltató szervezetben közművelődési szakmai munkakörben foglalkoztatottak legalább 50%-ának szakirányú mesterfokozatú szakképzettséggel kell rendelkeznie.
 
 ### III/A. Fejezet — A hagyományőrzéssel és a néphagyomány gondozásával kapcsolatos állami feladatok
 
