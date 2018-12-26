@@ -14,6 +14,18 @@ Az Országgyűlés a magyar állam, Budapest Főváros Önkormányzata és Budap
 
 a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosításáról szóló 2015. évi XIV. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a vagyonkezelő vagyonkezelésébe kerülnek az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelők vagyonkezelői jogának egyidejű megszűnésével.
 
+(1b) A Városliget megújításához és fejlesztéséhez kapcsolódó beruházások megvalósítása és a vagyonkezelői feladatok hatékony ellátása érdekében a Budapest XIV. kerület, 29766/4 helyrajzi számú ingatlan az egyes kulturális tárgyú törvények módosításáról szóló 2018. évi CVI. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a vagyonkezelő vagyonkezelésébe kerül az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelő vagyonkezelői jogának egyidejű megszűnésével. A Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását, valamint a Magyar Állami Operaház Andrássy úti épülete és a kapcsolódó létesítmények felújítását és korszerűsítését célzó beruházások (a továbbiakban együtt: Opera beruházások) megvalósítása érdekében
+
+- a) a Budapest X. kerület, 38920/6, 38920/7 és 38920/8 helyrajzi számú, természetben a Kőbányai út 30. szám alatti ingatlanok,
+- b) a Budapest VI. kerület 29209 helyrajzi számú, természetben az Andrássy út 22. szám alatti ingatlanon elhelyezkedő épület és
+- c) a Budapest VI. kerület 29082 helyrajzi számú, természetben a Hajós utca 11. szám alatti ingatlanon elhelyezkedő épület
+
+e törvény erejénél fogva, mint közfeladat ellátásához szükséges ingatlan ingyenesen a vagyonkezelő 100%-os tulajdonában álló gazdasági társaság (a továbbiakban: projekttársaság) vagyonkezelésébe kerül a Magyar Állami Operaház vagyonkezelői jogának egyidejű megszűnésével.
+
+(1c) A vagyonkezelői jog az (1b) bekezdés a) pontja szerinti ingatlanok teljes területére, a b) és c) pontja szerinti ingatlanok esetében az épületre és annak alkotórészeire, valamint az épület rendeltetésszerű használatához szükséges, beruházással érintett tartozékaira terjed ki.
+
+(1d) A vagyonkezelői jog nem terjed ki az (1b) bekezdés a)–c) pontjai szerinti ingatlanokon az Opera beruházásokkal nem érintett eszközökre és ingóságokra, amelyek tekintetében a Magyar Állami Operaház vagyonkezelői joga változatlanul fennmarad.
+
 (2) A vagyonkezelő vagyonkezelői joga tekintetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 11. § (8) bekezdés c) és e) pontja, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 109. § (6) bekezdése nem alkalmazandó.
 
 (3) A vagyonkezelőben az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek összességét a kultúráért felelős miniszter gyakorolja.
@@ -22,9 +34,11 @@ a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII
 
 2. § (1) A vagyonkezelő vagyonkezelői joga tekintetében az Nvt. 6. § (1) bekezdése szerinti osztott tulajdon létesítésének tilalmát a 3. § (1) bekezdése alapján létesített épület, valamint a 3. § (2) bekezdése alapján átalakítással érintett ingatlan tekintetében nem kell alkalmazni.
 
-(2) A vagyonkezelő vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
+(2) A vagyonkezelő és a projekttársaság vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
 
 (3) Az ingatlanügyi hatóság a vagyonkezelő vagyonkezelői jogát a vagyonkezelő kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárása díjmentes, arra az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 8. §-át nem kell alkalmazni.
+
+(3a) Az ingatlanügyi hatóság a projekttársaság 1. § (1b) bekezdés szerinti vagyonkezelői jogát a projekttársaság kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárása díjmentes, arra a Ptk. 5:167. §-át nem kell alkalmazni.
 
 (4) A vagyonkezelő az állami vagyonról szóló 2007. évi CVI. törvény 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
 
@@ -118,12 +132,62 @@ rendeltetésű épület, valamint parkoló és gépjárművek, illetve kerékpá
 
 (9) A Városligeti építési szabályzat és a településszerkezeti terv készítése és jóváhagyása során a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvény 5. § (7) bekezdésében foglaltakat a városligeti ingatlan területére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a beépítésre szánt, és beépítésre nem szánt különleges terület területfelhasználási egységek köréből olyan terület jelölhető ki, amelyen a (3) bekezdés szerinti rendeltetések elhelyezhetők.
 
-8–13. §
+8. § (1) A vagyonkezelő által létrehozott projekttársaság közvetlenül vagy közvetett módon 100%-os állami tulajdonban áll.
+
+(2) A projekttársaság az állami vagyonról szóló 2007. évi CVI. törvény 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
+
+(3) Az Opera beruházásokkal kapcsolatos feladatok ellátása kiemelt jelentőségű állami feladat, amelyet a projekttársaság lát el. A projekttársaság feladatait az állam nevében és javára eljárva látja el.
+
+(4) A projekttársaság az Opera beruházásokat költségvetési forrásból valósítja meg az állam nevében eljáró, a forrást rendelkezésre bocsátó szervvel – az államháztartásról szóló törvény alapján – kibocsátott támogatói okirat alapján. A támogatói okiratot az egyes kulturális tárgyú törvények módosításáról szóló 2018. évi CVI. törvény hatálybalépését követő 30 napon belül a projekttársaság számára ki kell adni.
+
+(5) A projekttársaság mint építtető az Opera beruházások megvalósítása során különösen az alábbi feladatokat látja el:
+
+- a) teljeskörűen gondoskodik a szükséges tervek, tanulmányok elkészítéséről;
+- b) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban;
+- c) a saját nevére megszerzi az építési és egyéb engedélyeket;
+- d) lefolytatja a közbeszerzési eljárásokat;
+- e) megköti a megvalósításra vonatkozó építési és egyéb szerződéseket;
+- f) elvégzi a teljesítések igazolását;
+- g) gondoskodik az építési műszaki ellenőri tevékenység ellátásáról;
+- h) gondoskodik a műszaki átadás-átvétel lebonyolításáról;
+- i) a feladatok elvégzéséhez beruházás-lebonyolítót vehet igénybe.
+
+9. § (1) Az Opera beruházások e törvény erejénél fogva a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) szerinti kiemelten közérdekű beruházásnak minősülnek.
+
+(2) Az Opera beruházások tekintetében az Ngtv. szerinti kiemelten közérdekű beruházásra vonatkozó szabályokat az e törvényben és az Ngtv. felhatalmazása alapján kiadott kormányrendeletekben meghatározott eltérésekkel kell alkalmazni.
+
+(3) Az Opera beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatlakozási, fejlesztési, bontási és kiváltási munkákat a 3/A. §-ban foglaltak alapján kell elvégezni és elszámolni.
+
+(4) Az építési tevékenység megvalósítása céljából a projekttársaság által kezdeményezett hatósági eljárásokban az ingatlantulajdonosi hozzájárulást megadottnak kell tekinteni.
+
+(5) A projekttársaság a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez, amelyekkel összefüggésben e törvény erejénél fogva, önállóan – selejtezési szabályzata figyelembevételével – jogosult a bontással járó munkálatok elvégzésére, a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, hulladékgyűjtő helyen történő elhelyezésére továbbá a hulladéknak nem minősülő vissznyeremény anyagok értékesítésére. A vissznyeremény anyagok értékesítéséből származó bevétel a projekttársaságot illeti meg azzal, hogy köteles az értékesítésből származó bevételt a vagyonkezelésében lévő ingatlanon megvalósuló beruházásra fordítani.
+
+(6) Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek a projekttársaság az ingatlan felett az állam nevében tulajdonosi jogokat gyakorló személy (a továbbiakban: tulajdonosi joggyakorló) által vezetett vagyon-nyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
+
+10. § (1) A projekttársaság a beruházás megvalósítása keretében megkötött szerződésekben – ideértve különösen, de nem kizárólag a tanácsadói, lebonyolítói, kivitelezői, műszaki ellenőri, és egyéb a beruházáshoz kapcsolódóan korábban megkötött szerződéseket – szerződés-átruházás útján a Magyar Állami Operaház helyébe lép. A szerződés-átruházáshoz a szerződésben részes harmadik fél hozzájárulása nem szükséges, őt a szerződés átruházásról a projekttársaság értesíti. A hatósági engedélyek tekintetében a korábbi vagyonkezelő helyébe e törvény erejénél fogva a projekttársaság lép, melyet a projekttársaság bejelent a hatósági engedélyt kiadó hatóság részére.
+
+(2) A Magyar Állami Operaház köteles az Opera beruházások tekintetében az általa elkészíttetett tervekre vonatkozó felhasználási engedélyt, illetve a felhasználási szerződést a projekttársaságra átruházni. Az ilyen átruházáshoz a szerző hozzájárulása nem szükséges, de a projekttársaság a felhasználási engedély, illetve a szerződés átruházásáról értesíti a szerzőt.
+
+(3) A szerződés átruházása esetén a projekttársaságot további közbeszerzési kötelezettség nem terheli, és a tervek felhasználási jogának átruházása esetén a projekttársaságot további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
+
+(4) A projekttársaság vagyonkezelői jogának fennállása idején az 1. § (1b) bekezdés a)–c) pontjai szerinti ingatlanok üzemeltetési feladatainak ellátására a Magyar Állami Operaházzal szerződést köt.
+
+(5) A projekttársaság vagyonkezelői joga az 1. § (1b) bekezdés a)–c) pontjai szerinti ingatlanok használatbavételi engedélyének véglegessé válását és a műszaki átadás-átvétel lebonyolítását követően, a munkaterület kivitelező által a projekttársaság részére történő visszaadását igazoló jegyzőkönyv aláírását követő napon e törvény erejénél fogva megszűnik és e törvény erejénél fogva, ingyenesen a Magyar Állami Operaház vagyonkezelésébe kerül.
+
+(6) A projekttársaság a vagyonkezelői jogának (5) bekezdés szerinti megszűnését köteles a tulajdonosi joggyakorló felé a megszűnést követő munkanapon írásban bejelenteni.
+
+(7) A projekttársaság a vagyonkezelői jogának (5) bekezdés szerinti megszűnését követő 15 napon belül köteles az ingatlan-nyilvántartásból töröltetni, egyidejűleg a Magyar Állami Operaház bejegyeztetni a vagyonkezelői jogát. Az ingatlanügyi hatóság e törvény alapján a projekttársaság vagyonkezelői jogát a projekttársaság kérelmére törli az ingatlan-nyilvántartásból, a Magyar Állami Operaház vagyonkezelői jogát, annak kérelmére az ingatlan-nyilvántartásba bejegyzi. Az ingatlanügyi hatóság eljárása díjmentes, arra a Ptk. 5:167. §-át nem kell alkalmazni.
+
+(8) A projekttársaság a felhasznált forrásokkal és a létrehozott eszközökkel a magyar állam nevében eljáró, a forrásokat rendelkezésre bocsátó szervvel – az államháztartásról szóló törvény alapján – kibocsátott támogatói okiratban foglaltak szerint számol el.
+
+11. § Az Opera beruházások közérdekű célú fejlesztésnek minősülnek, amelynek során a létrehozott vagyon, építmény az állam tulajdonába kerül.
+
+#### 12–13. §
 
 14. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
 15. § (1) Az 1. § (2) bekezdése az Alaptörvény 31. cikk (3) bekezdése és az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 2. § (1)–(3) bekezdése, a 3. § (1) és (2) bekezdése, a 4. § és a 14. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+(2) A 2. § (1)–(3a) bekezdése, a 3. § (1) és (2) bekezdése, a 4. § és a 11. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 16. § Budapest Főváros Önkormányzata 2014. június 30-ig állapítja meg a Városligeti építési szabályzatot.
