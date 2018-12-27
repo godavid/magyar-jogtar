@@ -107,7 +107,7 @@ vonatkozó adatkörökbe tartozó adatokat.
 
 9. § Ez a törvény a kihirdetését követő 8. napon lép hatályba.
 
-10. § Hatályát veszti a 2011. évi népszámláslásról szóló 2009. évi CXXXIX. törvény.
+#### 10. §
 
 11. § Ez a törvény
 
