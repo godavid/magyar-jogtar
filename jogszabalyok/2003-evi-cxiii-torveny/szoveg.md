@@ -14,6 +14,11 @@ Magyarország csatlakozása az Európai Unióhoz megköveteli, hogy az Országgy
 
 2/A. § (1) Az Európai Parlament tagjainak választásán az választó és választható, aki Magyarországon lakóhellyel rendelkezik.
 
+(1a) Az Európai Parlament tagjainak választásán az a magyar állampolgár is választó, aki
+
+- a) Magyarországon élő, lakcímmel nem rendelkező választópolgár,
+- b) az Európai Unió területén kívüli lakóhellyel rendelkezik.
+
 (2) Az Európai Parlament tagjainak választásán nem választható, aki jogerős ítélet alapján szabadságvesztés büntetését vagy büntetőeljárásban elrendelt intézeti kényszergyógykezelését tölti.
 
 ### Választójog
@@ -113,9 +118,8 @@ Magyarország csatlakozása az Európai Unióhoz megköveteli, hogy az Országgy
 
 ### Az Európai Közösségek jogára utaló rendelkezés
 
-51. § E törvény, a választási eljárásról szóló 1997. évi C. törvénnyel együtt, a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében a Megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályaival összeegyeztethető szabályozást tartalmaz:
+51. § (1) Ez a törvény a Tanács az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának az európai parlamenti választások során történő gyakorlására vonatkozó részletes szabályok megállapításáról szóló 1993. december 6-i 93/109/EK irányelvének valamint az azt módosító 2013/1/EU tanácsi irányelvnek való megfelelést szolgálja.
 
-- a) a Tanács 1993. december 6-i 93/109/EK irányelve az állampolgárságuktól eltérő tagállamban lakóhellyel rendelkező uniós polgárok aktív és passzív választójogának az európai parlamenti választások során történő gyakorlására vonatkozó részletes szabályok megállapításáról;
-- b) a Tanács 76/787/ESZAK, EGK, Euratom határozatához mellékelt, a Tanács 2002. június 25-i és szeptember 23-i 2002/772/EK, Euratom határozatával módosított, az Európai Parlament képviselőinek közvetlen és általános választójog alapján történő választásáról szóló okmány.
+(2) Ez a törvény az 1976. szeptember 20-i 76/787/ESZAK, EGK, Euratom tanácsi határozathoz csatolt, az Európai Parlament tagjainak közvetlen és általános választójog alapján történő választásáról szóló okmány módosításáról szóló 2018. július 13-i (EU, Euratom) 2018/994 tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet a 2003. évi CXIII. törvényhez

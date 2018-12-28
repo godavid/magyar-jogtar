@@ -30,9 +30,9 @@ szervezhet.
 
 3. § (1) A szervezőnek a népszavazásra javasolt kérdést, az aláírásgyűjtés megkezdése előtt – a kérdés hitelesítése céljából – be kell nyújtania a Nemzeti Választási Bizottsághoz.
 
-(2) Egy aláírásgyűjtő íven egy kérdés szerepelhet.
+(2) Egy kezdeményezésben egy kérdés szerepelhet.
 
-(3) A magánszemély szervező a kérdés benyújtásakor a nevét, lakcímét és személyi azonosítóját, ennek hiányában a magyar állampolgárságát igazoló okirata számát közli a Nemzeti Választási Bizottsággal.
+(3) A magánszemély szervező a kérdés benyújtásakor a nevét, lakcímét és személyi azonosítóját, ennek hiányában a személyazonosságát igazoló hatósági igazolványa számát közli a Nemzeti Választási Bizottsággal.
 
 (4) Az egyéb egyesület a létesítő okiratát is csatolja a kérdés benyújtásakor.
 
@@ -40,7 +40,7 @@ szervezhet.
 
 4. § (1) A kérdést legalább húsz, de legfeljebb harminc választópolgár támogató aláírásával ellátva kell benyújtani.
 
-(2) A támogató aláírások gyűjtését megelőzően a szervezőnek az adatkezelést az adatvédelmi nyilvántartásba be kell jelentenie.
+(2)
 
 (3) A támogató választópolgár aláírására a 15. § (2) és (3) bekezdését kell alkalmazni.
 
@@ -90,13 +90,13 @@ határozatának a 30. § (3) bekezdésében foglaltak szerint a Magyar Közlöny
 
 #### 3. A kérdés hitelesítése
 
-10. § (1) Ha a kezdeményezés az országos népszavazás jogintézményének alkotmányos céljával és rendeltetésével nyilvánvalóan ellentétes, vagy nem felel meg a 2–4. §-ban, a 6. §-ban és a 8. § (1) bekezdésében foglalt feltételeknek, továbbá ha az aláírásgyűjtő ív nem felel meg a jogszabályi feltételeknek, a Nemzeti Választási Iroda elnöke a kérdést a benyújtásától számított öt napon belül határozattal elutasítja, és nem terjeszti a Nemzeti Választási Bizottság elé. Az elutasító határozat tartalmára és közlésére a Ve. 46. §, 47. §, 48. § (3) bekezdése és 50. § rendelkezéseit kell alkalmazni.
+10. § (1) Ha a kezdeményezés az országos népszavazás jogintézményének alkotmányos céljával és rendeltetésével nyilvánvalóan ellentétes, vagy nem felel meg a 2–4. §-ban, a 6. §-ban és a 8. § (1) bekezdésében foglalt feltételeknek, a Nemzeti Választási Iroda elnöke a kérdést a benyújtásától számított öt napon belül határozattal elutasítja, és nem terjeszti a Nemzeti Választási Bizottság elé. Az elutasító határozat tartalmára és közlésére a Ve. 46. §, 47. §, 48. § (3) bekezdése és 50. § rendelkezéseit kell alkalmazni.
 
 (2) A Nemzeti Választási Iroda elnökének határozata ellen jogorvoslatnak helye nincs, de a szervező a kérdést ismételten benyújthatja. Az ismételten benyújtott kérdés hitelesítését a Nemzeti Választási Bizottság napirendjére kell tűzni, kivéve, ha a támogató választópolgárok száma – beleértve a magánszemély szervezők számát is – nem éri el a húszat.
 
 (3) Ha a szervező a kérdést a Nemzeti Választási Iroda elnöke elutasító határozatának közlését követő tizenöt napon belül nyújtja be ismételten, a 8. § alkalmazásában az első benyújtás időpontját kell a kérdés benyújtása időpontjának tekinteni.
 
-11. § (1) A Nemzeti Választási Bizottság a kérdés hitelesítéséről vagy annak megtagadásáról a benyújtásától számított harminc napon belül dönt. A Nemzeti Választási Bizottság a kérdést akkor hitelesíti, ha az az Alaptörvényben, valamint az e törvényben a kérdéssel szemben támasztott követelményeknek megfelel. A szervező által benyújtott kérdés csak abban az esetben hitelesíthető, ha az aláírásgyűjtő ív is megfelel a jogszabályban foglalt előírásoknak.
+11. § (1) A Nemzeti Választási Bizottság a kérdés hitelesítéséről vagy annak megtagadásáról a benyújtásától számított harminc napon belül dönt. A Nemzeti Választási Bizottság a kérdést akkor hitelesíti, ha az az Alaptörvényben, valamint az e törvényben a kérdéssel szemben támasztott követelményeknek megfelel.
 
 (2) A Nemzeti Választási Bizottság a kérdést hitelesítő határozatában dönt a 8. § (3) bekezdésében meghatározott körülmény fennállásáról.
 
@@ -137,14 +137,14 @@ határozatának a 30. § (3) bekezdésében foglaltak szerint a Magyar Közlöny
 
 15. § (1) Országos népszavazás elrendelésére irányuló választópolgári kezdeményezést a Nemzeti Választási Iroda által kiadott aláírásgyűjtő íven lehet támogatni. A támogató aláírás nem vonható vissza.
 
-(2) Az aláírásgyűjtő ívre rá kell vezetni az aláírást adó választópolgár olvasható családi és utónevét, személyi azonosítóját vagy a személyi azonosítóval nem rendelkező választópolgár magyar állampolgárságát igazoló okiratának számát, valamint az anyja nevét. Az aláírásgyűjtő ívet az ajánló választópolgár saját kezűleg aláírja. A választópolgár adatainak a kérdéssel azonos oldalon kell szerepelniük.
+(2) A választópolgár adatainak a kérdéssel azonos oldalon kell szerepelniük. Az aláírásgyűjtő ívet az ajánló választópolgár saját kezűleg aláírja. Az aláírásgyűjtő ívre rá kell vezetni az aláírást adó választópolgár olvasható családi és utónevét, valamint személyi azonosítóját és lakcímét. A magyarországi lakcímmel nem rendelkező választópolgár az aláírásgyűjtő ívre a személyi azonosítója és a lakcíme helyett a személyazonosságát igazoló hatósági igazolványa számát és a születési idejét is rávezetheti.
 
 (3) Egy választópolgár a kezdeményezést csak egy aláírással támogathatja, a további aláírásai érvénytelenek.
 
 (4) Az aláírásgyűjtő íven az aláírást gyűjtő személy feltünteti
 
 - a) nevét,
-- b) személyi azonosítóját vagy magyar állampolgárságát igazoló okiratának számát,
+- b) személyi azonosítóját vagy személyazonosságát igazoló hatósági igazolványa számát,
 
 továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
@@ -175,7 +175,7 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 #### 5. Az aláírások ellenőrzése
 
-19. § (1) A szervező az aláírásgyűjtő ívek 14. § (1) bekezdésben meghatározott átvételét követő százhúsz napon belül, egy alkalommal nyújthatja be a népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a Nemzeti Választási Irodához az aláírások ellenőrzése céljából. E határidőbe a 18. § (1) bekezdésében meghatározott időtartam és a 19/B. § (6) bekezdés a) pontja szerinti szünetelés nem számít bele.
+19. § (1) A szervező az aláírásgyűjtő ívek 14. § (1) bekezdésben meghatározott átvételét követő százhúsz napon belül, egy alkalommal nyújthatja be a népszavazás kitűzésére irányuló állampolgári kezdeményezés aláírásgyűjtő íveit a Nemzeti Választási Irodához az aláírások ellenőrzése céljából. E határidőbe a 18. § (1) bekezdésében meghatározott időtartam és a 19/B. § (6) bekezdés b) pontja szerinti szünetelés nem számít bele.
 
 (2) Ha a szervező az aláírásgyűjtő ívek iránti igényét a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét vagy jogorvoslat esetén a Kúria döntésének a Magyar Közlönyben történt közzétételét követő hetedik nap után nyújtja be, az (1) bekezdés szerinti határidőt a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét vagy jogorvoslat esetén a Kúria döntésének a Magyar Közlönyben történt közzétételét követő hetedik naptól kell számítani.
 
@@ -337,6 +337,8 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 (2) A képviselő-testület köteles elrendelni a helyi népszavazást, ha azt az önkormányzati rendeletében meghatározott számú választópolgár kezdeményezte.
 
+(3) A kezdeményezéshez szükséges választópolgárok számát a központi névjegyzéknek az aláírásgyűjtő ív hitelesítési záradékkal történő ellátásának napján érvényes adatai alapján kell megállapítani.
+
 #### 11. A választópolgári kezdeményezés szervezője
 
 35. § (1) Helyi népszavazás kitűzésére irányuló választópolgári kezdeményezést
@@ -399,7 +401,7 @@ szervezhet.
 
 42. § A helyi választási bizottság a kérdés hitelesítésével kapcsolatos határozatát nyolc napon belül az önkormányzat hivatalos lapjában vagy a helyben szokásos módon közzéteszi.
 
-43. § (1) A kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék hitelesítő határozatot helybenhagyó vagy a kérdést hitelesítő döntésének a helyi választási bizottsággal való közlését – követő öt napon belül a helyi választási iroda vezetője hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát, és azt átadja a szervezőnek. Az aláírásgyűjtő ív átadásának feltétele, hogy a szervező az adatkezelést az adatvédelmi nyilvántartásba bejelentse.
+43. § (1) A kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék hitelesítő határozatot helybenhagyó vagy a kérdést hitelesítő döntésének a helyi választási bizottsággal való közlését – követő öt napon belül a helyi választási iroda vezetője hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát, és azt átadja a szervezőnek.
 
 (2) A helyi választási bizottság elnöke a képviselő-testület tagjai vagy bizottsága által benyújtott kérdés hitelesítéséről a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék hitelesítő határozatot helybenhagyó vagy a kérdést hitelesítő döntésének közlését – követő öt napon belül tájékoztatja a polgármestert.
 
@@ -412,6 +414,8 @@ szervezhet.
 (3) Az aláírásgyűjtő íven az aláírást gyűjtő személy feltünteti nevét és személyi azonosítóját, továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 (4) Egy választópolgár a kezdeményezést csak egyszer támogathatja, a további aláírásai érvénytelenek.
+
+(5) A kezdeményezés támogatására a településen lakóhellyel vagy – ha legkésőbb az aláírásgyűjtő ív hitelesítését megelőző harmincadik napig tartózkodási helyet létesített – bejelentett tartózkodási hellyel rendelkező választópolgár jogosult.
 
 45. § (1) Aláírást a választópolgárok zaklatása nélkül – a (2) bekezdésben foglalt kivétellel – bárhol lehet gyűjteni.
 
@@ -528,9 +532,11 @@ szervezhet.
 
 ### V. Fejezet — AZ ORSZÁGOS NÉPSZAVAZÁSI ELJÁRÁS
 
-65. § Az országos népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 244. § (2) bekezdése, 245. §, 247. § (1) és (3) bekezdése, 250. §, 251. §, 256. § (2) bekezdése, 257. § (3) bekezdése, 258. § (1) bekezdése, 259–270. §, 271. § (2) bekezdése, 272–274. §, 275. § (1) és (2) bekezdése, 277–281. §, 283–285. §, 288–291. §, 293. §, 297. §, valamint 298. § rendelkezéseit is.
+65. § Az országos népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 244. § (2) bekezdése, 245. § (1) bekezdés a), c) és d) pontját, valamint (2) és (3) bekezdése, 247. § (1) és (3) bekezdése, 250. §, 251. §, 256. § (2) bekezdése, 257. § (3) bekezdése, 258. § (1) bekezdése, 259–270. §, 271. § (2) bekezdése, 272–274. §, 275. §, 277–281. §, 283–285. §, 288–291. §, 293. §, 297. §, 298. §, valamint 341/A. § rendelkezéseit is.
 
 66. § A szavazás, az eredmény megállapítása és a jogorvoslat során a népszavazásra feltett minden kérdést külön-külön kell figyelembe venni.
+
+66/A. § A köztársasági elnököt, illetve a Kormányt az általa kezdeményezett népszavazás esetén a népszavazási eljárásban megilletik az e fejezetben a szervezők számára biztosított jogok.
 
 #### 21. Az országos népszavazás kitűzése
 
@@ -560,7 +566,17 @@ szervezhet.
 
 #### 23. A népszavazási kampány
 
-69. § Országos népszavazási kampányidőszakban politikai reklámot a kezdeményezés szervezői, továbbá a kezdeményezés szervezésében részt nem vevő, de országgyűlési képviselőcsoporttal rendelkező pártok tehetnek közzé. A politikai reklámok közzétételére az Európai Parlament tagjainak választásán irányadó szabályokat kell alkalmazni.
+69. § (1) Országos népszavazási kampányidőszakban politikai reklámot a kezdeményezés szervezői, továbbá a kezdeményezés szervezésében részt nem vevő, de országgyűlési képviselőcsoporttal rendelkező pártok tehetnek közzé.
+
+(2) A Nemzeti Választási Bizottság az országos népszavazás kitűzését követő öt munkanapon belül határozza meg, hogy a közszolgálati médiaszolgáltató lineáris médiaszolgáltatásaiban milyen időtartamban köteles közzétenni az (1) bekezdés szerinti jogosultak politikai reklámjait. A politikai reklámok közzétételére rendelkezésre álló időtartam összesen háromszáz perc, amelyet a jogosultak között egyenlő arányban kell felosztani.
+
+(3) A politikai reklámot a közszolgálati médiaszolgáltató a legnagyobb éves átlagos közönségaránnyal bíró lineáris audiovizuális és rádiós médiaszolgáltatásában, egyenlő arányban megosztva teszi közzé.
+
+(4) A közszolgálati médiaszolgáltató naponta három alkalommal, a 6–8, 12–14 és 18–20 óra között kezdődő idősávokban, megszakítás nélkül köteles biztosítani a politikai reklámok közzétételét. Az (1) bekezdés szerinti jogosultak politikai reklámjait egymást követően kell közzétenni. A politikai reklámok megjelenési sorrendjét az esélyegyenlőség biztosítása érdekében naponta változtatni kell.
+
+(5) A közszolgálati médiaszolgáltató az (1) bekezdés szerinti jogosultak által megjelölt napon és idősávban köteles a politikai reklámot közzétenni. Az (1) bekezdés szerinti jogosult politikai reklám közzétételét egy idősávban naponta csak egyszer, legfeljebb harminc másodperces időtartamban kérheti.
+
+(6) A médiaszolgáltató abban az esetben köteles a politikai reklámot közzétenni, ha az (1) bekezdés szerinti jogosult legkésőbb a közzétételt megelőző harmadik napon átadja az általa készített politikai reklámot.
 
 #### 24. Adatszolgáltatás a névjegyzékből
 
@@ -604,6 +620,8 @@ szervezhet.
 
 76. § A külképviseleten leadott szavazatokat a Nemzeti Választási Bizottság felügyelete mellett a Nemzeti Választási Iroda számlálja meg. A számlálást nem lehet megkezdeni a szavazás napján 19 órát megelőzően.
 
+76/A. § Ha a külképviseletről érkezett urnában lezáratlan boríték van, az le nem adott szavazatnak számít, és külön kell csomagolni.
+
 #### 30. A választás eredményének megállapítása
 
 77. § (1) A szavazás eredményéről kiállított szavazóköri jegyzőkönyv egy példányát a helyi választási iroda a Nemzeti Választási Irodához továbbítja.
@@ -628,7 +646,11 @@ alapján megállapítja a választás eredményét.
 
 ### VI. Fejezet — A HELYI NÉPSZAVAZÁSI ELJÁRÁS
 
-80. § A szavazás, az eredmény megállapítása és a jogorvoslat során a helyi népszavazásra feltett minden kérdést külön-külön kell figyelembe venni.
+80. § (1) A helyi népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 307/A. § és a 307/B. § rendelkezéseit is.
+
+(2) A helyi népszavazáson a településen (lakott területrész átadása tárgyában tartott helyi népszavazás esetén a lakott területrészen) lakóhellyel vagy – ha legkésőbb a népszavazás kitűzését megelőző harmincadik napig tartózkodási helyet létesített – bejelentett tartózkodási hellyel rendelkező választópolgár jogosult részt venni.
+
+(3) A szavazás, az eredmény megállapítása és a jogorvoslat során a helyi népszavazásra feltett minden kérdést külön-külön kell figyelembe venni.
 
 #### 32. A helyi népszavazás kitűzése
 
