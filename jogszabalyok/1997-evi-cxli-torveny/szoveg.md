@@ -428,7 +428,7 @@ alapján kerülhet sor.
 (2) A belföldön kiállított magánokirat bejegyzés alapjául csak akkor szolgálhat, ha kitűnik belőle a keltezés helye és ideje, továbbá, ha
 
 - a) a nyilatkozattevő az okiratot saját kezűleg írta és aláírta, vagy
-- b) két, az okiraton névvel és lakcímmel megnevezett tanú aláírásával igazolja, hogy a nyilatkozattevő a nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el, vagy
+- b) két, az okiraton névvel és lakcímmel – vagy a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 6. § (1) bekezdés 108a. pontja szerinti esetben névvel és a munkáltató címével (székhelyével, telephelyével, fióktelepével), valamint a személyazonosításra alkalmas hatósági igazolvány típusával és számával – megnevezett tanú aláírásával igazolja, hogy a nyilatkozattevő a nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el, vagy
 - c) az okiratot a közjegyző készítette, vagy
 - d) az okiratot ügyvéd vagy kamarai jogtanácsos ellenjegyzéssel látta el, továbbá, ha
 - e) az okiratot a jogi személy, jogi személyiséggel nem rendelkező, de az ingatlan-nyilvántartásba bejegyezhető jogra vagy feljegyezhető tényre ügyleti képességgel rendelkező szervezet nevének feltüntetésével szabályszerűen és nyilvánvalóan azonosíthatóan aláírták,

@@ -59,7 +59,7 @@ kategóriába sorolható elem felhasználásával, amely kategóriák egymástó
 - 16. kis összegű készpénz-helyettesítő fizetési eszköz: olyan készpénz-helyettesítő fizetési eszköz, amely kizárólag kilencezer forintot meg nem haladó fizetési műveletre használható, vagy amely negyvenötezer forint fizetési korláttal bír, vagy amelyen a rendelkezésre bocsátott vagy tárolt pénzérték nem haladja meg a negyvenötezer forintot,
 - 17. mikrovállalkozás: az a vállalkozás, amelynek – a keretszerződés vagy az egyszeri fizetési megbízási szerződés megkötésének időpontjában – az összes foglalkoztatotti létszáma 10 főnél kevesebb, és a szerződés megkötését megelőző üzleti évben éves árbevétele vagy mérlegfőösszege legfeljebb 2 millió euró vagy a szerződés megkötését megelőző üzleti év utolsó napján érvényes Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon számítva az ennek megfelelő forintösszeg,
 - 18. munkanap: az a nap, amelyen az ügyfél pénzforgalmi szolgáltatója fizetési művelet teljesítése céljából nyitva tart,
-- 18a. online módon hozzáférhető fizetési számla: olyan fizetési számla, amely vonatkozásában lehetőség van számítástechnikai eszközök közvetlen kapcsolata útján fizetési megbízást adni, valamint adatokhoz, információkhoz hozzáférni,
+- 18a. online módon hozzáférhető fizetési számla: olyan fizetési számla, amely vonatkozásában lehetőség van számítástechnikai eszközök közvetlen kapcsolata útján fizetési megbízást adni, valamint adatokhoz, információkhoz hozzáférni, ide nem értve az olyan korlátozott rendeltetésű fizetési számlát, amelyen lévő pénzeszközök kizárólag jogszabályban meghatározott célokra használhatók fel,
 - 19. pénz: bankjegy, érme, számlapénz, és az elektronikus pénz,
 - 20. pénzforgalmi számla: az a fizetési számla, amelyet a számlatulajdonos rendszeres gazdasági tevékenysége körében pénzforgalmának lebonyolítása céljából törvényben megállapított kötelezettség alapján nyit, illetve nyitott,
 - 21. pénzforgalmi szolgáltatás: a Hpt. meghatározott pénzforgalmi szolgáltatás,
@@ -459,7 +459,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 ### VII. Fejezet — A PÉNZFORGALMI SZOLGÁLTATÁS LEBONYOLÍTÁSÁNAK KÖZÖS SZABÁLYAI
 
-34. § Ha az ügyfél nem fogyasztó vagy mikrovállalkozás, a szerződő felek a 35. §-tól, a 36. § (1) bekezdésétől, a 37. § (3) bekezdésétől, a 38. § (1)–(6) bekezdésétől, a 43. § (1) és (2) bekezdésétől, a 45. § (1)–(5) bekezdésétől, a 46. §-tól, a 47. §-tól, a 49. §-tól és az 50. §-tól eltérően is megállapodhatnak.
+34. § Ha az ügyfél nem fogyasztó vagy mikrovállalkozás, a szerződő felek a 35. §-tól, a 36. § (1) bekezdésétől, a 37. § (3) bekezdésétől, a 38. § (1)–(6) bekezdésétől, a 43. § (1) és (2) bekezdésétől, a 45. § (1)–(5) bekezdésétől, a 46. §-tól, a 47. §-tól, a 49. §-tól, az 50. §-tól, az 52. §-tól és az 52/A. §-tól eltérően is megállapodhatnak.
 
 35. § (1) A pénzforgalmi szolgáltató a VII–IX. Fejezetben előírt tájékoztatási és egyéb kötelezettsége teljesítéséért, a helyesbítő, valamint megelőző intézkedésekért – ide nem értve a 38. § (6) bekezdésében és a 48. § (6) bekezdésében foglaltakat – külön díjat, költséget vagy egyéb fizetési kötelezettséget az ügyfél terhére nem számíthat fel.
 
@@ -607,7 +607,7 @@ köteles megőrizni, illetve tárolni.
 - c) minden egyes kapcsolat létesítése és fenntartása során azonosítja magát az ügyfele fizetési számláját vezető pénzforgalmi szolgáltatónál, valamint a fizetési számlát vezető pénzforgalmi szolgáltatóval és az ügyfelével biztonságos adatátviteli kapcsolatban áll,
 - d) kizárólag az ügyfele által megjelölt fizetési számlákhoz és az azokhoz tartozó fizetési műveletekre vonatkozó információkhoz fér hozzá,
 - e) nem kér fizetési számlához kapcsolódó érzékeny fizetési adatot és
-- f) az ügyfele által kifejezetten igényelt számlainformációs szolgáltatástól eltérő célból nem használ és nem tárol adatokat, valamint nem fér hozzá adatokhoz.
+- f) az ügyfele által kifejezetten igényelt számlainformációs szolgáltatástól eltérő célból nem használ és nem tárol adatokat, valamint nem fér hozzá adatokhoz, a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott adatkezelési és adatvédelmi követelményeknek megfelelő jogszabályi előírásokkal összhangban.
 
 (4) A fizetési számlát vezető pénzforgalmi szolgáltató – a számlainformációs szolgáltatás igénybevétele érdekében –
 
@@ -682,7 +682,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 (3) Kis összegű készpénz-helyettesítő fizetési eszközre vonatkozó keretszerződés alapján a felek megállapodhatnak arról, hogy az (1) és (2) bekezdés nem alkalmazandó, ha az ügyfél olyan készpénz-helyettesítő fizetési eszközt használ, amely az ügyfél beazonosíthatóságát nem teszi lehetővé, vagy a pénzforgalmi szolgáltató a készpénz-helyettesítő fizetési eszköz jellege miatt nincs abban a helyzetben, hogy a művelet jóváhagyását bizonyítsa.
 
-44. § (1) A jóvá nem hagyott fizetési művelet teljesítése esetén – függetlenül attól, hogy azt fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatón keresztül kezdeményezték vagy sem – a fizető fél fizetési számláját vezető pénzforgalmi szolgáltató – kivéve, ha az adott helyzetben észszerű okból az ügyfél csalására gyanakszik, és ezen okról írásban tájékoztatja a Felügyeletet – köteles
+44. § (1) A jóvá nem hagyott fizetési művelet teljesítése esetén – függetlenül attól, hogy azt fizetés-kezdeményezési szolgáltatást végző pénzforgalmi szolgáltatón keresztül kezdeményezték vagy sem – a fizető fél fizetési számláját vezető pénzforgalmi szolgáltató – kivéve, ha az adott helyzetben észszerű okból csalásra gyanakszik, és ezen okról írásban tájékoztatja a Felügyeletet – köteles
 
 - a) azután, hogy tudomást szerzett vagy tájékoztatták a műveletről haladéktalanul, de legkésőbb az ezt követő munkanap végéig megtéríteni a fizető fél részére a jóvá nem hagyott fizetési művelet összegét, és
 - b) a fizetési számla tekintetében a megterhelés előtti állapotot helyreállítani azzal, hogy a jóváírás értéknapja nem lehet későbbi, mint az a nap, amikor a jóvá nem hagyott fizetési művelet teljesítése megtörtént.
@@ -788,7 +788,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 (4) A kedvezményezett pénzforgalmi szolgáltatója a (3) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles biztosítani, hogy a kedvezményezett számláján jóváírt fizetési művelet összege a kedvezményezett rendelkezésére álljon. Ebben az esetben a kedvezményezett fizetési számláján történő jóváírás értéknapja nem lehet későbbi, mint az a nap, amely a hibátlan teljesítés esetén lett volna.
 
-(5) Az (1) és (3) bekezdésben foglaltak kivételével a fizetési művelet nem teljesítéséért vagy hibás teljesítéséért a fizető fél felé a saját pénzforgalmi szolgáltatója felel.
+(5) Az (1), (3) és (4) bekezdésben foglaltak kivételével a fizetési művelet nem teljesítéséért vagy hibás teljesítéséért a fizető fél felé a saját pénzforgalmi szolgáltatója felel.
 
 (6) A fizető fél pénzforgalmi szolgáltatója az (5) bekezdésben meghatározott felelősségének fennállása esetén haladéktalanul köteles a nem teljesített vagy hibásan teljesített fizetési művelet összegét a fizető fél részére visszatéríteni, és a fizetési számlát olyan állapotba hozni, mintha a hibásan teljesített fizetési műveletre nem került volna sor. A fizető fél fizetési számláján a jóváírás értéknapja nem lehet későbbi, mint az összeggel való megterhelés napja.
 
@@ -812,7 +812,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 
 53. § A pénzforgalmi szolgáltatónak e fejezetben meghatározott felelőssége nem érinti egyéb jogszabály alapján fennálló felelősségét.
 
-54. § Ha a pénzforgalmi szolgáltatónak a 44. § (1) bekezdése, a 49–52. §-a szerinti felelőssége másik pénzforgalmi szolgáltató vagy közvetítő magatartásának vagy mulasztásának következménye, a pénzforgalmi szolgáltató e harmadik személytől a 44. § (1) bekezdésben és a 49–52. §-ban meghatározott összeg kifizetésének megtérítését követelheti, ideértve az azon esetben felmerülő kártérítést is, amikor valamely pénzforgalmi szolgáltató elmulasztja az erős ügyfél-hitelesítés alkalmazását.
+54. § Ha a pénzforgalmi szolgáltatónak a 44. § (1) bekezdése, a 49–52/A. §-a szerinti felelőssége másik pénzforgalmi szolgáltató vagy közvetítő magatartásának vagy mulasztásának következménye, a pénzforgalmi szolgáltató e harmadik személytől a 44. § (1) bekezdésben és a 49–52/A. §-ban meghatározott összeg kifizetésének megtérítését követelheti, ideértve az azon esetben felmerülő kártérítést is, amikor valamely pénzforgalmi szolgáltató elmulasztja az erős ügyfél-hitelesítés alkalmazását.
 
 55. § A pénzforgalmi szolgáltató mentesül a felelősség alól, ha bizonyítja, hogy a VII–IX. Fejezetben meghatározott kötelezettségének teljesítését tevékenysége körén kívül eső elháríthatatlan ok (vis maior), vagy jogszabályban vagy közösségi jogi aktusban előírt rendelkezések zárták ki.
 
@@ -829,7 +829,7 @@ A FELELŐSSÉGI ÉS KÁRVISELÉSI SZABÁLYOK
 55/C. § (1) A pénzforgalmi szolgáltató erős ügyfél-hitelesítést alkalmaz, amikor a fizető fél
 
 - a) online fér hozzá fizetési számlájához,
-- b) elektronikus távoli fizetési műveletet kezdeményez,
+- b) elektronikus fizetési műveletet kezdeményez,
 - c) bármely műveletet olyan távoli csatornán keresztül hajt végre, ami fizetéssel kapcsolatos csalásokra és más visszaélésekre adhat módot.
 
 (2) Az (1) bekezdés b) pontja szerinti elektronikus távoli fizetési művelet kezdeményezésekor a pénzforgalmi szolgáltató olyan erős ügyfél-hitelesítést alkalmaz, amely a művelet egy adott összeggel és egy adott kedvezményezettel dinamikusan összekapcsolódó elemeket tartalmaz.
@@ -1079,9 +1079,9 @@ vonatkozó részletes szabályokat.
 
 (14) Ha a törvény hatálybalépése előtt követelés érvényesítésére kormányrendelet azonnali beszedési megbízás (jogszabályi azonnali beszedési megbízás) benyújtását tette lehetővé, a törvény hatálybalépését megelőzően keletkezett jogviszonyokban, a követelés jogosultja beszedési megbízást nyújthat be a követelés kötelezettjének fizetési számlája terhére a kötelezett erre vonatkozó felhatalmazása hiányában is, ha annak egyéb, a kormányrendeletben a törvény hatálybalépését megelőzően meghatározott feltételei fennállnak.
 
-66/A. § (1) A 38/A–38/C. §-ban, valamint az 55/C. §-ban meghatározott biztonsági intézkedéseket a Bizottságnak az Európai Parlament és a Tanács (EU) 2015/2366 irányelv 98. cikke alapján kiadott felhatalmazáson alapuló rendelet hatálybalépését követő egy évet követően, de legkésőbb 2019. január 1-től kell alkalmazni.
+66/A. § (1) A 38/A–38/C. §-ban, valamint az 55/C. §-ban meghatározott biztonsági intézkedéseket 2019. szeptember 14-től kell alkalmazni.
 
-(2) Fizetés-kezdeményezési szolgáltatás vagy számlainformációs szolgáltatás igénybevételekor a Bizottságnak az Európai Parlament és a Tanács (EU) 2015/2366 irányelv 98. cikk (1) bekezdés d) pontja tárgyában kiadott felhatalmazáson alapuló rendelet hatálybalépését követő egy évig, de legkésőbb 2019. január 1-ig az ügyfél és a fizetési számláját vezető pénzforgalmi szolgáltató között e törvény 2018. január 12-én hatályos rendelkezések szerinti felelősségi és kárviselési szabályai alkalmazandók.
+(2) Fizetés-kezdeményezési szolgáltatás vagy számlainformációs szolgáltatás igénybevételekor 2019. szeptember 13-ig az ügyfél és a fizetési számláját vezető pénzforgalmi szolgáltató között e törvény 2018. január 12-én hatályos rendelkezések szerinti felelősségi és kárviselési szabályai alkalmazandók.
 
 66/B. § (1) A pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított 36/A. §-t – a (2) bekezdésben meghatározott kivétellel – a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
 

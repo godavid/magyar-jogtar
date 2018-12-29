@@ -38,12 +38,12 @@ amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bek
   - fb) más tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás és mindazon intézmény, amely más tagállamban rendszer résztvevője lehet, vagy
   - fc) olyan harmadik országbeli hitelintézet, amely megfelel a Hpt. 6. § (1) bekezdésben foglaltaknak, vagy olyan harmadik országbeli befektetési vállalkozás, amely megfelel a Bszt. 4. §-a (2) bekezdésének 39. pontjában foglaltaknak,
   - fd) az Európai Unió tagállamának központi bankja, az Európai Központi Bank, amely valamely rendszer résztvevője, és amelynek a rendszerben továbbított transzfer megbízásokból adódó fizetési kötelezettségeket teljesítenie kell;
-- g) központi szerződő fél: az a szervezet, amely a rendszer intézményeinek transzfer megbízásai tekintetében – a jogviszonyba belépve – mindannyiukkal szemben kizárólagos szerződő félként jár el;
+- g) központi szerződő fél: a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott fogalom;
 - h) közvetett résztvevő: az az intézmény, központi szerződő fél, teljesítő fél, elszámoló fél vagy rendszerüzemeltető, amely a transzfer megbízásokat teljesítő rendszer valamely résztvevőjével szerződéses kapcsolatban áll abból a célból, hogy transzfer megbízásait e résztvevő bonyolítsa le számára a rendszeren keresztül, feltéve, hogy a közvetett résztvevő a rendszerüzemeltető számára ismert;
 - i) rendszer: az – a rendszerkapcsolatnak nem minősülő – írásbeli megállapodáson alapuló együttműködési forma,
   - ia) amikor három vagy több résztvevő – kivéve a rendszerüzemeltető, a teljesítő fél, a központi szerződő fél, az elszámoló fél, illetőleg a közvetett résztvevő – megállapodik abban, hogy egymás közötti transzfer megbízásaik közös szabályok és egységes eljárási rend szerint, központi szerződő fél igénybevételével vagy anélkül kerülnek teljesítésre, és
   - ib) amely kijelölésre kerül és a kijelölő hatóság értesíti erről az Európai Értékpapír-piaci Hatóságot;
-- j) résztvevő: az intézmény, a központi szerződő fél, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
+- j) résztvevő: az intézmény, a központi szerződő fél, a központi szerződő fél klíringtagja, a teljesítő fél, az elszámoló fél, valamint a rendszerüzemeltető;
 - k) transzfer megbízás: valamely résztvevő rendelkezése, hogy egy pénzösszeget, illetőleg átruházható értékpapírt valamely hitelintézetnél, központi szerződő félnél, központi banknál vagy a teljesítő félnél vezetett számlán történő jóváírással bocsássanak a kedvezményezett rendelkezésére;
 - l) teljesítés: a rendszer résztvevői közötti tartozások és követelések kiegyenlítése a teljesítési számlákon;
 - m) teljesítési számla: a teljesítő félnél, központi szerződő félnél, illetve központi banknál vezetett, pénzeszközök és értékpapírok kezelésére szolgáló számla, ahol a rendszer résztvevői közötti transzfer megbízások kiegyenlítése történik;
