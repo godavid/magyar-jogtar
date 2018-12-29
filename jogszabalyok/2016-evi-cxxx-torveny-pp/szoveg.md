@@ -3741,7 +3741,7 @@ A bíróság a 272. § (1) bekezdés d) pontjában foglalt kényszerítő eszkö
 (1) Teljes bizonyító erejű a magánokirat, ha
 
 - a) a kiállító az okiratot saját kezűleg írta és aláírta,
-- b) két tanú igazolja, hogy az okirat aláírója a részben vagy egészben nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el; igazolásként az okiratot mindkét tanú aláírja, továbbá az okiraton a tanúk nevét és lakóhelyét – ennek hiányában tartózkodási helyét – olvashatóan is fel kell tüntetni,
+- b) két tanú igazolja, hogy az okirat aláírója a részben vagy egészben nem általa írt okiratot előttük írta alá, vagy aláírását előttük saját kezű aláírásának ismerte el; igazolásként az okiratot mindkét tanú aláírja, továbbá az okiraton a tanúk nevét és – ha törvény eltérően nem rendelkezik – lakóhelyét, ennek hiányában tartózkodási helyét olvashatóan is fel kell tüntetni,
 - c) az okirat aláírójának aláírását vagy kézjegyét az okiraton bíró vagy közjegyző hitelesíti,
 - d) az okiratot a jogi személy képviseletére jogosult személy a rá vonatkozó szabályok szerint megfelelően aláírja,
 - e) ügyvéd vagy kamarai jogtanácsos az általa készített okirat szabályszerű ellenjegyzésével bizonyítja, hogy az okirat aláírója a más által írt okiratot előtte írta alá vagy aláírását előtte saját kezű aláírásának ismerte el,
