@@ -19,7 +19,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 (3) E törvény alkalmazásában egy hitelintézetként kell kezelni a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló törvény (a továbbiakban: Szhitv.) szerinti szövetkezeti hitelintézeteket az Integrációs Szervezettel együtt, ha azok az Szhitv. szerinti egyetemleges felelősségi körbe tartoznak.
 
-(4) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.), a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.), a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.), és a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
+(4) A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.), a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.), a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.), a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.), és a polgári perrendtartásról szóló törvény (a továbbiakban: Pp.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 2. § (1) A szanálás az intézmény vagy csoport szerkezetátalakítására irányuló eljárás, amely az intézmény alapvető funkciói folyamatosságának biztosítására, a pénzügyi közvetítőrendszer stabilitásának megőrzésére és az intézmény vagy csoport egésze vagy egy része életképességének helyreállítására irányul.
 
@@ -30,6 +30,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 3. § E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok alkalmazásában
 
 - 1. anyavállalat: a Hpt. 6. § (1) bekezdésében meghatározott fogalom;
+- 1a. állami támogatások uniós keretrendszere: az Európai Unió működéséről szóló szerződés 107–109. cikkei által és az Európai Unió működéséről szóló szerződés 108. cikk (4) bekezdése vagy 109. cikke alapján megalkotott vagy elfogadott rendeletek és valamennyi uniós aktus – többek között iránymutatások, közlemények és értesítések – által létrehozott keretrendszer;
 - 2. átruházási jogosultság: a szanálás alatt álló intézményben lévő tagsági részesedés, hitelviszonyt megtestesítő instrumentum, eszköz, forrás, jogosultság és kötelezettség, illetve ezek valamilyen kombinációjának egy átvevőhöz történő átruházására vonatkozó jogosultság;
 - 3. átváltási ráta: az a tényező, amely meghatározza azon elsődleges alapvető tőkeelemek mennyiségét, amelyekre a tőkeelemek, valamint a hitelezői feltőkésítésbe bevonható kötelezettségek átalakítása során a szanálási feladatkörében eljáró Magyar Nemzeti Bank a kiegészítő alapvető tőke és a járulékos tőke elemeit átváltja;
 - 4. átvevő: az a vállalkozás, amelyre a szanálás alatt álló intézményben lévő tagsági részesedést, az intézmény hitelviszonyt megtestesítő instrumentumát, eszközét, forrását, jogát és kötelezettségét, illetve ezek valamilyen kombinációját átruházzák;
@@ -46,6 +47,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 - 15. egymással szembeni elszámolásra vonatkozó megállapodás: olyan megállapodás, amely alapján a szerződéses felek közötti két vagy több követelés vagy kötelezettség egymással szemben elszámolható;
 - 16. ellenőrző befolyás: a Hpt. 6. § (1) bekezdés 18. pontjában meghatározott fogalom;
 - 17. elsődleges alapvető tőke: az Európai Parlamentnek és a Tanácsnak a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom;
+- 17a. érintett anyaintézmény: olyan tagállami anyaintézmény, EU-szintű anyaintézmény, pénzügyi holding társaság, vegyes pénzügyi holding társaság, vegyes tevékenységű holding társaság, tagállami pénzügyi holding társaság anyavállalatok, EU-szintű pénzügyi holding társaság anyavállalatok, tagállami vegyes pénzügyi holding társaság anyavállalatok vagy EU-szintű vegyes pénzügyi holding társaság anyavállalatok, amelynek tekintetében a hitelezői feltőkésítés alkalmazására kerül sor;
 - 18. érintett harmadik országbeli hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított harmadik országbeli hatóság;
 - 19. érintett hitelező: olyan hitelező, akinek vagy amelynek a követelése olyan szanálás alatt álló intézmény kötelezettségére vonatkozik, amelyet a hitelezői feltőkésítés alkalmazásának keretében leírási vagy átalakítási hatáskör gyakorlása révén csökkentettek vagy alakítottak át tagsági részesedéssé;
 - 20. érintett tulajdonos: az intézményben lévő olyan tagsági részesedés tulajdonosa, akinek tagsági részesedését az e törvényben meghatározott jogosultság alapján bevonják vagy átruházás keretében átveszik;
@@ -64,6 +66,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 - 32. harmadik országbeli szanálási eljárás: egy harmadik országbeli intézmény fizetésképtelenségének kezelésére szolgáló, harmadik ország joga szerinti intézkedés, amely a célok és a várható eredmények szempontjából hasonló az e törvény szerinti szanálási intézkedésekhez;
 - 33. határon átnyúló csoport: olyan csoport, amelyben több EGT-államban székhellyel rendelkező vállalkozás van;
 - 34. hitelintézet: a Hpt. 8. § (1) bekezdésében meghatározott szervezet, valamint az Integrációs Szervezet;
+- 34a. hitelviszonyt megtestesítő instrumentum: kötvény és az átruházható követelések más formája, adósságot keletkeztető vagy elismerhető instrumentum, és a hitelviszonyt megtestesítő instrumentum megszerzésére feljogosító instrumentum;
 - 35. Integrációs Szervezet: a Szhitv.-ben meghatározott fogalom;
 - 36. illetékes felügyeleti hatóság: 575/2013/EU rendeletben illetékes hatóságként meghatározott fogalom;
 - 37. illetékes minisztérium: EGT-állam azon minisztériuma, amelyet a nemzeti jogszabályok a szanálás tekintetében illetékes minisztériumnak jelölnek ki;
@@ -75,6 +78,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 - 43. leányvállalat: a Hpt. 6. § (1) bekezdés 78. pontjában meghatározott fogalom;
 - 44. MNB: Magyar Nemzeti Bank;
 - 45. MNB rendkívüli likviditási hitele: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 36. §-a szerinti és a 18. §-ában meghatározott monetáris politikai eszközök közé nem tartozó, egyedi feltételek mellett nyújtott rendkívüli jegybanki hitel;
+- 45a. munkavállalói képviselő: a munka törvénykönyvében meghatározott fogalom;
 - 46. nettó eszközérték: az eszközállomány csökkentve a kötelezettség állománnyal;
 - 47. nettósítási megállapodás: olyan megállapodás, amely alapján több követelést vagy kötelezettséget egyetlen követeléssé lehet átalakítani, beleértve a pozíciólezáró nettósítási megállapodást, amelynél jogszabályban vagy felek által meghatározott esemény bekövetkeztekor a felek kötelezettségeinek esedékességét előre hozzák, így azok azonnal esedékessé válnak vagy megszűnnek, és mindkét esetben egyetlen követeléssé alakulnak át vagy az lép a helyükbe;
 - 48. összevont alapon: az 575/2013/EU rendelet 4. cikk (1) bekezdés 47. pontjának megfelelően meghatározott összevont helyzet alapja;
@@ -85,7 +89,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
   - b) áruügylet, így különösen ba) később leszállítandó áru, árucsoport vagy -index vételére, eladására vagy kölcsönzésére vonatkozó ügylet; bb) árura, árucsoportra vagy -indexre vonatkozó opciós ügylet; bc) bármely árura, árucsoportra vagy -indexre vonatkozó repo- vagy fordított repoügylet;
   - c) tőzsdei és tőzsdén kívüli határidős ügylet, ideértve valamely áru vagy bármely más tulajdon, szolgáltatás, jog vagy érdekeltség meghatározott áron és időpontban történő vételére, eladására vagy átruházására vonatkozó ügyleteket (az áruügyletek kivételével);
   - d) swap-megállapodások, így különösen da) kamatlábakra vonatkozó csereügyletek és opciók; spot- és más devizaügyletek; valutához, értékpapírindexhez vagy értékpapírhoz, hitelviszonyt megtestesítő instrumentumok indexéhez vagy hitelviszonyt megtestesítő instrumentumokhoz, áruindexhez vagy áruhoz, időjárási változóhoz; kibocsátáshoz vagy inflációs rátához kapcsolódó csereügylet vagy opció; db) teljes hozamcsere-ügylet, hitelkockázati felárhoz kapcsolódó csereügylet vagy hitel-csereügylet; dc) a da) vagy db) alpontban említett megállapodásokhoz hasonló, a csereügyletek vagy származtatott ügyletek piacán rendszeresen kötött megállapodás vagy tranzakció;
-  - e) bankközi hitelezési megállapodások;
+  - e) három hónapos vagy annál rövidebb futamidejű bankközi hitelezési megállapodások;
   - f) az a)–e) pontban említett szerződések vagy ügyletek bármelyikére vonatkozó keretmegállapodások;
 - 52. pénzügyi vállalkozás: a Hpt. 9. § (1) bekezdésében meghatározott szervezet;
 - 53. rendkívüli állami pénzügyi támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás, amelyet egy intézmény vagy csoport életképességének, likviditásának vagy fizetőképességének megőrzése vagy helyreállítása céljából nyújtanak;
@@ -95,6 +99,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 - 57. szanálási hatóság: szanálási intézkedéseknek megfelelő intézkedés alkalmazására feljogosított EGT-állambeli hatóság;
 - 58. szanálást finanszírozó rendszer: EGT-állam által a szanálási intézkedések hatékony alkalmazásához szükséges pénzügyi források rendelkezésre állása érdekében létrehozott rendszer;
 - 59. szavatoló tőke: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+- 59a. szavatoló tőke követelmények: az 575/2013/EU rendelet 92–98. cikkében meghatározott követelmények;
 - 60. szövetkezeti hitelintézet: a Szhitv. alapján a szövetkezeti hitelintézetek integrációjában részt vevő hitelintézet;
 - 61. ügyvezető: a Hpt. 6. § (1) bekezdésében meghatározott fogalom;
 - 62. vagyonértékesítés: a szanálás alatt álló intézmény által kibocsátott tagsági részesedés, illetve a szanálás alatt álló intézmény eszközeinek, forrásainak, jogainak és kötelezettségeinek e törvény szerinti, a szanálási feladatkörében eljáró MNB általi, áthidaló intézménynek nem minősülő átvevőre történő átruházása;
@@ -111,7 +116,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 4. § (1) A szanálási feladatkörében eljáró MNB az összevont alapú felügyelet alá nem tartozó intézményekre egyedi, az összevont alapú felügyelet alá tartozó intézményekre csoportszintű szanálási tervet készít, amelynek során biztosítja az arányosság követelményének érvényesülését.
 
-(2) A szanálási feladatkörében eljáró MNB adott intézmény vonatkozásában az intézmény tevékenységének jellegéből, részvényesi struktúrájából, jogi formájából, kockázati profiljából, méretéből és jogállásából, más intézményekkel vagy a pénzügyi közvetítőrendszer egészével való összefonódottságából, tevékenységeinek kiterjedéséből és komplexitásából, intézményvédelmi rendszerben vagy az 575/2013/EU rendelet 113. cikk (7) bekezdésében említett egyéb kölcsönös szolidaritási rendszerekben való tagságából, valamint a Bszt. 5. §-ban meghatározott befektetési szolgáltatások vagy tevékenységek végzéséből kifolyólag gyakorolt esetleges hatásokra, és attól függően, hogy fizetésképtelensége és azt követő, rendes fizetésképtelenségi eljárással történő felszámolása valószínűsíthetően jelentősen negatív hatással járna-e a pénzügyi piacokra, más intézményekre, a finanszírozási feltételekre, vagy a tágabb gazdaságra, jogosult meghatározni:
+(2) A szanálási feladatkörében eljáró MNB adott intézmény vonatkozásában az intézmény tevékenységének jellegéből, részvényesi struktúrájából, jogi formájából, kockázati profiljából, méretéből és jogállásából, más intézményekkel vagy a pénzügyi közvetítőrendszer egészével való összefonódottságából, tevékenységeinek kiterjedéséből és komplexitásából, intézményvédelmi rendszerben vagy az 575/2013/EU rendelet 113. cikk (7) bekezdésében említett egyéb kölcsönös szolidaritási rendszerekben való tagságából, valamint a Bszt. 5. §-ban meghatározott befektetési szolgáltatások vagy tevékenységek végzéséből kifolyólag gyakorolt esetleges hatásokra, és attól függően, hogy fizetésképtelensége és azt követő, rendes fizetésképtelenségi eljárással történő felszámolása valószínűsíthetően jelentősen negatív hatással járna-e a pénzügyi piacokra, más intézményekre, a finanszírozási feltételekre, vagy a tágabb gazdaságra, – szükség esetén a makroprudenciális feladatkörében eljáró MNB-vel történt egyeztetést követően – jogosult meghatározni:
 
 - a) a 4–10. §-ban meghatározott szanálási tervek tartalmát és részleteit,
 - b) a szanálási tervek elkészítésének ütemezését és aktualizálásuk gyakoriságát, amely rövidebb lehet az e törvényben meghatározott mértékeknél,
@@ -122,7 +127,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 (2b) A szanálási feladatkörében eljáró MNB jogosult az e fejezetben szereplő követelmények alkalmazásától eltekinteni az olyan anyavállalat és a hozzá kapcsolódó intézmények esetében, amelyek az 575/2013/EU rendelet 10. cikkének megfelelően teljes egészében vagy részben mentesülnek a prudenciális követelmények alól. E mentesítés esetén csoportszintű szanálási tervet kell készíteni az 575/2013/EU rendelet 10. cikke értelmében vett csoportra.
 
-(2c) A (2b) bekezdésben meghatározott mentesítés alkalmazása esetén a szanálási feladatkörében eljáró MNB tájékoztatja az Európai Bankhatóságot a mentesítés módjáról
+(2c) A (2b) bekezdésben meghatározott mentesítés alkalmazása esetén a szanálási feladatkörében eljáró MNB tájékoztatja az Európai Bankhatóságot (a továbbiakban: EBH) a mentesítés módjáról
 
 (3) Az egyedi szanálási terv a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB-vel (a továbbiakban: Felügyelet) egyeztetve tartalmazza a szanálási feltételek fennállása esetén a Felügyelet által az intézménnyel szemben alkalmazható lehetséges intézkedéseket, kivételes intézkedéseket, valamint a szanálási feladatkörében eljáró MNB által alkalmazható lehetséges szanálási intézkedéseket, amelyeket a szanálási célok érvényre juttatása érdekében tehet.
 
@@ -148,6 +153,8 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 - a) a szanálási terv lényegi részét, így különösen az 1. melléklet A) pont 1. és 6. alpontja szerinti információt,
 - b) a szanálhatósági vizsgálat lefolytatása és a szanálhatósági akadályok elhárítása érdekében az 1. melléklet pontjaiban – így különösen az 1. melléklet A) pont 5., 8., 11. és 14. alpontjában – meghatározott információt.
+
+(8) A szanálási feladatkörében eljáró MNB a szanálási tervről, valamint azok módosításáról tájékoztatja a Felügyeletet.
 
 6. § (1) Az intézmény – adatszolgáltatás keretében – a szanálási feladatkörében eljáró MNB rendelkezésére bocsátja a szanálási terv készítéséhez, valamint felülvizsgálatához szükséges adatokat.
 
@@ -197,13 +204,13 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 (10) A (8) bekezdés e) pontja alkalmazásában a csoportos szanálási terv nem tartalmazhat rendkívüli állami pénzügyi támogatást – ide nem értve a Szanálási Alapból fizetett összeget –, központi bank által nyújtott rendkívüli likviditási támogatást vagy nem szokásos feltételekkel (fedezet, futamidő és kamatozás) nyújtott központi banki likviditási támogatást.
 
-(11) A (8) bekezdés e) pontja alkalmazásakor figyelemmel kell lenni az EGT-államok közötti megosztás során az arányosságra, kiegyensúlyozottságra és az adott EGT-állam pénzügyi rendszerének stabilitására gyakorolt hatásra.
+(11) A (8) bekezdés e) pontja alkalmazásakor figyelemmel kell lenni az EGT-államok közötti megosztás során az arányosságra, kiegyensúlyozottságra – így különösen a szanálást finanszírozó rendszerek hozzájárulása meghatározásánál figyelembe veendő elvekre – és az adott EGT-állam pénzügyi rendszerének stabilitására gyakorolt hatásra.
 
 8. § (1) A csoportszintű szanálási terv elkészítéséhez az EU-szintű anyavállalat a szanálási feladatkörében eljáró MNB-nek – ha a szanálási feladatkörében eljáró MNB a csoportszintű szanálási hatóság – rendelkezésére bocsát minden szükséges információt a 6. § alapján. Az információknak az EU-szintű anyavállalatra, a csoporthoz tartozó vállalkozásokra és az 1. § (1) bekezdése szerinti pénzügyi vállalkozásokra vonatkozóaknak kell lenniük.
 
 (2) A titoktartási szabályok betartására való tekintettel a szanálási feladatkörében eljáró MNB az EU-szintű anyavállalat által rendelkezésére bocsátott információkból továbbítja
 
-- a) az Európai Bankhatóságnak (a továbbiakban: EBH) a csoportszintű szanálási terv tekintetében az EBH feladata ellátásához szükséges információkat,
+- a) az EBH-nak a csoportszintű szanálási terv tekintetében az EBH feladata ellátásához szükséges információkat,
 - b) a leányvállalat szanálási hatóságának az illetékességi feladata ellátásához szükséges információkat,
 - c) a csoportban lévő jelentős fióktelep szanálási hatóságának a fióktelep vagy az érintett szanálási hatóság feladata ellátásához szükséges információkat,
 - d) a Felügyelettel kötött felügyeleti megállapodások keretében vagy a felügyeleti kollégiumoknak a feladatkörükben érintettség alapján a feladatuk ellátásához szükséges információkat,
@@ -228,10 +235,12 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 (4) Ha az eljárásban részt vevő EGT-állam szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor
 
-- a) ha a csoportszintű szanálási hatóság a szanálási feladatkörében eljáró MNB, akkor kizárólag az EU-szintű anyavállalat tekintetében hozhat egyedileg határozatot,
-- b) ha a csoportban lévő leányvállalat szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor a leányvállalat tekintetében hozhat egyedileg határozatot.
+- a) ha a csoportszintű szanálási hatóság a szanálási feladatkörében eljáró MNB, akkor kizárólag az EU-szintű anyavállalat tekintetében hozhat egyedileg határozatot, amelynek meghozatalakor figyelembe veszi az eljárásban részt vevő EGT-állam szanálási hatósága által kifejtett véleményeket, fenntartásokat,
+- b) ha a csoportban lévő leányvállalat szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor a leányvállalat tekintetében hozhat egyedileg határozatot
 
-(5) A szanálási feladatkörében eljáró MNB a többoldalú eljárás eredménytelenséggel történő lezárultát követő tíz munkanapon belül hozza meg határozatát azzal, hogy a többoldalú eljárás keretében hozott határozatot előkészítő eljárásban részt vevő valamennyi EGT-állam illetékes szanálási hatóságának megküldi azt.
+azzal, hogy a határozatáról a szanálási kollégium valamennyi tagját értesíti.
+
+(5) A szanálási feladatkörében eljáró MNB a többoldalú eljárás eredménytelenséggel történő lezárultát követő 1 hónapon belül hozza meg határozatát az egyetértő szanálási hatóságokkal azzal, hogy a többoldalú eljárás keretében hozott határozatot előkészítő eljárásban részt vevő valamennyi EGT-állam illetékes szanálási hatóságának megküldi azt.
 
 (6) Ha a csoporton belüli leányvállalat szanálási hatósága úgy ítéli meg, hogy a székhelye szerinti EGT-állama költségvetési hatáskörének sérelme áll fenn, és a (3) bekezdés alapján az EBH-hoz fordult vagy a többoldalú eljárás keretében hozott határozatot a részvétele nélkül hozta meg a többi hatóság, akkor a szanálási feladatkörében eljáró MNB által irányított szanálási kollégium keretein belül kezdeményezheti a csoport szintű szanálási terv – ideértve a szavatoló tőkére és leírható, illetve átalakítható kötelezettségre vonatkozó minimumkövetelmény újraértékelését.
 
@@ -270,21 +279,23 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 11. § (1) Ha a szanálási feladatkörében eljáró MNB a szanálhatóság értékelése során megállapítja, hogy az intézmény szanálhatóságának jelentős akadályai vannak, erről írásban tájékoztatja az intézményt és a Felügyeletet.
 
+(1a) A szanálási feladatkörben eljáró MNB a szanálási terv készítését az (1) bekezdés szerinti jelentős akadályok elhárításáig felfüggeszti.
+
 (2) Az intézmény az (1) bekezdésben meghatározott tájékoztatás kézhezvételét követő legfeljebb négy hónapon belül javaslatot tesz a szanálási feladatkörében eljáró MNB részére a tájékoztatásban megjelölt szanálhatósági akadályok megszüntetésére vagy kezelésére.
 
 (3) A szanálási feladatkörében eljáró MNB a Felügyelettel egyeztetve értékeli, hogy az intézmény által a (2) bekezdésben foglaltak szerint javasolt lépések megfelelőek-e az akadályok kezelésére, megszüntetésére.
 
 (4) Ha az intézmény (2) bekezdés szerinti javaslata a szanálási feladatkörében eljáró MNB szerint alkalmas a szanálhatósági akadályok kiküszöbölésére vagy hatékony kezelésére, akkor legfeljebb három hónapos határidő tűzésével kötelezi az intézményt – vagy csoportot – a lépések megtételére.
 
-(5) Ha az intézmény (2) bekezdés szerinti javaslata a szanálási feladatkörében eljáró MNB megítélése szerint nem küszöböli ki vagy nem kezeli hatékonyan a szanálhatósági akadályokat, akkor a szanálási feladatkörében eljáró MNB legfeljebb három hónapos határidő tűzésével a szanálhatóság akadályainak csökkentéséhez vagy kiküszöböléséhez szükséges, a 12. § (1) és (2) bekezdésében meghatározott lépések megtételére kötelezheti az intézményt vagy csoportot.
+(5) Ha az intézmény (2) bekezdés szerinti javaslata a szanálási feladatkörében eljáró MNB megítélése szerint nem küszöböli ki vagy nem kezeli hatékonyan a szanálhatósági akadályokat, akkor a szanálási feladatkörében eljáró MNB legfeljebb egy hónapos határidő kitűzésével a szanálhatóság akadályainak csökkentéséhez vagy kiküszöböléséhez szükséges terv elkészítésére kötelezi az intézményt vagy csoportot.
 
 12. § (1) A szanálhatósági akadályok kezelése vagy megszüntetése érdekében a szanálási feladatkörében eljáró MNB – a Felügyelettel történt előzetes egyeztetést követően – előírhatja az intézmény számára
 
-- a) a kritikus funkciók ellátására vonatkozó – csoporton belüli vagy harmadik felekkel kötött – szolgáltatási szerződések kidolgozását és megkötését, illetve módosítását;
+- a) a csoporton belüli finanszírozási rendszerek vagy ezek hiánya felülvizsgálatát, vagy a kritikus funkciók ellátására vonatkozó – csoporton belüli vagy harmadik felekkel kötött – szolgáltatási szerződések kidolgozását és megkötését, illetve módosítását;
 - b) az egyéni és összesített kitettségek értékének felső határát;
 - c) a szanálási célok szempontjából fontos konkrét vagy általános tájékoztatási követelményeket;
 - d) egyes eszközök elidegenítését;
-- e) új vagy meglévő üzletágak fejlesztésének, illetve új vagy meglévő termékek értékesítésének a korlátozását, megszüntetését vagy megkezdésétől való tartózkodást;
+- e) jelenlegi vagy tervezett tevékenységek, új vagy meglévő üzletágak fejlesztésének, illetve új vagy meglévő termékek értékesítésének a korlátozását, megszüntetését vagy megkezdésétől való tartózkodást;
 - f) az intézmény, illetve a közvetlenül vagy közvetve az ellenőrző befolyása alatt álló, csoporthoz tartozó bármely vállalkozás jogi vagy működési struktúráinak összetettségét csökkentő változtatásokat annak érdekében, hogy a kritikus funkciók a szanálási eszközök alkalmazása révén jogi és működési szempontból elkülöníthetők legyenek más funkcióktól; vagy
 - g) pénzügyi holding társaság létrehozását;
 - h) a szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó minimumkövetelményeknek való megfelelés érdekében szükséges lépések megtételét, különösen annak érdekében, hogy megkísérelje újratárgyalni az általa kibocsátott, leírható vagy átalakítható kötelezettségeket, kiegészítő alapvető tőkeinstrumentumokat vagy járulékos tőkeinstrumentumokat annak biztosítása érdekében, hogy amennyiben a szanálási feladatkörében eljáró MNB az érintett kötelezettség vagy eszköz leírása mellett dönt, ezt a döntést a kötelezettségre vagy eszközre vonatkozó joghatóság joga alapján lehessen érvényesíteni.
@@ -293,11 +304,11 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 
 (3) A szanálhatósági akadályok kezelése vagy megszüntetése érdekében a szanálási feladatkörében eljáró MNB – a Felügyelettel történt előzetes egyeztetést követően – előírhatja az intézmény számára, ha az vegyes tevékenységű holding társaság leányvállalata, hogy a vegyes tevékenységű holding társaság hozzon létre külön pénzügyi holding társaságot az intézmény feletti ellenőrző befolyás gyakorlására, ha ez az intézmény szanálásának elősegítése érdekében szükséges.
 
-(4) A szanálási feladatkörében eljáró MNB az (1)–(3) bekezdés szerinti eljárása során – az arányosság elvére is tekintettel – figyelembe veszi, hogy a szanálhatósági akadályok milyen fenyegetést jelentenek a pénzügyi közvetítőrendszer stabilitására nézve, és azt, hogy a szanálhatósági akadály kezelésére vagy megszüntetésére alkalmazandó intézkedések milyen hatást gyakorolnak az intézmény üzleti tevékenységére és stabilitására, valamint a gazdasági növekedéshez való hozzájárulási képességére.
+(4) A szanálási feladatkörében eljáró MNB az (1)–(3) bekezdés szerinti eljárása során – a Felügyelettel, valamint adott esetben a makroprudenciális feladatkörében eljáró MNB-vel történő egyeztetést követően – az arányosság elvére is tekintettel figyelembe veszi, hogy a szanálhatósági akadályok milyen fenyegetést jelentenek a pénzügyi közvetítőrendszer stabilitására nézve, és azt, hogy a szanálhatósági akadály kezelésére vagy megszüntetésére alkalmazandó intézkedések milyen hatást gyakorolnak az intézmény üzleti tevékenységére és stabilitására, a gazdasági növekedéshez való hozzájárulási képességére, a pénzügyi szolgáltatások belső piacára, valamint az EGT-államok vagy az EGT egészének pénzügyi stabilitására.
 
 #### 5. A csoport szanálhatóságának értékelése és a csoportszintű szanálhatóság akadályainak kezelése vagy megszüntetése
 
-13. § (1) Egy csoport – a 17. § figyelembevétele mellett – akkor szanálható, ha a szanálási feladatkörében eljáró MNB, mint csoportszintű szanálási hatóság megítélése szerint a csoporttal szembeni fizetésképtelenségi eljárás vagy a csoportnak a szanálási terv alapján történő szanálása során
+13. § (1) Egy csoport – a 17. § figyelembevétele mellett – akkor szanálható, ha a csoportszintű szanálási hatóság megítélése szerint a csoporttal szembeni fizetésképtelenségi eljárás vagy a csoportnak a szanálási terv alapján történő szanálása során
 
 - a) fenntartható a kritikus funkciók folytonossága, és
 - b) elkerülhetőek a csoportba tartozó vállalkozások székhelye szerinti vagy az EGT-államok vagy az EGT egészének a pénzügyi közvetítőrendszere stabilitására gyakorolt jelentős negatív következmények, akár rendszerszintű válság esetén is.
@@ -454,18 +465,20 @@ nyújthatók, és nem használhatók fel az érintett intézmény korábban kele
 
 20. § (1) A szanálási intézkedések meghozatala és a szanálási jogosultságok alkalmazása során a következő elvek szerint kell eljárni:
 
-- a) a felmerülő veszteségeket első helyen a szanálás alatt álló intézmény tulajdonosai viselik;
-- b) a szanálás alatt álló intézmény tulajdonosai után a hitelezők viselik a felmerülő veszteségeket a Csődtv. 57. § (1) bekezdésében meghatározott veszteségviselési sorrendben és arányában, figyelembe véve a Hpt. és a Bszt. felszámolási eljárással kapcsolatos rendelkezéseit is;
+- a) a felmerülő veszteségeket első helyen a szanálás alatt álló intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás tulajdonosai viselik;
+- b) a szanálás alatt álló intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás tulajdonosai után a hitelezők viselik a felmerülő veszteségeket a Csődtv. 57. § (1) bekezdésében meghatározott veszteségviselési sorrendben és arányában, figyelembe véve a Hpt. és a Bszt. felszámolási eljárással kapcsolatos rendelkezéseit is;
 - c) a szanálás alatt álló intézmény vezető állású személyétől a vezetői megbízást vissza kell vonni, kivéve ha a vezető állású személyeknek a körét részben vagy egészben a szanálási célok elérése érdekében a szanálási feladatkörében eljáró MNB szükségesnek tartja megtartani, így különösen ha a szanálás eredményes végrehajtását akadályozná a vezető eltávolítása;
 - d) a szanálás alatt álló intézmény fizetésképtelenségének vagy várható fizetésképtelenségének okait fel kell tárni;
 - e) az azonos hitelezői osztályba tartozó hitelezők e törvény eltérő rendelkezése hiányában azonos elbánásban részesülnek;
-- f) egyetlen tulajdonos vagy hitelező sem viselhet annál nagyobb – a szanálási intézkedések alkalmazásával közvetlenül összefüggő – veszteséget, mint amelyet akkor viselt volna, ha az intézményt felszámolják; és
+- f) egyetlen tulajdonos vagy hitelező sem viselhet annál nagyobb – a szanálási intézkedések alkalmazásával közvetlenül összefüggő – veszteséget, mint amelyet akkor viselt volna, ha az intézményt vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozást felszámolják; és
 - g) a szanálási intézkedést az e törvényben foglalt biztosítékokkal összhangban kell alkalmazni;
 - h) a biztosított betét kártalanítási összeghatár alá eső betétrészének teljes védelemben kell részesülnie.
 
 (2) Az intézmény vezetése és könyvvizsgálója köteles együttműködni a szanálási feladatkörében eljáró MNB-vel a szanálási célok elérése érdekében.
 
 (3) Ha az intézmény egy csoport tagja, akkor a szanálási feladatkörében eljáró MNB a szanálási intézkedések meghozatala és a szanálási eszközök alkalmazása során arra törekszik, hogy minimalizálja ezeknek a csoportra, a csoport tagjaira és az érintett pénzügyi piacra gyakorolt negatív hatást.
+
+(3a) A szanálási intézkedések meghozatala és a szanálási jogosultság gyakorlása során a szanálási feladatkörében eljáró MNB tájékoztatást ad a szanálás alatt álló intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás munkavállalói képviselőinek, valamint – ha szükséges – egyeztetést folytat velük.
 
 (4) A Felügyelet a folyamatos felügyelés – ideértve a rendszeres adatszolgáltatás értékelését – keretében a 17. § (1) bekezdés a) pontja szerinti szanálási feltételek fennállásának észlelésekor értesíti a szanálási feladatkörében eljáró MNB-t ezen szanálási feltételek teljesüléséről, valamint arról, ha az általa alkalmazható intézkedések és kivételes intézkedések alapján ezen szanálási feltételek megszüntetésére nincs lehetőség.
 
@@ -481,7 +494,7 @@ nyújthatók, és nem használhatók fel az érintett intézmény korábban kele
 
 #### 10. Független értékelés
 
-22. § (1) A szanálási intézkedés meghozatalára vonatkozó döntést megelőzően a szanálási feladatkörében eljáró MNB gondoskodik arról, hogy az intézmény eszközeinek és forrásainak megbízható és valós értékelését (a továbbiakban: független értékelés) független, jogszabályban meghatározott szakmai és összeférhetetlenségi követelményeknek megfelelő személy (a továbbiakban: független értékelő) végezze.
+22. § (1) A szanálási intézkedés meghozatalára vonatkozó döntést megelőzően a szanálási feladatkörében eljáró MNB gondoskodik arról, hogy az intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás eszközeinek és forrásainak megbízható és valós értékelését (a továbbiakban: független értékelés) független, jogszabályban meghatározott szakmai és összeférhetetlenségi követelményeknek megfelelő személy (a továbbiakban: független értékelő) végezze.
 
 (2) A független értékelők névjegyzékét a szanálási feladatkörében eljáró MNB vezeti, és honlapján közzéteszi. A független értékelői nyilvántartásban fel kell tüntetni:
 
@@ -537,12 +550,12 @@ vonatkozó belső eljárásrendjét, és az eljárásrendet a szanálási felada
 
 #### 11. A független értékelés célja
 
-23. § (1) A független értékelés alapvető célja a fizetésképtelen vagy a rendelkezésre álló információk alapján várhatóan fizetésképtelenné váló intézmény eszközei és forrásai értékének a megállapítása.
+23. § (1) A független értékelés alapvető célja a fizetésképtelen vagy a rendelkezésre álló információk alapján várhatóan fizetésképtelenné váló intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás eszközei és forrásai értékének a megállapítása.
 
 (2) A független értékelés kiegészítő céljai:
 
 - a) információt szolgáltatni annak megállapításához, hogy teljesülnek-e a szanálási feltételek, illetve a tőkeelemek leírására vagy átalakítására vonatkozó feltételek;
-- b) ha a szanálási feltételek teljesülnek, információt nyújtani az intézmény tekintetében alkalmazandó szanálási intézkedés alkalmazhatóságáról;
+- b) ha a szanálási feltételek teljesülnek, információt nyújtani az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás tekintetében alkalmazandó szanálási intézkedés alkalmazhatóságáról;
 - c) hitelezői feltőkésítés és a tőkeelemek leírására vagy átalakítására vonatkozó jogosultság alkalmazása esetén információt nyújtani az arra vonatkozó döntéshez, hogy milyen mértékben kerüljön sor az intézményben lévő tagsági részesedések bevonására, leírására vagy átalakítására és milyen mértékben kerüljön sor a kiegészítő alapvető és járulékos tőkeelemek leírására vagy átalakítására;
 - d) áthidaló intézmény vagy eszközelkülönítés alkalmazása esetén információt nyújtani az átruházandó eszközökre, forrásokra, jogokra és kötelezettségekre vagy az intézményben lévő tagsági részesedésekre vonatkozó döntéshez, valamint a szanálás alatt álló intézménynek, illetve az intézményben lévő tagsági részesedések tulajdonosainak fizetendő ellentételezés értékére vonatkozó döntéshez;
 - e) a szanálási feladatkörében eljáró MNB számára piaci feltétel megállapításához nyújtandó információ a vagyonértékesítés alkalmazása esetén az átruházandó eszközökre, forrásokra, jogokra és kötelezettségekre vagy az intézményben lévő tagsági részesedésekre vonatkozó döntéshez;
@@ -748,6 +761,31 @@ azzal, hogy a szanálási feladatkörében eljáró MNB csoportszintű szanálá
 
 (10) A (9) bekezdésben foglalt információk megszerzése érdekében a szanálási feladatkörében eljáró MNB megkeresi a szanálási kollégium elnökét és tagjait.
 
+32/A. § (1) Ha a szanálási feladatkörében eljáró MNB a csoportszintű szanálási hatóság, a csoporthoz tartozó intézmények szanálási hatóságaival folytatott egyeztetést követően a szanálási akcióterv részeként – szükség esetén a szanálási intézkedés megtétele előtt – finanszírozási tervet javasol.
+
+(2) A finanszírozási tervet a 31. és 32. §-ban meghatározott eljárással összhangban kell elfogadni.
+
+(3) A finanszírozási terv a következőket tartalmazza:
+
+- a) az eszközök és források értékelése az érintett csoporthoz tartozó vállalkozások tekintetében,
+- b) az egyes érintett, csoporthoz tartozó vállalkozások által a szanálási eszközök alkalmazásának pillanatában elszámolható veszteségek,
+- c) az egyes érintett, csoporthoz tartozó vállalkozások esetében az egyes részvényesi vagy hitelezői osztályokra háruló veszteségek,
+- d) a betétbiztosítási rendszerek által esetlegesen fizetendő hozzájárulások,
+- e) a szanálást finanszírozó rendszerekből történő teljes hozzájárulás, valamint a hozzájárulás célja és formája,
+- f) az e) pont szerinti teljes finanszírozási hozzájárulás kielégítéséhez szükséges, az egyes érintett, csoporthoz tartozó vállalkozások EGT-államának szanálást finanszírozó rendszerei által a csoportszintű szanálás finanszírozáshoz nyújtandó hozzájárulás összegének a kiszámításához használt alap,
+- g) az egyes érintett, csoporthoz tartozó vállalkozások szanálást finanszírozó rendszerei által a csoportszintű szanálás finanszírozáshoz nyújtandó hozzájárulás összege, és e hozzájárulások formája,
+- h) az érintett, csoporthoz tartozó vállalkozások EGT-államai szanálást finanszírozó rendszerei által az intézményektől, pénzügyi vállalkozásoktól és más harmadik felektől felveendő kölcsön összege, valamint
+- i) azon időkeret, amelyen belül az érintett, csoporthoz tartozó vállalkozások EGT-államai szanálást finanszírozó rendszereit használni lehet, és amelyet szükség szerint meg lehet hosszabbítani.
+
+(4) A finanszírozási hozzájárulás arányításához használt (3) bekezdés e) pontja szerinti alapnak összhangban kell lennie az (5) bekezdéssel és a csoportszintű szanálási tervben a 7. § (11) bekezdésével összhangban előírt elvekkel, kivéve, ha a finanszírozási terv más megállapodást tartalmaz.
+
+(5) Ha a finanszírozási terv nem tartalmaz más megállapodást, az egyes szanálást finanszírozó rendszerek hozzájárulásának kiszámításához használt alap meghatározásánál különösen a következőket kell figyelembe venni:
+
+- a) az adott szanálást finanszírozó rendszer EGT-államában letelepedett intézmények és az 1. § (1) bekezdés szerinti pénzügyi vállalkozások által birtokolt, a kockázattal súlyozott eszközök aránya a csoport eszközeihez viszonyítva,
+- b) az adott szanálást finanszírozó rendszer EGT-államában letelepedett intézmények és az 1. § (1) bekezdés szerinti pénzügyi vállalkozások által birtokolt eszközök aránya a csoport eszközeihez viszonyítva,
+- c) a csoportszintű szanálást szükségessé tevő azon veszteségek aránya, amelyek az adott szanálást finanszírozó rendszer EGT-államában működő illetékes felügyeleti hatóságok felügyelete alá tartozó, csoporthoz tartozó vállalkozásokban keletkeztek, valamint
+- d) a csoportszintű finanszírozási rendszerek azon forrásainak aránya, amelyek a finanszírozási terv szerint az adott szanálást finanszírozó rendszer EGT-államában székhellyel rendelkező, csoporthoz tartozó vállalkozások közvetlen megsegítésére használhatók.
+
 ### VII. Fejezet — SZANÁLÁSI ESZKÖZÖK
 
 #### 19. A szanálási eszközök általános elvei és az alkalmazható szanálási eszközök
@@ -763,22 +801,22 @@ azzal, hogy a szanálási feladatkörében eljáró MNB csoportszintű szanálá
 
 (2) A szanálási eszközök egyenként vagy együttesen is alkalmazhatóak azzal, hogy az eszközelkülönítés eszköz csak egy másik szanálási eszközzel együtt alkalmazható.
 
-(3) Ha az (1) bekezdés a) vagy b) pontja szerinti szanálási eszközt csak a szanálás alatt álló intézmény eszközei, forrásai, jogai vagy kötelezettségei egy részének átruházására használják fel, akkor a szanálási feladatkörében eljáró MNB kezdeményezi a Felügyeletnél azon szanálás alatt álló intézmény tevékenységi engedélyének visszavonását, amely vonatkozásában az eszközei, forrásai, jogai vagy kötelezettségei egy részének átruházására került sor.
+(3) Ha az (1) bekezdés a) vagy b) pontja szerinti szanálási eszközt csak a szanálás alatt álló intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás eszközei, forrásai, jogai vagy kötelezettségei egy részének átruházására használják fel, akkor a szanálási feladatkörében eljáró MNB kezdeményezi a Felügyeletnél azon szanálás alatt álló intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás tevékenységi engedélyének visszavonását, amely vonatkozásában az eszközei, forrásai, jogai vagy kötelezettségei egy részének átruházására került sor.
 
 (4) A (3) bekezdésben meghatározott tevékenységi engedély visszavonása miatti eljárás befejezésére addig nem kerülhet sor, amíg
 
-- a) az intézménynek a 86. §-sal összhangban szolgáltatást vagy támogatást kell nyújtania az átvevő számára annak érdekében, hogy az folytatni tudja az átruházás révén hozzá került tevékenységeket vagy szolgáltatásokat, valamint
-- b) az intézmény fennmaradó része által végzett tevékenység folytatása szükséges a szanálás céljainak elérése vagy a 20. §-ban foglalt elveknek való megfelelés érdekében.
+- a) az intézménynek, az 1. § (1) bekezdés szerinti pénzügyi vállalkozásnak a 86. §-sal összhangban szolgáltatást vagy támogatást kell nyújtania az átvevő számára annak érdekében, hogy az folytatni tudja az átruházás révén hozzá került tevékenységeket vagy szolgáltatásokat, valamint
+- b) az intézmény, az 1. § (1) bekezdés szerinti pénzügyi vállalkozás fennmaradó része által végzett tevékenység folytatása szükséges a szanálás céljainak elérése vagy a 20. §-ban foglalt elveknek való megfelelés érdekében.
 
 (5) Ha rendszerszintű válság alakul ki, akkor a szanálási feladatkörében eljáró MNB kereshet alternatív finanszírozási megoldást a 81–83. § szerint állami pénzügyi stabilizációs eszköz keretében, ha
 
 - a) a tagsági részesedés, a kiegészítő alapvető és a járulékos tőkeelemek, valamint egyéb leírható és átalakítható kötelezettségek tulajdonosai leírás és átalakítás révén vagy más módon hozzájárultak a hitelezői feltőkésítéshez, és ennek összege legalább a kötelezettségek – ideértve a szanálás alatt álló intézmény szavatoló tőkéjét – a független értékelés alapján számított összértékének 8 százaléka, valamint
 - b) az Európai Unió működéséről szóló szerződés szerinti és jóváhagyott állami támogatás.
 
-35. § (1) A szanálási feladatkörében eljáró MNB és a Szanálási Alap jogosult a szanálási eszközök alkalmazásával vagy a szanálási jogosultságok gyakorlásával kapcsolatban indokoltan felmerülő igazolt költségeinek – az e törvény felhatalmazása alapján kiadott jogszabálynak megfelelően – a szanálás alatt álló intézmény általi megtérítésére:
+35. § (1) A szanálási feladatkörében eljáró MNB és a Szanálási Alap jogosult a szanálási eszközök alkalmazásával vagy a szanálási jogosultságok gyakorlásával kapcsolatban indokoltan felmerülő igazolt költségeinek – az e törvény felhatalmazása alapján kiadott jogszabálynak megfelelően – a szanálás alatt álló intézmény, 1. § (1) bekezdés szerinti pénzügyi vállalkozás általi megtérítésére:
 
-- a) az átvevő által a szanálás alatt álló intézménynek vagy az intézményben lévő tagsági részesedések tulajdonosainak fizetett ellentételezésből történő levonás formájában; vagy
-- b) a szanálás alatt álló intézménytől, az áthidaló intézmény vagy a szanálási vagyonkezelőtől végelszámolás során vagy felszámolás keretében, mint felszámolási költség.
+- a) az átvevő által a szanálás alatt álló intézménynek, 1. § (1) bekezdés szerinti pénzügyi vállalkozásnak vagy az intézményben, 1. § (1) bekezdés szerinti pénzügyi vállalkozásban lévő tagsági részesedések tulajdonosainak fizetett ellentételezésből történő levonás formájában; vagy
+- b) a szanálás alatt álló intézménytől, 1. § (1) bekezdés szerinti pénzügyi vállalkozástól az áthidaló intézmény vagy a szanálási vagyonkezelőtől végelszámolás során vagy felszámolás keretében, mint felszámolási költség.
 
 (2) A szanálási feladatkörében eljáró MNB az (1) bekezdésben meghatározott módszereket együttesen is alkalmazhatja.
 
@@ -847,7 +885,7 @@ azzal, hogy a szanálási feladatkörében eljáró MNB csoportszintű szanálá
 
 #### 21. A vagyonértékesítés eljárási követelményei
 
-42. § (1) Eszközök és források, jogok és kötelezettségek, valamint az intézményben lévő tagsági részesedések összefüggő csoportjai külön is átruházhatóak.
+42. § (1) Eszközök és források, jogok és kötelezettségek, valamint az intézményben, 1. § (1) bekezdés szerinti pénzügyi vállalkozásban lévő tagsági részesedések összefüggő csoportjai külön is átruházhatóak.
 
 (2) A vagyonértékesítési eszköz alkalmazása során az alábbi követelményeknek kell megfelelni:
 
@@ -880,7 +918,7 @@ azzal, hogy a szanálási feladatkörében eljáró MNB csoportszintű szanálá
 - a) egy vagy több szanálás alatt álló intézmény által kibocsátott tagsági részesedést;
 - b) egy vagy több szanálás alatt álló intézmény összes vagy egyes eszközeit, forrásait, jogait és kötelezettségeit.
 
-(2) Az áthidaló intézmény – a (3) bekezdésben foglalt eltéréssel – olyan intézmény, amely részben vagy egészében a Szanálási Alap tulajdonában van vagy ellenőrző befolyása alatt áll és irányítását a szanálási feladatkörében eljáró MNB gyakorolja. Az áthidaló intézményt azzal a céllal hozzák létre, hogy a szanálás alá kerülő egy vagy több intézmény által kibocsátott tagsági részesedések egy részét vagy összességét, illetve eszközeinek, forrásainak, jogainak és kötelezettségeinek egy részét vagy összességét átvegye és birtokolja abból a célból, hogy az említett intézmény vagy intézmények funkcióinak, szolgáltatásainak és tevékenységeinek egy részét vagy mindegyikét fenntartsa.
+(2) Az áthidaló intézmény – a (3) bekezdésben foglalt eltéréssel – olyan intézmény, amely részben vagy egészében a Szanálási Alap tulajdonában van vagy ellenőrző befolyása alatt áll és irányítását a szanálási feladatkörében eljáró MNB gyakorolja. Az áthidaló intézményt azzal a céllal hozzák létre, hogy a szanálás alá kerülő egy vagy több intézmény által kibocsátott tagsági részesedések egy részét vagy összességét, illetve eszközeinek, forrásainak, jogainak és kötelezettségeinek egy részét vagy összességét átvegye és birtokolja abból a célból, hogy az említett intézmény vagy intézmények funkcióinak, szolgáltatásainak és tevékenységeinek egy részét vagy mindegyikét fenntartsa, és eladja az intézményt vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozást.
 
 (3) Ha a Szanálási Alap rendelkezésére álló pénzeszközök nem teszik lehetővé áthidaló intézmény alkalmazását, akkor az áthidaló intézmény az állam tulajdonában vagy ellenőrző befolyása alatt is működhet.
 
@@ -1092,7 +1130,7 @@ jár el.
 58. § (1) A hitelezői feltőkésítés nem terjed ki a következő kötelezettségekre, függetlenül attól, hogy egy EGT-állam vagy harmadik ország joga alapján keletkezett vagy áll fenn:
 
 - a) a betétbiztosítás tekintetében a kártalanítási kötelezettség alá tartozó betétrészre, ideértve az OBA által biztosított betétek kártalanítási kötelezettség alá tartozó betétrészeket,
-- b) a Bszt. 5. § (2) bekezdés a) és b) pontja szerinti tevékenység keretében kötelezettségként nyilvántartott követelésre, így különösen a Beva által biztosított követelésekre, ideértve a tartós befektetési szerződésből és a nyugdíj-előtakarékossági szerződésből eredő követelést is,
+- b) a Bszt. 5. § (2) bekezdés a) és b) pontja szerinti tevékenység keretében kötelezettségként nyilvántartott követelésre, így különösen a Beva által biztosított követelésekre, ideértve a tartós befektetési szerződésből és a nyugdíj-előtakarékossági szerződésből eredő követelést is, továbbá a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló törvényben meghatározott ÁÉKBV vagy ABA nevében kezelt eszközt vagy pénzt, feltéve, hogy az ÁÉKBV vagy ABA az alkalmazandó fizetésképtelenségi jog alapján védelemben részesül,
 - c) a fedezett kötelezettségekre a fedezettség mértékéig, ideértve a fedezett kötvényeket és a jelzáloglevelet,
 - d) nem csoporton belüli intézménnyel szembeni, hét napnál rövidebb eredeti futamidejű kötelezettségre,
 - e) legfeljebb hét nap hátralévő futamidejű kötelezettségre, amely a fizetési és elszámolási rendszerekkel vagy ezek résztvevőivel szemben áll fenn,
@@ -1126,7 +1164,7 @@ jár el.
 - a) a leírható vagy átalakítható kötelezettségek által nem fedezett veszteségek fedezésre kerüljenek, és a szanálás alatt álló intézmény saját tőke értéke a 61. § (1) bekezdés a) pontja alapján nulla értékre visszaállításra kerüljön, vagy
 - b) a szanálás alatt álló intézmény részvényeinek, más tagsági részesedéseinek vagy tőkeelemeinek megvásárlásával a 61. § (1) bekezdés b) pontja alapján a tőkemegfelelés helyreálljon.
 
-(2) Az (1) bekezdés szerinti hozzájárulás akkor nyújtható, ha a szanálás időpontjában a független értékelés alapján megállapítható, hogy
+(2) Az (1) bekezdés szerinti hozzájárulás akkor nyújtható, ha a szanálási eljárás alatt a független értékelés alapján megállapítható, hogy
 
 - a) a veszteségek fedezéséhez és a feltőkésítéshez a részvényesek, a tagi részesedéssel rendelkezők vagy tőkeelemek tulajdonosai, valamint a hitelezői feltőkésítés hatálya alá tartozó hitelezők a hitelezői feltőkésítés megvalósítása keretében hozzájárultak a szanálás alatt álló intézménynek a teljes – szavatoló tőkéjét is magában foglaló – a kötelezettségállományának 8%-át elérő mértékben, valamint
 - b) a Szanálás Alapból nyújtott hozzájárulás értéke nem éri el a szanálás alatt álló intézmény teljes – szavatoló tőkéjét is tartalmazó – kötelezettségállományának 5%-át.
@@ -1138,6 +1176,8 @@ jár el.
 - c) a Szanálási Alapba a 133. § (1) bekezdés b)–c) pontja szerint befizetett összegből.
 
 (4) Ha a (2) bekezdés b) pontjában meghatározott 5%-os határértékig hozzájárult a Szanálási Alap, valamint megtörtént a nem fedezett és nem elsőbbségi kötelezettségek (ideértve a biztosított betétek kártalanítási értékhatár feletti értékrész) leírása vagy átalakítása, akkor a szanálási feladatkörében eljáró MNB rendkívüli körülmények esetén egyéb források bevonását kezdeményezheti az e törvényben foglalt rendelkezések betartása mellett.
+
+(4a) Ha a (4) bekezdésben meghatározott feltételek teljesülnek, a Szanálási Alap a Szanálási Alap tagjai által fizetett csatlakozási díj és rendszeres éves díj addig fel nem használt forrásaiból is adhat hozzájárulást.
 
 (5) A (2) bekezdés a) pontjától eltérően a Szanálási Alap akkor is nyújthat (1) bekezdés szerinti hozzájárulást, ha
 
@@ -1162,6 +1202,8 @@ jár el.
 
 - a) a szanálás alatt álló intézmény vagy az áthidaló intézmény iránti piaci bizalom elégséges szinten fenntartható legyen, és a rendelkezésre álló információk alapján előreláthatólag legalább egy évig még az engedélyezési feltételeknek eleget tudjon tenni az intézmény, valamint
 - b) a szanálás alatt álló intézmény elsődleges alapvető tőke tőkemegfelelési mutatójának helyreállítása vagy az áthidaló intézmény elsődleges tőkemegfelelési mutatójának megállapítása érdekében a Szanálási Alapból a 126. § (3) bekezdés d) pontja szerint juttatott tőke hozzájárulást is figyelembe kell venni.
+
+(2a) Ha a szanálási feladatkörében eljáró MNB szanálási eszközként eszközelkülönítést kíván alkalmazni, akkor azon összeg meghatározásakor, amellyel az erre figyelembe vehető kötelezettségeket csökkenteni kell, figyelembe veszi a szanálási vagyonkezelő tőkeszükségletének prudens becslését.
 
 (3) Ha a 74–79. § alapján a tőkeelemek leírásra kerültek vagy az 57. § alapján a hitelezői feltőkésítés került alkalmazásra, és a leírás mértéke az elvégzett utólagos, végleges értékelés alapján meghaladja a szükséges mértéket, akkor a leértékelés mértéke terén utólagosan korrekciót kell végrehajtani a hitelezők és a tagsági részesedéssel rendelkezők kártalanítására.
 
@@ -1199,7 +1241,7 @@ jár el.
 - a) lehetővé kell tennie az intézmény szanálhatóságát, azaz a szanálási céloknak a szanálási eszközök – ideértve a hitelezői feltőkésítést is – megfelelő alkalmazása által,
 - b) biztosíttatnia kell az intézménynél a hitelezői feltőkésítésbe bevonható kötelezettség (leírható vagy átalakítható tőkeelem) olyan szintjét, hogy a hitelezői feltőkésítés alkalmazása esetén a veszteségek fedezhetőek legyenek, és az intézmény elsődleges alapvető tőkére vonatkozó tőkemegfelelési mutatója visszaállítható legyen az engedélyezés feltételeként szükséges értékre, megfelelően végezhetőek legyenek az engedélyezett tevékenységek, valamint fenntartható legyen az intézmény iránt a pénzügyi bizalom,
 - c) ha a szanálási terv alapján bizonyos leírható vagy átalakítható kötelezettségek a hitelezői feltőkésítésből kizárásra kerülhetnek vagy a részleges átruházás keretében sor kerülhet teljes egészében egy átvevő fél részére való átruházásukra, akkor ezen esetekben elegendő leírható és átalakítható tőkeelemmel kell az intézménynek ezt követően is rendelkeznie a b) pontban meghatározottak teljesülése érdekében,
-- d) az intézmény mérete, tevékenysége, finanszírozási modellje és kockázati profilja figyelembevételével,
+- d) az intézmény mérete, tevékenysége, finanszírozási modellje és kockázati profilja,
 - e) az OBA szanálási célú hozzájárulási kötelezettségének lehetséges mértéke,
 - f) az intézménynek a pénzügyi közvetítőrendszer stabilitását veszélyeztető mértékére tekintettel.
 
@@ -1267,13 +1309,17 @@ figyelembevételével.
 
 (5) Ha az EU-szintű anyavállalat szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, akkor a (4) bekezdésben rögzített határidőn belül kérésére a szanálási feladatkörében eljáró MNB az EBH-val a többoldalú eljárás eredménytelensége vonatkozásában egyeztetést köteles folytatni vagy saját kezdeményezésére egyeztetést folytat.
 
+(5a) A szanálási feladatkörében eljáró MNB mint az EU-szintű anyavállalat szanálásáért felelős hatóság nem folytathat egyeztetést az EBH-val abban az esetben, ha a leányvállalat szanálási hatósága által meghatározott szavatoló tőkére, leírható vagy átalakítható kötelezettségre vonatkozó minimumkövetelmény a 65. § (3) bekezdése szerinti értéktől legfeljebb egy százalékponttal tér el.
+
 (6) Ha az EU-szintű anyavállalat szanálási hatósága egyetértésének hiánya miatt a többoldalú eljárás eredménytelen, a szanálási feladatkörében eljáró MNB a többoldalú eljárás lezárultát követő tíz munkanapon belül, az EU-szintű anyavállalat szanálási hatóságának a többoldalú eljárás során adott véleményére, elemzésére és fenntartására figyelemmel hozza meg a határozatát.
 
 (7) Ha a szanálási feladatkörében eljáró MNB az (5) bekezdés szerinti egyeztetést folytat az EBH-val, akkor a (4) bekezdéstől eltérően az eljárás határideje az EBH-nak az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdése szerinti határozatnak a Felügyelet részére történő átadását követő tíz munkanap múlva jár le.
 
 (8) A szanálási feladatkörében eljáró MNB az (5) bekezdés szerinti egyeztetést követően az EBH határozatát a határozatának meghozatalakor figyelembe veszi. Ha a szanálási feladatkörében eljáró MNB a határozatában eltér az EBH határozatától, akkor a határozatában az eltérést indokolja.
 
-(9) A szanálási feladatkörében eljáró MNB a részletes indokolást is tartalmazó határozatát közli az EU-szintű anyavállalat szanálási hatóságával és az EU-szintű anyavállalattal.
+(8a) Ha az EBH egy hónapon belül nem hoz határozatot, a magyarországi székhelyű leányvállalat esetében a szanálási feladatkörében eljáró MNB határozata alkalmazandó.
+
+(9) A szanálási feladatkörében eljáró MNB a részletes indokolást is tartalmazó határozatát közli a leányvállalattal és a leányvállalat EU-szintű anyavállalatának szanálási hatóságával.
 
 (10) Ha az eljárás lefolytatására másik EGT-állam illetékes szanálási hatósága jogosult, és az EU-szintű anyavállalat intézmény szanálási hatósága a szanálási feladatkörében eljáró MNB, akkor a szanálási feladatkörében eljáró MNB az eljárásra jogosult EGT-állam illetékes szanálási hatósága által meghatározott határidőn belül megküldi a véleményét, fenntartását.
 
@@ -1321,7 +1367,7 @@ alapján.
 (3) Az (1) bekezdésben meghatározott intézkedéseket az olyan tagsági részesedést megtestesítő értékpapír tekintetében is meg kell valósítani,
 
 - a) amely hitelviszonyt megtestesítő értékpapírból került tulajdonjogot megtestesítő értékpapírrá átalakításra és amelyet a hitelviszonyt megtestesítő értékpapír szerződéses feltételei szerint – a szanálási feltételek teljesüléséről szóló döntést megelőzően – tagsági részesedést megtestesítő értékpapírrá alakítottak,
-- b) ahol a kiegészítő alapvető és a járulékos tőkeelemek a 80. § szerint elsődleges alapvető tőkeelemmé kerültek átalakításra.
+- b) ahol a kiegészítő alapvető és a járulékos tőkeelemek a 79. § szerint elsődleges alapvető tőkeelemmé kerültek átalakításra.
 
 (4) A szanálási feladatkörében eljáró MNB az (1) bekezdés szerinti intézkedése során mérlegeli
 
@@ -1331,7 +1377,7 @@ alapján.
 
 (5) Ha az intézmény a Hpt. 126–134. §-a alapján és a Bszt. 37–39. §-a alapján befolyásoló részesedést szerezne, akkor a Felügyelet az eljárást a lehető leggyorsabban lefolytatja, hogy a hitelezői feltőkésítést, a tőkeelemek leírását vagy átalakítását ne akadályozza.
 
-(6) Ha az (5) bekezdésben foglalt eljárás nem fejeződött be a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása alkalmazásáig, és a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása eredményeként befolyásoló részesedés megszerzése vagy befolyásoló részesedés mértékének növelése történt, akkor a 42. § (3) bekezdésében meghatározottak szerint kell eljárni.
+(6) Ha az (5) bekezdésben foglalt eljárás nem fejeződött be a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása alkalmazásáig, és a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása eredményeként befolyásoló részesedés megszerzése vagy befolyásoló részesedés mértékének növelése történt, akkor a 39. § (3) bekezdésében meghatározottak szerint kell eljárni.
 
 #### 30. A leírás és az átalakítás sorrendje
 
@@ -1419,7 +1465,7 @@ azzal, hogy a második alkalommal történő elutasítás esetén új személyt 
 (6) A szanálási feladatkörében eljáró MNB értékeli, hogy az (1) bekezdésben meghatározott követelmény teljesül-e és megfelelő-e
 
 - a) intézményre vagy csoportra kidolgozott szanálási terv tekintetében,
-- b) reorganizációs terv tekintetében és eleget tesz-e a 69. § (4) bekezdés b) és c) pontjában meghatározott értékek összege fedezetének.
+- b) reorganizációs terv tekintetében és eleget tesz-e a 61. § (2a) bekezdésében, valamint a 69. § (4) bekezdés b) és c) pontjában meghatározott értékek összege fedezetének.
 
 (7) Az intézmény és az 1. § szerinti pénzügyi vállalkozás által kibocsátott vagy keletkeztetett bármilyen értékpapír vagy kötelezettség – amely nem mentesül a hitelezői feltőkésítés alól, nem a Hpt. 57. § (1) bekezdés a) és b) pontjába sorolandó betét, és nem EGT-állam jogszabályai által szabályozott – olyan szerződéses feltételt tartalmaz, amely
 
@@ -1436,6 +1482,8 @@ azzal, hogy a második alkalommal történő elutasítás esetén új személyt 
 
 (2) Ha egy származtatott ügyletből származó kötelezettséget a szanálási feladatkörében eljáró MNB mentesített a hitelezői feltőkésítés alól, akkor a szanálási feladatkörében eljáró MNB-nek nem kell felmondania vagy lezárnia az érintett ügyletet.
 
+(2a) A szanálási feladatkörében eljáró MNB megfelelő módszereket alkalmaz a származtatott ügyletek kategóriái értékének meghatározására, ideértve a nettósítási megállapodások tárgyát képező tranzakciókat is.
+
 (3) Ha egy származtatott ügylet nettósítási megállapodás hatálya alá tartozik, akkor a szanálási feladatkörben eljáró MNB az ideiglenes értékelés vagy az általa megbízott független értékelő a független értékelés során megállapítja a származtatott ügyletekből származó nettó kötelezettséget az érintett ügylet nettósítására vonatkozó szerződéses feltételei alapján.
 
 (4) A származtatott ügylet értékelésekor a szanálási feladatkörében eljáró MNB meghatározza, hogy melyik időpontra kell az ügyletet értékelni, valamint összehasonlítja az ügylet lezárása és hitelezői feltőkésítés alá vonása alapján és a felszámolási eljárásban lehetségesen viselt veszteségeket.
@@ -1444,15 +1492,15 @@ azzal, hogy a második alkalommal történő elutasítás esetén új személyt 
 
 #### 33. Tőkeelemek leírása vagy átalakítása
 
-74. § (1) A szanálási feladatkörében eljáró MNB az e törvényben meghatározott körülmények és feltételek fennállása esetén jogosult az intézmény tőkeelemeinek leírására, valamint az intézmény tagsági részesedésévé történő átalakítására.
+74. § (1) A szanálási feladatkörében eljáró MNB az e törvényben meghatározott körülmények és feltételek fennállása esetén jogosult az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás tőkeelemeinek leírására, valamint az intézmény tagsági részesedésévé történő átalakítására.
 
-(2) A tőkeelemek leírására vagy átalakítására vonatkozó jogosultságot gyakorolhatja önállóan vagy szanálási eszközzel együtt, ha a szanálási feltételek teljesülnek.
+(2) A tőkeelemek leírására vagy átalakítására vonatkozó jogosultságot a szanálási feladatkörében eljáró MNB önállóan vagy szanálási eszközzel együtt gyakorolja, ha a szanálási feltételek teljesülnek.
 
-(3) A szanálási feladatkörében eljáró MNB akkor gyakorolhatja az intézmény által kibocsátott kiegészítő alapvető és járulékos tőkeelem tekintetében a leírásra vagy átalakításra vonatkozó jogosultságát
+(3) A szanálási feladatkörében eljáró MNB akkor gyakorolhatja az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás által kibocsátott kiegészítő alapvető és járulékos tőkeelem tekintetében a leírásra vagy átalakításra vonatkozó jogosultságát
 
-- a) ha megállapítja, hogy az intézmény nem lesz többé életképes, kivéve ha gyakorolja a kiegészítő alapvető és járulékos tőkeelemek kapcsán a leírásra vagy az átalakításra való jogosultságot;
+- a) ha megállapítja, hogy az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás nem lesz többé életképes, kivéve ha gyakorolja a kiegészítő alapvető és járulékos tőkeelemek kapcsán a leírásra vagy az átalakításra való jogosultságot;
 - b) az anyavállalat szintjén kibocsátott tőkeelemek esetében, ha ezeket a tőkeelemeket a Felügyelet elismeri a szavatoló tőke követelményeknek az anyavállalat szintjén történő egyéni vagy összevont alapon történő teljesítéseként, és a szanálási feladatkörében eljáró MNB megállapítja, hogy a csoport nem lesz többé életképes, hacsak a szóban forgó instrumentumok kapcsán nem gyakorolják a leírásra vagy átalakításra vonatkozó jogosultságot;
-- c) ha az intézmény rendkívüli állami pénzügyi támogatást igényel; vagy
+- c) ha az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás rendkívüli állami pénzügyi támogatást igényel; vagy
 - d) az e törvényben meghatározott állami tőkeemelés során.
 
 (4) Az intézmény vagy csoport a (3) bekezdés alkalmazásában többé nem életképes, ha
@@ -1509,19 +1557,20 @@ alapját.
 - b) a szanálási feladatkörében eljáró MNB az elsődleges alapvető tőkeelemek tulajdonosai tekintetében elvégzi a 77. § (1) bekezdésében meghatározott intézkedést;
 - c) a kiegészítő alapvető és járulékos tőkeelemek tőkeösszege leírásra vagy elsődleges alapvető tőkeelemekké való átalakításra kerül, a szükséges mértékig és a kiegészítő alapvető és járulékos tőkeelemek veszteségviselő képessége erejéig.
 
-(2) Egy kiegészítő alapvető és járulékos tőkeelem tőkeösszege leírásra kerül, ha:
+(2) Ha egy kiegészítő alapvető és járulékos tőkeelem tőkeösszege leírásra kerül, akkor:
 
-- a) csökkenése tartós, és
-- b) a kiegészítő alapvető és járulékos tőkeelemek tulajdonosaival szemben nem marad fenn az instrumentum leírásra került összegének megfelelő vagy azzal kapcsolatos kötelezettség, kivéve az esetleges már felhalmozott kötelezettségeket, valamint a leírási jogosultság gyakorlásának jogszerűségét vizsgáló perben hozott jogerős ítélet eredményeként esetlegesen felmerülő károkkal kapcsolatos kötelezettségeket.
+- a) csökkentése tartós, a 61. § (3) bekezdésben meghatározott kártalanítási mechanizmussal összhangban lévő bármilyen leírást feltételezve,
+- b) a kiegészítő alapvető és járulékos tőkeelemek tulajdonosaival szemben nem maradhat fenn az instrumentum leírásra került összegének megfelelő vagy azzal kapcsolatos kötelezettség, kivéve a leírás időpontjában már megnyílt kötelezettségeket, valamint a leírási jogosultság gyakorlásának jogszerűségét vizsgáló perben hozott jogerős ítélet eredményeként esetlegesen felmerülő károkkal kapcsolatos kötelezettségeket, és
+- c) az érintett tőkeelemek tulajdonosai nem jogosultak semmilyen kártalanításra, kivéve a (3) bekezdés szerinti kibocsátással megvalósuló ellentételezést.
 
-(3) A kiegészítő alapvető és járulékos tőkeelemeknek az (1) bekezdés b) pontja szerinti átalakítása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény számára, hogy bocsásson ki elsődleges alapvető tőkeelemeket a kiegészítő alapvető és járulékos tőkeelemek tulajdonosai számára. A kiegészítő alapvető és járulékos tőkeelemek csak akkor alakíthatók át, ha
+(3) A kiegészítő alapvető és járulékos tőkeelemeknek az (1) bekezdés c) pontja szerinti átalakítása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény számára, hogy bocsásson ki elsődleges alapvető tőkeelemeket a kiegészítő alapvető és járulékos tőkeelemek tulajdonosai számára. A kiegészítő alapvető és járulékos tőkeelemek csak akkor alakíthatók át, ha
 
 - a) az érintett elsődleges alapvető tőkeelemeket az intézmény vagy az intézmény anyavállalata bocsátja ki, a Felügyelet vagy adott esetben az anyavállalat illetékes felügyeleti hatóságának az egyetértésével;
 - b) az elsődleges alapvető tőkeelemeket azt megelőzően bocsátják ki, hogy az intézmény tagsági részesedéseket bocsátana ki az állami tőkeemelés céljára;
 - c) az elsődleges alapvető tőkeelemeket az átalakítási jogosultság gyakorlása után haladéktalanul allokálják és átruházzák; és
 - d) az egyes kiegészítő alapvető és járulékos tőkeelemek kapcsán nyújtott elsődleges alapvető tőke mennyiségét meghatározó átváltási ráta megfelel a 76. §-ban meghatározott alapelveknek.
 
-(4) Az elsődleges alapvető tőkének a (3) bekezdéssel összhangban történő rendelkezésre bocsátása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény számára, hogy mindenkor rendelkezzen a megfelelő mennyiségű elsődleges alapvető tőke kibocsátásához szükséges előzetes engedéllyel.
+(4) Az elsődleges alapvető tőkének a (3) bekezdéssel összhangban történő rendelkezésre bocsátása céljából a szanálási feladatkörében eljáró MNB előírhatja az intézmény vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozás számára, hogy mindenkor rendelkezzen a megfelelő mennyiségű elsődleges alapvető tőke kibocsátásához szükséges előzetes engedéllyel.
 
 #### 38. Összevont alapon való alkalmazás, megállapítási eljárás
 
@@ -1558,8 +1607,11 @@ alapját.
 
 (3) Az (1) bekezdésben kapott tájékoztatás alapján a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter határozatában dönthet arról, hogy állami pénzügyi stabilizációs eszköz alkalmazásának van helye, ha megállapította, hogy
 
-- a) további szanálási intézkedések alkalmazása nem bizonyulna elégségesnek a pénzügyi közvetítőrendszert érintő jelentős káros hatások elkerüléséhez, vagy
-- b) további szanálási intézkedések alkalmazása nem bizonyulna elégségesek a közérdek védelméhez, amennyiben az a szanálás alatt álló intézmény már korábban igénybe vette az MNB rendkívüli likviditási hitelét.
+- a) további szanálási intézkedések alkalmazása nem bizonyulna elégségesnek a pénzügyi közvetítőrendszert érintő jelentős káros hatások elkerüléséhez,
+- b) további szanálási intézkedések alkalmazása nem bizonyulna elégségesnek a közérdek védelméhez, amennyiben a szanálás alatt álló intézmény már korábban igénybe vette az MNB rendkívüli likviditási hitelét, vagy
+- c) az ideiglenes államosítási eszköz tekintetében a szanálási eszközök alkalmazása nem bizonyul elégségesnek a közérdek védelméhez, amennyiben az intézmény korábban már állami részvénytőke támogatásban részesült
+
+azzal, hogy a határozat meghozatalát megelőzően az a) pont tekintetében a szanálási feladatkörében eljáró MNB-vel, a jegybanki feladatkörében eljáró MNB-vel és a Felügyelettel, a b) pont tekintetében a szanálási feladatkörében eljáró MNB-vel, a c) pont tekintetében a Felügyelettel és a szanálási feladatkörében eljáró MNB-vel egyeztet.
 
 (4) Az állami pénzügyi stabilizációs eszköz lehet
 
@@ -1598,14 +1650,22 @@ alapját.
 - b) a szanálás alatt álló intézmény feletti ellenőrző befolyás gyakorlására, valamint a szanálás alatt álló intézmény tulajdonosait és vezetését megillető jogok és jogosultságok e törvény szerinti gyakorlására;
 - c) a szanálás alatt álló intézmény által kibocsátott tagsági részesedések átruházására;
 - d) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei tekintetében a tőkeösszegnek vagy az esedékes összegnek a csökkentésére, ideértve a nullára csökkentést is;
-- e) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei átalakítására annak az intézménynek, szanálásban érintett anyaintézménynek vagy áthidaló intézménynek a tagsági részesedéseire, amelyhez az intézmény eszközeit, jogait és kötelezettségeit átruházták;
+- e) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei átalakítására annak az intézménynek, 1. § (1) bekezdés szerinti pénzügyi vállalkozásnak, szanálásban érintett anyaintézménynek vagy áthidaló intézménynek a tagsági részesedéseire, amelyhez az intézmény eszközeit, jogait és kötelezettségeit átruházták;
 - f) a szanálás alatt álló intézmény által kibocsátott hitelviszonyt megtestesítő értékpapír névértékének – akár nullára – csökkentésére, valamint e hitelviszonyt megtestesítő értékpapírok bevonására, leírására;
 - g) a szanálás alatt álló intézmény vagy a szanálásban érintett anyaintézmény számára előírni új tagsági részesedések, illetve egyéb tőkeelemek, többek között elsőbbségi részvények és feltételesen átalakítható instrumentumok kibocsátását;
 - h) a szanálás alatt álló intézmény leírható, illetve átalakítható kötelezettségei lejáratának, a fizetendő kamatösszegnek, vagy annak az időpontnak a módosítására, amelyen a kamatfizetés esedékessé válik, többek között a fizetés átmeneti felfüggesztésével is;
 - i) pénzügyi szerződés vagy bármely más származtatott ügyletre vonatkozó szerződés lezárására vagy felmondására a 73. § szerinti rendelkezések alkalmazása céljából;
-- j) a szanálás alatt álló intézmény vezetésének leváltására.
+- j) a szanálás alatt álló intézmény vezetésének leváltására;
+- k) a szanálás alatt álló intézmény meghatározott jogának, eszközének és kötelezettségének más szervezethez történő átruházására a más szervezet beleegyezésével.
 
 (2) A szanálási feladatkörében eljáró MNB az (1) bekezdésben meghatározott szanálási jogosultságokat külön-külön vagy együttesen is alkalmazhatja.
+
+(2a) A szanálási eszközök alkalmazásakor és a szanálási jogosultságok gyakorlásakor a szanálási feladatkörében eljáró MNB
+
+- a) döntéséhez – e törvény eltérő rendelkezése hiányában – nem szükséges más személy jóváhagyása vagy hozzájárulása,
+- b) jogosultságát – e törvény eltérő rendelkezése hiányában – bármely személy előzetes tájékoztatására vonatkozó jogszabályi előírások – ideértve az értesítésre vagy tájékoztató füzet közzétételére vagy bármilyen dokumentum más hatóságoknál való elhelyezésére vagy nyilvántartásba vételére vonatkozó követelményeket is – figyelembe vétele nélkül gyakorolhatja.
+
+(2b) A (2a) bekezdés b) pontja nem érinti az állami támogatások uniós keretrendszeréhez kapcsolódó értesítési követelményeket.
 
 (3) Ha az e törvény hatálya alá tartozó valamely intézmény esetében a szervezet sajátos jogi formája következtében nem alkalmazható az (1) bekezdésben felsorolt bármely jogosultság, a szanálási feladatkörében eljáró MNB olyan intézkedést alkalmazhat, amely – hatásait tekintve is – a leginkább hasonló.
 
@@ -1656,13 +1716,38 @@ alapját.
 
 (2) Ha a szanálási feladatkörében eljáró MNB egy intézmény tagsági részesedését, jogát vagy kötelezettségét egy másik szervezetre ruházza át vagy szándékozik átruházni, de az átruházott vagy átruházni szándékozott tagsági részesedések, jogok vagy kötelezettségek egy része harmadik országban helyezkedik el, vagy az átruházott vagy átruházni szándékozott tagsági részesedések, jogok vagy kötelezettségek egy része a harmadik ország jogának hatálya alá tartozik, akkor a szanálási feladatkörében eljáró MNB előírhatja, hogy a szanálás alatt álló intézmény felett ellenőrző befolyást gyakorló más személyre és az átvevőre az (1) bekezdésben szereplő feltételek vonatkoznak.
 
+(3) Ha a szanálási feladatkörében eljáró MNB úgy ítéli meg, hogy a szanálás alatt álló intézmény felett ellenőrző befolyást gyakorló személy minden szükséges lépésének megtétele ellenére igen valószínűtlen, hogy az átruházás, leírás, átalakítás vagy intézkedés a harmadik országban található tulajdon vagy harmadik ország joga alá tartozó tagsági részesedés tekintetében hatályossá válik, nem kezdheti meg az átruházást, leírást, átalakítást vagy intézkedést. Az elrendelt intézkedés végrehajtása teljességének szempontjából az intézkedés elrendelését az érintett eszközök, részvények vagy egyéb tagsági részesedést megtestesítő instrumentumok, jogok vagy kötelezettségek vonatkozásában érvénytelennek kell tekinteni.
+
+#### 43/A. Másik EGT-állam szanálási hatósága által alkalmazott intézkedések
+
+87/A. § (1) Ha másik EGT-állam szanálási hatósága a vagyonértékesítés alkalmazása során olyan tagsági részesedés, eszköz, forrás, jog vagy kötelezettség átruházásáról hoz a szanálási hatóság tagállamának joga szerint érvényes és végleges határozatot, amelyre a magyar jog alkalmazandó, az átruházást a magyar jog szerint érvényesnek kell tekinteni abban az esetben is, ha a másik tagállam szanálási hatósága által hozott határozat alapján történő átruházás a magyar jog szerint egyébként nem lenne érvényes.
+
+(2) Az (1) bekezdés szerinti határozat alapján történő átruházás érvénytelenségének megállapítása nem kérhető azon az alapon, hogy az átruházás a magyar jog szerint nem érvényes.
+
+87/B. § (1) Ha másik EGT-állam szanálási hatósága leírási vagy átalakítási hatáskörét gyakorolja – ideértve annak a 74. § szerinti, tőkeelemek kapcsán történő alkalmazását is – a szanálás alatt álló intézmény olyan kötelezettségei, illetve releváns tőkeelemei tekintetében, amelyek
+
+- a) a magyar jog hatálya alá tartozó instrumentumok vagy kötelezettségek, illetve
+- b) magyar hitelezőkkel szembeni kötelezettségek,
+
+ezen instrumentumok, illetve kötelezettségek tőkeösszegét a másik EGT-állam szanálási hatósága érvényes és végleges határozatának megfelelően kell csökkenteni, illetve a jogokat vagy kötelezettségeket a másik tagállam szanálási hatósága határozata alapján kell átalakítani abban az esetben is, ha a másik EGT-állam szanálási hatósága által hozott határozat alapján történő leírás vagy átalakítás a magyar jog szerint egyébként nem lenne érvényes.
+
+(2) Az (1) bekezdés szerinti határozat alapján történő tőkeösszeg-csökkentés, illetve átalakítás érvénytelenségének megállapítása nem kérhető azon az alapon, hogy a tőkeösszeg-csökkentés, illetve átalakítás a magyar jog szerint nem érvényes.
+
+87/C. § A szanálási hatóság államának jogát kell alkalmazni
+
+- a) a részvényesek, hitelezők és harmadik felek 87/A. § (1) bekezdés szerinti átruházásra vonatkozó határozattal szembeni jogorvoslatára,
+- b) a hitelezők 87/B. § (1) bekezdés szerinti tőkeösszeg-csökkentésre, illetve átalakításra vonatkozó határozattal szembeni jogorvoslatára,
+- c) a 87/A. § (1) bekezdés szerinti tagsági részesedés, eszköz, forrás, jog vagy kötelezettség részleges átadásához kapcsolódó, 99–102. § szerinti biztosítékokra.
+
 #### 44. Egyes szerződéses feltételek kizárása a szanálás során
 
 88. § (1) A szanálási intézkedések alkalmazása – és az ilyen intézkedés alkalmazásához közvetlenül kapcsolódó bármilyen esemény bekövetkezése – önmagában még nem ismerhető el a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) értelmében vett jogérvényesítési vagy fizetésképtelenségi eljárásként, ha a szerződés szerinti érdemi kötelezettségeket, többek között a fizetési és szállítási kötelezettségeket, valamint a biztosíték rendelkezésre bocsátását továbbra is teljesítik.
 
 (2) A szanálási intézkedések alkalmazása – és az ilyen intézkedés alkalmazásához közvetlenül kapcsolódó bármilyen esemény bekövetkezése – nem teszi lehetővé:
 
-- a) felmondási, felfüggesztési, nettósítási vagy egymással szembeni elszámolási jog gyakorlását olyan, leányvállalat által kötött szerződések vonatkozásában, amelyek esetében a szerződés szerinti kötelezettségek teljesítését az anyavállalat vagy egy csoporthoz tartozó vállalkozás garantálja vagy másképpen támogatja;
+- a) felmondási, felfüggesztési, nettósítási vagy egymással szembeni elszámolási jog gyakorlását, többek között
+  - aa) olyan, leányvállalat által kötött szerződések vonatkozásában, amelyek esetében a szerződés szerinti kötelezettségek teljesítését az anyavállalat vagy egy csoporthoz tartozó vállalkozás garantálja vagy másképpen támogatja,
+  - ab) az intézménnyel azonos csoportba tartozó féllel kötött olyan szerződések vonatkozásában, amelyek a nemteljesítéskor felmondásra jogosító rendelkezést tartalmaznak;
 - b) az érintett intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás a szerződés nemteljesítésekor felmondásra jogosító rendelkezéseket tartalmazó szerződését biztosító vagyontárgy birtokba vételét, a vagyontárgy feletti ellenőrző befolyás gyakorlását vagy biztosítéki jogosultság érvényesítését a vagyontárgy terhére;
 - c) az érintett intézmény vagy az 1. § (1) bekezdése szerinti pénzügyi vállalkozás vagy bármely csoporttag bármely a szerződés nemteljesítésekor felmondásra jogosító rendelkezéseket tartalmazó szerződésből származó jogának befolyásolását;
 
@@ -1712,7 +1797,10 @@ feltéve hogy a szerződés szerinti érdemi kötelezettségeket, többek közö
 
 (4) Valamely személy az (1) és (2) bekezdésben meghatározott időszak vége előtt is élhet a szerződés szerinti felmondási jogával, ha értesítést kap a szanálási feladatkörében eljáró MNB-től arra vonatkozóan, hogy a szerződés szerinti jogok és kötelezettségek nem kerülnek átruházásra az átvevőhöz, az áthidaló intézményhez vagy a szanálási vagyonkezelőhöz, valamint nem terjed ki rá a hitelezői feltőkésítés.
 
-(5) Ha a szanálási feladatkörében eljáró MNB gyakorolja az (1) és (2) bekezdésben a felmondási jog felfüggesztésére vonatkozóan meghatározott jogosultságot, és nem került sor a (4) bekezdés szerinti értesítésre, akkor a szerződés szerinti jogok és kötelezettségek más szervezethez történő átruházása esetén a szerződő fél csak akkor gyakorolhatja az adott szerződés feltételei szerinti felmondási jogot, ha az átvevőnél, az áthidaló intézménynél vagy a szanálási vagyonkezelőnél a szerződésszegés legalább három napig folyamatosan fennáll.
+(5) Ha a szanálási feladatkörében eljáró MNB gyakorolja az (1) és (2) bekezdésben a felmondási jog felfüggesztésére vonatkozóan meghatározott jogosultságot, és nem került sor a (4) bekezdés szerinti értesítésre, akkor
+
+- a) a szerződés szerinti jogok és kötelezettségek más szervezethez történő átruházása esetén a szerződő fél csak akkor gyakorolhatja az adott szerződés feltételei szerinti felmondási jogot, ha az átvevőnél, az áthidaló intézménynél vagy a szanálási vagyonkezelőnél a felmondásra okot adó esemény legalább három napig folytatólagosan fennáll vagy bekövetkezik,
+- b) a szerződés szerinti jogok és kötelezettségek szanálás alatt álló intézménynél történő maradása esetén, amennyiben a szanálási feladatkörében eljáró MNB a szóban forgó szerződés tekintetében nem alkalmazta az 57. § (1) bekezdés a) pontja szerinti hitelezői feltőkésítést, a felmondási jog a felfüggesztés időtartamát követően a szerződési feltételeknek megfelelően gyakorolható.
 
 (6) A szanálási feladatkörében eljáró MNB-nek az e § szerinti jogosultság gyakorlásakor figyelembe kell vennie az intézkedés pénzügyi piacok zavartalan működésére gyakorolt hatását.
 
@@ -1783,7 +1871,7 @@ tekintettel dönt arról, hogy az (1)–(3) bekezdésben meghatározott módszer
 
 - a) a jogsértés folytatásától való eltiltás;
 - b) a vezetői állású személyek legfeljebb hat hónapig terjedő felfüggesztése;
-- c) természetes személlyel szemben legfeljebb öt millió eurónak megfelelő forint összegű pénzbírság kiszabása;
+- c) természetes személlyel szemben legfeljebb egymilliárd-ötszázötvenötmillió-nyolcszázötvenezer forint összegű pénzbírság kiszabása;
 - d) jogi személy esetében a jogi személy előző üzleti évi teljes éves nettó árbevétele legfeljebb 10%-ának megfelelő pénzbírság;
 - e) a jogsértésből származó anyagi előny vagy elmaradt veszteség legfeljebb 200 százalékának megfelelő pénzbírság.
 
@@ -1806,7 +1894,7 @@ tekintettel dönt arról, hogy az (1)–(3) bekezdésben meghatározott módszer
 
 - a) a szankciót természetes személyre szabta ki, és a személyes adatok nyilvánosságra hozatala aránytalan hátrányt okozna;
 - b) a nyilvánosságra hozatal veszélyeztetné a pénzügyi piacok stabilitását vagy valamely folyamatban lévő büntetőeljárást; vagy
-- c) a nyilvánosságra hozatal – ha meghatározható – aránytalan veszteséget okozna az érintett intézménynek.
+- c) a nyilvánosságra hozatal – ha meghatározható – aránytalan veszteséget okozna az érintett intézménynek vagy az 1. § (1) bekezdés szerinti pénzügyi vállalkozásnak.
 
 (4) A (3) bekezdésben foglalt esetkörökben a név nélküli közzététel helyett az MNB dönthet a döntés – legfeljebb 60 nappal – halasztott közzétételéről is, ha alappal feltételezhető, hogy a halasztás időszaka alatt a név nélküli nyilvánosságra hozatal indokai meg fognak szűnni.
 
@@ -1846,7 +1934,7 @@ tekintettel dönt arról, hogy az (1)–(3) bekezdésben meghatározott módszer
 
 99. § (1) Ha a szanálási feladatkörében eljáró MNB
 
-- a) a szanálás alatt álló valamely intézmény eszközeinek, forrásainak, jogainak vagy kötelezettségeinek egy részét, de nem az egészét ruházza át egy másik szervezetre, vagy
+- a) a szanálás alatt álló valamely intézmény eszközeinek, forrásainak, jogainak vagy kötelezettségeinek egy részét, de nem az egészét egy másik szervezetre, vagy a szanálási eszköz alkalmazása során az áthidaló intézménytől, illetve a szanálási vagyonkezelőtől egy másik személyre ruházza át, vagy
 - b) a 85. § (1) bekezdés f) pontjában meghatározott jogosultságokat gyakorolja,
 
 akkor a (2) bekezdésben meghatározott megállapodásokkal és azok részes feleivel kapcsolatban a 100–103. § szerinti rendelkezéseknek megfelelően jár el.
@@ -2014,11 +2102,11 @@ folytat le.
 
 #### 56. Értesítési és közzétételi kötelezettségek
 
-113. § (1) Az intézmény haladéktalanul értesíti a Felügyeletet, ha úgy ítéli meg, hogy a 17. § (2) bekezdése értelmében fizetésképtelen vagy a rendelkezésre álló információk alapján a közeljövőben, de legkésőbb 12 hónapon belül várhatóan fizetésképtelenné válik.
+113. § (1) Az intézmény, az 1. § (1) bekezdés szerinti pénzügyi vállalkozás haladéktalanul értesíti a Felügyeletet, ha úgy ítéli meg, hogy a 17. § (2) bekezdése értelmében fizetésképtelen vagy a rendelkezésre álló információk alapján a közeljövőben, de legkésőbb 12 hónapon belül várhatóan fizetésképtelenné válik.
 
-(2) Ha az intézmény vonatkozásában teljesülnek a 17. § (1) bekezdésében meghatározott feltételek, erről haladéktalanul, még a szanálást elrendelő határozatot megelőzően a szanálási feladatkörében eljáró MNB-nek tájékoztatnia kell
+(2) Ha az intézmény, az 1. § (1) bekezdés szerinti pénzügyi vállalkozás vonatkozásában teljesülnek a 17. § (1) bekezdésében meghatározott feltételek, erről haladéktalanul, még a szanálást elrendelő határozatot megelőzően a szanálási feladatkörében eljáró MNB-nek, illetve a Felügyeletnek tájékoztatnia kell
 
-- a) az intézmény, az 1. § (1) bekezdés szerinti pénzügyi vállalkozás vagy az intézmény fióktelepének illetékes felügyeleti hatóságát;
+- a) az intézmény, az 1. § (1) bekezdés szerinti pénzügyi vállalkozás vagy az intézmény fióktelepének illetékes felügyeleti hatóságát, illetve illetékes szanálási hatóságát;
 - b) a betétbiztosítási rendszert, ideértve az OBA-t, ha ez szükséges a betétbiztosítási feladatainak a teljesítéséhez;
 - c) a befektetés-védelmi rendszert, ideértve a Beva-t, ha ez szükséges a befektető-kártalanítási feladatainak a teljesítéséhez;
 - d) a szanálás finanszírozás rendszert, ideértve a Szanálási Alapot;
@@ -2041,7 +2129,9 @@ folytat le.
 
 - a) honlapján;
 - b) a szanálás alatt álló intézmény honlapján;
-- c) ha a szanálás alatt álló intézményben lévő tagsági részesedéseket bevezették valamely szabályozott piacra, a szanálás alatt álló intézménnyel kapcsolatos szabályozott információk közzétételéhez használt eszközökkel.
+- c) ha a szanálás alatt álló intézményben lévő tagsági részesedéseket vagy hitelviszonyt megtestesítő instrumentumokat bevezették valamely szabályozott piacra, a szanálás alatt álló intézménnyel kapcsolatos szabályozott információk közzétételéhez használt eszközökkel
+
+azzal, hogy a szabályozott piacra be nem vezetett instrumentumok vonatkozásában a tájékoztatást azon tulajdonosok és hitelezők részére kell megadni, akik a szanálás alá vont intézmény adatbázisai és nyilvántartásai alapján a szanálási feladatkörében eljáró MNB előtt ismertek.
 
 (4) Ha a szanálási feladatkörében eljáró MNB szanálási intézkedést hozott és gyakorolja:
 
@@ -2084,7 +2174,7 @@ akkor a (3) bekezdésben szereplő követelmények teljesítésén túl közlem�
 - b) a szanálási feladatkörben eljáró MNB által a szanálási intézkedés tervezése vagy végrehajtása céljából
   - ba) más EGT-állam szanálási hatóságával,
   - bb) más EGT-állam illetékes felügyeleti hatóságaival, illetékes minisztériumokkal, központi bankokkal, betétbiztosítási és befektetés-védelmi rendszerekkel, a fizetésképtelenségi eljárásokért felelős hatóságokkal,
-  - bc) az Európai Bankhatósággal,
+  - bc) az EBH-val,
   - bd) az Európai Bizottsággal,
   - be) a szanálási hatóságok feladataival megegyező feladatokat ellátó harmadik országbeli hatóságokkal, vagy
   - bf) egy lehetséges átvevővel
@@ -2195,10 +2285,11 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 (2) A szanálási feladatkörében eljáró MNB
 
 - a) gyakorolhatja szanálási jogosultságát a következők kapcsán:
-  - aa) harmadik országbeli intézmény olyan eszközei, amelyek Magyarországon találhatók vagy amelyekre a magyar jog az irányadó;
-  - ab) harmadik országbeli intézmény olyan jogai vagy kötelezettségei, amelyeket a magyarországi fióktelep könyvel el, vagy amelyekre a magyar jog az irányadó, vagy ha az ilyen jogokkal és kötelezettségekkel kapcsolatos követelések Magyarországon érvényesíthetők;
-- b) EU-szintű anyavállalat intézmény leányvállalata részvényei vagy tagsági részesedései átruházásának előírása, ideértve ha az átruházáshoz harmadik személy egyetértése vagy közreműködése kell, akkor az erre történő kötelezését is;
-- c) az 89–91. §-ban előírt jogosultságok gyakorlása az (1) bekezdésben említett szervezettel szerződéses viszonyban álló bármely fél jogaival kapcsolatban, ha e jogosultságok a harmadik országbeli szanálási eljárások végrehajtásához szükségesek.
+  - aa) harmadik országbeli intézmény vagy anyavállalat olyan eszközei, amelyek Magyarországon találhatók vagy amelyekre a magyar jog az irányadó,
+  - ab) harmadik országbeli intézmény olyan jogai vagy kötelezettségei, amelyeket a magyarországi fióktelep vesz nyilvántartásba, vagy amelyekre a magyar jog az irányadó, vagy ha az ilyen jogokkal és kötelezettségekkel kapcsolatos követelések Magyarországon érvényesíthetők;
+- b) előírhatja az EU-szintű anyavállalat intézmény leányvállalata részvényei vagy tagsági részesedései átruházását, ideértve, ha az átruházáshoz harmadik személy egyetértése vagy közreműködése kell, akkor az erre történő kötelezését is;
+- c) gyakorolhatja a 89–91. §-ban előírt jogosultságokat az (1) bekezdésben említett szervezettel szerződéses viszonyban álló bármely fél jogaival kapcsolatban, ha e jogosultságok a harmadik országbeli szanálási eljárások végrehajtásához szükségesek;
+- d) gyakorolhatja a szerződések felmondására, megszüntetésére vagy esedékességének előre hozása jogának érvényesíthetetlenné tételét, vagy az (1) bekezdésben említett szervezettel vagy egyéb, a csoporthoz tartozó vállalkozások szerződéses jogainak befolyásolását, amennyiben e jogok a vállalkozás harmadik országbeli intézményének, anyavállalatának vagy egyéb, a csoporthoz tartozó vállalkozások tekintetében végrehajtott szanálási eljárásból adódnak, történjen az maga az érintett harmadik országbeli hatóság által vagy a harmadik ország szanálási intézkedéseire vonatkozó jogi vagy szabályozási előírásainak megfelelő egyéb módon, feltéve, hogy a szerződés szerinti érdemi kötelezettségek – ideértve a fizetési és szállítási kötelezettségeket is –, valamint a biztosíték garantálása továbbra is teljesülnek.
 
 (3) A harmadik országbeli szanálási eljárások elismerése és végrehajtása nem sérthetik a magyar jogot, és nem érintik a magyar jog alapján indult fizetésképtelenségi eljárásokat.
 
@@ -2210,7 +2301,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - b) egy vagy több szanálási cél elérése érdekében valamely magyarországi fióktelep kapcsán a 123. § szerinti független szanálási intézkedésre van szükség;
 - c) a Magyarországon székhellyel vagy lakóhellyel rendelkező vagy kifizetendő hitelezők, ezen belül különösen a betétesek, a harmadik országbeli szanálási eljárás keretében nem részesülnének a harmadik országbeli hitelezőkkel és betétesekkel egyenlő elbánásban;
 - d) a harmadik országbeli szanálási eljárások elismerése vagy végrehajtása jelentős költségvetési következményekkel járna Magyarország számára; vagy
-- e) az elismerés vagy a végrehajtás a közérdekkel ellentétes lenne.
+- e) az elismerés vagy a végrehajtás a magyar joggal ellentétes lenne.
 
 (2) A szanálási feladatkörében eljáró MNB az (1) bekezdés d) pontjában foglalt kérdésben kikéri a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter véleményét.
 
@@ -2226,7 +2317,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - a) megállapítja, hogy az intézkedésre közérdek miatt van szükség; és
 - b) a következő feltételek közül egy vagy több teljesül:
   - ba) a magyarországi fióktelep már nem teljesíti vagy valószínűleg nem fogja tudni teljesíteni az engedélyezésére és működésére vonatkozó, magyar jog által előírt feltételeket, és nincs kilátás arra, hogy bármilyen más, magánszektorbeli, felügyeleti vagy releváns harmadik országbeli intézkedés révén megfelelő időkereten belül a fióktelep újra teljesítené a feltételeket, vagy megakadályozható lenne fizetésképtelenné válása,
-  - bb) a harmadik országbeli intézmény a szanálási feladatkörében eljáró MNB álláspontja szerint nem képes, nem akarja vagy valószínűleg nem lesz képes kifizetni a magyarországi hitelezők felé fennálló kötelezettségeit vagy a fióktelepen keresztül létrejött vagy a fióktelep könyveiben nyilvántartott, nem vitatott kötelezettségeit azok esedékessé válásakor, és a szanálási feladatkörében eljáró MNB meggyőződött arról, hogy az említett harmadik országbeli intézménnyel összefüggésben ésszerű időn belül nem került sor harmadik országbeli szanálási eljárásra vagy fizetésképtelenségi eljárásra vagy annak kezdeményezésére;
+  - bb) a harmadik országbeli intézmény a szanálási feladatkörében eljáró MNB álláspontja szerint nem képes, nem akarja vagy valószínűleg nem lesz képes kifizetni az EGT-állambeli hitelezők felé fennálló kötelezettségeit vagy a fióktelepen keresztül létrejött vagy a fióktelep könyveiben nyilvántartott, nem vitatott kötelezettségeit azok esedékessé válásakor, és a szanálási feladatkörében eljáró MNB meggyőződött arról, hogy az említett harmadik országbeli intézménnyel összefüggésben ésszerű időn belül nem került sor harmadik országbeli szanálási eljárásra vagy fizetésképtelenségi eljárásra vagy annak kezdeményezésére;
 - c) az alábbi körülmények valamelyike fennáll
   - ca) az érintett harmadik országbeli hatóság harmadik országbeli szanálási eljárást kezdeményezett a harmadik országbeli intézmény tekintetében, vagy
   - cb) az érintett harmadik országbeli hatóság harmadik országbeli szanálási eljárás indítására vonatkozó szándékáról értesítette a szanálási hatóságot; és a 122. §-ban meghatározott körülmények valamelyike fennáll.
@@ -2235,7 +2326,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 #### 63. Együttműködés harmadik országbeli hatóságokkal
 
-124. § (1) A szanálási feladatkörében eljáró MNB harmadik ország szanálási hatóságával szanálási együttműködési megállapodást köthet, ha a harmadik állam rendelkezik a magyar jogszabályok által támasztott adatkezelési és adatvédelmi követelményeknek megfelelő jogszabályi előírásokkal.
+124. § (1) A szanálási feladatkörében eljáró MNB érintett harmadik országbeli hatósággal szanálási együttműködési megállapodást köthet, ha a harmadik ország rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott adatkezelési és adatvédelmi követelményeknek megfelelő jogszabályi előírásokkal, valamint az Európai Unió nem kötött a harmadik országgal szanálási együttműködési megállapodást. A szanálási feladatkörében eljáró MNB érintett harmadik országbeli hatósággal kötött szanálási együttműködési megállapodásának a (2) bekezdés szerinti azon tárgykörei, amelyekről az Európai Uniónak az érintett harmadik országgal kötött együttműködési megállapodása nem rendelkezik, az utóbbi hatálybalépését követően is érvényben és hatályban maradnak.
 
 (2) Az együttműködési megállapodás kitér az alábbiakra:
 
@@ -2246,9 +2337,9 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - e) együttes szanálási intézkedések esetén a nyilvános kommunikáció koordinálása;
 - f) az a)–e) pont szerinti információcserére és együttműködésre vonatkozó eljárások és szabályok, többek között – adott esetben – válságkezelő csoportok létrehozása és működtetése révén.
 
-(3) A szanálási feladatkörében eljáró MNB honlapján közzéteszi, hogy melyik harmadik országok szanálási hatóságával kötött szanálási együttműködési megállapodást.
+(3) A szanálási feladatkörében eljáró MNB honlapján közzéteszi, hogy melyik érintett harmadik országbeli hatósággal kötött szanálási együttműködési megállapodást.
 
-(4) Harmadik országok szanálási hatóságaival való információcserére az együttműködési megállapodás rendelkezései az irányadóak.
+(4) Az érintett harmadik országbeli hatóságokkal való információcserére az együttműködési megállapodás rendelkezései az irányadóak.
 
 #### 64. Titoktartás harmadik országok vonatkozásában
 
@@ -2272,7 +2363,7 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 126. § (1) E törvény hatálybalépésével létrejön a Szanálási Alap (a továbbiakban: Alap), amely az intézmények befizetéseiből finanszírozott, a szanáláshoz közvetlenül kapcsolódó, (3) és (4) bekezdésben meghatározott finanszírozási igények fedezésére szolgáló alap.
 
-(2) Minden intézmény köteles csatlakozni az Alaphoz.
+(2) Minden intézmény, valamint harmadik országbeli intézmény magyarországi fióktelepe köteles csatlakozni az Alaphoz.
 
 (3) Az Alap vagyona az alábbi célokra használható fel:
 
@@ -2284,8 +2375,9 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 - f) az OBA-nak a 143. § (5) bekezdés szerint fizetendő kártalanítás;
 - g) a tulajdonosoknak vagy a hitelezőknek a 98. §-sal összhangban fizetendő kártalanítás;
 - h) a fiskális semlegesség 128. § szerinti teljesülésének biztosítása;
-- i) az a)–h) pontban említett intézkedések bármely kombinációja;
-- j) az Alap működtetésével közvetlenül összefüggő költségek.
+- i) más EGT-állam szanálást finanszírozó rendszere számára önkéntes alapon kölcsön nyújtása;
+- j) az a)–i) pontban említett intézkedések bármely kombinációja;
+- k) az Alap működtetésével közvetlenül összefüggő költségek.
 
 (4) Az Alap a vagyonértékesítési eszköz alkalmazása során a (3) bekezdés a)–d) pontban említett intézkedésekhez az átvevő tekintetében is igénybe vehető.
 
@@ -2298,6 +2390,18 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 (2) Az (1) bekezdés szerinti visszafizetésnek az adott időszakra, évente az Államadósság Kezelő Központ Zrt. által megállapított 10 éves forint állampapír referenciahozammal megnövelt értékben kell teljesülnie.
 
 (3) Az államnak az 81. § (3) bekezdés a) vagy b) pontjában meghatározott tulajdonszerzését követő ötödik év elteltével, öt éven át fennálló eladási joga nyílik az általa e törvény szerint szerzett tagsági részesedések tekintetében az Alappal szemben olyan áron, amely biztosítja a fiskális semlegesség elvének teljesülését.
+
+#### 66/A. Más EGT-állam szanálást finanszírozó rendszere számára kölcsön nyújtása
+
+128/A. § (1) Az Alap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával önkéntes alapon kölcsönt nyújthat más EGT-állam szanálást finanszírozó rendszere számára, ha
+
+- a) az érintett szanálást finanszírozó rendszer rendelkezésére álló összegek nem elegendőek a finanszírozási rendszer alkalmazása során felmerült veszteségek, költségek vagy egyéb kiadások fedezésére,
+- b) rendkívüli utólagos hozzájárulások sem állnak az érintett szanálást finanszírozó rendszer számára azonnal rendelkezésre, valamint észszerű feltételek mellett alternatív finanszírozási eszközök alkalmazására sincs mód.
+
+(2) Ha a más EGT-állam szanálást finanszírozó rendszere számára az Alappal egyidejűleg több szanálását finanszírozó rendszer nyújt kölcsönt, az összes részt vevő szanálást finanszírozó rendszer eltérő megállapodása hiányában
+
+- a) az Alap által nyújtott kölcsönre ugyanazon kamatlábat, törlesztési időszakot és egyéb feltételeket kell alkalmazni, mint a többi részt vevő szanálást finanszírozó rendszer által nyújtott kölcsönre,
+- b) az Alap által kölcsönzött összeg nagyságát a Magyarországon található biztosított betétek összegének és a részt vevő szanálást finanszírozó rendszerek tagállamaiban található biztosított betétek aggregáltjának az aránya alapján kell megállapítani.
 
 ### XVII. Fejezet — A SZANÁLÁSI ALAP JOGÁLLÁSA ÉS SZERVEZETE
 
@@ -2379,6 +2483,8 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 
 (4) Az Alap – 126. § (3) bekezdése szerinti célok megvalósítása érdekében – kötvényt bocsáthat ki.
 
+(4a) Az Alap kizárólag akkor vehet fel hitelt, valamint bocsáthat ki kötvényt, ha a tagjai által fizetett díjak nem elegendőek a 126. § (3) bekezdése szerinti célok megvalósításához. Az Alap más EGT-állam szanálást finanszírozó rendszerétől kizárólag akkor vehet fel hitelt, ha más jogi személytől történő hitelfelvételre, valamint kötvény kibocsátására észszerű feltételek mellett rövid időn belül nincs lehetőség.
+
 (5) Az állam készfizető kezesként felel az Alap azon fizetési kötelezettségeiért, amelyek a 126. § (3) bekezdése szerinti kötelezettségei teljesítése érdekében – a Kormány által jóváhagyott összegű – felvett hiteleiből, kölcsöneiből és kötvénykibocsátásából erednek. Az Alap kötelezettségei biztosítékaként az állami készfizető kezességvállaláson túl a hitelező további biztosíték előírására nem köteles. Az állami kezességvállalásért az Alapnak kezességvállalási díjat kell fizetnie.
 
 #### 70. Az Alap egyéb bevétele
@@ -2408,6 +2514,12 @@ a megállapodás biztosítja, hogy az adatot átvevő szerv az átadott adatokat
 #### 74. Éves díjfizetési kötelezettség
 
 138. § (1) Az Alap tagjai éves díjat fizetnek, amelynek mértékét a szanálási feladatkörében eljáró MNB határozza meg és arról értesíti az Alap tagjait.
+
+(1a) Azon időpontot követően, hogy az Alap eszközei első alkalommal elérték a Magyarországon engedélyezett hitelintézetek biztosított betétállománya kártalanítási összeghatárának 1%-át (e bekezdés alkalmazásában a továbbiakban: célszint), az éves díjfizetési kötelezettséget úgy kell megállapítani, hogy az Alap eszközeinek a célszint kevesebb mint kétharmadára csökkenése esetén az Alap eszközei hat éven belül ismét elérjék a célszintet.
+
+(1b) Az éves díjfizetési kötelezettség meghatározásakor megfelelően figyelembe kell venni az üzleti ciklus fázisát és azokat a hatásokat, amelyeket a prociklikus hozzájárulások eredményezhetnek az éves hozzájárulások meghatározására.
+
+(1c) Az (1a) bekezdés alkalmazásában a más EGT-állam szanálást finanszírozó rendszere számára önkéntes alapon nyújtott kölcsönt is az Alap eszközeként kell elszámolni.
 
 (2) A rendszeres éves díj összegét az Alap tagja minden évben féléves részletekben, legkésőbb a tárgyfélév utolsó hónapjának tizenötödik napjáig köteles befizetni az Alap pénzforgalmi számlájára.
 
@@ -2511,9 +2623,16 @@ foglaltakat a Módtv. hatálybalépésekor folyamatban lévő eljárásokra is a
 
 150/B. § Ha az eljáró szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
+150/C. § A pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs célú módosításáról szóló 2018. évi CXXVI. törvény (a továbbiakban: 2018. évi CXXVI. törvény) hatálybalépésekor már működő harmadik országbeli intézmény magyarországi fióktelepe a 2018. évi CXXVI. törvény hatálybalépését követő 90 napon belül köteles a csatlakozásról szóló nyilatkozatot az Alapnak megküldeni, valamint 137. § szerinti csatlakozási díjat az Alap részére csatlakozási díjként befizetni.
+
 #### 80. Az Európai Unió jogának való megfelelés
 
-151. § Ez a törvény a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról szóló 2014. május 15-i 2014/59/EU európai parlamenti és tanácsi irányelvnek való megfelelését szolgálja.
+151. § Ez a törvény
+
+- a) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. május 15-i 2014/59/EU európai parlamenti és tanácsi irányelvnek,
+- b) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.
 
 152. § E törvény tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdése szerinti előzetes bejelentése megtörtént.
 
@@ -2565,7 +2684,7 @@ A) Az egyedi szanálási terv tartalmazza legalább az alábbi tartalmi elemeket
 
 9. annak ismertetése, hogy hogyan finanszírozhatók a szanálási opciók a szanálási alap igénybevételét megengedve, de rendkívüli állami pénzügyi támogatás – ide nem értve az állami tőkeemelés – igénybe vétele nélkül;
 
-10. a különböző lehetséges forgatókönyveknek megfelelően alkalmazható különféle szanálási stratégiák részletes leírása;
+10. a különböző lehetséges forgatókönyveknek és az alkalmazandó ütemterveknek megfelelően alkalmazható különféle szanálási stratégiák részletes leírása;
 
 11. a kritikus jellegű kölcsönös függőségi kapcsolatok bemutatása;
 

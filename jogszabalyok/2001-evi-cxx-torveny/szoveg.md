@@ -428,13 +428,15 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 21. § (1) Ha e törvény másként nem rendelkezik, értékpapír nyilvános forgalomba hozatala, illetve szabályozott piacra történő bevezetése vagy multilaterális kereskedési rendszerbe történő regisztrációja esetén a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését vagy az értékpapír multilaterális kereskedési rendszerbe történő regisztrációját kezdeményező személy kibocsátási tájékoztatót (a továbbiakban: tájékoztató) és a Bizottság 809/2004/EK rendeletének 31. cikkében meghatározott hirdetményt (a továbbiakban: hirdetmény) köteles közzétenni.
 
+(1a) Tájékoztató és hirdetmény közzététele helyett a 3. számú melléklet szerinti tartalommal kell minimum tájékoztatót készíteni olyan értékpapír nyilvános forgalomba hozatala esetén, amelynek ajánlattételi ellenértéke tizenkét hónapon belül európai uniós szinten egymillió eurónál vagy annak megfelelő összegnél kisebb.
+
+(1b) A kibocsátó, illetve az ajánlattevő az (1a) bekezdés szerinti minimum tájékoztatót a Felügyelet jóváhagyását követően észszerű időn belül elérhetővé teszi a kibocsátó, illetve az ajánlattevő honlapján.
+
 (2) Nem kell tájékoztatót és hirdetményt közzétenni:
 
 - a) tizenkét hónapnál rövidebb eredeti lejáratú pénzpiaci eszköz forgalomba hozatala esetén;
 - b) nyílt végű befektetési alapra kibocsátott befektetési jegy forgalomba hozatala esetén;
-- c) értékpapír szabályozott piacra történő bevezetése esetén, ha
-  - ca) a szabályozott piacra bevezetendő értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg uniós szinten az ötmillió eurót vagy az annak megfelelő összeget, és
-  - cb) az ugyanazon sorozatba tartozó értékpapírt ugyanazon szabályozott piacra már bevezették;
+- c)
 - d) értékpapír multilaterális kereskedési rendszerbe történő regisztrációja esetén, ha
   - da) a regisztrálandó értékpapír kibocsátási összértéke tizenkét hónapon belül nem haladja meg az ötmillió eurót vagy annak megfelelő összeget, vagy
   - db) a regisztrálandó értékpapír-sorozat szabályozott piacra vagy az OECD tagállamában bejegyzett tőzsdére be van vezetve;
@@ -1776,7 +1778,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 199. § (1) E rész rendelkezéseit az 596/2014/EU rendelet alkalmazási körében foglalt pénzügyi eszközökre, ügyletekre és referenciaértékekre vonatkozóan, a rendeletben meghatározott körben kell alkalmazni.
 
-(2) A bennfentes kereskedelemre és piacbefolyásolásra az e törvényben nem szabályozott kérdésekben az 596/2014/EU rendeletet kell alkalmazni.
+(2) A bennfentes kereskedelemre és piacbefolyásolásra az 596/2014/EU rendeletben nem szabályozott kérdésekben e törvény rendelkezéseit kell alkalmazni.
 
 ### XXI/A. Fejezet
 
@@ -1949,6 +1951,8 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 213. § (1) Az Alap feladata a befektetők részére a 217. § (2) bekezdésében meghatározott kártalanítási összeg megállapítása és kifizetése.
 
+(1a) E fejezet vonatkozásában befektetőnek minősül a Bszt. 4. § (2) bekezdés 66. pontja szerinti ügyfél is.
+
 (2) Kizárólag olyan követelés alapján állapítható meg kártalanítás, amely a befektető és az Alap tagja között 1997. július 1. napját követően létrejött, biztosított tevékenység végzésére kötött megállapodás teljesítése érdekében az Alap tagjának birtokába került és a befektető nevén nyilvántartott vagyon (értékpapír, pénz) kiadására vonatkozó kötelezettségen alapul (biztosított követelés). Az Alap által nyújtott biztosítás kizárólag a tagsági jogviszony fennállása alatt kötött megállapodásokra terjed ki.
 
 (3) A (2) bekezdésben meghatározott követelések körébe beletartozik az Alap magyarországi székhelyű tagjának más országban létesített fióktelepével szemben fennálló követelés, kivéve, ha a fióktelep létesítésének helye szerinti ország szabályai ezt nem teszik lehetővé.
@@ -1967,7 +1971,7 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 
 - a) az állam,
 - b) a költségvetési szerv,
-- c) a tartósan, száz százalékban állami tulajdonban lévő gazdasági társaság,
+- c)
 - d) a helyi önkormányzat,
 - e) az intézményi befektető,
 - f) kötelező vagy önkéntes betétbiztosítási, intézményvédelmi, befektető-védelmi alap, illetve a Pénztárak Garancia Alapja,
@@ -1975,12 +1979,13 @@ a vételi ajánlat, illetve az önkéntes vételi ajánlat lezárását követő
 - h) befektetési vállalkozás, tőzsdetag, illetőleg árutőzsdei szolgáltató,
 - i) a Hpt.-ben meghatározott pénzügyi intézmény,
 - j) az MNB,
-- k) az Alap tagjánál vezető állású személy és ezek közeli hozzátartozója, továbbá
+- k) az Alap tagjánál vezető állású személy és ezek közeli hozzátartozója,
 - l) az Alap tagjában öt százalékot elérő vagy azt meghaladó közvetlen, illetőleg közvetett tulajdoni részesedéssel vagy szavazati joggal rendelkező vállalkozás vagy természetes személy és ennek ellenőrzött társasága, valamint természetes személy tulajdonos esetén ennek közeli hozzátartozója
+- m) az Alap tagjának könyvvizsgálója
 
 követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseire.
 
-(2) Az (1) bekezdés k)–l) pontjában meghatározott ok akkor zárja ki a kártalanítást, ha az a kártalanítási igény alapjául szolgáló szerződés megkötésétől a kártalanítási igény benyújtásáig terjedő időszakban, vagy annak egy része alatt fennállt az Alap azon tagjánál, amellyel kapcsolatban kártalanítási eljárásra kerül sor.
+(2) Az (1) bekezdés k)–m) pontjában meghatározott ok akkor zárja ki a kártalanítást, ha az a kártalanítási igény alapjául szolgáló szerződés megkötésétől a kártalanítási igény benyújtásáig terjedő időszakban, vagy annak egy része alatt fennállt az Alap azon tagjánál, amellyel kapcsolatban kártalanítási eljárásra kerül sor.
 
 (3) Az Alap által nyújtott biztosítás nem terjed ki az olyan ügyletből eredő követelésre sem, amely esetében a bíróság jogerős ügydöntő határozata megállapította, hogy a befektetés forrása bűncselekményből származott.
 
@@ -1996,6 +2001,8 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 (2) Ha az (1) bekezdésben meghatározott bármelyik esemény bekövetkezik, az Alap tagja erről köteles haladéktalanul értesíteni az Alapot. Az Alap tagja a kártalanítási igény elbírálásához szükséges adatot az Alap által meghatározott formában és módon haladéktalanul előállítja, majd az Alap rendelkezésére bocsátja. Az Alap jogosult az érintett tagjánál minden olyan adathoz személyesen is hozzáférni, amely a kártalanítási kötelezettségének felméréséhez szükséges.
 
 (3) Az Alap az (1) bekezdésben meghatározott esemény időpontjának közzétételét követő tizenöt napon belül a Felügyelet által üzemeltetett honlapon és a saját honlapján közleményben tájékoztatja a befektetőket a kártalanítási igényérvényesítés lehetőségéről. Az Alap közzéteszi az igényérvényesítés első napját, az igényérvényesítés módját, továbbá a kifizetést végző szervezet nevét. Az igényérvényesítés első napja nem lehet később, mint az (1) bekezdésben meghatározott esemény időpontjának közzétételét követő harmincadik nap.
+
+(4) A (3) bekezdéstől eltérően, amennyiben a kifizetést végző szervezet neve tizenöt napon belül nem áll az Alap rendelkezésére, akkor azt az Alap a rendelkezésre állást követő három napon belül kiegészítő közleményben közzéteszi.
 
 217. § (1) Kártalanítás megállapítására a befektető erre irányuló kérelme alapján kerül sor. A kérelem formáját az Alap meghatározhatja. A kérelmet a befektető az igényérvényesítés első napjától számított egy éven belül terjesztheti elő. Ha a befektető menthető okból nem tudta igényét határidőben előterjeszteni, a kérelem az akadály elhárulását követő harminc napon belül terjeszthető elő.
 
@@ -3568,7 +3575,14 @@ gyakorolt hatásának, veszélyességi fokának figyelembevételével választja
 - z) közleményt ad ki, amelyben megjelöli a jogsértésért felelő személyt és a jogsértés természetét,
 - zs) határozattal megállapítja a jogsértés tényét, és egyben elrendeli a jogsértő állapot megszüntetését, vagy megtiltja a jogszabályba ütköző magatartás további folytatását.
 
-(2)
+(2) Az 596/2014/EU rendelet megsértése esetén a Felügyelet
+
+- a) megállapítja a jogsértés tényét, és megtiltja a jogsértésért felelős személy számára a jogsértő magatartás folytatását és megismétlését,
+- b) kötelez a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegének ellentételezésére, ha az összegszerűen meghatározható,
+- c) nyilvános figyelmeztetést alkalmaz, amelyben megnevezi a jogsértésért felelős személyt és a jogsértés jellegét,
+- d) visszavonja vagy felfüggeszti a befektetési vállalkozás befektetési szolgáltatás végzésére, kiegészítő szolgáltatás nyújtására jogosító engedélyét,
+- e) ideiglenesen eltiltja befektetési vállalkozás vezetői feladatainak ellátásától, illetve a sajátszámlás kereskedéstől a befektetési vállalkozás vezető testülete bármely olyan tagját vagy bármely olyan természetes személyt, akinek a jogsértésért való felelősségét megállapították,
+- f) véglegesen eltiltja befektetési vállalkozás vezetői feladatainak ellátásától a befektetési vállalkozás vezető testülete bármely olyan tagját vagy bármely olyan természetes személyt, akinek az 596/2014/EU rendelet 14. és 15. cikkében foglalt jogsértések többszöri elkövetéséért való felelősségét megállapították.
 
 (3)
 
@@ -3989,6 +4003,82 @@ a 909/2014/EU rendelet szerinti központi értéktári tevékenység – szakos�
 
 ### 3. számú melléklet a 2001. évi CXX. törvényhez
 
+A minimum tájékoztató kötelező tartalmi elemei
+
+A minimum tájékoztatónak legalább a következő adatokat kell tartalmaznia:
+
+a) Az (EU) 2017/1129 európai parlamenti és tanács rendelet szerinti összefoglaló
+
+b) Alapvető információk
+
+A cél a vállalkozás pénzügyi helyzetére, tőkeszerkezetére és a vállalkozáshoz kapcsolódó kockázati tényezőkre vonatkozó alapvető információk összesítése. Ha a dokumentumban foglalt pénzügyi kimutatásokat a vállalkozás csoportstruktúrájában vagy számviteli politikájában bekövetkezett lényeges változások tükrözése érdekében módosítják, a fő pénzügyi információkat is módosítani kell.
+
+1. Fő pénzügyi információk
+
+2. Tőkeellátottság és kötelezettségek (kizárólag tulajdonviszonyt megtestesítő értékpapírok esetében)
+
+3. Az ajánlattétel indokai és az abból befolyó bevételek felhasználása
+
+4. Kockázati tényezők
+
+c) A vállalkozásra vonatkozó információk
+
+A cél információk szolgáltatása a vállalkozás üzleti tevékenységéről, az általa előállított termékekről vagy nyújtott szolgáltatásokról, valamint az üzletmenetet befolyásoló tényezőkről. Az is célja, hogy információkkal szolgáljon a vállalkozás ingatlanvagyonának, gépeinek és berendezéseinek megfelelő és alkalmas voltáról, valamint jövőbeli kapacitásbővítési vagy szűkítési terveiről.
+
+1. A vállalkozás múltja és fejlődése
+
+2. Üzleti áttekintés
+
+3. Szervezeti felépítés
+
+4. Ingatlanvagyon, gépek és berendezések
+
+d) Működési és pénzügyi áttekintés és kilátások
+
+E szakasz célja, hogy ismertesse a vállalatvezetés magyarázatát azon tényezőkre vonatkozóan, amelyek befolyásolják a vállalkozás pénzügyi helyzetét és a pénzügyi kimutatások által lefedett múltbeli pénzügyi helyzetét és működési eredményeit, továbbá bemutassa az azon tényezőkre és trendekre vonatkozó értékelését, amelyek az elkövetkezendő időszakokban várhatóan lényeges hatással lesznek a vállalkozás pénzügyi helyzetére és működési eredményeire.
+
+1. Üzleti eredmények
+
+2. Likviditás és tőkeforrások
+
+3. Kutatás és fejlesztés, szabadalmak és engedélyek stb.
+
+4. Trendek
+
+e) Igazgatók, vezető tisztségviselők és munkavállalók
+
+A cél információk szolgáltatása a vállalkozás igazgatóiról és vezető tisztségviselőiről, ami lehetővé teszi a befektetők számára, hogy értékeljék azok szakértelmét, képesítését és javadalmazásuk szintjét, valamint a vállalkozáshoz fűződő viszonyukat.
+
+1. Igazgatók és vezető tisztségviselők
+
+2. Javadalmazás
+
+3. A vezető testületekre vonatkozó információk
+
+4. Munkavállalók
+
+5. Részvénytulajdonlás
+
+f) Az ajánlattétel részletes adatai
+
+A cél információk szolgáltatása az értékpapírokra vonatkozó ajánlattételről, az értékpapírok forgalomba hozatali tervéről és a kapcsolódó kérdésekről.
+
+1. Ajánlattétel
+
+2. Forgalomba hozatali terv
+
+3. Piacok
+
+4. Eladó értékpapírokkal rendelkezők
+
+5. Felhígítás (kizárólag tulajdonviszonyt megtestesítő értékpapíroknál)
+
+6. A kibocsátás költségei
+
+7. A nyilvánosan felajánlott értékpapírok fajtája és osztálya
+
+8. Az értékpapírokban megtestesített jogok ismertetése, ideértve e jogok bármely korlátozását és a gyakorlásukra vonatkozó eljárást
+
 ### 4. számú melléklet a 2001. évi CXX. törvényhez
 
 A helyi önkormányzatok kötvénykibocsátásához készített tájékoztató kötelező tartalmi elemei
@@ -4299,16 +4389,16 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 3. Az Európai Parlament és a Tanács 2002. június 6-i 2002/47/EK irányelve a pénzügyi biztosítékokról szóló megállapodásokról.
 - 4. Az Európai Parlament és a Tanács 2002. december 16-i 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
 - 5. Az Európai Parlament és a Tanács 2003. november 4-i 2003/71/EK irányelve az értékpapírok nyilvános kibocsátásakor vagy piaci bevezetésekor közzéteendő tájékoztatóról és a 2001/34/EK irányelv módosításáról.
-- 6. Az Európai Parlament és a Tanács 2003. január 28-i 2003/6/EK irányelve a bennfentes kereskedelemről és a piaci manipulációról (piaci visszaélés).
-- 7. A Bizottság 2003. december 22-i 2003/124/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek a bennfentes információ meghatározása és közzététele, valamint a piaci manipuláció meghatározása tekintetében történő végrehajtásáról.
-- 8. A Bizottság 2003. december 22-i 2003/125/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek a befektetési ajánlások tisztességes ismertetése és az összeférhetetlenség közzététele tekintetében történő végrehajtásáról.
+- 6. Az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet 46. cikk (1) bekezdése és 49. cikk (2) bekezdése.
+- 7. Az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet.
+- 8.
 - 9. Az Európai Parlament és a Tanács 2004. április 21-i 2004/25/EK irányelve a nyilvános vételi ajánlatról.
 - 10. Az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról.
-- 11. A Bizottság 2004. április 29-i 2004/72/EK irányelve a 2003/6/EK európai parlamenti és tanácsi irányelvnek az elfogadott piaci gyakorlatok, az árualapú származtatott ügyletekre vonatkozó bennfentes információ fogalom meghatározása, a bennfentesek jegyzékének összeállítása, a vezetői ügyletek bejelentése és a gyanús ügyletek bejelentése tekintetében történő végrehajtásáról.
+- 11.
 - 12. Az Európai Parlament és a Tanács 2004. december 15-i 2004/109/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról és a 2001/34/EK irányelv módosításáról.
 - 13. Az Európai Parlament és a Tanács 2006. május 17-i 2006/43/EK irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról, a 78/660/EGK és a 83/349/EGK tanácsi irányelv módosításáról, valamint a 84/253/EGK tanácsi irányelv hatályon kívül helyezéséről.
-- 14. Az Európai Parlament és a Tanács 2006. június 14-i 2006/48/EK irányelve a hitelintézetek tevékenységének megkezdéséről és folytatásáról (átdolgozott szöveg).
-- 15. Az Európai Parlament és a Tanács 2006. június 14-i 2006/49/EK irányelve a befektetési vállalkozások és hitelintézetek tőkemegfeleléséről (átdolgozott szöveg).
+- 14.
+- 15.
 - 16. A 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet.
 - 17. A Bizottság 2007. március 8-i 2007/14/EK irányelve a szabályozott piacra bevezetett értékpapírok kibocsátóival kapcsolatos információkra vonatkozó átláthatósági követelmények harmonizációjáról szóló 2004/109/EK irányelv egyes rendelkezéseinek végrehajtására irányadó részletes szabályok megállapításáról.
 - 18. A tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet.

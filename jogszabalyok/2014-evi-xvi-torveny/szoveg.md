@@ -36,7 +36,11 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 (3) A (2) bekezdés szerinti ABAK-ra előírt rendelkezéseket az Európai Parlament és Tanács 2013. április 17-i az európai kockázatitőke-alapokról szóló 345/2013/EU rendeletének figyelembe vételével kell alkalmazni abban az esetben, ha az ABAK e rendelet értelmében EuVECA megnevezést használó alapokat kezel és forgalmaz.
 
+(3a) A (2) és (3) bekezdésben foglaltaktól eltérően ABAK EuVECA megnevezést használó alapokat kezelhet és forgalmazhat abban az esetben is, ha e törvény ABAK-ra előírt rendelkezései mellett az (EU) 2017/1991 európai parlamenti és tanácsi rendelet 1. cikk 1. pontjában előírt rendelkezéseknek felel meg.
+
 (4) A (2) bekezdés szerinti ABAK-ra előírt rendelkezéseket az Európai Parlament és Tanács 2013. április 17-i az európai szociális vállalkozási alapokról szóló 346/2013/EU rendeletének figyelembe vételével kell alkalmazni abban az esetben, ha az ABAK e rendelet értelmében ESZVA megnevezést használó alapokat kezel és forgalmaz.
+
+(4a) A (2) és (4) bekezdésben foglaltaktól eltérően ABAK ESZVA megnevezést használó alapokat kezelhet és forgalmazhat abban az esetben is, ha e törvény ABAK-ra előírt rendelkezései mellett az (EU) 2017/1991 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában előírt rendelkezéseknek felel meg.
 
 (5) A (2) bekezdés szerinti, e törvény rendelkezései alól részleges felmentést élvező ABAK a (2) bekezdés a) pont aa) és ab) alpontjában említett küszöbérték kiszámítása során és a küszöbértéknek való megfeleléssel kapcsolatban az ABAK-rendelet 2–5. cikkének megfelelően jár el.
 
@@ -164,6 +168,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - 81. pénzpiaci eszköz: a Bszt.-ben meghatározott fogalom;
 - 82. pénzügyi eszköz: a Bszt.-ben meghatározott fogalom;
 - 83. portfóliókezelés: a Bszt.-ben meghatározott tevékenység;
+- 83a. PPA: pénzpiaci alap, amely az (EU) 2017/1131 európai parlamenti és tanácsi rendelettel összhangban engedélyezett ÁÉKBV vagy ABA;
 - 84. prime bróker: olyan hitelintézet, befektetési vállalkozás vagy prudenciális szabályozás és folyamatos felügyelet alá tartozó más vállalkozás, amely szerződő félként szolgáltatást kínál a szakmai befektetők számára elsősorban pénzügyi eszközökre vonatkozó ügyletek finanszírozása vagy végrehajtása érdekében, és amely más szolgáltatásokat is nyújthat, például a Tpt. szerinti elszámolást és teljesítést, valamint letéti őrzést, letétkezelést, értékpapír-kölcsönzést, igényekre szabott technológia- és működéstámogatási szolgáltatásokat;
 - 85. referencia-tagállam: az az EGT-állam, amelynek felügyeleti hatóságai jogosultak nem uniós ABAK engedélyezési eljárása és felügyelete tekintetében eljárni;
 - 86. részesedési viszony: valamely vállalkozás szavazati jogai vagy tőkéje 20%-ának vagy ennél nagyobb részének közvetlenül vagy közvetetten való tulajdonlása;
@@ -210,10 +215,10 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
   - bd) jogszerű magatartás ellenőrzése,
   - be) a befektetőkkel kapcsolatos nyilvántartások vezetése,
   - bf) hozamfizetés,
-  - bg) az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatalával és folyamatos forgalmazásával összefüggő adminisztrációs feladatok,
+  - bg) kollektív befektetési értékpapír forgalomba hozatalával és folyamatos forgalmazásával összefüggő adminisztrációs feladatok,
   - bh) a megkötött ügyletek teljesítése, a bizonylatok megküldését is ideértve,
   - bi) nyilvántartások vezetése;
-- c) az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatala és folyamatos forgalmazása.
+- c) kollektív befektetési értékpapír forgalmazása és az ÁÉKBV-alapkezelő által kezelt kollektív befektetési értékpapír forgalomba hozatala.
 
 (2) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében, az a)–c) pontban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (3) bekezdésre:
 
@@ -241,10 +246,10 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
   - ad) jogszerű magatartás ellenőrzése,
   - ae) a befektetőkkel kapcsolatos nyilvántartások vezetése,
   - af) hozamfizetés,
-  - ag) az ABAK által kezelt kollektív befektetési értékpapír forgalomba hozatalával és forgalmazásával összefüggő adminisztrációs feladatok,
+  - ag) kollektív befektetési értékpapír forgalomba hozatalával és forgalmazásával összefüggő adminisztrációs feladatok,
   - ah) a megkötött ügyletek teljesítése, a bizonylatok megküldését is ideértve,
   - ai) nyilvántartások vezetése;
-- b) az ABAK által kezelt kollektív befektetési értékpapír forgalomba hozatala és forgalmazása;
+- b) kollektív befektetési értékpapír forgalmazása és az ABAK által kezelt kollektív befektetési értékpapír forgalomba hozatala;
 - c) az ABA eszközeihez kapcsolódó tevékenységek: az ABAK bizalmi feladatainak ellátásához szükséges szolgáltatások, a létesítmények kezelése, az ingatlankezelői tevékenységek, vállalkozások számára a tőkeszerkezettel, ipari stratégiával és ezekhez kapcsolódó ügyekkel kapcsolatos tanácsadás, az összeolvadásokkal és vállalkozások megvásárlásával kapcsolatos tanácsadás és szolgáltatások, valamint az ABA és mindazon vállalatok és egyéb eszközök kezeléséhez kapcsolódó szolgáltatások, amelyekben az adott ABA befektetéssel rendelkezik.
 
 (3) Az ABAK az (1) és (2) bekezdésben felsorolt tevékenységek, valamint – külön engedély birtokában végzett – ÁÉKBV részére folytatott alapkezelés mellett kizárólag az alábbi tevékenységeket végezheti rendszeres gazdasági tevékenysége keretében; az a)–d) pontokban meghatározott tevékenységek esetén az adott tevékenységre előírt engedély birtokában és figyelemmel a (4) bekezdésre:
@@ -256,7 +261,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 (4) Az ABAK az (1) bekezdés a) és b) pontjában meghatározott mindkét tevékenység végzésére köteles. Az ABAK önmagában a (2) és (3) bekezdésben meghatározott tevékenységek végzésére, az (1) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (3) bekezdés b)–d) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (3) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. Az ABAK a (2) bekezdés b) pontjában meghatározott tevékenységet közvetítőként is végezheti.
 
-(5) Az ABAK az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi ABAK részére is végezheti, azzal, hogy a 2. § (2) bekezdés szerinti ABAK határon átnyúló szolgáltatást nem végezhet. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
+(5) Az ABAK az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti, azzal, hogy a 2. § (2) bekezdés szerinti ABAK határon átnyúló szolgáltatást nem végezhet. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
 
 (6) A (3) bekezdésben szereplő tevékenységek végzése esetén a Bszt. adott tevékenységre vonatkozó rendelkezéseit az adott tevékenységre megfelelően alkalmazni kell.
 
@@ -422,7 +427,7 @@ alá.
 - c) legalább hároméves pénzügyi szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik és
 - d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró okok és ÁÉKBV-alapkezelő esetén a 27. §-ban, ABAK esetében a 34. §-ban meghatározott összeférhetetlenségi okok nem állnak fenn.
 
-(3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága tagjának, teljes tevékenységet irányító személyének, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének a (2) bekezdésben meghatározott feltételeken kívül az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
+(3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága tagjának, teljes tevékenységet irányító személyének, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
 
 (4) A befektetési alapkezelő ügyvezetője, igazgatósága, valamint felügyelőbizottsága tagja, teljes tevékenységet irányító személye, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személye valamint a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha az engedély megadását követően kizárási ok merül fel. A megválasztáshoz vagy kinevezéshez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
 
@@ -2985,7 +2990,9 @@ van összefüggésben.
 - f) a Bizottság 2013. május 15-i a 2011/61/EU európai parlamenti és tanácsi irányelv önkéntes alkalmazását választó ABAK-okra vonatkozó eljárás létrehozásáról szóló 447/2013/EU végrehajtási rendeletének,
 - g) a Bizottság 2013. május 15-i a nem uniós ABAK-ok referencia-tagállamának a 2011/61/EU európai parlamenti és tanácsi irányelv szerinti meghatározását szolgáló eljárás létrehozásáról szóló 448/2013/EU végrehajtási rendeletének,
 - h) az Európai Parlament és Tanács 2015. április 29-i az európai hosszú távú befektetési alapokról szóló 760/2015/EU rendeletének,
-- i) az Európai Parlament és Tanács 2015. november 25-i, az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
+- i) az Európai Parlament és Tanács 2015. november 25-i, az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 rendeletének
+- j) a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet,
+- k) az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosító rendelkezések
 

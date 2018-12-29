@@ -372,9 +372,9 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 
 8. § (1) Befektetési szolgáltatási tevékenység és kiegészítő szolgáltatás – az (1a)–(4) bekezdésben foglaltak figyelembevételével – a Felügyelet engedélyével végezhető, illetve nyújtható.
 
-(1a) Piacműködtető az 5. § (1) bekezdés h), illetve i) pontjában foglalt befektetési szolgáltatási tevékenységet a Felügyelet részére történő bejelentést követő 30 nap elteltével végezheti, azzal, hogy bejelentésben igazolja, hogy megfelel az engedélyezésre, a vezető testületre, a befolyásoló részesedésre, az induló tőke ellátottságra, a szervezeti követelményekre, az algoritmikus kereskedésre, a multilaterális kereskedési rendszerre és a szervezett kereskedési rendszerre e törvényben előírt követelményeknek.
+(1a) Piacműködtető az 5. § (1) bekezdés h), illetve i) pontjában foglalt befektetési szolgáltatási tevékenységet a Felügyelet részére történő bejelentést követő 30 nap elteltével végezheti, azzal, hogy bejelentésben igazolja, hogy megfelel az engedélyezésre, a vezető testületre, a befolyásoló részesedésre, az induló tőke ellátottságra, a szervezeti követelményekre, a jogsértések jelentésére, az algoritmikus kereskedésre, a multilaterális kereskedési rendszerre és a szervezett kereskedési rendszerre e törvényben előírt követelményeknek.
 
-(2) A harmadik országban székhellyel rendelkező vállalkozás fióktelepe befektetési szolgáltatási tevékenységet akkor végezhet, illetve kiegészítő szolgáltatást akkor nyújthat lakossági és szakmai ügyfelek részére, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével, és a 29/A. §-ban meghatározott feltételek teljesülnek. A harmadik országban székhellyel rendelkező vállalkozás által Magyarország területén végezhető befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatás nyújtása során figyelembe kell venni a 600/2014/EU rendelet VIII. címében foglalt rendelkezéseket is.
+(2) A harmadik országban székhellyel rendelkező vállalkozás fióktelepe befektetési szolgáltatási tevékenységet akkor végezhet, illetve kiegészítő szolgáltatást akkor nyújthat lakossági és a 49. § szerinti szakmai ügyfelek részére, ha rendelkezik a székhelye szerinti állam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével, és a 29/A. §-ban meghatározott feltételek teljesülnek. A harmadik országban székhellyel rendelkező vállalkozás által Magyarország területén végezhető befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatás nyújtása során figyelembe kell venni a 600/2014/EU rendelet VIII. címében foglalt rendelkezéseket is.
 
 (3) A más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén határon átnyúló tevékenységet akkor végezhet vagy fióktelepet akkor létesíthet, ha rendelkezik a székhely szerinti tagállam hatáskörrel rendelkező felügyeleti hatóságának az adott tevékenység végzésére jogosító engedélyével és a 27. § (5) bekezdésében, illetve a 27. § (8) bekezdésében meghatározott feltételek teljesültek.
 
@@ -1048,7 +1048,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 - b) V. Fejezetét,
 - c) VI/A. Fejezetét,
 - d) X–XIII. Fejezetét,
-- e) összeférhetetlenségre vonatkozó szabályait,
+- e) összeférhetetlenségre és a jogsértések jelentésére vonatkozó szabályait,
 - f) XX. Fejezetét,
 - g) XXIII–XXV. Fejezetét,
 - h) XXV/B. Fejezetét, valamint
@@ -1543,7 +1543,7 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 - c) a 48. § (3) bekezdésében meghatározott intézmény, és
 - d) az a vállalkozás, amelyet a székhelye szerinti állam ilyenként ismer el.
 
-(2) A befektetési vállalkozásnak az 5. § (1) bekezdésének a)–c) pontjában meghatározott befektetési szolgáltatási tevékenysége és ehhez kapcsolódó kiegészítő szolgáltatása esetében – ha azt az (1) bekezdésben meghatározott elfogadható partner számára nyújtja – a 40–50. §-ban, az 55. §-ban, a 62–65. §-ban foglaltakat – a (3) és (4) bekezdésben foglalt kivétellel – nem kell alkalmaznia.
+(2) A befektetési vállalkozásnak az 5. § (1) bekezdésének a)–c) pontjában meghatározott befektetési szolgáltatási tevékenysége és ehhez kapcsolódó kiegészítő szolgáltatása esetében – ha azt az (1) bekezdésben meghatározott elfogadható partner számára nyújtja – a 40. § (1)–(4) és (8) bekezdésében, a 41. §-ban, a 43–46. §-ban, az 55. §-ban, a 62. §-ban, a 63. §-ban, valamint a 64. § (1) bekezdésében foglaltakat – a (3) és (4) bekezdésben foglalt kivétellel – nem kell alkalmaznia.
 
 (3) Az (1) bekezdés b), illetve c) pontjában meghatározott elfogadható partnernek minősülő ügyfél – akár egyes ügyletek vonatkozásában, akár általános jelleggel – kérheti, hogy a befektetési vállalkozás rá vonatkozóan ne a (2) bekezdésben említettek szerint járjon el. Ebben az esetben – ha az elfogadható partner kifejezetten eltérően nem nyilatkozik –, rá a szakmai ügyfél tekintetében alkalmazandó rendelkezések szerint kell eljárni.
 
@@ -1559,14 +1559,7 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 
 (3) A befektetési vállalkozás az ügyfél azonosítására nem használhat olyan utalást vagy jelzést, amely alkalmas az ügyfél személyének elfedésére vagy megnehezíti annak azonosítását.
 
-53. § A befektetési vállalkozás portfóliókezelési tevékenysége keretében létrehozandó szerződésben rendelkezni kell
-
-- a) a portfóliókezelés megkezdéséhez szükséges feltételekről,
-- b) a portfóliókezelési tevékenység keretében létrejött szerződés megszűnésének módjáról és feltételeiről,
-- c) a befektetési politikáról,
-- d) a portfóliókezeléssel összefüggő összes költségről, a 43. § (9) bekezdésében foglaltakkal összhangban,
-- e) a d) pontban meghatározott költségek megfizetésének, valamint az elszámolásnak a módjáról,
-- f) a 43. § (4) bekezdésében foglaltakról.
+53. §
 
 ### A szerződéskötés megtagadása
 
@@ -1726,17 +1719,7 @@ helyezi el.
 
 ### XIII. Fejezet — A SZERZŐDÉS TELJESÍTÉSE ÉS A MEGBÍZÁS VÉGREHAJTÁSA
 
-61. § (1) A befektetési vállalkozás a befektetési szolgáltatási tevékenysége vagy kiegészítő szolgáltatása keretében az ügyféllel kötött szerződés teljesítése, illetve az ügyfél megbízásának végrehajtása során mindenkor a jogszabályokban foglaltaknak, a szakma szabályainak megfelelően, tisztességes és hatékony módon, az ügyfél érdekeivel összhangban jár el.
-
-(2) Az (1) bekezdésben foglaltaknak megfelelően a befektetési vállalkozás nem kérhet és nem fogadhat el olyan anyagi vagy nem anyagi természetű juttatást, előnyt, amelyet
-
-- a) nem az ügyfél vagy az ügyfél javára eljáró harmadik személy részére vagy nem ezek részéről teljesítenek,
-- b) nem olyan személy vagy szervezet részére vagy részéről teljesítenek, amely esetében
-  - ba) az anyagi vagy nem anyagi természetű juttatás, illetve a juttatás mértékének számítása során használt módszer az ügyfél előtt a szerződéskötést vagy a megbízás végrehajtását megelőzően pontosan, következetesen és világosan feltárható, és
-  - bb) az anyagi vagy nem anyagi természetű juttatás a végzett tevékenység vagy a nyújtott szolgáltatás minőségének javítása érdekében történik és nem befolyásolja hátrányosan a befektetési vállalkozás (1) bekezdés szerinti kötelezettségének teljesítését,
-- c) nem a befektetési szolgáltatási tevékenység ellátásával vagy a kiegészítő szolgáltatás nyújtásával függ össze vagy hátrányosan befolyásolja a befektetési vállalkozás (1) bekezdés szerinti kötelezettségének teljesítését.
-
-(3) A befektetési vállalkozás az ügyfél részére a (2) bekezdés b) pontjának ba) alpontjában foglalt információt a 41. § (1) bekezdésének g) pontja szerinti tájékoztatási kötelezettsége keretében összefoglalás formájában is megadhatja azzal, hogy az ügyfél kifejezett kérésére a részletes tájékoztatást is haladéktalanul az ügyfél rendelkezésére bocsátja.
+61. §
 
 ### A megbízás ügyfél számára legkedvezőbb végrehajtása
 
@@ -1763,7 +1746,7 @@ helyezi el.
 
 (7) Az ügyfél kérésére a befektetési vállalkozás a végrehajtási politikában foglalt rendelkezések alkalmazásának bemutatásával igazolja, hogy az ügyfél megbízását a végrehajtási politikában foglaltaknak megfelelően hajtotta végre, és a Felügyelet kérésére igazolja, hogy e §-ban és a 63. §-ban foglaltaknak megfelelően járt el.
 
-(8) A befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről. A befektetési vállalkozás rendszeres időközönkénti jelentésében részletezi az egyes pénzügyi eszközökre vonatkozóan az árat, a végrehajtás gyorsaságát és valószínűségét.
+(8) A befektetési vállalkozás a megbízás ügyfél nevében történő végrehajtását követően tájékoztatja az ügyfelet a megbízás végrehajtásának helyszínéről.
 
 63. § (1) A befektetési vállalkozás a megbízás ügyfél számára következetesen legkedvezőbb végrehajtása érdekében követendő szabályokról – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 66. cikkében meghatározott – szabályzatot (a továbbiakban: végrehajtási politika) készít.
 
@@ -1816,7 +1799,7 @@ szerint jár el.
 
 (3) A (2) bekezdés b) pontja esetében nyújtott halasztott pénzügyi teljesítés során a befektetési vállalkozás az ügyfelet terhelő fizetési kötelezettséget elkülönített letéti számla javára teljesíti.
 
-(4) A befektetési vállalkozás a halasztott pénzügyi teljesítésre vonatkozó szabályokról a 43. § (9) bekezdésének d) pontja szerint tájékoztatja az ügyfelet.
+(4) A befektetési vállalkozás a halasztott pénzügyi teljesítésre vonatkozó szabályokról tájékoztatja az ügyfelet.
 
 (5) A halasztott pénzügyi teljesítésre a befektetési hitelezésre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a halasztott pénzügyi teljesítés időtartama nem lehet hosszabb, mint az ügyfél fizetési kötelezettsége esedékességétől számított tizenöt nap.
 
@@ -1986,7 +1969,7 @@ kell mérni.
 - f) a végrehajtási helyszínekről,
 - g) a szerződéskötéshez, valamint – egy korábban megkötött és hatályban lévő szerződés (a továbbiakban: keretszerződés) létrehozatala esetében – az egyes ügyletek megkötéséhez kapcsolódó költségről, díjról, amely a leendő szerződő felet terheli.
 
-(2) A szerződéskötést megelőző tájékoztatási kötelezettség teljesítése során az árutőzsdei szolgáltató nem alkalmazza a 43. § (3) bekezdésének b) pontjában, (5) bekezdésének a), c) és d) pontjában és (8) bekezdésének g)–j) pontjában foglaltakat.
+(2)
 
 (3) Nem kell az (1) bekezdésben meghatározott tájékoztatást megadni abban az esetben, ha
 
@@ -2584,11 +2567,28 @@ rendelkezhet.
 
 (8) A csoportszintű pénzügyi támogatási megállapodás megkötésének feltétele, hogy a szerződés időpontjában a megállapodó felek egyike sincs abban a helyzetben, hogy vele szemben a hatáskörrel rendelkező felügyeleti hatóság intézkedést, kivételes intézkedést alkalmazzon.
 
-110/N. § (1) A csoportszintű pénzügyi támogatásra vonatkozó megállapodás megkötéséhez a hatáskörrel rendelkező felügyeleti hatóságok 173/A. § szerinti többoldalú eljárás keretében hozott határozata szükséges.
+110/N. § (1) A csoportszintű pénzügyi támogatásra vonatkozó megállapodás megkötéséhez az EGT-állambeli befektetési vállalkozás anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága határozata szükséges azzal, hogy
 
-(2) Az (1) bekezdésben meghatározott döntést követően a megállapodás tervezetét a részes félként szereplő tagok tulajdonosainak is jóvá kell hagynia azzal, hogy a megállapodás kizárólag a csoport azon tagjait kötelezi, akiknél a tulajdonosok jóváhagyásukat megadták, illetve azt nem vonták vissza.
+- a) a kérelmet az EGT-állambeli befektetési vállalkozás anyavállalat nyújtja be a székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságának,
+- b) a kérelem tartalmazza a csoportszintű pénzügyi támogatásra vonatkozó megállapodás tervezetét és meghatározza a csoporthoz tartozó azon szervezeteket, amelyek a megállapodásban félként szerepelnek, valamint
+- c) a Felügyelet részére benyújtott, határon átnyúló csoport esetében a többoldalú eljárásra vonatkozó 173/A. §-ban foglaltakat az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(3) A megállapodásban részes fél irányítási jogkörrel rendelkező vezető testülete évente beszámol a tulajdonosainak a megállapodás teljesüléséről és a megállapodás alapján hozott döntések végrehajtásáról.
+(2) Ha a Felügyelet látja el az EGT-állambeli befektetési vállalkozás anyavállalat felügyeletét, akkor
+
+- a) az (1) bekezdésben meghatározott kérelmet haladéktalanul továbbítja a megállapodás tervezetben félként szereplő minden egyes leányvállalat hatáskörrel rendelkező felügyeleti hatóságának,
+- b) a (3)–(5) bekezdésben meghatározott eljárásnak megfelelően
+  - ba) engedélyezi a csoportszintű pénzügyi támogatásra vonatkozó megállapodás megkötését, ha a megállapodás tervezetében foglaltak megfelelnek a 110/O. §-ban meghatározott feltételeknek,
+  - bb) elutasítja a csoportszintű pénzügyi támogatásra vonatkozó megállapodás megkötését, ha a megállapodás tervezetében foglaltak nem felelnek meg a 110/O. §-ban meghatározott feltételeknek.
+
+(3) A Felügyelet minden tőle telhetőt megtesz annak érdekében, hogy a kérelem beérkezését követő négy hónapon belül határozatot hozzon – határon átnyúló csoport esetében többoldalú eljárás keretében határozatot hozzanak – arról, hogy a megállapodás tervezetében foglaltak megfelelnek-e a 110/O. §-ban meghatározott feltételeknek, figyelembe véve a megállapodás végrehajtásának a csoport működése szerinti valamennyi EGT-államban kifejtett lehetséges hatását, ideértve a költségvetési következményeket is.
+
+(4) Ha a Felügyelet látja el az EGT-állambeli befektetési vállalkozás anyavállalat felügyeletét és az eljárásban részt vevő EGT-államok hatáskörrel rendelkező felügyeleti hatóságainak egyetértése hiányában négy hónapon belül nem hozható többoldalú eljárás keretében határozat, a kérelemről a Felügyelet dönt. A határozat indokolásában a Felügyelet kitér az eljárásban részt vevő EGT-államok hatáskörrel rendelkező felügyeleti hatóságainak véleményére és fenntartásaira is.
+
+(5) A Felügyelet elhalasztja a határozat meghozatalát és megvárja az EBH döntését, ha a négy hónapos időszak alatt az ügyet az eljárásban részt vevő valamely EGT-állam hatáskörrel rendelkező felügyeleti hatósága az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikkével összhangban az EBH elé utalja. A négy hónapos időszak leteltét vagy a többoldalú eljárás keretében hozott határozatot követően az ügy már nem utalható az EBH elé.
+
+(6) Az EGT-állambeli befektetési vállalkozás anyavállalat székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága döntését követően a megállapodás tervezetét a részes félként szereplő tagok tulajdonosainak kétharmados szótöbbséggel is jóvá kell hagynia azzal, hogy a megállapodás kizárólag a csoport azon tagjait kötelezi, akiknél a tulajdonosok jóváhagyásukat megadták, illetve azt nem vonták vissza.
+
+(7) A megállapodásban részes fél irányítási jogkörrel rendelkező vezető testülete évente beszámol a tulajdonosainak a megállapodás teljesüléséről és a megállapodás alapján hozott döntések végrehajtásáról.
 
 ### A csoporton belüli pénzügyi támogatás nyújtása
 
@@ -2607,11 +2607,13 @@ rendelkezhet.
 
 110/Q. § (1) A támogatás nyújtásához a hatáskörrel rendelkező felügyeleti hatóság jóváhagyása kell.
 
-(2) Ha a támogatást a csoport magyarországi székhelyű tagja kívánja nyújtani, az engedélyt a Felügyelet adja meg azzal, hogy az engedélyt kérő a kérelméről a támogatásban részes másik fél hatáskörrel rendelkező felügyeleti hatóságát, valamint az EBH-t is értesíti. A kérelemnek valamint az értesítésnek tartalmaznia kell a 110/P. § (2) bekezdésében foglaltakat.
+(2) Ha a támogatást a csoport magyarországi székhelyű tagja kívánja nyújtani, az engedélyt a Felügyelet adja meg azzal, hogy az engedélyt kérő a kérelméről a támogatásban részes másik fél hatáskörrel rendelkező felügyeleti hatóságát, EU-szintű befektetési vállalkozás anyavállalat felügyeleti hatóságát, szanálási hatóságát, a szanálási feladatkörében eljáró MNB-t, valamint az EBH-t is értesíti. A kérelemnek valamint az értesítésnek tartalmaznia kell a 110/P. § (2) bekezdésében foglaltakat.
+
+(2a) Ha a Felügyelet mint az EGT-állambeli befektetési vállalkozás anyavállalat vagy a csoportszintű pénzügyi támogatási megállapodásban részt vevő befektetési vállalkozás felügyeleti hatósága kifogásolja a pénzügyi támogatás megtiltásáról vagy korlátozásáról szóló határozatot, akkor a határozatról szerzett értesülését követő kettő napon belül az ügyet az EBH elé terjesztheti, kérve az EBH közreműködését.
 
 (3) A Felügyelet a kérelemről öt munkanapon belül dönt.
 
-(4) A Felügyelet döntéséről értesíti a támogatásban részes fél hatáskörrel rendelkező felügyeleti hatóságát, valamint az EBH-t.
+(4) A Felügyelet döntéséről értesíti a támogatásban részes fél hatáskörrel rendelkező felügyeleti hatóságát, EU-szintű befektetési vállalkozás anyavállalat felügyeleti hatóságát, valamint az EBH-t.
 
 ### XXI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ TEVÉKENYSÉGÉVEL ÖSSZEFÜGGŐ EGYÉB KÜLÖNLEGES SZABÁLYOK
 
@@ -2738,7 +2740,7 @@ szemben.
 
 szemben.
 
-(4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban foglalt, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség, valamint a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló Európai Parlament és Tanács 2012. július 4-ei 648/2012/EU rendelet szerinti bejelentési kötelezettség teljesítése.
+(4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban foglalt, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség, valamint a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-i 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU európai parlamenti és tanácsi rendelet) szerinti bejelentési kötelezettség teljesítése.
 
 (5) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 
@@ -2851,7 +2853,7 @@ részére,
 - p) a tulajdonosi megfeleltetés érdekében a központi értéktár részéről a kibocsátó részére nyújtott adatszolgáltatás,
 - q) az MNB által alapvető feladatai ellátása érdekében a jegybanki információs rendszerben rendelkezésére álló adatoknak egyedi azonosításra alkalmas módon való átadása a Központi Bankok Európai Rendszere és annak tagjai számára, azok kérése alapján, az Európai Unió működéséről szóló szerződésből eredő vagy központi banki feladataik teljesítéséhez szükséges mértékben,
 - r) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, árutőzsdei szolgáltatás, multilaterális kereskedési rendszer működtetési tevékenység keretében az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás teljesítése céljából a befektetési vállalkozás, az árutőzsdei szolgáltató és a multilaterális kereskedési rendszer működtetője által az értékpapírszámlához vagy ügyfélszámlához kapcsolódó megbízás feldolgozásában, elszámolásában és teljesítésében közreműködő befektetési vállalkozás, árutőzsdei szolgáltató, multilaterális kereskedési rendszer működtetője, központi értéktár, központi szerződő fél, kockázati tőkealap-kezelő, tőzsde, továbbá befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézet és befektetési alapkezelő részére történő adattovábbítás,
-- s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás,
+- s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás,
 - t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
 - u) a befektetési vállalkozás ügyfele által nyilvánosságra hozott állítással összefüggésben a befektetési vállalkozás részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés,
 - v) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása.
@@ -3080,6 +3082,28 @@ nem képezi a Ctv. 97. § (1) bekezdése szerinti vagyon részét, annak kiadás
 
 (6) A befektetési vállalkozás és az árutőzsdei szolgáltató minősített befolyással rendelkező tulajdonosa és vezető tisztségviselője tulajdonát képező vagy őt megillető pénzügyi eszköz és pénzeszköz vonatkozásában az (1), (2) és (4) bekezdés rendelkezései nem alkalmazhatóak.
 
+(6a) Befektetési vállalkozás felszámolása esetén a Cstv. 57. § (1) bekezdés f) pontjában szereplő követeléseket az alábbi sorrend figyelembevételével kell kielégíteni:
+
+- a) rendes, fedezetlen követelések,
+- b) olyan fedezetlen követelések, amelyek a következő feltételeknek megfelelő, hitelviszonyt megtestesítő instrumentumokból származnak:
+  - ba) a hitelviszonyt megtestesítő instrumentum eredeti szerződéses lejárata legalább egy év,
+  - bb) a hitelviszonyt megtestesítő instrumentum nem tartalmaz beágyazott származtatott ügyletet és maga sem származtatott ügylet, és
+  - bc) a kibocsátásához kapcsolódó releváns szerződéses dokumentáció és adott esetben a tájékoztató kifejezetten utal a kielégítési sorrendben való, e bekezdés szerinti hátrébb sorolására,
+- c) a) és b) pontba nem tartozó egyéb követelések
+
+azzal, hogy ha a követelések kielégítésére nincs elegendő fedezet, az egyes csoportokba tartozó hitelezőket – először az a), a b), majd a c) pontban szereplőket – követeléseik arányában kell kielégíteni.
+
+(6b) A (6a) bekezdéstől eltérően a 2018. december 29. napja előtt kibocsátott hitelviszonyt megtestesítő instrumentumokból származó fedezetlen követelések besorolására a Cstv. és az e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(6c) A (6a) és a (6b) bekezdés alkalmazásában hitelviszonyt megtestesítő instrumentumok a kötvények és az átruházható követelések más formái, valamint az adósságot keletkeztető vagy elismerő instrumentumok.
+
+(6d) A (6a) bekezdés b) pont bb) alpontja alkalmazásában azok a hitelviszonyt megtestesítő instrumentumok, amelyek
+
+- a) kamatozása változó, mivel valamely széleskörűen alkalmazott referencia-kamatlábtól függ, valamint
+- b) nem forintban denomináltak, feltéve, hogy a tőke, a visszafizetés és a kamat ugyanabban a pénznemben denominált,
+
+pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügyletet tartalmazó, hitelviszonyt megtestesítő instrumentumoknak.
+
 (7) A befektetési vállalkozás felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből, valamint kiegészítő alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. §-a (1) bekezdésének h) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.
 
 (8) Az (1)–(7) bekezdésben foglalt rendelkezések bűnügyi zárlat elrendelése esetén annak feloldása után alkalmazandók.
@@ -3191,7 +3215,7 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 - a) befektetési vállalkozások vagy hitelintézetek,
 - b) a Kbftv. szerinti befektetési alapok,
 - c) egyéb pénzügyi intézmények, ideértve a Bit. szerinti biztosítókat és viszontbiztosítókat és a a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény szerinti foglalkoztatói nyugdíjszolgáltató intézményeket,
-- d) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló Európai Parlament és Tanács 2012. július 4-ei 648/2012/EU rendelet 2. cikk 8. pontjában meghatározott nem pénzügyi szerződő felek,
+- d) a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 8. pontjában meghatározott nem pénzügyi szerződő felek,
 - e) a kibocsátási egységek vagy azok származtatott termékei esetében az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti üzemeltetők.
 
 (5) Az (1) és a (3) bekezdésben említett bontásokban meg kell különböztetni:
@@ -3371,7 +3395,7 @@ feltárására.
 154/C. § (1) Az OTF-et működtető befektetési vállalkozás vagy piacműködtető
 
 - a) csak kötvények, strukturált pénzügyi termékek, kibocsátási egységek, valamint – figyelemmel a b) pontban foglaltakra – bizonyos származtatott termékek vonatkozásában és kizárólag az ügyfél beleegyezése esetén folytathat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést,
-- b) nem alkalmazhat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést azon származtatott termékekre vonatkozóan, amelyek a származtatott termékek olyan kategóriájába tartoznak, amelyet a 648/2012/EU rendelet 5. cikkével összhangban elszámolási kötelezettség hatálya alá tartozónak nyilvánítottak,
+- b) nem alkalmazhat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedést azon származtatott termékekre vonatkozóan, amelyek a származtatott termékek olyan kategóriájába tartoznak, amelyet a 648/2012/EU európai parlamenti és tanácsi rendelet 5. cikkével összhangban elszámolási kötelezettség hatálya alá tartozónak nyilvánítottak,
 - c) csak a likvid piaccal nem rendelkező állampapírok vonatkozásában folytathat egymásnak megfelelő ügyfélmegbízásokat párosító kereskedésen kívüli saját számlára történő kereskedést.
 
 (2) Az OTF-et működtető befektetési vállalkozás vagy piacműködtető olyan szabályzatokat készít, amelyek biztosítják
@@ -3415,6 +3439,8 @@ vonatkozó rendelkezések alkalmazandók.
 
 (3) Az OTF működtetője, valamint az OTF résztvevői összehangolják valamennyi jelentendő esemény dátumának és idejének rögzítésére alkalmazott üzleti óráikat.
 
+(4) Az OTF-et működtető befektetési vállalkozás vagy piacműködtető tájékoztatja az OTF leendő résztvevőjét a végrehajtott ügyletek teljesítésével kapcsolatos felelősségi szabályokról.
+
 ### XXV/C. Fejezet — AZ ADATSZOLGÁLTATÁSI TEVÉKENYSÉGET VÉGZŐK ENGEDÉLYEZÉSI ÉS MŰKÖDÉSI FELTÉTELEI
 
 154/H. § (1) A 6/A. §-ban rögzített adatszolgáltatási tevékenységek végzése a Felügyelet engedélyével végezhető.
@@ -3422,6 +3448,10 @@ vonatkozó rendelkezések alkalmazandók.
 (2) Az (1) bekezdésben foglaltaktól eltérően, a kereskedési helyszínt működtető befektetési vállalkozásoknak és piacműködtetőknek, ha az e részben meghatározott feltételeknek megfelelnek, a Felügyelet engedélyezi APA, CTP és ARM révén történő adatszolgáltatás működtetését.
 
 (3) Az adatszolgáltatási tevékenységet végző, amennyiben üzleti tevékenységét további adatszolgáltatásokra akarja kiterjeszteni, kérelmet nyújt be a Felügyelethez engedélyének kiterjesztésére.
+
+(4) Az adatszolgáltatási tevékenységet végző eleget tesz a 24/G. §-ban foglalt rendelkezéseknek.
+
+(5) Ha adatszolgáltatási tevékenységet végző részére könyvvizsgáló jogszabályi kötelezettség alapján előírt feladatot lát el, a 98. § alkalmazandó azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott adatszolgáltatási tevékenységet végzőt kell érteni.
 
 154/I. § (1) Az adatszolgáltatási tevékenység végzésére jogosító engedély kiadására a 27–31. § rendelkezéseit a 154/H–154/J. §-okban foglalt eltérésekkel kell megfelelően alkalmazni.
 
@@ -3585,7 +3615,7 @@ vonatkozó rendelkezések alkalmazandók.
 - a) piaci visszaélés megelőzése,
 - b) a szabályszerű árazási és teljesítési feltételek támogatása, ideértve a piactorzító pozíciók megelőzését is, és a leszállítási hónapban a származtatott termékek árai és az alapul szolgáló áruk azonnali árai közötti konvergencia biztosítását, nem sértve az alapul szolgáló áru piacán az árfeltárást.
 
-(3) A pozíciólimitek nem alkalmazandók az olyan – a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló Európai Parlament és Tanács 2012. július 4-ei 648/2012/EU rendelet 2. cikk 9. pontjában meghatározott – nem pénzügyi szerződő fél által vagy annak nevében tartott pozíciókra, amelyekről objektíven mérhető adatok alapján megállapítható, hogy csökkentik e nem pénzügyi szerződő fél kereskedelmi tevékenységéhez közvetlenül kapcsolódó kockázatokat.
+(3) A pozíciólimitek nem alkalmazandók az olyan – a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontjában meghatározott – nem pénzügyi szerződő fél által vagy annak nevében tartott pozíciókra, amelyekről objektíven mérhető adatok alapján megállapítható, hogy csökkentik e nem pénzügyi szerződő fél kereskedelmi tevékenységéhez közvetlenül kapcsolódó kockázatokat.
 
 (4) A Felügyelet felülvizsgálja a pozíciólimiteket, amennyiben az alapul szolgáló áruból leszállítható mennyiségben vagy a nyitott pozícióban jelentős változás áll be, vagy a piacon egyéb jelentős változás következik be. A leszállítható mennyiségnek és a nyitott pozíciónak a meghatározása alapján – az Európai Értékpapír-piaci Hatóság által meghatározott számítási módszertannal összhangban – a Felügyelet a pozíciólimiteket újraszámolja.
 
@@ -3892,9 +3922,19 @@ kezelheti.
 - a) végrehajtásával fenntartható vagy helyreállítható a befektetési vállalkozás vagy a csoport életképessége és pénzügyi helyzete, alkalmas a befektetési vállalkozás likviditását vagy fizetőképességét (szolvenciáját) súlyosan veszélyeztető állapot esetén a befektetési vállalkozás pénzügyi helyzetének stabilizálására, figyelemmel a befektetési vállalkozás által megtett és tervezett lépésekre;
 - b) alkalmazhatósága a vonatkozó stressz-forgatókönyvek alapján reálisan akkor is feltételezhető, ha egyidejűleg más befektetési vállalkozás is helyreállítási tervet hajt végre.
 
+(16a) A Felügyelet a befektetési vállalkozás által benyújtott helyreállítási tervet értékeli, figyelemmel a befektetési vállalkozás
+
+- a) szervezeti felépítésének összetettségére,
+- b) kockázati profiljára,
+- c) tőkehelyzetére és finanszírozási struktúrájára.
+
+(16b) A Felügyelet a befektetési vállalkozás által benyújtott helyreállítási tervet a szanálási feladatkörében eljáró MNB rendelkezésére bocsátja azzal, hogy a szanálási feladatkörében eljáró MNB által adott javaslatokat a Felügyelet megvizsgálja.
+
 (17) Ha az értékelés alapján a helyreállítási terv hiányos vagy a végrehajtásának akadályai lehetnek, a Felügyelet határozatban kötelezi a befektetési vállalkozást a helyreállítási terv kettő hónapon belüli átdolgozására, mely határidő egy hónappal meghosszabbítható.
 
 (18) A (17) bekezdés szerinti határozat meghozatala előtt a Felügyelet lehetőséget biztosít a befektetési vállalkozás számára, hogy a Felügyelet által feltárt hiányosságok, végrehajtási akadályok tárgyában észrevételt tegyen.
+
+(19) Ha a befektetési vállalkozás a Felügyelet szerint nem a (17) bekezdés szerinti határozatnak megfelelően dolgozta át a helyreállítási tervet, akkor a Felügyelet határozatában rögzíti az újbóli átdolgozás módját, eszközeit, elemeit és részleteit.
 
 163. § (1) A Felügyelet évente felügyeleti vizsgálati programot fogad el az általa felügyelt, Magyarországon bejegyzett azon befektetési vállalkozások esetében, amelyek
 
@@ -3952,6 +3992,8 @@ kezelheti.
 - d) a Magyarországot fenyegető rendszerszintű likviditási kockázatot.
 
 163/C. § (1) A 173/A. § szerinti többoldalú eljárás keretében kell eljárni és többoldalú eljárás keretében hozott határozatot kell hozni az összevont alapú felügyeleti felülvizsgálat esetén is.
+
+(1a) Ha a Felügyelet látja el a befektetési vállalkozás mint EU-szintű anyavállalat felügyeletét, akkor – a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott adatkezelési és adatvédelmi követelmények betartása mellett – a helyreállítási tervet megküldi az érintett hatáskörrel rendelkező felügyeleti hatóságnak, a rendszerszinten jelentős fióktelep felügyeleti hatóságának, a szanálási feladatkörében eljáró MNB-nek és a leányvállalatok szanálási hatóságainak.
 
 (2) A csoportszintű helyreállítási terv felülvizsgálatakor a többoldalú eljárásba azon EGT-állam hatáskörrel rendelkező felügyeleti hatóságát is be kell vonni, amelyben a csoport tagja rendszerszinten jelentős fiókteleppel rendelkezik.
 
@@ -4442,6 +4484,15 @@ foglalt követelményeknek.
 
 (2) A 120/A. § (2) bekezdésében foglalt nyilatkozattételi lehetőségről a hitelintézet ellenőrző befolyása alatt működő befektetési vállalkozás a Módtv4. hatálybalépésekor fennálló szerződéssel rendelkező ügyfelét legkésőbb harminc nappal a Hpt. 164/B. § szerinti adattovábbítást megelőzően írásban értesíti. A fennálló szerződéssel rendelkező ügyfelek tájékoztatását követően az általa működtetett honlapon a figyelem felkeltésére alkalmas módon erre vonatkozó tájékoztatást tesz közzé. A Hpt. 164/B. § szerinti adatátadás a honlapon történő közzétételtől számított harmincadik nap után kezdődhet meg.
 
+182/D. § (1) 2021. július 3-ig
+
+- a) a 648/2012/EU európai parlamenti és tanácsi rendelet 4. cikkében foglalt elszámolási kötelezettségek, valamint a 648/2012/EU európai parlamenti és tanácsi rendelet 11. cikk (3) bekezdésében foglalt kockázatmérséklési technikák nem alkalmazandóak az olyan C6. származtatott energiaügyletre, amelyet a 648/2012/EU európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésében foglalt feltételeket teljesítő nem pénzügyi szerződő felek kötöttek vagy olyan nem pénzügyi szerződő felek kötöttek, amelyeket befektetési vállalkozásként első alkalommal a pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs célú módosításáról szóló 2018. évi CXXVI. törvény hatálybelépését követően engedélyeznek, valamint
+- b) az a) pont szerinti C6. származtatott energiaügylet a 648/2012/EU európai parlamenti és tanácsi rendelet 10. cikkében foglalt elszámolási értékhatár alkalmazásában nem számít tőzsdén kívüli származtatott ügyletnek.
+
+(2) Az (1) bekezdés szerinti átmeneti rendelkezés hatálya alá tartozó C6. származtatott energiaügyletre a 648/2012/EU európai parlamenti és tanácsi rendeletben rögzített minden más követelmény érvényes.
+
+(3) A Felügyelet az (1) bekezdés szerinti, általa megadott – C6. származtatott energiaügyletre vonatkozó – mentesítésről értesíti az Európai Értékpapír-piaci Hatóságot.
+
 ### Jogharmonizációs záradék
 
 183. § (1) E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
@@ -4454,7 +4505,8 @@ foglalt követelményeknek.
 - f) az Európai Parlament és a Tanács 2013/36/EU irányelve (2013. június 26.) a hitelintézetek tevékenységéhez való hozzáférésről és a hitelintézetek és befektetési vállalkozások prudenciális felügyeletéről, a 2002/87/EK irányelv módosításáról, a 2006/48/EK és a 2006/EK irányelv hatályon kívül helyezéséről,
 - g) az Európai Parlament és a Tanács 2011. november 16-i 2011/89/EU irányelve a 98/78/EK, a 2002/87/EK, a 2006/48/EK és a 2009/138/EK irányelvnek a pénzügyi konglomerátumhoz tartozó pénzügyi vállalkozások kiegészítő felügyelete tekintetében történő módosításáról,
 - h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról,
-- i) az Európai Parlament és Tanács 2016. április 16-i 2014/56/EU irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról.
+- i) az Európai Parlament és Tanács 2016. április 16-i 2014/56/EU irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról,
+- j) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 

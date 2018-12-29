@@ -199,7 +199,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 #### 9. A Pénzügyi Stabilitási Tanács
 
-13. § (1) Az MNB hatáskörébe tartozó ügyek közül a Monetáris Tanács által meghatározott stratégiai keretek között a Pénzügyi Stabilitási Tanács – mint az MNB-nek a 8. § b) pontja szerinti szerve, az MNB nevében – jár el a 4. § (5) és (7)–(9) bekezdésében meghatározott feladatokkal kapcsolatos eljárásokban.
+13. § (1) Az MNB hatáskörébe tartozó ügyek közül a Monetáris Tanács által meghatározott stratégiai keretek között a Pénzügyi Stabilitási Tanács – mint az MNB-nek a 8. § b) pontja szerinti szerve –, valamint a (11) bekezdés szerinti személy vagy szerv az MNB nevében jár el a 4. § (5) és (7)–(9) bekezdésében meghatározott feladatokkal kapcsolatos döntéshozatal során.
 
 (2) A Pénzügyi Stabilitási Tanács az (1) bekezdésben foglaltak szerint
 
@@ -213,8 +213,8 @@ A Monetáris Tanács hatáskörébe tartozik:
 - h) szükség szerint megtárgyalja az Európai Felügyeleti Hatóságok által kiadott ajánlásokat, határozatokat, ideértve az európai pénzügyi rendszer stabilitásának komoly veszélyeztetettsége esetén a nemzeti felügyeleti hatóságoknak címzett, egyedi intézkedések megtételére felszólító határozatokat is, valamint állást foglal az azokból származó feladatokról,
 - i) az MNB jogalkalmazási gyakorlatának alapjait ismertető, a 39. §-ban meghatározott törvények hatálya alá tartozó személyekre és szervezetekre nézve kötelező erővel nem rendelkező ajánlást ad ki,
 - j) évente meghatározza az MNB ellenőrzési tevékenységének kiemelt célterületeit,
-- k) döntést hoz a 39. §-ban meghatározott törvények hatálya alá tartozó személyek és szervezetek, valamint tevékenységek feletti 4. § (9) bekezdése szerinti felügyelet gyakorlásával kapcsolatos hatósági eljárásokban és
-- l) döntést hoz a 4. § (8) bekezdés szerinti, külön törvényben meghatározott szanálási feladatkör gyakorlásával kapcsolatos hatósági eljárásokban.
+- k)
+- l) döntést hoz a 4. § (8) bekezdés szerinti, külön törvényben meghatározott szanálást elrendelő, valamint szanálási intézkedést alkalmazó határozatok tekintetében.
 
 (3) A Pénzügyi Stabilitási Tanács döntéseiről rendszeresen beszámol a Monetáris Tanácsnak.
 
@@ -232,11 +232,17 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 (8) A Pénzügyi Stabilitási Tanács ülésén a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter képviselője, valamint az MNB elnöke által felkért külső meghívottak tárgyalási joggal vesznek részt.
 
-(9) A Pénzügyi Stabilitási Tanács határozatképes, ha tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács döntéseit a jelenlévő tagok egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke írja alá.
+(9) A Pénzügyi Stabilitási Tanács határozatképes, ha tagjainak többsége jelen van. A Pénzügyi Stabilitási Tanács döntéseit a jelenlévő tagok egyszerű szótöbbségével hozza, szavazategyenlőség esetén az elnök szavazata dönt. A Pénzügyi Stabilitási Tanács döntését a Pénzügyi Stabilitási Tanács elnöke, az elnök akadályoztatása esetén az (5) bekezdés b) pontja szerinti alelnökök közül a Pénzügyi Stabilitási Tanács ügyrendjében kijelölt alelnök írja alá.
 
 (10) A Pénzügyi Stabilitási Tanács ügyrendjét maga határozza meg.
 
-(11) A Pénzügyi Stabilitási Tanács az ügyrendjében meghatározottak szerint a (2) bekezdés k) és l) pontjában meghatározott döntések – ide nem értve a külön törvényben meghatározott szanálást elrendelő, valamint szanálási intézkedést alkalmazó határozatot – tekintetében, egyes döntések vonatkozásában vagy teljeskörűen, a kiadmányozási jogot az MNB által alkalmazott vezetői megbízatással rendelkező személyre ruházhatja át.
+(11) Az MNB elnöke rendeletében meghatározza azt az MNB által alkalmazott, az MNB szervezeti és működési szabályzata szerint vezetői hatáskörrel rendelkező személyt vagy az MNB szervét, aki
+
+- a) döntést hoz a 39–41. §-ban meghatározott törvények, illetve az Európai Unió közvetlenül alkalmazandó jogi aktusai hatálya alá tartozó személyek és szervezetek, valamint tevékenységek feletti 4. § (9) bekezdése szerinti felügyelet gyakorlásával kapcsolatos hatósági eljárásokban,
+- b) – a (2) bekezdés l) pontja szerinti határozatok kivételével – döntést hoz a 4. § (8) bekezdés szerinti, külön törvényben meghatározott szanálási feladatkör gyakorlásával kapcsolatos hatósági eljárásokban és
+- c) döntést hoz a 4. § (7) bekezdés szerinti makroprudenciális feladatkör gyakorlásával kapcsolatos hatósági eljárásokban.
+
+(11a) A Pénzügyi Stabilitási Tanács a (11) bekezdésben meghatározott döntéshozatal során az MNB elnöke rendeletében meghatározottak szerint a hatáskör gyakorlását bármikor magához vonhatja.
 
 (12) A Pénzügyi Stabilitási Tanács álláspontját az elnök vagy az erre a Pénzügyi Stabilitási Tanács által felhatalmazott tagja jogosult nyilvánosságra hozni.
 
@@ -261,7 +267,7 @@ A Monetáris Tanács hatáskörébe tartozik:
 
 (7) Felügyelőbizottsági tagnak hitelintézeti, pénzügyi, illetve számviteli kérdésekben kiemelkedő szakmai ismeretekkel rendelkező, valamint az országgyűlési képviselők választásán választható magyar állampolgárt lehet jelölni.
 
-(8) A felügyelőbizottság tagjainak megbízatása az Országgyűlés megbízatásának időtartamára szól, és az Országgyűlés megbízatásának megszűnéséig tart.
+(8) A felügyelőbizottság tagjainak megbízatása azon év december 31. napjáig tart, amely évben az Országgyűlés megbízatása megszűnik.
 
 (9) A felügyelőbizottsági tagot az őt megválasztó Országgyűlés, illetve az őt megbízó miniszter hívhatja vissza.
 
@@ -587,7 +593,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (3) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében látja el a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 1. § (1) bekezdés a)–e) és m) pontjában meghatározott tevékenységet végző szolgáltatók vonatkozásában a Pmt.-ben, továbbá az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvényben meghatározott felügyeleti feladatokat.
 
-40. § (1) Az MNB a 39. § (3) bekezdésében meghatározott feladatai során ellátja a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet végrehajtását.
+40. § (1)
 
 (2) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
 
@@ -636,6 +642,10 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 (24) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2365 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2015/2365 európai parlamenti és tanácsi rendelet] 16. cikke szerinti illetékes hatóságként az (EU) 2015/2365 európai parlamenti és tanácsi rendelet végrehajtását.
 
 (25) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az 1286/2014/EU európai parlamenti és tanácsi rendelet szerinti illetékes hatóságként az 1286/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.
+
+(26) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet végrehajtását.
+
+(27) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet végrehajtását.
 
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló, 2004. október 27-i 2006/2004/EK európai parlamenti és tanácsi rendelet végrehajtását
 
@@ -1014,7 +1024,7 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 - d) a határozata ellen indított jogorvoslati eljárás tényét,
 - e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
 
-(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. §-a és 189–192. §-a, a Tpt. 400. § (1) bekezdés o) pont 2. alpontja, a Tpt. 400. § (1) bekezdés w) pontja, a Bszt. 164. §-a, a Kbftv. 174/A. §-a, a Bit. 291. § és 431. §-a, az Fnytv. 64. § (1) bekezdése, az Mpt. 110. § (1) bekezdése, valamint az Öpt. 65. § (3) bekezdése alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. §-a és 189–192. §-a, a Tpt. 400. § (1) bekezdés o) pont 2. alpontja, a Tpt. 400. § (1) bekezdés w) pontja, a Tpt. 400. § (2) bekezdése, a Bszt. 164. §-a, a Kbftv. 174/A. §-a, a Bit. 291. § és 431. §-a, az Fnytv. 64. § (1) bekezdése, az Mpt. 110. § (1) bekezdése, valamint az Öpt. 65. § (3) bekezdése alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
 
 (2) Az MNB az (1) bekezdés szerinti közzététel során tisztség betöltését engedélyező határozat esetén az (1) bekezdésben meghatározottakon túl a tisztségviselő családi- és utónevét is közzéteszi honlapján.
 
@@ -1022,7 +1032,7 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 
 (3a) Az (1) bekezdésében meghatározott közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, a piacfelügyeleti eljárásban hozott döntések közül kizárólag az intézkedést tartalmazó határozatokra terjed ki.
 
-(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
+(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
 
 - a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
 - b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
@@ -1038,7 +1048,7 @@ a kézbesítettség beáll, kivéve, ha az MNB a kézbesítettség ellen benyúj
 
 (5b) Amennyiben az MNB úgy dönt, hogy az (5a) bekezdés b) pontja alapján az anonimitás megőrzésével teszi közzé a határozatot, a közzététel észszerű ideig elhalasztható, amennyiben az említett időszak során az anonimitás megőrzésének indokai előre láthatólag meg fognak szűnni.
 
-(5c) Amennyiben az MNB úgy ítéli meg, hogy a Bit. biztosítási, illetve viszontbiztosítási értékesítésre vonatkozó szabályainak megsértése miatt hozott, véglegessé vált határozatában megjelölt jogsértő nem természetes személy nevének és székhelyének, valamint a jogsértő természetes személy nevének közzététele
+(5c) Amennyiben az MNB úgy ítéli meg, hogy a Bit. biztosítási, illetve viszontbiztosítási értékesítésre vonatkozó szabályainak megsértése miatt, illetve az Fnyt.-ben meghatározott intézkedésekről hozott, véglegessé vált határozatában megjelölt jogsértő nem természetes személy nevének és székhelyének, valamint a jogsértő természetes személy nevének közzététele
 
 - a) – az ilyen adatok közzététele által okozott hátrány és az azáltal elérhető előny arányosságát vizsgáló eseti értékelés alapján – aránytalan, vagy
 - b) veszélyezteti a pénzügyi piacok stabilitását, vagy valamely folyamatban lévő büntetőeljárás sikerességét,
@@ -1120,7 +1130,7 @@ az MNB dönthet úgy, hogy nem teszi közzé a szankciót vagy intézkedést elr
 
 #### 25. Elektronikus kapcsolattartás
 
-58. § (1) Az MNB írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel. Életveszéllyel vagy súlyos kárral fenyegető helyzet esetén az MNB választja meg a kapcsolattartás módját. Az MNB eljárásaiban az Eüsztv. rendelkezéseit a (2)–(12) bekezdésben foglalt eltérésekkel kell alkalmazni.
+58. § (1) Az MNB írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel. Életveszéllyel vagy súlyos kárral fenyegető helyzet esetén az MNB választja meg a kapcsolattartás módját. Az MNB eljárásaiban az elektronikus kapcsolattartásra az Eüsztv. rendelkezéseit a (2)–(12) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) Az MNB 45. § szerinti hatósági tevékenysége során – a piacfelügyeleti eljárás kivételével – a szervezet, valamint az 1. melléklet I. pontja szerinti eljárásokban meghatározott személy és az MNB közötti kapcsolattartás elektronikus, amely kizárólag az MNB elektronikus ügyintézését biztosító információs rendszerében, az érintett szervezet részére fenntartott kézbesítési tárhelyen keresztül, természetes személy esetében pedig a Központi Ügyfél-regisztrációs Nyilvántartás-regisztrációhoz tartozó tárhelyen vagy az MNB elektronikus ügyintézését biztosító információs rendszerében a természetes személy részére fenntartott kézbesítési tárhelyen keresztül történik.
 
@@ -1345,6 +1355,11 @@ rendelhet ki.
   - be) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre beváltható bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
   - bf) bírságot szab ki, vagy
   - bg) fegyelmi, szabálysértési, büntető-, polgári vagy egyéb eljárást kezdeményez
+  - bh) előírja a 2016/1011/EU európai parlamenti és tanácsi rendelet szerinti referenciamutató-kezelő vagy felügyelt szervezet számára, hogy hagyjon fel a jogsértő magatartással és tartózkodjon annak megismétlésétől,
+  - bi) kötelezi a 2016/1011/EU európai parlamenti és tanácsi rendelet alapján a jogsértésből származó nyereség visszafizetésére vagy a jogsértés révén elkerült veszteség ellentételezésére, ha az összegszerűen meghatározható,
+  - bj) nyilvánosan figyelmezteti a jogsértésért felelős, a 2016/1011/EU európai parlamenti és tanácsi rendelet szerinti referenciamutató-kezelőt vagy felügyelt szervezetet, a jogsértés jellegét megjelölve,
+  - bk) visszavonja vagy felfüggeszti a jogsértésért felelős, a 2016/1011/EU európai parlamenti és tanácsi rendelet szerinti referenciamutató-kezelő engedélyét vagy nyilvántartásba vételét,
+  - bl) ideiglenesen eltiltja a jogsértésért felelős természetes személyt a 2016/1011/EU európai parlamenti és tanácsi rendelet szerinti referenciamutató-kezelőnél vagy felügyelt adatszolgáltatónál a vezetői funkciók gyakorlásától
 
 [az a) és b) pont a továbbiakban együtt: intézkedés.]
 
@@ -1406,16 +1421,7 @@ rendelhet ki.
 
 (11) A (10) bekezdésben foglalt összegek közül minden esetben a magasabb összeget kell alkalmazni.
 
-(12) Az 596/2014/EU európai parlamenti és tanácsi rendelet megsértése esetén
-
-- a) természetes személy esetében
-  - aa) az 596/2014/EU európai parlamenti és tanácsi rendelet 14. és 15. cikkének megsértése esetén a bírság mértéke legfeljebb 1 555 850 000 forint,
-  - ab) az 596/2014/EU európai parlamenti és tanácsi rendelet 16. és 17. cikkének megsértése esetén a bírság mértéke legfeljebb 311 170 000 forint,
-  - ac) az 596/2014/EU európai parlamenti és tanácsi rendelet 18., 19. és 20. cikkének megsértése esetén a bírság mértéke legfeljebb 155 585 000 forint;
-- b) vállalkozás esetében
-  - ba) az 596/2014/EU európai parlamenti és tanácsi rendelet 14. és 15. cikkének megsértése esetén a bírság mértéke legfeljebb 4 667 550 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel 15%-a, azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
-  - bb) az 596/2014/EU európai parlamenti és tanácsi rendelet 16. és 17. cikkének megsértése esetén a bírság mértéke legfeljebb 777 925 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel 2%-a, azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
-  - bc) az 596/2014/EU európai parlamenti és tanácsi rendelet 18., 19. és 20. cikkének megsértése esetén a bírság mértéke legfeljebb 311 170 000 forint.
+(12)
 
 (13) Az Európai Parlament és a Tanács (EU) 2015/2365 rendelete megsértése esetén
 
@@ -1792,20 +1798,20 @@ számított 5 évig kezelheti.
 
 - a) az engedély nélkül vagy bejelentés hiányában végzett tevékenység esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
 - b) a vállalatfelvásárlásra vonatkozó szabályok megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig,
-- c) a 76. § (12) bekezdésében meghatározottak megsértése esetén a piacfelügyeleti bírság összege a 76. § (12) bekezdésében rögzített összegig,
+- c) a Tpt. 405. § (3) és (4) bekezdésében meghatározottak megsértése esetén a piacfelügyeleti bírság összege a Tpt. 405. § (3) és (4) bekezdésében rögzített összegig,
 - d) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettség, valamint a 12–14. cikkében előírt fedezetlen ügyletkötési korlátozások megsértése esetén a piacfelügyeleti bírság összege százezer forinttól kettőmilliárd forintig
 
 terjedhet.
 
 (5a) Nem természetes személy ügyfél esetén az ügyfél piacfelügyeleti bírsággal sújtott tevékenységében érdemben közreműködő természetes személlyel szemben kiszabható piacfelügyeleti bírság összege – a 93. § (5) bekezdés alkalmazásán felül – százezer forinttól százmillió forintig terjedhet.
 
-(6) A kiszabható piacfelügyeleti bírság felső határa az (5) bekezdés c) pontjától eltérően az elért árfolyamnyereség vagy elkerült árfolyamveszteség négyszáz százaléka, ha az árfolyam-különbözet mértéke tételesen kimutatható és az magasabb, mint az (5) bekezdés c) pontjában meghatározott bírságtétel felső határa.
+(6)
 
 (7) Ha az MNB a piacfelügyeleti rendelkezések betartását az ellenőrzési eljárás keretében ellenőrzi, akkor az ellenőrzési eljárásra a 90. és 91. §-t is alkalmazni kell.
 
-(8) Ha az MNB a piacfelügyeleti rendelkezések megsértését ellenőrzési eljárás során észleli, akkor e rendelkezések megsértése miatt az (1)–(6) bekezdésben meghatározott intézkedéseket alkalmazhatja.
+(8) Ha az MNB a piacfelügyeleti rendelkezések megsértését ellenőrzési eljárás során észleli, akkor e rendelkezések megsértése miatt az (1)–(5) bekezdésben meghatározott intézkedéseket alkalmazhatja.
 
-(9) Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 75. § (1) bekezdésében meghatározott esetkörök mellett piacfelügyeleti rendelkezések megsértése is megvalósult, az MNB valamennyi jogsértésre egységes intézkedést is alkalmazhat, amely a 75. és 76. §-ban meghatározottakon kívül kiterjed az (1)–(6) bekezdésekben foglalt intézkedésekre is.
+(9) Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 75. § (1) bekezdésében meghatározott esetkörök mellett piacfelügyeleti rendelkezések megsértése is megvalósult, az MNB valamennyi jogsértésre egységes intézkedést is alkalmazhat, amely a 75. és 76. §-ban meghatározottakon kívül kiterjed az (1)–(5) bekezdésekben foglalt intézkedésekre is.
 
 (10) Ha az MNB a 39. §-ban meghatározott törvények hatálya alá tartozó személyekre és szervezetekre vonatkozó jogszabályi rendelkezések vagy az MNB által hozott határozatban foglaltak megsértését piacfelügyeleti eljárás során észleli, akkor e rendelkezések megsértése miatt a 75. §-ban meghatározott intézkedéseket alkalmazhatja.
 
@@ -2370,7 +2376,7 @@ terjedhet.
   - ak) az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
   - ax) a belső piac integritásának védelme és alternatív finanszírozási forma felkutatása érdekében.
 - b) az Európai Bankhatóságot
-  - ba) a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyről, valamint annak visszavonásáról az indoklással együtt,
+  - ba) a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyéről – hitelintézet esetén azzal, hogy melyik betétbiztosítási rendszerhez csatlakozott –, valamint annak visszavonásáról az indoklással együtt,
   - bb) a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
   - bc) a Hpt. 36. § (5) bekezdése szerinti határozatáról,
   - bd) a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
@@ -2395,7 +2401,7 @@ terjedhet.
   - bw) ha a Pkt. 9. §-a (3), (7) és (11) bekezdését alkalmazza valamely vegyes pénzügyi holding társaság esetében,
   - bx) a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti elemzésről,
   - by) Bszt. 110/A. § (4) bekezdése és a 110/B. § (8) bekezdése szerinti mentesítésről,
-  - bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében meghatározott követelmények alkalmazásáról, bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról, valamint az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről;
+  - bz) az illetékes szanálási hatóságokkal való egyeztetés után a szavatoló tőkére, a leírható és átalakítható kötelezettségekre vonatkozó Szantv. 65. § (3) bekezdésében és 68. § (1) bekezdésében meghatározott követelmények alkalmazásáról, bzs) a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról, valamint az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről;
 - c) az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
   - ca) a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
   - cb) a biztosító, a viszontbiztosító és a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
@@ -2439,6 +2445,8 @@ terjedhet.
 (8) Az MNB a (3) bekezdés a), e), g) és n) pontja szerinti bejelentést az EGT állama pénzügyi felügyeleti hatóságainak is megküldi.
 
 (9) A Pénzügyi Békéltető Testület tevékenységére vonatkozóan az Európai Bizottság felé a Bizottság által kidolgozott formanyomtatványon tájékoztatást ad.
+
+(10) Az MNB értesítheti az Európai Értékpapír-piaci Hatóságot az olyan helyzetekről, amikor a befektetési vállalkozást érintő helyszíni ellenőrzés vagy vizsgálat elvégzéséhez vagy információcseréhez kapcsolódó felügyeleti megkeresését elutasították vagy nem jártak el észszerű időben.
 
 141. § (1) Az MNB a magyarországi székhelyű hitelintézetek és befektetési vállalkozások Hpt. és Bszt. szerinti javadalmazási politikájával kapcsolatban jogszabály alapján nyilvánosságra hozott adatokat a javadalmazási trendek értékelése céljából összegyűjti. Az MNB ezt az információt megküldi az Európai Bankhatóságnak.
 
@@ -2921,6 +2929,8 @@ irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékér
 
 vonatkozó részletes szabályokat.
 
+173/A. § Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy rendeletben szabályozza a 13. § (11) és (11a) bekezdésben meghatározott hatáskörgyakorlásra, valamint a hatáskör gyakorlójának helyettesítésére vonatkozó részletes szabályokat.
+
 174. § (1) Az MNB elnökének rendelete esetében az igazságügyért felelős miniszter véleményét nem kell kikérni.
 
 (2) A 171. § (1) bekezdés c) pontja alapján kiadott rendeletet annak hatálybalépése előtt 15 nappal kell kihirdetni.
@@ -3111,6 +3121,10 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 
 183/I. § A 2018. január 1. napján már folyamatban lévő azon engedélyezési, ellenőrzési, fogyasztóvédelmi ellenőrzési és piacfelügyeleti eljárásokban, ahol az MNB érdemi határozatot még nem hozott, illetve az eljárást még nem szüntette meg, e törvénynek a 2017. december 31-én hatályos rendelkezéseit kell alkalmazni az eljárás egésze tekintetében, és a döntések végrehajtása során azzal, hogy ahol e törvény Fővárosi Közigazgatási és Munkaügyi Bíróságot említ, azon Fővárosi Törvényszéket kell érteni és a bíróság az MNB döntését nem változtathatja meg.
 
+183/J. § A pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs célú módosításáról szóló 2018. évi CXXVI. törvény (a továbbiakban: Módtv.3.) 85. § (1) bekezdésével megállapított 14. § (8) bekezdést a hatálybalépésekor megbízatásukat töltő felügyelőbizottsági tagok megbízatásának időtartama tekintetében is alkalmazni kell.
+
+183/K. § A Módtv.3.-mal megállapított 13. § rendelkezéseit mindazon hatósági ügyekben kell alkalmazni, amelyekben a Módtv.3. hatálybalépésekor az MNB végleges döntést nem hozott.
+
 #### 55. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 
 184. § Az 1–14. §, a 16–21. §, a 23. § (1), (2) és (10) bekezdése, a 24. § (1), (2), (4) és (5) bekezdése, a 26. § (1) és (2) bekezdése, a 27–28. §-a, a 29–32. §-a, a 33. § (1) bekezdése, a 34. §, a 35. § (1) bekezdése, a 36. §, a 39. § (1) és (2) bekezdése, a 42. §, a 44. § (1)–(4) bekezdése, a 96–101. §, a 167–169. §, a 176. §, a 178. § (8) és (9) bekezdése és a 183. § (1) és (5) bekezdése az Alaptörvény 41. cikk (1), (2), (5) és (6) bekezdése alapján sarkalatosnak minősül.
@@ -3173,7 +3187,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 
 (5) A 40. §
 
-- a) (1) bekezdése a pénzátutalásokat kísérő megbízói adatokról szóló, 2006. november 15-i 1781/2006/EK európai parlamenti és tanácsi rendelet 15. cikk (3) bekezdésének,
+- a)
 - b) (2) bekezdése a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet,
 - c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
 - c) (3) bekezdése a 2003/71/EK európai parlamenti és tanácsi irányelvnek a tájékoztatókban foglalt információk formátuma, az információk hivatkozással történő beépítése, a tájékoztatók közzététele és a reklámok terjesztése tekintetében történő végrehajtásáról szóló, 2004. április 29-i 809/2004/EK bizottsági rendelet,
@@ -3187,6 +3201,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - k) (21) bekezdése a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendelet,
 - l) (22) bekezdése a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelet
 - m) (25) bekezdése a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet
+- n) (26) bekezdése a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet,
+- o) (27) bekezdése az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 
