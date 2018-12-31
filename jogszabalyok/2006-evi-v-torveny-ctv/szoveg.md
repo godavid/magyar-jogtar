@@ -158,7 +158,7 @@ feltéve hogy a vele szembeni végrehajtás eredménytelen volt.
 
 (4) A cégbíróság a végrehajtó, illetve a végrehajtást foganatosító egyéb hatóság (bíróság) elektronikus értesítése, illetve elektronikusan megküldött foglalási jegyzőkönyv alapján hivatalból meghozott végzésével eltiltja az érintett személyt.
 
-9/C. § Ha a cég cégjegyzékből történő törlésére kényszertörlési eljárásban kerül sor, a cégbíróság – e törvényben meghatározott kivétellel – eltiltja azt a személyt, aki a kényszertörlési eljárás megindításának időpontjában vagy az azt megelőző évben vezető tisztségviselő, korlátlanul felelős tag, korlátolt tagi felelősséggel működő gazdasági társaságban többségi befolyással rendelkező tag volt. Az eltiltott személy a cég jogerős törlését követő öt évig nem szerezhet gazdasági társaságban többségi befolyást, nem válhat gazdasági társaság korlátlanul felelős tagjává, egyéni cég tagjává, továbbá nem lehet cég vezető tisztségviselője. E § szerinti szabályt kell megfelelően alkalmazni, ha a cég törlésére felszámolási eljárásban történő megszüntetést követően kerül sor, azonban a felszámolási eljárást kényszertörlési eljárás előzte meg.
+#### 9/C. §
 
 9/D. § (1) Az eltiltás időbeli hatálya az eltiltást kimondó határozat jogerőre emelkedése napjától számított öt év. A 9/B. § (1) bekezdésében és a 9/C. §-ban érintett cég cégjegyzék adatai között az eltiltásra vonatkozó tényeket a jogerőre emelkedés napjától kell feltüntetni. Ha ugyanazon személyt több cég vonatkozásában is eltiltják, az eltiltás időbeli hatálya az utolsó eltiltás kezdő időpontjához igazodik.
 

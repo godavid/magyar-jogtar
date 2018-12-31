@@ -2389,7 +2389,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
   - aa) a 6. § (2) bekezdésében, a 9. § (3) bekezdésben a felsőoktatási intézményekre előírt feltételektől azzal, hogy a 15–16. § szerinti képzési rendszert meg kell tartania,
   - ab) a rektori megbízás személyi képesítési feltételeire vonatkozó általános feltételtől,
 - b) esetén
-  - ba) az intézményben folytatott oktatási, tudományos kutatói vagy művészeti alkotó tevékenységhez nem szükséges munkavállalási engedély a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározott harmadik országbeli állampolgárok számára,
+  - ba)
   - bb) – a 105. § (5) bekezdésében foglaltakon túl – az e törvényben előírt alkalmazási, foglalkoztatási, képesítési feltétel teljesítése szempontjából az Európai Gazdasági Térségről, illetve a Gazdasági Együttműködési és Fejlesztési Szervezetről (OECD) szóló szerződésben részes államban szerzett doktori fokozatot, a tudomány(ok) kandidátusa, a tudomány(ok) doktora fokozatot a felsőoktatási intézmény szervezeti és működési szabályzatában a tudományos fokozattal egyenértékűként határozhatja meg.
 
 104/A. § (1)
