@@ -26,7 +26,7 @@ az állami és önkormányzati alkalmazásban álló közszolgálati tisztvisel�
 - f) a formaruházat kivételével a hivatásos vadászra,
 - g) a rendészeti feladatokat ellátó erdészeti szakszemélyzetre,
 - h) a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzetre,
-- i) a halászati őrre,
+- i) az állami halőrre és a hivatásos halőrre,
 - j) a közterület-felügyelőre,
 - k) az önkormányzati természetvédelmi őrre,
 - l) a mezőőrre.
@@ -42,7 +42,7 @@ az állami és önkormányzati alkalmazásban álló közszolgálati tisztvisel�
   - ab) a mezőőr, a hegyőr esetében a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló törvényben,
   - ac) a hivatásos vadász esetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló törvényben,
   - ad) közterület-felügyelő esetében a közterület-felügyeletről szóló törvényben,
-  - ae) a halászati őr esetében a halgazdálkodásról és a hal védelméről szóló törvényben,
+  - ae) az állami halőr és a hivatásos halőr esetében a halgazdálkodásról és a hal védelméről szóló törvényben,
   - af) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet esetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvényben
 
 meghatározott közigazgatási bírsággal sújtható cselekményeket,
@@ -53,7 +53,7 @@ meghatározott közigazgatási bírsággal sújtható cselekményeket,
   - bc) a mezőőr tekintetében a települési önkormányzat közigazgatási területéhez tartozó termőföldeket,
   - bd) a hegyőr tekintetében a hegyközség működési területéhez tartozó szőlőt,
   - be) a hivatásos vadász tekintetében a vadászterületet és a közforgalom elől elzárt magánutat,
-  - bf) halászati őr tekintetében a halgazdálkodási vízterületet, halastavat, valamint annak partját, állami alkalmazásban álló halászati őr tekintetében országos illetékességet,
+  - bf) hivatásos halőr tekintetében a működési területét érintő valamennyi halgazdálkodási vízterületet, halastavat, valamint annak partját, állami halőr tekintetében országos illetékességet
   - bg) rendészeti feladatokat ellátó erdészeti szakszemélyzet és rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet tekintetében az erdőt, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet és az erdészeti magánutat,
   - bh) az erdészeti hatóság rendészeti feladatokat ellátó tagja tekintetében az erdészeti hatóság illetékességi területét
 
@@ -63,7 +63,7 @@ kell érteni.
 
 3. § (1) Önkormányzati rendészeti szervet – a községi, a városi képviselő-testület, a megyei jogú városi közgyűlés, a fővárosban a fővárosi kerületi képviselő-testület és a közgyűlés – a polgármesteri (főpolgármesteri) hivatal a Magyarország helyi önkormányzatairól szóló törvény 17. § (1) bekezdésében meghatározott feladat ellátása érdekében belső szervezeti egységként, önálló költségvetési szervként, költségvetési szerv belső szervezeti egységeként hozhat létre. A feladat a (2) bekezdésben meghatározott személy önálló alkalmazása útján is ellátható. Önkormányzati rendészeti szervet több önkormányzat társulásos formában is működtethet.
 
-(2) Az önkormányzati rendészeti szerv tagjaként foglalkoztatható az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet és a halászati őr.
+(2) Az önkormányzati rendészeti szerv tagjaként foglalkoztatható az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet és a hivatásos halőr.
 
 4. § (1) A 3. § (2) bekezdésében meghatározott személyek jogszabályban meghatározott tevékenységét az önkormányzat alkalmazásában álló közalkalmazotti vagy a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalás keretében az önkormányzati segédfelügyelő segítheti.
 
@@ -346,7 +346,7 @@ tarthat magánál.
 
 (2) A település közigazgatási területének belterületnek nem minősülő, elsősorban mezőgazdasági, erdőművelési célra szolgáló részén, szolgálati feladatainak ellátása során nyíltan viselve
 
-- a) a mezőőr, valamint a hegyőr, a halászati őr – jogszabályban meghatározott közegészségügyi okból, a légiközlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
+- a) a mezőőr, valamint a hegyőr, az állami halőr és a hivatásos halőr – jogszabályban meghatározott közegészségügyi okból, a légiközlekedés biztonsága, valamint az okszerű mezőgazdasági termelés biztosítása érdekében meghatározott állatok riasztása, elejtése, gyérítése, és állományának szabályozása érdekében – sörétes lőfegyvert,
 - b) az erdészeti hatóság rendészeti feladatokat ellátó tagja, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, természetvédelmi őr önvédelmi célból, a hivatásos vadász – nagyvad utánkeresése során a kegyelemlövéshez – maroklőfegyvert,
 - c) a hivatásos vadász – a sérült vagy sebzett nagyvad elejtése érdekében – vadászlőfegyvert
 
@@ -464,8 +464,8 @@ rendelkezések ismeretéből – bizottság előtt – vizsgát tenni.
 - d) a kényszerítő eszközök igénylésének, átvételének és visszavételének szabályait, valamint a térítés módját,
 - e) a kényszerítő eszközök típusaira, fajtáira és az alkalmazásukra, valamint a kényszerítő eszköz alkalmazását követő jelentéstétel és kivizsgálás rendjére vonatkozó részletes szabályokat,
 - f) a rendészeti feladatokat ellátó személyek ruházati ellátására vonatkozó részletes szabályokat az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel egyetértésben,
-- g) a segédfelügyelő az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet és a halászati őr feladatellátásában való közreműködésére vonatkozó részletes szabályokat az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel egyetértésben,
-- h) a segédfelügyelő az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendszeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet és a halászati őr tevékenységéhez kapcsolódó feladatai ellátása érdekében a szükséges rész képzés és vizsgáztatás rendjét az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel és az oktatásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
+- g) a segédfelügyelő az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendészeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, az állami halőr és a hivatásos halőr feladatellátásában való közreműködésére vonatkozó részletes szabályokat az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel egyetértésben,
+- h) a segédfelügyelő az önkormányzati természetvédelmi őr, a közterület-felügyelő, a mezőőr, az rendszeti feladatokat ellátó erdészeti szakszemélyzet, a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet, az állami halőr és a hivatásos halőr tevékenységéhez kapcsolódó feladatai ellátása érdekében a szükséges rész képzés és vizsgáztatás rendjét az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, a halgazdálkodásért és a természetvédelemért felelős miniszterrel és az oktatásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 #### 18. Hatályba léptető rendelkezés
 

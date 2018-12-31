@@ -31,7 +31,10 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
 - 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
 - 15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági elektronikus nyilvántartás.
-- 16. Útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet, valamint a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás. 19. Ideiglenes rendszámtáblák nyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a „CD”, az „E”, az „M”, a „P”, a „V” a „Z” és az „SP” betűjelű ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá az e nyilvántartásba történő bejegyzés vagy törlés alapjául szolgáló és a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatának az elektronikus nyilvántartása.
+- 16. Útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet, valamint a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.
+- 17. Informatikai platform: számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó olyan informatikai rendszer, amely alkalmas a közúti közlekedési nyilvántartásból közvetlen hozzáféréssel, továbbá más törvényben megjelölt nyilvántartásokból egységes felületen történő adatszolgáltatások lebonyolítására.
+- 18. Járműéletút-adatszolgáltatás: a nyilvántartó által az e célra szolgáló informatikai platformon keresztül, több nyilvántartás adatainak felhasználásával elektronikus úton nyújtott szolgáltatás.
+- 19. Ideiglenes rendszámtáblák nyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a „CD”, az „E”, az „M”, a „P”, a „V” a „Z” és az „SP” betűjelű ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá az e nyilvántartásba történő bejegyzés vagy törlés alapjául szolgáló és a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatának az elektronikus nyilvántartása.
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
@@ -216,9 +219,10 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - c) a vizsgálónak a nyilvántartó által képzett jogosultságazonosítóját,
 - d) az előírások szerint mért és azonosított műszaki és rögzített képi adatokat,
 - e) az okmányok adattartalmának egyezőségére és eltérésére vonatkozó megállapításokat,
-- f) az előzetes eredetiség-ellenőrzés során megállapított minősítést, és az erről kiállított hatósági bizonyítvány sorszámát,
+- f) az előzetes eredetiségvizsgálat dátumát, a vizsgálat során megállapított minősítést, és az erről kiállított hatósági bizonyítvány sorszámát,
 - g) a külön jogszabályban meghatározott minősítés esetén szükséges egyéb hatósági intézkedéseket, azok idejét, az ügyintézőnek a nyilvántartó által képzett jogosultságazonosítóját,
 - h) a jármű azonosító és műszaki adatait, valamint motorjának egyedi azonosító jelét, illetve kódját.
+- i) az előzetes eredetiségvizsgálatot lefolytató vizsgálóállomás megnevezését és címét.
 
 (2) Az (1) bekezdés a)–h) pontjában szereplő adatokat az előzetes eredetiségvizsgálati eljárás során rögzítik.
 
@@ -342,14 +346,14 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 16. § (1) A nyilvántartásból
 
-- a) a nyilvántartótól csoportos adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
-- b) a közlekedési igazgatási hatóságtól egyedi adatszolgáltatás
-
-igényelhető.
+- a) a nyilvántartótól csoportos adatszolgáltatás, járműéletút-adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
+- b) a közlekedési igazgatási hatóságtól egyedi adatszolgáltatás igényelhető.
 
 (2) Az okmánytárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a közlekedési igazgatási hatóságtól igényelhető.
 
 (3) A 8. § (2) bekezdésében, illetve a 9. § (2) bekezdés f) pontjában meghatározott adatokról adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.
+
+(4) A járműéletút-adatszolgáltatásra irányuló kérelem esetén a nyilvántartó a kérelemben megjelölt adatokat a 7. § b), c), és f) pontjában meghatározott, a közúti közlekedésről szóló 1988. évi I. törvény 23/A. § (1) bekezdésében meghatározott, továbbá a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbt.) 46. § (1) bekezdésében és 51. § (1) bekezdésében meghatározott nyilvántartásból elektronikus úton szerzi be.
 
 17. § (1) Nem vagy részlegesen szolgáltatható adat, ha törvény rendelkezése alapján az adatszolgáltatást az állam külső és belső biztonsága, így különösen honvédelmi, nemzetbiztonsági, bűnmegelőzési, bűnüldözési érdekből az arra jogosult korlátozta, vagy megtiltotta.
 
@@ -404,6 +408,8 @@ igényelhető.
   - ca) a pályaalkalmassági, képzési, utánképzési és vizsgáztatási feladatai ellátásához a 8. §-ban meghatározott adatokat,
   - cb) a jármű műszaki adatainak és alkalmasságának megállapításával kapcsolatos feladataik ellátásához a 9. §-ban meghatározott adatokat;
 - d) a közfeladatot ellátó személyek vagy szervezetek, továbbá a 19. §-ban nem nevesített egyéb hatóságok, állami vagy önkormányzati szervek a rájuk vonatkozó jogszabályban meghatározott célok és feltételek teljesülése esetén, az ott meghatározott adatokra vonatkozóan,
+- e) a Gfbt.-ben meghatározott biztosító és a Kártalanítási Számla kezelője díjmentesen a káreseménnyel érintett jármű Gfbt.-ben meghatározott Kártörténeti nyilvántartásba (a továbbiakban: kárnyilvántartás) történő vétele során, a károsult jármű rendszámának és alvázszámának, valamint magyarországi nyilvántartásba vétele tényének elektronikus ellenőrzése érdekében a 9. § (2) bekezdés a) pontjában foglalt adatokból a járműazonosító adatokat;
+- f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat.
 
 (3) A nyilvántartásból adatot igényelhet:
 
@@ -412,7 +418,9 @@ igényelhető.
 
 (4) A szerencsejáték szervezéséről szóló törvény szerinti szervező adatszolgáltatást igényelhet a természetes személy személyazonosságának igazoló ellenőrzése céljából a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségéről és a vezetői engedély érvényességének tényéről.
 
-20. § A 19. §-ban megjelölt szervek a célt és a jogalapot az adat megismerésére jogosító jogszabályi rendelkezés megjelölésével igazolják.
+20. § (1) A 19. §-ban megjelölt szervek, személyek a célt és a jogalapot az adat megismerésére jogosító jogszabályi rendelkezés megjelölésével igazolják.
+
+(2) A nyilvántartó a 19. §-ban megjelölt szervek, személyek részére az adatszolgáltatást a járműnyilvántartásból az informatikai platform keretében is nyújthatja.
 
 21. § A nyilvántartásból adatot igényelhet magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet (a továbbiakban: kérelmező):
 
@@ -442,6 +450,27 @@ igényelhető.
 - c) elektronikus úton előterjesztett kérelem a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, motorszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
 - d) a járműnek a járműnyilvántartásba bejegyzett érvényes forgalmazási korlátozás tényének ellenőrzésére irányul,
 - e) a 9. § (2) bekezdés g) pontjában meghatározott adatok igénylésére irányul.
+
+(3a) Az adatszolgáltatás céljának és jogalapjának igazolása nélkül nyilvánosan, közvetlenül, díjmentesen az informatikai platformon keresztül elektronikus úton is lekérdezhető
+
+- a) a járműnyilvántartásból
+  - aa) a jármű harmonizált forgalmi engedélyben feltüntetett műszaki adatai,
+  - ab) a kilométeróra-állás és annak rögzítési időpontja kronologikus sorrendben,
+  - ac) a forgalomból kivont állapot ténye, valamint az aktuális forgalomból való kivonás oka, jellege és a kivonás kezdő időpontja,
+  - ad) a jármű érvényes forgalmazási korlátozására vonatkozó adatok,
+  - ae) a körözés ténye, és
+  - af) az első magyarországi nyilvántartásba vétel időpontjától az adatlekérdezés időpontjáig a jármű nyilvántartott tulajdonosainak száma,
+- b) a származás-ellenőrzési nyilvántartásból
+  - ba) a jármű származási országa, és
+  - bb) a származás ellenőrzésének eredménye,
+- c) az előzetes eredetiségvizsgálati nyilvántartásból
+  - ca) az előzetes eredetiségvizsgálat végzésének időpontja,
+  - cb) az előzetes eredetiségvizsgálatot lefolytató vizsgálóállomás megnevezése és címe,
+  - cc) az előzetes eredetiségvizsgáló által a jármű alvázszámára, motorszámára, motorkódjára, rendszámára és regisztrációs matricájára tett megállapítások,
+  - cd) az eredetiségvizsgálati képi dokumentáció,
+  - ce) az előzetes eredetiség-ellenőrzés során megállapított minősítés,
+- d) a nyilvántartó által a Gfbt.-ben meghatározott kötvénynyilvántartásból elektronikusan beszerzett biztosítás tényére vonatkozó adat,
+- e) a nyilvántartó által a kárnyilvántartásból beszerzett káreseményre vonatkozó adat és a káresemény dátuma.
 
 (4) A kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartó az általa megjelölt személyt, személyi kört keresse meg, és
 

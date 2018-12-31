@@ -642,9 +642,10 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
   - la) a közlekedési hatóság és a közlekedési igazgatási hatóság, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan, és
   - lb) a közúti közlekedésről szóló törvényben meghatározott ellenőrző hatóság a közúti forgalomban résztvevő jármű tekintetében, az adatigénylés időpontja szerinti adatokra vonatkozóan.
 - m) a 46. § (2) bekezdésében foglalt adatok tekintetében – az Egészségbiztosítási Alapot, illetve a Nyugdíjbiztosítási Alapot megillető megtérítési követelések érvényesítése céljából – az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv, a káresemény időpontja szerinti adatokra vonatkozóan;
-- n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett.
+- n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett;
+- o) a 46. § (2) bekezdés e) pontjában meghatározott adatok tekintetében – a gépjármű hatósági jelzése alapján – a biztosítási kockázatviselés fennállásának tényére vonatkozóan a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvényben (a továbbiakban: Kknyt.) meghatározott járműéletút-adatszolgáltatás céljából a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv.
 
-(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l) és m) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
+(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l), m) és o) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
 
 (2a) A kötvénynyilvántartó szerv az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv részére az adatigénylés teljesítése érdekében közvetlen hozzáférést biztosít a kötvénynyilvántartás (1) bekezdés m) pontjában meghatározott adataihoz.
 
@@ -653,6 +654,8 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 (4) Az (1) bekezdésben foglalt információk szolgáltatásáért, az ehhez szükséges számítógépes nyilvántartási és adatszolgáltatási rendszer folyamatos működtetéséért és az adatigénylésért a biztosítók kötelesek a kötvénynyilvántartó szervnek díjat fizetni. Díjként a biztosítók a magyarországi telephelyű gépjárművek kötelező gépjármű-felelősségbiztosításából származó negyedévi díjbevételük 0,5%-át kötelesek a tárgynegyedévet követő hónap utolsó napjáig a kötvénynyilvántartó szerv részére átutalni.
 
 (5) Az (1) bekezdés b)–m) pontjaiban meghatározott adatigénylők részére történő adatszolgáltatás díjmentes.
+
+(6) Az (1) bekezdés o) pontjában foglalt adatátadás valamint ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.
 
 48. § (1) A kötvénynyilvántartó szerv legalább havonta köteles a járműnyilvántartás, az ideiglenes rendszámtáblák nyilvántartása és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzemben tartók adatait tartalmazó listát, és azt a 45. § (2) bekezdésében meghatározott eljárás lefolytatása érdekében az üzemben tartó lakóhelye (székhelye, telephelye) szerinti illetékes járási hivatal részére továbbítani.
 
@@ -686,7 +689,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
   - aa) nevét, születési helyét, születési idejét, anyja nevét és lakcímét,
   - ab) jogi személy, egyéni cég, egyéni vállalkozó esetén annak megnevezését, továbbá cégjegyzékszámát vagy nyilvántartási számát, székhelyét, telephelyét, továbbá
   - ac) 52. § (6) bekezdése szerint képzett kártörténeti rendszer azonosító számát;
-- b) a gépjármű hatósági jelzését (rendszámát) és alvázszámát, típusát, kategóriáját;
+- b) a gépjármű rendszámát és alvázszámát, típusát, kategóriáját, egy adott gépjárműhöz nem köthető ideiglenes rendszámra kötött biztosítási szerződés esetén a rendszámot, valamint az ideiglenes rendszám kiadásának évét;
 - c) rendszámváltozás esetén annak időpontját és a korábbi rendszámot;
 - d) a biztosító nevét, a biztosítást igazoló okirat számát;
 - e) a biztosítási időszak kezdő és záró időpontját, továbbá a kockázatviselés kezdetének időpontját, megszűnésének dátumát és a megszűnés okát;
@@ -695,13 +698,15 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - h) a kifizetett kárösszeg meghatározott szabályok szerinti visszafizetésének tényét és dátumát;
 - i) a bonus-malus osztályt.
 
+(4a) A kárnyilvántartás a (4) bekezdésben meghatározottakon túl tartalmazza továbbá a károsult gépjármű és a káresemény (4) bekezdés b) és f) pontok szerinti adatait.
+
 (5) A 36. § (8) bekezdésének a), b) és e) pontjában meghatározott üzemben tartó esetében a káresemény kapcsán a (4) bekezdés a)–b) és f)–h) pontjaiban meghatározott adatok kerülnek nyilvántartásra.
 
 (6) A kárnyilvántartó szerv a (4) bekezdésben felsorolt adatokat egy üzemben tartó vonatkozásában az utolsó biztosítási szerződéssel kapcsolatos bármely adat keletkezését követő 7 évig kezeli.
 
 (7) A kárnyilvántartó szerv a (4) bekezdésben felsorolt adatokat a 36. § (8) bekezdésének a), b) és e) pontjában meghatározott üzemben tartót illetően a káresetre vonatkozó utolsó adat keletkezését követő 7 év elteltével törli, amennyiben a nyilvántartásban ezen üzemben tartóval kapcsolatban, ezen időtartam alatt a (6) bekezdés szerint adat nem keletkezik.
 
-(8) A kárnyilvántartó szerv a (4) bekezdés f)–h) pontjaiban felsorolt adatokat azok keletkezésétől számított 30 év elteltével törli.
+(8) A kárnyilvántartó szerv a (4) bekezdés f)–h) pontjában és a (4a) bekezdésben megjelölt adatokat azok keletkezésétől számított 30 év elteltével törli.
 
 (9) A kárnyilvántartó szerv kérelemre köteles átadni vagy hozzáférhetővé tenni:
 
@@ -713,19 +718,23 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - f) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankció végrehajtása céljából – a nyomozó hatóság és az előkészítő eljárást folytató szerv;
 - g) a (4) bekezdésben foglalt adatok tekintetében – nemzetbiztonsági védelem, felderítés vagy elhárítás, információszerzés, illetve a nemzetbiztonsági vagy iparbiztonsági ellenőrzés céljából – a nemzetbiztonsági szolgálatok;
 - h) a (4) bekezdésben foglalt adatok tekintetében – törvényben meghatározott szabálysértési hatósági eljárások lefolytatása, illetve közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a rendőrség;
-- i) a (4) bekezdésben foglalt adatok tekintetében – közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a közlekedési igazgatási hatóság
+- i) a (4) bekezdésben foglalt adatok tekintetében – közúti közlekedési feladatokkal kapcsolatos eljárások lefolytatása céljából – a közlekedési igazgatási hatóság;
+- j) a (4a) bekezdésben foglalt adatokat – a károk kezelése és rendezése céljából – a károkozó gépjármű üzemben tartójának biztosítója, a Kártalanítási Számla kezelője;
+- k) a (4) bekezdés b)–c) és f) pontjában, továbbá a (4a) bekezdésben meghatározott adatokat elektronikus úton – a Kknyt. járműéletút-adatszolgáltatás céljából – a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv
 
 részére.
 
 (10) A kárnyilvántartó szerv az üzemben tartó kérelmére köteles – a kérelem beérkezését követő 15 napon belül – a kérelmet megelőző időszak vonatkozásában – amennyiben ezen időszak tartama az öt évet meghaladja, úgy legalább ötéves időszakra visszamenőleg – a (4) bekezdésben meghatározott adatokról írásban igazolást kiadni más tagállam által előírt felelősségbiztosítási kötelezettség alapján kötendő szerződéssel kapcsolatos kedvezmény érvényesítése céljából.
 
-52. § (1) A biztosító a szerződés megkötését és megszűnését, a határozatlan tartamú szerződés megújítását (biztosítási időszakok kezdő napját), továbbá a szüneteléssel, illetve a káreseménnyel kapcsolatos adatok keletkezését követő 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) bekezdésében megjelölt adatokról.
+(11) A (9) bekezdésben meghatározott adatszolgáltatás, továbbá ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.
+
+52. § (1) A biztosító a szerződés megkötését és megszűnését, a határozatlan tartamú szerződés megújítását (biztosítási időszakok kezdő napját), továbbá a szüneteléssel, illetve a káreseménnyel kapcsolatos adatok keletkezését követő 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) és (4a) bekezdésében megjelölt adatokról.
 
 (1a) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén az új szerződés létrejöttéről szóló – (1) bekezdésben meghatározott – értesítés a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítést pótolja, amennyiben az érintett szerződés megszűnésére vonatkozó értesítés a kárnyilvántartó szervhez még nem érkezett meg.
 
 (2) A biztosító köteles a hozott kárelőzményi igazolásban szereplő – az 51. § (3)–(4) bekezdéseiben foglaltakkal összemérhető – adatokat az (1) bekezdésnek megfelelő módon a kárnyilvántartó szerv részére továbbítani.
 
-(3) A Kártalanítási Számla kezelője az adatok keletkezését követően 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (5) bekezdésében meghatározott adatokról.
+(3) A Kártalanítási Számla kezelője az adatok keletkezését követően 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4a) és (5) bekezdésében megjelölt adatokról.
 
 (4) A kárnyilvántartó szerv a biztosító által a részére megküldött, az üzemben tartó természetes személy természetes személyazonosító adatait (név, születési hely, születési idő, anyja neve) és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartó szerv részére. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartó kapcsolati kódot képez, amelyet azonosítás céljából megküld a kárnyilvántartó szerv részére.
 

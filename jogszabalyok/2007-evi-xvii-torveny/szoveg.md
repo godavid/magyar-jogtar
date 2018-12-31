@@ -682,7 +682,9 @@ eljárhat.
 
 ### Mezőgazdasági Parcella Azonosító Rendszer
 
-31. § Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR közhiteles hatósági nyilvántartásnak minősül. A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ideértve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
+31. § (1) Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR közhiteles hatósági nyilvántartásnak minősül. A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
+
+(2) A MePAR működtetése, programszerű megújítása, valamint a távérzékeléses ellenőrzéssel kapcsolatos feladatok ellátása közfeladatnak minősül és ellátása a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozik, amely feladatot a jogszabályban erre kijelölt szerv, kizárólagos jog alapján, a 16. és 17. § rendelkezései szerinti átruházással lát el.
 
 ### Intervenciós raktárregiszter
 
@@ -1766,6 +1768,32 @@ kapcsolatos eljárások.
 79/C. § (1) Az ingatlan tulajdoni lapján jogi jellegként az állandó legelő vagy állandó gyep jelleget fel kell tüntetni. A jogi jelleg feljegyzése érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv megkeresi az ingatlanügyi hatóságot.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv az állandó legelők vagy állandó gyepek kiterjedésének változásairól évente megkereséssel adatot szolgáltat az ingatlanügyi hatóságnak, az állandó legelő vagy állandó gyep jogi jelleg ingatlan-nyilvántartásba történő feljegyzése, illetve törlése céljából.
+
+### Jogszabályban meghatározott, a Gazdaságfejlesztési- és Innovációs Operatív Programból származó támogatások kihelyezésével összefüggő egyes eltérő szabályok
+
+79/D. § (1) E törvény III. fejezetében meghatározott rendelkezéseket jelen alcímben foglalt eltérésekkel alkalmazni kell egyes, jogszabályban meghatározott, Gazdaságfejlesztési- és Innovációs Operatív Programból származó támogatások kihelyezésével összefüggő adatkezelési és nyilvántartásokkal kapcsolatos tevékenységek ellátása során, amennyiben a támogatás kihelyezője mint kedvezményezett, a Kormány rendelete alapján köteles az általa elnyert támogatás összegének kihelyezésére.
+
+(2) Az (1) bekezdés szerinti támogatást kihelyező szerv adatkezelési tevékenységének a 26. § (1) bekezdés a) és b) pontja szerinti nyilvántartási rendszereken belül, a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő valamennyi adatkörtől megkülönböztethető módon kell megvalósulnia.
+
+(3) Az (1) bekezdés szerinti eljárásokban, ideértve a nyilvántartásba vételt is, képviselő eljárásának nincs helye, valamint kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus kapcsolattartásra van lehetőség.
+
+(4) Az (1) bekezdés szerinti támogatást kihelyező szerv a 26. § (3) bekezdés 7., 10., 11., 15–18., 24., 28., 33. pontja szerinti nyilvántartásokból az e törvényben meghatározott módon vehet át és kezelhet adatokat. A más szerv, illetve szervezet nyilvántartásából átvett adatot csak a támogatást igénylő, valamint ha az ellátást más személyre tekintettel állapítják meg, úgy e személy személyazonosításához, a támogatáshoz való jogosultság megállapításához, a támogatás folyósításához, a támogatáshoz kapcsolódó feltételek ellenőrzéséhez, valamint a tényállás tisztázásához használhatja fel. Ezen szabály alkalmazandó arra az adatkezelésre is, amennyiben a támogatást kihelyező szerv törvény alapján további nyilvántartásokban szereplő adatok kezelésére is jogosult az (1) bekezdés szerinti támogatások vonatkozásában.
+
+(5) Az (1), (2) és a (4) bekezdés alkalmazásával az (1) bekezdés szerinti támogatást kihelyező szerv a 26. § (3) bekezdés
+
+- a) 10. pontja tekintetében a tartózkodási helyre vonatkozó,
+- b) 18. pontjában meghatározott adatokat nyilvántartó szervtől az adózás rendjéről szóló 2017. évi CL. törvény 1. melléklet 8. pont szerinti foglalkoztatottak foglalkoztatásával kapcsolatos, valamint a támogatást igénylő, valamint ha a támogatást más személyre tekintettel állapítják meg, úgy e személy nettó árbevételére vonatkozó,
+- c) 33. pontja vonatkozásában a gyermek óvodai jogviszonyával kapcsolatos
+
+adatokat is átveheti és kezelheti.
+
+(6) A 26. § (1) bekezdés a) pontja szerinti nyilvántartási rendszer a (2) bekezdés szerinti megkülönböztethető módon a 28. § (2) bekezdése, valamint a 28. § (3) bekezdés a) és b) pontja – a bh) alpont kivételével – szerinti adatokat, illetve a tartózkodási helyre vonatkozó adatokat és a társadalombiztosítási azonosító jelet tartalmazza.
+
+(7) Az (1) bekezdés szerinti támogatásokkal összefüggésben az ügyfélnyilvántartásba-vételi eljárás a támogatási kérelem adattartalma alapján kerül lefolytatásra, amely során az ügyfél-azonosító megállapítása hivatalból történik. A támogatást igénylőnek az ügyfél-azonosítóról történő értesítést követően az ügyfél-azonosítót a támogatásban való részvétellel kapcsolatos valamennyi rendszeresített nyomtatványon fel kell tüntetnie.
+
+(8) Az (1) bekezdés szerinti kérelemre induló eljárásban vélelmezni kell, hogy a támogatást igénylő, valamint ha a támogatást más személyre tekintettel állapítják meg, úgy e személy a tényállás tisztázásához szükséges személyes adatok – ideértve a különleges adatokat is – kezeléséhez hozzájárulást adott.
+
+(9) Az (1) bekezdés szerinti támogatásokkal összefüggésben nem kell alkalmazni a 23. § (4) és (5) bekezdését, a 24–25/A. §-t, a 26. § (2), (5), (7) és (8) bekezdést, a 28. § (4) bekezdés e) pontjának eb) alpontját, a 28. § (5)–(7) bekezdését, a 28/A–28/E. §-t, a 30. § (1)–(3) és (6) bekezdését, valamint a 31–31/C. §-t.
 
 ### IX. Fejezet — HATÁLYBA LÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 

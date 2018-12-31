@@ -101,7 +101,7 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
   - a) hengeres vagy hasított faanyag,
   - b) tűzifa minden felkészítési formában, illetve
   - c) faapríték;
-- 32. faanyag kereskedelmi lánc: azon folyamatok és az abban szereplők összessége, amelyek közvetlen vagy közvetett hatással vannak az e törvény hatálya alá tartozó faanyagok, termékek előállítására, felhasználására, feldolgozására, tárolásárára, kereskedelmére, vagy forgalomba hozatalára;
+- 32. faanyag kereskedelmi lánc: azon folyamatok és az abban szereplők összessége, amelyek közvetlen vagy közvetett hatással vannak az e törvény hatálya alá tartozó faanyagok, termékek előállítására, felhasználására, feldolgozására, tárolásárára, szállítására, kereskedelmére, vagy forgalomba hozatalára;
 - 33. faanyag kereskedelmi lánc szereplője: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk c) és d) pontjában foglalt személy vagy szervezet;
 - 34. forgalomba hozatal: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk b) pontjában foglalt tevékenység;
 - 35. kellő gondosság elve: a 995/2010/EU európai parlamenti és tanácsi rendelet 6. cikkében meghatározott rendszer, valamint a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 2012. július 6-i 607/2012/EU bizottsági végrehajtási rendeletben meghatározott eljárási kötelezettségek összessége;
@@ -237,6 +237,8 @@ a kincstári vagyon részét képezi.
 9. § Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelője – a Nemzeti Földalap kezelésére kijelölt szerv előzetes hozzájárulását követően – a földterületet vagy annak meghatározott részét erdőgazdálkodási céloktól eltérő, de az erdő termelésből való kivonásával nem járó közjóléti, kulturális, illetve szabadidős hasznosítása érdekében harmadik személy részére, hatósági engedély alapján végzett tevékenység gyakorlására, a hatósági engedélyekben előírt feltételekkel és időtartamra, de legfeljebb 5 évre átengedheti. Az erdőgazdálkodási céloktól eltérő hasznosítás nem terjedhet ki az erdei haszonvételek gyakorlására, és nem érintheti a vagyonkezelőnek a földhasználati jogosultságát.
 
 9/A. § Az 1. mellékletben meghatározott gazdasági társaságok állami tulajdonban álló társasági részesedése tekintetében az állam tulajdonosi jogait a miniszter gyakorolja.
+
+9/B. § Az állam 100%-os tulajdonában álló földrészleten harmadik személy által végzett kitermelésből származó, forgalomba nem hozott és az állam nevében tulajdonosi jogokat gyakorló tulajdonosi joggyakorlásába tartozó faanyagot, az állam nevében tulajdonosi jogokat gyakorló személy a 90/K. § (7) bekezdésben meghatározott személyeknek – a 90/K. § (7) bekezdésben meghatározott feladataik ellátásának elősegítése érdekében – ingyenesen tulajdonba adhatja, amely átadás nem minősül forgalomba hozatalnak. A faanyagot ingyenesen tulajdonba adó személy köteles az ingóság átruházásának tényét a honlapján nyilvánosságra hozni.
 
 10. § (1) Az egyes erdőtervezési körzetekben a 7. § (1) bekezdés a), b) vagy c) pontja szerinti természetességi állapotú, az állam 100%-os tulajdonában álló, Natura 2000, természetvédelmi, talajvédelmi, tájképvédelmi vagy közjóléti elsődleges rendeltetésű erdők területének az e törvény hatálybalépését követő
 
@@ -1649,7 +1651,7 @@ kerülhet sor.
 
 ### A faanyag származásának igazolása
 
-90. § (1) A fakitermelés jogosultja, illetve a kitermelt erdei faválasztékkal rendelkezni jogosult vagy annak meghatalmazottja az erdőből, az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületről, szabad rendelkezésű erdőből, fásításból, valamint e törvény hatálya alá nem tartozó területről kitermelt erdei faválaszték származásáról köteles a szállításhoz szükséges igazolást (a továbbiakban: szállítójegy) kiállítani.
+90. § (1) Az erdei faválaszték közúti járművön vagy keskeny nyomtávú vasúton történő szállítását – a (2) bekezdésben meghatározott eset kivételével – csak a szállítás megkezdése előtt, minden szállítmányra külön kiállított, e törvény végrehajtására kiadott jogszabályban meghatározott szállítójegy alapján lehet végezni.
 
 (2) Nem szükséges szállítójegyet kiállítani az erdőrészleten belül végzett közelítéshez, valamint az erdőben kialakított farakodó és az erdőrészlet közötti szállításhoz, ha a készletre vétel a farakodón erdőrészletre elkülönítetten történik.
 
@@ -1730,13 +1732,14 @@ kerülhet sor.
 - a) természetes személy, annak nevét, lakcímét, születési helyét és dátumát,
 - b) gazdálkodó szervezet, annak cégnevét, adószámát és székhelyét.
 
-90/G. § (1) Az erdészeti hatóság részére a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatban, a 90/C. §-ban meghatározott feladatainak ellátása érdekében, megkeresésre át kell adni:
+90/G. § (1) Az erdészeti hatóság részére a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatban, a 90/C. §-ban meghatározott feladatainak ellátása érdekében, megkeresésre át kell adni, vagy rendszeres adatigénylés esetén közvetlen – elektronikus úton történő – hozzáféréssel kell biztosítani
 
-- a) a faanyag kereskedelmi lánc szereplőjének azonosítására a személyiadat- és lakcímnyilvántartásból a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. § (1) bekezdés a)–e), g), h), m) és p) pontjában foglalt adatokat,
-- b) a földhasználati nyilvántartásból a földhasználati lap adatait,
-- c) az állami adó- és vámhatóság által vezetett, az adózókra vonatkozó adóazonosító nyilvántartásból a faanyag kereskedelmi lánc szereplőjének minősülő adozó azonosítására vonatkozó, valamint köztartozás-fizetési kötelezettségének elmaradásával kapcsolatos adatokat,
-- d) a piacfelügyeleti hatóság részéről az általa a 2173/2005/EK rendelet szerint kiadott FLEGT-engedélyekben szereplő adatokat,
-- e) az állami adó- és vámhatóság által vezetett Elektronikus Közúti Áruforgalom Ellenőrző Rendszer nyilvántartásból a fatermékek nyomon követését szolgáló adatokat.
+- a) a faanyag kereskedelmi lánc szereplőjének azonosítására a személyiadat- és lakcímnyilvántartásból a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. § (1) bekezdés a)–e), g), h), m) – ide nem értve azon adatot, hogy az állandó személyazonosító igazolvány tároló elemén aláíró tanúsítvány van elhelyezve – és p) pontjában foglalt adatokat;
+- b) a földhasználati nyilvántartásból a földhasználati lap adatait;
+- c) az állami adó- és vámhatóság által vezetett, az adózókra vonatkozó adóazonosító nyilvántartásból a faanyag kereskedelmi lánc szereplőjének minősülő adózó azonosítására vonatkozó, valamint köztartozás-fizetési kötelezettségének elmaradásával kapcsolatos adatokat;
+- d) a piacfelügyeleti hatóság részéről az általa a 2173/2005/EK rendelet szerint kiadott FLEGT-engedélyekben szereplő adatokat;
+- e) az állami adó- és vámhatóság által vezetett Elektronikus Közúti Áruforgalom Ellenőrző Rendszer nyilvántartásából a fatermékek nyomon követését szolgáló adatokat;
+- f) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 9. § (1) bekezdés, (1a) bekezdés, (2) bekezdés a), c) és g) pontjai, a (3) bekezdés szerinti adatokat.
 
 (2) Az állami, valamint az önkormányzati adóhatóság megkeresésre tájékoztatja az erdészeti hatóságot a faanyag kereskedelmi lánccal összefüggő adótitkot képező adatról vagy információról, ha az az ügyfél személyének azonosításához, vagy a faanyag kereskedelmi lánc felügyelettel kapcsolatos hatósági feladatának ellátásához szükséges.
 
@@ -1763,11 +1766,23 @@ kerülhet sor.
 
 (2) A faanyag kereskedelmi lánccal kapcsolatos ellenőrzésekhez az erdészeti hatóság a rendőrség, az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság közreműködését igényelheti.
 
-(3) A fatermékek forgalmazásának hatékony ellenőrzése érdekében az erdészeti hatóság és a rendőrség, az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság köteles egymással együttműködni.
+(3) A fatermékek forgalmazásának hatékony ellenőrzése érdekében az erdészeti hatóság és a rendőrség, az állami adó- és vámhatóság, a rendészetért felelős miniszter által vezetett minisztérium, valamint az önkormányzati adóhatóság köteles egymással együttműködni.
 
 90/J. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyelete keretében végzett, e törvényben és a végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezés, illetve hatósági határozatban foglaltak megsértése esetén intézkedést hozhat vagy figyelmeztetésben részesítheti az eljárás alá vont személyt.
 
 (2) Az (1) bekezdés szerinti jogkövetkezmények alkalmazásának nincs helye, ha a cselekménynek az erdészeti hatóság tudomására jutásától számított egy év, illetve a cselekmény elkövetésétől számított három év eltelt. A határidő számításakor a jogorvoslati eljárás időtartamát nem kell figyelembe venni.
+
+(3) Szállítójármű használatának tiltására vagy korlátozására vonatkozó döntés tekintetében, amennyiben a szállítójármű üzemben tartója, annak hiányában tulajdonosa személyében változás következik be, a gépjármű nyilvántartásba bejegyzett új üzemben tartót vagy tulajdonost kell jogutódnak tekinteni.
+
+(4) Ha a fa vagy fatermék a hatósági ellenőrzés vagy eljárás idején nem fellelhető, és felhasználása hitelt érdemlően nem igazolt, vélelmezni kell a fatermék kereskedelmi forgalomba hozatalát vagy továbbértékesítését.
+
+(5) 20 köbméternél nagyobb mennyiségű erdei faválaszték tárolása esetén a faválaszték származását igazoló dokumentumokat a faanyag felhasználásig meg kell őrizni.
+
+(6) A faanyag kereskedelmi lánc szereplőjének telephelyén, tulajdonában vagy használatában álló ingatlanon található fáról és fatermékről vélelmezni kell a forgalmazási célt, ha a helyszínen rendelkezésre álló nyilvántartásban nincs elkülönítve és nincs ellátva jól látható módon a forgalomba hozatalt tiltó jelzéssel.
+
+(7) Ha az ellenőrzés alá vont fatermék legális eredete az ellenőrzés vagy az eljárás során hitelt érdemlően nem bizonyítható, a faanyagot birtokló személyt vagy szervezetet faanyag kereskedelmi lánc szereplőjének kell tekinteni.
+
+(8) Ha valamely személy, szervezet évente 50 köbmétert meghaladó mennyiségű erdei faválasztékot vásárol, az ellenkező bizonyításáig vélelmezni kell, hogy az ilyen személy, szervezet a faanyag kereskedelmi lánc szereplőjének minősül.
 
 90/K. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyelete keretében végzett, e törvény végrehajtására kiadott jogszabályban meghatározottak szerint, a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével a következő intézkedéseket hozhatja:
 
@@ -1781,7 +1796,8 @@ kerülhet sor.
   - ce) a fatermékkel kapcsolatos tevékenység végzését határozott időre, teljesen vagy részlegesen felfüggeszti, korlátozza, a működést megtiltja, az újbóli működést feltételhez köti; a tilalom betartásához szükséges kísérő intézkedéseket vezet be,
 - d)
 - e) erdővédelmi bírságot szab ki,
-- f)–i)
+- f) faanyag kereskedelmi lánccal kapcsolatos tevékenységhez használt szállítójármű használatának tiltására vagy korlátozására vonatkozó döntés alapján az erdészeti hatóság kezdeményezi a jármű forgalomból történő ideiglenes kivonását a közlekedési igazgatási hatóságnál.
+- g)–i)
 - j) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezi a faanyag kereskedelmi lánc szereplőjét azzal, hogy a szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni az erdészeti hatóságot.
 
 (2)
@@ -1792,7 +1808,15 @@ kerülhet sor.
 
 (5) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyelete keretében végzett intézkedéseiről haladéktalanul értesíti a forgalomba hozásért felelős piaci szereplőt, importőrt.
 
-(6) A faanyag kereskedelmi lánc hatósági felügyelete során elkobzottfatermék az értékesítés vagy megsemmisítés helyett közérdekű célra is felhasználható.
+(6) A faanyag kereskedelmi lánc hatósági felügyelete során elkobzott fatermék az értékesítés vagy megsemmisítés helyett közérdekű célra is felhasználható, illetve tulajdonjoga ingyenesen átruházható.
+
+(7) Az erdészeti hatóság az elkobzott faanyagot szerződéssel
+
+- a) helyi önkormányzat részére jogszabályban foglalt feladatai elősegítése érdekében,
+- b) közhasznú szervezet részére, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében,
+- c) egyház, egyházi jogi személy részére, hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi – feladatok ellátásának elősegítése érdekében
+
+ingyenesen tulajdonba adhatja.
 
 90/L. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos jogkövetkezményeket megállapító végleges végrehajtható határozatának vagy végzésének kivonatát honlapján haladéktalanul közzéteszi, ha eljárása során mulasztást vagy jogszabálysértést állapít meg.
 
@@ -2506,7 +2530,9 @@ minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron á
 
 (24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő két éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő öt éven belül van lehetőség.
 
-(25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján megkötött megbízási szerződések 2018. december 31-én hatályukat vesztik, az ilyen jogcímen fennálló bejegyzéseket az erdészeti hatóság törli az erdőgazdálkodói nyilvántartásból.
+(25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján, valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény hatálybalépését megelőzően megkötött megbízási szerződést bármelyik fél 60 napos felmondási idővel felmondhatja.
+
+(25a) A (25) bekezdés szerinti szerződések 2020. május 7-én hatályukat vesztik, az ilyen jogcímen fennálló bejegyzéseket az erdészeti hatóság törli az erdőgazdálkodói nyilvántartásból.
 
 (26) A módosító törvény hatálybalépésekor az Adattárban nyilvántartott erdő természetességi állapotára vonatkozó alapelvárásnak az erdő Adattárban nyilvántartott természetességi állapota minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
 
@@ -2534,6 +2560,8 @@ fátlan állapotban tartott erdőnek minősül, amely változást az erdészeti 
 - d) a soron következő körzeti erdőtervezés során
 
 felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
+
+(32) Ha az e törvény hatálybalépését követően, de a módosító törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig az erdőtervet az erdészeti hatóság az erdőgazdálkodó kérelmére állapítja meg.
 
 #### 114. §
 
