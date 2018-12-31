@@ -4,7 +4,10 @@ a kereskedelemről szóló 2005. évi CLXIV. törvény módosításáról
 
 1. §
 
-2. §
+2. § Hatályát veszti a Kertv.
+
+- a) 9/A. §-a és az azt megelőző alcím,
+- b) 11/D. §-a.
 
 3. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba és 2019. január 1-jén hatályát veszti.
 

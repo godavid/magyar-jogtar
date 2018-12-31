@@ -58,7 +58,7 @@ során.
 - m) fenntartható használat (hasznosítás): a természeti értékek olyan módon és ütemben történő használata, amely nem haladja meg megújuló képességüket, nem vezet a természeti értékek és a biológiai sokféleség csökkenéséhez, ezzel fenntartva a jelen és jövő generációk életlehetőségeit;
 - n) természetkímélő megoldás (természetkímélő gazdálkodás): olyan, a fenntartható használat részét képező eljárás, módszer, gazdálkodási mód, technológia vagy más, a természettel kapcsolatos magatartás, amely csak olyan mértékben befolyásolja a természeti értékeket, területeket, a biológiai sokféleséget, hogy természetes vagy természetközeli állapotuk fennmaradjon;
 - o) egyed (példány): élő szervezet, annak valamennyi fejlődési szakasza, alakja, állapota és származéka, valamint az elpusztult élőlény, illetve az a termék vagy készítmény, amelyről csomagolása vagy egyéb irat, adat, illetve körülmény alapján megállapítható, hogy a felsoroltak valamelyikéből készült, illetve ezek valamelyikéből származó összetevőt tartalmaz;
-- q) natúrpark: az ország jellegzetes természeti, tájképi és kultúrtörténeti értékekben gazdag, a természetben történő aktív kikapcsolódás, felüdülés, gyógyulás, fenntartható turizmus és a természetvédelmi oktatás, nevelés, ismeretterjesztés, továbbá a természetkímélő gazdálkodás megvalósítását szolgáló nagyobb kiterjedésű területe, amely e jogszabályban foglaltaknak megfelelően jön létre;
+- q) natúrpark: a helyi közösségek (önkormányzatok, társadalmi szervezetek, gazdálkodó szervezetek és az érintett lakosság) összefogása eredményeként létrejövő, a táji, természeti és kulturális értékek megőrzésén és fenntartható hasznosításán alapuló terület- és vidékfejlesztési célok megvalósulását is támogató, meghatározott területre vonatkozó együttműködés, amely e törvény végrehajtására kiadott jogszabály szerint jön létre;
 - r) ökoszisztéma-szolgáltatás: az 1143/2014/EU európai parlamenti és tanácsi rendelet 3. cikk 6. pontja szerint azok a javak (termékek és szolgáltatások), amelyeket az ökológiai rendszer természetes vagy átalakított formájában nyújt, növelve a társadalom és a tagjainak jóllétét.
 
 ### Alapelvek
@@ -368,7 +368,7 @@ nyilvánít védetté.
 
 (4) E törvény erejénél fogva fokozottan védett a nemzeti park természeti övezete, a bioszféra-rezervátum magterülete, továbbá az erdőrezervátum magterülete.
 
-29/A. § Természeti terület, védett természeti terület, valamint ezen területek meghatározott része tekintetében a miniszter – ha annak nemzetközi gyakorlatban kialakult és elfogadott feltételei fennállnak – a natúrpark elnevezés használatához hozzájárulhat.
+#### 29/A. §
 
 ### Védőövezet
 
@@ -784,6 +784,8 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
 ### A nyilvánosság részvétele a természet védelmében
 
+63/A. § A natúrpark elnevezés a miniszter hozzájárulása esetén használható. A natúrpark elnevezés használatát és a natúrparkok működésének szabályait a miniszter rendeletben szabályozza.
+
 64. § (1) A Kt. 54–55. §-ában foglaltakon túl, a természet védelmével kapcsolatos ismereteket valamennyi oktatási intézményben oktatni kell, azok a Nemzeti Alaptanterv részét képezik. Ezeknek az ismereteknek az oktatásával – az állami, önkormányzati intézmények és más szervezetek bevonásával – elő kell segíteni, hogy a társadalom természetvédelmi kultúrája növekedjen.
 
 (2) Az ismeretterjesztés, oktatás, tudományos kutatás és az idegenforgalom részeként a védett természeti területek látogatásának lehetőségét a bemutatásra alkalmas területeken és a védettség érdekeivel összhangban biztosítani kell. Ennek érdekében az igazgatóságok oktatási bemutató létesítményeket tartanak fenn.
@@ -1121,7 +1123,7 @@ természetvédelmi bírságot köteles fizetni.
 
 85. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-- 1. a táj jellege, a természeti értékek, az egyedi tájértékek és a tájképi adottságok megóvására vonatkozó szabályokat;
+- 1. a táj védelmére vonatkozó szabályokat;
 - 2. a vadon élő szervezet egyede országba történő behozatalának, átszállításának, kivitelének, mesterséges körülmények közötti szaporításának, tartásának, termesztésbe, tenyésztésbe vonásának, keresztezésének, természetbe kijuttatásának, értékesítésének feltételeit és módját;
 - 3. a Natura 2000 területek kijelölését, közzétételét, valamint az e területekre vonatkozó főbb rendelkezéseket;
 - 4. a védett és a közösségi jelentőségű fajok védelmére, tartására, bemutatására, hasznosítására vonatkozó részletes szabályokat, feltételeket;
@@ -1172,7 +1174,8 @@ természetvédelmi bírságot köteles fizetni.
 - 29. a védett élő szervezetek, életközösségek, ásványi képződmények pénzben kifejezett értékét;
 - 30. az elkobzott védett természeti értékek felhasználását;
 - 31. a Magyarországon, illetve a regionális szinten veszélyt jelentő idegenhonos inváziós fajok körét;
-- 32. az Európai Unió számára, valamint a tagállami, illetve regionális szinten veszélyt jelentő idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzésével és kezelésével összefüggő részletszabályokat.
+- 32. az Európai Unió számára, valamint a tagállami, illetve regionális szinten veszélyt jelentő idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzésével és kezelésével összefüggő részletszabályokat;
+- 33. a natúrpark elnevezés használatát és a natúrparkok működésének részletes szabályait;
 
 (3) Felhatalmazást kap a miniszter, hogy az agrárpolitikáért felelős miniszter egyetértésével kiadott rendeletben
 

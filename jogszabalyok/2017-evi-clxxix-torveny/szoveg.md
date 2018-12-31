@@ -340,7 +340,7 @@ d) a közigazgatási cselekmény megváltoztatásának nincs helye.”
 
 (6) 2018. január 1-jét megelőzően elkövetett közigazgatási szabályszegés esetén olyan közigazgatási szankció alkalmazható, amely ezen időpontot megelőzően is alkalmazható volt.
 
-(7) 2019. január 1. napján hatályát veszti
+(7) 2020. január 1. napján hatályát veszti
 
 - a) e törvény 1–4. §-a és 41. § (4)–(6) bekezdése,
 - b) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (2) bekezdés b) pontjának alkalmazásáról szóló 19/2009. (XII. 22.) KvVM rendelet,
@@ -353,4 +353,4 @@ d) a közigazgatási cselekmény megváltoztatásának nincs helye.”
 - i) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (2) bekezdés b) pontjának alkalmazásáról szóló 6/2010. (I. 14.) NFGM rendelet,
 - j) a munkaügyi ellenőrzés során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 94. § (2) bekezdés b) pontjának alkalmazásáról szóló 31/2012. (X. 16.) NGM rendelet.
 
-(8) Ez a törvény 2019. január 2. napján hatályát veszti.
+(8) Ez a törvény 2020. január 2. napján hatályát veszti.

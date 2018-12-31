@@ -19,7 +19,7 @@ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításár�
 7. § Hatályát veszti az Nftv.
 
 - a)
-- b)
+- b) 104. § (7) bekezdés ba) pontja.
 
 8. § (1) Ez a törvény – a (2)–(3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 

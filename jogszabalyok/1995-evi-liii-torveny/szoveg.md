@@ -1203,7 +1203,7 @@ közös szabályai
 
 (5) A környezetvédelmi szakhatóság a szakhatósági állásfoglalását a megkeresés beérkezését követő naptól számított huszonegy napon belül köteles megadni. A szakhatósági állásfoglalás megadására tizenöt nap áll rendelkezésre, ha az eljáró hatóság a sürgősséget megkeresésében megindokolja.
 
-(6) A környezetvédelmi hatóság által az előzetes vizsgálati és a környezeti hatásvizsgálati eljárásban, továbbá a (3) bekezdésben meghatározott eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(6) A környezetvédelmi hatóság által az előzetes vizsgálati, a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásban, továbbá az egységes környezethasználati engedély felülvizsgálatára irányuló eljárásban az általános közigazgatási rendtartásról szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 91/A. § (1) A külön jogszabály szerinti kármentesítési eljárás során a kivizsgálást – a kockázat mérlegelése alapján – a lehető leghamarabb meg kell kezdeni és kilencven napon belül le kell folytatni.
 
@@ -1618,6 +1618,8 @@ rendeletben határozza meg.
 szakkérdéseket.
 
 110/B. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 50. § (1a) bekezdését és 90. § (3) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha a hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+110/C. § E törvénynek az egyes agrárszabályozási tárgyú törvények módosításáról szóló 2018. évi CXI. törvénnyel (a továbbiakban: Módtv.) megállapított 91. § (6) bekezdésének rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 111. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

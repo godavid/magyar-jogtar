@@ -31,7 +31,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - d) a kamara gazdálkodására vonatkozó alapvető szabályokat;
 - e) mindazokat a kérdéseket, amelyeket e törvény az alapszabályba való felvételre utal.
 
-2/A. § (1) A kamarának a vadászjegy kiállításával és érvényesítésével, valamint a vadászati engedély kiállításával kapcsolatos eljárásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
+2/A. § (1) A kamarának a vadászjegy kiállításával és érvényesítésével, valamint a vadászati engedély kiállításával kapcsolatos eljárásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy az eljárás igazgatási szolgáltatásidíj-mentes.
 
 (2) A kamarának a hivatásos vadászok tagfelvételével és kamarai nyilvántartásba vételével, valamint a fegyelmi és etikai ügyek kivételével a tagsági viszonyuk megszüntetésével és kamarai nyilvántartásból való törlésével kapcsolatos eljárásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -299,7 +299,9 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (4) Az (1) bekezdés e) pontja szerinti perindításra az a tag jogosult, aki a határozat meghozatalában nem vett részt, vagy aki a határozat meghozatalában részt vett és ellene szavazott.
 
-(5)–(6)
+(5)
+
+(6)
 
 ### V. Fejezet — A KAMARA TISZTSÉGVISELŐINEK VÁLASZTÁSA
 
@@ -387,7 +389,11 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (3) A kamara elnöke a felhívásban foglaltakat megvizsgálja, és a megadott határidőn belül intézkedéséről vagy állásfoglalásáról tájékoztatja a minisztert.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
 
 (7) Amennyiben a vezetőség a 16. § (1) bekezdés b) és c) pontjai, valamint a 17. § (2) bekezdés a) és b) pontjai szerinti esetekben, a bíróság jogerős ítéletének tudomásra jutásától számított harminc napon belül nem határoz a tagsági viszony felfüggesztéséről, illetve megszüntetéséről, a vadászati hatóság határozatban jogosult a vadászjegy visszavonására.
 
@@ -398,7 +404,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - a) a tagjai által befizetett tagdíjból,
 - b) egyéb díjbevételeiből, illetőleg támogatásokból fedezi.
 
-(2) A kamara által az államtól átvett feladatok térítéseként az (1) bekezdés b) pontja szerinti bevételnek minősül a vadászjegy és a vadászati engedély kiállításáért a miniszter által rendeletben megállapított mértékű igazgatási szolgáltatási díj teljes összege.
+(2) A kamara által az államtól átvett feladatok térítéseként az (1) bekezdés b) pontja szerinti bevételnek minősül a vadászjegy és a vadászati engedély kiállításáért a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 61. § (3) bekezdése és 63. § (3) bekezdése szerinti díj teljes összege.
 
 (3) A fegyelmi büntetésként kiszabott pénzbírság felhasználásának rendjét az alapszabály állapítja meg.
 
@@ -432,7 +438,17 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 39. § (1) Ez a törvény a kihirdetését követő 30. napon lép hatályba.
 
-(2)–(7)
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 40. § (1) Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény módosításáról szóló 2016. évi CXIV. törvény (a továbbiakban: Módtv.) hatálybalépése előtt kiadott vadászjeggyel, de kamarai tagsággal nem rendelkező vadásznak a Módtv. hatálybalépésétől számított 30 napon belül a 14. § (1) bekezdés alapján be kell nyújtania a tagfelvételi kérelmét a kamara részére.
 

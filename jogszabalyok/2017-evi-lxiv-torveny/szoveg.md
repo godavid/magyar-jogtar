@@ -44,7 +44,7 @@ az élelmiszerlánccal kapcsolatos egyes törvények módosításáról
 
 (3) A 34. § (2) bekezdése 2018. január 1-jén lép hatályba.
 
-(4) A 7. § (2) bekezdés 2019. január 1-jén lép hatályba.
+(4) A 7. § (2) bekezdés 2020. január 1-jén lép hatályba.
 
 46. § (1) Ez a törvény
 

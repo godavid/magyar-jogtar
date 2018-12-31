@@ -299,17 +299,7 @@ nyilvántartást vezet.
 
 (5) A kereskedelmi hatóságnak a (4) bekezdés a), valamint c–g) pontjában foglaltak megsértése esetén hozott határozata ellen nincs helye fellebbezésnek.
 
-### A napi fogyasztási cikk kiskereskedelmi értékesítését folytató gazdasági társaságokra vonatkozó egyéb szabályok
-
-9/A. § (1) Az a gazdasági társaság, amelynek
-
-- a) nettó árbevétele több, mint fele napi fogyasztási cikk kiskereskedelmi értékesítéséből ered,
-- b) bármely két egymást követő üzleti évben elért nettó árbevétele mindkét üzleti évben külön-külön eléri a 15 milliárd forintot, és
-- c) az adózott eredménye a b) pont szerinti mindkét üzleti évben nulla vagy negatív, a b) pont szerinti második üzleti év beszámolójának elfogadását követően nem folytathat napi fogyasztási cikk kiskereskedelmi értékesítésére vonatkozó tevékenységet.
-
-(2) Az (1) bekezdés szerinti rendelkezést a gazdasági társaság megalakulásától számított első négy üzleti évben nem kell alkalmazni.
-
-(3) Az e §-ban foglalt rendelkezések megtartását az állami adóhatóság ellenőrzi.
+9/A. §
 
 ### Záró rendelkezések
 
@@ -332,7 +322,7 @@ nyilvántartást vezet.
 
 11/C. § A 7/A. §-t a 2016. január 1-je után megvalósuló gazdasági erőfölénnyel való visszaélések fennállása tekintetében kell alkalmazni.
 
-11/D. § A kereskedelemről szóló 2005. évi CLXIV. törvénynek a tisztességes piaci magatartás megvalósulása érdekében a vállalkozások működésével összefüggő módosításáról szóló 2014. évi CXII. törvénnyel megállapított 9/A. § (1) bekezdése alkalmazásában az első figyelembe vehető üzleti év a 2014. december 31-ét követően megkezdett üzleti év, és a bekezdésben meghatározott jogkövetkezményeket 2017. január 1-jét követően lehet alkalmazni.
+11/D. §
 
 11/E. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 

@@ -181,6 +181,8 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (11) Az adatszolgáltató díjmentesen szolgáltatja a 2. § (2) bekezdésében meghatározott állami alapmunkák végzéséhez szükséges adatokat. Az adatszolgáltatás hálózati szolgáltatón keresztüli adathozzáféréssel is biztosítható.
 
+(11a) Alapponthálózati pontokra vonatkozó földmérési jel elhelyezését biztosító közérdekű használati jog bejegyzéséhez szükséges önálló vázlat elkészítéséhez az adatszolgáltatás és az állami átvételi eljárás díjmentes.
+
 (12) A 18. § (7) és (8) bekezdése, valamint a 19. § (8) bekezdése alapján átadott adatokért az állami átvételi alkalmasság megállapítását követően az adatállománnyal rendelkezni jogosult a 3. § (1) bekezdés a), b), e), f), h) és i) pontjában meghatározott állami alapadatok adatbázisaiból, valamint a miniszter felelősségi körébe tartozó állami topográfiai térképi adatbázis felhasználásával készült digitális domborzatmodellből külön megállapodás alapján díjmentes kompenzációs adatigénylésre jogosult.
 
 (13) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a Magyar Honvédség szervezetei és a Katonai Nemzetbiztonsági Szolgálat feladataik ellátásához, valamint szakirányú fejlesztéséhez a honvédelem térképészeti támogatásáért felelős szervtől a szakmai ellátási normák alapján díjmentesen igényelhetnek adatot.
@@ -217,6 +219,8 @@ feltéve hogy nem éri el az adott fekvés területét;
 - b) évente egyszer a 3. § (1) bekezdés e) és f) pontjában foglalt adatbázisokhoz.
 
 (25) Mindazon állami és önkormányzati szervek, amelyek díj-, költség- és térítésmentesen hozzáférnek a 3. § (1) bekezdés d)–f) pontjába tartozó állami alapadatok adatbázisaihoz, az általuk kezelt adatbázisaikból díj-, költség- és térítésmentesen biztosítanak hozzáférést a földmérési és térinformatikai államigazgatási szerv számára a 3. § (1) bekezdés d)–f) pontjába tartozó állami alapadatok adatbázisok felújításával és aktualizálásával kapcsolatos feladatainak ellátásához.
+
+(26) A mezőgazdasági és vidékfejlesztési támogatási szerv az Integrált Igazgatási és Ellenőrzési Rendszerben történő felhasználás céljából minden év januárjában – díjmentesen, de az adatszolgáltatáshoz kapcsolódó munkadíj megfizetése mellett – hozzáférhet az állami ingatlan-nyilvántartási térképi adatbázisból előállított, a Mezőgazdasági Parcella Azonosító Rendszer részét képező kataszteri fedvény adataihoz.
 
 #### 6. Az ország térképellátása
 
@@ -686,6 +690,8 @@ végzi.
 
 (7b) A földmérési és térinformatikai államigazgatási szerv által szervezett szakmai továbbképzésekért adható továbbképzési pontokat a földmérési és térinformatikai államigazgatási szerv állapítja meg.
 
+(7c) A 70. életévet betöltött ingatlanrendező földmérőknek a jogosultságuk meghosszabbításához nem szükséges a (7a) bekezdés a) pontjában meghatározott húsz továbbképzési pont igazolása.
+
 (8) A földmérési és térinformatikai államigazgatási szerv a földmérő igazolvánnyal, illetve az ingatlanrendező földmérő minősítéssel rendelkező személyekről bárki számára ingyenesen hozzáférhető nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy:
 
 - a) természetes személyazonosító adatait,
@@ -696,9 +702,16 @@ végzi.
 - f) elérhetőségeit,
 - g) a földmérő igazolvány, illetve a minősítés érvényességi idejét.
 
-(8a) A nyilvántartásban szereplő személy a d)–f) pontban meghatározott adatainak a nyilvánosságra hozatalát az adatnyilvántartónál írásban megtilthatja.
+(8a) A (8) bekezdés szerinti nyilvántartásban szereplő természetes személy adatait a nyilvántartást vezető szerv saját honlapján közéteszi a következő adattartalommal:
+
+- a) családi és utónév,
+- b) szakképzettség,
+- c) földmérő igazolvány, illetve minősítés száma,
+- d) földmérő igazolvány, illetve minősítés érvényességi ideje.
 
 (8b) A földmérési és térinformatikai államigazgatási szerv által a (8) bekezdés alapján vezetett nyilvántartás a (8) bekezdés b) és g) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
+(8c) A nyilvántartásban szereplő személy a nyilvántartást vezető szervnél írásban kezdeményezheti a (8) bekezdés d)–f) pontjaiban szereplő adatainak feltüntetését is.
 
 (9) Aki földmérési munkát jogosulatlanul végez, kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
@@ -712,7 +725,7 @@ végzi.
 
 (3) A földmérési és térinformatikai államigazgatási szerv visszavonja a kiadott minősítést, ha hatósági ellenőrzés keretében megállapítja, hogy a földmérő a 28. § (7) bekezdés b)–c) pontjában meghatározott feltételeknek nem felel meg.
 
-(4) A földmérési és térinformatikai államigazgatási szerv a bizottság véleménye alapján – szakmai vagy etikai vétség esetén – az ingatlanrendező földmérő minősítést visszavonja, vagy legfeljebb 2 évi időtartamra felfüggeszti. Visszavonás esetén a földmérő ismételt minősítést – a visszavonásról szóló határozat véglegessé válását követő – 5 év elteltével kaphat.
+(4) A földmérési és térinformatikai államigazgatási szerv a bizottság véleménye alapján – szakmaetikai vétség esetén – az ingatlanrendező földmérő minősítést visszavonja, vagy legfeljebb 2 évi időtartamra felfüggeszti. Visszavonás esetén a földmérő ismételt minősítést – a visszavonásról szóló határozat véglegessé válását követő – 5 év elteltével kaphat.
 
 29/A. § Az ingatlanügyi hatóság a földmérő vállalkozó vagy vállalkozás részére az ingatlan-nyilvántartási célú földmérési munkák végzése céljából a tulajdoni lapon szereplő természetes személyazonosító adatokat, jogokat és tényeket átadja.
 

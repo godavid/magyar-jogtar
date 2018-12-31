@@ -65,6 +65,8 @@ az ingatlan-nyilvántartásról
 
 (4) A földmérési és térképészeti tevékenységről szóló törvény szerinti felmérési, térképezési és területszámítási hiba kijavítása tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
 
+(5) A zálogjog, az ahhoz kapcsolódó elidegenítési és terhelési tilalom vagy elidegenítési tilalom, illetve a végrehajtási jog törlése tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
+
 8. §
 
 ### Az ingatlan-nyilvántartást vezető szervezet
@@ -404,6 +406,8 @@ azon változásokat, amelyeket eljárása során észlel.
 alapján kerülhet sor.
 
 (2b) A Ptk. bejegyeztetési kötelezettségre vonatkozó rendelkezéseit nem kell alkalmazni, ha a közbenső jogszerzést jogerős bírói döntés, vagy jogerős közjegyzői végzés megállapítja.
+
+(2c) A bejegyzésnek a (2a) bekezdés b) pontja alapján történő törlése esetén a törlésről rendelkező határozat hatálya a bejegyzésen alapuló további bejegyzésekre is kiterjed.
 
 (3) Nincs szükség okiratra és kérelemre, ha olyan jogot vagy tényt kell törölni, amelynek megszűnése az ingatlan-nyilvántartásból kétségtelenül megállapítható.
 
@@ -1048,7 +1052,7 @@ igényli.
 - d) a Magyar Nemzeti Vagyonkezelő Zrt., valamint az állami vagyonnal gazdálkodó központi közigazgatási szervek az állami tulajdonba tartozó ingatlanokra vonatkozó, továbbá az állami tulajdonba tartozást bizonyító adatok megállapítása érdekében, saját számítástechnikai eszközeikkel az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék,
 - e) a kincstár a Magyar Állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom, vagy elidegenítési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételéhez kapcsolódó feladatai ellátásához szükséges egyedi adatokat lekérdezze.
 
-(2) Az ingatlan-nyilvántartási hatóság kérelemre, az (1) bekezdésben foglaltakon kívül más közigazgatási hatóságok részére a törvényben meghatározott adatátvételi joguk gyakorlása során a hatósági ügyek ellátásához szükséges egyedi adatok lekérdezése céljából lehetővé teszi, hogy saját számítástechnikai eszközeikkel, az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék.
+(2) Az ingatlanügyi hatóság kérelemre, az (1) bekezdésben foglaltakon kívül más közigazgatási hatóságok, illetve költségvetési szervek részére a feladatellátásukhoz szükséges egyedi adatok lekérdezése céljából lehetővé teszi, hogy saját számítástechnikai eszközeikkel, az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék.
 
 (3) A miniszter a szakmai irányításával összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett adatbázisokhoz.
 
@@ -1143,7 +1147,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 84. § (1) Ha a község egész területét vagy annak belterületét, illetve külterületét érintő olyan eljárást folytatnak le, amely az ingatlanok adatainak megváltoztatásával jár, az ingatlan-nyilvántartást át kell alakítani.
 
-(2) Az ingatlan-nyilvántartás átalakításához a miniszter előzetes engedélye szükséges.
+(2) Az ingatlan-nyilvántartás újfelméréssel történő átalakításához a miniszter engedélye szükséges.
 
 ### Rendezetlen tulajdoni állású ingatlanokkalkapcsolatos eljárás
 

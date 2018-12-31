@@ -32,7 +32,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 30. § (1) Teljes személyes díjmentességben részesül:
 
-- a) a Magyar Állam,
+- a) a Magyar Állam, költségvetési szerv,
 - b) az egyházi jogi személy.
 
 (2) Az (1) bekezdés b) pontjában meghatározott szervezet ingatlanonként évente egy alkalommal részesülhet a tulajdonilap-másolat díjának megfizetése alól személyes díjmentességben.
@@ -53,14 +53,14 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 - g) a közigazgatási vagy polgári perben eljáró bíróság eljárásához,
 - h) a büntetőügyben eljáró bíróság eljárásához,
 - i) az ügyészség eljárásához,
-- j) a nyomozó hatóság és a nemzetbiztonsági szolgálatok feladatai ellátása érdekében,
+- j) a nyomozó és a szabálysértési hatóság, továbbá a szabálysértési elzárással is büntethető szabálysértések esetében az előkészítő eljárást lefolytató szerv és a nemzetbiztonsági szolgálatok feladatai ellátása érdekében,
 - k) a helyi önkormányzat, illetve azok társulásai közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetőleg nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez,
 - l) a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott, a föld tulajdonjogának vagy a földhasználati jogosultság megszerzésének a hatósági jóváhagyása iránti eljárásban, továbbá a szerzési korlátozások hatósági ellenőrzése során, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv,
 - m) az eljáró szerv – ideértve a bíróságot – a polgári perrendtartásról szóló 2016. évi CXXX. törvény XXXII. Fejezete szerinti gondnokság alá helyezés iránti perben,
 - n) a törvényszéki végrehajtó a Magyar Államot illető végrehajtandó összeg iránti végrehajtási ügyben
 - o) a vízügyi igazgatási szerv az állami tulajdonban álló vízkészletek vagy vízilétesítmények vagyonkezelése tárgyában,
-- o) lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézet
-- p) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében
+- p) lakás építéséhez, vásárlásához vagy bővítéséhez igénybe vehető vissza nem térítendő állami támogatás igényléséhez az igénylő megbízásából tárgyévben ugyanazon ingatlan tulajdonilap-másolatára vonatkozóan egy alkalommal a hitelintézet,
+- q) a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében
 
 kéri.
 
