@@ -31,7 +31,11 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 
 (4)
 
-3. § (1)–(3)
+3. § (1)
+
+(2)
+
+(3)
 
 (4)
 
@@ -50,7 +54,7 @@ Az Országgyűlés — az államháztartásról szóló 1992. évi XXXVIII. tör
 (3) A kiadások fedezetét a következő bevételek képezik:
 
 - a) a szociális hozzájárulási adónak a Nyugdíjbiztosítási Alapot a központi költségvetésről szóló törvényben meghatározottak szerinti arányban megillető része, munkáltatói nyugdíjbiztosítási járulék;
-- b) 1. a biztosítotti nyugdíjjárulék, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében, 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék, 3. 4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, az ápolási díj után fizetett nyugdíjjárulék, 5. 6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
+- b) 1. a biztosítotti nyugdíjjárulék, a kizárólag a társadalombiztosítási nyugdíj hatálya alá tartozó személyek esetében, 2. a magánnyugdíjpénztár tagja által fizetett nyugdíjjárulék, 3. 4. a gyermekgondozási díj, a gyermekgondozást segítő ellátás, a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápolási díj után fizetett nyugdíjjárulék, 5. 6. az álláskeresési támogatásból fizetett nyugdíjjárulék;
 - c) egyéb járulékok és hozzájárulások, ideértve 1. a szolgálati idő megszerzésére kötött megállapodás alapján befizetett nyugdíjjárulékot, 2. az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény (a továbbiakban: Efo.tv.) 7. §-a alapján a kincstár által a Nyugdíjbiztosítási Alapnak átutalt összeget, 3. 4. 5. 6. 7. a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 29. § (9) bekezdés b) pontjában, továbbá a 123/A. §-ában meghatározott esetekben a pénztár által a pénztártag egyéni számlájáról a Nyugdíjbiztosítási Alap részére átutalt összeget,
 - d) a Nemzeti Adó- és Vámhivatalnál (a továbbiakban: az állami adóhatóság) kezelt késedelmi pótlék és bírság bevételi számlákra a tárgyhónapban befolyt bevételből a 13. számú mellékletben foglaltak alapján havonta meghatározott, a tárgyhót követő hónap 15-éig átutalt összeg;
 - e) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 91. §-a szerinti mulasztási bírság;
@@ -94,7 +98,11 @@ kiadásainak fedezetére szolgál.
 
 (4)
 
-5/A-5/C. §
+5/A. §
+
+5/B. §
+
+5/C. §
 
 ### Az Alapok tartalékai
 
@@ -106,7 +114,11 @@ kiadásainak fedezetére szolgál.
 
 (4)
 
-7. § (1)-(3)
+7. § (1)
+
+(2)
+
+(3)
 
 (4) Az Alapok tartósan lekötött eszközeinek végleges felhasználásáról (a folyó kiadások fedezetébe történő bevonásáról) az Országgyűlés dönt.
 
@@ -133,7 +145,8 @@ kiadásainak fedezetére szolgál.
 
 (3) A Kormány az Alapokkal való gazdálkodást érintő, az Alapok kezelőinek jogkörébe utalt hatáskörök gyakorlására elveket és szabályokat állapíthat meg. Így különösen a Kormány határozza meg:
 
-- a)–b)
+- a)
+- b)
 - c)
 - d) a szakmai-pénzügyi ellenőrzés átfogó szempontjait. Az a)–c) pontokban foglaltakat nyilvánosságra kell hozni.
 
@@ -153,7 +166,9 @@ kiadásainak fedezetére szolgál.
 
 (9) A társadalombiztosítási alapok kezelői kötelesek gazdaságos, hatékony és költségtakarékos, a járulékfizetők érdekeit szolgáló gazdálkodást folytatni a társadalombiztosítási alapok kezelése során.
 
-(10)–(11)
+(10)
+
+(11)
 
 (12)
 
@@ -171,25 +186,49 @@ kiadásainak fedezetére szolgál.
 
 ### A Nyugdíjbiztosítási Alap költségvetése
 
-12–14. §
+12. §
+
+13. §
+
+14. §
 
 ### Az Egészségbiztosítási Alap költségvetése
 
-15–17. §
+15. §
 
-18-20. §
+16. §
+
+17. §
+
+18. §
+
+19. §
+
+20. §
 
 ### Az 1993. július 1-jétől érvényesülő szabályok
 
 ### Háziorvosi szolgálat
 
-21–22. §
+21. §
+
+22. §
 
 ### Egészségügyi szakellátás
 
 23. §
 
-24–29. §
+24. §
+
+25. §
+
+26. §
+
+27. §
+
+28. §
+
+29. §
 
 30. §
 
@@ -219,7 +258,13 @@ kiadásainak fedezetére szolgál.
 
 ### Vegyes rendelkezések
 
-36–39. §
+36. §
+
+37. §
+
+38. §
+
+39. §
 
 ### Záró rendelkezések
 
@@ -229,7 +274,29 @@ kiadásainak fedezetére szolgál.
 
 Az értékpapír kamatát a központi költségvetés a társadalombiztosítási alapok részére a kamatköltség felmerülésekor megtéríti és a tőketörlesztésre kezességet vállal.
 
-### 1–12. számú melléklet az 1992. évi LXXXIV. törvényhez
+### 1. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 2. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 3. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 4. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 5. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 6. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 7. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 8. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 9. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 10. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 11. számú melléklet az 1992. évi LXXXIV. törvényhez
+
+### 12. számú melléklet az 1992. évi LXXXIV. törvényhez
 
 ### 13. számú melléklet az 1992. évi LXXXIV. törvényhez
 

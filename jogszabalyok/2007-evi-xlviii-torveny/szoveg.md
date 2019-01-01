@@ -8,7 +8,9 @@ Az Országgyűlés annak érdekében, hogy a Közösség területére belépő, 
 
 1/A. §
 
-1/A. § Az e törvényben vagy a Rendeletben nem szabályozott eljárási kérdésekben az általános közigazgatási rendtartásról szóló törvényben foglalt rendelkezéseket kell alkalmazni.
+1/A. § (1) Az e törvényben vagy a Rendeletben nem szabályozott eljárási kérdésekben az általános közigazgatási rendtartásról szóló törvényben foglalt rendelkezéseket kell alkalmazni.
+
+(2) Az e törvény hatálya alá tartozó eljárásokban hozott határozatok ellen fellebbezésnek van helye.
 
 2. § (1) A Rendelet 3. cikkében meghatározott nyilatkozattételi kötelezettséget írásban kell teljesíteni.
 
@@ -20,39 +22,60 @@ Az Országgyűlés annak érdekében, hogy a Közösség területére belépő, 
 
 3/A. §
 
-4. § (1) A Rendelet 5. cikk (1) bekezdése alapján a vámhatóság nyilvántartásba veszi és 2 évig, a (2)–(4) bekezdés szerinti tájékoztatás és adattovábbítás esetén – kizárólag a tájékoztatás, adattovábbítás jogszerűségének megállapítása céljából – a tájékoztatástól, illetve az adattovábbítástól számított további 5 évig kezeli a Rendelet 3. cikke szerint közölt és a 3. § alapján végzett ellenőrzés során szerzett adatokat.
+4. § (1) A Rendelet 5. cikk (1) bekezdése alapján a vámhatóság nyilvántartásba veszi és 2 évig, a (2), (3) és (9) bekezdés szerinti tájékoztatás és adattovábbítás esetén – kizárólag a tájékoztatás, adattovábbítás jogszerűségének megállapítása céljából – a tájékoztatástól, illetve az adattovábbítástól számított további 5 évig kezeli a Rendelet 3. cikke szerint közölt, és a 3. § alapján végzett ellenőrzés során szerzett adatokat.
 
 (2) A Rendelet 5. cikke által meghatározott kötelezettség végrehajtása érdekében a vámhatóság az (1) bekezdés alapján nyilvántartásba vett adatokról írásbeli megkeresésre tájékoztatja a pénzügyi információs egységként működő hatóságot.
 
-(2a) A pénzügyi információs egységként működő hatóság törvényben meghatározott feladatainak teljesítése érdekében a vámhatóság által nyilvántartásba vett adatot – ha a technikai feltételek mindkét félnél adottak – közvetlen elektronikus adatkapcsolat útján is beszerezheti.
+(3) Ha a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra vagy terrorizmus finanszírozására vagy a készpénz büntetendő vagy jogsértő cselekményből való származására utal, a vámhatóság köteles erről a pénzügyi információs egységként működő hatóságot haladéktalanul tájékoztatni.
 
-(3) Amennyiben a Rendelet 3. cikke szerint közölt vagy a 3. § alapján végzett ellenőrzés során szerzett adat pénzmosásra vagy terrorizmus finanszírozására utal, a vámhatóság köteles azt haladéktalanul a pénzügyi információs egységként működő hatóságnak továbbítani és a hatóság visszajelzéséig az adat alapjául szolgáló készpénz teljes összegét zár alá venni.
+(4) A pénzügyi információs egységként működő hatóság törvényben meghatározott feladatainak teljesítése érdekében a vámhatóság által nyilvántartásba vett adatot – ha a technikai feltételek mindkét félnél adottak – közvetlen elektronikus adatkapcsolat útján is beszerezheti.
 
-(3a) A vámhatóság az 5/C. § szerinti biztosítási intézkedésként, valamint a (3) bekezdés szerint zár alá vett készpénzt az intézkedés foganatosítását követő 5 munkanapon belül köteles a Kincstár illetékes területi szerve részére beszállítani, és egyidejűleg írásban kezdeményezi a Magyar Államkincstár (a továbbiakban: Kincstár) által jegyzett és forgalmazott külföldi fizetőeszközök Kincstár deviza letéti számláján történő letétbe helyezését, valamint a Kincstár által nem jegyzett és nem forgalmazott külföldi fizetőeszközök Kincstár általi őrzését és kezelését.
+(5) A vámhatóság a (3) bekezdésben meghatározott tájékoztatás teljesítéséről, annak tartalmáról a nyilatkozatot tevő személynek, az ellenőrzés alá vont személynek, illetve harmadik személynek tájékoztatást nem adhat, és köteles biztosítani, hogy a (3) bekezdésben meghatározott tájékoztatás megtörténte és annak tartalma titokban maradjon.
 
-(3b) A Kincstár az átvett készpénzről elismervényt állít ki. Az elismervényt az ügy során keletkezett iratokhoz kell csatolni.
+(6) A készpénz származásának vizsgálata érdekében a vámhatóság jogosult a készpénz 80%-át 30 napig zár alá venni. A vámhatóság a zár alá vételt elrendelő végzést a (3) bekezdésben meghatározott tájékoztatáshoz mellékeli.
 
-(3c) A Kincstár az ügy végleges határozatának, valamint szolgálati parancs vagy meghatalmazás bemutatásával, előre egyeztetett időpontban adja ki a készpénzt a vámhatóság részére.
+(7) A vámhatóság az 5/C. § szerinti biztosítási intézkedésként, valamint a (6) bekezdés szerint zár alá vett készpénzt az intézkedés foganatosítását követő 5 munkanapon belül köteles a Magyar Államkincstár (a továbbiakban: Kincstár) illetékes területi szerve részére beszállítani, és egyidejűleg írásban kezdeményezi a Kincstár által jegyzett és forgalmazott külföldi fizetőeszközök Kincstár deviza letéti számláján történő letétbe helyezését, valamint a Kincstár által nem jegyzett és nem forgalmazott külföldi fizetőeszközök Kincstár általi őrzését és kezelését.
 
-(4) A Rendelet 5. cikk (2) bekezdésének végrehajtása esetén a vámhatóság a Rendelet 5. cikk (2) bekezdésében meghatározott adatokat nyilvántartásba veszi, a nyilvántartásba vételtől számított 2 évig kezeli, és a (3) bekezdés szerint továbbítja.
+(8) A Kincstár az átvett készpénzről elismervényt állít ki. Az elismervényt az ügy során keletkezett iratokhoz kell csatolni.
 
-(5) A vámhatóság az általa vezetett adattovábbítási nyilvántartást az adattovábbítástól számított 5 évig őrzi meg. Az adattovábbítási nyilvántartás tartalmáról az érintett kérelmére a tájékoztatását a vámhatóság a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint az alábbi bűncselekményének felderítése érdekében megtagadhatja:
+(9) A vámhatóság a zár alá vételt végzéssel megszünteti és a készpénzt kiadni rendeli, ha
+
+- a) a (6) bekezdésben meghatározott határidő letelt, vagy
+- b) a zár alá vétel elrendelésének oka megszűnt.
+
+(10) A Kincstár az ügy végleges határozatának, valamint szolgálati parancs vagy meghatalmazás bemutatásával, előre egyeztetett időpontban adja ki a készpénzt a vámhatóság részére.
+
+(11) A visszafizetést a vámhatóság készpénzben vagy az eljárás alá vont személy által megadott számlaszámra átutalással teljesíti.
+
+(12) A visszafizetés időtartamára a vámhatóság a visszatartott készpénzt letétként kezeli, annak tekintetében kamatfizetési kötelezettség nem terheli, valamint tárolási költséget nem számít fel.
+
+(13) A Rendelet 5. cikk (2) bekezdésének végrehajtása esetén a vámhatóság a Rendelet 5. cikk (2) bekezdésében meghatározott adatokat nyilvántartásba veszi, a nyilvántartásba vételtől számított 2 évig kezeli, és azokról a (3) bekezdés szerint a pénzügyi információs egységként működő hatóságot tájékoztatja.
+
+(14) A vámhatóság az általa vezetett adattovábbítási nyilvántartást az adattovábbítástól számított 5 évig őrzi meg. Az adattovábbítási nyilvántartás tartalmáról az érintett kérelmére a tájékoztatását a vámhatóság a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint az alábbi bűncselekményének felderítése érdekében megtagadhatja:
 
 - a) a 2011. december 31-ig hatályban volt adócsalás,
 - b) a 2013. június 30-ig hatályban volt terrorcselekmény [a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 261. §], jogosulatlan pénzügyi tevékenység (1978. évi IV. törvény 298/D. §), pénzmosás (1978. évi IV. törvény 303–303/A. §), pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (1978. évi IV. törvény 303/B. §), költségvetési csalás (1978. évi IV. törvény 310. §), sikkasztás (1978. évi IV. törvény 317. §), csalás (1978. évi IV. törvény 318. §) hűtlen kezelés (1978. évi IV. törvény 319. §),
 - c) terrorcselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 314–316/A. §], terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), sikkasztás (Btk. 372. §), csalás (Btk. 373. §), hűtlen kezelés (Btk. 376. §), költségvetési csalás (Btk. 396. §), pénzmosás (Btk. 399–400. §), pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása (Btk. 401. §), jogosulatlan pénzügyi tevékenység (Btk. 408. §).
 
-(6) Az adattovábbítási nyilvántartás adatait a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(15) Az adattovábbítási nyilvántartás adatait a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni, és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 5. § A Rendelet 6. és 7. cikkében foglalt esetekben a vámhatóság a 4. § (1) bekezdése szerinti adatokat megkeresésre vagy hivatalból továbbíthatja más tagállamok és harmadik országok hatáskörrel rendelkező nemzeti hatóságai részére, illetve továbbítja a Bizottság részére.
 
-5/A. § (1) Az Európai Unió területére belépő vagy azt elhagyó természetes személynek, aki a nála lévő, a Rendelet 2. cikk 2. pontja szerinti készpénz vonatkozásában a Rendelet 3. cikk (1) bekezdése szerinti nyilatkozattételi kötelezettségét tévesen, hiányosan vagy egyáltalán nem teljesíti, a Rendelet 9. cikkének megfelelően
+5/A. § (1) Az Európai Unió területére belépő vagy azt elhagyó természetes személynek, aki a nála lévő, a Rendelet 2. cikk 2. pontja szerinti készpénz vonatkozásában a Rendelet 3. cikk (1) bekezdése szerinti nyilatkozattételi kötelezettségének nem tesz eleget, a Rendelet 9. cikkének megfelelően
 
 - a) 10 000 euró vagy azt meghaladó, de 20 000 eurót meg nem haladó összegű készpénz esetén a birtokában lévő összeg 10%-ának,
 - b) 20 000 eurót meghaladó, de 50 000 eurót meg nem haladó összegű készpénz esetén a birtokában lévő összeg 30%-ának,
-- c) 50 000 eurót meghaladó összegű készpénz esetén a birtokában lévő összeg 50%-ának megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.
+- c) 50 000 eurót meghaladó összegű készpénz esetén a birtokában lévő összeg 50%-ának
 
 megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fizetnie.
+
+(1a) Az Európai Unió területére belépő vagy azt elhagyó természetes személynek, aki a nála lévő, a Rendelet 2. cikk 2. pontja szerinti készpénz vonatkozásában a Rendelet 3. cikk (1) bekezdése szerinti nyilatkozattételi kötelezettségét tévesen vagy hiányosan teljesíti, a Rendelet 9. cikkének megfelelően – az (1b) bekezdésben meghatározott kivétellel – a helyszínen bírságot kell fizetnie. A bírság összege abban az esetben,
+
+- a) ha a bejelentett összeget meghaladó készpénz a 20 000 eurót nem haladja meg, a bejelentett összeget meghaladó készpénz 10%-a,
+- b) ha a bejelentett összeget meghaladó készpénz a 20 000 eurót meghaladja, de az 50 000 eurót nem haladja meg, a bejelentett összeget meghaladó készpénz 30%-a,
+- c) ha a bejelentett összeget meghaladó készpénz az 50 000 eurót meghaladja, a bejelentett összeget meghaladó készpénz 50%-a.
+
+(1b) Ha az (1a) bekezdésben meghatározott bejelentett összeget meghaladó készpénz nem éri el a 100 euro értéket, a vámhatóság az Európai Unió területére belépő vagy azt elhagyó természetes személyt szóban figyelmezteti, és bírság kiszabását mellőzi.
 
 (2) A bírság összegét 1000 forintra kerekítve kell alkalmazni. A bírság összegének forintban történő meghatározásához a 2. § (3) bekezdését kell alkalmazni.
 
@@ -71,11 +94,17 @@ megfelelő, forintban meghatározott összegű bírságot kell a helyszínen fiz
 
 (5) A bírság visszafizetése nem keletkeztet kamatfizetést, valamint az átváltásból és időmúlásból eredő árfolyamveszteség nem keletkeztet fizetési kötelezettséget a vámhatóság részéről.
 
-5/C. § Ha az 5/A. § (1) és (2) bekezdése alapján kiszabott bírság összegének későbbi teljesítése nem biztosított, a vámhatóság az általános közigazgatási rendtartásról szóló törvény szerinti biztosítási intézkedést a készpénz-bejelentési kötelezettség ellenőrzésének végrehajtása során a Rendelet 3. cikkét megsértő természetes személy birtokában lévő pénzösszegre, a kiszabott bírság összegének erejéig elrendelheti.
+5/C. § (1) Ha az 5/A. § (1) és (2) bekezdése alapján kiszabott bírság összegének későbbi teljesítése nem biztosított, a vámhatóság az általános közigazgatási rendtartásról szóló törvény szerinti biztosítási intézkedést a készpénzbejelentési kötelezettség ellenőrzésének végrehajtása során a Rendelet 3. cikkét megsértő természetes személy birtokában lévő pénzösszegre, a kiszabott bírság összegének erejéig elrendelheti.
+
+(2) A forinttól eltérő, egyéb valuta összegének visszatartását tízes számjegyre kerekítve, a kerekítési szabályoknak megfelelően kell alkalmazni.
 
 6. § (1) E törvény 2007. június 15. napján lép hatályba.
 
 (2) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 3/A. §-át, 4. § (3) bekezdését és az 5/B. §-át a törvény hatályba lépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(2a) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel (a továbbiakban: Mód1. tv.) megállapított 5/A. § (1a) és (1b) bekezdését a 2019. január 1-jén folyamatban lévő eljárásokban, valamint azon ügyekben is alkalmazni kell, amelyekben a vámhatóság 2018. január 1-jét követően véglegessé vált határozattal bírságot állapított meg.
+
+(2b) A Mód1. tv.-nyel megállapított 5/A. § (1a) és (1b) bekezdésének meg nem felelő, a (2a) bekezdés szerinti végleges határozatot a vámhatóság az 5/A. § (1a) és (1b) bekezdése hatálybalépését követő 30 napon belül hivatalból, saját hatáskörben módosítja, és intézkedik a bírságkülönbözet visszatérítése iránt. A visszatérítést a vámhatóság a bírság megfizetésének biztosítására ideiglenes biztosítási intézkedésként visszatartott készpénz esetén készpénzben, az 5/A. § (1) bekezdése alapján a helyszínen forintban megfizetett bírság esetén átutalással, a kötelezett személy által megjelölt fizetési számlára teljesíti.
 
 (3) E törvény a Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
 

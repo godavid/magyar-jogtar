@@ -338,7 +338,7 @@ kapcsolatosak.
 - a) az adós vagyonával összefüggő megtámadási keresetek megindítása és befejezése, az eljáró bíróság neve és az ügy száma,
 - b) az adós vezetői, volt vezetői, az adós jogi személy tagjai, tulajdonosai ellen a hitelezők érdekeit sértő tevékenységük miatti felelősség megállapítása iránti keresetek megindítása és befejezése, az eljáró bíróság neve és az ügy száma,
 - c) ha az eljárás egyszerűsített felszámolásként került lefolytatásra, ennek ténye,
-- d) az adós és a vagyonfelügyelő, illetve a felszámoló elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elektronikus levélcíme.
+- d) az adós és a vagyonfelügyelő, illetve a felszámoló elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus kapcsolattartásra szolgáló elérhetősége.
 
 (4) A fizetésképtelenségi nyilvántartás az adatokat kereshető formában, a bejegyzéstől számított 15 évig őrzi meg, ezt követően még öt évig archivált adatként kell megőrizni, majd azt követően haladéktalanul törölni kell.
 
@@ -853,7 +853,7 @@ folytatható le.
 
 (6a) Ha e törvény másképpen nem rendelkezik, nem kell felmenteni a folyamatban lévő eljárásban azt a vagyonfelügyelőt, ideiglenes vagyonfelügyelőt vagy felszámolót, amely megfelelt a (2) bekezdés szerinti feltételeknek, de a pályázati keretszám miatt nem került be a felszámolók névjegyzékébe. Az e bekezdés hatálya alá tartozó felszámolókról a felszámolók névjegyzékét vezető szerv közhiteles hatósági nyilvántartást vezet, ugyanolyan adattartalommal, mint a névjegyzékbe felvett felszámolókról, továbbá ellátja a szakmai beszámoltatásukkal és hatósági ellenőrzésükkel összefüggő feladatokat is. Ezekre a felszámolókra és az e törvényben meghatározott végzettséggel, képesítéssel, szakképesítéssel rendelkező tagjaikra, foglalkoztatottjaikra (ideértve az általuk kinevezett felszámolóbiztosokat is) az e törvényben és a felszámolók névjegyzékéről szóló kormányrendeletben meghatározott követelmények irányadók azzal, hogy a 27/C. § (1) bekezdésében meghatározott szakirányú szakképzettséggel rendelkező személyként, valamint a 27/C. § (2) bekezdés g) pontjában felsorolt képesítéssel rendelkezők közül elegendő egy-egy személyt foglalkoztatni munkaviszonyban vagy társadalombiztosítási jogviszonyt keletkeztető szerződéssel.
 
-(6b) A nyilvántartó szerv a 27/C. § (5) bekezdésében foglaltak esetén a (6a) bekezdés szerinti felszámoló szervezetet az ott meghatározott mértékű bírsággal sújtja. Ha a (6a) bekezdés hatálya alá tartozó felszámoló szervezetet súlyos vagy ismétlődő jogszabálysértés miatt a csődeljárásban vagy felszámolási eljárásban eljáró bíróság egy éven belül legalább két ügyben vagy két éven belül legalább három ügyben felmentette, továbbá ha csődeljárásban, felszámolási eljárásban vagy helyi önkormányzatok adósságrendezési eljárásában eljáró bíróság a (6a) bekezdés hatálya alá tartozó felszámoló szervezetet két éven belül legalább háromszor jogszabálysértés vagy mulasztás miatt jogerősen pénzbírsággal sújtotta, akkor – a felszámolók névjegyzékét vezető szerv értesítése alapján – a felszámoló szervezetet az eljáró bíróság a többi folyamatban lévő eljárásból is felmenti. A felmentésről szóló végzést a névjegyzéket vezető szerv értesítésének kézhezvételétől számított 15 napon belül kell meghozni.
+(6b) Ha a (6a) bekezdés hatálya alá tartozó felszámoló szervezetet jogszabálysértés vagy mulasztás miatt a csődeljárásban vagy felszámolási eljárásban eljáró bíróság egy éven belül legalább két ügyben vagy két éven belül legalább három ügyben jogerősen felmentette, vagy ha a csődeljárásban, felszámolási eljárásban vagy helyi önkormányzatok adósságrendezési eljárásában eljáró bíróság a (6a) bekezdés hatálya alá tartozó felszámoló szervezetet két éven belül legalább háromszor jogszabálysértés vagy mulasztás miatt jogerősen pénzbírsággal sújtotta, akkor – a felszámoló szervezet hatósági nyilvántartását vezető szerv értesítése alapján – a felszámoló szervezetet az eljáró bíróság a többi folyamatban lévő eljárásból is felmenti. A felmentésről szóló végzést a felszámoló szervezet hatósági nyilvántartását vezető szerv értesítésének kézhezvételétől számított 15 napon belül kell meghozni.
 
 (6c) Törölni kell a hatósági nyilvántartásból a (6a) bekezdés hatálya alá tartozó felszámolót, ha valamennyi folyamatban lévő csődeljárás, felszámolási eljárás jogerősen lezárult. Ennek tényét a felszámolónak kell bejelentenie a névjegyzéket vezető szervnek, a jogerős végzés kézhezvételétől számított 8 napon belül. Az adatszolgáltatás késedelmes teljesítése vagy elmulasztása esetén a bíróság a felszámoló vezetőjére 50 000 Ft-tól 100 000 forintig terjedő bírságot szabhat ki.
 
@@ -929,7 +929,7 @@ folytatható le.
 - d) nem tagja olyan gazdasági társaságnak, amelyben felelőssége korlátlan,
 - e) írásban hozzájárul a névjegyzékben szereplő adatok nyilvánosságához, és az abban foglaltakra vonatkozóan a névjegyzékbe való jelentkezéssel egyidejűleg – az adataik nyilvánosságra hozatalával érintett magánszemélyek hozzájáruló nyilatkozatának csatolásával – adatokat szolgáltat,
 - f) írásban vállalja, hogy az a)–e) pontokban és a (4) bekezdésben meghatározott adatokról, feltételekről, azok változásáról, valamint a (3) bekezdésben jelölt tényről a névjegyzéket vezető szervezetet legkésőbb a változás, illetve tény bekövetkezését követő öt napon belül írásban tájékoztatja, továbbá közzéteszi a honlapján azoknak a gazdálkodó szervezeteknek a nevét, székhelyét, cégjegyzékszámát, ahová felszámolóként, ideiglenes vagyonfelügyelőként, vagyonfelügyelőként, vagy végelszámolóként, pénzügyi gondnokként kirendelték, a kirendelés kezdetének és megszűnésének dátumával, továbbá az általa felszámolóbiztosként illetve vagyonfelügyelői tevékenység ellátásáért felelős, az e törvényben meghatározott szakirányú szakképzettséggel rendelkező személy nevével, hivatali levelezési címével együtt,,
-- g) igazolja, hogy a gazdasági társaság legalább két-két felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyt, továbbá közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót foglalkoztat. Az említettek közül – a könyvvizsgálót kivéve – legalább egy-egy főnek munkaviszonyban kell állnia a gazdasági társasággal.
+- g) igazolja, hogy legalább egy-egy felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyt, közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót foglalkoztat – a könyvvizsgálót kivéve – munkaviszonyban.
 
 (2a) A (2) bekezdés g) pontja szerinti személyek esetében a 27/B. § (9) bekezdés szerinti hatósági bizonyítvány eredeti vagy hiteles másolati példányával kell igazolni, hogy velük szemben nem áll fenn a 27/B. § (8) bekezdésében meghatározott körülmény.
 
@@ -964,18 +964,49 @@ folytatható le.
 
 (5) A nyilvántartó szerv a felszámoló szervezet vezetőjére 30 000 forinttól 400 000 forintig terjedő bírságot szab ki, ha
 
-- a) hamis vagy valótlan adatot, dokumentumot szolgáltatott,
+- a) hamis vagy valótlan adatot, dokumentumot szolgáltat, hamis vagy valótlan tartalmú nyilatkozatot tesz,
 - b) megszegi a (3) bekezdés szerinti tilalmat,
 - c) nem teljesíti vagy késedelmesen teljesíti a (2) bekezdés f) pontja szerinti kötelezettségét,
-- d) felhívás ellenére nem teljesíti a felszámolók névjegyzékébe történő felvételével összefüggésben benyújtott pályázatában vállalt többletfeltételeket, vagy
+- d) figyelmeztetés ellenére nem teljesíti a felszámolók névjegyzékébe történő felvételével összefüggésben benyújtott pályázatában vállalt többletfeltételeket, vagy
 - e) megszegi a jogszabályban előírt
   - ea) adatszolgáltatási, szakmai beszámoló készítési,
   - eb) vagyoni biztosítéknyújtási, illetve
-  - ec) elektronikus értékesítési rendszer használatával összefüggő kötelezettségeit,
+  - ec) elektronikus értékesítési rendszer használatával összefüggő
 
-ismétlődő kötelezettségszegés esetén pedig a felszámoló szervezetet törölheti a nyilvántartásból.
+kötelezettségeit.
 
-(6) A felszámolók és vagyonfelügyelők kirendelésére és felmentésére vonatkozó adatok a Cégközlöny honlapján keresőprogram segítségével is megismerhetők.
+(5a) A felszámolók névjegyzékét vezető szerv nem szabhat ki bírságot, ha a jogsértő magatartásnak a felszámolók névjegyzékét vezető szerv tudomására jutásától számítva egy év már eltelt.
+
+(6) A felszámolók névjegyzékét vezető szerv a felszámoló szervezetet törli a névjegyzékből
+
+- a) az e törvény által törlési okként nevesített esetekben,
+- b) ha a felszámoló szervezet jogutód nélkül megszűnt,
+- c) ha a törvényszék elnöke vagy közigazgatási szerv jelzése, a felszámolók érdekképviseleti szervezetének értesítése, hivatalos tudomásszerzés vagy hatósági ellenőrzés alapján megállapítja, hogy
+  - ca) a felszámoló szervezet bírság kiszabását követően sem felel meg a névjegyzékbe történő felvétel feltételeinek, vagy
+  - cb) a felszámoló szervezet bírság kiszabását követően sem teljesíti az e törvény vagy a felszámolók névjegyzékéről szóló kormányrendelet szerinti bejelentési, adatszolgáltatási, szakmai beszámolási kötelezettségét,
+- d) a bíróság kezdeményezésére, ha a felszámoló szervezet ismételten vagy súlyosan megsérti a jogszabályokat, és ezt jogerős határozat állapította meg,
+- e) ha a felszámoló szervezet ezt kéri,
+- f) az új névjegyzék felállítására irányuló eljárások lezárásakor, a (7) bekezdés szerinti módon, amennyiben a felszámoló szervezetnek az új névjegyzékbe való vételére nem kerül sor,
+- g) ha a felszámoló szervezet a pályázat során a pályázatot elbíráló szervnek valótlan tartalmú dokumentumot nyújtott be, vagy neki felróható módon valótlan tartalmú nyilatkozatot tett,
+- h) ha a felszámoló szervezet a felszámolók névjegyzékét vezető szervnek bírság kiszabását követően is valótlan tartalmú dokumentumot nyújt be, vagy neki felróható módon valótlan tartalmú nyilatkozatot tesz,
+- i) ha bíróság csődeljárásban vagy felszámolási eljárásban – jogszabálysértés vagy mulasztás miatt –
+  - ia) egy éven belül legalább két ügyben, vagy
+  - ib) két éven belül legalább három ügyben
+
+jogerősen elrendelte a felszámoló szervezet felmentését,
+
+- j) ha a felszámoló szervezet bírság kiszabását követően sem teljesíti a névjegyzékbe történő felvételével összefüggésben benyújtott pályázatában vállalt többletfeltételeket,
+- k) ha csődeljárásban, felszámolási eljárásban vagy helyi önkormányzatok adósságrendezési eljárásában eljáró bíróság a felszámoló szervezetet két éven belül legalább háromszor jogszabálysértés vagy mulasztás miatt jogerősen pénzbírsággal sújtotta,
+- l) ha a felszámoló szervezet a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló kormányrendelet alapján az értékesítők által havonta fizetendő rendszerhasználati díjakat felhívás ellenére sem fizeti meg,
+- m) ha a felszámoló szervezet bírság kiszabását követően ismételten és súlyosan megsérti az elektronikus értékesítési rendszer használatával összefüggő kötelezettségeit.
+
+(7) Az új névjegyzék felállítására irányuló eljárásokat lezáró utolsó határozat véglegessé válását követően a felszámolók névjegyzékét vezető szerv haladéktalanul határozatot hoz azon felszámoló szervezetek névjegyzékből való törléséről, amelyeknek az új névjegyzékbe vételére nem került sor. A határozatban azt is fel kell tüntetni, hogy az új névjegyzékbe vételre a jogszabályi feltételek teljesítésének hiánya miatt vagy a keretszám miatt nem került sor. A névjegyzékből történő törlés időpontja megegyezik az új névjegyzék felállításának időpontjával.
+
+(8) A névjegyzékből való törlésről, illetve a névjegyzékbe történő felvételről szóló véglegessé vált határozatot a felszámolók névjegyzékét vezető szerv haladéktalanul megküldi a felszámolók, a vagyonfelügyelők és az ideiglenes vagyonfelügyelők elektronikus kijelölésének szabályairól szóló rendelet szerinti elektronikus kijelölést támogató számítógépes rendszer üzemeltetőjének, továbbá eljuttatja a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló kormányrendelet szerinti értékesítési rendszer működtetőjének.
+
+(9) A felszámolók névjegyzékét vezető szerv a (6) bekezdésben meghatározott törlési ok fennállása esetén – ide nem értve a (6) bekezdés f) és j) pontjában meghatározott törlési okokat – a felszámoló szervezetet törli a 27/A. § (6a) bekezdése alapján vezetett hatósági nyilvántartásból.
+
+(10) A 27/A. § (6a) bekezdése alapján a felszámolók névjegyzékébe nem került, de a folyamatban lévő ügyekben még eljáró felszámoló szervezetekről vezetett hatósági nyilvántartásra e törvénynek, valamint a felszámolók névjegyzékéről szóló kormányrendeletnek a nyilvántartás vezetésére, az azzal összefüggő adatszolgáltatás teljesítésére, a felszámoló szervezet szakmai beszámoló készítésére, a szakmai beszámoló benyújtására, a felszámoló szervezet hatósági ellenőrzésére, hatósági nyilvántartásból való törlésére, valamint a nyilvántartásból való törlésről a bíróságok értesítésére vonatkozó szabályait kell alkalmazni.
 
 27/D. § (1) A felszámolók névjegyzékét vezető szerv az állami vagyon felügyeletéért felelős miniszter által vezetett minisztérium önálló szervezeti egysége, amely hatósági tevékenysége során minden más szervtől független, és a feladatkörébe tartozó hatósági ügyek tekintetében nem utasítható.
 
@@ -1154,7 +1185,7 @@ ismétlődő kötelezettségszegés esetén pedig a felszámoló szervezetet tö
 
 (6) A felszámoló haladéktalanul gondoskodik az adós iratanyagának – ideértve az adós vezetője által a 31. § alapján átadott iratokat is – rendezéséről és megőrzéséről.
 
-(7) A felszámoló az adós iratanyagának rendezésével, kezelésével, tárolásával és elhelyezésével, a vagyontárgyak őrzésével, állagmegóvásával kapcsolatos, valamint az értékbecslési szolgáltatások igénybevétele érdekében az összességében gazdaságilag legelőnyösebb ajánlatot tevő szolgáltatót köteles kiválasztani. A felszámoló ezekre a szolgáltatásokra nem köthet szerződést olyan vállalkozással, amelyben a felszámolónak, a felszámolóbiztosnak vagy ezek közeli hozzátartozóinak kizárólagos vagy többségi részesedése van. A szolgáltató kiválasztására és a vele kötendő szerződés tartalmának kialakítására vonatkozó szempontrendszert a felszámoló dokumentálni köteles.
+(7) A felszámoló az adós iratanyagának rendezésével, kezelésével, tárolásával és elhelyezésével, a vagyontárgyak őrzésével, állagmegóvásával kapcsolatos, valamint az értékbecslési szolgáltatások igénybevétele érdekében az összességében gazdaságilag legelőnyösebb ajánlatot tevő szolgáltatót köteles kiválasztani. A felszámoló ezekre a szolgáltatásokra nem köthet szerződést olyan vállalkozással, amelyben a felszámolónak, a felszámoló vezető tisztségviselőjének, a felszámolóbiztosnak, ezek közeli hozzátartozójának kizárólagos vagy többségi részesedése van vagy olyan egyéni vállalkozóval, aki a felszámoló vezető tisztségviselője, a felszámolóbiztos vagy ezek közeli hozzátartozója. A szolgáltató kiválasztására és a vele kötendő szerződés tartalmának kialakítására vonatkozó szempontrendszert a felszámoló dokumentálni köteles.
 
 (8) A vezető tisztségviselő által a 31. § (1) bekezdés j) pontja alapján átadott vagyont a felszámoló a vagyonról készített kimutatás felszámoló részére történt átadásától számított 30 napon belül adja ki a jogszabályban meghatározott jogosultnak, a jogszabályban meghatározott módon.
 
@@ -1407,7 +1438,7 @@ volt.
 - e) a nettó vételár (a követelés behajtásából származó bevétel) legfeljebb 1%-ának megfelelő mértékű összeget az 57. § (2) bekezdés f) pontjában meghatározott költségként, valamint
 - f) a nettó vételár – illetve a követelés behajtásából származó bevétel – 7,5%-ának megfelelő összeget
 
-vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó összeget pedig 15 napon belül az értékesített zálogtárgyat terhelő, zálogjoggal biztosított követelés (tőke, szerződéses kamat, költségek) kielégítésére köteles fordítani az említett sorrendben, több jogosult esetén a Ptk. 5:118–5:122. §-ában meghatározott kielégítési sorrend figyelembevételével.
+vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó összeget pedig a 49. § (5) bekezdése szerinti megtámadási határidő lejártát követő 30 napon belül az értékesített zálogtárgyat terhelő, zálogjoggal biztosított követelés (tőke, szerződéses kamat, költségek) kielégítésére köteles fordítani az említett sorrendben, több jogosult esetén a Ptk. 5:118–5:122. §-ában meghatározott kielégítési sorrend figyelembevételével. Ha a 49. § (5) bekezdése alapján indított keresetet elutasították vagy visszautasították, a 30 napos határidőt a jogerős bírósági határozat kézhezvételétől kell számítani.
 
 (2) A felszámoló az (1) bekezdés f) pontja szerinti összegből 3%-nak megfelelő összegű felszámolói díjelőleget és ezt a díjelőleget terhelő általános forgalmi adó megfizetéséhez szükséges összeget veheti fel, 2%-ot pedig haladéktalanul a Fővárosi Törvényszék Gazdasági Hivatala részére utal át. A Fővárosi Törvényszék Gazdasági Hivatala az átutalt összeget elkülönítetten kezeli, és az 59. § (5) bekezdése szerinti kifizetésekre használja fel. Az (1) bekezdés és az e bekezdés szerinti levonásokat és kifizetéseket követően fennmaradó összeget a felszámoló az 57. § (1) bekezdésében felsorolt tartozások teljesítésének fedezetéül köteles elkülöníteni.
 
@@ -1536,7 +1567,11 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 
 (2) Ha a felszámolási zárómérleg és a vagyonfelosztási javaslat elkészítésére a felszámolás kezdetétől számított 2 év eltelte miatt került sor és a zárómérlegben szereplő, be nem hajtott követelések jogi sorsa az 52. § (5) bekezdése folytán nem rendeződött, a bíróság a be nem hajtott követeléseket és az értékesítetlen vagyontárgyakat a hitelezők között — követelésük erejéig — az 57. §-ban foglalt kielégítési sorrend figyelembevételével felosztja. A további eljárásra a 60. §-ban foglaltak az irányadók.
 
-(3) Ha az eljárás befejezésekor az értékesítetlen vagyontárgyak között zálogjoggal terhelt vagyontárgy is található, a vagyontárgyaknak a hitelezők közötti felosztásáról rendelkező végzés jogerőre emelkedésével a zálogjog megszűnik. A szükséges eljárás lefolytatása a bíróság végzése alapján hivatalból történik. A zálogtárgyat elsődlegesen az adott zálogtárgyon fennálló zálogjog jogosultja(i) között kell felosztani a Ptk. 5:118–5:122. §-ában meghatározott kielégítési sorrend figyelembevételével. A zálogtárgynak a felszámolási zárómérlegben meghatározott értékével nem fedezett követelések ki nem egyenlített részének kielégítése, valamint a zálogjogosultak kielégítése után a zálogtárgy fennmaradó hányadának felosztása tekintetében az 57–58. § szerint kell eljárni.
+(3) Ha az eljárás befejezésekor az értékesítetlen vagyontárgyak között zálogjoggal, illetve a 49/D. § (3) bekezdése szerinti joggal terhelt vagyontárgy is található, a felszámolási zárómérleg, zárójelentés elkészítését megelőzően a felszámoló felhívja a jog hitelezőként nyilvántartott jogosultját, hogy azzal a feltétellel szerezheti meg a felszámolási eljárás befejezésével a vagyontárgy tulajdonát, hogy a felhívás kézhezvételétől számított 30 napon belül megfizeti a vagyontárgy legutolsó értékesítési hirdetményben meghirdetett minimálára 3%-ának megfelelő összegű felszámolói díjelőleget, a díjelőleget terhelő általános forgalmi adó megfizetéséhez szükséges összeget, valamint az 59. § (5) bekezdése szerinti kifizetések céljára a zálogtárgy legutolsó értékesítési hirdetményében meghirdetett minimálár 2%-át. Több jogosult esetén a felszámoló a 49/D. § szerinti kielégítési sorrend alkalmazásával állapítja meg és ennek figyelembevételével arányosítja az e bekezdésben meghatározott fizetési kötelezettségek összegét oly módon, hogy nem terheli fizetési kötelezettség azt a jogosultat, akinek a követelésére a zálogjoggal, illetve a 49/D. § (3) bekezdése szerinti joggal terhelt vagyontárgy felszámolási zárómérlegben meghatározott értéke – a kielégítési sorrend miatt – nem nyújt fedezetet.
+
+(3a) A (3) bekezdésben meghatározott vagyontárgynak a (3) bekezdésben meghatározott kielégítési sorrendben meghatározott hitelezők közötti felosztásáról rendelkező végzés jogerőre emelkedésével a zálogjog, illetve a 49/D. § (3) bekezdésében felsorolt jogok megszűnnek, ezek törlése iránt – a bíróság végzése alapján – hivatalból kell intézkedni.
+
+(3b) A (3) bekezdésben meghatározott vagyontárgy felszámolási zárómérlegben meghatározott értékével nem fedezett követelések ki nem egyenlített részének kielégítése, valamint a (3) bekezdésben meghatározott jogosultak kielégítése után a zálogtárgy fennmaradó hányadának felosztása tekintetében az 57–58. § szerint kell eljárni.
 
 (4) Az értékesítetlen vagyontárgyaknak a hitelezők közötti felosztásával bekövetkezett vagyonszerzés — az egyszerűsített felszámolás esetét (63/B. §) is ideértve — illetékmentes.
 
@@ -1565,7 +1600,7 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
   - aa) a munkaviszony megszűnésekor járó végkielégítést, a kollektív szerződésben, illetve a munkaszerződésben meghatározott juttatásokat, valamint a munkáltatót a munkaviszony jogellenes megszüntetésével összefüggésben terhelő fizetési kötelezettségeket is,
   - ab) az adós által a kölcsönbeadóval kötött munkaerő-kölcsönzési szerződésben foglalt, az adóst, mint kölcsönvevőt terhelő díjból az adóshoz kölcsönzött munkavállalók részére járó, a kölcsönbeadó által fizetendő munkabért és egyéb bérjellegű juttatásokat, és
   - ac) az adós által az iskolaszövetkezettel megkötött szerződésben foglalt, az adóst, mint az iskolaszövetkezet szolgáltatásának igénybevevőjét terhelő díj 85%-át – amely az iskolaszövetkezetnek járó díjból a feladatteljesítés során személyesen közreműködő iskolaszövetkezeti tagok részére járó díj és a díjhoz kapcsolódó egyéb juttatások összegét foglalja magában –, továbbá
-  - ad) ha a felszámolás kezdő időpontját megelőzően esedékessé vált munkabért és egyéb bérjellegű juttatásokat a felszámoló a felszámolás kezdő időpontja után fizette ki, az ezeket terhelő adó- és járulékfizetési kötelezettséget is (ideértve az egészségügyi hozzájárulást);
+  - ad) ha a felszámolás kezdő időpontját megelőzően esedékessé vált munkabért és egyéb bérjellegű juttatásokat a felszámoló a felszámolás kezdő időpontja után fizette ki, az ezeket terhelő adó- és járulékfizetési kötelezettséget is;
 - b) a felszámolás kezdő időpontja után az adós gazdasági tevékenységének ésszerű befejezésével, továbbá vagyonának megőrzésével kapcsolatos költségek, ideértve a környezeti károsodások és terhek rendezésének, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításának, valamint a termőföldvédelmi követelmények betartásának a költségeit is, továbbá a 27/A. § (13) bekezdése szerint létesített polgári jogi jogviszonnyal összefüggésben felmerült kiadásokat, valamint az adósnak azokat a tartozásait, adó-, járulék- és egyéb közteherfizetési, kártérítési, kártalanítási kötelezettségeit, amelyek a felszámolási eljárás kezdő időpontja utáni gazdasági tevékenységből keletkeztek, kivéve a nyereségből fizetendő adókat;
 - c) a vagyon értékesítésével és a követelések érvényesítésével kapcsolatos igazolt költségek;
 - d) az adóst terhelő, a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből kapott támogatás;

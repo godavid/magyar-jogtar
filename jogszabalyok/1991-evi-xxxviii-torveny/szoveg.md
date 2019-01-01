@@ -179,7 +179,7 @@ kapcsolatos ügyek.
 - c) különösen indokolt esetben sem adható a b) pontban foglaltaknál hosszabb vagy többszöri határidő-hosszabbítás;
 - d) szabadalmi bejelentésen mintaoltalmi bejelentést, szabadalmon mintaoltalmat, szabadalmi lajstromon mintaoltalmi lajstromot kell érteni, a szabadalmi bejelentés közzétételére és a Szabadalmi Jogi Szerződés alkalmazására vonatkozó rendelkezések pedig nem alkalmazhatók.
 
-(2) A szabadalmi törvénynek a mintaoltalmi eljárások igazgatási szolgáltatási díjaira és a mintaoltalom fenntartási díjaira vonatkozó rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
+(2) Mintaoltalmi ügyekben a szabadalmi törvénynek a kérelem tartalmára, a beadványokkal kapcsolatos eljárásra és az azokkal kapcsolatban alkalmazható jogkövetkezményekre vonatkozó általános rendelkezéseit, valamint a mintaoltalmi eljárások igazgatási szolgáltatási díjaira és a mintaoltalom fenntartási díjaira vonatkozó rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
 
 (3) Ha ugyanarra a tárgyra mintaoltalmat és szabadalmi oltalmat egyaránt szereztek, az egyik oltalom megsemmisítésére irányuló eljárásban hozott jogerős döntés a párhuzamos oltalom érvényességével kapcsolatos eljárásban a Szellemi Tulajdon Nemzeti Hivatalát – a döntés megállapításainak erejéig – köti.
 
@@ -191,9 +191,9 @@ kapcsolatos ügyek.
 
 (2) A mintaoltalmi bejelentésnek bejelentési kérelmet, a minta leírását igénypontokkal, rajzot és – ha szükséges – egyéb mellékletet kell tartalmaznia.
 
-(3) A bejelentés részletes alaki szabályait az e törvény felhatalmazása alapján kiadott miniszteri rendelet állapítja meg.
+(3) A szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl a bejelentési kérelemnek tartalmaznia kell a feltaláló nevét és lakcímét, vagy utalást arra, hogy a feltaláló nevének és lakcímének a mintaoltalmi iratokon való feltüntetése mellőzését kéri, és hogy a feltaláló a nevét és lakcímét külön lapon adja meg. A mintaoltalmi bejelentést egyebekben a mintaoltalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
-(4) A mintaoltalmi bejelentésért a szabadalmi törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni; a bejelentési díjat a bejelentés napját követő két hónapon belül kell megfizetni.
+(4) A mintaoltalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni; a bejelentési díjat a bejelentés napját követő két hónapon belül kell megfizetni.
 
 (5) Ha a bejelentés melléklete idegen nyelven készült, a magyar nyelvű mintaoltalmi leírást igényponttal, valamint a rajzot a bejelentés napjától számított négy hónapon belül kell benyújtani.
 
@@ -202,7 +202,7 @@ kapcsolatos ügyek.
 29/A. § (1) A mintaoltalmi bejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 - a) utalást a mintaoltalom iránti igényre,
-- b) a bejelentő azonosítására alkalmas és a vele való kapcsolatfelvételt lehetővé tevő adatokat, valamint
+- b) a bejelentő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, képviselet esetén a képviselő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, vagy a bejelentővel való kapcsolatfelvételt lehetővé tevő más adatot, valamint
 - c) leírást és az abban hivatkozott rajzot, függetlenül attól, hogy azok megfelelnek-e az egyéb követelményeknek.
 
 (2) A bejelentési nap elismeréséhez a leírás és a rajz benyújtása helyett elsőbbségi iratra is elegendő utalni.
@@ -278,7 +278,7 @@ kapcsolatos ügyek.
 
 ### A szabadalmi törvény különös eljárási szabályainak alkalmazása
 
-36/A. § A mintaoltalmi bejelentés elsőbbsége, minősítése, módosítása, megosztása, valamint a mintaoltalom megszűnésének megállapítása és újra érvénybe helyezése, megsemmisítése, továbbá a mintaoltalmi leírás értelmezése és a nemleges megállapítás tekintetében az e törvényben nem szabályozott kérdésekben a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni.
+36/A. § A mintaoltalmi bejelentés elsőbbsége, minősítése, módosítása, megosztása, valamint a mintaoltalom megszűnésének megállapítása és újra érvénybe helyezése, megsemmisítése, továbbá az atomenergiával kapcsolatos bejelentésről történő tájékoztatás, valamint a mintaoltalmi leírás értelmezése és a nemleges megállapítás tekintetében az e törvényben nem szabályozott kérdésekben a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni.
 
 ### Oltalmazhatósági vélemény
 
@@ -286,7 +286,7 @@ kapcsolatos ügyek.
 
 (2) Az oltalmazhatósági vélemény elkészítése a mintaoltalmi bejelentés vizsgálatától elkülönülten folyik, és a mintaoltalom megadható az oltalmazhatósági vélemény elkészültét megelőzően is.
 
-(3) Az oltalmazhatósági véleményért a szabadalmi törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(3) Az oltalmazhatósági véleményért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 (4) Ha a megfizetés időpontjában a mintaoltalmi igény, illetve a mintaoltalom jogosultja kizárólag maga a feltaláló, az oltalmazhatósági vélemény díjának a felét köteles megfizetni. A kedvezmény akkor illeti meg a feltalálót, ha a bejelentéssel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét, vagy ha a mintaoltalom olyan bejelentésen alapul, amellyel kapcsolatban nem igényelték valamely külföldi bejelentés elsőbbségét. Az e bekezdésben foglalt rendelkezéseket alkalmazni kell akkor is, ha – több feltaláló esetén – a feltalálók valamelyike a mintaoltalmi igényéről, illetve a mintaoltalomról feltalálótársa javára lemondott, továbbá, ha a feltalálók bármelyike helyébe az örököse lép.
 
@@ -338,8 +338,8 @@ kapcsolatos ügyek.
 (11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
 
 - a) az eljáró bíróság megnevezését,
-- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
-- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+- b) a kérelmezőnek a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott azonosító adatait, illetve ha van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott azonosító adatait és biztonságos kézbesítési szolgáltatási címét.
 
 (11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
 

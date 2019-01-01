@@ -18,7 +18,7 @@ Az államháztartás feladatainak ellátásához szükséges bevételek biztosí
   - c) 12. § a) pontjában meghatározott adómentességének megszűnése;
   - d) törvényben kihirdetett nemzetközi szerződésben vagy törvényben meghatározott adómentesség megszűnése;
 - 2. átalakítás: a közúti gépjármű olyan műszaki megváltoztatása, amelynek eredményeként az e törvény hatálya alá nem tartozó gépjárműből személygépkocsi vagy motorkerékpár jön létre, illetőleg a személygépkocsi vagy a motorkerékpár más adókategóriába kerül;
-- 3. személygépkocsi: a Kereskedelmi Vámtarifának az adózás rendjéről szóló törvényben (a továbbiakban: Art.) szereplő időpont szerinti állapota alapján a 8703 vámtarifaszám alá tartozó jármű, ide nem értve a mentőautót, a halottszállító kocsit és az e törvény szerinti motorkerékpárt;
+- 3. személygépkocsi: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. melléklete szerinti Kombinált Nómenklatúrában meghatározott, az adózás rendjéről szóló törvényben (a továbbiakban: Art.) szereplő időpont szerinti állapot alapján a 8703 vámtarifaszám alá tartozó jármű, ide nem értve a mentőautót, a halottszállító kocsit és az e törvény szerinti motorkerékpárt;
 - 4. új gépjármű: az a személygépkocsi, illetve motorkerékpár, amely az adó alanya által történt megszerzésének időpontjában legfeljebb 6000 kilométert futott, vagy amelynek első külföldi forgalomba helyezésétől számítva legfeljebb 6 hónap telt el;
 - 5. muzeális jellegű gépjármű: a gépjárműadóról szóló 1991. évi LXXXII. törvény 18. § 14. pontjában meghatározott gépjármű;
 - 6. nyilvántartásba vétel: a gépjármű közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti jármű nyilvántartásba vétele;
@@ -278,17 +278,18 @@ Adótételek az egyes adókategóriákban
 | 6. | Otto-motoros személygépkocsi 2001–2500 cm3-ig és dízelmotoros személygépkocsi 2501–3000 cm3-ig | 265 000 Ft/db | 1 060 000 Ft/db | 1 590 000 Ft/db | 2 120 000 Ft/db | 3 180 000 Ft/db |
 | 7. | Otto-motoros személygépkocsi 2500 cm3 felett és dízelmotoros személygépkocsi 3000 cm3 felett | 400 000 Ft/db | 1 600 000 Ft/db | 2 400 000 Ft/db | 3 200 000 Ft/db | 4 800 000 Ft/db |
 | 8. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti környezetkímélő gépkocsi (környezet- védelmi osztályba sorolása: 5E, 5P, 5N, 5Z) | 0 Ft/db |  |  |  |  |
-| 9. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, vagy az 1.–8. kategória alá nem tartozó egyéb személygépkocsi. | 76 000 Ft/db |  |  |  |  |
+| 9. | A 6/1990. (IV. 12.) KöHÉM rendelet szerinti hibrid (elektromos és Ottó-, vagy elektromos és dízelmotoros) hajtású, vagy az 1.–8. kategória alá nem tartozó más személygépkocsi. | 76 000 Ft/db |  |  |  |  |
 
 - 2. Az adó összege motorkerékpárok esetén A gépjármű e törvény szerinti kategóriába sorolását, továbbá a gépjármű műszaki és környezetvédelmi osztályba sorolási adatait a közlekedési hatóság a forgalomba helyezés engedélyezésének eljárásában állapítja meg, és a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 1. számú melléklet II. részében meghatározott Műszaki adatlapon rögzíti.
 
 | Adókategória | A motorkerékpár műszaki tulajdonságai | Adótétel |
 | --- | --- | --- |
-| 1. | 80 cm3-ig | 20 000 Ft/db |
-| 2. | 81–125 cm3-ig | 95 000 Ft/db |
-| 3. | 126–500 cm3-ig | 135 000 Ft/db |
+| 1. | 80 cm3-ig | 15 000 Ft/db |
+| 2. | 81–125 cm3-ig | 50 000 Ft/db |
+| 3. | 126–500 cm3-ig | 85 000 Ft/db |
 | 4. | 501–900 cm3-ig | 180 000 Ft/db |
 | 5. | 901 cm3-től | 230 000 Ft/db |
+| 6. | Elektromos és hibrid meghajtású motorkerékpárok | 0 Ft/db |
 
 #### II. rész rész
 

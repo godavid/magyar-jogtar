@@ -54,7 +54,7 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
 - 20. érvényesítési adat: az eIDAS Rendelet 3. cikk 40. pontja szerinti adat;
 - 21. érvényességi lánc: az elektronikus dokumentum vagy annak lenyomata és azon egymáshoz rendelhető információk (így különösen azon tanúsítványok, a tanúsítványokkal kapcsolatos információk, az aláírás vagy bélyegző létrehozásához használt adatok, a tanúsítvány aktuális állapotára, visszavonására vonatkozó információk, valamint a tanúsítványt kibocsátó szolgáltató érvényességi adatára és annak visszavonására vonatkozó információk) sorozata, amelyek segítségével megállapítható, hogy az elektronikus dokumentumon elhelyezett fokozott biztonságú vagy minősített elektronikus aláírás, bélyegző vagy időbélyegző, az aláírás, bélyegző vagy időbélyegző elhelyezésének időpontjában érvényes volt;
 - 22. fokozott biztonságú elektronikus aláírás: az eIDAS Rendelet 3. cikkének 11. pontja szerinti aláírás;
-- 23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában nem minősül gazdálkodó szervezetnek a lakásszövetkezet, valamint az adószámmal nem rendelkező egyesület, alapítvány.
+- 23. gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott, belföldi székhellyel rendelkező gazdálkodó szervezet, azzal az eltéréssel, hogy e törvény alkalmazásában nem minősül gazdálkodó szervezetnek az adószámmal nem rendelkező egyesület, alapítvány.
 - 24. hitelesítési rend: olyan bizalmi szolgáltatási rend, amely bizalmi szolgáltatás keretében kibocsátott tanúsítványra vonatkozik;
 - 25. információátadás: információk együttműködő szervek közötti átadása és átvétele;
 - 26. információátadási szolgáltatás: olyan szolgáltatás, amelynek keretében egy együttműködő szerv egyszerű vagy automatikus információátadás útján adatokat vagy iratokat ad át egy másik együttműködő szervnek;
@@ -226,7 +226,7 @@ teljesítheti.
 - b) ha a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza, hogy a küldemény átvételét a címzett megtagadta, a megtagadásra vonatkozó igazolásban feltüntetett időpontban, vagy
 - c) ha a hivatalos elérhetőséget biztosító szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
 
-(5) A gazdálkodó szervezet jogosult az (1) bekezdésben meghatározottakon túl további hivatalos elérhetőségek és azokhoz tartozó ügyintézési rendelkezések megadására, feltéve, hogy a további elérhetőségek tekintetében vállalja a (6) bekezdés szerinti követelmények teljesítését.
+(5)
 
 (6) Hivatalos elérhetőségként olyan elérhetőség adható meg, amely
 
@@ -336,11 +336,15 @@ követően végezhet elektronikus azonosításhoz kötött eljárási cselekmén
 - a) a képviseleti jogot igazoló adatot valamely jogszabállyal létesített nyilvántartásnak közhiteles adatként tartalmaznia kell,
 - b) az ügyfél ügyintézési rendelkezésében meghatalmazást adott a képviselő részére az eljárási cselekmény elvégzésére, jognyilatkozat megtételére.
 
+(4) Az (1) bekezdés b) pontja szerinti esetben az elektronikus azonosítás szolgáltatást nyújtó szolgáltató a gazdálkodó szervezet nevében eljáró természetes személy természetes személyazonosító adatait az elektronikus ügyintézést biztosító szerv részére a képviselő azonosítása céljából átadja. Az adatkezelés jogszerűségéért az elektronikus ügyintézést biztosító szerv felel.
+
+(5) Az (1) bekezdés b) pontja szerinti képviselő azonosításával egyenértékű, ha az elektronikus nyilatkozat benyújtása szolgáltatás a gazdálkodó szervezet ügyfél által használt gépi interfészen keresztül történik és a képviselő azonosítása az adott ügyben szükségtelen, vagy az egyéb módon – így különösen a gazdálkodó szervezet ügyfél által megadott természetes személyazonosító adatok vagy a képviselő által használt bizalmi szolgáltatási tanúsítvány alapján – biztosított.
+
 #### 10. Azonosítók és adatok igazolásának kötelezettsége
 
 20. § (1) Az ügyfél azonosításához szükséges adatok kivételével az 1. § 17. pont a)–i) alpontja szerinti elektronikus ügyintézést biztosító szerv az ügyféltől nem kérheti olyan adat igazolását, amelyet az érintett szerv az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírt kötelezettsége alapján közzétett, vagy amelyet jogszabállyal rendszeresített közhiteles nyilvántartásnak tartalmaznia kell.
 
-(2) Amennyiben az elektronikus ügyintézést biztosító szerv az (1) bekezdés szerinti adatot információátadás útján szerzi be, az ügyintézési határidőbe a megkeresés teljesítésének időtartama, de legfeljebb 3 munkanap nem számít bele.
+(2) Amennyiben az elektronikus ügyintézést biztosító szerv az (1) bekezdés szerinti adatot információátadás útján szerzi be, az ügyintézési határidőbe a megkeresés teljesítésének időtartama, de legfeljebb 3 munkanap nem számít bele, kivéve az általános közigazgatási rendtartásról szóló törvény hatálya alá tartozó hatósági eljárásokat.
 
 21. § (1) Ha jogszabály az ügyfél számára hatósági igazolvánnyal rendszeresített, olyan azonosító kód igazolását írja elő, amelyhez tartozó titkosított kapcsolati kód az összerendelési nyilvántartásban szerepel, az ügyfél az elektronikus ügyintézést biztosító szerv előtti elektronikus és nem elektronikus ügyintézése esetén valamely más ilyen azonosító kódot igazoló, személyazonosításra alkalmas más hatósági igazolványa bemutatásával is eleget tehet e kötelezettségének.
 
@@ -458,7 +462,7 @@ szükséges tájékoztatást kérni és kapni.
 - a) az azonos hatáskörű szervek közül kijelölheti azt az elektronikus ügyintézést biztosító szervet, amely az adott ügy elektronikus intézésére országos illetékességgel kizárólagosan jogosult,
 - b) rendelkezhet úgy, hogy elektronikus ügyintézés esetén az azonos hatáskörű szervek mindegyike országos illetékességgel jár el és az ügyek elosztása objektív szempontok szerint, automatikusan történik meg.
 
-(9) Az állam a (3) bekezdés szerinti elektronikus ügyintézést biztosító információs rendszer működtetéséhez szükséges, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásokat, valamint központi elektronikus ügyintézési szolgáltatásokat az 1. § 17. pont a)–i) alpontja szerinti szerveknek díjmentesen biztosítja.
+(9) Az állam a (3) bekezdés szerinti elektronikus ügyintézést biztosító információs rendszer működtetéséhez szükséges, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásokat, valamint központi elektronikus ügyintézési szolgáltatásokat az 1. § 17. pont a)–i), valamint k) alpontja szerinti szerveknek díjmentesen biztosítja.
 
 (10) Az elektronikus ügyintézést biztosító szerv az elektronikus kapcsolattartási lehetőség megváltozása előtt – az informatikai biztonság sérülésének veszélye vagy bekövetkezése kivételével – a változást a honlapján a változást megelőző 30 nappal közzéteszi és a Felügyeletnek bejelenti. Az elektronikus ügyintézést biztosító szerv a honlapján a módosítást követő tizennégy napon keresztül jelzi annak tényét, hogy a kapcsolattartás módja megváltozott. A kapcsolattartási mód megváltozását jelenti az is, ha az elektronikus ügyintézést biztosító szerv az űrlapot megváltoztatja.
 
@@ -765,6 +769,8 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - c) a külföldi személyek nyilvántartásában.
 
 (5) A regisztrációs szerv az ellenőrzés során kapott adatokat összeveti a természetes személy bemutatott okmányában szereplő adatokkal, illetve megállapítja, hogy a bemutatott okmányban szereplő arcképmás megfeleltethető-e az előtte megjelent személlyel.
+
+(6) A regisztrációs szerv ellenőrzi az okmányazonosító alapján, hogy a külföldi személyek nyilvántartásában az ügyfél által bemutatott okmánnyal történt-e korábban regisztráció. Amennyiben igen, a nyilvántartásba vételt meg kell tagadni.
 
 44. § (1) Ha a természetes személy nem szerepel a 31. § (2) bekezdése szerinti nyilvántartások egyikében sem, és a bemutatott okmányban szereplő arcképmás megfeleltethető a megjelent személlyel, a regisztrációs szerv a kérelmező természetes személy arcképmásának és aláírásának a kormányrendeletben meghatározott módja szerinti rögzítése mellett a természetes személyt felveszi a külföldi személyek nyilvántartásába.
 
@@ -1188,7 +1194,7 @@ továbbítják.
 
 (4) Törvény vagy kormányrendelet valamely központi elektronikus ügyintézési szolgáltatás igénybevételét az együttműködés során is kötelezővé teheti.
 
-(5) A Kormány az együttműködéshez, valamint a belső elektronikus ügymenethez szükséges szabályozott elektronikus ügyintézési szolgáltatásokat és központi elektronikus ügyintézési szolgáltatásokat az 1. § 17. pont a)–i) pontja szerinti jogalanyoknak ingyenesen biztosítja.
+(5) A Kormány az együttműködéshez, valamint a belső elektronikus ügymenethez szükséges szabályozott elektronikus ügyintézési szolgáltatásokat és központi elektronikus ügyintézési szolgáltatásokat az 1. § 17. pont a)–i), valamint k) alpontja szerinti jogalanyoknak díjmentesen biztosítja.
 
 ### XV. Fejezet — AZ EGYÜTTMŰKÖDÉS KOORDINÁCIÓJA ÉS FELÜGYELETE
 
@@ -1624,9 +1630,10 @@ kell biztosítani.
 - k) a Felügyelet eljárásának részletes szabályait,
 - l) a 14. § (7) bekezdése szerinti jogalanyok körét,
 - m) az országos telefonos ügyfélszolgálat működésének részletes szabályait,
-- n) a papír alapú dokumentumokról elektronikus úton történő másolat készítésére vonatkozó részletes szabályokat,
+- n) a papíralapú dokumentumokról elektronikus úton történő másolat készítésére, valamint az elektronikus irat hiteles papíralapú irattá alakítására vonatkozó részletes szabályokat,
 - o) az elektronikus ügyintézést biztosító szerveknek az ügyek intézésével kapcsolatos adatai biztonsági mentésének rendjét és gyakoriságát, valamint az adatok őrzéséért felelős szervet,
-- p) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket.
+- p) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket,
+- q) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az 1. § 17. pont j) és l) alpontja szerinti jogalanyok általi használatáért számítható díj megállapításának módját,
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -1713,7 +1720,7 @@ kell biztosítani.
 
 (6a) 2018. december 31-ig adóügyekben az elektronikus ügyintézést biztosító szervvel történő elektronikus kapcsolattartás során a gazdálkodó szervezet ügyfél a gazdálkodó szervezet hivatalos elérhetősége helyett a gazdálkodó szervezet nevében az ügyben eljáró természetes személy [a (6a) és (6b) bekezdés alkalmazásában a továbbiakban: természetes személy] azonosítása mellett a természetes személy 35. § (3) bekezdése szerinti tárhelyét is használhatja.
 
-(6b) A (6a) bekezdésben megjelölt határidőig az ügyfél vagy képviselője eltérő rendelkezése hiányában az (1a) bekezdés szerinti ügyekben eljáró elektronikus ügyintézést biztosító szerv a gazdálkodó szervezet ügyfél részére címzett küldeményét a gazdálkodó szervezet ügyfél hivatalos elérhetősége helyett a természetes személynek az elektronikus ügyintézést biztosító szerv az általa ismert, 35. § (3) bekezdése szerinti tárhelyére küldi. Eltérő rendelkezésnek kell tekinteni, ha az adott ügyben a gazdálkodó szervezet ügyfél hivatalos elérhetőségét használta az elektronikus ügyintézést biztosító szervvel való kapcsolattartás során.
+(6b) A (6a) bekezdésben megjelölt határidőig az ügyfél vagy képviselője eltérő rendelkezése hiányában a (6a) bekezdés szerinti ügyekben eljáró elektronikus ügyintézést biztosító szerv a gazdálkodó szervezet ügyfél részére címzett küldeményét a gazdálkodó szervezet ügyfél hivatalos elérhetősége helyett a természetes személynek az elektronikus ügyintézést biztosító szerv az általa ismert, 35. § (3) bekezdése szerinti tárhelyére küldi. Eltérő rendelkezésnek kell tekinteni, ha az adott ügyben a gazdálkodó szervezet ügyfél hivatalos elérhetőségét használta az elektronikus ügyintézést biztosító szervvel való kapcsolattartás során.
 
 (6c) A (6b) bekezdés szerinti tárhelyre kézbesített küldemény esetén a 14. § (4) bekezdésében foglalt kézbesítési szabályokat kell alkalmazni.
 

@@ -57,10 +57,10 @@ egyes törvényeknek és törvényi rendelkezéseknek a jogrendszer túlszabály
 - 9.
 - 10.
 - 11.
-- 12.
+- 12. a közteherviselés rendszerének átalakítását célzó törvénymódosításokról szóló 2009. évi LXXVII. törvény,
 - 13.
 - 14.
-- 15.
+- 15. az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvénnyel és a megtakarítások ösztönzésével összefüggő törvénymódosításokról szóló 2009. évi CXVI. törvény,
 - 16.
 - 17.
 - 18.

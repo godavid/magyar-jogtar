@@ -298,7 +298,13 @@ ellátva kell csatolni.
 - a) az ügyben érintett személy, halála után leszármazója, valamint felmenője;
 - b) az igazságszolgáltatási, a bűnüldöző és a nemzetbiztonsági feladatokat ellátó szervek a hatáskörükbe tartozó ügyben, törvényben szabályozott eljárásuk során.
 
-19. § (1) A magyar állampolgárság honosítással vagy visszahonosítással történő megszerzésével kapcsolatos adatszolgáltatást – beleértve a 14. § (1) bekezdésében és a 20/A. §-ban meghatározott adatokat is – az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, az állampolgársági ügyekben eljáró szerv teljesíti más anyakönyvvezetőnek, a személyiadat- és lakcímnyilvántartást kezelő szervnek, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, valamint a Központi Statisztikai Hivatalnak.
+19. § (1) A magyar állampolgárság honosítással vagy visszahonosítással történő megszerzésével kapcsolatos adatszolgáltatást – beleértve a 14. § (1) bekezdésében és a 20/A. §-ában meghatározott adatokat is – az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, illetve a 4. § (3), (3a), (6) és (7) bekezdése, illetve az 5. § alapján honosított esetében az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető, külképviseleten történt állampolgársági eskü vagy fogadalomtétel esetén pedig az állampolgársági ügyekben eljáró szerv teljesíti
+
+- a) más anyakönyvvezetőnek, anyakönyvi szervnek,
+- b) a személyiadat- és lakcímnyilvántartást kezelő szervnek,
+- c) az idegenrendészeti hatóságnak,
+- d) menekült, oltalmazott, menedékes vagy befogadott jogállású személy esetében a menekültügyi hatóságnak, valamint
+- e) a Központi Statisztikai Hivatalnak.
 
 (2) A magyar állampolgárság megszűnéséről az állampolgársági ügyekben eljáró szerv értesíti a személyiadat- és lakcímnyilvántartást kezelő szervet, a magyar állampolgárság megszűnésével érintett személy születését és házasságát vagy bejegyzett élettársi kapcsolatát, valamint gyermekének születését nyilvántartó anyakönyvvezetőt, az útlevélhatóságot, továbbá – a potenciális hadköteles és a hadköteles személyek esetében – Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervét.
 

@@ -62,7 +62,7 @@ során kell alkalmazni.
 - 11. kapcsolattartó: az a személy, aki az elítélttel vagy az egyéb jogcímen fogvatartottal jogszabály vagy engedély alapján kapcsolattartásra jogosult,
 - 12. kényszerintézkedés: a büntetőeljárásban, az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében és a nemzetközi bűnügyi jogsegély ügyekben elrendelt szabadságelvonással járó kényszerintézkedés,
 - 12a. kézbesítési cím: az elítélt vagy az egyéb jogcímen fogvatartott által megjelölt, a lakcímétől, értesítési címétől, tényleges tartózkodási helyétől eltérő, a postai úton történő kapcsolattartásra szolgáló cím;
-- 13. munkáltatás: a reintegrációs tevékenység azon formája, amikor az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető munkavégzése szervezetten, rendszeresen, haszon- vagy bevételszerzési céllal, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) által szabályozott munkaviszonytól eltérő, jogszabályban meghatározott feltételekkel és díjazás ellenében történik, az így létrejövő munkáltatási jogviszony alanyai munkáltatóként a bv. intézet, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vagy a bv. szerv szerződése és az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető hozzájárulása alapján más gazdálkodó szervezet, valamint munkavégzőként az elítélt, a kényszerintézkedés hatálya alatt álló személy vagy a szabálysértési elzárásra kötelezett elkövető;
+- 13. munkáltatás: a reintegrációs tevékenység azon formája, amikor az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető munkavégzése szervezetten, rendszeresen, haszon- vagy bevételszerzési céllal, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) által szabályozott munkaviszonytól eltérő, jogszabályban meghatározott feltételekkel és díjazás ellenében történik, az így létrejövő munkáltatási jogviszony alanyai munkáltatóként a bv. intézet, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vagy a bv. szerv szerződése és az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető hozzájárulása alapján más gazdálkodó szervezet, valamint munkavégzőként – a reintegrációs őrizetben lévő elítélt kivételével – az elítélt, a kényszerintézkedés hatálya alatt álló személy vagy a szabálysértési elzárásra kötelezett elkövető;
 - 14. munkaterápiás foglalkoztatás: a reintegrációs tevékenység azon formája, amikor elsősorban a kényszergyógykezelt, az előzetes kényszergyógykezelt és a gyógyító-reintegráló csoportba helyezett, valamint a megváltozott munkaképességű vagy egyébként az egészségi állapota miatt a munkáltatásban részt venni nem képes elítélt foglalkoztatása szervezetten, rendszeresen, e törvényben meghatározott feltételekkel és térítési díj ellenében, büntetés-végrehajtási jogviszony keretében történik,
 - 14a. rendfokozat: a Magyar Honvédség tényleges állományú tagja esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
 - 14b. tényleges tartózkodási hely: lakcím hiányában vagy a lakcímtől eltérően az az ingatlan, ahol az elítélt vagy az egyéb jogcímen fogvatartott ténylegesen tartózkodik, továbbá közérdekű munka vagy pártfogó felügyelet végrehajtása szempontjából az elítélt munkahelye,
@@ -171,7 +171,12 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 (4) Ha a büntetés-végrehajtási bíró határozatában úgy rendelkezett, hogy részben vagy egészben meg nem térített polgári jogi igényt, illetve bűncselekmény miatt megállapított kártérítést vagy sérelemdíjat a kártalanítás összegéből le kell vonni, az ennek megfelelő összeget a polgári jogi igény, illetve a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultja részére, a kártalanítási összeg fennmaradó részét az elítélt vagy az egyéb jogcímen fogvatartott részére kell kifizetni. Ha adat merül fel arra vonatkozóan, hogy gyermektartásdíj behajtása iránt végrehajtási eljárás indult, a kifizetésre csak a végrehajtó ennek lefoglalására irányuló végrehajtási cselekményének foganatosítását követően – a 10/A. § (8) bekezdésében foglaltakra figyelemmel – kerülhet sor azzal, hogy a követelés kielégítésére elsősorban az elítélt vagy az egyéb jogcímen fogvatartott részére kifizetendő összeg szolgál. Ez utóbbi esetben, ha a követelésfoglalás a 70/B. § (6) bekezdése szerinti teljesítési határnapot megelőző nyolcadik munkanapig nem érkezik meg a miniszterhez, akkor a kártalanítás kifizetésére annak figyelmen kívül hagyásával kerül sor.
 
-(5) A kifizetés történhet az elítéltnek vagy az egyéb jogcímen fogvatartottnak az általuk megjelölt számlaszámra utalással, illetve a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultjának rendelkezése szerint az általuk megjelölt számlaszámra utalással vagy készpénzben. Ha az elítélt vagy az egyéb jogcímen fogvatartott még fogva van, kérheti a kártalanítás összegének letéti számlájára való átutalását.
+(5) A kifizetés
+
+- a) az elítéltnek vagy az egyéb jogcímen fogvatartottnak a megjelölt számlaszámra utalással, illetve ha fogva van – kérelmére – letéti számlájára való átutalással,
+- b) a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultjának a megjelölt számlaszámra utalással vagy készpénzben
+
+történik.
 
 (5a) A kártalanítást megállapító határozatba foglalt kifizetési módnak az (5) bekezdés keretei között történő, illetve a teljesítési adatok, így különösen a számlaszám megváltoztatását az elítélt vagy az egyéb jogcímen fogvatartott, a védő, illetve a jogi képviselő, valamint a polgári jogi igény vagy a bűncselekmény miatt megállapított kártérítés vagy sérelemdíj jogosultja a büntetés-végrehajtási bírónál megtett bejelentéssel kezdeményezheti. A kifizetési mód, illetve a teljesítési adatok megváltozásáról a büntetés-végrehajtási bíró haladéktalanul tájékoztatja az igazságügyért felelős minisztert. A változás akkor vehető figyelembe, ha a kifizetés a kártalanítást megállapító határozatban foglaltaknak megfelelően még nem történt meg.
 
@@ -1165,6 +1170,18 @@ tegyen újabb előterjesztést.
 
 61/D. § E cím alkalmazásával – ideértve a feltételes szabadságra bocsátásról az elítélt meghallgatásának mellőzésével – lefolytatott eljárásokban a 61/A. § (5) és (6) bekezdésében foglalt kivétellel bírósági titkár nem járhat el.
 
+### A próbaidőre felfüggesztett szabadságvesztés végrehajtásának elrendelése
+
+61/E. § (1) A pártfogó felügyelet magatartási szabályainak súlyos megszegése miatt a próbaidőre felfüggesztett szabadságvesztés végrehajtásának elrendeléséről a büntetés-végrehajtási bíró az ügyészség indítványára, az elítélt meghallgatása után határoz.
+
+(2) Az eljárást az elítélt lakcíme, illetve tényleges tartózkodási helye szerint illetékes büntetés-végrehajtási bíró folytatja le.
+
+(3) A próbaidőre felfüggesztett szabadságvesztés végrehajtását elrendelő végzés elleni fellebbezésnek halasztó hatálya van.
+
+(4) Ha a próbaidőre felfüggesztett szabadságvesztés végrehajtását nem rendelik el, a bűnügyi költséget az állam viseli.
+
+(5) A büntetés-végrehajtási bíró a szabadságvesztés megkezdésére fontos okból halasztást engedélyezhet.
+
 ### Az elzárás végrehajthatósága megszűnésének megállapítása
 
 62. § (1) A büntetés-végrehajtási bíró hivatalból, vagy a bv. intézet előterjesztése alapján, a 278. §-ban meghatározott ok fennállása esetén az iratok alapján megállapítja az elzárás végrehajthatósága megszűnését. Az eljárásnak az elítélt kérelmére is helye van.
@@ -1233,9 +1250,11 @@ tegyen újabb előterjesztést.
 
 (2) Az eljárást annak az idegenrendészeti hatóságnak a székhelye szerint illetékes büntetés-végrehajtási bíró folytatja le, amelynek területén az elítélt tartózkodik.
 
+(2a) Ha az eljárás kérelemre indul és az elítélt idegenrendészeti őrizetben vagy kitoloncolási őrizetben van, a büntetés-végrehajtási bíró a kérelmet az ügyészség indítványának beérkezésétől számított nyolc napon belül bírálja el. Ez esetben a büntetés-végrehajtási bíró az elítéltet az idegenrendészeti hatóság útján idézi.
+
 (3) A büntetés-végrehajtási bíró az idegenrendészeti hatóság kezdeményezése alapján az ügyészség indítványára, de legalább kétévenként megvizsgálja a kiutasítás végrehajthatóságát.
 
-(4) Ha a (2) bekezdés szerinti eljárás hivatalból indult, a büntetés-végrehajtási bíró az elítélt meghallgatását mellőzheti.
+(4) A büntetés-végrehajtási bíró az iratok alapján hozhatja meg a döntést, ha az ügyészség indítványa a kiutasítás végrehajthatósága kizártságának megállapítására irányul. Az eljárásban bírósági titkár nem járhat el.
 
 (4a) Ha az (1) bekezdés szerinti eljárás hivatalból indult, és az elítélt ismeretlen helyen tartózkodik, az eljárás nem függeszthető fel. Az eljárást annak az idegenrendészeti hatóságnak a székhelye szerint illetékes büntetés-végrehajtási bíró folytatja le, amelynek az illetékességi területén az elítélt utolsó ismert tartózkodási helye volt. Ez esetben a büntetés-végrehajtási bíró az elítélt számára hivatalból védőt rendel ki és a döntést iratok alapján hozza meg; az ügyben bírósági titkár nem járhat el.
 
@@ -1559,7 +1578,7 @@ végrehajtásához szükséges adatokat ismerheti meg és kezelheti.
 
 (6) A (3)–(4a) bekezdés szerinti felhívást olyan időpontban kell kiadni, hogy azt az elítélt a jelentkezési kötelezettség napja előtt legalább tizenöt nappal megkapja.
 
-(7) Ha a bv. bíró megállapítja a szabadságvesztés végrehajthatóságát, úgy az értesítőlap másolatának megküldésével értesíti a BVOP-t a szabadságvesztés megkezdésére felhívható elítéltekről.
+(7) Ha a büntetés-végrehajtási bíró megállapítja a szabadságvesztés végrehajthatóságát, úgy az értesítőlap másolatának megküldésével értesíti a BVOP-t a szabadságvesztés megkezdésére felhívható elítéltekről.
 
 (8) A BVOP által kiadott felhívással kapcsolatban panasznak csak abban az esetben van helye, ha az nem felel meg a jogszabályban meghatározott követelményeknek, vagy ha a benne foglalt jelentkezési kötelezettség nem áll összhangban az e törvényben meghatározottakkal.
 
@@ -3063,8 +3082,17 @@ az ott meghatározott időben és az úti cél meghatározása mellett hagyhatja
 
 188. § (1) A szabadságvesztésre ítélt feltételes szabadságra bocsátható, ha
 
-- a) a büntetés végrehajtása alatt tanúsított kifogástalan magatartására, valamint arra a készségére tekintettel, hogy törvénytisztelő életmódot fog folytatni, alaposan feltehető, hogy a büntetés célja további szabadságelvonás nélkül is elérhető, és
-- b) a határozott ideig tartó szabadságvesztésnek a Btk. 38. § (2) bekezdése szerinti vagy a bíróság által az ügydöntő határozatban megállapított részét, az életfogytig tartó szabadságvesztés esetén a bíróság által a Btk. 43. § (1) bekezdése alapján az ügydöntő határozatban meghatározott tartamot letöltötte.
+- a) a határozott ideig tartó szabadságvesztésnek a bíróság által meghatározott részét vagy az életfogytig tartó szabadságvesztésnek a bíróság által meghatározott tartamát letöltötte, és
+- b) alaposan feltehető, hogy a büntetés célja további szabadságelvonás nélkül is elérhető.
+
+(1a) Az (1) bekezdés b) pontjában meghatározott feltétel szempontjából a büntetés-végrehajtási bíró különösen
+
+- a) az elítélt által elkövetett bűncselekményt, a kiszabott büntetés tartamát és a büntetésből még végrehajtásra váró részt,
+- b) az elítélt büntetés végrehajtása alatt tanúsított magatartását,
+- c) az elítéltnek a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
+- d) az elítélt törvénytisztelő életmód folytatására vonatkozó készségét
+
+vizsgálja.
 
 (2) Ha az elítélt által a Btk. 92–92/B. §-a szerinti beszámításra figyelemmel indokolt, a feltételes szabadságra bocsátás tárgyában a bv. intézet soron kívül, egyébként a feltételes szabadságra bocsátás lehetséges időpontja előtt három hónappal tesz előterjesztést a büntetés-végrehajtási bírónak. Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
 
@@ -4212,6 +4240,8 @@ más munkahelyen célszerű,
 
 (1a) Ha a Be. 111. §-a alapján a bíróság, az ügyészség vagy a nyomozó hatóság a törvényben meghatározott, kötelező munkáltatói intézkedés alkalmazása érekében tájékoztatta a terhelt munkáltatóját, a büntetés-végrehajtási bíró a foglalkozástól eltiltás végrehajtása végett felhívást küld a munkáltatónak.
 
+(1b) Ha a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 55. §-a alapján a foglalkozástól eltiltásról más tagállam hatóságát tájékoztatni kell, és nincs olyan nyilvántartást vezető szerv, amelyet az (1) bekezdés alapján a büntetés-végrehajtási bíró felhívott, a tájékoztatási kötelezettséget a büntetés-végrehajtási bíró felhívása alapján a jogszabályban erre kijelölt szerv teljesíti.
+
 (2) A foglalkozástól eltiltás hatálya alatt álló részére – a Btk. 102. §-a szerinti előzetes mentesülése esetén is – olyan hatósági bizonyítványt kell kiállítani, amely tartalmazza, hogy a bíróság az elítéltet milyen foglalkozástól tiltotta el, és annak tartama előreláthatóan mikor jár le.
 
 (3) Jogszabály a foglalkozástól eltiltás esetén a szakképzettséget igénylő foglalkozás újbóli gyakorlását a foglalkozáshoz szükséges jártasság, alkalmasság igazolásától teheti függővé. Az elítélt a foglalkozás újbóli gyakorlását mindaddig nem kezdheti meg, amíg a foglalkozáshoz szükséges jártasságát, alkalmasságát a jogszabályban előírt módon nem igazolja.
@@ -4305,7 +4335,7 @@ más munkahelyen célszerű,
 - e) a törvényben kihirdetett nemzetközi szerződéssel létrehozott szervezet közgyűlésének vagy testületének,
 - f) az illetékes ügyvédi kamarának.
 
-(2) Ha katonai rendfokozattal rendelkező elítélttel szemben nem katonai büntetőeljárásban alkalmaztak közügyektől eltiltást, a közügyektől eltiltásról kiállított – és a soron következő római számmal ellátott – értesítőlapot
+(2) Ha katonai rendfokozattal rendelkező elítélttel szemben nem katonai büntetőeljárásban alkalmaztak közügyektől eltiltást, a közügyektől eltiltásról kiállított értesítőlapot
 
 - a) nyugállományú és kiképzett tartalékos személy esetén a Honvédség katonai igazgatási és központi adatfeldolgozó szervének,
 - b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó elítélt esetén a munkáltatói jogkört gyakorlónak
@@ -4436,7 +4466,7 @@ kezdődik.
 
 (4) A magatartási szabályok megtartását a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő ellenőrzi, abban a rendőrség a 310. § (4) bekezdése szerint vagy a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő megkeresésére közreműködik.
 
-(5) Ha a pártfogó felügyelet eredményes végrehajtása érdekében a külön magatartási szabály módosítása vagy mellőzése indokoltnak tűnik, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő az ellenőrzési tapasztalatai, vagy a rendőrség kezdeményezése vagy a pártfogolt kérelme alapján a külön magatartási szabály megváltoztatásának indítványozására az ügyészségnek javaslatot tesz.
+(5) Ha a pártfogó felügyelet eredményes végrehajtása érdekében a külön magatartási szabály módosítása vagy mellőzése indokoltnak tűnik, a pártfogó felügyelő vagy a büntetés-végrehajtási pártfogó felügyelő az ellenőrzési tapasztalatai, vagy a rendőrség kezdeményezése vagy a pártfogolt kérelme alapján a külön magatartási szabály megváltoztatására a büntetés-végrehajtási bírónak javaslatot tesz.
 
 ### A magatartási szabályok megszegésének következményei
 
@@ -4458,7 +4488,7 @@ a magatartási szabályokat megszegi, a pártfogó felügyelő a b), c) és d) p
 - c) a Btk. 65. § (4) bekezdése szerint a próbaidő meghosszabbításának vagy a Btk. 66. § (1) bekezdés c) pontja szerint a próbára bocsátás megszüntetésének, vagy
 - d) a Btk. 68. § (2) bekezdése szerint a jóvátételi munka helyett büntetés kiszabásának
 
-lehet helye, azt az ügyészség a bíróságnál indítványozza. Kisebb súlyú szabályszegés esetén az ügyészség a külön magatartási szabályok megváltoztatását is indítványozhatja.
+lehet helye, azt az ügyészség az a)–b) pontban meghatározott esetben a büntetés-végrehajtási bírónál, a c)–d) pontban meghatározott esetben az alapügyben elsőfokon eljárt bíróságnál indítványozza. Kisebb súlyú szabályszegés esetén az ügyészség a külön magatartási szabályok megváltoztatását is indítványozhatja.
 
 ### A fiatalkorúakra vonatkozó rendelkezések
 
@@ -5782,11 +5812,11 @@ között.
 
 424. § (1) A kényszergyógykezelés végrehajtására vonatkozó szabályokat – a kényszergyógykezelés felülvizsgálatára, megszüntetésére, megszűnésére, valamint az adaptációs szabadságra és az elbocsátott kényszergyógykezelt pszichiátriai gyógykezelésére való előterjesztésre vonatkozó szabályok kivételével – az e fejezetben foglalt eltérésekkel az előzetes kényszergyógykezelés végrehajtása során is alkalmazni kell.
 
-(2) Az ideiglenes kényszergyógykezelés kezdő napja az a nap, amelyen a beteget az IMEI-be befogadták. Ha az ideiglenes kényszergyógykezelést megelőzően a beteg elmeállapotát az IMEI-ben megfigyelték, úgy ennek időtartamát az ideiglenes kényszergyógykezelés tartamába nem lehet beszámítani; ez esetben az ideiglenes kényszergyógykezelés az elrendelés napján kezdődik.
+(2) Az előzetes kényszergyógykezelés kezdő napja az a nap, amelyen a beteget az IMEI-be befogadták. Ha az előzetes kényszergyógykezelést megelőzően a beteg elmeállapotát az IMEI-ben megfigyelték, úgy ennek időtartamát az előzetes kényszergyógykezelés tartamába nem lehet beszámítani; ez esetben az előzetes kényszergyógykezelés az elrendelés napján kezdődik.
 
-(3) Az ideiglenes kényszergyógykezelés költségei az államot terhelik.
+(3) Az előzetes kényszergyógykezelés költségei az államot terhelik.
 
-(4) Az ideiglenes kényszergyógykezelésre utalt beteg
+(4) Az előzetes kényszergyógykezelésre utalt beteg
 
 - a) kórlapján legalább kétnaponként fel kell tüntetni azt is, ha állapot- vagy kezelésváltozás nem következett be,
 - b) más gyógyintézetben történő elhelyezéséről a rendelkezési jogkör gyakorlóját előzetesen – sürgős esetben utólag – értesíteni kell.
@@ -5795,7 +5825,7 @@ között.
 
 (6) Az előzetes kényszergyógykezelt a védőjével és állama konzuli tisztségviselőjével a letartóztatottra vonatkozó szabályok szerint jogosult kapcsolatot tartani. A törvényes képviselet ellátása érdekében a törvényes képviselő az előzetes kényszergyógykezelt személlyel – a fogvatartást foganatosító szerv rendjének a megtartásával – mind szóban, mind írásban és személyesen ellenőrzés mellett tarthat kapcsolatot. Ez esetben a telefonon történő és a személyes kapcsolattartás nem számítható be a rezsimszabályokhoz igazodó kapcsolattartásként. Az előzetes kényszergyógykezelés meghosszabbítása tárgyában tartandó ülésen, ha azt a bíróság az IMEI-ben tartja a védő, a konzuli tisztviselője és a törvényes képviselő részére a belépést biztosítani kell.
 
-(7) A rendelkezési jogkör gyakorlójának rendelkezését az elkülönítés, a fokozott őrzés, a kapcsolattartás tekintetében az előzetes gyógykezelés végrehajtása során meg kell tartani. Ha az IMEI a rendelkezési jogkörbe tartozó döntés szükségességét észleli, erről a rendelkezési jogkör gyakorlóját haladéktalanul értesíti.
+(7) A rendelkezési jogkör gyakorlójának rendelkezését az elkülönítés, a fokozott őrzés, a kapcsolattartás tekintetében az előzetes kényszergyógykezelés végrehajtása során meg kell tartani. Ha az IMEI a rendelkezési jogkörbe tartozó döntés szükségességét észleli, erről a rendelkezési jogkör gyakorlóját haladéktalanul értesíti.
 
 425. § Az előzetes kényszergyógykezelés indokoltságának időszakos felülvizsgálata esetén a kórrajzkivonatot a felülvizsgálat indítványozására köteles ügyészségnek kell megküldeni az előzetes kényszergyógykezelés határidejének lejártát megelőző legalább tizenöt nappal.
 

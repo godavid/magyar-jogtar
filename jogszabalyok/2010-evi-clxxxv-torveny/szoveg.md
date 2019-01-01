@@ -652,7 +652,7 @@ figyelemfelhívás.
   - bc) típusát (általános tematikájú vagy tematikus),
 - c) a médiaszolgáltatás megkezdésének tervezett időpontját.
 
-(2) A lekérhető médiaszolgáltatás médiaszolgáltatója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az a médiaszolgáltatás nyilvántartásba vétele esetén sem keletkezne.
+(2) A lekérhető médiaszolgáltatás médiaszolgáltatója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az a médiaszolgáltatás nyilvántartásba vétele esetén sem keletkezne.
 
 (3) A lekérhető médiaszolgáltatást a Hivatal harminc napon belül nyilvántartásba veszi.
 
@@ -692,7 +692,7 @@ figyelemfelhívás.
 
 (2a) Jogszabály eltérő rendelkezése hiányában a sajtótermék nyilvántartásba vételére irányuló bejelentéshez – nem természetes személy bejelentő esetén – a képviseleti jogosultságot igazoló okirat – így különösen aláírási címpéldány, meghatalmazás – másolatát mellékelni kell.
 
-(3) A sajtótermék alapítója és kiadója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, a Médiatanács tagja, ide nem értve a tudományos eredmények, vagy tudományos ismeretterjesztés közzétételére irányuló sajtótermék alapítását vagy kiadását. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az nyilvántartásba vétele esetén sem keletkezne.
+(3) A sajtótermék alapítója és kiadója nem lehet a Nemzeti Média- és Hírközlési Hatóság Elnöke, elnökhelyettese, főigazgatója, főigazgató-helyettese, a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, a Médiatanács tagja, ide nem értve a tudományos eredmények, vagy tudományos ismeretterjesztés közzétételére irányuló sajtótermék alapítását vagy kiadását. A bejelentőnek nyilatkoznia kell, hogy vele kapcsolatban nem áll fenn a törvény szerinti összeférhetetlenségi ok, illetve az nyilvántartásba vétele esetén sem keletkezne.
 
 (4) A sajtóterméket a Hivatal tizenöt napon belül nyilvántartásba veszi.
 
@@ -1998,7 +1998,7 @@ Ennek keretében:
 
 (3) Az Elnök a megbízatásának megszűnése után nem nevezhető ki újra.
 
-(4) A miniszterelnök az (1) bekezdés szerinti javaslat megtételét megelőzően – a hivatalban lévő Elnök megbízatási idejének lejártát megelőzően legalább hatvan nappal, az elnöki megbízatás megszűnésének más eseteiben a megszűnést követő tizenöt napon belül – felkéri a Közszolgálati Testületet, a Nemzeti Hírközlési és Informatikai Tanácsot, valamint a hírközlési szolgáltatók, a médiatartalom-szolgáltatók, a műsorterjesztők és az újságírók országos működési területű, legalább öt éve működő szakmai, érdekképviseleti és önszabályozó szervezeteit, hogy tegyenek javaslatot az elnökjelölt személyére.
+(4) A miniszterelnök az (1) bekezdés szerinti javaslat megtételét megelőzően – a hivatalban lévő Elnök megbízatási idejének lejártát megelőzően legalább hatvan nappal, az elnöki megbízatás megszűnésének más eseteiben a megszűnést követő tizenöt napon belül – felkéri a Közszolgálati Testületet, valamint a hírközlési szolgáltatók, a médiatartalom-szolgáltatók, a műsorterjesztők és az újságírók országos működési területű, legalább öt éve működő szakmai, érdekképviseleti és önszabályozó szervezeteit, hogy tegyenek javaslatot az elnökjelölt személyére.
 
 (5) A felkért szervezetek a javaslataikat írásban teszik meg, és abban ismertetik az elnökjelöltnek javasolt személy szakmai életútját, figyelemmel a (2) és (2a) bekezdés szerinti szakmai feltételekre is, továbbá a javaslatukat megindokolják. A javaslattételre felkért szervezetek az elnökjelöltnek javasolt személy nevét közzétehetik, feltéve, hogy ahhoz a javasolt személy hozzájárult. A miniszterelnök a felkért szervezetek javaslatainak megismerése érdekében – személyesen vagy az általa kijelölt állami vezető útján – közvetlen egyeztetést is tart.
 
@@ -2137,7 +2137,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 118. § (1) Az Elnök, az elnökhelyettes, a főigazgató, a főigazgató-helyettes nem lehet
 
 - a) köztársasági elnök, miniszterelnök, a kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
-- b) a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, vezérigazgató-helyettese, a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
+- b) a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, vezérigazgató-helyettese, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
 - c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, állami tisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelő bizottsági tagja,
 - e) olyan személy, aki hírközlési vagy médiaszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, reklámügynökséggel, sajtótermék kiadójával vagy lapterjesztővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
@@ -2160,74 +2160,11 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 (2) A beszámolót nyomtatott formában és a Hatóság, valamint az elektronikus hírközlésért felelős miniszter által vezetett minisztérium honlapján is közzé kell tenni.
 
-### A Nemzeti Hírközlési és Informatikai Tanács
+#### 120. §
 
-120. § (1) A Nemzeti Hírközlési és Informatikai Tanács (a továbbiakban: NHIT) a Kormány informatikai és hírközlési ügyekben véleményező, tanácsadó szerve.
+#### 121. §
 
-(2) Az NHIT öt tagból álló testület. Az NHIT elnökét és alelnökét a miniszterelnök nevezi ki és menti fel.
-
-(3) Az NHIT tagjai – köztük az NHIT elnöke és alelnöke – a hírközlés, illetve az informatika területén legalább ötéves gyakorlattal rendelkezők köréből kerül ki.
-
-(4) A tagok közül
-
-- a) két tagot a Médiatanács,
-- b) egy tagot a Magyar Tudományos Akadémia delegál.
-
-(5) Az NHIT csak a törvénynek van alárendelve, és tagjai tevékenységük körében nem utasíthatók.
-
-(6) Az NHIT elnökének, alelnökének és tagjainak megbízása négy évre szól.
-
-(7) A megüresedett helyet az erre jogosult szerv vagy személy harminc napon belül köteles betölteni.
-
-(8) Az NHIT elnöke, alelnöke és tagja lehet kormánytisztviselő, állami tisztviselő vagy köztisztviselő.
-
-(9) Az NHIT elnöke az államtitkár illetménye hatvanöt százalékának megfelelő mértékű, az NHIT alelnöke az államtitkár illetménye hatvan százalékának megfelelő mértékű, míg az NHIT tagja az államtitkár illetménye ötvenöt százalékának megfelelő mértékű tiszteletdíjban részesül kinevezésétől megbízatása megszűnéséig, továbbá az elnök, az alelnök és a tagok költségtérítésre jogosultak.
-
-121. § (1) Az NHIT véleményezi a Kormány felé az informatika, a hírközlés és a média területén
-
-- a) az információs társadalom kialakításának programját, az információs kultúra elterjesztésére, az információs társadalomra vonatkozó stratégiai döntéseket,
-- b) a kutatás-fejlesztés irányvonalának meghatározását,
-- c) a társadalmi szemléletmód és kultúra terjesztésével kapcsolatos döntéseket, továbbá
-- d) a hírközlési piac szabályozásának kialakítására, a piacon működők esélyegyenlőségének elősegítésére,
-- e) a polgári és nem polgári célú frekvenciagazdálkodás összhangjának biztosítására,
-- f) a rádió-távközlési nemzetközi értekezleteken képviselendő magyar álláspontra vonatkozó, valamint
-- g) az információs társadalom infrastruktúrájának szabályozásával kapcsolatos stratégiai előterjesztésekre, az információs társadalom kialakításának programjára vonatkozó döntéseket.
-
-(2) Az NHIT véleményezi a Kormány számára
-
-- a) kormányrendeletek, miniszteri rendeletek tervezeteit,
-- b) a Kormány, a miniszterelnök, az elektronikus hírközlésért felelős miniszter, vagy az informatikáért felelős miniszter felkérésére valamennyi, a hírközléssel és az informatikával összefüggő előterjesztést, egyedi döntést, jogszabálytervezetet,
-- c) az információs társadalom infrastruktúrájának szabályozásával kapcsolatos stratégiai előterjesztéseket, az információs társadalom kialakításának programját, amelyre vonatkozó előterjesztést kizárólag az NHIT észrevételezését követően, az NHIT véleményével együtt lehet a Kormány elé terjeszteni.
-
-(3) Az NHIT Elnöke tanácskozási joggal részt vesz a Kormány ülését megelőző állami vezetői értekezlet, továbbá meghívásra a Kormány, (1)–(2) bekezdés szerinti előterjesztést tárgyaló ülésén.
-
-(4) Az NHIT elnöke a vizsgált frekvenciasávok igénybevételében, az ezekkel végzett szolgáltatásokban érdekelt szervezetek képviselőit tanácskozási joggal meghívhatja.
-
-(5) Összhangban a Kormánynak az informatika, a hírközlés és a média területén megfogalmazott programjával, az NHIT az (1) és (2) bekezdésben foglalt témakörök tekintetében önálló javaslatot, és kezdeményezést tehet a Kormány, vagy valamely miniszter irányítása, illetve felügyelete alatt álló szervek, egyéb szervezetek felé az e témaköröket érintő közfeladatuk hatékonyabb ellátása érdekében. A szerv vagy szervezet vezetője az NHIT önálló javaslatával, kezdeményezésével kapcsolatos észrevételeiről 30 napon belül tájékoztatja az NHIT elnökét.
-
-(6) A Kormány vagy a miniszterelnök felkérésére az NHIT hírközlési és informatikai tudományos, célszerűségi, valamint gazdaságossági szempontok alapján megvizsgálja a Kormány vagy valamely miniszter irányítása, illetve felügyelete alatt álló szervek, egyéb szervezetek hírközlést és informatikát érintő uniós és egyéb pályázatait és azok teljesülését, valamint egyéb hírközlési és informatikai tárgyú projektjeit, beszerzéseit. A vizsgálat eredményeként megfogalmazott véleményét az NHIT megküldi a miniszterelnöknek. Az NHIT a vizsgálat alapján az (5) bekezdés szerinti önálló javaslatot, kezdeményezést is tehet. A Kormány valamely miniszter irányítása, illetve felügyelete alatt álló szervek, egyéb szervezetek kötelesek a vizsgálat lefolytatása érdekében az NHIT-vel együttműködni.
-
-(7) Az NHIT akkor határozatképes, ha tagjainak több mint a fele jelen van, és legalább az elnök, vagy az alelnök is jelen van. Határozatait – az összeférhetetlenségről való döntés kivételével – szótöbbséggel hozza, szavazategyenlőség esetében az elnök szavazata dönt.
-
-(8) Az NHIT működésének rendjét maga állapítja meg.
-
-(9) Az NHIT működéséhez szükséges forrásokat a Hatóság költségvetésén belül kell biztosítani. A források más célra nem csoportosíthatók át.
-
-(10) Az NHIT gazdálkodását az Állami Számvevőszék ellenőrzi. Az NHIT feladatai teljesítéséről évente tájékoztatót készít az Országgyűlés feladatkörrel rendelkező bizottságának.
-
-122. § (1) Az NHIT Irodája (a továbbiakban: Iroda) a Hatóság szervezeti egysége, melynek vezetője irodaigazgató cím használatára jogosult.
-
-(2) Az Iroda ellátja az NHIT működésével kapcsolatos feladatokat, végzi az ahhoz szükséges adminisztratív tevékenységet.
-
-(3) Az Iroda Feladat- és Hatásköri Szabályzatát – az NHIT elnökének egyetértésével – az Elnök hagyja jóvá.
-
-(4) Az Iroda adminisztrációs tevékenységét – az NHIT határozatainak és az NHIT elnöke utasításainak megfelelően – az Iroda vezetője irányítja.
-
-(5) Az Iroda a 121. § (1)–(2) bekezdés alapján az NHIT által a Kormánynak, illetve a miniszterelnöknek adandó véleményhez az NHIT részére tárgyalási, illetve döntés-előkészítő anyagokat készít.
-
-(6) Az NHIT elnöke közvetlenül irányítja az Irodának a 121. § (1)–(2) bekezdésben meghatározott feladatokkal kapcsolatos tárgyalási, illetve döntés-előkészítő anyagok készítésére vonatkozó szakmai tevékenységét.
-
-(7) Az Elnök az Iroda vezetőjével kapcsolatos munkáltatói jogkörök közül a közszolgálati jogviszony létesítését és megszűnését az NHIT elnökének javaslata alapján gyakorolja, egyebekben a munkáltatói jogokat az NHIT elnöke gyakorolja.
+#### 122. §
 
 ### II. Fejezet — A NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG MÉDIATANÁCSA
 
@@ -2411,7 +2348,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (9) A Hatóság a hírközlés és a média területén a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére – így különösen a hírközlési és médiajog, a verseny- és fogyasztóvédelmi politika körébe tartozó tudományos-oktatási programok támogatására, a hírközlési és a médiajoggal, illetve fogyasztóvédelmi politikával foglalkozó szakemberek képzésére, a hírközlési és médiapolitikával, valamint a fogyasztói döntéshozatallal kapcsolatos tájékozottság növelése érdekében végzett tájékoztatásra – jogosult felhasználni az előző évben a hírközlési és médiapiac szereplőitől befolyt bírságok teljes összegét. A tárgyévben e célból rendelkezésre álló, de fel nem használt összeg a következő évre átvihető, és a tudatos fogyasztói döntéshozatal kultúrájának fejlesztésére fordítható.
 
-(10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdés szerinti mellékletet is. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
+(10) Az Országgyűlés a – (2) bekezdésben meghatározott eljárásnak megfelelően előterjesztett – zárszámadási törvényjavaslat elfogadásával dönt a (2) bekezdésben meghatározott önálló törvény végrehajtásáról, ideértve a 136. § (15) bekezdése és a 137/F. § (13) bekezdése szerinti mellékletet is. E zárszámadási törvény esetében a benyújtási határidő minden év május 31.
 
 (11)
 
@@ -2425,7 +2362,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 ### A Médiaszolgáltatás-támogató és Vagyonkezelő Alap
 
-136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltató szervezeti átalakításának támogatása, a közszolgálati célú műsorszámok gyártása és támogatása, az elsőként filmszínházban bemutatásra szánt filmalkotások és a kortárs zeneművek támogatása, a tulajdonosi joggyakorlása alatt álló állami és saját vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
+136. § (1) Az Alap olyan elkülönített vagyonkezelő- és pénzalap, amelynek feladata a közszolgálati médiaszolgáltatás, a Közszolgálati Közalapítvány, a közösségi médiaszolgáltatások, a közszolgálati médiaszolgáltató szervezeti átalakításának támogatása, a filmalkotásnak nem minősülő közszolgálati célú műsorszámok gyártása és támogatása, a tulajdonosi joggyakorlása alatt álló állami és saját vagyonának gondos kezelése és gyarapítása, valamint az ezekhez kapcsolódó egyéb tevékenységek támogatása, illetve elvégzése.
 
 (2) Az Alap tulajdonában álló saját, valamint a tulajdonosi joggyakorlása alatt álló állami vagyon ideértve annak hasznosításából és tulajdonjogának átruházásából származó bevételt is – kizárólag törvényben meghatározott célokra használható fel.
 
@@ -2461,7 +2398,7 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 
 (18) Az Alap személyes illetékmentességre jogosult, és nem alanya a társasági adónak, valamint a helyi adónak.
 
-137. § (1) A közszolgálati célú műsorszámok, a közösségi médiaszolgáltatók, az elsőként filmszínházban bemutatásra szánt filmalkotások – ide nem értve a törvény 136. § (8) bekezdésében meghatározott módon támogatott filmalkotásokat – és a kortárs zeneművek támogatását nyilvános pályázat útján kell biztosítani.
+137. § (1) A filmalkotásnak nem minősülő közszolgálati célú műsorszámok és a közösségi médiaszolgáltatások támogatását nyilvános pályázat útján kell biztosítani.
 
 (2) Az Alap által kidolgozott általános pályázati feltételeket a Médiatanács hagyja jóvá.
 
@@ -2555,6 +2492,103 @@ amelynek jogát vagy jogos érdekét a Médiatanács elnökeként, illetve tagja
 (3) Az Alap a rábízott állami vagyonnal kapcsolatos könyvvezetési és beszámoló készítési kötelezettségének az államháztartás számviteléről szóló rendelet szerint köteles eleget tenni.
 
 (4) A 137/A. § (3) bekezdésében meghatározott közfeladatra tekintettel a nyilvántartásnak a vagyon elsődleges rendeltetése szerinti közfeladat feltüntetését egyedileg nem kell tartalmaznia.
+
+### Televíziós Film Mecenatúra és a Televíziós Filmkollégium
+
+137/F. § (1) A Televíziós Film Mecenatúra (a továbbiakban: Mecenatúra) olyan elkülönített pénzalap, amelynek feladata a médiaszolgáltatásban bemutatásra szánt, a 83. § (1) bekezdés b)–l) pontjában foglalt valamely közszolgálati cél megvalósulását szolgáló filmalkotások és filmsorozatok támogatása.
+
+(2) A Mecenatúra bevételei különösen:
+
+- a) belföldi vagy külföldi természetes személyek és jogi személyek által teljesített önkéntes befizetések, adományok,
+- b) központi költségvetési támogatások,
+- c) a Mecenatúra tárgyévet megelőző évi, visszahagyott költségvetési maradványa,
+- d) az Alap Médiatanács által jóváhagyott, célzott pénzeszközátadása, valamint
+- e) egyéb bevételek.
+
+(3) A Mecenatúra jogi személy, kezelője a Televíziós Filmkollégium.
+
+(4) A Mecenatúra a Kincstárban fizetési számlát vezet, amely mellett szabadon vezethet hitelintézetnél is fizetési számlát.
+
+(5) A Mecenatúra támogatáspolitikáját, üzleti tervét és éves beszámolóját a Televíziós Filmkollégium határozza meg, és a Médiatanács hagyja jóvá. A Médiatanács a jóváhagyást csak jogszabálysértésre hivatkozással tagadhatja meg.
+
+(6) Az Alap a Médiatanács jóváhagyásával célzottan pénzeszközt adhat át a Mecenatúrának.
+
+(7) A Mecenatúra képviseletére a Televíziós Filmkollégium elnöke jogosult.
+
+(8) A Mecenatúra tevékenységének teljes körű szervezeti és szakmai ellenőrzését háromtagú Felügyelő Bizottság látja el.
+
+(9) A Mecenatúra Felügyelő Bizottságának elnökét a Médiatanács elnöke, tagjait a Kormány rendeletében megjelölt miniszterek delegálják és hívják vissza. Tiszteletdíjukat – a Mecenatúra költségvetésének terhére – a Médiatanács elnöke állapítja meg.
+
+(10) Nem lehet a Mecenatúra Felügyelő Bizottságának elnöke vagy tagja,
+
+- a) aki a Televíziós Filmkollégium elnöke vagy tagja,
+- b) akinek a Televíziós Filmkollégium elnöke vagy tagja a Polgári Törvénykönyv szerinti közeli hozzátartozója (a továbbiakban: közeli hozzátartozó),
+- c) akinek közeli hozzátartozója a Mecenatúra Felügyelő Bizottságának elnöke vagy tagja.
+
+(11) A Mecenatúra Felügyelő Bizottságának elnöke és tagjai megbízatása megszűnik a 137/H. § (2) bekezdésben foglalt esetekben.
+
+(12) A 137/H. § (1) bekezdésben foglalt valamely felmentési ok fennállása esetén a Mecenatúra Felügyelő Bizottságának elnökét a Médiatanács elnöke, tagját az őt delegáló miniszter felmenti.
+
+(13) A Mecenatúra költségvetését – a 134. § (2) bekezdése szerinti egységes költségvetés mellékleteként – az Országgyűlés hagyja jóvá.
+
+(14) A Mecenatúra kezelésének részletes szabályait a Televíziós Filmkollégium határozza meg.
+
+(15) A Mecenatúra személyes illetékmentességre jogosult, és nem alanya a társasági adónak, valamint a helyi adónak.
+
+137/G. § (1) A filmalkotások és filmsorozatok támogatását a Televíziós Filmkollégium nyilvános pályázat útján végzi.
+
+(2) A pályáztatás átláthatósága, követhetősége, diszkrimináció-mentessége és garanciális kiszámíthatósága érdekében a Televíziós Filmkollégium meghatározza az Általános Pályázati Feltételeket, amelyet előzetes jóváhagyás céljából megküld a Médiatanácsnak. A Médiatanács csak jogszabálysértésre hivatkozással tagadhatja meg az Általános Pályázati Feltételek jóváhagyását.
+
+(3) A Televíziós Filmkollégium az Általános Pályázati Feltételek alapján készíti el és teszi közzé a pályázati felhívásokat. A pályázati felhívás tartalmazza különösen:
+
+- a) a pályázat elbírálásának módját,
+- b) a személyi, alaki és tartalmi érvényességi feltételeket,
+- c) a nyújtható támogatás mértékét, valamint
+- d) a pályáztatás során, illetve annak eredményeként hozható döntések típusait, kellékeit.
+
+(4) A filmalkotások és filmsorozatok támogatása során a mozgóképről szóló 2004. évi II. törvény (a továbbiakban: Mktv.) II. Fejezetét az ebben a törvényben foglalt eltérésekkel kell alkalmazni.
+
+(5) Nem nyújtható támogatás:
+
+- a) annak, akinek az állammal szemben fennálló adó-, járulék- vagy egyéb köztehertartozása van,
+- b) annak, aki valamely mozgóképszakmai célú támogatás felhasználásával nem számolt el, vagy a Televíziós Filmkollégiummal szemben lejárt, teljesítetlen fizetési kötelezettséggel rendelkezik,
+- c) annak, aki ellen csőd-, felszámolási vagy végelszámolási eljárás van folyamatban,
+- d) olyan filmalkotás kapcsán, amelyre tekintettel az Mktv. szerint mozgóképszakmai célok támogatására a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság központi költségvetési forrásból közvetlen támogatást nyújtott,
+- e) a Kormány rendeletében meghatározott filmalkotás kapcsán.
+
+(6) Nem nyújtható támogatás a Televíziós Filmkollégium tagjainak, valamint a közeli hozzátartozójuknak, továbbá olyan pályázó szervezetnek, amelyben a fenti személy képviseletre jogosult vezető tisztségviselő, vagy abban a Polgári Törvénykönyvnek a gazdasági társaságokra vonatkozó rendelkezései szerint többségi befolyást biztosító tulajdoni részesedéssel rendelkezik.
+
+(7) A Televíziós Filmkollégium tagja nem vehet részt a pályázat elbírálásában, ha a pályázatban érintett filmalkotásnak ő vagy a közeli hozzátartozója az Szjt. szerinti szerzője, vagy ha a pályázóval ő vagy a közeli hozzátartozója munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll, vagy a pályázó számára olyan gazdasági társaságon keresztül nyújt szolgáltatást, amelynek tagja vagy részvényese.
+
+(8) A Mecenatúra által folyósított, pályázat útján elnyert, árat közvetlenül befolyásoló támogatás ellenében vállalt kötelezettség az Áfa tv. 13. §-a tekintetében nem minősül szolgáltatásnyújtásnak. A Mecenatúra pályázatán elnyert és folyósított támogatásból elkészült műalkotás gyártásához kapcsolódóan igénybevett szolgáltatás, beszerzett termék az Áfa tv. 120. §-a, 123. §-a, illetve 5. számú melléklete tekintetében adóköteles termékértékesítés, szolgáltatásnyújtás érdekében használt terméknek és szolgáltatásnyújtásnak minősül.
+
+(9) Nem mutatható be filmszínházban az a filmalkotás, amelyre tekintettel a Mecenatúra támogatást nyújtott.
+
+137/H. § (1) A Televíziós Filmkollégium öt tagból álló testület. Elnökét a Médiatanács elnöke jelöli ki öt évre. A Televíziós Filmkollégium tagjait a Kormány rendeletében meghatározott miniszterek delegálják öt évre. A Televíziós Filmkollégium tagjai a filmművészet területén jártas, széles körben elismert szakemberek közül jelölhetők, delegálhatók. A Televíziós Filmkollégium elnökét a Médiatanács elnöke, többi tagját a delegáló miniszter felmenti a következő esetekben:
+
+- a) a Televíziós Filmkollégium elnökét vagy tagját cselekvőképességet érintő gondnokság alá helyezték,
+- b) a Televíziós Filmkollégium elnöke vagy tagja neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak,
+- c) a Televíziós Filmkollégium elnökével vagy tagjával szemben lefolytatott büntetőeljárás eredményeként az elnök vagy a tag bűnösségét a bíróság – a szabadságvesztést, a kollégiumi tevékenységének megfelelő foglalkoztatástól való eltiltást vagy közügyektől való eltiltást tartalmazó – jogerős ítélete állapította meg.
+
+(2) A Televíziós Filmkollégium elnökének és tagjainak megbízatása megszűnik:
+
+- a) a megbízatás idejének lejártával,
+- b) lemondással,
+- c) az összeférhetetlenség megállapításával,
+- d) felmentéssel,
+- e) az elnök vagy a tag halálával.
+
+(3) Tevékenységük körében a Televíziós Filmkollégium tagjai nem utasíthatók.
+
+(4) A Televíziós Filmkollégium elnökére és tagjára a 118. § (1) bekezdés a)–c) pontjában foglalt összeférhetetlenségi szabályok megfelelően irányadók azzal, hogy a médiatanácsi tagság ellátása a televíziós filmkollégiumi tagsággal és elnöki tisztséggel nem összeférhetetlen.
+
+(5) A Televíziós Filmkollégium elnöke az államtitkár illetménye hetvenöt százalékának, további tagja az államtitkár illetménye hatvanöt százalékának megfelelő mértékű tiszteletdíjban részesül, továbbá – a Médiatanács elnöke által meghatározott – költségtérítésre jogosult a Mecenatúra költségvetésének terhére.
+
+(6) A Televíziós Filmkollégium munkáját a Hivatal önálló szervezeti egysége segíti.
+
+(7) A Hivatal önálló szervezeti egységének vezetőjével kapcsolatos munkáltatói jogkörök közül a közszolgálati jogviszony, illetve vezetői megbízás létesítését és megszüntetését a főigazgató a Televíziós Filmkollégium elnökének javaslata alapján gyakorolja, egyebekben a munkáltatói jogokat a Televíziós Filmkollégium elnöke gyakorolja.
+
+(8) A Televíziós Filmkollégium működésének részletes szabályait a Médiatanács előzetes jóváhagyásával a Televíziós Filmkollégium határozza meg. A Médiatanács a jóváhagyást csak jogszabálysértésre hivatkozással tagadhatja meg.
 
 ### A Médiatanács Médiatudományi Intézete
 
@@ -3497,6 +3531,8 @@ f)
 
 40. Médiaszolgáltatás: az Európai Unió működéséről szóló szerződés 56. és 57. cikkében meghatározott, önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági szolgáltatás, amelyért egy médiaszolgáltató szerkesztői felelősséget visel, amelynek elsődleges célja műsorszámoknak tájékoztatás, szórakoztatás vagy oktatás céljából a nyilvánossághoz való eljuttatása valamely elektronikus hírközlő hálózaton keresztül.
 
+40a. „Médiaszolgáltatásban bemutatásra szánt filmalkotás: az olyan filmalkotás, amellyel kapcsolatban a 137/G. § szerint támogatást igénylő a támogatásra irányuló pályázati kérelem benyújtásakor vállalja, hogy a filmalkotást valamely – Magyarországon letelepedett – országos lineáris audiovizuális médiaszolgáltató, vagy a területfejlesztésről és területrendezésről szóló 1996. évi XXI. törvény szerinti régiókból legkevesebb ötben legalább 12 – Magyarországon letelepedett – helyi médiaszolgáltatási jogosultsággal rendelkező lineáris audiovizuális médiaszolgáltató vagy legalább 3 – Magyarországon letelepedett – körzeti lineáris audiovizuális médiaszolgáltató fogja bemutatni, és az igénylő a pályázat benyújtásakor rendelkezik az érintett médiaszolgáltatók filmalkotás bemutatására vonatkozó szándéknyilatkozatával.
+
 41. Médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását. A szerkesztői felelősség a médiatartalom kiválasztása és összeállítása során megvalósuló tényleges ellenőrzésért való felelősséget jelenti, és nem eredményez szükségszerűen jogi felelősséget a médiaszolgáltatás tekintetében.
 
 42. Médiatartalom: valamennyi médiaszolgáltatás során, valamint sajtótermék által kínált tartalom.
@@ -3599,6 +3635,12 @@ rendeletben megállapítsa.
 
 (3a) Felhatalmazást kap a Kormány, hogy a JBE lineáris audiovizuális médiaszolgáltató legnagyobb éves átlagos közönségarányú lineáris audiovizuális médiaszolgáltatásáért járó programdíj fizetésének szabályait rendeletben állapítsa meg.
 
+(3b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
+
+- a) a 137/F. § (1) bekezdése szerinti támogatások nyújtásának, elszámolásának, ellenőrzésének részletszabályait, valamint a nyújtható támogatás összegét és az összeg megállapításának szabályait,
+- b) a Televíziós Filmkollégium és a Mecenatúra Felügyelő Bizottsága tagjai delegálására jogosult minisztereket,
+- c) azokat a filmalkotásokat, amelyek kapcsán a Mecenatúrából nem nyújtható támogatás.
+
 (4) Felhatalmazást kap a kultúráért felelős miniszter, hogy a kiadványokon az impresszum feltüntetésére vonatkozó részletes szabályokat rendeletben szabályozza.
 
 (5) Felhatalmazást kap az audiovizuális politikáért felelős miniszter, hogy a 171. § szerinti szakhatósági eljárásért fizetendő igazgatási szolgáltatási díj megfizetésének módjára, valamint a díj kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.
@@ -3637,7 +3679,13 @@ rendeletben megállapítsa.
 
 (5) Amennyiben az e törvény hatálybalépésekor a KÖH nyilvántartásában szereplő, de e törvény hatálybalépése előtti három évben meg nem jelent nyomtatott sajtótermék kiadója 2012. december 31-ig nem kezdi meg a sajtótermék rendszeres megjelenését, úgy a sajtóterméket a nyilvántartásból törölni kell. A 46. § (6) bekezdés c) pont szerinti, törlési kötelezettséggel járó időtartam egyéb esetekben e törvény hatálybalépésével kezdődik.
 
-#### 209. §
+### A Mecenatúrára vonatkozó átmeneti szabályok
+
+209. § (1) A Mecenatúra 2019. évi költségvetését az Országgyűlés külön törvényben hagyja jóvá, amely külön törvényre az Mttv. 134. § (2) bekezdésében foglaltak megfelelően irányadók.
+
+(2) Az (1) bekezdés szerinti törvényjavaslatot az Országgyűlés költségvetési ügyekben illetékes bizottsága a Nemzeti Média- és Hírközlési Hatóság Elnöke által megküldött javaslat alapján nyújtja be az Országgyűlésnek.
+
+(3) A Nemzeti Média- és Hírközlési Hatóság Elnöke a Hatóság 2019. évi egységes költségvetésének végrehajtásáról szóló, az Mttv. 134. § (10) bekezdése szerinti zárszámadási törvényjavaslatot a Mecenatúra 2019. évi költségvetésének végrehajtásáról szóló beszámolót tartalmazó melléklettel együtt terjeszti az Országgyűlés költségvetési ügyekben illetékes bizottsága elé. Az Országgyűlés a Mecenatúra 2019. évi zárszámadásáról a Nemzeti Média- és Hírközlési Hatóság egységes költségvetésének végrehajtásáról szóló törvényjavaslat elfogadásával dönt.
 
 #### 210. §
 
@@ -3760,6 +3808,10 @@ rendeletben megállapítsa.
 - a) az Európai Parlament és a Tanács 2006/2004/EK rendelete (2004. október 27.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről,
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról,
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról.
+
+### VIII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK ÁLLAMI TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYAIVAL VALÓ ÖSSZHANG
+
+231. § Ez a törvény a Magyarország filmszakmai támogatási programjáról szóló SA.36579. számú határozattal meghosszabbított N 202/2008. számú és az azt módosító SA.38425. számú és SA.50768. számú európai bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
 
 ### 1. számú melléklet a 2010. évi CLXXXV. törvényhez
 

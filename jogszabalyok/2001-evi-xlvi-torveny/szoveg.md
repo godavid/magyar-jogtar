@@ -71,7 +71,7 @@ legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább
 
 (4) A konzuli szolgálat, érdekvédelmi feladatainak ellátása során, szükség esetén közreműködik abban, hogy a rászorult saját vagy más forrásból anyagi segítséghez jusson.
 
-(5) A magyar állampolgárok, a konzuli védelem előmozdítása érdekében, az erre a célra fenntartott honlapon keresztül vagy egyedi informatikai alkalmazás igénybevételével, illetve ezek hiányában postai úton előzetesen is bejelenthetik külföldi tartózkodásukat a konzuli szolgálatnak.
+(5) A magyar állampolgárok, a konzuli védelem előmozdítása érdekében, az erre a célra fenntartott honlapon keresztül vagy egyedi informatikai alkalmazás igénybevételével, előzetesen is bejelenthetik külföldi tartózkodásukat a konzuli szolgálatnak.
 
 ### Személyi hatály
 
@@ -87,9 +87,13 @@ legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább
 
 ### Tanácsadás és segítségnyújtás
 
-4. § (1) A konzuli szolgálat minden megengedett módon tájékozódik a külföldi államokban a magyar állampolgárok alapvető jogait és érdekeit közvetlenül érintő, utazásukkal kapcsolatos körülményekről, belső jogszabályokról és azok változásairól, valamint a jogalkalmazásról, és ezekről a megfelelő úton – ideértve a tömegtájékoztatási eszközöket és az információs világhálón való közzétételt, valamint a szóbeli felvilágosítást is – tájékoztatja az állampolgárokat annak érdekében, hogy elősegítse megfelelő felkészülésüket a külföldi utazásra, tartózkodásra.
+4. § (1) A konzuli szolgálat minden megengedett módon tájékozódik a külföldi államokban a magyar állampolgárok alapvető jogait és érdekeit közvetlenül érintő, utazásukkal kapcsolatos körülményekről, belső jogszabályokról és azok változásairól, valamint a jogalkalmazásról, és ezekről a megfelelő úton – ideértve a tömegtájékoztatási eszközöket és az interneten való közzétételt, valamint a szóbeli felvilágosítást is – tájékoztatja az állampolgárokat annak érdekében, hogy elősegítse megfelelő felkészülésüket a külföldi utazásra, tartózkodásra.
 
 (2) A konzuli szolgálat figyelemmel kíséri a magyar állampolgárok konzuli védelmét érintő nemzetközi jogi szabályok érvényesülését a külföldi államban, s ezek megsértése, különösen a magyar állampolgárok hátrányos megkülönböztetése, alapvető jogaik súlyos vagy rendszeres sérelme esetén haladéktalanul fellép az adott állam illetékes hatóságainál.
+
+(3) A konzuli szolgálat a kormányzati portálon általa működtetett felületen az egyes országokat (térségeket) kockázati tényezők mérlegelése alapján kategorizálja, majd a biztonsági besorolásukról körültekintő mérlegelést követően, a magyar külképviseletektől kapott információk alapján és az európai uniós konzuli együttműködés keretében folytatott egyeztetés figyelembevételével dönt.
+
+(4) A konzuli szolgálat három kategóriába sorolja az egyes országokat (térségeket): a legenyhébb biztonsági besorolású (III. biztonsági kategória), a fokozott biztonsági kockázatot jelentő (II. biztonsági kategória), valamint, az utazásra nem javasolt (I. biztonsági kategória) országok (térségek).
 
 ### Bajba jutott magyar állampolgárok védelme
 
@@ -110,6 +114,8 @@ legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább
 (5) A miniszter különös méltánylást érdemlő esetekben kérelemre a hazatérési kölcsön visszafizetése alól részben vagy egészben mentesítést adhat. A miniszter határozata a közigazgatási ügyekben eljáró bíróság előtt kizárólag semmisségére hivatkozva támadható meg.
 
 (6) A hazatérési kölcsönre előirányzott keretet fejezeti kezelésű előirányzatként a miniszter által vezetett minisztérium költségvetési fejezetében kell megállapítani.
+
+(7) A konzuli tisztviselő az eset összes körülményeit mérlegelve – indokolt esetben – legfeljebb 20 EUR összeghatárig vissza nem térítendő anyagi támogatást adhat a bajbajutott részére olyan, a hazautazással közvetlenül összefüggő kiadások fedezésére, amelyekre a hazatérési kölcsön nem nyújtható.
 
 ### Segítségnyújtás baleset vagy bűncselekmény áldozatainak, illetve súlyos, sürgős ellátást igénylő betegnek
 
@@ -133,7 +139,7 @@ legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább
 
 (4) Evakuálásra csak az érintett vagy törvényes képviselője egyetértésével kerülhet sor. Amennyiben a törvényes képviselő nyilatkozatának beszerzésével járó késedelem a magyar állampolgár életét, testi épségét veszélyezteti, a konzuli szolgálat az érintett magyar állampolgár nyilatkozatát is figyelembe véve, az eset összes körülményének mérlegelésével hoz döntést az evakuálásról.
 
-(5)
+(5) A 4. § (3) és (4) bekezdése alapján az I. biztonsági kategóriába sorolt – utazásra nem javasolt – országokba (térségekbe), a figyelmeztetés ideje alatt beutazó, a figyelmeztetés ellenére ott tovább tartózkodó és onnan a konzuli szolgálat közreműködésével kimentett magyar állampolgárnak az evakuálás személyenként számított költségeit meg kell térítenie, ide nem értve azt az esetet, amikor a magyar állampolgár foglalkoztatási jogviszony keretében – a munkáltató utasítási joga alapján –, vagy humanitárius célból utazik az utazásra nem javasolt országokba (térségekbe), illetve tartózkodik ott tovább, amely esetekben az evakuálás költségeit a munkáltatónak, illetve az érintettet humanitárius célból a térségbe kiküldő személynek vagy szervezetnek kell megtérítenie.
 
 ### Személyes szabadságukban külföldön korlátozott magyar állampolgárok védelme
 
@@ -297,7 +303,8 @@ legalább kétévi közigazgatási gyakorlattal rendelkezik, amelyből legalább
 - h) a bűnügyi nyilvántartási rendszerből,
 - i) a körözési nyilvántartásból,
 - j) az egészségbiztosító és a nyugdíjbiztosító nyilvántartásából,
-- k) a gondnokoltak nyilvántartásából.
+- k) a gondnokoltak nyilvántartásából,
+- l) a menekültügyi nyilvántartásból.
 
 (2) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat a védelem ellátásához szükséges adatokat az Európai Unió tagállama konzuli szolgálatán keresztül igényelheti.
 

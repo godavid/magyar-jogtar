@@ -70,7 +70,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
   - ch) gondatlan bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig,
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
-- f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig,
+- f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
 - g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
 - i) aki betöltötte a 90. § ha) alpontjában meghatározott életkort.
@@ -333,7 +333,7 @@ meghatározott esetben.
 
 30. § (1) A közigazgatási és munkaügyi ügyekben eljáró bírákat a törvényszék bírái tekintetében a törvényszék elnökének javaslatára az OBH elnöke jelöli ki.
 
-(2) A büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) 17. §-ának (5) és (6) bekezdésében, továbbá 448. §-ának (2) bekezdésében meghatározott ügyekben ítélkező, továbbá a bírósági közvetítői tevékenységet végző bírákat – a bíróság elnökének javaslatára – az OBH elnöke jelöli ki.
+(2) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 680. § (4) bekezdésében meghatározott ügyekben ítélkező, továbbá a bírósági közvetítői tevékenységet végző bírákat – a bíróság elnökének javaslatára – az OBH elnöke jelöli ki.
 
 (3) Az (1) és (2) bekezdésben foglalt hatásköröket a Kúria bírái tekintetében a Kúria elnöke megfelelően gyakorolja.
 
@@ -373,7 +373,7 @@ elnökének véleményét.
 - c) ha a bíró tartósan ápolásra szoruló hozzátartozóját gondozza,
 - d) a bíró tartós betegsége vagy súlyos egészségromlása esetén.
 
-(4) E törvény alkalmazásában – a vagyonnyilatkozatra vonatkozó rendelkezések kivételével – hozzátartozón a polgári perrendtartásról szóló törvényben meghatározott személyeket kell érteni.
+(4) E törvény alkalmazásában – a vagyonnyilatkozatra vonatkozó rendelkezések kivételével – hozzátartozón a polgári perrendtartásról szóló 2016. évi CXXX. törvényben meghatározott személyeket kell érteni.
 
 (5) A kirendelést a bíróval – annak megkezdése előtt legalább 30 nappal – írásban közölni kell, megjelölve a kirendelés indokát, helyét, kezdetét és időtartamát.
 
@@ -399,7 +399,7 @@ elnökének véleményét.
 
 (2) A bíróra kiosztható ügyek számát úgy kell meghatározni, hogy az lehetővé tegye az eljárási és ügyviteli szabályok megtartását és a bírák arányos munkaterhét.
 
-(3) Ha a bíróság a Be. kiemelt jelentőségű ügyekre, valamint a polgári perrendtartásról szóló törvény kiemelt jelentőségű perekre vonatkozó fejezetei szerinti ügyet tárgyal, úgy az eljáró bírákat az eljárási szabályok és határidők betartása érdekében az egyéb munkavégzés alól szükség szerint fel kell menteni, illetve mentesíteni kell.
+(3) Ha a bíróság a polgári perrendtartásról szóló 1952. évi III. törvény kiemelt jelentőségű perekre vonatkozó fejezete szerinti ügyet tárgyal, úgy az eljáró bírákat az eljárási szabályok és határidők betartása érdekében az egyéb munkavégzés alól szükség szerint fel kell menteni, illetve mentesíteni kell.
 
 (4) A bírót hivatása méltóságának és felelőssége súlyának megfelelő, függetlenségét biztosító javadalmazás illeti meg.
 
@@ -717,7 +717,7 @@ történő rendelkezésre állás.
 
 (2) A bíróság elnöke az értékelés eredményét írásban megindokolja, és azt a bírónak, valamint – a kúriai bíró kivételével – a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének, a járásbírósági bíró esetén az ítélőtábla, közigazgatási és munkaügyi bírósági bíró, valamint a törvényszéken közigazgatási és munkaügyi ügyeket tárgyaló bíró esetén a közigazgatási és munkaügyi regionális kollégium vezetőjének megküldi.
 
-77. § Ha a Be. kiemelt jelentőségű ügyekre, valamint a polgári perrendtartásról szóló törvény kiemelt jelentőségű perekre vonatkozó fejezetei szerinti ügyet tárgyaló bíró az ezen ügyekre meghatározott törvényi határidőt önhibájából mulasztja el, úgy e körülményt az értékelésnél figyelembe kell venni és az értékelés eredményeként „alkalmas” értékelésnél magasabb minősítést nem kaphat.
+77. § Ha a büntetőeljárásról szóló 1998. évi XIX. törvény szerinti kiemelt jelentőségű ügyekre, valamint a polgári perrendtartásról szóló 1952. évi III. törvény kiemelt jelentőségű perekre vonatkozó fejezete szerinti ügyet tárgyaló bíró az ezen ügyekre meghatározott törvényi határidőt önhibájából mulasztotta el, úgy e körülményt az értékelésnél figyelembe kell venni, és az értékelés eredményeként „alkalmas” értékelésnél magasabb minősítést nem kaphat.
 
 #### 78. §
 
@@ -890,7 +890,7 @@ történő rendelkezésre állás.
 
 (4) Akadályoztatása esetén a szolgálati bíróság elnökét az elnökhelyettes teljes jogkörrel helyettesíti.
 
-104. § (1) A szolgálati bíróság bírájaként nem járhat el az, aki ellen fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban, az eljárás jogerős befejezéséig.
+104. § (1) A szolgálati bíróság bírájaként nem járhat el az, aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll.
 
 (2) A szolgálati bíróság bírájának e tisztsége megszűnik:
 
@@ -931,9 +931,9 @@ történő rendelkezésre állás.
 
 (3) Az OBH elnöke kizárólag az általa kinevezett bírósági vezetők, valamint az OBH-ba beosztott bíró ellen kezdeményezheti a fegyelmi eljárás megindítását.
 
-(4) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást meg kell indítani.
+(4) Ha a bíróval szemben büntetőeljárás indult – ide nem értve a magánvádas és pótmagánvádas eljárást –, a fegyelmi eljárást meg kell indítani.
 
-(5) Ha a bíróval szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indult – kivéve a magánvádas és a pótmagánvádló vádindítványa alapján indult eljárást –, a fegyelmi eljárást kezdeményező elnök rendelkezhet arról, hogy az eljárás alá vont bíró tárgyalási tevékenységet, a nyilvános ülés és a tanácsülés tartására is kiterjedően, nem végezhet a vele szemben indult eljárás megszüntetéséig vagy jogerős határozattal történő felmentéséig.
+(5) Ha a bíróval szemben szándékos bűncselekmény elkövetése miatt büntetőeljárás indult – kivéve a magánvádas és a pótmagánvádas eljárást –, a fegyelmi eljárást kezdeményező elnök rendelkezhet arról, hogy az eljárás alá vont bíró tárgyalási tevékenységet, a nyilvános ülés és a tanácsülés tartására is kiterjedően, nem végezhet a vele szemben indult eljárás megszüntetéséig vagy jogerős határozattal történő felmentéséig.
 
 107. § Ha fegyelmi eljárás alá vont bíróval szemben büntetőeljárás van folyamatban, a fegyelmi eljárást fel kell függeszteni.
 
@@ -945,7 +945,12 @@ történő rendelkezésre állás.
 
 110. § (1) Fegyelmi eljárás nem kezdeményezhető, ha a kezdeményezésére jogosult a tudomására jutástól számított 3 hónap alatt azt nem indítványozta, illetve a fegyelmi vétséget képező magatartás befejezése óta 3 év már eltelt.
 
-(2) Ha a bíró fegyelmi vétséget megvalósító magatartása miatt büntetőeljárás indult és az a büntetőjogi felelősséget megállapító határozattal fejeződött be, az eljárás jogerős befejezésétől számított egy éven túl nincs helye fegyelmi felelősségre vonásnak.
+(2) Ha a bíró fegyelmi vétséget megvalósító magatartása miatt büntetőeljárás vagy szabálysértési eljárás indult,
+
+- a) szabálysértési eljárásban a felelősséget megállapító vagy eljárást megszüntető jogerős határozat, büntetőeljárásban a bíróság jogerős ügydöntő határozata vagy véglegessé vált eljárást megszüntető határozata, valamint a nyomozás során hozott, további jogorvoslattal nem támadható eljárást megszüntető határozat munkáltatóval való közlésétől számított három hónapon túl, vagy
+- b) ha az eljárás az (1) bekezdés szerinti hároméves időtartamon túl fejeződik be, akkor az a) pont szerinti határozat meghozatalától számított egy éven túl
+
+nincs helye fegyelmi felelősségre vonásnak.
 
 #### 47. A fegyelmi eljárás megindítására és az eljáró tanácsra vonatkozó szabályok
 
@@ -983,9 +988,13 @@ történő rendelkezésre állás.
 
 #### 48. A bírói tisztségből való felfüggesztés
 
-117. § (1) Az elsőfokú szolgálati bíróság tanácsa a bírót tisztségéből felfüggeszti, ha a bírót előzetes letartóztatásba vagy házi őrizetbe helyezték, illetve vele szemben lakhelyelhagyási tilalmat vagy ideiglenes kényszergyógykezelést rendeltek el, vagy vádemelésre került sor, illetve, ha a szolgálati helyén való jelenléte a tényállás megállapítását gátolná.
+117. § (1) Az elsőfokú szolgálati bíróság tanácsa a bírót tisztségéből felfüggeszti, ha
 
-(2) Az elsőfokú szolgálati bíróság tanácsa a bírót a tisztségéből a fegyelmi eljárást kezdeményező elnök indítványára felfüggesztheti, ha a bíró ellen büntetőeljárás – kivéve a magánvádas és a pótmagánvádló vádindítványa alapján indult eljárást – indult és a bíró szolgálati helyén való jelenléte a tényállás megállapítását gátolná, vagy a fegyelmi eljárás tárgyát képező kötelezettségszegés súlya és jellege a szolgálati helytől való távoltartást indokolja.
+- a) a bíró letartóztatását, előzetes kényszergyógykezelését vagy olyan bűnügyi felügyeletét rendelték el, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, illetve lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el,
+- b) az ügyészség a bíróval szemben vádat emelt, illetve
+- c) a bíró szolgálati helyén való jelenléte a tényállás megállapítását gátolná.
+
+(2) Az elsőfokú szolgálati bíróság tanácsa a bírót a tisztségéből a fegyelmi eljárást kezdeményező elnök indítványára felfüggesztheti, ha a bíróval szemben büntetőeljárás – kivéve a magánvádas és a pótmagánvádas eljárást – indult és a bíró szolgálati helyén való jelenléte a tényállás megállapítását gátolná, vagy a fegyelmi eljárás tárgyát képező kötelezettségszegés súlya és jellege a szolgálati helytől való távoltartást indokolja.
 
 (3) Az (1) és (2) bekezdés szerinti döntéseket a szolgálati bíróság a fegyelmi eljárás felfüggesztését követően is meghozhatja.
 
@@ -1276,7 +1285,7 @@ lehet adatot továbbítani.
 
 (4) A Kúria elnöke külföldre utazás és külföldről történő hazautazás esetén, illetve hivatalos külföldi küldöttség fogadása, kísérése céljából jogosult a repülőtéri kormányváró helyiségek használatára.
 
-154. § A Kúria elnöke – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyi védelemre jogosult.
+154. § A Kúria elnöke – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.
 
 155. § A Kúria elnöke, valamint a vele együtt üdülő házastársa, élettársa, gyermeke, szülője, unokája és gyermekének házastársa – térítési díj ellenében – jogosult a Kormány központi üdülőjének használatára. A térítési díj a szállás- és étkezési költséget, valamint az üdülési szolgáltatások díját foglalja magában.
 

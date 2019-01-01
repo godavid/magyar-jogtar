@@ -6,17 +6,53 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 1. § (1)
 
-(2)
+(2) A Kkt. 18. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-(3)
+„(8) A (2) bekezdés szerinti tanfolyami képzésben az iskolavezető és a szakoktató iskolavezetői és szakoktatói tevékenységét abban az esetben végezheti, ha a külön jogszabály szerinti feltételeknek megfelel, és a közlekedési hatóság engedélyezte iskolavezetői, illetve szakoktatói tevékenységét. A közúti járművezetők vizsgáztatását, utánképzését és képzésfelügyeletét, a közúti közlekedési szakemberek vizsgáztatását és képzésfelügyeletét, valamint a közúti járművezetők pályaalkalmassági vizsgálatát a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló vagy az általa alapított nonprofit szervezet (a továbbiakban: vizsgaközpont) végzi. A közúti közlekedési szakemberek vizsgáinak szervezésében a közlekedési hatóság vagy a vizsgaközpont által megbízott képző szerv közreműködhet. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek tevékenységét a közlekedési hatóság engedélyezte, büntetlen előéletű, nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás vagy közúti járművezetéstől eltiltás hatálya alatt, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.”
 
-(4)
+(3) A Kkt. 18. § (11) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-(5)
+(Az iskolavezetői és a szakoktatói tevékenység végzésére jogosító engedélyt a közlekedési hatóság visszavonja, a vizsgabiztosi tevékenység folytatását megtiltja, és az iskolavezetőt, a szakoktatót, a vizsgabiztost a névjegyzékből törli, ha:)
 
-2. §
+„b) az iskolavezető kivételével nem rendelkezik érvényes vezetői engedéllyel,”
 
-3. §
+(4) A Kkt. 18. § (13) bekezdése helyébe a következő rendelkezés lép:
+
+„(13) A közúti járművezetők és a közúti közlekedési szakemberek külön jogszabályban meghatározott képesítésmegszerzési kötelezettségéhez kapcsolódó elméleti és gyakorlati vizsgák sikeres teljesítéséről
+
+a) a közúti járművezetők részére a vizsgaigazolást a vizsgaközpont,
+
+b) a közúti közlekedési szakemberek részére a képesítés megszerzését igazoló okmányt a közlekedési hatóság
+
+adja ki.”
+
+(5) A Kkt. 18. §-a a következő (15)–(17) bekezdéssel egészül ki:
+
+„(15) Az e törvény felhatalmazása alapján kiadott rendeletben kijelölt felügyeleti szerv hatósági ellenőrzés keretében ellenőrzi a vizsgaközpont e törvény és annak felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó tevékenységének jogszerűségét.
+
+(16) A felügyeleti szerv az ellenőrzés során a vizsgaközpont e törvény hatálya alá tartozó tevékenységeire vonatkozó adatbázisaiba betekinthet, az ott tárolt adatokról, listákról másolatot vagy feljegyzést készíthet. Az így tudomására jutott személyes adatokat a felügyeleti szerv a hatósági ellenőrzési eljárás lezárását követő egy év elteltével törli.
+
+(17) Ha a felügyeleti szerv a lefolytatott vizsgálat alapján megállapítja, hogy a vizsgaközpont nem a jogszabályoknak megfelelően végzi a tevékenységet, az alábbi jogkövetkezményeket alkalmazhatja:
+
+a) a figyelmeztetést tartalmazó döntésében felhívja a vizsgaközpont figyelmét a kötelezettségei teljesítésére és határidő tűzésével kötelezi a jogsértés megszüntetésére, vagy
+
+b) bírságot szab ki, amelynek mértéke 10 millió forintig terjedhet, amely az államháztartás központi alrendszerének bevételét képezi.”
+
+2. § A Kkt. 24/A. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A jármű időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság kormánytisztviselője, állami tisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló személy (a továbbiakban együtt: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenységet az folytathat, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, a műszaki vizsgabiztosi tevékenység folytatásához a közlekedési hatóság által kiadott engedéllyel rendelkezik, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság által a tevékenység folytatására jogosult személyekről vezetett közhiteles hatósági nyilvántartás tartalmazza a vizsgabiztosi tevékenység végzésére jogosult személy természetes személyazonosító adatait.”
+
+3. § A Kkt. 29. §-a a következő (4d) és (4e) bekezdéssel egészül ki:
+
+„(4d) A (3)–(4c) bekezdésben foglaltakat kell alkalmazni abban az esetben is, ha a (2) bekezdés szerinti építtetői feladatokat az út kezelője vagy – a vízgazdálkodási beruházás részeként megvalósuló közúti felújításnál, karbantartásnál, illetve fejlesztésnél – a vízi létesítmény építtetője látja el, azzal, hogy a felhasznált forrásokkal és a létrehozott eszközökkel a magyar állam nevében eljáró, a forrásokat rendelkezésre bocsátó szervvel, a vele – külön jogszabály alapján – megkötött szerződés rendelkezései szerint számol el.
+
+(4e) Az építtető által a 100%-os állami tulajdonban álló gazdálkodó szervezet tulajdonában lévő ingatlanon állami beruházás keretében elvégzett értéknövelő beruházás az ingatlan tulajdonosának tulajdonaként jön létre.”
+
+(2) A Kkt. 29. § (11) bekezdése helyébe a következő rendelkezés lép és a § a következő (11a) bekezdéssel egészül ki.
+
+„(11) A helyi önkormányzat – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő autóbuszöböl-építés, útcsatlakozás kiépítése, kerékpárút-építés, csapadékelvezető rendszer, parkolósáv és járda, forgalomcsillapító sziget, középsziget kiépítése, valamint az ezekhez kapcsolódó útfelújítási munkák esetében.
+
+(11a) A nem központi költségvetésből vagy nem európai uniós forrásból megvalósuló utak beruházója a miniszter egyetértése esetén – az országos közút tulajdonosának és vagyonkezelőjének előzetes hozzájárulásával és a közút kezelőjének szakfelügyelete mellett – építtetőnek minősül az országos közutat vagy annak területét érintő építési munkák, valamint az ezekhez kapcsolódó útfelújítási munkák vonatkozásában.”
 
 4. §
 
@@ -28,9 +64,21 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 8. §
 
-9. §
+9. § A Kkt. a következő 46/M. §-sal egészül ki:
 
-10. §
+„46/M. § (1) Az e törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2018. évi XCVIII. törvénnyel (a továbbiakban: Módtv3.) megállapított 18. § (1) bekezdésében foglalt rendelkezések a Módtv3. hatálybalépésekor folyamatban lévő, járművezetői vizsgabiztosok, műszaki vizsgabiztosok, szakoktatók, iskolavezetők, valamint utánképzési foglalkozásvezetők képzését és továbbképzését nem érintik.
+
+(2) Az e törvénynek a Módtv3. által megállapított 24/A. § (6) bekezdése szerinti nyilvántartásban a 2018. december 31. napján szereplő vizsgabiztost úgy kell tekinteni, hogy a vizsgabiztosi tevékenység folytatásához engedéllyel rendelkezik.”
+
+10. § A Kkt. 48. § (3) bekezdés a) pontja a következő 41. alponttal egészül ki:
+
+(Felhatalmazást kap
+
+a) a Kormány, hogy)
+
+„41. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását”
+
+(rendeletben állapítsa meg.)
 
 11. §
 
@@ -38,13 +86,18 @@ az egyes közlekedési tárgyú törvények módosításáról
 
 13. §
 
-14. §
+14. § Hatályát veszti a Kkt.
+
+- a) 9. § (6) bekezdése,
+- b) 18. § (14) bekezdése,
+- c) 29. § (4) bekezdése,
+- d) 46/F. §-a
 
 #### 2. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
 15. §
 
-16. §
+16. § A Bt. 3. § (1b) bekezdés b) pontjában a „célkitermelőhely rekultiválására” szövegrész helyébe a „célkitermelőhely vagy bánya rekultiválására” szöveg lép.
 
 #### 3. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 

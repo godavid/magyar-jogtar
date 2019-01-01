@@ -6,7 +6,9 @@ A szövetkezetekről szóló 1992. évi I. törvény 114. §-ában foglaltaknak 
 
 ### ÁLTALÁNOS SZABÁLYOK
 
-1–2. §
+1. §
+
+2. §
 
 ### I. Fejezet — A TAGOK ÉS A SZÖVETKEZET KÖZÖTTI VAGYONI VISZONYOK RENDEZÉSE
 
@@ -56,7 +58,15 @@ a bejelentés alapján visszanyerik tagságukat. A bejelentést a szövetkezet v
 
 (3) A tagsági viszony helyreállítása esetében a részjegy jegyzésére az Szvt. 52. §-ának (2)—(3) bekezdését kell alkalmazni.
 
-8–12. §
+8. §
+
+9. §
+
+10. §
+
+11. §
+
+12. §
 
 ### A termőföldre vonatkozó sajátos szabályok
 
@@ -174,6 +184,8 @@ amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától szám�
 
 (3) A mezőgazdasági igazgatási szerv a záró aranykorona-mérleg és az összesített maradványterületek adatainak közlését követő 30 napon belül hozza meg az (1) bekezdés szerinti határozatot.
 
+25/B. § Azokban az esetekben, amikor a földalapok elkülönítéséről, illetve kijelöléséről szóló határozat az egyes kárpótlással összefüggő törvények módosításáról szóló 2016. évi CII. törvény (a továbbiakban: Tv.) hatálybalépése napján vagy azt követően vált végrehajthatóvá, a határozat alapján elkülönített, illetve kijelölt kárpótlási földalap tekintetében a kárpótlási árverés a Tv. hatálybalépése napját megelőző napon hatályos szabályok szerint tartható meg.
+
 26. § A 25. § szerinti változást az ingatlannyilvántartásban a tulajdonos részarány-tulajdonaként kell feltüntetni.
 
 27. § A részarány-földtulajdonos kérésére az ingatlannyilvántartásban feltüntetett tulajdoni részarányoknak és AK értékenek megfelelő nagyságú és értékű földet részére ki kell adni.A föld önálló ingatlanná alakításának költsége és a tulajdonjog ingatlan-nyilvántartási bejegyzésének illetéke — ha törvény másként nem rendelkezik — a tulajdonost terheli.
@@ -182,15 +194,31 @@ amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától szám�
 
 ### Egyesülés, szétválás, átalakulás és megszűnés
 
-28–30. §
+28. §
+
+29. §
+
+30. §
 
 ### Kiválás
 
-31-35. §
+31. §
+
+32. §
+
+33. §
+
+34. §
+
+35. §
 
 ### A szövetkezeti szakcsoportokra vonatkozó szabályok
 
-36–38. §
+36. §
+
+37. §
+
+38. §
 
 ### A VAGYON MEGOSZTÁSA A MEZŐGAZDASÁGI ÉS AZ IPARI SZÖVETKEZETBEN
 
@@ -204,15 +232,45 @@ amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától szám�
 
 ### Vagyonmegosztás árveréssel
 
-41–47. §
+41. §
+
+42. §
+
+43. §
+
+44. §
+
+45. §
+
+46. §
+
+47. §
 
 ### III. Fejezet — ELJÁRÁSI SZABÁLYOK
 
-48–54. §
+48. §
+
+49. §
+
+50. §
+
+51. §
+
+52. §
+
+53. §
+
+54. §
 
 ### IV. Fejezet — VEGYES RENDELKEZÉSEK
 
-55–58. §
+55. §
+
+56. §
+
+57. §
+
+58. §
 
 ### ZÁRÓ RENDELKEZÉSEK
 
@@ -220,4 +278,12 @@ amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától szám�
 
 (2) Felhatalmazást kap a az agrárpolitikáért felelős miniszter és az államháztartásért felelős miniszter, hogy az egyszerűsített vagyonértékelés szabályait [39. § (1) bekezdés] rendelettel megállapítsa.
 
-60–64. §
+60. §
+
+61. §
+
+62. §
+
+63. §
+
+64. §

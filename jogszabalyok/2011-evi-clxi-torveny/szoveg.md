@@ -143,7 +143,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 - a) elbírálja – törvényben meghatározott ügyekben – a törvényszék, továbbá az ítélőtábla határozata ellen előterjesztett jogorvoslatot,
 - b) elbírálja a felülvizsgálati kérelmet,
 - c) a bíróságokra kötelező jogegységi határozatot hoz,
-- d) joggyakorlat-elemzést folytat a jogerősen befejezett ügyekben, ennek keretében feltárja és vizsgálja a bíróságok ítélkezési gyakorlatát,
+- d) joggyakorlat-elemzést folytat a jogerős vagy véglegessé vált határozattal befejezett ügyekben, ennek keretében feltárja és vizsgálja a bíróságok ítélkezési gyakorlatát,
 - e) elvi bírósági határozatokat és elvi bírósági döntéseket tesz közzé,
 - f) dönt az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről,
 - g) dönt a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról, és
@@ -157,13 +157,13 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 #### 7. Általános rendelkezések
 
-25. § A Kúria az Alaptörvény 25. cikk (3) bekezdésében meghatározott feladatának ellátása körében jogegységi határozatokat hoz, joggyakorlat-elemzést folytat jogerősen befejezett ügyekben, valamint elvi bírósági határozatokat és elvi bírósági döntéseket tesz közzé.
+25. § A Kúria az Alaptörvény 25. cikk (3) bekezdésében meghatározott feladatának ellátása körében jogegységi határozatokat hoz, joggyakorlat-elemzést folytat jogerős vagy véglegessé vált határozattal befejezett ügyekben, valamint elvi bírósági határozatokat és elvi bírósági döntéseket tesz közzé.
 
-26. § (1) Ha az ítélőtábla, a törvényszék, a közigazgatási és munkaügyi bíróság vagy a járásbíróság tanácsa, illetve egyesbírája valamely elvi kérdésben határozott és a határozata jogerőre emelkedett, köteles az elvi jelentőségű határozatot a bíróság elnökének bemutatni.
+26. § (1) Ha az ítélőtábla, a törvényszék, a közigazgatási és munkaügyi bíróság vagy a járásbíróság tanácsa, illetve egyesbírája valamely elvi kérdésben határozott és a határozata jogerőre emelkedett vagy véglegessé vált, köteles az elvi jelentőségű határozatot a bíróság elnökének bemutatni.
 
 (2) Az ítélőtábla és a törvényszék elnöke, valamint kollégiumvezetője, a közigazgatási és munkaügyi bíróság, továbbá a járásbíróság elnöke köteles a vezetése alatt álló bíróságok – illetve a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője a regionális kollégiumhoz tartozó bíróságok – ítélkezését folyamatosan figyelemmel kísérni.
 
-(3) Ha a bíróság elnöke, az ítélőtábla vagy a törvényszék kollégiumvezetője, illetve a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője az (1) bekezdés szerinti határozatból, a bíróság által elintézett ügyekből, a bíróságokon lefolytatott vizsgálat alkalmával vagy más módon arról szerzett tudomást, hogy a vezetése vagy a felügyelete alatt álló, illetve a közigazgatási és munkaügyi regionális kollégiumhoz tartozó bíróságon elvi jelentőségű döntés született, elvi kérdésben ellentétes gyakorlat alakult ki vagy ellentétes elvi alapokon nyugvó jogerős határozatokat hoztak, erről köteles a magasabb szintű bíróság elnökét – a határozatok és a szükséghez képest az egyéb iratok felterjesztésével – tájékoztatni.
+(3) Ha a bíróság elnöke, az ítélőtábla vagy a törvényszék kollégiumvezetője, illetve a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője az (1) bekezdés szerinti határozatból, a bíróság által elintézett ügyekből, a bíróságokon lefolytatott vizsgálat alkalmával vagy más módon arról szerzett tudomást, hogy a vezetése vagy a felügyelete alatt álló, illetve a közigazgatási és munkaügyi regionális kollégiumhoz tartozó bíróságon elvi jelentőségű döntés született, elvi kérdésben ellentétes gyakorlat alakult ki vagy ellentétes elvi alapokon nyugvó jogerős vagy véglegessé vált határozatokat hoztak, erről köteles a magasabb szintű bíróság elnökét – a határozatok és a szükséghez képest az egyéb iratok felterjesztésével – tájékoztatni.
 
 (4) A közigazgatási és munkaügyi ügyekben a (3) bekezdés szerinti kötelezettségének teljesítése során a törvényszék elnöke, kollégiumvezetője, valamint a közigazgatási és munkaügyi regionális kollégium kollégiumvezetője a Kúria elnökét tájékoztatja.
 
@@ -299,15 +299,45 @@ indítványozza.
 
 46. § Az önkormányzati tanács eljárására a közigazgatási perrendtartásról szóló törvénynek az önkormányzati rendelet felülvizsgálatára irányuló és a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztása miatti eljárásra vonatkozó szabályait kell alkalmazni.
 
-#### 47–56. §
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
+
+#### 54. §
+
+#### 55. §
+
+#### 56. §
 
 #### 16.
 
-#### 57–61. §
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
 
 ### V. Fejezet
 
-#### 62–64. §
+#### 62. §
+
+#### 63. §
+
+#### 64. §
 
 ## HARMADIK RÉSZ — A BÍRÓSÁGOK KÖZPONTI IGAZGATÁSA
 
@@ -334,7 +364,7 @@ indítványozza.
 68. § (1) Nem választható az OBH elnökévé az,
 
 - a) aki az OBT tagja,
-- b) akivel szemben fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban,
+- b) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll,
 - c) aki fegyelmi büntetés hatálya alatt áll,
 - d) akivel szemben eljárás van folyamatban az alkalmatlanságának megállapítása iránt,
 - e) akinek a bírói szolgálati viszonya törvény alapján szünetel, vagy
@@ -424,7 +454,7 @@ indítványozza.
 - b) javaslatot tesz a köztársasági elnöknek a bírák kinevezésére és felmentésére,
 - c) a bírót első kinevezésekor – a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott esetben – beosztja az elnyert pályázat szerinti bíróságra,
 - d) beosztja a katonai bírót a katonai tanácsba, valamint a Magyar Honvédségnél fennálló hivatásos szolgálati viszonyának megszűnésekor más bírói munkakörbe,
-- e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a Be. 17. § (5) és (6) bekezdésében, továbbá 448. § (2) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
+- e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a Be. 680. § (4) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
 - f) beoszthatja a bírót a Kúriára, az OBH-ba, továbbá az igazságügyért felelős miniszter által vezetett a minisztériumba, illetve dönt a beosztás megszüntetéséről és a bírónak ismét tényleges bírói álláshelyre történő beosztásáról,
 - g) dönt a bíró áthelyezéséről,
 - h) dönt a bíró más szolgálati helyre történő kirendeléséről, ha a kirendelés nem a törvényszék és az illetékességi területén működő közigazgatási és munkaügyi bíróság, illetve járásbíróság között vagy a törvényszék illetékességi területén működő járásbíróságok között, vagy a törvényszék illetékességi területén működő közigazgatási és munkaügyi bíróság és a járásbíróságok között történik,
@@ -576,7 +606,7 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 (2) Nem választható az OBT tagjává az,
 
-- a) akivel szemben fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban,
+- a) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll,
 - b) aki fegyelmi büntetés hatálya alatt áll,
 - c) akivel szemben eljárás van folyamatban az alkalmatlanságának megállapítása iránt,
 - d) aki a törvény szerint beosztása következtében nem ítélkezhet, továbbá akinek a bírói jogviszonya a törvény alapján szünetel,
@@ -723,7 +753,7 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 (4) Az OBT tagja nem gyakorolhatja az OBT tagságból eredő jogait és kötelességeit
 
-- a) az ellene indított fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás alatt,
+- a) az ellene indított fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás alatt,
 - b) a bírói alkalmatlanságának megállapítása iránt indított eljárás alatt.
 
 (5) Az OBT tagja a személyét érintő kérdésben nem szavazhat.
@@ -768,7 +798,7 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 (2) Nem választható a Kúria elnökévé az,
 
-- a) akivel szemben fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban,
+- a) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás hatálya alatt áll,
 - b) aki fegyelmi büntetés hatálya alatt áll,
 - c) akivel szemben eljárás van folyamatban az alkalmatlanságának megállapítása iránt vagy
 - d) akinek a bírói szolgálati viszonya törvény alapján szünetel.
@@ -1087,7 +1117,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 (4) Nem választható a bírói tanács tagjává,
 
-- a) aki ellen fegyelmi vagy – a magánvádas és pótmagánvádló vádindítványa alapján indult eljárást kivéve – büntetőeljárás van folyamatban vagy aki jogerős fegyelmi határozat hatálya alatt áll,
+- a) aki fegyelmi vagy – a magánvádas és pótmagánvádas eljárást kivéve – büntetőeljárás vagy jogerős fegyelmi határozat hatálya alatt áll,
 - b) aki a 16. § a)–c) pontjában felsorolt bíróság elnöke és elnökhelyettese, vagy
 - c) akivel szemben eljárás van folyamatban alkalmatlanságának megállapítása iránt.
 
@@ -1337,11 +1367,27 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 #### 59. Az OBT bíró tagjainak első alkalommal történő megválasztására vonatkozó átmeneti rendelkezések
 
-178. § (1)–(4)
+178. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5) 2012. december 31-ig az OBT-ben a közigazgatási és munkaügyi bírósági szint képviselőjén a munkaügyi bírósági bírót kell érteni.
 
-#### 179–184. §
+#### 179. §
+
+#### 180. §
+
+#### 181. §
+
+#### 182. §
+
+#### 183. §
+
+#### 184. §
 
 #### 60. A megbízatások lejárta, az új megbízatások kezdete időpontjának meghatározása
 
@@ -1429,11 +1475,19 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 #### 64. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-#### 198–201. §
+#### 198. §
+
+#### 199. §
+
+#### 200. §
+
+#### 201. §
 
 #### 65. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
-#### 202–203. §
+#### 202. §
+
+#### 203. §
 
 #### 66. A Polgári perrendtartásról szóló 1952. évi III. törvény módosítása
 

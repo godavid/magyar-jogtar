@@ -6,11 +6,13 @@ az adóhatóság által foganatosítandó végrehajtási eljárásokról
 
 #### 1. A törvény hatálya
 
-1. § (1) E törvényt kell alkalmazni az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság (a továbbiakban együtt: adóhatóság) által megállapított, nyilvántartott, törvényen alapuló fizetési kötelezettségek végrehajtása során.
+1. § (1) E törvényt kell alkalmazni az állami adó- és vámhatóság, valamint az önkormányzati adóhatóság (a továbbiakban együtt: adóhatóság) által megállapított, nyilvántartott, törvényen vagy önkormányzati rendeleten alapuló fizetési kötelezettségek végrehajtása során.
 
 (2) Törvény, kormányrendelet vagy önkormányzati hatósági ügyben helyi önkormányzati rendelet eltérő rendelkezése hiányában e törvény rendelkezéseit kell alkalmazni arra a végrehajtásra, amelyet az általános közigazgatási rendtartás alapján az állami adó- és vámhatóság foganatosít.
 
 (3) E törvény rendelkezéseit kell alkalmazni azon köztartozások, igazgatási és bírósági szolgáltatási díjak és egyéb tartozások végrehajtása során, amelyekre törvény az adók módjára való behajtást rendeli el (a továbbiakban: adók módjára behajtandó köztartozás).
+
+(4) E törvény rendelkezéseit kell alkalmazni az állami adó- és vámhatóság javára fizetési kötelezettséget megállapító jogerős bírósági határozaton, bíróság által jogerősen jóváhagyott egyezségen, továbbá a bírósági eljárási illetéket megállapító bírósági határozaton alapuló kötelezettségek, valamint azon egyéb kötelezettségek végrehajtása során is, amelyek tekintetében az állami adó- és vámhatósághoz érkezett megkeresések e törvény alapján végrehajtható okiratnak minősülnek.
 
 #### 2. Az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szabályainak alkalmazása
 
@@ -45,7 +47,7 @@ kell érteni.
 
 - 1. adó: az adó, a járulék, az illeték, a díj, hozzájárulás, továbbá a központi költségvetés, a Nemzeti Foglalkoztatási Alap, a Nemzeti Kutatási, Fejlesztési és Innovációs Alap, a Nemzeti Kulturális Alap, az Egészségbiztosítási Alap, valamint a Nyugdíjbiztosítási Alap vagy az önkormányzat javára teljesítendő, törvényen alapuló kötelező befizetés;
 - 2. adós: az adózó, az adó megfizetésére kötelezett személy, továbbá a pénzfizetésre vagy a meghatározott cselekmény végrehajtására, tűrésére vagy abbahagyására kötelezett személy;
-- 3. behajtást kérő: az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, vagy a tartozás jogosultja;
+- 3. behajtást kérő: az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv vagy a tartozás jogosultja, illetve a 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresések esetében jogszabály alapján végrehajtás kezdeményezésére jogosult szerv vagy személy, ideértve a zár alá vétel tekintetében a megkeresőt is;
 - 4. behajtást kérő hatóság: az általános közigazgatási rendtartáson alapuló végrehajtást kezdeményező hatóság;
 - 5. EKAER: Elektronikus Közúti Áruforgalom Ellenőrző Rendszer, az állami adó- és vámhatóság által működtetett elektronikus rendszer, amely az Európai Unió valamely más tagállamából Magyarország területére, Magyarország területéről az Európai Unió valamely más tagállamába irányuló, a termék közúti fuvarozásával, illetve a Magyarország területén belül megvalósuló, a termék közúti fuvarozásával összefüggő adókötelezettségek teljesítésének ellenőrzését szolgálja;
 - 6. Európai Uniót megillető hagyományos saját forrásból fennálló követelés: az Európai Unió saját forrásainak rendszeréről szóló, 2014. május 26-i 2014/335/EU, Euratom tanácsi határozat 2. cikk (1) bekezdés a) pontja szerinti, az Európai Unió által a tagsággal nem rendelkező országokkal folytatott kereskedelemre megállapított vámok, egyéb vámok, valamint a cukorágazat piacának közös szervezése keretein belül nyújtott hozzájárulások;
@@ -66,6 +68,7 @@ kell érteni.
   - a) a lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott, vagy ilyenként feltüntetésre váró ingatlan (tulajdoni illetőség), ha arra használatbavételi engedélyt adtak ki,
   - b) a tanya és
   - c) az ingatlan-nyilvántartásban üdülőként nyilvántartott ingatlan, ha annak címe megegyezik az adós lakóhely igazolására szolgáló személyazonosító okmányában megjelölt címmel, és nem áll az adós tulajdonában olyan más ingatlan, amely lakás céljára alkalmas lenne;
+- 16a. minimálár: az árverésre kerülő ingóság vagy ingatlan azon legalacsonyabb vételára, amelyen az ingóságra vagy ingatlanra érvényes vételi ajánlat tehető;
 - 17. nettó tartozás: a tartozások összegének az adóhatóságnál nyilvántartott túlfizetés összegével csökkentett összege, amelynek számítása során túlfizetésként nem vehető figyelembe a letétként nyilvántartott összeg;
 - 18. pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi intézmény;
 - 19. romlandó dolog: a közeli lejáratú termék és az a dolog, amelynek állaga jelentősen romlana, vagy forgalmi értéke jelentősen csökkenne, ha az értékesítésre a végrehajtás általános szabályai szerint kerülne sor;
@@ -146,7 +149,7 @@ kell érteni.
 - a) a végrehajtás alá vont ingatlant a Nemzeti Eszközkezelő vásárolta meg, akkor a Vht. Kielégítés a Nemzeti Eszközkezelő által kifizetett vételárból alcíme szerinti,
 - b) az ingatlan kisajátítással érintett, akkor a Vht. Kielégítés kisajátításból befolyt összegből alcíme szerinti,
 - c) az ingóságnak (mint zálogtárgynak), illetve az ingatlannak az értékesítése során zálogjoggal, illetve jelzálogjoggal biztosított követelést is ki kell elégíteni, akkor a Vht. Kielégítés zálogjog alapján alcíme szerinti,
-- d) természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjárművet kell értékesíteni, akkor a Vht. Kielégítés a gépjármű értékesítéséből befolyt összegből alcíme szerinti
+- d) természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen járművet kell értékesíteni, akkor a Vht. Kielégítés a gépjármű értékesítéséből befolyt összegből alcíme szerinti
 
 különös elszámolási szabályok alkalmazandóak.
 
@@ -161,6 +164,8 @@ különös elszámolási szabályok alkalmazandóak.
 (4) Az adóhatóság a felfüggesztésre okot adó, méltányolható körülmények körében különösen értékeli az adós tartási kötelezettségébe tartozó személyek számát, az adós vagy az eltartott személy tartós és súlyos betegségét, az adóst is sújtó, a végrehajtás során bekövetkezett elemi csapást vagy ipari katasztrófát.
 
 (5) Az eljáró adóhatóság a végrehajtási eljárást törvényben meghatározott esetben felfüggeszti.
+
+(5a) A felfüggesztést elrendelő végzés elleni fellebbezésnek a döntés végrehajtására nincs halasztó hatálya.
 
 (6) Ha az adóhatóság hatósági átutalási megbízását a fizetési számlát vezető pénzforgalmi szolgáltató a végrehajtás felfüggesztéséről szóló végzés meghozataláig nem teljesítette, az adóhatóság a hatósági átutalási megbízás visszavonásáról haladéktalanul intézkedik. Ha a fizetési számlát vezető pénzforgalmi szolgáltató a hatósági átutalási megbízást a felfüggesztés kezdő napját követően, a felfüggesztés hatálya alatt teljesítette és az összeget az adóhatóság részére átutalta, az adóhatóság azt a tudomására jutásától számított 8 napon belül visszatéríti az adósnak.
 
@@ -184,7 +189,7 @@ különös elszámolási szabályok alkalmazandóak.
 
 #### 11. A végrehajtás megszüntetése
 
-18. § Meg kell szüntetni a végrehajtási eljárást, ha
+18. § Végzéssel meg kell szüntetni a végrehajtási eljárást, ha
 
 - a) az adós a tartozását maradéktalanul megfizette,
 - b) a tartozást az adóhatóság teljes egészében behajtotta,
@@ -200,7 +205,7 @@ különös elszámolási szabályok alkalmazandóak.
 
 19. § (1) A tartozás és a meghatározott cselekmény végrehajtásához való jog az esedékesség naptári évének az utolsó napjától számított 4 év elteltével évül el. Ha az adóhatóság végrehajtási cselekményt foganatosított, az elévülés 6 hónappal meghosszabbodik.
 
-(2) Az adóbevallás késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése az adóbevallás benyújtásának időpontjával megszakad, és az elévülés az adóbevallás benyújtását követő napon újból megkezdődik.
+(2) A bevallás, adatbejelentés, a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés késedelmes benyújtása esetén az adótartozás végrehajtásához való jog elévülése a bevallás, adatbejelentés, a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés benyújtásának időpontjával megszakad, és az elévülés a bevallás, adatbejelentés, a Tbj. 39. § (2) bekezdése alapján előírt járulékfizetési kötelezettségekre vonatkozó bejelentés benyújtását követő napon újból megkezdődik.
 
 (3) Ha az adós ellen felszámolási eljárás indul, a tartozás végrehajtásához való jog elévülése a felszámolás kezdő időpontjával megszakad, és az elévülés a felszámolási eljárás befejezéséről hozott döntés jogerőre emelkedését követő napon újból megkezdődik.
 
@@ -236,7 +241,9 @@ különös elszámolási szabályok alkalmazandóak.
 
 #### 16. Jogorvoslat a végrehajtási eljárásban
 
-24. § (1) A végrehajtási eljárás során az adóhatóság, illetve az önálló bírósági végrehajtó 36. § alapján foganatosított törvénysértő intézkedése vagy intézkedésének elmulasztása ellen az adós, a behajtást kérő, a behajtást kérő hatóság, illetve az, akinek a végrehajtás jogát vagy jogos érdekét sérti – a sérelmezett intézkedés vagy annak elmaradásának tudomására jutásától számított 15 napon belül – a végrehajtást foganatosító elsőfokú adóhatóságnál végrehajtási kifogást terjeszthet elő. Ha az önálló bírósági végrehajtó törvénysértő intézkedése vagy intézkedésének elmulasztása ellen az elsőfokú adóhatóságnál terjesztenek elő végrehajtási kifogást, erről az adóhatóság soron kívül értesíti az önálló bírósági végrehajtót.
+24. § (1) A végrehajtási eljárás során az adóhatóság, illetve az önálló bírósági végrehajtó 36. § alapján foganatosított törvénysértő intézkedése vagy intézkedésének elmulasztása ellen az adós, a behajtást kérő, a behajtást kérő hatóság, illetve az, akinek a végrehajtás jogát vagy jogos érdekét sérti – a sérelmezett intézkedéstől vagy annak elmaradásától számított 15 napon belül – a végrehajtást foganatosító elsőfokú adóhatóságnál végrehajtási kifogást terjeszthet elő. Ha az önálló bírósági végrehajtó törvénysértő intézkedése vagy intézkedésének elmulasztása ellen az elsőfokú adóhatóságnál terjesztenek elő végrehajtási kifogást, erről az adóhatóság soron kívül értesíti az önálló bírósági végrehajtót.
+
+(1a) Ha az (1) bekezdés szerinti intézkedéstől vagy intézkedés elmulasztásától számított 15 napon túl jut a végrehajtási kifogást előterjesztő tudomására az intézkedés vagy az intézkedés elmulasztása, vagy a kifogás előterjesztésében az intézkedéstől vagy annak elmaradásától számított 15 napon túl is akadályoztatva volt, a végrehajtási kifogás előterjesztésének határidejét a tudomásszerzéstől vagy az akadály megszűnésétől kell számítani, ha a kifogást előterjesztő a későbbi tudomásszerzés vagy az akadályoztatás tényét kellően igazolja. A végrehajtási kifogás előterjesztésére megállapított határidő elmulasztásával kapcsolatos igazolási kérelmet a végrehajtást foganatosító adóhatóság bírálja el. A határidő elmulasztása esetén az igazolási kérelemmel egyidejűleg pótolni kell az elmulasztott cselekményt is, ha ennek feltételei fennállnak. Ha az adóhatóság az igazolási kérelemnek helyt ad, az elmulasztott határnapot vagy határidőt megtartottnak tekinti, ezért ha szükséges, a döntését módosítja vagy visszavonja.
 
 (2) A végrehajtási kifogásban meg kell jelölni a sérelmezett intézkedést és azt, hogy a kifogást előterjesztő az intézkedés megsemmisítését vagy megváltoztatását milyen okból kívánja.
 
@@ -279,7 +286,32 @@ végzés ellen.
 - f) büntetőeljárás során hozott határozat, amely jogerősen adóbevétel-csökkenést, vagyoni hátrányt, vagy jogosulatlanul igénybe vett költségvetési támogatást állapít meg, kizárólag az adóbevétel-csökkenés, a vagyoni hátrány vagy a jogosulatlanul igénybe vett költségvetési támogatás tekintetében,
 - g) az általános közigazgatási rendtartáson alapuló végrehajtás esetén a behajtást kérő hatóság megkeresésének mellékletét képező, annak alapjául szolgáló döntés – ide értve a meghatározott cselekmény végrehajtását is –,
 - h) az adók módjára behajtandó köztartozás esetén a behajtást kérő megkeresése,
-- i)–p)
+- i) a bíróság pénzbírságról, teljesítési bírságról, rendbírságról – kivéve, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a Vht. 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi –, a vagyonelkobzásról, az elektronikus adat végleges hozzáférhetetlenné tételéről, az Európai Unió tagállamában büntetőeljárásban bűncselekmény elkövetése miatt kiszabott pénzösszegről, valamint az Európai Unió tagállamai közé nem tartozó államban (a továbbiakban: külföldi állam) vagy az Európai Unió tagállamában büntetőeljárásban alkalmazott vagyonelkobzásról, valamint fiatalkorú elítélt esetén a pénzbüntetésről szóló értesítése esetén a behajtást kérő megkeresése,
+- j) a büntetőeljárásról szóló törvény alapján
+  - ja) elrendelt elővezetés vagy előállítás költségének,
+  - jb) a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség, illetve nyomozó hatóság vagy végrehajtásért felelős szerv elé állítása költségének,
+  - jc) az ügyészség, illetve a nyomozó hatóság által kiszabott rendbírságnak,
+  - jd) a bíróság vagy az ügyészség által a bűnügyi költségnek
+
+a megállapításáról szóló értesítés esetén a behajtást kérő megkeresése,
+
+- k) a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) alapján
+  - ka) elrendelt elővezetés költségének,
+  - kb) az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állítása költségének, továbbá
+  - kc) az elítélt vagy az egyéb jogcímen fogvatartott kérelmére és költségére történő előállítás során felmerült költségnek
+
+a megállapításáról szóló értesítés esetén a behajtást kérő megkeresése,
+
+- l) fegyelmi eljárásban a végrehajtóval, végrehajtó-helyettessel és végrehajtójelölttel szemben kiszabott pénzbírságról szóló értesítés esetén a behajtást kérő megkeresése,
+- m) az alapos kifogás esetén a végrehajtót az állam felé terhelő befizetési kötelezettségről szóló értesítés esetén a behajtást kérő megkeresése,
+- n) a bírósági gazdasági hivatalnak a közjegyző által kiszabott pénzbírságról szóló értesítése esetén a behajtást kérő megkeresése,
+- o) a pártfogó felügyelői szolgálat által a közvetítői eljárásban megállapított, az állam által előlegezett és visszatérítendő költségről szóló értesítés esetén a behajtást kérő megkeresése,
+- p) a bűnügyi zárlatot elrendelő, az elektronikus adat ideiglenes hozzáférhetetlenné tételéről, illetve visszaállításáról, valamint az elektronikus adat megőrzésére kötelezésről szóló határozat esetén a behajtást kérő megkeresése,
+- q) az Európai Unió és az Egyesült Nemzetek Szervezete Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására zárlatot elrendelő végzés esetén a behajtást kérő megkeresése,
+- r) a polgári ügyben az állam által előlegezett költséget tartalmazó megkeresés,
+- s) a bíróság által előlegezett gyermektartásdíjat tartalmazó megkeresés,
+- t) a bíróságot, az Országos Bírósági Hivatal elnökét, az Országos Bírósági Hivatalt, a minisztériumot, az igazságügyi szakértői intézményt vagy az államot egyéb jogcímen megillető követelést tartalmazó megkeresés,
+- u) a büntetés-végrehajtási szervezetet a fogvatartottal – illetve a volt fogvatartottal – szemben megillető követelést tartalmazó megkeresés,
 - v) a termékdíjátalány fizetésére jogosult mezőgazdasági termelő termékdíj kötelezettségét tartalmazó bejelentés, és
 - w) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 7. § (1) bekezdése szerinti bejelentés, a 7. § (5) bekezdése szerinti változás bejelentés és a 8. § (11) bekezdése szerinti bejelentés.
 
@@ -448,7 +480,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 (2) A vállalkozási tevékenységet végző adós üzemi, illetve üzleti tevékenységéhez szükséges járművére folytatott végrehajtást, a végrehajtó a jármű lefoglalás foglalási jegyzőkönyvben történő feltüntetésével foganatosítja. Ha ez lehetséges, a jármű törzskönyvét is le kell foglalni. Ha a jármű lefoglalását követő 6 hónapon belül az adós a tartozását nem fizeti meg, a végrehajtó a jármű forgalmi engedélyét is lefoglalja.
 
-(3) Ha a lefoglalt járművet az adós az adóhatóság felhívására nem adja át, és az adós lakóhelyén (tartózkodási helyén) vagy székhelyén, telephelyén, fióktelepén az nem fellelhető, az adóhatóság az ismeretlen helyen lévő jármű feltalálási helyének megállapítása érdekében végzéssel tárgykörözést rendelhet el.
+(3) Ha a lefoglalt járművet az adós az adóhatóság felhívására nem adja át, és az adós lakóhelyén (tartózkodási helyén) vagy székhelyén, telephelyén, fióktelepén az nem fellelhető, az adóhatóság az ismeretlen helyen lévő jármű feltalálási helyének megállapítása érdekében végzéssel tárgykörözést rendelhet el. A tárgykörözést elrendelő végzés a közlés időpontjától kezdve fellebbezésre tekintet nélkül végrehajtható.
 
 (4) A (3) bekezdésben foglalt intézkedések költségét az adóvégrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló rendelet készkiadásra vonatkozó szabályai szerint számítja fel az adóhatóság.
 
@@ -498,7 +530,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 (6) A jelzálogjog bejegyzését követően, ha a végrehajtás más formái nem vezettek eredményre, az adóhatóság megkeresheti az ingatlanügyi hatóságot a jelzálogjog törlése és a végrehajtási jognak a jelzálogjog ranghelyére soron kívül történő bejegyzése iránt.
 
-(7) Ha az adóhatóság által folytatott végrehajtási eljárásban a végrehajtással érintett fizetési kötelezettség érvényesítése e törvény alapján a központi költségvetés vagy a Magyar Állam javára történik, akkor az ingatlan-nyilvántartásba bejegyzendő jogok jogosultjaként a Magyar Államot kell feltüntetni azzal, hogy bírósági és más hatósági eljárásokban a jogosult képviseletében a Nemzeti Adó- és Vámhivatal illetékes területi szerve jár el.
+(7) Ha az adóhatóság által folytatott végrehajtási eljárásban a végrehajtással érintett fizetési kötelezettség érvényesítése e törvény alapján a központi költségvetés vagy a Magyar Állam vagy a helyi önkormányzat javára történik, akkor az ingatlan-nyilvántartásba bejegyzendő jogok jogosultjaként a Magyar Államot, illetve a helyi önkormányzatot kell feltüntetni azzal, hogy bírósági és más hatósági eljárásokban a jogosult képviseletében a Nemzeti Adó- és Vámhivatal illetékes területi szerve, illetve az önkormányzati adóhatóság jár el.
 
 53. § (1) Az ingatlant – a (2) bekezdésben foglalt kivétellel – beköltözhető állapotban kell árverezni.
 
@@ -564,11 +596,11 @@ kell értékesíteni.
 
 59. § (1) A lefoglalt ingatlant csak akkor lehet értékesíteni, ha a követelés egyéb végrehajtási cselekmény foganatosítása útján nem vagy csak aránytalanul hosszú idő múlva térülne meg.
 
-(2) Ha az adóhatóság ingófoglalást és ingatlan-végrehajtást is foganatosított, az ingatlan értékesítése iránt akkor intézkedhet, ha az ingóság értékékesítése eredménytelen volt, vagy a lefoglalt ingóságok értékesítéséből a tartozás előreláthatóan nem egyenlíthető ki, és a végrehajtási jog bejegyzéséről szóló határozatnak a végrehajtó részére történt kézbesítésétől számított 45 nap vagy az ingatlan fekvése szerinti jegyző Vht. szerinti tájékoztatásának kézbesítésétől számított 60 nap már eltelt.
+(2) Ha az adóhatóság ingófoglalást és ingatlan-végrehajtást is foganatosított, az ingatlan értékesítése iránt akkor intézkedhet, ha az ingóság értékesítése eredménytelen volt, vagy a lefoglalt ingóságok értékesítéséből a tartozás előreláthatóan nem egyenlíthető ki, és a végrehajtási jog bejegyzéséről szóló határozatnak az adóhatósággal való közlésétől számított 45 nap vagy az ingatlan fekvése szerinti jegyző Vht. szerinti tájékoztatásának kézbesítésétől számított 60 nap már eltelt.
 
-(3) Ha a végrehajtási jog bejegyzéséről szóló határozatnak az adóhatóság részére történt kézbesítésétől számított 8 napon belül igénypert indítottak, az igényelt ingatlan értékesítése iránt csak az igényper jogerős befejezése után lehet intézkedni
+(3) Ha a végrehajtási jog bejegyzéséről szóló határozatnak az adóhatósággal történő közlésétől számított 8 napon belül igénypert indítottak, az igényelt ingatlan értékesítése iránt csak az igényper jogerős befejezése után lehet intézkedni
 
-(4) Az adóhatóság az ingatlant a végrehajtási jog bejegyzéséről szóló határozat kézhezvételétől számított 3 hónapon belül olyan időpontban köteles értékesíteni, amely a helyi körülmények között a legcélszerűbb.
+(4) Az adóhatóság az ingatlant a végrehajtási jog bejegyzéséről szóló határozat közlésétől számított 3 hónapon belül olyan időpontban köteles értékesíteni, amely a helyi körülmények között a legcélszerűbb.
 
 #### 38. Ingóárverés
 
@@ -585,11 +617,11 @@ kell értékesíteni.
 
 - a) az adós, valamint az árverést lefolytató adóhatóság, továbbá megkeresésre folyó végrehajtás esetén a behajtást kérő, illetve a behajtást kérő hatóság nevét (megnevezését),
 - b) az árverés helyét és idejét,
-- c) az árverésre kerülő ingóságok megnevezését és becsértékét, azt a legkisebb vételárat, amelyen az ingóság értékesíthető (a továbbiakban: minimálár),
+- c) az árverésre kerülő ingóságok megnevezését és becsértékét, valamint a minimálárat,
 - d) azt, hogy az ingóságokat az árverés előtt hol és mikor lehet megtekinteni, és
 - e) azt, hogy van-e az ingóságokon tulajdonostársnak vagy egyéb személynek előárverezési joga.
 
-62. § Az árverési hirdetményt – az Air. kézbesítésre vonatkozó rendelkezéseire figyelemmel – kézbesíteni kell:
+62. § Az árverési hirdetményt – az Air. adóhatósági iratok közlésére vonatkozó rendelkezéseire figyelemmel – kézbesíteni kell:
 
 - a) az adósnak
 - b) megkeresésre folyó végrehajtás esetén a behajtást kérőnek, illetve a behajtást kérő hatóságnak továbbá
@@ -617,7 +649,7 @@ kell értékesíteni.
 - d) a c) pontban felsorolt személyek közeli hozzátartozója és élettársa, valamint
 - e) az árverési vételár megfizetését elmulasztó árverési vevő az ingóárverés további szakaszában.
 
-(3) Nem minősül kizártnak az árverezésből a (2) bekezdés c) és d) pontja szerinti személy, ha a dolog megszerzésére végrehajtást kérői vagy tulajdonostársi jogállása miatt van jogosultsága, vagy ha törvény számára elővásárlási jogot biztosít.
+(3) Nem minősül kizártnak az árverezésből a (2) bekezdés c) és d) pontja szerinti személy, ha a dolog megszerzésére behajtást kérőként, illetve behajtást kérő hatóságként vagy tulajdonostársi jogállása miatt van jogosultsága, vagy ha törvény számára elővásárlási jogot biztosít.
 
 65. § (1) Az árverésen jelen levő adós meghatározhatja az ingóságok árverésének sorrendjét.
 
@@ -642,21 +674,21 @@ kell értékesíteni.
 67. § (1) Az árverésről a végrehajtó árverési jegyzőkönyvet készít, és ebben – a 8. §-ban foglaltakon túl – feltünteti
 
 - a) az eljáró végrehajtó nevét,
-- b) a végrehajtható okirat megnevezését (ügyszámát), a jogosultak követeléseinek jogcímét és összegét,
-- c) az árverés menetének leírását,
+- b) a jogosultak követeléseinek jogcímét és összegét,
+- c)
 - d) az adós, a jelen levő más érdekelt esetleges kérelmét, észrevételét,
 - e) az elárverezett ingóság megnevezését, becsértékét és az árverési vételárat, és
 - f) az árverési vevő nevét, nem természetes személy árverési vevő esetén a szervezet megnevezését és székhelyét.
 
 (2) A végrehajtó a természetes személy árverési vevő lakóhelyét, illetve személyazonosításra szolgáló okmányának számát feljegyzi, és a feljegyzést zárt borítékban helyezi el, arról csak a bíróság, az ügyészség, a nyomozó hatóság és az ingóságot nyilvántartó hatóság részére adhat felvilágosítást.
 
-(3) Az árverési jegyzőkönyvet a végrehajtó és az árverési vevő írja alá.
+(3)
 
 (4) A végrehajtó az árverésről a jegyzőkönyv mellett kép- és hangfelvételt készít.
 
 (5) Az árverési jegyzőkönyv eredeti példányát az árverés befejezésekor át kell adni az árverési vevőnek, a jelen lévő adósnak, megkeresésre folyó végrehajtás esetén a behajtást kérőnek, illetve a behajtást kérő hatóságnak, továbbá ha bármelyik felet az árverésen harmadik személy képviseli, akkor a jelen levő képviselőnek, akik az árverési jegyzőkönyv átvételét aláírásukkal nyugtázzák.
 
-(6) Az árverési jegyzőkönyv másolatát vízi vagy légi jármű esetén – az Air. kézbesítésre vonatkozó rendelkezéseire figyelemmel – meg kell küldeni a járművet nyilvántartó hatóságnak. Az árverési vevőnek, az adósnak, megkeresésre folyó végrehajtás esetén a behajtást kérőnek, illetve a behajtást kérő hatóságnak az árverési jegyzőkönyv másolatát abban az esetben kell megküldeni, ha nem volt jelen az árverésen, vagy az árverési jegyzőkönyvet az árverés befejeztével nem vette át, vagy az átvételt az aláírásával nem nyugtázta.
+(6) Az árverési jegyzőkönyv másolatát vízi vagy légi jármű esetén – az Air. adóhatósági iratok közlésére vonatkozó rendelkezéseire figyelemmel – meg kell küldeni a járművet nyilvántartó hatóságnak. Az árverési vevőnek, az adósnak, megkeresésre folyó végrehajtás esetén a behajtást kérőnek, illetve a behajtást kérő hatóságnak az árverési jegyzőkönyv másolatát abban az esetben kell megküldeni, ha nem volt jelen az árverésen, vagy az árverési jegyzőkönyvet az árverés befejeztével nem vette át, vagy az átvételt az aláírásával nem nyugtázta.
 
 68. § (1) Az első árverésen el nem adott ingóságot második és ezt követő árverésen kell értékesíteni. Technológiai vagy termelési, szolgáltatási egységet képező ingóságok értékesítése esetén az egység részeinek egyenkénti értékesítését kell első árverésnek tekinteni.
 
@@ -708,7 +740,7 @@ kell értékesíteni.
 - f) a minimálárat, és
 - g) annak a számlának a számát, amelyre az árverező az előleget az árverést megelőzően átutalhatja.
 
-74. § Az árverési hirdetményt az Air. kézbesítésre vonatkozó rendelkezéseire figyelemmel a 62. § a)–b) pontjában felsorolt személy mellett kézbesíteni kell
+74. § Az árverési hirdetményt az Air. adóhatósági iratok közlésére vonatkozó rendelkezéseire figyelemmel a 62. § a)–b) pontjában felsorolt személy mellett kézbesíteni kell
 
 - a) azoknak, akiknek az ingatlanra vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van,
 - b) az ingatlan fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek, valamint
@@ -746,7 +778,7 @@ kell értékesíteni.
 
 (2) Az adóhatóság a vételár-különbözet megfizetésére végzésben legfeljebb 60 napig terjedő halasztást engedélyezhet, ha a vételár nagyobb összege vagy más fontos körülmény ezt indokolttá teszi.
 
-81. § (1) Az árverésről a végrehajtó árverési jegyzőkönyvet készít, és ebben – a 67. § (1) bekezdésében foglaltakon túlmenően – feltünteti az elárverezett ingatlannak az ingatlan-nyilvántartási adatait, lakóingatlan esetén a lakott vagy beköltözhető állapotban történt értékesítést, a kikiáltási árat, azt, hogy a legalacsonyabb érvényes vételi ajánlat megállapítása mely szabályok szerint történt, az árverési vételárat, továbbá az árverési vevő nevét, személyazonosító adatait, lakóhelyét, székhelyét. A 67. § (3) és (4) bekezdésében foglaltakat ingatlanárverés esetében is alkalmazni kell.
+81. § (1) Az árverésről a végrehajtó árverési jegyzőkönyvet készít, és ebben – a 67. § (1) bekezdésében foglaltakon túlmenően – feltünteti az elárverezett ingatlannak az ingatlan-nyilvántartási adatait, lakóingatlan esetén a lakott vagy beköltözhető állapotban történt értékesítést, a kikiáltási árat, azt, hogy a legalacsonyabb érvényes vételi ajánlat megállapítása mely szabályok szerint történt, az árverési vételárat, továbbá az árverési vevő nevét, személyazonosító adatait, lakóhelyét, székhelyét. A 67. § (4) bekezdésében foglaltakat ingatlanárverés esetében is alkalmazni kell.
 
 (2) Az árverési jegyzőkönyv másolatát hivatalos iratként meg kell küldeni az adósnak, megkeresésre folyó végrehajtás esetén a behajtást kérőnek, illetve a behajtást kérő hatóságnak és azoknak, akiknek az elárverezett ingatlanra vonatkozóan az ingatlan-nyilvántartásban bejegyzett joguk van.
 
@@ -879,7 +911,7 @@ kell értékesíteni.
 
 94. § (1) Ha az ingóságot, illetve az ingatlant nem sikerült a végrehajtás során értékesíteni és a 68. §, a 82. §, valamint a 89. § szerinti újabb árverések kitűzésétől sem várható sikeres értékesítés, továbbá azok tulajdon- vagy kezelői jogának átruházására a 23. § alapján egyezséget nem kötöttek, a vagyontárgyat a foglalás alól fel kell oldani, illetve intézkedni kell a végrehajtási jognak az ingatlan-nyilvántartásból történő törlése iránt.
 
-(2) Az ingóság foglalás hatálya alóli feloldása esetén az adóst fel kell hívni arra, hogy az ingóság feloldásáról rendelkező végzés kézhezvételétől számított 30 napon belül intézkedjen az ingóság elszállítása iránt. Ha az adós a felhívásnak a megadott határidőn belül nem tesz eleget, a végrehajtó az ingóság további őrzését megszünteti, és intézkedik annak karitatív célú felhasználása, megsemmisítése vagy hulladékként való átadása iránt.
+(2) Az ingóság foglalás hatálya alóli feloldása esetén az adóst fel kell hívni arra, hogy az ingóság foglalás hatálya alóli feloldásáról szóló tájékoztatás kézbesítésétől számított 30 napon belül intézkedjen az ingóság elszállítása iránt. Ha az adós a felhívásnak a megadott határidőn belül nem tesz eleget, a végrehajtó az ingóság további őrzését megszünteti, és intézkedik annak karitatív célú felhasználása, megsemmisítése vagy hulladékként való átadása iránt.
 
 (3) A (2) bekezdés szerinti intézkedések költségét az adóvégrehajtási eljárás során felmerült végrehajtási költségek és a végrehajtási költségátalány megállapításának és megfizetésének részletes szabályairól szóló miniszteri rendelet készkiadásra vonatkozó szabályai szerint számítja fel az adóhatóság.
 
@@ -891,11 +923,11 @@ kell értékesíteni.
 
 (2) Az általános közigazgatási rendtartás alapján a behajtást kérő hatóság által hozott, meghatározott dolog ideiglenes biztosítási intézkedésként, illetve biztosítási intézkedésként történő zár alá vételét vagy lefoglalását elrendelő döntését az állami adó- és vámhatóság a Vht. zárlatra vonatkozó szabályai alkalmazásával hajtja végre.
 
-96. § (1) A pénzkövetelés biztosítását elrendelő végzést a végrehajtó a helyszínen adja át az adósnak, egyúttal felhívja az adóst, hogy a biztosítandó összeget azonnal fizesse meg. Ha az adós ennek nem tett eleget, a végrehajtó az adós vagyontárgyait lefoglalja. Ha az adós, illetve képviselője nincs jelen, a végrehajtó a végzést a foglalási jegyzőkönyv másolatával együtt postán kézbesíti az adósnak, illetve képviselőjének.
+96. § (1) A pénzkövetelés biztosítását elrendelő végzést a végrehajtó a helyszínen adja át az adósnak, egyúttal felhívja az adóst, hogy a biztosítandó összeget azonnal fizesse meg. Ha az adós ennek nem tett eleget, a végrehajtó az adós vagyontárgyait lefoglalja. Ha az adós, illetve képviselője nincs jelen, a végrehajtó a végzést a foglalási jegyzőkönyv másolatával együtt kézbesíti az adósnak, illetve képviselőjének.
 
 (2) Biztosítási intézkedés keretében az adóhatóság az általa felülvizsgált, az adóst megillető költségvetési támogatást, ideértve az adó-visszaigénylést és az adó-visszatérítést, a pénzkövetelés biztosítását elrendelő végzésben meghatározott kötelezettség erejéig külön végzésével zárolhatja. A zárolt összeg felett az adós rendelkezési joga a biztosítási intézkedés időtartama alatt szünetel.
 
-(3) A biztosítási intézkedés foganatosítása nem veszélyeztetheti az adós és a vele együtt élő közeli hozzátartozók megélhetését, valamint nem járhat az adós gazdálkodási tevékenységének ellehetetlenítésével.
+(3) A biztosítási intézkedés foganatosítása nem veszélyeztetheti az adós és a vele együtt élő közeli hozzátartozók megélhetését.
 
 (4) A jármű biztosítási intézkedés keretében foganatosítandó lefoglalása a jármű foglalási jegyzőkönyvben történő feltüntetésével, illetve ha lehetséges, a törzskönyv lefoglalásával történik.
 
@@ -905,11 +937,11 @@ kell értékesíteni.
 
 (7) Az adóhatóság a követelés biztosítása érdekében felhívja az adóst megillető összeget kezelő pénzforgalmi szolgáltatót, hogy a biztosítandó összeget a számláról sem az adós, sem más javára ne fizesse ki, ha pedig a számla egyenlege nem éri el a biztosítandó összeget, a jövőbeni befizetések tekintetében is hasonlóan járjon el (a továbbiakban: zárolás iránti végrehajtói felhívás). A zárolás iránti adóhatósági felhívás teljesítéséből adódó intézkedéseket a pénzforgalmi szolgáltató köteles haladéktalanul megkezdeni és a fizetési megbízásokat a Magyar Nemzeti Bank elnökének a pénzforgalomról szóló rendeletében meghatározott határidők szerint teljesíteni. A zárolás iránti végrehajtói felhívás teljesítése – a hatósági átutalás és az átutalási végzés kivételével – megelőzi az egyéb fizetési megbízások teljesítését, a hatósági átutalási megbízással, átutalási végzéssel és zárolás iránti másik adóhatósági felhívással való viszonyában pedig a teljesítés sorrendjét a pénzforgalmi szolgáltató általi átvétel időpontja határozza meg. A pénzügyi fedezet hiánya miatt részben vagy egészben nem teljesíthető zárolás iránti végrehajtói felhívást a pénzforgalmi szolgáltató a Magyar Nemzeti Bank elnökének a pénzforgalomról szóló rendelete rendelkezései szerint sorba állítja a teljesítéshez szükséges fedezet biztosításáig.
 
-(8) A pénzforgalmi szolgáltató a felhívás kézhezvételétől számított 8 napon belül tájékoztatja az adóhatóságot arról, hogy az intézkedést milyen összegre tudta foganatosítani, ezt követően az adós még le nem foglalt vagyontárgyai csak a fennmaradó követelés erejéig foglalhatók le. A felhívást követő későbbi befizetések tekintetében is ennek megfelelően kell eljárni.
+(8) A pénzforgalmi szolgáltató a felhívás kézbesítésétől számított 8 napon belül tájékoztatja az adóhatóságot arról, hogy az intézkedést milyen összegre tudta foganatosítani, ezt követően az adós még le nem foglalt vagyontárgyai csak a fennmaradó követelés erejéig foglalhatók le. A felhívást követő későbbi befizetések tekintetében is ennek megfelelően kell eljárni.
 
 (9) A fizetési számlán elhelyezett összegre vonatkozó mentességi szabályokat a biztosítási intézkedés esetén is alkalmazni kell.
 
-(10) Jövedelem akkor tiltható le, ha az adósnak a biztosítandó összeg fedezetéül szolgáló, végrehajtás alá vonható más vagyontárgya nincs. A jövedelemre vonatkozó mentességi szabályokat a biztosítási intézkedés esetén is alkalmazni kell.
+(10) Jövedelem akkor tiltható le, illetve fizetési számla zárolására akkor kerülhet sor, ha az adósnak a biztosítandó összeg fedezetéül szolgáló, végrehajtás alá vonható más vagyontárgya nincs. A jövedelemre vonatkozó mentességi szabályokat a biztosítási intézkedés esetén is alkalmazni kell.
 
 97. § (1) Biztosítási intézkedés esetén a foglalási cselekmények a foglalással, zár alá vétellel, költségvetési támogatás zárolásával, követelés lefoglalása és jövedelem letiltása esetén az elkülönített számlára történő befizetéssel, továbbá a pénzforgalmi szolgáltatóhoz intézett felhívás kiadásával befejeződnek. A lefoglalt romlandó dolgot azonban – e törvény romlandó dolgok értékesítésére vonatkozó szabályai alkalmazásával – ilyenkor is értékesíteni kell.
 
@@ -960,7 +992,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (5) Ha az illetékesség megszűnéséről az adóhatóság a végrehajtási cselekmény foganatosítását követően szerez tudomást, az illetékességváltozás a már foganatosított végrehajtási cselekmények hatályát nem érinti.
 
-106. § (1) Az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, illetve a tartozás jogosultja a fizetési határidő lejártát, illetve ha a behajtást kérőt törvény valamely eljárási cselekmény foganatosítására kötelezi, ennek eredménytelen megtételét követő 30 nap elteltével elektronikus úton megkeresi a hatáskörrel rendelkező illetékes adóhatóságot behajtás végett, ha a tartozás összege eléri vagy meghaladja a 10 ezer forintot. Törvény ennél alacsonyabb összegű értékhatárt is megállapíthat, de az nem lehet alacsonyabb 5 ezer forintnál.
+106. § (1) Az adók módjára behajtandó köztartozásnak minősülő fizetési kötelezettséget megállapító, nyilvántartó szerv, illetve a tartozás jogosultja a fizetési határidő lejártát, illetve ha a behajtást kérőt jogszabály valamely eljárási cselekmény foganatosítására kötelezi, ennek eredménytelen megtételét követő 30 nap elteltével megkeresi a hatáskörrel rendelkező illetékes önkormányzati adóhatóságot, vagy az e célra rendszeresített elektronikus űrlapon a hatáskörrel rendelkező illetékes állami adó- és vámhatóságot a behajtás végett, ha a tartozás összege eléri vagy meghaladja a 10 ezer forintot. Törvény ennél alacsonyabb összegű értékhatárt is megállapíthat, de az nem lehet alacsonyabb 5 ezer forintnál.
 
 (2) Ha a hátralék későbbi megfizetése igazoltan veszélyeztetett, az adóhatóság az (1) bekezdésben meghatározott határidő letelte előtt soron kívül is megkereshető. Ebben az esetben a behajtási megkeresésben a kötelezettség veszélyeztetettségét az okok megjelölésével részletesen indokolni kell.
 
@@ -976,7 +1008,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 - f) a tartozás összegét és esetleges járulékait, és
 - g) annak a jogszabályhelynek pontos megjelölését, amely az adók módjára való behajtást lehetővé teszi.
 
-(5) Ha a behajtást kérőt törvény valamely eljárási cselekmény foganatosítására kötelezi, annak megtörténtét a megkeresésben igazolni kell.
+(5) Ha a behajtást kérőt jogszabály valamely eljárási cselekmény foganatosítására kötelezi, annak megtörténtét a megkeresésben igazolni kell.
 
 (6) A behajtási eljárást az adóhatóság csak pontos – szükség esetén kiegészített – adatok alapján indítja meg. Az adóhatóság behajtási eljárás feltételeinek vizsgálata mellett a behajtási megkeresésben szereplő tartozást sem jogalapjában, sem összegszerűségében nem vizsgálja felül, a megkeresésben foglaltakhoz kötve van.
 
@@ -984,7 +1016,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (8) Az adók módjára behajtandó köztartozások esetén a 30. § (2) bekezdés alkalmazásának nincs helye.
 
-107. § Az állami adó- és vámhatóság 200 ezer forintot nem meghaladó tartozás esetén – a 30. § (1) bekezdése és a 32. § szerinti intézkedéseken túl – kizárólag hatósági átutalási megbízást, illetve jövedelemletiltást foganatosít a tartozás behajtása érdekében, ezek eredménytelensége esetén pedig a 113. § (3) bekezdése szerint jár el. Ha a 200 ezer forintot nem meghaladó tartozás mellett az adóst adótartozás is terheli, az állami adó- és vámhatóság egyéb végrehajtási cselekményeket is foganatosíthat. Ha az eljárás során a jelzálogjog bejegyzését követően egyéb végrehajtási cselekmény foganatosításától eredmény nem várható, az adóhatóság a jelzálogjog fenntartása mellett a 113. § (3) bekezdésében írtak szerint jár el.
+107. § Az állami adó- és vámhatóság 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás esetén – a 30. § (1) bekezdése és a 32. § szerinti intézkedéseken túl – kizárólag hatósági átutalási megbízást, illetve jövedelemletiltást foganatosít az adók módjára behajtandó köztartozás behajtása érdekében, ezek eredménytelensége esetén pedig a 113. § (3) bekezdése szerint jár el. Ha a 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás mellett az adóst adótartozás is terheli, az állami adó- és vámhatóság egyéb végrehajtási cselekményeket is foganatosíthat. Ha az eljárás során a jelzálogjog bejegyzését követően egyéb végrehajtási cselekmény foganatosításától eredmény nem várható, az adóhatóság a jelzálogjog fenntartása mellett a 113. § (3) bekezdésében írtak szerint jár el.
 
 108. § Az adók módjára behajtandó köztartozásra az adóhatóság késedelmi pótlékot nem számít fel, azzal összefüggésben felszámolási eljárást nem kezdeményez, a folyamatban lévő csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési eljárásban e kötelezettségeket hitelezői igényként nem jelenti be, a követeléseket behajthatatlanként nem tartja nyilván, a végrehajtásához való jog elévülését nem állapítja meg, illetve a kötelezettséggel összefüggésben mögöttes felelősséget nem érvényesít.
 
@@ -998,11 +1030,11 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 110. § (1) Az európai uniós forrásból társfinanszírozott támogatások esetében az adóhatóság fizetési kedvezményt nem engedélyezhet, a tartozást nem mérsékelheti.
 
-(2) Ha az (1) bekezdés szerinti tartozásra irányuló fizetési kedvezmény iránti kérelmet az adóhatósághoz terjesztik elő, akkor az adóhatóság a kérelmet annak beérkezésétől számított 5 napon belül megküldi a végrehajtást kérő részére. Az adóhatóság a kérelem megalapozottságát érdemben nem vizsgálja.
+(2) Ha az (1) bekezdés szerinti tartozásra irányuló fizetési kedvezmény iránti kérelmet az adóhatósághoz terjesztik elő, akkor az adóhatóság a kérelmet annak beérkezésétől számított 5 napon belül megküldi a behajtást kérő részére. Az adóhatóság a kérelem megalapozottságát érdemben nem vizsgálja.
 
-(3) Ha az (1) bekezdés szerinti fizetési kedvezmény iránti kérelmet a végrehajtást kérőhöz nyújtották be, akkor erről – a kérelem megküldésével egyidejűleg – a végrehajtást kérő haladéktalanul értesíti az adóhatóságot.
+(3) Ha az (1) bekezdés szerinti fizetési kedvezmény iránti kérelmet a behajtást kérőhöz nyújtották be, akkor erről – a kérelem megküldésével egyidejűleg – a behajtást kérő haladéktalanul értesíti az adóhatóságot.
 
-(4) A végrehajtást kérő a kérelemre hozott döntésről annak véglegessé válását követően értesíti az adóhatóságot. A végrehajtást kérő a kérelmet elbíráló döntés megküldésével tájékoztatja az adóhatóságot a fizetési kedvezmény iránti kérelem elbírálását követően behajtandó tartozás pontos összegéről, illetve – fizetési könnyítés engedélyezése esetén – a végrehajtás szünetelésének időtartamáról. Ha a részére engedélyezett fizetési kedvezmény alapján fizetési kötelezettségét az adós teljesítette, a végrehajtást kérő a megkeresést visszavonja, nem teljesítés esetén ennek tényéről és a még behajtandó összegről az adóhatóságot tájékoztatja, amely a végrehajtása iránt intézkedik.
+(4) A behajtást kérő a kérelemre hozott döntésről annak véglegessé válását követően értesíti az adóhatóságot. A behajtást kérő a kérelmet elbíráló döntés megküldésével tájékoztatja az adóhatóságot a fizetési kedvezmény iránti kérelem elbírálását követően behajtandó tartozás pontos összegéről, illetve – fizetési könnyítés engedélyezése esetén – a végrehajtás szünetelésének időtartamáról. Ha a részére engedélyezett fizetési kedvezmény alapján fizetési kötelezettségét az adós teljesítette, a behajtást kérő a megkeresést visszavonja, nem teljesítés esetén ennek tényéről és a még behajtandó összegről az adóhatóságot tájékoztatja, amely a végrehajtása iránt intézkedik.
 
 111. § (1) A végrehajtás szünetelésére a 16. §-ban foglaltak irányadóak. Az adós elhalálozása esetén az adóhatóság az adók módjára behajtandó köztartozás érvényesítése tárgyában folyamatban lévő behajtási eljárást a 18. § h) pont alapján megszünteti.
 
@@ -1010,7 +1042,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 112. § Az adók módjára behajtandó köztartozásnak a 37. § szerinti pályázat nyertese útján történő érvényesítése esetén a behajtást kérő köteles az adóhatóság felhívására a 37. § (3) bekezdés szerinti jutalék összegét megfizetni. Az adóhatóság eredménytelen felszólítást követően határozattal kötelezi a behajtást kérőt a jutalék összegének megfizetésére. A határozat a végrehajtási eljárásban végrehajtható okiratnak minősül.
 
-113. § (1) Az adók módjára behajtott összeget az adóhatóság átutalja a végrehajtást kérő által megjelölt számlaszámra. Ha a behajtott összeg a fizetésre kötelezettet terhelő tartozások mindegyikére nem nyújt fedezetet, az adóhatóság a bevételt a 13. §-ban és a 14. §-ban foglalt felosztási szabály alapján számolja el, és utalja át a megkereső hatóságnak.
+113. § (1) Az adók módjára behajtott összeget az adóhatóság átutalja a behajtást kérő által megjelölt számlaszámra. Ha a behajtott összeg a fizetésre kötelezettet terhelő tartozások mindegyikére nem nyújt fedezetet, az adóhatóság a bevételt a 13. §-ban és a 14. §-ban foglalt felosztási szabály alapján számolja el, és utalja át a megkereső hatóságnak.
 
 (2) Az adóhatóság a végrehajtás eredménytelensége esetén a kötelezettséget nem minősíti behajthatatlannak, a behajtási eljárást megszünteti. Az eredménytelenség miatt megszüntetett végrehajtási eljárás alapjául szolgáló adók módjára behajtandó köztartozás behajtása az eljárás megszüntetésétől számított egy év elteltével ismételten kezdeményezhető.
 
@@ -1020,7 +1052,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 115. § (1) Az adók módjára behajtandó köztartozás végrehajtásával és a végrehajtáshoz való jog elévülésével kapcsolatos rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni, ha az adóhatóság az Európai Bizottság által hozott, tiltott állami támogatás visszafizettetését elrendelő döntése alapján az Áht. szerint indult ügyben folytat végrehajtást megkeresésre.
 
-(2) A végrehajtáshoz való jog az esedékesség naptári évének utolsó napjától számított 10 év elteltével évül el. A végrehajtáshoz való jog elévülése szempontjából esedékesség az Európai Bizottság visszatéríttetést elrendelő határozata alapján a magyar közigazgatási vagy egyéb szerv által kiadott, visszatérítési kötelezettséget előíró közigazgatási döntésben vagy fizetési felszólításban teljesítési határidőként megjelölt időpont. Ha jogszabály eltérően nem rendelkezik, a teljesítési határidő a döntés jogerőre emelkedésétől, illetve a fizetési felszólítás közlésétől számított 15 nap.
+(2) A végrehajtáshoz való jog az esedékesség naptári évének utolsó napjától számított 10 év elteltével évül el. A végrehajtáshoz való jog elévülése szempontjából esedékesség az Európai Bizottság visszatéríttetést elrendelő határozata alapján a magyar közigazgatási vagy egyéb szerv által kiadott, visszatérítési kötelezettséget előíró közigazgatási döntésben vagy fizetési felszólításban teljesítési határidőként megjelölt időpont. Ha jogszabály eltérően nem rendelkezik, a teljesítési határidő a döntés véglegessé válásától, illetve a fizetési felszólítás közlésétől számított 15 nap.
 
 (3) Nyugszik a végrehajtáshoz való jog elévülése az Európai Bizottság visszatéríttetést elrendelő határozata vagy a magyar közigazgatási szerv visszatérítési kötelezettséget előíró döntése tárgyában az Európai Unió Bírósága előtt folytatott eljárás időtartama alatt. Az adóhatósági megkeresésnek és a végrehajtás foganatosításának nem akadálya, ha az Európai Unió Bírósága előtt a visszatéríttetést elrendelő határozat tárgyában folytatott eljárás kezdőidőpontja megelőzi a (2) bekezdés szerinti esedékesség időpontját, ebben az esetben a végrehajtáshoz való jog elévülése az esedékesség napján kezdődik és az esedékesség napját követő naptól a bírósági eljárás időtartama alatt nyugszik.
 
@@ -1062,7 +1094,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 #### 56. Végrehajtás az általános közigazgatási rendtartás alapján átadott fizetési kötelezettségek esetén
 
-119. § (1) Az általános közigazgatási rendtartás szerinti behajtást kérő hatóság döntése kapcsán lefolytatandó végrehajtási eljárás során az 53. alcím szabályai szerint kell eljárni azzal, hogy a megkeresés időpontjára és a tartozás összegére vonatkozó előírás nem alkalmazható.
+119. § (1) Az általános közigazgatási rendtartás szerinti behajtást kérő hatóság döntése kapcsán lefolytatandó végrehajtási eljárás során az 53. alcím szabályai szerint kell eljárni azzal, hogy a megkeresés időpontjára, és a tartozás összegére vonatkozó előírás, valamint a hatásköri szabályozás nem alkalmazható.
 
 (2) Az általános közigazgatási rendtartás alapján megküldött megkereséshez csatolni kell azon döntést, amelynek végrehajtását elrendelte a hatóság.
 
@@ -1084,7 +1116,7 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 #### 57. Az általános közigazgatási rendtartás alapján hozott döntésen alapuló meghatározott cselekmény végrehajtásának szabályai
 
-122. § (1) Ha a döntés meghatározott cselekmény elvégzésére vagy meghatározott magatartásra, tűrésre, abbahagyásra (a továbbiakban: meghatározott cselekményre) irányul, és az adós a meghatározott cselekményt önként nem teljesítette, a behajtást kérő hatóság a végrehajtás érdekében megkeresi az állami adó- és vámhatóságot.
+122. § (1) Ha a döntés meghatározott cselekmény elvégzésére vagy meghatározott magatartásra, tűrésre, abbahagyásra (a továbbiakban: meghatározott cselekményre) irányul, és az adós a meghatározott cselekményt önként nem teljesítette, a behajtást kérő hatóság a végrehajtás érdekében megkeresi az állami adó- és vámhatóságot. Ha a behajtást kérő hatóság döntése több vagylagos kötelezést is tartalmaz, az állami adó- és vámhatóság a várhatóan a legkisebb költséggel járó meghatározott cselekményt hajtja végre.
 
 (1a) Az általános közigazgatási rendtartás alapján hozott döntésen alapuló meghatározott cselekmény végrehajtása során az I–V. Fejezet rendelkezéseit a jelen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -1117,6 +1149,30 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 
 (8) A legmegfelelőbb ajánlatot tevő szervezet végzésben meghatározott közreműködésének módját a végrehajtást foganatosító adóhatóság felügyeli az eljárás során.
 
+(9) Az (1) és (6) bekezdésben foglaltak szerint kiválasztott közreműködő szervezet végzi el a meghatározott cselekményt az adott cselekményre vonatkozó jogszabályok és szakmai előírások betartásával, ideértve az esetleg szükséges engedélyek beszerzését vagy bejelentések megtételét is.
+
+123/A. § (1) Ha a meghatározott cselekményt az állami adó- és vámhatóság felhívására a kötelezett önkéntesen teljesíti és a döntésben foglaltaknak megfelelő teljesítés megállapítása a behajtást kérő hatóság speciális szakértelmét igényli, az állami adó- és vámhatóság a teljesítés ellenőrzésébe bevonhatja a behajtást kérő hatóságot. A behajtást kérő hatóság az állami adó- és vámhatóság felhívásától számított 15 napon belül nyilatkozik arról, hogy a teljesítés megfelel-e a meghatározott cselekményt előíró döntésben foglaltaknak. Ha a behajtást kérő hatóság a felhívásnak a megadott határidőn belül nem tesz eleget, az adós önkéntes teljesítését a behajtást kérő hatóság által elfogadottnak kell tekinteni.
+
+(2) Ha a 122. § (6) bekezdése szerinti eljárás döntésben foglaltaknak megfelelő teljesítésének megállapítása a behajtást kérő hatóság speciális szakértelmét igényli, a behajtást kérő hatóság az állami adó- és vámhatóság előzetes értesítése alapján a 122. § (6) bekezdése szerinti eljárás elvégzésénél jelen lehet és a meghatározott cselekményt előíró döntésben foglaltaknak megfelelő teljesítést ellenőrizheti.
+
+(3) Ha a behajtást kérő hatóság az (1) bekezdés szerinti eljárásban megállapítja, hogy a meghatározott cselekmény teljesítése az azt előíró döntésben foglaltaknak nem felel meg, az állami adó- és vámhatóság a végrehajtási eljárást tovább folytatja és az adóst ismételten felhívja a meghatározott cselekmény önkéntes, a döntésben foglaltaknak megfelelő teljesítésére. A meghatározott cselekményt előíró döntésben foglaltaknak megfelelő teljesítés önkéntes elmaradása esetén az állami adó- és vámhatóság a 122. § (6) bekezdése alapján jár el.
+
+(4) Ha a behajtást kérő hatóság a (2) bekezdés szerinti eljárásban megállapítja, hogy a meghatározott cselekmény végrehajtása az azt előíró döntésben foglaltaknak nem felel meg, az állami adó- és vámhatóság a közreműködő szervezetet a teljesítés saját költségére történő elvégzésére hívja fel.
+
+123/B. § (1) Ha a meghatározott cselekmény építmény elbontására vagy jókarbantartási kötelezettség teljesítésére irányul, és a behajtást kérő hatóság döntésében az építmény használatát annak életveszélyes állapotára tekintettel megtiltotta, vagy ha a használat kizárása a döntésben foglaltak végrehajtásához szükséges, a meghatározott cselekménnyel érintett építményt használó adóst vagy harmadik személyt az állami adó- és vámhatóság a helyszíni eljárás során felhívja, hogy az építményt – a benne tartózkodó valamennyi személlyel együtt – az ingóságoktól kiürítve két munkanapon belül hagyja el. Az állami adó- és vámhatóság a felhívást tartalmazó helyszíni jegyzőkönyvet soron kívül megküldi az építmény fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek.
+
+(2) Ha az építményben a helyszíni eljárás időpontjában nem tartózkodik senki, vagy ott csak kiskorú személy található, az állami adó- és vámhatóság a felhívást a helyszíni eljárásáról készített jegyzőkönyvbe foglalja és a jegyzőkönyvet kifüggeszti az építmény ajtajára, továbbá soron kívül megküldi az építmény fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek.
+
+(3) Az állami adó- és vámhatóság – szükség esetén a rendőrség, illetve az állami adó- és vámhatóság hivatásos állományú alkalmazottjának közreműködésével – a két munkanapos határidő elteltével a helyszínen ellenőrzi a teljesítést és foganatosítja az építmény kiürítését. Kiskorú személy várható érintettsége esetén a helyszíni eljárás időpontjáról az illetékes gyámhatóságot is előzetesen értesíteni kell. Ebben az esetben a helyszíni eljáráson az illetékes gyámhatóság képviselője is részt vesz. Az állami adó- és vámhatóság az építmény fekvése szerinti községi, városi, fővárosi kerületi jegyző által kijelölt, ideiglenes elhelyezést biztosító ingatlanra kíséri az adóst, illetve az építményt használó egyéb személyeket, és ide szállítja az adós költségére az építményben lévő ingóságokat is. Ha az építményben lévő ingóságok elhelyezése a jegyző által kijelölt ingatlanban nem biztosított, azok kezelésére a (4)–(6) bekezdésben foglaltakat kell alkalmazni.
+
+(4) Ha a (3) bekezdés szerinti helyszíni eljárás alkalmával az építményben nem tartózkodik senki, vagy ott csak kiskorú személy található, az építményben lévő ingóságokat az állami adó- és vámhatóság az adós költségére elszállíttatja, az építményben tartózkodó kiskorú személyek ideiglenes elhelyezése iránt a gyámhatóság intézkedik.
+
+(5) A (4) bekezdésben foglalt esetben a végrehajtó az építmény ajtajára kifüggeszti a helyszíni eljárásáról készített jegyzőkönyvet, és abban megjelöli az ingóságok átvételének helyét, valamint azt, hogy az eljárásban mely gyámhatóság vesz részt. Az állami adó- és vámhatóság a helyszíni eljárásáról készített jegyzőkönyvet soron kívül megküldi az építmény fekvése szerinti községi, városi, fővárosi kerületi jegyzőnek is.
+
+(6) Az ingóságok megőrzésére és értékesítésére a 90. § (4) bekezdését kell alkalmazni, azzal, hogy az értékesítésből befolyó vételár az (1) bekezdésben írt adóst vagy harmadik személyt illeti meg.
+
+(7) Ha a meghatározott cselekmény végrehajtásához elegendő az építmény egy részének elhagyása, az állami adó- és vámhatóság az érintett építményrészt az (1)–(6) bekezdésben foglaltak alkalmazásával kiüríti, a kiürített építményrészt lezárja és lepecsételi.
+
 124. § (1) A 122. § (6) bekezdés szerinti eljárás elvégzéséről a végrehajtást foganatosító adóhatóság jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére, egyúttal tájékoztatja az eljárás megszüntetéséről.
 
 (2) A közreműködő szervezet által kiállított számla és az eljárásról felvett jegyzőkönyv alapján az állami adó- és vámhatóság intézkedik a kifizetés iránt.
@@ -1124,6 +1180,36 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 (3) A (2) bekezdésben foglaltak szerint kifizetett díj ki nem egyenlített végrehajtási költségnek minősül, amelyet az állami adó- és vámhatóság végzésben állapít meg és – önkéntes teljesítés hiányában – a pénzfizetési kötelezettségekre vonatkozó szabályok szerint érvényesít. A végzés a végrehajtási eljárásban végrehajtható okirat.
 
 125. § A 122. § (6) bekezdés szerinti végrehajtás során az állami adó- és vámhatóság hivatásos állományú alkalmazottai a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések megtételére jogosultak.
+
+#### 57/A. A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló pénzkövetelések végrehajtásának szabályai
+
+125/A. § (1) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló pénzkövetelések végrehajtását az állami adó- és vámhatóság az 53. alcím szabályai szerint foganatosítja azzal, hogy a megkeresés időpontjára, a tartozás összegére vonatkozó előírás és a hatásköri szabályozás nem alkalmazható.
+
+(2) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkereséshez csatolni kell a követelés megállapításáról szóló döntést.
+
+(3) A végrehajtási eljárás elrendelését követően benyújtott fizetési kedvezmény iránti kérelem elbírálása során az állami adó- és vámhatóság a 109. § alapján jár el azzal, hogy a tartozás mérséklésének nincs helye.
+
+(4) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló pénzkövetelések végrehajtása során az állami adó- és vámhatóság a 108. §-ban foglaltaktól eltérően a pénzköveteléseket behajthatatlanként nyilvántarthatja.
+
+(5) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló pénzkövetelések végrehajtása során felmerült ki nem egyenlített költségeket az állami adó- és vámhatóság állapítja meg és viseli.
+
+(6) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló pénzkövetelések végrehajtásához való jog a végrehajtandó követeléssel együtt évül el, a végrehajtáshoz való jog elévülését bármely végrehajtási cselekmény megszakítja.
+
+#### 57/B. A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló meghatározott cselekmények végrehajtásának szabályai
+
+125/B. § (1) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkeresésen alapuló meghatározott cselekmény végrehajtását az állami adó- és vámhatóság az I–V. Fejezet rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja.
+
+(2) A 29. § (1) bekezdés i)–u) pontjában meghatározott megkereséshez csatolni kell a kötelezettség megállapításáról szóló döntést.
+
+125/C. § A vagyonelkobzás végrehajtása során az állami adó- és vámhatóság a Vht. 210/C–210/G. §-a szerint jár el azzal az eltéréssel, hogy ha a bíróság a vagyonelkobzást pénzösszegben rendelte el, annak végrehajtását az I–XI. Fejezet szerint kell foganatosítani.
+
+125/D. § A bűnügyi zárlat végrehajtása során az állami adó- és vámhatóság a Vht. 202–204. §-a szerint jár el.
+
+125/E. § Az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtása során az állami adó-és vámhatóság a Vht. 204/A. §-a szerint jár el.
+
+125/F. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtása során az állami adó- és vámhatóság a Vht. 201/C. §-a szerint jár el.
+
+(2) Az elektronikus adat végleges hozzáférhetetlenné tételének végrehajtása során az állami adó- és vámhatóság a Vht. 184/B. §-a és a Bv. tv. 324. §-a szerint jár el azzal, hogy ahol a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény bírósági végrehajtót említ, azon az állami adó- és vámhatóságot kell érteni.
 
 ### XIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1154,6 +1240,20 @@ jár el, kivéve, ha törvény a tartozás beszedését más szerv hatásköréb
 130. § Azon meghatározott cselekmények végrehajtására, illetve adók módjára behajtandó köztartozások behajtására megindult és 2018. január 1-jén még folyamatban lévő végrehajtási eljárásokat, amelyekben a végrehajtást 2017. december 31-én nem az állami adó- és vámhatóság folytatja, de 2018. január 1-jét követően a végrehajtás foganatosítása az állami adó- és vámhatóság hatáskörébe tartozik, a végrehajtást foganatosító szerv az állami adó- és vámhatóságnak az általa rendszeresített elektronikus űrlapon adja át.
 
 131. § E törvény hatálybalépésétől az állami adó- és vámhatóság folytatja a végrehajtást az általa az adózás rendjéről szóló 2003. évi XCII. törvény 146. § (4) bekezdése alapján 2017. december 31-éig önálló bírósági végrehajtóknak átadott és 2018. január 1-jén még folyamatban lévő ügyekben. A 2017. december 31-ig a végrehajtás lefolytatására jogosult önálló bírósági végrehajtót az állami adó- és vámhatóság 2018. január 31-éig értesíti az átadási kötelezettségről.
+
+131/A. § (1) A 29. § (1) bekezdés i)–u) pontja szerinti, 2018. december 31-ét követően kiállított végrehajtható okiratok tekintetében az állami adó- és vámhatóság végzi a végrehajtást e törvény rendelkezései alapján.
+
+(2) 2019. december 31-ét követően az állami adó- és vámhatóság a 12. alcím kivételével az e törvényben foglaltak alapján végzi a végrehajtást a 29. § (1) bekezdés i)–u) pontja szerinti, 2019. január 1-jét megelőzően kiállított azon végrehajtható okiratok tekintetében, amelyek esetében a végrehajtási eljárás érdemi befejezésére 2019. december 31-ig nem került sor. E § alkalmazásában érdemi befejezéssel érintett eljárásnak a 2018. december 31-én a bírósági végrehajtási ügyvitelről és pénzkezelésről szóló 1/2002. (I. 17.) IM rendelet szerint érdemben befejezett végrehajtási eljárások minősülnek.
+
+(3) A végrehajtást lefolytató Törvényszék 2020. január 31-ig elektronikus úton, az állami adó- és vámhatóság által rendszeresített elektronikus űrlapon adja át a (2) bekezdés szerinti ügyeket az állami adó- és vámhatóságnak. A végrehajtást lefolytató Törvényszék az elektronikus űrlaphoz digitalizált formátumban mellékeli az ügyben keletkezett valamennyi ügyiratot.
+
+(4) A (2) bekezdés szerinti ügyekben az ügy átadására a törvényszéki végrehajtói letéti számlára 2019. december 31-ig beérkezett összegek felosztását és a törvényszéki végrehajtó által foganatosított cselekményekkel, intézkedésekkel szemben benyújtott jogorvoslati kérelmek jogerős elbírálását követően kerülhet sor.
+
+(5) E törvény rendelkezései nem érintik a (2) bekezdés szerinti ügyekben az adósok részére a 2019. december 31-ig hatályos rendelkezések alapján a törvényszéki végrehajtók által jogerősen engedélyezett részletfizetésről rendelkező döntések hatályát.
+
+(6) A (2) bekezdés szerinti ügyekben a törvényszéki végrehajtó által lefoglalt vagyontárgyak értékesítésére 2020. január 1. napjától e törvény rendelkezései alapján kerülhet sor. A törvényszéki végrehajtó által 2019. december 31. napját követő időpontra kitűzött árveréseket meghiúsultnak kell tekinteni.
+
+131/B. § Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel (a továbbiakban. Módtv.1.) megállapított 1. §-t, 15. § (5a) bekezdését, 47. § (3) bekezdését, 52. § (7) bekezdését, 67. § (1) bekezdés b) pontját, a 123/A. §-át és 123/B. §-át a Módtv.1. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
 
 #### 61. A törvény hivatalos rövid megjelölése
 

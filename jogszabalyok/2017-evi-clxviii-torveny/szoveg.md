@@ -164,7 +164,7 @@ Készült 2016. április 4-én”
 
 (2) Az Országgyűlés felhatalmazást ad a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvény VII., VIII., IX. és X. számú Mellékletében kihirdetett Megállapodások a magyar felmondás kézhezvételét követően az egyes Megállapodásokban meghatározott napon való megszüntetésére.
 
-6. § (1)
+6. § (1) Hatályát veszti a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK tanácsi irányelvben előírt kötelezettségek végrehajtása céljából a Magyar Köztársaság, valamint a Csatorna-szigetek, a Man-sziget és a függő vagy társult karibi területek között aláírt Megállapodások megerősítéséről és kihirdetéséről szóló 2005. évi LII. törvény IV., V. és VI. számú Melléklete.
 
 (2)–(5)
 

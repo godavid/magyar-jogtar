@@ -285,7 +285,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A szabadalmi oltalom fenntartása
 
-23. § (1) A szabadalmi oltalom tartamára évenként, külön jogszabályban meghatározott fenntartási díjat kell fizetni. A díj az első évre a bejelentés napján, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes.
+23. § (1) A szabadalmi oltalom tartamára évenként, az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott fenntartási díjat kell fizetni. A díj az első évre a bejelentés napján, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes.
 
 (2) A szabadalmi bejelentés közzétételét megelőzően esedékessé vált fenntartási díjat a közzétételtől, a minősített adatként kezelt bejelentés alapján megadott szabadalom megadását megelőzően esedékessé vált fenntartási díjat a megadó határozat jogerőre emelkedésétől, a többi fenntartási díjat pedig az esedékességtől számított hat hónapos türelmi idő alatt is meg lehet fizetni.
 
@@ -463,7 +463,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### Az ideiglenes szabadalmi oltalom megszűnése
 
-38. § Az ideiglenes szabadalmi oltalom keletkezésére visszaható hatállyal megszűnik, ha
+38. § Az ideiglenes szabadalmi oltalom a bejelentés napjára visszaható hatállyal megszűnik, ha
 
 - a) a szabadalmi bejelentést jogerősen elutasítják;
 - b) a fenntartási díjat a türelmi időn belül sem fizették meg;
@@ -482,7 +482,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 40. § (1) Ha a szabadalmi oltalom a fenntartási díj megfizetésének elmulasztása miatt megszűnt, az oltalmat a bejelentő vagy a szabadalmas kérésére újra érvénybe kell helyezni.
 
-(2) A szabadalmi oltalom újra érvénybe helyezését a türelmi idő leteltét követő három hónapon belül lehet kérni. E határidőn belül meg kell fizetni a külön jogszabályban meghatározott díjat.
+(2) A szabadalmi oltalom újra érvénybe helyezését a türelmi idő leteltét követő három hónapon belül lehet kérni. E határidőn belül meg kell fizetni az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat.
 
 ### Lemondás a szabadalmi oltalomról
 
@@ -496,7 +496,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A szabadalom megsemmisítéseés korlátozása
 
-42. § (1) A szabadalmat — keletkezésére visszaható hatállyal — meg kell semmisíteni, ha
+42. § (1) A szabadalmat — a bejelentés napjára visszaható hatállyal — meg kell semmisíteni, ha
 
 - a) a szabadalom tárgya nem felelt meg a 6. § (1) bekezdésének a) pontjában meghatározott feltételeknek;
 - b) a leírás nem tárja fel a törvényben előírt módon és részletességgel [60. § (1) bek.] a találmányt;
@@ -509,7 +509,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A díjak visszakövetelése
 
-43. § Ha a végleges szabadalmi oltalom keletkezésére visszaható hatállyal szűnik meg, a szabadalmas és a feltaláló által felvett díjnak csak azt a részét lehet visszakövetelni, amelyet a találmány hasznosításából származó gazdasági előnyök nem fedeztek.
+43. § Ha a végleges szabadalmi oltalom a bejelentés napjára visszaható hatállyal szűnik meg, a szabadalmas és a feltaláló által felvett díjnak csak azt a részét lehet visszakövetelni, amelyet a találmány hasznosításából származó gazdasági előnyök nem fedeztek.
 
 ### VI/A. Fejezet — A POLGÁRI TÖRVÉNYKÖNYV RENDELKEZÉSEINEK ALKALMAZÁSA
 
@@ -548,19 +548,28 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-45. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+45. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény rendelkezései szerint jár el.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – jogszabály eltérő rendelkezése hiányában – kérelemre jár el.
+(2) Szabadalmi ügyekben nem alkalmazható az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 14. § (1) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 48. § (1)–(4) bekezdése, 62. § (1) bekezdése, 74. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 94. § (2) bekezdése, 97. §-a, 127. § (2) bekezdése és 130. §-a.
 
-(2a) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye, tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
+(3) Szabadalmi ügyekben nem alkalmazhatóak az Ákr. jogutódlásra vonatkozó rendelkezései. Szabadalmi ügyekben sommás eljárásnak nincs helye és a kérelem kormányablaknál nem terjeszthető elő.
 
-(3) Szabadalmi ügyekben nem alkalmazható az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 14. § (1) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 62. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 97. §-a, 127. § (2) bekezdése és 130. §-a.
+(4) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – jogszabály eltérő rendelkezése hiányában – kérelemre jár el.
 
-(4) Szabadalmi ügyekben nem alkalmazhatóak az Ákr. jogutódlásra vonatkozó rendelkezései. Szabadalmi ügyekben sommás eljárásnak nincs helye és a kérelem kormányablaknál nem terjeszthető elő.
+(5) E törvény eltérő rendelkezése hiányában a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyben a kérelemnek tartalmaznia kell
 
-(5)
+- a) a természetes személy kérelmező és – képviselet esetén – képviselő nevét, lakcímét;
+- b) a nem természetes személy kérelmező és – képviselet esetén – a képviselő nevét és székhelyét; továbbá
+- c) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy képviselője aláírását.
 
-(6) A nemzetközi szabadalmi bejelentések elektronikus úton kizárólag a Szellemi Tulajdon Világszervezete által üzemeltetett elektronikus kommunikációs és ügyviteli rendszer (a továbbiakban: ePCT rendszer) használatával nyújthatók be a Szellemi Tulajdon Nemzeti Hivatalához mint átvevő hivatalhoz. Azzal a bejelentővel és képviselőjével, aki az ePCT rendszeren keresztül nyújtotta be a nemzetközi szabadalmi bejelentést, a Szellemi Tulajdon Nemzeti Hivatala mint átvevő hivatal az ePCT rendszer szabályai szerint tartja a kapcsolatot.
+(6) Ha a kérelmező, illetve képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a kérelemnek az (5) bekezdésben meghatározott adatokon túl tartalmaznia kell
+
+- a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét;
+- b) a nem természetes személy kérelmező, illetve képviselő adószámát.
+
+(7) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye, tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
+
+(8) A nemzetközi szabadalmi bejelentések elektronikus úton kizárólag a Szellemi Tulajdon Világszervezete által üzemeltetett elektronikus kommunikációs és ügyviteli rendszer (a továbbiakban: ePCT rendszer) használatával nyújthatók be a Szellemi Tulajdon Nemzeti Hivatalához mint átvevő hivatalhoz. Azzal a bejelentővel és képviselőjével, aki az ePCT rendszeren keresztül nyújtotta be a nemzetközi szabadalmi bejelentést, a Szellemi Tulajdon Nemzeti Hivatala mint átvevő hivatal az ePCT rendszer szabályai szerint tartja a kapcsolatot.
 
 ### A Szellemi Tulajdon Nemzeti Hivatala döntései
 
@@ -589,9 +598,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala döntését csak olyan tényekre és bizonyítékokra alapozhatja, amelyekkel kapcsolatban az ügyfélnek módjában állt nyilatkozatot tenni; figyelmen kívül hagyhatja azonban azokat a nyilatkozatokat vagy bizonyítékokat, amelyeket az ügyfél nem kellő időben terjesztett elő.
 
-(3a) A megsemmisítési eljárásban, a nemleges megállapítási eljárásban, a 83/B–83/D. §-ban, a 83/F. §-ban és a 83/G. §-ban szabályozott eljárásokban az ügyfeleknek beadványaikat eggyel több példányban kell benyújtaniuk a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány ellenérdekű fél az eljárásban részt vesz. Ha több félnek közös képviselője van, részükre együttesen egy példányt kell számításba venni; szolgálati találmányra adott szabadalom esetén a megsemmisítési kérelem szükséges példányszámának meghatározásánál a feltalálókat is ellenérdekű félként kell számításba venni. A beadvány mellékleteinek egy-egy másolatát csatolni kell a beadvány többi példányához is. Ha az ügyfél a beadványát vagy annak mellékleteit az előírtnál kevesebb példányban nyújtotta be, a (4) bekezdés szerinti hiánypótlás elmaradása esetén a megsemmisítési kérelmet, a nemleges megállapításra irányuló kérelmet, valamint a 83/B. § (1) bekezdése, a 83/F. § (1) bekezdése és a 83/G. § (1) bekezdése szerinti kérelmet visszavontnak kell tekinteni, a szabadalmas nyilatkozatát pedig be nem nyújtottnak kell tekinteni.
+(3a) A megsemmisítési eljárásban, a nemleges megállapítási eljárásban, a 83/B–83/D. §-ban, a 83/F. §-ban és a 83/G. §-ban szabályozott eljárásokban az ügyfeleknek beadványaikat és azok mellékleteit elektronikus kapcsolattartás esetén egy példányban, egyéb esetben eggyel több példányban kell benyújtaniuk a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány ellenérdekű fél az eljárásban részt vesz. Ha több félnek közös képviselője van, részükre együttesen egy példányt kell számításba venni; szolgálati találmányra adott szabadalom esetén a megsemmisítési kérelem szükséges példányszámának meghatározásánál a feltalálókat is ellenérdekű félként kell számításba venni. Ha az ügyfél a beadványát vagy annak mellékleteit az előírtnál kevesebb példányban nyújtotta be, a (4) bekezdés szerinti hiánypótlás elmaradása esetén a megsemmisítési kérelmet, a nemleges megállapításra irányuló kérelmet, valamint a 83/B. § (2) bekezdése, a 83/F. § (1) bekezdése és a 83/G. § (1) bekezdése szerinti kérelmet visszavontnak kell tekinteni, a szabadalmas nyilatkozatát pedig be nem nyújtottnak kell tekinteni.
 
-(4) A szabadalmi ügyekben előterjesztett beadványokkal kapcsolatos hiányok pótlására – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – az ügyfelet fel kell hívni, illetve figyelmeztetni kell. A kivonat hiányainak pótlásáról vagy a követelményeknek megfelelő átdolgozásáról a Szellemi Tulajdon Nemzeti Hivatala hivatalból is intézkedhet.
+(4) Ha a szabadalmi ügyekben előterjesztett kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet a beadvánnyal kapcsolatos hiányok pótlására vagy nyilatkozattételre kell felhívni, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett. Ha a kérelem a hiánypótlás, illetve a nyilatkozat ellenére sem felel meg a vizsgált követelményeknek, és e törvény ehhez eltérő jogkövetkezményt nem fűz, a kérelmet el kell utasítani. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet – ha e törvény ehhez eltérő jogkövetkezményt nem fűz – visszavontnak kell tekinteni. A kivonat hiányainak pótlásáról vagy a követelményeknek megfelelő átdolgozásáról a Szellemi Tulajdon Nemzeti Hivatala hivatalból is intézkedhet.
 
 (5)
 
@@ -740,7 +749,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 53/C. § (1) Szabadalmi ügyben költségmentesség nem engedélyezhető.
 
-(2) Az e törvényben szabályozott díjfizetési kötelezettségeken túlmenően szabadalmi ügyben külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni – a külön jogszabályban megállapított részletes szabályok szerint – a következő kérelmekért is:
+(2) Az e törvényben szabályozott díjfizetési kötelezettségeken túlmenően szabadalmi ügyben az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni – a az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban megállapított részletes szabályok szerint – a következő kérelmekért is:
 
 - a) a módosítási, a határidő-hosszabbítási, az igazolási és az eljárás folytatása iránti kérelemért;
 - b) a jogutódlás és a hasznosítási engedély tárgyában a tudomásulvételre irányuló kérelemért, a jelzálogjog tárgyában az alapításra irányuló kérelemért.
@@ -801,7 +810,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3a) Nem teljesíthető a jogutódlás tudomásulvétele iránti kérelem abban az esetben, ha a szabadalmi igényt vagy a szabadalmi oltalomból eredő jogokat olyan bizalmi vagyonkezelési szerződés alapján ruházták át, amelyet nem bizalmi vagyonkezelő vállalkozással mint vagyonkezelővel kötöttek, és a kérelemhez nem mellékelték a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott bejelentési bizonyítványt is.
 
-(4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem felel meg a vizsgált követelményeknek. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.
+(4)
 
 ### Hatósági tájékoztatás
 
@@ -822,9 +831,11 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) A szabadalmi bejelentésnek bejelentési kérelmet, szabadalmi leírást igényponttal, kivonatot, továbbá — a szükséghez képest — rajzot és egyéb mellékletet kell tartalmaznia.
 
-(3) A szabadalmi bejelentést a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+(3) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a szabadalmi bejelentési kérelemnek tartalmaznia kell a feltaláló nevét és lakcímét vagy utalást arra, hogy a feltaláló nevének és lakcímének a szabadalmi iratokon való feltüntetése mellőzését kéri, és a feltaláló a nevét és lakcímét külön lapon adja meg.
 
-(4) A szabadalmi bejelentésért külön jogszabályban meghatározott bejelentési és kutatási díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
+(3a) A szabadalmi bejelentést egyebekben a szabadalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
+
+(4) A szabadalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési és kutatási díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
 
 (5) Ha a bejelentés mellékletei idegen nyelven készültek, a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és a rajzot a bejelentés napjától számított négy hónapon belül kell benyújtani.
 
@@ -837,7 +848,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 58. § (1) A szabadalmi bejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 - a) utalást a szabadalom iránti igényre,
-- b) a bejelentő azonosítására alkalmas és a vele való kapcsolatfelvételt lehetővé tevő adatokat,
+- b) a bejelentő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, képviselet esetén a képviselő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, vagy a bejelentővel való kapcsolatfelvételt lehetővé tevő más adatot, valamint
 - c) leírást, illetve leírásnak tekinthető iratot – függetlenül attól, hogy az megfelel-e az egyéb követelményeknek –, vagy helyette hivatkozást valamely korábbi bejelentésre.
 
 (2) Az (1) bekezdés a) és b) pontjában foglaltakat magyar nyelven kell feltüntetni a bejelentési nap elismeréséhez is.
@@ -933,6 +944,13 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3) A kiállítási igazolást a kiállítás időtartama alatt és csak addig lehet kiadni, amíg a találmány vagy annak ismertetése a kiállításon megtekinthető.
 
+### Tájékoztatás atomenergiával kapcsolatos bejelentésekről
+
+64/A. § A Szellemi Tulajdon Nemzeti Hivatala az Európai Atomenergia-közösséget létrehozó Római Szerződés irányadó rendelkezéseinek megfelelően, a bejelentő és a feltaláló nevének és lakcímének vagy székhelyének megjelölésével közli az Európai Bizottsággal
+
+- a) a) a kifejezetten atomenergiával kapcsolatos nemzeti szabadalmi bejelentés tartalmát, és
+- b) b) az olyan közzé nem tett nemzeti szabadalmi bejelentés tényét, illetve – az Európai Bizottság kérésére – tartalmát, ami nem tartozik kifejezetten az atomenergia területéhez, de közvetlenül összefügg az atomenergia alkalmazásának közösségbeli fejlődésével és annak szempontjából alapvető jelentőséggel bír.
+
 ### A bejelentés benyújtását követő vizsgálat
 
 65. § A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi bejelentés benyújtását követően megvizsgálja, hogy
@@ -973,7 +991,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### Alaki vizsgálat
 
-68. § (1) Ha a szabadalmi bejelentés megfelel a 65. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e az 57. § (2) és (3) bekezdésében meghatározott alaki követelményeket.
+68. § (1) Ha a szabadalmi bejelentés megfelel a 65. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e az 57. § (2)–(3a) bekezdésében meghatározott alaki követelményeket.
 
 (2) Ha a bejelentés nem felel meg az (1) bekezdés alapján vizsgált követelményeknek, a bejelentőt fel kell hívni a hiányok pótlására.
 
@@ -1001,7 +1019,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3) Az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelmet az elismert bejelentési naptól számított tíz hónapon belül kell benyújtani.
 
-(4) Az írásos véleménnyel kiegészített újdonságkutatási jelentésért jogszabályban meghatározott díjat kell fizetni.
+(4) Az írásos véleménnyel kiegészített újdonságkutatási jelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni.
 
 (5) Az írásos véleménnyel kiegészített újdonságkutatási jelentésre irányuló kérelmet el kell utasítani, ha az nem felel meg a (3) bekezdésben foglalt követelménynek.
 
@@ -1054,7 +1072,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 73. § (1) Aki több találmányra igényelt szabadalmi oltalmat egy bejelentésben, a szabadalom megadása kérdésében hozott döntés meghozatalának napjáig megoszthatja bejelentését a bejelentési nap és az esetleges korábbi elsőbbség megtartásával.
 
-(2) ˙A megosztásért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(2) ˙A megosztásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (3) Ha a kérelem benyújtásakor nem fizették meg a megosztási díjat, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a (2) bekezdésben meghatározott határidőben történő hiánypótlásra. Ennek elmaradása esetén a megosztási kérelmet visszavontnak kell tekinteni.
 
@@ -1071,7 +1089,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) Az érdemi vizsgálatra irányuló kérelem visszavonásának nincs jogi hatálya.
 
-(3) A kérelem benyújtásától számított két hónap elteltéig meg kell fizetni a külön jogszabályban meghatározott vizsgálati díjat.
+(3) A kérelem benyújtásától számított két hónap elteltéig meg kell fizetni az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott vizsgálati díjat.
 
 (4) Ha a kérelem benyújtásakor nem fizették meg a vizsgálati díjat, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a (3) bekezdésben meghatározott határidőben történő hiánypótlásra. Ennek elmaradását úgy kell tekinteni, hogy a bejelentő visszavonta a szabadalmi bejelentést, illetve lemondott az ideiglenes szabadalmi oltalomról.
 
@@ -1093,7 +1111,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3) Ha a bejelentő egyetért vagy nem nyilatkozik, a szabadalom megadására a megküldött leírás, igénypont és rajz alapján kerül sor. Ha a bejelentő változtatást kezdeményez, vagy újabb leírást, igénypontot és rajzot nyújt be, annak a végleges változat megállapítása során történő figyelembevételéről a Szellemi Tulajdon Nemzeti Hivatala dönt.
 
-(4) A szabadalom megadása előtt külön jogszabályban meghatározott megadási díjat kell fizetni a (2) bekezdés szerinti nyilatkozatra megszabott három hónapos határidőn belül. Ennek elmaradását úgy kell tekinteni, hogy a bejelentő lemondott az ideiglenes szabadalmi oltalomról.
+(4) A szabadalom megadása előtt az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott megadási díjat kell fizetni a (2) bekezdés szerinti nyilatkozatra megszabott három hónapos határidőn belül. Ennek elmaradását úgy kell tekinteni, hogy a bejelentő lemondott az ideiglenes szabadalmi oltalomról.
 
 78. § (1) A Szellemi Tulajdon Nemzeti Hivatala a szabadalom megadását követően szabadalmi okiratot ad ki. Ehhez mellékeli szabadalmi leírást az igényponttal és a rajzot.
 
@@ -1113,9 +1131,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) A 42. § (1) bekezdésének d) pontja alapján az kérheti a szabadalom megsemmisítését, akit az a törvény szerint megilletne.
 
-(3) A kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
 
-(4) A megsemmisítési kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A megsemmisítési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (5) Ha a megsemmisítési kérelem nem felel meg a törvényben előírt feltételeknek, a megsemmisítést kérőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a megsemmisítési kérelmet visszavontnak kell tekinteni.
 
@@ -1139,7 +1157,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 81/A. § (1) A megsemmisítési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a szabadalom bitorlása miatt pert indítottak, vagy a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják.
 
-(2) A gyorsított eljárás iránti kérelemért külön jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
+(2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
 
 (3) Ha a kérelem nem felel meg az (1) bekezdésben meghatározott követelményeknek, a gyorsított eljárást kérő felet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A gyorsított eljárás iránti kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a törvényben meghatározott követelményeket. A gyorsított eljárás iránti kérelmet visszavontnak kell tekinteni, ha az azt előterjesztő fél a felhívásra a kitűzött határidőben nem válaszol.
 
@@ -1155,11 +1173,11 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### Nemleges megállapítási eljárás
 
-82. § (1) A nemleges megállapításra (37. §) irányuló kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás, valamint a megjelölt szabadalom leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.
+82. § (1) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a nemleges megállapításra (37. §) irányuló kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás, valamint a megjelölt szabadalom leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.
 
 (2) A nemleges megállapításra irányuló kérelmet csak egy szabadalom és egy hasznosított vagy hasznosítani kívánt termék vagy eljárás tekintetében lehet benyújtani.
 
-(3) A nemleges megállapítási kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(3) A nemleges megállapítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (4) Ha a nemleges megállapítási kérelem nem felel meg a törvényben előírt feltételeknek, a nemleges megállapítást kérőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a nemleges megállapítási kérelmet visszavontnak kell tekinteni.
 
@@ -1183,9 +1201,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 83/B. § (1)
 
-(2) A 816/2006/EK rendelet 6. cikke szerinti, kényszerengedély iránti kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
+(2) A 816/2006/EK rendelet 6. cikke szerinti, kényszerengedély iránti kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
 
-(3) A kényszerengedély iránti kérelemnek – a 816/2006/EK rendeletben meghatározott nyilatkozatokon és adatokon felül – tartalmaznia kell
+(3) A kényszerengedély iránti kérelemnek – a 45. § (5)–(6) bekezdésében és a 816/2006/EK rendeletben meghatározott nyilatkozatokon és adatokon felül – tartalmaznia kell
 
 - a) a kényszerengedély alapján hasznosítani kívánt találmányra adott szabadalom lajstromszámát;
 - b) a 816/2006/EK rendelet 10. cikkének (5) bekezdése értelmében azokat a jellemzőket, amelyek a kényszerengedély alapján gyártani kívánt gyógyszeripari terméket megkülönböztetik a szabadalmas vagy az ő engedélyével más által gyártott ilyen terméktől (pl. egyedi csomagolás, színek vagy formák);
@@ -1219,9 +1237,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala rendszeresen tájékoztatja a vámhatóságot és a gyógyszerészeti államigazgatási szervet az Európai Unió más tagállamaiban megadott kényszerengedélyeknek a Kereskedelmi Világszervezet honlapján közölt adatairól, illetve azok változásairól.
 
-83/E. § (1) A kényszerengedélyes könyveibe és nyilvántartásaiba történő betekintés iránt – a 816/2006/EK rendelet 10. cikkének (8) bekezdése alapján – előterjesztett kérelmet két példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához. A kérelemnek tartalmaznia kell a kényszerengedélyt megadó határozat számát és a megismerni kívánt adatok megjelölését.
+83/E. § (1) A kényszerengedélyes könyveibe és nyilvántartásaiba történő betekintés iránt – a 816/2006/EK rendelet 10. cikkének (8) bekezdése alapján – előterjesztett kérelmet elektronikus kapcsolattartás esetén egy példányban, egyéb esetben két példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához. A kérelemnek a 45. § (5)–(6) bekezdésében meghatározott adatokon túl tartalmaznia kell a kényszerengedélyt megadó határozat számát és a megismerni kívánt adatok megjelölését.
 
-(2) A betekintés iránti kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
+(2) A betekintés iránti kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
 
 (3) Ha a betekintés iránti kérelem nem felel meg a 816/2006/EK rendeletben és az e törvényben előírt feltételeknek, vagy a kérelem díját a kérelmező a (2) bekezdés szerint nem fizette meg, hiánypótlásra, illetve nyilatkozattételre kell őt felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha a kérelmező a hiánypótlási felhívásra a kitűzött határidőn belül nem válaszol, a kérelmet visszavontnak kell tekinteni.
 
@@ -1229,9 +1247,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (5) A Szellemi Tulajdon Nemzeti Hivatala a kényszerengedélyes könyveibe és nyilvántartásaiba történő betekintés eredményéről – az (1) bekezdés szerinti kérelem keretei között – értesíti a szabadalmast. A betekintés eredményéről szóló értesítés a kényszerengedély felülvizsgálatára irányuló eljárásban (83/F. §) bizonyítékként felhasználható.
 
-83/F. § (1) A kényszerengedély felülvizsgálata iránt – a 816/2006/EK rendelet 16. cikkének (1) bekezdése alapján – előterjesztett kérelemben meg kell jelölni a kényszerengedélyt megadó határozat számát, a felülvizsgálat alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat. A kérelemhez az importáló országban készített értékelés is csatolható.
+83/F. § (1) A kényszerengedély felülvizsgálata iránt – a 816/2006/EK rendelet 16. cikkének (1) bekezdése alapján – előterjesztett kérelemben a 45. § (5)–(6) bekezdésében meghatározott adatokon túl meg kell jelölni a kényszerengedélyt megadó határozat számát, a felülvizsgálat alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat. A kérelemhez az importáló országban készített értékelés is csatolható.
 
-(2) A kényszerengedély felülvizsgálata iránti kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
+(2) A kényszerengedély felülvizsgálata iránti kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásával egyidejűleg.
 
 (3) Ha a kényszerengedély felülvizsgálata iránti kérelem nem felel meg a 816/2006/EK rendeletben és az e törvényben előírt feltételeknek, vagy a kérelem díját a kérelmező a (2) bekezdés szerint nem fizette meg, hiánypótlásra, illetve nyilatkozattételre kell őt felhívni. A kérelmet el kell utasítani, ha az a hiánypótlás, illetve nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha a kérelmező a hiánypótlási felhívásra a kitűzött határidőn belül nem válaszol, a kérelmet visszavontnak kell tekinteni.
 
@@ -1247,7 +1265,10 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 - b) a határozat megküldésével értesíti a vámhatóságot és a gyógyszerészeti államigazgatási szervet;
 - c) a honlapján tájékoztatást ad.
 
-83/G. § (1) A kényszerengedély módosítása iránt – a 816/2006/EK rendelet 16. cikkének (4) bekezdése alapján – előterjesztett kérelemnek tartalmaznia kell a kényszerengedély számát, a módosítás alapjául szolgáló okokat, valamint bizonyítékot arra vonatkozóan, hogy a kényszerengedélyes a 816/2006/EK rendelet 9. cikkének (1) bekezdése értelmében előzetes tárgyalásokat folytatott a szabadalmassal, feltéve, hogy a kérelmezett további mennyiség meghaladja az eredetileg engedélyezett mennyiség 25%-át.
+83/G. § (1) A kényszerengedély módosítása iránt – a 816/2006/EK rendelet 16. cikkének (4) bekezdése alapján – előterjesztett kérelemnek tartalmaznia kell
+
+- a) a 45. § (5)–(6) bekezdésében meghatározott adatokat a kérelmező és képviselője neve és lakcíme vagy székhelye kivételével, feltéve, hogy a kényszerengedélyes megjelölte az eredeti kényszerengedélyt; továbbá
+- b) a kényszerengedély számát, a módosítás alapjául szolgáló okokat, valamint bizonyítékot arra vonatkozóan, hogy a kényszerengedélyes a 816/2006/EK rendelet 9. cikkének (1) bekezdése értelmében előzetes tárgyalásokat folytatott a szabadalmassal, feltéve, hogy a kérelmezett további mennyiség meghaladja az eredetileg engedélyezett mennyiség 25%-át.
 
 (2) Az (1) bekezdés szerinti kérelemhez mellékelni kell az okirati bizonyítékokat.
 
@@ -1312,9 +1333,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdésben meghatározott hatósági tájékoztatást akkor közli, ha a bejelentő erre irányuló kérelmet nyújtott be. A kérelemhez mellékelni kell a közzétett igénypontok magyar fordítását.
 
-(3) A kérelmet és az igénypontok magyar fordítását a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+(3) A 45. § (5)–(6) bekezdésben meghatározott adatokon túl a kérelemnek tartalmaznia kell a feltaláló nevét és lakcímét vagy utalást arra, hogy a feltaláló kéri nevének és lakcímének a szabadalmi iratokon való feltüntetése mellőzését azzal, hogy ebben az esetben a feltaláló nevét és lakcímét külön lapon kell megadni. A feltaláló nevének és lakcímének megadása történhet az európai szabadalmi bejelentés ezeket tartalmazó iratára való hivatkozással is. A kérelmet és az igénypontok magyar fordítását egyebekben a szabadalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
-(4) Az igénypontok fordításának közzétételéért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) Az igénypontok fordításának közzétételéért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (5) A Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a kérelmet abból a szempontból, hogy az kielégíti-e a (2) és a (3) bekezdésben meghatározott követelményeket. Ennek során a 68. § (2)–(4) bekezdésének megfelelő alkalmazásával jár el.
 
@@ -1352,11 +1373,11 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) Ha az európai szabadalom igénypontokon kívüli szövegének angol vagy magyar nyelvű fordítását is be kell nyújtani, a fordítást azon a napon benyújtottnak kell tekinteni, amelyen a szabadalmas az (1) bekezdésben előírt mindkét fordítást vagy közülük már a másodikat is benyújtotta.
 
-(3) Az (1) bekezdésben előírt cselekmény az ott megjelölt határidő utolsó napjától számított három hónapon belül is teljesíthető, ha ez utóbbi határidőn belül megfizetik a külön jogszabályban erre az esetre meghatározott pótdíjat.
+(3) Az (1) bekezdésben előírt cselekmény az ott megjelölt határidő utolsó napjától számított három hónapon belül is teljesíthető, ha ez utóbbi határidőn belül megfizetik az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban erre az esetre meghatározott pótdíjat.
 
-(4) Az (1) vagy (1a) bekezdés szerinti fordítást vagy fordításokat (a továbbiakban együtt: fordítás) a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni és benyújtani.
+(4) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl az (1) vagy az (1a) bekezdés szerinti fordítás vagy fordítások (a továbbiakban együtt: fordítás) benyújtásáról szóló, az európai szabadalom hatályosítására irányuló kérelemnek tartalmaznia kell a feltaláló nevét és lakcímét vagy utalást arra, hogy a feltaláló kéri nevének és lakcímének a szabadalmi iratokon való feltüntetése mellőzését azzal, hogy ebben az esetben a feltaláló nevét és lakcímét külön lapon kell megadni. A feltaláló nevének és lakcímének megadása történhet az európai szabadalom ezeket tartalmazó iratára való hivatkozással is. A fordítást egyebekben a szabadalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
-(5) A fordítás meghirdetéséért külön jogszabályban meghatározott díjat kell fizetni a fordítás benyújtásától számított két hónapon belül.
+(5) A fordítás meghirdetéséért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a fordítás benyújtásától számított két hónapon belül.
 
 (6) A Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a fordítást abból a szempontból, hogy az megfelel-e a (4) bekezdésben meghatározott követelményeknek. Ennek során a 68. § (2)–(4) bekezdésének megfelelő alkalmazásával jár el azzal az eltéréssel, hogy a 68. § (3) és (4) bekezdésében szabályozott esetekben a fordítást be nem nyújtottnak kell tekinteni.
 
@@ -1384,9 +1405,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 84/K. § (1) A bejelentő, illetve a szabadalmas bármikor kérheti az igénypontok, illetve a leírás fordításának [84/E., 84/H. és 84/I. §] kijavítását. A kijavított fordítás szerinti oltalom akkor válik hatályossá, amikor a Szellemi Tulajdon Nemzeti Hivatala közölte a hatósági tájékoztatást a fordítás kijavításáról.
 
-(2) A kijavítási kérelemre és mellékleteire megfelelően alkalmazni kell a 84/E. § (2) és (3) bekezdésében, illetve a 84/H. § (4) bekezdésében foglaltakat.
+(2) A kijavítási kérelemre és mellékleteire megfelelően alkalmazni kell a 84/E. § (2) és (3) bekezdésében, illetve a 84/H. § (4) bekezdésében foglaltakat azzal, hogy a kérelemnek a feltaláló nevét és lakcímét akkor sem kell tartalmaznia, ha a feltaláló nem kérte neve feltüntetésének mellőzését.
 
-(3) A fordítás kijavításának közzétételéért külön jogszabályban meghatározott díjat kell fizetni az igénypontok, illetve a leírás fordításának kijavítására irányuló kérelem benyújtásától számított két hónapon belül.
+(3) A fordítás kijavításának közzétételéért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni az igénypontok, illetve a leírás fordításának kijavítására irányuló kérelem benyújtásától számított két hónapon belül.
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a kérelmet abból a szempontból, hogy az kielégíti-e a (2) bekezdésben meghatározott követelményeket. Ennek során a 68. § (2)–(4) bekezdésének megfelelő alkalmazásával jár el.
 
@@ -1438,7 +1459,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (4) Ha a nemzetközi szabadalmi bejelentés fordítását a bejelentési nap elismerését tartalmazó értesítés napjáig nem nyújtják be, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt, hogy a hiányt a (3) bekezdésben előírt határidőn belül vagy a figyelmeztetéstől számított egy hónapon, illetve – ha ez a hosszabb – a nemzetközi bejelentés átvételétől számított két hónapon belül pótolja. Ennek elmaradása esetén a nemzetközi bejelentést visszavontnak kell tekinteni.
 
-(5) A nemzetközi szabadalmi bejelentés továbbításáért külön jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi bejelentéssel kapcsolatban a Szerződésben meghatározott nemzetközi illetéket és kutatási illetéket kell fizetni a Szerződésben előírt határidőn belül és az ott megszabott módon.
+(5) A nemzetközi szabadalmi bejelentés továbbításáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi bejelentéssel kapcsolatban a Szerződésben meghatározott nemzetközi illetéket és kutatási illetéket kell fizetni a Szerződésben előírt határidőn belül és az ott megszabott módon.
 
 (6) A Szellemi Tulajdon Nemzeti Hivatala a nemzetközi illeték és a kutatási illeték összegéről és a megfizetésére vonatkozó előírásokról tájékoztatót ad ki, amelyet közzé kell tenni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
 
@@ -1448,15 +1469,15 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala kiválasztott hivatalként jár el azoknak az (1) bekezdésben említett nemzetközi szabadalmi bejelentéseknek az ügyében, amelyekre vonatkozóan a bejelentő nemzetközi elővizsgálati kérelmet terjesztett elő, és Magyarországot kiválasztotta olyan Szerződő Államként, amelyben az elővizsgálat eredményeit fel kívánja használni.
 
-(3) Ha a Szellemi Tulajdon Nemzeti Hivatala megjelölt vagy kiválasztott hivatalként jár el, a nemzetközi szabadalmi bejelentés elsőbbségi napjától számított harmincegy hónapon belül be kell nyújtani a nemzetközi bejelentés magyar nyelvű fordítását a feltaláló nevének és címének közlésével, valamint meg kell fizetni a külön jogszabályban meghatározott nemzeti díjat.
+(3) Ha a Szellemi Tulajdon Nemzeti Hivatala megjelölt vagy kiválasztott hivatalként jár el, a nemzetközi szabadalmi bejelentés elsőbbségi napjától számított harmincegy hónapon belül be kell nyújtani a nemzetközi bejelentés magyar nyelvű fordítását a feltaláló nevének és címének közlésével, vagy hivatkozni kell a nemzetközi szabadalmi bejelentés ezt tartalmazó iratára, valamint meg kell fizetni az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott nemzeti díjat.
 
-(4) A (3) bekezdésben előírt cselekmények az ott megjelölt határidő utolsó napjától számított három hónapon belül is teljesíthetők, ha ez utóbbi határidőn belül megfizetik a külön jogszabályban erre az esetre meghatározott pótdíjat is.
+(4) A (3) bekezdésben előírt cselekmények az ott megjelölt határidő utolsó napjától számított három hónapon belül is teljesíthetők, ha ez utóbbi határidőn belül megfizetik az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban erre az esetre meghatározott pótdíjat is.
 
 (5) A (3) bekezdésben előírt fordításnak tartalmaznia kell a szabadalmi leírást, az igénypontokat, a rajzokon szereplő szöveget és a kivonatot. Ha az igénypontokat a Szerződés szerint, illetve a (3) bekezdésben előírt cselekmények teljesítése alkalmával módosították, mind az eredeti, mind a módosított igénypontokat be kell nyújtani magyar nyelven.
 
 (6) Ha a (3) bekezdésben előírt cselekményeket nem teljesítik az ott megjelölt határidőn belül és e cselekményeket a (4) bekezdésben megszabott határidőn belül sem teljesítik a pótdíj megfizetése mellett, a nemzetközi szabadalmi bejelentés hatálya Magyarországon megszűnik, amihez ugyanazok a következmények fűződnek, mint a Szellemi Tulajdon Nemzeti Hivatalához benyújtott szabadalmi bejelentés visszavonásához.
 
-(7) A nemzetközi szabadalmi bejelentésnek azokat a részeit, amelyek vonatkozásában a Szerződés 17. cikke (3) bekezdésének a) pontja alapján a nemzetközi kutatási szerv a nemzetközi kutatást nem végezte el, visszavontnak kell tekinteni, kivéve, ha a bejelentő a nemzetközi bejelentés fordításának a Szellemi Tulajdon Nemzeti Hivatalához történő benyújtásától számított három hónapon belül megfizeti a külön jogszabályban meghatározott kutatási nemzeti pótdíjat.
+(7) A nemzetközi szabadalmi bejelentésnek azokat a részeit, amelyek vonatkozásában a Szerződés 17. cikke (3) bekezdésének a) pontja alapján a nemzetközi kutatási szerv a nemzetközi kutatást nem végezte el, visszavontnak kell tekinteni, kivéve, ha a bejelentő a nemzetközi bejelentés fordításának a Szellemi Tulajdon Nemzeti Hivatalához történő benyújtásától számított három hónapon belül megfizeti az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott kutatási nemzeti pótdíjat.
 
 (8) Ha a nemzetközi szabadalmi bejelentés fordításának benyújtásakor a kutatási nemzeti pótdíjat nem fizették meg, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a (7) bekezdésben meghatározott határidőben történő hiánypótlásra.
 
@@ -1468,7 +1489,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 84/U. § (1) A Szellemi Tulajdon Nemzeti Hivatala megjelölt, illetve kiválasztott hivatalként a bejelentő külön kérelmére végzi el a nemzetközi szabadalmi bejelentés érdemi vizsgálatát. A kérelmet a 84/S. § (3) bekezdésében előírt cselekményekkel egyidejűleg, vagy azt követően, legkésőbb az újdonságkutatás elvégzéséről közölt hatósági tájékoztatás napjától számított hat hónapon belül lehet előterjeszteni.
 
-(2) A kérelem benyújtásától számított két hónap elteltéig meg kell fizetni a külön jogszabályban előírt vizsgálati díjat.
+(2) A kérelem benyújtásától számított két hónap elteltéig meg kell fizetni a az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban előírt vizsgálati díjat.
 
 (3) Az érdemi vizsgálatra irányuló kérelemre és az érdemi vizsgálatra egyebekben megfelelően alkalmazni kell a 74–76. § rendelkezéseit.
 
@@ -1522,8 +1543,8 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 (11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
 
 - a) az eljáró bíróság megnevezését,
-- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
-- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+- b) a kérelmezőnek a 45. § (5) bekezdésében meghatározott azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének a 45. § (5)–(6) bekezdésében meghatározott azonosító adatait és biztonságos kézbesítési szolgáltatási címét.
 
 (11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
 
@@ -1583,7 +1604,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### Képviselet
 
-94. § (1) Az eljárás során meghatalmazottként szabadalmi ügyvivő is eljárhat.
+94. § (1) Az eljárás során meghatalmazottként, ideértve a 94/A. § szerinti jogi képviseletet is, szabadalmi ügyvivő is eljárhat.
 
 (2) A szabadalmi ügyvivőnek vagy ügyvédnek – akár belföldön, akár külföldön – adott meghatalmazás érvényességéhez elegendő, ha azt a meghatalmazó aláírta.
 
@@ -1872,7 +1893,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A növényfajta-oltalom fenntartása
 
-111/A. § (1) A növényfajta-oltalom tartamára évenként, külön jogszabályban meghatározott fenntartási díjat kell fizetni.
+111/A. § (1) A növényfajta-oltalom tartamára évenként, az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott fenntartási díjat kell fizetni.
 
 (2) A növényfajta-oltalom fenntartására és fenntartási díjára egyebekben a szabadalmi oltalom fenntartására és fenntartási díjára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -1957,7 +1978,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 - e) a növényfajta-oltalmi bejelentések és a növényfajta-oltalmak nyilvántartása, beleértve a fenntartásukkal kapcsolatos kérdéseket;
 - f) a növényfajta-oltalommal kapcsolatos hatósági tájékoztatás.
 
-(2) A 106. § (3)–(5) bekezdéseiben meghatározott feltételekre vonatkozó kísérleti vizsgálatot az ország területén a külön jogszabályban kijelölt szerv (vizsgáló szerv) végzi.
+(2) A 106. § (3)–(5) bekezdéseiben meghatározott feltételekre vonatkozó kísérleti vizsgálatot az ország területén a növényfajták állami elismeréséről szóló jogszabályban kijelölt szerv (vizsgáló szerv) végzi.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a megsemmisítési eljárásban és a megszüntetési eljárásban. A tanács szótöbbséggel dönt.
 
@@ -2000,9 +2021,11 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) A növényfajta-oltalmi bejelentésnek bejelentési kérelmet, a növényfajta újdonságára vonatkozó nyilatkozatot, a 106. § (3)–(5) bekezdéseiben meghatározott feltételekre vonatkozó kísérleti vizsgálat eredményét magában foglaló végleges fajtaleírást, a fajtanevet, a növényfaj nevét, latin nevét és – a szükséghez képest – egyéb mellékletet kell tartalmaznia.
 
-(3) A növényfajta-oltalmi bejelentést a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+(3) A bejelentési kérelemnek a 45. § (5)–(6) bekezdésében foglalt adatokon túl tartalmaznia kell a nemesítő nevét és lakcímét vagy utalást arra, hogy a nemesítő nevének és lakcímének a növényfajta-oltalmi iratokon való feltüntetése mellőzését kéri, és hogy a nemesítő a nevét és lakcímét külön lapon adja meg.
 
-(4) A növényfajta-oltalmi bejelentésért külön jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
+(3a) A növényfajta-oltalmi bejelentést egyebekben a szabadalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
+
+(4) A növényfajta-oltalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
 
 (5) Ha a bejelentés mellékletei idegen nyelven készültek, a magyar nyelvű ideiglenes fajtaleírást és a növényfaj magyar nevét a bejelentés napjától számított négy hónapon belül kell benyújtani.
 
@@ -2013,7 +2036,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 114/J. § (1) A növényfajta-oltalmi bejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 - a) utalást a növényfajta-oltalom iránti igényre;
-- b) a bejelentő azonosítására alkalmas és a vele való kapcsolatfelvételt lehetővé tevő adatokat;
+- b) a bejelentő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, képviselet esetén a képviselő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, vagy a bejelentővel való kapcsolatfelvételt lehetővé tevő más adatot;
 - c) az ideiglenes fajtaleírást, függetlenül attól, hogy az megfelel-e az egyéb követelményeknek;
 - d) az ideiglenes fajtanevet;
 - e) a növényfaj nevét és latin nevét.
@@ -2055,7 +2078,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### Alaki vizsgálat
 
-114/O. § Ha a növényfajta-oltalmi bejelentés megfelel a 114/M. § (1) bekezdése alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e a 114/I. § (2) és (3) bekezdésében meghatározott alaki követelményeket. Ennek során a 68. § (2)–(4) bekezdéseinek megfelelő alkalmazásával jár el.
+114/O. § Ha a növényfajta-oltalmi bejelentés megfelel a 114/M. § (1) bekezdése alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e a 114/I. § (2)–(3a) bekezdésében meghatározott alaki követelményeket. Ennek során a 68. § (2)–(4) bekezdéseinek megfelelő alkalmazásával jár el.
 
 ### Közzététel, észrevétel
 
@@ -2073,7 +2096,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) A 106. § (3)–(5) bekezdéseiben meghatározott feltételeket az állami elismerés során vagy a növényfajta-oltalmi eljárás céljára külön elvégzett kísérleti vizsgálat eredménye alapján kell megállapítani.
 
-(3) Külföldi szervnél végzett kísérleti vizsgálat eredményét e szerv hozzájárulásával lehet figyelembe venni. Ha a bejelentő külföldi vizsgáló szervnél végzett kísérleti vizsgálat eredményét nyújtja be, a Szellemi Tulajdon Nemzeti Hivatala a vizsgálati eredményt – a külföldi vizsgáló szerv hozzájáruló nyilatkozatával együtt – továbbítja a vizsgáló szervnek [114/G. § (2) bek.]. A vizsgáló szerv a vizsgálati eredmény felhasználása során a külön jogszabályban előírtak alapján jár el.
+(3) Külföldi szervnél végzett kísérleti vizsgálat eredményét e szerv hozzájárulásával lehet figyelembe venni. Ha a bejelentő külföldi vizsgáló szervnél végzett kísérleti vizsgálat eredményét nyújtja be, a Szellemi Tulajdon Nemzeti Hivatala a vizsgálati eredményt – a külföldi vizsgáló szerv hozzájáruló nyilatkozatával együtt – továbbítja a vizsgáló szervnek [114/G. § (2) bek.]. A vizsgáló szerv a vizsgálati eredmény felhasználása során a növényfajták állami elismeréséről szóló jogszabályban előírtak alapján jár el.
 
 (4) A kísérleti vizsgálat költségeit a bejelentő viseli.
 
@@ -2121,7 +2144,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A közösségi növényfajta-oltalmi bejelentés továbbítása
 
-115/A. § (1) A Szellemi Tulajdon Nemzeti Hivatalánál benyújtott közösségi növényfajta-oltalmi bejelentésnek a közösségi növényfajta-oltalmi rendelet 49. cikkének (2) bekezdése alapján történő továbbításáért külön jogszabályban meghatározott díjat kell fizetni a bejelentés benyújtásakor.
+115/A. § (1) A Szellemi Tulajdon Nemzeti Hivatalánál benyújtott közösségi növényfajta-oltalmi bejelentésnek a közösségi növényfajta-oltalmi rendelet 49. cikkének (2) bekezdése alapján történő továbbításáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a bejelentés benyújtásakor.
 
 (2) Ha a közösségi növényfajta-oltalmi bejelentés továbbításának díját nem fizették meg, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a hiánypótlásra. A Szellemi Tulajdon Nemzeti Hivatala a közösségi növényfajta-oltalmi bejelentést a díj megfizetését követően továbbítja.
 
@@ -2159,7 +2182,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 115/E. § (1) A Hivatal működését saját bevételeiből fedezi.
 
-(2) A Hivatal előtti iparjogvédelmi eljárásokban külön jogszabályban megállapított igazgatási szolgáltatási díjat kell fizetni. Ilyen díjat kell fizetni a Hivatal által készített hitelesített vagy hitelesítetlen másolatért, kivonatért, valamint fordításért, továbbá a Hivatal által végzett hitelesítésért is. E törvényben vagy külön törvényben meghatározott esetekben és feltételekkel az iparjogvédelmi oltalom fenntartásáért vagy megújításáért – külön jogszabályban megállapított mértékű – díjat kell fizetni. E díjak mértékét rendszeres időközönként felül kell vizsgálni. A felülvizsgálat során a (3) bekezdésben meghatározottakon kívül figyelembe kell venni az iparjogvédelmi rendszer működtetési költségeit, az egyes iparjogvédelmi oltalmi formák sajátosságait, valamint az innováció iparjogvédelmi eszközökkel történő előmozdításának szempontjait is.
+(2) A Hivatal előtti iparjogvédelmi eljárásokban az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban megállapított igazgatási szolgáltatási díjat kell fizetni. Ilyen díjat kell fizetni a Hivatal által készített hitelesített vagy hitelesítetlen másolatért, kivonatért, valamint fordításért, továbbá a Hivatal által végzett hitelesítésért is. E törvényben vagy külön törvényben meghatározott esetekben és feltételekkel az iparjogvédelmi oltalom fenntartásáért vagy megújításáért – az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban megállapított mértékű – díjat kell fizetni. E díjak mértékét rendszeres időközönként felül kell vizsgálni. A felülvizsgálat során a (3) bekezdésben meghatározottakon kívül figyelembe kell venni az iparjogvédelmi rendszer működtetési költségeit, az egyes iparjogvédelmi oltalmi formák sajátosságait, valamint az innováció iparjogvédelmi eszközökkel történő előmozdításának szempontjait is.
 
 (3) A Hivatal bevételét képezik a (2) bekezdés szerinti igazgatási szolgáltatási díjak, fenntartási díjak és megújítási díjak, a Szellemi Tulajdon Világszervezete által igazgatott nemzetközi szerződések alapján a Hivatal által végzett hatósági tevékenységért járó díj, illetve részesedés, a Magyarországra kiterjedő, egységes hatályú – európai uniós vagy más regionális – iparjogvédelmi oltalom díjaiból a Hivatal által ellátott feladatokra figyelemmel járó részesedés, a Hivatal által nyújtott szolgáltatások ellenértéke, valamint az egyéb bevételek. E bevételeknek a Hivatal folyamatos és zavartalan működését biztosítaniuk kell.
 
@@ -2314,7 +2337,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 (2) A fenntartási díj esedékességét e törvény, illetve külön törvény rendelkezései szerint kell megállapítani.
 
-(3) Az igazgatási szolgáltatási díj, a megújítási díj és a fenntartási díj megfizetésének időpontja átutalás útján történő teljesítés esetében a Hivatal külön jogszabályban megjelölt pénzforgalmi számláján történő jóváírást megelőző második banki munkanap, külföldről indított átutalás esetében a jóváírást megelőző ötödik banki munkanap. A banki munkanapok számításánál a kincstár munkarendje az irányadó. Ha a teljesítés készpénz-átutalási megbízás útján történik, a megfizetés napja a készpénz-átutalási megbízás postára adásának napja.
+(3) Az igazgatási szolgáltatási díj, a megújítási díj és a fenntartási díj megfizetésének időpontja átutalás útján történő teljesítés esetében a Hivatal az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban megjelölt pénzforgalmi számláján történő jóváírást megelőző második banki munkanap, külföldről indított átutalás esetében a jóváírást megelőző ötödik banki munkanap. A banki munkanapok számításánál a kincstár munkarendje az irányadó. Ha a teljesítés készpénz-átutalási megbízás útján történik, a megfizetés napja a készpénz-átutalási megbízás postára adásának napja.
 
 ### A díjfizetés elmaradásának következményei
 

@@ -567,6 +567,10 @@ a befektetési alapkezeléshez közvetlenül kapcsolódó területen tevékenyke
 
 (3) Az ÁÉKBV-alapkezelőre vonatkozó, az összeférhetetlenség kezelését érintő további szabályokat az ÁÉKBV-alapkezelőre vonatkozó szervezeti, összeférhetetlenségi, üzletviteli és kockázatkezelési követelményekről szóló kormányrendelet határozza meg.
 
+#### 11/A. Értékpapírosításban érintett kitettség
+
+27/A. § Amennyiben az ÁÉKBV-alapkezelő kitettségei között olyan értékpapírosítás szerepel, amely nem felel meg az (EU) 2017/2402 európai parlamenti és tanácsi rendeletben megállapított követelményeknek, az ÁÉKBV-alapkezelőnek az adott ÁÉKBV befektetőinek legjobb érdekeit szolgálva intézkednie kell, és korrekciós intézkedéseket kell hoznia.
+
 #### 12. Személyes ügyletek
 
 28. § (1) Az érintett személy által vagy nevében pénzügyi eszközre vonatkozóan végrehajtott ügylet személyes ügyletnek minősül, ha az érintett személy szakmai tevékenységi körén kívül jár el vagy az ügylet végrehajtása az alábbi személyek valamelyikének számlájára történik:
@@ -721,6 +725,8 @@ között létrejött érdekellentét nyomán az ABAK által kezelt kollektív be
 #### 19. Értékpapírosítási pozíciókba történő befektetés
 
 37. § Az ABAK-nak az általa kezelt ABA értékpapírosítási pozíciókba történő befektetése során az ABAK-rendelet 50–56. cikkében meghatározottaknak megfelelően kell eljárnia.
+
+37/A. § Amennyiben az ABAK kitettségei között olyan értékpapírosítás szerepel, amely nem felel meg az (EU) 2017/2402 európai parlamenti és tanácsi rendeletben megállapított követelményeknek, az ABAK-nak az adott ABA befektetőinek legjobb érdekeit szolgálva intézkednie kell, és korrekciós intézkedéseket kell hoznia.
 
 #### 20. Értékelés
 
@@ -2992,7 +2998,8 @@ van összefüggésben.
 - h) az Európai Parlament és Tanács 2015. április 29-i az európai hosszú távú befektetési alapokról szóló 760/2015/EU rendeletének,
 - i) az Európai Parlament és Tanács 2015. november 25-i, az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 rendeletének
 - j) a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet,
-- k) az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+- k) az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet
+- l) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosító rendelkezések
 

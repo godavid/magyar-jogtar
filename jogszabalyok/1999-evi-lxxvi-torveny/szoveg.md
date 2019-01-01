@@ -451,7 +451,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (2) A jogosultkutatás során legalább az árva mű felhasználásával kapcsolatos részletes szabályokról szóló kormányrendeletben – az érintett mű vagy teljesítmény típusa szerint – meghatározott információforrásokat igénybe kell venni.
 
-(3) A jogosultkutatást abban az országban kell elvégezni, amelyben a művet vagy teljesítményt először kiadták vagy – kiadás hiányában – először sugározták.
+(3) A jogosultkutatást abban az országban kell elvégezni, amelyben a művet vagy teljesítményt először nyilvánosságra hozták.
 
 (4) A (3) bekezdéstől eltérően, a filmalkotással vagy más audiovizuális művel kapcsolatos jogosultkutatást az előállító székhelye vagy szokásos tartózkodási helye szerinti országban kell elvégezni.
 
@@ -468,6 +468,11 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 ### Árva mű felhasználásának engedélyezése
 
 41/B. § (1) A Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: Hivatal) kérelemre – a felhasználás módjához és mértékéhez igazodó díj megállapítása mellett – engedélyt ad az árva mű felhasználására. A felhasználási engedély legfeljebb öt évre szól, Magyarország területére terjed ki, nem kizárólagos, nem átruházható, további felhasználási engedély adására és a mű átdolgozására (29. §) nem jogosít.
+
+(1a) Ha az (1) bekezdés szerinti kérelmet az épület mint építészeti alkotás tulajdonosa terjeszti elő,
+
+- a) az engedély az építészeti alkotás átdolgozására (29. §) is kiterjedhet,
+- b) az engedély kérelemre indokolt esetben egy alkalommal az eredeti engedély időtartamával, de legfeljebb öt évvel meghosszabbítható.
 
 (2) Az (1) bekezdésben említett díjat a jogosult személyének vagy tartózkodási helyének ismertté válását követően kell megfizetni, ha a felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja. Ha a felhasználás közvetve vagy közvetlenül jövedelemszerzés vagy jövedelemfokozás célját szolgálja, a díjat a Hivatalnál letétbe kell helyezni. A díj letétbe helyezése a felhasználás megkezdésének feltétele.
 
@@ -836,6 +841,10 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 68. § (1) A szabadban, nyilvános helyen, állandó jelleggel felállított képzőművészeti, építészeti és iparművészeti alkotás látképe a szerző hozzájárulása és díjazás nélkül elkészíthető és felhasználható.
 
 (2) Tudományos ismeretterjesztő előadás, továbbá iskolai oktatás céljára [33. § (4) bek.] képzőművészeti, építészeti, iparművészeti és ipari tervezőművészeti alkotás képe, valamint a fotóművészeti alkotás a szerző hozzájárulása és díjazás nélkül felhasználható.
+
+(3) Épület helyreállítása céljából építészeti alkotás vagy annak terve, továbbá az építészeti alkotás rajza és az azt tartalmazó mű a szerző hozzájárulása és díjazás nélkül többszörözhető és a nyilvánosság számára lehívásra hozzáférhetővé tehető.
+
+(4) E § alkalmazásában helyreállítás az újjáépítés, valamint az építészeti alkotás rendeltetésszerű és biztonságos használatra alkalmassá tétele érdekében végzett felújítási tevékenység az építmény, építményrész eredeti építészeti kialakításának megtartása mellett.
 
 ### A kiállítás joga
 

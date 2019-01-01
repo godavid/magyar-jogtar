@@ -146,7 +146,7 @@ kapcsolatos ügyek.
 
 (5) A szabadalmi törvény eltérő rendelkezése hiányában a (4) bekezdés c) és d) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
-(6) A Szellemi Tulajdon Nemzeti Hivatalának az oltalommal összefüggő eljárásaira – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni kell a szabadalmi törvénynek a Szellemi Tulajdon Nemzeti Hivatala szabadalmi eljárására vonatkozó szabályait.
+(6) A Szellemi Tulajdon Nemzeti Hivatalának a topográfiaoltalommal összefüggő eljárásaiban – az e törvényben foglalt eltérésekkel – megfelelően alkalmazni kell a szabadalmi törvénynek a Szellemi Tulajdon Nemzeti Hivatala szabadalmi eljárására vonatkozó szabályait. A szabadalmi törvénynek a kérelem tartalmára, a beadványokkal kapcsolatos eljárásra és az azokkal kapcsolatban alkalmazható jogkövetkezményekre vonatkozó általános rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
 
 ### Nyilvánosság
 
@@ -165,7 +165,7 @@ kapcsolatos ügyek.
 
 (2) A bejelentés a kérelemből, a topográfia azonosítására alkalmas ábrázolásból és az ezekkel kapcsolatos egyéb mellékletekből áll.
 
-(3) A bejelentés részletes alaki szabályait külön jogszabály állapítja meg.
+(3) A bejelentési kérelemnek a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl tartalmaznia kell a szerző nevét és lakcímét, vagy utalást arra, hogy a szerző nevének és lakcímének a topográfiaoltalmi iratokon való feltüntetése mellőzését kéri, és hogy a szerző a nevét és lakcímét külön lapon adja meg. A bejelentést egyebekben a topográfiaoltalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
 (4) Jogot csak olyan bejelentésre lehet alapítani, amely legalább a bejelentő nevét és címét, valamint a topográfia lényegének azonosítására alkalmas ábrázolást tartalmazza.
 
@@ -223,8 +223,8 @@ kapcsolatos ügyek.
 (11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
 
 - a) az eljáró bíróság megnevezését,
-- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
-- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+- b) a kérelmezőnek a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott azonosító adatait és biztonságos kézbesítési szolgáltatási címét.
 
 (11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
 

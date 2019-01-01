@@ -38,22 +38,13 @@ nem alkalmazható a 2. § (3) bekezdés b)–d) pontjában meghatározott közig
 
 #### 3. A közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény módosítása
 
-8. § A közigazgatási szabályszegések szankcióinak átmeneti szabályairól, valamint a közigazgatási eljárásjog reformjával összefüggésben egyes törvények módosításáról és egyes jogszabályok hatályon kívül helyezéséről szóló 2017. évi CLXXIX. törvény
-
-- a) 41. § (7) bekezdésében a „2019. január 1. napján” szövegrész helyébe a „2020. január 1. napján” szöveg,
-- b) 41. § (8) bekezdésében a „2019. január 2. napján” szövegrész helyébe a „2020. január 2. napján” szöveg
-
-lép.
+8. §
 
 #### 4. A közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljárások egyszerűsítésével összefüggő törvények módosításáról szóló 2017. évi CLXXXVI. törvény módosítása
 
-9. § A közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljárások egyszerűsítésével összefüggő törvények módosításáról szóló 2017. évi CLXXXVI. törvény (a továbbiakban: Büromódtv.) 79. § (4) bekezdése helyébe a következő rendelkezés lép és a 79. § a következő (5) bekezdéssel egészül ki:
+9. §
 
-„(4) Az 1. § (3) bekezdése, a 8. § (1) bekezdése, a 20. § (2) bekezdése, a 21. § és a 27–29. § 2019. január 1-jén lép hatályba.
-
-(5) A 32. § (1)–(4) bekezdése 2020. január 1-jén lép hatályba.”
-
-10. § A Büromódtv. 79. § (1) bekezdésében a „(2)–(4) bekezdésben” szövegrész helyébe a „(2)–(5) bekezdésben” szöveg lép.
+10. §
 
 11. § A Büromódtv. 32. § (3) bekezdése a következő szöveggel lép hatályba:
 

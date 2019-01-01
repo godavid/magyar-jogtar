@@ -297,9 +297,9 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 - b) az igénybevétel célját megalapozó ügy azonosítását szolgáló adatokat és
 - c) az arcképelemzői tevékenység igénybevételét az igénybevételre jogosult szerv által írásban felhatalmazott személy kezdeményezi.
 
-(2) A (1) bekezdés c) pontjában meghatározott felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról az igénybevételre jogosult szerv – a felhatalmazás kiadását, változását követően – haladéktalanul értesíti az arcképelemző tevékenységet végző szervet.
+(2) A (1) bekezdés c) pontjában meghatározott felhatalmazás jogosultjának személyéről, hozzáférési jogosultságának terjedelméről és feltételeiről, valamint az abban bekövetkezett változásról az igénybevételre jogosult szerv – a felhatalmazás kiadását, változását követően – haladéktalanul értesíti a központi szervet.
 
-(3) Az arcképelemző tevékenységet végző szerv az arcképelemzői tevékenység teljesítését megtagadja, illetve az adattovábbítási eljárást megszünteti, ha tudomására jut, hogy az arcképelemzői tevékenység igénybevétele az (1) bekezdésben meghatározott feltételnek nem felel meg, vagy külön törvény alapján az arra felhatalmazott az arcképelemző tevékenységet végző szerv részére olyan rendelkezést ír elő, amely a kérelemben érintett adatok vonatkozásában a harmadik személy részére történő adatszolgáltatást megtiltja vagy korlátozza. Az arcképelemző tevékenységet végző szerv az (1) bekezdés c) pontja szerinti feltétel fennállását az arcképelemzői tevékenység végzését megelőzően a jogosultság nyilvántartásban ellenőrzi, amely érdekében a központi szerv teljes körű hozzáférést biztosít részére a jogosultság nyilvántartás adataihoz.
+(3) Az arcképelemző tevékenységet végző szerv az arcképelemzői tevékenység teljesítését megtagadja, illetve az adattovábbítási eljárást megszünteti, ha tudomására jut, hogy az arcképelemzői tevékenység igénybevétele az (1) bekezdésben meghatározott feltételnek nem felel meg, vagy külön törvény alapján az arra felhatalmazott az arcképelemző tevékenységet végző szerv részére olyan rendelkezést ír elő, amely a kérelemben érintett adatok vonatkozásában a harmadik személy részére történő adatszolgáltatást megtiltja vagy korlátozza.
 
 (4) Közvetlen adatkapcsolat útján látja el
 

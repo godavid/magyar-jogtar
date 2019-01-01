@@ -4,9 +4,21 @@ a közlekedéssel összefüggő egyes törvények módosításáról
 
 #### 1. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-1. §
+#### 1. §
 
-2–8. §
+#### 2. §
+
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
 
 9. § (1)–(11)
 
@@ -14,15 +26,17 @@ a közlekedéssel összefüggő egyes törvények módosításáról
 
 (13)–(15)
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
 #### 2. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-13–14. §
+#### 13. §
+
+#### 14. §
 
 15. § (1)–(2)
 
@@ -30,91 +44,157 @@ a közlekedéssel összefüggő egyes törvények módosításáról
 
 #### 3. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-16–17. §
+#### 16. §
+
+#### 17. §
 
 #### 4. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-18. §
+#### 18. §
 
-19–20. §
+#### 19. §
+
+#### 20. §
 
 21. § (1)
 
 (2)–(5)
 
-22–24. §
+#### 22. §
+
+#### 23. §
+
+#### 24. §
 
 #### 5. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-25. §
+#### 25. §
 
 26. § (1)–(2)
 
 (3)
 
-27. §
+#### 27. §
 
 #### 6. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-28–29. §
+#### 28. §
+
+#### 29. §
 
 #### 7. A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 8. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33–38. §
+#### 33. §
 
-39–41. §
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
 
 42. § (1)
 
 (2)
 
-43. §
+#### 43. §
 
 #### 9. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-44–47. §
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
 
 #### 10. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-48–49. §
+#### 48. §
+
+#### 49. §
 
 #### 11. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-50. § A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 51. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) A (9) bekezdésben meghatározott adatszolgáltatás, továbbá ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.”
+#### 50. §
 
 #### 12. A Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF) módosításáról Vilniusban elfogadott, 1999. június 3-án kelt Jegyzőkönyv C Függeléke 2011. évi módosításokkal és kiegészítésekkel egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2011. évi LXXX. törvény módosítása
 
-51. §
+#### 51. §
 
 #### 13. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-52–57. §
+#### 52. §
 
-58. §
+#### 53. §
 
-59–72. §
+#### 54. §
+
+#### 55. §
+
+#### 56. §
+
+#### 57. §
+
+#### 58. §
+
+#### 59. §
+
+#### 60. §
+
+#### 61. §
+
+#### 62. §
+
+#### 63. §
+
+#### 64. §
+
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
 
 #### 14. A Genfben, 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzat kihirdetéséről és belföldi alkalmazásáról szóló 2015. évi LXXXIV. törvény módosítása
 
-73. §
+#### 73. §
 
 #### 15. A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” és „B” Melléklete kihirdetéséről, valamint a belföldi alkalmazásának egyes kérdéseiről szóló 2015. évi LXXXIX. törvény módosítása
 
-74. §
+#### 74. §
 
 #### 16. A közlekedéssel összefüggő egyes törvények módosításáról szóló 2016. évi CXLIV. törvény módosítása
 
-75. §
+#### 75. §
 
 #### 17. Az egyes közlekedési tárgyú törvények módosításáról szóló 2017. évi LXIII. törvény módosítása
 
@@ -150,7 +230,7 @@ g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
 
 (6) Az ügyintézési határidő a vasúti igazgatási szerv eljárásában hat hét.
 
-(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatait a honlapján közhírré teszi.”
+(7) A vasúti igazgatási szerv az (1) bekezdés a) és c) pontja szerinti eljárásaiban hozott határozatait a honlapján közhírré teszi.
 
 (2) Az Ektvn. 61. § (3) bekezdése a következő szöveggel lép hatályba:
 
@@ -164,7 +244,7 @@ g) mindazon feladatok ellátása, amelyeket jogszabály a feladatkörébe utal.
 
 (4) A 18/A. § (1) bekezdés a) pontjában meghatározott bírság legmagasabb összege 500 ezer forint.”
 
-18. Hatályba nem lépő rendelkezések
+18. Hatályba nem lépő rendelkezések”
 
 77. § (1) Nem lép hatályba a közlekedéssel összefüggő egyes törvények módosításáról szóló 2016. évi CXLIV. törvény 17. § (2) bekezdés j) pontja.
 

@@ -290,21 +290,23 @@ tartalmazza.
 
 (4b) A Veleszületett Rendellenességek Országos Nyilvántartását vezető szerv végzi a veleszületett rendellenességekkel kapcsolatos nemzetközi adatszolgáltatást.
 
-(5) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból daganatos eredetű betegség észlelése esetén a betegellátó továbbítja az érintett egészségügyi és személyazonosító adatait a külön jogszabály szerint vezetett Nemzeti Rákregiszternek.
+(5) A miniszteri rendeletben meghatározott betegségregisztert vezető szerv (a továbbiakban: betegségregisztert vezető szerv) az általa felügyelt szakterületen népegészségügyi szempontból kiemelt jelentőségű, társadalmi vagy egyéni szinten jelentős betegségteherrel járó betegségcsoportok tekintetében betegségregisztert hoz létre és működtet ezen megbetegedések nyilvántartása érdekében a 4. § (1) bekezdés a), c) és d) pontja, és (2) bekezdés b) pontja szerinti célból. A betegségregiszter kezeli az érintett személyek megbetegedéssel összefüggő egészségügyi és halálozással összefüggő adatait, TAJ számát, nemét, születési helyét és idejét, valamint a lakóhelyét és tartózkodási helyét.
 
-(6) Az egészségbiztosítási szerv a kezelésében lévő, daganatos eredetű betegséggel diagnosztizált betegek személyazonosító és a daganatos eredetű betegségre vonatkozó egészségügyi adatait – a 4. § (1) bekezdés b) és c) pontja, valamint a 4. § (2) bekezdés b) pontja szerinti célból – továbbítja az (5) és (7) bekezdés szerinti, daganatos eredetű megbetegedéseket nyilvántartó regiszterek részére.
+(6) Ha a betegellátó az érintett betegnél népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó, a miniszteri rendeletben felsorolt megbetegedések valamelyikét észleli, vagy annak időszakos felülvizsgálatát végzi, a 4. § (1) bekezdés a), c) és d) pontja, valamint (2) bekezdés b) pontja szerinti célból továbbítja az érintett személynek a miniszter rendeletében meghatározott személyazonosító és az észlelt megbetegedéssel összefüggő egészségügyi adatait az észlelt megbetegedést nyilvántartó betegségregisztert vezető szerv részére.
 
-(7) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból, a gyermekek daganatos eredetű megbetegedéseinek nyilvántartása érdekében a külön jogszabály szerint vezetett, az érintett egészségügyi és személyazonosító adatait tartalmazó Gyermekonkológiai Regiszter működik.
+(7) Az egészségbiztosítási szerv a kezelésében lévő, a miniszteri rendeletben felsorolt megbetegedésekkel kezelt betegek TAJ számát és az adott megbetegedésre vonatkozó egészségügyi adatait a 4. § (1) bekezdés a), c) és d) pontja és (2) bekezdés b) pontja szerinti célból továbbítja a betegségregisztert vezető szerv részére.
 
-(8) A 4. § (1) bekezdés b)–c) pontjai és a 4. § (2) bekezdés b) pontja szerinti célból a Központi Statisztikai Hivatal az elhunytak személyazonosításra alkalmas halálozási adatait a külön törvény szerint meghatározott adattartalommal az adatok teljessége és összefüggése ellenőrzésének befejezését követő 5 napon belül továbbítja az (5) és a (7) bekezdés szerinti, daganatos eredetű megbetegedéseket nyilvántartó regiszterek részére. Az (5)–(7) bekezdés szerinti regiszterek az adatfeldolgozás befejezésétől számított 8 napon belül a regiszterekben nem nyilvántartott, illetve az adatfeldolgozás során nyilvántartásba nem vett elhunytak adatait kötelesek megsemmisíteni.
+(8) A Központi Statisztikai Hivatal a miniszter rendeletében felsorolt megbetegedésben szenvedő elhunytak halálozással kapcsolatos egészségügyi adatait és az ahhoz kapcsolódó TAJ számot, nemet, születési helyet és időt, valamint a lakóhelyet és tartózkodási helyet a 4. § (2) bekezdés b) pontja szerinti célból továbbítja az adott megbetegedéssel kapcsolatos betegségregisztert vezető szerv részére. A betegségregisztert vezető szerv a regiszterben nyilvántartott elhunytak elhalálozásának tényét átvezeti, a regiszterben nem szereplő, de az adott megbetegedésben elhunytak adatait a regiszterbe felveszi, majd az adatok egyeztetését követően a regiszterben nem nyilvántartott elhunytak adatait törli. Az érintettek adatainak kezelése tekintetében a betegségregisztert vezető szerv egyebekben a (10)–(13) bekezdésben foglaltak szerint jár el.
 
-(9) A betegellátó szívinfarktussal diagnosztizált betegség észlelése esetén továbbítja az érintett személyazonosító és a szívinfarktus megbetegedésre vonatkozó egészségügyi adatait a 4. § (1) bekezdés b) és c) pontja és a 4. § (2) bekezdés b) pontja szerinti célból működő, a miniszteri rendeletben meghatározott Nemzeti Szívinfarktus Regiszter részére.
+(9) A betegségregisztert vezető szerv adategyeztetést folytat a (6)–(8) bekezdés szerinti adatszolgáltatókkal a megküldött adatok tekintetében.
 
-(10) Az egészségbiztosítási szerv a kezelésében lévő, a szívinfarktussal diagnosztizált beteg személyazonosító és a szívinfarktus megbetegedésre vonatkozó egészségügyi adatait a 4. § (2) bekezdés b) pontja szerinti célból továbbítja a Nemzeti Szívinfarktus Regiszter részére.
+(10) A betegségregisztert vezető szerv az azonos érintettre vonatkozó személyazonosító adatokhoz kapcsolódóan átadott egészségügyi és halálozási adatok tekintetében az átadást követően haladéktalanul kapcsolati kódot képez. A kapcsolati kódot a betegségregisztert vezető szerv minden átadott adat tekintetében azonos kódképzési módszer alapján hozza létre. A kapcsolati kód biztosítja az érintettre és az egyes ellátási eseményekre, betegutakra vonatkozó adatok személyazonosításra alkalmatlan összekapcsolását.
 
-(11) A 4. § (2) bekezdés b) pontja szerinti célból a Központi Statisztikai Hivatal az elhunytak halálozással kapcsolatos egészségügyi adatait és az ahhoz kapcsolódó TAJ számot, nemet, születési helyet és időt, valamint a lakóhelyet és tartózkodási helyet az adatok teljessége és összefüggése ellenőrzésének befejezését követő 5 napon belül továbbítja a Nemzeti Szívinfarktus Regiszter részére. A Nemzeti Szívinfarktus Regiszter az adatfeldolgozás befejezésétől számított 8 napon belül a regiszterben nem nyilvántartott, illetve az adatfeldolgozás során nyilvántartásba nem vett elhunytak adatait törli.
+(11) A betegségregisztert vezető szerv a kapcsolati kód képzését követően az összekapcsolás céljából kapott személyazonosító adatokat haladéktalanul törli.
 
-(12) A Nemzeti Szívinfarktus Regiszter adategyeztetést folytat a (9)–(11) bekezdés szerinti adatszolgáltatókkal a megküldött adatok tekintetében. A Nemzeti Szívinfarktus Regiszter a nyilvántartott adatokat az érintettre vonatkozó utolsó adattovábbítástól számított ötven évig kezelheti személyazonosításra alkalmas módon.
+(12) Ha a diagnózis változása kerül megállapításra a regiszterbe felvett érintett személynél, akkor az adatszolgáltató kezdeményezi a betegségregisztert vezető szervnél az érintett adatainak módosítását vagy törlését.
+
+(13) A betegségregisztert vezető szerv a nyilvántartott adatokat a regiszterbe történő felvételtől számított 30 évig kezelheti.
 
 16/A. § (1) Az egészségügyi államigazgatási szerv, valamint a területi védőnői ellátásról szóló miniszteri rendeletben és a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról szóló miniszteri rendeletben meghatározott feladatai keretében a védőnő a lakossági célzott szűrővizsgálat, valamint népegészségügyi szűrővizsgálat szervezése érdekében – a 4. § (1) bekezdés c) és d) pontja, valamint a 4. § (2) bekezdés b) pontja szerinti célból – a szűrővizsgálat megszervezésének lezárásáig kezelheti a szűrővizsgálat célcsoportjába tartozó személyeknek a szűrővizsgálat megszervezéséhez közvetlenül kapcsolódó egészségügyi és személyazonosító adatait.
 
@@ -731,15 +733,15 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 
 ### Egészségügyi profil
 
-35/J. § (1) Az érintett kezelőorvosa, ennek hiányában háziorvosa a 4. § (1) bekezdés a)–c) pontjában foglalt célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).
+35/J. § (1) Az érintett kezelőorvosa, ennek hiányában háziorvosa az érintett vércsoportjára vonatkozóan pedig az állami vérellátó szolgálat is, a 4. § (1) bekezdés a)–c) pontjában foglalt célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, vagy ennek hiányában más azonosítóját, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).
 
 (2) Az egészségügyi profilban rögzített adatokat az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
 
-(3) Az egészségügyi profil nyilvántartásból az adat megismerésére jogosult EESZT felhasználó számára kizárólag egyedileg – TAJ számmal, – azonosított érintettre vonatkozó adat továbbítható.
+(3) Az egészségügyiprofil-nyilvántartásból az adat megismerésére jogosult EESZT-felhasználó számára kizárólag egyedileg – TAJ számmal, vagy ennek hiányában más azonosítóval – azonosított érintettre vonatkozó adat továbbítható.
 
-(4) Az érintett jogosult megtiltani, hogy az (1) bekezdés szerinti adatait az érintett kezelőorvosa vagy háziorvosa rögzítse.
+(4) Az érintett jogosult megtiltani, hogy az (1) bekezdés szerinti adatait az érintett kezelőorvosa, háziorvosa, vagy az állami vérellátó szolgálat rögzítse.
 
-(5) Az érintett írásban kérheti az egészségügyi profil nyilvántartásba bejegyzett adatának javítását az azt bejegyző (1) bekezdés szerinti orvosától, illetve a működtetőtől.
+(5) Az érintett írásban kérheti az egészségügyiprofil-nyilvántartásba bejegyzett adatának javítását – a téves adat tudomásszerzésétől számított 30 napon belül – az azt bejegyző (1) bekezdés szerinti orvosától, az állami vérellátótól, illetve a működtetőtől.
 
 ### Egészségügyi dokumentáció nyilvántartása az EESZT-n belül
 
@@ -828,7 +830,8 @@ hívja fel az érintett csatlakozott adatkezelőt. A felhívás eredménytelens�
 - t) az EESZT útján a működtető részére megküldendő egészségügyi dokumentumok körét, az egészségügyi dokumentumok nyilvántartása részletes szabályait, az egészségügyi dokumentum elérési útjának biztosítása esetén a műszaki követelményeknek való megfelelés tanúsítatásának szabályait,
 - u) az EESZT útján elektronikus úton működtetendő betegségregiszterek körét, a kapcsolati kód képzésére és az elektronikus betegségregiszterekre vonatkozó részletes szabályokat,
 - v) az elektronikus konzílium és digitális képtovábbítás részletes szabályait, valamint a 35/N. § szerinti jelentéstételi és adatszolgáltatási kötelezettségeket és azok teljesítésének rendjét,
-- w) a látlelet tartalmi és formai követelményeit, kiadásának rendjét
+- w) a látlelet tartalmi és formai követelményeit, kiadásának rendjét,
+- x) a népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések körét, a megbetegedéseket nyilvántartó betegségregisztert vezető szervet, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

@@ -74,7 +74,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 (2) A támogatás iránti kérelem elbírálására vonatkozó eljárásra az az állami foglalkoztatási szerv illetékes, amelynek területén a felszámolás alatt álló gazdálkodó szervezet székhelye, ennek hiányában fióktelepe, telephelye van. Ha a gazdálkodó szervezet nem rendelkezik magyarországi székhellyel, fiókteleppel vagy telephellyel, akkor a támogatási igény elbírálására vonatkozó eljárás lefolytatására az állami foglalkoztatási szervként eljáró Budapest Főváros Kormányhivatala az illetékes.
 
-(3) Az állami foglalkoztatási szerv a támogatásról a kérelem benyújtását követő 10 napon belül dönt.
+(3) A bérgarancia eljárásban az ügyintézési határidő 10 nap.
 
 (4) Az állami foglalkoztatási szerv által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
 
@@ -95,17 +95,17 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 5. § (1) A támogatás kamatmentes.
 
-(2) A támogatás nyújtása esetén az állami foglalkoztatási szerv a kérelem átvételétől számított 15 napon belül intézkedik a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből
+(2) A támogatás megállapítása esetén az állami foglalkoztatási szerv a döntés meghozatalától számított 5 napon belül intézkedik a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből
 
 - a) a 7. § (1) és (2) bekezdése szerint meghatározott bértartozás – a munkavállalót terhelő közterhekkel csökkentett – összegének a munkavállaló részére történő kifizetéséről,
-- b) a munkavállalót terhelő közterheknek az állami adóhatóság – a felszámolás alatt álló gazdálkodó szervezet nevében a gazdálkodó szervezet adóazonosító jelének feltüntetésével – részére történő megfizetéséről, valamint
+- b) a munkavállalót terhelő közterheknek az állami adó- és vámhatóság – a felszámolás alatt álló gazdálkodó szervezet nevében a gazdálkodó szervezet adószámának feltüntetésével – részére történő megfizetéséről, valamint
 - c) a munkabért – határozat vagy jogszabály alapján – terhelő levonás teljesítéséről és a jogosult részére történő kifizetéséről.
 
 (2a) A (2) bekezdéstől eltérően, ha a munkavállaló a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 56/A. § (3) bekezdése alapján a biztosításával összefüggő bejelentési, járulékfizetési és bevallási kötelezettséget maga teljesíti, úgy az állami foglalkoztatási szerv a (2) bekezdés a) és b) pontjában meghatározott összeget a munkavállaló részére fizeti ki. Ebben az esetben a munkavállaló köteles a járulékfizetési és bevallási kötelezettség teljesítését a támogatás kifizetését követő 30 napon belül az állami foglalkoztatási szervnek igazolni.
 
 (3) Az állami foglalkoztatási szerv a (2) és (2a) bekezdésben foglaltak teljesítéséről 5 munkanapon belül tájékoztatja a felszámolót. Az állami foglalkoztatási szerv tájékoztatása alapján a felszámoló a tájékoztatás kézhezvételét követő 10 napon belül írásban tájékoztatja a munkavállalókat az őket érintő kifizetésekről.
 
-6. § (1) Az 5. §-ban foglaltak nem érintik a felszámolás alatt álló gazdálkodó szervezetnek mint foglalkoztatónak, illetve a felszámolónak a társadalombiztosításról, valamint az adózás rendjéről szóló jogszabályban meghatározott, a társadalombiztosítási szervvel, az adóhatósággal szemben fennálló kötelezettségeit – így különösen a munkavállalót megillető munkabérrel és annak közterheivel összefüggő bevallási és adatszolgáltatási kötelezettségeket –, valamint a foglalkoztatottal szemben fennálló kötelezettségeit, és az annak elmulasztásából eredő felelősségét.
+6. § (1) Az 5. §-ban foglaltak nem érintik a felszámolás alatt álló gazdálkodó szervezetnek mint foglalkoztatónak, illetve a felszámolónak a társadalombiztosításról, valamint az adózás rendjéről szóló jogszabályban meghatározott, a társadalombiztosítási szervvel, az állami adó- és vámhatósággal szemben fennálló kötelezettségeit – így különösen a munkavállalót megillető munkabérrel és annak közterheivel összefüggő bevallási és adatszolgáltatási kötelezettségeket –, valamint a foglalkoztatottal szemben fennálló kötelezettségeit, és az annak elmulasztásából eredő felelősségét.
 
 (2) A felszámoló köteles az állami foglalkoztatási szerv részére az 5. § (2) és (2a) bekezdésében meghatározott átutalás teljesítéséhez szükséges adatokat az 1. és 2. mellékletben foglaltak szerint rendelkezésre bocsátani. Az átutalás elmulasztásáért, késedelmes vagy nem megfelelő teljesítéséért a munkavállalóval szemben a felszámolót terheli felelősség, ha annak oka a felszámoló mulasztása vagy nem a jogszabálynak megfelelő adatszolgáltatása.
 
@@ -120,15 +120,15 @@ az e törvény által meghatározott összeg előlegezhető meg.
 
 (4) Azon munkavállalókkal szembeni bértartozást, akiknek a munkaviszonya az Mt. 63. § (1) bekezdés b) pontja alapján a munkáltató jogutód nélküli megszűnése miatt szűnik meg, továbbá azt a bértartozást, amely a gazdálkodó szervezet jogutód nélküli megszűnésének időpontjában válik esedékessé, a felszámoló köteles rendelkezésre álló fedezet hiányában – a munkavállaló külön igénybejelentése nélkül – a felszámolási zárómérleg elkészítését megelőzően a Nemzeti Foglalkoztatási Alap bérgarancia alaprészéből megigényelni. A bértartozás kifizetésére az 5. §-ban foglaltakat megfelelően alkalmazni kell.
 
-8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem időpontjában hatályos jegybanki alapkamat kétszeresével növelt összegben kell visszafizetni. Ilyennek kell tekinteni, ha az állami foglalkoztatási szerv az 5. § (2) bekezdésében meghatározott kifizetést – a felszámoló valóságnak nem megfelelő adatszolgáltatása miatt – olyan munkavállaló részére is teljesíti, akinek nem állt fenn bértartozása vagy a munkavállaló fennálló bértartozásánál nagyobb mértékű támogatási összeg került kifizetésre.
+8. § (1) A jogosulatlanul igénybe vett vagy nem jogszerűen felhasznált támogatást a támogatás iránti kérelem benyújtásának időpontjában hatályos jegybanki alapkamat kétszeresével növelt összegben kell visszafizetni. Ilyennek kell tekinteni, ha az állami foglalkoztatási szerv az 5. § (2) bekezdésében meghatározott kifizetést – a felszámoló valóságnak nem megfelelő adatszolgáltatása miatt – olyan munkavállaló részére is teljesíti, akinek nem állt fenn bértartozása vagy a munkavállaló fennálló bértartozásánál nagyobb mértékű támogatási összeg került kifizetésre.
 
-(1a) Amennyiben a kötelezett a visszafizetési kötelezettségének a visszakövetelő határozatban megállapított határidőig nem tesz eleget, e határidő elmulasztásának napjától az adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresésének napjáig, kiszámított késedelmi kamatot is köteles fizetni. A késedelmi kamat mértékére a költségvetési támogatásokra vonatkozó szabályokat kell alkalmazni. A kötelezett az adó- és vámhatóság végrehajtás foganatosítása érdekében történő megkeresését követően az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szerinti késedelmi pótlékot is köteles megfizetni.
+(1a)
 
 (2) Az (1) bekezdés szerinti visszafizetésből a kamatrész a felszámolót, a támogatás összege a felszámolás alatt álló gazdálkodó szervezet vagyonát terheli.
 
 (3) A Cstv. 51. és 54. §-ában meghatározott, a felszámolóra vonatkozó felelősségi szabályokat a felszámolónak a támogatás igénybevételével kapcsolatos eljárására is alkalmazni kell.
 
-9. § (1) A támogatás visszafizetése a támogatásról szóló határozat véglegessé válását követő 70. napon, illetve, ha a felszámolási zárómérleg benyújtására a 70. napot megelőzően kerül sor, a felszámolási zárómérleg benyújtásának napját megelőző napon válik esedékessé. E rendelkezés alkalmazása szempontjából a felszámolási mérleg benyújtásának napján a zárómérleg postára adásának vagy a bírósághoz történő beadásának napját kell érteni.
+9. § (1) A támogatás visszafizetése a támogatásról szóló határozat véglegessé válását követő napon válik esedékessé.
 
 (2) A támogatás (1) bekezdés szerinti visszafizetése érdekében a külföldi gazdálkodó szervezet, illetve fióktelepe felszámolójával szemben az állami foglalkoztatási szerv köteles fellépni.
 
@@ -215,6 +215,8 @@ az e törvény által meghatározott összeg előlegezhető meg.
 15. § (1) E törvénynek a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény és a Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosításáról szóló 2012. évi CXCVII. törvénnyel (a továbbiakban: 2012. évi CXCVII. törvény) megállapított rendelkezéseit a 2012. évi CXCVII. törvény hatálybalépésekor folyamatban lévő felszámolási eljárás alatt álló kölcsönvevő és iskolaszövetkezet szolgáltatását igénybevevő gazdálkodó szervezet, továbbá a vele szerződéses kapcsolatban álló kölcsönbeadó, illetve iskolaszövetkezet tekintetében is alkalmazni kell, ha a felszámolási eljárásban a Cstv. 52. §-a szerinti zárómérleg elkészítésére a 2012. évi CXCVII. törvény hatálybalépésekor még nem került sor.
 
 (1a) E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 3. §-át, valamint 13. § (3) bekezdését az elektronikus kapcsolattartás tekintetében 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni azzal, hogy fővárosi és megyei kormányhivatal helyett állami foglalkoztatási szervet kell érteni.
+
+(1b) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2018. évi XCIV. törvénnyel (a továbbiakban: 2018. évi XCIV. tv.) megállapított 4. § (3) bekezdését és 5. § (2) bekezdését a 2018. évi XCIV. tv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 (2) A Cstv. 58. §-a a következő (2) bekezdéssel egészül ki, és ezzel egyidejűleg a jelenlegi (2) és (3) bekezdés számozása (3) és (4) bekezdésre módosul:
 

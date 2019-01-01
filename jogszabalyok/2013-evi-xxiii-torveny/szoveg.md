@@ -190,7 +190,7 @@ figyelembevételével kell számítani.
 
 (3) A közgyűlési határozat érvényességéhez az (1)–(2) bekezdésben előírtak mellett a kőolaj- és kőolajtermék-készletezéssel kapcsolatos kérdésben a kőolaj szekciót képviselő, jelenlévő tagok többségi szavazata, a földgázkészletezéssel kapcsolatos kérdésben a földgáz szekciót képviselő, jelenlévő tagok többségi szavazata is szükséges.
 
-23. § A közgyűlés döntésének meghozatala során minden szövetségi tag rendelkezik egy szavazattal. Ez jelenti az összes szavazatok 50%-át. A szavazatok másik fele olyan arányban oszlik meg a két szekció tagjai között, amilyen mértékben az előző naptári évben esedékes nettó tagi hozzájárulást megfizették.
+23. § A közgyűlés döntésének meghozatala során a Szövetség tagjai között összesen 100 szavazat kerül felosztásra, amelyből mindkét szekciót 50-50 szavazat illeti meg. A szavazatok egy szekción belül a tagok között olyan arányban kerülnek felosztásra, amilyen arányban az adott szekción belül a közgyűlés időpontját megelőző második naptári hónaptól visszaszámított 12 naptári hónapban esedékes nettó tagi hozzájárulást megfizették.
 
 #### 5. Az igazgatótanács
 

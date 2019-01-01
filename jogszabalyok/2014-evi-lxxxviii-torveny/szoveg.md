@@ -1341,7 +1341,7 @@ kapcsolatos, a biztosítók és a viszontbiztosítók szavatolótőkéjéről é
 
 (3) A befektetésekkel kapcsolatos döntések során az elvárható legnagyobb körültekintéssel, prudens módon kell eljárni.
 
-(4) A biztosító vagy a viszontbiztosító eszközeinek a befektetésére a 104–107. § rendelkezéseit a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben és a Bizottságnak a Szolvencia 2 irányelv 135. cikk (1) bekezdés a)–b) pontjában és a (2) bekezdés a)–c) pontjában meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt kell alkalmazni.
+(4) A biztosító vagy a viszontbiztosító eszközeinek a befektetésére a 104–107. § rendelkezéseit a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben és a Bizottságnak a Szolvencia 2 irányelv 135. cikk (1) bekezdés a)–b) pontjában és (2) bekezdésében meghatározott tárgykörben kiadott rendeletében megállapított szabályokkal együtt kell alkalmazni.
 
 104. § (1) A biztosító vagy a viszontbiztosító az eszközei összességét olyan eszközökbe és pénzügyi instrumentumokba fekteti be, amelyek kockázatát képes azonosítani, felmérni, figyelemmel kísérni, kezelni, ellenőrizni és jelenteni.
 
@@ -2337,7 +2337,9 @@ szemben.
 
 (3) A biztosító belső nyilvántartást vezet, amely tartalmazza a biztosítási alapú befektetési termékek értékesítésével kapcsolatban a közte és az ügyfél között létrejött megállapodásokat, valamint az átadott termékismertetőket, tájékoztatókat. Ezen dokumentumokban meghatározott jogokat és kötelezettségeket más dokumentumokra vagy jogszabályhelyre történő hivatkozással is meg lehet határozni.
 
-(4) A biztosító tartós adathordozón rendszeresen, de legalább évente tájékoztatja az ügyfeleket az általa nyújtott szolgáltatásokról, az ügyfél nevében végrehajtott ügyletek és szolgáltatások költségeiről, figyelembe véve az érintett biztosítási alapú befektetési termékek típusát és összetettségét, valamint az ügyfélnek nyújtott szolgáltatás jellegét.
+(4) A biztosító tartós adathordozón rendszeresen, de legalább évente tájékoztatja az ügyfeleket – a 156. § (1) bekezdésében foglaltakon túlmenően – az általa nyújtott szolgáltatásokról, továbbá szükség szerint az ügyfél nevében végrehajtott ügyletek és szolgáltatások költségeiről, figyelembe véve az érintett biztosítási alapú befektetési termékek típusát és összetettségét, valamint az ügyfélnek nyújtott szolgáltatás jellegét.
+
+(4a) A biztosítási alapú befektetési termékek közül a befektetési egységhez kötött életbiztosítások esetén – a (4) bekezdésben foglaltakon túlmenően, a 156. § (3) bekezdésben foglaltakkal összhangban – az ügyfélnek többlet-adatszolgáltatás nyújtandó, amelynek formáját és tartalmát a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter rendeletben állapítja meg.
 
 (5) Biztosítási alapú befektetési termékkel kapcsolatos értékesítés esetében a biztosító a szerződés megkötése előtt – a 152. § (1) bekezdése szerinti módon, a 152. § (3a) bekezdésében foglaltak figyelembevételével – tartós adathordozón alkalmasságra vonatkozó nyilatkozatot bocsát az ügyfél rendelkezésére, amelyben részletezi a tanácsadás tartalmát és azt, hogy a tanácsadás milyen módon felel meg az ügyfél igényeinek és szükségleteinek.
 
@@ -4470,6 +4472,14 @@ birtokában végezheti a biztosításközvetítői tevékenységét.
 
 (2) A biztosításközvetítővel munkaviszonyban, megbízási vagy munkavégzésre irányuló egyéb jogviszonyban álló, biztosításközvetítői tevékenységet végző személy biztosításközvetítői tevékenységének végzésére mással további megbízási vagy munkavégzésre irányuló – munkaviszonynak nem minősülő – egyéb jogviszonyt nem létesíthet.
 
+373/A. § (1) A kiegészítő biztosításközvetítői tevékenységet végző személy megbízója csak biztosító, csak alkusz vagy csak többes ügynök lehet.
+
+(2) A kiegészítő biztosításközvetítői tevékenységet végző személy egyidejűleg több megbízó megbízását biztosításértékesítési tevékenység végzésére nem fogadhatja el.
+
+(3) A kiegészítő biztosításközvetítői tevékenységet végző személy megbízója felelős azért, hogy a megbízott értékesítési tevékenységének végzése során is érvényesüljenek a megbízóra vonatkozó, a termékjellemzők tekintetében fennálló tájékoztatási szabályok, továbbá több rendelkezésre álló termék esetén köteles olyan igényfelmérésről gondoskodni, amely a rendelkezésre álló termékek teljes körére alkalmazható.
+
+(4) A kiegészítő biztosításközvetítői tevékenységet végző személy kiegészítő biztosításközvetítői tevékenységének végzésére mással további megbízási vagy munkavégzésre irányuló – munkaviszonynak nem minősülő – egyéb jogviszonyt nem létesíthet.
+
 374. § (1) A felügyeleti nyilvántartásban szereplő természetes személy biztosításközvetítő a biztosításközvetítői tevékenységet a biztosító, a többes ügynök vagy a független biztosításközvetítő által kiállított arcképes igazolvány birtokában folytathatja.
 
 (2) Az igazolványnak tartalmaznia kell a természetes személy
@@ -4545,7 +4555,7 @@ változás következett be, akkor a (2) bekezdés szerinti szakmai képzés, ill
 
 377. § (1) A megtakarítási jellegű életbiztosítási szerződés vonatkozásában a kifizetett jutalék összege nem haladhatja meg a jutalékfizetés időpontjáig a biztosítóhoz beérkezett biztosítási díj összegét.
 
-(2) Az (1) bekezdéstől eltérően rendszeres díjas megtakarítási jellegű életbiztosítási szerződés vonatkozásában jutalék a szerződés létrejöttétől számított első év terhére – legalább a díjelőírásnak megfelelő első díjrészlet biztosítóhoz történő beérkezését követően – legfeljebb tizenhárom havi díjelőírásnak megfelelő összegben fizethető.
+(2) Az (1) bekezdéstől eltérően rendszeres díjas megtakarítási jellegű életbiztosítási szerződés vonatkozásában jutalék a szerződés létrejöttétől számított első év terhére – legalább a díjelőírásnak megfelelő első díjrészlet biztosítóhoz történő beérkezését követően – legfeljebb tizenkét havi díjelőírásnak megfelelő összegben fizethető.
 
 (2a) A szerződés teljes tartamának terhére összességében kifizetett jutalék összege nem haladhatja meg a biztosítóhoz a szerződés teljes tartamára vonatkozóan beérkezett biztosítási díj összegét.
 
@@ -4613,7 +4623,12 @@ köteles az (1) bekezdésben meghatározott módon az ügyfél részére a vált
 - a) arról, hogy főtevékenységéhez kapcsolódóan kiegészítő jelleggel végez biztosításközvetítői tevékenységet, valamint a kiegészítő biztosításközvetítést végző természetes személy nevéről, továbbá azon gazdálkodó szervezet cégnevéről, székhelyéről, amelynek keretében vagy megbízásából a kiegészítő biztosításközvetítést végzi, és a gazdálkodó szervezet felügyeleti hatóságának megjelöléséről,
 - b) a felügyeleti nyilvántartásról, amelyben a gazdálkodó szervezet szerepel, és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
 - c) attól függően, hogy biztosító, alkusz vagy többes ügynök megbízásából jár-e el, a 159. § (1) bekezdésére vagy a 382. § (1) bekezdésére vonatkozó tájékoztatást (az adott biztosító, alkusz vagy többes ügynök nevével és címével együtt), továbbá a tevékenységével kapcsolatos panasz – annak jellege szerint – a Felügyelethez vagy a békéltető testületekhez való előterjesztésének lehetőségét (a székhely, telefonos és internetes elérhetőség, valamint a levelezési cím feltüntetésével), illetve tájékoztatást a bírói út igénybevételének lehetőségéről,
-- d) a biztosítási szerződéssel összefüggésben kapott javadalmazás jellegéről.
+- d) a biztosítási szerződéssel összefüggésben kapott javadalmazás jellegéről,
+- e) arról, hogy kinek a megbízásából és felelősségvállalása mellett jár el,
+- f) a rendelkezésre álló termékválasztékról, valamint arról, hogy ennél szélesebb körben is az ügyfél rendelkezésére állhatnak termékek más biztosítási értékesítési csatornákon keresztül,
+- g) arról, hogy nyújt-e – a rendelkezésre álló keretek közötti – tanácsadást az értékesített biztosítási termékekre vonatkozóan.
+
+(5a) Az (5) bekezdés e)–g) pontja szerinti tájékoztatás írásbelinek nem minősülő módon is megtehető, amennyiben e tájékoztatások megtételét a kiegészítő biztosításközvetítői tevékenységet végző személy, az ügyfél ezt elismerő kifejezett nyilatkozatával ellátva, külön dokumentálja.
 
 (6) A 130/A. §-ban, a 152. § (3)–(3c) és (7) bekezdésében, valamint a 158–158/C. §-ban foglaltak a biztosításközvetítőkre és a kiegészítő biztosításközvetítői tevékenységet végző személyre is megfelelően alkalmazandóak.
 
@@ -5754,6 +5769,8 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 
 452/E. § A 377. § (2) bekezdésének – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – rendelkezéseit a 2018. január 1-jétől megkötött szerződések esetében kell alkalmazni.
 
+452/F. § A 377. § (2) bekezdésének – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – rendelkezéseit a 2019. január 1-jétől megkötött szerződések esetében kell alkalmazni.
+
 452/G. § A 393. § (2) bekezdése és a 406. § (2) bekezdése – az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított – rendelkezései szerinti jelentéstételi kötelezettségeknek a többes ügynököknek és alkuszoknak első alkalommal a 2018-as évre vonatkozóan kell eleget tenniük.
 
 452/H. § (1) Az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvénnyel megállapított 138. § (9) bekezdését és 147/A. §-t az egyes törvények biztosítási, illetve pénzforgalmi tárgyú jogharmonizációjával kapcsolatos módosításáról szóló 2017. évi CXLV. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
@@ -5799,6 +5816,8 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 - 11. a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
+
+453/A. § Ez a törvény az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 197. Módosító és hatályon kívül helyező rendelkezések
 

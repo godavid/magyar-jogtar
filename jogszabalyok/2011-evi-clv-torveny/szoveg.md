@@ -55,7 +55,7 @@ támogatása,
 3. § E törvény alkalmazásában:
 
 - a) gyakorlati képzés: 1. a szakképzésről szóló törvényben meghatározott gyakorlati oktatási tevékenység, 2. a gyakorlatigényes alapképzési szak keretében folytatott gyakorlati képzés részeként szervezett minden olyan oktatási forma, amely a hallgatókat valamely munkakör ellátásához szükséges készségek, képességek és ismeretek megszerzésére készíti fel, és amelyeket a hallgatók az intézményben vagy azon kívül, a munkavégzéshez hasonló feltételek között, a szükséges eszközökön sajátítanak el, azzal, hogy a szükséges eszközök minimumát a szakmai és vizsgakövetelmények, a képzési és kimeneti követelmények tartalmazzák, és a képzés az ehhez szükséges képzési programok alapján folyik, 3. az Nftv.-ben meghatározott duális képzés keretében folytatott gyakorlati képzés;
-- b) szociális hozzájárulási adóalap: Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 455. § (2) bekezdés a)–c) és h) pontjában meghatározott adófizetési kötelezettséget eredményező jogviszony alapján, a (3) bekezdésben foglaltakra is figyelemmel, a 455. § (1) bekezdés a)–b) és e) pontjában meghatározott adóalap, valamint a 457. § (1) bekezdésében meghatározott adóalap. A 457. § (1) bekezdés alkalmazása során e törvény szempontjából figyelmen kívül kell hagyni azon jogi személyt, aki a 2. § (5) bekezdése szerint szakképzési hozzájárulásra nem kötelezett.;
+- b)
 - c) egészségügyi közszolgáltatás: az Eü. tv. 3. § e) pontjában meghatározott, részben vagy egészben az államháztartás terhére támogatott szolgáltató tevékenység;
 - d)
 - e) kis- és középvállalkozás:
@@ -68,19 +68,17 @@ támogatása,
 
 #### 4. A szakképzési hozzájárulás alapjának megállapítása és mértéke
 
-4. § (1) A szakképzési hozzájárulás alapja a hozzájárulásra kötelezettet terhelő szociális hozzájárulási adó alapja.
+4. § (1) A szakképzési hozzájárulás alapja a hozzájárulásra kötelezettet terhelő
 
-(1a) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 100 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya
+- a) a személyi jövedelemadóról szóló törvény rendelkezései szerinti adókötelezettség alá eső, nem önálló tevékenységből származó bevételből az adóelőleg-alap számításánál a személyi jövedelemadóról szóló törvény rendelkezései szerint figyelembe vett jövedelem, növelve a munkavállalói érdekképviseletet ellátó szervezet részére levont (befizetett) tagdíj összegével;
+- b) a személyi jövedelemadóról szóló törvény rendelkezései szerinti adókötelezettség alá eső önálló tevékenységből származó bevételből az adóelőleg-alap számításánál a személyi jövedelemadóról szóló törvény rendelkezései szerint figyelembe vett jövedelem;
+- c) a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási járadék;
+- d) az a)–b) pont hatálya alá tartozó juttatás hiányában a munkaszerződésben meghatározott alapbér vagy – ha a munkát munkavégzésre irányuló egyéb jogviszonyban végzik – a szerződésben meghatározott díjazás; külföldi kiküldetés esetén e pont alkalmazásában alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér;
+- e) az egyéni vállalkozó és a társas vállalkozás esetében a szociális hozzájárulási adó alapja.
 
-- a) a pályakezdő munkavállalók után az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) 462/B. § (2) bekezdése szerint,
-- b) a tartósan álláskereső személyek után az Eat. 462/C. § (2) bekezdése szerint,
-- c) a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (2) bekezdése szerint,
-- d) a gyermekgondozási díj, a gyermekgondozást segítő ellátás vagy a gyermeknevelési támogatás folyósítása alatt vagy azt követően foglalkoztatott munkavállalók után az Eat. 462/D. § (3) bekezdése szerint, vagy
-- e) a szabad vállalkozási zónában működő vállalkozás által foglalkoztatott új munkavállalók után az Eat. 462/E. § szerint
+(1a) Nem keletkezik szakképzési hozzájárulás fizetési kötelezettség azokban az esetekben, amikor a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) szerint nem keletkezik adófizetési kötelezettség.
 
-a foglalkoztatás első két évében, a d) pont szerinti esetben a foglalkoztatás első három évében igénybe vehető szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén – kivéve a c) és d) pont szerinti esetet – legfeljebb 100 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak minősül az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
-
-(1b) A szakképzési hozzájárulás alapját csökkenti az azon foglalkoztatott természetes személyeknek (munkavállalóknak) a szociális hozzájárulási adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérének összege, de legfeljebb a kedvezménnyel érintett munkavállalónként havonta 500 ezer forint, amely munkavállalók munkaviszonyára tekintettel a tárgyhónapban a szociális hozzájárulási adó alanya az Eat. 462/F. §-ában meghatározott, kutatók foglalkoztatása után járó az Eat. 459. § (1) bekezdésében meghatározott adómérték szerinti szociális hozzájárulási adókedvezményt érvényesít. Részmunkaidős foglalkoztatott esetén legfeljebb 500 ezer forint arányosan csökkentett része vehető figyelembe. E bekezdés alkalmazásában részmunkaidős foglalkoztatásnak az a foglalkoztatás minősül, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+(1b)
 
 (2) A szakképzési hozzájárulás mértéke a szakképzési hozzájárulás alapjának 1,5 százaléka (a továbbiakban: bruttó kötelezettség).
 

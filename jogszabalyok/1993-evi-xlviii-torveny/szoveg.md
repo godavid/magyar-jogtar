@@ -69,7 +69,7 @@ A szénhidrogén tulajdonjoga az a) pontban meghatározott összeg megfizetésé
 (1b) Törvény alapján a magyar állam nevében és javára eljáró építtető részére kiadott, a bányafelügyelet engedélyétől eltérő, más hatósági engedély alapján kitermelt és
 
 - a) a magyar állam nevében és javára eljáró építtető által a magyar állam tulajdonában lévő ingatlanba beépített vagy
-- b) célkitermelőhely rekultiválására felhasznált
+- b) célkitermelőhely vagy bánya rekultiválására felhasznált
 
 ásványi nyersanyag a kitermeléssel nem kerül ki a magyar állam tulajdonából. A kitermelt ásványi nyersanyagnak nem az a) vagy b) pont szerint történő felhasználására, hasznosítására a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal kötött megállapodás alapján a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben szabályozott feltételekkel és módon kerülhet sor.
 
@@ -1644,6 +1644,8 @@ bányahatósági felügyelete
 
 (2) Ha e törvény vagy a végrehajtására kiadott kormányrendelet másként nem rendelkezik, az átmeneti bányászjáradék szüneteltetésére, megszűnésére és fedezetére, a megszűnéssel kapcsolatos jogkövetkezményekre, valamint az átmeneti bányászjáradékban részesülő személyek öregségi nyugdíjára a korhatár előtti ellátásra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy ahol a korhatár előtti ellátásra vonatkozó szabály korhatár előtti ellátást említ, azon átmeneti bányászjáradékot kell érteni.
 
+(3) Különös méltánylást érdemlő körülmények fennállása esetén a nyugdíjbiztosítási igazgatási szerv az átmeneti bányászjáradék folyósításának a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/B. §-a alapján történő szüneteltetése alól kérelemre, méltányosságból mentesítést adhat.
+
 49/D. § A szénjárandóságra jogosult nyugdíjas bányász kérheti szénjárandóságának pénzbeli megváltását.
 
 49/E. § (1) A kormányrendeletben meghatározott bányászati keresetkiegészítés megállapítása és felülvizsgálata iránti elsőfokú eljárásban az ügyintézési határidő negyven nap, ha az eljárásban a kérelmező egészségkárosodásának mértékét és a föld alatti bányamunkára való alkalmatlanságát szakkérdésként vizsgálni kell.
@@ -1743,7 +1745,7 @@ bányahatósági felügyelete
   - k) a bírságok mértékére és kiszabására,
   - l) az új tárolási engedélyes kijelölésére,
   - m) az Európai Bizottság számára megküldendő jelentés előkészítésére és benyújtására,
-- 22. az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének és megszüntetésének eljárására,
+- 22. az átmeneti bányászjáradék megállapításának, folyósításának, szüneteltetésének, szüneteltetés alóli mentesítésének és megszüntetésének eljárására,
 - 23. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljárás, az építési tevékenységek körére, az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára, és a szabálytalan építési tevékenység esetén alkalmazandó bírság mértékére,
 - 24. az ásványi nyersanyag és geotermikus energiavagyon nyilvántartására,
 - 25. a 26/A. § (4) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,

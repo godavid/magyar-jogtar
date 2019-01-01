@@ -56,7 +56,7 @@ a következő törvényt alkotja:
 - 1. alapkutatás: olyan felfedező jellegű kísérleti vagy elméleti munka, amelyet elsősorban jelenségek, tapasztalatok és megfigyelések megértéséhez szükséges új ismeretek megszerzésének érdekében folytatnak anélkül, hogy kilátásba helyeznék azok gyakorlati alkalmazását vagy felhasználását,
 - 2. alkalmazott kutatás: tervezett kutatás vagy célzott vizsgálat, amelynek célja új ismeretek, tudás és szakértelem megszerzése új termékek, eljárások, technológiák vagy szolgáltatások kifejlesztéséhez, vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű továbbfejlesztésének elősegítéséhez,
 - 3. fizetett kutatás-fejlesztés: az egyik fél által végzett és egy finanszírozó fél által finanszírozott kutatás-fejlesztés, ahol a finanszírozó fél maga nem végez kutatás-fejlesztési tevékenységet,
-- 4. hasznosító vállalkozás: költségvetési kutatóhelyen létrejött szellemi alkotás üzleti hasznosítása céljából az állam nevében és képviseletében alapított vagy annak részvételével, részesedésével működő gazdasági társaság,
+- 4. hasznosító vállalkozás: költségvetési kutatóhelyen létrejött szellemi alkotás hasznosítása céljából alapított gazdasági társaság, amely nem pénzbeli hozzájárulásként rendelkezésre bocsátás, átruházás vagy hasznosítási szerződés alapján vált a költségvetési kutatóhelyen létrehozott szellemi alkotáshoz fűződő jogok jogosultjává vagy hasznosítójává.
 - 5. hazai közfinanszírozású támogatás: a közfinanszírozású támogatások összessége az európai uniós források kivételével,
 - 6. innováció: a gazdasági tevékenység hatékonyságának, jövedelmezőségének javítása, a kedvező társadalmi és környezeti hatások elérése érdekében végzett tudományos, műszaki, szervezési, gazdálkodási, kereskedelmi műveletek összessége, amelyek eredményeként új vagy lényegesen módosított termék, eljárás, szolgáltatás jön létre, új vagy lényegesen módosított eljárás, technológia alkalmazására, piaci bevezetésére kerül sor, ideértve azokat a változásokat, amelyek csak adott ágazatban vagy adott szervezetnél minősülnek újdonságnak,
 - 7. kísérleti fejlesztés: a meglévő tudományos, technológiai, üzleti és egyéb vonatkozó ismeretek és szakértelem megszerzése, összesítése, megosztása, alkalmazása és felhasználása új, módosított vagy javított termék, eljárás vagy szolgáltatás terveinek létrehozása vagy megtervezése céljából. Kísérleti fejlesztésnek minősülhetnek:
@@ -84,8 +84,8 @@ a következő törvényt alkotja:
 - 18. nonprofit kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú szervezetté minősített kutatóhely,
 - 19. projekt: meghatározott kutatás-fejlesztési feladat vagy innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján,
 - 19a. projektcsoport: a kérelmező által egy adóévben megvalósított és a kérelemben megjelölt azon projektek vagy projektrészek összessége, amelyeket a minősítés szempontjából egy egységnek kell tekinteni,
-- 20. szellemi tulajdon: a szellemi alkotások és egyes teljesítmények, az árujelzők (védjegyek és földrajzi árujelzők), valamint a nyilvánosságra még nem jutott ismeretek tekintetében a vonatkozó törvények, az Európai Unió közvetlenül alkalmazandó jogi aktusai és nemzetközi egyezmények által biztosított jogi oltalom,
-- 21. szellemi alkotás: az az alkotás, műszaki megoldás, amely alkalmas arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezze, vagy amely jogszabály erejénél fogva szerzői jogi védelem alatt áll, ideértve azt is, amikor a hasznosítási célok, lehetőségek függvényében a megfelelő oltalom megszerzése helyett e megoldás titokban tartása célszerű,
+- 20. szellemi tulajdon: a szellemi alkotásokra és egyes teljesítményekre, az árujelzőkre (védjegyek és földrajzi árujelzők) a szerzői jogi és iparjogvédelmi törvényben, a védett ismeretekre nézve az üzleti titok védelméről szóló törvényben, továbbá az Európai Unió közvetlenül alkalmazandó jogi aktusaiban és nemzetközi egyezmények által biztosított jogi oltalom,
+- 21. szellemi alkotás: az az alkotás, illetve műszaki megoldás, amely alkalmas arra, hogy iparjogvédelmi oltalom (szabadalom, használati mintaoltalom, növényfajta-oltalom, formatervezési mintaoltalom, topográfiaoltalom) tárgyát képezze, vagy amely jogszabály erejénél fogva szerzői jogi védelem alatt áll, ideértve az üzleti titok védelméről szóló törvény által oltalomban részesített védett ismeretet is,
 - 22. vállalkozás: a Kkv. tv. 19. § 5. pontjában meghatározott vállalkozás.
 
 ### II. Fejezet — A KUTATÁS-FEJLESZTÉS ÉS AZ INNOVÁCIÓ KORMÁNYZATI FELADATAI
@@ -259,7 +259,7 @@ rendelkezik.
 
 (2) Mentes a járulék fizetésének kötelezettsége alól:
 
-- a) a Kkv. tv. 3. § (2) és (3) bekezdése szerint mikro- vagy kisvállalkozásnak minősülő gazdasági társaság,
+- a) a Kkv. tv. szerint mikro- vagy kisvállalkozásnak minősülő gazdasági társaság,
 - b) a Magyar Nemzeti Bank,
 - c) a Magyar Nemzeti Vagyonkezelő Zrt.,
 - d) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság,
@@ -430,7 +430,7 @@ rendelkezik.
 
 #### 13. A szellemi alkotásokhoz fűződő jogok védelme, a szellemi alkotások hasznosításának támogatása
 
-30. § A központi költségvetési szervnek minősülő kutatóhelynél keletkező, továbbá az általa ellenérték fejében vagy ingyenesen megszerzett szellemi alkotásokhoz fűződő jogok az államot illetik meg azzal, hogy az állam nevében és képviseletében a tulajdonosi jogokat a központi költségvetési szervnek minősülő költségvetési kutatóhely gyakorolja, amely hasznosító vállalkozás alapítására, továbbá hasznosító vállalkozásban történő részesedésszerzésre a 34. §-ban foglaltak szerint jogosult.
+30. § A költségvetési kutatóhelynek minősülő központi költségvetési szervre jogszabály erejénél fogva átszálló, illetve az általa ellenérték fejében vagy ingyenesen szerzett szellemi alkotásokhoz fűződő jogok, valamint a szellemi alkotás hasznosítására létrejövő, a 34. § szerinti hasznosító vállalkozás részesedése – az állami vagyonról szóló 2007. évi CVI. törvény 2. § (2) bekezdésétől eltérően – az adott, kutatóhelynek minősülő központi költségvetési szervet illetik.
 
 31. § (1) A közfinanszírozású kutatás-fejlesztési támogatással megvalósított projekt kedvezményezettje gondoskodik arról, hogy a projekt keretében létrejött szellemi alkotással kapcsolatos, a jogszabály adta keretek közötti lehető legteljesebb jogosultságok a kedvezményezettre szálljanak át oly módon, hogy ez lehetővé tegye a projekt eredményének a (2) bekezdéssel összhangban történő átengedését is. Ha a projekt megvalósításában többen működnek közre, úgy köztük az ilyen módon átszállt szellemi alkotással kapcsolatos jogokban való részesedés arányát polgári jogi szerződésben kell rögzíteni.
 
@@ -462,21 +462,11 @@ rendelkezik.
 
 (5) A hasznosító vállalkozásban történő részesedésszerzést, a részesedés megszüntetését vagy mértéke csökkentését – az (1) bekezdés szerinti szabályzattal összhangban – a költségvetési kutatóhely vezetője, közalapítvány esetében a kezelő szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
 
-34. § (1) A költségvetési kutatóhely – ha rendelkezik szellemitulajdon-kezelési szabályzattal – a szellemi alkotást nem pénzbeli hozzájárulásként hasznosító vállalkozás tulajdonába adhatja. A hasznosító vállalkozás alapítása, illetve a hasznosító vállalkozásban történő részesedésszerzés során az államot a költségvetési kutatóhely képviseli és a hasznosító vállalkozásnak az állam tulajdonában álló társasági részesedései felett a tulajdonosi jogokat és kötelezettségeket a költségvetési kutatóhely gyakorolja.
+34. § (1) A költségvetési kutatóhely a szellemi alkotást a szellemitulajdon-kezelési szabályzatában foglaltak szerint hasznosíthatja vagy értékesítheti.
 
-(2) Hasznosító vállalkozás – ha határozott időre alapítják – három évnél rövidebb időre nem hozható létre. Nem létesíthető tagsági jogviszony, illetve nem szerezhető részesedés olyan határozott időre létrejött vállalkozásban, amelynek a létesítő okiratában meghatározott megszűnési időpontig a tervezett belépéstől, illetve részesedésszerzéstől számított három évnél kevesebb van hátra.
+(2) Költségvetési kutatóhely által alapított vagy részesedésével működő hasznosító vállalkozásra a nemzeti felsőoktatásról szóló törvény szerinti intézményi társaságra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(3) Az állam felelőssége nem haladhatja meg vagyoni hozzájárulásának mértékét, az osztalékból való részesedése pedig nem lehet annál kisebb arányú. A hasznosító vállalkozás létesítő okirata nem írhat elő pótbefizetési kötelezettséget az állam terhére.
-
-(4) Hasznosító vállalkozásba pénzbeli hozzájárulás akkor teljesíthető, ha az egy naptári évben összesen teljesített pénzbeli hozzájárulások összege nem haladja meg a költségvetési kutatóhely előző évi költségvetési beszámolójában kimutatott vállalkozási tevékenység eredményének ötven százalékát. Ez a korlátozás nem vonatkozik a 35. § szerinti támogatásra.
-
-(5) A hasznosító vállalkozásban fennálló tagsági viszony, illetve részesedés csak az azt megtestesítő vagyoni jogok értékének könyvvizsgáló általi megállapítását követően, és legalább a megállapított értéken történő visszterhes átruházással szüntethető meg vagy csökkenthető.
-
-(6) A költségvetési kutatóhely évente jelentést készít az irányítószerve részére arról, hogy a hasznosító vállalkozásban hogyan valósultak meg a hasznosítási célok.
-
-(7) A (3) és (4) bekezdést alkalmazni kell a hasznosító vállalkozás általi további, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet alapítása, illetve gazdálkodó szervezetben történő részesedésszerzés esetén is, továbbá mindazon esetekben, amikor a hasznosító vállalkozás közvetett részesedésével működő gazdálkodó szervezet alapít gazdálkodó szervezetet vagy szerez gazdálkodó szervezetben részesedést.
-
-(8) Hasznosító vállalkozás az (1) bekezdés szerinti szellemi alkotást más vállalkozásba nem apportálhatja.
+(3) A költségvetési kutatóhely évente jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok.
 
 35. § (1) Költségvetési kutatóhely és nonprofit kutatóhely részére szellemi alkotás hasznosító vállalkozásban való hasznosítása céljából tagsági jogviszony létesítéséhez vagy részesedés szerzéséhez pályázati úton hazai közfinanszírozású támogatás nyújtható.
 
@@ -612,7 +602,7 @@ használható fel.
 - d) a harmadik országbeli kutatókat fogadó kutatószervezetek akkreditációját, valamint a kutatási megállapodásra vonatkozó követelményeket,
 - e) az egyes tevékenységek kutatás-fejlesztési szempontú minősítése iránti eljárás részletes szabályait.
 
-(2) Felhatalmazást kap az SZTNH felügyeletét ellátó miniszter, hogy – az adópolitikáért felelős miniszterrel és az NKFI Hivatal elnökével egyetértésben, az SZTNH elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
+(2) Felhatalmazást kap az SZTNH felügyeletét ellátó miniszter, hogy – az adópolitikáért felelős miniszter egyetértésével és az SZTNH elnöke véleményének kikérésével – rendeletben állapítsa meg a kutatás-fejlesztési tevékenység minősítése iránti eljárásban fizetendő igazgatási szolgáltatási díjak mértékét, valamint az igazgatási szolgáltatási díjak kezelésére, felhasználására, nyilvántartására, visszafizetésére, továbbá a megfizetésük módjára vonatkozó részletes szabályokat.
 
 #### 15. Hatályba léptető rendelkezések
 
@@ -637,6 +627,8 @@ használható fel.
 47. § (1) A 23. § szerinti informatikai nyilvántartási rendszer létrehozásának vagy ilyen rendszerhez történő csatlakozásnak határideje 2018. december 31.
 
 (2) A költségvetési kutatóhely által alapított vagy részesedésével működő hasznosító vállalkozásra vonatkozó, a 30. §-ban és a 33–35. §-ban foglalt feltételeket a törvény hatálybalépésének időpontjában bejegyzett gazdasági társaságok esetén 2015. december 31-ig kell teljesíteni.
+
+(3) E törvénynek az egyes kutatás-fejlesztéssel, valamint szakképzéssel összefüggő törvények módosításáról szóló 2018. évi CIV. törvénnyel (a továbbiakban Módtv.) megállapított 30. §-át a Módtv. hatálybalépése előtt a költségvetési kutatóhelynek minősülő központi költségvetési szervnél létrehozott, továbbá a rá jogszabály erejénél fogva átszálló, illetve általa ellenérték fejében vagy ingyenesen szerzett szellemi alkotáshoz fűződő jogokra, valamint a hasznosító vállalkozásban szerzett részesedésre is alkalmazni kell.
 
 #### 17. Módosító rendelkezések
 

@@ -649,6 +649,14 @@ kapcsolatosak,
 
 27/B. § Az igazságügyért felelős miniszter a jogi szakvizsgára történő jelentkezés céljára informatikai felületet üzemeltet, amelyben a 27/A. §-ban meghatározott személyes adatokat a nyilvántartásba vételtől számított 8 évig kezeli.
 
+#### 13/B. Igazságügyi Akkreditációs Testület
+
+27/C. § (1) Az Igazságügyi Akkreditációs Testület az igazságügyért felelős miniszter képzésekkel kapcsolatos tanácsadó szerve.
+
+(2) Az Igazságügyi Akkreditációs Testület tagjait az igazságügyért felelős miniszter 5 évre nevezi ki.
+
+27/D. § A jogi szakvizsga szervezésével és lebonyolításával összefüggő részletes szabályokat az igazságügyért felelős miniszter rendeltben állapítja meg.
+
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 14. Felhatalmazó rendelkezések

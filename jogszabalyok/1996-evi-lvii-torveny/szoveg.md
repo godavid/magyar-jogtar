@@ -464,7 +464,7 @@ kell figyelembe venni.
 
 (2) A Gazdasági Versenyhivatal elnökét, elnökhelyettesét, főtitkárát és a Versenytanács tagját minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
 
-(3) Ha a Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja e megbízatását három évig betöltötte, a megbízatás megszűnése esetén – kivéve, ha a megbízatás a 38. § (1) bekezdés d) vagy e) pontjában meghatározott okból vagy a 38. § (5) bekezdés a) pontjában meghatározott felmentési okból történő felmentés miatt szűnik meg – további három hónapon keresztül a havi illetményével megegyező összegű juttatásra jogosult, amely szociális hozzájárulási adó, egészségügyi hozzájárulás, valamint egészségbiztosítási, munkaerő-piaci és nyugdíjjárulék alapjául szolgáló jövedelem.
+(3) Ha a Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja e megbízatását három évig betöltötte, a megbízatás megszűnése esetén – kivéve, ha a megbízatás a 38. § (1) bekezdés d) vagy e) pontjában meghatározott okból vagy a 38. § (5) bekezdés a) pontjában meghatározott felmentési okból történő felmentés miatt szűnik meg – további három hónapon keresztül a havi illetményével megegyező összegű juttatásra jogosult, amely szociális hozzájárulási adó, valamint egészségbiztosítási, munkaerő-piaci és nyugdíjjárulék alapjául szolgáló jövedelem.
 
 (4) Ha a megbízatás megszűnésére a megbízatás kezdetétől számított három év eltelte után kerül sor, a (3) bekezdésben meghatározott juttatás minden további, e megbízatásban eltöltött év után további egy havi illetménnyel emelkedik, de összesen nem lehet több tizenkét havi illetménynél.
 

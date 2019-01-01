@@ -35,7 +35,7 @@ Az Országgyűlés a Magyarország függetlenségének és törvényes rendjéne
 - g) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, valamint objektumai műveleti védelmének feladatait, illetve elvégzi személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
 - h) végzi a minősített adatok védelmére használt rejtjelző eljárások, algoritmusok, valamint az országhatáron kívül rejtjelzésre használt eszközök kriptográfiai bevizsgálását és minősítését, továbbá rejtjelkulcsot állít elő;
 - i) saját állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat, továbbá a kifogástalan életvitel ellenőrzését;
-- j) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést.
+- j) elvégezheti a saját minősített beszerzései tekintetében a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti kiegészítő ellenőrzést.
 
 5. § Az Alkotmányvédelmi Hivatal
 
@@ -59,7 +59,7 @@ bűncselekmények felderítését;
 - k) közreműködik a nemzetközileg ellenőrzött termékek és technológiák jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
 - l) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében.
 - m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését.
-- n) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést,
+- n) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést,
 - o) végzi az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyakibocsátás engedélyezését kérők ellenőrzését és az ezzel kapcsolatos feladatokat;
 - p) felderíti és elhárítja a Magyarország nemzetbiztonságát veszélyeztető, a g) pont szerinti kérelmekhez kapcsolódó, Magyarországra jogellenesen belépő, itt tartózkodó, illetve ezt elősegítő, és ilyen módon az ország nemzetbiztonságát veszélyeztető személyek, csoportok leplezett tevékenységét;
 
@@ -93,7 +93,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 - o) ellátja a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség szervezeteiben folytatott hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő nemzetbiztonsági feladatokat;
 - p) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését;
-- q) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést.
+- q) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést.
 - r) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének, illetve nemzetbiztonsági ellenőrzésének feladatait;
 - s) a hatáskörébe tartozó állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat.
 
@@ -111,9 +111,10 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - d) ellátja a biztonsági okmányok védelmével összefüggő hatósági felügyeletet,
 - e) szakértői, illetve – külön jogszabály rendelkezései szerint – igazságügyi szakértői tevékenységet végez,
 - f) ellátja az objektumai műveleti védelmének és személyi állománya, valamint a hatáskörébe tartozó más személyek nemzetbiztonsági ellenőrzésének feladatait.
-- g) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést,
+- g) elvégezheti a saját minősített beszerzései tekintetében a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti kiegészítő ellenőrzést,
 - h) a titkos információgyűjtés folytatására, valamint a leplezett eszközök alkalmazására feljogosított szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez,
-- i) jogszabály rendelkezései szerint ellátja az állami és önkormányzati szervek elektronikus információbiztonságával kapcsolatos információbiztonsági feladatokat.
+- i) jogszabály rendelkezései szerint ellátja az elektronikus információbiztonsággal kapcsolatos feladatokat,
+- j) jogszabály rendelkezései szerint ellátja a minősített adat védelmével kapcsolatos hatósági feladatokat, valamint a telephelyi iparbiztonsági hatósági feladatokat.
 
 (2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 
@@ -153,7 +154,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - e) elemzések készítésével információs támogatást nyújt a Kormány, a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport számára;
 - f) országos jelentőségű, több szervet érintő, valamint a Kormány, a Kormány nemzetbiztonsági döntéseit előkészítő szervezet, valamint annak munkáját segítő munkacsoport által meghatározott ügyekben elemző-értékelő és koordinációs tevékenységet lát el;
 - g) Magyarország nemzetbiztonsági, terrorfenyegetettségi és bűnügyi helyzetével, ezek meghatározott elemeivel, konkrét kockázatokkal vagy bűncselekményekkel kapcsolatos tájékoztató jelentéseket, háttér- és kockázatelemzéseket készít az együttműködő szervek részére a hatáskörükbe tartozó feladatok törvényes, szakszerű és eredményes ellátásának elősegítése céljából;
-- h) feltárja az együttműködő szervek által folytatott párhuzamos adatkezeléseket, különösen a több együttműködő szerv által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott titkos információgyűjtéseket, illetve az ugyanazon bűncselekmény miatt párhuzamosan folytatott nyomozásokat és ezekről tájékoztatja az érintett együttműködő szerveket;
+- h) feltárja az együttműködő szervek által folytatott párhuzamos adatkezeléseket, különösen a több együttműködő szerv által ugyanazon bűncselekmény, személy vagy egyéb tárgykör vonatkozásában párhuzamosan folytatott titkos információgyűjtéseket, alkalmazott leplezett eszközöket, illetve az ugyanazon bűncselekmény miatt párhuzamosan folytatott nyomozásokat és előkészítő eljárásokat és ezekről tájékoztatja az érintett együttműködő szerveket;
 - i) abban az esetben, ha
   - ia) bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, az 52/E. § (2) bekezdésében foglaltak figyelembevételével feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy ügyészségnél, és átadja az általa összegyűjtött adatokat, szükség esetén javaslatot tehet leplezett eszközök alkalmazására;
   - ib) olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye, az 52/E. § (2) bekezdésében foglaltak figyelembevételével előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, nyomozó hatóságnál, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervénél vagy a rendőrség terrorizmust elhárító szervénél, és átadhatja az általa összegyűjtött adatokat, szükség esetén javaslatot tehet leplezett eszközök alkalmazására;
@@ -482,7 +483,7 @@ terheli.
 
 ### A nemzetbiztonsági szolgálatok által alkalmazható intézkedések
 
-31. § (1) A nemzetbiztonsági szolgálatok nyomozóhatósági jogkört nem gyakorolhatnak.
+31. § (1) A nemzetbiztonsági szolgálatok nyomozást és előkészítő eljárást nem folytathatnak.
 
 (2) A nemzetbiztonsági szolgálatok hivatásos állományú tagja a 32–36. §-ban meghatározott intézkedéseket a nemzetbiztonsági szolgálatok feladatkörébe tartozó bűncselekmények megelőzése, illetve az ilyen bűncselekmények elkövetőjének elfogása érdekében alkalmazhatja.
 
@@ -541,7 +542,7 @@ terheli.
 
 (5) Az elmulasztott határnaptól számított 30 napon belül igazolási kérelmet lehet előterjeszteni.
 
-(6) A miniszter határozatának felülvizsgálatát az érintett a polgári perrendtartásnak a közigazgatási határozatok felülvizsgálatára vonatkozó XX. fejezetének szabályai szerint kérheti. Az eljárásra kizárólag a Fővárosi Közigazgatási és Munkaügyi Bíróság illetékes. A bíróság a megtámadott törvénysértő határozatot megsemmisíti.
+(6) A miniszter határozata elleni perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes. A bíróság a határozatot nem változtathatja meg.
 
 ### A nemzetbiztonsági szolgálatok adatkezelése
 
@@ -820,7 +821,9 @@ szerzi be.
 
 (9a)
 
-(10)–(11)
+(10) A Terrorelhárítási és Információs Bűnügyi Elemző Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND személyi körözések, valamint elveszett, eltulajdonított úti okmányok hálózati adatbázis által elérhető nyilvántartásaiban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
+
+(11)
 
 (12)
 
@@ -999,6 +1002,8 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 
 62. § A nemzetbiztonsági szolgálattal együttműködő természetes és jogi személyek, valamint a jogi személyiséggel nem rendelkező szervezetek e tevékenységükkel kapcsolatban a miniszter vagy a főigazgató engedélye nélkül adatokat nem hozhatnak nyilvánosságra.
 
+62/A. § Az e törvény hatálya alá nem tartozó titkos információgyűjtés folytatására vagy leplezett eszközök alkalmazására feljogosított szerv az információs rendszer titkos megfigyelése eszköz alkalmazását kizárólag a Nemzetbiztonsági Szakszolgálat által nyújtott szolgáltatás igénybevételével hajtja végre.
+
 ### A titkosszolgálati tevékenységgel kapcsolatos sajátos gazdálkodási szabályok
 
 63. § (1) A nemzetbiztonsági szolgálatok költségvetésükben az alaptevékenységgel összefüggő speciális működési kiadásaik fedezésére elkülönített előirányzatot szerepeltethetnek. A speciális működési kiadásokat összevontan – az általános számviteli szabályoktól eltérően – egy összegben kell szerepeltetni.
@@ -1119,6 +1124,8 @@ azt jóváhagyta.
 
 71/B. § (1) A nemzetbiztonsági ellenőrzést az eljáró nemzetbiztonsági szolgálat főigazgatója a kezdeményezés kézhezvételét követő 8 napon belül rendeli el. A nemzetbiztonsági ellenőrzést az elrendeléstől számított 60 napon belül kell lefolytatni, mely határidő egy esetben 30 nappal meghosszabbítható.
 
+(1a) Ha a nemzetbiztonsági ellenőrzés elrendelését követően, a nemzetbiztonsági ellenőrzés befejezését megelőzően ugyanarra a személyre vonatkozóan más kezdeményező is kezdeményezi a nemzetbiztonsági ellenőrzés lefolytatását, akkor a későbbi kezdeményezés vonatkozásában a főigazgató az újabb elrendelést mellőzi. Az elrendelés mellőzéséről, valamint a korábban a kezdeményező részére megküldött írásbeli értesítések tartalmáról a nemzetbiztonsági szolgálat főigazgatója az újabb kezdeményezőt írásban értesíti. A már megkezdett nemzetbiztonsági ellenőrzésben ezt követően a későbbi kezdeményező is a kezdeményező jogkörében vesz részt, ennek tényéről a nemzetbiztonsági szolgálat főigazgatója mindkét kezdeményezőt írásban értesíti.
+
 (2) A nemzetbiztonsági ellenőrzés határidejének meghosszabbításáról az eljáró nemzetbiztonsági szolgálat főigazgatója határoz, arról a kezdeményezőt, valamint a kezdeményező útján a nemzetbiztonsági ellenőrzés alá vont személyt 8 napon belül írásban értesíti.
 
 (3) A nemzetbiztonsági ellenőrzés során a kockázati tényezők vizsgálatának és értékelésének arányosnak kell lennie a nemzetbiztonsági ellenőrzés alapjául szolgáló munkakörhöz kapcsolódó, a minősített adat védelméhez fűződő és más biztonsági követelményekkel.
@@ -1191,20 +1198,26 @@ azt jóváhagyta.
 - b) az érvényes és kockázatmentes biztonsági szakvéleménnyel rendelkező személyt nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyba jelölik,
 - c) a 71/D. § alapján a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy ezt kéri,
 - d) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személy a nemzetbiztonsági ellenőrzéssel kapcsolatos változás-bejelentési kötelezettsége teljesítését elmulasztotta vagy a bejelentett változás jellege ezt indokolja,
-- e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult nemzetbiztonsági kockázatra utaló körülményről, az alábbiakról szerez tudomást:
+- e) a nemzetbiztonsági ellenőrzés alapjául szolgáló jogviszonyban álló személlyel kapcsolatban a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult az alábbiakról szerez tudomást:
   - ea) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója ellen indult büntetőeljárás vagy elzárással büntethető szabálysértés miatt indult szabálysértési eljárás,
   - eb) az ellenőrzött személynek vagy a Polgári Törvénykönyv szerinti közeli hozzátartozójának a külföldi személyekkel, szervezetekkel, külföldi érdekeltségeivel kapcsolatos körülményeiben bekövetkezett lényeges változás,
   - ec) idegen állampolgárság, külföldi útlevél megszerzése,
   - ed) kábítószer-fogyasztás, alkoholfüggőség, alkoholfogyasztással összefüggő magatartászavarok,
   - ee) az igazolható jövedelemhez képest jelentős mértékű eladósodottság, pénzügyi kötelezettségek teljesítésének jelentős mértékű elmulasztása, jelentős mértékű, ismeretlen eredetű vagyongyarapodás, az igazolható jövedelemből nem fedezhető életvitel,
-  - ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek használatára vonatkozó szabályok, a munkakör betöltésével kapcsolatos biztonsági előírások megsértése.
+  - ef) a minősített adatok kezelésére, a biztonságtechnológiai rendszerek használatára vonatkozó szabályok, a munkakör betöltésével kapcsolatos biztonsági előírások megsértése,
+  - eg) az ellenőrzött személy vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója szervezett bűnözői körökkel, ellenérdekelt titkosszolgálathoz kötődő személlyel való kapcsolattartása,
+  - eh) az ellenőrzött életvitelében, körülményeiben bekövetkező olyan változás, amely alkalmas az ellenőrzött befolyásolására, zsarolhatóságára,
+  - ei) az ellenőrzött hivatali helyzetével való visszaélése,
+  - ej) az ellenőrzött szélsőséges politikai vagy vallási jellegű szervezetekkel, csoportokkal való kapcsolattartása, ilyen szervezetekhez, csoportokhoz való tartozása, illetve ezek anyagi jellegű támogatása.
+
+(2a) Ha a (2) bekezdés e) pontjában meghatározott nemzetbiztonsági kockázatra utaló körülményről a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója szerez tudomást, arról értesítheti a kezdeményezésre jogosultat.
 
 (3) A nemzetbiztonsági ellenőrzés kezdeményezésére jogosult a (2) bekezdés a), b) és e) pontja alapján kezdeményezheti a felülvizsgálati eljárás elrendelését a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatójánál. A (2) bekezdés a) vagy b) pontja alapján kezdeményezett felülvizsgálati eljárás esetén, a kezdeményezést megelőzően a nemzetbiztonsági ellenőrzés alá eső személy a 71/A. § (2) bekezdésben foglaltak szerint biztonsági kérdőívet tölt ki, írásban vagy a 71/A. § (2) bekezdésben meghatározott elektronikus keretprogram használatával.
 
 (4) A nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálat főigazgatója
 
 - a) a kezdeményezésre jogosult kezdeményezése alapján elrendeli,
-- b) a (2) bekezdés a) és b), valamint d) és e) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
+- b) a (2) bekezdés a) és b), valamint d) pontjában foglaltakról való tudomásszerzés esetén elrendelheti a felülvizsgálati eljárást, továbbá
 - c) a (2) bekezdés c) pontja alapján a 71/D. § (2) bekezdésében foglaltak szerint dönt a felülvizsgálati eljárás elrendeléséről.
 
 (5) A (2) bekezdés d) és e) pontja alapján elrendelt felülvizsgálati eljárásról az ellenőrzött személyt kizárólag a felülvizsgálati eljárás befejezését követően kell tájékoztatni.
@@ -1268,11 +1281,11 @@ azt jóváhagyta.
 
 (9) A nemzetbiztonsági ellenőrzés alá eső személy a miniszter döntésével szemben, annak kézhezvételétől számított 15 napon belül panasszal élhet a Bizottságnál.
 
-(10) Ha nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) bekezdése vagy a 72/B. § (8) bekezdése alapján szüntették meg, a megszüntetésről szóló döntés kézhezvételétől számított 15 napon belül a nemzetbiztonsági ellenőrzés alá eső személy kezdeményezheti a Fővárosi Közigazgatási és Munkaügyi Bíróságnál a Bizottság 19/A. § (2) bekezdés a) pontja szerinti panaszt elutasító döntésének felülvizsgálatát.
+(10) Ha a Bizottság a panaszt elutasítja és a nemzetbiztonsági ellenőrzés alá eső személy jogviszonyát a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján a 71. § (4) bekezdése vagy a 72/B. § (8) bekezdése alapján szüntették meg, a nemzetbiztonsági ellenőrzés alá eső személy a Bizottság döntésének kézhezvételétől számított 15 napon belül támadhatja meg a miniszter döntését. A közigazgatási pert a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény ellen benyújtott panaszt elbíráló miniszter ellen kell megindítani. A perre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.
 
-(11) A (10) bekezdés szerinti bírósági felülvizsgálat kezdeményezésének joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
+(11) A (10) bekezdés szerinti közigazgatási per megindításának joga azt a hivatásos szolgálati viszonyban állót is megilleti, akit a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény alapján beosztás alóli felmentésével egyidejűleg rendelkezési állományba helyeztek.
 
-(12) A bíróság e § szerinti eljárására a polgári perrendtartás közigazgatási perekre vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson, soron kívül jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
+(12) A bíróság e § szerinti eljárására a közigazgatási perrendtartás rendelkezéseit kell alkalmazni azzal, hogy a bíróság az ügyben zárt tárgyaláson jár el. A perben csak olyan bíró járhat el, akinek e törvény szerinti nemzetbiztonsági ellenőrzését elvégezték.
 
 (13) A bíróság a nemzetbiztonsági kockázatot megállapító biztonsági szakvélemény kiadásának alapjául szolgáló eljárás jogszerűségét vizsgálja, jogköre nem terjed ki a nemzetbiztonsági kockázat megállapításának szakszerűségére.
 
@@ -1321,6 +1334,7 @@ azt jóváhagyta.
   - it) a Független Rendészeti Panasztestület tagja;
   - iu) az Országgyűlési Őrség személyi állománya;
   - iv) a Nemzeti Emlékezet Bizottsága tagja;
+  - iw) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény (a továbbiakban: Lrtv.) szerinti közigazgatási hatósági eljárásban a hatóságok és a szakhatóságok részéről részt vevő személy, valamint – az Lrtv. szerinti üzemeltető kezdeményezésére – az európai létfontosságú rendszerelemekre vonatkozó, Lrtv. szerinti azonosítási eljárásban az üzemeltető által igénybe vett közreműködő személy;
 - j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
 - k) együttműködő szervek: a 30/A. §-ban meghatározott szervek;
 - l) utasadat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
@@ -1518,6 +1532,14 @@ nemzetbiztonsági ellenőrzés alá eső személyek biztonsági ellenőrzéséhe
 | 15. | állampolgársága (lásd: II. 1–3. pontok): |
 | 16. | foglalkozása, munkaköre: |
 | 17. | munkahelye neve, címe |
+| 17a. | Szüleinek személyi adatai |
+| 17b. | családi és utónév: |
+| 17c. | születési név: |
+| 17d. | születési hely, év, hó, nap: |
+| 17e. | anyja neve: |
+| 17f. | állampolgárság (lásd: II. 1–3. pontok): |
+| 17g. | foglalkozás, munkakör: |
+| 17h. | munkahely neve, címe: |
 | 18. | Az előzőekben fel nem sorolt, Önnel közös háztartásban élő 18 év feletti személyek adatai: |
 | 19. | családi és utóneve: |
 | 20. | születési neve: |
@@ -1573,6 +1595,7 @@ nemzetbiztonsági ellenőrzés alá eső személyek biztonsági ellenőrzéséhe
 | 7. | gépjárművek (típus, rendszám): |
 | 8. | védett műalkotás, védett gyűjtemény (alkotó, cím, nyilvántartási szám): |
 | 9. | egyéb ingóság (megnevezés, a szerzés ideje és jogcíme): |
+| 9a. | Készpénzben tartott megtakarításának összege: |
 | 10. | A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. §-ának 34. pontja szerinti értékpapírban elhelyezett megtakarításának |
 | 11. | megnevezése: |
 | 12. | sorozatszáma: |
@@ -1585,6 +1608,17 @@ nemzetbiztonsági ellenőrzés alá eső személyek biztonsági ellenőrzéséhe
 | 19. | a pénzintézet neve: |
 | 20. | számlaszáma: |
 | 21. | összege. |
+| 21a. | Külföldön bejegyzett pénzintézettel szemben fennálló követelése |
+| 21b. | a pénzintézet neve: |
+| 21c. | számlaszáma: |
+| 21d. | összege: |
+| 21e. | Lakástakarékpénztárnál fennálló megtakarításai |
+| 21f. | a takarékpénztár neve: |
+| 21g. | a megtakarítás összege: |
+| 21h. | Nyugdíjcélú megtakarításai (nyugdíjbiztosítás, nyugdíj-előtakarékossági számla, önkéntes nyugdíjpénztár): |
+| 21i. | a pénzintézet vagy biztosító neve: |
+| 21j. | számlaszáma (ha van): |
+| 21k. | összege: |
 | 22. | Külföldről származó jövedelme |
 | 23. | jövedelem forrása: |
 | 24. | jövedelem nagysága: |
@@ -1646,158 +1680,166 @@ aláírás, cím
 
 Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncselekménynek minősülő bűncselekmények
 
-1. Terrorista bűncselekmények:
+1. 1. Terrorista bűncselekmények:
 
 1.1. a terrorizmus elleni küzdelemről szóló, 2002. június 13-i 2002/475/IB tanácsi kerethatározat 1. cikkében meghatározott terrorista bűncselekmény, 2. cikkében meghatározott terrorista csoporthoz kapcsolódó bűncselekmény, 3. cikkében meghatározott terrorista tevékenységgel összefüggő bűncselekmény vagy 4. cikke szerinti, bűncselekményre való felbujtás, bűnsegély vagy kísérlet,
 
-1.2. terrorcselekmény [Btk. 314. § (1)–(2) bekezdés, 315. § (1)–(2) bekezdés, 316–316/A. §],
+1.2. alkotmányos rend erőszakos megváltoztatása [Btk. 254. § (1) és (2) bekezdése],
 
-1.3. terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §),
+1.3. az alkotmányos rend elleni szervezkedés [Btk. 255. § (1) és (2) bekezdése],
 
-1.4. alkotmányos rend erőszakos megváltoztatása [Btk. 254. § (1)–(2) bekezdés],
+1.4. terrorcselekmény [Btk. 314. § (1) és (2) bekezdése, 315. § (1) és (2) bekezdése, 316. §, 316/A. §],
 
-1.5. az alkotmányos rend elleni szervezkedés [Btk. 255. § (1)–(2) bekezdés],
+1.5. terrorizmus finanszírozása [Btk. 318. § és 318/A. §]
 
-2. Súlyos bűncselekmények:
+1.6. háborús uszítás [Btk. 331. §]
 
-2.1. bűnszervezetben részvétel [Btk. 321. §],
+2. 2. Súlyos bűncselekmények:
 
-2.2. emberkereskedelem [Btk 192. § (1)–(6) bekezdés],
+2.1. emberiesség elleni bűncselekmények [Btk. XIII. Fejezet],
 
-2.3. szexuális visszaélés [Btk. 198. § (1)–(4) bekezdés],
+2.2. háborús bűncselekmények [Btk. XIV. Fejezet],
 
-2.4. kerítés [Btk. 200. § (1)–(6) bekezdés],
+2.3. emberölés [Btk. 160. § (1)–(3) bekezdése, (5) bekezdése],
 
-2.5. prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés],
+2.4. erős felindulásban elkövetett emberölés [Btk. 161. §],
 
-2.6. gyermekprostitúció kihasználása [Btk. 203. §],
+2.5. súlyos testi sértés [Btk. 164. § (3), (6) és (8) bekezdése],
 
-2.7. gyermekpornográfia [Btk. 204. § (1)–(5) bekezdés],
+2.6. emberi test tiltott felhasználása [Btk. 175. § (1)–(3) bekezdése],
 
-2.8. szeméremsértés [Btk. 205. § (2) bekezdés],
+2.7. kábítószer-kereskedelem [Btk. 176. § (1)–(4) bekezdése, (5) bekezdés b) pontja, (6) bekezdése, 177. § (1) bekezdés b) pontja, c) pont cb) alpontja, (2)–(5) bekezdése],
 
-2.9. kábítószer kereskedelem [Btk. 176. § (1)–(4) bekezdés, (5) bekezdés b) pont, (6) bekezdés, 177. § (1) bekezdés b) pont, c) pont cb) alpont, (2), (3), (5) bekezdés],
+2.8. kábítószer-prekurzorral visszaélés [Btk. 183. § (1) bekezdés a) pontja],
 
-2.10. kábítószer-prekurzorral visszaélés [Btk. 183. § (1) bekezdés a) pont],
+2.9. új pszichoaktív anyaggal visszaélés [Btk. 184. § (1)–(3) bekezdése, 184/A. §, (1) bekezdés b) pontja, c) pont cb) alpontja, (2) és (3) bekezdése, 184/B. § (1)–(3) bekezdése, 184/C. § (1)–(3) bekezdése]
 
-2.11. pszichoaktív anyaggal visszaélés [Btk. 184. § (1)–(3) bekezdés, 184/A. §, (1) bekezdés b) pont, c) pont cb) alpont, (2)–(3) bekezdés],
+2.10. teljesítményfokozó szerrel visszaélés [Btk. 185. § (1) bekezdés a) és b) pontja, (2 és (3) bekezdése],
 
-2.12. robbanóanyaggal visszaélés [Btk. 324. § (1) bekezdés a) pont, (2)–(3) bekezdés],
+2.11. gyógyszerhamisítás [Btk. 185/A. § (1)–(6) bekezdése]
 
-2.13. lőfegyverrel visszaélés [Btk. 325. § (1) bekezdés b) pont, (2) bekezdés b) pont, (3) bekezdés, (5) bekezdés],
+2.12. egészségügyi termék hamisítása [Btk. 186. § (1)–(4) bekezdése],
 
-2.14. nemzetközi szerződés által tiltott fegyverrel visszaélés [Btk. 326. § (1) bekezdés c) pont, (5), (6) bekezdés],
+2.13. emberrablás [Btk. 190. § (1)–(5) bekezdése],
 
-2.15. vesztegetés [Btk. 290. § (1)–(4) bekezdés],
+2.14. emberrablás feljelentésének elmulasztása [Btk. 191. §],
 
-2.16. vesztegetés elfogadása [Btk. 291. § (1)–(4) bekezdés],
+2.15. emberkereskedelem [Btk 192. § (1)–(6) bekezdése],
 
-2.17. hivatali vesztegetés [Btk. 293. § (1)–(4) bekezdés],
+2.16. személyi szabadság megsértése [Btk. 194. §],
 
-2.18. hivatali vesztegetés elfogadása [Btk. 294. § (1)–(4) bekezdés],
+2.17. szexuális kényszerítés [Btk. 196. § (1)–(3) bekezdése],
 
-2.19. vesztegetés bírósági vagy hatósági eljárásban [Btk. 295. § (1)–(2) bekezdés],
+2.18. szexuális erőszak [Btk. 197. § (1)–(5) bekezdése],
 
-2.20. vesztegetés elfogadása bírósági vagy hatósági eljárásban [Btk. 296. § (1)–(2) bekezdés],
+2.19. szexuális visszaélés [Btk. 198. § (1)–(4) bekezdése],
 
-2.21. vesztegetés feljelentésének elmulasztása [Btk. 297. § (1) bekezdés],
+2.20. kerítés [Btk. 200. §],
 
-2.22. befolyás vásárlása [Btk. 298. § (1), (3) bekezdés],
+2.21. prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pontja és (2) bekezdése],
 
-2.23. befolyással üzérkedés [Btk. 299. § (1)– (5) bekezdés, 300 §. (2) bekezdés],
+2.22. gyermekprostitúció kihasználása [Btk. 203. §],
 
-2.24. csalás [Btk. 373. § (1) bekezdés, (3)–(6) bekezdés],
+2.23. gyermekpornográfia [Btk. 204. § (1)–(5) bekezdése],
 
-2.25. gazdasági csalás [Btk. 374. § (1) bekezdés, (3)–(6) bekezdés],
+2.24. szeméremsértés [Btk. 205. § (2) bekezdése],
 
-2.26. információs rendszer felhasználásával elkövetett csalás [Btk. 375. §],
+2.25. környezetkárosítás [Btk. 241. § (1) bekezdése, (2) bekezdés III. fordulata],
 
-2.27. költségvetési csalás [Btk. 396. § (2)–(7) bekezdés],
+2.26. természetkárosítás [Btk. 242. § (1) és (2) bekezdése, 243. § (1) és (2) bekezdése],
 
-2.28. pénzmosás [Btk. 399. § (1)–(4) bekezdés, 400. § (2) bekezdés],
+2.27. hulladékgazdálkodás rendjének megsértése [Btk. 248. § (1) és (2) bekezdése],
 
-2.29. pénzhamisítás [Btk. 389.§ (1)–(3) bekezdés],
+2.28. ózonréteget lebontó anyaggal visszaélés [Btk. 249. § (1) bekezdése],
 
-2.30. pénzhamisítás elősegítése [Btk. 390. § (2) bekezdés],
+2.29. radioaktív anyaggal visszaélés [Btk. 250. § (1) bekezdés a) és b) pontja, (2)–(3) bekezdése],
 
-2.31. tiltott adatszerzés [Btk. 422. § (1) bekezdés d) pont, (4) bekezdés],
+2.30. lázadás [Btk. 256. § (1)–(3) bekezdése],
 
-2.32. információs rendszer vagy adat megsértése [Btk. 423. § (2)–(3) bekezdés],
+2.31. rombolás [Btk. 257. §],
 
-2.33. környezetkárosítás [Btk. 241. § (1) bekezdés, (2) bekezdés III. fordulat],
+2.32. kémkedés [Btk. 261. § (1)–(3) bekezdése],
 
-2.34. természetkárosítás [Btk. 242. § (1)–(2) bekezdés, 243. § (1)–(2) bekezdés],
+2.33. kémkedés az Európai Unió intézményei ellen [Btk. 261/A. §],
 
-2.35. hulladékgazdálkodás rendjének megsértése [Btk. 248. § (1)–(2) bekezdés],
+2.34. a szövetséges fegyveres erő ellen elkövetett kémkedés [Btk. 262. §]
 
-2.36. ózonréteget lebontó anyaggal visszaélés [Btk. 249. § (1) bekezdés],
+2.35. vesztegetés [Btk. 290. § (1)–(4) bekezdése],
 
-2.37. embercsempészés [Btk. 353. § (1)–(3) bekezdés],
+2.36. vesztegetés elfogadása [Btk. 291. § (1)–(4) bekezdése],
 
-2.38. emberölés [Btk.160. § (1)–(3) bekezdés, (5) bekezdés],
+2.37. hivatali vesztegetés [Btk. 293. § (1)–(4) bekezdése],
 
-2.39. erős felindulásban elkövetett emberölés [Btk. 161.§],
+2.38. hivatali vesztegetés elfogadása [Btk. 294. § (1)–(4) bekezdése],
 
-2.40. súlyos testi sértés [Btk. 164. § (3), (6), (8) bekezdés],
+2.39. vesztegetés bírósági vagy hatósági eljárásban [Btk. 295. § (1) és (2) bekezdése],
 
-2.41. emberi test tiltott felhasználása [Btk. 175. § (1)–(3) bekezdés],
+2.40. vesztegetés elfogadása bírósági vagy hatósági eljárásban [Btk. 296. § (1) és (2) bekezdése],
 
-2.42. emberrablás [Btk. 190. § (1)–(5) bekezdés],
+2.41. befolyás vásárlása [Btk. 298. § (1) és (1a) bekezdése, (3) bekezdése],
 
-2.43. emberrablás feljelentésének elmulasztása [Btk. 191. §],
+2.42. befolyással üzérkedés [Btk. 299. § (1) és (2) bekezdése, (4) és (5) bekezdése],
 
-2.44. személyi szabadság megsértése [Btk. 194. §, Btk. 192. § (3) bekezdés a) pont, (4) bekezdés b) pont],
+2.43. korrupciós bűncselekmény feljelentésének elmulasztása [Btk. 300. § (1) bekezdése],
 
-2.45. rablás [Btk. 365. § (3) bekezdés a)–d) pont, (4) bekezdés b, c) pont],
+2.44. jármű hatalomba kerítése [Btk. 320. § (1)–(3) bekezdése],
 
-2.46. védett kulturális javakkal visszaélés [Btk. 358. § (1) bekezdés a), c) pont],
+2.45. bűnszervezetben részvétel [Btk. 321. § (1) bekezdése],
 
-2.47. sikkasztás [Btk. 372. § (3) bekezdés c) pont],
+2.46. közérdekű üzem működésének megzavarása [Btk. 323. § (1)–(3) bekezdése, (5) bekezdése],
 
-2.48. egészségügyi termék hamisítása [Btk. 186. § (1)–(4) bekezdés],
+2.47. robbanóanyaggal vagy robbantószerrel visszaélés [Btk. 324. § (1) bekezdése, (2) és (3) bekezdése],
 
-2.49. rossz minőségű termék forgalomba hozatala [Btk. 415. § (1)–(2) bekezdés],
+2.48. lőfegyverrel vagy lőszerrel visszaélés [Btk. 325. § (1) bekezdés b) és c) pontja, (2) bekezdés b) és c) pontja, (3) bekezdése, (5) bekezdése],
 
-2.50. megfelelőség hamis tanúsítása [Btk. 416. § (1)–(2) bekezdés],
+2.49. nemzetközi szerződés által tiltott fegyverrel visszaélés [Btk. 326. § (1)–(6) bekezdése],
 
-2.51. A szellemi tulajdonjog elleni bűncselekmények, amelyek büntetési tételének felső határa legalább három évig terjedő szabadságvesztés [Btk. XXXVII. Fejezet],
+2.50. nemzetközi gazdasági tilalom megszegése [Btk. 327. § (1)–(4) bekezdése],
 
-2.52. közokirat-hamisítás [Btk. 342. § (1) bekezdés, 343. § (1) bekezdés],
+2.51. haditechnikai termékkel vagy szolgáltatással visszaélés [Btk. 329. § (1)–(4) bekezdése],
 
-2.53. teljesítményfokozó szerrel visszaélés [Btk. 185. § (1) bekezdés b) pont, (2)–(3) bekezdés],
+2.52. kettős felhasználású termékkel visszaélés [Btk. 330. § (1) és (2) bekezdése],
 
-2.54. radioaktív anyaggal visszaélés [Btk. 250. § (1) bekezdés b) pont, (2)–(3) bekezdés],
+2.53. közokirat-hamisítás [Btk. 342. § (1) bekezdése, 343. § (1) bekezdése],
 
-2.55. kettős felhasználású termékkel visszaélés [Btk. 330. § (2) bekezdés b) pont],
+2.54. egyedi azonosító jellel visszaélés [Btk. 347. § (1)–(2) bekezdése],
 
-2.56. haditechnikai termékkel vagy szolgáltatással visszaélés [Btk. 329. § (2), (4) bekezdés],
+2.55. embercsempészés [Btk. 353. §],
 
-2.57. szexuális kényszerítés [Btk. 196. § (1)–(3) bekezdés],
+2.56. védett kulturális javakkal visszaélés [Btk. 358. § (1) bekezdés a), c) pontja, valamint (2) bekezdése],
 
-2.58. szexuális erőszak [Btk. 197. § (1)–(5) bekezdés],
+2.57. rablás [Btk. 365. § (3) bekezdés a)–d) pontja, (4) bekezdés b) és c) pontja],
 
-2.59. emberiesség elleni bűncselekmények [Btk. XIII. Fejezet],
+2.58. sikkasztás [Btk. 372. § (3) bekezdés c) pontja],
 
-2.60. háborús bűncselekmények [Btk. XIV. Fejezet],
+2.59. csalás [Btk. 373. § (3)–(6) bekezdése],
 
-2.61. jármű hatalomba kerítése [Btk. 320. § (1)–(3) bekezdés],
+2.60. gazdasági csalás [Btk. 374. § (3)–(6) bekezdése],
 
-2.62. lázadás [Btk. 256. § (1)–(3) bekezdés],
+2.61. információs rendszer felhasználásával elkövetett csalás [Btk. 375. § (1)–(5) bekezdése],
 
-2.63. rombolás [Btk. 257. §],
+2.62. orgazdaság [Btk. 379. § (1) bekezdése, (3)–(6) bekezdés],
 
-2.64. közérdekű üzem működésének megzavarása [Btk. 323. § (1)–(3) bekezdés, (5) bekezdés],
+2.63. bitorlás [Btk. 384. § (1) bekezdése]
 
-2.65. nemzetközi gazdasági tilalom megszegése [Btk. 327. § (1)–(4) bekezdés],
+2.64. szerzői vagy szerzői joghoz kapcsolódó jogok megsértése [385. § (3) és (4) bekezdése]
 
-2.66. egyedi azonosító jellel visszaélés [Btk. 347. § (1)–(2) bekezdés],
+2.65. védelmet biztosító műszaki intézkedések kijátszása [Btk. 386. § (3) bekezdése]
 
-2.67. orgazdaság [Btk. 379. § (1), (3)–(6) bekezdés],
+2.66. iparjogvédelmi jogok megsértése [Btk. 388. § (2) és (3) bekezdése]
 
-2.68. iparjogvédelmi jogok megsértése [Btk. 388. § (2)–(3) bekezdés],
+2.67. pénzhamisítás [Btk. 389. § (1)–(3) bekezdése],
 
-2.69. kémkedés [Btk. 261. § (1)–(3) bekezdés],
+2.68. pénzhamisítás elősegítése [Btk. 390. § (2) bekezdése],
 
-2.70. kémkedés az Európai Unió intézményei ellen [Btk. 261/A. §],
+2.69. költségvetési csalás [Btk. 396. § (2)–(7) bekezdése],
 
-2.71. a szövetséges fegyveres erő ellen elkövetett kémkedés [Btk. 262. §].
+2.70. pénzmosás [Btk. 399. § (1)–(4) bekezdése, 400. § (2) bekezdése],
+
+2.71. rossz minőségű termék forgalomba hozatala [Btk. 415. § (1) és (2) bekezdése],
+
+2.72. megfelelőség hamis tanúsítása [Btk. 416. § (1) és (2) bekezdése],
+
+2.73. tiltott adatszerzés [Btk. 422. § (1) bekezdés d) és e) pontja, (1a) bekezdés b) pontja, valamint (4) bekezdése],
+
+2.74. információs rendszer vagy adat megsértése [Btk. 423. § (2)–(4) bekezdése].

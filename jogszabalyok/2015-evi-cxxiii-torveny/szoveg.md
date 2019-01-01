@@ -6,7 +6,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 #### 1. Általános rendelkezések
 
-1. § (1) Az egészségügyi alapellátás biztosítja, hogy a beteg a lakóhelyén, illetve annak közelében választása alapján igénybe vehető, hosszú távú, személyes kapcsolaton alapuló, folyamatos egészségügyi ellátásban részesüljön, nemétől, korától és betegsége természetétől függetlenül.
+1. § (1) Az egészségügyi alapellátás biztosítja, hogy a beteg a lakóhelyén, illetve annak közelében hosszú távú, személyes kapcsolaton alapuló, folyamatos egészségügyi ellátásban részesüljön, nemétől, korától és betegsége természetétől függetlenül.
 
 (2) Az egészségügyi alapellátás feladatai:
 
@@ -62,7 +62,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 6. § (1) A települési önkormányzat képviselő-testülete – a Kormány által kijelölt praxiskezelő által megadott szempontokat figyelembe véve – rendeletben megállapítja és kialakítja az egészségügyi alapellátások körzeteit. Több településre is kiterjedő ellátás esetén a körzet székhelyét az érintett települési önkormányzatok erre irányuló megállapodásban határozzák meg.
 
-(2) Az (1) bekezdés szerinti körzetek megállapítása és kialakítása során ki kell kérni az alapellátásért felelős országos módszertani intézet véleményét is.
+(2) Az (1) bekezdés szerinti körzetek megállapítása és kialakítása során ki kell kérni az alapellátásért felelős országos módszertani intézet – védőnői ellátás esetén az országos tisztifőorvos –, valamint a működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv véleményét is.
 
 #### 4. Nyilvántartás vezetése az alapellátási körzetekről
 
@@ -85,6 +85,17 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 (2a) A korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú törvényes képviselője a gyermek egészséges fejlődése érdekében köteles a háziorvossal, házi gyermekorvossal együttműködni, és a háziorvos, házi gyermekorvos által meghatározott időpontokban végzett szűrővizsgálatok, státuszvizsgálatok és kontrollvizsgálatok elvégzéséhez a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú jelenlétét biztosítani. Ha a törvényes képviselő e kötelezettségének nem tesz eleget, a háziorvos, házi gyermekorvos kezdeményezésére az egészségügyi államigazgatási szerv a vizsgálatot határozattal elrendeli. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
 
 (3) A háziorvos, házi gyermekorvos a gyermekvédelmi jelzőrendszer részeként jelzi a gyermek veszélyeztetettségét a család- és gyermekjóléti szolgálatnak, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvényben (a továbbiakban: Gyvt.) meghatározott esetekben hatósági eljárást kezdeményez. Ennek során a háziorvos, házi gyermekorvos a Gyvt. 11. § (1a) bekezdésében és 17. § (2)–(3a) bekezdésében foglaltak alkalmazásával jár el.
+
+(3a) A gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében a gyermeket ellátó háziorvos, házi gyermekorvos és a gyermek lakóhelye szerint illetékes területi védőnő köteles egymással együttműködni és egymást kölcsönösen írásban haladéktalanul, de legkésőbb 72 órán belül tájékoztatni
+
+- a) a nyilvántartásba vétellel az alapellátás megkezdéséről,
+- b) a fokozott gondozást igénylő esetekről,
+- c) a nyilvántartás megszűnésével az alapellátás befejeződéséről.
+
+(3b) A gyermeket ellátó háziorvos, házi gyermekorvos köteles haladéktalanul, de legkésőbb 72 órán belül írásban visszajelzést adni a lakóhely szerint illetékes területi védőnő számára
+
+- a) az életkorhoz kötött kötelező védőoltás megtörténtéről, illetve annak elmaradásáról és indokáról,
+- b) szűrővizsgálatok során a területi védőnő által a háziorvos felé jelzett észlelt elváltozás kivizsgálásának megtörténtéről és annak eredményéről.
 
 (4) A háziorvos, illetve házi gyermekorvos választásának jogát a cselekvőképes személy személyesen, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú, valamint a cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében részlegesen vagy cselekvőképességében teljesen korlátozott nagykorú személy törvényes képviselője útján gyakorolja. A háziorvos, illetve házi gyermekorvos választására vonatkozó részletes szabályokat az egészségügyért felelős miniszter (a továbbiakban: miniszter) rendeletben határozza meg.
 
@@ -118,6 +129,8 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 
 13. § (1) A védőnő személyes és közösségi ellátást nyújt az egészségi állapot megőrzése, a betegségek megelőzése, korai felismerése, valamint az egészségfejlesztés céljából a várandós anyák, a 19. életévet be nem töltött személyek, valamint a családtervezés időszakában lévő személyek számára.
 
+(1a) A védőnő az (1) bekezdés szerinti ellátást a Magyarország területén lakcímmel rendelkező, itt tartózkodó magyar állampolgár, valamint külön kérésére a Magyarország területén lakcímmel rendelkező, itt tartózkodó külföldi állampolgár részére nyújtja.
+
 (2) A védőnő a 25–65. éves női lakosság részére jogszabályban meghatározottak szerint népegészségügyi szűréseket végez.
 
 (3) A védőnői ellátás feladata:
@@ -140,7 +153,7 @@ Az Országgyűlés felismerve, hogy az egészségügyi alapellátás az egészs�
 - c) a tartós megbetegedésben, fogyatékkal, hátrányos helyzetben élő személyek, családok fokozott gondozására, egészségi állapotuk, szociális helyzetük és környezetük nyomon követésére, az elfogadható körülmények és életvitel kialakításában történő segítségnyújtásra irányul (harmadlagos megelőzés),
 - d) együttműködik a szociális, köznevelési, család- és ifjúságügyi, felzárkózási, civil- és egyházi, a kulturális és további érintett ágazatokkal.
 
-(5) A várandós és gyermekágyas anya, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú gondozója és törvényes képviselője a gyermek egészséges fejlődése érdekében köteles a védőnővel a (3) és (4) bekezdésben meghatározott feladatai ellátása során együttműködni.
+(5) A várandós anya, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú gondozója és törvényes képviselője a gyermek egészséges fejlődése érdekében köteles a védőnővel a (3) és (4) bekezdésben meghatározott feladatai ellátása során együttműködni. A várandós anya és a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú gondozója és törvényes képviselője – ha nem Magyarország területén él – mentesül az együttműködési kötelezettség alól, ha várandós anya esetén a saját, kiskorú gyermek esetén a gyermek lakóhelye, ennek hiányában tartózkodási helye szerint illetékes jegyzőt írásban értesíti, aki a védőnőt erről haladéktalanul tájékoztatja.
 
 (5a) Ha a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú törvényes képviselője nem gondoskodik a kiskorúnak a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló jogszabály szerint a védőnő feladatkörébe tartozó szűrővizsgálaton való megjelenéséről, valamint a védőnő feladatkörébe tartozó szolgáltatások igénybevételéről, a védőnő kezdeményezésére az egészségügyi államigazgatási szerv határozattal intézkedik. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
 

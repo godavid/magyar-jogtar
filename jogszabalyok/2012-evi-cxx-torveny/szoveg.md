@@ -138,6 +138,8 @@ kell érteni.
 
 (4) Az 1. § (1) bekezdés g) és h) pontja alá tartozó személy esetében az (1) és (2) bekezdésben, valamint a 7. § (1) bekezdésében foglaltak tekintetében munkáltató helyett az erdészeti hatóság jár el.
 
+(5) A (2)–(3) bekezdés szerinti közigazgatási hatósági ügyben hozott elsőfokú döntés ellen fellebbezésnek van helye.
+
 9. § (1) Az általános rendőrségi feladatok ellátásra létrehozott szerv központi szerve (a továbbiakban: központi szerv) a rendészeti feladatokat ellátó személy számára kiadott szolgálati igazolványról, valamint az egyedi azonosító számmal ellátott szolgálati jelvényről az 5. § (2)–(3) bekezdésében meghatározott alkalmazást kizáró okok ellenőrzése, a szolgálati igazolványok hitelességének és a rendészeti feladatokat ellátó személy azonosításának céljából nyilvántartást vezet.
 
 (2) A nyilvántartás tartalmazza
@@ -275,7 +277,7 @@ a (2) bekezdésben meghatározottak megérkezéséig – de legfeljebb két óra
 
 #### 9. Dolog ideiglenes elvétele
 
-17. § (1) A rendészeti feladatokat ellátó személy feladatának teljesítése során azt a dolgot, amely az általános közigazgatási rendtartásról szóló törvény, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény, vagy a büntetőeljárásról szóló törvény alapján lefoglalható, bizonyítékként felhasználható, valamint 19. § (2) bekezdésében meghatározott tárgyat a rendőrségnek, a jogosultnak, az eljáró bíróságnak, ügyészségnek, nyomozó hatóságnak vagy más hatóságnak történő átadásig átvételi elismervény ellenében ideiglenesen elveheti.
+17. § (1) A rendészeti feladatokat ellátó személy feladatának teljesítése során azt a dolgot, amely az általános közigazgatási rendtartásról szóló törvény alapján zár alá vehető, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény, vagy a büntetőeljárásról szóló törvény alapján lefoglalható, bizonyítékként felhasználható, valamint 19. § (2) bekezdésében meghatározott tárgyat a rendőrségnek, a jogosultnak, az eljáró bíróságnak, ügyészségnek, nyomozó hatóságnak vagy más hatóságnak történő átadásig átvételi elismervény ellenében ideiglenesen elveheti.
 
 (2) A rendészeti feladatokat ellátó személy az (1) bekezdésben meghatározott dolog birtoklásával gyanúsítható személyt felszólíthatja a jogellenesen szerzett dolog átadására.
 

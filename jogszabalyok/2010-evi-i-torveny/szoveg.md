@@ -67,7 +67,8 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 - r) adatmódosítás: adatváltozás bejegyzése vagy hibás adat javításának elvégzése,
 - s) adattörlés: az anyakönyvben szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
 - t) eseményazonosító: az adott anyakönyvi eseményt azonosító alfanumerikus azonosító,
-- u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történő bejegyzésekor, az adattörléskor, valamint az egyéb elektronikus ügyindításkor képzett alfanumerikus azonosító.
+- u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történő bejegyzésekor, az adattörléskor, valamint az egyéb elektronikus ügyindításkor képzett alfanumerikus azonosító,
+- v) harmadik országbeli állampolgár: a magyar állampolgár kivételével minden olyan személy, aki nem EGT-állampolgár, ideértve a hontalant is.
 
 ### Hatáskör
 
@@ -715,11 +716,23 @@ a bíróság értesíti a születést nyilvántartó anyakönyvvezetőt.
 
 62. § (1) A haláleset bejelentését követően, az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató az anyakönyvvezető részére az elhalt magyar állampolgár személyazonosság igazolására alkalmas hatósági igazolványát, a személyi azonosítót és lakcímet igazoló hatósági igazolványát, továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató rendelkezésére áll – az elhalt születési anyakönyvi kivonatát és a családi állapotát igazoló okiratot átadja, valamint a halottvizsgálati bizonyítvány eltemettetői példányát bemutatja.
 
-(2) A haláleset bejelentését követően, az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató a Magyarországon bevándoroltként, letelepedettként, menekültként vagy oltalmazottként lakóhellyel rendelkező személy személyazonosság igazolására alkalmas hatósági igazolványát, a személyi azonosítót és lakcímet igazoló hatósági igazolványát, továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató rendelkezésére áll – a családi állapotát tanúsító okiratát az anyakönyvvezetőnek átadja, valamint a halottvizsgálati bizonyítvány eltemettetői példányát bemutatja.
+(2) A haláleset bejelentését követően, az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató a személyi adat- és lakcímnyilvántartásban
+
+- a) bevándoroltként, letelepedettként, menekültként vagy oltalmazottként nyilvántartott személy magyar hatóságok által kiállított személyazonosság igazolására alkalmas hatósági igazolványát, a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
+- b) a szabad mozgás és tartózkodás jogával rendelkező személy idegenrendészeti hatóság által kiállított regisztrációs igazolását és a személyi azonosítót és lakcímet igazoló hatósági igazolványát, továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató rendelkezésére áll – a családi állapotát tanúsító okiratát az anyakönyvvezetőnek átadja, valamint a halottvizsgálati bizonyítvány eltemettetői példányát bemutatja.
+
+(2a) A haláleset bejelentését követően, az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató az idegenrendészeti vagy menekültügyi hatóság által kiállított, magyarországi tartózkodásra jogosító okmányokat, továbbá – ha az az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató rendelkezésére áll – a családi állapotát tanúsító okiratát az anyakönyvvezetőnek átadja, valamint a halottvizsgálati bizonyítvány eltemettetői példányát bemutatja.
+
+(2b) Az anyakönyvvezető
+
+- a) az elhalt magyar hatóságok által kiállított személyazonosító igazolványát, úti okmányát, vezetői engedélyét, továbbá a személyi azonosítót és lakcímet igazoló hatósági igazolványát az elhalt lakóhelye, ennek hiányában utolsó lakóhelye szerint illetékes járási hivatalnak,
+- b) az idegenrendészeti vagy menekültügyi hatóság által kiállított magyarországi tartózkodásra vagy külföldi utazásra jogosító okmányokat a kiállító idegenrendészeti vagy menekültügyi hatóságnak
+
+érvénytelenítés és az érvénytelenítés tényének az okmány-nyilvántartásban történő átvezetése céljából megküldi.
 
 (3) Az anyakönyvvezető az elhalt személy átadott személyazonosító igazolványát és a személyi azonosítóját és lakcímét igazoló hatósági igazolványát átlyukasztással – könyv formátumú személyazonosító igazolvány esetén az adatoldalakon elhelyezett érvénytelenségre utaló bélyegzőlenyomattal – érvényteleníti. Az anyakönyvvezető az általa érvénytelenített okmányokat erre irányuló kérelem esetén visszaadja az elhalt személy hozzátartozójának. Hamis vagy meghamisított okmányt visszaadni nem lehet. Az anyakönyvvezető a vissza nem igényelt érvénytelenített okmányokat, valamint a további, személyazonosság igazolására alkalmas hatósági igazolványt soron kívül, de legkésőbb három napon belül továbbítja a haláleset helye szerint illetékes járási hivatalnak.
 
-(4) Bevándorolt, letelepedett, menekült vagy oltalmazott jogállással nem rendelkező nem magyar állampolgár halálesetének anyakönyvezési eljárása során az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személynek vagy az ügyben eljáró temetkezési szolgáltatónak az elhalt személyazonosításra alkalmas okmányait, továbbá a halottvizsgálati bizonyítványt az anyakönyvvezető részére be kell mutatnia. Az anyakönyvvezető az elhalt úti okmányában lévő érvényes magyar vízumon, illetve a tartózkodási jogosultságra vonatkozó bejegyzésen az egyedi elektronikus anyakönyvi azonosító feltüntetésével „érvénytelen” bejegyzést tesz, és a külföldi hatóságok által kiállított okmányokat a megjelent személynek visszaadja.
+(4) A (2)–(2b) bekezdésben nem szereplő nem magyar állampolgár halálesetének anyakönyvezési eljárása során az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személynek vagy az ügyben eljáró temetkezési szolgáltatónak az elhalt személyazonosításra alkalmas okmányait, továbbá a halottvizsgálati bizonyítványt az anyakönyvvezető részére be kell mutatnia. Az anyakönyvezető, az elhalt külföldi hatóság által kiállított úti okmányában lévő érvényes, magyarországi tartózkodásra jogosító vízumon, illetve a magyarországi tartózkodási jogosultságra vonatkozó egyéb bejegyzésen az egyedi elektronikus anyakönyvi azonosító feltüntetésével „érvénytelen” bejegyzést tesz, és a külföldi hatóságok által kiállított okmányokat a megjelent személynek visszaadja. A bejegyzés megtörténtének tényéről az úti okmány adatainak közlésével az idegenrendészeti és a menekültügyi hatóságot értesíti.
 
 62/A. § Az anyakönyvvezető elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult
 
@@ -1354,7 +1367,7 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 
 (2) A 4. § (5) bekezdés f) pontja szerinti anyakönyvi szerv, valamint a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az 1980. december 31-ig vezetett anyakönyvben található bejegyzés lezárásáról a bejegyzés folyószámának és az anyakönyv azonosító adatainak továbbításával a Magyar Nemzeti Levéltárat az általa megjelölt formában értesíti. A levéltár az értesítés alapján a bejegyzést lezárja.
 
-(3) Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv – a személyiadat- és lakcímnyilvántartás hatálya alá tartozó nem magyar állampolgár kivételével – a nem magyar állampolgár halálesetének anyakönyvezéséről a 69/B. § (1) bekezdés a) pontjában, b) pont ba)–bc), bf) és bh) alpontjában, valamint a 69/F. § (1) bekezdés a) pontjában foglalt adatok továbbításával értesíti a központi idegenrendészeti nyilvántartást vezető szervet. Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az idegenrendészeti hatóság által kiállított, tartózkodásra jogosító engedélyt az eljárása során bevonja, és azt az anyakönyvi értesítéshez csatolja.
+(3) Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv – a személyiadat- és lakcímnyilvántartás hatálya alá tartozó nem magyar állampolgár kivételével – a nem magyar állampolgár halálesetének anyakönyvezéséről a 69/B. § (1) bekezdés a) pontjában, b) pont ba)–bc), bf) és bh) alpontjában, valamint a 69/F. § (1) bekezdés a) pontjában foglalt adatok továbbításával értesíti a központi idegenrendészeti nyilvántartást vezető szervet, menedékes vagy befogadott jogállású személy esetén pedig a menekültügyi hatóságot. Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az idegenrendészeti hatóság által kiállított, tartózkodásra jogosító engedélyt az eljárása során bevonja, és azt az anyakönyvi értesítéshez csatolja.
 
 (4) Az anyakönyvvezető a nem magyar állampolgár anyakönyvi eseményéről értesíti az anyakönyvi szervet. Az értesítés tartalmazza a nem magyar állampolgár – gyermek születésének anyakönyvezése esetén a szülők – természetes személyazonosító adatait, menekült vagy oltalmazott jogállását, valamint – ha rendelkezésre áll – az állampolgárságát igazoló okmányának megnevezését, okmányazonosítóját és érvényességi idejét. Az anyakönyvi szerv a nem magyar állampolgár anyakönyvi eseményéről – nemzetközi szerződés vagy viszonosság alapján – az anyakönyvi kivonat és az anyakönyvvezető által küldött értesítésben szereplő adatok továbbításával értesíti az érintett állampolgársága szerinti állam Magyarországra akkreditált külképviseletét, annak hiányában a külpolitikáért felelős minisztert.
 
@@ -1363,6 +1376,20 @@ a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXX
 91. § Az anyakönyvvezető a személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány érvénytelenítésének tényéről és időpontjáról az elhalt halálesetének anyakönyvezését követően haladéktalanul elektronikus úton értesíti a személyazonosító igazolvány nyilvántartását és a személyiadat- és lakcímnyilvántartást vezető szervet.
 
 91/A. § A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv a személyiadat- és lakcímnyilvántartás aktív nyilvántartásában nem szereplő személynek a halálesetéről értesíti az útiokmány-nyilvántartást az okmánynak a nyilvántartásban történő érvénytelenítése céljából, amennyiben az elhalt érvényes úti okmánnyal rendelkezett.
+
+91/B. § Az anyakönyvvezető vagy az anyakönyvi szerv, ha a házassággal vagy a bejegyzett élettársi kapcsolattal összefüggésben menekült, oltalmazott, menedékes vagy befogadott jogállású személy külföldön történt halálesete, továbbá magyar vagy külföldi bíróság vagy más hatóság Magyarországon elismerhető határozata alapján holtnak nyilvánítás vagy halál ténye bírói megállapítása miatt adatváltozást vezet át az elektronikus anyakönyvben, e tényről 5 napon belül értesíti a menekültügyi hatóságot.
+
+91/C. § Az anyakönyvvezető vagy az anyakönyvi szerv – az anyakönyvi adatváltozásnak az elektronikus anyakönyvben történő átvezetését követő 5 munkanapon belül – értesíti a központi idegenrendészeti szervet az apaság vélelmének bíróság általi megdöntéséről, ha
+
+- a) a gyermek magyar állampolgárságú anyától származik és harmadik országbeli állampolgár férfi tett rá korábban teljes hatályú apai elismerő nyilatkozatot, vagy
+- b) a gyermek harmadik országbeli állampolgár anyától származik, és magyar állampolgárságú férfi tett rá korábban teljes hatályú apai elismerő nyilatkozatot.
+
+91/D. § Az anyakönyvvezető vagy az anyakönyvi szerv – az anyakönyvi adatváltozásnak az elektronikus anyakönyvben történő átvezetését követő 5 munkanapon belül – értesíti a központi idegenrendészeti szervet, ha a házasságot vagy a bejegyzett élettársi kapcsolatot bíróság, közjegyző vagy más hatóság
+
+- a) érvénytelenítette,
+- b) felbontotta,
+- c) megszüntette,
+- d) annak nem létezését mondta ki, feltéve, hogy az egyik fél magyar, a másik fél pedig harmadik országbeli állampolgár.
 
 ### Adattovábbítási nyilvántartás
 

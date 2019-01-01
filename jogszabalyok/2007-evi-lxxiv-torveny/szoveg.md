@@ -372,86 +372,59 @@ a közönségarányát.
 
 (3) Olyan analóg rádió- vagy televízió médiaszolgáltatási jogosultság, amely alapján a médiaszolgáltató műsorát műsorszórással juttatják el a felhasználóhoz, vagy előfizetőhöz, kizárólag azzal a feltétellel adható ki, hogy a jogosult köteles együttműködni a műsorterjesztés digitalizációja folyamatában.
 
-### Az országos vételkörzetű digitális műsorszóró hálózat üzemeltetési jogosultságának elnyerésére vonatkozó pályázati eljárás
+### A digitális műsorszóró hálózat, műsorszóró adó üzemeltetési jogosultságának elnyerésére vonatkozó pályázati eljárás
 
-39. § (1) Az országos digitális rádió- és televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (a 39–43. § alkalmazásában a továbbiakban: pályázati eljárás) a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell a 39–43. §-ban foglalt eltéréssel megfelelően alkalmazni. Az országos pályázati eljárásra a 43/A–43/K. §-ban foglaltak megfelelően alkalmazandóak.
+39. § (1) A digitális rádió- és televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság pályázat útján történő elnyerésével kapcsolatos eljárásokra (e § alkalmazásában a továbbiakban: pályázati eljárás) az Eht.-t és a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell a 39–43/A. §-ban foglalt eltéréssel, kiegészítésekkel megfelelően alkalmazni.
 
-(2) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazza:
+(2) A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályban szereplő pályázati bizottságot nem kell létrehozni, az eljárás során pályázati bizottság nem működik közre.
 
-- a)
-- b) az állampolgárok tájékozódását szolgáló, e törvény hatálybalépésekor legalább négy éve működő, legalább két, hír-, illetve közéleti tartalmú műsorokat szolgáltató televíziós médiaszolgáltatóval és a legalább három éve működő, országos rádió közösségi médiaszolgáltatókkal szemben fennálló, a legnagyobb lakossági eléréssel rendelkező hálózaton és a televíziós médiaszolgáltatók esetében mobilvételű digitális televízió műsorszóró hálózaton történő műsorterjesztésre vonatkozó szerződéskötési kötelezettséget és részletes szabályait,
-- c) legfeljebb négy általános tematikájú országos médiaszolgáltatóval szemben fennálló, műsorterjesztésre vonatkozó szerződéskötési kötelezettséget,
-- d) a pályázaton elnyerhető digitális műsorszóró hálózat, illetve műsorszóró adó műszaki és ellátottsági jellemzőit,
-- e) digitális rádió-, illetve televízió műsorszóró hálózat, illetve a műsorszóró adó kiépítésének megkívánt ütemét, illetve üzemeltetése megkezdésének időpontját,
-- f) a digitális műsorszóró hálózaton, illetve a műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésének ütemezését,
-- g) a felhasználók és előfizetők tájékoztatását, valamint digitális vevődekóder kedvezményes és támogatott forgalomba hozatalára vonatkozó rendszer kialakításának és működtetésének ajánlatát,
-- h) a közreműködést az érintett országos analóg földfelszíni televíziós sugárzás előrehozott lekapcsolásában,
-- i) a közszolgálati médiaszolgáltatók kivételével a digitális műsorszóró hálózat üzemeltetésére külön gazdasági társaság alakítását, amely az (5) és (6) bekezdésben megjelölt vállalkozással nem állhat irányítási viszonyban,
-- j) az (5) bekezdés a) pontjában és a (6) bekezdésben foglalt feltétel folyamatos teljesítését,
-- k) a lakosság légi- és katasztrófariasztásával, tájékoztatásával kapcsolatos kötelezettségeket,
-- l) a nyertes pályázó, illetve e bekezdés i) pontja szerint az általa létrehozandó gazdasági társaság tulajdonosi szerkezetében vagy tényleges irányítói körében bekövetkezett változások bejelentésével kapcsolatos feltételeket és részletes szabályokat.
+(3) A pályázati eljárás ügyintézési határideje százhúsz nap. Az ügyintézési határidő a pályázatra történő jelentkezési határidő lejártának napján kezdődik.
 
-(3) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl értékelési szempontként tartalmazza:
+(4) Alakilag érvénytelen pályázat esetén az Elnök a jelentkező pályázati nyilvántartásba vételét végzéssel megtagadja. A nyilvántartásba vételt megtagadó végzés megszünteti az eljárásban a jelentkező ügyféli minőségét. A pályázati nyilvántartásba vételt megtagadó végzés – jogszabálysértésre hivatkozással – a végzés közlésétől számított nyolc napon belül közigazgatási perben támadható. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül dönt. A bíróság határozata ellen perorvoslatnak helye nincs. Keresetlevél benyújtása esetén az Elnök a pályázati eljárást – a bíróság jogerős döntéséig – felfüggeszti. Az Elnök eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs.
 
-- a) azon pályázó előnyben részesítését, amely új földfelszíni műsorterjesztésű általános tematikájú, szabad hozzáférésű médiaszolgáltató elérhetővé tételét kölcsönös szándéknyilatkozattal igazoltan vállalja,
-- b) a közszolgálati médiaszolgáltatók közszolgálati műsorainak műsorterjesztési díjaira vonatkozó vállalásokat,
-- c) azon pályázó előnyben részesítését, amely interaktív kiegészítő médiaszolgáltatások bevezetését vállalja,
-- d) a digitális rádió-, illetve televízió műsorszóró hálózat, illetve a műsorszóró adó kiépítésére vonatkozó, a (2) bekezdés e) pontja szerint meghatározott feltételeknél kedvezőbb vállalásokat,
-- e) a digitális műsorszóró hálózaton, illetve a műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésére vonatkozó, a (2) bekezdés f) pontja szerinti feltételnél kedvezőbb vállalásokat,
-- f) a digitális műsorszóró hálózatokon terjesztett műsorok vételére használt digitális vevődekóderek interaktív szolgáltatások igénybevételére való alkalmasságát,
-- g) a felhasználók és előfizetők tájékoztatásában, valamint digitális vevődekóder esetleges kedvezményes és támogatott forgalomba hozatalára vonatkozó, a (2) bekezdés g) pontja szerinti feltételnél kedvezőbb vállalásokat,
-- h) az érintett országos analóg földfelszíni televíziós sugárzás előrehozott lekapcsolásában való közreműködésre vonatkozó, a (2) bekezdés h) pontja szerinti feltételnél kedvezőbb vállalásokat.
+(5) Az Elnök pályázat eredménytelenségét, vagy eredményesség esetén a pályázat nyertesét vagy nyerteseit megállapító határozata a határozat közlésétől számított tizenöt napon belül jogszabálysértésre hivatkozással támadható meg közigazgatási perben. A bíróság a keresetlevelet, a keresetlevél bírósághoz történő beérkezésétől számított hatvan napon belül bírálja el és a kihirdetés napjáig írásba foglalja. A bíróság döntésével szemben perújításnak nincs helye.
 
-(4) A pályázati kiírási dokumentáció a (2) és (3) bekezdésben, valamint az Mttv. 9–11. §-ában meghatározottakon túl további műsortartalmi feltételeket és értékelési szempontokat nem tartalmazhat.
+(6) A bíróság (5) bekezdés szerinti határozata elleni fellebbezés a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a fellebbezés benyújtására meghatározott határidőn belül a fellebbezésnek az elsőfokú bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A bíróság a fellebbezést hatvan napon belül bírálja el és határozatát e határidőn belül írásba foglalja. E határozattal szemben rendkívüli perorvoslatnak (felülvizsgálatnak, perújításnak) helye nincs.
 
-(5) A digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó pályázaton – kivéve a kizárólag mobil vételű digitális televízió műsorszóró hálózat üzemeltetési jogosultságára vonatkozó a 43. § (3) bekezdésében foglalt pályázatot – nem vehet részt olyan vállalkozás, vagy a vállalkozással irányítási viszonyban álló vállalkozás, amely
+(7) A bíróság az Elnök határozatát nem változtathatja meg.
 
-- a) előfizetőinek összesített száma a televíziós műsorterjesztési piacokon a digitális televízió műsorszóró hálózattal végzett műsorterjesztés kivételével meghaladja a háromszázezret, vagy
-- b) az Mttv. hatálya alá tartozó, elsősorban Magyarország területére irányuló médiaszolgáltatást végez.
+(8) A pályázati ajánlat a pályázati eljárás lezárásáig az Eht. 33. § (2) bekezdése szerinti, törvény által védett titoknak minősül. A pályázati ajánlatot az Elnök az ügy iratai között elkülönítve, zártan kezeli. A pályázati ajánlatban szereplő adatokról az Elnök a 40. § szerinti hatósági szerződés megkötéséig harmadik személynek nem adhat tájékoztatást. A pályázati eljárás lezárásáig a pályázó más pályázó pályázati ajánlatába, valamint harmadik személy a pályázati ajánlatba és az eljárás irataiba nem tekinthet be, azok nem ismerhetők meg.
 
-(6)
+(9) A pályázati eljárás lezárását követően a pályázó más pályázó pályázati ajánlatába, valamint harmadik személy a pályázati ajánlatba és az eljárás irataiba akkor tekinthet be, ha igazolja, hogy az irat vagy adat megismerése törvényen alapuló joga érvényesítéséhez, illetve jogszabályon vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
 
-(7) A pályázaton egyidejűleg nem vehetnek részt olyan természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok vagy egyéb szervezetek, amelyek egymással irányítási viszonyban állnak.
+(10) A (9) bekezdés szerinti iratbetekintés, adatmegismerés iránti kérelmet az Elnök hatósági eljárásban, az iratbetekintés szabályai szerint bírálja el.
 
-(8)
+(11) A pályázati eljárást lezáró döntés, valamint a nyertes pályázóval kötött hatósági szerződés a személyes adatok, a törvény által védett titok és a védett adatok kivételével bárki számára megismerhetők.
 
-40. §
+40. § (1) Az Elnök a nyertessé nyilvánított pályázó pályázati ajánlatával és a pályázati kiírási dokumentációval összhangban a nyertessé nyilvánított pályázóval hatósági szerződést köt.
 
-41. § (1) A pályázatról a Hatóság honlapján hirdetményt, két országos napilapban felhívást tesz közzé.
+(2) A nyertes pályázó a hatósági szerződés megkötése iránti eljárást az Elnök pályázat nyertesét vagy nyerteseit megállapító határozata közlését követő harminc napos jogvesztő határidőn belül kezdeményezheti. E határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(2) A pályázati kiírási dokumentáció nyilvántartásba vétel mellett elektronikus formában a Hatóság honlapjáról ingyenesen letölthető, nyomtatott formában költségtérítés ellenében szerezhető be a Hatóság székhelyén.
+(3) A hatósági eljárást okafogyottnak kell tekinteni, ha az (1) bekezdés szerinti hatósági eljárásban a pályázat nyertese nem vesz részt vagy a hatósági szerződés megkötését akadályozza és az (1) bekezdésben meghatározott ügyintézési határidőn belül a hatósági szerződés nem köthető meg. Ebben az esetben az Elnök az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
 
-(3) A pályázati kiírási dokumentációról a Hatóság a hirdetményben, illetve felhívásban meghatározott módon, helyen a hirdetmény megjelenését követő tizenöt napon belül konzultációt tart. A közzététel napjának a Hatóság honlapján történő megjelenés napját kell tekinteni.
+(4) Amennyiben a 39. § (5) bekezdése szerint a bíróság eljárását kezdeményezték, a hatósági szerződés a bíróság jogerős döntéséig nem köthető meg. A közigazgatási per időtartama a (2) bekezdés szerinti hatósági eljárás kezdeményezésére nyitva álló határidőbe nem számít bele.
 
-(4) A konzultáción a kiírási dokumentációt nyilvántartásba vétel mellett beszerző személyek vagy szervezetek, illetve a kiírási dokumentációban meghatározott számú képviselőik vehetnek részt.
+(5) Amennyiben a hatósági szerződésben meghatározott időpontig a műsorszóró hálózat vagy adó üzemeltetése megkezdésére, illetve a hálózaton vagy adón nyújtott műsorterjesztési szolgáltatás nyújtására – a nyertes pályázó érdekkörében felmerült ok miatt – nem kerül sor, az Elnök jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést azonnali hatállyal felmondani.
 
-(5) A konzultáción résztvevők a Hatóság számára írásban is feltehetik kérdéseiket legkésőbb a konzultációt megelőző ötödik napig.
+41. § (1) Az Elnök ellenőrzi a 40. § alapján megkötött hatósági szerződésekben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint a vonatkozó műsorterjesztési alkotmányos alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az Eht. szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
-(6) A konzultáción résztvevők észrevételeiket a hirdetmény megjelenését követő húsz napon belül írásban tehetik meg.
+(2) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban az Elnök az Eht.-ben, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
 
-(7) A Hatóság a konzultációs észrevételekről összefoglalót készít, amelyet a honlapján közzétesz.
+(3) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében az Elnök jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
 
-(8) A Hatóság a konzultációs észrevételek alapján a hirdetmény megjelenését követő harminc napon belül véglegesíti a pályázati kiírási dokumentációt.
+(4) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, illetve nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.
 
-(9)
-
-42. § (1) A konzultációs észrevételek alapján véglegesített pályázatról a Hatóság a honlapján hirdetményt, két országos napilapban felhívást tesz közzé. A pályázati eljárás hivatalból indul a pályázati felhívás közzétételével.
-
-(2) A pályázati ajánlatok az (1) bekezdés szerinti kiírást követő harminc napon belül nyújthatók be.
-
-(3)–(6)
+42. §
 
 43. § (1)–(2)
 
 (3) A digitális átállást követően rendelkezésre álló digitális televízió műsorszóró hálózatok, illetve a VHF sávban és az L-frekvenciasávban rendelkezésre álló digitális műsorszóró hálózatok kiírási határidejét külön jogszabály határozza meg.
 
-(4) A (3) bekezdésben foglalt jogosultság időtartama a jogosultságról szóló hatósági szerződés megkötésének időpontjától számított 12 év.
+(4)
 
 (5)
 
-(6) A (3) bekezdésben foglalt jogosultság pályázati kiírási dokumentációjának elkészítésére, a pályázati eljárására és a pályáztatásra a 39–43/K. § megfelelően alkalmazandó.
-
-### A helyi és körzeti vételkörzetű műsorterjesztési szolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó üzemeltetési jogosultság megszerzésére vonatkozó pályázati eljárás
+(6)
 
 43/A. § (1) Állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő, analóg műsorszórással terjesztett helyi és körzeti audiovizuális médiaszolgáltatás médiaszolgáltatója a médiaszolgáltatási jogosultságának időtartama alatt, de legkésőbb a helyi és körzeti vételkörzetű földfelszíni műsorterjesztés digitális átállásának 38. § (1) bekezdésében meghatározott időpontjáig
 
@@ -462,7 +435,7 @@ a közönségarányát.
 
 (2) Az ideiglenes digitális műsorszórási jogosultság gyakorlóját nem terhelik az Mttv. 72. § (1)–(3) bekezdésében és 74–77. §-ában foglalt, műsorterjesztőre vonatkozó kötelezettségek.
 
-(3) A helyi és körzeti vételkörzetű földfelszíni műsorterjesztés digitális átállásának a 38. § (1) bekezdésében meghatározott céldátumát követően helyi és körzeti vételkörzetű földfelszíni digitális televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetése – amennyiben e törvény ettől eltérően nem rendelkezik – a Hatóság által lefolytatott helyi és körzeti vételkörzetű médiaszolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó vagy műsorszóró hálózat üzemeltetési jogosultság megszerzésére irányuló pályázati eljárás (a továbbiakban: pályázati eljárás) során megszerzett digitális műsorszóró adó üzemeltetési jogosultság alapján lehetséges. A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell megfelelően alkalmazni a 43/A–43/K. §-ban foglalt eltérésekkel.
+(3) A helyi és körzeti vételkörzetű földfelszíni műsorterjesztés digitális átállásának a 38. § (1) bekezdésében meghatározott céldátumát követően helyi és körzeti vételkörzetű földfelszíni digitális televízió-műsorszóró hálózat, illetve műsorszóró adó üzemeltetése – amennyiben e törvény ettől eltérően nem rendelkezik – a Hatóság által lefolytatott helyi és körzeti vételkörzetű médiaszolgáltatások nyújtását lehetővé tevő digitális műsorszóró adó vagy műsorszóró hálózat üzemeltetési jogosultság megszerzésére irányuló pályázati eljárás (a továbbiakban: pályázati eljárás) során megszerzett digitális műsorszóró adó üzemeltetési jogosultság alapján lehetséges. A pályázati eljárás során az Eht.-t és a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályt kell megfelelően alkalmazni a 39–43/A. §-ban foglalt eltérésekkel.
 
 (4) A pályázati eljárás hivatalból indul a pályázati felhívás közzétételével. Pályázati eljárást az Elnök abban az esetben indít, amennyiben
 
@@ -470,137 +443,33 @@ a közönségarányát.
 - b) a kérelmező erre irányuló kérelmet terjeszt elő, és az Elnök a kérelemben megjelölt vételkörzet tekintetében – frekvenciagazdálkodási szempontok figyelembevételével – a digitális műsorszóró adó üzemeltetési lehetőség tervezését előzetesen jóváhagyja. A jóváhagyást követően a Hatóság elvégzi a digitális műsorszóró adó üzemeltetési lehetőség megtervezésére irányuló vizsgálatokat. Amennyiben az adott vételkörzet tekintetében tervezhető digitális műsorszóró adó üzemeltetési lehetőség, a megtervezett lehetőség pályáztatására a továbbiakban a pályázati eljárás (3) bekezdésben meghatározott rendelkezéseit kell alkalmazni; vagy
 - c) az Elnök azt egyéb, frekvenciagazdálkodási, műsorterjesztési, médiaszolgáltatási iparági vagy médiapolitikai szempont alapján indokoltnak tartja.
 
-(5) A pályázati eljárás során a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat szabályairól szóló külön jogszabályban szereplő pályázati bizottságot nem kell létrehozni, az eljárás során pályázati bizottság nem működik közre.
+(5)
 
-(6) A pályázati eljárás ügyintézési határideje nyolcvanöt nap. Az ügyintézési határidő a pályázatra történő jelentkezési határidő lejártának napján kezdődik.
+(6)
 
 (7) A műsorterjesztési szolgáltatások nyújtását lehetővé tevő, helyi és körzeti vételkörzetű földfelszíni digitális műsorszóró hálózat, illetve műsorszóró adó üzemeltetési jogosultság időtartama a jogosultságról szóló hatósági szerződés megkötésének időpontjától számított legfeljebb 12 év.
 
-43/B. § (1) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazza:
+43/B. §
 
-- a) a pályázaton elnyerhető digitális műsorszóró adó műszaki és ellátottsági jellemzőit,
-- b) a digitális rádió-, illetve televízió műsorszóró adó kiépítésének megkívánt ütemét, illetve üzemeltetése megkezdésének időpontját,
-- c) a digitális műsorszóró adón nyújtott műsorterjesztési szolgáltatás tervezett lakossági elérésének ütemezését,
-- d) a digitális műsorszóró adó üzemeltetőjét terhelő szerződéskötési és továbbítási kötelezettséget,
-- e) a lakosság légi- és katasztrófariasztásával, tájékoztatásával kapcsolatos kötelezettségeket,
-- f) a nyertes pályázó, illetve az általa létrehozandó gazdasági társaság tulajdonosi szerkezetében vagy tényleges irányítói körében bekövetkezett változások bejelentésével kapcsolatos feltételeket és részletes szabályokat,
-- g) a pályázati ajánlat alaki és tartalmi érvényességének feltételeit.
+43/C. §
 
-(2) A pályázati kiírási dokumentáció a külön jogszabályban meghatározottakon túl feltételként tartalmazhatja:
+43/D. §
 
-- a) amennyiben a pályázati kiírás lehetővé teszi több pályázó közös ajánlattételét, úgy a közös ajánlattétel szabályait,
-- b) a benyújtott pályázatokra vonatkozó ajánlati kötöttséget és annak időtartamát.
+43/E. §
 
-(3) A pályázaton egyidejűleg nem vehetnek részt olyan természetes személyek, jogi személyek, jogi személyiséggel nem rendelkező gazdasági társaságok vagy egyéb szervezetek, amelyek egymással irányítási viszonyban állnak.
+43/F. §
 
-(4) A jogszabályban valamint a pályázati kiírási dokumentációban meghatározott részvételi feltételeknek a pályázati eljárás teljes tartama alatt meg kell felelni.
+43/G. §
 
-(5) A résztvevő köteles a kiírási dokumentációban foglalt eljárási szabályokat betartani.
+43/H. §
 
-(6) Amennyiben az Elnök a pályázati eljárás tartama alatt a jogszabályba vagy a pályázati kiírási dokumentációba ütköző magatartást észlel, a pályázati kiírási dokumentációban részletezett jogkövetkezményeket alkalmazza, az arányosság és a fokozatosság elvét követve.
+43/I. §
 
-43/C. § (1) Az Elnök megvizsgálja, hogy a jelentkező (résztvevő) megfelel-e az alaki és tartalmi érvényesség feltételeinek.
+43/J. §
 
-(2) Alakilag érvénytelen a pályázati ajánlat, ha
+43/K. §
 
-- a) a jelentkező (résztvevő) nem felel meg a jogszabályban, illetve a pályázati kiírási dokumentációban meghatározott személyi, részvételi feltételeknek, illetve összeférhetetlenségi követelményeknek,
-- b) a pályázati ajánlat nem a pályázati felhívásban meghatározott határidőben, helyen, példányszámban, formában és módon került benyújtásra,
-- c) a részvételi díjat határidőben nem fizették meg,
-- d) a pályázati ajánlat formailag nem felel meg a pályázati felhívásban és a pályázati kiírási dokumentációban meghatározott feltételeknek,
-- e) nem tartalmazza a pályázati jelentkezéshez szükséges – jogszabályban és a pályázati kiírási dokumentációban felsorolt – adatokat.
-
-(3) Ha a pályázati jelentkezés, illetve a pályázati ajánlat a (2) bekezdés e) pontja alapján hiányos, az Elnök hiánypótlásra szólítja fel a jelentkezőt. A hiánypótlás teljesítésére a kézbesítéstől számított tizenöt nap áll a jelentkező rendelkezésére. Amennyiben a jelentkező a hiányosságot a felhívásban megjelölt időtartamon belül megfelelően pótolja, a pályázatot úgy kell tekinteni, mintha már eredetileg is helyes és teljes körű lett volna. A hiánypótlás teljesítésére meghatározott határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A pályázati ajánlat azon elemei tekintetében, amelyek a pályázati felhívás, illetve pályázati kiírási dokumentáció alapján értékelésre kerülnek, hiánypótlásnak nincs helye.
-
-(4) Az alaki érvényesség vizsgálata során az Elnök érdemi, tartalmi értékelést nem végez.
-
-43/D. § (1) Az Elnök a pályázatok értékelése, feltételeinek jobb megértése, és összehasonlíthatósága érdekében az esélyegyenlőség elvének sérelme nélkül jogosult a jelentkezőtől (résztvevőtől) a pályázatra vonatkozó, illetőleg a pályázónak e törvényben, illetve a pályázati kiírásban meghatározott feltételeknek való megfelelését igazoló további dokumentumokat és információkat írásban kérni.
-
-(2) A felvilágosítás a pályázatban foglaltak jobb megértését szolgálja, nem eredményezheti az ajánlatban megfogalmazott pénzbeli, értékbeli vállalások, lényeges állítások változását, csak azok értelmezését szolgálhatja.
-
-(3) Az Elnök a jelentkező (résztvevő) által adott felvilágosítás tartalmához nincs kötve, szabadon mérlegeli, hogy a döntéshozatal során figyelembe veszi-e azt. Az Elnök a teljes pályázati eljárás során jogosult a felvilágosítás-kérésre.
-
-43/E. § (1) Az Elnök az alakilag érvényes pályázati ajánlatot benyújtó jelentkezőket – a benyújtási határidő lejártától számított negyvenöt napon belül – hatósági nyilvántartásba veszi (a továbbiakban: pályázati nyilvántartás). A pályázati nyilvántartásba vételről az Elnök a résztvevővé vált jelentkezőket értesíti, és a pályázati nyilvántartásba vett résztvevők listáját a Hatóság honlapján közzéteszi.
-
-(2) A 43/C. § (2) bekezdés alapján alakilag érvénytelen pályázat esetén az Elnök a jelentkező pályázati nyilvántartásba vételét végzéssel megtagadja. A nyilvántartásba vételt megtagadó végzés megszünteti az eljárásban a jelentkező ügyféli minőségét. A pályázati nyilvántartásba vételt megtagadó végzés ellen – jogszabálysértésre hivatkozással – a végzés közlésétől számított nyolc napon belül felülvizsgálat kérhető a Fővárosi Közigazgatási és Munkaügyi Bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A Fővárosi Közigazgatási és Munkaügyi Bíróság végzése ellen fellebbezésnek helye nincs. A nemperes eljárás iránti kérelem benyújtása esetén az Elnök a pályázati eljárást – a bíróság jogerős döntéséig – felfüggeszti. Az Elnök eljárást felfüggesztő végzésével szemben önálló jogorvoslatnak helye nincs.
-
-(3) Amennyiben az Elnök az alaki érvénytelenségi okot a pályázati nyilvántartásba vételt követően, a pályázati ajánlat érdemi elbírálása során észleli, a pályázat alaki érvénytelenségét külön végzéssel nem állapítja meg, a pályázat érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
-
-43/F. § (1) A pályázati ajánlat tartalmi érvényességének vizsgálatakor az Elnök a pályázati nyilvántartásba vett résztvevő pályázati ajánlatát összességében és az egyes pályázati elemek tekintetében is értékeli, vizsgálja annak megalapozottságát.
-
-(2) Ha a pályázati ajánlat tartalmilag hiányos, az Elnök hiánypótlásra szólítja fel a résztvevőt. A hiánypótlás teljesítésére a kézbesítéstől számított tizenöt nap áll a résztvevő rendelkezésére. Amennyiben a résztvevő a hiányosságot a felhívásban megjelölt időtartamon belül megfelelően pótolja, a pályázatot úgy kell tekinteni, mintha már eredetileg is helyes és teljes körű lett volna. A hiánypótlás teljesítésére meghatározott határidő jogvesztő, a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. A pályázati ajánlat azon elemei tekintetében, amelyek a pályázati felhívás alapján értékelésre kerülnek, hiánypótlásnak nincs helye.
-
-(3) A pályázati ajánlat tartalmilag érvénytelen, amennyiben
-
-- a) a pályázati felhívás és a pályázati kiírási dokumentáció szerinti értékelési szempontként megjelölt vállalások körében érthetetlen vagy egymásnak ellentmondó vagy nyilvánvalóan lehetetlen vállalásokat, feltételeket tartalmaz, amelyek akadályozzák a pályázat érdemi értékelését,
-- b) a pályázati ajánlat az Elnök megítélése szerint lehetetlen, túlzottan magas vagy alacsony mértékű, illetőleg kirívóan aránytalan kötelezettségvállalást tartalmaz, illetve olyan nyilvánvalóan irracionális vagy megalapozatlan vállalásokat, feltételeket tartalmaz, amelyek ellentmondanak az Elnök rendelkezésére álló tényeknek, adatoknak, és ezáltal lehetetlenné teszik a pályázati kiírásban és a pályázati kiírási dokumentációban foglalt szempontrendszer szerinti értékelést,
-- c) a pályázati ajánlat megalapozatlansága miatt nem alkalmas az e törvényben, illetve a pályázati felhívásban és a pályázati kiírási dokumentációban meghatározott célok elérésére, megvalósítására, vagy
-- d) a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott tartalmi követelményeknek nem tesz eleget.
-
-(4) Az Elnök a pályázati ajánlat tartalmi érvénytelenségét külön végzéssel nem állapítja meg, a pályázati ajánlat tartalmi érvénytelenségét a pályázati eljárást lezáró döntésébe foglalja.
-
-43/G. § (1) A pályázati ajánlatok értékelésére a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott elvek és szempontok alapján kerül sor. Az értékelési szempontoknak mennyiségi vagy más módon értékelhető tényezőkön kell alapulniuk, a pályázat tárgyával, illetőleg a hatósági szerződés lényeges feltételeivel összhangban kell állniuk. Az egyes szempontok nem eredményezhetik a pályázati ajánlat ugyanazon tartalmi elemének többszöri értékelését.
-
-(2) Az Elnök a bírálati szempontokkal összefüggő ajánlati elemmel kapcsolatban a pályázati felhívásban, illetve a pályázati kiírási dokumentációban jogosult meghatározni olyan elvárást, amelynél kedvezőtlenebb az adott ajánlati elemnél nem lehet.
-
-(3) Az értékelés elveinek átláthatónak, megkülönböztetéstől mentesnek és arányosnak kell lenniük.
-
-(4) A pályázati ajánlatokat a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározottaktól eltérően értékelni nem lehet.
-
-43/H. § (1) Az Elnök végzéssel megszünteti a pályázati eljárást, amennyiben
-
-- a) a pályázati felhívásra nem érkezik pályázati ajánlat,
-- b) a pályázati eljárás a lefolytatása során felmerült körülmény, feltétel folytán okafogyottá válik, így különösen abban az esetben, ha a pályázati felhívást követően a hazai vagy a nemzetközi gazdálkodási környezet nagymértékben megváltozik, illetve a pályázati felhívás kiírásakor fennálló – gazdasági, jogi, frekvenciagazdálkodási, műsorterjesztési, médiaszolgáltatási iparági – körülmények, feltételek lényegesen megváltoznak,
-- c) az Elnök mérlegelése szerinti médiapolitikai szempontok, illetve az e törvényben vagy a pályázati kiírási dokumentációban rögzített alapelvek, célok a pályázati eljárás lefolytatásával nem biztosíthatóak, vagy
-- d) az Elnök a benyújtott pályázati ajánlatok és a rendelkezésre álló információk alapján megállapítja, hogy egyetlen résztvevő pályázati ajánlata sem felel meg az e törvényben foglalt céloknak és alapelveknek vagy a pályázati eljárásban résztvevő bármely résztvevő nyertessé nyilvánítása veszélyeztetné a frekvenciakészlettel, mint állami tulajdonnal való felelős, rendeltetésszerű, hatékony gazdálkodást.
-
-(2) Az Elnök az (1) bekezdés szerinti döntését a résztvevőkkel öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
-
-43/I. § (1) Az Elnök hatósági határozatban állapítja meg
-
-- a) a pályázati eljárás eredménytelen voltát, vagy
-- b) eredményesség esetén a pályázati eljárás nyertesét.
-
-(2) Eredménytelen a pályázati eljárás, amennyiben valamennyi benyújtott pályázati ajánlat alaki vagy tartalmi szempontból érvénytelen.
-
-(3) Nyertessé kizárólag olyan résztvevő nyilvánítható, amely a pályázati ajánlat benyújtásától kezdve folyamatosan megfelelt az e törvényben és a pályázati felhívásban, illetve a pályázati kiírási dokumentációban meghatározott részvételi feltételeknek.
-
-(4)–(7)
-
-43/J. § (1) Az Elnök a 43/I. § (1) bekezdés szerinti döntését a pályázati nyilvántartásban szereplő résztvevőkkel öt napon belül közli, valamint a pályázati felhívással azonos helyen és módon nyilvánosan közzéteszi.
-
-(2) Az Elnök a 43/I. § (1) bekezdésében meghatározott határozatának felülvizsgálatát az ügyfél, illetve a kifejezetten rá vonatkozó rendelkezés tekintetében az eljárás egyéb résztvevője, a határozat közlésétől számított tizenöt napon belül, jogszabálysértésre hivatkozással kérheti a Fővárosi Közigazgatási és Munkaügyi Bíróságtól.
-
-(3) Az Elnök a keresetlevelet – az ügy irataival és a nyilatkozatával együtt – annak beérkezésétől számított tizenöt napon belül továbbítja a Fővárosi Közigazgatási és Munkaügyi Bíróságnak. A bírósági felülvizsgálat iránti keresetet a bíróság a keresetlevél bírósághoz történő – Elnök általi – megküldésétől számított hatvan napon belül bírálja el és határozatát a kihirdetés napjáig írásba foglalja. A bíróság határozatával szemben fellebbezésnek, perújításnak nincs helye. A határozat felülvizsgálata iránti kérelem a határozat közlésétől számított tizenöt napon belül terjeszthető elő azzal, hogy a felülvizsgálati kérelem benyújtására meghatározott határidőn belül a felülvizsgálati kérelemnek a Fővárosi Közigazgatási és Munkaügyi Bírósághoz meg kell érkeznie. E határidő jogvesztő, melynek elmulasztása miatt igazolási kérelem előterjesztésének nincs helye. A Kúria a felülvizsgálati kérelmet hatvan napon belül bírálja el és határozatát e határidőn belül írásba foglalja. A Fővárosi Közigazgatási és Munkaügyi Bíróság, valamint a Kúria soron kívül jár el.
-
-(4)
-
-(5) A pályázati ajánlatban szereplő adatokról az Elnök a hatósági szerződés megkötéséig harmadik személynek nem adhat tájékoztatást.
-
-43/K. § (1) Az Elnök a 43/I. § (1) bekezdés b) pont szerinti határozattal nyertessé nyilvánított pályázó pályázati ajánlatával és a pályázati kiírási dokumentációval összhangban a nyertessé nyilvánított pályázóval hatósági szerződést köt. E hatósági eljárás ügyintézési határideje negyvenöt nap.
-
-(2) A nyertes pályázó a hatósági szerződés megkötése iránti eljárást a 43/I. § (1) bekezdés b) pont szerinti határozat közlését követő harminc napos jogvesztő határidőn belül kezdeményezheti. E határidő elmulasztása estén igazolási kérelem előterjesztésének nincs helye.
-
-(3) Amennyiben az (1) bekezdés szerinti hatósági eljárásban a pályázat nyertese nem vesz részt vagy a hatósági szerződés megkötését akadályozza, az (1) bekezdésben meghatározott ügyintézési határidőn túl a hatósági szerződés nem köthető meg, ez esetben az Elnök az eljárás megindításától számított negyvenötödik napon az eljárást megszünteti. Az eljárásban igazolási kérelemnek nincs helye.
-
-(4) Amennyiben a 43/J. § (2) bekezdés szerint a Fővárosi Közigazgatási és Munkaügyi Bíróság eljárását kezdeményezték, a hatósági szerződés a Fővárosi Közigazgatási és Munkaügyi Bíróság jogerős döntéséig nem köthető meg. A Fővárosi Közigazgatási és Munkaügyi Bíróság felülvizsgálati eljárásának időtartama a (2) bekezdés szerinti hatósági eljárás kezdeményezésére nyitva álló határidőbe, illetve az eljárás ügyintézési határidejébe nem számít bele.
-
-(5) Az Elnök a pályázati kiírási dokumentációban meghatározott mértékű bírságot szabhat ki, amennyiben a nyertes pályázó a pályázati ajánlatát visszavonja, vagy a hatósági szerződés megkötésére irányuló eljárást a (2) bekezdésben meghatározott határidőn belül nem kezdeményezi, illetve amennyiben a nyertes pályázó a hatósági szerződést nem köti meg.
-
-(6) Az Elnök a bírság kiszabása mellett a pályázati ajánlat visszavonásából, a hatósági szerződés megkötésének akadályozásából származó valamennyi költség viselésére, megfizetésére is kötelezheti a nyertes pályázót.
-
-(7) Amennyiben a hatósági szerződésben meghatározott időpontig a műsorszóró adó üzemeltetése megkezdésére, illetve az adón nyújtott műsorterjesztési szolgáltatás nyújtására – a nyertes pályázó érdekkörében felmerült ok miatt – nem kerül sor, az Elnök jogosult a hatósági szerződésben meghatározott jogkövetkezmények alkalmazásán túlmenően a hatósági szerződést azonnali hatállyal felmondani.
-
-43/L. § (1) Az Elnök hatósági ellenőrzés keretében ellenőrzi a 43/K. § alapján megkötött hatósági szerződésekben foglaltak teljesítését. Amennyiben az ellenőrzés eredményeként megállapítja a hatósági szerződésben foglaltak ügyfél általi megsértését, az ellenőrzés során feltárt tények, a szerződésszegés súlya, a hatékony jogérvényesítés, a szerződéssel érintett társadalmi, gazdasági és jogviszonyok, valamint a vonatkozó műsorterjesztési alkotmányos alapelvek és célok, továbbá a szerződés alapját képező közérdek hatékony érvényesülése szempontjából mérlegeli, hogy a döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az Eht. szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
-
-(2) Amennyiben az Elnök végrehajtási eljárást indít, akkor a végrehajtást elrendelő végzés felülvizsgálatát az ügyfél kérheti – jogszabálysértésre hivatkozással – a végzés közlésétől számított tizenöt napon belül a közigazgatási ügyekben eljáró bíróságtól. A bíróság az ügyben, szükség esetén a felek meghallgatása alapján, tizenöt napon belül nemperes eljárásban határoz. A nemperes eljárás iránti kérelem benyújtásának a végzés végrehajtására halasztó hatálya van.
-
-(3) Ha az Elnök az (1) bekezdés alkalmazásával az e törvény szerinti jogkövetkezmények alkalmazására irányuló eljárást indít, az eljárás megindításával szemben önálló jogorvoslatnak helye nincs.
-
-(4) A hatósági ellenőrzés eredményeként – az ügyfél szerződésszegése tárgyában – indított hatósági eljárásban az Elnök az Eht-ban, valamint a hatósági szerződésben meghatározott jogkövetkezményeket alkalmazhatja.
-
-(5) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében az Elnök jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
-
-(6) A hatósági szerződés módosítása vonatkozásában a bíróság előtt indított per nem befolyásolja a hatósági szerződés végrehajtását, érvényesítését, illetve nem rendelkezik halasztó hatállyal a hatósági szerződés végrehajtása, érvényesítése tekintetében.
+43/L. §
 
 43/M. § (1) Az Elnök meghatározott időszakra, de legfeljebb három évre közfeladat ellátása érdekében kivételesen pályázati eljárás nélkül is feljogosíthat valamely vállalkozást helyi vagy körzeti műsorterjesztési szolgáltatás nyújtását lehetővé tevő műsorszóró adó üzemeltetésére. E médiaszolgáltatási jogosultságra az Elnök hatósági szerződésben a jogosultság iránti kérelmet elsőként benyújtó természetes, jogi személyt, jogi személyiség nélküli gazdásági társaságot vagy egyéb szervezetet (e § alkalmazásában a továbbiakban: kérelmező) jogosíthatja fel, amennyiben a kérelem műszaki és frekvenciagazdálkodási szempontból megalapozott, továbbá a kérelmező a közfeladat ellátásához szükséges és a műsorszóró adó üzemeltetésére vonatkozó jogszabályi feltételeknek megfelel. A felek a hatósági szerződésben kötelesek meghatározni a műsorszóró adó üzemeltetésére vonatkozó feltételeket, ideértve az üzemeltetési jogosultságért fizetendő díj mértékét is.
 
@@ -637,61 +506,11 @@ a közönségarányát.
 
 (3) A közszolgálati médiaszolgáltatók médiaszolgáltatásait a digitális televízió műsorszóró hálózat üzemeltetője a legnagyobb lakossági eléréssel rendelkező hálózaton köteles terjeszteni.
 
-(4) Az Mttv. 74. § (1) bekezdésében meghatározott közszolgálati médiaszolgáltatások digitális vételének ingyenesen, illetve az Mttv. 74. § (1) bekezdése szerinti díjon történő biztosítása érdekében a digitális vevődekóderek állami támogatására, illetve a vevődekóderek – helyszínen történő – beszerelésére, telepítésére, valamint az ehhez szükséges eszközök állami támogatására versenysemleges módon, a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező rászoruló háztartások részére, indokolt esetben és mértékben, kérelem alapján, a Hatóság elnöke rendeletében meghatározott módon kerülhet sor. Az állami támogatás részletes szabályait a Hatóság elnöke rendeletben határozza meg.
+(4)
 
-(5) Az állami támogatásra jogosult felhasználók személyes megkeresését és tájékoztatását, illetve a támogatási igényre vonatkozó felmérést a Központi Statisztikai Hivatal (a továbbiakban: KSH) végzi, amennyiben a Hatóság a fenti feladatok ellátására a KSH-val együttműködési megállapodást köt. Az együttműködési megállapodás megkötése esetén abban részletesen szabályozni kell a KSH általi feladatellátás kereteit, illetve a KSH és a Hatóság közötti feladatmegosztást és a feladatok végrehajtása pénzügyi fedezetének átadását. Az együttműködési megállapodásban foglalt feladatok pénzügyi fedezetét a Hatóság a 45. §-ban meghatározott forrásokból biztosítja a KSH részére. Az együttműködési megállapodásban meghatározott feladatok ellátása érdekében a KSH megbízási szerződéseket köthet, célfeladatot tűzhet ki.
+(5)
 
-### Adatkezelés a vevőeszköz-támogatás érdekében
-
-44/A. § (1)
-
-(2) Az állami támogatásra való jogosultsággal összefüggő adatokat kezelő – a (3)–(6) bekezdés szerinti – állami, önkormányzati szerv a Hatóság megkeresésére 30 napon belül köteles adatot szolgáltatni a Hatóság részére. A megkeresés eljárási szabályait, az adatszolgáltatás teljesítésére vonatkozó rendelkezéseket a Hatóság elnöke – e törvény keretei között – az 53. § (2) bekezdésében foglalt felhatalmazás alapján kiadott rendeletében (e § alkalmazásában a továbbiakban: támogatási rendelet) határozza meg.
-
-(3) A Hatóság a közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében adható állami támogatás rendjét szabályozó rendeletben meghatározott szociális ellátásokban részesülő támogatást igénylő jogosultakra vonatkozóan a nyugdíjbiztosítási igazgatási szervtől, a kincstártól, a települési önkormányzat jegyzőjétől, a fővárosi főjegyzőtől, illetve a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától kérhet adatszolgáltatást, a támogatási jogosultságot megalapozó ellátások szerinti csoportosításban.
-
-(4) A nyugdíjbiztosítási igazgatási szervtől a Hatóság a társadalombiztosítási ellátásokkal összefüggésben
-
-- a) természetes személyazonosító adatokat,
-- b) a lakóhely (tartózkodási hely) adatait,
-- c) a rokkantság, egészségkárosodás tényére és erre tekintettel megállapított ellátásra vonatkozó adatokat, és
-- d) a keresetre, jövedelemre (nyugdíjra) vonatkozó adatokat
-
-igényelhet megkeresésében.
-
-(5) A kincstártól a Hatóság a családtámogatási és fogyatékossági ellátásokkal összefüggésben
-
-- a) természetes személyazonosító adatokat,
-- b) a lakóhely (tartózkodási hely) adatait,
-- c) a fogyatékosság tényére, erre tekintettel megállapított ellátásra (fogyatékossági támogatás, vakok személyi járadéka) vonatkozó adatokat, valamint
-- d) családtámogatási ellátásra vonatkozó adatokat
-
-igényelhet megkeresésében.
-
-(6) A települési önkormányzat jegyzőjétől, a fővárosi főjegyzőtől, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától a Hatóság a szociális ellátásokkal összefüggésben
-
-- a) természetes személyazonosító adatokat,
-- b) a lakóhely (tartózkodási hely) adatait, valamint
-- c) a szociális ellátásra vonatkozó adatokat
-
-igényelhet megkeresésében.
-
-(6a) A Hatóság a kizárólag analóg földfelszíni műsorszórási vétellel rendelkező háztartások azonosítása érdekében az elektronikus hírközlési szolgáltatókat az előfizetőik
-
-- a) természetes személyazonosító adatai,
-- b) lakóhely (tartózkodási hely) adatai, valamint
-- c) szolgáltatás telepítési helyével összefüggő adatai
-
-vonatkozásában adatszolgáltatásra kötelezheti.
-
-(7) Az adatkezelés során a Hatóság biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint amilyenben az átadó állami, önkormányzati szervnél részesülnek.
-
-(8) A Hatóság által az e § alapján kezelt adatokat kizárólag a Hatósággal közszolgálati jogviszonyban, illetve munkavégzésre irányuló egyéb jogviszonyban álló azon személy jogosult megismerni, aki a vevőeszköz-támogatási igénylés elbírálásával, a támogatás felhasználása jogszerűségének ellenőrzésével kapcsolatos feladatot lát el.
-
-(9) A Hatóság a vevőeszköz-támogatás ellenőrizhetősége és átláthatósága érdekében statisztikákat, összegzéseket, kimutatásokat készíthet a támogatásban részesülők köréről, a támogatás mértékéről. Ennek során a Hatóság biztosítja, hogy a kimutatásban személyes, illetve különleges adatok ne szerepeljenek.
-
-(10) A Hatóság az adatkezelésre a digitális átállással összefüggő állami vevőeszköz-támogatás igénylésére nyitva álló határidőt követően is, legfeljebb azonban a digitális átállást követő két évig jogosult. Ezt követően a Hatóság a részére átadott adatokat törli.
-
-(11) A Hatóság a támogatási jogosultsággal összefüggő, a (4) bekezdés a) és b) pontjában, az (5) bekezdés a) és b) pontjában, a (6) bekezdés a) és b) pontjában, valamint a (6a) bekezdés a), b) és c) pontjában meghatározott adatokat átadhatja a vevőeszköz-támogatás lebonyolítását végző szervezetnek, gazdasági társaságnak, amelynek keretében a Hatóság az átadott adatoknak legalább olyan védelmét biztosítja, mint amilyenben a Hatóságnál, illetve az átadó állami, önkormányzati szervnél részesülnek.
+44/A. §
 
 ### A digitális átállás forrásai
 
@@ -745,7 +564,7 @@ vonatkozásában adatszolgáltatásra kötelezheti.
 
 ### Átmeneti rendelkezések
 
-48. § 2013. január 1-jéig a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala vonatkozásában a 44/A. § (1), (3) és (6) bekezdés rendelkezéseit nem kell alkalmazni.
+48. §
 
 49. § E törvénynek a helyi és körzeti televíziók digitális átállásának biztosítása érdekében szükséges és egyes hírközléssel összefüggő törvénymódosításokról szóló 2013. évi CXXI. törvénnyel megállapított rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 

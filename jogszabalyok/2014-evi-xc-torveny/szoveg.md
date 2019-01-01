@@ -46,9 +46,11 @@ Az Országgyűlés, Magyarország globális kihívások iránti elkötelezettsé
 
 (4) A nemzetközi fejlesztési együttműködési tevékenység pénzbeli és tárgyi támogatás, így különösen adományozó levél útján nyújtott adomány, technikai segítségnyújtás, valamint a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvényben meghatározott eszközök útján valósul meg.
 
-9. § (1) A nemzetközi humanitárius segítségnyújtás kormányzati koordinációját a külpolitikáért felelős miniszter látja el. Ennek során kiemelt figyelmet fordít a Kormány által elfogadott nemzetközi humanitárius segítségnyújtási stratégiák és szakpolitikai koncepciók megvalósítására.
+9. § (1) A nemzetközi humanitárius segítségnyújtás kormányzati koordinációját a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős látja el. Ennek során kiemelt figyelmet fordít a Kormány által elfogadott nemzetközi humanitárius segítségnyújtási stratégiák és szakpolitikai koncepciók megvalósítására.
 
-(2) A nemzetközi humanitárius segítségnyújtási felajánlással kapcsolatos döntéseket a külpolitikáért felelős miniszter hozza meg, figyelembe véve a nemzetközi szervezetek, valamint a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalom által készített felhívásokat.
+(2) A nemzetközi humanitárius segítségnyújtási felajánlással kapcsolatos döntéseket a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős hozza meg, figyelembe véve a nemzetközi szervezetek, valamint a Nemzetközi Vöröskereszt és Vörösfélhold Mozgalom által készített felhívásokat.
+
+(2a) Az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás kormányzati koordinációja keretében folytatott tevékenységéről és a nemzetközi humanitárius segítségnyújtási felajánlással kapcsolatos döntéseiről folyamatosan tájékoztatja a külpolitikáért felelős minisztert.
 
 (3) A nemzetközi humanitárius segítségnyújtás pénzbeli és tárgyi támogatás, így különösen segély, adomány révén egyaránt megvalósulhat.
 
@@ -62,27 +64,27 @@ Az Országgyűlés, Magyarország globális kihívások iránti elkötelezettsé
 - f) Nemzetközi Vöröskereszt és Vörösfélhold Mozgalom, illetve nemzeti szervezetei,
 - g) gazdasági szereplők.
 
-(2) Nemzetközi katasztrófa-segítségkérés esetén a katasztrófák elleni védekezésért felelős miniszter a külpolitikáért felelős miniszterrel együttműködve biztosítja a nemzetközi humanitárius segítségnyújtással való összhang megteremtését.
+(2) Nemzetközi katasztrófa-segítségkérés esetén a katasztrófák elleni védekezésért felelős miniszter a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszterrel együttműködve biztosítja a nemzetközi humanitárius segítségnyújtással való összhang megteremtését.
 
 11. § (1) A Kormány a nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység koordinációja és a szakpolitikák fejlesztési célú összhangja érdekében tárcaközi bizottságot működtet.
 
-(2) A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység hatékonyságának növelése érdekében a projektalapú tevékenység ellátását elősegítő ügynökséget működtet.
+(2) A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködési, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtási tevékenység hatékonyságának növelése érdekében a projektalapú tevékenység ellátását elősegítő ügynökséget működtet.
 
 11/A. § Magyarország nemzetközi fejlesztési együttműködését és nemzetközi humanitárius segítségnyújtását nemzetközi szervezetek és nemzetközi fejlesztési célú alapok részére teljesített tagdíjak és önkéntes hozzájárulások útján is megvalósíthatja.
 
 #### 4. Nemzetközi fejlesztési tudatosság növelése
 
-12. § A külpolitikáért felelős miniszter és az oktatásért felelős miniszter együttműködik a nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység hazai társadalmi támogatottságának növelésében, és ennek részeként a fiatal generáció szemléletformálásában, az önkéntesség szerepének erősítésében és a globális felelősségvállalásra nevelés előmozdításában.
+12. § A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködés, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás vonatkozásában az oktatásért felelős miniszterrel együttműködnek e tevékenységek hazai társadalmi támogatottságának növelése érdekében, és ennek részeként a fiatal generáció szemléletformálásában, az önkéntesség szerepének erősítésében és a globális felelősségvállalásra nevelés előmozdításában.
 
 #### 5. Finanszírozás
 
-13. § A nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység költségigényét Magyarország nemzetközi és európai uniós vállalásainak figyelembe vételével a külpolitikáért felelős miniszter terjeszti elő.
+13. § A nemzetközi fejlesztési együttműködés költségigényét a külpolitikáért felelős miniszter, a nemzetközi humanitárius segítségnyújtási tevékenység költségigényét az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter terjeszti elő Magyarország nemzetközi és európai uniós vállalásainak figyelembe vételével.
 
 #### 6. Átláthatóság
 
-14. § A költségvetési támogatással megvalósuló nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenységekről a külpolitikáért felelős miniszter nyilvánosan hozzáférhető adatbázist vezet.
+14. § A költségvetési támogatással megvalósuló nemzetközi fejlesztési együttműködési tevékenységekről a külpolitikáért felelős miniszter, a nemzetközi humanitárius segítségnyújtási tevékenységekről az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter nyilvánosan hozzáférhető adatbázist vezet.
 
-15. § A külpolitikáért felelős miniszter minden év október 31-ig jelentést készít a Kormány részére az előző évi nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenységről. A jelentést, annak Kormány általi elfogadását követően, a külpolitikáért felelős miniszter az általa vezetett minisztérium honlapján nyilvánosságra hozza.
+15. § A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködés, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás vonatkozásában minden év október 31-ig jelentést készít a Kormány részére az előző évi tevékenységről. A jelentést, annak Kormány általi elfogadását követően, a külpolitikáért felelős miniszter, illetve a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter az általa vezetett minisztérium honlapján nyilvánosságra hozza.
 
 #### 6/A. Előminősített civil szervezetek
 
@@ -99,30 +101,36 @@ Az Országgyűlés, Magyarország globális kihívások iránti elkötelezettsé
   - fa) a hatóköre nemzetközi,
   - fb) a célja és a cél szerinti besorolása nemzetközi tevékenység.
 
-15/C. § (1) Az a nemzetközi humanitárius segítségnyújtási tevékenységet végző civil szervezet, amely előminősített civil szervezet kíván lenni, erre vonatkozó szándéknyilatkozatot nyújthat be a külpolitikáért felelős miniszter részére.
+15/C. § (1) Az a nemzetközi humanitárius segítségnyújtási tevékenységet végző civil szervezet, amely előminősített civil szervezet kíván lenni, erre vonatkozó szándéknyilatkozatot nyújthat be a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős részére.
 
-(2) Az előminősítő rendszerről szóló miniszteri rendelet szerinti szempontok és eljárás alapján előminősített civil szervezet részére a külpolitikáért felelős miniszter minősítő levelet ad át.
+(2) Az előminősítő rendszerről szóló miniszteri rendelet szerinti szempontok és eljárás alapján előminősített civil szervezet részére a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős minősítő levelet ad át.
 
-(3) Az előminősített civil szervezet vezető tisztségviselője haladéktalanul köteles bejelenteni a külpolitikáért felelős miniszternek, ha a szervezet nemzetközi humanitárius segítségnyújtási tevékenységével felhagy vagy nem felel meg a 15/B. §-ban foglalt feltételeknek.
+(3) Az előminősített civil szervezet vezető tisztségviselője haladéktalanul köteles bejelenteni a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszternek, ha a szervezet nemzetközi humanitárius segítségnyújtási tevékenységével felhagy vagy nem felel meg a 15/B. §-ban foglalt feltételeknek.
 
-(4) A 15/B. § szerinti feltételek fennállását a külpolitikáért felelős miniszter rendszeresen megvizsgálja, és ha a szervezet nem felel meg azoknak, valamint a (3) bekezdés szerinti bejelentés esetében a minősítő levelet visszavonja.
+(4) A 15/B. § szerinti feltételek fennállását a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős rendszeresen megvizsgálja, és ha a szervezet nem felel meg azoknak, valamint a (3) bekezdés szerinti bejelentés esetében a minősítő levelet visszavonja.
 
 #### 7. Záró rendelkezések
 
 16. § (1) Felhatalmazást kap a Kormány, hogy
 
 - a) a nemzetközi fejlesztési együttműködés végrehajtásában résztvevő ügynökség feladatait ellátó szervezetet kijelölje,
-- b) az e törvény hatálya alá tartozó támogatások a Hungary Helps Program keretében való egységes arculattal történő nyújtásához szükséges részletes szabályokat megállapítsa.
+- b)
 
 (2) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy feladatkörében:
 
-- a) a nemzetközi fejlesztési együttműködési és a nemzetközi humanitárius segítségnyújtási tevékenység formáit,
+- a) a nemzetközi fejlesztési együttműködési tevékenység formáit,
+- b) a 14. § szerinti adatbázis vezetésének részletes szabályait és az adatbázis tartalmát,
+- c)
+
+rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter, hogy feladatkörében:
+
+- a) a nemzetközi humanitárius segítségnyújtási tevékenység formáit,
 - b) a 14. § szerinti adatbázis vezetésének részletes szabályait és az adatbázis tartalmát,
 - c) a nemzetközi humanitárius segítségnyújtás végrehajtásában közreműködő civil szervezetek előminősítésének eljárását, valamint az előminősített civil szervezetek nemzetközi humanitárius segítségnyújtásban történő részvételének szabályait
 
 rendeletben állapítsa meg.
-
-(3) Felhatalmazást kap az általános politikai koordinációért felelős miniszter, hogy a külpolitikáért felelős miniszterrel egyetértésben a 16. § (1) bekezdés b) pontja szerinti rendelettel összefüggő arculati kézikönyv tartalmát rendeletben állapítsa meg.
 
 17. § (1) A nemzetközi fejlesztési együttműködéshez és nemzetközi humanitárius segítségnyújtáshoz nyújtott költségvetési támogatás vonatkozásában
 

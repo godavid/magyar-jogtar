@@ -20,7 +20,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 
 2. § (1) Az Akadémia az e törvényben meghatározott feladatainak ellátása céljából közfinanszírozású kutatóhálózatot, kiszolgáló és egyéb intézményeket létesít és működtet, amelyek felett irányítási jogot gyakorol, valamint – a 23. § (6) bekezdésében foglaltak szerint – gazdasági társaságokat létesíthet, amelyek tulajdonosi jogát gyakorolja. Az Akadémia a tudományért, művészetért tevékenykedő más szervezeteket is támogathat.
 
-(2) Az Akadémia a központi költségvetésben önálló fejezetet alkot, amely tartalmazza az Akadémia mint köztestület által – nem gazdasági társaságként – működtetett szervezetek költségvetését is.
+(2) Az Akadémia a központi költségvetésben önálló fejezetet alkot.
 
 (3) Az Akadémia esetében a köztestületekre vonatkozó szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -344,7 +344,7 @@ Ennek érdekében az Országgyűlés a következő törvényt alkotja:
 - d) a területi akadémiai bizottságok titkárságai;
 - e) a jóléti szervezetek.
 
-(2) Az akadémiai költségvetési szervek részt vesznek az Akadémia törvényben foglalt közfeladatainak ellátásában. Ezek finanszírozásának forrásai a költségvetési támogatás, más államháztartási források és saját bevételeik.
+(2) Az akadémiai költségvetési szervek részt vesznek az Akadémia törvényben foglalt közfeladatainak ellátásában. Ezek finanszírozásának forrásai a költségvetési támogatás, más államháztartási források és saját bevételeik. Az akadémiai költségvetési szervek kutatási feladatait támogató tevékenységek tárgyi és személyi feltételeinek megteremtéséhez, a speciális kutatási feltételek biztosításához a kormányzati tudománypolitikáért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít költségvetési támogatást.
 
 (3) A kutatóhálózaton belül a kutatóintézetek, a kutatóközpontok és a TKI éves költségvetési támogatása tartalmazza:
 
@@ -363,7 +363,7 @@ a közfeladatokkal arányosan – jogszabályban meghatározott feltételek szer
 
 (5) Az alapellátási támogatás kutatóintézetekre együttesen meghatározott összege a kutatóintézeti kört érintő közfeladatok mennyiségének változásával együtt módosítandó.
 
-(6) Az alapellátási támogatást módosítani kell az éves átlagos infláció mértékének megfelelően is, amennyiben ezt az Akadémia éves költségvetési támogatásának növekedése lehetővé teszi.
+(6) Az alapellátási támogatást módosítani kell az éves átlagos infláció mértékének megfelelően is, amennyiben ezt a költségvetési támogatás növekedése lehetővé teszi.
 
 (7) A kutatóközpont és a kutatóintézet szellemi és anyagi kapacitásával végzett tevékenységének bevételei a kutatóhely működésének és fejlesztésének forrását képezik.
 

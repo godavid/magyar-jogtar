@@ -40,7 +40,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 4. § (1) A külföldi bizonyítványok és oklevelek elismerésével, valamint a hazai bizonyítványokról, oklevelekről és a hazai szakmai gyakorlatról szóló hatósági bizonyítványok kiállításával kapcsolatos, e törvényben meghatározott feladatok ellátása, ha e törvény másként nem rendelkezik, a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság hatáskörébe tartozik.
 
-(2) A külföldi bizonyítványok és oklevelek által tanúsított végzettségi szint e törvény II. fejezete szerinti elismerése, ha az oktatási intézményben történő továbbtanulás céljából történik, azon oktatási intézmény hatáskörébe tartozik, amelyben a kérelmező tanulmányait folytatni szándékozik.
+(2) A külföldi bizonyítványok és oklevelek által tanúsított végzettségi szintnek, szakképesítésnek, illetve szakképzettségnek a II. Fejezet, IV. Fejezet, valamint V. Fejezet szerinti elismerése, ha az oktatási intézményben történő továbbtanulás céljából történik, azon oktatási intézmény hatáskörébe tartozik, amelyben a kérelmező tanulmányait folytatni szándékozik.
 
 (3) A külföldi oklevelek által tanúsított tudományos fokozat e törvény III. Fejezete szerinti honosítása azon hazai felsőoktatási intézmény feladata, amely a felsőoktatásról szóló törvény (a továbbiakban: Ftv.) szerint a külföldi oklevélnek megfelelő tudományágban vagy művészeti ágban doktori fokozat odaítélésére jogosult.
 
@@ -61,7 +61,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 4/A. § (1) A Harmadik részben foglalt rendelkezések végrehajtása érdekében segítségnyújtó központ működik, amelynek feladatai:
 
 - a) a magyar állampolgároknak, a velük azonos megítélés alá eső személyeknek, továbbá a tagállamok állampolgárainak, valamint az azzal azonos megítélés alá eső személyeknek és más tagállamok információs szolgálatainak a tájékoztatása a Harmadik részben foglalt rendelkezések végrehajtása érdekében, így tájékoztatás a szakmákat és e szakmák gyakorlását szabályozó nemzeti jogszabályi rendelkezésekről, közöttük a szociális rendelkezésekről és adott esetben az etikai szabályokról, és
-- b) a magyar állampolgároknak, a velük azonos megítélés alá eső személyeknek, továbbá a tagállamok állampolgárainak, valamint az azzal azonos megítélés alá eső személyeknek a segítése a Harmadik részben foglalt jogok érvényesítésében,
+- b) a magyar állampolgároknak, a velük azonos megítélés alá eső személyeknek, továbbá a tagállamok állampolgárainak, valamint az azzal azonos megítélés alá eső személyeknek a segítése a Harmadik részben foglalt jogok érvényesítésében, szükség szerint együttműködve a származási tagállam segítségnyújtó központjával, az eljáró hatóságokkal és a kormányablakkal,
 - c) együttműködés más tagállamok segítségnyújtó központjaival, és kérésükre tájékoztatás adása.
 
 (2) Az Európai Bizottság megkeresésére az segítségnyújtó központ a megkeresés kézhezvételétől számított két hónapon belül tájékoztatja az Európai Bizottságot annak a tevékenységének az eredményéről, amelyet az (1) bekezdés b) pontjának rendelkezései alapján folytat.
@@ -111,7 +111,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (6) Ha a kérelmező európai szakmai kártya igénybevételével kéri a képesítése VIII–IX/B. Fejezet szerinti elismerését, az eljáró hatóság a (2) bekezdéstől eltérően a kérelem megérkezését követő naptól számított huszonegy napon belül dönt.
 
-(7)
+(7) Az eljáró hatóság az (5) és a (6) bekezdésben foglalt határidőt két héttel meghosszabbíthatja, azzal, hogy a meghosszabbítás okát meg kell indokolnia. A közegészséget vagy a szolgáltatás igénybe vevőjének biztonságát érintő esetben az eljáró hatóság a határidőt további két héttel meghosszabbíthatja.
 
 10. §
 
@@ -416,6 +416,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (26) Közös alkalmassági vizsgának minősül az az egységesített alkalmassági vizsga, amelyet meghatározott szakmai képesítéssel rendelkezők tehetnek le az azt bevezető tagállamokban.
 
+(27) A szakma gyakorlásától eltiltó döntésnek minősül a szakma gyakorlásától, foglalkoztatástól, tevékenységtől eltiltó és a szakma gyakorlását, foglalkoztatást, tevékenységet korlátozó döntés.
+
 ### VII. Fejezet — A KÉPZÉS SIKERES ELVÉGZÉSÉT TANÚSÍTÓ OKIRATOK ELISMERÉSÉNEK ÁLTALÁNOS RENDSZERE
 
 29. § (1) E fejezet rendelkezéseit kell alkalmazni, ha a kérelmező akár önálló vállalkozóként, akár foglalkoztatottként, szakmai képesítés birtoklásához kötött szabályozott szakmát szándékozik gyakorolni Magyarországon, és az elismerés nem tartozik e törvény VIII. vagy IX. Fejezetének hatálya alá.
@@ -466,7 +468,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 ### VII/A. Fejezet — A SZAKMA RÉSZLEGES GYAKORLÁSA
 
-32. § (1) Az eljáró hatóság a kérelmező részére a szabályozott szakma részleges gyakorlását engedélyezi, ha
+32. § (1) Az eljáró hatóság eseti alapon történő mérlegelés alapján a kérelmező részére a szabályozott szakma részleges gyakorlását engedélyezi, ha
 
 - a) a kérelmező a származási tagállamban teljes körűen képesített szakember annak a szakmai tevékenységnek a gyakorlására, amelynek hazai gyakorlására irányuló, e fejezet szerinti kérelmet nyújtott be,
 - b) a származási tagállamban jogszerűen folytatott szakmai tevékenység és a hazai szabályozott szakma közötti lényeges eltérés miatt előírni szükséges alkalmassági vizsga vagy alkalmazkodási időszak teljesítése lényegében olyan terhet róna a kérelmezőre, mintha teljes egészében el kellene végeznie azt a hazai oktatási és képzési programot, amely a szabályozott szakma gyakorlásának feltétele, és
@@ -482,7 +484,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (6) Ha a kérelmező számára a szakma részleges gyakorlását engedélyezték, a szakmai tevékenységet a származási tagállamban szerzett szakmai címével folytatja. Az eljáró hatóság előírhatja, hogy a kérelmező a szakmai tevékenységet a származási tagállamban használatos szakmai cím magyar fordításával folytassa. Ha a kérelmező részére a szakma részleges gyakorlását engedélyezték, a kérelmezőnek az általa nyújtott szolgáltatás igénybevevőjét egyértelműen tájékoztatnia kell arról, hogy milyen szakmai tevékenységi körre kapott engedélyt.
 
-(7) E fejezet rendelkezései nem alkalmazandók azokra a szakmákra és szakmai tevékenységekre, amelyek a VIII., IX. és a IX/A. Fejezet hatálya alá tartoznak.
+(7) E fejezet rendelkezései nem alkalmazandók azokra a kérelmezőkre, akik jogosultak szakmai képesítésüknek a VIII., a IX. és a IX/A. Fejezet szerinti elismerésére.
 
 ### VII/B. Fejezet — A SZAKMAI GYAKORNOKI IDŐSZAK ELISMERÉSE
 
@@ -695,9 +697,30 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 (5) A riasztási mechanizmusban közreműködő hatóság a (3) bekezdés szerinti adatok megadásával a belső piaci információs rendszeren keresztül a többi tagállam illetékes hatóságát haladéktalanul tájékoztatja arról, ha a szakma gyakorlásától eltiltó vagy a szakmagyakorlási jogot felfüggesztő döntés időtartama letelt, vagy ha a felfüggesztő döntés időtartama megváltozott.
 
-(6) Az ebben a szakaszban szabályozott riasztás fellebbezésre tekintet nélkül végrehajtható határozatnak minősül. A határozatot a riasztási mechanizmusban közreműködő hatóság a (3) bekezdés szerinti tartalommal és a riasztásról szóló tájékoztatás megadásával megegyező időpontban írásban közli azzal a személlyel, akit a szakma gyakorlásától eltiltottak, vagy akinek a szakmagyakorlási jogát felfüggesztették. A fellebbezés tényéről a riasztási mechanizmusban közreműködő hatóság a fellebbezés kézhezvételét követő három napon belül tájékoztatást ad a belső piaci információs rendszeren keresztül a többi tagállam illetékes hatóságának.
+(6) Az ebben a szakaszban szabályozott riasztás ellen a 11. § szerinti hatósághoz fellebbezés nyújtható be. A határozatot a riasztási mechanizmusban közreműködő hatóság a (3) bekezdés szerinti tartalommal és a riasztásról szóló tájékoztatás megadásával megegyező időpontban írásban közli azzal a személlyel, akit a szakma gyakorlásától eltiltottak vagy akinek a szakmagyakorlási jogát felfüggesztették. A fellebbezés tényéről a riasztási mechanizmusban közreműködő hatóság a fellebbezés kézhezvételét követő három napon belül tájékoztatást ad a belső piaci információs rendszeren keresztül a többi tagállam illetékes hatóságának.
 
-56–60. §
+(7) A riasztási mechanizmusban közreműködő hatóság a szakma gyakorlásától eltiltó vagy a szakmagyakorlást felfüggesztő döntés visszavonásának hatálybalépését vagy az ilyen döntés időbeli hatályának leteltét követő három napon belül az (1) bekezdés szerint nyújtott tájékoztatást visszavonja.
+
+56. § (1) A riasztási mechanizmusban közreműködő hatóság az 55. § szerinti feladatai ellátása céljából a riasztási mechanizmusban érintett személy alábbi adatait kezeli:
+
+- a) családi és utónevét,
+- b) születési családi és utónevét,
+- c) anyja születési családi és utónevét,
+- d) születési helyét és idejét,
+- e) a szakma gyakorlásától eltiltás, valamint a felfüggesztés tényét, megnevezését, leteltének várható napját,
+- f) a közokirat-hamisítással érintett okirat adatait, és
+- g) a döntést meghozó hatóság vagy bíróság adatait.
+
+(2) Az (1) bekezdés szerinti adatokat a riasztási mechanizmusban közreműködő hatóság
+
+- a) a szakma gyakorlásától eltiltás, felfüggesztés leteltéig, de legfeljebb a riasztási mechanizmus szerinti bejelentésig,
+- b) a közokirat-hamisítás bejelentéséig
+
+kezeli.
+
+(3) A riasztási mechanizmusban közreműködő hatóság jogosult az általa az (1) bekezdés szerint kezelt, a büntetőeljárásban kiszabott foglalkozástól eltiltás várható leteltének napjára vonatkozó adat ellenőrzése céljából a bűnügyi nyilvántartási rendszerből való adatigénylésre.
+
+57–60. §
 
 ## NEGYEDIK RÉSZ — A HAZAI BIZONYÍTVÁNYOKRÓL, OKLEVELEKRŐL ÉS A HAZAI SZAKMAI GYAKORLATRÓL SZÓLÓ HATÓSÁGI BIZONYÍTVÁNY, AZ EURÓPAI SZAKMAI KÁRTYA, A TÁJÉKOZTATÁS, A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉSEK
 
@@ -817,7 +840,7 @@ akkor az eljáró hatóság az igazolásban foglalt korlátozásoknak megfelelő
 
 (2) Nem kell a kérelmezőnek eljárási díjat fizetnie, ha az európai szakmai kártya birtokosaként a belső piaci információs rendszerben tárolt adatainak kijavítását, kiegészítését, törlését vagy zárolását kéri az eljáró hatóságtól.
 
-(3)
+(3) Nem kell a kérelmezőnek eljárási díjat fizetnie, ha a bizonyítványa vagy oklevele elismerését felsőoktatási intézményben történő továbbtanulási céllal kérelmezi.
 
 (3a)
 

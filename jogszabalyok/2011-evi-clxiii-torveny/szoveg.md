@@ -4,23 +4,25 @@ az ügyészségről
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
-1. § (1) Az ügyészség az igazságszolgáltatás közreműködőjeként érvényesíti az állam büntetőigényét a büntetőeljárásról szóló törvényben meghatározott feltételek szerint; irányítja, felügyeli, illetve elvégzi a vádat előkészítő nyomozási eljárást, képviseli a közvádat a bírósági eljárásban, felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett.
+1. § (1) Az ügyészség az igazságszolgáltatás közreműködőjeként a büntetőeljárásról szóló törvényben meghatározott feltételek szerint érvényesíti az állam büntetőigényét, felügyeli és végzi az előkészítő eljárást, irányítja, felügyeli, illetve végzi a nyomozást, képviseli a közvádat a bírósági eljárásban, valamint felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett.
 
 (2) Az ügyészség a közérdek védelme érdekében közreműködik annak biztosításában, hogy mindenki betartsa a törvényeket. A jogszabályok megsértése esetén – törvényben meghatározott esetekben és módon – fellép a törvényesség érdekében. Ha törvény másként nem rendelkezik, fellépésre akkor köteles, ha a törvénysértés megszüntetésére hivatott szerv az Alaptörvényben, valamint törvényben és más jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott kötelezettsége ellenére a szükséges intézkedést nem teszi meg, vagy ha a törvénysértésből eredő jogsérelem elhárítása érdekében azonnali ügyészi intézkedésre van szükség.
 
-2. § (1) Az 1. §-ban megjelölt feladatok teljesítése érdekében az ügyészség
+2. § (1) Az 1. § szerinti feladatok teljesítése érdekében az ügyészség
 
-- a) a büntetőeljárásról szóló törvényben (a továbbiakban: büntetőeljárási törvény) meghatározott ügyekben nyomoz (ügyészségi nyomozás);
-- b) felügyel arra, hogy a nyomozó hatóság az önállóan végzett nyomozást a törvény rendelkezéseit megtartva végezze (nyomozás feletti felügyelet);
-- c) törvényben meghatározott egyéb jogokat gyakorol a nyomozással összefüggésben;
-- d) közvádlóként gyakorolja a vádemelés közhatalmi jogkörét; a bírósági eljárásban képviseli a vádat, továbbá gyakorolja a büntetőeljárási törvényben számára biztosított jogorvoslati jogokat;
-- e) törvényességi felügyeletet lát el a büntetések, a mellékbüntetések, az intézkedések, a személyi szabadságot elvonó és azt korlátozó eljárási kényszerintézkedések, az utógondozás, valamint a bűnügyi, a szabálysértési, a körözési nyilvántartás és a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, továbbá közreműködik a büntetés-végrehajtási bíró eljárásában;
-- f) közreműködik abban, hogy a bírósági eljárásban a törvényeket helyesen alkalmazzák (az ügyész részvétele a bíróságok polgári, munkaügyi, közigazgatási és gazdasági jogi peres és nemperes eljárásaiban);
-- g) elősegíti, hogy a hatósági jogkört gyakorló, illetve bíróságon kívüli jogvitát intéző szervek a jogszabályok rendelkezéseit megtartsák;
-- h) kiemelt figyelmet fordít a kiskorúak által és sérelmükre elkövetett bűncselekmények üldözésére, a fiatalkorúak ellen indult szabálysértési és büntetőeljárás különös szabályainak betartására; törvényben meghatározott esetekben közreműködik a kiskorúak jogainak érvényre juttatásában és eljárást kezdeményez a szükséges gyermekvédelmi intézkedések megtétele érdekében;
-- i) ellátja a nemzetközi szerződésekből, különösen a jogsegély kérésével és nyújtásával összefüggésben rá háruló feladatokat;
-- j) teljesíti Magyarországnak az Eurojustban való részvételével kapcsolatos feladatokat;
-- k) ellátja a tevékenysége körében okozott jogsértések és károk megtérítése miatt indított perekben való képviseletet.
+- a) a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárást folytat, illetve felügyeli más szerv előkészítő eljárásának törvényességét,
+- b) felügyeli, hogy a nyomozó hatóság a felderítést a törvény rendelkezéseit megtartva végezze, továbbá irányítja a vizsgálatot,
+- c) a büntetőeljárásról szóló törvényben meghatározott esetekben nyomoz (a továbbiakban: ügyészségi nyomozás),
+- d) jogszabályban meghatározott egyéb jogokat gyakorol a nyomozással összefüggésben,
+- e) közvádlóként gyakorolja a vádemelés közhatalmi jogkörét, a bírósági eljárásban képviseli a vádat, továbbá gyakorolja a büntetőeljárásról szóló törvényben számára biztosított jogorvoslati jogokat,
+- f) e törvény alapján titkos információgyűjtést folytat,
+- g) törvényességi felügyeletet lát el a büntetések, a mellékbüntetések, az intézkedések, a személyi szabadságot érintő kényszerintézkedések, az utógondozás, valamint különösen a bűnügyi, a szabálysértési, a körözési nyilvántartás és a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának végrehajtásáról szóló jogszabályi rendelkezések megtartása felett, továbbá közreműködik a büntetés-végrehajtási bíró eljárásában,
+- h) közreműködik abban, hogy a bírósági eljárásban a törvényeket helyesen alkalmazzák (az ügyész részvétele a bíróságok polgári, munkaügyi, közigazgatási és gazdasági jogi peres és nemperes eljárásaiban),
+- i) elősegíti, hogy a hatósági jogkört gyakorló, illetve – a bíróságok és a választottbíróságok kivételével – a jogvitát elbíráló szervek a jogszabályok rendelkezéseit megtartsák,
+- j) kiemelt figyelmet fordít a kiskorúak által és sérelmükre elkövetett bűncselekmények üldözésére, a fiatalkorúak ellen indult szabálysértési és büntetőeljárás különös szabályainak betartására, törvényben meghatározott esetekben közreműködik a kiskorúak jogainak érvényre juttatásában és eljárást kezdeményez a szükséges gyermekvédelmi intézkedések megtétele érdekében,
+- k) ellátja a nemzetközi szerződésekből, különösen a jogsegély kérésével és nyújtásával összefüggésben rá háruló feladatokat,
+- l) teljesíti Magyarországnak az Eurojustban való részvételével kapcsolatos feladatokat,
+- m) ellátja a tevékenysége körében okozott jogsértések és károk megtérítése miatt indított perekben való képviseletet.
 
 (2) A törvényben meghatározott feladatokat a legfőbb ügyész közvetlenül vagy az illetékes ügyész útján látja el.
 
@@ -42,13 +44,13 @@ az ügyészségről
 
 (2) Ha törvény az ügyésznek utasítási jogkört biztosít, az utasított szervek az utasításnak kötelesek eleget tenni.
 
-(3) Az ügyész feladat- és hatásköreinek ellátása során a bíróságok és más bíróságon kívüli jogalkalmazó szervek eljárásaiban keletkezett iratokba, az általuk vezetett nyilvántartásokba korlátozás nélkül betekinthet, az iratokból másolatot, a nyilvántartásokból adatszolgáltatást kérhet. Adatok és iratok szolgáltatása érdekében az ügyész más közhatalmat gyakorló szerveket, gazdálkodó és más szervezeteket megkereshet. A megkeresett szerv vezetője a megkeresésnek az ügyész által megjelölt határidőben köteles eleget tenni. Adatok és iratok büntetőeljárás során történő beszerzésére a büntetőeljárási törvény rendelkezései az irányadók.
+(3) Az ügyész feladat- és hatásköreinek ellátása során a bíróságok és más bíróságon kívüli jogalkalmazó szervek eljárásaiban keletkezett iratokba, az általuk vezetett nyilvántartásokba korlátozás nélkül betekinthet, az iratokból másolatot, a nyilvántartásokból adatszolgáltatást kérhet. Adatok és iratok szolgáltatása érdekében az ügyész más közhatalmat gyakorló szerveket, gazdálkodó és más szervezeteket megkereshet. A megkeresett szerv vezetője a megkeresésnek az ügyész által megjelölt határidőben köteles eleget tenni. Adatok és iratok büntetőeljárás során történő beszerzésére a büntetőeljárásról szóló törvény rendelkezései az irányadók.
 
 (4) Az ügyész eljárása során az eljárással érintett szerv, személy rendelkezése alatt álló területre, helyiségbe – ha törvény vagy törvény felhatalmazása alapján jogszabály másként nem rendelkezik – igazolványa felmutatásával beléphet.
 
 (5) Az ügyész szakértőt vehet igénybe, ha különleges szakértelemre is szükség van az ügy megítélése szempontjából bizonyítandó tény megállapításához.
 
-5. § (1) Az ügyész a tudomására jutott jogsértés vagy jogszabálysértő mulasztás miatt jogszabályban megállapított feltételek fennállása esetén büntető, fegyelmi, szabálysértési, illetve hatósági eljárást, büntetés-végrehajtási ügyekben kártérítési, illetve személyiségi jogsértés miatt járó sérelemdíj megfizetése iránti eljárást is kezdeményez. A kezdeményezés címzettje érdemi döntésének egy példányát köteles az ügyésznek haladéktalanul megküldeni.
+5. § (1) Az ügyész a tudomására jutott jogsértés vagy jogszabálysértő mulasztás miatt jogszabályban megállapított feltételek fennállása esetén büntető, fegyelmi, szabálysértési, illetve hatósági eljárást, büntetés-végrehajtási ügyekben kártérítési, illetve személyiségi jogsértés miatt járó sérelemdíj megfizetése iránti eljárást is kezdeményez. A kezdeményezés címzettje érdemi döntését köteles az ügyésznek haladéktalanul megküldeni.
 
 (2) Az ügyész elbírálja a hatósági határozat, intézkedés, jogszabálysértő mulasztás ellen hozzá intézett kérelmeket, közérdekű bejelentéseket, jogsértésre utaló jelzéseket (a továbbiakban együtt: kérelem). Amennyiben a hozzá intézett kérelem vizsgálatára nincs hatásköre, gondoskodik annak áttételéről a hatáskörrel rendelkező szervhez.
 
@@ -64,7 +66,7 @@ az ügyészségről
 
 (2) Az ügyészek a törvényekben előírtaknak megfelelően, következetesen és méltányosan járnak el, ügyészi kötelezettségeiket legjobb szaktudásuk szerint teljesítik. E körben az ügyész
 
-- a) a tisztességes és hatékony bűnüldözés megvalósítása, a jogsértések megelőzése, a törvényesség biztosítása és az emberi jogok védelme érdekében nemzeti és nemzetközi szinten együttműködik a bíróságokkal, a nyomozó hatóságokkal, a büntető jogszabályok végrehajtásában közreműködő egyéb szervekkel, a bűnmegelőzést szolgáló kormányzati, közigazgatási és más szervekkel, a tudomány képviselőivel, a védőkkel, ügyvédi kamarákkal, jogvédő szervezetekkel;
+- a) a tisztességes és hatékony bűnüldözés megvalósítása, a jogsértések megelőzése, a törvényesség biztosítása és az emberi jogok védelme érdekében nemzeti és nemzetközi szinten együttműködik a bíróságokkal, a nyomozó hatóságokkal, az előkészítő eljárást folytató szervekkel, a büntető jogszabályok végrehajtásában közreműködő egyéb szervekkel, a bűnmegelőzést szolgáló kormányzati, közigazgatási és más szervekkel, a tudomány képviselőivel, a védőkkel, ügyvédi kamarákkal, jogvédő szervezetekkel;
 - b) az alapvető emberi jogok tiszteletben tartásával, a jogi előírásoknak megfelelően és a kölcsönös segítségnyújtás szellemében teljesíti más államok ügyészi szerveinek vagy más bűnüldöző hatóságainak megkereséseit;
 - c) az arra jogosult szerveknek adott tájékoztatás, vélemény adása során tárgyilagos és szakszerű véleményt ad;
 - d) mérlegelési jogkörét pártatlanul, méltányosan, a törvények megtartása mellett, külső befolyástól mentesen gyakorolja.
@@ -107,9 +109,9 @@ az ügyészségről
 (2) A legfőbb ügyész
 
 - a) tanácskozási joggal részt vehet az Országgyűlés ülésein, valamint a Kúria teljes ülésein;
-- b) bűncselekmény nyomozását bármely nyomozó hatóságtól az ügyészség hatáskörébe vonhatja, az ügyek ügyészségi nyomozása során más nyomozó hatóságok tagjai közreműködését – szolgálati, közszolgálati jogviszonyukat nem érintve – az országos vezető egyetértésével igénybe veheti;
-- c) a büntetőeljárási törvényben meghatározottak szerint a büntetőügyekben hozott jogerős határozatok ellen felülvizsgálati indítványt vagy a törvényesség érdekében jogorvoslatot nyújthat be a Kúriához;
-- d) jogegységi eljárást kezdeményezhet a Kúria előtt, illetve a Kúria előtti jogegységi eljárásban gyakorolja törvényben meghatározott jogkörét;
+- b) bűncselekmény nyomozását bármely nyomozó hatóságtól az ügyészség hatáskörébe vonhatja, az ügyek ügyészségi nyomozása, illetve előkészítő eljárás folytatása során más nyomozó hatóságok tagjai közreműködését – szolgálati, közszolgálati jogviszonyukat nem érintve – az országos vezető egyetértésével igénybe veheti;
+- c) a büntetőeljárásról szóló törvényben meghatározottak szerint a büntetőügyekben hozott jogerős határozatok ellen felülvizsgálati indítványt vagy a törvényesség érdekében jogorvoslatot nyújthat be a Kúriához;
+- d) jogegységi eljárást indítványozhat a Kúria előtt, illetve a Kúria előtti jogegységi eljárásban gyakorolja törvényben meghatározott jogkörét;
 - e) indítványozza közvádas bűncselekmény vagy szabálysértés miatt a mentelmi jog felfüggesztését, illetve ha törvény az eljárás megindítását valamely szerv, személy hozzájárulásához köti, kezdeményezi a hozzájárulás megadását;
 - f) jogszabály tervezetére – kivéve az önkormányzati rendelet tervezetét – véleményt nyilváníthat, az ügyészség jogállását, feladatkörét érintő jogszabályok tervezetére véleményt nyilvánít;
 - g) törvény kezdeményezésére, illetve rendelet és közjogi szervezetszabályozó eszköz kibocsátására jogosult szervnél jogszabály, illetve közjogi szervezetszabályzó eszköz alkotását, módosítását vagy hatályon kívül helyezését javasolhatja;
@@ -169,60 +171,60 @@ tekintetében.
 
 ### III. Fejezet — AZ ÜGYÉSZSÉG BÜNTETŐJOGI TEVÉKENYSÉGE
 
-16. § (1) Az ügyész köteles biztosítani
+16. § (1) Az ügyészség köteles biztosítani
 
 - a) minden, a hivatali tevékenysége során tudomására jutott bűncselekmény következetes üldözését; továbbá
 - b) hogy senkit törvényellenesen ne vonjanak büntetőjogi felelősségre, ne fosszanak meg személyi szabadságától, senkit törvénytelen jogfosztás, korlátozás vagy zaklatás ne érjen.
 
-(2) A bűnözés elleni küzdelem érdekében az ügyész összehangolt intézkedéseket kezdeményezhet a nyomozó hatóságoknál, illetve más érdekelt szerveknél.
+(2) A bűnözés elleni küzdelem érdekében az ügyészség összehangolt intézkedéseket kezdeményezhet a nyomozó hatóságoknál, illetve más érdekelt szerveknél.
 
-#### 1. Az ügyész feladatai a nyomozással és a vádemeléssel kapcsolatban
+#### 1. Az ügyészség feladatai az előkészítő eljárás és a nyomozás során
 
-17. § (1) Az ügyész a vádemelés feltételeinek megállapítása végett
+17. § (1) Az ügyészség a bűncselekmény gyanújának megállapítása érdekében a büntetőeljárásról szóló törvényben meghatározott esetekben előkészítő eljárást folytat, illetve felügyeli más szerv előkészítő eljárásának törvényességét.
 
-- a) nyomozást végeztet;
-- b) felügyeli a nyomozó hatóság önálló nyomozását; illetve
-- c) a büntetőeljárási törvényben meghatározott esetekben a nyomozást maga végzi.
+(2) Az ügyészség a vádemelés feltételeinek megállapítása érdekében a büntetőeljárásról szóló törvényben meghatározott
 
-(2) A nyomozás során az ügyész a büntetőeljárás hatékony és a lehető leggyorsabb lefolytatása érdekében rendelkezik az ügyről, a nyomozás elvégzendő feladatairól. A nyomozásra vonatkozó intézkedéseiért, az általa elvégzett eljárási cselekmények, az általa tett intézkedések és meghozott határozatok megalapozottságáért, jogszerűségéért felelős.
+- a) módon felügyeli a felderítés törvényességét,
+- b) módon irányítja a vizsgálatot,
+- c) esetekben ügyészségi nyomozást végez.
 
-(3) A nyomozás feletti felügyelet keretében az ügyész a törvényben meghatározott jogkörei felhasználásával minden szükséges intézkedést megtesz annak érdekében, hogy a nyomozó hatóság az önálló nyomozását törvényesen, az emberi jogok tiszteletben tartásával, a vádemelés kérdésében történő döntésre alkalmas módon teljesítse. Így különösen
+(3) A vizsgálat során az ügyészség a büntetőeljárás hatékony és a lehető leggyorsabb lefolytatása érdekében rendelkezik az ügyről, a nyomozás során elvégzendő feladatokról.
 
-- a) megvizsgálhatja és megváltoztathatja a nyomozó hatóság határozatait és a nyomozás során tett intézkedéseit, az esetleges jogsértés kiküszöbölése iránt haladéktalanul intézkedik;
-- b) a nyomozó hatóságot a nyomozással kapcsolatban utasíthatja, az utasításának végrehajtását ellenőrzi;
-- c) elbírálja a nyomozás során előterjesztett, a feladatkörébe tartozó jogorvoslati kérelmeket.
+(4) Az előkészítő eljárás és a nyomozás során az ügyészség a jogszabályban meghatározott jogai gyakorlásával minden szükséges intézkedést megtesz annak érdekében, hogy az előkészítő eljárást folytató szerv, illetve a nyomozó hatóság tevékenységét törvényesen, az emberi jogok tiszteletben tartásával, a bűncselekmény gyanújának megállapítása, illetve a vádemelés kérdésében történő döntésre alkalmas módon teljesítse.
 
-(4) Az ügyész gondoskodik arról, hogy a nyomozás során a büntetőeljárás résztvevőinek jogai érvényesüljenek.
+(5) Az előkészítő eljárásra és a nyomozásra vonatkozó intézkedéseiért, az általa elvégzett eljárási cselekmények, az általa tett intézkedések és meghozott határozatok megalapozottságáért, jogszerűségéért az ügyészség felelős.
+
+(6) Az ügyészség elbírálja a nyomozás során előterjesztett, a feladatkörébe tartozó jogorvoslati kérelmeket.
+
+(7) Az ügyészség gondoskodik arról, hogy a nyomozás során a büntetőeljárásban részt vevő személyek jogai érvényesüljenek.
 
 #### 18. §
 
-19. § (1) Közvádlóként az ügyész dönt a vádemelésről, vagy az eljárás más, a büntetőeljárási törvényben meghatározott módon történő befejezéséről.
+19. § (1) Közvádlóként az ügyészség dönt a vádemelésről, vagy az eljárás más, a büntetőeljárásról szóló törvényben meghatározott módon történő befejezéséről.
 
 (2) A vádnak törvényesen beszerzett bizonyítékokon kell alapulnia.
 
-(3) Az ügyész gondoskodik arról, hogy az ügy eldöntéséhez szükséges minden tény, bizonyíték és jogi okfejtés a bíróság elé kerüljön.
+(3) Az ügyészség gondoskodik arról, hogy az ügy eldöntéséhez szükséges minden tény, bizonyíték és jogi okfejtés a bíróság elé kerüljön.
 
-20. § (1) A büntetőeljárásról szóló törvény eltérő rendelkezése hiányában az ügyész a határozatot vagy intézkedést a bűncselekményre a Büntető Törvénykönyvben meghatározott elévülési időn belül hivatalból is felülvizsgálhatja.
+20. § Az ügyészség a büntetőeljárás során hozott határozatot a büntetőeljárásról szóló törvény alapján a bűncselekményre a Büntető Törvénykönyvről szóló törvényben meghatározott elévülési időn belül vizsgálhatja felül.
 
-(2) A hivatalból történő felülvizsgálat különösen akkor indokolt, ha a felülvizsgálandó határozat vagy intézkedés megalapozatlan vagy törvénysértő, illetve a felmerült új tény vagy körülmény vádemelést eredményezhet.
+#### 2. Az ügyészség feladatai a bírósági eljárás során
 
-#### 2. A büntetőbíróságok előtti ügyészi tevékenység
+21. § (1) Az ügyészség az igazságszolgáltatás közreműködőjeként érvényesíti az állam büntetőigényét a bíróság előtt, egyúttal közreműködik abban, hogy a bíróságok határozatai megfeleljenek az Alaptörvénynek és a törvényeknek.
 
-21. § (1) Az ügyész az igazságszolgáltatás közreműködőjeként érvényesíti az állam büntetőigényét a büntetőbíróságok előtt, egyúttal közreműködik abban, hogy a bíróságok határozatai megfeleljenek az Alaptörvénynek és a törvényeknek.
-
-(2) E feladat megvalósítása érdekében az ügyész
+(2) E feladat megvalósítása érdekében az ügyészség
 
 - a) a büntetőügyekben a tárgyaláson képviseli a vádat, a váddal rendelkezhet;
 - b) a bíróság döntése előtt az ügyben felmerülő minden kérdésben indítványt tehet;
-- c) gyakorolja a büntetőeljárási törvényben számára biztosított jogorvoslati jogokat.
+- c) gyakorolja a büntetőeljárásról szóló törvényben számára biztosított jogorvoslati jogokat.
 
 (3) A vád képviseletét – törvényben meghatározott esetben – alügyész és ügyészségi fogalmazó is elláthatja.
 
-#### 3. A törvényekben meghatározott joghátrányok végrehajtása törvényességének felügyelete
+#### 3. Törvényben meghatározott joghátrány végrehajtása törvényességének felügyelete
 
-22. § (1) Az ügyész az e címben foglalt felügyeleti tevékenysége során bármely időpontban és helyen ellenőrizheti a törvényekben meghatározott joghátrányok és jogkorlátozások végrehajtásának, a fogvatartottakkal való bánásmódnak a törvényességét, a végrehajtás alatt állók jogvédelmére vonatkozó rendelkezések érvényesülését. E rendelkezés megfelelő alkalmazásával jár el az utógondozás, a bűnügyi, a szabálysértési és a körözési nyilvántartás, valamint a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának vonatkozásában is.
+22. § (1) Az ügyész a 22–24. § szerinti felügyeleti tevékenysége során bármely időpontban és helyen ellenőrizheti a törvényben meghatározott joghátrány és jogkorlátozás végrehajtásának, a fogvatartottakkal való bánásmódnak a törvényességét, a végrehajtás alatt állók jogvédelmére, valamint az utógondozásra vonatkozó rendelkezések érvényesülését. E rendelkezés megfelelő alkalmazásával jár el különösen a bűnügyi nyilvántartási rendszer, a bűnügyi és rendészeti biometrikus adatok nyilvántartása, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartása, a szabálysértési nyilvántartási rendszer, továbbá a körözési nyilvántartási rendszer, valamint a központi elektronikus hozzáférhetetlenné tételi határozatok adatbázisának vonatkozásában is.
 
-(2) Az (1) bekezdés szerinti ellenőrzéssel érintett – személyi szabadságot kizáró vagy korlátozó, illetve más jogot korlátozó joghátrányokat végrehajtó – szerv vezetője köteles az ügyésznek a törvények megtartására és a fogva tartás körülményeire vonatkozó rendelkezését teljesíteni. E szerv vezetője az ügyészi rendelkezésben foglalt utasítás ellen felettes szerve útján – 15 napon belül – előterjesztést tehet a felettes ügyészhez, amelynek nincs halasztó hatálya.
+(2) Az (1) bekezdés szerinti ellenőrzéssel érintett – személyi szabadságot érintő, illetve más jogot korlátozó joghátrányokat végrehajtó – szerv vezetője köteles az ügyésznek a törvények megtartására és a fogva tartás körülményeire vonatkozó rendelkezését teljesíteni. E szerv vezetője az ügyészi rendelkezésben foglalt utasítás ellen felettes szerve útján – 15 napon belül – előterjesztést tehet a felettes ügyészhez, amelynek nincs halasztó hatálya.
 
 (3) Az ügyész köteles haladéktalanul szabadlábra helyezni azt, akit törvényes határozat nélkül vagy a határozatban megjelölt időponton túl tartanak fogva.
 
@@ -291,7 +293,7 @@ szükségesek.
 25/D. § Az ügyészség a 25/B. §-ban meghatározott célból
 
 - a) információk megszerzése érdekében az ügyészséggel titkosan együttműködő személyt vehet igénybe;
-- b) az ügyész az eljárás valódi céljának titokban tartásával, kilétét leplezve információt gyűjthet, ellenőrizhet;
+- b) az eljárás valódi céljának titokban tartásával, az ügyész kilétét leplezve információt gyűjthet, ellenőrizhet;
 - c) személyt, lakást, egyéb helyiséget, bekerített helyet, nyilvános vagy a közönség részére nyitva álló helyet, illetve járművet titokban megfigyelhet, a történtekről információt gyűjthet, valamint az észlelteket technikai eszközzel rögzítheti;
 - d) valamely személyt – ha életének, testi épségének megóvása érdekében szükséges – ügyésszel, a rendőrség vagy a nemzetbiztonsági szolgálat tagjával helyettesítheti; illetve
 - e) elektronikus hírközlési eszközön vagy információs rendszeren folytatott kommunikáció tényének a megállapításához, az elektronikus hírközlési eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatokat megszerezheti.
@@ -662,7 +664,7 @@ kezelheti.
 
 (3) Az ügyész, alügyész, ügyészségi fogalmazó és ügyészségi megbízott közvetlenül vagy az ügyészségi informatikai eszközök felhasználásával – ha törvény eltérően nem rendelkezik – a feladatkörének ellátása során jogosult arra, hogy:
 
-- a) a büntetőeljárásról szóló törvényben, illetve e törvényben meghatározott feladatai teljesítése érdekében szükség szerint – az általános munkarend korlátaitól függetlenül – térítés nélkül igénybe vegye a polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartása, a szabálysértési nyilvántartási rendszer, a közúti közlekedési nyilvántartás, az útiokmány-nyilvántartás, a bűnügyi nyilvántartási rendszer, a körözési nyilvántartási rendszer, a cégnyilvántartás, az ingatlan-nyilvántartás, a fogvatartotti nyilvántartás, a határregisztrációs rendszer, továbbá a nyomozó hatóságok és előkészítő eljárást folytató szervek tevékenységét támogató informatikai rendszereinek adatszolgáltatását; az erre irányuló adatkéréseket hiányos és töredék adatok esetén is teljesíteni kell;
+- a) a büntetőeljárásról szóló törvényben, illetve e törvényben meghatározott feladatai teljesítése érdekében szükség szerint – az általános munkarend korlátaitól függetlenül – térítés nélkül igénybe vegye a polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartása, a szabálysértési nyilvántartási rendszer, a közúti közlekedési nyilvántartás, az útiokmány-nyilvántartás, a bűnügyi nyilvántartási rendszer, a körözési nyilvántartási rendszer, a cégnyilvántartás, az ingatlan-nyilvántartás, a fogvatartotti nyilvántartás, a határregisztrációs rendszer, a menekültügyi nyilvántartás, a központi idegenrendészeti nyilvántartás, a hitelbiztosítéki nyilvántartás, a házassági és élettársi vagyonjogi szerződések országos nyilvántartása, a lőfegyverek központi nyilvántartása, az autópályák, az autóutak és főutak használatának megtett úttal arányos díjáról szóló törvény szerinti adatbázis, a központi közlekedési közigazgatási és ellenőrzési bírságnyilvántartás, továbbá a nyomozó hatóságok és előkészítő eljárást folytató szervek tevékenységét támogató informatikai rendszereinek adatszolgáltatását; az erre irányuló adatkéréseket hiányos és töredék adatok esetén is teljesíteni kell;
 - b) az általa beszerzett, illetőleg az eljárása során keletkezett személyes adatokat törvény által megállapított részletes szabályok szerint kezelje; a minősített adat az ügyészt, alügyészt, ügyészségi fogalmazót és az ügyészségi megbízottat – a nemzetbiztonsági szervek minősített adatkezelését kivéve – nem akadályozhatja, de a minősített adat megtartására vonatkozó rendelkezések rá nézve is kötelezőek;
 - c) a legfőbb ügyész – vagy az általa feljogosított ügyészségi vezető – engedélyével közérdekből az ügykörébe tartozó személyes adatok közül az érintett nevét és az ügykapcsolatot nyilvánosságra hozza.
 

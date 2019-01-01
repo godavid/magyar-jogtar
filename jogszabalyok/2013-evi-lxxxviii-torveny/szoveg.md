@@ -290,7 +290,7 @@ törli.
 
 #### 8. A nyilvántartás közérdekből nyilvános adattartalma
 
-8. § (1) Elfogatóparancs, európai elfogatóparancs alapján elrendelt körözési eljárás esetén a 3. § (2) bekezdés a) pont aa)–ad), ag) és aj) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
+8. § (1) Elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs alapján elrendelt körözési eljárás esetén a 3. § (2) bekezdés a) pont aa)–ad), ag) és aj) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
 
 (2) A bíróság, ügyészség vagy nyomozó hatóság döntése alapján a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
 
@@ -309,6 +309,8 @@ meghatározott adat.
 (5) Az (1)–(3) bekezdés szerinti közérdekből nyilvános adatokat a nyilvántartó a honlapján közzéteszi.
 
 (6) A Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) jogosult rendszer-rendszer kapcsolat útján átvenni az (1) bekezdésben meghatározott közérdekből nyilvános adatokat és a személyazonosítást elősegítő informatikai rendszer alkalmazása során egyedi ügyhöz kapcsolódóan felhasználni. Az NBSZ az így átvett adatokat a körözés visszavonásáig kezeli.
+
+(7) Az idegenrendészeti hatóság és a menekültügyi hatóság jogosult rendszer-rendszer kapcsolat útján átvenni az (1) bekezdésben meghatározott közérdekből nyilvános adatokat és a személyazonosítást elősegítő informatikai rendszer alkalmazása során az idegenrendészeti hatóság vagy menekültügyi hatóság eljárásában személyazonosság megállapítása céljából felhasználni. Az idegenrendészeti hatóság és a menekültügyi hatóság az így átvett adatokat a körözés visszavonásáig kezeli.
 
 #### 9. A nyilvántartásból adatigénylés alapján, valamint a közvetlen hozzáférés útján történő adattovábbítás biztosításának általános követelményei
 
@@ -473,6 +475,8 @@ előírja.
 
 (3a) Ha az NBSZ a személyazonosítást elősegítő informatikai rendszere üzemeltetése során olyan találatot észlel, amely olyan körözött személy azonosítását segíti elő, akinek az adatai közérdekből nyilvánosak és a találat jelzése a 8. § (6) bekezdése szerinti egyedi ügy érdekeit nem sérti, a rendszer értesíti a körözési eljárást lefolytató szervet a találatról.
 
+(3b) Ha az idegenrendészeti hatóság és a menekültügyi hatóság a személyazonosítást elősegítő informatikai rendszere üzemeltetése során találatot észlel, értesíti a körözési eljárást lefolytató szervet.
+
 (4) A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, az útlevélhatóság és a központi közúti közlekedési nyilvántartó szerv okmány kiadásával kapcsolatos eljárás során ellenőrzi a körözött személyek nyilvántartását. Ha a szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget elektronikus úton értesíti.
 
 (4a) Jogszabály alapján állampolgársági bizonyítvány, honosítási okirat kiadására feladat- és hatáskörrel rendelkező szerv eljárása során a kérelmezővel és a kérelmező által felhasznált okmánnyal kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában és a körözött dolgok nyilvántartásában. Ha az eljáró szerv az ügyfelet a körözött személyek nyilvántartásában, illetve az ügyfél által az eljárás során felhasznált okmányt a körözött dolgok nyilvántartásában azonosítja, e tényről a rendőrséget értesíti.
@@ -546,7 +550,7 @@ felelős.
 
 (2) E törvény alkalmazásában, valamint a körözés elrendelése szempontjából eltűntnek kell tekinteni az ismeretlen helyen lévő személyt, ha
 
-- a) az eltűnés körülményei, az életviteléről, foglalkozásáról, más személyi körülményeiről rendelkezésre álló adatok azt valószínűsítik, hogy eltűnése – kivéve a terheltet – bűncselekmény elkövetésével van összefüggésben,
+- a) az eltűnés körülményei, az életviteléről, foglalkozásáról, más személyi körülményeiről rendelkezésre álló adatok azt valószínűsítik, hogy eltűnése – kivéve a terheltet és a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt – bűncselekmény elkövetésével van összefüggésben,
 - b) cselekvőképtelen vagy korlátozottan cselekvőképes, egészségi állapota, kora vagy más ok miatt képtelen magáról gondoskodni,
 - c) az életvitelére, személyi körülményeire, foglalkozására tekintettel az eltűnésére ésszerű magyarázat nem adható,
 - d) az eltűnés természeti katasztrófával, öngyilkossággal van összefüggésben, vagy
@@ -674,7 +678,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (4) Ha az eltűntnek nyilvánított személy bármely magyar hatóságnál vagy külképviseletnél kétséget kizáró módon igazolja személyazonosságát, írásban nyilatkoztatni kell arról, hogy hozzájárul-e az általa közölt tartózkodási helyének a (2) bekezdés a) és b) pontjában meghatározott személyekkel történő közléséhez, majd haladéktalanul értesíteni kell az (1) bekezdés szerinti, eltűntnek nyilvánító szervet. A nyilatkozat megtagadását az adatközléshez való hozzájárulás megtagadásának kell tekinteni.
 
-(5) A (4) bekezdésben meghatározott esetben az (1) bekezdés szerinti, eltűntnek nyilvánító szerv az eltűntnek nyilvánító határozatot visszavonja, és erről a nyilvántartót értesíti.
+(5) A (4) bekezdésben meghatározott esetben az (1) bekezdés szerinti, eltűntnek nyilvánító szerv az eltűntnek nyilvánító határozatot visszavonja és ezzel egyidejűleg a körözés visszavonásáról is intézkedik.
 
 #### 22. A rendőrség körözési eljárása során tett intézkedései
 
@@ -688,7 +692,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (5) A rendőrség szervei hatáskörtől és illetékességtől függetlenül gondoskodnak a körözött személlyel vagy dologgal kapcsolatban tudomásukra jutott információ ellenőrzéséről, a nyilvántartásban való rögzítésről.
 
-(6) A körözési eljárást lefolytató szerv a körözési eljárás során elektronikus hírközlési szolgáltatótól helymeghatározási adatot kérhet.
+(6) A körözési eljárást lefolytató szerv a körözési eljárás során az adatigénylés céljának pontos megjelölésével az elektronikus hírközlési szolgáltatótól a felhasználóval és az előfizetővel kapcsolatban helymeghatározási adatokat, hívásforgalmi adatokat, valamint az adatigénylés céljával összefüggő előfizetői adatokat kérhet.
 
 (7) A körözési eljárást lefolytató szerv a körözési eljárás során a pénzügyi intézménytől és a pénzforgalmi intézménytől adatokat igényelhet a készpénzt-helyettesítő fizetési eszköz használatának helyszínére és időpontjára vonatkozóan.
 
@@ -722,7 +726,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 - b) az Rtv. szerinti titkos információgyűjtést folytathat, illetve
 - c) nemzetközi körözést rendelhet el.
 
-(4) A körözési eljárást lefolytató szerv a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 117. és 139. §-a alapján elrendelt körözés végrehajtása során
+(4) A körözési eljárást lefolytató szerv a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) 117. §-a, 139. §-a és 178/B. §-a alapján elrendelt körözés végrehajtása során
 
 - a) az Rtv. 29–30. §-a, 32–33. §-a, 35/A. §-a, 38–41. §-a, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja, illetve
 - b) nemzetközi körözést rendelhet el.
@@ -770,6 +774,14 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 - b) nemzetközi körözést rendelhet el.
 
 (3) Az ismeretlen személyazonosságú holttest, holttestrész nemzetközi körözése végrehajtása során a körözési eljárást lefolytató szerv az Rtv. 27. §-a, 29–30. §-a, 32. §-a, 35/A. §-a, 35/B. §-a, 39–41. §-a, 42. § (1) bekezdése, 58. § (1) bekezdés e) pontja, valamint a 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja.
+
+28/A. § (1) Eltűnés miatt elrendelt körözés esetén – amennyiben a rendelkezésre álló információk azt szükségessé teszik vagy indokolják – az eltűnt személy által eltűnését követően feltételezhetően használt vagy birtokában lévő jármű körözése az eltűnési ügyben körözést elrendelő szerv által elrendelhető az eltűnt személy hollétének megállapítása céljából.
+
+(2) Az eltűnés miatt körözési eljárást lefolytató szerv az ilyen jármű körözésével összefüggésben elrendelt körözés végrehajtása során az Rtv. 27. §, 29. §, 30. §, 32. §, 35/A. §, továbbá az 58. § (1) bekezdés e) pontja, a 63–74. §, valamint a 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja.
+
+(3) A körözést vissza kell vonni, amennyiben fenntartása már nem szükséges vagy indokolt.
+
+(4) A körözés elrendelésével vagy visszavonásával szemben nincs helye jogorvoslatnak.
 
 29. § (1) A körözési eljárást lefolytató szerv a Be. 268. § (1) bekezdés a) és b) pontja, valamint a Szabs. tv. 68. § (3) bekezdése alapján elrendelt dolgok körözésének végrehajtása során
 

@@ -6,7 +6,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 ### Általános rendelkezések
 
-1. § (1) A 4/A. §-ban, 4/B. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
+1. § (1) A 4/A. §-ban és a 4/D. §-ban meghatározott személy különadó fizetésére kötelezett.
 
 (2) A különadóból származó bevétel a központi költségvetést illeti meg.
 
@@ -34,28 +34,26 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (4) A különadó alapja
 
-- 1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított módosított mérlegfőösszeg;
-- 2.
-- 3. egyéb pénzügyi szervezetnél:
-  - a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból előjelhelyesen számított aa) kamateredmény, valamint ab) díj- és jutalékeredmény összevont összege;
-  - b) befektetési vállalkozásnál a befektetési vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel;
-  - c) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel;
-  - d) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel.
+- 1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított módosított mérlegfőösszeg vagy az éves beszámolóját a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek (a továbbiakban: IFRS-ek) szerint összeállító hitelintézetnél az IFRS-ek szerint készített, az adóévet megelőző második adóévi éves beszámoló adatai alapján meghatározott módosított mérlegfőösszeg;
+- 2. egyéb pénzügyi szervezetnél:
+  - a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból előjelhelyesen számított aa) kamateredmény, valamint ab) díj- és jutalékeredmény összevont összege, vagy az éves beszámolóját az IFRS-ek szerint összeállító pénzügyi vállalkozásnál az IFRS-ek szerint meghatározott, ennek megfelelő összeg;
+  - b) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel vagy az éves beszámolóját az IFRS-ek szerint összeállító tőzsdénél az IFRS-ek szerint meghatározott, ennek megfelelő összeg;
+  - c) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel vagy az éves beszámolóját az IFRS-ek szerint összeállító árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az IFRS-ek szerint meghatározott, ennek megfelelő összeg.
 
 (5)
 
 (6) A különadó mértéke
 
-- a) hitelintézet esetén az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,21 százalék 2017-ben és 2018-ban;
+- a) hitelintézetnél az adóalap 50 milliárd forintot meg nem haladó része után 0,15 százalék, az e feletti összegre 0,2 százalék;
 - b)
 - c) egyéb pénzügyi szervezet esetén:
   - ca) pénzügyi vállalkozásnál a (4) bekezdés 3. pont a) pontjában meghatározott összeg 6,5 százaléka,
-  - cb) befektetési vállalkozásnál 5,6 százalék,
+  - cb)
   - cc) tőzsdénél 5,6 százalék,
   - cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százalék,
   - ce)
 
-(7) A hitelintézet által az üzleti évre (adóévre) fizetendő különadónak a (6) bekezdés a) pontja szerint, a (11)–(37) bekezdésben foglaltak figyelembevételével kiszámított összegét, legfeljebb annak mértékéig csökkenti az általa az üzleti évre (adóévre) hitelintézetek különadója címén fizetett (fizetendő) összeg.
+(7)
 
 (8) A jogutód a jogutódlással megszűnő adózóra tekintettel a különadó fizetési kötelezettséget a jogutódlást követő adóévben a jogutódlással történő megszűnés adóévében hatályos rendelkezések (adóalap, adókulcs) szerint, a jogutódlással történő megszűnés adóévére vonatkozóan megállapított összegben állapítja meg, vallja be és fizeti meg.
 
@@ -63,19 +61,17 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 (9) A megszűnő, vagy a különadó hatálya alól bármely más okból kikerülő pénzügyi szervezet a különadóval összefüggő minden olyan adókötelezettségét, amelynek teljesítésére előírt határidő korábban nem telt le, a megszűnését, illetőleg a különadó hatálya alól történő kikerülését követő 30. napig teljesíti.
 
-(10) A különadó bevallás mellékleteként nyújtja be az adóhatósághoz:
+(10) A különadó bevallásban szerepelteti:
 
-- a) a hitelintézet az adóalap meghatározásakor számításba vett, a beszámoló adataiból számított módosított mérlegfőösszeget tartalmazó kimutatást,
-- b) a pénzügyi vállalkozás az adóalap meghatározásakor számításba vett, a beszámoló adataiból számított kamateredményt, valamint díj- és jutalékeredményt tartalmazó kimutatást,
-- c)
-- d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást,
-- e)
+- a) a hitelintézet az adóalap meghatározásakor számításba vett, a beszámoló, illetve az IFRS-ek szerint vezetett nyilvántartásai adataiból számított módosított mérlegfőösszeget tartalmazó kimutatást,
+- b) a pénzügyi vállalkozás az adóalap meghatározásakor számításba vett, a beszámoló, illetve az IFRS-ek szerint vezetett nyilvántartásai adataiból számított kamateredményt, valamint díj- és jutalékeredményt tartalmazó kimutatást,
+- c) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást.
 
 (11)
 
-(12) Az a hitelintézet, amely a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenységet végez, az e § szerinti adókötelezettségét ezen tevékenysége vonatkozásában a pénzügyi vállalkozásokra vonatkozó rendelkezések megfelelő alkalmazásával, az adóévet megelőző második adóévi éves beszámoló adatai alapján állapítja meg. Az a hitelintézet, amely a Hpt. 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenységet jogutódlásra tekintettel végzi, e bekezdés szerinti adókötelezettségét a (8) bekezdésre figyelemmel állapítja meg.
+(12)
 
-(13) Az a hitelintézet, amely a Hpt. 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenység adókötelezettsége vonatkozásában a (12) bekezdés szerint állapítja meg adókötelezettségét, a (4) bekezdés 1. pontja szerinti adókötelezettsége megállapításánál a pénzügyi lízing tevékenységet nem veszi figyelembe.
+(13)
 
 (14) Az adózó az (1)–(13) és a (38)–(39) bekezdés alapján megállapított fizetendő különadó összegét választása szerint – adóvisszatartás formájában – csökkentheti az általa a (16) bekezdésben meghatározott kedvezményezett célra nyújtott támogatás összegével, ha a támogatás alapján jogosult lenne a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) szerinti adókedvezményre, azonban az adócsökkentés alapjául szolgáló támogatási összeget a társasági adó terhére adókedvezményként még nem vette igénybe. A kiegészítő sportfejlesztési támogatás címén megfizetett összeget az adózó adócsökkentésként nem érvényesítheti.
 
@@ -109,19 +105,7 @@ támogatása.
 
 ### A hitelintézetek különadója
 
-4/B. § (1) A hitelintézet különadó megállapítására, bevallására és fizetésére kötelezett.
-
-(2) A különadó alapja az üzleti év (adóév) adózás előtti eredménye, növelve az annak terhére a pénzügyi szervezetek különadója címén fizetett (fizetendő) összegének megfelelően ráfordításként elszámolt összegével.
-
-(3) A különadó mértéke 30 százalék, de a hitelintézet által e § alapján az adóévre fizetendő különadó összege nem haladja meg a hitelintézetet pénzügyi szervezetek különadója címén az adóévre terhelő, a 4/A. § (7) bekezdésében foglaltak figyelmen kívül hagyásával kiszámított összeget.
-
-(4) A hitelintézet a különadót a társasági adóra vonatkozó bevallás benyújtásának határidejéig megállapítja, külön nyomtatványon bevallja és megfizeti.
-
-(5) A hitelintézet a (4) bekezdés rendelkezései szerinti bevallásában rendelkezik a pénzügyi szervezetek különadójára vonatkozóan benyújtott adóbevallásának a 4/A. § (7) bekezdésének megfelelő módosításáról, valamint az e módosítás következtében a módosító adóbevallás benyújtásának napjával, de legkorábban a (4) bekezdés szerint a módosító adóbevalláshoz kapcsolódó fizetési kötelezettsége esedékességének napjával keletkezett adótúlfizetésének az állami adóhatóság által az e § szerinti különadóról vezetett adószámla javára ugyanezzel a nappal történő átvezetéséről.
-
-(6) Ha az adózó a pénzügyi intézmények különadójára vonatkozóan benyújtott adóbevallását a különadóra vonatkozó bevallásának benyújtását követően módosítja, az adó megállapításához való jog elévüléséig köteles a már benyújtott különadó-bevallását is módosítani, vagy – ha önellenőrzésre már nem jogosult – ismételt ellenőrzés megindítása iránti kérelem előterjesztésével kezdeményezni fizetendő különadójának módosítását is.
-
-(7) Az állami adóhatóság a pénzügyi intézmények különadójára vonatkozóan utólagos adómegállapítás tárgyában hozott határozatában, ha az a pénzügyi intézmények különadója fizetendő összegét módosítja, rendelkezik a különadónak a (2)–(3) bekezdés rendelkezéseinek megfelelő módosításáról is. A jogkövetkezmények megállapításánál az egyik különadóra vonatkozóan megfizetett összeget a másik különadóra megfizetett összegként kell figyelembe venni.
+4/B. §
 
 ### Hitelintézeti hozzájárulás
 
@@ -158,9 +142,9 @@ támogatása.
 
 5. § (1)
 
-(2) A 4/A. § alapján megállapított és bevallott különadót az adózás előtti eredmény terhére kell elszámolni, azzal, hogy a felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett pénzügyi szervezetnek az éves különadót időarányosan kell az évközi eredményben bemutatnia. A 4/B. § alapján megállapított és bevallott hitelintézeti különadó üzleti évre (adóévre) fizetett (fizetendő) összegét a társasági adó számviteli elszámolására vonatkozó szabályok szerint kell kimutatni. A hitelintézet által az adóévre (üzleti évre) fizetendő társasági adó alapjának megállapításánál az adózás előtti eredményt csökkenti a hitelintézetek különadója adóévre (üzleti évre) fizetett (fizetendő) összege.
+(2) A 4/A. § alapján megállapított és bevallott különadót a számviteli törvény III. Fejezete szerinti beszámolót készítő pénzügyi szervezetnek az adózás előtti eredmény terhére kell elszámolni.
 
-(3)
+(3) A felügyeleti adatszolgáltatás céljából évközi főkönyvi zárásra és főkönyvi kivonat készítésére kötelezett, az éves beszámolóját a számviteli törvény III. Fejezete szerint összeállító pénzügyi szervezetnek a 4/A. § alapján megállapított és bevallott éves különadót időarányosan kell az évközi eredményben bemutatnia.
 
 (4)
 
@@ -183,9 +167,9 @@ támogatása.
 - 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 - 4. hitelintézet: a Hpt. szerinti hitelintézet;
 - 5–6.
-- 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, befektetési vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő;
+- 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő;
 - 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást, továbbá a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást;
-- 9. befektetési vállalkozás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) szerinti befektetési vállalkozás;
+- 9.
 - 10. tőzsde: a tőkepiacról szóló törvény (a továbbiakban: Tpt.) szerinti tőzsde;
 - 11. árutőzsdei szolgáltató: a Bszt. szerinti árutőzsdei szolgáltató;
 - 12. kockázati tőkealap-kezelő: Kbftv. szerinti kockázati tőkealap-kezelő;
@@ -205,12 +189,12 @@ támogatása.
   - l) a k) pontban meghatározott eszközöknek a j) pont szerinti nyilatkozatban foglalt értéke – de legfeljebb a nyilatkozattevővel szemben fennálló követelések és a nyilatkozattévő által kibocsátott értékpapírok, részvények alapján az e)–h) pontok szerint a mérlegfőösszeg csökkentéseként elszámolt összeg – a módosított mérlegfőösszeg megállapításakor a mérlegfőösszeget növeli,
   - m) ha a j) pont szerinti nyilatkozat az eszközök értékét devizában tartalmazza, akkor ennek átszámítása az adóalany által a mérlegfőösszeg meghatározott árfolyamnak megfelelően történik,
   - n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz kapcsolódó minden jogkövetkezmény az adóalanyt terheli;
-- 15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege;
+- 15. mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege, illetve az IFRS-ek alapján meghatározott, ennek megfeleltethető összeg;
 - 16. értékpapírszámla: a Tpt. szerinti értékpapírszámla;
 - 17. kollektív befektetési értékpapír: a Kbftv. szerinti kollektív befektetési értékpapír;
 - 18.
 - 19. korrigált nettó árbevétel:
-  - a) befektetési vállalkozásoknál: a befektetési szolgáltatási tevékenység bevételei csökkentve a befektetési szolgáltatási tevékenység ráfordításaival;
+  - a)
   - b) tőzsdénél: a tőzsdei tevékenység bevételei növelve a számvitelről szóló 2000. évi C. törvény 77. § (3) bekezdés k)–o) pontjai hatálya alá tartozó egyéb bevételeken kívüli egyéb bevételekkel;
   - c) az árutőzsdei szolgáltatást kizárólagosan végző árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél: az értékesítés nettó árbevétele;
   - d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltatónál az e tevékenységekből származó nettó árbevétel;
@@ -240,12 +224,12 @@ támogatása.
 
 12. § E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 4/D. §-át első alkalommal a 2015. évi adókötelezettségre kell alkalmazni.
 
-13. § A Kormány a hitelintézetek 4/A. § szerinti különadó-megállapítási, -bevallási és -megfizetési kötelezettsége vonatkozásában a 2019-től alkalmazandó adókulcs (adókulcsok) mértékére legkésőbb 2018. október 31-ig tesz javaslatot.
+13. §
 
 14. § (1) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel módosított 4/A. § (3) és (8a) bekezdését a 2016. adóévi adókötelezettség megállapításakor is alkalmazni kell. E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 4/A. § (8a) bekezdését a hitelintézet 2016. adóévi adókötelezettség teljesítésekor úgy alkalmazza, hogy a jogutódlással 2011. január 1-jét követően megszűnő hitelintézet jogutódlással történő megszűnés adóévében hatályos rendelkezések szerint megállapított – különadó fizetési kötelezettségét az adóév 2016. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – 2016. szeptember 10-éig és 2016. december 10-éig – megfizeti.
 
 (2) A 4/A. § (11) bekezdése szerinti adókötelezettséget első alkalommal a 2016. adóév vonatkozásában kell teljesíteni, azzal, hogy a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény (Bszt.) 5. § (1) bekezdésének f) és g) pontja szerinti befektetési szolgáltatás vonatkozásában az adókötelezettség az állampapírra nem terjed ki, melynek alapján az ezekhez kapcsolódó prémiumok, díjak és jutalékok, valamint az állampapírok kereskedéséből származó realizált, és az azok állományához kapcsolódóan elszámolt átértékelési nyereség és kamatbevétel mentes a különadó alól.
 
-(3) A 4/A. § (12) bekezdése szerinti adókötelezettséget első alkalommal a 2016. adóév vonatkozásában kell teljesíteni. A hitelintézet a 4/A. § (12) bekezdése szerinti adókötelezettséget a 2016. adóév vonatkozásában 2016. szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – 2016. szeptember 10-éig és 2016. december 10-éig – megfizeti. Ehhez kapcsolódóan a hitelintézet 4/A. § (13) bekezdése figyelembevételével a 2016. adóévre vonatkozóan már benyújtott adóbevallását 2016. szeptember 10-éig pótlékmentesen önellenőrzi.
+(3)
 
 15. § A 4/A. § (14)–(19) bekezdésének rendelkezéseit az adózó 2017. adóév vonatkozásában választása szerint alkalmazza, azzal, hogy e választás esetén az adózó a 2017. adóévre vonatkozóan már benyújtott adóbevallását 2017. december 10-éig önellenőrzi.

@@ -16,12 +16,9 @@ Az Országgyűlés az élet és az anyagi javak védelmének, az alapvető szolg
 - f) létfontosságú rendszerelem: az 1–3. mellékletben meghatározott ágazatok valamelyikébe tartozó eszköz, létesítmény vagy rendszer olyan rendszereleme, amely elengedhetetlen a létfontosságú társadalmi feladatok ellátásához – így különösen az egészségügyhöz, a lakosság személy- és vagyonbiztonságához, a gazdasági és szociális közszolgáltatások biztosításához –, és amelynek kiesése e feladatok folyamatos ellátásának hiánya miatt jelentős következményekkel járna,
 - g) nemzeti létfontosságú rendszerelem: e törvény alapján kijelölt olyan létfontosságú rendszerelem, amelynek kiesése a létfontosságú társadalmi feladatok folyamatos ellátásának hiánya miatt jelentős hatása lenne Magyarországon,
 - h) üzemeltető: az a természetes, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az eszköz, létesítmény, rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy napi működéséért felelős,
-- i) hálózati és információs rendszer:
-  - ia) az elektronikus hírközlő hálózat,
-  - ib) minden olyan eszköz vagy egymással összekapcsolt vagy kapcsolatban álló eszközök csoportja, amelyek közül egy vagy több valamely program alapján digitális adatok automatizált kezelését végzi, vagy
-  - ic) az ia) és ib) alpontban szereplő elemek által működésük, használatuk, védelmük és karbantartásuk céljából tárolt, kezelt, visszakeresett vagy továbbított digitális adatok,
-- j) biztonsági esemény: minden olyan esemény, amely ténylegesen kedvezőtlen hatást gyakorol a hálózati és információs rendszerek biztonságára,
-- k) biztonsági esemény kezelése: a biztonsági események észlelését, elemzését és elszigetelését, valamint a rájuk való reagálást támogató eljárások.
+- i)
+- j)
+- k)
 
 #### 2. A nemzeti létfontosságú rendszerelemek kijelölése
 
@@ -48,7 +45,7 @@ dönthet.
 (2) A kijelölt nemzeti létfontosságú rendszerelem üzemeltetője alapvető szolgáltatásokat nyújtó szereplőnek minősül, ha
 
 - a) az 1–3. melléklet alapján meghatározott alágazata a 4. melléklet alapján megfeleltethető a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i (EU) 2016/1148 európai parlamenti és tanácsi irányelv szerinti valamely ágazatnak vagy alágazatnak,
-- b) az általa nyújtott szolgáltatás nyújtása hálózati és információs rendszerektől függ, és
+- b) az általa nyújtott szolgáltatás nyújtása elektronikus információs rendszerektől függ, és
 - c) az általa nyújtott szolgáltatást érintő biztonsági esemény jelentős zavart okozna az általa nyújtott szolgáltatás biztosításában.
 
 (3) Az ágazati kijelölő hatóság a nemzeti létfontosságú rendszerelemmé kijelölő határozatban rendelkezik az üzemeltető felvételéről az alapvető szolgáltatásokat nyújtó szereplők jegyzékébe.
@@ -83,12 +80,14 @@ dönthet.
 
 #### 4. A nemzeti létfontosságú rendszerelemekre és az európai létfontosságú rendszerelemekre vonatkozó közös szabályok
 
-4. § A nemzeti létfontosságú rendszerelemek és az európai létfontosságú rendszerelemek
+4. § (1) A nemzeti létfontosságú rendszerelemek és az európai létfontosságú rendszerelemek
 
-- a) kijelölésére vonatkozó közigazgatási hatósági eljárásban (a továbbiakban együtt: kijelölési eljárás), és
-- b) kijelölésének visszavonására (a továbbiakban együtt: a kijelölés visszavonására vonatkozó eljárás) vonatkozó közigazgatási hatósági eljárásban
+- a) kijelölésére vonatkozó közigazgatási hatósági eljárásban (a továbbiakban együtt: kijelölési eljárás) és
+- b) kijelölésének visszavonására vonatkozó közigazgatási hatósági eljárásban (a továbbiakban együtt: a kijelölés visszavonására vonatkozó eljárás)
 
-a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt, akinek a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzését elvégezték, és akivel szemben kockázati tényező nem merült fel.
+a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt, akinek a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzését elvégezték és akivel szemben kockázati tényező nem merült fel.
+
+(2) Az európai létfontosságú rendszerelemekre vonatkozó azonosítási eljárásban az üzemeltető által igénybe vett közreműködő szervezet részéről csak olyan személy vehet részt, akinek a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzését elvégezték és akivel szemben kockázati tényező nem merült fel.
 
 5. § (1) A kormányrendeletben erre kijelölt szerv (a továbbiakban: nyilvántartó hatóság) nyilvántartja és kezeli
 
@@ -113,7 +112,8 @@ a hatóságok és a szakhatóságok részéről csak olyan személy vehet részt
 - c) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem helyszíni ellenőrzését lefolytató szerv (a továbbiakban: helyszíni ellenőrzést lefolytató szerv) részére a helyszíni ellenőrzés lefolytatása céljából,
 - d) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem hatósági ellenőrzésére jogszabály alapján feladat- és hatáskörrel rendelkező hatóságok részére a hatósági ellenőrzések lefolytatása céljából,
 - e) rendkívüli esemény bekövetkezése esetén az eseménykezelésben és a helyreállításban részt vevő szervek tevékenységének támogatása céljából,
-- f) a hivatásos katasztrófavédelmi szerv területi és helyi szervei részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából.
+- f) a hivatásos katasztrófavédelmi szerv területi és helyi szervei részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából,
+- g) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény (a továbbiakban: Ibtv.) 2. § (5) bekezdése és 14. § (1) bekezdése szerinti hatóság, az Európai Parlament és a Tanács 2016. július 6-i (EU) 2016/1148 irányelve alapján kormányrendeletben kijelölt egyedüli kapcsolattartó pont, valamint az Ibtv. 19. § (1) és (2) bekezdése szerinti eseménykezelő központ részére feladataik ellátása céljából.
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait az (1) bekezdésben meghatározott nyilvántartásból, valamint a kijelölési eljárásban érintett valamennyi hatóság nyilvántartásából
 
@@ -142,6 +142,8 @@ törölni kell, és erről az üzemeltetőt írásban értesíteni kell.
 (6) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője soron kívül módosítja az üzemeltetői biztonsági tervet, ha olyan változás áll be, amely érinti a létfontosságú rendszerelem tevékenységét, működését vagy védelmét. A módosított üzemeltetői biztonsági tervet az ágazati kijelölő hatóság a formai és tartalmi ellenőrzést követően megküldi az (1a) bekezdésben megjelölt szervek részére.
 
 (6a) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát, valamint a jogszabályban kijelölt ágazati szervet. Ha a bekövetkezett rendkívüli eseménnyel összefüggő kockázatot az üzemeltetői biztonsági tervben nem vizsgálták, úgy az újonnan felmerülő kockázat kezelésére az üzemeltető a (6) bekezdésben foglaltak szerint soron kívül módosítja az üzemeltetői biztonsági tervet.
+
+(6b) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője az általa bejelentendő biztonsági eseményről annak bekövetkezését követően haladéktalanul tájékoztatja a kormányrendeletben kijelölt eseménykezelő központot.
 
 (7) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője gondoskodik a biztonsági összekötő személy foglalkoztatásáról, és folyamatosan biztosítja a tevékenységéhez szükséges feltételeket. A biztonsági összekötő személy feladata a kapcsolattartás az üzemeltető és a kijelölési eljárásban részt vevő hatóságok, szakhatóságok között. Biztonsági összekötőnek az a büntetlen előéletű személy jelölhető ki, aki kormányrendeletben meghatározott képzettséggel rendelkezik. A büntetlen előéletre vonatkozó követelmény teljesülését a biztonsági összekötő igazolja.
 
@@ -288,15 +290,15 @@ kezeli.
 | 29 | űrtávközlés |
 | 30 | műsorszórás |
 | 31 | postai szolgáltatások |
-| 32 | kormányzati informatikai, elektronikus hálózatok |
+| 32 | kormányzati elektronikus információs rendszerek |
 | 33 | Víz | ivóvíz-szolgáltatás |
 | 34 | felszíni és felszín alatti vizek minőségének ellenőrzése |
 | 35 | szennyvízelvezetés és -tisztítás |
 | 36 | vízbázisok védelme |
 | 37 | árvízi védművek, gátak |
-| 38 | Jogrend – Kormányzat | kormányzati rendszerek, létesítmények, eszközök |
-| 39 | közigazgatási szolgáltatások |
-| 40 | igazságszolgáltatás |
+| 38 |  |  |
+| 39 |  |
+| 40 |  |
 | 41 | Közbiztonság – Védelem | rendvédelmi szervek infrastruktúrái |
 | 42 | Honvédelem | honvédelmi rendszerek és létesítmények |
 
@@ -339,8 +341,8 @@ kezeli.
 | 35 |  | szennyvízelvezetés és -tisztítás |  |  |
 | 36 |  | vízbázisok védelme |  |  |
 | 37 |  | árvízi védművek, gátak |  |  |
-| 38 | Jogrend – Kormányzat | kormányzati rendszerek, létesítmények, eszközök |  |  |
-| 39 |  | közigazgatási szolgáltatások |  |  |
-| 40 |  | igazságszolgáltatás |  |  |
+| 38 |  |  |  |  |
+| 39 |  |  |  |  |
+| 40 |  |  |  |  |
 | 41 | Közbiztonság – Védelem | rendvédelmi szervek infrastruktúrái |  |  |
 | 42 | Honvédelem | honvédelmi rendszerek és létesítmények |  |  |

@@ -230,8 +230,8 @@ haladéktalanul törli.
 
 29. § Felhatalmazást kap
 
-- a) az egészségügyért felelős miniszter és a miniszter arra, hogy állapítsa meg a felügyelők egészségi és fizikai alkalmassági követelményeit;
-- b) a miniszter, hogy rendeletben szabályozza
+- a) az egészségügyért felelős miniszter és a közterület-felügyelet szabályozásáért felelős miniszter arra, hogy állapítsa meg a felügyelők egészségi és fizikai alkalmassági követelményeit;
+- b) a közterület-felügyelet szabályozásáért felelős miniszter, hogy rendeletben szabályozza
   - ba) a kerékbilincs alkalmazásával, a járművek elszállításával, valamint az ezen intézkedések során felmerült költségekkel kapcsolatos szabályokat;
   - bb) a felügyelői intézkedések, továbbá a testi erő, a könnygázszóró palack, a szolgálati kutya alkalmazásának eljárási szabályait, a könnygázszóró palack igénylésének rendjét, átvételének, illetve visszavételének szabályait, a térítés módját;
   - bc) az egyenruhára vonatkozó szabályokat;

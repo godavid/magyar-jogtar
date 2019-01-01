@@ -40,9 +40,17 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 #### 7. A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény módosítása
 
-#### 12. §
+12. § A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 2. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 13. §
+„(2) Az Akadémia a központi költségvetésben önálló fejezetet alkot.”
+
+13. § (1) A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az akadémiai költségvetési szervek részt vesznek az Akadémia törvényben foglalt közfeladatainak ellátásában. Ezek finanszírozásának forrásai a költségvetési támogatás, más államháztartási források és saját bevételeik. Az akadémiai költségvetési szervek kutatási feladatait támogató tevékenységek tárgyi és személyi feltételeinek megteremtéséhez, a speciális kutatási feltételek biztosításához a kormányzati tudománypolitikáért felelős miniszter az általa vezetett minisztérium költségvetési fejezetében biztosít költségvetési támogatást.”
+
+(2) A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény 21. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az alapellátási támogatást módosítani kell az éves átlagos infláció mértékének megfelelően is, amennyiben ezt a költségvetési támogatás növekedése lehetővé teszi.”
 
 #### 8. A védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény módosítása
 
@@ -50,13 +58,39 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 #### 9. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-#### 15. §
+15. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 15. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
 
-#### 16. §
+(A személyes gondoskodás keretébe tartozó gyermekjóléti alapellátások:)
 
-#### 17. §
+„d) gyermekek esélynövelő szolgáltatásai.”
 
-#### 18. §
+16. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény VI/A. Fejezet címe helyébe a következő fejezetcím és alcím cím lép:
+
+„VI/A. FEJEZET
+
+GYERMEKEK ESÉLYNÖVELŐ SZOLGÁLTATÁSAI
+
+Biztos Kezdet Gyerekház”
+
+17. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény VI/A. Fejezete a következő 38/B. §-sal és azt megelőzően a következő alcím címmel egészül ki:
+
+„Tanoda
+
+38/B. § (1) A tanoda olyan, elsősorban rendszeres gyermekvédelmi kedvezményben részesülő, vagy hátrányos helyzetű vagy halmozottan hátrányos helyzetű gyermekek és kivételesen fiatal felnőttek számára nyújtott, önkéntesen igénybe vehető társadalmi felzárkózást segítő, a személyiségfejlődés egészét szem előtt tartó, prevenciós szolgáltatás, amely az Nktv. szerinti kötelező tanórai és egyéb foglalkozásokon való részvétel idején kívül, valamint a tanítási szünetekben segíti elő a szociokulturális hátrányok kompenzálását, a tanulmányok folytatását, a társadalomba való sikeres beilleszkedést, az életpálya-tervezést és a szabadidő hasznos eltöltését.
+
+(2) A tanoda a szolgáltatásait a helyi sajátosságokra és a gyermekek egyéni szükségleteire építve, a szülők bevonásával, a gyermek nevelési-oktatási intézményével, a család- és gyermekjóléti szolgálattal, a család- és gyermekjóléti központtal, a helyben elérhető egyéb, az érintett korosztály számára szolgáltatást nyújtó intézménnyel, valamint szükség esetén a gyermekvédelmi jelzőrendszer egyéb tagjával együttműködve nyújtja. A szolgáltatásnyújtás helyszínén kizárólag tanoda ellátás biztosítható.”
+
+18. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
+
+- 1. 35. § (6) bekezdésében a „Biztos Kezdet Gyermekház szolgáltatásban” szövegrész helyébe a „gyermekek esélynövelő szolgáltatásaiban” szöveg,
+- 2. 37/A. § (1) bekezdésében és 94. § (2) bekezdésében a „Biztos Kezdet Gyerekház” szövegrész helyébe a „gyermekek esélynövelő szolgáltatásai” szöveg,
+- 3. 139. § (1b) és (3b) bekezdésében a „Biztos Kezdet Gyerekház szolgáltatás” szövegrész helyébe az „A gyermekek esélynövelő szolgáltatásai” szöveg,
+- 4. 145/C. § (1) bekezdésében a „Gyerekházak” szövegrész helyébe a „gyermekek esélynövelő szolgáltatásai” szöveg,
+- 5. 149. §-ában a „Biztos Kezdet Gyerekház” szövegrész helyébe a „gyermekek esélynövelő szolgáltatásait” szöveg,
+- 6. 162. § (1) bekezdés w) pontjában a „Gyerekházak” szövegrész helyébe a „gyermekek esélynövelő szolgáltatásai” szöveg, és
+- 7. 162. § (2) bekezdés l) pontjában a „Biztos Kezdet Gyerekház” szövegrész helyébe a „gyermekek esélynövelő szolgáltatásainak” szöveg
+
+lép.
 
 #### 10. A társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény módosítása
 
@@ -170,7 +204,11 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 #### 55. §
 
-56. § (1)
+56. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(Nincs szükség a Kormány hozzájárulására az önkormányzat)
+
+„d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont szerinti, önkormányzat által megkötött, valamint az önkormányzati többségi tulajdonban álló gazdasági társaság által a naptári éven belül keletkeztetett és lejáró futamidejű adósságot keletkeztető ügylethez kapcsolódik.”
 
 (2)
 
@@ -210,7 +248,9 @@ Magyarország 2019. évi központi költségvetésének megalapozásáról
 
 (4)
 
-#### 71. §
+71. § Az államháztartásról szóló 2011. évi CXCV. törvény 93. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az állami viszontgarancia alapján az állam által kifizetett összeg behajtása (ideértve a követelés átruházást is) annak a jogi személynek a feladata, amely a viszontgarancia alapjául szolgáló kezességet, garanciát nyújtja (a továbbiakban: garantőr szervezet). A garantőr szervezet köteles minden szükséges jogcselekményt megtenni a kötelezettekkel szemben fennálló követelés behajtása érdekében. Az állami viszontgaranciával érintett követelés átruházására csak a Kormány rendeletében meghatározott esetekben kerülhet sor. Amennyiben a garantőr szervezet az állami viszontgarancia alapjául szolgáló kezesség biztosítékaként biztosítást köt, az ebből származó térítés behajtásból származó bevételnek minősül. A garantőr szervezet a követelés behajtásából származó, a Kormány rendeletében meghatározott költségekkel csökkentett bevételt az érvényesített állami viszontgarancia mértékével megegyező arányban köteles az államnak megfizetni. Ha a garantőr szervezet e fizetési kötelezettségének nem tesz eleget, a meg nem fizetett összeg az állammal szembeni köztartozássá válik, és azt adók módjára kell behajtani.”
 
 #### 72. §
 
@@ -273,7 +313,7 @@ lép.
 
 78. § (1) Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény
 
-- 1.
+- 1. 21. § (4a) bekezdése,
 - 2.
 - 3.
 
@@ -288,7 +328,7 @@ lép.
 - 7.
 - 8.
 - 9.
-- 10.
+- 10. 109. § (1) bekezdés 5. pontjában az „és a fejezeti stabilitási tartalék” szövegrész, és
 - 11.
 
 #### 29. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása

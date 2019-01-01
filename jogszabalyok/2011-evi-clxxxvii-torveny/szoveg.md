@@ -80,7 +80,9 @@ Magyarországon a munkaerőpiac és a gazdaság által keresett és elismert sza
 - 49. WorldSkills és EuroSkills: nemzetközi szakképzési versenyek, amelyeket 1954 óta szervez a WorldSkills International nemzetközi nonprofit szervezet, tagjai az adott ország szakképzésért felelős szervezetei. Mindkét verseny megrendezésére felváltva, páros és páratlan években kétévente kerül sor a tagországok legjobb ifjú szakmunkásai részvételével.
 - 50. kizárólag gyakorlati képzési célt szolgáló tanműhely: kifejezetten erre a célra létrehozott vagy átalakított, a termeléstől, szolgáltató tevékenységtől térben vagy időben teljesen elkülönített, a nyilvántartást vezető szerv által a gyakorlati képzés időtartama alatt kizárólag gyakorlati képzési célt szolgáló tanműhellyé minősített, állandó tanműhely-vezetői felügyelettel működő, legalább nyolc tanuló képzésére alkalmas, iskolán kívüli gyakorlati képzőhely, ahol a tanulók tanulószerződés vagy együttműködési megállapodás alapján vesznek részt a gyakorlati képzésben;
 - 51. ágazati képző központ: több gazdálkodó szervezet által létrehozott, a szakképzésért és felnőttképzésért felelős miniszter által rendeletben kiadott feltételeknek megfelelő gyakorlati képzést szervező;
-- 52. ágazaton belüli specializáció: a szakgimnáziumi ágazati képzés esetén az adott ágazaton belül egyes szakképesítések vagy azok csoportjának sajátos ágazati szakmai tartalma.
+- 52. ágazaton belüli specializáció: a szakgimnáziumi ágazati képzés esetén az adott ágazaton belül egyes szakképesítések vagy azok csoportjának sajátos ágazati szakmai tartalma;
+- 53. zárt rendszerű elektronikus távoktatás: elméleti képzési ismeretanyag oktatását digitális tananyag formájában informatikai hálózaton (Internet, intranet) keresztül zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósító távoktatási forma, ahol az oktató, az oktatásszervező és a tanuló vagy a képzésben résztvevő közös kommunikációs eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű távoktatási képzésmenedzsment rendszer;
+- 54. zárt rendszerű távoktatási képzésmenedzsment rendszer: a tanuló vagy a képzésben résztvevő képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti és értékeli – valamint a felnőttképzési, szakképzési és köznevelési regisztrációs és tanulmányi alaprendszer számára közvetíti – a tanuló vagy a képzésben résztvevő képzési programban rögzített előrehaladását, ellenőrző kérésekre adott válaszait, eredményeit, tevékenységét és végrehajtja – a tanuló vagy a képzésben résztvevő teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit.
 
 ## MÁSODIK RÉSZ — A TÖRVÉNY HATÁLYA ÉS A SZAKKÉPZÉS INTÉZMÉNYRENDSZERE
 
@@ -136,7 +138,7 @@ irányul.
 
 (2b) Az OKJ-ban az Egészségügy és az Egészségügyi technika ágazatba sorolt szakképesítésben és az ezeket megalapozó ágazati képzésben államilag támogatott, és egyéb iskolai rendszerű szakképzés, és vizsgáztatás kizárólag az egészségügyért felelős miniszter szakmai irányításával, egyetértésével, és hozzájárulásával folyhat. Az Egészségügy és az Egészségügyi technika ágazatban a szakképzések szakmai és módszertani fejlesztéséért az egészségügyért felelős miniszter felel.
 
-(3) Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a szakképesítésért felelős miniszter hozzájárulásával folytathat államilag támogatott iskolai rendszerű szakképzést, ha a 2014/2015. tanévben az OKJ-ban az agrárágazatba sorolt szakképzést indított.
+(3) Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény a szakképesítésért felelős miniszter hozzájárulásával folytathat államilag támogatott iskolai rendszerű szakképzést.
 
 (4) Ha a (2) bekezdésben meghatározott miniszter feladatkörébe tartozó szakképzés tekintetében a szakmai feladatok végrehajtása körében a magyar állam kizárólagos tulajdonában álló gazdasági társaság működik közre, e gazdasági társaság vezető tisztségviselője jogosult a szakképesítések vizsgafeladataival kapcsolatos, a kezelésében lévő adatok minősítésére a minősített adat védelméről szóló törvényben meghatározottak szerint.
 
@@ -144,13 +146,23 @@ irányul.
 
 (2) A szakképzési centrum kollégiumi alapfeladatot, továbbá nevelő- és oktatómunkához kapcsolódó, nem köznevelési tevékenységet is elláthat.
 
+(2a) A felsőoktatási intézmény, valamint a szakképzésért és felnőttképzésért felelős miniszter engedélyével a szakképzési centrum az ágazati képző központban részesedést szerezhet. A felsőoktatási intézményben, szakképzési centrumban magasabb vezetői és vezetői megbízással rendelkező személy és e személy hozzátartozója nem lehet a részesedéssel érintett ágazati képző központ vezető tisztségviselője, könyvvizsgálója és felügyelő bizottsági tagja.
+
 (3) A szakképzési centrum alapfeladatának ellátását szolgáló feladatellátási helye a szakképző iskolai feladatot ellátó tagintézményének címe. A szakképzési centrum tagintézménye több telephelyen is működhet. A több telephelyen működő tagintézmény esetében valamennyi telephelyen biztosítani kell a tagintézmény vezetőjének jogszabályban meghatározott köznevelési feladatai helyettesítés útján történő ellátását.
 
 (4) A szakképzési centrumnak a szakképző iskolai osztályban tanulók hivatalos októberi statisztikai létszám alapján, három tanítási év átlagában számított létszáma legalább kétezer fő.
 
-(5) A szakképzési centrum élén főigazgató áll, helyettesei a szakmai főigazgató-helyettes és a gazdasági főigazgató-helyettes. A szakképzési centrum tagintézménye élén igazgató áll, akinek helyettese igazgató-helyettesi megbízást kap. A főigazgatót és a gazdasági főigazgató-helyettest a szakképzésért és felnőttképzésért felelős miniszter nevezi ki. A szakmai főigazgató-helyettest a szakképzési centrum főigazgatója nevezi ki. A szakképzési centrum főigazgatójának és szakmai főigazgató-helyettesének az nevezhető ki, aki a nemzeti köznevelésről szóló törvényben meghatározott feltételeken túl legalább hároméves szakképzési vezetői gyakorlattal vagy legalább hároméves szakképzési intézményfenntartói vagy szakképzési igazgatási, közigazgatási tapasztalattal rendelkezik.
+(5) A szakképzési centrum első számú felelős vezetője és képviselője a főigazgató, aki eljár és dönt mindazokban az ügyekben, amelyeket jogszabály vagy a szervezeti és működési szabályzat nem utal más személy vagy testület hatáskörébe. A kancellár a szakképzési centrum vezetőjeként és képviselőjeként jár el a 4/D. § (2) bekezdés a)–f) pontjában meghatározott feladatai tekintetében. A főigazgató a kancellár döntésével vagy intézkedésével szemben, illetve intézkedésének elmulasztása esetén – a tudomásszerzéstől számított 8 napon belül – a fenntartóhoz intézett kifogással élhet.
 
-(6) A szakképzési centrumban tagintézmény-vezetői megbízást az kaphat, aki a tagintézmény által ellátott feladatoknak megfelelő típusú önálló köznevelési intézmény, többcélú intézmény intézményvezetői megbízásához előírt feltételeknek megfelel. A szakképzési centrum tagintézmény-vezetőjét a munkáltató az oktatásért felelős miniszter egyetértésével bízza meg. Az oktatásért felelős miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
+(5a) A főigazgató a szakképzési centrum alaptevékenységnek megfelelő működéséért felelős. Ennek keretében gyakorolja a pedagógusok, a szakmai tárgyat oktatók, a nevelő, oktató munkát közvetlenül segítő munkakörben foglalkoztatottak és a pedagógiai szakmai munka koordinációját végző dolgozók tekintetében a 4/C. § (4) bekezdésében a főigazgató számára meghatározott munkáltatói jogokat, valamint a megbízási jogviszonnyal kapcsolatos, a megbízót megillető jogosultságokat.
+
+(5b) A főigazgató az (5a) bekezdésben meghatározott foglalkoztatottak illetményének, illetve megbízási díjának megállapítására a kancellár egyetértésével jogosult.
+
+(5c) A főigazgató helyettese a szakmai főigazgató-helyettes. A szakképzési centrum tagintézménye élén igazgató áll, akinek helyettese igazgatóhelyettesi megbízást kap. A főigazgatót a szakképzésért és felnőttképzésért felelős miniszter, a szakmai főigazgató-helyettest a szakképzési centrum főigazgatója bízza meg. Szakképzési centrum főigazgatói és szakmai főigazgató-helyettesi megbízást az kaphat, aki a nemzeti köznevelésről szóló törvényben meghatározott feltételeken túl legalább hároméves szakképzési vezetői gyakorlattal vagy legalább hároméves szakképzési intézményfenntartói vagy szakképzési igazgatási, közigazgatási tapasztalattal rendelkezik.
+
+(5d) A szakképzési centrum gazdasági vezetőjének megbízására és a megbízás visszavonására a kancellár jogosult.
+
+(6) A szakképzési centrumban tagintézmény-vezetői megbízást az kaphat, aki a tagintézmény által ellátott feladatoknak megfelelő típusú önálló köznevelési intézmény, többcélú intézmény intézményvezetői megbízásához előírt feltételeknek megfelel. A szakképzési centrum tagintézmény-vezetőjét a főigazgató az oktatásért felelős miniszter egyetértésével bízza meg. Az oktatásért felelős miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
 
 (7) A szakképzési centrum tagintézmény-vezetője intézményvezetői, a tagintézményvezető-helyettese intézményvezető-helyettesi illetménypótlékra jogosult.
 
@@ -166,7 +178,26 @@ irányul.
 
 (5) A közalkalmazottak élet- és munkakörülményeit érintő kérdésekben a főigazgató a szakképzési centrum szakszervezeti szervezetével, az igazgató a tagintézmény szakszervezete alapszervezeti titkáraival egyeztet.
 
-(6) Az állami szakképzési és felnőttképzési szerv a szakképzési centrum feletti fenntartói jog gyakorlásában az állami szakképzési és felnőttképzési szerv kijelöléséről szóló kormányrendeletben foglaltak szerint vesz részt. Az állami szakképzési és felnőttképzési szerv vezetőjét az e bekezdés szerinti feladatellátás keretében a szakképzési centrum közalkalmazotti jogviszonyban teljes munkaidőben foglalkoztatott oktatóival szemben a közalkalmazottak jogállásáról szóló törvény 30/A. § szerinti munkakör-felajánlási kötelezettség abban az esetben is terheli, ha az oktató munkáltatójánál megszűnnek az oktató teljes munkaidős foglalkoztatásának feltételei.
+(6) Az állami szakképzési és felnőttképzési szerv a szakképzési centrum felett – az államháztartásról szóló 2011. évi CXCV. törvény 9. § a), c)–d) és j) pontjában meghatározott irányítási hatáskörök kivételével – az állami szakképzési és felnőttképzési szerv kijelöléséről szóló kormányrendeletben foglaltak szerint gyakorolja az irányító szervi hatásköröket és a jogszabályban meghatározott más fenntartói jogokat. Az állami szakképzési és felnőttképzési szerv vezetőjét az e bekezdés szerinti feladatellátás keretében a szakképzési centrum közalkalmazotti jogviszonyban teljes munkaidőben foglalkoztatott oktatóival szemben a közalkalmazottak jogállásáról szóló törvény 30/A. § szerinti munkakör-felajánlási kötelezettség abban az esetben is terheli, ha az oktató munkáltatójánál megszűnnek az oktató teljes munkaidős foglalkoztatásának feltételei.
+
+4/D. § (1) A szakképzési centrum működtetését a (2) bekezdésben meghatározottak szerint a kancellár végzi. A kancellár megbízására és a megbízás visszavonására a szakképzésért és felnőttképzésért felelős miniszter jogosult. A kancellár a szakképzési centrummal áll közalkalmazotti jogviszonyban, felette a munkáltatói jogokat – a megbízás és a megbízás visszavonása kivételével – az állami szakképzési és felnőttképzési szerv vezetője gyakorolja.
+
+(2) A kancellár
+
+- a) felel a szakképzési centrum gazdasági, pénzügyi, kontrolling, számviteli, munkaügyi, jogi, igazgatási, informatikai tevékenységéért, az intézmény vagyongazdálkodásáért, ideértve a műszaki, létesítményhasznosítási, üzemeltetési, logisztikai, szolgáltatási, beszerzési és közbeszerzési ügyeket is, irányítja e területen a működést,
+- b) felel a gazdálkodási, valamint az a) pontban meghatározott területek tekintetében a szükséges intézkedések és javaslatok előkészítéséért, ennek keretében egyetértési jogot gyakorol a főigazgatónak az intézmény gazdálkodását, szervezetét, működését érintő gazdasági következménnyel járó döntései és intézkedései tekintetében, az egyetértés e döntések érvényességének, illetve hatálybalépésének feltétele,
+- c) a szakképzési centrum rendelkezésére álló források felhasználásával gondoskodik annak feltételeiről, hogy az intézmény gazdálkodása az alapfeladatok ellátását biztosítsa,
+- d) gyakorolja a szakképzési centrumot megillető tulajdonosi jogokat azon gazdasági társaságokban, gazdálkodó szervezetekben, ahol a szakképzési centrum részesedéssel rendelkezik,
+- e) a pedagógusok, a szakmai tárgyat oktatók és a nevelő, oktató munkát közvetlenül segítő munkakörben dolgozók, valamint a pedagógiai szakmai munka koordinációját végző dolgozók kivételével munkáltatói jogkört gyakorol a szakképzési centrumban foglalkoztatott alkalmazottak felett, valamint gondoskodik a jogszabályoknak megfelelő pénzügyi-szakmai kompetencia biztosításáról,
+- f) gondoskodik a gazdasági vezetői feladatok ellátásáról,
+- g) feladatai ellátása során a főigazgató tekintetében fennálló együttműködési, tájékoztatási kötelezettségének köteles eleget tenni.
+
+(3) Kancellári megbízást az kaphat, illetve a kancellári megbízás azzal tartható fenn, aki
+
+- a) köznevelési intézményben, felsőoktatási intézményben, gazdasági társaságban, vagy a központi vagy területi közigazgatásban szerzett legalább hároméves vezetői gyakorlattal, és
+- b) felsőfokú végzettséggel rendelkezik.
+
+(4) A kancellár akadályoztatása, érintettsége esetén a kancellár helyetteseként a szervezeti és működési szabályzatban kijelölt vezető jogosult eljárni. A kancellári tisztség betöltetlensége esetén a kancellári feladatokat a tisztség betöltéséig a főigazgató látja el.
 
 5. § (1)–(5)
 
@@ -210,7 +241,7 @@ irányul.
 - a) a szakképesítés azonosító számát, szintjét és megnevezését,
 - b) a szakképesítés megszerzéséhez szükséges képzés képzés-szervezési formától függő adott időtartamát (az iskolai rendszerű szakképzésben a szakképzési évfolyamok számát, az iskolarendszeren kívüli szakképzésben az óraszámot),
 - c) a szakképesítések szakmacsoportját és szakgimnáziumi ágazat szerinti besorolását,
-- d) annak a megjelölését, hogy a szakképesítés az esti, a levelező, a távoktatás vagy egyéb sajátos munkarend szerinti képzésben oktatható,
+- d) annak a megjelölését, hogy a szakképesítés a nappali, az esti, a levelező, a távoktatás, a zárt rendszerű elektronikus távoktatás, vagy egyéb sajátos munkarend szerinti képzésben oktatható,
 - e) a szakképesítésért felelős miniszter megnevezését.
 
 (4) Szakképesítésért felelős miniszternek szakképesítésenként egy miniszter nevezhető meg. A szakképesítésért felelősként a Központi Statisztikai Hivatal elnöke és a Közbeszerzési Hatóság elnöke is megjelölhető, amennyiben a szakképesítés szakmai és vizsgakövetelményének kidolgozása az ő feladatkörébe tartozik.
@@ -679,7 +710,7 @@ kezeli.
 
 34/A. § (1) A 4/A. § (2) és (2b) bekezdése szerinti miniszter – a 4/A. § (1) bekezdés b) pontjában meghatározott kivétellel –, a honvédelemért felelős miniszter, a rendészetért felelős miniszter, valamint az Egészségügy és az Egészségügyi technika ágazat tekintetében az állami felsőoktatási intézmény által fenntartott szakképző iskola a nappali rendszerben kizárólag általuk oktatható szakképesítések és azokat megalapozó szakgimnáziumi ágazatok tekintetében kizárólagos jogosultsággal végezhet felnőttoktatást.
 
-(2) A nem állami fenntartó által fenntartott szakképző iskolában folyó felnőttoktatásban részt vevők létszáma nem haladhatja meg a nappali rendszerű oktatásban részt vevő tanulók – hivatalos októberi statisztikai létszám alapján három tanítási év átlagában számított – létszámát. A felnőttoktatásban részt vevők létszámába nem számít bele a 84. § (5) bekezdés szerinti döntésben foglaltakat meghaladó, állami intézményfenntartótól kizárólag felnőttoktatás céljára átvett keretszámmal megegyező létszám.
+(2) A nem állami fenntartó által fenntartott szakképző iskolában folyó felnőttoktatásban részt vevők létszáma a szakképzési megállapodásról szóló kormányrendeletben meghatározott feltételek szerint haladhatja meg a nappali rendszerű oktatásban részt vevő tanulók – hivatalos októberi statisztikai létszám alapján három tanítási év átlagában számított – létszámát. A felnőttoktatásban részt vevők létszámába nem számít bele a 84. § (5) bekezdés szerinti döntésben foglaltakat meghaladó, állami intézményfenntartótól kizárólag felnőttoktatás céljára átvett keretszámmal megegyező létszám.
 
 (3) A szakképzési centrum saját, heti negyven órás munkaidőben foglalkoztatott közalkalmazottját a napi munkaidőn és a nemzeti köznevelésről szóló törvény 62. § (5) és (6) bekezdésében meghatározott időkereten túli órákra – kizárólag a felnőttoktatás esti, levelező munkarend szerint megszervezett osztályainak óráira vonatkozóan – megbízási jogviszonyban alkalmazhatja óraadóként. Az ilyen további foglalkoztatás keretében foglalkoztatott óraadókra nem kell alkalmazni a nemzeti köznevelésről szóló törvényben az óraadókra vonatkozóan meghatározott óraszámkorlátot.
 
@@ -1268,7 +1299,7 @@ köteles fizetni.
 - b) működteti a nemzeti referencia és koordináló központot, valamint a szakképzési tájékoztatási és információs központot,
 - c)
 - d) ellátja a szakképzési hozzájárulással, valamint a szakképzési és felnőttképzési támogatások kezelésével összefüggő, a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvényben meghatározott feladatokat,
-- e) működteti a szakképzési centrumok pedagógiai-szakmai tevékenységeit kiszolgáló egységes elektronikus tanügy-igazgatási nyilvántartó és adatszolgáltatási rendszert,
+- e) működteti a szakképzési centrumok pedagógiai-szakmai tevékenységét, valamint a zárt rendszerű képzésmenedzsment rendszert kiszolgáló egységes elektronikus felnőttképzési, szakképzési és köznevelési regisztrációs és tanulmányi alaprendszert,
 - f) központi szakmai-módszertani feladatkörében kutató és fejlesztő-szolgáltató feladatokat lát el, valamint koordinálja a 72. § (3a) bekezdése szerinti szerv és a 73. § (4) bekezdésében meghatározott feladatokban részt vevő intézetek munkáját,
 - g)
 
@@ -1778,6 +1809,14 @@ szerezhetnek.
 (4) A 22/A. § (1) bekezdése szerinti írásbeli nyilatkozattételi kötelezettség a szakgimnáziumi tanulmányokat a 2016/2017. tanévben kilencedik évfolyamon, valamint a 2017/2018. tanévben 9. évfolyamon megkezdett tanulókra is kiterjed.
 
 (5) Az ágazati készségtanács tagjait és elnökét első alkalommal az országos kereskedelmi és iparkamara javaslatára a szakképzésért és felnőttképzésért miniszter jelöli ki.
+
+92/F. § (1) A kancellár megbízását követő hatvan napon belül a szakképzésért és felnőttképzésért felelős miniszter a változó szervezeti és működési rend kialakítása céljából a szakképzési centrum főigazgatói megbízására nyilvános pályázatot ír ki.
+
+(2) A kancellár megbízásával egyidejűleg a szakképzési centrum gazdasági főigazgató-helyettesének magasabb vezetői megbízása vezetői megbízássá alakul át. A kancellár megbízását követő legfeljebb hatvan napon belül dönt a gazdasági vezető megbízásának fenntartásáról vagy annak visszavonásáról.
+
+(3) A szakképzési centrum főigazgatója és gazdasági vezetője a kancellár megbízását követő tíz munkanapon belül jegyzőkönyv felvétele mellett személyesen adja át az e törvényben a kancellár feladatköreként meghatározott területek feladat- és hatáskörének gyakorlását, továbbá az általa vezetett érintett szervezeti egységet a kancellárnak.
+
+(4) A kancellár a megbízását követő hatvan napon belül köteles javaslatot tenni a szakképzési centrum szervezeti és működési szabályzatának módosítására.
 
 #### 56. Az Európai Unióra vonatkozó és nemzetközi vonatkozású rendelkezések
 

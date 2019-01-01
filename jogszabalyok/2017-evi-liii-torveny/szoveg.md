@@ -21,7 +21,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - i) játékkaszinót, kártyatermet működtetőre vagy távszerencsejátéknak nem minősülő fogadást, távszerencsejátékot, online kaszinójátékot szervezőre;
 - j) nemesfémmel vagy az ezekből készült tárgyakkal kereskedőre;
 - k) árukereskedőre, amennyiben tevékenysége folytatása során kétmillió-ötszázezer forintot elérő vagy meghaladó összegű készpénzfizetést fogad el;
-- l) ügyvédre, európai közösségi jogászra (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre és
+- l) ügyvédre, ügyvédi irodára, európai közösségi jogászra, európai közösségi jogászi irodára (a továbbiakban együtt: ügyvéd), kamarai jogtanácsosra, közjegyzőre és
 - m) bizalmi vagyonkezelőre
 
 (a továbbiakban együtt: szolgáltató).
@@ -165,7 +165,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 - a) a)–e) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
 - b) i) pontjában meghatározott szolgáltatók vonatkozásában a szerencsejáték felügyeleti hatóság;
 - c) g) pontjában meghatározott szolgáltatók vonatkozásában a Magyar Könyvvizsgálói Kamara;
-- d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az egyéni ügyvédekre és az ügyvédi irodákra (a továbbiakban együtt: ügyvéd), a kamarai jogtanácsosokra, valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
+- d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az ügyvédekre, a kamarai jogtanácsosokra, valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
   - da) az ügyvédek és a kamarai jogtanácsosok esetében az a kamara, amelynek az ügyvéd, kamarai jogtanácsos a tagja (a továbbiakban: területi ügyvédi kamara),
   - db) a közjegyzők esetében az a kamara, amelynek a közjegyző a tagja (a továbbiakban: területi közjegyzői kamara);
 - e) j) és k) pontjában meghatározott szolgáltatók vonatkozásában a kereskedelmi hatóság;
@@ -979,12 +979,12 @@ részére.
 
 #### 19. Az ügyvédekre, a kamarai jogtanácsosokra és a közjegyzőkre vonatkozó eltérő rendelkezések
 
-73. § (1) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség az ügyvédet – a (3) bekezdésben foglalt kivétellel – akkor terheli, ha pénz és értéktárgy letéti kezelését végzi, vagy ha a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
+73. § (1) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség az ügyvédet – a (3) bekezdésben foglalt kivétellel – akkor terheli, ha az Üttv. 3. § (1) bekezdés i) pontja szerinti tevékenységet végez, vagy ha pénz és értéktárgy letéti kezelését végzi, illetve a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
 
 - a) gazdasági társaságban vagy egyéb gazdálkodó szervezetben lévő vagyonrész (részesedés) tulajdonának átruházása,
 - b) ingatlan tulajdonának átruházása,
-- c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése;
-- d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat
+- c) gazdasági társaság vagy egyéb gazdálkodó szervezet alapítása, működtetése, megszűnése,
+- d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat,
 - e) ingó vagyonelem, különösen pénzeszköz, pénzügyi eszköz ellenérték nélkül történő átruházása.
 
 (1a) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a kamarai jogtanácsost – az (1b) és (3) bekezdésben foglalt kivétellel – akkor terheli, ha a következő jogügyletek előkészítésével és végrehajtásával összefüggésben végez az Üttv. 2. § (1) bekezdésében meghatározott ügyvédi tevékenységet:
@@ -995,6 +995,10 @@ részére.
 - d) bizalmi vagyonkezelési szerződés vagy bizalmi vagyonkezelés létesítésére irányuló egyoldalú jognyilatkozat.
 
 (1b) A kamarai jogtanácsost az e törvény szerinti szolgáltatónak minősülő ügyfele számára a szolgáltató e törvény hatálya alá tartozó tevékenysége keretében végzett ügyvédi tevékenysége alapján terhelő kötelezettségeket a kamarai jogtanácsos ügyfele a rá, mint szolgáltatóra vonatkozó szabályok szerint teljesíti.
+
+(1c) Az ügyvédet és a kamarai jogtanácsost az e törvényben meghatározott ügyfél-átvilágítási kötelezettség akkor terheli, ha az (1) vagy az (1a) bekezdés és a 6. § (1) bekezdése szerinti feltételek együttesen állnak fenn. Kamarai jogtanácsos esetén ügyleti megbízás alatt az ügyfele számára az (1b) bekezdés alá nem tartozó tevékenység ellátását kell érteni.
+
+(1d) Az ügyvéd és a kamarai jogtanácsos ügyfél-átvilágítási és bejelentési kötelezettsége az ügyfelével szerződő személyre és képviselőjére is kiterjed.
 
 (2) Az e törvényben meghatározott ügyfél-átvilágítási és bejelentési kötelezettség a közjegyzőt – a (4) bekezdésben foglalt kivétellel – akkor terheli, ha bizalmi őrzést végez, vagy a Kjtv.-ben meghatározott más polgári nemperes eljárást folytat le a következő jogügyletek előkészítésével és végrehajtásával kapcsolatban:
 
@@ -1033,7 +1037,13 @@ részére.
 
 (6) E törvény alkalmazásában a közjegyzőt nem terheli a Kjtv. 3. § (2) bekezdésében előírt kötelezettség.
 
-76. § (1) Az e törvényben meghatározott felügyeleti eljárásrendről, felügyeleti kockázatértékelésről és felügyeleti útmutatóról, valamint az egyéni ügyvéd, az egyszemélyes ügyvédi iroda, valamint a kamarai jogtanácsosnak a 73. § (1b) bekezdés hatálya alá nem tartozó ügyvédi tevékenysége tekintetében az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a Magyar Ügyvédi Kamara egységes szabályzatot készít, amely az egyéni ügyvéd, az egyszemélyes ügyvédi iroda, valamint a kamarai jogtanácsosnak a 73. § (1b) bekezdés hatálya alá nem tartozó ügyvédi tevékenysége tekintetében a 65. §-ban meghatározott belső szabályzatnak és kockázatértékelésnek minősül.
+76. § (1) Az e törvényben meghatározott
+
+- a) a területi ügyvédi kamarák által alkalmazandó felügyeleti eljárásrendről, felügyeleti kockázatértékelésről és felügyeleti útmutatóról,
+- b) az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeire, auditálásának módjára és az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására, valamint
+- c) az egyéni ügyvéd, az egyszemélyes ügyvédi iroda 73. § (1) bekezdése szerinti, továbbá a kamarai jogtanácsos 73. § (1a) bekezdése szerinti tevékenysége tekintetében az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére
+
+a Magyar Ügyvédi Kamara egységes szabályzatot készít, amely az egyéni ügyvéd, az egyszemélyes ügyvédi iroda 73. § (1) bekezdése szerinti, továbbá a kamarai jogtanácsos 73. § (1a) bekezdése szerinti tevékenysége tekintetében a 65. §-ban meghatározott belső szabályzatnak és kockázatértékelésnek minősül.
 
 (2)
 
