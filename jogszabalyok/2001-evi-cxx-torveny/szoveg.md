@@ -24,6 +24,11 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - n)–p)
 - q) Magyarország területén a befektetési alapkezelő, kollektív befektetési forma, befektetési vállalkozás, a központi értéktár, a pénzügyi intézmény, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény által végzett, e törvényben meghatározott értékpapír-kölcsönzésre.
 
+1/A. § E törvény hatálya kiterjed
+
+- a) az STS értékpapírosításnak, illetve szintetikus értékpapírosításnak nem minősülő értékpapírosításra, valamint
+- b) a KCGE-re, az értékpapírosítást kezdeményezőre, a szponzorra, az intézményi befektetőre és az eredeti hitelezőre.
+
 2. § Nem tartozik a törvény hatálya alá
 
 - a) a szövetkezeti üzletrész, a csekk, a váltó, a kárpótlási jegy, a közraktárjegy forgalomba hozatala, és az állampapír zártkörű forgalomba hozatala,
@@ -93,6 +98,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 34. ellenőrző befolyás: a Hpt.-ben ilyenként meghatározott fogalom,
 - 35. ellenőrzött társaság: a Ptk. 3:324. § (1) bekezdésében meghatározott társaság,
 - 36. elszámolási rendszer: pénzügyi eszközre kötött ügyletekre vonatkozó megbízások egységes rend és közös szabályok szerinti feldolgozására, elszámolására, illetve teljesítésére vonatkozó, a rendszer tagjai által kötött kölcsönös megállapodás,
+- 36a. eredeti hitelező: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 20. pontjában meghatározott fogalom,
 - 37. külföldi elszámolóház: pénzügyi eszközre kötött ügyletek elszámolását végző olyan nem magyarországi székhelyű vállalkozás, amely nem tartozik sem a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet), sem az Európai Unión belüli értékpapír-kiegyenlítés javításáról és a központi értéktárakról, valamint a 98/26/EK és a 2014/65/EU irányelv, valamint a 236/2012/EU rendelet módosításáról szóló, 2014. július 23-i 909/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 909/2014/EU rendelet) hatálya alá,
 - 38–39.
 - 39a.
@@ -101,6 +107,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 42. értékpapír: a forgalomba hozatal helyének joga szerint értékpapírnak minősülő pénzügyi eszköz,
 - 43. értékpapírkód: az értékpapír sorozat azonosítására szolgáló ISIN azonosító,
 - 44. értékpapír-kölcsönzés: értékpapír tulajdonjogának olyan átruházása, amelynek keretében a kölcsönbe adó a kölcsönbe vevő részére azzal a kötelezettséggel ruház át értékpapírt, hogy a kölcsönbe vevő köteles azonos darabszámú és azonos sorozatú értékpapírt egy, a szerződésben vagy a kölcsönbe adó által meghatározott jövőbeni időpontban visszaadni a kölcsönbe adó vagy az általa megjelölt harmadik személy részére,
+- 44a. értékpapírosítás: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott fogalom,
+- 44b. értékpapírosítást kezdeményező: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 3. pontjában meghatározott fogalom,
 - 45. értékpapír-sorozat: e törvény eltérő rendelkezése hiányában az azonos előállítású, azonos jogokat megtestesítő értékpapír egy meghatározott időpontban forgalomba hozott teljes mennyisége, illetve az eltérő időpontban forgalomba hozott értékpapírok valamely későbbi időpontban azonos jogokat megtestesítő teljes mennyisége,
 - 46. értékpapírszámla: a dematerializált értékpapírról és a hozzá kapcsolódó jogokról az értékpapír-tulajdonos javára vezetett nyilvántartás,
 - 47.
@@ -149,6 +157,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 85. közvetlen befektetési ajánlás: olyan befektetési ajánlás, amely pénzügyi eszköz vagy tőzsdei termék vételére, eladására, tartására vagy ezekkel egyenértékű befektetői döntésre tesz kifejezett javaslatot,
 - 85a. közvetlen elektronikus hozzáférés: a Bszt.-ben meghatározott fogalom,
 - 86. külföldi befektetési vállalkozás: a székhely állam jogszabályi rendelkezéseinek megfelelően a Bszt. 5. §-ában meghatározott befektetési szolgáltatási tevékenységnek és kiegészítő szolgáltatásnak megfeleltethető tevékenység folytatására engedéllyel rendelkező külföldi székhelyű vállalkozás,
+- 86a. különleges célú gazdasági egység (KCGE): az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott fogalom,
 - 87. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol. A leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni,
 - 88. letéti őrzés: a Bszt.-ben meghatározott szolgáltatás,
 - 89. letétkezelés: a Bszt.-ben meghatározott szolgáltatás,
@@ -177,6 +186,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 111. részesedési viszony: egy személy és egy vállalkozás között létrejött olyan – ellenőrző befolyásnak nem minősülő – kapcsolat, amelynek alapján a személy – közvetlenül vagy közvetett módon – a szavazati jogok vagy a tagi részesedés legalább húsz százalékát birtokolja. A szavazati jogok figyelembevételénél az Szmt. vonatkozó előírásai szerint kell eljárni, függetlenül attól, hogy a személy az Szmt. hatálya alá tartozik-e,
 - 112. rövid pozíció: minden olyan pozíció, amely esetében az érdekeltség az alapul szolgáló eszköz árváltozását tekintve, árcsökkenés hatására értéknövekedésben nyilvánul meg,
 - 113. sorozatban kibocsátott értékpapír: ha jogszabály másként nem rendelkezik, az alapjául szolgáló jogviszonyból eredő jogokat és kötelezettségeket több azonos, egymással egyenértékű részre (névérték) osztva megtestesítő értékpapír,
+- 113a. STS értékpapírosítás: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet alapján egyszerű, átlátható és egységesített értékpapírosításnak minősülő értékpapírosítás,
 - 114. szabályozott piac: az Európai Unió tagállamának tőzsdéje és minden más olyan piaca, amely megfelel a következő feltételeknek:
   - a) piacműködtető által működtetett, illetve irányított multilaterális rendszer,
   - b) megkülönböztetésmentesen, szabályaival összhangban összehozza több harmadik fél pénzügyi eszközökben lévő vételi és eladási szándékát, vagy elősegíti ezt oly módon, hogy az szerződést eredményez a szabályai alapján kereskedésre bevezetett pénzügyi eszköz tekintetében,
@@ -186,9 +196,9 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 115.
 - 116. szabályozott információ: a rendszeres és a rendkívüli tájékoztatás körébe tartozó, a befolyásszerzéssel kapcsolatos, továbbá a bennfentes információk,
 - 117. származtatott (derivatív) ügylet: olyan ügylet, amelynek értéke az alapjául szolgáló pénzügyi eszköz, deviza, áru vagy referenciaráta (alaptermék) értékétől függ és önálló kereskedés tárgyát képezi,
-- 118.
+- 118. szintetikus értékpapírosítás: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 10. pontjában meghatározott fogalom,
 - 118a.
-- 119. tagsági jogokat megtestesítő értékpapír: minden olyan értékpapír, amelyben a kibocsátó meghatározott pénzösszeg, illetve pénzben meghatározott nem pénzbeli vagyoni érték tulajdonba vételét elismerve arra kötelezi magát, hogy az értékpapír birtokosának meghatározott szavazati, vagyoni és egyéb jogokat biztosít,
+- 119. szponzor: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 5. pontjában meghatározott fogalom,
 - 119a. társasági esemény: az az alkalom, amikor az értékpapír tulajdonosa jogosult az értékpapírhoz kapcsolódó jogok kibocsátóval szembeni gyakorlására,
 - 120. teljesítés: a központi értéktár ügyfelei és a központi szerződő fél ügyfelei között, a központi szerződő fél kötelezettségvállalása mellett kötött ügylet esetében a központi szerződő fél ügyfelei és a központi szerződő fél között fennálló pénzben, illetve nem pénzben meghatározott követelések (pozíciók) kiegyenlítése,
 - 121. termékcsoport: olyan termékek köre, amelyekkel a tőzsdén annak szabályzata alapján azonos feltételek mellett lehet kereskedni,
@@ -201,6 +211,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 128. ügyfél: az a személy, aki e törvény hatálya alá tartozó szolgáltatást vesz igénybe,
 - 129.
 - 130. ügyfélszámla: az ügyfél pénzeszközeinek nyilvántartására szolgáló, korlátozott rendeltetésű számla, amely kizárólag a számlavezető által nyújtott befektetési szolgáltatás, kiegészítő szolgáltatás, illetve árutőzsdei szolgáltatás során igénybe vett szolgáltatásokhoz kapcsolódó tranzakciók lebonyolítására szolgál,
+- 130a. ügyletrészsorozat: az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 6. pontjában meghatározott fogalom,
 - 131. vállalkozás: jogi formájától függetlenül az, aki rendszeres gazdasági tevékenységet folytat,
 - 132–133.
 - 134. vezető állású személy:
@@ -616,7 +627,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 
 - a) közzé kell tenni a (4) bekezdésben meghatározott helyen, vagy
 - b) valamennyi forgalomba hozatali helyen, valamint a kibocsátó székhelyén vagy a szabályozott piac, illetve multilaterális kereskedési rendszer kijelölt helyiségében ingyenesen a nyilvánosság számára elvitelre is rendelkezésre kell bocsátani, és
-- c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés k)–r) pontjában meghatározott – a tájékoztató tartalmával megegyező – adatokat.
+- c) a Felügyeletnek elektronikus úton be kell jelenteni a 391. § (1) bekezdés 10–17. pontjában meghatározott – a tájékoztató tartalmával megegyező – adatokkal.
 
 (4) A közzététel helye:
 
@@ -2179,167 +2190,84 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 (3) A tagsági viszony megszűnése nem érinti a vállalkozásnak a tagsági viszony fennállása alatt keletkezett díjfizetési kötelezettségét. A tagsági viszony fennállása alatt díjfizetés címén teljesített befizetés a tagsági viszony megszűnésére hivatkozással részben sem téríthető vissza.
 
-## NYOLCADIK RÉSZ — BEFEKTETÉSI ALAPOK
+## NYOLCADIK RÉSZ — ÉRTÉKPAPÍROSÍTÁSRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-### XXV. Fejezet — BEFEKTETÉSI-ALAPKEZELŐKRE VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
+### XXV. Fejezet — A KCGE-RE VONATKOZÓ SZABÁLYOK
 
-229–240. §
+229. § (1) A KCGE az értékpapírosítási tevékenységet csak kizárólagos tevékenységként végezheti. A KCGE csak részvénytársaság, korlátolt felelősségű társaság vagy az Európai Unió másik tagállamában székhellyel rendelkező jogi személyiséggel rendelkező gazdálkodó szervezet fióktelepe lehet. A KCGE nem folytathat olyan tevékenységet és nem vállalhat olyan kötelezettséget, amely az értékpapírosítási tevékenységével összefüggő kötelezettségein túli, egyéb kötelezettségvállalást jelent. A KCGE nem terhelheti meg a kibocsátás fedezetéül szolgáló követelést. A KCGE nem lehet a Ptk. Harmadik könyvében szabályozott vállalatcsoport tagja.
 
-240/A. §
+(2) A KCGE az értékpapírosítási tevékenység végzését a Felügyeletnek történő bejelentést követően kezdheti meg.
 
-241. §
+(3) A KCGE más vállalkozásban részesedéssel nem rendelkezhet, továbbá nem szerezhet meg más KCGE által kibocsátott értékpapírt.
 
-### Összeférhetetlenségi szabályok
+(4) A KCGE-nek működése során az értékpapírosítást kezdeményezőtől való függetlenségét és befolyásmentességét folyamatosan biztosítania kell.
 
-242. §
+(5) A KCGE eszközeinek tíz százaléka erejéig vehet fel hitelt.
 
-### Európai befektetési alapot kezelő befektetési alapkezelőre vonatkozó különleges szabályok
+(6) Nem lehet a KCGE vezető tisztségviselője
 
-242/A–242/G. §
+- a) az értékpapírosítást kezdeményező munkavállalója vagy volt munkavállalója, e jogviszonyának megszűnésétől számított öt évig;
+- b) az a személy, aki az értékpapírosítást kezdeményező vagy annak vezető tisztségviselői számára és javára ellenérték fejében megbízási jogviszony alapján tevékenységet folytat;
+- c) a KCGE tagjának vagy részvényesének alapítója vagy az alapító olyan tulajdonosa, aki közvetve vagy közvetlenül a leadható szavazatok legalább harminc százalékát birtokolja, vagy ilyen személynek közeli hozzátartozója vagy élettársa;
+- d) a KCGE könyvvizsgálója vagy a könyvvizsgáló társaság tagja, illetve alkalmazottja e jogviszony megszűnésétől számított három évig.
 
-### A befektetési jegy
+230. § (1) A KCGE nevében és hivatalos dokumentumain szerepelnie kell az „értékpapírosításban közreműködő” kifejezésnek.
 
-243. §
+(2) A KCGE köteles évente közzétenni honlapján a mögöttes eszközállomány teljesítésének alakulására vonatkozó adatokat.
 
-### A befektetési jegyek kibocsátása, forgalomba hozatala
+### XXVI. Fejezet — EGYES ÉRTÉKPAPÍROSÍTÁSOK ÁLTALÁNOS SZABÁLYAI
 
-244–245. §
+231. § (1) Az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikke 1. pontjában meghatározott értékpapírosításra az (EU) 2017/2402 európai parlamenti és tanácsi rendelet rendelkezéseit kell alkalmazni.
 
-### A nyílt végű befektetési alap által kibocsátott befektetési jegyek folyamatos forgalmazása
+(2) E fejezet rendelkezéseit az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikke 1. pontjában meghatározott olyan értékpapírosításra kell alkalmazni, amely nem minősül STS értékpapírosításnak, illetve szintetikus értékpapírosításnak.
 
-246–248. §
+(3) A (2) bekezdésben meghatározott értékpapírosításra az (EU) 2017/2402 európai parlamenti és tanácsi rendelet rendelkezéseit az e törvényben foglaltakkal együtt kell alkalmazni.
 
-248/A. §
+(4) E fejezet rendelkezéseinek alkalmazása során intézményi befektető alatt az (EU) 2017/2402 európai parlamenti és tanácsi rendelet 2. cikk 12. pontjában meghatározott fogalmat kell érteni.
 
-### A befektetési jegyek folyamatos forgalmazásának felfüggesztése
+232. § (1) Nem ruházható át értékpapírosítás keretében
 
-249–251. §
+- a) az érvénytelen vagy hatálytalan szerződésen alapuló követelés,
+- b) olyan szerződésen alapuló követelés, amely érvénytelenségének vagy hatálytalanságának megállapítása iránt per van folyamatban,
+- c) az a követelés, amelynek átruházását jogszabály tiltja,
+- d) a nem jogügyleten alapuló követelés, továbbá
+- e) minden egyéb olyan követelés, amellyel kapcsolatban a Ptk. hatálybalépését megelőzően a felek a követelés átruházását írásban kizárták.
 
-### Külföldön forgalomba hozott nyílt végű kollektív befektetési értékpapírok belföldi forgalomba hozatala és folyamatos forgalmazása
+(2) Kizárólag olyan követelés ruházható át értékpapírosítás keretében, amely az átruházáskor az értékpapírosításon kívül – sem részben, sem egészben – nem szolgál más követelés biztosítékaként.
 
-252. §
+(3) Az értékpapírosítás keretében a követelések a KCGE vagyonába kerülnek át a követelés átruházását keletkeztető szerződésben meghatározott időpontban.
 
-### Nyílt végű befektetési alap által belföldön forgalomba hozott befektetési jegy külföldi forgalomba hozatala, szabályozott piacra történő bevezetése
+### A KCGE elleni fizetésképtelenségi eljárások, valamint a KCGE jogutód nélküli megszüntetésének sajátos szabályai
 
-252/A. §
+233. § A KCGE felszámolása során a Cstv. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-### Befektetési alapok létrejötte
+234. § A KCGE által megszerzett eszközök a kötelezett fizetésképtelensége esetén sem vonhatók a felszámolási vagyon, illetve a csődvagyon körébe a kötelezett és annak hitelezői által.
 
-253–254. §
+235. § (1) A KCGE által létrehozott egyik ügyletrészsorozat nemteljesítése esetén ezen sorozat befektetője a felszámolási eljárás keretében nem igényelheti követelése kielégítését a KCGE által létrehozott másik ügyletrészsorozatban lévő követeléssel szemben, valamint nem kezdeményezhet végrehajtási eljárást a KCGE által létrehozott másik ügyletrészsorozatban lévő követeléssel szemben.
 
-### Befektetési alap megszűnése
+(2) Az egymástól elkülönítetten értékpapírosított követeléscsoportokat egymástól függetlenül kell bevonni a felszámolási vagyonba.
 
-255–258. §
+(3) Valamely követeléscsoport felszámolásba történő bevonása nem eredményezheti az ugyanazon KCGE-hez tartozó többi követeléscsoport felszámolásba való bevonását. A felszámolásba bevont követeléscsoport hitelezői kizárólag az adott, felszámolásba bevont követeléscsoport tekintetében kereshetnek kielégítést.
 
-### A befektetési alapkezelő felszámolására vonatkozó különleges és eltérő szabályok
+(4) Az egymástól elkülönítetten értékpapírosított és a felszámolásba egymástól függetlenül bevont követeléscsoportokat a KCGE felszámolásakor a Cstv. 57. § (1) bekezdés e) pontját követő és az f) pontját megelőző kielégítési csoportba szükséges sorolni azzal, hogy e követelések a követelések arányában kerülnek kielégítésre.
 
-259. §
+236. § (1) A felszámoló teljes körű kifizetési tilalmat rendel el, ha a felszámolási vagyon jogszerű, a hitelezők és az ügyfelek érdekeinek megfelelő kezelését nem ítéli biztosítottnak.
 
-### Befektetési alap átalakulása
+(2) A felszámolási eljárás során a felszámoló dönthet a KCGE szerződéses kötelezettségei állományának egyben, ellenérték fejében történő átruházásáról.
 
-260. §
+237. § (1) A KCGE végelszámolására a Ctv. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-### Befektetési alapok beolvadása
+(2) A KCGE által kibocsátott értékpapírokon alapuló követelések teljes kielégítését megelőzően a KCGE végelszámolása nem kezdeményezhető.
 
-261–262. §
+(3) Az egymástól elkülönítetten értékpapírosított követeléscsoportokat egymástól függetlenül kell bevonni a KCGE végelszámolásába. Egy adott követeléscsoport hitelezői kizárólag az adott követeléscsoport tekintetében kereshetnek kielégítést.
 
-### XXVI. Fejezet — EGYES KÜLÖNLEGES SZABÁLYOZÁST IGÉNYLŐ BEFEKTETÉSI ALAPOK
+(4) A KCGE végelszámolása során a Ctv. 105. §-a nem alkalmazható.
 
-### Zárt végű befektetési alapok
+238. § (1) A KCGE kényszertörlésére a Ctv. rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-263. §
+(2) A KCGE tekintetében nincs helye kényszertörlési eljárásnak a Ctv. 116. § (1) bekezdés a) és b) pontjában meghatározott esetekben.
 
-### Zártkörű befektetési alapra vonatkozó eltérő rendelkezések
-
-264–265. §
-
-### XXVII. Fejezet — A BEFEKTETÉSI ALAPOKRA VONATKOZÓ ÉRTÉKELÉSI ÉS BEFEKTETÉSI SZABÁLYOK
-
-### A nettó eszközérték kiszámításának és közzétételének szabályai
-
-266. §
-
-266/A. §
-
-266/B. §
-
-266/C. §
-
-266/D. §
-
-### XXVIII. Fejezet — ÁLTALÁNOS BEFEKTETÉSI SZABÁLYOK
-
-267–270. §
-
-270/A. §
-
-### Hitelfelvétel, eszközök megterhelése
-
-271. §
-
-### Származtatott ügyletekre vonatkozó szabályok
-
-272–274. §
-
-### XXIX. Fejezet — A NYILVÁNOS ÉRTÉKPAPÍR BEFEKTETÉSI ALAPOKRA VONATKOZÓ KÜLÖNLEGESÉS ELTÉRŐ SZABÁLYOK
-
-275–276. §
-
-### Befektetési alapba befektető alapra vonatkozó eltérő szabályok
-
-277. §
-
-### Származtatott ügyletekbe befektető befektetési alapra vonatkozó eltérő szabályok
-
-278. §
-
-### Indexkövető befektetési alapra vonatkozó eltérőszabályok
-
-279. §
-
-279/A. §
-
-### Ingatlanalapokra vonatkozó eltérő befektetési szabályok
-
-280. §
-
-280/A. §
-
-281–283. §
-
-### Az európai befektetési alapokra vonatkozó eltérő szabályok
-
-284–285. §
-
-285/A. §
-
-286–288. §
-
-### XXX. Fejezet — TÁJÉKOZTATÁSI KÖTELEZETTSÉG
-
-### Rendszeres tájékoztatási kötelezettség
-
-289. §
-
-289/A. §
-
-### Rendkívüli tájékoztatási kötelezettség
-
-290. §
-
-### A Felügyelet tájékoztatása
-
-291–292. §
-
-### A tájékoztatásra vonatkozó egyéb szabályok
-
-293. §
-
-294. §
-
-### XXXI. Fejezet — A LETÉTKEZELŐ
-
-295–296. §
+239–296. §
 
 ## NYOLCADIK/A. RÉSZ
 
@@ -3355,28 +3283,28 @@ azzal, hogy a tőzsde szabályzatában megkülönböztetés-mentes alapon meghat
 
 391. § (1) A Felügyelet nyilvántartásba veszi a következő adatokat és az azokban bekövetkezett változásokat:
 
-- a) a tőzsde, a központi szerződő fél és a központi értéktár neve, székhelye;
-- b) a tőzsde, a központi szerződő fél és a központi értéktár alapításának időpontja;
-- c) a tőzsde, a központi szerződő fél és a központi értéktár tevékenységi köre;
-- d) a tőzsde, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
-- e) a tőzsde, a központi szerződő fél és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosai;
-- f) a tőzsde, a központi szerződő fél és a központi értéktár vezető állású személyei;
-- g) a tőzsde, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
-- h) a tőzsde, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
-- i) a tőzsde, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;
-- j)
-- k) a kibocsátó neve, székhelye;
-- l) a kibocsátó alapításának időpontja;
-- m) a kibocsátó jegyzett tőkéjének nagysága;
-- n) a kibocsátó vezető állású személyeinek családi és utóneve, születési helye és ideje, anyja neve (a továbbiakban: természetes személyazonosító adatai), lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
-- o) a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedése;
-- p) a forgalomba hozatal adatai;
-- q) a bennfentes személyek neve (cégneve), természetes személyazonosító adatai, lakcíme (székhelye);
-- r) a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
-- s) az engedélyezett tájékoztató;
-- t) a közzétételre kötelezett által megjelölt közzétételi hely.
-- u)–v)
-- x)–y)
+- 1. a tőzsde, a központi szerződő fél és a központi értéktár neve, székhelye;
+- 2. a tőzsde, a központi szerződő fél és a központi értéktár alapításának időpontja;
+- 3. a tőzsde, a központi szerződő fél és a központi értéktár tevékenységi köre;
+- 4. a tőzsde, a központi szerződő fél és a központi értéktár jegyzett tőkéjének mértéke;
+- 5. a tőzsde, a központi szerződő fél és a központi értéktár tulajdonszerzés szempontjából engedély- vagy bejelentésköteles tulajdonosainak családi és utóneve, születési helye és ideje, anyja neve (a továbbiakban együtt: természetes személyazonosító adatai), lakcíme, illetve cégneve; székhelye; más társaságban lévő részesedésének mértéke;
+- 6. a tőzsde, a központi szerződő fél és a központi értéktár vezető állású személyeinek természetes személyazonosító adatai, lakcíme;
+- 7. a tőzsde, a központi szerződő fél és a központi értéktár tevékenysége megkezdésének időpontja;
+- 8. a tőzsde, a központi szerződő fél és a központi értéktár tulajdonában álló vállalkozások neve, székhelye, tevékenysége;
+- 9. a tőzsde, a központi szerződő fél és a központi értéktár fióktelepe létesítésének időpontja és helye;
+- 10. a kibocsátó neve, székhelye;
+- 11. a kibocsátó alapításának időpontja;
+- 12. a kibocsátó jegyzett tőkéjének nagysága;
+- 13. a kibocsátó vezető állású személyeinek természetes személyazonosító adatai, lakcíme, a kibocsátóban fennálló részesedésük (ideértve a részesedés megszerzésére vonatkozó opciót és egyéb jogokat is) mértéke;
+- 14. a kibocsátó tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedésének mértéke;
+- 15. a forgalomba hozatal adatai;
+- 16. a bennfentes személyek természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
+- 17. a kibocsátó könyvvizsgálójának természetes személyazonosító adatai (cégneve), lakcíme (székhelye);
+- 18. az engedélyezett tájékoztató;
+- 19. a közzétételre kötelezett által megjelölt közzétételi hely;
+- 20. a KCGE cégneve, székhelye;
+- 21. a KCGE vezető állású személyeinek természetes személyazonosító adatai, lakcíme;
+- 22. a KCGE tulajdonosainak természetes személyazonosító adatai (cégneve), lakcíme (székhelye), más társaságban lévő részesedésének mértéke.
 
 (2) A Felügyelet nyilvántartásba veszi:
 

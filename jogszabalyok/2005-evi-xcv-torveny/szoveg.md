@@ -621,7 +621,7 @@ véglegessé vált határozatát a (10) bekezdésben meghatározott tartalommal 
 (7) Az ideiglenes hozzáférhetetlenné tételt a gyógyszerészeti államigazgatási szerv annak megszűnése előtt megszünteti, ha
 
 - a) az elrendelés oka megszűnt, vagy
-- b) a gyógyszerészeti államigazgatási szerv egészségügyi termék hamisítása tárgyában tett feljelentése alapján indult büntetőeljárásban a bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelte, vagy a bíróság jogerős ügydöntő határozatában elektronikus adat végleges hozzáférhetetlenné tételét rendelte el.
+- b) a gyógyszerészeti államigazgatási szerv gyógyszerhamisítás vagy egészségügyi termék hamisítása tárgyában tett feljelentése alapján indult büntetőeljárásban a bíróság az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelte, vagy a bíróság jogerős ügydöntő határozatában elektronikus adat végleges hozzáférhetetlenné tételét rendelte el.
 
 (8) A gyógyszerészeti államigazgatási szerv a jogkövető magatartás elősegítése és a betegek tájékoztatása érdekében honlapján, az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a annak a honlapnak az elnevezését és megjelölését, amelynek tekintetében a véglegessé vált döntésével ideiglenes hozzáférhetetlenné tételt rendelt el.
 
@@ -820,7 +820,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 28. § Azoknak az anyagoknak a listáját, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotróp anyagnak, a 2. számú melléklet határozza meg.
 
-29. §
+29. § A 2004. május 1. előtt engedélyezett, terápiás javallattal rendelkező homeopátiás gyógyszerek 2020. január 1-jét követően akkor hozhatók forgalomba, ha a 2001/83/EK európai parlamenti és tanácsi irányelv, illetve az azt átültető jogszabályok ezen gyógyszerek forgalomba hozatalára vonatkozó előírásainak megfelelnek.
 
 30. §
 
@@ -880,6 +880,7 @@ rendeletben szabályozza.
 - w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
 - x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
 - y) az engedélyezés előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
+- z) a gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre, azok kezelésére vonatkozó részletszabályokat, illetve a biztonsági elemek kezelésére jogosultak körét
 
 rendeletben szabályozza.
 

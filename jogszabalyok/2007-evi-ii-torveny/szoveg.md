@@ -18,16 +18,19 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (6) A IX. Fejezetet a (3) bekezdésben meghatározott személyek beutazásával és tartózkodásával kapcsolatos eljárásokra is alkalmazni kell.
 
+(7) Magyarországon harmadik országbeli állampolgár egy jogcímen tartózkodhat. Amennyiben a tartózkodási jogosultsággal rendelkező harmadik országbeli állampolgár meglévő jogcíme mellett más jogcímen kap tartózkodásra jogosító engedélyt – ide értve a menedékjogról szóló törvény szerinti jogcímeket is – a korábbi tartózkodási jogcímen kiadott tartózkodásra jogosító engedélyét az idegenrendészeti hatóság érvényteleníti.
+
 2. § E törvény alkalmazásában
 
 - a) harmadik országbeli állampolgár: az 1. § (3) bekezdésének hatálya alá tartozó személyek kivételével a nem magyar állampolgár és a hontalan;
 - b) hontalan: akit saját joga szerint egyetlen állam sem ismer el állampolgárának;
 - c) schengeni állam: az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv (a továbbiakban: Schengeni Jegyzőkönyv) 1. cikkében, illetve az 1999/435/EK tanácsi határozatban meghatározott schengeni vívmányokat, valamint az Európai Unió intézményei által az ezek hatálya alá tartozó területen hozott további intézkedéseket teljes körűen alkalmazó európai uniós tagállam és a Schengeni Jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes más állam;
-- d) családtag: a harmadik országbeli állampolgár
-  - da) házastársa,
-  - db) házastársával közös kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is),
-  - dc) eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a harmadik országbeli állampolgár szülői felügyeleti jogot gyakorol,
-  - dd) házastársának eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a házastárs szülői felügyeleti jogot gyakorol;
+- d) családtag:
+  - da) a harmadik országbeli állampolgár vagy a magyar állampolgár házastársa,
+  - db) a harmadik országbeli állampolgár házastársával közös kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is),
+  - dc) a harmadik országbeli állampolgár eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a harmadik országbeli állampolgár szülői felügyeleti jogot gyakorol,
+  - dd) a harmadik országbeli állampolgár vagy a magyar állampolgár házastársának eltartott kiskorú gyermeke (ideértve az örökbefogadott és nevelt gyermeket is), aki felett a házastárs szülői felügyeleti jogot gyakorol,
+  - de) a kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelkező, a szülői felügyeleti jogát gyakorló, a magyar állampolgárral egy háztartásban élő személy;
 - e) kísérő nélküli kiskorú: az a tizennyolcadik életévet be nem töltött harmadik országbeli állampolgár, aki jogszabály vagy szokás alapján felügyeletéért felelős nagykorú személy kísérete nélkül lépett Magyarország területére, vagy a belépést követően maradt felügyelet nélkül, mindaddig, amíg ilyen személy felügyelete alá nem kerül;
 - f) befogadott: aki a menedékjogról szóló 2007. évi LXXX. törvényben meghatározottak szerinti védelemben részesül;
 - g) úti okmány: Magyarország által az államhatárának átlépésére jogosító okmányként elismert útlevél, igazolvány vagy irat, amely birtokosának személyazonosságát és állampolgárságát (hontalanságát) igazolja;
@@ -54,7 +57,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - b) vállalaton belül áthelyezett személy: olyan harmadik országbeli állampolgár, aki a vállalaton belül áthelyezett személy számára szóló tartózkodási engedély iránti kérelem benyújtásakor az Európai Unió tagállamai területén kívül rendelkezik lakóhellyel, és akit vállalaton belül áthelyeztek;
 - c) fogadó szervezet:
   - ca) az a szervezet, amelyhez a vállalaton belül áthelyezett személyt áthelyezik, és amely jogi formájától függetlenül, jogszabályban meghatározottak szerint létrehozott jogi személy;
-  - cb) külön jogszabályban meghatározott kutatószervezet, felsőoktatási intézmény, oktatási intézmény, önkéntes szolgálati rendszerért felelős szervezet vagy gyakornokokat fogadó szervezet;
+  - cb) külön jogszabályban meghatározott kutatószervezet, felsőoktatási intézmény, oktatási intézmény, önkéntes szolgálati rendszerért felelős szervezet, és a gyakornokokat fogadó szervezet;
 - d) vállalaton belül áthelyezett személy számára szóló engedély: olyan tartózkodási engedély, amely a tulajdonosát feljogosítja az első tagállam és adott esetben a második tagállam területén való tartózkodásra és munkavállalásra a törvényben meghatározott feltételek szerint;
 - e) hosszú távú mobilitási engedély: olyan tartózkodási engedély, amely a vállalaton belül áthelyezett személy számára szóló tartózkodási engedély tulajdonosát feljogosítja a második tagállam területén való tartózkodásra és munkavállalásra törvényben meghatározott feltételek szerint;
 - f) vállalkozáscsoport: két vagy több, a következő módokon összekapcsoltként elismert vállalkozás: valamely vállalkozás egy másik tekintetében
@@ -196,7 +199,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (3) A tartózkodási engedély – ha e törvény eltérően nem rendelkezik – két évvel meghosszabbítható.
 
-(4)
+(4) A tartózkodási engedély (3) bekezdés szerinti meghosszabbítása a törvényben meghatározott feltételek teljesítése esetén is kizárólag akkor engedélyezhető, amennyiben a tartózkodási engedély iránti kérelem benyújtását megelőzően a harmadik országbeli állampolgár tartózkodása a bármely száznyolcvan napon belül a kilencven napot meghaladta.
 
 17. § (1) Tartózkodási engedélyt – ha e törvény másként nem rendelkezik – az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeknek, és
 
@@ -307,9 +310,11 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - b) Magyarország területén valós szálláshelyadatot nem jelentett be, vagy
 - c) a 22/C. § szerint kiállított tartózkodási engedély kiállítása után három hónappal nem igazolja, hogy valódi esélye van állást kapni vagy vállalkozást indítani.
 
+18/C. § A 18. § (1) bekezdés b) és d) pontjaiban foglalt esetben családi együttélés céljából kérelmezett tartózkodási engedély kiadása vagy meghosszabbítása megtagadható, illetve a kiadott tartózkodási engedély visszavonható.
+
 ### A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra vonatkozó különös szabályok
 
-19. § (1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.
+19. § (1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve magyar állampolgár, vagy külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.
 
 (2) Családi együttélés biztosítása céljából tartózkodási engedélyt kaphat
 
@@ -334,7 +339,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 (9) A családegyesítés céljából kiállított tartózkodási engedély érvényességi ideje
 
 - a) legfeljebb négy év, amely alkalmanként legfeljebb négy évvel meghosszabbítható, ha a családegyesítő EU Kék Kártyával rendelkezik,
-- b) legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható, ha a családegyesítő a 38. § (1) bekezdés b) pontja alapján kiadott EK letelepedési engedéllyel rendelkezik, vagy
+- b) legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható, ha a családegyesítő magyar állampolgár vagy a 38. § (1) bekezdés b) pontja alapján kiadott EK letelepedési engedéllyel rendelkezik, vagy
 - c) – az a) és b) pontban meghatározott esetek kivételével – legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 
 (10) A családegyesítés céljából kiadott tartózkodási engedély érvényességi ideje nem haladhatja meg a családegyesítő tartózkodási engedélyének érvényességi idejét. Ha a családegyesítő EU Kék Kártyával rendelkezik, a családegyesítés céljából kiadott tartózkodási engedély érvényességi ideje megegyezik a családegyesítő EU Kék Kártyájának érvényességi idejével.
@@ -344,7 +349,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 20. § (1) Jövedelemszerzés céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, akinek tartózkodási célja, hogy
 
 - a) jogszabály szerint önállóan, ellenérték fejében végezhető tevékenységet folytasson, vagy
-- b) az a) pont hatálya alá nem tartozó esetben, gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, vezető tisztségviselőjeként, vezetői, képviseleti vagy felügyeleti szerve tagjaként végezze tevékenységét.
+- b) az a) pont hatálya alá nem tartozó esetben, gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy vezető tisztségviselőjeként végezze tevékenységét.
 
 (2) Munkavállalás céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat,
 
@@ -357,13 +362,13 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 - a) szezonális munkavállalás célú tartózkodási engedéllyel,
 - b) humanitárius célból kiadott tartózkodási engedéllyel,
-- c) keresőtevékenység folytatása céljából, jövedelemszerzés vagy munkavállalás céljából, családi együttélés biztosítása céljából, kutatás céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel,
+- c) keresőtevékenység folytatása céljából, jövedelemszerzés vagy munkavállalás céljából, családi együttélés biztosítása céljából, kutatás céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel, kutatói hosszú távú vagy hallgatói mobilitási tartózkodási engedéllyel, továbbá kutatói rövid távú mobilitási igazolással vagy hallgatói mobilitási igazolással,
 - d) EU Kék Kártyával vagy
 - e) vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel
 
 rendelkezik.
 
-(5) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár keresőtevékenységet a szorgalmi időszakban hetente legfeljebb huszonnégy órában, szorgalmi időszakon kívül évente legfeljebb kilencven napon vagy hatvanhat munkanapon végezhet teljes munkaidőben.
+(5) A tanulmányi célú és a hallgatói mobilitási tartózkodási engedéllyel, továbbá a hallgatói mobilitási igazolással rendelkező harmadik országbeli állampolgár keresőtevékenységet a szorgalmi időszakban hetente legfeljebb huszonnégy órában, szorgalmi időszakon kívül évente legfeljebb kilencven napon vagy hatvanhat munkanapon végezhet teljes munkaidőben.
 
 (6) A jövedelemszerzés céljából kiadott tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 
@@ -615,7 +620,7 @@ való, magas szintű képzettséget igénylő munkavállalásra jogosít.
 
 ha rendelkezik a 13. § (1) bekezdés a), f), g) és h)–i) pontjában meghatározott feltételekkel és a harmadik országbeli állampolgár által betölteni kívánt állás, illetve az általa indítani kívánt vállalkozás illeszkedik a kutatás vagy az elvégzett tanulmányok szintjéhez.
 
-(2) Álláskeresési vagy vállalkozásindítási célú tartózkodási engedéllyel a harmadik országbeli állampolgár a kérelem benyújtásától számított kilenc hónapig tartózkodhat Magyarország területén. Az álláskeresési vagy vállalkozásindítási célú tartózkodási engedély érvényességi idejét erre figyelemmel állapítja meg az idegenrendészeti hatóság.
+(2) Álláskeresési vagy vállalkozásindítási célú tartózkodási engedély érvényességi ideje legfeljebb kilenc hónap.
 
 (3) Az álláskeresési vagy vállalkozásindítási célú tartózkodási engedély nem hosszabbítható meg.
 
@@ -623,7 +628,7 @@ ha rendelkezik a 13. § (1) bekezdés a), f), g) és h)–i) pontjában meghatá
 
 22/D. § (1) Gyakornoki tevékenység folytatása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki igazolja, hogy
 
-- a) külön törvényben meghatározott és jóváhagyott fogadó szervezettel kötött gyakornoki szerződés alapján gyakornoki tevékenység folytatása céljából kíván Magyarország területén tartózkodni, és a fogadószervezet írásban kötelezettséget vállalt arra, hogy a gyakornoknak az engedélyezett tartózkodás időtartamát meghaladó tartózkodása esetén – amennyiben a gyakornok a szükséges anyagi fedezettel nem rendelkezik – megtéríti a kiutasításával kapcsolatban felmerült költségeket,
+- a) jóváhagyott gyakornokokat fogadó szervezettel kötött gyakornoki szerződés alapján gyakornoki tevékenység folytatása céljából kíván Magyarország területén tartózkodni, és a fogadószervezet írásban kötelezettséget vállalt arra, hogy a gyakornoknak az engedélyezett tartózkodás időtartamát meghaladó tartózkodása esetén – amennyiben a gyakornok a szükséges anyagi fedezettel nem rendelkezik – megtéríti a kiutasításával kapcsolatban felmerült költségeket,
 - b) a kérelmezést megelőző két évben szerezte meg a gyakornoki tevékenység folytatásához szükséges felsőfokú végzettségét, vagy, hogy gyakornoki tevékenység folytatásához megfelelő felsőfokú végzettség megszerzésére irányuló tanulmányokat folytat,
 - c) a gyakorlat elvégzéséhez szükséges megfelelő nyelvismerettel rendelkezik.
 
@@ -832,7 +837,7 @@ iránti kérelmet terjeszt elő.
 - g) akinek az úti okmányát külön törvény alapján visszatartották, és nem rendelkezik Magyarország területén történő tartózkodásra jogosító engedéllyel;
 - h) akivel szemben jogellenes beutazás, illetve tartózkodás miatt idegenrendészeti eljárás van folyamatban;
 - i) aki hontalansága megállapítását kérte, az eljárás időtartamára, feltéve, hogy Magyarország területén történő tartózkodásra jogosító engedéllyel nem rendelkezik;
-- j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g) pontja alapján kijelölt helyen való tartózkodásra köteleztek;
+- j) akit a 62. § (1) bekezdés a), b), c), d) vagy f), g), h) pontja alapján kijelölt helyen való tartózkodásra köteleztek;
 - k) aki az Európai Unió más tagállamában magas szintű képzettséget igénylő munkavállalás céljából tartózkodási engedélyt kérelmezett, és az EU Kék Kártya érvényességi idejének lejártát vagy az okmány visszavonását követően Magyarország területére visszatért a munkanélküliség időtartamára.
 
 (2) Az ideiglenes tartózkodásra jogosító igazolás érvényességi ideje
@@ -949,6 +954,8 @@ kapott.
 
 (1a) Az (1) bekezdésben foglaltakon túl Magyarországon történő letelepedés céljából nemzeti letelepedési engedélyt a harmadik országbeli állampolgár akkor kaphat, ha letelepedése Magyarország érdekeivel összhangban áll.
 
+(1b) Amennyiben a nemzeti letelepedési engedély iránti kérelem az (1a) bekezdésben foglalt érdek hiánya miatt elutasításra kerül, a végleges elutasító döntéssel szemben indult közigazgatási perben a bíróság a döntés megváltoztatására nem jogosult.
+
 (2) Nem minősül Magyarország területén történő tartózkodás megszakításának Magyarország területének alkalmanként négy hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások összidőtartama a kérelem benyújtását megelőző három év alatt nem haladja meg a kétszázhetven napot.
 
 (3) Az idegenrendészeti hatóság Magyarország területén történő tartózkodás (2) bekezdésben meghatározottnál hosszabb megszakítása esetén is engedélyezheti a harmadik országbeli állampolgár letelepedését, amennyiben a tartózkodás megszakítására méltányolható okból – különösen külföldi gyógykezelés, illetve a harmadik országbeli állampolgár keresőtevékenységével összefüggő külföldi kiküldetések miatt – került sor.
@@ -993,7 +1000,8 @@ kapott.
 - b) a kiskorú harmadik országbeli állampolgár esetében a szülői felügyelet jogát gyakorló harmadik országbeli állampolgár szülőnek Magyarország területén történő tartózkodásra jogosító engedélyét az idegenrendészeti hatóság visszavonta, és a kiskorú további tartózkodásának feltételei a szülői felügyeletet gyakorló másik szülőnél Magyarország területén nem biztosítottak;
 - c) a harmadik országbeli állampolgár családi kapcsolatra tekintettel kiadott engedélye esetén magyar állampolgár házastársa Magyarország területét a külföldi letelepedés szándékával elhagyta, vagy a harmadik országbeli házastárs Magyarország területén történő jogszerű tartózkodása megszűnt;
 - d) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el;
-- e) az engedélyezéshez szükséges állampapír lejegyzése a harmadik országbeli állampolgár nemzeti letelepedési engedélye kiadásától számított 45 napon belül nem történt meg, vagy azt az értékesítésre jóváhagyott vállalkozás nem jelzi vissza az idegenrendészeti hatóságnak.
+- e) az engedélyezéshez szükséges állampapír lejegyzése a harmadik országbeli állampolgár nemzeti letelepedési engedélye kiadásától számított 45 napon belül nem történt meg, vagy azt az értékesítésre jóváhagyott vállalkozás nem jelzi vissza az idegenrendészeti hatóságnak;
+- f) a harmadik országbeli állampolgár kéri az engedély visszavonását.
 
 ### EK letelepedési engedély
 
@@ -1079,16 +1087,18 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtart
 
 (2) Ha a visszairányítás az (1) bekezdés b) pontjában meghatározott időtartamon belül nem hajtható végre, a harmadik országbeli állampolgár kiutasítása érdekében intézkedni kell. Amennyiben a kiutasításra nem a 43. § (2) bekezdés d) pontja alapján kerül sor, a harmadik országbeli állampolgárral szemben nem lehet beutazási és tartózkodási tilalmat elrendelni.
 
+(3) A visszairányítás, illetve a (2) bekezdésben meghatározott kiutasítás végrehajtásának nem akadálya, hogy a harmadik országbeli állampolgár az ország területére történő beutazás érdekében hamis, hamisított vagy más nevére szóló valódi közokiratot használt fel. Ilyen esetben a büntetőeljárás megindítását csak akkor kell kezdeményezni, ha a visszairányítást, illetve a (2) bekezdés szerinti kiutasítást nem rendelik el.
+
 41/A. § (1) A 21/A. § (3) bekezdése szerinti, valamint a 22/A. § (1) bekezdése szerinti mobilitást gyakorló harmadik országbeli állampolgár jogosult Magyarország területére belépni, amennyiben rendelkezik
 
 - a) érvényes úti okmánnyal,
 - b) az első tagállam által kiállított tartózkodási engedéllyel, és
-- c) a 21/A. § (7) bekezdés vagy a 22/A. § (4) bekezdés szerinti igazolással.
+- c) a 21/A. § (3) bekezdés vagy a 22/A. § (2) bekezdés szerinti értesítés másolatával, vagy ennek hiányában igazolással arról, hogy a hallgató tanulmányai egy részét mobilitási intézkedéseket is magában foglaló uniós vagy multilaterális program vagy két vagy több felsőoktatási intézmény közötti megállapodás keretében végzi, a kutató esetében a fogadási megállapodás másolatával vagy a kutatószervezet levelével, amely tartalmazza legalább a mobilitás időtartamát és a kutatószervezet címét, vagy a 21/A. § (7) bekezdés vagy a 22/A. § (4) bekezdés szerinti igazolással.
 
 (2) A beléptetést meg kell tagadni, amennyiben a harmadik országbeli állampolgár
 
 - a) nem rendelkezik érvényes úti okmánnyal,
-- b) nem rendelkezik a 21/A. § (7) bekezdés vagy a 22/A. § (4) bekezdés szerinti igazolással,
+- b) nem rendelkezik az (1) bekezdés c) pontjában meghatározottakkal,
 - c) beutazási és tartózkodási tilalom hatálya alatt áll,
 - d) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll.
 
@@ -1096,7 +1106,7 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtart
 
 - a) érvényes úti okmánnyal
 - b) az első tagállam által kiállított családtagi jogállását igazoló tartózkodási engedéllyel és
-- c) a 22/A. § (8) bekezdés szerinti igazolással.
+- c) a 22/A. § (8) bekezdés szerinti igazolással vagy a 22/A. § (5) bekezdés szerinti értesítés másolatával.
 
 ### Kiutasítás és önkéntes távozás
 
@@ -1113,7 +1123,7 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtart
 (6) Az önkéntes távozásra nem kell határidőt meghatározni, vagy az idegenrendészeti hatóság az Európai Unió tagállamai területe elhagyásának határnapját a kiutasító határozat közlésétől számított hetedik napnál korábbi napra is meghatározhatja, ha a harmadik országbeli állampolgár
 
 - a) tartózkodási jogosultsága megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
-- b) tartózkodási engedély iránti kérelmét a 18. § (1) bekezdés b) és d) pontja alapján utasította el a hatóság;
+- b) tartózkodási engedély iránti kérelmét a 18. § (1) bekezdés b) vagy d) pontja alapján utasította el a hatóság;
 - c) az Európai Unió tagállamai területének önkéntes elhagyását kifejezetten megtagadja, vagy más alapos ok miatt feltehető, hogy a kiutasító döntésnek nem fog eleget tenni;
 - d) magyarországi tartózkodása veszélyezteti a közrendet, a közbiztonságot vagy a nemzetbiztonságot.
 
@@ -1230,7 +1240,7 @@ miatt utasított ki.
 
 (2) A kiutasítást elrendelő határozat ellen fellebbezésnek nincs helye, a határozatot közigazgatási perben nyolc napon belül lehet megtámadni. A bíróság a keresetlevélről – a keresetlevél bírósághoz érkezésétől számított – tizenöt napon belül dönt.
 
-(2a) Amennyiben a bíróság az idegenrendészeti őrizetben lévő harmadik országbeli állampolgár (2) bekezdés szerinti kérelmének helyt ad és az eljáró idegenrendészeti hatóság döntését hatályon kívül helyezi, a tárgyalás napján a tárgyaláson jelenlévő feleknek és érdekelteknek az ítélet írásba foglalt rendelkező részének kiadmányát átadja és elektronikus úton is közli az eljáró idegenrendészeti hatósággal. A bíróság a tárgyalás napját követő három munkanapon belül az ítéletet írásba foglalja, és elektronikus úton közli az idegenrendészeti hatósággal.
+(2a) Amennyiben a bíróság az idegenrendészeti őrizetben lévő harmadik országbeli állampolgár (2) bekezdés szerinti kérelme tárgyában döntést hoz, a tárgyalás napján a tárgyaláson jelenlévő feleknek és érdekelteknek az ítélet írásba foglalt rendelkező részének kiadmányát átadja és elektronikus úton is közli az eljáró idegenrendészeti hatósággal. A bíróság a tárgyalás napját követő három munkanapon belül az ítéletet írásba foglalja, és elektronikus úton közli az idegenrendészeti hatósággal.
 
 (2b) A bíróság határozata ellen további perorvoslatnak helye nincs.
 
@@ -1274,6 +1284,8 @@ miatt utasított ki.
 
 (4) A nemzetközi védelem iránti kérelem benyújtását megelőzően elrendelt kiutasítás végrehajtását az idegenrendészeti hatóság jogszabály alapján folytatott menekültügyi eljárás befejezéséig felfüggeszti, ha a harmadik országbeli állampolgár törvényben meghatározottak szerint jogosult Magyarország területén való tartózkodásra. A felfüggesztést elrendelő végzés ellen nincs helye jogorvoslatnak.
 
+(5) Az idegenrendészeti kiutasítás végrehajtásának nem akadálya, hogy a harmadik országbeli állampolgár az ország területére történő beutazás érdekében hamis, hamisított vagy más nevére szóló közokiratot használt fel. Ilyen esetben a büntetőeljárás megindítását csak akkor kell kezdeményezni, ha az idegenrendészeti kiutasítást nem rendelik el.
+
 48/A. § (1) Ha a harmadik országbeli állampolgár kiutasítására irányuló idegenrendészeti eljárás során arra utaló tény merül fel, hogy a dublini rendeletek alkalmazásának feltételei állnak fenn, és a harmadik országbeli állampolgár a menedékjogi törvény szerinti elismerés iránti kérelmet nem terjesztett elő, az idegenrendészeti hatóság kezdeményezi a menekültügyi hatóságnál, hogy a dublini eljárást folytassa le, és annak befejezéséig az idegenrendészeti eljárást felfüggeszti.
 
 (2) Az (1) bekezdés szerinti eljárást felfüggesztő végzéssel szemben jogorvoslatnak nincs helye.
@@ -1294,11 +1306,13 @@ miatt utasított ki.
 
 ### A bíróság által elrendelt kiutasítás végrehajtása
 
-49. § (1) A bíróság által elrendelt kiutasítást az idegenrendészeti hatóság végzéssel hajtja végre, amellyel szemben végrehajtási kifogás terjeszthető elő.
+49. § (1) A bíróság által elrendelt kiutasítást az idegenrendészeti hatóság végzéssel hajtja végre, amellyel szemben – a végzés közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál – végrehajtási kifogás terjeszthető elő.
 
-(2) A véglegessé vált kiutasítás végrehajtása érdekében a bíróság, illetve a büntetés-végrehajtási intézet haladéktalanul értesíti az idegenrendészeti hatóságot.
+(2) A jogerős kiutasítás végrehajtása érdekében a bíróság, illetve a büntetés-végrehajtási intézet haladéktalanul értesíti az idegenrendészeti hatóságot.
 
 (3) Az idegenrendészeti hatóság a (2) bekezdésben meghatározott értesítés alapján rendeli el a kiutasítás végrehajtását.
+
+(4) A büntetés-végrehajtási intézet (2) bekezdésben meghatározott értesítésének kézhezvételét követően az idegenrendészeti hatóság az (1) bekezdés szerinti végzés meghozatala előtt is intézkedhet a szabadságvesztés-büntetését töltő harmadik országbeli állampolgár személyazonosságának megállapítására.
 
 ### A kiutasítás költségeinek viselése
 
@@ -1334,9 +1348,13 @@ miatt utasított ki.
 
 (2) A bíróság által elrendelt kiutasítás végrehajtásának tilalmát a büntetés-végrehajtási bíró állapítja meg.
 
-(3) A (2) bekezdésben meghatározott esetben a kiutasított ugyanazon ítélet végrehajtása kapcsán egy alkalommal közvetlenül kérelemmel fordulhat a büntetés-végrehajtási bíróhoz a kiutasítási akadály megállapítása érdekében. Ha a kiutasított a büntetés-végrehajtási bíróhoz címzett kérelmét az idegenrendészeti hatósághoz nyújtja be, azt – az idegenrendészeti hatóság véleményével kiegészítve – haladéktalanul meg kell küldeni a büntetés-végrehajtási bírónak.
+(3) A (2) bekezdésben meghatározott esetben a kiutasított ugyanazon ítélet végrehajtása kapcsán egy alkalommal közvetlenül kérelemmel fordulhat a büntetés-végrehajtási bíróhoz a kiutasítási akadály megállapítása érdekében. Ha a kiutasított a büntetés-végrehajtási bíróhoz címzett kérelmét az idegenrendészeti hatósághoz nyújtja be, azt – az idegenrendészeti hatóság véleményével kiegészítve – haladéktalanul meg kell küldeni az idegenrendészeti hatóság székhelye szerint illetékes ügyészség útján a büntetés-végrehajtási bírónak.
 
-(4) A büntetés-végrehajtási bíró eljárásának a kiutasítás végrehajtására halasztó hatálya van. A büntetés-végrehajtási bíró a kérelemről nyolc napon belül dönt.
+(4) A büntetés-végrehajtási bíró eljárásának a kiutasítás végrehajtására halasztó hatálya van.
+
+(5) Ha a büntetés-végrehajtási bíró a non-refoulement követelményére tekintettel a kiutasítás végrehajthatóságának kizártságát állapította meg, a határozat jogerőre emelkedésétől számított két év letelte előtt harminc nappal az eljáró idegenrendészeti hatóság a székhelye szerint illetékes ügyészség útján kezdeményezi a kiutasítás végrehajthatóságának felülvizsgálatát.
+
+(6) Ha a büntetés-végrehajtási bíró a kiutasítás végrehajtásának kizártságát állapította meg és a non-refoulement akadálya megszűnt, az idegenrendészeti hatóság a büntetés-végrehajtási bíró eljárásának lefolytatását a székhelye szerint illetékes ügyészség útján haladéktalanul kezdeményezi.
 
 52/A. § Ha nincs olyan biztonságos ország, amely az érintett harmadik országbeli állampolgárt befogadja, a visszairányítás végrehajtásának vagy a kiutasítás végrehajtásának tilalma esetén a menekültügyi hatóság a harmadik országbeli állampolgárt befogadottként ismeri el, és a 29. § (1) bekezdés b) pontja alapján intézkedik a humanitárius tartózkodási engedély kiadásáról.
 
@@ -1344,7 +1362,7 @@ miatt utasított ki.
 
 53. § (1) A többszöri eljárás megakadályozása, valamint a személyazonosság megállapítása céljából a kiutasítást előkészítő őrizetet, a visszafogadási egyezmény alapján történő visszaadást elrendelő, az idegenrendészeti kiutasítást, a kijelölt helyen való tartózkodást, valamint az idegenrendészeti őrizetet elrendelő, illetve a bírósági kiutasítást végrehajtó hatóság rögzíti a harmadik országbeli állampolgár arcképmását, valamint ujjnyomatát.
 
-(1a) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély és az EK letelepedési engedély kérelmezésekor, a 29. § (1) bekezdés a)–b) és d)–f) pontja, valamint a 29. § (1a) bekezdése szerinti humanitárius tartózkodási engedély kiadásakor, valamint a bevándorlási és letelepedési engedély okmány cseréje és pótlása esetén az idegenrendészeti hatóság a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i, 380/2008/EK tanácsi rendelet alapján jár el.
+(1a) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély és az EK letelepedési engedély kérelmezésekor, a 29. § (1) bekezdés a)–b) és d)–f) pontja, valamint a 29. § (1a) bekezdése szerinti humanitárius tartózkodási engedély kiadásakor, valamint a bevándorlási és letelepedési engedély okmány cseréje és pótlása esetén az idegenrendészeti hatóság a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i, 380/2008/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet alapján jár el.
 
 (2) A harmadik országbeli állampolgár az arcképmása, valamint az ujjnyomata rögzítését tűrni köteles.
 
@@ -1496,7 +1514,8 @@ miatt utasított ki.
 - d) az őrizet határideje letelt, de az őrizet elrendelésére alapul szolgáló ok továbbra is fennáll;
 - e) a harmadik országbeli állampolgár humanitárius célú tartózkodási engedéllyel rendelkezik;
 - f) a harmadik országbeli állampolgár kiutasítás hatálya alatt áll, és a megélhetéséhez szükséges anyagi és lakhatási feltételekkel nem rendelkezik;
-- g) vele szemben az 54. § (1) bekezdés a) vagy b) pontja alapján idegenrendészeti őrizet elrendelésének lenne helye, és az őrizet rá nézve – különös tekintettel egészségi állapotára, életkorára – aránytalanul súlyos hátránnyal járna.
+- g) vele szemben az 54. § (1) bekezdés a) vagy b) pontja alapján idegenrendészeti őrizet elrendelésének lenne helye, és az őrizet rá nézve – különös tekintettel egészségi állapotára, életkorára – aránytalanul súlyos hátránnyal járna;
+- h) a harmadik országbeli állampolgárral szemben idegenrendészeti eljárás van folyamatban.
 
 (2) A határozat rendelkező részében meg kell határozni:
 
@@ -1720,6 +1739,39 @@ származó jövedelemmel rendelkezik.
 
 (2) Az oktatási intézmény az (1) bekezdés szerinti bejelentését elektronikus azonosítását követően elektronikus úton is megteheti.
 
+### Gyakornoki program és fogadó szervezet bejelentése
+
+74/B. § (1) A fogadó szervezet az idegenrendészeti hatóságnak köteles előzetesen bejelenteni gyakornoki program működtetését, és a bejelentett adatokban bekövetkezett változásokat. A fogadó szervezet a bejelentést elektronikus azonosítást követően elektronikus úton terjeszti elő.
+
+(2) Gyakornokokat fogadó szervezet lehet
+
+- a) a helyi önkormányzat;
+- b) a nemzetiségi önkormányzat a jogszabályban meghatározott közfeladatai körében;
+- c) a költségvetési szerv az alaptevékenysége körében;
+- d) a magyarországi székhelyű egyházi jogi személy a hitéleti, a közcélú és a működésével összefüggő tevékenysége körében;
+- e) a Kormánnyal érvényes stratégiai partnerségi megállapodással rendelkező gazdasági társaság a stratégiai együttműködési megállapodásban meghatározott képzés vonatkozásában.
+
+(3) A bejelentés tartalmazza
+
+- a) a fogadó szervezet nevét, székhelyét és adószámát;
+- b) a gyakornoki program kezdetét és végét, megnevezését;
+- c) a gyakornoki program tartalmát.
+
+(4) Ha a fogadó szervezet
+
+- a) egyházi jogi személy, az idegenrendészeti hatóság a bevett egyházak nyilvántartásából beszerzi, illetve ellenőrzi a fogadó szervezet adatait, illetve nyilvántartásba nem vett belső egyházi jogi személy esetén a belső egyházi jogi személy adatait,
+- b) gazdasági társaság, az idegenrendészeti hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel beszerzi a fogadó szervezet cégkivonatát.
+
+(5) A bejelentett adatokról az idegenrendészeti hatóság a fogadó szervezetek nyilvánossága és a gyakornokok védelme érdekében nyilvántartást vezet. A nyilvántartásba vételről az idegenrendészeti hatóság a hiánytalan bejelentés beérkezésétől számított 15 napon belül tájékoztatja a fogadó szervezetet. A nyilvántartásban szereplő fogadó szervezet nevét az idegenrendészeti hatóság a honlapján közzéteszi.
+
+(6) A fogadó szervezetek bejelentésére, az adatváltozás bejelentésére és a fogadó szervezetek nyilvántartásából történő törlésre irányuló eljárások költségmentesek.
+
+(7) Az idegenrendészeti hatóság megtagadja a fogadó szervezet, illetve a gyakornoki program nyilvántartásba vételét, valamint törli a nyilvántartásból a fogadó szervezetet, illetve a gyakornoki programot, ha a bejelentés nem felel meg a (2)–(3) bekezdés szerinti feltételeknek vagy a gyakornok fogadása nem a (2) bekezdés e) pontja szerinti fogadó szervezet cégnyilvántartásban meghatározott tevékenysége keretében történik.
+
+(8) A (7) bekezdésben foglaltak vizsgálata során az idegenrendészeti hatóság állásfoglalást kérhet a foglalkoztatás jellegével összefüggésben feladatot ellátó minisztériumoktól, valamint szakmai kamaráktól, továbbá a munkaügyi hatóságtól és az állami foglalkoztatási szervtől. A megkeresett szerv állásfoglalását 5 munkanapon belül megküldi az idegenrendészeti hatóságnak.
+
+(9) Ha a bejelentési kötelezettségének a fogadó szervezet nem tesz eleget, az idegenrendészeti hatóság határozatban – a jogsértés súlyának figyelembevételével – törli a fogadó szervezetet a gyakornokot fogadó szervezetek nyilvántartásából és legfeljebb egy évre eltiltja gyakornok fogadásától.
+
 ### A harmadik országbeli állampolgár személyi okmányaival kapcsolatos bejelentési kötelezettségek és hatósági intézkedések
 
 75. § (1) A harmadik országbeli állampolgár köteles úti okmányának, valamint tartózkodásra jogosító engedélyének elvesztését, eltulajdonítását vagy megsemmisülését az idegenrendészeti hatóságnál haladéktalanul bejelenteni. A bejelentésről az idegenrendészeti hatóság igazolást állít ki.
@@ -1757,7 +1809,8 @@ származó jövedelemmel rendelkezik.
 78. § (1) A hontalanság megállapítására irányuló kérelmet határozattal el kell utasítani, amennyiben a kérelmező
 
 - a) a 2002. évi II. törvénnyel kihirdetett, az Egyesült Nemzetek Szervezete keretében New Yorkban, 1954. szeptember 28-án létrejött, a Hontalan Személyek Jogállásáról szóló Egyezmény 1. cikk 2. bekezdésének hatálya alá tartozik, vagy
-- b) állampolgárságát szándékosan, a hontalan státusz megszerzésének céljából szüntette meg.
+- b) állampolgárságát szándékosan, a hontalan státusz megszerzésének céljából szüntette meg,
+- c) tartózkodása sérti vagy veszélyezteti Magyarország nemzetbiztonságát.
 
 (2) Az idegenrendészeti hatóság az eljárást megszünteti, ha a kérelmező
 
@@ -1767,6 +1820,8 @@ származó jövedelemmel rendelkezik.
 - d) ismeretlen helyre távozott, és ezzel az eljárás lefolytatását meghiúsította.
 
 (3) A hontalanság elismerésére irányuló kérelem tárgyában az eljáró hatóság negyvenöt napon belül dönt.
+
+(4) A hontalanság megállapítására irányuló eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár veszélyezteti-e Magyarország nemzetbiztonságát, az állásfoglalását húsz napon belül adja meg az eljáró idegenrendészeti hatóságnak.
 
 79. § (1) A hontalanság megállapítására irányuló eljárás során a kérelmezőnek a hontalanságát igazolnia vagy valószínűsítenie kell, különösen:
 
@@ -1908,6 +1963,19 @@ szerinti állam vonatkozásában.
 
 (5) A hivatalból indult eljárásokban a kapcsolattartás módját az idegenrendészeti hatóság választja meg.
 
+(6) Az idegenrendészeti hatóság elektronikus információs rendszert üzemeltet (a továbbiakban: idegenrendészeti ügyindítási elektronikus felület). Az idegenrendészeti ügyindítási elektronikus felületen az ügyfél regisztrációja
+
+- a) elektronikus azonosítási szolgáltatás útján vagy
+- b) elektronikus úton, természetes személyazonosító adatainak megadásával
+
+történik.
+
+(7) A (6) bekezdés b) pontja szerinti regisztráció esetében az ügyfél azonosítása a hatóság előtti első személyes megjelenéssel történik meg. Az általa addig benyújtott dokumentumokat akkor lehet hitelesnek tekinteni, ha azokat a személyes megjelenés során a magáénak ismeri el.
+
+(8) A (6) bekezdés szerint regisztrált ügyfélnek a hatóság a részére kialakított és fenntartott, az idegenrendészeti ügyindítási elektronikus felület által biztosított kézbesítési tárhelyre küldi meg a küldeményét. Az elektronikus dokumentum kézbesítésére az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-ában és a 15. § (2) és (3) bekezdésében foglalt rendelkezéseket alkalmazni kell azzal az eltéréssel, hogy ha a rendszer azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítés igazolásban feltüntetett időpontját követő ötödik munkanapon.
+
+(9) Azon eljárási cselekmények esetében, ahol a személyes megjelenés nem kötelező, a természetes személy ügyfél az idegenrendészeti hatósággal a (6)–(8) bekezdésben és a Kormány rendeletében meghatározottak szerint is tarthatja elektronikus úton a kapcsolatot. A regisztrált ügyféllel a hatóság azokban az eljárási cselekményekben, ahol ezt e törvény lehetővé teszi, az idegenrendészeti ügyindítási elektronikus felületen keresztül tart kapcsolatot. Az idegenrendészeti ügyindítási elektronikus felületen történő kapcsolattartás során az ügyfél által elektronikusan alá nem írt dokumentum is elfogadható.
+
 ### Adatkezelés és betekintés az eljárás irataiba
 
 86/I. § Az ügyfél vagy annak meghatalmazott képviselője az idegenrendészeti hatóság döntésének végrehajtása során kizárólag azokba az iratokba tekinthet be, amelyek megismerése a végrehajtás sikerességét nem akadályozza.
@@ -1928,6 +1996,27 @@ szerinti állam vonatkozásában.
 
 (5) Jogszabályban meghatározott feltételek teljesítése céljából a (4) bekezdésben meghatározott esetben is köteles az ügyfél az eljáró idegenrendészeti hatóság előtt a hatóság felhívására személyesen megjelenni.
 
+(6) Az (1)–(3) bekezdésben meghatározott kérelmet – a külképviseleten előterjesztett, valamint a 17/A. § (1) bekezdés a) pontja alapján előterjesztett kérelmek kivételével – a harmadik országbeli állampolgár az idegenrendészeti ügyindítási elektronikus felületen elektronikus regisztrálást követően elektronikus úton is előterjesztheti.
+
+(7) A kézbesített kérelem akkor minősül az idegenrendészeti hatósághoz érkezettnek, ha a harmadik országbeli állampolgár vagy meghatalmazott képviselője
+
+- a) a kérelem díját lerótta, amennyiben az eljárás díjköteles és
+- b) a harmadik országbeli állampolgárnak az 53. § (1a) bekezdésének megfelelően – a (2)–(3) bekezdésben foglalt kivétellel – az arcképmása, valamint az ujjnyomata rögzítése legkésőbb a visszaigazolás megküldésétől számított 15. napon megtörtént.
+
+(8) Nem minősül a kézbesített kérelem az idegenrendészeti hatósághoz érkezettnek, ha a kérelmet előterjesztő a díjfizetési vagy a személyes megjelenési kötelezettségének a (7) bekezdés b) pontja szerinti határidőn belül nem tesz eleget.
+
+(9) A (4) bekezdésben meghatározott, ügyfél által aláírt és az ügyfél arcképével ellátott kérelmet a külön jogszabályban meghatározott foglalkoztató vagy fogadó szervezet elektronikus azonosítást követően elektronikus úton terjeszti elő.
+
+(10) A (9) bekezdés szerinti kérelem nem minősül az idegenrendészeti hatósághoz érkezettnek, ha
+
+- a) a kérelmet nem a külön jogszabályban meghatározott foglalkoztató vagy fogadó szervezet terjesztette elő, vagy
+- b) a kérelem nem tartalmazza ügyfél aláírását és az arcképét, vagy
+- c) a kérelem díja nem került megfizetésre, amennyiben az eljárás díjköteles.
+
+(11) A kézbesített kérelem a (10) bekezdésben foglaltak teljesítése esetén az idegenrendészeti hatósághoz érkezett kérelemnek minősül. Erről a tényről az idegenrendészeti hatóság tájékoztatást küld.
+
+(12) Az idegenrendészeti hatósághoz meg nem érkezettnek minősülő kérelmeket az idegenrendészeti hatóság a visszaigazolást követő 16. napon törli, melyről idegenrendészeti ügyindítási elektronikus felület útján tájékoztatja az ügyfelet.
+
 ### Hiánypótlás
 
 86/K. § (1) Ha a kérelem a jogszabályban foglalt követelményeknek
@@ -1937,11 +2026,13 @@ szerinti állam vonatkozásában.
 
 az eljáró idegenrendészeti hatóság legfeljebb negyvenöt napos határidővel, a mulasztás jogkövetkezményeire történő figyelmeztetés mellett hiánypótlásra hívja fel a kérelmezőt.
 
-(2) A 86/J. § (1) és (4) bekezdésben meghatározott eljárásokban – a vízumeljárás kivételével – a kérelem hiányosan történő benyújtása esetén a hiánypótlási felhívást az ügyfél vagy az ügyfél egyidejű értesítése mellett a foglalkoztató részére az eljáró idegenrendészeti hatóság azonnal átadja.
+(2)
 
 (3) Az eljáró idegenrendészeti hatóság az ügyfél kérelmére a hiánypótlási felhívás teljesítési határidejét egy alkalommal – amennyiben az adott ügyfajtára megállapított objektív határidő lehetővé teszi – legfeljebb huszonegy nappal meghosszabbíthatja. A meghosszabbított hiánypótlási határidő sem haladhatja meg az (1) bekezdésben meghatározott határidőt.
 
 (4) A hiánypótlási felhívás teljesítési határidejének meghosszabbítását engedélyező vagy azt megtagadó végzés ellen önálló fellebbezésnek helye nincs, az az idegenrendészeti eljárásban hozott döntésben támadható meg.
+
+(5) Az ügyfél vagy meghatalmazott képviselője, továbbá törvényben meghatározott esetben a foglalkoztató a részére közölt hiánypótlási felhívásnak idegenrendészeti ügyindítási elektronikus felület útján is eleget tehet. Az elektronikus úton benyújtott hiánypótlást az idegenrendészeti hatósághoz történő beérkezését követő munkanapon az idegenrendészeti hatósághoz érkezettnek tekinteni.
 
 ### A kérelem érdemi vizsgálat nélküli elutasítása
 
@@ -1966,7 +2057,7 @@ az eljáró idegenrendészeti hatóság legfeljebb negyvenöt napos határidőve
 - g) a hatósági eljárásért illetéket vagy igazgatási szolgáltatási díjat kell fizetni, és az ügyfél a fizetési kötelezettségének az idegenrendészeti hatóság erre irányuló felhívása ellenére az erre tűzött határidő alatt nem tesz eleget,
 - h) hivatalból indult idegenrendészeti eljárásban a tényállás a határozat meghozatalához szükséges mértékben nem volt tisztázható, és további eljárási cselekménytől sem várható eredmény,
 - i) a hivatalból indult idegenrendészeti eljárás jogsértést nem tárt fel,
-- j) a 86/E. §-ban foglaltak esetében,
+- j) a 86/E. §-ban vagy a 87/A. § (3a) bekezdésben foglaltak miatt az eljárás megszüntetésének van helye,
 - k) érdemi vizsgálat nélküli elutasításnak lett volna helye, annak oka azonban az eljárás megindítását követően jutott az idegenrendészeti hatóság tudomására.
 
 (2) Az ügyfél az (1) bekezdés b) pontjában foglalt kimentésre az idézés napját követő napon vagy az őt megjelenésében akadályozó körülmény elhárulását követő napon jogosult. A kimentésnek a személyes megjelenésre kötelezés napját követő öt nap elteltével nincs helye.
@@ -1989,7 +2080,7 @@ az eljáró idegenrendészeti hatóság legfeljebb negyvenöt napos határidőve
 
 ### Az ügyintézési határidő és a határidő számítása
 
-86/O. § (1) Az ügyintézési határidő törvény vagy kormányrendelet eltérő rendelkezése hiányában az idegenrendészeti eljárásban 21 nap. Az ügyintézési határidő a kérelemnek a hatósághoz érkezését követő napon kezdődik.
+86/O. § (1) Az ügyintézési határidő törvény vagy kormányrendelet eltérő rendelkezése hiányában az idegenrendészeti eljárásban 21 nap. Az ügyintézési határidő a kérelemnek a hatósághoz érkezését követő munkanapon kezdődik.
 
 (2) Hivatalból induló eljárás esetén az ügyintézési határidő az első eljárási cselekmény elvégzésének napján kezdődik.
 
@@ -2044,6 +2135,8 @@ az eljáró idegenrendészeti hatóság legfeljebb negyvenöt napos határidőve
 (2) Az eljáró idegenrendészeti hatóság a szakhatóság megkeresésével egyidejűleg a szakhatóság tudomására hoz minden olyan tényt vagy körülményt, amely a szakhatósági állásfoglalás tartalmát befolyásolhatja. Ha ilyen tény vagy körülmény a szakhatóság megkeresését követően jut az eljáró idegenrendészeti hatóság tudomására, erről a szakhatóságot haladéktalanul tájékoztatja.
 
 (3) Amennyiben e törvény vagy kormányrendelet másként nem rendelkezik a szakhatósági eljárás ügyintézési határideje 15 nap. A szakhatóság vezetője az ügyintézési határidőt indokolt esetben egyszer 15 nappal meghosszabbíthatja, erről az eljáró idegenrendészeti hatóságot értesíteni kell. A szakhatósági eljárás időtartamába nem számít bele a 86/K. § szerinti hiánypótlás időtartama, ha a hiánypótlás olyan tényre, vagy körülményre vonatkozik, amelynek hiányában megalapozott szakhatósági állásfoglalás nem adható ki.
+
+(3a) A (3) bekezdés szerinti hiánypótlásról a szakhatóság az idegenrendészeti hatóságot haladéktalanul értesíti. Ha az ügyfél a kérelemre indult eljárásban a hiánypótlásra való felhívásnak nem tesz eleget, a szakhatóság a hiánypótlás elmulasztásáról értesíti a hatóságot, amely – ha az eljárás hivatalbóli folytatásának nincs helye – az eljárást megszünteti.
 
 (4) Amennyiben a szakhatósági eljárásra megállapított határidőn belül a szakhatóság az állásfoglalást nem közli az eljáró idegenrendészeti hatósággal, a szakhatósági hozzájárulást – ha törvény vagy kormányrendelet ettől eltérően nem rendelkezik – megadottnak kell tekinteni.
 
@@ -2144,6 +2237,8 @@ is eljárhat.
 
 87/J. § (1) A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. A meghatalmazást a megbízónak és a képviselőnek saját kezű aláírásával, elektronikus ügyintézés esetén a dokumentum hitelesítés szabályai szerint kell hitelesítenie.
 
+(1a) Ha a meghatalmazás a rendelkezési nyilvántartásban szerepel, erre az ügyfélnek, illetve az eljáró képviselőnek az eljárás során hivatkoznia kell.
+
 (2) A képviselő köteles eredeti meghatalmazását vagy annak hitelesített másolatát az első kapcsolatfelvétel alkalmával az iratokhoz csatolni.
 
 (3) A harmadik országbeli állampolgár által adott, belföldön kelt meghatalmazáshoz csatolni szükséges a meghatalmazás keltezésekor a harmadik országbeli állampolgár magyarországi tartózkodását igazoló dokumentumot.
@@ -2190,13 +2285,13 @@ is eljárhat.
 
 (3) Ha a határozat kötelezést tartalmaz, a teljesítésre határidőt vagy határnapot kell megállapítani.
 
-(4) Az önállóan nem fellebbezhető egyszerűsített végzés indokolásának elegendő a döntést megalapozó jogszabályhelyek megjelölését tartalmaznia.
+(4)
 
 (5) A visszairányítás tárgyában hozott döntés formai és tartalmi követelményeire a Schengeni Határellenőrzési Kódexben foglalt rendelkezések az irányadóak.
 
 ### A döntés közlése
 
-87/N. § (1) A határozatot az idegenrendészeti hatóság közli az ügyféllel, a képviselővel és az ügyben eljárt szakhatósággal. Amennyiben a döntés mind az ügyféllel, mind a képviselővel közlésre került, úgy a joghatások az ügyféllel történő közlés napjával állnak be.
+87/N. § (1) A határozatot az idegenrendészeti hatóság közli az ügyféllel, a képviselővel és az ügyben eljárt szakhatósággal. Amennyiben a döntés mind az ügyféllel, mind a képviselővel közlésre került, úgy a joghatások az előbb történt közlés napjával állnak be.
 
 (2) Amennyiben a döntés az ügyiratra kerül felvezetésre, az idegenrendészeti hatóság a döntéséről az ügyfelet, a képviselőt és a szakhatóságot tájékoztatja.
 
@@ -2427,6 +2522,8 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 
 88/P. § (1) Az idegenrendészeti hatóság határozata ellen, ha törvény másként nem rendelkezik, jogorvoslatnak van helye.
 
+(1a) Nincs helye jogorvoslatnak a tartózkodási engedély iránti eljárásokban az idegenrendészeti hatóság kérelemnek helyt adó döntésével szemben.
+
 (2) Az idegenrendészeti hatóság végzése ellen önálló jogorvoslatnak akkor van helye, ha azt e törvény lehetővé teszi. Egyéb esetben a végzés elleni jogorvoslati jog a határozat, ennek hiányában az eljárást megszüntető végzés ellen igénybe vehető jogorvoslat keretében gyakorolható.
 
 ### Fellebbezés
@@ -2442,7 +2539,7 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 - c) az e törvényben meghatározott fizetési kötelezettséggel kapcsolatos,
 - d) az eljárási bírságot kiszabó,
 - e) a fellebbezési határidő elmulasztása miatt benyújtott igazolási kérelmet elutasító,
-- f) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott első fokú végzés ellen.
+- f) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott korlátozó vagy elutasító elsőfokú végzés ellen.
 
 (4) Az elsőfokú idegenrendészeti hatóság a fellebbezést az ügy irataival együtt a fellebbezés beérkezésétől számított tíz napon – szakhatóság eljárása esetén tizenöt napon – belül terjeszti fel a másodfokú hatósághoz, kivéve, ha az idegenrendészeti hatóság a megtámadott döntést a fellebbezésben foglaltaknak megfelelően kijavítja, kiegészíti, módosítja, visszavonja vagy a fellebbezést érdemi vizsgálat nélkül elutasítja, valamint ha a fellebbezést a felterjesztést megelőzően visszavonták. Az első fokú döntést hozó idegenrendészeti hatóság a felterjesztéssel egyidejűleg a fellebbezésről kialakított álláspontjáról is nyilatkozik.
 
@@ -2491,6 +2588,8 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 
 (4) Az eljárási bírság kiszabásáról rendelkező határozat véglegessé válásától számított két év elteltével nincs helye végrehajtásnak.
 
+(5) Az ismeretlen helyen vagy külföldön tartózkodó beutazási és tartózkodási tilalom hatálya alatt álló harmadik országbeli állampolgárral szemben a magyar állam által megtérítési kötelezettséggel megelőlegezett költségek tekintetében elrendelt végzés végrehajtását az idegenrendészeti hatóság a beutazási és tartózkodási tilalom fennállásáig hivatalból felfüggeszti. A végrehajtás felfüggesztésének időtartama alatt az elévülés nyugszik.
+
 90. § (1) Az idegenrendészeti hatóság által elrendelt egyéb – pénzfizetési kötelezésnek nem minősülő – kötelezés, az arról rendelkező döntés véglegessé válásától számított öt év elteltével évül el.
 
 (2) A végrehajtás elévülését bármely végrehajtási cselekmény megszakítja.
@@ -2515,6 +2614,8 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 (4) A bizonyítási eljárással járó költségeket a bizonyítást indítványozó fél előlegezi.
 
 (5) Az előlegezésről a hatóság a költségek felmerülésekor dönt, ha azonban a felmerülő költségek jelentősebb összeget érnek el, vagy más körülmény ezt indokolttá teszi, a hatóság elrendelheti, hogy az ügyfél a költségek fedezésére előreláthatóan szükséges összeget a hatóságnál előzetesen helyezze letétbe.
+
+(6) Az idegenrendészeti eljárások során, amennyiben külön jogszabályban meghatározott igazgatási szolgáltatási díj nem került meghatározásra, az illetékekről szóló 1990. évi XCIII. törvény rendelkezései szerint kell eljárni.
 
 ### 11. CÍM — JOGI SEGÍTSÉGNYÚJTÁS
 
@@ -2552,7 +2653,8 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 - 22. 108–110. §-át,
 - 23. 113–115. §-át,
 - 24. 120–123. §-át,
-- 25. 131–136. §-át.
+- 25. 131–136. §-át,
+- 26. 81. § (2) bekezdés a) pontját.
 
 ### X. Fejezet — A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK ADATAINAK KEZELÉSÉRE VONATKOZÓ SZABÁLYOK
 
@@ -2595,21 +2697,21 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 
 (5) Az ujjnyomat-adatot a vízumkérelem elbírálásáért felelős idegenrendészeti hatóság kizárólag az ujjnyomat-adatnak a Vízuminformációs Rendszerbe történő beviteléig kezelheti. Az ujjnyomat-adatot ezt követően haladéktalanul törölni kell.
 
-96. § (1) Az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem és a kiadott tartózkodási engedély alapján a harmadik országbeli állampolgár következő adatait kezeli:
+96. § (1) Az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem, valamint a mobilitással kapcsolatos értesítés és a kiadott tartózkodási engedély, valamint mobilitási igazolás alapján a harmadik országbeli állampolgár következő adatait kezeli:
 
 - a) a természetes személyazonosító adatok;
 - b) az arcképmás;
 - c) az úti okmány azonosító adatai;
-- d) a tartózkodás célja és tervezett időtartama, a korábbi szokásos tartózkodási hely szerinti országa.
+- d) a tartózkodás célja és tervezett időtartama, a korábbi szokásos tartózkodási hely szerinti országa;
 - e) a beutazásához és tartózkodásához szükséges feltételeket igazoló okiratokban szereplő adatok;
-- f) a tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelem elutasításának, valamint a tartózkodási engedély visszavonásának ténye, azok indoka;
-- g) a kiadott (meghosszabbított) tartózkodási engedély száma, sorozatszáma, érvényességi ideje;
-- h) az első beutazás és az utolsó kiutazás időpontja, a következő szokásos tartózkodási hely szerinti országa.
+- f) a tartózkodási engedély, valamint mobilitási igazolás kiadása vagy meghosszabbítása iránti kérelem elutasításának vagy a kifogásnak, valamint a tartózkodási engedély vagy mobilitási igazolás visszavonásának ténye, azok indoka;
+- g) a kiadott (meghosszabbított) tartózkodási engedély, valamint mobilitási engedély száma, sorozatszáma, érvényességi ideje;
+- h) az első beutazás és az utolsó kiutazás időpontja, a következő szokásos tartózkodási hely szerinti országa;
 - i) a szálláshely címe;
-- j) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat;
-- k) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
+- j) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, a Tanács 2002. június 13-i 1030/2002/EK rendelet, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet szerinti arcképmás és ujjnyomat;
+- k) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám.
 
-(2) Az (1) bekezdés a)–i) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
+(2) Az (1) bekezdés a)–i) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem elutasítása, vagy a mobilitási értesítés elleni kifogás esetén annak időpontjától, a kiadott (meghosszabbított) tartózkodási engedély vagy mobilitási igazolás esetén annak érvényességi idejének lejártát, illetve visszavonását követő öt évig kezeli.
 
 (3) Az (1) bekezdés j) pontjában meghatározott adatokat az idegenrendészeti hatóság a tartózkodási engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig, illetve a 29. § (1) bekezdés a)–b) és d)–f) pontjában, illetve (1a) bekezdésében meghatározott humanitárius tartózkodási engedély kiadásáig kezelheti, azt követően haladéktalanul törölni kell.
 
@@ -2726,6 +2828,12 @@ az eljáró idegenrendészeti hatósági személy a hatósági ellenőrzésről 
 
 105. § Az idegenrendészeti hatóság a Dublini Egyezmény hatékony alkalmazása érdekében az ujjnyomatok összehasonlítására irányuló „Eurodac” létrehozásáról szóló, 2000. december 11-i, 2725/2000/EK tanácsi rendelet 8. cikk (1) pontjában meghatározott adatokat kezeli.
 
+105/A. § Az idegenrendészeti hatóság a gyakornokot foglalkoztató szervezetek következő adatait kezeli:
+
+- a) a fogadó szervezet nevét, székhelyét és adószámát;
+- b) a gyakornoki program kezdetét és végét, megnevezését;
+- c) a gyakornok program folytatásától eltiltott szervezet esetén a tilalom kezdetének és megszűnésének időpontját, valamint a tilalom okát.
+
 106. § (1) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból jogszabályban meghatározott feladataik ellátása céljából – törvényben meghatározott adatkörben –
 
 - a) az igazságszolgáltatási szervek,
@@ -2764,12 +2872,16 @@ részére továbbíthat adatot.
 
 - a) a személyi adat- és lakcímnyilvántartásból,
 - b) a bűntettesek, a kényszerintézkedés, illetve a büntetőeljárás alatt állók nyilvántartásából,
-- c) a körözési nyilvántartásból,
+- c) a közvetlen hozzáférés útján a körözési nyilvántartásból,
 - d) a munkavállalási engedéllyel rendelkezők nyilvántartásából,
 - e) a cégnyilvántartásból,
 - f) az egyéni vállalkozók nyilvántartásából és
 - g) a közegészségügyi hatóságtól,
-- h) a köztartozásmentes adózói adatbázisból.
+- h) a köztartozásmentes adózói adatbázisból,
+- i) a felsőoktatási információs rendszer működéséért felelős szerv által vezetett felsőoktatási információs rendszerből,
+- j) törvényben meghatározott esetben az adóhatóságtól,
+- k) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott juttatások vonatkozásában a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott adatkezelő szervtől,
+- l) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
 
 (5) Az idegenrendészeti hatóság az arckép profil nyilvántartás részére arckép profil létrehozása és nyilvántartásba vétele céljából a 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartások hatálya alá tartozó személyek arcképmását, valamint az arcképmáshoz rendelt technikai kapcsoló számot átadja.
 
@@ -3035,7 +3147,8 @@ végrehajtási eljárásokra is alkalmazni kell.
 - q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásának részletes szabályait;
 - r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket;
 - s) az összevont engedély adattartalmát és kiállításának feltételeit, valamint az összevont kérelmezési eljárás szabályait;
-- t) a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem előterjesztésére jogosult foglalkoztatók körét.
+- t) a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem előterjesztésére jogosult foglalkoztatók körét;
+- u) a kérelem idegenrendészeti ügyindítási elektronikus felületen történő előterjesztésének részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat, és az egyes idegenrendészeti eljárásokban szakhatóságként eljáró rendvédelmi szerveket.
 
@@ -3046,7 +3159,7 @@ végrehajtási eljárásokra is alkalmazni kell.
 - c) meghatározza az egyedi szakhatósági előírás vagy feltétel tartalmi követelményeit, a szakhatóság által a szakhatósági állásfoglalás kialakítása során vizsgált szempontokat,
 - d) meghatározza a szakhatósági közreműködésre, az ügyben érdemi döntésre jogosult hatóság és a szakhatóság közötti együttműködésre vonatkozó részletes eljárási szabályokat.
 
-(1c) Felhatalmazást kap a Kormány, hogy a jövedelemszerzési, munkavállalási vagy egyéb célú tartózkodási engedély jövőbeni benyújtását adott ország(ok) állampolgárai vonatkozásában rendeletben korlátozza, ha azok létszáma Magyarország számára nemzetbiztonsági kockázatot jelenthet.
+(1c) Felhatalmazást kap a Kormány, hogy a jövedelemszerzési, munkavállalási vagy egyéb célú tartózkodási engedély jövőbeni benyújtását adott ország(ok) állampolgárai vonatkozásában rendeletben korlátozza, ha azok létszáma Magyarország számára közbiztonsági vagy nemzetbiztonsági kockázatot jelenthet.
 
 (2) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben szabályozza:
 
@@ -3134,14 +3247,14 @@ az Alaptörvény XIV. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 - a) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2014. február 26-i 2014/36/EU európai parlamenti és tanácsi irányelvnek;
 - b) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló, 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelvnek;
-- c) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) európai parlamenti és tanácsi irányelvnek
+- c) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 (2) E törvény
 
 - a) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet; [6. §; 40. §]
-- b) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [53. §, 67. §, 96. §, 99. §, 111. §];
+- b) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, a Tanács 2002. június 13-i 1030/2002/EK rendelet, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet [53. §, 67. §, 96. §, 99. §, 111. §];
 - c) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 6., 9., illetve 19–20. cikkei [67/A. §, 95. §];
 - d) a Közösségi Vízumkódex létrehozásáról szóló (vízumkódex), 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet [2. §, 8. §, 9. §, 12. §, 111. §];
 - e) a migrációra és a nemzetközi védelemre vonatkozó közösségi statisztikákról szóló 862/2007EK európai parlamenti és tanácsi rendelet;

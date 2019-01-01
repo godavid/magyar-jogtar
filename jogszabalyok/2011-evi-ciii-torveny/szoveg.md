@@ -23,7 +23,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 
 - 5. értékesítés: az adóköteles termék ellenérték fejében történő átadása akként, hogy az az átvevőt tulajdonosként való rendelkezésre jogosítja;
 - 6. teljesítési hely: az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) szerinti teljesítési hely;
-- 7. VTSZ szám: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendelet I. mellékletének módosításáról szóló, 2010. október 5-i 861/2010/EU bizottsági rendelet 2011. június 14-én hatályos szövege szerinti vámtarifaszám.
+- 7. VTSZ szám: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet I. mellékletében meghatározott Kombinált Nómenklatúra 2018. január 1-jén hatályos szövege szerinti vámtarifaszám;
 - 8. teljesítési időpont: az Áfa törvény szerinti teljesítési időpont;
 - 9. taurin: a H2N-CH2-CH2-SO2-OH kémiai képlettel leírható vegyület (2-aminoetán-szulfonsav);
 - 10. sör: a 2203 VTSZ szám alá tartozó termék.
@@ -31,14 +31,14 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - 12. metil-xantin: a koffein (1,3,7-trimetil-xantin), a teobromin (3,7-dimetil-xantin), a teofillin (1,3-dimetil-xantin).
 - 13. beszerzés: terméknek az Áfa törvény szerinti Közösségen belüli beszerzése, importja.
 - 14. szörp: A Magyar Élelmiszerkönyv szerinti gyümölcsszörp, valamint a Magyar Élelmiszerkönyv szerinti víz- és kivonat alapú szörp, valamint a 2106 VTSZ szám alá tartozó, ital előállítására használatos, víz- és kivonatalapú, a megnevezésére jellemző ízű és illatú készítmény, amelyet cukorból vagy cukorszirupból, ízesítő és adalékanyagok hozzáadásával állítottak elő.
-- 15. adalékanyag: az élelmiszer-adalékanyagokról szóló, 2008. december 16-ai 1333/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1333/2008/EK rendelet) szerinti élelmiszer-adalékanyag és az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló, 2008. december 16-ai 1334/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1334/2008/EK rendelet) szerinti aroma és aroma tulajdonságokkal rendelkező élelmiszer-összetevő, ide nem értve a 1333/2008/EK rendelet II. melléklet B. részének 1. Színezékek felsorolásában meghatározott színezőanyagként használt karamellt és az 1334/2008/EK rendelet 3. cikk (2) bekezdés d) pont ii. alpontja szerinti gyógynövénykivonatot;
-- 16. gyógynövény: a növény azon része (különösen a növény szerve, gyökere, levele, virága, termése), melyet a benne lévő hatóanyag miatt a gyógyászatban alkalmaznak;
+- 15. adalékanyag: az élelmiszer-adalékanyagokról szóló, 2008. december 16-ai 1333/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1333/2008/EK rendelet) szerinti élelmiszer-adalékanyag és az élelmiszerekben és azok felületén használható aromákról és egyes, aroma tulajdonságokkal rendelkező élelmiszer-összetevőkről, valamint az 1601/91/EGK tanácsi rendelet, a 2232/96/EK és a 110/2008/EK rendelet, valamint a 2000/13/EK irányelv módosításáról szóló, 2008. december 16-ai 1334/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1334/2008/EK rendelet) szerinti aroma és aroma tulajdonságokkal rendelkező élelmiszer-összetevő, ide nem értve a 1333/2008/EK rendelet II. melléklet B. részének 1. Színezékek felsorolásában meghatározott színezőanyagként használt karamellt;
+- 16.
 - 17. méz: az Apis mellifera méhek által a növényi nektárból vagy élőnövényi részek nedvéből, illetve növényi nedveket szívó rovarok által az élő növényi részek kiválasztott anyagából gyűjtött természetes édes anyag, amelyet a méhek begyűjtenek, saját anyagaik hozzáadásával átalakítanak, raktároznak, dehidrálnak és lépekben érlelnek,
-- 18. gyümölcspárlat: a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: EK rendelet) II. számú melléklete 6. vagy 9. kategóriája szerint készített, EK rendelet szerinti szeszes ital.
-- 19. egészségmegőrző program: az adóalany – erőforrás-kiáramlással (költségekkel) járó – vagy az egészségügyi államigazgatási szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által, ingyenesen vagy legfeljebb 500 forint ellenében érhető el;
+- 18.
+- 19. egészségmegőrző program: az egészségügyi államigazgatási szerv egészséges étkezésre, életmódra, a sportolás elősegítésére, ösztönzésére irányuló minden olyan tevékenysége, akciója, programja, amely bármely magánszemély által ingyenesen vagy legfeljebb 500 forint ellenében érhető el;
 - 20. tejalapanyag: a termékben található tej, tejtermék (különösen joghurt, kefir, vaj, túró, tejszín, tejpor, sajt, író);
 - 21. édesítőszer: az 1333/2008/EK rendelet II. melléklet B. részének 2. Édesítőszerek felsorolásában szereplő anyagok;
-- 22. gyógynövényes ital: a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő, adalékanyagot nem tartalmazó, legalább hét különböző növényből származó gyógynövény felhasználásával előállított ital – ide nem értve az EK rendelet II. számú melléklete 31. pontja szerinti ízesített vodkát – ha annak összes gyógynövénytartalma meghaladja a 3 gramm gyógynövény (vagy ennek megfelelő hatóanyag-tartalmú gyógynövénykivonat)/100 milliliter mennyiséget, és a felhasznált hét különböző növényből származó gyógynövényből – növényenként – legalább 0,2 gramm gyógynövény (vagy ennek megfelelő hatóanyag-tartalmú gyógynövénykivonat)/100 milliliter mennyiséget tartalmaz, azzal, hogy a gyógynövénymennyiséget 15%-os nedvességtartalmú gyógynövénymennyiségre átszámítva kell figyelembe venni és az ital ízében és illatában a felhasznált gyógynövények íze és illata a domináns.
+- 22.
 
 #### 2. Az adókötelezettség
 
@@ -67,7 +67,7 @@ Előrecsomagolt terméknek minősül az az a)–c) pontokban foglalt feltételek
 - f) az a) pont hatálya alá nem tartozó olyan ital, amely sört és hozzáadott cukrot, illetve édesítőszert tartalmaz, ideértve azt az esetet is, ha valamely összetevője tartalmaz cukrot, illetve édesítőszert, feltéve, hogy a termék cukor-, illetve édesítőszer-tartalma együttesen meghaladja az 5 gramm cukor, illetve ennek megfelelő édesítőszer/100 milliliter mennyiséget (a továbbiakban: ízesített sör);
 - g) a legfeljebb 5 térfogatszázalék alkoholtartalommal rendelkező, 2208 VTSZ szám alá tartozó olyan ital, amely üdítőitalt vagy adalékanyagot tartalmaz, feltéve, hogy a termék hozzáadott cukrot, illetve édesítőszert tartalmaz és a cukor-, illetve édesítőszer-tartalma együttesen meghaladja az 5 gramm cukor, illetve ennek megfelelő édesítőszer/100 milliliter mennyiséget (a továbbiakban: alkoholos frissítő);
 - h) a 2007 VTSZ szám alá tartozó termék, ha hozzáadott cukrot tartalmaz és cukortartalma meghaladja a 35 gramm cukor/100 gramm mennyiséget, a Magyar Élelmiszerkönyv szerinti extradzsem, extrazselé, marmelád és különleges minőségű lekvárok kivételével (a továbbiakban: gyümölcsíz);
-- i) a Jöt. szerinti alkoholterméknek minősülő ital, ide nem értve az alkoholos frissítőt, a gyümölcspárlatot, a gyógynövényes italt és a Jöt. 133. § (1) bekezdés e)–i) pontja hatálya alá tartozó alkoholterméket (a továbbiakban: alkoholos ital).
+- i) a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti alkoholterméknek minősülő ital, ide nem értve az alkoholos frissítőt és a Jöt. 133. § (1) bekezdés e)–i) pontja hatálya alá tartozó alkoholterméket (a továbbiakban: alkoholos ital).
 
 3. § (1) Adókötelezettség terheli az adóköteles termék:
 
@@ -93,22 +93,20 @@ személy, szervezet.
 
 6. § Az adó mértéke
 
-- a) a 2. § a) pont aa) alpontja szerinti üdítőital esetében 7 forint/liter, ab) alpontja szerinti üdítőital esetében 200 forint/liter,
-- b) a 2. § b) pontjának
-  - ba) ba) alpontja szerinti energiaital esetében 250 forint/liter,
-  - bb) bb) alpontja szerinti energiaital esetében 40 forint/liter,
-- c) cukrozott kakaópor esetében 70 forint/kilogramm, más előrecsomagolt cukrozott készítmény esetében 130 forint/kilogramm,
-- d) sós snack esetében 250 forint/kilogramm,
-- e) ételízesítő esetében 250 forint/kilogramm,
-- f) ízesített sör és alkoholos frissítő esetében 20 forint/liter,
-- g) gyümölcsíz esetén 500 forint/kilogramm,
+- a) a 2. § a) pont aa) alpontja szerinti üdítőital esetében 15 forint/liter, ab) alpontja szerinti üdítőital esetében 240 forint/liter,
+- b) a 2. § b) pontjának ba) alpontja szerinti energiaital esetében 300 forint/liter, bb) alpontja szerinti energiaital esetében 50 forint/liter,
+- c) cukrozott kakaópor esetében 85 forint/kilogramm, más előrecsomagolt cukrozott készítmény esetében 160 forint/kilogramm,
+- d) sós snack esetében 300 forint/kilogramm,
+- e) ételízesítő esetében 300 forint/kilogramm,
+- f) ízesített sör és alkoholos frissítő esetében 25 forint/liter,
+- g) gyümölcsíz esetén 600 forint/kilogramm,
 - h) alkoholos ital esetében, ha annak alkoholtartalma
-  - ha) 1,2 térfogatszázaléknál nagyobb, de az 5 térfogatszázalékot nem haladja meg 20 forint/liter,
-  - hb) 5 térfogatszázaléknál nagyobb, de a 15 térfogatszázalékot nem haladja meg 100 forint/liter,
-  - hc) 15 térfogatszázaléknál nagyobb, de a 25 térfogatszázalékot nem haladja meg 300 forint/liter,
-  - hd) 25 térfogatszázaléknál nagyobb, de a 35 térfogatszázalékot nem haladja meg 500 forint/liter,
-  - he) 35 térfogatszázaléknál nagyobb, de a 45 térfogatszázalékot nem haladja meg 700 forint/liter,
-  - hf) 45 térfogatszázaléknál nagyobb 900 forint/liter.
+  - ha) 1,2 térfogatszázaléknál nagyobb, de az 5 térfogatszázalékot nem éri el, 25 forint/liter,
+  - hb) 5 térfogatszázalék vagy annál nagyobb, de a 15 térfogatszázalékot nem éri el, 120 forint/liter,
+  - hc) 15 térfogatszázalék vagy annál nagyobb, de a 25 térfogatszázalékot nem éri el, 360 forint/liter,
+  - hd) 25 térfogatszázalék vagy annál nagyobb, de a 35 térfogatszázalékot nem éri el, 600 forint/liter,
+  - he) 35 térfogatszázalék vagy annál nagyobb, de a 45 térfogatszázalékot nem éri el, 850 forint/liter,
+  - hf) 45 térfogatszázalék vagy annál nagyobb, 1100 forint/liter.
 
 #### 6. Mentesség az adó alól
 
@@ -133,12 +131,7 @@ a 10. § (2) és (3) bekezdése szerinti bevallási időszakra (a továbbiakban:
 
 (3) Ha az adómegállapítási időszakban értékesített adóköteles termék mennyisége a bevallás benyújtását követően csökken, az adó alanya az adó összegét abban az adómegállapítási időszakban jogosult csökkenteni, amelyben a helyesbítésről, érvénytelenítésről szóló számlát, számviteli bizonylatot vagy más okiratot kiállították.
 
-(4) Az adó alanya a fizetendő adóját
-
-- a) csökkentheti az adómegállapítási időszakban egészségmegőrző programokkal kapcsolatban felmerült költségeivel, ráfordításaival,
-- b) felajánlhatja az egészségügyi államigazgatási szerv egészségmegőrző programjának finanszírozására az adóbevallásában tett rendelkező nyilatkozatával,
-
-azzal, hogy az adócsökkentés és az adófelajánlás együttes összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
+(4) Az adó alanya a fizetendő adóját felajánlhatja egészségmegőrző program finanszírozására az adóbevallásában tett rendelkező nyilatkozatával, azzal, hogy az adófelajánlás összege legfeljebb az egyébként fizetendő adó összegének 10%-áig terjedhet.
 
 (5) A rendelkező nyilatkozat az adóbevallás benyújtását követően nem módosítható és nem pótolható, késedelmesen benyújtott bevallás esetén a rendelkező nyilatkozat érvénytelen.
 
@@ -200,71 +193,33 @@ adóköteles termék mennyisége termékenkénti bontásban.
 
 #### 1. Az adókötelezettség, az adó alanya
 
-11/A. § (1) A kötelező gépjármű-felelősségbiztosításról szóló törvény (Kgfb. tv.) szerinti biztosítási kötelezettség után baleseti adót (a továbbiakban e fejezet alkalmazásában a baleseti adó: adó) kell fizetni.
+#### 11/A. §
 
-(2) Az (1) bekezdés szerinti adókötelezettség a Kgfb tv. szerinti biztosítási időszak első napján keletkezik és utolsó napján szűnik meg.
-
-(3) Ha a biztosító értesítése alapján a kötelező gépjármű felelősségbiztosítás díjának meg nem fizetése miatt a gépjármű forgalomból való kivonása iránti eljárás indul, az adókötelezettség – a (2) bekezdésben foglaltaktól eltérően – a gépjármű forgalomból való kivonása napján szűnik meg.
-
-11/B. § 1/A. Az adó alanya az a személy vagy szervezet, akit vagy amelyet a Kgfb. tv. szerinti biztosítási kötelezettség terhel.
+#### 11/B. §
 
 #### 2. Az adó alapja, mértéke
 
-11/C. § (1) Az adó alapja az éves kötelező gépjármű-felelősségbiztosítási díj, ide értve a Kgfb. tv. szerint megállapított fedezetlenségi díjat is (a továbbiakban együtt: biztosítási díj).
+#### 11/C. §
 
-(2) Határozott tartamú Kgfb. tv. szerinti biztosítási szerződés esetén az adó alapja a határozott időtartamra megállapított egyszeri biztosítási díj.
-
-(3) Az adó alapja
-
-- a) a Kgfb. tv. szerinti fedezetlenségi időtartam, továbbá
-- b) a Kgfb. tv. szerinti türelmi idő és – biztosító kockázatviselésével nem érintett –, a gépjármű forgalomból való kivonásának napjáig terjedő időtartam (a továbbiakban: biztosítási díjjal le nem fedett időtartam) azon napjaira, melyekre a biztosító az (1) vagy (2) bekezdés szerinti adót nem szedte be, a Magyar Biztosítók Szövetsége által közétett – a Kgfb. tv. szerinti türelmi idő első napján érvényes – fedezetlenségi díj napi összege és a fedezetlenségi időtartam, valamint a biztosítási díjjal le nem fedett időtartam napjai számának szorzata.
-
-11/D. § Az adó mértéke az adóalap 30%-a, de a biztosító kockázatviselésével érintett időtartam naptári napjaira naponta legfeljebb 83 forint/gépjármű.
+#### 11/D. §
 
 #### 3. Az adó megállapítása
 
-11/E. § (1) Az adót – a 11/F. §-ban foglalt kivétellel – a beszedésre kötelezett állapítja meg, vallja be és fizeti meg.
+#### 11/E. §
 
-(2) Az adó beszedésére kötelezett a Kgfb. tv. szerinti kötelező felelősségbiztosítási szolgáltatást nyújtó biztosító (a továbbiakban: biztosító).
+#### 11/F. §
 
-(3) A biztosítónak az általa megállapított adót az esedékes biztosítási díjjal, díjrészlettel együtt kell beszednie, annyi részletben és olyan arányban, ahány részletben és amilyen arányban az adó alanyának a biztosítási díjfizetési kötelezettségének eleget kell tennie.
+#### 11/G. §
 
-(4) Ha az adó alanya a biztosítási díj és a megállapított adó együttes összegénél kevesebbet fizetett, akkor azt úgy kell tekinteni, hogy részben vagy egészben a megállapított adót fizette meg.
+#### 4. Eljárási rendelkezések
 
-(5) A biztosító a fizetendő baleseti adót akkor is tartozik befizetni, ha annak beszedését elmulasztotta.
-
-(6) Ha a Kgfb. tv. szerinti biztosítási jogviszony díjnemfizetés miatt szűnik meg és a Kgfb. tv. szerinti türelmi időben esedékes biztosítási díj után a biztosító az adót megfizette, a biztosítási jogviszony megszűnését magában foglaló hónapról szóló bevallásában a fizetendő adó összegét a biztosító az adónak az adóalany által meg nem fizetett összegével csökkentheti.
-
-11/F. § (1) A Kgfb. tv. szerinti határon átnyúló szolgáltatás esetén az adót az adó alanya önadózással, a biztosítási díj esedékességével egyidejűleg állapítja meg.
-
-(2) A biztosítási díjjal le nem fedett időtartam azon napjaira, amelyekre a biztosító a 11/C. § (1) vagy (2) bekezdése alapján az adót nem szedte be, az adó alanya az adó összegét önadózással állapítja meg a gépjármű forgalomból való kivonását vagy az üzemben tartó személyében bekövetkezett változás esetén, a változást követő hónap 15. napjáig. A biztosító a kockázatviselése megszűnésétől számított 15 napon belül igazolást ad az adóalany számára arról, hogy az adó a 11/E. § alapján mely napig van megfizetve.
-
-11/G. § (1) Ha a biztosítási díj az adóalany számára visszajár
-
-- a) beszedés esetén a visszajáró díj alapulvételével számított adót a biztosító köteles az adóalanynak legkésőbb a visszajáró díj visszafizetésének napjáig visszafizetni. Az adó visszafizetésének hónapját követő 15. napig benyújtott bevallásában a biztosító jogosult a visszafizetett adóval az általa beszedett, bevallott adót csökkenteni,
-- b) önadózás esetén az adó alanya a visszajáró díj alapulvételével számított adót az adózás rendjéről szóló törvény szabályai szerint a díj visszafizetését követő hónap első napjától kezdődően az állami adóhatóság által rendszeresített nyomtatványon visszaigényelheti.
-
-(2) Ha a biztosító tevékenységi engedélyét a felügyeleti szerv visszavonta és az adóalannyal kötött kötelező gépjármű-felelősségbiztosításról szóló szerződés megszűnik, akkor a visszavont tevékenységi engedélyű biztosító kockázatviselése napjának megszűnését követő időszakra jutó, a visszajáró díj alapulvételével számított, korábban beszedett adót – az adóalany kérelmére – az állami adóhatóság az adózás rendjéről szóló törvény adó-visszatérítésre vonatkozó szabályai szerint visszatéríti. A visszatérítés iránti kérelemben az adóalany megadja az azonosító adatait, az adóazonosító számát, a visszavont tevékenységi engedélyű biztosító nevét, a megszűnt biztosítási szerződés kötvényszámát, valamint azt a bankszámlaszámot vagy postai címet, amelyre a visszajáró adó kifizetését kéri.
-
-(3) A biztosító a tevékenységi engedélye visszavonását követő időszakról – első ízben az engedélye visszavonását követő hónap, azt követően minden hónap utolsó napjáig – havonta – az adatszolgáltatással le nem fedett időszakra vonatkozóan megszűnt szerződések kapcsán – adatot szolgáltat az állami adóhatóság részére a (2) bekezdésben említett adóalany nevéről, adóazonosító számáról, a megszűnt biztosítási szerződése kötvényszámáról, továbbá a szerződés megszűnése miatt a biztosító kockázatvállalásával már nem fedezett biztosítási díj és az annak alapján számított, beszedett adó összegéről.
-
-4. Eljárási rendelkezések
-
-11/H. § (1) Az adóval kapcsolatos adóhatósági feladatokat az állami adóhatóság látja el.
-
-(2) A beszedésre kötelezett, illetve – a 11/F. § szerinti esetben – az adó alanya az adót az adó megállapítására előírt határnapot követő hónap 15. napjáig vallja be és fizeti meg az állami adóhatóság által rendszeresített nyomtatványon.
+#### 11/H. §
 
 #### 5. Átmeneti rendelkezések
 
-11/I. § (1) Ha a biztosítási időszak 2012. január 1-jét megelőzően kezdődött, akkor az adókötelezettség a biztosítási időszaknak a 2011. december 31-ét követő részére áll fenn.
+#### 11/I. §
 
-(2) Ha az adóalany 2011. december 31-ét követő időszakra vonatkozó díjfizetési kötelezettségének esedékessége 2012. január 1-jét megelőzte akkor a 2011. december 31-ét követő időszakra – napi időarányosítással számított – biztosítási díj, egyszeri biztosítási díj, továbbá a biztosítással le nem fedett időtartamra megállapított adóalap utáni adót a beszedésre kötelezett vagy – önadózás esetén – az adó alanya 2012. február 15-ig állapítja meg, vallja be és fizeti meg az állami adóhatósághoz.
-
-11/J. § (1) Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel (a továbbiakban: Mód törvény) megállapított 11/G. § (2)–(3) bekezdését alkalmazni kell a Mód törvénnyel megállapított 11/G. § hatálybalépését megelőzően visszavont tevékenységi engedélyű biztosítóval kötött kötelező gépjármű-felelősségbiztosítási szerződés megszűnése esetén is, ha a biztosító a visszatérítendő biztosítási díj után beszedett adót az adóalanynak nem térítette vissza.
-
-(2) Az (1) bekezdés szerinti biztosítónak a Mód törvénnyel megállapított 11/G. § (3) bekezdése szerinti adatszolgáltatást első ízben a Mód törvénnyel megállapított 11/G. § hatálybalépése napját követő 8 napon belül kell teljesítenie.
-
-(3) Az (1) bekezdés szerinti esetben az adóalany a visszatérítés iránti kérelmében – a Mód törvénnyel megállapított 11/G. § (2) bekezdésében foglalt adatokon túlmenően – megadja az adó-visszatérítéshez szükséges adatokat, így különösen a megszűnt biztosítási szerződés szerinti biztosítási díj és az abból megfizetett biztosítási díj, díjrészlet összegét, valamint a biztosítási szerződés megszűnésének időpontját.
+#### 11/J. §
 
 11/K. § (1) A II. fejezet 2018. december 31-én hatályos rendelkezéseit alkalmazni kell a Kgfb. tv. szerinti azon biztosítás teljes Kgfb. tv. szerinti biztosítási időszakában vagy tartamában, melynek esetében a biztosítási időszak vagy tartam kezdő napja 2019. január 1-jét megelőzi, utolsó napja pedig a 2018. december 31-ét követő időszakra, de legkésőbb 2019. december 30-ára esik.
 

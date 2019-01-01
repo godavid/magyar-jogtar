@@ -716,7 +716,7 @@ a magánvezeték engedélyese számára nem adhatnak alapot visszaélésre.
 
 (2) A Hivatal átmenetileg kijelölheti az érintett elosztót, amelynek hálózatához a magánvezeték csatlakozik a magánvezeték üzemeltetésére, amennyiben a magánvezeték engedélyese a 39. § (3)–(5) bekezdésében és a 39/A. § (1)–(3) bekezdésben foglalt kötelezettségeit nem teljesíti és a 96. § (1) bekezdés a)–b) pontjában foglaltak alkalmazása nem vezetett eredményre, valamint a kijelölés a magánvezetékre kapcsolódó felhasználók és vételezők biztonságos villamosenergia-ellátása érdekében indokolt. Az elosztó kijelölésére a 99. § (1) bekezdésében foglalt rendelkezéseket kell alkalmazni. A magánvezeték engedélyesének felelősségére a kijelölés ideje alatt a 39. § (5) bekezdése az irányadó. A kijelölés időtartama alatt a magánvezeték üzemeltetése szempontjából az elosztó a magánvezeték engedélyesének nevében jár el, és őt a magánvezeték engedélyesének a magánvezetékre kapcsolódó felhasználókkal és vételezőkkel kötött vezetékhasználati megállapodásokban meghatározott kötelezettségei terhelik, és jogai illetik meg.
 
-VEt 39/F. § Arra a felhasználóra, aki a 39. § (1) bekezdés b) és c) pontjában meghatározott célokból magánvezetéket egy épületen belül létesít, a 39. §–39/D. § magánvezeték engedélyesére vonatkozó rendelkezései megfelelően irányadóak.
+39/F. § Arra a felhasználóra, aki a 39. § (1) bekezdés b) és c) pontjában meghatározott célokból magánvezetéket egy épületen belül létesít, a 39. §–39/D. § magánvezeték engedélyesére vonatkozó rendelkezései megfelelően irányadóak.
 
 ### VI. Fejezet — MÉRÉS, LEOLVASÁS
 
@@ -2668,7 +2668,7 @@ ELJÁRÁSOK
 
 (5) A rendszerhasználati díjakat olyan módon kell szabályozni, hogy a legkisebb költség elvét alapul véve a hatékonyan működő engedélyes vállalkozás indokolt költsége – beleértve a tőkeköltséget is – kerüljön figyelembevételre, ugyanakkor a szabályozás ösztönözze az érintett engedélyeseket rövid és hosszú távon gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására és az ellátásbiztonság növelésére.
 
-(6) Az elosztási díjból és a közvilágítási elosztási díjból származó árbevételt az elosztók között az indokolt költségek arányában kell megosztani. Ennek érdekében az engedélyesek között szükség esetén a rendszerhasználati díjakkal együtt meghatározott kiegyenlítő fizetéseket kell végrehajtani.
+(6) Annak érdekében, hogy az elosztók az elosztási díjból és a közvilágítási elosztási díjból származó árbevételből az indokolt költségeik arányában részesedjenek, az elosztók közötti kiegyenlítő fizetést (a továbbiakban: kiegyenlítő fizetés) lehetővé tevő, átlátható, a rendszerhasználati díjakhoz kapcsolódó elszámolási rendszert kell működtetni. Az elszámolási rendszer működését az átviteli rendszerirányító által e célból létrehozott elkülönített számla, az elosztók által az elkülönített számlára kötelezően befizetendő pénzeszköz és az átviteli rendszerirányító által az elkülönített számláról az elosztók részére kötelezően kifizetendő pénzeszköz biztosítja.
 
 (7) A rendszerhasználati díjak megállapítása során figyelembe kell venni az energiahatékonysággal kapcsolatos szempontokat is, ennek keretében a fogyasztásbefolyásolás és a kereslet oldali válaszintézkedések, valamint az elosztott termelés és egyéb energiahatékonysági intézkedések útján elért költségmegtakarítást, beleértve az átvitel, az elosztás és a hálózati beruházások költségének csökkentésén, valamint a hálózat optimálisabb működésén keresztül elért megtakarításokat is.
 
@@ -2692,7 +2692,7 @@ a honlapján közzéteszi.
 
 (5) A rendszerhasználati díjak mértékét a Hivatal elnöke – figyelemmel a (2) bekezdés szerinti rendeletre és módszertani útmutatókra – rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
-(6) A 142. § (6) bekezdése szerinti kiegyenlítő fizetések mértékét a Hivatal elnöke a rendszerhasználati díjakat megállapító rendeletében – a rendszerhasználati díjakkal egyidejűleg – állapítja meg.
+(6) A kiegyenlítő fizetés végrehajtása érdekében a Hivatal elnöke a kiegyenlítő fizetések mértékét és formáját, továbbá a kiegyenlítő fizetés elszámolási szabályait rendeletben állapítja meg.
 
 (7) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
 
@@ -2702,7 +2702,7 @@ a honlapján közzéteszi.
 
 144. § (1) A Hivatal 143. § (5) bekezdés szerinti rendeletében rögzített, éves ármegállapítás alapján keletkező, az átviteli rendszerirányítónak járó, a következő évek díjaiban elismerendő különbözeteket – az Szt. általános szabályaitól eltérően – az átviteli rendszerirányító köteles az éves beszámolójának mérlegében aktív időbeli elhatárolásként szerepeltetni. Köteles továbbá az átviteli rendszerirányító az éves beszámolójának mérlegében az átviteli rendszerirányítótól a következő évek díjaiban elvonandó különbözeteket a határkeresztező aukcióból származó tárgyévi bevételeivel együtt passzív időbeli elhatárolásként szerepeltetni. Az ebben a bekezdésben foglaltak alapján elkészített beszámoló a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 1. § (5) bekezdése alkalmazásában az Szt. rendelkezéseire figyelemmel megállapítottnak, azokkal összhangban állónak minősül.
 
-(2) Az átviteli rendszerirányító átviteli díjból származó bevételének – a 142. § (6) bekezdés szerinti kiegyenlítő fizetések végrehajtása érdekében – az elosztók között megosztott, 143. § (6) bekezdés szerinti rendeletben foglalt része árengedménynek minősül. A megosztott részre az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdésében és 77. § (3) bekezdésében meghatározottakat kell alkalmazni.
+(2) A kiegyenlítő fizetés nem minősül az átviteli rendszerirányító bevételének, és az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 71. § (1) bekezdés c) pontja szerint nem tartozik bele az általános forgalmi adó alapjába, az átviteli rendszerirányító azt más célra nem fordíthatja és köteles azt egyéb pénzeszközeitől elkülönítetten kezelni. Az átviteli rendszerirányító köteles a kiegyenlítő fizetés végrehajtása érdekében létrehozott elkülönített számlán kezelt pénzeszközöket és azok pénzkezelési költségeivel csökkentett nettó hozamát kötelezettségként kimutatni.
 
 (3) A rendszerszintű szolgáltatás keretében az átviteli rendszerirányító által lekötött kapacitások, valamint a rendszerszintű szolgáltatás szempontjából annak elválaszthatatlan részét képező, igénybevett villamos energia számviteli szempontból a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Helyi adó tv.) 52. § 40. pontja szerinti közvetített szolgáltatásnak minősül.
 
@@ -2804,9 +2804,9 @@ finanszírozásához szükséges pénzügyi forrásokat.
 
 villamos energia képezi.
 
-(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0,05 Ft/kWh.
+(2) A 147. § (1) bekezdés a) pontja szerinti támogatás mértéke 0 Ft/kWh.
 
-(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,09 Ft/kWh.
+(3) A 147. § (1) bekezdés b) pontja szerinti támogatás mértéke 0,08 Ft/kWh.
 
 (4) A 147. § (1) bekezdés c) pontja szerinti támogatás mértéke 0,81 Ft/kWh.
 
@@ -3271,7 +3271,7 @@ rendeletben állapítsa meg.
 
 - 1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a rendszerhasználati díjak mértékét,
 - 2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
-- 3. az elosztók közötti kiegyenlítő fizetések mértékét,
+- 3. a kiegyenlítő fizetés végrehajtása érdekében a kiegyenlítő befizetés, valamint a kiegyenlítő kifizetés mértékét és formáját, továbbá a kiegyenlítő fizetés elszámolási szabályait,
 - 4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket,
 - 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint a jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
 - 6. a kötelező átvételi jogosultságok, valamint a pályázati eljárás alá nem tartozó, új létesítésű termelőegységekhez kapcsolódó prémium típusú támogatások esetében

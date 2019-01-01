@@ -1107,7 +1107,7 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 (2) A nyugdíjpénztár pénzügyi tervének a 34. § és 35. §-ban foglaltakon túlmenően tartalmaznia kell a pénztár befektetéseire vonatkozó rövid és hosszú távú hozamelvárásokat.
 
-(3) Amennyiben a pénztártag az (1) bekezdés b) pontja alatti tagi kölcsönt az alapszabályban meghatározott feltételek szerint, a pénztár erre vonatkozó felszólítása ellenére sem fizeti vissza, a hátralék összegét, valamint a pénztár költségeit a tag egyéni nyugdíjszámlájával szemben – legkésőbb a kölcsön lejáratától számított 180 napon belül – érvényesítheti. A hátralék összege a tag jövedelme, nem minősül pénztári szolgáltatásnak, és a tag olyan adóköteles jövedelme, amely után a pénztár az egyéni nyugdíjszámla megterhelésének időpontjával egyidejűleg kiadott igazolás alapján az Szja tv. szerint adóelőleg fizetési kötelezettség, valamint az Eho. tv. szerint százalékos egészségügyi hozzájárulás fizetési kötelezettség is terheli.
+(3) Amennyiben a pénztártag az (1) bekezdés b) pontja alatti tagi kölcsönt az alapszabályban meghatározott feltételek szerint, a pénztár erre vonatkozó felszólítása ellenére sem fizeti vissza, a hátralék összegét, valamint a pénztár költségeit a tag egyéni nyugdíjszámlájával szemben – legkésőbb a kölcsön lejáratától számított 180 napon belül – érvényesítheti. A hátralék összege a tag jövedelme, nem minősül pénztári szolgáltatásnak, és a tag olyan adóköteles jövedelme, amely után a pénztár az egyéni nyugdíjszámla megterhelésének időpontjával egyidejűleg kiadott igazolás alapján az Szja tv. szerint adóelőleg fizetési kötelezettség terheli.
 
 47. § (1) A pénztártag az egyéni nyugdíjszámláján nyilvántartott összeghez a várakozási idő letelte, a nyugdíjszolgáltatáshoz a nyugdíjkorhatár elérése után juthat hozzá.
 
@@ -1340,7 +1340,7 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 - c) az 50/B. § (1) bekezdésének d) pontjában meghatározott ellátások közül
   - ca) a táppénz, baleseti táppénz, a baleseti járadék valamint a megváltozott munkaképességű személyek ellátásai kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
   - cb) a bányász dolgozók egészségkárosodási járadéka, valamint a bányászok egészségkárosodási járadéka összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
-  - cc) a rokkantsági járadék valamint az ápolási díj összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
+  - cc) a rokkantsági járadék valamint a gyermekek otthongondozási díja, az ápolási díj összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
 - d) az 50/B. § (1) bekezdésének e) pontjában meghatározott ellátások közül a temetés igazolt költségeinek támogatása;
 - e)
 - f) az 50/B. § (1) bekezdésének g) pontjában meghatározott ellátás;

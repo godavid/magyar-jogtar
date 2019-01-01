@@ -17,7 +17,7 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 - 1. munkaerőpiactól tartósan távollévő személy:
   - a) a pályakezdő fiatal,
-  - b) az a személy, aki a gyermekgondozást segítő ellátás (a továbbiakban: gyes), a gyermekgondozási díj (a továbbiakban: gyed), a gyermeknevelési támogatás (a továbbiakban: gyet), valamint az ápolási díj folyósításának megszűnését követő egy éven (365 napon) belül kíván foglalkoztatásra irányuló jogviszonyt létesíteni, vagy aki a gyermek fél éves korának betöltését követően, e gyermek után igénybe vett gyes folyósítása mellett kíván munkát vállalni, feltéve, hogy foglalkoztatásra irányuló jogviszonyban nem áll,
+  - b) az a személy, aki a gyermekgondozást segítő ellátás (a továbbiakban: gyes), a gyermekgondozási díj (a továbbiakban: gyed), a gyermeknevelési támogatás (a továbbiakban: gyet), valamint a gyermekek otthongondozási díja vagy az ápolási díj folyósításának megszűnését követő egy éven (365 napon) belül kíván foglalkoztatásra irányuló jogviszonyt létesíteni, vagy aki a gyermek fél éves korának betöltését követően, e gyermek után igénybe vett gyes folyósítása mellett kíván munkát vállalni, feltéve, hogy foglalkoztatásra irányuló jogviszonyban nem áll,
   - c) a tartósan álláskereső;
   - d) a foglalkoztatást helyettesítő támogatásra jogosult álláskereső;
 - 2. pályakezdő fiatal: a huszonötödik életévét – felsőfokú végzettségű személy esetén a harmincadik életévét – be nem töltött, foglalkoztatásra irányuló jogviszony létesítéséhez szükséges feltételekkel és érvényes START- kártyával rendelkező személy;
@@ -76,41 +76,11 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 III. fejezet
 
-8/A. § (1) A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 1. § (3) bekezdésében felsorolt közfoglalkoztatót a közfoglalkoztatási jogviszonyban történő foglalkoztatás esetére az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) szerinti szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg. A részkedvezmény egyenlő a közfoglalkoztatott természetes személyt az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a közfoglalkoztatottat terhelő közterhekkel és más levonásokkal nem csökkentett közfoglalkoztatási bér, de legfeljebb a közfoglalkoztatási garantált bér 130 százaléka után az Eat. 459. § (1) bekezdése szerinti adó mértékének 50 százalékával megállapított összeggel.
-
-(2) Az (1) bekezdésben meghatározott kedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után, egyidejűleg nem vehető igénybe. Az (1) bekezdésben meghatározott szerv által történő foglalkoztatás esetén a foglalkoztató kizárólag az e §-ban szabályozott adókedvezményt érvényesítheti.
-
-(3) A kedvezmény jogosulatlan érvényesítése esetén a szociális hozzájárulási adó megállapítására, befizetésére és bevallására, a mulasztási bírság, pótlék megállapítására az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény alapján kerül sor.
+8/A. §
 
 A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
-8/B. § (1) A munkaadót a (2)–(6) bekezdésben meghatározottak szerint szociális hozzájárulási adóból igénybe vehető részkedvezmény illeti meg, ha a gyermekgondozási szabadságról [Mt. 128. §] visszatérő munkavállaló munkakörét – feltéve, hogy e munkavállaló annak időtartama alatt csecsemőgondozási díjban, gyes-ben vagy gyermekgondozási díjban részesült – közvetlenül a visszatérését követően
-
-a) a gyermekgondozási szabadságról visszatérő munkavállaló és emellett
-
-b) az a) pontban meghatározott munkavállaló gyermekgondozási szabadságának
-
-ba) időtartama alatt e munkavállaló munkakörének ellátására létesített munkaviszonyban foglalkoztatott munkavállaló, vagy
-
-bb) lejártát követően vele azonos vagy hasonló munkakör ellátására létesített munkaviszonyban foglalkoztatott munkavállaló
-
-heti 20–20 órás részmunkaidős munkaviszony keretében látják el.
-
-(2) A részkedvezmény egyenlő az (1) bekezdésben meghatározott két természetes személyt (munkavállalót) az adómegállapítási időszakra megillető, az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabérnek, de legfeljebb a minimálbér kétszeresének hét százalékával. (3) Ugyanabban a munkakörben foglalkoztatott munkavállalók után részkedvezmény csak abban az esetben jár, ha az (1) bekezdésben meghatározott feltételek a gyermekgondozási szabadságról visszatérő munkavállaló munkába állását követően legalább 1 évig fennállnak. A kedvezmény az (1)–(4) bekezdésében meghatározott feltételek fennállása alatt, legfeljebb azonban 3 évig jár.
-
-(3) Az adókedvezmény a munkaadót csak abban az esetben illeti meg, ha a létszámát a részmunkaidős foglalkoztatás kezdetét megelőző hónap átlagos statisztikai állományi létszámához képest növeli, és azt a részmunkaidős foglalkoztatás időtartama alatt nem csökkenti.
-
-(4) Nem minősül az állományi létszám csökkentésének, ha a létszám olyan munkavállalóval csökken, aki
-
-a) a statisztikai előírások szerint nem tartozik az átlagos statisztikai állományi létszámba, vagy
-
-b) munkaviszonyát felmondással vagy azonnali hatályú felmondással szüntette meg.
-
-(5) Ez a részkedvezmény és egyéb, törvény alapján járó foglalkoztatási célú adókedvezmény ugyanazon személy után egyidejűleg nem vehető igénybe.
-
-(6) A részkedvezmény jogosulatlan érvényesítése esetén azaz adó, befizetésére és bevallására, a bírság és pótlék megállapítására az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szabályai alapján kerül sor.
-
-(7) A részkedvezmény megtérítésére a 4/A. § (4) bekezdésében foglaltakat megfelelően alkalmazni kell.
+8/B. §
 
 III/A. fejezet
 
@@ -210,32 +180,9 @@ ad ki.
 
 ### III/B. Fejezet — A megváltozott munkaképességű személyek foglalkoztatása
 
-16/A. § (1) Rehabilitációs kártyára az a megváltozott munkaképességű személy jogosult, aki a rehabilitációs hatóság által végzett hatályos komplex minősítés szerint a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 3. § (2) bekezdés a) pontjában, vagy b) pont ba) vagy bb) alpontjában foglalt minősítési kategóriába tartozik.
+16/A. §
 
-(2) Rehabilitációs kártyára az a személy is jogosult, aki 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban vagy rendszeres szociális járadékban részesült.
-
-(3) A rehabilitációs kártyára való jogosultság megszűnik, ha a rehabilitációs hatóság megállapítja, hogy az (1) bekezdés szerinti feltétel nem teljesül.
-
-(4) A jogosult kérelmére a rehabilitációs hatóság gondoskodik a Rehabilitációs kártya igénylésével kapcsolatos eljárás megindításáról, ennek keretében adatot szolgáltat az állami adóhatóság részére a rehabilitációs kártyára való jogosultság fennállásáról.
-
-(5) A jogosult közli a rehabilitációs hatósággal az adóazonosító jelét, melyet a rehabilitációs hatóság kezelhet a Rehabilitációs kártyára való jogosultság fennállásával és megszűnésével kapcsolatos, az állami adóhatóság felé történő adatszolgáltatás céljából.
-
-(6) A Rehabilitációs kártya érvényességének
-
-- a) kezdő időpontja az a nap, amikor az állami adóhatóság a kártyát kiállította,
-- b) záró időpontja a kártya visszavonásának napja.
-
-(7) A rehabilitációs hatóság a Rehabilitációs kártyára való jogosultság megszűnése esetén gondoskodik a Rehabilitációs kártya visszavonásával kapcsolatos eljárás megindításáról, ennek keretében adatot szolgáltat az állami adóhatóság részére a jogosultság megszűnéséről, valamint a Rehabilitációs kártyát letétbe helyező munkaadó nevéről, adószámáról, székhelyéről, telephelyéről.
-
-(8) Az állami adóhatóság a Rehabilitációs kártyára való jogosultság megszűnése esetén a kártyát visszavonja. A Rehabilitációs kártyával rendelkező személy a visszavont kártyát az állami adóhatóságnak visszaszolgáltatja.
-
-(9) A Rehabilitációs kártyával kapcsolatos eljárások során az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit e törvény rendelkezései figyelembevételével kell alkalmazni.
-
-16/B. § (1) A munkaadó az őt az érvényes Rehabilitációs kártyával rendelkező megváltozott munkaképességű személlyel fennálló adófizetési kötelezettséget eredményező munkaviszonyra tekintettel terhelő számított adóból adókedvezményt vehet igénybe. A kedvezmény az adó alapjának megállapításánál figyelembe vett, a munkavállalót terhelő közterhekkel és más levonásokkal nem csökkentett (bruttó) munkabér, de legfeljebb a minimálbér kétszeresének az Eat. 459. § (1) bekezdésében meghatározott adómérték szerinti része.
-
-(2) Az (1) bekezdés szerinti kedvezményre egy megváltozott munkaképességű személy után egyszerre csak egy munkaadó jogosult, és csak arra az időszakra, amelyben a Rehabilitációs kártyát letétben tartotta.
-
-(3) Ha az állami adóhatóság a Rehabilitációs kártyát visszavonja, erről értesíti a Rehabilitációs kártyát letétben tartó munkaadót. A munkaadó az értesítés átvételét követő naptól nem jogosult az (1) bekezdésben meghatározott kedvezményre.
+16/B. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -260,11 +207,11 @@ ad ki.
 
 ### Átmeneti rendelkezések
 
-17/A. § (1) A 8. §-ban meghatározott foglalkoztatási kedvezmény igénybevételéhez a munkaügyi központtal 2011. január 1-jét megelőzően megállapodást kötött munkaadó a megállapodás érvényességi idejének lejártáig jogosult a járulékkedvezmény igénybevételére e törvény 2010. december 31-én hatályos rendelkezései szerint.
+17/A. § (1)
 
 (2) A 7. §-ban meghatározott foglalkoztatási kedvezmény igénybevételéhez e törvény 2010. december 31-én hatályos rendelkezései szerint kell eljárni, ha a START EXTRA kártya kiváltásra jogosult személy a kártya iránti igényét 2010. december 31-éig benyújtja az állami adóhatósághoz.
 
-(3) A 8/B. §-ban meghatározott járulékkedvezmény a 2010. december 31-ét követően gyermekgondozási szabadságról visszatérő munkavállalók esetén alkalmazható.
+(3)
 
 (4) Ha a Kttv. 1. § a)–d) pontja szerinti szerv az ösztöndíjas foglalkoztatottal 2012. július 1-jét megelőzően létesített ösztöndíjas foglalkoztatatási jogviszonyt, az ösztöndíjas foglalkoztatási jogviszonyra e törvény 2012. június 30-án hatályos, az ösztöndíjas foglalkoztatásra vonatkozó rendelkezéseit kell a jogviszony fennállásáig alkalmazni.
 

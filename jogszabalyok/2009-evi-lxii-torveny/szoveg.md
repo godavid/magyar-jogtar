@@ -661,7 +661,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 
 (2) Az (1) bekezdésben meghatározottak szerinti összekapcsolás útján létrejött adatállomány más célra nem használható fel és azt az eljárási feladatok elvégzése után 90 nappal törölni kell.
 
-49. § (1) A biztosító a szerződés létrejöttétől, illetve – a 21. § (4) bekezdésében meghatározott eset kivételével – megszűnésétől, továbbá a biztosítást igazoló okirat adataiban bekövetkező egyéb – a kötvénynyilvántartás adattartalmát képező – változás időpontjától számított 15 napon belül köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni – a 46. § (2) bekezdésében megjelölt adatok feltüntetésével – a biztosítási szerződés megkötéséről, illetve megszűnéséről, valamint az adatokban bekövetkező egyéb változásokról.
+49. § (1) A biztosító a szerződés létrejöttétől, illetve – a 21. § (4) bekezdésében meghatározott eset kivételével – megszűnésétől – érdekmúlással történő megszűnés esetén a biztosító tudomásszerzésétől –, továbbá a biztosítást igazoló okirat adataiban bekövetkező egyéb – a kötvénynyilvántartás adattartalmát képező – változás időpontjától számított 15 napon belül köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni – a 46. § (2) bekezdésében megjelölt adatok feltüntetésével – a biztosítási szerződés megkötéséről, illetve megszűnéséről, valamint az adatokban bekövetkező egyéb változásokról.
 
 (2) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén az új szerződés létrejöttéről szóló – (1) bekezdésben meghatározott – értesítés a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítést pótolja, amennyiben a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítés a kötvénynyilvántartó szervhez még nem érkezett meg.
 
@@ -728,7 +728,7 @@ részére.
 
 (11) A (9) bekezdésben meghatározott adatszolgáltatás, továbbá ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.
 
-52. § (1) A biztosító a szerződés megkötését és megszűnését, a határozatlan tartamú szerződés megújítását (biztosítási időszakok kezdő napját), továbbá a szüneteléssel, illetve a káreseménnyel kapcsolatos adatok keletkezését követő 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) és (4a) bekezdésében megjelölt adatokról.
+52. § (1) A biztosító a szerződés megkötését és megszűnését – érdekmúlással történő megszűnés esetén a biztosító tudomásszerzését –, a határozatlan tartamú szerződés megújítását (biztosítási időszakok kezdő napját), továbbá a szüneteléssel, illetve a káreseménnyel kapcsolatos adatok keletkezését követő 15 napon belül köteles a kárnyilvántartó szervet informatikai rendszerén keresztül értesíteni az 51. § (4) és (4a) bekezdésében megjelölt adatokról.
 
 (1a) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén az új szerződés létrejöttéről szóló – (1) bekezdésben meghatározott – értesítés a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítést pótolja, amennyiben az érintett szerződés megszűnésére vonatkozó értesítés a kárnyilvántartó szervhez még nem érkezett meg.
 

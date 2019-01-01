@@ -19,7 +19,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 4. közlekedési hatósági és rendészeti feladatokat lát el,
 - 5. ellátja a közterület rendjének fenntartásával kapcsolatos rendészeti feladatokat,
 - 6. gondoskodik a büntetőeljárással összefüggésben a jogszabályban meghatározott személyi kört érintő személyi védelmi feladatok (a továbbiakban: személyi védelem) ellátásáról, továbbá a büntetőeljárásban részt vevők Védelmi Programjának (a továbbiakban: Védelmi Program) a végrehajtásáról,
-- 6a. védi a jogszabályban meghatározott, Magyarország szempontjából különösen fontos személyek (a továbbiakban: védett személy) életét, testi épségét; őrzi a jogszabályban meghatározott létesítményeket és értékeket (a továbbiakban együtt: személybiztosítási és létesítményvédelmi feladatok),
+- 6a. védi a jogszabályban meghatározott, Magyarország szempontjából különösen fontos személyek (a továbbiakban: védett személy) életét, testi épségét; őrzi a jogszabályban meghatározott létesítményeket és értékeket (a továbbiakban együtt: személyvédelmi és létesítménybiztosítási feladatok),
 - 7. engedélyezi és felügyeli a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységet,
 - 7a. engedélyezi – nemzetközi megállapodás eltérő rendelkezése hiányában – a szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitelét és az együttműködő, külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalát,
 - 8. büntetés-végrehajtási feladatokat lát el,
@@ -199,9 +199,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelentkezőknél, valamint a hivatásos állomány tagjánál a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
   - ba) a közszolgálati tisztviselőkről szóló törvény, valamint az állami tisztviselőkről szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, valamint állami szolgálati jogviszonyban álló állami tisztviselők és állami ügykezelők,
-  - bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
-  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, közalkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai,
-  - bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai, továbbá
+  - bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai – ideértve a vezényléssel az ezen rendvédelmi feladatokat ellátó szerveken kívül szolgálatot teljesítő hivatásos állományt is –, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Terrorelhárítási Információs és Bűnügyi Elemző Központhoz vezényelt tagjai,
+  - bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, közalkalmazotti, továbbá az igazságügyi szakértői intézmény igazságügyi alkalmazotti jogviszonyban álló tagjai, valamint a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet és az általános rendőrségi feladatok ellátására létrehozott szerv munkavállalói,
+  - bd) a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok, továbbá a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai,
   - be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek (a ba)–bd) alpontban meghatározottak a továbbiakban együtt: védett állomány) megbízhatósági vizsgálatát,
 - c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
 
@@ -213,6 +213,8 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - d) egyedi állami támogatásról való döntésre irányuló eljárás lefolytatása során, vagy
 - e) állami támogatások felhasználásának vizsgálata vagy a felhasználással való elszámoltatás során,
 - f) személyazonosító igazolvány, lakcímet igazoló hatósági igazolvány, vezetői engedély, útlevél, magyar igazolvány, magyar hozzátartozói igazolvány, forgalmi engedély, gépjármű törzskönyv, egyéni vállalkozói igazolvány, hatósági erkölcsi bizonyítvány kiállításával összefüggő ügyekben.
+
+(1b) Az (1) bekezdés b) pont bc) alpontja alkalmazásában a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet munkavállalójának kell tekinteni annak a kizárólagos állami tulajdonban lévő gazdasági társaságnak a munkavállalóját is, amely gazdasági társaság tekintetében a tulajdonosi jogokat a hivatásos katasztrófavédelmi szerv vagy a büntetés-végrehajtási szervezet gyakorolja.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
@@ -231,7 +233,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 ### Megbízhatósági vizsgálat
 
-7/A. § (1) A megbízhatósági vizsgálat célja annak megállapítása, hogy az azzal érintett eleget tesz-e a jogszabályban előírt hivatali kötelezettségének. Ennek megállapítása érdekében a megbízhatósági vizsgálatot végző szerv a munkakör ellátása során a valóságban is előforduló vagy feltételezhető élethelyzeteket hoz mesterségesen létre. A megbízhatósági vizsgálat során feltárt jogsértés alapján fegyelmi vagy szabálysértési eljárás nem indítható.
+7/A. § (1) A megbízhatósági vizsgálat célja annak megállapítása, hogy az azzal érintett eleget tesz-e a jogszabályban előírt hivatali, illetve jogszabályban, kollektív szerződésben, üzemi megállapodásban, valamint munkaszerződésben előírt munkaköri kötelezettségének. Ennek megállapítása érdekében a megbízhatósági vizsgálatot végző szerv a munkakör ellátása során a valóságban is előforduló vagy feltételezhető élethelyzeteket hoz mesterségesen létre. A megbízhatósági vizsgálat során feltárt jogsértés alapján fegyelmi vagy szabálysértési eljárás nem indítható.
 
 (2) A megbízhatósági vizsgálatot – a szükségességének indokolásával – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője a védett szerv tagjával, vagy a védett szerv valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagjával szemben, határozattal rendeli el. A megbízhatósági vizsgálat elrendeléséről és befejezéséről – az arra vonatkozó határozat, valamint elrendelés esetén a részletes terv, befejezés esetén az összesítő jelentés megküldésével – az ügyészt haladéktalanul tájékoztatni kell. A határozat és a megbízhatósági vizsgálat végrehajtásáról szóló részletes terv alapján az ügyész a megbízhatósági vizsgálat elrendelését két munkanapon belül jóváhagyja, vagy a jóváhagyást megtagadja.
 
@@ -272,9 +274,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 7/D. § Nem büntethető a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv 7/B. § (2) bekezdése szerint eljáró tagja
 
-- a) a megbízhatósági vizsgálatra vonatkozó részletes tervben rögzített bűncselekmény vagy szabálysértés miatt, ha az elkövetés bűnmegelőzési, bűnfelderítési érdeket szolgált,
-- b) a biztonságának biztosítása és lelepleződésének megakadályozása érdekében elkövetett bűncselekmény vagy szabálysértés miatt, ha a biztonságának vagy lelepleződésének megakadályozásával kapcsolatos érdek jelentősebb, mint a felelősségre vonásához fűződő érdek, illetve
-- c) olyan bűncselekmény vagy szabálysértés miatt, amely más bűncselekmény elkövetésének megelőzése vagy megszakítása érdekében szükséges, és a bűncselekmény megelőzéséhez vagy megszakításához fűződő érdek jelentősebb, mint a felelősségre vonáshoz fűződő érdek.
+- a) a megbízhatósági vizsgálatra vonatkozó részletes tervben rögzített bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, ha az elkövetés bűnmegelőzési, bűnfelderítési érdeket szolgált,
+- b) a biztonságának biztosítása és lelepleződésének megakadályozása érdekében elkövetett bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, ha a biztonságának vagy lelepleződésének megakadályozásával kapcsolatos érdek jelentősebb, mint a felelősségre vonásához fűződő érdek, illetve
+- c) olyan bűncselekmény, szabálysértés vagy közigazgatási bírsággal sújtandó szabályszegés miatt, amely más bűncselekmény elkövetésének megelőzése vagy megszakítása érdekében szükséges, és a bűncselekmény megelőzéséhez vagy megszakításához fűződő érdek jelentősebb, mint a felelősségre vonáshoz fűződő érdek.
 
 ### A terrorizmust elhárító szerv
 
@@ -289,10 +291,14 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
   - bb) a jogszabályban meghatározottak szerint kizárólagos hatáskörrel – a Nemzeti Adó- és Vámhivatal esetében annak felkérésére – egyes veszélyes személyek elfogását,
 - c) jogszabályban meghatározottak szerint egyes védett személyek tekintetében személyvédelmi feladatokat lát el és egyes kijelölt létesítmények tekintetében létesítményvédelmet gyakorol,
 - d) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok, valamint terrorista és túszejtő akciók esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában, e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival, valamint
-- e) megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat.
-- f) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntésében meghatározott időtartamra – a hatályos nemzetközi normák betartásával – ellátja a kijelölt
-  - fa) magyar külképviseletek és azok diplomáciai személyzete, valamint
-  - fb) a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek (intézmények) és létesítmények személy- és létesítményvédelmét, e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
+- e) megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a d) pontban meghatározott feladat ellátásához szükséges, a külföldre vonatkozó, valamint külföldi eredetű információkat,
+- f) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntésében meghatározott időtartamra – a nemzetközi normák betartásával – ellátja a kijelölt
+  - fa) magyar külképviseletek biztosítását és azok diplomáciai személyzete védelmét, valamint
+  - fb) a kormányzati tevékenység szempontjából fontos, külföldön lévő magyar szervek, intézmények és létesítmények biztosítását,
+
+e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve a nemzetközi szervezetekkel, valamint a külföldi állam hatóságaival.
+
+- g) a rendészetért felelős miniszter döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a külföldön megrendezésre kerülő, kiemelt terrorfenyegetettségűnek minősíthető nemzetközi sportrendezvényeken résztvevő magyar sportolók és sportszakemberek személyvédelmében, valamint az általuk külföldön a sportrendezvényeken való részvétel ideje alatt használt létesítmények védelmében és e célból együttműködik az Európai Unió tagállamaival és szerveivel, az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
 
 (2) A terrorizmust elhárító szerv nyomozó hatósági jogkört nem gyakorol.
 
@@ -319,7 +325,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 7/F. § (1) Az általános rendőri feladatok ellátására létrehozott szerv nyilvántartásaiból a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó és a terrorizmust elhárító szerv – feladatainak teljesítéséhez – a VIII. Fejezet szerint kérhet adatot. Az adattovábbítás jogszerűségéért és pontosságáért az a szerv felel, amelyik az adatot továbbította.
 
-(2) Ha az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatellátása során hatáskörébe nem tartozó bűncselekményre utaló, vagy személyi védelem ellátásával, Védelmi Program előkészítésével és végrehajtásával, illetve személybiztosítási és létesítményvédelmi feladattal összefüggő információ birtokába jut, azt haladéktalanul köteles átadni a hatáskörrel rendelkező szervnek. A terrorizmust elhárító szerv nem köteles az információt átadni, ha azzal veszélyeztetné a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
+(2) Ha az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv feladatellátása során hatáskörébe nem tartozó bűncselekményre utaló, vagy személyi védelem ellátásával, Védelmi Program előkészítésével és végrehajtásával, illetve személyvédelmi és létesítménybiztosítási feladattal összefüggő információ birtokába jut, azt haladéktalanul köteles átadni a hatáskörrel rendelkező szervnek. A terrorizmust elhárító szerv nem köteles az információt átadni, ha azzal veszélyeztetné a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
 
 (3) A terrorizmust elhárító szerv részére a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátásával összefüggésben a külföldi titkosszolgálatok által továbbított adatok, információk kizárólag azon külföldi titkosszolgálat előzetes hozzájárulásával továbbíthatók más adatkezelő részére, amelytől az információ származik.
 
@@ -429,7 +435,7 @@ követelményei
 
 (2) A rendőri intézkedés során a kényszerítő eszköz alkalmazása esetén lehetőleg kerülni kell a sérülés okozását, az emberi élet kioltását. Az intézkedés folytán megsérült személy részére — amint ez lehetséges — segítséget kell nyújtani, szükség esetén a rendőr gondoskodik arról, hogy a sérültet orvos elláthassa, kórházi elhelyezése esetén a hozzátartozó vagy más, a sérülttel kapcsolatban álló személy erről értesüljön.
 
-18. § (1) A fogvatartott részére biztosítani kell azt a lehetőséget, hogy egy hozzátartozóját vagy más személyt értesítsen, feltéve, hogy ez nem veszélyezteti az intézkedés célját. Ha a fogvatartott nincs abban a helyzetben, hogy e jogával élhessen, az értesítési kötelezettség a rendőrséget terheli. Ha a fogvatartott fiatalkorú vagy gondnokság alá helyezett, haladéktalanul értesíteni kell törvényes képviselőjét vagy gondnokát.
+18. § (1) A fogvatartott részére biztosítani kell azt a lehetőséget, hogy egy hozzátartozója vagy más személy értesítését kérje, ennek érdekében a fogvatartottat nyilatkoztatni kell. A fogvatartott által értesítendőnek megjelölt személy értesítésének kötelezettsége a rendőrséget terheli, az értesítést a rendőrség indokolatlan késedelem nélkül teljesíti. Ha az értesítés ténye az eljárás során keletkezett adatok alapján veszélyezteti az intézkedés célját, akkor az értesítést el kell halasztani és akkor kell megtenni, amikor a veszélyeztetés már nem áll fenn. Ha az értesítés ténye nem, de a fogvatartott által megjelölt személy értesítése veszélyezteti az intézkedés célját, akkor őt fel kell hívni arra, hogy más személyt jelöljön meg. Ha a fogvatartott olyan más személyt jelölt meg, akivel kapcsolatban az értesítésnek nincs akadálya, a rendőrség az utóbb megjelölt személyt értesíti. Ha a fogvatartott kiskorú vagy gondnokság alá helyezett, haladéktalanul értesíteni kell törvényes képviselőjét. Ha a fogvatartott esetében a büntetőeljárás vagy a szabálysértési eljárás szabályai alkalmazásának van helye, az ezen eljárásokra vonatkozó különös rendelkezések szerint kell eljárni.
 
 (2) A rendőrség gondoskodik a fogvatartott elhelyezéséről, a fogvatartás miatt bekövetkezhető egészségkárosodás megelőzéséhez szükséges ellátásáról. A sérült, beteg vagy más okból sürgős orvosi ellátásra szoruló fogvatartottat orvosi ellátásban kell részesíteni.
 
@@ -542,6 +548,16 @@ igazolja.
 
 (2) Az (1) bekezdésben meghatározott célból rögzített ujjnyomat-adat – a 29. § (7) bekezdésétől eltérően – kizárólag a VIS rendelet 20. cikke szerinti keresés elvégzéséhez, annak befejezéséig kezelhető, ezt követően haladéktalanul törölni kell.
 
+### Dolog helyszíni elvétele
+
+29/B. § (1) A rendőr feladatának teljesítése során megtalált olyan dolog, amely az általános közigazgatási rendtartásról szóló törvény alapján zár alá vehető, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény, vagy a büntetőeljárásáról szóló törvény alapján bizonyítási eszközként lefoglalható, valamint a támadásra, vagy önveszély okozására alkalmas, illetve a jogosulatlanul birtokolt dolgot a jogosultnak vagy az eljáró hatóságnak történő átadásig, zár alá vétel vagy lefoglalás elrendeléséig, de legfeljebb három munkanapra átvételi elismervény ellenében ideiglenesen elveheti.
+
+(2) Jogszabály eltérő rendelkezése hiányában a dolgot vissza kell adni, ha a dolog helyszíni elvételének időtartama eltelt vagy annak oka megszűnt.
+
+(3) A rendőr felszólíthatja a dolog átadására azt a személyt, akiről megalapozottan feltehető, hogy az (1) bekezdésben meghatározott dolog van a birtokában.
+
+(4) A rendőr kizárólag a dolog helyszíni elvétele érdekében intézkedést nem alkalmazhat.
+
 ### Fokozott ellenőrzés, ruházat, csomag és jármű átvizsgálása
 
 30. § (1) A rendőrség a bűncselekmény elkövetőjének elfogása és előállítása, vagy a közbiztonságot veszélyeztető cselekmény vagy esemény megelőzése, megakadályozása érdekében a rendőri szerv vezetője által meghatározott nyilvános helyen vagy a közterület kijelölt részén az oda belépőket vagy az ott tartózkodókat igazoltathatja.
@@ -552,7 +568,7 @@ igazolja.
 
 (4) A rendőrség a nyilvános forgalom számára nyitva álló helyen őrizetlenül hagyott, a közbiztonságra veszélyt jelentő tárgyat szükség esetén az elvárható gondossággal eltávolíthatja, megsemmisítheti.
 
-31. § (1) Akivel szemben személyi szabadságot korlátozó intézkedést foganatosítanak, annak ruházatát a rendőr a támadásra vagy az önveszély okozására alkalmas tárgy elvétele végett, előzetes figyelmeztetés után átvizsgálhatja.
+31. § (1) Akivel szemben személyi szabadságot korlátozó intézkedést foganatosítanak, annak ruházatát a rendőr a 29/B. § (1) bekezdésében meghatározott dolog elvétele végett, előzetes figyelmeztetés után átvizsgálhatja.
 
 (2) A ruházat átvizsgálását — halaszthatatlan eset kivételével — az intézkedés alá vonttal azonos nemű személy végezheti. Az intézkedés nem történhet szeméremsértő módon.
 
@@ -566,11 +582,11 @@ igazolja.
 
 - a) akit szándékos bűncselekmény elkövetésén tetten értek;
 - b) aki ellen elfogatóparancsot, nemzetközi elfogatóparancsot, illetve európai elfogatóparancsot adtak ki;
-- c) akinek őrizetbe vételét, előzetes letartóztatását rendelték el, vagy akinek ideiglenes kényszergyógykezelését, illetőleg elmeállapotának megfigyelését rendelték el;
-- d) aki az őrizetbe vétel, az előzetes letartóztatás, az ideiglenes kiadatási letartóztatás, a kiadatási letartóztatás, az ideiglenes átadási letartóztatás, az átadási letartóztatás, az ideiglenes végrehajtási letartóztatás, a szabadságvesztés vagy az elzárás végrehajtása során megszökött, vagy a fogvatartás helyéről engedéllyel eltávozva oda nem tért vissza, a lakhelyelhagyási tilalom, a házi őrizet, valamint a távoltartás szabályait megszegte, illetőleg, aki az ideiglenes kényszergyógykezelés, az elmeállapotának megfigyelése, a kényszergyógykezelés vagy a javítóintézeti nevelés alól magát kivonta;
+- c) akinek őrizetét, letartóztatását, előzetes kényszergyógykezelését, illetve elmeállapotának megfigyelését rendelték el;
+- d) aki az őrizet, a letartóztatás, az ideiglenes kiadatási letartóztatás, a kiadatási letartóztatás, az ideiglenes átadási letartóztatás, az átadási letartóztatás, az ideiglenes végrehajtási letartóztatás, a szabadságvesztés vagy az elzárás végrehajtása során megszökött, vagy a fogvatartás helyéről engedéllyel eltávozva oda nem tért vissza, az olyan bűnügyi felügyelet szabályait, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, valamint a távoltartás szabályait megszegte, illetve, aki az előzetes kényszergyógykezelés, az elmeállapotának megfigyelése, a kényszergyógykezelés vagy a javítóintézeti nevelés alól magát kivonta;
 - e) akinek előállítását külön törvényben meghatározott feltételek alapján elrendelik;
 - f) aki az ország területén jogellenesen tartózkodik;
-- g) akinek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 38. § (5) bekezdése alapján büntetés-végrehajtási őrizetbe vétele szükséges.
+- g) akinek a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) 38. § (5) bekezdése alapján büntetés-végrehajtási őrizete szükséges.
 
 (2) A rendőr a hatóság vagy az illetékes szerv elé állíthatja azt,
 
@@ -620,6 +636,8 @@ igazolja.
 (2) A rendőrség a tranzitterületen is jogosult a tranzitterületen tartózkodó személyek személyazonosságát megállapítani, az úti okmányukat ellenőrizni, a tranzitterületre történő be- és kilépés, valamint az ott tartózkodás jogszerűségét ellenőrizni.
 
 (3) A rendőrség a határforgalom ellenőrzése során engedélyezi a határátlépés jogszabályban meghatározott feltételeivel rendelkező személyek határátlépését, illetve megtagadja a határátlépés feltételeivel nem rendelkező személyek határátléptetését.
+
+(4) Az utasadat-információs egységnek az elemző-értékelő tevékenysége alapján az Nbtv. 52/H. § (7) bekezdése szerint feltárt információról szóló tájékoztatása alapján a rendőrség az (1)–(3) bekezdés szerinti intézkedések alá vonhatja azt a személyt, akire a feltárt információ vonatkozik. Az ennek során megállapított adatokról és beszerzett információkról a rendőrség az utasadat-információs egységet kérésére visszatájékoztathatja.
 
 ### Járványügyi intézkedések tömeges bevándorlás okozta válsághelyzetben
 
@@ -703,7 +721,7 @@ nem minősülő egyéb helyen
 - f) az elővezetés végrehajtása érdekében;
 - g) a büntetőeljárásról szóló törvényben meghatározott, a terhelt mozgását nyomon követő technikai eszköz telepítése, ellenőrzése, karbantartása, valamint eltávolítása céljából.
 - h) a szabálysértést felszólítás ellenére folytató személy előállítása céljából;
-- i) személy- és létesítménybiztosítási intézkedés [46. § (1) bekezdés c) pont] végrehajtására;
+- i) személyvédelmi és létesítménybiztosítási intézkedés végrehajtására;
 - j) ha az előállítás a törvényben meghatározott egyéb okból szükséges;
 - k) a Bv. tv.-ben meghatározott, az elítélt mozgását nyomon követő elektronikus távfelügyeleti eszköz telepítése, ellenőrzése, karbantartása, valamint eltávolítása céljából.
 
@@ -715,9 +733,7 @@ nem minősülő egyéb helyen
 
 40. § A rendőr a feladata ellátása során — jogszabály eltérő rendelkezése hiányában — beléphet a magánlakásnak nem minősülő egyéb helyre, és ott az intézmény rendjének lehetőség szerinti tiszteletben tartásával intézkedhet.
 
-### Műszeres ellenőrzés
-
-41. § A rendőrség a büntetőeljárásban vagy körözött személy felkutatásakor az ügyben érintettet, ha előzetesen írásban hozzájárul, illetve gyermekkorú vagy fiatalkorú esetében törvényes képviselőjének írásos hozzájárulásával, műszeres (poligráfos) vizsgálat alkalmazásával is ellenőrizheti. Fiatalkorú gyanúsított esetében a műszeres (poligráfos) vizsgálatot alkalmazni nem lehet.
+#### 41. §
 
 ### Képfelvétel, hangfelvétel, kép- és hangfelvétel
 
@@ -727,7 +743,7 @@ készítése
 
 (2) A rendőrség közterületen, ahol az közbiztonsági, bűnmegelőzési, illetve bűnüldözési célból igazolhatóan szükséges, bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el és felvételt készíthet.
 
-(3) A (2) bekezdés alapján elhelyezésre kerülő képfelvevő szükségességéről, a képfelvevővel megfigyelt közterület kijelöléséről a rendőrség előterjesztésére az illetékes települési önkormányzat dönt. A képfelvevő elhelyezési és üzemeltetési költségeinek biztosítására az önkormányzat és az illetékes rendőrkapitányság az e törvényben meghatározott keretek között megállapodást köthet. A rendőrség a képfelvevők elhelyezésére, a megfigyelt területre vonatkozó adatokat a központi szerv honlapján közzéteszi.
+(3) A (2) bekezdés alapján elhelyezésre kerülő képfelvevő szükségességéről, a képfelvevővel megfigyelt közterület kijelöléséről a rendőrség dönt az illetékes települési önkormányzat véleményének előzetes kikérését követően. A képfelvevő elhelyezési és üzemeltetési költségeinek biztosítására az önkormányzat és az illetékes rendőrkapitányság az e törvényben meghatározott keretek között megállapodást köthet. A rendőrség a képfelvevők elhelyezésére, a megfigyelt területre vonatkozó adatokat a központi szerv honlapján közzéteszi.
 
 (4) A képfelvevő által megfigyelt területre belépő személyek tájékoztatását elősegítő módon figyelemfelhívó jelzést, ismertetést kell elhelyezni a képfelvevők elhelyezéséről, az adatkezelés tényéről.
 
@@ -742,6 +758,10 @@ készítése
 (5d) Ha a fogvatartott korábban öngyilkosságot kísérelt meg, a saját testi épsége elleni önkárosító cselekményt követett el, vagy a fogvatartással összefüggésben észlelt körülmények alapján megalapozottan feltehető, hogy a fogvatartott ilyen cselekményt fog elkövetni, ezért a fogvatartott életének, testi épségének megóvása érdekében viselkedésének folyamatos nyomon követése szükséges, a rendőrség az előállító helyiségben, valamint a rendőrségi fogda zárkájában kép vagy kép és hang továbbítására alkalmas, felvételt nem rögzítő megfigyelési eszközt helyezhet el.
 
 (5e) Az állam működése szempontjából kiemelten fontos, illetve a Kormány által létesítmény és rendezvénybiztosítási intézkedés céljából kijelölt és a rendőrség által védett, továbbá a rendőrség kezelésében lévő létesítmények rendjének és jogszerű működésének védelme, illetve az abban tartózkodók biztonsága érdekében a létesítmény folyosóin, a közös használatú – a megfigyelés elől az emberi méltóság védelme érdekében el nem zárt – helyiségeiben, valamint a létesítmények területét határoló külső falakon és kapuknál a rendőrség képfelvevőt helyezhet el és felvételt készíthet.
+
+(5f) A rendőrség az (1)–(2), valamint (5)–(5a) bekezdés alapján készített felvételt a törvényben előírt tájékoztatási kötelezettségének teljesítése érdekében személyazonosításra alkalmatlanná tett módon abban az esetben használhatja fel, ha az a felvétel készítésének alapjául szolgáló eljárás eredményességét nem sérti.
+
+(5g) A rendőrség a rendőri intézkedéssel, illetve az ellátott szolgálati feladattal összefüggésben az intézkedéssel, illetve a szolgálati feladat ellátásával érintett személyről a törvényben előírt tájékoztatási kötelezettségének teljesítése érdekében – az érintett hozzájárulásával – felvételt készíthet.
 
 (6) A(z)
 
@@ -772,7 +792,7 @@ törölni kell.
 
 42/A. § (1) A 42. § (7) és (8) bekezdésében meghatározott határidőn belül a 42. § (1), (2), (5)–(5c) és (5e) bekezdése szerint rögzített felvételből
 
-- a) – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági, valamint az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátása céljából – a nyomozó hatóság, a szabálysértési hatóság, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság,
+- a) – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági, valamint az egészségügyről szóló 1997. évi CLIV. törvény 94–96. §-ában meghatározott feladatok ellátása céljából – a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, az állami mentőszolgálat, nemzetközi jogsegély keretében külföldi hatóság,
 - b) jogainak gyakorlása érdekében az érintett, valamint
 - c) a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy
 
@@ -786,7 +806,7 @@ igényelhet adatot.
 
 (4) A (3) bekezdés szerinti kérelem benyújtására a felvétel rögzítésétől számított, a 42. § (7) bekezdés a) pontjában meghatározottak szerinti harminc napon, a 42. § (7) bekezdés b) pontjában meghatározottak szerinti öt, illetve a 42. § (7) bekezdés c) pontjában meghatározottak szerinti három munkanapon belül, a jog vagy jogos érdek valószínűsítésével van lehetőség.
 
-(5) Bíróság vagy más hatóság megkeresésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított harminc napon belül nem kerül sor megkeresésre, a rögzített felvételt törölni kell.
+(5) Bíróság vagy más hatóság megkeresésére vagy adatkérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított harminc napon belül nem kerül sor megkeresésre vagy adatkérésre, a rögzített felvételt törölni kell.
 
 ### A helyszín biztosítása
 
@@ -816,11 +836,9 @@ igényelhet adatot.
 
 (3) E § alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
 
-### Személy-
+### Személyvédelmi és létesítménybiztosítási intézkedés
 
-és létesítménybiztosítási intézkedés
-
-46. § (1) A rendőrség, valamint a rendőr a védett személy [1. § (2) bek. g) pont] biztonsága érdekében a 13. és a 30. §-ban meghatározottakon túlmenően
+46. § (1) A rendőrség, valamint a rendőr a védett személy biztonsága érdekében a 13. és a 30. §-ban meghatározottakon túlmenően
 
 - a) útvonalat, közterületet a forgalom elől elzárhat, a forgalmat korlátozhatja,
 - b) nyilvános és közforgalmú intézmények működését korlátozhatja,
@@ -931,7 +949,7 @@ igényelhet adatot.
 
 ### Útzár, megállásra kényszerítés
 
-51. § (1) A rendőrség közút forgalmának korlátozását vagy közút lezárását rendelheti el a bűncselekmény elkövetésével megalapozottan gyanúsítható személy, valamint a bűncselekmény elkövetőjének elfogására és a külön jogszabályban kijelölt létesítmények védelmére, ennek során – a közlekedés biztonságát is figyelembe véve, külön jogszabályban meghatározott feltételekkel – útzárat telepíthet.
+51. § (1) A rendőrség közút forgalmának korlátozását vagy közút lezárását rendelheti el a bűncselekmény elkövetésével megalapozottan gyanúsítható személy, valamint a bűncselekmény elkövetőjének elfogására és a külön jogszabályban kijelölt létesítmények védelmére, továbbá a védett személy útvonalának és programhelyszíneinek biztosítása érdekében, ennek során – a közlekedés biztonságát is figyelembe véve, külön jogszabályban meghatározott feltételekkel – útzárat telepíthet.
 
 (2) Útzár alkalmazása során a rendőrség járművek áthaladását torlaszszerűen vagy más módon lassító, megakadályozó építményt, technikai berendezést vagy ezek hiányában bármilyen eszközt telepíthet, amellyel a rendőri intézkedés foganatosítása elől járművel menekülő személyek feltartóztatása, elfogása elérhető.
 
@@ -1140,7 +1158,7 @@ alkalmazhatja.
 - b) megbízhatósági vizsgálat során,
 - c) törvényben meghatározottak szerint a körözési eljárás során,
 - d) a személyi védelem ellátása, illetve a Védelmi Program előkészítése és végrehajtása során,
-- e) személybiztosítási és létesítményvédelmi feladatai ellátása során,
+- e) személyvédelmi és létesítménybiztosítási feladatai ellátása során,
 - f) az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés keretében,
 - g) bírói engedélyhez kötött leplezett eszközök alkalmazása során igénybe vett technikai eszköz vagy adat elhelyezése, valamint eltávolítása érdekében,
 - h) fedett nyomozó, illetve a valódi céljának leplezésével működő szervezet (a továbbiakban: fedőintézmény) védelme érdekében, valamint
@@ -1167,7 +1185,7 @@ akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, h
 
 (5) A személyi védelem ellátása, illetve a Védelmi Program előkészítése és végrehajtása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a fenyegetett helyzetben lévő személy veszélyeztetettségére vonatkozó, illetve az ellene irányuló személy elleni erőszakos vagy közveszélyt okozó bűncselekmény megelőzését szolgáló, a végrehajtás szempontjából lényeges információ várható.
 
-(6) A személybiztosítási és létesítményvédelmi feladatok ellátása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a védett személy, a kijelölt létesítmény veszélyeztetettségére vonatkozó, valamint az ezek ellen irányuló erőszakos bűncselekmény megelőzését szolgáló információ várható.
+(6) A személyvédelmi és létesítménybiztosítási feladatok ellátása érdekében akkor folytatható titkos információgyűjtés, ha megalapozottan feltehető, hogy attól a védett személy, a kijelölt létesítmény veszélyeztetettségére vonatkozó, valamint az ezek ellen irányuló erőszakos bűncselekmény megelőzését szolgáló információ várható.
 
 (7) Az Európai Unió tagállamával vagy harmadik országgal a bűnüldöző szervek nemzetközi együttműködéséről szóló törvény vagy nemzetközi szerződés alapján folytatott együttműködés érdekében az Európai Unió tagállama vagy harmadik ország megkeresése alapján akkor folytatható titkos információgyűjtés, ha a megkeresésben megjelölt bírói engedélyhez kötött vagy bírói engedélyhez nem kötött eszköz alkalmazását törvény lehetővé teszi.
 
@@ -1203,6 +1221,8 @@ szükségesek.
 - c) személyt, lakást, egyéb helyiséget, bekerített helyet, nyilvános vagy a közönség részére nyitva álló helyet, illetve járművet titokban megfigyelhet, a történtekről információt gyűjthet, valamint az észlelteket technikai eszközzel rögzítheti;
 - d) valamely személyt – ha életének, testi épségének megóvása érdekében szükséges – rendőrrel helyettesítheti; illetve
 - e) elektronikus hírközlési eszközön vagy információs rendszeren folytatott kommunikáció tényének a megállapításához, az elektronikus hírközlési eszköz vagy információs rendszer azonosításához, illetve hollétének megállapításához szükséges adatokat megszerezheti.
+
+(1a) A rendőrség a titkosan együttműködő személy által rendelkezésre bocsátott információkat – hozzájárulásával – műszeres ellenőrzéssel vizsgálhatja. A tizennyolcadik életévét be nem töltött titkosan együttműködő személy által szolgáltatott információ műszeres ellenőrzéssel nem vizsgálható.
 
 (2) A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a megbízhatósági vizsgálat folytatása során a védett állomány tagját foglalkoztató szerv hivatali helyiségében, gépjárművében és a megbízhatósági vizsgálat helyszínén történteket, illetve a mesterséges élethelyzetben résztvevő, valamint a megbízhatósági vizsgálat alá vont személy tevékenységét és előadását titokban technikai eszközzel megfigyelheti és rögzítheti, illetve az ehhez szükséges technikai eszközt a felsorolt helyeken elhelyezheti.
 
@@ -1247,7 +1267,7 @@ szükségesek.
 
 (4) A fedőokiratot meg kell semmisíteni, illetve a közhiteles nyilvántartásokból a fedőadatot törölni kell, ha arra a továbbiakban már nincs szükség.
 
-69. § (1) A rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője az ügyészség jóváhagyásával a 64. § a) és e) pontjában meghatározott célból adatok szolgáltatását igényelheti
+69. § (1) A rendőrség titkos információgyűjtés folytatására feljogosított szervének a vezetője az ügyészség jóváhagyásával a 64. § a), c), e), h) és i) pontjában meghatározott célból adatok szolgáltatását igényelheti
 
 - a) az adóhatóságtól,
 - b) a vámhatóságtól,
@@ -1285,6 +1305,8 @@ szükségesek.
 - e) információs rendszer titkos megfigyelése során információs rendszerben kezelt adatokat titokban megismerhet, az észlelteket technikai eszközzel rögzítheti, illetve az ehhez szükséges elektronikus adatot az információs rendszerben, illetve a szükséges technikai eszközt – a nyilvános vagy a közönség részére nyitva álló hely kivételével – lakásban, egyéb helyiségben, bekerített helyen, illetve – a közösségi közlekedési eszköz kivételével – járműben, továbbá az érintett személy használatában lévő tárgyban elhelyezheti.
 
 72. § (1) Bűncselekmény elkövetésének megelőzése céljából akkor lehet bírói engedélyhez kötött titkos információgyűjtést folytatni, ha megalapozottan feltehető, hogy attól a szervezett bűnözéssel kapcsolatos, illetve szervezett bűnözői csoportok azonosítását lehetővé tevő információk megszerzése várható.
+
+(1a) A védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzése céljából a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve akkor is folytathat bírói engedélyhez kötött titkos információgyűjtést, ha megalapozottan feltehető, hogy attól a védett szerv befolyásmentes működésének megzavarásával, illetve tagjai vagy valamely állománycsoportja szolgálatellátásának befolyásolásával kapcsolatban olyan információ megszerzése várható, amely a későbbiekben megalapozza a büntetőeljárásról szóló törvény szerinti leplezett eszköz alkalmazását is.
 
 (2) A 64. § f) pontjában meghatározott célból bírói engedélyhez kötött eszköz akkor alkalmazható, ha a külföldi hatóság igazolja, hogy a megkeresésben megjelölt bírói engedélyhez kötött eszköz alkalmazása a külföldi hatóság saját államának joga szerint törvényes.
 
@@ -1895,6 +1917,18 @@ részére.
 
 (3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekményre vonatkozó információ feltárása esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
 
+(3b) A rendőrség a 35/A. § (4) bekezdésében meghatározott határellenőrzési tevékenysége során az utasadat-információs egység részére történő továbbítás céljából a következő adatokat kezelheti:
+
+- a) a (2) bekezdésben meghatározott adatok,
+- b) az utas által a személyazonosításra bemutatott okmányban szereplő arckép másolata,
+- c) az utas által bemutatott személyazonosításra alkalmas okmányok száma, érvényességi ideje,
+- d) az utas által bemutatott úti okmány valamennyi oldalának és az ott található teljes adattartalomnak a másolata,
+- e) az útvonalkövetés során feltárt beléptető bélyegzőlenyomatok, vízumok másolata,
+- f) a határforgalom-ellenőrzés során a beutazás okaként, a beutazás fedezeteként bemutatott iratok, meghívólevél, szállásfoglalásra vonatkozó információk másolata,
+- g) a továbbutazásra vonatkozó repülőjegy, beszállókártya, más iratok, valamint a továbbutazást követő szállásfoglalásra vonatkozó iratok másolata.
+
+(3c) A (3b) bekezdésben meghatározott adatokat a rendőrség haladéktalanul, de legkésőbb 24 órán belül továbbítja az utasadat-információs egységnek és az adatokat az utasadat-információs egység részére történő adattovábbítást követő 24 órán belül törli.
+
 (4) A hajó felelős vezetője vagy annak hiányában az úszólétesítmény üzembentartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklete 4.3. pontja szerinti előzetes tájékoztatást ad a rendőrségnek a vízi közlekedésben részt vevő azon utasok (6) bekezdésben meghatározott adatairól, akik csoportosan szándékoznak átlépni Magyarország schengeni külső határait.
 
 (5) A fuvarozók vagy az utazásszervezők – az utasok hozzájárulása alapján – előzetes tájékoztatást adhatnak a rendőrségnek a közúti, vasúti közlekedésben részt vevő azon utasok (6) bekezdésben meghatározott adatairól, akik csoportosan szándékoznak átlépni Magyarország schengeni külső határait.
@@ -1985,7 +2019,7 @@ bírálja el.
 
 (4) Az (1)–(2) bekezdésben meghatározott eljárások tárgyi költségmentesek.
 
-93. § (1) A Testülethez a panaszt az intézkedéstől, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, ettől az időponttól számított húsz napon belül lehet előterjeszteni.
+93. § (1) A Testülethez a panaszt az intézkedéstől, ha pedig a panasz előterjesztője az őt ért jogsérelemről később szerzett tudomást, ettől az időponttól számított harminc napon belül lehet előterjeszteni. A rendőri intézkedéstől számított egy éven túl panasz előterjesztésének nincs helye.
 
 (2) A Testület az alapvető jogot nem sértő, valamint az alapvető jogot csekély mértékben sértő intézkedéssel szemben előterjesztett panaszt az intézkedést foganatosító szerv vezetőjéhez átteszi, illetve ha az áttétel ellen a panaszos panaszában előzetesen tiltakozott, az eljárást megszünteti.
 
@@ -2009,19 +2043,19 @@ bírálja el.
 
 (6) A Testület a panaszt kilencven nap alatt vizsgálja meg, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő. A Testület az állásfoglalását külső befolyástól mentesen alakítja ki. A Testület az állásfoglalását megküldi az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója és a terrorizmust elhárító szerv főigazgatója számára.
 
-(7) Az országos rendőrfőkapitány a panaszról az állásfoglalás kézhezvételét követő harminc napon belül közigazgatási hatósági eljárásban dönt. Ha az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozatban eltér a Testület állásfoglalásától, ezt köteles megindokolni.
+(7) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója a panaszról harmincöt napon belül közigazgatási hatósági eljárásban dönt. Az ügyintézési határidő a Testület állásfoglalásának kézhezvételét követő napon indul. Ha az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozatban eltér a Testület állásfoglalásától, ezt köteles megindokolni.
 
 (8) Az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozatának meghozatalát követően a Testület az állásfoglalását – a személyazonosító adatoktól megfosztva – honlapján közzéteszi, kivéve, ha a közzététel ellen a panaszos panaszában előzetesen tiltakozott.
 
-(9) Az országos rendőrfőkapitány, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója határozata ellen a közigazgatási eljárásban fellebbezésnek helye nincs, az ellen közvetlenül bírósági felülvizsgálatnak van helye.
+(9)
 
 (10) Az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, a terrorizmust elhárító szerv főigazgatója, illetve az intézkedést foganatosító szerv vezetője döntéseinek megküldésével tájékoztatja a Testületet azokban az ügyekben, amelyekben a Testület állásfoglalást alakított ki.
 
 93/B. § (1) Az intézkedést foganatosító szervhez benyújtott panaszt az intézkedést foganatosító szerv vezetője közigazgatási hatósági eljárásban bírálja el.
 
-(2) A panaszt az intézkedést követő harminc napon belül lehet előterjeszteni és a beérkezéstől, illetve az áttételtől számított harminc napon belül kell elbírálni.
+(2) A panaszt az intézkedést követő harminc napon belül lehet előterjeszteni, és a beérkezéstől, illetve az áttételtől számított harmincöt napon belül kell elbírálni.
 
-(3) A fellebbezést az intézkedést foganatosító rendőri szerv vezetője felett irányítási jogkört gyakorló személy bírálja el. Ha a panaszt első fokon az országos rendőrfőkapitány, vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, illetve a terrorizmust elhárító szerv főigazgatója bírálták el, a határozat ellen a közigazgatási eljárásban fellebbezésnek helye nincs, az ellen közvetlenül bírósági felülvizsgálatnak van helye.
+(3) Az intézkedést foganatosító szerv vezetőjének a panasz elbírálása tárgyában hozott határozata ellen fellebbezésnek van helye. A fellebbezést az intézkedést foganatosító rendőri szerv vezetője felett irányítási jogkört gyakorló személy bírálja el. Ha a panaszt első fokon az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója, vagy a terrorizmust elhárító szerv főigazgatója bírálta el, a határozat ellen a közigazgatási eljárásban fellebbezésnek helye nincs.
 
 ### X. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -2109,7 +2143,7 @@ bírálja el.
 - c) a közlekedésért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben jelölje ki azokat a vasútvonalakat és vízi utakat, amelyeken a menet közbeni ellenőrzés végezhető,
 - d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a határátlépés ellenőrzésének szabályait a nemzetközi forgalom számára ideiglenesen megnyitott repülőtéren,
 - e) az államháztartásért felelős miniszter és az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a végrehajtási eljárásban ellenszegülés megszüntetése érdekében történő rendőri közreműködéssel, valamint a gyermek átadására irányuló bírósági végrehajtás során szükséges előállítással kapcsolatban felmerült költségek mértékét, valamint megtérítésének részletes szabályait,
-- f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvényekkel összefüggő rendőrségi eljárás és a rendezvények biztosításával kapcsolatos rendőrségi feladatok végrehajtásának részletes szabályait,
+- f) az igazságügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a gyülekezési jogról szóló törvény szerinti gyűlés bejelentésével és biztosításával összefüggő rendőrségi feladatok részletes szabályait,
 - g) az igazságügyért felelős miniszterrel, a büntetés-végrehajtásért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel és a szabálysértési szabályozásért felelős miniszterrel egyetértésben, a legfőbb ügyész véleményének kikérésével, rendeletben állapítsa meg a törvény alapján rendőrségi fogdán végrehajtható fogvatartások végrehajtásának részletes szabályait, valamint a rendőrségi fogdák rendjét.
 
 (3) A VII. Fejezet szerinti titkos információgyűjtés eszközei, módszerei, illetve a leplezett eszközök rendőrség általi alkalmazásának, valamint a speciális kiadások felhasználásának részletes szabályait a miniszter utasításban állapítja meg.

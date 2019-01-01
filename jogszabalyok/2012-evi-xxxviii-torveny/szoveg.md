@@ -84,7 +84,7 @@ rendeletben határozza meg.
 - b) e törvény alapján állami tulajdonba kerülő, az állami egészségügyi feladatellátást szolgáló vagyon és
 - c) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.
 
-(1a) Az (1) bekezdés alapján az ÁEEK jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő beszerzései és beruházásai alapján létrejött vagyon tekintetében is.
+(1a) Az (1) bekezdés alapján az ÁEEK jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő, valamint az ÁEEK saját beszerzései és beruházásai alapján létrejött vagyon tekintetében is.
 
 (2) Az ÁEEK a tulajdonosi joggyakorlásra irányuló tevékenységét az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint végzi.
 

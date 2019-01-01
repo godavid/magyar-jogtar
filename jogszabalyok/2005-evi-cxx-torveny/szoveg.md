@@ -194,7 +194,7 @@ Színházi cipész
 - b) az a) pontban meghatározott feltétel hiányában az évi 60 millió forintnak olyan hányada, amilyen arányt az (1) bekezdés a) pontjában említett jövedelem összege az év első napján érvényes havi minimálbér 12-szereséhez viszonyítva képvisel,
 - c) nyugdíjas esetében – az a)–b) pontokban foglaltaktól függetlenül – évi 60 millió forint,
 - d) az a)–b) pontban említett összeghatár helyett
-  - da) évi 250 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
+  - da) évi 500 millió forint, ha a magánszemély az adóévben az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet hivatásos sportolója,
   - db) évi 250 millió forint, ha a magánszemély az országos sportági szakszövetség, országos sportági szövetség első osztályú versenyrendszerében induló sportszervezet edzője, vagy az országos sportági szakszövetség, országos sportági szövetség edzője, válogatott vezetőedzője (szövetségi kapitánya)
 
 azzal, hogy ha a magánszemély általános forgalmi adó fizetésére kötelezett, az összeghatáron az általános forgalmi adóval csökkentett bevétel értendő.
@@ -252,7 +252,7 @@ köteles adóbevallásában feltüntetni és a bevallás benyújtására előír
 
 ### A magánszemélyt terhelő ekho mértékének helyesbítése
 
-7. § Ha a magánszemély a 4. § (2) bekezdése szerinti nyilatkozattételi lehetőségével – annak feltételei fennállta ellenére – nem élt, vagy nyugdíjjárulék fizetésére a Tbj. rendelkezései szerint nem volt kötelezett, a magánszemélyt terhelő ekho nyugdíjjáruléknak minősülő részének megfelelő különbözetet a személyi jövedelemadó bevallásban igényli vissza.
+7. § Ha a magánszemély a 4. § (2) bekezdése szerinti nyilatkozattételi lehetőségével – annak feltételei fennállta ellenére – nem élt, vagy nyugdíjjárulék fizetésére a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) rendelkezései rendelkezései szerint nem volt kötelezett, a magánszemélyt terhelő ekho nyugdíjjáruléknak minősülő részének megfelelő különbözetet a személyi jövedelemadó bevallásban igényli vissza.
 
 ### Az ekhóval teljesített közterhek
 
@@ -297,6 +297,8 @@ minősül.
 
 12. § Az állami költségvetésbe fizetett ekho alapján a magánszemély egészségügyi szolgáltatásra, baleseti egészségügyi szolgáltatásra, baleseti járadékra és nyugdíjbiztosítási ellátásra jogosult.
 
+12/A. § Az a bevétel, ellenérték, amely az ekho szabályai szerint adózik, a pénzbeli egészségbiztosítási ellátások [Tbj. 14. § (2) bekezdés b) pont] számítása során nem vehető figyelembe.
+
 ### Vegyes rendelkezések
 
 13. § (1) Az általános forgalmi adóalany magánszemély az általános forgalmi adóval összefüggő adókötelezettségeit az általános forgalmi adóról szóló törvény és az adózás rendjéről szóló törvény előírásai szerint teljesíti.
@@ -307,7 +309,7 @@ minősül.
 
 (4) A vállalkozói szerződés alapján elért bevétele után ekhót fizető egyéni vállalkozó magánszemély az Szja tv. költségelszámolásra vonatkozó rendelkezéseit azzal az eltéréssel alkalmazhatja, hogy az adóévben felmerült vállalkozói költségeit (az értékcsökkenési leírást is ideértve) olyan arányban számolhatja el, amilyen arányt a vállalkozói bevétele és a jogszerűen figyelembe vett ekhóalap adóévi együttes összegében a vállalkozói bevétel képvisel.
 
-(5) A (3) bekezdés rendelkezésétől függetlenül a magánszemély jogszerűen ekhóalapként figyelembe vett bevétele egészét az Szja tv. 3. §-ának 75. pontja szerinti éves összes jövedelme megállapításánál beszámítja.
+(5)
 
 (6) A kifizető az ekhóalapjaként figyelembe vett kifizetésről, a levont, megfizetett ekhóról a magánszemély részére a kifizetéssel egyidejűleg igazolást ad. Az 5. § (3) bekezdése szerinti nyilatkozat esetén a kifizető az adóévet követő január 31-ig a magánszemély adóazonosító jelének feltüntetésével adatot szolgáltat az adóhatósághoz a magánszemély részére az adóévben juttatott ekhoalapot képező bevételről.
 

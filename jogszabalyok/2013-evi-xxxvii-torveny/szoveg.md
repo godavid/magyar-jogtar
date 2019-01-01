@@ -26,7 +26,7 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 - 4. Választottbírósági Egyezmény: a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló, 1990. július 23-án Brüsszelben aláírt Egyezmény, az Osztrák Köztársaságnak, a Finn Köztársaságnak és a Svéd Királyságnak a társult vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv, a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló 1990. július 23-i egyezmény módosításáról szóló Jegyzőkönyv, valamint a Cseh Köztársaságnak, az Észt Köztársaságnak, a Ciprusi Köztársaságnak, a Lett Köztársaságnak, a Litván Köztársaságnak, a Magyar Köztársaságnak, a Máltai Köztársaságnak, a Lengyel Köztársaságnak, a Szlovén Köztársaságnak és a Szlovák Köztársaságnak a kapcsolt vállalkozások nyereségkiigazításával kapcsolatos kettős adóztatás megszüntetéséről szóló Egyezményhez való csatlakozásáról szóló Egyezmény és az ehhez kapcsolódó Aláírási Jegyzőkönyv kihirdetéséről szóló 2006. évi XXXVI. törvény (a továbbiakban: Vtv.) 3–6. §-a szerinti egyezmény;
 - 5. FATCA Megállapodás: a 2014. évi XIX. törvénnyel kihirdetett, a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás;
 - 6. Hatóságközi Megállapodás: a FATCA Megállapodás 3. cikk 6. pontja szerinti megállapodás;
-- 7. adatszolgáltatási kötelezettség alól mentes multinacionális vállalatcsoport: olyan vállalatcsoport, amelynek az adatszolgáltatási pénzügyi évet megelőző pénzügyi évre vonatkozó összevont (konszolidált) éves beszámolójában szereplő összevont (konszolidált) bevétele nem éri el a 750 000 000 eurót vagy a 750 000 000 euróval a Magyar Nemzeti Bank által közzétett 2015. január havi átlagos devizaárfolyam alapján számított, megközelítően egyező forintösszeget;
+- 7. adatszolgáltatási kötelezettség alól mentes multinacionális vállalatcsoport: olyan vállalatcsoport, amelynek az adatszolgáltatási pénzügyi évet megelőző pénzügyi évre vonatkozó összevont (konszolidált) éves beszámolójában szereplő összevont (konszolidált) bevétele nem éri el a 750 000 000 eurót vagy a 750 000 000 euróval a Magyar Nemzeti Bank által közzétett 2015. január havi átlagos devizaárfolyam alapján számított, megközelítően egyező forintösszeget, illetve ha a vállalatcsoport végső anyavállalatának székhelye Magyarországon kívüli államban vagy területen található, az ezen állam vagy terület országonkénti jelentésekkel kapcsolatos belső szabályai által meghatározott 750 000 000 eurónak megfelelő helyi valutában kifejezett összeget;
 - 8. összevont (konszolidált) éves beszámoló: a multinacionális vállalatcsoport olyan pénzügyi évre vetített kimutatása, amely a végső anyavállalat és a csoporttagok eszközeit, kötelezettségeit, nyereségét, kiadásait és cash flow-ját mint egyetlen gazdálkodó szervezet eszközeit, kötelezettségeit, nyereségét, kiadásait és cash flow-ját mutatja be;
 - 9. vállalatcsoport: tulajdonjog vagy ellenőrzés révén egymással kapcsolatban álló vállalkozások olyan együttese, amely az alkalmazandó számviteli alapelvek szerint a pénzügyi beszámolás céljára összevont (konszolidált) éves beszámolót készít, vagy ilyen kötelezettsége állna fenn, ha a vállalkozások bármelyikében fennálló tulajdoni részesedésekkel nyilvános értékpapírtőzsdén kereskedés folyna.
 
@@ -457,7 +457,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 26. § (1) A magyar megkeresett hatóság a megkereső hatóság kérelmére intézkedik valamennyi olyan döntés és egyéb okirat – ideértve a bírósági okiratot is – címzett személynek történő kézbesítéséről, amely a megkereső tagállamból származik és a 22. §-ban meghatározott követelésre vagy annak behajtására vonatkozik. A kézbesítés iránti megkereséshez egységes formanyomtatványt kell mellékelni.
 
-(2) A magyar megkeresett hatóság haladéktalanul tájékoztatja a megkereső hatóságot a kézbesítés érdekében megtett intézkedésről, így különösen a kézbesítés időpontjáról.
+(2) A magyar megkeresett hatóság haladéktalanul tájékoztatja a megkereső hatóságot a kézbesítés érdekében megtett intézkedésről, így különösen a kézbesítés időpontjáról és módjáról.
 
 (3) A megkereső tagállam hatáskörrel rendelkező hatósága által a megkeresett tagállam joga szerint a Magyarország területén teljesített vagy nem a behajtási jogsegély keretében kezdeményezett kézbesítés nem érinti a magyar megkeresett hatóság kézbesítés iránti megkereséssel kapcsolatos eljárását.
 
@@ -482,7 +482,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 
 (3) A követelés megfizetésére a magyar megkeresett hatóság (állami adó- és vámhatóság) az Art. fizetési könnyítésre vonatkozó rendelkezései szerint a kötelezett személy részére fizetési könnyítést engedélyezhet. A fizetési könnyítéssel kapcsolatos döntésről a magyar megkeresett hatóság a megkereső hatóságot is értesíti.
 
-(4) A magyar megkeresett hatóság a követelés, valamint a (2) és (3) bekezdés alapján felszámított késedelmi pótlék végrehajtási eljárásban érvényesített összegét átutalja a megkereső hatóság részére.
+(4) A magyar megkeresett hatóság a követelés, valamint a (2) és (3) bekezdés alapján felszámított késedelmi pótlék végrehajtási eljárásban érvényesített összegét euróban utalja át a megkereső hatóság részére.
 
 29. § (1) A végrehajtást engedélyező eredeti okirattal, a végrehajtást engedélyező egységes okirattal, az ezen okiratokban érvényesített követeléssel, valamint a megkereső hatóság vagy a megkereső tagállam más illetékes szerve által történő kézbesítés érvényességével kapcsolatos jogorvoslati kérelmet a megkereső tagállam illetékes szervéhez kell előterjeszteni. A magyar megkeresett hatóság a behajtás iránti megkeresés teljesítése során bármely érdekelt fél ilyen tárgyú jogorvoslati kérelmét – joghatóság hiányában, érdemi vizsgálat nélkül – végzéssel elutasítja. A végzés indokolása azt is tartalmazza, hogy a jogorvoslati kérelmet a megkereső tagállam illetékes szervéhez kell benyújtani a megkereső tagállam jogszabályainak megfelelően.
 
@@ -691,7 +691,9 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 43/E. § (1) A Jelentő Magyar Pénzügyi Intézmény a 43/A–43/C. § szerinti bejelentési és adatszolgáltatási kötelezettségét, a Nem jelentő Magyar Pénzügyi Intézmény a 43/A. § (2) és (3) bekezdése szerinti bejelentési kötelezettségét elektronikus úton, az állami adóhatóság által e célra rendszeresített elektronikus űrlapon teljesíti az állami adóhatósághoz.
 
-(2) A 43/A–43/C. § szerinti bejelentési vagy adatszolgáltatási kötelezettség késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.
+(2) A 43/A–43/C. § szerinti bejelentési és adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.
+
+(3) A (2) bekezdés alapján nincs helye mulasztási bírság kiszabásának, ha a bejelentésre, változásbejelentésre, adatszolgáltatásra kötelezett mulasztását, késedelmét, hibás, valótlan tartalmú vagy hiányos teljesítését annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
 43/F. § (1) Az állami adóhatóság a 43/D. § szerinti automatikus adatcsere teljesítéséről az adóévet követő év október 20-ig jelentést készít az adópolitikáért felelős miniszter részére.
 
@@ -709,7 +711,8 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 - a) az (1)–(3) bekezdés szerinti bejelentés alapján a Jelentő Magyar Pénzügyi Intézmények és a Nem Jelentő Magyar Pénzügyi Intézmények elnevezését, székhelyét és adószámát (ha az ilyennel rendelkezik),
 - b) az 1. melléklet VIII/C/17. g) pontja szerinti Kizárt Pénzügyi Számlák listáját, és
-- c) a Megállapodást kihirdető törvény 1. mellékletében felsorolt államok listáját.
+- c) a Megállapodást kihirdető törvény 1. mellékletében felsorolt államok listáját, valamint
+- d) az 1. melléklet VIII/D/4. b) pont bb) alpontja szerinti Résztvevő Joghatóságok jegyzékét.
 
 (5) A Jelentő Magyar Pénzügyi Intézmény az 1. melléklet III/B/5. és III/C/5. c) pontja szerinti Nem dokumentált Pénzügyi Számláról a Számlatulajdonos nevének és számlaszámának feltüntetésével a dokumentáció hiánya megállapításának adóévét követő év június 30. napjáig – bejelentést tesz az állami adóhatósághoz.
 
@@ -744,7 +747,9 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 (2) Az állami adóhatóság a 43/I. §-ban meghatározott, automatikus információcsere keretében az Európai Unió tagállamába továbbított információt a 16. § (5) bekezdésének megfelelő formátumban továbbítja.
 
-43/K. § A 43/G. § (1)–(3), (5) és (6) bekezdése, valamint a 43/H. § szerinti bejelentési és adatszolgáltatási kötelezettség késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.
+43/K. § (1) A 43/G. § (1)–(3), (5) és (6) bekezdése, valamint a 43/H. § szerinti bejelentési és adatszolgáltatási kötelezettség elmulasztása, késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adóhatóság a bejelentésre, adatszolgáltatásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.
+
+(2) Az (1) bekezdés alapján nincs helye mulasztási bírság kiszabásának, ha a bejelentésre, változásbejelentésre, adatszolgáltatásra kötelezett mulasztását, késedelmét, hibás, valótlan tartalmú vagy hiányos teljesítését annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.
 
 43/L. § (1) Az állami adóhatóság a 43/I. § szerinti automatikus információcsere teljesítéséről – az információ felhasználásának statisztikai adatai kivételével – az adóévet követő év december 31-ig jelentést készít az adópolitikáért felelős miniszter részére. A jelentésben az állami adóhatóság az adóévre vonatkozó automatikus információcsere statisztikai adatait, valamint az e fejezet alapján folytatott automatikus információcsere értékelését és hatékonyságának növelésére tett javaslatait szerepelteti.
 
@@ -752,7 +757,7 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 ### V/C. Fejezet — IMMATERIÁLIS JAVAK TÁRSASÁGI ADÓALAP-KEDVEZMÉNYEIRE VONATKOZÓ INFORMÁCIÓK ELŐZETES MEGKERESÉS NÉLKÜLI CSERÉJE
 
-43/M. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 7. § (1) bekezdés c), e), s) pontja szerinti adóalap-kedvezményt a Tao. törvény 29/A. § (29)–(30) bekezdése alapján érvényesítő adózó nevéről, székhelyéről, adóazonosító számáról az adóbevallás benyújtását követő 1 éven belül az állami adóhatóság spontán információcsere keretében tájékoztatja az illetékes hatóságot, ha az adózó 2015. február 6. előtt nem vette igénybe az adóalap-kedvezményt, vagy 2015. február 6. után olyan jószágra veszi igénybe, amelyre 2015. február 6. előtt nem vette igénybe az adóalap-kedvezményt.
+43/M. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. törvény) 7. § (1) bekezdés c), e) és s) pontja szerinti adóalap-kedvezményt a Tao. törvény 29/A. § (29)–(30) bekezdése alapján érvényesítő adózó nevéről, székhelyéről, adóazonosító számáról az adóbevallás benyújtását követő 1 éven belül az állami adóhatóság spontán információcsere keretében tájékoztatja a 43/T. § (2) bekezdésében meghatározott állam illetékes hatóságát, ha az adózó 2015. február 6. előtt nem vette igénybe az adóalap-kedvezményt, vagy 2015. február 6. után olyan jószágra veszi igénybe, amelyre 2015. február 6. előtt nem vette igénybe az adóalap-kedvezményt.
 
 ### V/D. Fejezet — AZ ORSZÁGONKÉNTI JELENTÉSEKKEL KAPCSOLATOS ADATSZOLGÁLTATÁS ÉS AUTOMATIKUS INFORMÁCIÓCSERE
 
@@ -790,9 +795,20 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 - a) minden egyes olyan állam, illetve terület tekintetében, amelyben a multinacionális vállalatcsoport gazdasági tevékenységet végez, a bevétel összegét és pénznemét, az adózás előtti eredményt, a megfizetett nyereségadó összegét, a fizetendő nyereségadó összegét, a jegyzett tőke összegét, az eredménytartalékot, a foglalkoztatottak számát és a készpénzen és készpénznek minősülő eszközökön kívüli tárgyi eszközöket, valamint
 - b) a multinacionális vállalatcsoport csoporttagjainak azonosító adatait, ideértve a csoporttagok adóügyi illetősége szerinti állam, illetve terület meghatározását, és – amennyiben az különbözik az adóügyi illetőség szerinti államtól, illetve területtől – annak az államnak, illetve területnek a meghatározását, amelynek a joga szerint az adott csoporttag létrehozására sor került, valamint az adott csoporttag fő üzleti tevékenységének vagy tevékenységeinek a megnevezését.
 
-43/O. § (1) A multinacionális vállalatcsoport magyar adóügyi illetőségű csoporttagja nevének, székhelyének, adóazonosító számának feltüntetésével a végső anyavállalati, anyavállalatnak kijelölt szervezeti vagy a 43/N. § (2) bekezdése, illetve (4) bekezdése alapján adatszolgáltatásra kötelezett csoporttagi minőségét, valamint a multinacionális vállalatcsoport adatszolgáltatási pénzügyi éve utolsó napját a multinacionális vállalatcsoport adatszolgáltatási pénzügyi évének utolsó napjáig bejelenti az állami adóhatóságnak.
+43/O. § (1) A multinacionális vállalatcsoport magyar adóügyi illetőségű csoporttagja a multinacionális vállalatcsoport adatszolgáltatási pénzügyi évének utolsó napjáig az állami adóhatóságnak bejelenti:
 
-(2) A multinacionális vállalatcsoport magyar adóügyi illetőségű csoporttagja nevének, székhelyének, adóazonosító számának feltüntetésével a végső anyavállalati, anyavállalatnak kijelölt szervezeti vagy a 43/N. § (2) bekezdése, illetve (4) bekezdése alapján adatszolgáltatásra kötelezett csoporttagi minőségének hiányát, valamint az országonkénti jelentéssel kapcsolatos adatszolgáltatásra kötelezett szervezet nevét és adóügyi illetőségét az (1) bekezdésben meghatározott időpontig bejelenti az állami adóhatóságnak.
+- a) nevét, székhelyét, adóazonosító számát;
+- b) a végső anyavállalati, anyavállalatnak kijelölt szervezeti vagy a 43/N. § (2) bekezdése, illetve (4) bekezdése alapján adatszolgáltatásra kötelezett csoporttagi minőségének fennállását;
+- c) a multinacionális vállalatcsoport nevét; valamint
+- d) a multinacionális vállalatcsoport adatszolgáltatási pénzügyi éve utolsó napját.
+
+(2) A multinacionális vállalatcsoport magyar adóügyi illetőségű csoporttagja az (1) bekezdésben meghatározott időpontig az állami adóhatóságnak bejelenti
+
+- a) nevét, székhelyét, adóazonosító számát;
+- b) a végső anyavállalati, anyavállalatnak kijelölt szervezeti vagy a 43/N. § (2) bekezdése, illetve (4) bekezdése alapján adatszolgáltatásra kötelezett csoporttagi minőségének hiányát;
+- c) a multinacionális vállalatcsoport nevét;
+- d) az országonkénti jelentéssel kapcsolatos adatszolgáltatásra kötelezett szervezet nevét és adóügyi illetőségét; valamint
+- e) az adatszolgáltatási időszakot.
 
 (3) Az (1) és (2) bekezdés szerint bejelentett adatok változását a multinacionális vállalatcsoport magyar adóügyi illetőségű csoporttagja a változást követő 30 napon belül jelenti be az állami adóhatósághoz.
 
@@ -976,7 +992,7 @@ b) a pénzügyi eszközök értékesítéséből vagy visszaváltásából szár
 
 7. az 5. és 6. pontban nem szereplő számláknál az adóévben a Számlatulajdonos részére a számlával kapcsolatban kifizetett vagy jóváírt bruttó összeg, amelynek a Jelentő Magyar Pénzügyi Intézmény a kötelezettje vagy adósa, ideértve az adóévben a visszaváltásokból származó, a Számlatulajdonos részére teljesített kifizetések összevont összegét.
 
-B. A szolgáltatott információnak tartalmaznia kell az egyes kifizetések pénznemét.
+B. A szolgáltatott információnak tartalmaznia kell az egyes összegek pénznemét.
 
 C. Az A/1. ponttól eltérően, a Jelentendő Meglévő Pénzügyi Számlához kapcsolódóan, az adóazonosító számról vagy a születési időről nem kell adatot szolgáltatni, ha ezek a Jelentő Magyar Pénzügyi Intézmény nyilvántartásában nem szerepelnek. A Jelentő Magyar Pénzügyi Intézmény azonban megfelelő intézkedéseket tesz annak érdekében, hogy az azon adóévet követő második adóév végéig, amelyben a Meglévő Számlát Jelentendő Számlának minősítették, a Meglévő Számlához kapcsolódóan beszerezze az adóazonosító számot és a születési időre vonatkozó információt.
 
@@ -1136,7 +1152,7 @@ Meglévő Jogalanyi Számlák tulajdonosai esetében (ideértve a Jelentendő Sz
 
 a) A Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása
 
-A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan, a VIII/A/6. b) pontja szerinti Pénzügyi Intézmény, amely nem Résztvevő joghatóság Pénzügyi Intézménye. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
+A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan Pénzügyi Intézmény, amely nem tartozik a VIII/D/7. b) pontban meghatározott Pénzügyi Intézmények közé. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
 
 b) A Számlatulajdonos felett Ellenőrzést gyakorló személyek azonosítása
 
@@ -1148,11 +1164,7 @@ Annak megállapítása céljából, hogy a Passzív Nem Pénzügyi Jogalany fele
 
 ca) a pénzmosás elleni fellépés, illetve az ügyfél-azonosítás kapcsán végzendő átvilágítási eljárások keretében beszerzett adatokat azon, egy vagy több Nem Pénzügyi Jogalany Meglévő Számlái esetében, amelyek összesített egyenlege vagy értéke nem haladja meg az 1 000 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget; vagy
 
-cb) a Számlatulajdonos vagy az Ellenőrzést gyakorló személy nyilatkozatát arról, hogy mely tagállamban, más államban vagy egyéb joghatóság területén rendelkezik adóügyi illetőséggel.
-
-E. Meglévő Jogalanyi Számlákra vonatkozó ellenőrzési határidő és egyéb különös szabályok
-
-1. A 2015. december 31-én 250 000 USD-t meghaladó, forintban vagy külföldi fizetési eszközben (devizában) kifejezett, összesített egyenlegű vagy értékű Meglévő Jogalanyi Számlák ellenőrzését 2017. december 31-ig kell elvégezni.
+cb) a Számlatulajdonos vagy az Ellenőrzést gyakorló személy nyilatkozatát arról, hogy mely tagállamban, más államban vagy egyéb joghatóság területén rendelkezik adóügyi illetőséggel. A Számlatulajdonos vagy az Ellenőrzést gyakorló személy érvényes nyilatkozatának hiányában a Jelentő Magyar Pénzügyi Intézmény az Ellenőrzést gyakorló személy adóügyi illetőségét a III/B/2. pontban meghatározott szempontok figyelembe vételével állapítja meg.
 
 1a. Az 1. bekezdés rendelkezéseitől eltérően azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján 250 000 USD-t meghaladó, forintban vagy külföldi fizetési eszközben (devizában) kifejezett, összesített egyenlegű vagy értékű Meglévő Jogalanyi Számlák ellenőrzését a mellékletbe való bekerülés évének utolsó napjáig kell elvégezni.
 
@@ -1518,13 +1530,13 @@ e) Központi Bank; továbbá
 
 f) Pénzügyi Intézmény.
 
-3. Tagállami vagy más állami személy: olyan tagállami vagy más állambeli személy vagy Jogalany, aki vagy amely más tagállam vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt. E rendelkezés alkalmazásában az olyan Jogalanyt (például gazdasági társaságot, polgári jogi társasági szerződést vagy hasonló jogi megállapodást), amely nem rendelkezik adóügyi illetőséggel, a tényleges üzletvezetési helye szerinti joghatóságban illetőséggel rendelkezőnek kell tekinteni.
+3. Tagállami vagy más állambeli személy: az a személy vagy Jogalany, aki vagy amely más tagállam vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt. E rendelkezés alkalmazásában az olyan Jogalanyt (például gazdasági társaságot, polgári jogi társasági szerződést vagy hasonló jogi megállapodást), amely nem rendelkezik adóügyi illetőséggel, a tényleges üzletvezetési helye szerinti joghatóságban illetőséggel rendelkezőnek kell tekinteni.
 
 4. Résztvevő joghatóság: Magyarország vonatkozásában:
 
-a) egy más tagállam vagy más állam;
+a) egy más tagállam;
 
-b) más joghatósággal rendelkező terület,
+b) más állam, vagy joghatósággal rendelkező terület,
 
 ba) amellyel Magyarországnak olyan hatályos megállapodása van, amely alapján a joghatósággal rendelkező terület közli az e melléklet I. pontjában meghatározott adatokat, és
 

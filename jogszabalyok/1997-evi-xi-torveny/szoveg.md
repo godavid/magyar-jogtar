@@ -10,87 +10,122 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A megkülönböztetésre alkalmas megjelölés
 
-1. § (1) Védjegyoltalomban részesülhet minden grafikailag ábrázolható megjelölés, amely alkalmas arra, hogy valamely árut vagy szolgáltatást megkülönböztessen mások áruitól vagy szolgáltatásaitól.
+1. § (1) Védjegyoltalomban részesülhet minden megjelölés, amely
 
-(2) Védjegyoltalomban részesülő megjelölés lehet különösen:
+- a) alkalmas arra, hogy valamely árut vagy szolgáltatást megkülönböztessen mások áruitól vagy szolgáltatásaitól; és
+- b) a védjegylajstromban olyan módon ábrázolható, hogy a jogalkalmazó szervek és a nyilvánosság egyértelműen és pontosan meg tudják határozni a védjegybejelentő által igényelt, illetve a védjegyjogosult javára fennálló oltalom tárgyát.
 
-- a) szó, szóösszetétel, beleértve a személyneveket és a jelmondatokat;
+(2) Védjegyoltalomban részesülhetnek különösen a következő megjelölések:
+
+- a) szó, szóösszetétel, beleértve a személyneveket és a jelmondatokat is;
 - b) betű, szám;
 - c) ábra, kép;
 - d) sík- vagy térbeli alakzat, beleértve az áru vagy a csomagolás formáját;
 - e) szín, színösszetétel, fényjel, hologram;
-- f) hang; valamint
-- g) az a)–f) pontokban felsorolt egyes megjelölések összetétele.
+- f) hang;
+- g) mozgást megjelenítő megjelölés;
+- h) pozíciómegjelölés;
+- i) multimédia-megjelölés;
+- j) mintázat; valamint
+- k) többféle megjelölés összetétele.
 
 ### Feltétlen kizáró okok
 
 2. § (1) A megjelölés nem részesülhet védjegyoltalomban, ha nem felel meg az 1. §-ban meghatározott követelményeknek.
 
-(2) Ki van zárva a védjegyoltalomból a megjelölés, ha
+(2) A megjelölés nem részesülhet védjegyoltalomban, ha
 
-- a) nem alkalmas a megkülönböztetésre, különösen, ha kizárólag olyan jelekből vagy adatokból áll, amelyeket a forgalomban az áru vagy a szolgáltatás fajtája, minősége, mennyisége, rendeltetése, értéke, földrajzi származása, előállítási vagy teljesítési ideje, illetve egyéb jellemzője feltüntetésére használhatnak, vagy pedig amelyeket az általános nyelvhasználatban, illetve az üzleti kapcsolatokban állandóan és szokásosan alkalmaznak;
-- b) kizárólag olyan formából áll, amely az áru jellegéből következik, vagy amely a célzott műszaki hatás eléréséhez szükséges, illetve amely az áru értékének a lényegét hordozza.
+- a) kizárólag olyan jelekből vagy elemekből áll, amelyeket az üzleti forgalomban az áru vagy a szolgáltatás fajtája, minősége, mennyisége, rendeltetése, értéke, földrajzi származása, előállítási vagy teljesítési ideje, illetve egyéb jellemzője feltüntetésére használhatnak;
+- b) kizárólag olyan jelekből vagy elemekből áll, amelyeket az általános nyelvhasználatban, illetve a tisztességes üzleti gyakorlatban állandóan és szokásosan alkalmaznak;
+- c) egyéb okból nem alkalmas a megkülönböztetésre;
+- d) kizárólag
+  - da) olyan formából vagy egyéb jellemzőből áll, amely az áru jellegéből következik,
+  - db) az áru olyan formájából vagy egyéb jellemzőjéből áll, amely a célzott műszaki hatás eléréséhez szükséges, vagy
+  - dc) olyan formából vagy egyéb jellemzőből áll, amely lényeges értéket ad az áruhoz.
 
-(3) A (2) bekezdés a) pontja alapján a megjelölés nincs kizárva a védjegyoltalomból, ha használata révén – akár az elsőbbség időpontja előtt, akár azt követően – megszerezte a megkülönböztető képességet.
+(3) A (2) bekezdés a)–c) pontja alapján a megjelölés nincs kizárva a védjegyoltalomból, ha használata révén – akár a bejelentés napját megelőzően, akár azt követően, de a lajstromozás napját megelőzően – megkülönböztető képességet szerzett.
 
 3. § (1) A megjelölés nem részesülhet védjegyoltalomban, ha
 
 - a) a közrendbe vagy a közerkölcsbe ütközik;
-- b) az áru, illetve a szolgáltatás fajtája, minősége, földrajzi származása vagy egyéb tulajdonsága tekintetében alkalmas a fogyasztók megtévesztésére;
+- b) alkalmas a fogyasztók megtévesztésére, különösen az áru, illetve a szolgáltatás fajtája, minősége, földrajzi származása vagy egyéb tulajdonsága tekintetében;
 - c) rosszhiszeműen jelentették be lajstromozásra.
 
-(2) Ki van zárva a védjegyoltalomból a megjelölés, ha
+(2) A megjelölés nem részesülhet védjegyoltalomban, ha
 
 - a) az ipari tulajdon oltalmára létesült Párizsi Uniós Egyezmény 6ter cikkének (1) bekezdésében felsorolt jelzések bármelyikéből áll, vagy azt tartalmazza, feltéve, hogy
   - aa) az ilyen jelzést – ha nem állami zászlóról van szó – az említett 6ter cikk (3) bekezdése szerint közölték, továbbá
   - ab) a megjelölést – abban az esetben, ha hivatalos ellenőrzési és hitelesítési jegyből vagy fémjelzésből áll, vagy azt tartalmazza – az említett jelzésekkel hivatalosan megjelölt árukkal azonos vagy azokhoz hasonló áruk tekintetében jelentették be lajstromozásra;
 - b) olyan – az a) pontban nem szabályozott – jelvényből, jelképből vagy címerből áll, amelynek használatához közérdek fűződik, vagy ilyen jelvényt, jelképet vagy címert tartalmaz;
-- c) kizárólag valamely vallási vagy egyéb meggyőződést erőteljesen kifejező jelképből áll.
+- c) valamely vallási vagy egyéb meggyőződést erőteljesen kifejező jelképet a megjelölés összhatását meghatározó módon tartalmaz.
 
-(3) Az illetékes szerv hozzájárulásával védjegyoltalomban részesülhet az a megjelölés, amely a (2) bekezdés a) és b) pontjában meghatározott jelzésből áll, vagy azt tartalmazza.
+(3) A hatáskörrel rendelkező szerv hozzájárulásával védjegyoltalomban részesülhet az a megjelölés, amely a (2) bekezdés a) és b) pontjában meghatározott jelzésből áll, vagy azt tartalmazza.
 
-(4) A megjelölés nem részesülhet védjegyoltalomban, ha e törvény vagy az Európai Unió jogszabályai alapján lajstromozott földrajzi árujelzőből áll, vagy azt tartalmazza. E rendelkezést azokra a megjelölésekre kell alkalmazni,
+(4) A megjelölés nem részesülhet védjegyoltalomban, ha
 
-- a) amelyek az Európai Unió jogszabályai alapján nem lajstromozhatók védjegyként, vagy
-- b) amelyeket olyan árukkal kapcsolatban használnak,
-  - ba) amelyek nem a földrajzi árujelzőnek megfelelő földrajzi területről származnak, vagy
-  - bb) amelyekkel kapcsolatban a földrajzi árujelző e törvény vagy az Európai Unió jogszabályai alapján egyéb okból nem használható.
+- a) e törvény Hetedik Része alapján oltalomban részesülő földrajzi árujelző bejelentési napjánál később tett védjegybejelentésben igényelnek rá – a földrajzi árujelző által jelölt termékkel azonos típusba tartozó árukra vonatkozóan – oltalmat és használata a 109. § (2) bekezdésébe ütközne,
+- b) az eredetmegjelölések és földrajzi jelzések oltalmát biztosító európai uniós jogszabály alapján ki van zárva az oltalomból, vagy
+- c) az eredetmegjelölések és földrajzi jelzések oltalmát biztosító olyan nemzetközi megállapodás alapján, amelyben az Európai Unió vagy Magyarország részes fél, ki van zárva az oltalomból.
+
+(5) A megjelölés nem részesülhet védjegyoltalomban, ha a borral kapcsolatos hagyományos kifejezések oltalmát európai uniós jogszabály rendelkezései alapján vagy ennek megfeleltethető oltalmat biztosító olyan nemzetközi megállapodás alapján, amelyben az Európai Unió részes fél, ki van zárva az oltalomból.
+
+(6) A megjelölés nem részesülhet védjegyoltalomban, ha a hagyományos különleges termékek bejegyzését szabályozó európai uniós jogszabály rendelkezései alapján vagy ennek megfeleltethető tanúsítást szabályozó olyan nemzetközi megállapodás alapján, amelyben az Európai Unió részes fél, ki van zárva az oltalomból.
+
+(7) Nem részesülhet védjegyoltalomban a megjelölés, amely – azonos vagy közeli rokon fajba tartozó növényfajta tekintetében – olyan korábbi növényfajtanévből áll, vagy alapvető elemeiben olyan korábbi növényfajtanevet jelenít meg, amelyet
+
+- a) növényfajta-oltalmat biztosító európai uniós jogszabály,
+- b) a szabadalmi törvény, vagy
+- c) növényfajta-oltalmat biztosító olyan nemzetközi megállapodás, amelyben az Európai Unió vagy Magyarország részes fél
+
+alapján a fajtaoltalmi lajstromba bejegyeztek.
 
 ### Viszonylagos kizáró okok
 
 4. § (1) Nem részesülhet védjegyoltalomban
 
 - a) azonos áruk, illetve szolgáltatások tekintetében a korábbi védjeggyel azonos későbbi elsőbbségű megjelölés;
-- b) a megjelölés, amelyet a fogyasztók összetéveszthetnek a korábbi védjeggyel a megjelölés és a védjegy azonossága vagy hasonlósága, valamint az érintett áruk, illetve szolgáltatások azonossága vagy hasonlósága miatt;
-- c) eltérő áruk, illetve szolgáltatások tekintetében a belföldön jóhírnevet élvező korábbi védjeggyel azonos vagy ahhoz hasonló későbbi elsőbbségű megjelölés, ha annak alapos ok nélkül történő használata a jó hírű védjegy megkülönböztető képességét vagy hírnevét sértené vagy tisztességtelenül kihasználná.
+- b) a megjelölés, amelyet a fogyasztók összetéveszthetnek a korábbi védjeggyel a megjelölés és a védjegy azonossága vagy hasonlósága, valamint az érintett áruk, illetve szolgáltatások azonossága vagy hasonlósága miatt; ideértve azt az esetet is, amikor az összetéveszthetőség amiatt áll fenn, mert a fogyasztók a megjelölést a korábbi védjegyhez gondolati képzettársítás útján kapcsolhatják;
+- c) a belföldön vagy – európai uniós védjegy esetén – az Európai Unióban jóhírnevet élvező korábbi védjeggyel azonos vagy ahhoz hasonló, későbbi elsőbbségű védjegybejelentés szerinti megjelölés, függetlenül attól, hogy az árujegyzékében szereplő áruk vagy szolgáltatások azonosak vagy hasonlóak-e azokhoz az árukhoz vagy szolgáltatásokhoz, amelyek tekintetében a korábbi védjegyet lajstromozták, ha a megjelölés alapos ok nélkül történő használata a jóhírű védjegy megkülönböztető képességét vagy hírnevét sértené vagy tisztességtelenül kihasználná.
 
-(2) Korábbi védjegy az, amelyet korábbi elsőbbséggel jelentettek be lajstromozásra, valamint – az (1) bekezdés a) és b) pontjának alkalmazásában – az a megjelölés is, amely az ipari tulajdon oltalmára létesült Párizsi Uniós Egyezmény alapján – lajstromozásától függetlenül – korábban vált belföldön közismert védjeggyé. Korábbi védjegyen – a megjelölés lajstromozásától függően – a korábbi védjegybejelentést is érteni kell.
+(2) E § alkalmazásában korábbi védjegy
 
-(3) A megjelölés nincs kizárva a védjegyoltalomból, ha olyan korábbi védjeggyel ütközik, amelyet annak jogosultja nem használt a 18. § előírásainak megfelelően.
+- a) minden olyan
+  - aa) e törvény alapján lajstromozott védjegy, ideértve a nemzetközi megállapodás alapján Magyarországra kiterjedő hatállyal lajstromozott védjegyet is,
+  - ab) a 2017/1001/EU európai parlamenti és a tanácsi rendelet (továbbiakban: európai uniós védjegyrendelet) alapján lajstromozott európai uniós védjegy,
 
-(4) E törvény alkalmazásában az összetéveszthetőség magában foglalja azt az esetet is, ha a fogyasztók a megjelölést gondolati képzettársítás (asszociáció) útján kapcsolhatják a korábbi védjegyhez.
+amelynek bejelentési napja vagy – ha ennek helye van – igényelt elsőbbségi napja korábbi, mint a védjegy lajstromozására irányuló bejelentésé;
 
-5. § (1) Nem részesülhet védjegyoltalomban a megjelölés,
+- b) az (1) bekezdés a) és b) pontjának alkalmazásában az a megjelölés, amely az ipari tulajdon oltalmára létesült Párizsi Uniós Egyezmény 6bis cikke alapján – lajstromozásától függetlenül – a védjegy bejelentési napján vagy elsőbbségi napján belföldön közismertnek minősül;
+- c) az olyan európai uniós védjegy, amelynek tekintetében az európai uniós védjegyrendelet alapján az a) pont aa) alpontjában említett védjegy szenioritását érvényesen igényelték, akkor is, ha ez utóbbi védjegy oltalma lemondás vagy az oltalmi idő megújítás nélküli lejárta miatt megszűnt;
+- d) az a) és c) pontban említett védjegy lajstromozására irányuló bejelentés, feltéve, hogy annak alapján a védjegyet lajstromozzák,
 
-- a) amely másnak személyhez – különösen névhez, képmáshoz – fűződő korábbi jogát sértené;
-- b) amely más korábbi szerzői vagy iparjogvédelmi jogába ütközne, ideértve a növényfajta nevével való ütközést is.
+azzal, hogy ahol e törvény korábbi vagy későbbi védjegyet említ, az időbeli sorrend kapcsán az e bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni.
+
+(3) A megjelölés nincs kizárva a védjegyoltalomból, ha olyan korábbi védjeggyel ütközik, amelyet annak jogosultja nem használt a 18. § előírásainak megfelelően, vagy amelynek oltalma a védjegybejelentés napján már nem áll fenn.
+
+(4)
+
+5. § (1) Nem részesülhet védjegyoltalomban a megjelölés, amely
+
+- a) másnak korábbi személyiségi – különösen névhez, képmáshoz fűződő – jogát sértené;
+- b) más korábbi szerzői, szerzői joghoz kapcsolódó vagy iparjogvédelmi jogába ütközne.
 
 (2) Nem részesülhet védjegyoltalomban
 
-- a) a megjelölés, amelyet más lajstromozás nélkül korábbtól fogva ténylegesen használ belföldön, ha a megjelölésnek a korábbi használó hozzájárulása nélkül történő használata jogszabályba ütközne; valamint
-- b) azonos vagy hasonló áruk, illetve szolgáltatások tekintetében a megjelölés, amely egy olyan védjeggyel azonos vagy ahhoz hasonló, amelynek oltalma korábban lejárat miatt megszűnt, ha a megszűnés óta két év még nem telt el, kivéve, ha a korábbi védjegyet nem használták a 18. § előírásainak megfelelően.
+- a) a megjelölés, ha annak használatát egy olyan megjelölés alapján, amelyet korábban gazdasági tevékenység körében, lajstromozás nélkül ténylegesen használtak belföldön, a korábbi használó más jogszabály alapján megtilthatná;
+- b) az a megjelölés, amelynek használatát az eredetmegjelölések és földrajzi jelzések oltalmát biztosító európai uniós vagy nemzeti jogszabályok alapján a földrajzi árujelző oltalmából fakadó jogokat gyakorolni jogosult személy megtilthatná, feltéve, hogy az eredetmegjelölés vagy földrajzi jelzés lajstromozására irányuló bejelentést korábban tették meg és az eredetmegjelölést vagy a földrajzi jelzést utóbb lajstromozzák.
 
-(3) Annak megítélésekor, hogy a jog, a használat, illetve a megszűnés az (1) és (2) bekezdés alkalmazása szempontjából korábbinak számít-e, a megjelölésre vonatkozó bejelentés elsőbbségét kell figyelembe venni.
+(3) Annak megítélésekor, hogy a jog, a használat, illetve az eredetmegjelölés vagy földrajzi jelzés lajstromozására irányuló bejelentés az (1) és (2) bekezdés alkalmazása szempontjából korábbinak számít-e, a védjegybejelentés elsőbbségét kell figyelembe venni.
 
-6. § Ki van zárva a védjegyoltalomból a megjelölés, ha azt a képviselő, illetve az ügynök – a jogosult engedélye nélkül – saját nevében jelentette be lajstromozásra, kivéve, ha a képviselő vagy az ügynök igazolja, hogy eljárása helyénvaló volt.
+6. § A megjelölés nem részesülhet védjegyoltalomban, ha azt egy védjegy jogosultjának képviselője, illetve ügynöke – a jogosult engedélye nélkül – saját nevében jelentette be lajstromozásra, kivéve, ha a képviselő vagy az ügynök igazolja, hogy eljárása helyénvaló volt.
 
 ### Hozzájáruló nyilatkozat
 
-7. § (1) A 4. és 5. §-ok alapján nincs kizárva a védjegyoltalomból a megjelölés, ha annak lajstromozásához a korábbi akadályozó jog jogosultja hozzájárul.
+7. § (1) A megjelölés a 4. §, az 5. § (1) bekezdése és (2) bekezdés a) pontja alapján nincs kizárva a védjegyoltalomból, illetve a védjegy az e rendelkezésekben foglalt kizáró okok alapján nem törölhető, ha annak lajstromozásához a korábbi akadályozó jog jogosultja hozzájárul.
 
 (2) A hozzájárulás érvényességéhez a nyilatkozat közokiratba vagy teljes bizonyító erejű magánokiratba foglalása szükséges.
 
-(3)
+(3) A hozzájáruló nyilatkozat vissza nem vonható, és nem pótolható a bíróság ítéletével.
 
 ### A védjegyoltalomhoz való jog
 
@@ -105,7 +140,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 9. § (1) A védjegy jogi oltalma (a továbbiakban: védjegyoltalom) azt illeti meg, aki a megjelölést az ebben a törvényben előírt eljárás útján lajstromoztatja.
 
-(2) A védjegyre oltalmat szerezhet bármely természetes és jogi személy, valamint jogi személyiség nélküli gazdasági társaság, függetlenül attól, hogy folytat-e gazdasági tevékenységet.
+(2) A védjegyre oltalmat szerezhet bármely természetes vagy jogi személy, függetlenül attól, hogy folytat-e gazdasági tevékenységet.
 
 (3) Ha többen közösen kérik a megjelölés lajstromozását, a védjegyoltalmat közösen szerzik meg. Több igényjogosult esetén – ellenkező megjelölés hiányában – a védjegyoltalmi igény részarányát egyenlőnek kell tekinteni.
 
@@ -123,84 +158,116 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 12. § (1) A védjegyoltalom alapján a védjegyjogosultnak kizárólagos joga van a védjegy használatára.
 
-(2) A kizárólagos használati jog alapján a védjegyjogosult bárkivel szemben felléphet, aki engedélye nélkül gazdasági tevékenység körében használ
+(2) A védjegyjogosult a kizárólagos használati jog alapján – a védjegy bejelentési napját, illetve elsőbbségi napját megelőzően mások által szerzett jogok sérelme nélkül – bárkivel szemben felléphet, aki engedélye nélkül gazdasági tevékenység körében, árukkal vagy szolgáltatásokkal összefüggésben használ
 
 - a) a védjeggyel azonos megjelölést olyan árukkal, illetve szolgáltatásokkal kapcsolatban, amelyek azonosak a védjegy árujegyzékében szereplőkkel;
-- b) olyan megjelölést, amelyet a fogyasztók a védjeggyel összetéveszthetnek a megjelölés és a védjegy azonossága vagy hasonlósága, valamint az érintett áruk, illetve szolgáltatások azonossága vagy hasonlósága miatt; vagy
-- c) a védjeggyel azonos vagy ahhoz hasonló megjelölést a védjegy árujegyzékében szereplőkkel nem azonos vagy azokhoz nem hasonló árukkal, illetve szolgáltatásokkal kapcsolatban, feltéve, hogy a védjegy belföldön jóhírnevet élvez, és a megjelölés alapos ok nélkül történő használata sértené vagy tisztességtelenül kihasználná a védjegy megkülönböztető képességét vagy jóhírnevét.
+- b) olyan megjelölést, amelyet a fogyasztók a védjeggyel összetéveszthetnek a megjelölés és a védjegy azonossága vagy hasonlósága, valamint az érintett áruk, illetve szolgáltatások azonossága vagy hasonlósága miatt; ideértve azt az esetet is, amikor az összetéveszthetőség amiatt áll fenn, mert a fogyasztók a megjelölést a korábbi védjegyhez gondolati képzettársítás útján kapcsolhatják; vagy
+- c) a védjeggyel azonos vagy ahhoz hasonló megjelölést, függetlenül attól, hogy a védjegy árujegyzékében szereplő áruk vagy szolgáltatások azonosak vagy hasonlóak-e azokhoz az árukhoz vagy szolgáltatásokhoz, amelyekkel összefüggésben a megjelölést használják, feltéve, hogy a védjegy belföldön jóhírnevet élvez, és a megjelölés alapos ok nélkül történő használata a védjegy megkülönböztető képességét vagy hírnevét sértené vagy tisztességtelenül kihasználná.
 
-(3) A (2) bekezdésben szabályozott feltételek megvalósulása esetén tilos különösen
+(3) A (2) bekezdésben szabályozott feltételek megvalósulása esetén megtiltható különösen
 
 - a) a megjelölés elhelyezése az árun vagy csomagolásán;
-- b) a megjelölést hordozó áru forgalomba hozatala, eladásra való felkínálása, valamint forgalomba hozatal céljából történő raktáron tartása;
+- b) a megjelölést hordozó áru forgalomba hozatala, eladásra való felkínálása, valamint forgalomba hozatal vagy eladásra felkínálás céljából történő raktáron tartása;
 - c) szolgáltatás nyújtása vagy annak felajánlása a megjelölés alatt;
-- d) a megjelölést hordozó áruknak az országba történő behozatala vagy onnét történő kivitele;
-- e) a megjelölés használata az üzleti levelezésben vagy a reklámozásban.
+- d) a megjelölést hordozó áruknak az országba történő behozatala vagy onnan történő kivitele;
+- e) a megjelölés használata az üzleti iratokon vagy a reklámozásban;
+- f) a megjelölés kereskedelmi névként vagy vállalkozás neveként, illetve kereskedelmi név vagy vállalkozás neve részeként való használata;
+- g) a megjelölés összehasonlító reklámban való használata a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény rendelkezéseivel ellentétes módon.
+
+(4) A védjegyjogosult – a védjegy bejelentési napját, illetve elsőbbségi napját megelőzően mások által szerzett jogok sérelme nélkül – felléphet az ellen is, hogy harmadik felek gazdasági tevékenység körében harmadik országokból szabad forgalomba bocsátás nélkül olyan árut hozzanak be az ország területére, amelyen – ideértve csomagolását is – az engedélye nélkül szerepel az adott áru vonatkozásában lajstromozott védjeggyel megegyező védjegy, vagy olyan védjegy, amelyet az említett védjegytől lényeges elemeit tekintve nem lehet megkülönböztetni.
+
+(5) A védjegyjogosult (4) bekezdés szerinti joga megszűnik, ha a lajstromozott védjegy bitorlása tárgyában a szellemi tulajdonjogok vámhatósági érvényesítéséről és a 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. június 12-i 608/2013/EU európai parlamenti és tanácsi rendelettel összhangban indított eljárás során a nyilatkozattevő, illetve az áru birtokosa bizonyítja, hogy a védjegyjogosultnak az áru rendeltetési helye szerinti országban nincs joga megtiltani az adott áru forgalomba hozatalát.
+
+(6) Ha fennáll a veszélye annak, hogy az olyan csomagolást, címkéket, függőcímkéket, biztonsági vagy eredetiséget igazoló elemeket vagy eszközöket, illetve egyéb olyan eszközöket, amelyeken a védjegyet elhelyezték, árukkal vagy szolgáltatásokkal kapcsolatban úgy használják, hogy ez a használat sértené a védjegyjogosultnak a (2) és (3) bekezdés szerinti jogait, a védjegyjogosult – feltéve, hogy azokra gazdasági tevékenység körében kerül sor – felléphet a következő cselekményekkel szemben is:
+
+- a) a védjeggyel azonos vagy ahhoz hasonló megjelölés elhelyezése olyan csomagoláson, címkén, függőcímkén, biztonsági vagy eredetiséget igazoló elemen vagy eszközön, illetve egyéb olyan eszközön, amelyen a védjegy elhelyezhető;
+- b) bármely olyan csomagolás, címke, függőcímke, biztonsági vagy eredetiséget igazoló elem vagy eszköz, illetve bármely egyéb olyan eszköz eladásra való felkínálása, forgalomba hozatala vagy ilyen célú raktáron tartása, az országba történő behozatala vagy az onnan történő kivitele, amelyen a védjegyet elhelyezték.
+
+(7) A védjegyoltalom jogosultja a védjegyoltalomból eredő jogaira hivatkozással felléphet a 23. § (1) bekezdése szerinti használóval szemben, ha az megsérti a használati szerződésnek
+
+- a) az engedély időtartamára,
+- b) a védjegynek az engedély alapján használható, a lajstromozás által lefedett alakjára,
+- c) a használati engedéllyel érintett áruk vagy szolgáltatások körére,
+- d) a védjegyhasználat területi hatályára, vagy
+- e) a használó által gyártott áruk vagy nyújtott szolgáltatások minőségének biztosítására
+
+vonatkozó bármely feltételét.
 
 ### A védjegy megjelenítése kézikönyvben
 
-13. § Ha a védjegynek szótárban, lexikonban, enciklopédiában vagy más kézikönyvben való megjelenítése azt a benyomást kelti, hogy a védjegy az árujegyzékben szereplő áru vagy szolgáltatás fajtaneve, a kiadó a védjegyjogosult kérésére köteles – legkésőbb a következő kiadás alkalmával – feltüntetni, hogy a védjegyet lajstromozták és az oltalom alatt áll.
+13. § Ha a védjegynek szótárban, lexikonban, enciklopédiában vagy más kézikönyvben – nyomtatott vagy elektronikus formában – való megjelenítése azt a benyomást kelti, hogy a védjegy az árujegyzékben szereplő áru vagy szolgáltatás fajtaneve, a kiadó a védjegyjogosult kérésére köteles haladéktalanul – nyomtatott művek esetén legkésőbb a következő kiadás alkalmával – feltüntetni, hogy a védjegyet lajstromozták.
 
-### A képviselő és az ügynök jogosulatlanvédjegyhasználata
+### A képviselő vagy az ügynök által jogosulatlanul lajstromoztatott védjegy használata elleni fellépés
 
-14. § Ha a képviselő, illetve az ügynök – a jogosult engedélye nélkül – saját nevében lajstromoztatja a védjegyet, a jogosult felléphet a képviselő vagy az ügynök engedély nélküli védjegyhasználatával szemben, kivéve, ha a képviselő vagy az ügynök igazolja, hogy eljárása helyénvaló volt.
+14. § (1) Ha egy védjegy jogosultjának képviselője, illetve ügynöke a jogosult engedélye nélkül, saját nevében védjegybejelentést tesz vagy saját nevében lajstromoztatja a védjegyet, a jogosult felléphet az ügynök vagy a képviselő védjegyhasználatával szemben, és ehelyett vagy emellett kérheti a védjegyoltalmi igény vagy a védjegyoltalom saját részére történő átruházását is.
+
+(2) Az (1) bekezdés nem alkalmazható, ha a képviselő vagy az ügynök igazolja, hogy eljárása helyénvaló volt.
 
 ### A védjegyoltalom korlátai
 
-15. § (1) A védjegyoltalom alapján a védjegyjogosult nem tilthat el mást attól, hogy gazdasági tevékenysége körében – az üzleti tisztesség követelményeivel összhangban – használja
+15. § (1) A védjegyoltalom alapján a védjegyjogosult nem tilthat el mást attól, hogy gazdasági tevékenységének gyakorlása során, a tisztességes ipari és kereskedelmi gyakorlattal összhangban használja
 
 - a) saját nevét vagy címét;
-- b) az áru vagy a szolgáltatás fajtájára, minőségére, mennyiségére, rendeltetésére, értékére, földrajzi eredetére, előállítási, illetve teljesítési idejére vagy egyéb jellemzőjére vonatkozó jelzést;
-- c) a védjegyet, ha az szükséges az áru vagy a szolgáltatás rendeltetésének jelzésére, különösen tartozékok vagy alkatrészek esetében.
+- b) a megkülönböztetésre eredendően nem alkalmas, vagy az áru vagy a szolgáltatás fajtájára, minőségére, mennyiségére, rendeltetésére, értékére, földrajzi eredetére, előállítási, illetve teljesítési idejére vagy egyéb jellemzőjére vonatkozó megjelölést vagy jelzést;
+- c) a védjegyet a védjegyjogosult áruinak vagy szolgáltatásainak ekként történő azonosítása vagy azokra való hivatkozás céljából, így akkor is, ha a védjegy használata szükséges az áru vagy a szolgáltatás rendeltetésének jelzésére, különösen tartozékok vagy alkatrészek esetében.
 
-(2)
+(2) Az (1) bekezdés a) pontja alapján saját nevére vagy címére a védjegyjogosulttal szemben csak természetes személy hivatkozhat.
 
 ### A védjegyoltalom kimerülése
 
 16. § (1) A védjegyoltalom alapján a védjegyjogosult nem tilthatja meg a védjegy használatát olyan árukkal kapcsolatban, amelyeket ő hozott forgalomba, vagy amelyeket kifejezett hozzájárulásával hoztak forgalomba az Európai Gazdasági Térségben.
 
-(2) Az (1) bekezdésben foglalt rendelkezés nem alkalmazható, ha a védjegyjogosultnak jogos érdeke fűződik ahhoz, hogy az áruk további forgalmazását ellenezze, különösen akkor, ha az áru állagát, állapotát megváltoztatták, illetve károsították.
+(2) Az (1) bekezdésben foglalt rendelkezés nem alkalmazható, ha a védjegyjogosultnak jogos érdeke fűződik ahhoz, hogy az áruk további forgalmazását ellenezze, különösen akkor, ha az áru állagát, állapotát – az első forgalomba hozatalt követően – megváltoztatták, illetve károsították.
 
 ### Belenyugvás
 
-17. § (1) Ha a védjegyjogosult öt éven át megszakítás nélkül eltűrte egy későbbi védjegynek az országban történő használatát, noha tudomása volt e használatról, a továbbiakban nem léphet fel e későbbi védjegynek az országban történő használatával szemben, valamint korábbi védjegyére hivatkozva nem kérheti a későbbi védjegy törlését sem [33. § (2) bek. b) pont].
+17. § (1) Ha a 4. § (2) bekezdése szerinti korábbi védjegy jogosultja öt éven át megszakítás nélkül eltűrte egy későbbi védjegy belföldön történő használatát, noha tudomása volt e használatról, a továbbiakban nem léphet fel e későbbi védjegy használatával szemben [27/B. § (1) bek.], valamint korábbi védjegyére hivatkozva nem kérheti a későbbi védjegy törlését sem [33. § (2) bek. b) pont].
 
 (2) Az (1) bekezdésben foglalt rendelkezés csak azokra az árukra, illetve szolgáltatásokra alkalmazható, amelyekkel kapcsolatban a későbbi védjegyet ténylegesen használták.
 
 (3) Az (1) bekezdésben foglalt rendelkezés nem alkalmazható, ha a későbbi védjegyet rosszhiszeműen jelentették be lajstromozásra.
 
-(4) A későbbi védjegy jogosultja akkor sem léphet fel a korábbi védjegy használatával szemben, ha a későbbi védjegy használatát a korábbi védjegy jogosultja az (1) bekezdés alapján már nem kifogásolhatja.
+(4) A későbbi védjegy jogosultja akkor sem léphet fel a korábbi védjegy használatával szemben, ha a későbbi védjeggyel szemben a korábbi jogra az (1) bekezdés alapján már nem lehet hivatkozni.
 
-(5) Az (1)–(4) bekezdésekben foglalt rendelkezéseket megfelelően alkalmazni kell a korábbi jó hírű védjegyre, az országban korábban közismertté vált védjegyre, valamint az 5. § (1) bekezdésében és (2) bekezdésének a) pontjában említett korábbi jogokra is.
+(5) Az (1)–(4) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell az 5. § (1) bekezdés a)–b) pontjában és (2) bekezdés a) pontjában említett korábbi jogokra is.
 
 ### A védjegyhasználat elmulasztása
 
-18. § (1) Ha a védjegyjogosult a lajstromozástól számított öt éven belül nem kezdte meg belföldön a védjegy tényleges használatát az árujegyzékben szereplő árukkal és szolgáltatásokkal kapcsolatban, vagy ha az ilyen használatot öt éven át megszakítás nélkül elmulasztotta, a védjegy oltalmára alkalmazni kell az e törvényben előírt jogkövetkezményeket [4. § (3) bek., 5. § (2) bek. b) pont, 30. § d) pont, 33. § (2) bek. a) pont, 34. §, 61/E. §, 73. § (2) bek.], kivéve, ha a védjegyjogosult a használat elmaradását kellőképpen igazolja.
+18. § (1) Ha a védjegyjogosult a lajstromozás napjától számított öt éven belül nem kezdte meg belföldön a védjegy tényleges használatát az árujegyzékben szereplő árukkal és szolgáltatásokkal kapcsolatban, vagy ha az ilyen használatot öt éven át megszakítás nélkül elmulasztotta, a védjegyre alkalmazni kell az e törvényben előírt jogkövetkezményeket [4. § (3) bek., 27/A. §, 30. § (1) bekezdés d) pont, 33. § (2) bekezdés a) pont, 34. §, 61/E. §, 73. § (2) bek.], kivéve, ha a védjegyjogosult a használat elmaradását kellőképpen igazolja.
 
-(2) Az (1) bekezdés alkalmazásában a védjegy tényleges belföldi használatának minősülnek a következők is:
+(2) Az (1) bekezdés alkalmazásában a lajstromozás napjának a különleges gyorsított eljárás [64/A. § (7) bek.] során lajstromozott védjegy tekintetében azt a napot kell tekinteni,
 
-- a) a védjegy olyan alakban történő használata, amely a lajstromozott alaktól csak a megkülönböztető képességet nem érintő elemekben tér el;
+- a) amely a 61/B. § (1) bekezdése szerinti időszak lejártát követi, vagy
+- b) – felszólalás esetén – amelyen a felszólalást jogerősen elbíráló határozatot meghozták.
+
+(3) Az (1) bekezdés alkalmazásában a lajstromozás napjának a Magyarországra kiterjedő hatállyal lajstromozott nemzetközi védjegy tekintetében – esettől függően – a 76/P. § (5), (5c), (5d) vagy (5e) bekezdésében meghatározott lajstromozási napot kell tekinteni.
+
+(4) Az (1) bekezdés alkalmazásában a védjegy tényleges belföldi használatának minősül a következő:
+
+- a) a védjegy olyan alakban történő használata, amely a lajstromozott alaktól csak a megkülönböztető képességet nem érintő elemekben tér el, függetlenül attól, hogy a védjegyet a védjegyjogosult javára a használt alakban is lajstromozták-e;
 - b) a védjegy elhelyezése a belföldön lévő árun vagy annak csomagolásán kizárólag az országból történő kivitel céljából.
 
-(3) A védjegynek a védjegyjogosult engedélyével történő használatát az (1) bekezdés alkalmazásában a védjegyjogosult részéről történő használatnak kell tekinteni.
+(5) A védjegynek a védjegyjogosult engedélyével történő használatát e § alkalmazásában a védjegyjogosult részéről történő használatnak kell tekinteni.
+
+(6) Európai uniós védjegy esetében az ennek a §-nak megfelelő használaton az európai uniós védjegyrendelet 18. cikkében foglalt előírásoknak megfelelő használatot kell érteni.
 
 ### III. Fejezet — A VÉDJEGY ÉS OLTALMA A VAGYONI FORGALOMBAN
 
 ### Jogutódlás
 
-19. § (1) A védjegyhez kapcsolódó és a védjegyoltalomból eredő jogok átszállhatnak és átruházhatók.
+19. § (1) A védjegyhez kapcsolódó és a védjegybejelentésből, illetve a védjegyoltalomból eredő jogok forgalomképes vagyoni értékű jogot képeznek.
 
-(2) A jogi személy és a jogi személyiség nélküli gazdasági társaság jogutóda a védjegyet is megszerzi, kivéve, ha a felek eltérően rendelkeznek, vagy a körülményekből nyilvánvalóan más következik.
+(2) A jogi személy jogutóda a védjegyet is megszerzi, kivéve, ha a felek eltérően rendelkeznek, vagy a körülményekből nyilvánvalóan más következik.
 
 (3) A védjegyoltalom szerződéssel átruházható. A védjegyoltalom az árujegyzék valamely részére vonatkozóan is átruházható.
 
 (4) A védjegyoltalom átruházására irányuló szerződés semmis, ha az átruházás a fogyasztók megtévesztését eredményezheti.
 
-(5) Ha a képviselő, illetve az ügynök – a jogosult engedélye nélkül – saját nevében védjegybejelentést tesz vagy saját nevében lajstromoztatja a védjegyet, a jogosult követelheti a védjegyoltalmi igény vagy a védjegyoltalom átruházását, kivéve, ha a képviselő vagy az ügynök igazolja, hogy az eljárása helyénvaló volt.
+(5)
 
-### Megterhelés
+### Megterhelés és végrehajtás alá vonhatóság
 
-20. § A védjegyhez kapcsolódó és a védjegyoltalomból eredő jogok megterhelhetők. Jelzálogjog alapításához a zálogszerződés írásba foglalása és a jelzálogjognak a védjegylajstromba való bejegyzése szükséges.
+20. § A védjegyhez kapcsolódó és a védjegybejelentésből, illetve a védjegyoltalomból eredő jogok megterhelhetők és végrehajtás alá vonhatók. Jelzálogjog alapításához a zálogszerződés írásba foglalása és a jelzálogjognak a védjegylajstromba való bejegyzése szükséges.
 
 ### Közös védjegyoltalmi igény és közös védjegyoltalom
 
@@ -219,8 +286,6 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 (7) A közös védjegyoltalommal kapcsolatos költségek a jogosultakat egymás közötti viszonyukban részesedési hányaduk arányában terhelik. Ha a védjegyjogosultak egyike a rá eső költségeket felhívás ellenére sem fizeti meg, a költségeket viselő jogosult a mulasztó hányadának átruházását igényelheti.
 
 (8) A közös védjegyoltalomra vonatkozó szabályokat megfelelően alkalmazni kell a közös védjegyoltalmi igényre is.
-
-### A Polgári Törvénykönyv rendelkezéseinek alkalmazása
 
 22. §
 
@@ -297,15 +362,36 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (11) A bíróság a védjegyjogosult kérelmére elrendelheti a határozatnak a bitorló költségére történő nyilvánosságra hozatalát. A nyilvánosságra hozatal módjáról a bíróság dönt. Nyilvánosságra hozatalon kell érteni különösen az országos napilapban, illetve az internet útján történő közzétételt.
 
+### A használat hiánya mint védekezés védjegybitorlási perben
+
+27/A. § (1) A védjegyjogosult csak akkor léphet fel a megjelölés használata ellen, ha a védjegybitorlási per megindításakor a 34. § alapján nem lenne megállapítható a védjegyoltalom megszűnése.
+
+(2) Az alperes kérelmére a védjegyjogosultat terheli annak bizonyítása, hogy
+
+- a) a keresetlevél benyújtását megelőző ötéves időszak során a 18. §-ban foglaltaknak megfelelően ténylegesen használta a védjegyet az árujegyzékében szereplő, a keresetben hivatkozott árukkal vagy szolgáltatásokkal kapcsolatban; vagy
+- b) a használat elmulasztására alapos oka volt,
+
+feltéve, hogy a keresetlevél benyújtásának napján a 18. § (1)–(3) bekezdésében meghatározott ötéves időszak már eltelt.
+
+### A későbbi védjegy jogosultjának továbbhasználati joga mint védekezés a védjegybitorlási perben
+
+27/B. § (1) A védjegyjogosult nem léphet fel a későbbi védjegy használata ellen, ha a későbbi védjegy a 33. § (2) vagy (2a) bekezdése vagy a 73. § (3) bekezdése alapján nem lenne törölhető.
+
+(2) A védjegyjogosult nem léphet fel a későbbi európai uniós védjegy használata ellen, ha a későbbi védjegy az európai uniós védjegyrendelet 60. cikk (1), (3) vagy (4) bekezdése, 61. cikk (1) vagy (2) bekezdése vagy 64. cikk (2) vagy (3) bekezdése értelmében nem lenne törölhető.
+
+(3) Ha a védjegyjogosult az 27/B. § (1) és 27/B. § (2) bekezdés értelmében nem léphet fel a későbbi védjegy használata ellen, a későbbi védjegy jogosultja akkor sem követelheti a korábbi védjegy használatától való eltiltást, ha a korábbi jogra a későbbi védjeggyel szemben már nem lehet hivatkozni.
+
 ### A védjegybitorlás vámjogi következményei
 
-28. § Bitorlás esetén a védjegyjogosult – külön jogszabály rendelkezései szerint – követelheti a vámhatóság intézkedését a bitorlással érintett vámáruk forgalomba kerülésének megakadályozására.
+28. § Bitorlás esetén a védjegyjogosult – a szellemi tulajdonjogokat sértő áruk elleni vámhatósági intézkedésekről szóló jogszabályok rendelkezései szerint – követelheti a vámhatóság intézkedését a bitorlással érintett vámáruk forgalomba kerülésének megakadályozására.
 
 ### A bejelentő és a védjegyet licenciaszerződés alapján használó jogai védjegybitorlás esetén
 
 29. § (1) Védjegybitorlás miatt a bejelentő is felléphet, az eljárást azonban fel kell függeszteni mindaddig, amíg a védjegy lajstromozásáról jogerősen nem döntöttek.
 
-(2) A védjegylajstromba bejegyzett használó saját nevében felléphet a védjegybitorlással szemben, ha a védjegyjogosultat előzetesen felhívta, hogy a jogsértés abbahagyása iránt tegye meg a szükséges intézkedéseket, és a védjegyjogosult a felhívástól számított harminc napon belül nem intézkedett.
+(2) Védjegybitorlás miatt a használó saját nevében csak a védjegyjogosult hozzájárulásával indíthat pert, kivéve, ha őt a perindításra a használati szerződés feljogosította. Kizárólagos használati engedély esetén azonban a használó saját nevében, a védjegyjogosult hozzájárulása nélkül is pert indíthat a védjegybitorlóval szemben, ha a védjegyjogosultat előzetesen a per megindítására felhívta, és a védjegyjogosult a felhívástól számított harminc napon belül nem indított védjegybitorlási pert.
+
+(3) A használó a neki okozott kár megtérítése céljából a védjegyjogosult által indított bitorlási perbe a védjegyjogosult pertársaként beléphet. A perbelépés határidejére a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 52. § (2) bekezdésének a) pontját, a pertársak viszonyára pedig a Pp. 38. § (3) bekezdését és 39. §-át kell megfelelően alkalmazni.
 
 ### VI. Fejezet — A VÉDJEGYOLTALOM MEGSZŰNÉSE
 
@@ -315,12 +401,14 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 - a) az oltalmi idő megújítás nélkül lejárt (11. §, 31. §), az oltalmi idő lejártát követő napon,
 - b) a védjegyjogosult az oltalomról lemondott (32. §), a lemondás beérkeztét követő napon, illetve a lemondó által megjelölt korábbi időpontban,
-- c) a védjegyet törölték (33. §), keletkezésére – a bejelentés napjára – visszaható hatállyal,
-- d) a védjegyjogosult a védjegy tényleges használatát elmulasztotta (18. §, 34. §), a megszűnés megállapítására irányuló eljárás megindításának napjára, vagy – ha ez korábbi – az ütköző későbbi védjegybejelentés elsőbbségének napjára visszaható hatállyal,
-- e) a védjegy elveszítette megkülönböztető képességét vagy megtévesztővé vált (35. §), a megszűnés megállapítására irányuló eljárás megindításának napjára visszaható hatállyal, vagy – ha ez korábbi – az ütköző későbbi védjegybejelentés elsőbbségének napjára visszaható hatállyal,
-- f) a védjegyjogosult jogi személy vagy jogi személyiség nélküli gazdasági társaság [9. § (2) bek.] jogutód nélkül megszűnt, e megszűnés napjára visszaható hatállyal.
+- c) a védjegyet törölték (33. §), a bejelentés napjára visszaható hatállyal,
+- d) a védjegyjogosult a védjegy tényleges használatát elmulasztotta (18. §, 34. §), a megszűnés megállapítására irányuló eljárás megindításának napjára visszaható hatállyal,
+- e) a védjegy elveszítette megkülönböztető képességét vagy megtévesztővé vált (35. §), a megszűnés megállapítására irányuló eljárás megindításának napjára visszaható hatállyal.
+- f)
 
 (2) Az (1) bekezdés d) és e) pontja esetében a felek bármelyikének kérelmére a megszűnés olyan még korábbi időpontra visszaható hatállyal is megállapítható, amelyen a megszűnés megállapítására irányuló kérelem benyújtására okot adó körülmény bekövetkezett, feltéve, hogy a megszűnés megállapításának feltételei mind a megjelölt korábbi időpontban, mind a megszűnés megállapítására irányuló kérelem benyújtásának időpontjában fennálltak.
+
+(3) A (2) bekezdés alkalmazásában a megszűnés megállapítására irányuló kérelem benyújtására okot adó körülmény bekövetkezése időpontjának – az ellenkező bizonyításáig – a kérelmező későbbi, ütköző védjegybejelentésének elsőbbségi időpontját kell tekinteni, feltéve, hogy a kérelmező tett ilyen védjegybejelentést.
 
 ### Részleges megszűnés az oltalmi idő lejárta miatt
 
@@ -346,8 +434,16 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (2) A védjegy nem törölhető, ha
 
-- a) olyan korábbi védjeggyel [4. § (2) bek.] ütközik, amelynek használata a törlési kérelem benyújtásakor nem felelt meg a 18. § előírásainak; vagy
+- a) olyan korábbi védjeggyel [4. § (2) bek.] ütközik, amelynek használata a törlési kérelem benyújtásakor nem felelt meg a 18. § előírásainak, vagy amelynek oltalma a törlési kérelem benyújtásakor már nem áll fenn; vagy
 - b) olyan korábbi védjeggyel, nem lajstromozott megjelöléssel vagy egyéb joggal ütközik, amelynek jogosultja tudott a későbbi védjegy lajstromozásáról, és egymást követő öt éven át tűrte annak használatát, kivéve, ha a későbbi védjegy jogosultja rosszhiszeműen járt el.
+
+(2a) A korábbi védjegyre alapított törlési kérelem akkor sem teljesíthető, ha az alábbi okok bármelyike miatt a későbbi védjegy bejelentésének vagy elsőbbségének napján nem lett volna teljesíthető:
+
+- a) a korábbi védjegy, amely a 2. § (2) bekezdés a)–c) pontja alapján törölhető lett volna, még nem szerzett megkülönböztető képességet a 2. § (3) bekezdése szerint;
+- b) a törlési kérelem a 4. § (1) bekezdés b) pontján alapul, és a korábbi védjegy megkülönböztető képessége még nem volt elegendő annak alátámasztására, hogy a 4. § (1) bekezdés b) pontjának értelmében vett összetéveszthetőség fennáll;
+- c) a törlési kérelem a 4. § (1) bekezdés c) pontján alapul, és a korábbi védjegy még nem tett szert a 4. § (1) bekezdés c) pontja szerinti jóhírnévre.
+
+(2b) A 2. § (2) bekezdés a)–c) pontja alapján nem törölhető a védjegy, ha használata révén a törlésre irányuló kérelem benyújtásának napját megelőzően megkülönböztető képességet szerzett.
 
 (3) Ha a védjegy törlésének feltételei csak az árujegyzékben meghatározott áruk, illetve szolgáltatások egy része tekintetében állnak fenn, a védjegyoltalmat megfelelően korlátozni kell.
 
@@ -357,7 +453,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 34. § (1) A védjegyoltalom a használat hiánya miatt teljeskörűen vagy az árujegyzékben meghatározott egyes áruk vagy szolgáltatások tekintetében részlegesen szűnik meg, attól függően, hogy a védjegyhasználat elmulasztása az árujegyzék egészét vagy csak az abban meghatározott áruk vagy szolgáltatások egy részét érinti.
 
-(2) A védjegyoltalomnak a használat hiánya miatti megszűnése nem állapítható meg, ha a 18. § (1) bekezdésében meghatározott időtartam elteltét követően, de a használat hiánya miatti megszűnés megállapítása iránti kérelem benyújtását megelőzően megkezdik, illetve folytatják a tényleges védjegyhasználatot. E rendelkezés nem alkalmazható, ha a jogosult a tényleges védjegyhasználatot a kérelem benyújtását megelőző három hónapban csupán azt követően kezdi meg, illetve folytatja, hogy értesül arról: a használat hiánya miatt a megszűnés megállapítását fogják kérni.
+(2) A védjegyoltalomnak a használat hiánya miatti megszűnése nem állapítható meg, ha a 18. § (1)–(3) bekezdésében meghatározott időtartam elteltét követően, de a használat hiánya miatti megszűnés megállapítása iránti kérelem benyújtását megelőzően megkezdik, illetve folytatják a tényleges védjegyhasználatot. E rendelkezés nem alkalmazható, ha a védjegyjogosult a tényleges védjegyhasználatot a kérelem benyújtását megelőző – de legkorábban a használat elmulasztásának ötéves időtartama lejártakor kezdődő – három hónapos időszakban csupán azt követően kezdi meg, illetve folytatja, hogy értesül arról, hogy a használat hiánya miatt a megszűnés megállapítását kérhetik.
 
 (3) A használat hiánya miatti megszűnés megállapítására irányuló kérelmet elutasító jogerős határozat kizárja, hogy azonos ténybeli alapon ugyanazzal a védjeggyel kapcsolatban bárki újabb eljárást indítson a használat hiánya miatti megszűnés megállapítása iránt.
 
@@ -365,16 +461,14 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 35. § (1) A védjegyoltalom megszűnik, ha
 
-- a) a védjegyjogosult magatartása miatt a megjelölés a gazdasági tevékenység körében azoknak az áruknak vagy szolgáltatásoknak a szokásos nevévé vált, amelyekre lajstromozták; vagy
-- b) a védjegy – használata következtében – megtévesztővé vált, különösen a áruk vagy a szolgáltatások jellegét, minőségét vagy földrajzi származását illetően.
+- a) a megjelölés a védjegyjogosult magatartása vagy mulasztása következtében azoknak az áruknak vagy szolgáltatásoknak az üzleti forgalomban szokásos nevévé vált, amelyekre lajstromozták; vagy
+- b) a védjegy – a védjegyjogosult általi vagy a védjegyjogosult engedélyével történő használat következtében – megtévesztővé vált, különösen az áruk vagy a szolgáltatások jellegét, minőségét vagy földrajzi származását illetően.
 
 (2) A védjegyoltalom a megjelölés megkülönböztető képességének elvesztése vagy megtévesztővé válása miatt teljeskörűen vagy az árujegyzékben meghatározott egyes áruk, illetve szolgáltatások tekintetében részlegesen szűnik meg, attól függően, hogy a megszűnési ok az árujegyzék egészét vagy csak az áruk, illetve szolgáltatások egy részét érinti.
 
 (3) A megjelölés megkülönböztető képességének elvesztése vagy megtévesztővé válása miatti megszűnés megállapítására irányuló kérelmet elutasító jogerős határozat kizárja, hogy azonos ténybeli alapon ugyanazzal a védjeggyel kapcsolatban bárki újabb eljárást indítson a védjegyoltalom megszűnésének megállapítása iránt.
 
-### Megszűnés a védjegyjogosult jogutód nélkülimegszűnése miatt
-
-35/A. § A védjegyjogosult jogutód nélküli megszűnése miatt bekövetkező megszűnés megállapítására irányuló kérelmet elutasító jogerős határozat kizárja, hogy azonos ténybeli alapon ugyanazzal a védjeggyel kapcsolatban bárki újabb eljárást indítson a védjegyoltalom megszűnésének megállapítása iránt.
+35/A. §
 
 ### A díjak visszakövetelése
 
@@ -388,7 +482,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - b) a használati szerződésre; valamint
 - c) a védjegyekkel összefüggő egyéb személyi és vagyoni viszonyokban.
 
-(2) A 7. § szerinti hozzájáruló nyilatkozat a Ptk.-nak a szerződés tévedés, megtévesztés, illetve fenyegetés miatti megtámadására vonatkozó rendelkezései szerint támadható meg; a nyilatkozat vissza nem vonható, továbbá a bíróság ítéletével sem pótolható.
+(2)
 
 ## MÁSODIK RÉSZ — A SZELLEMI TULAJDON NEMZETI HIVATALÁNAK ELJÁRÁSA VÉDJEGYÜGYEKBEN
 
@@ -406,7 +500,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - f) a védjegybejelentések és a védjegyek nyilvántartása,
 - g) a hatósági tájékoztatás.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az európai uniós védjegyrendszerre (X/A. fejezet) és a védjegyek nemzetközi lajstromozására (X/B–X/D. fejezetek) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
+(2) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartoznak az európai uniós védjegyrendszerre (X/A. fejezet) és a védjegyek nemzetközi lajstromozására (X/B–X/C. fejezetek) vonatkozó rendelkezések alkalmazásából eredő ügyek is.
 
 ### A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
@@ -416,7 +510,13 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (2a) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye; tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
 
-(3) Védjegyügyekben nem alkalmazandó az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 62. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 97. §-a, 127. § (2) bekezdése és 130. §-a.
+(2b) E törvény eltérő rendelkezése hiányában a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyekben a kérelemnek tartalmaznia kell
+
+- a) a természetes személy kérelmező és – képviselet esetén – képviselő nevét és lakcímét, továbbá – elektronikus úton történő kapcsolattartás esetén – az ilyen módon kapcsolatot tartó természetes személy születési helyét és idejét, valamint anyja nevét;
+- b) a nem természetes személy kérelmező és – képviselet esetén – képviselő nevét, székhelyét, továbbá elektronikus úton történő kapcsolattartás esetén adószámát; továbbá
+- c) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy képviselője aláírását.
+
+(3) Védjegyügyekben nem alkalmazandó az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 48. § (1)–(4) bekezdése, 62. § (1) bekezdése, 74. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 94. § (2) bekezdése, 97. §-a, 127. § (2) bekezdése és 130. §-a.
 
 (4) Védjegyügyekben nem alkalmazandók az Ákr. jogutódlásra vonatkozó rendelkezései, sommás eljárásnak nincs helye és a kérelem a kormányablaknál nem terjeszthető elő.
 
@@ -426,7 +526,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 39. § (1)
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a törlési eljárásban és a megszűnés megállapítására irányuló eljárásban, kivéve, ha az utóbbit a védjegyjogosult jogutód nélküli megszűnése miatt kérték. Ha a védjegy lajstromozására irányuló eljárásban a megjelölés lajstromozásával szemben benyújtott felszólalás tárgyában tárgyalást kell tartani, a Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hozza meg határozatát. A tanács szótöbbséggel dönt.
+(2) A Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hoz határozatot a törlési eljárásban és a megszűnés megállapítására irányuló eljárásban. Ha a védjegy lajstromozására irányuló eljárásban a megjelölés lajstromozásával szemben benyújtott felszólalás tárgyában tárgyalást kell tartani, a Szellemi Tulajdon Nemzeti Hivatala háromtagú tanácsban jár el a tárgyaláson és hozza meg határozatát. A tanács szótöbbséggel dönt.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala döntése a kézbesítéssel emelkedik jogerőre, ha nem kérik annak megváltoztatását.
 
@@ -449,9 +549,9 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala döntését csak olyan tényekre és bizonyítékokra alapozhatja, amelyekkel kapcsolatban az ügyfélnek módjában állt nyilatkozatot tenni; figyelmen kívül hagyhatja azonban azokat a nyilatkozatokat vagy bizonyítékokat, amelyeket az ügyfél nem kellő időben terjesztett elő.
 
-(3a) A (2) bekezdésben felsorolt eljárásokban az ügyfeleknek beadványaikat eggyel több példányban kell benyújtaniuk a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány ellenérdekű fél az eljárásban részt vesz; ha több félnek közös képviselője van, részükre együttesen egy példányt kell számításba venni. A beadvány mellékleteinek egy-egy másolatát csatolni kell a beadvány többi példányához is. Ha az ügyfél a beadványát vagy annak mellékleteit az előírtnál kevesebb példányban nyújtotta be, a (4) bekezdés szerinti hiánypótlás elmaradása esetén a felszólalást, a törlési kérelmet és a megszűnés megállapítására irányuló kérelmet visszavontnak kell tekinteni, a bejelentő vagy a védjegyjogosult nyilatkozatát pedig be nem nyújtottnak kell tekinteni.
+(3a) A (2) bekezdésben felsorolt eljárásokban az ügyfeleknek beadványaikat és azok mellékleteit elektronikus kapcsolattartás esetén egy példányban, egyéb esetben eggyel több példányban kell benyújtaniuk a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány ellenérdekű fél az eljárásban részt vesz; ha több félnek közös képviselője van, részükre együttesen egy példányt kell számításba venni. Ha az ügyfél a beadványát vagy annak mellékleteit az előírtnál kevesebb példányban nyújtotta be, a (4) bekezdés szerinti hiánypótlás elmaradása esetén a felszólalást, a törlési kérelmet és a megszűnés megállapítására irányuló kérelmet visszavontnak kell tekinteni, a bejelentő vagy a védjegyjogosult nyilatkozatát pedig be nem nyújtottnak kell tekinteni.
 
-(4) A védjegyügyekben előterjesztett beadványokkal kapcsolatos hiányok pótlására – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – az ügyfelet fel kell hívni, illetve figyelmeztetni kell.
+(4) Ha a védjegyügyekben előterjesztett kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet a beadvánnyal kapcsolatos hiányok pótlására vagy nyilatkozattételre kell felhívni a mulasztás jogkövetkezményeire történő figyelmeztetés mellett. Ha a kérelem a hiánypótlás, illetve a nyilatkozat ellenére sem felel meg a vizsgált követelményeknek, és e törvény ehhez eltérő jogkövetkezményt nem fűz, a kérelmet el kell utasítani. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet – ha e törvény ehhez eltérő jogkövetkezményt nem fűz – visszavontnak kell tekinteni.
 
 (5)
 
@@ -479,7 +579,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 - a) az elsőbbségi nyilatkozat előterjesztésére előírt határidő [53. § (2) bek.] elmulasztása esetén;
 - b) az uniós, illetve a kiállítási elsőbbségi igény érvényesítésére megszabott hat hónapos határidő elmulasztása esetén;
-- c) a felszólalás benyújtására előírt határidő [61/B. § (1) és (2) bek., illetve 76/P. § (3) bek.] elmulasztása esetén;
+- c) a felszólalás benyújtására előírt határidő [61/B. § (1) bek., illetve 76/P. § (3) bek.] elmulasztása esetén;
 - d) a gyorsított eljárásra vonatkozó kérelem előterjesztésére megszabott határidő [64/A. § (1) bek.] elmulasztása esetén.
 
 ### Az eljárás felfüggesztése
@@ -572,7 +672,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 46/C. § (1) Védjegyügyben költségmentesség nem engedélyezhető.
 
-(2) Az e törvényben szabályozott díjfizetési kötelezettségeken túlmenően védjegyügyben külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni – a külön jogszabályban megállapított részletes szabályok szerint – a következő kérelmekért is:
+(2) Az e törvényben szabályozott díjfizetési kötelezettségeken túlmenően védjegyügyben iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni – a az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban megállapított részletes szabályok szerint – a következő kérelmekért is:
 
 - a) a módosítási, a határidő-hosszabbítási és az igazolási kérelemért;
 - b) a jogutódlás és a használati engedély tárgyában a tudomásulvételre irányuló kérelemért, a jelzálogjog tárgyában az alapításra irányuló kérelemért.
@@ -603,9 +703,11 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - h) az elsőbbséget,
 - i) a lajstromozásról szóló határozat keltét,
 - j) a védjegy megújítását,
-- k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását, és
+- k) a védjegyoltalom megszűnését, annak jogcímét és időpontját, valamint a védjegyoltalom korlátozását,
 - l) a használati engedélyeket,
-- m) azt, ha a védjegyoltalmi igény vagy a védjegyoltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
+- m) azt, ha a védjegyoltalmi igény vagy a védjegyoltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak,
+- n) a védjegyoltalomra alapított jelzálogjogot és a végrehajtás alá vonás vagy foglalás tényét, valamint
+- o) a 18. § (1) bekezdésében meghatározott ötéves időszak 18. § (1)–(3) bekezdései szerint meghatározott kezdő napját.
 
 (3) A védjegylajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a védjegylajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A védjegylajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
 
@@ -623,7 +725,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (3a) Nem teljesíthető a jogutódlás tudomásulvétele iránti kérelem abban az esetben, ha a védjegyoltalmi igényt vagy a védjegyoltalomból eredő jogokat olyan bizalmi vagyonkezelési szerződés alapján ruházták át, amelyet nem bizalmi vagyonkezelő vállalkozással mint vagyonkezelővel kötöttek, és a kérelemhez nem mellékelték a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló törvényben meghatározott bejelentési bizonyítványt is.
 
-(4) Ha a kérelemnek vagy mellékleteinek pótolható hiányosságai vannak, az ügyfelet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A kérelmet el kell utasítani, ha a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket. Ha az ügyfél a felhívásra a kitűzött határidőben nem válaszol, a kérelmet visszavontnak kell tekinteni.
+(4)
 
 ### Hatósági tájékoztatás
 
@@ -635,7 +737,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - d) a védjegyoltalom megszűnését, annak jogcímét és időpontját;
 - e) a védjegyoltalommal összefüggő jogoknak a védjegylajstromba bejegyzett változásait.
 
-49/A. § A Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában kell közölni a nemzetközi védjegybejelentésekkel kapcsolatos – a X/B–X/D. fejezetekben előírt – hatósági tájékoztatásokat is.
+49/A. § A Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában kell közölni a nemzetközi védjegybejelentésekkel kapcsolatos – az X/B–X/C. fejezetekben előírt – hatósági tájékoztatásokat is.
 
 ### IX. Fejezet — A VÉDJEGY LAJSTROMOZÁSÁRA IRÁNYULÓ ELJÁRÁS
 
@@ -645,11 +747,18 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (2) A védjegybejelentésnek bejelentési kérelmet, megjelölést, árujegyzéket, továbbá – a szükséghez képest – egyéb mellékletet kell tartalmaznia.
 
-(3) A védjegybejelentést a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+(3) A 38. § (2b) bekezdésétől eltérően a védjegybejelentési kérelemnek tartalmaznia kell a bejelentő nevét és lakcímét vagy székhelyét, képviselet esetén a bejelentő képviselőjének nevét és lakcímét vagy székhelyét, továbbá – nem elektronikus úton történő kapcsolattartás esetén – a kérelmező vagy képviselője aláírását.
 
-(4) A védjegybejelentésért külön jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
+(3a) Ha a bejelentő vagy képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a védjegybejelentési kérelemnek a (3) bekezdésben meghatározott adatokon túl tartalmaznia kell
 
-(5) Ha a bejelentés árujegyzéke idegen nyelven készült, a magyar nyelvű árujegyzéket a bejelentés napjától számított négy hónapon belül kell benyújtani.
+- a) a természetes személy bejelentő, illetve képviselő születési helyét és idejét, valamint anyja nevét,
+- b) a nem természetes személy bejelentő, illetve képviselő adószámát.
+
+(3b) A védjegybejelentést egyebekben a védjegybejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
+
+(4) A védjegybejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő egy hónapon belül kell megfizetni.
+
+(5) Ha a bejelentés árujegyzéke idegen nyelven készült, a magyar nyelvű árujegyzéket a bejelentés napjától számított két hónapon belül kell benyújtani.
 
 (6) A bejelentő a lajstromozásig – a 32. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a védjegybejelentést.
 
@@ -660,8 +769,9 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 51. § (1) A védjegybejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 - a) utalást a védjegyoltalom iránti igényre,
-- b) a bejelentő azonosítására alkalmas adatokat,
-- c) a megjelölést és az árujegyzéket, függetlenül attól, hogy ez az árujegyzék megfelel-e az egyéb követelményeknek.
+- b) a bejelentő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, képviselet esetén a képviselő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, vagy a bejelentővel való kapcsolatfelvételt lehetővé tevő más adatot,
+- c) a megjelölés olyan ábrázolását, amely kielégíti az 1. § (1) bekezdés b) pontjában foglalt követelményeket, és
+- d) az 52. § (2) bekezdése szerinti árujegyzéket, függetlenül attól, hogy ez az árujegyzék megfelel-e az egyéb követelményeknek.
 
 (2) A bejelentési nap elismeréséhez a megjelölés és az árujegyzék benyújtása helyett elsőbbségi iratra is elegendő utalni.
 
@@ -671,7 +781,15 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (2) Az árujegyzék azoknak az áruknak, illetve szolgáltatásoknak a felsorolása, amelyekkel kapcsolatban a megjelölésre a védjegyoltalmat igénylik.
 
-(3) Az árujegyzékben az árukat, illetve a szolgáltatásokat a gyári vagy kereskedelmi védjegyekkel ellátható termékek és szolgáltatások nemzetközi osztályozására vonatkozó Nizzai Megállapodás szerinti osztályok feltüntetésével, és – lehetőség szerint – az abban szereplő elnevezések használatával kell felsorolni.
+(3) A védjegybejelentésben az árujegyzékben szereplő árukat és szolgáltatásokat a gyári vagy kereskedelmi védjegyekkel ellátható termékek és szolgáltatások nemzetközi osztályozására vonatkozó Nizzai Megállapodás által létrehozott osztályozási rendszerrel (a továbbiakban: nizzai osztályozás) összhangban kell osztályozni.
+
+(4) A védjegybejelentésben az árukat és szolgáltatásokat kellően egyértelműen és pontosan kell meghatározni annak érdekében, hogy a jogalkalmazó szervek és a gazdasági élet szereplői önmagában az árujegyzék alapján képesek legyenek meghatározni az igényelt védjegyoltalom terjedelmét.
+
+(5) A nizzai osztályozás fejezetcímeiben található általános fogalmak vagy más általános kifejezések akkor használhatók, ha azok megfelelnek a (4) bekezdés szerinti egyértelműség és pontosság követelményének.
+
+(6) Az általános kifejezéseket – beleértve a nizzai osztályozás fejezetcímeiben szereplő általános fogalmakat – úgy kell értelmezni, hogy azokba a kifejezés szó szerinti jelentése által egyértelműen jelölt áruk és szolgáltatások tartoznak.
+
+(7) Az áruk és szolgáltatások nem minősülnek egymáshoz hasonlónak, illetve egymástól eltérőnek kizárólag azon az alapon, hogy a nizzai osztályozás azonos, illetve eltérő osztályában szerepelnek.
 
 ### Az elsőbbség
 
@@ -726,7 +844,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Alaki vizsgálat
 
-59. § (1) Ha a védjegybejelentés megfelel az 55. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e az 50. § (2) és (3) bekezdésében meghatározott alaki követelményeket, továbbá, hogy a megjelölés egységes-e [52. § (1) bek.].
+59. § (1) Ha a védjegybejelentés megfelel az 55. § alapján vizsgált feltételeknek, a Szellemi Tulajdon Nemzeti Hivatala megvizsgálja a bejelentést abból a szempontból, hogy az kielégíti-e az 50. § (2)–(3b) bekezdésében meghatározott alaki követelményeket, valamint a megjelölés egységére és az árujegyzék meghatározására vonatkozó, 52. §-ban foglalt követelményeket.
 
 (2) Ha a bejelentés nem felel meg az (1) bekezdés alapján vizsgált követelményeknek, a bejelentőt fel kell hívni a hiányok pótlására, illetve a bejelentés megosztására.
 
@@ -748,7 +866,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 60/A. § (1) A bejelentő, a védjegy jogosultja és a védjegylajstromba bejegyzett használója kérheti, hogy a Szellemi Tulajdon Nemzeti Hivatala a kutatási jelentés másolatának megküldésével értesítse arról a későbbi védjegybejelentésről, amelynek kutatási jelentésében korábbi jogát feltüntették.
 
-(2) A kérelem naptári hónapokra meghatározott – egy évet meg nem haladó, a naptári év vagy félév első napján kezdődő – időszakra terjeszthető elő; a kérelemért külön jogszabályban meghatározott díjat kell fizetni. A Szellemi Tulajdon Nemzeti Hivatala a kérelmet csak a díj megfizetését követően teljesíti.
+(2) A kérelem naptári hónapokra meghatározott – egy évet meg nem haladó, a naptári év vagy félév első napján kezdődő – időszakra terjeszthető elő; a kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni. A Szellemi Tulajdon Nemzeti Hivatala a kérelmet csak a díj megfizetését követően teljesíti.
 
 (3) Az értesítés elmaradása esetén a Szellemi Tulajdon Nemzeti Hivatala a (2) bekezdés alapján megfizetett díj egészét vagy a mulasztással arányos részét – kérelemre – visszatéríti. Az értesítés elmaradásának egyéb jogkövetkezménye nincs, így az nem érinti különösen a felszólalásra, illetve a belenyugvásra vonatkozó rendelkezések alkalmazását.
 
@@ -773,7 +891,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A védjegybejelentés meghirdetése
 
-61/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala a kutatási jelentésnek a bejelentő részére történő megküldésétől [60. § (3) bek.] számított legalább egy hónap elteltével meghirdeti a védjegybejelentést, ha az megfelel az 59. § alapján vizsgált feltételeknek.
+61/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala a kutatási jelentésnek a bejelentő részére történő megküldésétől [60. § (3) bek.] számított legalább tizenöt nap elteltével meghirdeti a védjegybejelentést, ha az megfelel az 59. § alapján vizsgált feltételeknek.
 
 (2) A meghirdetésre a 49. § a) pontjában meghatározott hatósági tájékoztatásnak a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában történő közlésével kerül sor.
 
@@ -786,23 +904,25 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 61/B. § (1) A védjegybejelentés meghirdetésének napjától számított három hónapon belül a 4–6. §-ok alapján a bejelentett megjelölés védjegyként való lajstromozásával szemben felszólalhat
 
 - a) a korábbi védjegy jogosultja és a védjegylajstromba bejegyzett használója;
-- b) az 5. § (1) bekezdésében meghatározott jog jogosultja, továbbá iparjogvédelmi jog esetében a lajstromba bejegyzett hasznosító, szerzői jogi jogosultság esetében a felhasználásra felhasználási szerződés alapján engedélyt szerző személy;
-- c) az 5. § (2) bekezdésének a) pontja alapján a korábbi használó;
+- b) az 5. § (1) bekezdés a)–b) pontjában meghatározott jog jogosultja, továbbá iparjogvédelmi jog esetében a hasznosítási szerződés alapján hasznosítási joggal bíró hasznosító, szerzői jogi jogosultság esetében a felhasználási szerződés alapján felhasználásra jogosult személy;
+- c) az 5. § (2) bekezdés a) pontja alapján a korábbi használó, továbbá az 5. § (2) bekezdés b) pontja alapján az eredetmegjelölés vagy földrajzi jelzés oltalmából fakadó jogokat gyakorolni jogosult személy;
 - d) a 6. § alapján a jogosult, akinek az engedélye nélkül a képviselő, illetve az ügynök saját nevében jelentette be a megjelölést lajstromozásra.
 
 (2)
 
 (3) A felszólalásban meg kell jelölni az annak alapjául szolgáló okot (a felszólalás okát), és mellékelni kell az okirati bizonyítékokat.
 
-(4) A felszólalásért külön jogszabályban meghatározott díjat kell fizetni a felszólalás benyújtásától számított egy hónapon belül.
+(4) A felszólalásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a felszólalás benyújtásától számított egy hónapon belül.
 
 (5) Ha a felszólalás nem felel meg az (1)–(3) bekezdésekben előírt feltételeknek, a felszólalót hiánypótlásra kell felhívni; ha pedig a felszólalás díját nem fizette meg, figyelmeztetni kell a törvényben megszabott határidőben történő hiánypótlásra. Ezek elmaradása esetén a felszólalást visszavontnak kell tekinteni.
 
 61/C. § A felszólaló a védjegy lajstromozására irányuló eljárásban – a felszólalás tárgyában – ügyfélként vesz részt.
 
-61/D. § (1) A Szellemi Tulajdon Nemzeti Hivatala a felszólalással kapcsolatban nyilatkozattételre hívja fel a bejelentőt; majd – a (2) bekezdésben szabályozott eset kivételével – írásbeli előkészítés után határoz a védjegy lajstromozásának kérdésében. Az eljárást befejező végzés tárgyaláson kívül is meghozható.
+61/D. § (1) Felszólalás esetén a felek számára – együttes kérelmük alapján – egy alkalommal legalább kettő, de legfeljebb négy hónapos határidőt kell biztosítani egyezségkötésre. Ez alatt az időszak alatt az eljárás szünetel.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala az írásbeli előkészítést követően szóbeli tárgyalást tart, ha a tényállás tisztázásához szükség van a bejelentő és a felszólaló együttes meghallgatására, vagy ha bármelyik fél ezt kellő időben kéri.
+(1a) A Szellemi Tulajdon Nemzeti Hivatala a felszólalással kapcsolatban nyilatkozattételre hívja fel a bejelentőt; majd – a (2) bekezdésben szabályozott eset kivételével – írásbeli előkészítés után határoz a védjegy lajstromozásának kérdésében. Az eljárást befejező végzés és az egyezséget jóváhagyó határozat tárgyaláson kívül is meghozható.
+
+(2) A Szellemi Tulajdon Nemzeti Hivatala az írásbeli előkészítést követően szóbeli tárgyalást tart, ha a tényállás tisztázásához szükség van a bejelentő és a felszólaló együttes meghallgatására, vagy ha a felek ezt kellő időben egybehangzóan kérik.
 
 (3) Ha a bejelentő a felhívásra a kitűzött határidőben nem nyilatkozik, vagy nem jelenik meg a tárgyaláson, a Szellemi Tulajdon Nemzeti Hivatala a felszólalást a rendelkezésére álló adatok alapján bírálja el.
 
@@ -817,11 +937,16 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - a) a felhívásra a kitűzött határidőben nem nyilatkozik, vagy
 - b) a tárgyaláson nem jelenik meg, és nem kérte előzetesen annak távollétében történő megtartását sem.
 
-(8) A felszólalás benyújtására előírt határidő [61/B. § (1) és (2) bek.] elteltét követően a felszólalás alapjául szolgáló okként nem jelölhető meg olyan ok, amelyet az említett határidőn belül nem jelöltek meg a felszólalás okaként. Az így megjelölt okot a Szellemi Tulajdon Nemzeti Hivatala eljárást befejező határozatának meghozatalakor nem veszi figyelembe.
+(8) A felszólalás benyújtására előírt határidő [61/B. § (1) bek.] elteltét követően a felszólalás alapjául szolgáló okként nem jelölhető meg olyan ok, amelyet az említett határidőn belül nem jelöltek meg a felszólalás okaként. Az így megjelölt okot a Szellemi Tulajdon Nemzeti Hivatala eljárást befejező határozatának meghozatalakor nem veszi figyelembe.
 
-61/E. § (1) Ha a felszólalás korábbi védjeggyel való ütközésen alapul, a felszólalót terheli annak bizonyítása, hogy saját védjegyhasználata a védjegybejelentés meghirdetésének napján megfelelt a 18. § előírásainak. A Szellemi Tulajdon Nemzeti Hivatala a bejelentő kellő időben előterjesztett kérelmére ennek bizonyítására felhívja a felszólalót.
+61/E. § (1) Ha a felszólalás korábbi védjeggyel való ütközésen alapul, a bejelentő kellő időben előterjesztett kérelmére a Szellemi Tulajdon Nemzeti Hivatala – feltéve, hogy a 18. § (1)–(3) bekezdésében a korábbi védjegy tényleges használatának megkezdésére előírt ötéves időszak a védjegybejelentés bejelentési napján vagy igényelt elsőbbség esetén elsőbbségi napján már eltelt – a felszólalót felhívja annak bizonyítására, hogy
 
-(2) A védjegybejelentés nem utasítható el olyan felszólalás alapján, amellyel kapcsolatban az (1) bekezdésben szabályozott bizonyítás sikertelen volt.
+- a) saját védjegyét a védjegybejelentés bejelentési napját vagy igényelt elsőbbség esetén elsőbbségi napját megelőző ötéves időszakban a 18. § előírásainak megfelelően ténylegesen használta, vagy
+- b) a használat elmaradása kellőképpen igazolható.
+
+(2) A védjegybejelentés nem utasítható el olyan felszólalás alapján, amellyel kapcsolatban az (1) bekezdésben szabályozott bizonyítás sikertelen volt. Ha a korábbi védjegy jogosultja a védjegyet csak az árujegyzékben szereplő áruk vagy szolgáltatások egy részével összefüggésben használta az (1) bekezdésben foglaltaknak megfelelően, a felszólalás elbírálása szempontjából úgy kell tekinteni, mintha a védjegyet csak ezekre az árukra vagy szolgáltatásokra nézve lajstromozták volna.
+
+(2a) A védjegybejelentés nem utasítható el olyan korábbi védjegyre alapított felszólalás alapján, amelynek oltalma a védjegybejelentés benyújtásának napján már nem áll fenn.
 
 (3) Ha a felszólaló az (1) bekezdésben szabályozott felhívásra nem válaszol, a felszólalást visszavontnak kell tekinteni.
 
@@ -839,7 +964,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (3) A felszólalás kapcsán felmerülő költségek viselésére a vesztes felet kell kötelezni; a felszólaló nem minősül vesztes félnek, ha a felszólalást a 61/G. § (3) bekezdése alapján kell visszavontnak tekinteni.
 
-(4) A felszólalás díját [61/B. § (4) bek.] a Szellemi Tulajdon Nemzeti Hivatala – kérelemre – külön jogszabályban meghatározott mértékben és feltételekkel visszatéríti, ha
+(4) A felszólalás díját [61/B. § (4) bek.] a Szellemi Tulajdon Nemzeti Hivatala – kérelemre – az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott mértékben és feltételekkel visszatéríti, ha
 
 - a) a védjegybejelentést a 61. § (4) bekezdése alapján elutasítják;
 - b) a védjegybejelentést a 61. § (5) bekezdése alapján visszavontnak kell tekinteni;
@@ -860,7 +985,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - a) az erre történő hivatali felhívást [59. § (2) bek.] megelőzően, ha egy bejelentésben több megjelölésre igényelt oltalmat; illetve,
 - b) ha az árujegyzék szétválasztásával meghatározott áruk, illetve szolgáltatások tekintetében külön-külön igényli az oltalmat.
 
-(2) A megosztásért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(2) A megosztásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (3) Ha a kérelem benyújtásakor nem fizették meg a megosztási díjat, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a (2) bekezdésben meghatározott határidőben történő hiánypótlásra. Ennek elmaradása esetén a megosztási kérelmet visszavontnak kell tekinteni.
 
@@ -878,7 +1003,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 64/A. § (1) A Szellemi Tulajdon Nemzeti Hivatala a védjegy lajstromozására irányuló eljárást a bejelentő kérelmére gyorsítottan folytatja le. A kérelem a bejelentés napjától számított egy hónapon belül terjeszthető elő.
 
-(2) A gyorsított eljárás iránti kérelemért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
+(2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
 
 (3)
 
@@ -889,11 +1014,11 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 (6) Gyorsított eljárás esetén – a VII. és a IX. fejezet szabályaitól eltérően –
 
 - a) hiánypótlásra, illetve nyilatkozattételre tizenöt napos határidő is kitűzhető;
-- b) a védjegybejelentés meghirdethető a kutatási jelentésnek a bejelentő részére történő megküldésétől [60. § (3) bek.] számított egy hónap elteltét [61/A. § (1) bek.] megelőzően is;
+- b) a védjegybejelentés meghirdethető a kutatási jelentésnek a bejelentő részére történő megküldésétől [60. § (3) bek.] számított tizenöt nap elteltét [61/A. § (1) bek.] megelőzően is;
 - c) a felszólalással kapcsolatban a Szellemi Tulajdon Nemzeti Hivatala akkor tart szóbeli tárgyalást, ha a tényállás tisztázásához szükség van a bejelentő és a felszólaló együttes meghallgatására, vagy ha ezt a felek kellő időben egybehangzóan kérik;
 - d) a bejelentési díjat a (2) bekezdésben meghatározott határidőn belül kell megfizetni.
 
-(7) Ha a bejelentő a gyorsított eljárás iránti kérelmében ezt külön kéri, a Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentés meghirdetésével egyidejűleg a bejelentett megjelölést védjegyként lajstromozza (különleges gyorsított eljárás) azzal, hogy a 64. § (3) bekezdésében foglalt rendelkezés csak a felszólalás benyújtására előírt határidő [61/B. § (1) és (2) bek.] elteltével alkalmazható. A különleges gyorsított eljárás iránti kérelem csak a gyorsított eljárás iránti kérelem benyújtására az (1) bekezdésben előírt határidőn belül terjeszthető elő; a különleges gyorsított eljárás iránti kérelem díja a gyorsított eljárás iránti kérelem díjának másfélszerese.
+(7) Ha a bejelentő a gyorsított eljárás iránti kérelmében ezt külön kéri, a Szellemi Tulajdon Nemzeti Hivatala a védjegybejelentés meghirdetésével egyidejűleg a bejelentett megjelölést védjegyként lajstromozza (különleges gyorsított eljárás) azzal, hogy a 64. § (3) bekezdésében foglalt rendelkezés csak a felszólalás benyújtására előírt határidő [61/B. § (1) bek.] elteltével alkalmazható. A különleges gyorsított eljárás iránti kérelem csak a gyorsított eljárás iránti kérelem benyújtására az (1) bekezdésben előírt határidőn belül terjeszthető elő; a különleges gyorsított eljárás iránti kérelem díja a gyorsított eljárás iránti kérelem díjának másfélszerese.
 
 (8) Ha a bejelentett megjelölés védjegyként való lajstromozásával szemben felszólalnak, a védjegy lajstromozását a (7) bekezdés szerint elrendelő határozatot vissza kell vonni és a védjegy lajstromozására irányuló eljárást folytatni kell. A védjegy lajstromozását a (7) bekezdés szerint elrendelő határozat visszavonását be kell jegyezni a védjegylajstromba (47. §), és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában (49. §).
 
@@ -901,29 +1026,33 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A megújítási eljárás
 
-65. § (1) A védjegyoltalom megújítását [11. § (2) bek.] a védjegyjogosult kérheti a Szellemi Tulajdon Nemzeti Hivatalától.
+65. § (1) A védjegyoltalom megújítását [11. § (2) bek.] a védjegyjogosult, valamint jogszabály vagy szerződés által erre felhatalmazott személy kérheti a Szellemi Tulajdon Nemzeti Hivatalától.
 
-(2) A megújítási kérelemben meg kell jelölni az érintett védjegy lajstromszámát; a kérelemre és mellékleteire egyébként a védjegybejelentés kellékeire megállapított rendelkezéseket [50. § (2), (3) bek.] kell megfelelően alkalmazni.
+(2) A védjegyoltalom megújításáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni. A megújítási díj megfizetése önmagában nem minősül megújításra irányuló kérelemnek.
 
-(3) A védjegyoltalom megújítását legkorábban az oltalmi idő lejárta előtt tizenkét hónappal, legkésőbb a lejárat napjától vagy – ha ez a későbbi – a lajstromozástól számított hat hónapon belül lehet kérni.
+(3) A Szellemi Tulajdon Nemzeti Hivatala legalább hat hónappal az oltalom lejártának napját megelőzően értesíti a védjegyjogosultat a megújítás lehetőségéről. A tájékoztatás elmaradásáért a Szellemi Tulajdon Nemzeti Hivatala nem felel, és az nem érinti a védjegyoltalom lejártát.
 
-(4) A megújítási kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő két hónapon belül.
+(4) A megújítási kérelmet az oltalom lejártának napját megelőző hat hónapon belül kell benyújtani, a megújítási díj megfizetése mellett. Ennek elmulasztása esetén a kérelmet – a megújítási díj kiegészítő díjjal növelt összegének megfizetése mellett – az oltalom lejártának napjától számított további hat hónapon belül is be lehet nyújtani.
 
-(5) A védjegyoltalom megújítása kapcsán a megjelölés nem változtatható meg, az árujegyzék pedig nem bővíthető.
+(5) Ha a védjegy lajstromozásának időpontja későbbi, mint a védjegyoltalom lejártának időpontja, a megújítási kérelmet – a megújítási díj megfizetése mellett – a lajstromozást követő hat hónapon belül is be lehet nyújtani.
+
+(6) A megújítási kérelemben meg kell jelölni az érintett védjegy lajstromszámát; a kérelemre és mellékleteire egyébként a védjegybejelentés kellékeire megállapított rendelkezéseket [50. § (2)–(3b) bek.] kell megfelelően alkalmazni.
+
+(7) A védjegyoltalom megújítása kapcsán a megjelölés nem változtatható meg, az árujegyzék pedig nem bővíthető.
 
 65/A. §
 
-66. § (1) Ha a megújítási kérelem nem felel meg a 65. § (1)–(4) bekezdésében előírt követelményeknek, a kérelmezőt hiánypótlásra kell felhívni.
+66. § (1) Ha a megújítási kérelem nem felel meg a 65. §-ban előírt követelményeknek – ideértve a megújítási díj megfizetését is –, a kérelmezőt hiánypótlásra, illetve nyilatkozattételre kell felhívni. Ha a megújítási kérelem díját csak részben fizették meg, a Szellemi Tulajdon Nemzeti Hivatala a kérelmezőt nyilatkozattételre hívja fel arra vonatkozóan, hogy a megújítást az árujegyzék mely részére nézve kéri.
 
 (2) A megújítási kérelmet el kell utasítani, ha a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a felhívásban megjelölt követelményeket. Ha a kérelmező a felhívásra a kitűzött határidőben nem válaszol, a megújítási kérelmet visszavontnak kell tekintetni.
 
-(3) Ha a megújítási kérelem díját nem fizették meg, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a kérelmezőt a törvény által megszabott határidőben történő hiánypótlásra. Ennek elmaradása esetén a kérelmet visszavontnak kell tekinteni.
+(3)
 
-67. § (1) Ha a kérelem megfelel a 65. §-ban előírt követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala a védjegyoltalmat megújítja.
+67. § (1) Ha a kérelem megfelel a 65. §-ban előírt követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala a védjegyoltalmat megújítja. Ha a megújítási kérelemben a védjegyoltalom megújítását csak az árujegyzékben szereplő egyes árukra vagy szolgáltatásokra nézve kérik, a Szellemi Tulajdon Nemzeti Hivatala a védjegyoltalmat csak az árujegyzéknek erre a részére nézve újítja meg. A védjegyoltalom megújításának hatálya a védjegyoltalom lejártának napját követő napon kezdődik, a lejáratot követő megújítás esetén pedig erre a napra visszamenő hatállyal történik.
 
 (2) A védjegyoltalom megújítását be kell jegyezni a védjegylajstromba, és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
 
-(3) A Szellemi Tulajdon Nemzeti Hivatala a védjegy megújítását követően védjegyokiratot ad ki. Ehhez hozzáfűzi a lajstromkivonatot.
+(3)
 
 ### A megosztási eljárás
 
@@ -931,9 +1060,9 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (2) A védjegyoltalom megosztásához aszerint és annyi – egymással összhangban elkészített – kérelmet kell benyújtani és a megfelelő mellékletekkel felszerelni, ahogyan és ahány részre az eredeti védjegy árujegyzékét szét kívánják választani.
 
-(3) A megosztás iránti kérelemben meg kell jelölni az eredeti védjegy lajstromszámát; a kérelemre és mellékleteire egyébként a védjegybejelentés kellékeire megállapított rendelkezéseket [50. § (2), (3) bek.] kell megfelelően alkalmazni.
+(3) A megosztás iránti kérelemben meg kell jelölni az eredeti védjegy lajstromszámát; a kérelemre és mellékleteire egyébként a védjegybejelentés kellékeire megállapított rendelkezéseket [50. § (2)–(3b) bek.] kell megfelelően alkalmazni.
 
-(4) A védjegyoltalom megosztásáért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A védjegyoltalom megosztásáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 69. § (1) Ha a védjegyoltalom megosztására irányuló kérelem nem felel meg a 68. § (1)–(3) bekezdéseiben előírt követelményeknek, a védjegyjogosultat hiánypótlásra kell felhívni.
 
@@ -949,7 +1078,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Lejárat és lemondás miatti megszűnés megállapítása
 
-71. § (1) A védjegyoltalom lejárat miatti megszűnése esetén a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a védjegyjogosultat a megújítás lehetőségére.
+71. § (1)
 
 (2) Szellemi Tulajdon Nemzeti Hivatala végzéssel állapítja meg a védjegyoltalom megszűnését a védjegyjogosult lemondása (32. §) esetén.
 
@@ -959,19 +1088,27 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 72. § (1) A védjegy törlését a 33. § alapján – a (2) bekezdésben meghatározott kivétellel – bárki kérheti a védjegyjogosulttal szemben.
 
-(2) A 4–6. §-ok alapján csak a korábbi akadályozó jog jogosultja kérheti a védjegy törlését.
+(2) A 4–6. §-ok alapján csak a korábbi akadályozó jog vagy jogok jogosultja kérheti a védjegy törlését.
 
-(3) A kérelemben meg kell jelölni a törlés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A kérelemben meg kell jelölni a 38. § (2b) bekezdésében meghatározott adatokat, a törlés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat. A törlési kérelem – ha nem a védjegy teljes egészében való törlését célozza – irányulhat a védjegy árujegyzékének egy részére is.
 
-(4) A törlési kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A törlési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
 
 (5) Ha a törlési kérelem nem felel meg a törvényben előírt feltételeknek, a kérelmezőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a törlési kérelmet visszavontnak kell tekinteni.
 
-73. § (1) A Szellemi Tulajdon Nemzeti Hivatala a védjegy törlése iránti kérelemmel kapcsolatban nyilatkozattételre hívja fel a védjegyjogosultat; majd írásbeli előkészítés után szóbeli tárgyalás alapján határoz a védjegy törléséről, a védjegyoltalom korlátozásáról vagy a kérelem elutasításáról. Az eljárást befejező végzés tárgyaláson kívül is meghozható. A Szellemi Tulajdon Nemzeti Hivatala által a kérelmező számára kitűzött határidő elteltét követően a törlés alapjául szolgáló okként nem jelölhető meg olyan ok, amelyet az említett határidőn belül nem jelöltek meg a törlés okaként. Az így megjelölt okot az eljárást befejező határozat meghozatalakor figyelmen kívül kell hagyni.
+73. § (1) A Szellemi Tulajdon Nemzeti Hivatala a védjegy törlése iránti kérelemmel kapcsolatban nyilatkozattételre hívja fel a védjegyjogosultat; majd írásbeli előkészítés után szóbeli tárgyalás alapján határoz a védjegy törléséről, a védjegyoltalom korlátozásáról vagy a kérelem elutasításáról. Ha a védjegyjogosult a Szellemi Tulajdon Nemzeti Hivatalának felhívására határidőben nem nyilatkozik, a Szellemi Tulajdon Nemzeti Hivatala a rendelkezésére álló adatok alapján, szóbeli tárgyalás megtartása nélkül dönt. Az eljárást befejező végzés vagy az egyezséget jóváhagyó határozat tárgyaláson kívül is meghozható. A Szellemi Tulajdon Nemzeti Hivatala által a kérelmező számára kitűzött határidő elteltét követően a törlés alapjául szolgáló okként nem jelölhető meg olyan ok, amelyet az említett határidőn belül nem jelöltek meg a törlés okaként. Az így megjelölt okot az eljárást befejező határozat meghozatalakor figyelmen kívül kell hagyni.
 
-(2) Ha a törlési kérelem a kérelmező korábbi védjegyével való ütközésen alapul, a kérelmezőt terheli annak bizonyítása, hogy saját védjegyhasználata a törlési kérelem benyújtásakor megfelelt a 18. § előírásainak. A Szellemi Tulajdon Nemzeti Hivatala a védjegyjogosult kellő időben előterjesztett kérelmére ennek bizonyítására felhívja a kérelmezőt.
+(2) Ha a törlési kérelem a kérelmező korábbi védjegyével való ütközésen alapul, a későbbi védjegy jogosultjának kellő időben előterjesztett kérelmére a Szellemi Tulajdon Nemzeti Hivatala – feltéve, hogy a törlési kérelem benyújtásakor a korábbi védjegy lajstromozásától számított ötéves időszak eltelt – a kérelmezőt felhívja annak bizonyítására, hogy
 
-(3) A védjegy nem törölhető olyan törlési kérelem alapján, amellyel kapcsolatban a (2) bekezdésben szabályozott bizonyítás sikertelen volt.
+- a) saját védjegyét a törlési kérelem benyújtásának napját megelőző ötéves időszakban a törlési kérelemben említett, a védjegy árujegyzékében szereplő árukkal és szolgáltatásokkal összefüggésben a 18. § előírásainak megfelelően ténylegesen használta, vagy
+- b) a használat elmaradása kellőképpen igazolható.
+
+(2a) Ha a korábbi védjegy tényleges használatának megkezdésére a 18. § (1)–(3) bekezdésében előírt ötéves időszak a későbbi védjegy bejelentési napján vagy – igényelt elsőbbség esetén – elsőbbségi napján már eltelt, a kérelmezőnek a (2) bekezdésben foglaltakon túl azt is bizonyítania kell, hogy
+
+- a) saját védjegyét a későbbi védjegybejelentés bejelentési napját vagy elsőbbségi napját megelőző ötéves időszakban a 18. § előírásainak megfelelően ténylegesen használta, vagy
+- b) a használat elmaradása kellőképpen igazolható.
+
+(3) A védjegy nem törölhető olyan törlési kérelem alapján, amellyel kapcsolatban a (2)–(2a) bekezdésben szabályozott bizonyítás sikertelen volt. Ha a korábbi védjegy jogosultja a védjegyet csak az árujegyzékben szereplő áruk vagy szolgáltatások egy részével összefüggésben használta a (2)–(2a) bekezdésben foglaltaknak megfelelően, a törlési kérelem elbírálása szempontjából úgy kell tekinteni, mintha a védjegyet csak ezekre az árukra vagy szolgáltatásokra nézve lajstromozták volna.
 
 (4) Ha a kérelmező a (2) bekezdésben szabályozott felhívásra nem válaszol, a törlési kérelmet visszavontnak kell tekinteni.
 
@@ -983,7 +1120,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 73/A. § (1) A törlési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a védjegy bitorlása miatt pert indítottak vagy a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják.
 
-(2) A gyorsított eljárás iránti kérelemért külön jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
+(2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
 
 (3) Ha a kérelem nem felel meg az (1) bekezdésben meghatározott követelményeknek, a gyorsított eljárást kérő felet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A gyorsított eljárás iránti kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a törvényben meghatározott követelményeket. A gyorsított eljárás iránti kérelmet visszavontnak kell tekinteni, ha az azt előterjesztő fél a felhívásra a kitűzött határidőben nem válaszol.
 
@@ -1005,25 +1142,25 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (4) A védjegy törlését vagy a védjegyoltalom korlátozását be kell jegyezni a védjegylajstromba, és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
 
-### Használat hiánya, megkülönböztető képesség elvesztése, megtévesztővé válás vagy a védjegyjogosult jogutód nélküli megszűnése miatt bekövetkező megszűnés megállapítása
+### Használat hiánya, megkülönböztető képesség elvesztése vagy megtévesztővé válás miatt bekövetkező megszűnés megállapítása
 
-75. § (1) A védjegyoltalom megszűnésének megállapítását a védjegy használatának hiánya miatt a 18. és 34. §-ok alapján, a megjelölés megkülönböztető képességének elvesztése, illetve megtévesztővé válása miatt a 35. § alapján a védjegyjogosulttal szemben, továbbá a védjegyjogosult jogutód nélküli megszűnése miatt a 35/A. § alapján bárki kérheti.
+75. § (1) A védjegyoltalom megszűnésének megállapítását a védjegy használatának hiánya miatt a 18. és 34. §-ok alapján, a megjelölés megkülönböztető képességének elvesztése, illetve megtévesztővé válása miatt a 35. § alapján a védjegyjogosulttal szemben, bárki kérheti.
 
-(2) A kérelemben meg kell jelölni a megszűnés okait, és mellékelni kell az okirati bizonyítékokat. Ha a 30. § (2) bekezdése alapján a megszűnés megállapítását a 30. § (1) bekezdés d) vagy e) pontjában meghatározott időpontnál korábbi időpontokra visszaható hatállyal kérik, erre a kérelemben utalni kell. Ha a megszűnés megállapítását a védjegy használatának hiánya miatt kérik, a védjegyjogosultat terheli annak bizonyítása, hogy a védjegyet a 18. § előírásainak megfelelően használta.
+(2) A kérelemben meg kell jelölni a 38. § (2b) bekezdésében meghatározott adatokat, a megszűnés okait, és mellékelni kell az okirati bizonyítékokat. Ha a 30. § (2) bekezdése alapján a megszűnés megállapítását a 30. § (1) bekezdés d) vagy e) pontjában meghatározott időpontnál korábbi időpontokra visszaható hatállyal kérik, erre a kérelemben utalni kell. Ha a megszűnés megállapítását a védjegy használatának hiánya miatt kérik, a védjegyjogosultat terheli annak bizonyítása, hogy a védjegyet a 18. § előírásainak megfelelően használta. A kérelem – ha nem a védjegyoltalom teljes egészében való megszűnésének megállapítását célozza – irányulhat a védjegy árujegyzékének egy részére is.
 
-(3) A megszűnés megállapítására irányuló kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(3) A megszűnés megállapítására irányuló kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (4) Ha a megszűnés megállapítása iránti kérelem nem felel meg a törvényben előírt feltételeknek, a kérelmezőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a megszűnés megállapítására irányuló kérelmet visszavontnak kell tekinteni.
 
-76. § (1) A Szellemi Tulajdon Nemzeti Hivatala a megszűnés megállapítása iránti kérelemmel kapcsolatban nyilatkozattételre hívja fel a védjegyjogosultat, majd írásbeli előkészítés után szóbeli tárgyalás alapján határoz a védjegyoltalom használat hiánya, megkülönböztető képesség elvesztése, megtévesztővé válás, illetve a védjegyjogosult jogutód nélküli megszűnése miatti megszűnésének – teljes körű vagy részleges – megállapításáról vagy pedig a kérelem elutasításáról. Az eljárást befejező végzés tárgyaláson kívül is meghozható, a védjegyoltalomnak a védjegyjogosult jogutód nélküli megszűnése miatti megszűnése tárgyában hozott határozatot a Szellemi Tulajdon Nemzeti Hivatala tárgyaláson kívül hozza meg. A tárgyalás folyamán hozott döntések kihirdetésére, írásba foglalására és kézbesítésére a 73. § (5)–(7) bekezdését alkalmazni kell.
+76. § (1) A Szellemi Tulajdon Nemzeti Hivatala a megszűnés megállapítása iránti kérelemmel kapcsolatban nyilatkozattételre hívja fel a védjegyjogosultat, majd – ha a védjegyjogosult a felhívásra határidőben nyilatkozik – írásbeli előkészítés után szóbeli tárgyalás alapján határoz a védjegyoltalom használat hiánya, megkülönböztető képesség elvesztése, illetve megtévesztővé válás miatti megszűnésének – teljes körű vagy részleges – megállapításáról vagy a kérelem elutasításáról. Ha a védjegyjogosult a Szellemi Tulajdon Nemzeti Hivatalának felhívására határidőben nem nyilatkozik, a Szellemi Tulajdon Nemzeti Hivatala a rendelkezésére álló adatok alapján, szóbeli tárgyalás megtartása nélkül dönt. Az eljárást befejező végzés tárgyaláson kívül is meghozható. A tárgyalás folyamán hozott döntések kihirdetésére, írásba foglalására és kézbesítésére a 73. § (5)–(7) bekezdését alkalmazni kell.
 
 (2) Az egy védjegy ellen irányuló több megszűnés-megállapítási kérelmet, valamint a törlési és a megszűnés megállapítására irányuló kérelmeket lehetőség szerint egy eljárásban kell elintézni.
 
 (3) A megszűnés megállapítására irányuló kérelem visszavonása esetén az eljárást hivatalból folytatni lehet. A Szellemi Tulajdon Nemzeti Hivatala ilyen esetben is a kérelem keretei között, a felek által korábban tett nyilatkozatok és állítások figyelembevételével jár el.
 
-(4) A megszűnés megállapítására irányuló eljárás költségeinek viselésére a vesztes felet kell kötelezni. A védjegyjogosult jogutód nélküli megszűnése miatt bekövetkező megszűnés megállapítására irányuló eljárás költségeit azonban a kérelmező viseli. Ha a védjegyjogosult az oltalom megszűnésének megállapítására irányuló eljárásra okot nem adott és a védjegyoltalomról – legalább az árujegyzék érintett része vonatkozásában – a bejelentés napjára visszaható hatállyal, az (1) bekezdés szerinti nyilatkozattételre kitűzött határidő lejárta előtt lemond, az eljárási költséget a kérelmező viseli.
+(4) A megszűnés megállapítására irányuló eljárás költségeinek viselésére a vesztes felet kell kötelezni. Ha a védjegyjogosult az oltalom megszűnésének megállapítására irányuló eljárásra okot nem adott és a védjegyoltalomról – legalább az árujegyzék érintett része vonatkozásában – a bejelentés napjára visszaható hatállyal, az (1) bekezdés szerinti nyilatkozattételre kitűzött határidő lejárta előtt lemond, az eljárási költséget a kérelmező viseli.
 
-(5) A védjegyoltalomnak a használat hiánya, a megkülönböztető képesség elvesztése, a megtévesztővé válás, illetve a védjegyjogosult jogutód nélküli megszűnése miatti teljes körű vagy részleges megszűnését be kell jegyezni a védjegylajstromba, és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
+(5) A védjegyoltalomnak a használat hiánya, a megkülönböztető képesség elvesztése, a megtévesztővé válás miatti teljes körű vagy részleges megszűnését be kell jegyezni a védjegylajstromba, és arról hatósági tájékoztatást kell közölni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
 
 ## HARMADIK RÉSZ — AZ EURÓPAI UNIÓS VÉDJEGYRENDSZERRE VONATKOZÓ RENDELKEZÉSEK
 
@@ -1033,25 +1170,13 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 76/A. § E törvény alkalmazásában
 
-- a) európai uniós védjegyrendelet: a Tanács 207/2009/EK rendelete az európai uniós védjegyről;
+- a)
 - b) európai uniós védjegy: az európai uniós védjegyrendelet 1. cikkének (1) bekezdésében meghatározott védjegy;
 - c) európai uniós védjegybejelentés: az európai uniós védjegyrendelet alapján tett – európai uniós védjegy lajstromozására irányuló – bejelentés.
 
 76/B. §
 
-### Az európai uniós védjegy mint korábbi védjegy
-
-76/C. § (1) A 4. § és az 5. § (2) bekezdése b) pontjának alkalmazásában az európai uniós védjegy – a (2) és a (3) bekezdésben meghatározott eltérésekkel – ugyanolyan korábbi védjegynek minősül, mint a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy.
-
-(2) A 4. § (1) bekezdése c) pontjának alkalmazásában az európai uniós védjegyrendelet 9. cikke (2) bekezdésének c) pontja értelmében az Európai Unióban jóhírnevet élvező korábbi európai uniós védjegyet kell figyelembe venni.
-
-(3) A 4. § (3) bekezdésének alkalmazásában a megjelölés akkor nincs kizárva a védjegyoltalomból, ha olyan korábbi európai uniós védjeggyel ütközik, amelyet annak jogosultja nem használt az európai uniós védjegyrendelet 15. cikkének megfelelően.
-
-(4) E törvény alkalmazásában a 18. § előírásainak megfelelő használatra való utaláson európai uniós védjegy esetében az európai uniós védjegyrendelet 15. cikkében foglalt előírásoknak megfelelő használatra való utalást kell érteni.
-
-(5) A belenyugvás (17. §) szabályait megfelelően alkalmazni kell abban az esetben is, ha a korábbi védjegy európai uniós védjegy és a későbbi védjegy a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy.
-
-(6) Az (1)–(5) bekezdés rendelkezései megfelelően irányadók a 33. § (2) bekezdésének alkalmazásában is.
+76/C. §
 
 ### Az európai uniós védjegy bitorlásának jogkövetkezményei
 
@@ -1059,7 +1184,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Nemzeti bejelentéssé való átalakítás
 
-76/E. § (1) Európai uniós védjegybejelentés vagy európai uniós védjegy átalakítására irányuló – az európai uniós védjegyrendelet 113. cikkének (5) bekezdése alapján megküldött – kérelem alapján a Szellemi Tulajdon Nemzeti Hivatala a VII–IX. fejezetek rendelkezéseinek megfelelő alkalmazásával – a (2)–(5) bekezdésekben meghatározott feltételekkel – megindítja a védjegy lajstromozására irányuló eljárást.
+76/E. § (1) Európai uniós védjegybejelentés vagy európai uniós védjegy átalakítására irányuló – az európai uniós védjegyrendelet 140. cikk (5) bekezdése alapján megküldött – kérelem alapján a Szellemi Tulajdon Nemzeti Hivatala a VII–IX. fejezetek rendelkezéseinek megfelelő alkalmazásával – a (2)–(5) bekezdésekben meghatározott feltételekkel – megindítja a védjegy lajstromozására irányuló eljárást.
 
 (2) A bejelentési díjat [50. § (4) bek.] az (1) bekezdés szerinti kérelemnek a Szellemi Tulajdon Nemzeti Hivatalához történő beérkezésétől számított két hónapon belül kell megfizetni.
 
@@ -1067,27 +1192,34 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala az (1) bekezdés szerinti kérelem beérkezéséről – az 56. § (4) bekezdésében előírt figyelmeztetés megküldésével egyidejűleg – értesíti a kérelmezőt.
 
-(5) A bejelentési napot, az elsőbbséget és a szenioritást az európai uniós védjegyrendelet 112. cikkének (3) bekezdésével összhangban kell megállapítani. Az 50. § (3) bekezdését az európai uniós védjegyrendelet 114. cikkének (2) bekezdésében foglaltakra figyelemmel kell alkalmazni.
+(5) A bejelentési napot, az elsőbbséget és a szenioritást az európai uniós védjegyrendelet 139. cikk (3) bekezdésével összhangban kell megállapítani. Az 50. § (3b) bekezdését az európai uniós védjegyrendelet 141. cikk (2) bekezdésében foglaltakra figyelemmel kell alkalmazni.
 
 (6) Európai uniós védjegy átalakítására irányuló kérelem alapján az (1) bekezdés szerint megindult eljárásban – a bejelentési díj megfizetését és a (3) bekezdésben előírt fordítás benyújtását követően – a Szellemi Tulajdon Nemzeti Hivatala az európai uniós védjegyet további vizsgálat nélkül e törvény alapján lajstromozza (64. §).
 
 (7) Az európai uniós védjegybejelentés vagy az európai uniós védjegy nemzeti védjegybejelentéssé való átalakítására irányuló kérelem vizsgálatára és az (1) bekezdés alapján megindult eljárásra egyebekben a VII–IX. fejezetek rendelkezéseit kell megfelelően alkalmazni.
 
-### Az európai uniós védjegy szenioritása
+### Az európai uniós védjeggyel kapcsolatban igényelt szenioritás
 
-76/F. § (1) A Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy, amelynek szenioritását igényelték európai uniós védjeggyel kapcsolatban az európai uniós védjegyrendelet 34. és 35. cikke alapján, és amelynek oltalma megszűnt az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt, törölhető, illetve oltalmának megszűnése a használat hiánya, vagy a megjelölés megkülönböztető képességének elvesztése vagy megtévesztővé válása, illetve a védjegyjogosult jogutód nélküli megszűnése miatt megállapítható, ha a törlés, illetve a megszűnés megállapításának feltételei mind a kérelem benyújtásának napján, mind a védjegyoltalom korábbi megszűnésének napján fennálltak.
+76/F. § (1) A Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott védjegy, amelynek szenioritását igényelték európai uniós védjeggyel kapcsolatban az európai uniós védjegyrendelet 39. és 40. cikke alapján, és amelynek oltalma megszűnt az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt
+
+- a) törölhető, vagy
+- b) oltalmának megszűnése a használat hiánya, vagy a megjelölés megkülönböztető képességének elvesztése vagy megtévesztővé válása miatt megállapítható,
+
+ha a törlés, illetve a megszűnés megállapításának feltételei a védjegyoltalom korábbi megszűnésének napján fennálltak.
+
+(1a) Ha az (1) bekezdés szerinti esetekben a védjegyet törlik vagy a védjegyoltalom megszűnését megállapítják, a szenioritás hatályát veszti.
 
 (2) A védjegylajstromban fel kell tüntetni, hogy a védjegy szenioritását igényelték európai uniós védjeggyel kapcsolatban. A szenioritás elvesztését szintén be kell jegyezni a védjegylajstromba.
 
 (3) A védjeggyel kapcsolatos minden tényt és körülményt – különösen a használati engedélyt, a jelzálogjogot, valamint a védjegyhez kapcsolódó és a védjegyoltalomból eredő jogok más megterhelését, továbbá e jogok átszállását és átruházását – be kell jegyezni a védjegylajstromba azt követően is, hogy az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt megszűnt annak a védjegynek az oltalma, amelynek szenioritását európai uniós védjeggyel kapcsolatban igényelték.
 
-(4) Az európai uniós védjegyet mint korábbi védjegyet (76/C. §) a szabályszerűen igényelt szenioritásával kell figyelembe venni akkor is, ha az oltalmi idő megújítás nélküli lejárta vagy lemondás miatt megszűnt a Szellemi Tulajdon Nemzeti Hivatala által e törvény alapján lajstromozott azon védjegy oltalma, amelynek szenioritását igényelték az európai uniós védjeggyel kapcsolatban.
+(4)
 
 76/G. §
 
 ### Európai uniós védjegybíróság
 
-76/H. § (1) Magyarországon a Fővárosi Törvényszék jár el első fokon – a 78. § (2) bekezdésében meghatározott összetételben – az európai uniós védjegyrendelet 95. cikkének (1) bekezdésében meghatározott európai uniós védjegybíróságként.
+76/H. § (1) Magyarországon a Fővárosi Törvényszék jár el első fokon – a 78. § (2) bekezdésében meghatározott összetételben – az európai uniós védjegyrendelet 123. cikk (1) bekezdésében meghatározott európai uniós védjegybíróságként.
 
 (2) A Fővárosi Törvényszék határozata elleni fellebbezés elbírálása – másodfokon eljáró európai uniós védjegybíróságként – a Fővárosi Ítélőtábla hatáskörébe tartozik.
 
@@ -1103,79 +1235,79 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - b) Nemzetközi Iroda: a Szellemi Tulajdon Világszervezetének Nemzetközi Irodája;
 - c) nemzetközi lajstrom: a Megállapodás, illetve a Jegyzőkönyv alapján bejelentett védjegyekről a Nemzetközi Iroda által vezetett nyilvántartás;
 - d) Magyarországot megjelölő bejelentés: az a nemzetközi védjegybejelentés, amelyben az oltalmat Magyarország területére kiterjedően igénylik;
-- e) származási hivatal: az esetnek megfelelően a Megállapodás 1. cikkének (3) bekezdése szerinti származási ország hivatala, a Jegyzőkönyv 2. cikkének (2) bekezdése szerinti származási ország hivatala, illetőleg mindkettő.
+- e) származási hivatal: a Jegyzőkönyv 2. cikk (2) bekezdése szerinti származási ország hivatala.
 
 (2) Ahol e törvény a Megállapodás, illetve a Jegyzőkönyv alkalmazására utal, azon a Megállapodáshoz és a Jegyzőkönyvhöz kapcsolódó Közös Végrehajtási Szabályzat alkalmazását is érteni kell.
 
-(3) A nemzetközi védjegybejelentések tekintetében a Megállapodás, illetve a Jegyzőkönyv eltérő rendelkezése hiányában – az e részben (X/B–X/D. fejezetekben) foglalt eltérésekkel – e törvény rendelkezéseit kell megfelelően alkalmazni.
+(3) A nemzetközi védjegybejelentések tekintetében a Megállapodás, illetve a Jegyzőkönyv eltérő rendelkezése hiányában – az e részben (X/B–X/C. fejezetekben) foglalt eltérésekkel – e törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (4)
 
-### X/C. Fejezet — A MEGÁLLAPODÁS ALAPJÁN TETT NEMZETKÖZI VÉDJEGYBEJELENTÉSEK
+### X/C. Fejezet — NEMZETKÖZI VÉDJEGYBEJELENTÉSEK
 
 ### A Szellemi Tulajdon Nemzeti Hivatala útján benyújtott bejelentések
 
-76/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy jogosultja a Szellemi Tulajdon Nemzeti Hivatala mint származási hivatal útján – a Megállapodás alapján – nemzetközi védjegybejelentést tehet a Nemzetközi Irodához.
+76/J. § (1) A Szellemi Tulajdon Nemzeti Hivatalához benyújtott védjegybejelentés, valamint a Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy jogosultja a Szellemi Tulajdon Nemzeti Hivatala mint származási hivatal útján – a Jegyzőkönyv alapján – nemzetközi védjegybejelentést tehet a Nemzetközi Irodához.
 
-(2) A Szellemi Tulajdon Nemzeti Hivatala továbbítja azt a nemzetközi védjegybejelentést, amelynek esetében a bejelentő
+(2) Ha a nemzetközi védjegybejelentést az (1) bekezdésben említett védjegy lajstromozása előtt nyújtják be, a bejelentő nyilatkozhat úgy, hogy a nemzetközi védjegybejelentést az (1) bekezdésben említett védjegy alapján kívánja megtenni. Ebben az esetben a benyújtás napjának a védjegy lajstromozásának napját kell tekinteni.
 
-- a) valóságos és működő ipari vagy kereskedelmi telephelye belföldön van; ennek hiányában
-- b) lakóhelye belföldön van; ennek hiányában
+(3) A Szellemi Tulajdon Nemzeti Hivatala akkor továbbítja a nemzetközi védjegybejelentést, ha a bejelentő
+
+- a) belföldön valóságos és működő ipari vagy kereskedelmi telephellyel rendelkezik,
+- b) lakóhelye belföldön van, vagy
 - c) magyar állampolgár.
 
-(3) A nemzetközi védjegybejelentést a Szellemi Tulajdon Nemzeti Hivatalánál mint származási hivatalnál a Megállapodásban előírt alaki követelményeknek megfelelően, a Megállapodásban előírt módon és nyelven kell benyújtani.
-
-(4) Ha a nemzetközi védjegybejelentést az (1) bekezdésben említett védjegy lajstromozása előtt nyújtják be, a benyújtás napjának a védjegy lajstromozásának napját kell tekinteni.
+(4) A nemzetközi védjegybejelentést a Szellemi Tulajdon Nemzeti Hivatalánál mint származási hivatalnál a Jegyzőkönyvben előírt alaki követelményeknek megfelelően, az abban előírt módon és nyelvek egyikén kell benyújtani.
 
 (5) A Szellemi Tulajdon Nemzeti Hivatala felhívására a bejelentő köteles igazolni, hogy a (2) bekezdés szerint nemzetközi védjegybejelentés benyújtására jogosult. Ennek elmaradása esetén a Szellemi Tulajdon Nemzeti Hivatala a nemzetközi bejelentés továbbítására irányuló kérelmet elutasítja.
 
 76/K. § (1) A Szellemi Tulajdon Nemzeti Hivatala a nemzetközi védjegybejelentés továbbítását megelőzően megvizsgálja, hogy
 
-- a) a bejelentés tartalmazza-e a 76/J. § (1) bekezdésében említett védjegy lajstromszámát;
-- b) a bejelentés tartalmazza-e a továbbítására irányuló kérelmet, a bejelentő azonosítására alkalmas adatokat, a megjelölést, valamint az árujegyzéket;
+- a) a bejelentés tartalmazza-e a 76/J. § (1) bekezdésében említett védjegy lajstromszámát vagy ügyszámát;
+- b) benyújtották-e a továbbításra irányuló kérelmet, valamint azt, hogy az tartalmazza-e a 38. § (2b) bekezdésében meghatározott adatokat; a bejelentés tartalmazza-e a bejelentő azonosítására alkalmas adatokat, a megjelölést, valamint az árujegyzéket;
 - c) a bejelentés adatai megegyeznek-e a 76/J. § (1) bekezdésében említett védjegynek a védjegylajstromban szereplő adataival;
 - d) a bejelentés tartalmazza-e azon országok megjelölését, amelyek területére az oltalom kiterjesztését igénylik;
-- e) a bejelentést a Megállapodásban előírt nyelven és módon nyújtották-e be;
+- e) a bejelentést a Jegyzőkönyvben előírt nyelven és módon nyújtották-e be;
 - f) a bejelentés tartalmazza-e a bejelentő, illetve képviselője aláírását.
 
-(2) Ha a bejelentés nem felel meg az (1) bekezdés a)–c), illetve f) pontjaiban meghatározott követelményeknek – kivéve, ha a bejelentésben az árujegyzék szűkebb, mint a 76/J. § (1) bekezdésében említett védjegy árujegyzéke –, a Szellemi Tulajdon Nemzeti Hivatala felhívja a bejelentőt a hiányok pótlására. Ennek során a bejelentőt figyelmeztetni kell arra, hogy ha a kérelem benyújtását követő két hónapon belül a bejelentés nem érkezik be a Nemzetközi Irodához, a nemzetközi lajstromozás napja nem a kérelem benyújtásának a napja, hanem a Nemzetközi Irodához történő beérkezés napja lesz.
+(2) Ha a továbbításra irányuló kérelem vagy a bejelentés nem felel meg az (1) bekezdés a)–c), illetve f) pontjaiban meghatározott követelményeknek – kivéve, ha a bejelentésben az árujegyzék szűkebb, mint a 76/J. § (1) bekezdésében említett védjegy árujegyzéke –, a Szellemi Tulajdon Nemzeti Hivatala felhívja a bejelentőt a hiányok pótlására. Ennek során a bejelentőt figyelmeztetni kell arra, hogy ha a kérelem benyújtását követő két hónapon belül a bejelentés nem érkezik be a Nemzetközi Irodához, a nemzetközi lajstromozás napja nem a kérelem benyújtásának a napja, hanem a Nemzetközi Irodához történő beérkezés napja lesz.
 
 (3) A (2) bekezdés szerinti hiánypótlás eredménytelensége esetén a Szellemi Tulajdon Nemzeti Hivatala a nemzetközi védjegybejelentés továbbítására irányuló kérelmet elutasítja.
 
 (4) Ha a bejelentés nem felel meg az (1) bekezdés d)–e) pontjaiban meghatározott követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala felhívja a bejelentőt a hiányok pótlására. Ennek elmaradása esetén a nemzetközi bejelentést a bejelentő által benyújtott formában kell továbbítani a Nemzetközi Irodához.
 
-76/L. § (1) A nemzetközi védjegybejelentés továbbításáért a Szellemi Tulajdon Nemzeti Hivatalához külön jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi bejelentéssel kapcsolatban a Nemzetközi Irodához a Megállapodásban meghatározott nemzetközi díjat kell fizetni.
+76/L. § (1) A nemzetközi védjegybejelentés továbbításáért a Szellemi Tulajdon Nemzeti Hivatalához az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi bejelentéssel kapcsolatban a Nemzetközi Irodához a Jegyzőkönyvben meghatározott nemzetközi díjat kell fizetni.
 
 (2) Az (1) bekezdésben említett továbbítási díj a nemzetközi védjegybejelentés benyújtásának napján esedékes. Ha a díjat az esedékességet követő egy hónapon belül nem fizetik meg, a nemzetközi védjegybejelentés továbbítására irányuló kérelmet visszavontnak kell tekinteni.
 
-(3) Az (1) bekezdésben említett nemzetközi díjat közvetlenül a Nemzetközi Irodához, a Megállapodásban előírt határidőn belül és az ott megszabott módon kell megfizetni.
+(3) Az (1) bekezdésben említett nemzetközi díjat közvetlenül a Nemzetközi Irodához, a Jegyzőkönyvben előírt határidőn belül és az ott megszabott módon kell megfizetni.
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala útján benyújtott nemzetközi védjegybejelentés esetén a védjegylajstromban fel kell tüntetni a nemzetközi lajstromozás napját és számát.
 
 ### A nemzetközi lajstromozásból eredő oltalom utólagos kiterjesztése a Szellemi Tulajdon Nemzeti Hivatala útján
 
-76/M. § (1) Ha a Szellemi Tulajdon Nemzeti Hivatala a Megállapodás szerint a jogosult szerződő államának hivatala, a Szellemi Tulajdon Nemzeti Hivatala útján a nemzetközi lajstromozásból eredő oltalom utólagos kiterjesztését lehet kérni.
+76/M. § (1) Ha a Szellemi Tulajdon Nemzeti Hivatala a Jegyzőkönyv szerint a jogosult szerződő államának hivatala, a Szellemi Tulajdon Nemzeti Hivatala útján a nemzetközi lajstromozásból eredő oltalom utólagos kiterjesztését lehet kérni.
 
-(2) Az oltalom utólagos kiterjesztésére irányuló kérelmet a Megállapodásban előírt alaki követelményeknek megfelelően, a Megállapodásban előírt módon és nyelven kell benyújtani.
+(2) Az oltalom utólagos kiterjesztésére irányuló kérelmet a Jegyzőkönyvben előírt alaki követelményeknek megfelelően, a Jegyzőkönyvben előírt módon és nyelven kell benyújtani.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala az oltalom utólagos kiterjesztésére irányuló kérelem továbbítását megelőzően megvizsgálja, hogy
 
-- a) a kérelem tartalmazza-e a továbbítására irányuló kérelmet és a jogosult, illetve képviselője aláírását;
-- b) a kérelmet a Megállapodásban előírt módon nyújtották-e be.
+- a) benyújtották-e a továbbításra irányuló kérelmet, valamint azt, hogy az tartalmazza-e a 38. § (2b) bekezdésében meghatározott adatokat; az oltalom utólagos kiterjesztésére irányuló kérelem pedig tartalmazza-e a jogosult, illetve képviselője aláírását;
+- b) az oltalom utólagos kiterjesztésére irányuló kérelmet a Jegyzőkönyvben előírt módon nyújtották-e be.
 
-(4) Ha az oltalom utólagos kiterjesztésére irányuló kérelem nem felel meg a (3) bekezdés a) pontjában meghatározott követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala felhívja a kérelmezőt a hiányok pótlására. Ennek elmaradása esetén a Szellemi Tulajdon Nemzeti Hivatala a továbbításra irányuló kérelmet elutasítja.
+(4) Ha a továbbításra irányuló kérelem vagy az oltalom utólagos kiterjesztésére irányuló kérelem nem felel meg a (3) bekezdés a) pontjában meghatározott követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala felhívja a kérelmezőt a hiányok pótlására. Ennek elmaradása esetén a Szellemi Tulajdon Nemzeti Hivatala a továbbításra irányuló kérelmet elutasítja.
 
 (5) Ha az oltalom utólagos kiterjesztésére irányuló kérelem nem felel meg a (3) bekezdés b) pontjában meghatározott követelménynek, a Szellemi Tulajdon Nemzeti Hivatala felhívja a kérelmezőt a hiányok pótlására. Ennek elmaradása esetén az oltalom utólagos kiterjesztésére irányuló kérelmet a kérelmező által benyújtott formában kell továbbítani a Nemzetközi Irodához.
 
 (6) Az oltalom utólagos kiterjesztésére irányuló kérelem tekintetében megfelelően alkalmazni kell a 76/L. §-ban foglalt rendelkezéseket.
 
-(7) Az (1)–(6) bekezdésben foglalt rendelkezéseket megfelelően kell alkalmazni, ha a nemzetközi védjegybejelentéssel vagy a nemzetközi lajstromozásból eredő oltalommal kapcsolatos változásnak a nemzetközi lajstromba való bejegyzése iránt a Megállapodás alapján a Szellemi Tulajdon Nemzeti Hivatala útján terjesztik elő a kérelmet.
+(7) Az (1)–(6) bekezdésben foglalt rendelkezéseket megfelelően kell alkalmazni, ha a nemzetközi védjegybejelentéssel vagy a nemzetközi lajstromozásból eredő oltalommal kapcsolatos változásnak a nemzetközi lajstromba való bejegyzése iránt a Jegyzőkönyv alapján a Szellemi Tulajdon Nemzeti Hivatala útján terjesztik elő a kérelmet.
 
 ### A Magyarországot megjelölő bejelentések
 
-76/N. § (1) A Magyarországot megjelölő bejelentésnek a nemzetközi lajstromozásnak a Megállapodás 3. cikkének (4) bekezdése, illetve a nemzetközi lajstromozásból eredő oltalom utólagos kiterjesztésének a Megállapodás 3ter cikkének (2) bekezdése alapján meghatározott napjától ugyanaz a hatálya, mint a Szellemi Tulajdon Nemzeti Hivatalához szabályszerűen benyújtott védjegybejelentésnek.
+76/N. § (1) A Magyarországot megjelölő bejelentésnek a nemzetközi lajstromozásnak a Jegyzőkönyv 3. cikkének (4) bekezdése, illetve a nemzetközi lajstromozásból eredő oltalom utólagos kiterjesztésének a Jegyzőkönyv 3ter cikkének (2) bekezdése alapján meghatározott napjától ugyanaz a hatálya, mint a Szellemi Tulajdon Nemzeti Hivatalához szabályszerűen benyújtott védjegybejelentésnek.
 
-(2) A Magyarországot megjelölő bejelentés alapján történő nemzetközi lajstromozással – az (1) bekezdésben megjelölt naptól kezdődően – ugyanolyan hatályú oltalom keletkezik, mint a 64. § szerinti lajstromozással, amennyiben a Szellemi Tulajdon Nemzeti Hivatala a Megállapodás 5. cikkének (1) és (2) bekezdése alapján a megjelölés Magyarországra kiterjedő oltalmát nem utasítja el, vagy az elutasítást visszavonja.
+(2) A Magyarországot megjelölő bejelentés alapján történő nemzetközi lajstromozással – az (1) bekezdésben megjelölt naptól kezdődően – ugyanolyan hatályú oltalom keletkezik, mint a 64. § szerinti lajstromozással, amennyiben a Szellemi Tulajdon Nemzeti Hivatala a Jegyzőkönyv 5. cikkének (1) és (2) bekezdése alapján a megjelölés Magyarországra kiterjedő oltalmát nem utasítja el, vagy az elutasítást visszavonja.
 
 (3) A Magyarországot megjelölő bejelentésekre vonatkozó rendelkezéseket megfelelően alkalmazni kell, ha a nemzetközi lajstromozásból eredő oltalomnak Magyarországra való utólagos kiterjesztését kérik.
 
@@ -1195,7 +1327,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (3) A Magyarországot megjelölő bejelentés tekintetében a 61/B. § (1) bekezdésének alkalmazásában a felszólalás határidejét a 76/O. § (1) bekezdése alapján történő meghirdetés napjától kell számítani.
 
-(4) Ha a nemzetközi védjegybejelentés nem felel meg a 61. § (2) bekezdése alapján vizsgált követelményeknek, vagy azzal kapcsolatban felszólalást nyújtottak be, erről a Megállapodásban meghatározott módon és határidőn belül értesíteni kell a Nemzetközi Irodát (ideiglenes elutasítás). Az értesítésben a nyilatkozattételre legalább három hónapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható.
+(4) Ha a nemzetközi védjegybejelentés nem felel meg a 61. § (2) bekezdése alapján vizsgált követelményeknek, vagy azzal kapcsolatban felszólalást nyújtottak be, erről a Jegyzőkönyvben meghatározott módon és határidőn belül értesíteni kell a Nemzetközi Irodát (ideiglenes elutasítás). Az értesítésben a nyilatkozattételre legalább három hónapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható.
 
 (5) Ha a bejelentő a felhívásra a kitűzött határidőben nem válaszol, a Szellemi Tulajdon Nemzeti Hivatala – kivéve, ha az (5a) bekezdés alkalmazásának van helye – értesíti a Nemzetközi Irodát arról, hogy a megjelölés Magyarországra kiterjedő oltalmát elutasítja (végleges elutasítás), vagy arról, hogy az oltalmat csak részben ismeri el. Az értesítéseket a Szellemi Tulajdon Nemzeti Hivatala a végleges elutasításról vagy az oltalom részben történő elismeréséről szóló döntés jogerőre emelkedését követően küldi meg a Nemzetközi Irodának. Az oltalom részben történő elismerése esetén a lajstromozás napjának a döntés keltezésének napját kell tekinteni.
 
@@ -1211,51 +1343,31 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (6)–(7)
 
-(8) A Szellemi Tulajdon Nemzeti Hivatala – a 48. § megfelelő alkalmazásával – bejegyzi a védjegylajstromba, hogy a Megállapodás 4bis cikke alapján a nemzetközi lajstromozás a Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy helyébe lépett.
+(8) A Szellemi Tulajdon Nemzeti Hivatala – a 48. § megfelelő alkalmazásával – bejegyzi a védjegylajstromba, hogy a Jegyzőkönyv 4bis cikke alapján a nemzetközi lajstromozás a Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy helyébe lépett.
 
 ### Átruházás és használati engedély hatályánakelutasítása
 
-76/R. § (1) Ha a nemzetközi lajstromozásból eredő, Magyarország területére kiterjedő oltalom tekintetében a nemzetközi lajstromba bejegyzett átruházás, illetve használati engedély tárgyában a Szellemi Tulajdon Nemzeti Hivatala úgy találja, hogy az átruházás, illetve a használati engedély – részben vagy egészben – e törvény rendelkezéseibe ütközik, erről a Megállapodásban meghatározott módon és határidőn belül – a Nemzetközi Iroda útján – értesíti a bejelentőt.
+76/R. § (1) Ha a nemzetközi lajstromozásból eredő, Magyarország területére kiterjedő oltalom tekintetében a nemzetközi lajstromba bejegyzett átruházás, illetve használati engedély tárgyában a Szellemi Tulajdon Nemzeti Hivatala úgy találja, hogy az átruházás, illetve a használati engedély – részben vagy egészben – e törvény rendelkezéseibe ütközik, erről a Megállapodásban és a Jegyzőkönyvben meghatározott módon és határidőn belül – a Nemzetközi Iroda útján – értesíti a bejelentőt.
 
 (2) A változás hatályának elutasításáról szóló értesítésben meg kell jelölni az elutasítás okait, illetve terjedelmét.
 
 ### A nemzetközi védjegy érvénytelenítése
 
-76/S. § A nemzetközi védjegynek a Megállapodás 5. cikkének (6) bekezdésében szabályozott érvénytelenítésén e törvény alkalmazásában a védjegy törlését és a védjegyoltalom megszűnésének megállapítását kell érteni.
+76/S. § A nemzetközi védjegynek a Jegyzőkönyv 5. cikkének (6) bekezdésében szabályozott érvénytelenítésén e törvény alkalmazásában a védjegy törlését és a védjegyoltalom megszűnésének megállapítását kell érteni.
 
 ### Kiegészítő lajstrom
 
-76/T. § A Szellemi Tulajdon Nemzeti Hivatala a Magyarországot megjelölő bejelentések tekintetében kiegészítő lajstromot vezet, amelybe a nemzetközi lajstromba a Megállapodás szerint be nem jegyezhető tényeket és körülményeket kell bejegyezni.
-
-### X/D. Fejezet — A JEGYZŐKÖNYV ALAPJÁN TETT NEMZETKÖZI VÉDJEGYBEJELENTÉSEK
-
-### A Szellemi Tulajdon Nemzeti Hivatala útján benyújtott bejelentések
-
-76/U. § (1) A Szellemi Tulajdon Nemzeti Hivatalához benyújtott védjegybejelentés, valamint a Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy jogosultja a Szellemi Tulajdon Nemzeti Hivatala mint származási hivatal útján – a Jegyzőkönyv alapján – nemzetközi védjegybejelentést tehet a Nemzetközi Irodához.
-
-(2) Ha a nemzetközi védjegybejelentést az (1) bekezdésben említett védjegy lajstromozása előtt nyújtják be, a bejelentő nyilatkozhat úgy, hogy a nemzetközi védjegybejelentést az (1) bekezdésben említett védjegy alapján kívánja megtenni. Ebben az esetben a benyújtás napjának a védjegy lajstromozásának napját kell tekinteni.
-
-(3) A Szellemi Tulajdon Nemzeti Hivatala továbbítja azt a nemzetközi védjegybejelentést, amelynek esetében a bejelentő
-
-- a) magyar állampolgár, vagy
-- b) lakóhelye belföldön van, vagy
-- c) belföldön valóságos és működő ipari vagy kereskedelmi telephellyel rendelkezik.
-
-(4) A nemzetközi védjegybejelentést a Szellemi Tulajdon Nemzeti Hivatalánál mint származási hivatalnál a Jegyzőkönyvben előírt alaki követelményeknek megfelelően, a Jegyzőkönyvben előírt módon és – a bejelentő választása szerint – a Jegyzőkönyvben előírt nyelvek egyikén kell benyújtani.
-
-(5) A Jegyzőkönyv alapján tett nemzetközi védjegybejelentésre megfelelően alkalmazni kell a 76/J. § (5) bekezdésében és a 76/K–76/M. §-okban foglalt rendelkezéseket, azzal az eltéréssel, hogy a Megállapodásra történő utaláson a Jegyzőkönyvre történő utalást kell érteni.
-
-### A Megállapodás alapján tett nemzetközi védjegybejelentésekre vonatkozó rendelkezések alkalmazása
-
-76/V. § A Jegyzőkönyv alapján tett nemzetközi védjegybejelentésre megfelelően alkalmazni kell a 76/N–76/T. §-okban foglalt rendelkezéseket, azzal az eltéréssel, hogy a Megállapodásra történő utaláson a Jegyzőkönyvre történő utalást kell érteni.
+76/T. § A Szellemi Tulajdon Nemzeti Hivatala a Magyarországot megjelölő bejelentések tekintetében kiegészítő lajstromot vezet, amelybe a nemzetközi lajstromba a Megállapodás és a Jegyzőkönyv szerint be nem jegyezhető tényeket és körülményeket kell bejegyezni.
 
 ### A nemzetközi lajstromozás átalakítása nemzeti védjegybejelentéssé
 
-76/Z. § (1) A Jegyzőkönyv 9quinquies cikke szerinti átalakítási kérelmet a nemzetközi lajstromozás törlésének napjától számított három hónapon belül kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához.
+76/U. § (1) A Jegyzőkönyv 9quinquies cikke szerinti átalakítási kérelmet a nemzetközi lajstromozás törlésének napjától számított három hónapon belül kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához.
 
-(2) Az átalakításra irányuló kérelem benyújtását követő négy hónapon belül be kell nyújtani az árujegyzék magyar nyelvű fordítását, valamint két hónapon belül meg kell fizetni a bejelentési díjnak a külön jogszabályban meghatározott mértékét kitevő átalakítási díjat. Ezek elmaradása esetén az átalakításra irányuló kérelmet visszavontnak kell tekinteni.
+(2) Az átalakításra irányuló kérelem benyújtását követő négy hónapon belül be kell nyújtani az árujegyzék magyar nyelvű fordítását, valamint két hónapon belül meg kell fizetni a bejelentési díjnak az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott mértékű átalakítási díjat. Ezek elmaradása esetén az átalakításra irányuló kérelmet visszavontnak kell tekinteni.
 
 (3) Egyebekben az átalakításra irányuló kérelem tekintetében a VII–IX. fejezetek rendelkezéseit kell megfelelően alkalmazni; ha azonban a nemzetközi lajstromozást a 76/P. § (5) és (5c)–(5e) bekezdéseiben meghatározott valamely lajstromozási napot követően törlik, a Szellemi Tulajdon Nemzeti Hivatala a megjelölést a 61–63. §-okban foglalt rendelkezések alkalmazása nélkül védjegyként lajstromozza. Ebben az esetben a lajstromozás napjának a 76/P. § (5) és (5c)–(5e) bekezdései alapján meghatározott napot kell tekinteni.
+
+### X/D. Fejezet
 
 ## ÖTÖDIK RÉSZ — BÍRÓSÁGI ELJÁRÁS VÉDJEGYÜGYEKBEN
 
@@ -1299,8 +1411,8 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 (11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
 
 - a) az eljáró bíróság megnevezését,
-- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
-- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+- b) a kérelmező 38. § (2b) bekezdésében meghatározott azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének a 38. § (2b) bekezdésében meghatározott azonosító adatait és biztonságos kézbesítési szolgáltatási címét.
 
 (11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
 
@@ -1327,7 +1439,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A megváltoztatási kérelemmel kapcsolatos eljárásra irányadó szabályok
 
-79. § A bíróság a Szellemi Tulajdon Nemzeti Hivatala döntésének megváltoztatására irányuló kérelmet nemperes eljárásban – az e törvényben foglalt eltérő rendelkezések alkalmazásával – bírálja el. Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
+79. § A bíróság a Szellemi Tulajdon Nemzeti Hivatala döntésének megváltoztatására irányuló kérelmet nemperes eljárásban – az e törvényben foglalt eltérő rendelkezések alkalmazásával – bírálja el. Azokra az eljárási kérdésekre, amelyeket e törvény eltérően nem szabályoz, a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni.
 
 ### Nyilvánosság
 
@@ -1358,7 +1470,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Képviselet
 
-85. § (1) Az eljárás során meghatalmazottként szabadalmi ügyvivő is eljárhat.
+85. § (1) Az eljárás során meghatalmazottként, ideértve a 85/A. § szerinti jogi képviseletet is, szabadalmi ügyvivő is eljárhat.
 
 (2) A szabadalmi ügyvivőnek vagy ügyvédnek – akár belföldön, akár külföldön – adott meghatalmazás érvényességéhez elegendő, ha azt a meghatalmazó aláírta.
 
@@ -1424,7 +1536,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A védjegyperekre irányadó szabályok
 
-95. § (1) A védjegybitorlás miatt indított perekben, a 14. §, illetve a 19. § (5) bekezdése alapján a védjegynek a képviselő, illetve az ügynök általi használatától való eltiltás iránt, illetve a védjegyoltalmi igény vagy a védjegyoltalom átruházása iránt indított perekben, valamint az európai uniós védjegyrendelet [76/A. § a) pont] 110. és 111. cikke, illetve 165. cikkének (5) bekezdése alapján az európai uniós védjegy használatától való eltiltás iránt indított perekben a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik. E perekben a Fővárosi Törvényszék a 78. § (2) bekezdésében meghatározott összetételű tanácsban jár el.
+95. § (1) A védjegybitorlás miatt indított perekben, a 14. § alapján a védjegynek a képviselő, illetve az ügynök általi használatától való eltiltás iránt, illetve a védjegyoltalmi igény vagy a védjegyoltalom átruházása iránt indított perekben, valamint az európai uniós védjegyrendelet [4. § (2) bek. ab) alpontja] 137. és 138. cikke, illetve 209. cikk (5) bekezdése alapján az európai uniós védjegy használatától való eltiltás iránt indított perekben a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik. E perekben a Fővárosi Törvényszék a 78. § (2) bekezdésében meghatározott összetételű tanácsban jár el.
 
 (2) Védjegybitorlás miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a Pp. 103. § (1) bekezdés d) pontja szerinti különös méltánylást érdemlő okból szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a védjegy oltalom alatt áll, és ő a védjegy jogosultja vagy olyan használója, aki jogosult saját nevében fellépni a bitorlással szemben.
 
@@ -1432,24 +1544,24 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (4) Védjegybitorlás vagy annak közvetlenül fenyegető veszélye esetén ideiglenes intézkedés iránti kérelem előterjeszthető a keresetlevél benyújtását megelőzően a Pp. perindítást megelőző ideiglenes intézkedésre vonatkozó rendelkezéseiben előírt többletfeltételek hiányában is. A keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés iránti kérelmet a Fővárosi Törvényszék bírálja el. Az ideiglenes intézkedés iránti nemperes eljárásra, e törvény eltérő rendelkezése hiányában, a polgári perrendtartásról szóló törvény szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit kell alkalmazni. Ha a kérelmező a (8) bekezdésben foglaltak szerint a védjegybitorlás miatt a pert megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
 
-(5) A védjegyjogosult – a bitorlás esetén támasztható polgári jogi igényeken felül – az ideiglenes intézkedésre vonatkozó feltételekkel kérheti a bíróságtól
+(5) A védjegyjogosult vagy a védjegy olyan használója, aki jogosult saját nevében fellépni a bitorlással szemben – a bitorlás esetén támasztható polgári jogi igényeken felül – az ideiglenes intézkedésre vonatkozó feltételekkel kérheti a bíróságtól
 
 - a) biztosítási intézkedés elrendelését a bírósági végrehajtásról szóló törvény szabályai szerint, ha valószínűsítette, hogy a kártérítés, illetve a bitorlással elért gazdagodás visszatérítése iránti követelésének későbbi kielégítése veszélyben van;
 - b) a bitorló kötelezését banki, pénzügyi és kereskedelmi adatainak és iratainak közlésére, illetve bemutatására az a) pont szerinti biztosítási intézkedés elrendelése céljából;
 - c) ellenbiztosíték adását, ha ennek fejében – a védjegybitorlás abbahagyásának követelése helyett – hozzájárul a feltételezett védjegybitorlási cselekmények bitorló általi folytatásához.
 
-(6) Az ellenbiztosíték adását az (5) bekezdés c) pontja alapján a bíróság a védjegyjogosult erre irányuló kérelme hiányában is elrendelheti, feltéve, hogy a védjegyjogosult előterjesztett kérelmet a bitorlás abbahagyása iránt, és annak a bíróság nem ad helyt.
+(6) Az ellenbiztosíték adását az (5) bekezdés c) pontja alapján a bíróság erre irányuló kérelem hiányában is elrendelheti, feltéve, hogy a védjegyjogosult vagy a védjegy olyan használója, aki jogosult saját nevében fellépni a bitorlással szemben, előterjesztett bitorlás abbahagyása iránti kérelmet, és annak a bíróság nem ad helyt.
 
 (7) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz. Az ideiglenes intézkedés tárgyában hozott végzés elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
 
-(8) A bíróság a keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés iránti kérelem – ideértve az (5) és (6) bekezdés alapján elrendelhető intézkedéseket is – tárgyában hozott végzését az ellenérdekű fél kérelmére hatályon kívül helyezi, ha a védjegyjogosult a pert a védjegybitorlás miatt az ideiglenes intézkedéssel érvényesített követelés tárgyában nem indította meg a végzés közlésétől számított tizenöt napon belül. A bíróság az ideiglenes intézkedés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz.
+(8) A bíróság a keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés iránti kérelem – ideértve az (5) és (6) bekezdés alapján elrendelhető intézkedéseket is – tárgyában hozott végzését az ellenérdekű fél kérelmére hatályon kívül helyezi, ha a kérelmező a pert a védjegybitorlás miatt az ideiglenes intézkedéssel érvényesített követelés tárgyában nem indította meg a végzés közlésétől számított tizenöt napon belül. A bíróság az ideiglenes intézkedés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz.
 
 (9) Ha a védjegybitorlás miatt indított perben az egyik fél tényállításait már elvárható mértékben valószínűsítette, a bíróság a bizonyító fél kérelmére az ellenérdekű felet kötelezheti
 
 - a) a birtokában lévő okirat és egyéb tárgyi bizonyíték bemutatására, valamint a szemle lehetővé tételére;
 - b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a birtokában lévő ilyen iratok bemutatására.
 
-(10) Előzetes bizonyításnak a per megindítása előtt helye van akkor is, ha a védjegyjogosult a védjegybitorlás tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Az előzetes bizonyítás tárgyában a bíróság soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz. Az előzetes bizonyítást elutasító végzés ellen fellebbezésnek van helye, amelyet a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül végzéssel bírál el. Ha a per még nem indult meg, az előzetes bizonyítást a Fővárosi Törvényszéknél kell kérni. Az előzetes bizonyítást a Fővárosi Törvényszék folytatja le.
+(10) Előzetes bizonyításnak a per megindítása előtt helye van akkor is, ha a védjegyjogosult vagy a védjegy olyan használója, aki jogosult saját nevében fellépni a bitorlással szemben, a védjegybitorlás tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Az előzetes bizonyítás tárgyában a bíróság soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz. Az előzetes bizonyítást elutasító végzés ellen fellebbezésnek van helye, amelyet a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül végzéssel bírál el. Ha a per még nem indult meg, az előzetes bizonyítást a Fővárosi Törvényszéknél kell kérni. Az előzetes bizonyítást a Fővárosi Törvényszék folytatja le.
 
 (11) A bíróság az előzetes bizonyítást elrendelő végzést az ellenérdekű fél kérelmére hatályon kívül helyezi, ha a védjegyjogosult a pert a védjegybitorlás miatt nem indította meg az előzetes bizonyítást elrendelő végzés közlésétől számított tizenöt napon belül. A bíróság az előzetes bizonyítást elrendelő végzés hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül végzéssel határoz.
 
@@ -1471,7 +1583,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Az együttes védjegy
 
-96. § (1) Az együttes védjegy olyan védjegy, amely valamely egyesület, köztestület vagy egyesülés (a továbbiakban együtt: egyesület) tagjainak áruit vagy szolgáltatásait különbözteti meg mások áruitól vagy szolgáltatásaitól, az együttes védjeggyel megjelölt áruk vagy szolgáltatások minősége, származása vagy egyéb tulajdonsága alapján.
+96. § (1) Az együttes védjegy olyan védjegy, amelyet a védjegybejelentésben ilyenként jelölnek meg, és amely alkalmas arra, hogy valamely egyesület, köztestület vagy egyesülés tagjainak áruit vagy szolgáltatásait mások áruitól vagy szolgáltatásaitól megkülönböztesse.
 
 (2)
 
@@ -1480,19 +1592,19 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - a) jellegét vagy jelentőségét illetően alkalmas a fogyasztók megtévesztésére, különösen, ha a fogyasztók másnak tekinthetnék, mint együttes védjegynek,
 - b) a használatáról rendelkező szabályzat a közrendbe, a közerkölcsbe vagy jogszabályba ütköző előírást tartalmaz.
 
-(4) Az együttes védjegy oltalma az egyesületet illeti meg, használatára az egyesület tagjai is jogosultak.
+(4) Az együttes védjegy oltalma az egyesületet, köztestületet vagy egyesülést illeti meg, használatára azok tagjai is jogosultak.
 
-(5)
+(5) Az együttes védjegy lajstromozására irányuló bejelentés nem utasítható el, ha a bejelentő az együttes védjegy használatára vonatkozó szabályzat módosítása révén eleget tesz a 97. §-ban foglalt feltételeknek.
 
-(6) A 18. § alkalmazásában az is az együttes védjegy használatának minősül, ha a védjegyet az egyesület bármelyik tagja használja.
+(6) A 18. § alkalmazásában az is az együttes védjegy használatának minősül, ha a védjegyet az egyesület, köztestület vagy egyesülés bármelyik tagja használja.
 
 ### Szabályzat az együttes védjegyhez
 
-97. § (1) A megjelölés akkor részesülhet együttes védjegyként oltalomban, ha használatáról – a (2) bekezdésben meghatározott követelményeknek megfelelő – szabályzat rendelkezik. A szabályzatot az együttes védjegyre jogosult egyesület állapítja meg.
+97. § (1) A megjelölés akkor részesülhet együttes védjegyként oltalomban, ha használatáról – a (2) bekezdésben meghatározott követelményeknek megfelelő – szabályzat rendelkezik. A szabályzatot az együttes védjegyre jogosult egyesület, köztestület vagy egyesülés állapítja meg.
 
 (2) A szabályzatnak tartalmaznia kell:
 
-- a) a védjegyjogosult egyesület elnevezését és székhelyét;
+- a) a védjegyjogosult egyesület, köztestület vagy egyesülés elnevezését és székhelyét;
 - b) a védjegy használatára jogosult tagok felsorolását, nevük, címük, illetve székhelyük feltüntetésével;
 - c) a tagság feltételeit;
 - d) a védjegy használatának feltételeit;
@@ -1517,21 +1629,25 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### Az együttes védjegy oltalmának megszűnése
 
-99. § (1)–(2)
+99. § (1) A 34. § és 35. §-ban foglalt megszűnési okokon túlmenően az együttes védjegy oltalma megszűnik – a megszűnést megállapító határozatban megjelölt időpontban – akkor is, ha a védjegyjogosult nem teszi meg a szükséges intézkedéseket az együttes védjegy szabályzattal ellentétes használatának megakadályozására.
 
-(3) Az együttes védjegy oltalma megszűnik – a megszűnést megállapító határozatban megjelölt időpontban – akkor is, ha a védjegyjogosult nem teszi meg a szükséges intézkedéseket az együttes védjegy szabályzattal ellentétes használatának megakadályozására.
+(2) A 33. §-ban foglalt törlési okokon túlmenően, ha a megjelölés együttes védjegyként a 96. § (1) és (3) bekezdése és a 97. § alapján nem részesülhet oltalomban, az együttes védjegyet törölni kell, kivéve, ha a védjegyjogosult a törlési eljárás során az együttes védjegy használatára vonatkozó szabályzatot úgy módosítja, hogy az eleget tesz a követelményeknek. Ha a megjelölés a 96. § (3) bekezdése alapján az oltalomból kizárttá válik, az együttes védjegy oltalmának megszűnését a megszűnés megállapítására irányuló kérelem benyújtásának napjára visszaható hatállyal kell megállapítani.
 
-(4) Ha a megjelölés együttes védjegyként a 96. § (3) bekezdése alapján nem részesülhet oltalomban, az együttes védjegyet törölni kell. Ha a megjelölés a 96. § (3) bekezdése alapján az oltalomból kizárttá válik, az együttes védjegy oltalmának megszűnését a megszűnés megállapítására irányuló kérelem benyújtásának napjára visszaható hatállyal kell megállapítani.
+(3) Az együttes védjegy oltalmának megszűnését kell megállapítani akkor is, ha az együttes védjegy használatára vonatkozó szabályzat módosításának bejegyzésére a 97. § (5) bekezdésének megsértésével kerül sor, kivéve, ha a 97. §-ban foglalt követelményeknek az együttes védjegy használatára vonatkozó szabályzat további módosítása révén eleget tesz.
 
 ### Az együttes védjegy oltalmából folyó jogok érvényesítése
 
-100. § Az együttes védjegy használatára tagsági viszonyuk alapján jogosultak csak a védjegyjogosult beleegyezésével léphetnek fel a bitorlóval szemben; a védjegyjogosult által indított perbe azonban beavatkozhatnak.
+100. § (1) Az együttes védjegy jogosultja az együttes védjegy használatára jogosult személyeknek a harmadik fél által a védjegy jogosulatlan használatával okozott káráért a használatra jogosult személyek nevében és javára – az együttes védjegy használatára jogosult személyek perben állása nélkül – kártérítést követelhet.
+
+(2) Az együttes védjegy használatára tagsági jogviszonya alapján jogosult személy csak a védjegyjogosult hozzájárulásával indíthat pert védjegybitorlás miatt. Az ilyen használó saját nevében, a védjegyjogosult hozzájárulása nélkül akkor indíthat pert védjegybitorlás miatt, ha a védjegyjogosultat előzetesen a per megindítására felhívta, és a védjegyjogosult a felhívástól számított harminc napon belül nem indított védjegybitorlási pert.
+
+(3) A használó a védjegy jogosulatlan használata következtében neki okozott kár megtérítése céljából a védjegyjogosult által indított bitorlási perbe – ha a védjegyjogosult az (1) bekezdés alapján nem követel a nevében és javára kártérítést – a védjegyjogosult pertársaként a perbe beléphet. A perbelépés határidejére a Pp. 52. § (2) bekezdésének a) pontját, a pertársak viszonyára pedig a Pp. 38. § (3) bekezdését és 39. §-át kell megfelelően alkalmazni.
 
 ### XIV. Fejezet — TANÚSÍTÓ VÉDJEGY
 
 ### A tanúsító védjegy
 
-101. § (1) A tanúsító védjegy olyan védjegy, amely meghatározott minőségű vagy egyéb jellemzőjű árukat vagy szolgáltatásokat azzal különböztet meg más áruktól vagy szolgáltatásoktól, hogy e minőségüket vagy jellemzőjüket tanúsítja.
+101. § (1) A tanúsító védjegy olyan védjegy, amelyet a védjegybejelentésben ilyenként jelölnek meg, és amely alkalmas arra, hogy a védjegyjogosult által az anyagösszetétel, az áruk gyártási módja vagy a szolgáltatásnyújtás módja, illetve a minőség, pontosság vagy egyéb jellemző tekintetében tanúsított árukat vagy szolgáltatásokat megkülönböztesse az ilyen tanúsítással nem rendelkező más áruktól vagy szolgáltatásoktól.
 
 (2) Nem szerezhet oltalmat tanúsító védjegyre
 
@@ -1554,7 +1670,9 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (6) A tanúsító védjegy szabályzatára, bejelentésére és lajstromozására, használatára, átruházására, a tanúsító védjegy oltalmának megszűnésére és az ilyen védjegy oltalmából eredő jogok érvényesítésére az együttes védjegyre és oltalmára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
-(7) A tanúsító védjegyet törölni kell akkor is, ha a bejelentést a (2) bekezdés alapján arra nem jogosult nyújtotta be.
+(6a) A 18. § szerinti tényleges használatnak kell tekinteni azt is, ha a tanúsító védjegyet bármely arra jogosult személy használja a 18. §-ban foglaltaknak megfelelően.
+
+(7) A tanúsító védjegyet törölni kell akkor is, ha a bejelentést a (2) bekezdés alapján arra nem jogosult nyújtotta be. A tanúsító védjegy oltalma megszűnik – a megszűnést megállapító határozatban megjelölt időpontban – akkor is, ha a védjegyjogosult utóbb nem felel meg a (2) bekezdésben foglalt követelményeknek.
 
 (8) A tanúsító védjegy használatára alkalmazni kell a minőség vagy egyéb jellemzők tanúsításáról rendelkező külön jogszabályok előírásait is.
 
@@ -1562,7 +1680,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A védjegyekre vonatkozó rendelkezések alkalmazása
 
-102. § Az együttes és a tanúsító védjegyekre, valamint oltalmukra az e részben nem szabályozott kérdésekben a védjegyekre és oltalmukra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a 96. § (3) bekezdésében meghatározott okokra tekintettel is lehet észrevételt tenni.
+102. § Az együttes és a tanúsító védjegyekre, valamint oltalmukra az e részben nem szabályozott kérdésekben a védjegyekre és oltalmukra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a 96. § (1) és (3) bekezdésében, a 97. §-ban, valamint a 101. § (1)–(2) és (4) bekezdésében meghatározott okokra tekintettel is lehet észrevételt tenni.
 
 ## HETEDIK RÉSZ — A FÖLDRAJZI ÁRUJELZŐK OLTALMA
 
@@ -1599,7 +1717,7 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 - a) kielégíti a 103., illetve 104. §-okban meghatározott követelményeket, és a 105. és 106. §-ok alapján nincs kizárva az oltalomból; valamint
 - b) bejelentése megfelel az e törvényben megszabott feltételeknek.
 
-(2) A földrajzi árujelzőre oltalmat szerezhet bármely természetes és jogi személy, valamint jogi személyiség nélküli gazdasági társaság, amely az árujelzőben feltüntetett földrajzi területen olyan terméket termel, dolgoz fel vagy állít elő, amelynek megjelölésére a földrajzi árujelzőt használják.
+(2) A földrajzi árujelzőre oltalmat szerezhet bármely természetes és jogi személy, amely az árujelzőben feltüntetett földrajzi területen olyan terméket termel, dolgoz fel vagy állít elő, amelynek megjelölésére a földrajzi árujelzőt használják.
 
 (3) A földrajzi árujelző oltalma együttesen illeti meg azokat, akik a (2) bekezdésnek megfelelően termelnek, dolgoznak fel vagy állítanak elő termékeket (a továbbiakban: jogosultak).
 
@@ -1676,9 +1794,9 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### A földrajzi árujelző lajstromozására irányuló eljárás
 
-113. § (1) A földrajzi árujelző lajstromozására irányuló bejelentésnek tartalmaznia kell a bejelentési kérelmet, a földrajzi árujelző megnevezését, a termékjegyzéket és az egyéb mellékleteket. A bejelentést a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+113. § (1) A földrajzi árujelző lajstromozására irányuló bejelentésnek tartalmaznia kell a bejelentési kérelmet, a földrajzi árujelző megnevezését, a termékjegyzéket és az egyéb mellékleteket. A bejelentési kérelemnek tartalmaznia kell a 38. § (2b) bekezdésében meghatározott adatokat. A bejelentést egyebekben a földrajzi árujelzőre vonatkozó bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 
-(2) A földrajzi árujelző bejelentéséért külön jogszabályban meghatározott bejelentési díjat kell fizetni a bejelentési naptól számított két hónapon belül.
+(2) A földrajzi árujelző bejelentéséért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni a bejelentési naptól számított két hónapon belül.
 
 (3) A földrajzi árujelző lajstromozására irányuló bejelentésről, ha az – a benyújtáskor vagy a hiánypótlás eredményeként – kielégíti a bejelentési nap elismeréséhez előírt feltételeket, a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában hatósági tájékoztatást tesz közzé (adatközlés). Az adatközlés különösen a következő adatokat tartalmazza:
 
@@ -1723,9 +1841,9 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 ### XVII/A. Fejezet — A MEZŐGAZDASÁGI TERMÉKEK ÉS AZ ÉLELMISZEREK, A SZŐLÉSZETI ÉS BORÁSZATI TERMÉKEK, AZ ÍZESÍTETT BORÁSZATI TERMÉKEK, VALAMINT A SZESZES ITALOK FÖLDRAJZI ÁRUJELZŐINEK UNIÓS OLTALMÁRA VONATKOZÓ RENDELKEZÉSEK
 
-116/A. § (1) A mezőgazdasági termékek és az élelmiszerek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1151/2012/EU rendelet) rendelkezései az irányadók.
+116/A. § (1) A mezőgazdasági termékek és az élelmiszerek földrajzi árujelzőinek uniós oltalmára az 1151/2012/EU európai parlamenti és tanácsi rendelet rendelkezéseit kell alkalmazni.
 
-(2) A szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU rendelet) rendelkezései, az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 251/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 251/2014/EU rendelet) rendelkezései az irányadók.
+(2) A szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára az 1308/2013/EU európai parlamenti és tanácsi rendelet rendelkezései, az ízesített borászati termékek földrajzi árujelzőinek oltalmára a 251/2014/EU európai parlamenti és tanácsi rendelet rendelkezéseit kell alkalmazni.
 
 (3) Az 1151/2012/EU rendelet, az 1308/2013/EU rendelet, illetve a 251/2014/EU rendelet alapján a tagállami hatáskörbe tartozó ügyekben a miniszter és a Szellemi Tulajdon Nemzeti Hivatala jár el.
 
@@ -1825,12 +1943,12 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 116/F. § (1) A Szellemi Tulajdon Nemzeti Hivatala a nemzetközi bejelentés továbbítását megelőzően megvizsgálja, hogy
 
-- a) a bejelentés tartalmazza-e a származási ország megjelölését, a bejelentő azonosítására alkalmas adatokat, az eredetmegjelölést, a termékjegyzéket, az eredetmegjelöléshez tartozó földrajzi területet;
+- a) benyújtották-e a továbbításra irányuló kérelmet, valamint azt, hogy az tartalmazza-e a 38. § (2b) bekezdésében meghatározott adatokat, a bejelentés pedig tartalmazza-e a származási ország megjelölését, a bejelentő nevét és lakcímét vagy székhelyét, az eredetmegjelölést, a termékjegyzéket, az eredetmegjelöléshez tartozó földrajzi területet;
 - b) a bejelentés adatai megegyeznek-e a 116/E. § (1) bekezdésében említett eredetmegjelölésnek a lajstromban szereplő adataival;
 - c) a bejelentést a Megállapodásban előírt nyelven és módon nyújtották-e be;
 - d) a bejelentés tartalmazza-e a bejelentő, illetve képviselője aláírását.
 
-(2) Ha a bejelentés nem felel meg az (1) bekezdésben meghatározott követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala felhívja a bejelentőt a hiányok pótlására. Ennek elmaradása esetén a nemzetközi bejelentést a bejelentő által benyújtott formában kell továbbítani a Nemzetközi Irodához.
+(2) Ha a továbbításra irányuló kérelem vagy a bejelentés nem felel meg az (1) bekezdésben meghatározott követelményeknek, a Szellemi Tulajdon Nemzeti Hivatala felhívja a bejelentőt a hiányok pótlására. Ha a továbbításra irányuló kérelem a hiánypótlást követően sem elégíti ki az (1) bekezdés a) pontjában meghatározott követelményeket, a Szellemi Tulajdon Nemzeti Hivatala a továbbításra irányuló kérelmet elutasítja. Ha a továbbításra irányuló kérelmet nem lehet elutasítani, de a bejelentés a hiánypótlást követően sem elégíti ki az (1) bekezdésben meghatározott követelményeket, a nemzetközi bejelentést a bejelentő által benyújtott formában kell továbbítani a Nemzetközi Irodához.
 
 116/G. § (1) A nemzetközi bejelentés továbbításáért a Szellemi Tulajdon Nemzeti Hivatalához külön jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi bejelentéssel kapcsolatban a Nemzetközi Irodához a Megállapodásban meghatározott nemzetközi díjat kell fizetni.
 
@@ -1910,31 +2028,45 @@ A magyar piacgazdaság fejlődésének előmozdítása, a megkülönböztetésre
 
 (5) A 3. § (2) bekezdésének 2009. augusztus 1-jétől hatályos rendelkezéseit alkalmazni kell azokban az ügyekben is, amelyek 2009. augusztus 1-jén folyamatban voltak.
 
-120. § Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+120. §
 
 120/A. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+120/B. § (1) E törvénynek a 2018. évi LXVII. törvénnyel megállapított rendelkezéseit – a (2)–(5) bekezdésekben foglalt eltérésekkel és kiegészítésekkel – a 2019. január 1-jén vagy azt követően indult eljárásokban kell alkalmazni.
+
+(2) A 2019. január 1-jét megelőző bejelentési nappal lajstromozott védjegy törlésének és az ilyen védjegyoltalom megszűnése megállapításának feltételeire e törvény 2018. december 31-én hatályos rendelkezéseit kell alkalmazni, azzal az eltéréssel, hogy a 2019. január 1-jétől hatályos rendelkezéseket kell alkalmazni akkor, ha az e rendelkezések hatálybalépését megelőző bejelentési nappal lajstromozott védjegyet a hatálybalépést követően megújítják. Az így megújított védjegy törlése esetén a védjegyoltalom az előző oltalmi idő lejártának napjára visszaható hatállyal szűnik meg. Az eltérés nem alkalmazható akkor, ha a védjegy törlésének feltételei e törvény 2018. december 31-én hatályos szabályai szerint fennálltak.
+
+(3) E törvénynek a 2018. évi LXVII. törvénnyel megállapított 52. § (6) bekezdését a 2019. január 1-jei vagy annál későbbi bejelentési nappal rendelkező védjegybejelentések és az ezek alapján lajstromozott védjegyek tekintetében kell alkalmazni.
+
+(4) A 2019. január 1-jét megelőzően megkezdett védjegyhasználatra a védjegyoltalom tartalma és korlátai, a védjegyhasználat fogalma, valamint a védjegybitorlás tekintetében a használatnak a 2019. január 1-jén meglévő mértékéig e törvénynek a 2018. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+(5) E törvénynek a 2018. évi LXVII. törvénnyel megállapított 65. § (3)–(5) bekezdését azokra a védjegyekre kell alkalmazni, amelyeknek az oltalma a 2019. június 30-át követően jár le. A korábban lejáró védjegyoltalom tekintetében a 65. § (3)–(4) bekezdésének a 2018. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 ### Felhatalmazások
 
 121. § (1) Felhatalmazást kap a Kormány, hogy
 
-- a) a védjegybejelentések és a megújítási kérelmek elektronikus úton való benyújtására vonatkozó részletes szabályokat rendelettel megállapítsa;
+- a)
 - b) a mezőgazdasági termékek és az élelmiszerek, a szeszes italok, a szőlészeti és borászati termékek, valamint az ízesített borászati termékek földrajzi árujelzőinek oltalmára irányuló eljárásra, a termékek ellenőrzésére és az azzal kapcsolatban felmerülő eljárási költségekre, az ellenőrzés során kiszabható bírság mértékére, valamint a 110/2008/EK rendelet 20. cikke értelmében oltalomban részesülő szeszes italok, az 1308/2013/EU rendelet 107. cikke értelmében oltalomban részesülő szőlészeti és borászati termékek, illetve a 251/2014/EU rendelet 26. cikke értelmében oltalomban részesülő ízesített borászati termékek esetében a termékleírás benyújtására, valamint az érintett forgalombahozatali, előállítási feltételek körére, továbbá a földrajzi árujelző használatának tilalmi körére vonatkozó részletes szabályokat rendelettel megállapítsa, és az ellenőrző hatóságot vagy hatóságokat kijelölje.
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatala elnöke véleményének kikérésével, a Szellemi Tulajdon Nemzeti Hivatala felett felügyeletet gyakorló miniszterrel egyetértésben – a védjegybejelentés és a földrajzi árujelzőre vonatkozó bejelentés részletes alaki szabályait rendelettel megállapítsa.
 
 ### Az Európai Unió jogának való megfelelés
 
-122. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+122. § (1) Ez a törvény
 
-- a) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.) a szellemi tulajdonjogok érvényesítéséről;
-- b) az Európai Parlament és a Tanács 2008/95/EK irányelve (2008. október 22.) a védjegyekre vonatkozó tagállami jogszabályok közelítéséről.
+- a) a szellemi tulajdonjogok érvényesítéséről szóló, 2004. április 29-i (EK) 2004/48/EK európai parlamenti és tanácsi irányelvnek, valamint
+- b) a védjegyekre vonatkozó tagállami jogszabályok közelítéséről szóló, 2015. december 16-i (EU) 2015/2436 európai parlamenti és tanácsi irányelvnek
 
-(2) Ez a törvény megállapítja a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket:
+való megfelelést szolgálja.
 
-- a) a közösségi védjegyről szóló, 2009. február 26-i 207/2009/EK tanácsi rendelet és az azt módosító 2015/2424/EU európai parlamenti és tanácsi rendelet;
-- b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet;
-- c) a mezőgazdasági termékek és élelmiszerek földrajzi jelzéseinek és eredetmegjelöléseinek oltalmáról szóló 510/2006/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2006. december 14-i 1898/2006/EK bizottsági rendelet;
-- d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet III. fejezete;
-- e) a szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet II. része II. címe I. fejezetének 2. szakasza,
-- f) az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i 251/2014/EU európai parlamenti és tanácsi rendelet III. fejezete.
+(2) Ez a törvény
+
+- a) az európai uniós védjegyről szóló, 2017. június 14-i (EU) 2017/1001 európai parlamenti és tanácsi rendeletnek;
+- b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i (EU) 1151/2012 európai parlamenti és tanácsi rendeletnek;
+- c) az 1151/2012/EU európai parlamenti és tanácsi rendeletnek az oltalom alatt álló eredetmegjelölések, az oltalom alatt álló földrajzi jelzések és a hagyományos különleges termékek uniós szimbólumainak létrehozása tekintetében, valamint a származásra vonatkozó bizonyos szabályok, bizonyos eljárási szabályok és bizonyos kiegészítő átmeneti szabályok tekintetében történő kiegészítéséről szóló, 2013. december 18-i (EU) 664/2014 felhatalmazáson alapuló bizottsági rendeletnek;
+- d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i (EK) 110/2008 európai parlamenti és tanácsi rendelet III. fejezetének;
+- e) a szőlészeti és borászati termékek földrajzi árujelzőinek uniós oltalmára a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i (EU) 1308/2013 európai parlamenti és tanácsi rendelet II. része II. címe I. fejezetének 2. szakaszának;
+- f) az ízesített borászati termékek földrajzi árujelzőinek oltalmára az ízesített borászati termékek meghatározásáról, megnevezéséről, kiszereléséről, jelöléséről és földrajzi árujelzőinek oltalmáról és az 1601/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2014. február 26-i (EU) 251/2014 európai parlamenti és tanácsi rendelet III. fejezetének
+
+a végrehajtásához szükséges rendelkezéseket állapít meg.

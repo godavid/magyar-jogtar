@@ -90,7 +90,10 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - 39. mérvadó létesítményrész: olyan létesítményrész, amely legalább 30%-kal hozzájárul a létesítménynek ingyenesen kiosztott kibocsátási egységek végleges éves mennyiségéhez vagy több mint 50 000 kibocsátási egységnek a létesítmény részére történő kiosztásához,
 - 40. részleges működésbeszüntetés: ha egy mérvadó létesítményrész tevékenységi szintjét egy adott naptári évben a létesítményrésznek kiosztott mennyiség kiszámításához használt kezdeti tevékenységi szinthez képest az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint legalább 50%-kal, vagy legalább 75%-kal vagy 90%-kal csökkenti,
 - 41. részleges működésbeszüntetést követő újraindítás: olyan jelentős változás, amikor a működését beszüntetett létesítményrész tevékenységi szintje ismét meghaladja az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerinti kezdeti tevékenységi szintjének 25%-át, illetve 50%-át kitevő küszöbértéket,
-- 42. szezonális üzemmód: rendszeresen idényszerű, időszakos ütemtervet követve üzemeltetett létesítmény működési jellemzője; nem ideértve a folyamatosan (normál üzemmódban) üzemeltetett, készenléti- vagy tartalék üzemmódban működő létesítményeket, 44. üzemszerű működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk n) pontja szerinti időpont, 45. megváltozott működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk o) pontja szerinti időpont.
+- 42. szezonális üzemmód: rendszeresen idényszerű, időszakos ütemtervet követve üzemeltetett létesítmény működési jellemzője; nem ideértve a folyamatosan (normál üzemmódban) üzemeltetett, készenléti- vagy tartalék üzemmódban működő létesítményeket,
+- 43. Piaci stabilizációs tartalék: a 2015/1814/EU európai parlamenti és tanácsi határozattal létrehozott tartalék,
+- 44. üzemszerű működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk n) pontja szerinti időpont,
+- 45. megváltozott működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk o) pontja szerinti időpont.
 
 #### 3. A kibocsátási engedély és a nyomonkövetési terv
 
@@ -137,9 +140,9 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (2) A hatóság az (1) bekezdés szerinti értesítésben foglaltakat megvizsgálja és amennyiben az értesítésben foglalt tervezett változtatások megvalósulása esetén a kibocsátási engedély módosítása szükséges, felhívja az üzemeltetőt, hogy a hatóság felhívásától számított 8 napon belül nyújtson be kérelmet a kibocsátási engedély módosítása iránt. A kibocsátási engedély módosítására vonatkozó kérelem elbírálására a kibocsátási engedély elbírálására vonatkozó szabályokat kell alkalmazni.
 
-(3) Ha a létesítmény üzemeltetőjének személye változik, a hatóság az üzemeltető adatainak megváltoztatásával módosítja a kibocsátási engedélyt. Ebben az esetben a kibocsátási engedély tekintetében az új üzemeltető a korábbi üzemeltető helyébe lép.
+(3)
 
-(3a) A korábbi üzemeltető köteles valamennyi olyan adatot az új üzemeltető rendelkezésére bocsátani, amely ahhoz szükséges, hogy az új üzemeltető arra az évre (tárgyévre) vonatkozóan, amikor az üzemeltető személyében változás következett be, a 10. § (1) bekezdésének megfelelő éves kibocsátását tartalmazó hitelesített kibocsátási jelentéstételi kötelezettségének eleget tudjon tenni. A korábbi üzemeltető ezen adatátadási kötelezettségének határideje a korábbi üzemeltetőnek a létesítmény üzemeltetésével kapcsolatos tevékenysége megszűnésétől számított 30 nap.
+(3a) A létesítmény üzemeltetője személyének változása esetén, a korábbi üzemeltető köteles valamennyi olyan adatot az új üzemeltető rendelkezésére bocsátani, amely ahhoz szükséges, hogy az új üzemeltető arra az évre (tárgyévre) vonatkozóan, amikor az üzemeltető személyében változás következett be, a 10. § (1) bekezdésének megfelelő éves kibocsátását tartalmazó hitelesített kibocsátási jelentéstételi kötelezettségének eleget tudjon tenni. A korábbi üzemeltető ezen adatátadási kötelezettségének határideje a korábbi üzemeltetőnek a létesítmény üzemeltetésével kapcsolatos tevékenysége megszűnésétől számított 30 nap.
 
 6. § (1) A légi jármű üzembentartó
 
@@ -148,13 +151,13 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 
 (2) Amennyiben az (1) bekezdés szerinti nyomon követési terv megfelel a 601/2012/EU bizottsági rendeletben, e törvényben és e törvény végrehajtására kiadott jogszabályokban foglaltaknak, a hatóság a nyomon követési tervet jóváhagyja.
 
-7. § (1) A kis kibocsátású létesítmények üzemeltetője és a kis kibocsátónak minősülő légi jármű üzembentartó a 601/2012/EU bizottsági rendelet 47. cikkében meghatározott egyszerűsített nyomon követési terv tervezetet nyújthat be. A kibocsátási engedély iránti kérelemhez és a nyomon követési terv tervezetéhez mellékelni kell az egyszerűsített nyomon követési terv elkészítése feltételeinek való megfelelést igazoló dokumentumokat. Ha a benyújtott terv megfelel az egyszerűsített nyomon követési terv feltételeinek, a hatóság a tervet jóváhagyja.
+7. § (1) A kis kibocsátású létesítmények üzemeltetője és a kis kibocsátónak minősülő légi jármű üzembentartó a 601/2012/EU bizottsági rendelet 47. cikkében meghatározott egyszerűsített nyomon követési terv tervezetet nyújthat be. A kibocsátási engedély iránti kérelemhez és a nyomon követési terv tervezetéhez mellékelni kell az egyszerűsített nyomon követési terv elkészítése feltételeinek való megfelelést igazoló dokumentumokat. Ha a benyújtott terv megfelel az egyszerűsített nyomon követési terv feltételeinek, a hatóság a tervet jóváhagyja és a kibocsátási engedélyt kiadja.
 
-(2) Ha az egyszerűsített nyomon követést alkalmazó üzemeltető vagy légi jármű üzembentartó egy jelentési évben túllépi a kis kibocsátók számára megállapított küszöbértéket, e tényről a bejelentés alapjául szolgáló esemény napját követő 8 napon belül értesíti a hatóságot és megküldi a nyomon követési terv módosítására vonatkozó javaslatát.
+(2) Ha az egyszerűsített nyomon követést alkalmazó üzemeltető vagy légi jármű üzembentartó egy jelentési évben túllépi a kis kibocsátók számára megállapított küszöbértéket, e tényről a bejelentés alapjául szolgáló esemény napját követő 8 napon belül értesíti a hatóságot és megküldi a nyomon követési terv módosítására vonatkozó javaslatát és kéri a kibocsátási engedélye módosítását.
 
 8. § (1) A nyomonkövetési terv jelentős – a 601/2012/EU bizottsági rendelet 15. cikk (3)–(4) bekezdése szerinti – módosítását eredményező változásokat az üzemeltető és a légi jármű üzembentartó a változás bekövetkeztétől számított 8 napon belül bejelenti a hatóságnak. A nyomonkövetési terv jelentős módosításához a hatóság engedélye szükséges.
 
-(2) A nyomonkövetési terv jelentősnek nem minősülő módosítását az üzemeltető és a légi jármű üzembentartó hatósági jóváhagyás nélkül is elvégezheti. A nyomonkövetési terv naptári évben végrehajtott jelentősnek nem minősülő módosításairól az üzemeltető és a légi jármű üzembentartó minden év december 31-ig értesíti a hatóságot. Amennyiben a hatóság megállapítja, hogy a nyomonkövetési terv nincs összhangban a 601/2012/EU bizottsági rendelet, e törvény, illetve e törvény végrehajtására kiadott jogszabály rendelkezéseivel, felszólítja az üzemeltetőt és a légi jármű üzembentartót a nyomonkövetési terv módosítására.
+(2) A nyomonkövetési terv jelentősnek nem minősülő módosítását az üzemeltető és a légi jármű üzembentartó hatósági jóváhagyás nélkül is elvégezheti. A nyomonkövetési terv naptári évben végrehajtott jelentősnek nem minősülő módosításairól az üzemeltető és a légi jármű üzembentartó minden év december 31-ig értesíti a hatóságot. Amennyiben a hatóság megállapítja, hogy a nyomonkövetési terv nincs összhangban a 601/2012/EU bizottsági rendelet, e törvény, illetve e törvény végrehajtására kiadott jogszabály rendelkezéseivel, felszólítja az üzemeltetőt és a légi jármű üzembentartót a nyomonkövetési terv módosítására és a kibocsátási engedély módosítására irányuló kérelem benyújtására.
 
 9. § (1) A hatóság kibocsátási engedély kiadására, módosítására vonatkozó eljárásáért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
@@ -215,6 +218,10 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 (7) A tárgyévi ingyenesen kiosztásra megállapított ÜHG-egységmennyiségeket a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
 
 (8) A szén-dioxid-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok listájának módosulása esetén a miniszter a Kormány által az e törvény végrehajtására kiadott kormányrendeletben foglaltaknak megfelelően módosítja a Nemzeti Végrehajtási Intézkedést, az Európai Bizottság által jóváhagyott új belépő kérelemnek megfelelő vagy jelentős változást tartalmazó táblázatot.
+
+15/A. § (1) A létesítményeknek 2021–2025 között évente térítésmentesen kiosztható kibocsátásiegység-mennyiséget a II. Nemzeti Végrehajtási Intézkedés tartalmazza. Az üzemeltető a II. Nemzeti Végrehajtási Intézkedés alapjául szolgáló adatszolgáltatását akkreditált hitelesítő által hitelesítetten, a miniszter által vezetett minisztérium honlapján közzétett módon, határidőben készíti el és nyújtja be a miniszter részére.
+
+(2) A II. Nemzeti Végrehajtási Intézkedést és a 2021–2025 közötti időszakra vonatkozó nemzeti kiosztási táblát a miniszter az üzemeltető által benyújtott adatszolgáltatás ellenőrzését követően készíti el és nyújtja be 2019. szeptember 30-ig az Európai Bizottságnak jóváhagyásra. A II. Nemzeti Végrehajtási Intézkedés közzétételéről az Európai Bizottság jóváhagyását követően a miniszter gondoskodik. Az Európai Bizottság által jóváhagyott 2021–2025 közötti időszakra vonatkozó nemzeti kiosztási tábla alapján a miniszter ezen időszakra vonatkozóan minden év február 28-ig a jegyzékkezelő útján gondoskodik a kibocsátási egységeknek az üzemeltetők forgalmi jegyzékben vezetett számláin történő jóváírásáról.
 
 16. § (1) Az új belépők az üzemszerű vagy megváltozott működés megkezdését követően egy éven belül a miniszterhez benyújtott független hitelesítő által hitelesített kérelem alapján részesülhetnek térítésmentes kiosztásban. A határidő elmulasztása jogvesztő. A 2. § 29. pont a) alpontja szerinti új belépő esetében az üzemszerű működés megkezdése előtt keletkezett, független hitelesítő által hitelesített kibocsátás esetében további kibocsátási egység kiosztása a múltbeli kibocsátások alapján lehetséges. A kérelemhez csatolni kell a hitelesítői jelentést.
 
@@ -366,7 +373,7 @@ akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközleked�
 
 25. § (1) Az állam tulajdonában lévő, térítés ellenében kiosztható (értékesíthető) légiközlekedési kibocsátási egységeket, valamint a térítés ellenében kiosztható (értékesíthető) kibocsátási egységeket a miniszter az 1031/2010/EU bizottsági rendeletnek megfelelően értékesíti. Az állam által térítés ellenében kiosztható (értékesíthető) ÜHG-egységek éves mennyiségét az Európai Bizottság állapítja meg.
 
-(2) Az állam tulajdonában lévő, térítésmentesen ki nem osztott valamennyi kibocsátási egység árverés útján kerül értékesítésre.
+(2) Az állam tulajdonában lévő, térítésmentesen ki nem osztott valamennyi kibocsátási egység, amely nem került a 2015/1814/EU európai parlamenti és tanácsi határozat által létrehozott piaci stabilizációs tartalékba, árverés útján kerül értékesítésre.
 
 (3) Az állam tulajdonában lévő légiközlekedési kibocsátási egységek esetében a térítésmentesen ki nem osztott kibocsátási egységek árverés útján kerülnek értékesítésre. Az árverés útján értékesítendő légiközlekedési kibocsátási egységek éves mennyiségét az Európai Bizottság határozza meg.
 
@@ -435,9 +442,27 @@ akkor a részükre a nemzeti kiosztási táblában és a nemzeti légiközleked�
 
 vonatkozó adatok környezeti információnak minősülnek.
 
+31/A. § (1) A hatóság ellenőrzésre jogosult alkalmazottja (a továbbiakban: ellenőr) az ellenőrzés során a létesítményt üzemeltető képviselőjének jelenlétében az ellenőrzés alá vont létesítmény tekintetében
+
+- a) átvizsgálhatja az ellenőrzés alá vont létesítmény nyomonkövetési tervében, kibocsátási engedélyében, valamint a kibocsátási jelentésében található adatok és információk valóságtartalmát a tevékenység végzésének a helyszínén,
+- b) felhívhatja az e törvény hatálya alá tartozó üvegházhatású gázokkal kapcsolatos tevékenységben a résztvevőket személyazonosságuk igazolására,
+- c) a helyszínről, a szemletárgyról, folyamatokról fénykép vagy kép- és hangfelvétel készítésére jogosult.
+
+(2) Az ellenőrzés során a hatóság közreműködő személyt vehet igénybe. A hatóság a közreműködő személlyel megbízási szerződést köt, amely alapján a közreműködő személy megbízási díjra jogosult. A közreműködő személyre az ügyintézőre vonatkozó kizárási szabályokat kell alkalmazni. A közreműködő személy részére a közreműködést igénybe vevő hatóság megbízólevelet állít ki.
+
+(3) A megbízólevél az erre utaló megnevezés mellett a következőket tartalmazza:
+
+- a) a közreműködő személy nevét, személyazonosító igazolványának vagy más személyazonosításra alkalmas igazolványának számát,
+- b) az ellenőrzésre vonatkozó jogszabályi vagy egyéb felhatalmazásra történő hivatkozást,
+- c) a megbízólevél érvényességi idejét,
+- d) a kiállítás keltét,
+- e) a kiállításra jogosult aláírását, bélyegzőlenyomatát.
+
+(4) A közreműködő személy a megbízólevél birtokában az ellenőrzési tevékenységben kizárólag az ellenőr jelenlétében vehet részt.
+
 #### 13. Jogkövetkezmények
 
-32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására, valamint a hatóság vagy a miniszter felé történő változások bejelentésére irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság vagy – a miniszter felé fennálló változásbejelentési kötelezettség elmulasztása esetén – a miniszter az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
+32. § (1) Ha az üzemeltető a kibocsátási engedély megszerzésére, a kibocsátások nyomon követésére, jelentésére és a jelentés hitelesítésére, a kibocsátási egység visszaadására, valamint a hatóság vagy a miniszter felé történő változások bejelentésére irányuló kötelezettségének, a hatóság döntésében foglaltaknak részben vagy egészben nem tesz eleget, a hatóság vagy – a miniszter felé fennálló változásbejelentési kötelezettség elmulasztása esetén – a miniszter az üzemeltetőt az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság megfizetésére kötelezi.
 
 (2) A bírságot a határozat véglegessé válását követő 30 napon belül kell megfizetni. Amennyiben a határidő eredménytelenül telik el, úgy a hatóság a bírság behajtása érdekében megkeresi az állami adóhatóságot.
 
@@ -540,7 +565,9 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 
 (4) A miniszter az állam nevében ESD-egységeket értékesíthet és vásárolhat e törvény céljának hatékonyabb elérése érdekében. Az értékesítés az állami vagyonról szóló törvény, az Nvtv. és az értékesítés részletszabályait meghatározó, e törvény végrehajtására kiadott jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
-(5) A (4) bekezdés szerinti értékesítési bevétel felhasználásáról a miniszter előterjesztése alapján a Kormány dönt.
+(5) Az ESD-egységek értékesítéséből származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására és az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelvi célok hazai elérésére kell fordítani.
+
+(5a) A miniszter az ESD-egységek értékesítéséből származó bevételek felhasználásáról a Zöld Beruházási Rendszer keretében gondoskodik.
 
 (6) A bevételek felhasználásáról a miniszter a bevétel keletkezését követő évben beszámol az Országgyűlésnek.
 
@@ -567,7 +594,9 @@ a hatóság a 601/2012/EU bizottsági rendelet 70. cikke alapján konzervatív b
 - q) a derogációs kérelemmel összefüggő jelentéstétel és a független könyvvizsgáló kijelölésének részletes szabályait,
 - r) a derogációs kérelemben meghatározott beruházások utólagos nyomon követésére vonatkozó, továbbá a beruházási számlán fel nem használt pénzügyi forrás elszámolásával és felhasználásával kapcsolatos részletszabályokat,
 - s) a piaci érték megfizetésének módját és pénznemét,
-- t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat
+- t) a klíma- és energiapolitikai keretrendszer végrehajtására vonatkozó részletes szabályokat,
+- u) az állam tulajdonában lévő ESD-egységek értékesítésére vonatkozó részletes szabályokat,
+- v) az állam tulajdonában lévő ESD-egységekkel és az abból származó bevételekkel való gazdálkodás részletes szabályait
 
 rendeletben állapítsa meg.
 

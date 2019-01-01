@@ -33,7 +33,9 @@ működik.
 
 (4) A területi szervezetek és az országos szervek jogi személyek. A területi szervezeteket és az országos szerveket a törvényszék nem veszi nyilvántartásba.
 
-(5)–(6)
+(5)
+
+(6)
 
 ### II. Fejezet — A SZAKMAI KAMARÁK FELADAT- ÉS HATÁSKÖRE
 
@@ -203,7 +205,7 @@ működik.
 
 ÉS AZ ORSZÁGOS SZERVEK TISZTSÉGVISELŐINEK VÁLASZTÁSA, VISSZAHÍVÁSA
 
-11. § (1) A tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a szakmai kamara tagjai közül négyéves időtartamra, titkosan választják. Azonos tisztségre a kamarai tag legfeljebb két egymást követő alkalommal választható meg.
+11. § (1) A tisztségviselőket és az ügyintéző szervek nem tisztségviselő tagjait a szakmai kamara tagjai közül négyéves időtartamra, titkosan választják.
 
 (2) A tisztségviselők, illetőleg az ügyintéző szervek nem tisztségviselő tagjainak megbízatása a megszűnést eredményező esemény bekövetkeztének napján szűnik meg.
 
@@ -361,7 +363,9 @@ adja ki.
 
 (3) A területi szervezet a tagfelvétel tárgyában a felvételi kérelem megérkezését követő naptól számított 15 napon belül dönt. Ha a kérelmezőt a szakmai kamara tagjai sorába felveszi, bejelenti a kamarai nyilvántartásba és kiadja számára a tagsági igazolványt.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) Ha a kamarai tag egészségügyi tevékenységének helyét megváltoztatja, és az másik területi szervezet illetékességi területén van, a tag az adatváltozást az illetékességgel rendelkező szakmai kamara területi szervezetének köteles 15 napon belül írásban bejelenteni. A bejelentés alapján a tevékenység folytatásának új helye szerint illetékes területi szervezet az érintettet 15 napon belül tagjai sorába átveszi, és értesíti az átvételről a kamarai nyilvántartást, valamint a kamarai tagot.
 
@@ -431,7 +435,7 @@ adja ki.
 - a) a 2. § c) pontja szerinti etikai kódexben foglalt szabályok vétkes megszegése,
 - b) az alapszabályban, illetőleg a szakmai kamara más belső szabályzatában foglalt vagy a választott tisztségből eredő kötelezettségnek a vétkes megszegése.
 
-21. § (1) Etikai ügyben első fokon annak a területi szervezetnek az etikai bizottsága jár el, amelynél az etikai eljárás megindulásakor az eljárás alá vont tag szakmai kamarai tagsági jogviszonya fennáll.
+21. § (1) Etikai ügyben első fokon annak a területi szervezetnek az etikai bizottsága jár el, amelynél az etikai eljárás megindulásakor az eljárás alá vont tag szakmai kamarai tagsági jogviszonya fennáll. Több – eltérő területi szervezeti tagsággal rendelkező – kamarai tag érintettsége esetén az az etikai bizottság jár el, amely elsőként állapítja meg a panaszüggyel érintett valamelyik kamarai tag ügyében a területi illetékességét.
 
 (2) A munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati vagy igazságügyi alkalmazotti szolgálati jogviszonyban álló (a továbbiakban együtt: foglalkoztatott) kamarai tag által elkövetett etikai vétség gyanúja esetén a területi szervezet etikai bizottsága a munkáltatót írásban értesíti. A munkáltató az álláspontjáról, valamint a megtett intézkedéséről a kamarát köteles 30 napon belül, de legkésőbb – ha annak külön törvény szerint helye van – a fegyelmi eljárás lefolytatására irányadó határidő lejártát követő 5 napon belül tájékoztatni.
 
@@ -534,7 +538,17 @@ is közli.
 
 (2) Amennyiben a miniszter azt állapítja meg, hogy az alapszabály jogszabálysértő, illetve más kamarai szabályzat vagy kamarai szerv, illetve tisztségviselő határozata jogszabálysértő vagy alapszabály-ellenes (a továbbiakban együtt: jogsértő), megfelelő határidő kitűzésével felhívja az érintett kamarai szervet, tisztségviselőt a jogsértés megszüntetésére. A kamarai szerv (tisztségviselő) köteles – a miniszter felhívásában megadott határidőn belül – a jogsértést megszüntetni vagy egyet nem értéséről a minisztert tájékoztatni.
 
-(3)–(8)
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
 
 (9) A szakmai kamarák az alapszabály, valamint az etikai kódex elfogadásáról vagy módosításáról hozott döntést hivatalból, az egyéb határozatot pedig felhívásra – az elfogadástól, illetőleg a felhívástól számított 15 napon belül – törvényességi ellenőrzés céljából a miniszter rendelkezésére bocsátják.
 

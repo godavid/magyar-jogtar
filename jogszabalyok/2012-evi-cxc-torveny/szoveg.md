@@ -69,7 +69,7 @@ alapján sarkalatosnak minősül.
 | Sorszám | Helyrajzi szám | Tulajdonos |
 | --- | --- | --- |
 | 1. | 76502 (284/170162 tulajdoni hányad) | Magyar Állam |
-| 2. |  |  |
+| 2. | 23809/7 | Magyar Állam |
 | 3. | 25964/1 | Magyar Állam |
 | 4. | 25990/2 | Magyar Állam |
 | 5. | 24314 | Magyar Állam |

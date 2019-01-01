@@ -32,10 +32,7 @@ a közalkalmazottak jogállásáról
 
 (4) Amennyiben e törvény közalkalmazotti jogviszonyra vonatkozó szabályt említ, ezen az (1)—(3) bekezdésben foglaltakat kell érteni.
 
-3. § (1) A közalkalmazotti jogviszony tekintetében az Mt. Általános rendelkezései (Első Rész) közül
-
-- a) a 12. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaerő-piaci viszonyokat nem kell figyelembe venni, valamint a 13. § nem alkalmazható,
-- b) a 10. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott neve és beosztása – a nemzetbiztonsági szolgálatok által foglalkoztatott közalkalmazottakat kivéve – közérdekű adatnak minősül, azt bárki megismerheti.
+3. § (1) A közalkalmazotti jogviszony tekintetében az Mt. 12. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaerő-piaci viszonyokat nem kell figyelembe venni, valamint az Mt. 13. §-a nem alkalmazható.
 
 (2) Az Mt. 198–207. §, 213. §-a és 228. §-a a közalkalmazotti jogviszony tekintetében nem alkalmazható. Az Mt. 208–211. §-a csak a 22/B. § szerinti magasabb vezetőre alkalmazható.
 
@@ -98,8 +95,8 @@ tervezetét.
 (2) Területi (megyei) vagy települési szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
 
 - a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
-- b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
-- c) amely az adott fenntartott munkáltatók legalább 20%-ában reprezentatív, legalább egy ágazatban.
+- b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
+- c)
 
 (3) Ágazati (alágazati, szakágazati) szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri az ágazatban (alágazatban, szakágazatban) foglalkoztatott közalkalmazottak létszámának 10%-át.
 
@@ -111,11 +108,13 @@ tervezetét.
 
 6/B. § Ha a közalkalmazott a Magyar Rendvédelmi Kar tagja, akkor a szakszervezeti érdekképviseletére a 6–6/A. § és az Mt. 270–275. §-ában foglaltak helyett a hivatásos szolgálati viszonyban állók szakszervezeti érdekképviseletére vonatkozó szabályokat kell alkalmazni. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél működő szakszervezetek vonatkozásában a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvényt nem kell alkalmazni, a rendvédelmi feladatokat ellátó szerv a közalkalmazott illetményéből a szakszervezeti tagdíjat a rendvédelmi feladatokat ellátó szerv és a közalkalmazott erre vonatkozó megállapodása esetén vonja le.
 
-7. § A 6–6/A. §-ban foglaltakat a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti tankerületi központ, tankerület tekintetében a következő eltéréssel kell alkalmazni:
+7. § (1) A 6–6/A. §-ban foglaltakat a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti tankerületi központ tekintetében a következő eltéréssel kell alkalmazni:
 
-- a) a tankerületi központ vezetője járási továbbá a megyei jelentőségű, közalkalmazottak jogviszonyát érintő kérdésekben az érintett, járási, illetve megyei szinten reprezentatív szakszervezetekkel a járási, illetve a megyei szintű érdekegyeztető fórum keretei között egyeztet,
+- a) a tankerületi központ vezetője járási, továbbá a megyei jelentőségű, közalkalmazottak jogviszonyát érintő kérdésekben az érintett járási, valamint megyei szinten reprezentatív szakszervezetekkel a járási, valamint a megyei szintű érdekegyeztető fórum keretei között egyeztet,
 - b) járási, megyei szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amelynek közalkalmazotti jogviszonyban álló tagjainak száma eléri a tankerületi központ illetékességi területén az ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át,
 - c) az oktatási központ elnöke a közalkalmazottak jogviszonyát érintő – az ágazati érdekegyeztető fórum hatáskörébe tartozó kérdések kivételével – országos jelentőségű kérdésekben a reprezentatív szakszervezetek elnökeivel kialakított országos egyeztető fórum keretei között egyeztet.
+
+(2) Az ágazati reprezentativitás megállapítása során a tankerületi központnál foglalkoztatott közalkalmazottakat a gazdasági tevékenységek egységes ágazati osztályozási rendszere szerint a 85 Oktatás ágazaton belül, a 850 Tankerületek közoktatási kódja elnevezésű technikai kódszám alatt szükséges figyelembe venni, függetlenül a tankerületi központ alapító okiratában meghatározott főtevékenység államháztartási szakágazati besorolásától.
 
 ### A szakszervezetek, a kollektív szerződés
 
@@ -123,7 +122,11 @@ tervezetét.
 
 12/A. §
 
-13. § A közalkalmazotti jogviszony tekintetében az Mt. 277. § (1) és (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy kollektív szerződés az e törvény, illetve az e törvény felhatalmazása alapján kiadott rendeletek előírásaitól akkor térhet el, ha az eltérésre ezek a jogszabályok felhatalmazást adnak.
+13. § Kollektív szerződés
+
+- a) e törvény, és az e törvény felhatalmazása alapján kihirdetett rendeletek előírásaitól akkor térhet el, ha erre e jogszabályok felhatalmazást adnak,
+- b) az Mt. előírásaitól az Mt. 277. § (1) és (2) bekezdése, valamint eltérő megállapodásra vonatkozó rendelkezései szerint térhet el,
+- c) az Mt. előírásaitól nem térhet el, ha e törvény az eltérő megállapodásra vonatkozó Mt.-beli rendelkezés alkalmazását kizárja.
 
 ### A közalkalmazottak részvételi jogai
 
@@ -185,10 +188,10 @@ személlyel létesíthető.
 (2e) Közalkalmazotti jogviszony nem létesíthető azzal, akivel szemben a (2d) bekezdés a) pontjában meghatározott
 
 - a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
-  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
-  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig;
-- b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított két évig;
-- c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított három évig.
+  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított tíz évig;
+- b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított három évig;
+- c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított öt évig.
 
 (3) Végrehajtási jogszabály a jogviszony létesítéséhez
 
@@ -644,7 +647,7 @@ betöltetlen munkaköreiről, az ahhoz szükséges képesítési előírásokró
 31. § Felmentés esetén a felmentési idő legkorábban az alábbiakban meghatározott tartam lejártát követő napon kezdődik:
 
 - a) a külföldön nemzetközi szervezetnél, vagy államközi egyezmény végrehajtásaként idegen állami, illetőleg egyéb intézménynél munkára kötött megállapodás alapján, külföldön végzett munka;
-- b) a tartósan külföldi szolgálatot teljesítő személy külföldre utazására tekintettel fizetés nélküli szabadságban részesült házastársánál a fizetés nélküli szabadság;
+- b) a tartósan külföldi szolgálatot teljesítő személy külföldre utazására tekintettel fizetés nélküli szabadságban részesült házastársánál, élettársánál a fizetés nélküli szabadság;
 - c) az ösztöndíjjal külföldi tanulmányútra kiküldött a tanulmányút és az esetleges előzetes tanfolyam, valamint
 - d) a munkáltató hozzájárulásával iskolai vagy iskolarendszeren kívüli képzésre tekintettel biztosított munkavégzés alóli felmentés
 
@@ -659,7 +662,7 @@ az erről szóló tájékoztatás közlésének időpontja irányadó a felment�
 
 32. § (1) A közalkalmazotti jogviszony csak különösen indokolt esetben szüntethető meg felmentéssel
 
-- a) ha a közalkalmazott házastársa (élettársa) nem rendelkezik önálló, legalább az országosan kötelező legkisebb munkabérnek megfelelő jövedelemmel és legalább három eltartott gyermeke van;
+- a) ha a közalkalmazott házastársa, élettársa nem rendelkezik önálló, legalább az országosan kötelező legkisebb munkabérnek megfelelő jövedelemmel és legalább három eltartott gyermeke van;
 - b) ha a közalkalmazott egyedülálló, eltartott gyermeke tizennyolc éves koráig, valamint
 - c) ha a közalkalmazott házastársa sorkatonai, illetve polgári szolgálatot teljesít.
 
@@ -984,7 +987,7 @@ alapszabadság illeti meg.
 
 (3) A munkakör és a beosztás [57. § (2) bekezdése] alapján járó pótszabadság közül a magasabb mértékű pótszabadság jár.
 
-58/A. § (1) A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa külszolgálatot teljesít.
+58/A. § (1) A közalkalmazottnak – kérelmére – a külszolgálat időtartamára fizetés nélküli szabadságot kell engedélyezni, ha a közalkalmazott házastársa, élettársa külszolgálatot teljesít.
 
 (2) A munkáltató – ha a kutatónak a kutatás-fejlesztési munka eredménye hasznosításában érdekelt vállalkozásnál történő munkavégzéséhez e törvény szerint előzetesen hozzájárult – a kutatóval kötött megállapodás alapján a kutató számára a megállapodásban meghatározott időtartamra fizetés nélküli szabadságot engedélyez.
 

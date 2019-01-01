@@ -48,7 +48,7 @@ Az egészséget nem veszélyeztető és biztonságos munkavégzés személyi, t�
 
 ### A munkavédelemre vonatkozó szabályok
 
-11. § A munkavédelem alapvető szabályait e törvény, a részletes szabályait e törvény felhatalmazása alapján a foglalkoztatáspolitikáért felelős miniszter által kiadott és más külön jogszabályok, az egyes veszélyes tevékenységekre vonatkozóan a feladatkörében érintett miniszter rendeletével hatályba léptetett szabályzatok (a továbbiakban: Szabályzat) tartalmazzák. Munkavédelemre vonatkozó szabálynak minősül a nemzeti szabványosításról szóló jogszabály figyelembevételével a munkavédelmi tartalmú nemzeti szabvány annyiban, hogy a magyar nyelvű nemzeti szabványtól különböző megoldás alkalmazása esetén a munkáltató köteles – vitás esetben – annak bizonyítására, hogy az általa alkalmazott megoldás munkavédelmi szempontból legalább egyenértékű a vonatkozó szabványban foglalt követelménnyel, megoldással.
+11. § A munkavédelem alapvető szabályait e törvény, a részletes szabályait e törvény felhatalmazása alapján a foglalkoztatáspolitikáért felelős miniszter által kiadott és más jogszabályok, az egyes veszélyes tevékenységekre vonatkozóan a feladatkörében érintett miniszter rendeletével hatályba léptetett szabályzatok (a továbbiakban: Szabályzat) tartalmazzák. Munkavédelemre vonatkozó szabálynak minősül a nemzeti szabványosításról szóló törvény figyelembevételével a teljes egészében magyar nyelvű munkavédelmi tartalmú nemzeti szabvány.
 
 12. § Munkavédelemre vonatkozó szabálynak minősül a munkáltatónak a 2. § (3) bekezdése szerinti rendelkezése is.
 
@@ -333,7 +333,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 - a) a szükséges utasításokat és tájékoztatást a munkavégzést megelőzően a munkavállalónak megadni;
 - b) rendszeresen meggyőződni arról, hogy a munkakörülmények megfelelnek-e a követelményeknek, a munkavállalók ismerik, illetve megtartják-e a rájuk vonatkozó rendelkezéseket;
 - c) a munkavégzés körülményeihez igazodó, illetve az azzal összefüggő veszélyek figyelembevételével megfelelő munkaeszközöket biztosítani a munkavállalók részére;
-- d) új technológiák bevezetése előtt kellő időben megtárgyalni a munkavállalókkal, illetve munkavédelmi képviselőikkel bevezetésük egészségre és biztonságra kiható következményeit;
+- d) a technológia változtatását és az új technológia bevezetését érintő döntés előtt megtárgyalni a munkavállalókkal, valamint munkavédelmi képviselőikkel a változtatás, vagy bevezetés egészségre és biztonságra kiható következményeit;
 - e) a tudomására jutott rendellenességet, illetve a munka egészséget nem veszélyeztető és biztonságos végzésével kapcsolatos bejelentést haladéktalanul kivizsgálni, a szükséges intézkedéseket megtenni, az érintetteket értesíteni, és közvetlen veszély esetén a munkavégzést leállítani;
 - f) a munkabalesetek és foglalkozási megbetegedések esetén az V. Fejezet rendelkezéseinek megfelelően eljárni;
 - g) biztosítani a védőeszközök rendeltetésszerű használhatóságát, védőképességét, kielégítő higiéniés állapotát, szükséges tisztítását, karbantartását, javítását, pótlását;
@@ -503,7 +503,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (8) A testület működése nem érinti a munkavédelmi képviselő, a munkahelyi munkavédelmi bizottság jogállását, valamint a munkáltatónak a munkavédelmi követelmények megvalósításáért e törvényben meghatározott felelősségét.
 
-71. § A munkavállalónak, a munkavédelmi képviselőnek (bizottságnak) és a munkáltatónak az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében együtt kell működniük, jogaikat és kötelezettségeiket rendeltetésüknek megfelelően kell gyakorolniuk, illetve teljesíteniük, így különösen a szükséges információt (tájékoztatást) a kellő időben egymás részére megadniuk.
+71. § A munkavállalónak, a munkavédelmi képviselőnek (bizottságnak) és a munkáltatónak az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében együtt kell működniük, jogaikat és kötelezettségeiket rendeltetésüknek megfelelően kell gyakorolniuk, illetve teljesíteniük, így különösen a szükséges információt (tájékoztatást) még az intézkedés bevezetését érintő döntés előtt egymás részére megadniuk.
 
 72. § (1) A munkavédelmi képviselő – a 70. §-ban leírtakat is figyelembe véve – jogosult meggyőződni a munkahelyeken az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeinek érvényesüléséről, így különösen
 
@@ -519,7 +519,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 - b) részt vehet a munkáltató azon döntései előkészítésében, amelyek hatással lehetnek a munkavállalók egészségére és biztonságára, ideértve a szakemberek előírt foglalkoztatására (8. §, 57–58. §-ok), a munkavédelmi oktatás (55. §) megtervezésére és megszervezésére, az új munkahelyek létesítésére vonatkozó döntéseket is;
 - c) tájékoztatást kérhet a munkáltatótól minden kérdésben, amely érinti az egészséget nem veszélyeztető és biztonságos munkavégzést;
 - d) véleményt nyilváníthat, kezdeményezheti a munkáltatónál a szükséges intézkedés megtételét;
-- e) részt vehet a munkabalesetek kivizsgálásában, az arra jogosult kezdeményezésére közreműködhet a foglalkozási megbetegedés körülményeinek feltárásában;
+- e) az adatvédelmi előírások betartásával részt vehet a munkabalesetek kivizsgálásában, közreműködhet a foglalkozási megbetegedés körülményeinek feltárásában;
 - f) indokolt esetben a hatáskörrel rendelkező munkavédelmi hatósághoz fordulhat.
 - g) a hatósági ellenőrzés során az ellenőrzést végző személlyel közölheti észrevételeit.
 
@@ -527,7 +527,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (4) Amennyiben a munkáltató a 2. § (3) bekezdésében foglalt kötelezettsége keretében munkavédelmi szabályzatban határozza meg a követelmények megvalósításának módját, úgy e szabályzat kiadásához a munkavédelmi képviselő (bizottság) egyetértése szükséges.
 
-73. § (1) A munkavédelmi képviselőnek (bizottságnak) a 72. § (2) bekezdés c)–e) pontjaiban meghatározott kezdeményezésére a munkáltatónak intézkednie vagy 8 napon belül válaszolnia kell.
+73. § (1) A munkavédelmi képviselőnek (bizottságnak) a 72. § (2) bekezdés c)–e) pontjában meghatározott kezdeményezésére a munkáltatónak az intézkedésről, vagy az intézkedés elmaradásának okáról 8 napon belül tájékoztatnia kell a munkavédelmi képviselőt (bizottságot).
 
 (2) Amennyiben a kezdeményezéssel a munkáltató nem ért egyet, álláspontjának indokait — kivéve az azonnali intézkedést követelő esetben — írásban köteles közölni.
 
@@ -535,13 +535,13 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 75. § (1) A munkáltatónak biztosítania kell a feltételeket annak érdekében, hogy a munkavédelmi képviselő a jogait gyakorolhassa, így különösen
 
-- a) a feladatai elvégzéséhez szükséges, átlagkeresettel fizetett munkaidő-kedvezményt, amely a munkavédelmi képviselő, a testület tagja esetében a havi munkaideje legalább tíz százaléka;
+- a) a feladatai elvégzéséhez szükséges, távolléti díjjal fizetett munkaidő-kedvezményt, amely a munkavédelmi képviselő, a testület tagja esetében a havi munkaideje legalább tíz százaléka;
 - b) a szükséges eszközöket, így különösen a működési, technikai, anyagi feltételeket, továbbá a vonatkozó szakmai előírásokat;
-- c) egy választási ciklusban, a képviselő megválasztását követő egy éven belül legalább 16 órás képzésben, ezt követően évente legalább 8 órás továbbképzésben való részvétel lehetőségét.
+- c) a képviselő megválasztását követő egy éven belül legalább 16 órás képzésben, ezt követően, valamint újraválasztása esetén évente legalább 8 órás továbbképzésben való részvétel lehetőségét.
 
-(2) Az (1) bekezdésben foglaltak költségei a munkáltatót terhelik, illetve a c) pont szerinti képzés csak rendes munkaidőben történhet, szükség szerint külső helyszínen is megtartható.
+(2) Az (1) bekezdésben foglaltak költségei a munkáltatót terhelik, továbbá az (1) bekezdés c) pontja szerinti képzés csak rendes munkaidőben és a felnőttképzésről szóló törvény szerinti tevékenység keretében történhet.
 
-76. § (1) A munkavédelmi képviselőt (bizottságot) jogai gyakorlása miatt hátrány nem érheti.
+76. § (1) A munkavédelmi képviselő (bizottság) jogai gyakorlásában nem akadályozható és jogai gyakorlása miatt hátrány nem érheti.
 
 (2) A munkavédelmi képviselő (bizottság) a működése során tudomására jutott adatok, tények nyilvánosságra hozatala tekintetében az üzemi tanács tagjára (üzemi megbízottra) megállapított munkajogi szabályoknak megfelelően köteles eljárni.
 
@@ -549,11 +549,11 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 77. § E törvény 70–76. §-ainak alkalmazásában nem munkavállaló a büntetés-végrehajtási jogviszonyban munkát végző személy.
 
-### Munkavédelmi Bizottság
+### Országos Munkavédelmi Bizottság
 
-78. § Az egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos országos érdekegyeztetést a munkavállalók, a munkáltatók érdekképviseleti szervezetei és a Kormány képviselőiből (a továbbiakban: tárgyaló csoportok) álló, az , saját ügyrend szerint működő Munkavédelmi Bizottság látja el.
+78. § Az egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos országos érdekegyeztetést a munkavállalók, a munkáltatók érdekképviseleti szervezetei és a Kormány képviselőiből (a továbbiakban: tárgyaló csoportok) álló, az , saját ügyrend szerint működő Országos Munkavédelmi Bizottság látja el.
 
-79. § (1) A Munkavédelmi Bizottság az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó érdekegyeztető tevékenysége keretében
+79. § (1) A Országos Munkavédelmi Bizottság az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó érdekegyeztető tevékenysége keretében
 
 - a) előzetesen véleményezi a 11. §-ban megjelölt jogszabály-koncepciók és egyéb előírások, intézkedések tervezeteit, a beszámolókat, jelentéseket és az időszakos programokat azzal, hogy egyhangú állásfoglalását vagy a tárgyaló csoportok eltérő véleményét az előterjesztéseken fel kell tüntetni;
 - b) részt vesz a munkavédelem nemzeti politikájának, annak végrehajtását szolgáló éves intézkedési és ütemterveknek a kialakításában, értékelésében és felülvizsgálatában;
@@ -563,7 +563,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 - f) saját adataival, megállapításaival szükség szerint segíti a munkavédelmi információs rendszer működését.
 - g) dönt a nevelés és az oktatás területén a biztonságos életvitelre, a szakmai oktatás területén az egészséget nem veszélyeztető és a biztonságos munkavégzés szabályaira vonatkozó ismeretanyag meghatározásával kapcsolatos kérdésekben.
 
-(2) A Munkavédelmi Bizottság működésével kapcsolatos titkársági, adminisztratív teendőket a munkavédelmi hatóság látja el.
+(2) A Országos Munkavédelmi Bizottság működésével kapcsolatos titkársági, adminisztratív teendőket a munkavédelmi hatóság látja el.
 
 #### 80. §
 
@@ -583,7 +583,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (5) A munkavédelmi hatóság jogosult az ellenőrzése során feltárt hiányosságok megszüntetése érdekében e törvényben és külön jogszabályban meghatározott intézkedés és felelősségre vonás alkalmazására.
 
-81/A. § (1) A munkavédelmi hatóság az ellenőrzési tevékenységét a foglalkoztatáspolitikáért felelős miniszter által közzétett ellenőrzési irányelv alapján végzi. Az irányelvet a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában évenként az ellenőrzési időszakot megelőző 45 napig kell közzétenni.
+81/A. § (1) A munkavédelmi hatóság az ellenőrzési tevékenységét a foglalkoztatáspolitikáért felelős miniszter által közzétett ellenőrzési irányelv alapján végzi. Az irányelvet a foglalkoztatáspolitikáért felelős miniszter évenként az ellenőrzési időszakot megelőző 45. napig a hivatalos honlapján elektronikusan teszi közzé.
 
 (2) Az ellenőrzési irányelv tartalmazza
 
@@ -627,7 +627,7 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 (6) Az (1) bekezdés alapján kiszabott pénzbírságot a munkavédelmi hatóság kincstári előirányzat-felhasználási keretszámlájára kell befizetni.
 
-82/A. § A Mt. 295. § (1) bekezdés e) pontjában meghatározott, a munkavédelemre vonatkozó szabályok betartásának ellenőrzése céljából tartott vizsgálatok tapasztalatairól a munkavédelmi hatóság beszámolót készít a foglalkoztatáspolitikáért felelős miniszter számára. A tájékoztatásban foglalt megállapításokra az e törvény 14. §-ának (1) bekezdése e) pontjában meghatározott jelentésnek ki kell terjednie.
+82/A. § Az Mt. 295. § (1) bekezdés e) pontjában meghatározottak betartása, továbbá a munkavédelemre vonatkozó szabályok betartásának ellenőrzése céljából tartott vizsgálatok tapasztalatairól, valamint a munkabalesetek alakulásáról a munkavédelmi hatóság félévente beszámolót készít a foglalkoztatáspolitikáért felelős miniszter számára. A beszámolót a miniszter a tárgyidőszakot követő 60 napon belül elektronikusan közzéteszi. A beszámolóban foglalt megállapításokra a 14. § (1) bekezdés e) pontjában meghatározott jelentésnek ki kell terjednie.
 
 #### 82/B. §
 
@@ -643,8 +643,8 @@ AZ EGÉSZSÉGET NEM VESZÉLYEZTETŐ
 
 - a) a munka egészséges és biztonságos végzésére, illetve annak ellenőrzésére vonatkozó szabályokat megszegi vagy feladatkörében e szabályok végrehajtásának mellőzését eltűri,
 - b) a munkabalesettel kapcsolatban nyilvántartási, kivizsgálási, jegyzőkönyv-készítési és bejelentési kötelezettségét kellő időben nem teljesíti vagy valótlan adatot közöl, illetve a baleset valódi okát eltitkolja vagy feltárását megakadályozza,
-- c) a foglalkozási megbetegedéssel, fokozott expozíciós esettel kapcsolatos adatszolgáltatási kötelezettségét nem teljesíti vagy a foglalkozási megbetegedés, fokozott expozíció kivizsgálását akadályozza vagy
-- d) a munkáltató képviselőjeként a munkavédelmi képviselőt a munkavédelemre vonatkozó szabályban biztosított jogainak gyakorlásában akadályozza, illetve a munkavédelmi képviselővel szemben jogainak gyakorlása miatt hátrányos intézkedést tesz.
+- c) a foglalkozási megbetegedéssel, fokozott expozíciós esettel kapcsolatos adatszolgáltatási kötelezettségét nem teljesíti, valótlan adatot közöl, a foglalkozási megbetegedés, fokozott expozíció valódi okát eltitkolja, vagy kivizsgálását akadályozza, vagy
+- d) a munkáltató képviselőjeként a munkavédelmi képviselő választásra vonatkozó szabályokat megszegi, a munkavédelmi képviselőt a munkavédelemre vonatkozó szabályban biztosított jogainak gyakorlásában akadályozza, vagy a munkavédelmi képviselővel szemben jogainak gyakorlása miatt hátrányos intézkedést tesz.
 
 (2) Az (1) bekezdés alapján kiszabott bírság összege ötszázezer forintig terjedhet. A közigazgatási bírság egy eljárásban, ugyanazon kötelezettség ismételt megszegése vagy más kötelezettségszegés esetén ismételten is kiszabható.
 
@@ -770,17 +770,19 @@ kapcsolatban.
 
 86/A. § (1) A távmunkavégzésre e törvény szabályait a jelen fejezetben felsorolt eltérésekkel kell alkalmazni.
 
-(2) A 2. § (2) bekezdése harmadik mondatában, illetve az 54. § (7) bekezdése c) pontjában foglaltakhoz képest a távmunkavégzés – a munkáltatóval kötött megállapodás alapján – a munkavállaló által biztosított munkaeszközzel is történhet. Az ilyen munkaeszköz használatát a munkáltató munkavédelmi szempontú előzetes vizsgálatot követően engedélyezi. A vizsgálat elvégzésére megfelelően irányadók a 21. § (3)–(4) bekezdéseiben előírtak.
+(2) A távmunkavégzés – a munkáltatóval kötött megállapodás alapján – a munkavállaló által biztosított munkaeszközzel is történhet. Az ilyen munkaeszköz esetén a munkáltató a kockázatértékelés elvégzése során győződik meg a munkaeszköz biztonságos állapotáról. A munkaeszköz biztonságos állapotának fenntartásáról ebben az esetben a munkavállaló gondoskodik.
 
-(3) Távmunkavégzés csak a munkáltató által munkavédelmi szempontból előzetesen megfelelőnek minősített munkahelyen folytatható. A munkahelyen a munkavállaló csak a munkáltató hozzájárulása alapján változtathatja meg a munkavédelmi szempontból lényeges munkakörülményeket.
+(3) A munkahelyen a munkavállaló a munkáltató hozzájárulása nélkül nem változtathatja meg a munkakörülményeket.
 
 (4) Az Mt. alkalmazásában indokolt esetnek minősül a munkáltató vagy megbízottjának ellenőrzése, ha az az 54. § (7) bekezdése b) pontjában leírt feladatok végrehajtása érdekében történik.
 
-(5) A (4) bekezdésben szereplő ellenőrzésen túlmenően a munkáltató vagy megbízottja – így különösen a 8. §-ban, illetve 57–58. §-ban megjelölt személy – a szükséges munkavédelmi feladatok elvégzése, a munkavédelmi eljárások lefolytatása – így különösen az üzembe helyezés, kockázatértékelés, felülvizsgálat, balesetvizsgálat – céljából léphet be és tartózkodhat a munkavégzési helyként szolgáló ingatlan területén.
+(5) A (4) bekezdésben meghatározott ellenőrzésen túl a munkáltató vagy megbízottja – így különösen a 8. §-ban, valamint az 57–58. §-ban megjelölt személy – a kockázatértékelés elvégzése, balesetvizsgálat lefolytatása, valamint a munkakörülmények ellenőrzése céljából léphet be és tartózkodhat a munkavégzési helyként szolgáló ingatlan területén.
 
 (6) A munkáltató a munkavállalót tájékoztatja a VI. fejezetben meghatározott munkahelyi munkavédelmi tanácskozási és érdekképviseleti lehetőségekről és gyakorlatról, továbbá az ezzel összefüggő feladatot ellátó felelős személyekről, elérhetőségük adatairól. A munkavégzési helyként szolgáló ingatlan területére a munkavédelmi képviselő a munkavállaló beleegyezésével léphet be és tartózkodhat.
 
 (7) A 81. § (4) bekezdésében meghatározott hatósági ellenőrzést a munkavédelmi hatóság kizárólag munkanapon, 8 és 20 óra között végezheti. A munkavédelmi hatóság a munkáltatót és a munkavállalót az ellenőrzés megkezdése előtt legalább 3 munkanappal erről tájékoztatja. A munkáltató az ilyen céllal a munkavégzési helyként szolgáló ingatlan területére történő belépéshez szükséges hozzájárulást a munkavállalótól legkésőbb az ellenőrzés megkezdéséig beszerzi.
+
+(8) Távmunkavégzés esetén munkahely az a munkaszerződésben a felek által meghatározott helyiség, ahol a munkavállaló az információtechnológiai vagy számítástechnikai eszközzel rendszeresen a munkáját végzi.
 
 ### VIII. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -788,9 +790,9 @@ kapcsolatban.
 
 - 1. Áttelepítés: munkavédelmi szempontból korábban üzembe helyezésre kötelezett munkaeszköz olyan áthelyezése, amely üzembe helyezési, üzemeltetési körülményei tekintetében lényeges változást okoz. 1/A. Baleset: az emberi szervezetet ért olyan egyszeri külső hatás, amely a sérült akaratától függetlenül, hirtelen vagy aránylag rövid idő alatt következik be és sérülést, mérgezést vagy más (testi, lelki) egészségkárosodást, illetőleg halált okoz. 1/B. egyéni védőeszköz EK-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy a védőeszköz a mintának és az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak megfelel. 1/C. egyéni védőeszköz EK típustanúsítvány: megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EK típusvizsgálat alapján megfelel az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak. 1/D. Foglalkozási megbetegedés: a munkavégzés, a foglalkozás gyakorlása közben bekövetkezett olyan heveny és idült, valamint a foglalkozás gyakorlását követően megjelenő vagy kialakuló idült egészségkárosodás, amely
   - a) a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafolyamat során előforduló fizikai, kémiai, biológiai, pszichoszociális és ergonómiai kóroki tényezőkre vezethető vissza, illetve
-  - b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye. 1/E. Fokozott expozíció: a munkavállaló szervezetében a munkavégzés során, a foglalkozás gyakorlása közben vagy azzal összefüggésben a munkahelyek kémiai biztonságáról szóló miniszteri rendeletben meghatározott foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós (hatás) mutatók biológiai határértékeket meghaladó koncentrációja vagy mértéke, illetve zaj esetében 4000 Hz-en a 30 dB halláscsökkenés bármely fülön. 1/F. Kockázat: a veszélyhelyzetben a sérülés vagy az egészségkárosodás valószínűségének és súlyosságának együttes hatása. 1/G. Közúti közlekedés: a vízi, illetőleg légi útvonalon, a vasúti vonalon, a közúton, valamint bármely föld alatti, vagy föld feletti helyi és helyközi menetrendszerinti járattal történő helyváltoztatás. 1/H. Pszichoszociális kockázat: a munkavállalót a munkahelyén érő azon hatások (konfliktusok, munkaszervezés, munkarend, foglalkoztatási jogviszony bizonytalansága stb.) összessége, amelyek befolyásolják az e hatásokra adott válaszreakcióit, illetőleg ezzel összefüggésben stressz, munkabaleset, lelki eredetű szervi (pszichoszomatikus) megbetegedés következhet be. 1/I. egyéni védőeszköz EU-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy az egyéni védőeszköz a mintának, illetve az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak megfelel. 1/J. egyéni védőeszköz EU típustanúsítvány: a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EU típusvizsgálat alapján megfelel az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak.
+  - b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye. 1/E. Fokozott expozíció: a munkavállaló szervezetében a munkavégzés során, a foglalkozás gyakorlása közben vagy azzal összefüggésben a munkahelyek kémiai biztonságáról szóló miniszteri rendeletben meghatározott foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós (hatás) mutatók biológiai határértékeket meghaladó koncentrációja vagy mértéke, illetve zaj esetében 4000 Hz-en a 30 dB halláscsökkenés bármely fülön. 1/F. Kockázat: a veszélyhelyzetben a sérülés vagy az egészségkárosodás valószínűségének és súlyosságának együttes hatása. 1/G. Közúti közlekedés: a vízi, a légi útvonalon, a vasúti vonalon, a közúton, valamint bármely föld alatti vagy föld feletti útvonalon járművel történő helyváltoztatás. 1/H. Pszichoszociális kockázat: a munkavállalót a munkahelyén érő azon hatások (konfliktusok, munkaszervezés, munkarend, foglalkoztatási jogviszony bizonytalansága stb.) összessége, amelyek befolyásolják az e hatásokra adott válaszreakcióit, illetőleg ezzel összefüggésben stressz, munkabaleset, lelki eredetű szervi (pszichoszomatikus) megbetegedés következhet be. 1/I. egyéni védőeszköz EU-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy az egyéni védőeszköz a mintának, illetve az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak megfelel. 1/J. egyéni védőeszköz EU típustanúsítvány: a megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EU típusvizsgálat alapján megfelel az egyéni védőeszközökről és a 89/686/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i 2016/425 európai parlamenti és tanácsi rendelet előírásainak.
 - 2. Létesítés: az a folyamat, melynek eredményeként új üzem, munkahely jön létre, vagy meglévő felújítása, bővítése, átalakítása, illetve gép telepítése történik, függetlenül attól, hogy létrejötte után termelő vagy nem termelő célra használják. 2/A. Megelőzés: a munkáltató által megtett vagy tervezett intézkedések a munkáltatói tevékenység bármely fázisában, amelyeknek célja a munkával összefüggő kockázatok megelőzése vagy csökkentése.
-- 3. Munkabaleset: az a baleset, amely a munkavállalót a szervezett munkavégzés során vagy azzal összefüggésben éri, annak helyétől és időpontjától és a munkavállaló (sérült) közrehatásának mértékétől függetlenül. A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállalót a foglalkozás körében végzett munkához kapcsolódó közlekedés, anyagvételezés, anyagmozgatás, tisztálkodás, szervezett üzemi étkeztetés, foglalkozás-egészségügyi szolgáltatás és a munkáltató által nyújtott egyéb szolgáltatás stb. igénybevétele során éri. Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (munkabalesetnek) az a baleset, amely a sérültet a lakásáról (szállásáról) a munkahelyére, illetve a munkahelyéről a lakására (szállására) menet közben éri, kivéve, ha a baleset a munkáltató saját vagy bérelt járművével történt. Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be. Súlyos az a munkabaleset (bányászati munkabaleset), amely
+- 3. Munkabaleset: az a baleset, amely a munkavállalót a szervezett munkavégzés során vagy azzal összefüggésben éri, annak helyétől és időpontjától és a munkavállaló (sérült) közrehatásának mértékétől függetlenül. A munkavégzéssel összefüggésben következik be a baleset, ha a munkavállalót a foglalkozás körében végzett munkához kapcsolódó közlekedés, anyagvételezés, anyagmozgatás, tisztálkodás, szervezett üzemi étkeztetés, foglalkozás-egészségügyi szolgáltatás és a munkáltató által nyújtott egyéb szolgáltatás stb. igénybevétele során éri. Nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (munkabalesetnek) az a baleset, amely a sérültet a lakásáról (szállásáról) a munkahelyére, illetve a munkahelyéről a lakására (szállására) menet közben éri, kivéve, ha a baleset a munkáltató saját tulajdonában álló, bérleti vagy más szerződés alapján, továbbá egyéb megállapodás alapján biztosított járművel történt. Bányászati munkabaleset: az a munkabaleset, amely a bányafelügyelet hatósági felügyelete alá tartozó tevékenységek végzése során bármely munkáltatónál következett be. Súlyos az a munkabaleset (bányászati munkabaleset), amely
   - a) a sérült halálát (halálos munkabaleset az a baleset is, amelynek bekövetkezésétől számított egy éven belül a sérült orvosi szakvélemény szerint a balesettel összefüggésben életét vesztette), magzata vagy újszülöttje halálát, önálló életvezetését gátló maradandó károsodását;
   - b) valamely érzékszerv, érzékelőképesség, illetve a reprodukciós képesség elvesztését vagy jelentős mértékű károsodását okozta;
   - c) orvosi vélemény szerint életveszélyes sérülést, egészségkárosodást;

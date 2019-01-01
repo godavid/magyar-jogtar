@@ -264,7 +264,10 @@ nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyv
 10. § (1) A fegyveres biztonsági őr szolgálatának jogszerű teljesítése során jogosult és köteles:
 
 - a) a biztonságot sértő vagy veszélyeztető személyt tevékenysége abbahagyására felszólítani és igazoltatni;
-- b) az intézkedésének tettlegesen ellenszegülő vagy a bűncselekmény elkövetésén tetten ért személyt a rendőrség megérkezéséig visszatartani vagy a rendőrségre előállítani;
+- b) az intézkedésének tettlegesen ellenszegülő, valamint bűncselekmény vagy tulajdon elleni szabálysértés elkövetésén tetten ért személyt a rendőrség megérkezéséig visszatartani;
+
+(1b) A büntetés-végrehajtási szervezetnél az 1. § (6) bekezdése alapján működő fegyveres biztonsági őrség tagja az (1) bekezdés vonatkozásában a tetten ért személyt a rendőrség vagy a büntetés-végrehajtási szervezet hivatásos állományú tagjának megérkezéséig jogosult és köteles visszatartani.
+
 - c) az a)–b) pont szerint igazoltatott, visszatartott vagy előállított személytől a bűncselekményből származó vagy annak elkövetéséhez használt dolgot, illetve támadásra alkalmas eszközt elvenni, ennek érdekében ruházatát, csomagját átvizsgálni.
 
 (1a) A ruházat átvizsgálását – halaszthatatlan eset kivételével – az intézkedés alá vonttal azonos nemű személy végezheti. Az intézkedés nem történhet szeméremsértő módon.

@@ -103,7 +103,7 @@ terjed ki.
 - a) szabadfoglalkozás keretében,
 - b) egyéni egészségügyi vállalkozóként,
 - c) társas vállalkozás tagjaként,
-- d) közalkalmazotti jogviszonyban,
+- d) közalkalmazotti jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
 - e) munkaviszonyban,
 - f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban,
@@ -387,11 +387,11 @@ minősül.
 
 14/C. § A bérpótlék számítási alapjának eltérő meghatározásáról az Mt. 139. § (2) bekezdésében foglaltaktól eltérően megállapodás nem köthető.
 
-14/D. § (1) A Kjt. hatálya alá tartozó egészségügyi szolgáltatónál történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdés a) pontja nem alkalmazható.
+14/D. § (1) A Kjt. és a honvédelmi alkalmazottak jogállásáról szóló törvény (a továbbiakban: Haj.) hatálya alá tartozó egészségügyi szolgáltatónál történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdés a) pontja és a Haj. 46. § (2) bekezdés a) pontja nem alkalmazható.
 
-(2) A Kjt. 41. § (2) bekezdés b) pontjában és 41. § (3) bekezdésében foglaltak alapján a közalkalmazott vagy a Kjt. 22/B. §-a szerinti vezető állású munkavállaló a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagságot kizárólag a munkáltató fenntartójának jóváhagyásával létesíthet.
+(2) A Kjt. 41. § (2) bekezdés b) pontjában és 41. § (3) bekezdésében, valamint a Haj. 46. § (2) bekezdés b) pontjában és 46. § (3) bekezdésében foglaltak alapján a közalkalmazott vagy a Kjt. 22/B. §-a szerinti vezető állású munkavállaló, illetve honvédelmi alkalmazott a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagságot kizárólag a munkáltató fenntartójának jóváhagyásával létesíthet.
 
-(3) A (2) bekezdés szerinti összeférhetetlenség megszüntetésére a Kjt. 44. § (2)–(5) bekezdése irányadó, azzal az eltéréssel, hogy a Kjt. 44. § (2) bekezdése alapján a fenntartói döntés ellen munkaügyi jogvita kezdeményezhető abban az esetben is, ha a fenntartó nem a közalkalmazott munkáltatója.
+(3) A (2) bekezdés szerinti összeférhetetlenség megszüntetésére a Kjt. 44. § (2)–(5) bekezdése és a Haj. 50. § (2)–(5) bekezdése irányadó, azzal az eltéréssel, hogy a Kjt. 44. § (2) bekezdése és a Haj. 50. § (2) bekezdése alapján a fenntartói döntés ellen munkaügyi jogvita kezdeményezhető abban az esetben is, ha a fenntartó nem a közalkalmazott munkáltatója.
 
 14/E. § (1) Az Mt. 122. § (2) bekezdésében foglaltaktól eltérően a munkáltató az alkalmazott egészségügyi dolgozó számára hét munkanap szabadságot – a munkaviszony első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban köteles kiadni. A munkavállalónak erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
 

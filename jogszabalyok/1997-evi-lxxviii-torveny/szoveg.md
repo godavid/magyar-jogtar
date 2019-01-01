@@ -68,6 +68,15 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 - 38. Duna-parti építési szabályzat: a Duna főmedrével közvetlenül határos telkek és a Margitsziget területének építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
 - 39. Városligeti építési szabályzat: a Városliget megújításáról és fejlesztéséről szóló törvény hatálya alá tartozó terület építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
 - 40. Toronyház: olyan épület, amelynek a terepcsatlakozásához, lejtős terepen a lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja – beleértve minden építményrészt, a kupolát, saroktornyot, tetőfelépítményt, az épület tetőzetén elhelyezett antennát, kéményt, szellőzőt, egyéb tartozékot és műszaki berendezést – a 90 métert meghaladja.
+- 41. Nemzeti tervvagyon: az építészeti alkotásoknak az állam és az önkormányzat tulajdonába tartozó építészeti-műszaki dokumentációi – a honvédelmi, katonai, valamint nemzetbiztonsági célú és rendeltetésű építményeket érintő építészeti-műszaki dokumentációk kivételével – valamint az azok vonatkozásában az államot és az önkormányzatot,
+  - a) a szerzői jogról szóló 1884. évi XVI. törvénycikk 3. §-a alapján megillető szerzői vagyoni jogok,
+  - b) a szerzői jogról szóló 1921. évi LIV. törvénycikk 3. §-a, 60. §-a, 67. §-a alapján megillető szerzői vagyoni jogok,
+  - c) a szerzői jogról szóló 1969. évi III. törvény 14. § (1) bekezdése alapján megillető szerzői felhasználási jogok,
+  - d) 1970. január 1-jét követően a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 599. § (3) bekezdése alapján megillető szerzői vagyoni jogok,
+  - e) a szerzői jogról szóló 1999. évi LXXVI. törvény (a továbbiakban: Szjt.) 9. § (4) bekezdése és 30. §-a alapján megillető szerzői vagyoni jogok,
+  - f) az 55/A. § (3) bekezdése alapján megillető felhasználási jogok vagy vagyoni jogok
+
+összessége, ideértve az állami, önkormányzati tulajdonú szervezetek általi megrendelésre készült épületek azon építészeti-műszaki dokumentációit is, amelyen a megrendelő a szerzői vagyoni jogokat vagy a felhasználási jogokat megszerezte.
 
 ### Általános követelmények
 
@@ -96,6 +105,8 @@ Az Országgyűlés az épített környezet alakításával és védelmével kapc
 (3a) A magyar történelem kiemelkedő jelentőségű helyszínein lévő, a nemzeti vagyonról szóló törvény szerint az állam kizárólagos tulajdonába tartozó építmények vagy nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, valamint a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény szerint nemzetgazdasági szempontból kiemelt jelentőségű beruházás során építési tevékenységgel érintett telekre, valamint az országos jelentőségű kulturális és sport rendeltetésű építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan az ott megvalósítandó közérdekű beruházás érdekében, valamint a nemzetbiztonsági célú építmények telkére vonatkozóan a Kormány rendeletben megállapíthatja a beépítés szabályait, az egyedi építési követelményeket és a területrendezési szabályokat.
 
 (3b) A (3a) bekezdésben meghatározott beruházásokkal összefüggő különös hatósági eljárási szabályokat a Kormány rendeletben állapíthatja meg.
+
+(3c) A nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó, nemzeti tervvagyonnak minősülő, jogszabályban meghatározott építészeti-műszaki dokumentációk folyamatos gyűjtése, megőrzése, a nemzeti tervvagyon jogszabályban meghatározottak szerinti vagyonkezelése állami feladat.
 
 (4) A Kormány az építésügy központi irányítását, összehangolását – ideértve a sajátos építményfajták és a műemlékek tekintetében az összehangoló feladatokat is –
 
@@ -1215,6 +1226,14 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 (4) Ha településrendezési okokból az építmény, építményrész lebontása vált szükségessé, a tulajdonost a kisajátítási kártalanításra vonatkozó szabályok szerint kártalanítani kell.
 
+55/A. § (1) A Magyar Építész Kamara és a Magyar Mérnöki Kamara közös szabályzatban rögzíti az építészeti alkotáshoz és az építészeti-műszaki dokumentációhoz fűződő szerzői felhasználási vagy vagyoni jogok jogosultja által az építészeti alkotás és az építészeti-műszaki dokumentáció ismételt, az építészeti-műszaki dokumentáció alapján már megvalósított épülethez kötődő felhasználásért annak tulajdonosától kérhető – az ismételt felhasználás alapjául szolgáló tervezési szerződés díjához kötött – ajánlott díjakat.
+
+(2) Jogutód nélkül megszűnt állami vagy tanácsi, önkormányzati tulajdonú tervező vállalatokban létrehozott építészeti-műszaki dokumentációk esetében az építészeti-műszaki dokumentációhoz fűződő szerzői felhasználási vagy vagyoni jogok jogosultja az építészeti-műszaki dokumentáció felhasználásáért – eltérő megállapodás hiányában – az (1) bekezdés szerinti szabályzatban megállapított díjazást követelheti. Ha a jogosult a szabályzatban említett díj mértékét a felhasználás sajátos körülményeire tekintettel vitatja, a felek az Szjt. 102. §-a szerinti egyeztető testülethez fordulhatnak. Ha a jogosult az egyeztető testület előtti eljárást megelőzően akként nyilatkozik, hogy a felhasználást engedélyezi, és csak az azért követelt felhasználási díj összegét vitatja, az egyeztető testület eljárásáért fizetendő díjat az állam viseli. Ha a jogosult a felhasználáshoz hozzájárult, és az egyeztető testület javaslatát a felek az Szjt. 104. § (3) bekezdése alapján nem fogadják el, a jogosult bírósági úton érvényesítheti igényét, amely azonban a felhasználás megkezdését nem akadályozza, feltéve, hogy a felhasználó az (1) bekezdés szerinti ajánlott díjat letétbe helyezte.
+
+(3) Ha az állami vagy tanácsi, önkormányzati tulajdonú tervezővállalatok jogutód nélküli megszűnése miatt az ezek keretében létrehozott építészeti-műszaki dokumentációhoz fűződő szerzői felhasználási vagy vagyoni jogoknak nincs jogosultja, akkor e jogok a nemzeti vagyon részeként az államot illetik meg.
+
+55/B. § A jogutódlással megszűnt állami vagy tanácsi tulajdonú tervezővállalatokban létrehozott építészeti-műszaki dokumentációkhoz és az azok alapján megvalósított épületekhez fűződő szerzői jog részét képező felhasználási jog vagy vagyoni jog a nemzeti vagyon részeként az államot illeti meg, kivéve, ha egyértelműen igazolható, hogy az állam a jogutódnak azt kifejezetten átadta.
+
 ### Az építészeti örökség védelme
 
 56. § (1) Az építészeti örökséghez tartoznak a műemlékek, a műemléki környezetek, a műemléki jelentőségű területek és a történeti tájak. Az építészeti örökség megfelelő fenntartása és megóvása közérdek.
@@ -1427,6 +1446,8 @@ tartalmazza.
 
 (10) Az 58. § szerinti nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
+59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része vonatkozásában a tulajdonosi jogokat az állam 100%-os tulajdonában álló Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság gyakorolja.
+
 ### A törvény hatálybalépése és átmeneti rendelkezések
 
 60. § (1) E törvény – a (2) bekezdés kivételével – 1998. január 1-jén lép hatályba.
@@ -1508,7 +1529,7 @@ hatályban lévő, településrendezési eszközre vonatkozó előírásai.
 - 5. a településrendezéssel kapcsolatos országos szakmai követelményeket és az azoktól való eltérés lehetőségét,
 - 6. az építményekkel kapcsolatos országos szakmai követelményeket és az azoktól való eltérés lehetőségét, a tervezési program tartalmi követelményeit és azok részletes szakmai szabályait,
 - 7. az energetikai tanúsítói 7.1. tevékenység folytatásának részletes feltételeit, 7.2. tevékenységre vonatkozó szerződések tartalmi követelményeit, a szerződést biztosító mellékkötelezettségre és a szerződés teljesítésére vonatkozó szabályokat, 7.3 névjegyzék vezetésére vonatkozó részletes eljárási szabályokat, a névjegyzéket vezető szerv kijelölését, 7.4. tevékenységek bejelentésének és a tevékenységet folytatók névjegyzékének személyes adatot nem tartalmazó adattartalmát, 7.5. tevékenységet ellátó személyre vonatkozó összeférhetetlenségi szabályokat,
-- 8. a Dokumentációs Központ működésére vonatkozó részletes szabályokat, a Dokumentációs Központ részére átadandó dokumentációk és adatok körét,
+- 8. a Dokumentációs Központ működésére vonatkozó részletes szabályokat, a Dokumentációs Központ részére átadandó dokumentációk és adatok, valamint a nemzeti tervvagyonba tartozó dokumentumok körét,
 - 9. a Nyilvántartás működésének feltételeit, az adatszolgáltatás, az elektronikus ügyintézés rendjét, a Nyilvántartás használatához kapcsolódó, önköltségszámításon alapuló rendszerhasználati díjat, valamint az adatkezelésben részt vevők feladatait és felelősségét,
 - 10. a kihirdetett veszélyhelyzet folytán bekövetkezett építménykárok helyreállításával, építmények, építményszerkezetek veszélyes állapotának megszüntetésével, megelőzésével összefüggő kivételes építési követelményeket, engedélyezési, tudomásulvételi és kötelezési eljárási szabályokat, tervdokumentáció tartalmi követelményeit, a kivételes tervellenőrzési, tervpályázati és tervtanácsi szabályokat, továbbá az építőipari kivitelezési tevékenység eltérő szabályait,
 - 11. az építmények energiahatékonyságának tanúsítását, a tanúsítványok nyilvántartásba vételét és annak szolgáltatási díját, a tanúsítványok minőségellenőrzését, minőségellenőrző szervezet kijelölését,

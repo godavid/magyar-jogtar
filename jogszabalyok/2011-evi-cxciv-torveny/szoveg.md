@@ -135,7 +135,7 @@ olyan irányban tér el a központi költségvetésről szóló törvényben meg
   - cb) az adósságrendezési eljárás során a hitelezői egyezség megkötéséhez igénybe vett reorganizációs hitelre vonatkozik,
   - cc) – ha a 10/C. § (1) bekezdése szerinti tájékoztatásban a megkötni tervezettel megegyező vagy annál nagyobb összeggel szerepel – fejlesztési célt szolgál és nem haladja meg a fővárosi önkormányzat és megyei jogú város önkormányzata esetében a 100 millió forintot, országos nemzetiségi önkormányzat esetében a 20 millió forintot, egyéb önkormányzat esetében az adott évi saját bevételeinek 20%-át, de legfeljebb a 10 millió forintot,
   - cd) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől az önkormányzat által elnyert, nem fejlesztési célú támogatás előfinanszírozásának biztosítására szolgál, valamint
-- d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont szerinti, jogi személy által megkötött ügylethez kapcsolódik.
+- d) olyan kezesség- és garanciavállalásához, amely a b) és a c) pont szerinti, önkormányzat által megkötött, valamint az önkormányzati többségi tulajdonban álló gazdasági társaság által a naptári éven belül keletkeztetett és lejáró futamidejű adósságot keletkeztető ügylethez kapcsolódik.
 
 (4) Az ugyanazon
 
@@ -172,7 +172,7 @@ köthet naptári éven túli futamidejű működési célú adósságot keletkez
 (2) Az önkormányzat kezesség-, illetve garanciavállalásához a Kormány abban az esetben járul hozzá, ha
 
 - a) teljesül a 10. § (5) bekezdésében meghatározott feltétel, azzal, hogy az adósságot keletkeztető ügylet futamidejének vége alatt a kezesség, illetve garancia érvényesíthetőségére rendelkezésre álló határidő lejártát kell érteni, és
-- b) a kezesség-, illetve garanciavállalás megfelel az Áht. 96. §-ának.
+- b) a kezesség-, illetve garanciavállalás – a 10/E. § (3) bekezdés szerinti szerződésmódosításhoz vagy adósságmegújításhoz kapcsolódó kezesség-, illetve garanciavállalás kivételével – megfelel az Áht. 96. §-ának.
 
 (3) A Kormány az önkormányzat olyan adósságot keletkeztető ügyletéhez, amelynek célja azzal megegyező összegű, illetve annál kisebb meglévő adósság visszafizetése, abban az esetben járul hozzá, ha teljesül a 10. § (5) bekezdésében meghatározott feltétel. Kivételes vagy az önkormányzat működését veszélyeztető esetben a Kormány a 10. § (5) bekezdésében meghatározott feltétel alkalmazásától eltekinthet.
 
@@ -182,7 +182,7 @@ köthet naptári éven túli futamidejű működési célú adósságot keletkez
 
 (6) A Kormány hozzájárulása az adósságot keletkeztető ügylet tárgyévben történő megkötésére, illetve a tárgyévben történő kezesség-, illetve garanciavállalásra vonatkozik.
 
-10/C. § (1) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, – a 10. § (3) bekezdés b) pontja, valamint c) pont cb) és cd) alpontja, továbbá a 10/A. § szerinti működési célú adósságot keletkeztető és a 10/B. § (3) bekezdése szerinti adósságmegújító ügyletek kivételével – az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a Kormányt előzetesen tájékoztatja.
+10/C. § (1) Az önkormányzat a tárgyévre vonatkozó költségvetési rendeletében, határozatában szerepeltetett adósságkeletkeztetési szándékáról, – a 10. § (3) bekezdés b) pontja, valamint c) pont cb) és cd) alpontja, továbbá a 10/A. § szerinti működési célú adósságot keletkeztető és a 10/B. § (3) bekezdése szerinti adósságmegújító ügyletek kivételével – az adósságot keletkeztető ügyletéhez kapcsolódó fejlesztési céljáról és az ügylet várható értékéről a helyi önkormányzatokért felelős minisztert és az államháztartásért felelős minisztert előzetesen tájékoztatja.
 
 (2) Az önkormányzat a hozzájárulás iránti kérelméhez
 

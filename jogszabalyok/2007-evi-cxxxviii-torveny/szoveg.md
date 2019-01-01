@@ -828,7 +828,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 ### Jogsértések jelentése
 
-24/G. § (1) A befektetési vállalkozás hatékony és megbízható mechanizmust hoz létre, amely ösztönzi az e törvény, továbbá a prudens működésre vonatkozó jogszabályok, ideértve az 575/2013/EU rendelet előírásainak való tényleges vagy potenciális megsértésének esetén történő vezető tisztségviselői és munkavállalói jelentéstételt.
+24/G. § (1) A befektetési vállalkozás, továbbá a Felügyelet hatékony és megbízható mechanizmust hoz létre, amely ösztönzi az e törvény, továbbá a prudens működésre vonatkozó jogszabályok, ideértve az 575/2013/EU rendelet előírásainak való tényleges vagy potenciális megsértésének esetén történő vezető tisztségviselői és munkavállalói jelentéstételt.
 
 (2) Az (1) bekezdésben meghatározott mechanizmus magában foglalja:
 
@@ -836,7 +836,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 - b) a befektetési vállalkozáson belüli jogsértést bejelentő munkavállaló diszkriminációval és tisztességtelen bánásmóddal szembeni védelmét, valamint
 - c) a befektetési vállalkozáson belüli jogsértést bejelentő személy, valamint a jogsértésért feltehetően felelős természetes személy személyes adatainak védelmét.
 
-(3) A befektetési vállalkozás a jogsértés intézményen belüli jelentésére független és önálló csatornát és eljárásokat dolgoz ki és működtet.
+(3) A befektetési vállalkozás a jogsértés befektetési vállalkozáson belüli jelentésére független és önálló csatornát és eljárásokat dolgoz ki és működtet.
 
 ### Személyi összeférhetetlenség
 

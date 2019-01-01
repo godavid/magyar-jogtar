@@ -14,6 +14,8 @@ a menedékjogról a következő törvényt alkotja:
 
 (2) E törvény rendelkezéseit arra a külföldire kell alkalmazni, aki dublini eljárás hatálya alatt áll, elismerés iránti kérelmet nyújtott be, menedékjogot élvez, vagy akire nézve a menekültügyi nyilvántartás adatot tartalmaz.
 
+(3) Magyarországon e törvény hatálya alá tartozó külföldi egy jogcímen tartózkodhat. Amennyiben az e törvény hatálya alatt álló e törvényben meghatározott magyarországi tartózkodásra jogosító jogcíme mellett más jogcímen igényel magyarországi tartózkodásra jogosító engedélyt – ide nem értve a menedékjogi kérelem ismételt előterjesztését –, az ügyfelet írásban tájékoztatni kell, hogy az újonnan kért engedély megadásával egyidőben e törvény szerinti tartózkodásra jogosító jogcíme visszavonásra kerül.
+
 ### Értelmező rendelkezések
 
 2. § E törvény alkalmazásában
@@ -69,7 +71,7 @@ rendelkezik;
 
 (2) Az elismerését kérő köteles
 
-- a) a menekültügyi hatósággal együttműködni, így különösen: feltárni a menekülésének körülményeit, személyes adatait közölni és személyazonosságának tisztázását elősegíteni, okmányait átadni;
+- a) a menekültügyi hatósággal együttműködni, így különösen: feltárni a menekülésének körülményeit, személyes adatait közölni és személyazonosságának tisztázását elősegíteni, okmányait és a nála lévő okiratokat átadni;
 - b) nyilatkozni vagyonáról, jövedelméről;
 - c) a menekültügyi hatóság által számára kijelölt szálláshelyen – az e törvényben meghatározottak szerint – életvitelszerűen tartózkodni és a kijelölt szálláshelyen a tartózkodásra irányadó magatartási szabályokat megtartani;
 - d) jogszabály vagy az egészségügyi hatóság elrendelése alapján magát egészségügyi szűrésnek, gyógykezelésnek, jogszabályban kötelezően előírt, valamint az egészségügyi hatóság által megbetegedési veszély esetén elrendelt, hiányzó védőoltások pótlásának alávetni.
@@ -107,7 +109,7 @@ rendelkezik;
 
 8. § (1) Nem lehet menekültként elismerni azt a külföldit, akire nézve a Genfi Egyezmény 1. cikk D., E. vagy F. pontjában szereplő kizáró okok valamelyike fennáll.
 
-(2) A Genfi Egyezmény 1. cikk F. pont b) alpontjának alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest, és amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
+(2) A Genfi Egyezmény 1. cikk F. pont b) alpontjának alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest.
 
 (3) A Genfi Egyezmény 1. cikk F. pont c) alpontjának alkalmazása során az Egyesült Nemzetek céljaival és alapelveivel ellentétes különösen
 
@@ -117,7 +119,11 @@ rendelkezik;
 
 (4) Nem lehet menekültként elismerni azt a külföldit, akinek Magyarország területén való tartózkodása a nemzetbiztonságot veszélyezteti.
 
-(5) Nem lehet menekültként elismerni azt a külföldit, akit a bíróság jogerős határozatában olyan bűncselekmény elkövetése miatt ítélt el, amelyre a törvény ötévi vagy azt meghaladó szabadságvesztés büntetést rendel.
+(5) Nem lehet menekültként elismerni azt a külföldit, akit a bíróság
+
+- a) szándékos bűncselekmény elkövetése miatt jogerősen ötévi vagy azt meghaladó tartamú szabadságvesztésre ítélt,
+- b) jogerősen szabadságvesztésre ítélt visszaesőként, többszörös visszaesőként vagy erőszakos többszörös visszaesőként elkövetett bűncselekmény elkövetése miatt,
+- c) az élet, a testi épség, az egészség elleni bűncselekmény, az egészséget veszélyeztető bűncselekmény, az emberi szabadság elleni bűncselekmény, a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény, a köznyugalom elleni bűncselekmény, a közbiztonság elleni bűncselekmény vagy a közigazgatás rendje elleni bűncselekmény elkövetése miatt jogerősen háromévi vagy azt meghaladó tartamú szabadságvesztésre ítélt.
 
 ### Menekültek biztonságos származási országokból
 
@@ -172,7 +178,7 @@ rendelkezik;
 - h) elismerésének feltételei már az elismerő határozat meghozatalakor sem álltak fenn;
 - i) a menekültügyi eljárás során lényeges tényt vagy tényeket elhallgatott, vagy ilyen tényre vagy tényekre vonatkozó valótlan nyilatkozatot tett, illetve hamis vagy hamisított dokumentumokat használt fel, feltéve, hogy ez a menekültkénti elismerését érdemben befolyásolta.
 
-(3) A menekültügyi hatóság az elismerést visszavonja, ha a menekültet bíróság jogerős ügydöntő határozatában olyan bűncselekmény elkövetése miatt ítéli el, amelyre a törvény ötévi vagy azt meghaladó szabadságvesztés büntetést rendel.
+(3) A menekültügyi hatóság az elismerést visszavonja, ha a menekülttel szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn.
 
 (4) A (2) bekezdés e) pontja nem alkalmazható arra a menekültre, aki korábbi üldöztetéséből fakadó alapos okot tud felhozni származási országa védelmének elutasítására.
 
@@ -203,7 +209,7 @@ rendelkezik;
 
 - a) akiről megalapozottan feltételezhető, hogy
   - aa) nemzetközi dokumentumokban meghatározott béke elleni, háborús vagy emberiesség elleni bűncselekményt követett el;
-  - ab) olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli;
+  - ab) vele szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn;
   - ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
 - b) akinek Magyarország területén való tartózkodása a nemzetbiztonságot sérti.
 
@@ -269,9 +275,9 @@ rendelkezik;
   - ab) a menedékeskénti elismerés iránti kérelem benyújtását megelőzően, Magyarország területén kívül súlyos, nem politikai bűncselekményt követett el;
   - ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
 - b) akinek Magyarország területén való tartózkodása nemzetbiztonsági érdeket sért;
-- c) akiről a bíróság jogerős ügydöntő határozata megállapította, hogy olyan bűncselekményt követett el, amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
+- c) akivel szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn.
 
-(2) Az (1) bekezdés a) pont ab) alpontja alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest, és amelyre a magyar jog ötévi vagy azt meghaladó szabadságvesztés büntetés kiszabását rendeli.
+(2) Az (1) bekezdés a) pont ab) alpontja alkalmazása során súlyos, nem politikai bűncselekménynek minősül az a cselekmény, amelynek elkövetésénél – figyelemmel az összes körülményre, így a bűncselekmény által elérni kívánt célra, a bűncselekmény indítékára, az elkövetés módjára, a felhasznált vagy felhasználni kívánt eszközre – a bűncselekmény köztörvényi jellege túlnyomó a politikai jelleghez képest.
 
 ### A menedékes jogállása
 
@@ -290,7 +296,7 @@ rendelkezik;
 - d) Magyarország jogszabályait megtartani;
 - e) úti okmányának, személyazonosságát, magyarországi tartózkodásának jogszerűségét igazoló okmányának elvesztését, eltulajdonítását vagy megsemmisülését a menekültügyi hatóságnál haladéktalanul bejelenteni.
 
-(3) Az (1) bekezdés a) pontja szerinti okmány megfelel a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben foglaltaknak.
+(3) Az (1) bekezdés a) pontja szerinti okmány megfelel a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendeletben, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendeletben foglaltaknak.
 
 ### Az ideiglenes védelem tartama
 
@@ -424,7 +430,7 @@ rendelkezik;
 
 (1a) A dublini átadás végrehajtása érdekében a menekültügyi hatóság menekültügyi őrizetbe veheti azt a külföldit, aki Magyarországon menedékjog iránti kérelmet nem terjesztett elő, és esetében dublini átadásnak van helye.
 
-(1b) Az (1a) bekezdés alapján őrizetbe vett külföldire a menekültügyi őrizet időtartama alatt az elismerését kérőre vonatkozó szabályok megfelelően alkalmazandók. A menekültügyi őrizet megszüntetését, továbbá az átadás meghiúsulását követően az idegenrendészeti szabályok alkalmazásának van helye.
+(1b) Az (1a) bekezdés alapján őrizetbe vett külföldire a menekültügyi őrizet időtartama alatt az elismerését kérőre vonatkozó szabályok megfelelően alkalmazandók. A menekültügyi őrizet megszüntetését, továbbá az átadás meghiúsulását követően – az őrizet megszüntetésével egyidőben meghozott, rendelkezésre állást biztosító intézkedésre vonatkozó döntés kivételével – az idegenrendészeti szabályok alkalmazásának van helye.
 
 (2) A menekültügyi őrizet elrendelésére egyedi mérlegelés esetén és kizárólag abban az esetben kerülhet sor, ha annak célja a rendelkezésre állást biztosító intézkedés alkalmazásával nem biztosítható.
 
@@ -447,7 +453,7 @@ rendelkezik;
 - e) a dublini eljárásban történő átadás vagy visszaadás (a továbbiakban: dublini átadás) végrehajtásának feltételei biztosítottak, vagy
 - f) nyilvánvalóvá válik, hogy a dublini átadást nem lehet végrehajtani.
 
-(9) A menekültügyi őrizetnek a (8) bekezdés a), c), d), illetve f) pontja alapján történő megszüntetése esetén a menekültügyi hatóság az elismerését kérő számára kijelölt tartózkodási helyet rendel el.
+(9) A menekültügyi őrizetnek a (8) bekezdés a), c), d), illetve f) pontja alapján történő megszüntetése esetén a menekültügyi hatóság az elismerését kérő számára kijelölt tartózkodási helyet rendel el. A menekültügyi őrizetnek a (8) bekezdés e) pontja alapján történő megszüntetése esetén a menekültügyi hatóság kijelölt tartózkodási helyet rendelhet el.
 
 (10) A menekültügyi őrizetet a menekültügyi hatóság – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével – az erre a célra kijelölt, az őrizet végrehajtására szolgáló intézményben hajtja végre.
 
@@ -582,12 +588,17 @@ rendelkezik;
 - a) 1–6. §,
 - b) 20. § (1) bekezdés,
 - c) 22–24. §,
-- d) 27–28. §,
-- e) 29. § (2)–(3) bekezdés,
-- f) 53–54. §,
-- g) 113. § (2) bekezdés a) és c) pont,
-- h) 114. § (2) bekezdés,
-- i) 122. §
+- d) 25. § (1) bekezdés b) pontja,
+- e) 27–28. §,
+- f) 29. § (2)–(3) bekezdés,
+- g) 53–54. §,
+- h) 62. § (1)–(2) bekezdés,
+- i) 64. § (1) bekezdés,
+- j) 81. § (2) bekezdés a) pontja,
+- k) 90. §,
+- l) 113. § (2) bekezdés a) és c) pontja,
+- m) 114. § (2) bekezdés,
+- n) 122. §
 
 előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -597,7 +608,7 @@ előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A kérelmet személyesen írásban vagy szóban lehet előterjeszteni.
 
-(3) A menekültügyi hatóság határidő megjelölésével a kérelmezőt hiánypótlásra vagy nyilatkozattételre szólíthatja fel, amennyiben a kérelem elbírálásához további adatra, iratra van szükség. A hiánypótlási vagy a nyilatkozat megtételére irányuló felhívásnak tartalmaznia kell a mulasztás jogkövetkezményeire történő utalást.
+(3) A menekültügyi hatóság határidő megjelölésével a kérelmezőt hiánypótlásra vagy nyilatkozattételre szólíthatja fel, amennyiben a kérelem elbírálásához vagy a hivatalból indított eljárás lefolytatásához további adatra, iratra van szükség. A hiánypótlási vagy a nyilatkozat megtételére irányuló felhívásnak tartalmaznia kell a mulasztás jogkövetkezményeire történő utalást.
 
 32/E. § (1) A menekültügyi hatóság hivatalból megindítja az eljárást, ha
 
@@ -786,7 +797,7 @@ időtartama.
 
 követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
-(3) Ha a kézbesítés azért volt sikertelen, mert az a címzett hatósági nyilvántartásban szereplő lakcíméről a menekültügyi hatósághoz „ismeretlen” vagy „elköltözött” jelzéssel érkezett vissza, a közlést hirdetmény útján kell teljesíteni.
+(3)
 
 (4) Ha a címzett tudomást szerez arról, hogy a neki küldött iratot a hatóság kézbesítettnek tekinti, a tudomásszerzéstől számított tizenöt napon belül, de legkésőbb a közléstől számított negyvenöt napon belül kifogást terjeszthet elő.
 
@@ -828,7 +839,7 @@ követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
 32/V. § (1) Az eljárás irataiba történő betekintéssel összefüggésben az Ákr. 33–34. §-ának rendelkezéseit megfelelően kell alkalmazni azzal, hogy felhasználói vagy megismerési engedély hiányában nem lehet betekinteni a minősített adatot tartalmazó iratba.
 
-(2) A menekültügyi hatóság végzésben dönt az iratbetekintési kérelem elutasításáról, a végzés ellen az iratbetekintést kérő személy önálló fellebbezéssel élhet.
+(2) A menekültügyi hatóság végzésben dönt az iratbetekintési kérelem elutasításáról, a végzés ellen önálló jogorvoslatnak van helye.
 
 (3) Az iratbetekintés során az arra jogosult másolatot, kivonatot készíthet vagy másolatot kérhet. A másolatot és a kivonatot a menekültügyi hatóság kérelemre hitelesíti.
 
@@ -871,6 +882,10 @@ követő ötödik munkanapon kézbesítettnek kell tekinteni.
 (10) A végrehajtási jog elévülését bármely végrehajtási cselekmény megszakítja.
 
 (11) Nem számít bele az elévülési időbe a végrehajtási eljárás felfüggesztésének időtartama.
+
+(12) A kötelezett kérelmére a menekültügyi hatóság vezetője – a végrehajtás foganatosítása előtt – indokolt esetben kamatmentes részletfizetést vagy fizetési halasztást engedélyezhet.
+
+(13) A menekültügyi hatóság vezetőjének döntése ellen indult közigazgatási perben a bíróság a döntés megváltoztatására nem jogosult.
 
 ### VII. Fejezet — A MENEKÜLTÜGYI ELJÁRÁS ÁLTALÁNOS SZABÁLYAI
 
@@ -1006,6 +1021,8 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 (3) Az eljárási képességgel rendelkező családtaggal együtt érkező, tizennegyedik életévét be nem töltött elismerését kérőt akkor lehet meghallgatni, ha személyes meghallgatása a tényállás tisztázása érdekében nélkülözhetetlen.
 
 (4) Az elismerés iránti kérelem elutasítására nem kerülhet sor kizárólag azon az alapon, hogy a menekültügyi hatóság az elismerését kérőt nem hallgatta meg.
+
+(5) Amennyiben a meghallgatás zártcélú távközlő hálózat útján történik, a harmadik országbeli állampolgár jogi képviselője a meghallgatás helyszínén lehet jelen.
 
 44. § (1) Amennyiben a magát kiskorúnak valló elismerését kérő kiskorúságát illetően kétség merül fel, életkora megállapítása céljából orvosszakértői vizsgálat kezdeményezhető. A vizsgálat kizárólag az elismerését kérő, ha pedig az elismerését kérő nyilatkozattételre képtelen állapotban van, törvényes képviselője vagy ügygondnoka hozzájárulásával végezhető el.
 
@@ -1277,7 +1294,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontjain alapuló megszüntetés eseteiben rendelkezik a 45. § (5) és (7)–(8) bekezdéseiben foglaltak szerint a külföldi törvény szerinti kiutasításáról és kitoloncolásáról, valamint megállapítja a beutazási és tartózkodási tilalom időtartamát.
 
-(4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben bírósági felülvizsgálatnak nincs helye.
+(4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben közigazgatási pernek nincs helye.
 
 (5) Az eljárást a (2) bekezdés e)–f) pontja alapján megszüntető végzés – az 53. § (3)–(5) bekezdésében foglaltaknak megfelelően közigazgatási perben megtámadható.
 
@@ -1381,6 +1398,8 @@ a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt el
 
 (2) A menekültkénti vagy oltalmazottkénti elismerés visszavonására irányuló eljárásban e törvény VII. Fejezetének rendelkezéseit megfelelően alkalmazni kell.
 
+(3) A menekültkénti vagy oltalmazottkénti elismerés visszavonására irányuló eljárást az eljárás megindításától számított 60 napon belül kell lefolytatni.
+
 73. § (1) Ha a menekültügyi hatóság a menekültkénti vagy az oltalmazottkénti elismerés feltételei fennállásának felülvizsgálata során azt állapítja meg, hogy az elismerés visszavonásának van helye, erről a menekültet vagy az oltalmazottat írásban, az anyanyelvén vagy az általa értett más nyelven tájékoztatja.
 
 (2) A menekültügyi hatóság a tájékoztatással egyidejűleg – határidő tűzésével – felhívja a menekültet vagy az oltalmazottat, hogy jelölje meg azokat az okokat, amelyek igazolják vagy valószínűsítik a menekültkénti vagy oltalmazottkénti elismerés feltételeinek fennállását, illetve azt, hogy az elismerést kizáró ok nem áll fenn.
@@ -1410,7 +1429,9 @@ a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt el
 
 ### A menekültkénti, oltalmazottkénti és befogadottkénti elismerés feltételei fennállásának felülvizsgálata
 
-75/A. § A menekültkénti, oltalmazottkénti és befogadottkénti elismerés feltételei fennállásának felülvizsgálata során a VII. Fejezet és az 56–68. §-t megfelelően kell alkalmazni.
+75/A. § (1) A menekültkénti, oltalmazottkénti és befogadottkénti elismerés feltételei fennállásának felülvizsgálata során a VII. Fejezet és az 57–68. § rendelkezéseit megfelelően kell alkalmazni.
+
+(2) A menekültkénti vagy oltalmazottkénti elismerés felülvizsgálatára irányuló eljárást az eljárás megindításától számított 60 napon belül kell lefolytatni.
 
 ### IX. Fejezet — A MENEDÉKESKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
@@ -1581,7 +1602,7 @@ meghaladja,
 
 (3) A rendőr a Magyarország területén jogellenesen tartózkodó, menedékjog iránti kérelem előterjesztése iránti szándéknyilatkozatot tevő külföldit az államhatárról szóló törvényben meghatározott államhatár rendjének védelmét biztosító létesítmény kapuján átvezeti. A külföldi a menedékjog iránti kérelmét az (1) bekezdésben meghatározottak szerint nyújthatja be.
 
-(4) Az elismerését kérőt az eljárás során nem illetik meg az 5. § (1) bekezdés a) és c) pontjában foglalt jogosultságok.
+(4) A tranzitzónában tartózkodó, elismerését kérőt az eljárás során nem illetik meg az 5. § (1) bekezdés a) és c) pontjában foglalt jogosultságok.
 
 (5) A menekültügyi hatóság az elismerését kérő részére a jogorvoslattal tovább nem támadható döntés vagy a dublini átadásáról hozott végzés végrehajthatóvá válásáig tartózkodási helyként a tranzitzóna területét jelöli ki. Az elismerését kérő a tranzitzóna területét a kiléptető kapun keresztül hagyhatja el.
 
@@ -1663,14 +1684,20 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - s) az elismerését kérővel szemben elrendelt menekültügyi őrizet jogalapját, határidejét vagy időtartamát, helyét, az elrendelő szerv megnevezését, a határozat számát;
 - t) az elismerését kérő számára kijelölt tartózkodási helyet elrendelő határozat jogalapját, számát, az elrendelő szerv megnevezését, valamint a kijelölt tartózkodási hely megjelölését; valamint
 - u) a menekültügyi óvadék összegét, valamint letételének, visszaadásának és államra szállásának időpontját;
-- v) az arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot.
+- v) az arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot;
+- w) haláleset helyét és idejét, a holtnak nyilvánításának tényét, a halál vélelmezett idejét és az eljáró bíróság megnevezését, vagy a halál ténye bírói megállapításának tényét, vagy a bíróság által megállapított elhalálozás helyét, idejét és az eljáró bíróság megnevezését;
+- x) az elismerését kérő részére kiállított tartózkodási engedély okmányazonosítóját, kiállításának és érvényességének idejét;
+- y) a menekült és az oltalmazott részére a menekültügyi hatóság által kiállított úti okmány okmányazonosítóját, kiállításának és érvényességének idejét;
+- z) a menedékes személyazonosságát és tartózkodási jogát igazoló okmány okmányazonosítóját, kiállításának és érvényességének idejét, továbbá a menedékes részére áttelepülés céljából kiállított okmány okmányazonosítóját, kiállításának és érvényességének idejét.
 
 (1a) Az (1) bekezdésben meghatározott nyilvántartás az (1) bekezdés c), f)–i), n), q) és r) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A menekültügyi hatóság
 
-- a) az (1) bekezdés a)–o) és q)–r) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
-- b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől számított tíz évig kezeli.
+- a) az (1) bekezdés a)–o) és q)–z) pontjában meghatározott adatokat a kérelem elutasításától, az eljárás megszüntetésétől vagy az elismerés megszűnésétől,
+- b) az (1) bekezdés p) pontjában meghatározott adatokat az e törvényben és külön jogszabályban meghatározott ellátásra, illetve támogatásra való jogosultság megszűnésétől, illetve a visszatérítendő támogatás teljesítésétől vagy a követelés elévülésétől
+
+számított huszonöt évig kezeli.
 
 (3) Az ujjnyomat-adat rögzítésének és tárolásának célja
 
@@ -1753,18 +1780,36 @@ céljából a menekültügyi nyilvántartásban kezeli.
 
 (6) A járási hivatal, a települési önkormányzat és a támogatást folyósító szervek (1)–(5) bekezdés szerinti nyilvántartás-vezetésére az Ákr. rendelkezéseit kell alkalmazni.
 
+(7) A Letelepedési Alapról szóló 49/1988. (VI. 28.) MT rendelet, a Menekülteket Támogató Alapról szóló 1993. évi XXVI. törvény, továbbá a menedékjogról szóló 1997. évi CXXXIX. törvény hatálya alá tartozó külföldiek ellátásáról és támogatásáról szóló 25/1998. (II. 18.) Korm. rendelet, valamint e törvény alapján korábban kifizetett kamatmentes lakásszerzési támogatások visszafizetésének biztosítására bejegyzett jelzálogjognak, valamint az elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban történő töröltetésére – a menekültügyi hatóság engedélye alapján – a támogatást folyósító önkormányzat polgármesteri hivatalának jegyzője köteles.
+
 ### Adatigénylés és adattovábbítás
 
-86. § A menekültügyi hatóság jogszabályban meghatározott feladatai ellátása céljából – törvényben meghatározott adatkörben – adatokat igényelhet
+86. § (1) A menekültügyi hatóság jogszabályban meghatározott feladatai ellátása céljából – törvényben meghatározott adatkörben – adatokat igényelhet
 
 - a) a bűntettesek, a kényszerintézkedés, illetve a büntetőeljárás alatt állók nyilvántartásából;
 - b) a központi idegenrendészeti nyilvántartásból;
 - c) a személyiadat- és lakcímnyilvántartásból;
 - d) nemzetközi szerződés, európai közösségi jogi aktus vagy viszonosság alapján külföldi bűnüldöző, idegenrendészeti és menekültügyi szervektől, illetve nemzetközi szervezetektől;
-- e) közvetlen hozzáféréssel az elektronikus anyakönyvből,
-- f) közvetlen hozzáféréssel az apai elismerő nyilatkozatok nyilvántartásából,
-- g) a papíralapú anyakönyvnek az elektronikus anyakönyvbe bejegyzendő adatairól, és
-- h) az elektronikus és papíralapú anyakönyvi alapiratokból.
+- e) közvetlen hozzáféréssel az elektronikus anyakönyvből;
+- f) közvetlen hozzáféréssel az apai elismerő nyilatkozatok nyilvántartásából;
+- g) a papíralapú anyakönyvnek az elektronikus anyakönyvbe bejegyzendő adatairól;
+- h) az elektronikus és papíralapú anyakönyvi alapiratokból;
+- i) a gondnokoltak nyilvántartásából;
+- j) az egységes szociális nyilvántartásból.
+
+(2) A menekültügyi hatóság eljárása során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzésére adatot igényelhet:
+
+- a) a felsőoktatási személyi nyilvántartásból és a köznevelési információs rendszer (KIR) tanulói nyilvántartásából;
+- b) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott juttatások vonatkozásában a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott adatkezelő szervtől;
+- c) a Magyarország helyi önkormányzatairól szóló törvény szerinti szervektől az általuk nyújtott szociális ellátások vonatkozásában;
+- d) az adóhatóságtól;
+- e) a munkaügyi hatóságtól;
+- f) az állami foglalkoztatási szervtől;
+- g) a Foglalkoztatási és Közfoglalkoztatási Adatbázisból;
+- h) a megváltozott munkaképességű személyek ellátásaival kapcsolatos nyilvántartásból;
+- i) a nyugdíj-biztosítási és egészségbiztosítási nyilvántartásból;
+- j) az egységes szociális nyilvántartásból;
+- k) az e törvényben meghatározott szakhatósági eljárásokon túl Magyarország rendvédelmi- és nemzetbiztonsági szerveitől.
 
 86/A. § A menekültügyi hatóság e törvény szerinti eljárása során a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető személyi körözések adatállományban szereplő, az e törvény alapján kezelhető adatok körébe tartozó személyes adatokat átveheti és kezelheti.
 
@@ -1782,10 +1827,11 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - j) a munkaügyi hatóság,
 - k) a munkavédelmi hatóság,
 - l) az egészségügyi államigazgatási szerv,
-- m) az anyakönyvezést végző hatóság,
+- m) az anyakönyvvezető és az anyakönyvi szerv,
 - n) a gyámhatóság, és
 - o) a jogszabály, illetve szerződés alapján támogatást folyósító szervek,
 - p) a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendeletben meghatározott Felelős Hatóság a Menekültügyi, Migrációs és Integrációs Alap által finanszírozott intézkedésekben résztvevőkről az Európai Parlament és a Tanács 514/2014/EU Rendelete 25. cikk (1) bekezdés a) pontjában meghatározott egyéni szintű nyomonkövetés, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében,
+- q) a konzuli szolgálat
 
 igényelhetnek adatot.
 
@@ -1855,6 +1901,13 @@ igényelhetnek adatot.
 (5) A menekültügyi hatóság az EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgárra vonatkozóan az Európai Unió tagállamának megkeresése alapján harminc napon belül tájékoztatást ad arról, hogy a külföldi Magyarországon menekült vagy oltalmazott jogállással rendelkezik-e.
 
 (6) A menekültügyi hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 34. § (10) bekezdés szerinti megkeresés végrehajtása céljából a menekültkénti vagy oltalmazottkénti elismerés tényéről haladéktalanul értesíti az idegenrendészeti hatóságot.
+
+(7) A menekültügyi hatóság a (2) bekezdés a)–e) pontja szerinti adatokat
+
+- a) az Európai Unió tagállamainak menekültügyi hatóságai számára,
+- b) az Európai Unió tagállamainak 87. § (1) bekezdés a)–e) pontjai szerinti más hatóságai számára
+
+hatósági eljárás lefolytatása érdekében adhatja át.
 
 ### A Menekültügyi, Migrációs és Integrációs Alappal összefüggő nyilvántartás
 
@@ -1933,6 +1986,8 @@ igényelhetnek adatot.
 
 (2) A menekültügyi hatóság vezetőjének döntése ellen jogorvoslatnak nincs helye.
 
+92/F. § E törvénynek az egyes migrációs tárgyú és kapcsolódó törvények módosításáról szóló 2018. évi CXXXIII. törvénnyel (a továbbiakban: Módtv.5.) megállapított rendelkezéseit – a Módtv.5. 69. § és 74. § rendelkezései kivételével – a hatálybalépést követően indult ügyekben kell alkalmazni.
+
 ### Felhatalmazó rendelkezések
 
 93. § (1) A Kormány felhatalmazást kap arra, hogy rendeletben
@@ -2002,7 +2057,7 @@ az Alaptörvény XIV. cikk (5) bekezdése alapján sarkalatosnak minősül.
 - i) a Tanács 2003/9/EK irányelve (2003. január 27.) a menedékkérők befogadása minimumszabályainak megállapításáról 2. cikk d)–e), h)–j) pontjai, 3–5. cikk, 7–8. cikk, 10–11. cikk, 13–22. cikk, e törvény végrehajtási rendeleteivel együttesen;
 - j)
 - k) a Tanács 2005/85/EK irányelve (2005. december 1.) a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól 3. cikk, 6–12. cikk, 15–28. cikk, 32. cikk, 34. cikk (3) bekezdés a) pont, 35. cikk, 37–39. cikk, e törvény végrehajtási rendeleteivel együttesen;
-- l) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet [22. §, 83. §];
+- l) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló a Tanács 2002. június 13-i 1030/2002/EK rendelet, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet [22. §, 83. §];
 - m) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv;
 - n) az a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvező személyekre történő kiterjesztése tekintetében a fenti irányelv módosításáról szóló, 2011. május 11-i 2011/51/EU európai parlamenti és tanácsi irányelv [89. § (5) és (6) bekezdés];
 - o) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv;

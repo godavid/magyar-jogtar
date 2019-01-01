@@ -193,7 +193,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 23. § (1) A mintaoltalom bitorlását követi el, aki az oltalom alatt álló mintát jogosulatlanul hasznosítja.
 
-(2) A mintaoltalom jogosultja a bitorlóval szemben azokat a polgári jogi igényeket támaszthatja, amelyeket a szabadalmi törvény értelmében a szabadalmas érvényesíthet a bitorlóval szemben. A mintaoltalom bitorlása esetén a jogosult – külön jogszabály rendelkezései szerint – követelheti a vámhatóság intézkedését a bitorlással érintett vámáruk forgalomba kerülésének megakadályozására.
+(2) A mintaoltalom jogosultja a bitorlóval szemben azokat a polgári jogi igényeket támaszthatja, amelyeket a szabadalmi törvény értelmében a szabadalmas érvényesíthet a bitorlóval szemben. A mintaoltalom bitorlása esetén a jogosult – a szellemi tulajdonjogokat sértő áruk elleni vámhatósági intézkedésekről szóló jogszabályok rendelkezései szerint – követelheti a vámhatóság intézkedését a bitorlással érintett vámáruk forgalomba kerülésének megakadályozására.
 
 (3) A mintaoltalom bitorlása esetén a licenciaszerződés alapján hasznosító jogaira a szabadalmi törvény rendelkezéseit kell megfelelően alkalmazni.
 
@@ -324,6 +324,8 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (1a) Mintaoltalmi ügyekben eljárás folytatása iránti kérelem előterjesztésének nincs helye.
 
+(1b) Mintaoltalmi ügyekben a szabadalmi törvénynek a kérelem tartalmára, a beadványokkal kapcsolatos eljárásra és az azokkal kapcsolatban alkalmazható jogkövetkezményekre vonatkozó általános rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
+
 (2) Mintaoltalmi ügyekben az igazolás ki van zárva:
 
 - a) az elsőbbségi nyilatkozat előterjesztésére előírt határidő [40. § (2) bek.] elmulasztása esetén;
@@ -381,9 +383,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) A mintaoltalmi bejelentésnek tartalmaznia kell a bejelentési kérelmet, a minta ábrázolását, a minta szerinti termék megnevezését, valamint – a szükséghez képest – egyéb mellékleteket.
 
-(3) A mintaoltalmi bejelentést a külön jogszabályban meghatározott részletes alaki követelményeknek megfelelően kell elkészíteni.
+(3) A szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl a bejelentési kérelemnek tartalmaznia kell a szerző nevét és lakcímét, vagy utalást arra, hogy a szerző nevének és lakcímének a mintaoltalmi iratokon való feltüntetése mellőzését kéri, és hogy a szerző a nevét és lakcímét külön lapon adja meg. A mintaoltalmi bejelentést egyebekben a mintaoltalmi bejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes alaki követelményeknek megfelelően kell benyújtani.
 
-(4) A mintaoltalmi bejelentésért külön jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
+(4) A mintaoltalmi bejelentésért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott bejelentési díjat kell fizetni; a díjat a bejelentés napját követő két hónapon belül kell leróni.
 
 (5) A bejelentő a mintaoltalom megadásáig – a 27. § rendelkezéseinek megfelelő alkalmazásával – visszavonhatja a mintaoltalmi bejelentést.
 
@@ -394,7 +396,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 37. § (1) A mintaoltalmi bejelentés napja az a nap, amelyen a Szellemi Tulajdon Nemzeti Hivatalához beérkezett bejelentés legalább a következőket tartalmazza:
 
 - a) utalást a mintaoltalom iránti igényre,
-- b) a bejelentő azonosítására alkalmas és a vele való kapcsolatfelvételt lehetővé tevő adatokat,
+- b) a bejelentő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, képviselet esetén a képviselő nevét, továbbá lakcímét vagy székhelyét vagy biztonságos kézbesítési szolgáltatási címét, vagy a bejelentővel való kapcsolatfelvételt lehetővé tevő más adatot, valamint
 - c) a minta ábrázolását függetlenül attól, hogy az megfelel-e az egyéb követelményeknek.
 
 (2) A bejelentési nap elismeréséhez a minta ábrázolásának benyújtása helyett elsőbbségi iratra is elegendő utalni.
@@ -478,7 +480,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 49. § (1) Aki több mintára igényelt oltalmat egy bejelentésben, a mintaoltalmat megadó határozat meghozataláig megoszthatja bejelentését, a bejelentési nap és – ha van ilyen – a korábbi elsőbbség megtartásával.
 
-(2) A megosztásért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(2) A megosztásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (3) Ha a kérelem benyújtásakor nem fizették meg a megosztási díjat, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a (2) bekezdésben meghatározott határidőben történő hiánypótlásra. Ennek elmaradása esetén a megosztási kérelmet visszavontnak kell tekinteni.
 
@@ -496,11 +498,11 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 51. § (1) A mintaoltalom megújítását [19. § (2) bek.] a mintaoltalom jogosultja kérheti a Szellemi Tulajdon Nemzeti Hivatalától. A több mintára adott oltalom megújítását a minták egy része tekintetében is lehet kérni (részleges megújítás).
 
-(2) A megújítási kérelemben meg kell jelölni a megújítani kívánt mintaoltalom lajstromszámát, valamint – részleges megújítás esetén – az érintett mintákat.
+(2) A szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl a megújítási kérelemben meg kell jelölni a megújítani kívánt mintaoltalom lajstromszámát, valamint – részleges megújítás esetén – az érintett mintákat.
 
 (3) A mintaoltalom megújítását legkorábban az oltalmi idő lejárta előtt hat hónappal, legkésőbb a lejárat napjától számított hat hónapon belül lehet kérni.
 
-(4) A megújítási kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő két hónapon belül.
+(4) A megújítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő két hónapon belül.
 
 51/A. §
 
@@ -522,7 +524,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (3) A megosztás iránti kérelemben meg kell jelölni az eredeti mintaoltalom lajstromszámát; a kérelemre és mellékleteire egyebekben a mintaoltalmi bejelentés kellékeire vonatkozó rendelkezéseket [36. § (2)–(3) bek. ] kell megfelelően alkalmazni.
 
-(4) A mintaoltalom megosztásáért külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A mintaoltalom megosztásáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 55. § (1) Ha a mintaoltalom megosztására irányuló kérelem nem felel meg az 54. § (1)–(3) bekezdéseiben előírt követelményeknek, a kérelmezőt hiánypótlásra kell felhívni.
 
@@ -542,9 +544,9 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 (2) A 9–10. §-ok alapján csak a korábbi akadályozó jog jogosultja, a 28. § (1) bekezdésének d) pontja alapján pedig csak az kérheti a mintaoltalom megsemmisítését, akit az a törvény szerint megilletne.
 
-(3) A megsemmisítési kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak és – szolgálati mintára adott mintaoltalom esetén – ahány szerzője van a mintának. A kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A megsemmisítési kérelmet elektronikus kapcsolattartás esetén egy példányban, egyéb esetben eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak és – szolgálati mintára adott mintaoltalom esetén – ahány szerzője van a mintának. A szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
 
-(4) A megsemmisítési kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A megsemmisítési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (5) Ha a megsemmisítési kérelem nem felel meg a törvényben előírt feltételeknek, a kérelmezőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a megsemmisítési kérelmet visszavontnak kell tekinteni.
 
@@ -568,7 +570,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 58/A. § (1) A megsemmisítési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a mintaoltalom bitorlása miatt pert indítottak vagy a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják.
 
-(2) A gyorsított eljárás iránti kérelemért külön jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
+(2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
 
 (3) Ha a kérelem nem felel meg az (1) bekezdésben meghatározott követelményeknek, a gyorsított eljárást kérő felet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A gyorsított eljárás iránti kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a törvényben meghatározott követelményeket. A gyorsított eljárás iránti kérelmet visszavontnak kell tekinteni, ha az azt előterjesztő fél a felhívásra a kitűzött határidőben nem válaszol.
 
@@ -584,11 +586,11 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### A nemleges megállapítási eljárás
 
-59. § (1) A nemleges megállapításra irányuló kérelmet eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak. A kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék, valamint a megjelölt mintaoltalom mintájának ábrázolását. A hasznosított vagy hasznosítani kívánt terméket a megjelölt mintaoltalom mintájának a mintaoltalmi lajstromban szereplő ábrázolásával megegyező egy vagy több nézetben kell bemutatni.
+59. § (1) A nemleges megállapításra irányuló kérelmet elektronikus kapcsolattartás esetén egy példányban, egyéb esetben eggyel több példányban kell benyújtani a Szellemi Tulajdon Nemzeti Hivatalához, mint ahány jogosultja van a mintaoltalomnak. A kérelemnek tartalmaznia kell a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott adatokat és ahhoz mellékelni kell a hasznosított vagy hasznosítani kívánt termék, valamint a megjelölt mintaoltalom mintájának ábrázolását. A hasznosított vagy hasznosítani kívánt terméket a megjelölt mintaoltalom mintájának a mintaoltalmi lajstromban szereplő ábrázolásával megegyező egy vagy több nézetben kell bemutatni.
 
 (2) A nemleges megállapításra irányuló kérelmet csak egy mintaoltalom és egy hasznosított vagy hasznosítani kívánt termék tekintetében lehet benyújtani.
 
-(3) A nemleges megállapítási kérelemre külön jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(3) A nemleges megállapítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (4) Ha a nemleges megállapítási kérelem nem felel meg a törvényben előírt feltételeknek, a kérelmezőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a nemleges megállapítási kérelmet visszavontnak kell tekinteni.
 
@@ -614,7 +616,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 ### A közösségi mintaoltalmi bejelentés továbbítása
 
-60/B. § (1) A Szellemi Tulajdon Nemzeti Hivatalánál benyújtott közösségi mintaoltalmi bejelentésnek a közösségi mintaoltalmi rendelet 35. cikkének (2) bekezdése alapján történő továbbításáért külön jogszabályban meghatározott díjat kell fizetni a bejelentés benyújtásakor.
+60/B. § (1) A Szellemi Tulajdon Nemzeti Hivatalánál benyújtott közösségi mintaoltalmi bejelentésnek a közösségi mintaoltalmi rendelet 35. cikkének (2) bekezdése alapján történő továbbításáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a bejelentés benyújtásakor.
 
 (2) Ha a közösségi mintaoltalmi bejelentés továbbításának díját nem fizették meg, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a hiánypótlásra. A Szellemi Tulajdon Nemzeti Hivatala a közösségi mintaoltalmi bejelentést a díj megfizetését követően továbbítja.
 
@@ -650,7 +652,7 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 
 60/J. § (1) A Szellemi Tulajdon Nemzeti Hivatala azokkal a nemzetközi ipari mintaoltalmi bejelentésekkel kapcsolatban jár el a Megállapodás szerinti továbbítás érdekében, amelyekben a bejelentő szerződő államaként Magyarországot tüntették fel.
 
-(2) A nemzetközi ipari mintaoltalmi bejelentés továbbításáért a Szellemi Tulajdon Nemzeti Hivatalához külön jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi ipari mintaoltalmi bejelentéssel kapcsolatban a Megállapodásban meghatározott díjat kell fizetni a Megállapodásban előírt határidőn belül és az ott megszabott módon.
+(2) A nemzetközi ipari mintaoltalmi bejelentés továbbításáért a Szellemi Tulajdon Nemzeti Hivatalához az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott továbbítási díjat, valamint a nemzetközi ipari mintaoltalmi bejelentéssel kapcsolatban a Megállapodásban meghatározott díjat kell fizetni a Megállapodásban előírt határidőn belül és az ott megszabott módon.
 
 ### A Magyarországot megjelölő nemzetközi ipari mintaoltalmi bejelentések
 
@@ -714,8 +716,8 @@ A magyar nemzetgazdaság versenyképességének javítása, a hazai formatervez�
 (11) A megváltoztatási kérelem bevezető részében fel kell tüntetni:
 
 - a) az eljáró bíróság megnevezését,
-- b) a kérelmező azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
-- c) a kérelmező jogi képviselőjének nevét, székhelyét, telefonszámát, elektronikus levélcímét, több képviselő esetén a hivatalos iratok átvételére kijelölt képviselő nevét.
+- b) a kérelmezőnek a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott azonosító adatait, illetve amennyiben van ellenérdekű fél, annak az ismert azonosító adatait, és
+- c) a kérelmező jogi képviselőjének a szabadalmi törvénynek a kérelem tartalmára vonatkozó általános rendelkezéseiben meghatározott azonosító adatait és biztonságos kézbesítési szolgáltatási címét.
 
 (11a) A megváltoztatási kérelem érdemi részében fel kell tüntetni:
 

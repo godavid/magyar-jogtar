@@ -109,13 +109,19 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 
 (4) A (3) bekezdés szerinti nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(5)–(6)
+(5)
+
+(6)
 
 5/B. § A szabad vízen, valamint a szabad vizek jegén való tartózkodás, az azokon tartott rendezvény, munkavégzés engedélyezésének, bejelentésének eljárási szabályait, valamint a viharjelzéssel kapcsolatos szabályokat kormányrendelet állapítja meg.
 
 ### III. Fejezet — A tulajdonra és a tulajdon működtetésére vonatkozó rendelkezések
 
-6. § (1)–(3)
+6. § (1)
+
+(2)
+
+(3)
 
 (4) Az ingatlan tulajdonosának a tulajdonában vannak:
 
@@ -199,7 +205,8 @@ adottságok.
 
 - a) a 3. számú melléklet szerinti csatornák közül azoknak a működtetése, amelyek nem alkalmasak egyidejűleg mezőgazdasági, ipari és ivóvíz-ellátási, továbbá hajózási célra;
 - b) a víziközmű-társulatok által végzett közműlétesítés vagy -fejlesztés;
-- c)–d)
+- c)
+- d)
 - e)
 
 10. § (1) A kizárólagos állami tulajdonban, illetve önkormányzati törzsvagyonban lévő közcélú vízilétesítmények működtetését végző gazdálkodó szervezetnek a létesítmény közművagyonát az állam nevében a vízgazdálkodásért felelős miniszter, az önkormányzat nevében a képviselő-testület adja szerződéssel használatba.
@@ -250,7 +257,7 @@ adottságok.
 
 - a) a 20/B. § (1)–(4) bekezdését azzal, hogy „magasabb vezető” és „vezető” alatt az e törvény szerinti vezetői munkakört;
 - b) a 22–22/A. §-t azzal, hogy az „E”–„H” fizetési osztályba sorolt közalkalmazott alatt a felsőfokú iskolai végzettséget igénylő munkakört betöltő közalkalmazottat;
-- c) a 22. § (16) bekezdését azzal, hogy a „nem megfelelt” helyett elfogadhatatlant;
+- c) a 22. § (16) bekezdését azzal, hogy a „nem megfelelt” helyett elfogadhatatlant, a „minősítés” helyett teljesítményértékelést;
 - d) a 23/B. § (8) bekezdését azzal, hogy a „vezetői megbízású közalkalmazott” alatt az e törvény szerinti vezetői munkakört;
 - e) a 41. § (2) bekezdését azzal, hogy „magasabb vezető” és „vezető” alatt az e törvény szerinti vezetői munkakört;
 - f) a 82. § bekezdésében a „magasabb vezető” alatt az e törvény szerinti vezetői munkakört
@@ -597,9 +604,9 @@ alapján kell kiszámítania.
 
 (1c) A közüzemi szolgáltató köteles nyilatkozni az üzemi fogyasztó részére lekötött és ténylegesen szolgáltatott vízmennyiségről a tárgyévet követő hónap 15. napjáig az e célra szolgáló adatlapon.
 
-(2) A vízkészletjárulék-fizetés bizonylatait a vízügyi hatóság ellenőrzi. Ha a fizetésre kötelezett a bejelentkezési, a nyilatkozattételi, a nyilvántartási, illetve a vízkészletjárulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon vízügyi hatóságot kell érteni. Az adózás rendjéről szóló törvény alkalmazásakor a vízügyi hatóság eljárása adóigazgatási eljárásnak minősül.
+(2) A vízkészletjárulék-fizetés bizonylatait a vízügyi hatóság ellenőrzi. Ha a fizetésre kötelezett a bejelentkezési, a nyilatkozattételi, a nyilvántartási, illetve a vízkészletjárulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon vízügyi hatóságot kell érteni. Az adózás rendjéről szóló törvény, valamint az adóigazgatási rendtartásról szóló törvény alkalmazásakor a vízügyi hatóság eljárása adóigazgatási eljárásnak minősül.
 
-(3) Az adózás rendjéről szóló 2003. évi XCII. törvény 165. §-a (3) bekezdése első fordulatában a pótlékfizetés kezdő napjának eltérő megállapítására a 171. § (1) bekezdésében, továbbá a 134. §-ban meghatározott, a fizetési kötelezettség mérséklésére, elengedésére vonatkozó szabályokat a vízügyi hatóság nem alkalmazhatja.
+(3) Az adózás rendjéről szóló törvény szerinti, a késedelmi pótlék mérséklése szabályai között a pótlékfizetés kezdő napjának eltérő megállapítására, az adóbírság mérséklésére, kiszabásának mellőzésére, valamint az adómérséklésre vonatkozó szabályokat a vízügyi hatóság nem alkalmazhatja a vízkészletjárulék-fizetési kötelezettség vízhasználó általi teljesítése során.
 
 ### Mezőgazdasági vízszolgáltatási díj
 
@@ -820,7 +827,7 @@ alapján kell kiszámítania.
 - b) a 28/D. § (1) bekezdés b) pontját,
 - c) a 28/D. § (4) és (5) bekezdését,
 - d) a 28/E. §-t,
-- e) a 31. §-t,
+- e) a 31. § (1) bekezdését,
 - f) a 31/A. §-t.
 
 28/A. § (1) A jogszabály alapján bejelentéshez kötött tevékenységektől eltekintve, vízjogi engedély szükséges
@@ -914,10 +921,10 @@ indokolja.
 
 31. § (1) A vízügyi hatóság által lefolytatott egyes közigazgatási eljárásokért (ideértve a szakhatósági eljárásokat, az igazgatási jellegű szolgáltatásokat, továbbá a bejelentéseket) igazgatási szolgáltatási díjat kell fizetni.
 
-(2) Mentes a díjfizetési kötelezettség alól
+(2) Mentes az illeték- és díjfizetési kötelezettség alól
 
 - a) az öntözési berendezések vagy az öntözőtelepek engedélyezési eljárása, ha arra a vízhasználat engedélyezése keretében kerül sor;
-- b) a vízkivételt biztosító vízilétesítmények engedélyezési eljárása a 29. § (7) bekezdés b) pontjában meghatározott időpontig.
+- b) a felszín alatti vízkivételt biztosító vízilétesítmények engedélyezési eljárása.
 
 31/A. § A vízügyi igazgatási szerveknek – a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott tevékenységek esetében – nem kell igazgatási szolgáltatási díjat fizetniük.
 
@@ -935,35 +942,47 @@ indokolja.
 
 ### VIII/A. Fejezet — ADATKEZELÉS
 
-33/B. § (1) A vízügyi hatóság a hatósági engedélyezési eljárások végleges lezárását követően a vízikönyv vezetése, a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a jogerős döntésével összefüggő jogorvoslat, az ügykövetés, valamint a döntés-felülvizsgálat céljából a következő adatokat kezelheti:
+33/B. § (1) A vízügyi hatóság a hatósági engedélyezési eljárások végleges lezárását követően a vízikönyv vezetése, a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a végleges döntésével összefüggő jogorvoslat, az ügykövetés, valamint a döntés-felülvizsgálat céljából a következő adatokat kezeli:
 
-- a) az ügyfél neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- b)
-- c) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- d) a természetes személy ügyfél természetes személy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- e) a vízimunkával, a vízilétesítménnyel és a vízhasználattal érintett ingatlan tulajdonosának természetes személyazonosító adatai,
-- f) a vízimunkára, a vízilétesítményekre és a vízhasználatokra vonatkozó, az e-vízikönyvben rögzített műszaki alapadatok, valamint
-- g) a vízjogi engedélyben meghatározott tevékenység gyakorlásához kapcsolódó jogok és jogilag jelentős tények.
+- a) az ügyfél természetes személyazonosító adatai,
+- b) az ügyfél lakcíme, értesítési címe, elektronikus levélcíme, telefonszámai,
+- c) a nem természetes személy ügyfél cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének ideje, tevékenységi körei, székhelyének címe, elektronikus levélcíme, telefonszáma,
+- d) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
+- e) a természetes személy ügyfél természetes személy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
+- f) a vízimunkával, a vízilétesítménnyel és a vízhasználattal érintett ingatlan tulajdonosának természetes személyazonosító adatai,
+- g) a vízimunkára, a vízilétesítményekre és a vízhasználatokra vonatkozó, az e-vízikönyvben rögzített műszaki alapadatok, valamint
+- h) a vízjogi engedélyben meghatározott tevékenység gyakorlásához kapcsolódó jogok és jogilag jelentős tények.
 
 (2) A vízügyi hatóság országos illetékességgel jogosult a vízkészletjárulékkal kapcsolatos feladatellátás érdekében a következő adatok megismerésére és kezelésére:
 
-- a) az ügyfél neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- b) az ügyfél adóazonosító jele vagy adószáma,
-- c) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- d) a természetes személy ügyfél természetes személy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- e) a vízhasználatokra vonatkozó vízmennyiségi és műszaki alapadatok.
+- a) az ügyfél természetes személyazonosító adatai,
+- b) az ügyfél lakcíme, értesítési címe, elektronikus levélcíme, telefonszámai,
+- c) az ügyfél adóazonosító jele vagy adószáma, közösségi adószáma,
+- d) az ügyfél számlaszáma, IBAN száma,
+- e) a nem természetes személy ügyfél cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének ideje, tevékenységi körei, székhelyének címe, elektronikus levélcíme, telefonszáma,
+- f) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszámai,
+- g) a természetes személy ügyfél természetes személy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
+- h) a vízhasználatokra vonatkozó vízmennyiségi és műszaki alapadatok.
 
-(3) Az (1) és (2) bekezdés alapján kezelt adat – ha jogszabály eltérően nem rendelkezik – más szerv vagy személy részére nem továbbítható, az a vízjogi engedélyek érvényességét követő 6. év végéig kezelhető.
+(3) Az (1) bekezdés a)–f) pont és a (2) bekezdés a)–g) pont szerinti személyes adat – jogszabály eltérő rendelkezése hiányában – más szerv vagy személy részére nem továbbítható és a vízjogi engedélyek érvényességét követő hatodik év végéig kezelhető.
 
-33/C. § (1) A vízügyi igazgatási szerv a vízgazdálkodási adatgyűjtésekhez és a vízgazdálkodási objektumok azonosításához a következő adatok megismerésére és kezelésére jogosult:
+(4) Az (1) bekezdés g) és h) pont, valamint a (2) bekezdés h) pont szerinti, személyes adatnak nem minősülő adat korlátlan ideig kezelhető és nem törölhető.
 
-- a) ügyfél neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- b) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- c) természetes személy ügyfél természetes személy meghatalmazottjának neve, lakcíme, elektronikus levélcíme, telefonszáma,
-- d) a vízimunkával, a vízilétesítménnyel és a vízhasználattal érintett ingatlan tulajdonosának természetes személyazonosító adatai,
-- e) a vízimunkára, a vízilétesítményekre és a vízhasználatokra vonatkozó, az engedélyes dokumentációban és az e-vízikönyvben rögzített műszaki alapadatok.
+33/C. § (1) A vízügyi igazgatási szerv a vízgazdálkodási adatgyűjtésekhez, az állami tulajdon kezeléséhez és a vízgazdálkodási objektumok azonosításához a következő adatok megismerésére és kezelésére jogosult:
 
-(2) Az (1) bekezdés alapján kezelt adat – ha jogszabály eltérően nem rendelkezik – más szerv vagy személy részére nem továbbítható, az a vízjogi engedélyek érvényességét követő 6 év végéig kezelhető.
+- a) az ügyfél természetes személyazonosító adatai,
+- b) az ügyfél lakcíme, értesítési címe, elektronikus levélcíme, telefonszámai,
+- c) a nem természetes személy ügyfél cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének ideje, tevékenységi körei, székhelyének címe, elektronikus levélcíme, telefonszáma,
+- d) a nem természetes személy ügyfél természetes személy képviselőjének vagy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
+- e) a természetes személy ügyfél természetes személy meghatalmazottjának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
+- f) a vízimunkával, a vízilétesítménnyel és a vízhasználattal érintett ingatlan tulajdonosának természetes személyazonosító adatai,
+- g) a vízimunkára, a vízilétesítményekre és a vízhasználatokra vonatkozó, az engedélyes dokumentációban és az e-vízikönyvben rögzített műszaki alapadatok.
+
+(2) Az (1) bekezdés a)–f) pontja szerinti személyes adat – jogszabály eltérő rendelkezése hiányában – más szerv vagy személy részére nem továbbítható és a vízjogi engedélyek érvényességét követő hatodik év végéig kezelhető.
+
+(3) Az (1) bekezdés g) pontja szerinti, személyes adatnak nem minősülő adat korlátlan ideig kezelhető és nem törölhető.
+
+(4) A földmérési és térinformatikai államigazgatási szerv által – a Kormány által biztosított azonosítási szolgáltatáson keresztül – a vízjogi engedély iránti kérelem benyújtásához szükséges tervezési munkákhoz elektronikus dokumentumként vagy elektronikusan feldolgozható formában a vízimérnöki tervezői jogosultsággal rendelkező és a vízjogi engedély iránti kérelemmel érintett tulajdonos vagy vagyonkezelő által megbízott tervező számára átadott, tulajdonosi adatokkal kiegészített földkönyv adattartalmát (ideértve a személyes adatokat is) a tervező jogosult a vízjogi engedélyről szóló hatósági döntés véglegessé válásának időpontjáig kezelni. A tervező a részére átadott földkönyv személyes adatokra vonatkozó tartalmát – jogszabály eltérő rendelkezése hiányában – más szerv vagy személy részére nem továbbíthatja.
 
 ### IX. Fejezet — A vízgazdálkodási társulatok
 
@@ -1106,6 +1125,8 @@ indokolja.
 
 (2) A hozzájárulás mértékét a taggyűlés állapítja meg. A taggyűlés az alapszabályban meghatározott feltételek szerint a hozzájárulás mértékét mérsékelheti, illetve megfizetését meghatározott időre felfüggesztheti. A hozzájárulást a tagok pénzben kötelesek teljesíteni. A taggyűlés által elfogadott hozzájárulás a közfeladatok teljesítésével nyújtott szolgáltatás ellenértéke.
 
+(3) A tagok be nem fizetett hozzájárulását az ingatlan fekvése szerint illetékes jegyző hajtja be.
+
 ### A víziközmű társulat megszűnése
 
 44/A. § (1) A víziközmű társulat jogutód nélkül megszűnik, ha
@@ -1225,7 +1246,9 @@ indokolja.
 
 45. § (1) Ez a törvény 1996. január 1. napján lép hatályba.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) Vízvezetési szolgalom megállapításával kapcsolatban indult és e törvény hatálybalépésekor még folyamatban lévő ügyekben — ha a vízügyi hatóság már meghozta az elsőfokú határozatot — az 1964. évi IV. törvény 34. §-át kell alkalmazni.
 
@@ -1303,7 +1326,12 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 
 rendeletben történő megállapítására.
 
-(8a) Felhatalmazást kap a vízügyi igazgatási szervek irányításáért felelős miniszter a folyók nagyvízi medrére vonatkozó kezelési tervek rendeletben történő megállapítására.
+(8a) Felhatalmazást kap a vízügyi igazgatási szervek irányításáért felelős miniszter
+
+- a) a folyók nagyvízi medrére vonatkozó kezelési tervek,
+- b) az ár- és belvíz által veszélyeztetett területek lehatárolásának, a települések ár- és belvíz veszélyeztetettségi alapon történő besorolásának, valamint a besorolás felülvizsgálata szabályainak
+
+rendeletben történő megállapítására.
 
 (9) A vízgazdálkodással, valamint a vizek védelmével összefüggő érdekek érvényesítését a Magyarország két- vagy többoldalú nemzetközi együttműködési, tájékoztatási, segítségnyújtási megállapodásokkal is elősegíti, különösen a szomszédos országokkal való kapcsolatában. Nemzetközi szerződés hiányában is figyelemmel kell lenni más államok — különösen a szomszédos országok — vízgazdálkodással összefüggő érdekeire.
 

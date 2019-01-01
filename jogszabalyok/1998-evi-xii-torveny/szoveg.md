@@ -397,7 +397,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 - b) az adatkezelő szervtől a 24. § (1) bekezdése alapján kezelt adatokból, kivéve a 24. § (1) bekezdés g) pontjában meghatározott adatokat, valamint
-- c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, valamint a menekültügyi hatóságtól.
+- c) közvetlenül vagy az adatkezelő szerv útján a bűnügyi nyilvántartásból, a rendőrség központi személy-, tárgy- és gépjármű-körözési nyilvántartó rendszeréből és a büntetés-végrehajtás központi nyilvántartásából, az állampolgársági ügyekben eljáró szervtől és a menekültügyi hatóságtól.
 
 (1a) Az útlevélhatóság a kérelmező anyakönyvi adatainak beszerzése érdekében elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel jogosult adatokat átvenni az elektronikus anyakönyvből.
 

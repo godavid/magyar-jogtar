@@ -19,7 +19,7 @@ a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogáll�
 
 (3) E törvénynek az ügyész ügyészségi szolgálati viszonyára vonatkozó rendelkezéseit az alügyészre és az ügyészségi fogalmazóra a XIV. Fejezetben foglalt eltérésekkel, a tisztviselőre, az írnokra és a fizikai alkalmazottra pedig abban az esetben kell alkalmazni, ha e törvény kifejezetten így rendelkezik.
 
-(4) A katonai ügyészek mellett ügyészségi alkalmazottként a Magyar Honvédség hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
+(4) A katonai ügyészek, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész mellett ügyészségi alkalmazottként a Magyar Honvédség hivatásos szolgálati viszonyban álló tagjai vezénylés alapján teljesíthetnek szolgálatot.
 
 #### 2. A munkáltatói jogkör gyakorlója
 
@@ -194,7 +194,7 @@ hívja össze.
 
 - a) aki büntetett előéletű,
 - b) aki egyetemi jogi végzettséghez kötött foglalkozástól eltiltás hatálya alatt áll,
-- c) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ítéletben megállapította, amíg a bűnügyi nyilvántartásból nem törlik
+- c) aki büntetlen előéletű, de a bíróság bűncselekmény elkövetése miatt büntetőjogi felelősségét jogerős ügydöntő határozatban megállapította, amíg a bűnügyi nyilvántartásból nem törlik
   - ca) szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított tizenkét évig,
   - cb) szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított tíz évig,
   - cc) szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
@@ -205,7 +205,7 @@ hívja össze.
   - ch) gondatlan bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított három évig,
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
-- f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig,
+- f) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll,
 - g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
@@ -342,7 +342,7 @@ véleményét a pályázóról.
 - e) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó állami vezetővé (a továbbiakban: állami vezető) történő megválasztásával vagy kinevezésével;
 - f) összeférhetetlenségének megállapításával (47. §);
 - g) hivatalvesztése kimondásával;
-- h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
+- h) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 - i) halálával;
 - j) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
@@ -363,7 +363,7 @@ véleményét a pályázóról.
 
 (6) Az (1), a (3) és az (5) bekezdésben említett munkáltatói intézkedést az újonnan megválasztott legfőbb ügyész, ennek hiányában a legfőbb ügyész helyettes teszi meg. A volt legfőbb ügyészt a Legfőbb Ügyészségen vagy kérésére alacsonyabb szintű ügyészségen más – lehetőleg vezető – ügyészi munkakörbe kell áthelyezni. A volt legfőbb ügyészt áthelyezése esetén „címzetes főügyész” cím és a beosztási pótlékon kívül – választása szerint – a legfőbb ügyészségi főosztályvezető ügyész vezetői pótlékával azonos összegű címpótlék vagy az új munkakörére megállapított vezetői pótlék illeti meg. A volt legfőbb ügyész fizetési fokozatba sorolását az áthelyezés nem érinti.
 
-(7) A köztársasági elnök javaslatára az Országgyűlés határozatával kimondja a legfőbb ügyész hivatalvesztését, ha a legfőbb ügyész neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
+(7) A köztársasági elnök javaslatára az Országgyűlés határozatával kimondja a legfőbb ügyész hivatalvesztését, ha a legfőbb ügyész neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ügydöntő határozatban megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
 
 (8) A 22. § (1) bekezdés d) pontjában említett esetben a legfőbb ügyészt hathavi átlagilletményének megfelelő összeg illeti meg.
 
@@ -379,7 +379,7 @@ véleményét a pályázóról.
 - d) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával [48. § (2) bekezdés], továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - e) összeférhetetlenségének megállapításával (47. §);
 - f) hivatalvesztése kimondásával;
-- g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
+- g) a bíróságnak vele szemben bűncselekmény miatt szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 - h) halálával;
 - i) ha a 11. § (1) bekezdésében meghatározott feltételek valamelyike már nem áll fenn.
 
@@ -393,7 +393,7 @@ véleményét a pályázóról.
 
 (6) A (3) és (5) bekezdésben említett munkáltatói intézkedést a legfőbb ügyész teszi meg. A volt legfőbb ügyész helyettest a Legfőbb Ügyészségen vagy kérésére alacsonyabb szintű ügyészségen más – lehetőleg vezető – ügyészi munkakörbe kell áthelyezni. A volt legfőbb ügyész helyettest áthelyezése esetén „címzetes főügyész” cím és a beosztási pótlékon kívül – választása szerint – a legfőbb ügyészségi főosztályvezető-helyettes ügyész vezetői pótlékával azonos összegű címpótlék vagy az új munkakörére megállapított vezetői pótlék illeti meg. A volt legfőbb ügyész helyettes fizetési fokozatba sorolását az áthelyezés nem érinti.
 
-(7) A köztársasági elnök a legfőbb ügyész javaslatára kimondja a legfőbb ügyész helyettes hivatalvesztését, ha a legfőbb ügyész helyettes neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ítéletben megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
+(7) A köztársasági elnök a legfőbb ügyész javaslatára kimondja a legfőbb ügyész helyettes hivatalvesztését, ha a legfőbb ügyész helyettes neki felróható okból nem tesz eleget megbízatásából eredő feladatainak, illetve jogerős ügydöntő határozatban megállapított bűntettet követett el, vagy más módon tisztségére méltatlanná vált.
 
 (8) Az (1) bekezdés c) pontjában említett esetben a legfőbb ügyész helyettest hathavi átlagilletményének megfelelő összeg illeti meg.
 
@@ -508,7 +508,7 @@ véleményét a pályázóról.
 - f) országgyűlési, európai parlamenti, helyi önkormányzati képviselővé, nemzetiségi szószólóvá, illetve polgármesterré történő megválasztásával (48. §), továbbá állami vezetővé történő megválasztásával vagy kinevezésével;
 - g) összeférhetetlenségének megállapításával;
 - h) hivatalvesztés fegyelmi büntetést kiszabó jogerős fegyelmi határozattal;
-- i) a bíróságnak vele szemben szabadságvesztést, közérdekű munkát kiszabó jogerős határozatával, továbbá, ha büntetőeljárás során jogerős határozattal kényszergyógykezelését rendelték el;
+- i) a bíróságnak vele szemben szabadságvesztést, közérdekű munkát kiszabó jogerős ügydöntő határozatával, továbbá, ha büntetőeljárás során jogerős ügydöntő határozattal kényszergyógykezelését rendelték el;
 - j) a 17. § (5) bekezdésében szabályozott esetben;
 - k) a 31. § (4)–(5) bekezdésében szabályozott esetben;
 - l) halálával;
@@ -689,7 +689,7 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 - a) azt kéri, feltéve, hogy az előző minősítése óta két év már eltelt,
 - b) szakmai alkalmatlanságára, vagy az előző minősítés értékelése megváltoztatásának szükségességére utaló körülmény merült fel,
-- c) a soron kívül lefolytatandó eljárásban a nyomozás iratainak ismertetését követően az iratok megvizsgálására a büntetőeljárásról szóló törvényben meghatározottak szerint a felettes ügyész által meghosszabbított határidőt elmulasztja.
+- c)
 
 (3) A (2) bekezdés b) és c) pontjában meghatározott esetben a soron kívüli minősítés elrendelését az ügyésszel írásban közölni kell.
 
@@ -824,7 +824,7 @@ köteles foglalkoztatni. Ezt követően az ügyész munkaidejét a kérelem beny
 
 (2) A tisztségéhez fűződő, e törvényben nem szabályozott egyéb jogosultságok tekintetében a legfőbb ügyész a Kúria elnökével, a legfőbb ügyész helyettes a Kúria elnökhelyettesével, a főosztályvezető ügyész a Kúria kollégiumvezetőjével azonos beosztásúnak minősül.
 
-(3) A legfőbb ügyész – hivatalos és magánprogramokra kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyi védelemre jogosult.
+(3) A legfőbb ügyész – hivatalos és magánprogramokra kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.
 
 59. § (1) Az ügyész az e törvényben meghatározott feltételek fennállása esetén
 
@@ -1097,11 +1097,16 @@ A fenti adatokban bekövetkezett változásokról az ügyész haladéktalanul k�
 
 (4) Az ügyész a szóban elhangzott figyelmeztetés írásba foglalását igényelheti, amellyel szemben a (3) bekezdésben foglaltak szerint van helye jogorvoslatnak.
 
-(5) A fegyelmi eljárást le kell folytatni, ha az ügyésszel szemben szándékos bűncselekmény miatt büntetőeljárás – ide nem értve a magánvádló feljelentése vagy a pótmagánvádló vádindítványa alapján indult eljárást – indult.
+(5) A fegyelmi eljárást le kell folytatni, ha az ügyésszel szemben szándékos bűncselekmény miatt büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – indult.
 
 83. § (1) Nem indítható fegyelmi eljárás, ha a fegyelmi vétség felfedezése óta három hónap vagy annak elkövetése óta három év eltelt. A fegyelmi vétség akkor tekinthető felfedezettnek, amikor arról, illetve az elkövetésével alaposan gyanúsítható személyéről a fegyelmi jogkör gyakorlója vagy annak szolgálati felettese tudomást szerzett.
 
-(2) Ha az ügyész fegyelmi vétséget megvalósító magatartása miatt büntetőeljárás, illetve szabálysértési eljárás indult, és az az ügyész felelősségét megállapító határozattal fejeződött be, a jogerős határozatnak a munkáltatóval való közlésétől számított három hónapon túl, illetve ha az eljárás az (1) bekezdésben említett hároméves határidőn túl fejeződik be, akkor az eljárás jogerős befejezésétől számított egy éven túl nincs helye fegyelmi felelősségre vonásnak.
+(2) Ha az ügyész fegyelmi vétséget megvalósító magatartása miatt büntetőeljárás vagy szabálysértési eljárás indult,
+
+- a) szabálysértési eljárásban a felelősséget megállapító vagy eljárást megszüntető jogerős határozat, büntetőeljárásban a bíróság jogerős ügydöntő határozata vagy véglegessé vált eljárást megszüntető határozata, valamint a nyomozás során hozott, további jogorvoslattal nem támadható eljárást megszüntető határozat munkáltatóval való közlésétől számított három hónapon túl, vagy
+- b) ha az eljárás az (1) bekezdés szerinti hároméves időtartamon túl fejeződik be, akkor az a) pont szerinti határozat meghozatalától számított egy éven túl
+
+nincs helye fegyelmi felelősségre vonásnak.
 
 84. § (1) Az ügyésszel szemben kiszabható fegyelmi büntetések:
 
@@ -1139,7 +1144,7 @@ A fenti adatokban bekövetkezett változásokról az ügyész haladéktalanul k�
 
 (4) A fegyelmi eljárást folytatni kell, ha a felfüggesztés oka megszűnt. A felfüggesztés tartama a fegyelmi eljárás lefolytatására nyitva álló határidőbe nem számít be.
 
-87. § (1) A fegyelmi eljárás alá vont ügyészt a fegyelmi jogkör gyakorlója az állásából felfüggeszti, ha az ügyészt előzetes letartóztatásba vagy házi őrizetbe helyezték, illetve vele szemben lakhelyelhagyási tilalmat vagy ideiglenes kényszergyógykezelést rendeltek el. A felfüggesztést a legfőbb ügyész akkor is elrendelheti, ha az ügyész büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – hatálya alatt áll, továbbá ha az ügyész jelenléte a tényállás tisztázását gátolná, vagy a fegyelmi vétség súlya és jellege a szolgálati helyétől való távoltartását indokolja. A felfüggesztésről hozott határozat ellen az eljárás alá vont ügyész és képviselője a határozat közlésétől számított nyolc napon belül a fegyelmi határozatra vonatkozó szabályok szerint jogorvoslattal élhet, amelynek nincs halasztó hatálya.
+87. § (1) A fegyelmi eljárás alá vont ügyészt a fegyelmi jogkör gyakorlója az állásából felfüggeszti, ha az ügyészt letartóztatták, vele szemben olyan bűnügyi felügyeletet rendeltek el, amelynek során a bíróság előírta számára, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, vagy előzetes kényszergyógykezelését rendelték el. A felfüggesztést a legfőbb ügyész akkor is elrendelheti, ha az ügyész büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll, továbbá ha az ügyész jelenléte a tényállás tisztázását gátolná, vagy a fegyelmi vétség súlya és jellege a szolgálati helyétől való távoltartását indokolja. A felfüggesztésről hozott határozat ellen az eljárás alá vont ügyész és képviselője a határozat közlésétől számított nyolc napon belül a fegyelmi határozatra vonatkozó szabályok szerint jogorvoslattal élhet, amelynek nincs halasztó hatálya.
 
 (2) Az állásból történő felfüggesztést meg kell szüntetni, ha annak indoka már nem áll fenn.
 
@@ -1149,9 +1154,11 @@ A fenti adatokban bekövetkezett változásokról az ügyész haladéktalanul k�
 
 (5) A visszatartott munkabért a fegyelmi határozat jogerőre emelkedése után ki kell fizetni, kivéve ha a fegyelmi eljárás hivatalvesztés büntetés kiszabásával zárult, vagy az ügyész ügyészségi szolgálati viszonya a 34. § (1) bekezdés i) pontja alapján szűnt meg. Ugyanígy kell eljárni, ha az ügyész ügyészségi szolgálati viszonya időközben megszűnt. Ha pedig az ügyész munkabére a fegyelmi büntetés következtében csökkent, a visszatartott összeget az új munkabér alapulvételével kell kifizetni.
 
-88. § (1) A fegyelmi jogkör gyakorlója köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében meghallgatja az eljárás alá vont ügyészt, tanúkat hallgathat meg, szakértő közreműködését veheti igénybe, s egyéb bizonyítást végezhet.
+88. § (1) A fegyelmi jogkör gyakorlója a fegyelmi vétség kivizsgálásával fegyelmi biztost bíz meg. Fegyelmi biztos nem lehet az eljárás alá vont ügyész irányítása, illetve felügyelete alá tartozó ügyészségi alkalmazott. Ha e feltételnek megfelelő fegyelmi biztos nem jelölhető ki, a fegyelmi biztost másik fegyelmi jogkört gyakorló irányítása, illetve felügyelete alá tartozó, a fegyelmi eljárás alá vont ügyésznél magasabb beosztású ügyészségi alkalmazottak közül a legfőbb ügyész jelöli ki.
 
-(2) A fegyelmi jogkör gyakorlója a fegyelmi vétség kivizsgálásával fegyelmi biztost bízhat meg. Ilyen esetben is köteles azonban az eljárás alá vont ügyészt meghallgatni. Fegyelmi biztos nem lehet az eljárás alá vont ügyész irányítása (felügyelete) alá tartozó ügyészségi alkalmazott.
+(2) A fegyelmi biztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében meghallgatja az eljárás alá vont ügyészt, tanúkat hallgathat meg, szakértő közreműködését veheti igénybe, és egyéb bizonyítást végezhet.
+
+(3) A fegyelmi jogkör gyakorlója az eljárás alá vont ügyészt az érdemi döntés meghozatala előtt meghallgatja.
 
 89. § Az eljárás alá vont ügyész képviseletével a fegyelmi jogkör gyakorlójánál alacsonyabb munkakört betöltő ügyészt vagy ügyvédet bízhat meg. Az ügyész kérelmére a fegyelmi eljárás során az ügyészségen működő munkavállalói érdekképviseleti szerv részvételét, illetve képviseleti jogának gyakorlását biztosítani kell.
 
@@ -1182,7 +1189,7 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 93. § (1) A fegyelmi jogkör gyakorlója határozatával a fegyelmi eljárás alá vont ügyészt a fegyelmi vétségben vétkesnek mondja ki, és büntetést szab ki, vagy a 82. § (3) bekezdése alapján a fegyelmi büntetés kiszabásától eltekint, és figyelmeztetést alkalmaz. Meg kell szüntetnie a fegyelmi eljárást, ha az eljárás alá vont ügyész ügyészségi szolgálati viszonya a határozat közlése előtt megszűnt, továbbá ha megállapítást nyert, hogy az eljárás alá vont ügyész a terhére rótt fegyelmi vétséget nem követte el, vagy annak elkövetése nem bizonyítható, illetve az elévült.
 
-(2) Ha a fegyelmi eljárás tárgyává tett kötelességszegés miatt a büntetőbíróság jogerős határozatával már megállapította az ügyész felelősségét, a fegyelmi jogkör gyakorlója nem állapíthatja meg, hogy az eljárás alá vont ügyész nem követte el a terhére rótt fegyelmi vétséget.
+(2) Ha a fegyelmi eljárás tárgyává tett kötelességszegés miatt a büntetőbíróság jogerős ügydöntő határozatával már megállapította az ügyész felelősségét, a fegyelmi jogkör gyakorlója nem állapíthatja meg, hogy az eljárás alá vont ügyész nem követte el a terhére rótt fegyelmi vétséget.
 
 (3) A hivatalvesztés fegyelmi büntetés esetén az ügyész állásából való felfüggesztését fenn kell tartani, vagy el kell rendelni. Más fegyelmi büntetés kiszabása esetén a felfüggesztést meg kell szüntetni.
 
@@ -1412,7 +1419,9 @@ megfelelő beosztási pótlék illeti meg.
 
 (5) A címmel az illetményalap tizenöt százalékának megfelelő összegű címpótlék jár havonta.
 
-(6)–(7)
+(6)
+
+(7)
 
 #### 118. §
 

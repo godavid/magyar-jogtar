@@ -75,9 +75,9 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (2) Az (1) bekezdésben meghatározott mentesség kiterjed a közhatalmat gyakorló személy vagy közszereplő politikus sérelmére elkövetett becsületsértésre, valamint – ha az Alkotmánybíróság tagjának nem volt tudomása arról, hogy a közlés a lényegét tekintve valótlan – rágalmazásra.
 
-(3) Az Alkotmánybíróság tagját csak tettenérés esetén lehet őrizetbe venni, és ellene csak az Alkotmánybíróság előzetes hozzájárulásával lehet büntetőeljárást, valamint szabálysértési eljárást indítani vagy folytatni, továbbá büntető eljárásjogi kényszerintézkedést alkalmazni.
+(3) Az Alkotmánybíróság tagjának őrizetét csak tettenérés esetén lehet elrendelni, és ellene csak az Alkotmánybíróság előzetes hozzájárulásával lehet büntetőeljárást, valamint szabálysértési eljárást indítani vagy folytatni, továbbá büntető eljárásjogi kényszerintézkedést alkalmazni.
 
-(4) A mentelmi jog felfüggesztésére irányuló indítványt a vádirat benyújtásáig a legfőbb ügyész, azt követően, illetve magánvádas ügyben a bíróság terjeszti elő az elnökhöz. Az indítványt az Alkotmánybíróság tagjának tettenérése esetén haladéktalanul elő kell terjeszteni. Szabálysértési ügyben a mentelmi jog felfüggesztésére irányuló indítványt – a szabálysértési hatóság megkeresése alapján – a legfőbb ügyész terjeszti elő az elnökhöz.
+(4) A mentelmi jog felfüggesztésére irányuló indítványt a vádemelés előtt a legfőbb ügyész, a vádemelés után, illetve magánvádas vagy pótmagánvádas eljárásban a bíróság terjeszti elő az elnökhöz. Az indítványt az Alkotmánybíróság tagjának tettenérése esetén haladéktalanul elő kell terjeszteni. Szabálysértési ügyben a mentelmi jog felfüggesztésére irányuló indítványt – a szabálysértési hatóság megkeresése alapján – a legfőbb ügyész terjeszti elő az elnökhöz.
 
 (5) A mentelmi jog felfüggesztése tárgyában hozott döntés csak arra az ügyre vonatkozik, amelyre az indítványt előterjesztették.
 
@@ -120,7 +120,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (5) Ki kell zárni az Alkotmánybíróság tagjai közül azt, aki
 
-- a) jogerős ítéletben megállapított, közvádra üldözendő szándékos bűncselekményt követ el,
+- a) jogerős ügydöntő határozatban megállapított, közvádra üldözendő szándékos bűncselekményt követ el,
 - b) neki felróható okból egy évig nem vesz részt az Alkotmánybíróság munkájában, vagy
 - c) a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közöl.
 
@@ -154,7 +154,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 19. § (1) Az elnök díjazásának az összege megegyezik a köztisztviselői illetményalap harminckilencszeresével.
 
-(2) Az elnök – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyi védelemre jogosult.
+(2) Az elnök – hivatalos és magánprogramokra is kiterjedően – a védett személyek és a kijelölt létesítmények védelméről szóló jogszabályban foglaltak szerint személyvédelemre jogosult.
 
 (3) Az elnök rezidencia használatára jogosult.
 
@@ -215,6 +215,10 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 (5) Az elnök az Alkotmánybíróság Hivatalában foglalkoztatott köztisztviselőkre nézve a közszolgálati jogviszony létesítését a köztisztviselők jogállásáról szóló törvényben foglaltakon túlmenően meghatározott iskolai végzettséghez, képesítéshez, illetve gyakorlati időhöz kötheti.
 
 (6) Az Alkotmánybíróság Hivatalának szervezetére és működésére vonatkozó szabályokat az Alkotmánybíróság Szervezeti és Működési Szabályzata állapítja meg.
+
+#### 5/A. Az Alkotmánybíróság által alapított ösztöndíj
+
+22/A. § Az Alkotmánybíróság a jogász szakma képviselőinek neves külföldi intézményekben, alkotmánybíróságokon és bíróságokon szerzett munkatapasztalatának, illetve kutatási tapasztalatának elősegítése, az Alkotmánybíróság joggyakorlatához köthető, színvonalas tudományos publikációk megszületése, az Alkotmánybíróság külföldi szakmai kapcsolatainak erősítése, szakmai munkájának támogatása, valamint gyakorlatának hazai és nemzetközi tudományos körökben való megismertetése érdekében ösztöndíjat alapíthat. Az ösztöndíjprogram fedezete az Alkotmánybíróság költségvetésében elkülönítetten szerepel.
 
 ### II. Fejezet — AZ ALKOTMÁNYBÍRÓSÁG FELADAT- ÉS HATÁSKÖRÉBE TARTOZÓ ELJÁRÁSOK ÉS JOGKÖVETKEZMÉNYEK
 
@@ -405,7 +409,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (5) A jogszabály megsemmisítése nem érinti a megsemmisített jogszabályon alapuló, Alkotmánybíróság előtti eljárásban nem felülvizsgálható, vagy felül nem vizsgált bírói döntéseket, kivéve, ha az Alkotmánybíróság a megsemmisítésről szóló határozatában ettől eltérően rendelkezik.
 
-(6) Az Alkotmánybíróság az alaptörvény-ellenes jogszabály alkalmazása alapján jogerős határozattal befejezett büntetőeljárás és szabálysértési eljárás felülvizsgálatát rendeli el, ha az eljárásban alkalmazott jogszabály vagy jogszabályi rendelkezés semmisségéből a büntetés, illetve az intézkedés csökkentése vagy mellőzése, valamint a büntetőjogi, illetve a szabálysértési felelősség alóli mentesülés vagy annak korlátozása következne.
+(6) Az Alkotmánybíróság az alaptörvény-ellenes jogszabály alkalmazása alapján a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatával befejezett büntetőeljárás és a jogerős határozattal befejezett szabálysértési eljárás felülvizsgálatát rendeli el, ha az eljárásban alkalmazott jogszabály vagy jogszabályi rendelkezés semmisségéből a büntetés, illetve az intézkedés csökkentése vagy mellőzése, valamint a büntetőjogi, illetve a szabálysértési felelősség alóli mentesülés vagy annak korlátozása következne.
 
 (7) A (6) bekezdésben meghatározott felülvizsgálat során a büntetőeljárásról, illetve a szabálysértésekről szóló törvény szabályait kell alkalmazni.
 
@@ -481,7 +485,9 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 51. § (1) Az Alkotmánybíróság az Alaptörvény, valamint e törvény szerint arra jogosult indítványa alapján jár el.
 
-(2)–(3)
+(2)
+
+(3)
 
 52. § (1) Az indítványnak határozott kérelmet kell tartalmaznia.
 

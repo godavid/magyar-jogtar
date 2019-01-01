@@ -9,7 +9,7 @@ A társadalmi közös kiadások fedezete, valamint a biztosításokkal összefü
 1. § E törvény alkalmazásában:
 
 - 1. biztosító: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) szerinti biztosító;
-- 2. biztosítási szolgáltatás: a casco biztosítás, a vagyon- és balesetbiztosítás nyújtása;
+- 2. biztosítási szolgáltatás: a casco biztosítás, a vagyon- és balesetbiztosítás, a kötelező gépjármű-felelősségbiztosítás;
 - 3. kötelező gépjármű-felelősségbiztosítás: a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (Kgfb. tv.) szerinti biztosítás;
 - 4. casco biztosítás: a Bit. 1. melléklete A) részének 3–6. pontja szerinti biztosítási ágazatok;
 - 5. betegségbiztosítás: a Bit. 1. melléklete A) részének 2. pontja szerinti biztosítási ágazat;
@@ -32,9 +32,10 @@ A társadalmi közös kiadások fedezete, valamint a biztosításokkal összefü
 5. § (1) Az adó mértéke
 
 - a) casco biztosítási szolgáltatás nyújtása esetén az adóalap 15%-a,
-- b) vagyon- és balesetbiztosítási szolgáltatás nyújtása esetén az adóalap 10%-a.
+- b) vagyon- és balesetbiztosítási szolgáltatás nyújtása esetén az adóalap 10%-a,
+- c) kötelező gépjármű-felelősségbiztosítási szolgáltatás nyújtása esetén az adóalap 23%-a, de a biztosító kockázatviselésével érintett időtartam naptári napjaira naponta legfeljebb 83 forint/gépjármű.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően azon adóalany esetében, amelynek az adóelszámolás hónapját közvetlenül megelőző naptári évben az összesített adóalapja – ha az adóelszámolás hónapja 2013-ra esik, akkor a 2012. évben az összes biztosítási díja – a 8 milliárd forintot nem érte el, az adó mértéke az adóelszámolás hónapja – (1) bekezdés a) és b) pontjában említett adóköteles biztosítási szolgáltatás utáni – adóalapjának
+(2) Az (1) bekezdésben foglaltaktól eltérően azon adóalany esetében, amelynek az adóelszámolás hónapját közvetlenül megelőző naptári évben az (1) bekezdés a) és b) pontjában említett adóköteles biztosítási szolgáltatás utáni összesített adóalapja a 8 milliárd forintot nem érte el, az adó mértéke az adóelszámolás hónapja – (1) bekezdés a) és b) pontjában említett adóköteles biztosítási szolgáltatás utáni – adóalapjának
 
 – 100 millió forintot meg nem haladó része után az (1) bekezdés szerinti – az adóköteles biztosítási szolgáltatásra irányadó – adómérték 25%-a,
 

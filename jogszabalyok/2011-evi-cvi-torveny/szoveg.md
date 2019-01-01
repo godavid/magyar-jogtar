@@ -14,11 +14,13 @@ Az Országgyűlés az értékteremtő közfoglalkoztatás jogi kereteinek megter
 - d) a helyi vagy azon túlmutató közösségi – így különösen – egészségmegőrzési, szociális, nevelési, oktatási, kulturális, kulturális örökség megóvása, építészeti örökség védelmével összefüggő, természet-, környezet- és állatvédelemi, gyermek- és ifjúságvédelemi, a munkaviszonyban és a polgári jogi jogviszony keretében megbízás alapján folytatott sporttevékenység kivételével sport, közrend és közlekedésbiztonsági, ár- és belvízvédelemi célú, közforgalom számára megnyitott út, híd, alagút fejlesztéséhez, fenntartásához és üzemeltetéséhez kapcsolódó szükségletek kielégítését szolgáló feladat vagy
 - e) a Kormány által meghatározott közösségi célok megvalósítását elősegítő feladat
 
-ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közalkalmazotti, közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyt.
+ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, és annak ellátására törvény nem ír elő közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyt.
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
 (2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerő-piaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 15 nap időtartamú munkaerő-piaci szolgáltatásban, valamint a mentális, szociális, egészségügyi problémákkal küzdő álláskereső naptári évenként legfeljebb 15 nap időtartamú egészségügyi és szociális szolgáltatásban vesz részt.
+
+(2c) A hatósági szerződés megszűnése esetén a közfoglalkoztatási jogviszony megszűnik.
 
 (3) Közfoglalkoztató lehet:
 

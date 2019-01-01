@@ -45,7 +45,7 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 
 (3) Az (1) és (2) bekezdésben meghatározott pénzügyi tranzakciós illetékfizetési kötelezettséget nem befolyásolja, hogy a fizető fél pénzforgalmi szolgáltatója a fizetési műveletet a fizető fél fizetési számlájának egyenlege vagy a részére biztosított hitelkeret terhére teljesíti.
 
-(4) Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget
+(4) Az (1) és (2) bekezdéstől eltérően nem keletkeztet pénzügyi tranzakciós illetékfizetési kötelezettséget:
 
 - a) az (5) bekezdésben foglaltak kivételével az ugyanazon pénzforgalmi szolgáltató által eltérő számlák között végrehajtott fizetési művelet, ha a fizető fél és a kedvezményezett személye megegyezik (ideértve többek között, ha a fizetési műveletre a magánszemély egyéni vállalkozói és magánszemélykénti számlája között kerül sor), vagy ha a terhelendő és a jóváírandó számla tulajdonosainak köre legalább részben azonos,
 - b) az ügyfélszámlán vagy a befektetési szolgáltatással kapcsolatban egyéb számlán végrehajtott fizetési művelet, ideértve a fizetési számla és az ügyfélszámla között végrehajtott fizetési műveletet abban az esetben, ha 1. a befektetési szolgáltatást a pénzforgalmi szolgáltató – az adózás rendjéről szóló törvény szerint meghatározott – kapcsolt vállalkozásának minősülő befektetési vállalkozás nyújtja, vagy 2. a pénzforgalmi szolgáltató és a befektetési szolgáltatást nyújtó fél ugyanazon, a Hpt. szerinti önkéntes intézményvédelmi alap, vagy a Hpt. szerinti kötelező intézményvédelmi szervezet tagja, feltéve mindkét esetben, hogy a fizető fél, valamint a kedvezményezett személye megegyezik,
@@ -63,7 +63,9 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - n) a kincstár által, a köznevelési, a szociális, gyermekjóléti és gyermekvédelmi humánszolgáltatások után nem állami intézmény fenntartójának biztosított hozzájárulás, a támogató szolgáltatás, a közösségi ellátások, a jelzőrendszeres házi segítségnyújtás, a fejlesztő foglalkoztatás, az utcai szociális munka és a krízisközpontok támogatásának folyósítására vezetett lebonyolítási számlán megvalósuló fizetési művelet,
 - o) a kincstár által az önkormányzatok forgótőke kezelésére, nettófinanszírozás lebonyolítására vezetett számlán megvalósuló fizetési művelet,
 - p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya – ide nem értve a Magyar Honvédséget – részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet,
-- q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás.
+- q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás,
+- r) a természetes személyek kincstárnál vezetett, állampapír-forgalmazás érdekében igénybe vett ügyfélszámlája és más számlavezetőnél vezetett fizetési számlája között lebonyolított fizetési művelet,
+- s) az elektronikus fizetési és elszámolási rendszer önkormányzati ASP-rendszer keretében biztosított szolgáltatásaihoz kapcsolódó elszámolási számla terhére megvalósított fizetési művelet.
 
 (5) A (4) bekezdés b)–l) pontjában foglalt kincstári műveletek kivételével pénzügyi tranzakciós illetékfizetési kötelezettséget keletkeztet a kincstári számlavezetés körében
 
@@ -97,14 +99,15 @@ köteles teljesíteni.
 
 6. § (1) A pénzügyi tranzakciós illeték alapja
 
-- a) a b)–h) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját – a fizető fél saját vagy a kedvezményezett megbízása alapján – megterheli,
+- a) a b)–j) pont szerinti kivétellel az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját – a fizető fél saját vagy a kedvezményezett megbízása alapján – megterheli,
 - b) készpénzátutalás esetén az átutalási megbízásban szereplő pénzösszeg,
-- c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a kedvezményezett pénzforgalmi szolgáltatójának átutalt, ennek hiányában a kedvezményezett részére fizetett összeg,
+- c) a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetés esetén a kedvezményezett pénzforgalmi szolgáltatójának átutalt, ennek hiányában a kedvezményezett részére megfizetett összeg,
 - d) kölcsöntörlesztés esetén az az összeg, amellyel a pénzforgalmi szolgáltató az ügyfél fizetési számláját megterheli, illetve amelyet az ügyfél a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménynek készpénzben megfizet,
 - e) készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén a kifizetett összeg,
 - f) a pénzváltási tevékenység végzésre jogosult hitelintézet, valamint pénzváltás közvetítésére jogosult kiemelt közvetítő útján történő pénzváltási tevékenységnél az eladott fizetőeszköz összege,
 - g) jutalék- és díjbevételek esetén az az összeg, amellyel a pénzforgalmi szolgáltató a fizető fél fizetési számláját megterheli, illetve amelyet a készpénz-helyettesítő fizetési eszközre tekintettel felszámít,
-- h) a fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a fizető fél ugyanazon készpénz-helyettesítő fizetési eszközzel lebonyolított előző naptári évi fizetési műveletei.
+- h) a fizető fél által a kedvezményezett útján kezdeményezett fizetés esetén a fizető fél ugyanazon készpénz-helyettesítő fizetési eszközzel lebonyolított előző naptári évi fizetési műveletei,
+- i) magánszemély fizetési számlájáról (kivéve a magánszemély egyéni vállalkozói számlájáról) történő átutalás esetén átutalásonként a 20 ezer forintot meghaladó összeg.
 
 (2) Külföldi pénznemre szóló fizetési megbízás, kölcsöntörlesztés, jutalék és díjbevétel felszámítás és pénzváltási tevékenység esetén az (1) bekezdés szerinti összeget a teljesítési napon érvényes, az MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
 
@@ -119,7 +122,7 @@ köteles teljesíteni.
 7. § (1) A pénzügyi tranzakciós illeték mértéke
 
 - a) az e)–f) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint,
-- b) a d) és g) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény vagy a kincstár kötelezett,
+- b) a d) és a g) pont szerinti kivétellel a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény vagy a kincstár kötelezett,
 - c) a pénzügyi tranzakciós illeték alapjának 0,6 százaléka a fizetési számláról történő készpénzkifizetés, illetve a készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén,
 - d) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint az állampapír forgalmazásával kapcsolatos fizetési műveletek esetében, ha az illetékfizetésre a kincstár kötelezett,
 - e) a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén – az f) pont szerinti kivétellel – 800 forint,

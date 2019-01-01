@@ -167,7 +167,7 @@ közigazgatási területére terjed ki.
 
 9. § (1) Az Országos Polgárőr Szövetség közigazgatási hatósági feladatként
 
-- a)
+- a) kiadja a polgárőr tevékenység végzésére jogosító igazolványt (a továbbiakban: polgárőr igazolvány), amely igazgatási szolgáltatási díjmentes,
 - b) nyilvántartást vezet a kiadott polgárőr igazolványokról és ifjú polgárőr igazolványokról, a kiadásuk alapjául szolgáló, a 10. § (3) bekezdésében és a 9/A. § (1) bekezdésében meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, a polgárőr szolgálat ellátására jogosultakról, a polgárőr igazolvány és az ifjú polgárőr igazolvány visszavonásáról, bevonásáról,
 - c) dönt a szolgálati és etikai szabályokat megszegő polgárőrökkel szemben benyújtott panaszról,
 - d) az országos baleset-megelőzési bizottság tagjaként közvetlenül is részt vesz a baleset-megelőzésben.
@@ -237,7 +237,7 @@ személy lehet, aki nyilatkozatával önként vállalja a polgárőri szolgálat
 
 #### 6. A polgárőr igazolvány, továbbá az ifjú polgárőr igazolvány kibocsátása és a nyilvántartás
 
-11. § (1) A polgárőr a 3. § (1) és (2) bekezdésében meghatározott alap- és kiegészítő feladatokat kizárólag polgárőr igazolvány birtokában láthatja el. A polgárőr és az ifjú polgárőr igazolvány formátumát a rendészetért felelős miniszter rendeletben állapítja meg.
+11. § (1) A polgárőr a 3. § (1) és (2) bekezdésében meghatározott alap- és kiegészítő feladatokat kizárólag polgárőr igazolvány birtokában láthatja el. Az Országos Polgárőr Szövetség a polgárőr és az ifjú polgárőr igazolványt az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti kártyakibocsátóként adja ki. Az Országos Polgárőr Szövetség által kibocsátott polgárőr igazolvány és ifjú polgárőr igazolvány a szervezethez való tartozás közhiteles igazolására szolgáló okmány, amely megfelel a törvény felhatalmazása alapján kiadott, jogszabályban meghatározott műszaki, technológiai és biztonsági előírásoknak. A polgárőr és az ifjú polgárőr igazolvány formátumát a rendészetért felelős miniszter rendeletben állapítja meg.
 
 (2) A polgárőr igazolvány, illetve az ifjú polgárőr igazolvány kiadását a polgárőr egyesületbe történő belépését követően a polgárőr egyesület az Országos Polgárőr Szövetségtől kérelmezi a tagja számára. A kérelemhez mellékelni kell a tag által önkéntesen rendelkezésre bocsátott természetes személyazonosító adatokat, a lakcímét igazoló hatósági igazolvány másolatát, továbbá a 10. § (3) bekezdés b) és c) pontjában meghatározott feltételek megállapításához szükséges, a polgárőr által a Polgári Törvénykönyv szerint tett jognyilatkozatot, illetve a 9/A. § (1) bekezdés b) pontjában meghatározott feltétel megállapításához szükséges, az ifjú polgárőr által a Polgári Törvénykönyv szerint tett jognyilatkozatot.
 
@@ -296,6 +296,23 @@ személy lehet, aki nyilatkozatával önként vállalja a polgárőri szolgálat
 (3a) Az Országos Polgárőr Szövetség az ifjú polgárőr igazolványt 8 napon belül bevonja a szabálysértési eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig, ha az ifjú polgárőrrel szemben szabálysértési vagy büntetőeljárás indult és az ifjú polgárőr igazolvány bevonását az eljáró hatóság előzetesen indokoltnak tartotta.
 
 (4) A polgárőr, illetve az ifjú polgárőr köteles a polgárőr egyesületnek haladéktalanul jelezni, ha vele szemben szabálysértési vagy büntetőeljárás indult. A polgárőr egyesület e tényről haladéktalanul tájékoztatja az Országos Polgárőr Szövetséget, amely beszerzi a szabálysértési eljárásban az eljáró hatóság vagy bíróság, illetve büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság nyilatkozatát arra vonatkozóan, hogy a szabálysértési eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig indokoltnak tartja-e a polgárőr, illetve az ifjú polgárőr igazolványának bevonását.
+
+(4a) A polgárőr szervezetnél nem lehet vezető tisztségviselő,
+
+- a) aki büntetőeljárás hatálya alatt áll, vagy
+- b) akivel szemben a (4b) bekezdésben meghatározott mentesítés időtartama még nem telt el.
+
+(4b) Az a büntetett előéletű személy, akivel szemben
+
+- a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
+  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
+  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+- b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltáig,
+- c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett
+  - ca) szabadságvesztést szabtak ki, a mentesítés beálltától számított négy évig,
+  - cb) pénzbüntetést szabtak ki, a mentesítés beálltától számított egy évig
+
+nem lehet polgárőr szervezetnél vezető tisztségviselő.
 
 (5) Az Országos Polgárőr Szövetség a honlapján közzéteszi az érvényes, a bevont és a visszavont polgárőr igazolványok, illetve az ifjú polgárőr igazolványok egyedi azonosítóját, valamint a polgárőr egyesület működési területének megjelölését, amelynek tagja a polgárőr igazolvány, illetve az ifjú polgárőr igazolvány birtokosa.
 

@@ -66,7 +66,7 @@ a megfelelőségértékelő szervezetek tevékenységéről
 
 (2) A kijelölés iránti kérelemnek tartalmaznia kell a kérelmező szervezet törvényes képviselője, a kijelölő hatósággal való kapcsolattartásra megjelölt személy, és – ha az utóbbitól különbözik – a Bizottság és az EGT-államok felé megadandó kapcsolattartó személy családi és utónevét, elérhetőségeit (hivatali címe, telefonszáma, telefaxszáma és elektronikus levélcíme), továbbá a kérelmező szervezet a tevékenység végzéséhez szükséges szakmai képesítés követelményét teljesítő munkavállalója, illetve a kérelmező szervezettel munkavégzésre irányuló egyéb jogviszonyban álló személy családi és utónevét.
 
-(3) A kijelölés iránti kérelemben a kérelmező szervezet alkalmasságát és felkészültségét – az e törvény végrehajtására kiadott miniszteri rendeletben meghatározottak szerint –
+(3) A kijelölés iránti kérelemben a kérelmező szervezet alkalmasságát és felkészültségét – az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint –
 
 - a) a 765/2008/EK rendelet 2. cikk 11. pontja szerinti nemzeti akkreditáló testületnek a kérelmező szervezet a 3. § (2) bekezdésében meghatározott követelményeknek való megfelelését igazoló akkreditált státusz odaítéléséről szóló határozata, vagy
 - b) a Kormány rendeletében meghatározott dokumentumok csatolásával kell igazolni.
@@ -77,7 +77,7 @@ a megfelelőségértékelő szervezetek tevékenységéről
 
 ### Az engedély időbeli hatálya
 
-7. § Az engedély az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott időre szól, a 6. § (3) bekezdés a) pontja szerinti esetben azonban az engedély hatálya legfeljebb az akkreditált státusz lejártáig terjedhet.
+7. § Az engedély az e törvény végrehajtására kiadott kormányrendeletben meghatározott időre szól, a 6. § (3) bekezdés a) pontja szerinti esetben azonban az engedély hatálya legfeljebb az akkreditált státusz lejártáig terjedhet.
 
 ### A kijelölt szervezetek nyilvántartása
 
@@ -91,7 +91,7 @@ a megfelelőségértékelő szervezetek tevékenységéről
 
 ### A kijelölt szervezetek jelentéstételi kötelezettsége
 
-9. § A kijelölt szervezet a megfelelőségértékelési tevékenységéről évente jelentést készít a kijelölő hatóság részére. A jelentés tartalmi követelményeit, benyújtásának idejét és módját az e törvény végrehajtására kiadott miniszteri rendelet határozza meg.
+9. § A kijelölt szervezet a megfelelőségértékelési tevékenységéről évente jelentést készít a kijelölő hatóság részére. A jelentés tartalmi követelményeit, benyújtásának idejét és módját az e törvény végrehajtására kiadott kormányrendelet határozza meg.
 
 ### Egyes megfelelőségértékelési eljárásoknak a gyártó akkreditált szervezeti egységével történő elvégeztetése
 
@@ -115,16 +115,21 @@ a megfelelőségértékelő szervezetek tevékenységéről
 - b) a kijelölt szervezetek tevékenysége végzésének alapvető szabályait,
 - c) a megfelelőségértékelési tevékenység elvégzésére irányuló szerződésre vonatkozó rendelkezéseket,
 - d) a megfelelőségértékelési tevékenységet engedélyező kijelölő hatóságokat,
-- e) a kijelölési eljárás általános szabályait,
-- f) a kijelölt szervezetek kijelölést követő ellenőrzésének szabályait és az alkalmazandó jogkövetkezményeket rendeletben határozza meg.
+- e) a kijelölési eljárás
+  - ea) általános szabályait, valamint
+  - eb) az adott termékszabályozás sajátosságaival összefüggő különös szabályait, ideértve a kérelmező szervezet alkalmassága és felkészültsége igazolásának módját, valamint az engedély hatályának meghatározását;
+- f) a kijelölt szervezetek kijelölést követő ellenőrzésének
+  - fa) általános szabályait és az alkalmazandó jogkövetkezményeket, valamint
+  - fb) az adott termékszabályozás sajátosságaival összefüggő különös szabályait, ideértve a kijelölt szervezetek éves jelentésének az adott termékszabályozás sajátosságaival összefüggően meghatározott benyújtásának idejét és módját
+
+rendeletben határozza meg.
 
 (2) Felhatalmazást kap a termékre vonatkozó forgalmazási követelmény tekintetében szabályozási feladatkörrel rendelkező miniszter vagy önálló szabályozó szerv vezetője, hogy
 
 - a) a kijelölt szervezetekkel szembeni, az adott termékszabályozás sajátosságaival összefüggő különös követelményeket – ideértve a felelősségbiztosítás mértékét, továbbá a szakmai képzettségi és szakmai gyakorlati követelményeket –,
-- b) a kijelölési eljárásnak az adott termékszabályozás sajátosságaival összefüggő különös szabályait – ideértve a kérelmező szervezet alkalmassága és felkészültsége igazolásának módját, valamint az engedély hatályának meghatározását –,
-- c) a kijelölt szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját,
-- d) a kijelölt szervezetek kijelölést követő ellenőrzésének az adott termékszabályozás sajátosságaival összefüggő különös szabályait, valamint
-- e) – az adópolitikáért felelős miniszterrel egyetértésben – a kijelölési eljárásért fizetendő igazgatási szolgáltatási díjak mértékét és a díj megfizetésével, kezelésével, nyilvántartásával. visszatérítésével kapcsolatos szabályokat rendeletben határozza meg.
+- b) – az adópolitikáért felelős miniszterrel egyetértésben – a kijelölési eljárásért fizetendő igazgatási szolgáltatási díjak mértékét és a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat
+
+rendeletben határozza meg.
 
 ### Hatálybalépés és átmeneti rendelkezések
 

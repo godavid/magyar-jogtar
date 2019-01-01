@@ -451,6 +451,8 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 
 19/C. § A nyilvántartást kezelő szerv az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény (a továbbiakban: ÁBTL Tv.) szerinti érintett elhalálozásának időpontjáról adatot szolgáltat az Állambiztonsági Szolgálatok Történeti Levéltára számára az ÁBTL Tv. 4. § (2) bekezdésében és 5. § (2)–(3) bekezdésében meghatározott védelmi idők leteltének megállapíthatósága céljából.
 
+19/D. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 7. § (1) bekezdésében meghatározott szervek a személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosítása céljából természetes személyazonosító adatok, lakcím- és személyazonosító igazolvány okmányazonosítója adat igénylésére jogosultak a nyilvántartó szervtől az adatigénylés indokoltságának igazolása mellett.
+
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
 - a) polgár vagy jogi személyiséggel nem rendelkező szervezet az adatok felhasználásához fűződő jogát vagy jogos érdekét okirattal igazolja;
@@ -483,7 +485,8 @@ jogosult kérni az általa foglalkoztatott polgárnak a 17. § (2) bekezdés f) 
 - u) a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére, a tartózkodási helyre, az értesítési címre vonatkozó adatok kivételével a mezőgazdasági és vidékfejlesztési támogatási szerv az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához;
 - v) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére, a tartózkodási helyre, az értesítési címre vonatkozó adatok kivételével az erdészeti hatóság az erdőgazdálkodói nyilvántartás működtetésével összefüggő feladatai ellátásához;
 - w) – az a)–v) pont eltérő rendelkezése hiányában – a közigazgatási hatóság az általa vezetett közhiteles hatósági nyilvántartás törvényben meghatározott adattartalmának részét képező adatok és a nyilvántartásból való, elhalálozás miatti kikerülés ideje tekintetében;
-- z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől.
+- z) az egyéni vállalkozók nyilvántartását vezető szerv a jogszabályban meghatározott feladatai ellátásához a nyilvántartást kezelő szervtől;
+- zs) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, az értesítésicím-adat és a nyilvántartásból kikerülés helye adatok kivételével az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban szereplő polgárok azonosítása és ellenőrzése céljából.
 
 22. § E törvény felhatalmazása alapján a 17. § (2) bekezdésének c) pontja szerinti adatok igénylésére jogosultak:
 
@@ -1035,6 +1038,8 @@ adatvédelmi felelőst nevez ki.
 (3)
 
 (4) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, a 27/B. § (1) bekezdése és a 27/D. § (2) bekezdése szerinti értesítésért, valamint a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért – ha jogszabály másként nem rendelkezik – igazgatási szolgáltatási díjat kell fizetni.
+
+(5) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért fizetendő igazgatási díj megfizetése alól mentesség illeti meg a helyi önkormányzatot, a költségvetési szervet, a közjegyzőt, valamint az önálló bírósági végrehajtót, továbbá törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott ügyfajtákban az ügyfelet.
 
 ### VIII. Fejezet — Átmeneti rendelkezések
 

@@ -10,13 +10,13 @@ Az Országgyűlés a hitelszerződésből eredő kötelezettségeiknek eleget te
 
 1. § E törvény és az e törvény felhatalmazása alapján kiadott jogszabály alkalmazásában
 
-- a) életjáradékra jogosult: az a természetes személy, aki az életjáradék nyújtójával megkötött, ügyvéd által ellenjegyzett szerződés alapján a tulajdonában álló lakóingatlan tulajdonjogát az életjáradék nyújtójára átruházta, ennek fejében haláláig havi rendszerességgel a szerződésben meghatározott pénzösszegre (a továbbiakban: járadék) jogosult,
-- b) életjáradék nyújtója: életjáradéki szerződés megkötésével üzletszerűen foglalkozó olyan magyarországi székhelyű gazdasági társaság, amelynek tevékenységét a pénzügyi közvetítőrendszer felügyeletét ellátó állami hatóság felügyeli,
+- a)
+- b)
 - c) háztartás: az egy lakóingatlanban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége,
 - d) hiteladós: az a természetes személy, akinek pénzügyi intézménnyel szemben jelzáloghitel-szerződésből eredő lejárt és nem teljesített fizetési kötelezettségéből a mindenkori kötelező legkisebb munkabér havi összegének kétszeresét elérő vagy meghaladó, és 2015. január 1-jén száznyolcvan napot elérő vagy meghaladó késedelmes tartozása áll fenn, ideértve a 2015. január 1-jét megelőzően áthidaló kölcsön nyújtásával finanszírozott jelzáloghitel-szerződésből eredő késedelmes tartozást is ha az áthidaló kölcsönszerződésből eredő tartozás 2015. január 1-jén fennállt,
 - e) hitelező: az a pénzügyi intézmény és pénzügyi intézménynek nem minősülő jogosult, akinek javára a lakóingatlanon jelzálogjogot jegyeztek be az ingatlan-nyilvántartásba,
 - f) jelzáloghitel-szerződés: a hiteladós és a pénzügyi intézmény között létrejött kölcsönszerződés – ideértve az életbiztosítási szerződéssel vagy lakás-előtakarékossági szerződéssel kombinált kölcsönszerződést, továbbá a jogszabályon alapuló állami készfizető kezességvállalással érintett kölcsönszerződéseket is –, amelynek hitelkockázati fedezete Magyarország területén lévő lakóingatlanon alapított jelzálogjog,
-- g) hozzátartozó: a házastárs, élettárs, szülő, gyermek, örökbefogadott, mostoha- és nevelt gyermek, örökbefogadó, mostoha- és nevelőszülő,
+- g)
 - h) lakóingatlan: a lakás céljára létesített és egy vagy több helyrajzi számon nyilvántartott vagy közös tulajdonban álló, de önállóan forgalomképes, műszakilag összetartozó olyan ingatlan, amely az ingatlan-nyilvántartásban
   - ha) lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel és egyéb építményekkel,
   - hb) tanyaként feltüntetett lakó-, gazdasági épület, épületcsoport az azonos helyrajzi szám alatt hozzá tartozó földrészlettel,
@@ -32,7 +32,7 @@ Az Országgyűlés a hitelszerződésből eredő kötelezettségeiknek eleget te
 - n) tartalék ingatlan: a Nemzeti Eszközkezelő vagyonkezelésében lévő
   - na) lakhatásra alkalmas olyan ingatlan, amely nem minősül lakóingatlannak és lakhatási célú ingatlannak,
   - nb) olyan lakóingatlan, amelyre a bérleti jogviszony megszűnt, vagy
-  - nc) olyan lakhatási célú ingatlan, amelyen bérleti jogviszony nem áll fenn és a Kormány által kihirdetett veszélyhelyzetben a károsultak átmeneti ingyenes elhelyezését szolgálja vagy jogszabályban meghatározott más módon hasznosításra kerül.
+  - nc)
 
 ### II. Fejezet — A NEMZETI ESZKÖZKEZELŐ
 
@@ -53,51 +53,27 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 #### 3. A Nemzeti Eszközkezelő feladatai
 
-3. § (1) A Nemzeti Eszközkezelő
-
-- a) a hiteladós által – ha a lakóingatlan nem a hiteladós tulajdonában van, a zálogkötelezettel együttesen – megvételre felajánlott, a hiteladós vagy a zálogkötelezett lakhatását biztosító lakóingatlant az állam nevében és javára megvásárolja,
-- b) az életjáradék nyújtójának tulajdonjogát megszerezve hosszú távon biztosítja, hogy az életjáradékra jogosultnak az életjáradékra való jogosultsága és egyben a lakhatását biztosító lakóingatlan használati joga az életjáradéki szerződés szabályai szerint az életjáradékra jogosult haláláig folyamatosan fennálljon,
-- c) az általa megvásárolt lakóingatlan vonatkozásában eljár az állam tulajdonjogának ingatlan-nyilvántartási bejegyzése érdekében,
-- d) az általa megvásárolt lakóingatlan, a lakhatási célú ingatlan és a tartalék ingatlan (a továbbiakban együtt: ingatlan) felett vagyonkezelői jogot gyakorol,
-- e) a vagyonkezelésében lévő állami vagyont közvetlenül vagy magánjogi szerződés útján hasznosítja,
-- f) a vagyonkezelésében lévő állami vagyonnal kapcsolatos magánjogi jogviszonyokban képviseli az államot,
-- g) az állami feladatok ellátása során az állami vagyont használó természetes személyek részére az állami tulajdon használatához szükséges szolgáltatásokat nyújt.
-
-(2) A Nemzeti Eszközkezelő az (1) bekezdésben meghatározott feladatait az állam teherbíró képességéhez igazodva, a társadalmi szükségletek, a célszerűség és a gazdaságosság szempontjai figyelembevételével, a rendelkezésére álló források erejéig látja el.
+3. §
 
 4. § (1) Ha a Nemzeti Eszközkezelő a 3. § (1) bekezdésben meghatározott feladatai ellátása során közreműködőt vesz igénybe, a közreműködőnek rendelkeznie kell mindazon személyi, tárgyi és biztonsági feltétellel, amely biztosítja a kiszervezett tevékenység maradéktalan és szakszerű ellátását és a személyes adatok védelmét.
 
 (2) A Nemzeti Eszközkezelő a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástörvény) 10. § (1) bekezdésében meghatározott feladatait jogszabályban kijelölt költségvetési szerv, 100%-os állami tulajdonban vagy 100%-os önkormányzati tulajdonban álló gazdasági társaság, vagy ezek 100%-os tulajdonában álló gazdasági társaság kizárólagos jog alapján látja el.
 
-5. § (1) A Nemzeti Eszközkezelő és a pénzügyi intézmény a lakóingatlanok Nemzeti Eszközkezelő általi megvásárlása érdekében történő együttműködésre vonatkozó keretszerződést köt.
-
-(2) A keretszerződés tartalmazza különösen a hiteladós, illetve a zálogkötelezett által e törvény alapján benyújtandó igazolásoknak és nyilatkozatoknak a Nemzeti Eszközkezelő részére történő megküldése módját és a lakóingatlanok megvásárlásának kezdeményezésére szolgáló formanyomtatvány formai és tartalmi követelményeit.
+5. §
 
 #### 4. A Nemzeti Eszközkezelő vagyonkezelésére vonatkozó szabályok
 
-6. § A lakóingatlant a Nemzeti Eszközkezelő abban az állapotban veszi át az eladótól, és adja bérbe, amelyben az az adásvételi szerződés megkötésének időpontjában van.
+6. §
 
 7. § (1) A Nemzeti Eszközkezelőt a vagyonkezelésében lévő állami tulajdonú ingatlanok után vagyonkezelési díjfizetési kötelezettség és visszapótlási kötelezettség nem terheli. A Nemzeti Eszközkezelő a vagyonkezelésében lévő eszközök számviteli jogszabályok szerinti értékcsökkenését a költségek és ráfordítások helyett a vagyonkezelt eszközökkel kapcsolatos hosszúlejáratú kötelezettségekkel szemben számolja el.
 
-(2) A Nemzeti Eszközkezelő a vagyonkezelés során
-
-- a) az állami vagyont elsődlegesen bérleti szerződés alapján bérbeadással hasznosítja,
-- b) kezdeményezheti a vagyonkezelésében lévő lakóingatlan ingyenes önkormányzati tulajdonba adását,
-- c)
+(2)
 
 (3) A Nemzeti Eszközkezelő a lakóingatlant az e törvényben foglalt szabályok szerint az állam nevében eljárva a hiteladós és a zálogkötelezett részére – visszavásárlási joguk gyakorlása során – elidegenítheti.
 
-(3a) A Nemzeti Eszközkezelő a megüresedett lakóingatlant (e bekezdés alkalmazásában a továbbiakban: Ingatlan) a vagyonkezelési szerződés módosítása mellett – további hasznosítás vagy értékesítés érdekében – az MNV Zrt. részére átadhatja. Az Ingatlan MNV Zrt.-nek történő átadása esetében a vagyonkezelési szerződés e bekezdés szerinti módosítása miatti részleges megszűnésével az Ingatlan tekintetében a Nemzeti Eszközkezelő 3. § (1) bekezdés d) pontja szerinti törvényi kijelölésen alapuló vagyonkezelői joga is megszűnik.
+(3a)
 
-7/A. § (1) A lakóingatlan ingyenes önkormányzati tulajdonba adását az MNV Zrt. abban az esetben kezdeményezi az állami vagyon felügyeletéért felelős miniszternél, ha a települési önkormányzat a közigazgatási területén levő, a Nemzeti Eszközkezelő által az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az állam nevében megvásárolt összes lakóingatlant átveszi.
-
-(2) Ha a lakóingatlan fekvése szerinti települési önkormányzat nem veszi át a lakóingatlanokat, a lakóingatlanok (1) bekezdés szerinti tulajdonba adását más települési önkormányzat is kérheti, ha a saját közigazgatási területén él az átvétel lehetőségével.
-
-(3) A lakóingatlanokat átvevő települési önkormányzat a lakóingatlan önkormányzati tulajdonba kerülését követő két éven belül a bérlő számára a Nemzeti Eszközkezelő által kötött bérleti szerződésben meghatározottaknál hátrányosabb feltételeket nem határozhat meg.
-
-(4) A Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlan ingyenes önkormányzati tulajdonba adása esetén a települési önkormányzat az átadott vagyont elsősorban bérleti szerződés alapján, bérbeadással hasznosítja.
-
-(5) Az (1) bekezdés szerinti tulajdonba adás az (1) bekezdésben meghatározott feltétel hiányában akkor is kezdeményezhető, ha a települési önkormányzat az önkormányzati tulajdonba adás kezdeményezésének időpontjáig valamennyi – a közigazgatási területén lévő – olyan lakóingatlan átvételét vállalja, amelyre vonatkozóan az önkormányzati tulajdonba adás kezdeményezésének időpontjáig az e törvény szerint létrejött bérleti jogviszony megszűnt.
+7/A. §
 
 ### III. Fejezet — A LAKÓINGATLAN MEGVÁSÁRLÁSÁNAK SZABÁLYAI
 
@@ -283,36 +259,23 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 #### 12. A lakásbérleti szerződés feltételei
 
-22. § (1) A Nemzeti Eszközkezelő
-
-- a) a hiteladóssal vagy – a 8. § (3) bekezdése szerinti esetben – a zálogkötelezettel az adásvételi szerződés megkötésével egyidejűleg a megvásárolt lakóingatlanra,
-- b) pályázat alapján kiválasztott személlyel vagy személyekkel a lakhatási célú ingatlanra és
-- c) az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelő személlyel vagy személyekkel – jogszabályban meghatározott feltételek mellett – a tartalék ingatlanra
-
-[az a)–c) pont szerinti személy a továbbiakban együtt: bérlő] lakásbérleti szerződést köt.
-
-(1a) Ha a megvásárolt lakóingatlannak több tulajdonosa volt, a Nemzeti Eszközkezelő a lakásbérleti szerződést a lakóingatlan valamennyi, a Nemzeti Eszközkezelő általi megvásárlása időpontjában az ingatlan-nyilvántartásba bejegyzett tulajdonosával mint bérlőtársakkal köti meg.
-
-(1b) Az (1) bekezdés a) és b) pontjában meghatározott esetben kizárólag határozatlan időre szóló bérleti szerződés köthető.
+22. § (1) A Nemzeti Eszközkezelő pályázat alapján kiválasztott személlyel vagy személyekkel a lakhatási célú ingatlanra kizárólag határozatlan időre szóló lakásbérleti szerződést köt.
 
 (2) A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Nemzeti Eszközkezelő részére havi rendszerességgel megfizetni.
 
-(3) A lakhatási célú ingatlanban elhelyezett természetes személlyel az 1. § n) pont nc) alpontja esetében a Nemzeti Eszközkezelő használati megállapodást köt.
-
 23. § A lakásbérleti szerződés létrejöttére, tartalmára és megszűnésére a Lakástörvény szabályait a következő eltérésekkel kell alkalmazni:
 
-- a) a bérlő az ingatlanba a lakásbérleti szerződés létrejöttét követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket, a zálogkötelezettet, illetve a hiteladóst fogadhatja be, a Nemzeti Eszközkezelő előzetes írásbeli hozzájárulásával,
-- b) a lakóingatlanra, illetve a lakhatási célú ingatlanra bérlőtársi jogviszonyt létesíteni – a 22. § (1) és (1a) bekezdésében meghatározott eset kivételével – nem lehet,
+- a) a bérlő az ingatlanba a lakásbérleti szerződés létrejöttét követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket fogadhatja be, a Nemzeti Eszközkezelő előzetes írásbeli hozzájárulásával,
+- b) a lakhatási célú ingatlanra bérlőtársi jogviszonyt létesíteni kizárólag a lakásbérleti szerződés megkötésekor lehet,
 - c) a lakásbérleti szerződés megszűnése után a volt bérlő és az ingatlanban visszamaradó más személyek elhelyezésre nem tarthatnak igényt,
-- d) a bérlő halála esetén a bérlővel annak életében együtt lakó házastársa vagy élettársa, a bérlő, illetve házastársa vagy élettársa családi pótlékra jogosító gyermeke, illetve a bérlővel még életében együtt lakó gyermeke, továbbá a zálogkötelezett, illetve a hiteladós a lakásbérleti jogot folytathatják,
+- d) a bérlő halála esetén a bérlővel annak életében együtt lakó házastársa vagy élettársa, a bérlő, illetve házastársa vagy élettársa családi pótlékra jogosító gyermeke, illetve a bérlővel még életében együtt lakó gyermeke a lakásbérleti jogot folytathatják,
 - e) a Nemzeti Eszközkezelő a lakásbérleti szerződésben kikötheti a bérlő ingatlanban történő életvitelszerű bentlakásának kötelezettségét,
 - f) a lakóingatlannal és a tartalék ingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a bérlőt, a lakhatási célú ingatlanok esetében a Lakástörvény 13. § (1) bekezdésében meghatározott költségek közül a pótlással és a cserével kapcsolatos költségek a bérbeadót terhelik,
-- g) a bérlő szavatol azért, hogy a lakóingatlan a Nemzeti Eszközkezelőnek történő átadásakor rendeltetésszerű használatra alkalmas legyen,
-- h) a bérlőt terhelik az ingatlan használatával kapcsolatos közüzemi költségek, valamint társasházi lakás esetében a közös költség fizetése,
-- i) a bérbeadó jogosult a bérleti szerződést felmondani, ha a bérlő felszólítás ellenére sem fizeti meg a lakbért, az ingatlannal kapcsolatos közüzemi díjakat vagy társasházi lakás esetében a közös költséget,
-- j) a bérbeadó az ingatlan állapotát és rendeltetésszerű használatát évente legalább egy alkalommal ellenőrzi, amit a bérlő tűrni köteles,
-- k) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Nemzeti Eszközkezelő a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen.
-- l) bérlőtársi jogviszony esetén, ha a bérbeadó a bérleti szerződést olyan okból mondja fel, amely felmondási ok valamennyi bérlőtárssal szemben fennáll, a felmondást elég, ha a bérbeadó az egyik bérlőtárssal közli.
+- g) a bérlőt terhelik az ingatlan használatával kapcsolatos közüzemi költségek, valamint társasházi lakás esetében a közös költség fizetése,
+- h) a bérbeadó jogosult a lakásbérleti szerződést felmondani, ha a bérlő felszólítás ellenére sem fizeti meg a lakbért, az ingatlannal kapcsolatos közüzemi díjakat vagy társasházi lakás esetében a közös költséget,
+- i) a bérbeadó az ingatlan állapotát és rendeltetésszerű használatát évente legalább egy alkalommal ellenőrzi, amit a bérlő tűrni köteles,
+- j) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Nemzeti Eszközkezelő a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen.
+- k) bérlőtársi jogviszony esetén, ha a bérbeadó a lakásbérleti szerződést olyan okból mondja fel, amely felmondási ok valamennyi bérlőtárssal szemben fennáll, a felmondást elég, ha a bérbeadó az egyik bérlőtárssal közli.
 
 23/A. § A Nemzeti Eszközkezelő kötelezheti a bérlőt a bérleti szerződésben előre fizetésre alkalmas fogyasztásmérő felszerelésének kérelmezésére a közüzemi szolgáltatótól, abban az esetben, ha törvény alapján a bérlőt ezért külön díjfizetési kötelezettség nem terheli.
 
@@ -324,31 +287,21 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 ### IV/A. Fejezet — AZ ÉLETJÁRADÉK PROGRAM
 
-24/A. § (1) A Nemzeti Eszközkezelő az életjáradék nyújtóját jogosult az állam nevében és javára abban az esetben megvásárolni, ha az életjáradék nyújtója
-
-- a) nem áll végelszámolás alatt, vonatkozásában csődeljárás elrendeléséről szóló bírósági végzést nem tettek közzé vagy ellene felszámolási eljárást jogerősen nem rendeltek el,
-- b) nem áll a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény alapján a bíróság jogerős ítéletében megállapított szankció hatálya alatt és erre irányuló eljárás sem folyik ellene,
-- c) tulajdonjoga az életjáradékra jogosultaktól megvásárolt valamennyi ingatlanra az ingatlan-nyilvántartásban szabályszerűen bejegyzésre került, és
-- d) az életjáradék nyújtójának piaci értékét független, nemzetközileg elismert könyvvizsgáló értékelő meghatározta, és a vételár ezt az értéket nem haladja meg.
-
-(2)
+24/A. §
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 14. Felhatalmazó rendelkezések
 
-25. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+25. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) a szociálisan rászorult személyek körét és a szociális rászorultság igazolásának módját,
-- b) a Nemzeti Eszközkezelő és a bérlő között létrejött lakásbérleti szerződésben a bérlő szociális helyzetére tekintettel érvényesíthető lakbér mértékét,
-- c) a bérleti szerződés bérbeadó általi felmondására vonatkozó részletes, a hiteladós szociális helyzetét is figyelembe vevő feltételeket és szabályokat,
-- d) az e törvény hatálya alá tartozó lakóingatlanok bérlők közötti cseréjéhez való hozzájárulás feltételeit,
-- e) a Nemzeti Eszközkezelő által megvásárolandó lakóingatlanok maximális számát, valamint ezen lakóingatlanok kiválasztásának módját, ha a megvételre felajánlott lakóingatlanok száma a jogszabályban meghatározott maximális havi darabszámot az adott hónapban meghaladja,
-- f) a Nemzeti Eszközkezelő 4. § (2) bekezdésében megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket,
-- g) a lakhatási célú ingatlan bérlői pályázat útján történő kiválasztásának szabályait,
-- h) a tartalék ingatlan hasznosításának, bérbeadásának feltételeit, különös tekintettel a bérlőkiválasztás módjára, a lakbér mértékére, a bérleti szerződés időtartamára, a bérlő kötelezettségeire, valamint a tartalék ingatlan veszélyhelyzetben történő kiválasztásának és használatba adásának szabályait,
-- i) a Nemzeti Eszközkezelő vagyonkezelésében lévő lakóingatlanok elidegenítésére vonatkozó részletes szabályokat,
-- j)
+- a) a Nemzeti Eszközkezelő 4. § (2) bekezdésben megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket,
+- b) a szociálisan rászorult személyek körét és a szociális rászorultság igazolásának módját,
+- c) a Nemzeti Eszközkezelő és a bérlő között létrejött lakásbérleti szerződésben a bérlő szociális helyzetére tekintettel érvényesíthető lakbér mértékét,
+- d) a lakásbérleti szerződés bérbeadó általi felmondására vonatkozó részletes, a bérlő szociális helyzetét is figyelembe vevő feltételeket és szabályokat,
+- e) a lakásbérleti jogviszonyból eredő követelések számlázásával kapcsolatos szabályokat,
+- f) a lakhatási célú ingatlan bérlői pályázat útján történő kiválasztásának szabályait,
+- g) a tartalék ingatlan tekintetében fennálló lakásbérleti jogviszony feltételeit, különös tekintettel a lakbér mértékére, a lakásbérleti szerződés időtartamára, a bérlő kötelezettségeire.
 
 #### 15. Hatályba léptető rendelkezés
 
@@ -366,16 +319,13 @@ az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 #### 17. Átmeneti rendelkezések
 
-30. § (1) A Nemzeti Eszközkezelő működésével kapcsolatos egyes törvények módosításáról szóló 2012. évi LXX. törvény kihirdetésétől számított 60. napig felajánlott lakóingatlanok vonatkozásában a Nemzeti Eszközkezelőre a 13. § (4) bekezdésében meghatározott határidő számításánál kezdőnapként a Nemzeti Eszközkezelő működésével kapcsolatos egyes törvények módosításáról szóló 2012. évi LXX. törvény kihirdetésétől számított 60. napot kell tekinteni, figyelembe véve a Kormány rendeletében meghatározott havi maximális ingatlanmennyiséget.
+30. § (1) A 2019. január 1-jét megelőzően, a Kormány rendeletében meghatározott, a Nemzeti Eszközkezelő által megvásárolható lakóingatlanokra vonatkozóan benyújtott szándéknyilatkozatokon kívül a Nemzeti Eszközkezelőhöz vagy a pénzügyi intézményhez benyújtott szándéknyilatkozatok elutasításra kerülnek. A pénzügyi intézmény a hiteladós vagy zálogkötelezett késedelmes tartozásának megfizetése érdekében egyeztetést folytat a hiteladóssal vagy zálogkötelezettel e törvény hatálybalépését követő 60 napon belül.
 
-(2) Az (1) bekezdés a végrehajtási jog szünetelésére vonatkozóan, a 15. §-ban meghatározott rendelkezés alkalmazását nem érinti.
+(2) A végrehajtási eljárás e törvény hatálybalépését követő 61. napon folytatódik.
 
-30/A. § E törvénynek a Nemzeti Eszközkezelővel kapcsolatos egyes törvények módosításáról szóló 2013. évi LIII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor
+30/A. § A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvénnyel módosított 22. és 23. § rendelkezéseit a Nemzeti Eszközkezelővel 2019. január 1-jén fennálló lakásbérleti jogviszonyokra is alkalmazni kell.
 
-- a) folyamatban lévő ügyekre és
-- b) – a Módtv.-vel megállapított 18. § (3) bekezdése kivételével – már megkötött szerződésekre is alkalmazni kell.
-
-30/B. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvénnyel (a továbbiakban: 2015. évi CV. törvény) megállapított 1. § d) pontot, 8. § (1) bekezdés b) és e)–g) pontot, 9. §-t és 9/A. §-t a pénzügyi intézmény által a 2015. évi CV. törvény hatálybalépését követően benyújtott szándéknyilatkozatok esetében kell alkalmazni. A 2015. évi CV. törvénnyel megállapított 10. § (1) bekezdést a Nemzeti Eszközkezelő által a 2015. évi CV. törvény hatálybalépését megelőzően megvásárolt lakóingatlanokra is alkalmazni kell. A Nemzeti Eszközkezelő Zrt. az ingatlan-nyilvántartásba már bejegyzett visszavásárlási jog lejárati határnapjának módosítása iránt a járási földhivatalt az illetékességi területén található ingatlanok helyrajzi számmal történő felsorolást tartalmazó kérelemmel keresi meg. A kérelem alapján a járási földhivatal a kérelemben megjelölt ingatlanok esetében a jogszabály alapján módosítja a visszavásárlási jog lejárati határnapját.
+30/B. §
 
 ### 1. melléklet a 2011. évi CLXX. törvényhez
 

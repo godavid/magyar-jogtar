@@ -46,10 +46,11 @@ miatt jogerősen végrehajtandó szabadságvesztésre ítéltek, amíg az elít�
 
 3/A. § (1) A nyilvántartást vezető szerv
 
-- a) vezeti az egyéni vállalkozók nyilvántartását,
+- a) vezeti az egyéni vállalkozók nyilvántartását, e körben törli a nyilvántartásból a jogszabálysértő bejegyzést, javítja a hibás bejegyzést, illetve pótolja az elmulasztott bejegyzést,
 - b) működteti a nyilvántartási és ügyviteli feladatokat szolgáló informatikai rendszert,
-- c) a 19/B. § szerint hatósági ellenőrzést végez, valamint
-- d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
+- c) a 19/B. § szerint hatósági ellenőrzést végez,
+- d) szakmai irányítást és felügyeletet gyakorol a (2) bekezdés a) és c)–f) pontban meghatározott tevékenység felett, valamint
+- e) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
 (2) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, Kormány által rendeletben kijelölt szerv (a továbbiakban: Hatóság)
 
@@ -227,6 +228,8 @@ kell megtenni.
 
 (3) A szünetelés bejelentését követően, annak tartama alatt az egyéni vállalkozó egyéni vállalkozói tevékenységet nem végezhet, egyéni vállalkozói tevékenységhez kötődő új jogosultságot nem szerezhet, új kötelezettséget nem vállalhat. Az egyéni vállalkozó tevékenységének folytatása során a szünetelésig keletkezett és azt követően esedékessé váló fizetési kötelezettségeit a szünetelés ideje alatt is köteles teljesíteni.
 
+(3a) Az egyéni vállalkozó tevékenységének szünetelése alatt kizárólag székhelyének változását jelentheti be a nyilvántartást vezető szervnek.
+
 (4) Az egyéni vállalkozó szüneteltetett egyéni vállalkozói tevékenységét a változásbejelentési űrlapon benyújtott, az egyéni vállalkozói tevékenység folytatására vonatkozó, a nyilvántartást vezető szervnél megfelelő módon tett bejelentésével folytathatja. A bejelentésben nyilatkozni kell arról, hogy az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatására előírt feltételeknek továbbra is megfelel. A tevékenység folytatásának kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelés záró napját bejegyzi az egyéni vállalkozók nyilvántartásába, és erről haladéktalanul, elektronikus úton értesíti az állami adóhatóságot a Központi Statisztikai Hivatalt, valamint a Hatóságot.
 
 (5) Igazolvánnyal rendelkező egyéni vállalkozó tevékenysége szüneteltetésének a feltétele, hogy az egyéni vállalkozó igazolványát a Hatóságnak személyesen vagy postai úton leadja. Az igazolványt a Hatóság az igazolvány beérkezésének vagy leadásának napján érvényteleníti, és ennek tényét bejegyzi a nyilvántartásba.
@@ -368,6 +371,8 @@ kell megtenni.
 
 (3) Ha az egyéni vállalkozói tevékenység folytatására való jogosultság egyéni cég alapítása miatt szűnik meg, a jogosultság megszűnéséig az egyéni vállalkozóként vállalt kötelezettségeiért a természetes személy és az egyéni cég korlátlanul és egyetemlegesen felel.
 
+(4) A cégbíróság az egyéni céget bejegyző végzésben rögzíti az egyéni vállalkozó nyilvántartási számát.
+
 #### 28. §
 
 29. § Az egyéni cég tőkéjéből a tag javára – a tagsági jogviszonyra figyelemmel – kifizetést a Ptk.-nak a korlátolt felelősségű társaságokra vonatkozó szabályai szerint lehet teljesíteni.
@@ -481,11 +486,12 @@ számítandó.
 
 ### Felhatalmazások
 
-39. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nyilvántartást vezető szervet és a Hatóságot.
+39. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-(2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel, az e-közigazgatásért felelős miniszterrel és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az egyéni vállalkozói tevékenység megkezdésével, szünetelésével, változás-bejelentésével és megszüntetésével kapcsolatos űrlapok tartalmát.
-
-(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy – az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott – rendeletben állapítsa meg az egyéni vállalkozói igazolvány kiállításának, kiadásának, pótlásának, cseréjének, bevonásának, visszavonásának, érvénytelenségének szabályait.
+- a) jelölje ki a nyilvántartást vezető szervet és a Hatóságot,
+- b) állapítsa meg az egyéni vállalkozói tevékenység megkezdésével, szünetelésével, változás-bejelentésével és megszüntetésével kapcsolatos űrlapok tartalmát,
+- c) állapítsa meg az egyéni vállalkozói igazolvány adattartalmát, kiállításának, pótlásának, cseréjének, érvénytelenségének szabályait,
+- d) állapítsa meg a hatósági ellenőrzés részletes szabályait.
 
 ### Módosító rendelkezések
 

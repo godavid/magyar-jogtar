@@ -78,7 +78,9 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
   - sa) a Magyarországon vagy magyar egészségügyi szolgáltató által uniós betegnek nyújtott egészségügyi szolgáltatás, vagy
   - sb) a biztosított által – ide nem értve a megállapodás alapján egészségügyi ellátásra jogosultakat – az Európai Unió más tagállamában vagy az ott letelepedett szolgáltatónál igénybevett egészségügyi ellátás, amelyet a biztosított nem az uniós rendeletek alapján vesz igénybe.
 - t) intézményi regisztrációs lista: az egészségügyi szolgáltatónál az intézményi várólistától elkülönítetten vezetett lista egyes ellátások, egymással összefüggő ellátások, vagy ellátás sorozatok tervezése és ütemezése érdekében;
-- u) intézményi előjegyzési lista: a fekvőbeteg-szakellátást végző egészségügyi szolgáltatónál adott ellátások tekintetében az intézményi várólistától elkülönítetten vezetett lista, amelyen a biztosított kérésére a betegellátás tervezett időpontja legalább 14 nappal későbbi, mint az intézményi várólista alapján meghatározható legkorábbi időpont.
+- u) intézményi előjegyzési lista: a fekvőbeteg-szakellátást végző egészségügyi szolgáltatónál adott ellátások tekintetében az intézményi várólistától elkülönítetten vezetett lista, amelyen a biztosított kérésére a betegellátás tervezett időpontja legalább 14 nappal későbbi, mint az intézményi várólista alapján meghatározható legkorábbi időpont;
+- v) tartós külszolgálat: a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 2. § 18. pontja szerinti tartós külszolgálat,
+- w) kihelyező szerv: a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 2. § 11. pontja szerinti kihelyező szerv.
 
 5/C. § (1) E törvény alkalmazásában
 
@@ -267,6 +269,8 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 (3a) Az egészségügyi szolgáltató csak akkor tagadhatja meg az uniós beteg ellátását, ha a területi ellátási kötelezettségű feladatainak folyamatos ellátását az uniós beteg fogadása veszélyezteti. Az elutasítást ilyen esetben írásban meg kell indokolni.
 
 (4) A szolgálati jogviszonyban álló és egyes külön jogszabályban meghatározott tevékenységet végző biztosítottak külön jogszabályban meghatározott rendben, valamint a fogva tartott személyek külön jogszabályban meghatározott rendben és feltételek szerint jogosultak az egészségügyi szolgáltatás igénybevételére.
+
+(4a) A külpolitikáért felelős miniszter vagy az európai ügyek koordinációjáért felelős miniszter által vezetett kihelyező szervnél foglalkoztatott biztosítottak kötelesek a külpolitikáért felelős miniszter vagy az európai ügyek koordinációjáért felelős miniszter rendeletében meghatározott, a kihelyező szerv által biztosított kötelező munkaköri, szakmai, illetve személyi higiénés alkalmassági orvosi vizsgálaton részt venni.
 
 (5) A gyógyító céllal rendelhető finanszírozott ellátások keretében – a (6) bekezdésben foglalt kivételekkel – valamennyi szakmailag indokolt beavatkozás elvégezhető.
 
@@ -651,11 +655,11 @@ méltányosságból a (2)–(7) bekezdésben foglaltaknak megfelelően támogath
 
 (4) A (2) bekezdés szerinti foglalkoztatás esetében a biztosított és a vele együtt ott tartózkodó eltartott házastársa és gyermeke nem Magyarországon történő egészségügyi ellátása akkor fogadható el indokoltan igénybe vettnek, ha eleget tettek a külön jogszabályban foglaltak szerint a nem Magyarországon történő munkavégzésre való alkalmasság megállapítását célzó orvosi vizsgálati kötelezettségüknek.
 
-(5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati, kormányzati szolgálati, állami szolgálati vagy közalkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló, tartósan harmadik államban foglalkoztatott biztosított, a vele életvitelszerűen együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti külképviselet által foglalkoztatott házastársa, továbbá a biztosított Magyar Honvédségnél a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban harmadik államban foglalkoztatott házastársa, élettársa által indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségének 85 százalékát az egészségbiztosító megtéríti. Ha a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségeinek 85 százalékát, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Ha az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.
+(5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati, kormányzati szolgálati, állami szolgálati vagy közalkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló, tartósan harmadik államban foglalkoztatott biztosított, a vele életvitelszerűen együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke, valamint a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti külképviselet által foglalkoztatott házastársa, továbbá a biztosított Magyar Honvédségnél a munka törvénykönyvéről szóló törvény szerinti munkaviszonyban harmadik államban foglalkoztatott házastársa, élettársa által indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségét az egészségbiztosító megtéríti. Külföldön bekövetkezett üzemi baleset esetén, ha az ellátás is külföldön történik, az egészségbiztosító a felmerült költségeket megtéríti. Ha a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségét, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Ha az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.
 
 (6) A határon átnyúló egészségügyi ellátás keretében, ha a biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – a II. fejezet 1–3. címében meghatározott egészségügyi szolgáltatásokat vesz igénybe, ugyanolyan jogállással rendelkezik, mintha hasonló helyzetben Magyarországon vett volna igénybe egészségügyi ellátást. Az egészségbiztosító az ellátás hitelt érdemlően igazolt tényleges költségét téríti meg azzal, hogy az egészségbiztosító által fizetendő térítés összege nem haladhatja meg az igénybevétel idején az ellátásra vonatkozó magyarországi közfinanszírozott ellátás belföldi költségének mértékét. A biztosított – ide nem értve a megállapodás alapján egészségügyi szolgáltatásra jogosultakat – ezen egészségügyi szolgáltatások közül csak előzetes engedély alapján jogosult a külföldi gyógykezelések rendjéről szóló kormányrendeletben meghatározott ellátások igénybevételére. Amennyiben a biztosított olyan ellátást kíván igénybe venni, amely a magyarországi jogszabályok alapján beutalóhoz kötött, a költség megtérítésének további feltétele, hogy a biztosított az ellátásra rendelkezzen az ellátásra vonatkozó és a jogszabályoknak megfelelő módon kiállított beutalóval.
 
-(7) A (3) bekezdéstől eltérően a közszolgálati, kormányzati szolgálati, állami szolgálati vagy közalkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló tartósan valamely EGT-tagállamban foglalkoztatott biztosított választhat, hogy a kiküldetés helye szerinti EGT-tagállamban az egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint veszi igénybe vagy az általa igénybevett egészségügyi ellátás költségeinek (5) bekezdés szerinti megtérítését kéri az egészségbiztosítótól.
+(7) A (3) bekezdéstől eltérően a közszolgálati, kormányzati szolgálati, állami szolgálati vagy közalkalmazotti jogviszonyban, továbbá a rendvédelmi feladatokat ellátó szervekkel hivatásos szolgálati jogviszonyban, valamint a Magyar Honvédséggel hivatásos vagy szerződéses, illetve önkéntes tartalékos szolgálati viszonyban álló tartósan valamely EGT-tagállamban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke választhat, hogy a kiküldetés helye szerinti EGT-tagállamban az egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint veszi igénybe vagy az általa igénybe vett egészségügyi ellátás költségeinek (5) bekezdés szerinti megtérítését kéri az egészségbiztosítótól.
 
 (8) Az (1)–(2) és (6) bekezdés szerinti belföldi költségek – ideértve az egészségbiztosításért felelős miniszter által elismert határon átnyúló egészségügyi együttműködés keretében nyújtott szolgáltatások költségeit is – megtérítésének módját és feltételeit a kormány rendeletben állapítja meg.
 
@@ -1202,7 +1206,7 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 42/C. § (1) Nem jár a gyermekgondozási díj, ha
 
 - a)
-- b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra vagy a gyermekgondozási díjra való jogosultság kezdő napján pénzbeli egészségbiztosítási járulék fizetésére kötelezett;
+- b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra vagy a gyermekgondozási díjra való jogosultság kezdő napján pénzbeli egészségbiztosítási járulék fizetésére kötelezett;
 - c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
 - d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, mini bölcsőde, munkahelyi bölcsőde, családi bölcsőde, napközbeni gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
 - e) a jogosult letartóztatásban van, vagy szabadságvesztést, elzárást tölt;
@@ -1244,7 +1248,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 42/E. § (1) A 42/A. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult az a szülő nő is, aki az alábbi feltételek mindegyikének megfelel:
 
 - a) a 42/A. § alapján gyermekgondozási díjra nem jogosult,
-- b) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben magyar nyelvű nappali képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik, azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
+- b) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzés kivételével teljes idejű képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
 - c) a gyermeke a b) pont szerinti hallgatói jogviszony fennállása alatt vagy a hallgatói jogviszony szünetelését, illetve megszűnését követő 1 éven belül születik,
 - d) a gyermeket saját háztartásában neveli,
 - e) magyar állampolgár vagy másik EGT tagállam állampolgára, és
@@ -1330,7 +1334,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 - a) tizennyolc éves kora előtt válik keresőképtelenné, vagy
 - b) iskolai tanulmányai megszűnését követő 180 napon belül biztosítottá válik, és keresőképtelenségéig megszakítás nélkül biztosított.
 
-(5) Ha a biztosított a keresőképtelenség első napját közvetlenül megelőző egy éven belül már táppénzben részesült, ennek időtartamát az újabb keresőképtelenség alapján járó táppénz folyósításának időtartamába be kell számítani.
+(5) Ha a biztosított a keresőképtelenség első napját közvetlenül megelőző egy éven belül már táppénzben vagy a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 33. § (2) bekezdése szerinti díjazásban részesült, ennek időtartamát az újabb keresőképtelenség alapján járó táppénz folyósításának időtartamába be kell számítani.
 
 (6) Az (5) bekezdés alkalmazásában nem számít előzménynek az az idő, amely alatt a biztosított
 
@@ -1466,7 +1470,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (2) Keresőképtelen az, aki az üzemi balesettel összefüggő és gyógykezelést igénylő egészségi állapota miatt vagy gyógyászati segédeszköz hiányában munkát végezni nem tud.
 
-(3) A baleseti táppénz – az előzetes biztosítási időre és táppénzfolyósításra tekintet nélkül – egy éven keresztül jár azzal, hogy a baleseti táppénz folyósítása legfeljebb egy évvel meghosszabbítható.
+(3) A baleseti táppénz – az előzetes biztosítási időre és táppénzfolyósításra tekintet nélkül – egy éven keresztül jár azzal, hogy a baleseti táppénz folyósítása legfeljebb egy évvel meghosszabbítható. Ha a biztosított balesetből eredő keresőképtelensége első napját közvetlenül megelőző egy éven belül a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 33. § (2) bekezdése alapján üzemi baleset vagy úti baleset jogcímen díjazásban részesült, a baleseti táppénz folyósítása időtartamába ezen időszakot be kell számítani.
 
 (4) Nem jogosult baleseti táppénzre az, aki ugyanazon üzemi balesetből eredően baleseti járadékban részesül.
 
@@ -1924,6 +1928,8 @@ kell érteni.
 
 (2) Az (1) bekezdés b) pontjában meghatározott feltételeknek megfelelő gyermekgondozási díj folyósításának időtartamát 2018. január 15-éig felül kell vizsgálni.
 
+82/O. § Az egészségbiztosító – a Kormány rendeletében meghatározottak szerint, a felmerült többletköltségek igazolását követő 30 napon belül – megtéríti mindazokat a többletköltségeket, amelyek a 27. § (7) bekezdésének az egyes külügyi igazgatási tárgyú törvények, valamint a tartós külszolgálat ellátásához kapcsolódó egyéb törvények módosításáról szóló 2017. évi XLV. törvény hatálybalépésétől az egyes egészségügyi és egészségbiztosítási tárgyú, valamint az egészségüggyel összefüggő egyes törvények módosításáról szóló 2018. évi CXVIII. törvény hatálybalépéséig terjedő időszakban hatályos rendelkezése alapján abból következően merültek fel, hogy a 27. § (7) bekezdése szerinti biztosítottal együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke nem választhatta az általa igénybe vett egészségügyi ellátás költségeinek a 27. § (5) bekezdése szerinti megtérítését.
+
 ### Záró rendelkezések
 
 83. § (1) E törvény hatálybaléptetéséről a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény rendelkezik.
@@ -1984,6 +1990,8 @@ meghatározására.
 (2i) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 35/A. § szerinti külön díjazás feltételeit és felhasználásának részletes szabályait.
 
 (2j) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a gyógyszerek és a gyógyászati segédeszközök társadalombiztosítási támogatásba való befogadásának és a támogatás mértéke megállapításának, valamint a társadalombiztosítási támogatásba befogadott gyógyszerek, gyógyászati segédeszközök hivatalból történő felülvizsgálatának eljárási szabályait.
+
+(2k) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 82/O. § szerinti többletköltségek megtérítésének szabályait.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
@@ -2049,6 +2057,10 @@ vonatkozó szabályokat,
 - j) a társadalombiztosítási támogatás alapját képező javítási díj számításánál figyelembeveendő rezsi óradíj összegét,
 - k) a Betegségek Nemzetközi Osztályozásának az elektronikus adatszolgáltatásban használatos és nemzeti szinten alábontott öt karakteres állományát és a morfológiai kódok listáját,
 - l) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz kölcsönzési díjához támogatást nyújthat.
+
+(6a) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy rendeletben határozza meg – Magyarország Európai Unió melletti Állandó Képviselete kivételével – a tartós külszolgálatra kihelyezésre kerülő kormánytisztviselők és kormányzati ügykezelők vonatkozásában a tartós külszolgálathoz kapcsolódó munkaköri, szakmai, illetve személyi higiénés alkalmassági vizsgálat körét, az azokon történő kötelező részvételnek és biztosításuk eljárásrendjének sajátos szabályait.
+
+(6b) Felhatalmazást kap az európai ügyek koordinációjáért felelős miniszter, hogy rendeletben határozza meg Magyarország Európai Unió melletti állandó képviseletére tartós külszolgálatra kihelyezett kormánytisztviselők és kormányzati ügykezelők vonatkozásában a tartós külszolgálathoz kapcsolódó munkaköri, szakmai, illetve személyi higiénés alkalmassági vizsgálat körét, az azokon történő kötelező részvételnek és biztosításuk eljárásrendjének sajátos szabályait.
 
 (7)
 

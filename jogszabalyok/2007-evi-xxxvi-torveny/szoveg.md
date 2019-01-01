@@ -83,7 +83,7 @@ alkalmazandó.
 
 8. § (1) Ha egy külföldi hatóság olyan cselekmény miatt terjeszt elő szabálysértési jogsegély iránt megkeresést, amely államának joga szerint szabálysértés, de a magyar jog szerint bűncselekmény, a központi hatóság a megkeresést teljesítés végett továbbítja a nemzetközi bűnügyi jogsegélyről szóló törvény, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerint illetékes hatósághoz, és erről a megkereső külföldi hatóságot értesíti.
 
-(2) Ha külföldi hatóság a megkeresését az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 12. számú mellékletében meghatározott olyan cselekmény tekintetében terjesztette elő, amely az államának joga szerint szabálysértés, a központi hatóság az (1) bekezdés megfelelő alkalmazásával jár el, ha cselekmény a magyar jog szerint sem szabálysértés, sem közigazgatási bírsággal sújtandó közlekedési szabályszegés megállapítására nem alkalmas.
+(2) Ha külföldi hatóság a megkeresését az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 12. számú mellékletében meghatározott olyan cselekmény tekintetében terjesztette elő, amely az államának joga szerint szabálysértés, a központi hatóság az (1) bekezdés megfelelő alkalmazásával jár el, ha a cselekmény a magyar jog szerint sem szabálysértés, sem közigazgatási bírsággal sújtandó közlekedési szabályszegés megállapítására nem alkalmas, illetve a végrehajtásra átadott cselekmények tekintetében csak részben képez szabálysértést vagy közigazgatási bírsággal sújtandó közlekedési jogsértést, amennyiben az átadott pénzbírság nem osztható meg.
 
 8/A. § Az ENYH-t az 1. számú melléklet szerinti formanyomtatványnak a végrehajtó tagállam hivatalos nyelveinek egyikén vagy a tagállam által megjelölt nyelven rendelkezésre álló fordításának felhasználásával, a tagállam hatáskörrel és illetékességgel rendelkező hatóságának, vagy ha az adott tagállam központi hatóságot jelölt ki, a központi hatóságnak kell megküldeni.
 
@@ -161,6 +161,8 @@ alkalmazandó.
 12. § (1) Külföldi hatóság megkeresésére a szabálysértési hatóság vagy a bíróság, illetve a közúti közlekedési nyilvántartó szerv eljárási jogsegélyt nyújt.
 
 (2) Az eljárási jogsegély kiterjedhet a tanú, a szakértő és az eljárás alá vont személy meghallgatására, okirat vagy a szabálysértési eljárás iratainak a külföldi hatóság részére történő megküldésére, a szabálysértési eljárás iratainak a kézbesítésére, és a szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatásra.
+
+(2a) Az eljárási jogsegély akkor is végrehajtható és a végrehajtását a központi hatóság átveszi, ha a határozat alapjául szolgáló cselekmény a magyar jogszabályok szerint a közigazgatási bírsággal sújtandó közlekedési szabályszegésnek minősül.
 
 (3) Az e törvényben nem szabályozott eljárási cselekményekre a Szabs. tv.-t kell megfelelően alkalmazni.
 
@@ -307,13 +309,13 @@ egyeztetést kezdeményezhet.
 
 ### A szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatás
 
-19. § (1) Ha a szabálysértési ügyben eljáró külföldi hatóság, amely előtt olyan cselekmény miatt van eljárás folyamatban, amelynek az elkövetéséhez gépjárművet használtak, és megkeresésében a gépjármű rendszámának és gyártmányának megküldésével, annak a személynek a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített adatait kéri, aki a cselekmény elkövetésekor a gépjármű üzembentartója volt, a legfőbb ügyész a megkeresést válaszadás céljából továbbítja a közúti közlekedési nyilvántartó szervnek.
+19. § (1) Ha a szabálysértési ügyben eljáró külföldi hatóság, amely előtt olyan cselekmény miatt van eljárás folyamatban, amelynek az elkövetéséhez gépjárművet használtak és megkeresésében a gépjármű rendszámának és gyártmányának megküldésével annak a személynek a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített adatait kéri, aki a cselekmény elkövetésekor a gépjármű üzembentartója volt, a 3. § (4) bekezdés a) pontja szerinti központi hatóság közvetlenül informatikai alkalmazás igénybevételével jogosult az adatokat átvenni a közúti közlekedési nyilvántartó szervtől, vagy a megkeresést válaszadás céljából továbbítja a közúti közlekedési nyilvántartó szervnek.
 
-(2) A közúti közlekedési nyilvántartó szerv a gépjármű üzembentartójának a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített – a megkeresésben megjelölt – adatait a megkeresés hozzá való megérkezésétől számított tizenöt napon belül megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
+(2) A közúti közlekedési nyilvántartó szerv a gépjármű üzembentartójának a közúti közlekedési nyilvántartásról szóló törvény szerinti járműnyilvántartásban rögzített – a megkeresésben megjelölt – adatait a megkeresés hozzá való megérkezésétől számított tizenöt napon belül megküldi a központi hatóságnak. A központi hatóság a megküldött vagy a közvetlenül átvett adatokat továbbítja a megkeresést előterjesztő külföldi hatósághoz.
 
-(3) A 2008/615/IB tanácsi határozaton, valamint a 2008/616/IB tanácsi határozaton alapuló automatizált keresés elrendelése esetén az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja az (1) bekezdésben meghatározott adatokhoz elektronikus úton történő hozzáférést. E bekezdés alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
+(3) A 2008/615/IB tanácsi határozaton, valamint a 2008/616/IB tanácsi határozaton alapuló automatizált keresés elrendelése esetén az Európai Unió más tagállamának kijelölt nemzeti kapcsolattartó pontja részére a 3. § (4) bekezdés d) pontja szerinti központi hatóság biztosítja az (1) bekezdésben meghatározott adatokhoz elektronikus úton történő hozzáférést. E bekezdés alkalmazásában az Európai Unió más tagállama alatt mindazon államokat is érteni kell, amelyek nem tagjai az Európai Uniónak, de amelyekkel az Európai Unió Tanácsa határozattal jóváhagyta a 2008/615/IB tanácsi határozat, valamint a 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodás megkötését és alkalmazását.
 
-(4) A 3. § (4) bekezdés c) pontja szerinti központi hatóság a 2015/413/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam nemzeti kapcsolattartó pontja részére a külön jogszabályban meghatározott adatokhoz elektronikus úton történő automatizált hozzáférést biztosít.
+(4) A 3. § (4) bekezdés d) pontja szerinti központi hatóság a 2015/413/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam nemzeti kapcsolattartó pontja részére a külön jogszabályban meghatározott adatokhoz elektronikus úton történő automatizált hozzáférést biztosít.
 
 ### 2. CÍM — KÜLFÖLDI HATÓSÁG MEGKERESÉSE ELJÁRÁSI JOGSEGÉLY IRÁNT
 
@@ -331,7 +333,7 @@ egyeztetést kezdeményezhet.
 
 ### A tanú, a szakértő és az eljárás alá vont személy meghallgatása
 
-22. § Ha a magyar szabálysértési hatóság, illetve a bíróság az eljárás alá vont személyt külföldi hatóság útján kívánja meghallgatni, a megkeresett külföldi hatósághoz meg kell küldeni azokat az iratokat, amelyek a megkeresés elintézéséhez szükségesek, és azokat a kérdéseket, amelyeket a meghallgatás során tisztázni kell.
+22. § Ha a magyar szabálysértési hatóság, illetve a bíróság a tanút, a szakértőt vagy az eljárás alá vont személyt külföldi hatóság útján kívánja meghallgatni, a megkeresett külföldi hatósághoz meg kell küldeni azokat az iratokat, amelyek a megkeresés elintézéséhez szükségesek, és azokat a kérdéseket, amelyeket a meghallgatás során tisztázni kell.
 
 23. §
 
@@ -355,9 +357,9 @@ egyeztetést kezdeményezhet.
 
 (2)
 
-(3) A 2008/615/IB tanácsi határozat alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 27/A. § (2)–(4) bekezdése szerint automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről a Kknyt. 27/A. § (5) bekezdése szerint haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
+(3) A 2008/615/IB tanácsi határozat alapján az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban az Európai Unió más tagállamának gépjárműadat-nyilvántartásaiban a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 27/A. § (2)–(4) bekezdése szerint automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés d) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről a Kknyt. 27/A. § (5) bekezdése szerint haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
 
-(4) Az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban a 2011/82/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam gépjárműadat-nyilvántartásaiban a Kknyt. 27/C. § (1) és (2) bekezdése szerint automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés c) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről a Kknyt. 27/C. § (3) bekezdése szerint haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
+(4) Az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban a 2011/82/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam gépjárműadat-nyilvántartásaiban a Kknyt. 27/C. § (1) és (2) bekezdése szerint automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés d) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről a Kknyt. 27/C. § (3) bekezdése szerint haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
 
 ### IV. Fejezet — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTVÉTELE,ILLETVE ÁTADÁSA
 
@@ -371,11 +373,11 @@ egyeztetést kezdeményezhet.
 
 - a) jogi személlyel szemben kiszabott pénzbírság,
 - b) szabálysértés elkövetését megállapító vagy azon alapuló tagállami határozatban megállapított eljárási költség, vagy
-- c) sértett vagy köz javára fizetendő jóvátétel
+- c) sértett, sértettet segítő szervezet vagy köz javára fizetendő jóvátétel
 
 vonatkozásában kezdeményezik.
 
-(1c) Az (1a) és (1b) bekezdés esetén a pénzbírságot kiszabó külföldi határozatot a szabálysértési pénzbírságra vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani azzal, hogy a bírság kizárólag adók módjára hajtható be, közérdekű munkával történő teljesítésének, valamint elzárásra történő átváltoztatásnak nincs helye. A sértett javára fizetendő jóvátétel esetén a bírság adók módjára történő behajtásának sincs helye.
+(1c) Az (1a) és (1b) bekezdés esetén a pénzbírságot kiszabó külföldi határozatot a szabálysértési pénzbírságra vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani azzal, hogy a bírság kizárólag adók módjára hajtható be, közérdekű munkával történő teljesítésének, valamint elzárásra történő átváltoztatásnak nincs helye. A sértetteket segítő szervezeteknek vagy közjavára fizetendő jóvátételt a szabálysértési költségre vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani.
 
 (2) A külföldi határozat végrehajtásának átvétele esetén a pénzbírság megfizetésének elengedése érdekében méltányossági kérelem nem nyújtható be.
 
@@ -386,6 +388,10 @@ vonatkozásában kezdeményezik.
 28. § (1) A központi hatóság a külföldi határozat végrehajtása átvételének feltételeit hivatalból vizsgálja.
 
 (2) A külföldi ítélet vagy határozat végrehajtását haladéktalanul fel kell függeszteni, illetve a végrehajtási eljárást meg kell szüntetni, ha a megkereső külföldi hatóság a végrehajtás akadályát képező döntésről, intézkedésről vagy egyéb körülményről tájékoztatja a központi hatóságot. A központi hatóság erről értesíti a 30. § (1) bekezdése szerint illetékes általános szabálysértési hatóságot.
+
+(3) A külföldi ítélet vagy határozat végrehajtása felfüggeszthető, ha a központi hatóság a külföldi határozat átvételére indult eljárásban olyan körülményt észlel, mely a végrehajtást akadályozza. A felfüggesztés a felmerült körülmény tisztázásáig, de legfeljebb 3 hónapig tarthat.
+
+(4) A külföldi ítélet vagy határozat végrehajtásának felfüggesztése esetén a központi hatóság a felfüggesztéssel párhuzamosan intézkedik az akadályként felmerült körülmény tisztázása érdekében.
 
 29. § (1) A külföldi határozat végrehajtásának átvételét meg kell tagadni, ha
 
@@ -406,6 +412,8 @@ vonatkozásában kezdeményezik.
 (2) Ha az (1) bekezdésben foglaltak alapján a végrehajtásra illetékes általános szabálysértési hatóság nem állapítható meg, a külföldi határozatban megjelölt összeg beszedését az az általános szabálysértési hatóság hajtja végre, amelynek működési területén az elkövetőnek fellelhető jövedelme, illetve vagyona van.
 
 (3) A külföldi határozat végrehajtása iránti megkeresést a pénzbírság, valamint – a végrehajtásra átvett eljárási költség tekintetében – a szabálysértési költség végrehajtására vonatkozó szabályok szerint kell végrehajtani azzal az eltéréssel, hogy a bíróság a végrehajtási eljárás törvényességének vizsgálata során az alapeljárás törvényességét nem vizsgálhatja. Ha a megkeresésben a pénzbírság szabálysértési elzárásra való átváltoztatását kizárták, a pénzbírság adók módjára történő behajtásáról kell intézkedni.
+
+(3a) Ha a kibocsátó állam a pénzbírság közérdekű munkára vagy elzárásra történő átváltoztatásához hozzájárult és annak tartamát meghatározta, az átváltoztatott pénzbírság tartamát a kibocsátó állam által meghatározott tartamban kell meghatározni.
 
 (4) Az általános szabálysértési hatóság az elkövető részére a pénzbírság és eljárási költség megfizetésére harminc napos határidőt biztosít, egyúttal tájékoztatja az elkövetőt a meg nem fizetett pénzbírság közérdekű munkával történő megváltásáról. A tájékoztatásnak ki kell terjednie arra, hogy ha az elkövető a pénzbírságot nem fizeti meg, helyébe milyen tartamú közérdekű munka lép, valamint arra is, hogy a pénzbírság befizetésére nyitva álló határidő lejártát követő harmadik munkanapig személyesen jelentkezhet a lakóhelye vagy tartózkodási helye szerint illetékes állami foglalkoztatási szervnél a pénzbírság közérdekű munkával történő megváltása érdekében. Amennyiben az eljárás alá vont személy az állami foglalkoztatási szerv előtti megjelenési kötelezettségének határidőben nem tesz eleget, a szabálysértési hatóság intézkedik a pénzbírság szabálysértési elzárásra történő átváltoztatásáról vagy annak adók módjára történő behajtásáról; e körülményekre a tájékoztatásnak úgyszintén ki kell terjednie.
 

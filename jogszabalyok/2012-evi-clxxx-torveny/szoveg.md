@@ -64,7 +64,7 @@ kell érteni.
 - c) a terhelt gyermekkor miatt nem büntethető,
 - d) a 3. § (3) és (4) bekezdése alapján a kettős büntethetőséget vizsgálni kell, és az európai elfogatóparancs alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény,
 - e) a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
-- f) az európai elfogatóparancs végrehajtása súlyosan sértené a büntetőeljárás során a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
+- f) az európai elfogatóparancs végrehajtása súlyosan sértené a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
 
 (2) A bíróság az európai elfogatóparancs végrehajtását megtagadhatja, ha
 
@@ -74,7 +74,7 @@ kell érteni.
 - d) a terheltet egy harmadik államban ugyanazon cselekmény miatt jogerősen felmentették vagy jogerősen elítélték, feltéve, hogy a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó állam joga szerint az nem hajtható végre, vagy
 - e) az európai elfogatóparancs olyan bűncselekményre vonatkozik, amelyet egészben vagy részben Magyarország területén követtek el.
 
-(3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság az európai elfogatóparancs végrehajtását megtagadja, ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ideiglenes végrehajtási letartóztatását rendeli el, vagy a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtását elrendeli.
+(3) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság az európai elfogatóparancs végrehajtását megtagadja, ha az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt a terhelt ideiglenes végrehajtási letartóztatását, ideiglenes végrehajtási bűnügyi felügyeletét rendeli el, vagy a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat végrehajtását elrendeli.
 
 (4) Ha a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, a bíróság megtagadja az európai elfogatóparancs végrehajtását, ha a terhelt az átadásába nem egyezik bele.
 
@@ -124,9 +124,15 @@ kell érteni.
 
 (4) A (3) bekezdésben foglaltak teljesítésekor a foganatosító szerv tájékoztatja a terheltet, hogy jogában áll az európai elfogatóparancsot kibocsátó tagállamban – annak szabályai szerint – ügyvédet megbízni, és ennek érdekében a kibocsátó tagállam illetékes hatóságától segítséget kérni. A terheltet tájékoztatni kell arról is, hogy a kibocsátó tagállamban megbízott ügyvédnek lehetősége van kapcsolatba lépni a terhelt védőjével, és ennek során információk rendelkezésre bocsátásával segítséget nyújtani a terhelt eljárási jogainak gyakorlásában. A foganatosító szerv a terheltnek a kibocsátó tagállambeli ügyvéd megbízásával kapcsolatos figyelmeztetését és nyilatkozatát jegyzőkönyvben rögzíti. Ha a terhelt a kibocsátó tagállamban ügyvédet kíván megbízni, a foganatosító szerv a terhelt nyilatkozatáról a miniszter útján haladéktalanul tájékoztatja a kibocsátó tagállami hatóságot.
 
+(4a) Az ügyészség engedélyével a terhelt őrizetének elrendelése mellőzhető, vagy az elrendelt őrizet megszüntethető, ha
+
+- a) a terhelt Magyarországon tényleges tartózkodási hellyel rendelkezik,
+- b) a terhelt személyi és családi körülményeire, a bűncselekmény jellegére, a végrehajtandó szabadságvesztés vagy alkalmazandó intézkedés mértékére, a terhelt elfogásának körülményeire figyelemmel megállapítható, hogy a jelenléte a bírósági tárgyaláson az őrizet elrendelése nélkül is biztosítható, és
+- c) a rendelkezésre álló adatok alapján megtagadási ok valószínűsíthető.
+
 (5) Az őrizetet az azt foganatosító szerv az ügyészség engedélyével azonnal megszünteti, ha minden kétséget kizáróan megállapítható, hogy az őrizetbe vett személy nem azonos azzal a személlyel, akivel szemben az európai elfogatóparancsot kibocsátották.
 
-(6) Az (1)–(4) bekezdést kell alkalmazni akkor is, ha a Magyarország területén elfogott személyre vonatkozóan a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 6. § (1) bekezdése szerinti figyelmeztető jelzést helyeztek el, és ez a figyelmeztető jelzés a (7) bekezdés szerint az európai elfogatóparanccsal egyenértékű.
+(6) Az (1)–(5) bekezdést kell alkalmazni akkor is, ha a Magyarország területén elfogott személyre vonatkozóan a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény (a továbbiakban: 2012. évi CLXXXI. törvény) 6. § (1) bekezdése szerinti figyelmeztető jelzést helyeztek el, és ez a figyelmeztető jelzés a (7) bekezdés szerint az európai elfogatóparanccsal egyenértékű.
 
 (7) A Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzés az európai elfogatóparanccsal egyenértékű, ha a figyelmeztető jelzés és az ahhoz kapcsolódó kiegészítő információ tartalmazza a következő adatokat:
 
@@ -141,11 +147,11 @@ kell érteni.
 - i) a bűncselekmény elkövetési helye és ideje, a terhelt részvételének módja a bűncselekményben,
 - j) a jogerősen kiszabott szabadságvesztés tartama, illetve a bűncselekmény miatt kiszabható szabadságvesztés tartamának felső határa.
 
-8. § (1) A Fővárosi Törvényszék az európai elfogatóparancs végrehajtása tárgyában tárgyalást tart.
+8. § (1) Ha e törvény eltérően nem rendelkezik, a Fővárosi Törvényszék az európai elfogatóparancs végrehajtása tárgyában tárgyalást tart.
 
 (2) A Fővárosi Törvényszék meghatározza a tárgyalás határnapját. A terhelt elfogása esetén a tárgyalást az őrizet határidején belül kell megtartani.
 
-(3) A Fővárosi Törvényszék a tárgyalásról – a rendelkezésre álló ügyiratok Nemzetközi Bűnügyi Együttműködési Központ (továbbiakban: NEBEK) közreműködésével történő megküldésével együtt – az ügyészséget értesíti, a tárgyalásra a védőt idézi. Ha a terheltnek nincs meghatalmazott védője és a 7. § (2) bekezdése alapján kirendelt védő megjelenése a tárgyaláson aránytalan nehézséggel járna, a Fővárosi Törvényszék a terhelt részére új védőt rendel ki, egyidejűleg a korábban eljárt védőt a kirendelés alól felmenti. A Fővárosi Törvényszék – a terhelt elfogása esetén a NEBEK útján, az őrizetet foganatosító szerv kísérési feladatainak meghatározásával – gondoskodik a terhelt megjelenéséről.
+(3) A Fővárosi Törvényszék a tárgyalásról – a rendelkezésre álló ügyiratok Nemzetközi Bűnügyi Együttműködési Központ (továbbiakban: NEBEK) közreműködésével történő megküldésével együtt – az ügyészséget értesíti, a tárgyalásra a védőt idézi. Ha a terheltnek nincs meghatalmazott védője és a 7. § (2) bekezdése alapján kirendelt védő megjelenése a tárgyaláson aránytalan nehézséggel járna, a Fővárosi Törvényszék a terhelt részére új védőt rendel ki, egyidejűleg a korábban eljárt védőt a kirendelés alól felmenti. A Fővárosi Törvényszék – a terhelt őrizetének elrendelése esetén a NEBEK útján, az őrizetet foganatosító szerv kísérési feladatainak meghatározásával – gondoskodik a terhelt megjelenéséről.
 
 (4) A tárgyaláson az ügyész és a védő részvétele kötelező. Ha a terhelt a magyar nyelvet nem ismeri, a bíróság tolmácsot rendel ki a részére.
 
@@ -166,14 +172,14 @@ kell érteni.
 
 #### 5. Ideiglenes átadási letartóztatás vagy más kényszerintézkedés elrendelése
 
-9. § (1) A bíróság az európai elfogatóparancs végrehajtásának biztosítása céljából elrendeli a terhelt ideiglenes átadási letartóztatását, ha
+9. § (1) A bíróság az európai elfogatóparancs végrehajtása tárgyában tartott tárgyaláson az európai elfogatóparancs végrehajtásának biztosítása céljából elrendeli a terhelt ideiglenes átadási letartóztatását, ha
 
 - a) a bíróság megállapítja, hogy nem áll fenn az európai elfogatóparancs megtagadási okainak valamelyike, és
 - b) a rendelkezésre álló adatok alapján a terhelt átadásáról nem lehet dönteni.
 
 (2) Az ideiglenes átadási letartóztatás a terhelt átadási letartóztatásának elrendeléséig tart.
 
-(3) Az ideiglenes átadási letartóztatás elrendelése esetén óvadék alkalmazásának nincs helye.
+(3)
 
 (4) Az ideiglenes átadási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül az európai elfogatóparancs nem érkezik meg.
 
@@ -181,7 +187,7 @@ kell érteni.
 
 9/A. § (1) Az ideiglenes átadási letartóztatás helyett olyan ideiglenes átadási bűnügyi felügyelet is elrendelhető, amelynek során a bíróság a terhelt számára előírja, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül ne hagyjon el, ha különösen a terhelt személyi és családi körülményeire, a bűncselekmény jellegére, a végrehajtandó szabadságvesztés vagy alkalmazandó intézkedés mértékére, a terhelt elfogásának körülményeire figyelemmel az ideiglenes átadási letartóztatással elérni kívánt cél enyhébb kényszerintézkedéssel is biztosítható.
 
-(2) A bíróság az (1) bekezdésben meghatározott ideiglenes átadási bűnügyi felügyelet elrendeléséről szóló határozatában előírja, hogy a rendőrség a kényszerintézkedés előírásainak megtartását a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. A bíróság a terhelt mozgását nyomon követő technikai eszköz telepítésének technikai feltételeit az elrendelést megelőzően tisztázza.
+(2) A bíróság az (1) bekezdésben meghatározott ideiglenes átadási bűnügyi felügyelet elrendeléséről szóló határozatában előírja, hogy a rendőrség a kényszerintézkedés előírásainak megtartását a terhelt mozgását nyomon követő technikai eszközzel is ellenőrizze. A bíróság a terhelt mozgását nyomon követő technikai eszköz telepítésének technikai feltételeit az elrendelést megelőzően tisztázza. Ideiglenes átadási bűnügyi felügyelet elrendelése esetén óvadék alkalmazásának nincs helye.
 
 (3) Az (1) bekezdésben meghatározott ideiglenes átadási bűnügyi felügyelet tartamára az ideiglenes átadási letartóztatás szabályait megfelelően alkalmazni kell.
 
@@ -227,7 +233,7 @@ kell érteni.
 
 13. § (1) Ha az átadás feltételei fennállnak, a bíróság nem ügydöntő végzéssel elrendeli a terhelt átadási letartóztatását és átadását, vagy a 6. § (1) és (2) bekezdése esetén a bíróság előzetesen hozzájárul a terheltnek a további európai elfogatóparancsot kibocsátó tagállam részére történő átadásához.
 
-(2) A bíróság megtagadja az európai elfogatóparancs végrehajtását, ha megtagadási ok áll fenn.
+(2) A bíróság megtagadja az európai elfogatóparancs végrehajtását, ha megtagadási ok áll fenn. A bíróság az európai elfogatóparancs végrehajtásának megtagadásáról az iratok alapján is dönthet.
 
 (3) A tárgyaláson kihirdetett határozattal szemben az ügyészség, a terhelt és a védője a fellebbezést nyomban jelentheti be.
 
@@ -370,7 +376,7 @@ követően egy év eltelt.
 
 (5) Az ideiglenes átadás végrehajtására az átadás végrehajtására vonatkozó rendelkezéseket megfelelően alkalmazni kell azzal, hogy az átadás végrehajtására legkorábban a (3) bekezdés b) pontjában meghatározott határnapon kerülhet sor. A terhelt átadásáról és átvételéről a NEBEK a rendőrség közreműködésével gondoskodik.
 
-#### 12. Tárgyak lefoglalása és átadása
+#### 12. Tárgyak lefoglalása és átadása, a terhelt kihallgatása
 
 24. § (1) A bíróság a kibocsátó tagállami igazságügyi hatóság kérelmére vagy hivatalból elrendeli azoknak a tárgyaknak a lefoglalását és átadását
 
@@ -385,13 +391,28 @@ követően egy év eltelt.
 
 (5) Az (1)–(4) bekezdés szerinti szabályok nem érintik az e tárgyakon fennálló tulajdonjogot és egyéb jogokat.
 
+(6) A kibocsátó tagállam igazságügyi hatóságának megkeresésére a bíróság vagy az ügyészség a terheltet kihallgatja. A megkeresésre és annak teljesítésére a IV. és a IV/A. Fejezetben foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy a teljesítés során az európai nyomozási határozatot alkalmazó tagállamok vonatkozásában nincs szükség a 18. és 19. számú melléklet szerinti formanyomtatvány alkalmazására.
+
+#### 12/A. Megjelölés elhelyezésével kapcsolatos eljárás
+
+24/A. § (1) Ha a bíróság az európai elfogatóparancs végrehajtását megtagadja, a 2012. évi CLXXXI. törvény 1. § 12. pontja szerinti SIRENE Irodánál (a továbbiakban: SIRENE Iroda) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet szerinti információs rendszerben (a továbbiakban: SIS II rendszer) az európai elfogatóparancshoz kapcsolódó figyelmeztető jelzéshez megjelölés elhelyezését kezdeményezi.
+
+(2) Ha a bíróság a SIRENE Irodától kapott tájékoztatás alapján megállapítja, hogy a SIS II rendszerben elhelyezett figyelmeztető jelzés tekintetében az európai elfogatóparancs megtagadási oka áll fenn, megjelölés elhelyezését kezdeményezheti.
+
+(3) Ha a SIRENE Iroda arról tájékoztatta a bíróságot, hogy a SIS II rendszerben elhelyezett figyelmeztető jelzéshez megjelölés elhelyezését kezdeményezte, a bíróság
+
+- a) a megjelölés kezdeményezését – határozat hozatala nélkül – tudomásul veszi, ha a figyelmeztető jelzés tekintetében megtagadási ok áll fenn, vagy
+- b) a SIRENE Irodát a megjelölés visszavonásának kezdeményezésére hívja fel.
+
+(4) A bíróság a (2) és a (3) bekezdés esetén az iratok alapján jár el, döntése ellen jogorvoslatnak nincs helye. A bíróság eljárása során a 10. §-t megfelelően alkalmazni kell azzal, hogy a bíróság a kiegészítő információt a SIRENE Iroda útján is kérheti.
+
 ### II. Fejezet — ÁTADÁS MAGYARORSZÁGRA
 
 #### 13. Az európai elfogatóparancs kibocsátása
 
 25. § (1) A terhelttel szemben – feltéve, hogy a bűncselekmény tárgyi súlya ezt indokolja – a bíróság európai elfogatóparancsot bocsáthat ki az Európai Unió valamely tagállamában történő elfogása és átadása érdekében büntetőeljárás lefolytatása, illetve szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából. Európai elfogatóparancs kibocsátására a Magyarország területére kiterjedő hatályú elfogatóparancs kibocsátását követetően, vagy azzal egyidejűleg kerülhet sor. Ha a Magyarország területére kiterjedő hatályú elfogatóparancsot nem bíróság bocsátotta ki, az európai elfogatóparancs kibocsátására ügyészség által kibocsátott, vagy a nyomozó hatóság által kibocsátott és ügyészségi jóváhagyással ellátott elfogatóparancs alapján kerülhet sor.
 
-(2) Az európai elfogatóparancs büntetőeljárás lefolytatása céljából olyan cselekmények esetén bocsátható ki, amelyeknél a Btk. szerint a büntetési tétel felső határa legalább egyévi szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés, kivéve a 92/A. §-ban meghatározott esetet. Ha a szabadságvesztés büntetést kiszabó vagy a szabadságelvonással járó intézkedést alkalmazó határozatot már meghozták, európai elfogatóparancs csak akkor bocsátható ki, ha a kiszabott büntetés vagy az alkalmazott intézkedés tartama legalább négy hónap.
+(2) Az európai elfogatóparancs büntetőeljárás lefolytatása céljából olyan cselekmények esetén bocsátható ki, amelyeknél a Btk. szerint a büntetési tétel felső határa legalább egyévi szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés, kivéve a 92. §-ban meghatározott esetet. Ha a szabadságvesztés büntetést kiszabó vagy a szabadságelvonással járó intézkedést alkalmazó határozatot már meghozták, európai elfogatóparancs csak akkor bocsátható ki, ha a kiszabott büntetés vagy az alkalmazott intézkedés tartama legalább négy hónap.
 
 (3) Büntetőeljárás lefolytatása céljából a vádemelés után a (2) bekezdésben foglalt feltétel megvalósulása esetén is csak akkor bocsátható ki európai elfogatóparancs, ha a vádiratban, illetve a vád módosítása vagy kiterjesztése során az ügyészség végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására tett indítványt.
 
@@ -942,7 +963,7 @@ köt megállapodást a tagállami hatósággal.
 
 (3) A (2) bekezdésben foglaltakról az eljárási cselekmény magyarországi helyszínén jelen lévőket a kihallgatás vagy a meghallgatás előtt tájékoztatni kell.
 
-(4) Az eljárási cselekmény magyarországi helyszínén a bíróság feladatait bírósági tikár, az ügyészség feladatait alügyész is elláthatja.
+(4) Az eljárási cselekmény magyarországi helyszínén a bíróság feladatait bírósági titkár, az ügyészség feladatait alügyész is elláthatja.
 
 (5) A bíróság vagy az ügyészség a tagállami hatóság kérelmére intézkedhet a kihallgatandó vagy meghallgatandó személynek vagy e személyre tekintettel más személynek a Be. 85. § (1) bekezdésében és 86. § (2) bekezdés a), c), d), f) és g) pontjában foglalt rendelkezések szerinti védelméről.
 
@@ -2159,6 +2180,10 @@ a tagállami ítélet megfeleltetése iránt intézkedik.
 - a) halmazati büntetést szab ki, ha a tagállami ítéletben kiszabott büntetés vagy alkalmazott intézkedés végrehajtásának átvételére került sor, vagy
 - b) önállóan szab ki büntetést, amely során figyelemmel kell lenni a tagállami határozatban kiszabott büntetésre, illetve alkalmazott intézkedésre.
 
+(4) A bíróság a tagállami ítélet megfeleltetését követően a megfeleltetésről szóló jogerős határozatot az alapügyben elsőfokon eljárt bíróság részére küldi meg a feltételes szabadság megszüntetése, a felfüggesztett szabadságvesztés végrehajtásának elrendelése, a javítóintézeti nevelésből történő ideiglenes elbocsátás megszüntetése vagy a próbára bocsátás megszüntetése és – a (3) bekezdés alkalmazásával – büntetés kiszabása érdekében.
+
+(5) A (4) bekezdésben meghatározott esetben az alapügyben elsőfokon eljárt bíróság a Be. XCIV. Fejezete szerinti egyszerűsített felülvizsgálati eljárás szabályainak megfelelő alkalmazásával jár el azzal, hogy a bűnügyi költséget az állam viseli és az eljárásban a Be. 672. § (4)–(6) bekezdése nem alkalmazható.
+
 111/D. § (1) A megfeleltetés során a bíróság megállapítja a tagállami ítéletben szereplő bűncselekménynek a Btk. szerinti minősítését, és megvizsgálja, hogy a figyelembe vehető tagállami ítélet rendelkezései, valamint az abban kiszabott büntetés, illetve alkalmazott intézkedés összeegyeztethetők-e a magyar törvénnyel. Ha a tagállami ítélet rendelkezései vagy az abban kiszabott büntetés vagy alkalmazott intézkedés nem összeegyeztethető a magyar törvénnyel, továbbá ha ezek jogkövetkezményei nem felelnek meg a magyar törvénynek, a bíróság a tagállami ítélet rendelkezéseit, valamint a kiszabott büntetést vagy alkalmazott intézkedést a magyar törvénynek megfelelően átalakítja, illetve kiegészíti. A tagállami ítélet át nem alakított rendelkezéseit a tagállami ítéletnek megfelelően kell figyelembe venni.
 
 (2) A tagállami ítélet rendelkezéseinek, a kiszabott büntetés vagy alkalmazott intézkedés átalakítására akkor kerülhet sor, ha a tagállami ítélet rendelkezése, a tagállami ítéletben kiszabott büntetés vagy alkalmazott intézkedés törvénysértő lenne, vagy az a magyar törvényben nem ismert. A bíróság
@@ -2476,7 +2501,7 @@ vonatkozó szabályokat is.
 
 123. § (1) A végrehajtás érdekében Magyarországra átszállított elítélttel szemben az átszállítása előtt elkövetett, a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat alapjául szolgáló bűncselekménytől különböző egyéb bűncselekmény tekintetében a 30. §-ban meghatározott specialitás szabályával kapcsolatos rendelkezéseket megfelelően alkalmazni kell azzal, hogy
 
-- a) az egyéb bűncselekményt érintő büntetőeljárás lefolytatásához akkor sem szükséges az elítélt hozzájárulása, ha az elítélt az átszállításhoz hozzájárult,
+- a) az egyéb bűncselekményt érintő büntetőeljárás lefolytatásához, valamint az egyéb bűncselekmény miatt kiszabott szabadságvesztés végrehajtásához akkor sem szükséges az elítélt hozzájárulása, ha az elítélt az átszállításhoz hozzájárult,
 - b) az elítélt specialitás szabályáról történő lemondásával kapcsolatban a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró előtt tehet nyilatkozatot.
 
 (2) A végrehajtás átvételét a bíróság ahhoz a feltételhez kötheti, hogy a tagállami igazságügyi hatóság a 30. § (4) bekezdés alapján a büntetőeljárás lefolytatásához a hozzájárulást megadja.
@@ -2511,6 +2536,8 @@ vonatkozó szabályokat is.
 (4) Ha a bíróság vagy a miniszter a végrehajtás átvételét megtagadja, vagy ha a (2) bekezdésben meghatározott határidőben a 120. § (1) bekezdés szerinti iratok nem érkeznek meg, az elítéltet haladéktalanul szabadon kell bocsátani.
 
 (5) Az (1) bekezdés alapján elrendelt és a (3) bekezdés alapján fenntartott ideiglenes végrehajtási letartóztatásra a 124/B. §-t megfelelően alkalmazni kell.
+
+(6) Az ideiglenes végrehajtási letartóztatás helyett, az (1)–(5) bekezdés megfelelő alkalmazásával a terhelt ideiglenes végrehajtási bűnügyi felügyelete is elrendelhető, ha a terhelt Magyarországon tényleges tartózkodási hellyel rendelkezik, és személyi, családi körülményeire, a végrehajtandó szabadságvesztés vagy alkalmazandó intézkedés mértékére és a terhelt elfogásának körülményeire figyelemmel megállapítható, hogy a büntetés végrehajtásának megkezdése ideiglenes végrehajtási letartóztatás elrendelése nélkül is biztosítható.
 
 #### 48/F. Az elítélt átvétele
 
@@ -3414,7 +3441,7 @@ való megfelelést szolgálja.
 
 E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 41. § (2) bekezdés a) pontja, 71/A. § (3) bekezdése, 71/B. § (4) bekezdése és 145/A. § (2) bekezdés a) pontja értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-7K07188M_0
+8K35810M_0
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
@@ -3505,7 +3532,7 @@ E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 41. § (2) bekezd
 | 84. | költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása bűntette | 397. § | költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztásának bűntette | 310/A. § |
 | 85. | zsarolás és védelmi pénz szedése | kényszerítés bűntette | 195. § | kényszerítés bűntette | 174. § |
 |  | zsarolás bűntette | 367. § | zsarolás bűntette | 323. § |
-| 86. | termékhamisítás és iparjogvédelmi jog megsértése | bitorlás bűntette | 384. § | bitorlás bűntette | 329. § |
+| 86. | (termékhamisítás és iparjogvédelmi jog megsértése) | egészségügyi termék hamisítása bűntette (bitorlás bűntette) | 186. § (384. §) | (bitorlás bűntette) | (329. §) |
 | 87. |  | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése bűntette | 385. § (3)–(4) bekezdés | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése bűntette | 329/A. § (3)–(4) bekezdés |
 | 88. |  | védelmet biztosító műszaki intézkedés kijátszása bűntette | 386. § (3) bekezdés | szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása bűntette | 329/B. § (3) bekezdés |
 | 89. |  | iparjogvédelmi jogok megsértése bűntette | 388. § (2)–(3) bekezdés | iparjogvédelmi jogok megsértése bűntette | 329/D. § (2)–(3) bekezdés |
@@ -3517,7 +3544,7 @@ E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 41. § (2) bekezd
 | 95. | pénzhamisítás elősegítése bűntette | 390. § (2) bekezdés |  |  |
 | 96. |  | készpénz-helyettesítő fizetési eszközzel visszaélés bűntette | 393. § (2)–(3) bekezdés | készpénz-helyettesítő fizetési eszközzel visszaélés bűntette | 313/C. § a (2) és a (7) bekezdés kivételével |
 | 97. | hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme | teljesítményfokozó szerrel visszaélés bűntette | 185. § (1)-(3) bekezdés |  |  |
-| 98. | egészségügyi termék hamisítása | 186. § |  |  |
+| 98. | gyógyszerhamisítás bűntette | 185/A. § |  |  |
 | 99. | nukleáris és radioaktív anyagok tiltott kereskedelme | radioaktív anyaggal visszaélés bűntette | 250. § a (4) bekezdés kivételével | radioaktív anyaggal visszaélés bűntette | 264. § a (4) bekezdés kivételével |
 | 100. | lopott gépjárművek kereskedelme | orgazdaság bűntette | 379. § a (2) bekezdés kivételével | orgazdaság bűntette | 326. § a (2) bekezdés kivételével |
 | 101. |  | költségvetési csalás bűntette, ideértve a 2011. december 31-ig hatályban volt csempészet bűntettét | 396. § (2)–(7) bekezdés | költségvetési csalás bűntette, ideértve a 2011. december 31-ig hatályban volt csempészet bűntettét | 310. § (2)–(7) bekezdés |
@@ -4221,7 +4248,7 @@ E törvény 135/D. § (2) bekezdése értelmében a jelentés az alábbi adatoka
 
 E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-7K07189R_0
+8K35810N_0
 
 |  |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4313,7 +4340,7 @@ E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a 
 | 85. |  |  | költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása bűntette | 397. § | költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása | 310/A. § |
 | 86. |  | zsarolás és védelmi pénz szedése | kényszerítés bűntette | 195. § | kényszerítés bűntette | 174. § |
 | 87. |  |  | zsarolás bűntette | 367. § | zsarolás bűntette | 323. § |
-| 88. |  | termékhamisítás és jogbitorlás | bitorlás bűntette | 384. § | bitorlás bűntette | 329. § |
+| 88. |  | (termékhamisítás és jogbitorlás) | egészségügyi termék hamisítása bűntette (bitorlás bűntette) | 186. § (384. §) | (bitorlás bűntette) | (329. §) |
 | 89. |  |  | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette | 385. § | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette | 329/A. § |
 | 90. |  |  | védelmet biztosító műszaki intézkedés kijátszása vétsége és bűntette | 386. § a (4) bekezdés kivételével | szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása vétsége és bűntette | 329/B. § |
 | 91. |  |  | jogkezelési adat meghamisítása vétsége | 387. § | jogkezelési adat meghamisítása vétsége | 329/C. § |
@@ -4329,7 +4356,7 @@ E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a 
 | 101. |  |  | készpénz-helyettesítő fizetési eszköz hamisítása vétsége | 392. § | készpénz-helyettesítő fizetési eszköz hamisításának vétsége | 313/B. § |
 | 102. |  |  | készpénz-helyettesítő fizetési eszközzel visszaélés vétsége és bűntette | 393. § | készpénz-helyettesítő fizetési eszközzel visszaélés vétsége és bűntette | 313/C. § a (7) bekezdés kivételével |
 | 103. |  | hormontartalmú anyagok és más növekedésserkentők tiltott kereskedelme | teljesítményfokozó szerrel visszaélés vétsége és bűntette | 185. § |  |  |
-| 104. |  | egészségügyi termék hamisítása bűntette | 186. § |  |  |
+| 104. |  | gyógyszerhamisítás bűntette | 185/A. § |  |  |
 | 105. |  | nukleáris és radioaktív anyagok tiltott kereskedelme | radioaktív anyaggal visszaélés bűntette | 250. § a (4) bekezdés kivételével | radioaktív anyaggal visszaélés bűntette | 264. § |
 | 106. |  | lopott járművek kereskedelme | orgazdaság bűntette | 379. § a (2) bekezdés kivételével | orgazdaság bűntette | 326. § (3)–(6) bekezdés |
 | 107. |  |  | költségvetési csalás bűntette, ideértve a 2011. december 31-ig hatályban volt csempészet bűntettét | 396. § (2)–(7) bekezdés | költségvetési csalás bűntette, ideértve a 2011. december 31-ig hatályban volt csempészet bűntettét | 310. § (2)–(7) bekezdés |
@@ -4860,11 +4887,12 @@ A Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol)
 | 9 | zsarolás és védelmi pénz szedése | kényszerítés bűntette | 195. § | kényszerítés bűntette | 174. § |
 | zsarolás bűntette | 367. § | zsarolás bűntette | 323. § |
 | önbíráskodás bűntette | 368. § (1)–(2) bekezdés | önbíráskodás bűntette | 273. § (1)–(2) bekezdés |
-| 10 | iparjogvédelmi jog megsértése és termékhamisítás | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette | 385. § (1)–(4) bekezdés | szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette | 329/A. § |
-| védelmet biztosító műszaki intézkedés kijátszása vétsége és bűntette | 386. § (1)–(3) bekezdés | szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása vétsége és bűntette | 329/B. § (1)–(3) bekezdés |
-| jogkezelési adat meghamisítása vétsége | 387. § | jogkezelési adat meghamisítása vétsége | 329/C. § |
-| iparjogvédelmi jogok megsértése vétsége és bűntette | 388. § | iparjogvédelmi jogok megsértése vétsége és bűntette | 329/D. § |
-| versenytárs utánzása bűntette | 419. § (2) bekezdés | áru hamis megjelölése bűntette | 296. § |
+| 10 | (iparjogvédelmi jog megsértése és termékhamisítás) | egészségügyi termék hamisítása bűntette | 186. § |  |  |
+|  |  | (szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette) | [385. § (1)–(4) bekezdés] | (szerzői vagy szerzői joghoz kapcsolódó jogok megsértése vétsége és bűntette) | (329/A. §) |
+|  |  | (védelmet biztosító műszaki intézkedés kijátszása vétsége és bűntette) | [386. § (1)–(3) bekezdés] | (szerzői vagy szerzői joghoz kapcsolódó jogok védelmét biztosító műszaki intézkedés kijátszása vétsége és bűntette) | [329/B. § (1)–(3) bekezdés] |
+|  |  | (jogkezelési adat meghamisítása vétsége) | (387. §) | (jogkezelési adat meghamisítása vétsége) | (329/C. §) |
+|  |  | (iparjogvédelmi jogok megsértése vétsége és bűntette) | (388. §) | (iparjogvédelmi jogok megsértése vétsége és bűntette) | (329/D. §) |
+|  |  | (versenytárs utánzása bűntette) | [419. § (2) bekezdés] | (áru hamis megjelölése bűntette) | (296. §) |
 | 11 | okmányhamisítás és azokkal való kereskedelem | közokirat-hamisítás vétsége és bűntette | 342. § | közokirat-hamisítás vétsége és bűntette | 274. § |
 | hivatalos személy által elkövetett közokirat-hamisítás bűntette | 343. § | hivatalos személy által elkövetett közokirat-hamisítás bűntette | 275. § |
 | okirattal visszaélés vétsége | 346. § (1) bekezdés | visszaélés okirattal vétsége | 277. § (1) bekezdés |
@@ -4902,7 +4930,8 @@ A Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol)
 | tiltott állatviadal szervezése vétsége és bűntette | 247. § | tiltott állatviadal szervezése vétsége és bűntette | 266/A. § |
 | a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 248. § | a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 281/A. § (1)–(3) bekezdés |
 | ózonréteget lebontó anyaggal visszaélés bűntette | 249. § (1) bekezdés |  |  |
-| 19 | hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme | teljesítményfokozó szerrel visszaélés bűntette | 185. § (1)–(3) bekezdés |  |  |
+| 19 | (hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme) | (teljesítményfokozó szerrel visszaélés bűntette) | [185. § (1)–(3) bekezdés] |  |  |
+| gyógyszerhamisítás bűntette | 185/A. § |  |  |
 | 20 | terrorizmus | terrorcselekmény bűntette | 314. § 315. § a (3) bekezdés kivételével 316. § | terrorcselekmény bűntette | 261. § (kivéve a (3), a (6) és a (9) bekezdést) |
 | terrorcselekmény feljelentésének elmulasztása bűntette | 317. § | terrorcselekmény | 261. § (8) bekezdés |
 | terrorizmus finanszírozása bűntette | 318. § | terrorcselekmény | 261. § |

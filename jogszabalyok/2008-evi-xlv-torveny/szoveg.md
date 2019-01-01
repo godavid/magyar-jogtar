@@ -79,9 +79,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával az érintett kö
 
 8. § (1) Az eljárásban – ideértve a közjegyző határozata ellen előterjesztett fellebbezés elbírálása iránti bírósági eljárást is – nincs helye költségmentességnek és költségfeljegyzési jognak.
 
-(2) A közjegyző az általa felszámított munkadíját és költségtérítését a külön jogszabály szerinti díjjegyzékben állapítja meg.
+(2) A közjegyző az általa felszámított munkadíját és költségtérítését a külön jogszabály szerinti költségjegyzékben állapítja meg.
 
-(3) A fél a közjegyző által a díjjegyzékben feltüntetett munkadíj és költségtérítés összegét külön jogszabályban meghatározott módon kifogásolhatja.
+(3) A fél a közjegyző által a költségjegyzékben feltüntetett munkadíj és költségtérítés összegét külön jogszabályban meghatározott módon kifogásolhatja.
 
 (4) Az eljárásban – ha az arra vonatkozó jogszabály másként nem rendelkezik – a felek a felmerült költségeiket maguk viselik, a nem általuk előlegezett vagy nem a feleknél felmerült költségek viselésére pedig a felek egyetemlegesen kötelesek.
 
@@ -435,8 +435,8 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 36. § Ezen alcím rendelkezéseit
 
-- a) a váltó és csekk semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidőt egy hónapra le kell szállítani,
-- b) az okiratok semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidő egy hónapra leszállítható,
+- a) a váltó és csekk semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidőt egy hónapra le kell szállítani, és a 34. § alapján hozott végzéseit a közjegyző a központi értéktárral nem közli,
+- b) az okiratok semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidő egy hónapra leszállítható, és a 34. § alapján hozott végzéseit a közjegyző a központi értéktárral nem közli,
 - c) az állam által kibocsátott, névre szóló, a Polgári Törvénykönyv 6:569. § (6) bekezdése szerinti negatív rendeleti záradékkal ellátott, hitelviszonyt megtestesítő értékpapír semmissé nyilvánítására is megfelelően alkalmazni kell azzal az eltéréssel, hogy a hirdetményi határidőt egy hónapra le kell szállítani abban az esetben, amennyiben az eljárást az értékpapír első tulajdonosa, továbbá engedményezés esetén az első tulajdonos és az engedményes közösen kezdeményezi.
 
 ### A bejegyzett élettársi kapcsolat közjegyző általi megszüntetése
@@ -472,7 +472,7 @@ eredeti vagy közjegyző által hitelesített másolati példányát.
 
 (6) Ha a meghallgatáson – a halasztás esetét kivéve – bármelyik fél személyesen nem jelenik meg, a közjegyző az eljárást megszünteti.
 
-36/C. § (1) Ha a közjegyző a feleknek az őket egymással szemben terhelő, jogszabályon alapuló tartásról, a közös lakás használatáról, valamint – az ingatlanon fennálló közös tulajdon megszüntetése kivételével – az élettársi közös vagyon megosztásáról szóló egyezségét jóváhagyta, a felek bejegyzett élettársi kapcsolatát végzéssel megszünteti.
+36/C. § (1) A közjegyző a felek bejegyzett élettársi kapcsolatát végzéssel megszünteti, ha az őket egymással szemben terhelő, jogszabályon alapuló tartásról, valamint a közös lakás használatáról szóló egyezségüket jóváhagyta. Az élettársi közös vagyon megosztásáról szóló egyezséget a közjegyző kérelemre jóváhagyhatja, ugyanakkor az ilyen egyezség jóváhagyása a felek bejegyzett élettársi kapcsolata megszüntetésének nem feltétele.
 
 (2) Ha az egyezség nem hagyható jóvá, a közjegyző az egyezség jóváhagyását megtagadja, és a kérelmet elutasítja. A kérelmet akkor is el kell utasítani, ha megállapítható, hogy a bejegyzett élettársi kapcsolat közjegyző által történő megszüntetésének feltételei nem állnak fenn.
 

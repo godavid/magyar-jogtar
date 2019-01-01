@@ -92,7 +92,17 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 12. § A Be. 82. § c) pontja alkalmazásában külön döntés nélkül különleges bánásmódot igénylő személynek minősül az 1978. évi IV. törvény szerinti nemi erkölcs elleni bűncselekmény sértettje is.
 
-#### 13. §
+13. § (1) A Be. 234. § (2) bekezdése alkalmazásában bírói engedélyhez kötött leplezett eszközök alkalmazhatók az 1978. évi IV. törvény szerinti három évig terjedő szabadságvesztéssel büntetendő, szándékosan elkövetett következő bűncselekmények esetén is:
+
+- a) a visszaélés kábítószer-prekurzorral,
+- b) a megrontás, az üzletszerű kéjelgés elősegítése, a tiltott pornográf felvétellel visszaélés,
+- c) a vesztegetés feljelentésének elmulasztása kivételével a közélet tisztasága elleni bűncselekmények,
+- d) a választás, a népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje elleni bűncselekmény,
+- e) a tőkebefektetési csalás.
+
+(2) A Be. 234. § (3) bekezdése alkalmazásában bírói engedélyhez kötött leplezett eszközök alkalmazhatók az 1978. évi IV. törvény szerinti visszaélés minősített adattal cím alá tartozó szándékosan elkövetett bűncselekmények esetén is.
+
+(3) A Be. 253. § (1) bekezdése alkalmazásában a bírói engedélyhez kötött leplezett eszköz alkalmazásának eredménye az engedélyben meg nem jelölt személynek az engedélyben meg nem jelölt bűncselekménye vonatkozásában az 1978. évi IV. törvény szerinti öt évig terjedő vagy ennél súlyosabb szabadságvesztéssel büntetendő állam elleni bűncselekmények bizonyítására is felhasználható.
 
 14. § A Be. 354. § (5) bekezdése alkalmazásában zár alá vételt elsősorban a terhelt rendelkezése alatt álló vagyonra kell elrendelni akkor is, ha az 1978. évi IV. törvény 77/C. § (1) bekezdés alkalmazásának lehet helye.
 
@@ -102,7 +112,7 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 17. § A Be. 398. § (1) bekezdés g) pontjának alkalmazásában ügyészség és a nyomozó hatóság megszünteti az eljárást akkor is, ha a legfőbb ügyésznek az 1978. évi IV. törvény 4. § (3) bekezdésében meghatározott rendelkezése hiányzik.
 
-18. § A Be. 218. § (4) bekezdés rendelkezéseit alkalmazni kell akkor is, ha a vádemelés az 1978. évi IV. törvény szerinti kábítószerrel visszaélés (1978. évi IV. törvény 282–282/C. §) miatt történik.
+#### 18. §
 
 19. § A Be. 420. § (4) bekezdés b) pontjának alkalmazásában az ügyészség az eljárás folytatását akkor is elrendeli, ha az ügyészség a gyanúsítottal szemben a büntetőeljárást az 1978. évi IV. törvény 283. § (1) bekezdésére figyelemmel függesztette fel és az 1978. évi IV. törvény 282/A. §-a, 282/B. § (2) bekezdés a) és b) pontja, e pontok vonatkozásában a (3), (4) és (6) bekezdése, valamint a (7) bekezdés b) pontja és a 282/C. § (2) bekezdése, a (3) bekezdés II. fordulata, a (4) bekezdés II. fordulata, az (5) bekezdés a) pontjának II. fordulata, valamint a (3) bekezdés II. fordulatára figyelemmel az (5) bekezdés b) pontja szerinti visszaélés kábítószerrel miatt gyanúsítottként hallgatják ki, vagy ez a gyanúsított ismeretlen helyen vagy külföldön tartózkodása miatt nem lehetséges.
 
@@ -521,7 +531,7 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
 
 321. § E törvény
 
-- a) 18. §-a, 113. §-a, 258. § (1)–(10) és (13) bekezdése, valamint 263. §-a az Alaptörvény 46. cikk (6) bekezdése,
+- a) 13. §-a, 113. §-a, 258. § (1)–(10) és (13) bekezdése, valamint 263. §-a az Alaptörvény 46. cikk (6) bekezdése,
 - b) 288. § (2) bekezdése az Alaptörvény IX. cikk (3) bekezdése,
 - c) 316. §-a az Alaptörvény 4. cikk (2) és (5) bekezdése
 
