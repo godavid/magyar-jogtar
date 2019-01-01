@@ -930,6 +930,8 @@ továbbítható.
 
 (9) A nevelési-oktatási intézmény nyilvántartja továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükségesek. E célból azok az adatok kezelhetők, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
 
+(10) A köznevelési intézmény a nyilvántartott gyermek és tanulói adatokat a jogviszony megszűnésétől számított tíz évig, az alkalmazottak, óraadók adatait a jogviszony megszűnésétől számított öt évig kezeli.
+
 42. § (1) A pedagógust, a nevelő és oktató munkát közvetlenül segítő alkalmazottat, továbbá azt, aki közreműködik a gyermek, tanuló felügyeletének az ellátásában, hivatásánál fogva harmadik személyekkel szemben titoktartási kötelezettség terheli a gyermekkel, a tanulóval és családjával kapcsolatos minden olyan tényt, adatot, információt illetően, amelyről a gyermekkel, tanulóval, szülővel való kapcsolattartás során szerzett tudomást. E kötelezettség a foglalkoztatási jogviszony megszűnése után is határidő nélkül fennmarad. A titoktartási kötelezettség nem terjed ki a nevelőtestület tagjainak egymás közti, valamint a gyermekvédelmi jelzőrendszer tagjaival történő, a tanuló fejlődésével összefüggő megbeszélésre.
 
 (2) A gyermek és a kiskorú tanuló szülőjével minden, a gyermekével összefüggő adat közölhető, kivéve ha az adat közlése súlyosan sértené a gyermek, tanuló testi, értelmi vagy erkölcsi fejlődését.
@@ -942,140 +944,23 @@ továbbítható.
 
 (3) A 41–43. §-ban felsorolt adatok statisztikai célra felhasználhatók, és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon átadhatók.
 
-44. § (1) A KIR központi nyilvántartás keretében a nemzetgazdasági szintű tervezéshez szükséges fenntartói, intézményi, foglalkoztatási, gyermek- és tanulói adatokat tartalmazza. A KIR keretében folyó adatkezelés tekintetében az adatkezelő a hivatal.
-
-(2) A köznevelési feladatokat ellátó intézmény, a jegyző, a közneveléssel összefüggő igazgatási, ellenőrzési tevékenységet végző közigazgatási szerv és az e törvényben meghatározott feladatok végrehajtásában közreműködő intézményfenntartók, az intézmények és az intézményi tanácsok adatokat szolgáltatnak a KIR-be.
-
-(2a) A KIR központi nyilvántartás adataihoz a hivatal a köznevelési feladatokat ellátó hatóság részére – feladatellátásához szükséges adatok tekintetében – közvetlen hozzáférést biztosít.
-
-(3) A KIR adatkezelője oktatási azonosító számot ad ki annak,
-
-- a) aki óvodai jogviszonyban áll,
-- b) aki tanulói jogviszonyban áll,
-- c) akit pedagógus-munkakörben alkalmaznak,
-- d) akit nevelő és oktató munkát közvetlenül segítő munkakörben alkalmaznak,
-- e) akit pedagógiai előadó vagy pedagógiai szakértő munkakörben alkalmaznak,
-- f) akit óraadóként foglalkoztatnak,
-- g) aki pedagógiai szakszolgálati ellátásban részesül és nem tartozik az a)–f) pontban felsoroltak közé.
-
-(4) Egy személynek csak egy oktatási azonosítója lehet, ennek biztosítása érdekében a KIR személyi nyilvántartása, valamint a felsőoktatási információs rendszer hallgatói és alkalmazotti személyi törzsének adatállománya összekapcsolható.
-
-(5) A (3) bekezdés a)–b) pontja szerinti nyilvántartás (a továbbiakban: tanulói nyilvántartás) a gyermek, tanuló
-
-- a) nevét,
-- b) nemét,
-- c) születési helyét és idejét,
-- d) társadalombiztosítási azonosító jelét,
-- e) oktatási azonosító számát,
-- f) anyja nevét,
-- g) lakóhelyét, tartózkodási helyét,
-- h) állampolgárságát,
-- i) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét,
-- j) diákigazolványának számát,
-- k) jogviszonyával kapcsolatban azt, hogy magántanuló-e, tanköteles-e, jogviszonya szünetelésének kezdetét és befejezésének idejét,
-- l) jogviszonya keletkezésének, megszűnésének jogcímét és idejét,
-- m) nevelési-oktatási intézményének nevét, címét, OM azonosítóját,
-- n) jogviszonyát megalapozó köznevelési alapfeladatot,
-- o) nevelésének, oktatásának helyét,
-- p) felnőttoktatás esetében az oktatás munkarendjével kapcsolatos adatokat,
-- q) tanulmányai várható befejezésének idejét,
-- r) évfolyamát,
-- s) azon adatát, hogy melyik évfolyamon, mely országban vett részt a 9. § (4) bekezdése alapján szervezett határon túli kiránduláson tartalmazza.
-
-(6) A tanulói nyilvántartásból személyes adat – az érintetten kívül – csak a tanulói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, valamint a személyiadat- és lakcímnyilvántartást kezelő szerv részére. A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartást kezelő szervnek. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartást kezelő szerv kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyiadat- és lakcímnyilvántartást kezelő szerv az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át. A tanulói nyilvántartásban adatot a tanulói jogviszony megszűnésére vonatkozó bejelentéstől számított harminc évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
-
-(6a) A tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából az (5) bekezdés a)–c), f)–h), j)–m) és o) pontjában foglalt adatok a rendőrség részére továbbíthatók.
-
-(6b) Az (5) bekezdés a), c), e)–h), m)–o) pontjában foglalt adatok
-
-- a) az óvodai nevelésben részvételre kötelezett gyermek esetében a jegyző részére, abból a célból, hogy gondoskodjon az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, továbbá
-- b) a tanköteles gyermek, tanuló esetében a köznevelési feladatot ellátó hatóság részére, abból a célból, hogy gondoskodjon a tankötelesek nyilvántartásáról, továbbíthatók.
-
-(7) A (3) bekezdés c)–f) pontja szerinti nyilvántartás (a továbbiakban: alkalmazotti nyilvántartás) tartalmazza az alkalmazott
-
-- a) nevét, anyja nevét, nemét, állampolgárságát,
-- b) születési helyét és idejét,
-- c) oktatási azonosító számát, pedagógusigazolványa számát,
-- d) végzettségére és szakképzettségére vonatkozó adatokat: felsőoktatási intézmény nevét, a diploma számát, a végzettséget, szakképzettséget, a végzettség, szakképzettség, a pedagógus-szakvizsga, PhD megszerzésének idejét,
-- e) munkaköre megnevezését,
-- f) munkáltatója nevét, címét, valamint OM azonosítóját,
-- g) munkavégzésének helyét,
-- h) jogviszonya kezdetének idejét, megszűnésének jogcímét és idejét,
-- i) vezetői beosztását,
-- j) besorolását,
-- k) jogviszonya, munkaviszonya időtartamát,
-- l) munkaidejének mértékét,
-- m) tartós távollétének időtartamát,
-- n) lakcímét,
-- o) elektronikus levelezési címét,
-- p) előmenetelével, pedagógiai-szakmai ellenőrzésével, pedagógus-továbbképzési kötelezettségének teljesítésével kapcsolatos adatok közül
-  - pa) a szakmai gyakorlat idejét,
-  - pb) esetleges akadémiai tagságát,
-  - pc) munkaidő-kedvezményének tényét,
-  - pd) minősítő vizsgájának kinevezési okmányban, munkaszerződésben rögzített határidejét,
-  - pe) minősítő vizsgájának, minősítő eljárásra történő jelentkezésének időpontját, a minősítő vizsga és a minősítési eljárás időpontját és eredményét,
-  - pf) az alkalmazottat érintő pedagógiai-szakmai ellenőrzés időpontját, megállapításait.
-
-(8) Óraadó esetében a munkakörként az oktatott tantárgy, foglalkozás megnevezését kell megadni.
-
-(9) Az alkalmazotti nyilvántartásból személyes adat – az érintetten kívül – csak az egyes, a foglalkoztatáshoz kapcsolódó juttatások jogszerű igénybevételének megállapítása céljából továbbítható, a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott részére, továbbá az adatok pontosságának, teljességének, időszerűségének biztosítása, valamint a pedagógusigazolvány igénylésével kapcsolatos eljárás keretében azonosítás céljából a személyiadat- és lakcímnyilvántartó szerv részére, valamint az országos pedagógiai-szakmai ellenőrzések, illetve a pedagógusok minősítő vizsgájának, minősítő eljárásának lefolytatása céljából a hivatal részére.
-
-(10) A KIR-ben adatot az érintett foglalkoztatásának megszűnésére vonatkozó bejelentéstől számított tíz évig lehet kezelni, kivéve, ha ez alatt az idő alatt az érintettet ismét bejelentik a nyilvántartásba.
-
-(11) A KIR adatkezelője a KIR-ben nyilvántartott személyek természetes személyazonosító adatait és lakcímét azonosítás céljából elektronikus úton megküldi a személyiadat- és lakcímnyilvántartást kezelő szervnek. A sikeres azonosítást követően a személyiadat- és lakcímnyilvántartást kezelő szerv kapcsolati kódot képez, amelyet azonosítás céljából megküld a KIR adatkezelőjének. A személyiadat- és lakcímnyilvántartást kezelő szerv az azonosított természetes személy természetes személyazonosító adatainak és lakcímének a személyi adat- és lakcímnyilvántartásban bekövetkezett változásáról a kapcsolati kódon értesíti a KIR adatkezelőjét. A KIR adatkezelője a jelen bekezdés szerint tudomására jutott adatváltozást a KIR-ben a köznevelési intézmény egyidejű értesítésével hivatalból vezeti át.
-
-(12) A társadalombiztosítási azonosító jel bejegyzésére irányuló kérelem esetén a társadalombiztosítási azonosító jel hitelességét a KIR adatkezelője az országos egészségbiztosítási szerv nyilvántartásával elektronikus úton megfelelteti. Eltérés esetén a személyi- és lakcím adatok helyességére vonatkozó rendelkezéseket kell alkalmazni.
-
-(13) Az e törvény alapján létrehozott intézményi tanácsról a 73. § (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás tartalmazza:
-
-- a) az intézményi tanács nevét,
-- b) az intézményi tanács székhelyét,
-- c) az érintett iskola nevét, OM azonosítóját,
-- d) az elnök nevét,
-- e) az elnök elérhetőségeit (telefonszámát, telefax, elektronikus levelezési cím),
-- f) nyilvántartásba vételi számát.
-
-(14) A KIR adatkezelője a KIR-ben nyilvántartott (5), (7) és (8) bekezdésben meghatározott adatokat továbbíthatja adategyeztetés céljából annak a köznevelési intézménynek, amellyel a gyermek, tanuló, alkalmazott, óraadó jogviszonyban áll, és amely az oktatásért felelős miniszter által jóváhagyott iskolaadminisztrációs rendszert használ.
-
-(15) A köznevelési intézménytől – az Országos Statisztikai Adatgyűjtési Programban történő adatgyűjtés kivételével – nem kérhető olyan adatfeldolgozás, statisztikai célú adatszolgáltatás, amely a KIR-ben rendelkezésre álló adatokból elkészíthető. Ezek elkészítése a KIR adatkezelőjétől kérhető.
+#### 44. §
 
 44/A. § (1) A pedagógiai szakszolgálati tevékenységek során alkalmazott INYR a gyermekek, tanulók teljes körű pedagógiai szakszolgálati ellátása, fejlődésük figyelemmel kísérése céljából a gyermekekhez, tanulókhoz kapcsolódóan, a számukra ellátást nyújtó intézmények, nevelési-oktatási intézmények és a pedagógiai szakszolgálati intézmények feladatellátási adatainak nyilvántartását, továbbá az ellátást igénybevevők ellátási eseményeinek nyomon követését szolgáló országos informatikai nyilvántartó rendszer.
 
 (2) Az INYR keretében folyó adatkezelés tekintetében a hivatal az adatkezelő.
 
-(3) A KIR adatkezelője
+(3)
 
-- a) a 44. § (5) bekezdés a)–j) és m)–o) pontjában foglalt adatokat,
-- b) a gyermek, tanuló pedagógiai szakszolgálati ellátásban, gyógypedagógiai nevelésében-oktatásában, fejlesztő foglalkoztatásában közreműködő pedagógus, továbbá szakorvos 44. § (7) bekezdés a)–m) pontjában foglalt adatait
+(4)
 
-a gyermek, tanuló pedagógiai szakszolgálati ellátása céljából továbbítja az INYR részére.
+(5)
 
-(4) A gyermek, tanuló pedagógiai szakszolgálati ellátása során keletkezett adatokat a külön jogszabályban meghatározott feladatellátási kötelezettséggel rendelkező pedagógiai szakszolgálati intézménynek a gyermekkel, tanulóval közvetlenül foglalkozó szakembere köteles az INYR-be rögzíteni.
+(6)
 
-(5) Az ellátott gyermekre, tanulóra vonatkozó személyes adatokat az INYR-ből kizárólag
+#### 44/B. §
 
-- a) a pedagógiai szakszolgálatnak a gyermeket, tanulót közvetlenül ellátó munkatársa,
-- b) a gyermeket, tanulót közvetlenül ellátó pedagógiai szakszolgálati intézmény vezetője ismerheti meg.
-
-(6) Az INYR-ben tárolt személyes adatokat az adatkezelő a pedagógiai szakszolgálati intézmény ellátásának utolsó igénybevételétől számított tizenöt év elteltével törli a nyilvántartásból.
-
-44/B. § Az INYR
-
-- a) a pedagógiai szakszolgálati ellátásban részesülő személy
-  - aa) 44. § (5) bekezdés a)–j) és m)–o) pontban foglaltak szerinti adatait, valamint hátrányos vagy halmozottan hátrányos helyzetét,
-  - ab) szülője, törvényes képviselője 41. § (4) bekezdés b) pontban foglalt adatait,
-- b) az ellátott adataihoz kapcsolva az ellátott egészségügyi, továbbá a pedagógiai szakszolgálaton kívüli köznevelési ellátása során keletkezett azon dokumentumok kiállításának időpontját, tartalmát, kibocsátójának nevét, amelyek a pedagógiai szakszolgálati ellátást megelőzően keletkeztek, az ellátott vagy szülője, törvényes képviselője rendelkezésére állnak és az ellátáshoz feltétlenül szükségesek,
-- c) az ellátott adataihoz kapcsolva a pedagógiai szakszolgálati ellátására vonatkozóan
-  - ca) a szűrést, vizsgálatot végző intézmény nevét, címét, a szűrés eredményét, a szűrés, vizsgálat kérelmezőjének nevét, címét, elérhetőségét, a szűrés, vizsgálat módszerét, eszközét, eredményét, megállapításait, a szűrési, vizsgálati eljárásban szereplő szakemberek nevét, végzettségét, szakképzettségét, a szűrés, vizsgálat időpontját, időtartamát, helyét,
-  - cb) az állapotmegismerést végző intézmény nevét, címét, az állapotmegismerés kérelmezőjének nevét, címét, elérhetőségét, az állapotmegismerés időpontját, időtartamát, helyét, az állapotmegismerés módszerét, eszközét, az állapotmegismerés eredményét és megállapításait, az eljárásban közreműködő szakember nevét, végzettségét, szakképzettségét,
-  - cc) a szűrés, vizsgálat, állapotmegismerés alapján megállapított szükséges segítő beavatkozás megnevezését, óraszámát, időtartamát, módszerét, eszközét, helyszínét, a segítő beavatkozást végző intézmény adatait, a részt vevő szakember nevét, végzettségét, szakképzettségét, a segítő beavatkozás eredményét,
-  - cd) a szűrés, vizsgálat, állapotmegismerés eredményével kapcsolatos szülői nyilatkozatot, a szülői felülvizsgálati kérelem adatait,
-  - ce) a felülvizsgálat okát, kérelmezőjét, legutóbbi vizsgálat, felülvizsgálat óta eltelt időt, felülvizsgálatot végző intézmény nevét, címét, a felülvizsgálat módszerét, eszközét, időpontját, időtartamát, helyszínét, a felülvizsgálatot végző szakemberek nevét, végzettségét, szakképzettségét, a felülvizsgálat eredményét,
-- d) a pedagógiai szakszolgálati intézmények működéséről szóló jogszabályban meghatározott közigazgatási hatósági eljárás adatai közül az eljárás kezdeményezőjének nevét, címét, elérhetőségét, az eljárás okát, az eljárás eredményét, a közigazgatási hatósági eljárás ügyszámát
-
-tartja nyilván.
-
-44/C. § A 44. §-ban felsorolt adatokat – a 44. § (5) bekezdés i) pontjában meghatározott adatok kivételével – a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+#### 44/C. §
 
 #### 27. A gyermekek, a tanulók kötelességei és jogai, a tankötelezettség
 
@@ -1193,7 +1078,7 @@ dönt.
 
 (19) A diákigazolványhoz a Nektv. 2. § 9. pontja szerinti másodlagos kártya rendelhető.
 
-(20) A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály másként nem rendelkezik – a köznevelési intézmény a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton terjeszti elő a diákigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A köznevelési intézmény az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A KIR adatkezelője a köznevelési intézmény útján közli a tanulóval a diákigazolvány kiállítására irányuló eljárás során hozott döntéseket. A KIR adatkezelője a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a köznevelési intézmény adatait, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet. A KIR adatkezelője, valamint a diákigazolvány elkészítésében közreműködők a diákigazolvány elkészítése körében tudomásukra jutott személyes adatot a diákigazolvány érvényességének megszűnését követő öt évig kezelhetik.
+(20) A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály másként nem rendelkezik – a köznevelési intézmény a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton terjeszti elő a diákigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A köznevelési intézmény az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszeren keresztül, elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A KIR adatkezelője a köznevelési intézmény útján közli a tanulóval a diákigazolvány kiállítására irányuló eljárás során hozott döntéseket. A KIR adatkezelője a diákigazolvány igényléséhez és előállításához szükséges személyes adatokat, a köznevelési intézmény adatait, a diákigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet.
 
 (21) Az iskola a tanuló kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a KIR adatkezelője részére.
 
@@ -1518,16 +1403,16 @@ fegyelmi büntetés szabható ki.
 
 (4a) A hivatal a szaktanácsadókról névjegyzéket vezet. A hivatal döntése elleni fellebbezést az oktatásért felelős miniszter bírálja el.
 
-(4b) A szaktanácsadói névjegyzék tartalmazza a szaktanácsadó
+(4b) A köznevelési szaktanácsadói névjegyzékben nyilvántartott szaktanácsadó alábbi adatai nyilvánosak:
 
-- a) természetes személyazonosító és lakcímadatát,
-- b) végzettségét és szakképzettségét,
-- c) a szakterületének jogszabályban meghatározott megnevezését,
-- d) nyilvántartásba-vételi számát.
+- a) családi és utóneve,
+- b) elektronikus levelezési címe,
+- c) a szakterületének jogszabályban meghatározott megnevezése,
+- d) nyilvántartásba-vételi száma.
 
-(4c) A (4a) bekezdés szerinti névjegyzék a (4b) bekezdés c)–d) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4c)
 
-(4d) A szaktanácsadói névjegyzékbe történő felvételre, a névjegyzékből történő törlésre és eltiltásra, a hatósági ellenőrzésre és a személyes adatok kezelésre vonatkozó eljárás során az 82. § (9)–(12) bekezdését kell alkalmazni.
+(4d) A köznevelési szaktanácsadói névjegyzékbe történő felvételre, a névjegyzékből történő törlésre és eltiltásra, a hatósági ellenőrzésre és a személyes adatok kezelésre vonatkozó eljárás során az 82. § (9)–(12) bekezdését kell alkalmazni.
 
 (5) A köznevelési intézmények feladatainak ellátásában gazdasági, ügyviteli, műszaki, kisegítő és más alkalmazottak vesznek részt. Gazdasági, ügyviteli, műszaki, kisegítő munkakörökben az ellátandó feladatoktól függően ajánlott megoldani a foglalkoztatást. Az állami fenntartású nevelési-oktatási és pedagógiai szakszolgálati intézményekben – a honvédelemért felelős miniszter vagy a rendvédelmi szervet irányító miniszter által alapított és fenntartott, intézmények kivételével – gazdasági, ügyviteli, műszaki, kisegítő munkakörökben alkalmazottak létszáma legfeljebb a pedagógusok teljes munkaidőre számított létszámának húsz százaléka, szakképző iskolában harminc százaléka, kollégiumban ötven százaléka lehet.
 
@@ -1626,7 +1511,7 @@ fegyelmi büntetés szabható ki.
 
 (3e) A pedagógusigazolványhoz a Nektv. szerinti másodlagos kártya rendelhető.
 
-(4) A pedagógusigazolvány elkészítésére irányuló eljárásban a munkáltató – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel, elektronikus úton terjeszti elő a pedagógusigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A munkáltató az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A pedagógusigazolvány igénylésének további szabályait jogszabály határozza meg. A KIR adatkezelője a pedagógusigazolvány igényléséhez és előállításához szükséges személyes adatokat, a pedagógusigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet. A KIR adatkezelője és a pedagógusigazolvány elkészítésében közreműködők a pedagógusigazolvány elkészítése körében tudomásukra jutott személyes adatot a pedagógusigazolvány érvényességének megszűnését követő öt évig kezelhetik.
+(4) A pedagógusigazolvány elkészítésére irányuló eljárásban a munkáltató – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel, elektronikus úton terjeszti elő a pedagógusigazolvány elkészítésére irányuló kérelmet, és tesz jogszabályban meghatározott más eljárási cselekményeket. A munkáltató az eljárás során – ha jogszabály másként nem rendelkezik – a központi adatszolgáltatásra alkalmas rendszerrel elektronikus úton tart kapcsolatot a KIR adatkezelőjével. A pedagógusigazolvány igénylésének további szabályait jogszabály határozza meg. A KIR adatkezelője a pedagógusigazolvány igényléséhez és előállításához szükséges személyes adatokat, a pedagógusigazolvány egyedi azonosítóját, a kiadott érvényesítő matrica sorszámát, valamint a jogosultság ellenőrzéséhez és nyilvántartásához szükséges további, személyes adatnak nem minősülő adatot tartalmazó nyilvántartást vezet.
 
 (5) A munkáltató a pedagógus kérelmét a kérelem benyújtásától számított nyolc napon belül továbbítja a KIR adatkezelője részére.
 
@@ -1815,7 +1700,7 @@ fegyelmi büntetés szabható ki.
 
 63/L. § (1) A 63/A. § (1) bekezdésében meghatározott intézményfenntartók a jogviszony keletkezésétől számított harminc napon belül kötelesek a kinevezés tényéről, a Kar adat-nyilvántartási körébe tartozó adatokról és azok változásáról értesítést küldeni a Kar intézményének székhelye szerint illetékes területi szervéhez.
 
-(2) Az Országos szakértői és vizsgaelnöki névjegyzék, valamint a szaktanácsadói névjegyzék vezetéséért felelős szerv köteles a névjegyzékről és annak módosulásáról értesítést küldeni a Karnak.
+(2) Az országos köznevelési szakértői és vizsgaelnöki névjegyzék, valamint a köznevelési szaktanácsadói névjegyzék vezetéséért felelős szerv köteles a névjegyzékről és annak módosulásáról értesítést küldeni a Karnak.
 
 (3) A Kar a tagjainak az alábbi adatait tartja nyilván:
 
@@ -1987,7 +1872,7 @@ foglalkoztatott tekintetében is.
 
 68. § (1) A tankerületi központ által fenntartott köznevelési intézmény, többcélú intézmény vezetőjét – az e törvényben foglalt szervezetek, közösségek, személyek és a fenntartó véleményének kikérésével – az oktatásért felelős miniszter bízza meg öt évre. Az állami köznevelési intézmény, többcélú intézmény vezetője megbízásának visszavonásáról a megbízási jogkör gyakorlója dönt.
 
-(2) A tankerületi központ által fenntartott köznevelési intézmény, továbbá a szakképzésért és felnőttképzésért felelős miniszter által fenntartott szakképzési centrum kivételével az állami fenntartású, az egyházi és magán köznevelési intézmény, valamint a többcélú intézmény vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
+(2) A tankerületi központ által fenntartott köznevelési intézmény, továbbá a szakképzési centrum kivételével az állami fenntartású, az egyházi és magán köznevelési intézmény, valamint a többcélú intézmény vezetőjét az oktatásért felelős miniszter egyetértésével a fenntartó bízza meg, a munkáltatói jogokat a fenntartó gyakorolja. A miniszter az egyetértését csak jogszabálysértés esetén tagadhatja meg.
 
 (3) Az önálló intézményként működő köznevelési intézmény élén – a munkáltató döntésétől függően – igazgató vagy főigazgató áll. Az önálló intézmény tagintézményeként vagy intézményegységeként működő kollégium élén kollégiumvezető, más köznevelési intézményegység élén tagintézmény-vezető, intézményegység-vezető áll. A tagintézmény, intézményegység vezetője igazgatói megbízást, az intézményvezető-helyettes, tagintézményvezető-helyettes, intézményegységvezető-helyettes igazgatóhelyettesi megbízást is kaphat.
 
@@ -2106,6 +1991,15 @@ dönt.
 - e) ügyrend alapján működik, az ügyrendet az intézményi tanács dolgozza ki és fogadja el azzal, hogy az elfogadott ügyrendet az intézményi tanács elnöke legkésőbb az elfogadást követő tizenötödik napon megküldi a hivatalnak jóváhagyásra,
 - f) ügyrendjének a hivatal által történt jóváhagyását követően az intézményi tanácsot a hivatal felveszi a hatósági nyilvántartásba,
 - g) képviseletét az elnök látja el.
+
+(5a) Az e törvény alapján létrehozott intézményi tanácsról a 73. § (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás az alábbi adatokat tartalmazza:
+
+- a) az intézményi tanács neve,
+- b) az intézményi tanács székhelye,
+- c) az érintett iskola neve, OM azonosítója,
+- d) az elnök neve,
+- e) az elnök elérhetősége (telefonszám, telefax, elektronikus levelezési cím),
+- f) nyilvántartásba-vételi száma.
 
 (6) Az intézményi tanács az iskola működésének támogatására alapítványt hozhat létre.
 
@@ -2276,7 +2170,7 @@ figyelembe veszi.
 
 81. § A középfokú iskola minden év október 31-éig értesíti az általános iskolát arról, hogy az ott végzett tanulók – a középfokú iskola első két évfolyamán – a tanítási év végén milyen tanulmányi eredményt értek el. A középfokú iskola megküldi az általános iskolának a tanuló nevét, oktatási azonosítóját, továbbá az elért tanulmányi eredményeket. Az általános iskola a megküldött adatokat feldolgozza, és személyazonosításra alkalmatlan módon az iskola honlapján, annak hiányában a helyben szokásos módon nyilvánosságra hozza.
 
-#### 47. Az Országos szakértői és érettségi vizsgaelnöki névjegyzék
+#### 47. Az országos köznevelési szakértői és vizsgaelnöki névjegyzék
 
 82. § (1) Ha e törvény vagy a felhatalmazása alapján kiadott jogszabály köznevelési szakértő igénybevételét írja elő, vagy szakértő igénybevételéhez jogkövetkezményt állapít meg, köznevelési szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a személynek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll a köznevelési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, és
 
@@ -2287,37 +2181,34 @@ figyelembe veszi.
 
 (3) Az (1) bekezdés b) pontjában foglalt esetben a köznevelési szakértői tevékenység folytatását a hivatal annak engedélyezi, aki szakirányú felsőfokú végzettséggel és szakterületén szerzett tízéves gyakorlattal rendelkezik, és szakterületének elismert képviselője. A kérelemben meg kell jelölni a kérelmező természetes személyazonosító adatait, szakterületét, lakcímét és munkahelyét.
 
-(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről Országos szakértői névjegyzéket vezet. A nyilvántartásba vétel határozatlan időre szól. Az Országos szakértői névjegyzék, valamint a KIR alkalmazotti nyilvántartásának adatállománya az Nkt. 44. § (7) bekezdés d)–g) és i)–j) pontjában foglalt adatok tekintetében az országos pedagógiai-szakmai ellenőrzés, valamint a minősítő vizsga és a minősítési eljárás során szakértői feladatok ellátására történő kirendelés céljából összekapcsolható. Az Országos szakértői névjegyzék tartalmazza a köznevelési szakértői tevékenység folytatására jogosult szakértő
+(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről országos köznevelési szakértői névjegyzéket vezet. Az országos köznevelési szakértői névjegyzékben nyilvántartott szakértők alábbi adatai nyilvánosak:
 
-- a) természetes személyazonosító és lakcímadatát,
-- b) munkahelyét,
-- c) jogszabályban meghatározott szakterületét, szakirányát,
-- d) nyilvántartásba-vételi számát,
-- e) szakértői igazolásának számát,
-- f) oktatási azonosító számát.
+- a) családi és utóneve,
+- b) elektronikus levelezési címe,
+- c) jogszabályban meghatározott szakterülete, szakiránya,
+- d) nyilvántartásba-vételi száma,
+- e) szakértői igazolásának száma.
 
-(4a) A (4) bekezdés szerinti névjegyzék a (4) bekezdés c)–e) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(4a)
 
 (5) Az (1) bekezdés szerinti tevékenység folytatását külön jogszabály továbbképzéshez vagy szakvizsga letételéhez kötheti.
 
-(6) Az Országos érettségi vizsgaelnöki névjegyzék tartalmazza az érettségi vizsgaelnöki megbízás ellátására jogosult
+(6) A hivatal vezeti az országos érettségi vizsgaelnöki névjegyzéket. Az országos érettségi vizsgaelnöki névjegyzékben nyilvántartott érettségi vizsgaelnök alábbi adatai nyilvánosak:
 
-- a) természetes személyazonosító és lakcímadatát,
-- b) munkahelyét,
-- c) jogszabályban meghatározott vizsgaterületét,
-- d) nyilvántartásba-vételi számát,
-- e) vizsgaelnöki igazolásának számát,
-- f) vizsgaelnöki igazolásának hatályát.
+- a) családi és utóneve,
+- b) jogszabályban meghatározott vizsgaterülete,
+- c) nyilvántartásba-vételi száma,
+- d) vizsgaelnöki igazolásának száma és hatálya.
 
-(6a) A (6) bekezdés szerinti névjegyzék a (6) bekezdés c)–f) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(6a)
 
-(6b) Az Országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
+(6b) Az országos érettségi vizsgaelnöki névjegyzékbe az vehető fel, aki mesterfokozattal, a 3. melléklet szerint középiskolában pedagógus-munkakör betöltéséhez szükséges szakképzettséggel, valamint 10 év középiskolai pedagógus-munkakörben vagy pedagógusképző felsőoktatási intézmény oktatói munkakörben szerzett gyakorlattal rendelkezik, továbbá részt vett a vizsgaelnöki feladatok ellátásához szükséges szakmai felkészítésben vagy továbbképzésben.
 
 (7) A (6) bekezdés szerinti névjegyzékbe nyilvános pályázat útján lehet felvételt nyerni. A pályázati felhívást az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában közzé kell tenni. A (6) bekezdés szerinti névjegyzékbe való felvétel öt évre szól. Szakképzés tekintetében a vizsgaelnöki névjegyzék elkészítéséről és kiadásáról a szakképzésről szóló törvény rendelkezik.
 
 (8) A nemzetiségi óvodai nevelés, iskolai nevelés-oktatás, kollégiumi nevelés-oktatás tekintetében köznevelési szakértői feladatot és érettségi vizsgaelnöki feladatot az láthat el, aki az (1) vagy a (6b) bekezdésben meghatározott gyakorlatot a nemzetiségi nevelésben, oktatásban szerezte.
 
-(9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység folytatásától vagy a vizsgaelnöki feladatok ellátásától és törli az Országos szakértői névjegyzékből, az Országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
+(9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység folytatásától vagy a vizsgaelnöki feladatok ellátásától és törli az országos köznevelési szakértői névjegyzékből, az országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 
 (10)–(12)
 
@@ -2605,7 +2496,7 @@ ellenőrzés.
 - i) az érettségi vizsga kivételével a vizsgák rendjét, továbbá az érettségi vizsga vizsgakövetelményeinek kiadását,
 - j) a kerettantervek jóváhagyásának rendjét, valamint az eljárással kapcsolatos igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
 - k) az oktatási jogok biztosának feladatait, eljárását, továbbá az általa vezetett hivatal szervezetének és működésének szabályait,
-- l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának részletes feltételeit, a köznevelési szakértői tevékenység 82. § (1) bekezdés a) pontja szerinti bejelentésének, illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az Országos szakértői névjegyzékbe, az Országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási szabályait és a köznevelési szakértői, az érettségi vizsgaelnöki tevékenység folytatásának szakmai feltételeit, a köznevelési szakértők és a vizsgaelnökök továbbképzését és a továbbképzési kötelezettség elmulasztásának következményeit, valamint az Országos szakértői névjegyzék és az Országos érettségi vizsgaelnöki névjegyzék személyes adatot nem tartalmazó adattartalmát és a névjegyzékek vezetésére vonatkozó részletes eljárási szabályokat, az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
+- l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának részletes feltételeit, a köznevelési szakértői tevékenység 82. § (1) bekezdés a) pontja szerinti bejelentésének, illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az országos köznevelési szakértői névjegyzékbe, az országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási szabályait és a köznevelési szakértői, az érettségi vizsgaelnöki tevékenység folytatásának szakmai feltételeit, a köznevelési szakértők és a vizsgaelnökök továbbképzését és a továbbképzési kötelezettség elmulasztásának következményeit, valamint az országos köznevelési szakértői névjegyzék és az országos érettségi vizsgaelnöki névjegyzék személyes adatot nem tartalmazó adattartalmát és a névjegyzékek vezetésére vonatkozó részletes eljárási szabályokat, az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
 - m) a közneveléssel összefüggő feladatok ellátását szolgáló képzéseket,
 - n) az országos szaktanácsadói tevékenység keretében megszervezett, továbbá nem tantárgyhoz, nem szakterülethez kötődő szaktanácsadói feladatokat, azok megszervezését, valamint az országos szaktanácsadói tevékenységhez kapcsolódó további szakmai követelményeket, a nem tantárgyhoz, nem szakterülethez kötődő országos pedagógiai-szakmai szolgáltatások körét, területeit, megszervezését, az állami köznevelési közfeladat-ellátás keretében biztosított pedagógiai-szakmai szolgáltatásban való részvétel feltételeit, a nevelési-oktatási intézmény által nyújtható pedagógiai-szakmai szolgáltatások körét, a pedagógiai-szakmai szolgáltatást nyújtó és köznevelési intézménynek nem minősülő szervezetek pedagógiai-szakmai szolgáltatásokban történő közreműködéséhez szükséges engedély kiadásának feltételeit és eljárásrendjét, valamint a térítésmentesen biztosított pedagógiai-szakmai szolgáltatások ellátási szintjét,
 - o) a hat vagy nyolc – nyelvi előkészítő évfolyam esetében hét vagy kilenc – évfolyammal működő gimnáziumban folyó nevelés-oktatás emelt szintű követelményeit,
@@ -2652,9 +2543,9 @@ egyetértésben gyakorolja.
 - p) a térítésmentes, a térítési díj, valamint tandíj ellenében igénybe vehető szolgáltatások körét,
 - q)
 - r) a bizonyítvánnyal tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét,
-- s) az Országos szakértői névjegyzékbe és az Országos érettségi vizsgaelnöki névjegyzékbe történő felvételhez szükséges dokumentumok körét,
+- s) az országos köznevelési szakértői névjegyzékbe és az országos érettségi vizsgaelnöki névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 - t) – az óvoda kivételével – a nevelési-oktatási intézményekben alkalmazott vezetők körét és kötelező létszámát, a nevelő- és oktatómunkát közvetlenül segítő alkalmazottak körét és finanszírozott létszámát,
-- u) a szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét,
+- u) a köznevelési szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 - v) 2015. szeptember 1. és 2017. augusztus 31. között az egyes tanévekre vonatkozóan az illetményalapnak a mindenkori költségvetési törvényben rögzített vetítési alap százalékában meghatározott tanévenkénti mértékét,
 - w) a pedagógiai szakszolgálati tevékenységek során alkalmazott integrált nyomonkövető rendszer létrehozását, működtetését, az információs rendszer részére történő adatszolgáltatás rendjét,
 - x) a lemorzsolódással veszélyeztetett tanulónak minősülés részletes feltételeit, a pedagógiai-szakmai szolgáltatások körébe tartozó, a lemorzsolódással veszélyeztetett tanulók támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszer létrehozását, működtetését, és az ennek keretében történő adatszolgáltatás rendjét,
@@ -2808,7 +2699,7 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 - a)
 - b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányzat saját tulajdonában álló vagyonnak minősül az a vagyon is, amely a települési önkormányzat illetékességi területén van és 2012. szeptember 30-án intézményi társulás vagy többcélú kistérségi társulás tulajdonában volt.
 
-(25) A 44. § (6) bekezdés szerinti elektronikus kapcsolat létrejöttéig, de legkésőbb 2012. december 31-ig a köznevelési intézmény vezetője köteles a gyermek, tanuló, az óraadó és az alkalmazott személyes adatainak megváltozását a KIR adatkezelőjének – a tudomásszerzéstől számított öt napon belül – bejelenteni.
+(25)
 
 (26) A 21. § (2) bekezdésben előírt, a nem állami szerv által alapított intézmények nyilvántartásba vételére vonatkozó feltételeket azon nevelési-oktatási intézmények esetében kell alkalmazni, amelyek működésüket 2013. szeptember 1-je után kezdik meg.
 
@@ -3165,7 +3056,7 @@ Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-veze
 | 3 | osztályfőnöki/kollégiumban csoportvezetői | 10 | 30 |
 | 4 | munkaközösség-vezetői | 5 | 10 |
 | 5 | intézményvezető-helyettesi | 20 | 40 |
-| 6 | nemzetiségi | 15 | 15 |
+| 6 | nemzetiségi | 30 | 30 |
 | 7 | gyógypedagógiai | 5 | 10 |
 | 8 | nehéz körülmények között végzett munkáért járó | 10 | 30 |
 | 9 | gyakorlati oktatás-vezetői | 20 | 40 |

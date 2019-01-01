@@ -573,7 +573,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 - c) igazságügyi szakértő igénybe vétele,
 - d) szakmai kamarák által ajánlott díjszabások,
 - e) szakmai kamarák által előállított és karbantartott, megvalósítási értéken alapuló, részletes építési adatbázis,
-- f) a Közbeszerzési Hatóság által kiadott árstatisztika,
+- f)
 - g) az ajánlatkérő korábbi, hasonló tárgyra irányuló szerződéseinek elemzése.
 
 (3) Építési beruházások esetében az eljárás csak a külön jogszabályban meghatározott követelményeknek megfelelő tervek birtokában indítható meg. Külön jogszabályban foglalt esetekben az ajánlatkérőnek tervellenőrzésről és tervezői művezetésről is gondoskodnia kell.
@@ -1752,17 +1752,17 @@ ha álláspontja szerint egészben vagy részben jogsértő az eljárást megind
 - a) az ajánlatkérőnek nem szükséges indokolnia, ha eltekint alkalmassági követelmény előírásától,
 - b) az ajánlatkérő elfogadhatja az ajánlattevő (adott esetben az egységes európai közbeszerzési dokumentumba foglalt) nyilatkozatát – a rendelkezésre álló elektronikus nyilvántartások ajánlatkérő általi ellenőrzése mellett – a kizáró okok fenn nem állásának végleges igazolásaként.
 
-103. § (1) A hirdetmény nélküli tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles benyújtani a Közbeszerzési Hatósághoz az ajánlattételi felhívást, továbbá az ajánlattételre felhívni kívánt gazdasági szereplők nevéről, címéről (székhelyéről, lakóhelyéről), a beszerzés becsült értékéről, valamint a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást.
+103. § (1) A hirdetmény nélküli tárgyalásos eljárás megkezdését követően, legkésőbb az eljárás megkezdése napján az ajánlatkérő köteles benyújtani – az EKR-en keresztül, annak jogszabályban meghatározott üzemzavara esetén a Közbeszerzési Hatóság honlapján megadott elérhetőségen – a Közbeszerzési Hatósághoz az ajánlattételi felhívást, továbbá az ajánlattételre felhívott gazdasági szereplők nevéről, címéről (székhelyéről, lakóhelyéről), a beszerzés becsült értékéről, a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást, valamint a törvényességi ellenőrzésért fizetendő igazgatási szolgáltatási díj megfizetéséről szóló igazolást.
 
-(2) A 98. § (2) bekezdés e) pontja esetében az ajánlattételi felhívásnak vagy adott esetben a tárgyalási meghívónak a gazdasági szereplők részére történő megküldésével egyidejűleg az ajánlatkérőnek haladéktalanul tájékoztatnia kell a Közbeszerzési Hatóságot az (1) bekezdésben foglaltak szerint. Ajánlattételi felhívás helyett adott esetben a tárgyalási meghívót kell megküldeni.
+(2) A 98. § (2) bekezdés e) pontja esetében legkésőbb az ajánlattételi felhívásnak vagy adott esetben a tárgyalási meghívónak a gazdasági szereplők részére történő megküldésével egyidejűleg az ajánlatkérőnek haladéktalanul tájékoztatnia kell a Közbeszerzési Hatóságot az (1) bekezdésben foglaltak szerint. Ajánlattételi felhívás helyett adott esetben a tárgyalási meghívót kell megküldeni. Amennyiben a 98. § (2) bekezdés e) pontja alapján lefolytatott eljárás a tárgyalások megkezdésével indul, az ajánlatkérő köteles – amint az a rendkívüli sürgősséget előidéző helyzetben ésszerűen lehetséges – a Közbeszerzési Hatóságot az (1) bekezdésben meghatározott módon tájékoztatni az ajánlattételre felhívott, illetve felhívni kívánt gazdasági szereplők nevéről, címéről (székhelyéről, lakóhelyéről), a tárgyalásos eljárás alkalmazását megalapozó körülményekről, amennyiben lehetséges, a beszerzés becsült értékéről, valamint – legkésőbb az eljárás lezárását követően – köteles részére benyújtani a törvényességi ellenőrzésért fizetendő igazgatási szolgáltatási díj megfizetéséről szóló igazolást.
 
-(3) A 98. § (4) bekezdés c) és d) pontja szerinti tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles a Közbeszerzési Hatósághoz benyújtani a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást, a d) pont szerinti esetben továbbá az érintett szervezet nevét és címét.
+(3) Legkésőbb a 98. § (4) bekezdés c) és d) pontja szerinti tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles a Közbeszerzési Hatósághoz benyújtani az eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást, a 98. § (4) bekezdés d) pont szerinti esetben továbbá az érintett szervezet nevét és címét.
 
-(4) A Közbeszerzési Hatóság részletes indokolással ellátott döntést hoz, amelynek alapján a tárgyalásos eljárás jogalapjának megalapozottsága egyértelműen megállapítható. A Közbeszerzési Hatóság döntését honlapján is közzéteszi.
+(4) A Közbeszerzési Hatóság részletes indokolással ellátott döntést hoz, amelynek alapján az eljárás jogalapjának megalapozottsága egyértelműen megállapítható. A Közbeszerzési Hatóság döntését az EKR-ben teszi közzé.
 
 (5) Az ajánlatkérő a 98. § (2) bekezdés c) pontja szerinti hirdetmény nélküli tárgyalásos eljárás alkalmazása esetén legalább tíz nappal a szerződés megkötését megelőzően köteles a 137. § (2) bekezdésében meghatározott hirdetményt közzétenni.
 
-(6) Az ajánlatkérő a hirdetmény nélküli tárgyalásos eljárás megkezdése napján köteles a Közbeszerzési Adatbázisban és honlapján is közzétenni az (1) bekezdés szerint a Közbeszerzési Hatóságnak megküldött minden dokumentumot, valamint a közbeszerzési dokumentumokat és az ajánlatok bontását követően a bontásról készült jegyzőkönyvet.
+(6) Az ajánlatkérő a hirdetmény nélküli tárgyalásos eljárás megkezdése napján köteles az EKR-ben közzétenni az (1) bekezdés szerint a Közbeszerzési Hatóságnak megküldött minden dokumentumot – a beszerzés becsült értékéről szóló tájékoztatás és az ajánlattételre felhívni kívánt gazdasági szereplők nevéről, címéről (székhelyéről, lakóhelyéről) szóló tájékoztatás kivételével –, valamint a közbeszerzési dokumentumokat és az ajánlatok bontását követően a bontásról készült jegyzőkönyvet. A beszerzés becsült értékéről szóló tájékoztatást, továbbá az ajánlattételre felhívni kívánt gazdasági szereplők nevéről, címéről (székhelyéről, lakóhelyéről) szóló tájékoztatást az ajánlatok bontását követően, az ajánlatok bontásáról készült jegyzőkönyvvel együtt köteles az ajánlatkérő közzétenni.
 
 ### XVI. Fejezet — SAJÁTOS BESZERZÉSI MÓDSZEREK
 
@@ -2434,7 +2434,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 (4) A Közbeszerzési Hatóság a szerződés módosítására és teljesítésére vonatkozó, e törvényben meghatározott követelmények teljesülését a 187. § (2) bekezdés j) pontjában meghatározottak szerint jogosult ellenőrizni és azok megsértése esetén a Közbeszerzési Döntőbizottság, illetve a bíróság eljárását kezdeményezni [153. § (1) bekezdés c) pont, 175. §].
 
-(5) Az ajánlatkérő köteles a Közbeszerzési Hatóságnak bejelenteni, ha a nyertes ajánlattevőként szerződő fél szerződéses kötelezettségét súlyosan megszegte és ez a szerződés felmondásához vagy elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb jogkövetkezmény érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta. A bejelentésnek tartalmaznia kell a szerződésszegés leírását, az annak alapján alkalmazott jogkövetkezményt, valamint hogy a szerződő fél a szerződésszegést elismerte-e, vagy sor került-e arra vonatkozóan perindításra.
+(5) Az ajánlatkérő köteles a Közbeszerzési Hatóságnak bejelenteni, ha a nyertes ajánlattevőként szerződő fél szerződéses kötelezettségét súlyosan megszegte és ez a szerződés felmondásához vagy elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb jogkövetkezmény érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta. A bejelentésnek tartalmaznia kell a szerződésszegés leírását, az annak alapján alkalmazott jogkövetkezményt, valamint azon dokumentumokat, amelyek alapján megállapítható, hogy a nyertes ajánlattevőként szerződő fél a szerződésszegést nem vitatta, vagy, hogy sor került-e a szerződésszegés vonatkozásában perindításra. Perindítás esetén az ajánlatkérő köteles a Közbeszerzési Hatóságnak megküldeni a pert lezáró jogerős határozatot.
 
 (6) Az ajánlatkérő köteles a Közbeszerzési Hatóságnak bejelenteni a nyertes ajánlattevőként szerződő fél szerződéses kötelezettségének jogerős bírósági határozatban megállapított megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit, beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, (részben vagy egészben) a szerződés lehetetlenülését okozta.
 
@@ -2476,7 +2476,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 (2) A közbeszerzésre, a közbeszerzési eljárásra, az építési, illetve szolgáltatási koncesszióra, valamint a koncessziós beszerzési eljárásra vonatkozó jogszabályok megsértése miatt indult eljárás lefolytatása a közbeszerzési vagy koncessziós beszerzési eljárás tekintetében – ideértve a 21. § (4) bekezdésében említett külön jogszabály szerinti előminősítési kérelem elutasítása és az előminősítési listáról való törlés miatt indult eljárást is (a továbbiakban: előminősítési ügyekben indított jogorvoslati eljárás) – a Közbeszerzési Döntőbizottság hatáskörébe tartozik.
 
-(3) A Közbeszerzési Döntőbizottság hatáskörébe tartozik – a szerződés módosításával vagy teljesítésével kapcsolatos polgári jogi igények miatt indult eljárás kivételével – a közbeszerzési vagy koncessziós beszerzési eljárás alapján megkötött szerződés e törvénybe, illetve az e törvény felhatalmazása alapján alkotott rendeletbe ütköző módosítása vagy teljesítése, valamint az ajánlatkérő által a 117. § szerint önállóan kialakított eljárási szabályokba ütköző magatartás vagy mulasztás miatt indult eljárás lefolytatása.
+(3) A Közbeszerzési Döntőbizottság hatáskörébe tartozik – a szerződés módosításával vagy teljesítésével kapcsolatos polgári jogi igények miatt indult eljárás kivételével – a közbeszerzési vagy koncessziós beszerzési eljárás alapján megkötött szerződés a közbeszerzésekről szóló törvénybe, illetve a közbeszerzésekről szóló törvény felhatalmazása alapján alkotott rendeletbe ütköző módosítása vagy teljesítése, valamint az ajánlatkérő által a 117. § szerint önállóan kialakított eljárási szabályokba ütköző magatartás vagy mulasztás miatt indult eljárás lefolytatása.
 
 (3a) A Közbeszerzési Döntőbizottság hatáskörébe tartozik a 137. § (1) bekezdése szerinti jogsértés alapján a szerződés semmisségének megállapítása, valamint a 137. § (3) bekezdésben foglalt körülmények alapján annak megállapítása, ha a 137. § (1) bekezdése szerinti jogsértéssel érintett szerződés nem semmis. A Közbeszerzési Döntőbizottság hatáskörébe tartozik továbbá annak megállapítása is, hogy a 137. § (1) bekezdésében meghatározott jogsértés miatt semmis szerződés esetén a szerződés érvénytelensége jogkövetkezményei alkalmazása körében az eredeti állapot helyreállítható-e.
 
@@ -2496,7 +2496,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 (3) Az eljáró tanács elnökének feladata az eljárás előkészítése és levezetése. Az ideiglenes intézkedésen, a közbeszerzési ügy befejezését eredményező végzésen, az eljárás kiterjesztéséről szóló döntésen [158. § (1) bekezdés], valamint az ügy érdemében hozott határozaton (a továbbiakban: érdemi határozat) [165. §] kívül az eljáró tanács elnöke megtehet minden olyan intézkedést és meghozhat minden olyan végzést, amelyet a törvény a Közbeszerzési Döntőbizottság hatáskörébe utal.
 
-(4) A 153. § (1) bekezdés a)–b) pontja szerinti ügyben a Közbeszerzési Döntőbizottság egy közbeszerzési biztosa jár el. A Közbeszerzési Döntőbizottság elnöke kizárólag jogi szakvizsgával rendelkező közbeszerzési biztost jelölhet ki egyedül eljáró biztosnak. Ahol e törvény a továbbiakban eljáró tanácsot vagy elnököt említ, azon az egyedül eljáró biztost is érteni kell.
+(4) A 153. § (1) bekezdés b) pontja szerinti ügyben a Közbeszerzési Döntőbizottság egy közbeszerzési biztosa jár el. A Közbeszerzési Döntőbizottság elnöke kizárólag jogi szakvizsgával rendelkező közbeszerzési biztost jelölhet ki egyedül eljáró biztosnak. Ahol e törvény a továbbiakban eljáró tanácsot vagy elnököt említ, azon az egyedül eljáró biztost is érteni kell.
 
 147. § (1) A közbeszerzési ügyben – az Ákr. 22. § és 23. § (1) bekezdésében meghatározottakon túl – nem járhat el az a közbeszerzési biztos, aki
 
@@ -2559,7 +2559,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 149. § (1) A kérelemben meg kell jelölni
 
-- a) a kérelmező és képviselőjének nevét, székhelyét (lakóhelyét), a kérelmezői jogosultságot alátámasztó tényeket;
+- a) a kérelmező és a 145. § (7) bekezdés szerinti képviselőjének nevét, székhelyét (lakóhelyét), a kérelmezői jogosultságot alátámasztó tényeket;
 - b) a kérelemmel érintett közbeszerzési eljárás ajánlatkérőjének nevét, székhelyét, a közbeszerzés tárgyát és – részajánlattétel esetében – a jogorvoslattal érintett részt, vagy a közbeszerzési eljárás mellőzésével történő beszerzés esetében a beszerző nevét, székhelyét és a beszerzés tárgyát;
 - c) a jogsértő esemény megtörténtének és a kérelmező arról való tudomásszerzésének időpontját valamennyi kérelmi elem tekintetében egyértelműen azonosíthatóan;
 - d) a megsértett jogszabályi rendelkezést valamennyi kérelmi elemre vonatkozóan, valamint a jogsértő eseményt és annak bizonyítékait;
@@ -2580,14 +2580,14 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 151. § (1) A Közbeszerzési Döntőbizottság a jogorvoslati eljárást legkésőbb a 148. § (1)–(9) bekezdésének, a 149. § (1)–(2) bekezdésének, valamint a 150. § (1)–(2) bekezdésének megfelelő kérelem beérkezését követő munkanapon indítja meg.
 
-(2) A Közbeszerzési Döntőbizottság hiánypótlási felhívást bocsát ki, ha
+(2) A Közbeszerzési Döntőbizottság öt napos határidő tűzésével hiánypótlási felhívást bocsát ki, ha
 
 - a) a kérelem a 149. § (1) bekezdése szerinti adatokat nem tartalmazza,
 - b) nem csatolták a 150. § (1) bekezdése szerinti díj befizetéséről szóló igazolást,
 - c) nem csatolták a meghatalmazott képviselő meghatalmazását, vagy
 - d) a kérelmet és annak kötelező mellékleteit nem az Eüsztv.-ben meghatározott elektronikus úton nyújtották be.
 
-Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a Közbeszerzési Döntőbizottság a kérelmet elutasítja, kivéve, ha a (3) bekezdés alkalmazásának van helye.
+Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a Közbeszerzési Döntőbizottság a kérelmet visszautasítja, kivéve, ha a (3) bekezdés alkalmazásának van helye.
 
 (3) Ha a jogorvoslati eljárással érintett közbeszerzési eljárás irataiból a közbeszerzés becsült értéke a kérelmező számára nem ismerhető meg, ezen tényt jogorvoslati kérelmében köteles a Közbeszerzési Döntőbizottság tudomására hozni. Ez esetben a Közbeszerzési Döntőbizottság – a rendelkezésre álló adatok alapján – hiánypótlási felhívás keretében közli a kérelmezővel az igazgatási szolgáltatási díj alapjául szolgáló becsült érték összegét.
 
@@ -2605,7 +2605,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (10) Ha a kérelmező jogorvoslati kérelmében több jogsértés megállapítását is kérte, de a Közbeszerzési Döntőbizottság az ügy érdemében hozott határozatában a kérelemnek csak részben ad helyt, az igazgatási szolgáltatási díjnak a Közbeszerzési Hatóság (2) bekezdés szerinti saját bevételével csökkentett részét az alapos és alaptalan kérelmek arányának figyelembevételével téríti vissza a kérelmezőnek.
 
-152. § (1) A Közbeszerzési Döntőbizottság hivatalból indított eljárását a következő szervezetek vagy személyek kezdeményezhetik, ha a feladatkörük ellátása során e törvénybe ütköző magatartás vagy mulasztás jut tudomásukra:
+152. § (1) A Közbeszerzési Döntőbizottság hivatalból indított eljárását a következő szervezetek vagy személyek kezdeményezhetik, ha a feladatkörük ellátása során a közbeszerzésekről szóló törvénybe, illetve a közbeszerzésekről szóló törvény felhatalmazása alapján alkotott rendeletbe ütköző magatartás vagy mulasztás jut tudomásukra:
 
 - a) a Közbeszerzési Hatóság elnöke;
 - b) az Állami Számvevőszék;
@@ -2619,13 +2619,16 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 - j) az európai támogatásokat auditáló szerv;
 - k) az állami vagyon felügyeletéért felelős miniszter;
 - l) az ügyész;
-- m) a közbeszerzésekért felelős miniszter.
+- m) a közbeszerzésekért felelős miniszter;
+- n) az európai uniós források felhasználásáért felelős miniszter.
 
 (2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés szerinti személy vagy szervezet a jogsértés tudomásra jutásától számított hatvan napon belül, de
 
 - a) legkésőbb a jogsértés megtörténtétől számított három éven belül,
 - b) közbeszerzési eljárás mellőzésével történt beszerzés esetén az a) ponttól eltérően a szerződés megkötésének időpontjától vagy, ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől számított legfeljebb öt éven belül, vagy
 - c) támogatásból megvalósuló beszerzés esetén az a) és b) ponttól eltérően az adott támogatás folyósítására és felhasználására vonatkozó külön jogszabályban előírt iratmegőrzési kötelezettség időtartamán belül, de legalább a jogsértés megtörténtétől – közbeszerzési eljárás mellőzésével történt beszerzés esetén a szerződés megkötésének időpontjától, vagy ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől – számított öt éven belül kezdeményezheti.
+
+(2a) Az (1) bekezdés g) pontja szerinti szervezet esetében a (2) bekezdés szerinti határidő számításakor a jogsértés tudomásra jutása időpontjának kell tekinteni a közbeszerzési jogsértésre vonatkozó szabálytalansági eljárás megindításának napját.
 
 (3) Amennyiben a (2) bekezdésből más nem következik, a jogsértés megtörténtének időpontja tekintetében a 148. § (8) bekezdését megfelelően alkalmazni kell. A (2) bekezdéstől eltérően a 153. § (1) bekezdés d) pontja szerinti esetben a Közbeszerzési Hatóság elnöke a 189. § (1) bekezdése szerinti határidőn belül kezdeményezheti a Közbeszerzési Döntőbizottság hivatalból indított eljárását.
 
@@ -2639,6 +2642,8 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (8) A kezdeményezés visszautasítására, valamint az eljárás megszüntetésére a 151. § (5)–(8) bekezdését megfelelően alkalmazni kell.
 
+(9) A 187. § (2) bekezdés j) pontja szerinti ellenőrzés esetén a (2) bekezdése szerinti határidő számításakor a jogsértés tudomásra jutása időpontjának az ellenőrzési jegyzőkönyv kézbesítését kell tekinteni.
+
 153. § (1) A Közbeszerzési Hatóság elnöke kezdeményezi a Közbeszerzési Döntőbizottság hivatalból való eljárását,
 
 - a) ha az ajánlatkérő a külön jogszabályban meghatározott, a Hatóság elnöke általi felhívástól számított határidő lejártáig nem teszi közzé a Közbeszerzési Adatbázisban az éves statisztikai összegezést,
@@ -2650,9 +2655,11 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (3) Az (1)–(2) bekezdés szerinti kezdeményezésre a 152. § (2)–(8) bekezdését kell alkalmazni.
 
+(4) Az (1) bekezdés c) pontja szerint kezdeményezett jogorvoslati eljárás esetén a tudomásra jutás időpontja megegyezik a 187. § (2) bekezdés j) pontja szerint lefolytatott hatósági ellenőrzés befejezésének napjával.
+
 154. § (1) A Közbeszerzési Döntőbizottság az eljárás megindításáról a kérelmezőt vagy kezdeményezőt, a közbeszerzési ügy ajánlatkérőjét és a közbeszerzési ügyben érdekelteket értesíti. A Közbeszerzési Döntőbizottság a közbeszerzési ügy ajánlatkérőjét és az (1a) bekezdés szerint részvételi szándékukat jelző, a közbeszerzési ügyben érdekelteket felhívja, hogy öt napon belül küldjék meg észrevételeiket. A Közbeszerzési Döntőbizottság a felhíváshoz csatolja a kérelmet, illetve hivatalból indított eljárás esetén az annak alapjául szolgáló kezdeményező iratot. Ha az ajánlatkérővel az Eüsztv.-ben meghatározott elektronikus úton történő kapcsolattartás nem lehetséges, az ajánlatkérő részére a Döntőbizottság elektronikus levél, illetve telefax útján küldi meg az eljárás megindításáról szóló értesítést. A telefax útján történő értesítés kézbesítettnek minősül a sikeres visszaigazolás napján. Ha az értesítés megküldésére kizárólag elektronikus levél útján volt lehetőség, és az ajánlatkérő egy munkanapon belül az elektronikus levél fogadását nem igazolta vissza a Döntőbizottság számára, az eljárás megindításáról szóló értesítés az ajánlatkérő részére postai úton kerül kézbesítésre.
 
-(1a) A Döntőbizottság – az ajánlatkérőn, valamint a kérelmezőn, illetve hivatalbóli kezdeményezőn kívüli – a közbeszerzési ügyben érdekelteket az eljárás megindításáról postai úton értesíti azzal, hogy az eljárás megindításáról szóló végzés átvételét követő három munkanapon belül az Eüsztv.-ben meghatározott elektronikus kapcsolattartás útján jelezhetik a jogorvoslati eljárásban történő részvételi szándékukat, a Kbt. 145. § (7) bekezdése szerinti képviselő meghatalmazásának csatolásával. A részvételi szándék e bekezdés szerinti jelzését követően a részvételi szándékukat jelző érdekeltek részére a Döntőbizottság elektronikus úton küldi meg a kérelmet, illetve kezdeményező iratot és a jogorvoslati eljárás során keletkezett iratokat ezt követően kizárólag a részvételi szándékukat jelző érdekeltek részére továbbítja. A fenti határidő elmulasztása jogvesztéssel jár.
+(1a) A Döntőbizottság – az ajánlatkérőn, valamint a kérelmezőn, illetve hivatalbóli kezdeményezőn kívüli – a közbeszerzési ügyben érdekelteket az eljárás megindításáról a jogorvoslati kérelem, illetve a hivatalbóli kezdeményezés megküldésével elektronikus kapcsolattartás útján, amennyiben az eredménytelennek látszik, postai úton értesíti azzal, hogy az eljárás megindításáról szóló végzés átvételét követő három munkanapon belül az Eüsztv.-ben meghatározott elektronikus kapcsolattartás útján jelezhetik a jogorvoslati eljárásban történő részvételi szándékukat, a 145. § (7) bekezdése szerinti képviselő meghatalmazásának csatolásával. A részvételi szándék e bekezdés szerinti jelzését követően a Döntőbizottság elektronikus úton küldi meg a jogorvoslati eljárás során keletkezett iratokat ezt követően kizárólag a részvételi szándékukat jelző érdekeltek részére továbbítja. A fenti határidő elmulasztása jogvesztéssel jár.
 
 (1b) Az (1) és (1a) bekezdésben foglaltakat követően a Döntőbizottság eljárásában ügyfélnek az ajánlatkérőn, a kérelmezőn, valamint a hivatalbóli kezdeményezőn kívül a közbeszerzési ügyben érdekeltek közül a részvételi szándékát az (1a) bekezdés szerint jelző és az eljárásba bevont érdekeltet – ideértve az eljárásba az (1c) bekezdés alapján bevont érdekeltet is – kell tekinteni.
 
@@ -2737,7 +2744,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (8) Az iratokba való betekintéshez az (1)–(7) bekezdésben foglaltak figyelembevételével a Közbeszerzési Döntőbizottság engedélye szükséges.
 
-163. § (1) A Közbeszerzési Döntőbizottság tízezer forinttól ötszázezer forintig terjedő eljárási bírsággal sújthatja a kérelmezőt vagy a jogorvoslati eljárás egyéb résztvevőjét, ha
+163. § (1) A Közbeszerzési Döntőbizottság esetenként tízezer forinttól, természetes személy esetén ötszázezer forintig, jogi személy vagy egyéb szervezet esetén egymillió forintig terjedő eljárási bírsággal sújthatja a kérelmezőt vagy a jogorvoslati eljárás egyéb résztvevőjét, ha
 
 - a) hamis adatot közöl vagy az ügy elbírálása szempontjából lényeges adatot elhallgat;
 - b) felvilágosítást nem vagy nem határidőn belül ad meg;
@@ -2759,6 +2766,8 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (6) Az eljárás szünetelését az ügyfél nem kérheti.
 
+(7) Az (1)–(3) bekezdés szerinti ügyintézési határidőt onnantól kell számítani, hogy a 154. § (2) bekezdésében meghatározottak szerint a közbeszerzéssel vagy a beszerzéssel kapcsolatban rendelkezésre álló összes irat a Közbeszerzési Döntőbizottsághoz hiánytalanul beérkezett. Az iratok hiánytalan beérkezéséről és az ügyintézési határidő kezdetéről a Közbeszerzési Döntőbizottság a 154. § (1) bekezdésben meghatározott módon haladéktalanul értesíti az ügyfeleket és – amennyiben a 154. § (1a) bekezdés szerinti határidő még nem telt el – a közbeszerzési ügyben érdekelteket.
+
 ### A Közbeszerzési Döntőbizottság érdemi határozata
 
 165. § (1) A Közbeszerzési Döntőbizottság a határozatát a Közbeszerzési Hatóság nevében hozza meg.
@@ -2767,8 +2776,8 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 - a) az alaptalan kérelmet elutasítja;
 - b) a hivatalból indított vagy folytatott eljárásban megállapítja a jogsértés hiányát;
-- c) megállapítja a jogsértés megtörténtét;
-- d) megállapítja a jogsértés megtörténtét és alkalmazza a (3) bekezdésben felsorolt jogkövetkezményeket;
+- c) megállapítja a jogsértés megtörténtét, és a 62. § (1) bekezdés q) pont szerinti kizáró ok alkalmazása érdekében a közbeszerzési eljárás vagy a koncessziós beszerzési eljárás eredményeként kötött szerződés e törvényben előírt rendelkezéseinek megsértése esetén dönt annak súlyosságáról;
+- d) megállapítja a jogsértés megtörténtét, a 62. § (1) bekezdés q) pont szerinti kizáró ok alkalmazása érdekében a közbeszerzési eljárás vagy a koncessziós beszerzési eljárás eredményeként kötött szerződés e törvényben előírt rendelkezéseinek megsértése esetén dönt annak súlyosságáról és alkalmazza a (3) bekezdésben felsorolt jogkövetkezményeket;
 - e) a (6) bekezdésben meghatározott esetekben a jogsértés megállapítása mellett bírságot szab ki;
 - f) megállapítja a jogsértés megtörténtét és eltiltja az ajánlattevőt, alvállalkozót vagy a közbeszerzési eljárásban részt vett más szervezetet vagy személyt a közbeszerzési eljárásban való részvételtől;
 - g) hivatalból megállapítja a 137. § (1) bekezdésében meghatározott jogsértés esetén a szerződés semmisségét vagy a 137. § (3) bekezdésében foglalt feltételek fennállása esetén azt, hogy az érintett szerződés nem semmis,
@@ -2808,9 +2817,18 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (10) A (8) bekezdés alkalmazásában a Közbeszerzési Döntőbizottság az ajánlattevőt, alvállalkozót, illetve a közbeszerzési eljárásban részt vett más szervezetet vagy személyt nemcsak a jövőre nézve, hanem a vizsgált közbeszerzési eljárásban, továbbá egyéb folyamatban lévő közbeszerzési eljárás vonatkozásában is köteles eltiltani a közbeszerzési eljárásban való részvételtől, illetve a szerződés megkötésétől, ha az érintett eljárásokban az eljárás eredményének megküldésére még nem került sor. A (9) bekezdés szerinti esetben a Közbeszerzési Döntőbizottság az ajánlattevőt, alvállalkozót, illetve a közbeszerzési eljárásban részt vett más szervezetet vagy személyt kizárólag a vizsgált közbeszerzési eljárásban tilthatja el a közbeszerzési eljárásban való részvételtől, illetve a szerződés megkötésétől.
 
-(11) A Közbeszerzési Döntőbizottság annak eldöntésében, hogy indokolt-e a bírság kiszabása, valamint a bírság összegének, illetve az eltiltás időtartamának megállapításában az eset összes körülményét – így különösen a jogsértés súlyát, a közbeszerzés tárgyát és értékét, a jogsértésnek a közbeszerzési eljárást lezáró döntésre gyakorolt befolyását, az e törvénybe ütköző magatartás ismételt tanúsítását, a jogsértőnek az eljárást segítő együttműködő magatartását, a jogsértés megtörténte és a jogorvoslati eljárás megindítása között eltelt hosszú időtartamot, támogatásból megvalósult beszerzés esetén azt a körülményt, ha a jogsértéshez más szerv eljárásában a támogatás visszafizetésére vonatkozó szankció kapcsolódhat – figyelembe veszi. A bírság összegének és az eltiltás időtartamának megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
+(11) A Közbeszerzési Döntőbizottság annak eldöntésében, hogy indokolt-e a bírság kiszabása, valamint a bírság összegének – továbbá a 62. § (1) bekezdés q) pont szerinti jogsértés megállapítása esetén az eltiltás időtartamának – megállapításában az eset összes körülményét, így különösen
 
-(12) Ha a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérőnek az eljárást lezáró döntését, az ajánlatkérő köteles a határozat végrehajthatóságának időpontjától számított harminc napon belül új eljárást lezáró döntést hozni. Ha az eljárás előre láthatólag nem eredménytelen, döntése meghozatala előtt – határidő tűzésével – be kell szereznie valamennyi érvényes ajánlatot tevő nyilatkozatát arról, hogy ajánlatát fenntartja. Ha az ajánlattevő a megadott határidőben nem nyilatkozott, úgy kell tekinteni, hogy ajánlatát nem tartja fenn. Ha az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötötte, az ajánlatát fenntartó ajánlattevőnek igazolnia kell az ajánlati biztosíték fenntartását vagy újbóli rendelkezésre bocsátását az ajánlati kötöttségnek az ajánlatkérő által meghatározott új idejére.
+- a) a jogsértés súlyát,
+- b) a közbeszerzés tárgyát és értékét,
+- c) a jogsértésnek a közbeszerzési eljárást lezáró döntésre gyakorolt befolyását,
+- d) az e törvénybe ütköző magatartásnak az adott közbeszerzés vonatkozásában történt ismételt tanúsítását,
+- e) a jogsértés megtörténte és a jogorvoslati eljárás megindítása között eltelt hosszú időtartamot,
+- f) támogatásból megvalósult beszerzés esetén azt a körülményt, ha a jogsértéshez más szerv eljárásában a támogatás visszafizetésére vonatkozó szankció kapcsolódhat
+
+figyelembe veszi. A bírság összegének és az eltiltás időtartamának megállapításakor figyelembe kell venni azt is, ha a jogsértés nyilvánvalóan szándékos volt.
+
+(12) Ha a Közbeszerzési Döntőbizottság megsemmisíti az ajánlatkérőnek az eljárást lezáró döntését, az ajánlatkérő köteles a határozat véglegességének időpontjától számított harminc napon belül új eljárást lezáró döntést hozni. Ha az eljárás előre láthatólag nem eredménytelen, döntése meghozatala előtt – határidő tűzésével – be kell szereznie valamennyi érvényes ajánlatot tevő nyilatkozatát arról, hogy ajánlatát fenntartja. Ha az ajánlattevő a megadott határidőben nem nyilatkozott, úgy kell tekinteni, hogy ajánlatát nem tartja fenn. Ha az ajánlatkérő az eljárásban való részvételt ajánlati biztosíték adásához kötötte, az ajánlatát fenntartó ajánlattevőnek igazolnia kell az ajánlati biztosíték fenntartását vagy újbóli rendelkezésre bocsátását az ajánlati kötöttségnek az ajánlatkérő által meghatározott új idejére.
 
 (13) Ha a Közbeszerzési Döntőbizottság e § szerinti határozatában megállapítja a közbeszerzésre, illetve a közbeszerzési eljárásra vonatkozó jogszabályok megsértését, az ajánlatkérőként, illetve az ajánlattevőként szerződő fél – a Közbeszerzési Döntőbizottság határozatának kézbesítésétől számított harminc napon belül – elállhat az érintett közbeszerzési eljárás alapján megkötött szerződéstől, feltéve, hogy a jogsértés befolyásolta a közbeszerzési eljárást lezáró döntést.
 
@@ -2900,7 +2918,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 175. § (1) Ha a Közbeszerzési Hatóság a 187. § (2) bekezdés j) pontja szerinti hatósági ellenőrzés során megállapítja, hogy a szerződés tartalma valószínűsíthetően a 142. § (3) bekezdésébe ütközik, pert indít a szerződés módosítás érvénytelenségének kimondása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt. A Közbeszerzési Hatóságot a perben teljes költségmentesség illeti meg.
 
-(2) A Közbeszerzési Hatóság az (1) bekezdés szerinti pert az ellenőrzés befejezésétől számított harminc napon belül indítja meg. A határidő elmulasztása esetén a polgári perrendtartásról szóló törvény szabályai szerint van helye igazolásnak.
+(2) A Közbeszerzési Hatóság az (1) bekezdés szerinti pert az ellenőrzés befejezésétől, vagyis az ellenőrzési jegyzőkönyv kézbesítésétől számított harminc napon belül indítja meg. A határidő elmulasztása esetén a polgári perrendtartásról szóló törvény szabályai szerint van helye igazolásnak.
 
 (3) Az (1) bekezdés szerinti perindításról a Közbeszerzési Hatóság a honlapján tájékoztatást tesz közzé. A tájékoztatás tartalmazza az adott ügy megnevezését (adott esetben a kapcsolódó közbeszerzési eljárás megjelölését), a keresetlevél benyújtásának időpontját, valamint a peres felek megnevezését.
 
@@ -2918,7 +2936,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 - b) valódi esélye volt a szerződés elnyerésére, valamint
 - c) a jogsértés kedvezőtlenül befolyásolta a szerződés elnyerésére vonatkozó esélyét.
 
-(3) Nem kell alkalmazni az (1) bekezdésben foglaltakat, ha a polgári jogi igény érvényesítése – illetve a szerződés érvénytelenségére történő hivatkozás – a 133–135. §-on, a 138–140. §-on, a 142. § (3) bekezdésén, vagy e törvénynek vagy végrehajtási rendeleteinek a szerződés tartalmi elemeit meghatározó más rendelkezéseinek megsértésén alapul. Az európai uniós forrásból nyújtott támogatás esetén a támogatási jogviszony alapján, közbeszerzési jogsértéssel összefüggően felmerült vagyoni igény érvényesítésének nem feltétele, hogy a Közbeszerzési Döntőbizottság, illetve – a Közbeszerzési Döntőbizottság határozatának felülvizsgálata esetén – a bíróság a közbeszerzési jogsértést jogerősen megállapítsa, kivéve, ha a közbeszerzéshez támogatást nyújtó vagy a közbeszerzések jogszabályban előírt ellenőrzését végző szerv a közbeszerzési eljárás ellenőrzését elvégezte és annak szabályosságát megállapította.
+(3) Nem kell alkalmazni az (1) bekezdésben foglaltakat, ha a polgári jogi igény érvényesítése – illetve a szerződés érvénytelenségére történő hivatkozás – a 133–135. §-on, a 138–140. §-on, a 142. § (3) bekezdésén, vagy e törvénynek vagy végrehajtási rendeleteinek a szerződés tartalmi elemeit meghatározó más rendelkezéseinek megsértésén alapul.
 
 (4) A szerződés közbeszerzési jogsértés miatti érvénytelensége megállapítása vagy az érvénytelenség jogkövetkezményeinek alkalmazása iránt a szerződést el nem nyert, az érintett közbeszerzési eljárásban részt vett ajánlattevő akkor indíthat pert, ha a szerződés érvénytelenségére vonatkozóan közvetlen jogi érdekét igazolja. A közvetlen jogi érdeket nem alapozza meg önmagában az a tény, hogy az ajánlattevő a közbeszerzési eljárásban érvényes ajánlatot tett. Az ajánlatkérő eljárást lezáró döntésén alapuló, a Kbt. szerinti szerződéskötési kötelezettség hiányában a bíróság nem írhat elő ajánlatkérő részére szerződéskötési kötelezettséget.
 
@@ -2964,6 +2982,8 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (4) A Hatóság keretében Tanács (a továbbiakban: Tanács) és Közbeszerzési Döntőbizottság (a továbbiakban: Döntőbizottság) működik.
 
+(5) A Hatóságnál foglalkoztatottak jogviszonyára – az e törvényben foglalt eltérésekkel – a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit kell alkalmazni.
+
 ### A Hatóság elnöke
 
 180. § (1) A Hatóság elnöke
@@ -2977,9 +2997,9 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (2) A Hatóság elnökét távolléte esetén az alelnök teljes jogkörrel helyettesíti.
 
-181. § (1) A Hatóság elnökének öt évre történő kinevezéséről a Tanács a jelen levő tagok kétharmados szótöbbségével dönt. A kinevezés egyszer ismételhető.
+181. § (1) A Hatóság elnökének öt évre történő kinevezéséről a Tanács a jelen levő tagok kétharmados szótöbbségével dönt.
 
-(2) A Hatóság elnökére a közszolgálati tisztviselőkről szóló törvényt (a továbbiakban: Kttv.) az e törvény szerinti eltérésekkel kell alkalmazni.
+(2) A Hatóság elnökére a Kttv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
 
 (3) A Hatóság elnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított havi illetménye a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset nyolcszorosa. Egyebekben a Közbeszerzési Hatóság elnöke a minisztert megillető juttatásokra jogosult.
 
@@ -3001,9 +3021,13 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (8) Amennyiben a Hatóság elnöke megbízatása időtartamának lejártáig a Tanács nem dönt az új elnök kinevezéséről, az elnök megbízatása az adott naptári év végéig meghosszabbodik.
 
+(9) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Kttv. 115. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a főtitkár látja el.
+
+(10) A Hatóság elnökét minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
+
 ### A Hatóság keretében működő Tanács
 
-182. § (1) A Tanács tizenhárom tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
+182. § (1) A Tanács tizenöt tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
@@ -3016,7 +3040,10 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 - g) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
 - h) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák – köztük a Magyar Agrár, Élelmiszergazdasági és Vidékfejlesztési Kamara – által kijelölt három személy;
 - i) a Magyar Mérnöki Kamara elnöke és a Magyar Építész Kamara elnöke által közösen kijelölt személy;
-- j) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt személy.
+- j) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt személy;
+- k) az innovációért felelős miniszter által kijelölt személy;
+- l) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
+- m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy.
 
 (3) A Tanács elnöke a Hatóság elnöke. A Tanács alelnöke a Hatóság alelnöke.
 
@@ -3033,11 +3060,11 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 - a) országgyűlési képviselő vagy nemzetiségi szószóló;
 - b) büntetett előéletű.
 
-(9) A tagok megbízatása legalább két évre szól.
+(9) A tagok megbízatása legfeljebb két évre szól.
 
 (10) A tagok kijelölésének és visszahívásának a (7)–(9) bekezdés esetén kívüli szabályait a kijelölő szervezetek állapítják meg úgy, hogy a Tanács működőképessége állandóan biztosítható legyen.
 
-(11) A tagok megbízatásukat személyesen kötelesek ellátni. A tagok tiszteletdíjra jogosultak, amelynek havi mértékét a Hatóság szervezeti és működési szabályzata rögzíti.
+(11) A tagok megbízatásukat személyesen kötelesek ellátni.
 
 183. § A Tanács
 
@@ -3046,7 +3073,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 - c) a közbeszerzésekért felelős miniszterrel egyeztetve – és adott esetben az országos gazdasági kamarákkal vagy más szakmai szervezetekkel együttműködve – a közbeszerzési jogszabályok alkalmazását elősegítendő útmutatót készít a jogorvoslati döntésekből, valamint a közbeszerzések ellenőrzésének gyakorlatából levonható tapasztalatok alapján, valamint a közbeszerzésekkel kapcsolatos gyakorlati tudnivalókról (különösen a jelen törvényben előírt témakörökben);
 - d) ellátja a részére törvényben előírt egyéb feladatokat.
 
-184. § (1) A Tanács testületi üléseit szükség szerint, de évente legalább tíz alkalommal tartja.
+184. § (1) A Tanács testületi üléseit szükség szerint, de évente legalább négy alkalommal tartja.
 
 (2) A Tanács határozatképes, ha a tagok kétharmada jelen van.
 
@@ -3058,9 +3085,11 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 ### A Hatóság Titkársága
 
-185. § (1) A Hatóság és a Tanács tevékenységével kapcsolatos koordinációt, döntéseinek előkészítését és végrehajtását, továbbá az ennek végzéséhez szükséges adatgyűjtő, nyilvántartó, valamint adminisztratív tevékenységet a Hatóság Titkársága végzi. A Titkárságot a főtitkár vezeti.
+185. § (1) A Hatóság és a Tanács tevékenységével kapcsolatos koordinációt, döntéseinek előkészítését és végrehajtását, továbbá az ennek végzéséhez szükséges adatgyűjtő, nyilvántartó, valamint adminisztratív tevékenységet – ideértve a Tanács tevékenységének koordinálását is – a Hatóság Titkársága végzi. A Titkárságot a főtitkár vezeti.
 
-(2) A főtitkár és a Titkárság alkalmazottai a Hatósággal állnak közszolgálati jogviszonyban, amely jogviszonyra a Kttv.-t kell alkalmazni. A főtitkár a helyettes államtitkárnak járó illetményre és egyéb juttatásokra jogosult.
+(2) A főtitkár és a Titkárság alkalmazottai a Hatósággal állnak közszolgálati jogviszonyban vagy munkaviszonyban, amely jogviszonyra e törvényt, a Kttv.-t, vagy a munka törvénykönyvéről szóló törvényt kell alkalmazni. A főtitkár a közigazgatási államtitkárral azonos illetményben, illetve juttatásokban részesül azzal, hogy a vezetői illetménypótlék az alapilletmény 100%-a, továbbá az illetménykiegészítés az alapilletmény 80%-a.
+
+(3) A Hatóság főtitkárát minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
 
 186. § A Hatóság elnöke, alelnöke és a Tanács tagjai, a főtitkár, a Titkárság alkalmazottai és a közbeszerzési biztosok vagy azon személyek, akik ilyen tisztséget viseltek, tevékenységet végeztek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.
 
@@ -3071,34 +3100,38 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 (2) A Hatóság
 
 - a) naprakészen vezeti és a honlapján közzéteszi
-  - aa) a törvény hatálya alá tartozó ajánlatkérők listáját,
+  - aa)
   - ab) a minősített ajánlattevők Hatóság által létrehozott hivatalos jegyzékét,
   - ac) a 62. § (1) bekezdés h) pontja szerinti kizárást megalapozó döntőbizottsági és bírósági határozatok számát és a határozathozatal napját, valamint – a jogsértés súlyosságának mérlegelése nélkül – minden olyan véglegessé vált döntőbizottsági – vagy annak közigazgatási perben való megtámadása esetén jogerős bírósági – határozat számát és a határozathozatal napját, amely megalapozhatja a 62. § (1) bekezdés q) pontja szerinti kizárást;
   - ad) a közbeszerzési eljárásban való részvételtől eltiltott ajánlattevők listáját, amely lista tartalmazza az eltiltás idejét is,
-  - ae) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által elismert megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak a honlapon a szerződésszegéstől számított három évig kell elérhetőnek lenniük,
+  - ae) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által nem vitatott súlyos megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak a honlapon a szerződésszegéstől vagy a bírósági határozat jogerőre emelkedésétől számított három évig kell elérhetőnek lenniük;
   - af) a kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát megállapító határozatokat [188. § (4) bekezdés],
-  - ag) a védett munkahelyek listáját, amely tartalmazza az általuk gyártott vagy forgalmazott termékek, illetve nyújtott szolgáltatások felsorolását;
+  - ag) a védett munkahelyek listáját, amely tartalmazza az általuk gyártott vagy forgalmazott termékek, illetve nyújtott szolgáltatások felsorolását,
+  - ah) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékét;
 - b) nyilvántartást vezet a közbeszerzésekről;
 - c) a gazdasági, valamint szakmai kamara által létrehozott minősített ajánlattevői jegyzékbe vétel feltételeinek megfelelőségét ellenőrzi, a jegyzéket nyilvántartja;
 - d) az Európai Bizottság által kért, hiányzó statisztikai adatokat a Bizottságnak megküldi, az e törvényben előírt tájékoztatásokat az Európai Bizottság részére megküldi;
-- e) első ízben 2017. március 1-jéig, majd azt követően háromévente statisztikai jelentést készít az uniós értékhatárt el nem érő becsült értékű közbeszerzésekről – különösen az érintett időszakban az ilyen közbeszerzések becsült, összesített teljes értékéről – amelyet megfelelő határidőben a közbeszerzésekért felelős miniszter rendelkezésére bocsát;
+- e) háromévente statisztikai jelentést készít az uniós értékhatárt el nem érő becsült értékű közbeszerzésekről – különösen az érintett időszakban az ilyen közbeszerzések becsült, összesített teljes értékéről – amelyet megfelelő határidőben a közbeszerzésekért felelős miniszter rendelkezésére bocsát;
 - f) gondoskodik a „Közbeszerzési Értesítő – a Közbeszerzési Hatóság Hivatalos Lapja” (a továbbiakban: Közbeszerzési Értesítő) szerkesztéséről, a közbeszerzési és a tervpályázati eljárással kapcsolatos hirdetmények közzétételéről, valamint ellenőrzéséről. A hirdetmények ellenőrzése során biztosítja az adatok teljeskörűségét, ennek érdekében az ajánlatkérőt adatszolgáltatásra hívhatja fel. Gondoskodik továbbá a 113. § (1) bekezdésében szereplő tájékoztatások honlapján történő közzétételéről, valamint az e törvény által előírt egyéb adatok, információk honlapján, illetve a Közbeszerzési Értesítőben történő közzétételéről;
 - g) honlapján a beérkezés időpontjában közzéteszi a Közbeszerzési Döntőbizottság eljárását kezdeményező kérelem, valamint a hivatalbóli kezdeményezés adatait, a Döntőbizottság érdemi és a közbeszerzési ügy befejezését eredményező határozatát, továbbá a határozat megtámadására irányuló közigazgatási per esetén a bíróság határozatát;
 - h) kialakítja és működteti, valamint honlapján közzéteszi a jogorvoslati határozatok nyilvános adatbázisát, amelyben biztosítja, hogy a döntőbizottsági és a bírósági határozatok elektronikusan, ingyenesen, teljeskörűen, tárgyszavas keresési lehetőséggel bárki által elérhetőek legyenek;
 - i) a (10) bekezdés, továbbá a 183. § c) pontja, valamint a 194. § (3) bekezdése szerinti útmutatót vagy közleményt honlapján közéteszi;
-- j) figyelemmel kíséri a közbeszerzési eljárás alapján megkötött szerződések módosítását és az Ákr. alapján hatósági ellenőrzés keretében – külön jogszabályban meghatározott részletes szabályok szerint – is ellenőrzi azok teljesítését, megteszi különösen a 153. § (1) bekezdés c) pontjában és a 175. §-ban meghatározott intézkedéseket;
+- j) figyelemmel kíséri a közbeszerzési eljárás, valamint a koncessziós beszerzési eljárás alapján megkötött szerződések módosításáról szóló hirdetményeket, ennek során az Ákr. alapján hatósági ellenőrzés keretében – jogszabályban meghatározott részletes szabályok szerint – ellenőrzi a szerződések teljesítését és módosítását, a tervpályázati eljárás eredményét, valamint megteszi különösen a 153. § (1) bekezdés c) pontjában és a 175. §-ban meghatározott intézkedéseket;
 - k) működteti a Közbeszerzési Adatbázist, amely a közbeszerzési eljárások központi nyilvántartása, elősegíti a közbeszerzési információk nyilvánosságát, az elektronikus közbeszerzési adatbázisok használatának elterjedését, továbbá az elektronikus eljárási és kommunikációs lehetőségek támogatását; ennek keretében elektronikus közzétételi lehetőséget biztosít, ahol az ajánlatkérő a közbeszerzési dokumentumokat központilag, térítésmentesen és teljes terjedelemben közvetlenül elektronikus úton az ajánlattevők számára hozzáférhetővé teheti, és ahonnan az ajánlattevők a közbeszerzési dokumentumokat ingyenesen elérhetik;
 - l) a közbeszerzési szabályozás széles körű megismertetése érdekében konferenciákat szervez;
 - m) a közbeszerzési eljárások előkészítése és lebonyolítása során az ajánlatkérők segítése érdekében – elvi jelentőségű jogértelmezési kérdésekben a közbeszerzésekért felelős miniszterrel szükség szerint egyeztetve – állásfoglalásokat ad;
 - n) az Európai Unió más tagállamainak közbeszerzési szervezeteivel való kapcsolattartás keretében – különösen a közbeszerzési eljárások során alkalmazandó igazolásokról, Magyarországon nyilvánosan elérhető adatbázisokról, nyilvántartásokról – információt szolgáltat, gondoskodik a vonatkozó nyilvántartások listájának az e-Certis rendszerben való közzétételéről, és teljesíti különösen a 2014/24/EU irányelv 44. cikk (3) bekezdésében, 59. cikk (6) bekezdésében, 60. cikk (5) bekezdésében, 61. cikk (1) bekezdésében, 62. cikk (3) bekezdésében, 64. cikk (1) és (8) bekezdésében, valamint 69. cikk (5) bekezdésében foglalt kötelezettségeket, továbbá a 2014/25/EU irányelv 62. cikk (3) bekezdésében, 81. cikk (3) bekezdésében, 84. cikk (5) bekezdésében, 86. cikk (1) és (4) bekezdésében foglalt kötelezettségeket;
 - o) figyelemmel kíséri e törvény szabályainak érvényesülését, kezdeményezi az arra jogosultnál a közbeszerzésekkel kapcsolatos jogszabályok megalkotását, módosítását;
-- p) véleményezi a közbeszerzésekkel és a Tanács működésével kapcsolatos jogszabálytervezeteket, valamint jogszabály-koncepciókat;
+- p) véleményezi a közbeszerzésekkel és a Hatóság működésével kapcsolatos jogszabálytervezeteket, valamint jogszabály-koncepciókat;
 - q) folyamatosan frissíti, karbantartja és a honlapján – a foglalkoztatáspolitikáért felelős miniszter által minden évben rendelkezésére bocsátott adatszolgáltatás alapján – közzéteszi az egyes ágazatokban szokásos vagy megállapított béreket és kapcsolódó közterheket;
 - r) meghatározza a Hatóság által létrehozott minősített ajánlattevői jegyzékkel kapcsolatos minősítési szempontokat és azok igazolási módjait;
-- s) statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket felhasználva árstatisztikát készít, amelyet a honlapján rendszeres időközönként közzétesz;
-- t) elkészíti a Hatóság szervezeti és működési, valamint más, a Hatóság működését érintő belső szabályzatát, továbbá költségvetési javaslatát és éves költségvetési beszámolóját, jóváhagyja a Közbeszerzési Döntőbizottság szervezeti és működési szabályzatát;
+- s) statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket honlapján rendszeres időközönként közzétesz;
+- t) elkészíti a Hatóság szervezeti és működési, valamint más, a Hatóság működését érintő belső szabályzatát, továbbá költségvetési javaslatát és éves költségvetési beszámolóját;
 - u) honlapján közzéteszi a közbeszerzésekért felelős miniszter által nyilvántartott felelős akkreditált közbeszerzési szaktanácsadóknak a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló miniszteri rendeletben meghatározott adatait;
-- v) ellátja a részére törvényben előírt egyéb feladatokat.
+- v) ellátja a részére törvényben előírt egyéb feladatokat,
+- x) naprakészen vezeti az EKR-ben a törvény hatálya alá tartozó ajánlatkérők listáját.
+
+(2a) A (2) bekezdés a) pont ag) alpontjában foglalt feladatok ellátásához a védett munkahelyek kötelesek ezen minőségükről – valamint az adataikban történt változásokról – haladéktalanul tájékoztatni a Hatóságot az általuk gyártott vagy forgalmazott termékek, valamint a részükről nyújtott szolgáltatások megjelölésével együtt.
 
 (3) A Hatóság elnöke, illetve a közbeszerzési biztos megkeresésére a közbeszerzéssel kapcsolatos ügyben minden szervezet – ideértve a szakmai kamarákat és az érdekképviseleti szervezeteket is – köteles tíz napon belül tájékoztatást adni.
 
@@ -3116,7 +3149,32 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (10) A Hatóság a közbeszerzések terén fennálló nemzetközi szerződésekről, továbbá azokról az államokról, amelyekkel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van, a külpolitikáért felelős miniszterrel egyeztetve útmutatót ad ki.
 
-(11) A Hatóság (2) bekezdés a) pont ab) alpontja szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóság elnökének köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett minősített ajánlattevő a Hatóság határozatát közigazgatási perben megtámadhatja a határozat kézhezvételétől számított tizenöt napon belül. A bíróság ítélete ellen fellebbezésnek nincs helye.
+(11) A Hatóság (2) bekezdés a) pont ab) és ac) alpontja szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóság elnökének köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett minősített ajánlattevő a Hatóság határozatát közigazgatási perben megtámadhatja a határozat kézhezvételétől számított tizenöt napon belül. A bíróság ítélete ellen fellebbezésnek nincs helye.
+
+(12) A Hatóság a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékének vezetése céljából jogosult a felelős akkreditált közbeszerzési szaktanácsadó természetes személyazonosító adatait, elérhetőségi címét, végzettségét, a cselekvőképességére és büntetett előéletre vonatkozó adatokat, a munkáltatóra és a felelős akkreditált közbeszerzési szaktanácsadó közbeszerzési gyakorlatára vonatkozó adatokat, valamint azt nyilvántartani, hogy a felelős akkreditált közbeszerzési szaktanácsadó jogosult-e az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 2. § (1) bekezdésében meghatározott tevékenység folytatására.
+
+(13) A Hatóság a (12) bekezdésben foglalt adatokat a felelős akkreditált közbeszerzési szaktanácsadó jegyzékből történő törlését követően egy évig kezelheti. Törölni kell a névjegyzékből a felelős akkreditált közbeszerzési szaktanácsadót,
+
+- a) ha nem felel meg a jogszabályban meghatározott bejegyzési feltételeknek,
+- b) ha a (14) bekezdésben foglalt valamely kizáró ok bekövetkezik vagy jogerős határozattal megállapították, hogy a felelős akkreditált közbeszerzési szaktanácsadó ilyen minőségében szándékos jogszabálysértést követett el,
+- c) ha a névjegyzékbe vétel hatálya lejárt és a névjegyzékbe vétel hatályának lejárta előtt nem nyújtottak be megújítási kérelmet vagy azt elutasították, illetve az eljárást megszüntették,
+- d) ha azt a felelős akkreditált közbeszerzési szaktanácsadó kéri, vagy
+- e) a névjegyzékben szereplő személy halála esetén.
+
+(14) Nem lehet felelős akkreditált közbeszerzési szaktanácsadó, aki
+
+- a) cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott;
+- b) a büntetett előélethez fűződő hátrányok alól nem mentesült;
+- c) közbeszerzési biztos;
+- d) a Közbeszerzési Hatóság elnöke, alelnöke.
+
+(15) A névjegyzékbe vétel iránti kérelemhez csatolni kell azokat a nyilatkozatokat, amelyek a (14) bekezdés a), c) és d) pont szerinti kizáró ok fenn nem állására vonatkoznak. A (14) bekezdés b) pontja szerinti kizáró ok fenn nem állását a Hatóság a névjegyzékbe vétel iránti kérelem benyújtásával egyidejűleg a bűnügyi nyilvántartásból történő adatigényléssel ellenőrzi. A névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok módosításáért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj megfizetése alól mentesség nem adható.
+
+(16) A Hatóság a névjegyzékbe vétel iránti kérelemhez csatolt okiratok megvizsgálása után a kérelem beérkezésétől számított húsz napon belül az Ákr. szerint döntést hoz az okiratok megfelelőségéről, e döntés meghozatala körében nincs helye sommás eljárásnak. A Hatóság az eljárást felfüggeszti, ha az azzal szorosan összefüggő más hatósági döntés nélkül megalapozottan nem hozható döntés. A hiányosan benyújtott okiratok pótlására a Hatóság egy alkalommal, nyolcnapos határidőt biztosít a kérelmező számára.
+
+(17) A névjegyzékbe vétel iránti kérelmet írásban kell előterjeszteni. A hatósági eljárás során az elektronikus kapcsolattartás kötelező. A kérelem kormányablaknál nem terjeszthető elő. A névjegyzékbe vétel feltételeinek igazolásához benyújtandó dokumentumok az ügyfél nyilatkozatával nem pótolhatóak.
+
+(18) A Hatóság (12) bekezdés szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóságnak köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett felelős akkreditált közbeszerzési szaktanácsadó a Hatóság határozatát annak kézhezvételétől számított tizenöt napon belül támadhatja meg. A bíróság ítélete ellen fellebbezésnek nincs helye.
 
 188. § (1) Bármely gazdasági szereplő, akivel (amellyel) szemben a 62. § (1) bekezdés b) és f) pontjában említett kizáró okok kivételével bármely egyéb kizáró ok fennáll, kérelmet nyújthat be a Hatósághoz annak megállapítása érdekében, hogy az általa hozott intézkedések a kizáró ok fennállásának ellenére kellőképpen igazolják a megbízhatóságát. A benyújtott kérelem informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Hatóság rendelkezésére kell bocsátani, amit – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Hatóság egy munkanapon belül visszaigazol. A megtett intézkedésekkel kapcsolatos bizonyítékokat a kérelemmel együtt kell benyújtani a Közbeszerzési Hatóság részére.
 
@@ -3170,6 +3228,71 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
+191/A. § (1) A Hatóságnál foglalkoztatott felsőfokú iskolai végzettségű köztisztviselőt a közszolgálati jogviszonyban eltöltött idejének megfelelően a (2) bekezdésben meghatározott besorolási fokozatba, illetve – a (3) bekezdésben meghatározott esetekben az ott meghatározott – fizetési fokozatokba kell besorolni a Kttv. 118. §-a, 119. §-a, 120. §-a, 121. §-a és 122. §-a megfelelő alkalmazásával.
+
+(2) A köztisztviselő
+
+- a) pályakezdőként gyakornok,
+- b) egy év közszolgálati jogviszonyban töltött idő után fogalmazó,
+- c) három év közszolgálati jogviszonyban töltött idő után tanácsos,
+- d) nyolc év közszolgálati jogviszonyban töltött idő után vezető tanácsos,
+- e) tizenhat év közszolgálati jogviszonyban töltött idő után főtanácsos,
+- f) huszonöt év közszolgálati jogviszonyban töltött idő után vezető főtanácsos
+
+besorolást kap.
+
+(3) A (2) bekezdés a) és b) pontja szerinti besorolási fokozaton belül nincsenek fizetési fokozatok, a (2) bekezdés c)–f) pontja szerinti besorolási fokozat I. és II. fizetési fokozatokból áll. A
+
+- a) tanácsos besorolású köztisztviselőt öt év közszolgálati jogviszonyban eltöltött idő után tanácsos II. fizetési fokozatba,
+- b) vezető tanácsos besorolású köztisztviselőt tizenkét év közszolgálati jogviszonyban töltött idő után vezető tanácsos II. fizetési fokozatba,
+- c) főtanácsos besorolású köztisztviselőt húsz év közszolgálati jogviszonyban töltött idő után főtanácsos II. fizetési fokozatba,
+- d) vezető főtanácsos besorolású köztisztviselőt harminc év közszolgálati jogviszonyban töltött idő után vezető főtanácsos II. fizetési fokozatba
+
+kell besorolni.
+
+191/B. § (1) A köztisztviselő a Hatóság elkülönült szervezeti egységének vezetésére főosztályvezetői, főosztályvezető-helyettesi, illetve osztályvezetői munkakörbe nevezhető ki. A főosztályvezető helyettesítésére – szervezeti egység vezetése nélkül – egy szervezeti egységnél legfeljebb egy főosztályvezető-helyettesi munkakör tölthető be.
+
+(2) A főosztályvezetőre, a főosztályvezető-helyettesre és az osztályvezetőre – ha e törvény eltérően nem rendelkezik – a Kttv. főosztályvezetőre, főosztályvezető-helyettesre, illetve osztályvezetőre vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+
+(3) A Hatóságnál tanácsadói vagy főtanácsadói munkakörbe kinevezett köztisztviselő besorolásakor az e törvény szerinti főtanácsosi, illetve vezető főtanácsosi besorolást kell figyelembe venni; a főtanácsosi besorolású köztisztviselő főosztályvezető-helyettesi, a vezető főtanácsosi besorolású köztisztviselő főosztályvezetői illetményre jogosult.
+
+191/C. § (1) A Hatóságnál foglalkoztatott felsőfokú iskolai végzettségű köztisztviselő alapilletménye
+
+- a) gyakornok esetében az illetményalap 4-szerese,
+- b) fogalmazó esetében az illetményalap 4,5-szerese,
+- c) tanácsos
+  - ca) I. fizetési fokozat esetében az illetményalap 5,5-szerese,
+  - cb) II. fizetési fokozat esetében az illetményalap 6-szorosa,
+- d) vezető tanácsos
+  - da) I. fizetési fokozat esetében az illetményalap 6,5-szerese,
+  - db) II. fizetési fokozat esetében az illetményalap 7-szerese,
+- e) főtanácsos
+  - ea) I. fizetési fokozat esetében az illetményalap 7,6-szerese,
+  - eb) II. fizetési fokozat esetében az illetményalap 7,9-szerese,
+- f) vezető főtanácsos
+  - fa) I. fizetési fokozat esetében az illetményalap 8,4-szerese,
+  - fb) II. fizetési fokozat esetében az illetményalap 8,6-szerese.
+
+(2) A vezető alapilletménye
+
+- a) osztályvezető esetében az illetményalap 8,6-szerese,
+- b) főosztályvezető-helyettes esetében az illetményalap 8,7-szerese,
+- c) főosztályvezető esetében az illetményalap 9-szerese.
+
+(3) A vezetői illetménypótlék mértéke
+
+- a) osztályvezető esetében az alapilletmény 20%-a,
+- b) főosztályvezető-helyettes esetében az alapilletmény 40%-a,
+- c) főosztályvezető esetében az alapilletmény 60%-a.
+
+(4) A Hatóság alaptevékenységét elősegítő munkakörben foglalkoztatott, nem felsőfokú végzettségű köztisztviselő illetménykiegészítésének mértéke az alapilletmény 80%-a.
+
+(5) A közszolgálati ügykezelő illetményét a hivatali szervezet vezetője állapítja meg, oly módon, hogy az elérje legalább a garantált bérminimum összegét, de ne haladja meg az illetményalap nyolcszorosát. Az illetmény megállapításakor arányosan figyelembe kell venni a közszolgálati ügykezelő közszolgálati jogviszonyban töltött idejét. Az illetmény megállapításakor figyelembe veendő egyéb szempontokat a közszolgálati szabályzatban kell rögzíteni.
+
+(6) A Hatóság elnöke a minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kimagasló teljesítményt nyújtó köztisztviselőnek a személyi juttatás előirányzata terhére az e törvényben, illetve a Kttv.-ben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény a Hatóság megállapított létszámkeretének legfeljebb húsz százalékáig adható úgy, hogy adott év március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, az adott évet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset hatszorosát. A személyi illetmény megállapítása egy évig – az adott évet követő év február végéig – érvényes.
+
+191/D. § A Hatóság nem tartozik a közigazgatási személyügyi tevékenységekkel kapcsolatos adatszolgáltatási körbe.
+
 ### XXIV. Fejezet — KÖZBESZERZÉSI DÖNTŐBIZOTTSÁG
 
 192. § (1) A Közbeszerzési Döntőbizottság feladata a közbeszerzésekkel és a tervpályázati eljárásokkal kapcsolatos jogsértő vagy vitás ügyek miatti jogorvoslat intézése.
@@ -3191,7 +3314,11 @@ rendelkezik.
 
 (6) A Döntőbizottság elnökének közszolgálati jogviszonyára a Kttv.-t a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(7) A Döntőbizottság elnöke az államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes főosztályvezetői illetményre jogosult.
+(7) A Döntőbizottság elnöke a közigazgatási államtitkárral azonos illetményben, illetve juttatásokban részesül azzal, hogy a vezetői illetménypótlék az alapilletmény 100%-a, továbbá az illetménykiegészítés az alapilletmény 80%-a. Az elnökhelyettes főosztályvezetői illetményre jogosult.
+
+(8) A Döntőbizottság elnökét minden naptári évben negyven munkanap szabadság illeti meg azzal, hogy a szabadságolási tervtől eltérően évi tizenhat munkanapot kell kiadni részére az általa kért időpontban.
+
+(9) A Döntőbizottság elnöke személyi anyagának kezelését, valamint a Döntőbizottság elnöke tekintetében a Kttv. 115. §-a szerinti adatok nyilvántartását, továbbá a Döntőbizottság elnökének foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat a Döntőbizottság elnökhelyettese látja el.
 
 193. § (1) A Döntőbizottság elnöke
 
@@ -3249,32 +3376,29 @@ rendelkezik.
 
 (2) A közbeszerzésekért felelős miniszter hagyja jóvá a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítását, valamint irányítja, felügyeli és ellenőrzi a közbeszerzési tárgyú képzéseket.
 
+(2a) A közbeszerzésekért felelős miniszter jogosult a (2) bekezdésben foglalt közbeszerzési tárgyú, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges szakmai képzéseknek az elismerése céljából a képzéseken előadó oktatók természetes személyazonosító adatait, elérhetőségi adatait, végzettségét, szakmai tapasztalatát érintő adatok kezelésére.
+
 (3) Az (1)–(2) bekezdésben foglalt feladatokkal kapcsolatos részletes szabályokat külön jogszabály tartalmazza.
 
 (4) A közbeszerzésekért felelős miniszter az (1) bekezdésben meghatározott központi ellenőrzéssel összefüggésben bírsággal sújthatja azt az ellenőrzéssel érintett szervezetet, amely a külön jogszabályban meghatározott kötelezettségeit nem teljesíti vagy a határidőket elmulasztja.
 
 (5) A közbeszerzésekért felelős miniszter kérésére az (1) bekezdésben meghatározott ajánlatkérő köteles a közbeszerzéseivel összefüggő bármely adatot a miniszter részére öt munkanapon belül megküldeni. Az (1) bekezdésben meghatározott ajánlatkérők kötelesek a közbeszerzési értékhatárt el nem érő értékű beszerzéseikkel kapcsolatos adatokat a Kormány rendeletében meghatározottak szerint a közbeszerzésekért felelős miniszter részére megküldeni. A közbeszerzésekért felelős miniszter a Kormány rendeletében meghatározottak szerint ellenőrizheti az (1) bekezdésben meghatározott ajánlatkérők közbeszerzési értékhatárt el nem érő értékű beszerzéseit.
 
-(6) A közbeszerzésekért felelős miniszter naprakészen vezeti a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékét.
+(6) A közbeszerzésekért felelős miniszter naprakészen vezeti a képző szervezetek által megküldött dokumentumok alapján a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat. E nyilvántartás vezetése körében jogosult a képzéseken részt vevők személyazonosító adatainak, elérhetőségi adatainak kezelésére.
 
-(7) A közbeszerzésekért felelős miniszter a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékének vezetése céljából jogosult a felelős akkreditált közbeszerzési szaktanácsadó természetes személyazonosító adatait, elérhetőségi címét, végzettségét, a cselekvőképességére és büntetett előéletre vonatkozó adatokat, a munkáltatóra és a felelős akkreditált közbeszerzési szaktanácsadó közbeszerzési gyakorlatára vonatkozó adatokat, valamint azt nyilvántartani, hogy a felelős akkreditált közbeszerzési szaktanácsadó jogosult-e az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 2. § (1) bekezdésében meghatározott tevékenység folytatására.
+(7)
 
-(8) A közbeszerzésekért felelős miniszter a (7) bekezdésben foglalt adatokat a felelős akkreditált közbeszerzési szaktanácsadó jegyzékből történő törlését követően egy évig kezelheti. Törölni kell a névjegyzékből a felelős akkreditált közbeszerzési szaktanácsadót, ha nem felel meg a külön jogszabályban meghatározott bejegyzési feltételeknek, ha a (9) bekezdésben foglalt valamely kizáró ok bekövetkezik vagy jogerős határozattal megállapították, hogy a felelős akkreditált közbeszerzési szaktanácsadó ilyen minőségében szándékos jogszabálysértést követett el, ha a névjegyzékbe vétel hatálya lejárt és nem nyújtottak be megújítási kérelmet vagy azt elutasították, ha azt a felelős akkreditált közbeszerzési szaktanácsadó kéri, valamint a névjegyzékben szereplő személy halála esetén.
+(8)
 
-(9) Nem lehet felelős akkreditált közbeszerzési szaktanácsadó, aki
+(9)
 
-- a) cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott;
-- b) a büntetett előélethez fűződő hátrányok alól nem mentesült;
-- c) közbeszerzési biztos;
-- d) a Közbeszerzési Hatóság elnöke vagy alelnöke.
+(10)
 
-(10) A bejegyzés iránti kérelemhez csatolni kell azokat az okiratokat vagy azok hiteles másolatát is, amelyek a (9) bekezdés szerinti kizáró ok fenn nem állását igazolják. A névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok módosításáért külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj megfizetésének elmaradása esetén a hatóság a kérelmet visszautasítja. Az igazgatási szolgáltatási díj megfizetése alól mentesség nem adható.
+(10a)
 
-(10a) A közbeszerzésekért felelős miniszter a névjegyzékbe vétel iránti kérelemhez csatolt okiratok megvizsgálása után a kérelem beérkezésétől számított húsz napon belül az Ákr. szerint döntést hoz az okiratok megfelelőségéről, e döntés meghozatala körében nincs helye sommás eljárásnak. A hiányosan benyújtott okiratok pótlására a közbeszerzésekért felelős miniszter egy alkalommal, nyolcnapos határidőt biztosít a kérelmező számára. A hiánypótlási határidő eredménytelen eltelte esetén a közbeszerzésekért felelős miniszter a névjegyzékbe vétel iránti kérelmet elutasítja.
+(10b)
 
-(10b) A névjegyzékbe vétel iránti kérelmet írásban kell előterjeszteni. A hatósági eljárás során az elektronikus kapcsolattartás kötelező. A kérelem kormányablaknál nem terjeszthető elő. A névjegyzékbe vétel feltételeinek igazolásához benyújtandó dokumentumok az ügyfél nyilatkozatával nem pótolhatóak.
-
-(11) A közbeszerzésekért felelős miniszter (7) bekezdés szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a közbeszerzésekért felelős miniszternek köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A közbeszerzésekért felelős miniszter feladatkörében hozott határozatával és végzésével szemben nincs helye fellebbezésnek, kivéve, ha e törvény eltérően rendelkezik. A kérelmező, illetve az érintett felelős akkreditált közbeszerzési szaktanácsadó a határozattal szemben közigazgatási pert indíthat a határozat kézhezvételétől számított tizenöt napon belül. A bíróság ítélete ellen fellebbezésnek nincs helye.
+(11)
 
 (12) A közbeszerzésekért felelős miniszter ellátja az egységes, a közbeszerzési és koncessziós beszerzési eljárások lefolytatásához alkalmazandó elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat.
 
@@ -3312,6 +3436,8 @@ rendelkezik.
 
 (12) E törvénynek a Mód3. tv. 11. §-a által megállapított 40. § (2) bekezdését alkalmazni kell a Mód3. tv. hatályba lépése előtt az EKR-ben megindított eljárásokért – az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet alapján – fizetett rendszerhasználati díjakra is.
 
+(13) E törvénynek a Mód3. tv. által megállapított 177. § (3) bekezdésének rendelkezéseit a Mód3. tv. által megállapított 177. § (3) bekezdés hatálybalépését követő igényérvényesítésekre kell alkalmazni.
+
 197/A. § Az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvénnyel megállapított
 
 - a) 25. § (3) és (4) bekezdésének a közös háztartásban élő hozzátartozóra vonatkozó rendelkezését a 2015. november 1-jét követően,
@@ -3336,7 +3462,7 @@ indult eljárásban kell alkalmazni.
 - 11. a gyógyszerek és az orvostechnikai eszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait;
 - 12. a 9. § (1) bekezdés b) pontjában meghatározott beszerzések Országgyűlés illetékes bizottsága általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket;
 - 13. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
-- 14. az irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, amelyekben az állam nevében a tulajdonosi (részvényesi, tagsági stb.) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján központi költségvetési szerv vagy intézménye gyakorolja, valamint e szervezetek közbeszerzési szerződései, építési vagy szolgáltatási koncessziói módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését, a közbeszerzések központi ellenőrzésével és engedélyezésével összefüggésben megküldendő adatok körét, továbbá a központi ellenőrzéssel összefüggésben a közbeszerzésekért felelős miniszter által kiszabható bírságot és – az adópolitikáért felelős miniszter egyetértésével – annak mértékét. Az engedélyezési és ellenőrzési tevékenység keretében a Kormány jogpolitikai céljainak érvényesítése érdekében a közbeszerzésre, illetve annak feltételeire vonatkozó tartalmi követelmények is előírhatóak;
+- 14. az irányítása vagy felügyelete alá tartozó költségvetési szervek és intézményeik, a Kormány közalapítványai, valamint azon többségi állami tulajdonban lévő gazdálkodó szervezetek közbeszerzései megindításának engedélyezésére és lefolytatásának központi ellenőrzésére vonatkozó sajátos szabályokat, amelyekben az állam nevében a tulajdonosi (például részvényesi, tagsági) jogokat miniszteri rendelet vagy a Magyar Nemzeti Vagyonkezelő Zrt.-vel kötött megbízási szerződés alapján Kormány tagja, központi költségvetési szerv vagy intézménye gyakorolja, valamint e szervezetek közbeszerzési szerződései, építési vagy szolgáltatási koncessziói módosításának engedélyezésére vonatkozó sajátos szabályokat, valamint e szervezetek és a kezelésükben lévő vagy általuk alapított alapítványok nem közbeszerzés útján megkötött, beszerzést megvalósító szerződései megkötésének és módosításának engedélyezését, a közbeszerzések központi ellenőrzésével és engedélyezésével összefüggésben megküldendő adatok körét, továbbá a központi ellenőrzéssel összefüggésben a közbeszerzésekért felelős miniszter által kiszabható bírságot és – az adópolitikáért felelős miniszter egyetértésével – annak mértékét. Az engedélyezési és ellenőrzési tevékenység keretében a Kormány jogpolitikai céljainak érvényesítése érdekében a közbeszerzésre, illetve annak feltételeire vonatkozó tartalmi követelmények is előírhatóak;
 - 15. a részben vagy egészben nem hazai költségvetési forrásból megvalósuló, uniós értékhatárokat elérő vagy meghaladó értékű árubeszerzés, szolgáltatás és szolgáltatási koncesszió, továbbá a háromszázmillió forintot elérő vagy meghaladó értékű építési beruházás és építési koncesszió esetén a lefolytatott közbeszerzési eljárás ellenőrzésére, valamint az e közbeszerzési eljárások eredményeképpen létrejött szerződés módosításának engedélyezésére vonatkozó részletes szabályokat;
 - 16. a Közbeszerzési Hatóság által a szerződések teljesítése és módosítása ellenőrzésére lefolytatható hatósági ellenőrzés részletes szabályait, az ajánlatkérők és gazdasági szereplők ellenőrzéshez kapcsolódó kötelezettségeit, amelynek keretében a Közbeszerzési Hatóság az eljárás és a szerződés teljesítéséhez, módosításához kapcsolódó adatok teljes körű megismerésére jogosult és azok átadását kérheti;
 - 17. a védett munkahelyek, a fejlesztő foglalkoztatók, és a hátrányos helyzetű munkavállalókat foglalkoztató szervezetek részére fenntartott közbeszerzések kötelező eseteit;
@@ -3344,16 +3470,16 @@ indult eljárásban kell alkalmazni.
 - 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, valamint a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
 - 20. A 195. § (1) bekezdésében meghatározott ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő, a 4. § (3) bekezdése szerinti beszerzései megvalósítására vonatkozó követelményeket, e beszerzések tekintetében a legalább három ajánlat bekérésére vonatkozó követelmény alóli kivételeket, valamint ezen ajánlatkérő szervezetek közbeszerzési értékhatárt el nem érő beszerzéseivel, közbeszerzéseivel kapcsolatos adatoknak a közbeszerzésekért felelős miniszter részére történő megküldésére és a beszerzéseknek a közbeszerzésekért felelős miniszter általi ellenőrzésére vonatkozó szabályokat;
 - 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
-- 22.
+- 22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
-- a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, a 113. § (1) bekezdése szerinti összefoglaló tájékoztatások további adataira és részletes adattartalmára vonatkozó rendelkezéseket, valamint – az adópolitikáért felelős miniszter egyetértésével – az összefoglaló tájékoztatások közzétételéért fizetendő igazgatási szolgáltatási díj mértékét és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, a közbeszerzések éves statisztikai összegezésére vonatkozó szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét;
-- b) a hirdetmények, bírálati összegezések és az éves statisztikai összegezés mintáját, a hirdetmények egyes tartalmi elemeit;
-- c) a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, valamint – az adópolitikáért felelős miniszter egyetértésével – a nyilvántartásba vétel díjának mértékére és a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint – az adópolitikáért felelős miniszter egyetértésével – a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
+- a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, a 113. § (1) bekezdése szerinti összefoglaló tájékoztatások további adataira és részletes adattartalmára vonatkozó rendelkezéseket, valamint – az adópolitikáért felelős miniszter egyetértésével – az összefoglaló tájékoztatások közzétételéért fizetendő igazgatási szolgáltatási díj mértékét és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét, valamint – az adópolitikáért felelős miniszter egyetértésével – a hirdetmény nélküli tárgyalásos eljárások 103. § szerinti, Közbeszerzési Hatóság által végzett törvényességi ellenőrzése díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+- b) a hirdetmények, és a bírálati összegezések mintáját, a hirdetmények egyes tartalmi elemeit, a közbeszerzési terv minimális adattartalmát;
+- c) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékbe vételéért fizetendő – az adópolitikáért felelős miniszter egyetértésével megállapított – igazgatási szolgáltatási díj mértékére, a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, valamint a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
 - d) az EKR használatáért fizetendő – az adópolitikáért felelős miniszter egyetértésével meghatározott – igazgatási szolgáltatási díjjal, az EKR használatáért fizetendő díj befizetésének elmulasztása esetén a rendszer üzemeltetője által alkalmazható intézkedésekkel, az EKR fenntartásával és működtetésével kapcsolatos sajátos szabályokat;
 - e) a Közbeszerzési Döntőbizottság eljárásáért fizetendő igazgatási szolgáltatási díj – az adópolitikáért felelős miniszter egyetértésével megállapított – mértékét, megfizetésének módját, továbbá megfizetésének, valamint viselésének szabályait;
-- f) a Közbeszerzési Hatóság által kiadandó árstatisztika elkészítésével kapcsolatos részletes szabályokat, valamint a Közbeszerzési Hatóság részére nyújtandó statisztikai adatszolgáltatás feltételeit és módját.
+- f)
 
 ### Módosuló rendelkezések
 

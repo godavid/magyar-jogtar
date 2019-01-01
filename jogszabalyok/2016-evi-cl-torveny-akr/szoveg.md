@@ -70,7 +70,7 @@ számára, hogy jogaikat és kötelezettségeiket megismerhessék, és előmozd�
 
 (2) Az (1) bekezdésben nem említett közigazgatási hatósági eljárásokra vonatkozó jogszabályok e törvény rendelkezéseitől csak akkor térhetnek el, ha azt e törvény megengedi.
 
-(3) Jogszabály e törvény szabályaival összhangban álló, kiegészítő eljárási rendelkezéseket állapíthat meg.
+(3) Miniszteri rendelet kivételével jogszabály e törvény szabályaival összhangban álló, kiegészítő eljárási rendelkezéseket állapíthat meg.
 
 #### 9. § [A hatóság]
 

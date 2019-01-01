@@ -3165,7 +3165,7 @@ is alkalmazható.
 (2) A bírói engedélyhez kötött leplezett eszközök a három évig terjedő szabadságvesztéssel büntetendő, szándékosan elkövetett következő bűncselekmények esetén is alkalmazhatók:
 
 - a) az üzletszerűen vagy bűnszövetségben elkövetett bűncselekmény,
-- b) a kábítószer-prekurzorral visszaélés, az egészségügyi termék hamisítása,
+- b) a kábítószer-prekurzorral visszaélés, a gyógyszerhamisítás, a teljesítményfokozó szerrel visszaélés, az egészségügyi termék hamisítása,
 - c) a szexuális visszaélés, a kerítés, a prostitúció elősegítése, a kitartottság, a gyermekprostitúció kihasználása, a gyermekpornográfia,
 - d) a környezetkárosítás, a természetkárosítás, az orvvadászat, a tiltott állatviadal szervezése, a hulladékgazdálkodás rendjének megsértése,
 - e) a zártörés kivételével az igazságszolgáltatás elleni bűncselekmények,

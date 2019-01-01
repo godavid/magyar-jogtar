@@ -581,6 +581,8 @@ a megállapításáról szóló értesítés,
 
 39. § (1) Ha a végrehajtást kérő vagy az adós személyében változás állt be, a végrehajtható okirat kiállítása előtt a kiállításra jogosult bíróság (hatóság), ha pedig a változás a végrehajtható okirat kiállítása után derült ki, a végrehajtást foganatosító bíróság a jogutódlás kérdésében — szükség esetén a felek és a jogutódok meghallgatása és bizonyítás után — végzéssel (határozattal) dönt.
 
+(1a) A jogutódlás tárgyában hozott végzés ellen fellebbezésnek van helye.
+
 (2) Ha a végrehajtó tudomást szerzett a felek személyében történt változásról, a végrehajtási ügyet beterjeszti a végrehajtást foganatosító bírósághoz.
 
 (3) Ha a végrehajtó a végrehajtás foganatosítása előtt az adós haláláról szerzett tudomást, erről tájékoztatja a végrehajtást kérőt, és az ügyet a jogutódlás kérdésében való döntés végett az ő kívánságára terjeszti be a végrehajtást foganatosító bírósághoz.
@@ -875,9 +877,11 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 56/A. § (1) § A végrehajtást elrendelő bíróság az adós kérelmére vagy hivatalból a végrehajtást soron kívül meghozott végzésével megszünteti, ha a végrehajtandó követelést egy másik követelés biztosítására büntetőeljárásban elrendelt zár alá vétel foganatosítása során lefoglalták és a lefoglalás eredményeként annak összegét a végrehajtói letéti számlára befizették.
 
-(2) Ha az adós a követelés összegének a végrehajtói letéti számlára történt (1) bekezdés szerinti megfizetését a bíróságnál igazolja, a bíróság az igazolás bírósághoz történő megérkezésétől számított 3 munkanapon belül felfüggeszti a végrehajtást.
+(2) Ha az adós a követelés összegének a végrehajtói letéti számlára történt (1) bekezdés szerinti megfizetését a bíróságnál igazolja, a bíróság az igazolás bírósághoz történő megérkezésétől számított 3 munkanapon belül felfüggeszti a végrehajtást. A végrehajtást felfüggesztő végzés ellen fellebbezésnek van helye.
 
 (3) A bíróság a végrehajtást megszüntető végzésében arról is rendelkezik, hogy ki viseli a végrehajtási költséget, valamint az adós kérelmére végzéssel arra kötelezheti a végrehajtást kérőt, hogy térítse vissza az adósnak a végrehajtás során kapott összeget (vagyontárgyat) és a végrehajtási költséget. Visszatérítésre kötelezés esetén a végrehajtó az 56. § (3) bekezdése szerint jár el.
+
+56/B. § A végrehajtás megszüntetése és korlátozása tárgyában hozott végzés ellen fellebbezésnek van helye.
 
 ### A végrehajtási jog elévülése
 
@@ -1031,7 +1035,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 74. § Mentes a letiltás alól
 
 - a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvény szerint járó életjáradék,
-- b) a települési támogatás, a rendkívüli települési támogatás, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, az ápolási díj, a tartós ápolást végzők időskori támogatása,
+- b) a települési támogatás, a rendkívüli települési támogatás, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, a gyermekek otthongondozási díja, az ápolási díj, a tartós ápolást végzők időskori támogatása,
 - c) anyasági támogatás,
 - d) a rokkantsági járadék és a vakok személyi járadéka,
 - e) az egészségkárosodásra tekintettel járó keresetkiegészítés, az átmeneti keresetkiegészítés, a jövedelemkiegészítés, az átmeneti jövedelemkiegészítés, a bányászok egészségkárosodási járadéka,
@@ -2104,6 +2108,8 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (3) Az ingatlanra az árverési vételi ajánlatra vonatkozó szabályok szerint tehető vételi ajánlat.
 
+(3a) Földek esetén az ingatlan folyamatos árverezése iránti hirdetmény közzétételét követően a (3) bekezdéstől eltérően, az ingatlanra írásban a végrehajtónál tehető vételi ajánlat.
+
 (4) A vételi ajánlat közzétételével az elektronikus árverési rendszerben automatikusan közzétételre kerül az újabb árverés árverési hirdetménye, valamint a hozzátartozó licitnaplóban a vételi ajánlat, a végrehajtó pedig az általános szabályok szerint intézkedik az újabb árverés közhírré tételével kapcsolatos egyéb intézkedések megtétele iránt. Az árverés befejező időpontja – a 145/B. §-ban foglaltak figyelembe vételével, valamint azzal, hogy az árverés ebben az esetben 30 napig tart – automatikusan kerül meghatározásra azzal, hogy ha a közzétételt követő 30. nap nem munkanapra esik, akkor a következő munkanap meghatározott óráját kell befejező időpontként meghatározni.
 
 (5) Ha az újabb árverés kitűzését a végrehajtást kérő kérte, a végrehajtó az általános szabályok szerint intézkedik az árverés közhírré tétele és lefolytatása iránt.
@@ -2135,7 +2141,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 162. § (1) Ha az ingatlan közös tulajdonát — bírósági határozat, a bíróság által jóváhagyott egyezség vagy bírósági végrehajtási záradékkal ellátott okirat alapján — árveréssel kell megszüntetni, e törvénynek az ingatlanárverésre vonatkozó szabályai az alábbi (2)—(5) bekezdésben foglalt eltérésekkel irányadók.
 
-(2) A végrehajtást a bíróság bármelyik tulajdonostárs kérelmére elrendelheti.
+(2) A pénzkövetelés behajtására irányuló végrehajtást a bíróság bármelyik tulajdonostárs kérelmére elrendelheti.
 
 (3) A végrehajtást elrendelő bíróság állapítja meg
 
@@ -2485,7 +2491,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (2) A bíróság a biztosítási intézkedést elrendelő végzést kézbesítteti a végrehajtást kérőnek, továbbá ha az adós cég, egyúttal a nyilvántartó hatóságnak, az ingatlan zárlatát elrendelő végzést pedig az adósnak is.
 
-(3) A biztosítási intézkedést elrendelő végzés elleni fellebbezésnek nincs halasztó hatálya.
+(3) A biztosítási intézkedés tárgyában hozott végzés ellen fellebbezésnek van helye. A biztosítási intézkedést elrendelő végzés elleni fellebbezésnek nincs halasztó hatálya.
 
 (4) A végrehajtó a biztosítási intézkedést elrendelő végzés kézhezvétele után haladéktalanul felhívja a végrehajtást kérőt az előleg rövid határidő alatt történő megfizetésére, a díjelőleg beérkezése után a biztosítási intézkedés végrehajtását haladéktalanul megkezdi. Biztosítási intézkedés végrehajtása esetén a végrehajtót eljárása kezdetén előlegként a teljes munkadíjnak és a várhatóan felmerülő készkiadásnak, illetőleg költségátalánynak megfelelő összeg illeti meg.
 
@@ -2712,7 +2718,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 208. § Ha a külföldi határozat a 205. § szerint végrehajtható, a 16. § c), illetőleg d) pontjában említett bíróság a végzésével a külföldi határozatra végrehajtási tanúsítványt vezet, amelyben azt tanúsítja, hogy a határozat a magyar jog szerint a belföldi bíróság (választottbíróság) határozatával azonos módon végrehajtható.
 
-209. § A 208. § szerint hozott végzés jogerőre emelkedése után a bíróság a végrehajtási tanúsítvánnyal ellátott külföldi határozat alapján végrehajtási lapot, illetőleg vele egy tekintet alá eső végrehajtható okiratot állít ki.
+209. § A 208. § szerint hozott végzés ellen, a kérelmet visszautasító és a kérelmet elutasító végzés ellen fellebbezésnek van helye. A 208. § szerint hozott végzés jogerőre emelkedése után a bíróság a végrehajtási tanúsítvánnyal ellátott külföldi határozat alapján végrehajtási lapot, illetve vele egy tekintet alá eső végrehajtható okiratot állít ki.
 
 210. § A külföldi határozat végrehajtása során a külön törvényben és a nemzetközi egyezményekben foglalt rendelkezéseket is alkalmazni kell, továbbá a viszonosságon alapuló joggyakorlatot is figyelembe kell venni.
 
@@ -3181,8 +3187,8 @@ esetén van lehetőség.
 - a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 - b) a végrehajtóval szemben a 233. § (2) bekezdés b)–d) vagy i) pontjában meghatározott körülmény következett be,
 - c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
-- d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári évben a 270 napot,
-- e) a végrehajtó a kinevezését követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
+- d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot,
+- e) a végrehajtó a kinevezését megelőzően vagy azt követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
 - f) a végrehajtónak 30 napot meghaladóan nincs bejelentve állandó helyettese,
 - g) a végrehajtó a kinevezését követő 3 hónapon belül nem alapít végrehajtói irodát vagy nem lép be tagként végrehajtói irodába.
 
@@ -3413,10 +3419,10 @@ esetén van lehetőség.
 - 31. ellenőrizheti a 226/A. §-ban foglaltak betartását;
 - 32. elkészíti a Kar etikai szabályzatát;
 - 33. a Kar tagjaira kötelező iránymutatást adhat ki, különösen a végrehajtó irodájának kialakításáról, felszereltségéről,
-- 34. ellátja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek feletti szakmai felügyeletet, ennek keretében jogosult a végrehajtó működését, ügyvitelét és pénzkezelését ellenőrizni, továbbá a végrehajtó által lefolytatott eljárási cselekményen részt venni,
+- 34. ellátja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek feletti szakmai felügyeletet, ennek keretében jogosult a végrehajtó működését, ügyvitelét, pénzkezelését ellenőrizni, a végrehajtó által használt, jogszabályban meghatározott informatikai alkalmazások végrehajtók által történő használatának gyakorlatát vizsgálni, továbbá a végrehajtó által lefolytatott eljárási cselekményen részt venni;
 - 35. ellátja a 655/2014/EU rendelet 14. cikke szerinti információs hatósági feladatokat.
 
-(3) A Kar a 251. § (1) bekezdés c) pontja szerinti hivatali szerve útján gyakorolja a (2) bekezdésben meghatározott jogokat és teljesíti a (2) bekezdésben meghatározott kötelezettségeket. E jogok gyakorlása és kötelezettségek teljesítése során a hivatali szerv együttműködik a Kar elnökségével, a Kart a hivatali szerv vezetője képviseli.
+(3) A Kar a 251. § (1) bekezdés c) pontja szerinti hivatali szerve útján gyakorolja a (2) bekezdésben meghatározott jogokat és teljesíti a (2) bekezdésben meghatározott kötelezettségeket. E jogok gyakorlása és kötelezettségek teljesítése során a hivatali szerv együttműködik a Kar elnökségével, a Kart a hivatali szerv vezetője képviseli. A Karnak a (2) bekezdésben meghatározott feladatai ellátása során a Kar hivatali szervével a végrehajtó köteles együttműködni, és az e célból szükséges adatokat szolgáltatni, valamint a szükséges felvilágosítást, tájékoztatást megadni.
 
 (4) A Kar – az elnökség útján – érdek-képviseleti feladata ellátása érdekében:
 
@@ -4322,6 +4328,18 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 304/C. § (1) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2018. évi XCI. törvénnyel (a továbbiakban: Módtv.9.) megállapított 79/D. § (4) bekezdését a Módtv.9. hatálybalépésének napján, 159. § (3a) bekezdését a 2019. január 1-jén folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
 
 (2) E törvénynek a Módtv.9.-cel megállapított 239. § (3) bekezdés e) pontját a 2019. január 1-jét megelőzően kinevezett végrehajtók esetében is alkalmazni kell.
+
+304/D. § (1) E törvény alapján a törvényszéki végrehajtók hatáskörébe tartozó és 2018. december 31. napját követően kiállított végrehajtható okiratok esetében az állami adó- és vámhatóság jár el, illetve foganatosítja a végrehajtási cselekményeket, intézkedéseket az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény rendelkezései alapján.
+
+(2) 2019. december 31-ét követően az állami adó- és vámhatóság foganatosítja a végrehajtást az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvényben foglaltak alapján – 12. alcím kivételével –, az e törvény alapján a törvényszéki végrehajtók hatáskörébe tartozó a 2019. január 1-jét megelőzően kiállított azon végrehajtható okiratok tekintetében, amelyek esetében a végrehajtási eljárás érdemi befejezésére 2019. december 31-ig nem került sor. E § alkalmazásában érdemi befejezéssel megszüntetésre került ügynek a 2018. december 31-én a bírósági végrehajtási ügyvitelről és pénzkezelésről szóló miniszteri rendelet szerinti érdemi befejezéssel megszüntetett végrehajtási eljárások minősülnek.
+
+(3) A végrehajtást lefolytató törvényszéki végrehajtó 2020. január 31-ig elektronikus úton, az állami adó- és vámhatóság által rendszeresített elektronikus űrlapon adja át a (2) bekezdés szerinti ügyeket az állami adó- és vámhatóság részére. A végrehajtást lefolytató törvényszéki végrehajtó az elektronikus űrlaphoz digitalizált formátumban mellékeli az ügyben keletkezett valamennyi ügyiratot.
+
+(4) A (2) bekezdés szerinti ügyekben az ügy átadására a törvényszéki végrehajtói letéti számlára 2019. december 31-ig beérkezett összegek felosztását és a törvényszéki végrehajtó által foganatosított cselekményekkel, intézkedésekkel szemben benyújtott jogorvoslati kérelmek jogerős elbírálását követően kerülhet sor.
+
+(5) Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény rendelkezései nem érintik a (2) bekezdés szerinti ügyekben, a törvényszéki végrehajtó által az e törvény alapján engedélyezett részletfizetésről rendelkező döntések hatályát.
+
+(6) A (2) bekezdés szerinti ügyekben a törvényszéki végrehajtó által lefoglalt vagyontárgyak értékesítésére 2020. január 1. napjától az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény rendelkezései alapján kerülhet sor. A törvényszéki végrehajtó által 2019. december 31. napját követő időpontra kitűzött árveréseket meghiúsultnak kell tekinteni.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 

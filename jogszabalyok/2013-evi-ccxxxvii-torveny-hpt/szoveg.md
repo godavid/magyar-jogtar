@@ -2094,12 +2094,12 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 #### 54. Jogsértések jelentése
 
-116. § (1) A hitelintézet hatékony és megbízható mechanizmust hoz létre, amely ösztönzi az e törvény, továbbá a prudens működésre vonatkozó jogszabályok, ideértve az 575/2013/EU rendelet előírásainak való tényleges vagy potenciális megsértésének esetén történő vezető tisztségviselői és munkavállalói jelentéstételt.
+116. § (1) A hitelintézet, továbbá a Felügyelet hatékony és megbízható mechanizmust hoz létre, amely ösztönzi az e törvény, továbbá a prudens működésre vonatkozó jogszabályok, ideértve az 575/2013/EU rendelet előírásainak való tényleges vagy potenciális megsértésének esetén történő vezető tisztségviselői és munkavállalói jelentéstételt.
 
 (2) Az (1) bekezdésben meghatározott mechanizmus magában foglalja:
 
 - a) a jogsértésekről szóló jelentések átvételére és nyomon követésére vonatkozó eljárást,
-- b) az intézményen belüli jogsértést bejelentő munkavállaló diszkriminációval és tisztességtelen bánásmóddal szembeni védelmét, valamint
+- b) a hitelintézeten belüli jogsértést bejelentő munkavállaló diszkriminációval és tisztességtelen bánásmóddal szembeni védelmét, valamint
 - c) a hitelintézeten belüli jogsértést bejelentő személy, valamint a jogsértésért feltehetően felelős természetes személy személyes adatainak védelmét.
 
 (3) A hitelintézet a jogsértés intézményen belüli jelentésére független és önálló csatornát és eljárásokat dolgoz ki és működtet.
@@ -3906,7 +3906,7 @@ az OBA-ban tagsággal rendelkező hitelintézetnél helyeztek el.
 - b)
 - c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
 
-időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és húsz munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
+időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártalanítás kezdő időpontja] megkezdi és tizenöt munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.
 
 (1a) A kártalanítás (1) bekezdésben meghatározott kifizetéséhez a betétesnek nem kell kérelmet benyújtania.
 
@@ -4054,7 +4054,7 @@ vonatkozásában információt ad.
 
 (5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – a Felügyelet a helyszínen ellenőrzi. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
-(6) A tagintézet köteles a betétekre és a betétesekre vonatkozó – a 2. melléklet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére öt munkanapon belül átadhatóak legyenek.
+(6) A tagintézet köteles a betétekre és a betétesekre vonatkozó – a 2. melléklet szerinti – azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére három munkanapon belül átadhatóak legyenek.
 
 (7) Az OBA a tagintézetek által megküldött adatállományok alapján legalább háromévente, indokolt esetben gyakrabban teszteli kifizető rendszerének működését. A tesztelés érdekében a tagintézetek által megküldött adatokat az OBA kizárólag a teszteléshez használja fel, a tesztelést követően törli az adatokat.
 

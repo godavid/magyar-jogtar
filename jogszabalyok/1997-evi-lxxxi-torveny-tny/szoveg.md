@@ -156,9 +156,9 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 (2a) Öregségi teljes nyugdíjra életkorától függetlenül jogosult az a nő is, aki legalább negyven év jogosultsági idővel rendelkezik.
 
-(2b) A (2a) bekezdés tekintetében jogosultsági időnek minősül a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal, valamint a terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban és a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel megállapított ápolási díjban eltöltött idővel, vagy ezekkel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati idő.
+(2b) A (2a) bekezdés tekintetében jogosultsági időnek minősül a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal, valamint a terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermekgondozási segélyben, gyermeknevelési támogatásban, gyermekek otthongondozási díjában és a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel megállapított ápolási díjban eltöltött idővel, vagy ezekkel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati idő.
 
-(2c) A (2a) bekezdés alapján az öregségi teljes nyugdíj nem állapítható meg, ha a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett szolgálati idő nem éri el a harminckét évet, olyan nő esetén pedig, akinek a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel ápolási díjat állapítottak meg, vagy aki 1998. január 1-jét megelőzően ezzel egy tekintet alá eső szolgálati időt szerzett, a harminc évet.
+(2c) A (2a) bekezdés alapján az öregségi teljes nyugdíj nem állapítható meg, ha a kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonnyal szerzett szolgálati idő nem éri el a harminckét évet, olyan nő esetén pedig, akinek gyermekek otthongondozási díját, vagy a súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekére tekintettel ápolási díjat állapítottak meg, vagy aki 1998. január 1-jét megelőzően ezzel egy tekintet alá eső szolgálati időt szerzett, a harminc évet.
 
 (2d) A (2c) bekezdésben előírt jogosultsági idő – ha a jogosult a saját háztartásában öt gyermeket nevelt – egy évvel, minden további gyermek esetén további egy-egy évvel, de összesen legfeljebb hét évvel csökken. Saját háztartásban nevelt gyermeknek azt a vér szerinti vagy örökbe fogadott gyermeket kell tekinteni, aki a jogosulttal életvitelszerűen együtt élt és annak gondozásából rendszeres jelleggel legfeljebb csak napközbeni időszakra került ki, vagy megfelelt a családok támogatásáról szóló 1998. évi LXXXIV. törvény 12. § (2) bekezdése szerinti feltételeknek.
 
@@ -214,7 +214,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 - a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás (a továbbiakban együtt: álláskeresési támogatás) összegét,
 - b) a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
-- c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermeknevelési támogatás, ápolási díj) összegét,
+- c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermekek otthongondozási díja, ápolási díj) összegét,
 - d) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–5. §-a szerinti prémiumévek program, illetve különleges foglalkoztatási állomány keretében járó juttatás összegét,
 - e) a rehabilitációs ellátás összegét,
 - f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés vagy a honvédelmi egészségkárosodási járadék összegét,
@@ -320,7 +320,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 - a) a Tbj.-ben meghatározott, nyugellátás szerzése céljából megállapodást kötött személy esetében azt az időszakot, amelyre az előírt nyugdíjjárulékot megfizették,
 - b) az egyházi jogi személy által kiállított igazolás alapján az egyházi személyként ilyen minőségben eltöltött, az 1997. december 31-ét követően pedig azt az időtartamot, amelyre 2011. december 31-éig az előírt nyugdíjbiztosítási és nyugdíjjárulékot, 2012. január 1-jétől az előírt nyugdíjjárulékot az egyházi jogi személy megfizette,
-- c) a gyermeknevelési támogatás, az ápolási díj, valamint a gyermekgondozást segítő ellátás, illetve gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
+- c) a gyermeknevelési támogatás, a gyermekek otthongondozási díja, az ápolási díj, valamint a gyermekgondozást segítő ellátás, illetve gyermekgondozási segély folyósításának időtartamát, amennyiben az előírt nyugdíjjárulékot megfizették,
 - d) a katonai (polgári) szolgálatban eltöltött időt,
 - e) a táppénz (betegszabadság) – ide nem értve a külön jogszabály rendelkezése szerint kötött megállapodás alapján folyósított táppénzt –, a baleseti táppénz, a terhességi-gyermekágyi segély és a csecsemőgondozási díj folyósításának időtartamát, valamint a gyermekgondozási díj 2000. január 1-jét megelőző folyósításának időtartamát, illetőleg az 1999. december 31-ét követő gyermekgondozási díj, továbbá a rehabilitációs ellátás folyósításának azt az időtartamát, amelyre az előírt nyugdíjjárulékot megfizették,
 - f) az álláskeresési támogatás folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
@@ -1032,9 +1032,10 @@ tarthatók nyilván.
 - c) a munkaügyi és szociális igazgatás szervei, az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi ellenőrzés céljából a (2) bekezdés a)–f) pontjai, a mezőgazdasági és vidékfejlesztési támogatási szerv a támogatás megállapítása céljából a (2) bekezdés a)–d) és f) pontjai,
 - d) az egészségügyi ellátást nyújtó szervek (személyek) az egészségügyi szolgáltatói feladataik ellátása érdekében az a)–e) pontjai,
 - e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai és a cégbíróságok külön törvényben meghatározottak,
-- f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése céljából az a), d) és f) pont,
+- f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
 - g) az egészségügyi államigazgatási szerv szervei egészségfejlesztési tevékenységük ellátása céljából az a)–e) pontjai,
-- h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont
+- h) az állami szakképzési és felnőttképzési szerv a pályakövetési rendszer működtetése céljából a d) pont,
+- i) a honvédelemért felelős miniszter által vezetett minisztérium központi pénzügyi szerve tervezési és érdekvédelmi feladatok, valamint statisztikai célú adatfeldolgozás érdekében a Magyar Honvédség szociális gondoskodási körébe tartozók esetében a (2) bekezdés a), c), valamint a g)–h) pont
 
 szerinti adatok igénylésére jogosultak.
 
@@ -1050,7 +1051,7 @@ szerinti adatok igénylésére jogosultak.
 
 (8) Az érintett személy vagy képviselője a nyugdíjbiztosítási igazgatási szervek által vezetett nyilvántartásba betekinthet, kérelmére a róla nyilvántartott adatokról a nyugdíjbiztosítási igazgatási szerv kivonatot állít ki.
 
-(9)
+(9) A központi nyugdíjbiztosítási szerv a szociális hatáskörben, valamint gyermekvédelmi és gyámügyi hatáskörben eljáró járási hivatal, valamint a települési önkormányzat jegyzője mint gyámhatóság részére a pénzbeli és természetbeni szociális és a gyermekvédelmi ellátások megállapítása céljából közvetlen hozzáférést biztosít a (2) bekezdés a) és h) pontja alapján nyilvántartott adatokat tartalmazó – külön e célra kialakított – adatbázishoz.
 
 (10) Az e törvény szerinti eljárások során az uniós rendeletek szerinti hozzáférési pontot működtető egészségügyért felelős miniszter az uniós rendeletek szerinti célból, az ahhoz szükséges mértékben és ideig kezeli az elektronikus adatcserével érintett, a nyugdíjbiztosítási igazgatási szervek által e törvény szerint kezelt személyes és különleges adatokat.
 
@@ -1189,7 +1190,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - l) az adatszolgáltatásra és bejelentési kötelezettségre vonatkozó eljárási rendelkezéseket,
 - m)
 - n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
-- o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat, valamint a gyermekgondozást segítő ellátásban vagy súlyosan fogyatékos vér szerinti vagy örökbe fogadott gyermekre tekintettel megállapított ápolási díjban eltöltött idővel szerzett jogosultsági idővel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati időket;
+- o) a 18. § (2b)–(2c) bekezdés szerinti, kereső tevékenységgel járó biztosítási vagy azzal egy tekintet alá eső jogviszonyokat, valamint a gyermekgondozást segítő ellátásban vagy a gyermekek otthongondozási díjában eltöltött idővel szerzett jogosultsági idővel egy tekintet alá eső, 1998. január 1-jét megelőzően szerzett szolgálati időket;
 - p) az özvegyi járadék számítására vonatkozó szabályokat;
 - q)
 - r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat;

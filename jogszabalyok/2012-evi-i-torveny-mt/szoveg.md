@@ -371,10 +371,10 @@ bűncselekmény elkövetése miatt szerepel,
 (2) Nem foglalkoztatható, akivel szemben az (1) bekezdés a) pontjában meghatározott
 
 - a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
-  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
-  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított nyolc évig;
-- b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított két évig;
-- c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított három évig.
+  - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított nyolc évig,
+  - ab) ötévi vagy azt meghaladó szabadságvesztés esetén a mentesítés beálltától számított tíz évig;
+- b) szándékos bűncselekmény miatt közérdekű munkát vagy pénzbüntetést szabtak ki, a mentesítés beálltától számított három évig;
+- c) szándékos bűncselekmény miatt végrehajtásában felfüggesztett szabadságvesztést szabtak ki, a mentesítés beálltától számított öt évig.
 
 (3) Azt a tényt, hogy a munkaviszonyt létesíteni kívánó személy megfelel az (1)–(2) bekezdésben meghatározott feltételeknek, az érintett
 
@@ -657,7 +657,7 @@ foglalkoztatás lehetőségéről.
 (3) Kizárólag
 
 - a) a munkáltató személyében bekövetkező változás,
-- b) a 99. § (3) bekezdése vagy a 135. § (4) bekezdése szerinti megállapodás munkavállaló általi felmondása
+- b) a 99. § (3) bekezdése, a 109. § (2) bekezdése vagy a 135. § (3)–(4) bekezdése szerinti megállapodás munkavállaló általi felmondása
 
 nem szolgálhat a munkáltató felmondásának indokául.
 
@@ -938,11 +938,11 @@ foglaltaktól csak a munkavállaló javára térhet el.
 - a) – a készenléti jellegű munkakört kivéve – a munkaközi szünet, továbbá
 - b) a munkavállaló lakó- vagy tartózkodási helyéről a tényleges munkavégzés helyére, valamint a munkavégzés helyéről a lakó- vagy tartózkodási helyére történő utazás tartama.
 
-87. § (1) Munkanap: a naptári nap vagy a munkáltató által meghatározott megszakítás nélküli huszonnégy óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik.
+87. § (1) Munkanap: a naptári nap vagy megszakítás nélküli huszonnégy óra, ha a munkarend alapján a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra is beosztható.
 
 (2) Az (1) bekezdésben foglaltak megfelelően irányadók a heti pihenő- vagy a munkaszüneti nap meghatározása tekintetében is, azzal, hogy a hét és huszonkét óra közötti tartamot heti pihenő- vagy a munkaszüneti napnak kell tekinteni.
 
-(3) Hét: a naptári hét vagy a munkáltató által meghatározott megszakítás nélküli százhatvannyolc óra, ha a munkáltató működése miatt a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik.
+(3) Hét: a naptári hét vagy megszakítás nélküli százhatvannyolc óra, ha a munkarend alapján a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra is beosztható.
 
 88. § (1) Napi munkaidő: a felek vagy munkaviszonyra vonatkozó szabály által meghatározott
 
@@ -1005,7 +1005,7 @@ foglaltaktól csak a munkavállaló javára térhet el.
 
 foglalkoztatott munkavállaló esetében.
 
-(3) A munkaidőkeret tartama kollektív szerződés rendelkezése szerint legfeljebb tizenkét hónap vagy ötvenkét hét, ha ezt technikai vagy munkaszervezési okok indokolják.
+(3) A munkaidőkeret tartama, ha ezt objektív vagy műszaki vagy munkaszervezéssel kapcsolatos okok indokolják, kollektív szerződés rendelkezése szerint legfeljebb harminchat hónap.
 
 (4) A kollektív szerződés felmondása vagy megszűnése a már elrendelt munkaidőkeret alapján történő foglalkoztatást nem érinti.
 
@@ -1062,19 +1062,25 @@ foglaltakat – e bekezdés kivételével – nem kell alkalmazni.
 
 97. § (1) A munkáltató a munkaidőt az egészséges és biztonságos munkavégzés követelményére, valamint a munka jellegére figyelemmel osztja be.
 
-(2) A munkaidőt heti öt napra, hétfőtől péntekig kell beosztani (általános munkarend).
+(2) Általános munkarend: a munkáltató a munkaidőt heti öt napra, hétfőtől péntekig osztja be.
 
-(3) Munkaidőkeret, vagy elszámolási időszak alkalmazása esetén – a 101–102. §-ban foglaltakra tekintettel – a munkaidő a hét minden napjára vagy az egyes munkanapokra egyenlőtlenül is beosztható (egyenlőtlen munkaidő-beosztás).
+(3) A munkaidő munkaidőkeret vagy elszámolási időszak alkalmazása esetén egyenlőtlenül osztható be. Egyenlőtlen a munkaidő-beosztás, ha a munkáltató
 
-(4) A munkaidő-beosztást legalább hét nappal korábban, legalább egy hétre írásban kell közölni. Ennek hiányában az utolsó munkaidő-beosztás az irányadó.
+- a) a munkaidőt a napi munkaidőtől,
+- b) a heti pihenőnapot a 105. § (1) bekezdéstől,
+- c) a heti pihenőidőt a 106. § (1) bekezdéstől
 
-(5) A munkáltató az adott napra vonatkozó munkaidő-beosztást, ha gazdálkodásában vagy működésében előre nem látható körülmény merül fel, legalább négy nappal korábban módosíthatja.
+eltérően osztja be.
+
+(4) A munkáltató a munkaidő-beosztást legalább egy hétre, a beosztás szerinti napi munkaidő kezdetét megelőzően legalább százhatvannyolc órával korábban írásban közli. Közlés hiányában az utolsó munkaidő-beosztás az irányadó.
+
+(5) A munkáltató a közölt munkaidő-beosztást, ha gazdálkodásában vagy működésében előre nem látható körülmény merül fel, a beosztás szerinti napi munkaidő kezdetét megelőzően legalább kilencvenhat órával korábban módosíthatja. A munkáltató a közölt munkaidő-beosztást a munkavállaló írásbeli kérésére is módosíthatja.
 
 98. § (1) A munkaidő munkaidőkeret hiányában úgy is beosztható, hogy a munkavállaló a napi munkaidő és az általános munkarend alapulvételével megállapított heti munkaidőt a munkáltató által meghatározott hosszabb, az érintett héttel kezdődő időtartam (elszámolási időszak) alatt teljesítse.
 
-(2) Az elszámolási időszak tartamát a 94. §-ban foglalt szabályok megfelelő alkalmazásával kell megállapítani.
+(2) Az elszámolási időszak tekintetében a 93. § (2)–(4) bekezdése, a 94. § és a 95. § megfelelően irányadó.
 
-(3) Az elszámolási időszak tekintetében a 93. § (3)–(4) bekezdése és a 95. § megfelelően irányadó.
+(3)
 
 99. § (1) A munkavállaló beosztás szerinti napi munkaideje – a részmunkaidőt kivéve – négy óránál rövidebb nem lehet.
 
@@ -1101,7 +1107,12 @@ rendkívüli munkaidő tartamát be kell számítani.
 
 (6) A munkavállaló beosztás szerinti napi munkaidejébe az ügyelet teljes tartamát be kell számítani, ha a munkavégzés tartama nem mérhető.
 
-(7) Egyenlőtlen munkaidő-beosztás alkalmazása esetén a (2) bekezdés b) pontját és a (3) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy a beosztás szerinti heti munkaidő tartamát átlagban kell figyelembe venni.
+(7) Egyenlőtlen munkaidő-beosztás esetén a beosztás szerinti heti munkaidő tartamát
+
+- a) a 94. § (1) és (2) bekezdés szerint meghatározott időszakon, vagy
+- b) ha ezt objektív vagy műszaki vagy munkaszervezéssel kapcsolatos okok indokolják – kollektív szerződés rendelkezése szerint – tizenkét hónapon
+
+belül átlagban kell figyelembe venni.
 
 (8) A 102. § (5) bekezdése szerint meghatározott munkarendet alkalmazó munkáltatónál – munkaidőkeret hiányában – a szombaton történő munkavégzéssel érintett naptári héten a (2) bekezdés b) pont és a (3) bekezdés b) pont nem irányadó.
 
@@ -1180,13 +1191,19 @@ foglalkoztatott munkavállaló esetében.
 
 #### 54. A heti pihenőnap
 
-105. § (1) A munkavállalót hetenként két pihenőnap illeti meg (heti pihenőnap).
+105. § (1) Hetenként két pihenőnapot (heti pihenőnap) kell beosztani. A heti pihenőnapok egyenlőtlenül is beoszthatók.
 
-(2) Egyenlőtlen munkaidő-beosztás esetén a heti pihenőnapok egyenlőtlenül is beoszthatók.
+(2) Egyenlőtlen munkaidő-beosztás esetén hat egybefüggő munkanapot követően legalább egy heti pihenőnapot be kell osztani.
 
-(3) A (2) bekezdésben foglaltak alkalmazásakor – a megszakítás nélküli, a több műszakos vagy az idényjellegű tevékenység keretében foglalkoztatott munkavállalót kivéve – a munkavállaló számára hat munkanapot követően egy heti pihenőnapot be kell osztani.
+(3) Egyenlőtlen munkaidő-beosztás esetén
 
-(4) A munkavállaló számára – a 101. § (1) bekezdés f) pont kivételével – havonta legalább egy heti pihenőnapot vasárnapra kell beosztani.
+- a) a megszakítás nélküli,
+- b) a több műszakos,
+- c) az idényjellegű tevékenység
+
+keretében foglalkoztatott munkavállaló számára havonta legalább egy heti pihenőnapot be kell osztani.
+
+(4) Havonta legalább egy heti pihenőnapot – a 101. § (1) bekezdés f) pont kivételével – vasárnapra kell beosztani.
 
 #### 55. A heti pihenőidő
 
@@ -1216,9 +1233,11 @@ foglalkoztatott munkavállaló esetében.
 
 rendelhető el.
 
-109. § (1) Teljes napi munkaidő esetén naptári évenként kétszázötven óra rendkívüli munkaidő rendelhető el.
+109. § (1) Naptári évenként kétszázötven óra rendkívüli munkaidő rendelhető el.
 
-(2) Az (1) bekezdésben foglaltakat arányosan kell alkalmazni, ha
+(2) A munkavállaló és a munkáltató írásbeli megállapodása alapján – az (1) bekezdésben foglaltat meghaladóan – naptári évenként legfeljebb százötven óra rendkívüli munkaidő rendelhető el (önként vállalt túlmunka). A munkavállaló a megállapodást a naptári év végére mondhatja fel.
+
+(3) Az (1)–(2) bekezdésben foglaltakat arányosan kell alkalmazni, ha
 
 - a) a munkaviszony évközben kezdődött,
 - b) határozott időre vagy
@@ -1280,7 +1299,7 @@ rendelhető el.
 - b) négy és fél órát meghaladó beosztás szerinti napi munkaidő esetén, legalább harminc perc, hat órát meghaladó beosztás szerinti napi munkaidő esetén, legalább negyvenöt perc munkaközi szünetet,
 - c) legalább tizenkét óra tartamú napi pihenőidőt kell biztosítani.
 
-(4) A fiatal munkavállaló esetében a 105. § (2) bekezdésében és a 106. § (3) bekezdésében foglaltak nem alkalmazhatók.
+(4) A fiatal munkavállaló esetében a heti pihenőnap és a heti pihenőidő egyenlőtlenül nem osztható be.
 
 #### 59. A szabadság
 
@@ -1444,6 +1463,7 @@ munkanap pótszabadság jár.
 - a) a rendes és a rendkívüli munkaidő,
 - b) a készenlét,
 - c) a szabadság
+- d) a 109. § (2) bekezdés, valamint a 135. § (3) bekezdés szerinti megállapodás alapján teljesített rendkívüli munkaidő,
 
 tartamát.
 
@@ -1455,7 +1475,8 @@ tartamát.
 
 - a) a 92. § (2) bekezdés,
 - b) a 99. § (3) bekezdés,
-- c) a 135. § (4) bekezdés
+- c) a 109. § (2) bekezdés,
+- d) a 135. § (3)–(4) bekezdés
 
 szerinti megállapodásokat.
 
@@ -1463,36 +1484,39 @@ szerinti megállapodásokat.
 
 135. § (1) A felek megállapodása vagy kollektív szerződés
 
-- a) a 96. § (2) bekezdésében,
-- b) a 122. § (5) bekezdésében,
-- c) a 126. § (4) bekezdésében,
-- d) a 127. § (1)–(2) és (4) bekezdésében,
-- e) a 134. §-ban
+- a) a 87. §-ban,
+- b) a 96. § (2) bekezdésében,
+- c) a 122. § (5) bekezdésében,
+- d) a 126. § (4) bekezdésében,
+- e) a 127. § (1)–(2) és (4) bekezdésében,
+- f) a 134. §-ban
 
 foglaltaktól nem térhet el.
 
 (2) Kollektív szerződés
 
-- a) a 86–93. §-ban,
-- b) a 95. §-ban,
-- c) a 96. § (3) bekezdésében,
-- d) a 97. § (1) bekezdésében,
-- e) a 99. §-ban,
-- f) a 101–108. §-ban,
-- g) a 109. § (2) bekezdésében,
-- h) a 111. §-ban,
-- i) a 113–121. §-ban,
-- j) a 122. § (3) bekezdésében,
-- k) a 123. § (6) bekezdésében,
-- l) a 124. §-ban,
-- m) a 125. §-ban,
-- n) a 126. § (1)–(3) és (5) bekezdésében,
-- o) a 127. § (5) bekezdésében,
-- p) a 128–133. §-ban
+- a) a 86-ban,
+- b) a 88–93. §-ban,
+- c) a 95. §-ban,
+- d) a 96. § (3) bekezdésében,
+- e) a 97. § (1) bekezdésében,
+- f) a 99. §-ban,
+- g) a 101–108. §-ban,
+- h) a 109. § (2)–(3) bekezdésében,
+- i) a 111. §-ban,
+- j) a 113–121. §-ban,
+- k) a 122. § (3) bekezdésében,
+- l) a 123. § (6) bekezdésében,
+- m) a 124. §-ban,
+- n) a 125. §-ban,
+- o) a 126. § (1)–(3) és (5) bekezdésében,
+- p) a 127. § (5) bekezdésében,
+- r) a 128–133. §-ban
+- s) a 135. § (3) bekezdés második fordulatában
 
 foglaltaktól csak a munkavállaló javára térhet el.
 
-(3) Kollektív szerződés rendelkezése alapján legfeljebb évi háromszáz óra rendkívüli munkaidő rendelhető el.
+(3) Kollektív szerződés rendelkezése alapján legfeljebb évi háromszáz óra rendkívüli munkaidő rendelhető el. Ezt meghaladóan a munkáltató és a munkavállaló írásbeli megállapodása alapján naptári évenként legfeljebb száz óra rendkívüli munkaidő rendelhető el (önként vállalt túlmunka). A munkavállaló a megállapodást a naptári év végére mondhatja fel.
 
 (4) A felek írásbeli megállapodása a 99. § (2) bekezdésében foglaltaktól, kollektív szerződés a 101–109. §-ban foglaltaktól
 
@@ -1789,6 +1813,8 @@ foglaltaktól nem térhet el.
 - d) a 164. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.
+
+(3) A 94. § (3) bekezdés alkalmazása esetén órabéres munkavállalóval a 156. § (1) bekezdés b) pont szerinti eltérő megállapodás csak kollektív szerződés rendelkezése szerint köthető.
 
 ### XIII. Fejezet — A MUNKÁLTATÓ KÁRTÉRÍTÉSI FELELŐSSÉGE
 
@@ -3100,7 +3126,7 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 
 (4) Törvény – ágazati, szakmai sajátosságokra tekintettel – e törvény rendelkezéseitől eltérhet.
 
-(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, valamint a közhasznú kölcsönzőkkel szemben támasztott feltételekre, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.
+(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, valamint a közhasznú kölcsönzőkkel szemben támasztott feltételekre, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a törvény alapján rendeletben részletesen szabályozza a központi közigazgatási szerveknél foglalkoztatott tartós külszolgálatot teljesítő munkavállalók külföldi munkavégzésének sajátos szabályait, valamint alapellátmányának, illetve a központi közigazgatási szerveknél foglalkoztatott ideiglenes külföldi kiküldetésen lévő munkavállalók napidíjának összegét és azok kifizetésének szabályait.
 

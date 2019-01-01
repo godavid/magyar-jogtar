@@ -748,7 +748,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 - a) ha azt nemzetközi jogi kötelezettség kizárja,
 - b) ha az elkövető a bűncselekményt bűnszervezetben követte el,
-- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
+- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
 
 ### A vagyonelkobzás
 
@@ -2124,6 +2124,51 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (6) E § alkalmazásában tiltott teljesítményfokozó szer: minden olyan szer, amely hatóanyagára tekintettel az anabolikus szerek, peptid hormonok, növekedési faktorok és rokonvegyületeik, hormon antagonisták és modulátorok közé tartozik, és nevesítve szerepel a sportbeli dopping elleni nemzetközi egyezmény I. mellékletének kihirdetéséről szóló kormányrendeletben.
 
+### Gyógyszerhamisítás
+
+185/A. § (1) Aki
+
+- a) gyógyszert vagy állatgyógyászati készítményt meghamisít, illetve hamis gyógyszert vagy állatgyógyászati készítményt készít,
+- b) hamis, meghamisított vagy Magyarországon nem engedélyezett gyógyszert vagy állatgyógyászati készítményt forgalomba hoz, vagy azzal kereskedik, illetve indokolatlan mennyiségben kínál, átad,
+- c) hamis vagy meghamisított gyógyszert vagy állatgyógyászati készítményt az ország területére behoz, onnan kivisz, azon átszállít, vagy indokolatlan mennyiségben megszerez, tart,
+- d) Magyarországon nem engedélyezett gyógyszert vagy állatgyógyászati készítményt indokolatlan mennyiségben megszerez, tart, az ország területére behoz, onnan kivisz, azon átszállít,
+- e) gyógyszerhez vagy állatgyógyászati készítményhez kapcsolódó eredeti dokumentumot kereskedelmi céllal rendeltetésétől eltérően felhasznál,
+
+bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Ha az (1) bekezdésben meghatározott bűncselekményt az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének III. vagy IV. Jegyzékében meghatározott pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+
+(3) A büntetés az (1) bekezdés a) és b) pontjában meghatározott esetekben
+
+- a) egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény maradandó fogyatékosságot vagy súlyos egészségromlást,
+- b) két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény halált
+
+okoz.
+
+(4) A büntetés a (2) bekezdésben meghatározott esetben
+
+- a) két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdés a) vagy b) pontja szerinti bűncselekmény maradandó fogyatékosságot vagy súlyos egészségromlást,
+- b) öt évtől tíz évig terjedő szabadságvesztés, ha az (1) bekezdés a) vagy b) pontja szerinti bűncselekmény halált
+
+okoz.
+
+(5) Aki a bűncselekményt
+
+- a) egészségügyi dolgozóként,
+- b) gyártásra, nagykereskedelemre, közvetlen lakossági ellátás végzésére engedéllyel rendelkező szervezet alkalmazottjaként, vagy
+- c) bűnszövetségben
+
+követi el, az (1) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztéssel, a (2) bekezdésben meghatározott esetben két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+
+(6) Az (5) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett gyógyszer vagy állatgyógyászati készítmény a felhasználók számára széles körben válik hozzáférhetővé.
+
+(7) Aki az (1)–(6) bekezdésben meghatározott gyógyszerhamisításra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(8) E § alkalmazásában
+
+- a) indokolatlan mennyiség alatt olyan mennyiséget kell érteni, amelyről megállapítható, hogy nem valamely meghatározott személy személyes szükségleteinek kielégítését célozza,
+- b) Magyarországon nem engedélyezett gyógyszer vagy állatgyógyászati készítmény alatt érteni kell azt a terméket is, amelyben gyógyszerhatóanyagot az adott termék összetételére vonatkozó jogszabályi előírások megsértésével használnak fel. Engedélyezett gyógyszernek kell tekinteni azt a magyarországi forgalombahozatali engedéllyel nem rendelkező gyógyszert is, amelyre nézve olyan, az (1) bekezdés b) vagy d) pontjában meghatározott magatartást fejtenek ki, amely jogszabályban előírt hatósági engedély birtokában vagy bejelentést követően jogszerűen végezhető.
+
 ### Egészségügyi termék hamisítása
 
 186. § (1) Aki
@@ -2157,9 +2202,9 @@ követi el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (5) E § alkalmazásában
 
-- a) egészségügyi termék: a gyógyszer, az állatgyógyászati készítmény, az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz és a vizsgálati készítmény;
+- a) egészségügyi termék: az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz és a vizsgálati készítmény;
 - b) indokolatlan mennyiség alatt olyan mennyiséget kell érteni, amelyről megállapítható, hogy nem valamely meghatározott személy személyes szükségleteinek kielégítését célozza;
-- c) Magyarországon nem engedélyezett egészségügyi termék alatt érteni kell a megfelelőség értékelési eljárás lefolytatása nélkül forgalomba hozott orvostechnikai eszközt is, továbbá azt a terméket is, amelyben gyógyszerhatóanyagot az adott termék összetételére vonatkozó jogszabályi előírások megsértésével használnak fel. Engedélyezett egészségügyi terméknek kell tekinteni azt a magyarországi forgalombahozatali engedéllyel nem rendelkező gyógyszert is, amelyre nézve olyan az (1) bekezdés b) vagy d) pontjában meghatározott magatartást fejtenek ki, amely jogszabályban előírt hatósági engedély birtokában vagy bejelentést követően jogszerűen végezhető.
+- c) Magyarországon nem engedélyezett egészségügyi termék alatt érteni kell a megfelelőség értékelési eljárás lefolytatása nélkül forgalomba hozott orvostechnikai eszközt is.
 
 ### Kuruzslás
 
@@ -3186,7 +3231,7 @@ minősítésű adatra követik el a bűncselekményt.
 
 266. § (1) A büntetőjogi védelem a minősítés kezdeményezésétől számított harminc napig kiterjed arra az adatra is, amelynek a minősítését kezdeményezték, de a bűncselekmény elkövetésekor a minősítési eljárást még nem fejezték be, és erről az elkövető tudomással bír.
 
-(2) Minősített adattal visszaélés miatt büntetőeljárásnak csak a minősített adat védelméről szóló törvényben az adott adatfajta minősítésére jogosult szerv vagy személy feljelentése alapján van helye.
+(2)
 
 ### A nemzeti adatvagyon körébe tartozó állami nyilvántartás elleni bűncselekmény
 
@@ -3787,11 +3832,13 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 - k) a robbanóanyaggal vagy robbantószerrel visszaélés (324. §, ha a cselekményt közérdekű üzem, illetve középület vagy építmény területén követik el),
 - l) a lőfegyverrel vagy lőszerrel visszaélés (325. §, ha a cselekményt közérdekű üzem, illetve középület vagy építmény területén követik el).
 
-318/B. § A 318. § és a 318/A. § alkalmazásában anyagi eszközön a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 27-i 2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott eszközöket, jogi dokumentumokat és okiratokat kell érteni.
+#### 318/B. §
 
 ### Értelmező rendelkezés
 
-319. § A 314–315. §, a 316/A. § és a 318. § alkalmazásában terrorista csoport a három vagy több személyből álló, hosszabb időre szervezett, összehangoltan működő csoport, amelynek célja terrorcselekmény elkövetése.
+319. § (1) A 314–315. §, a 316/A. § és a 318. § alkalmazásában terrorista csoport a három vagy több személyből álló, hosszabb időre szervezett, összehangoltan működő csoport, amelynek célja terrorcselekmény elkövetése.
+
+(2) A 316/A. §, a 318. § és a 318/A. § alkalmazásában anyagi eszközön a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 27-i 2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott eszközöket, jogi dokumentumokat és okiratokat kell érteni.
 
 ### Jármű hatalomba kerítése
 
@@ -5992,7 +6039,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - h) az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-helyettes és a végrehajtói kézbesítésre felhatalmazott önálló bírósági végrehajtó jelölt,
   - i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja,
   - j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
-  - k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, minisztériumnál, autonóm államigazgatási szervnél, kormányhivatalnál, központi hivatalnál, önálló szabályozó szervnél, rendvédelmi szervnél, a Katonai Nemzetbiztonsági Szolgálatnál, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél, megyei intézményfenntartó központnál vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+  - k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél, megyei intézményfenntartó központnál vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
   - l) a választási bizottság tagja;
 - 12. közfeladatot ellátó személy:
   - a) a Magyar Honvédség szolgálati feladatot teljesítő katonája,
@@ -6202,7 +6249,8 @@ követik el.
 - j) 410–411. §-a és 414. §-a a piaci visszaélések büntetőjogi szankcióiról (piaci visszaélésekről) szóló 2014. április 16-i 2014/57/EU európai parlamenti és tanácsi irányelvnek,
 - k) 72–76. §-a a bűncselekmény elkövetési eszközeinek és az abból származó jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi irányelvnek,
 - l) 219. §-a a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
-- m) 3., 10., 12., 14., 31., 63., 72–77., 80., 314–318/A., 319. és 331. §-a a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek
+- m) 3., 10., 12., 14., 31., 63., 72–77., 80., 314–318/A., 319. és 331. §-a a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek,
+- n) 185/A. §-a a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i 2017/2103/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

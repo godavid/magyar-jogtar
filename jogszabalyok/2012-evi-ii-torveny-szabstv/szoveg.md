@@ -99,9 +99,9 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 (3) A szabálysértési elzárás tartamába a szabálysértési elzárás alapjául szolgáló szabálysértéssel összefüggésben elrendelt szabálysértési őrizet teljes idejét, valamint a szabálysértési elzárás alapjául szolgáló szabálysértéssel összefüggésben elrendelt, négy órát meghaladó tartamú előállítás tartamát be kell számítani. A szabálysértési őrizet, illetve a négy órát meghaladó tartamú előállítás minden megkezdett óráját egy óra tartamú szabálysértési elzárásként kell beszámítani.
 
-10. § Nincs helye szabálysértési elzárásnak, ha az eljárás alá vont személy
+10. § Nincs helye szabálysértési őrizetnek és szabálysértési elzárásnak, ha az eljárás alá vont személy
 
-- a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve kórházi fekvőbeteg-ellátásban részesül,
+- a) a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvényben meghatározott fogyatékos személy, illetve napi rendszeres, életfenntartó vagy fekvőbeteg-ellátásban részesül,
 - b) a várandósság tizenkettedik hetét elérő nő,
 - c) tizennegyedik életévét be nem töltött gyermekét egyedül nevelő szülő, gyám,
 - d) fogyatékos, vagy folyamatos ápolást, felügyeletet, gondozást igénylő hozzátartozójáról egyedül gondoskodik.
@@ -227,7 +227,9 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 - a) szabálysértési elzárással is büntethető szabálysértés miatt legalább két ízben jogerősen felelősségre vonták, az újabb szabálysértési elzárással is büntethető szabálysértési ügyben a szabálysértési elzárás leghosszabb tartamára és a pénzbírság felső határára a 22. § (1) bekezdésben írt szabály az irányadó,
 - b) szabálysértési elzárással is büntethető szabálysértés miatt legalább két ízben jogerősen felelősségre vonták, az újabb pénzbírsággal büntethető szabálysértés miatt hetvenöt napig terjedő szabálysértési elzárás büntetés szabható ki,
 - c) pénzbírsággal sújtható szabálysértés miatt legalább két ízben jogerősen felelősségre vonták, az újabb szabálysértési elzárással is büntethető szabálysértés miatt hetvenöt napig terjedő szabálysértési elzárás büntetés szabható ki,
-- d) pénzbírsággal sújtható szabálysértés miatt legalább két ízben jogerősen felelősségre vonták, az újabb pénzbírsággal büntethető szabálysértés miatt hatvan napig terjedő szabálysértési elzárás büntetés szabható ki.
+- d) pénzbírsággal sújtható szabálysértés miatt legalább két ízben jogerősen felelősségre vonták, az újabb pénzbírsággal büntethető szabálysértés miatt hatvan napig terjedő szabálysértési elzárás büntetés szabható ki,
+- e) szabálysértési elzárással büntethető és pénzbírsággal sújtható szabálysértés elkövetése miatt jogerősen felelősségre vonták, az újabb szabálysértési elzárással is büntethető szabálysértés miatt hetvenöt napig terjedő szabálysértési elzárás büntetés szabható ki;
+- f) szabálysértési elzárással büntethető és pénzbírsággal sújtható szabálysértés elkövetése miatt jogerősen felelősségre vonták, az újabb pénzbírsággal büntethető szabálysértés miatt hatvan napig terjedő szabálysértési elzárás büntetés szabható ki.
 
 (2) Az (1) bekezdés a)–d) pontjában meghatározott, az ismételt elkövetésre vonatkozó rendelkezéseket nem lehet alkalmazni, ha
 
@@ -237,10 +239,10 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 
 (3) Akit a XXVII. és a XXVIII. Fejezetben meghatározott, engedélyhez kötött járművezetés szabályainak megszegésével elkövetett szabálysértés miatt hat hónapon belül legalább két ízben jogerősen felelősségre vontak, az újabb – a XXVII. és a XXVIII. Fejezetben meghatározott, engedélyhez kötött járművezetés szabályainak megszegésével elkövetett – szabálysértés miatt a szabálysértési hatóságnak járművezetéstől eltiltást is alkalmazni kell.
 
-(4) Ha a kormányrendeletben meghatározott kötelező mértékű pénzbírsággal sújtandó, a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés elkövetése miatt eljárás alá vont személyt az elkövetés időpontját megelőző hat hónapon belül a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés miatt jogerősen felelősségre vonták, akkor
+(4) Ha a kormányrendeletben meghatározott kötelező mértékű pénzbírsággal sújtandó, a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés elkövetése miatt eljárás alá vont személyt az elkövetés időpontját megelőző hat hónapon belül a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés miatt jogerősen felelősségre vonták, akkor a 11. § (1) bekezdésben meghatározott bírságmaximum figyelembe vételével
 
-- a) a második, kötelező mértékű pénzbírsággal sújtandó szabálysértés elkövetése esetén az ahhoz rendelt kötelező mértékű pénzbírság kétszeresét kell kiszabni;
-- b) a legalább harmadik, kötelező mértékű pénzbírsággal sújtandó szabálysértés elkövetése esetén az ahhoz rendelt kötelező mértékű pénzbírság háromszorosát kell kiszabni, de az nem haladhatja meg a százötvenezer forintot.
+- a) a második, kötelező mértékű pénzbírsággal sújtandó szabálysértés elkövetése esetén az ahhoz rendelt kötelező mértékű pénzbírság kétszeresét kell kiszabni,
+- b) a legalább harmadik, kötelező mértékű pénzbírsággal sújtandó szabálysértés elkövetése esetén az ahhoz rendelt kötelező mértékű pénzbírság háromszorosát kell kiszabni.
 
 (5) A (3) és (4) bekezdésben meghatározott ismételt elkövetésre vonatkozó rendelkezések alkalmazásakor nem lehet figyelembe venni, ha szabálysértés elkövetése miatt helyszíni bírságot szabtak ki.
 
@@ -338,11 +340,12 @@ pénzbírságot vagy helyszíni bírságot kell kiszabni.
 - e) a hozzátartozó,
 - f) a csoportos elkövetés,
 - g) a nagy nyilvánosság fogalmára,
-- h) a büntethetőséget kizáró vagy korlátozó okokra
-- i) a magánindítványra, valamint
-- j) a Büntető Törvénykönyvről szóló törvény (a továbbiakban: Btk.) 370. § Lopás, Btk. 371. § Rongálás, Btk. 372. § Sikkasztás, Btk. 373. § Csalás, Btk. 376. § Hűtlen kezelés, Btk. 378. § Jogtalan elsajátítás és a Btk. 379. § Orgazdaság tényállásoknak megfelelő szabálysértési tényállásokra
+- h) a büntethetőséget kizáró vagy korlátozó okokra,
+- i) a magánindítványra,
+- j) a folytatólagosság fogalmára, valamint
+- k) a Büntető Törvénykönyvről szóló törvény (a továbbiakban: Btk.) 370. § szerinti Lopás, Btk. 371. § szerinti Rongálás, Btk. 372. § szerinti Sikkasztás, Btk. 373. § szerinti Csalás, Btk. 376. § szerinti Hűtlen kezelés, Btk. 378. § szerinti Jogtalan elsajátítás és a Btk. 379. § szerinti Orgazdaság tényállásoknak megfelelő szabálysértési tényállásokra
 
-a Btk. által – az a)–d), h) és i) pont esetén az általános részben, az e)–g) pont esetén a záró részben, valamint a j) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
+a Btk. által – az a)–d) és h)–j) pont esetén az általános részben, az e)–g) pont esetén a záró részben, valamint a k) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
 
 (2) E törvény alkalmazásában:
 
@@ -527,7 +530,7 @@ jelöli ki.
 
 #### 33. Áttétel
 
-45. § Ha a szabálysértési hatóságnak vagy a bíróságnak az ügyben nincs hatásköre vagy illetékessége, az ügyet – a szabálysértési hatóság határozattal, a bíróság végzéssel – haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz vagy bírósághoz. A 23. § (1) bekezdés b) és d) pontja esetén a döntésre hatáskörrel és illetékességgel rendelkező bírósághoz történő áttételre a tényállás tisztázását követően kerülhet sor.
+45. § Ha a szabálysértési hatóságnak vagy a bíróságnak az ügyben nincs hatásköre vagy illetékessége, az ügyet – a szabálysértési hatóság határozattal, a bíróság végzéssel – haladéktalanul átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz vagy bírósághoz. A 23. § (1) bekezdés b) és d) pontja esetén a döntésre hatáskörrel és illetékességgel rendelkező bírósághoz történő áttételre a tényállás tisztázását követően kerülhet sor. Az áttételt elrendelő döntés ellen jogorvoslatnak helye nincs.
 
 ### VIII. Fejezet — KIZÁRÁS
 
@@ -606,7 +609,7 @@ jelöli ki.
 
 #### 40. Az eljárás alá vont személy képviselője
 
-53. § (1) Az eljárás alá vont személy érdekében a szabálysértési eljárás bármely szakaszában törvényes képviselője vagy az általa vagy törvényes képviselője által írásban meghatalmazott nagykorú személy (a továbbiakban együtt: az eljárás alá vont személy képviselője) járhat el.
+53. § (1) Az eljárás alá vont személy érdekében a szabálysértési eljárás bármely szakaszában törvényes képviselője vagy az általa, törvényes képviselője vagy nagykorú hozzátartozója által írásban meghatalmazott nagykorú személy (a továbbiakban együtt: az eljárás alá vont személy képviselője) járhat el.
 
 (1a) A szabálysértési eljárásban az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) az eljárás alá vont személy képviselőjének meghatalmazására vonatkozó nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás az eljáró bíróságnak, illetve szabálysértési hatóságnak történő bejelentéstől hatályos.
 
@@ -644,7 +647,12 @@ jelöli ki.
 
 (2) Nem kell bizonyítani a köztudomású tényeket és azokat a tényeket, amelyekről a szabálysértési hatóságnak, illetve a bíróságnak hivatalos tudomása van.
 
-(3) A bíróság, valamint a szabálysértési hatóság az ismeretlen helyen tartózkodó eljárás alá vont személy vagy tanú lakóhelyének, illetve tartózkodási helyének felkutatása érdekében az utolsó ismert lakóhelye vagy tartózkodási helye szerint illetékes rendőri szerv közreműködését kérheti. A rendőr jogosult felvilágosítást kérni az eljárás alá vont személy vagy tanú hollétéről az utolsó ismert lakóhelyén vagy tartózkodási helyén.
+(3) A bíróság, valamint a szabálysértési hatóság az ismeretlen helyen tartózkodó eljárás alá vont személy vagy tanú lakóhelyének, illetve tartózkodási helyének felkutatása érdekében adatot igényel
+
+- a) a polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartásból,
+- b) a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 28. §-a alapján vezetett nyilvántartásból.
+
+(4) Ha az adatigénylés nem vezetett az eljárás alá vont személy vagy tanú feltalálásához, a bíróság, a szabálysértési hatóság az eljárás alá vont személy vagy tanú utolsó ismert lakóhelye vagy tartózkodási helye szerint illetékes rendőri szerv közreműködését kéri. A megkeresett rendőri szerv jogosult felvilágosítást kérni az eljárás alá vont személy vagy tanú hollétéről az utolsó ismert lakóhelyén vagy tartózkodási helyén. Amennyiben a megkeresett rendőri szervnek hivatalból tudomása van a keresett személy lakó-, tartózkodási helyéről, azt közli a megkereső szervvel.
 
 #### 43/A. Megkeresések
 
@@ -1289,7 +1297,7 @@ indul meg.
 
 (4) Az elővezetést elrendelő határozatot a foganatosításkor kell átadni a határozatban megnevezett személynek.
 
-(5) Az ismeretlen helyen tartózkodó eljárás alá vont személy részére a határozatot és a bíróság végzését hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
+(5) Az ismeretlen helyen tartózkodó eljárás alá vont személy, valamint az elkövető részére a határozatot és a bíróság végzését hirdetményi úton is lehet kézbesíteni. Hirdetményi kézbesítés esetén a hirdetmény tartalmazza az ügy számát és tárgyát, az eljárás alá vont személy nevét és utolsó ismert lakcímét, a kifüggesztés napját, továbbá, hogy a címzett az iratot melyik szabálysértési hatóságnál vagy bíróságnál veheti át.
 
 (6) A hirdetményt tizenöt napra ki kell függeszteni az azt küldő szabálysértési hatóság vagy bíróság, valamint – ha ilyen van – a címzett utolsó ismert lakóhelye vagy tartózkodási helye szerinti helyi önkormányzat hirdetőtáblájára. A hirdetmény útján közölt döntést a hirdetménynek az eljáró szabálysértési hatóságnál vagy a bíróságnál történt kifüggesztésétől számított tizenötödik napon kell kézbesítettnek tekinteni.
 
@@ -1310,7 +1318,7 @@ indul meg.
 
 (6) Ha a kézbesítési vélelem megdöntésére irányuló kérelem a kifogással kapcsolatos, az iratokat a kifogást elbíráló bíróságnak kell megküldeni.
 
-(7) A kézbesítési vélelem megdöntésére irányuló kérelmet elutasító határozat ellen panasznak van helye.
+(7) A kézbesítési vélelem megdöntésére irányuló kérelmet elutasító rendelkezés ellen jogorvoslatnak van helye.
 
 #### 75. A jegyzőkönyv
 
@@ -1453,10 +1461,10 @@ téríti meg.
 
 (6) A XXVII. és a XXVIII. Fejezetben meghatározott egyes szabálysértések esetén a Kormány – a helyszíni bírság legalacsonyabb és legmagasabb mértékére vonatkozó rendelkezés keretei között – rendelettel megállapíthatja a helyszíni bírság kötelező mértékét.
 
-(7) Ha a kormányrendeletben meghatározott kötelező mértékű helyszíni bírsággal sújtandó, a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés elkövetése miatt eljárás alá vont személyt az elkövetés időpontját megelőző hat hónapon belül a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés miatt helyszíni bírsággal sújtották, akkor
+(7) Ha a kormányrendeletben meghatározott kötelező mértékű helyszíni bírsággal sújtandó, a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés elkövetése miatt eljárás alá vont személyt az elkövetés időpontját megelőző hat hónapon belül a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértés miatt helyszíni bírsággal sújtották, akkor a (2) bekezdés szerinti, a hat hónapon belül újabb szabálysértés elkövetése esetén meghatározott bírságmaximum figyelembevételével
 
-- a) a második, kötelező mértékű helyszíni bírsággal sújtandó szabálysértés elkövetése esetén az ahhoz rendelt kötelező mértékű helyszíni bírság kétszeresét kell kiszabni;
-- b) a harmadik, illetve az azt követő, kötelező mértékű helyszíni bírsággal sújtandó szabálysértés elkövetése az ahhoz rendelt kötelező mértékű helyszíni bírság háromszorosát kell kiszabni, de az nem haladhatja meg a hetvenezer forintot.
+- a) a második, kötelező mértékű helyszíni bírsággal sújtandó szabálysértés elkövetése esetén az ahhoz rendelt kötelező mértékű helyszíni bírság kétszeresét kell kiszabni,
+- b) a harmadik, illetve az azt követő, kötelező mértékű helyszíni bírsággal sújtandó szabálysértés elkövetése az ahhoz rendelt kötelező mértékű helyszíni bírság háromszorosát kell kiszabni.
 
 (8) A helyszíni bírság kiszabása során, ha kötelező mértékű helyszíni bírsággal sújtandó több szabálysértés elbírálására kerül sor, az elkövetett szabálysértésekhez rendelt helyszíni bírságok közül a legmagasabb bírságot kell alkalmazni.
 
@@ -1565,7 +1573,7 @@ téríti meg.
 
 (2) A bíróság szabálysértési ügyben az iratok beérkezését követő harminc napon belül végzéssel határoz, amely rendelkező részből és indokolásból áll. Az ügydöntő végzés indokolása – ha e törvény másképp nem rendelkezik – tartalmazza a tényállást, a bizonyítékok értékelését, a végzés rendelkezéseinek indokait és megjelöli a végzés alapjául szolgáló jogszabályokat.
 
-(2a) Ha a bíróság tárgyaláson hozott, kihirdetés útján közölt ügydöntő végzése a jogosultak jogorvoslati jogról való lemondása miatt nyomban jogerőre emelkedik, a végzés indokolása csupán a tényállásból és az alkalmazott jogszabályok megjelöléséből is állhat. Ebben az esetben a bíróság a tárgyalásról rövidített jegyzőkönyvet készíthet, amelynek kizárólag a 91. § (2) bekezdésében írt adatokat, valamint a bírósági tárgyalás menetét és kell tartalmaznia oly módon, hogy a jegyzőkönyv alapján az eljárási szabályok megtartása nyomon követhető legyen.
+(2a) Ha a bíróság tárgyaláson hozott, kihirdetés útján közölt ügydöntő végzése a jogosultak jogorvoslati jogról való lemondása miatt nyomban jogerőre emelkedik, a végzés indokolása csupán a tényállásból és az alkalmazott jogszabályok megjelöléséből is állhat. Ebben az esetben a bíróság a tárgyalásról rövidített jegyzőkönyvet készíthet, amelynek kizárólag a 91. § (2) bekezdésében írt adatokat, valamint a bírósági tárgyalás menetét is kell tartalmaznia oly módon, hogy a jegyzőkönyv alapján az eljárási szabályok megtartása nyomon követhető legyen.
 
 (2b) A határozati formát nem igénylő bírói intézkedéssel szemben, valamint, ha e törvény kivételt nem tesz, pervezető végzéssel szemben jogorvoslatnak nincs helye.
 
@@ -1600,7 +1608,7 @@ téríti meg.
 
 #### 91. A kifogás elintézése tárgyaláson
 
-110. § (1) A bíróság tárgyalást tart, ha a kifogásban a jogosult kifejezetten kérte az ügy tárgyaláson történő elbírálását, vagy ha a bíróság tárgyalás tartását szükségesnek tartja.
+110. § (1) A bíróság tárgyalást tart, ha a kifogásban a jogosult kifejezetten kérte az ügy tárgyaláson történő elbírálását, vagy ha a bíróság tárgyalás tartását szükségesnek tartja. A bíróság nem köteles tárgyalást tartani, ha az iratok alapján azt állapítja meg, hogy a kifogás alapos és a bíróság döntése a kérelemben foglaltakkal megegyezik, vagy azt az elkövető javára meghaladja.
 
 (2) A bíróság tárgyalása nyilvános.
 
@@ -1804,6 +1812,37 @@ téríti meg.
 (3) A bíróság nem tart tárgyalást, ha megállapítja, hogy az előállítás nem volt jogszerű. Ha a tárgyalás megtartásának nincs akadálya, akkor a 125. § (3) bekezdése szerint jár el.
 
 (4) A végzés ellen az (1) bekezdésben meghatározott személy fellebbezéssel élhet.
+
+#### 96/B. Telekommunikációs eszköz útján történő meghallgatás
+
+126/B. § (1) A bíróság hivatalból vagy az eljárási cselekményen jelenlétre kötelezett vagy jogosult személy által előterjesztett indítványra – a technikai feltételek rendelkezésre állása esetén – elrendelheti az elkövető telekommunikációs eszköz útján történő meghallgatását.
+
+(2) A bíróság az előkészítő eljárást lefolytató rendőri szerv útján haladéktalanul közli a telekommunikációs eszköz használatával kapcsolatos döntését.
+
+(3) A telekommunikációs eszköz használata iránti indítvány elutasítása, valamint a telekommunikációs eszköz használatának elrendelése ellen nincs helye jogorvoslatnak.
+
+(4) Telekommunikációs eszköz használata esetén a bírósági tárgyalás kitűzött, illetve az előkészítő eljárást lefolytató rendőri szerv által megjelölt helyszín (a továbbiakban: elkülönített helyszín) között az összeköttetés közvetlenségét és kölcsönösségét kép- és hangfelvétel továbbítása biztosítja.
+
+(5) Ha a bíróság a 63. § (1) bekezdésében meghatározottak alapján elrendelte a tanú adatainak zártan kezelését, a telekommunikációs eszköz használata útján történő meghallgatáson az elkövető csak akkor lehet jelen, ha ehhez a tanú hozzájárul. Az így kizárt elkövető a telekommunikációs eszköz használata útján történő meghallgatást követően, a meghallgatás során távollétében történteket megismerheti.
+
+(6) Telekommunikációs eszköz használata esetén az elkülönített helyszínen kizárólag a következő személyek lehetnek jelen:
+
+- a) az elkövető, akinek a jelenlétét a telekommunikációs eszköz útján biztosítják,
+- b) az a) pontban meghatározott személy jogi képviselője, törvényes képviselője vagy képviselője,
+- c) a rendőrség képviselője,
+- d) az elkövető őrzését ellátó személy,
+- e) a szakértő,
+- f) a tolmács,
+- g) a telekommunikációs eszköz működését biztosító személyzet.
+
+(7) A telekommunikációs eszköz útján történt meghallgatásról készült jegyzőkönyvben – a 91. §-ra vonatkozó rendelkezések megfelelő alkalmazásával – rögzíteni kell:
+
+- a) a telekommunikációs eszköz használatának tényét és módját,
+- b) annak a személynek a megjelölését, akinek a jelenlétét telekommunikációs eszköz útján biztosítják,
+- c) az elkülönített helyszín címét,
+- d) az elkülönített helyszínen tartózkodó egyéb személyek nevét és azt, hogy az eljárási cselekményen milyen minőségben vannak jelen.
+
+(8) Telekommunikációs eszköz használata esetén a felvételt rögzíteni kell.
 
 ### XVIII. Fejezet — A PERÚJÍTÁS
 
@@ -2067,6 +2106,11 @@ elektronikus formában automatikusan továbbítja.
 
 (3) A bíróság által kiszabott pénzbírság, szabálysértési költség, rendbírság befizetésének ellenőrzéséről és végrehajtásáról, a 39. § (2) bekezdés c)–i) pontjában meghatározottak által kiszabott helyszíni bírság végrehajtásáról az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
 
+(3a) Az eljárás alá vont személy a pénzbírság, a szabálysértési költség, a rendbírság, valamint az okozott kár összegét
+
+- a) ha annak feltételei adottak, erre a célra a hatóság által rendszeresített elektronikus eszközön teljesítve, készpénz-kímélő fizetési mód alkalmazásával is teljesítheti, illetve
+- b) a részére átadott csekkszelvényen vagy banki átutalással az összegnek az e törvényben meghatározott határidőn belül történő megfizetésével, átutalásával – a döntés számára való hivatkozással – is teljesítheti.
+
 (4) A bíróság a kiszabott pénzbírságról, rendbírságról, megállapított szabálysértési költségről – a jogerős határozat kiadmányának megküldésével – értesíti a (3) bekezdésben meghatározott általános szabálysértési hatóságot azzal, hogy a jogerős határozat kiadmányának megküldésével egyidejűleg tájékoztatást nyújt a kötelezett részére megküldött és az ügy azonosítóival kitöltött készpénz-átutalási megbízás azonosítójáról is. Amennyiben a technikai feltételei rendelkezésre állnak, úgy a bíróság e tájékoztatási kötelezettségének elektronikus úton tesz eleget.
 
 (5) A 39. § (2) bekezdés c)–i) pontjában meghatározott helyszíni bírságot kiszabó személy a nála keletkezett iratok megküldésével – a (2) bekezdésben meghatározottak kivételével – akkor értesíti az elkövető lakóhelye szerinti általános szabálysértési hatóságot, ha a helyszíni bírság a kiszabását követő harmincötödik napon sem folyt be.
@@ -2115,7 +2159,7 @@ elektronikus formában automatikusan továbbítja.
 
 (17) Ha az elkövető a pénzbírságot, a helyszíni bírságot a határozat jogerőre emelkedésétől számított harminc napon belül nem fizeti meg, azt adók módjára kell behajtani, ha nincs helye elzárásra történő átváltoztatásnak, valamint közérdekű munkával sem váltotta azt meg.
 
-142. § (1) A meg nem fizetett pénzbírság vagy helyszíni bírság – gépjárművezető távollétében kiszabott helyszíni bírság kivételével – közérdekű munkával történő megváltása érdekében az elkövető – e törvény eltérő rendelkezése hiányában – a pénzbírság, helyszíni bírság befizetésére rendelkezésre álló határidő lejártát követő harmadik munkanapig személyesen jelentkezhet a lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szervnél. A határidőben történő személyes jelentkezés elmulasztása esetén a meg nem fizetett pénzbírságot, helyszíni bírságot – a 141. § (17) bekezdés kivételével – szabálysértési elzárásra kell átváltoztatni.
+142. § (1) A meg nem fizetett pénzbírság vagy helyszíni bírság – gépjárművezető távollétében kiszabott helyszíni bírság kivételével – közérdekű munkával történő megváltása érdekében az elkövető – e törvény eltérő rendelkezése hiányában – a pénzbírság, helyszíni bírság befizetésére rendelkezésre álló határidő lejártát követő nyolcadik napig személyesen jelentkezhet a lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szervnél. A határidőben történő személyes jelentkezés elmulasztása esetén a meg nem fizetett pénzbírságot, helyszíni bírságot – a 141. § (17) bekezdés kivételével – szabálysértési elzárásra kell átváltoztatni.
 
 (2) A pénzbírságot vagy helyszíni bírságot nem lehet közérdekű munkával megváltani, ha az eljárás alá vont személy
 
@@ -2159,7 +2203,7 @@ szerint illetékes.
 
 (5) A közérdekű munka végrehajtásában az elkövető lakóhelye vagy tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes állami foglalkoztatási szerv közreműködik.
 
-(6) Közérdekű munka kiszabása esetén az elkövető köteles a határozat jogerőre emelkedését követő három napon belül az illetékes állami foglalkoztatási szervnél jelentkezni.
+(6) Közérdekű munka kiszabása esetén az elkövető köteles a határozat jogerőre emelkedését követő nyolc napon belül az illetékes állami foglalkoztatási szervnél jelentkezni.
 
 (7) A közérdekű munka végrehajtása érdekében az állami foglalkoztatási szerv elsősorban az elkövető lakóhelye vagy tartózkodási helye szerinti település területén működő, vagy olyan közérdekű munka végzésére alkalmas munkahelyet jelöl ki, amelynek a megközelítése – az elkövető lakóhelyétől vagy tartózkodási helyétől – tömegközlekedési eszközzel az egy órát nem haladja meg. A közérdekű munka végrehajtása során az állami foglalkoztatási szerv – a foglalkoztathatósági szakvélemény figyelembevételével, a munkáltató beleegyezésével – foglalkoztatót jelöl ki a közérdekű munka végrehajtásának helyéül.
 
@@ -2821,6 +2865,8 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (20) Ha az eljárás alá vont személyt az (1) bekezdésben meghatározott szabálysértés elkövetésének időpontját megelőző hat hónapon belül már két ízben jogerősen felelősségre vonták az (1) bekezdésben meghatározott szabálysértés elkövetése miatt, az ismételten elkövetett (1) bekezdés szerinti szabálysértés miatt közérdekű munka büntetés nem szabható ki, valamint figyelmeztetés intézkedés nem alkalmazható.
 
+(21) Ha az elkövető a (17) bekezdésben meghatározott közérdekű munka büntetést vállalja, de azt nem teljesíti, és a közérdekű munka büntetés elzárásra történő átváltoztatása érdekében megtartott bírósági eljárásban az elkövető személyes jelenlétének a biztosítása szükséges, akkor ennek céljából az általános szabálysértési hatóság az elkövető körözését rendeli el.
+
 #### 133/C. Közös szabályok a XXIII. Fejezetben foglalt szabálysértések tekintetében
 
 179. § E törvény XXIII. Fejezetében foglalt szabálysértések miatt szabálysértési elzárás büntetés kiszabásának is helye van.
@@ -3081,7 +3127,12 @@ szabálysértést követ el.
 
 #### 153/A. Gyógyszerrendészeti szabálysértés
 
-199/A. § (1) Aki engedély nélkül gyógyszert készít, forgalmaz, vagy Magyarországon orvosi rendelvényre kiadható gyógyszernek minősülő anyagot, készítményt indokolatlan mennyiségben tart, szabálysértést követ el.
+199/A. § (1) Aki
+
+- a) hamis, meghamisított vagy Magyarországon nem engedélyezett gyógyszert vagy állatgyógyászati készítményt indokolatlan mennyiséget el nem érő mennyiségben kínál, átad, megszerez vagy tart, illetve
+- b) Magyarországon orvosi rendelvényre kiadható gyógyszernek minősülő anyagot, készítményt indokolatlan mennyiségben tart,
+
+szabálysértést követ el.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a Nemzeti Adó- és Vámhivatal hatáskörébe tartozik.
 
@@ -3094,6 +3145,12 @@ szabálysértést követ el.
 (2) E § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma a 2 gramm mennyiséget nem haladja meg. A só formában előforduló vegyületek esetén tiszta hatóanyag-tartalom alatt a bázis formában megadott hatóanyag-tartalmat kell érteni.
 
 (3) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
+
+#### 153/C. Nem-konvencionális eljárással kapcsolatos szabálysértés
+
+199/C. § (1) Aki az egészségügyről szóló törvény és annak végrehajtására kiadott jogszabály szerinti nem-konvencionális eljárás alkalmazása során az egészségügyről szóló törvény szerinti tájékoztatási kötelezettségét megszegi, szabálysértést követ el.
+
+(2) Az (1) bekezdésben meghatározott szabálysértés miatt az eljárás a rendőrség hatáskörébe tartozik.
 
 #### 154. Szeszesital-árusítás, -kiszolgálás és -fogyasztás tilalmának megszegése
 
@@ -3676,7 +3733,7 @@ szabálysértést követ el.
 - c) meghatározza a XXVII. és a XXVIII. Fejezetben foglalt egyes szabálysértések esetén a pénzbírság, illetve a helyszíni bírság kötelező mértékét,
 - d) meghatározza a bírósági ügyintézők által szabálysértési eljárásban ellátható feladatokat,
 - e) meghatározza a szabálysértési nyilvántartás kezelésével, valamint az abból történő adatigényléssel kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat,
-- f) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés szerinti eljárásra jogosult más szerv vagy szervezetek körét és feladataikat,
+- f) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés vonatkozásában azt a szervet vagy szervezetet, amely segítségének elfogadása a 178/B. § (2) bekezdés b) pontja szerinti együttműködésnek minősül, és e szerv vagy szervezet segítségnyújtással összefüggő feladatait,
 - g) meghatározza az életvitelszerű közterületi tartózkodás szabályainak megsértése szabálysértés elkövetőjének tulajdonában álló ingóságok ideiglenes tárolását végző szervet, illetve az ingóságok tárolására és megsemmisítésére vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a szabálysértési szabályozásért felelős miniszter, hogy

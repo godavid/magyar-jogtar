@@ -39,6 +39,8 @@ közérdekű, illetve közhasznú tevékenységük támogatása
   - c) – a közalapítvány és a pártalapítvány kivételével – az alapítvány.
 - 7. elsődlegesen gazdasági-vállalkozási tevékenységű szervezet: azon szervezet, amelynek éves összes bevétele hatvan százalékát eléri vagy meghaladja a gazdasági-vállalkozási tevékenységéből származó éves összes bevétele;
 - 8. feladatfinanszírozást szolgáló költségvetési támogatás: valamely közfeladat államháztartáson kívüli szervezet által történő ellátását, valamint e feladat ellátásához közvetlenül kapcsolódó, arányos működési költségeket finanszírozó költségvetési támogatás;
+- 8a. civil szervezetek normatív támogatása: a civil szervezetek által gyűjtött adományok után járó, a gyűjtött adomány mértékével arányos az 56. § (1) bekezdés a) pontja alapján nyújtott támogatás;
+- 8b. civil szervezetek egyszerűsített támogatása: a helyi vagy területi hatókörű civil szervezetek számára az 56. § (1) bekezdés h) pontja alapján egyszerűsített formában, jogosultsági alapon nyújtott támogatás a helyi közösség érdekében végzett tevékenységük támogatására;
 - 9. felelős személy: a civil szervezet vezető tisztségviselője, létesítő okiratában és belső szabályzataiban vezető tisztségviselőként megjelölt vagy egyébként érdemi döntési jogkörrel rendelkező személy, valamint az a személy, aki a létesítő okirat felhatalmazása, a civil szervezet döntéshozó szervének határozata vagy szerződés alapján a civil szervezet képviseletére vagy pénzforgalmi számlája feletti rendelkezésre jogosult;
 - 10. gazdálkodó tevékenység: azon tevékenységek összessége, amelyek a civil szervezet vagyoni, pénzügyi, jövedelmi helyzetére kiható gazdasági eseményt eredményeznek;
 - 11. gazdasági-vállalkozási tevékenység: a jövedelem- és vagyonszerzésre irányuló vagy azt eredményező, üzletszerűen végzett gazdasági tevékenység, kivéve
@@ -46,7 +48,7 @@ közérdekű, illetve közhasznú tevékenységük támogatása
   - b) a létesítő okiratban meghatározott cél szerinti tevékenységet (ideértve a közhasznú tevékenységet is),
   - c) a pénzeszközök betétbe, értékpapírba, társasági részesedésbe történő elhelyezését,
   - d) az ingatlan megszerzését, használatának átengedését és átruházását;
-- 12. határon túli civil szervezet: határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében tevékenykedő, más állam területén működő nonprofit egyesület és alapítvány;
+- 12. határon túli civil szervezet: a határon túli magyarságnak a szülőföldjén való – egyéni és közösségi – boldogulása, anyagi és szellemi gyarapodása, nyelvének és kultúrájának megőrzése és továbbfejlesztése, az anyaországgal való és egymás közötti sokoldalú kapcsolatának fenntartása és erősítése érdekében tevékenykedő, más állam területén, annak jogszabályai alapján működő civil szervezet;
 - 13. hatókör: civil szervezet működésének földrajzi kiterjedése, amely lehet:
   - a) helyi: a működés területe a székhely (illetve telephelyek) településére vagy annak egy részére korlátozódik;
   - b) területi: a működés kiterjedése a helyi kiterjedést meghaladja, de nem éri el az országos szint követelményeit;
@@ -905,14 +907,14 @@ vonatkozó szabályokat.
 
 56. § (1) Az Alap terhére az alábbi célokra teljesíthetők kifizetések:
 
-- a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltüntetett adományok értéke után járó öt százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít;
+- a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltüntetett adományok értéke után járó tíz százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít;
 - b) civil szervezetek működésének támogatása;
 - c) civil szervezeteket, határon túli civil szervezeteket érintő szakmai programok, különösen évfordulók, fesztiválok, hazai és határon túli rendezvények, valamint a programok megvalósításához közvetlenül kapcsolódó költségek támogatása;
 - d) nemzetközi civil kapcsolatokban a magyarországi civil szervezetek jelenlétének biztosítása, hazai és határon túli rendezvényeken, fesztiválokon történő részvétel támogatása, nemzetközi tagdíjakhoz támogatás biztosítása, európai integrációt elősegítő programok támogatása;
 - e) civil szférával kapcsolatos tudományos kutatások, monitoringtevékenység és nyilvántartási feladatok támogatása;
 - f) civil szférával kapcsolatos szolgáltató, tanácsadó, oktatási, fejlesztő, segítő, illetve esélyegyenlőséget és akadálymentességet elősegítő tevékenység és intézmények támogatása;
 - g) civil szférát bemutató kiadványok, elektronikus és írott szakmai sajtó támogatása;
-- h) helyi vagy területi hatókörű civil szervezetek egyszerűsített támogatása, amelyet a civil szervezet alapcél szerinti tevékenységéhez kapcsolódó költségeinek fedezésére fordít.
+- h) helyi vagy területi hatókörű civil szervezetek egyszerűsített támogatása, amelyet a civil szervezet alapcél szerinti közösségteremtő, a hatókörébe tartozó közösség érdekében végzett tevékenységéhez kapcsolódó költségeinek fedezésére fordít;
 - i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési Alap Tanácsa (továbbiakban: Tanács), illetve a kollégiumok egységes elvek mentén meghatározott, forrásautomatizmus biztosításáról szóló döntései alapján;
 - j) civil érdek-képviseleti tevékenység támogatása;
 - k) az Alap működtetésével kapcsolatos költségek fedezete;
@@ -920,9 +922,10 @@ vonatkozó szabályokat.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 
-- a) kilencven százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–j) pontja szerinti,
-- b)
-- c) tíz százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–j) pontja szerinti költségvetési támogatásokra történhet kötelezettségvállalás.
+- a) nyolcvanöt százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–j) pontja szerinti,
+- b) tizenöt százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–g) és i)–j) pontjai szerinti
+
+költségvetési támogatásokra történhet kötelezettségvállalás.
 
 (3) Az Alap rendelkezésére álló tárgyévi támogatási források legalább
 
@@ -933,7 +936,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (4)
 
-57. § (1) Az Alap terhére csak az 56. § (1) bekezdés b), h) vagy l) pontja szerinti támogatás nyújtható azon civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves összes bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket. E bekezdés szerinti esetben az 56. § (1) bekezdés b) vagy h) pontja szerinti támogatás csak visszatérítendő formában nyújtható.
+57. § (1) Az Alap terhére csak az 56. § (1) bekezdés b) vagy l) pontja szerinti támogatás nyújtható azon civil szervezetnek, amely a pályázat megjelenését megelőző utolsó lezárt üzleti évben beszámolóval igazolható éves összes bevétele eléri vagy meghaladja a miniszter rendeletében meghatározott értéket. E bekezdés szerinti esetben az 56. § (1) bekezdés b) pontja szerinti támogatás csak visszatérítendő formában nyújtható.
 
 (2) A visszatérítési kötelezettség alá eső költségvetési támogatás az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szerinti adók módjára behajtandó köztartozásnak minősül.
 
@@ -957,14 +960,14 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (4)
 
-(5) Az (1) bekezdés d) pontja szerinti összeg az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdése szerinti kedvezményezetteknek felajánlható és ténylegesen kiutalt összeg különbsége csökkentve az Alap működtetésére az Alap kezelő szervének költségvetésében tervezett összeggel.
+(5) Az (1) bekezdés d) pontja szerinti összeg az adott költségvetési évet megelőző második évben az Szftv. 4. § (1) bekezdése szerinti kedvezményezetteknek felajánlható és ténylegesen kiutalt összeg különbsége.
 
 (6) Az adóhatóság minden év február 1-jéig adatot szolgáltat a miniszter, valamint az államháztartásért felelős miniszter számára az (5) bekezdésben foglaltak teljesítése céljából
 
 - a) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek potenciálisan felajánlható összegről,
 - b) a tárgyév január 1-jei állapot szerint a tárgyévet megelőző évben az Szftv. 4. § (1) bekezdés szerinti kedvezményezetteknek ténylegesen kiutalt összegről.
 
-(7) Az Alap kezelő szerve elkülönítetten tartja nyilván az Alap működésének támogatására a kezelőszerv költségvetésében előirányzott összeget.
+(7) Az Alap kezelő szerve az Alap bevételei és kiadásai kezelésére elkülönített nyilvántartást vezet.
 
 #### 19. A kedvezményezettek
 
@@ -972,7 +975,7 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (2)
 
-(3) Nem jogosult az Alapból működési támogatásra az a civil szervezet, amely a pályázat kiírásának évében a költségvetési törvényben nevesítve részesül támogatásban.
+(3)
 
 (4) A határon túli civil szervezet
 
@@ -1047,7 +1050,7 @@ szerinti támogatás esetén.
 
 65. § (1) A Tanács és a kollégiumok tagjait – a kijelölésüket, illetve megválasztásukat követő harminc napon belül – a miniszter bízza meg. A Tanács és a kollégiumok tagjainak megbízatása négy évre szól.
 
-(2) A Tanács és a kollégiumok tagjainak költségátalányát és költségtérítése elszámolásának szabályait a miniszter az államháztartásért felelős miniszterrel egyetértésben, rendeletben határozza meg. A költségátalány és költségtérítés egy hónapra járó összege a mindenkori kötelező legkisebb munkabér havi összegének felét nem haladhatja meg.
+(2) A Tanács és a kollégiumok tagjainak költségátalányát és költségtérítése elszámolásának szabályait a miniszter az államháztartásért felelős miniszterrel egyetértésben, rendeletben határozza meg. A költségátalány egy hónapra járó összege a mindenkori kötelező legkisebb munkabér havi összegének felét, költségtérítés esetén pedig a mindenkori kötelező legkisebb munkabér havi összegének kétharmadát nem haladhatja meg.
 
 66. § (1) Nem lehet a Tanács tagja, és a kollégium tagja
 
@@ -1150,7 +1153,7 @@ szerinti támogatás esetén.
 
 #### 23. Felhatalmazó rendelkezések
 
-73. § (1) Felhatalmazást kap a Kormány, hogy a civil szervezetek gazdálkodó és adománygyűjtő tevékenységével kapcsolatos részletes szabályokat, a közhasznúsági melléklet formai és tartalmi követelményeit, a kollégiumok által az e törvény alapján juttatott, nem költségvetési támogatásnak minősülő támogatásokkal kapcsolatos döntési eljárás szabályait, rendeletben állapítsa meg.
+73. § (1) Felhatalmazást kap a Kormány, hogy a civil szervezetek gazdálkodó és adománygyűjtő tevékenységével kapcsolatos részletes szabályokat, a közhasznúsági melléklet formai és tartalmi követelményeit, a kollégiumok által az e törvény alapján juttatott, nem költségvetési támogatásnak minősülő támogatásokkal kapcsolatos döntési eljárás szabályait, az Alap kezelő szervének jogutódlása esetén felmerülő átadás-átvételi eljárás szabályait rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 

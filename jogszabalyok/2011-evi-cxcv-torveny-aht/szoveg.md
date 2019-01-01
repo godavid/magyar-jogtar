@@ -527,7 +527,7 @@ költségvetési bevételeit és költségvetési kiadásait.
 
 (4) A céltartalék olyan, a központi költségvetésről szóló törvényben meghatározott költségvetési kiadási előirányzat, amely évközi kormányzati intézkedés fedezetéül szolgál, és amelynek célját és rendeltetését egyidejűleg meghatározták, azonban a költségvetési kiadási előirányzat felhasználásának fejezet, cím, alcím szerinti megoszlása a központi költségvetésről szóló törvény elfogadásakor még nem ismert.
 
-(4a) A központi költségvetésről szóló törvényben fejezeti stabilitási tartalékot kell képezni a központi költségvetésről szóló törvényben nem szerepeltetett új feladatok, valamint az abban szerepeltetett feladatok bővítése előirányzati fedezetének biztosítására. A fejezeti stabilitási tartalék felhasználásának szabályait a Kormány rendeletben állapítja meg.
+(4a)
 
 (5) Ha a központi költségvetésről szóló törvény – ide nem értve a fejezeti általános tartalékot – az (1)–(4) bekezdésben foglaltakon kívül más tartalék létrehozásáról rendelkezik, a központi költségvetésről szóló törvényben meg kell határozni a tartalék célját, felhasználásának módját és feltételeit.
 
@@ -696,11 +696,11 @@ a költségvetési évet követő három évre várható összegét.
 - g) adósságszolgálattal kapcsolatos kiadás,
 - h) a jegybanki alapkamat előző évi átlagától függő költségvetési kiadás.
 
-33. § (1) A fejezetet irányító szerv a Kormány rendeletében meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
+33. § (1) A fejezetet irányító szerv a Kormány rendeletében és az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvényben meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.
 
 (1a) Ha az Országgyűlés a központi költségvetésről szóló törvény elfogadását követően olyan központi költségvetési szervet alapított, amelynek költségvetési bevételei és költségvetési kiadásai a központi költségvetésben önálló fejezetet alkotnak, a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult a fejezetrend ezzel összefüggő kiegészítésére.
 
-(2) A központi költségvetésről szóló törvény és e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított kiadási előirányzatok közötti előirányzat-átcsoportosításra a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén az Országgyűlés egyedi határozatban jogosult.
+(2) A központi költségvetésről szóló törvény, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény és e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított kiadási előirányzatok közötti előirányzat-átcsoportosításra a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén az Országgyűlés egyedi határozatban jogosult.
 
 (3) A központi költségvetésről szóló törvény eltérő rendelkezése hiányában a fejezetet irányító szerv az általa irányított fejezetbe sorolt
 
@@ -754,14 +754,12 @@ kerülhet sor.
 
 (3) Az (1) és (2) bekezdés szerinti kötelezettségvállalás esetén a pénzügyi teljesítésnek – a Kormány rendeletében meghatározott kivételekkel – legkésőbb a költségvetési év december 31-éig meg kell történnie.
 
-(4) Az (5) bekezdésben foglaltak, valamint a 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzatai terhére kötelezettség
+(4) Az (5) bekezdésben, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvényben foglaltak, valamint a 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzatai terhére kötelezettség
 
-- a) a társadalombiztosítás pénzügyi alapjai, valamint a 14. § (3) bekezdése és (4) bekezdés c) és d) pontja szerinti fejezetek kiadási előirányzatai esetén törvényben foglaltak szerint,
+- a) a társadalombiztosítás pénzügyi alapjai, valamint a 14. § (3) bekezdése és a 14. § (4) bekezdés c) és d) pontja szerinti fejezetek kiadási előirányzatai esetén törvényben foglaltak szerint,
 - b) egyéb esetben
   - ba) a személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó, a dologi kiadások és az ellátottak pénzbeli juttatásainak kiadási előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának mértékéig,
-  - bb) az egyéb működési célú kiadások és a felhalmozási kiadások előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának ötven százalékáig
-
-vállalható.
+  - bb) az egyéb működési célú kiadások és a felhalmozási kiadások előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának ötven százalékáig vállalható.
 
 (4a) Ha a következő évre szóló központi költségvetési törvény kihirdetésre kerül, a (4) bekezdés b) pontját a fejezeti kezelésű előirányzatok esetében azzal az eltéréssel kell alkalmazni, hogy a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére vállalható kötelezettség
 
@@ -1389,10 +1387,11 @@ vizsgálatára terjed ki.
 - g) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
 - h) a Nemzeti Eszközkezelő Zrt.,
 - i) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
-- j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik, és
-- k) a Nemzeti Üdülési Szolgálat
+- j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
+- k) a Nemzeti Üdülési Szolgálat és
+- l) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény alapján Beruházási Ügynökségként kijelölt gazdasági társaság
 
-[az a)–k) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
+[az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter felmentést adhat.
 
@@ -1613,7 +1612,7 @@ rendelkezése az adott költségvetési évre vonatkozó központi költségvet�
 
 93. § (1) Jogi személy részére, az általa vállalt kezesség, garancia érvényesítéséhez az állam nevében törvényben megtérítési kötelezettség vállalható (a továbbiakban: állami viszontgarancia).
 
-(2) Az állami viszontgarancia alapján az állam által kifizetett összeg behajtása (ideértve a követelés átruházást is) annak a jogi személynek a feladata, amely a viszontgarancia alapjául szolgáló kezességet, garanciát nyújtja (a továbbiakban: garantőr szervezet). A garantőr szervezet a követelés behajtásából származó, a Kormány rendeletében meghatározott költségekkel csökkentett bevételt az érvényesített állami viszontgarancia mértékével megegyező arányban köteles az államnak megfizetni. A garantőr szervezet a kezesség érvényesítése miatt rá átszálló követelés átruházása esetén az ellenérték viszontgarancia mértékével megegyező arányára figyelemmel köteles a Kormány rendeletében meghatározottak szerint elszámolni az állammal. Ha a garantőr szervezet e kötelezettségének nem tesz eleget, a meg nem fizetett összeg az állammal szembeni tartozássá válik, és azt adók módjára kell behajtani. Az adók módjára behajtandó tartozás előírása, nyilvántartása és végrehajtása az állami adóhatóság feladata.
+(2) Az állami viszontgarancia alapján az állam által kifizetett összeg behajtása (ideértve a követelés átruházást is) annak a jogi személynek a feladata, amely a viszontgarancia alapjául szolgáló kezességet, garanciát nyújtja (a továbbiakban: garantőr szervezet). A garantőr szervezet köteles minden szükséges jogcselekményt megtenni a kötelezettekkel szemben fennálló követelés behajtása érdekében. Az állami viszontgaranciával érintett követelés átruházására csak a Kormány rendeletében meghatározott esetekben kerülhet sor. Amennyiben a garantőr szervezet az állami viszontgarancia alapjául szolgáló kezesség biztosítékaként biztosítást köt, az ebből származó térítés behajtásból származó bevételnek minősül. A garantőr szervezet a követelés behajtásából származó, a Kormány rendeletében meghatározott költségekkel csökkentett bevételt az érvényesített állami viszontgarancia mértékével megegyező arányban köteles az államnak megfizetni. Ha a garantőr szervezet e fizetési kötelezettségének nem tesz eleget, a meg nem fizetett összeg az állammal szembeni köztartozássá válik, és azt adók módjára kell behajtani.
 
 94. § (1) Az államháztartásért felelős miniszter a kultúráért felelős miniszter javaslatára a (2) és (3) bekezdés szerint a kiállítási tárgyakban bekövetkezett károk megtérítéséért az állam nevében közvetlen és önálló kötelezettséget vállalhat a kiállítási tárggyal rendelkezni jogosult (e § alkalmazásában a továbbiakban: jogosult) irányába olyan kiállítások esetén, amelyek megrendezéséhez kiemelkedő kulturális érdek fűződik (a továbbiakban: kiállítási garancia).
 
@@ -1767,6 +1766,8 @@ kezelésére.
 
 (3) A kincstár nem teljesíti a tájékoztatást azon személy részére, aki a tájékoztatás időpontját megelőzően legalább 30 nappal a kincstár részére írásban, neve és lakcíme megadásával nyilatkozik arról, hogy az adott támogatás, juttatás tekintetében tájékoztatásra nem tart igényt. A kincstár a nyilatkozatok adatait azok visszavonásáig, a tájékoztatás nyújtásának mellőzése céljából kezeli, azokat más célra nem kezelheti és más szerv részére nem továbbíthatja.
 
+106/F. § A kincstár a helyi önkormányzat, a helyi nemzetiségi önkormányzat, a társulás, valamint az általuk alapított költségvetési szerv részére végzett könyvelési szolgáltatás ellátása keretében rendelkezésére bocsátott személyes vagy különleges adatot is tartalmazó dokumentumokba betekinthet, illetve azokat a feladata ellátásához szükséges mértékben, a könyvelés évének lezárását követő 8. év végéig kezelheti.
+
 #### 70. Adatszolgáltatási kötelezettségek
 
 107. § (1) A költségvetési szervek, a központi kezelésű előirányzatok és fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervei, a helyi önkormányzatok, a nemzetiségi önkormányzatok, a társulások, a térségi fejlesztési tanácsok, valamint a 109. § (8) bekezdése alapján kiadott közleményben megjelölt kormányzati szektorba sorolt egyéb szervezetek és besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személyek e törvényben és a Kormány rendeletében meghatározott adatszolgáltatásokat teljesítenek.
@@ -1823,7 +1824,7 @@ kell kiszabni.
 - 2. a költségvetési szervek gazdasági szervezetének és gazdasági vezetőjének feladatait, a gazdasági szervezettel nem rendelkező költségvetési szerv pénzügyi-gazdasági feladatainak ellátását, a gazdasági vezető képesítési előírásait, továbbá a 10. § (5) bekezdése szerinti belső szabályzatok tartalmi követelményeire vonatkozó részletszabályokat,
 - 3. a központi költségvetés tervezéséhez kapcsolódóan a központi költségvetésről szóló törvény fejezeteinek tervezett kiadási főösszegei megállapításának módját, a középtávú tervezéshez szükséges adatszolgáltatás módját,
 - 4. az elfogadott központi költségvetésről szóló törvény alapján fejezetenként a fejezetet irányító szervet, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervét, a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok esetén a kezelő szerv kijelölésének módját, feltételeit, a kezelő szerv által ellátható feladatokat, a központi és fejezeti kezelésű előirányzat, elkülönített állami pénzalap nem költségvetési szervi formában működő kezelő szervének szabályzataira, szervezeti felépítésére, pénzügyi feladatokat ellátó alkalmazottaira vonatkozó sajátos követelményeket, az államháztartás önkormányzati alrendszerében az irányító szervet,
-- 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék és a fejezeti stabilitási tartalék felhasználásának rendjét,
+- 5. a rendkívüli kormányzati intézkedésekre szolgáló tartalék felhasználásának rendjét,
 - 6. az 51. § (4) bekezdése szerinti költségvetési támogatásokat, valamint e költségvetési támogatásoknak a kincstárnál vezetett fizetési számlára történő folyósításával és felhasználásával kapcsolatos részletes szabályokat,
 - 7. a fejezetet irányító szerv által az adott költségvetési évre az államháztartásért felelős miniszter egyetértésével kiadott rendelet, szabályzat tartalmi követelményeit,
 - 8. az elemi költségvetés készítésével kapcsolatos tartalmi és formai követelményeket, a bevételi kiemelt előirányzatokat, az egységes rovatrendet,

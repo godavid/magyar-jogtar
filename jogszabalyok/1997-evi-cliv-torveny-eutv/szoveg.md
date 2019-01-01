@@ -222,6 +222,8 @@ céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy 
 
 (9) Az orvos a vizsgálatot megelőzően köteles a beteget – amennyiben állapota lehetővé teszi – arról tájékoztatni, hogy a vizsgálat és az azt követő ellátás térítési díját meg kell téríteni, ha a vizsgálat eredménye szerint sürgős szükség nem áll fenn és az ellátás költségének fedezete a központi költségvetésben és az Egészségbiztosítási Alapon keresztül sincs biztosítva.
 
+(10) A (2) bekezdés szerinti részletes tájékoztatást homeopátiás gyógyszer ajánlása esetén írásban is a beteg rendelkezésére kell bocsátani.
+
 14. § (1) A cselekvőképes beteg a tájékoztatásáról lemondhat, kivéve, ha betegsége természetét ismernie kell ahhoz, hogy mások egészségét ne veszélyeztesse. Ha a beavatkozásra a beteg kezdeményezésére és nem terápiás célból kerül sor, a tájékoztatásról való lemondás csak írásban érvényes.
 
 (2) Az (1) bekezdés szerinti rendelkezéseket a 16. életévét betöltött kiskorú személy esetén is alkalmazni kell.
@@ -2387,6 +2389,8 @@ költségének fedezetét.
 
 (3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban ETT), a szakmai kollégiumok, valamint az országos gyógyintézetek segítik.
 
+(3a) Az országos gyógyintézet az egészségügyért felelős miniszter által vezetett minisztérium gyógyító-megelőző, szervezési-módszertani, továbbképző és tudományos alapintézményeként, népegészségügyi szempontból kiemelkedő jelentőségű szakmacsoportokon belül lát el gyógyító, módszertani, epidemiológiai, szervezési, kutatási és oktatási tevékenységet.
+
 (4) A miniszter az egészségügyi felsőfokú szakirányú szakképzésért való feladatkörében az egészségügyi felsőfokú szakirányú szakképzésben résztvevőkre tekintettel támogatást nyújthat.
 
 151. § (1) A miniszter az egészségügy területén működő civil szervezetekkel a Nemzeti Betegfórum útján is kapcsolatot tart.
@@ -3821,7 +3825,7 @@ rendeletben megállapítsa.
 - p) az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtek és embriók adományozására és fagyasztva tárolására vonatkozó, továbbá az ivarsejtekkel és az embriókkal végzett kutatás részletes szabályokat,
 - q) a szervekkel, szövetekkel és sejtekkel kapcsolatos tevékenységre vonatkozó részletes szabályokat,
 - r) a véradások szervezésével kapcsolatos részletes szabályokat, a térítéses véradások eseteit, a véradókat megillető költségtérítés, illetőleg a célzott (saját vagy meghatározott személy részére történő) véradás szabályait, továbbá a vérellátás biztonságának biztosítása érdekében szükséges önkéntes véradásra történő felhívás anyagi támogatásának ösztönzésével kapcsolatos szabályokat,
-- s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait,
+- s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait, és az ipari célú vérmintavételére és felhasználására vonatkozó részletes szabályokat,
 - sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat, az étkeztetés, étrendtervezés és a diétás ételkészítés személyi feltételeit, valamint a hatósági ellenőrzés szabályait,
 - t) a vérkészítmények terápiás felhasználásának részletes szabályait,
 - u) az egységes ágazati humánerőforrás-monitoringrendszer működésének, valamint a humánerőforrás-monitoringrendszer részére átadásra kerülő egyes adatok körét, illetve a humánerőforrás-monitoringrendszerből történő adatszolgáltatás részletes szabályait,
@@ -3850,7 +3854,7 @@ rendeletben állapítsa meg.
   - hb) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
   - hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
   - hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
-- i)
+- i) a Szoptatást Támogató Nemzeti Bizottság működésére vonatkozó szabályokat,
 - j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
 - k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
 - l) a 137. § b) pontja szerinti azon járóbeteg-szakellátási tevékenységeket, amelyek befejezésekor ambuláns ellátási lapot kell kiállítani, valamint az ambuláns ellátási lap tartalmával kapcsolatos szabályokat

@@ -279,6 +279,20 @@ az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezetts
 
 (3) Ha az (1)–(2) bekezdésben meghatározott, az azok közül értelemszerűen alkalmazandó feltételek bármelyike nem teljesül, az apportra, a jogutódlásra, az üzletág-átruházásra, valamint a bizalmi vagyonkezelésre vonatkozóan a feltétel nem teljesülésekor a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás haladéktalanul beáll.
 
+### Az utalványok átruházására vonatkozó szabályok
+
+18/A. § (1) Az egycélú utalvány saját név alatti minden egyes ellenérték fejében történő átruházását, átengedését (e § alkalmazásában a továbbiakban együtt: átruházás) az utalvány tárgyát képező termék értékesítésének, szolgáltatás nyújtásának kell tekinteni. Az egycélú utalvány más nevében történő átruházása esetében az utalvány tárgyát képező termékértékesítést, szolgáltatásnyújtást az teljesíti, akinek (amelynek) a neve alatt az utalványt átruházzák.
+
+(2) Amennyiben a beváltó az egycélú utalványt kibocsátó adóalany, a beváltáskor az utalvány ellenében teljesített termékértékesítés, szolgáltatásnyújtás nem minősül adóztatandó ügyletnek.
+
+(3) Amennyiben a beváltó az egycélú utalvány kibocsátójától eltérő adóalany, a beváltáskor az utalvány ellenében teljesített termékértékesítés, szolgáltatásnyújtás nem minősül adóztatandó ügyletnek, azonban úgy kell tekinteni, hogy a beváltó – olyan érték fejében, amelyen az utalványt ellenértékként vagy részellenértékként elfogadja – az utalvány tárgyát képező termékértékesítést, szolgáltatásnyújtást teljesít az utalványt kibocsátónak.
+
+(4) Ellenérték fejében történő átruházás az is, ha az adóalany az egycélú utalványt más tulajdonába ingyenesen átruházza – ide nem értve az utalványt kibocsátó adóalany általi ingyenes átruházást –, feltéve, hogy az utalvány szerzéséhez kapcsolódóan az adóalanyt egészben vagy részben adólevonási jog illette meg.
+
+18/B. § (1) Többcélú utalvány ellenérték fejében történő átruházása, átengedése (e § alkalmazásában a továbbiakban együtt: átruházás) nem minősül termék értékesítésének, szolgáltatás nyújtásának. Többcélú utalvány beváltása esetén a beváltó termékértékesítést, szolgáltatásnyújtást teljesít.
+
+(2) Az (1) bekezdés sérelme nélkül, a többcélú utalványt átruházó adóalany által nyújtott valamennyi azonosítható szolgáltatás, így különösen a forgalmazás, illetve vásárlásösztönzés, szolgáltatásnyújtásnak minősül.
+
 ### Termék Közösségen belüli beszerzése
 
 19. § A 2. § b) pontja a következő eseteket foglalja magában:
@@ -617,6 +631,8 @@ a termék importjának teljesítési helye a Közösség azon tagállama, ahol a
 
 (4) E § nem alkalmazható a termék 10. § a) pontja szerinti értékesítésére.
 
+(5) Ha e § szerinti teljesítést megelőzően a terméket értékesítő vagy szolgáltatást nyújtó adóalany jogutód nélkül szűnik meg, az (1) és (1a) bekezdéstől eltérően teljesítés a jogutód nélküli megszűnést megelőző nap.
+
 58/A. §
 
 59. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha a teljesítést megelőzően ellenértékbe beszámítható vagyoni előnyt juttatnak (a továbbiakban: előleg), a fizetendő adót pénz vagy készpénz-helyettesítő fizetési eszköz formájában juttatott előleg esetében annak jóváírásakor, kézhezvételekor, egyéb esetben annak megszerzésekor kell megállapítani.
@@ -696,9 +712,13 @@ a fizetendő adót – az (1) bekezdéstől eltérően – az a) pontban említe
 
 65. § Termék értékesítése, szolgáltatás nyújtása esetében az adó alapja – ha e törvény másként nem rendelkezik – a pénzben kifejezett ellenérték, amelyet a jogosult kap vagy kapnia kell akár a termék beszerzőjétől, szolgáltatás igénybevevőjétől, akár harmadik féltől, ideértve a támogatások bármely olyan formáját is, amely a termék értékesítésének, szolgáltatás nyújtásának árát (díját) közvetlenül befolyásolja.
 
-66. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha az ellenérték nem pénzben kifejezett, és megtérítése sem pénzzel, készpénz-helyettesítő fizetési eszközzel vagy pénzhelyettesítő eszközzel történik, hanem termék értékesítésével, szolgáltatás nyújtásával, mindkét ügyletet önállóan kell figyelembe venni azzal, hogy az egyik a másiknak az ellenértéke.
+66. § (1) Termék értékesítése, szolgáltatás nyújtása esetében, ha az ellenérték nem pénzben kifejezett, és megtérítése sem pénzzel, készpénz-helyettesítő fizetési eszközzel, utalvánnyal vagy pénzhelyettesítő eszközzel történik, hanem termék értékesítésével, szolgáltatás nyújtásával, mindkét ügyletet önállóan kell figyelembe venni azzal, hogy az egyik a másiknak az ellenértéke.
 
 (2) Az adó alapját pénzben kifejezve, a termék, szolgáltatás szokásos piaci árán kell megállapítani.
+
+66/A. § (1) A 65. § sérelme nélkül, többcélú utalvány ellenében teljesített termékértékesítés vagy szolgáltatásnyújtás adóalapja az utalványért fizetett ellenérték, csökkentve az értékesített terméket vagy nyújtott szolgáltatást terhelő adó összegével.
+
+(2) Az utalványért fizetett ellenérték ismeretének hiányában adóalapnak a többcélú utalványon vagy a kapcsolódó dokumentációban feltüntetett pénzbeli értéket kell tekinteni, csökkentve az értékesített terméket vagy nyújtott szolgáltatást terhelő adó összegével.
 
 67. § (1) Az ellenérték helyett a szokásos piaci ár az adó alapja abban az esetben, ha a termék értékesítése, szolgáltatás nyújtása nem független felek között történik, feltéve, hogy
 
@@ -711,6 +731,8 @@ a fizetendő adót – az (1) bekezdéstől eltérően – az a) pontban említe
 68. § A 11. és 12. §-ban említett esetekben az adó alapja a termék vagy az ahhoz hasonló termék teljesítéskor megállapított beszerzési ára, ilyen ár hiányában pedig a teljesítéskor megállapított előállítási értéke.
 
 69. § A 14. §-ban említett esetekben az adó alapja az a pénzben kifejezett összeg, amely a szolgáltatás nyújtójánál a teljesítés érdekében kiadásként felmerül.
+
+69/A. § A 18/A. § (4) bekezdésében meghatározott esetben az adó alapja az utalvány adó nélkül számított beszerzési ára.
 
 70. § (1) Termék értékesítése, szolgáltatás nyújtása esetében az adó alapjába beletartoznak:
 
@@ -784,6 +806,8 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 
 (5) A (4) bekezdés alkalmazásában a visszatérített összeget úgy kell tekinteni, mint amely az adó összegét is tartalmazza.
 
+(6) A (4) bekezdés nem alkalmazható, ha az adóalap-csökkentésre jogosító ügylet és a pénzvisszatérítésre jogosító ügylet esetében az adót a 142. § alapján a termék beszerzője, szolgáltatás igénybevevője fizeti.
+
 78. § (1) A 77. § (1)–(3) bekezdése alkalmazásának feltétele, hogy a kötelezett az ügylet teljesítését tanúsító számla
 
 - a) érvénytelenítéséről gondoskodjon azokban az esetekben, amikor az előleg vagy az ellenérték teljes összegét visszatérítik;
@@ -793,7 +817,7 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 
 (3) A 77. § (4) bekezdés alkalmazásának feltétele, hogy a pénzt visszatérítő adóalany az alábbiakkal rendelkezzen:
 
-- a) a pénzvisszatérítésre jogosult nevére szóló, a pénzvisszatérítésre jogosító ügylet teljesítését tanúsító számla másolati példánya, amely egyértelműen igazolja, hogy az adott ügylet belföldön teljesített adóköteles ügylet, valamint
+- a) a pénzvisszatérítésre jogosult nevére szóló, a pénzvisszatérítésre jogosító ügylet teljesítését tanúsító számla másolati példánya, amely egyértelműen igazolja, hogy az adott ügylet belföldön teljesített adóköteles ügylet és
 - b) a pénz átutalásáról vagy a készpénz kifizetéséről szóló bizonylat, amely egyértelműen igazolja, hogy a pénzt visszatérítő adóalany a pénzvisszatérítés jogosultja részére az üzletpolitikájában rögzített összeget megtérítette.
 
 (4) A (3) bekezdés b) pontja szerinti bizonylatnak a következő adatokat kell tartalmaznia:
@@ -870,7 +894,7 @@ a fizetendő adó megállapításakor érvényes adómértéket kell alkalmazni.
 - a) az egyetemes postai szolgáltatás nyújtása;
 - b) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó sérült- vagy betegápolás és sérült- vagy betegszállítás, valamint az azokhoz szorosan kapcsolódó termékértékesítés, amelyet humán-egészségügyi ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 - c) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó sérült- vagy betegápolás, amelyet humán-egészségügyi – ideértve természetgyógyászatot is – tevékenységet végző – ilyen minőségében – teljesít;
-- d) az emberi szövet, vér (ideértve a külön jogszabályban meghatározott labilis vérkészítményeket is), anyatej értékesítése, valamint az előzőekben felsoroltakkal és az emberi szerv adományozásával kapcsolatos szolgáltatásnyújtás;
+- d) az emberi szövet, vér (ideértve a külön jogszabályban meghatározott labilis vérkészítményeket is), anyatej értékesítése, valamint az előzőekben felsorolt termékértékesítésekhez és az emberi szerv adományozásához szorosan kapcsolódó szolgáltatásnyújtás;
 - e) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet humán fogorvosi, fogtechnikusi tevékenységet végző – ilyen minőségében – teljesít;
 - f) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet szociális ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 - g) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet gyermek- és ifjúságvédelem keretében közszolgáltató – ilyen minőségében – teljesít;
@@ -1286,13 +1310,15 @@ adókötelessé teszi.
 
 (2) Az (1) bekezdés különösen alkalmazandó a termék fuvarozására és a termék fuvarozásához járulékosan kapcsolódó szolgáltatások nyújtására.
 
+(3) Az (1) bekezdés szerinti mentesség alkalmazásának feltétele, hogy a szolgáltatást közvetlenül azon személy, szervezet részére nyújtsák, aki (amely) a termékkel az ott leírt tényállást megvalósítja.
+
 ### Adó alóli mentesség nemzetközi közlekedéshez kapcsolódóan
 
 103. § (1) Mentes az adó alól a vízi közlekedési eszköz üzemeltetését, fedélzeti ellátását szolgáló termék értékesítése abban az esetben, ha a vízi közlekedési eszköz
 
 - a) kizárólag vagy túlnyomó részben nyílt tengeren közlekedik, és kereskedelmi célú személyszállítási, illetőleg ipari, kereskedelmi vagy halászati tevékenységet végez;
 - b) segély- vagy mentőtevékenységet, illetőleg part menti halászati tevékenységet – a fedélzeti ellátás kivételével – végez;
-- c) a Közös Vámtarifáról szóló 2658/87/EGK tanácsi rendeletben meghatározott 8906 10 00 vámtarifaszám (a továbbiakban: vtsz.) alá sorolt hadihajó, feltéve, hogy a hadihajó rendeltetési kikötő- vagy horgonyzóhelye nem belföldön van.
+- c) 8906 10 00 vámtarifaszám (a továbbiakban: vtsz.) alá sorolt hadihajó, feltéve, hogy a hadihajó rendeltetési kikötő- vagy horgonyzóhelye nem belföldön van.
 
 (2) Mentes az adó alól továbbá:
 
@@ -1511,7 +1537,12 @@ terhelő előzetesen felszámított adó.
 
 terhelő előzetesen felszámított adó összegének 30 százaléka.
 
-(4) A 120. és 121. §-tól függetlenül szintén nem vonható le a személygépkocsi üzemeltetéséhez, fenntartásához szükséges szolgáltatást terhelő előzetesen felszámított adó összegének 50 százaléka.
+(4) A 120. és 121. §-tól függetlenül szintén nem vonható le a személygépkocsi
+
+- a) üzemeltetéséhez, fenntartásához szükséges szolgáltatást,
+- b) bérbevételét
+
+terhelő előzetesen felszámított adó összegének 50 százaléka.
 
 ### Adólevonási jog korlátozása alóli kivételek
 
@@ -1536,6 +1567,8 @@ terhelő előzetesen felszámított adó összegének 30 százaléka.
 - h) a 124. § (2) bekezdésének e) és f) pontjában említett esetekben igazoltan az általa üzemben tartott, 3,5 tonnát meghaladó legnagyobb össztömegű szárazföldi közlekedési eszköz üzemeltetése érdekében hasznosítja;
 - i) a 124. § (1) bekezdésének a) pontjában említett esetben kísérleti fejlesztés keretében igazoltan a környezetet jobban kímélő motorokkal kapcsolatos technológiai fejlesztéshez használja fel;
 - j) a 124. § (1) bekezdés a) pontjában említett esetben igazoltan egészben vagy túlnyomó részben úgy használja, egyéb módon hasznosítja, hogy az közvetlen anyagjellegű ráfordításként más termékértékesítés adóalapjába épül be.
+
+125/A. § Az adóalany dönthet úgy is, hogy a 124. § (4) bekezdés b) pontja helyett a 120. és 121. §-t alkalmazza.
 
 126. § (1) A 125. §-ban említett igazolási kötelezettség különösen olyan elkülönített nyilvántartás alkalmazását igényli az adóalanytól, amely alkalmas az adólevonási jog korlátozása alóli mentesülés – ott meghatározott – feltételeinek egyértelmű, megbízható és folyamatos követésére.
 
@@ -1791,6 +1824,8 @@ legyenek.
 
 (3) Az Art. szerint el nem évült, az (1) bekezdés szerint nem érvényesített levonható előzetesen felszámított adó összegét a belföldön nyilvántartásba vett adóalany abban az adómegállapítási időszakban jogosult figyelembe venni az előzetesen felszámított adó összegét növelő tételként, amelyben az adólevonási jog keletkezett.
 
+(4) Az adóalany a belföldi nyilvántartásba vételét megelőzően keletkezett, az Art. szerint el nem évült, a XVIII. Fejezet szerint vissza nem téríttetett, levonható előzetesen felszámított adó összegét az előzetesen felszámított adó összegét növelő tételként a nyilvántartásba vétel napját magában foglaló adómegállapítási időszakban jogosult figyelembe venni.
+
 ### Az adóalap és a fizetendő adó utólagos csökkenésének elszámolása
 
 153/B. § (1) Abban az esetben, ha az adóalany által korábban megállapított és bevallott adóalap vagy az adóalany által korábban fizetendő adóként megállapított és bevallott adó csökken, az adóalany a különbözetet – ha az a fizetendő adót érinti, a 153/A. § (1) bekezdése szerint megállapított fizetendő adót csökkentő tételként – legkorábban abban az adómegállapítási időszakban jogosult figyelembe venni, amelyben
@@ -1821,7 +1856,8 @@ legyenek.
 - a) az adó áthárítására jogalapot teremtő ügylet fejében járó ellenérték teljes vagy részleges meg nem térítése;
 - b) a 11. § (3) bekezdésében és a 14. § (3) bekezdésében meghatározott esetek;
 - c) a megsemmisülés és más olyan vagyoni kár, amelyet az adóalany tevékenységi körén kívül eső elháríthatatlan ok idézett elő, és ez utóbbi ok fennállását az adóalany bizonyítja;
-- d) a c) pontban nem említett egyéb vagyoni kár, ha az adóalany bizonyítja, hogy a kár elhárítása, illetve csökkentése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+- d) a c) pontban nem említett egyéb vagyoni kár, ha az adóalany bizonyítja, hogy a kár elhárítása, illetve csökkentése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható;
+- e) ha az egycélú utalvány ellenében nem teljesítenek termékértékesítést, szolgáltatásnyújtást.
 
 #### 2. alfejezet
 
@@ -1892,16 +1928,18 @@ nem teljesül;
 
 ### A számlakibocsátásra irányadó szabályok
 
-158/A. § (1) A számlára vonatkozó kötelezettségekre – a (2) bekezdésben foglalt eltéréssel – annak a tagállamnak a szabályait kell alkalmazni, ahol azt a termékértékesítést vagy szolgáltatásnyújtást, amelyre a számla vonatkozik, teljesítik.
+158/A. § (1) A számlára vonatkozó kötelezettségekre – a (2) és (4) bekezdésben foglalt eltéréssel – annak a tagállamnak a szabályait kell alkalmazni, ahol azt a termékértékesítést vagy szolgáltatásnyújtást, amelyre a számla vonatkozik, teljesítik.
 
-(2) A számlára vonatkozó kötelezettségekre – a (3) bekezdésben foglalt eltéréssel – annak a tagállamnak a szabályait kell alkalmazni, amelyben a terméket értékesítő vagy a szolgáltatást nyújtó gazdasági tevékenységének székhelye vagy a teljesítéssel legközvetlenebbül érintett állandó telephelye van, vagy ezek hiányában, amelyben állandó lakóhelye vagy szokásos tartózkodási helye van, és
+(2) A számlára vonatkozó kötelezettségekre – a (3) bekezdésben foglalt eltéréssel – annak a tagállamnak a szabályait kell alkalmazni, amelyben a terméket értékesítő vagy a szolgáltatást nyújtó gazdasági tevékenységének székhelye vagy a teljesítéssel legközvetlenebbül érintett állandó telephelye van, vagy ezek hiányában, amelyben állandó lakóhelye vagy szokásos tartózkodási helye van, ha
 
 - a) a terméket értékesítő vagy a szolgáltatást nyújtó nem telepedett le gazdasági céllal a termékértékesítés, szolgáltatásnyújtás teljesítési helye szerinti tagállamban, vagy az ezen tagállamban lévő állandó telephelye a 137/A. § szerint nem érintett a termékértékesítés vagy szolgáltatásnyújtás teljesülésében, és az adó fizetésére a terméket beszerző vagy a szolgáltatást igénybevevő kötelezett, vagy
 - b) a termékértékesítés vagy szolgáltatásnyújtás teljesítési helye a Közösség területén kívül van.
 
 (3) A (2) bekezdés a) pontjában foglalt esetben a számlázási kötelezettségekre a termékértékesítés vagy a szolgáltatásnyújtás teljesítési helye szerinti tagállam rendelkezéseit kell alkalmazni, ha a számlát a terméket beszerző vagy szolgáltatást igénybevevő bocsátja ki.
 
-(4) Az e §-ban foglalt rendelkezések nem terjednek ki a számla megőrzésére vonatkozó kötelezettségekre.
+(4) A számlára vonatkozó kötelezettségekre annak a tagállamnak a szabályait kell alkalmazni, amelyben a Héa-irányelv XII. cím 6. fejezetének tartalmában megfelelő különös szabályozást alkalmazó adóalanyt nyilvántartásba vették azon termékértékesítés és szolgáltatásnyújtás vonatkozásában, amely után az adófizetési kötelezettségének az adóalany ezen különös szabályozás alkalmazásával tesz eleget.
+
+(5) A e §-ban foglalt rendelkezések nem terjednek ki a számla megőrzésére vonatkozó kötelezettségekre.
 
 ### Számlakibocsátási kötelezettség
 
@@ -1981,13 +2019,11 @@ számlakibocsátási kötelezettséget jelent.
 
 (4) Az (1) bekezdés c) pontja nem alkalmazható abban az esetben, ha a légi személyszállítás igénybevevője az adóalanytól számla kibocsátását kéri.
 
-165/A. § (1) Mentesül a 45/A. § szerinti szolgáltatásnyújtás tekintetében a számlakibocsátási kötelezettség alól az az adóalany, aki (amely) belföldön gazdasági céllal nem telepedett le, gazdasági célú letelepedés hiányában pedig nem rendelkezik lakóhellyel vagy szokásos tartózkodási hellyel belföldön, és aki (amely) a 45/A. § szerinti szolgáltatás nyújtása utáni adófizetési kötelezettséget azon tagállami szabályozás alapján teljesíti, amely tartalmában megfelel a Héa-irányelv 358–369k. cikkében foglaltaknak.
-
-(2) Az (1) bekezdés nem alkalmazható abban az esetben, ha a szolgáltatás igénybevevője az adóalanytól számla kibocsátását kéri. Számla kibocsátása esetén az (1) bekezdés szerinti adóalany mentesül a 172. §-ban foglalt rendelkezés alól.
+165/A. §
 
 ### Nyugtakibocsátási kötelezettség
 
-166. § (1) Abban az esetben, ha az adóalany a 165. § (1) bekezdésének b) pontja vagy a 165/A. § szerint mentesül a számlakibocsátási kötelezettség alól, köteles a termék beszerzője, szolgáltatás igénybevevője részére nyugta kibocsátásáról gondoskodni.
+166. § (1) Abban az esetben, ha az adóalany a 165. § (1) bekezdésének b) pontja szerint mentesül a számlakibocsátási kötelezettség alól, köteles a termék beszerzője, szolgáltatás igénybevevője részére nyugta kibocsátásáról gondoskodni.
 
 (2) Nyugta helyett az adóalany számla kibocsátásáról is gondoskodhat. Ebben az esetben mentesül a külön jogszabályban előírt gépi kiállítású nyugtakibocsátási kötelezettség alól [178. § (1) bekezdése].
 
@@ -2214,7 +2250,7 @@ vonatkozó mennyiségi felvétellel. A leltározásra a Számv. tv. rendelkezés
 
 nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 
-(2) Az alanyi adómentesség választására jogosító felső értékhatár: 8 000 000 forintnak megfelelő pénzösszeg.
+(2) Az alanyi adómentesség választására jogosító felső értékhatár: 12 000 000 forintnak megfelelő pénzösszeg.
 
 (3) Az alanyi adómentesség választására jogosító felső értékhatárba nem számítandó be:
 
@@ -2340,7 +2376,7 @@ kell alkalmazni.
 - c) a 85. § (1) bekezdése szerinti adómentes termékértékesítés, szolgáltatásnyújtás,
 - d) a 86. § (1) bekezdés a)–g) pontjai szerinti adómentes, kiegészítő jellegű szolgáltatásnyújtás fejében megtérített vagy megtérítendő ellenérték.
 
-196/D. § Az adóalany belföldi nyilvántartásba vételével egyidejűleg is választhatja a tárgy naptári évre a pénzforgalmi elszámolást. Ilyen esetben elegendő a 196/C. § (1) bekezdés b) pontjában említett feltételt időarányosan teljesíteni.
+196/D. § Az adóalany belföldi nyilvántartásba vételével, valamint az alanyi adómentesség választására jogosító felső értékhatár átlépésével egyidejűleg is választhatja a tárgy naptári évre a pénzforgalmi elszámolást. Ilyen esetben elegendő a 196/C. § (1) bekezdés b) pontjában említett feltételt időarányosan teljesíteni.
 
 196/E. § Az adóalany a pénzforgalmi elszámolást a tárgy naptári év végéig terjedő időszakra választja.
 
@@ -2915,10 +2951,14 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 
 251/H. § (1) Abban az esetben, ha az állami adóhatóság élt a 251/F. § (1) és (2) bekezdésében meghatározott jogával, az adó-visszatéríttetési kérelemről a megkeresésre adott válasz érkeztetésétől számított 2 hónapon belül, vagy ha a megkeresésre érdemben nem kapott hiánytalan választ, a 251/F. § (4) bekezdésében meghatározott határidő lejártát követő 2 hónapon belül dönt.
 
-(2) Abban az esetben azonban, ha az állami adóhatóság az adó-visszatéríttetési kérelem elfogadásáról vagy részleges elfogadásáról dönt, a döntésre nyitva álló határidő – az (1) bekezdéstől függetlenül – nem haladhatja meg
+(2) Ha az állami adóhatóság az adó-visszatéríttetési kérelem elfogadásáról vagy részleges elfogadásáról dönt és az (1) bekezdés szerint számított határidő rövidebb, mint az adó-visszatéríttetési kérelem beérkezésétől számított 6 hónap, abban az esetben az állami adóhatóság számára döntésre nyitva álló határidő – az (1) bekezdéstől eltérően – az adó-visszatéríttetési kérelem beérkezésétől számított 6 hónap.
 
-- a) a 7 hónapot, ha az állami adóhatóság a 251/F. § (1) bekezdésben, illetőleg
-- b) a 8 hónapot, ha az állami adóhatóság a 251/F. § (2) bekezdésben meghatározott jogával élt.
+(3) Az (1) bekezdésben foglaltaktól függetlenül az állami adóhatóság döntésére nyitva álló határidő nem haladhatja meg
+
+- a) a 7 hónapot, ha az állami adóhatóság a 251/F. § (1) bekezdésében, illetve
+- b) a 8 hónapot, ha az állami adóhatóság a 251/F. § (2) bekezdésében
+
+meghatározott jogával élt.
 
 251/I. § (1) Abban az esetben, ha az állami adóhatóság az adó-visszatéríttetési kérelem elfogadásáról vagy részleges elfogadásáról dönt, az adóvisszatérítésről a döntés meghozatalával egyidejűleg, de legkésőbb az attól számított 10 munkanapon belül intézkedik.
 
@@ -2961,7 +3001,7 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 
 ### A Közösség területén nem letelepedett adóalanyra vonatkozó különös szabályok
 
-252. § (1) Az az adóalany, aki (amely) nem telepedett le gazdasági céllal a Közösség területén, gazdasági célú letelepedés hiányában pedig nem rendelkezik lakóhellyel vagy szokásos tartózkodási hellyel a Közösség területén, és a Közösség területén a 45/A. § szerinti szolgáltatásokon kívül nem teljesít más olyan termékértékesítést, szolgáltatásnyújtást, termék Közösségen belüli beszerzését, amely után a Közösség bármely tagállamának joga szerint adót kell fizetnie, a szolgáltatásnyújtás Közösség területén történő megkezdését megelőzően kérelmezheti, hogy őt az állami adóhatóság ilyen minőségében nyilvántartásba vegye.
+252. § (1) Az az adóalany, aki (amely) nem telepedett le gazdasági céllal a Közösség területén, gazdasági célú letelepedés hiányában pedig nem rendelkezik lakóhellyel vagy szokásos tartózkodási hellyel a Közösség területén, a 45/A. § szerinti szolgáltatásnyújtás Közösség területén történő megkezdését megelőzően kérelmezheti, hogy őt az állami adó- és vámhatóság ilyen minőségében nyilvántartásba vegye.
 
 (2) Az állami adóhatóság a kérelmet elutasítja, ha az adóalanyt a Közösség valamely más tagállamában ilyen minőségében már nyilvántartásba vették, vagy erre irányuló kérelmét a Közösség valamely más tagállamában már benyújtotta és annak elbírálása jogerősen még nem zárult le.
 
@@ -3031,6 +3071,8 @@ jogosult az adó e fejezet szerinti visszatéríttetésére.
 256. § (1) Ahol e törvény euróban meghatározott pénzösszeget említ, ott az annak megfelelő forintösszeg megállapításához a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napján érvényes, az MNB által közzétett hivatalos forint/euró devizaárfolyamot (252,19 forint/euró) kell alkalmazni azzal, hogy az átváltás eredményeként kapott pénzösszeget – a matematikai kerekítési szabályok alkalmazásával – 100 000 forintra, illetőleg ha az átváltás eredményeként kapott összeg nem haladja meg a 100 000 forintot, 1000 forintra kell kerekíteni.
 
 (2) Az (1) bekezdés egyéb rendelkezéseinek sérelme nélkül a 99. § (1) bekezdésének a) pontjában említett esetben a tárgy naptári év egészére alkalmazandó forintösszeg megállapításához a tárgy naptári évet megelőző év október hónapjának első munkanapján érvényes árfolyamot kell alkalmazni.
+
+(3) Az (1) bekezdés egyéb rendelkezéseinek sérelme nélkül a 45/A. § (3) bekezdésének c) pontjában meghatározott összeg forintban történő megállapításához az Európai Központi Bank által a 2017/2455/EU tanácsi irányelv elfogadásának (2017. december 5.) napján közzétett forint/euró árfolyamot (313,96 forint/euró) kell alkalmazni.
 
 ### Egyes adókötelezettségek alóli mentesülés
 
@@ -3113,6 +3155,15 @@ közösségi adószám birtokában végezhet.
 - a) a 2018. naptári évben teljesített termékértékesítés esetén 2019. január 31-ig,
 - b) a 2018. december 31-ét követően teljesített termékértékesítés esetében a teljesítés időpontját követő 30 napon belül.
 
+### Állapotrögzítő
+
+257/I. § A hivatkozással meghatározott termékek és szolgáltatások vonatkozásában
+
+- a) a vtsz. tekintetében a Kereskedelmi Vámtarifa 2002. év július hó 31. napján hatályos,
+- b) az SZJ 2002. év szeptember hó 30. napján érvényes
+
+besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követő (időközi) változása az adókötelezettséget nem változtatja meg.
+
 ### XXI. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
 258. § (1) A Közösség tagállamaiban az e törvényben használt „adó” kifejezés jelentését a 9. számú melléklet tartalmazza.
@@ -3163,7 +3214,7 @@ közösségi adószám birtokában végezhet.
   - d) között a 6. § (5) bekezdése szerinti viszony áll fenn;
   - e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak közeli hozzátartozója; 13/A. összes hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 1. számú mellékletének 2016. január 1-jén hatályos 34., 46., 46a. és 88. pontjai által meghatározott alapterület;
 - 14. pénz: a névértéken elfogadott pénz;
-- 15. pénzhelyettesítő eszköz: utalvány, egyéb fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
+- 15. pénzhelyettesítő eszköz: fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
 - 16. pénzügyi eszköz: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszköz, kivéve azt a pénzügyi eszközt, amelynek megszerzése egyúttal az abban megjelölt termék tulajdonjogának megszerzését is jelenti;
 - 17.
 - 18. sorozat jelleg: ha 2 naptári éven belül negyedik vagy további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek, valamint a rá következő 3 naptári éven belül további építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek azzal, hogy ha olyan építési telket (telekrészt) és/vagy beépítés alatt álló vagy beépített új ingatlant értékesítenek,
@@ -3174,7 +3225,11 @@ közösségi adószám birtokában végezhet.
 - 21. tárgyi eszköz: az ingatlan, valamint az olyan ingó termék, amely vállalkozáson belüli rendeltetésszerű használatot feltételezve, legalább 1 évet meghaladó időtartamban szolgálja a gazdasági tevékenység folytatását;
 - 22. továbbértékesítési cél: a mástól szerzett termék saját használat vagy egyéb módon történő hasznosítás nélküli értékesítése, amely értékesítéskori használati értékében legfeljebb csak a kereskedelemben szokásos értékváltozás miatt tér el a szerzéskori használati értékétől;
 - 23. telekommunikációs szolgáltatások: jel, írás, kép, hang vagy bármely természetű egyéb értelmezhető információ továbbítása, kibocsátása és vétele rádiós, optikai vagy egyéb elektromágneses rendszeren keresztül, ideértve az ezek továbbítására, kibocsátására és vételére szolgáló rendszerek használatára vonatkozó jogok időleges vagy végleges átengedését, valamint a globális információs hálózatokhoz való hozzáférés biztosítását is;
-- 24. termék fuvarozása: az is, ha az értékesített termék közlekedési eszköz, és annak fuvarozása oly módon történik, hogy a fuvarozás megkezdésének és befejezésének helye közötti távolságot a közlekedésben maga az értékesített közlekedési eszköz teszi meg;
+- 24. termék fuvarozása: az is, ha az értékesített termék közlekedési eszköz, és annak fuvarozása oly módon történik, hogy a fuvarozás megkezdésének és befejezésének helye közötti távolságot a közlekedésben maga az értékesített közlekedési eszköz teszi meg; 24/A. a) utalvány: olyan eszköz, amelyet termékértékesítés, illetve szolgáltatásnyújtás ellenértékeként, illetve részellenértékeként kell elfogadni, és amely esetében magán az eszközön vagy a kapcsolódó dokumentációban – ideértve az eszköz általános szerződési feltételeit is – fel van tüntetve a beszerezhető termékeknek, igénybe vehető szolgáltatásoknak vagy azok lehetséges értékesítőinek, szolgáltatóinak a megnevezése;
+  - b) egycélú utalvány: olyan utalvány, amelynek kibocsátásakor ismert az utalvány tárgyát képező termék értékesítésének, szolgáltatás nyújtásának teljesítési helye, valamint az adott termékértékesítés, szolgáltatásnyújtás után fizetendő adó összege;
+  - c) többcélú utalvány: az egycélú utalványtól eltérő utalvány;
+  - d) utalvány beváltása: utalvány termékértékesítés, szolgáltatásnyújtás ellenértékeként, illetve részellenértékeként történő elfogadása;
+  - e) utalvány beváltója: aki az utalványt termékértékesítés, szolgáltatásnyújtás ellenértékeként, illetve részellenértékeként saját név alatt elfogadja;
 - 25. új közlekedési eszköz:
   - a) szárazföldi közlekedési eszköz esetében azt a gépjárművet jelenti, amelynek beépített erőgépének hengerűrtartalma meghaladja a 48 cm3-t, vagy teljesítménye meghaladja a 7,2 kilowattot, feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 6 hónap telt el, vagy az általa megtett távolságból legfeljebb 6000 kilométert tett meg;
   - b) víziközlekedési eszköz esetében azt a járművet jelenti, amelynek hosszúsága meghaladja a 7,5 métert – kivéve: a nyílt tengeri forgalomban használt olyan járművet, amelyet kereskedelmi személyszállításra, egyéb kereskedelmi, ipari és halászati tevékenységre, valamint tengeri mentésre vagy segítségnyújtásra használnak, továbbá a partmenti halászati tevékenységre használt járművet is –, feltéve, hogy az értékesítés teljesítésekor az első forgalomba helyezéstől számítva legfeljebb 3 hónap telt el, vagy az általa hajózott órákból legfeljebb 100 órát hajózott;
@@ -3296,7 +3351,11 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gh) a Tanács 2010/23/EU irányelve (2010. március 16.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózási mechanizmus bizonyos csalásra alkalmas szolgáltatásokra vonatkozó választható és ideiglenes alkalmazása tekintetében történő módosításáról;
   - gi) a Tanács 2010/45/EU irányelve (2010. június 13.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a számlázás szabályai tekintetében történő módosításáról;
   - gj) a Tanács 2013/43/EU irányelve (2013. július 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a fordított adózás bizonyos, csalásra alkalmas termékek és szolgáltatások értékesítésére vonatkozó fakultatív és ideiglenes alkalmazása tekintetében történő módosításáról;
-  - gk) a Tanács 2016/856/EU irányelve (2016. május 25.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a minimális általános adómérték tiszteletben tartására vonatkozó kötelezettség időtartama tekintetében történő módosításáról.
+  - gk) a Tanács 2016/856/EU irányelve (2016. május 25.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a minimális általános adómérték tiszteletben tartására vonatkozó kötelezettség időtartama tekintetében történő módosításáról;
+  - gl) a Tanács 2016/1065/EU irányelve (2016. június 27.) a 2006/112/EK irányelvnek az utalványok megítélése tekintetében történő módosításáról;
+  - gm) a Tanács (EU) 2017/2455 irányelve (2017. december 5.) a 2006/112/EK irányelvnek és a 2009/132/EK irányelvnek a szolgáltatásnyújtásra és a termékek távértékesítésére vonatkozó bizonyos hozzáadottértékadó-kötelezettségek tekintetében történő módosításáról;
+  - gn) a Tanács (EU) 2018/912 irányelve (2018. június 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a minimális általános adómérték tiszteletben tartására vonatkozó kötelezettség tekintetében történő módosításáról;
+  - go) a Tanács (EU) irányelve a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózás, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszaka tekintetében történő módosításáról;
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
   - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
 - i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról.
@@ -3549,6 +3608,12 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 
 (3) A 2018. július 1-jén vagy azt követően kezdődő adómegállapítási időszakokról teljesítendő bevallás tekintetében e törvénynek a bevallás benyújtására előírt határidő napján hatályos 10. számú melléklet 1–4. pontjait kell alkalmazni. Éves bevallásra kötelezett adóalany a 10. számú melléklet 2018. június 30-án hatályos szabályait köteles alkalmazni azon számlák tekintetében, amelyek alapján 2018. évben gyakorol levonási jogot.
 
+318. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel (a továbbiakban: Mód9 törvény) megállapított 18/A–18/B. §-át, 66/A. §-át, 153/D. § e) pontját, 259. § 24/A. pontját, valamint a Mód9 törvénnyel módosított 66. § (1) bekezdését és 259. § 15. pontját a 2018. december 31-ét követően kibocsátott utalványok esetében kell először alkalmazni.
+
+319. § A 3. számú melléklet I. részének a Mód9 törvénnyel módosított 54. pontját azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2019. január 1-jére vagy azt követő időpontra esik.
+
+320. § E törvény 142. § (9) bekezdését utoljára a 2022. június 30. napját magában foglaló adómegállapítási időszak tekintetében kell alkalmazni.
+
 323. § E törvénynek a Mód9 törvénnyel megállapított 45/A. § (3)–(4) bekezdését azokban az esetekben kell először alkalmazni, amelyekben a teljesítés időpontja 2018. december 31-ét követi.
 
 324. § (1) Az adóalany – az egyéb törvényi feltételek fennállása esetén – az alanyi adómentességet 2019. naptári évre abban az esetben választhatja, ha az adóalany 2. § a) pontja szerinti összes termékértékesítése, szolgáltatásnyújtása fejében megtérített vagy megtérítendő ellenértéknek – forintban kifejezett és éves szinten göngyölített – összege
@@ -3559,6 +3624,15 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
 nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 (2) Az (1) bekezdésben foglalt feltételek fennállása esetén az adóalany az alanyi adómentességet 2019. naptári évre abban az esetben is választhatja, ha a 191. § (3) bekezdésében rögzített időtartam még nem telt el.
+
+325. § E törvénynek az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel megállapított 124. § (4) bekezdés b) pontját arra az esetre kell először alkalmazni, amikor az elszámolási időszak 2018. december 31-ét követően kezdődik és a levonási jog 2018. december 31-ét követően keletkezik.
+
+326. § Ha az utazásszervező 2019. év vonatkozásában él e törvény 212/A. § (1) bekezdése szerinti választási jogával, köteles e törvény 206. § (1) bekezdés d) pontja szerinti önálló pozíciószámot legkésőbb a 2019. december 31-ét magában foglaló adó-megállapítási időszakban lezárni.
+
+327. § E törvény 2019. december 31-én hatályos 3. számú melléklet I. rész 50–51. pontja szerinti lakóingatlan-értékesítés általános forgalmi adó mértékére a 2019. december 31-én hatályos rendelkezéseket kell alkalmazni akkor is, ha a 84. § szerint megállapított időpont a 2020. január 1. napjával kezdődő és 2023. december 31. napjával záruló időszakra esik, feltéve, hogy
+
+- a) építési engedélyhez kötött építési munka esetén a lakóingatlan építésére 2018. november 1. napján van végleges építési engedély, vagy
+- b) az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentéshez kötött építési tevékenységet legkésőbb 2018. november 1. napján bejelentették.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -3664,7 +3738,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 | 51. | A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert |  |
 | 52. | A 0105 vtsz. alá tartozó baromfi élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva | 0207 |
 | 53. | Madártojás héjában, frissen | 0407-ből |
-| 54. | Tej (kivéve az anyatejet, az ultramagas hőmérsékleten hőkezelt tejet és az ESL tejet) | 0401 10-ből 0401 20-ból |
+| 54. | Tej (kivéve az anyatejet) | 0401 10-ből 0401 20-ból |
 | 55. | Emberi fogyasztásra alkalmas élő hal, a díszhal kivételével | 0301-ből |
 | 56. | Emberi fogyasztásra alkalmas hal (ideértve a halbőrt, ikrát, haltejet, halmájat és egyéb belsőségeket is) frissen, hűtve vagy fagyasztva, a cápa kivételével | 0302-ből 0303-ból |
 | 57. | Emberi fogyasztásra alkalmas halfilé és más halhús (aprított is) frissen, hűtve vagy fagyasztva, a cápahús kivételével | 0304-ből |
@@ -4078,6 +4152,7 @@ B. pont
 - 1. Liechtensteini Hercegség
 - 2. Svájci Államszövetség
 - 3. Norvég Királyság
+- 4. Szerbia Köztársaság
 
 ### 9. számú melléklet a 2007. évi CXXVII. törvényhez
 
