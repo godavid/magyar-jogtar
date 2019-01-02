@@ -4,205 +4,289 @@ az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény hatálybal�
 
 #### 1. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-2–12. §
+#### 2. §
 
-13. § A Kjtv. 54. § (1) bekezdése a következő q) ponttal egészül ki:
+#### 3. §
 
-(Az országos kamara jogai és feladatai különösen:)
+#### 4. §
 
-„q) egységes ügykezelő alkalmazást működtet, amelynek keretében – az alkalmazás működtetésével kapcsolatban hozzáférésre jogosult személyek titoktartási kötelezettségének biztosítása mellett – jogosult a közjegyzői nyilvántartásokban kezelt adatok biztonsági célú tárolására, valamint statisztikai célú kezelésére.”
+#### 5. §
 
-14–20. §
+#### 6. §
+
+#### 7. §
+
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
 
 21. § (1)
 
 (2)
 
-22–23. §
+#### 22. §
+
+#### 23. §
 
 #### 3. A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosítása
 
-24. §
+#### 24. §
 
 #### 4. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 5. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 6. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-27. §
+#### 27. §
 
 #### 7. Az erdőbirtokossági társulatról szóló 1994. évi XLIX. törvény módosítása
 
-28. §
+#### 28. §
 
 #### 8. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-29–30. §
+#### 29. §
+
+#### 30. §
 
 #### 9. A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény módosítása
 
-31–37. §
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
 
 #### 10. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 11. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-39. §
+#### 39. §
 
 #### 12. A külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény módosítása
 
-40. §
+#### 40. §
 
 #### 13. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-41–42. §
+#### 41. §
+
+#### 42. §
 
 #### 14. Az egészségügyi közvetítői eljárásról szóló 2000. évi CXVI. törvény módosítása
 
-43. §
+#### 43. §
 
 #### 15. Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 16. A közvetítői tevékenységről szóló 2002. évi LV. törvény módosítása
 
-45. §
+#### 45. §
 
 #### 17. Az európai gazdasági egyesülésről, valamint a gazdasági társaságokról szóló 1997. évi CXLIV. törvény és a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény jogharmonizációs célú módosításáról szóló 2003. évi XLIX. törvény módosítása
 
-46–47. §
+#### 46. §
+
+#### 47. §
 
 #### 18. A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény módosítása
 
-48–49. §
+#### 48. §
+
+#### 49. §
 
 #### 19. A társasházakról szóló 2003. évi CXXXIII. törvény módosítása
 
-50. §
+#### 50. §
 
 #### 20. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-51. §
+#### 51. §
 
 #### 21. A lakásszövetkezetekről 2004. évi CXV. törvény módosítása
 
-52. §
+#### 52. §
 
 #### 22. A nemzetközi szerződésekkel kapcsolatos eljárásról szóló 2005. évi L. törvény módosítása
 
-53–54. §
+#### 53. §
 
-#### 23. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló2005. évi CXXXV. törvény módosítása
+#### 54. §
 
-55. §
+#### 23. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló
+
+2005. évi CXXXV. törvény módosítása
+
+#### 55. §
 
 #### 24. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-56. §
+#### 56. §
 
 #### 25. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-57. §
+#### 57. §
 
 #### 26. A tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény módosítása
 
-58. §
+#### 58. §
 
 #### 27. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-59–60. §
+#### 59. §
+
+#### 60. §
 
 #### 28. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-61. §
+#### 61. §
 
 #### 29. A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény módosítása
 
-62. §
+#### 62. §
 
 #### 30. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
-63. §
+#### 63. §
 
 #### 31. A vízitársulatokról szóló 2009. évi CXLIV. törvény módosítása
 
-64. §
+#### 64. §
 
 #### 32. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-65–79. §
+#### 65. §
+
+#### 66. §
+
+#### 67. §
+
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
 
 #### 33. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
-80. §
+#### 80. §
 
 #### 34. A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény módosítása
 
-81. §
+#### 81. §
 
 #### 35. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása
 
-82. §
+#### 82. §
 
 #### 36. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-83. §
+#### 83. §
 
 #### 37. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-84. §
+#### 84. §
 
 #### 38. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-85. §
+#### 85. §
 
 #### 39. A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény módosítása
 
-86. §
+#### 86. §
 
 #### 40. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-87. §
+#### 87. §
 
 #### 41. A bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény módosítása
 
-88. §
+#### 88. §
 
 #### 42. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
 
-89. §
+#### 89. §
 
 #### 43. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
-90. §
+#### 90. §
 
 #### 44. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-91. §
+#### 91. §
 
 #### 45. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosítása
 
-92. §
+#### 92. §
 
 #### 46. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
 
-93. §
+#### 93. §
 
 #### 47. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-94. §
+#### 94. §
 
 #### 48. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
@@ -336,7 +420,9 @@ lép hatályba.
 
 #### 50. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény módosítása
 
-98–99. §
+#### 98. §
+
+#### 99. §
 
 #### 51. A választottbíráskodásról szóló 2017. évi LX. törvény módosítása
 

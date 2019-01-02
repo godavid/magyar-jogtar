@@ -146,48 +146,20 @@ illeti meg az Ügynökséget.
 
 11. § Ez a törvény 2019. január 1-jén lép hatályba.
 
-12. § A NEFE törvény 9. §-a következő (2a) bekezdéssel egészül ki:
+12. §
 
-„(2a) Az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás kormányzati koordinációja keretében folytatott tevékenységéről és a nemzetközi humanitárius segítségnyújtási felajánlással kapcsolatos döntéseiről folyamatosan tájékoztatja a külpolitikáért felelős minisztert.”
+13. §
 
-13. § A NEFE törvény 11. § (2) helyébe a következő rendelkezés lép:
+14. §
 
-„(2) A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködési, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtási tevékenység hatékonyságának növelése érdekében a projektalapú tevékenység ellátását elősegítő ügynökséget működtet.”
+15. §
 
-14. § A NEFE törvény 12. §-a helyébe a következő rendelkezés lép:
+16. §
 
-„12. § A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködés, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás vonatkozásában az oktatásért felelős miniszterrel együttműködnek e tevékenységek hazai társadalmi támogatottságának növelése érdekében, és ennek részeként a fiatal generáció szemléletformálásában, az önkéntesség szerepének erősítésében és a globális felelősségvállalásra nevelés előmozdításában.”
+17. §
 
-15. § A NEFE törvény 13. §-a helyébe a következő rendelkezés lép:
+18. §
 
-„13. § A nemzetközi fejlesztési együttműködés költségigényét a külpolitikáért felelős miniszter, a nemzetközi humanitárius segítségnyújtási tevékenység költségigényét az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter terjeszti elő Magyarország nemzetközi és európai uniós vállalásainak figyelembe vételével.”
+19. §
 
-16. § A NEFE törvény 14. §-a helyébe a következő rendelkezés lép:
-
-„14. § A költségvetési támogatással megvalósuló nemzetközi fejlesztési együttműködési tevékenységekről a külpolitikáért felelős miniszter, a nemzetközi humanitárius segítségnyújtási tevékenységekről az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter nyilvánosan hozzáférhető adatbázist vezet.”
-
-17. § A NEFE törvény 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködés, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás vonatkozásában minden év október 31-ig jelentést készít a Kormány részére az előző évi tevékenységről. A jelentést, annak Kormány általi elfogadását követően, a külpolitikáért felelős miniszter, illetve a az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter az általa vezetett minisztérium honlapján nyilvánosságra hozza.”
-
-18. § A NEFE törvény 16. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Felhatalmazást kap az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter, hogy feladatkörében:
-
-a) a nemzetközi humanitárius segítségnyújtási tevékenység formáit,
-
-b) a 14. § szerinti adatbázis vezetésének részletes szabályait és az adatbázis tartalmát,
-
-c) a nemzetközi humanitárius segítségnyújtás végrehajtásában közreműködő civil szervezetek előminősítésének eljárását, valamint az előminősített civil szervezetek nemzetközi humanitárius segítségnyújtásban történő részvételének szabályait
-
-rendeletben állapítsa meg.”
-
-19. § A NEFE törvény
-
-- a) 9. § (1)–(2) bekezdésében, 15/C. § (1)–(2) és (4) bekezdésében a „külpolitikáért felelős miniszter” szövegrész helyébe a „az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős ” szöveg
-- b) 10. § (2) bekezdésében a „külpolitikáért felelős miniszterrel” szövegrész helyébe a „az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszterrel” szöveg,
-- c) 15/C. § (3) bekezdésében a „külpolitikáért felelős miniszternek” szövegrész helyébe a „az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszternek” szöveg
-
-lép.
-
-20. § Hatályát veszti a NEFE törvény 16. § (1) bekezdés b) pontja, a 16. § (2) bekezdés a) pontjában az „és a nemzetközi humanitárius segítségnyújtási” szövegrész, továbbá a 16. § (2) bekezdés c) pontja.
+20. §

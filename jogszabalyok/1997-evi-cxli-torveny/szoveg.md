@@ -1268,6 +1268,12 @@ foglaltakat az e rendelkezések hatálybalépésekor folyamatban levő, valamint
 
 (10) Ha a haszonélvezeti jog vagy a használat jogának a törlésére az egyes ingatlan-nyilvántartással és földméréssel összefüggő törvények módosításáról szóló 2015. évi XLIV. törvény hatálybalépését megelőzően és a (8) bekezdésben foglalt rendelkezéssel ellentétesen került sor, a jogosult 2015. május 31-ig fellebbezést nyújthat be.
 
+(11) Ha az ingatlan-nyilvántartás és az ingatlan művelési ága, fő rendeltetése vagy jogi jellege tekintetében közhiteles nyilvántartás között e rendelkezés hatálybalépésekor ellentmondás áll fenn, e rendelkezés hatálybalépésétől számított egy éven belül az ingatlan-nyilvántartásban szereplő ingatlan művelési ágát, fő rendeltetését, jogi jellegét összhangba kell hozni a közhiteles nyilvántartásban foglaltakkal. Az összhangba hozatalra irányuló eljárás a közhiteles nyilvántartást vezető hatóság részéről az ingatlanügyi hatóság hivatalbóli megkeresésével indul. Az ingatlan tulajdonosa vagy akinek jogi érdeke fűződik hozzá, az összhangba hozatalt bármikor kezdeményezheti az ingatlanügyi hatóságnál.
+
+(12) Ha a (11) bekezdés szerinti összhangba hozatal nem történik meg a (11) bekezdésben meghatározott határidőn belül, az ingatlan-nyilvántartásban szereplő adatok tekintendők irányadónak.
+
+(13) Ha e rendelkezés hatálybalépését követően történik változás a közhiteles nyilvántartásban az ingatlan művelési ága, fő rendeltetése vagy jogi jellege vonatkozásban, a közhiteles nyilvántartást vezető hatóság 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak a közhiteles nyilvántartással történő összhangba hozatala érdekében. Az ingatlan tulajdonosa vagy akinek jogi érdeke fűződik hozzá, az összhangba hozatalt bármikor kezdeményezheti az ingatlanügyi hatóságnál.
+
 95. § (1) A központi címregiszter létrehozásával összefüggő, valamint egyes igazgatási tárgyú törvények módosításáról szóló 2014. évi XCIII. törvénnyel (a továbbiakban: KCR tv.) megállapított címadatátvétel megtörténtéig az ingatlan-nyilvántartás az ingatlan-nyilvántartási adatbázisban már meglévő címadatokat, a címadatrögzítés, illetve címadatváltozás alapjául szolgáló okiratnak megfelelően tartalmazza.
 
 (2) A címadatátvétel útján történő adatváltozást követően az adott ingatlan címadatában bekövetkezett korábbi változás ingatlan-nyilvántartási átvezetése alapjául szolgáló okiratban szereplő címadatot figyelmen kívül kell hagyni.

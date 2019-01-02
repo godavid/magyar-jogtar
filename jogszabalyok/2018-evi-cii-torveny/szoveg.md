@@ -12,14 +12,7 @@ a Nemzeti Hírközlési és Informatikai Tanácsról
 
 3. § Felhatalmazást kap a Kormány, hogy az NHIT szervezetére, feladataira és működésére vonatkozó szabályokat rendeletben határozza meg.
 
-4. § Hatályát veszti a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény
-
-- a) 45. § (2) bekezdésében az „a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja,” szövegrész,
-- b) 46. § (3) bekezdésében az „a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja,” szövegrész,
-- c) 111/A. § (4) bekezdésében az „a Nemzeti Hírközlési és Informatikai Tanácsot,” szövegrész,
-- d) 118. § (1) bekezdés b) pontjában az „a Nemzeti Hírközlési és Informatikai Tanács elnöke, alelnöke vagy tagja,” szövegrész,
-- e) 120. §-át megelőző „ A Nemzeti Hírközlési és Informatikai Tanács” alcím címe,
-- f) 120–122. §-a.
+4. §
 
 5. § (1) A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény szerinti Nemzeti Hírközlési és Informatikai Tanács 2018. december 31. napján hivatalban lévő elnökének, alelnökének és tagjainak megbízatása e törvény erejénél fogva 2019. január 1. napjával megszűnik.
 

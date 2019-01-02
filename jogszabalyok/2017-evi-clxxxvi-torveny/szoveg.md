@@ -8,11 +8,7 @@ a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljáráso
 
 (2)
 
-(3) Az Itv. 33. § (2) bekezdése a következő 70. ponttal egészül ki:
-
-(Egyes alkotmányos jogok érvényesítése, illetőleg kötelezettségek teljesítése, valamint a társadalmi igazságosság előmozdítása érdekében a mellékletben és a külön jogszabályokban meghatározott illetékmentes eljárásokon felül tárgyuknál fogva illetékmentes eljárások:)
-
-„70. társasház esetén a közösség ügyintézését ellátó közös képviselő vagy az intézőbizottság elnöke adatainak bejegyzésére, törlésére, megváltozására, valamint a közgyűlés által elfogadott számviteli szabályok szerinti beszámoló benyújtására és helyesbítésére irányuló eljárás;”
+(3)
 
 (4)
 
@@ -38,9 +34,7 @@ a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljáráso
 
 #### 6. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-8. § (1) A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 19. §-a a következő (1c) bekezdéssel egészül ki:
-
-„(1c) Az (1) bekezdéstől eltérően, a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság a jogosult azonosításához szükséges, valamint a 18/A. § d) és e) pontjában meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, gyermekvédelmi és gyámügyi feladatkörében, valamint – a 18/B. § (2) bekezdés d) pontja szerinti adatok kivételével – a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, valamint a rehabilitációs hatóságként eljáró fővárosi és megyei kormányhivatal, továbbá járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatai ellátása céljából.”
+8. § (1)
 
 (2)
 
@@ -84,23 +78,11 @@ a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljáráso
 
 20. § (1)
 
-(2) A Díjtv. 32/C. § (1) bekezdése a következő x) ponttal egészül ki:
-
-(Tárgyánál fogva díjmentes:)
-
-„x) társasház esetén
-
-xa) a közösség ügyintézését ellátó közös képviselő vagy az intézőbizottság elnöke adatainak bejegyzésére, törlésére, megváltozására,
-
-xb) a közgyűlés által elfogadott számviteli szabályok szerinti beszámoló benyújtására és helyesbítésére
-
-irányuló eljárás.”
+(2)
 
 #### 16. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-21. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény a következő 96. § (9) bekezdéssel egészül ki:
-
-„(9) A központi nyugdíjbiztosítási szerv a szociális hatáskörben, valamint gyermekvédelmi és gyámügyi hatáskörben eljáró járási hivatal, valamint a települési önkormányzat jegyzője mint gyámhatóság részére a pénzbeli és természetbeni szociális és a gyermekvédelmi ellátások megállapítása céljából közvetlen hozzáférést biztosít a (2) bekezdés a) és h) pontja alapján nyilvántartott adatokat tartalmazó – külön e célra kialakított – adatbázishoz.”
+21. §
 
 #### 17. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
@@ -116,65 +98,7 @@ irányuló eljárás.”
 
 #### 20. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-27. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 2. § 2. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazása során)
-
-„2. Járműnyilvántartás: olyan egységes elektronikus nyilvántartás, amely tartalmazza a járműtulajdonos (üzemben tartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány). A járműnyilvántartás tartalmazza a származás-ellenőrzés eredményének nyilvántartását és az előzetes eredetiségvizsgálattal kapcsolatos adatokat.”
-
-(2) A Kknyt. 9. §-a a következő (1c) és (1d) bekezdéssel egészül ki:
-
-„(1c) A járműnyilvántartás a jármű származás-ellenőrzése tekintetében tartalmazza
-
-a) a jármű származását igazoló okmányok adatait,
-
-b) a származás ellenőrzésének eredményét.
-
-(1d) A járműnyilvántartás a jármű előzetes eredetiségvizsgálata tekintetében tartalmazza
-
-a) a kérelmező nevét, lakcímét, születési helyét és idejét, továbbá a személyazonosításra használt okmány fajtáját és számát,
-
-b) a közreműködő megnevezését, azonosítóját, adószámát, fizetési számlájának számát, cégjegyzékszámát, székhelyét, továbbá vizsgálóállomásainak címét és azonosítóját, valamint a cégvezető adatait,
-
-c) a vizsgáló természetes személyazonosító adatát, lakcímét, valamint a nyilvántartó által képzett jogosultságazonosítóját,
-
-d) az előírások szerint mért és azonosított egyedi azonosító, valamint rögzített képi adatokat,
-
-e) az okmányok adattartalmának, valamint a jármű egyedi azonosítójának egyezőségére vagy eltérésére vonatkozó megállapításokat,
-
-f) az egyedi azonosítók eredetiségére és valódiságára vonatkozó megállapításokat,
-
-g) az előzetes eredetiségvizsgálat során megállapított minősítést, annak indokolását, valamint az erről kiállított hatósági bizonyítvány sorszámát,
-
-h) a jogszabályban meghatározott minősítés esetén szükséges egyéb hatósági intézkedéseket, azok idejét, az ügyintézőnek a nyilvántartó által képzett jogosultságazonosítóját.”
-
-(3) A Kknyt. 9. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A származás-ellenőrzéssel kapcsolatos adatok nyilvántartásba vételével összefüggő közlekedési igazgatási hatósági eljárás során a járművet hatósági jelzéssel és engedéllyel ellátni abban az esetben lehet, ha a kötelező gépjármű-felelősségbiztosítás fedezetének meglétét a jármű tulajdonosa igazolta, valamint ha a külön jogszabály alapján a közlekedési hatóság a járművet a közúti forgalomban való részvételre alkalmasnak minősítette.”
-
-28. § A Kknyt.
-
-- a) 5. § (2) bekezdés c) pontjában a „származásellenőrzési” szövegrész helyébe a „származás-ellenőrzési adatainak” szöveg,
-- b) 9/B. § (2) bekezdésében az „Az (1) bekezdés a)–h) pontjában” szövegrész helyébe a „A 9. § (1d) bekezdés a)–g) pontjában és a 9. § (2) bekezdés d) pontjában” szöveg,
-- c) 15. § (1) bekezdés c) pontjában a „9/A. § (1) bekezdésében” szövegrész helyébe a „9. § (1) bekezdés a) és b) pontjában, (1c) bekezdésében és a 9. § (2) bekezdés a), d) és e) pontjában” szöveg,
-- d) 15. § (1) bekezdés e) pontjában a „9/B. § (1) bekezdésében” szövegrész helyébe a „9. § (1d) bekezdésében, (2) bekezdés a) és d) pontjában” szöveg,
-- e) 19. § (1) bekezdés e) pont ea) alpontjában a „9. §-ban, a 9/A. § (1) bekezdésében és” szövegrész helyébe a „9. § (1)–(1c) és (2)–(6a) bekezdésében, valamint” szöveg,
-- f) 19. § (1) bekezdés f) pontjában a „9. § (2) bekezdés a)–c) pontjában és a 9/A. § (1) bekezdés a)–e) pontjában” szövegrész helyébe a „9. § (2) bekezdés a)–c) és e) pontjában” szöveg,
-- g) 19. § (1) bekezdés l) pontjában az „a (2) bekezdés a), b) és d) pontjaiban, továbbá a 9/A. § (1) bekezdés a)–e) pontjában” szövegrész helyébe a „(2) bekezdés a), b), d) és e) pontjában” szöveg,
-- h) 19. § (2) bekezdés c) pontjában a „9/A–9/B. §-ban” szövegrész helyébe a „9. § (1) bekezdés a) és b) pontjában, a 9. § (1c) és (1d) bekezdésében, a 9. § (2) bekezdés a), d) és e) pontjában” szöveg,
-- i) 24. § (3a) bekezdés b) pontjában a „származás-ellenőrzési nyilvántartásból” szövegrész helyébe a „járműnyilvántartás származás-ellenőrzésre vonatkozó adatai közül” szöveg,
-- j) 24. § (3a) bekezdés c) pontjában az „az előzetes eredetiségvizsgálati nyilvántartásból” szövegrész helyébe az „a járműnyilvántartás előzetes eredetiségvizsgálatra vonatkozó adatai közül” szöveg,
-- k) 33/A. § (1) bekezdésében a „9/B. § (1) bekezdés a)–f) pontjaiban” szövegrész helyébe a „9. § (1d) bekezdés a)–e) pontjában és 9. § (2) bekezdés d) pontjában” szöveg
-
-lép.
-
-29. § Hatályát veszti a Kknyt.
-
-- a) 2. § 11. és 12. pontja,
-- b) 7. § c) és f) pontja,
-- c) 9/A. §-a,
-- d) 9/B. § (1), (3)–(5) bekezdése,
-- e) 19. § (1) bekezdés e) pont eb) alpontjában az „a 9/A. § (1) bekezdés a)–e) pontjában,” szövegrész.
+27–29. §
 
 #### 21. A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény módosítása
 

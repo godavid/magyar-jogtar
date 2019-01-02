@@ -220,144 +220,27 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
 
 10. § Ez a törvény a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-11. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 21. §-a a következő zs) ponttal egészül ki:
+#### 11. §
 
-[E törvény felhatalmazása alapján a 17. § (2) bekezdésének b) pontja szerinti adatokat jogosultak igényelni:]
+#### 12. §
 
-„zs) a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, az értesítésicím-adat és a nyilvántartásból kikerülés helye adatok kivételével az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartásban szereplő polgárok azonosítása és ellenőrzése céljából.”
+#### 13. §
 
-12. § (1) A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaztv.) 24. § n) pontja helyébe a következő rendelkezés lép:
+#### 14. §
 
-(A TAJ szám továbbítására jogosultak:)
-
-„n) az oktatási nyilvántartás működéséért felelős szerv a tanulói, illetve a hallgatói jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére hivatott szerv vagy személy részére.”
-
-(2) A Szaztv. 37. § (1) bekezdése a következő j) ponttal egészül ki:
-
-(A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – köteles rendszeres adatszolgáltatást teljesíteni:)
-
-„j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról.”
-
-(3) A Szaztv. 37. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek – az (1) bekezdés a) pontja szerinti állami adóhatóság és az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv, valamint az (1) bekezdés j) pontja szerinti oktatási nyilvántartás működéséért felelős szerv kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.”
-
-13. § (1) A nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 41. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A köznevelési intézmény a nyilvántartott gyermek és tanulói adatokat a jogviszony megszűnésétől számított tíz évig, az alkalmazottak, óraadók adatait a jogviszony megszűnésétől számított öt évig kezeli.”
-
-(2) Az Nkt. 61. § (4b) bekezdése helyébe a következő rendelkezés lép:
-
-„(4b) A köznevelési szaktanácsadói névjegyzékben nyilvántartott szaktanácsadó alábbi adatai nyilvánosak:
-
-a) családi és utóneve,
-
-b) elektronikus levelezési címe,
-
-c) a szakterületének jogszabályban meghatározott megnevezése,
-
-d) nyilvántartásba-vételi száma.”
-
-(3) Az Nkt. 73. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Az e törvény alapján létrehozott intézményi tanácsról a 73. § (5) bekezdés a) pontja alapján vezetett nyilvántartás közhiteles hatósági nyilvántartásnak minősül. Az intézményi tanácsról vezetett nyilvántartás az alábbi adatokat tartalmazza:
-
-a) az intézményi tanács neve,
-
-b) az intézményi tanács székhelye,
-
-c) az érintett iskola neve, OM azonosítója,
-
-d) az elnök neve,
-
-e) az elnök elérhetősége (telefonszám, telefax, elektronikus levelezési cím),
-
-f) nyilvántartásba-vételi száma.”
-
-(4) Az Nkt. 82. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A hivatal az (1) bekezdés a) és b) pontja szerinti szakértőkről országos köznevelési szakértői névjegyzéket vezet. Az országos köznevelési szakértői névjegyzékben nyilvántartott szakértők alábbi adatai nyilvánosak:
-
-a) családi és utóneve,
-
-b) elektronikus levelezési címe,
-
-c) jogszabályban meghatározott szakterülete, szakiránya,
-
-d) nyilvántartásba-vételi száma,
-
-e) szakértői igazolásának száma.”
-
-(5) Az Nkt. 82. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A hivatal vezeti az országos érettségi vizsgaelnöki névjegyzéket. Az országos érettségi vizsgaelnöki névjegyzékben nyilvántartott érettségi vizsgaelnök alábbi adatai nyilvánosak:
-
-a) családi és utóneve,
-
-b) jogszabályban meghatározott vizsgaterülete,
-
-c) nyilvántartásba-vételi száma,
-
-d) vizsgaelnöki igazolásának száma és hatálya.”
-
-(6) Az Nkt.
-
-- a) 61. § (4d) bekezdésében és 94. § (4) bekezdés u) pontjában a „szaktanácsadói névjegyzékbe” szövegrész helyébe a „köznevelési szaktanácsadói névjegyzékbe”,
-- b) 63/L. § (2) bekezdésében az „Országos szakértői és vizsgaelnöki névjegyzék” szövegrész helyébe az „országos köznevelési szakértői és vizsgaelnöki névjegyzék”, a „szaktanácsadói névjegyzék” szövegrész helyébe a „köznevelési szaktanácsadói névjegyzék”,
-- c) 47. alcíme címében az „Országos szakértői és érettségi vizsgaelnöki névjegyzék” szövegrész helyébe az „országos köznevelési szakértői és vizsgaelnöki névjegyzék”,
-- d) 82. § (6b) bekezdésében az „Országos érettségi” szövegrész helyébe az „országos érettségi”,
-- e) 82. § (9) bekezdésében az „Országos szakértői névjegyzékből” szövegrész helyébe az „országos köznevelési szakértői névjegyzékből”, az „Országos érettségi” szövegrész helyébe az „országos érettségi”,
-- f) 94. § (1) bekezdés l) pontjában az „Országos szakértői névjegyzékbe” szövegrész helyébe az „országos köznevelési szakértői névjegyzékbe”, az „Országos szakértői névjegyzék” szövegrész helyébe az „országos köznevelési szakértői névjegyzék”,
-- g) 94. § (1) bekezdés l) pontjában az „Országos érettségi” szövegrészek helyébe az „országos érettségi”,
-- h) 94. § (4) bekezdés s) pontjában az „Országos szakértői névjegyzékbe” szövegrész helyébe az „országos köznevelési szakértői névjegyzékbe”, az „Országos érettségi” szövegrész helyébe az „országos érettségi”
-
-szöveg lép.
-
-14. § (1) Az Nftv. 19. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A felsőoktatási információs rendszer működéséért felelős szerv a hallgatónak kérelemre diákigazolványt ad ki. A diákigazolványok kiadásának rendjét a Kormány rendeletben szabályozza.
-
-(3) A diákigazolvány az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti kártya, amely közokirat.
-
-(4) A diákigazolvány elkészítésére irányuló eljárásban – ha jogszabály eltérően nem rendelkezik – a felsőoktatási információs rendszer működéséért felelős szerv elektronikus úton tart kapcsolatot.”
-
-(2) Az Nftv. 67. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(Az oktatási hivatal)
-
-„d) vezeti a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását.”
-
-(3) Az Nftv. 3. melléklete a 7. melléklet szerint módosul.
-
-(4) Az Nftv.
-
-- a) 48/H. §-ában az „az 5. mellékletben” szövegrész helyébe az „az oktatási nyilvántartásról szóló törvényben”,
-- b) 67. § (1) bekezdés a) pontjában az „a 3. melléklet II/A. részében megjelölt közérdekből nyilvános” szövegrész helyébe az „az oktatási nyilvántartásról szóló törvényben meghatározott”
-
-szöveg lép.
-
-15. § Hatályát veszti az Nkt.
-
-- a) 44. §-a,
-- b) 44/A. § (3)–(6) bekezdése,
-- c) 44/B. és 44/C. §-a,
-- d) 46. § (20) bekezdésében a „A KIR adatkezelője, valamint a diákigazolvány elkészítésében közreműködők a diákigazolvány elkészítése körében tudomásukra jutott személyes adatot a diákigazolvány érvényességének megszűnését követő öt évig kezelhetik.” szövegrész,
-- e) 61. § (4c) bekezdése,
-- f) 63. § (4) bekezdésében a „A KIR adatkezelője és a pedagógusigazolvány elkészítésében közreműködők a pedagógusigazolvány elkészítése körében tudomásukra jutott személyes adatot a pedagógusigazolvány érvényességének megszűnését követő öt évig kezelhetik.” szövegrész,
-- g) 82. § (4a) és (6a) bekezdése,
-- h) 97. § (25) bekezdése.
+#### 15. §
 
 16. § Hatályát veszti az Nftv.
 
-- a) 19. § (5)–(7) bekezdése,
-- b) 39. § (3) bekezdésében az „A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv által nyilvántartott személyes adatokat, az adatkezelés célját, időtartamát, továbbításának feltételeit az 5. melléklet tartalmazza.” szövegrész,
-- c) 67/A. §-a,
-- d) 73. § (3) bekezdés i) pontjában az „a 3. mellékletben foglaltak szerint” szövegrész,
-- e) 110. § (1) bekezdés 6. pontjában az „ , az oktatói azonosító számmal és a hallgatói azonosító számmal” szövegrész,
+- a)
+- b)
+- c)
+- d)
+- e)
 - f)
-- g) 3. melléklet II. fejezete, III. fejezet 1–4. pontja, 6. pont 6.3. és 6.4. alpontja, 7–9. pontja és V. fejezete,
-- h) 5. melléklete,
-- i) 7. melléklete.
+- g)
+- h)
+- i)
 
 ### 1. melléklet a 2018. évi LXXXIX. törvényhez
 
@@ -868,20 +751,3 @@ cb) a bizonyítvány státusza: beterjesztés, jóváhagyás, a nyomdába és a 
 cc) a bizonyítvány kiállításának dátuma.
 
 ### 7. melléklet a 2018. évi LXXXIX. törvényhez
-
-- 1. Az Nftv. 3. melléklet I. fejezet I/B. alcím 1. pont g) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alapján nyilvántartott adatok:)
-
-„g) hallgatói vagy lakhatási támogatás nyújtása esetén, ha az csecsemőgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban részesülés okán, vagy hátrányos helyzetére tekintettel jár, e díjak, támogatások adatai;”
-
-- 2. Az Nftv. 3. melléklet I. fejezet I/B. alcím 1. pontja a következő j) alponttal egészül ki:
-
-(E törvény alapján nyilvántartott adatok:)
-
-„j) a Diákhitel Központ által megítélt hitel fennálltára, típusára vonatkozó adat.”
-
-- 3. Az Nftv.
-  - a) 3. melléklet I. fejezet I/A. alcím 1. pont a) alpontjában az „azonosító szám” szövegrész helyébe az „oktatási azonosító szám, személyazonosító okmány száma, adóazonosító jele”,
-  - b) 3. melléklet I. fejezet I/B. alcím ba) 1. pont a) alpont aa) pontjában az „– megnevezése, száma” szövegrész helyébe az „– a Magyar igazolvány, Magyar hozzátartozói igazolvány, a nemzetközi biztosítási okmány adatai”, bb) 1. pont b) alpont bk) pontjában az „azonosító száma” szövegrész helyébe az „oktatási azonosító száma, személyazonosító okmány száma, fényképe”,
-  - c) 3. melléklet III. fejezet 5. pontjában az „a II/C. fejezet 1. a) pont aa) alpontja szerinti” szövegrész helyébe az „az oktatási nyilvántartás Hallgatói törzsében szereplő” szöveg lép.

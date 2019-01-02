@@ -131,7 +131,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - q) meghatározza a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokat és szabályokat, a térségi fejlesztési tanács szervezeti és működési rendjének általános szabályait;
 - r) meghatározza a megyei önkormányzatok és a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését.
 
-8. §
+8. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 4. § (3a) bekezdése szerinti esetekben egyedi, az országos, a kiemelt térségi és a megyei területrendezési terv rendelkezéseitől eltérő vagy annak alkalmazását kizáró területrendezési szabályokat és különös hatósági eljárási szabályokat a Kormány rendeletben állapíthat meg.
 
 ### A miniszter és más miniszterek feladatai
 
@@ -222,7 +222,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 12. § (1) A megyei önkormányzat területrendezési feladatkörében:
 
-- a) a 6. § d) pontjában meghatározott tervvel összhangban, az érintett települési önkormányzatok véleményeinek kikérésével elfogadja a megye területrendezési tervét, amely nem terjed ki a 6. § d) pontjában meghatározott kiemelt térségek területére,
+- a) a 6. § d) pontjában meghatározott tervvel összhangban, az érintett települési önkormányzatok véleményeinek kikérésével elfogadja a megye területrendezési tervét, amely – a jogszabályban rögzített egyedileg meghatározott megyei övezet kivételével – nem terjed ki a 6. § d) pontjában meghatározott kiemelt térségek területére,
 - b) előzetesen véleményezi az országos, valamint a területét érintő területrendezési terveket,
 - c) a megye területére vagy térségére – a megyei jogú városok önkormányzata kötelező bevonásával, észrevételeik figyelembevételével – a 6. § d) pontjával meghatározott tervvel összhangban területrendezési tervet készít,
 - d) a tervezés és a végrehajtás során gondoskodik a partnerség elvének érvényesítéséről,
@@ -596,7 +596,7 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 - d) a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeit, továbbá illeszkedésük, kidolgozásuk és közzétételük részletes szabályait, valamint egyeztetésük, elfogadásuk rendjét;
 - e) a szabad vállalkozási zónák létrehozásának és működésének, valamint a kedvezmények igénybevételének szabályait;
 - f) a területfejlesztéssel és területrendezéssel kapcsolatos információs rendszert és a kötelező adatközlés szabályait;
-- g)
+- g) a 8. § szerinti esetekben az egyedi, az országos, a kiemelt térségi és a megyei területrendezési terv rendelkezéseitől eltérő vagy annak alkalmazását kizáró területrendezési szabályokat és különös hatósági eljárási szabályokat.
 - h) a területi monitoring rendszer feladat- és hatáskörét, szervezeti és működési rendjét, a területfejlesztést közvetlenül vagy közvetve szolgáló források felhasználásáról készülő területi értékelés elkészítésének módszertani szabályait;
 - i)
 - j) a területfejlesztés intézményei törvényességi felügyeletének részletes szabályait;

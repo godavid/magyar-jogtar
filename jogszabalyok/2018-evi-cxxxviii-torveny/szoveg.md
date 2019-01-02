@@ -147,54 +147,8 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 #### 7. Módosító rendelkezések
 
-15. § (1) Az Áht. 33. § (1) bekezdése helyébe a következő rendelkezés lép:
+15. §
 
-„(1) A fejezetet irányító szerv a Kormány rendeletében és az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvényben meghatározott esetekben a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre. Más esetben a fejezet címrendjének, valamint a címrend alá rendezett alcímek, jogcímcsoportok módosítására, kiegészítésére a Kormány irányítása alá tartozó fejezetek esetén a Kormány, a Kormány irányítása alá nem tartozó fejezetek esetén az Országgyűlés egyedi határozatban jogosult.”
+16. §
 
-(2) Az Áht. 33. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A központi költségvetésről szóló törvény, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény és e törvény eltérő rendelkezése hiányában a központi költségvetésről szóló törvény által megállapított kiadási előirányzatok közötti előirányzat-átcsoportosításra a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén a Kormány, a nem a Kormány irányítása alá tartozó fejezet terhére történő előirányzat-átcsoportosítás esetén az Országgyűlés egyedi határozatban jogosult.”
-
-16. § Az Áht. 36. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az (5) bekezdésben, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvényben foglaltak, valamint a 20. § (1) bekezdése szerinti pénzeszközök terhére vállalt kötelezettségek kivételével az államháztartás központi alrendszerében több év vagy a költségvetési éven túli év kiadási előirányzatai terhére kötelezettség
-
-a) a társadalombiztosítás pénzügyi alapjai, valamint a 14. § (3) bekezdése és a 14. § (4) bekezdés c) és d) pontja szerinti fejezetek kiadási előirányzatai esetén törvényben foglaltak szerint,
-
-b) egyéb esetben
-
-ba) a személyi juttatások, a munkaadókat terhelő járulékok és szociális hozzájárulási adó, a dologi kiadások és az ellátottak pénzbeli juttatásainak kiadási előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának mértékéig,
-
-bb) az egyéb működési célú kiadások és a felhalmozási kiadások előirányzatai terhére azoknak a költségvetési évben jóváhagyott eredeti előirányzatának ötven százalékáig
-
-vállalható.”
-
-17. § Az Áht. 79. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kincstárban fizetési számlát kötelesek vezetni
-
-a) a térségi fejlesztési tanácsok és azok költségvetési szervként működő munkaszervezetei,
-
-b) a megyei önkormányzatok és a megyei önkormányzatok önkormányzati hivatalai,
-
-c) a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa,
-
-d) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
-
-e) az MNV Zrt.,
-
-f) a Diákhitel Központ Zrt.,
-
-g) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
-
-h) a Nemzeti Eszközkezelő Zrt.,
-
-i) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
-
-j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
-
-k) a Nemzeti Üdülési Szolgálat és
-
-l) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény alapján Beruházási Ügynökségként kijelölt gazdasági társaság
-
-[az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].”
+17. §

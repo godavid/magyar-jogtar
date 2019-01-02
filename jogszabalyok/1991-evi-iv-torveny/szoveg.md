@@ -1087,12 +1087,8 @@ szerinti adatok igénylésére jogosult.
   - e) valamely tagállam olyan ágazatában vagy szakmájában dolgozik, amelyben 25%-kal nagyobb a nemi egyensúlyhiány, mint e tagállam valamennyi gazdasági ágazatára jellemző átlagos egyensúlyhiány, és ezen alulreprezentált nemi csoportba tartozik, vagy
   - f) egy tagállam nemzetiséghez tartozik, és akinek szakmai, nyelvi képzésének vagy szakmai tapasztalatának megerősítésére van szüksége ahhoz, hogy javuljanak munkába állási esélyei egy biztos munkahelyen;
 - 2. Súlyosan hátrányos helyzetű munkavállaló, aki legalább 24 hónapja munkanélküli;
-- 3. Fogyatékkal élő munkavállaló, aki
-  - a) a nemzeti jog szerint fogyatékosnak elismert, vagy
-  - b) elismerten fizikai, elmebeli vagy pszichológiai károsodásban szenved.
-- 4. Megváltozott munkaképességű munkavállaló, aki
-  - a) rehabilitációs ellátásban részesül,
-  - b) aki 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesült.
+- 3. Fogyatékossággal élő munkavállaló, aki tartósan vagy véglegesen olyan érzékszervi, kommunikációs, fizikai, értelmi, pszichoszociális károsodással – valamint ezek bármilyen halmozódásával – él, amely a környezeti, társadalmi és egyéb jelentős akadályokkal kölcsönhatásban a hatékony és másokkal egyenlő társadalmi részvételt korlátozza vagy gátolja;
+- 4. Megváltozott munkaképességű személy.
 
 (5) A (3) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
@@ -1200,7 +1196,9 @@ szükséges hozzáférést.
 - j) munkaközvetítő tevékenység: olyan szolgáltatás, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
 - k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha álláskeresési járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. terhességi-gyermekágyi segélyben, csecsemőgondozási díjban, gyermekgondozási díjban részesül, 2. letartóztatásban van, szabadságvesztés büntetését tölti, kivéve, ha a fogvatartott reintegrációs őrizetben van, valamint elzárás büntetését tölti, 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
 - l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 120 napot nem haladja meg,
-- m) megváltozott munkaképességű személy: aki testi vagy szellemi fogyatékos, vagy akinek az orvosi rehabilitációt követően munkavállalási és munkahely-megtartási esélyei testi vagy szellemi károsodása miatt csökkennek,
+- m) megváltozott munkaképességű személy:
+  - ma) a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján maa) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű, mab) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány alapján, mac) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű,
+  - mb) aki a komplex minősítés alól jogszabály rendelkezése alapján mentesül, rokkantsági ellátás folyósításának időtartama alatt,
 - n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
 - o) közhasznú tevékenység: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység,
 - p) háztartás: az Szt. 4. §-a (1) bekezdésének f) pontjában meghatározott személyek,

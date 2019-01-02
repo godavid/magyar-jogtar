@@ -214,101 +214,21 @@ Az Országgyűlés a Nemzeti Eszközkezelő Programban részt vevő természetes
 
 #### 12. Módosító rendelkezések
 
-24. § Az illetékekről szóló 1990. évi XCIII. törvény 26. § (1) bekezdés u) pontja helyébe a következő rendelkezés lép:
+#### 24. §
 
-(Mentes a visszterhes vagyonátruházási illeték alól:)
+#### 25. §
 
-„u) a magánszemély lakásvásárlása, amennyiben az a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvényben meghatározott visszavásárlási jog érvényesítésével, vagy a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvényben meghatározott egyösszegű vásárlással vagy részletvétellel történik;”
+#### 26. §
 
-25. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. melléklet 7. pontjának 7.19. alpontja a következő e) ponttal egészül ki:
+#### 27. §
 
-(Egyéb indokkal adómentes:
+#### 28. §
 
-a szociálisan rászorult magánszemély hiteladós vagy – ha a lakóingatlan nem a hiteladós tulajdonában van – a zálogkötelezett lakhatásának biztosítása érdekében)
-
-„e) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvényben meghatározott ingatlanvásárlás esetében a magánszemélyt megillető kamatmentesség, vételárengedmény és részletfizetési kedvezmény;”
-
-26. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/C. § (1) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-(Tárgyánál fogva díjmentes:)
-
-„l) a lakóingatlanon alapított zálogjog fedezetével kötött, devizaalapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény és a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvény alapján
-
-la) a visszavásárlási jog bejegyzésére és törlésére irányuló eljárás,
-
-lb) a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzésére irányuló eljárás,
-
-lc) a Nemzeti Eszközkezelő Zrt. vagyonkezelői jogának törlésére irányuló eljárás,
-
-ld) a magánszemély tulajdonszerzésének bejegyzésére irányuló eljárás,”
-
-27. § A NET tv. 22. §-a és 23. §-a helyébe a következő rendelkezések lépnek:
-
-„22. § (1) A Nemzeti Eszközkezelő pályázat alapján kiválasztott személlyel vagy személyekkel a lakhatási célú ingatlanra kizárólag határozatlan időre szóló lakásbérleti szerződést köt.
-
-(2) A lakásbérleti szerződés alapján a bérlő köteles a megállapított lakbért a Nemzeti Eszközkezelő részére havi rendszerességgel megfizetni.
-
-23. § A lakásbérleti szerződés létrejöttére, tartalmára és megszűnésére a Lakástörvény szabályait a következő eltérésekkel kell alkalmazni:
-
-a) a bérlő az ingatlanba a lakásbérleti szerződés létrejöttét követően csak a házastársát vagy élettársát, saját, illetve házastársa vagy élettársa nevelésében álló, családi pótlékra jogosító gyermeket, továbbá a családi pótlék összegének számítása szempontjából figyelembe vett gyermeket fogadhatja be, a Nemzeti Eszközkezelő előzetes írásbeli hozzájárulásával,
-
-b) a lakhatási célú ingatlanra bérlőtársi jogviszonyt létesíteni kizárólag a lakásbérleti szerződés megkötésekor lehet,
-
-c) a lakásbérleti szerződés megszűnése után a volt bérlő és az ingatlanban visszamaradó más személyek elhelyezésre nem tarthatnak igényt,
-
-d) a bérlő halála esetén a bérlővel annak életében együtt lakó házastársa vagy élettársa, a bérlő, illetve házastársa vagy élettársa családi pótlékra jogosító gyermeke, illetve a bérlővel még életében együtt lakó gyermeke a lakásbérleti jogot folytathatják,
-
-e) a Nemzeti Eszközkezelő a lakásbérleti szerződésben kikötheti a bérlő ingatlanban történő életvitelszerű bentlakásának kötelezettségét,
-
-f) a lakóingatlannal és a tartalék ingatlannal összefüggésben felmerülő, a Lakástörvény 13. § (1) bekezdésében meghatározott költségek a bérlőt, a lakhatási célú ingatlanok esetében a Lakástörvény 13. § (1) bekezdésében meghatározott költségek közül a pótlással és a cserével kapcsolatos költségek a bérbeadót terhelik,
-
-g) a bérlőt terhelik az ingatlan használatával kapcsolatos közüzemi költségek, valamint társasházi lakás esetében a közös költség fizetése,
-
-h) a bérbeadó jogosult a lakásbérleti szerződést felmondani, ha a bérlő felszólítás ellenére sem fizeti meg a lakbért, az ingatlannal kapcsolatos közüzemi díjakat vagy társasházi lakás esetében a közös költséget,
-
-i) a bérbeadó az ingatlan állapotát és rendeltetésszerű használatát évente legalább egy alkalommal ellenőrzi, amit a bérlő tűrni köteles,
-
-j) a lakásbérleti szerződésben a bérlő hozzájárul ahhoz, hogy a Nemzeti Eszközkezelő a közüzemi szolgáltatótól a bérlő közüzemi díjhátralékának mértékéről vagy annak hiányáról adatszolgáltatást kérjen.
-
-k) bérlőtársi jogviszony esetén, ha a bérbeadó a lakásbérleti szerződést olyan okból mondja fel, amely felmondási ok valamennyi bérlőtárssal szemben fennáll, a felmondást elég, ha a bérbeadó az egyik bérlőtárssal közli.”
-
-28. § A NET tv. 25. §-a helyébe a következő rendelkezés lép:
-
-„25. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
-
-a) a Nemzeti Eszközkezelő 4. § (2) bekezdésben megjelölt feladatainak ellátását kizárólagos jog alapján végző költségvetési szervek és gazdasági társaságok körét, valamint e feladatok ellátásával összefüggő kötelezettségeiket,
-
-b) a szociálisan rászorult személyek körét és a szociális rászorultság igazolásának módját,
-
-c) a Nemzeti Eszközkezelő és a bérlő között létrejött lakásbérleti szerződésben a bérlő szociális helyzetére tekintettel érvényesíthető lakbér mértékét,
-
-d) a lakásbérleti szerződés bérbeadó általi felmondására vonatkozó részletes, a bérlő szociális helyzetét is figyelembe vevő feltételeket és szabályokat,
-
-e) a lakásbérleti jogviszonyból eredő követelések számlázásával kapcsolatos szabályokat,
-
-f) a lakhatási célú ingatlan bérlői pályázat útján történő kiválasztásának szabályait,
-
-g) a tartalék ingatlan tekintetében fennálló lakásbérleti jogviszony feltételeit, különös tekintettel a lakbér mértékére, a lakásbérleti szerződés időtartamára, a bérlő kötelezettségeire.”
-
-29. § A NET tv. 30. §-a és 30/A. §-a helyébe a következő rendelkezések lépnek:
-
-„30. § (1) A 2019. január 1-jét megelőzően, a Kormány rendeletében meghatározott, a Nemzeti Eszközkezelő által megvásárolható lakóingatlanokra vonatkozóan benyújtott szándéknyilatkozatokon kívül a Nemzeti Eszközkezelőhöz vagy a pénzügyi intézményhez benyújtott szándéknyilatkozatok elutasításra kerülnek. A pénzügyi intézmény a hiteladós vagy zálogkötelezett késedelmes tartozásának megfizetése érdekében egyeztetést folytat a hiteladóssal vagy zálogkötelezettel e törvény hatálybalépését követő 60 napon belül.
-
-(2) A végrehajtási eljárás e törvény hatálybalépését követő 61. napon folytatódik.
-
-30/A. § A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvénnyel módosított 22. és 23. § rendelkezéseit a Nemzeti Eszközkezelővel 2019. január 1-jén fennálló lakásbérleti jogviszonyokra is alkalmazni kell.”
+#### 29. §
 
 #### 13. Hatályon kívül helyező rendelkezések
 
-30. § Hatályát veszti a NET tv.
-
-- a) 1. § a)–b) és g) pontja, 1. § n) pont nc) alpontja,
-- b) 3. §-a,
-- c) 5–6. §-a,
-- d) 7. § (2) és (3a) bekezdése,
-- e) 7/A. §-a,
-- f) 24/A. §-a,
-- g) 30/B. §-a.
+#### 30. §
 
 ### 1. melléklet a 2018. évi CIII. törvényhez
 
