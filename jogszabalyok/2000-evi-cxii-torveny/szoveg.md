@@ -132,7 +132,7 @@ települési területfelhasználási egységbe sorolható;
 
 - a) a szennyvízcsatorna-hálózat létesítésének engedélyezésére csak a megfelelő kapacitású csatlakozó szennyvíztisztító telep megléte esetén, illetve új tisztító építésekor azzal egyidejűleg kerülhet sor;
 - b) 20 személygépkocsi befogadóképességűnél nagyobb gépkocsiparkolók felületéről az összegyűjtött csapadékvizeket csak olajfogón átvezetve lehet a csapadékvíz-csatornába bekötni, és a parkolókban összefolyó csapadékvíz zöldfelületre nem vezethető;
-- c) a közmű és elektronikus hírközlési nyomvonalas hálózatok és járulékos műtárgyaik kiépítésénél, illetve a meglévő hálózatok korszerűsítésénél a tájkép védelme és az esztétikai követelmények érvényesítése céljából az országos jelentőségű védett természeti területen a műszaki lehetőségek és a védett értékek védelmi szempontjainak mérlegelésével terepszint alatti elhelyezést kell biztosítani;
+- c) a közmű és elektronikus hírközlési nyomvonalas hálózatok és járulékos műtárgyaik kiépítésénél, illetve a meglévő hálózatok korszerűsítésénél a tájkép védelme és az esztétikai követelmények érvényesítése céljából az országos jelentőségű védett természeti területen a műszaki lehetőségek és a védett értékek védelmi szempontjainak mérlegelésével terepszint alatti elhelyezést kell biztosítani, ide nem értve, ha már meglévő oszlopsor (közös közmű oszlopsor) felhasználásával kerül sor az elektronikus hírközlési nyomvonalas hálózatok kiépítésére;
 - d) a műsorszórás és a mobil rádiótelefon hírközlés bázisállomásainak telepítésekor a berendezéseket meglévő magasépítményeken többfunkciós állomásként kialakított közös hírközlési toronyra kell elhelyezni. Önálló antennatartó szerkezet és csatlakozó műtárgy csak akkor helyezhető el, ha meglévő magasépítményeken erre nincs lehetőség. Az önálló antennatartó szerkezet az országos jelentőségű védett természeti területeken, valamint a térségi jelentőségű táj- és településkép védelmi terület övezetén kívül, a táj- és településképbe illeszkedően létesíthető.
 
 ### A BALATON KIEMELT ÜDÜLŐKÖRZET TERÜLETÉRE VONATKOZÓ SZABÁLYOK
@@ -284,21 +284,28 @@ nem okoznak.
 
 (2)
 
-19. § (1) A kempingek területének más célra történő igénybevétele csak zöldterületként 4%-os beépítettséggel vagy a turizmus fejlesztését szolgáló vegyes területként, üdülőházas üdülőterületként, illetve a különleges területfelhasználási egységek közül a vízpart-rehabilitációs szabályozási követelményekben meghatározott települési területfelhasználási egységként
+19. § (1) A vízparti kemping területén – tulajdoni formától függetlenül –
 
-- a) közvetlen Balaton-parti kapcsolat esetén 15%-os beépítettséggel;
-- b) amennyiben a közvetlen parti kapcsolattal rendelkező 30 méter széles – közhasználatú parti sétány kialakítására alkalmas – zöldterület települési területfelhasználási egységbe tartozó terület tulajdonjogát a települési önkormányzat megszerezte, a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett, eredetileg közvetlen Balaton-parti kapcsolattal rendelkező területen a visszamaradó telekre meghatározott települési területfelhasználási egység vízpart-rehabilitációs szabályozási követelményekben meghatározott beépítési százalékával;
-- c) a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett, közvetlen Balaton-parti kapcsolattal nem rendelkező területen meghatározott települési területfelhasználási egység vízpart-rehabilitációs szabályozási követelményekben meghatározott beépítési százalékával;
-- d) a kiemelt üdülőkörzet parti és partközeli településeinek területén lévő, a balatoni vízpart-rehabilitációs szabályozási követelményekkel nem érintett területen a településrendezési eszközökben meghatározható beépítési szabályok szerint
+- a) kereskedelmi célú szállásférőhely, vendéglátó épület és pihenést, testedzést szolgáló építmény helyezhető el,
+- b) lakó- és üdülőépület, lakás nem alakítható ki.
 
-történhet.
+(2) A vízparti kempinget különleges terület kemping települési területfelhasználási egységbe kell sorolni, amelynek beépítettsége legfeljebb 15% lehet.
 
-(2) A vízpart-rehabilitációs szabályozási követelményekkel érintett területeken, ahol a kempingek területe nem került átsorolásra, a kempingek beépítettségének mértéke legfeljebb 15% lehet.
+(3) A kemping területének más területfelhasználási egységbe történő besorolása csak
 
-(3) A meglévő strandok területe a településrendezési eszközökben csak zöldterület kialakítása céljából csökkenthető. A strandok területén telekfelosztás csak zöldterület kialakítása céljából, telekhatár-rendezés csak zöldterületbe sorolás vagy a strandterület növelése, illetve a telekhatár kiigazítása céljából végezhető. A telekhatár-rendezés során a strandterület parthossza nem csökkenthető. A strandok területének
+- a) zöldterületként legfeljebb 3%-os beépítettséggel, vagy
+- b) különleges terület strandként, legfeljebb 15%-os beépítettséggel
 
-- a) legfeljebb 10%-a építhető be a külön jogszabályokban meghatározott feltételek szerint,
-- b) legkevesebb 65%-át – legkésőbb a használatbavételi engedélykérelem benyújtásáig – növényzettel fedetten kell kialakítani és fenntartani.
+valósítható meg.
+
+(4) A strand beépített területe legfeljebb a terület 10%-a lehet.
+
+(5) A strand területének legkevesebb 65%-át fásított zöldfelületként kell kialakítani és fenntartani.
+
+(6) Strand területén – tulajdoni formától függetlenül –
+
+- a) csak vendéglátó épület, pihenést, testedzést, valamint az átöltözést és tisztálkodást szolgáló építmény helyezhető el,
+- b) lakó- és üdülőépület, lakás nem alakítható ki.
 
 20. § (1) A kiemelt üdülőkörzet valamennyi parti településén a belterülethez csatlakozó parthossz legkevesebb 30%-án legalább 5 méter széles közhasználatú parti sétány helye biztosítandó a vízpart-rehabilitációs tanulmánytervek alapján felülvizsgált településrendezési eszközökben, figyelemmel a természetes vegetáció megtartására.
 
