@@ -378,25 +378,15 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 #### 98. §
 
-99. § (1) A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény (a továbbiakban: Tftv.) a következő 8. §-sal egészül ki:
-
-„8. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 4. § (3a) bekezdése szerinti esetekben egyedi, az országos, a kiemelt térségi és a megyei területrendezési terv rendelkezéseitől eltérő vagy annak alkalmazását kizáró területrendezési szabályokat és különös hatósági eljárási szabályokat a Kormány rendeletben állapíthat meg.”
+99. § (1)
 
 (2)
 
-(3) A Tftv. 12. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A megyei önkormányzat területrendezési feladatkörében:)
-
-„a) a 6. § d) pontjában meghatározott tervvel összhangban, az érintett települési önkormányzatok véleményeinek kikérésével elfogadja a megye területrendezési tervét, amely – a jogszabályban rögzített egyedileg meghatározott megyei övezet kivételével – nem terjed ki a 6. § d) pontjában meghatározott kiemelt térségek területére,”
+(3)
 
 (4)
 
-(5) A Tftv. 27. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„g) a 8. § szerinti esetekben az egyedi, az országos, a kiemelt térségi és a megyei területrendezési terv rendelkezéseitől eltérő vagy annak alkalmazását kizáró területrendezési szabályokat és különös hatósági eljárási szabályokat.”
+(5)
 
 (6)
 
@@ -404,121 +394,45 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 (8)
 
-100. § (1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 2. §-a a következő 42. ponttal egészül ki:
+100. § (1)
 
-(E törvény alkalmazásában:)
+(2)
 
-„42. Építésügyi műszaki irányelv: jogszabály vagy európai vagy nemzeti szabvány által nem vagy nem teljeskörűen szabályozott területen, ismételt vagy folyamatos alkalmazás céljára, széles körű szakmai összefogással és állami felügyelet mellett létrehozott, magyar nyelven kiadott, mindenki számára hozzáférhető műszaki előírás.”
+(3)
 
-(2) Az Étv. 8. §-a a következő (2a) bekezdéssel egészül ki:
+(4)
 
-„(2a) A településrendezési eszköz elfogadásakor a (2) bekezdés szerinti kormányrendelet alapján záró szakmai vélemény kibocsátására jogosultnak a jogszabályi követelmények érvényesülését biztosító záró szakmai véleményét figyelembe kell venni. A záró szakmai vélemény megküldésére a (2) bekezdés szerinti kormányrendeletben megállapított határidő lejártát követő 5. napon a településrendezési eszköz elfogadható.”
+(5)
 
-(3) Az Étv. 30. §-a a következő (5a) bekezdéssel egészül ki:
+(6)
 
-„(5a) Nem jár kártalanítás, ha a 13. § (1) bekezdés szerinti építési jog keletkezését követően nem történt a helyi építési szabályzatnak megfelelő telekalakítás vagy nem kezdődött meg építési tevékenység, és az építési jogot a települési önkormányzat az építési jog keletkezésétől számított 7 évet követően módosítja vagy megszünteti.”
+(7)
 
-(4) Az Étv. 30. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) A települési (a fővárosban a fővárosi és a kerületi) önkormányzatot kártalanítási kötelezettség nem terheli, amennyiben a településrendezési eszköz (1) bekezdés szerinti előírása területrendezési tárgyú jogszabály települési szintű érvényesítésének közvetlen következménye.”
-
-(5) Az Étv. 31. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Műszaki tartalmú jogszabály hivatkozhat építésügyi műszaki irányelvre. Az adott jogszabály vonatkozó követelményei teljesülnek, ha a hivatkozott építésügyi műszaki irányelvben meghatározottakkal azonos vagy kedvezőbb megoldások készülnek.”
-
-(6) Az Étv. 33/A. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (2) és (3) bekezdés alkalmazásában saját lakhatásnak minősül minden olyan eset, amelynek során az építtető a lakóépületet vagy lakást életvitelszerű bentlakás céljából használja.”
-
-(7) Az Étv. 48/A. § (5) és (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az építésügyi és az építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon 60 napon belül folytatja le a hatósági ellenőrzést. Szabálytalanság észlelése esetén hivatalból megindítja az eljárást, és megteszi az (1)–(4) bekezdésben meghatározott intézkedéseket. Az eljárás megindításának legkésőbb az építés befejezésétől – ha az nem állapítható meg, akkor az építmény használatbavételétől – számított tíz éven belül van helye.
-
-(6) Az (5) bekezdés szerinti hatósági ellenőrzés újrakezdődik
-
-a) a fennmaradási engedélykérelem benyújtására való felhívás nem teljesítése esetén, a teljesítési határidő lejártát követő napon,
-
-b) ha az építtető a fennmaradási engedély iránti kérelmét visszavonja, a visszavonást követő napon,
-
-c) a fennmaradási és továbbépítési engedélyben előírt szabályossá tételi kötelezettség nem teljesítése esetén, a teljesítési határidő lejártát követő napon,
-
-d) az új eljárás lefolytatását elrendelő döntés eljáró hatósághoz történő megérkezését követő napon.”
-
-(8) Az Étv. a következő 60/G. §-sal egészül ki:
-
-„60/G. § E törvénynek a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvénnyel (a továbbiakban: Mód2. tv.) megállapított 8. § (2a) bekezdését a Mód2. tv. hatálybalépésekor folyamatban lévő településrendezési eszköz készítése és módosítása során is alkalmazni kell.”
+(8)
 
 (9)
 
-(10) Az Étv. 62. § (1) bekezdése a következő 33. és 34. ponttal egészül ki:
+(10)
 
-(Felhatalmazást kap a Kormány arra, hogy)
+(11)
 
-„33. az építésügyi műszaki irányelv kidolgozásának, jóváhagyásának részletes szabályait, a kidolgozásban és a véleményezésben résztvevők körét, a jóváhagyott építésügyi műszaki irányelvek közzétételének módját és helyét, valamint a 31. § (6) bekezdésében meghatározott bizottság összetételét, feladatkörét és a működésére vonatkozó részletes szabályokat,
-
-34. a telekalakítás és építési tilalom elrendelése, továbbá a telekalakítás és cseretelek-adás részletes szabályait”
-
-(rendelettel állapítsa meg.)
-
-(11) Az Étv. 62. §-a a következő (3b) bekezdéssel egészül ki:
-
-„(3b) Felhatalmazást kap a településfejlesztésért és településrendezésért felelős miniszter arra, hogy az okos város településekre vonatkozó szakmai követelményeket rendeletben állapítsa meg.”
-
-(12) Az Étv. 33/A. § (2) és (3) bekezdésében az „építési tevékenységet” szövegrész helyébe az „építési, valamint az ehhez szükséges tereprendezési, támfalépítési tevékenységet” szöveg lép.
+(12)
 
 (13) Az Étv.
 
-- a) 6/A. § (3) bekezdésében a „kerületi) vagy térségi” szövegrész helyébe a „kerületi), a térségi vagy a megyei” szöveg,
+- a)
 - b)
 - c)
-- d) 60. § (8) bekezdésében a „2019. december 31-e” szövegrész helyébe a „2021. december 31-e” szöveg,
-- e) 60. § (9) bekezdésében a „2019. december 31-ét” szövegrész helyébe a „2021. december 31-ét
+- d)
+- e)
 
 lép.
 
-(14) Hatályát veszti az Étv. 62. § (2) bekezdés 1. pontja.
+(14)
 
-101. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 94. §-a a következő (11)–(13) bekezdéssel egészül ki:
+#### 101. §
 
-„(11) Ha az ingatlan-nyilvántartás és az ingatlan művelési ága, fő rendeltetése vagy jogi jellege tekintetében közhiteles nyilvántartás között e rendelkezés hatálybalépésekor ellentmondás áll fenn, e rendelkezés hatálybalépésétől számított egy éven belül az ingatlan-nyilvántartásban szereplő ingatlan művelési ágát, fő rendeltetését, jogi jellegét összhangba kell hozni a közhiteles nyilvántartásban foglaltakkal. Az összhangba hozatalra irányuló eljárás a közhiteles nyilvántartást vezető hatóság részéről az ingatlanügyi hatóság hivatalbóli megkeresésével indul. Az ingatlan tulajdonosa vagy akinek jogi érdeke fűződik hozzá, az összhangba hozatalt bármikor kezdeményezheti az ingatlanügyi hatóságnál.
-
-(12) Ha a (11) bekezdés szerinti összhangba hozatal nem történik meg a (11) bekezdésben meghatározott határidőn belül, az ingatlan-nyilvántartásban szereplő adatok tekintendők irányadónak.
-
-(13) Ha e rendelkezés hatálybalépését követően történik változás a közhiteles nyilvántartásban az ingatlan művelési ága, fő rendeltetése vagy jogi jellege vonatkozásban, a közhiteles nyilvántartást vezető hatóság 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak a közhiteles nyilvántartással történő összhangba hozatala érdekében. Az ingatlan tulajdonosa vagy akinek jogi érdeke fűződik hozzá, az összhangba hozatalt bármikor kezdeményezheti az ingatlanügyi hatóságnál.”
-
-102. § (1) A Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvény (a továbbiakban: Btv.) 4/C. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A közmű és elektronikus hírközlési nyomvonalas építmények közül)
-
-„c) a közmű és elektronikus hírközlési nyomvonalas hálózatok és járulékos műtárgyaik kiépítésénél, illetve a meglévő hálózatok korszerűsítésénél a tájkép védelme és az esztétikai követelmények érvényesítése céljából az országos jelentőségű védett természeti területen a műszaki lehetőségek és a védett értékek védelmi szempontjainak mérlegelésével terepszint alatti elhelyezést kell biztosítani, ide nem értve, ha már meglévő oszlopsor (közös közmű oszlopsor) felhasználásával kerül sor az elektronikus hírközlési nyomvonalas hálózatok kiépítésére;”
-
-(2) A Btv. 19. §-a helyébe a következő rendelkezés lép:
-
-„19. § (1) A vízparti kemping területén – tulajdoni formától függetlenül –
-
-a) kereskedelmi célú szállásférőhely, vendéglátó épület és pihenést, testedzést szolgáló építmény helyezhető el,
-
-b) lakó- és üdülőépület, lakás nem alakítható ki.
-
-(2) A vízparti kempinget különleges terület kemping települési területfelhasználási egységbe kell sorolni, amelynek beépítettsége legfeljebb 15% lehet.
-
-(3) A kemping területének más területfelhasználási egységbe történő besorolása csak
-
-a) zöldterületként legfeljebb 3%-os beépítettséggel, vagy
-
-b) különleges terület strandként, legfeljebb 15%-os beépítettséggel
-
-valósítható meg.
-
-(4) A strand beépített területe legfeljebb a terület 10%-a lehet.
-
-(5) A strand területének legkevesebb 65%-át fásított zöldfelületként kell kialakítani és fenntartani.
-
-(6) Strand területén – tulajdoni formától függetlenül –
-
-a) csak vendéglátó épület, pihenést, testedzést, valamint az átöltözést és tisztálkodást szolgáló építmény helyezhető el,
-
-b) lakó- és üdülőépület, lakás nem alakítható ki.”
+#### 102. §
 
 #### 103. §
 

@@ -24,37 +24,13 @@ az egyes foglalkoztatási tárgyú törvények módosításáról
 
 10. §
 
-11. § (1) Az Flt. 57/B. § (4) bekezdés 3. pontja helyébe a következő rendelkezés lép:
-
-[A (3) bekezdés 2. pont ag) alpontja szerinti prioritási szint körében vizsgálandó szempontok:]
-
-„3. Fogyatékossággal élő munkavállaló, aki tartósan vagy véglegesen olyan érzékszervi, kommunikációs, fizikai, értelmi, pszichoszociális károsodással – valamint ezek bármilyen halmozódásával – él, amely a környezeti, társadalmi és egyéb jelentős akadályokkal kölcsönhatásban a hatékony és másokkal egyenlő társadalmi részvételt korlátozza vagy gátolja;”
-
-(2) Az Flt. 57/B. § (4) bekezdés 4. pontja helyébe a következő rendelkezés lép:
-
-[A (3) bekezdés 2. pont ag) alpontja szerinti prioritási szint körében vizsgálandó szempontok:]
-
-„4. Megváltozott munkaképességű személy.”
+11. §
 
 12. § (1)
 
 (2)
 
-(3) Az Flt. 58. § (5) bekezdés m) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„m) megváltozott munkaképességű személy:
-
-ma) a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján
-
-maa) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű,
-
-mab) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány alapján,
-
-mac) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű,
-
-mb) aki a komplex minősítés alól jogszabály rendelkezése alapján mentesül, rokkantsági ellátás folyósításának időtartama alatt,”
+(3)
 
 (4)
 
