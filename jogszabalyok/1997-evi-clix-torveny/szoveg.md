@@ -78,7 +78,9 @@ határozattal felhívja a kötelezettet vagy – a c) pontban meghatározott ese
 - a) a (3) bekezdés a) és b) pontjában foglalt esetben tizenöt napon belül,
 - b) a (3) bekezdés c) pontjában foglalt esetben 24 órán belül
 
-nem tesz eleget, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére – a rendőrség hajtja végre.
+nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes megyei (fővárosi) rendőr-főkapitányság ötszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki.
+
+(4a) Ha a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a közigazgatási bírság ismételt kiszabását követően sem teljesíti a (3) bekezdés szerinti határozatban foglaltakat, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére – a rendőrség hajtja végre.
 
 5. § (1) A kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a szervezetében létrehozott fegyveres biztonsági őrség esetén:
 
