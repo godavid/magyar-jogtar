@@ -378,11 +378,15 @@ köteles átadni.
 
 (2) Az állam ösztönzi továbbá, hogy az információs társadalommal kapcsolatos tevékenységet ellátó szervezetek az informatikáért felelős miniszterrel – amennyiben a szolgáltatás az Európai Gazdasági Térségről szóló megállapodás bármely részes államába is irányul, az Európai Bizottsággal is – együttműködve az érdekeltek számára tájékoztatást adhassanak a magatartási kódexeikről, azok alkalmazásának tapasztalatairól, az elektronikus kereskedelemre gyakorolt hatásairól.
 
-### Együttműködés a kormányzati eseménykezelő központtal
+### Együttműködés a biztonsági eseménykezelésben
 
-15/B. § (1) A szolgáltató az elektronikus információs rendszereket érintő biztonsági események megelőzésével, kezelésével összefüggő tevékenység vonatkozásában köteles együttműködni az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti kormányzati eseménykezelő központtal.
+15/B. § (1) A szolgáltató az elektronikus információs rendszereket érintő biztonsági események megelőzésével, kezelésével összefüggő tevékenység vonatkozásában köteles együttműködni az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 19. § (1) bekezdés szerinti eseménykezelő központtal.
 
-(2) A közvetítő szolgáltató a konkrét biztonsági esemény kezelése, kivizsgálása céljából a kormányzati eseménykezelő központ egyedi kérelme alapján köteles az általa kezelt és rendelkezésére álló adatokat a kormányzati eseménykezelő központ részére átadni.
+(2) A közvetítő szolgáltató a konkrét biztonsági esemény kezelése, kivizsgálása céljából az eseménykezelő központ egyedi kérelme alapján köteles az általa kezelt és rendelkezésére álló adatokat az eseménykezelő központ részére átadni.
+
+(3) A közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait a Kormány rendeletben határozza meg.
+
+(4) A 6/B. § (3) bekezdés szerinti hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.
 
 ### Vegyes és záró rendelkezések
 
@@ -501,7 +505,8 @@ látja el.
 - c) rendeletben állapítsa meg a 6/B. § szerinti jelentős biztonsági eseményekre vonatkozó, valamint a 6/B. § szerinti bejelentéssel összefüggő részletes szabályokat,
 - d) rendeletben jelölje ki a 6/B. § (3) bekezdése szerinti hatóságot és állapítsa meg hatáskörét, feladatait, eljárásrendjét,
 - e) rendeletben jelölje ki a nyilvántartó hatóságot, állapítsa meg a nyilvántartás vezetésére, a nyilvántartásba veendő adatok körére, az adatok törlésére vonatkozó részletes eljárási szabályokat,
-- f) rendeletben határozza meg a 6/C. § szerint kiszabható közigazgatási bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
+- f) rendeletben határozza meg a 6/C. § szerint kiszabható közigazgatási bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait,
+- g) rendeletben határozza meg a közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
 
 (2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 

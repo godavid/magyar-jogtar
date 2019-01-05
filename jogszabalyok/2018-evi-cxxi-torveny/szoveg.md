@@ -182,9 +182,19 @@ lép.
 
 #### 9. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló1997. évi CLIX. törvény módosítása
 
-61. §
+61. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény (a továbbiakban: Fbtv.) 4. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-62. §
+„(4) Ha a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a (3) bekezdés szerinti határozatban foglaltaknak
+
+a) a (3) bekezdés a) és b) pontjában foglalt esetben tizenöt napon belül,
+
+b) a (3) bekezdés c) pontjában foglalt esetben 24 órán belül
+
+nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes megyei (fővárosi) rendőr-főkapitányság ötszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki.”
+
+62. § Az Fbtv. 4. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a közigazgatási bírság ismételt kiszabását követően sem teljesíti a (3) bekezdés szerinti határozatban foglaltakat, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére – a rendőrség hajtja végre.”
 
 63. §
 
@@ -212,9 +222,23 @@ lép.
 
 69. §
 
-70. §
+70. § Az Ekertv.-ben az „Együttműködés a kormányzati eseménykezelő központtal” című alcím helyébe a következő alcím lép:
 
-71. §
+„Együttműködés a biztonsági eseménykezelésben
+
+15/B. § (1) A szolgáltató az elektronikus információs rendszereket érintő biztonsági események megelőzésével, kezelésével összefüggő tevékenység vonatkozásában köteles együttműködni az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 19. § (1) bekezdés szerinti eseménykezelő központtal.
+
+(2) A közvetítő szolgáltató a konkrét biztonsági esemény kezelése, kivizsgálása céljából az eseménykezelő központ egyedi kérelme alapján köteles az általa kezelt és rendelkezésére álló adatokat az eseménykezelő központ részére átadni.
+
+(3) A közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait a Kormány rendeletben határozza meg.
+
+(4) A 6/B. § (3) bekezdés szerinti hatóság kormányrendeletben meghatározott mértékű bírságot szabhat ki, ha a közvetítő szolgáltató nem teljesíti a (3) bekezdés szerinti feladatait.”
+
+71. § Az Ekertv. 17. § (1a) bekezdése a következő g) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„g) rendeletben határozza meg a közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.”
 
 #### 13. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
