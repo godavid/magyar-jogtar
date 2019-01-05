@@ -3165,6 +3165,8 @@ A tanú, a kirendelt szakértő, az okirat, illetve a szemletárgy birtokosa, é
 
 (3) A tizennegyedik életévét be nem töltött kiskorúval szemben kényszerítő eszközök nem alkalmazhatók, helyette a törvényes képviselőjével szemben alkalmazható az (1) bekezdés a) és b) pontja.
 
+(4) A bíróság az (1) bekezdés c) pontja szerinti elővezetés költségének megfizetésére az elővezetést elrendelő végzésben megjelölt személyt végzésben kötelezi. A végzés ellen az elővezetés költségének megfizetésére kötelezett személy külön fellebbezéssel élhet.
+
 #### 273. § [Utólagos kimentés]
 
 Ha a közreműködő a kötelezettsége megszegését a kényszerítő eszköz alkalmazása után – az ok valószínűsítése mellett – alapos okkal kimenti vagy kötelezettségét haladéktalanul teljesíti, a bíróság az intézkedést elrendelő végzést hatályon kívül helyezi.
@@ -4880,6 +4882,8 @@ A perre az a bíróság is illetékes, amelynek területén az alperes huzamos i
 
 (2) A perben az alperes részére a keresetlevél kézbesítésével egyidejűleg ügygondnokot kell kirendelni.
 
+(3) Az alperes 443. § (2) bekezdése és 444. § (2) bekezdése szerinti elővezetésének költségét az állam viseli.
+
 #### 439. § [Perindítás]
 
 (1) A keresetlevélnek – a 170. §-ban meghatározottakon túl – tartalmaznia kell
@@ -6479,6 +6483,8 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 (6) A 2017. december 31-én folyamatban lévő ügyekben a polgári perrendtartásról szóló 1952. évi III. törvény rendelkezéseit kell alkalmazni a (7) bekezdésben foglalt eltéréssel. A 2017. december 31-én folyamatban lévő ügyekben az elektronikus kapcsolattartás tekintetében az E-ügyintézési tv. 12., 20. és 57. §-át, 101–103. §-át, valamint VII., VIII. és XIV. Fejezetét kell alkalmazni.
 
 (7) A 2017. december 31-én folyamatban lévő ügyekben a polgári perrendtartásról szóló 1952. évi III. törvény 394/H. § (6) bekezdésében foglalt rendelkezés azzal az eltéréssel alkalmazandó, hogy az elektronikus úton kapcsolatot tartó a bírósági irat kézbesítéséről, annak az elektronikus kézbesítési tárhelyen történő elhelyezéséről a kézbesítési rendszer útján, az általa megadott elektronikus levélcímre – az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott idő elteltével – értesítést kap.
+
+(8) A 2017. december 31-én folyamatban lévő ügyekben a bíróság a polgári perrendtartásról szóló 1952. évi III. törvény 185. § (1) bekezdése szerinti elővezetés költségének megfizetésére az elővezetést elrendelő végzésben megjelölt személyt végzésben kötelezi, a polgári perrendtartásról szóló 1952. évi III. törvény 309. § (3) bekezdése szerinti elővezetés költségét az állam viseli.
 
 #### 631. § [Európai uniós követelményekre utaló rendelkezés]
 
