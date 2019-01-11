@@ -830,7 +830,7 @@ kezeli.
   - ab) alapítvány, egyesület, egyházi jogi személy,
   - ac) ab) alpontban meghatározottak fenntartásában működő intézmény,
 - b) a központi költségvetési szervként működő állami ménesgazdaság,
-- c) a 4/A. § (2) bekezdése szerinti miniszter által fenntartott szakképző iskola az agrárpolitikáért, az erdőgazdálkodásért, az élelmiszeriparért, a halgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítésre történő felkészítés keretében részt vevő tanulója tekintetében, ha a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében vesz részt gyakorlati képzésben.
+- c) a 4/A. § (2) bekezdése szerinti miniszter által fenntartott szakképző iskola az agrárpolitikáért, az erdőgazdálkodásért, a vadgazdálkodásért, az élelmiszeriparért, a halgazdálkodásért felelős miniszter hatáskörébe tartozó szakképesítésre történő felkészítés keretében részt vevő tanulója tekintetében, ha a tanuló a szakképző iskola termelői tevékenységet folytató saját tangazdaságában, tanüzemében vesz részt gyakorlati képzésben.
 
 (3) A nyilvántartást a tanuló gyakorlati képzését vállaló gyakorlati képzést szervező szervezet székhelye vagy a gyakorlati képzési célt szolgáló telephelye szerinti illetékes gazdasági kamara vezeti (a továbbiakban: nyilvántartást vezető szerv).
 

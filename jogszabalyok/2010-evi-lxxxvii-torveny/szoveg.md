@@ -332,7 +332,7 @@ követő napon.
 
 (8)
 
-21. § (1) Az NFA a földrendező és a földkiadó bizottságokról szóló törvényben foglalt esetben a részarány-tulajdonos részére – a részarány-tulajdonnak megfelelő aranykorona érték erejéig – földrészletet ajánl fel. A részarány-tulajdonos a felajánlott földrészlet tulajdonjogát a mezőgazdasági igazgatási szerv jogerős határozata alapján szerzi meg.
+21. § (1) Az NFA a földrendező és a földkiadó bizottságokról szóló törvényben foglalt esetben a részarány-tulajdonos részére – a részarány-tulajdonnak megfelelő aranykorona érték erejéig – földrészletet ajánl fel. A részarány-tulajdonos a felajánlott földrészlet tulajdonjogát a mezőgazdasági igazgatási szerv véglegessé vált határozata alapján szerzi meg.
 
 (2) Az NFA telekalakítás végrehajtásához szükséges tulajdonjogi változást eredményező szerződést köthet.
 
@@ -365,7 +365,7 @@ követő napon.
 
 22. § (1) A Nemzeti Földalapba tartozó földrészlet kötelező önkormányzati feladatok ellátásának elősegítése érdekében ingyenesen vagyonkezelésbe, temető létesítése céljából ingyenesen tulajdonba adható a földrészlet fekvése szerinti települési (fővárosban a kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat (a továbbiakban: önkormányzat), valamint a megyei önkormányzat részére. A Nemzeti Földalapba tartozó földrészlet szociális földprogram és a közfoglalkoztatási program megvalósítása céljából az önkormányzat számára ingyenesen vagyonkezelésbe adható. Az önkormányzat a vagyonkezelői jogot nem adhatja tovább.
 
-(2) A vagyonkezelésbe, illetve temető céljára a tulajdonba adás feltétele – a szociális földprogram, valamint közfoglalkoztatási program megvalósítása céljára vagyonkezelésbe adás kivételével – az ingatlanügyi hatóság által a termőföld más célú hasznosításának, illetve erdőművelési ágú földrészlet esetén az erdészeti hatóság által erdő igénybevételének engedélyezéséről hozott jogerős határozat.
+(2) A vagyonkezelésbe, illetve temető céljára a tulajdonba adás feltétele – a szociális földprogram, valamint közfoglalkoztatási program megvalósítása céljára vagyonkezelésbe adás kivételével – az ingatlanügyi hatóság által a termőföld más célú hasznosításának, illetve erdőművelési ágú földrészlet esetén az erdészeti hatóság által erdő igénybevételének engedélyezéséről hozott véglegessé vált határozat.
 
 (3) E § szerinti vagyonkezelésbe, illetve tulajdonba adásról az NFA javaslata alapján a Kormány nyilvános határozattal dönt.
 
@@ -383,7 +383,7 @@ követő napon.
 
 24/A. § Kisajátítást pótló adásvétel esetében az NFA legfeljebb a földrészlet piaci értékének 150%-áig terjedő összegben vállalhatja a vételár megfizetését.
 
-25. § A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján az államot megillető elővásárlási jogot az ott meghatározott módon az NFA gyakorolja.
+25. § A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján az államot megillető elővásárlási illetve vételi jogot az ott meghatározott módon az NFA gyakorolja.
 
 26. § (1) A Nemzeti Földalapba tartozó földrészlet eladására, vagyonkezelésére vagy haszonbérletére irányuló pályázati felhívást az NFA hirdeti meg.
 
