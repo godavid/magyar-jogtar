@@ -184,7 +184,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 (6) A közgyűlés időpontját, helyét és napirendjét tartalmazó értesítést minden tagnak a közgyűlés megtartására kitűzött időpontot legalább 15 nappal megelőzően meg kell küldeni és a helyben szokásos módon közzé kell tenni.
 
-(7) A tagot a közgyűlésen – két tanú által aláírt – írásbeli meghatalmazással ellátott személy is képviselheti. Egy képviselő legfeljebb száz tagot képviselhet.
+(7) A tagot a közgyűlésen – két tanú által aláírt – írásbeli meghatalmazással ellátott személy is képviselheti. Egy képviselő legfeljebb öt tagot képviselhet.
 
 (8) A közgyűlés határozata akkor érvényes, ha az összes társulati tag érdekeltségi egység aránya szerint számított, legalább kétharmados többsége, nyílt szavazással dönt az elfogadásáról. Egy tag egy szavazattal rendelkezik.
 
@@ -638,3 +638,13 @@ c) a cégbíróság a Cégtörvényben foglalt ok miatt megszünteti.
 68. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 23. §-a a következő (5) bekezdéssel egészül ki:
 
 „(5) A mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartási rendszeréből a vízitársulatok által törvény szerint kezelt adatokat a vízitársulat megkeresésére díjmentesen évente egy alkalommal átadja a vízitársulatnak.”
+
+69. § (1) Az egyes törvényeknek az agrárgazdaság versenyképességével összefüggő módosításáról szóló 2018. évi CXXXVII. törvény hatálybalépésének napjával
+
+- a) a taggal szemben csak olyan fizetési kötelezettség teljesítése miatti eljárás indítható,
+- b) a taggal szemben csak olyan fizetési kötelezettség állapítható meg, vagy
+- c) a tag a társulat részére csak olyan fizetési kötelezettséget köteles teljesíteni,
+
+amely a közgyűlés 23/A. § (5) bekezdése szerinti határozatán alapszik.
+
+(2) Az (1) bekezdésben foglaltakat a folyamatban levő bírósági, valamint végrehajtási eljárásokban is alkalmazni kell azzal, hogy a tag által a 2012. december 27. napját megelőzően hozott küldöttgyűlési határozat alapján a társulat részére már teljesített fizetés nem követelhető vissza.

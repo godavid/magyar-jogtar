@@ -73,7 +73,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 (4) A csere alapján csak azt a szerződő felet illetik meg a birtok-összevonási célú földcseréhez külön jogszabályban megállapított adó-, illeték-, és más kedvezmények, amelyiknél az (1) bekezdés szerinti feltételek teljesülnek.
 
-(5) A Földforgalmi törvény 32. §-ának alkalmazása során, a csereszerződés jóváhagyása esetén nem kell megkeresni a helyi földbizottságot az állásfoglalásának beszerzése céljából.
+(5)
 
 10. § A Földforgalmi törvény 17. §-át kell alkalmazni a 2014. május 1-jén tulajdonban lévő föld tulajdonjogának csere jogcímén történő átruházásával megszerzett föld területnagyságára is.
 
@@ -107,6 +107,8 @@ a csere birtok-összevonási célú földcserének minősül.
 
 (3) Az adás-vételi szerződésben rögzíteni kell azt is, hogy a vevő elővásárlásra jogosult-e. E jogosultság fennállása esetén meg kell jelölni a szerződésben azt is, hogy a jogosultság mely törvényen, és az ott meghatározott sorrend mely ranghelyén áll fenn. A szerződésen alapuló elővásárlási jog esetén ennek tényét kell rögzíteni az adás-vételi szerződésben.
 
+(4) Ha a szerző fél családi gazdálkodó, akkor az (1) bekezdésben foglaltakon túl a családi gazdaságot nyilvántartásba vevő hatóság megnevezését, valamint a családi gazdaság nyilvántartási számát is tartalmaznia kell a szerződésnek.
+
 14. § Visszavásárlási, vételi jog, illetve eladási jog alapítása esetén az adás-vételi szerződés a visszavásárlási, a vételi jog, illetve az eladási jog gyakorlásával jön létre. E jogok gyakorlására irányuló nyilatkozatnak tartalmaznia kell a Földforgalmi törvény 13–15. §-ában foglalt nyilatkozatokat is.
 
 15. § A Földforgalmi törvény 36. § (1) bekezdésében meghatározott, hatósági jóváhagyáshoz nem kötött, a föld tulajdonjogának a megszerzésére irányuló szerződés, valamint a tulajdonjog-átruházásnak nem minősülő tulajdonszerzés alapjául szolgáló okirat esetében, a szerző fél jogosultságának valamely hatósági nyilvántartásba vétele tekintetében a kérelem tartalmára és a szerződés, illetve az okirat benyújtásának módjára a hatósági nyilvántartásra vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
@@ -139,6 +141,14 @@ a csere birtok-összevonási célú földcserének minősül.
 
 (5) Az (1)–(3) bekezdésben foglalt feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
 
+18/B. § (1) Ha a tulajdonszerzés célja a Földforgalmi törvény 18. § (2) bekezdés d) pontja szerinti szaporítóanyag-előállítás folytatása, igazolni kell, hogy az elővásárlásra jogosultat a növénytermesztési hatóság földet használó és a vetőmag táblát bejelentő szaporítóanyag-előállítóként nyilvántartásba vette.
+
+(2) A Földforgalmi törvény 18. § (2) bekezdés d) pontja alapján tett, az adás-vételi szerződésre vonatkozó elfogadó nyilatkozat akkor vehető figyelembe, ha az elővásárlási joggal érintett földön nem áll fenn a föld használatát harmadik személy számára az adás-vételi szerződés megkötését követő legalább három évre biztosító földhasználati jogviszony.
+
+(3) A Földforgalmi törvény 18. § (2) bekezdés d) pontja szerinti elővásárlási jog gyakorlása során az elővásárlási jog jogosultjának az adás-vételi szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy az elővásárlási joggal érintett föld teljes területét az azon fennálló földhasználati jogviszonynak a nyilatkozat megtételének napján hatályos időtartamát követően, de legfeljebb a tulajdonjog megszerzésétől számított három éven belül birtokba veszi, továbbá a birtokba lépéstől számított tíz évből legalább hat évben az elővásárlási joggal érintett föld teljes területén saját nevében szaporítóanyag-előállítási tevékenységet fog folytatni.
+
+(4) Az (1)–(3) bekezdésben foglalt feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. §-a szerinti eljárásban vizsgálja.
+
 19. § A Földforgalmi törvény 19. § (5) bekezdésében meghatározott esetben az elővásárlásra jogosult az adás-vételi szerződést csak teljes egészében fogadhatja el. E rendelkezés alkalmazása során az elővásárlásra jogosultak sorrendjére a Földforgalmi törvény 18–19. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő elővásárlásra jogosult elővásárlási jogát megalapozó körülmény az adásvételi szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az elővásárlási joga fennáll, nyilatkozata új ajánlatnak minősül.
 
 20. § A Földforgalmi törvény 21. § (3) bekezdése alkalmazásában az elfogadó jognyilatkozat személyes átadásának kötelezettsége alól – a földalapkezelő szervezet mellett – az államot megillető elővásárlási jog esetén e jog gyakorlására jogosult más szervezet vagy személy, illetve az önkormányzat is mentesül.
@@ -169,12 +179,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 26. § (1) Öntözési célt szolgáló vízilétesítmény megvalósításához az érintett földrészlet vonatkozásában haszonélvezeti jog fennállása esetén a haszonélvezőnek, ennek hiányában a tulajdonosnak, állami tulajdonban álló ingatlan esetében az ingatlan-nyilvántartásba bejegyzett vagyonkezelőnek, vagyonkezelői jog fennállása hiányában a tulajdonosi joggyakorló szervezetnek a hozzájárulása szükséges.
 
-(2) Ha a földrészlet közös tulajdonban áll, a hozzájáruláshoz a 71. § (3) és (4) bekezdésének alkalmazásával
-
-- a) földfelszín alatt vezetett vízilétesítmény esetében az érintett személyek tulajdoni hányad alapján számított többségi,
-- b) földfelszín felett vezetett vízilétesítmény esetében az érintett személyek egyhangú
-
-döntése szükséges.
+(2) Ha a földrészlet közös tulajdonban áll, a hozzájáruláshoz a 71. § (3) és (4) bekezdésének alkalmazásával az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges.
 
 (3) A földhasználót a más használatában levő ingatlanon – a mezőgazdasági tevékenysége folytatásához szükséges öntözés érdekében, amennyiben az másként nem, vagy csak aránytalanul nagy nehézséggel vagy költséggel biztosítható – a víz odajutását, szétosztását és elvezetését biztosító öntözési szolgalom illeti meg, amely úgy gyakorolható, hogy az ne akadályozza, aránytalanul ne nehezítse a szolgalmi joggal terhelt föld művelési ágának megfelelő használatát, hasznosítását.
 
@@ -205,10 +210,11 @@ döntése szükséges.
 
 - a) a természetes személy ügyfél
   - aa) természetes személyazonosító adatait,
-  - ab) állampolgárságát,
+  - ab) állampolgárságára vonatkozó adatot,
   - ac) lakcímét,
   - ad) személyi azonosítóját a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény hatálya alá tartozó természetes személyek esetében,
   - ae) adóazonosító jelét vagy adószámát,
+  - af) kamarai tagsági azonosító számát.
 - b) a gazdálkodó szervezet
   - ba) megnevezését,
   - bb) székhelyét (telephelyét, fióktelepét),
@@ -219,7 +225,7 @@ döntése szükséges.
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdésben meghatározott adatokat a jogügylet hatósági jóváhagyásával és a szerzési korlátozások hatósági ellenőrzésével kapcsolatos feladatai ellátásával összefüggésben jogosult kezelni.
 
-(3) A mezőgazdasági igazgatási szerv az általa kezelt (1) bekezdés szerinti adatokat az ingatlanügyi hatóság részére, valamint a 35. §-ban meghatározott módon, az (1) bekezdés szerinti adatok közül az ügyfél nevét vagy megnevezését, lakcímét vagy székhelyét és az állampolgárságra vonatkozó adatát a helyi földbizottság részére adhatja át.
+(3) A mezőgazdasági igazgatási szerv az általa kezelt (1) bekezdés szerinti adatokat az ingatlanügyi hatóság részére, valamint a 35. §-ban meghatározott módon, az (1) bekezdés szerinti adatok közül az ügyfél nevét vagy megnevezését, lakcímét vagy székhelyét és az állampolgárságra vonatkozó adatát, valamint kamarai tagsági azonosító számát a helyi földbizottság részére adhatja át.
 
 29. § (1) A jogügylet hatósági jóváhagyása iránti eljárásban, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv részére
 
@@ -233,13 +239,31 @@ döntése szükséges.
 - h) az adóhatóság az adóhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból az adózó azonosítására, árbevételére és köztartozás-fizetési kötelezettségére vonatkozó adatokat,
 - i) a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartásban szereplő adatokat,
 - j) a családi gazdálkodókról vezetett nyilvántartásban szereplő adatokat,
-- k) a jegyző által a helyi földbizottságról és annak tagjairól vezetett nyilvántartásban szereplő adatokat
+- k)
 
 díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vonatkozó adatszolgáltatási formáktól, módoktól.
 
 (2) A mezőgazdasági igazgatási szerv az (1) bekezdésben meghatározott nyilvántartásokból átvett, illetve lekérdezett adatokat – ideértve a személyes adatokat is – kizárólag a Földforgalmi törvényben meghatározott feladatának ellátásához használhatja fel.
 
 (3) A mezőgazdasági igazgatási szerv az átvett és az adatlekérdezés, illetve adatfeldolgozás során keletkezett adatokat nem továbbíthatja.
+
+29/A. § (1) A helyi földbizottság jogosult kezelni:
+
+- a) a 28. § (3) bekezdésben foglaltak szerinti adatokat,
+- b) a 29. § (1) bekezdés a)–f) és i)–j) pontok szerinti adatokat, valamint
+- c) a Földforgalmi törvény 24. § (4) bekezdése alapján tudomására jutott azon adatokat, amelyeket az eljárás során az ügyfél a részére a felhívás alapján, tájékoztatásként adott.
+
+(2) A helyi földbizottság részére az (1) bekezdés a)–b) pontjai szerinti adatokat térítésmentesen kell szolgáltatni.
+
+(3) A helyi földbizottság az (1) bekezdésben foglaltak szerinti adatokat helyrajzi szám szerint is nyilvántartja.
+
+(4) A helyi földbizottság az (1) és (2) bekezdés szerinti adatokat feladatkörében eljárva
+
+- a) az eljárás tárgyát képező ügyben,
+- b) az állásfoglalásával érintett más ügyben, valamint
+- c) egyedi azonosításra nem alkalmas módon statisztikai célból
+
+használhatja fel.
 
 30. § (1) Az eljárás ügyintézési határideje 80 nap.
 
@@ -267,7 +291,7 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 - a) a keletkezést tanúsító, illetőleg konstituáló bejegyzési határozat eredeti vagy közjegyző által hitelesített példányát vagy a regisztráló hatóság (cégbíróság, törvényszék) által vezetett közhiteles nyilvántartás tartalmáról kiállított hiteles másolatot vagy a közjegyzőkről szóló törvényben meghatározottak szerint, a közhitelességű nyilvántartás tartalmáról kiállított közjegyzői tanúsítványt és
 - b) az eredeti vagy közjegyző által hitelesített aláírási címpéldányt.
 
-(3) Ha a szerző fél nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a mezőgazdasági igazgatási szerv az adatokat hivatalból szerzi be. A mezőgazdasági igazgatási szerv az ingatlanügyi hatóságtól hivatalból szerzi be a tulajdonjog megszerzéséhez szükséges, illetve a jogügylet hatósági jóváhagyásához szükséges feltételek közül a Földforgalmi törvény 27. § (2) bekezdés b) pont bb) alpontjában foglaltak megállapításához szükséges adatokat.
+(3) Ha a szerző fél nem igazolja az ügy elbírálásához szükséges nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatokat, a mezőgazdasági igazgatási szerv az adatokat hivatalból szerzi be. A mezőgazdasági igazgatási szerv az ingatlanügyi hatóságtól hivatalból szerzi be a tulajdonjog megszerzéséhez szükséges, illetve a jogügylet hatósági jóváhagyásához szükséges feltételek közül a Földforgalmi törvény 27. § (2) bekezdés b) pont ba) alpontjában foglaltak megállapításához szükséges adatokat.
 
 (4) Ha a jogügylet jóváhagyásához szükséges adatokat a cégnyilvántartás, az egyéni vállalkozók nyilvántartása, továbbá a 29. § (1) bekezdésében meghatározott valamely nyilvántartás tartalmazza és ezen adatok a nyilvántartásban elektronikus formában állnak rendelkezésre, a mezőgazdasági igazgatási szerv azokat elektronikus úton, közvetlen lekérdezéssel szerzi be.
 
@@ -292,14 +316,9 @@ díjmentesen kell szolgáltatni, függetlenül az egyes nyilvántartásokra vona
 - a) a jegyző által a mezőgazdasági igazgatási szerv részére megküldött okiratok közül a nem biztonsági okmányon szerkesztett, a Földforgalmi törvény 21. § (2) bekezdésében előírtak szerint a jegyző által anonimizált és a hirdetőtáblára kifüggesztett adás-vételi szerződés másolatát,
 - b) az elfogadó jognyilatkozat olyan másolatát, amelyen a mezőgazdasági igazgatási szerv felismerhetetlenné teszi a jognyilatkozatot tevő nevén, lakcímén vagy értesítési címén, valamint állampolgárságán kívül valamennyi természetes személyazonosító adatot.
 
-36. § (1) Ha a helyi földbizottság a Földforgalmi tv. 24. § (1) bekezdésében meghatározott határidőn belül az állásfoglalását nem adja ki, a mezőgazdasági igazgatási szerv a Földforgalmi tv. 26. §-a szerinti felhívás kibocsátásával egyidejűleg az eljárást felfüggesztheti az állásfoglalás beérkezéséig.
+#### 36. §
 
-(2) Az eljárást fel kell függeszteni
-
-- a) a helyi földbizottság állásfoglalása ellen benyújtott kifogás esetén a képviselő-testület kifogás elbírálásáról szóló döntésének a mezőgazdasági igazgatási szervhez való beérkezéséig,
-- b) a képviselő-testület kifogás elbírálásáról szóló döntésének megtámadása esetén a bíróság jogerős döntésének a mezőgazdasági igazgatási szervhez való beérkezéséig.
-
-37. § (1) A föld tulajdonjogának megszerzésére irányuló jogügylet jóváhagyására irányuló eljárásban a mezőgazdasági igazgatási szerv döntésének – az Ákr.-ben meghatározottakon túl – tartalmaznia kell a helyi földbizottság megnevezését, a helyi földbizottság elnökének nevét, a helyi földbizottság állásfoglalását, illetve állásfoglalásának kiadása hiányában ennek tényét.
+37. § (1)
 
 (2) A mezőgazdasági igazgatási szerv egyszerűsített döntést nem hozhat.
 
@@ -426,6 +445,12 @@ kell érteni.
 
 (4) Az (1) és (2) bekezdésben meghatározott feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.
 
+55/B. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés d) pontja szerinti szaporítóanyag-előállítás folytatása, igazolni kell, hogy az elővásárlásra jogosultat a növénytermesztési hatóság földet használó és a vetőmag táblát bejelentő szaporítóanyag-előállítóként nyilvántartásba vette.
+
+(2) A Földforgalmi törvény 46. § (3) bekezdés d) pontja szerinti előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a haszonbérleti szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy a haszonbérlet időtartamának legalább kétharmad ideje alatt az előhaszonbérleti joggal érintett föld teljes területén saját nevében szaporítóanyag-előállítási tevékenységet fog folytatni.
+
+(3) Az (1) és (2) bekezdésben meghatározott feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.
+
 56. § A Földforgalmi törvény 47. § (5) bekezdésében meghatározott esetben az előhaszonbérletre jogosult a haszonbérleti szerződést csak teljes egészében fogadhatja el. E bekezdés alkalmazása során az előhaszonbérletre jogosultak sorrendjére a Földforgalmi törvény 45–47. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő előhaszonbérletre jogosult előhaszonbérleti jogát megalapozó körülmény a haszonbérleti szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az előhaszonbérleti joga fennáll, nyilatkozata új ajánlatnak minősül.
 
 #### 15. A haszonbérleti szerződés megszűnése
@@ -502,36 +527,13 @@ kell érteni.
 
 (3) Az (1) bekezdés szerinti alhaszonbérbe adás esetén az előhaszonbérleti jog nem áll fenn, továbbá az alhaszonbérleti szerződéshez nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
 
-#### 18. Feles bérlet
+#### 18.
 
-66. § A feles bérleti szerződés alapján a feles bérlő meghatározott föld időleges használatára és hasznainak szedésére jogosult, és köteles ennek fejében a megtermelt termény felét vagy más hányadát a használatba adónak természetben átadni. A feles bérletre egyebekben a föld haszonbérletére vonatkozó szabályok megfelelően irányadók.
+#### 66. §
 
-#### 19. Részesművelés
+#### 19.
 
-67. § (1) A részesművelési szerződés alapján a szerződő felek közösen határozzák meg, hogy
-
-- a) a földön mit termeljenek,
-- b) a föld hasznosításának, megművelésének egyes feladataiból – így különösen talaj-előkészítés, szántás, vetés, metszés, növényápolás, növényvédelem, betakarítás – a szerződő felek milyen részt vállalnak,
-- c) a megtermelt terményből, a közös tevékenység nyereségéből milyen arányban részesednek, illetve a veszteség közöttük milyen arányban oszlik meg,
-- d) az elemi csapás vagy más rendkívüli esemény okozta kár esetén egymás között milyen módon viselik a kárt,
-- e) a föld használatához szükséges, a természetüknél fogva elhasználható dolgokat, munkaeszközöket, gazdasági felszerelési tárgyakat hogyan használják,
-- f) maguk közül kit jogosítanak fel harmadik személlyel szembeni képviseletre.
-
-(2) A részesművelési szerződés alapján a szerződő felek a tevékenységük kockázatát közösen viselik. Semmis az olyan megállapodás, amely valamely felet a veszteség, illetve a kár viselése alól mentesít vagy a nyereségben való részesedésből kizár.
-
-(3) Ha a szerződő felek harmadik személlyel kötött szerződésük alapján a veszteség viselésének arányától eltérően kötelesek helytállni, a részesművelési szerződésben meghatározottak szerint el kell számolniuk egymással.
-
-(4) A részesművelési szerződés alapján a föld a szerződő felek közös használatába kerül, a részesművelők mindegyike jogosult a föld teljes területének – használati megosztás nélküli – használatára.
-
-(5) Ha valamelyik fél nem teljesíti a részesművelési szerződésben vállalt feladatát, szolgáltatását, bármelyik fél követelheti tőle a szerződésszerű teljesítést. A teljesítésre való felhívás eredménytelensége esetén a felek bármelyike jogosult a mulasztó fél költségére pótolni az elmaradt szolgáltatást. A szerződő felek ezen jogát érvényesen nem lehet kizárni.
-
-(6) Ha valamelyik fél olyan magatartást tanúsít, amely veszélyezteti a közös tevékenység sikerét vagy a szerződéses célt, bármelyik fél követelheti az ettől való tartózkodást.
-
-(7) A részesművelési szerződés azonnali hatályú felmondással megszüntethető az (5) és (6) bekezdésben meghatározott esetben, ha a szerződő fél az írásban közölt felszólítás ellenére a szerződésből eredő lényeges kötelezettségét felróhatóan továbbra is megszegi, illetve a szerződésellenes magatartását felróhatóan továbbfolytatja, feltéve, hogy a felek nem pótolták az elmaradt szolgáltatást.
-
-(8) A szerződésnek bármilyen okból történő megszűnése esetén a közös használatba adott dolgokat vissza kell szolgáltatni a részesművelésbe adó félnek.
-
-(9) Az e §-ban nem szabályozott kérdésekben a részesművelési szerződésre a Földforgalmi törvénynek a haszonbérleti szerződésre vonatkozó szabályai az irányadók.
+#### 67. §
 
 #### 20. Szívességi földhasználat
 
@@ -831,7 +833,7 @@ javára történő átengedésére.
 
 (6) A földhasználó által bejelentett azonosító adatokat az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartás, illetve a cégnyilvántartás adataiból ellenőrizheti.
 
-95. § (1) A földhasználó a használatot annak megkezdésétől számított 30 napon belül köteles az ingatlanügyi hatósághoz nyilvántartásba vétel céljából bejelenteni, kivéve, ha a földhasználati nyilvántartásba vételi eljárás a 95/A. § (1) bekezdése szerint hivatalból indul meg. Ha a használat részesművelési szerződés alapján jött létre, a bejelentési kötelezettség a részesművelési szerződésben meghatározott, a szerződő felek közül kijelölt képviselőt terheli.
+95. § (1) A földhasználó a használatot annak megkezdésétől számított 30 napon belül köteles az ingatlanügyi hatósághoz nyilvántartásba vétel céljából bejelenteni, kivéve, ha a földhasználati nyilvántartásba vételi eljárás a 95/A. § (1) bekezdése szerint hivatalból indul meg.
 
 (2) Az (1) bekezdésben meghatározott földhasználati bejelentést az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: bejelentési adatlap) kell teljesíteni, amelyhez a (3) bekezdésben meghatározott okiratot kell csatolni, kivéve, ha a tulajdonos vagy a tulajdonosi joggyakorló szervezet, illetve az ingatlan-nyilvántartásba bejegyzett haszonélvezet vagy vagyonkezelői jog fennállása esetén a haszonélvező vagy a vagyonkezelő a földhasználó.
 
@@ -841,7 +843,7 @@ javára történő átengedésére.
 - b) a hatósági jóváhagyáshoz nem kötött földhasználati szerződés esetén a szerződés eredeti példányát vagy annak közjegyző által hitelesített másolatát,
 - c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatározott használati megosztásról szóló megállapodás vagy többlethasználati megállapodás eredeti példányát vagy annak közjegyző által hitelesített másolatát, vagy a 76. §-ban meghatározott sorsolás eredményéről szóló jegyzőkönyv eredeti vagy hitelesített másolatát és az ezekhez – szükség esetén – csatolt térképi kimutatást.
 
-(4) A (3) bekezdés b) pontjában meghatározott esetben a földhasználó, részesművelés esetén a képviselő (e fejezet alkalmazásában a továbbiakban együtt: földhasználó) a bejelentési adatlapon köteles nyilatkozni arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
+(4) A (3) bekezdés b) pontjában meghatározott esetben a földhasználó a bejelentési adatlapon köteles nyilatkozni arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
 
 (5) A földhasználó a 94. § (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett, az e törvény végrehajtására kiadott rendeletben meghatározott változásokat – ideértve a használat megszűnését is – 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: változás-bejelentési adatlap).
 
@@ -973,50 +975,36 @@ szolgáltat.
 
 ### XV. Fejezet — A HELYI FÖLDBIZOTTSÁG
 
-101. § A Földforgalmi törvény 68. § (1) bekezdésében a települési önkormányzat közigazgatási területén földet használó, földművesnek, illetve mezőgazdasági termelőszervezetnek nem minősülő más természetes és jogi személy alatt a Földforgalmi törvény 40. § (3) és (4) bekezdésében meghatározottakat kell érteni.
+101. § (1) A helyi földbizottság felhívására a vevő, illetve a jegyzékben szereplő elővásárlásra jogosult a Földforgalmi törvény 24. § (3) bekezdése szerinti körülményekről tizenöt napos határidőn belül írásban köteles adatot szolgáltatni.
 
-102. § (1) A helyi földbizottságról és annak tagjairól a jegyző nyilvántartást vezet. A nyilvántartás tartalmazza
+(2) Az (1) bekezdésben meghatározottak szerinti időtartam a Földforgalmi törvény 24. § (1) bekezdése szerinti időtartamba nem számít bele.
 
-- a) a természetes személy tag, valamint a mezőgazdasági termelőszervezet tag, továbbá a Földforgalmi törvény 40. § (3) és (4) bekezdésében meghatározott köznevelési vagy felsőoktatási intézmény, bevett egyház vagy annak belső egyházi jogi személye képviseletében eljáró személy
-  - aa) természetes személyazonosító adatait,
-  - ab) állampolgárságát,
-  - ac) lakcímét;
-- b) a mezőgazdasági termelőszervezet tag megnevezését, székhelyét és telephelyét, valamint az a) pontban foglalt köznevelési vagy felsőoktatási intézmény, bevett egyház vagy annak belső egyházi jogi személye megnevezését és székhelyét;
-- c) a tagság kezdő és a lejárati időpontját;
-- d) a helyi földbizottság elnökének megjelölését az a) pontban szereplő azon tag esetében, akit a tagok maguk közül elnökként választottak;
-- e) a helyi földbizottság értesítési címét;
-- f) a 103. §-ban meghatározott esetben a működésképtelenség tényét.
+102. § (1) A helyi földbizottság ülésén részt vehet az eladó, a vevő, az elővásárlási elfogadó nyilatkozatot tevő személy.
 
-(2) Az (1) bekezdésben foglalt adatok közérdekből nyilvános adatoknak minősülnek. A jegyző haladéktalanul törli a nyilvántartásból azt a személyt, akinek a tagsági viszonya bármely okból megszűnt.
+(2) A helyi földbizottság ülésén tárgyalandó szerződésekről a Kamara internetes honlapján, illetve a Kamara illetékes területi szerve hirdetőtábláján tájékoztatót tesz közzé az érintett ingatlanok helyrajzi számának és az ülés helyszínének, időpontjának megjelölésével.
 
-(3) A jegyző a mezőgazdasági igazgatási szerv részére e törvényben meghatározott feladatai ellátása céljából hozzáférést biztosít az (1) bekezdés szerinti nyilvántartáshoz.
+(3) A helyi földbizottság a felet szükség szerint meghallgathatja. A helyi földbizottságnak a felet annak kérelmére meg kell hallgatnia.
 
-(4) A helyi földbizottság, illetve annak tagja a Földforgalmi törvény 23. § (5) és (6) bekezdése és e törvény alapján megismert személyes adatokat tartalmazó iratokat köteles zártan kezelni, azokat kizárólag e törvényben meghatározott feladata ellátása céljából, legfeljebb a mezőgazdasági igazgatási szerv döntésének a részére való közléséig kezelheti. Az e bekezdés szerinti iratokba más személy vagy szerv részére nem engedhet betekintést, továbbá azokat nem hozhatja nyilvánosságra, és – a Földforgalmi törvény 30. § (4) bekezdésében meghatározott eset kivételével – nem továbbíthatja.
+103. § A helyi földbizottság állásfoglalása tartalmazza:
 
-103. § (1) Ha a településen 2014. május 1-jéig a helyi földbizottság tagjainak megválasztására nem kerül sor vagy a megválasztott helyi földbizottság működésképtelen, a mezőgazdasági igazgatási szerv a föld tulajdonjoga megszerzésének a hatósági jóváhagyása iránti eljárásban a Kamarának a föld fekvése szerinti területi szervét keresi meg állásfoglalás kiadása céljából. A helyi földbizottság működésképtelen, ha a feladatainak ellátását a tagjainak megválasztásától számított 30 napon belül nem kezdi meg vagy 30 napot meghaladóan szünetelteti, illetve, ha a tagok száma a Földforgalmi törvény végrehajtására kiadott rendeletben meghatározott létszám alá csökken.
+- a) az eljáró szervezet megnevezését,
+- b) az érintett természetes személy személyazonosító adatait,
+- c) az érintett földrészletek azonosítására szolgáló adatokat,
+- d) az érintett fél vonatkozásában a szerződés létrejötte támogatásának vagy nem támogatásának kimondását,
+- e) az indokolásban:
+  - ea) a megállapított tényállást,
+  - eb) az ügyfél által a helyi földbizottság felhívására a Földforgalmi törvény 24. § (3) bekezdésében foglaltakról szolgáltatott adatokat vagy az adatszolgáltatás hiányát,
+  - ec) az állásfoglalás kialakításánál figyelembe vett és az állásfoglalást alátámasztó szempontokat,
+  - ed) az ec) alpont szerinti szempontok kormányrendeletben előírt mérlegelésének eredményét,
+- f) az állásfoglalás kiadásának dátumát, a kiadmányozó aláírását.
 
-(2) Az (1) bekezdés szerinti esetben a Földforgalmi törvény és e törvény alkalmazása során a helyi földbizottság alatt a Kamara területi szervét kell érteni. A jegyző a 102. § (1) bekezdése szerinti nyilvántartásban annak tényét tünteti fel, hogy a helyi földbizottság feladatait a Kamara látja el.
+#### 103/A. §
 
-103/A. § (1) A helyi földbizottság az állásfoglalását a települési önkormányzat jegyzője annak kézhezvételét követő 3 napon belül a települési önkormányzat polgármesteri hivatala, illetve közös önkormányzati hivatal esetében a közös önkormányzati hivatal hirdetőtábláján 5 napra kifüggeszti. Az állásfoglalás ellen – 5 napon belül – az eladó, a vevő, illetve a határidőben elfogadó nyilatkozatot tevő elővásárlásra jogosult kifogást terjeszthet elő a települési önkormányzat képviselő-testületénél. A kifogást a jegyzőhöz kell benyújtani. A kifogás benyújtásáról és annak időpontjáról a jegyző haladéktalanul értesíti a mezőgazdasági igazgatási szervet.
+#### 103/B. §
 
-(2) A képviselő-testület megváltoztatja a kifogással érintett állásfoglalást, ha annak kiadására a Földforgalmi törvény 23–25. §-a megsértésével került sor, egyébként a kifogást elutasítja. Az elkésett kifogást a képviselő-testület érdemi vizsgálat nélkül elutasítja. A képviselő-testület a kifogást 15 napon belül zárt ülésen bírálja el. A képviselő-testület a döntését jegyző útján közli.
+#### 103/C. §
 
-(3) Kifogás benyújtása esetén e törvény és a Földforgalmi törvény alkalmazásában a helyi földbizottság állásfoglalásának közlésétől számított határidők a képviselő-testület döntése közlésétől számítandók.
-
-103/B. § (1) A helyi földbizottság felett a fővárosi és megyei kormányhivatal törvényességi felügyeletet gyakorol.
-
-(2) A fővárosi és megyei kormányhivatal törvényességi felügyeleti jogkörében ellenőrzi, hogy a helyi földbizottság
-
-- a) működésével kapcsolatos belső szabályzatai megfelelnek-e a jogszabályoknak,
-- b) működése, határozatai megfelelnek-e a jogszabályoknak és a belső szabályzatainak.
-
-(3) Ha a törvényességi felügyeleti jogkör gyakorlása során a fővárosi és megyei kormányhivatal törvénysértést észlel, megfelelő határidő megjelölésével – a jegyző útján – felhívja a helyi földbizottságot a törvényesség helyreállítására.
-
-(4) Ha a helyi földbizottság működésképtelen vagy a működésképtelenné válás közvetlen veszélye fenyeget, a fővárosi és megyei kormányhivatal megfelelő határidő megjelölésével felhívja a helyi földbizottságot, hogy állítsa helyre a törvényes működését, továbbá felhívja a jegyzőt, hogy a helyi földbizottság ülését hívja össze.
-
-103/C. § Ha a jegyző arról értesíti a fővárosi és megyei kormányhivatalt, hogy a 103/B. § (4) bekezdése szerinti felhívásban megszabott határidő eredménytelenül járt le, a fővárosi és megyei kormányhivatal felhívja a mezőgazdasági igazgatási szervet, hogy a 103. § (1) bekezdése szerint járjon el.
-
-103/D. § A képviselő-testület határozata ellen indított közigazgatási perben hozott elsőfokú ítélet ellen fellebbezésnek van helye.
+#### 103/D. §
 
 ### XVI. Fejezet — FELHATALMAZÓ RENDELKEZÉSEK
 
@@ -1058,7 +1046,7 @@ rendeletben állapítsa meg.
 
 (2)
 
-107. § Az 1. és 2. §, a 3–10. §, a 18/A. §, a 20. §, a 41–42. §, a 45. §, az 55/A. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 110/C. §, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
+107. § Az 1. és 2. §, a 3–10. §, a 18/A–18/B. §, a 20. §, a 41–42. §, a 45. §, az 55/A–55/B. §, a 64–65. §, a 77. § (1) bekezdése, a 89–90. §, a 101. §, a 103–103/C. §, a 105. §, a 106. § (2) bekezdése, a 110/C. §, a 111–119. § és a 148. § az Alaptörvény P) cikk (2) bekezdése alapján, a 142. § (1)–(3) bekezdése, (7) bekezdés a)–c) és f)–h) pontja és (8) bekezdése az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
@@ -1067,6 +1055,14 @@ rendeletben állapítsa meg.
 (2) Semmis a föld használati jogosultságának átengedéséről szóló olyan szerződés, amelyet az (1) bekezdésben meghatározott időtartamig fennálló haszonélvezeti jog jogosultja a haszonélvezeti jog megszűnését követő időtartamra kötött.
 
 (3) Az (1) bekezdésben meghatározott időtartamig fennálló haszonélvezeti jog jogosultja által a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény hatályba lépése előtt létesített, a föld használati jogosultságának átengedéséről szóló szerződés 2014. szeptember 1-jén a törvény erejénél fogva megszűnik.
+
+(4) Ha a bíróság döntése alapján az (1) bekezdés alapján megszűnt jog visszaállítása szükséges, azonban ezen jog alaki vagy tartalmi hiba folytán az eredeti bejegyzése időpontjában hatályos jogszabályok alapján sem kerülhetett volna bejegyzésre, az ingatlanügyi hatóság értesíti az ügyészt és az eljárását az ügyész vizsgálata és az az alapján indított per befejezéséig felfüggeszti.
+
+(5) A (4) bekezdés szerinti hibának kell tekinteni, ha
+
+- a) a használat jogának jogosultja jogi személy,
+- b) a haszonélvezeti jog vagy a használat joga az ingatlan-nyilvántartásba 2001. december 31-ét követően került bejegyzésre jogi személy vagy nem magyar állampolgár jogosult javára,
+- c) a haszonélvezeti jog vagy a használat jogának bejegyzése iránti kérelem benyújtásakor az akkor hatályos jogszabályok alapján a jog megszerzéséhez más hatóság által kiadott igazolás vagy engedély volt szükséges, és ezen okiratokat az ügyfél nem nyújtotta be.
 
 108/A. § 2014. május 5. napján minden olyan szerződés, szerződési kikötés, illetve szerződéses kötelezettségvállalás hatálya megszűnik, amely a felek rendelkezése szerint a földre vonatkozó jogszabályi tilalmak és korlátozások megszűnése esetére vagy ennek feltételével állt volna be, és egyébként nem minősül semmisnek. Az ilyen szerződésből, szerződési kikötésből, illetve kötelezettségvállalásból jogot, követelést vagy bármely más igényt érvényesíteni nem lehet. A 2014. május 5. napját követően kötött ilyen tartalmú szerződés, alkalmazott szerződési kikötés vagy vállalt kötelezettség nem lép hatályba.
 
@@ -1086,6 +1082,14 @@ rendeletben állapítsa meg.
 110/B. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosításáról szóló 2016. évi LXI. törvénnyel (a továbbiakban: Módtv.2.) megállapított 103/D. §-t a Módtv.2. hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
 
 110/C. § A Módtv.2.-vel megállapított 18/A. §-t és 55/A. §-t a Módtv.2. hatálybalépését követően indult hatósági jóváhagyási eljárásban, vagy ha nem szükséges a mezőgazdasági igazgatási szerv jóváhagyása, akkor az ingatlan-nyilvántartási eljárásban kell alkalmazni.
+
+110/D. § (1) Az egyes törvényeknek a mező- és erdőgazdasági földek forgalmával összefüggő módosításáról szóló 2018. évi CXXXVI. törvénnyel (a továbbiakban: 2018. évi CXXXVI. törvény) megállapított 95. § (1) bekezdését a 2018. évi CXXXVI. törvény hatálybalépését megelőzően kötött, de 2018. évi CXXXVI. törvény hatálybalépéséig a földhasználati nyilvántartásba még be nem jelentett részesművelési szerződés esetében a 2018. évi CXXXVI. törvény hatálybalépését követően is alkalmazni kell.
+
+(2) A 2018. évi CXXXVI. törvény hatálybalépését megelőzően kötött feles bérleti és részesművelési szerződésen alapuló, de a földhasználati nyilvántartásba vétel céljából a 95. § (1) bekezdésben foglalt határidőn túl bejelentett földhasználat bejegyzését az ingatlanügyi hatóság visszautasítja.
+
+(3) A 2018. évi CXXXVI. törvénnyel megállapított 101. és 102. §-t a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő azon eljárásokban – a megismételt eljárásokat is ideértve – is alkalmazni kell, amelyek esetében a mezőgazdasági igazgatási szerv még nem kereste meg a helyi földbizottságot az állásfoglalása kiadása céljából.
+
+(4) A 2018. évi CXXXVI. törvénnyel megállapított 108. § (4) és (5) bekezdését a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### XIX. Fejezet — A FÖLDHASZNÁLATI SZERZŐDÉSEKRE VONATKOZÓ ÁTMENETI RENDELKEZÉSEK
 

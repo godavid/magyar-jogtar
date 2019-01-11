@@ -27,7 +27,8 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 - f) közeli hozzátartozó: a Polgári Törvénykönyv szerinti közeli hozzátartozó;
 - g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által létrehozott köztestülete;
 - h) ÖVTJ: az önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló mindenkor hatályos jogszabályban meghatározott tevékenységek jegyzéke;
-- i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg.
+- i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg;
+- j) küldöttválasztó közgyűlés: a kamarai tagok olyan ülés tartása nélküli választói akaratnyilvánító fóruma, amelynek kizárólagos célja a megyei küldöttgyűlési küldöttek megválasztása.
 
 2/A. § (1) E törvény alkalmazásában agrárgazdasági tevékenység folytatásának kell tekinteni, ha az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási nyilvántartási feladatokat ellátó szervnek, vagy a cégbíróságnak az érintett személyről vezetett nyilvántartásában szerepelnek.
 
@@ -157,7 +158,7 @@ nyilvántartást vezet.
   - af) az anyja nevét,
   - ag) az adóazonosító jelét, adószámát,
   - ah) az egyéni vállalkozói nyilvántartási számát, székhelyét, telephelyét, fióktelepét, egyéni vállalkozói tevékenység szüneteltetésének kezdetét és végét,
-  - ai) az őstermelői igazolványa számát, annak hatályossági időtartamát,
+  - ai) az őstermelői igazolványa számát, annak hatályossági és érvényességi időtartamát, valamint a biztosítási jogviszonyára vonatkozó adatát;
   - aj) a családi gazdálkodói nyilvántartási számát,
   - ak) a közös őstermelői igazolványban szereplő családtagjainak aa), ab), ac), ae), af) ag), al), ar) alpontok szerinti adatait,
   - al) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántartott ügyfél azonosító számát, technikai azonosítóját,
@@ -190,7 +191,7 @@ nyilvántartást vezet.
 
 (3) A gazdaságszerkezeti nyilvántartás tartalmazza a tag által
 
-- a) használt földterület művelési ágára és nagyságára vonatkozó adatokat;
+- a) használt földterületre vonatkozó adatokat;
 - b) folytatott agrárgazdasági tevékenységből származó árbevételének adatait;
 - c) igénybe vett agrár-, vidékfejlesztési, valamint halászati támogatási jogcímeket, a támogatás alapjául szolgáló mértéket, a támogatáshoz kapcsolódó térinformatikai és az azzal összefüggő adatokat, a támogatás összegét, valamint a mezőgazdasági vagyoni értékű jogokat;
 - d) az agrárgazdasági tevékenysége folytatásához használt épületekre és építményekre, valamint
@@ -272,10 +273,10 @@ használhatja fel.
 
 (2) Az állami adóhatóság a tárgyévet követő év szeptember 1. napjáig köteles adatot szolgáltatni az agrárkamara részére
 
-- a) a tárgyévben adóbevallást készítő őstermelő nevéről, adóazonosító jeléről, valamint őstermelői tevékenységéből származó bevételéről,
+- a) a tárgyévben adóbevallást készítő őstermelő nevéről, adóazonosító jeléről, őstermelői tevékenységéből származó bevételéről, valamint arról, hogy őstermelőként rendelkezik-e biztosítási jogviszonnyal,
 - b) a bevallásában az 1. melléklet szerinti agrárgazdasági tevékenységet feltüntető egyéni vállalkozó, egyéni cég nevéről, adóazonosító jeléről, valamint a vállalkozói tevékenységből származó tárgyévi, a kapott támogatást nem tartalmazó bevételéről,
-- c) a bevallásában a 2. melléklet szerinti agrárgazdasági tevékenységet folytató gazdálkodó szervezet agrárkamarai tag esetében a tárgyévi nettó árbevételéről,
-- d) a mezőgazdasági termelőszervezetként nyilvántartásba vett jogalany tárgyévi nettó árbevételéről.
+- c) a bevallásában a 2. melléklet szerinti agrárgazdasági tevékenységet folytató gazdálkodó szervezet agrárkamarai tag esetében a tárgyévi nettó árbevételéről, ennek hiányában a tárgyévi bevétel rendelkezésre álló adatairól,
+- d) a mezőgazdasági termelőszervezetként nyilvántartásba vett jogalany tárgyévi nettó árbevételéről, ennek hiányában a tárgyévi bevétel rendelkezésre álló adatairól.
 
 (2a) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni az agrárkamara részére a tárgyévben elhunyt őstermelő, az agrárkamarai tag egyéni vállalkozó adóazonosító jeléről és adószámáról, valamint megszűnt agrárkamarai tag egyéni cég nevéről és adószámáról.
 
@@ -341,11 +342,11 @@ használhatja fel.
 - f) az agrárkamara által szervezett rendezvényen az alapszabályban meghatározottak szerint részt vegyen,
 - g) az agrárkamara által nyújtott alapszolgáltatásokat térítésmentesen, valamint egyéb szolgáltatásokat térítés ellenében igénybe vegyen.
 
-(2) Az (1) bekezdés a)–c) pontja szerinti jogokat a gazda közvetlenül, a gazdálkodó szervezet törvényes képviselője útján gyakorolhatja.
+(2) Az (1) bekezdés a)–c) pontja szerinti jogokat – amennyiben az alapszabály másképp nem rendelkezik – a gazda közvetlenül, a gazdálkodó szervezet törvényes képviselője útján gyakorolhatja.
 
 (3) A pártoló vagy tiszteletbeli tag jogosult
 
-- a) tanácskozási joggal részt venni a megyei küldöttválasztó közgyűlésen,
+- a)
 - b) igénybe venni az agrárkamara által nyújtott – az alapszabály által meghatározott körű – szolgáltatásokat.
 
 (4) A jogok gyakorlása során valamennyi tagot azonos szavazati jog illet meg.
@@ -391,6 +392,8 @@ használhatja fel.
 (4) Az agrárkamara a jogszabályban meghatározottak, valamint a mezőgazdasági támogatási szervvel kötött megállapodásban foglaltak szerint átruházott illetve, együttműködői feladatokat lát el.
 
 (5) Az agrárkamara a földről szóló törvényben meghatározottak szerint eljár a közös tulajdonban álló föld használati rendjének hatósági úton történő megállapítására irányuló eljárásban.
+
+(6) Az agrárkamara a mezőgazdasági igazgatási szervvel kötött megállapodásban foglaltak szerint közreműködik a mező- és erdőgazdasági földek forgalmához kapcsolódó hatósági ellenőrzések lefolytatásában.
 
 13. § Az agrárkamara közfeladatai ellátása érdekében az információs önrendelkezési jogról és az információszabadságról szóló törvény és az agrárkamara alapszabályában rögzített adatgyűjtésre vonatkozó rendelkezéseknek megfelelően tagjairól adatokat gyűjt, valamint azokat kezeli, összesíti és nyilvántartja. Az adatszolgáltatás körét az országos küldöttgyűlés tagjai kétharmadának szavazatával állapítja meg.
 
@@ -472,7 +475,10 @@ használhatja fel.
 - a) országos szaktanácsadói hálózatot működtet;
 - b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
 - c) az országos szakmai gazdasági érdek-képviseleti szervezetekkel együttműködve ellátja a szakképzésről szóló törvényben és végrehajtási rendeletében, valamint a felnőttképzésről szóló törvényben és végrehajtási rendeletében meghatározott feladatait, szervezi és végzi a mesterképzést és a mestervizsgáztatást;
-- d) országos jégkármegelőző rendszert működtet.
+- d) országos jégkármegelőző rendszert működtet;
+- e) ellátja az élelmiszerlánc-felügyeletért, illetve az erdőgazdálkodásért felelős miniszter által rendeletben meghatározott, a mezőgazdasági és az erdészeti gépkezelői jogosítvány megszerzésével összefüggő feladatokat;
+- f) ellátja a Digitális Agrárakadémia működtetésével összefüggő feladatokat,
+- g) ellátja a helyi földbizottsági feladatokat.
 
 (2) A kamara tagjai részére térítésmentes alapszolgáltatásként
 
@@ -521,7 +527,7 @@ használhatja fel.
 - e) az e törvényben meghatározottakon túl a tagok jogait és kötelezettségeit;
 - f) a választási névjegyzék és a tagjegyzék vezetésének részletes szabályait,
 - g) a kamarai tagdíj mértékét, valamint a tagdíj fizetésének módját, feltételeit,
-- h) a küldöttválasztás részletes szabályait;
+- h)
 - i) a küldöttgyűlésébe történő delegálás részletes szabályait;
 - j) a kamarai osztályok számát, termékkörét, összehívásának módját és határozathozataluk rendjét;
 - k) a küldöttgyűlés küldötteinek, az elnökség, az ellenőrző és etikai bizottság tagjainak számát;
@@ -552,7 +558,8 @@ használhatja fel.
 - g) az éves saját bevételt meghaladó kölcsön felvételéről való döntéshozatal;
 - h) az agrárkamara éves költségvetésének meghatározásáról, az éves beszámoló és mérleg elfogadásáról való döntéshozatal;
 - i) a kamarai tagdíj mértékéről és megfizetésének módjáról való döntéshozatal;
-- j) az agrárkamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása.
+- j) az agrárkamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása;
+- k) az országos, valamint a megyei küldöttgyűlési küldöttek választása rendjének a megállapítása.
 
 (3) Az alapszabály – a (2) bekezdésben meghatározottakon túl – más ügyet is az országos küldöttgyűlés hatáskörébe utalhat.
 
@@ -596,9 +603,10 @@ használhatja fel.
 
 - a) az agrárkamara elnöke,
 - b) az agrárkamara alelnökei,
-- c) az agrárkamara megyei szervezetének elnökei.
+- c) az agrárkamara megyei szervezetének elnökei,
+- d) országos etikai bizottság elnöke.
 
-(3) Az elnökség ülésein az agrárkamara főigazgatója, valamint a kamarai osztályok vezetői állandó meghívottként tanácskozási joggal vesznek részt.
+(3) Az elnökség ülésein az agrárkamara főigazgatója, valamint az országos kamarai osztályok elnökei állandó meghívottként tanácskozási és javaslattételi joggal vesznek részt.
 
 ### Az elnök, az alelnökök
 
@@ -647,13 +655,25 @@ használhatja fel.
 
 ### A főigazgató és a kamara ügyintéző szervezete
 
-27. § (1) A főigazgató az agrárkamara országos ügyintéző szervezetének, az igazgató az agrárkamara megyei (fővárosi) ügyintéző szervezetének vezetője, akik az agrárkamarával munkaviszonyban állnak. A főigazgatót az elnök irányítja. Főigazgató és igazgató csak az lehet, aki a közszolgálati tisztviselők jogállásáról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető. A főigazgató kinevezését megelőzően annak személyéről az agrárpolitikáért, az agrár-vidékfejlesztésért felelős miniszter véleményt nyilvánít.
+27. § (1) A főigazgató az agrárkamara országos ügyintéző szervezetének a vezetője, aki az agrárkamarával munkaviszonyban áll.
 
-(2) A főigazgató az agrárkamara megyei szervezete elnökével történt előzetes egyeztetés alapján gyakorolja az igazgatók és az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat.
+(2) Főigazgató csak az lehet, aki a kormányzati igazgatásról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető.
 
-(3) A főigazgató felett a munkaviszony létesítésével és megszüntetésével, továbbá a munkaszerződés módosításával kapcsolatos munkáltatói jogokat az elnökség, az egyéb munkáltatói jogokat pedig az elnök gyakorolja.
+(3) A főigazgató felett a munkáltatói jogokat az elnök gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az elnökség egyetértésével dönthet.
 
-(4) Az agrárkamara hatáskörébe utalt közigazgatási ügyekben a főigazgató a közigazgatási szerv vezetőjeként jár el. Ezekben az ügyekben ügyintézőként csak az járhat el, aki a közszolgálati tisztviselők jogállásáról szóló törvény szerint köztisztviselőnek vagy ügykezelőnek kinevezhető.
+(4) A főigazgatót az elnök irányítja.
+
+(5) A főigazgató az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat – a (6) és (7) bekezdésben foglalt eset kivételével – önállóan gyakorolja.
+
+(6) A főigazgató megyei (fővárosi) ügyintéző szervezeti egységének vezetője felett a munkáltatói jogokat a főigazgató gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az agrárkamara adott megyei szervezete elnökével történt előzetes egyeztetés alapján dönthet.
+
+(7) Az elnök közvetlen irányítása alá tartozó szervezeti egység vezetője felett a munkáltatói jogokat az elnök, az érintett szervezeti egység munkavállalói felett pedig az elnök által irányított szervezeti egység vezetője gyakorolja.
+
+(8) Az igazgató az agrárkamara országos ügyintéző szervezet önálló szervezeti egységének, a megyei (fővárosi) ügyintéző szervezetének vezetője, aki az agrárkamarával munkaviszonyban áll. Igazgató csak az lehet, aki a kormányzati igazgatásról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető.
+
+(9) Az igazgatót az agrárkamara szervezeti és működési szabályzatában meghatározottak szerint az elnök, valamint a főigazgató irányítja.
+
+(10) Az agrárkamara hatáskörébe utalt közigazgatási ügyekben az agrárkamara szervezeti és működési szabályzatában meghatározottak szerint a főigazgató a közigazgatási szerv vezetőjeként jár el. Ezekben az ügyekben ügyintézőként csak az járhat el, aki a kormányzati igazgatásról szóló törvény szerint kormánytisztviselőnek kinevezhető.
 
 27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, – e törvény eltérő rendelkezése hiányában – első fokon az agrárkamara megyei ügyintéző szervezete jár el. A megyei ügyintéző szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az agrárkamara országos ügyintéző szervezete jogosult.
 
@@ -805,100 +825,15 @@ használhatja fel.
 
 ### X. Fejezet — ÁTMENETI RENDELKEZÉSEK
 
-45. § (1) Az agrárkamara az első kamarai választásokat követően, a küldöttgyűlés megalakulásával és az alapszabály elfogadásával egyidejűleg jön létre. Az agrárkamara alakuló ülését az első választások lezárását követő harmincadik napon, de legkésőbb 2013. március 31-ig kell megtartani.
+#### 45. §
 
-(2) Az agrárkamara létrejöttének napján a törvény erejénél fogva az agrárkamara tagjává válnak az agrárkamara létrejöttének napján agrárgazdasági tevékenységet folytató gazdák, gazdálkodó szervezetek.
+#### 46. §
 
-(3) Az agrárkamarai tagságra kötelezett személyek, valamint akik a törvény alapján jogosultak az önkéntes kamarai tagság létesítésére, az agrárkamarai választási tagjegyzék összeállítása érdekében 2012. november 30-ig jelentkezhetnek be a Magyar Agrárkamara által vezetett agrárkamarai választási tagjegyzékbe és egyidejűleg kötelesek egyszeri alkalommal ötezer forint nyilvántartásba vételi díjat a Magyar Agrárkamara részére megfizetni. A nyilvántartásba vételi díj a Magyar Agrárkamara, illetve a területi agrárkamarák működésével, valamint az agrárkamara megalakulásával kapcsolatos kiadásokra használható fel. A Magyar Agrárkamara az agrárkamarai választási tagjegyzékbe bejelentkezett személy részére a küldöttválasztó közgyűlésen szavazásra jogosító igazolást azt követően állítja ki, ha az agrárkamarai választási tagjegyzékbe bejelentkezett személy a nyilvántartásba vételi díjat már megfizette.
+#### 47. §
 
-(4) Nem kötelezhető a (3) bekezdésben foglaltak szerinti nyilvántartásba vételi díj megfizetésére az a gazda, illetve gazdálkodó szervezet, aki (amely) igazolja, hogy a gazdasági kamarákról szóló törvény szerint fizetendő kamarai hozzájárulást az illetékes kereskedelmi és iparkamara részére már befizette. Az illetékes kereskedelmi és iparkamara mentesül a kamarai hozzájárulás agrárgazdasági kamara felé történő elszámolási kötelezettség teljesítése alól, mely rendelkezést a folyamatban levő eljárásokban is alkalmazni kell.
+#### 47/A. §
 
-(5) A Magyar Agrárkamara és a területi agrárkamarák – a (14) bekezdésben foglalt eltéréssel – az agrárkamara megalakulásával egyidejűleg általános jogutódlással beolvadnak az agrárkamarába.
-
-(6) A Magyar Agrárkamarának, illetve a területi agrárkamaráknak a gazdasági kamarákról szóló törvényben és az annak felhatalmazása alapján kibocsátott kormányrendeletekben meghatározott feladatait és szerződésben vállalt kötelezettségeit az agrárkamara létrejöttétől az agrárkamara látja el.
-
-(7) Az agrárkamarai rendszer új szervezeti és működési feltételei kialakításának elősegítésével összefüggő egyes kérdéseiről szóló törvény szerinti kamarai biztos 2012. október 31-ig összeállított jelentésében beszámol a miniszter és az átmeneti elnökség részére általa végzett tevékenységről. A kamarai biztos részére a jelentés összeállításához szükséges feltételek biztosításáról az átmeneti elnök gondoskodik.
-
-(8) A jogelőd területi agrárkamarák által korábban megkötött és a jogutódlás időpontjában hatályos szerződéseket változatlan tartalommal veszi át a jogutód agrárkamara.
-
-(9) A Magyar Agrárkamara és a területi agrárkamarák választott tisztségviselőinek megbízatása az átmeneti elnökség megalakulásával egyidejűleg a törvény erejénél fogva megszűnik, jogköreiket, illetve feladataikat az agrárkamara megalakulásáig az e törvényben foglaltak szerint az átmeneti elnökség, illetve az átmeneti elnök veszi át.
-
-(10) A Magyar Agrárkamara és a területi agrárkamarák törvény, alapszabály, vagy más szabályzat alapján felállított testületi szerveiben viselt tagság, illetve a küldöttek megbízatása 2012. szeptember 20-án a törvény erejénél fogva megszűnik, az e személyek által gyakorolt jogköröket, illetve ellátott feladatokat az e törvényben foglaltak szerint az átmeneti elnökség, illetve az átmeneti elnök veszi át, illetve gondoskodik azok ellátásáról.
-
-(11) A Magyar Agrárkamaránál a főtitkári, illetve a megyei agrárkamaránál a titkári munkakör 2012. szeptember 30-án megszűnik, az e személyeket a törvény, az alapszabály, a Magyar Agrárkamara, illetve a területi agrárkamara más szabályzatában meghatározottak szerint megillető jogköröket az átmeneti elnök gyakorolja, illetve gondoskodik feladatkörük ellátásáról.
-
-(12) Az agrárkamarai választások lebonyolításáig a választási tagjegyzékbe az abban szereplő személy jogosult betekinteni.
-
-(13) A Magyar Agrárkamarának az agrárkamarai választási tagjegyzék informatikai rendszerben való nyilvántartáshoz való teljes körű hozzáférési jogát valamint ezen adatok Magyar Agrárkamara részére elektronikus úton történő átadását korlátozó megállapodás nem köthető.
-
-(14) Az agrárkamara a Magyar Agrárkamara, illetve a területi agrárkamara által vállalt kötelezettségekért az érintett szervet egyébként megillető vagyon erejéig felel.
-
-46. § (1) E törvény hatályba lépését követő harminc napon belül a miniszter kinevezi az agrárkamara húsz fős átmeneti elnökségének tagjait továbbá az átmeneti elnököt (továbbiakban együttesen: átmeneti elnökség) és kitűzi a megyei-, illetve országos küldöttválasztó gyűlések időpontját. A megyei- és az országos küldöttválasztó közgyűlés időpontját úgy kell kitűzni, hogy a megválasztott küldöttek legkésőbb 2013. március 31-én megtartsák az agrárkamara alakuló ülését.
-
-(2) Az átmeneti elnökség tagjává csak olyan személy nevezhető ki, aki a törvény 30. §-ában meghatározott feltételek szerint agrárkamarai tisztségre egyébként választható lenne.
-
-(3) Az átmeneti elnökség megbízatása a választásokkal létrejövő agrárkamara megalakulásáig, de legfeljebb 2013. március 31-ig szól, működését az általa elfogadott ideiglenes ügyrend alapján gyakorolja.
-
-(4) Az átmeneti elnökség az elnökségi tagok kinevezését követő 30 napon belül köteles elfogadni ideiglenes ügyrendjét. Az ideiglenes ügyrend elfogadásával egyidejűleg a Magyar Agrárkamara és a területi agrárkamarák vezetését a választások útján létrejövő agrárkamara megalakulásáig a törvényben, illetve az ideiglenes ügyrendben meghatározottak szerint az átmeneti elnök látja el.
-
-(5) Az átmeneti elnökség mint testületi szerv a törvény keretei között:
-
-- a) A Magyar Agrárkamara és a területi agrárkamarák vonatkozásában ellátja a törvényben, az alapszabályban és más szabályzatban a küldöttgyűlés az elnökség és az etikai bizottság hatáskörébe utalt feladatokat,
-- b) az agrárkamara tekintetében – a Magyar Agrárkamara és a területi agrárkamarák szükség szerinti közreműködésével – ellátja a törvényben írt feladatokat.
-
-(6) Az átmeneti elnöknek a Magyar Agrárkamara és a területi agrárkamarák vezetésével összefüggő alkalmazásának részletes feltételeit – a kinevezés, illetve a felmentés kivételével – az átmeneti elnökség állapítja meg.
-
-(7) Az újonnan megalakuló agrárkamara ellenőrző bizottságának hatásköre kiterjed a Magyar Agrárkamara és a területi agrárkamarák ellenőrző bizottságának hatáskörébe tartozó ügyek vizsgálatára.
-
-47. § (1) Az átmeneti elnök
-
-- a) a Magyar Agrárkamarát, a területi agrárkamarát önállóan képviseli;
-- b) előkészíti a Magyar Agrárkamara és a területi agrárkamarák jogutódlását;
-- c) ellátja mindazokat a feladatokat, amelyeket az agrárpolitikáért felelős miniszter részére meghatároz.
-
-(2) Az átmeneti elnök az (1) bekezdés a) pontja szerinti jogkörét az átmeneti elnökség tagjára vagy a Magyar Agrárkamara, illetve a területi agrárkamara alkalmazásában álló más személyre átruházhatja.
-
-(3) Az átmeneti elnökség előkészíti az agrárkamara megyei- és országos küldötteinek megválasztását és jóváhagyja az első választások lebonyolításáról szóló ideiglenes választási szabályzatot.
-
-(4) Az átmeneti elnökség az agrárkamarával kapcsolatos feladatkörében:
-
-- a) megállapítja az agrárkamarai választási tagjegyzéket;
-- b) az agrárkamarai választási tagjegyzék alapján az érintett tagokat kamarai osztályokba sorolja;
-- c) e törvényben foglaltak figyelembevételével kialakítja a megyei (fővárosi) szinten megtartandó küldöttválasztó alakuló közgyűlés összehívásának, lebonyolításának részletes szabályait, és gondoskodik a küldöttválasztó alakuló közgyűlés összehívásáról;
-- d) javaslatot tesz az agrárkamara alapszabályára és más önkormányzati szabályzatára;
-- e) dönt a küldöttválasztó alakuló közgyűlés és a megyei (fővárosi) küldöttgyűlés, valamint az országos küldöttgyűlés megszervezésével, lebonyolításával összefüggő, halaszthatatlan intézkedést igénylő kérdésben;
-- f) előkészíti és lebonyolítja a kamarai küldöttválasztó alakuló gyűlést és a tisztségviselők megválasztását.
-
-(5) A (3) bekezdésben foglalt választási szabályokat az átmeneti elnökség jóváhagyását követően a miniszter hagyja jóvá.
-
-(6)
-
-(7) A 7. § (6) bekezdésében meghatározott adatokat az agrárkamara első alkalommal a megalakulását követő hatvan napon belül egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen átadja a Központi Statisztikai Hivatal részére.
-
-(8) Az átmeneti elnökség a Magyar Agrárkamara és a területi agrárkamarák irányításával kapcsolatos feladatkörében az agrárkamara megalakulásáig:
-
-- a) az ideiglenes ügyrendben a gazdasági kamarákról szóló törvényben, valamint a Magyar Agrárkamara és a területi agrárkamarák alapszabályában foglaltaktól eltérő vezetési és irányítási rendet alakíthat ki;
-- b) az ideiglenes ügyrendben az átmeneti elnök egyes döntési jogosítványait az átmeneti elnökség előzetes hozzájárulásához kötheti;
-- c) kialakítja a Magyar Agrárkamaránál, illetve a területi agrárkamaráknál alkalmazandó díjazás rendjét;
-- d) elfogadja a Magyar Agrárkamara és a területi agrárkamarák mérlegét.
-
-(9) Bíróság, hatóság és más szervezet a Magyar Agrárkamara, illetve a területi agrárkamarák képviseletére a korábbi jogszabályok alapján jogosult személy képviseleti jogát az átmeneti elnök kérelmére törli a nyilvántartásból.
-
-(10) A Magyar Agrárkamara, illetve a területi agrárkamara tulajdonosi részvételével működő gazdasági társaság esetében a Magyar Agrárkamarát, illetve a területi agrárkamarát megillető tulajdonosi jogokat e törvény alapján az átmeneti elnök látja el.
-
-47/A. § (1) A miniszter az agrárkamara létrejöttéig terjedő időtartamra az átmeneti elnök munkájának támogatására kamarai felügyelőt bízhat meg.
-
-(2) A kamarai felügyelő jogosult
-
-- a) az átmeneti elnökség valamennyi ülésén részt venni,
-- b) az átmeneti elnöktől, az átmeneti elnökség tagjától, valamint a Magyar Agrárkamarával, valamint a területi agrárkamarákkal bármilyen jogviszonyban levő személytől jelentést, tájékoztatást kérni,
-- c) a Magyar Agrárkamara, valamint a területi agrárkamarák által kezelt valamennyi adatot megismerni,
-- d) a Magyar Agrárkamara, valamint a területi agrárkamarák bármely iratát megtekinteni,
-- e) a Magyar Agrárkamara, valamint a területi agrárkamarák által használt bármely helyiségbe belépni.
-
-(3) A kamarai felügyelő feladata az agrárkamara megalakulási folyamata lebonyolításának elősegítése, melynek érdekében folyamatos kapcsolatot tart az átmeneti elnökkel és a miniszterrel.
-
-48. § A nemzetközi szerződésekben, továbbá Magyar Agrárkamara által külföldi szervezetekkel, gazdasági, kereskedelmi kamarákkal kötött szerződésekben a Magyar Agrárkamara részére megállapított – kamarai feladatokkal összefüggő – jogok és kötelezettségek az agrárkamarára szállnak át megalakulásával egyidejűleg.
+#### 48. §
 
 ### XI. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -944,6 +879,12 @@ használhatja fel.
 (3) E törvénynek a 2017. évi XLI. törvénnyel megállapított 32. § (3) bekezdését a 2017. évi XLI. törvény hatálybalépését követően megkötött megállapodásokra kell alkalmazni.
 
 59/A. § E törvénynek a 2017. évi XLI. törvénnyel megállapított 11. § (2) bekezdését a 2017. évi XLI. törvény kihirdetését követő harmincegyedik napon folyamatban levő végrehajtási eljárásokban is alkalmazni kell.
+
+59/B. § (1) E törvénynek az egyes törvényeknek az agrárgazdaság versenyképességével összefüggő módosításáról szóló 2018. évi CXXXVII. törvénnyel (a továbbiakban: 2018. évi CXXXVII. törvény) megállapított 2. § j) pontját a 2018. évi CXXXVII. törvény hatálybalépésekor folyamatban levő eljárásokban is alkalmazni kell.
+
+(2) E törvénynek a 2018. évi CXXXVII. törvénnyel megállapított 2. § j) pontját a megismételt eljárásokban is alkalmazni kell.
+
+(3) A 2018. évi CXXXVII. törvény hatályba lépését megelőzően ülés tartása nélkül lefolytatott megyei küldöttválasztó közgyűlést a 33. § (1) bekezdés rendelkezéseinek megfelelőnek kell tekinteni.
 
 ### 1. melléklet a 2012. évi CXXVI. törvényhez
 

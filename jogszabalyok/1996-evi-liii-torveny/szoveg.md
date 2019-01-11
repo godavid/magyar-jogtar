@@ -933,13 +933,13 @@ a kárviselésre vonatkozó szabályok
 
 (2) Riasztási módszerek alkalmazása, illetve – kivételes esetben – a túlszaporodott állomány egyedeinek befogása vagy gyérítése csak a természetvédelmi hatóság engedélyével és felügyeletével végezhető.
 
-(3) A természetvédelmi hatóság szükség esetén vagy a tulajdonos, használó kérésére gondoskodik a riasztásban, befogásban, gyérítésben kellő szakértelemmel rendelkező szerv bevonásáról. A természetvédelmi hatóság saját kezdeményezése esetén az ebből eredő költségeket maga viseli. Ha a természetvédelmi hatóság beavatkozásával a tulajdonos, használó kérésének tett eleget, a költségek viselésére a közöttük létrejött megállapodás az irányadó.
+(3) A természetvédelmi hatóság szükség esetén vagy a tulajdonos, vagy a használó kérésére gondoskodik a riasztásban, befogásban, gyérítésben kellő szakértelemmel rendelkező szerv bevonásáról.
 
 (4) A természetvédelmi hatóság kártalanítást fizet, ha a védett állatfaj egyedének kártétele azért következett be, mert
 
 - a) nem tett eleget az (1) bekezdésben meghatározott, megalapozott kérelemnek;
-- b) indokolatlanul nem engedélyezte riasztási módszer alkalmazását vagy a túlszaporodott állomány egyedeinek befogását, gyérítését;
-- c) indokolatlanul nem teljesítette a (3) bekezdésben meghatározott kérést. A természetvédelmi hatóságot más esetben kártalanítási kötelezettség nem terheli.
+- b) jogerős bírói ítélet megállapította, hogy jogsértően nem engedélyezte megfelelő riasztási vagy kárelhárítási módszer alkalmazását;
+- c) indokolatlanul nem teljesítette a (3) bekezdésben meghatározott kérést.
 
 ## VI. RÉSZ — A TERMÉSZETVÉDELEM ELJÁRÁSJOGI SZABÁLYAI ÉS SZANKCIÓI
 
