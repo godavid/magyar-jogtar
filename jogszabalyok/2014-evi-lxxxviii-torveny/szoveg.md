@@ -199,7 +199,10 @@ kapcsán megvalósuló büntetlen előélet;
   - a) azok a biztosítási termékek, amelyek ugyanazon biztosítási ágazatba vagy ugyanazon biztosítási ágazat azonos alágazatába tartózó kockázatokat fedeznek;
   - b) azok a biztosítási termékek, amelyek egy szerződés keretén belül több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedeznek, ha a jellemző kockázat szerinti ágazati vagy alágazati besorolásuk azonos; vagy
   - c) az ugyanazon biztosítási ágazatba vagy ugyanazon biztosítási ágazat valamely alágazatába tartozó biztosítási termék és az egy szerződés keretén belül több biztosítási ágazatba vagy ugyanazon biztosítási ágazat több alágazatába tartozó kockázatot is fedező biztosítási termék, ha ez utóbbi termék jellemző kockázat szerinti ágazati vagy alágazati besorolása megegyezik az előbbi termék ágazati vagy alágazati besorolásával;
-- 112. viszontbiztosítási tevékenység: a biztosító vagy viszontbiztosító, továbbá harmadik országbeli biztosító vagy viszontbiztosító által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása;
+- 112. viszontbiztosítási tevékenység:
+  - a) biztosító vagy viszontbiztosító, továbbá harmadik országbeli biztosító vagy viszontbiztosító által vállalt kockázat egy részének vagy egészének szerződésben meghatározott feltételek alapján, díjfizetés ellenében történő átvállalása,
+  - b) a Lloyds néven ismert biztosító szervezet biztosítási kockázatátvállalói egyesülés esetében a Lloyds valamely tagja által átengedett kockázatnak a Lloyds néven ismert biztosító szervezettől eltérő biztosító vagy viszontbiztosító részéről történő átvállalása, vagy
+  - c) fedezet viszontbiztosító általi nyújtása foglalkoztatói nyugdíjszolgáltató intézmény részére;
 - 113. viszontbiztosítás-közvetítői tevékenység: a viszontbiztosító által végzett azon üzletszerű tevékenység, amely a viszontbiztosítási értékesítést és annak szervezését foglalja magában, azzal, hogy nem minősülnek viszontbiztosítás-közvetítői tevékenységnek a 124. pont a)–d) alpontjai szerinti tevékenységek;
 - 114. viszontbiztosítás-közvetítő: az a természetes vagy jogi személy, aki javadalmazás ellenében viszontbiztosítás-közvetítői tevékenységet végez, ide nem értve a saját kockázatvállalásával összefüggő, saját jogú viszontbiztosítási értékesítési tevékenységet végző viszontbiztosítót és közreműködőit;
 - 115. viszontbiztosító: az a vállalkozás, amely a székhelye szerinti tagállamban kizárólag viszontbiztosítási és azzal közvetlenül összefüggő tevékenység végzésére kapott engedélyt;
@@ -5813,7 +5816,8 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 - 8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek,
 - 9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
 - 10. az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek,
-- 11. a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelvnek
+- 11. a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelvnek,
+- 12. a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i (EU) 2016/2341 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
