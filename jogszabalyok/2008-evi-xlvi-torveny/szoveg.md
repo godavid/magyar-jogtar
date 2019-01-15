@@ -1400,7 +1400,7 @@ esetén.
 - a) a zárlati károsítóval való fertőzés azonnali felszámolására vonatkozó kötelezettségét megszegi, zárlati károsítót terjeszt, vagy a terjedést elősegíti, a zárlati intézkedést megszegi;
 - b) engedélyköteles termékkel olyan cselekményt valósít meg, amellyel az ember vagy az állat egészségét, az élelmiszer-, illetve takarmánybiztonságot vagy a környezetet veszélyezteti;
 - c) a 17. § (1) bekezdés c) pontjában előírt kötelezettségét az élelmiszerlánc-felügyeleti szerv kötelezése ellenére, továbbá a 17. § (4) bekezdésében előírt, a parlagfű elleni védekezési kötelezettségét elmulasztja;
-- d) engedélyköteles terméket engedély nélkül vagy engedélytől eltérő módon, illetve a tevékenységhez előírt képesítés és azt igazoló hatályos hatósági engedély nélkül forgalomba hoz, hirdet, nyilvánosság számára ajánl, illetve felhasznál;
+- d) engedélyköteles terméket engedély nélkül, engedélytől eltérő módon, nyilvántartásba vétel nélkül vagy a nyilvántartásba vételtől eltérően, illetve a tevékenységhez előírt képesítés és azt igazoló hatósági engedély nélkül forgalomba hoz, hirdet, nyilvánosság számára ajánl, illetve felhasznál;
 - e) az engedélyköteles termék csomagolására vonatkozóan e törvényben és a végrehajtására kiadott jogszabályban előírt szabályokat megsérti;
 - f) az adott évi analitikailag tiszta hatóanyag benyújtására vonatkozó kötelezettségének nem tesz eleget;
 - g) a méhészetek növényvédelmi szempontból elrendelt vándoroltatási tilalmát megszegi;
@@ -1413,7 +1413,7 @@ esetén.
 - n) az előírt vagy elrendelt növény-egészségügyi korlátozásokat megszegi;
 - o) az e törvény, valamint e törvény végrehajtására kiadott jogszabályban előírt adatszolgáltatási, nyilvántartási, nyilvántartásba vételi kötelezettségének nem tesz eleget;
 - p) engedélyköteles terméket műszakilag alkalmatlannak minősített vagy érvényes műszaki engedéllyel nem rendelkező géppel, illetve berendezéssel árutermelő gazdaságban juttat ki;
-- q)
+- q) a növényvédelmi gépek műszaki felülvizsgálatára jogosultként nem megfelelő műszaki állapotú gépet permetezésre alkalmasnak minősít.
 - r) a növényvédő szer belföldi forgalmára vonatkozó, a 17. § (5)–(6) bekezdése szerinti jelentési kötelezettségnek nem tesz eleget.
 
 (2) A bírság ismételten is kiszabható.

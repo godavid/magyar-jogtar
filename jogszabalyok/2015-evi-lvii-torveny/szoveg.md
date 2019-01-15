@@ -54,15 +54,13 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 
 #### 3. Nemzeti Energiahatékonysági Cselekvési Terv
 
-3. § (1) Az e törvény hatálya alá tartozó energiahatékonyság-javító intézkedéseket, továbbá a várható és az elért energiamegtakarítást háromévente – az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelező tartalmi elemekkel és a 2012/27/EU európai parlamenti és tanácsi irányelv értelmében a nemzeti energiahatékonysági cselekvési tervekre vonatkozó minta létrehozásáról szóló, 2013. május 22-i 2013/242/EU bizottsági végrehajtási határozattal összhangban – Nemzeti Energiahatékonysági Cselekvési Tervben kell bemutatni.
+3. § (1) A jelentős korszerűsítéssel járó energiahatékonyság-javító intézkedést, továbbá a várható és elért energiamegtakarítást, beleértve az energiaellátás, -továbbítás és -elosztás, valamint az energia végfelhasználása terén elért azon megtakarítást is, amely hozzájárul a 2. § (1) bekezdésében meghatározott nemzeti energiahatékonysági célkitűzés teljesítéséhez, a Nemzeti Energiahatékonysági Cselekvési Tervben kell ismertetni a 2012/27/EU európai parlamenti és tanácsi irányelvvel, valamint a nemzeti energiahatékonysági cselekvési tervekre vonatkozó minta létrehozásáról szóló, 2013. május 22-i 2013/242/EU bizottsági határozattal összhangban.
 
-(2) Az (1) bekezdés szerinti várható és elért energiamegtakarítás leírása során részletesen be kell mutatni az energiaellátás, -továbbítás és -elosztás, valamint az energia végfelhasználása terén elért azon megtakarításokat, amelyek hozzájárulnak az energiahatékonysági célkitűzés teljesítéséhez.
-
-(3) A Nemzeti Energiahatékonysági Cselekvési Tervet az Európai Bizottság részére be kell nyújtani.
+(2) A Nemzeti Energiahatékonysági Cselekvési Tervet az Európai Bizottság részére be kell nyújtani.
 
 #### 4. Nemzeti Épületenergetikai Stratégia
 
-4. § (1) A magán- és köztulajdonban lévő lakó- és kereskedelmi célú épületek felújításába történő beruházások ösztönzésére hosszú távú stratégiaként Nemzeti Épületenergetikai Stratégiát kell kidolgozni.
+4. § (1) A magán- és köztulajdonban lévő lakó- és kereskedelmi célú épületek felújítását szolgáló beruházások ösztönzésére hosszú távú stratégiaként Nemzeti Épületenergetikai Stratégiát kell kidolgozni. A Nemzeti Épületenergetikai Stratégia részét képezi a Nemzeti Épületenergetikai Cselekvési Terv.
 
 (2) A Nemzeti Épületenergetikai Stratégia
 
@@ -95,7 +93,7 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - a) meghatározza a nemzeti energiahatékonysági célkitűzést;
 - b) kidolgozza a Nemzeti Épületenergetikai Stratégiát és gondoskodik annak felülvizsgálatáról, valamint az Európai Bizottság részére történő megküldéséről;
 - c) elkészíti a Nemzeti Energiahatékonysági Cselekvési Tervet;
-- d) biztosítja, hogy a végrehajtási időszakban a felújítási kötelezettség alá eső központi kormányzati épületek alapterületének évente 3%-át felújítsák az energiahatékonysági minimumkövetelményeknek megfelelően és kijelöli a központi kormányzat energiahatékonysági felújítási kötelezettség alá eső épületeinek nyilvántartását vezető minisztert;
+- d) a tárgyév január 1-ei állapot szerint összeállítja és közzéteszi minden év február 28-ig a 8. §-ban meghatározott épületek listáját, amelyek az energiahatékonyságra vonatkozó nemzeti minimumkövetelményeknek nem felelnek meg, biztosítja, hogy a listában meghatározott épületek alapterületének 3%-át az energiahatékonysági minimumkövetelményeknek megfelelően a tárgyévben felújítsák, továbbá kijelöli a központi kormányzat energiahatékonysági felújítási kötelezettség alá eső épületeinek nyilvántartását vezető minisztert;
 - e) meghatározza az energiahatékony beszerzések lefolytatására köteles szervezetek által beszerezhető magas energiahatékonyságú termékek, szolgáltatások, épületek energiahatékonysági követelményeit;
 - f) kidolgozza a végfelhasználási energiamegtakarítás eléréséhez a végső felhasználók körében szükséges, a 13. § (2) bekezdése szerinti szakpolitikai intézkedéseket és ellenőrzésük rendszerét, gondoskodik a szakpolitikai intézkedések és alkalmazásuk módszertanának az Európai Bizottsághoz történő bejelentéséről, valamint kijelöli az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságokat, meghatározza a végfelhasználási energiamegtakarítás mértékét;
 - g) gondoskodik a nagy hatásfokú kapcsolt energiatermelés, valamint a hatékony távfűtés és a hatékony távhűtés megvalósíthatósági potenciálja átfogó értékelésének és az ahhoz szükséges országos költség-haszon elemzésnek az előkészítéséről;
@@ -103,13 +101,15 @@ Az Országgyűlés a nemzeti energiahatékonysági célkitűzés teljesítéséh
 - i) elkészíti a nemzeti energiahatékonysági célkitűzés felé tett előrelépésekről szóló éves jelentést;
 - j) biztosítja az Európai Bizottság felé fennálló energiahatékonysági jelentéstételi, értékeléskészítési és adatszolgáltatási kötelezettségek teljesítését;
 - k) meghatározza az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket;
-- l) működteti a Nemzeti Energetikusi Hálózatot.
+- l) kidolgozza a fogyasztók energia- és környezettudatos szemléletének formálására és fejlesztésére irányuló cselekvési tervet; gondoskodik a fenntartható fejlődéssel és az energiatudatossággal kapcsolatos ismeretek oktatásáról, illetve a médián keresztüli terjesztéséről; továbbá létrehozza a lakosság széles körét elérő energetikai tanácsadó rendszert, ennek részeként működteti a Nemzeti Energetikusi Hálózatot;
+- m) nyilvántartja és közzéteszi a végfelhasználási energiamegtakarítás összesítéséhez szükséges, az egyes szakpolitikai intézkedések révén elért energiamegtakarítási adatokat;
+- n) olyan felülvizsgálati, verifikációs, mérési, irányítási és ellenőrzési rendszert vezet be, amely keretében a szakpolitikai intézkedésekkel megvalósított energiamegtakarítási adatok hitelességét reprezentatív statisztikai mintával igazolja.
 
 #### 7. A Magyar Energetikai és Közmű-szabályozási Hivatal energiahatékonysági feladatai
 
 7. § A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal)
 
-- a) adatokat kezel az energiahatékony beszerzések lefolytatására köteles szervezetek energiahatékonysági célú beszerzései vonatkozásában;
+- a)
 - b) nyilvántartja és közzéteszi a végfelhasználási energiamegtakarítás összesítéséhez szükséges, az egyes szakpolitikai intézkedések révén elért energiamegtakarítási adatokat;
 - c) névjegyzéket (a továbbiakban: névjegyzék) vezet az energetikai auditorokról és energetikai auditáló szervezetekről, nyilvántartást vezet a közreműködő szervezetekről, ellátja e személyek és szervezetek felügyeletét; valamint elvégzi az energetikai auditálás ellenőrzését;
 - d) a 20. § szerinti energiahatékonysági tájékoztató honlapot tart fenn;
@@ -125,7 +125,7 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 - g) jóváhagyja az f) pont szerinti költség-haszon elemzést;
 - h) felmentést ad az f) pont szerinti költség-haszon elemzés elkészítésének kötelezettsége alól;
 - i) meghatározza a nem kötelező energetikai audit ellenőrzésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
-- j) nyilvántartást vezet a regisztrált nagyvállalatokról és a regisztrált nagyvállalatok nevét és székhelyét a Hivatal honlapján közzéteszi.
+- j) nyilvántartást vezet a regisztrált nagyvállalatokról és a regisztrált nagyvállalatok nevét és székhelyét, továbbá a regisztrált nagyvállalattal szemben hozott, kötelező energetikai auditálás elmulasztását megállapító határozat véglegessé válása dátumát a Hivatal honlapján közzéteszi.
 
 ### IV. Fejezet — KÖZINTÉZMÉNYEK ENERGIAHATÉKONYSÁGI FELADATAI
 
@@ -156,20 +156,20 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 
 (2) Az (1) bekezdés csak olyan mértékben vonatkozik a katonai nemzetbiztonsági és az országos hatáskörrel rendelkező rendvédelmi szervekre, valamint a honvédségi szervezetekre, amennyiben az nem eredményez összeütközést ezen szervezetek alaptevékenységének céljával.
 
-(3) Az energiahatékony beszerzés lefolytatására köteles szervezet minden év január 31-ig a Hivatal rendelkezésére bocsátja a tárgyévet megelőző évben megvalósult energiahatékony beszerzéseivel kapcsolatban készített valamennyi dokumentációt.
+(3)
 
 11. § Ha közintézmény az energiahatékonysági célú beszerzése során energiahatékonyság-alapú szerződést kíván kötni, e szerződésnek legalább az e törvény végrehajtására kiadott kormányrendeletben meghatározott tartalmi elemeket kell tartalmaznia. A szerződést írásban kell megkötni.
 
-#### 9/A. A közintézmények tulajdonában és használatában álló épületekkel kapcsolatos energiahatékonysági feladatok
+#### 9/A. A közintézményi tulajdonban és használatban álló épületekkel kapcsolatos energiahatékonysági feladatok
 
-11/A. § A közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület üzemeltetéséért és fenntartásáért felelős szervezet vezetője:
+11/A. § A közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület üzemeltetéséért és fenntartásáért felelős szervezet vezetője:
 
 - a) ötévente a Hivatal által elkészített és az energiahatékonysági tájékoztató honlapon közzétett minta szerinti energiamegtakarítási intézkedési tervet készít, amit a készítés évében március 31-ig köteles megküldeni a Nemzeti Energetikusi Hálózat területileg illetékes irodája felé;
 - b) végrehajtja az energiamegtakarítási intézkedési tervet, a teljesítésről évente jelentést készít, amit a tárgyévet követő év március 31-ig megküld a Nemzeti Energetikusi Hálózat területileg illetékes irodája felé;
-- c) a Nemzeti Energetikusi Hálózat által működtetett online felületen az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint bejelenti az épületre vonatkozó energiafogyasztási adatokat;
+- c) a Hivatal által működtetett online felületen az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint bejelenti az épületre vonatkozó energiafogyasztási adatokat;
 - d) gondoskodik az energiahatékonysági tájékoztató honlapon közzétett módszertan alapján az épület használóinak energiahatékonysági szemléletformálásáról és a b) pont szerinti éves jelentésben erről beszámol;
 - e) együttműködik a Nemzeti Energetikusi Hálózattal az a)–d) pontban meghatározott feladatok ellátása során,
-- f) feltölti az épületre vonatkozó, a Nemzeti Épületenergetikai Rendszerben nyilvántartott energetikai adatokat az online felületen elérhető Nemzeti Épületenergetikai Rendszerbe és együttműködik a Nemzeti Épületenergetikai Rendszer kezelésével megbízott szervezettel, amely szervezet korlátlan hozzáférést biztosít a Nemzeti Épületenergetikai Rendszerhez az energiapolitikáért felelős miniszter számára, az energiapolitikáért felelős miniszter e törvényben és a végrehajtására kiadott rendeletekben meghatározott feladatai ellátása céljából.
+- f) a Hivatal által üzemeltetett online felületre feltölti és folyamatosan frissíti az épületre vonatkozó energetikai adatokat.
 
 ### V. Fejezet — ENERGIAHATÉKONYSÁG-JAVÍTÓ INTÉZKEDÉSEK A VÉGFELHASZNÁLÁSI ENERGIAMEGTAKARÍTÁS ÉRDEKÉBEN
 
@@ -211,13 +211,11 @@ kell elérni.
 14. § (1) A végfelhasználási energiamegtakarítás eléréséhez igénybe vett egyes szakpolitikai intézkedések megvalósításáért és nyomon követéséért felelős közfeladatot ellátó szervezet (a továbbiakban: végrehajtó hatóság)
 
 - a) gondoskodik a hatáskörébe tartozó szakpolitikai intézkedések végrehajtásáról és a végrehajtás ellenőrzéséről,
-- b) – az egyes szakpolitikai intézkedések és egyéni fellépések révén elért energiamegtakarítás összesítése érdekében – minden év január 31-ig a Hivatal által meghatározott formában adatot szolgáltat a szakpolitikai intézkedés végrehajtásáról a Hivatalnak és a Hivatal megkeresésére az energiamegtakarítás összesítéséhez szükséges egyéb tájékoztatást nyújt.
+- b) a szakpolitikai intézkedések által elért energiamegtakarítás nyilvántartásáért és az adatok hitelesítésért felelős minisztérium megkeresésére minden, az egyes szakpolitikai intézkedések és egyéni fellépések révén elért energiamegtakarítás számbavételéhez szükséges és rendelkezésre álló adatot átad, az adatok hitelesítési feladatainak teljesítésénél együttműködik és tájékoztatást megad.
 
 (2) Az egyes szakpolitikai intézkedések révén elért energiamegtakarítási adatokat közzé kell tenni.
 
-15. § (1) Ha a Hivatal a végrehajtó hatóságok által az energiamegtakarításról szolgáltatott adatok alapján megállapítja, hogy az összes energiamegtakarítás elmarad az Európai Bizottság számára benyújtott jelentésben tervezettől, haladéktalanul tájékoztatja az energiapolitikáért felelős minisztert.
-
-(2) Az (1) bekezdésben meghatározott esetben az energiapolitikáért felelős miniszter javaslatot tesz a Kormány számára a szakpolitikai intézkedések felülvizsgálatára.
+15. §
 
 ### VI. Fejezet — ENERGIATERMELŐ LÉTESÍTMÉNYEK, HŐENERGIÁT SZÁLLÍTÓ HÁLÓZATOK ÉS HULLADÉKHŐT TERMELŐ IPARI LÉTESÍTMÉNYEK HATÉKONY MŰKÖDTETÉSE
 
@@ -245,9 +243,11 @@ kell elérni.
 
 #### 16. Energiahatékonysági tájékoztató honlap
 
-20. § (1) Az energiafogyasztók és a piaci szereplők részére az energiahatékonysági és energiamegtakarítási módszerekről, valamint az energiahatékonysággal kapcsolatos pénzügyi és jogi keretekről szóló tájékoztatást elektronikus úton, rendszeresen frissülő honlapon (a továbbiakban: energiahatékonysági tájékoztató honlap) keresztül kell megvalósítani.
+20. § (1) Az energiafogyasztók és a piaci szereplők részére az energiahatékonysági és energiamegtakarítási módszerekről, valamint az energiahatékonysággal kapcsolatos pénzügyi és jogi keretekről szóló tájékoztatást rendszeresen frissülő honlapon (a továbbiakban: energiahatékonysági tájékoztató honlap) keresztül kell megvalósítani.
 
 (2) Az energiahatékonysági tájékoztató honlapon lehetőséget kell adni arra, hogy az energiahatékonysági szolgáltatók és a pénzügyi szolgáltatást végző szervezetek az energiafogyasztók számára információt tegyenek közzé az általuk nyújtott, energiahatékonysági célokat szolgáló vagy segítő szolgáltatásokról.
+
+(3) Az energiahatékonysági tájékoztató honlapon aktuális és részletes tájékoztatást kell nyújtani a hőtermelő berendezések (kazánok) cseréjére, ideértve a hőtermelő berendezések hatékonyságának és a megfelelő méretének kiválasztására, valamint a fűtési rendszer korszerűsítésére vonatkozó információkról.
 
 #### 17. Kiskereskedelmi energiaértékesítő vállalatok tájékoztatási feladatai
 
@@ -269,7 +269,7 @@ kell elérni.
 
 #### 17/B. Az energetikai szakreferens
 
-21/B. § (1) E törvény végrehajtására kiadott kormányrendeletben meghatározott energiafogyasztású gazdálkodó szervezetnek
+21/B. § (1) E törvény végrehajtására kiadott kormányrendeletben meghatározott végsőenergia-fogyasztású gazdálkodó szervezetnek
 
 - a) legalább egy, tőle munkajogilag és társasági jogilag független energetikai szakreferenst kell igénybe vennie és
 - b) a MEKH elnökének rendeletében meghatározott berendezések, technológiai folyamatok vonatkozásában az energetikai folyamatok, megtakarítások nyomon követése érdekében almérőt kell felszerelnie.
@@ -282,59 +282,168 @@ kell elérni.
 - d) közreműködik a 22/C. § szerinti jelentés elkészítésében,
 - e) részt vesz a gazdálkodó szervezet alkalmazottai energiahatékonysági szemléletének kialakításában.
 
-(3) Energetikai szakreferens természetes személy vagy gazdálkodó szervezet lehet.
+(3) Energetikai szakreferens természetes személy vagy gazdálkodó szervezet lehet. Az energetikai szakreferens a Hivatal engedélye alapján láthat el energetikai szakreferensi tevékenységet. Az engedély határozatlan időre szól.
+
+(3a) A kérelmezőt az energetikai szakreferensi tevékenység megkezdésének és folytatásának joga nem illeti meg, ha a Hivatal a kérelem elbírálására irányadó ügyintési határidőt túllépte.
+
+(3b) Ha a Hivatal az engedély iránti kérelem alapján megállapítja, hogy a kérelmező eleget tesz az e törvényben, valamint a végrehajtására kiadott kormányrendeletben meghatározott követelményeknek, a kérelmező számára engedélyezi az energetikai szakreferensi tevékenység folytatását, és a kérelmezőt az engedélyező határozat véglegessé válásával egyidejűleg névjegyzékbe veszi.
 
 (4) Energetikai szakreferens az a természetes személy lehet, aki
 
 - a) rendelkezik a jogszabályban meghatározott szakirányú végzettséggel;
 - b) rendelkezik legalább 3 év, energetikai területen szerzett mérnöki szakmai gyakorlattal;
-- c) a 39. § szerinti szakmai vizsgát teljesítette.
+- c) a 39. § szerinti szakmai vizsgát teljesítette;
+- d) büntetlen előéletű; és
+- e) a regisztrációs díjat megfizette.
 
-(5) A természetes személy energetikai szakreferensnek a 28. § (3) bekezdése szerinti éves továbbképzésen kell részt vennie és ötévente szakmai megújító vizsgát kell tennie.
+(5) A természetes személy energetikai szakreferensnek névjegyzékbe vételét követően évente a 39. § szerinti továbbképzésen kell részt vennie és ötévente szakmai megújító vizsgát kell tennie.
 
-(6) A gazdálkodó szervezet energetikai szakreferensnek akkor minősül, ha vele az energetikai szakreferensi tevékenység végzésére jogosult (alkalmas) természetes személy munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban áll.
+(5a) Ha az energetikai szakreferens az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal haladéktalanul törli a természetes személy energetikai szakreferensek névjegyzékéből.
 
-(7) Az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-tagállam) letelepedett természetes személy és szervezet Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében akkor nyújthat energetikai szakreferensi szolgáltatást, ha a (4) bekezdés c) pontja és az (5) bekezdés kivételével megfelel az e §-ban foglalt követelményeknek.
+(5b) Az (5) bekezdésben meghatározott továbbképzésben részt vevőkről és a szakmai megújító vizsgát teljesítőkről a közreműködő szervezet értesíti a Hivatalt.
 
-21/C. § (1) Az energetikai szakreferenst igénybe vevő gazdálkodó szervezet 30 napon belül tájékoztatja a Hivatalt az energetikai szakreferens igénybevételével kapcsolatos adatokról, valamint az adatokban beállt egyéb változásokról.
+(5c) Szakmai gyakorlati időként az e törvény végrehajtására kiadott rendeletben meghatározott szakirányú szakképzettség megszerzését igazoló oklevél kiállítását követően teljesített, energetikai területen végzett mérnöki szakmai gyakorlat fogadható el.
 
-(2) Az energetikai szakreferenst igénybe vevő gazdálkodó szervezet az általa igénybe vett természetes személy energetikai szakreferensről a következő adatokat köteles bejelenteni a Hivatal számára:
+(6) Energetikai szakreferensi tevékenységet az a gazdálkodó szervezet folytathat, amely
 
-- a) név,
-- b) a szakképzettséget igazoló irat kiállításának dátuma és sorszáma,
-- c) szakirányú végzettség megnevezése,
-- d) a jogviszony kezdő időpontja.
+- a) az energetikai szakreferensek névjegyzékében szereplő természetes személyt munkaviszony keretében foglalkoztat, vagy ilyen személlyel munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban áll, és
+- b) a regisztrációs díjat megfizette.
 
-(3) Az energetikai szakreferenst igénybe vevő gazdálkodó szervezet az általa igénybe vett gazdálkodó szervezet energetikai szakreferensről a következő adatokat köteles bejelenteni a Hivatal számára:
+(6a) Az energetikai szakreferensek névjegyzékében szereplő természetes személy energetikai szakreferens kizárólag egy energetikai szakreferens gazdálkodó szervezettel állhat a (6) bekezdés a) pontja szerinti jogviszonyban.
 
-- a) cégnév, székhely,
-- b) a jogviszony kezdő időpontja,
-- c) a gazdálkodó szervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban álló természetes személy energetikai szakreferens neve, szakképzettségét igazoló irat kiállításának dátuma és sorszáma, a szakirányú végzettség megnevezése.
+(6b) Energetikai szakreferensi tevékenységre irányuló szolgáltatást kizárólag névjegyzékben szereplő természetes személy vagy gazdálkodó szervezet energetikai szakreferens, illetve az igénybevételére köteles gazdálkodó szervezet között közvetlenül létrejött szerződés alapján lehet nyújtani vagy igénybe venni.
 
-(4) A megyei, fővárosi kormányhivatal a Hivatal kezdeményezésére kétszázezer forinttól kétmillió forintig terjedő bírsággal sújtja azt az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetet, amely az (1) bekezdésben és a 21/B. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget.
+(7) A természetes személy energetikai szakreferensek névjegyzéke a természetes személy energetikai szakreferensre vonatkozó következő adatokat tartalmazza:
+
+- a) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 26. § (2) bekezdés a)–d) pontjában foglalt adatok,
+- b) anyja születési neve,
+- c) születési helye és ideje,
+- d) elérhetőségi adatok (postacím, telefonszám, elektronikus levélcím, az energetikai szakreferens által megadott egyéb elérhetőségi adat),
+- e) államilag elismert nyelvvizsga bizonyítvánnyal igazolt nyelvismeret (nyelv, nyelvtudás szintje),
+- f) szakirányú iskolai végzettség és szakmai képesítés megszerzését igazoló oklevél kiállításának időpontja,
+- g) igazolt szakmai gyakorlat jellege,
+- h) a tevékenység folytatása iránti kérelem benyújtásának időpontja,
+- i) a névjegyzékbe vétel és a névjegyzékből törlés időpontja,
+- j) névjegyzéki jelölés,
+- k) szakmai vizsga kelte és a teljesítéséről szóló igazolás kiállítója,
+- l) megújító szakmai vizsga kelte és a teljesítéséről szóló igazolás kiállítója,
+- m) továbbképzési kötelezettség teljesítés kelte és a teljesítéséről szóló igazolás kiállítója,
+- n) adatváltozás bejelentés időpontja,
+- o) a Hivatal által végleges döntéssel megállapított szankció típusa, és a szankcióról rendelkező határozat véglegessé válásának időpontja.
+
+(8) A természetes személy energetikai szakreferensek névjegyzéke a (7) bekezdés a) pontjában meghatározott adatok közül az energetikai szakreferensi tevékenység megjelölésére vonatkozó adat, az engedély száma, a tevékenység megkezdése és folytatása területi és időbeli korlátjára vonatkozó adat, valamint a (7) bekezdés g)–o) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
+(9) A természetes személy energetikai szakreferensek névjegyzéke a (7) bekezdés a) pontjában meghatározott adatok közül a név és az energetikai szakreferensi tevékenység megjelölésére vonatkozó adat, az engedély száma, a tevékenység megkezdésének és folytatásának területi és időbeli korlátjára vonatkozó adat, valamint a (7) bekezdés d)–o) pontjában meghatározott adatai nyilvánosak, azokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi.
+
+(10) Az energetikai szakreferens – a változás bekövetkezésétől számított 8 napon belül – bejelenti a Hivatal számára a természetes személy energetikai szakreferensek névjegyzékében nyilvántartott adatai tekintetében bekövetkezett változást. A bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai szakreferens kéri – 8 napon belül értesíti a Hivatalt. Az energetikai auditori és energetikai szakreferensi névjegyzékbe egyaránt felvett személynek elegendő az egyik névjegyzék vonatkozásában bejelentést tennie, a Hivatal az adatváltozást az általa vezetett további névjegyzéken is átvezeti.
+
+(11) Ha az energetikai szakreferens a (10) bekezdésben meghatározott kötelezettségét nem teljesíti, a Hivatal az adatváltozás bejelentésére kötelezi és 100 000 forintig terjedő bírsággal sújthatja. A kötelezés nem vagy részbeni teljesítése esetén a bírság ismételten kiszabható.
+
+(12) Az energetikai szakreferenst törölni kell a természetes személy energetikai szakreferensek névjegyzékéből
+
+- a) ha a tevékenysége megszüntetését bejelentette,
+- b) ha az energetikai szakreferens meghalt,
+- c) ha valamely energetikai szakreferensre vonatkozó jogszabályi feltétel hiányzik vagy
+- d) a Szolgtv. 26. § (3) bekezdésében foglalt esetben.
+
+(13) Az energetikai szakreferens szervezetek névjegyzéke az energetikai szakreferens szervezet következő adatait tartalmazza:
+
+- a) a Szolgtv. 26. § (2) bekezdés a)–d) pontjában foglalt adatok,
+- b) cégjegyzékszám vagy cégjegyzékszám hiányában a nyilvántartást vezető hatóság neve és nyilvántartási szám,
+- c) a vezető tisztségviselő neve,
+- d) elérhetőségi adatok (postacím, telefonszám, elektronikus levélcím, az energetikai szakreferens szervezet által megadott egyéb elérhetőségi adat),
+- e) az energetikai szakreferens szervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban álló természetes személy energetikai szakreferens neve,
+- f) a tevékenység folytatása iránti kérelem benyújtásának időpontja,
+- g) a névjegyzékbe vétel és a névjegyzékből törlés időpontja,
+- h) névjegyzéki jelölés,
+- i) adatváltozás bejelentés időpontja,
+- j) a Hivatal által végleges döntéssel megállapított szankció típusa, a szankcióról rendelkező határozat véglegessé válásának időpontja.
+
+(14) Az energetikai szakreferens szervezetek névjegyzéke a (13) bekezdés a) pontjában meghatározott adatok közül az energetikai szakreferensi tevékenység megjelölésére vonatkozó adat, az engedély száma, a tevékenység megkezdésének és folytatásának területi és időbeli korlátjára vonatkozó adat, valamint a (13) bekezdés f)–j) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartás.
+
+(15) Az energetikai szakreferens szervezet (13) bekezdésben foglalt adatai nyilvánosak, azokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi.
+
+(16) Az energetikai szakreferens szervezet – a változás bekövetkezésétől számított 8 napon belül – bejelenti a Hivatalnak az energetikai szakreferens szervezetek névjegyzékében nyilvántartott adataiban bekövetkezett változást. A bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai szakreferens szervezet kéri – 8 napon belül értesíti a Hivatalt. Az energetikai auditáló szervezetek és energetikai szakreferens szervezetek névjegyzékében egyaránt szereplő gazdálkodó szervezetnek elegendő az egyik névjegyzék vonatkozásában bejelentést tennie, a Hivatal az adatváltozást az általa vezetett további névjegyzéken is átvezeti.
+
+(17) Ha az energetikai szakreferens szervezet a (16) bekezdésben meghatározott kötelezettségét nem teljesíti, a Hivatal az adatváltozás bejelentésére kötelezi és 100 000 forintig terjedő bírsággal sújthatja. A kötelezés nem vagy részbeni teljesítése esetén a bírság ismételten kiszabható.
+
+(18) Az energetikai szakreferens szervezetet az energetikai szakreferens szervezetek névjegyzékéből törölni kell
+
+- a) ha a tevékenysége megszüntetését bejelentette,
+- b) ha az energetikai szakreferens szervezet megszűnt,
+- c) ha valamely energetikai szakreferensre vonatkozó jogszabályi feltétel hiányzik vagy
+- d) a Szolgtv. 26. § (3) bekezdésében meghatározott esetben.
+
+(19) Névjegyzékbe vételt követően a természetes személy energetikai szakreferens és az energetikai szakreferens szervezet éves nyilvántartási díjat fizet a Hivatal számára. A regisztrációs díj, az éves nyilvántartási díj és az e törvény szerinti bírság adók módjára behajtandó köztartozásnak minősül. A regisztrációs díjból és az éves nyilvántartási díjból befolyó bevétel a Hivatal bevételét képezi.
+
+(20) Az éves nyilvántartási díj megfizetésének elmulasztása esetén a Hivatal 8 napos határidő tűzésével felhívja a nyilvántartási díj fizetésére kötelezettet a kötelezettség teljesítésére, a határidő eredménytelen elteltét követően a Hivatal a kötelezettet törli a névjegyzékből.
+
+(21) Az energetikai auditorok, vagy energetikai auditáló szervezetek névjegyzékében szereplő energetikai auditor vagy energetikai auditáló szervezet e törvény erejénél fogva kerül bejegyzésre a természetes személy energetikai szakreferensek vagy az energetikai szakreferens szervezetek névjegyzékébe.
+
+(22) Az energetikai auditorok vagy energetikai auditáló szervezetek névjegyzékében, valamint a természetes személy energetikai szakreferensek vagy az energetikai szakreferens szervezetek névjegyzékében egyidejűleg szereplő személy vagy szervezet kizárólag az energetikai auditorokra vagy energetikai auditáló szervezetekre vonatkozó nyilvántartási díjat köteles megfizetni. A névjegyzékből történő törlés esetén azonban a törlés feltételeinek fennállását külön-külön kell vizsgálni az energetikai auditorokra, az energetikai auditáló szervezetekre, a természetes személy energetikai szakreferensekre és az energetikai szakreferens szervezetekre vonatkozó szabályok figyelembevételével.
+
+21/C. § (1) Az energetikai szakreferens a 21/B. § (1) bekezdés a) pontja szerinti energetikai szakreferensi szolgáltatás létrejöttéről, valamint e szolgáltatást érintő változás bekövetkezésétől számított 30 napon belül a bekövetkezett változásról az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-a szerinti követelményeknek megfelelő hivatalos elérhetőségen keresztül (a továbbiakban: elektronikus úton) tájékoztatja a Hivatalt.
+
+(2) Az energetikai szakreferens a 21/B. § (1) bekezdés a) pontja szerint nyújtott szolgáltatás vonatkozásában a következő adatokat szolgáltatja a Hivatal számára:
+
+- a) az energetikai szakreferens neve,
+- b) az energetikai szakreferens névjegyzéki jelölése,
+- c) a szolgáltatást megrendelő gazdálkodó szervezet neve, székhelye, adószáma,
+- d) a jogviszony kezdő időpontja, jogviszony megszűnése esetén a megszűnés időpontja.
+
+(3)
+
+(4) A Hivatal kétszázezer forinttól kétmillió forintig terjedő bírsággal sújtja azt az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetet, amely a 21/B. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget.
 
 (5) A bírság ismételten kiszabható, az ismételt bírság legkisebb összege az előzőleg megállapított bírság 150%-a, legmagasabb összege hárommillió forint lehet.
 
-(6) A megyei, fővárosi kormányhivatal a bírság összegének megállapítása során figyelembe veszi
+(6) A Hivatal az (1) bekezdés szerinti kötelezettség nem teljesítése vagy nem megfelelő teljesítése esetén
 
-- a) a jogsértés súlyát;
-- b) a jogsértő állapot fennállásának időtartamát;
-- c) a jogsértéssel elért vagyoni előny mértékét;
-- d) a jogsértő piaci helyzetét, befolyását;
-- e) utolsó összevont (konszolidált) beszámoló szerinti, ennek hiányában a gazdálkodó szervezet nyilvántartása szerinti nettó árbevételét vagy mérlegfőösszegét;
-- f) a magatartás felróhatóságát;
-- g) korábbi jogsértő magatartást;
-- h) a jogsértő állapot megszüntetése érdekében kifejtett tevékenységet.
+- a) írásban kötelezi az energetikai szakreferenst az adatszolgáltatás teljesítésére vagy megfelelő teljesítésére és
+- b) 100 000 forintig terjedő bírságot szabhat ki, amely bírság ismételten kiszabható.
+
+(6a) Az (1) bekezdés szerinti kötelezettség késedelmes teljesítése esetén a Hivatal 100 000 forintig terjedő bírságot szabhat ki.
 
 (7) A Hivatal az energetikai szakreferensek igénybevételére vonatkozóan szolgáltatott adatok nyilvántartása, valamint ellenőrzési feladatainak ellátása céljából a jogviszony fennállása időszakában, majd annak megszűnését követő ötödik év végéig kezeli az energetikai szakreferensekre vonatkozóan az (1) bekezdés alapján szolgáltatott adatokat. Ezt követően a nyilvántartott adatot visszavonhatatlanul törli.
 
-(8) Az energetikai szakreferensek igénybevételére vonatkozóan szolgáltatott adatokat elektronikus úton kell vezetni, az azokban szereplő adatokat elektronikusan kell tárolni és feldolgozni. A nyilvántartásnak alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
+(8) Az energetikai szakreferensek igénybevételére vonatkozóan szolgáltatott adatokat elektronikusan kell vezetni, az azokban szereplő adatokat elektronikusan kell tárolni és feldolgozni. A nyilvántartásnak alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
+
+(9) A Hivatal megkeresésére
+
+- a) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 152. § (1) bekezdésében meghatározott kötelezett,
+- b) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 3. § 15. pontja szerinti engedélyes,
+- c) a Get. 125. § (17) bekezdése szerinti kötelezett,
+- d) a Get. 127. § s) pontjában meghatározott személy,
+- e) a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 3. § c) pontja szerinti engedélyes
+
+köteles a megkeresésben meghatározott tartalommal és formában, a Hivatal (4) bekezdés szerinti feladatának ellátásához szükséges adatot szolgáltatni.
+
+(10) Az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-tagállam) letelepedett és ott jogszerűen szolgáltatási tevékenységet folytató természetes személy és szervezet a Hivatal engedélye alapján láthat el Magyarországon – határon átnyúló szolgáltatásnyújtás keretében – energetikai szakreferensi tevékenységet. Az engedély határozatlan időre szól.
+
+(11) EGT-tagállamban letelepedett és ott jogszerűen szolgáltatási tevékenységet folytató természetes személy Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai szakreferensi tevékenységet akkor folytathat, ha megfelel a 21/B. § (4) bekezdésében meghatározott követelményeknek azzal, hogy mentesül a 21/B. § (4) bekezdés c) pontja szerinti szakmai vizsga, valamint a 21/B. § (5) bekezdése szerinti továbbképzés és megújító szakmai vizsga letétele alól.
+
+(12) EGT-tagállamban letelepedett és ott jogszerűen szolgáltatási tevékenységet folytató szervezet Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében energetikai szakreferensi tevékenységet a természetes személy energetikai szakreferensek névjegyzékében szereplő természetes személy vagy a (11) bekezdés szerint jogosult természetes személy igénybe vételével folytathat, ha vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban áll.
+
+(13) A határon átnyúló szolgáltatásnyújtás keretében Magyarország területén energetikai szakreferensi tevékenységet végző természetes személy és szervezet a működése során köteles betartani az energetikai szakreferensi tevékenység folytatására e törvényben és a végrehajtására kiadott rendeletekben meghatározott szabályokat.
+
+(14) A határon átnyúló szolgáltatás keretében energetikai szakreferensi tevékenység folytatására jogosult természetes személyekre és szervezetekre az e törvényben és e törvény végrehajtására kiadott rendeletekben a természetes személy energetikai szakreferensekre és energetikai szakreferens szervezetekre vonatkozó szabályokat kell alkalmazni.
+
+(15) A Hivatal a névjegyzéki jelöléssel rendelkező, határon átnyúló szolgáltatásnyújtás keretében energetikai szakreferensi tevékenység végzésére jogosult természetes személyt és gazdálkodó szervezetet a 21/B. § (3b) bekezdése szerinti névjegyzékbe felveszi.
 
 #### 17/C. A Nemzeti Energetikusi Hálózat
 
 21/D. § (1) A Nemzeti Energetikusi Hálózat célja a közintézmények – köztük az önkormányzatok –, valamint a vállalkozások energiahatékony működésének, valamint a lakosság energiafogyasztás-csökkentésének szakmai tanácsadással történő elősegítése.
 
 (2) A Nemzeti Energetikusi Hálózatot alkotó irodákban szakmai tanácsadást végző természetes személy az lehet, aki rendelkezik a jogszabályban meghatározott szakirányú végzettséggel és nem áll a szakterületének megfelelő tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+
+21/E. § (1) A Nemzeti Energetikusi Hálózat területileg illetékes irodája ellenőrzi a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épületek üzemeltetéséért és fenntartásáért felelős szervezetek e törvényben meghatározott energiahatékonysági feladatainak ellátását és mulasztás esetén haladéktalanul felhívja a szervezetet a kötelezettség teljesítésére.
+
+(2) A Hivatal
+
+- a) gondoskodik a Nemzeti Energetikusi Hálózatnál szakmai tanácsadást végző természetes személyek szakmai képzéséről;
+- b) a Nemzeti Energetikusi Hálózat e törvényben meghatározott feladatainak ellátásához szakmai jellegű útmutatót és iránymutatást dolgoz ki;
+- c) a Nemzeti Energetikusi Hálózat számára elérhető online felületet hoz létre a legjobb gyakorlatok, szakmai útmutatók, iránymutatások megosztása céljából;
+- d) a c) pont szerinti online felületen közzétett információval támogatja a Nemzeti Energetikus Hálózat ellenőrzési tevékenységét.
 
 ### VIII. Fejezet — AZ ENERGETIKAI AUDITÁLÁS
 
@@ -354,9 +463,15 @@ kell elérni.
 
 (4) A vállalkozáscsoport azon tagjának, amely önmagában kis- és középvállalkozásnak minősülne és az auditálás évét megelőző 3 évben az átlagos éves összes energiafogyasztása nem éri el a 3 GWh-t, nem kell kötelező energetikai auditálást lefolytatnia vagy a (2) bekezdés szerinti energiagazdálkodási rendszert működtetnie.
 
+(4a) Ha a nagyvállalat a (4) bekezdés szerinti mentesség igénybevételekor nem rendelkezik 3 teljes évre vonatkozó energiafogyasztási adatokkal, akkor a törtidőszakra vonatkozó fogyasztási adatait kell éves szintre vetíteni és ez alapján az éves fogyasztási átlagot megállapítani.
+
 (5) Nem kell külön energetikai auditálást lefolytatnia annak a nagyvállalatnak, amely egy vállalkozáscsoport tagja és a vállalkozáscsoport egészére vagy egy részére vonatkozó energetikai audit ezen nagyvállalatra is kiterjed.
 
 (6) Ha a nagyvállalat energetikai alapállapot felmérése során megállapították, hogy a valamely auditálandó részterület (épületek, folyamatok és szállítás) – tárgyévet megelőző 3 év átlagában – éves energiafelhasználása az összes éves energiafelhasználás 10 százalékát nem éri el, a részterület mentesül a kötelező auditálás alól.
+
+(7) Energetikai auditálás lefolytatása esetén a kötelező energetikai auditálás akkor minősül teljesítettnek, amikor a 23. § (1) bekezdése szerinti adatszolgáltatás a jogszabályoknak megfelelő módon megtörtént.
+
+(8) A (4) bekezdés szerinti mentesség igénybevételét a Hivatal számára be kell jelenteni.
 
 22/A. § (1) A nagyvállalatnak minősülő tulajdonos köteles elvégeztetni a kötelező energetikai auditálás keretében a tulajdonában álló épület vonatkozásában az energetikai auditot.
 
@@ -366,29 +481,33 @@ kell elérni.
 
 (4) Az energetikai auditálás elvégeztetése során az épület tulajdonosa és a bérlő köteles együttműködni.
 
-22/B. § (1) A nagyvállalatnak minden év június 30-áig a Hivatal honlapján erre a célra kialakított felületen regisztrálnia kell.
+22/B. § (1) A nagyvállalatnak minden év június 30-áig a Hivatalnál regisztrálnia kell.
 
 (2) Az (1) bekezdés szerinti kötelezettség nem teljesítése vagy nem megfelelő teljesítése esetén a Hivatal
 
-- a) határidő tűzésével írásban felszólítja a nagyvállalatot a kötelezettsége teljesítésére, és
+- a) határidő tűzésével írásban felszólítja a nagyvállalatot a kötelezettsége teljesítésére vagy megfelelő teljesítésére,
 - b) egymillió forintig terjedő bírságot szabhat ki.
+
+(2a) Az (1) bekezdés szerinti kötelezettség késedelmes teljesítése esetén a Hivatal 100 000 forintig terjedő bírságot szabhat ki.
 
 (3) A (2) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók. A bírság ismételten kiszabható.
 
-(4) A regisztráló nagyvállalat százezer forint regisztrációs díjat fizet a Hivatal részére. A regisztrációs díj a Hivatal bevételét képezi.
+(4) A regisztráló nagyvállalat a regisztrációval egyidejűleg százezer forint regisztrációs díjat fizet a Hivatal részére. A regisztrációs díj a Hivatal bevételét képezi.
 
 (5) A Hivatal a regisztráló nagyvállalatokról nyilvántartást vezet, amelyet a Hivatal honlapján közzétesz. A nyilvántartás tartalmazza a nagyvállalat cégnevét és székhelyét.
 
 (6) A regisztrációs díj köztartozásnak minősül és adók módjára kell behajtani.
 
-22/C. § (1) A nagyvállalat és – ha az energetikai szakreferenst igénybevételére köteles gazdálkodó szervezet nem minősül nagyvállalatnak – az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet a Hivatal részére adatszolgáltatást teljesít a tárgyévet megelőző évi energiafelhasználás mértékéről, valamint a megvalósult energiahatékonysági intézkedésekkel, fejlesztésekkel, üzemeltetési megoldásokkal kapcsolatos energiamegtakarítási adatokról.
+22/C. § (1) A nagyvállalat és – ha az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet nem minősül nagyvállalatnak – az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet a Hivatal részére adatszolgáltatást teljesít az adatszolgáltatás teljesítését közvetlenül megelőző naptári évre vonatkozó éves energiafelhasználás mértékéről, valamint a vizsgált évben megvalósult energiahatékonysági intézkedésekkel, fejlesztésekkel, a bevezetett üzemeltetési megoldásokkal kapcsolatos energiamegtakarítási adatokról.
 
 (2) Az adatszolgáltatási kötelezettség tartalmát és formáját, valamint teljesítésének határidejét a Hivatal elnöke rendeletben állapítja meg.
 
 (3) Az (1) bekezdés szerinti kötelezettség nem teljesítése vagy nem megfelelő teljesítése esetén a Hivatal
 
-- a) határidő tűzésével írásban felszólítja a nagyvállalatot vagy az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetet a kötelezettsége teljesítésére, és
+- a) határidő tűzésével írásban felszólítja a nagyvállalatot vagy az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetet a kötelezettsége teljesítésére vagy megfelelő teljesítésére,
 - b) egymillió forintig terjedő bírságot szabhat ki.
+
+(3a) Az (1) bekezdés szerinti kötelezettség késedelmes teljesítése esetén a Hivatal 100 000 forintig terjedő bírságot szabhat ki.
 
 (4) A (3) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók. A bírság ismételten kiszabható.
 
@@ -405,18 +524,20 @@ kell elérni.
 
 #### 19. Az energetikai auditálás elvégzésére vonatkozó adatszolgáltatás
 
-23. § (1) Az energetikai auditálás elvégzéséről az energetikai auditálás elvégzését követő 30 napon belül az energetikai auditornak és – ha az energetikai auditor energetikai auditáló szervezet keretében látja el tevékenységét – az energetikai auditáló szervezetnek a Hivatal elnökének rendeletében foglalt módon és tartalommal adatszolgáltatást kell teljesítenie.
+23. § (1) Az energetikai auditálás elvégzéséről az energetikai auditálás elvégzését követő 30 napon belül az energetikai auditornak és – ha az energetikai auditor energetikai auditáló szervezet keretében látja el tevékenységét – az energetikai auditáló szervezetnek a Hivatal elnökének rendeletében foglalt módon és tartalommal, elektronikus úton adatszolgáltatást kell teljesítenie.
 
-(2) Az energetikai auditornak és – ha az energetikai auditor energetikai auditáló szervezet keretében látja el tevékenységét – az energetikai auditáló szervezetnek évente a tárgyévet megelőző évi auditálási tevékenységéről a Hivatal elnökének rendeletében foglalt módon és tartalommal adatszolgáltatást kell teljesítenie.
+(2) Az energetikai auditornak és – ha az energetikai auditor energetikai auditáló szervezet keretében látja el tevékenységét – az energetikai auditáló szervezetnek az éves auditálási tevékenységéről a Hivatal elnökének rendeletében meghatározott határidőben, módon és tartalommal, elektronikus úton adatszolgáltatást kell teljesítenie.
 
 (3) Az (1) és (2) bekezdés szerinti kötelezettség nem teljesítése vagy nem megfelelő teljesítése esetén a Hivatal
 
-- a) írásban felszólítja az energetikai auditort vagy – ha az energetikai auditor energetikai auditáló szervezet keretében látja el tevékenységét – az energetikai auditáló szervezetet a kötelezettség teljesítésére és
+- a) írásban felszólítja az energetikai auditort vagy – ha az energetikai auditor energetikai auditáló szervezet keretében látja el tevékenységét – az energetikai auditáló szervezetet a kötelezettség teljesítésére vagy megfelelő teljesítésére
 - b) 100 000 forintig terjedő bírságot szabhat ki, amely bírság ismételten kiszabható.
+
+(4) Az (1) és (2) bekezdés szerinti kötelezettség késedelmes teljesítése esetén a Hivatal 100 000 forintig terjedő bírságot szabhat ki.
 
 #### 20. Az energetikai auditálás ellenőrzése
 
-24. § (1) A Hivatal az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint ellenőrzi a kötelező energetikai auditálás teljesítését és az energetikai audit jogszabályi feltételeknek való megfelelőségét.
+24. § (1) A Hivatal az e törvényben és végrehajtására kiadott kormányrendeletben meghatározottak szerint ellenőrzi a kötelező energetikai auditálás teljesítését – ideértve a mentesülési lehetőségek jogszerű igénybevételét – és energetikai audit jogszabályi feltételeknek való megfelelőségét.
 
 (2) A Hivatalt az ellenőrzés során tudomására jutott tényekre és adatokra nézve titoktartási kötelezettség terheli, azokról csak törvényben meghatározott szerv vagy személy részére nyújthat tájékoztatást.
 
@@ -424,11 +545,20 @@ kell elérni.
 
 (4) A Hivatal ellenőrzési tevékenységéhez a Nemzeti Adó- és Vámhivatal minden év augusztus 30-ig a Hivatal rendelkezésére bocsátja azon gazdálkodó szervezetek listáját, amelyek társasági adóbevallásukban tett nyilatkozatuk szerint a Kkvtv. alapján nem minősülnek mikro-, kis- és középvállalkozásnak.
 
-(5) A Hivatal éves ellenőrzési tervben határozza meg a tárgyévet megelőző évben elvégzett kötelező auditálás keretében létrejött energetikai auditok statisztikailag jelentős hányadát, amely vonatkozásában ellenőrzést végez.
+(4a) A Hivatal megkeresésére 21/C. § (9) bekezdés a)–e) pontjában meghatározott személy köteles a megkeresésben meghatározott tartalommal és formában, az (1) bekezdés szerinti feladat ellátása céljából adatot szolgáltatni.
+
+(4b) A Hivatal ellenőrzési tevékenységében nem vehet részt
+
+- a) az energetikai auditorok névjegyzékében szereplő személy, továbbá a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy,
+- b) az energetikai auditáló szervezetek névjegyzékében szereplő szervezet, továbbá az azzal társasági jogi kapcsolatban, munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy.
+
+(5) A Hivatal éves ellenőrzési tervben határozza meg az adott évet megelőző évben elvégzett kötelező auditálás keretében létrejött energetikai auditálások statisztikailag jelentős hányadát, amely vonatkozásában megfelelőségi ellenőrzést végez.
+
+(6) A Hivatal az energetikai auditálási kötelezettség teljesítésének ellenőrzése során a nagyvállalattól bekérhet a kötelezettség teljesítésével kapcsolatos bármely iratot, kapcsolódó dokumentációt, ideértve valamely mentesülési lehetőség igénybevételét igazoló iratot.
 
 25. § (1) Az energetikai auditálási kötelezettség nem teljesítése esetén a Hivatal
 
-- a) írásban felszólítja a nagyvállalatot a kötelezettség 180 napon belüli teljesítésére, és
+- a) írásban felszólítja a nagyvállalatot a kötelezettség 180 napon belüli teljesítésére,
 - b) 10 millió forintig terjedő bírságot szabhat ki.
 
 (2) Az (1) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók.
@@ -441,13 +571,13 @@ kell elérni.
 
 (3) Ha a Hivatal az ellenőrzés eredményeként megállapítja, hogy az energetikai audit nem felel meg a jogszabályban meghatározott feltételeknek, felhívja az energetikai auditort, energetikai auditáló szervezet által végzett auditálás esetében az energetikai auditáló szervezetet a feltárt hibák kijavítására. A feltárt hibát a Hivatal felhívásának kézhezvételétől számított 90 napon belül kell kijavítani.
 
-(4) A Hivatal az energetikai auditort vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezetet egymillió forintig terjedő, ismételten kiszabható bírsággal sújthatja, ha a feltárt hibát vagy hiányosságot felhívás ellenére a megadott határidőben nem javítja ki, vagy nem pótolja.
+(4) A Hivatal az energetikai auditort vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezetet egymillió forintig terjedő bírsággal sújthatja, ha a feltárt hibát vagy hiányosságot felhívás ellenére a megadott határidőben nem javítja ki, vagy nem pótolja.
 
-(5) A (4) bekezdés szerinti jogkövetkezmény alkalmazásával egyidejűleg a Hivatal az energetikai auditot érvénytelennek minősíti és ennek tényéről a nagyvállalatot értesíti. A nagyvállalatnak az értesítés kézhezvételétől számított 180 napon belül új, a jogszabálynak megfelelő energetikai auditálást kell elvégeztetnie.
+(5) A (4) bekezdés szerinti jogkövetkezmény alkalmazása helyett vagy mellett a Hivatal az energetikai auditot érvénytelennek minősíti és ennek tényéről a nagyvállalatot értesíti. A nagyvállalatnak az értesítés kézhezvételétől számított 180 napon belül új, a jogszabálynak megfelelő energetikai auditálást kell elvégeztetnie.
 
 (6) Ha az energetikai auditorral vagy energetikai auditáló szervezettel szemben 2 éven belül ismét a (4) bekezdés alapján bírság kiszabásának lenne helye, a Hivatal a bírság kiszabása helyett a névjegyzékből törléssel egyidejűleg megtilthatja az energetikai auditor vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezet számára az energetikai auditálási tevékenység folytatását. Erre az érintettet a (4) bekezdés szerinti bírság kiszabásakor figyelmeztetni kell.
 
-(7) Ha a nagyvállalat az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal a 25. § szerinti bírsággal sújthatja.
+(7) Ha a nagyvállalat az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal a 25. § szerinti bírsággal, vagy ismételt bírsággal sújthatja és a teljesítésre 30 napos határidőt szab.
 
 (8) A 23. § (3) bekezdésében, a 25. § (1) és (3) bekezdésében, az (1), (4), (6) és (7) bekezdésében meghatározott jogkövetkezmények alkalmazása során az alábbi szempontokat mérlegeli a Hivatal:
 
@@ -465,14 +595,20 @@ kell elérni.
 
 #### 21. Az energetikai auditálásra jogosult természetes személyek és szervezetek
 
-28. § (1) Az energetikai auditálási tevékenységet az a természetes személy folytathat, aki
+28. § (1) Energetikai auditálást mint energetikai auditor természetes személy vagy mint energetikai auditáló szervezet gazdálkodó szervezet folytathat. Az energetikai auditor és az energetikai auditáló szervezet a Hivatal engedélye alapján láthat el energetikai auditálási tevékenységet. Az engedély határozatlan időre szól.
+
+(1a) Ha a Hivatal az engedély iránti kérelem alapján megállapítja, hogy a kérelmező eleget tesz az e törvényben, valamint a végrehajtására kiadott kormányrendeletben meghatározott követelményeknek, a kérelmező számára engedélyezi az energetikai auditálási tevékenység folytatását, valamint az engedélyező határozat véglegessé válásával egyidejűleg névjegyzékbe veszi.
+
+(1b) Energetikai auditor az a természetes személy lehet, aki
 
 - a) büntetlen előéletű,
 - b) rendelkezik a jogszabályban meghatározott szakirányú végzettséggel,
 - c) rendelkezik az (5) bekezdés szerinti szakmai gyakorlattal,
 - d) valamely, a 24. alcím szerinti közreműködő szervezet által szervezett energetikai auditori szakmai vizsgát teljesítette,
-- e) az energetikai auditálási tevékenység folytatásának szándékát a Hivatalnak bejelentette, a regisztrációs díjat megfizette és
+- e) a regisztrációs díjat megfizette és
 - f) nem áll a (2) bekezdés szerinti tilalom alatt.
+
+(1c) A kérelmezőt az energetikai auditálási tevékenység megkezdésének és folytatásának joga nem illeti meg, ha a Hivatal a kérelem elbírálására irányadó ügyintési határidőt túllépte.
 
 (2) Az energetikai auditori névjegyzékből történő törléstől számított két évig nem folytathat energetikai auditálási tevékenységet az, aki számára a Hivatal
 
@@ -483,15 +619,15 @@ kell elérni.
 
 (4) A (3) bekezdésben meghatározott továbbképzésben résztvevőkről és a szakmai megújító vizsgát teljesítőkről a közreműködő szervezet értesti a Hivatalt. Ha az energetikai auditor a (3) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal haladéktalanul törli a névjegyzékből.
 
-(5) Szakmai gyakorlati időként az e törvény végrehajtási rendeletében a felsőfokú végzettségi szint szerint meghatározott időtartamú, meghatározott szakirányú szakképzettség megszerzését követően teljesített, energetikai területen végzett mérnöki szakmai gyakorlat fogadható el.
+(5) Szakmai gyakorlati időként az e törvény végrehajtási rendeletében a felsőfokú végzettségi szint szerint meghatározott időtartamú, meghatározott szakirányú szakképzettség megszerzését igazoló oklevél kiállítását követően teljesített, energetikai területen végzett mérnöki szakmai gyakorlat fogadható el.
 
 29. § (1) Energetikai auditálási tevékenységet az a gazdálkodó szervezet folytathat,
 
-- a) amelynek van az energetikai auditori névjegyzékben szereplő energetikai auditor tagja vagy alkalmazottja, aki a szervezet nevében az energetikai auditálási tevékenységet végzi,
-- b) amely az energetikai auditálási tevékenység folytatásának szándékát a Hivatalnak bejelentette, a regisztrációs díjat megfizette és
+- a) amely az energetikai auditori névjegyzékben szereplő energetikai auditorral munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban áll,
+- b) amely a regisztrációs díjat megfizette és
 - c) amely nem áll a (3) bekezdés szerinti tilalom alatt.
 
-(1a) Az energetikai auditori névjegyzékben szereplő energetikai auditor kizárólag egy energetikai auditáló szervezetnek lehet az (1) bekezdés a) pont szerinti tagja vagy alkalmazottja. Ha a gazdálkodó szervezet e szabály megsértésével kéri névjegyzékbe vételét, a névjegyzékbe vételi kérelmet határozattal el kell utasítani.
+(1a) Az energetikai auditori névjegyzékben szereplő energetikai auditor kizárólag egy energetikai auditáló szervezettel állhat az (1) bekezdés a) pont szerinti jogviszonyban.
 
 (2) Az energetikai auditáló szervezet felelősségére az energetikai auditor energetikai auditálással kapcsolatos, e törvényben meghatározott felelősségére vonatkozó szabályokat kell alkalmazni.
 
@@ -502,22 +638,22 @@ kell elérni.
 
 (4) Energetikai auditálási tevékenységre irányuló szolgáltatást kizárólag a névjegyzékben szereplő energetikai auditor vagy energetikai auditáló szervezet és a nagyvállalat, vagy a nagyvállalat vonatkozásában a nagyvállalat vállalkozáscsoportjába tartozó egyéb vállalkozás között közvetlenül létrejött szerződés alapján lehet nyújtani.
 
-30. § (1) Az energetikai auditálási tevékenység folytatásának szándékára vonatkozó bejelentést a Hivatal felé, a regisztrációs díj egyidejű megfizetésével, kell megtenni.
+30. § (1) Az energetikai auditálási tevékenység folytatására irányuló kérelem benyújtásával egyidejűleg a regisztrációs díj megfizetését is igazolni kell a Hivatal felé.
 
-(2) A bejelentéshez csatolni kell az energetikai auditálási tevékenység folytatásához szükséges feltételek fennállását igazoló iratokat.
+(2) A kérelemhez csatolni kell az energetikai auditálási tevékenység folytatásához szükséges feltételek fennállását igazoló iratokat.
 
 31. § A Hivatal névjegyzéket vezet a véglegessé vált határozat útján névjegyzéki jelöléssel rendelkező energetikai auditorokról és energetikai auditáló szervezetekről.
 
 32. § (1) A névjegyzék az energetikai auditorra vonatkozó következő adatokat tartalmazza:
 
-- a) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolgtv.) 22. § (1) bekezdés a)–c) pontjában foglalt adatok,
+- a) a Szolgtv. 26. § (2) bekezdés a)–d) pontjában meghatározott adatok,
 - b) anyja születési neve,
 - c) születési helye és ideje,
 - d) elérhetőségi adatok (postacím, telefonszám, elektronikus levélcím, az energetikai auditor által megadott egyéb elérhetőségi adat),
-- e) nyelvismeret (nyelv, nyelvtudás foka),
-- f) szakirányú iskolai végzettség és szakmai képesítés a megszerzés időpontjával,
+- e) államilag elismert nyelvvizsga bizonyítvánnyal igazolt nyelvismeret (nyelv, nyelvtudás szintje),
+- f) szakirányú iskolai végzettség, és szakmai képesítés megszerzését igazoló oklevél kiállításának időpontja,
 - g) igazolt szakmai gyakorlat jellege,
-- h) a bejelentés időpontja,
+- h) a tevékenység folytatása iránti kérelem benyújtásának időpontja,
 - i) a névjegyzékbe vétel és a névjegyzékből törlés időpontja,
 - j) névjegyzéki jelölés,
 - k) szakmai vizsga kelte és a teljesítéséről szóló igazolás kiállítója,
@@ -526,32 +662,36 @@ kell elérni.
 - n) adatváltozás bejelentés időpontja,
 - o) a Hivatal által megállapított szankció, bírság.
 
-(2) A névjegyzék az (1) bekezdés g)–o) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(2) A névjegyzék az (1) bekezdés a) pontjában szereplő adatok közül az energetikai auditálási tevékenység megjelölésére vonatkozó adat, az engedély száma, a tevékenység megkezdésének és folytatásának területi és időbeli korlátjára vonatkozó adat, és az (1) bekezdés g)–o) pontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartás.
 
-(3) A névjegyzék (1) bekezdés a) pontjában szereplő adatok közül a név és az energetikai auditori tevékenység megjelölésére vonatkozó adat, valamint a d)–o) pontjában foglalt adatai nyilvánosak, azokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi. A névjegyzék többi adata nem nyilvános, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás.
+(3) A névjegyzék az (1) bekezdés a) pontjában szereplő adatok közül a név és az energetikai auditálási tevékenység megjelölésére vonatkozó adat, az engedély száma, a tevékenység megkezdésének és folytatásának területi és időbeli korlátjára vonatkozó adat, valamint az (1) bekezdés d)–o) pontjában foglalt adat nyilvános. A nyilvános adatokat a Hivatal az energiahatékonysági tájékoztató honlapon közzéteszi.
 
 (4) Az energetikai auditor a bekövetkezéstől számított 8 napon belül köteles bejelenteni a Hivatalnak a névjegyzékben nyilvántartott adatai tekintetében bekövetkezett változást.
 
-(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai auditor kéri – a (4) bekezdés szerinti határidőben értesíti a regisztráló szervezetet.
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai auditor kéri – a (4) bekezdés szerinti határidőben értesíti a Hivatalt.
 
 (5) Ha az energetikai auditor a (4) bekezdésben meghatározott kötelezettségét nem teljesíti, a Hivatal a kötelezettség teljesítésére írásban felszólítja és 100 000 forintig terjedő bírsággal sújthatja. A bírság ismételten kiszabható.
 
-(6) Az energetikai auditort törölni kell a névjegyzékből a Szolgtv. 28. § a) és b) pontjában foglalt esetben, valamint ha az energetikai auditor meghalt.
+(6) Az energetikai auditort törölni kell a névjegyzékből
 
-(7) A Hivatal az energetikai auditor számára megtiltja az energetikai auditálási tevékenység folytatását
+- a) ha a Hivatal az energetikai auditálási tevékenység folytatását megtiltotta,
+- b) ha a tevékenysége megszüntetését bejelentette,
+- c) ha az energetikai auditor meghalt, vagy
+- d) a Szolgtv. 26. § (3) bekezdésében foglalt esetben.
 
-- a) ha megállapítja, hogy a tevékenység folytatásának valamely feltétele a bejelentés időpontjában sem állt fenn vagy utóbb megszűnt,
-- b) ha valamely, e törvény szerinti kötelezettségét bírságolás ellenére sem teljesítette, vagy
-- c) az energetikai audit ellenőrzésének eredményeként a 26. § (6) bekezdésében meghatározott esetben.
+(7) A Hivatal az energetikai auditor auditálási tevékenységét megtiltja, ha
+
+- a) megállapítja, hogy a tevékenység folytatásának valamely feltétele a tevékenység folytatására irányuló kérelem benyújtásának időpontjában sem állt fenn, vagy
+- b) az energetikai auditor e törvény szerinti valamely kötelezettségét bírságolás vagy ismételt bírságolás ellenére sem teljesítette.
 
 33. § (1) A névjegyzék az energetikai auditáló szervezet következő adatait tartalmazza:
 
-- a) a Szolgtv. 22. § (1) bekezdés a)–c) pontjában foglalt adatok,
+- a) a Szolgtv. 26. § (2) bekezdés a)–d) pontjában meghatározott adatok,
 - b) cégjegyzékszám vagy nyilvántartást vezető hatóság neve és nyilvántartási szám,
 - c) a vezető tisztségviselő neve,
 - d) elérhetőségi adatai (postacím, telefonszám, elektronikus levélcím, az energetikai auditáló szervezet által megadott egyéb elérhetőségi adat),
-- e) energetikai auditor tagjának vagy alkalmazottjának neve,
-- f) a bejelentés időpontja,
+- e) az energetikai auditáló szervezettel munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban álló energetikai auditor neve,
+- f) a tevékenység folytatása iránti kérelem benyújtásának időpontja,
 - g) a névjegyzékbe vétel és a névjegyzékből törlés időpontja,
 - h) névjegyzéki jelölés,
 - i) adatváltozás bejelentés időpontja,
@@ -563,17 +703,21 @@ kell elérni.
 
 (4) Az energetikai auditáló szervezet a bekövetkezéstől számított 8 napon belül köteles bejelenteni a Hivatalnak a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
 
-(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai auditáló szervezet kéri – a (4) bekezdés szerinti határidőben értesíti a regisztráló szervezetet.
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai auditáló szervezet kéri – a (4) bekezdés szerinti határidőben értesíti a Hivatalt.
 
 (5) Ha az energetikai auditáló szervezet a (4) bekezdésben meghatározott kötelezettségét nem teljesíti, a Hivatal a kötelezettség teljesítésére írásban felszólítja és 100 000 forintig terjedő bírsággal sújthatja. A bírság ismételten kiszabható.
 
-(6) Az energetikai auditáló szervezetet a névjegyzékből törölni kell a Szolgtv. 28. § a) és b) pontjában foglalt esetben, valamint ha az energetikai auditáló szervezet megszűnt.
+(6) Az energetikai auditáló szervezetet a névjegyzékből törölni kell
 
-(7) A Hivatal az energetikai auditáló szervezet számára megtiltja az energetikai auditálási tevékenység folytatását
+- a) ha a Hivatal az energetikai auditálási tevékenység folytatását megtiltotta,
+- b) ha a tevékenysége megszüntetését bejelentette,
+- c) ha az energetikai auditáló szervezet megszűnt, vagy
+- d) a Szolgtv. 26. § (3) bekezdésében meghatározott esetben.
 
-- a) ha megállapítja, hogy a tevékenység folytatásának valamely feltétele a bejelentés időpontjában sem állt fenn vagy utóbb megszűnt,
-- b) ha valamely e törvény szerinti kötelezettségét bírságolás ellenére sem teljesítette, vagy
-- c) az energetikai audit ellenőrzésének eredményeként a 26. § (6) bekezdésében meghatározott esetben.
+(7) A Hivatal az energetikai auditáló szervezet auditálási tevékenységét megtiltja, ha
+
+- a) megállapítja, hogy a tevékenység folytatásának valamely feltétele a tevékenység folytatása iránti kérelem benyújtásának időpontjában sem állt fenn, vagy
+- b) az energetikai auditáló szervezet e törvény szerinti valamely kötelezettségét bírságolás vagy ismételt bírságolás ellenére sem teljesítette.
 
 34. § (1) A névjegyzékbe vételt követően az energetikai auditor és az energetikai auditáló szervezet köteles éves nyilvántartási díjat fizetni a Hivatal számára.
 
@@ -597,33 +741,19 @@ kell elérni.
 
 #### 22. Határon átnyúló energetikai auditálási szolgáltatásnyújtás
 
-35. § (1) Az EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor vagy energetikai auditáló szervezet az energetikai auditálás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a Hivatalnak bejelenteni.
+35. § (1) Az EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor vagy energetikai auditáló szervezet a Hivatal engedélye alapján láthat el Magyarországon határon átnyúló szolgáltatásnyújtás keretében energetikai auditálási tevékenységet. Az engedély határozatlan időre szól.
 
-(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai auditálási tevékenységet akkor folytathat, ha megfelel a 28. § (1) bekezdésében foglalt követelményeknek azzal, hogy nem kell teljesítenie a 28. § (3) bekezdése szerinti éves továbbképzést és 39. § szerinti megújító szakmai vizsgát.
+(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai auditálási tevékenységet akkor folytathat, ha megfelel a 28. § (1) bekezdésében foglalt követelményeknek azzal, hogy nem kell teljesítenie a 28. § (1) bekezdés d) pontja szerinti szakmai vizsgát, valamint a 28. § (3) bekezdése szerinti továbbképzést és megújító szakmai vizsgát.
 
-(3) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditáló szervezet Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében energetikai auditálási tevékenységet az energetikai auditorok névjegyzékében szereplő vagy Magyarország területén energetikai auditálásra a (2) bekezdés szerint jogosult tagja vagy alkalmazottja útján folytathatja.
+(3) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditáló szervezet Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében energetikai auditálási tevékenységet az energetikai auditorok névjegyzékében szereplő vagy Magyarország területén energetikai auditálásra a (2) bekezdés szerint jogosult, a vele munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban álló energetikai auditor útján folytathatja.
 
 (4) A határon átnyúló szolgáltatásnyújtás keretében Magyarország területén energetikai auditálási tevékenységet végző személy és szervezet a működése során köteles betartani az energetikai auditálási tevékenység folytatására e törvényben és a végrehajtására kiadott rendeletekben meghatározott szabályokat.
 
 (4a) A határon átnyúló szolgáltatás keretében energetikai auditálási tevékenység folytatására jogosult személyekre és szervezetekre megfelelően alkalmazni kell az e törvényben és a végrehajtására kiadott rendeletekben az energetikai auditorokra és energetikai auditáló szervezetekre meghatározott szabályokat.
 
-(5) A Hivatal a határon átnyúló szolgáltatás nyújtását bejelentő személyekről és szervezetekről névjegyzéket vezet a 32. § (1) bekezdése, valamint a 33. § (1) bekezdése szerinti adattartalommal, amelynek a következő adatait az energiahatékonysági tájékoztató honlapon közzéteszi:
+(5) A Hivatal a névjegyzéki jelöléssel rendelkező, határon átnyúló szolgáltatásnyújtás keretében energetikai auditálási tevékenység végzésére jogosult természetes személyt és gazdálkodó szervezetet a 28. § (1a) bekezdése szerinti névjegyzékbe felveszi.
 
-- a) az energetikai auditor
-  - aa) családi neve és utóneve,
-  - ab) elérhetőségi adatai (postacím, telefonszám, elektronikus levélcím, az energetikai auditor által megadott egyéb elérhetőségi adat),
-  - ac) nyelvismerete (nyelv, nyelvtudás foka),
-  - ad) bejelentésének időpontja,
-- b) az energetikai auditáló szervezet
-  - ba) elnevezése,
-  - bb) székhelye,
-  - bc) cégjegyzékszáma vagy nyilvántartást vezető hatóság neve és nyilvántartási száma,
-  - bd) vezető tisztségviselőjének neve,
-  - be) elérhetőségi adatai (postacím, telefonszám, elektronikus levélcím, az energetikai auditáló szervezet által megadott egyéb elérhetőségi adat),
-  - bf) energetikai auditálást végző természetes személy tagjának vagy alkalmazottjának neve,
-  - bg) bejelentésének időpontja és ha az 5 évnél rövidebb időre szól, lejártának időpontja.
-
-(6) Az (5) bekezdés szerinti névjegyzékből történő törlésre az energetikai auditor és energetikai auditáló szervezet névjegyzékből történő törlésére vonatkozó szabályokat kell alkalmazni azzal, hogy a névjegyzékből akkor is törölni kell a bejelentőt, ha a határozott időre szóló bejelentés lejárt.
+(6)
 
 #### 23. Harmadik ország energetikai auditálást végző szolgáltatói
 
@@ -640,7 +770,7 @@ kell elérni.
 (4) A Hivatal a közreműködő szervezet engedélyét visszavonja, ha a közreműködő szervezet
 
 - a) nem felel meg e törvényben, valamint végrehajtására kiadott kormányrendeletben meghatározott követelményeknek,
-- b) e törvény szerinti kötelezettségeit felszólítás ellenére sem teljesíti vagy
+- b) e törvény és a végrehajtására kiadott jogszabályok kötelezettségeit felszólítás ellenére sem teljesíti vagy
 - c) bejelenti közreműködő szervezeti tevékenysége megszüntetését.
 
 (5) Az engedély hatályát veszti:
@@ -661,15 +791,15 @@ kell elérni.
 - b) székhelyét,
 - c) levelezési címét, valamint a közreműködő szervezet által megjelölt egyéb elérhetőségi adatait,
 - d) engedélye kiadásának, visszavonásának, hatályvesztésének időpontját,
-- e) részére engedélyezett szolgáltatási tevékenység megjelöléseként az „energetikai auditorokkal kapcsolatos közreműködői tevékenység” megjelölést.
+- e) részére engedélyezett szolgáltatási tevékenység megjelöléseként az „energetikai auditorokkal és energetikai szakreferensekkel kapcsolatos közreműködői tevékenység” megjelölést.
 
 (2) A nyilvántartás – az (1) bekezdés a) és b) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül. A nyilvántartás adatai nyilvánosak, amelyeket a Hivatal közzétesz az energiahatékonysági tájékoztató honlapon.
 
 (3) A Hivatal törli a közreműködő szervezetet a nyilvántartásból, ha az engedélye hatályát veszti.
 
-39. § (1) Az energetikai auditálási tevékenység folytatásához szükséges szakmai vizsgát, szakmai megújító vizsgát és továbbképzést a közreműködő szervezet jelentkező esetén legalább negyedévente megszervezi és a vizsga, megújító vizsga, valamint a továbbképzés teljesítéséről az igazolást kiállítja.
+39. § (1) Az energetikai auditálási és energetikai szakreferensi tevékenység folytatásához szükséges szakmai vizsgát, szakmai megújító vizsgát és továbbképzést a közreműködő szervezet jelentkező esetén legalább negyedévente megszervezi és a vizsga, megújító vizsga, valamint a továbbképzés teljesítéséről az igazolást kiállítja.
 
-(2) A közreműködő szervezet az energetikai auditorok által teljesítendő szakmai vizsga és megújító vizsga tartalmáról és eljárásrendjéről szabályzatot (a továbbiakban: vizsgaszabályzat) dolgoz ki, amelynek elfogadása és módosítása a Hivatal jóváhagyásához kötött. A Hivatal felügyeli a szakmai vizsga és megújító vizsga lebonyolítását. A Hivatal a szabályzatot jóváhagyja, ha az megfelel a (7)–(9) bekezdésben foglaltaknak.
+(2) A közreműködő szervezet az energetikai auditorok és energetikai szakreferensek által teljesítendő szakmai vizsga és megújító vizsga tartalmáról és eljárásrendjéről szabályzatot (a továbbiakban: vizsgaszabályzat) dolgoz ki, amelynek elfogadása és módosítása a Hivatal jóváhagyásához kötött. A Hivatal felügyeli a szakmai vizsga és megújító vizsga lebonyolítását. A Hivatal a szabályzatot jóváhagyja, ha az megfelel a (7)–(9) bekezdésben foglaltaknak.
 
 (3) A szakmai vizsgát és megújító vizsgát megelőzően a vizsgázók felkészítő tanfolyamon vehetnek részt. A közreműködő szervezetnek a vizsgára felkészítő tanfolyamot meg kell hirdetnie és jelentkező esetén a tanfolyamot évente legalább egy alkalommal le kell folytatnia.
 
@@ -706,11 +836,15 @@ kell elérni.
 
 (11) A Hivatal részéről jóváhagyott szabályzatot a közreműködő szervezetnek honlapján közzé kell tennie és ismertetnie kell a továbbképzés és szakmai vizsga során a résztvevőkkel. A résztvevők a szabályzat megismeréséről írásban nyilatkoznak.
 
+(12) A szakmai vizsga, a megújító szakmai vizsga és a továbbképzés díjának mértékét a Hivatal elnöke rendeletben határozza meg.
+
+(13) Ha a közreműködő szervezet a (12) bekezdés szerinti díjtól eltérő díjat alkalmaz, a Hivatal a 37. § (4) bekezdés b) pontja szerint jár el.
+
 #### 25. A névjegyzék vezetésének és a közreműködő szervezetek nyilvántartásának, az adatok kezelésének közös szabályai
 
-40. § (1) A Hivatal az energetikai auditorok és energetikai auditáló szervezetek bejelentéseinek intézése, névjegyzékének vezetése, a közreműködő szervezetek nyilvántartásának vezetése, valamint az e törvény szerinti ellenőrzési feladatainak ellátása céljából kezeli
+40. § (1) A Hivatal az energetikai auditorok és energetikai auditáló szervezetek, valamint a természetes személy energetikai szakreferensek és az energetikai szakreferens szervezetek engedélyezése, névjegyzékének vezetése, a közreműködő szervezetek nyilvántartásának vezetése, valamint az e törvény szerinti ellenőrzési feladatainak ellátása céljából kezeli
 
-- a) az energetikai auditorok és az energetikai auditáló szervezetek névjegyzékében szereplő adatokat, valamint a bejelentéseikben szereplő adatokat,
+- a) az energetikai auditorok és az energetikai auditáló szervezetek névjegyzékében szereplő adatokat, valamint a tevékenység engedélyezésére irányuló kérelemben szereplő adatokat,
 - b) az energetikai auditálás elvégzésére vonatkozó adatszolgáltatásból származó adatokat,
 - c) az energetikai auditálás ellenőrzése során beszerzett adatokat,
 - d) a közreműködő szervezetek nyilvántartásában szereplő adatokat, valamint a közreműködő szervezeti tevékenység végzésére jogosító engedély kiadása és visszavonása során tudomására jutott adatokat,
@@ -718,7 +852,7 @@ kell elérni.
 
 (2) A Hivatal a névjegyzékbe vétel megtagadása esetén a megtagadás véglegessé válásáig, valamint a névjegyzékből és a közreműködő szervezetek nyilvántartásából történő törlés időpontjától számított tíz év elteltéig gondoskodik az (1) bekezdés szerinti adatok megőrzéséről. A Hivatal köteles az adatokat a határidő lejártát követő 15 napon belül visszavonhatatlanul törölni.
 
-41. § (1) A közreműködő szervezet az energetikai auditorok képzésével, továbbképzésével, valamint az energetikai auditori szakmai vizsgák, megújító vizsgák megszervezésével és lebonyolításával összefüggő feladatai ellátása céljából kezeli
+41. § (1) A közreműködő szervezet az energetikai auditorok és energetikai szakreferensek képzésével, valamint szakmai vizsgák, megújító vizsgák megszervezésével és lebonyolításával összefüggő feladatai ellátása céljából kezeli
 
 - a) a képzésekre, továbbképzésekre jelentkező személyek személyes adatait (név, lakcím),
 - b) az energetikai auditori szakmai vizsgával és megújító vizsgával kapcsolatban beszerzett adatokat.
@@ -727,7 +861,7 @@ kell elérni.
 
 42. § Az adatkezelők által kezelt személyes adatokat az adatkezelő és az adatfeldolgozó korlátozás nélkül, egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával ismerhetik meg.
 
-43. § (1) A névjegyzéket és a közreműködő szervezetek nyilvántartását elektronikus úton kell vezetni, az azokban szereplő adatokat elektronikusan kell tárolni és feldolgozni.
+43. § (1) A névjegyzéket és a közreműködő szervezetek nyilvántartását elektronikusan kell vezetni, az azokban szereplő adatokat elektronikusan kell tárolni és feldolgozni.
 
 (2) A névjegyzéknek és a közreműködő szervezetek nyilvántartásának alkalmasnak kell lennie a bekövetkezett változások folyamatos követésére és a nyilvántartásból történő elektronikus adatszolgáltatásra.
 
@@ -747,15 +881,15 @@ kell elérni.
 - h) a 7. § f) pontja szerinti költség-haszon elemzésre kötelezettek körét, a költség-haszon elemzéssel érintettek jogait és kötelezettségeit, a költség-haszon elemzés jóváhagyásának és a költség-haszon elemzéssel kapcsolatos mentesség részletes szabályait, valamint a költség-haszon elemzés módszertanának kialakítása érdekében a Hivatal részére történő adatszolgáltatás részletes szabályait,
 - i) az energetikai auditra vonatkozó minimális tartalmi követelményeket és az energetikai auditálási tevékenység folytatásának részletes szabályait,
 - j) az energetikai auditok ellenőrzésére, valamint a kötelező energetikai auditálás teljesítésének ellenőrzésére vonatkozó szabályokat,
-- k) az energetikai auditorok és energetikai auditáló szervezetek energetikai auditálási tevékenység folytatására vonatkozó bejelentésének, valamint névjegyzékbe vételének részletes szabályait,
+- k) az energetikai auditálási és az energetikai szakreferensi tevékenység engedélyezésére irányuló kérelem, valamint a névjegyzékbe vétel részletes szabályait,
 - l) a közreműködő szervezetekkel szemben támasztott engedélyezési követelményeket, az engedély kiadásának és visszavonásának általános eljárási szabályait, a közreműködő szervezetek tevékenységének végzésére vonatkozó szabályokat,
 - m) Magyarországnak az Európai Bizottság felé teljesítendő energiahatékonysági jelentéstételi, értékeléskészítési és adatszolgáltatási kötelezettségének teljesítésére vonatkozó részletes szabályokat,
 - n) az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket,
 - o) a 7. § f) pontja szerinti költség-haszon elemzéssel kapcsolatos kötelezettségek megszegése esetén a kiszabható bírság mértékét,
 - p) a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számlázással és a felhasználók tájékoztatásával kapcsolatos rendelkezéseket, a felek jogait és kötelezettségeit;
-- q) az energetikai szakreferens igénybevételére köteles nagyvállalat energiafogyasztási szintjére, az energetikai szakreferens által ellátandó tevékenységre, a természetes személy energetikai szakreferens szükséges szakmai képesítésére és gyakorlatára, a szakreferens igénybevételével kapcsolatos adatszolgáltatási kötelezettségre, valamint az energetikai szakreferens tevékenységével kapcsolatos jelentéstételre – ide nem értve a személyes adatokat – vonatkozó részletes szabályokat,
+- q) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezet energiafogyasztási szintjére, az energetikai szakreferens által ellátandó tevékenységre, a természetes személy energetikai szakreferens szükséges szakmai képesítésére és gyakorlatára, a szakreferens igénybevételével kapcsolatos adatszolgáltatási kötelezettségre, valamint az energetikai szakreferens tevékenységével kapcsolatos jelentéstételre – ide nem értve a személyes adatokat – vonatkozó részletes szabályokat,
 - r) a Nemzeti Energetikusi Hálózat irodáit működtető szervezet kijelölését, a Nemzeti Energetikusi Hálózat által alkalmazható, szakmai tanácsadást végző természetes személyek szakmai végzettségére vonatkozó követelményeket, az irodák illetékességi területét, valamint a szakmai tanácsadásra vonatkozó részletes szabályokat,
-- s) a közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
+- s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 45. § Felhatalmazást kap az energiapolitikáért felelős miniszter arra, hogy
 
@@ -767,10 +901,10 @@ kell elérni.
 
 - a) a 7. § f) pontja szerinti költség-haszon elemzés módszertanát és a költség-haszon elemzés elkészítésének követelményeit,
 - b) a nem kötelező energetikai audit ellenőrzéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
-- c) az energetikai auditorok és energetikai auditáló szervezetek által fizetendő regisztrációs és nyilvántartási díj összegére, megfizetésének módjára és visszatérítésére vonatkozó szabályokat,
+- c) az energetikai auditorok és energetikai auditáló szervezetek, valamint a természetes személy energetikai szakreferensek és energetikai szakreferens szervezetek által fizetendő regisztrációs és nyilvántartási díj összegére, megfizetésének módjára és visszatérítésére vonatkozó szabályokat,
 - d) a 22/C. § (1) bekezdésében meghatározott adatszolgáltatásra kötelezettek által szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét,
 - e) a 23. § (1) és (2) bekezdésében meghatározott adatszolgáltatás keretében szolgáltatandó – személyes adatnak nem minősülő – adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség teljesítésének határidejét,
-- f) a közreműködő szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját,
+- f) a közreműködő szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját, a szakmai vizsga, a megújító szakmai vizsga és a továbbképzés díjának mértékét,
 - g) az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontját rendeletben állapítsa meg.
 
 #### 27. Hatályba léptető rendelkezések
@@ -804,6 +938,10 @@ kell elérni.
 (11) E törvénynek a Mód. Tv. által módosított 22. § (1b) bekezdését a 2015. december 5-ét követően létrejövő nagyvállalat, vagy nagyvállalattá minősülő vállalkozás esetében is alkalmazni kell.
 
 (12) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+(13) A Hivatal 2019. december 31-ig nem kezdeményezi bírság kiszabását a 21/B. § (1) bekezdés b) pontja szerinti almérő felszerelésére vonatkozó kötelezettség elmulasztása esetén.
+
+(14) Energetikai szakreferens tevékenységét névjegyzékbe vétel nélkül legkésőbb 2019. június 30-ig végezheti.
 
 #### 29. Jogharmonizációs záradék
 
